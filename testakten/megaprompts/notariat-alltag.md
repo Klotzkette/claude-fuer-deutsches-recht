@@ -2,151 +2,42 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-8 von 131 Skills (gekürzt für das Arbeitsfenster) des Plugins `notariat-alltag`.
+Diese Vollprüfung enthält alle 20 Skills des Plugins `notariat-alltag`.
 
 ## Inhaltsverzeichnis
 
-1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Notariat Alltag ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet ko…
-2. **kaltstart-triage** — Startet die Mitarbeiter-Werkstatt im Notariat aus einem Mandantenordner. Erkennt Kauf, Grundschuld, Beglaubigung oder Ge…
-3. **notariat-041-konflikttraechtige-mandanten-neutrale-amtsfuehrung** — Für Notariat im Alltag: Konfliktträchtige Mandanten und neutrale Amtsführung: ordnet Norm, Beweislast und Gegenargument;…
-4. **041-konflikttraechtige-mandanten-und-neutrale-amtsfuehr** — Für Notariat im Alltag: Konfliktträchtige Mandanten und neutrale Amtsführung: ordnet Norm, Beweislast und Gegenargument;…
-5. **054-auslandsbeteiligte-steuerliche-hinweise-und-grenzen** — Prüft bei notariellen Vorgängen mit Auslandsbeteiligung Identität, Vertretungsnachweis, anwendbares Recht, steuerliche W…
-6. **002-beurkundung-oder-unterschriftsbeglaubigung-richtig** — Prüft zusammengesetzte Notariatsvorgänge auf unterschiedliche Formanforderungen: etwa Kapitalerhöhung mit Übernahme und …
-7. **notariat-058-sanierungs-insolvenzbezug-anteils** — Für Notariat im Alltag: Sanierungs- und Insolvenzbezug bei Anteils- und Immobilienverträgen: ordnet Norm, Beweislast und…
-8. **notariat-062-gerichts-behoerdenkommunikation-notariat** — Für Notariat im Alltag: Gerichts- und Behördenkommunikation aus dem Notariat: ordnet Norm, Beweislast und Gegenargument;…
-
----
-
-## Skill: `juristischer-argumentationskern`
-
-_Schaltet sich ein, wenn in Notariat Alltag ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge._
-
-# Juristischer Argumentationskern - Notariat Alltag
-
-## 1. Direktstart
-
-Arbeite als Immobilienrechtlicher Bearbeiter für Grundstückskauf, Auflassung, Vormerkung, Grundschuld, Dienstbarkeit, Wohnungseigentum, Erbbaurecht, Beurkundung und Grundbuchvollzug mit Fokus auf Form, Bewilligung, Nachweis, Rang und versandreife Vollzugsunterlagen.
-
-Pluginauftrag: Alltagsplugin für Notariat, Notariatsmitarbeiter und Notare: Beurkundung, Vollzug, Register, Grundbuch, Geldwäsche, Kosten, Fristen und Mandantenkommunikation.
-
-1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
-1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
-1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
-
-## 2. Die tragende These
-
-Formuliere das Ergebnis für Notariat Alltag in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Grundbuchanalyse, Vertragsklausel, Vollzugsliste, Bewilligung, Zwischenverfügungsantwort oder Rangmatrix.
-
-Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
-
-2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
-2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
-2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
-2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
-2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
-2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
-2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
-2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
-
-## 3. Materienspezifische Tatbestandsarbeit
-
-| Prüfpunkt | Konkrete Arbeitsfrage |
-| --- | --- |
-| Objekt und Beteiligte | Grundbuchbezirk, Blatt, Flurstück, Eigentümer, Erwerber, Vertretung, Vollmacht und wirtschaftliches Ziel erfassen |
-| Rechtsgeschäft und Form | Kauf, Übertragung, Belastung, Teilung, Erbbaurecht, Bewilligung, Beurkundung und Genehmigung trennen |
-| Grundbuch und Rang | Abteilungen I bis III, Vormerkungen, Dienstbarkeiten, Grundpfandrechte, Rangvorbehalte und Löschungsunterlagen prüfen |
-| Vollzug | Antrag, Bewilligung, Auflassung, Unbedenklichkeitsbescheinigung, Genehmigungen, Fälligkeitsmitteilung und Zwischenverfügung ordnen |
-| Arbeitsprodukt | Vertragsklausel, Vollzugsliste, Grundbuchanalyse, Zwischenverfügungsantwort, Rangmatrix oder Mandantenbrief erstellen |
-
-### 3.1. Verknüpfung mit den tragenden Fachskills
-
-3.1.1. Notariat im Alltag: Verbrauchervertrag Wartefrist und Entwurfsversand: Bearbeite den Fachpunkt im Skill notariat-026-verbrauchervertrag-wartefrist-und-entwurfsversand und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.2. Notariat im Alltag: Beschwerde gegen Register- oder Grundbuchentscheidung: Bearbeite den Fachpunkt im Skill notariat-038-beschwerde-register-grundbuchentscheidung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Notariat im Alltag: Grundbuchantrag Rangstelle Zwischenverfügung und Nachreichung: Bearbeite den Fachpunkt im Skill notariat-007-grundbuchantrag-rangstelle-zwischenverfuegung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.4. Notariat im Alltag: Vorsorgevollmacht Patientenverfügung Betreuungsverfügung und Register: Bearbeite den Fachpunkt im Skill notariat-013-vorsorgevollmacht-patientenverfuegung-register und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-
-Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
-
-## 4. Normenanker
-
-4.1. BGB Paragraf 311b: notarielle Form bei Grundstücksverträgen und Heilung durch Auflassung und Eintragung.
-4.2. BGB Paragraf 873 und Paragraf 925: Einigung, Eintragung und Auflassung beim Grundstückserwerb.
-4.3. BGB Paragraf 883 bis Paragraf 888: Vormerkung, relative Unwirksamkeit und Durchsetzung des gesicherten Anspruchs.
-4.4. BGB Paragraf 1018 ff. und Paragraf 1191 ff.: Dienstbarkeit und Grundschuld als dingliche Belastungen.
-4.5. GBO Paragraf 13, Paragraf 18, Paragraf 19 und Paragraf 29: Antrag, Zwischenverfügung, Bewilligung und grundbuchtauglicher Nachweis.
-4.6. BeurkG Paragraf 13 und Paragraf 17: Niederschrift, Vorlesen, Genehmigen und notarielle Belehrungs- und Betreuungspflichten.
-
-Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
-
-## 5. Rechtsprechung und Quellenstatus
-
-5.1. BGH Kernbereichslehre: https://www.bgh.de (BGH XII ZR 265/02)
-
-5.2. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
-5.3. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
-
-## 6. Beweislast und Gegenangriff
-
-Ausgangspunkt für dieses Plugin: Antragsteller für Antrag, Bewilligung, Vertretung und Nachweis; Beteiligte für Rang, Genehmigung, Löschung und entgegenstehende Rechte.
-
-6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
-6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
-6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
-6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
-
-## 7. Prüffolge
-
-7.1. Welches dingliche oder schuldrechtliche Ziel soll mit welchem Rechtsgeschäft erreicht werden.
-7.2. Welche Form, Zustimmung, Genehmigung oder Vollmacht ist Wirksamkeits- oder Vollzugsvoraussetzung.
-7.3. Welche Eintragung, Belastung oder Rangstelle trägt oder gefährdet das Ziel.
-7.4. Welche Urkunde und welcher Nachweis genügen dem Grundbuchverfahren.
-7.5. Welcher Antrag oder welche Vollzugshandlung ist jetzt konkret einzureichen.
-
-## 8. Juristisches Schreiben
-
-8.1. Stelle das Ergebnis oder den Antrag an den Anfang. Der Leser muss nach dem ersten Absatz wissen, welche Position vertreten wird und warum.
-8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
-8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
-8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
-8.5. Typische fertige Ausgabe für dieses Plugin: Grundbuchmatrix: Abteilung, laufende Nummer, Recht, Berechtigter, Rang, Löschungsweg, benötigte Urkunde und Risiko; Vollzugsliste: Schritt, Voraussetzung, Verantwortlicher, Dokument, Frist, Rückmeldung und nächster Antrag.
-
-## 9. Ausgabemodi
-
-| Bedarf | Sofortausgabe |
-| --- | --- |
-| Schnell entscheiden | Kernsatz, stärkster Anker, schwächster Punkt, Gegenposition, Empfehlung und nächster Schritt |
-| Vertieft prüfen | Tatbestandsmatrix mit Norm, Tatsache, Fundstelle, Beweislast, Gegenargument, Antwort und Rechtsfolge |
-| Versenden | Empfängergerechter Entwurf mit Antrag oder Ziel, Tatsachenvortrag, Rechtsausführung, Beweisangeboten und Anlagenbezug |
-| Verhandeln | Hauptposition, belastbare Untergrenze, gegnerischer Hebel, Zugeständnisfolge und formulierter Vorschlag |
-| Entscheiden | Optionen mit Rechtsgrundlage, Tatsachenbasis, Risiko, Aufwand, Termin und dokumentierter Empfehlung |
-
-## 10. Fachliche Formulierungsansätze
-
-10.1. Grundbuchmatrix: Abteilung, laufende Nummer, Recht, Berechtigter, Rang, Löschungsweg, benötigte Urkunde und Risiko.
-10.2. Vollzugsliste: Schritt, Voraussetzung, Verantwortlicher, Dokument, Frist, Rückmeldung und nächster Antrag.
-10.3. Zwischenverfügungsantwort: Beanstandung, rechtliche Einordnung, beigefügter Nachweis, hilfsweiser Antrag und Fristbezug.
-
-## 11. Qualitätskontrolle
-
-11.1. Deckt jeder Antrag oder Ergebnissatz eine benannte Rechtsfolge ab?
-11.2. Ist jedes tragende Tatbestandsmerkmal mit konkreter Tatsache und Fundstelle verknüpft?
-11.3. Ist die Beweislast dort benannt, wo eine Tatsache streitig oder offen ist?
-11.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
-11.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
-11.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
-11.7. Ist das Ergebnis unmittelbar als Grundbuchanalyse, Vertragsklausel, Vollzugsliste, Bewilligung, Zwischenverfügungsantwort oder Rangmatrix verwendbar?
+1. **kaltstart-triage** — Hauptworkflow für Notariatsmitarbeiter: führt Kundenunterlagen bis zur konkreten Urkunden- oder Anmeldevorlage an den No…
+2. **ehevertrag-scheidungsfolgenvereinbarung** — Bereitet Eheverträge und Scheidungsfolgenvereinbarungen im Notariat vor. Verbindet Güterrecht, Unterhalt, Versorgung und…
+3. **urkundenmappe-zur-freigabe** — Prüft eine vorbereitete Notariatsmappe vor Vorlage an den Notar: Fassungen, Beteiligte, Formwege, Anlagen, Kapital- und …
+4. **gmbh-gruendung-gesellschafterliste** — Bereitet GmbH- und UG-Gründungen aus Gründerunterlagen vor: individuelle Satzung oder Musterprotokoll, Geschäftsanteile,…
+5. **beteiligte-identitaet-vertretung** — Bereitet Personalien, Ausweisabgleich und Vertretungsnachweise für einen Notartermin vor. Hält Scan, vorgelegtes Origina…
+6. **vorsorgevollmacht** — Bereitet Vorsorgevollmacht, Patientenverfügung und Betreuungswünsche für das Notariat vor. Klärt Umfang, Ersatzvertretun…
+7. **vollzug-fristen-wiedervorlage** — Führt notarielle Vorgänge nach Entwurf oder Beurkundung weiter: Nachweise, Kaufpreisfälligkeit, Registereingänge, Zwisch…
+8. **auslandsurkunde-apostille-vollmacht** — Bereitet ausländische Vollmachten, Genehmigungen und Vertretungsnachweise für notarielle Vorgänge auf. Trennt Echtheitsn…
+9. **grundschuld-buchgrundschuld-treuhand** — Bereitet Grundschuldbestellungen aus Bankauftrag und Grundbuch vor. Trennt dingliche Sicherheit, persönliche Haftung, Vo…
+10. **bautraegervertrag-mabv-familiengesellschaft** — Bereitet Grundstückskauf- und Bauträgerverträge für die notarielle Prüfung vor. Verbindet Käuferdaten, Grundbuch, Teilun…
+11. **geschaeftsfuehrer-bestellung-register** — Bereitet Geschäftsführerbestellung, Abberufung und Handelsregisteranmeldung für GmbH und UG vor. Gleicht Beschlussdatum,…
+12. **kostenrechnung-gnotkg** — Erstellt nachvollziehbare Entwürfe notarieller Kostenberechnungen aus Auftrag, Urkunde und Vollzug. Ordnet Kostenschuldn…
+13. **kapitalerhoehung-beschluss-register** — Bereitet die GmbH-Kapitalerhöhung als zusammenhängenden Vorgang vor: Beschluss, Bar- oder Sacheinlage, Übernahmeerklärun…
+14. **formweg-beurkundung-beglaubigung** — Ordnet für die Notariatsmitarbeiter jede konkrete Erklärung dem passenden Formweg zu: Beurkundung, Unterschriftsbeglaubi…
+15. **urkundenentwurf-aendern-abgleichen** — Arbeitet Mandantenkorrekturen in notarielle Entwürfe ein, gleicht Urkunde und Anlagen ab und trennt Entwurfsänderung, of…
+16. **gmbh-anteile-uebertragen-verpfaenden** — Bereitet Verkauf, Abtretung und Verpfändung von GmbH-Geschäftsanteilen für das Notariat vor. Ordnet Anteilsnummern, Zust…
+17. **umwandlung-verschmelzung-kapitalerhoehung** — Bereitet Verschmelzung, Spaltung und Formwechsel für das Notariat vor: Rechtsträger, Vertrags- und Beschlussentwürfe, Sc…
+18. **nachlassauseinandersetzung-grundbuch** — Bereitet notarielle Nachlassauseinandersetzungen, Grundstücksübertragungen und Erbnachweise vor. Gleicht Testament, Eröf…
+19. **geldwaeschepruefung-immobilien** — Bereitet im Notariat die Geldwäscheprüfung von Grundstücks- und Gesellschaftsvorgängen vor. Klärt Beteiligung und wirtsc…
+20. **grundbuchantrag-rangstelle-notarielle** — Bereitet Grundbuchanträge, Rangänderungen und Antworten auf Zwischenverfügungen vor. Gleicht Bewilligung, Auflassung, La…
 
 ---
 
 ## Skill: `kaltstart-triage`
 
-_Startet die Mitarbeiter-Werkstatt im Notariat aus einem Mandantenordner. Erkennt Kauf, Grundschuld, Beglaubigung oder Gesellschaftsvorgang und erstellt einen belegten ersten Entwurf mit gezielter Unterlagenanforderung und Vorlage an den Notar._
+_Hauptworkflow für Notariatsmitarbeiter: führt Kundenunterlagen bis zur konkreten Urkunden- oder Anmeldevorlage an den Notar. Wählt zwischen Entwurf, Änderung und Vollzug, übernimmt belegte Daten und steuert nur den benötigten Fachskill samt gezielten Rückfragen._
 
-# Mandantenordner aufnehmen und ersten Entwurf vorbereiten
+# 1. Hauptworkflow vom Kundenordner zur Urkundenmappe
 
 ## 1. Zweck und Anwendungsfall
 
-Arbeite für einen Notariatsmitarbeiter. Eingehende Unterlagen werden zu einem bearbeitbaren Vorgang, nicht zu einem langen Interview. Du bereitest vor; notarielle Belehrung, Identitätsfeststellung, Beurkundung, Beglaubigung und amtliche Freigabe bleiben beim Notar.
+Bereite für Notariatsmitarbeiter die bestellte Urkunde, Erklärung oder Registeranmeldung vor und führe sie nach Rückfragen zur konsistenten Vorlage. Die Aufgabe endet nicht bei einer Materialübersicht. Notarielle Belehrung, Identitätsfeststellung, Beurkundung, Beglaubigung und amtliche Freigabe bleiben beim Notar.
 
 ## 2. Eingaben
 
@@ -156,19 +47,29 @@ Lies zuerst die konkret freigegebenen Dateien: Auftrag oder letzte E-Mail, vorha
 
 ### 3.1. Den Auftrag am nächsten Arbeitsergebnis festmachen
 
-Bei eindeutigem Auftrag beginne den gewünschten Entwurf. Ohne Auftrag, aber mit Material, liefere ein kurzes Vorgangsblatt mit Beteiligten, Geschäft, Stand und nächstem Dokument. Ohne Material genügt eine gebündelte Frage nach Vorgang und Unterlagen. Lade nur den einen fachlich passenden Arbeitsweg; weitere folgen erst bei einer konkreten Anschlussfrage.
+Bei eindeutigem Auftrag beginne den gewünschten Entwurf. Ohne Auftrag, aber mit Material, lies zuerst Auftragsschreiben und aktuelle Entwurfsfassung intern. Frage dann etwa: „Soll ich die Grundschuldbestellung vorbereiten, die Bankvorgaben klären oder eine bestehende Fassung ändern?“ Nenne nur tatsächlich passende Alternativen, keine Liste sämtlicher Ordnerinhalte. Ohne Material frage nach dem Urkundengeschäft und der vorhandenen Vorlage. Lade nur den einen fachlich passenden Arbeitsweg; weitere folgen erst bei einer konkreten Anschlussfrage. Ein fertiger, klar bestellter Vermerk darf unmittelbar geliefert werden.
 
 | Material oder Wunsch | Arbeitsweg | Erstes Arbeitsprodukt |
 | --- | --- | --- |
-| Neubauwohnung, Baubeschreibung, Bauträger | `bautraegervertrag-mabv-familiengesellschaft` | Kaufvertragsentwurf und fehlende Objektanlagen |
+| Grundstückskauf, Bestandsobjekt oder Bauträger | `bautraegervertrag-mabv-familiengesellschaft` | Kaufvertragsentwurf und fehlende Objektanlagen |
 | Bankauftrag, Grundbuch, Sicherung | `grundschuld-buchgrundschuld-treuhand` | Bestellungsentwurf mit getrennten Erklärungen |
-| Unterschrift bestätigen oder Form klären | `notariat-002-beurkundung-ubeglaubigung-richtig-einordnen` | Formblatt und Terminanschreiben |
-| Personalien, Vollmacht, Namensabweichung | `notariat-023-identitaetspruefung-videoident-praesenztermin` | Beteiligtenblatt mit Nachweisstand |
+| Unterschrift bestätigen oder Form klären | `formweg-beurkundung-beglaubigung` | Formblatt und Terminanschreiben |
+| Personalien, Vollmacht, Namensabweichung | `beteiligte-identitaet-vertretung` | Beteiligtenblatt mit Nachweisstand |
 | Neue GmbH oder UG | `gmbh-gruendung-gesellschafterliste` | Satzungs- und Anmeldeentwurf |
-| Neues Stammkapital | `notariat-032-kapitalerhoehung-bar-sache-bezugsrecht` | Beschluss, Übernahme und Vollzugsfolge |
-| Geschäftsführer bestellen oder wechseln | `notariat-006-hr-anmeldung-gf-bestellung-abberufung-vertretung` | Beschluss- und Anmeldeentwurf |
+| Neues Stammkapital | `kapitalerhoehung-beschluss-register` | Beschluss, Übernahme und Vollzugsfolge |
+| Geschäftsführer bestellen oder wechseln | `geschaeftsfuehrer-bestellung-register` | Beschluss- und Anmeldeentwurf |
 | Anteile verkaufen oder als Sicherheit geben | `gmbh-anteile-uebertragen-verpfaenden` | Anteilsübersicht und Vertragsentwurf |
-| Fertige Mappe prüfen | `qualitaetsgate-signatur-notarielle` | Vorlagevermerk an den Notar |
+| Verschmelzen, spalten oder Rechtsform wechseln | `umwandlung-verschmelzung-kapitalerhoehung` | Urkunden- und Registerfolge |
+| Grundbuchantrag oder Zwischenverfügung | `grundbuchantrag-rangstelle-notarielle` | Antrag oder konkrete Nachreichung |
+| Änderungen an einer vorhandenen Urkunde | `urkundenentwurf-aendern-abgleichen` | Bereinigte Fassung und Änderungsvermerk |
+| Auslandsnachweis oder abwesender Vertreter | `auslandsurkunde-apostille-vollmacht` | Nachweisanforderung und Vertretungsabschnitt |
+| Beteiligung und Immobilienzahlung klären | `geldwaeschepruefung-immobilien` | Interne Prüfung und zulässige Nachforderung |
+| Ehevertrag oder Scheidungsfolgen | `ehevertrag-scheidungsfolgenvereinbarung` | Abgestimmte Vereinbarung |
+| Erbfolge und Nachlassübertragung | `nachlassauseinandersetzung-grundbuch` | Nachlassurkunde oder Grundbuchantrag |
+| Vorsorge und Behandlungswünsche | `vorsorgevollmacht` | Gewünschte Vorsorgeerklärungen |
+| Kosten des konkreten Vorgangs | `kostenrechnung-gnotkg` | Kostenberechnung mit Wertnachweisen |
+| Neue Vollzugspost oder Aktenabschluss | `vollzug-fristen-wiedervorlage` | Nachforderung oder Abschlussmitteilung |
+| Fertige Mappe prüfen | `urkundenmappe-zur-freigabe` | Vorlagevermerk an den Notar |
 
 ### 3.2. Angaben mit Herkunft übernehmen
 
@@ -176,11 +77,17 @@ Führe Name, Geburtsdatum, Anschrift, Registergericht, Registernummer, Grundstü
 
 ### 3.3. Nur den blockierten Teil anhalten
 
-Fehlt der genaue Geschäftsanteil, bereite die übrigen Vertragsabschnitte vor und frage gezielt nach der aktuellen Liste. Erfinde weder Grundbuchdaten noch erteilte Vollmachten. Bei großem Ordner zuerst Kernunterlagen, dann ein Teilstand mit noch ungelesenen Dateien. Nach Rückmeldung nur betroffene Stellen fortschreiben; kein erneutes Kaltstart-Interview.
+Fehlt der genaue Geschäftsanteil, bereite die übrigen Vertragsabschnitte vor und frage gezielt nach der aktuellen Liste. Erfinde weder Grundbuchdaten noch erteilte Vollmachten. Bei großem Ordner zuerst Kernunterlagen; weitere Dateien nur bei konkreter Belegfrage lesen. Leselücken knapp benennen, ohne einen Datenbestand auszubreiten. Nach Rückmeldung nur betroffene Stellen fortschreiben; kein erneutes Kaltstart-Interview.
+
+### 3.4. Fachschritte mit einem gemeinsamen Stand verbinden
+
+Führe intern Vorgangsnummer, gewünschtes Dokument, letzte Fassung, Beteiligtenrollen, entscheidende Belege und noch offene Bedingungen weiter. Beim Wechsel des Fachskills genau diesen Stand und die konkrete Anschlussfrage übergeben, nicht einen neuen Aufnahmeauftrag. Das Beteiligtenblatt wird einmal angelegt. Eine neue Bankantwort ändert die betroffene Haftungsklausel, nicht ungefragt die vereinbarten Erwerbsanteile. Eine Vollmacht als Scan und ihr späteres Original behalten getrennte Eingangsstände.
+
+Entwurfsarbeit benötigt keine Freigabe nach jedem Absatz. Externe Mitteilung, Einreichung und Amtshandlung dagegen nie aus dem Auftrag zur Vorbereitung ableiten. Zur Schlussprüfung nur dann `urkundenmappe-zur-freigabe` verwenden, wenn eine konkrete Mappe vorliegt; kein Kreislauf aus Einstieg und Schlussprüfung. Bleibt ein Sachpunkt offen, das genaue Nachforderungsschreiben fertigstellen und nach Antwort an dieser Stelle fortsetzen.
 
 ## 4. Quellenpflicht
 
-Nutze [Mitarbeiter-Formwege](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/notariat-alltag/references/mitarbeiter-formwege.md) und die dort verlinkten amtlichen Normen. Prüfe ihre aktuelle Fassung vor einem tragenden Formhinweis. Die Zitierregeln stehen in [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/notariat-alltag/references/zitierweise.md). Keine Rechtsprechung nur zur Ausschmückung ergänzen.
+BeurkG Paragrafen 10, 12 und 17 sowie der konkrete materielle Formtatbestand bestimmen die Vorbereitung. BGH, Urteil vom 07.02.2013, III ZR 121/12: Der bloße Wunsch nach schnellem Termin ersetzt keinen sachlichen Grund und keinen anderweitigen Übereilungsschutz bei der erfassten Verbraucherbeurkundung. Das ist weder eine allgemeine Frist für alle Urkunden noch eine Aussage automatischer Vertragsnichtigkeit. Nutze [Mitarbeiter-Formwege](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/notariat-alltag/references/mitarbeiter-formwege.md) und [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/notariat-alltag/references/zitierweise.md); lies weitere Quellen nur zur tatsächlich anstehenden Rechtsfrage.
 
 ## 5. Ausgabeformat
 
@@ -192,290 +99,593 @@ Im Ordner liegen Bankauftrag, Kaufvertrag und zwei Ausweiskopien. Beginne den Gr
 
 ---
 
-## Skill: `notariat-041-konflikttraechtige-mandanten-neutrale-amtsfuehrung`
+## Skill: `ehevertrag-scheidungsfolgenvereinbarung`
 
-_Für Notariat im Alltag: Konfliktträchtige Mandanten und neutrale Amtsführung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Notariat im Alltag. Route: notariat-041-konflikttraechtige-mandanten-neutrale-amtsfuehrung._
+_Bereitet Eheverträge und Scheidungsfolgenvereinbarungen im Notariat vor. Verbindet Güterrecht, Unterhalt, Versorgung und Grundstücksübertragung mit konkreten Wünschen, Wertnachweisen und getrennten Formanforderungen, ohne einseitige Verzichtswünsche als Einigung auszugeben._
 
-# Notariat im Alltag: Konfliktträchtige Mandanten und neutrale Amtsführung
+# 1. Ehevertrag und Scheidungsfolgen urkundlich vorbereiten
 
-## Aufgabe
+## 1. Zweck und Anwendungsfall
 
-Dieser Skill bearbeitet **Konfliktträchtige Mandanten und neutrale Amtsführung** im Bereich **Notariat im Alltag**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Erstelle aus abgestimmten Zielen und tatsächlichen Verhältnissen eine notarielle Vertragsvorlage. Die Mitarbeiterarbeit ist neutral gegenüber beiden Beteiligten; Belehrung und rechtliche Gestaltungsentscheidung bleiben beim Notar. Keine Interessenvertretung eines Ehegatten vortäuschen.
 
-## Kaltstart in 6 Fragen
+## 2. Eingaben
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+Bestehender Ehevertrag, Heirats- und gegebenenfalls Trennungsdaten, Regelungswünsche, Kinderbetreuung, Erwerbsverlauf, Vermögensnachweise, Versorgungsanrechte und Grundbuchunterlagen. Bei einem vollständigen anwaltlichen Entwurf nicht nochmals eine allgemeine Aufnahme durchführen. Frage bei fehlendem Ziel, ob Güterstand, konkrete Ausgleichszahlung oder sämtliche Scheidungsfolgen geregelt werden sollen.
 
-## Prüfprogramm
+## 3. Ablauf
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- BeurkG/BNotO/DONot/GNotKG/GwG live prüfen
-- Form, Belehrung, Identität, Vertretung und Vollzug trennen
-- Register- und Grundbuchtauglichkeit gesondert prüfen
-- Kosten und Fristen sichtbar dokumentieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### 3.1. Jeden Regelungsgegenstand abgrenzen
 
-## Typische Fallen
+Güterstand und Zugewinnausgleich von Unterhalt, Versorgungsausgleich und Eigentumsübertragung trennen. Eine Hausübernahme entlässt niemanden ohne Zustimmung der Bank aus der Darlehensschuld. Für Abfindung und Gegenleistung Werte mit Stichtag und Quelle verwenden. Fehlende Bewertung nicht durch eine frei erfundene Pauschale ersetzen.
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+### 3.2. Form und Wirksamkeitsfragen gezielt prüfen
 
-## Output
+BGB Paragraf 1410 verlangt für den Ehevertrag gleichzeitige Anwesenheit beider Teile bei der notariellen Niederschrift; zulässige Vertretung und ihre Grenzen gesondert prüfen, keine pauschale Pflicht zum persönlichen Erscheinen beider behaupten. Versorgungsausgleich nach VersAusglG Paragrafen 6 bis 8 und nachehelichen Unterhalt nach BGB Paragraf 1585c jeweils mit eigenem Zeitpunkt und Formtatbestand prüfen. Grundstücksübertragung nach BGB Paragraf 311b Absatz 1 hinzunehmen.
 
-- Vollzugsliste
-- Mandantenmail
-- Register-/Grundbuchantwort
-- Kostencheck
-- Fristenplan
-- Red-Team
+Wirksamkeitskontrolle nach BGB Paragraf 138 und Ausübungskontrolle nach Paragraf 242 anhand konkreter Verhandlungs- und Lebensumstände auseinanderhalten. Schwangerschaft, einseitige Erwerbsaufgabe und wirtschaftliche Abhängigkeit sind aufzuklärende Umstände, keine automatische Unwirksamkeitsformel. Zukünftigen Kindes- oder Trennungsunterhalt nicht ungeprüft in einen Generalverzicht aufnehmen.
 
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
+### 3.3. Vertrag und offene Entscheidung entwickeln
 
-## Notariatsvertiefung
+Ausgleichsbetrag, Fälligkeit, Sicherung, Vollzugsabhängigkeit und Folgen einer verweigerten Bankfreigabe ausformulieren. Bei abweichenden Wünschen nur die streitige Klausel mit verständlichen Alternativen zur notariellen Prüfung vorlegen. Medizinische, steuerliche oder versicherungsmathematische Feststellungen nicht fingieren.
 
-Bei **Konfliktträchtige Mandanten und neutrale Amtsführung** wird immer eine Vollzugskette gebaut: Entwurf, Beteiligtenstatus, Identität, Geschäftsfähigkeit, Vertretung, Belehrung, Genehmigung, Register-/Grundbuchreife, Kosten und Wiedervorlage. Der Skill soll keine notarielle Entscheidung ersetzen, aber die Akte so vorsortieren, dass Notar oder Sachbearbeitung sofort sehen, was unterschriftsreif ist und was noch blockiert.
+### 3.4. Rückmeldung in die Vereinbarung übernehmen
 
-**Register-/Grundbuchlogik:** Jede Ausgabe muss sagen, ob ein Original, eine beglaubigte Abschrift, eine Ausfertigung, Apostille/Legalisation, Übersetzung oder elektronisch signierte Datei gebraucht wird.
+Nach Bankzustimmung Schuldhaftung und Grundbuchvollzug neu abstimmen; ohne Zustimmung nur das Innenverhältnis regeln, soweit gewollt. Nach korrigierter Versorgungsauskunft den betroffenen Ausgleich, nicht sämtliche Vermögenswerte ändern. Abschließend an `urkundenmappe-zur-freigabe` übergeben; kein erneutes Interview.
+
+## 4. Quellenpflicht
+
+[BGB Paragraf 1410](https://www.gesetze-im-internet.de/bgb/__1410.html), [Paragraf 1585c](https://www.gesetze-im-internet.de/bgb/__1585c.html), [VersAusglG](https://www.gesetze-im-internet.de/versausglg/) und [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/notariat-alltag/references/zitierweise.md). Rechtsprechung zu Inhaltskontrolle nur mit konkretem Vergleich der dortigen Vertragssituation verwenden; ein bloßes Aktenzeichen ersetzt diesen Vergleich nicht.
+
+## 5. Ausgabeformat
+
+Vollständig ausformulierte Vereinbarung als „Entwurf zur notariellen Prüfung“ und getrennte kurze Entscheidungsfragen. Times New Roman 11 pt, dezimale Gliederung. Keine behauptete Belehrung, Zustimmung, Bankfreigabe oder Unterzeichnung.
+
+## 6. Beispiel
+
+Ein Ehegatte übernimmt das Haus gegen Ausgleich; die finanzierende Bank hat den anderen noch nicht entlassen. Formuliere die vereinbarte interne Lastentragung und lege den offenen Entlassungsweg vor, statt schon persönliche Haftungsfreiheit zu versprechen.
 
 ---
 
-## Skill: `041-konflikttraechtige-mandanten-und-neutrale-amtsfuehr`
+## Skill: `urkundenmappe-zur-freigabe`
 
-_Für Notariat im Alltag: Konfliktträchtige Mandanten und neutrale Amtsführung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Notariat im Alltag. Route: 041-konflikttraechtige-mandanten-und-neutrale-amtsfuehr._
+_Prüft eine vorbereitete Notariatsmappe vor Vorlage an den Notar: Fassungen, Beteiligte, Formwege, Anlagen, Kapital- und Grundstücksdaten, Unterschriftsfelder sowie elektronische Einreichungsunterlagen. Kennzeichnet offene Freigaben statt Amtshandlungen zu fingieren._
 
-# Notariat im Alltag: Konfliktträchtige Mandanten und neutrale Amtsführung
+# Entwurfsmappe an den Notar übergeben
 
-## Arbeitsweg
+## 1. Zweck und Anwendungsfall
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Führe eine abschließende Mitarbeiterkontrolle der konkreten Vorgangsmappe durch. „Vorbereitet“ bedeutet nicht „beurkundet“, „beglaubigt“, „eingereicht“ oder „eingetragen“. Die Verantwortung für Amtshandlungen bleibt beim Notar.
 
-## Zweck und Anwendungsbereich
+## 2. Eingaben
 
-Streitige Situationen zwischen Beteiligten, Druck auf den Notar oder Unsicherheit über die Freiwilligkeit einer Willenserklärung sind Alltagsrealität im Notariat. Strukturiere die notariellen Pflichten und Rechte bei konfliktträchtigen Situationen.
+Aktueller Entwurf, Quellen, Nachträge, Anlagen, Beteiligtenblatt und vorhandene Freigaben. Lies geänderte Fassungen und abhängige Abschnitte, nicht bei jeder kleinen Änderung den gesamten Ordner neu. Ohne Dateizugriff keine technische Prüfung behaupten.
 
-Rechtsgrundlagen: § 17 BeurkG (Willensermittlung, Belehrung), § 4 BeurkG (Ablehnung), § 14 BNotO (Unparteilichkeit), § 15 BNotO (Verschwiegenheit), § 17 Abs. 3 BeurkG (Missverhältnis der Verhandlungsstärken), BGH-Rechtsprechung zu § 17 BeurkG.
+## 3. Ablauf
 
-## Unparteilichkeitspflicht (§ 14 BNotO)
+### 3.1. Fassung und Daten durchgängig vergleichen
 
-Der Notar ist unparteiischer Betreuer aller Beteiligten. Er darf keine Seite bevorzugen, keine Interessen einer Partei gegen die andere durchsetzen und keine einseitigen Formulierungsvorschläge machen, die einer Partei schaden.
+Prüfe Namen, Rollen, Geburtsdaten, Register- und Grundbuchdaten, Nummern, Beträge und Termine zwischen Haupttext, Anlagen und Anmeldung. Rechne Kapital- und Anteilsbeträge. Ein PDF-Export einer älteren Word-Fassung erhält nicht den Status der neuesten Datei. Bewahre Originale unverändert.
 
-Praktische Anforderung: Wenn ein Anwalt einer Seite den Entwurf geliefert hat, prüft der Notar den Entwurf auf Ausgewogenheit. Er muss die benachteiligte Partei auf ungünstige Klauseln hinweisen (§ 17 BeurkG).
+### 3.2. Erklärungen und Nachweise abgleichen
 
-## Ablehnung der Beurkundung (§ 4 BeurkG)
+Für jeden Unterzeichner muss erkennbar sein, welche Erklärung er in welcher Rolle abgeben soll. Trenne fehlenden Nachweis von fehlender Willensentscheidung. Prüfe Verbraucherentwurfsfrist, Vertretungsmacht, benötigte Anlagen und gesonderte Versicherungen. Kein Mitarbeitervermerk ersetzt die notarielle Identitätsfeststellung oder Belehrung.
 
-Der Notar kann die Beurkundung ablehnen, wenn:
-- Die Beurkundung unzulässig ist (z.B. Verstoß gegen Gesetz oder gute Sitten)
-- Einer der Beteiligten erkennbar unter unzulässigem Druck steht
-- Die Geschäftsfähigkeit eines Beteiligten ernsthaft zweifelhaft ist
-- Das Rechtsgeschäft einer strafbaren Handlung dient
+### 3.3. Dateien und Signaturen kontrollieren
 
-**Muss nicht abgelehnt werden:** Nur weil ein Beteiligter schwächerer Verhandlungspartner ist. Der Notar hat eine ausgleichende Funktion.
+Öffnbarkeit, Seitenzahl, Lesbarkeit und vollständige Anlagenfolge tatsächlich prüfen, soweit Werkzeuge verfügbar sind. Urkundenentwürfe und rechtlich verbindliche Ausfertigungen getrennt halten. Elektronische Zeugnisse nach BeurkG Paragraf 39a, Registerübermittlung nach HGB Paragraf 12 und Grundbuchübermittlung nach den einschlägigen Landesvorgaben jeweils gesondert vorbereiten. Keine gewöhnliche PDF-Konvertierung als notarielle Beglaubigung ausgeben.
 
-## Willenserklärung unter Druck
+### 3.4. Entscheidung und nächste Handlung dokumentieren
 
-Erkennbare Zeichen von Druck oder Nötigung:
-- Beteiligter weint, ist sichtlich verängstigt
-- Dritter im Raum gibt dem Beteiligten sichtlich Anweisungen
-- Beteiligter erklärt, er unterschreibt nur, weil er sonst Nachteile fürchtet
-- Beteiligter kann keine eigene Aussage machen, spricht nur nach Vorlage
+Erstelle eine kurze Vorlage mit „bereit zur Prüfung“, „Rückfrage“ oder „Vollzug gesperrt“ je Teil. Sperre nur den betroffenen Schritt, nicht jede sonst mögliche Vorbereitung. Keine Unterschrift einfügen, keine Fälligkeit mitteilen, kein Registerpaket versenden und keine Bankdaten ändern ohne zuständige Freigabe. Eine technische Störung führt zu einem gesicherten Teilstand und einem überprüfbaren nächsten Versuch, nicht zu behauptetem Erfolg.
 
-**Maßnahmen:** Einzelgespräch mit dem betroffenen Beteiligten ohne Dritte (§ 17 Abs. 1 S. 2 BeurkG), Unterbrechung der Beurkundung, im Extremfall Ablehnung (§ 4 BeurkG).
+## 4. Quellenpflicht
 
-## Sittenwidrigkeit erkennen
+BeurkG Paragrafen 10, 13, 17 und 39a; HGB Paragraf 12; GBO Paragraf 29 und einschlägige Verfahrensregeln. [Mitarbeiter-Formwege](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/notariat-alltag/references/mitarbeiter-formwege.md), [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/notariat-alltag/references/zitierweise.md). Je nach Papier- oder elektronischem Verfahren die aktuelle Form prüfen.
 
-Der Notar muss bei offensichtlicher Sittenwidrigkeit (§ 138 BGB) die Beurkundung ablehnen oder den Beteiligten darauf hinweisen. Beispiele:
-- Knebelungsvertrag (Kernbereichslehre im Ehevertrag)
-- Wucherischer Kaufpreis
-- Verdecktes Scheingeschäft
+## 5. Ausgabeformat
 
-## Streit im Beurkundungstermin
+Ausformulierter Vorlagevermerk, bereinigte Entwurfsfassungen und übersichtliches Anlagenregister. Times New Roman 11 pt, dezimale Gliederung. Keine Klauselrümpfe. Dateinamen sind kurz und sprechend; sensible Personalien werden nicht unnötig darin verbreitet. Offen gebliebene Prüfungen werden ausdrücklich benannt.
 
-Kommt es während der Beurkundung zum Streit zwischen den Beteiligten:
-1. Beurkundung unterbrechen
-2. Parteien getrennt befragen
-3. Prüfen, ob Einigkeit noch herstellbar ist
-4. Beurkundung abbrechen, wenn kein gemeinsamer Wille feststellbar
-5. Abbruchsvermerk in der Akte dokumentieren
+## 6. Beispiel
 
-## Interessenkonflikt des Notars
-
-Wenn der Notar in einem Interessenkonflikt steht (persönliche Beziehung zu einem Beteiligten, wirtschaftliches Interesse), muss er die Beurkundung ablehnen (§ 7 BeurkG: Ausschluss).
-
-Ausschluss: Notar selbst oder Angehörige sind Beteiligte oder bevollmächtigte Vertreter.
-
-## Prüfprogramm
-
-- Gibt es Anzeichen von Druck, Nötigung oder Geschäftsunfähigkeit?
-- Ist der Notar selbst in einem Interessenkonflikt?
-- Ist das Rechtsgeschäft offensichtlich sittenwidrig?
-- Einzelgespräch angeboten/durchgeführt, wenn nötig?
-- Abbruchsvermerk dokumentiert, wenn Beurkundung nicht fortgeführt werden konnte?
-
-## Typische Fallen
-
-- Notar beurkundet trotz erkennbarem Druck → Amtspflichtverletzung.
-- Kein Einzelgespräch trotz erkennbarer Beeinflussungszeichen.
-- Sittenwidrigkeit nicht erkannt → Haftung.
-- Interessenkonflikt übersehen (Angehöriger Beteiligter).
-- Abbruch ohne Dokumentation → keine Beweis für Notarhandeln.
-
-## Rechtsquellen
-
-- § 4 BeurkG: https://dejure.org/gesetze/BeurkG/4.html
-- § 17 BeurkG: https://dejure.org/gesetze/BeurkG/17.html
-- § 14 BNotO: https://dejure.org/gesetze/BNotO/14.html
-- § 138 BGB: https://dejure.org/gesetze/BGB/138.html
-- BGH zum Notar bei Druck: https://www.bgh.de
-- BNotK Berufsrecht: https://www.bnotk.de
-
-## Output-Formate
-
-- **Abbruchsvermerk** (Muster)
-- **Einzelgespräch-Protokoll** (Muster)
-- **Sittenwidrigkeits-Checkliste**
-- **Interessenkonflikt-Prüfbogen**
-- **Mandantenhinweis** (warum Beurkundung abgelehnt wurde)
-
-Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
+Die Satzung nennt 35000 Euro Stammkapital, die Anmeldung noch 25000 Euro. Korrigiere den Entwurf nach belegtem Beschlusskonzept. Behaupte nicht, der Erhöhungsbeschluss sei schon beurkundet, nur weil die Zahl in der Word-Datei angepasst wurde.
 
 ---
 
-## Skill: `054-auslandsbeteiligte-steuerliche-hinweise-und-grenzen`
+## Skill: `gmbh-gruendung-gesellschafterliste`
 
-_Prüft bei notariellen Vorgängen mit Auslandsbeteiligung Identität, Vertretungsnachweis, anwendbares Recht, steuerliche Warnsignale, Mitteilungspflichten und die Grenze zwischen rechtlicher Belehrung und Steuerberatung; liefert Urkundenhinweise, Nachforderungsliste und Vollzugsvermerk._
+_Bereitet GmbH- und UG-Gründungen aus Gründerunterlagen vor: individuelle Satzung oder Musterprotokoll, Geschäftsanteile, Geschäftsführerbestellung, Einzahlung, Gesellschafterliste und Registeranmeldung. Trennt Entwurf, Beurkundung und tatsächliche Eintragungsreife._
 
-# Notariat im Alltag: Auslandsbeteiligte – steuerliche Hinweise und Grenzen
+# GmbH-Gründung und Registermappe vorbereiten
 
-## Arbeitsweg
+## 1. Zweck und Anwendungsfall
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die einschlägigen Normen über amtliche Bundes-, Landes- und Unionsportale prüfen; Entscheidungen nur mit kontrolliertem Gericht, Datum, Aktenzeichen und tragender Passage verwenden.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Führe den Gründungsauftrag bis zur prüffähigen Vorlage an den Notar. Eine Satzungsdatei ist weder eine beurkundete Gesellschaft noch eine Handelsregistereintragung. Andere Rechtsformen werden nicht unbesehen in ein GmbH-Muster gepresst.
 
-## Zweck und Anwendungsbereich
+## 2. Eingaben
 
-Wenn ausländische oder im Ausland ansässige Personen an deutschen Grundstücks- oder Gesellschaftsgeschäften beteiligt sind, entstehen besondere Nachweis-, Kollisions- und Steuerfragen. Kläre, welche rechtliche Tragweite der Notar nach Paragraf 17 BeurkG erläutern muss, welche Mitteilungen zum Vollzug gehören und an welcher Stelle eine gesonderte steuerliche Beratung erforderlich ist. Unterstelle keine allgemeine notarielle Pflicht zur umfassenden Steuerberatung.
+Lies Gründerwünsche, Beteiligten- und Geschäftsführerangaben, Firma, Sitz, Geschäftsanschrift, Unternehmensgegenstand, Einlageplan und Bankunterlagen. Frage nach Individualregelungen nur, wenn die vorhandenen Wünsche keine Entscheidung erlauben.
 
-Rechtsgrundlagen: Paragraf 17 BeurkG, Paragraf 49 EStG, Paragrafen 48 bis 48d EStG, Paragrafen 1 bis 7 GrEStG, Paragraf 34 ErbStG, Paragrafen 139a bis 139d AO, EGBGB und das im Einzelfall anwendbare Doppelbesteuerungsabkommen.
+## 3. Ablauf
 
-## Beschränkte Steuerpflicht nach Paragraf 49 EStG
+### 3.1. Satzungsweg wählen
 
-Bei einer Person ohne Wohnsitz oder gewöhnlichen Aufenthalt im Inland ist zuerst zu bestimmen, ob der konkrete Vorgang inländische Einkünfte nach Paragraf 49 EStG auslösen kann. Bei Gesellschaften sind Körperschaftsteuerrecht, Rechtsform und Doppelbesteuerungsabkommen gesondert zu prüfen.
+GmbHG Paragraf 2 Absatz 1a erlaubt das gesetzliche Musterprotokoll bei höchstens drei Gesellschaftern und einem Geschäftsführer ohne vom gesetzlichen Muster abweichende Bestimmungen. Es verlangt nicht ausschließlich natürliche Personen und nicht die Gesellschafterstellung des Geschäftsführers. Individuelle Zustimmungsrechte, abweichende Nachfolgeregeln oder zusätzliche Geschäftsführer sprechen gegen den unveränderten Musterweg. Das Musterprotokoll gilt zugleich als Gesellschafterliste. Keine angeblich stets beglaubigungspflichtige Zusatzliste erfinden.
 
-Bei einem Grundstücksverkauf durch einen Auslandsbeteiligten:
-- Veräußerer, steuerlichen Ansässigkeitsstaat, Objekt, Erwerbs- und Veräußerungsdatum erfassen.
-- Mögliche inländische Einkünfte nach Paragraf 49 EStG und bei Privatvermögen ein privates Veräußerungsgeschäft nach Paragraf 23 EStG markieren.
-- Das anwendbare Doppelbesteuerungsabkommen und eine mögliche Veranlagung durch den Steuerberater prüfen lassen.
-- Keinen allgemeinen Steuerabzug des Käufers aus Paragraf 50a EStG ableiten. Paragraf 50a Absatz 7 EStG setzt für sonst nicht erfasste Einkünfte eine konkrete Anordnung des zuständigen Finanzamts voraus.
+### 3.2. Beteiligung und Gegenstand ausformulieren
 
-## Bauabzugsteuer nach Paragraf 48 EStG
+Ordne jedem Anteil laufende Nummer, Nennbetrag und Übernehmer zu. Rechne Summe und Prozente gegen das Stammkapital. Beschreibe den Unternehmensgegenstand anhand des tatsächlichen Geschäfts, ohne eine erforderliche Erlaubnis zu behaupten. Sitz, Geschäftsanschrift und Gesellschafteranschrift sind verschiedene Felder.
 
-Bei einer Bauleistung im Inland kann der unternehmerische oder öffentlich-rechtliche Leistungsempfänger nach Paragraf 48 EStG zum Steuerabzug von 15 Prozent verpflichtet sein. Entscheidend sind Leistung, Leistungsempfänger, Gegenleistung, Ausnahmen und eine gültige Freistellungsbescheinigung; der Sitz des Bauunternehmers allein entscheidet die Frage nicht.
+### 3.3. Einlage und Anmeldung auseinanderhalten
 
-Für den notariellen Vorgang ist nur festzuhalten, ob eine erkennbare Bauleistung und ein möglicher Abzugstatbestand eine fachsteuerliche Klärung vor Fälligkeit verlangen. Die konkrete Berechnung und Anmeldung gehören in die steuerliche Beratung.
+Bei der Bar-GmbH verlangt Paragraf 7 Absatz 2 vor Anmeldung mindestens ein Viertel jedes Anteils und insgesamt mindestens die Hälfte des gesetzlichen Mindeststammkapitals; Sacheinlagen gesondert nach Absatz 3 und Paragraf 8 behandeln. Bei der UG gilt Paragraf 5a: vollständige Einzahlung vor Anmeldung und keine Sacheinlagen. Eine Überweisungsankündigung ist kein Bankbeleg. Erfasse Betrag, Wertstellung, Leistenden, Verwendungszweck und freie Verfügbarkeit. Keine Geschäftsführer-Versicherung ohne tatsächliche Grundlage als bereits abgegeben darstellen.
 
-## Grunderwerbsteuer nach den Paragrafen 1 bis 7 GrEStG
+### 3.4. Registerunterlagen zusammenstellen
 
-Der Erwerb eines inländischen Grundstücks kann unabhängig vom Wohnsitz der Beteiligten Grunderwerbsteuer auslösen.
+Entwerfe Satzung, Bestellung, Anmeldung und erforderliche Liste mit eigenem Zweck. Prüfe Geschäftsführerfähigkeit und Versicherung nach Paragrafen 6 und 8, Vertretungsregel und etwaige Befreiung von BGB Paragraf 181 anhand des Auftrags. Eine Befreiung ist kein ungefragter Standard. Anmeldung nach HGB Paragraf 12, nicht als gewöhnliche E-Mail.
 
-Bei Anteilsübertragungen an grundbesitzenden Gesellschaften sind insbesondere die jeweils aktuelle Fassung des Paragraf 1 GrEStG, Beteiligungsquoten, Erwerbergruppe und zeitliche Zusammenhänge fachsteuerlich zu prüfen.
+### 3.5. Vorphase nicht beschönigen
 
-## Meldepflicht des Notars nach Paragraf 34 ErbStG
+Unterscheide Vorgründung, beurkundete Vorgesellschaft und eingetragene Gesellschaft. Paragraf 11 Absatz 2 betrifft die Haftung der Handelnden, nicht unterschiedslos aller Gesellschafter. Besondere Gründerhaftung bei Verlusten vor Eintragung ist davon getrennt dem Notar vorzulegen. Keine pauschalen Gebührenbeträge; Geschäftswert und GNotKG-Tatbestände gesondert prüfen.
 
-Prüfe die Anzeige- und Mitteilungspflichten nach Paragraf 34 ErbStG anhand der konkreten Urkunde und dokumentiere Empfänger, Frist, übermittelte Fassung und Versandnachweis.
+## 4. Quellenpflicht
 
-## Identifizierung Auslandsbeteiligter (GwG)
+GmbHG Paragrafen 2, 3, 5, 5a, 6, 7, 8, 11 und 40; HGB Paragraf 12. [Amtliche Links](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/notariat-alltag/references/mitarbeiter-formwege.md), [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/notariat-alltag/references/zitierweise.md). Gesetzliches Muster in aktueller Fassung verwenden.
 
-Bei ausländischen juristischen Personen sind Existenz, Vertretungsmacht und Aktualität mit geeigneten Register- oder Behördennachweisen zu belegen. Ob Apostille, Legalisation oder Übersetzung erforderlich ist, richtet sich nach Herkunftsstaat, Urkundenart und anwendbaren Übereinkommen. Wirtschaftlich Berechtigte und ein erhöhtes Risiko sind nach den Paragrafen 10 bis 15 GwG fallbezogen zu prüfen.
+## 5. Ausgabeformat
 
-## Grenzen der notariellen Hinweispflicht
+Vollständig ausformulierter Satzungs- und Anmeldeentwurf, Anteilsrechnung und getrennte offene Nachweise. Status „Entwurf zur notariellen Prüfung“, Times New Roman 11 pt, dezimale Gliederung. Keine Unterschrift, Versicherung oder Eintragung als erfolgt darstellen. Keine reinen Klauselskelette.
 
-Der Notar erläutert nach Paragraf 17 BeurkG die rechtliche Tragweite des beurkundeten Geschäfts. Daraus folgt keine schematische Pflicht, sämtliche steuerlichen Folgen zu berechnen oder eine steueroptimale Gestaltung zu entwickeln. Dokumentiere erkennbare steuerliche Warnsignale, eine ausdrücklich übernommene Zusatzberatung und die Empfehlung, vor Bindung oder Fälligkeit steuerlichen Rat einzuholen.
+## 6. Beispiel
 
-Zulässige Hinweise:
-- „Der Vorgang kann inländische Ertragsteuer auslösen. Bitte lassen Sie Ansässigkeit, Erwerbsdatum, Nutzung und Doppelbesteuerungsabkommen vor der Beurkundung steuerlich prüfen."
-- „Die Anteilsübertragung kann wegen inländischen Grundbesitzes grunderwerbsteuerlich relevant sein. Eine steuerliche Prüfung wird empfohlen."
-
-Ohne gesondert übernommenen und fachlich abgesicherten Auftrag zu vermeiden:
-- Konkrete Steuerhöhe berechnen
-- Empfehlen, ob eine Gestaltung steueroptimal ist
-
-## Prüfprogramm
-
-- Wohnsitz/Sitz der Beteiligten: Deutschland oder Ausland?
-- Bei Auslandsgesellschaft: geeigneter aktueller Existenz- und Vertretungsnachweis vorhanden; Apostille, Legalisation und Übersetzung fallbezogen geklärt?
-- GwG: erhöhtes Risiko wegen Hochrisikoland?
-- Hinweis auf mögliche steuerliche Implikationen erteilt und dokumentiert?
-- Mitteilungspflicht nach Paragraf 34 ErbStG anhand der konkreten Urkunde geprüft?
-
-## Typische Fallen
-
-- Apostille oder Übersetzung schematisch verlangen, ohne Staat, Urkundenart und Befreiungsabkommen zu prüfen.
-- Paragraf 50a EStG als automatische Kaufpreiseinbehaltung bei einem Grundstücksverkauf behandeln.
-- Bauabzugsteuer allein aus dem ausländischen Sitz des Unternehmers ableiten.
-- Eine konkrete Ertragsteuer ungeprüft ausrechnen oder als sicher darstellen.
-- Mitteilung nach Paragraf 34 ErbStG bei einer gemischten Schenkung ungeprüft unterlassen.
-
-## Rechtsquellen
-
-- Paragraf 17 BeurkG: https://www.gesetze-im-internet.de/beurkg/__17.html
-- Paragraf 49 EStG: https://www.gesetze-im-internet.de/estg/__49.html
-- Paragraf 50a EStG: https://www.gesetze-im-internet.de/estg/__50a.html
-- Paragraf 48 EStG: https://www.gesetze-im-internet.de/estg/__48.html
-- Paragraf 1 GrEStG: https://www.gesetze-im-internet.de/grestg_1983/__1.html
-- Paragraf 34 ErbStG: https://www.gesetze-im-internet.de/erbstg_1974/__34.html
-- Paragrafen 10 bis 15 GwG: https://www.gesetze-im-internet.de/gwg_2017/__10.html
-
-## Output-Formate
-
-- Steuerliche-Hinweis-Checkliste für die Urkunde
-- Protokoll zum erhöhten GwG-Risiko bei einer Auslandsgesellschaft
-- Anforderungsliste für Existenz- und Vertretungsnachweise
-- Mandantenmail zur gesonderten steuerlichen Prüfung
-- Interner Vermerk zur Mitteilung nach Paragraf 34 ErbStG
-
-Quellenkontrolle: https://www.gesetze-im-internet.de | https://www.rechtsprechung-im-internet.de | https://www.bnotk.de
+Zwei Gründer wollen 25000 Euro Stammkapital und einen nicht beteiligten Geschäftsführer. Das allein schließt das Musterprotokoll nicht aus. Ein zusätzlich gewünschter Zustimmungskatalog für Darlehen führt zur individuellen Satzungsprüfung.
 
 ---
 
-## Skill: `002-beurkundung-oder-unterschriftsbeglaubigung-richtig`
+## Skill: `beteiligte-identitaet-vertretung`
 
-_Prüft zusammengesetzte Notariatsvorgänge auf unterschiedliche Formanforderungen: etwa Kapitalerhöhung mit Übernahme und Registeranmeldung oder Grundschuld mit Unterwerfung. Trennt die Erklärungen und klärt, welche Beglaubigung beziehungsweise Beurkundung jeweils erforderlich ist._
+_Bereitet Personalien, Ausweisabgleich und Vertretungsnachweise für einen Notartermin vor. Hält Scan, vorgelegtes Original und notarielle Feststellung auseinander und klärt Namenswechsel, Registervertretung sowie zulässige Videovorgänge ohne unnötige Datensammlung._
+
+# Beteiligte und Ausweisnachweise für den Termin aufnehmen
+
+## 1. Zweck und Anwendungsfall
+
+Erstelle das Beteiligtenblatt. Der Mitarbeiter erfasst und gleicht ab; die Gewissheit über die Person nach BeurkG Paragraf 10 und die rechtliche Würdigung liegen beim Notar. Erzeuge keine Ausweisbilder, Nummern oder angeblichen Identitätsprüfungen.
+
+## 2. Eingaben
+
+Auftrag, Personendaten, vorhandene Ausweisunterlagen, Registerauszüge, Vollmachten und gewünschter Termin. Lies nur auftragsbezogene Dateien. Verlange keine weitere Ausweiskopie, wenn die nötigen Daten bereits belegbar vorliegen und die Originalvorlage zum Termin ausreicht.
+
+## 3. Ablauf
+
+### 3.1. Beteiligtenrolle und Datensatz anlegen
+
+Erfasse vollständigen Namen, Geburtsnamen soweit relevant, Geburtsdatum, Wohnanschrift und Rolle. Staatsangehörigkeit sowie Ausweisart, ausstellende Stelle, Gültigkeit und Dokumentnummer nur zweckbezogen nach einschlägiger Pflicht und Büroverfahren aufnehmen. Trenne Kontaktadresse und Wohnanschrift. Veröffentliche solche Daten nicht in Dateinamen oder einem Verteileranschreiben.
+
+### 3.2. Herkunft und Abweichung sichtbar halten
+
+Nutze die Statuswerte „Eigenangabe“, „Kopie eingegangen“, „Originalvorlage vorgesehen“ und „Feststellung durch Notar dokumentiert“. Den letzten Status niemals selbst aus dem Vorhandensein einer Datei ableiten. Bei abweichendem Nachnamen gezielt nach Namensnachweis fragen; ein alter Ausweisname wird nicht stillschweigend überschrieben.
+
+Bei Screenshots zuerst tatsächlich sichtbare Vorder- und Rückseiten unterscheiden. Zeichen aus maschineller Texterkennung gegen das Bild prüfen, insbesondere 0 und O, 1 und I sowie Umlaute. Unleserliche Stellen als unleserlich führen; fehlende Ziffern nicht aus einer Prüfsumme erraten. Fordere nur den benötigten Ausschnitt in einem freigegebenen Kanal an. Lege Bildfundstelle und übernommenes Feld intern zusammen, statt den vollständigen Ausweis in jede Vertragsanlage zu kopieren.
+
+### 3.3. Vertreter und Unternehmen prüfen lassen
+
+Erfasse Firma, Sitz, Registergericht, Registernummer, Auszugsdatum, Vertretungsregel und handelnde Person getrennt. Ein Gesellschafter ist nicht automatisch Geschäftsführer. Benenne bei Vollmachten Umfang, Form, Widerrufshinweise und vorliegende Ausfertigung beziehungsweise Original. Bei Auslandsbezug Übersetzung und Nachweisform dem Notar vorlegen. Keine Vertretungsmacht aus einer E-Mail-Signatur ableiten.
+
+### 3.4. Präsenz und Video vorbereiten
+
+Für Präsenz bitte um gültiges Original und konkrete Vertretungsnachweise. Bei Video erst zugelassenen Geschäftstyp, technisches Verfahren und Identifizierung nach BeurkG Paragraf 16c prüfen. Kein privater Videodienst ersetzt das notarielle Verfahren. Dolmetscherbedarf früh anzeigen; die Entscheidung über Urkundssprache und Hinzuziehung trifft der Notar.
+
+Nach geklärtem Namenswechsel nur die betroffenen Bezeichnungen in Urkunde, Anmeldung und Unterschriftsfeldern fortschreiben. An den aufrufenden Fachskill mit dem Herkunfts- und Nachweisstand zurückgeben; kein neues Interview und keine vorschnelle Bestätigung einer Amtshandlung.
+
+## 4. Quellenpflicht
+
+BeurkG Paragrafen 10, 12, 16 und 16c, gegebenenfalls GwG Paragrafen 10 bis 12 nach Vorgang. [Mitarbeiter-Formwege](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/notariat-alltag/references/mitarbeiter-formwege.md) und [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/notariat-alltag/references/zitierweise.md). Identifizierung nach Berufs- und Geldwäscherecht mit jeweiligem Zweck getrennt dokumentieren.
+
+## 5. Ausgabeformat
+
+Beteiligtenblatt mit Quelle und Status, daneben ein vollständig formuliertes Terminanschreiben. Kein fertiger Beglaubigungsvermerk mit behaupteter Anwesenheit. Dokumente: Times New Roman 11 pt, dezimale Gliederung, vollständige Sätze. Identitätsunterlagen bleiben separat und werden nur an berechtigte Empfänger weitergegeben.
+
+## 6. Beispiel
+
+Eine Genehmigung nennt Anna Brandt, der vorab übersandte Ausweis Anna Seidel. Frage nach dem Namensnachweis und kündige die Originalvorlage an. Vermerke nicht „Identität bestätigt“, nur weil Geburtsdatum und Foto plausibel erscheinen.
+
+---
+
+## Skill: `vorsorgevollmacht`
+
+_Bereitet Vorsorgevollmacht, Patientenverfügung und Betreuungswünsche für das Notariat vor. Klärt Umfang, Ersatzvertretung, Immobilienbefugnis und besondere Gesundheitsmaßnahmen und erstellt abgestimmte Entwürfe ohne pauschale Vollmachts- oder Registerwirkungen._
+
+# 1. Vorsorgewünsche in konkrete Erklärungen übertragen
+
+## 1. Zweck und Anwendungsfall
+
+Bereite die tatsächlich gewünschte Vorsorge vor, nicht ein ungeprüftes Paket maximaler Befugnisse. Mitarbeiter formulieren zur notariellen Prüfung; persönliche Belehrung, Feststellungen zur Geschäftsfähigkeit und Amtshandlungen bleiben beim Notar.
+
+## 2. Eingaben
+
+Vorhandene Vollmachten, gewünschte Vertrauensperson und Ersatzperson, Vermögensarten, bestehende Betreuung und konkrete Behandlungswünsche lesen. Ohne Unterlagen zunächst fragen, ob Vertretung im Alltag, medizinische Festlegungen oder beides gewünscht sind. Keine Diagnose aus einem Ausweis oder einer kurzen Nachricht ableiten.
+
+## 3. Ablauf
+
+### 3.1. Außenmacht und interne Begrenzung bestimmen
+
+Einzelvertretung, gemeinschaftliche Vertretung, Ersatzfall, Untervollmacht, Schenkungen und Fortgeltung über den Tod hinaus einzeln klären. Befreiung von BGB Paragraf 181 ist eine bewusste Gestaltungsentscheidung, kein obligatorischer Mindestbestandteil. Eine nur im Innenverhältnis vereinbarte Beschränkung darf nicht als äußere Wirksamkeitsbedingung ausgegeben werden.
+
+### 3.2. Form nach Befugnis prüfen
+
+BGB Paragraf 167 Absatz 2 als Ausgangspunkt, besondere Form- und Nachweiserfordernisse gesondert prüfen. Grundstücksbezug bedeutet nicht immer zwingende Beurkundung der Vollmacht; GBO Paragraf 29 betrifft die Verwendbarkeit des Nachweises. Für die in BGB Paragraf 1820 Absatz 2 bezeichneten Gesundheits- und Freiheitsmaßnahmen schriftliche, ausdrückliche Erfassung prüfen. Gerichtliche Genehmigungserfordernisse werden durch die Vollmacht nicht beseitigt.
+
+### 3.3. Patienten- und Betreuungswünsche unterscheiden
+
+Patientenverfügung nach BGB Paragraf 1827 verbindet Behandlungssituation und konkrete Maßnahme. „Keine lebenserhaltenden Maßnahmen“ allein reicht nicht als universell eindeutige Festlegung. BGH, Beschluss vom 06.07.2016, XII ZB 61/16, behandelt diese Konkretisierung; die damaligen Normnummern nicht als heutige Nummern fortführen. Weder verlangt die Entscheidung ein medizinisches Lehrbuch noch eine stets unwirksame Verfügung bei jeder allgemein gehaltenen Wendung.
+
+Betreuungswünsche nach BGB Paragraf 1816 Absatz 2 benennen gewünschte oder abgelehnte Personen; sie sind keine Vollmacht. Ärztliche Beratung bei offenen Behandlungsfragen empfehlen, ohne sie als allgemeine gesetzliche Wirksamkeitsvoraussetzung zu behaupten.
+
+### 3.4. Nach Antwort Widersprüche auflösen
+
+Will der Auftraggeber die Immobilienbefugnis, aber keine Schenkungen, genau diese Grenze einarbeiten. Widersprechen neue Behandlungswünsche einem alten Text, nur mit eindeutigem Änderungsauftrag bereinigen. Registrierung im Zentralen Vorsorgeregister, Aufbewahrung der Urkunde und Zugang zur Vollmacht getrennt vorbereiten. Die Registereintragung ersetzt weder Vollmacht noch Behandlungserklärung und garantiert nicht, dass niemals eine Betreuung nötig wird.
+
+## 4. Quellenpflicht
+
+[BGB Paragraf 1820](https://www.gesetze-im-internet.de/bgb/__1820.html), [1827](https://www.gesetze-im-internet.de/bgb/__1827.html), [1816](https://www.gesetze-im-internet.de/bgb/__1816.html). Die [amtliche Erläuterung der Patientenverfügungsrechtsprechung](https://www.bmjv.de/DE/themen/vorsorge_betreuungsrecht/patientenverfuegung/Anmerkungen_Urteil_BGH.html) bestätigt den genannten Konkretisierungsmaßstab; sie ist kein hier vollständig neu geprüfter Urteilstext. [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/notariat-alltag/references/zitierweise.md) beachten.
+
+## 5. Ausgabeformat
+
+Gewünschte Erklärungen vollständig ausformuliert als Entwurf zur notariellen Prüfung; konkrete medizinische Auswahlfragen getrennt. Times New Roman 11 pt, dezimale Gliederung. Keine erfundene ärztliche Beratung, Unterschrift oder starre Registergebühr.
+
+## 6. Beispiel
+
+Die Tochter soll Bankgeschäfte allein führen, das Grundstück aber nur gemeinsam mit dem Sohn verkaufen dürfen. Formuliere diese Befugnisse getrennt und kläre den Ausfall einer Person. Keine pauschale Generalvollmacht mit unbemerkter Einzelvertretung liefern.
+
+---
+
+## Skill: `vollzug-fristen-wiedervorlage`
+
+_Führt notarielle Vorgänge nach Entwurf oder Beurkundung weiter: Nachweise, Kaufpreisfälligkeit, Registereingänge, Zwischenverfügungen und offene Vollzugsreste. Aktualisiert nur betroffene Schritte und bereitet Nachforderungen oder Abschlussmitteilungen vor._
+
+# 1. Vollzug, Fristen und Aktenabschluss nachhalten
+
+## 1. Zweck und Anwendungsfall
+
+Bearbeite den nächsten offenen Vollzugsschritt anhand des wirklichen Nachweisstands. Ein fertig erstellter Vertrag ist nicht automatisch beurkundet oder vollzogen. Mitarbeiter führen Wiedervorlagen; Amtshandlungen und Freigaben bleiben beim Notar.
+
+## 2. Eingaben
+
+Übernimm Vorgangsnummer, aktuelle Urkundenfassung, Vollzugsauftrag, Fristen mit Quelle und zuletzt eingegangene Nachweise. Lies zunächst neue Post und die davon betroffene Bedingung, nicht erneut den gesamten Mandantenordner.
+
+## 3. Ablauf
+
+### 3.1. Voraussetzungen statt bloßer Aufgabenliste führen
+
+Verknüpfe jede Handlung mit ihrer Grundlage: Vormerkung, Genehmigung, Lastenfreistellung, Kapitalzahlung, Registerversicherung oder Bedingung einer Abtretung. Notiere Belegdatum, zuständigen Bearbeiter und fehlenden Nachweis. Gesetzliche Frist, gerichtliche Frist, vertraglichen Termin und interne Wiedervorlage deutlich unterscheiden. Kein universelles Fristenmuster verwenden.
+
+### 3.2. Neue Post gegen die konkrete Bedingung prüfen
+
+Eine Bankeingangsbestätigung erledigt keine Lastenfreistellung. Eine Überweisungsankündigung belegt keine Einlage. Eine elektronische Empfangsbestätigung ist keine Registereintragung. Bei Teilvollzug nur nachgewiesene Teilschritte schließen. Ein abgelaufener Ablösestichtag verlangt aktualisierte Beträge, bevor daraus eine Zahlungsmitteilung vorbereitet wird.
+
+### 3.3. Gezielt anfordern und fortsetzen
+
+Bei ausstehender Antwort nach dem konkret fehlenden Dokument und erwarteten Eingang fragen. Eine nahe Zwischenverfügungsfrist dem Notar mit vorbereitetem Nachreichungs- oder Verlängerungsschreiben vorlegen. Verlängerung erst nach bestätigter Bewilligung als wirksam führen. Im Anschluss an Bank- oder Registerantwort die betroffenen Vertrags- und Mitteilungstexte aktualisieren; kein neues Aufnahmeinterview.
+
+### 3.4. Abschluss nach tatsächlichem Vollzug
+
+Eintragungsmitteilung gegen Antrag, Recht, Betrag und Rang prüfen. Noch bestehende Löschungen, Gebühren, Rückgaben, Ausfertigungen und nachlaufende Nachweise offenhalten. Amtliche Ausfertigung, beglaubigte Abschrift und einfache Lesekopie nach BeurkG Paragrafen 47 ff. unterscheiden; einen Export nicht als Ausfertigung bezeichnen. Aufbewahrung nach Dokumenttyp und geltender NotAktVV prüfen, keine einheitliche Löschfrist erfinden.
+
+## 4. Quellenpflicht
+
+Je nach Vorgang [GBO Paragraf 18](https://www.gesetze-im-internet.de/gbo/__18.html), BeurkG Paragraf 17 Absatz 2a, GmbHG Paragrafen 40 und 54 sowie GwG Paragraf 16a heranziehen. Quelle, Fristbeginn und Rechtsfolge müssen zusammenpassen. [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/notariat-alltag/references/zitierweise.md) beachten.
+
+## 5. Ausgabeformat
+
+Das bestellte Nachforderungsschreiben, die Abschlussmitteilung oder der Vorlagevermerk steht vollständig ausformuliert im Vordergrund. Eine knappe interne Wiedervorlage ergänzt ihn nur bei Bedarf. Times New Roman 11 pt und dezimale Gliederung; keine fingierte Zahlung, Eintragung oder Freigabe.
+
+## 6. Beispiel
+
+Eine Vormerkung ist eingetragen, die Ablösebank hat aber nur den Eingang der Anfrage bestätigt. Übernimm den ersten Nachweis, fordere die konkrete Freistellung nach und lasse die davon abhängige Fälligkeitsmitteilung offen.
+
+---
+
+## Skill: `auslandsurkunde-apostille-vollmacht`
+
+_Bereitet ausländische Vollmachten, Genehmigungen und Vertretungsnachweise für notarielle Vorgänge auf. Trennt Echtheitsnachweis, Übersetzung, materiellen Umfang und Registerform und erstellt eine konkrete Nachforderung statt pauschaler Anerkennungszusagen._
+
+# 1. Auslandsnachweise für den Urkundenvorgang klären
+
+## 1. Zweck und Anwendungsfall
+
+Löse das konkrete Nachweisproblem eines abwesenden Beteiligten oder ausländischen Rechtsträgers. Apostille, Vollmachtsumfang und zulässige Verwendung im deutschen Register sind verschiedene Prüfungen. Mitarbeiter bereiten vor; Amtshandlungen und Freigaben bleiben beim Notar.
+
+## 2. Eingaben
+
+Lies vollständige Urkunde einschließlich Beglaubigungs- und Apostillenseiten, Herkunftsstaat, Aussteller, vorgesehenes Geschäft und Verwendungszweck. Bei einem Scan notiere den noch offenen Original- beziehungsweise elektronischen Nachweisstand. Frage nicht erneut nach dem Staat, wenn er aus der Urkunde hervorgeht.
+
+## 3. Ablauf
+
+### 3.1. Erklärungsinhalt vor Echtheitskette lesen
+
+Welche Person darf für wen welches Geschäft abschließen? Prüfe Kauf, Belastung, Anteilstransaktion, Untervollmacht und mögliche Beschränkungen einzeln. Eine Generalüberschrift ersetzt den tatsächlichen Umfang nicht. Bei vollmachtlosem Auftreten Genehmigung und deren notwendigen Zugang vorbereiten; keine bereits erteilte Vollmacht fingieren. BGB Paragrafen 164 ff., 177, 182 und BeurkG Paragraf 12 sind die Ausgangspunkte.
+
+### 3.2. Echtheit und Befreiung bestimmen
+
+Prüfe zuerst eine einschlägige Befreiung, dann Apostille oder Legalisation anhand Staat, Urkundentyp und zuständiger Stelle. Die Verordnung (EU) 2016/1191 befreit bestimmte öffentliche Urkunden im geregelten Anwendungsbereich, nicht jede Handelsregistervollmacht aus einem Mitgliedstaat. Das mehrsprachige Formular ist kein allgemeines Erfordernis der Befreiung. Eine Apostille bestätigt nicht die Richtigkeit des Vertragsinhalts oder die materielle Vertretungsmacht.
+
+### 3.3. Form und Übersetzung für den Empfänger klären
+
+Für Grundbuchnachweise GBO Paragraf 29, für Registeranmeldungen HGB Paragraf 12 beachten. Echtheitsbestätigung allein ersetzt die Prüfung einer erforderlichen Gleichwertigkeit der ausländischen Amtshandlung nicht. EGBGB Artikel 11 nicht als pauschale Zulassung jedes ausländischen Grundstücksgeschäfts verwenden. Umfang einer Übersetzung und gegebenenfalls konkrete gerichtliche Anforderungen ermitteln; ausländische Übersetzer nicht ohne Prüfung generell ausschließen.
+
+### 3.4. Nachforderung in verwendbare Unterlagen umsetzen
+
+Fordere genau fehlende Seite, Nachweisform oder Übersetzung mit Vorgangsbezug an. Bei Eingang der Papierurkunde sämtliche Anlagen und Einschränkungen gegen den Scan vergleichen. Eine später eingegangene Vollmacht darf nicht rückwirkend als am früheren Termin vorgelegt beschrieben werden. Übergib nur geänderte Beteiligten- und Vertretungsangaben an `beteiligte-identitaet-vertretung`; anschließend im begonnenen Urkundenentwurf fortsetzen.
+
+## 4. Quellenpflicht
+
+[EU-Verordnung 2016/1191](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32016R1191), [Haager Apostille-Übereinkommen](https://www.hcch.net/de/instruments/conventions/full-text/?cid=41), aktuelle staatenbezogene amtliche Hinweise und [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/notariat-alltag/references/zitierweise.md). Ohne überprüften Länderstand keine verbindliche Anerkennungszusage.
+
+## 5. Ausgabeformat
+
+Vollständige Unterlagenanforderung oder Vorlage zur notariellen Prüfung, getrennt nach fehlendem Inhalt und fehlender Nachweisform. Times New Roman 11 pt, dezimale Gliederung. Die Urkunde selbst nur im beauftragten Umfang ändern; keine selbst erstellte Apostille, Beglaubigung oder Übersetzerbescheinigung.
+
+## 6. Beispiel
+
+Die Vollmacht aus Portugal liegt als Farbscan vor, das Papier soll unterwegs sein. Bereite den Vertretungsabschnitt vorläufig vor und benenne die fehlende verwendbare Urkunde. Eine Versandmeldung ist kein Eingang; nach Eingang den tatsächlichen Umfang und alle verbundenen Seiten prüfen.
+
+---
+
+## Skill: `grundschuld-buchgrundschuld-treuhand`
+
+_Bereitet Grundschuldbestellungen aus Bankauftrag und Grundbuch vor. Trennt dingliche Sicherheit, persönliche Haftung, Vollstreckungsunterwerfung, Sicherungszweck und Treuhandauflagen und führt Rang sowie Lastenfreistellung zur notariellen Prüfung zusammen._
+
+# Grundschuld und Bankauftrag abstimmen
+
+## 1. Zweck und Anwendungsfall
+
+Bereite eine Grundschuldbestellungsurkunde oder eine reine Bewilligung entsprechend dem tatsächlichen Auftrag vor. Bankformular, Grundstück und Beteiligte werden abgeglichen. Notarielle Entscheidungen, Vollstreckungsklauseln und Zahlungsfreigaben bleiben beim Notar.
+
+## 2. Eingaben
+
+Bankauftrag mit Bedingungen, Grundbuchstand, Eigentümer, Darlehensnehmer, Vollmachten, Kaufvertrag, bestehende Grundpfandrechte und Ablöseunterlagen. Bei abweichender Anschrift nicht die Grundstücksbezeichnung aus einer privaten E-Mail übernehmen.
+
+## 3. Ablauf
+
+### 3.1. Betrag und gesicherte Forderung auseinanderhalten
+
+Erfasse Grundschuldbetrag, dinglichen Zinssatz, Zinsbeginn, Nebenleistung und Gläubiger wortgetreu. Die abstrakte Grundschuld sichert nicht automatisch jede denkbare Forderung; der Umfang der Verwertung wird durch die Sicherungsabrede bestimmt. Darlehenszinsen sind nicht mit dinglichen Zinsen gleichzusetzen. Sicherungsabrede und Bankauftrag bleiben unterscheidbare Unterlagen.
+
+### 3.2. Form und Haftung getrennt vorbereiten
+
+Für die Grundbucheintragung sind Bewilligung und Nachweisform nach GBO Paragrafen 19 und 29 zu prüfen. Nicht jede Grundschuldbestellung verlangt allein deshalb eine beurkundete Willenserklärung. Eine Vollstreckungsunterwerfung als Titel nach ZPO Paragraf 794 Absatz 1 Nummer 5 gehört dagegen in die notarielle Urkunde. Trenne dingliche Unterwerfung, gegebenenfalls mit Wirkung nach ZPO Paragraf 800, von persönlichem Schuldanerkenntnis und persönlicher Unterwerfung. Miteigentum macht den Nichtdarlehensnehmer nicht automatisch zum persönlichen Schuldner.
+
+### 3.3. Grundstück und Rang sichern
+
+Gleiche Eigentümeranteile, laufende Nummern, Grundstücke und bestehende Rechte in beiden Belastungsabteilungen ab. Rang nach BGB Paragraf 879, GBO Paragraf 45 und konkreten Eintragungen bestimmen; nicht pauschal nur nach Kalendertag. Gewünschter erster Rang ist noch kein vorhandener erster Rang. Bei Löschung, Abtretung oder Rangänderung jeweilige Nachweise und Berechtigte erfassen.
+
+### 3.4. Buch oder Brief und Treuhandbedingungen prüfen
+
+Buchgrundschuld und Briefgrundschuld unterscheiden; bei bestehendem Briefrecht den tatsächlichen Briefverbleib dokumentieren. Keine Briefübergabe oder Kraftlosigkeit erfinden. Ordne Ablösebetrag, Gültigkeitsdatum, Tageszinsen, Zahlungsadressat und Freigabebedingung jeweils der betreffenden Bank zu. Ein Treuhandauftrag wird nicht durch bloße Ablage erfüllt.
+
+### 3.5. Ausfertigung und Vollzug vorbereiten
+
+Unterschrift, notarielle Freigabe, Einreichung, Eintragung und Ausfertigung haben eigene Status. Vollstreckbare Ausfertigungen nach ZPO Paragraf 797 und gegebenenfalls weitere Ausfertigungen nach Paragraf 733 nur nach zuständiger Prüfung vorbereiten. Keine automatische Titelausgabe und keine ungeprüften Fixgebühren.
+
+## 4. Quellenpflicht
+
+BGB Paragrafen 873, 879, 1191 und 1192; GBO Paragrafen 19, 29 und 45; ZPO Paragrafen 733, 794, 797 und 800. [Amtliche Links](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/notariat-alltag/references/mitarbeiter-formwege.md), [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/notariat-alltag/references/zitierweise.md).
+
+## 5. Ausgabeformat
+
+Ausformulierter Entwurf zur notariellen Prüfung mit getrennten Haftungserklärungen, Bankabgleich und offenen Vollzugsbedingungen. Times New Roman 11 pt, dezimale Gliederung. Keine Klauselskelette, erfundenen Urkundennummern oder behaupteten Originalvorlagen.
+
+## 6. Beispiel
+
+Das Ehepaar besitzt je die Hälfte; nur der Mann ist Darlehensnehmer. Der Bankauftrag verlangt persönliche Haftung beider. Zeige die Abweichung ausdrücklich und kläre den Erklärungswillen über den Notar. Ergänze die Ehefrau nicht stillschweigend als persönliche Schuldnerin.
+
+---
+
+## Skill: `bautraegervertrag-mabv-familiengesellschaft`
+
+_Bereitet Grundstückskauf- und Bauträgerverträge für die notarielle Prüfung vor. Verbindet Käuferdaten, Grundbuch, Teilung, Leistungsumfang und Finanzierung mit Verbraucherfrist, Entwurfsstand und Vollzug; unterscheidet Bestandskauf vom MaBV-Zahlungsplan._
+
+# 1. Grundstücks- und Bauträgerkauf vorbereiten
+
+## 1. Zweck und Anwendungsfall
+
+Erstelle den prüffähigen Entwurf für Grundstück, Wohnung, Haus oder Teileigentum. Unterscheide den Kauf eines Bestandsobjekts vom Bauträgergeschäft mit Bauverpflichtung. Prüfe auch bei einer Familiengesellschaft, wer Unternehmer und wer Verbraucher ist; verwandtschaftliche Nähe ersetzt weder Form noch Schutzvorschriften. Die Mitarbeiter bereiten vor, der Notar prüft und belehrt.
+
+## 2. Eingaben
+
+Auftrag, Verkäufer- und Käuferdaten, Register- und Grundbuchunterlagen, Teilungserklärung, Aufteilungsplan, Baubeschreibung, Kaufpreis, Sonderwünsche, Baugenehmigung und Bankunterlagen. Fehlende Dokumente als fehlend kennzeichnen; ein Exposé ersetzt keine vollständige Baubeschreibung.
+
+## 3. Ablauf
+
+### 3.1. Kaufobjekt und Leistungen eindeutig zuordnen
+
+Gleiche Grundbuchblatt, Gemarkung, Flurstück, Miteigentumsanteil, Einheit, Stellplatz und Sondernutzungsrechte ab. Wohnfläche, Bauleistung und Fertigstellungstermin mit konkreter Quellenversion erfassen. Ein geänderter Grundriss darf nicht stillschweigend als identisch behandelt werden. Bei Sonderwünschen Preis, Auftragnehmer, Fälligkeit und Zusammenhang mit dem Hauptvertrag dem Notar vorlegen.
+
+### 3.2. Entwurf und Verbraucherfrist organisieren
+
+BGB Paragraf 311b Absatz 1 verlangt notarielle Beurkundung. Bei Verbraucherverträgen im Anwendungsbereich von BeurkG Paragraf 17 Absatz 2a soll der beabsichtigte Text im Regelfall zwei Wochen zuvor vom beurkundenden oder einem mit ihm verbundenen Notar bereitgestellt werden. Maklerversand ist nicht automatisch gleichwertig. Dokumentiere tatsächliche Bereitstellung, Anlagen und spätere wesentliche Änderungen. Eine Fristverkürzung nicht allein aus einem Kundenwunsch genehmigen; der Notar entscheidet und dokumentiert den Grund.
+
+### 3.3. Zahlungsplan mit Sicherungen verbinden
+
+Beim Bestandskauf ohne Bauträgerleistung keinen MaBV-Ratenplan einsetzen. Kaufpreis, Inventar, Besitzübergang, bestehende Mietverhältnisse und Lastenfreistellung anhand der Akte regeln. Bei einem vermieteten Objekt nicht stillschweigend eine geräumte Übergabe versprechen. BGB Paragrafen 873, 883 und 925 trennen Eigentumsänderung, Vormerkung und Auflassung. Die folgenden MaBV-Schritte gelten nur für den entsprechenden Bauträgerweg.
+
+MaBV Paragraf 3 Absatz 1 und Absatz 2 getrennt prüfen: allgemeine Sicherungsvoraussetzungen einerseits, baufortschrittsabhängige Teilbeträge andererseits. Bis zu sieben Teilbeträge, nicht sieben beliebige Prozentsätze. Die Prozentsätze nach Absatz 2 Nummer 2 beziehen sich auf den Restbetrag; die 30-Prozent-Erdarbeitsrate beim Grundstückseigentum hat eine andere Basis. Keine Rechnungsfälligkeit allein aus einer Bauträger-E-Mail ableiten. Eine Sicherheit nach MaBV Paragraf 7 ist ein gesondert zu prüfender Weg.
+
+### 3.4. Vertragsentwurf vervollständigen
+
+Trenne Errichtung, Übereignung, Besitzübergang, Abnahme, Mängelrechte und Schlusszahlung. Gemeinschaftseigentum und Sondereigentum benötigen passende Abnahmeregeln. Prüfe BGB Paragrafen 650u und 650v sowie MaBV nach konkretem Vertrag; Verbraucherbauvertrag und Bauträgervertrag nicht gleichsetzen. Belastungsvollmacht, Rang und Lastenfreistellung mit der Käuferfinanzierung abstimmen, keine pauschale Sicherung fremder Verbindlichkeiten.
+
+### 3.5. Vollzug vorbereiten
+
+Führe Vormerkung, Genehmigungen, Lastenfreistellungsunterlagen, Fälligkeitsmitteilung, Zahlung und Eigentumsumschreibung als getrennte Schritte. Ein Mitarbeiterentwurf ist keine Fälligkeitsfreigabe. Bei widersprüchlicher Bankbestätigung nur den betroffenen Schritt sperren und die übrige Mappe fertigstellen.
+
+### 3.6. Antwort in die Vertragsfassung übernehmen
+
+Ist nur der Preis eines Sonderwunsches bestätigt, aber nicht dessen Plan, frage genau nach der technischen Fassung. Ist eine Übergabeänderung vereinbart, gleiche Besitz, Nutzen, Lasten und Mietabrechnung ab. Bereite zunächst die konkrete Rückfrage und die belegbaren Vertragsteile vor; nach Antwort den vollständigen Entwurf fortführen, nicht erneut alle Käuferdaten abfragen. Zur Grundbuchanmeldung anschließend nur den betroffenen Auftrag an [Grundbuch und Rang](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/notariat-alltag/skills/grundbuchantrag-rangstelle-notarielle/SKILL.md) übergeben.
+
+## 4. Quellenpflicht
+
+[Amtliche Formwege](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/notariat-alltag/references/mitarbeiter-formwege.md), BGB Paragrafen 311b, 650u und 650v; BeurkG Paragraf 17; MaBV Paragrafen 3 und 7. [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/notariat-alltag/references/zitierweise.md). Konkrete Rechtsprechung etwa zu Abnahmeklauseln nur nach verifizierter Fundstelle einsetzen.
+
+## 5. Ausgabeformat
+
+Vollständig formulierter Kaufvertragsentwurf zur notariellen Prüfung, Anlagenverzeichnis mit Versionsstand und getrenntes Nachforderungsschreiben. Keine erfundenen Genehmigungen oder bloßen Klauselrümpfe. Times New Roman 11 pt, dezimale Gliederung. Ein Zahlplan enthält Betrag, Rechenbasis, Bautenstand und zusätzliche Fälligkeitsbedingungen.
+
+## 6. Beispiel
+
+Die Käufer erhalten vom Vertrieb am 2. September Erwerbsunterlagen, die vollständige notarielle Fassung erst später. Übernimm den Vertriebsversand nicht als Beginn der Regelüberlegungsfrist. Ein noch nicht abgestimmter Grundriss bleibt ein offener Vertragsbestandteil.
+
+---
+
+## Skill: `geschaeftsfuehrer-bestellung-register`
+
+_Bereitet Geschäftsführerbestellung, Abberufung und Handelsregisteranmeldung für GmbH und UG vor. Gleicht Beschlussdatum, Wirksamkeit, Vertretungsregel und Versicherungen ab und stellt die elektronische Registermappe zur notariellen Freigabe zusammen._
+
+# Geschäftsführerwechsel und Handelsregisteranmeldung vorbereiten
+
+## 1. Zweck und Anwendungsfall
+
+Aus Gesellschafterauftrag und Registerbestand werden getrennte Beschluss- und Anmeldedokumente. Die Bestellung ist nicht der Anstellungsvertrag; die Eintragung wird nicht mit dem internen Wirksamkeitsbeginn gleichgesetzt.
+
+## 2. Eingaben
+
+Satzung, Registerauszug, Gesellschafterliste, Beschluss oder Beschlusswunsch, Annahme der Bestellung, Personalien und gewünschte Vertretung. Belegte Daten übernehmen und nur widersprechende oder entscheidende fehlende Angaben nachfragen.
+
+## 3. Ablauf
+
+### 3.1. Beschluss und Datum festlegen
+
+Prüfe Zuständigkeit nach GmbHG Paragraf 46 Nummer 5 und Satzung, Einberufung, Stimmen, Annahme und Bedingungen. Für die bloße Bestellung oder Abberufung besteht regelmäßig keine gesetzliche Beurkundungspflicht; Satzungsänderungen und gekoppelte Vorgänge gesondert behandeln. Kündigung des Anstellungsvertrags folgt nicht automatisch aus der Abberufung.
+
+### 3.2. Vertretung wortgetreu abgleichen
+
+Trenne allgemeine Satzungsregel, konkrete Einzelvertretungsbefugnis und Befreiung von BGB Paragraf 181. Übernimm keine Befreiung aus einem fremden Muster. Bei zeitversetztem Ausscheiden und Eintritt prüfen, wer im Zwischenzeitraum vertreten und anmelden kann. Einen ausgeschiedenen Geschäftsführer nicht ohne Prüfung als Anmelder einsetzen.
+
+### 3.3. Anmeldung und Nachweise vorbereiten
+
+GmbHG Paragraf 39 verlangt die Anmeldung und Nachweise; Absatz 2 nennt Original oder öffentlich beglaubigte Abschrift der Urkunden zur Bestellung beziehungsweise Beendigung. Die Versicherung nach Absatz 3 mit den aktuellen Anforderungen und erforderlicher Belehrung dem Notar vorlegen. Nicht als bereits abgegeben markieren. Konkrete Anmeldezuständigkeit anhand Paragraf 78 und des Übergangsstands prüfen.
+
+### 3.4. Vollzug überwachen
+
+Die Anmeldung wird nach HGB Paragraf 12 formgerecht elektronisch eingereicht. Mitarbeiter bereiten die Mappe vor, fingieren aber keine Signatur oder Einreichung. Nach Freigabe Versandnachweis und nach tatsächlichem Eingang Registermitteilung abgleichen. Allein wegen eines Geschäftsführerwechsels ist keine Gesellschafterlistenänderung nötig.
+
+## 4. Quellenpflicht
+
+GmbHG Paragrafen 6, 35, 38, 39, 46 und 78; HGB Paragraf 12; BGB Paragraf 181. [Amtliche Formwege](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/notariat-alltag/references/mitarbeiter-formwege.md) und [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/notariat-alltag/references/zitierweise.md).
+
+## 5. Ausgabeformat
+
+Beschlussentwurf, Anmeldeentwurf, Nachweise und Vorlagevermerk in vollständigen Sätzen. Times New Roman 11 pt, dezimale Gliederung, Kennzeichnung als Entwurf zur notariellen Prüfung. Keine Halbsatzvorlagen, vorausgefüllten Unterschriften oder behaupteten Registereinträge.
+
+## 6. Beispiel
+
+Der alte Geschäftsführer soll am 10. Oktober ausscheiden; der neue soll am selben Tag beginnen. Halte beide Daten fest und prüfe, wer wann anmeldet. Eine vorherige E-Mail macht den Wechsel nicht schon wirksam.
+
+---
+
+## Skill: `kostenrechnung-gnotkg`
+
+_Erstellt nachvollziehbare Entwürfe notarieller Kostenberechnungen aus Auftrag, Urkunde und Vollzug. Ordnet Kostenschuldner, Geschäftswerte, Gebührentatbestände, Auslagen und Vorschüsse zu, ohne feste Gebühren aus unverifizierten Tabellen zu erfinden._
+
+# 1. Notarielle Kostenberechnung vorbereiten
+
+## 1. Zweck und Anwendungsfall
+
+Berechne den beauftragten Vorgang anhand der tatsächlichen Tätigkeiten. Ein Kostenvoranschlag ist keine endgültige Kostenforderung. Mitarbeiter bereiten vor; Prüfung und Veranlassung der Kostenanforderung bleiben beim Notar.
+
+## 2. Eingaben
+
+Auftrag, Geschäft und Datum, Urkunde oder abgebrochenen Entwurf, Vollzugstätigkeiten, Wertbelege, Kostentragungsabrede, Auslagen und Vorschüsse lesen. Frage bei einer Schätzung gezielt nach fehlendem Wert oder Leistungsumfang, nicht erneut nach sämtlichen Beteiligten.
+
+## 3. Ablauf
+
+### 3.1. Tätigkeiten und Kostenschuldner abgrenzen
+
+Verfahren, selbstständige Geschäfte und tatsächlich ausgeführte Vollzugs- oder Betreuungstätigkeiten zuordnen. Nach GNotKG Paragrafen 29 ff. gesetzliche Kostenschuld von einer internen Kostentragungsvereinbarung unterscheiden. Mehrere Urkunden nicht automatisch als mehrere volle Gebühren abrechnen; Gegenstandsgleichheit, Zusammenrechnung und besondere Vorschriften prüfen.
+
+### 3.2. Werte und Gebühren mit Herkunft rechnen
+
+Für jede Position Wertvorschrift, Wertbeleg, Nummer des Kostenverzeichnisses, Satz und gültige Tabelle nennen. Kaufpreis ist nicht bei jeder Tätigkeit der maßgebliche Geschäftswert; bei Grundpfandrechten, Gesellschaftsmaßnahmen und Vollmachten die einschlägigen Sondervorschriften lesen. Fehlt die aktuelle Tabelle, liefere eine bezeichnete Rechenvorlage und die fehlende Quelle, keinen geratenen Eurobetrag.
+
+### 3.3. Rechnung und Begründung fertigstellen
+
+Anforderungen nach GNotKG Paragraf 19 beachten: Verfahren oder Geschäft, Kostenverzeichnisnummern, Geschäftswerte, Einzelbeträge und gezahlte Vorschüsse. Auslagen und Umsatzsteuer nachvollziehbar berechnen, Rundung prüfen. Die aktuelle Textform nicht durch eine erfundene allgemeine Unterschriftspflicht ersetzen. Schätzannahmen nur in Kostenauskunft und Begleitvermerk führen, nicht als feststehende Gebührenfakten.
+
+### 3.4. Bei Änderung fortschreiben
+
+Wenn nur der Kaufpreis berichtigt wird, betroffene Wertpositionen nachrechnen; unveränderte Fremdauslagen nicht nochmals erheben. Bei Abbruch den tatsächlichen Bearbeitungsstand und einschlägigen Tatbestand prüfen, nicht ungeprüft die geplante Beurkundung abrechnen. Einwendungen zur konkreten Position beantworten; gerichtliche Überprüfung nach Paragraf 127 gesondert dem Notar vorlegen.
+
+## 4. Quellenpflicht
+
+[GNotKG](https://www.gesetze-im-internet.de/gnotkg/) einschließlich aktueller Anlagen und [Paragraf 19](https://www.gesetze-im-internet.de/gnotkg/__19.html). Quellen und Tabellenstand nach [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/notariat-alltag/references/zitierweise.md) dokumentieren. Keine veralteten Pauschalgebühren aus dem Gedächtnis.
+
+## 5. Ausgabeformat
+
+Rechenfähige Kostenberechnung mit vollständigem Anschreiben zur notariellen Prüfung; notwendige Zahlen dürfen tabellarisch stehen. Times New Roman 11 pt, dezimale Gliederung. Offenlassen einer fehlenden Wertgrundlage ist besser als eine scheinbar fertige, unbelegte Rechnung.
+
+## 6. Beispiel
+
+Zum Anteilskauf kommt eine gesonderte Verpfändung hinzu. Prüfe die tatsächlichen Erklärungen und Kostenverzeichnispositionen. Multipliziere nicht bloß den Kaufpreis mit einer allgemeinen „Notarquote“.
+
+---
+
+## Skill: `kapitalerhoehung-beschluss-register`
+
+_Bereitet die GmbH-Kapitalerhöhung als zusammenhängenden Vorgang vor: Beschluss, Bar- oder Sacheinlage, Übernahmeerklärungen, Einzahlungsnachweise und Registervollzug. Trennt Beurkundung des Beschlusses von Beglaubigung der Übernahme und Anmeldung._
+
+# Kapitalerhöhung beschließen und zum Register vorbereiten
+
+## 1. Zweck und Anwendungsfall
+
+Bereite eine GmbH-Kapitalerhöhung vor. Bei AG, Kapitalerhöhung aus Gesellschaftsmitteln, genehmigtem Kapital oder verschleierter Sacheinlage nicht den normalen Barkapitalweg fortsetzen, sondern den Sonderweg klären lassen.
+
+## 2. Eingaben
+
+Registerauszug, vollständige Satzung, letzte Gesellschafterliste, Beteiligungsabsprache, Einlageart, Nennbetrag, Aufgeld und Beschlusstag. Lies vorhandene Unterlagen vor einer Rückfrage. Ein Beteiligungsangebot ist noch keine Übernahmeerklärung.
+
+## 3. Ablauf
+
+### 3.1. Kapital und Stimmrechte abstimmen
+
+Rechne bisherige Anteile, Erhöhungsbetrag und neues Stammkapital. Trenne Nennbetrag und Aufgeld. Prüfe Einberufung, Beschlussfähigkeit, Dreiviertelmehrheit nach GmbHG Paragraf 53 Absatz 2, strengere Satzungsvorgaben und betroffene Zustimmungen. Bezugsrechte und deren Behandlung anhand Satzung und Beschlusskonzept dem Notar vorlegen; kein automatischer Verzicht durch Nichtteilnahme.
+
+### 3.2. Drei verschiedene Erklärungen erstellen
+
+Der satzungsändernde Beschluss muss nach Paragraf 53 Absatz 3 notariell beurkundet werden. Die Erklärung des Übernehmers nach Paragraf 55 Absatz 1 ist notariell aufgenommen oder beglaubigt. Die Registeranmeldung folgt HGB Paragraf 12. Bloße Beglaubigung aller Unterschriften genügt nicht für den Erhöhungsbeschluss.
+
+### 3.3. Kapitalaufbringung belegen
+
+Bei Barerhöhung gelten Paragraf 56a und die dort bezeichneten Teile von Paragraf 7; die Mindesteinzahlung ist je neuem Anteil zu prüfen. Keine zusätzliche pauschale Forderung von 12500 Euro für jede Erhöhung aus dem Gründungsrecht ableiten. Bei Sacheinlagen Gegenstand, Zuordnung, Bewertung und Unterlagen nach Paragrafen 56 und 57 prüfen lassen. Verrechnung, Hin- und Herzahlen oder vorherige Zahlung gesondert markieren. Aufgeld wird nicht zu Nennkapital.
+
+### 3.4. Reihenfolge für den Vollzug festhalten
+
+Beschluss, vollständige Übernahme, erforderliche Leistung und Geschäftsführer-Versicherung müssen zur Anmeldung passen. Bereite Übernehmerliste und notariell bescheinigten vollständigen Satzungswortlaut nach Paragrafen 54 und 57 vor; verwechsle die Übernehmerliste nicht mit der Gesellschafterliste nach Paragraf 40. Die Satzungsänderung wird erst mit Eintragung wirksam, Paragraf 54 Absatz 3. Einen gleichzeitigen Geschäftsführerwechsel mit eigenem Wirksamkeitsdatum bearbeiten.
+
+## 4. Quellenpflicht
+
+GmbHG Paragrafen 53 bis 57 sowie 40; HGB Paragraf 12. [Mitarbeiter-Formwege](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/notariat-alltag/references/mitarbeiter-formwege.md), [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/notariat-alltag/references/zitierweise.md). Weitere Quellen zur konkreten Sacheinlage oder Bezugsrechtsmaßnahme gezielt verifizieren.
+
+## 5. Ausgabeformat
+
+Ausformulierte Entwürfe für Beschluss, Übernahme und Anmeldung sowie Kapitaltabelle mit Altbestand, Zugang und Endbestand. Offene Nachweise separat; keine erfundene Versicherung. Times New Roman 11 pt, dezimale Gliederung, Status „Entwurf zur notariellen Prüfung“. Keine Klauselrümpfe als Endprodukt.
+
+## 6. Beispiel
+
+Ein Investor zahlt 50000 Euro für einen neuen Anteil von 10000 Euro. Weise 10000 Euro Nennbetrag und 40000 Euro Aufgeld getrennt aus. Ein Überweisungsentwurf ist noch kein Einzahlungsnachweis.
+
+---
+
+## Skill: `formweg-beurkundung-beglaubigung`
+
+_Ordnet für die Notariatsmitarbeiter jede konkrete Erklärung dem passenden Formweg zu: Beurkundung, Unterschriftsbeglaubigung, Abschriftsbeglaubigung oder einfache Beschlussfassung. Bereitet Termin, Nachweise und getrennte Registerunterlagen vor._
 
 # Beurkundung und Beglaubigung sicher vorbereiten
 
 ## 1. Zweck und Anwendungsfall
 
-Nutze diesen Vertiefungsweg bei zusammengesetzten Vorgängen oder widersprüchlichen Formwünschen. Für die erste Zuordnung eines einzelnen Kundenauftrags genügt der Mitarbeiterweg zur Formeinordnung. Kläre hier die Form jeder Erklärung, nicht bloß den Titel des Gesamtvorgangs. Mitarbeiter bereiten vor; nur der Notar nimmt die Amtshandlung vor. Eine Unterschriftsbeglaubigung ersetzt keine notwendige Beurkundung des Inhalts.
+Kläre die Form einer bestimmten Erklärung, nicht bloß den Titel des Gesamtvorgangs. Mitarbeiter bereiten vor; nur der Notar nimmt die Amtshandlung vor. Eine Unterschriftsbeglaubigung ersetzt keine notwendige Beurkundung des Inhalts.
 
 ## 2. Eingaben
 
@@ -520,111 +730,289 @@ Ein Geschäftsführerwechsel wird zusammen mit einer Kapitalerhöhung angemeldet
 
 ---
 
-## Skill: `notariat-058-sanierungs-insolvenzbezug-anteils`
+## Skill: `urkundenentwurf-aendern-abgleichen`
 
-_Für Notariat im Alltag: Sanierungs- und Insolvenzbezug bei Anteils- und Immobilienverträgen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Notariat im Alltag. Route: notariat-058-sanierungs-insolvenzbezug-anteils._
+_Arbeitet Mandantenkorrekturen in notarielle Entwürfe ein, gleicht Urkunde und Anlagen ab und trennt Entwurfsänderung, offensichtliche Unrichtigkeit und nachträgliche Vertragsänderung. Liefert bereinigte Fassung und gezielte Vorlage an den Notar._
 
-# Notariat im Alltag: Sanierungs- und Insolvenzbezug bei Anteils- und Immobilienverträgen
+# 1. Urkundenentwurf ändern und Fassungen abgleichen
 
-## Aufgabe
+## 1. Zweck und Anwendungsfall
 
-Dieser Skill bearbeitet **Sanierungs- und Insolvenzbezug bei Anteils- und Immobilienverträgen** im Bereich **Notariat im Alltag**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Bearbeite eine benannte Ausgangsfassung und konkrete Änderungswünsche. Kein neues Standardmuster über eine bereits abgestimmte Urkunde legen. Mitarbeiter bereiten Korrekturen vor; Amtshandlungen und Freigaben bleiben beim Notar.
 
-## Kaltstart in 6 Fragen
+## 2. Eingaben
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+Benötigt werden Ausgangsdatei, Änderungsnachricht mit Absender und Datum, betroffene Anlagen und der tatsächliche Beurkundungsstand. Fehlt nur der Freigabestand, frage genau danach. Ein Dateiname „final“ beweist weder Zustimmung sämtlicher Beteiligter noch Beurkundung.
 
-## Prüfprogramm
+## 3. Ablauf
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- BeurkG/BNotO/DONot/GNotKG/GwG live prüfen
-- Form, Belehrung, Identität, Vertretung und Vollzug trennen
-- Register- und Grundbuchtauglichkeit gesondert prüfen
-- Kosten und Fristen sichtbar dokumentieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### 3.1. Vor oder nach Beurkundung verzweigen
 
-## Typische Fallen
+Vor Beurkundung Änderungswunsch und bestätigten Vertragswillen auseinanderhalten. Bei einem einseitigen Mehrpreiswunsch die Gegenpartei nicht als bereits einverstanden darstellen. Nach Abschluss der Niederschrift greift BeurkG Paragraf 44a: offensichtliche Unrichtigkeit und sonstige inhaltliche Änderung verlangen unterschiedliche notarielle Verfahren. Keine nachträgliche Überschreibung der Urschrift und kein fingierter Nachtragsvermerk.
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+### 3.2. Abhängige Stellen gemeinsam ändern
 
-## Output
+Bei geändertem Kaufpreis Raten, Zahlungsanweisungen, Finanzierungsbedarf und Wertangaben prüfen. Bei neuer Anteilsnummer Vertrag, Übernahmeerklärung, Gesellschafterliste und Anmeldung abgleichen. Bei neuer Person Vertretung, Erklärungszuständigkeit und Unterschriftsfelder prüfen. Ein Bankformblatt mit abweichender persönlicher Haftung nicht stillschweigend anpassen; die Entscheidung dokumentiert zur notariellen Prüfung vorlegen.
 
-- Vollzugsliste
-- Mandantenmail
-- Register-/Grundbuchantwort
-- Kostencheck
-- Fristenplan
-- Red-Team
+### 3.3. Anlagen und Verbraucherbereitstellung erhalten
 
-## Notariatsvertiefung
+Planstand, Baubeschreibung, Vollmacht und Registerstand mit Version bezeichnen. Ein angekündigter Plan ist keine beigefügte Anlage. Bei Verbraucherverträgen Umfang der Änderung und bisherige Bereitstellung nach BeurkG Paragraf 17 Absatz 2a dem Notar zur Beurteilung vorlegen. Weder jede Tippkorrektur noch jede grundlegende Leistungsänderung pauschal gleich behandeln.
 
-Bei **Sanierungs- und Insolvenzbezug bei Anteils- und Immobilienverträgen** wird immer eine Vollzugskette gebaut: Entwurf, Beteiligtenstatus, Identität, Geschäftsfähigkeit, Vertretung, Belehrung, Genehmigung, Register-/Grundbuchreife, Kosten und Wiedervorlage. Der Skill soll keine notarielle Entscheidung ersetzen, aber die Akte so vorsortieren, dass Notar oder Sachbearbeitung sofort sehen, was unterschriftsreif ist und was noch blockiert.
+### 3.4. Nach Antwort eine konsistente Fassung liefern
 
-**Register-/Grundbuchlogik:** Jede Ausgabe muss sagen, ob ein Original, eine beglaubigte Abschrift, eine Ausfertigung, Apostille/Legalisation, Übersetzung oder elektronisch signierte Datei gebraucht wird.
+Kommt die Freigabe nur zum Preis, ändere nicht zusätzlich Abnahme oder Fertigstellung. Widersprüchliche Antworten mit zwei klar bezeichneten Alternativen vorlegen. Sobald der Punkt geklärt ist, bereinigten Text und auf Wunsch Vergleichsfassung ausgeben; nicht bei einer Liste vorgeschlagener Änderungen stehen bleiben. Übergabe zur abschließenden Prüfung an `urkundenmappe-zur-freigabe`, ohne Mandantendaten erneut zu erheben.
+
+## 4. Quellenpflicht
+
+[BeurkG Paragraf 44a](https://www.gesetze-im-internet.de/beurkg/__44a.html) und [Paragraf 17](https://www.gesetze-im-internet.de/beurkg/__17.html). BGH, Urteil vom 07.02.2013, III ZR 121/12: Der bloße Terminwunsch ersetzt den Übereilungsschutz nicht; keine automatische Vertragsnichtigkeit daraus ableiten. Fundstelle und Reichweite stehen in [Mitarbeiter-Formwege](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/notariat-alltag/references/mitarbeiter-formwege.md).
+
+## 5. Ausgabeformat
+
+Vollständig ausformulierte Neufassung als „Entwurf zur notariellen Prüfung“, getrennt davon knapper Änderungsvermerk mit betroffenen Stellen und verbleibender Entscheidung. Times New Roman 11 pt, dezimale Gliederung. Keine Urkunde mit internen Kommentaren im Erklärungsinhalt versandfertig nennen.
+
+## 6. Beispiel
+
+Die Baubeschreibung enthält eine noch nicht bestätigte Küchenverlegung. Der Vertrieb nennt einen geschätzten Mehrpreis. Bereite eine konkrete Rückfrage zu Leistung, Plan und Preisfreigabe vor und führe den gesicherten Kaufgegenstand fort. Erst nach Antwort die betroffenen Anlagen und Preisregeln ändern.
 
 ---
 
-## Skill: `notariat-062-gerichts-behoerdenkommunikation-notariat`
+## Skill: `gmbh-anteile-uebertragen-verpfaenden`
 
-_Für Notariat im Alltag: Gerichts- und Behördenkommunikation aus dem Notariat: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Notariat im Alltag. Route: notariat-062-gerichts-behoerdenkommunikation-notariat._
+_Bereitet Verkauf, Abtretung und Verpfändung von GmbH-Geschäftsanteilen für das Notariat vor. Ordnet Anteilsnummern, Zustimmung, Kaufpreis, Sicherungszweck und Vollzugsbedingungen und hält Gesellschafterwechsel und bloße Belastung auseinander._
 
-# Notariat im Alltag: Gerichts- und Behördenkommunikation aus dem Notariat
+# GmbH-Anteile übertragen und verpfänden
 
-## Aufgabe
+## 1. Zweck und Anwendungsfall
 
-Dieser Skill bearbeitet **Gerichts- und Behördenkommunikation aus dem Notariat** im Bereich **Notariat im Alltag**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Bereite Anteilskauf oder Kreditsicherheit anhand der konkreten Gesellschaft vor. Mitarbeiter sammeln Erklärungen und erstellen Entwürfe; der Notar prüft Form, Vertretung, Wirksamkeit und Listenbescheinigung. Dies ist kein automatisches Finanzierungs- oder Zahlungswerkzeug.
 
-## Kaltstart in 6 Fragen
+## 2. Eingaben
 
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+Registerauszug, Satzung, Gesellschafterliste, Erwerbsnachweise, Beteiligte, Kaufabsprache und Bankauftrag. Bei Verpfändung zusätzlich gesicherte Forderung, Pfandgeber, Gläubiger, Freigabebedingungen und Rang. Firmenname und Prozentzahl reichen nicht zur eindeutigen Bezeichnung des Rechts.
 
-## Prüfprogramm
+## 3. Ablauf
 
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- BeurkG/BNotO/DONot/GNotKG/GwG live prüfen
-- Form, Belehrung, Identität, Vertretung und Vollzug trennen
-- Register- und Grundbuchtauglichkeit gesondert prüfen
-- Kosten und Fristen sichtbar dokumentieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+### 3.1. Anteilsbestand rekonstruieren
 
-## Typische Fallen
+Ordne laufende Nummer, Nennbetrag, Inhaber und Erwerbsgrund. Gleiche die Summe mit dem Stammkapital ab. Die Legitimationswirkung der Liste nach GmbHG Paragraf 16 ersetzt nicht in jeder Hinsicht den materiellen Erwerbsnachweis. Bei Unstimmigkeit keine Nummer oder Eigentümerstellung erfinden. Satzungsmäßige Zustimmung, Vorkaufsrechte und bestehende Belastungen gesondert erfassen.
 
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+### 3.2. Verkauf und Abtretung trennen
 
-## Output
+Beide Formtatbestände nach GmbHG Paragraf 15 Absätze 3 und 4 prüfen. Formuliere Kaufpreis, Fälligkeit, Zahlungsweg und Zeitpunkt beziehungsweise Bedingung der Abtretung eigenständig. Unterschriftsbeglaubigung genügt nicht. Vollmachten und mitbeurkundungsbedürftige Nebenabreden dem Notar vorlegen. Keine Zahlungsbestätigung aus einer Terminankündigung ableiten.
 
-- Vollzugsliste
-- Mandantenmail
-- Register-/Grundbuchantwort
-- Kostencheck
-- Fristenplan
-- Red-Team
+### 3.3. Verpfändung als eigenes Geschäft bearbeiten
 
-## Notariatsvertiefung
+Für die Verpfändung eines GmbH-Anteils führt BGB Paragraf 1274 in Verbindung mit GmbHG Paragraf 15 Absatz 3 zur notariellen Form. Benenne Pfandrecht, gesicherte Forderung, Umfang, Zustimmung und Freigabe. Die bloße Verpfändung überträgt nicht die Gesellschafterstellung und löst für sich keine Gesellschafterliste mit der Bank als Inhaber aus. Stimmrechte nicht ungefragt dem Pfandgläubiger zuschreiben.
 
-Bei **Gerichts- und Behördenkommunikation aus dem Notariat** wird immer eine Vollzugskette gebaut: Entwurf, Beteiligtenstatus, Identität, Geschäftsfähigkeit, Vertretung, Belehrung, Genehmigung, Register-/Grundbuchreife, Kosten und Wiedervorlage. Der Skill soll keine notarielle Entscheidung ersetzen, aber die Akte so vorsortieren, dass Notar oder Sachbearbeitung sofort sehen, was unterschriftsreif ist und was noch blockiert.
+### 3.4. Bedingungen in eine Vollzugsfolge bringen
 
-**Register-/Grundbuchlogik:** Jede Ausgabe muss sagen, ob ein Original, eine beglaubigte Abschrift, eine Ausfertigung, Apostille/Legalisation, Übersetzung oder elektronisch signierte Datei gebraucht wird.
+Lege Eigentumserwerb, Pfandrechtsentstehung, Auszahlung und Kaufpreisnachweis zeitlich nebeneinander. Verlangt die Bank ein wirksames Pfand vor Zahlung, während die Abtretung erst mit Zahlung wirksam werden soll, darf der Entwurf die Lücke nicht verschweigen. Bereite konkrete Varianten und Rückfragen an Bank und Notar vor; entscheide die Sicherungsstruktur nicht selbst.
+
+### 3.5. Listen- und Nachrichtenpaket vorbereiten
+
+Nach wirksamem Gesellschafterwechsel Zeitpunkt und Zuständigkeit nach GmbHG Paragraf 40 beachten. Bereite Liste und Mitteilungen vor, behaupte keine notarielle Bescheinigung oder Einreichung. Bloße Belastungen ohne fiktiven Gesellschafterwechsel dokumentieren.
+
+## 4. Quellenpflicht
+
+GmbHG Paragrafen 15, 16 und 40; BGB Paragraf 1274. [Amtliche Formwege](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/notariat-alltag/references/mitarbeiter-formwege.md) und [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/notariat-alltag/references/zitierweise.md). Zustimmungsklauseln aus der geltenden Satzung verwenden, Sonderfragen gezielt verifizieren.
+
+## 5. Ausgabeformat
+
+Vollständiger Vertragsentwurf mit getrennten schuldrechtlichen und dinglichen Erklärungen, Anteilstabelle und bedingungsabhängiger Vollzugsliste. Entwurf zur notariellen Prüfung, Times New Roman 11 pt und dezimale Gliederung. Keine Klauselskelette, fingierten Freigaben oder Zahlungen.
+
+## 6. Beispiel
+
+Der Käufer finanziert 120000 Euro eines Kaufpreises von 168000 Euro. Die Bank möchte die gekauften Anteile als Sicherheit. Trenne Kaufpreiszahlung, Abtretungsbedingung und Pfandbestellung; führe die Bank nicht als Gesellschafter auf.
+
+---
+
+## Skill: `umwandlung-verschmelzung-kapitalerhoehung`
+
+_Bereitet Verschmelzung, Spaltung und Formwechsel für das Notariat vor: Rechtsträger, Vertrags- und Beschlussentwürfe, Schlussbilanz, Zustimmungen und Registerfolge. Eine bloße GmbH-Kapitalerhöhung wird an den Kapitalmaßnahmen-Skill übergeben._
+
+# 1. Umwandlungsurkunden und Registerfolge vorbereiten
+
+## 1. Zweck und Anwendungsfall
+
+Führe einen festgelegten Umwandlungsauftrag vom Gesellschaftsordner zu den zusammenpassenden Urkunden- und Anmeldeentwürfen. Mitarbeiter bereiten vor; notarielle Prüfung, Beurkundung, Bescheinigung und Einreichungsfreigabe bleiben beim Notar. Ein steuerliches Ziel allein bestimmt noch nicht den gesellschaftsrechtlichen Weg.
+
+## 2. Eingaben
+
+Lies Strukturvorgabe, Registerauszüge, geltende Satzungen, Beteiligungsaufstellung, Bilanzstichtag und vorhandene Beraterentwürfe. Bei bloßen Unterlagen ohne Auftrag frage: „Soll Vermögen auf einen anderen Rechtsträger übergehen oder soll derselbe Rechtsträger nur seine Rechtsform wechseln?“ Bei eindeutiger Vorgabe beginne die Urkundenmappe, ohne alle Möglichkeiten vorzutragen.
+
+## 3. Ablauf
+
+### 3.1. Rechtsträger und Vorgang festlegen
+
+Bei Verschmelzung erfasse übertragenden und übernehmenden Rechtsträger, bei Spaltung Vermögenszuordnung und Empfänger der neuen Anteile. Ausgliederung und Abspaltung unterscheiden sich gerade darin, wer die Gegenleistung erhält. Bei Formwechsel bleibt der Rechtsträger bestehen. Eine bloße Kapitalerhöhung führt zu `kapitalerhoehung-beschluss-register`, nicht durch sämtliche Umwandlungsschritte.
+
+### 3.2. Urkunden und Verzichtserklärungen zuordnen
+
+Verschmelzungsvertrag nach UmwG Paragrafen 4 bis 6 und Zustimmungsbeschlüsse nach Paragraf 13 getrennt vorbereiten. Paragraf 6 gilt nicht nur für eine willkürliche Auswahl von Kapitalgesellschaften. Berichte, Prüfungen und zulässige Verzichte je Rechtsform und Beteiligungslage prüfen; Konzernzugehörigkeit ersetzt keinen gesetzlichen Ausnahmetatbestand. Spaltung nach Paragrafen 123 ff., Formwechselbeschluss nach Paragrafen 193 und 194 bearbeiten. Arbeitnehmerschutz und rechtzeitige Zuleitung an den zuständigen Betriebsrat nicht mit einer allgemeinen „Anhörung erledigt“ quittieren.
+
+### 3.3. Anmeldung, Anlagen und Wirksamkeit trennen
+
+Bei Verschmelzung regelt Paragraf 16 die Anmeldung, Paragraf 17 die Anlagen einschließlich Schlussbilanz und Paragraf 20 die Wirkung der Eintragung beim übernehmenden Rechtsträger. Den höchstens acht Monate vor Anmeldung liegenden Bilanzstichtag nach Paragraf 17 Absatz 2 konkret berechnen. Bei Spaltung gelten insbesondere Paragrafen 129 bis 131, beim Formwechsel Paragrafen 198 bis 202. Kein Abschlussdatum, steuerlicher Rückwirkungsstichtag oder Versandbeleg ersetzt die Registereintragung.
+
+### 3.4. Nach einer Antwort fortsetzen
+
+Kommt eine neuere Schlussbilanz, aktualisiere Bilanzanlage und Anmeldeplanung, nicht ungefragt Umtauschverhältnis und Vertragsdatum. Ändert sich die Beteiligungsstruktur, prüfe dagegen genau die betroffenen Mehrheiten, Verzichtsmöglichkeiten und Kapitalmaßnahmen erneut. Fehlende Steuerfreigabe als offene Abstimmung führen, nicht steuerliche Neutralität zusichern. Bei Auslandsbezug zunächst die besonderen grenzüberschreitenden Vorschriften bestimmen.
+
+## 4. Quellenpflicht
+
+Amtliche Grundlage: [UmwG](https://www.gesetze-im-internet.de/umwg_1995/), insbesondere Paragrafen 6, 13, 16, 17, 20, 123, 131, 193 und 202. Eintragungswirkungen nicht auf einen anderen Umwandlungstyp übertragen. Zitierweise nach [Quellenleitfaden](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/notariat-alltag/references/zitierweise.md); offene streitige Fragen dem Notar mit dem tatsächlich geprüften Rechtsstand vorlegen.
+
+## 5. Ausgabeformat
+
+Liefere den beauftragten Vertrag oder Beschluss und die dazugehörige Anmeldung vollständig ausformuliert als „Entwurf zur notariellen Prüfung“. Nur benötigte Anlagen ergänzen. Eine interne Reihenfolge mit abhängigen Eintragungen ersetzt die Urkundentexte nicht. Times New Roman 11 pt, dezimale Gliederung; keine erfundenen Versicherungen, Unterschriften oder Registermitteilungen.
+
+## 6. Beispiel
+
+Ein Tochterunternehmen soll auf die Mutter verschmolzen werden. Der Bilanzstichtag ist bekannt, die Anmeldung verschiebt sich. Prüfe zunächst das Achtmonatsfenster und fordere nötigenfalls eine neue Schlussbilanz an. Eine bloße Korrektur des Datums im bisherigen Bilanzdokument ist keine Lösung.
+
+---
+
+## Skill: `nachlassauseinandersetzung-grundbuch`
+
+_Bereitet notarielle Nachlassauseinandersetzungen, Grundstücksübertragungen und Erbnachweise vor. Gleicht Testament, Eröffnung, Erbquoten, Vertretung und Grundbuch ab und führt fehlende Nachweise bis zum Vertrags- oder Anmeldeentwurf fort._
+
+# 1. Nachlass und Grundstücksübertragung zusammenführen
+
+## 1. Zweck und Anwendungsfall
+
+Arbeite vom belegten Erbfall zur beauftragten Urkunde oder Grundbucherklärung. Erbe, Vermächtnisnehmer, Pflichtteilsberechtigter und Testamentsvollstrecker sind unterschiedliche Rollen. Mitarbeiter bereiten vor; rechtliche Prüfung, Belehrung und Amtshandlungen bleiben beim Notar.
+
+## 2. Eingaben
+
+Sterbenachweis, sämtliche vorgelegten Verfügungen von Todes wegen, Eröffnungsniederschrift, Erbschein oder Europäisches Nachlasszeugnis soweit vorhanden, Grundbuch, Vermögensunterlagen und konkrete Teilungswünsche. Bei einer bloßen Vollzugsfrage keine neue erbrechtliche Gesamtberatung starten.
+
+## 3. Ablauf
+
+### 3.1. Erbfolge und Verfügungsbefugnis belegen
+
+Quoten aus Nachweisen herleiten, nicht aus einer Familienliste schätzen. Ein Pflichtteilsanspruch ist regelmäßig ein Geldanspruch und keine Miteigentumsquote am Haus. Bei Erbengemeinschaft gemeinschaftliche Verfügung über einzelne Nachlassgegenstände nach BGB Paragraf 2040 beachten; der Erbteil nach Paragraf 2033 ist etwas anderes. Testamentsvollstreckung, Vor- und Nacherbschaft oder Minderjährigkeit als eigene Nachweis- und Zustimmungsfragen führen.
+
+### 3.2. Geeigneten Grundbuchnachweis bestimmen
+
+GBO Paragraf 35: Öffentlich beurkundete Verfügung und Eröffnungsniederschrift können den Erbschein ersetzen; ein privatschriftliches Testament nicht pauschal gleich behandeln. Bei begründeten Nachweiszweifeln den tatsächlichen Inhalt der gerichtlichen Anforderung prüfen. GBO Paragraf 40 eröffnet bestimmte Ausnahmen von der Voreintragung. Eine Berichtigung auf alle Erben ist deshalb nicht stets vor jeder Übertragung erforderlich.
+
+### 3.3. Gegenstände und Ausgleich urkundlich regeln
+
+Gesamthänderische Berechtigung der Erben nicht als frei verfügbaren Bruchteil an jedem Grundstück formulieren. Übertragungsgegenstand, Gegenleistung, Schuldübernahme, Lasten, Besitz und Vollzugsbedingungen festlegen. Teilungsanordnung nach BGB Paragraf 2048, Vermächtnis und Quoten unterscheiden. Abweichende einvernehmliche Wünsche auf ihre rechtlichen Bindungen und Folgen prüfen, nicht automatisch als verboten oder wirksam behandeln.
+
+Bei vorweggenommener Übertragung Rückforderungsrechte, Nießbrauch, Wohnrecht und Rang ihrem Inhalt nach unterscheiden. Ein Nießbrauch berechtigt nicht ohne Weiteres zum Verkauf. Steuerbefreiung, Pflichtteilsfolgen und Genehmigungsfreiheit nicht allein aus Familienzugehörigkeit zusagen.
+
+### 3.4. Nachweise fortschreiben und fertigstellen
+
+Nach Eingang eines Erbnachweises Namen, Quote, Verfügungsbefugnis und Vollmachten gegen Entwurf und Registerantrag abgleichen. Fehlt nur eine Genehmigung, die übrigen vereinbarten Teile ausformulieren und den betroffenen Vollzugsschritt offenhalten. Bei streitiger Erbfolge keine Verteilung als verbindlich festlegen; konkrete Unterlagenanforderung oder notarielle Entscheidungsvorlage erstellen.
+
+## 4. Quellenpflicht
+
+[GBO Paragraf 35](https://www.gesetze-im-internet.de/gbo/__35.html), [Paragraf 40](https://www.gesetze-im-internet.de/gbo/__40.html), BGB Paragrafen 2033, 2040, 2042 und 2048 sowie [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/notariat-alltag/references/zitierweise.md). Auslandsnachweise bei Bedarf über `auslandsurkunde-apostille-vollmacht` klären, ohne den gesamten Auftrag neu aufzunehmen.
+
+## 5. Ausgabeformat
+
+Vollständiger Auseinandersetzungs- oder Übertragungsentwurf beziehungsweise bestimmter Grundbuchantrag zur notariellen Prüfung. Interne Quotenkontrolle und fehlende Nachweise getrennt halten. Times New Roman 11 pt, dezimale Gliederung; keine fingierte Erbscheinserteilung oder Einigung.
+
+## 6. Beispiel
+
+Ein eröffnetes öffentliches Testament und eine Vollmacht aus dem Ausland liegen vor. Kläre getrennt, ob die Erbfolge damit nachgewiesen ist und ob die Vollmacht in benötigter Form vorliegt. Ein positiver Erbnachweis beseitigt nicht den offenen Vertretungsnachweis.
+
+---
+
+## Skill: `geldwaeschepruefung-immobilien`
+
+_Bereitet im Notariat die Geldwäscheprüfung von Grundstücks- und Gesellschaftsvorgängen vor. Klärt Beteiligung und wirtschaftlich Berechtigte, gleicht Kaufpreiszahlungen ab und legt konkrete Nachweislücken oder Meldefragen dem Notar vor._
+
+# 1. Beteiligung und Immobilienzahlung nachvollziehen
+
+## 1. Zweck und Anwendungsfall
+
+Bearbeite die konkrete Transaktion, nicht ungefragt das gesamte betriebliche Risikomanagement. Mitarbeiter stellen Nachweise und Rückfragen zusammen; notarielle Entscheidungen, Meldung und Vollzugsfreigabe bleiben beim Notar.
+
+## 2. Eingaben
+
+Nutze Beteiligtenangaben, Registerauszüge, Kontrollvereinbarungen, Kaufvertrag, Zahlungsbelege und bekannten Geldfluss. Schon geprüfte Identitätsdaten mit ihrem Prüfstand übernehmen. Eine bloße Namensübereinstimmung oder abweichender Kontoinhaber ist zunächst ein zu klärender Befund, kein bewiesenes Delikt.
+
+## 3. Ablauf
+
+### 3.1. Personen und Kontrolle bestimmen
+
+Vertragspartner, Auftretenden, Vertreter und wirtschaftlich Berechtigten nach GwG Paragrafen 3 und 10 bis 12 auseinanderhalten. Stimmrechte, Kapital und sonstige Kontrolle anhand der wirklichen Struktur prüfen; Prozentketten nicht blind multiplizieren. Im Register fehlende Daten durch Nachweise klären. Eine Unstimmigkeitsmeldung und eine Verdachtsmeldung haben verschiedene Voraussetzungen.
+
+### 3.2. Zahlungen dem Vertrag zuordnen
+
+Kaufpreis, Fälligkeit, Empfänger, Teilbetrag, Wertstellung und Beleg verbinden. GwG Paragraf 16a Absatz 1 erfasst bei Immobiliengeschäften auch die dort genannten unzulässigen Zahlungsmittel und Anteilserwerbe an immobilienhaltenden Gesellschaften. Die besonderen Nachweis- und Grundbuchantragsregeln der Absätze 2 bis 4 beziehen sich auf die dort bezeichneten direkten Immobiliengeschäfte; sie nicht unterschiedslos auf jeden Anteilskauf übertragen.
+
+Die Ausnahme für höchstens 10000 Euro in Absatz 5 hebt das Verbot des Absatzes 1 nicht auf. Zahlungsankündigung, ausgeführter Auftrag und beim Empfänger belegter Eingang bleiben getrennt. Eine Zahlung durch einen Dritten mit Vertrag, Beziehung und Mitteln erklären lassen, nicht automatisch als unzulässig oder unbedenklich einstufen.
+
+### 3.3. Hindernis und Kommunikation trennen
+
+Bei fehlendem schlüssigem Nachweis die Schritte nach Paragraf 16a Absatz 3 prüfen und dem Notar vorlegen. Verdachtsprüfung nach Paragraf 43, Immobiliensachverhalte nach der einschlägigen Meldeverordnung und Durchführungsbeschränkungen nach Paragrafen 46 und 16a getrennt behandeln. Die besondere Fünftagesregel nicht mit der allgemeinen Wartefrist vermischen. Nach Paragraf 47 zulässige Außenkommunikation prüfen; ein interner Verdachtsvermerk gehört nicht ungeprüft in die Mandantenmail.
+
+### 3.4. Neue Belege gezielt einarbeiten
+
+Wird eine Teilzahlung nachgewiesen, nur den betreffenden Zahlungsstand ändern. Fehlende Restzahlung, ungeklärte Kontrolle oder anderes Vollzugshindernis bleibt offen. Übergib an `vollzug-fristen-wiedervorlage` den konkreten gesperrten Schritt und den benötigten Nachweis, nicht das gesamte Risikoprotokoll.
+
+## 4. Quellenpflicht
+
+[GwG](https://www.gesetze-im-internet.de/gwg_2017/), besonders [Paragraf 16a](https://www.gesetze-im-internet.de/gwg_2017/__16a.html), aktuelle Meldevorschriften und notariatsbezogene Aufsichtshinweise prüfen. Künftig anwendbare europäische Regelungen nicht vor ihrem Anwendungstag als geltende deutsche Prüfschritte ausgeben. Quellen nach [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/notariat-alltag/references/zitierweise.md) belegen.
+
+## 5. Ausgabeformat
+
+Konkrete Nachforderung in vollständigen Sätzen; getrennt davon interner Prüfvermerk zur notariellen Prüfung. Times New Roman 11 pt und dezimale Gliederung. Keine automatische Meldung, Zahlung oder Einreichung; keine öffentlich verteilte Liste sensibler Prüfbefunde.
+
+## 6. Beispiel
+
+Ein Käufer weist den gesamten Kaufpreis nach, jedoch stammt eine Überweisung von einer anderen Gesellschaft. Frage nach Rechtsgrund und Beziehung und ordne die Unterlagen der konkreten Zahlung zu. Der Rechenabgleich ersetzt nicht die Prüfung der Zahlungsherkunft.
+
+---
+
+## Skill: `grundbuchantrag-rangstelle-notarielle`
+
+_Bereitet Grundbuchanträge, Rangänderungen und Antworten auf Zwischenverfügungen vor. Gleicht Bewilligung, Auflassung, Lastenfreistellung und Nachweisform ab und führt offene Eintragungshindernisse bis zur Vorlage an den Notar fort._
+
+# 1. Grundbuchvollzug und Zwischenverfügung bearbeiten
+
+## 1. Zweck und Anwendungsfall
+
+Arbeite den konkreten Eintragungsauftrag ab: Eigentum, Vormerkung, Grundschuld, Dienstbarkeit, Rangänderung oder Löschung. Ein Kaufvertragsentwurf und ein bereits eingereichter Grundbuchantrag sind unterschiedliche Verfahrensstände. Mitarbeiter bereiten Anträge vor; Amtshandlungen und Freigaben bleiben beim Notar.
+
+## 2. Eingaben
+
+Lies die bezeichnete Urkunde, den vollständigen Grundbuchauszug, bereits gestellte Anträge, Eingangsbestätigungen und eine etwaige Zwischenverfügung. Bei mehreren Blättern nicht allein nach Adresse zuordnen. Frage nur nach dem fehlenden Nachweis, der die konkrete Eintragung trägt.
+
+## 3. Ablauf
+
+### 3.1. Recht und Nachweis zusammenführen
+
+Für jedes Recht Blatt, laufende Nummer, Berechtigten, betroffenen Eigentümer, Bewilligung und Antrag bestimmen. GBO Paragrafen 13, 15, 19, 20 und 29 unterscheiden Antragsbefugnis, notarielle Vertretungsvermutung, Bewilligung, Einigung und Nachweisform. Eine Einigung ist nicht immer durch die bloße Unterschriftsbeglaubigung bewiesen. Bei Erbfolge Paragrafen 35 und 40 prüfen; keinen Erbschein oder eine Voreintragung unabhängig vom vorhandenen öffentlichen Testament verlangen.
+
+### 3.2. Rang und Zahlungsvoraussetzungen prüfen
+
+Bearbeitungsreihenfolge nach GBO Paragraf 17, Eintragungsregeln nach Paragraf 45 und materiellen Rang nach BGB Paragraf 879 getrennt lesen. Eingang ist keine pauschale Ranggarantie. Bei Rangänderung nach BGB Paragraf 880 die betroffenen Rechte und erforderlichen Erklärungen genau benennen. Löschung, Pfandfreigabe, Rangrücktritt und bloße Zahlungsquittung nicht austauschen. Beim Briefrecht den Briefverbleib prüfen; ein fehlender Brief wird nicht durch eine selbst verfasste Verlustbestätigung kraftlos.
+
+### 3.3. Auf Zwischenverfügung reagieren
+
+Frist, konkrete Beanstandung und verlangten Nachweis aus der Verfügung übernehmen. Nach GBO Paragraf 18 Hindernis und mögliche Behebung prüfen; nicht jede fehlende Erklärung lässt sich rangwahrend nachreichen. Antrag nicht ohne notarielle Entscheidung zurücknehmen. Bei Verzögerung rechtzeitig einen begründeten Verlängerungsantrag vorbereiten; bis Bewilligung bleibt die bisherige Frist maßgeblich. Paragraf 18 Absatz 2 ist keine besondere Fristverlängerungsnorm.
+
+Beschwerde nach GBO Paragrafen 71 ff. gesondert prüfen. Nach Paragraf 72 entscheidet das Oberlandesgericht. Eine Beschwerde ersetzt weder fehlende Vollzugsnachweise noch eine Verlängerungsentscheidung. Die Statthaftigkeit gegen eine schon erfolgte Eintragung unterliegt den Grenzen von Paragraf 71 Absatz 2.
+
+### 3.4. Nachreichung bis zur Rückmeldung verfolgen
+
+Nach Eingang einer Bewilligung Person, Recht, Betrag und erfasste Teilfläche gegen Antrag und Verfügung vergleichen. Dann eine ausformulierte Nachreichung mit genau bezeichneten Anlagen erstellen. Eine Übermittlungsbestätigung ist noch kein Eintragungsnachweis. Nach Registermitteilung erst die tatsächlich vollzogenen Rechte abhaken und verbleibende Rang- oder Löschungsreste an `vollzug-fristen-wiedervorlage` übergeben.
+
+## 4. Quellenpflicht
+
+[GBO](https://www.gesetze-im-internet.de/gbo/) und [BGB Paragraf 879](https://www.gesetze-im-internet.de/bgb/__879.html) anhand des Vorgangs prüfen. Für die konkrete Vollzugshandlung benötigte Quelle nach [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/notariat-alltag/references/zitierweise.md) dokumentieren. Landesbezogene Übermittlungsvorgaben nur als geprüft ausgeben, wenn sie tatsächlich vorliegen.
+
+## 5. Ausgabeformat
+
+Antrag oder Antwort vollständig in Sätzen formulieren, mit zuständigem Grundbuchamt, Blatt, Antrag, Begründung soweit erforderlich und konkreten Anlagen. Interne Frist- und Rangnotiz getrennt halten. „Entwurf zur notariellen Prüfung“, Times New Roman 11 pt und dezimale Gliederung. Keine behauptete Eintragung, kein leerer Anlagenverweis.
+
+## 6. Beispiel
+
+Das Grundbuchamt verlangt einen Vertretungsnachweis. Die neue Datei zeigt nur eine einfache Kopie. Fordere die konkret erforderliche Nachweisform nach und bereite bei naher Frist einen begründeten Verlängerungsentwurf vor; die Kopie nicht als erledigte Beanstandung buchen.
 
 ---
 

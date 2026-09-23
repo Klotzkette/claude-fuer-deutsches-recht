@@ -1,8 +1,10 @@
 # 1. Insolvenzplan und Restrukturierungsplan: Zahlen und Wirkung
 
-Erstelle oder prüfe das bestellte Planmodul, die Vergleichsrechnung oder die Abstimmungsauswertung. Unterscheide dabei Insolvenzplan und StaRUG-Plan, statt ungefragt die gesamte Unternehmenskrise neu aufzunehmen.
+Prüfe, welche Forderungen und Sicherheiten der Plan verändert, ob die Finanzierung seine Zahlungsversprechen trägt und welche Gruppenmehrheiten tatsächlich erreicht werden. Rechne Plan und begründete Alternative vergleichbar durch und formuliere das bestellte Planmodul. Insolvenzplan und StaRUG-Plan getrennt behandeln; die Unternehmenskrise nicht ungefragt vollständig neu aufnehmen.
 
 ## 1.1 Verfahren und Datenbasis
+
+Ohne Eingabe biete Gruppen-/Mehrheitsprüfung, Vergleichsrechnung oder gestaltende Planklausel an. Dateien ohne Auftrag still lesen und zwei passende Wege anbieten. Klaren Auftrag direkt ausarbeiten. Neue Finanzierungsbedingung verändert Zahlungstag und Planregelung; neuer Sicherheitenwert verändert Ausfall, Vergleich und gegebenenfalls Stimmrecht. Bekannte Verfahrensdaten nicht erneut abfragen.
 
 Erfasse Schuldner, Verfahrensart, Verfahrensstand, Stichtag, Ziel, verfügbare Liquidität und Entscheidungstermin aus Planentwurf, Forderungsliste, Sicherheitenübersicht, Finanzierung und Vergleichsrechnung. Bei Anzeichen eingetretener Insolvenzreife markiere den gesonderten dringlichen Prüfbedarf, ohne deswegen den belegbaren Planabgleich abzubrechen. Verwende vorhandene Arbeitsergebnisse bei Folgeaufträgen weiter.
 
@@ -17,6 +19,8 @@ Trenne darstellenden Teil, gestaltenden Teil und Anlagen. Erfasse für jede betr
 Vergleiche Plan und maßgebliches Alternativszenario auf demselben Stichtag. Begründe die Alternative; setze nicht automatisch Einzelverwertung mit dem einzig zulässigen Vergleich gleich. Zeige Erlöse, Kosten, Sicherheitenabzug, verfügbare Verteilungsmasse, Zahlungszeitpunkte und Unsicherheiten. Eine höhere nominale Quote kann wegen Zeit und Risiko anders zu bewerten sein. Prüfe, ob zugesagte Finanzierung belegt, bedingt oder nur erhofft ist. Vermeide Doppelzählung von Verkaufserlös und demselben fortgeführten Vermögenswert.
 
 ## 1.4 Abstimmung getrennt rechnen
+
+Soll eine Schlechterstellung ausgeglichen werden, beachte BGH, Beschluss vom 20.07.2017, IX ZB 13/16, [Rn. 9–16](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2016/IX_ZB__13-16.pdf?__blob=publicationFile&v=1): Eine Kompensation muss vollständig und gesichert finanziert sein. Bürgschaft oder Grundschuld mit unbewiesener Werthaltigkeit genügt nicht. Prüfe deshalb Betrag, Rang, Ausfallrisiko und tatsächliche Zahlungsfähigkeit des Garantiegebers; eine niedrige Pauschale heilt nicht jeden Eingriff. Eine Vorabzurückweisung wegen Minderheitenschutzes setzt einen offensichtlich zu erwartenden erfolgreichen Versagungsantrag voraus, nicht bloße Zweifel. Das Urteil betraf ein altes Insolvenzverfahren; heute Paragrafen 231 und 251 InsO anwenden. Beim StaRUG Paragraf 64 einschließlich Widerspruch, Gegenstimme und Hinweisen eigenständig prüfen, keine unmittelbare Bindungswirkung dieses Insolvenzplanfalls behaupten.
 
 Beim Insolvenzplan verlangt [Paragraf 244 InsO](https://www.gesetze-im-internet.de/inso/__244.html) je Gläubigergruppe die Mehrheit der abstimmenden Gläubiger und mehr als die Hälfte der Forderungssumme der Abstimmenden. Genau die Hälfte reicht nicht. Beim Restrukturierungsplan verlangt [Paragraf 25 StaRUG](https://www.gesetze-im-internet.de/starug/__25.html) mindestens drei Viertel der Stimmrechte in jeder Gruppe, nicht nur drei Viertel der abgegebenen Stimmen. Eine Kopfmehrheit ist dort nicht zusätzlich vorausgesetzt.
 

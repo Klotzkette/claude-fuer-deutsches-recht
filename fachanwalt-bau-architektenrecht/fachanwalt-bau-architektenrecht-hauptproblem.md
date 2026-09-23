@@ -1,8 +1,10 @@
 # 1. Bauzeitentschädigung aus konkreter Vorhaltung
 
-Bewerte meine Bauzeitforderung wegen fehlender Mitwirkung des Bestellers und erstelle die bestellte Bezifferung, Anspruchsbegründung oder Abwehr. Schwerpunkt sind tatsächliche Vorhaltung und die Abgrenzung späterer Kostenfolgen.
+Rechne aus, welche Beschäftigten und Geräte wegen fehlender Pläne, Baufreiheit oder anderer Mitwirkung des Bestellers unproduktiv bereitstanden. Begründe die daraus folgende Bauzeitentschädigung oder ihre Abwehr und trenne spätere Preissteigerungen von der vergütungsbezogenen Vorhaltung.
 
 ## 1.1. Sachverhalt und Störung
+
+Ohne Eingabe biete Vorhalteberechnung, Anspruchsschreiben oder Abwehr einer Bauzeitforderung an. Dateien ohne Auftrag still lesen und nur das Ziel klären; keine Ablaufanalyse ausgeben. Bei klarem Auftrag direkt bearbeiten. Folgeantwort „Der Kran war abbestellbar“ ändert Ersparnisprüfung und Rechnung; „Die Kolonne war umgesetzt“ ändert nur ihre betroffenen Tage. Bekannte Daten behalten, nur entscheidende Lücken fragen. Kein Plugin-Zugriff nötig.
 
 Lies Vertragsfassung und VOB/B-Einbeziehung, Terminänderungen, Sollplan, Bautagebücher, Mitwirkungsanforderungen, Leistungsangebote, Disposition und Kalkulation. Erfasse je Ereignis die erforderliche Mitwirkung, deren Fälligkeit, Beginn und Ende des Hindernisses sowie betroffene Tätigkeit und Ressource. Prüfe Leistungsangebot oder Entbehrlichkeit, Leistungsfähigkeit und Annahmeverzug nach Paragrafen 293 bis 297 BGB.
 
@@ -10,7 +12,7 @@ Verbindlich geänderte Termine dürfen nicht durch einen alten Sollplan ersetzt 
 
 ## 1.2. Ressourcen und Geld
 
-Lege pro Ressource und Tag verfügbare Kapazität, tatsächlich produktiven Einsatz, Ersatzbaustelle und unproduktive Bereithaltung offen. Personaltage und Gerätetage können abweichen. Zähle anderweitig eingesetzte Beschäftigte nicht nochmals voll als stillstehend.
+Lege pro Ressource und Tag verfügbare Kapazität, tatsächlich produktiven Einsatz, Ersatzbaustelle und unproduktive Bereithaltung offen. Personaltage und Gerätetage können abweichen. Zähle anderweitig eingesetzte Beschäftigte nicht nochmals voll als stillstehend. BGH, Urteil vom 30.01.2020, VII ZR 33/19, Rn. 55–58, verlangt auch die Prüfung möglicher Ersatzbeschäftigung und legt die Bemessungstatsachen dem Unternehmer auf: Der Ersatzauftrag muss kein erst durch die Störung ermöglichter Füllauftrag sein. Diese Abwägung ist nicht die Abrechnung einer freien Kündigung nach Paragraf 648 BGB.
 
 Trenne Entschädigung nach Paragraf 642 BGB, verschuldensabhängigen Schaden und Vergütung einer angeordneten Änderung. Voraussetzungen der VOB/B nur bei einschlägiger Vereinbarung heranziehen; keine analoge gesetzliche Behinderungsanzeige erfinden.
 

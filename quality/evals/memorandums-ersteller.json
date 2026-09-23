@@ -1,30 +1,54 @@
 {
   "schema_version": 1,
   "plugin": "memorandums-ersteller",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__271.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlichen Text erneut gelesen: bestimmte Leistungszeit für das individuelle Beispiel; keine allgemeine Sachnorm für beliebige Memoranden."
+    },
+    {
+      "url": "https://www.anwalt24.de/urteile/bgh/2021-09-16/ix-zr-165_19",
+      "checked_on": "2026-09-23",
+      "supports": "Wiedergabe des gerichtlichen Primärtexts zu IX ZR 165/19, Randnummern 28 bis 31, erneut gelesen: verständliche Entscheidungsgrundlage und erneute Aufklärung bei verschlechterter Lage. Keine vorgeschriebene Memoform; amtlicher PDF-Direktabruf weiterhin nicht erfolgreich."
+    },
     {
       "url": "https://www.gesetze-im-internet.de/bgb/__271.html",
       "checked_on": "2026-09-14",
       "supports": "Vereinbarte Leistungszeit im individuellen Prüffall."
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=122686&Blank=1.pdf",
+      "checked_on": "2026-09-22",
+      "supports": "Amtliche Identität/Fundstelle; maßgebliche Begründung in separat dokumentierter Volltextwiedergabe geprüft. Eigenverantwortliche Entscheidung ermöglichen und Empfehlung nach verschlechterter Sach- oder Rechtslage aktualisieren. Grenze: Keine vorgeschriebene Memoform; keine Sachnorm für sämtliche Mandatsgegenstände. Gerichtliche Identität amtlich bestätigt; Begründung wegen gesperrtem Direktabruf in veröffentlichter Volltextwiedergabe bei anwalt24 gelesen. Keine vollständige Prüfung sämtlicher Memosachgebiete."
+    },
+    {
+      "url": "https://www.anwalt24.de/urteile/bgh/2021-09-16/ix-zr-165_19",
+      "supports": "Volltextwiedergabe des gerichtlichen Primärtexts, Randnummern 28 bis 31; keine Gleichsetzung mit amtlich erfolgreichem PDF-Abruf.",
+      "checked_on": "2026-09-22"
     }
   ],
   "mini_review": {
-    "verdict": "retained",
-    "reason": "Mini vollständig schlussgelesen und unverändert beibehalten: Der Vier-Teile-Aufbau, quellenbezogene Tatsachentrennung und gezielte Nachforderung einer Vertragsanlage führen nach deren Eingang zur erneuten Prüfung der Kurzantwort und zur vollständigen Memo-Endfassung. Keine Pflicht zur ungefragten Klage oder Vertragsfassung; Dateiwunsch und getrennte technische Arbeitsnotiz sind berücksichtigt.",
-    "changes": [],
-    "sha256": "265e78a078818859125216ad0bae9ba8805279f084dff43cab3c6cb5905c2acc"
+    "verdict": "revised",
+    "reason": "Mini individuell mit drei Eingangsmodi und Lieferterminbeispiel vertieft: Neue Einigung ändert Sachverhalt, Kurzantwort und Empfehlung im bisherigen Dokument; keine Dateianforderung bei vollständig wiedergegebenem Sachverhalt. Desk-Prüfung.",
+    "changes": [
+      "Konkrete Entscheidungsfrage statt bloßem Erstellungsauftrag; Aktualisierung muss Kurzantwort und Empfehlung verändern, nicht nur neue Fundstelle anfügen.",
+      "Eigenverantwortliche Entscheidung ermöglichen und Empfehlung nach verschlechterter Sach- oder Rechtslage aktualisieren. Grenze: Keine vorgeschriebene Memoform; keine Sachnorm für sämtliche Mandatsgegenstände.",
+      "Neuerstellung, Kürzung und Aktualisierung unterscheiden; konkreten Nachtrag in die vollständige Memo-Fassung einarbeiten."
+    ],
+    "sha256": "5479d28274c9bbf79abef61887f179c0a612556a6ffade6f0eef6c7bbcefe045"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt vollständig schlussgelesen: Die späteren Tabellen verlangten entgegen dem Memoauftrag Subsumtionszeilen, einen Rechtsmittelschriftsatz oder eine Verhandlungsfassung. Doppelte allgemeine Anhänge und fachliche Varianten sind zu einem konsistenten Ablauf bis zum Vier-Teile-Memo zusammengeführt.",
+    "reason": "Gesamte Werkstatt individuell um vorgreifliche Fragen, Durchsetzbarkeit, wirtschaftliche Entscheidung, Gegenbelege, interne und prozessuale Termine sowie adressatengerechten Abschluss erweitert. Vier-Teile-Aufbau und alle Spezialrouten erhalten; kein Live-Test.",
     "changes": [
-      "Pflichtmatrizen und beliebige Teilprodukte durch Sachverhalt, Fragen, zugeordnete Kurzantworten und begründete rechtliche Ausführungen ersetzt; interne Kontrollen bleiben Hilfsmittel.",
-      "Nachreichung, Widerspruchsaufklärung und Aktualisierung betroffener Antworten mit anschließender Gesamtfassung verbunden; fehlende Längenvorgabe erzeugt keinen Gesamtstopp.",
-      "Rechtsmittel-, Haftungs-, Rechtsprechungs-, Transaktions-, Compliance- und Auslandsvarianten fachlich eingeordnet, ohne ungefragten Schriftsatz oder Vertragsentwurf.",
-      "Allgemeine Normenkette und pauschale Beweislastzuweisung nicht mehr als universellen Prüfmaßstab vorgegeben; Quellenprüfung, Vertraulichkeit und technische Grenzen bewahrt."
+      "Konkrete Entscheidungsfrage statt bloßem Erstellungsauftrag; Aktualisierung muss Kurzantwort und Empfehlung verändern, nicht nur neue Fundstelle anfügen.",
+      "Eigenverantwortliche Entscheidung ermöglichen und Empfehlung nach verschlechterter Sach- oder Rechtslage aktualisieren. Grenze: Keine vorgeschriebene Memoform; keine Sachnorm für sämtliche Mandatsgegenstände.",
+      "Vertragsfassung und Tatsachenbeleg unterscheiden; abhängige Fragen und konkrete Gegenbelege in Kurzantwort und Empfehlung übersetzen.",
+      "Empfängerwechsel und Kürzung dürfen Wahrheitsgrad nicht verändern; fertiges Memo von noch ausstehender Empfängerentscheidung trennen."
     ],
-    "sha256": "d1447809bfe5b6372b8fcf8c3b6282d547816c43b963d30a121ba8abb58ccd41"
+    "sha256": "6d5a10dc254a31406f25d665dace83bd6c734c7df1dbe88c8ca2a67e271dce11"
   },
   "selection": {
     "positive": [
@@ -69,5 +93,40 @@
       ],
       "target_skill": "memo-vier-teile-aufbau"
     }
-  ]
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "memorandums-ersteller/memorandums-ersteller-werkstatt.md",
+      "memorandums-ersteller/memorandums-ersteller-schnellstart.md"
+    ],
+    "opening_change": "Konkrete Entscheidungsfrage statt bloßem Erstellungsauftrag; Aktualisierung muss Kurzantwort und Empfehlung verändern, nicht nur neue Fundstelle anfügen.",
+    "norms": [
+      "Paragrafen 675 Absatz 1 und 280 Absatz 1 BGB"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 16.09.2021, IX ZR 165/19, Randnummern 28 bis 31",
+        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=122686&Blank=1.pdf",
+        "application": "Eigenverantwortliche Entscheidung ermöglichen und Empfehlung nach verschlechterter Sach- oder Rechtslage aktualisieren.",
+        "limit": "Keine vorgeschriebene Memoform; keine Sachnorm für sämtliche Mandatsgegenstände."
+      }
+    ],
+    "remaining_limits": [
+      "Gerichtliche Identität amtlich bestätigt; Begründung wegen gesperrtem Direktabruf in veröffentlichter Volltextwiedergabe bei anwalt24 gelesen. Keine vollständige Prüfung sämtlicher Memosachgebiete.",
+      "Ergänzung 2026-09-23: Sämtliche bisherigen Profil-URLs erneut geöffnet. Amtlicher PDF-Direktabruf weiterhin erfolglos; Randnummern 28 bis 31 erneut in der benannten gerichtlichen Textwiedergabe gelesen und Paragraf 271 BGB amtlich geprüft. Frühere Quellenprüfung bleibt datierter historischer Stand. Workflow-Prüfung ohne Live-Mandat, ohne neue materiellrechtliche Entscheidung."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Auswahl zwischen neuem Entscheidungsmemo, Kurzfassung und Aktualisierung.",
+      "Dateien ohne Auftrag: still lesen und nur anstehende Entscheidung oder Redaktionsauftrag klären.",
+      "Klarer Auftrag: unmittelbar Vier-Teile-Memo bearbeiten und nur entscheidende fehlende Tatsachen nachfragen."
+    ],
+    "continuation": "Beiderseitiger Vertragsnachtrag verändert Sachverhalt, zugeordnete Kurzantwort und Empfehlung im bestehenden Nutzerpfad, etwa memo.md; unverändert tragfähige Teile bleiben erhalten.",
+    "enrichment": "Vorgreifliche Fragen, tatsächliche Vertragsfassungen, Gegenbelege, rechtliche und wirtschaftliche Entscheidungsgründe, fristgerechte Beratung, Empfängerwechsel und eindeutiger interner Abschluss konkretisiert.",
+    "limits": "desk review; no live client execution"
+  }
 }

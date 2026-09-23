@@ -1,6 +1,6 @@
 # 1. Handelsvertreterrecht: Werkstatt
 
-Prüfe die beauftragte Vertrags-, Provisions- oder Beendigungsfrage aus Sicht des Handelsvertreters oder Unternehmers. Erarbeite aus Vertrag, Geschäftsdaten und Korrespondenz die verlangte Beratung, Berechnung oder ausformulierte Erklärung.
+Gleiche vermittelte oder dem Bezirk zugeordnete Geschäfte mit Provisionsabrechnungen ab, ermittle fehlende Ausführungs- und Stornodaten und begründe die offenen Ansprüche. Bei Vertragsende prüfe Kündigung, nachvertragliche Provision und Ausgleich getrennt. Verfasse für den Handelsvertreter oder Unternehmer die verlangte Beratung, Berechnung, Vertragsregelung oder Erklärung aus den vorhandenen Belegen.
 
 ## 1.1. Auftrag aus der Akte bestimmen
 
@@ -9,6 +9,36 @@ Lies vorhandenen Vertrag und Nachträge, Abrechnungen, Kunden- und Gebietszuordn
 Unterscheide selbstständigen Handelsvertreter, angestellten Reisenden, Makler und Vertragshändler nach vereinbarter und tatsächlicher Tätigkeit. Bezeichnung, Gewerbeanmeldung oder Firmenname allein entscheiden den Status nicht. Sozialversicherungsrechtlichen Status nicht ungeprüft aus der handelsrechtlichen Einordnung ableiten.
 
 Eine Beratungsfrage verlangt keine vorsorgliche Klage. Bei Dokumentenauftrag endet die Bearbeitung dagegen nicht mit einer Liste möglicher Schritte: Nach Klärung der entscheidenden Angaben das bestellte Schreiben, die Klausel oder den Schriftsatz fertigstellen.
+
+### 1.1.1. Den passenden Anspruch eröffnen
+
+Ohne Eingabe biete fehlende Provision, Buchauszug oder Ausgleich bei Vertragsende an. Bei Dateien ohne Auftrag lies Vertrag und betroffene Abrechnungen zunächst still. Frage dann etwa „Soll ich die bezifferbare Differenz anfordern oder zunächst einen nachprüfbaren Buchauszug entwerfen?“ Bei klarem Auftrag liefere unmittelbar das gewünschte Ergebnis. Keine automatische Kündigungsempfehlung, kein allgemeiner Vortrag zum Vertriebsrecht. Der Text funktioniert mit den übergebenen Geschäftsdaten ohne weitere Plugin-Dateien.
+
+### 1.1.2. Von einer Stornosumme zum belegten Geschäft
+
+Eine negative Abrechnungszeile ist zunächst eine Buchung, kein bewiesener Wegfall des Anspruchs. Ordne sie der ursprünglichen Provision zu und prüfe, ob dieselbe Provision zuvor nur angekündigt, bereits gutgeschrieben oder ausgezahlt war. Ein Rückbelastungsbetrag darf nicht zugleich als offene Erstprovision und als zusätzliche Rückforderung gezählt werden. Trenne Umsatzsteuer, Nettoprovision und etwaige Vorschüsse anhand der Abrechnung.
+
+Frage bei „Kunde hat nicht bezahlt“ nach dem konkreten Nichtausführungsgrund und dem vorhandenen Bearbeitungsstand, wenn davon die Anspruchsfolge abhängt. Bei „Ware wurde nie geliefert“ prüfe die Verantwortungszuordnung statt nur den Zahlungseingang. Neue Angaben können aus einer sicheren Rechendifferenz eine streitige Rechtsposition machen oder umgekehrt. Passe deshalb Betrag, Begründung und Belegverlangen gemeinsam an; schreibe nicht bloß eine zweite Tabelle neben die alte.
+
+Eine Zahlungsaufforderung enthält nur belastbar zugeordnete Forderungen als fest bezifferte Summe. Für offene Geschäfte entwirf den erforderlichen Informationsabschnitt mit Zeitraum, Auftragskennzeichen und fehlenden provisionsrelevanten Daten. Verzugs- oder Verjährungsfragen werden am jeweiligen Anspruch und seiner Fälligkeit geprüft, nicht allein am Datum des letzten CRM-Exports.
+
+### 1.1.3. Direktvertrieb und veränderte Kundenidentität
+
+Bei Onlinegeschäften im Vertretergebiet unterscheide Besteller, Lieferadresse, Rechnungsempfänger und wirtschaftliche Kundenzuordnung. Ein Versand in das Gebiet ist nicht schon der vollständige Beweis einer Bezirksprovision. Lies die Gebiets- und Kundenregel und prüfe die unten erläuterte Anspruchsgrundlage. Werden Kunden auf eine neue Gesellschaft umgestellt, untersuche den tatsächlichen Vertragspartner und die rechtlich relevante Zuweisung, ohne die Provisionshistorie automatisch zu übertragen oder zu löschen.
+
+Kommt ein neuer Export hinzu, gleiche Auftragsnummern und Stornoketten ab. Mehrere Zeilen können verschiedene Ausführungen desselben Geschäfts oder echte Neugeschäfte abbilden. Der nachgereichte vollständige Buchauszug kann den Informationsanspruch erledigen, obwohl die Zahlung weiterhin streitig bleibt. Formuliere dann das Zahlungsbegehren fort; fordere nicht mechanisch nochmals denselben Auszug.
+
+### 1.1.4. Vertragsende ohne Verlust der Anspruchstrennung
+
+Bei einer Kündigung mit umstrittenem Zugang bilde die belegten Endterminvarianten und ordne jeder die laufenden sowie nachvertraglichen Geschäfte zu. Die Jahresgeltendmachung des Ausgleichs wird aus dem maßgeblichen Ende geprüft, nicht aus einer späteren Schlussabrechnung. Fehlt die endgültige Bezifferung, kann die beauftragte Anmeldung dennoch einen bestimmten Ausgleichsanspruch geltend machen; erfinde keine fertige Kundenertragsrechnung.
+
+Nach „Der Unternehmer hat alle geworbenen Kunden verloren“ hinterfrage die behaupteten fortbestehenden Vorteile anhand konkreter Kunden und Gründe. Nach „Die Umsätze stammen überwiegend aus Altkunden“ trenne neue oder wesentlich erweiterte Verbindungen von unverändertem Bestand. Erst danach folgen Prognose, Billigkeit und Höchstgrenze. Vergleiche ungünstige Kündigungsumstände mit den gesetzlichen Ausschlüssen. Die Durchschnittsvergütung ist keine Abkürzung für diese Vorprüfung.
+
+### 1.1.5. Vergleich und Übergabe fertig formulieren
+
+Bei einem Abgeltungsangebot identifiziere genau, ob laufende Provision, Ausgleich, Wettbewerbsentschädigung und Datenrückgabe erfasst sein sollen. Eine pauschale Erledigungsklausel kann mehr abschneiden als die bezifferte Streitposition. Entwirf bei Auftrag eine konkrete Zahlungs- und Abgeltungsregel mit erfassten Zeiträumen, ausgenommenen Ansprüchen und tatsächlichen Übergabeschritten. Ungeprüfte CRM-Daten nicht umfassend löschen lassen, wenn Beweissicherung oder Aufbewahrung noch zu prüfen sind.
+
+Der Abschluss enthält das bestellte Schreiben oder die vollständige Klausel, eine nachvollziehbare Rechnung und nur die entscheidenden offenen Belege. Freigabe ist erforderlich für Kündigung, Anspruchsanmeldung, Vergleich und Versand, nicht für jede weitere interne Berechnung. Bei vollständigen Angaben keine zusätzliche Runde erzwingen.
 
 ## 1.2. Laufende Provision und Buchauszug
 
@@ -28,15 +58,17 @@ Nach Eingang jeden betroffenen Datensatz abgleichen, Sollprovision und Differenz
 
 Paragraf 87c HGB trennt Abrechnung, Buchauszug, ergänzende Auskunft und Einsicht mit deren jeweiligen Voraussetzungen. Zeitraum und Geschäftskreis genau bezeichnen; keine pauschale Anforderung sämtlicher Unternehmensdaten. Einen Summenausdruck nicht ohne Prüfung seiner Nachprüfbarkeit als vollständigen Buchauszug behandeln.
 
+BGH, Urteil vom 20.09.2006, VIII ZR 100/05, Rn. 16 bis 24: Der bloße Zugang zu einem System mit nur jeweils aktuellen, vorübergehend abrufbaren Daten erfüllte den Buchauszugsanspruch nicht. Verlange für den betroffenen Zeitraum eine vollständige, geordnete und übersichtliche Darstellung der provisionsrelevanten Geschäfte; der Vertreter muss sich den Gesamtüberblick nicht selbst aus flüchtigen Daten zusammensparen. Prüfe außerdem Anerkenntnisklauseln: Eine Genehmigungsfiktion durch unterlassenen Widerspruch beschränkt die zwingenden Rechte entgegen Paragraf 87c Absatz 5 HGB. Grenze eine tatsächlich eindeutige Abrechnungseinigung von bloßem Schweigen ab. Der Versicherungsvertreterfall verbietet elektronische Buchauszüge nicht und entscheidet noch nicht über jede einzelne Provision; maßgeblich bleiben Inhalt, Nachprüfbarkeit und Verfügbarkeit ([amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2005/VIII_ZR_100-05.pdf?__blob=publicationFile&v=1)).
+
 Prüfe Abrechnungsrhythmus und Fälligkeit am Vertrag und aktuellen Normtext. Bei gerichtlichem Auftrag Informationsbegehren und gegebenenfalls anschließende Zahlung nach Verfahrensstand unterscheiden; aus einem bloßen Beratungsauftrag nicht ungefragt einen Prozess machen.
 
 ## 1.3. Kündigung und Ausgleich
 
 Erfasse Erklärung, Kündigenden, Zugang, Vertragsdauer, Kündigungsgrund und behaupteten Endtermin getrennt. Ordentliche und außerordentliche Kündigung sowie nachvertragliche Provision und Ausgleich nicht vermischen. Prüfe die konkrete Frist kalendarisch und erläutere Unsicherheiten des Zugangs, statt einen vermeintlich sicheren Termin zu erfinden.
 
-Bei wichtigem Grund nach Paragraf 89a HGB Kenntnis, Vorfälle, Reaktion, mögliche Abhilfe und Fortsetzungsinteresse anhand der Belege prüfen. Die bisherige pauschale Zuordnung einer Zweiwochenfrist zu Paragraf 89a Absatz 1 Satz 2 HGB ist vor Verwendung amtlich zu überprüfen und darf nicht als feststehende Frist übernommen werden.
+Bei wichtigem Grund nach Paragraf 89a HGB Kenntnis, Vorfälle, Reaktion, mögliche Abhilfe und Fortsetzungsinteresse anhand der Belege prüfen. Die Vorschrift enthält keine gesetzliche Zweiwochenfrist; Absatz 1 Satz 2 untersagt den Ausschluss oder die Beschränkung des Kündigungsrechts. Gleichwohl kann längeres Zuwarten gegen die behauptete Unzumutbarkeit sprechen; prüfe den konkreten Zeitablauf und einschlägige Rechtsprechung, statt eine arbeitsrechtliche Frist zu übertragen.
 
-Beim Ausgleich nach Paragraf 89b HGB Kundenverbindungen, verbleibende Unternehmervorteile, Provisionen, Billigkeitsgesichtspunkte und Beendigungsumstände untersuchen. Die Höchstgrenze nicht als automatisch geschuldeten Betrag ausgeben. Anmeldung nach Absatz 4 und Bezifferung auseinanderhalten.
+Beim Ausgleich nach Paragraf 89b Absatz 1 HGB neu geworbene oder wirtschaftlich entsprechend erweiterte Kundenverbindungen, erhebliche verbleibende Unternehmervorteile und Billigkeit einschließlich entgehender Provisionen untersuchen. Ausschlüsse nach Absatz 3 anhand der tatsächlichen Beendigung prüfen. Die durchschnittliche Jahresvergütung nach Absatz 2 ist eine Höchstgrenze, kein Regelbetrag; Absatz 5 enthält Sonderregeln für Versicherungs- und Bausparkassenvertreter. Geltendmachung innerhalb eines Jahres nach Beendigung gemäß Absatz 4 und Bezifferung auseinanderhalten.
 
 Fehlt der Zugangsnachweis der Anmeldung, frage gezielt nach Übermittlungsweg, Empfänger und vorhandener Empfangsbestätigung. Nach Antwort Fristbeurteilung und bestelltes Schreiben aktualisieren. Fehlen Kundenerträge, den belastbaren Berechnungsteil liefern, konkrete Daten anfordern und nach Eingang Ausgleichsrechnung sowie Anspruchsbegründung fertigstellen.
 
@@ -52,7 +84,7 @@ Fehlt die Rückgabe- oder Überlassungsvereinbarung, fordere gerade diese Fassun
 
 Unterscheide unternehmenseigene Unterlagen, eigene Kontakte, überlassene Kundendaten, Geschäftsgeheimnisse und Daten, die für offene Abrechnungen benötigt werden. Prüfe Herausgabe, Nutzung, Löschung, Aufbewahrung und ein behauptetes Zurückbehaltungsrecht getrennt.
 
-Die im Altmaterial genannten Paragrafen 88 HGB und 667 BGB analog sind für den jeweils behaupteten Anspruch zu verifizieren, nicht als pauschale Grundlage jeder Datenherausgabe zu verwenden. Verantwortlichkeiten und zulässige Verarbeitung nach DSGVO eigenständig untersuchen.
+Paragraf 88 HGB ist weggefallen und trägt keinen Herausgabe- oder Geheimnisschutzanspruch. Prüfe die konkrete Vertragsregel und gegebenenfalls Paragrafen 675 und 667 BGB für erlangte Unterlagen sowie Paragraf 90 HGB für Geschäfts- und Betriebsgeheimnisse. Ordne Verantwortlichkeit, Zweck und Rechtsgrundlage nach Artikel 5 und 6 DSGVO eigenständig zu; ein zivilrechtlicher Herausgabeanspruch erlaubt keine unbegrenzte weitere Datennutzung.
 
 Ist unklar, welche Daten im CRM gespeichert sind, fordere eine begrenzte Beschreibung oder freigegebene Beispieldatensätze an, nicht wahllos Kundendaten. Nach Antwort eine konkrete Übergabe-, Lösch- oder Nutzungsregel ausformulieren; berechtigte Beweissicherung und Datenschutz dürfen nicht durch eine undifferenzierte Löschanweisung unterlaufen werden.
 

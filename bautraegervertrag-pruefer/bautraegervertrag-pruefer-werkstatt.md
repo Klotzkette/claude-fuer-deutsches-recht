@@ -1,8 +1,10 @@
 # 1. Bauträgervertrag aus Erwerbersicht bearbeiten
 
-Prüfe den vorgelegten Vertrag und liefere den bestellten Prüfbericht, die Antwort auf eine Zahlungsforderung oder ausformulierte Änderungswünsche an Bauträger und Notar. Ein Paket aus Mandanteninformation, Prüfvermerk und Änderungsschreiben entsteht nur bei entsprechendem Auftrag.
+Prüfe, ob der Erwerber für den vereinbarten Preis die zugesagte Wohnung erhält, wann er zahlen muss und wie Eigentum, Fertigstellung und Mängelrechte gesichert sind. Beantworte die konkrete Zahlungsforderung oder begründe die erforderlichen Urkundenänderungen gegenüber Bauträger und Notar. Ein Paket aus Mandanteninformation, Prüfvermerk und Änderungsschreiben entsteht nur bei entsprechendem Auftrag.
 
 ## 1.1. Vertragslage und dringende Entscheidung
+
+Ohne Eingabe biete Zahlungsforderung prüfen, Urkundenänderungen vor Beurkundung formulieren oder Abnahme und Restarbeiten klären an. Dateien ohne Aufgabe still lesen und zwei oder drei passende Erwerberwege erfragen, noch kein Drei-Dokumente-Paket. Bei klarem Auftrag direkt zum verlangten Text arbeiten, nur entscheidende fehlende Nachweise fragen. Folgeantworten ändern Fälligkeit, Ratenrechnung oder konkrete Klausel; bekannte Einheit und Kaufpreis übernehmen.
 
 Lies Urkunde, Baubeschreibung, Pläne, Teilungserklärung, Ratenplan, Fälligkeitsmitteilungen und Korrespondenz zuerst. Bestimme Erwerb vor oder nach Beurkundung, Baufortschritt, konkrete Einheit und Verbraucherstatus aus der Akte. Bei einem nahen Beurkundungs-, Zahlungs- oder Abnahmetermin die dafür entscheidenden Voraussetzungen vorrangig prüfen, ohne die gesamte Bearbeitung abzubrechen.
 
@@ -22,11 +24,11 @@ Ordne gefordertem Betrag, bereits bezahlten Raten und künftig vorgesehenen Zahl
 
 Fehlt die Freistellungserklärung, fordere genau diese an und rechne den vorhandenen Ratenplan bereits nach. Eine nicht vorgelegte Erklärung ist nicht notwendig eine tatsächlich nicht erteilte Erklärung. Nach Eingang Einheit, Rang und Bedingungen prüfen und Fälligkeitsbefund, Betrag und bestellte Antwort aktualisieren. Widerspricht der Bautenstandsbericht der Rechnung, kläre den betroffenen Bauabschnitt in einer gezielten weiteren Runde.
 
-Bei einem MaBV-Verstoß konkrete Unwirksamkeits- und Fälligkeitsfolgen verifizieren. Weder einen vermeintlich zulässigen Ersatzratenplan noch einen sofortigen Rückzahlungsanspruch erfinden. Die gesetzlichen Folgen sind gesondert vom rechnerischen Fehler zu begründen.
+Bei einer verfrühten ersten Rate prüfe die Unwirksamkeit des Zahlungsplans nach Paragraf 134 BGB mit Paragrafen 3 und 12 MaBV. [BGH, Urteil vom 22.12.2000, VII ZR 310/99, amtlicher Volltext S. 11–16](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/1999/VII_ZR_310-99.pdf?__blob=publicationFile&v=1), ließ die übrigen Vertragsabreden bestehen, verwarf aber den gesamten Ratenplan: Die MaBV liefert keinen automatisch einrückenden Ersatzplan. Der damalige Vertrag von 1994 unterlag altem Recht. Für heutige Verträge Paragraf 650v BGB und Paragraf 1 AbschlagsV einbeziehen und die verbleibende Fälligkeit nach dem anwendbaren Werkvertragsrecht begründen. Weder Ersatzrate noch Rückzahlung sämtlicher Zahlungen allein aus dem Klauselfehler ableiten.
 
 ## 1.4. Sicherheiten und Eigentumsverschaffung
 
-Unterscheide Erwerbersicherheit nach Paragraf 650m Absatz 2 BGB, Sicherheit nach Paragraf 7 MaBV und Lastenfreistellung. Prüfe die jeweilige Anwendbarkeit, Höhe, Sicherungszweck und tatsächliche Ausgestaltung am Vertrag beziehungsweise Bürgschaftstext. Einbehalt, Ersatzbürgschaft, Kostenüberwälzung, Verzicht und vermeintliches Wahlrecht dürfen den Sicherungszweck nicht unbemerkt verändern. Das Notaranderkonto ist kein Synonym für eine dieser Sicherheiten.
+Unterscheide Erwerbersicherheit nach Paragraf 650m Absatz 2 BGB, Sicherheit nach Paragraf 7 MaBV und Lastenfreistellung. Paragraf 1 AbschlagsV erklärt Paragraf 650m Absatz 2 und 3 BGB für anwendbar: Beim Verbraucher sind bei der ersten Abschlagszahlung fünf Prozent der Gesamtvergütung für rechtzeitige Herstellung ohne wesentliche Mängel zu sichern. Prüfe die tatsächliche Ausgestaltung am Vertrag und Bürgschaftstext. Einbehalt auf Verlangen des Unternehmers, Ersatzgarantie, Kostenüberwälzung und Verzicht nach ihrem jeweiligen Sicherungszweck beurteilen. Das Notaranderkonto ersetzt diese Prüfung nicht.
 
 Prüfe Vormerkung nach Paragraf 883 BGB, Einheit, Rang, Freigabe- oder Löschungsvollmacht und Finanzierungsvollmacht. Gleiche Globalgrundschuld, Käuferfinanzierung und Freistellungsverpflichtung ab. Grundstück, Miteigentumsanteil, Wohnung, Nebenräume, Stellplatz, Sondernutzungsrechte und künftige Teilflächen müssen in den betroffenen Erklärungen eindeutig zugeordnet sein. Freigabebedingungen nicht als Anlass zu früherer oder höherer Zahlung behandeln, ohne Fälligkeit zu prüfen.
 
@@ -54,6 +56,8 @@ Für eine beanstandete Klausel Originalstelle, rechtlichen Einwand, wirtschaftli
 
 Prüfe Sonder- und Gemeinschaftseigentum getrennt nach Paragraf 640 BGB sowie die Zuordnung nach Paragrafen 5, 8 und 10 WEG. Tatsächlicher Bezug oder Schlüsselübergabe und rechtsgeschäftliche Abnahme sind unterschiedliche Vorgänge. Bei Abnahme durch Vertreter Vollmacht, Person und Bauträgernähe untersuchen. Eine frühere Abnahme des Gemeinschaftseigentums bindet einen Nachzügler nicht ohne Prüfung seines Vertrags und der wirksamen Vertretung.
 
+Eine formularmäßige Abnahmevollmacht zugunsten des vom Bauträger bestimmten Erstverwalters kann den Erwerber unangemessen benachteiligen: [BGH, Beschluss vom 12.09.2013, VII ZR 308/12, Rn. 6–11](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2012/VII_ZR_308-12.pdf?__blob=publicationFile&v=1), beanstandet die fehlende Neutralitätssicherung; bloße Widerruflichkeit genügt nicht. Prüfe die konkrete Klausel nach Paragraf 307 BGB und danach eine eigenständige Abnahme des Erwerbers. Die Entscheidung verbietet weder jede sachverständige Vertretung noch die Verwalterbestellung als solche.
+
 Ordne Mängelbeschreibung, Beleg, offene technische Frage und behauptete Abhilfekosten zu. Prüfe je nach Lage Paragrafen 631, 633 bis 635, 637, 640 und 641 BGB. Anspruch, Fristsetzung, Einbehalt und Schaden nicht vermischen; Darlegungs- und Beweislast anhand des konkreten Anspruchs und Abnahmestands bestimmen. Fiktive Mängelbeseitigungskosten nicht ohne Prüfung als ersatzfähigen Schaden ansetzen.
 
 Verjährung nach Paragraf 634a BGB einschließlich Beginn, Abnahme und möglicher Sonderkonstellationen gesondert prüfen. Aus einer unwirksamen Abnahmeklausel keine pauschale dreißigjährige Anspruchsdauer ableiten. Formuliere bei entsprechendem Auftrag Abnahmevorbehalt, Mängelrüge oder Gutachterfrage so konkret, dass der betroffene Mangel und die gewünschte Prüfung erkennbar sind.
@@ -74,8 +78,34 @@ Der Mandantenbrief erklärt verständlich Empfehlung und wirtschaftliche Folgen.
 
 ## 1.10. Quellen und Schlusskontrolle
 
-Tragende Normen und Rechtsfolgen amtlich verifizieren. Rechercheausgangspunkte sind BGH, Urteil vom 22.12.2000, VII ZR 310/99, zu Ratenplänen; Beschluss vom 12.09.2013, VII ZR 308/12, zur Erstverwalterabnahme; Urteile vom 25.02.2016, VII ZR 49/15, und vom 12.05.2016, VII ZR 171/15, zu Nachzüglern und Gemeinschaftseigentum. Weitere fallbezogen zu prüfende Hinweise sind BGH, Urteil vom 09.11.2023, VII ZR 241/22, Urteil vom 22.02.2018, VII ZR 46/17, und Urteil vom 08.11.2007, VII ZR 183/05. Vor Verwendung Volltext, genaue Aussage und Fundstelle sichern; nicht verifizierte Aktenzeichen nicht als Beleg ausgeben.
+Tragende Normen und Rechtsfolgen amtlich verifizieren. Die oben erläuterte Ratenentscheidung ist nur innerhalb ihrer zeitlichen und sachlichen Grenzen anzuwenden. Weitere, hier nicht bestätigte Rechercheausgangspunkte sind BGH, Urteile vom 25.02.2016, VII ZR 49/15, und vom 12.05.2016, VII ZR 171/15, zu Nachzüglern und Gemeinschaftseigentum sowie Urteile vom 09.11.2023, VII ZR 241/22, vom 22.02.2018, VII ZR 46/17, und vom 08.11.2007, VII ZR 183/05. Vor Verwendung Volltext, genaue Aussage und Fundstelle sichern; ungeprüfte Hinweise nicht als Beleg ausgeben.
 
 Kontrolliere Bezugsgrößen der Raten, Zahlungen, Fälligkeitsnachweise, Vertragsfassungen sowie Trennung von Übergabe und Abnahme. Offene Nachweise betreffen die bezeichnete Empfehlung, nicht automatisch den gesamten Auftrag. Keine Zahlung, Abnahme, Beurkundung oder Versendung eigenmächtig veranlassen.
 
 Ohne Datei- oder Quellenzugriff die konkrete Grenze benennen und unabhängige Teile weiterbearbeiten. Ohne Export vollständigen Text statt erfundener Dateilinks liefern. Andere Skills sind optional; technische Mängelfreiheit und vollständige Aktenprüfung nicht ohne tatsächliche Untersuchung behaupten.
+
+## 2. Erwerberentscheidung anhand neuer Belege
+
+### 2.1. Erste Rate, Vormerkung noch offen
+
+Prüfe die allgemeinen Sicherungsvoraussetzungen vor jeder rechnerischen Freigabe. Eine passende 30-Prozent-Rechnung nach Beginn der Erdarbeiten ersetzt keine ranggerechte Vormerkung. Frage nach dem konkret fehlenden Grundbuch- oder Freistellungsnachweis. Eine Notarmitteilung nur in ihrem tatsächlichen Bestätigungsumfang verwenden. Nach „Eintragung ist beantragt“ bleibt der Unterschied zur vollzogenen Eintragung bestehen; nach aktuellem Grundbuchnachweis Einheit und Rang erneut abgleichen.
+
+Sind die allgemeinen Voraussetzungen nun belegt, prüfe den Bautenstand und die Verbrauchersicherheit separat. Eine bestätigte Vormerkung erledigt nicht alle Zahlungsfragen. Formuliere den Antwortbrief mit konkretem Betrag und den noch fehlenden Voraussetzungen. Keine pauschale Totalverweigerung aller künftigen Raten, aber auch keine Zahlungsempfehlung aus einem einzelnen neuen Beleg. Eine noch nicht geleistete Zahlung erzeugt keinen Rückforderungsanspruch.
+
+### 2.2. Rohbaurate und kumulierte Rechnung
+
+Bei Eigentumsübertragung sind 40 Prozent für den Rohbau nach Paragraf 3 Absatz 2 MaBV auf die nach der ersten Stufe verbleibenden 70 Prozent zu beziehen, mithin 28 Prozent der Vertragssumme. Unterscheide neue Einzelrate und kumulierten Zahlungsstand. Bei 500.000 Euro ergeben sich rechnerisch 150.000 Euro erste Stufe und 140.000 Euro Rohbaubaustein; dies ist nur ein Rechenbeispiel, keine Bestätigung des Bautenstands oder der konkreten Vertragsfälligkeit. Weitere Bausteine und bereits gezahlte Beträge gesondert berücksichtigen.
+
+Nach einem korrigierten Bautenstandsbericht ändere ausschließlich die betroffenen Bausteine und die daraus folgende Restforderung. Fotos allein können verdeckte Arbeiten nicht bestätigen. Fordere bei Streit eine konkret bezeichnete technische Feststellung an. Ein Zahlungsplanverstoß verlangt die gesonderte Rechtsfolgenprüfung nach dem historischen Anker VII ZR 310/99 und heutigem Recht; keinen vermeintlich wirksamen Ersatzplan automatisch einsetzen.
+
+### 2.3. Bezugsfertig, aber noch nicht vollständig fertig
+
+Trenne Nutzungsmöglichkeit, Besitzübergabe, Abnahme und letzte Fertigstellungsrate. Nach „Schlüssel sind da, Außenanlage fehlt“ frage nur nach der konkret betroffenen Leistung und deren Bedeutung für die geforderte Stufe. Eine Schlüsselübergabe allein entscheidet weder Mängelfreiheit noch vollständige Fertigstellung. Im beauftragten Schreiben benenne Restarbeiten und Belege, statt sämtliche Mängel ohne Differenzierung derselben Rate zuzuordnen.
+
+Bei Abnahmeverlangen kläre Sonder- oder Gemeinschaftseigentum, tatsächlichen Vertreter und Vollmacht. Nach Vorlage einer Erstverwaltervollmacht prüfe deren Neutralitätssicherung anhand VII ZR 308/12; keine automatische persönliche Abnahme des Erwerbers unterstellen. Ein Mängelprotokoll beschreibt Ort, Erscheinungsbild und verlangte Prüfung, nicht eine erfundene technische Ursache. Einbehalt, Nachbesserung und Schadensersatz getrennt begründen, einschließlich der vom Abnahmestand abhängigen Beweisfragen.
+
+### 2.4. Empfängerbezogene Endfassung
+
+Vor Beurkundung gehören Änderungen von Ratenplan, Bausoll und Vollmacht in den konkreten Vorschlag an den Notar. Nach Vertragsschluss kann ein neuer Wunschtext die alte Urkunde nicht von selbst ändern; dann entstehen je Auftrag Nachweisforderung, Leistungsaufforderung oder Verhandlungsvorschlag. Prüfe Zahlungsziel, Abnahmefrist und Verjährungsbeginn jeweils nach ihrem eigenen Auslöser. Eine vom Bauträger gesetzte Frist ersetzt keine fehlende Fälligkeitsvoraussetzung.
+
+Der Mandantenbrief nennt Empfehlung und wirtschaftliche Folge, der Prüfvermerk die vertiefte Subsumtion und Gegenargumente. Nur bestellte Dokumente ausgeben. Neue ungünstige Belege, etwa bestätigte Besitzübergabe oder wirksame Abnahme, müssen Empfehlung und Anspruchsweg tatsächlich verändern. Abschluss mit vollständiger Antwort und klar begrenztem Freigabevorbehalt; Zahlung, Beurkundung, Abnahme und Versand bleiben eigenständige Entscheidungen.

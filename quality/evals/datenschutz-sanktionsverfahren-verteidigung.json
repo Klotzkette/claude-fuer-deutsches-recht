@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "datenschutz-sanktionsverfahren-verteidigung",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/owig_1968/__67.html",
@@ -42,17 +42,28 @@
       "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025%2F0360%28COD%29",
       "checked_on": "2026-09-14",
       "supports": "COM(2025) 837 befindet sich noch im Gesetzgebungsverfahren und ersetzt die geltenden Meldevoraussetzungen nicht."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62021CJ0807",
+      "checked_on": "2026-09-22",
+      "supports": "EuGH, Urteil vom 5. Dezember 2023, C-807/21, Deutsche Wohnen, Randnummern 60 und 68 bis 78. Anwendung: Unternehmensgeldbuße ohne vorherige Identifizierung einer natürlichen Person möglich, Vorsatz oder Fahrlässigkeit bleiben erforderlich. Grenze: Keine verschuldenslose Haftung und kein Maßstab für sämtliche Anordnungen oder zivilrechtlichen Schäden."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/owig_1968/__67.html",
+      "checked_on": "2026-09-23",
+      "supports": "Zweiwochenfrist ab Zustellung des Bußgeldbescheids; daneben stehende Abhilfeanordnung benötigt gesonderte Rechtswegprüfung."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Mini vollständig gelesen: Einspruch, Artikel-58-Anordnung und Schadensersatz werden getrennt; Nachforderung und Akteneinsicht führen zur beauftragten Begründung, ohne die Pflichtmeldung aufzuschieben.",
+    "reason": "Der Mini hält Unternehmensadressierung und Verschuldensnachweis auseinander und verbindet dies mit Einspruch und getrenntem Rechtsschutz gegen Aufsichtsmaßnahmen. Individueller Text- und Quellenreview, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert.",
     "changes": [
-      "Zustellnachweis mit Fristberechnung und Akteneinsicht mit späterer Verteidigungsbegründung verbunden.",
-      "Reformabschnitte zu 2026/1744, Artikel 4a, KI-MIG und Hochrisikofristen unverändert erhalten; keine neue Quellenprüfung behauptet.",
-      "Freigabestopp auf externe Erklärung begrenzt, nicht auf die interne Bearbeitung."
+      "C-807/21 in Tatbestands- und Verschuldensprüfung eingebaut.",
+      "Nicht neu verifiziertes C-683/21 aus dem Prompt entfernt; Pflichtmeldung und freiwillige Einlassung bleiben getrennt.",
+      "Leer: Bußgeld, Abhilfeanordnung oder Pannenmeldung mit Verteidigung. Dateien: still lesen und maßnahmengerechte Dokumentwege anbieten. Klar: direkt bestellten Rechtsbehelf oder Verteidigungstext erstellen.",
+      "Neue Löschungsanordnung verlangt getrennten Weg; neue Logs ändern Befund und Meldung erst nach Prüfung ihrer Erfassungsgrenzen."
     ],
-    "sha256": "c848ce81ea6b356194f3b86a05a72326695527c75e677eb5cb94fc883e21acc6"
+    "sha256": "e48d64a889fa140adf09a4b3550da7ac08cafb47612e8db4d906fc16f0fe1e38"
   },
   "selection": {
     "positive": [
@@ -107,12 +118,54 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Gesamte Werkstatt einschließlich Reformstand und Schlussabschnitten geprüft. Technische Nachweise, Kenntnislage und Umsatzdaten ändern gezielt Tatbewertung oder Bemessung; parallele Verfahren bleiben getrennt.",
+    "reason": "Die Werkstatt ersetzt lose EuGH-Nennungen durch die konkrete Prüfung von Organisation, Kenntnis und Fahrlässigkeit nach Deutsche Wohnen. Die bezeichneten Anker wurden am amtlichen Entscheidungstext geprüft; keine pauschale Vollverifikation aller Nebenmaterien. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen.",
     "changes": [
-      "Nachgereichte Abflussprotokolle mit Ergänzung der Meldung und Warnhinweise mit Verschuldensprüfung verknüpft.",
-      "Erstmeldung und fristwahrenden Einspruch nicht als Ersatz für ausdrücklich bestellte spätere Begründung behandelt.",
-      "Bestehende Quellen und Reformbezüge erhalten; Quellenstatus bleibt außerhalb der Behördenantwort."
+      "C-807/21 in Tatbestands- und Verschuldensprüfung eingebaut.",
+      "Nicht neu verifiziertes C-683/21 aus dem Prompt entfernt; Pflichtmeldung und freiwillige Einlassung bleiben getrennt.",
+      "Getrennte Maßnahmen, Zustellung, forensische Erkenntnisstände, konkrete Warnungen, Verschulden und konsistente Bemessungsargumente vertieft.",
+      "Neue Löschungsanordnung verlangt getrennten Weg; neue Logs ändern Befund und Meldung erst nach Prüfung ihrer Erfassungsgrenzen."
     ],
-    "sha256": "78b7b1f2c5f86440c6006b630cd6d15f164d105a2a2ceed53bfaf11b4afedc0b"
+    "sha256": "d159912cfa3a9c8cb2f5c61589b40388331961c37b63505b0b63915aa55469f5"
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Bußgeld, Abhilfeanordnung oder Pannenmeldung mit Verteidigung.",
+      "Dateien: still lesen und maßnahmengerechte Dokumentwege anbieten.",
+      "Klar: direkt bestellten Rechtsbehelf oder Verteidigungstext erstellen."
+    ],
+    "continuation": "Neue Löschungsanordnung verlangt getrennten Weg; neue Logs ändern Befund und Meldung erst nach Prüfung ihrer Erfassungsgrenzen.",
+    "enrichment": "Getrennte Maßnahmen, Zustellung, forensische Erkenntnisstände, konkrete Warnungen, Verschulden und konsistente Bemessungsargumente vertieft.",
+    "limits": "desk review; no live client execution"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "method": "desk_review",
+    "files": [
+      "datenschutz-sanktionsverfahren-verteidigung/README.md",
+      "datenschutz-sanktionsverfahren-verteidigung/datenschutz-sanktionsverfahren-verteidigung-werkstatt.md",
+      "datenschutz-sanktionsverfahren-verteidigung/datenschutz-sanktionsverfahren-verteidigung-schnellstart.md",
+      "quality/evals/datenschutz-sanktionsverfahren-verteidigung.json"
+    ],
+    "opening_change": "Tatvorwurf, verantwortliche Einheit, Zeitraum und Verschulden vor der Verteidigungserklärung klären.",
+    "norms": [
+      "Artikel 58, 78 und 83 DSGVO",
+      "Paragrafen 20 und 41 BDSG",
+      "Paragraf 67 OWiG"
+    ],
+    "decisions": [
+      {
+        "citation": "EuGH, Urteil vom 5. Dezember 2023, C-807/21, Deutsche Wohnen, Randnummern 60 und 68 bis 78",
+        "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62021CJ0807",
+        "application": "Unternehmensgeldbuße ohne vorherige Identifizierung einer natürlichen Person möglich, Vorsatz oder Fahrlässigkeit bleiben erforderlich.",
+        "limit": "Keine verschuldenslose Haftung und kein Maßstab für sämtliche Anordnungen oder zivilrechtlichen Schäden."
+      }
+    ],
+    "remaining_limits": [
+      "Nur der bezeichnete EuGH-Anker neu verifiziert; nationale Verfahrensdetails, Zustellung und Omnibus-Vorschläge benötigen fallbezogenen Aktualitätsabgleich.",
+      "Desk-/Quellenreview, kein Live-Client- oder Modelltest. Bestehende Auswahl- und Ergebnisfälle unverändert erhalten.",
+      "Workflow-Anschlussprüfung 23.09.2026: individuelle Text- und Quellenprüfung, keine Live-Client-Ausführung. Frühere Entscheidungsprüfungen und ihre Reichweitengrenzen bleiben unverändert; keine erneute vollständige Rechtsprechungsprüfung behauptet. EUR-Lex-DSGVO-Seite lieferte Zugriffssperre statt Normtext; keine neue Vollverifikation oder Umsetzung eines Reformvorschlags behauptet. Frühere Norm- und Entscheidungsgrenzen bleiben erhalten."
+    ]
   }
 }

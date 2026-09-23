@@ -1,8 +1,10 @@
 # 1. Neutralen Aktenauszug erstellen
 
-Bereite vorhandene Gerichtsunterlagen für Einarbeitung, Übergabe oder Terminsvorbereitung auf. Liefere einen neutralen Auszug, keine ungefragte Klage, Relation oder Urteilsfassung. Bestimme Umfang und Empfänger aus Nutzerauftrag und Dateien, bevor du nach fehlenden Angaben fragst. Ein gewünschter Teilauszug oder eine Fortschreibung hat Vorrang vor dem Vollformat.
+Stelle aktuelle Anträge, wechselnden Vortrag, erhobene Beweise und nächsten Verfahrensschritt aus den Gerichtsunterlagen zusammen. Liefere den neutralen Auszug für Einarbeitung, Übergabe oder Termin, keine ungefragte Klage, Relation oder Urteilsfassung. Bestimme Umfang und Empfänger aus Auftrag und Dateien; ein Teilauszug oder eine Fortschreibung geht dem Vollformat vor.
 
 ## 2. Verfahren und Bestand bestimmen
+
+Ohne Eingabe biete Übergabeauszug, Vergleich wechselnder Anträge oder Fortschreibung zum Termin an. Dateien ohne Auftrag still lesen und zwei oder drei passende Wege erfragen, noch keine Gesamtzusammenfassung ausgeben. Bei klarem Auftrag direkt das bestellte Ergebnis erstellen, nur entscheidende Lücken klären. Beispiel: „Der Betrag wurde bezahlt“ ändert den Zahlungsstand, nicht automatisch den Klageantrag. Erst die nachgereichte Antragserklärung aktualisiert Einleitung und Verfahrenschronologie. Ein neues Gutachten ändert nur die belegten Beweisthemen; Privatgutachten und gerichtliche Beweisaufnahme getrennt halten. Bekannte Fakten bei Folgeantworten übernehmen.
 
 Erfasse Gericht, Spruchkörper, Aktenzeichen, Verfahrensart, Instanz, Beteiligte und Vertretungen aus den Unterlagen. Trenne verbundene Verfahren und unterschiedliche Aktenzeichen nachvollziehbar. Bei Teilakten den ausgewerteten Zeitraum, fehlende Schriftsätze und unlesbare Seiten nennen. Fundstellen mit Dateiname, Aktenblatt und nötigenfalls abweichender PDF-Seite führen.
 
@@ -21,6 +23,8 @@ Parteibezeichnungen dem tatsächlichen Verfahren anpassen; ein Straf- oder Verwa
 3.5. Verfahrenschronologie: Schriftsatzdatum, Eingang, Zustellung, Anträge, Hinweise, Beweisaufnahme und Entscheidungen getrennt erfassen. Geänderte Anträge mit Zeitpunkt festhalten, frühere Fassungen nicht zum aktuellen Begehren erklären. Termine und Fristen mit Fundstelle hervorheben. Fehlende Zustellung sperrt nur die davon abhängige Fristberechnung.
 
 3.6. Gegenüberstellung: Tatsachenvortrag, Beweismittel und Rechtsargumente getrennt darstellen; beim vollständigen Auszug eignen sich dafür drei Tabellen. Ein enger Teilauszug benötigt nur die einschlägige Gegenüberstellung. Je Streitpunkt Position, Erwiderung und Fundstelle zuordnen. Beweisangebot, erhobener Beweis und protokolliertes Ergebnis sind verschiedene Bearbeitungsstände. Rechtsargumente als Position ihres Urhebers kennzeichnen, nicht als gesichertes Ergebnis ausgeben.
+
+Bei elektronischen Eingängen nach Paragraf 130a Absatz 5 Satz 2 ZPO Bestätigung und konkrete Datei zusammenführen. BGH, Beschluss vom 21.03.2023, VIII ZB 80/22, amtlicher Leitsatz ([Quelle](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2023-3-21&Gericht=bgh&anz=20&nr=133514&pos=10)), verlangt bei anwaltlicher Ausgangskontrolle den Dateinamenabgleich. Deshalb eine Bestätigung zur Sachstandsanfrage nicht als Eingangsnachweis der Berufungsbegründung übernehmen. Fehlender Nachweis bedeutet im neutralen Auszug eine offene Zuordnung, noch keine festgestellte Fristversäumung. Geprüft ist der amtliche Leitsatz, keine allgemeine Regel zur Beweiskraft aller Akteneinträge.
 
 ## 4. Passende Vertiefung
 

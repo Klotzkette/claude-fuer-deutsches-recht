@@ -1,6 +1,8 @@
 # 1. Krisenfrüherkennung und Restrukturierungsentscheidung
 
-Erstelle den beauftragten Prognosevermerk, Organbericht oder Restrukturierungsentwurf aus der vorhandenen Planung. Lies zuerst Bankstände, Fälligkeitslisten, Finanzierungsverträge und Maßnahmenbeschlüsse.
+Prüfe, ob auslaufende Kredite, operative Verluste oder andere erkennbare Entwicklungen den Fortbestand gefährden und wann Gegenmaßnahmen greifen müssen. Begründe den Handlungsbedarf im Prognosevermerk, Organbericht oder beauftragten Restrukturierungsentwurf. Lies zuerst Bankstände, Fälligkeitslisten, Finanzierungsverträge und Maßnahmenbeschlüsse.
+
+Ohne Fall frage knapp: „Finanzierungsengpass prüfen, Frühwarnsystem ausgestalten oder Restrukturierungsplan vorbereiten?“ Bei Dateien ohne Auftrag lies sie still und kläre nur das gewünschte Ergebnis. Bei klarem Auftrag beginne direkt und frage nur entscheidende Lücken nach. Keine ungefragte Planungszusammenfassung und keine vorgeschriebenen Fragerunden.
 
 ## 1.1. Krisentests auseinanderhalten
 
@@ -9,6 +11,8 @@ Beginne mit verfügbaren Mitteln und fälligen Zahlungspflichten. Trenne aktuell
 Ordne jede Finanzierung nach Betrag, Verbindlichkeit, Bedingungen, Auszahlungstermin und Nachweis. Rechne erhoffte Anschlussfinanzierung nicht als bereits verfügbares Geld. Zeige Ausgangsfall und bedingten Maßnahmenfall. Belege Annahmen zu Auftragseingang, Zahlungszielen und Ausfällen. Bei streitigen Forderungen Rechtsgrund, Fälligkeit und Titelstatus prüfen, nicht lediglich eine Prozessrisikoquote ansetzen.
 
 ## 1.2. Handlungsentscheidung
+
+Trägt eine erwartete Gesellschafterhilfe die Planung, beachte BGH, Urteil vom 13.07.2021, II ZR 84/20, [Rn. 68–85](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2020/II_ZR__84-20.pdf?__blob=publicationFile&v=1): Eine weiche Patronatserklärung schafft keinen aktivierbaren Anspruch. Für die Fortführungsprognose ist ein einklagbarer Anspruch auf jeden Zufluss zwar nicht zwingend; bei sichtbarer Krisenlücke reicht frühere freiwillige Unterstützung allein jedoch nicht. Belege besondere Umstände, Leistungsfähigkeit, Fortführungswillen und rechtzeitigen Zufluss, sonst nur bedingtes Szenario. Das Urteil betrifft Paragraf 19 InsO, nicht unmittelbar die StaRUG-Zugangsvoraussetzungen. Nutze die Unsicherheit für Maßnahmen und Bericht nach Paragraf 1 StaRUG, nicht als automatischen Nachweis drohender Zahlungsunfähigkeit.
 
 Bestimme den ersten Engpass nach Datum und Betrag. Ordne Gegenmaßnahmen, Verantwortliche, Beschlusszuständigkeit und Umsetzungstermin zu. Prüfe, ob der Mittelzufluss rechtzeitig erreichbar ist. Organbericht und Umsetzung getrennt dokumentieren.
 
@@ -19,6 +23,8 @@ Vergleiche freie Sanierung, Planvorbereitung und gerichtliches Restrukturierungs
 ### 1.3.1. Finanzierung und Fälligkeiten klären
 
 Fehlen Auszahlungsvoraussetzungen einer geplanten Finanzierung, frage nach Zusage, Bedingungen und frühestem Mittelzufluss. Nach Eingang gleiche den Beleg mit der Planung ab und rechne den betroffenen Zeitraum samt Folgeperioden neu. Ändert sich dadurch der erste Engpass, passe Maßnahmen und Organbericht an.
+
+Beispiel für die Fortsetzung: „Die Einlage kommt erst in Monat 19, das Darlehen wird in Monat 18 fällig.“ Ändere im bestehenden `krisenvermerk.md` Zuflussmonat, ungedeckten Zwischenzeitraum und Maßnahmenfrist; die bloße Gesamtsumme schließt die Lücke nicht. Nutzerpfad vorziehen. Ohne Dateizugriff liefere die konkrete Ersatzpassage samt Rechnung.
 
 Bei streitigen Zahlungspflichten frage nach Vertrag, Stundung, Titel oder Vollstreckungsstand, soweit dies die Einordnung verändert. Neue entscheidende Widersprüche dürfen weitere kurze Rückfragen auslösen; bereits geklärte Punkte nicht wiederholen. Fehlende Daten sind keine Nullwerte, und eine vorgelegte Liste ist nicht automatisch vollständig.
 

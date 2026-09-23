@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "fachanwalt-bank-kapitalmarktrecht",
-  "reviewed_on": "2026-09-17",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2014/XI_ZR__91-14.pdf?__blob=publicationFile&v=1",
@@ -32,26 +32,52 @@
       "url": "https://www.gesetze-im-internet.de/bgb/__676b.html",
       "checked_on": "2026-09-14",
       "supports": "Anzeigeobliegenheit und gesetzliche Ausschlussfrist für nicht autorisierte oder fehlerhaft ausgeführte Vorgänge."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2014/XI_ZR__91-14.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 26.01.2016, XI ZR 91/14, Rn. 18, 19, 68–81: Bei bestrittenen Onlinezahlungen muss die Bank mehr als ein Erfolgslog vorlegen: Autorisierung, konkrete Verfahrenssicherheit und fehlerfreie Anwendung getrennt würdigen; kein typischer Schluss auf grobe Fahrlässigkeit. Grenze: Entscheidung zum damaligen Zahlungsdiensterecht; kein Ausschluss des Vollbeweises und keine Übernahme alter Absatznummern in Paragraf 675v BGB."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2025/XI_ZR__71-25.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Beschluss vom 07.07.2026, XI ZR 71/25: Datenschutzschaden bei Zahlungsbetrug erfordert eine belegte Kausalität; das Nebeneinander von Artikel 82 DSGVO und Paragraf 675u Satz 2 BGB wurde nicht abschließend entschieden. Grenze: Nichtzulassungsbeschwerde, keine neue allgemeine Regel zur Autorisierung oder zum Anspruchsausschluss."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__675v.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aktuelle Haftungsausschlüsse und starke Kundenauthentifizierung gesondert von historischer Rechtsprechung prüfen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__675u.html",
+      "supports": "Erneuter Normabruf zum Erstattungsanspruch bei nicht autorisiertem Zahlungsvorgang, zeitlicher Leistungspflicht und gesetzlicher Verdachtsausnahme.",
+      "checked_on": "2026-09-23"
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Vollständige Textprüfung am 18. September: Vollständig gelesen: Freigabeanzeige und Rückflussnachweis werden je Transaktion ausgewertet; die allgemeine Fallkarte wiederholte bereits enthaltene Regeln.",
+    "reason": "Der Schnellstart trennt Zahlungsautorisierung, Vertragsänderung und Beratungshaftung und bindet den Banknachweis an konkrete Transaktionsdaten. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Vorläufige Gutschrift wird endgültig oder ein Protokoll belegt einen anderen Freigabebetrag -> Forderungshöhe und Autorisierungsargument im Schreiben korrigieren.",
     "changes": [
-      "Doppelte Fallkarte durch konkrete Beleg- und Vertragsänderungsprüfung ersetzt; vorhandenen Entscheidungsanker erhalten."
+      "XI ZR 91/14 in alle drei Prompts als Beweisprüfung eingebunden; alte Entscheidungsnummern ohne überprüfte Aussage als Recherchefragen behandelt.",
+      "Hauptproblem unterscheidet Freigabeanzeige, Gerätebindung, Rückfluss und Gegenanspruch; XI ZR 71/25 auf Kausalität begrenzt.",
+      "Fundierten anwaltlichen Rat nicht mit gerichtlicher Entscheidungsbefugnis verwechselt; nur Außenhandlungen freigabeabhängig.",
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
     ],
-    "sha256": "0fa1d5b43d1066991169b1abe629b78894fc84be77ae849c29379a9a75e01f9c"
+    "sha256": "89aa790de4780764e35582675f0c71cdbe74bf51cf99846b69da8002ee2f2075"
   },
   "focus_review": {
-    "reviewed_on": "2026-09-17",
+    "reviewed_on": "2026-09-23",
     "method": "desk_review",
     "verdict": "revised",
-    "reason": "Standalone-Prompt und zugeordneter Fokus-Skill vollständig auf fachlichen Umfang, Rückfragen mit Fortsetzung bis zum bestellten Dokument, Ausgabeverhalten, Rollenbegrenzung und Quellendifferenzierung gelesen. Kein Live-Modelltest und keine erneute Vollverifikation der bestehenden Rechtsquellen.",
+    "reason": "Konkrete Rücknahme einer Kontobelastung, Ersatz eines Beratungsschadens oder Änderung einer Kreditklausel. Hauptproblem-Prompt und zugeordneten Fokus-Skill vollständig gelesen; Entscheidung auf Anwendung und Reichweite geprüft. Kein Live-Modelltest und keine vollständige Neuverifikation aller Rechtsquellen. Workflow-Ergänzung: Vorläufige Gutschrift wird endgültig oder ein Protokoll belegt einen anderen Freigabebetrag -> Forderungshöhe und Autorisierungsargument im Schreiben korrigieren. Zugeordneten Fokus-Skill auf Kohärenz gelesen und unverändert belassen.",
     "changes": [
-      "Vollständigen Antworttext bei fehlendem Dateiexport ergänzt; keine erfundenen Downloadlinks."
+      "XI ZR 91/14 in alle drei Prompts als Beweisprüfung eingebunden; alte Entscheidungsnummern ohne überprüfte Aussage als Recherchefragen behandelt.",
+      "Hauptproblem unterscheidet Freigabeanzeige, Gerätebindung, Rückfluss und Gegenanspruch; XI ZR 71/25 auf Kausalität begrenzt.",
+      "Fundierten anwaltlichen Rat nicht mit gerichtlicher Entscheidungsbefugnis verwechselt; nur Außenhandlungen freigabeabhängig.",
+      "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten."
     ],
     "prompt_path": "fachanwalt-bank-kapitalmarktrecht/fachanwalt-bank-kapitalmarktrecht-hauptproblem.md",
-    "prompt_sha256": "e9cb17829304c95871d6c14aaa1ce0bc2908e5c3fe29edebb95add4e5314c5c5",
+    "prompt_sha256": "92ca29df4d429486d25f63bed13edf06866643c6d10c81627824780fda12714c",
     "skill_path": "fachanwalt-bank-kapitalmarktrecht/skills/onlineueberweisungen-autorisierung-beweiskette/SKILL.md",
     "skill_sha256": "96ad2b2b1760e4ad3fc8718fcc3be036c711e10e112006fef80e385a5298b05f"
   },
@@ -123,12 +149,61 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Textprüfung am 18. September: Pauschale Bankbeweislast und Pflichtausgaben widersprachen der konkreten Zahlungs- beziehungsweise Beratungsprüfung. Sämtliche Abschnitte einschließlich Kaution, Akkreditiv und Versand wurden gelesen.",
+    "reason": "Doppelte abstrakte Normlisten und die pauschale Beschränkung auf unverbindliche Entwürfe entfernt; die Fachwege vom Darlehen bis zum Akkreditiv bleiben auftragsbezogen nutzbar. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Technische Freigabe gegenüber Zahlungszustimmung, Sperrzeitpunkt und Betragszuordnung, Erstattungszeit und Betrugsverdachtsausnahme, beratungsbezogene Verlustrechnung sowie Kredit- und Sicherheitenkonto.",
     "changes": [
-      "Doppelte Tabellen und Schablonen entfernt; Autorisierung, Gegenanspruch, Beratung und Aufsicht getrennt.",
-      "Kosten-, Schlichtungs- und Aufsichtsschwellen auf das einschlägige Verfahren begrenzt statt pauschaler Vorgaben.",
-      "Vorhandene Rechtsprechungsanker erhalten; keine erneute amtliche Verifikation behauptet."
+      "XI ZR 91/14 in alle drei Prompts als Beweisprüfung eingebunden; alte Entscheidungsnummern ohne überprüfte Aussage als Recherchefragen behandelt.",
+      "Hauptproblem unterscheidet Freigabeanzeige, Gerätebindung, Rückfluss und Gegenanspruch; XI ZR 71/25 auf Kausalität begrenzt.",
+      "Fundierten anwaltlichen Rat nicht mit gerichtlicher Entscheidungsbefugnis verwechselt; nur Außenhandlungen freigabeabhängig.",
+      "Technische Freigabe gegenüber Zahlungszustimmung, Sperrzeitpunkt und Betragszuordnung, Erstattungszeit und Betrugsverdachtsausnahme, beratungsbezogene Verlustrechnung sowie Kredit- und Sicherheitenkonto."
     ],
-    "sha256": "5d1085261725d4f19162e7d8e61dec95919e510aad6bfc1edd662484a76e178e"
+    "sha256": "323eaac2279d795c6fbe1cec3e5c8a0ef13e38cd9776610b2cb40da2c35c7606"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-23",
+    "files": [
+      "fachanwalt-bank-kapitalmarktrecht/fachanwalt-bank-kapitalmarktrecht-schnellstart.md",
+      "fachanwalt-bank-kapitalmarktrecht/fachanwalt-bank-kapitalmarktrecht-hauptproblem.md",
+      "fachanwalt-bank-kapitalmarktrecht/fachanwalt-bank-kapitalmarktrecht-werkstatt.md",
+      "fachanwalt-bank-kapitalmarktrecht/skills/onlineueberweisungen-autorisierung-beweiskette/SKILL.md",
+      "fachanwalt-bank-kapitalmarktrecht/README.md",
+      "quality/evals/fachanwalt-bank-kapitalmarktrecht.json"
+    ],
+    "opening_change": "Konkrete Rücknahme einer Kontobelastung, Ersatz eines Beratungsschadens oder Änderung einer Kreditklausel. Workflow-Ergänzung: Leer: Überweisungsreklamation, Beratungsschaden oder Kreditklausel anbieten. Dateien ohne Aufgabe: Zahlungsprotokolle, Beratungsmaterial und Ablehnung still lesen; Erstattung, Beweisprüfung oder Vertragsziel klären. Klarer Auftrag: Erstattungsforderung, Erwiderung oder Klausel direkt erstellen; keine ungefragte Kontenzusammenfassung.",
+    "norms": [
+      "Paragrafen 675u, 675v und 675w BGB",
+      "Paragrafen 307 und 675g BGB",
+      "Artikel 16, 28 und 30 DORA"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 26.01.2016, XI ZR 91/14, Rn. 18, 19, 68–81",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2014/XI_ZR__91-14.pdf?__blob=publicationFile&v=1",
+        "application": "Bei bestrittenen Onlinezahlungen muss die Bank mehr als ein Erfolgslog vorlegen: Autorisierung, konkrete Verfahrenssicherheit und fehlerfreie Anwendung getrennt würdigen; kein typischer Schluss auf grobe Fahrlässigkeit.",
+        "limit": "Entscheidung zum damaligen Zahlungsdiensterecht; kein Ausschluss des Vollbeweises und keine Übernahme alter Absatznummern in Paragraf 675v BGB."
+      },
+      {
+        "citation": "BGH, Beschluss vom 07.07.2026, XI ZR 71/25",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2025/XI_ZR__71-25.pdf?__blob=publicationFile&v=1",
+        "application": "Datenschutzschaden bei Zahlungsbetrug erfordert eine belegte Kausalität; das Nebeneinander von Artikel 82 DSGVO und Paragraf 675u Satz 2 BGB wurde nicht abschließend entschieden.",
+        "limit": "Nichtzulassungsbeschwerde, keine neue allgemeine Regel zur Autorisierung oder zum Anspruchsausschluss."
+      }
+    ],
+    "remaining_limits": [
+      "Redaktionelle Akten- und Quellenprüfung, kein Live-Client- oder Modelltest.",
+      "Fokus-Skill vollständig gelesen und unverändert belassen; keine erneute Vollprüfung sämtlicher Kredit-, Beratungs- und Kapitalmarktquellen.",
+      "Workflow-Review 23.09.2026: Paragraf 675u BGB erneut eingesehen; keine technische Authentifizierung als Beweis jeder Autorisierung behandelt und keine neue Fallentscheidung ergänzt."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Überweisungsreklamation, Beratungsschaden oder Kreditklausel anbieten.",
+      "Dateien ohne Aufgabe: Zahlungsprotokolle, Beratungsmaterial und Ablehnung still lesen; Erstattung, Beweisprüfung oder Vertragsziel klären.",
+      "Klarer Auftrag: Erstattungsforderung, Erwiderung oder Klausel direkt erstellen; keine ungefragte Kontenzusammenfassung."
+    ],
+    "continuation": "Vorläufige Gutschrift wird endgültig oder ein Protokoll belegt einen anderen Freigabebetrag -> Forderungshöhe und Autorisierungsargument im Schreiben korrigieren.",
+    "enrichment": "Technische Freigabe gegenüber Zahlungszustimmung, Sperrzeitpunkt und Betragszuordnung, Erstattungszeit und Betrugsverdachtsausnahme, beratungsbezogene Verlustrechnung sowie Kredit- und Sicherheitenkonto.",
+    "limits": "desk review; no live client execution"
   }
 }

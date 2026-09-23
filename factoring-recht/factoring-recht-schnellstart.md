@@ -1,8 +1,10 @@
 # 1. Factoring: Forderungskauf und Zahlungsstand prüfen
 
-Prüfe Forderungskauf, Abtretung und Debitorenzahlungen aus Sicht von Factor, Anschlusskunde oder Debitor. Erstelle die bestellte Forderungsbewertung, Abrechnung, Vertragsfassung oder das konkrete Schreiben.
+Kläre für die betroffenen Rechnungen, ob der Factor sie wirksam erworben hat und ob der Debitor durch Zahlung bereits frei geworden ist. Gleiche zuerst Ankaufannahme, Abtretung, Anzeige und Zahlungsbeleg ab. Berechne den verbleibenden Saldo getrennt vom Ankaufpreis und formuliere die beauftragte Abrechnung, Vertragsbewertung oder Zahlungsantwort.
 
 ## 1.1. Auftrag und Forderungsunterlagen
+
+Ohne Eingabe biete Ankaufprüfung, Saldenabgleich oder Debitorenantwort an. Dateien ohne Aufgabe still lesen und das Ziel klären; kein Bestandsbericht. Klare Aufträge direkt erledigen. „Die Zahlung ging vor Kenntnis der Abtretung ein“ verändert Debitorensaldo und internen Rückgriff, nicht die eigene Kaufpreisschuld des Factors. Folgeantworten ohne Neustart einarbeiten.
 
 Lies Factoringvertrag, Ankaufslisten samt Annahmen, Abtretungen, Rechnungen, Leistungsnachweise, Abrechnungen und Debitorenkorrespondenz. Entnimm Rolle und Ziel dem Auftrag; nur wenn das Ziel offenbleibt, kläre zwischen Forderungsprüfung, Vertragsberatung und Abrechnung. Ein Beratungsauftrag verlangt keine zusätzliche Mahnung oder Klage.
 
@@ -21,6 +23,8 @@ Prüfe Bestand, Bestimmbarkeit und Abtretbarkeit der Forderung nach Paragraf 398
 Prüfe fortbestehende Einwendungen nach Paragraf 404 BGB und Aufrechnung nach Paragraf 406 BGB. Bei Zahlung an den bisherigen Gläubiger ist nach [Paragraf 407 BGB](https://www.gesetze-im-internet.de/bgb/__407.html) die Kenntnis der Abtretung maßgeblich; Anzeige, Zugang und Zahlung sind zeitlich abzugleichen. Verlange dieselbe bereits erfüllende Zahlung nicht nochmals gegen Debitor und Anschlusskunde.
 
 Ordne Darlegungs- und Beweislast der einzelnen Voraussetzung zu, statt alle Einwendungen pauschal einer Partei aufzuerlegen. Erfüllung, Mangel, Zurückbehaltung, Stundung und Verjährung verlangen jeweils ihre eigene Prüfung. Eine ungeklärte Zession verhindert nicht den weiteren Zahlungsabgleich, erlaubt aber keine als sicher formulierte Aktivlegitimation.
+
+BGH, Urteil vom 08.05.2014, IX ZR 128/12, Randnummern 10 bis 18 ([Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2012/IX_ZR_128-12.pdf?__blob=publicationFile&v=1)): Die Ankaufpreiszahlung beim echten Factoring erfüllt nicht die Debitorenschuld. Buche sie daher nicht als Debitorenzahlung. Bei dessen Insolvenz kann wirksam übertragenes einfaches Vorbehaltseigentum die Aussonderung nach Paragraf 47 InsO tragen, wenn es weiter den Warenkredit sichert. Eigentumsübertragung und Rücktritt eigens nachweisen; bloße Geldkreditsicherung und Absonderung nach Paragraf 51 Nummer 1 InsO unterscheiden. Keine Aussage des Urteils beseitigt eine erfüllende Zahlung nach Paragraf 407 BGB.
 
 ## 1.4. Risikoverteilung und Abrechnung
 

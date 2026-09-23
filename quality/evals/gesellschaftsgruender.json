@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "gesellschaftsgruender",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/gmbhg/__5a.html",
@@ -27,15 +27,22 @@
       "url": "https://www.gesetze-im-internet.de/gmbhg/__19.html",
       "checked_on": "2026-09-14",
       "supports": "Absätze 4 und 5 unterscheiden verdeckte Sacheinlage mit Wertanrechnung und sonstige vereinbarte Rückzahlung mit qualifiziertem Rückgewähranspruch."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2010/II_ZB__25-10.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Beschluss vom 19.04.2011 - II ZB 25/10, Rn. 13 bis 21: Sachkapitalerhöhung einer bestehenden UG, die mindestens 25.000 Euro Stammkapital erreicht, nicht allein am Sacheinlagenverbot des Paragraf 5a Absatz 2 GmbHG scheitern lassen. Grenze: Keine Freigabe der Sachgründung einer UG; übrige Voraussetzungen der Sachkapitalerhöhung bleiben bestehen, weitere UG-Sonderregeln entfallen nicht schon vor der Eintragung."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der ganze Mini wurde auf Kapital, Gründungsziel und konkrete Abstimmung mit dem Notariat gelesen.",
+    "reason": "Der Schnellstart macht den typischen Fehler einer UG-Sachgründung mit Laptop oder IP sichtbar und unterscheidet ihn von einer späteren Kapitalerhöhung auf GmbH-Mindestkapital. Individuelle Text- und Primärquellenprüfung, kein Live-Modelltest.",
     "changes": [
-      "Offene Einlagen- oder Beteiligungsangaben klären und anschließend die bestellte Gründungsunterlage ausformulieren."
+      "Barkapitalgebot bei UG-Gründung ausdrücklich von zulässiger Sachkapitalerhöhung auf mindestens 25.000 Euro abgegrenzt.",
+      "Weitere Sacheinlagevoraussetzungen und fortbestehende UG-Regeln vor Eintragung gesichert.",
+      "Rechtsform, Gründerrechte oder Einzahlungen wählen. Dateien still lesen, klare Aufträge direkt bearbeiten, Folgeantwort dokumentbezogen umsetzen."
     ],
-    "sha256": "1fb4c2e8f183a918f123901d4387630b39a341e8dbd88538ed3ee0523b0a84b0"
+    "sha256": "6507846fafae07279d122d7b88a6aee1724b8ac163559975ce996057e064d7c3"
   },
   "selection": {
     "positive": [
@@ -147,10 +154,53 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die vollständige Werkstatt wurde auf tatsächliche Gründung statt allgemeiner Transaktionsprosa geprüft.",
+    "reason": "Die Gründungsrouten behalten Notar, KYC, IP und Betriebsvorbereitung bei; II ZB 25/10 steuert jetzt gezielt die Entscheidung über Sacheinlage und Zeitpunkt des Rechtsformübergangs. Individuelle Text- und Primärquellenprüfung, kein Live-Modelltest.",
     "changes": [
-      "Kapital, Aufgeld, Budget und Zustimmungsklauseln unterschieden; keine automatische Holding- oder Haftungslösung unterstellt."
+      "Barkapitalgebot bei UG-Gründung ausdrücklich von zulässiger Sachkapitalerhöhung auf mindestens 25.000 Euro abgegrenzt.",
+      "Weitere Sacheinlagevoraussetzungen und fortbestehende UG-Regeln vor Eintragung gesichert.",
+      "Arbeitsleistung und Beteiligung, 50:50-Konflikt, Ausscheiden, Zahlungszuordnung und erste Gründungsausgaben konkretisiert."
     ],
-    "sha256": "fabc40d4c4306e0f41b1884c13683ab8435a8e3886037c8579dfd32582277957"
+    "sha256": "b5a8150301a3ecb9f42e95f8fe8ca5b0309f86ef318a62af6bb29fdcc89892d9"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "gesellschaftsgruender/README.md",
+      "gesellschaftsgruender/gesellschaftsgruender-schnellstart.md",
+      "gesellschaftsgruender/gesellschaftsgruender-werkstatt.md",
+      "quality/evals/gesellschaftsgruender.json"
+    ],
+    "opening_change": "Rechtsform, Einlagegegenstand und Registerfähigkeit werden aus dem konkreten Gründungsvorhaben statt aus einem allgemeinen Ergebnisauftrag geprüft.",
+    "norms": [
+      "GmbHG Paragraf 5 Absatz 1",
+      "GmbHG Paragraf 5a Absatz 2 und 5",
+      "GmbHG Paragraf 7",
+      "GmbHG Paragrafen 56 ff."
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Beschluss vom 19.04.2011 - II ZB 25/10, Rn. 13 bis 21",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2010/II_ZB__25-10.pdf?__blob=publicationFile&v=1",
+        "application": "Sachkapitalerhöhung einer bestehenden UG, die mindestens 25.000 Euro Stammkapital erreicht, nicht allein am Sacheinlagenverbot des Paragraf 5a Absatz 2 GmbHG scheitern lassen.",
+        "limit": "Keine Freigabe der Sachgründung einer UG; übrige Voraussetzungen der Sachkapitalerhöhung bleiben bestehen, weitere UG-Sonderregeln entfallen nicht schon vor der Eintragung."
+      }
+    ],
+    "remaining_limits": [
+      "Steuerwahl, Sozialversicherung und spezielle Erlaubnispflichten des Geschäftsmodells bedürfen eigener aktueller Quellenprüfung.",
+      "Desk- und Quellenprüfung; kein Live-Client- oder Live-Modelltest und keine vollständige Neuverifikation sämtlicher vorhandener Quellen.",
+      "Workflow-Ergänzung am 2026-09-23: individuelle Textprüfung, keine erneute Gesamtverifikation der bestehenden Entscheidungsanker; deren dokumentierte Quellen- und Zugriffsgrenzen bleiben bestehen."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Rechtsform, Gründerrechte oder Einzahlungen wählen.",
+      "Gründerabreden und Urkunden still lesen; Satzungsfassung oder Notaranfrage anbieten.",
+      "Bestellte Gründungsunterlage ohne Pflichtdialog ausarbeiten."
+    ],
+    "continuation": "Veto nur für Grundlagengeschäfte -> Satzung und Geschäftsordnung; Rückzahlung an Gründer -> Kapitalaufbringung und Notaranfrage ändern.",
+    "enrichment": "Arbeitsleistung und Beteiligung, 50:50-Konflikt, Ausscheiden, Zahlungszuordnung und erste Gründungsausgaben konkretisiert.",
+    "limits": "desk review; no live client execution"
   }
 }

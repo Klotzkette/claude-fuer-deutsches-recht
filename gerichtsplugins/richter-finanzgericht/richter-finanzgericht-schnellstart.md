@@ -1,6 +1,10 @@
 # 1. Finanzgericht: Schnellstart
 
-Bearbeite den Vorgang aus gerichtlicher Sicht. Lies angegriffenen Bescheid, Änderungsbescheide, Einspruchsentscheidung, Klage oder Eilantrag, Zustellnachweise und Berechnungsanlagen. Liefere das verlangte gerichtliche Produkt, ohne eine Seite steuerlich zu gestalten oder eine offene Steuerfrage als bereits entschieden auszugeben.
+Ohne Eingabe biete Hauptsache-/Bescheidprüfung, AdV oder Aufklärungsverfügung an. Dateien ohne Auftrag still lesen und nur passende zwei oder drei Wege erfragen, kein Steueraktenreferat. Klaren Auftrag unmittelbar bearbeiten. Folgeantworten in Bescheidkette und Entwurf einarbeiten; keine Rechenprogramme oder Gerichtssysteme voraussetzen.
+
+„Der streitige Teil wurde inzwischen abgebucht.“ Prüfe Beleg und Zuordnung und ändere für den vollzogenen Teil den Entscheidungsweg von Aussetzung zu Aufhebung. „Der neue Bescheid korrigiert nur eine Position.“ Gleiche alle Änderungen ab und kläre den verbleibenden Streit, ohne vollständige Erledigung zu unterstellen. „Der Erlös ist doppelt erfasst.“ Identifiziere denselben Geschäftsvorfall und rechne dessen Steuerwirkung, statt Erlös und Mehrsteuer gleichzusetzen.
+
+Bestimme aus Steuerbescheid und Eilantrag, welcher offene Betrag wegen welchen Fehlers vorläufig nicht vollzogen werden soll. Lies Änderungsbescheide, vorhandene Einspruchsentscheidung, Bekanntgabenachweise und Berechnungsanlagen zuerst. Erstelle den beauftragten finanzgerichtlichen Prüfvermerk oder Beschlussentwurf; eine noch offene Hauptsachefrage nicht als endgültig entschieden behandeln.
 
 ## 1.1. Bescheid- und Betragskette
 
@@ -16,6 +20,8 @@ Trenne ernstliche Zweifel an der Rechtmäßigkeit von unbilliger Härte. Ordne b
 
 ## 1.3. Sachaufklärung und rechnerische Prüfung
 
+BFH, Beschluss vom 06.06.2025, II B 43/24 (AdV), Gründe II.1 ([Volltext](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202520179/)), verlangt für ernstliche Zweifel keine überwiegende Erfolgswahrscheinlichkeit, sondern gewichtige rechtliche oder tatsächliche Gegenargumente bei summarischer Prüfung. Bei belegter Doppelzählung daher deren steuerliche Auswirkung prüfen und auf den beantragten Betrag begrenzen, nicht Hauptsachereife verlangen. Der Schenkungsteuerfall liefert den Verfahrensmaßstab, keine Entscheidung über den hiesigen Steuertatbestand; eine bloße Behauptung genügt nicht automatisch.
+
 Verknüpfe jede streitige Besteuerungsgrundlage mit Normfassung, Aktenfund und Rechenweg. Bei Schätzung prüfe Anlass, Methode, Ausgangsdaten, Sicherheitszuschläge und nachvollziehbare Alternativrechnung; Schätzung ist keine Strafe. Materiellen Steuertatbestand, Korrekturvorschrift und Festsetzungsfrist getrennt behandeln.
 
 Die gerichtliche Aufklärung nach Paragraf 76 FGO ersetzt nicht jede Mitwirkung. Benenne konkrete fehlende Belege und deren Bedeutung; Feststellungslast nicht pauschal dem Steuerpflichtigen zuweisen. Für Auslandsbezug, Abzugsposten und belastende Tatbestandsmerkmale jeweils die einschlägige Regel prüfen.
@@ -24,7 +30,7 @@ Nutze bei mehreren Beträgen einen nachvollziehbaren Abgleich von Bescheid, Stre
 
 ## 1.4. Gerichtliches Ergebnis
 
-Liefere je nach Stand eine Aufklärungsverfügung, einen AdV-Beschluss oder einen Hauptsacheentwurf mit Tenor, Gründen und passenden Nebenentscheidungen. Der Tenor muss Verwaltungsakt, Umfang und gegebenenfalls Befristung oder Sicherheit eindeutig benennen. Keine Revisionszulassung und Beschwerdebelehrung ohne Prüfung der konkreten Entscheidungsform.
+Liefere je nach Auftrag eine Aufklärungsverfügung, einen AdV-Beschluss oder einen Hauptsacheentwurf mit Tenor, Gründen und passenden Nebenentscheidungen. Der Tenor muss Verwaltungsakt, Umfang und gegebenenfalls Befristung oder Sicherheit eindeutig benennen. Beim AdV-Beschluss Beschwerdezulassung nach Paragraf 128 Absatz 3 FGO prüfen, nicht Revision zulassen; die Bezugnahme auf Paragraf 115 Absatz 2 betrifft die Zulassungsgründe.
 
 Fehlt ein Änderungsbescheid, Zustellnachweis oder entscheidender Buchungsbeleg, fordere genau diese Unterlage an; fristkritische oder vollstreckungsnahe Punkte zuerst. Eine fehlende Unterlage belegt nicht, dass der Vorgang nicht stattgefunden hat. Führe die übrige Arbeit als vorläufigen Teilstand weiter und benenne die davon abhängige offene Aussage.
 

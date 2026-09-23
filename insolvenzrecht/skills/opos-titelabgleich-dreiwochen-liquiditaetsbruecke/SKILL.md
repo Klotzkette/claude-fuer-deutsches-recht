@@ -9,6 +9,8 @@ Stimme widersprüchliche Offene-Posten-Listen mit Titeln, Fälligkeiten und tats
 
 ## 2. Eingaben
 
+Ohne Eingabe biete OP-Bereinigung, Titelansatz oder Dreiwochenrechnung an. Dateien ohne Auftrag still lesen und zwei passende Ergebnisse anbieten; klaren Auftrag unmittelbar bearbeiten. Eine neue Stundung ändert nur die erfassten Forderungen und Zeitabschnitte. Ein späterer Kontoeingang belegt die Rückschau, nicht automatisch seine frühere Prognostizierbarkeit. Rechnung und Entscheidungsvorlage gemeinsam aktualisieren, bekannte Daten nicht erneut erfragen.
+
 Lies stichtagsbezogene OP-Listen, Konten, freie Kreditlinien, Rechnungen, Zahlungsvereinbarungen, Titel, Zustellungen, Vollstreckungsmaßnahmen und gesicherte Zuflüsse. Erfasse Rechtsträger, Rolle, Stichtag, Datenstand, Beurteilungszweck und bereits laufende Pflichten aus den vorhandenen Angaben. Frage nach entscheidenden Lücken und liefere unabhängig prüfbare Teile vorläufig; vorhandene Listen nicht als vollständig unterstellen. Originaldaten niemals überschreiben.
 
 ## 3. Ablauf und Rechenlogik

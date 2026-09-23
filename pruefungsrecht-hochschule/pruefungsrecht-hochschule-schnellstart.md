@@ -1,6 +1,10 @@
 # 1. Hochschulprüfung konkret überprüfen
 
-Prüfe die angegriffene Hochschulprüfung und verfasse das bestellte Einwendungsschreiben oder Gutachten. Eine allgemeine Schul- oder Förderrechtsprüfung ist dafür nicht erforderlich.
+Ohne Eingabe frage nach Bewertungsrüge, Prüfungsstörung/Rücktritt oder Nachteilsausgleich. Dateien ohne Auftrag zunächst still lesen; danach nur zwei oder drei passende Ziele anbieten, kein Aktenreferat. Bei klarem Auftrag direkt ausarbeiten. Folgeantworten verändern die konkrete Rüge, nicht die gesamte Aufnahme. Dieser Text setzt keine Plugin-Dateien oder besonderen Werkzeuge voraus.
+
+Beispiel: „Die Rückseite wurde doch gelesen; der Prüfer beanstandet die Formel.“ Prüfe jetzt die tatsächlich abgegebene Formel gegen diese Kritik und ersetze den Übersehenseinwand durch eine fachlich belegte Rüge oder lasse ihn fallen. „Der Screenshot zeigt nur die Dateiauswahl.“ Behaupte keinen erfolgreichen Eingang; frage gezielt nach Serverbestätigung oder Störungsmeldung und formuliere den passenden Antrag. „Es geht um die nächste Prüfung.“ Verfasse einen begründeten Nachteilsausgleichsantrag mit funktionaler Einschränkung und passender Anpassung, keinen rückwirkenden Rücktritt. Ein fertiger Auftrag braucht keine erzwungene zweite Gesprächsrunde.
+
+Gleiche abgegebene Antwort, Korrekturbemerkung und Prüfungsordnung ab und benenne den konkreten Fehler, der Neubewertung oder Wiederholung tragen kann. Verfasse das bestellte Einwendungsschreiben oder Gutachten; eine allgemeine Schul- oder Förderrechtsprüfung ist dafür nicht erforderlich.
 
 Lies Bescheid, Prüfungsleistung, Bewertungsbogen und Prüfungsordnung. Bestimme Hochschule, Studiengang, Bundesland, Prüfungsart und Versuchszahl aus den Unterlagen; bereits bekannte Angaben nicht erneut erfragen. Eine Modulnote, endgültiges Nichtbestehen und Exmatrikulation sind verschiedene Entscheidungen.
 
@@ -12,7 +16,7 @@ Erfasse Bekanntgabe, Rechtsbehelfsbelehrung, laufende interne Einwendungsfrist u
 
 Stelle jeder beanstandeten Korrekturbemerkung die tatsächlich abgegebene Antwort und ihren Fundort gegenüber. Unterscheide Rechenfehler, übersehene Bearbeitung, fachwissenschaftliche Richtigkeit, vertretbare Lösung und prüfungsspezifische Gewichtung. Neue Argumente zur Verteidigung der vorhandenen Lösung sind nicht mit einer nachträglich neu geschriebenen Prüfungsantwort gleichzusetzen. Erfinde keine angeblich abgegebene Antwort.
 
-Der Bewertungsspielraum schützt nicht die Bewertung auf unzutreffendem Sachverhalt oder die Behandlung einer vertretbaren, folgerichtig begründeten Lösung als falsch. Die Gewichtung von Stärken und Schwächen ist dagegen nicht einfach durch eine eigene Wunschpunktzahl zu ersetzen. Als überprüfter Einstieg dient BVerwG, Beschluss vom 28. Juni 2018, 2 B 57.17, amtlicher Volltext, Randnummern 7 bis 9. Prüfe für die konkrete Rüge die einschlägige Stelle erneut und übertrage nur den tragenden allgemeinen Maßstab, nicht den Sachverhalt einer anderen Prüfungsart.
+Artikel 12 Absatz 1, Artikel 3 Absatz 1 und Artikel 19 Absatz 4 GG sichern berufsbezogene Chancengleichheit und wirksame Kontrolle. BVerwG, Beschluss vom 28.06.2018, 2 B 57.17, Rn. 7 bis 9 ([Volltext](https://www.bverwg.de/de/280618B2B57.17.0)), begrenzt den Bewertungsspielraum bei unzutreffendem Sachverhalt oder Verwerfung einer vertretbaren, gewichtig und folgerichtig begründeten Lösung. Bei übersehener Klausurseite deshalb Berücksichtigung und Bewertung verlangen, keine volle Punktzahl unterstellen. Die rechtmäßige Gewichtung von Stärken und Schwächen ist nicht durch eine Wunschpunktzahl zu ersetzen. Übertragbar ist der allgemeine Maßstab der Lehramts-Staatsprüfung, nicht deren besondere Ordnung.
 
 ## 1.3. Passende Folge statt Wunschbenotung
 

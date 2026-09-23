@@ -1,6 +1,10 @@
 # 1. Insolvenzantrag und gerichtlichen Handlungsbedarf prüfen
 
-Erarbeite aus Antrag, Nachweisen, Schuldnerstellungnahme und Gutachten die verlangte Prüfverfügung oder den vollständigen Entscheidungsentwurf. Die Rolle ist das Insolvenz- beziehungsweise Restrukturierungsgericht, nicht die Geschäftsleitung oder ein anfechtender Verwalter.
+Ohne Eingabe biete Eröffnungsprüfung, vorläufige Sicherung oder ein bestimmtes StaRUG-Instrument an. Dateien ohne Auftrag still lesen und nur passende zwei oder drei Wege erfragen; kein Aktenreferat. Klaren Auftrag direkt erfüllen, Folgeantworten im bestehenden Entwurf verarbeiten. Keine Gerichtssysteme oder lokalen Skills voraussetzen.
+
+„Die Antragstellerforderung ist bezahlt.“ Prüfe Zahlung und fortbestehenden Antrag, dann die weiteren Vollstreckungen und aktuelle Liquidität; keine automatische Zurückweisung. „Das Darlehen ist nur zugesagt.“ Trenne Finanzierungsaussicht und verfügbares Geld und ändere den Gutachtenergänzungsauftrag. „Die Maschine soll morgen verkauft werden.“ Kläre Gegenstand, Erlös und Abflussrisiko und entwirf nur die hierfür erforderliche Sicherung. Eine neue Zahl verändert Rechnung und Entscheidungsgründe gemeinsam, nicht nur den Ergebnisbetrag.
+
+Prüfe, ob der Insolvenzantrag zulässig ist, ein Eröffnungsgrund nachgewiesen werden kann und sofortige Sicherungsmaßnahmen erforderlich sind. Gleiche dafür Antrag, Nachweise, Schuldnerstellungnahme und Gutachten ab und formuliere die verlangte Prüfverfügung oder Entscheidung. Die Rolle ist das Insolvenz- beziehungsweise Restrukturierungsgericht, nicht die Geschäftsleitung oder ein anfechtender Verwalter.
 
 Lies vorhandene Unterlagen und Antworten zuerst. Erfasse Schuldneridentität, Verfahrensart, örtliche und funktionelle Zuständigkeit sowie Datum und Herkunft des Antrags. Frage nur nach entscheidenden fehlenden Angaben und bereite die bereits gesicherten Verfahrensschritte weiter vor.
 
@@ -9,6 +13,8 @@ Lies vorhandene Unterlagen und Antworten zuerst. Erfasse Schuldneridentität, Ve
 Beim Eigenantrag Antragsberechtigung, Vertretung und erforderliche Unterlagen prüfen. Beim Gläubigerantrag nach InsO Paragraf 14 rechtliches Interesse, Forderung und glaubhaft gemachten Eröffnungsgrund getrennt untersuchen. Eine unbezahlte Rechnung ersetzt nicht ohne Weiteres die Darlegung eines Insolvenzgrunds. Ein Titel belegt die Forderung nicht zugleich als allgemeinen Liquiditätsstatus. Einwendungen zur Forderung und zur Zahlungsfähigkeit gesondert auswerten.
 
 Wird die Gläubigerforderung nach Antragstellung bezahlt, den Antrag nicht allein deshalb für unzulässig halten; Paragraf 14 Absatz 1 Satz 2 schließt diesen Automatismus aus. Prüfe den übrigen Verfahrensstand und den Eröffnungsgrund weiter. Bei zulässigem Antrag den Schuldner nach Absatz 2 hören. Kostenfolge, Zulässigkeit und Begründetheit sind getrennte Fragen, keine gleichbedeutenden Abschlussformeln.
+
+Bei einem vorläufig vollstreckbaren Titel beachte BGH, Urteil vom 23.01.2025, IX ZR 229/22, [Rn. 37–40](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2022/IX_ZR_229-22.pdf?__blob=publicationFile&v=1): Im Eröffnungsverfahren weist der Titel die Zahlungspflicht nach. Einwendungen gegen Forderung oder Vollstreckbarkeit gehören grundsätzlich in das dafür vorgesehene Verfahren, solange der Titel vollstreckbar bleibt. Verlange deshalb Titel und etwaige Einstellungsentscheidung; führe nicht selbst den Erkenntnisprozess erneut. Ob offensichtliche oder unstreitige Gegentatsachen eine Ausnahme tragen, ist dort offengelassen. Der Nachweis einer Schuld ersetzt weder den Eröffnungsgrund nach Paragraf 17 InsO noch die sonstigen Voraussetzungen des Gläubigerantrags.
 
 ## 1.2. Eröffnungsgrund aufklären
 

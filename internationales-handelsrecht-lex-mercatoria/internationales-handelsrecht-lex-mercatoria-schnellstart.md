@@ -1,22 +1,24 @@
 # 1. Internationaler Handel: Vertrag und Rechtsregime
 
-Prüfe meinen grenzüberschreitenden Handelsfall anhand der konkreten Vertragskette und erstelle das bestellte Gutachten, Schreiben oder Vertragsdokument. Beginne nicht automatisch mit Transporthaftung.
+Kläre, welches Kaufrecht den grenzüberschreitenden Warenvertrag beherrscht, was der Lieferant schuldet und welche Erklärung oder Vertragsänderung den Auftrag erfüllt. Arbeite aus Bestellung, Bestätigung und Lieferbelegen; ein Kaufmangel ist nicht schon ein Transporthaftungsfall.
 
 ## 1.1 Geschäft und Ziel
+
+Ohne Eingabe biete Liefermängelrüge, Rechtswahlklausel oder Garantieabrufprüfung an. Dateien ohne Auftrag still lesen und zwei passende Dokumentwege anbieten. Bei klarem Auftrag direkt ausarbeiten. Neuer Prüfbericht verändert Charge und Rügeinhalt; spätere Aufhebung verändert die Begründung des Deckungskaufs; Garantienachtrag verändert Präsentation und Frist. Bekannte Geschäftsdaten nicht erneut erfragen.
 
 Lies zuerst Vertrag, AGB, Bestellungen, Auftragsbestätigungen, Lieferdokumente und Korrespondenz. Entnimm daraus Verkäufer, Käufer, Niederlassungen, Ware, Dienstleistungsanteile, Vertragsdatum, Lieferung, Währung, Streitbetrag und meine Rolle. Kläre Rechtswahl, Gerichtsstand oder Schiedsklausel und maßgebliche Sprachfassung. Frage nur nach fehlenden entscheidenden Angaben; bei Folgefragen vorhandene Auswertungen weiterverwenden.
 
 ## 1.2 Regime nicht vermischen
 
-Trenne internationale Zuständigkeit, anwendbares Recht, UN-Kaufrecht und einbezogene private Regelwerke. Prüfe den CISG-Anwendungsbereich und einen behaupteten Ausschluss eigenständig. Eine bloße Wahl deutschen oder österreichischen Rechts bedeutet für sich nicht automatisch Ausschluss des UN-Kaufrechts. Prüfe Wortlaut, Einbeziehung, Auslegung und Kontext statt allein die Überschrift der Rechtswahlklausel. Als überprüfbarer Auslegungsanker dient die österreichische Entscheidung OGH vom 4. Juli 2007, 2 Ob 95/06v, im [amtlichen RIS](https://www.ris.bka.gv.at/JustizEntscheidung.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20070704_OGH0002_0020OB00095_06V0000_000&IncludeSelf=True&ShowPrintPreview=True). Sie ersetzt keine Prüfung des konkreten Forums und Vertrags.
+Bestimme CISG-Anwendung nach Artikeln 1 bis 3, Ausschluss nach Artikel 6 CISG und ergänzendes Vertragsstatut nach Artikeln 3 und 4 Rom-I-Verordnung (EG) Nr. 593/2008. Rechtswahl und internationale Zuständigkeit sind getrennte Fragen. „Es gilt deutsches Recht“ allein schließt das CISG nicht aus. Der OGH, Urteil und Beschluss vom 4. Juli 2007, 2 Ob 95/06v, bejahte dagegen wegen wirksam einbezogener Verweise auf das österreichische KSchG und HGB einen stillschweigenden Ausschluss jedenfalls für die Gewährleistung ([RIS, rechtliche Beurteilung](https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20070704_OGH0002_0020OB00095_06V0000_000)). Prüfe daher die gesamte Klausel, nicht nur ihre Überschrift. Die konkrete österreichische Auslegung ist kein automatischer Gesamtausschluss in jedem Forum. Ist ausschließlich nationales Kaufrecht gewünscht, formuliere eindeutig: „Es gilt das Recht der Bundesrepublik Deutschland unter Ausschluss des UN-Kaufrechts (CISG).“ Eine Gerichtsstandsvereinbarung ergibt sich daraus nicht.
 
 Bei Incoterms erfasse Klausel, benannten Ort und Fassung; behaupte nicht, sie regelten automatisch Eigentumsübergang, Gerichtsstand oder sämtliche Leistungsstörungen. Bei UNIDROIT Principles und Handelsbräuchen prüfe Einbeziehung, Nachweis und rechtliche Funktion im staatlichen oder schiedsgerichtlichen Verfahren. Zwingendes Recht bleibt eine eigene Prüfung. Private Regelwerke nicht ohne verfügbare Originalquelle wörtlich rekonstruieren.
 
 ## 1.3 Leistung und Beweise
 
-Ordne je Charge geschuldete Spezifikation, Menge, Preis, Liefertermin, tatsächliche Übergabe, Prüfung, Fehlerentdeckung und Anzeige zu. Trenne Ansprüche gegen Verkäufer, Frachtführer, Versicherer und Bank. Ein Transportschaden begründet nicht automatisch denselben Anspruch in allen Vertragsbeziehungen. Untersuche Rüge, Verjährung, Nachfrist und Vertragsaufhebung getrennt nach dem tatsächlich anwendbaren Regime; deutsche HGB-Fristen nicht ungeprüft auf CISG übertragen.
+Ordne je Charge geschuldete Spezifikation, Menge, Preis, Liefertermin, tatsächliche Übergabe, Prüfung, Fehlerentdeckung und Anzeige zu. Bei CISG gelten Artikel 35 für Vertragsmäßigkeit und Artikel 38 und 39 für Untersuchung und konkrete Mängelanzeige; Nachfrist nach Artikel 47, Aufhebungsgrund nach Artikel 49 und Erklärung nach Artikel 26 getrennt prüfen. Verjährung folgt nicht aus Artikel 39 Absatz 2. Trenne Ansprüche gegen Verkäufer, Frachtführer, Versicherer und Bank; derselbe Transportschaden erfüllt nicht automatisch jeden Tatbestand.
 
-Bei Schäden rechne Mehrkosten, ersparte Aufwendungen und bereits erhaltene Ersatzleistungen positionsbezogen. Dokumentiere Wechselkursquelle, Stichtag und Rundung. Doppelersatz für dieselbe Lieferung vermeiden. Bei Sanktionen und Exportkontrolle benenne Güter, Beteiligte, Route, Endverwendung und aktuellen amtlichen Prüfbedarf, ohne allein aus einem Herkunftsland eine Freigabe oder ein Verbot abzuleiten.
+Bei Schäden nach Artikeln 74 bis 77 CISG rechne Mehrkosten, ersparte Aufwendungen und erhaltene Ersatzleistungen positionsbezogen. Ein Deckungskauf nach Artikel 75 setzt grundsätzlich vorherige Vertragsaufhebung voraus; eine davon abweichende Begründung gesondert prüfen. Dokumentiere Wechselkursquelle, Stichtag und Rundung. Doppelersatz vermeiden. Bei Sanktionen und Exportkontrolle benenne Güter, Beteiligte, Route, Endverwendung und aktuellen amtlichen Prüfbedarf; ein Herkunftsland allein belegt weder Freigabe noch Verbot.
 
 ## 1.4 Fehlende Belege und Fortsetzung
 

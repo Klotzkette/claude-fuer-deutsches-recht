@@ -1,8 +1,10 @@
 # 1. Aufsichtsratsentscheidungen vorbereiten und dokumentieren
 
-Erstelle das beauftragte Votum, Informationsverlangen, den Beschlussentwurf, Vertrag oder Bericht für die konkrete Aufsichtsratsaufgabe. Unterscheide Überwachung, Zustimmung und eigene Organentscheidung von der Geschäftsführung des Vorstands.
+Prüfe, ob der Aufsichtsrat über die vorgelegte Investition, Vorstandsangelegenheit oder Abschlussvorlage entscheiden darf und ob die Informationen dafür ausreichen. Formuliere das verlangte Informationsverlangen, Votum, den Beschluss oder Bericht aus den belegten Vorgängen. Überwachung und Zustimmung sind keine Übernahme der Geschäftsführung.
 
 ## 1.1. Organstruktur und Unterlagen
+
+Ohne Eingabe biete Investitionsvotum, konkretes Informationsverlangen oder Beschluss- und Protokolltext an. Bei Dateien ohne Auftrag zunächst still lesen und zwei oder drei passende Wege erfragen, noch keinen Gremienbericht. Bei klarem Auftrag unmittelbar arbeiten und nur entscheidende Informationslücken klären. Folgeantworten ändern die Beschlussempfehlung oder tatsächliche Protokollierung, nicht die bereits geklärte Organstruktur.
 
 Lies Satzung, Geschäftsordnungen, Zustimmungskatalog, Vorstandsvorlage und einschlägige Sitzungsunterlagen zuerst. Übernimm bekannte Rolle, Ziel, Termin und Dokumentwunsch. Fehlt nur der Ausgabeauftrag, kläre, ob ein Fragenpapier, ein Entscheidungsvotum, ein Beschluss oder ein Protokoll benötigt wird; erhebe nicht die gesamte Gesellschaft erneut.
 
@@ -29,6 +31,10 @@ Prüfe [Paragraf 111 AktG](https://www.gesetze-im-internet.de/aktg/__111.html), 
 Wäge Zustimmung, Ablehnung, Vertagung und hinreichend bestimmte Bedingungen anhand der Informationslage ab. Eine Bedingung darf die entscheidende offene Risikoprüfung nicht unbemerkt dem Vorstand überlassen. Fehlt die Finanzierungsgrundlage, begründe die erforderliche Nachforderung oder fehlende Beschlussreife statt pauschal eine Zustimmung „nach pflichtgemäßem Ermessen“ zu formulieren.
 
 Das Votum benennt Geschäft, Informationsgrundlage, entscheidende Risiken und Empfehlung. Der Beschlussentwurf bezeichnet Geschäft, Umfang und konkrete Bedingungen. Interne Prüffelder, pauschale Haftungsformeln und ein gerichtlicher Tenor gehören nicht in den Beschlusstext.
+
+Bei wesentlicher Änderung eines bereits gebilligten Geschäfts, etwa stark gestiegenen Kosten oder entfallener Refinanzierung, gleiche die neue Vorlage mit dem früheren Beschluss ab. [BGH, Urteil vom 10.07.2018 - Az. II ZR 24/17](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2017/II_ZR__24-17.pdf?__blob=publicationFile&v=1), Rn. 14 bis 22, verlangt grundsätzlich vorherige Zustimmung und bei wesentlichen Änderungen erneute Befassung. Nach Paragrafen 108 Absatz 1 und 111 Absatz 4 Satz 2 AktG ersetzt das Einverständnis des Vorsitzenden keinen Gremienbeschluss; eine wirksame Ausschussdelegation ist gesondert zu prüfen. Entwirf deshalb die notwendige erneute Vorlage statt einer rückdatierten Genehmigung. Das Urteil lässt die allgemeine Zulässigkeit einer Eilfallausnahme ausdrücklich offen.
+
+Für einen Haftungsauftrag beachte Rn. 39 bis 52: Der Vorstand kann rechtmäßiges Alternativverhalten einwenden, muss die hypothetische Zustimmung aber beweisen; eine bloß mögliche Zustimmung genügt nicht. Eine aus damaliger Sicht pflichtwidrige Zustimmung entlastet ihn nicht. Paragraf 93 Absatz 2 AktG verlangt zudem einen verursachten Schaden. Diese Grenze ist keine Erlaubnis, den Aufsichtsrat vorab zu übergehen.
 
 ## 1.4. Beschlussfähigkeit, Konflikte und Protokoll
 
@@ -89,3 +95,27 @@ Verwende den gewünschten Dateinamen; `ergebnis.md` ist nur ein Standard ohne an
 Tragende Normen und Rechtsprechung anhand überprüfbarer Quellen sichern. Entscheidungen nur mit sicherem Gericht, Datum, Aktenzeichen und nachvollziehbarem Inhalt verwenden; ansonsten die konkrete Rechtsfrage als offen behandeln. Quellenstatus und technische Einschränkungen gesondert dokumentieren, nicht in den Beschluss oder Empfängerbrief übernehmen.
 
 Ohne weitere Skills hier weiterarbeiten; deren Verfügbarkeit ist keine Voraussetzung. Bei fehlendem Zugriff die konkrete Unterlage oder Quelle benennen und unabhängige Teile bearbeiten. Ohne Export den vollständigen Text liefern, keine erzeugte Datei oder erfolgte Prüfung behaupten. Neue oder widersprechende Fassungen erneut abgleichen, unveränderte belegte Auszüge weiterverwenden.
+
+## 2. Von der Vorlage zur verantwortbaren Entscheidung
+
+### 2.1. Finanzierung fehlt oder ändert sich
+
+Bei „Angebot läuft morgen aus“ unterscheide wirtschaftlichen Zeitdruck und rechtliche Beschlussreife. Frage nach der entscheidenden Finanzierungslücke, nicht nach sämtlichen Unternehmensdaten. Das Informationsverlangen nach Paragraf 90 AktG bezeichnet Betrag, Zahlungszeitpunkte, Finanzierung, Liquiditätsreserve und maßgebliche Annahmen so konkret, dass der Vorstand antworten kann. Ein einzelnes Mitglied verlangt den Bericht an das Gremium. Keine persönliche Sonderfreigabe durch den Vorsitzenden als Ersatz konstruieren.
+
+Nach „Kredit zugesagt, aber unter noch offenen Bedingungen“ prüfe gerade diese Bedingungen und deren zeitliche Erfüllbarkeit. Eine unverbindliche Finanzierungsindikation ist keine gesicherte Auszahlung. Überarbeite das Votum entweder zu begründeter Vertagung oder zu einer hinreichend bestimmten, rechtlich tragfähigen Entscheidung; ein pauschaler Finanzierungsvorbehalt darf die zentrale Risikobewertung nicht verdecken. Nach verbindlichem Nachweis Betrag und Zahlungsplan mit dem Geschäft abgleichen und den Beschluss fertig formulieren. Ungünstige Annahmen wie sinkender Absatz oder ausgelastete Kreditlinien ausdrücklich im internen Votum würdigen.
+
+### 2.2. Bereits gebilligtes Geschäft wird teurer
+
+Vergleiche alte Vorlage, damaligen Beschluss und neue Konditionen. Nicht allein auf den nominellen Kaufpreis schauen: weggefallene Refinanzierung, zusätzliche Garantien oder geänderte Risikoverteilung können entscheidend sein. Nach „Der Vorsitzende ist einverstanden“ bleibt die Prüfung des zuständigen Gremienbeschlusses offen. Der vorhandene Anker II ZR 24/17 verlangt die dort beschriebene erneute Befassung bei wesentlichen Änderungen; Eilfall und wirksame Delegation gesondert prüfen.
+
+Erstelle bei Auftrag eine vollständige Ergänzungsvorlage mit präzisem Änderungsgegenstand und Bezug zum früheren Beschluss. Ist der Vertrag schon unterschrieben, keine rückdatierte Zustimmung verfassen. Dokumentiere tatsächlichen Abschlusszeitpunkt und behandle nachträgliche Organbefassung, externe Vertragswirkung und mögliche Haftung getrennt. Hypothetische Zustimmung ist im Haftungsauftrag ein beweisbedürftiger Einwand, keine laufende Freigabefiktion. Schaden und Kausalität nicht aus dem bloßen Zuständigkeitsverstoß ableiten.
+
+### 2.3. Protokoll nach lückenhafter Mitschrift
+
+Bei fehlender Abstimmungsangabe frage nach dem tatsächlichen Ergebnis und seiner Quelle. „Alle waren einverstanden“ kann eine Zusammenfassung sein; kläre, ob und wie der konkrete Antrag zur Entscheidung gestellt wurde, soweit dies unklar bleibt. Erhalte dokumentierte Gegenstimmen und Enthaltungen. Ein Beschlussentwurf darf nicht als beschlossener Text in das Protokoll wandern. Nach bestätigtem Wortlaut korrigiere auch die Verweise auf Bedingungen und Anlagen.
+
+Bei einem Interessenkonflikt trenne Offenlegung, Teilnahme an Beratung und Abstimmung. Keine universelle Stimmsperre ohne Prüfung, aber auch keine pauschale Unbedenklichkeit aus vollständiger Anwesenheit. Ein späterer Bericht an die Hauptversammlung beschreibt nur tatsächlich erfolgte Überwachung. Fehlende Prüfungshandlungen dürfen nicht nachträglich durch schöne Protokollsprache ersetzt werden.
+
+### 2.4. Frist, Abschluss und Freigabe
+
+Unterscheide gesetzlichen Berichtsanlass, satzungsmäßige Einberufungsfrist, interne Vorlagenfrist und Ablauf des Geschäftsangebots. Eine neue dringliche Entwicklung kann eine frühere Befassung erfordern; keine allgemeine gesetzliche Antwortfrist für jede Aufsichtsratsfrage erfinden. Der bestellte Beschluss enthält Gegenstand, Umfang und bestimmte Bedingungen; das Votum enthält Informationsbasis, Alternativen und Gegenargumente. Nur der tatsächlich ungeklärte Beschlussteil bleibt offen. Nach vollständiger Antwort keine weitere Pflichtfragerunde. Beschlussfassung, Vertragsunterzeichnung und externe Mitteilung sind gesonderte Handlungen, die der Entwurf nicht ersetzt.

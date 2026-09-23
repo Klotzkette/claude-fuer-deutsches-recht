@@ -1,19 +1,56 @@
 {
   "schema_version": 1,
   "plugin": "kanzlei-mandant-lifecycle",
-  "reviewed_on": "2026-09-18",
-  "sources": [],
+  "reviewed_on": "2026-09-23",
+  "sources": [
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2019/IX_ZR_140-19.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 13.02.2020, IX ZR 140/19: Entscheidende Randnummern 32 bis 40: Tätigkeiten und Aufwand konkret nachweisen, Angemessenheit prüfen; formularmäßiger Viertelstundentakt jedenfalls im Verbrauchermandat unwirksam. Grenze: Selbständig wirksames Stundenhonorar bleibt bestehen; keine automatische Übertragung auf ausgehandelte Unternehmensvereinbarung und keine Budgetfreigabe."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/rvg/__3a.html",
+      "checked_on": "2026-09-22",
+      "supports": "Amtlicher Wortlaut geprüft: Aktuelle Form- und Inhaltsanforderungen der Vergütungsvereinbarung; Budgetplanung und Beauftragung ersetzen diese Vereinbarung nicht."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/rvg/__10.html",
+      "checked_on": "2026-09-22",
+      "supports": "Amtlicher Wortlaut geprüft: Vergütung aufgrund mitgeteilter Berechnung mit gesetzlich erforderlichen Angaben; Zeiterfassung allein ist noch keine vollständige Abrechnung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__307.html",
+      "checked_on": "2026-09-22",
+      "supports": "Amtlicher Wortlaut geprüft: AGB-Inhaltskontrolle einschließlich Transparenz; Grundlage der gesonderten Prüfung einer Zeittaktklausel."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/rvg/__3a.html",
+      "checked_on": "2026-09-23",
+      "supports": "Am 23.09.2026 erneut gelesene Form- und Inhaltsvorgaben; interne Budgetfreigabe ersetzt nicht die rechtliche Vergütungsvereinbarung."
+    }
+  ],
   "mini_review": {
-    "verdict": "retained",
-    "reason": "Aktuellen Mini vollständig gelesen. Rechnung, offene Arbeit und Restprognose werden ohne Doppelzählung abgeglichen; eine neue Freigabe ändert Umfang, Kosten und Brief. Warnschwelle gilt nicht als Ausgabenermächtigung und Budgetkonflikt nicht als stiller Bearbeitungsabbruch. Keine weitere Korrektur erforderlich; keine neue Quellen- oder Live-Modellprüfung.",
-    "changes": [],
-    "sha256": "b1d89d4b29e5594fcf36bd1bd19f0379d607658d55736a5dafbe3fd9d7a980a3"
+    "verdict": "revised",
+    "reason": "Budgetrechnung erhält eine konkrete Prüfung unklarer Zeitbuchungen, ohne Honorarentscheidung oder Freigabe zu unterstellen. Vollständige Text- und gezielte Primärquellenprüfung; kein Live-Mandanten- oder Modelltest. Individueller Workflow-Durchgang am 23.09.2026: Befugte Mehrbudgetantwort -> Leistungsumfang, Restprognose und Änderungsvereinbarung anpassen; tatsächliche Minuten -> nur betroffene Rechnungspositionen berichtigen.",
+    "changes": [
+      "IX ZR 140/19 mit Nachweisanforderungen und Verbrauchergrenze in beiden Prompts.",
+      "Budgetschätzung, Obergrenze, Vergütungsanspruch und Kostenfreigabe getrennt.",
+      "Zwölf Fachthemen und Abschluss, Beispiele, Fortsetzung und technische Grenzen erhalten.",
+      "Vier eigenständige Eingabemodi und fachbezogene Antwortfortsetzung ergänzt.",
+      "Kurzes Fachdialogbeispiel mit entscheidender Frage und konkreter Änderung des bestellten Dokuments ergänzt."
+    ],
+    "sha256": "1a7b6c084269b5d7010622ef976a5f6d47cb7cf7709807786ace025083743847"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Gesamte Werkstatt gelesen. Die sachgerechte Budgetfortsetzung wurde noch durch Pflichtpakete, Fehlteillisten als Endprodukte und wiederholte Aufnahmefragen überlagert. Diese Widersprüche gezielt bereinigt; vorhandene Vergütungs-, Datenschutz- und Übergabethemen erhalten. Keine neue Rechtsquellenverifikation oder Live-Modellprüfung.",
-    "changes": ["Annahme, Fristen, Bearbeitungssteuerung und Abschluss führen zum bestellten Dokument statt zur bloßen Fehlteilliste.", "Versandhindernis von interner Fertigstellung getrennt; tatsächliche Freigabe und Übermittlung nicht vorausgesetzt.", "Mandatsblatt und Übergabepaket auf passenden Auftrag begrenzt; bekannte Angaben in den Fachrouten nicht erneut abfragen."],
-    "sha256": "a6789b7eaf59e5c11ea4a67d531df24f666bcb0bc89074dfe08ad0601481c882"
+    "reason": "Vollständige Werkstatt neu ausformuliert; alle zwölf Fachthemen in individuelle Prüfungen überführt und wiederholte Produktionspakete entfernt. Vollständige Text- und gezielte Primärquellenprüfung; kein Live-Mandanten- oder Modelltest. Individueller Workflow-Durchgang am 23.09.2026: Zusatzauftrag von Preisänderung getrennt, Budgetgrenzen in echte Leistungsalternativen übersetzt, positionsbezogene Honoraraufklärung und bestätigte Fristübernahme bei Kanzleiwechsel.",
+    "changes": [
+      "IX ZR 140/19 mit Nachweisanforderungen und Verbrauchergrenze in beiden Prompts.",
+      "Budgetschätzung, Obergrenze, Vergütungsanspruch und Kostenfreigabe getrennt.",
+      "Zwölf Fachthemen und Abschluss, Beispiele, Fortsetzung und technische Grenzen erhalten.",
+      "Zusatzauftrag von Preisänderung getrennt, Budgetgrenzen in echte Leistungsalternativen übersetzt, positionsbezogene Honoraraufklärung und bestätigte Fristübernahme bei Kanzleiwechsel."
+    ],
+    "sha256": "84ea345e5f0b894ca9dc597fc3d66a92a0a15656b22465578caa8b59b2c4ab1a"
   },
   "selection": {
     "positive": [
@@ -58,5 +95,44 @@
       ],
       "target_skill": "budget-overrun-escalation"
     }
-  ]
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "kanzlei-mandant-lifecycle/kanzlei-mandant-lifecycle-werkstatt.md",
+      "kanzlei-mandant-lifecycle/kanzlei-mandant-lifecycle-schnellstart.md",
+      "kanzlei-mandant-lifecycle/README.md",
+      "quality/evals/kanzlei-mandant-lifecycle.json"
+    ],
+    "opening_change": "Beauftragte und erbrachte Leistungen mit genehmigtem Budget und Restaufwand abgleichen.",
+    "norms": [
+      "RVG Paragrafen 3a und 10",
+      "BGB Paragrafen 133, 157, 306 Absatz 1 und 307"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 13.02.2020, IX ZR 140/19",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2019/IX_ZR_140-19.pdf?__blob=publicationFile&v=1",
+        "application": "Entscheidende Randnummern 32 bis 40: Tätigkeiten und Aufwand konkret nachweisen, Angemessenheit prüfen; formularmäßiger Viertelstundentakt jedenfalls im Verbrauchermandat unwirksam.",
+        "limit": "Selbständig wirksames Stundenhonorar bleibt bestehen; keine automatische Übertragung auf ausgehandelte Unternehmensvereinbarung und keine Budgetfreigabe."
+      }
+    ],
+    "remaining_limits": [
+      "Desk-/Quellenprüfung, kein Live-Mandanten- oder Modelltest.",
+      "OCG-Einzelfragen, Datenschutz-, Prozesskosten- und Aufbewahrungsrecht nicht insgesamt neu verifiziert.",
+      "Workflow-Ergänzung am 23.09.2026: desk review; keine Live-Client-Ausführung, keine Installation, Übermittlung oder technische Funktionsprüfung. Bestehende Entscheidungsprüfung vom 22.09.2026 nicht als heutiger Neuabruf ausgegeben."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leere Eingabe: Budgetüberschreitung, Rechnungsbeanstandung oder Kanzleiwechsel auswählen.",
+      "Dateien ohne Aufgabe: Vereinbarungen und Zeitlisten still lesen; Upload nicht als Rechnungsprüfauftrag behandeln.",
+      "Klarer Auftrag: Änderungsvereinbarung, Rechnungserläuterung oder Übergabe direkt verfassen."
+    ],
+    "continuation": "Befugte Mehrbudgetantwort -> im vorhandenen Zielpfad, etwa zusatzauftrag.md, Leistungsumfang, Preis und Termin ändern; tatsächliche Minuten -> Rechnungserläuterung positionsbezogen fortschreiben.",
+    "enrichment": "Zusatzauftrag von Preisänderung getrennt, Budgetgrenzen in echte Leistungsalternativen übersetzt, positionsbezogene Honoraraufklärung und bestätigte Fristübernahme bei Kanzleiwechsel.",
+    "limits": "desk review; no live client execution"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "bereicherungs-und-anfechtungsrecht-pruefer",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/bgb/__812.html",
@@ -22,16 +22,58 @@
       "url": "https://www.gesetze-im-internet.de/anfg_1999/__2.html",
       "checked_on": "2026-09-14",
       "supports": "Titel, Fälligkeit und unzureichende Vollstreckung für die Anfechtungsberechtigung."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2018/VIII_ZR_100-18.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Hinweisbeschluss vom 04.09.2018, VIII ZR 100/18, Rn. 9 und 17–21: Bei Paragraf 814 BGB positive Kenntnis der Nichtschuld bei Zahlung einschließlich laienhafter rechtlicher Schlussfolgerung prüfen; Beweislast beim Empfänger. Grenze: Mietminderungsfall; Revisionsrücknahme nach Hinweisbeschluss. Keine pauschale Rückforderung, keine vollständige Detailkenntnis oder exakt bekannte Minderungsquote erforderlich."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2019/IX_ZR_247-19.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 01.10.2020, IX ZR 247/19, Rn. 10–12 und 39–43: Irrtümliche Zahlung auf vermeintliche entgeltliche Schuld im Zweipersonenverhältnis ist bei durchsetzbarem Bereicherungsausgleich nicht schon unentgeltlich; Kondiktionssperren gesondert prüfen. Verjährungsverzicht auslegen. Grenze: Genussrechtsfall, keine universelle Regel für Mehrpersonenverhältnisse oder AnfG; Reichweite nicht formularmäßigen Verzichts bleibt Auslegungsfrage."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__814.html",
+      "checked_on": "2026-09-22",
+      "supports": "Kenntnis der Nichtschuld bei Leistung als Rückforderungsausschluss."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/anfg_1999/__15.html",
+      "checked_on": "2026-09-22",
+      "supports": "Rechtsnachfolgerhaftung, keine Verjährungsnorm."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/anfg_1999/__7.html",
+      "checked_on": "2026-09-22",
+      "supports": "Rückrechnung und qualifizierte vorherige Anfechtungsmitteilung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/anfg_1999/__11.html",
+      "checked_on": "2026-09-22",
+      "supports": "Befriedigungsbeschränkter Zugriff und gesonderte Zinsvoraussetzungen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__134.html",
+      "checked_on": "2026-09-22",
+      "supports": "Unentgeltliche Leistung, Vierjahreszeitraum und Gelegenheitsgeschenke."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__818.html",
+      "checked_on": "2026-09-23",
+      "supports": "Umfang der Bereicherung und Wegfall anhand tatsächlicher Verwendung und verbliebenen Vorteils prüfen; Ausgabe allein genügt nicht."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Vollständige Schlusslektüre: Leistungsbeziehung, Entreicherung und Gläubigeranfechtung bleiben getrennt; Nachweise verändern ausdrücklich Anspruchsgegner, Betrag und den bestellten Text.",
+    "reason": "Beide Zahlungs- und Anfechtungswege vollständig gelesen. Der Einstieg trennt eigene Fehlzahlung von Gläubigerzugriff; Kenntnisprüfung und Unentgeltlichkeit sind jetzt aus amtlichen Gründen anwendbar, nicht nur Schlagworte. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert.",
     "changes": [
-      "Zahlungsanweisung gezielt nachfordern und danach Leistungszuordnung sowie Rechnung aktualisieren lassen.",
-      "Behaupteten Verbrauch mit Verwendung und verbliebenem Vorteil prüfen; kein ungefragter Klageentwurf."
+      "Positive Kenntnis nach Paragraf 814 BGB mit Beweislast und tatsächlichem Zahlungswissen verbunden.",
+      "Bereicherungsanspruch und Unentgeltlichkeit nach Paragraf 134 InsO unterschieden.",
+      "Leerstart: Fehlzahlung, Abwehr oder Gläubigeranfechtung anbieten. Dateien: Zahlungsbeziehungen still rekonstruieren und passenden Anspruchsweg klären. Klarer Auftrag: Rückforderung, Antwort oder Antrag direkt formulieren.",
+      "Andere Rechnung oder fremde Schuld verändert Leistungsbeziehung; Verwendungsbeleg verändert Entreicherung; Insolvenz ändert Zugriffsweg."
     ],
-    "sha256": "c4a2d7837131604c9298cc87f662163459186d940bc55d8bf95ff56602b189e6"
+    "sha256": "3d6afdf75d675406e13ac3c30d34287038553ce14289deca704d8e457a58a24a"
   },
   "selection": {
     "positive": [
@@ -79,12 +121,61 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Gesamte Werkstatt einschließlich Sonderfällen und ergänzenden Altverweisen gelesen. Die Fortsetzung führt von Zahlungs- oder Vollstreckungsnachweisen zum Rückforderungsschreiben; alte Fristen- und Vollstreckungszuordnungen bleiben ausdrücklich Prüfbedarf, nicht neue Rechtsbestätigung.",
+    "reason": "Gesamte Werkstatt einschließlich altem Normanhang gelesen. Falsche Zuordnung von Paragraf 15 AnfG und pauschale Vollstreckungsverweise entfernt; konkrete Fristwahrung, Rechtsnachfolge und begrenzter Befriedigungszugriff ersetzen den unverbindlichen Katalog. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen.",
     "changes": [
-      "Bereicherung, InsO und AnfG im ersten Durchgang als getrennte Bearbeitungswege ausgearbeitet.",
-      "Nachgereichte Eröffnungs-, Beteiligungs- oder Zahlungsnachweise mit Zeitraum, Betrag und Verteidigung verbunden.",
-      "Quellenstatus vom Empfängertext getrennt und Annahmen über Zahlungszweck oder erfolglose Vollstreckung ausgeschlossen."
+      "Positive Kenntnis nach Paragraf 814 BGB mit Beweislast und tatsächlichem Zahlungswissen verbunden.",
+      "Bereicherungsanspruch und Unentgeltlichkeit nach Paragraf 134 InsO unterschieden.",
+      "AnfG-Fristrückrechnung, Rechtsnachfolgerzugriff, Zinsen und Verjährungsverzicht fachlich korrigiert.",
+      "Doppelzahlung und Anweisung, konkrete Verbrauchs- und Kenntniseinwände, Grundstückszugriff und getrennte Fristen.",
+      "Andere Rechnung oder fremde Schuld verändert Leistungsbeziehung; Verwendungsbeleg verändert Entreicherung; Insolvenz ändert Zugriffsweg."
     ],
-    "sha256": "8e1ef7603701030a046df4c25389052aca2929a861af12069ffda517e0b91035"
+    "sha256": "e306c764e0c38fd6c3281f78ee26cd304bd033db97d128ac3a83ec677e4138fc"
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leerstart: Fehlzahlung, Abwehr oder Gläubigeranfechtung anbieten.",
+      "Dateien: Zahlungsbeziehungen still rekonstruieren und passenden Anspruchsweg klären.",
+      "Klarer Auftrag: Rückforderung, Antwort oder Antrag direkt formulieren."
+    ],
+    "continuation": "Andere Rechnung oder fremde Schuld verändert Leistungsbeziehung; Verwendungsbeleg verändert Entreicherung; Insolvenz ändert Zugriffsweg.",
+    "enrichment": "Doppelzahlung und Anweisung, konkrete Verbrauchs- und Kenntniseinwände, Grundstückszugriff und getrennte Fristen.",
+    "limits": "desk review; no live client execution"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "bereicherungs-und-anfechtungsrecht-pruefer/bereicherungs-und-anfechtungsrecht-pruefer-schnellstart.md",
+      "bereicherungs-und-anfechtungsrecht-pruefer/bereicherungs-und-anfechtungsrecht-pruefer-werkstatt.md",
+      "bereicherungs-und-anfechtungsrecht-pruefer/README.md",
+      "quality/evals/bereicherungs-und-anfechtungsrecht-pruefer.json"
+    ],
+    "opening_change": "Konkrete Vermögensbewegung, Rückforderungsberechtigter und Behaltensgrund statt allgemeinem Dokumentauftrag.",
+    "norms": [
+      "Paragrafen 812, 813, 814, 817, 818 und 819 BGB",
+      "Paragrafen 195, 199, 203 und 204 BGB",
+      "Paragrafen 129, 134 und 143 InsO",
+      "Paragrafen 2, 7, 11 und 15 AnfG"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Hinweisbeschluss vom 04.09.2018, VIII ZR 100/18, Rn. 9 und 17–21",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2018/VIII_ZR_100-18.pdf?__blob=publicationFile&v=1",
+        "application": "Bei Paragraf 814 BGB positive Kenntnis der Nichtschuld bei Zahlung einschließlich laienhafter rechtlicher Schlussfolgerung prüfen; Beweislast beim Empfänger.",
+        "limit": "Mietminderungsfall; Revisionsrücknahme nach Hinweisbeschluss. Keine pauschale Rückforderung, keine vollständige Detailkenntnis oder exakt bekannte Minderungsquote erforderlich."
+      },
+      {
+        "citation": "BGH, Urteil vom 01.10.2020, IX ZR 247/19, Rn. 10–12 und 39–43",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2019/IX_ZR_247-19.pdf?__blob=publicationFile&v=1",
+        "application": "Irrtümliche Zahlung auf vermeintliche entgeltliche Schuld im Zweipersonenverhältnis ist bei durchsetzbarem Bereicherungsausgleich nicht schon unentgeltlich; Kondiktionssperren gesondert prüfen. Verjährungsverzicht auslegen.",
+        "limit": "Genussrechtsfall, keine universelle Regel für Mehrpersonenverhältnisse oder AnfG; Reichweite nicht formularmäßigen Verzichts bleibt Auslegungsfrage."
+      }
+    ],
+    "remaining_limits": [
+      "Desk- und Quellenreview, kein Live-Modelltest.",
+      "Entscheidende Randnummern, nicht sämtliche Genussrechts- oder Bilanzierungsfragen in IX ZR 247/19 neu geprüft; optionale Alt-Skills unverändert.",
+      "Workflow-Anschlussprüfung 23.09.2026: individuelle Text- und Quellenprüfung, keine Live-Client-Ausführung. Frühere Entscheidungsprüfungen und ihre Reichweitengrenzen bleiben unverändert; keine erneute vollständige Rechtsprechungsprüfung behauptet."
+    ]
   }
 }

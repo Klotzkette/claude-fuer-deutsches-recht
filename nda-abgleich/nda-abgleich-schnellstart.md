@@ -1,6 +1,8 @@
 # 1. Fremdentwurf gegen eigenen NDA-Standard
 
-Lies zuerst Nutzersachverhalt, eigenen Standard, Gegenvorschlag und ausdrücklich festgelegte Haltelinien. Bestimme empfangende oder offenlegende Seite, Austauschzweck und maßgebliche Fassungen. Ändere den Fremdentwurf gezielt; erstelle nicht ohne Auftrag einen vollständig neuen Vertrag. Fehlt der Standard, liefere erkennbare Risiken, aber behaupte keinen durchgeführten Standardabgleich.
+Vergleiche den Fremdentwurf mit dem freigegebenen NDA-Standard: Schutzgegenstand, erlaubte Nutzung, Empfänger und fortbestehende Pflichten müssen zusammenpassen. Lies Sachverhalt, Fassungen und ausdrücklich gesetzte Mindestanforderungen zuerst. Ändere gezielt, statt den Vertrag neu zu schreiben. Fehlt der Standard, benenne erkennbare Risiken, aber behaupte keinen durchgeführten Standardabgleich.
+
+Ohne Eingabe biete kurz an: „Fremd-NDA am Hausstandard prüfen, zwei Verhandlungsfassungen vergleichen oder eine konkrete Haltelinie durchsetzen?“ Bei Dateien ohne Aufgabe lies sie still und kläre nur, welche Fassung wogegen und mit welchem Ergebnis bearbeitet werden soll. Bei klarem Auftrag direkt vergleichen und die bestellte Änderung liefern; keine vorgelagerte Inhaltsübersicht oder vollständige Neuaufnahme. Dateizugriff und Änderungsverfolgung nicht voraussetzen.
 
 ## 1.1. Klauseln nach Bedeutung zuordnen
 
@@ -16,11 +18,17 @@ Je Änderung Ausgangsklausel, Standardposition, konkrete Risikofolge und kleinst
 
 ## 1.3. Änderungsdokument und Kontrolle
 
+Vor der Änderung rechtliche und interne Anforderungen unterscheiden: Paragrafen 133 und 157 BGB für die Auslegung; Paragrafen 307 und 310 BGB für die Klauselkontrolle; Paragraf 2 Nummer 1 GeschGehG für den gesetzlichen Geheimnisbegriff. Geschützte Meldungen nach Paragrafen 6, 7 und 33 HinSchG sowie Ausnahmen nach Paragraf 5 GeschGehG nicht durch den Standard ausschließen. Eine Löschungsausnahme erlaubt noch keine weitere operative Nutzung.
+
+[BAG, Urteil vom 17. Oktober 2024, 8 AZR 172/23](https://www.bundesarbeitsgericht.de/entscheidung/8-azr-172-23/), Randnummern 25 bis 27 und 31 bis 39, verlangt konkrete Geheimhaltungsmaßnahmen und beanstandet die unbegrenzte formularmäßige Schweigepflicht eines ausgeschiedenen Arbeitnehmers über sämtliche internen Vorgänge. Beim Mitarbeiter-NDA Schutzgegenstand und Dauer daran prüfen; kein pauschales Verbot dauernder Geheimhaltung zwischen Unternehmen daraus ableiten. Fundstelle im Begleitvermerk erläutern, nicht in die Vertragsklausel schreiben.
+
 ### 1.3.1. Offene Verhandlungsentscheidung klären
 
 Widersprechen sich Standard und konkrete Freigabe etwa bei Empfängerkreis, Archivierung oder Geheimhaltungsdauer, frage nach der maßgeblichen Vorgabe. Nach der Antwort ändere nur die betroffene Klausel und prüfe ihre Verweise sowie Wechselwirkungen erneut. Ein weiterer entscheidender Zielkonflikt erlaubt eine gezielte Folgefrage, aber keine erneute vollständige Aufnahme.
 
 Fehlt eine maßgebliche Fassung, bearbeite die übrigen belegten Abweichungen vorläufig. Nach Eingang des Dokuments den Vergleich ergänzen und die bestellte Änderungsfassung fertigstellen. Ungeklärte Positionen nicht als bereits vereinbart darstellen.
+
+Beispiel: „Nur unser externer Steuerberater darf zusätzlich zugreifen.“ Passe im bereits benannten Entwurf, etwa `nda-redline.docx`, Empfängerdefinition und Weitergabepflicht an und berichtige dieselbe Zeile des Vergleichsnachweises. Öffne damit nicht alle Berater oder Konzerngesellschaften. Bei „Backups sind nur turnusmäßig löschbar“ ändere die Löschungsausnahme samt fortgeltender Sperre; die akzeptierten fünf Jahre bleiben bestehen. Ohne Schreibzugriff liefere die geänderten Klauseln unter dem Nutzerpfad als Text, ohne gespeicherte Revisionen zu behaupten.
 
 ### 1.3.2. Fassung und Änderungsnachweis liefern
 

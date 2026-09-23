@@ -1,12 +1,14 @@
 # 1. Außenwirtschaftlichen Vorgang prüfen
 
-Erstelle den beauftragten Klassifizierungsvermerk, Behördenantrag oder Zollrechtsbehelf aus den vorhandenen Unterlagen. Lies technische Produktdaten, Bestellung, Lieferkette, Endverbleibserklärung, Genehmigungen und Zollunterlagen, soweit einschlägig. Außenwirtschaft, Sanktionen und Zoll sind nicht automatisch Frachtführerhaftung; eine Prüfbitte verlangt weder einen ungefragten Rechtsbehelf noch eine Lieferfreigabe.
+Prüfe, ob die konkret beschriebene Ware oder Software an den vorgesehenen Endverwender ausgeführt werden darf und welche Genehmigung oder technische Angabe dafür fehlt. Lies Datenblatt, Bestellung, Lieferkette, Endverbleibserklärung und vorhandene Bescheide zuerst. Formuliere den beauftragten Klassifizierungsvermerk, Antrag oder Zollrechtsbehelf; eine Prüfbitte verlangt weder ein zusätzliches Haftungsverfahren noch eine Lieferfreigabe.
 
-## 2. Transaktion auflösen
+## 1.1. Beteiligte und Übertragungsweg
 
-Erfasse Ausführer oder Einführer, Käufer, Empfänger, Endverwender, Vermittler, wirtschaftliche Eigentümer, Zahlungsweg, Bestimmungsland und bekannte Weiterlieferungen. Trenne Ware, Ersatzteil, Software, Technologie und technische Unterstützung. Auch elektronisches Bereitstellen kann eine Ausfuhr betreffen; Artikel 2 der [Dual-Use-Verordnung](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:02021R0821-20251115) berücksichtigt entsprechende Übertragungswege. Ein fehlender physischer Transport beendet die Prüfung deshalb nicht.
+Ohne Eingabe biete Güterklassifizierung, Lieferketten-Sanktionsprüfung oder Zollrechtsbehelf an. Dateien ohne Aufgabe still lesen und zwei oder drei passende Wege erfragen, noch keine Gesamtanalyse. Bei klarem Auftrag direkt schreiben. Neuer Softwareparameter ändert Listenabgleich und Antrag; belegte Namensverwechslung erledigt nur diesen Treffer, nicht Kontrolle und Endnutzen. Korrigierte Warenzusammensetzung ändert Einreihung und betroffene Abgabenrechnung. Folgeantworten gezielt einarbeiten, bekannte Transaktionsdaten übernehmen; nur entscheidende Lücken fragen.
 
-## 3. Vier getrennte Kontrollen
+Erfasse Ausführer oder Einführer, Käufer, Empfänger, Endverwender, Vermittler, wirtschaftliche Eigentümer, Zahlungsweg, Bestimmungsland und bekannte Weiterlieferungen. Trenne Ware, Ersatzteil, Software, Technologie und technische Unterstützung. Artikel 2 Nummer 2 Buchstabe d der [Verordnung (EU) 2021/821](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:02021R0821-20260921) erfasst auch elektronische Bereitstellung. Fehlender physischer Transport beendet die Prüfung nicht. Der verlinkte Stand vom 21.09.2026 ersetzt nicht den Abgleich mit der zum Ausfuhrtag geltenden Güterliste.
+
+## 1.2. Güter, Sanktionen, Verwendung und Zoll
 
 3.1. Güter: Technische Merkmale mit der maßgeblichen Listenposition und ihren Anmerkungen vergleichen. Datenblattstand, Modell, Leistungsparameter und Konfiguration festhalten. Eine Zolltarifnummer ist kein technischer Befund zu allen Listenmerkmalen. Bei fehlendem Parameter keine abschließende Nichtlistung bescheinigen. Artikel 3 der Dual-Use-Verordnung betrifft die Ausfuhr gelisteter Güter; für nicht gelistete Güter die konkret einschlägigen verwendungsbezogenen Kontrollen gesondert prüfen.
 
@@ -16,7 +18,7 @@ Erfasse Ausführer oder Einführer, Käufer, Empfänger, Endverwender, Vermittle
 
 3.4. Zoll und Abgaben: Warennummer, Ursprung, Präferenznachweis, Zollwert, Verfahren, Anmelder und Vertretungsart aus Belegen ableiten. Vertragsbezeichnung und Lieferklausel nicht als vollständige Zollwertberechnung behandeln. Bei Bescheiden Bekanntgabe, Rechtsbehelf und Vollziehung getrennt prüfen. CBAM oder Verbrauchsteuer nur bei passendem Waren- und Zeitbezug vertiefen; aktuelle Schwellen und Übergangsregeln nicht aus alten Quartalsvorlagen übernehmen.
 
-## 4. Belastbares Ergebnis statt pauschalem Grün
+## 1.3. Genehmigungsbedarf und offene Nachweise
 
 Ordne Prüffrage, maßgebliche Fassung, Tatbestandsmerkmal, Beleg und Ergebnis intern zu. Erläutere im bestellten Dokument, was geprüft ist, welche Genehmigung benötigt wird und was offenbleibt; eine Tabelle nur bei tatsächlichem Vergleichsbedarf ausgeben. Eine Genehmigungsanfrage ist noch keine Genehmigung.
 
@@ -24,7 +26,9 @@ Fehlt ein Listenparameter, frage nach der genauen technischen Eigenschaft und be
 
 Ein möglicher Verstoß verlangt Beweissicherung und abgestimmte rechtliche Bewertung. Keine Unterlagen löschen oder nachträglich beschönigen. Freiwillige Offenlegung und strafrechtliche Folgen nur anhand des konkreten Vorgangs prüfen, keine universelle Straffreiheit zusagen. Exportkontrolle, Zollschuld und vertragliche Lieferpflicht bleiben unterschiedliche Fragen.
 
-## 5. Selbständiger Arbeitsweg und Form
+Bei Lieferung an einen nicht gelisteten Zwischenempfänger kläre Kontrolle und Endnutzen: EuGH, Urteil vom 21.12.2011, Az. C-72/11, Afrasiabi, Randnummern 45 bis 57, behandelte selbst den noch nicht verwendungsbereiten Sinterofen als mögliche wirtschaftliche Ressource für eine gelistete Einrichtung. Ein fehlender direkter Namenstreffer entlastet daher nicht abschließend. Die Entscheidung betrifft Artikel 7 Absatz 3 Verordnung (EG) Nr. 423/2007; aktuelle Verbotsnorm und Listung gesondert bestimmen, keine generelle Sperre jeder Zwischenlieferung ableiten. [Entscheidung](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62011CJ0072).
+
+## 1.4. Vermerk oder Antrag abschließen
 
 Optional vertieft [Dual-Use-Ausfuhrkontrolle](skills/aussenwirtschaft-exportkontrolle-dual-use/SKILL.md) die Klassifizierung. Ohne diese Datei genügen die vier Kontrollen oben als Arbeitsweg; technische Angaben oder Normzuordnungen aus Zusatzmaterialien ebenfalls verifizieren.
 

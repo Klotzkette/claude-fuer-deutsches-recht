@@ -1,10 +1,10 @@
 # 1. Schadensregulierung für Unternehmen und Haftpflichtversicherer
 
-Prüfe den Schaden aus Unternehmens- oder Versicherersicht und erstelle das bestellte Schreiben. Lies vorhandene Schadenunterlagen zuerst.
+Ohne Eingabe biete „Haftungsantwort“, „Teilregulierung“ oder „Kasko-/Sozialregress“ an. Dateien ohne Aufgabe still lesen und Ziel klären. Klaren Auftrag direkt ausarbeiten; keine Materialübersicht. Nur entscheidende Lücken erfragen, Antworten in Positionen und Brief einarbeiten. Keine Plugin-Dateien voraussetzen.
 
 ## 1.1. Sofort zum Arbeitsprodukt
 
-Reguliere aus Unternehmens-, Beklagten- oder Versicherersicht. Lies Meldung, letzten Schriftwechsel, Belege und Police. Erstelle den verlangten Entwurf; sonst Fallstand und nächsten Entwurf liefern. Ohne Material Vorfall, Rolle und Empfänger klären. Als Versicherer keine Anzeige an sich selbst erzeugen. Eigenschäden getrennt führen.
+Lies Meldung, Schriftwechsel, Belege und Police. Rolle übernehmen; als Versicherer keine Anzeige an sich selbst erzeugen. Eigenschäden getrennt führen.
 
 ## 1.2. Ereignis und Beweise
 
@@ -40,14 +40,14 @@ Je Position: Forderung, Beleg, Kausalität, Prüfwert, Vorzahlung, Rest. BGB Par
 
 Verletzung: Befund, Behandlung, Schmerzen, Verlauf und Alltagseinschränkung. Keine Diagnose erfinden. Bei bewiesener Körperverletzung kann Angst ohne zusätzliche Diagnose in die Gesamtbemessung eingehen. Selbständige psychische Gesundheitsverletzung nach Krankheitswert und Kausalität prüfen.
 
-BGH, Urteil vom 15.02.2022, VI ZR 937/20: Gesamtbemessung statt Tagessatz, kein Betragsvergleich für Abschürfungen. BGH, Urteil vom 06.12.2022, VI ZR 168/21: mittelbarer Schockschaden mit Krankheitswert, kein U-Bahn-Türfall. Amtlichen Volltext und Fortentwicklung vor Verwendung prüfen; Quellenstatus separat, nicht im Außenbrief.
+Bei Tagessatzforderungen nach BGB Paragraf 253 Absatz 2: BGH, Urteil vom 15.02.2022, VI ZR 937/20, Leitsätze a und b, verlangt die Gesamtwürdigung insbesondere von Verletzung, Leiden und Lebensbeeinträchtigung, keine rechnerische Tagespauschale. Daraus folgt kein fester Betrag für Abschürfungen. BGH, Urteil vom 06.12.2022, VI ZR 168/21, Leitsatz: Bei mittelbarem Schockschaden genügt Krankheitswert für die Gesundheitsverletzung; Kausalität bleibt zu beweisen. Kein U-Bahn-Türfall. Geprüft sind amtliche Leitsätze; weitergehende Aussagen erst nach Volltextprüfung. Quellenstatus separat, nicht im Außenbrief.
 
-SGB X Paragraf 116, EntgFG Paragraf 6 und VVG Paragraf 86: Übergänge positions- und zeitraumbezogen prüfen. Krankenkasse erhält nicht automatisch Hose oder Schmerzensgeld; Arbeitsunfähigkeit ist kein automatischer eigener Verdienstausfall. Kaskomeldung ist noch keine Kaskoleistung. Bei bereits gezahlter Kaskoleistung den Übergangsbetrag mit Leistungsabrechnung belegen und Restforderung sowie Selbstbehalt getrennt ausweisen. Eine Abfindung des Eigentümers umfasst ohne Berechtigung keine bereits übergegangene Forderung des Sachversicherers. Keine Doppelzahlung; Selbstbehalt und Restansprüche gesondert führen.
+SGB X Paragraf 116, EntgFG Paragraf 6 und VVG Paragraf 86: Übergänge positions- und zeitraumbezogen prüfen. Krankenkasse erhält nicht automatisch Hose oder Schmerzensgeld; Arbeitsunfähigkeit ist kein automatischer eigener Verdienstausfall. Kaskomeldung ist noch keine Leistung. Übergangsbetrag durch Leistungsabrechnung belegen; Restforderung und Selbstbehalt getrennt ausweisen. Eigentümerabfindung umfasst ohne Berechtigung keine übergegangene Versichererforderung. Keine Doppelzahlung.
 
 ## 1.7. Antwort und kontrollierter Abschluss
 
-Fehlenden Befund, Schadenbeleg oder Kaskoabrechnung gezielt nachfordern. Nach Antwort Positionen, Gläubiger und Restbetrag aktualisieren und das bestellte Schreiben fertigstellen. Neue entscheidende Lücken kurz klären, Bekanntes nicht erneut erfragen.
+„Kasko hat 3.500 von 4.000 Euro gezahlt“ ändert Gläubigerzuordnung und Vergleich auf belegten Übergang und Rest. „Die Behandlung dauert an“ führt zu begrenzter Teilregulierung statt ungeprüfter Gesamtabfindung. Fehlende entscheidende Belege gezielt nachfordern, danach Brief fertigstellen.
 
 Außenbrief mit Rolle, Vertretenem, Datum, Vorgang und Anrede. Reserve und interne Freigabe nicht mitsenden. Ablehnung positionsweise begründen; Teilzahlung mit Betrag und Anrechnung. Vergleich nach BGB Paragraf 779 mit Parteien, Umfang, Frist und Kosten ausformulieren. Zukunfts- und fremde Ansprüche nicht heimlich miterledigen.
 
-Konto, Anspruchsinhaber und Vollmacht prüfen. Bei Lücken keine Zahlung; externe Handlung nur nach Freigabe. BGB Paragrafen 195, 199, 203 und 212: Verjährung, Hemmung und Neubeginn unterscheiden. Erledigung nur mit Beleg; offenen Rest weiterführen. Vollständige Sätze, möglichst Times New Roman 11 pt, dezimale Gliederung. Nutzerdateiname geht vor. Fehlenden Zugriff offenlegen; keine Dateien erfinden.
+Konto, Anspruchsinhaber und Vollmacht vor Zahlung prüfen; Außenhandlung nur nach Freigabe. BGB Paragrafen 195, 199, 203 und 212: Verjährung, Hemmung und Neubeginn trennen. Erledigung belegen, Rest weiterführen. Dezimale Gliederung, Times New Roman 11 pt, Nutzerdateiname. Zugriffslücken nennen; keine Dateien erfinden.

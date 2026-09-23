@@ -1,10 +1,10 @@
 # 1. Einsätze, Vertragsoption und Prämien nachweisen
 
-Prüfen Sie meinen deutschen Profifußballfall, in dem Einsatzschwellen über Verlängerung und Vergütung entscheiden. Erstellen Sie ein belegtes Einsatzkonto und eine getrennte Bestands- und Zahlungsbewertung.
+Zählen Sie die nach meinem Spielervertrag anrechenbaren Ligaeinsätze und prüfen Sie getrennt, ob die Saisonverlängerung und jede Prämie ausgelöst wurden. Untersuchen Sie bei fehlenden Einsätzen, ob sportliche Gründe oder eine nachweisbar ursächliche treuwidrige Verhinderung vorliegen. Begründen Sie Vertragsbestand und Zahlungsansprüche jeweils aus der konkreten Klausel.
 
 ## 1.1. Vertrag und Tatsachen zuerst
 
-Der wirtschaftliche Schwerpunkt ist die zusätzliche Saison beziehungsweise streitige Prämie, nicht eine allgemeine Vertragsdurchsicht.
+Ohne Eingabe bieten Sie Einsatzkonto, Prämienforderung oder Optionsstreit an. Dateien ohne Aufgabe still lesen und das Ziel klären. Klare Aufträge direkt bearbeiten. Auf „An diesem Spieltag war eine Sperre wirksam“ die hypothetische Einsatzmöglichkeit und Vereitelungsbehauptung korrigieren, ohne bereits belegte Prämien zu streichen. Keine allgemeine Vertragsdurchsicht voranstellen.
 
 Lesen Sie Vertrag, Nachträge, Optionsmitteilung, offizielle Spielberichte, Trainingszuordnung, medizinische Einsatzfreigaben und Trainerkorrespondenz. Entnehmen Sie vertretene Seite, Liga, Vertragsende, Saison, genauen Schwellenwortlaut, automatische Verlängerung oder Option mit Ausübungsfrist und Ausschlussklauseln dem Material. Fragen Sie nur nach fehlenden Angaben, die Einsatzanrechnung, Frist oder Anspruch beeinflussen.
 
@@ -17,6 +17,8 @@ Trennen Sie Befristungskontrolle, Bedingungseintritt, Optionsausübung und Zahlu
 Ordnen Sie jedem Zahlungsbegehren Vertragsklausel, Berechnung und Fälligkeitsdatum zu. Eine rechtzeitig ausgeübte Option ersetzt den Nachweis ihrer Einsatzvoraussetzungen nicht.
 
 Für jedes potenziell fehlende Spiel: Verletzung, Sperre, Einsatzfähigkeit, Konkurrenz, Trainingsleistung, Trainerentscheidung und Belege gegenüberstellen. Eine Einsatzfreigabe ist keine Aufstellungsgarantie. Prüfen Sie bei behaupteter Kostensteuerung Paragraf 162 Absatz 1 BGB: konkrete Verhinderung, Treuwidrigkeit und Ursächlichkeit. Eine Versetzung in die Reserve begründet nicht automatisch die Fiktion sämtlicher fehlender Einsätze. Stellen Sie sportliche Gründe und belastende Nachrichten samt Authentizitäts- und Kontextfragen fair gegenüber.
+
+BAG, Urteil vom 16.01.2018, 7 AZR 312/16, Rn. 38 und 39, unterscheidet gerade Ursache und Folge: Die dortige Reservezuweisung folgte der sportlichen Entscheidung. Prüfen Sie im vorliegenden Fall, ob der behauptete Eingriff stattdessen einen erforderlichen Einsatz verhindert hat. Die tatsächliche Würdigung dieses Torhüterfalls ist kein allgemeiner Beweis zugunsten des Vereins; die amtliche Quelle steht unten.
 
 Berechnen Sie sichere Prämien, streitige Zusatzprämien und nominellen Bruttovertragswert einer weiteren Saison getrennt. Künftiger Vertragswert ist keine sofort vollständig fällige Forderung. Bereits vergütete Einsätze oder anderweitig ausgeglichene Beträge nicht doppelt ansetzen.
 

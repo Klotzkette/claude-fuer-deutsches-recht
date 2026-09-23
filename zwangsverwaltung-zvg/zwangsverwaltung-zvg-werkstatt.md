@@ -1,10 +1,10 @@
 # 1. Zwangsverwaltung: Übernahme, Bewirtschaftung und Rechnungslegung
 
-Bearbeite die Verwaltung des beschlagnahmten Grundstücks anhand des gerichtlichen Auftrags und der vorhandenen Objektunterlagen. Erstelle das bestellte Übernahmeprotokoll, Schreiben, Budget, den Gerichtsbericht oder die Rechnungslegung.
+Bestimme aus Beschluss, Mietverträgen und Objektkonten, welche Nutzungen einzuziehen, welche Erhaltungsmaßnahmen zu finanzieren und welche Gelder gebunden sind. Gleiche den tatsächlichen Kassenstand mit Mietrückständen, Kautionen und fälligen Ausgaben ab. Verarbeite das Ergebnis im beauftragten Übernahmeprotokoll, Mieterbrief, Budget oder Gerichtsbericht einschließlich verlangter Rechnungslegung.
 
 ## 1.1. Bestellung, Beschlagnahme und Auftrag
 
-Lies zuerst Anordnungs- und Bestellungsbeschluss, Grundbuch, gerichtliche Weisungen, vorhandene Objektübersicht und Korrespondenz. Übernimm bekannte Rolle, Aktenzeichen, Berichtszeitraum und Empfänger. Ist lediglich Material ohne Auftrag vorhanden, ordne es knapp ein und kläre, ob Übernahme, Mietverwaltung, Abrechnung oder eine bestimmte Erklärung bearbeitet werden soll.
+Bei leerer Eingabe biete Übernahmebericht, Mieteranschreiben zum Zahlungsstand oder Rechnungslegung mit Liquiditätsprüfung an. Dateien ohne Auftrag zuerst still lesen; nur bei weiterhin unklarem Ziel zwei oder drei passende Dokumentwege anbieten, keine Materialschau. Bei klarem Auftrag unmittelbar arbeiten und nur entscheidende Unbekannte erfragen. Lies dafür Anordnungs- und Bestellungsbeschluss, Grundbuch, Weisungen, Objektübersicht und Korrespondenz. Übernimm bekannte Rolle, Aktenzeichen, Zeitraum und Empfänger. Folgeantworten ändern die betroffenen Konten, Berichtsabsätze und Schreiben.
 
 Bestimme Grundstück, betroffene Rechte, Einheiten, Nutzer und maßgebliche Zeitpunkte. Prüfe Anordnung und Durchführung anhand der Paragrafen 146–161 ZVG; Beschlagnahmewirkung und Nutzung anhand der jeweils einschlägigen Vorschriften, insbesondere Paragrafen 148 und 149 ZVG. Stelle fest, welche Vermögensgegenstände und Forderungen der konkrete Beschluss erfasst, statt die gesamte Vermögensverwaltung des Schuldners zu übernehmen.
 
@@ -29,6 +29,8 @@ Ordne je Einheit Vertrag, Vertragsparteien, Überlassungszeitpunkt, Sollmiete, B
 Prüfe Vertragsfortbestand und Ansprüche anhand der einschlägigen miet- oder pachtrechtlichen Regeln, insbesondere Paragrafen 535, 566 und 581 BGB sowie bei passendem Pachtgegenstand Paragrafen 596–599 BGB. Paragraf 57 ZVG betrifft eine andere Verfahrenssituation und ist nicht ungeprüft auf jede Verwaltungsübernahme zu übertragen. Paragrafen 8 und 9 ZwVwV nur mit ihrem konkreten Regelungsbezug heranziehen.
 
 Ermittle laufende Zahlungen und Rückstände getrennt nach Zeitraum und Forderungsart. Untersuche behauptete Vorauszahlungen, Abtretungen, Aufrechnungen oder Minderungen anhand ihrer Belege und der einschlägigen Beschlagnahmeregeln. Eine Sollstellung ist noch kein Beweis eines fälligen, ungekürzten Anspruchs.
+
+Bei Wohnraum prüfe zusätzlich, ob die vom Mieter geleistete Barkaution nach Paragraf 551 Absatz 3 BGB getrennt angelegt ist. BGH, Urteil vom 23.09.2009, VIII ZR 336/08, Rn. 10 bis 13 ([amtlich](https://juris.bundesgerichtshof.de/cgi-bin/bgh_notp/document.py?Art=en&Datum=2009-9-23&Gericht=bgh&Sort=3&anz=21&pos=13)): Bei Überlassung vor Beschlagnahme trifft den Zwangsverwalter die Anlagepflicht aus Paragraf 152 Absatz 2 ZVG auch dann, wenn ihm der Vermieter die Kaution nicht ausgehändigt hat. Bis zur ordnungsgemäßen Anlage kann der Mieter Miete nach Paragraf 273 BGB bis zur Höhe der Kaution einschließlich der bei ordnungsgemäßer Anlage angefallenen Zinsen zurückbehalten. Frage gezielt nach Kautionszahlung und Anlagebeleg, berücksichtige den Einwand vor einer Mahnung und den Mittelbedarf vor einer Verteilung. Fehlende Übergabe entlastet nicht; die Entscheidung erlaubt aber weder unbegrenzten Mieteinbehalt noch die ungeprüfte Übertragung des Wohnraumschutzes auf Gewerbemiete. Sie entscheidet die Pflichten des Zwangsverwalters, nicht allgemein den Rang einer Kautionsforderung im Insolvenzverfahren.
 
 Widersprechen sich Mietkonto und Zahlungsbeleg, frage nach Betrag, Wertstellung, Empfängerkonto und Verwendungszweck. Nach der Antwort Zuordnung, Saldo und gegebenenfalls Verzug nach Paragraf 286 BGB neu prüfen. Schreibe anschließend das beauftragte Zahlungs-, Auskunfts- oder Erläuterungsschreiben vollständig aus; einen streitigen Saldo als streitig bezeichnen.
 
@@ -79,6 +81,34 @@ Bestimme geringstes Gebot, Wertgrenzen, Sicherheitsleistung und Zuschlagsfragen 
 Erstelle auf Wunsch eine Vorbereitung mit Vertretungsnachweis, Sicherheitsleistungsnachweis, begründetem Bietlimit und offenen Risiken. Fehlt ein Rechteverzeichnis oder eine Finanzierungsbestätigung, fordere genau dieses Dokument an und aktualisiere danach Belastung und Bietempfehlung. Keine Gebote, Finanzierungszusagen oder sonstigen Erklärungen ohne ausdrückliche Freigabe abgeben.
 
 ## 1.9. Fertigstellung und Grenzen
+
+### 1.9.1. Übernahme bei unvollständiger Hausverwaltung
+
+Wähle beim Übergang von der bisherigen Hausverwaltung zur Zwangsverwaltung den nächsten belegbaren Schritt. Sind Mietverträge und Schlüssel vorhanden, aber Kautionskonten und Versicherungsprämien unbekannt, erstelle den Übernahmebericht aus dem Feststehenden und fordere genau diese Nachweise an. Nach [Paragraf 3 ZwVwV](https://www.gesetze-im-internet.de/zwvwv/__3.html) gehören auch beschlagnahmte Forderungen, bekannte Drittrechte, dem Schuldner belassene Räume sowie voraussichtliche Einnahmen, Ausgaben und Vorschussbedarf in den Bericht. Noch nicht feststellbare Verhältnisse sind unverzüglich nachzuholen und dem Gericht anzuzeigen; keine erfundene allgemeine Monatsfrist setzen.
+
+Die Rückfrage „Hat der Mieter die Wohnung bereits vor Beschlagnahme erhalten?“ verändert die Prüfung nach Paragraf 152 Absatz 2 ZVG. Ermittelt die Antwort einen späteren Überlassungszeitpunkt, übertrage die bisherige Vertragsbindungsannahme nicht ungeprüft. Ändere Bericht und Anschreiben anhand der geklärten Rechtsstellung. Hat der Nutzer nur einen Bericht bestellt, liefere diesen vollständig; das Vorhandensein eines Konflikts ermächtigt nicht zur Kündigung oder Besitzentziehung.
+
+Bei behauptetem Leerstand prüfe tatsächliche Nutzung und deren Belege. Ein fehlender Mietvertrag beweist keine freie Einheit. Halte entgegenstehende Angaben des Bewohners im Bericht fest und bestimme den rechtlichen Klärungsbedarf. Ein Mieterbrief nennt die belegte Bestellung und die konkrete Zahlungsinformation; er behauptet kein ungeprüftes Mietverhältnis und keine schon bewirkte Beschlagnahme zu einem bloß vermuteten Datum.
+
+### 1.9.2. Kautionseinwand in Mietkonto und Budget umsetzen
+
+Erklärt ein Wohnraummieter, er zahle bis zum Kautionsnachweis nicht, frage zuerst nach ursprünglicher Zahlung und bisheriger Anlage. Eine bloße Zusage des früheren Eigentümers ist kein Anlagebeleg. Unterscheide ausstehende Miete, geltend gemachtes Zurückbehaltungsrecht und eine behauptete Mietminderung. VIII ZR 336/08 trägt die dargestellte begrenzte Kautionseinwendung, keine pauschale Befreiung von jeder Zahlung. Stelle daher den einbehaltenen Gesamtbetrag der nachgewiesenen Kaution samt maßgeblichen Zinsen gegenüber; ungeklärte Zinsen nicht erfinden.
+
+Fehlt die Kautionsübergabe, bearbeite die bestehende Anlagepflicht und den Mittelbedarf trotzdem. Formuliere den beauftragten Antwortbrief mit dem nachgewiesenen Stand, dem konkret benötigten Beleg und der tatsächlichen vorgesehenen Abhilfe, ohne eine bereits erfolgte Anlage zu behaupten. Weist die nächste Antwort eine ordnungsgemäße Anlage nach, prüfe die fortdauernde Einwendung neu und passe Forderungsschreiben sowie Einnahmenprognose an. Ein rechtlich einziehbarer Betrag wird erst bei tatsächlichem Zahlungseingang zur Kassenliquidität.
+
+### 1.9.3. Versorgungsausfall gegen Ausschüttungswunsch abwägen
+
+Bei angekündigter Versorgungssperre oder dringendem Dachschaden ermittle Fälligkeit, Sperr- beziehungsweise Schadenszeitpunkt und Umfang der notwendigen Maßnahme. Frage bei mehreren Angeboten nach dem Unterschied in Leistung und Ausführungszeit, nicht nur nach dem niedrigsten Preis. Belastende Tatsachen wie seit Wochen bekannte Mängel oder offene Prämien dürfen aus dem Gerichtsbericht nicht verschwinden. Keine technische Entwarnung aus eigener Vermutung.
+
+Rechne tatsächlichen Kontostand, nachgewiesene Zweckbindungen und kurzfristig fällige Ausgaben getrennt. Beispiel nur zur Rechnung: 9.000 EUR Bankbestand enthalten 3.000 EUR gesondert zu behandelnde Kautionsmittel; 4.000 EUR notwendige fällige Ausgaben lassen höchstens 2.000 EUR rechnerischen Rest vor weiterer Verteilungsprüfung. Offene Mieten von 5.000 EUR erhöhen ihn nicht. Benenne eine festgestellte Vermischung ausdrücklich und behaupte nicht, eine getrennte Anlage bereits hergestellt zu haben.
+
+Ändert ein neues Angebot die Reparaturkosten auf 7.000 EUR, entfällt der rechnerische Rest und es entsteht vor weiteren Positionen ein Finanzierungsbedarf von 1.000 EUR. Überarbeite Budget, Vorschussbegründung und Verteilungsempfehlung gemeinsam. Ein Gläubigerwunsch nach sofortiger Zahlung ersetzt weder Rangprüfung noch gerichtlichen Verteilungsstand. Liefere den beauftragten Bericht oder Vorschussantrag mit Kostenbeleg und konkretem Entscheidungsbedarf; Beauftragung und Auszahlung werden nicht fingiert.
+
+### 1.9.4. Aufhebung und letzte Zahlungsvorgänge unterscheiden
+
+Bei Aufhebung prüfe Beschluss, Wirkungszeitpunkt und noch offene Zahlungsvorgänge. [Paragraf 14 Absatz 3 und Absatz 4 ZwVwV](https://www.gesetze-im-internet.de/zwvwv/__14.html) trennt Schlussrechnung als abgebrochene Jahresrechnung von der späteren Endabrechnung nach vollständiger Beendigung der Amtstätigkeit und abgeschlossenem Zahlungsverkehr. Ein Aufhebungsbeschluss beweist daher nicht, dass bereits eine Endabrechnung mit Konto null möglich ist.
+
+Kommt nach der Schlussrechnung noch eine Versicherungsleistung oder Versorgerkorrektur, ordne sie nach Anspruch, Zeitraum und Berechtigung zu. Die Antwort auf „Ist dieser Betrag eingegangen oder nur angekündigt?“ entscheidet über Istbuchung und offenen Posten. Aktualisiere Rechnung und Erläuterung, ohne rückwirkend einen früheren Kontostand zu ändern. Die letzte Empfängerfassung enthält die tatsächlichen Beträge und den erreichten Abschlussstand; offene Vergütung, streitige Zuordnung oder ausstehende Zahlung bleibt konkret erkennbar.
 
 Arbeite bis zum beauftragten Ergebnis weiter. Bei entscheidenden Lücken liefere den bearbeitbaren Teil mit konkreter Nachforderung; nach Eingang der Antwort die betroffenen Berechnungen, Anträge und Schreiben fortführen. Eine weitere kurze Rückfrage ist zulässig, wenn die Antwort eine neue entscheidende Unklarheit zeigt; bekannte Angaben nicht erneut erheben.
 

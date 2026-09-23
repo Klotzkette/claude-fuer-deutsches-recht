@@ -1,8 +1,23 @@
 {
   "schema_version": 1,
   "plugin": "verbraucherschutzverband-durchsetzung",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/vdug/__4.html",
+      "checked_on": "2026-09-23",
+      "supports": "Nach Web-Timeout amtlichen Volltext direkt gelesen: nachvollziehbar mögliche Betroffenheit von 50 Verbrauchern, Finanzierungsverbote einschließlich mehr als 10 Prozent sowie eigenständige Einfluss-/Abhängigkeitsprüfung und Offenlegung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vdug/__15.html",
+      "checked_on": "2026-09-23",
+      "supports": "Nach Web-Timeout amtlichen Volltext direkt gelesen: wesentliche Gleichartigkeit und Darstellung der Methode bei unterschiedlichen Einzelbeträgen eines kollektiven Gesamtbetrags."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vdug/__46.html",
+      "checked_on": "2026-09-23",
+      "supports": "Nach Web-Timeout amtlichen Volltext direkt gelesen: Anmeldung/Rücknahme bis drei Wochen nach Schluss der mündlichen Verhandlung, ausdrücklicher Ausschluss von Paragraf 193 BGB und keine inhaltliche Prüfung bei Registereintragung."
+    },
     {
       "url": "https://www.gesetze-im-internet.de/vdug/__15.html",
       "checked_on": "2026-09-14",
@@ -12,15 +27,41 @@
       "url": "https://www.gesetze-im-internet.de/vdug/BJNR1100B0023.html",
       "checked_on": "2026-09-14",
       "supports": "Amtlicher Suchauszug zu Paragraf 4: nachvollziehbar mögliche Betroffenheit von mindestens 50 Verbrauchern; gesonderte Drittfinanzierungsgrenzen."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62022CJ0757",
+      "checked_on": "2026-09-22",
+      "supports": "Verletzte Informationsrechte als Gegenstand datenschutzbezogener Verbandsklage einordnen. Amtlicher Volltext Rn. 40–44 und 61–65 gelesen; kein pauschaler Zugang zu kollektiven Zahlungsansprüchen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__356a.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aktueller amtlicher Normtext zur elektronischen Widerrufsfunktion gelesen; von Kündigung getrennt."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Mini vollständig gelesen; Anspruchsgruppen, Quorum und Berechnung waren fachlich konkret, die Fortsetzung nach fehlenden Belegen und der Ausgabevorrang fehlten.",
+    "reason": "Am 23.09.2026 vollständig erneut gelesen: selbständige Einstiegswege für Unterlassung, Abhilfeentscheidung und Verbraucherinformation; nachgereichte Erstattungen ändern Gruppe, Summe und Antrag. Bisherigen Datenschutzanker begrenzt erhalten, kein Live-Client-Test.",
     "changes": [
-      "Vertragsfassung, Zahlung und Verbandsqualifikation gezielt nachfordern; danach Gruppe, Betrag und bestelltes Dokument aktualisieren, Entscheidungsvorlage nicht mehr zwingend."
+      "Drei Startmodi und konkrete Fortsetzung nach Erstattungen oder neuer Vertragsfassung ergänzt.",
+      "Verbandsqualifikation mit konkreten Normen statt bloßem Gesetzesverweis unterlegt.",
+      "Datenschutzbezogene Verbandsklage von kollektivem Schadensersatz abgegrenzt.",
+      "Button- und Probeaboanker im Werkstatttext verifiziert; sämtliche vorhandenen Serienfallgruppen erhalten.",
+      "Elektronischen Widerruf nach Paragraf 356a BGB von Kündigung abgegrenzt."
     ],
-    "sha256": "6cb8ea548fa6aafe561ca3f82def729cb13a28dc5d00608197dedcde589949d2"
+    "sha256": "f6366c6311a30e0fc11cccd2d998709896c175f4f47ac8cfaee395612b35af96"
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Unterlassungsabmahnung, Entscheidungsvorlage zur Abhilfegruppe oder Verbraucherinformation anbieten.",
+      "Dateien ohne Auftrag: Qualifikation, Vertragsfassungen und Beschwerden still lesen; bei offenem Ziel passende Unterlassungs- oder Leistungsdokumente anbieten.",
+      "Klarer Auftrag: sofort am Dokument arbeiten; nur entscheidende Gruppenmerkmale, Qualifikation, Finanzierung oder Fristauslöser klären."
+    ],
+    "continuation": "Erstattungsbeleg -> neue Gruppensumme und Antragspassage; abweichende Klauselfassung -> getrennte Gruppendefinition; Verhandlungsschluss -> korrigierte Registerfrist in der Verbraucherinformation.",
+    "enrichment": "Konkreter Verarbeitungsvorgang für Datenschutzunterlassung, gruppenbezogene Gegenbelege und Rechenmethode, abgestellte Klausel, Finanzierereinfluss und Registerfrist bis zum gewählten Dokument ausgearbeitet.",
+    "limits": "desk review; no live client execution"
   },
   "selection": {
     "positive": [
@@ -68,10 +109,42 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt vollständig einschließlich sämtlicher Serienfälle geprüft; generische Klauselprüfung ersetzte teilweise die eigenständige Prüfung der Klageberechtigung.",
+    "reason": "Am 23.09.2026 vollständig erneut gelesen: Datenschutzvortrag, Gruppenabgrenzung, konkrete Rechenmethode, Gegenäußerung, Finanzierungsänderung und Registerfrist führen zu überarbeiteten Anträgen und Verbrauchertexten. Vorhandene Serienfallgruppen und Entscheidungslimits bleiben erhalten.",
     "changes": [
-      "Verbandsberechtigung, materielle Ansprüche, Gruppenbildung, Klageziel und Kommunikation getrennt; Bank-, Energie-, Fitness-, Flug-, Plattform-, Abo- und Dieselfälle mit ihren vorhandenen Fachfragen erhalten."
+      "Anspruchsgruppen und kollektiver Gesamtbetrag anhand von Dubletten, Erstattungen und Vertragsabweichungen ausgearbeitet.",
+      "Finanzierungsverbote und Offenlegung sowie Dreiwochenfrist ab Verhandlungsschluss ohne Paragraf-193-Verschiebung aus aktuellen amtlichen Texten integriert.",
+      "Verbandsqualifikation mit konkreten Normen statt bloßem Gesetzesverweis unterlegt.",
+      "Datenschutzbezogene Verbandsklage von kollektivem Schadensersatz abgegrenzt.",
+      "Button- und Probeaboanker im Werkstatttext verifiziert; sämtliche vorhandenen Serienfallgruppen erhalten.",
+      "Elektronische Widerrufsfunktion und ihren Nachweis eigenständig eingeordnet."
     ],
-    "sha256": "d1787b08203f17aaeaf77b46261541766b1e344dd0e16b6ef94bf36e34e5b4d6"
+    "sha256": "fbaa622e5f17a923c4f54418f4fc89a83efbd1231acb50fc2c68f3e8037b7b42"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "verbraucherschutzverband-durchsetzung/verbraucherschutzverband-durchsetzung-werkstatt.md",
+      "verbraucherschutzverband-durchsetzung/verbraucherschutzverband-durchsetzung-schnellstart.md"
+    ],
+    "opening_change": "Konkret untersagbare Praxis und gemeinsam verfolgbare Verbraucheransprüche statt abstraktem Aufbau einer Verbandsakte.",
+    "norms": [
+      "Paragrafen 3 und 4 UKlaG",
+      "Paragraf 8 Absatz 3 UWG",
+      "Paragrafen 2, 4 und 15 VDuG",
+      "Artikel 12, 13 und 80 Absatz 2 der Verordnung (EU) 2016/679",
+      "Paragraf 356a BGB"
+    ],
+    "decisions": [
+      {
+        "citation": "EuGH, Urteil vom 11. Juli 2024, C-757/22",
+        "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62022CJ0757",
+        "application": "Verletzte Informationsrechte als Gegenstand datenschutzbezogener Verbandsklage einordnen.",
+        "limit": "Amtlicher Volltext Rn. 40–44 und 61–65 gelesen; kein pauschaler Zugang zu kollektiven Zahlungsansprüchen."
+      }
+    ],
+    "remaining_limits": [
+      "Workflow-Review: Paragrafen 4, 15 und 46 VDuG aktuell vollständig gelesen. Bestehende EuGH-Anker in ihren Grenzen erhalten, keine neue vollständige Fallprüfung behauptet; keine flächendeckende Neuprüfung von Diesel-, Energie-, Banken- oder Registerpraxis.",
+      "Keine Live-Modellprüfung; Quellen- und Vertragsfassung für den Einzelfall erneut abgleichen."
+    ]
   }
 }

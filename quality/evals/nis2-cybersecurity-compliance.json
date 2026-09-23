@@ -1,21 +1,58 @@
 {
   "schema_version": 1,
   "plugin": "nis2-cybersecurity-compliance",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/bsig_2025/__32.html",
       "checked_on": "2026-09-14",
       "supports": "Meldekaskade und unterschiedliche zeitliche Anknüpfungen."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62021CJ0340",
+      "checked_on": "2026-09-22",
+      "supports": "EuGH, Urteil vom 14. Dezember 2023, C-340/21, Natsionalna agentsia za prihodite, Randnummern 30 bis 47 und 57. Anwendung: Datenabfluss beweist nicht automatisch unzureichende Sicherheit; konkrete Maßnahmen und Umsetzung prüfen, Nachweislast des Verantwortlichen im Artikel-82-Verfahren beachten. Grenze: DSGVO-Urteil, keine unmittelbare Auslegung von BSIG-Sektoren oder NIS-2-Meldezeiten."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bsig_2025/__28.html",
+      "checked_on": "2026-09-22",
+      "supports": "Sektorale Abgrenzung und Ausnahmen in Absätzen 5 bis 7."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bsig_2025/__30.html",
+      "checked_on": "2026-09-22",
+      "supports": "Risikomanagementmaßnahmen nach Risiko, Verhältnismäßigkeit und tatsächlicher Umsetzung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bsig_2025/__32.html",
+      "checked_on": "2026-09-22",
+      "supports": "Gestufte Meldung mit Frühwarnung, Vorfallmeldung und Abschlussbericht; laufende Vorfälle gesondert."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bsig_2025/__32.html",
+      "checked_on": "2026-09-23",
+      "supports": "Nach Browserfehler direkter amtlicher Volltextabruf: Inhalte der Erst- und Folgemeldung, Monatsfrist ab tatsächlicher Übermittlung der Folgemeldung und Fortschrittsmeldung bei laufendem Vorfall."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bsig_2025/__30.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlichen Volltext direkt erneut gelesen: geeignete, verhältnismäßige, wirksame und dokumentierte Maßnahmen; keine Gleichsetzung von Konzept, Beschaffung und tatsächlicher Wirksamkeit."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bsig_2025/__28.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlichen Normtext erneut geöffnet: Betreiber, Tätigkeiten, Gruppenangaben und Umfang der sektoralen Ausnahmen als Weichen im Mischbetrieb."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der ganze Mini wurde auf Kenntniszeitpunkt, Meldestufen und tatsächlichen Incident-Stand geprüft.",
+    "reason": "Mini vollständig erneut im Desk Review gelesen: Betroffenheit, Meldung und Leitungsbericht als konkrete Einstiege; frühere Kenntnis und begrenzter Wiederherstellungstest ändern die betroffenen Dokumente. Kein Live-Modelltest.",
     "changes": [
-      "Nach technischen Erkenntnissen Risikobewertung und vorbereitete Meldung aktualisieren; keine erfolgte Übermittlung behaupten."
+      "Paragraf 28 Absätze 5 bis 7 BSIG als sektorale Weichen ergänzt.",
+      "C-340/21 auf risikogerechte Maßnahmen und deren tatsächliche Umsetzung begrenzt.",
+      "Stille Unterlagensichtung, sofortige Bearbeitung klarer Meldeaufträge und pfadbezogene Fortsetzung ohne vorausgesetzten Systemzugriff ergänzt."
     ],
-    "sha256": "bf3b711884369985016e6a6b6adbee0391d596075d87f3c85b9b4533dc80f73e"
+    "sha256": "689aa5acbaff43cac877c900894f3f3a21cbe864dd8060f0f80e481e7ec4177c"
   },
   "selection": {
     "positive": [
@@ -63,10 +100,53 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die vollständige Werkstatt wurde einschließlich KRITIS, Cloud, DORA, Backups und Forensik gelesen.",
+    "reason": "Vollständiger erneuter Desk Review mit individuellen Verzweigungen für Mischbetrieb, Kenntnisbeleg, Meldestufe und Sicherheitsnachweis; bestehende DSGVO-Grenzen erhalten. Keine System-, Portal- oder Mandatsausführung.",
     "changes": [
-      "Aktuelle BSIG-Aufgaben statt pauschaler Altverweise; NIST-CSF-Governance und fortdauernde Vorfälle passend eingeordnet."
+      "Paragraf 28 Absätze 5 bis 7 BSIG als sektorale Weichen ergänzt.",
+      "C-340/21 auf risikogerechte Maßnahmen und deren tatsächliche Umsetzung begrenzt.",
+      "Mischbetriebe, widersprechende Kenntnistickets und tatsächliche Übermittlung als Fristauslöser konkretisiert.",
+      "Meldestufeninhalt, MFA-Ausnahmen, befristete Abhilfeentscheidung und Datenbank-Restore gegenüber vollständigem Dienstwiederanlauf ergänzt."
     ],
-    "sha256": "73f2ccd698aed9728f20db469d1d291f10304695b1e37c3ce69a10acfdcf0f45"
+    "sha256": "19f9a2ea670f505d0f09dfa4da31cc8c368a759b32943b501f55872487ce6ce2"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "method": "desk_review",
+    "files": [
+      "nis2-cybersecurity-compliance/README.md",
+      "nis2-cybersecurity-compliance/nis2-cybersecurity-compliance-werkstatt.md",
+      "nis2-cybersecurity-compliance/nis2-cybersecurity-compliance-schnellstart.md",
+      "quality/evals/nis2-cybersecurity-compliance.json"
+    ],
+    "opening_change": "Betroffene Einrichtung, Kenntniszeit und konkrete Cyber-Meldung oder Sicherheitslücke bestimmen.",
+    "norms": [
+      "Paragrafen 28, 30 und 32 BSIG",
+      "Artikel 24, 32 und 82 DSGVO"
+    ],
+    "decisions": [
+      {
+        "citation": "EuGH, Urteil vom 14. Dezember 2023, C-340/21, Natsionalna agentsia za prihodite, Randnummern 30 bis 47 und 57",
+        "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62021CJ0340",
+        "application": "Datenabfluss beweist nicht automatisch unzureichende Sicherheit; konkrete Maßnahmen und Umsetzung prüfen, Nachweislast des Verantwortlichen im Artikel-82-Verfahren beachten.",
+        "limit": "DSGVO-Urteil, keine unmittelbare Auslegung von BSIG-Sektoren oder NIS-2-Meldezeiten."
+      }
+    ],
+    "remaining_limits": [
+      "DSGVO-Rechtsprechung entscheidet keine NIS-2-Meldefrist; technische Wirksamkeit, Sektorzugehörigkeit und Spezialregime bleiben fallbezogen.",
+      "Desk-/Quellenreview, kein Live-Client- oder Modelltest. Bestehende Auswahl- und Ergebnisfälle unverändert erhalten.",
+      "Workflow-Nachprüfung 2026-09-23: alle bisherigen Profilquellen erneut geöffnet; BSIG 30 und 32 nach Browserfehler direkt amtlich gelesen, einschlägige EuGH-Passagen erneut eingesehen. Kein neues NIS-2-Urteil, keine Vollprüfung sämtlicher sektoraler Vorschriften, technischen Wirksamkeitsnachweise oder Meldeportale. Quellenreview vom 2026-09-22 bleibt als Vorbefund erhalten."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: BSIG-Betroffenheit, Vorfallmeldung oder Maßnahmen und Leitungsentscheidung wählen.",
+      "Nur Dateien: Dienstbeschreibung, Ticket und Nachweise still lesen; nur gewünschtes Dokument klären.",
+      "Klarer Auftrag: unmittelbar am bestellten Ergebnis arbeiten, bei Fristdruck am Meldeentwurf; nur entscheidende Kenntnis- oder Einordnungslücke fragen."
+    ],
+    "continuation": "Früheres Kenntnisticket ändert Chronologie und Fristen in erstmeldung.md; bestätigte Übermittlung korrigiert die Abschlussfrist, begrenzter Restore-Test nur den betroffenen Systemstatus in massnahmenplan.md.",
+    "enrichment": "Mischbetrieb und Sektorausnahmen, konkurrierende Zeitbelege, Inhalt und Fortschreibung der Meldestufen, MFA-Ausnahme und Leitungsvorlage, nachgewiesener Wiederanlauf statt bloßem Backupplan.",
+    "limits": "desk review; no live client execution"
   }
 }

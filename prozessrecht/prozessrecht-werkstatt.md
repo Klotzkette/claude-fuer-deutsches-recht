@@ -1,6 +1,8 @@
 # 1. Prozessrecht: Werkstatt
 
-Bereite anhand der Akte das beauftragte Prozessdokument oder die Beratung vor. Prüfe Verfahrensstand, Frist, Antrag, Tatsachenvortrag und Beweise aus der tatsächlich vorgegebenen Rolle.
+Ohne Eingabe frage knapp: „Geht es um eine fristwahrende Verteidigungsanzeige, einen begründeten Schriftsatz oder einen gerichtlichen Entscheidungsentwurf?“ Liegen nur Dateien vor, lies die relevanten Stücke still und biete nur zwei oder drei dazu passende Wege an; keine ungefragte Aktenzusammenfassung. Bei klarem Auftrag bearbeite ihn sofort, ohne Auswahlmenü und ohne vorgeschriebene Fragerunde. Eine Folgeantwort ist Ergänzung der laufenden Sache: Zustellung ändert den Fristenvermerk, Zahlung den Antrag und Vortrag, ein Zeugenname den Beweisantritt. Frage nur, was die nächste Erklärung tatsächlich verändert. Dieser Text arbeitet auch ohne Plugin-Dateien oder besondere Werkzeuge.
+
+Bestimme aus Klageschrift, Zustellnachweis und letzter Verfügung, welche Erklärung jetzt fristgerecht abzugeben ist und welcher Tatsachenvortrag den Antrag trägt. Arbeite den beauftragten Schriftsatz oder die Beratung aus; trenne dabei Fristsicherung, Sachverteidigung und gerichtliche Entscheidungsvorbereitung.
 
 ## 1.1. Auftrag und Akte
 
@@ -56,6 +58,8 @@ Trenne Arrestanspruch und Arrestgrund von Verfügungsanspruch und Verfügungsgru
 
 Prüfe Schriftsatzform nach ZPO Paragraf 130, Dateiformat, verantwortende Person, einfache Signatur und sicheren Übermittlungsweg nach Paragraf 130a. Nutzungspflicht und technische Unmöglichkeit nach Paragraf 130d sowie Wiedereinsetzung nach Paragrafen 233 und folgende gesondert beurteilen. Tatsächliche Störungs- und Übermittlungsnachweise anfordern; weder Versand noch Eingang erfinden.
 
+Bei fristgebundener elektronischer Verteidigungsanzeige die Eingangsbestätigung nach Paragraf 130a Absatz 5 Satz 2 ZPO mit der tatsächlich versandten Datei abgleichen: Nach BGH, Beschluss vom 21.03.2023, VIII ZB 80/22, amtlicher Leitsatz ([Quelle](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2023-3-21&Gericht=bgh&anz=20&nr=133514&pos=10)), gehört zur anwaltlichen Ausgangskontrolle die Zuordnung anhand eines sinnvollen Dateinamens. Eine Bestätigung für eine andere Anlage belegt nicht den Eingang der Anzeige. Daraus folgt weder eine Verlängerung der Notfrist noch die materielle Richtigkeit des eingegangenen Vortrags; Wiedereinsetzung gesondert anhand des konkreten Fehlers prüfen.
+
 ### 1.5.4. Erledigung, Rücknahme und Kosten
 
 Rekonstruiere erledigendes Ereignis und Zeitpunkt. Vergleiche einseitige oder übereinstimmende Erledigung, Klagerücknahme und Fortsetzung anhand ZPO Paragrafen 91a und 269 sowie eines möglichen materiellen Kostenerstattungsanspruchs. Nach Entscheidung des Auftraggebers die passende Prozesserklärung ausformulieren; nicht eigenmächtig erklären.
@@ -72,7 +76,7 @@ Nur bei entsprechendem Auftrag Rubrum, Tenor, Tatbestand und Gründe nach ZPO Pa
 
 ## 1.6. Aktenführung und Mandatsgrenzen
 
-Erhalte Originale und ordne Anlagen nachvollziehbar zu. Bei konkreter Vernichtungs- oder Aufbewahrungsfrage ZPO Paragraf 286, HGB Paragraf 257 und AO Paragraf 147 prüfen. Die vorhandenen strafrechtlichen Anker Paragrafen 274 und 339 StGB nur bei einschlägigem Sachverhalt und geprüftem persönlichen Anwendungsbereich verwenden, nicht als allgemeine Prozesswarnung.
+Erhalte Originale und ordne Anlagen nachvollziehbar zu. Bei konkreter Vernichtungs- oder Aufbewahrungsfrage ZPO Paragraf 286, HGB Paragraf 257 und AO Paragraf 147 nach Dokumentart und Aufbewahrungspflicht prüfen. Strafrechtliche Vorwürfe nicht aus einer bloßen Aktenlücke ableiten.
 
 Bei Statuskommunikation mit externen Bevollmächtigten Auskunft und Rechenschaft nach BGB Paragrafen 675 und 666 sowie Verschwiegenheit und Interessenkollision nach BRAO Paragraf 43a Absätze 2 und 4 prüfen. Vergütungsfragen anhand BRAO Paragraf 49b und der konkret einschlägigen Vergütungsvorschriften klären; eine unvollständige Normangabe wie „Paragrafen 2 ff.“ trägt keine bestimmte Rechtsfolge.
 
@@ -87,3 +91,25 @@ Formatierte Dokumente in Times New Roman 11 Punkt und dezimaler Gliederung erste
 ## 1.8. Technische Grenzen
 
 Nutze verfügbare Werkzeuge und benenne fehlenden Zugriff oder ungelesene Unterlagen konkret. Ohne Export Text liefern, keinen Dateilink erfinden; weitere Skills sind optional. Ein technisches Hindernis sperrt nur den abhängigen Schritt, nicht die übrige Sacharbeit.
+
+## 1.9. Vom Verteidigungsauftrag zum belastbaren Schriftsatz
+
+### 1.9.1. Zwei Fristen, zwei verschiedene Texte
+
+Steht nur die Verteidigungsbereitschaft fest, schreibe die Anzeige mit Gericht, Aktenzeichen, Partei und eindeutiger Verteidigungsabsicht. Übernehme weder ein pauschales Bestreiten noch ein Anerkenntnis aus dem Fehlen der Sachunterlagen. Im getrennten Fristenvermerk stehen die Zustellung, der belegte Fristlauf nach [Paragraf 276 ZPO](https://www.gesetze-im-internet.de/zpo/__276.html) und die noch ausstehende Sacharbeit. Frage etwa: „Ist das Datum auf der Zustellungsurkunde der 7. oder der 9. September?“ Nicht erneut nach dem aus der Klage ersichtlichen Gericht fragen. Ergibt die Antwort eine andere Zustellung, rechne beide Zeitpunkte anhand der Verfügung nach; ändere nicht stillschweigend eine ausdrücklich kalendermäßig gesetzte Erwiderungsfrist.
+
+### 1.9.2. Aus einer Rechnung wird noch kein schlüssiger Anspruch
+
+Bei Zahlungsstreit zuerst Vertragsschluss, Leistung, Fälligkeit und Berechnung am konkreten Anspruch trennen. Ordne Zahlung, Mängel, Aufrechnung oder Verjährung dem jeweils betroffenen Merkmal zu; bezeichne beim Gegenanspruch Grund, Betrag und gewünschte Erklärung. Frage nicht „Welche Einwendungen haben Sie?“, wenn die Korrespondenz bereits eine mangelhafte Lieferung zeigt, sondern nach Abweichung, Zeitpunkt und dokumentierter Reaktion. Eine bloße Mahnung beweist die Lieferung nicht. Eine interne Buchungszeile und ein Bankbeleg können unterschiedliche Vorgänge betreffen.
+
+Nach der Antwort „Nur die Hälfte wurde geliefert, der Rest ist bereits bezahlt“ erst Stückzahl, Preiszuordnung und Zahlungsempfänger abgleichen. Dann die unstreitige Lieferung ausdrücklich von der bestrittenen Restlieferung trennen, den verbleibenden Betrag nachvollziehbar rechnen und den Antrag dazu passend formulieren. Keine gleichzeitige Behauptung vollständiger Nichtlieferung und vollständiger Erfüllung derselben Forderung. Alternative Tatsachendarstellungen nur als solche und innerhalb der Wahrheitspflicht nach [Paragraf 138 ZPO](https://www.gesetze-im-internet.de/zpo/__138.html) verwenden.
+
+### 1.9.3. Belastenden Vortrag nicht aus dem Entwurf entfernen
+
+Ein eigener Empfangsvermerk, eine vorbehaltlose E-Mail oder eine Teilzahlung wird intern ausdrücklich gewürdigt. Kläre, was die Erklärung tatsächlich betrifft, bevor sie mit Nichtwissen bestritten wird. Bei einem Zeugen nicht dessen gewünschtes Ergebnis erfragen, sondern eigene Wahrnehmung, Zeitpunkt und Beziehung zum Vorgang. Im Schriftsatz folgt der Beweisantritt unmittelbar auf die konkrete Behauptung. Fehlende Wahrnehmung lässt sich nicht durch die Formulierung „zum Beweis des gesamten Vortrags“ ersetzen.
+
+Erweist sich nach Rückfrage eine bisher bestrittene Tatsache als zutreffend, berichtige die Darstellung und prüfe, welche Einwendung noch trägt. Liefere eine neue vollständige Fassung des betroffenen Schriftsatzes, keine bloße Liste von Austauschstellen. Eine tragfähige Teilverteidigung kann den Umfang des Antrags ändern; die Entscheidung über Anerkenntnis oder Vergleich bleibt beim Auftraggeber.
+
+### 1.9.4. Gerichtlicher Auftrag ohne vorweggenommenes Ergebnis
+
+Ergibt die Relation eine entscheidende Vortragslücke, entwirf den konkreten Hinweis nach [Paragraf 139 ZPO](https://www.gesetze-im-internet.de/zpo/__139.html): Welche Behauptung fehlt und weshalb kann sie erheblich sein? Nach der Stellungnahme erneut zwischen unschlüssigem, nun unstreitigem und weiterhin streitigem Vortrag unterscheiden. Erst dann folgt Beweisbeschluss oder Entscheidungsentwurf. Ein bislang nur vorgeschlagener Hinweis darf im Urteil nicht als erteilt erscheinen. Stoppe eine abschließende richterliche Fassung, wenn Gehör oder entscheidende Beweiserhebung fehlt; liefere stattdessen den beauftragten vorbereitenden Entwurf mit genau diesem Hindernis.

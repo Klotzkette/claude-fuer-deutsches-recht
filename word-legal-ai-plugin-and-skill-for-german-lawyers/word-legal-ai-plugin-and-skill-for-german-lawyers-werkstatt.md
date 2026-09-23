@@ -1,12 +1,12 @@
-# Juristische Dokumente entwerfen, überarbeiten und in Word fertigstellen
+# 1. Juristische Dokumente entwerfen, überarbeiten und in Word fertigstellen
 
 ## 1. Mit der maßgeblichen Fassung beginnen
 
-Bearbeite das verlangte Dokument bis zur vollständigen, lesbaren Fassung. Verträge, Schriftsätze, Mandantenbriefe, interne Gutachten und Änderungsfassungen haben unterschiedliche Zwecke. Liefere nicht anstelle eines beauftragten Schreibens nur eine Analyse oder die Empfehlung, ein Schreiben zu verfassen.
+Setze die vereinbarten Vertragsänderungen, freigegebenen Kommentare oder den belegten Prozessvortrag in eine vollständige juristische Fassung um. Gleiche dabei Klauseln, Definitionen und Anlagen miteinander ab und stelle die verlangte Lesefassung, Kommentarfassung oder echte Word-Revision her. Bei einem Gutachten beantworte die Rechtsfrage mit begründeter Empfehlung; bei einem Schreiben liefere dessen Wortlaut, nicht nur den Vorschlag, es zu verfassen.
 
 Lies die bezeichnete Ausgangsdatei und die hierfür maßgeblichen Anlagen, das Term Sheet oder die bisherigen Kommentare. Übernimm bekannte Angaben aus dem Auftrag. Erstelle ein Dokumentenregister nur, wenn der Umfang oder ein Versionskonflikt dies erfordert. Bei einem einzelnen Vertragsentwurf ist eine vorgelagerte Inventarliste regelmäßig entbehrlich.
 
-Fehlt der Auftrag, benenne kurz, welche Bearbeitung das Material nahelegt, und kläre das gewünschte Ergebnis. Fehlen Unterlagen, frage nach der Ausgangsfassung und dem konkreten Änderungsziel. Stelle keine allgemeinen Fragen nach Rolle, Frist oder Stil, wenn diese bereits feststehen.
+Bei leerer Eingabe biete drei Dokumentwege an: eine kurze Änderungsvereinbarung, eine Vertragsfassung mit eingearbeiteten Kommentaren oder eine bereinigte Schriftsatzfassung zur Versandvorbereitung. Dateien ohne Aufgabe zunächst still lesen; nur bei weiterhin unklarem Ziel zwei oder drei passende Wege anbieten, ohne Materialauswurf. Bei klarem Auftrag sofort mit dem Text beginnen und nur entscheidende Unbekannte erfragen. Eine Folgeantwort wird in die bestehende Fassung und ihre abhängigen Verweise eingearbeitet; keine künstliche Bestätigungsrunde vor jedem Absatz.
 
 ### 1.1. Original, Arbeitsfassung und Zielfassung unterscheiden
 
@@ -62,19 +62,43 @@ Ordne jeden Kommentar seiner Textstelle und seinem Absender zu. Unterscheide fre
 
 Nach einer Antwort arbeite die gewählte Variante in den Text ein. Prüfe mitbetroffene Definitionen, Anlagen, Beträge, Termine und Querverweise. Bereits erledigte Punkte bleiben übernommen; neue entscheidende Fragen dürfen gezielt geklärt werden.
 
+Wird etwa ausschließlich der Abgabetermin in Ziffer 4 vom 30. September auf den 15. Oktober verschoben, ändere diesen Termin und tatsächlich davon abhängige Verweise. Füge weder eine neue Haftungsbegrenzung noch eine Gerichtsstandsklausel hinzu. Soll eine kurze Änderungsvereinbarung entstehen, bezeichne Parteien und Ausgangsvertrag, formuliere die einzelne Änderung und den unveränderten Fortbestand der übrigen Regelungen sowie passende Unterschriftsfelder.
+
 Bei echter Änderungsverfolgung verwende die entsprechenden Dokumentfunktionen. Farbiger Text, Durchstreichen oder eine Tabelle „alt/neu“ ist keine echte Word-Revision. Ist Änderungsverfolgung technisch nicht möglich, liefere nach ausdrücklicher Kennzeichnung eine alternative Vergleichsdarstellung, nicht eine falsch bezeichnete Redline.
 
 Kommentare erst entfernen, wenn ihr Inhalt bearbeitet oder ihre Behandlung entschieden ist. Für die saubere Empfängerfassung eine eigene Kopie erzeugen. Interne Verhandlungsoptionen und Recherchevermerke nicht versehentlich in diese Fassung übernehmen.
 
-## 4. Word-Struktur und Gestaltung
+## 4. Änderungen umsetzen und Word-Fassung gestalten
 
-### 4.1. Formatvorlagen und Gliederung
+### 4.1. Vom Kommentar zur eindeutigen Vertragsregelung
+
+Ein Kommentar „Haftung auf Jahresvergütung begrenzen“ beantwortet noch nicht, welches Jahr, welche Vergütungsbestandteile und welcher Schadensumfang gemeint sind. Lies zuerst die Vergütungsdefinition und die vorhandenen Ausnahmen. Frage nur nach der verbleibenden wirtschaftlichen Entscheidung, etwa Kalenderjahr oder letzte zwölf Vertragsmonate. Formuliere nach Antwort den Berechnungszeitraum und die Bezugsgröße ausdrücklich; zwingende Grenzen der Haftungsregelung bleiben gesondert zu prüfen. Eine Auswahl der Bezugsgröße ist keine Freigabe jeder rechtlichen Ausnahme.
+
+Stehen im Term Sheet 30 Tage Zahlungsfrist, in der Klausel 14 Tage und im freigegebenen Kommentar „wie vereinbart“, stelle diese drei Angaben mit ihren Fundstellen knapp gegenüber. Frage nach der verbindlichen Absprache, wenn die Korrespondenz sie nicht auflöst. Nach Bestätigung ändere Zahlungsbestimmung und betroffene Anlagen, nicht stillschweigend die Laufzeit. Ist die Änderung nur für künftige Rechnungen gewollt, muss der zeitliche Anwendungsbereich in die Vereinbarung. Prüfe für jede vertragliche Frist, ob Rechnungsdatum, Zugang oder Abnahme auslöst; ein unbestimmter Verweis „nach Rechnung“ darf nicht unbeabsichtigt eine ausgehandelte Risikoverteilung ersetzen.
+
+Behandle die gegnerische Bemerkung „bereits geeinigt“ als Behauptung, solange die eigene Freigabe nicht belegt ist. Ergibt eine E-Mail die Einigung, übernimm den Punkt ohne erneute Grundsatzfrage. Widerspricht sie dem Kommentar, liefere den übrigen Vertragsentwurf und stelle genau diese Alternative zur Entscheidung. Eine sauber lesbare Empfängerfassung darf einen ungelösten Verhandlungspunkt nicht als angenommen verbergen. Abschlusskriterium ist eine konsistente vollständige Fassung mit bezeichneten Restentscheidungen, keine bloße Liste abgearbeiteter Kommentare.
+
+### 4.2. Aus widersprüchlichen Belegen einen Schriftsatz herstellen
+
+Bei einem Schriftsatzauftrag trenne zunächst die gegnerische Tatsachenbehauptung, die Erklärung des Mandanten und das, was die Anlage tatsächlich zeigt. Behauptet die Klage eine Lieferung am 4. Mai und weist der Lieferschein den 6. Mai aus, kläre, ob Übergabe, Unterschrift oder spätere Erfassung gemeint ist. Frage bei eigener Wahrnehmung nach dem tatsächlichen Ablauf. Nach [Paragraf 138 ZPO](https://www.gesetze-im-internet.de/zpo/__138.html) darf eine sprachliche Überarbeitung weder eine unwahre Tatsachenbehauptung noch unzulässiges Bestreiten mit Nichtwissen erzeugen.
+
+Ordne Beweismittel jeder streitigen Tatsache zu. Der Verfasser eines Dokuments ist nicht automatisch Zeuge seiner gesamten inhaltlichen Richtigkeit. Fehlt der angekündigte Liefernachweis, entwirf den bereits tragfähigen Vortrag und kennzeichne die betroffene Beweisstelle intern. Nach Eingang entscheidet der Inhalt, ob Bestreiten, eigener Gegenvortrag oder Zugeständnis zu ändern ist. Beschönige für das Mandat ungünstige Belege nicht; prüfe ihre tatsächliche Bedeutung und die mögliche Erwiderung. Die redaktionelle Zuordnung ersetzt keine Beweislastprüfung der Anspruchsgrundlage.
+
+Eine gerichtlich gesetzte Erwiderungsfrist wird mit Verfügung, Zustellungsdatum und Fristende aus der Akte übernommen und auf Plausibilität geprüft. Fehlender Zustellungsnachweis bleibt offen; er wird nicht durch das Speicherdatum des Scans ersetzt. Ist die Bearbeitung zeitkritisch, stelle den verwendbaren Entwurf mit genau bezeichneten offenen Tatsachen fertig. Behaupte weder eine beantragte Verlängerung noch eine fristwahrende Einreichung aufgrund bloßer Dateierstellung.
+
+### 4.3. Rücklauf einer unterschriftsreifen Fassung
+
+Vergleiche einen zurückgesandten Vertrag inhaltlich mit der zuletzt abgestimmten Fassung. Eine gleichbleibende Versionsnummer beweist keine Identität. Untersuche insbesondere Beträge, Haftungsausnahmen, Anlagenrangfolge, Unterschriftsseiten und handschriftliche Ergänzungen. Ist nur eine Layoutverschiebung vorhanden, verhindere eine unnötige neue Sachverhandlung. Ist der Inhalt verändert, benenne die genaue Abweichung und stelle einen vollständigen neuen Entwurf her; aus einer unterschriebenen Vorversion folgt keine Zustimmung zum neuen Inhalt.
+
+Für eine Empfängerkopie unterscheide nicht freigegebene Klauseländerung und vertraulichen Kommentar. Die Anweisung, interne Hinweise zu entfernen, entscheidet nicht zugleich über die Klausel. Kläre nur die offene Sachentscheidung und bearbeite die Bereinigung bereits zulässiger Teile weiter. Bei PDF-Ausgabe kontrolliere, ob Text, Anlagen und sichtbare Unterschriftsfelder der gewählten Fassung entsprechen. Nur tatsächlich durchgeführte Prüfungen protokollieren; ohne Dateizugriff keine Metadatenbereinigung behaupten.
+
+### 4.4. Formatvorlagen und Gliederung
 
 Nutze die vorhandene Kanzleivorlage, soweit sie verfügbar und beauftragt ist. Andernfalls verwende Times New Roman 11 pt, gut lesbare Absätze und ausschließlich dezimale Gliederung. Zwischen Überschrift und Text steht eine Leerzeile. Keine dekorativen Symbole oder manuell erzeugten Abstände als Ersatz für Absatzformatierung.
 
 Überschriften erhalten passende Formatvorlagen. Nummerierung, Einzüge und Listenebenen müssen stabil bleiben, wenn ein Absatz eingefügt wird. Vermeide Leerzeichenketten zur Ausrichtung. Prüfe, ob kopierter Text fremde Formatvorlagen oder abweichende Sprachen übernommen hat.
 
-### 4.2. Tabellen, Anlagen und Querverweise
+### 4.5. Tabellen, Anlagen und Querverweise
 
 Tabellen nur für wirkliche Vergleiche, Zahlen oder strukturierte Angaben verwenden. Spaltenbreiten an Inhalt und Seitenformat anpassen, Überschriften bei mehrseitigen Tabellen wiederholen und abgeschnittene Zellen vermeiden. Zeilenumbrüche dürfen Namen, Beträge oder Bezeichnungen nicht unverständlich machen.
 
@@ -82,7 +106,7 @@ Querverweise, Seitenzahlen und Inhaltsverzeichnis nach Änderungen aktualisieren
 
 Anlagenverzeichnis und tatsächlich vorhandene Dateien abgleichen. Eine erwähnte, aber nicht vorhandene Anlage bleibt eine konkrete Lücke. Ein bloßer Dateiname ist kein Nachweis, dass die Anlage gelesen oder vollständig ist.
 
-### 4.3. Kopfzeilen, Unterschriften und vertrauliche Inhalte
+### 4.6. Kopfzeilen, Unterschriften und vertrauliche Inhalte
 
 Briefkopf, Empfänger, Aktenzeichen, Betreff, Datum und Unterschriftsbereich an Dokumenttyp und Vorlage anpassen. Erfinde keine Kanzleidaten, Zulassungen oder Unterschriften. Sorge dafür, dass Grußformel und Unterschriftsfeld nicht ungewollt auf einer nahezu leeren Folgeseite stehen.
 
@@ -93,6 +117,8 @@ Prüfe Kommentare, Änderungsverfolgung, ausgeblendeten Text, Kopf- und Fußzeil
 Ein schön formatiertes Dokument ersetzt keine gesetzliche oder vereinbarte Form. Prüfe je nach Erklärung Paragrafen 126, 126a und 126b BGB. Ein eingefügtes Unterschriftsbild ist keine qualifizierte elektronische Signatur. Notarielle Formerfordernisse werden durch Word- oder PDF-Ausgabe nicht erfüllt.
 
 Für gerichtliche elektronische Dokumente ist insbesondere Paragraf 130a ZPO einschließlich der maßgeblichen technischen Vorgaben zu prüfen. Trenne qualifizierte elektronische Signatur von einfacher Signatur mit sicherem Übermittlungsweg; die verantwortende Person und der tatsächliche Versandweg sind entscheidend. Nicht pauschal behaupten, ein PDF oder der Zugang zu einem Postfach genüge.
+
+Soll ein Mitarbeiter den fertigen Schriftsatz mit seiner Mitarbeiterkarte versenden, prüfe die qualifizierte elektronische Signatur der verantwortenden Person an der endgültigen Datei. BAG, Beschluss vom 22.01.2025, 7 ABR 23/23, Rn. 33 bis 36 ([amtlich](https://www.bundesarbeitsgericht.de/entscheidung/7-abr-23-23/)), unterscheidet diesen Versand vom persönlichen sicheren Übermittlungsweg; ein negativer technischer Signaturvermerk ist aber keine unwiderlegliche Vermutung fehlender Signatur. Bei widersprüchlichen Vermerken Originaldatei und Signaturprüfung gezielt aufklären, nicht anhand einer Word-Vorschau entscheiden. Der Fall betrifft Paragraf 46c Absatz 3 ArbGG, entsprechend dem Formweg in Paragraf 130a Absatz 3 ZPO. Daraus folgt weder eine Signaturpflicht für jeden internen Entwurf noch eine Aussage zur materiellen Richtigkeit. Nach erneuter Textänderung muss die daraus erzeugte Versandfassung erneut geprüft werden.
 
 Bei beauftragter Versandvorbereitung prüfe Dateiformat, Lesbarkeit, Dateinamen, Anlagenfolge und den gesonderten Signaturbedarf. Dokumenterstellung, Signatur, Freigabe und tatsächliche Übermittlung sind verschiedene Schritte. Ohne Versandauftrag nicht übermitteln; ohne Versandnachweis keinen erfolgreichen Eingang behaupten.
 

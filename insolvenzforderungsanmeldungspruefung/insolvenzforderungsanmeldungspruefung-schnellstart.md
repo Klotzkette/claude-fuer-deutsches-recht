@@ -1,14 +1,16 @@
 # 1. Insolvenzforderungen: Anmeldung und Prüfentscheidung
 
-Prüfe die konkrete Forderungsanmeldung aus der angegebenen Gläubiger- oder Verwaltungsperspektive und erstelle das bestellte Schreiben, die Berechnung oder Prüfempfehlung. Beginne nicht mit einer allgemeinen Insolvenzreifeprüfung, wenn das Verfahren bereits eröffnet und die Tabellenforderung mein Auftrag ist.
+Gleiche den angemeldeten Betrag mit Vertrag, Leistung, Gutschriften und Zahlungen ab. Bestimme, welcher Betrag mit welchem Rang zur Tabelle gehört und welcher Teil aufzuklären oder zu bestreiten ist. Formuliere das bestellte Schreiben aus Gläubiger- oder Verwaltungssicht; eine Tabellenprüfung im eröffneten Verfahren verlangt keine allgemeine Insolvenzreifeprüfung.
 
 ## 1.1 Verfahren und Forderung identifizieren
 
-Lies zuerst Anmeldung, Vertrag, Rechnungen, Lieferbelege, Kontoauszüge, Titel und Tabellenstand, soweit bereitgestellt. Entnimm daraus Schuldner, Gericht, Aktenzeichen, Eröffnungszeitpunkt, Anmeldefrist, Prüfungstermin, Gläubiger, Vertretung und gegebenenfalls Abtretung. Frage nur nach fehlenden entscheidenden Angaben. Ein stiller Upload einer Anmeldung führt unmittelbar zur Formal- und Betragsprüfung. Verwende vorhandene Auswertungen bei Folgeaufträgen weiter.
+Ohne Eingabe biete Anmeldung, Betrags-/Rangprüfung oder Antwort auf Bestreiten an. Dateien ohne Auftrag still lesen und zwei passende Wege anbieten. Einen klaren Auftrag unmittelbar bearbeiten. Übernimm Verfahren, Eröffnung, Termine, Gläubiger und Abtretung aus den Belegen; frage nur entscheidende Lücken ab. Neue Gutschrift ändert Restbetrag und gegebenenfalls Zinsen, neuer Titel Betreibungslast und Entwurf, nicht automatisch den materiellen Rang.
 
 ## 1.2 Grund und Betrag abgleichen
 
 Individualisiere den Lebenssachverhalt mit Vertragsbezug, Leistung, Datum und Gegenpartei. Ein bloßer Rechnungsbetrag ersetzt keinen Forderungsgrund. Zerlege die Summe in Hauptforderung, Zinsen und Kosten. Ziehe belegte Teilzahlungen und Gutschriften positionsbezogen ab. Prüfe Dubletten anhand Forderungsidentität, nicht nur Gläubigername oder gleicher Summe. Eine Sicherheit ist noch keine Zahlung; ziehe ihren Nominalwert nicht automatisch ab.
+
+BGH, Urteil vom 25.06.2020, IX ZR 47/19, [Rn. 16–27](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2019/IX_ZR__47-19.pdf?__blob=publicationFile&v=1), unterscheidet die eindeutige Individualisierung nach Paragraf 174 Absatz 2 InsO von der Schlüssigkeit des Anspruchs. Ist erkennbar, welche Lieferung oder Leistung gemeint ist, macht ein fehlender Beweis die Anmeldung nicht schon unwirksam. Fordere den Beleg für die materielle Prüfung nach und entscheide anschließend über Bestreiten. Eine erst später ausreichende Individualisierung wirkt nicht auf die erste Anmeldung zurück; Zeitpunkt und gegebenenfalls erneute Prüfung nach Paragraf 177 InsO klären. Die Entscheidung beweist weder Bestand noch Rang der Forderung.
 
 Für Zinsen erfasse Rechtsgrund, Ausgangsbetrag, Beginn, Ende, Satz, Satzwechsel und Berechnungsmethode. Trenne Zinsen vor und seit Eröffnung. Nach [Paragraf 39 Absatz 1 Nummer 1 InsO](https://www.gesetze-im-internet.de/inso/__39.html) sind seit Eröffnung laufende Zinsen nachrangig. Nachrangige Forderungen werden nach [Paragraf 174 Absatz 3 InsO](https://www.gesetze-im-internet.de/inso/__174.html) nur auf besondere gerichtliche Aufforderung angemeldet. Mische sie nicht mit dem Regelrang.
 

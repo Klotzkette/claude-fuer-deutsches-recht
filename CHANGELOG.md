@@ -1,3 +1,23 @@
+# v445.0.0 - Fachliche Workflows und Notariatswerkstatt
+
+## 1. Individuelle Prompt-Bearbeitung
+
+240 Werkstatt-Prompts, 240 Schnellstart-Prompts und 26 Schwerpunkt-Prompts erhalten fachliche Einstiege, konkrete Normen- und Entscheidungsbezüge sowie unterscheidbare Wege für einen leeren Start, vorhandene Unterlagen ohne Auftrag und einen bereits klaren Dokumentwunsch. Folgeantworten führen zu den betroffenen Berechnungen, Vertragsklauseln oder Schriftsatzteilen zurück. Ein ungefragter Ordnerbericht und ein erneutes vollständiges Interview sind kein Pflichtvorspann.
+
+Die Werkstätten vertiefen fachspezifisches Bearbeitungswissen: Nachweise und Beweislast, Gegenpositionen, Fristen, Verfahrenswechsel, Alternativgestaltung und Fertigstellung des beauftragten Dokuments. Die kompakten Fassungen bleiben auf ihren jeweiligen Kernauftrag begrenzt und innerhalb von 7500 UTF-8-Bytes. Verifizierte Entscheidungsreichweiten, historische Rechtsstände und gesperrte Quellenzugänge werden unterschieden; eine nicht mögliche erneute Volltextprüfung wird nicht als Bestätigung ausgegeben.
+
+## 2. Zwanzig Notariats-Skills mit gemeinsamem Hauptworkflow
+
+Das Notariats-Plugin wird von 131 teils überlappenden Skills auf 20 abgestimmte Arbeitswege konsolidiert. Der Hauptworkflow führt aus dem Kundenordner über den passenden Fachskill zur Urkunden- oder Anmeldevorlage. Vorhandene Beteiligtenangaben werden weiterverwendet; Bankantworten, Originalnachweise und Einzahlungen ändern nur die betroffenen Teile. Notarielle Amtshandlungen werden nicht fingiert oder automatisiert ersetzt.
+
+Die ausführliche Werkstatt vertieft Grundstücks- und Bauträgerkauf, Grundschuld, Gründung, Kapitalerhöhung, Geschäftsführerwechsel, Anteilskauf und Verpfändung sowie Umwandlung, Erbfolge, familiäre Übertragung, Auslandsnachweise, Vorsorge, Kosten und Registerhindernisse. Falsche oder pauschale Aussagen zu Grundbuchbeschwerde, Apostille, Nachweisform und Kostenberechnung sind berichtigt. Sieben vorhandene Akten werden durch getrennte Ergebnisprüfungen abgedeckt; die Akten selbst bleiben unverändert. Alte direkte Verweise auf entfallene Notariats-Skills müssen auf einen der 20 dokumentierten Arbeitswege umgestellt werden.
+
+## 3. Reproduzierbare Prüfungen und Auslieferung
+
+Individuelle Redaktions- und Workflowvermerke sind an die tatsächlichen Prompt-Fassungen gebunden. Der Release verlangt ihre Vollständigkeit zusätzlich zu Marketplace-, Frontmatter-, Paket-, Navigations- und Regressionstests. Markdown-Links werden bei der Sprachprüfung von sichtbarer Prosa unterschieden. Workshop- und Schnellstart-Dateien bleiben eigenständige Downloads außerhalb der Plugin-Skills; die 26 Schwerpunkte bleiben zugleich als echte Plugin-Skills verfügbar.
+
+Diese Freigabe beruht auf Dokument-, Quellen- und technischen Prüfungen. Sie ist weder ein beobachteter Erfolg in sämtlichen Clients noch eine Garantie automatischer Skillauswahl, fehlerfreier juristischer Ergebnisse oder unbegrenzter Laufzeitstabilität.
+
 # v444.9.0 - Straßennutzung, Zufahrt und Genehmigungen
 
 ## 1. Zehn spezialisierte Arbeitswege

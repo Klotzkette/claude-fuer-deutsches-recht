@@ -1,10 +1,16 @@
 # 1. Lobbyregister: Kontakt, Eintrag und Änderung
 
-Arbeite zuerst mit Kontaktvermerken, Auftraggeberkette, aktuellem Registerauszug und Änderungsdaten. Bestimme Ziel der Einflussnahme, Adressat und Tätigkeit. Prüfe die Registrierung anhand der alternativen Voraussetzungen des [Paragrafen 2 LobbyRG](https://www.gesetze-im-internet.de/lobbyrg/__2.html), nicht ausschließlich anhand der Kontaktzahl. Ausnahmen nach Adressat und konkreter Tätigkeit unterscheiden; anwaltliche Tätigkeit oder Verbandseigenschaft allein ersetzt diese Prüfung nicht.
+Ohne Eingabe frage kurz: „Registrierungspflicht prüfen, Eintrag aktualisieren oder Registerstelle beantworten?“ Bei Dateien ohne Aufgabe lies sie still und kläre nur das gewünschte Ergebnis. Bei klarem Auftrag beginne direkt mit Prüfung oder Feldtext; keine allgemeine Registerübersicht vorweg. Frage nur entscheidende fehlende Kontakt-, Organisations- oder Finanzangaben nach. Ein Portalzugang wird nicht vorausgesetzt.
+
+Prüfe, ob der konkrete politische Kontakt eine Eintragung auslöst und welche Registerangaben danach zu ändern sind. Gleiche Kontaktvermerke, Auftraggeberkette und bestehenden Eintrag ab; formuliere die benötigten Feldtexte oder das beauftragte Pflichtenmemo. Die alternativen Voraussetzungen des [Paragrafen 2 LobbyRG](https://www.gesetze-im-internet.de/lobbyrg/__2.html) hängen nicht allein von der Kontaktzahl ab. Ausnahmen nach Adressat und Tätigkeit prüfen, nicht pauschal nach Berufs- oder Verbandsbezeichnung.
+
+Bei einer Kammer unterscheide ihre gesetzliche öffentliche Aufgabe von sonstiger Interessenvertretung. Paragraf 2 Absatz 2 Nummer 6 und Absatz 3 Nummer 6 LobbyRG tragen die Bundesprüfung. [VG München, 3. Juni 2025, M 30 K 23.817](https://www.gesetze-bayern.de/Content/Pdf/Y-300-Z-BECKRS-B-2025-N-16380?all=False) nimmt die gesetzliche Interessenvertretung einer Handwerkskammer vom bayerischen Register aus. Das ist keine Entscheidung über das Bundesregister und keine Befreiung aller Wirtschaftsverbände; Auftrag und Tätigkeit belegen.
 
 ## 1.1. Einzutragende Änderung konkret bestimmen
 
 Ordne jede Änderung einem Datenfeld, auslösenden Ereignis, Beleg und Bearbeiter zu. Trenne neue Auftraggeber, Tätigkeitsfelder und betraute Personen von Finanzdaten des abgelaufenen Geschäftsjahres. Für Regelungsvorhaben beschreibe das konkrete Änderungsziel; ein Schlagwort wie Wirtschaftspolitik reicht als Arbeitsbeschreibung nicht aus. Prüfe bei Stellungnahmen Empfänger, Übermittlungsdatum, grundlegenden Inhalt und bereits erfolgte Veröffentlichung im Beteiligungsverfahren.
+
+Ein individuelles Auskunftsersuchen deckt nicht ohne Prüfung einen zusätzlichen eigenen Änderungswunsch. Vergleiche Ersuchen und Antwort und beurteile die darüber hinausgehende Kontaktaufnahme eigenständig. Bei Agenturen sind unmittelbarer Auftraggeber, vertretenes Interesse und Unterauftragnehmer getrennt zuzuordnen; ein Rechnungsadressat beweist nicht die ganze Kette. Erhaltene Finanzmittel und eigene Aufwendungen sind unterschiedliche Bezugsgrößen.
 
 ## 1.2. Drei Aktualisierungstakte
 
@@ -23,6 +29,8 @@ Fehlt ein Glied der Auftraggeberkette, frage nach dem konkreten Auftrag und eine
 ### 1.3.2. Änderungstext abschließen
 
 Prüfe jede Antwort gegen den bestehenden Eintrag und die Änderungsdaten. Eine neue entscheidende Unstimmigkeit rechtfertigt eine weitere gezielte Frage; bekannte Angaben nicht erneut abfragen. Vervollständige danach die bestellten Änderungstexte oder das Vorstandsmemo. Ein zunächst nötiges Nachforderungsschreiben beendet einen weitergehenden Bearbeitungsauftrag nicht.
+
+Belegt die Antwort eine bisher übersehene Hauptagentur, ändere im vorhandenen Pfad, etwa `register/aenderungsentwurf.md`, die Auftraggeberkette und betroffenen Personenzuordnungen; schreibe einen beauftragten Aktualisierungsplan entsprechend fort. Bereits geklärte Geschäftsjahreszahlen nicht nochmals erheben. Ohne Dateizugriff liefere die geänderten Feldtexte vollständig. Für eine öffentliche Stellungnahme müssen genaue übermittelte Fassung, Personenbereinigung und Maschinenlesbarkeit zusammenpassen; einen ungeprüften Upload nicht als bereinigt bezeichnen.
 
 Der gewünschte Dateiname geht vor. Rechtliche Vorbehalte und fehlende Nachweise konkret benennen; technische Abruf- und Exporthinweise stehen in einer getrennten Arbeitsnotiz, nicht im Portaltext.
 

@@ -1,6 +1,8 @@
 # 1. Betrieblichen Vorgang eines Solo-Selbstständigen bearbeiten
 
-Prüfe den konkreten Auftrag, Zahlungsausfall oder Behördenvorgang und verfasse das bestellte Dokument. Erkläre rechtliche und wirtschaftliche Folgen verständlich, ohne eine Alltagsfrage in eine vollständige Gründungsberatung umzuwandeln.
+Ohne Eingabe biete „Reklamation und offene Rechnung“, „Angebot/Zusatzauftrag“ oder „Liquiditätsengpass“ an. Dateien ohne Aufgabe still lesen und Ziel klären, keine ungefragte Gründungsaufnahme. Einen klaren Auftrag direkt ausarbeiten. Folgeantworten ändern Einbehalt, Leistungsumfang oder Liquiditätsplan. Nur entscheidende fehlende Angaben erfragen; keine Plugin-Dateien voraussetzen.
+
+Kläre, welche Leistung der Kunde beauftragt hat, ob sie abgenommen wurde und welcher Rechnungsbetrag trotz Reklamation verlangt werden kann. Bei Vertrags- oder Behördenfragen bestimme stattdessen die konkret betroffene Pflicht und Frist. Formuliere die verlangte Vereinbarung, Antwort oder Berechnung verständlich; eine Alltagsfrage eröffnet keine vollständige Gründungsberatung.
 
 ## 1.1. Auftrag und vorhandene Unterlagen
 
@@ -37,6 +39,10 @@ Bei Zusammenarbeit über eine Agentur kläre, wer mit dem Endkunden kontrahiert,
 
 Ordne jeder Rechnungsposition Vertragsgrund, Leistungsbeleg, Kundeneinwand und streitigen beziehungsweise unstreitigen Betrag zu. Bei Werkleistungen Abnahme und Fälligkeit gesondert prüfen. Eine zusätzliche Funktion ist nicht automatisch ein Mangel; einen behaupteten Fehler dennoch konkret untersuchen.
 
+BGH, Urteil vom 19.01.2017, VII ZR 193/15, Randnummern 25 bis 45 ([amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2015/VII_ZR_193-15.pdf?__blob=publicationFile&v=1)): Rechte nach Paragraf 634 BGB setzen grundsätzlich Abnahme voraus; davor sind mangelfreie Herstellung nach Paragraf 631 und allgemeine Leistungsstörungsrechte zu prüfen. Ein Vorschussverlangen allein schafft kein Abrechnungsverhältnis. Anders kann es nach Fertigstellungsangebot bei endgültiger Ablehnung jeder weiteren Erfüllung liegen. Erfrage deshalb Abnahme und genaue Erklärung, statt Reklamation oder Rechnung mit einem Phasenwechsel gleichzusetzen. Der Besteller muss nicht abnehmen, um überhaupt Rechte geltend machen zu können; eine bloße Dienstleistung folgt anderen Regeln.
+
+Bei abgenommenem Werk Fälligkeit nach Paragraf 641 Absatz 1 BGB und Mängeleinbehalt nach Absatz 3 getrennt rechnen: regelmäßig doppelte erforderliche Beseitigungskosten, nicht der ganze Restpreis. Bei bewusst vorbehaltloser Abnahme eines bekannten Mangels Paragraf 640 Absatz 3 BGB prüfen. Nacherfüllung und Selbstvornahme nach Paragrafen 635 und 637 unterscheiden; für den Vorschuss insbesondere Fristsetzung oder deren Entbehrlichkeit und erforderliche Beseitigungsaufwendungen feststellen. Nach ergänztem Kostennachweis Einbehalt und Zahlungsaufforderung gemeinsam aktualisieren.
+
 Ziehe Teilzahlungen mit Datum und Zuordnung ab. Verzug und Zinsen nach BGB Paragraf 286 und Paragraf 288 erst aus geprüfter Fälligkeit, Mahnung oder einschlägiger Ausnahme berechnen. Bei neuen Zahlungsbelegen Saldo, Zinszeitraum und Begehren gemeinsam aktualisieren.
 
 Ein Forderungsauftrag endet mit der nachvollziehbaren Rechnung und dem bestellten Kundenschreiben. Eine reine Beratungsfrage benötigt keinen ungefragten Mahn- oder Klageentwurf. Keine Zahlung, Mahnung oder Anerkennung eigenmächtig auslösen.
@@ -67,12 +73,36 @@ Prüfe Kündigungsgrund, erforderliche Abmahnung, Erklärungsfrist, Zugang, offe
 
 ## 1.9. Quellen, Ergebnis und Freigabe
 
-Tragende Normen aktuell amtlich prüfen. Bestehende Rechtsprechungshinweise vor Verwendung vollständig verifizieren: I ZR 7/16, Planet49, nur für Einwilligungs- und Cookie-Fragen; I ZR 186/17, App-Zentrum III, nur für die einschlägige Verbandsklagebefugnis; XI ZR 234/20, Randnummer 51, für die Frage geltungserhaltender Reduktion. Fehlende Entscheidungsdaten nicht aus Modellwissen ergänzen.
+Tragende Normen aktuell amtlich prüfen. Für zusätzliche Cookie-, Verbandsklage- oder AGB-Fragen die tatsächlich einschlägige Entscheidung mit Gericht, Datum, Aktenzeichen und tragendem Inhalt recherchieren; unbestätigte Fundstellen nicht als Beleg übernehmen. Die oben geprüfte Werkvertragsentscheidung beantwortet keine Steuer- oder Statusfrage.
 
 Liefere das bestellte Dokument vollständig unter dem gewünschten Dateinamen. Rechnungen, Abschreibungspläne oder Leistungsvergleiche dürfen tabellarisch sein; ein bestellter Vertrag oder Brief benötigt ausformulierte Sätze. Technischen Quellenstatus und offene fachliche Prüfungen getrennt vom Kundentext dokumentieren.
 
 Prüfe Beträge, Termine, Leistungsumfang und Widersprüche zwischen Anlagen und Text. Bei einer entscheidenden Lücke den Teilstand und benötigten Beitrag nennen und nach Antwort fortsetzen. Versand, Vertragsschluss, Steueranmeldung, Behördeneinreichung und Zahlung nur nach ausdrücklicher Freigabe.
 
 ## 1.10. Technische Grenzen
+
+### 1.10.1. Einbehalt und Beseitigungsangebot zusammenführen
+
+Bei einer abgenommenen Werkleistung ordne Restvergütung, konkret geltend gemachten Mangel und belegte Beseitigungskosten getrennt. Die vorhandene Prüfung nach [Paragraf 641 BGB](https://www.gesetze-im-internet.de/bgb/__641.html) ist keine Erlaubnis, jeden beliebigen Kundenbetrag zu verdoppeln. Frage nach dem Kostennachweis und dessen Leistungsumfang, wenn daran die Rechnung hängt. Mehrere Angebote können unterschiedliche Arbeiten umfassen; das günstigste ist nicht automatisch das fachlich vollständige.
+
+Ändert sich der nachvollziehbare Aufwand, aktualisiere Einbehalt, derzeit verlangbaren Betrag und das Antwortschreiben zusammen. Der Brief erkennt den tatsächlich bestehenden Mangel an, nennt ein umsetzbares Beseitigungsangebot und erläutert den Zahlungsansatz. Eine noch offene Abnahme darf nicht im Rechnungsteil still als erfolgt vorausgesetzt werden. Vor Abnahme bleibt der bereits erläuterte Erfüllungsweg zu prüfen; die BGH-Entscheidung schafft keinen allgemeinen Anspruch, jede weitere Leistung ohne Folgen abzulehnen.
+
+### 1.10.2. Zusatzwunsch als vollständiges Angebot formulieren
+
+Vergleiche den neuen Kundenwunsch mit dem bestätigten Leistungsumfang und späteren Änderungen. „Das war doch besprochen“ führt zur gezielten Suche nach der betreffenden Nachricht, nicht zum pauschalen Bestreiten oder kostenlosen Übernehmen jeder Ergänzung. Eine Demo oder unverbindliche Idee kann etwas anderes sein als eine verbindliche Leistungszusage. Belastende eigene Aussagen wie eine ausdrückliche Zusage gehören in die interne Bewertung.
+
+Ist es ein echter Zusatzauftrag, liefere ein vollständiges Angebot mit Ergebnis, Abgrenzung, erforderlicher Mitwirkung, Preis und Terminfolge. Erkläre, welche bestehende Leistung unberührt bleibt. Bei neuer Zustimmung passe die Vertragsfassung an, ohne einen noch nicht erklärten Vertragsschluss zu behaupten. Ein vorsorglicher Haftungsausschluss darf nicht die geschuldete Kernleistung unverständlich entwerten. Rechte an zuliefernden Arbeiten und erforderliche Fremdlizenzen müssen zum versprochenen Ergebnis passen.
+
+### 1.10.3. Zahlungen, Steuer und Liquidität nicht vermischen
+
+Eine bezahlte Rechnung, ein angekündigter Eingang und eine bestrittene Forderung gehören in verschiedene Planungsstände. Frage bei einem Engpass nach konkret verfügbaren Mitteln und den nächsten fälligen Verpflichtungen, nicht nach sämtlichen Gründungsdaten. Umsatz, Gewinn und verfügbares Geld sind keine austauschbaren Größen. Steuer- und Beitragsrücklagen müssen als solche sichtbar bleiben; aktuelle Sätze und individuelle Bescheide nicht durch frei geschätzte Pauschalen ersetzen.
+
+Nach einer ausgebliebenen Zahlung ändere den Plan und die davon abhängigen Zusagen. Ein Ratenangebot an einen Gläubiger braucht tragfähige Beträge und Termine, keine aus unsicherem Auftragseingang abgeleitete Gewissheit. Nach einer Teilzahlung auf die eigene Rechnung aktualisiere Saldo und mögliche Zinsen, nicht den gesamten Rechnungsbetrag neu anmahnen. Der bestellte Liquiditätsplan bleibt ein Plan; eine Banküberweisung oder Steueranmeldung wird daraus nicht eigenmächtig ausgeführt.
+
+### 1.10.4. Kundenbeziehung beenden und Übergabe begrenzen
+
+Bei Kündigungswunsch kläre, ob ein Ergebnisvertrag, laufender Dienst oder anderes Dauerschuldverhältnis vorliegt. Frage nach der maßgeblichen Kündigungsklausel und dem tatsächlichen Leistungsstand nur, soweit sie fehlen. Eine verärgerte Nachricht ist nicht ohne Weiteres die rechtlich gewünschte endgültige Kündigung. Bereits erbrachte Leistungen, offene Vergütung, herauszugebende Unterlagen und Nutzungsrechte getrennt bestimmen.
+
+Nach einer bestätigten Beendigung ändere Abschlussrechnung und Übergabeplan konsistent. Ein Datensatz darf nicht aus Druckmittelgründen ohne Rechtsprüfung zurückgehalten oder gelöscht werden. Der vollständige Entwurf nennt Erklärung, Zeitpunkt, Abrechnung und konkrete Übergabe; ungesicherte Kosten oder ersparte Aufwendungen als offene Berechnungspositionen behandeln. Status-, Steuer- und Auslandsfolgen nicht mit der Werklohnentscheidung als mitgeprüft ausgeben. Freigabe verlangt eine tragfähige Vertragsgrundlage und richtige Empfänger, nicht bloß den Wunsch nach schnellem Abschluss.
 
 Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen und zugängliche Teile bearbeiten. Scheitert ein sinnvoller alternativer Abruf, den belegten Teilstand liefern; ohne Export den Text statt eines erfundenen Dateilinks. Weitere Skills sind optional; formatierten Export soweit möglich in Times New Roman 11 pt mit dezimaler Gliederung liefern und keine nicht erfolgte Prüfung behaupten.

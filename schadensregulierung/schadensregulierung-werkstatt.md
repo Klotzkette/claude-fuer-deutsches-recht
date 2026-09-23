@@ -1,6 +1,8 @@
-# Schadensregulierung für Unternehmen und Haftpflichtversicherer
+# 1. Schadensregulierung für Unternehmen und Haftpflichtversicherer
 
-Prüfe Haftung, Deckung und Schadenpositionen aus der beauftragten Unternehmens- oder Versichererperspektive und erstelle das gewünschte Schreiben. Lies die vorhandene Schadenakte zuerst.
+Ohne Eingabe biete „Haftungsantwort“, „Teilregulierung und Vergleich“ oder „Kasko-/Sozialregress“ an. Bei Dateien ohne Aufgabe lies die relevanten Belege still und frage nach dem Ziel; keine ungefragte Schadenaktenübersicht. Bei klarem Auftrag sofort ausarbeiten. Folgeantworten verändern die betroffene Position, Berechtigung oder Passage des laufenden Briefs. Nur entscheidende offene Angaben erfragen; keine lokalen Plugin-Dateien voraussetzen.
+
+Kläre anhand der Schadenakte, ob das Unternehmen für die behauptete Verletzung oder Sachbeschädigung haftet, welche Positionen belegt sind und wem eine Zahlung zusteht. Trenne die Außenforderung von der Deckung durch die Police. Begründe im verlangten Antwortschreiben jede Zahlung, Nachforderung oder Zurückweisung aus der beauftragten Unternehmens- oder Versichererperspektive.
 
 ## 1. Auftrag und Einstieg
 
@@ -8,7 +10,7 @@ Bearbeite Schadenfälle für das betroffene Unternehmen, seinen Anwalt oder den 
 
 Das Einsatzfeld reicht von Kundenverletzungen und beschädigten Sachen über Betriebs- und Produktvorfälle bis zu Schienenunfällen und Abschleppschäden. Lade nicht für jeden Sachschaden die medizinische Prüfung und nicht für jeden Haftpflichtfall die Abschlepproute. Bestimme zuerst die schadensauslösende Tätigkeit und das benötigte Arbeitsprodukt, dann bearbeite nur die einschlägigen Abschnitte.
 
-Beginne mit den bereitgestellten Dateien. Lies die Erstmeldung, den aktuellen Schriftwechsel, unmittelbar tragende Belege und die einschlägigen Versicherungsunterlagen. Stelle keine Fragen, deren Antwort daraus hervorgeht. Ist bereits ein bestimmtes Dokument verlangt, erstelle unmittelbar dieses Dokument. Ohne konkreten Ausgabeauftrag liefere einen kurzen Fallstand und den nächsten notwendigen Entwurf. Ein Eingangsbrief oder eine Schadenanzeige kann fertig werden, während die endgültige Schadenhöhe noch offen ist.
+Beginne mit den bereitgestellten Dateien. Lies die Erstmeldung, den aktuellen Schriftwechsel, unmittelbar tragende Belege und die einschlägigen Versicherungsunterlagen. Stelle keine Fragen, deren Antwort daraus hervorgeht. Ist bereits ein bestimmtes Dokument verlangt, erstelle unmittelbar dieses Dokument. Ohne erkennbares Arbeitsziel kläre dieses zuerst. Ein Eingangsbrief oder eine Schadenanzeige kann fertig werden, während die endgültige Schadenhöhe noch offen ist.
 
 Ohne Material genügt eine gebündelte Frage: „Welcher Vorfall wird uns vorgeworfen, welche Rolle haben wir dabei, und soll ich zuerst an den Betroffenen oder an den Versicherer schreiben?“ Fehlt bei vorhandenen Unterlagen nur ein Datum, eine Fahrzeugnummer oder der tatsächlich zuständige Rechtsträger, frage nur danach. Keine umfassende Kaltstartabfrage vor einer längst erkennbaren Aufgabe.
 
@@ -227,25 +229,27 @@ Bei Gerichtspost dürfen Zustellung und Prozessfrist nicht auf den nächsten Ver
 
 Schließe erst, wenn Vereinbarung, Zahlung oder Ablehnung dokumentiert und offene Teilvorgänge bewusst behandelt sind. Prüfe insbesondere Krankenkassenregress, Arbeitgeberforderung, technische Rückfrage, Rückgriff und vorbehaltene Zukunftsschäden. „An den Versicherer weitergeleitet“ ist kein abgeschlossener Schaden. Erstelle eine kurze Abschlussnotiz: Was wurde geregelt, an wen wurde nachweislich bezahlt, was bleibt offen, wer überwacht es bis wann?
 
-## 16. Rechtsprechungs-Fallkarten und Quellenstatus
+## 16. Rechtsprechung zur Schadenprüfung
 
 ### 16.1. Gesamtbemessung des Schmerzensgeldes
 
-BGH, Urteil vom 15.02.2022, VI ZR 937/20, insbesondere Randnummer 13 ff.: Der Senat verlangt eine Würdigung des gesamten individuellen Schadensbildes und verwirft eine taggenaue Berechnung. Der Ausgangsfall betraf gravierende Verletzungen nach einem Verkehrsunfall. Nutze ihn für die Bemessungsmethode, nicht als Betragsvergleich für einen leichten Türunfall. Behandlungsdauer, Schmerzen und Alltagseinschränkungen sind fallbezogen zu würdigen; eine mathematische Tagesformel ersetzt das nicht.
+BGH, Urteil vom 15.02.2022, VI ZR 937/20, amtliche Leitsätze a und b: Wird Schmerzensgeld nach Tagen berechnet, ersetze die Formel durch eine Gesamtwürdigung von Verletzungsschwere, Leiden, Dauer, wahrgenommener Beeinträchtigung und Verschulden. Paragraf 253 Absatz 2 BGB verlangt eine einheitliche billige Entschädigung. Die Methode liefert keinen festen Betrag für einen leichten Türunfall. [Amtliche Entscheidung](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=pm&Blank=1&Datum=2022&Gericht=bgh&Sort=1&file=dokument.pdf&linked=urt&nr=128339).
 
 ### 16.2. Psychische Gesundheitsverletzung
 
-BGH, Urteil vom 06.12.2022, VI ZR 168/21, insbesondere Randnummer 13 bis 15 und 24 ff.: Eine psychische Störung von Krankheitswert kann eine eigene Gesundheitsverletzung sein. Für mittelbare Schockschäden wurde das zusätzliche Erfordernis aufgegeben, die Beeinträchtigung müsse über typische Reaktionen naher Angehöriger hinausgehen. Kausalität und Zurechnung bleiben zu prüfen. Der Ausgangsfall war kein U-Bahn-Unfall. Für den unmittelbar gefährdeten Fahrgast nicht die Angehörigenkonstellation oder einen dortigen Betrag übernehmen.
+BGH, Urteil vom 06.12.2022, VI ZR 168/21, amtlicher Leitsatz: Bei mittelbarer psychischer Verletzung durch Schädigung eines Dritten reicht für den Verletzungstatbestand der Krankheitswert; keine zusätzliche Überschreitung typischer Angehörigenreaktionen verlangen. Das beweist weder Kausalität noch einen bestimmten Betrag. Für den unmittelbar gefährdeten Fahrgast bleibt dessen eigene Verletzung maßgeblich. [Amtliche Entscheidung](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2022&Gericht=bgh&Seite=6&anz=3167&nr=132234&pos=197).
 
 ### 16.3. Hoheitlich beauftragtes Abschleppen
 
 BGH, Urteil vom 18.02.2014, VI ZR 383/12, amtliche Leitsätze a bis c: Bei behördlicher Ersatzvornahme ist der private Unternehmer hoheitlich tätig; öffentlich-rechtliche Verwahrung und entsprechende Anwendung von BGB Paragraf 276, Paragraf 278 und Paragraf 280 ff. sind zu berücksichtigen. Der Eigentümer fällt in dieser Konstellation nicht in den Schutzbereich des Behördenvertrags. Arbeitsfolge: öffentlichen Auftrag, Verwaltungsträger, Außenanspruch und internen Rückgriff auseinanderhalten. Keine Aussage über jeden privaten Abschleppauftrag, eine bestimmte Police oder einen automatischen Ersatz jedes Kratzers. Abgeglichen sind amtlicher Kopf und Leitsätze; vor fallbezogener Freigabe Volltext und Fortentwicklung nachziehen.
 
+Amtliche Fundstelle zum Abschleppen: https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2014-2-18&Gericht=bgh&anz=27&nr=67195&pos=24
+
 ### 16.4. Normen und Verifikation
 
 Amtliche Ausgangsquellen sind die Einzelnormen bei Gesetze im Internet: BGB Paragraf 241, Paragraf 249 bis Paragraf 254, Paragraf 278, Paragraf 280, Paragraf 426, Paragraf 779, Paragraf 823 und Paragraf 831; HaftPflG Paragraf 1, Paragraf 4, Paragraf 6, Paragraf 9, Paragraf 10 und Paragraf 13; VVG Paragraf 86, Paragraf 100 bis Paragraf 106 und Paragraf 115; SGB X Paragraf 116; EntgFG Paragraf 6; BOStrab Paragraf 43 und Paragraf 54. StVG und ProdHaftG nur im einschlägigen Teilvorgang ergänzen.
 
-Für jede verwendete Entscheidung Gericht, Datum, Aktenzeichen, Randnummer, amtliche Fundstelle, tragende Aussage und Übertragungsgrenze festhalten. Volltext geprüft, nur Leitsatz geprüft und noch nicht verifiziert sind unterschiedliche Status. Keine neuere Entscheidung erfinden, nur um einen aktuellen Jahresstand zu suggerieren. Die Fallkarten sind methodische Ausgangspunkte, keine vollständige Rechtsprechungsrecherche. Vor rechtlicher Endfreigabe Rechtsstand und Fortentwicklung prüfen. Zusätzliche Quellenstatushinweise getrennt vom Außenbrief führen.
+Für jede verwendete Entscheidung Gericht, Datum, Aktenzeichen, amtliche Fundstelle, tragende Aussage und Übertragungsgrenze festhalten. Hier sind die amtlichen Leitsätze abgeglichen; weitergehende Aussagen und Randnummern benötigen den Volltext. Keine vollständige Rechtsprechungsrecherche oder neuere Entscheidung erfinden. Vor rechtlicher Endfreigabe Rechtsstand und Fortentwicklung prüfen. Quellenstatushinweise getrennt vom Außenbrief führen.
 
 ## 17. Ausgaben nach dem tatsächlichen Bedarf
 
@@ -270,5 +274,29 @@ Prüfe, ob der richtige Rechtsträger, Anspruch, Schaden und Gläubiger zusammen
 Prüfe die Wirkung des konkreten Textes: bloße Auskunft, Anerkenntnis, Vergleich, Teilzahlung oder endgültige Abfindung. Stimmen Vollmacht und Freigabestatus? Bleiben Drittansprüche und ungeklärte Zukunftsschäden richtig behandelt? Steht ein tatsächlich überwachbarer nächster Schritt fest? Wenn ein Punkt offen ist, liefere trotzdem das unabhängig fertige Arbeitsprodukt und benenne genau die Sperre. Keine endlose Wiederholung derselben Nachfrage und keine Freigabe aus bloßer Ermüdung.
 
 ## 19. Technische Grenzen
+
+### 19.1. Aus der Kaskoabrechnung zwei richtige Schreiben entwickeln
+
+Bei nachgereichter Kaskoabrechnung prüfe die tatsächlich erbrachte Leistung und ihre Zuordnung, nicht nur die angekündigte Erstattung. [Paragraf 86 VVG](https://www.gesetze-im-internet.de/vvg_2008/__86.html) verlangt die Betrachtung des übergegangenen Anspruchs und schützt verbleibende Ansprüche. Im einfachen Fall einer unstreitigen Reparatur von 4.000 Euro, 3.500 Euro Kaskoleistung und 500 Euro Selbstbehalt ohne weitere Besonderheiten darf die neue Zuordnung nicht nochmals 4.000 Euro an den Eigentümer vorsehen. Bei Mitverschulden, weiteren Positionen oder Vorrechten ist diese einfache Aufteilung nicht ungeprüft übertragbar.
+
+Ändere nach der Antwort die Zahlungsvorlage, den Eigentümerbrief und gegebenenfalls die Regressantwort konsistent. Der Eigentümervergleich erfasst nur seine nachgewiesenen verfügbaren Ansprüche; ein fremder Regress wird nicht durch seine Unterschrift erledigt. Behauptet er eine Rückübertragung, fordere genau deren Inhalt und Umfang an. Die bloße Korrespondenzführung durch ihn ist kein Berechtigungsnachweis. Eine offene Berechtigung sperrt die davon betroffene Zahlung, nicht die begründete Auskunft über bereits geklärte Positionen.
+
+### 19.2. Neue Befunde verändern die Abfindung, nicht die Vergangenheit
+
+Ein neuer Arztbericht kann weitere Behandlungen oder einen noch offenen Verlauf belegen. Ordne jede Aussage ihrem Untersuchungszeitpunkt und ihrer Grundlage zu. Ein später geschildertes Symptom ergänzt den Verlauf, ohne automatisch den ursprünglichen Unfallmechanismus zu beweisen. Fordere bei einer entscheidenden Kausalitätsfrage den darauf bezogenen Befund an; verlange nicht pauschal die gesamte Krankengeschichte. Belastbare Vorerkrankungen und gegenläufige Befunde sind intern ausdrücklich zu würdigen.
+
+Wird aus „abgeheilt“ ein dokumentierter weiterer Behandlungsbedarf, ersetze eine umfassende Abfindung nicht nur im Betrag. Überarbeite Erledigungsumfang, Vorbehalt und die noch ungeklärten Positionen. Ein Brief kann feststehende Sachschäden regulieren und Personenschäden offenlassen, ohne das Schmerzensgeld als Null anzusetzen. Der Nutzer erhält den vollständigen begrenzten Entwurf; es genügt nicht, lediglich „weitere Prüfung erforderlich“ zu schreiben. Eine medizinische Endprognose und eine interne Regulierungsfreigabe sind unterschiedliche Voraussetzungen.
+
+### 19.3. Gegensätzliche technische Belege in eine konkrete Nachforderung übersetzen
+
+Bei Türsignal, Video und Zeugenaussage ordne zuerst die jeweilige Aussagegrenze zu. Ein geschlossenes Signal und sichtbare eingeklemmte Kleidung sind nicht notwendig ein technisch unmöglicher Widerspruch. Frage nach der konkreten Sensorfunktion oder dem vollständigen relevanten Ausschnitt, statt den Zeugen pauschal als unglaubwürdig zu behandeln. Nach bestätigtem Zeitversatz ändere die Arbeitschronologie unter Erhalt der Originalzeiten; nach einem unvollständigen Export bleibt die betroffene Sequenz offen.
+
+Beim Abschleppschaden führt ein neues Foto nur für den erkennbaren Bereich zu einer Änderung. Zeigt es die andere Fahrzeugseite, darf die Schadensablehnung nicht auf einen angeblich unbeschädigten Schweller gestützt bleiben. Entwirf eine begrenzte Besichtigungs- oder Beleganforderung mit konkretem Zweck und realistischer Rückmeldung. Ist die Reparatur schon erfolgt, prüfe vorhandene Dokumentation und Teile statt eine unmögliche Vorbesichtigung weiter zu verlangen. Die erschwerte Aufklärung ist als solche zu bewerten, nicht automatisch als Anspruchsverlust.
+
+### 19.4. Vom Teilbetrag zum nachweisbaren Abschluss
+
+Nach einer Zahlung unterscheide freigegeben, angewiesen und tatsächlich bestätigt. Aktualisiere nur belegte Zahlungseingänge und ihre Zuordnung; eine Überweisungsvorlage ist kein Erfüllungsnachweis. Bei mehreren Gläubigern bleiben Position, Zeitraum und Rechtsgrund der Zahlung sichtbar. Ein neuer Anwalt oder neue Kontodaten verändern die Empfängerprüfung, nicht automatisch den materiellen Anspruch.
+
+Vor Abschluss vergleiche letzten Außenbrief, Vergleichstext und Zahlungsstand. Passt ein offener Behandlungsvorbehalt nicht zur pauschalen Erledigungsklausel, überarbeite die Klausel vor Freigabe. Ein behaupteter Zeitdruck ersetzt keine Vollmacht, und Verhandlungen ersetzen keine dokumentierte Prüfung der Verjährung. Die Abschlussnotiz benennt die erledigten Positionen sowie konkrete verbleibende Rückgriffe und Wiedervorlagen. Kein interner Reservebetrag und keine unbestätigte Zahlung dürfen im Außenbrief als feststehende Anspruchs- oder Erfüllungsgröße erscheinen.
 
 Nur verfügbare Werkzeuge nutzen; fehlenden Zugriff oder unlesbare Unterlagen konkret benennen und unabhängige Teile weiterbearbeiten. Ohne Export den Text liefern, keine Datei oder erfolgreiche Sicherung behaupten. Nutzerdateinamen gehen vor; andere Skills sind optional, und externe Handlungen erfordern weiterhin ausdrückliche Freigabe.

@@ -1,22 +1,44 @@
 {
   "schema_version": 1,
   "plugin": "email-umformulierer-berufsrecht",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/brao/__43a.html",
       "checked_on": "2026-09-14",
       "supports": "Absätze 2 und 3: Verschwiegenheit sowie Sachlichkeitsgebot ohne Gleichsetzung mit Verzicht auf nachdrückliche Vertretung."
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2013/07/rk20130702_1bvr175112.html",
+      "checked_on": "2026-09-22",
+      "supports": "BVerfG, Beschluss vom 2. Juli 2013, 1 BvR 1751/12, Randnummern 15–21. Bei anwaltlicher Zuspitzung Sachbezug, Anlass und Empfängerkreis prüfen; Schmähkritik eng bestimmen und betroffene Rechte abwägen. Grenze: Zivilrechtliche Unterlassungsurteile aufgehoben und zurückverwiesen, keine automatische Aufhebung einer Kammer­rüge und keine Erlaubnis bewusst falscher Tatsachen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/brao/__43a.html",
+      "checked_on": "2026-09-22",
+      "supports": "Amtlicher Wortlaut geprüft: Absatz 3: Sachlichkeitsgebot mit Grenzen bei bewussten Unwahrheiten und nicht veranlasster Herabsetzung; keine Pflicht, berechtigte scharfe Kritik zu beseitigen."
+    },
+    {
+      "url": "https://www.brak.de/fileadmin/02_fuer_anwaelte/berufsrecht/033-BORA_Stand_01.12.2025.pdf",
+      "checked_on": "2026-09-22",
+      "supports": "Amtlicher Wortlaut geprüft: Paragraf 12: Umgehungsverbot mit Gefahr-im-Verzug-Ausnahme und Unterrichtung; Paragraf 25: Vertraulichkeit berufsrechtlicher Beanstandungen, außer bei Wahrnehmung von Mandanten- oder Eigeninteressen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/brao/__43a.html",
+      "supports": "Erneuter Normabruf zu anwaltlichen Grundpflichten; sachliche, vertrauliche und adressatengerechte E-Mail-Fassung ohne behauptete Außenhandlung.",
+      "checked_on": "2026-09-23"
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Vollständige Schlusslektüre: Der gewünschte E-Mail-Text bleibt das Ergebnis, widersprüchliche Beträge und Anlagenfreigaben werden gezielt geklärt, ohne Höflichkeit in Anerkenntnis umzudeuten.",
+    "reason": "Die fertige E-Mail bleibt Hauptprodukt; scharfe Sachkritik wird nicht mit Schmähung gleichgesetzt. Vollständige Text- und gezielte Primärquellenprüfung; kein Live-Mandanten- oder Modelltest. Workflow-Ergänzung einzeln geprüft: Teilbetrag wird anerkannt oder Gegner ist anwaltlich vertreten -> Umfang des Bestreitens, Empfängerweg und Formulierung der Antwort gezielt ändern.",
     "changes": [
-      "Rechnungs- oder Fristwiderspruch mit gezielter Nachfrage und anschließender Fertigstellung verbunden.",
-      "Gewünschten Dateinamen priorisiert und Quellenstatus sowie entfernte Angriffe außerhalb der E-Mail erläutert."
+      "BVerfG-Kontextmaßstab an tatsächlichen Tonkorrekturauftrag gebunden.",
+      "Paragrafen 12 und 25 BORA gegenstandsbezogen konkretisiert.",
+      "Zitierapparat und Abwägung bei Bedarf nur in separate Änderungsnotiz.",
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
     ],
-    "sha256": "b8512cfd708d5d017abbe227cb5c9c06004fb3f053d332f1d4fcd201916297f3"
+    "sha256": "65a7561f9db4fef70cb3939561884438f1773f1a5d61c1727a9fb1fab4e0a8f4"
   },
   "selection": {
     "positive": [
@@ -64,12 +86,54 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Alle Abschnitte bis zur Fortsetzung gelesen. Die Umformulierung bewahrt Rechtsstandpunkt und Geheimnisse, behandelt Drohungen nicht nur stilistisch und verlangt keine ungefragte Berufsrechtsstellungnahme.",
+    "reason": "Kontextabwägung, direkte Kontaktaufnahme und vertrauliche Beanstandung ersetzen unklare Kollegialitätsverweise. Vollständige Text- und gezielte Primärquellenprüfung; kein Live-Mandanten- oder Modelltest. Workflow-Ergänzung einzeln geprüft: Eingangstext gegenüber eigener Erklärung, unbeabsichtigtes Anerkenntnis und Vergleich, konkrete Nachweise, Vertraulichkeit, Vertretungslage sowie Entschuldigung ohne erfundene Haftungsübernahme.",
     "changes": [
-      "Anlagenfreigabe und mögliches neues Angebot als konkrete Klärungspunkte statt allgemeiner Neuaufnahme formuliert.",
-      "Nach Antwort Original und Endfassung auf Betrag, Frist, Tatsachen und Bindung abgleichen lassen.",
-      "Tonvarianten und Vergleichstabelle optional gehalten; bestellter Brief wird vollständig geliefert."
+      "BVerfG-Kontextmaßstab an tatsächlichen Tonkorrekturauftrag gebunden.",
+      "Paragrafen 12 und 25 BORA gegenstandsbezogen konkretisiert.",
+      "Zitierapparat und Abwägung bei Bedarf nur in separate Änderungsnotiz.",
+      "Eingangstext gegenüber eigener Erklärung, unbeabsichtigtes Anerkenntnis und Vergleich, konkrete Nachweise, Vertraulichkeit, Vertretungslage sowie Entschuldigung ohne erfundene Haftungsübernahme."
     ],
-    "sha256": "0723700c884a76feeea0d7aa9178ebf8eaccdcd7e61b2e070ed2fae8e50cb416"
+    "sha256": "b842447b9d180ee79db7937147c47d02ae47d492d4a3cc21e2d7132bfc169f3a"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-23",
+    "files": [
+      "email-umformulierer-berufsrecht/email-umformulierer-berufsrecht-werkstatt.md",
+      "email-umformulierer-berufsrecht/email-umformulierer-berufsrecht-schnellstart.md",
+      "email-umformulierer-berufsrecht/README.md",
+      "quality/evals/email-umformulierer-berufsrecht.json"
+    ],
+    "opening_change": "Konkreten Zahlungswiderspruch oder Nachweisanforderung erhalten und persönliche Abwertung entfernen, ohne neue Bindung. Workflow-Ergänzung: Leer: Zahlungswiderspruch, Nachweisforderung oder sachliche Antwort auf persönliche Kritik anbieten. Dateien ohne Aufgabe: eingehende Nachricht und Entwurf still lesen; Ziel und Adressat nur bei Unklarheit klären. Klarer Auftrag: fertige E-Mail unmittelbar formulieren, ohne ungefragte materielle Vollprüfung oder Kommentarblock im Empfängertext.",
+    "norms": [
+      "BRAO Paragraf 43a Absatz 3",
+      "GG Artikel 5 Absatz 1",
+      "BORA Paragrafen 12 und 25"
+    ],
+    "decisions": [
+      {
+        "citation": "BVerfG, Beschluss vom 2. Juli 2013, 1 BvR 1751/12, Randnummern 15–21",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2013/07/rk20130702_1bvr175112.html",
+        "application": "Bei anwaltlicher Zuspitzung Sachbezug, Anlass und Empfängerkreis prüfen; Schmähkritik eng bestimmen und betroffene Rechte abwägen.",
+        "limit": "Zivilrechtliche Unterlassungsurteile aufgehoben und zurückverwiesen, keine automatische Aufhebung einer Kammer­rüge und keine Erlaubnis bewusst falscher Tatsachen."
+      }
+    ],
+    "remaining_limits": [
+      "Desk-/Quellenprüfung, kein Live-Mandanten- oder Modelltest.",
+      "README behauptet weiterhin ein allgemeines Kollegialitätsgebot aus Paragraf 25 BORA; außerhalb des Schreibbereichs nicht geändert.",
+      "Andere Berufsgruppen und Gebührennebenfragen nicht insgesamt neu verifiziert.",
+      "Workflow-Review 23.09.2026: Paragraf 43a BRAO erneut eingesehen; keine neue berufsrechtliche Rechtsprechung oder sachfremder Hauptsachefall hinzugefügt."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Zahlungswiderspruch, Nachweisforderung oder sachliche Antwort auf persönliche Kritik anbieten.",
+      "Dateien ohne Aufgabe: eingehende Nachricht und Entwurf still lesen; Ziel und Adressat nur bei Unklarheit klären.",
+      "Klarer Auftrag: fertige E-Mail unmittelbar formulieren, ohne ungefragte materielle Vollprüfung oder Kommentarblock im Empfängertext."
+    ],
+    "continuation": "Teilbetrag wird anerkannt oder Gegner ist anwaltlich vertreten -> Umfang des Bestreitens, Empfängerweg und Formulierung der Antwort gezielt ändern.",
+    "enrichment": "Eingangstext gegenüber eigener Erklärung, unbeabsichtigtes Anerkenntnis und Vergleich, konkrete Nachweise, Vertraulichkeit, Vertretungslage sowie Entschuldigung ohne erfundene Haftungsübernahme.",
+    "limits": "desk review; no live client execution"
   }
 }

@@ -1,27 +1,73 @@
 {
   "schema_version": 1,
   "plugin": "roemisch-katholisches-kirchenrecht",
-  "reviewed_on": "2026-09-17",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.vatican.va/archive/cod-iuris-canonici/deu/documents/cic_libro7_cann1732-1739_ge.html",
-      "checked_on": "2026-09-14",
+      "checked_on": "2026-09-22",
       "supports": "Canones 1734 bis 1737: Rücknahmebegehren, hierarchischer Rekurs, Nutzfristen und gesonderte Vollzugsaussetzung."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=ecli%3AECLI%3AEU%3AC%3A2018%3A696",
+      "checked_on": "2026-09-22",
+      "supports": "Berufsbezogene Rechtfertigung konfessionsabhängiger Loyalitätsanforderungen und gerichtliche Kontrolle. Grenze: Kein Maßstab kanonischer Ehegültigkeit oder CIC-Rekursfrist. CIC-Rekursabschnitt amtlich geprüft; Partikularrecht und aktuelle arbeitsrechtliche Folgerechtsprechung bleiben fallbezogen zu prüfen."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/8-azr-194-25-f/",
+      "checked_on": "2026-09-22",
+      "supports": "Amtlicher Volltext, Randnummern 13 und 21 bis 27: Tätigkeitsbezogene Einstellungsvoraussetzung; nicht jede Kirchenmitgliedschaftsanforderung ist gerechtfertigt."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62024CJ0258",
+      "checked_on": "2026-09-22",
+      "supports": "Amtlicher Volltext, Randnummern 58, 68 und 75 bis 76: Kirchenaustritt und konkrete Loyalitätsanforderung; kein automatischer Kündigungsgrund."
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/09/rs20250929_2bvr093419.html",
+      "checked_on": "2026-09-22",
+      "supports": "Amtlich veröffentlichter Leitsatz 3: heutige Zweistufenprüfung mit Tätigkeitsbezug. Kein eigener abschließender Ausspruch zur Rechtfertigung im Ausgangsfall."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=ecli%3AECLI%3AEU%3AC%3A2018%3A257",
+      "checked_on": "2026-09-22",
+      "supports": "Amtlicher Volltext, Randnummern 63 bis 68: berufsbezogene Rechtfertigung und Verhältnismäßigkeit."
+    },
+    {
+      "url": "https://www.vatican.va/archive/cod-iuris-canonici/deu/documents/cic_libro7_cann1732-1739_ge.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlichen Text der Canones 1732 bis 1739 gelesen; hierarchischer Rekurs, vorgelagerte Bitte und Aussetzungsfrage."
     }
   ],
   "mini_review": {
-    "verdict": "retained",
-    "reason": "Am 18. September vollständig gelesen: Rücknahmebegehren, Rekurs und Aussetzung bleiben getrennt; fehlende Bekanntgabeunterlagen führen zur gezielten Nachfrage und anschließenden Überarbeitung des bestellten Entwurfs.",
+    "verdict": "revised",
+    "reason": "Fachliche Startvarianten und konkrete Antwortfortsetzung einzeln geprüft. Abänderungsbitte, neues Dekret und bloße Eingangsbestätigung unterscheiden; Aussetzung gesondert begründen; Ehewillen im Eheschließungszeitpunkt, Registerberichtigung und kirchliche Beschäftigung in eigene Dokumentwege überführen.",
     "changes": [
-      "Keine weitere Textänderung: Unterscheidung kirchlicher Entscheidung und staatlicher Wirkung sowie Nutzfristen erhalten."
+      "Akt, Rechtsposition und konkreter Antrag oder Rekurs im Mittelpunkt; staatliche Wirkungen separat.",
+      "Berufsbezogene Rechtfertigung konfessionsabhängiger Loyalitätsanforderungen und gerichtliche Kontrolle. Grenze: Kein Maßstab kanonischer Ehegültigkeit oder CIC-Rekursfrist.",
+      "Einstellung und Kündigung nach der Rechtsprechung von 2026 getrennt; ältere kirchliche Loyalitätsmaßstäbe nicht isoliert anwenden.",
+      "Leerstart: Dekret/Rekurs, Ehe- oder Registeranliegen oder kirchliche Beschäftigung wählen.",
+      "Ein nachgereichtes Dekret oder Empfangsdatum verändert Rekursgegenstand, Fristweg und Antrag; Registerbelege verändern nur den belegten Statusbefund.",
+      "Abänderungsbitte, neues Dekret und bloße Eingangsbestätigung unterscheiden; Aussetzung gesondert begründen; Ehewillen im Eheschließungszeitpunkt, Registerberichtigung und kirchliche Beschäftigung in eigene Dokumentwege überführen."
     ],
-    "sha256": "71a1496c229d2682da07dd91eb564e848b48a7976af3ab73162c70c58737c9d0"
+    "sha256": "c86d72a0a046253c92daae132dde37cd63bc4b3f4674c7d33df2e3c225a25731",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
   },
   "workshop_review": {
-    "verdict": "retained",
-    "reason": "Vollständige Textprüfung am 18. September: Die Werkstatt unterscheidet Verwaltungsrekurs, Eheverfahren, Vermögen und kirchlichen Dienst. Nach Eingang von Dekret, Bekanntgabenachweis oder Urkunde wird die betroffene Prüfung fortgesetzt; eine kirchliche Entscheidung wird nicht selbst ausgesprochen.",
-    "changes": ["Keine weitere Änderung an den fachbezogenen Verzweigungen oder Quellen; keine erneute Rechtsquellenprüfung und kein Live-Modelltest."],
-    "sha256": "2f4314f4ee2b33d9ddabd72f94aba6e652d928e6cd2b6a826e798e4b4f2e4d94"
+    "verdict": "revised",
+    "reason": "Vollständige Werkstatt mit zusätzlichen fachlichen Entscheidungs- und Dokumentwegen einzeln geprüft. Abänderungsbitte, neues Dekret und bloße Eingangsbestätigung unterscheiden; Aussetzung gesondert begründen; Ehewillen im Eheschließungszeitpunkt, Registerberichtigung und kirchliche Beschäftigung in eigene Dokumentwege überführen.",
+    "changes": [
+      "Akt, Rechtsposition und konkreter Antrag oder Rekurs im Mittelpunkt; staatliche Wirkungen separat.",
+      "Berufsbezogene Rechtfertigung konfessionsabhängiger Loyalitätsanforderungen und gerichtliche Kontrolle. Grenze: Kein Maßstab kanonischer Ehegültigkeit oder CIC-Rekursfrist.",
+      "Einstellung und Kündigung nach der Rechtsprechung von 2026 getrennt; ältere kirchliche Loyalitätsmaßstäbe nicht isoliert anwenden.",
+      "Leerstart: Dekret/Rekurs, Ehe- oder Registeranliegen oder kirchliche Beschäftigung wählen.",
+      "Ein nachgereichtes Dekret oder Empfangsdatum verändert Rekursgegenstand, Fristweg und Antrag; Registerbelege verändern nur den belegten Statusbefund.",
+      "Abänderungsbitte, neues Dekret und bloße Eingangsbestätigung unterscheiden; Aussetzung gesondert begründen; Ehewillen im Eheschließungszeitpunkt, Registerberichtigung und kirchliche Beschäftigung in eigene Dokumentwege überführen."
+    ],
+    "sha256": "8373b8681edb0f2ddb969a6b39ed476f90edb8b126ba0b3ae2f5cd4630f97b51",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
   },
   "selection": {
     "positive": [
@@ -66,5 +112,54 @@
       ],
       "target_skill": "hierarchischer-rekurs"
     }
-  ]
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "roemisch-katholisches-kirchenrecht/roemisch-katholisches-kirchenrecht-werkstatt.md",
+      "roemisch-katholisches-kirchenrecht/roemisch-katholisches-kirchenrecht-schnellstart.md"
+    ],
+    "opening_change": "Akt, Rechtsposition und konkreter Antrag oder Rekurs im Mittelpunkt; staatliche Wirkungen separat.",
+    "norms": [
+      "Canones 1732 bis 1739 CIC",
+      "Paragraf 9 AGG",
+      "Artikel 4 Absatz 2 Richtlinie 2000/78/EG"
+    ],
+    "decisions": [
+      {
+        "citation": "EuGH, 11.09.2018, C-68/17, IR, Randnummern 43 bis 50",
+        "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62017CJ0068",
+        "application": "Berufsbezogene Rechtfertigung konfessionsabhängiger Loyalitätsanforderungen und gerichtliche Kontrolle.",
+        "limit": "Kein Maßstab kanonischer Ehegültigkeit oder CIC-Rekursfrist."
+      },
+      {
+        "citation": "BAG, 21.05.2026, 8 AZR 194/25 (F), Randnummern 13 und 21 bis 27",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/8-azr-194-25-f/",
+        "application": "Stellenausschreibung und Einstellungsanforderung.",
+        "limit": "Kein allgemeines Privileg kirchlicher Arbeitgeber."
+      },
+      {
+        "citation": "EuGH, 17.03.2026, C-258/24, Randnummern 58, 68 und 75 bis 76",
+        "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62024CJ0258",
+        "application": "Arbeitsrechtliche Folgen des Kirchenaustritts.",
+        "limit": "Keine Entscheidung über kanonischen Status."
+      }
+    ],
+    "remaining_limits": [
+      "CIC-Rekursabschnitt und die genannten arbeitsrechtlichen Entscheidungen geprüft. Partikularrecht sowie nachfolgende Entwicklungen sind im Einzelfall erneut abzugleichen; keine Durchführung einer kanonischen Verfahrensprüfung im Modelltest.",
+      "Workflow-Vertiefung 2026-09-23: Partikularrecht, CCEO-Spezialfragen und staatliche Beschäftigungsfolgen nicht vollständig neu verifiziert. Die bereits dokumentierten Entscheidungen von EuGH und BAG einschließlich 2026 bleiben mit ihren bisherigen Reichweitengrenzen erhalten. Desk review; keine Live-Client-Ausführung."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leerstart: Dekret/Rekurs, Ehe- oder Registeranliegen oder kirchliche Beschäftigung wählen.",
+      "Dateien: kirchliche Urkunden still lesen und nur das konkrete Eingabe- oder Beratungsziel klären.",
+      "Klarer Auftrag: Rekurs, Antrag oder Beratungsbrief unmittelbar ausarbeiten, entscheidende Bekanntgabe- und Statuslücken gezielt klären."
+    ],
+    "continuation": "Ein nachgereichtes Dekret oder Empfangsdatum verändert Rekursgegenstand, Fristweg und Antrag; Registerbelege verändern nur den belegten Statusbefund.",
+    "enrichment": "Abänderungsbitte, neues Dekret und bloße Eingangsbestätigung unterscheiden; Aussetzung gesondert begründen; Ehewillen im Eheschließungszeitpunkt, Registerberichtigung und kirchliche Beschäftigung in eigene Dokumentwege überführen.",
+    "limits": "desk review; no live client execution"
+  }
 }

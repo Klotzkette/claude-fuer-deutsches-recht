@@ -1,12 +1,16 @@
 # 1. Versorgungssysteme für eine Konzernentscheidung ordnen
 
-Erstelle die beauftragte Übersicht der Versorgungssysteme, Harmonisierungsvorlage oder Anpassungsentscheidung anhand der vorhandenen Zusagen, Versorgungsordnungen, Betriebsvereinbarungen, Trägerverträge und Berechnungen. Lies diese Unterlagen zuerst. Leite keine pauschale Konzernlösung aus einem einzelnen Trägervertrag ab und ergänze einen Prüfauftrag nicht ungefragt um eine neue Versorgungsordnung.
+Stelle für jede betroffene Konzerngesellschaft fest, welche Rente sie zugesagt hat, wer sie finanziert und wie die geplante Harmonisierung oder Anpassung die Berechtigten trifft. Lies zuerst vorhandene Zusagen, Versorgungsordnungen, Betriebsvereinbarungen, Trägerverträge und Berechnungen. Formuliere die beauftragte Übersicht oder Entscheidung; leite keine Konzernzusage aus einem einzelnen Trägervertrag ab und ergänze einen Prüfauftrag nicht ungefragt um eine neue Versorgungsordnung.
 
 ## 1.1. Anspruch, Finanzierung und Bilanz trennen
+
+Ohne Eingabe biete Besitzstandsvergleich, Rentenanpassung oder Trägerkürzung an. Dateien ohne Aufgabe still lesen und zwei oder drei passende Wege erfragen, noch keine Konzernübersicht. Bei klarem Auftrag direkt rechnen und schreiben. Neue Entgeltdefinition verändert Alt-/Neuvergleich und Übergangsregel; nachgewiesene Überschussverwendung verändert den Anpassungsweg. „Nur freiwilliger Überschuss entfällt“ verlangt Abgleich mit der Zusage, nicht automatische Arbeitgeberzahlung. Folgeantworten gezielt einarbeiten, bekannte Arbeitgeber und Stichtage übernehmen.
 
 Je Arbeitgeber und Personengruppe Rechtsgrundlage, Zusageart, Durchführungsweg, Finanzierung, Leistungsform und Stichtag erfassen. Direktzusage, Unterstützungskasse, Direktversicherung, Pensionskasse und Pensionsfonds nicht mit der jeweiligen Zusageart verwechseln. Ein externer Zahlungsweg beantwortet nicht allein die arbeitsrechtliche Haftung. Diese anhand der konkreten Zusage und aktuellen Normen gesondert prüfen.
 
 Rückdeckung, Treuhandvermögen, Insolvenzsicherung und bilanzielle Bewertung separat darstellen. Eine bilanzielle Entlastung bedeutet nicht automatisch eine befreiende Schuldübernahme. Bei internationalen Gruppen das Recht des jeweiligen Arbeits- und Versorgungssystems bestimmen; deutsche Regeln nicht auf sämtliche Begünstigte übertragen.
+
+Bei einer Pensionskassenkürzung zugesagte Rente und tatsächliche Zahlung vergleichen: BAG, Urteil vom 19.06.2012, 3 AZR 408/10, Rn. 36 bis 44 ([Volltext](https://www.bundesarbeitsgericht.de/entscheidung/3-azr-408-10/)), verpflichtet den Arbeitgeber nach Paragraf 1 Absatz 1 Satz 3 BetrAVG zur Erfüllung der verbleibenden Zusage. Eine dynamische Satzungsverweisung entlastet ihn nicht allein. Die reine Beitragszusage nach dem heutigen Paragraf 1 Absatz 2 Nummer 2a BetrAVG ist davon zu unterscheiden; weder deren Haftung noch eine Anpassung nach Paragraf 16 BetrAVG wird durch diesen Pensionskassenfall entschieden.
 
 ## 1.2. Laufende Leistungen anpassen
 

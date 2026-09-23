@@ -1,21 +1,34 @@
 {
   "schema_version": 1,
   "plugin": "mittelstand-corporate-ma",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__15.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlichen Normtext erneut gelesen: Form von Verpflichtung und Abtretung sowie mögliche weitere Satzungsvoraussetzungen. Unterzeichnung ist von konkreten vertraglichen Vollzugsbedingungen zu unterscheiden."
+    },
     {
       "url": "https://www.gesetze-im-internet.de/gmbhg/__15.html",
       "checked_on": "2026-09-14",
       "supports": "Form von Verpflichtung und Abtretung sowie zusätzliche Satzungsvoraussetzungen."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2018/II_ZR_364-18.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 08.01.2019 - II ZR 364/18, Rn. 24 bis 47: Beim Verkauf des ganzen GmbH-Unternehmens interne Zustimmung der Gesellschafter von externer Vertretungsmacht trennen; Kenntnis oder Evidenz eines Vollmachtsmissbrauchs auf Käuferseite prüfen. Grenze: Paragraf 179a AktG gilt nicht analog für die GmbH; fehlender Beschluss macht den Vertrag nicht automatisch unwirksam. Kein allgemeiner Maßstab für jeden Share Deal."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Vollständig gelesen: Vertragsbefund, Kaufpreisrechnung und Vollzugsnachweis werden getrennt und bis zur beauftragten Fassung bearbeitet.",
+    "reason": "Mini individuell um drei Eingangsmodi und konkreten Bankzustimmungsdialog ergänzt; neue Nachweise ändern Vollzugsstatus und Entscheidung im bestehenden Dokument. Interne Zustimmung und externe Wirksamkeit bleiben getrennt; Desk-Prüfung.",
     "changes": [
-      "Buchungsantworten verändern Kaufpreis und Restzahlung; Bank- und Gremiennachweise führen zur aktualisierten Vollzugsliste statt zum Ende nach einer Nachforderung."
+      "Kein automatischer Nichtigkeitsbefund aus fehlender Zustimmung oder analogem Paragraf 179a AktG.",
+      "Erkennbare Zustimmungsdefizite führen zu konkreter Nachfrage und Vertragsabsicherung.",
+      "Unbelegte Fallnummernliste durch amtlich geprüfte begrenzte Aussage ersetzt.",
+      "Positive Prüfungsnachricht, bedingte Zustimmung und einseitigen Verzicht im konkreten Vollzugsablauf getrennt."
     ],
-    "sha256": "c99d5c324b2a8b82300dd3774c7779bf191d9ead65a6c71380cc6803a616ab7f"
+    "sha256": "752f592bcf6f5ab92d7709df1dae1816ce6b0ffa1166b7a853389a9bd1ef53a9"
   },
   "selection": {
     "positive": [
@@ -63,10 +76,55 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die gesamte Werkstatt einschließlich Personal, Beirat, Krise und Rechtsprechungsgrenzen wurde gelesen. Unterzeichnung ersetzt weder Bedingungseintritt noch Zahlung.",
+    "reason": "Vollständig individuell geprüfte Werkstatt um außerhalb der Zielgesellschaft gehaltene Betriebsgrundlagen, Kundenvertragsbefunde, konkrete Freistellung, neue Offenlegung, Earn-out und Ablösebedingungen erweitert. Familien-, Beirats-, Krisen- und Vollzugsrouten erhalten; kein Live-Test.",
     "changes": [
-      "Datenraumbefunde führen zu konkreter Garantie, Freistellung oder Bedingung; neue Nachweise werden in Klausel und Gremienvorlage eingearbeitet, ohne zusätzliche Pflichtberichte."
+      "Kein automatischer Nichtigkeitsbefund aus fehlender Zustimmung oder analogem Paragraf 179a AktG.",
+      "Erkennbare Zustimmungsdefizite führen zu konkreter Nachfrage und Vertragsabsicherung.",
+      "Unbelegte Fallnummernliste durch amtlich geprüfte begrenzte Aussage ersetzt.",
+      "Datenraumbefund und neue Offenlegung in konkrete Garantie-, Freistellungs- oder Bedingungsfassung übersetzt.",
+      "Earn-out-Definition und Rechnung, Hausbankablösung und Bürgschaftsfreigabe sowie bedingte Zustimmung mit Nachweisfolgen vertieft.",
+      "Fertige Vollzugsvorlage von tatsächlich freigegebenem Vollzug und nachgewiesener Erledigung getrennt."
     ],
-    "sha256": "0bfa53cffe97cf77035a50a57f9efccf922f40e7f7d4f506d361170ea94ace59"
+    "sha256": "6f0db3d430c9a11b77e9e7a9e57fc4d094bfb5ad0155d62b7c87ba3f78d0b7a7"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "mittelstand-corporate-ma/README.md",
+      "mittelstand-corporate-ma/mittelstand-corporate-ma-werkstatt.md",
+      "mittelstand-corporate-ma/mittelstand-corporate-ma-schnellstart.md",
+      "quality/evals/mittelstand-corporate-ma.json"
+    ],
+    "opening_change": "Familiengesellschafter, Hausbank und Verkauf des Betriebs bestimmen die konkrete Preis- und Zustimmungskontrolle.",
+    "norms": [
+      "GmbHG Paragraf 37",
+      "GmbHG Paragraf 49 Absatz 2",
+      "AktG Paragraf 179a"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 08.01.2019 - II ZR 364/18, Rn. 24 bis 47",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2018/II_ZR_364-18.pdf?__blob=publicationFile&v=1",
+        "application": "Beim Verkauf des ganzen GmbH-Unternehmens interne Zustimmung der Gesellschafter von externer Vertretungsmacht trennen; Kenntnis oder Evidenz eines Vollmachtsmissbrauchs auf Käuferseite prüfen.",
+        "limit": "Paragraf 179a AktG gilt nicht analog für die GmbH; fehlender Beschluss macht den Vertrag nicht automatisch unwirksam. Kein allgemeiner Maßstab für jeden Share Deal."
+      }
+    ],
+    "remaining_limits": [
+      "Familiäre Nachfolge-, Steuer- und Betriebsübergangsfragen bleiben separat zu verifizieren; kein Share-Deal-Universalanker.",
+      "Desk- und Quellenprüfung; kein Live-Client- oder Live-Modelltest und keine vollständige Neuverifikation sämtlicher vorhandener Quellen.",
+      "Ergänzung 2026-09-23: Beide bisherigen Profil-URLs erneut aufgerufen. Paragraf 15 GmbHG amtlich gelesen; Direktabruf des BGH-PDF II ZR 364/18 nicht erfolgreich. Dessen frühere datierte Primärtextprüfung bleibt historischer Stand, keine erneute Volltextprüfung behauptet. Ergänzungen zu Earn-out, Ablösung und Offenlegung sind Vertragsarbeitswege, keine Behauptung zwingender Standardklauseln oder neuer Rechtsprechung."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Auswahl zwischen Befund in Vertragsklausel, Kaufpreisprüfung und Vollzugsvorbereitung.",
+      "Dateien ohne Auftrag: Vertrags- und Datenraumunterlagen still lesen und nur gewünschtes Ergebnis klären.",
+      "Klarer Auftrag: unmittelbar Vertragsfassung oder Vollzugsvorlage bearbeiten; nur entscheidende Mechanismen und Nachweise nachfragen."
+    ],
+    "continuation": "Verbindliche Bankzustimmung mit passender Gesellschaft und erfüllten Nebenbedingungen ändert Status, offene Voraussetzungen und Empfehlung am bisherigen Pfad kaufvertrag.md oder vollzug.md.",
+    "enrichment": "Betriebsgrundlagen im Familieneigentum, Kundenvertragsklauseln, konkrete Freistellung, späte Offenlegung, Earn-out-Rechnung, Ablösebetrag und Sicherheitenfreigabe sowie Nachweis und Verzicht beim Vollzug individuell vertieft.",
+    "limits": "desk review; no live client execution"
   }
 }

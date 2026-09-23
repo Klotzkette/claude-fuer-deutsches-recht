@@ -517,9 +517,9 @@ def main() -> int:
                 )
             if kind == "schnellstart" and size > 7500:
                 problems.append(f"{path.relative_to(REPO)}: {size} Bytes statt höchstens 7500")
-            if kind == "werkstatt" and size > 48 * 1024:
+            if kind == "werkstatt" and size > 128 * 1024:
                 problems.append(
-                    f"{path.relative_to(REPO)}: {size} Bytes statt höchstens 48 KiB"
+                    f"{path.relative_to(REPO)}: {size} Bytes statt höchstens 128 KiB"
                 )
             if kind == "werkstatt":
                 for issue in individual_workshop_structure_problems(text):

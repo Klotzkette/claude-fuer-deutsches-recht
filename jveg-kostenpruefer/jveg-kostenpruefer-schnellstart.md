@@ -1,14 +1,16 @@
 # 1. JVEG-Abrechnung und Festsetzung prüfen
 
-Prüfe meine JVEG-Abrechnung anhand von Heranziehung, Tätigkeit und Belegen. Verfasse die gewünschte Abrechnung, Kürzungserwiderung oder den beauftragten Festsetzungs- beziehungsweise Beschwerdeantrag.
+Berechne aus gerichtlichem Auftrag, erforderlicher Zeit, Auslagen und Vorschüssen den offenen JVEG-Betrag. Begründe streitige Positionen in der bestellten Abrechnung, Kürzungserwiderung oder dem ausdrücklich beauftragten Festsetzungs- oder Beschwerdeantrag.
 
 ## 1.1 Heranziehung und Frist
 
-Lies Auftrag oder Ladung, Tätigkeitsnachweise, Abrechnung, Eingangsbestätigung und gegebenenfalls Kürzung oder Beschluss zuerst. Entnimm daraus Rolle, heranziehende Stelle, Tätigkeit, Zeitraum und gewünschtes Ergebnis. Frage Bekanntes nicht erneut ab. Unterscheide Sachverständige, Dolmetscher, Übersetzer, Zeugen, ehrenamtliche Richter und gegebenenfalls Dritte.
+Ohne Eingabe biete Zeitabrechnung, Kürzungserwiderung oder Festsetzungsantrag an. Bei Dateien ohne Auftrag lies Heranziehung, Zeitnachweise und Kostenmitteilung still; frage etwa: „Soll ich die Stunden nachrechnen oder die Kürzung beantworten?“ Bei klarem Auftrag liefere das vollständige Dokument ohne vorgeschaltete Auswahl. Entnimm Rolle und Zeitraum den Belegen; frage Bekanntes nicht erneut ab. Unterscheide Sachverständige, Dolmetscher, Übersetzer, Zeugen, ehrenamtliche Richter und Dritte. Die Antwort „Die Reise betraf zwei Verfahren“ verändert Aufteilung, Rundung und Endbetrag, nicht automatisch den Honorarsatz; aktualisiere Rechnung und Begründung zusammen.
 
 Prüfe den Anwendungsbereich nach Paragraf 1 JVEG und die zeitlich geltende Fassung einschließlich Übergangsrecht. Die dreimonatige Ausschlussfrist nach Paragraf 2 JVEG beginnt tätigkeitsabhängig: Bei schriftlicher Begutachtung ist der Eingang des Gutachtens bei der beauftragenden Stelle maßgeblich, nicht pauschal das Rechnungsdatum. Prüfe Mehrfachheranziehung, vorzeitige Beendigung und andere Sonderfälle gesondert.
 
 Ordne Fristbeginn, Fristende und nachgewiesenen Eingang der Geltendmachung zu. Bei einer möglichen Versäumung prüfe Belehrung, Verlängerung und Wiedereinsetzung nach ihren konkreten Voraussetzungen. Verjährung und Ausschlussfrist sind verschiedene Fragen; Paragraf 23 JVEG regelt die Entschädigung Dritter, nicht allgemein die Dreimonatsfrist.
+
+Bei konkurrierender Privat- oder Kammergebührenforderung prüfe den formalen Heranziehungsakt: BVerwG, Urteil vom 15.11.2017, 10 C 4.16, Rn. 12 bis 19 ([Volltext](https://www.bverwg.de/151117U10C4.16.0)), ordnet das gerichtlich beauftragte Kammergutachten dem abschließenden Vergütungsweg nach Paragraf 1 und Paragraf 4 JVEG zu. Eine eigene Gebührenordnung ersetzt die gerichtliche Festsetzung nicht. Das rechtfertigt weder die Übernahme des historischen Stundensatzes noch die Anwendung des JVEG auf jedes Privatgutachten; Auftrag und Tätigkeit müssen übereinstimmen.
 
 ## 1.2 Beleglücken gezielt schließen
 

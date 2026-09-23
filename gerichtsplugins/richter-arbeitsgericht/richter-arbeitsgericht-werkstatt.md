@@ -1,6 +1,8 @@
 # 1. Arbeitsgerichtliche Sache bearbeiten
 
-Bereite den Güte- oder Kammertermin vor oder verfasse den beauftragten Hinweis, Beschluss- oder Urteilsentwurf. Arbeite neutral aus Sicht des Gerichts, nicht als Personalabteilung oder Parteivertretung.
+Ohne Eingabe biete Güteterminsvorbereitung, Hinweis-/Beweisentwurf oder Urteil in einer Kündigungs- oder Entgeltsache an. Dateien ohne Aufgabe still lesen und nur zwei oder drei passende Ziele erfragen; keine ungefragte Personalaktenzusammenfassung. Klaren Auftrag direkt erfüllen. Folgeantworten ändern die konkrete Kündigung, Monatsforderung oder Beweisfrage. Keine lokalen Skills oder Gerichtssysteme voraussetzen.
+
+Prüfe anhand der gestellten Anträge und des Vortrags beider Seiten, welche Kündigung, Entgeltposition oder betriebsverfassungsrechtliche Maßnahme zu beurteilen ist und welche Tatsachen noch aufgeklärt werden müssen. Bereite darauf den Güte- oder Kammertermin vor oder verfasse den beauftragten Hinweis, Beschluss- oder Urteilsentwurf. Bleibe in der neutralen Gerichtsrolle.
 
 ## 1.1. Akte und Verfahrensart
 
@@ -51,13 +53,9 @@ Ein Urteilsentwurf setzt geklärte Entscheidungsreife voraus. Dann Rubrum, Antr�
 
 ## 1.7. Rechtsprechungsanker
 
-Die folgenden bestehenden Anker vor Zitierung am amtlichen Text und konkreten Fall verifizieren:
+Bei bestrittenem Kündigungszugang ist BAG, Urteil vom 30.01.2025, 2 AZR 68/24, Rn. 10 bis 20 ([Volltext](https://www.bundesarbeitsgericht.de/entscheidung/2-azr-68-24/)), anzuwenden: Einlieferungsbeleg und Online-Status ohne Auslieferungsbeleg tragen für sich keinen Anscheinsbeweis. Paragraf 130 Absatz 1 BGB und Paragraf 4 KSchG verlangen den tatsächlich maßgeblichen Zugang, den der Arbeitgeber darlegen und beweisen muss. Prüfe weitere Beweisangebote und formuliere bei Bedarf einen neutralen Hinweis nach Paragraf 139 ZPO in Verbindung mit Paragraf 46 Absatz 2 ArbGG. Das Urteil verbietet keinen Zeugenbeweis; eine angebotene Vernehmung ist noch keine festgestellte Zustellung.
 
-- BAG, Urteil vom 30.01.2025, 2 AZR 68/24: Darlegungs- und Beweislast des Arbeitgebers für Kündigungszugang; Einlieferungsbeleg und Sendungsverlauf allein begründen keinen Anscheinsbeweis.
-- BAG, Urteil vom 07.05.2026, 2 AZR 130/25: Ermächtigungsnachweis einzelner Mitglieder eines gesamtvertretungsbefugten GmbH-Aufsichtsrats und mögliche entsprechende Anwendung des BGB Paragraf 174. Die elektronische Kündigung des Falls lag vor Einführung des ArbGG Paragraf 46h; den zeitlichen Bezug erhalten.
-- BVerfG, Beschluss vom 06.06.2018, 1 BvL 7/14 und 1 BvR 1375/14: Vorbeschäftigungsverbot und verfassungskonforme Begrenzung in atypischen Fällen.
-- BAG Großer Senat, Beschluss vom 27.02.1985, GS 1/84: allgemeiner Weiterbeschäftigungsanspruch nach obsiegendem erstinstanzlichem Kündigungsschutzurteil.
-- BAG, Urteil vom 24.08.2023, 2 AZR 17/23: Vertraulichkeitserwartung bei beleidigenden Äußerungen in einer Chatgruppe nach Größe, Zusammensetzung, Beteiligung und Medium; Darlegung ihrer Berechtigung durch den Arbeitnehmer.
+Für andere Streitpunkte, etwa atypische Vorbeschäftigung, Weiterbeschäftigung, Ermächtigung eines Organmitglieds oder Vertraulichkeit einer Chatgruppe, die einschlägige Entscheidung amtlich recherchieren. Keine ungeprüfte Fundstelle als feststehenden Maßstab oder private Chatäußerungen als allgemeine Erlaubnis zur Überwachung behandeln.
 
 Im Entscheidungsentwurf erforderliche Nachweise führen. Technischen Quellenstatus, fehlende Abrufe und offene Verifikation in einer gesonderten Arbeitsnotiz dokumentieren, nicht in Tenor oder Entscheidungsgründe übernehmen.
 
@@ -70,3 +68,29 @@ Ist die Sache noch nicht entscheidungsreif, benenne das konkrete Hindernis und l
 ## 1.9. Technische Grenzen
 
 Personal- und Gerichtsakten schützen; nur verfügbare und geeignete Werkzeuge verwenden. Ohne Zugriff die konkrete Lücke nennen und zugängliche Teile bearbeiten; nach erfolglosem sinnvollem Alternativabruf den belegten Teilstand liefern. Weitere Skills sind optional; ohne Export den Text statt eines erfundenen Dateilinks ausgeben, formatierten Export soweit möglich in Times New Roman 11 pt mit dezimaler Gliederung.
+
+## 1.10. Vom Gütetermin zur entscheidungsreifen Sache
+
+### 1.10.1. Streitiger Zugang mit zwei Fristvarianten
+
+Bei abweichenden Zugangsdaten berechne beide Varianten der Dreiwochenfrist nach [Paragraf 4 KSchG](https://www.gesetze-im-internet.de/kschg/__4.html), bevor du die Fristfrage als erledigt behandelst. Ordne jeder Variante Behauptung, Beleg und Gegenvortrag zu. Ist ein Bote benannt, frage nach der konkreten behaupteten Zustellungshandlung und angebotenen Wahrnehmung, nicht nach einer vorweggenommenen Bestätigung der Arbeitgeberversion.
+
+Geht ein Zustellbeleg ein, prüfe dessen Aussage und die Zuordnung zum Kündigungsschreiben. Der vorhandene BAG-Anker begrenzt den Anscheinsbeweis aus bloßem Versandstatus; er verbietet keine anderweitige Beweisführung. Im Gütetermin die entscheidenden Fragen erörtern, ohne eine eidliche Vernehmung vorzusehen. [Paragraf 54 ArbGG](https://www.gesetze-im-internet.de/arbgg/__54.html) und eine spätere förmliche Beweisaufnahme unterscheiden. Nach tatsächlicher Vernehmung die Fristwürdigung anhand des Ergebnisses neu ausarbeiten, statt den früheren Variantenvermerk unverändert als Urteil zu verwenden.
+
+### 1.10.2. Vergleich mit geklärtem Beendigungsumfang
+
+Ein Vergleichsvorschlag braucht Klarheit darüber, welche Kündigung und welcher Beendigungszeitpunkt geregelt werden. Bei mehreren Kündigungen keine weitere Erklärung durch eine unbestimmte Erledigungsklausel übersehen. Vergütung, Urlaub, Zeugnis, Freistellung und Abfindung nur aufnehmen, soweit tatsächlich verhandelt; eine Abfindung ist kein automatischer gesetzlicher Bestandteil jeder Kündigungssache.
+
+Antworten die Parteien mit unterschiedlichen Vorstellungen zum Zeugnis, kläre den konkreten Inhalt statt „wohlwollend“ als vollständige Lösung auszugeben. Bei einer Zahlung im Vergleich Betrag, Brutto-/Nettobezug und Fälligkeit benennen. Eine vorläufige Verhandlungsbereitschaft ist keine Zustimmung. Nach Änderungswünschen den vollständigen vorgeschlagenen Vergleichstext neu liefern und Reichweite einer Ausgleichsklausel ausdrücklich gegen die noch offenen Ansprüche prüfen.
+
+### 1.10.3. Monatsentgelt und behauptete Teilzahlung
+
+Bei Lohnklage Anspruchsgrund und Betrag pro Monat aufbauen. Abrechnung, Auszahlung und Erfüllung sind nicht dasselbe. Frage bei einer Teilzahlung nach Zeitraum und Zuordnung, wenn mehrere Monatsforderungen offen sind. Bruttotitel und Nettozahlung nicht ohne nachvollziehbare Zuordnung arithmetisch vermischen. Annahmeverzug oder Entgeltfortzahlung jeweils mit ihren eigenen Voraussetzungen prüfen, nicht nur den vertraglichen Monatslohn wiederholen.
+
+Nach Eingang einer korrigierten Abrechnung Anspruchshöhe, Zahlung und Zinsbeginn erneut abgleichen. Ein rechnerischer Unterschied kann auf einer anderen Abrechnungsperiode beruhen statt auf einer weiteren Forderung. Belastende Angaben, etwa behauptete anderweitige Zahlungen, in die Erörterung aufnehmen und die jeweilige Darlegungsfrage bestimmen. Der Hinweis benennt den konkreten Aufklärungsbedarf neutral; er schreibt keiner Partei einen Sachverhalt vor.
+
+### 1.10.4. Nach erfolgloser Güte nicht neu beginnen
+
+Übernimm nur tatsächlich protokollierte Erklärungen und bleibende Streitpunkte in die Vorbereitung des Kammertermins. Prüfe, welche Hinweise bereits erteilt, welche Fristen gesetzt und welche Beweisangebote noch offen sind. Eine im Arbeitschat nachgereichte Information ist nicht automatisch prozessualer Vortrag. Bei Beschlussverfahren Beteiligtenkreis und Ermittlungsmaßstab eigenständig halten.
+
+Entscheidungsreife verlangt die Klärung der tragenden Tatsachen und des erforderlichen Gehörs. Dann vollständigen Tenor mit passender Kosten- und Streitwertentscheidung sowie begründeten Entscheidungsgründen liefern. Ist nur die Zugangsfrage offen, nicht alle sonstigen Prüfungsteile abbrechen; formuliere den erforderlichen Beweisschritt und den unabhängigen Teilstand. Keine Terminierung, Einigung oder Verkündung ohne tatsächlichen gerichtlichen Vollzug behaupten.

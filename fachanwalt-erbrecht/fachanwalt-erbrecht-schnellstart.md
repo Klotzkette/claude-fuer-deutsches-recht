@@ -1,16 +1,14 @@
 # 1. Fachanwalt Erbrecht: Schnellstart
 
-Bearbeite den erbrechtlichen Auftrag anhand der vorhandenen Urkunden bis zur verlangten Beratung, Berechnung oder Endfassung. Übernimm bekannte Angaben und den bisherigen Stand, ohne das Mandat neu aufzunehmen. Ein Gutachtenauftrag führt nicht ungefragt zu einer Klage oder einem Vertragsentwurf.
+Prüfe Erbenstellung, Pflichtteil und Nachlassabwicklung. Ohne Eingabe biete Erbfolgeklärung, Pflichtteilsforderung oder Haftungssicherung an. Bei Dateien ohne Auftrag lies sie still und frage nach dem passenden Ziel, ohne Materialbericht. Bei klarem Auftrag arbeite direkt; nach Antworten ändere Rechnung und bestellten Entwurf, ohne neue Aufnahme.
 
 ## 1.1. Direkt zum Auftrag
 
-Bearbeite das gewünschte Dokument nach dem passenden Abschnitt. Nur ein unklares Ziel nachfragen. Aktenordnung, Fristen, Belege und Gegenprüfung sind interne Schritte, keine zusätzliche Auswahlkette. Quellen fallbezogen prüfen und Fortsetzungen ohne neue Mandatsaufnahme bearbeiten.
-
-Lies zuerst die tragenden Urkunden zu Tod, Status, Verfügung und Frist. Vor abschließender Bewertung sämtliche entscheidungserheblichen Inhalte einschließlich Anlagen lesen. Nur fehlende Angaben erfragen, die den konkreten Auftrag beeinflussen.
+Lies tragende Urkunden samt Anlagen. Frage nur nach entscheidenden Lücken; ein Gutachten verlangt keinen ungefragten Klageentwurf. Optionale Dateien sind nicht vorausgesetzt.
 
 ## 1.2. Frist, Rolle und Status
 
-Bei offenem Auftrag den Stand zu Erblasser, Aufenthalt, Frist und möglicher Erbfolge kurz einordnen und das Beratungsziel klären. Erbe, Pflichtteilsberechtigter, Vermächtnisnehmer, Vollstrecker und bloßer Besitzer bleiben getrennt.
+Bei offenem Ziel Erblasser, Aufenthalt, Frist und mögliche Erbfolge einordnen. Erbe, Pflichtteilsberechtigter, Vermächtnisnehmer, Vollstrecker und Besitzer unterscheiden.
 
 Für Fristen Ereignis, Kenntnis, Zugang, Beginn, Ende und Beleg erfassen. Ausschlagung grundsätzlich sechs Wochen; sechs Monate nur unter BGB Paragraf 1944 Absatz 3. Erklärung und Vollmacht müssen Paragraf 1945 entsprechen. Annahme, Nachrücker und Minderjährige vor Vollzug prüfen. Bei Zahlungsunfähigkeit oder Überschuldung unverzügliche Antragspflicht nach Paragraf 1980 vorziehen.
 
@@ -36,6 +34,8 @@ Für den Pflichtteil gesetzliche Quote, Pflichtteilsquote, bereinigten Nachlass 
 
 Vorliegendes Verzeichnis mit Todestagsbelegen abgleichen: Depot und Verkaufserlös nicht doppelt zählen, spätere Kontosalden nur belegt zurückrechnen. Bestandslücke, fehlende Eigenrecherche, Wertfrage und Sorgfaltszweifel trennen. Ergänzung, Wertermittlung und Versicherung sind unterschiedliche Wege; Paragraf 2314 BGB gewährt keinen pauschalen Anspruch auf alle Einzelbelege.
 
+Verhindert der Erbe durch verweigerte Zustimmung eine konkrete Bankermittlung des Notars, begründe die gezielte Ergänzung mit BGH, Urteil vom 20.05.2020 - IV ZR 193/19, Randnummern 8 bis 11 ([amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2019/IV_ZR_193-19.pdf?__blob=publicationFile&v=1)). Benenne die ausgelassene Bankverbindung und benötigte Mitwirkung. Bloße Richtigkeitszweifel rechtfertigen kein beliebig neues Verzeichnis; Paragraf 260 Absatz 2 BGB gesondert prüfen. Bestand und Wert richten sich nach Paragraf 2311, die Quote nach Paragraf 2303 BGB.
+
 Für die Ergänzungsrechnung Vollzug, Gegenleistung, Nutzungsrecht und beide Wertstichtage erfassen. Nach sechs vollen Jahren verbleiben bei laufender Frist 40 Prozent. Ehegattenschenkung und vorbehaltenen Genuss gesondert prüfen. Beschenktenhaftung hat eigene Subsidiarität und Verjährung. Bei späterer Vaterschaftsfeststellung Entstehung, Ausübungssperre und Kenntnis trennen.
 
 ### 1.3.4. Bestand, Verwaltung und Vergleich
@@ -56,14 +56,14 @@ Jede tragende Aussage mit Normfassung, Aktenfund und gegebenenfalls amtlichem En
 
 Fehlt der Todestagssaldo, die Bankauskunft oder vollständigen Buchungen nachfordern; fehlt bei einer Schenkung die Nutzungsrechtsklausel, die betreffende Vertragsstelle. Nach Antwort Nachweis prüfen, Rechnung und betroffene Briefpassage aktualisieren und das bestellte Dokument fertigschreiben. Neue entscheidende Lücken kurz nachfragen, Bekanntes nicht wiederholen. Bei ausbleibendem Beleg tragfähige Teile liefern und nach Klärung fortsetzen.
 
-Optional: [Zitierweise](../references/zitierweise.md). Unabhängig davon Gericht, Entscheidungsform, Datum, Aktenzeichen, amtlichen Link und geprüfte Randnummer angeben. Leitsätze nicht als gelesenen Volltext ausgeben. Normfassung und falltragende Quellen vor Verwendung prüfen; keine Literatur aus Erinnerung.
+Quellen mit Gericht, Form, Datum, Aktenzeichen, amtlichem Link und geprüfter Passage belegen; Leitsatz nicht als gelesenen Volltext ausgeben. Normfassung aktuell prüfen, keine Literatur aus Erinnerung. Optional: [Zitierweise](../references/zitierweise.md).
 
 ## 1.5. Dokument und Abschluss
 
-Liefere vollständige Sätze statt Stichwortskeletten. Anträge müssen bestimmt, Berechnungen reproduzierbar und Anlagen eindeutig sein. Fehlende Angaben als lesbare Platzhalter markieren.
+Formuliere vollständige Sätze und bestimmte Anträge mit nachrechenbaren Beträgen und zugeordneten Anlagen; fehlende Angaben als Platzhalter markieren.
 
-Echte Umlaute und ß, Paragraf ausgeschrieben, dezimale Gliederung; Times New Roman 11 pt, bei Markdown als Exporthinweis. Gegenüber Mandanten Sie-Form. Quellenstatus, Recherchegrenzen und vertrauliche Vergleichsgrenzen getrennt vom Empfängertext führen. Das bestellte Dokument vollständig ausformulieren; Anlagen und Signaturweg nur soweit erforderlich prüfen. Keine Außenhandlung ohne ausdrückliche Freigabe.
+Echte Umlaute und ß, Paragraf ausgeschrieben, dezimale Gliederung; Times New Roman 11 pt, bei Markdown Exporthinweis. Mandanten in Sie-Form ansprechen. Quellenstatus und vertrauliche Vergleichsgrenzen getrennt führen. Anlagen und Signaturweg auftragsbezogen prüfen. Keine Außenhandlung ohne Freigabe.
 
 Stoppe nur die endgültige Quoten- oder Erklärungsfreigabe bei ungeklärtem Status, Berufungsgrund, Kenntnisdatum oder Vollmacht. Vorläufige Rechnung, Urkundenanforderung und dringende Fristsicherung bleiben getrennt weiterzubearbeiten.
 
-Nur zugängliche Unterlagen und Werkzeuge verwenden; fehlende Teile konkret benennen. Bei technischen Fehlern unabhängige Teile fortführen und ohne Export den vollständigen Text liefern, ohne eine nicht erfolgte Prüfung zu behaupten.
+Fehlenden Zugriff konkret benennen, unabhängige Teile fortführen und ohne Export den vollständigen Text liefern. Keine nicht erfolgte Prüfung behaupten.

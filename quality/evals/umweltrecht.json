@@ -1,21 +1,53 @@
 {
   "schema_version": 1,
   "plugin": "umweltrecht",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/bimschg/__15.html",
+      "checked_on": "2026-09-23",
+      "supports": "Aktuellen Volltext gelesen: Anzeigevorlauf, Eingang erforderlicher Unterlagen als Auslöser der Prüfung nach Absatz 2 sowie Sonderregel störfallrelevanter Änderungen nach Absatz 2a ohne entsprechende Änderungsbefugnis allein durch Schweigen. Andere erforderliche Zulassungen bleiben gesondert zu prüfen."
+    },
     {
       "url": "https://www.gesetze-im-internet.de/bimschg/__13.html",
       "checked_on": "2026-09-14",
       "supports": "Geöffneter amtlicher Volltext: Ausnahme wasserrechtlicher Erlaubnisse und Bewilligungen von der Konzentrationswirkung."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62018CJ0535",
+      "checked_on": "2026-09-23",
+      "supports": "Amtliche Entscheidungsidentität direkt, Randnummern 75–84 und 109–119 indexiert im amtlichen Volltext sowie Tenor gelesen: vorherige Gewässerprüfung, Schwellenüberschreitung/weitere Erhöhung und einzelne Messstellen; kein generelles Entnahmeverbot."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bimschg/__13.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlichen Einzelnorm-Volltext gelesen: Konzentrationsausnahme beziehungsweise eigenständige Wasserzulassung, Versagung/Bewirtschaftungsermessen und Grundwasserziele mit Ausnahmen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/whg_2009/__8.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlichen Einzelnorm-Volltext gelesen: Konzentrationsausnahme beziehungsweise eigenständige Wasserzulassung, Versagung/Bewirtschaftungsermessen und Grundwasserziele mit Ausnahmen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/whg_2009/__12.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlichen Einzelnorm-Volltext gelesen: Konzentrationsausnahme beziehungsweise eigenständige Wasserzulassung, Versagung/Bewirtschaftungsermessen und Grundwasserziele mit Ausnahmen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/whg_2009/__47.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlichen Einzelnorm-Volltext gelesen: Konzentrationsausnahme beziehungsweise eigenständige Wasserzulassung, Versagung/Bewirtschaftungsermessen und Grundwasserziele mit Ausnahmen."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Mini vollständig auf Genehmigungsumfang, Wasserrecht und fehlende Gutachten gelesen; Konzentrationsgrenzen bleiben ausdrücklich erhalten.",
+    "reason": "Mini vollständig erneut gelesen: drei eigenständige Einstiegswege und konkrete Fortsetzung bei alternativem Wasservertrag, bloßem Antrag oder Änderungsanzeige ergänzt. Konzentrationsgrenze und begrenzter EuGH-Anker erhalten; unter beiden 7.500-Grenzen.",
     "changes": [
-      "Fehlende Erlaubnis oder belastbare Gutachtengrundlage gezielt klären, danach Bewertung und bestelltes Dokument fortführen; keine automatische Einwendung als Pflichtausgabe."
+      "Dokumentwahl, stille Dateilektüre und sofortiger Arbeitsbeginn; neue Versorgungsunterlagen ändern nur den nachgewiesenen Betriebsumfang, Anzeigeunterlagen die Terminbewertung.",
+      "EuGH C-535/18 unmittelbar mit vorheriger Gewässerprüfung und einzelnen Messstellen verknüpft, keine automatische Unzulässigkeit jeder Entnahme.",
+      "Konzentrationsgrenzen und Entscheidung zum Betriebsstart konkret ausgearbeitet; Werkstatt mit getrennten Maßstäben für Messwerte, Sanierung und Naturschutz."
     ],
-    "sha256": "974074f778c68084889ef127da63e8ad0c31cf1e0e01d67dd596de5cf58fa725"
+    "sha256": "94a2491e829b0c1c7f66be6149a44baacbfa301a429bafc34ac757360b096e83"
   },
   "selection": {
     "positive": [
@@ -63,10 +95,54 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt vollständig über Genehmigung, Wasser, Abfall, Boden, Naturschutz, Umweltinformationen und Unternehmenspflichten gelesen; falscher Rechtsprechungsanker und Normdetail aufgefallen.",
+    "reason": "Gesamte geänderte Werkstatt erneut gelesen: alternative Versorgung, Anlagenänderung mit Vollständigkeits-/Fristauslösern, belastende Lärmbefunde und einzelne Grundwassermessstellen führen zu geänderter Betriebsentscheidung oder Einwendung. Frühere Fachabgrenzungen und Quellengrenzen erhalten; kein Live-Client-Test.",
     "changes": [
-      "BVerwG-Pressemitteilung 79/2023 nicht mehr als Klimaentscheidung verwenden; Störfall-Schwellen den Spalten 4/5 zuordnen, Umweltverfahren und private Ansprüche trennen und überholte pauschale Fristen nicht als geltend ausgeben."
+      "Substantielle Arbeitswege vom Wasserbescheid und Versorgungsvertrag zur Betriebsentscheidung, von Änderungsunterlagen zum Termin und vom Gegenbefund zur angepassten Einwendung ergänzt.",
+      "EuGH C-535/18 unmittelbar mit vorheriger Gewässerprüfung und einzelnen Messstellen verknüpft, keine automatische Unzulässigkeit jeder Entnahme.",
+      "Konzentrationsgrenzen und Entscheidung zum Betriebsstart konkret ausgearbeitet; Werkstatt mit getrennten Maßstäben für Messwerte, Sanierung und Naturschutz."
     ],
-    "sha256": "1009ef17dba9b6e2034c34d5e87294fc025fbb19e6ff50333cdf426020d5acf7"
+    "sha256": "5d6479e0a923f17477af2bde49723c9ce44beb21e3372c6fe173ad9871d0f2d4"
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Betriebsstartvorlage, Antwort auf Umweltbeanstandung oder Einwendung zu Nachbar-/Gewässerauswirkungen anbieten.",
+      "Nur Dateien: Bescheide und Fachbeiträge still lesen; nur bei offenem Ziel passende Dokumentwege anbieten.",
+      "Klarer Auftrag: konkrete Zulassungs- oder Wirkungsfrage sofort im bestellten Text bearbeiten; nur entscheidende Betriebs-, Frist- oder Befundlücken klären."
+    ],
+    "continuation": "Wasserliefervertrag -> Betriebsbedingung ändern; vollständige Änderungsunterlagen -> Terminbewertung neu fassen; Gegenmessung oder Fachbeitrag -> konkreten Einwand und Prüfbedarf aktualisieren.",
+    "enrichment": "Gesicherte Ersatzversorgung gegenüber offenem Wasserantrag, Anzeigen- und Störfalländerungszweig, fachliche Gegenbefunde bei Lärm und Grundwasser sowie getrennte Fristauslöser bis zum vollständigen Empfängertext.",
+    "limits": "desk review; no live client execution"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "umweltrecht/README.md",
+      "umweltrecht/umweltrecht-schnellstart.md",
+      "umweltrecht/umweltrecht-werkstatt.md",
+      "quality/evals/umweltrecht.json"
+    ],
+    "opening_change": "Tatsächlichen Anlagenbetrieb, Konzentrationsgrenzen und konkrete Wasserzulassung statt allgemein bestelltes Gutachten in den Mittelpunkt gestellt.",
+    "norms": [
+      "Paragrafen 4, 5, 13, 15, 16 BImSchG",
+      "Paragrafen 8, 9, 12 und 47 WHG",
+      "Artikel 4 Richtlinie 2000/60/EG",
+      "Paragrafen 4 und 24 BBodSchG",
+      "Paragrafen 34 und 44 BNatSchG"
+    ],
+    "decisions": [
+      {
+        "citation": "EuGH, Urteil vom 28. Mai 2020, C-535/18, Randnummern 76 und 119",
+        "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62018CJ0535",
+        "application": "Mögliche Gewässerwirkungen vor Zulassung untersuchen; chemische Grundwasserverschlechterung anhand einzelner Messstellen statt allein aggregierter Werte beurteilen.",
+        "limit": "Keine Entscheidung, dass jede Entnahme verboten ist; mengenmäßiger Zustand und gesetzliche Ausnahmevoraussetzungen bleiben eigenständig."
+      }
+    ],
+    "remaining_limits": [
+      "EuGH-Identität und Entscheidungsbeginn direkt amtlich gelesen; maßgebliche Randnummern 75–84 sowie 109–119 aus indexierten amtlichen EUR-Lex-Volltextpassagen und amtlichem Entscheidungstenor verifiziert. Wiederholter Direktabruf des gesamten Textes durch Zugriffsschutz blockiert; keine vollständige Gesamtlektüre behauptet.",
+      "Paragraf 13 BImSchG und Paragrafen 8, 12, 47 WHG aktuell vollständig geprüft. Übrige Spezialgebiete, Landesrecht, TEHG und dynamische ESG-/Lieferkettenregeln nicht umfassend neu verifiziert.",
+      "Desk-/Quellenreview, kein Live-Mandanten- oder Modelltest."
+    ]
   }
 }

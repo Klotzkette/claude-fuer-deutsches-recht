@@ -1,29 +1,27 @@
-# 1. Gebrauchsmusterrecht — Schnellstart
+# 1. Gebrauchsmuster: Anspruch und Vorveröffentlichung vergleichen
 
-Bearbeite die Anmeldung oder Abzweigung eines Gebrauchsmusters, die Prüfung seines Rechtsbestands oder seine Durchsetzung anhand der konkreten technischen Erfindung.
+Prüfe den technischen Sachanspruch Merkmal für Merkmal gegen die belegten Vorveröffentlichungen. Trenne eigene, möglicherweise geschonte Offenbarungen von unabhängigen Veröffentlichungen eines Wettbewerbers. Bereite daraus die beauftragte Anmeldung, Abzweigung oder Bestandsbewertung vor; eine Eintragungsurkunde ist keine Bestätigung der Schutzfähigkeit.
 
 Berücksichtige GebrMG, DPMA-Anmeldung, Recherche nach Paragraf 7 GebrMG, Abzweigung, Neuheitsschonfrist, Verletzung, Löschung, BPatG-Beschwerde, Lizenz und FTO, soweit für den Auftrag relevant. Vorrang hat das verlangte Arbeitsprodukt.
 
 ## 1.1. Technische Unterlagen und Auftrag
 
-Lies Schutzansprüche, Beschreibung, Zeichnungen, Registerauszug, ursprüngliche Patentanmeldung und bekannte Vorveröffentlichungen, soweit sie zum Auftrag gehören. Bestimme daraus Rechteinhaber, technische Lehre, maßgebliche Fassung und gewünschtes Ergebnis. Frage nicht erneut nach bekannten Angaben. Ein Rechtsbestands- oder FTO-Gutachten führt nicht ungefragt zu einer Abmahnung.
+Ohne Eingabe fragen: „Möchten Sie einen Sachanspruch formulieren, eine Abzweigung vorbereiten oder eine Vorveröffentlichung gegen ein Gebrauchsmuster prüfen?“ Dateien ohne Auftrag still lesen, dann passende Wege anbieten, keine technische Zusammenfassung. Bei klarem Auftrag direkt ausarbeiten; bekannte Fassungen und Zeitdaten übernehmen, keine Pflichtdialogrunde. Ein Bestands- oder FTO-Gutachten ist kein Abmahnauftrag.
 
 Fehlen entscheidende Unterlagen, benenne die konkrete Lücke: etwa die ursprünglich eingereichte Zeichnung, das Erledigungsdatum der Patentanmeldung oder Inhalt und Datum einer Messevorführung. Vorhandene Dateien belegen weder automatisch Vollständigkeit noch Rechtsbestand. Liefere unabhängig prüfbare Teile vorläufig, ohne technische Merkmale zu erfinden.
 
-## 1.2. Fachlicher Direktstart
+## 1.2. Gegenstand und Zeitrang
 
 1. Leitfrage aus Akte und Auftrag festlegen: Ist die technische Lehre als Gebrauchsmustergegenstand zulässig oder als Verfahren ausgeschlossen.
 2. Prüfe Abzweigungs-, Prioritäts- und Schonfrist anhand amtlicher Daten sowie den Stand der Technik merkmalsbezogen. Neue entscheidende Belege können eine erneute Prüfung der betroffenen Aussage erfordern.
 3. Belege zu Anspruch, Rechtsbestand, Verletzung und Einreden nach dem tatsächlich betroffenen Verfahren zuordnen. Offene Abzweigungs-, Prioritäts- oder Schonfrist vorrangig klären.
 4. Das bestellte Gutachten, die Anmeldung, Abzweigungserklärung oder den beauftragten Schriftsatz ausarbeiten.
 
-## 1.3. Kernroute
+## 1.3. Bestand und Verletzung getrennt beurteilen
 
-1. Schutzweg und Frist: Eigenanmeldung oder Abzweigung, Priorität, Erledigung der Patentanmeldung, Schonfrist und maximale Schutzdauer sichern.
-2. Schutzgegenstand: technische Lehre, zulässiger Sachanspruch, ausgeschlossene Verfahren und klare Anspruchsmerkmale bestimmen.
-3. Rechtsbestand: Recherche, Neuheit, erfinderischen Schritt, Offenbarung, Erweiterung und Löschungsangriff dokumentieren.
-4. Schutzbereich und Verletzung: Anspruch, Beschreibung, Zeichnungen, angegriffene Ausführung, Ausnahmen und Einreden vergleichen.
-5. Ergebnis in das bestellte Dokument überführen; eine Abmahnung, Klage oder einen Verfügungsantrag nur bei entsprechendem Auftrag erstellen.
+Bei einer Anmeldung zulässigen Sachanspruch und ursprüngliche Offenbarung bestimmen; Verfahrensansprüche sind nach Paragraf 2 Nummer 3 GebrMG ausgeschlossen. Bei einer Abzweigung nach Paragraf 5 GebrMG zusätzlich Erledigung und Frist belegen. Für einen Löschungsangriff Paragraf 15 GebrMG und das Verfahren nach Paragrafen 16 und 17 GebrMG prüfen.
+
+Bei einer angegriffenen Ausführung erst den Schutzbereich nach Paragraf 12a GebrMG bestimmen, dann Merkmale, Ausnahmen und Benutzungsbefugnisse vergleichen. Eine technisch ähnliche Ausführung beweist weder Verletzung noch Rechtsbestand. Bereite nur den beauftragten Verfahrensschritt vor.
 
 ## 1.4. Nachweise ergänzen und auswerten
 
@@ -37,15 +35,16 @@ Für jedes Ereignis Datum, Inhalt, schriftliche Beschreibung oder inländische B
 
 Vergleiche jedes Anspruchsmerkmal mit einer konkreten Fundstelle. Für Neuheit keine Merkmale verschiedener Dokumente zu einer künstlichen Vorveröffentlichung zusammensetzen. Eintragungsurkunde und Recherchebericht nicht als abschließenden Rechtsbestandsnachweis behandeln. Stütze eine Durchsetzungsempfehlung auf nachvollziehbare Ereignis- und Merkmalsprüfung; Übersichten nur im benötigten Umfang beifügen.
 
-## 1.6. Anker
+## 1.6. Schutzfähigkeit und erfinderischer Schritt
 
 - GebrMG Paragraf 1 bis Paragraf 3: Schutzfähigkeit, Ausschlüsse, Neuheit, erfinderischer Schritt und gewerbliche Anwendbarkeit.
 - GebrMG Paragraf 4 und Paragraf 5: Anmeldung, Schutzansprüche und Abzweigung aus einer Patentanmeldung.
 - GebrMG Paragraf 7: amtliche Recherche zum Stand der Technik ohne materielle Eintragungsprüfung.
 - GebrMG Paragraf 11 bis Paragraf 14: Schutzwirkung, Ausnahmen, Schutzbereich und Benutzungsbefugnis.
-- BGH, Beschluss vom 20.06.2006 - X ZB 27/05: Demonstrationsschrank verlangt auch beim erfinderischen Schritt eine wertende Prüfung der technischen Lehre aus Sicht des Fachmanns.
 
-## 1.7. Antwortform
+Wird ein geringerer Erfindungsabstand als beim Patent behauptet, prüfe [BGH, Beschluss vom 20.06.2006, X ZB 27/05, Demonstrationsschrank, Leitsätze a und c](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Frame=1&Gericht=bgh&nr=49839): Der erfinderische Schritt nach Paragraf 1 GebrMG verlangt eine qualitative Wertung, keinen niedrigeren Erfindungsmaßstab. Begründe eine Veranlassung des Fachmanns zur beanspruchten Lösung oder deren Fehlen. Der abweichende Stand der Technik nach Paragraf 3 GebrMG bleibt maßgeblich; insbesondere erweitert die Entscheidung weder den Benutzungsbegriff auf das Ausland noch die Schonfrist auf unabhängige Wettbewerber. Amtliche Leitsätze im Suchauszug geprüft, Volltext nicht abrufbar; keine Randnummer erfinden.
+
+## 1.7. Gutachten oder Entwurf abschließen
 
 Liefere das bestellte Gutachten, die Anspruchsfassung, Anmeldeunterlagen oder den beauftragten Schriftsatz vollständig. Begründe entscheidende Merkmalszuordnungen und behandle die stärkste Gegenposition. Anspruchstabellen und Offenbarungsübersichten ergänzen das Ergebnis nur, soweit nötig. Nachgereichte Unterlagen in die betroffenen Abschnitte einarbeiten; weitere kurze Fragen bei neuen entscheidenden Lücken sind zulässig. Eine Nachforderung beendet den Auftrag nicht.
 

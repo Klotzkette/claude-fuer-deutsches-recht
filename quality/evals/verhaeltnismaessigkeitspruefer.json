@@ -1,21 +1,51 @@
 {
   "schema_version": 1,
   "plugin": "verhaeltnismaessigkeitspruefer",
-  "reviewed_on": "2026-09-17",
+  "reviewed_on": "2026-09-23",
   "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/bverfgg/__93.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlicher Normtext gelesen: Monatsfrist für Erhebung und Begründung mit ereignisbezogenem Beginn nach Absatz 1; unmittelbare Angriffe nach Absatz 3 gesondert einordnen. Keine Übertragung dieser Frist auf fachgerichtliche Verfahren."
+    },
     {
       "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2022/09/rs20220929_1bvr238021.html",
       "checked_on": "2026-09-14",
       "supports": "Amtlicher indexierter Entscheidungsauszug zu Beschluss vom 29. September 2022, 1 BvR 2380/21 und 1 BvR 2449/21: nur wenig weniger wirksames milderes Mittel kann bei Angemessenheit relevant bleiben. Direkter Volltextabruf war gesperrt; keine Randnummer oder Volltextprüfung behauptet."
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2022/09/rs20220929_1bvr238021.html",
+      "checked_on": "2026-09-22",
+      "supports": "BVerfG, Beschluss vom 29. September 2022, 1 BvR 2380/21 und 1 BvR 2449/21, Rn. 114 bis 120 und 134 bis 140: Weniger wirksames Mittel widerlegt nicht Erforderlichkeit, kann aber Schutzdefizit und Belastung in Angemessenheit anders gewichten. Grenze: Tierarztvorbehalt für bestimmte Humanhomöopathika bei nicht lebensmittelliefernden Tieren; nur Methode auf Lärmschutz und andere Maßnahmen übertragen. Amtliche tragende Gründe gelesen; keine Vollverifikation der gesamten Materie."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gg/art_2.html",
+      "checked_on": "2026-09-22",
+      "supports": "Allgemeine Handlungsfreiheit und besonderer Schutz von Leben, körperlicher Unversehrtheit und Freiheit."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gg/art_20.html",
+      "checked_on": "2026-09-22",
+      "supports": "Bindung der staatlichen Gewalt an die verfassungsmäßige Ordnung sowie Gesetz und Recht."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:12016P052",
+      "checked_on": "2026-09-23",
+      "supports": "Artikel 52 Absatz 1 GRCh im amtlichen Volltext gelesen: Gesetzesvorbehalt, Wesensgehalt und Verhältnismäßigkeit; Anwendung setzt den Anwendungsbereich der Charta voraus."
     }
   ],
   "mini_review": {
-    "verdict": "retained",
-    "reason": "Vollständige Textprüfung am 18. September: Wirkungsnachweise steuern Eignung und Alternativenvergleich; eine weniger wirksame Alternative wird nicht allein wegen geringerer Belastung als gleich wirksam behandelt.",
+    "verdict": "revised",
+    "reason": "Ganztext nach Workflow-Erweiterung erneut gelesen: konkrete Dokumentwege, Nachtschließung, Zugangskontrolle, Gegenbelege und Änderung der Maßnahmenfassung. Erforderlichkeit und Angemessenheit bleiben getrennt; Desk-Review, kein Live-Modelltest.",
     "changes": [
-      "Keine weitere Änderung der vollständig gelesenen Mini-Fassung."
+      "Dauer, Gebiet und Adressatenkreis der konkreten Beschränkung mit Schutzbedarf und milderen Mitteln vergleichen.",
+      "Suchauszugsanker durch geprüfte tragende Randnummern samt konkretem Sachverhalt ersetzt.",
+      "Mini um ausdrückliche Normen ergänzt, Tabellenzwang entfernt; unbelegte Klassikerlisten in fallbezogene Recherchefragen umgearbeitet.",
+      "Leere Eingabe, Dateien ohne Aufgabe und klaren Auftrag unterschieden; bestätigte Zugangssicherung oder gescheiterte Auflagen ändern Vergleich und Entwurf."
     ],
-    "sha256": "d8d579b86aed71cc5a4bd694238273ce530629dc925c902e6c942432fc03bf5f"
+    "sha256": "d671f08005c8e81b0a010d5a4693546a39ff452bb74a99493b555cbcfb0d9b08",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
   },
   "selection": {
     "positive": [
@@ -63,11 +93,55 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Textprüfung am 18. September: Vollständig einschließlich Rechtsvergleich gelesen. Zwei Herkunftshinweise auf Fachmaterial störten den sachlichen Prüfauftrag; die Unsicherheit der dänischen Fundstellenzuordnung musste erhalten bleiben.",
+    "reason": "Ganztext erneut gelesen: Wirkung, Kontrollierbarkeit und Gegenbelege führen zu engerer Regelung oder bedingter Bewertung; Vollzugs- und Rechtsbehelfszeiten bleiben getrennt. Vorhandener Entscheidungsanker und rechtsvergleichende Grenzen erhalten; Desk-Review, kein Live-Modelltest.",
     "changes": [
-      "Triage sachlich als Schutzpflichtprüfung formuliert.",
-      "Dänische Fundstelle ohne Materialgeschichte genannt und ungesicherte Maastricht-Zuordnung ausdrücklich offengelassen."
+      "Suchauszugsanker durch geprüfte tragende Randnummern samt konkretem Sachverhalt ersetzt.",
+      "Mini um ausdrückliche Normen ergänzt, Tabellenzwang entfernt; unbelegte Klassikerlisten in fallbezogene Recherchefragen umgearbeitet.",
+      "Nachtschließung und Zugangsausnahmen mit realen Vollzugshindernissen, Belegverantwortung, Überprüfungstermin und ausformulierter Maßnahmenfassung verbunden.",
+      "Paragraf 93 BVerfGG nur für den beauftragten Verfassungsbeschwerdeweg mit konkretem Fristauslöser ergänzt."
     ],
-    "sha256": "8ae6b3e3e53847aa4996a24117055ff9236995729d62b12ec06339afead87a38"
+    "sha256": "6b20939866a274a00951f0cf05536a7aff9b6f1ca96850423ce6d19cfe3cad4a",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Verhältnismäßigkeitsvermerk, engere Schließungs- oder Zugangsregelung oder Schriftsatzabschnitt anbieten.",
+      "Dateien: Maßnahmentext und Wirkungsbelege still lesen; nur bei offenem Ziel passende Wege wie Alternativenvergleich oder Verfügungssatz anbieten.",
+      "Klarer Auftrag: unmittelbar formulieren; nur entscheidende Zweck-, Wirkungs- oder Kontrolldaten klären."
+    ],
+    "continuation": "Bestätigte Zugangssicherung oder entgegenstehender Vollzugsbefund verändert Gleichwirksamkeit, Abwägung und konkretes Zeitfenster der Maßnahmenfassung.",
+    "enrichment": "Nachtschließung, Zugangsausnahmen, gescheiterte Auflagen und Verlagerungseffekte mit Belegen, bedingten Ergebnissen, Fristauslösern und ausformulierter engerer Regelung verbunden.",
+    "limits": "desk review; no live client execution"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "method": "desk_review",
+    "files": [
+      "verhaeltnismaessigkeitspruefer/README.md",
+      "verhaeltnismaessigkeitspruefer/verhaeltnismaessigkeitspruefer-werkstatt.md",
+      "verhaeltnismaessigkeitspruefer/verhaeltnismaessigkeitspruefer-schnellstart.md",
+      "quality/evals/verhaeltnismaessigkeitspruefer.json"
+    ],
+    "opening_change": "Dauer, Gebiet und Adressatenkreis der konkreten Beschränkung mit Schutzbedarf und milderen Mitteln vergleichen.",
+    "norms": [
+      "Artikel 1 Absatz 1, 2 Absatz 1, 12 Absatz 1, 19 Absatz 2 und 20 Absatz 3 GG",
+      "Artikel 51 Absatz 1 und 52 Absatz 1 GRCh"
+    ],
+    "decisions": [
+      {
+        "citation": "BVerfG, Beschluss vom 29. September 2022, 1 BvR 2380/21 und 1 BvR 2449/21, Rn. 114 bis 120 und 134 bis 140",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2022/09/rs20220929_1bvr238021.html",
+        "application": "Weniger wirksames Mittel widerlegt nicht Erforderlichkeit, kann aber Schutzdefizit und Belastung in Angemessenheit anders gewichten.",
+        "limit": "Tierarztvorbehalt für bestimmte Humanhomöopathika bei nicht lebensmittelliefernden Tieren; nur Methode auf Lärmschutz und andere Maßnahmen übertragen."
+      }
+    ],
+    "remaining_limits": [
+      "Amtliche Entscheidungsgründe und GG Artikel 2/20 gelesen; rechtsvergleichende Normstände und weitere spezielle Grundrechtsmaterien nicht umfassend verifiziert.",
+      "Desk-/Quellenreview, kein Live-Maßnahmenvergleich oder Modelltest.",
+      "Workflow-Erweiterung 23.09.2026: Paragraf 93 BVerfGG aktuell gelesen; erneuter Direktabruf der Entscheidung von 2022 mit 403 gesperrt. Vorhandenen qualifizierten Entscheidungsnachweis erhalten, keine neue Volltextprüfung behauptet."
+    ]
   }
 }

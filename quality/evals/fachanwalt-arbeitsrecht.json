@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "fachanwalt-arbeitsrecht",
-  "reviewed_on": "2026-09-17",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.bundesarbeitsgericht.de/presse/annahmeverzugsverguetung-kein-auskunftsanspruch-zu-bewerbungen-auf-stellenangebote/",
@@ -37,30 +37,123 @@
       "url": "https://www.gesetze-im-internet.de/kschg/__11.html",
       "checked_on": "2026-09-14",
       "supports": "Anrechnung anderweitigen Erwerbs, böswillig unterlassenen Erwerbs und bestimmter öffentlich-rechtlicher Leistungen bei fortbestehendem Arbeitsverhältnis."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__615.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aktueller amtlicher Normtext zur Prüfung: Paragraf 615 BGB; Paragraf 11 KSchG; Paragraf 4 KSchG. Keine Gesamtverifikation sämtlicher Nebenmaterien."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/5-azr-127-24/",
+      "checked_on": "2026-09-22",
+      "supports": "BAG, Urteil vom 12.02.2025, 5 AZR 127/24: Einseitig freigestellter Arbeitnehmer muss vor Vertragsende ohne besondere Umstände keine andere Beschäftigung allein zur Entlastung des Arbeitgebers aufnehmen. Grenze/Prüftiefe: Volltext Rn. 16 bis 25; kein allgemeiner Verzicht auf Anrechnung nach Vertragsende. BAG 5 AZR 37/25 nur Pressemitteilung, kein Volltext."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-68-24/",
+      "checked_on": "2026-09-22",
+      "supports": "BAG, Urteil vom 30.01.2025, 2 AZR 68/24: Einlieferung und Status ohne Auslieferungsbeleg tragen keinen Anscheinsbeweis des Zugangs. Grenze/Prüftiefe: Volltext Rn. 10 bis 20; andere Beweise bleiben offen."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-96-24/",
+      "checked_on": "2026-09-22",
+      "supports": "BAG, Urteil vom 30.07.2026, 2 AZR 96/24: Annahmeverzug nach unwirksamer Arbeitgeberkündigung kann nicht vorab vollständig ausgeschlossen werden. Grenze/Prüftiefe: Volltext Rn. 10 bis 20; nicht sämtliche Gestaltungen zu Paragraf 615 BGB zwingend."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/presse/annahmeverzugsverguetung-kein-auskunftsanspruch-zu-bewerbungen-auf-stellenangebote/",
+      "checked_on": "2026-09-22",
+      "supports": "BAG, Urteil vom 26.08.2026, 5 AZR 37/25: Auskunft über Vermittlungsangebote von Bewerbungsdetails und sekundärer Darlegung unterscheiden. Grenze/Prüftiefe: Nur amtliche Pressemitteilung 29/26; kein Volltext und keine allgemeine Befreiung von Prozessvortrag."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/5-azr-387-19/",
+      "checked_on": "2026-09-22",
+      "supports": "BAG, Urteil vom 27.05.2020, 5 AZR 387/19: Arbeitgeber trägt Einwendung, Auskunft über behördliche Vermittlungsangebote dient Sachaufklärung. Grenze/Prüftiefe: Volltext Rn. 27 bis 28 und 43 bis 50; sekundäre Darlegung kehrt Beweislast nicht um."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/5-azr-347-21/",
+      "checked_on": "2026-09-22",
+      "supports": "BAG, Urteil vom 23.02.2022, 5 AZR 347/21: Zwischenverdienst in die Gesamtberechnung des maßgeblichen Verzugszeitraums einordnen. Grenze/Prüftiefe: Volltext Rn. 25 bis 29; Grenzen von Anträgen und erhobener Einwendung beachten."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-130-25/",
+      "checked_on": "2026-09-22",
+      "supports": "BAG, Urteil vom 07.05.2026, 2 AZR 130/25, amtlicher Volltext, insbesondere Rn. 16 bis 33: Bei Kündigung durch einzelne ermächtigte Mitglieder des gesamtvertretungsbefugten GmbH-Aufsichtsrats kann Paragraf 174 BGB entsprechend eingreifen. Satzung, Nachweis, unverzügliche Zurückweisung und vorherige Kenntnisgabe der konkreten Ermächtigung prüfen; keine allgemeine Nachweispflicht sämtlicher Organvertreter."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-17-23/",
+      "checked_on": "2026-09-22",
+      "supports": "BAG, Urteil vom 24.08.2023, 2 AZR 17/23, amtlicher Volltext, insbesondere Rn. 15 bis 41: Besondere Darlegung berechtigter Vertraulichkeit bei groben beleidigenden und menschenverachtenden Gruppenchatäußerungen über Betriebsangehörige. Inhalt, Größe, Zusammensetzung und Weiterleitungsmöglichkeiten zählen; keine feste Sieben-Personen-Grenze. Zurückverweisung, keine abschließende Kündigungsbestätigung; Interessenabwägung und Verwertbarkeit bleiben eigene Fragen."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/8-azr-207-21/",
+      "checked_on": "2026-09-22",
+      "supports": "BAG, Urteil vom 31.03.2022, 8 AZR 207/21, amtliche Rn. 71 bis 75 gelesen: bestätigt ausdrücklich BAG Großer Senat, Beschluss vom 27.02.1985, GS 1/84, C II 3, zum allgemeinen Weiterbeschäftigungsanspruch und überwiegenden Arbeitgeberinteresse bis zum stattgebenden Instanzurteil, außer bei offensichtlich unwirksamer Kündigung. Grundlage Paragraf 611a Absatz 1, Paragraf 613 und Paragraf 242 BGB mit Artikel 1 und Artikel 2 GG. Historischer Originalvolltext nicht amtlich abrufbar; Verifikation über amtliche Folgeentscheidung, keine Übertragung ihrer Steuerschadensfrage."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-240-19/",
+      "checked_on": "2026-09-22",
+      "supports": "BAG, Urteil vom 05.12.2019, 2 AZR 240/19, amtliche Rn. 117 bis 123 gelesen: Für Weiterbeschäftigung zählt das Urteil der jeweiligen Instanz; divergierende Instanzurteile mit Zurückverweisung und ein späterer Auflösungsantrag können die Interessenlage verändern. Kein unveränderlicher Anspruch allein wegen früheren erstinstanzlichen Obsiegens; keine allgemeine Aussage über Vollstreckungsschutz."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/5-azr-247-19/",
+      "checked_on": "2026-09-22",
+      "supports": "BAG, Urteil vom 27.05.2020, 5 AZR 247/19, amtliche Rn. 23 bis 29 und 39 bis 44 gelesen: allgemeine tatsächliche Weiterbeschäftigung von Paragraf 102 Absatz 5 BetrVG unterscheiden. Ein wirksamer Betriebsratswiderspruch ersetzt nicht die übrigen gesetzlichen Voraussetzungen; Rechtsfolgen des gesetzlichen Weiterbeschäftigungsverhältnisses nicht analog übertragen. Bestätigt den Beschluss GS 1/84 ausdrücklich."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__174.html",
+      "checked_on": "2026-09-22",
+      "supports": "Normtext gelesen: fehlende Vollmachtsurkunde, unverzügliche Zurückweisung gerade aus diesem Grund und Ausschluss durch vorherige Kenntnisgabe unterscheiden; analoge Organanwendung folgt nur aus der belegten Sonderkonstellation in 2 AZR 130/25."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/betrvg/__102.html",
+      "checked_on": "2026-09-22",
+      "supports": "Amtlichen Normtext direkt abgerufen und gelesen: Absatz 5 verlangt ordentliche Kündigung, frist- und ordnungsgemäßen Widerspruch, Kündigungsschutzklage und Beschäftigungsverlangen; gerichtliche Entbindung nach Satz 2 bleibt möglich. Keine Gleichsetzung mit dem allgemeinen Weiterbeschäftigungsanspruch."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/kschg/__4.html",
+      "supports": "Erneuter Normabruf zur Dreiwochenfrist und zum Angriff gegen die konkrete Kündigung; Folgekündigungen getrennt behandeln.",
+      "checked_on": "2026-09-23"
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Vollständig geprüft: Ergänzte Zustellungs- und Anhörungsangaben verändern die Kündigungsbewertung, Lohnbelege die periodengenaue Rechnung. Die Fortsetzung bis zum Brief oder Schriftsatz bleibt erhalten; keine neue Quellenprüfung behauptet.",
+    "reason": "Schnellstart vollständig individuell gelesen und überarbeitet: konkrete Kündigung, Vergütungsforderung oder Vertragsregelung aus der Akte prüfen. In der Schlusskorrektur die doppelte FAO-Rollenbeschreibung nach dem fachlichen Einstieg entfernt; Fallarbeit, Rückfragen, Quellenanker und Abschluss zum verlangten Dokument bleiben erhalten. Redaktionelle Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Arbeitslosengeld wurde nur zurückgefordert, aber noch nicht zurückgezahlt -> Anspruchsübergang und Zahlungsbegehren anders behandeln als bei nachgewiesener Rückzahlung.",
     "changes": [
-      "Auftragsabhängige Ergebnisse statt automatischem Kündigungsschutzantrag.",
-      "Verifizierten Freistellungsanker 5 AZR 127/24 mit zeitlicher Reichweitengrenze aufgenommen.",
-      "Lohnzeiträume, tatsächlichen Erwerb und Brutto-Netto-Behandlung von Sozialleistungen getrennt."
+      "Werkstatt nach konkreten Anspruchs- und Verfahrenslagen neu gefasst; Hauptproblem trennt Freistellung vor Vertragsende von Zwischenverdienst nach Entlassung.",
+      "Kernfall mit operativem Entscheidungsanker, gezielten Nachfragen und Fortsetzung zum vollständigen angeforderten Dokument.",
+      "Schlusslektüre: Überschriften nach Arbeitsverhältnis, Beteiligungsrechten und Zugangsnachweis konkretisiert.",
+      "Generischen Kernauftrag samt wiederholter Rollenbeschreibung nach dem fachlichen Einstieg entfernt.",
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
     ],
-    "sha256": "b9771739630f5456c373932dbba9786e078e5b90bc565f8ad3a0cd76edcaf6b8"
+    "sha256": "81f27013f50b3a97433c28e0037db780f5e532e5ba158eed67ac4ef804f338f1"
   },
   "focus_review": {
-    "reviewed_on": "2026-09-17",
+    "reviewed_on": "2026-09-23",
     "method": "desk_review",
-    "verdict": "retained",
-    "reason": "Standalone-Prompt und zugeordneter Fokus-Skill vollständig auf fachlichen Umfang, Rückfragen mit Fortsetzung bis zum bestellten Dokument, Ausgabeverhalten, Rollenbegrenzung und Quellendifferenzierung gelesen. Kein Live-Modelltest und keine erneute Vollverifikation der bestehenden Rechtsquellen.",
-    "changes": [],
+    "verdict": "revised",
+    "reason": "Hauptproblem-Prompt und zugeordneter Skill vollständig gelesen. Werkstatt nach konkreten Anspruchs- und Verfahrenslagen neu gefasst; Hauptproblem trennt Freistellung vor Vertragsende von Zwischenverdienst nach Entlassung. Skill unverändert, da mit dem präzisierten Prompt vereinbar. Quellenprüfung im dokumentierten Umfang, kein Live-Modelltest. Workflow-Ergänzung: Arbeitslosengeld wurde nur zurückgefordert, aber noch nicht zurückgezahlt -> Anspruchsübergang und Zahlungsbegehren anders behandeln als bei nachgewiesener Rückzahlung. Zugeordneten Fokus-Skill auf Kohärenz gelesen und unverändert belassen.",
+    "changes": [
+      "Werkstatt nach konkreten Anspruchs- und Verfahrenslagen neu gefasst; Hauptproblem trennt Freistellung vor Vertragsende von Zwischenverdienst nach Entlassung.",
+      "Konkreten Einstieg und Anwendung samt Grenzen des Entscheidungsankers im Hauptproblem ergänzt; zugeordneten Skill unverändert gelassen.",
+      "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten."
+    ],
     "prompt_path": "fachanwalt-arbeitsrecht/fachanwalt-arbeitsrecht-hauptproblem.md",
-    "prompt_sha256": "c8f9bbf1ace6de90b185cae0cac558188cadf4844aa8a51dade513f21a319658",
+    "prompt_sha256": "050dedb1b76e97dce77052749e9d9c1f0e49a551b3153b0d1bbcd1d28693db4e",
     "skill_path": "fachanwalt-arbeitsrecht/skills/annahmeverzugslohn-zeitraeume-und-anrechnung/SKILL.md",
     "skill_sha256": "8bdc4ae57863ee27f5169906538e202728fdda4e71ea8431cc624a8883ef4a36"
   },
-  "workshop_review": {"verdict":"revised","reason":"Die Ganztextprüfung nutzte die vorhandenen Kündigungs- und Lohnverzweigungen; die allgemeine Stationsproduktpflicht widersprach dem einzelnen Auftrag.","changes":["Kündigungsprüfung und Lohnberechnung dem bestellten Brief, Vertrag oder Schriftsatz zugeordnet und zusätzliche Stationsdokumente ausgeschlossen."],"sha256":"c9dac7a8dc121e7883d2e1ebd4648319d2682ccc939cfa17a772647eb291534b"},
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Werkstatt vollständig individuell überarbeitet und gegen die ursprünglichen Prüfzweige nachgelesen. Wiederhergestellt sind tatsächliche Weiterbeschäftigung nach Obsiegen, konkrete Gruppenchatvertraulichkeit und Nachweise der Ermächtigung einzelner GmbH-Aufsichtsratsmitglieder. Die ursprünglichen Anker sind im dokumentierten amtlichen Quellenumfang bestätigt; kein pauschaler Beschäftigungs-, Kündigungs- oder Vertretungsautomatismus. Desk- und Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Jede weitere Kündigung mit eigener Frist, Beteiligungsnachweise, periodenbezogene Arbeitsfähigkeit und Freistellung, Zwischenverdienst und Sozialleistungsübergang sowie Arbeitszeit- und Bonusklauseln.",
+    "changes": [
+      "Werkstatt nach konkreten Anspruchs- und Verfahrenslagen neu gefasst; Hauptproblem trennt Freistellung vor Vertragsende von Zwischenverdienst nach Entlassung.",
+      "Vorhandene Fachzweige, Beispiele und Zugriffsalternativen erhalten; schwache Rechtsprechungshinweise entfernt oder auf belegte Reichweite begrenzt.",
+      "Weiterbeschäftigung vom Lohnanspruch und Paragraf 102 Absatz 5 BetrVG getrennt; aktuelles Instanzurteil, Gegeninteressen und begrenzter Antrag ausdrücklich prüfen.",
+      "Gruppenchatprüfung nach 2 AZR 17/23 mit Zusammensetzung, Inhalt, Medium, besonderer Darlegung und gesonderter Interessenabwägung wiederhergestellt.",
+      "Ermächtigungsnachweis einzelner GmbH-Aufsichtsratsmitglieder nach 2 AZR 130/25 einschließlich Satzung, Kenntnisgabe und unverzüglicher Zurückweisung konkretisiert.",
+      "Jede weitere Kündigung mit eigener Frist, Beteiligungsnachweise, periodenbezogene Arbeitsfähigkeit und Freistellung, Zwischenverdienst und Sozialleistungsübergang sowie Arbeitszeit- und Bonusklauseln."
+    ],
+    "sha256": "9d0aab19b9103a38ce03e512fed28edf4ba45d854e5313580190ada6b2de2845"
+  },
   "selection": {
     "positive": [
       "Berechne den Annahmeverzugslohn nach unwirksamer Kündigung mit Zwischenverdienst und Arbeitslosengeld.",
@@ -123,13 +216,145 @@
       "id": "bewerbungsauskunft-und-sekundaere-darlegung",
       "request": "Erstelle ergebnis.md als internen Vermerk für die Arbeitgeberseite, ohne Versand. Eine Arbeitnehmerin verlangt nach rechtskräftig unwirksamer Kündigung 18.000 Euro brutto Annahmeverzugslohn für Juli bis September 2026. Arbeitsfähigkeit, Arbeitswille und Ausgangsvergütung sind unstreitig. Die Arbeitgeberin hat zwei persönlich übersandte Vermittlungsvorschläge der Arbeitsagentur mit Tätigkeit, Ort, Vergütung und vorgesehenem Beginn erhalten. Sie verlangt nun mit einer eigenständigen Widerklage Auskunft über sämtliche Bewerbungen auf diese Vorschläge und deren Ergebnisse. Im Lohnprozess hat sie außerdem für eine der Stellen konkret vorgetragen: identische Tätigkeit am bisherigen Arbeitsort, gleiche Arbeitszeit, 6.000 Euro Monatsgehalt, möglicher Beginn am 1. Juli und eine schriftliche Einladung zum Vorstellungsgespräch. Die Arbeitnehmerin bestreitet böswilliges Unterlassen, äußert sich aber nicht dazu, ob sie auf diese Einladung reagierte. Ein tatsächliches Einstellungsangebot oder Zwischenverdienst ist nicht belegt. Beurteile den Auskunftsantrag, die noch erforderliche Darlegung im Lohnprozess und den derzeit vertretbaren Umgang mit einem fiktiven Lohnabzug. Nutze den Rechtsstand nach dem Urteil 5 AZR 37/25, ohne unzugängliche Entscheidungsgründe zu erfinden.",
       "input_files": [],
-      "deliverables": ["ergebnis.md"],
+      "deliverables": [
+        "ergebnis.md"
+      ],
       "criteria": [
-        {"id": "C01", "text": "Der Vermerk trennt den eigenständigen Auskunftsanspruch über Vermittlungsvorschläge von Bewerbungen und Ergebnissen und empfiehlt keinen selbständigen Bewerbungsauskunftsantrag auf dieser Grundlage.", "deliverables": ["ergebnis.md"]},
-        {"id": "C02", "text": "Er behandelt die Reaktion auf die konkret beschriebene Beschäftigungsmöglichkeit als Frage sekundärer Darlegung im Lohnprozess, ohne die Darlegungs- und Beweislast für den Anrechnungseinwand auf die Arbeitnehmerin umzukehren.", "deliverables": ["ergebnis.md"]},
-        {"id": "C03", "text": "Er zieht weder automatisch 18.000 Euro noch einen erfundenen Zwischenverdienst ab, sondern benennt die offenen Voraussetzungen und Belege für erzielbaren, böswillig unterlassenen Erwerb.", "deliverables": ["ergebnis.md"]}
+        {
+          "id": "C01",
+          "text": "Der Vermerk trennt den eigenständigen Auskunftsanspruch über Vermittlungsvorschläge von Bewerbungen und Ergebnissen und empfiehlt keinen selbständigen Bewerbungsauskunftsantrag auf dieser Grundlage.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Er behandelt die Reaktion auf die konkret beschriebene Beschäftigungsmöglichkeit als Frage sekundärer Darlegung im Lohnprozess, ohne die Darlegungs- und Beweislast für den Anrechnungseinwand auf die Arbeitnehmerin umzukehren.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Er zieht weder automatisch 18.000 Euro noch einen erfundenen Zwischenverdienst ab, sondern benennt die offenen Voraussetzungen und Belege für erzielbaren, böswillig unterlassenen Erwerb.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
       ],
       "target_skill": "annahmeverzugslohn-zeitraeume-und-anrechnung"
     }
-  ]
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-23",
+    "files": [
+      "fachanwalt-arbeitsrecht/README.md",
+      "fachanwalt-arbeitsrecht/fachanwalt-arbeitsrecht-schnellstart.md",
+      "fachanwalt-arbeitsrecht/fachanwalt-arbeitsrecht-hauptproblem.md",
+      "fachanwalt-arbeitsrecht/fachanwalt-arbeitsrecht-werkstatt.md",
+      "fachanwalt-arbeitsrecht/skills/annahmeverzugslohn-zeitraeume-und-anrechnung/SKILL.md",
+      "quality/evals/fachanwalt-arbeitsrecht.json"
+    ],
+    "opening_change": "Kündigung, Vergütung und Annahmeverzugszeiträume anhand der Akte bearbeiten; doppelte generische FAO-Rollenbeschreibung im Mini entfernt Workflow-Ergänzung: Leer: Kündigungsschutz, Annahmeverzugslohn oder Vertragsregelung anbieten. Dateien ohne Aufgabe: Kündigung, Lohnbelege und Leistungsbescheide still lesen; Schutz-, Zahlungs- oder Abwehrziel klären. Klarer Auftrag: bestellten Schriftsatz oder Zahlungsentwurf unmittelbar bearbeiten; keine erneute Aufnahme bekannter Beschäftigungsdaten.",
+    "norms": [
+      "Paragraf 615 BGB",
+      "Paragraf 11 KSchG",
+      "Paragraf 4 KSchG",
+      "Paragraf 174 BGB",
+      "Paragraf 241 Absatz 2 BGB",
+      "Paragraf 626 BGB",
+      "Paragraf 611a Absatz 1 BGB",
+      "Paragraf 613 BGB",
+      "Paragraf 242 BGB",
+      "Paragraf 102 Absatz 5 BetrVG",
+      "Artikel 1 GG",
+      "Artikel 2 GG"
+    ],
+    "decisions": [
+      {
+        "citation": "BAG, Urteil vom 12.02.2025, 5 AZR 127/24",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/5-azr-127-24/",
+        "application": "Einseitig freigestellter Arbeitnehmer muss vor Vertragsende ohne besondere Umstände keine andere Beschäftigung allein zur Entlastung des Arbeitgebers aufnehmen.",
+        "limit": "Volltext Rn. 16 bis 25; kein allgemeiner Verzicht auf Anrechnung nach Vertragsende. BAG 5 AZR 37/25 nur Pressemitteilung, kein Volltext."
+      },
+      {
+        "citation": "BAG, Urteil vom 30.01.2025, 2 AZR 68/24",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-68-24/",
+        "application": "Einlieferung und Status ohne Auslieferungsbeleg tragen keinen Anscheinsbeweis des Zugangs.",
+        "limit": "Volltext Rn. 10 bis 20; andere Beweise bleiben offen."
+      },
+      {
+        "citation": "BAG, Urteil vom 30.07.2026, 2 AZR 96/24",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-96-24/",
+        "application": "Annahmeverzug nach unwirksamer Arbeitgeberkündigung kann nicht vorab vollständig ausgeschlossen werden.",
+        "limit": "Volltext Rn. 10 bis 20; nicht sämtliche Gestaltungen zu Paragraf 615 BGB zwingend."
+      },
+      {
+        "citation": "BAG, Urteil vom 26.08.2026, 5 AZR 37/25",
+        "url": "https://www.bundesarbeitsgericht.de/presse/annahmeverzugsverguetung-kein-auskunftsanspruch-zu-bewerbungen-auf-stellenangebote/",
+        "application": "Auskunft über Vermittlungsangebote von Bewerbungsdetails und sekundärer Darlegung unterscheiden.",
+        "limit": "Nur amtliche Pressemitteilung 29/26; kein Volltext und keine allgemeine Befreiung von Prozessvortrag."
+      },
+      {
+        "citation": "BAG, Urteil vom 27.05.2020, 5 AZR 387/19",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/5-azr-387-19/",
+        "application": "Arbeitgeber trägt Einwendung, Auskunft über behördliche Vermittlungsangebote dient Sachaufklärung.",
+        "limit": "Volltext Rn. 27 bis 28 und 43 bis 50; sekundäre Darlegung kehrt Beweislast nicht um."
+      },
+      {
+        "citation": "BAG, Urteil vom 23.02.2022, 5 AZR 347/21",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/5-azr-347-21/",
+        "application": "Zwischenverdienst in die Gesamtberechnung des maßgeblichen Verzugszeitraums einordnen.",
+        "limit": "Volltext Rn. 25 bis 29; Grenzen von Anträgen und erhobener Einwendung beachten."
+      },
+      {
+        "citation": "BAG, Urteil vom 07.05.2026, 2 AZR 130/25",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-130-25/",
+        "application": "Unterschreiben einzelne Mitglieder des gesamtvertretungsbefugten GmbH-Aufsichtsrats, Satzung, Ermächtigung, Nachweis und unverzügliche Zurückweisung nach Paragraf 174 BGB entsprechend prüfen.",
+        "limit": "Amtlicher Volltext, Rn. 16 bis 33: konkrete Kenntnisgabe der Einzelermächtigung kann Zurückweisung ausschließen; keine Urkundenvorlagepflicht für sämtliche Organvertreter."
+      },
+      {
+        "citation": "BAG, Urteil vom 24.08.2023, 2 AZR 17/23",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-17-23/",
+        "application": "Bei groben beleidigenden und menschenverachtenden Gruppenchatäußerungen besondere Darlegung berechtigter Vertraulichkeit anhand Inhalt, Zusammensetzung, Beteiligung und Medium verlangen.",
+        "limit": "Amtlicher Volltext, Rn. 15 bis 41: keine feste Teilnehmergrenze, keine abschließende Kündigungsbestätigung; Interessenabwägung und Verwertbarkeit gesondert."
+      },
+      {
+        "citation": "BAG, Großer Senat, Beschluss vom 27.02.1985, GS 1/84; amtlich bestätigt durch BAG, Urteil vom 31.03.2022, 8 AZR 207/21",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/8-azr-207-21/",
+        "application": "Allgemeinen Weiterbeschäftigungsanspruch nach stattgebendem Kündigungsschutzurteil und überwiegende Gegeninteressen prüfen; vor einem Urteil regelmäßig Nichtbeschäftigungsinteresse, außer insbesondere bei offensichtlich unwirksamer Kündigung.",
+        "limit": "Amtliche Rn. 71 bis 75 der Folgeentscheidung gelesen; historischer Originalvolltext nicht amtlich abrufbar. Keine Übertragung der dort behandelten Steuerschadensfrage oder Gleichsetzung mit Annahmeverzugslohn."
+      },
+      {
+        "citation": "BAG, Urteil vom 05.12.2019, 2 AZR 240/19",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-240-19/",
+        "application": "Bei Weiterbeschäftigung aktuelles Instanzurteil und geänderte Sachlage einschließlich späterem Auflösungsantrag prüfen.",
+        "limit": "Amtliche Rn. 117 bis 123 gelesen; früheres erstinstanzliches Obsiegen trägt nicht unabhängig von divergierenden Folgeentscheidungen. Keine Aussage zum konkreten Vollstreckungsschutzverfahren."
+      },
+      {
+        "citation": "BAG, Urteil vom 27.05.2020, 5 AZR 247/19",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/5-azr-247-19/",
+        "application": "Allgemeine Weiterbeschäftigung von der gesetzlichen Weiterbeschäftigung nach ordnungsgemäßem Betriebsratswiderspruch unterscheiden.",
+        "limit": "Amtliche Rn. 23 bis 29 und 39 bis 44 gelesen; Voraussetzungen und Rechtsfolgen des Paragrafen 102 Absatz 5 BetrVG nicht analog auf den allgemeinen Anspruch übertragen."
+      }
+    ],
+    "remaining_limits": [
+      "Desk- und Quellenprüfung, kein Live-Client- oder Modelltest; übrige Fachzweige nicht vollständig rechtlich neu verifiziert.",
+      "Volltext Rn. 16 bis 25; kein allgemeiner Verzicht auf Anrechnung nach Vertragsende. BAG 5 AZR 37/25 nur Pressemitteilung, kein Volltext.",
+      "GS 1/84 über ausdrückliche Wiedergabe und Anwendung in amtlichen BAG-Folgeentscheidungen verifiziert; kein amtlicher Abruf des historischen Originalvolltexts.",
+      "Workflow-Review 23.09.2026: Paragraf 4 KSchG erneut eingesehen. Vorhandener Nachweis zu BAG 5 AZR 37/25 bleibt Pressemitteilung; GS 1/84 nur in bisher dokumentierter amtlicher Vermittlung, keine neue Volltextprüfung."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Kündigungsschutz, Annahmeverzugslohn oder Vertragsregelung anbieten.",
+      "Dateien ohne Aufgabe: Kündigung, Lohnbelege und Leistungsbescheide still lesen; Schutz-, Zahlungs- oder Abwehrziel klären.",
+      "Klarer Auftrag: bestellten Schriftsatz oder Zahlungsentwurf unmittelbar bearbeiten; keine erneute Aufnahme bekannter Beschäftigungsdaten."
+    ],
+    "continuation": "Arbeitslosengeld wurde nur zurückgefordert, aber noch nicht zurückgezahlt -> Anspruchsübergang und Zahlungsbegehren anders behandeln als bei nachgewiesener Rückzahlung.",
+    "enrichment": "Jede weitere Kündigung mit eigener Frist, Beteiligungsnachweise, periodenbezogene Arbeitsfähigkeit und Freistellung, Zwischenverdienst und Sozialleistungsübergang sowie Arbeitszeit- und Bonusklauseln.",
+    "limits": "desk review; no live client execution"
+  }
 }

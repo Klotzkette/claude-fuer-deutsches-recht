@@ -1,10 +1,10 @@
 # 1. Gesellschaftsgründung vorbereiten
 
-Bereite meine konkrete Gesellschaftsgründung anhand der vorhandenen Vereinbarungen und Belege vor. Erstelle die bestellte Rechtsformberatung, Satzung, Kapitalrechnung oder Notaranfrage.
+Gleiche Gründerabreden, Beteiligungsquoten und Einzahlungen ab und prüfe, welche Gründungsunterlagen und Leistungen vor der Anmeldung noch fehlen. Formuliere die verlangte Rechtsformempfehlung, Satzung oder Notaranfrage mit den tatsächlich vereinbarten Anteilen und Geschäftsführungsrechten.
 
 ## 1.1. Gründungsstand und Auftrag
 
-Lies vorhandene Gründerabreden, Satzungsentwürfe, Beteiligungsübersichten, Finanzierungszusagen und gegebenenfalls notarielle Urkunden. Entnimm daraus Gründer, Geschäftszweck, Finanzierungsbedarf, Beteiligungen und Geschäftsführung. Eine noch nicht eingetragene Gesellschaft hat keine fertige Registerhistorie; frage nach tatsächlicher Beurkundung, übernommenen Anteilen, Konto und Einzahlungen.
+Ohne Eingabe fragen: „Möchten Sie die Rechtsform wählen, Gründerrechte in einer Satzung regeln oder Einzahlungen vor der Anmeldung prüfen?“ Anhänge ohne Auftrag still lesen und passende Wege anbieten, etwa Satzungsänderung oder Notaranfrage. Keine ungefragte Gründungsübersicht. Klaren Auftrag direkt bearbeiten, keine Pflichtdialogrunde. Bekannte Gründer-, Kapital- und Beurkundungsdaten übernehmen.
 
 Unterscheide persönliche Beteiligung und Beteiligung über eine Gesellschaft, Organstellung und Anstellungsvertrag sowie Satzung und schuldrechtliche Gesellschaftervereinbarung. Bereits geklärte Rechtsform oder Beteiligungsquoten nicht erneut abfragen. Bei offenem Rechtsformwunsch Haftung, Kapitalbedarf, Tätigkeit, laufenden Aufwand und Finanzierung vergleichen, nicht automatisch eine GmbH empfehlen.
 
@@ -13,6 +13,8 @@ Unterscheide persönliche Beteiligung und Beteiligung über eine Gesellschaft, O
 Gleiche Nominalanteile, Quoten, zugesagte und tatsächlich geleistete Einlagen ab. Rechne Nominalkapital, Einzahlung, offenen Rest, Aufgeld und verfügbares Betriebsbudget getrennt. Bei abweichendem Zahlungseingang frage nach Betrag, Zahlungszweck und Herkunft; eine Bankgutschrift ersetzt nicht die rechtliche Zuordnung zur Einlage.
 
 Bei der UG verlangt Paragraf 5a Absatz 2 GmbHG vollständige Einzahlung vor Anmeldung; Sacheinlagen sind ausgeschlossen. Die GmbH-Regel aus Paragraf 7 Absatz 2 nicht als allgemeine Halbzahlungsregel auf die UG übertragen. Bei der GmbH jeden Baranteil und den Gesamtbetrag getrennt prüfen. Keine pauschale Wartefrist als Heilung einer verdeckten Sacheinlage behaupten.
+
+Bei angebotener Sacheinlage trenne die UG-Gründung von einer späteren Kapitalerhöhung: [BGH, Beschluss vom 19.04.2011 - Az. II ZB 25/10](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2010/II_ZB__25-10.pdf?__blob=publicationFile&v=1), Rn. 13 bis 21. Das Verbot aus Paragraf 5a Absatz 2 Satz 2 GmbHG gilt grundsätzlich auch nach Gründung, nicht aber für die Erhöhung auf mindestens 25.000 EUR. Ein Laptop ersetzt deshalb keine offene Bareinlage der zu gründenden UG. Verlange deren Zahlungsnachweis; prüfe eine gewünschte spätere Sachkapitalerhöhung gesondert nach Paragrafen 56 und 57 GmbHG. Die übrigen UG-Sonderregeln enden nicht schon mit dem Erhöhungsbeschluss.
 
 ## 1.3. Satzung und Gründungsschritte
 

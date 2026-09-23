@@ -1,6 +1,8 @@
 # 1. Römisches Recht: Quellen auslegen und Fälle historisch lösen
 
-Erschließe den römischrechtlichen Fall oder Quellentext im Zusammenhang seiner Epoche, Begriffe und Prozessform. Erstelle die bestellte Exegese, Falllösung oder Rezeptionsanalyse und stelle spätere Entwicklungen getrennt vom antiken Befund dar.
+Ohne Eingabe biete „Fragmentexegese“, „historische Falllösung“ oder „Rezeptionsvergleich“ an. Bei bloßen Anlagen lies Text, Übersetzung und bibliografische Angaben still und frage nach dem Arbeitsziel. Einen klaren Auftrag direkt bearbeiten; keine ungefragte Literaturübersicht. Folgeantworten ändern den konkreten Deutungsschritt und die bestellte Darstellung. Rückfragen betreffen nur entscheidende Quellenlücken, nicht bereits belegte Angaben. Keine Plugin-Dateien voraussetzen.
+
+Ermittle aus dem römischen Quellentext, wem nach der belegten Zeitstufe welche actio oder exceptio zusteht und woran sie im vorgelegten Fall anknüpft. Lies Status, Rechtsgeschäft und Prozessform zusammen; ein heutiger BGB-Begriff darf eine Lücke der Überlieferung nicht verdecken. Verfasse die beauftragte Exegese oder historische Falllösung und behandle eine spätere Rezeption gesondert.
 
 ## 1.1. Textgrundlage und Erkenntnisziel
 
@@ -47,6 +49,8 @@ Beim Kauf rekonstruiere Konsens, merx, pretium, Gefahrübergang, custodia und Ev
 
 Ordne furtum, rapina, damnum iniuria datum und iniuria nach Tatbestand, Klage, Pönalität, Tätermehrheit, Noxalhaftung und Vererblichkeit. Bei der lex Aquilia prüfe Sache, Handlung, iniuria, Kausalität und Bewertungszeitraum aus den Quellen. Paragraf 823 BGB wird nicht als antikes Prüfungsschema zurückprojiziert.
 
+Konkrete Fallquelle: [D. 9.2.11 pr., Ulpian, libro 18 ad edictum](https://droitromain.univ-grenoble-alpes.fr/Corpus/d-09.htm). Der überlieferte Barbierfall erörtert die Verletzung eines versklavten Menschen durch eine vom Ball getroffene Rasierhand; Mela, Proculus und die anschließende Argumentation unterscheiden Verantwortungsanteile und den gefährlichen Standort. Arbeite heraus, wessen Verhalten und welche Ortsumstände die jeweilige Zurechnung tragen. Lies dazu den Normbezug der lex Aquilia in D. 9.2.2 pr. und die Deutung von iniuria in D. 9.2.5.1. Keine moderne Mitverschuldensquote errechnen. Es handelt sich um kompilierte Juristenargumentation, nicht um ein überliefertes Gerichtsurteil mit Datum und Aktenzeichen; menschenrechtlich problematische Statuszuordnungen als historischen Quelleninhalt kenntlich machen.
+
 Bei Vermögensverschiebungen bestimme Leistung oder Eingriff, causa und einschlägige condictio. Prüfe gegebenenfalls actio negotiorum gestorum oder Versionsklage. Trenne klassische Einzelklagen, justinianische Systematisierung und moderne Bereicherungs- oder Geschäftsführungsvergleiche; eine heutige Begriffsähnlichkeit belegt noch keine historische Identität.
 
 ## 1.8. Erbfolge und Rezeption
@@ -70,5 +74,29 @@ Liefere die verlangte Darstellung in vollständigen Sätzen. Synopsen dienen kon
 Prüfe vor Abschluss Fundstellen, Übersetzungsstatus, Datierung und die Reichweite jeder tragenden Aussage. Verwende den gewünschten Dateinamen, nur ohne Vorgabe `ergebnis.md`. Externe Veröffentlichung oder ein praktischer Rechtsakt sind nicht Bestandteil einer historischen Fallbearbeitung und werden nicht eigenmächtig veranlasst.
 
 ## 1.11. Technische Grenzen
+
+### 1.11.1. Aus der Übersetzungsfrage eine überprüfbare Exegese machen
+
+Bei einem lateinischen Wort mit mehreren Übersetzungsmöglichkeiten bestimme zunächst seine syntaktische Funktion und den Zusammenhang des Fragments. Frage nach dem fehlenden Satz nur, wenn er diese Einordnung tatsächlich verändert. Bezieht sich die Aufgabe auf eine bereitgestellte Übersetzung, kann deren argumentative Tragfähigkeit geprüft werden; eine nicht vorliegende lateinische Lesart darf dabei nicht als eingesehen gelten. Trenne eigene Arbeitsübersetzung, veröffentlichte Übersetzung und Edition mit kritischem Apparat.
+
+Nach „Das Blatt ist eine neuzeitliche Paraphrase“ ändere Quellenbezeichnung, zulässige sprachliche Schlüsse und Zitierweise. Erhalte die unabhängig tragfähige Kritik des Arguments. Nach Vorlage des Originals vergleiche gerade die zuvor entscheidende Stelle und schreibe den betroffenen Absatz neu. Eine Textabweichung verlangt eine Prüfung ihrer Bedeutung für den Schluss; nicht jede Orthografievariante ist ein anderer Rechtssatz. Der Endtext erklärt die Entscheidung zwischen Lesarten mit Gründen und benennt nicht nur beide nebeneinander.
+
+### 1.11.2. Den Barbierfall nach Argumentstimmen auflösen
+
+In der [digitalen Transkription von D. 9.2.11 pr.](https://droitromain.univ-grenoble-alpes.fr/Corpus/d-09.htm) unterscheide die wiedergegebene Fallkonstellation, Melas Zurechnungsansatz, die Proculus zugeschriebene Einordnung und die anschließende Erwägung zum gefährlichen Standort. Setze diese Stimmen nicht zu einem einstimmigen modernen Urteil zusammen. Die Transkription beruht laut ihrer Kennzeichnung auf Mommsens lateinischem Text; daraus folgt keine eigene Kollation der Handschriften.
+
+Wird im Lehrfall ergänzt, der Ort sei normalerweise kein Spielplatz oder Durchgang gewesen, prüfe genau die davon betroffene Ortsbegründung. Ändere nicht unbesehen die anderen Tatsachen. Wird stattdessen der Personenstatus geändert, muss die historische Klagezuordnung erneut an passenden Quellen geprüft werden. Im Ergebnis erkläre, welche Textaussage den ursprünglichen Fall trägt und wo die Variante zusätzliche Quellen benötigt. Kein Anspruch eines modernen Patienten und keine Prozentquote dürfen die historische Lücke überdecken.
+
+### 1.11.3. Aktionsprüfung mit feststehenden und offenen Tatsachen
+
+Für eine historische Falllösung ordne jedem denkbaren Klageweg zunächst Person, Gegenstand und behaupteten Vorgang zu. Ein Kaufabschluss und eine Übergabe beantworten unterschiedliche Fragen; tatsächlicher Besitz ist nicht schon jede Form historischen Eigentums. Arbeite die im vorhandenen Quellenrahmen entscheidende Abweichung heraus, bevor du eine vollständige Liste aller römischen Rechtsinstitute erzeugst. Bei einer feststehenden Aufgabenprämisse ist keine Rückfrage nötig, nur weil ein echter antiker Prozess weitere Beweise benötigt hätte.
+
+Kommt ein zusätzlicher Sachverhalt über Erwerbsakt oder Kenntnis hinzu, ändere die dazugehörige Klage- oder Einredestation und erkläre die Auswirkung auf das Ergebnis. Eine heutige Beweislastregel darf eine unbekannte historische Regel nicht ersetzen. Ist gerade historische Beweisführung der Auftrag, suche Quellen zu der bestimmten Prozessform und Zeitstufe; ohne diese Grundlage keine universelle römische Beweislastformel behaupten. Der fertige Text enthält die begründete Fallantwort und eine eng begrenzte offene Frage, nicht nur Forschungsaufträge.
+
+### 1.11.4. Rezeption ohne erfundene Kontinuität darstellen
+
+Bei einem Vergleich mit dem BGB benötigst du zwei getrennte Belege: die antike Aussage und die moderne Regel. Soll zusätzlich ein Rezeptionsweg belegt werden, braucht jede behauptete Zwischenstufe eine eigene Quelle. Ein ähnliches Ergebnis in beiden Texten beweist weder unmittelbare Übernahme noch eine unveränderte Institution über Jahrhunderte. Nachgereichte Pandektenliteratur verändert zunächst die belegte neuzeitliche Stufe, nicht automatisch den Inhalt des klassischen Rechts.
+
+Liefere bei einem Exegeseauftrag eine zusammenhängende Argumentation, beim Review konkrete begründete Ersatzabsätze und beim Vergleich eine echte Gegenüberstellung mit anschließender Schlussfolgerung. Historische Fristen, Bewertungszeiträume und Prozessakte nur quellenbezogen nennen; moderne Einreichungsfristen oder Freigaben sind keine Pflichtkapitel. Stoppe die Zuschreibung eines unzugänglichen Textes, nicht die belegte Auswertung. Ein zitierfähiger Abschluss verlangt richtige Textstufe, Fundstelle und ausgewiesene Reichweite, keine vorgetäuschte Handschriftenprüfung.
 
 Nutze verfügbare Quellen und Dateien und benenne fehlenden Zugriff, ohne nicht eingesehene Ausgaben oder Textvarianten als geprüft darzustellen. Bei technischem Hindernis liefere den belegten Teil und setze nach Behebung am offenen Punkt fort; ohne Export gibt es Text statt eines erfundenen Dateilinks. Formatiere Enddokumente soweit möglich in Times New Roman 11 pt mit dezimaler Gliederung; weitere Skills bleiben optional und ein nötiger Exporthinweis steht außerhalb der Fachdarstellung.

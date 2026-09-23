@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "liquiditaetsplanung",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/inso/__17.html",
@@ -12,15 +12,27 @@
       "url": "https://www.gesetze-im-internet.de/inso/__18.html",
       "checked_on": "2026-09-14",
       "supports": "Abgrenzung kurzer Planung zur regelmäßig 24-monatigen Prognose."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2016/II_ZR__88-16.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 19.12.2017, II ZR 88/16, insbesondere Rn. 50–70: In der Dreiwochenbetrachtung künftige Zuflüsse und neue Fälligkeiten gemeinsam erfassen. Konzernansprüche nur bei rechtzeitiger Leistungsfähigkeit und Zahlungsbereitschaft als verfügbar behandeln. Grenze: Eine 13-Wochen-Budgetplanung ersetzt nicht den Status; die Entscheidung zu Paragraf 64 GmbHG begründet keine automatische heutige Organhaftung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__18.html",
+      "checked_on": "2026-09-22",
+      "supports": "Regelmäßiger Prognosezeitraum von 24 Monaten für drohende Zahlungsunfähigkeit, nicht für jeden Liquiditätsstatus."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Vollständig gelesen: Bank- und Stundungsnachweise werden nicht mit verfügbarem Geld gleichgesetzt; die Antwort wird in die betroffenen Planwochen eingerechnet.",
+    "reason": "Mini individuell um Einstiegswahl, unterwöchige Kontrollrechnung und konkrete Planfortschreibung erweitert; Dreiwochenstatus und Konzernhilfe weiterhin abgegrenzt. Desk-Review ohne Live-Ausführung.",
     "changes": [
-      "Finanzierungsanfrage und Vermerk werden nach bestätigten Bedingungen abgeschlossen; die 13-Wochen-Planung ersetzt keine Insolvenzprüfung."
+      "II ZR 88/16 an beide Seiten der Dreiwochenrechnung und Leistungsfähigkeit/-bereitschaft von Konzerngesellschaften geknüpft.",
+      "13-Wochen-Steuerung nicht als gesetzlicher Ersatz des Insolvenzstatus bezeichnet; keine automatische Organhaftung.",
+      "Drei Einstiegsmodi und bankbedingte Antwortänderung in Plan und Vermerk; Factoring und unterwöchige Restlücke erläutert."
     ],
-    "sha256": "fd3680383db071cd83b4e1c1fd25899074c2f801e263bbc72c0172c7f6e0264e"
+    "sha256": "9200c996a361c5ae380fca7be3c0736c720040210815dcca0fbf53993f0b1e15"
   },
   "selection": {
     "positive": [
@@ -68,10 +80,53 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die vollständige Werkstatt verbindet Zahlungsabstimmung, unterwöchige Engpässe, Szenarien und Finanzierung ohne pauschalen Zahlungsstopp.",
+    "reason": "Werkstatt vollständig gelesen und um Bank-/OP-Abgleich, Factoring, Tagesengpass, Kreditrückführung, zusammenhängende Stressannahmen und rückblickenden Kenntnisstand vertieft. Kein Live-Modell- oder Tabellenlauf.",
     "changes": [
-      "Neue Zahlungstermine und Zusagen führen zur erneuten Rechnung und zum bestellten Bankschreiben. Antragspflichten und Sanierungsoptionen bleiben von der operativen Planung getrennt."
+      "II ZR 88/16 an beide Seiten der Dreiwochenrechnung und Leistungsfähigkeit/-bereitschaft von Konzerngesellschaften geknüpft.",
+      "13-Wochen-Steuerung nicht als gesetzlicher Ersatz des Insolvenzstatus bezeichnet; keine automatische Organhaftung.",
+      "Zahlungsavis, Wertstellung, interne Umbuchung und Factoringvorschuss gegen Doppelzählung abgrenzen.",
+      "6.000-EUR-Tagesbedarf bei positivem Wochenabschluss und 1.000-EUR-Restlücke nach Linie nachvollziehbar durchrechnen.",
+      "Bedingte Bankzusage ändert Planpfad und Finanzierungsvermerk; spätere Belege im rückblickenden Status nicht mit früherer Verfügbarkeit gleichsetzen."
     ],
-    "sha256": "b66b7ee7efe08dde1664be41340dffff5d07ad8a84e0cdb63f98cb11a13ce685"
+    "sha256": "f7bb82c022c5c742b79726b9849c90e63e8041d3e85533e8408e1c8e61ece11d"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "liquiditaetsplanung/liquiditaetsplanung-schnellstart.md",
+      "liquiditaetsplanung/liquiditaetsplanung-werkstatt.md",
+      "liquiditaetsplanung/README.md",
+      "quality/evals/liquiditaetsplanung.json"
+    ],
+    "opening_change": "Ersten Fehlbetrag und maximalen Finanzierungsbedarf aus Konten, Fälligkeiten und belegten Zuflüssen berechnen.",
+    "norms": [
+      "Paragrafen 17, 18 und 19 InsO",
+      "Paragraf 1 StaRUG"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 19.12.2017, II ZR 88/16, insbesondere Rn. 50–70",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2016/II_ZR__88-16.pdf?__blob=publicationFile&v=1",
+        "application": "In der Dreiwochenbetrachtung künftige Zuflüsse und neue Fälligkeiten gemeinsam erfassen. Konzernansprüche nur bei rechtzeitiger Leistungsfähigkeit und Zahlungsbereitschaft als verfügbar behandeln.",
+        "limit": "Eine 13-Wochen-Budgetplanung ersetzt nicht den Status; die Entscheidung zu Paragraf 64 GmbHG begründet keine automatische heutige Organhaftung."
+      }
+    ],
+    "remaining_limits": [
+      "Redaktionelle Akten- und Quellenprüfung, kein Live-Client- oder Modelltest.",
+      "Weitere Schwellenentscheidungen und berufsständische Standards nicht erneut vollständig verifiziert; keine Live-Prüfung von Excel, Importen oder Bankzugängen.",
+      "Nachprüfung am 2026-09-23: Profilquellen erneut geöffnet; Paragrafen 17 und 18 InsO vollständig lesbar, amtlicher PDF-Link zu II ZR 88/16 technisch nicht zugänglich. Dessen früherer Quellenstand bleibt historisch erhalten, keine erneute Volltextverifikation behauptet. Ergänzt wurden Rechen- und Belegabläufe ohne neue Schwellenentscheidung."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Wochenplanung, Bankfinanzierungsbedarf oder Krisensignalprüfung zur kurzen Auswahl.",
+      "Dateien ohne Aufgabe: Zahlungsdaten still lesen, operative Planung, Bankunterlage oder Rechtsprüfung klären.",
+      "Klarer Auftrag: direkt rechnen, nur entscheidende Betrags-, Termin- oder Verfügbarkeitslücken fragen."
+    ],
+    "continuation": "Späterer oder bedingter Bankzufluss ändert im vereinbarten Pfad, beispielsweise planung/liquiditaet.xlsx, Zufluss und Folgebestände sowie in planung/finanzierungsvermerk.md Bereitstellungstag und Zwischenbedarf; ohne Dateizugriff aktualisierte Tabelle und Text.",
+    "enrichment": "OP-/Bankabstimmung, Factoring, Währungen, Tagesengpässe, Kreditrahmen nach Rückführung, realistische gekoppelte Stressfälle und zeitbezogene Belege für rückblickende Insolvenzprüfung.",
+    "limits": "desk review; no live client execution"
   }
 }

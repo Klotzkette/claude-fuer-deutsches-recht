@@ -1,12 +1,42 @@
 # 1. Insolvenzforderungsanmeldung: Werkstatt
 
-Prüfe die angemeldete Forderung nach Grund, Betrag, Rang und Verfahrensstand. Erstelle aus Gläubiger- oder Verwaltungssicht die bestellte Anmeldung, Nachforderung, Prüfempfehlung, Gläubigerantwort oder Berechnung.
+Überprüfe, ob die angemeldete Forderung aus dem bezeichneten Geschäft besteht, nach Gutschriften und Zahlungen noch offen ist und im beanspruchten Rang am Insolvenzverfahren teilnimmt. Trenne wirksame Anmeldung, fehlenden Nachweis und materiellen Einwand. Formuliere daraus die beauftragte Anmeldung, Nachforderung, Prüfempfehlung oder Gläubigerantwort mit nachvollziehbarer Betragsrechnung.
 
 ## 1.1. Verfahren und Auftrag aus den Unterlagen bestimmen
 
 Lies Eröffnungsbeschluss, Anmeldung, Belege, bisherigen Schriftwechsel und Tabellenstand. Übernimm Schuldner, Gericht, Aktenzeichen, Eröffnungszeitpunkt, Anmeldefrist, Prüfungstermin, Gläubiger und Vertretung aus diesen Unterlagen. Bei Abtretung bisherigen und neuen Gläubiger sowie Forderungsidentität abgleichen; keine erneute Aufnahme bereits geklärter Daten.
 
-Bei einem Upload ohne Begleittext mit der erkennbaren Formal- und Betragsprüfung beginnen. Nur nachfragen, wenn Rolle oder Ziel die weitere Bearbeitung ändern. Das eröffnete Verfahren und eine Tabellenforderung sind kein Anlass für eine allgemeine Insolvenzreife- oder Sanierungsprüfung.
+Ohne Eingabe biete Anmeldung, Betrags- und Rangprüfung oder Antwort auf Bestreiten an. Bei Dateien ohne Auftrag zunächst still lesen und zwei passende Dokumentwege anbieten. Einen klaren Auftrag unmittelbar bearbeiten; nur entscheidende fehlende Angaben erfragen. Das eröffnete Verfahren und eine Tabellenforderung sind kein Anlass für eine allgemeine Insolvenzreifeprüfung. Dieser Text benötigt keine weiteren Plugin-Dateien oder Tabellensoftware.
+
+### 1.1.1. Forderungsidentität vor Summenvergleich
+
+Wenn ursprünglicher Lieferant und Factor denselben Betrag anmelden, gleiche Rechnung, Abtretungsumfang, Zeitpunkt und Schuldner ab. Derselbe Rechnungsbetrag kann eine Dublette sein, aber auch zwei verschiedene Leistungen betreffen. Frage nach dem konkreten Abtretungsbeleg, nicht nach der gesamten Geschäftsbeziehung. Ein Inkassodienstleister kann Vertreter statt neuer Gläubiger sein. Die Empfänger- und Gläubigerangaben des Entwurfs müssen diese Rolle korrekt wiedergeben.
+
+Wird eine neue Abtretungsanzeige vorgelegt, ändere Anspruchsinhaber und Belegkette nur für die erfassten Forderungen. Bereits geleistete Zahlung an einen Beteiligten verlangt eine eigene Erfüllungsprüfung; ziehe sie nicht allein wegen gleichen Betrags von einer anderen Rechnung ab. Im Prüfvermerk bleiben Forderung und konkurrierende Anmeldungen nachvollziehbar verbunden, ohne selbst gerichtliche Tabellenzeilen zu löschen.
+
+### 1.1.2. Gutschrift, Teilzahlung und Zinsabschnitt
+
+Prüfe bei jeder Gutschrift, ob sie endgültige Preisberichtigung, Rücknahme einer Rechnung oder nur angekündigte Kulanz betrifft. Eine streitige Gegenforderung ist nicht dasselbe wie eine schon wirksame Gutschrift. Ordne Zahlungen nach Tilgungsbestimmung und anwendbarer Rechtslage zu. Sind Kosten und Zinsen betroffen, darf eine Zahlung nicht ohne Begründung vollständig von der Hauptforderung abgezogen werden.
+
+Nach einem neuen Beleg ändere Hauptforderung, betroffene Zinszeiträume und Gesamtsaldo gemeinsam. Ein Zahlungstag nach Eröffnung verlangt außerdem Prüfung des tatsächlichen Empfängers und der rechtlichen Wirkung. Vor- und Nachrang bleiben getrennt. Liefere eine nachvollziehbare Rechnung mit sicheren und streitigen Eingabewerten; eine bislang ungeklärte Zahlung nicht als Null und einen Nominalwert einer Sicherheit nicht als Verwertungserlös ansetzen.
+
+### 1.1.3. Ein Vertrag über den Eröffnungszeitpunkt hinweg
+
+Ordne den Anspruch seinem Entstehungsgrund und der tatsächlichen Leistung zu. Eine später gestellte Rechnung kann eine vor Eröffnung begründete Forderung betreffen. Umgekehrt ist eine nach Eröffnung erbrachte Leistung nicht allein deshalb stets eine Masseverbindlichkeit. Prüfe Vertragsart, Verwalterhandeln und einschlägigen Verfahrenstatbestand. Frage gezielt nach dem Abruf oder der Erklärung, von der die Einordnung abhängt.
+
+Eine neue Bestellung des Verwalters kann einen abgrenzbaren Teil betreffen. Teile dann die Positionen sachlich und zeitlich auf, statt die ganze Rechnung in einen einheitlichen Rang zu verschieben. Das Gläubigerschreiben erläutert, welcher Betrag im Tabellenverfahren behandelt wird und welcher gesondert zu beurteilen ist. Keine automatische Nachranganmeldung ohne die gesetzlich erforderliche Aufforderung.
+
+### 1.1.4. Grundforderung und Deliktsattribut
+
+Bei behauptetem Eingehungsbetrug trenne unbezahlte Rechnung, Täuschungshandlung, damaliges Wissen und vorsätzlich verursachten Schaden. Spätere Insolvenz oder Nichtzahlung allein belegt den besonderen Rechtsgrund nicht. Verlange die konkret behauptete Erklärung und ihren Zeitpunkt, ohne ein strafrechtliches Geständnis oder Ermittlungsurteil zu erfinden. Die Grundforderung kann unabhängig vom streitigen Attribut bestehen.
+
+Nach einem nachgereichten Urteil prüfe Tenor, erfassten Lebenssachverhalt und Reichweite. Ein Zahlungstitel entscheidet nicht automatisch jede Frage des besonderen Rechtsgrunds. Aktualisiere den bestrittenen Umfang entsprechend. Formuliere die beauftragte Prüfempfehlung getrennt nach Grund, Höhe, Rang und Attribut; ein pauschales „vollständig anerkannt“ wäre bei weiter streitigem Attribut unpräzise.
+
+### 1.1.5. Titel und Bestreitender ändern den Verfahrensweg
+
+Lies den tatsächlichen Tabellenauszug: Wer hat welchen Teil bestritten, und war die Anmeldung wirksam geprüft? Eine vorbereitete Empfehlung ersetzt das Ergebnis nicht. Wird ein Titel nachgereicht, prüfe seine Qualität und Identität mit der angemeldeten Forderung, bevor die Betreibungslast nach den unten erläuterten Vorschriften zugeordnet wird. Schuldnerwiderspruch und Verwalterbestreiten dürfen nicht in einem einheitlichen Standardbrief verschwinden.
+
+Bei anstehender Verteilung prüfe zusätzlich den einschlägigen Nachweisweg und dessen eigenen Fristauslöser. Eine rechtzeitig angemeldete, aber bestrittene Forderung ist nicht allein deshalb in jeder Verteilung auszuzahlen. Das beauftragte Schreiben benennt bestimmten Umfang, Verfahrensstand, erforderlichen Antrag oder Nachweis und tatsächliche Anlagen. Anmeldung, Tabellenänderung, Anerkennung und Zahlung bleiben freigabebedürftig; die vollständige rechtliche Empfehlung wird dennoch geliefert.
 
 ## 1.2. Eingang und Anmeldung
 
@@ -78,15 +108,9 @@ Bei Tabellen- oder CSV-Auftrag das tatsächlich bereitgestellte Importschema ben
 
 Amtliche Normfassungen und Entscheidungen vor tragender Verwendung prüfen. Die oben verlinkten Paragrafen 52, 174, 177, 184 und 189 InsO wurden für diese Verfahrensregeln am 16.09.2026 eingesehen; daraus folgt keine Bestätigung sämtlicher anderer Quellen oder Einzelfallvoraussetzungen.
 
-Die bisherigen Insolvenzreife- und Anfechtungsanker bleiben Recherchehinweise für eine tatsächlich einschlägige Nebenfrage, nicht Maßstab der normalen Tabellenprüfung:
+Für die Formalprüfung ist BGH, Urteil vom 25.06.2020, IX ZR 47/19, [Rn. 16–27](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2019/IX_ZR__47-19.pdf?__blob=publicationFile&v=1), maßgeblich: Paragraf 174 Absatz 2 InsO verlangt einen identifizierbaren Lebenssachverhalt, nicht bereits eine schlüssige Anspruchsbegründung. Ist etwa die konkrete Lieferung bezeichnet, trenne fehlende Anspruchsvoraussetzungen oder Belege von fehlender Individualisierung. Verlange den Leistungsnachweis für die Sachprüfung, erkläre die Anmeldung aber nicht allein deshalb für unwirksam. Unzureichender Vortrag kann Bestreiten und ein Kostenrisiko im späteren Feststellungsstreit auslösen.
 
-- Paragrafen 17 bis 19 InsO und Paragraf 1 StaRUG: Insolvenzgründe und Krisenfrüherkennung.
-- Paragrafen 129 bis 147 InsO: Anfechtung.
-- BGH, Urteil vom 23.01.2025, IX ZR 229/22: Behandlung streitiger beziehungsweise titulierter Verbindlichkeiten im Liquiditätsstatus.
-- BGH, Urteil vom 24.05.2005, IX ZR 123/04, und Urteil vom 19.12.2017, II ZR 88/16: Liquiditätslücke, Prognosezeitraum und einzubeziehende Verbindlichkeiten.
-- BGH, Urteil vom 06.05.2021, IX ZR 72/20, und Urteil vom 10.02.2022, IX ZR 148/19: Benachteiligungsvorsatz, Zahlungsverhalten und Zahlungseinstellung.
-
-Diese Entscheidungen hier nicht als neu verifiziert behandeln. Aussagegehalt und Übertragbarkeit vor Zitierung am amtlichen Volltext prüfen; keine pauschale Beweislast aus Insolvenzreife oder Organhaftung auf die angemeldete Forderung übertragen.
+Maßgeblich für die ausreichende Individualisierung ist der Prüfungstermin; eine Nachholung wirkt nicht auf den Eingang der ersten Anmeldung zurück. Halte deshalb Ergänzungsdatum, Prüfungsstand und einen Widerspruch gegen verspätete Prüfung nach Paragraf 177 InsO fest. Für eine beauftragte Prozessaufnahme beachten: Nach Rn. 10–13 muss die Forderung wirksam angemeldet, geprüft und bestritten geblieben sein; Paragraf 180 Absatz 2 InsO erlaubt kein Überspringen des Prüfungsverfahrens. Das Urteil entscheidet weder den materiellen Bestand der konkreten Forderung noch ihren Rang oder die Voraussetzungen eines besonderen Deliktsgrunds. Insolvenzreife- und Anfechtungsrecht nur bei einer tatsächlich entscheidenden Nebenfrage zusätzlich prüfen.
 
 ## 1.9. Ergebnis und Grenzen
 

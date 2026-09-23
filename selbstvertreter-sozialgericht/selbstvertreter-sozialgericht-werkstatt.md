@@ -1,6 +1,8 @@
 # 1. Den eigenen Sozialleistungsfall bearbeiten
 
-Hilf der betroffenen Person, ihren Bescheid zu verstehen und das beauftragte Schreiben fertigzustellen. Formuliere aus ihrer Sicht, nicht als Leistungsbehörde oder Gericht.
+Ohne Eingabe biete „Bescheid verstehen“, „Widerspruch begründen“ oder „vorläufige Hilfe bei akuter Not“ an. Dateien ohne Aufgabe still lesen und Ziel klären; keine ungefragte Aktenübersicht. Klaren Auftrag sofort ausarbeiten. Nur entscheidende fehlende Angaben erfragen und Antworten in Monatsrechnung, Befundargument oder Antrag einarbeiten. Keine Plugin-Dateien voraussetzen und keine künstlichen Gesprächsrunden verlangen.
+
+Erkläre, welche Leistung der Bescheid für welchen Zeitraum ablehnt, kürzt oder zurückfordert und mit welchen vorhandenen Belegen sich dagegen vorgehen lässt. Berechne streitige Beträge nachvollziehbar und schreibe den beauftragten Brief oder Rechtsbehelf aus Sicht des Betroffenen vollständig. Eine bloße Bitte um Erläuterung verlangt noch keine Klage.
 
 ## 1.1. Bescheid und Ziel aus den Unterlagen bestimmen
 
@@ -69,7 +71,9 @@ Bei Schreiben zur Eingliederung lies zunächst, ob Kooperationsplan, Anhörung o
 
 Prüfe SGG Paragraf 86b. Absatz 1 betrifft die Vollziehungswirkung eines angegriffenen Bescheids, Absatz 2 einstweilige Anordnungen; für eine noch nicht bewilligte Leistung nicht lediglich „aufschiebende Wirkung“ beantragen. Eilrechtsschutz kann bereits vor Klageerhebung möglich sein. Vorhandene Primärquelle: https://www.gesetze-im-internet.de/sgg/__86b.html
 
-Erläutere getrennt, warum die Leistung voraussichtlich zusteht und weshalb die Entscheidung nicht warten kann. Belege aktuelle Notlage mit passenden Konto-, Miet-, Versorgungs- oder Behandlungsunterlagen; ein laufender Widerspruch beseitigt sie nicht. Prüfe bei verbleibender Unsicherheit die einschlägige Folgenabwägung, ohne einen sicheren Erfolg zu versprechen.
+Erläutere getrennt, warum die Leistung voraussichtlich zusteht und weshalb die Entscheidung nicht warten kann. Belege aktuelle Notlage mit passenden Konto-, Miet-, Versorgungs- oder Behandlungsunterlagen; ein laufender Widerspruch beseitigt sie nicht.
+
+Wenn Lebensunterhalt oder Wohnung aktuell gefährdet sind, begründe den Eilantrag auch mit Artikel 19 Absatz 4 GG und BVerfG, Beschluss vom 12.05.2005, 1 BvR 569/05, Randnummern 24 bis 30 ([amtlicher Volltext](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2005/05/rk20050512_1bvr056905.html)). Bei schweren, später nicht ausgleichbaren Nachteilen muss das Gericht abschließend prüfen oder, wenn rechtzeitige Aufklärung nicht möglich ist, die Folgen abwägen. Alte ungeklärte Einnahmen genügen nicht als bloße Vermutung heutiger Mittel. Übersetze dies in konkrete Angaben: Welches Geld steht jetzt zur Verfügung, welche Zahlung ist wann fällig, was geschieht ohne Hilfe? Das Urteil ersetzt keine Anspruchsbelege und verspricht keinen Erfolg. Nur bei passendem Sachverhalt etwa formulieren: „Die frühere Unterstützung steht mir derzeit nicht zur Verfügung. Ohne vorläufige Zahlung kann ich die am [Datum] fällige Miete nicht begleichen. Hierzu lege ich [Beleg] vor.“ Keine Beispieltatsache als eigene Angabe übernehmen.
 
 Fasse vorläufige Leistung, Umfang und Zeitraum verständlich. Haupt- und Hilfsantrag nur verwenden, wenn tatsächlich sinnvolle unterschiedliche Begehren vorliegen. Nachgereichte Zahlungen oder Behandlungstermine müssen Dringlichkeit und Antragsumfang verändern können; den bestellten Antrag danach vollständig ausformulieren.
 
@@ -83,13 +87,31 @@ Erläutere den für den konkreten Empfänger zulässigen Einreichungsweg, erford
 
 ## 7. Rechtsprechung und Schlusskontrolle
 
-Die folgenden vorhandenen Anker vor Verwendung amtlich verifizieren und auf den konkreten Fall beziehen:
+### 7.1. Übermittelte Belege tatsächlich zuordnen
 
-- BVerfG, Urteil vom 09.02.2010, 1 BvL 1/09: transparente und realitätsgerechte Bemessung existenzsichernder Leistungen.
-- BVerfG, Urteil vom 05.11.2019, 1 BvL 7/16: Verhältnismäßigkeit von Sanktionen im Grundsicherungsrecht; nicht ohne Prüfung auf jede spätere Regelung übertragen.
-- BVerfG, Beschluss vom 06.12.2005, 1 BvR 347/98: besondere verfassungsrechtliche Fragen bei lebensbedrohlicher oder regelmäßig tödlicher Erkrankung.
-- BSG, Urteil vom 30.01.2019, B 14 AS 24/18 R: Vergleichsraum und schlüssiges Konzept bei Unterkunftskosten sowie Grenzen eines gerichtlichen Ersatzkonzepts.
-- BSG, Urteil vom 08.08.2019, B 3 KR 21/18 R: Elektrorollstuhl, Behinderungsausgleich und gegebenenfalls Zuständigkeit des zuerst angegangenen Rehabilitationsträgers; Genehmigungsfiktion nicht als pauschale Anspruchsbegründung verwenden.
+Bei einer Ablehnung wegen fehlender Unterlagen vergleiche Anforderung, konkret verlangten Zeitraum und vorhandene Übermittlungsbestätigung. Eine Bildschirmansicht mit ausgewählten Dateien beweist nicht zwingend deren erfolgreichen Eingang. Frage gezielt nach Bestätigung, Dateiliste und Zeitpunkt, wenn diese entscheidend fehlen. War nur ein Teil der geforderten Monate enthalten, darf der Brief nicht behaupten, alles vollständig eingereicht zu haben.
+
+Nach dem Nachweis vollständiger Übermittlung benenne im Widerspruch genau die Belege und den Zugang. Ergibt sich eine Lücke, formuliere stattdessen eine wahrheitsgemäße Nachreichung und die dennoch tragfähigen Einwände. Nicht jede Unterlagenanforderung ist berechtigt, und nicht jeder technische Uploadfehler beweist fehlenden Anspruch. Der fertige Text beantwortet den konkreten Ablehnungsgrund, statt nur allgemeine Amtsermittlung zu verlangen.
+
+### 7.2. Aktuelle Hilfe in Betrag und Zeitraum fassen
+
+Für einen Eilantrag nach [Paragraf 86b SGG](https://www.gesetze-im-internet.de/sgg/__86b.html) ordne aktuelle Mittel, anstehende Ausgaben und bereits erhaltene Leistungen einander zu. Eine offene Miete aus einem früheren Monat ist nicht automatisch derselbe Bedarf wie die nächste fällige Miete. Frage nach dem entscheidenden Betrag oder Termin, nicht nach einer vollständigen Lebensgeschichte. Die Darstellung der Not muss eigene bestätigte Tatsachen enthalten, keine Beispielsätze als angebliches Erlebnis.
+
+Kommt während der Bearbeitung eine Teilzahlung, ändere verfügbare Mittel, Unterdeckung und beantragten Umfang. Die Zahlung kann eine Notlage mindern, ohne alle streitigen Monate zu erledigen. Ein Darlehen von Angehörigen ist nach seinem tatsächlichen Inhalt und seiner Verfügbarkeit zu beschreiben; keine fiktive dauerhaft erreichbare Unterstützung unterstellen. Schreibe den Antrag mit konkreter vorläufiger Leistung und Zeitraum fertig und behalte noch offene Anspruchsfragen sichtbar.
+
+### 7.3. Medizinischen Alltag statt Diagnosewiederholung schildern
+
+Bei einem Pflege- oder Teilhabegutachten vergleiche die beanstandete Feststellung mit einem konkreten Tagesablauf. „Ich bin krank“ ersetzt nicht die Angabe, bei welcher Verrichtung welche Hilfe wie häufig nötig ist. Erfrage nur die für den Streitpunkt erhebliche Funktion. Berichte, Hilfspersonen und eigene Schilderung sind verschiedene Erkenntnisquellen; ein Angehöriger kann Beobachtungen schildern, aber keine nicht gestellte medizinische Diagnose ersetzen.
+
+Nach einer ergänzten Alltagssituation ordne sie dem betroffenen Bewertungsbereich zu und erläutere im Schreiben den Widerspruch zum Gutachten. Erfinde keine Punktzahl, wenn deren Voraussetzungen oder aktuelle Bewertungsregeln ungeprüft sind. Ein später Befund muss zeitlich zugeordnet werden; er beweist nicht ohne Weiteres den gesamten früheren Zeitraum. Der fertige Einwand nennt Fundstelle, tatsächliche Abweichung und begehrte Überprüfung, nicht nur eine Liste von Krankheiten.
+
+### 7.4. Rückforderung und laufende Kürzung nicht vermischen
+
+Bei „Das Amt zieht monatlich Geld ab“ lies, ob Rückforderung, Aufrechnung oder eine neue Leistungsberechnung vorliegt. Ordne jeden Bescheid seinem Regelungsgegenstand zu. Frage nach der fehlenden Entscheidung, wenn nur ein Kontoauszug vorliegt; er zeigt einen Betrag, nicht sämtliche rechtlichen Gründe. Eine ursprünglich behauptete Überzahlung und die aktuelle Kürzung können unterschiedliche Einwendungen und Eilfragen auslösen.
+
+Nach Eingang des Aufrechnungsbescheids ändere das angegriffene Begehren und beschreibe die monatliche Belastung. Ein Schreiben soll nicht irrtümlich nur den alten Erstattungsbetrag angreifen, wenn gerade die laufende Kürzung Gegenstand ist. Bei neuem Widerspruchsbescheid Frist und weiteren Verfahrensweg prüfen, ohne die früheren bestätigten Angaben nochmals zu erheben. Vor Freigabe müssen betroffene Person, Träger, Bescheidkette, Monate und Beträge zusammenpassen. Keine Rücknahme, Einigung oder Einreichung ohne ausdrücklichen Auftrag ausführen.
+
+Verwende den Eilmaßstab aus Abschnitt 5 nur für die dort beschriebene Gefahr. Die richtige Leistungshöhe, medizinische Versorgung oder Anerkennung einer Einschränkung folgt daraus nicht. Zusätzliche Rechtsprechung zum konkreten Ablehnungsgrund amtlich prüfen und in verständlichen Sätzen erklären, welche festgestellte Tatsache die Entscheidung für den eigenen Fall bedeutsam macht. Eine Liste ungeprüfter Aktenzeichen hilft dem Empfänger nicht.
 
 Kontrolliere richtigen Rechtsweg, Bescheid, Zeitraum, Betrag, Belege und Einarbeitung neuer Antworten. Der bestellte Text muss vollständig vorliegen; interne Prüffeldnamen, Rechercheprotokolle und Zugriffshinweise gehören nicht ungefiltert in das Schreiben. Erläutere offene Punkte und mögliche fachliche Unterstützung gesondert und in verständlicher Sprache.
 

@@ -1,21 +1,78 @@
 {
   "schema_version": 1,
   "plugin": "patentrecht",
-  "reviewed_on": "2026-09-17",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/patg/__14.html",
       "checked_on": "2026-09-14",
       "supports": "Patentansprüche bestimmen den Schutzbereich; Beschreibung und Zeichnungen dienen der Auslegung."
+    },
+    {
+      "url": "https://www.wipo.int/wipolex/en/text/597230",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 12.03.2002, Az. X ZR 168/00, Schneidmesser I, Gründe II.3.a bis d. Anwendung: Abgewandeltes Mittel nach Gleichwirkung, fachmännischer Auffindbarkeit und anspruchsorientierter Gleichwertigkeit prüfen. Grenze und Prüfzugang: Keine allgemeine Abweichungstoleranz und kein Ersatz numerischer Anspruchsgrenzen durch bloßen Erfindungsgedanken; gerichtliche Gründe bei WIPO Lex gelesen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/patg/__14.html",
+      "checked_on": "2026-09-22",
+      "supports": "Anspruchsbestimmter Schutzbereich mit Beschreibung und Zeichnungen als Auslegungshilfe."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/patg/BJNR201170936.html",
+      "checked_on": "2026-09-23",
+      "supports": "Paragraf 14 im Gesamttext gelesen, nachdem Einzelseitenabruf scheiterte; Schutzbereich weiterhin am Anspruch mit Beschreibung und Zeichnungen ausgelegt."
+    },
+    {
+      "url": "https://www.wipo.int/wipolex/en/text/597230",
+      "checked_on": "2026-09-23",
+      "supports": "Schneidmesser I, Gründe II.3.a bis d, erneut im bei WIPO Lex veröffentlichten gerichtlichen Text gelesen: drei Äquivalenzanforderungen und Bedeutung von Zahlenangaben. Keine technische Begutachtung eines Sensors und keine pauschale Toleranzregel."
+    },
+    {
+      "url": "https://www.epo.org/de/legal/epc/2020/a123.html",
+      "checked_on": "2026-09-23",
+      "supports": "Artikel 123 Absätze 2 und 3 gelesen: ursprünglicher Offenbarungsgehalt und Verbot der Erweiterung des Schutzbereichs nach Erteilung als getrennte Grenzen des Änderungsvorschlags."
+    },
+    {
+      "url": "https://www.epo.org/de/legal/epc/2020/a99.html",
+      "checked_on": "2026-09-23",
+      "supports": "Artikel 99 Absatz 1 gelesen: neunmonatige EPA-Einspruchsfrist ab Bekanntmachung des Erteilungshinweises im Europäischen Patentblatt und Entrichtung der Einspruchsgebühr. Keine konkrete Frist aus einer Mandatsakte berechnet."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/patg/__81.html",
+      "checked_on": "2026-09-23",
+      "supports": "Absatz 2 gelesen: Sperre der nationalen Nichtigkeitsklage während möglichem oder anhängigem Einspruch; nicht ungeprüft auf andere Bestandsverfahren übertragen."
     }
   ],
   "mini_review": {
-    "verdict": "retained",
-    "reason": "Am 18. September vollständig gelesen. Innere Produktmerkmale führen zur konkreten Zeichnungs- oder Versuchsnachfrage, Anspruchsänderungen zur Offenbarungsprüfung; danach wird der bestellte Entwurf fertiggestellt. Keine Funktionsähnlichkeit als Verletzungsersatz und kein ungefragter Prozessauftrag. Keine neue Quellenverifikation oder Live-Modellprüfung.",
-    "changes": [],
-    "sha256": "56066735bc72f76ec76e05e88d7b191eb136f62886591b63980e3e92e9909a53"
+    "verdict": "revised",
+    "reason": "Individueller Ganztext-Desk-Review am 2026-09-23: Fachliche Auswahl bei leerer Eingabe, stille Dateiannahme und direkter Auftragseinstieg ergänzt; neue Serienversion verändert gezielt den Merkmalsvergleich statt erneuter Aufnahme.",
+    "changes": [
+      "Schneidmesser I in die Prüfung abgewandelter Mittel integriert",
+      "Zahlenangaben des Anspruchs nicht zu bloßen Beispielen erklärt",
+      "Nicht verwendete Entscheidungsnummern durch konkrete Forschungsfragen ersetzt",
+      "Drei Einstiege für Produktvergleich, Bescheidserwiderung oder Lizenz; keine Startübersicht bei klarem Auftrag.",
+      "Nachgereichte Lichtschranke verändert nur die betroffene Produktversion in verletzungsvermerk.md; ursprüngliche Offenbarung verändert Anspruch und Erwiderung gemeinsam."
+    ],
+    "sha256": "5126fc07c2d8b1bdd598299909b4ff95c9dc01801955ebbce804d6b989f3e18a",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
   },
-  "workshop_review": {"verdict":"retained","reason":"Am 18. September gesamten Text geprüft. Erfindungsaufnahme, Bestand, Verletzung, FTO und Lizenz bleiben verschiedene Aufträge. Fehlende ursprüngliche Stütze, Produktversion und Vorbenutzungsunterlagen führen zur passenden Nachforderung und aktualisierten Endfassung; kein widersprechender generischer Schlussblock gefunden.","changes":[],"sha256":"d2832c6d931e8915a2956523494992ea93cfcff50064b245d02a4cc928bd102d"},
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Individueller Ganztext-Desk-Review am 2026-09-23: Technische Varianten und Offenbarungsstütze, Änderung und Bestandsweg, konkrete Produktuntersuchung sowie abrechenbare Lizenzmechanik substanziell ergänzt; Spezialverfahren erhalten.",
+    "changes": [
+      "Schneidmesser I in die Prüfung abgewandelter Mittel integriert",
+      "Zahlenangaben des Anspruchs nicht zu bloßen Beispielen erklärt",
+      "Nicht verwendete Entscheidungsnummern durch konkrete Forschungsfragen ersetzt",
+      "Neue Entwicklung von ursprünglicher Offenbarung getrennt; Beschränkung, Argumentation und Hilfsanträge am tatsächlichen Bescheideinwand ausgerichtet.",
+      "EPA-Einspruchsbeginn und Gebühr, nationale Nichtigkeitssperre sowie eigenständige Grenzen nach Artikel 123 EPÜ ergänzt.",
+      "Produktversion, Versuchsfrage und Gegenbefunde sowie Lizenzereignis, Retouren und Rechteänderung bis zur konkreten Dokumentfassung ausgearbeitet."
+    ],
+    "sha256": "2a192aef56080f4512140ed15607b395571f512d1b9cd5c578e22231094fc912",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
+  },
   "selection": {
     "positive": [
       "Prüfe mein Produkt anhand des geltenden Patentanspruchs auf Verletzung.",
@@ -59,5 +116,45 @@
       ],
       "target_skill": "patentverletzung-claim-patr2"
     }
-  ]
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "patentrecht/patentrecht-werkstatt.md",
+      "patentrecht/patentrecht-schnellstart.md",
+      "patentrecht/README.md",
+      "quality/evals/patentrecht.json"
+    ],
+    "opening_change": "Geltenden Patentanspruch, Produktmerkmal und vorveröffentlichten Stand der Technik unmittelbar vergleichen.",
+    "norms": [
+      "Paragraf 14 PatG",
+      "Paragrafen 3, 4 und 139 PatG",
+      "Artikel 69 EPÜ"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 12.03.2002, Az. X ZR 168/00, Schneidmesser I, Gründe II.3.a bis d",
+        "url": "https://www.wipo.int/wipolex/en/text/597230",
+        "application": "Abgewandeltes Mittel nach Gleichwirkung, fachmännischer Auffindbarkeit und anspruchsorientierter Gleichwertigkeit prüfen.",
+        "limit": "Keine allgemeine Abweichungstoleranz und kein Ersatz numerischer Anspruchsgrenzen durch bloßen Erfindungsgedanken; gerichtliche Gründe bei WIPO Lex gelesen."
+      }
+    ],
+    "remaining_limits": [
+      "Desk-/Quellenprüfung, kein Live-Ergebnistest.",
+      "Keine technische Begutachtung konkreter Sensoren oder Schneidvorrichtungen; SEP-/FRAND-Spezialrecht nicht neu vollständig geprüft.",
+      "Workflow-Nachprüfung 2026-09-23: Schneidmesser I Gründe II.3.a bis d bei WIPO erneut gelesen; Paragraf 14 über Gesamtgesetz statt fehlgeschlagenem Einzelabruf geprüft. Artikel 99 und 123 EPÜ sowie Paragraf 81 PatG für Ergänzungen gelesen. Paragraf 59 als Einzelseite nicht erreichbar und nicht neu vollverifiziert; keine tatsächliche Amtsakte, technische Untersuchung oder Vertragsverhandlung ausgeführt."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Auswahl zwischen Anspruchs-/Produktvergleich, Anmeldung/Bescheid und Lizenz/Bestandsangriff; Mini fokussiert drei konkrete Arbeitsprodukte.",
+      "Dateien ohne Auftrag: Patentfassung oder technische Unterlagen still lesen und nur das gewünschte Ergebnis klären.",
+      "Klarer Auftrag: Anspruchsentwurf, Erwiderung, Bewertung oder Lizenzregel sofort bearbeiten; nur entscheidende Fassung, Staat oder technische Lücke erfragen."
+    ],
+    "continuation": "Neue Serienzeichnung ändert Sensorbefund und Schlussfolgerung in verletzungsvermerk.md; Offenbarungsstelle ändert Anspruch und Begründung in bescheidserwiderung.md; Gebietsangabe ändert Rechteumfang und Verweise in lizenzvertrag.md.",
+    "enrichment": "Technische Alternativen und ursprüngliche Stütze, Änderung und Hilfsanträge, EPA-Frist und nationale Sperre, reproduzierbare Produktbefunde, einzelne Rechtsfolgen und konkrete Lizenzabrechnung.",
+    "limits": "desk review; no live client execution"
+  }
 }

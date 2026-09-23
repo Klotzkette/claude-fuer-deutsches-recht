@@ -1,8 +1,8 @@
 # 1. Sachliche E-Mail mit unverändertem Rechtsstandpunkt
 
-Formuliere die vorgelegte E-Mail höflich, klar und bestimmt um. Erhalte den sachlichen Auftrag, streitige Positionen, Beträge, Fristen und Vorbehalte.
+Schreibe die bestrittene Rechnung, ausstehende Leistung oder verlangte Auskunft in der vorgelegten E-Mail sachlich und bestimmt neu. Entferne persönliche Abwertungen, ohne Forderung, Bestreiten, Betrag, Frist oder Vorbehalt abzuschwächen und ohne einen Vergleich anzubieten.
 
-Liefere zuerst die neue E-Mail, keine allgemeine Kammer- oder Berufsrechtsstellungnahme. Lies Entwurf und relevanten Gesprächsverlauf; erfrage Original, Empfänger oder Ziel nur, soweit sie daraus nicht hervorgehen.
+Ohne Eingabe biete Zahlungswiderspruch, Nachweisanforderung oder Antwort auf persönliche Kritik an. Bei Dateien ohne Auftrag erst still lesen und klären, ob umformuliert oder geantwortet werden soll; keine Inhaltsanalyse vorab. Bei klarem Auftrag direkt die neue E-Mail liefern. Folgeantwort „Die Frist bleibt bestehen“ entfernt jede unbeauftragte Verlängerung. Nur entscheidende Lücken fragen; bekannte Angaben und vorhandene Position behalten. Kein Plugin-Zugriff erforderlich.
 
 ## 1.1. Tatsachen vor Tonkorrektur
 
@@ -12,9 +12,11 @@ Erfasse ausdrücklich: Wer schreibt in welcher Rolle an wen, was wird verlangt, 
 
 Widersprechen sich Betrag oder Frist in Entwurf und Verlauf, frage nach der maßgeblichen Rechnung oder Aufforderung. Bearbeite unabhängig belegte Passagen vorläufig. Nach der Antwort ändere die betroffenen Angaben und Begründungen und stelle die E-Mail fertig. Neue entscheidende Lücken gezielt klären, bereits beantwortete Fragen nicht wiederholen; keine Annahme als Tatsache in die Außenfassung übernehmen.
 
+Bei anwaltlicher Kritik sind Paragraf 43a Absatz 3 BRAO und Artikel 5 Absatz 1 GG zusammen zu prüfen. BVerfG, Beschluss vom 02.07.2013, 1 BvR 1751/12, Rn. 15 bis 21: Auch polemische Kritik ist nicht allein wegen ihrer Schärfe Schmähung; Anlass, Sachbezug und Empfängerkreis gehören in die Bewertung. Erhalte deshalb das konkrete Bestreiten, statt jede nachdrückliche Aussage zu glätten. Der Beschluss hob ein zivilrechtliches Unterlassungsurteil zur erneuten Abwägung auf und erlaubt weder bewusst unwahre Tatsachen noch jede herabsetzende Formulierung. Die Begründung gehört nur bei Bedarf in die separate Änderungsnotiz, nicht als Zitatenblock in die E-Mail ([amtlicher Volltext](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2013/07/rk20130702_1bvr175112.html)).
+
 ## 1.2. Empfänger und Geheimnisse
 
-Prüfe vor dem Entwurf, ob der Empfänger die Gegenpartei, deren Vertretung, die eigene Mandantschaft, ein Gericht oder ein Dritter ist. Ist eine anwaltliche Vertretung bekannt, Adressierung und berufsrechtliche Kommunikationsgrenzen gesondert prüfen. Keine Umgehung einer bekannten Vertretung empfehlen.
+Prüfe, ob an Gegner, dessen Anwalt, eigenen Mandanten, Gericht oder Dritten geschrieben wird. Paragraf 12 BORA verbietet grundsätzlich den direkten Kontakt mit vertretenen Beteiligten ohne Einwilligung ihres Anwalts; die Ausnahme bei Gefahr im Verzug verlangt unverzügliche Unterrichtung. Paragraf 25 BORA verlangt bei Hinweisen an Kollegen auf Berufspflichtverstöße grundsätzlich Vertraulichkeit, vorbehaltlich konkret entgegenstehender Mandanten- oder Eigeninteressen.
 
 Vertrauliche Vergleichsgrenzen, Versicherungsangaben, interne Strategie und sensible Daten nicht ungeprüft in die Außenfassung übernehmen. Interne Notizen bleiben getrennt. Keine echten Mandatsdaten in öffentliche Suchanfragen eingeben. Ein neu eingefügter Vertraulichkeitshinweis schafft nicht automatisch eine Geheimhaltungspflicht der Gegenseite.
 

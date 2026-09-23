@@ -1,6 +1,10 @@
 # 1. Aufsichtsanforderung in konkrete Arbeit übersetzen
 
-Erstelle das beauftragte Antwortschreiben, den Vertragsabgleich oder Änderungsbericht anhand des Behördenverlangens, Vertrags oder Veröffentlichungstexts. Lies vorhandene Unterlagen zuerst und übernimm bereits geklärte Angaben.
+Ohne Eingabe biete Aufsichtsantwort, DORA-Klausel oder Umsetzung einer Rechtsänderung an. Dateien ohne Auftrag still lesen; danach nur passende zwei oder drei Wege nennen, keine Materialzusammenfassung. Klaren Auftrag sofort ausführen. Folgeantworten in denselben Text einarbeiten. Keine Feeds, lokalen Profile oder Werkzeuge voraussetzen.
+
+„Die Preisliste ist doch Vertragsanlage.“ Prüfe Einbeziehung und erfasste Vorfallhilfe, streiche eine unzutreffende Lückenbehauptung und ändere widersprechende Vorrangregeln. „Die Tabelle enthält die Tochtergesellschaft.“ Korrigiere Datenumfang, Anlagen und Antwort gemeinsam, ohne eigenmächtig eine andere Konzerneinheit zu melden. „Die Kontrolle gibt es schon.“ Verlange nur den entscheidenden Nachweis und ersetze eine unbegründete Neueinführung durch den tatsächlichen Anpassungsbedarf. Die Reparatur einer Klausel ist keine Gesamtfreigabe des Vertrags.
+
+Prüfe Reichweite und Frist eines aufsichtsrechtlichen Datenverlangens oder die konkrete Lücke eines DORA-relevanten IKT-Vertrags. Formuliere daraus die beauftragte Antwort oder Vertragsänderung. Lies Behördenverlangen, Vertrag oder Veröffentlichung zuerst und übernimm bereits geklärte Angaben.
 
 Bestimme Unternehmen, Tätigkeit, betroffene Einheit, Aufsicht und Verfahrensstand. Finanzaufsicht, Energie- und Telekommunikationsregulierung nicht unter einer allgemeinen Gewerbeerlaubnis zusammenfassen.
 
@@ -9,6 +13,8 @@ Bestimme Unternehmen, Tätigkeit, betroffene Einheit, Aufsicht und Verfahrenssta
 Zerlege ein Auskunftsersuchen nach verlangter Information, Zeitraum, Rechtsgrundlage, Empfänger und Frist. Ordne jeder Position vorhandene Daten, deren verantwortliche Stelle und noch offene Prüfung zu. Reichweite der Eingriffsnorm anhand des konkreten Verlangens prüfen, nicht lediglich den Gesetzesnamen nennen. Unklare Datenbegriffe vor der Zusammenstellung auflösen; verschiedene Konzerneinheiten nicht ohne Anlass zusammenrechnen.
 
 Geheimhaltungsinteresse und gesetzliche Auskunftspflicht getrennt prüfen. Schwärzungen nicht pauschal empfehlen, sondern Umfang, Rechtsgrund und alternative geschützte Übermittlung begründen. Fristverlängerung beantragen ist nicht Fristverlängerung erhalten. Bei Teilantworten benennen, welche Positionen vollständig geliefert werden und wann der Rest folgen soll; keine vollständige Erfüllung behaupten, solange wesentliche Teile fehlen.
+
+Geht es um Drittzugang zu Finanzaufsichtsakten, prüfe Paragraf 21 WpHG und Paragraf 3 Nummer 4 IFG dokumentbezogen. EuGH, Urteil vom 19. Juni 2018, C-15/16, Baumeister, Randnummern 34 bis 39 und 50 bis 56: Der Eingang bei der Aufsicht macht nicht sämtliche Informationen vertraulich; fehlende Öffentlichkeit und drohende Beeinträchtigung geschützter Interessen sind konkret zu prüfen, grundsätzlich zum Zeitpunkt der Zugangsentscheidung. Das Urteil zu Artikel 54 Absatz 1 der damaligen Richtlinie 2004/39/EG schafft keinen eigenen Zugangsanspruch und erlaubt keine Verweigerung rechtmäßiger Meldungen an die Aufsicht. Übertrage es nicht auf DORA-Vertragsinhalte.
 
 ## 1.2. DORA-Vertragsprüfung
 

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "richter-finanzgericht",
-  "reviewed_on": "2026-09-17",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/fgo/__69.html",
@@ -17,26 +17,53 @@
       "url": "https://www.gesetze-im-internet.de/fgo/__114.html",
       "checked_on": "2026-09-14",
       "supports": "Einstweilige Anordnung als gesondertes Verfahren; Absatz 5 grenzt die Fälle des Paragrafen 69 aus."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/fgo/__69.html",
+      "checked_on": "2026-09-22",
+      "supports": "Amtlichen Text zu Paragraf 69 FGO gelesen; Bezug: Streitige Steuerfestsetzung und Aussetzungsbetrag aus Bescheidkette und Gegenrechnung bestimmen. Keine vollständige neue Verifikation sämtlicher weiterer Normen des Plugins."
+    },
+    {
+      "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202520179/",
+      "checked_on": "2026-09-22",
+      "supports": "BFH, Beschluss vom 06.06.2025, II B 43/24 (AdV): Gewichtige Gegenargumente bei summarischer Prüfung reichen ohne Überwiegen; dokumentierte Doppelzählung auf beantragten Mehrsteuerbetrag beziehen. Amtlicher Volltext gelesen, tragend Gründe II.1; Schenkungsteuerfall liefert nur allgemeinen AdV-Maßstab, nicht materielles Ergebnis anderer Steuerarten."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/fgo/__69.html",
+      "checked_on": "2026-09-23",
+      "supports": "Vollzogene Beträge, Änderungsbescheide, Doppelansatz desselben Erlöses und geänderte Schätzungsgrundlagen. Quellenstatus: Paragraf 69 direkt gelesen; Paragraf 68 nach gescheitertem Direktabruf im amtlichen Suchindex geprüft. Bisherige BFH-Anwendungsgrenze bleibt."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/fgo/__68.html",
+      "checked_on": "2026-09-23",
+      "supports": "Vollzogene Beträge, Änderungsbescheide, Doppelansatz desselben Erlöses und geänderte Schätzungsgrundlagen. Quellenstatus: Paragraf 69 direkt gelesen; Paragraf 68 nach gescheitertem Direktabruf im amtlichen Suchindex geprüft. Bisherige BFH-Anwendungsgrenze bleibt."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der vollständig geprüfte Mini verbindet die gesonderte AdV-Prüfung mit Bescheidkette und Betragsberechnung. Ergänzende Bescheide oder Zahlungsangaben führen zum korrigierten beauftragten Entwurf.",
+    "reason": "Individuelle Lektüre und Workflow-Vertiefung: Abbuchung -> Aussetzung/Aufhebung unterscheiden; Änderungsbescheid -> Streitgegenstand und verbleibende Steuerwirkung abgleichen. Desk review, keine Live-Client-Ausführung.",
     "changes": [
-      "Vorbefassung und drohende Vollstreckung getrennt.",
-      "Aussetzung und Aufhebung sowie Steuerberechnung präzisiert.",
-      "Fehlende Verfahrens- und Betragsnachweise gezielt klären und danach die betroffenen Entscheidungsbestandteile fortschreiben lassen."
+      "AdV-Maßstab ohne überwiegende Erfolgswahrscheinlichkeit mit Doppelzählungsfall verknüpft; Beschwerde und Revision sowie Paragraf 114 abgegrenzt.",
+      "Gewichtige Gegenargumente bei summarischer Prüfung reichen ohne Überwiegen; dokumentierte Doppelzählung auf beantragten Mehrsteuerbetrag beziehen.",
+      "Abbuchung -> Aussetzung/Aufhebung unterscheiden; Änderungsbescheid -> Streitgegenstand und verbleibende Steuerwirkung abgleichen.",
+      "Vollzogene Beträge, Änderungsbescheide, Doppelansatz desselben Erlöses und geänderte Schätzungsgrundlagen."
     ],
-    "sha256": "6aa942e6390330f40d135301cb6553609807092a1122baca2d82ab5071f67dcc"
+    "sha256": "cc9ca36d1d77e9b27564ccdc516697c580ebc1fb40edf657a39c78f3de59ddbc",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die vollständig gelesene Werkstatt führt von Bescheidkette und Zulässigkeit über Aufklärung und Berechnung zur passenden Entscheidungsform. Eilrechtsschutz wird nicht mit der Hauptsache gleichgesetzt.",
+    "reason": "Individuelle Lektüre und Workflow-Vertiefung: Vollzogene Beträge, Änderungsbescheide, Doppelansatz desselben Erlöses und geänderte Schätzungsgrundlagen. Desk review, keine Live-Client-Ausführung.",
     "changes": [
-      "Nachgereichte Unterlagen an konkrete Steuerpositionen, Änderbarkeit und Schätzung angebunden.",
-      "Verhandlung, Urteil und Nebenentscheidungen fachlich gegliedert und generische zusätzliche Ergebnisrouten entfernt."
+      "Streitige Steuerfestsetzung und Aussetzungsbetrag aus Bescheidkette und Gegenrechnung bestimmen.",
+      "Gewichtige Gegenargumente bei summarischer Prüfung reichen ohne Überwiegen; dokumentierte Doppelzählung auf beantragten Mehrsteuerbetrag beziehen.",
+      "Abbuchung -> Aussetzung/Aufhebung unterscheiden; Änderungsbescheid -> Streitgegenstand und verbleibende Steuerwirkung abgleichen.",
+      "Vollzogene Beträge, Änderungsbescheide, Doppelansatz desselben Erlöses und geänderte Schätzungsgrundlagen."
     ],
-    "sha256": "086b110599e5e7ec2b57fe92bb6000364cc2934c7e2ce466ca629aeb1fed581b"
+    "sha256": "15bc4f91f9ef136d8140a38142bbcf0aa3d91d1937630e64ce3cda8e54978242",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
   },
   "selection": {
     "positive": [
@@ -113,5 +140,46 @@
       ],
       "target_skill": "03-aussetzung-der-vollziehung"
     }
-  ]
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "gerichtsplugins/richter-finanzgericht/README.md",
+      "gerichtsplugins/richter-finanzgericht/richter-finanzgericht-werkstatt.md",
+      "gerichtsplugins/richter-finanzgericht/richter-finanzgericht-schnellstart.md",
+      "quality/evals/richter-finanzgericht.json"
+    ],
+    "opening_change": "Streitige Steuerfestsetzung und Aussetzungsbetrag aus Bescheidkette und Gegenrechnung bestimmen",
+    "norms": [
+      "Paragraf 69 FGO",
+      "Paragraf 128 Absatz 3 FGO",
+      "Paragraf 114 Absatz 5 FGO"
+    ],
+    "decisions": [
+      {
+        "citation": "BFH, Beschluss vom 06.06.2025, II B 43/24 (AdV)",
+        "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202520179/",
+        "application": "Gewichtige Gegenargumente bei summarischer Prüfung reichen ohne Überwiegen; dokumentierte Doppelzählung auf beantragten Mehrsteuerbetrag beziehen.",
+        "limit": "Amtlicher Volltext gelesen, tragend Gründe II.1; Schenkungsteuerfall liefert nur allgemeinen AdV-Maßstab, nicht materielles Ergebnis anderer Steuerarten."
+      }
+    ],
+    "remaining_limits": [
+      "Amtlicher Volltext gelesen, tragend Gründe II.1; Schenkungsteuerfall liefert nur allgemeinen AdV-Maßstab, nicht materielles Ergebnis anderer Steuerarten.",
+      "Keine vollständige Prüfung des materiellen Rechts sämtlicher Steuerarten oder Live-Berechnung einer Steuerakte.",
+      "Individuelle redaktionelle Akten- und Quellenprüfung (desk review), kein Live-Client- oder Modelltest.",
+      "Workflow-Vertiefung 2026-09-23: Paragraf 69 direkt gelesen; Paragraf 68 nach gescheitertem Direktabruf im amtlichen Suchindex geprüft. Bisherige BFH-Anwendungsgrenze bleibt. Desk review; kein Live-Client-Test."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Hauptsache, AdV oder Aufklärungsverfügung auswählen.",
+      "Bescheidkette und Zahlungen still lesen; nur Arbeitsziel klären.",
+      "Bestellten Beschluss ohne vorgeschalteten Aktenbericht erstellen."
+    ],
+    "continuation": "Abbuchung -> Aussetzung/Aufhebung unterscheiden; Änderungsbescheid -> Streitgegenstand und verbleibende Steuerwirkung abgleichen.",
+    "enrichment": "Vollzogene Beträge, Änderungsbescheide, Doppelansatz desselben Erlöses und geänderte Schätzungsgrundlagen.",
+    "limits": "desk review; no live client execution"
+  }
 }

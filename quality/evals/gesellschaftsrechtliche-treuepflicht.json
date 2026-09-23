@@ -1,23 +1,30 @@
 {
   "schema_version": 1,
   "plugin": "gesellschaftsrechtliche-treuepflicht",
-  "reviewed_on": "2026-09-17",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2014/II_ZR_275-14.pdf?__blob=publicationFile&v=1",
       "checked_on": "2026-09-14",
       "supports": "BGH 12.04.2016 II ZR 275/14, Randnummern 13–19: Zweckmäßigkeit genügt nicht für Zustimmungspflicht; Randnummer 23: Sondervorteilsblockade gesondert."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2014/II_ZR_275-14.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 12.04.2016 - II ZR 275/14, Rn. 13 bis 19 und 23: Erzwungene Zustimmung nur bei objektiv unabweisbarer Maßnahme zur Werterhaltung oder Schadensvermeidung und Zumutbarkeit prüfen; Alternativen und Eigeninteressen des Abstimmenden konkret würdigen. Grenze: Bloße Zweckmäßigkeit und Mehrheitswille genügen nicht. Der Standortfall entscheidet keine generelle Nachschuss- oder Finanzierungsverpflichtung; missbräuchlicher Sondervorteil war dort nicht festgestellt."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Vollständige Textprüfung am 18. September 2026: Sanierungszustimmung und Sondervorteilsblockade waren konkret geführt; andere Absätze verlangten dennoch Transaktions- oder Klageprodukte und übertrugen Organhaftungsformeln pauschal.",
+    "reason": "Der Schnellstart legt die hohe Schwelle erzwungener Zustimmung offen und verlangt die Prüfung zumutbarer Alternativen statt bloßer Nützlichkeit einer Kapitalmaßnahme. Individuelle Text- und Primärquellenprüfung, kein Live-Modelltest.",
     "changes": [
-      "Dokumentwahl konsequent am Auftrag ausgerichtet, keine automatische Anteilsübertragung oder Klage.",
-      "Mitgliedschafts- und Organpflicht für Beweisfragen getrennt; Interessenübersicht nur bei Bedarf.",
-      "Maßstab und Fundstelle II ZR 275/14 unverändert erhalten."
+      "Zustimmungszwang von wirtschaftlicher Zweckmäßigkeit und Mehrheitswunsch getrennt.",
+      "Keine pauschale Nachschusspflicht aus der Treuepflicht; sachverhaltsbezogene Zumutbarkeit und Alternativen eingefordert.",
+      "Rechtsformbezogene Normen an Stimmrechts-, Minderheits- und Haftungsfragen angebunden.",
+      "Schlusslektüre: Überschriften benennen Mitgliedschafts- und Organpflicht sowie Zustimmungserfordernis, Alternativen und Rechtsfolge statt interner Arbeitsbegriffe.",
+      "Eigenständige Starts und fachbezogene Antwortfortsetzung ergänzt."
     ],
-    "sha256": "715aeb2649c2b1f771ad01293c9a7f10c625bd6259e0ace02f674a2615ffa838"
+    "sha256": "220c9ad5dc791e7d5ba0fa0b7258cefcb7d89cdf524382453ad8eff26f582be1"
   },
   "selection": {
     "positive": [
@@ -65,12 +72,56 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Vollständige Werkstattprüfung am 18. September 2026: Wiederholte Transaktionsraster und Entscheidungsentwürfe passten nicht zu jedem Treuepflichtgutachten. Die vorhandenen Verzweigungen zu Sanierung und Blockade wurden erhalten und im Schlussblock konsequent fortgeführt.",
+    "reason": "Die Werkstatt verbindet II ZR 275/14 mit objektiver Unabweisbarkeit, Gesellschaftsinteresse und Zumutbarkeit; Sondervorteilsargumente werden nicht als im Ausgangsfall festgestellte Tatsachen dargestellt. Individuelle Text- und Primärquellenprüfung, kein Live-Modelltest.",
     "changes": [
-      "Doppelte Deal-, Ausgabe- und Routenblöcke entfernt; Stimmbindung, Fernbleiben, Gleichbehandlung und Beschlussrechtsschutz getrennt geführt.",
-      "Bei Boykott konkrete Teilnahme- und Motivbelege verlangen statt Fernbleiben als Schädigungsabsicht zu behandeln.",
-      "Compliance-Bericht und Abschlussbericht nicht automatisch als gesetzliche Meldung ausgeben; Nachforderungen bis zum bestellten Text fortsetzen."
+      "Zustimmungszwang von wirtschaftlicher Zweckmäßigkeit und Mehrheitswunsch getrennt.",
+      "Keine pauschale Nachschusspflicht aus der Treuepflicht; sachverhaltsbezogene Zumutbarkeit und Alternativen eingefordert.",
+      "Rechtsformbezogene Normen an Stimmrechts-, Minderheits- und Haftungsfragen angebunden.",
+      "Finanzierungsalternativen, Zumutbarkeit persönlicher Sicherheiten, legitimes Eigeninteresse, Beschlussstadium und Schadenskausalität."
     ],
-    "sha256": "66aec7c6009b0467303abf6fbb93685e248daca375df3fe12067dd989fecb688"
+    "sha256": "74c60e5d51dcfeddf35637eaa51dc0f1204c77ea1ef3ce5b21d7381cc257bab1"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "gesellschaftsrechtliche-treuepflicht/README.md",
+      "gesellschaftsrechtliche-treuepflicht/gesellschaftsrechtliche-treuepflicht-werkstatt.md",
+      "gesellschaftsrechtliche-treuepflicht/gesellschaftsrechtliche-treuepflicht-schnellstart.md",
+      "gesellschaftsrechtliche-treuepflicht/skills/bgh-ii-zr-275-14-media-saturn/SKILL.md",
+      "quality/evals/gesellschaftsrechtliche-treuepflicht.json"
+    ],
+    "opening_change": "Konkrete verlangte Zustimmung, unterlassene Handlung oder Schadensfolge ersetzt allgemeine Gerechtigkeits- und Ergebnisprosa.",
+    "norms": [
+      "BGB Paragraf 242",
+      "GmbHG Paragraf 47",
+      "AktG Paragraf 53a",
+      "AktG Paragraf 243 Absatz 2"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 12.04.2016 - II ZR 275/14, Rn. 13 bis 19 und 23",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2014/II_ZR_275-14.pdf?__blob=publicationFile&v=1",
+        "application": "Erzwungene Zustimmung nur bei objektiv unabweisbarer Maßnahme zur Werterhaltung oder Schadensvermeidung und Zumutbarkeit prüfen; Alternativen und Eigeninteressen des Abstimmenden konkret würdigen.",
+        "limit": "Bloße Zweckmäßigkeit und Mehrheitswille genügen nicht. Der Standortfall entscheidet keine generelle Nachschuss- oder Finanzierungsverpflichtung; missbräuchlicher Sondervorteil war dort nicht festgestellt."
+      }
+    ],
+    "remaining_limits": [
+      "Sanierungs-, Konzern- und Ausschließungsfälle benötigen zusätzlich eigene Rechtsprechungsprüfung.",
+      "Gewöhnlicher Media-Saturn-Skill nur gelesen, nicht im freigegebenen Schreibbereich.",
+      "Desk- und Quellenprüfung; kein Live-Client- oder Live-Modelltest und keine vollständige Neuverifikation sämtlicher vorhandener Quellen.",
+      "Workflow-Ergänzung am 2026-09-23: individuelle Textprüfung, keine erneute Gesamtverifikation der bestehenden Entscheidungsanker; deren dokumentierte Quellen- und Zugriffsgrenzen bleiben bestehen."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Sanierungszustimmung, Sondervorteil oder Schaden wählen.",
+      "Beschlüsse und Finanzierungsbelege still lesen; Zustimmungsaufforderung oder Abwehr anbieten.",
+      "Bestellte Treuepflichtprüfung oder Erklärung unmittelbar ausarbeiten."
+    ],
+    "continuation": "Belastbare Bankalternative -> Erforderlichkeit und Zustimmungsforderung ändern; neuer Beschluss -> passenden Rechtsschutz statt bloßer Abstimmungsaufforderung prüfen.",
+    "enrichment": "Finanzierungsalternativen, Zumutbarkeit persönlicher Sicherheiten, legitimes Eigeninteresse, Beschlussstadium und Schadenskausalität.",
+    "limits": "desk review; no live client execution"
   }
 }

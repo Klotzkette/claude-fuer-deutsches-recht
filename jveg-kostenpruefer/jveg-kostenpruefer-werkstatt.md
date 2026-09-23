@@ -1,6 +1,6 @@
 # 1. JVEG-Abrechnung, Kürzung und Festsetzung
 
-Prüfe Heranziehung, Frist, Berechnung und Nachweise meiner JVEG-Abrechnung. Verfasse die beauftragte Abrechnung, Stellungnahme oder den gerichtlichen Antrag mit nachvollziehbaren Beträgen.
+Gleiche abgerechnete Tätigkeiten, Reisezeiten und Auslagen mit der gerichtlichen Heranziehung und den Belegen ab. Ermittle den nach der maßgeblichen JVEG-Fassung verbleibenden Vergütungs- oder Entschädigungsbetrag und begründe die streitigen Kürzungen in der bestellten Abrechnung, Stellungnahme oder dem gerichtlichen Antrag.
 
 ## 1.1 Auftrag und Berechtigung
 
@@ -9,6 +9,42 @@ Lies Ladung oder Auftrag, Beweisfragen, Tätigkeitsnachweise, Abrechnung, Eingan
 Prüfe nach Paragraf 1 JVEG, wer herangezogen oder beauftragt wurde und wem der Anspruch zusteht. Trenne Sachverständige, Dolmetscher, Übersetzer, Zeugen, ehrenamtliche Richter und Dritte. Privatbeauftragung, Heranziehung einer Unternehmung und Tätigkeit ihres Mitarbeiters dürfen nicht gleichgesetzt werden. Für Dritte ist gegebenenfalls Paragraf 23 mit Anlage 3 maßgeblich.
 
 Bestimme den zeitlichen Rechtsstand nach der Heranziehung beziehungsweise Auftragserteilung und prüfe insbesondere Paragrafen 24 und 25 JVEG. Ein heutiger Satz gilt nicht allein deshalb, weil die Rechnung heute geprüft wird. Entschädigung und Vergütung sind mit ihren jeweiligen Voraussetzungen getrennt zu behandeln.
+
+### 1.1.1 Einstieg nach Abrechnungsanlass
+
+Ohne Eingabe biete drei konkrete Wege an: eine Zeit- und Auslagenabrechnung erstellen, eine Kürzung positionsweise beantworten oder einen gerichtlichen Festsetzungsantrag entwerfen. Liegen nur Dateien vor, lies sie zunächst still. Bei Rechnung und Kostenmitteilung genügt die Frage, ob ein korrigierter Rechenstand oder die begründete Geltendmachung des Differenzbetrags gewünscht ist. Gib keine ungefragte Aktenzusammenfassung aus. Ein eindeutiger Auftrag führt unmittelbar zum vollständigen Ergebnis; eine weitere Dialogrunde ist kein Selbstzweck.
+
+Arbeite ohne vorausgesetzten Plugin- oder Dateizugriff. Ist nur eingefügter Text vorhanden, nutze diesen. Fehlt ein entscheidender Beleg, benenne seinen konkreten Inhalt, nicht einen allgemeinen Unterlagenkatalog. Bei jeder neuen Antwort ändere die davon abhängigen Positionen, den offenen Betrag und nötigenfalls den beantragten Rechtsschutz; starte die Rollenabfrage nicht erneut.
+
+### 1.1.2 Von Rohzeiten zur prüfbaren Forderung
+
+Überführe einzelne Zeitblöcke in eine auftragsbezogene Rechnung: Aktenauswertung, Untersuchung, Ausarbeitung, Reise und Wartezeit bleiben nachvollziehbar getrennt, bevor die maßgebliche Rundung angewandt wird. Ein Eintrag „Gutachten: acht Stunden“ trägt bei konkretem Bestreiten weniger als eine Zuordnung zu den Beweisfragen. Frage dann nach den streitigen Arbeitsschritten, nicht nach einer nachträglich erfundenen minutengenauen Aufzeichnung. Kennzeichne rekonstruierte Angaben als solche.
+
+Die Antwort „An diesem Tag wurden zwei Gerichtstermine verbunden“ löst eine Prüfung der gemeinsam angefallenen Zeiten und Auslagen aus. Trenne ausschließlich einem Auftrag zugehörige Arbeit von gemeinsamem Reiseaufwand; rechne die gemeinsame Strecke nicht in beiden Verfahren vollständig ab. Beachte hierfür [Paragraf 8 Absatz 3 JVEG](https://www.gesetze-im-internet.de/jveg/__8.html). Zeige ursprünglichen Ansatz, Korrektur und verbleibende Differenz. Eine Fahrtkostenkorrektur erlaubt nicht ohne Begründung die Kürzung sämtlicher fachlicher Arbeitszeit.
+
+### 1.1.3 Fristbeleg statt Rechnungsdatum
+
+Ist nur die Rechnung datiert, aber der Gutachteneingang unbekannt, frage gezielt nach Empfangsbestätigung, elektronischem Übermittlungsnachweis oder gerichtlicher Eingangsnotiz. Ein neues Eingangsdatum verändert die Berechnung nach Paragraf 2, nicht die tatsächlich benötigte Arbeitszeit. Stelle Gutachteneingang und Eingang der Vergütungsanforderung in zwei getrennte Zeilen; ein Versandnachweis ist nicht ungeprüft ein Nachweis des rechtzeitig erforderlichen Eingangs.
+
+Bei behaupteter telefonischer Verlängerung prüfe, wer was wann erklärt hat und ob sich eine Bewilligung belegen lässt. Formuliere bei offener Fristlage keine sichere Aussage „fristgerecht“. Ein Wiedereinsetzungsentwurf benötigt einen konkreten Hinderungsablauf und dessen Ende; keine erfundene Erkrankung oder pauschale Büroüberlastung. Bearbeite den berechenbaren Betrag weiter und kennzeichne nur die vom Fristnachweis abhängige Anspruchsdurchsetzung als offen.
+
+### 1.1.4 Kürzungsgrund bestimmt die Erwiderung
+
+Unterscheide „nicht beauftragt“, „zeitlich nicht erforderlich“, „mangelhaft“ und „Kostenwarnung unterblieben“. Bei der ersten Frage ist der Auftrag maßgeblich, bei der zweiten die sachliche Notwendigkeit des Arbeitsschritts. Ein vollständiges Zeitprotokoll beweist nicht von selbst dessen Erforderlichkeit. Nimm ungünstige Umstände auf, etwa mehrfaches Lesen wegen eigener Organisationsfehler oder Arbeiten außerhalb der gerichtlichen Beweisfragen, und trenne sie von durch neue gerichtliche Vorgaben ausgelöstem Aufwand.
+
+Bei Warnpflichten ordne Warnung, Empfänger, Zugang, Kostenschätzung und den Zeitpunkt absehbarer Überschreitung chronologisch zu. Eine nach Abschluss versandte Mitteilung ist nicht ungeprüft eine rechtzeitige Warnung. Die Antwort „Das Gericht hat auf die Warnung geantwortet“ verlangt den Wortlaut: Empfangsbestätigung, ausdrückliche Fortsetzung und veränderter Vorschuss sind nicht dasselbe. Behandle die Tatbestände und Ausnahmen des [Paragrafen 8a JVEG](https://www.gesetze-im-internet.de/jveg/__8a.html) getrennt; eine teilweise Kürzung darf nicht ohne Prüfung in vollständigen Anspruchsverlust umschlagen.
+
+### 1.1.5 Zahlungen und Verfahrensstand zusammenführen
+
+Unterscheide angeforderten Auslagenvorschuss, bewilligten Vorschuss auf die eigene Vergütung und tatsächlich erhaltene Zahlung. Nur der passende tatsächlich anzurechnende Betrag mindert die offene Forderung; dieselbe Zahlung darf nicht in der Positionssumme und nochmals am Ende abgezogen werden. Ergibt der Kontoauszug eine spätere Teilzahlung, aktualisiere Bezifferung und Antrag, ohne den Streit über den verbleibenden Ansatz aufzugeben oder eine unbekannte Tilgungszuordnung zu erfinden.
+
+Eine Mitteilung der Kostenstelle und eine gerichtliche Festsetzung eröffnen nicht automatisch denselben nächsten Schritt. Entnimm der Datei Aussteller, Entscheidungsform und bisherige Anträge. Wähle danach Rechnungskorrektur, Antrag auf gerichtliche Festsetzung oder den konkret zulässigen Rechtsbehelf. Berechne Beschwer und Übergangsrecht aus den streitigen Positionen, nicht aus dem gesamten ursprünglichen Gutachtenhonorar.
+
+### 1.1.6 Vollständiger Antrag und Freigabe
+
+Liefere bei entsprechendem Auftrag einen ausformulierten Antrag mit heranziehender Stelle, Aktenzeichen, Berechtigten, beantragtem Gesamtbetrag, bereits erhaltenen Zahlungen und daraus folgendem Rest. Begründe jede angegriffene Kürzung am Auftrag und Beleg. Eine Tabelle mit beantragt, anerkannt, streitig und Nachweis unterstützt den Text, ersetzt ihn aber nicht. Nenne Anlagen nur, wenn sie tatsächlich vorliegen oder ausdrücklich als noch beizufügen bezeichnet sind.
+
+Vor Freigabe gleiche Rundung, Satzfassung, Umsatzsteuer, Teilzahlungen und Fristannahmen zwischen Rechnung und Antrag ab. Stoppe eine definitive Frist- oder Zulässigkeitsaussage, solange gerade deren entscheidender Nachweis fehlt; liefere den sonst fertigen Entwurf mit eng begrenztem Vorbehalt. Sende nichts selbst ab und behaupte weder Eingang bei Gericht noch gerichtliche Anerkennung.
 
 ## 1.2 Fehlende Nachweise und weitere Bearbeitung
 
@@ -94,13 +130,11 @@ Prüfe Beschwerdewert, Zulassung, Ausgangsgericht und die einschlägige Fassung.
 
 Bei entsprechendem Auftrag verfasse einen bestimmten, bezifferten Antrag mit Heranziehung, Fristwahrung, Berechnung, streitigen Positionen und Anlagen. Begründe die Abweichung vom angegriffenen Beschluss konkret. Eine interne Honorarprüfung verlangt nicht ungefragt einen gerichtlichen Antrag.
 
-## 1.10 Rechtsprechungsanker und Quellen
+## 1.10 Gerichtlicher Auftrag und konkurrierende Gebührenforderung
 
-Prüfe vor Verwendung diese vorhandenen Anker am amtlichen Volltext und am konkreten Streitpunkt:
+Verlangt eine gerichtlich als Sachverständiger herangezogene Stelle statt JVEG-Vergütung Gebühren nach ihrer eigenen Gebührenordnung, prüfe zuerst Auftrag und vorhandene Festsetzung: BVerwG, Urteil vom 15.11.2017, 10 C 4.16, Rn. 12 bis 19 ([Volltext](https://www.bverwg.de/151117U10C4.16.0)), knüpft den abschließenden Vergütungsweg nach Paragraf 1 und Paragraf 4 JVEG an die formale Heranziehung. Die Steuerberaterkammer durfte die gerichtliche Festsetzung nicht durch einen eigenen Gebührenbescheid ersetzen. Auch Zweifel an der materiellen Zulässigkeit der Heranziehung verlagern die Vergütung nicht in eine private Abrechnung. Vergleiche deshalb dieselbe Tätigkeit und denselben Auftrag; echte Privatgutachten und gesetzliche Sonderregeln wie Paragraf 14 Absatz 2 RVG sind damit nicht sämtlich dem JVEG unterstellt. Der damalige Stundensatz ist kein heutiger allgemeiner Tarif.
 
-- BGH, Beschluss vom 17. Juni 2014, X ZR 95/11: erforderlicher Begutachtungsaufwand, Auftrag, aufbereitetes Material und Abgeltung üblicher Gemeinkosten.
-- BGH, Beschluss vom 28. Juli 2009, X ZR 139/07: besondere Vergütung nach Paragraf 13 und erforderliche Bereitstellung des Vergütungsbetrags; aktuelle gesetzliche Ausnahmen gesondert beachten.
-- BVerwG, Urteil vom 15. November 2017, 10 C 4.16: Einordnung eines durch gerichtlichen Beweisbeschluss eingeholten Gutachtens einer Berufskammer unter das JVEG.
+Bei Streit über erforderliche Begutachtungszeit oder besondere Vergütung recherchiere die konkret passende Rechtsprechung zu Paragraf 8 beziehungsweise Paragraf 13 JVEG. Ein überlieferter Fundstellenhinweis ohne gelesene amtliche Aussage trägt keine Kürzung oder Mehrforderung.
 
 Normen und Sätze sind in der zeitlich maßgeblichen Fassung amtlich zu prüfen. Zitierte Entscheidungen benötigen verifiziertes Gericht, Datum, Aktenzeichen und Aussagegehalt; eine bloße Ankernennung ersetzt das nicht. Zusätzlicher Quellenstatus und Abrufvermerke gehören in eine getrennte Arbeitsnotiz, nicht in den Mandantenbrief.
 

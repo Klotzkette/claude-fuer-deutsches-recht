@@ -1,6 +1,8 @@
 # 1. Roboterfunktion, Sicherheit und Haftung prüfen
 
-Bearbeite den konkreten Unfall-, Beschaffungs-, Vertrags- oder Freigabeauftrag anhand der Roboterfunktion und ihrer Fehlerfolgen. Erstelle den bestellten Bericht oder Entwurf, ohne vorab eine vollständige Bestandsaufnahme der gesamten Anlage zu verlangen.
+Ohne Eingabe biete „Unfall und Beweissicherung“, „Beschaffung und Abnahme“ oder „Betriebsfreigabe nach Update“ an. Bei Dateien ohne Aufgabe lies Anleitung, Version und Ereignisprotokolle still und frage nach dem Ziel. Bei klarem Auftrag beginne mit dem bestellten Brief, Vermerk oder Bericht; keine ungefragte Materialübersicht. Kläre nur entscheidende Lücken und verwende Folgeantworten zur Fortschreibung des konkreten Dokuments. Keine Pflicht zu mehreren Dialogrunden, keine vorausgesetzten Plugin-Dateien.
+
+Kläre nach einem Roboterunfall, welche Bewegung oder Sicherheitsreaktion versagt hat, wer dafür rechtlich einzustehen hat und welche Beweise vor einem Reset erhalten bleiben müssen. Bei Beschaffung oder Freigabe prüfe die vereinbarte Funktion, den anwendbaren Konformitätsweg und die Sicherheit im vorgesehenen Betrieb. Verfasse den beauftragten Bericht oder Vertragsentwurf; eine Inventur der gesamten Anlage ist dafür nicht stets erforderlich.
 
 ## 1.1. Produkt und Rollen aus der Akte bestimmen
 
@@ -95,6 +97,8 @@ Prüfe Fehler, Schaden und Kausalität getrennt. Vorhandene Anker sind ProdHaftG
 
 Bei behaupteter Fehlbedienung unterscheide tatsächlichen Bedienvorgang, Anleitung, vorhersehbare Fehlanwendung und möglichen Verursachungsbeitrag. Unterstelle nicht, Mitverschulden sei die einzige Herstellerverteidigung. Die alten Anker Maschinenverordnung Artikel 6, ProdSG Paragraf 3 und Systemrecht Artikel 9 sind vor Übernahme auf ihren konkreten Aussagegehalt zu prüfen.
 
+Wird etwa nach dem Firmwareupdate eine Schutzfeldverletzung nicht mehr sicher abgefangen, prüfe die zum Inverkehrbringen verfügbaren konstruktiven Schutzmöglichkeiten. BGH, Urteil vom 16. Juni 2009, VI ZR 107/08, Randnummern 15 bis 24, verlangt bei Paragraf 3 ProdHaftG nicht lediglich Branchenüblichkeit: Maßgeblich sind praktisch einsetzbare, hinreichend erprobte und zumutbare Sicherheitslösungen. Eine mögliche und zumutbare sichere Konstruktion lässt sich nicht durch eine Warnung ersetzen. Frage deshalb nach der damaligen technischen Verfügbarkeit, Erprobung und Wirkung der behaupteten Alternative, nicht nur nach einer heute denkbaren Lösung. Das Urteil betraf einen Pkw-Airbag, keine selbstlernende Maschine; es beweist weder die Ursache dieses Unfalls noch einen Fehler jedes Updates. Herstellerpflichten und die eigenständige Aktualisierung der Gefährdungsbeurteilung des Betreibers nach Paragraf 3 Absatz 7 BetrSichV getrennt beurteilen.
+
 Das Fachmaterial verweist auf Richtlinie (EU) 2024/2853, Artikel 9 und Artikel 10 einschließlich Absatz 4, zu Offenlegung und Vermutungen. Prüfe zuerst Umsetzung und zeitlichen Anwendungsbereich; das Datum 09.12.2026 ist kein pauschaler Austausch sämtlicher nationaler Haftungsregeln. Fehlende technische Beweise begründen nicht ohne Weiteres eine gesetzliche Vermutung.
 
 Prüfe je nach Anspruchsziel die begrenzten nationalen Instrumente: ZPO Paragraf 142, Paragraf 144, Paragraf 421 bis Paragraf 432, BGB Paragraf 810 und Paragraf 242, Stufenklage nach ZPO Paragraf 254 sowie gegebenenfalls Datenschutz-Grundverordnung Artikel 15. Für Würdigung und Sachverständige sind ZPO Paragraf 286 und Paragraf 402 und folgende vorhandene Anker. Daraus folgt keine allgemeine vorprozessuale Ausforschung.
@@ -111,9 +115,33 @@ Bereite den belegten Teil der Behördenantwort mit Produktidentität, Ereignis, 
 
 ## 8. Quellen und Ergebnis prüfen
 
+### 8.1 Vorfall, Zustandssicherung und Untersuchung abstimmen
+
+Bei einer verletzten Person oder weiter bestehender Gefährdung geht die organisatorische Sicherung des Bereichs der juristischen Ursachenzuschreibung voraus. Empfiehl keine technischen Eingriffe auf eigene Autorität. Halte fest, wer den Zustand fachkundig sichern und die Untersuchung koordinieren soll. Trenne notwendige Gefahrenabwehr von vermeidbarer Veränderung der Beweislage; ein Sicherungsbrief darf keine Fortsetzung eines gefährlichen Betriebs verlangen, nur um unveränderte Daten zu erhalten.
+
+Fordert der Integrator einen Reset, entwirf ein konkretes Schreiben: betroffenes Gerät und Ereignis, gewünschte Sicherung von Versionsstand, Konfiguration und vorhandenen Protokollen, Abstimmung des Untersuchungsablaufs und Dokumentation unvermeidbarer Veränderungen. Verlange keine technisch unmögliche Garantie vollständiger Daten. Ein bestätigter Export ändert die nächste Maßnahme zur Prüfung seiner Herkunft und Vollständigkeit; er beseitigt nicht von selbst die Notwendigkeit, den Gerätezustand zu dokumentieren. Schuldzuweisung und Anerkenntnisse gehören nicht als unbelegte Tatsachen in das Sicherungsschreiben.
+
+### 8.2 Zeit- und Versionskonflikte bis zur Kausalitätsfrage führen
+
+Führe Originalzeit, Zeitzone, bekannte Uhrabweichung und umgerechnete Arbeitszeit getrennt. Die Antwort „UTC statt Sommerzeit“ rechtfertigt eine nachvollziehbare Umrechnung, nicht das Überschreiben der Originalaufzeichnung. Prüfe danach erneut, ob Update, Bedienhandlung, Sensorereignis und Bewegung tatsächlich in der angenommenen Reihenfolge lagen. Kann eine Uhr zusätzlich falsch gegangen sein, bleibt die Reihenfolge in diesem Umfang offen. Zwei Dateien mit übereinstimmender Zeit sind keine unabhängigen Beweise, wenn sie dieselbe Zeitquelle übernehmen.
+
+Bei einem Update ordne die behauptete Änderung der konkreten Funktion zu: Bewegungssteuerung, Sicherheitsfunktion, Bedienoberfläche oder Protokollierung. Der bloße Versionssprung beweist keine Unfallursache. Formuliere Untersuchungsfragen nach reproduzierbaren, gefahrlos fachkundig zu erhebenden Befunden, etwa welcher freigegebene Parametersatz zum Ereignis aktiv war. Ergibt die Antwort, dass nur die Anzeige geändert wurde, überarbeite die Fehlerhypothese und den Lieferantenbrief; lass eine weiterhin unbelegte Sicherheitsänderung nicht als feststehende Ursache stehen. Auch Bedienabweichungen und bekannte Warnungen sind als mögliche ungünstige Tatsachen zu berücksichtigen.
+
+### 8.3 Beschaffung und Abnahme mit überprüfbaren Kriterien
+
+Bei Vertragsgestaltung übersetze den vorgesehenen Einsatz in konkrete Leistungs- und Nachweisgegenstände: Werkstücke und Umgebung, vorgesehene Geschwindigkeiten und Lasten, Schnittstellen, Schutzkonzept, Schulung, Dokumentation, Version sowie Zuständigkeit für spätere Änderungen. Erfinde weder Grenzwerte noch die Erfüllung einer technischen Norm. Ist ein Abnahmetest bestellt, formuliere rechtlich klare Testgegenstände und Nachweiszuständigkeiten, während fachkundige Personen die sicheren technischen Prüfbedingungen festlegen.
+
+Eine neue Antwort über Nachtbetrieb oder wechselnde Werkstücke ändert die vereinbarte Verwendung und die dazu benötigten Nachweise, nicht nur den Beschreibungstext. Entwirf eine Ersatzklausel mit Verfahren bei Abweichungen, dokumentierter Nachbesserung und erneuter Prüfung der betroffenen Funktion. Trenne Abnahme, Inbetriebnahme und behauptete Konformität; ein unterschriebenes Protokoll bescheinigt nicht automatisch die Sicherheit jedes späteren Einsatzes. Haftungs- oder Serviceklauseln nicht als Ersatz der gesetzlichen Verantwortlichkeit darstellen.
+
+### 8.4 Wiederfreigabe und Reichweite von Maßnahmen begründen
+
+Nach [Paragraf 3 BetrSichV](https://www.gesetze-im-internet.de/betrsichv_2015/__3.html) gehören konkrete Arbeitsbedingungen in die fachkundige Gefährdungsbeurteilung; neue Unfallkenntnisse können ihre unverzügliche Aktualisierung erfordern. Übersetze das in einen Entwurf, der offenen Gefährdungsbefund, Verantwortliche, nötige Schutzmaßnahmen und noch fehlende Wirksamkeitsnachweise bezeichnet. Die juristische Bearbeitung erteilt keine technische Wiederfreigabe. Ist nur ein Gerät untersucht, verallgemeinere den Befund weder auf die gesamte Flotte noch umgekehrt zur Entwarnung aller übrigen Geräte.
+
+Bei einer gemeldeten gleichen Fehlfunktion mehrerer Geräte aktualisiere betroffene Serien, Versionen und Einsatzbedingungen sowie den Behörden- oder Kundentext. Trenne bestätigte Befunde von vorsorglich einbezogenen Beständen. Meldepflichten, Fristbeginn und Empfänger bleiben nach dem jeweiligen Regime zu prüfen; eine interne Untersuchungsfrist verschiebt keine gesetzliche Meldung. Ein freigabefähiger Bericht enthält Ereignis, gesicherte Erkenntnisse, offene Ursache, bereits getroffene Maßnahmen und die Verantwortlichkeit für weitere Entscheidungen, ohne eine nicht erfolgte technische Untersuchung zu behaupten.
+
 Vorhandene Primärquellen sind [Verordnung (EU) 2026/1744](https://eur-lex.europa.eu/eli/reg/2026/1744/oj?locale=de), [Maschinenverordnung](https://eur-lex.europa.eu/eli/reg/2023/1230/oj?locale=de) und [KI-MIG](https://www.gesetze-im-internet.de/ki-mig/BJNR0DF0B0026.html). Prüfe tatsächliche Fassung, zeitliche Anwendung und Aussage; ihre Aufnahme hier behauptet keine in dieser Bearbeitung durchgeführte Verifikation.
 
-Vorhandene Rechtsprechungseinstiege sind BGH, Urteil vom 16.06.2009, VI ZR 107/08, zum Konstruktionsfehler und möglichen sowie zumutbaren Sicherheitsstandard; BGH, Urteil vom 05.02.2013, VI ZR 1/12, zur Sicherheitserwartung bei vorhersehbarer Verwendung; EuGH, Urteil vom 29.05.1997, C-300/95, zum Entwicklungsrisiko. Originalentscheidung und konkrete Tragweite vor Zitierung prüfen. Keine erfundenen Fundstellen verwenden; BRAO Paragraf 43a Absatz 3 bleibt ein vorhandener berufsrechtlicher Bezugspunkt.
+Den Maßstab aus VI ZR 107/08 auf den belegten technischen Stand anwenden. Weitere Entscheidungen zu vorhersehbarer Fehlanwendung, Produktbeobachtung oder Entwicklungsrisiken nur nach Prüfung des Originaltexts ergänzen. Eine ungeklärte technische Ursache nicht durch zusätzliche Aktenzeichen überspielen.
 
 Technische Normen von ISO, IEC und DIN nach tatsächlicher Fassung, Veröffentlichung und Harmonisierung einordnen. Literatur und lizenzierte Dienste wie beck-online, juris, otto-schmidt oder IEEE Xplore nur bei tatsächlich vorhandenem Zugriff nutzen; BeckRS- oder ECLI-Kennungen ersetzen nicht die Prüfung des Texts.
 

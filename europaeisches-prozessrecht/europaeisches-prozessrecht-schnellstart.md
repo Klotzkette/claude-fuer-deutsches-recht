@@ -1,8 +1,10 @@
 # 1. Europäisches Prozessrecht: Vom Auftrag zum Schriftsatz
 
-Erstelle den beauftragten unionsprozessualen Schriftsatz, die Vorlageanregung oder das Gutachten anhand der vorhandenen Verfahrensakte. Gericht, Verfahrensart, Frist und Parteirolle bestimmen die Bearbeitung, nicht ein vorgegebenes Standardprodukt.
+Prüfe anhand der Verfahrensakte, welcher Antrag den Unionsakt oder Rechtsfehler angreift beziehungsweise welche Unionsfrage das nationale Gericht entscheiden muss. Verfasse dazu den beauftragten Schriftsatz, die Vorlageanregung oder das Gutachten mit passender Parteirolle, Frist und Verfahrenssprache.
 
 ## 1.1. Akte und Rechtsschutzziel
+
+Ohne Eingabe biete Vorlageanregung, Direktklage oder Rechtsmittelbegründung an. Dateien ohne Auftrag still lesen und nur das Ziel klären; keine Aktenauswertung vorab. Bei klarem Auftrag direkt entwerfen. Folgeantwort „Es gibt einen nationalen Durchführungsbescheid“ ändert Klagebefugnis und Rechtsschutzweg. Nur entscheidende Lücken fragen; bekannte Angaben behalten. Kein Plugin-Zugriff erforderlich.
 
 Lies angegriffenen Akt, Schriftsätze, Zustellnachweise und Anlagen zuerst. Entnimm Gericht, Parteirolle und Ziel dem Auftrag; eine Partei benötigt keinen richterlichen Entscheidungsentwurf, eine Gutachtenanfrage keine ungefragte Klage. Unterscheide Vorabentscheidung, Nichtigkeitsklage, Untätigkeit, Vertragsverletzung, Schadensersatz, Eilrechtsschutz und Rechtsmittel einschließlich des EUIPO-Verfahrenszugs.
 
@@ -28,7 +30,7 @@ Bei einem Rechtsmittel greife konkrete Rechtsfehler der Entscheidung auf, statt 
 
 Bei Artikel 267 AEUV verbinde die Unionsfrage mit dem nationalen Streitpunkt. Fehlt die Entscheidungserheblichkeit, frage, welche nationale Entscheidung von welcher Auslegung abhängt. Arbeite die Antwort in Sachverhalt, Begründung und Frage ein und schreibe die bestellte Fassung fertig.
 
-Parteien regen beim nationalen Gericht eine Vorlage an; sie stellen selbst kein gerichtliches Vorabentscheidungsersuchen. Unterscheide Auslegung und Gültigkeit sowie Vorlagebefugnis und Vorlagepflicht. Prüfe behauptete Klärung oder Eindeutigkeit konkret, nicht allein anhand des Namens einer bekannten Entscheidung.
+Parteien regen eine Vorlage an; sie stellen kein gerichtliches Ersuchen. Bei letztinstanzlicher Auslegungsentscheidung gilt Artikel 267 Absatz 3 AEUV: Nach EuGH, Urteil vom 06.10.2021, C-561/19, Consorzio Italian Management, Randnummern 48 bis 66, muss eine Nichtvorlage mit fehlender Erheblichkeit, vorhandener Klärung oder fehlendem vernünftigem Zweifel begründet werden. Zeige deshalb die Entscheidungsfolgen und erhebliche abweichende Rechtsprechung auf. Eine frühere Vorlage befreit nicht von der Prüfung einer neuen Frage. Der bloße Parteiwunsch genügt nicht; zulässige Präklusion ist unter Äquivalenz und Effektivität gesondert zu prüfen. Diese Auslegungsentscheidung legitimiert keine nationale Ungültigerklärung eines Unionsakts. [Amtlicher Volltext](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62019CJ0561).
 
 Seit der Reform 2024 kann das Gericht bestimmte Vorabentscheidungen bearbeiten. Ersuchen gehen weiterhin beim Gerichtshof ein, der die Zuständigkeit prüft. Beachte [Verordnung 2024/2019 und Artikel 50b der Satzung](https://eur-lex.europa.eu/eli/reg/2024/2019/oj/deu), die begrenzten Sachgebiete, etwa Mehrwertsteuer, sowie gesonderte Fragen zu Primärrecht oder allgemeinen Grundsätzen.
 
@@ -40,7 +42,7 @@ Bereite den einschlägigen Einreichungsweg und die e-Curia-Dateien nach der aktu
 
 ## 1.6. Quellen und vollständiges Ergebnis
 
-Verifiziere tragende Rechtsgrundlagen und Entscheidungen amtlich. Bestehende Rechercheanker sind EuGH, Urteil vom 15.07.1963, 25/62, Plaumann, zur individuellen Betroffenheit und EuGH, Urteil vom 06.10.1982, 283/81, CILFIT, zu acte clair, acte éclairé und Vorlagepflicht. Prüfe Aussage und heutigen Kontext, statt ungeprüfte Fundstellen zu ergänzen.
+Verifiziere tragende Rechtsgrundlagen und zusätzliche Entscheidungen amtlich. Für Klagebefugnis und Haftung ist gesonderte Rechtsprechung erforderlich; die Vorlageentscheidung trägt diese Fragen nicht.
 
 Liefere das bestellte Dokument vollständig ausformuliert, nicht nur eine Fristen- oder Belegtabelle. Benenne bei einem Hindernis den konkret benötigten Beitrag und setze nach dessen Eingang die betroffenen Abschnitte bis zur Endfassung fort. Verwende den gewünschten Dateinamen; `ergebnis.md` ist nur ein Vorschlag bei fehlender Vorgabe.
 

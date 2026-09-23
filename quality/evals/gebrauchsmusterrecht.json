@@ -1,23 +1,44 @@
 {
   "schema_version": 1,
   "plugin": "gebrauchsmusterrecht",
-  "reviewed_on": "2026-09-17",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/gebrmg/__3.html",
       "checked_on": "2026-09-14",
       "supports": "Schriftliche Beschreibungen und inländische Benutzung; sechsmonatige Schonfrist für auf der Ausarbeitung des Anmelders beruhende Offenbarung."
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Frame=1&Gericht=bgh&nr=49839",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Beschluss vom 20.06.2006, Az. X ZB 27/05, Demonstrationsschrank, Leitsätze a und c. Anwendung: Erfinderischen Schritt qualitativ mit den patentrechtlichen Grundsätzen prüfen, nicht durch pauschal geringere Erfindungshöhe ersetzen. Grenze und Prüfzugang: Abweichender Stand der Technik des Paragraf 3 GebrMG bleibt; kein Schutz unabhängiger Wettbewerberoffenbarung durch Schonfrist. Amtliche Leitsätze einschließlich Fortsetzung indexiert geprüft, direkter Volltext gesperrt."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gebrmg/__3.html",
+      "checked_on": "2026-09-22",
+      "supports": "Stand der Technik und herkunftsgebundene sechsmonatige Neuheitsschonfrist."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gebrmg/__2.html",
+      "checked_on": "2026-09-22",
+      "supports": "Ausschluss von Verfahren."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gebrmg/__12a.html",
+      "checked_on": "2026-09-22",
+      "supports": "Schutzanspruch, Beschreibung und Zeichnungen als Auslegungsgrundlage."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Vollständige Textprüfung am 18. September 2026: Die Offenbarungs- und Nachforderungslogik war tragfähig; daneben verlangten allgemeine Ausgabeanweisungen ungefragt Durchsetzungstexte und zwingende Tabellen.",
+    "reason": "Schonfrist wird nicht auf Wettbewerberveröffentlichung ausgedehnt; erfinderischer Schritt qualitativ statt als kleine Erfindung geprüft.",
     "changes": [
-      "Ausgabe auf bestelltes Gutachten, Anspruchsfassung oder beauftragten Schriftsatz begrenzt.",
-      "Darlegungs- und Beweisfragen dem betroffenen Verfahren zugeordnet; Offenbarungsübersichten nur nach Bedarf ausgeben.",
-      "Schonfrist, unabhängige Wettbewerberoffenbarung und Merkmalsvergleich unverändert erhalten."
+      "Demonstrationsschrank mit abweichendem Stand der Technik verbunden",
+      "Verfahrensausschluss und Schutzbereich in den Kernablauf eingefügt",
+      "Doppelte Ablaufbeschreibung und interne Überschriften präzisiert",
+      "Anspruchsfassung, Abzweigung oder Vorveröffentlichung wählen. Dateien still lesen, klare Aufträge direkt bearbeiten, Folgeantwort dokumentbezogen umsetzen."
     ],
-    "sha256": "265f8ade8ed7dae27b8f8e185855a717ef5bc0eca97076883dab618310380f36"
+    "sha256": "ab9a0ae0412fae4d96b8444cc2c7624f70e1bb1d1ea053458bdec82706a265e8"
   },
   "selection": {
     "positive": [
@@ -65,13 +86,53 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Vollständige Werkstattprüfung am 18. September 2026: Der Schlussblock wiederholte allgemeine Prüfprosa und behandelte den Verfahrensausschluss wie eine Fristenfrage. Anmeldung, Berechtigung, Rechtsbestand und Verletzung brauchten getrennte Arbeitswege.",
+    "reason": "Anmeldung, Abzweigung, FTO, Löschung und Durchsetzung behalten ihre eigenständigen Anforderungen; geringerer Erfindungsmaßstab ausgeschlossen.",
     "changes": [
-      "Doppelte Ausgabetabellen und Routen entfernt; konkrete Offenbarungs-, Abzweigungs- und Merkmalsnachforderungen bis zur bestellten Fassung geführt.",
-      "Verfahrens- und Softwareausschluss anhand des beanspruchten Gegenstands prüfen lassen statt Fristenprosa.",
-      "Paragraf 13 nicht als pauschalen Inhaberschaftsnachweis behandeln; Rechtekette anhand der Unterlagen prüfen.",
-      "Normen- und Entscheidungsanker erhalten; Quellenkontrolle nicht als frisch durchgeführt dargestellt."
+      "Demonstrationsschrank mit abweichendem Stand der Technik verbunden",
+      "Verfahrensausschluss und Schutzbereich in den Kernablauf eingefügt",
+      "Doppelte Ablaufbeschreibung und interne Überschriften präzisiert",
+      "Messeoffenbarung, Herkunftsnachweis, ursprüngliche technische Kombination, zeitliche Alternativen und unbekannte Verletzungsmerkmale konkretisiert."
     ],
-    "sha256": "1fa1f0dabf2e8fc601d0e426680d4c356f0e5a610cb52c1ae9a5c000d098a10c"
+    "sha256": "f0c093f878f318976b0d203efd3cf336b4fd03db99ba4abcf8d457de854d916f"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "gebrauchsmusterrecht/gebrauchsmusterrecht-werkstatt.md",
+      "gebrauchsmusterrecht/gebrauchsmusterrecht-schnellstart.md",
+      "gebrauchsmusterrecht/README.md",
+      "quality/evals/gebrauchsmusterrecht.json"
+    ],
+    "opening_change": "Sachanspruch und datierte Vorveröffentlichungen, insbesondere eigene gegenüber unabhängiger Offenbarung.",
+    "norms": [
+      "Paragrafen 1 bis 3 GebrMG",
+      "Paragrafen 5, 7 und 12a GebrMG",
+      "Paragrafen 15 bis 17 GebrMG"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Beschluss vom 20.06.2006, Az. X ZB 27/05, Demonstrationsschrank, Leitsätze a und c",
+        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Frame=1&Gericht=bgh&nr=49839",
+        "application": "Erfinderischen Schritt qualitativ mit den patentrechtlichen Grundsätzen prüfen, nicht durch pauschal geringere Erfindungshöhe ersetzen.",
+        "limit": "Abweichender Stand der Technik des Paragraf 3 GebrMG bleibt; kein Schutz unabhängiger Wettbewerberoffenbarung durch Schonfrist. Amtliche Leitsätze einschließlich Fortsetzung indexiert geprüft, direkter Volltext gesperrt."
+      }
+    ],
+    "remaining_limits": [
+      "Desk-/Quellenprüfung, kein Live-Ergebnistest.",
+      "Demonstrationsschrank anhand amtlicher Leitsätze, nicht vollständig neu abgerufener Entscheidungsgründe; internationale Spezialfragen offen.",
+      "Workflow-Ergänzung am 2026-09-23: individuelle Textprüfung, keine erneute Gesamtverifikation der bestehenden Entscheidungsanker; deren dokumentierte Quellen- und Zugriffsgrenzen bleiben bestehen."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Anspruchsfassung, Abzweigung oder Vorveröffentlichung wählen.",
+      "Technische und amtliche Unterlagen still lesen; Bestand oder Anspruchsfassung anbieten.",
+      "Bestellte Anmeldung oder Bestandsbewertung ohne Pflichtdialog erstellen."
+    ],
+    "continuation": "Unabhängige Wettbewerberlehre -> Schonfrist greift nicht; neue Ursprungszeichnung -> beschränkte Anspruchsfassung; amtliches Datum -> Abzweigung neu rechnen.",
+    "enrichment": "Messeoffenbarung, Herkunftsnachweis, ursprüngliche technische Kombination, zeitliche Alternativen und unbekannte Verletzungsmerkmale konkretisiert.",
+    "limits": "desk review; no live client execution"
   }
 }

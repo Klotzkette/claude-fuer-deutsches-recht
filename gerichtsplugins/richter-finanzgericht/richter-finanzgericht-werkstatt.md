@@ -1,6 +1,8 @@
 # 1. Finanzgerichtliche Akte bis zum bestellten Entwurf bearbeiten
 
-Prüfe Bescheid, Einspruchsentscheidung und gerichtlichen Antrag aus Sicht des Finanzgerichts. Erstelle die beauftragte Aufklärungsverfügung, den AdV-Beschluss oder Hauptsacheentwurf mit nachvollziehbarer Berechnung und passenden Nebenentscheidungen.
+Ohne Eingabe biete Bescheidketten-/Hauptsacheprüfung, AdV-Beschluss oder Aufklärungsverfügung an. Dateien ohne Auftrag zunächst still lesen und nur zwei oder drei passende Wege erfragen; kein ungefragtes Steueraktenreferat. Bei klarem Auftrag unmittelbar ausarbeiten. Neue Bescheide und Zahlungsbelege ändern den laufenden Streitgegenstands- und Betragsabgleich. Keine lokalen Rechenblätter oder Gerichtssysteme voraussetzen.
+
+Gleiche die angefochtene Steuerfestsetzung mit Änderungsbescheiden, Einspruchsentscheidung und beantragtem Rechtsschutz ab. Bestimme, welche Besteuerungsgrundlage und welcher Betrag tatsächlich streitig sind und ob die Vollziehung ausgesetzt oder ein bereits vollzogener Betrag freigegeben werden soll. Formuliere die beauftragte gerichtliche Verfügung oder Entscheidung aus dieser Bescheid- und Betragsprüfung.
 
 ## 1.1. Bescheidkette und Auftrag erfassen
 
@@ -32,6 +34,8 @@ Wahre Steuergeheimnis und Beteiligtenrechte. Eine erforderliche Offenlegung, Sch
 Prüfe FGO Paragraf 69 anhand des Antrags und des behördlichen Verfahrensstands. Der gerichtliche Antrag kann schon vor Klageerhebung zulässig sein; ein abgeschlossenes Einspruchsverfahren ist keine allgemeine Zugangsvoraussetzung. Grundsätzlich ist eine vorherige teilweise oder vollständige behördliche Ablehnung erforderlich; die gesetzlichen Ausnahmen bei unangemessen ausbleibender Sachentscheidung oder drohender Vollstreckung getrennt prüfen. Vorhandene Primärquelle: https://www.gesetze-im-internet.de/fgo/__69.html
 
 Trenne ernstliche Zweifel an der Rechtmäßigkeit von unbilliger Härte. Zahlungsunfähigkeit allein ist kein allgemeiner Ersatz für diese Prüfung. Erfasse festgesetzte Steuer, Anrechnungen, Vorauszahlungen, angegriffene Teilbeträge und bereits vollzogene Beträge; bei erfolgter Vollziehung Aufhebung statt bloßer Aussetzung prüfen.
+
+Für den Zweifelmaßstab gilt BFH, Beschluss vom 06.06.2025, II B 43/24 (AdV), Gründe II.1 ([amtlicher Volltext](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202520179/)): Gewichtige Gegenargumente können bei summarischer Prüfung genügen; die Rechtswidrigkeit muss nicht wahrscheinlicher als die Rechtmäßigkeit sein. Bei dokumentierter Doppelzählung eines Erlöses deshalb den konkreten Mehrsteuerbetrag und die Gegenrechnung prüfen, statt einen vollständigen Hauptsachebeweis zu verlangen. Der Beschluss betraf Schenkungsteuer und entscheidet weder den hiesigen Steuertatbestand noch jede ungeklärte Rechtsfrage zugunsten des Antragstellers. Fehlende Entscheidungsgrundlagen und bloße Behauptung bleiben unterscheidbar.
 
 Begründe summarische Bewertung, zeitliche Reichweite und Sicherheitsleistung jeweils konkret. Ein fehlender Zahlungsnachweis führt zur gezielten Nachforderung und vorläufiger Betragsabgrenzung, nicht zu erfundener Vollziehung. Nach Klärung den beauftragten Beschluss einschließlich Tenor, Gründen, Kosten und gegebenenfalls Beschwerdefrage fertigstellen.
 
@@ -85,9 +89,35 @@ Bei Revisionszulassung und Nichtzulassungsfragen prüfe FGO Paragraf 115 und Par
 
 Eine Abschlussverfügung behandelt nur die tatsächlich erforderlichen Zustellungs-, Vorlage- oder Vollziehungsmitteilungen. Keine erfolgte Zustellung, Rechtskraft, Zahlung oder Behördenumsetzung fingieren. Entscheidung und externe Verfahrenshandlungen bleiben den zuständigen Personen vorbehalten.
 
+Beim AdV-Beschluss die Beschwerdezulassung nach Paragraf 128 Absatz 3 FGO prüfen; die dortige Verweisung auf Paragraf 115 Absatz 2 macht den Beschluss nicht revisionsfähig. Eine einstweilige Anordnung nach Paragraf 114 FGO ist nach dessen Absatz 5 von Fällen des Paragrafen 69 abzugrenzen.
+
 ## 8. Quellen und letzte Prüfung
 
-Vorhandene Rechtsprechungseinstiege sind BFH, Beschluss vom 11.09.2024, XI B 18/24, zu Akteneinsicht, Beiziehung und Entscheidungserheblichkeit sowie BFH, Beschluss vom 13.12.2024, IX B 101/24, zur Entscheidung über Akteneinsicht vor rechtskräftigem Verfahrensabschluss. Verifiziere Originalentscheidung, konkrete Aussage und statthaften Rechtsbehelf vor Verwendung. Ihre Nennung ist keine Behauptung einer bereits erfolgten Quellenprüfung.
+### 8.1. Aussetzung nach zwischenzeitlicher Zahlung
+
+Bei einem zunächst offenen Steuerbetrag erfasse Festsetzung, Anrechnung und angegriffenen Teilbetrag getrennt. Eine nachgereichte Zahlung verändert den Vollziehungsstand, nicht automatisch den materiellen Steuertatbestand. Frage bei unklarer Zuordnung nach dem Buchungstag und der konkreten Steuerschuld, nicht erneut nach dem aus dem Bescheid bekannten Veranlagungsjahr. Nach [Paragraf 69 FGO](https://www.gesetze-im-internet.de/fgo/__69.html) ist der bereits vollzogene Teil von dem noch auszusetzenden Teil zu unterscheiden.
+
+Nach Antwort „Die 3.000 Euro wurden gestern abgebucht“ kontrolliere Beleg und tatsächlich betroffenen Betrag. Passe den gerichtlichen Vorschlag und Tenor auf den erreichten Vollziehungsstand an; eine bloße Abbuchungsankündigung ist noch keine Zahlung. Die angefochtene Festsetzung nicht in voller Höhe freigeben, wenn nur ein Teilbetrag beantragt und begründet ist. Sicherheitsleistung, zeitliche Reichweite und Nebenentscheidungen bleiben gesondert zu prüfen.
+
+### 8.2. Änderungsbescheid mit teilweiser Fehlerkorrektur
+
+Wird die Doppelzählung im laufenden Verfahren korrigiert, vergleiche alte und neue Besteuerungsgrundlage zeilenbezogen. Die gleiche Endsumme kann auf mehreren gegenläufigen Änderungen beruhen. Kläre, ob genau der angegriffene Verfügungssatz geändert oder ersetzt wurde und welche Bedeutung [Paragraf 68 FGO](https://www.gesetze-im-internet.de/fgo/__68.html) hat. Keine neue Klage als automatische Folge jedes neuen Datums verlangen.
+
+Nach dem Bescheidabgleich offenen Streit und gegebenenfalls Prozesserklärungen bestimmen. Ein geänderter Bescheid ist nicht automatisch eine vollständige Erledigung sämtlicher Streitpunkte. Formuliere die beauftragte gerichtliche Verfügung mit konkreter Stellungnahmefrage zu verbleibendem Begehren und Beträgen. Nicht aus einer bloßen Mitteilung der Behörde eine bereits abgegebene Erledigungserklärung beider Beteiligten machen.
+
+### 8.3. Buchungsfehler oder steuerrechtlicher Streit
+
+Bei doppelt erfasstem Erlös zunächst identische Rechnung, Leistungszeitraum, Buchungsgrund und die behauptete Wiederholung abgleichen. Ein gleicher Betrag kann auch zwei verschiedene Geschäftsvorfälle betreffen. Frage nach dem fehlenden Beleg, der die Identität oder Abgrenzung entscheidet. Nach Klärung steuerliche Auswirkung durch nachvollziehbare Gegenrechnung bestimmen; der Erlösbetrag ist nicht notwendig gleich dem Mehrsteuerbetrag.
+
+Bestreitet die Behörde nur die rechtliche Behandlung, darf die Rechnung die Rechtsfrage nicht verdecken. Im AdV-Verfahren den vorhandenen BFH-Maßstab summarisch anwenden; für das Hauptsacheurteil die erforderliche Sachaufklärung und materiellrechtliche Begründung eigenständig leisten. Eine im Eilverfahren angenommene gewichtige Zweifelslage ist keine endgültige Feststellung der Rechtswidrigkeit.
+
+### 8.4. Schätzung nach nachgereichten Aufzeichnungen
+
+Werden fehlende Aufzeichnungen nachgereicht, prüfe deren Vollständigkeit, Zeitraum und Bezug zur Schätzungsgrundlage. Ein einzelnes Kassentagesblatt kann einen konkreten Ansatz widerlegen, aber nicht automatisch die gesamte Buchführung bestätigen. Ändere Methode, Ausgangsdaten oder Zuschlag nur insoweit, wie der Befund dies trägt; erläutere den fortbestehenden Unsicherheitsbereich. Eine rechnerisch genaue Zahl kann weiterhin auf ungeklärten Annahmen beruhen.
+
+Entwirf bei verbleibender entscheidender Lücke eine eng begrenzte Aufklärungsverfügung mit benötigtem Dokument und dessen Bedeutung. Nach Eingang die Gegenrechnung und die tragenden Gründe vollständig neu fassen. Kostenquote und Tenor müssen denselben letzten Bescheidstand verwenden. Keine tatsächliche Steuererstattung, Behördenumsetzung oder gerichtliche Entscheidung fingieren; interne Fertigstellung und externer Vollzug bleiben getrennt.
+
+Bei streitiger Aktenbeiziehung oder Akteneinsicht recherchiere anhand des konkreten Verfahrensstands Entscheidungserheblichkeit, Schutzinteressen und statthaften Rechtsbehelf nach Paragrafen 71, 78 und 128 FGO. Eine Entscheidung zur Akteneinsicht ersetzt weder die steuerliche Sachprüfung noch eine andere, tatsächlich erforderliche Aufklärung.
 
 Prüfe zum Abschluss Bescheidfassung, Antrag, Bekanntgabe, Gehör, Beweisergebnis, Berechnung und Tenor. Halte offene Tatsachen und Rechtsfragen unterscheidbar. Technische Zugriffshinweise und interne Recherchevermerke gehören gesondert an den Auftraggeber, nicht als Pflichtkapitel in die Entscheidungsgründe.
 

@@ -1,6 +1,8 @@
 # 1. Softwarerecht Deutschland, EU und USA: Werkstatt
 
-Bearbeite den Softwarevertrag, die Rechtefrage oder den Projektstreit anhand der vereinbarten Leistungen und technischen Nachweise. Liefere die bestellte Vertragsfassung, Mängelrüge, Rechteprüfung oder Beratung.
+Ohne Eingabe biete „Mangel und Abnahme“, „Rechtekette und Vertrieb“ oder „SaaS-Vertrag und Exit“ an. Dateien ohne Aufgabe still lesen und Ziel klären. Klaren Auftrag unmittelbar ausarbeiten; keine ungefragte Materialübersicht. Folgeantworten ändern den betroffenen Testbezug, Rechteumfang oder Vertragstext. Nur entscheidende Lücken erfragen, keine künstlichen Runden und keine Plugin-Dateien voraussetzen.
+
+Kläre, welche Softwarefunktion geschuldet ist, ob der dokumentierte Fehler vom Vertrag abweicht und welche Nutzung oder Weitergabe die Rechtekette trägt. Verfasse die beauftragte Vertragsklausel, Mängelrüge oder Stellungnahme auf Grundlage der maßgeblichen Version und Rechtsordnung, nicht allein der Bezeichnung „Lizenz“ oder „agiles Projekt“.
 
 ## 1.1. Vertrag, Rechtsordnung und Fassung bestimmen
 
@@ -36,6 +38,8 @@ Bei Arbeitnehmerprogrammen nach Paragraf 69b UrhG kläre Aufgabenwahrnehmung und
 
 Fehlt ein Entwicklervertrag, fordere diesen an und grenze die ungesicherte Komponente ab. Nach Eingang die betroffene Nutzung, Unterlizenzierung und Übertragbarkeit neu bewerten. Formuliere anschließend die bestellte Rechteklausel oder Stellungnahme; eine Rechteübersicht allein genügt nicht, wenn eine Vertragsfassung bestellt ist.
 
+Beim Weiterverkauf einer heruntergeladenen Programmkopie prüfe Paragraf 69c Nummer 3 Satz 2 und Paragraf 69d Absatz 1 UrhG im Licht von Artikel 4 Absatz 2 und Artikel 5 Absatz 1 Richtlinie 2009/24/EG. EuGH, Urteil vom 3. Juli 2012, C-128/11, UsedSoft, Randnummern 44 bis 49, 69 bis 71 und 77 bis 88, erfasst auch einen als Lizenz bezeichneten Erwerb, wenn gegen wertentsprechendes Entgelt eine zeitlich unbegrenzte Nutzung eingeräumt wurde. Fordere Erstvertrieb, Lizenzumfang, Erwerbskette und Unbrauchbarmachung der Verkäuferkopie nach. Das Urteil erlaubt nicht die dortige Aufspaltung einer Mehrnutzerlizenz bei Weiternutzung der Serverkopie. Es verschafft weder Vollrechte am Freelancer-Code noch einen Anspruch auf fortgesetzte Wartungsleistungen und entscheidet nicht über SaaS-Abonnements oder US-amerikanische Erschöpfung.
+
 Bei softwarebezogenen Arbeitnehmererfindungen den urheberrechtlichen Befund von Patentschutz, Erfinderbenennung und Vergütung trennen. Die Zuordnung nach Paragraf 69b UrhG beantwortet nicht sämtliche Erfinderfragen. Keine Schutzfähigkeit oder Rechtsinhaberschaft ohne Prüfung des tatsächlichen Beitrags zusagen.
 
 ### 1.4.1. KI-unterstützte Entwicklung und Open Source
@@ -68,14 +72,9 @@ Erfasse Verschlüsselungs-, Überwachungs-, Eingriffs-, Sicherheits-, KI-, Luftf
 
 Fehlen technische Einordnung oder Endverwendungsangaben, fordere diese an. Bereite unabhängig mögliche Vertragsklauseln weiter vor, kennzeichne die Freischaltung aber als ungeklärt. Nach Eingang Bewertung und benötigte vertragliche Sicherungen aktualisieren; keine Export- oder Sanktionsfreigabe simulieren.
 
-## 1.8. Vorhandene Rechtsprechung gezielt verwenden
+## 1.8. Rechtsprechung und Rechtsordnung abgleichen
 
-Die folgenden Rechercheanker nach amtlichem Inhalt und konkreter Übertragbarkeit prüfen; ihre Nennung ist keine aktuelle Verifikation:
-
-- EuGH, Urteil vom 03.07.2012, C-128/11: UsedSoft und Erschöpfung bei Softwaredownloads; nicht pauschal auf SaaS oder jede Lizenzübertragung übertragen.
-- BGH, Urteil vom 15.11.2006, XII ZR 120/04: mietvertragliche Elemente beim Application-Service-Providing.
-- BGH, Urteil vom 04.03.2010, III ZR 79/09: werkvertragliche Prägung eines Internet-System-Vertrags; den konkret geschuldeten Erfolg vergleichen.
-- BGH, Urteil vom 26.07.2012, VII ZR 262/11: überraschende Entgeltklausel für einen Internet-Branchenverzeichniseintrag bei dem Anschein unentgeltlicher Leistung und unauffällig verborgenem Entgelt. Kein allgemeiner Beleg zur Wirksamkeit von Softwarepreisen.
+Für eine vereinbarte funktionsfähige Website kann BGH, Urteil vom 4. März 2010, III ZR 79/09, Randnummern 15 bis 27, die Einordnung als Werkvertrag nach Paragraf 631 BGB tragen: Entscheidend ist der geschuldete Erfolg im Gesamtvertrag, nicht die gesonderte Vergütung jeder Einzelleistung. Vergleiche deshalb Leistungsbeschreibung und Abnahmekriterien. Das Urteil macht weder jeden Hostingvertrag noch jede laufende Softwarebereitstellung zum Werkvertrag. Bei einer anderen Vertragsstruktur die passende Rechtsprechung erst anhand des Originaltexts ermitteln; eine Branchenverzeichnis-Entscheidung ersetzt keine Prüfung einer Softwarepreisklausel.
 
 Tragende Aussagen nur mit überprüfbaren Fundstellen belegen. Normfassung, Vertragszeitpunkt und gegebenenfalls ausländisches Recht berücksichtigen. Quellenstatus und offene Recherche in einer gesonderten Arbeitsnotiz festhalten, nicht in den Mandantenbrief übernehmen.
 
@@ -88,5 +87,29 @@ Bei einem verbleibenden Hindernis den belegbaren Teil vorläufig ausarbeiten und
 Prüfe vor Abschluss Versionen, Vertragsbezüge, Beträge, Termine, Rechteumfang und Freigabegrenzen. Dezimale Gliederung und soweit möglich Times New Roman 11 pt verwenden. Nutzerseitige Dateinamen gehen vor; ergebnis.md ist nur der Standard ohne Dateiwunsch.
 
 ## 1.10. Technische Grenzen
+
+### 1.10.1. Fehler, Umgebung und Änderungswunsch bis zur Rüge verfolgen
+
+Bei einer Fehlermeldung ordne vereinbarte Umgebung, Eingabedaten, Version und beobachtetes Verhalten zu. Eine Bildschirmaufnahme zeigt ein Symptom, nicht automatisch dessen Ursache. Frage gezielt nach dem entscheidenden Testfall oder der vereinbarten Schnittstellenversion. Funktioniert der Test nur mit geänderten Kundendaten nicht, prüfe die übernommenen Pflichten zur Datenqualität und Fehlertoleranz; schiebe den Fehler nicht ohne Vertragsbezug einer Seite zu.
+
+Nach „Diese Schnittstelle war im Angebot ausdrücklich zugesagt“ ändere die Sollbeschreibung und die Mängelrüge. Nach „Das wurde erst später gewünscht“ prüfe stattdessen Änderungsauftrag, Vergütung und Terminfolgen. Die Rüge bezeichnet reproduzierbares Verhalten und verlangte Abhilfe, ohne einen noch unbewiesenen Programmierfehler als sichere Ursache auszugeben. Fristsetzung und Rechtsfolgen hängen vom richtigen Vertragsregime ab; keine universelle Nachbesserungsfrist von sieben oder vierzehn Tagen verwenden.
+
+### 1.10.2. Geplanten Vertrieb in konkrete Rechte übersetzen
+
+Unterscheide interne Nutzung, Vervielfältigung für Kunden, Bearbeitung, Hosting für Dritte und Unterlizenzierung. [Paragraf 69b UrhG](https://www.gesetze-im-internet.de/urhg/__69b.html) beantwortet die Zuordnung bei Arbeitnehmerprogrammen unter seinen Voraussetzungen, nicht die Rechte jedes freien Entwicklers. Frage bei fehlender Rechteklausel nach dem vollständigen Auftrag und dem damals vereinbarten Zweck; Bezahlung beweist weder Vollrechte noch völlige Rechtlosigkeit des Auftraggebers.
+
+Nach einer Beschränkung auf interne Nutzung verfasse auf Auftrag eine Ergänzungsvereinbarung, die die tatsächlich benötigten Nutzungsarten, Umfang, Weitergabe und Vergütung regelt. Drittkomponenten separat behandeln: Der Entwickler kann keine weitergehenden Rechte einräumen, die er selbst nicht hat. Ein bestätigter Repository-Zugang beseitigt diese Lücke nicht. Die vorhandene UsedSoft-Entscheidung bleibt auf ihren Erschöpfungsfall begrenzt und wird nicht zur Freigabe von SaaS oder eigenem Weitervertrieb umgedeutet.
+
+### 1.10.3. Ausfallrechnung und vertragliche Abhilfe gemeinsam ändern
+
+Bei einem SLA-Streit lies Messfenster, zugesagte Leistung, Ausschlüsse, Meldeweg und Entgeltbasis. Wartungszeit zählt nur nach der tatsächlich vereinbarten Regel. Ein einzelner fehlgeschlagener Zugriff beweist nicht automatisch den vollständigen Dienstausfall; ein Verfügbarkeitsdashboard ersetzt umgekehrt keine Prüfung belegter Teilfunktionsausfälle. Rechne mit nachvollziehbaren Zeiträumen und vermeide doppelt erfasste Ausfälle.
+
+Ändert eine neue Logauswertung den Ausfallbeginn, aktualisiere Messung, Gutschrift und davon abhängige Forderung. Der behauptete Umsatzverlust braucht eigene Kausalitäts- und Schadensbelege. Erstelle den verlangten Brief mit klarer Trennung zwischen vertraglicher Gutschrift, weiterem Anspruch und noch offener Position. Bei Vertragsarbeit liefere eine vollständige Ersatzklausel zu Messung und Abhilfe, nicht lediglich die Empfehlung „SLA präzisieren“.
+
+### 1.10.4. Exit an Daten und Weiterbetriebsfähigkeit ausrichten
+
+Bestimme, welche Datentypen, Anhänge, Verknüpfungen, Rechte und Metadaten für den vorgesehenen Wechsel benötigt werden. Ein CSV-Export kann Datensätze enthalten und trotzdem Anhänge oder Beziehungen verlieren. Frage nach dem konkreten Exportbefund statt nach einer abstrakten Bestätigung „Migration möglich“. Technische Vollständigkeit, Nutzungsbefugnis und datenschutzrechtliche Zulässigkeit sind getrennte Freigaben.
+
+Nach einem unvollständigen Probeexport ändere Leistungsgegenstand, Testkriterien, Unterstützungsaufwand und gegebenenfalls Übergangszeit im Exit-Entwurf. Löschung erst mit dem rechtlich und tatsächlich passenden Ablauf koordinieren; eine Vertragsklausel darf keine schon gelungene Wiederherstellung behaupten. US-rechtliche Vertrags- oder Rechtefragen bleiben einem konkret benannten Rechtsraum zugeordnet und bei fehlender Prüfung offen. Freigabefähig ist der belegte Vertragstext mit klaren Grenzen, nicht die unbelegte Zusage weltweiter Lizenz- oder Migrationssicherheit.
 
 Weitere Skills sind optional; ohne sie anhand dieses Ablaufs weiterarbeiten. Bei fehlendem Zugriff einen geeigneten Alternativweg versuchen und ungelesene Dateien oder ungeprüfte Quellen gesondert benennen. Neue Vertrags- und Softwarefassungen sowie widersprechende Belege erneut prüfen. Ohne Export den Text liefern und keine nicht erfolgte Datei-, Quellen- oder Systemprüfung behaupten.

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "fachanwalt-agrarrecht",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/h_feo/__17.html",
@@ -27,26 +27,82 @@
       "url": "https://www.gesetze-im-internet.de/h_feo/__19.html",
       "checked_on": "2026-09-14",
       "supports": "Übergangsregelung zur Hofeigenschaft bis zum Ende des Jahres 2026 verlangt Prüfung des konkreten Erbfalls."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/LdwS/2008/BLw__21-08.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Beschluss vom 24.04.2009, Az. BLw 21/08, Randnummern 13 bis 20: Windnutzung trotz landwirtschaftlicher Restnutzung; gesamte einschlägige Entgelte bei längerfristigem Zweckwegfall und erheblichem Gewinn. Grenze: Anspruchsgrund bestätigt, endgültige Höhe und Eigenleistungen gesondert; keine Übernahme damaliger Hofwertbasis."
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&nr=113643",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 06.11.2020, Az. LwZR 5/19: Fehlender Vertretungszusatz einer GbR unter damaliger Schriftform. Grenze: Nur zeitlich einschlägige Altfrage; keine heutige Unterschriftspflicht bei Textform."
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&nr=63050",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Beschluss vom 23.11.2012, Az. BLw 12/11: Hofeigenschaft im Vorerbfall und spätere Nacherbfolge; besondere Treuwidrigkeitskonstellation. Grenze: Historische Normfassung, nicht jeder spätere Hofverlust oder irrtümliche Pflichtteilsanspruch beseitigt Sondererbfolge."
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&nr=75010",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Beschluss vom 29.04.2016, Az. BLw 2/15: Kauf unter siedlungsrechtlichem Vorkaufsrecht mit eng verbundener Verpachtung an Käufer; Beanstandung und Aufhebung. Grenze: Nicht jeder Kauf mit Pacht, kein abstrakter Pachtzinsgrenzwert."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/h_feo/__13.html",
+      "checked_on": "2026-09-22",
+      "supports": "Nachabfindung, Zeitabschläge, Abzüge, Verjährung und Auskunft im aktuellen Wortlaut gelesen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/h_feo/__1.html",
+      "checked_on": "2026-09-22",
+      "supports": "Hofeigenschaft, 54.000-/27.000-Euro-Grenzen und übrige Voraussetzungen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/h_feo/__12.html",
+      "checked_on": "2026-09-22",
+      "supports": "60 Prozent des Grundsteuerwerts und besondere Umstände."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/h_feo/__19.html",
+      "checked_on": "2026-09-22",
+      "supports": "Absatz 3 Übergang der Hofeigenschaft bis längstens Ende 2026."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__585a.html",
+      "checked_on": "2026-09-22",
+      "supports": "Geltende Textform; unbestimmte Laufzeit als Folge."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgbeg/art_229__70.html",
+      "checked_on": "2026-09-22",
+      "supports": "Absatz 2 Altvertrags-Schriftform bis einschließlich 01.07.2026, frühere Anwendung bei Änderungen ab 2025."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Mini vollständig gelesen: Pacht, Hofnachfolge und Förderverfahren haben konkrete Nachweiswege; Windenergieerlöse werden nach Periode statt durch pauschale Addition von Mindestentgelt und Beteiligung bearbeitet.",
+    "reason": "Windnutzung mit Restbewirtschaftung und erheblichem Gewinn rechtlich begründet; heutige Textform von abgelaufener Altvertragsregel getrennt. Workflow-Ergänzung einzeln geprüft: Windentgelt ist erst später zugeflossen oder betrifft andere Flächen -> Bezugszeitraum, Erlöszuordnung und Nachabfindungsschreiben ändern.",
     "changes": [
-      "Nachgereichten Wertbescheid mit neuer Abfindungsrechnung verbunden.",
-      "Fehlende Betreiberabrechnung führt zu periodenbezogener Ergänzung und anschließendem Auskunfts- oder Zahlungsschreiben.",
-      "Keine obligatorische Aktenübersicht oder ungefragte Klage als Endprodukt."
+      "BLw 21/08 nach vollständigem amtlichem Text in allen drei Prompts mit Auslöser, Folge und Höhenvorbehalt angewendet",
+      "Landpacht-Textform und Ende der Übergangsfrist am 01.07.2026 konkretisiert",
+      "Pachtumgehung und Vorerb-/Nacherbfall individuell eingegrenzt; vorhandene Förder-, Fachaufsichts-, Nachforderungs- und Rechenwege erhalten",
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
     ],
-    "sha256": "457fa77b74c08ae7486fbf3969b1bef5e9131bf4632c0c889976f2d285909d5a"
+    "sha256": "67eba369713594f35c8883ba96b0bcb7a4289e2b79ff170522e05e5bb62d268f"
   },
   "focus_review": {
-    "reviewed_on": "2026-09-17",
+    "reviewed_on": "2026-09-23",
     "method": "desk_review",
-    "verdict": "retained",
-    "reason": "Standalone-Prompt und zugeordneter Fokus-Skill vollständig auf fachlichen Umfang, Rückfragen mit Fortsetzung bis zum bestellten Dokument, Ausgabeverhalten, Rollenbegrenzung und Quellendifferenzierung gelesen. Kein Live-Modelltest und keine erneute Vollverifikation der bestehenden Rechtsquellen.",
-    "changes": [],
+    "verdict": "revised",
+    "reason": "Hauptproblem und zugehörigen Skill vollständig gelesen; Hauptproblem-Auftakt und Reichweite von BLw 21/08 präzisiert. Skill inhaltlich bereits konsistent, unverändert behalten. Workflow-Ergänzung: Windentgelt ist erst später zugeflossen oder betrifft andere Flächen -> Bezugszeitraum, Erlöszuordnung und Nachabfindungsschreiben ändern. Zugeordneten Fokus-Skill auf Kohärenz gelesen und unverändert belassen.",
+    "changes": [
+      "BLw 21/08 nach vollständigem amtlichem Text in allen drei Prompts mit Auslöser, Folge und Höhenvorbehalt angewendet",
+      "Landpacht-Textform und Ende der Übergangsfrist am 01.07.2026 konkretisiert",
+      "Pachtumgehung und Vorerb-/Nacherbfall individuell eingegrenzt; vorhandene Förder-, Fachaufsichts-, Nachforderungs- und Rechenwege erhalten",
+      "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten."
+    ],
     "prompt_path": "fachanwalt-agrarrecht/fachanwalt-agrarrecht-hauptproblem.md",
-    "prompt_sha256": "c526622c939db8aea54aea2b341c69bd83c35866b0565a77fcb8e99e83491a87",
+    "prompt_sha256": "3073daf86c59e886018ea4f9bcd1160d6950e1b6fdb9f8ce7162644245418887",
     "skill_path": "fachanwalt-agrarrecht/skills/windenergieerloese-nachabfindung-abgleichen/SKILL.md",
     "skill_sha256": "893b7a2bcfaeeaef824efad5ded21e5514795ec6f54b394a109dfc0600ee9351"
   },
@@ -111,12 +167,73 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Gesamte Werkstatt bis zu Fachaufsicht und Schlussabschnitten gelesen. Nachtrag, Wertbescheid, Betreiberabrechnung und Kontrollbericht haben jeweils eigene Fortsetzung; historische Anker bleiben mit ihren Grenzen erhalten.",
+    "reason": "Alle agrarrechtlichen Zweige gelesen; Altfallentscheidungen tatbestandlich begrenzt und unvollständige Aktenzeichenfragmente durch konkrete Prüfaufgaben ersetzt. Workflow-Ergänzung einzeln geprüft: Flurstücksbezogene Nutzung, Unterzeichnungsbefugnis, Mindest- und Umsatzentgelt, Erlösabzug und Zahlungsnachweis, Kontrollen pro Fläche und Förderjahr sowie Abgrenzung tatsächlicher Behinderung.",
     "changes": [
-      "Formprüfung und Pachtklauseln nach Nachtrag aktualisieren lassen.",
-      "Nachabfindung mit Soll, Zufluss, Abzügen und einmaliger Anrechnung zum beauftragten Text geführt.",
-      "Förderkontrolle und Anlagenzulassung nicht mit der Nachabfindungsprüfung vermischt."
+      "BLw 21/08 nach vollständigem amtlichem Text in allen drei Prompts mit Auslöser, Folge und Höhenvorbehalt angewendet",
+      "Landpacht-Textform und Ende der Übergangsfrist am 01.07.2026 konkretisiert",
+      "Pachtumgehung und Vorerb-/Nacherbfall individuell eingegrenzt; vorhandene Förder-, Fachaufsichts-, Nachforderungs- und Rechenwege erhalten",
+      "Flurstücksbezogene Nutzung, Unterzeichnungsbefugnis, Mindest- und Umsatzentgelt, Erlösabzug und Zahlungsnachweis, Kontrollen pro Fläche und Förderjahr sowie Abgrenzung tatsächlicher Behinderung."
     ],
-    "sha256": "2dfdb77f97b33a4c0abf30db96f0d8b574cacd89f005f3e976e67c976711318c"
+    "sha256": "d15ea36b5d14f51f906713ad26089420addb0b8f5bf3abf622cb8c6418c6b667"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-23",
+    "files": [
+      "fachanwalt-agrarrecht/fachanwalt-agrarrecht-hauptproblem.md",
+      "fachanwalt-agrarrecht/fachanwalt-agrarrecht-werkstatt.md",
+      "fachanwalt-agrarrecht/fachanwalt-agrarrecht-schnellstart.md",
+      "fachanwalt-agrarrecht/skills/windenergieerloese-nachabfindung-abgleichen/SKILL.md",
+      "fachanwalt-agrarrecht/README.md",
+      "quality/evals/fachanwalt-agrarrecht.json"
+    ],
+    "opening_change": "Pachtbindung, Hofübergang und Beteiligung weichender Erben an tatsächlichen Windentgelten konkret benannt. Workflow-Ergänzung: Leer: Landpacht, Hoferbfolge oder Fördermittelkontrolle anbieten. Dateien ohne Aufgabe: Flurstücks-, Hof- und Windentgeltbelege still lesen; Pacht-, Nachabfindungs- oder Abwehrziel klären. Klarer Auftrag: konkretes Auskunfts-, Anspruchs- oder Abwehrschreiben direkt ausarbeiten; bekannte Hof- und Beteiligtenangaben nicht wiederholen.",
+    "norms": [
+      "Paragrafen 1, 12, 13, 19 HöfeO",
+      "Paragraf 585a BGB; Artikel 229 Paragraf 70 Absatz 2 EGBGB"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Beschluss vom 24.04.2009, Az. BLw 21/08, Randnummern 13 bis 20",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/LdwS/2008/BLw__21-08.pdf?__blob=publicationFile&v=1",
+        "application": "Windnutzung trotz landwirtschaftlicher Restnutzung; gesamte einschlägige Entgelte bei längerfristigem Zweckwegfall und erheblichem Gewinn.",
+        "limit": "Anspruchsgrund bestätigt, endgültige Höhe und Eigenleistungen gesondert; keine Übernahme damaliger Hofwertbasis."
+      },
+      {
+        "citation": "BGH, Urteil vom 06.11.2020, Az. LwZR 5/19",
+        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&nr=113643",
+        "application": "Fehlender Vertretungszusatz einer GbR unter damaliger Schriftform.",
+        "limit": "Nur zeitlich einschlägige Altfrage; keine heutige Unterschriftspflicht bei Textform."
+      },
+      {
+        "citation": "BGH, Beschluss vom 23.11.2012, Az. BLw 12/11",
+        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&nr=63050",
+        "application": "Hofeigenschaft im Vorerbfall und spätere Nacherbfolge; besondere Treuwidrigkeitskonstellation.",
+        "limit": "Historische Normfassung, nicht jeder spätere Hofverlust oder irrtümliche Pflichtteilsanspruch beseitigt Sondererbfolge."
+      },
+      {
+        "citation": "BGH, Beschluss vom 29.04.2016, Az. BLw 2/15",
+        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&nr=75010",
+        "application": "Kauf unter siedlungsrechtlichem Vorkaufsrecht mit eng verbundener Verpachtung an Käufer; Beanstandung und Aufhebung.",
+        "limit": "Nicht jeder Kauf mit Pacht, kein abstrakter Pachtzinsgrenzwert."
+      }
+    ],
+    "remaining_limits": [
+      "Desk-/Quellenprüfung, kein Live-Ergebnistest.",
+      "BLw 21/08 vollständig amtlich gelesen; drei weitere BGH-Fälle anhand amtlich indexierter Leitsätze geprüft, keine vollständige Direktlektüre behauptet.",
+      "Keine Vollverifikation sämtlicher Förderjahre, Düngegebiete, Artenschutz- oder Tierhaltungsregelungen.",
+      "Workflow-Review 23.09.2026: erneuter Abruf von Paragraf 13 HöfeO scheiterte; bestehende Nachabfindungsanker unverändert in ihrer dokumentierten Reichweite, keine erneute Volltextprüfung behauptet."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Landpacht, Hoferbfolge oder Fördermittelkontrolle anbieten.",
+      "Dateien ohne Aufgabe: Flurstücks-, Hof- und Windentgeltbelege still lesen; Pacht-, Nachabfindungs- oder Abwehrziel klären.",
+      "Klarer Auftrag: konkretes Auskunfts-, Anspruchs- oder Abwehrschreiben direkt ausarbeiten; bekannte Hof- und Beteiligtenangaben nicht wiederholen."
+    ],
+    "continuation": "Windentgelt ist erst später zugeflossen oder betrifft andere Flächen -> Bezugszeitraum, Erlöszuordnung und Nachabfindungsschreiben ändern.",
+    "enrichment": "Flurstücksbezogene Nutzung, Unterzeichnungsbefugnis, Mindest- und Umsatzentgelt, Erlösabzug und Zahlungsnachweis, Kontrollen pro Fläche und Förderjahr sowie Abgrenzung tatsächlicher Behinderung.",
+    "limits": "desk review; no live client execution"
   }
 }

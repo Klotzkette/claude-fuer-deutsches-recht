@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "fachanwalt-versicherungsrecht",
-  "reviewed_on": "2026-09-17",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/vvg_2008/__172.html",
@@ -17,32 +17,63 @@
       "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2017-7-19&Gericht=bgh&anz=22&nr=79199&pos=7",
       "checked_on": "2026-09-14",
       "supports": "BGH, Urteil vom 19.07.2017, Az. IV ZR 535/15: amtlich indexierten Leitsatz zur untrennbaren Teilhandlung eines Gesamtvorgangs geprüft. Direkter Volltextabruf gescheitert, keine Randnummern verwendet."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vvg_2008/__172.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aktueller amtlicher Normtext zur Prüfung: Paragraf 172 VVG; Paragraf 28 VVG; Paragraf 81 Absatz 2 VVG. Keine Gesamtverifikation sämtlicher Nebenmaterien."
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2017-7-19&Gericht=bgh&anz=22&nr=79199&pos=7",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 19.07.2017, IV ZR 535/15: Zeitanteil einer nicht mehr möglichen Teilhandlung nicht isolieren, wenn diese untrennbarer Bestandteil eines beruflichen Gesamtvorgangs ist. Grenze/Prüftiefe: Amtlicher Leitsatz gelesen, Volltextabruf gescheitert; kein automatischer Vollbeweis bedingungsgemäßer Berufsunfähigkeit."
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=pm&Blank=1&Datum=2011-6&Gericht=bgh&file=dokument.pdf&linked=urt&nr=57104",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 22.06.2011, IV ZR 225/10: Bei besonders schwerer grober Fahrlässigkeit kann Paragraf 81 Absatz 2 VVG ausnahmsweise vollständige Kürzung tragen. Grenze/Prüftiefe: Amtlicher Leitsatz; Alkohol-Fahruntüchtigkeit individuell würdigen, nicht auf jede verspätete Auskunft übertragen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vvg_2008/__15.html",
+      "supports": "Erneuter Normabruf: Hemmung zwischen Anspruchsanmeldung und Zugang der Entscheidung in Textform; Zwischenfrage und endgültige Entscheidung unterscheiden.",
+      "checked_on": "2026-09-23"
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Vollständig geprüft: Neue Klausel- und Schadenbelege fließen in Deckung und Leistungshöhe ein; bei BU werden Tätigkeiten mit Funktionsbefunden verbunden. Die Fortsetzung bis zum Schreiben bleibt unverändert.",
+    "reason": "Schnellstart vollständig individuell gelesen und überarbeitet: Police, Ablehnung und konkrete Berufsanforderungen mit Befunden abgleichen. Werkstatt nach Deckung, Obliegenheit, Berufsunfähigkeit und Regress neu gegliedert; Hauptproblem verbindet untrennbare Teilhandlungen mit konkretem Arbeitsergebnis. Redaktionelle Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Dauerhafte Transporthilfe steht erst seit Juni bereit -> Tätigkeitsabschnitte und Rentenmonate ändern, nicht den gesunden Ausgangsberuf rückwirkend ersetzen.",
     "changes": [
-      "Bedingungsfassung und konkrete Sparte vorangestellt.",
-      "Beweislast bei Obliegenheiten differenziert und pauschale Klagefrist nach Ablehnung vermieden.",
-      "BU-Tätigkeiten und Funktionsbefunde mit der konkreten Police verbunden; Freigabe statt Fristenabbruch vorgesehen."
+      "Werkstatt nach Deckung, Obliegenheit, Berufsunfähigkeit und Regress neu gegliedert; Hauptproblem verbindet untrennbare Teilhandlungen mit konkretem Arbeitsergebnis.",
+      "Kernfall mit operativem Entscheidungsanker, gezielten Nachfragen und Fortsetzung zum vollständigen angeforderten Dokument.",
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
     ],
-    "sha256": "42133d2330011fb120a911ed8b467c606919d38ff54dfdd68fed102630b23f5c"
+    "sha256": "b63242f74c1996f6a1ae5919d23e7884ccb5f945dbfc97002f9480022657097b"
   },
   "focus_review": {
-    "reviewed_on": "2026-09-17",
+    "reviewed_on": "2026-09-23",
     "method": "desk_review",
     "verdict": "revised",
-    "reason": "Standalone-Prompt und zugeordneter Fokus-Skill vollständig auf fachlichen Umfang, Rückfragen mit Fortsetzung bis zum bestellten Dokument, Ausgabeverhalten, Rollenbegrenzung und Quellendifferenzierung gelesen. Kein Live-Modelltest und keine erneute Vollverifikation der bestehenden Rechtsquellen.",
+    "reason": "Hauptproblem-Prompt und zugeordneter Skill vollständig gelesen. Werkstatt nach Deckung, Obliegenheit, Berufsunfähigkeit und Regress neu gegliedert; Hauptproblem verbindet untrennbare Teilhandlungen mit konkretem Arbeitsergebnis. Skill unverändert, da mit dem präzisierten Prompt vereinbar. Quellenprüfung im dokumentierten Umfang, kein Live-Modelltest. Workflow-Ergänzung: Dauerhafte Transporthilfe steht erst seit Juni bereit -> Tätigkeitsabschnitte und Rentenmonate ändern, nicht den gesunden Ausgangsberuf rückwirkend ersetzen. Zugeordneten Fokus-Skill auf Kohärenz gelesen und unverändert belassen.",
     "changes": [
-      "Vollständigen Antworttext bei fehlendem Dateiexport ergänzt; keine erfundenen Downloadlinks."
+      "Werkstatt nach Deckung, Obliegenheit, Berufsunfähigkeit und Regress neu gegliedert; Hauptproblem verbindet untrennbare Teilhandlungen mit konkretem Arbeitsergebnis.",
+      "Konkreten Einstieg und Anwendung samt Grenzen des Entscheidungsankers im Hauptproblem ergänzt; zugeordneten Skill unverändert gelassen.",
+      "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten."
     ],
     "prompt_path": "fachanwalt-versicherungsrecht/fachanwalt-versicherungsrecht-hauptproblem.md",
-    "prompt_sha256": "2acff0577fb1053d8fe6b164e984ff9663515e3cb3423bd4162596c758a01f77",
+    "prompt_sha256": "3f1e7f9900d0f23e1e64dbb7f1c210cf3f23a292e9aa16f9d1b90b6839638346",
     "skill_path": "fachanwalt-versicherungsrecht/skills/bu-praegende-taetigkeiten-befundabgleich/SKILL.md",
     "skill_sha256": "b9ce13fec055d61fd3bf43ab5ad024f84455e1071b2b78cff686d1ea456803db"
   },
-  "workshop_review": {"verdict":"revised","reason":"Die Ganztextprüfung bestätigte Fortsetzung nach Police und BU-Funktionsbefund; die allgemeine Produktpflicht nach jeder Station widersprach dem Einzelauftrag.","changes":["Klauselvergleich und Leistungsberechnung dem Gutachten oder Schreiben zugeordnet; fehlende Unterlagen von fehlender Deckung unterschieden."],"sha256":"914fe359d95d382942382cb740507ca41c3c558b7fdec281c730d9a9630c65bd"},
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Werkstatt vollständig individuell gelesen und überarbeitet: Police, Ablehnung und konkrete Berufsanforderungen mit Befunden abgleichen. Werkstatt nach Deckung, Obliegenheit, Berufsunfähigkeit und Regress neu gegliedert; Hauptproblem verbindet untrennbare Teilhandlungen mit konkretem Arbeitsergebnis. Redaktionelle Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Nachtragsgeltung und konkrete Gesundheitsfrage, damalige Kenntnis statt späterer Diagnose, Kausalitätsgegenbeweis, tatsächliche Arbeitsketten, bedingte Rentenrechnung, Sachschadenposition und zugangsbezogene Verjährungshemmung.",
+    "changes": [
+      "Werkstatt nach Deckung, Obliegenheit, Berufsunfähigkeit und Regress neu gegliedert; Hauptproblem verbindet untrennbare Teilhandlungen mit konkretem Arbeitsergebnis.",
+      "Vorhandene Fachzweige, Beispiele und Zugriffsalternativen erhalten; schwache Rechtsprechungshinweise entfernt oder auf belegte Reichweite begrenzt.",
+      "Nachtragsgeltung und konkrete Gesundheitsfrage, damalige Kenntnis statt späterer Diagnose, Kausalitätsgegenbeweis, tatsächliche Arbeitsketten, bedingte Rentenrechnung, Sachschadenposition und zugangsbezogene Verjährungshemmung."
+    ],
+    "sha256": "827988a96f3d7281526ffefd0eaf3f6633fbc78311021478ddabbed7de7cc47b"
+  },
   "selection": {
     "positive": [
       "Der Versicherer zählt nur die ausgefallenen Arbeitsstunden. Prüfen Sie, ob ein nicht mehr möglicher Aufbau den gesamten Arbeitsvorgang prägt.",
@@ -94,5 +125,53 @@
       ],
       "target_skill": "bu-praegende-taetigkeiten-befundabgleich"
     }
-  ]
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-23",
+    "files": [
+      "fachanwalt-versicherungsrecht/README.md",
+      "fachanwalt-versicherungsrecht/fachanwalt-versicherungsrecht-hauptproblem.md",
+      "fachanwalt-versicherungsrecht/fachanwalt-versicherungsrecht-werkstatt.md",
+      "fachanwalt-versicherungsrecht/fachanwalt-versicherungsrecht-schnellstart.md",
+      "fachanwalt-versicherungsrecht/skills/bu-praegende-taetigkeiten-befundabgleich/SKILL.md",
+      "quality/evals/fachanwalt-versicherungsrecht.json"
+    ],
+    "opening_change": "Police, Ablehnung und konkrete Berufsanforderungen mit Befunden abgleichen Workflow-Ergänzung: Leer: Deckungsforderung, BU-Erwiderung oder Obliegenheitsabwehr anbieten. Dateien ohne Aufgabe: Police, Ablehnung und Befunde still lesen; Leistungs- oder Abwehrziel klären, kein automatisches Deckungsvotum. Klarer Auftrag: Anspruchsschreiben, Bewertung oder Erwiderung unmittelbar ausarbeiten; bekannte Tarif- und Berufsdaten übernehmen.",
+    "norms": [
+      "Paragraf 172 VVG",
+      "Paragraf 28 VVG",
+      "Paragraf 81 Absatz 2 VVG"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 19.07.2017, IV ZR 535/15",
+        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2017-7-19&Gericht=bgh&anz=22&nr=79199&pos=7",
+        "application": "Zeitanteil einer nicht mehr möglichen Teilhandlung nicht isolieren, wenn diese untrennbarer Bestandteil eines beruflichen Gesamtvorgangs ist.",
+        "limit": "Amtlicher Leitsatz gelesen, Volltextabruf gescheitert; kein automatischer Vollbeweis bedingungsgemäßer Berufsunfähigkeit."
+      },
+      {
+        "citation": "BGH, Urteil vom 22.06.2011, IV ZR 225/10",
+        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=pm&Blank=1&Datum=2011-6&Gericht=bgh&file=dokument.pdf&linked=urt&nr=57104",
+        "application": "Bei besonders schwerer grober Fahrlässigkeit kann Paragraf 81 Absatz 2 VVG ausnahmsweise vollständige Kürzung tragen.",
+        "limit": "Amtlicher Leitsatz; Alkohol-Fahruntüchtigkeit individuell würdigen, nicht auf jede verspätete Auskunft übertragen."
+      }
+    ],
+    "remaining_limits": [
+      "Desk- und Quellenprüfung, kein Live-Client- oder Modelltest; übrige Fachzweige nicht vollständig rechtlich neu verifiziert.",
+      "Amtlicher Leitsatz gelesen, Volltextabruf gescheitert; kein automatischer Vollbeweis bedingungsgemäßer Berufsunfähigkeit.",
+      "Workflow-Review 23.09.2026: Paragraf 15 VVG erneut eingesehen. Beide vorhandenen BGH-Anker bleiben auf amtliche Leitsätze begrenzt; kein neuer Volltextabruf oder medizinischer Vollbeweis behauptet."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Deckungsforderung, BU-Erwiderung oder Obliegenheitsabwehr anbieten.",
+      "Dateien ohne Aufgabe: Police, Ablehnung und Befunde still lesen; Leistungs- oder Abwehrziel klären, kein automatisches Deckungsvotum.",
+      "Klarer Auftrag: Anspruchsschreiben, Bewertung oder Erwiderung unmittelbar ausarbeiten; bekannte Tarif- und Berufsdaten übernehmen."
+    ],
+    "continuation": "Dauerhafte Transporthilfe steht erst seit Juni bereit -> Tätigkeitsabschnitte und Rentenmonate ändern, nicht den gesunden Ausgangsberuf rückwirkend ersetzen.",
+    "enrichment": "Nachtragsgeltung und konkrete Gesundheitsfrage, damalige Kenntnis statt späterer Diagnose, Kausalitätsgegenbeweis, tatsächliche Arbeitsketten, bedingte Rentenrechnung, Sachschadenposition und zugangsbezogene Verjährungshemmung.",
+    "limits": "desk review; no live client execution"
+  }
 }

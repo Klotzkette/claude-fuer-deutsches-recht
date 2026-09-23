@@ -1,25 +1,52 @@
 {
   "schema_version": 1,
   "plugin": "kommunalrecht-laender",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://recht.nrw.de/lrgv/gesetz/01112025-gemeindeordnung-fuer-das-land-nordrhein-westfalen-go-nrw-bekanntmachung-der/",
       "checked_on": "2026-09-14",
       "supports": "Paragrafen 49 und 50 GO NRW: Beschlussfähigkeit, gewöhnliche Stimmenmehrheit, Ablehnung bei Gleichstand und unterschiedliche Behandlung von Enthaltungen bei Mehrheit und Beschlussfähigkeit."
+    },
+    {
+      "url": "https://www.bverwg.de/101203U8C18.03.0",
+      "checked_on": "2026-09-22",
+      "supports": "BVerwG, Urteil vom 10.12.2003, 8 C 18.03, Gründe II: Bloße Zählgemeinschaft zur Gewinnung zusätzlicher Ausschusssitze: Vergleich der Sitzverteilungen und Minderheitenschutz. Grenze: Keine gewöhnliche Sachabstimmung, keine perfekte Spiegelung; damaliges d'Hondt-Verfahren und Nachbesetzungsrecht nicht als heutiges GO-NRW-Recht übernehmen. Amtliche tragende Gründe gelesen; keine Vollverifikation der gesamten Materie."
+    },
+    {
+      "url": "https://recht.nrw.de/lrgv/gesetz/01012026-gemeindeordnung-fuer-das-land-nordrhein-westfalen-bekanntmachung-der/",
+      "checked_on": "2026-09-22",
+      "supports": "Paragrafen 49 und 50 GO NRW: Beschlussfähigkeit, Abstimmung und aktuelle Ausschuss-/Nachbesetzungsregeln; keine Vollprüfung der gesamten Gemeindeordnung."
+    },
+    {
+      "url": "https://recht.nrw.de/lrgv/gesetz/01012026-gemeindeordnung-fuer-das-land-nordrhein-westfalen-bekanntmachung-der/",
+      "checked_on": "2026-09-23",
+      "supports": "Erneut gelesen: Paragrafen 49 und 50, getrennte Quoren und heutige Nachbesetzung. Workflow-Ergänzungen übernehmen keine NRW-Regel pauschal für andere Länder."
     }
   ],
   "mini_review": {
-    "verdict": "retained",
-    "reason": "Aktuellen Mini vollständig gelesen. Einladung, Zugang und Anwesenheit beim einzelnen Tagesordnungspunkt werden gezielt geklärt; Antworten ändern Frist, Stimmenrechnung und Dokument. Rechnerische Mehrheit bleibt von umfassender Rechtmäßigkeit getrennt, NRW-Beispiel wird nicht verallgemeinert. Keine neue Quellen- oder Live-Modellprüfung.",
-    "changes": [],
-    "sha256": "bb964ee2c635349a20cf8784122a8f7f77841a65570a1e6624d57d8adc5bf266"
+    "verdict": "revised",
+    "reason": "2026-09-23: Individuell vollständig gelesen und fachbezogen erweitert. Drei konkrete Einstiegswege und Fortsetzung einer geänderten TOP-Anwesenheit im bestehenden Dokument ergänzt; eigene Sachabstimmungs- und Ausschussprüfung erhalten. Desk-Review; kein Live-Client- oder Modelltest.",
+    "changes": [
+      "Sitzung, Stimmennachweis und konkrete Handlungsform statt universeller Beschlussakte.",
+      "Mini mit Stimmenbeispiel und eigenständiger Ausschussprüfung; aktuelle GO-NRW-Fassung einschließlich geändertem Nachbesetzungsrecht.",
+      "Drei konkrete Einstiegswege und Fortsetzung einer geänderten TOP-Anwesenheit im bestehenden Dokument ergänzt; eigene Sachabstimmungs- und Ausschussprüfung erhalten."
+    ],
+    "sha256": "143f3b3197fe58561c2f5604fa1e87a452897bb2b83f4897302a7e6401a9d887",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Gesamte Werkstatt gelesen. Ein pauschaler Fortsetzungsstopp und obligatorische Beschlussakten widersprachen den bereits konkreten Nachforderungswegen zu Einladung, Stimmen und Gebühren. Diese Stellen gezielt begrenzt; Landesrechts- und Fachthemen erhalten. Keine erneute amtliche Verifikation oder Live-Modellprüfung.",
-    "changes": ["Fehlende Hauptsatzung sperrt nur die abhängige Bewertung, nicht belegte Sitzungstatsachen und Rechnungen.", "Lückenliste durch gezielte Frage mit anschließender Fertigstellung ersetzt.", "Sitzungskontrolle und vollständige Beschlussakte nicht mehr als obligatorische Ausgabe behandelt; Dokument nach Auftrag fertigstellen."],
-    "sha256": "cf94036e29c8936ef8c17cc79b8816e632122500c5d49717dd1ea1cbd9454f7a"
+    "reason": "2026-09-23: Individuell vollständig gelesen und fachbezogen erweitert. Sitzungsfassung, Befangenheit und Anwesenheit rekonstruiert; Kalkulationsänderung mit Satzungsbetrag, Veranlagung und Korrekturweg verbunden. Desk-Review; kein Live-Client- oder Modelltest.",
+    "changes": [
+      "Werkstatt individuell neu gegliedert; zwölf Sachwege und Bürgerbegehren erhalten, floskelhafte Pflichtakten und falsche Beratungsbeschränkung entfernt.",
+      "Mini mit Stimmenbeispiel und eigenständiger Ausschussprüfung; aktuelle GO-NRW-Fassung einschließlich geändertem Nachbesetzungsrecht.",
+      "Sitzungsfassung, Befangenheit und Anwesenheit rekonstruiert; Kalkulationsänderung mit Satzungsbetrag, Veranlagung und Korrekturweg verbunden."
+    ],
+    "sha256": "2ffb242ebec69118010d8c41d651c4680e857aa9d6fe572990d9f3b829a06829",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
   },
   "selection": {
     "positive": [
@@ -64,5 +91,46 @@
       ],
       "target_skill": "gemeinderat-beschluss-bauen"
     }
-  ]
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "method": "desk_review",
+    "files": [
+      "kommunalrecht-laender/README.md",
+      "kommunalrecht-laender/kommunalrecht-laender-werkstatt.md",
+      "kommunalrecht-laender/kommunalrecht-laender-schnellstart.md",
+      "quality/evals/kommunalrecht-laender.json"
+    ],
+    "opening_change": "Sitzung, Stimmennachweis und konkrete Handlungsform statt universeller Beschlussakte.",
+    "norms": [
+      "Artikel 28 Absatz 1 Satz 2 und Absatz 2 GG",
+      "Paragrafen 49, 50 GO NRW",
+      "Paragrafen 43, 47, 80 Absatz 5, 123 VwGO"
+    ],
+    "decisions": [
+      {
+        "citation": "BVerwG, Urteil vom 10.12.2003, 8 C 18.03, Gründe II",
+        "url": "https://www.bverwg.de/101203U8C18.03.0",
+        "application": "Bloße Zählgemeinschaft zur Gewinnung zusätzlicher Ausschusssitze: Vergleich der Sitzverteilungen und Minderheitenschutz.",
+        "limit": "Keine gewöhnliche Sachabstimmung, keine perfekte Spiegelung; damaliges d'Hondt-Verfahren und Nachbesetzungsrecht nicht als heutiges GO-NRW-Recht übernehmen."
+      }
+    ],
+    "remaining_limits": [
+      "GO NRW Paragrafen 49 und 50 amtlich geprüft; keine Vollprüfung aller Landeskommunalordnungen, örtlichen Regeln oder Abgabenkalkulationen.",
+      "Kein Live-Modelltest.",
+      "2026-09-23: Workflow-Desk-Review. Profilquellen erneut geöffnet; aktuelle GO NRW Paragrafen 49/50 und Auszüge aus BVerwG 8 C 18.03 erneut gelesen, Altfassung vom 01.11.2025 nur als historische Fassung eingeordnet. Keine neue Vollprüfung anderer Länder, örtlicher Satzungen, Heilungsregeln oder Abgabenkalkulationen; kein Live-Client-Test."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Ratsabstimmung, Satzung/Gebühren oder Aufsicht als kurze Auswahl.",
+      "Dateien ohne Auftrag: Einladung, Protokoll und Ortsrecht still lesen; nur gewünschtes Ergebnis klären.",
+      "Klarer Auftrag: Beschlussprüfung, Vorlage oder Erwiderung unmittelbar bearbeiten; nur entscheidende landes- oder sitzungsbezogene Lücken erfragen."
+    ],
+    "continuation": "Nachgereichte Anwesenheit ändert in beschlusspruefung.md TOP, Stimmenrechnung und Ergebnis; Kostenaufteilung ändert in gebuehrensatzung.md Satz und Kalkulationsbegründung. Nutzerpfad bleibt maßgeblich.",
+    "enrichment": "Abstimmungstext und Fassungsbezug, Beratung trotz unveränderter Mehrheit, Berichtigung gegenüber tatsächlicher Verfahrensheilung, Rechenbeispiel 240000 Euro/1200 bzw. 1000 Einheiten, Unterschriftenfassung beim Bürgerbegehren und konkrete Vollzugsschwellen.",
+    "limits": "desk review; no live client execution"
+  }
 }

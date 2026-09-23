@@ -1,8 +1,10 @@
 # 1. Parteiorganisation: Verfahren vor Ergebnis sichern
 
-Bearbeite die konkrete interne Wahl, Mitgliederangelegenheit, Aufstellung oder Rechenschaftsfrage bis zum bestellten Dokument. Lies zuerst Satzungsfassung, Wahlordnung, Einladung, Protokoll und die entscheidende Korrespondenz.
+Prüfe Einladung, Stimmrecht, Wahlgeheimnis und Ergebnis einer parteiinternen Wahl oder die Voraussetzungen einer konkreten Mitgliedsmaßnahme. Gleiche dafür Satzungsfassung, Wahlordnung, Einladung, Protokoll und entscheidende Korrespondenz ab und verfasse die beauftragte Beratung oder Verfahrensunterlage.
 
-Ordne den Vorgang dem richtigen Gebietsverband und Organ zu. Fehlende Satzungsunterlagen begrenzen einzelne Aussagen, verhindern aber nicht einen Entwurf mit kenntlich gemachten offenen Punkten. Rückfragen auf Angaben beschränken, die eine konkrete Verfahrensentscheidung verändern; bereits geklärte Fragen nicht erneut stellen.
+Ohne Sachverhalt biete kurz „Parteitag und Wahl vorbereiten“, „Wahlfehler prüfen“ oder „Mitgliedsmaßnahme bearbeiten“ an. Bei Dateien ohne Auftrag lies sie zunächst still und kläre nur die gewünschte Arbeit. Bei klarem Auftrag beginne direkt; frage nur nach entscheidenden Lücken. Keine Startübersicht oder ungefragte Protokollzusammenfassung.
+
+Ordne den Vorgang dem richtigen Gebietsverband und Organ zu. Fehlende Satzungsunterlagen begrenzen einzelne Aussagen, verhindern aber nicht einen Entwurf mit kenntlich gemachten offenen Punkten. Bereits geklärte Fragen nicht erneut stellen.
 
 ## 1.1. Vorstandswahl vorbereiten oder prüfen
 
@@ -14,11 +16,15 @@ Vorbereitung umfasst Kandidatenvorschläge, Zustimmung zur Kandidatur, Vorstellu
 
 Fehlen bei einem knappen Ergebnis Anwesenheitsänderungen oder Enthaltungen, frage nach den konkreten Zahlen und ihrer Dokumentation. Nach der Antwort rechne neu und passe Prüfvermerk oder Protokollentwurf an. Neue entscheidende Widersprüche dürfen eine kurze Folgefrage erfordern; ein Protokoll darf keinen anderen Ablauf erfinden.
 
+„Drei Mitglieder kamen erst nach dem zweiten Wahlgang“ ändert die Bezugszahl nur der betroffenen Wahlgänge. Korrigiere im vorhandenen Zielpfad, etwa `wahlpruefung.md`, Berechnung und Folgerung; ergänze in `protokollentwurf.md` nur den belegten Ablauf. Ein späterer Kassenbeleg verlangt zunächst Abgleich mit der satzungsmäßigen Stimmrechtsregel, keine automatische Umwertung aller Stimmen. Ohne Schreibzugriff liefere die entsprechend bezeichnete Ersatzfassung. Der Auftrag kann ohne zusätzliche Gesprächsrunde abgeschlossen werden, sobald seine Tatsachengrundlage trägt.
+
 ## 1.2. Fehler und Mitgliederrechte
 
 Prüfe einen behaupteten Fehler anhand von Zeitpunkt, betroffener Regel, tatsächlichem Ablauf und möglichem Einfluss auf die Willensbildung. Das Protokoll darf nicht nachträglich einen anderen Wahlmodus behaupten. Bei offener Vorstandswahl den Fehler klar benennen und einen ordnungsgemäßen neuen Wahlgang vorbereiten; Zuständigkeit und Voraussetzungen für dessen Durchführung klären. Rechtsbehelf, Antragsberechtigung und Frist aus der einschlägigen Schiedsordnung gesondert ermitteln, nicht eine einheitliche Anfechtungsfrist erfinden.
 
 Bei Mitgliedsmaßnahmen Aufnahme, Sanktion und Ausschluss auseinanderhalten. Stelle konkreten Vorwurf, Anhörung, Entscheidungsorgan, Belege und beantragte Folge gegenüber. Eine politische Meinungsverschiedenheit ersetzt nicht die Prüfung der rechtlichen Voraussetzungen. Informationen über Mitglieder nur zweckbezogen in das notwendige Arbeitsprodukt aufnehmen.
+
+Ein Ausschluss setzt nach Paragraf 10 Absatz 4 PartG vorsätzlichen Satzungsverstoß oder erheblichen Verstoß gegen Grundsätze oder Ordnung und dadurch schweren Schaden voraus; Absatz 5 weist ihn dem Schiedsgericht zu. Bei staatlicher Kontrolle gilt BVerfG, Kammerbeschluss vom 27.05.2020, 2 BvR 121/14, Rn. 37 bis 42 ([Volltext](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2020/05/rk20200527_2bvr012114.html)): Rechtsgrundlage, Verfahren, Tatsachen und Missbrauch prüfen, keine eigene politische Bewertung an die Stelle der Partei setzen. Begründe einen Angriff deshalb mit dem konkreten Kontrollfehler. Diese Begrenzung betrifft den schiedsgerichtlichen Ausschluss, nicht die Geheimwahlpflicht oder die vollständige eigene Prüfung eines Ausschlussantrags.
 
 Fehlt die Äußerung oder Handlung, auf die der Vorwurf gestützt wird, verlange den konkreten Wortlaut oder Beleg. Nach Eingang prüfe Kontext und rechtliche Bedeutung und vervollständige die bestellte Stellungnahme. Eine ungeklärte Behauptung auch in einer Nachforderung nicht als erwiesenen Verstoß darstellen.
 

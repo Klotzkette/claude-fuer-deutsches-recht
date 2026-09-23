@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "arbeitszeugnispruefer",
-  "reviewed_on": "2026-09-17",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/gewo/__109.html",
@@ -37,30 +37,48 @@
       "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-272-22/",
       "checked_on": "2026-09-15",
       "supports": "Maßregelungsverbot bei nachteiliger Entfernung einer zuvor erteilten Schlussformel."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__126a.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aktueller amtlicher Normtext zur Prüfung: Paragraf 109 Absatz 3 GewO; Paragraf 126a BGB; Paragraf 612a BGB. Keine Gesamtverifikation sämtlicher Nebenmaterien."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-146-21/",
+      "checked_on": "2026-09-22",
+      "supports": "BAG, Urteil vom 25.01.2022, 9 AZR 146/21: Fehlenden Dank nicht allein als gesetzlichen Berichtigungsanspruch behandeln; vertragliche Zusage oder Maßregelung gesondert prüfen. Grenze/Prüftiefe: Volltext Rn. 11 bis 13; keine Freigabe zur vergeltenden Entfernung nach berechtigter Beanstandung."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-272-22/",
+      "checked_on": "2026-09-22",
+      "supports": "BAG, Versäumnisurteil vom 06.06.2023, 9 AZR 272/22: Vergeltende Entfernung einer bereits erteilten Schlussformel nach berechtigter Beanstandung an Paragraf 612a BGB prüfen. Grenze/Prüftiefe: Volltext Rn. 9 bis 25 und 32; Rechtsausübung muss wesentliches Motiv sein, zeitliche Folge allein reicht nicht."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gewo/__109.html",
+      "checked_on": "2026-09-23",
+      "supports": "Formgerechte Erteilung und Einwilligung zur elektronischen Form getrennt vom Streit über die Zeugnisbewertung."
     }
   ],
   "mini_review": {
-    "sha256": "bd3df61b5c67af863ec0a6fa742d7cc2a0b2576680fdef49eb3dbd8e98fdb6e2",
+    "sha256": "b6b9c3d74a1b213648feb1dffc8a2e9b71166d6a2faab6087383563e517300b2",
     "verdict": "revised",
-    "reason": "Vollständig neu gefasst: Der Schnellstart liest Unterlagen zuerst, verzweigt nach Rolle und Ziel, behandelt Rückfragen als Zwischenstufe und führt jeden Auftrag bis zum bestellten Dokument fort.",
+    "reason": "Schnellstart vollständig individuell gelesen und überarbeitet: Konkrete Zeugnisfassung auf belegte Mängel prüfen und erforderliche Berichtigung formulieren. Elektronische Form mit Einwilligung und qualifizierter Signatur aktualisiert; fehlende erstmalige Dankesformel von maßregelnder Entfernung einer vorhandenen Formel getrennt. Redaktionelle Quellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert.",
     "changes": [
-      "Abbruchregeln und interne Werkstattbegriffe entfernt.",
-      "Rückfrage-, Varianten- und Fortsetzungslogik verbindlich gemacht.",
-      "Starre Geheimcode-, Schlussformel- und Personenreihenfolgeregeln durch eine kontextbezogene Prüfung ersetzt.",
-      "Prüfbericht, Neufassung, Berichtigungsaufforderung sowie Gerichts- und Arbeitgeberzweig mit jeweils eigenem Abschluss definiert.",
-      "Vorgelagerte Status-, Rollen-, Datei- und Metadatenköpfe ausgeschlossen."
+      "Elektronische Form mit Einwilligung und qualifizierter Signatur aktualisiert; fehlende erstmalige Dankesformel von maßregelnder Entfernung einer vorhandenen Formel getrennt.",
+      "Kernfall mit operativem Entscheidungsanker, gezielten Nachfragen und Fortsetzung zum vollständigen angeforderten Dokument.",
+      "Leerstart: Mängelprüfung, bereinigte Fassung oder Berichtigungsaufforderung anbieten. Dateien: Zeugnis und Zusagen still lesen; kein Prüfbericht ohne geklärten Auftrag. Klarer Auftrag: Bestelltes Dokument liefern, nur entscheidende Beleglücken klären.",
+      "Nachgereichtes Papieroriginal erledigt gegebenenfalls Formpunkt; Schlussformel nur im Entwurf verändert Anspruchsargumentation."
     ]
   },
   "workshop_review": {
-    "sha256": "1e3ae7b9706e48132d4d01d0dada400416e929e0b65c2718703fae6a558710fc",
+    "sha256": "5bc2ed04939775a01b7167f17d08dd5cf6723795763f59a0056fc483d73e79dd",
     "verdict": "revised",
-    "reason": "Die Werkstatt wurde vollständig redigiert und bewusst unterhalb der generischen Mindestgröße gehalten, weil eine knappe fachliche Bearbeitungsfolge die frühere Wiederholung von Gerüsten und Praxisrouten ersetzt.",
+    "reason": "Werkstatt vollständig individuell gelesen und überarbeitet: Konkrete Zeugnisfassung auf belegte Mängel prüfen und erforderliche Berichtigung formulieren. Elektronische Form mit Einwilligung und qualifizierter Signatur aktualisiert; fehlende erstmalige Dankesformel von maßregelnder Entfernung einer vorhandenen Formel getrennt. Redaktionelle Quellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen.",
     "changes": [
-      "Unterlagenlektüre, Rückfragen, Verzweigungen und Fortsetzung in einer einheitlichen Bearbeitungsfolge verbunden.",
-      "Empfänger- und produktbezogene Abschlüsse statt wiederholter Zwischenprodukte festgelegt.",
-      "Fachliche Regeln zu Note, Klarheit, Auslassungen, Form und Schlussformel kontextbezogen gefasst.",
-      "Technische Ausführungsgrenzen und externe Freigabegrenze erhalten.",
-      "Vorgelagerte Status-, Rollen-, Datei- und Metadatenköpfe ausgeschlossen."
+      "Elektronische Form mit Einwilligung und qualifizierter Signatur aktualisiert; fehlende erstmalige Dankesformel von maßregelnder Entfernung einer vorhandenen Formel getrennt.",
+      "Vorhandene Fachzweige, Beispiele und Zugriffsalternativen erhalten; schwache Rechtsprechungshinweise entfernt oder auf belegte Reichweite begrenzt.",
+      "Formkorrektur ohne Notenstreit, widersprüchliche Aufwertungsbelege, entfernte Schlussformel und konkrete Titelversion mit begrenzter Freigabe.",
+      "Nachgereichtes Papieroriginal erledigt gegebenenfalls Formpunkt; Schlussformel nur im Entwurf verändert Anspruchsargumentation."
     ]
   },
   "selection": {
@@ -203,5 +221,51 @@
       ],
       "target_skill": "einfuehrung-pruefauftrag"
     }
-  ]
+  ],
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leerstart: Mängelprüfung, bereinigte Fassung oder Berichtigungsaufforderung anbieten.",
+      "Dateien: Zeugnis und Zusagen still lesen; kein Prüfbericht ohne geklärten Auftrag.",
+      "Klarer Auftrag: Bestelltes Dokument liefern, nur entscheidende Beleglücken klären."
+    ],
+    "continuation": "Nachgereichtes Papieroriginal erledigt gegebenenfalls Formpunkt; Schlussformel nur im Entwurf verändert Anspruchsargumentation.",
+    "enrichment": "Formkorrektur ohne Notenstreit, widersprüchliche Aufwertungsbelege, entfernte Schlussformel und konkrete Titelversion mit begrenzter Freigabe.",
+    "limits": "desk review; no live client execution"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "arbeitszeugnispruefer/README.md",
+      "arbeitszeugnispruefer/arbeitszeugnispruefer-schnellstart.md",
+      "arbeitszeugnispruefer/arbeitszeugnispruefer-werkstatt.md",
+      "quality/evals/arbeitszeugnispruefer.json"
+    ],
+    "opening_change": "Konkrete Zeugnisfassung auf belegte Mängel prüfen und erforderliche Berichtigung formulieren",
+    "norms": [
+      "Paragraf 109 Absatz 3 GewO",
+      "Paragraf 126a BGB",
+      "Paragraf 612a BGB"
+    ],
+    "decisions": [
+      {
+        "citation": "BAG, Urteil vom 25.01.2022, 9 AZR 146/21",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-146-21/",
+        "application": "Fehlenden Dank nicht allein als gesetzlichen Berichtigungsanspruch behandeln; vertragliche Zusage oder Maßregelung gesondert prüfen.",
+        "limit": "Volltext Rn. 11 bis 13; keine Freigabe zur vergeltenden Entfernung nach berechtigter Beanstandung."
+      },
+      {
+        "citation": "BAG, Versäumnisurteil vom 06.06.2023, 9 AZR 272/22",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-272-22/",
+        "application": "Vergeltende Entfernung einer bereits erteilten Schlussformel nach berechtigter Beanstandung an Paragraf 612a BGB prüfen.",
+        "limit": "Volltext Rn. 9 bis 25 und 32; Rechtsausübung muss wesentliches Motiv sein, zeitliche Folge allein reicht nicht."
+      }
+    ],
+    "remaining_limits": [
+      "Desk- und Quellenprüfung, kein Live-Client- oder Modelltest; übrige Fachzweige nicht vollständig rechtlich neu verifiziert.",
+      "Volltext Rn. 11 bis 13; keine Freigabe zur vergeltenden Entfernung nach berechtigter Beanstandung.",
+      "Workflow-Anschlussprüfung 23.09.2026: individuelle Text- und Quellenprüfung, keine Live-Client-Ausführung. Frühere Entscheidungsprüfungen und ihre Reichweitengrenzen bleiben unverändert; keine erneute vollständige Rechtsprechungsprüfung behauptet."
+    ]
+  }
 }

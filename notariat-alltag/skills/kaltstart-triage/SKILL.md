@@ -1,13 +1,13 @@
 ---
 name: kaltstart-triage
-description: "Startet die Mitarbeiter-Werkstatt im Notariat aus einem Mandantenordner. Erkennt Kauf, Grundschuld, Beglaubigung oder Gesellschaftsvorgang und erstellt einen belegten ersten Entwurf mit gezielter Unterlagenanforderung und Vorlage an den Notar."
+description: "Hauptworkflow für Notariatsmitarbeiter: führt Kundenunterlagen bis zur konkreten Urkunden- oder Anmeldevorlage an den Notar. Wählt zwischen Entwurf, Änderung und Vollzug, übernimmt belegte Daten und steuert nur den benötigten Fachskill samt gezielten Rückfragen."
 ---
 
-# Mandantenordner aufnehmen und ersten Entwurf vorbereiten
+# 1. Hauptworkflow vom Kundenordner zur Urkundenmappe
 
 ## 1. Zweck und Anwendungsfall
 
-Arbeite für einen Notariatsmitarbeiter. Eingehende Unterlagen werden zu einem bearbeitbaren Vorgang, nicht zu einem langen Interview. Du bereitest vor; notarielle Belehrung, Identitätsfeststellung, Beurkundung, Beglaubigung und amtliche Freigabe bleiben beim Notar.
+Bereite für Notariatsmitarbeiter die bestellte Urkunde, Erklärung oder Registeranmeldung vor und führe sie nach Rückfragen zur konsistenten Vorlage. Die Aufgabe endet nicht bei einer Materialübersicht. Notarielle Belehrung, Identitätsfeststellung, Beurkundung, Beglaubigung und amtliche Freigabe bleiben beim Notar.
 
 ## 2. Eingaben
 
@@ -17,19 +17,29 @@ Lies zuerst die konkret freigegebenen Dateien: Auftrag oder letzte E-Mail, vorha
 
 ### 3.1. Den Auftrag am nächsten Arbeitsergebnis festmachen
 
-Bei eindeutigem Auftrag beginne den gewünschten Entwurf. Ohne Auftrag, aber mit Material, liefere ein kurzes Vorgangsblatt mit Beteiligten, Geschäft, Stand und nächstem Dokument. Ohne Material genügt eine gebündelte Frage nach Vorgang und Unterlagen. Lade nur den einen fachlich passenden Arbeitsweg; weitere folgen erst bei einer konkreten Anschlussfrage.
+Bei eindeutigem Auftrag beginne den gewünschten Entwurf. Ohne Auftrag, aber mit Material, lies zuerst Auftragsschreiben und aktuelle Entwurfsfassung intern. Frage dann etwa: „Soll ich die Grundschuldbestellung vorbereiten, die Bankvorgaben klären oder eine bestehende Fassung ändern?“ Nenne nur tatsächlich passende Alternativen, keine Liste sämtlicher Ordnerinhalte. Ohne Material frage nach dem Urkundengeschäft und der vorhandenen Vorlage. Lade nur den einen fachlich passenden Arbeitsweg; weitere folgen erst bei einer konkreten Anschlussfrage. Ein fertiger, klar bestellter Vermerk darf unmittelbar geliefert werden.
 
 | Material oder Wunsch | Arbeitsweg | Erstes Arbeitsprodukt |
 | --- | --- | --- |
-| Neubauwohnung, Baubeschreibung, Bauträger | `bautraegervertrag-mabv-familiengesellschaft` | Kaufvertragsentwurf und fehlende Objektanlagen |
+| Grundstückskauf, Bestandsobjekt oder Bauträger | `bautraegervertrag-mabv-familiengesellschaft` | Kaufvertragsentwurf und fehlende Objektanlagen |
 | Bankauftrag, Grundbuch, Sicherung | `grundschuld-buchgrundschuld-treuhand` | Bestellungsentwurf mit getrennten Erklärungen |
-| Unterschrift bestätigen oder Form klären | `notariat-002-beurkundung-ubeglaubigung-richtig-einordnen` | Formblatt und Terminanschreiben |
-| Personalien, Vollmacht, Namensabweichung | `notariat-023-identitaetspruefung-videoident-praesenztermin` | Beteiligtenblatt mit Nachweisstand |
+| Unterschrift bestätigen oder Form klären | `formweg-beurkundung-beglaubigung` | Formblatt und Terminanschreiben |
+| Personalien, Vollmacht, Namensabweichung | `beteiligte-identitaet-vertretung` | Beteiligtenblatt mit Nachweisstand |
 | Neue GmbH oder UG | `gmbh-gruendung-gesellschafterliste` | Satzungs- und Anmeldeentwurf |
-| Neues Stammkapital | `notariat-032-kapitalerhoehung-bar-sache-bezugsrecht` | Beschluss, Übernahme und Vollzugsfolge |
-| Geschäftsführer bestellen oder wechseln | `notariat-006-hr-anmeldung-gf-bestellung-abberufung-vertretung` | Beschluss- und Anmeldeentwurf |
+| Neues Stammkapital | `kapitalerhoehung-beschluss-register` | Beschluss, Übernahme und Vollzugsfolge |
+| Geschäftsführer bestellen oder wechseln | `geschaeftsfuehrer-bestellung-register` | Beschluss- und Anmeldeentwurf |
 | Anteile verkaufen oder als Sicherheit geben | `gmbh-anteile-uebertragen-verpfaenden` | Anteilsübersicht und Vertragsentwurf |
-| Fertige Mappe prüfen | `qualitaetsgate-signatur-notarielle` | Vorlagevermerk an den Notar |
+| Verschmelzen, spalten oder Rechtsform wechseln | `umwandlung-verschmelzung-kapitalerhoehung` | Urkunden- und Registerfolge |
+| Grundbuchantrag oder Zwischenverfügung | `grundbuchantrag-rangstelle-notarielle` | Antrag oder konkrete Nachreichung |
+| Änderungen an einer vorhandenen Urkunde | `urkundenentwurf-aendern-abgleichen` | Bereinigte Fassung und Änderungsvermerk |
+| Auslandsnachweis oder abwesender Vertreter | `auslandsurkunde-apostille-vollmacht` | Nachweisanforderung und Vertretungsabschnitt |
+| Beteiligung und Immobilienzahlung klären | `geldwaeschepruefung-immobilien` | Interne Prüfung und zulässige Nachforderung |
+| Ehevertrag oder Scheidungsfolgen | `ehevertrag-scheidungsfolgenvereinbarung` | Abgestimmte Vereinbarung |
+| Erbfolge und Nachlassübertragung | `nachlassauseinandersetzung-grundbuch` | Nachlassurkunde oder Grundbuchantrag |
+| Vorsorge und Behandlungswünsche | `vorsorgevollmacht` | Gewünschte Vorsorgeerklärungen |
+| Kosten des konkreten Vorgangs | `kostenrechnung-gnotkg` | Kostenberechnung mit Wertnachweisen |
+| Neue Vollzugspost oder Aktenabschluss | `vollzug-fristen-wiedervorlage` | Nachforderung oder Abschlussmitteilung |
+| Fertige Mappe prüfen | `urkundenmappe-zur-freigabe` | Vorlagevermerk an den Notar |
 
 ### 3.2. Angaben mit Herkunft übernehmen
 
@@ -37,11 +47,17 @@ Führe Name, Geburtsdatum, Anschrift, Registergericht, Registernummer, Grundstü
 
 ### 3.3. Nur den blockierten Teil anhalten
 
-Fehlt der genaue Geschäftsanteil, bereite die übrigen Vertragsabschnitte vor und frage gezielt nach der aktuellen Liste. Erfinde weder Grundbuchdaten noch erteilte Vollmachten. Bei großem Ordner zuerst Kernunterlagen, dann ein Teilstand mit noch ungelesenen Dateien. Nach Rückmeldung nur betroffene Stellen fortschreiben; kein erneutes Kaltstart-Interview.
+Fehlt der genaue Geschäftsanteil, bereite die übrigen Vertragsabschnitte vor und frage gezielt nach der aktuellen Liste. Erfinde weder Grundbuchdaten noch erteilte Vollmachten. Bei großem Ordner zuerst Kernunterlagen; weitere Dateien nur bei konkreter Belegfrage lesen. Leselücken knapp benennen, ohne einen Datenbestand auszubreiten. Nach Rückmeldung nur betroffene Stellen fortschreiben; kein erneutes Kaltstart-Interview.
+
+### 3.4. Fachschritte mit einem gemeinsamen Stand verbinden
+
+Führe intern Vorgangsnummer, gewünschtes Dokument, letzte Fassung, Beteiligtenrollen, entscheidende Belege und noch offene Bedingungen weiter. Beim Wechsel des Fachskills genau diesen Stand und die konkrete Anschlussfrage übergeben, nicht einen neuen Aufnahmeauftrag. Das Beteiligtenblatt wird einmal angelegt. Eine neue Bankantwort ändert die betroffene Haftungsklausel, nicht ungefragt die vereinbarten Erwerbsanteile. Eine Vollmacht als Scan und ihr späteres Original behalten getrennte Eingangsstände.
+
+Entwurfsarbeit benötigt keine Freigabe nach jedem Absatz. Externe Mitteilung, Einreichung und Amtshandlung dagegen nie aus dem Auftrag zur Vorbereitung ableiten. Zur Schlussprüfung nur dann `urkundenmappe-zur-freigabe` verwenden, wenn eine konkrete Mappe vorliegt; kein Kreislauf aus Einstieg und Schlussprüfung. Bleibt ein Sachpunkt offen, das genaue Nachforderungsschreiben fertigstellen und nach Antwort an dieser Stelle fortsetzen.
 
 ## 4. Quellenpflicht
 
-Nutze [Mitarbeiter-Formwege](../../references/mitarbeiter-formwege.md) und die dort verlinkten amtlichen Normen. Prüfe ihre aktuelle Fassung vor einem tragenden Formhinweis. Die Zitierregeln stehen in [Zitierweise](../../references/zitierweise.md). Keine Rechtsprechung nur zur Ausschmückung ergänzen.
+BeurkG Paragrafen 10, 12 und 17 sowie der konkrete materielle Formtatbestand bestimmen die Vorbereitung. BGH, Urteil vom 07.02.2013, III ZR 121/12: Der bloße Wunsch nach schnellem Termin ersetzt keinen sachlichen Grund und keinen anderweitigen Übereilungsschutz bei der erfassten Verbraucherbeurkundung. Das ist weder eine allgemeine Frist für alle Urkunden noch eine Aussage automatischer Vertragsnichtigkeit. Nutze [Mitarbeiter-Formwege](../../references/mitarbeiter-formwege.md) und [Zitierweise](../../references/zitierweise.md); lies weitere Quellen nur zur tatsächlich anstehenden Rechtsfrage.
 
 ## 5. Ausgabeformat
 

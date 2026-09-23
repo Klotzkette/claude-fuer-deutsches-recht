@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "arbeitszeugnis-analyse",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/gewo/__109.html",
@@ -17,14 +17,43 @@
       "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-386-10/",
       "checked_on": "2026-09-14",
       "supports": "BAG vom 15.11.2011, Rn. 23 ff.: objektive Empfängersicht statt isolierter Geheimcodeannahme."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gewo/__109.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aktueller amtlicher Normtext zur Prüfung: Paragraf 109 Absatz 1 und 2 GewO. Keine Gesamtverifikation sämtlicher Nebenmaterien."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-584-13/",
+      "checked_on": "2026-09-22",
+      "supports": "BAG, Urteil vom 18.11.2014, 9 AZR 584/13: Wer eine gute statt durchschnittlicher Bewertung verlangt, muss entsprechende Leistungstatsachen darlegen; Branchenhäufigkeiten ersetzen sie nicht. Grenze/Prüftiefe: Volltext Rn. 8 bis 13; keine Beweislastregel für jeden Formmangel."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-386-10/",
+      "checked_on": "2026-09-22",
+      "supports": "BAG, Urteil vom 15.11.2011, 9 AZR 386/10: Bei kennen gelernt den Gesamtzusammenhang auslegen statt negativen Code unterstellen. Grenze/Prüftiefe: Volltext Rn. 23 bis 31; kein Anspruch auf beliebigen Stil."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-96-24-b/",
+      "checked_on": "2026-09-22",
+      "supports": "BAG, Teilurteil vom 18.06.2025, 2 AZR 96/24 (B): Vor Beendigung vereinbarter Verzicht auf qualifiziertes Zeugnis unwirksam. Grenze/Prüftiefe: Volltext Rn. 49 bis 61; kollisionsrechtlich Altvertrag nach Artikel 30 EGBGB."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/8-azb-25-25/",
+      "checked_on": "2026-09-22",
+      "supports": "BAG, Beschluss vom 07.05.2026, 8 AZB 25/25: Vergleich mit Entwurfsrecht ist unter den festgelegten Bindungen vollstreckbar. Grenze/Prüftiefe: Volltext Rn. 10 bis 20; plausible Wahrheits- und Klarheitseinwände können neues Erkenntnisverfahren erfordern."
     }
   ],
   "mini_review": {
-    "sha256": "c474378b11d2b7879e05e05df90e4c99a9bd1f0ff06e2e5950ea47bfb4adaea9",
+    "sha256": "ea939307690054c3294f043f1c80ebbe74f123db9dbee19fd4dd804c5c68e0f4",
     "verdict": "revised",
-    "reason": "Die vollständige Analyseanleitung wurde auf kontextbezogene Leistungsbewertung statt automatischer Wortnoten geprüft.",
+    "reason": "Schnellstart vollständig individuell gelesen und überarbeitet: Tätigkeitsbild, Einzelbewertungen und Gesamtformel im konkreten Zeugnis abgleichen. Durchschnittliche Gesamtleistung trotz freundlicher Schlussformel nicht aufgewertet; Darlegung für bessere Note und Gesamtlesart statt Geheimcodeautomatismus. Redaktionelle Quellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert.",
     "changes": [
-      "Rollen- und Leistungsnachweise gezielt klären und danach die konkrete Zeugnisbewertung überarbeiten."
+      "Durchschnittliche Gesamtleistung trotz freundlicher Schlussformel nicht aufgewertet; Darlegung für bessere Note und Gesamtlesart statt Geheimcodeautomatismus.",
+      "Kernfall mit operativem Entscheidungsanker, gezielten Nachfragen und Fortsetzung zum vollständigen angeforderten Dokument.",
+      "Schlusslektüre: Aussagegehalt und Berichtigungsbedarf vorangestellt; farbliche Orientierung ausschließlich auf Nutzerwunsch.",
+      "Leerstart: Aussageanalyse, Fassungsvergleich oder Änderungsvorschläge anbieten. Dateien: Zeugnis still im Zusammenhang lesen, noch keinen Notenbericht ausgeben. Klarer Auftrag: Analyse oder ausdrücklich bestellten Brief direkt liefern.",
+      "Belegte Zielerreichung verändert nur getragene Leistungswertung; kurze Vertretung führt zu zeitlich begrenzter Tätigkeitskorrektur."
     ]
   },
   "selection": {
@@ -73,10 +102,69 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die gesamte Werkstatt wurde auf tatsächliche Zeugnisprüfung und passende Anschlussbearbeitung geprüft.",
+    "reason": "Werkstatt vollständig individuell gelesen und überarbeitet: Tätigkeitsbild, Einzelbewertungen und Gesamtformel im konkreten Zeugnis abgleichen. Durchschnittliche Gesamtleistung trotz freundlicher Schlussformel nicht aufgewertet; Darlegung für bessere Note und Gesamtlesart statt Geheimcodeautomatismus. Redaktionelle Quellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen.",
     "changes": [
-      "Leistungsbelege und Lesartsicherheit in den Ablauf eingeordnet; keine ungefragte Anspruchsdurchsetzung als Standardausgabe."
+      "Durchschnittliche Gesamtleistung trotz freundlicher Schlussformel nicht aufgewertet; Darlegung für bessere Note und Gesamtlesart statt Geheimcodeautomatismus.",
+      "Vorhandene Fachzweige, Beispiele und Zugriffsalternativen erhalten; schwache Rechtsprechungshinweise entfernt oder auf belegte Reichweite begrenzt.",
+      "Wissen versus Gesamtleistung, Eigenanteil an Erfolgen, Führung versus Vertretung und Fassungsstatus statt Geheimcodeautomatismus.",
+      "Belegte Zielerreichung verändert nur getragene Leistungswertung; kurze Vertretung führt zu zeitlich begrenzter Tätigkeitskorrektur."
     ],
-    "sha256": "8070d8415bf6ffea519d8660bc1d417e07e51eb55ccd68008942180cee6c774a"
+    "sha256": "c2011062bbb83667f26baf97643780199294bd892c38b07940162170d743d7a2"
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leerstart: Aussageanalyse, Fassungsvergleich oder Änderungsvorschläge anbieten.",
+      "Dateien: Zeugnis still im Zusammenhang lesen, noch keinen Notenbericht ausgeben.",
+      "Klarer Auftrag: Analyse oder ausdrücklich bestellten Brief direkt liefern."
+    ],
+    "continuation": "Belegte Zielerreichung verändert nur getragene Leistungswertung; kurze Vertretung führt zu zeitlich begrenzter Tätigkeitskorrektur.",
+    "enrichment": "Wissen versus Gesamtleistung, Eigenanteil an Erfolgen, Führung versus Vertretung und Fassungsstatus statt Geheimcodeautomatismus.",
+    "limits": "desk review; no live client execution"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "arbeitszeugnis-analyse/README.md",
+      "arbeitszeugnis-analyse/arbeitszeugnis-analyse-schnellstart.md",
+      "arbeitszeugnis-analyse/arbeitszeugnis-analyse-werkstatt.md",
+      "quality/evals/arbeitszeugnis-analyse.json"
+    ],
+    "opening_change": "Tätigkeitsbild, Einzelbewertungen und Gesamtformel im konkreten Zeugnis abgleichen",
+    "norms": [
+      "Paragraf 109 Absatz 1 und 2 GewO"
+    ],
+    "decisions": [
+      {
+        "citation": "BAG, Urteil vom 18.11.2014, 9 AZR 584/13",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-584-13/",
+        "application": "Wer eine gute statt durchschnittlicher Bewertung verlangt, muss entsprechende Leistungstatsachen darlegen; Branchenhäufigkeiten ersetzen sie nicht.",
+        "limit": "Volltext Rn. 8 bis 13; keine Beweislastregel für jeden Formmangel."
+      },
+      {
+        "citation": "BAG, Urteil vom 15.11.2011, 9 AZR 386/10",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-386-10/",
+        "application": "Bei kennen gelernt den Gesamtzusammenhang auslegen statt negativen Code unterstellen.",
+        "limit": "Volltext Rn. 23 bis 31; kein Anspruch auf beliebigen Stil."
+      },
+      {
+        "citation": "BAG, Teilurteil vom 18.06.2025, 2 AZR 96/24 (B)",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-96-24-b/",
+        "application": "Vor Beendigung vereinbarter Verzicht auf qualifiziertes Zeugnis unwirksam.",
+        "limit": "Volltext Rn. 49 bis 61; kollisionsrechtlich Altvertrag nach Artikel 30 EGBGB."
+      },
+      {
+        "citation": "BAG, Beschluss vom 07.05.2026, 8 AZB 25/25",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/8-azb-25-25/",
+        "application": "Vergleich mit Entwurfsrecht ist unter den festgelegten Bindungen vollstreckbar.",
+        "limit": "Volltext Rn. 10 bis 20; plausible Wahrheits- und Klarheitseinwände können neues Erkenntnisverfahren erfordern."
+      }
+    ],
+    "remaining_limits": [
+      "Desk- und Quellenprüfung, kein Live-Client- oder Modelltest; übrige Fachzweige nicht vollständig rechtlich neu verifiziert.",
+      "Volltext Rn. 8 bis 13; keine Beweislastregel für jeden Formmangel.",
+      "Workflow-Anschlussprüfung 23.09.2026: individuelle Text- und Quellenprüfung, keine Live-Client-Ausführung. Frühere Entscheidungsprüfungen und ihre Reichweitengrenzen bleiben unverändert; keine erneute vollständige Rechtsprechungsprüfung behauptet. Keine neue materielle Rechtsbehauptung aus zusätzlicher Rechtsprechung; bestehende Entscheidungsnachweise und deren damaliger Prüfstand erhalten."
+    ]
   }
 }

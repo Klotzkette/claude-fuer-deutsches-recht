@@ -1,8 +1,10 @@
 # 1. Bau- und Architektenrecht: Forderungen prüfen und Schreiben ausarbeiten
 
-Prüfe am konkreten Bauvorhaben, welche Forderungen aus Leistung, Nachtrag, Bauzeit, Mängeln oder Honorar durchzusetzen oder abzuwehren sind. Erstelle anhand der Bauakte das verlangte Schreiben, Gutachten oder Vertragsdokument; eine Beratungsfrage verlangt keinen ungefragten Bauprozess.
+Gleiche vereinbarte Bauleistung, Ausführung und Abrechnung ab: Ist Werklohn fällig, ein Nachtrag vergütungspflichtig oder wegen eines Mangels Nachbesserung, Vorschuss oder Ersatz geschuldet? Begründe die beauftragte Forderung oder Abwehr anhand der Bauakte. Eine Beratungsfrage verlangt keinen ungefragten Bauprozess.
 
 ## 1.1. Bauakte und Auftrag
+
+Ohne Eingabe biete Mängelrüge, Nachtragsforderung oder Bauzeitentschädigung an. Dateien ohne Auftrag still lesen, dann Ziel klären; keine Bauchronologie vorab. Bei klarem Auftrag direkt entwerfen. Folgeantwort „Die Kolonne arbeitete vier Tage anderswo“ senkt die betroffene Vorhaltung und ändert die Forderung. Nur entscheidende Lücken fragen; bekannte Daten behalten. Kein Plugin-Zugriff nötig.
 
 Lies Bauvertrag, Leistungsbeschreibung, Pläne, Nachträge und die zum Auftrag gehörenden Protokolle zuerst. Entnimm Parteirolle, Vertragsdatum, Leistungsumfang und Termine den vorhandenen Angaben. Unterscheide BGB-Werkvertragsrecht, wirksam vereinbarte VOB-Regelungen, Architektenhonorar und öffentlich-rechtliche Projektbindungen nach dem konkreten Gegenstand.
 
@@ -28,7 +30,7 @@ Ordne einen Nachtrag nach Vertragssoll, Anordnung, tatsächlich ausgeführter Le
 
 Bei Bauzeitforderungen prüfe fehlende Mitwirkung, Leistungsbereitschaft und Ressourceneinsatz taggenau. Vergleiche Soll- und Ist-Ablauf; die gesamte Projektverlängerung ist nicht automatisch für jede Ressource zu vergüten. Rechne Beschäftigte auf Ersatzbaustellen nicht zugleich vollständig als stillstehend und prüfe vorhandene Vergütungsanteile und Zuschläge auf Doppelzählung.
 
-Prüfe [Paragraf 642 BGB](https://www.gesetze-im-internet.de/bgb/__642.html) nach Dauer, Vergütung, Ersparnissen und anderweitiger Verwendung. Trenne unproduktive Vorhaltung von späteren Material- und Lohnmehrkosten; keine pauschale Umsatzkompensation. Ordne andere Anspruchswege mit ihren eigenen Voraussetzungen zu, statt alle Positionen unter denselben Entschädigungsbetrag zu fassen.
+Bei fehlenden Plänen oder Vorleistungen wende [BGH, Urteil vom 30.01.2020, VII ZR 33/19](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2019/VII_ZR__33-19.pdf?__blob=publicationFile&v=1), Rn. 38–42, 47–58, auf Paragraf 642 BGB an: Nachgewiesenen Annahmeverzug ohne zusätzliche Kostennachteilsvoraussetzung prüfen, die Höhe aber aus unproduktiver Vorhaltung, vereinbarten Vergütungsanteilen, Ersparnissen und möglichem anderweitigem Einsatz begründen. Auch ein bereits vorhandener Ersatzauftrag zählt; kein Erfordernis eines erst durch die Störung ermöglichten Füllauftrags. Spätere Material- und Lohnmehrkosten sind nicht umfasst; andere Anspruchsgrundlagen gesondert prüfen.
 
 ## 1.5. Planung, Honorar und Projektbindungen
 
@@ -38,7 +40,7 @@ Bei städtebaulichen Verträgen untersuche Folgekosten, Erschließung, Durchfüh
 
 ## 1.6. Rechtsquellen und Ergebnis
 
-Verifiziere tragende Normen und Entscheidungen amtlich. Bestehende Rechercheanker sind BGH, Urteil vom 22.02.2018, VII ZR 46/17, zu fiktiven Mängelbeseitigungskosten und BGH, Urteil vom 08.11.2007, VII ZR 183/05, zur möglichen Gesamtschuld von Architekt und Unternehmer bei Baumangel und Überwachungsfehler. Verwende sie erst nach Prüfung von Aussage und Fallbezug; erfinde keine Fundstellen.
+Bei behaltenem mangelhaftem Werk gilt BGH, Urteil vom 22.02.2018, VII ZR 46/17, Rn. 31–37 und 48–54: Ohne Beseitigung keine Schadensberechnung nach fiktiven Beseitigungskosten. Bei wirklicher Beseitigungsabsicht Vorschuss nach Paragraf 637 Absatz 3 BGB prüfen, zweckgebunden und abzurechnen; nicht ungeprüft auf Kaufrecht übertragen. Weitere tragende Quellen amtlich prüfen, keine Fundstellen erfinden.
 
 Liefere die bestellte Mängelrüge, Nachtragsbewertung, Beratung, Vertragsfassung, Gutachterfrage oder Verfahrensschrift vollständig ausformuliert. Mengen-, Zeit- und Belegvergleiche werden nur beigefügt, soweit das Ergebnis sie benötigt. Verwende den gewünschten Dateinamen; `ergebnis.md` ist nur ein Vorschlag bei fehlender Vorgabe.
 

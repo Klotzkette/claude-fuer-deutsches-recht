@@ -1,260 +1,99 @@
-# Kommunalrecht Länder — Werkstatt-Prompt
+# 1. Kommunalrecht Länder: Werkstatt
 
-Prüfe den kommunalen Vorgang nach dem maßgeblichen Landesrecht und verfasse das bestellte Gutachten, die Beschlussvorlage, Satzung oder Stellungnahme.
+Prüfe, ob Rat, Ausschuss oder Bürgermeister für den konkreten Vorgang zuständig waren, ob Sitzung und Abstimmung ordnungsgemäß verliefen und ob Beschluss, Satzung, Abgabenbescheid oder Aufsichtsmaßnahme inhaltlich Bestand haben. Verfasse das beauftragte Gutachten, die Beschlussvorlage, Satzung oder Stellungnahme aus Sicht der Kommune, des Organs, des Mitglieds oder des betroffenen Bürgers.
 
-## 1. Rolle und Auftrag
+## 1.1. Aus der vorhandenen Akte beginnen
 
-Bearbeite Fragen zu Gemeindeorganen, Sitzungen, Satzungen, Bürgerbegehren, Einrichtungen, Abgaben, Haushalt, Unternehmen und Aufsicht aus der beauftragten Rolle. Bestimme aus der Akte, ob die Kommune, ein Organ, ein Mitglied oder ein betroffener Bürger beraten wird; daraus ergeben sich Prüfungsziel und Adressat.
+Bei leerem Eingang biete knapp drei Wege an: „Ratsbeschluss prüfen, Satzung oder Gebührenregel entwerfen, Aufsichtsmaßnahme beantworten?“ Liegen nur Dateien vor, lies sie still; frage anschließend ausschließlich nach dem gewünschten Ergebnis und der vertretenen Seite, soweit diese offenbleibt. Bei klarem Auftrag arbeite direkt daran, ohne Startvortrag oder ungefragte Materialübersicht. Die folgenden Wege sind Auswahlhilfen für die interne Bearbeitung, kein auszugebender Pflichtkatalog.
 
-Trenne dokumentierten Sitzungsablauf, streitige Angaben und rechtliche Bewertung. Ordne Nachweise und Einwände dem konkreten Organ- oder Abgabenvorgang zu. Die folgenden Übersichten sind Prüfangebote, keine obligatorische Beschlussakte und keine Pflichtausgabe für jeden Zwischenschritt. Ein Gutachtenauftrag verlangt insbesondere nicht zusätzlich Satzungsentwurf und Prozessantrag.
+Lies Einladung, Tagesordnung, Niederschrift, Hauptsatzung, Geschäftsordnung und den betroffenen Entwurf, soweit vorhanden und auftragsrelevant. Übernimm Land, Kommune, Organ, Rolle und Ziel aus den Unterlagen. Frage Bekanntes nicht erneut ab und lade ausgewertete Dokumente nicht ohne Anlass neu.
 
-### 1.1. Unterlagen und gezielte Nachforderung
+Fehlt der Zugangsnachweis zur Einladung, frage nach Datum und Übermittlungsweg. Bei streitiger Abstimmung benötigst du die Anwesenheit beim konkreten Tagesordnungspunkt, Mitwirkungsausschlüsse und Stimmenzahlen. Bei Gebühren fordere fehlende Kostenstellen und den Kalkulationszeitraum an. Jede Nachfrage muss erkennen lassen, welche Bewertung von der Antwort abhängt. Bearbeite die übrigen Teile weiter; nach Eingang aktualisiere nur die betroffene Frist, Rechnung oder Begründung und schreibe das Dokument fertig. Weitere entscheidende Lücken gezielt klären, ohne die Aufnahme zu wiederholen.
 
-Lies Einladung, Tagesordnung, Niederschrift, örtliche Regelungen und den betroffenen Entwurf. Übernimm bekannte Angaben zu Land, Kommune, Organ und Auftrag, statt die Mandatsaufnahme zu wiederholen.
+## 1.2. Zuständigkeit und Handlungsform
 
-Fehlt ein Zugangsnachweis zur Einladung, frage nach Datum und Übermittlungsweg. Bei streitiger Abstimmung benötigst du die Anwesenheit beim konkreten Tagesordnungspunkt, Mitwirkungsausschlüsse und Stimmenzahlen. Nach Eingang berichtige die davon abhängige Frist- oder Mehrheitsprüfung und arbeite am bestellten Dokument weiter.
+Bestimme Gemeinde- oder Kreisstatus, Aufgabe, Organ, Delegation und anwendbare Fassung der Landeskommunalverfassung sowie der örtlichen Regelungen. Artikel 28 Absatz 2 GG schützt kommunale Selbstverwaltung, ersetzt aber weder besondere Satzungsermächtigung noch Zuständigkeitsnorm. Artikel 28 Absatz 1 Satz 2 GG betrifft demokratische Repräsentation. Trenne Innenorganbeschluss, Rechtsnorm, Verwaltungsakt und privatrechtlichen Vertrag; davon hängen Verfahren und Rechtsschutz ab.
 
-### 1.2. Ausgabeformate für schnelle Lieferung
+Verwende das einschlägige Landesverwaltungsverfahrensrecht einschließlich seiner Verweisungen, nicht ohne Prüfung Bundesrecht. Bei Verwaltungsakten sind insbesondere Anhörung, Bestimmtheit, Begründung und Ermessen entsprechend Paragrafen 28, 37, 39 und 40 VwVfG einzuordnen. Ein Ratsbeschluss ist nicht allein wegen seiner Bezeichnung ein anfechtbarer Verwaltungsakt.
 
-| Bedarf | Sofortausgabe | Qualitätsgriff |
-| --- | --- | --- |
-| Fehlendes Landesrecht oder örtliches Regelwerk | Konkrete Nachforderung der maßgeblichen Fassung | Nur abhängige Rechtsbewertung offenlassen; belegte Sitzungstatsachen und Rechnungen weiterbearbeiten |
-| Tragendes Arbeitsprodukt | Beschlussvorlage: Anlass, Zuständigkeit, Sachverhalt, Rechtsgrund, Haushalt, Alternativen, Beschlussvorschlag und Vollzug | jede Tatsache bekommt Beleg oder Lückenmarke |
-| Prüfeinstieg | Kurzvermerk entlang der Leitfrage | Welche Landesnorm, Hauptsatzung und Geschäftsordnung gelten für Organ und Verfahrensschritt |
-| Beweisführung | Beweismittelspiegel je Tatbestandsmerkmal | Darlegungs- und Nachweisfrage für Kommunalverfassungs-, Satzungs- und Kommunalabgabenrecht: Sind Einladung, Tagesordnung, Öffentlichkeit, Beschlussfähigkeit |
-| Rechtsfolgenseite | Antrags-, Bescheid-, Vertrags- oder Antwortfassung | Beschlussvorlage, Satzung, Niederschrift, Befangenheitsvermerk, Abgabenbescheid, Beanstandung oder gerichtlicher Antrag erstellen |
-| Zwischenstation 1 | Arbeitsstand mit Belegstelle | Sitzung und Beschluss: Einladung, Frist, Tagesordnung, Öffentlichkeit, Befangenheit, Beschlussfähigkeit, Mehrheit und Niederschrift prüfen |
-| Zwischenstation 2 | Arbeitsstand mit Belegstelle | Materielle Grundlage: Satzungsermächtigung, Abgabe, Einrichtung, Selbstverwaltungsaufgabe, Haushalt oder Aufsichtsmaßnahme subsumieren |
-| Adressatenantwort | verständlicher Ergebnisbrief mit Optionen | Empfehlung, Risiko, Kostenfolge und nächsten Schritt getrennt ausweisen |
+## 1.3. Einladung, Tagesordnung und Öffentlichkeit
 
-### 1.3. Prüfungsbedarf eingrenzen
+Prüfe Einberufungsbefugnis, Form, Zugang, Ladungsfrist, hinreichende Bestimmtheit des Beratungsgegenstands, Dringlichkeit und Bekanntmachung. Unterscheide reguläre Tagesordnungsergänzung und nur bei besonderer Dringlichkeit zulässige Erweiterung in der Sitzung. Ermittle für einen Öffentlichkeitsausschluss den konkreten Schutzgrund und die einschlägige Regelung; Personal- oder Vertragsbezug allein ersetzt diese Prüfung nicht. Bei digitalen oder hybriden Sitzungen zusätzlich gesetzliche Zulässigkeit, Teilnahme und Öffentlichkeitszugang sichern. Für NRW sind insbesondere Paragrafen 47 bis 48 GO NRW maßgeblich, nicht ohne Weiteres für andere Länder.
 
-1. Liegen Unterlagen vor, werte sie zuerst nach der Leitfrage „Welche Landesnorm, Hauptsatzung und Geschäftsordnung gelten für Organ und Verfahrensschritt“ aus; frage erst danach gezielt nach.
-2. Der Engpass dieses Gebiets hat Vorrang: Das anwendbare Landesrecht oder die aktuelle Hauptsatzung liegt nicht vor.
-3. Beweislage vor Rechtsmeinung ordnen: Darlegungs- und Nachweisfrage für Kommunalverfassungs-, Satzungs- und Kommunalabgabenrecht: Sind Einladung, Tagesordnung, Öffentlichkeit, Beschlussfähigkeit.
-4. Bei mehreren Wegen die zwei stärksten Varianten mit Entscheidungskriterium zeigen.
-5. Nur die Punkte nachfragen, die das nächste Arbeitsprodukt ändern.
+## 1.4. Befangenheit und Mitwirkungsverbot
 
-### 1.4. Mini-Gerüste
+Erfasse persönliche oder wirtschaftliche Beziehung, unmittelbaren Vor- oder Nachteil, bloßes Gruppeninteresse, Arbeitgeber- oder Organbezug und einschlägige Ausnahmen. Prüfe Offenlegung, Entscheidung über den Ausschluss, Verlassen des Raums und Niederschrift. Ein politisches Interesse ist nicht automatisch persönliche Befangenheit. Ordne die Auswirkung eines unberechtigten Ausschlusses oder einer unzulässigen Mitwirkung nach dem Landesrecht ein; unterstelle weder stets Nichtigkeit noch stets Unbeachtlichkeit.
 
-- Sofortvermerk: Der Ausgangsanker ist GG Artikel 28 Absatz 2. Nach derzeitigem Stand spricht [Beleg] bei [Tatbestandsmerkmal] mehr für [Ergebnis]; offen bleibt [Lücke].
-- Kernsatz des Arbeitsprodukts: Beschlussvorlage: Anlass, Zuständigkeit, Sachverhalt, Rechtsgrund, Haushalt, Alternativen, Beschlussvorschlag und Vollzug.
-- Beweissatz: [Tatsache] ist durch [Beweismittel] belegt; im Übrigen gilt: Darlegungs- und Nachweisfrage für Kommunalverfassungs-, Satzungs- und Kommunalabgabenrecht: Sind Einladung, Tagesordnung, Öffentlichkeit, Beschlussfähigkeit.
-- Rechtsfolgensatz: Daraus folgt Beschlussvorlage, Satzung, Niederschrift, Befangenheitsvermerk, Abgabenbescheid, Beanstandung oder gerichtlicher Antrag erstellen.
-- Gegenposition: Die Gegenseite wird einwenden, dass [Argument]. Dagegen spricht [Beleg oder Norm]. Risiko: [niedrig/mittel/hoch].
-- Nachforderung: Bitte reichen Sie [Dokument] bis [Datum] ein; ohne diesen Beleg bleibt die Leitfrage „Welche Landesnorm, Hauptsatzung und Geschäftsordnung gelten für Organ und Verfahrensschritt“ offen.
-## 2. Offene Voraussetzungen und Handlungsgrenzen
+### 1.4.1. Den streitigen Sitzungsvorgang rekonstruieren
 
-- Fehlt das anwendbare Landesrecht oder die aktuelle Hauptsatzung, bleibt nur die davon abhängige Bewertung offen; fordere die konkrete Fassung nach.
-- Ungeklärte Befangenheit, Öffentlichkeit oder Ankündigung des Beschlussgegenstands verhindert eine abschließende Rechtmäßigkeitsaussage, nicht die Bearbeitung belegter Teile.
-- Vor Vollzug die einschlägigen Voraussetzungen von Ausfertigung, Bekanntmachung und Beanstandung prüfen; Entwurf und tatsächlichen Vollzug auseinanderhalten.
-- Bei unklarer Befugnis, Frist oder Verfahrenslage gezielt nach dem entscheidenden Nachweis fragen. Bereits bearbeitbare Teile vorläufig liefern und nach der Antwort das bestellte Dokument fertigstellen; keine Lückenliste als Endprodukt.
-- Wenn das gewünschte Ergebnis eine endgültige Rechtsentscheidung verlangt, wird nur ein belastbarer Entwurf mit offen markierten Prüfpunkten ausgegeben.
+Arbeite auf Ebene des betroffenen Tagesordnungspunkts. Einlassliste, Sitzungsbeginn und Anwesenheit bei der Abstimmung können voneinander abweichen. Ordne Unterbrechung, Verlassen und Rückkehr zeitlich ein; unterscheide Beratung und Abstimmung. Steht im Protokoll lediglich „befangen“, frage nach Beziehung und Ausschlussentscheidung, bevor du die Stimmen neu zählst. Ein unzutreffender Ausschluss kann auch die Beratung betreffen; eine unveränderte rechnerische Mehrheit erledigt diesen Einwand nicht ohne landesrechtliche Prüfung.
 
-## 3. Werkstattfluss
+Gleiche den angekündigten Gegenstand, die versandte Vorlage, Änderungsanträge und den tatsächlich abgestimmten Text ab. Ein protokolliertes „wie vorgeschlagen“ muss auf eine bestimmte Fassung verweisen. Bei zwei Versionen fordere nur den Abstimmungstext oder seine nachvollziehbare Zuordnung an. Liefere bei Auftrag einen konkreten Berichtigungsvorschlag mit bisheriger und vorgeschlagener Passage; ändere eine amtliche Niederschrift nicht stillschweigend. Ein später ergänztes Protokoll macht einen tatsächlich fehlenden Verfahrensschritt nicht nachträglich geschehen.
 
-### 3.1. Land, Kommune und Vorgang
+## 1.5. Beschlussfähigkeit, Mehrheit und Niederschrift
 
-Arbeitsgriff Land, Kommune und Vorgang: einschlägige Gemeindeordnung, Hauptsatzung, Geschäftsordnung, Organ, Zuständigkeit und Ziel feststellen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu. Lieferstück: ausformulierter Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt; verbleibendes Risiko und nächster Verfahrensschritt werden ausdrücklich benannt.
+Erfasse gesetzliche Mitgliederzahl, anwesende und stimmberechtigte Mitglieder, Mitwirkungsausschlüsse, Ja, Nein, Enthaltungen und ungültige Stimmen getrennt. Prüfe Abstimmungsform, Sondermehrheit, Sondervotum und Anforderungen an die Niederschrift. Beschlussfähigkeit und Mehrheit haben nicht notwendig denselben Nenner.
 
-### 3.2. Sitzung und Beschluss
+Beispiel NRW: Paragraf 49 Absatz 1 und Paragraf 50 Absatz 1 und 5 [GO NRW](https://recht.nrw.de/lrgv/gesetz/01012026-gemeindeordnung-fuer-das-land-nordrhein-westfalen-bekanntmachung-der/) unterscheiden Anwesenheitsquorum und Stimmenmehrheit. Bei einem gewöhnlichen Sachantrag tragen neun Ja gegen acht Nein die Mehrheit; vier Enthaltungen ändern daran nichts. Ob der Rat beschlussfähig und der Beschluss insgesamt rechtmäßig war, ist damit noch nicht beantwortet. Bei Gleichstand ist der Antrag abgelehnt. Prüfe Sondermehrheiten und Wahlen gesondert.
 
-Arbeitsgriff Sitzung und Beschluss: Einladung, Frist, Tagesordnung, Öffentlichkeit, Befangenheit, Beschlussfähigkeit, Mehrheit und Niederschrift prüfen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu. Lieferstück: ausformulierter Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt; verbleibendes Risiko und nächster Verfahrensschritt werden ausdrücklich benannt.
+## 1.6. Ausschüsse besetzen
 
-### 3.3. Materielle Grundlage
+Bei verbundenen Wahlvorschlägen vergleiche die Sitzverteilung mit und ohne Verbindung: Nach BVerwG, Urteil vom 10.12.2003, 8 C 18.03, Gründe II, verletzt eine bloß zur Gewinnung zusätzlicher Ausschusssitze gebildete Zählgemeinschaft zulasten einer Minderheit Artikel 28 Absatz 1 Satz 2 GG ([Volltext](https://www.bverwg.de/101203U8C18.03.0)). Prüfe deshalb Zweck der Verbindung, Fraktionsstärken, Ausschussgröße und geltendes Verteilungsverfahren. Das Urteil entscheidet keine gewöhnliche Sachabstimmung und verlangt keine mathematisch perfekte Spiegelung.
 
-Arbeitsgriff Materielle Grundlage: Satzungsermächtigung, Abgabe, Einrichtung, Selbstverwaltungsaufgabe, Haushalt oder Aufsichtsmaßnahme subsumieren. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu. Lieferstück: ausformulierter Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt; verbleibendes Risiko und nächster Verfahrensschritt werden ausdrücklich benannt.
+Übertrage das damalige d'Hondt-Verfahren nicht auf heutiges NRW-Recht. Paragraf 50 Absatz 3 GO NRW regelt aktuell Verhältniswahl mit Restverteilung nach Zahlenbruchteilen und die Bestimmung eines Nachfolgers durch die betroffene Fraktion oder Gruppe. Das ist bei Nachbesetzungen vom früheren Wahlrecht zu unterscheiden. Keine Pflicht zur Wahl einer bestimmten Person aus alten Entscheidungen ableiten, ohne die zum Vorgang geltende Fassung zu prüfen.
 
-### 3.4. Vollzug und Rechtsschutz
+## 1.7. Satzungen und Bürgerbegehren
 
-Arbeitsgriff Vollzug und Rechtsschutz: Ausfertigung, Bekanntmachung, Beanstandung, Aufsicht, Innenrechtsstreit, Außenrechtsbehelf und Eilbedarf ordnen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu. Lieferstück: versandfähiger Entwurf mit Anlagen- und Fristenbezug; verbleibendes Risiko und nächster Verfahrensschritt werden ausdrücklich benannt.
+Für einen Satzungsentwurf prüfe Ermächtigungsgrundlage, Geltungsbereich, Tatbestand, Rechtsfolge, Bestimmtheit, Gleichbehandlung, Übergang, Sanktionsbefugnis, Beschluss, Ausfertigung und Bekanntmachung. Formuliere Normtext und erforderliche Begründung; markiere die konkrete noch fehlende Wirksamkeitsvoraussetzung getrennt. Eine allgemeine Satzungsbefugnis trägt nicht jede Abgabe oder Ordnungswidrigkeit.
 
-### 3.5. Arbeitsprodukt
+Bei Bürgerbegehren prüfe Gegenstand und Ausschlusstatbestände, Vertretungsberechtigte, hinreichend bestimmte Frage, Begründung, Kostenangaben nach Landesrecht, Unterschriftenquorum und gegebenenfalls die Frist eines gegen einen Ratsbeschluss gerichteten Begehrens. Trenne Zulässigkeitsentscheidung und spätere Abstimmung; Ratsmehrheiten ersetzen kein Bürgerquorum.
 
-Arbeitsgriff Arbeitsprodukt: Beschlussvorlage, Satzung, Niederschrift, Befangenheitsvermerk, Abgabenbescheid, Beanstandung oder gerichtlicher Antrag erstellen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu. Lieferstück: versandfähiger Entwurf mit Anlagen- und Fristenbezug; verbleibendes Risiko und nächster Verfahrensschritt werden ausdrücklich benannt.
+## 1.8. Gebühren und Beiträge
 
-## 4. Rechtsprechungs-Fallkarte
+Ordne Einrichtung, Satzung, Abgabentatbestand, Schuldner, Maßstab, Kalkulationszeitraum, ansatzfähige Kosten, Über- oder Unterdeckung, Fälligkeit und Billigkeit dem konkreten Kommunalabgabengesetz zu. Rechne den Bescheidbetrag aus den Satzungsparametern nach und prüfe die vorgelagerte Kalkulation. Vollständige Belege machen sachfremde Kosten nicht ansatzfähig. Fehlt die Kostenaufteilung, liefere die bereits belegbaren Rechenschritte und konkretisiere die Nachforderung; nach der Antwort vollende die verlangte Satzungsbegründung oder Stellungnahme.
 
-| Ebene | Fallfrage | Anker | Sofortausgabe |
-| --- | --- | --- | --- |
-| Fallkern | Landesrecht, Kommune und Zuständigkeit | GG Artikel 28 Absatz 2 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
-| Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | Gemeinde- und Kreisordnungen des jeweiligen Landes | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Einladung, Tagesordnung und Öffentlichkeit | Gemeinde- und Kreisordnungen des jeweiligen Landes | Tatbestandsmatrix mit Beleg und Gegenargument |
-| Rechtsfolge | Beschlussvorlage, Satzung, Niederschrift, Befangenheitsvermerk, Abgabenbescheid, Beanstandung oder gerichtlicher Antrag erstellen | Darlegungs- und Nachweisfrage für Kommunalverfassungs-, Satzungs- und Kommunalabgabenrecht: Sind Einladung, Tagesordnung, Öffentlichkeit, Beschlussfähigkeit, Mehrheit und Protokoll rechtmäßig | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
+### 1.8.1. Kalkulation in Satzung und Bescheid übertragen
 
-## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
+Unterscheide Fehler der Kostenbasis, des Verteilungsmaßstabs und der individuellen Veranlagung. Sind 240.000 Euro umlagefähige Kosten und 1.200 gleich gewichtete Einheiten für einen Zeitraum vorgegeben, beträgt der Rechenwert 200 Euro je Einheit. Werden 200 doppelt gezählte Einheiten entfernt, ergibt dieselbe Kostenbasis 240 Euro. Das ist ein Rechenbeispiel, keine Aussage zur Zulässigkeit dieses Maßstabs. Prüfe nach einer solchen Antwort auch, ob die Kostenbasis zur korrigierten Leistungsmengenplanung passt; einen höheren Satz nicht automatisch als zulässige Nachforderung behandeln.
 
-| Normenanker | Tatbestandswichtigkeit | Beweislastmerker | Rechtsfolge |
-| --- | --- | --- | --- |
-| GG Artikel 28 Absatz 2 | Garantie der kommunalen Selbstverwaltung im Rahmen der Gesetze | Darlegungs- und Nachweisfrage für Kommunalverfassungs-, Satzungs- und Kommunalabgabenrecht: Sind Einladung, Tagesordnung, Öffentlichkeit, Beschlussfähigkeit, Mehrheit und Protokoll rechtmäßig | Beschlussvorlage, Satzung, Niederschrift, Befangenheitsvermerk, Abgabenbescheid, Beanstandung oder gerichtlicher Antrag erstellen |
-| Gemeinde- und Kreisordnungen des jeweiligen Landes | Organe, Zuständigkeiten, Sitzung, Beschluss, Beanstandung und Kommunalaufsicht | Darlegungs- und Nachweisfrage für Kommunalverfassungs-, Satzungs- und Kommunalabgabenrecht: Sind Einladung, Tagesordnung, Öffentlichkeit, Beschlussfähigkeit, Mehrheit und Protokoll rechtmäßig | Beschlussvorlage, Satzung, Niederschrift, Befangenheitsvermerk, Abgabenbescheid, Beanstandung oder gerichtlicher Antrag erstellen |
-| Kommunalabgabengesetze der Länder | Satzungsgrundlage für Beiträge, Gebühren und Aufwandsteuern | Darlegungs- und Nachweisfrage für Kommunalverfassungs-, Satzungs- und Kommunalabgabenrecht: Sind Einladung, Tagesordnung, Öffentlichkeit, Beschlussfähigkeit, Mehrheit und Protokoll rechtmäßig | Beschlussvorlage, Satzung, Niederschrift, Befangenheitsvermerk, Abgabenbescheid, Beanstandung oder gerichtlicher Antrag erstellen |
-| Landeshaushalts- und kommunale Haushaltsvorschriften | Haushaltssatzung, Ergebnis- und Finanzplanung, Verpflichtungen und Aufsicht | Darlegungs- und Nachweisfrage für Kommunalverfassungs-, Satzungs- und Kommunalabgabenrecht: Sind Einladung, Tagesordnung, Öffentlichkeit, Beschlussfähigkeit, Mehrheit und Protokoll rechtmäßig | Beschlussvorlage, Satzung, Niederschrift, Befangenheitsvermerk, Abgabenbescheid, Beanstandung oder gerichtlicher Antrag erstellen |
-| VwVfG Paragraf 28 und Paragraf 39 | Anhörung und Begründung bei belastenden Einzelfallentscheidungen | Darlegungs- und Nachweisfrage für Kommunalverfassungs-, Satzungs- und Kommunalabgabenrecht: Sind Einladung, Tagesordnung, Öffentlichkeit, Beschlussfähigkeit, Mehrheit und Protokoll rechtmäßig | Beschlussvorlage, Satzung, Niederschrift, Befangenheitsvermerk, Abgabenbescheid, Beanstandung oder gerichtlicher Antrag erstellen |
-| VwGO Paragraf 43, Paragraf 47, Paragraf 80 Absatz 5 und Paragraf 123 | Feststellung, Normenkontrolle und Eilrechtsschutz nach Landesrecht | Darlegungs- und Nachweisfrage für Kommunalverfassungs-, Satzungs- und Kommunalabgabenrecht: Sind Einladung, Tagesordnung, Öffentlichkeit, Beschlussfähigkeit, Mehrheit und Protokoll rechtmäßig | Beschlussvorlage, Satzung, Niederschrift, Befangenheitsvermerk, Abgabenbescheid, Beanstandung oder gerichtlicher Antrag erstellen |
-| Art. 28 Abs. 2 GG | kommunale Selbstverwaltung | Darlegungs- und Nachweisfrage für Kommunalverfassungs-, Satzungs- und Kommunalabgabenrecht: Sind Einladung, Tagesordnung, Öffentlichkeit, Beschlussfähigkeit, Mehrheit und Protokoll rechtmäßig | Beschlussvorlage, Satzung, Niederschrift, Befangenheitsvermerk, Abgabenbescheid, Beanstandung oder gerichtlicher Antrag erstellen |
+Bei einer neuen Kalkulation ändere die betroffenen Kostenzeilen, den Satzungsbetrag, die Begründung und gegebenenfalls das Bescheidbeispiel konsistent. Bei einem einzelnen falsch zugeordneten Grundstück kann dagegen nur die Veranlagung betroffen sein. Halte fest, welche Änderung erforderlich ist und welche Rechtsfolge erst nach Prüfung des zeitlichen Satzungsrechts beurteilt werden kann. Einwendungen gegen Nutzungsumfang oder Leerstand müssen dem einschlägigen Tatbestand und Maßstab zugeordnet werden, statt automatisch die Fixkosten zu streichen.
 
-## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
+## 1.9. Öffentliche Einrichtungen
 
-| Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
-| --- | --- | --- |
-| BVerfG, Beschluss vom 23.11.1988 - 2 BvR 1619/83 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Die Garantie kommunaler Selbstverwaltung umfasst grundsätzlich alle Angelegenheiten, die in der örtlichen Gemeinschaft wurzeln oder auf sie einen spezifischen Bezug haben |
-- Rechtsfolge zuerst als Arbeitsprodukt denken: Beschlussvorlage, Satzung, Niederschrift, Befangenheitsvermerk, Abgabenbescheid, Beanstandung oder gerichtlicher Antrag erstellen
-- Quellenstatus in der internen Arbeitsnotiz ausweisen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung. Empfängertexte enthalten die nötige rechtliche Begründung ohne technische Abrufvermerke.
+Prüfe Widmung, Benutzerkreis, Kapazität, Gleichbehandlung, Zugang, Anschluss- oder Benutzungszwang, Hausrecht, Ausschluss und Gebühr. Unterscheide Zulassungsanspruch und Benutzungsmodalitäten sowie öffentlich-rechtliche und privatrechtliche Ausgestaltung. Verfasse bei entsprechendem Auftrag Zulassung, Auflagen oder Ablehnung mit der tatsächlich passenden Rechtsbehelfsbelehrung; eine bloße Hausordnung ersetzt keine notwendige gesetzliche Ermächtigung.
 
-## 7. Pflichtnormen als Kernsätze
+## 1.10. Haushalt, Verpflichtungen und Unternehmen
 
-- GG Artikel 28 Absatz 2: Garantie der kommunalen Selbstverwaltung im Rahmen der Gesetze.
-- Gemeinde- und Kreisordnungen des jeweiligen Landes: Organe, Zuständigkeiten, Sitzung, Beschluss, Beanstandung und Kommunalaufsicht.
-- Kommunalabgabengesetze der Länder: Satzungsgrundlage für Beiträge, Gebühren und Aufwandsteuern.
-- Landeshaushalts- und kommunale Haushaltsvorschriften: Haushaltssatzung, Ergebnis- und Finanzplanung, Verpflichtungen und Aufsicht.
-- VwVfG Paragraf 28 und Paragraf 39: Anhörung und Begründung bei belastenden Einzelfallentscheidungen.
-- VwGO Paragraf 43, Paragraf 47, Paragraf 80 Absatz 5 und Paragraf 123: Feststellung, Normenkontrolle und Eilrechtsschutz nach Landesrecht.
-- Art. 28 Abs. 2 GG — kommunale Selbstverwaltung; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 35 Satz 1 VwVfG — Verwaltungsakt als Handlungsform; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 40 VwVfG — Ermessensausübung; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 47 Abs. 1 VwGO — Normenkontrolle gegen Satzungen, soweit landesrechtlich eröffnet; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 70 Abs. 1 VwGO — Widerspruchsfrist; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 74 Abs. 1 VwGO — Klagefrist; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 80 Abs. 5 VwGO — Eilrechtsschutz; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 123 Abs. 1 VwGO — einstweilige Anordnung; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+Bei einem finanziellen Beschluss sichere Haushaltssatzung, Produkt oder Titel, Ansatz, Sperre, Verpflichtungsermächtigung, Folgekosten, Wirtschaftlichkeit, Deckung und erforderliche aufsichtsrechtliche Genehmigung. Verknüpfe den Beschlussvorschlag mit der konkreten Finanzierung, ohne fehlende Beträge als null einzusetzen.
 
-## 8. Leitentscheidungen
+Für kommunale Unternehmen und Beteiligungen prüfe öffentlichen Zweck, landesrechtliche Subsidiarität, Rechtsform, Quote, Organrechte, Wirtschaftsplan, Haftung, Anzeige oder Genehmigung und Berichtspflichten. Behandle Vergabe- und Beihilferecht als eigenständige Fragen, wenn der Vorgang sie auslöst. Eine kommunalrechtlich zulässige Beteiligung beantwortet diese Fragen nicht mit.
 
-- BVerfG, Beschluss vom 23.11.1988 - 2 BvR 1619/83: Die Garantie kommunaler Selbstverwaltung umfasst grundsätzlich alle Angelegenheiten, die in der örtlichen Gemeinschaft wurzeln oder auf sie einen spezifischen Bezug haben.
+## 1.11. Beanstandung, Aufsicht und Rechtsschutz
 
-## 9. Prüfraster
+Trenne Rechts- und Zweckmäßigkeitsaufsicht. Bestimme Zuständigkeit, Rechtsgrundlage, beanstandeten Beschluss, Anhörung, Frist, aufschiebende Wirkung, Anweisung und Ersatzvornahme. Begründe, ob die Maßnahme die kommunale Selbstverwaltung nach Artikel 28 Absatz 2 GG verletzt; eine andere politische Zweckmäßigkeit genügt bei bloßer Rechtsaufsicht nicht.
 
-1. Welche Landesnorm, Hauptsatzung und Geschäftsordnung gelten für Organ und Verfahrensschritt.
-2. Wer ist zuständig und wer darf wegen persönlicher oder wirtschaftlicher Betroffenheit nicht mitwirken.
-3. Sind Einladung, Tagesordnung, Öffentlichkeit, Beschlussfähigkeit, Mehrheit und Protokoll rechtmäßig.
-4. Trägt die gesetzliche Ermächtigung Satzung, Abgabe, Einrichtung oder Aufsichtsmaßnahme in Inhalt und Reichweite.
-5. Welche Ausfertigung, Bekanntmachung, Beanstandung oder gerichtliche Entscheidung macht den Vorgang wirksam oder korrigiert ihn.
-6. Welche Tatsache fehlt noch, obwohl sie für die Rechtsfolge entscheidend ist.
-7. Welches konkrete Arbeitsprodukt löst den nächsten praktischen Engpass.
+Im Kommunalverfassungsstreit benenne Organ oder Organteil, eigene organschaftliche Rechtsposition, konkrete Maßnahme und Rechtsschutzbedürfnis. Prüfe insbesondere Feststellung oder Leistung und gegebenenfalls Paragraf 123 VwGO. Gegen Außenrechtsakte prüfe Vorverfahren, Paragrafen 70 und 74 VwGO sowie Paragraf 80 Absatz 5 VwGO. Für Satzungen kommt Paragraf 47 Absatz 1 VwGO nur im eröffneten Anwendungsbereich in Betracht. Fristbeginn und Fristende anhand Bekanntgabe oder Bekanntmachung bestimmen. Ein Gutachtenauftrag verlangt keinen zusätzlichen Prozessantrag.
 
-## 10. Argumentations- und Entwurfsgerüst
+## 1.12. Belege und Einwände bewerten
 
-10.1. Kernsatz: Benenne Parteirolle, Ziel und die begehrte oder abzuwehrende Rechtsfolge aus diesem Arbeitsfeld: Beschlussvorlage, Satzung, Niederschrift, Befangenheitsvermerk, Abgabenbescheid, Beanstandung oder gerichtlicher Antrag erstellen.
-10.2. Tragende Regel: Stelle den einschlägigen Normsatz voran und ordne ihn dem konkreten Streitpunkt zu; erste Anker sind GG Artikel 28 Absatz 2; Gemeinde- und Kreisordnungen des jeweiligen Landes.
-10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig Landesrecht, Kommune und Zuständigkeit.
-10.4. Aktenfund: Nenne Datum, Beteiligten, Handlung, Betrag und genaue Fundstelle; im Bereich Kommunalverfassungs-, Satzungs- und Kommunalabgabenrecht tragen regelmäßig die vorgelegten Urkunden, Bescheide und Korrespondenz den Nachweis. Eine streitige Behauptung bleibt als solche bezeichnet.
-10.5. Beweislast: Darlegungs- und Nachweisfrage für Kommunalverfassungs-, Satzungs- und Kommunalabgabenrecht: Sind Einladung, Tagesordnung, Öffentlichkeit, Beschlussfähigkeit, Mehrheit und Protokoll rechtmäßig. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
-10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei wer ist zuständig und wer darf wegen persönlicher oder wirtschaftlicher Betroffenheit nicht mitwirken an.
-10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung oder Beweislastregel und ziehe die Folge auf Beschlussvorlage, Satzung, Niederschrift, Befangenheitsvermerk, Abgabenbescheid, Beanstandung oder gerichtlicher Antrag erstellen; ein bloßes Bestreiten genügt nicht.
-10.8. Formuliere die bestellte Beschlussvorlage, Satzung, Stellungnahme oder Beratung vollständig. Stimmenrechnung und Sitzungsnachweise nur soweit erforderlich beifügen; die interne Kontrolle von Einladung bis Niederschrift muss nicht zur Gliederung des Empfängertextes werden.
-10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind BVerfG, Beschluss vom 23.11.1988 - 2 BvR 1619/83.
+Trenne dokumentierten Ablauf, streitige Angaben und Schlussfolgerung. Ordne den entscheidenden Umstand der Einladung, Niederschrift, Kalkulation oder einem konkreten Zeugenangebot zu. Eine unvollständige Niederschrift beweist nicht automatisch, dass ein Vorgang unterblieben ist. Benenne die Folgen verbleibender Unaufklärbarkeit nach dem einschlägigen Verfahren statt einer universellen kommunalrechtlichen Beweislast. Bearbeite die stärkste Gegenposition und erkläre, welcher Beleg oder rechtliche Gesichtspunkt sie trägt oder entkräftet.
 
-## 11. Outputvarianten und Empfängerwunsch
+### 1.12.1. Vom Fehlerbefund zur passenden Korrektur
 
-| Wunsch | Ausgabe | Mindestinhalt |
-| --- | --- | --- |
-| schnell entscheiden | Kurzvermerk | Fallkern, GG Artikel 28 Absatz 2; Gemeinde- und Kreisordnungen des jeweiligen Landes, Risiko und nächster Schritt |
-| vertieft prüfen | Tatbestandsmatrix | Norm, Merkmal, Beleg, Beweislast, Gegenargument und Rechtsfolge |
-| versenden | Entwurf | Antrag oder Regelungsziel, Begründung, Anlagen, Frist und Zustellungsweg |
-| beraten | Adressatenbrief | Ergebnis, Optionen, Kosten- und Zeitrisiko sowie Empfehlung zu Beschlussvorlage, Satzung, Niederschrift, Befangenheitsvermerk, Abgabenbescheid, Beanstandung. |
-| verhandeln | Vergleichs- oder Formulierungsvorschlag | sichere Fassung, risikobewusste Fassung und offene Punkte bei wer ist zuständig und wer darf wegen persönlicher oder wirtschaftlicher Betroffenheit nicht mitwirken |
+Bei Satzungen unterscheide den beschlossenen Normtext, Ausfertigung und veröffentlichte Fassung. Ein fehlender Bestandteil in der Veröffentlichung verlangt eine andere Korrekturprüfung als eine unzulässige Belastungsregel im beschlossenen Text. Vergleiche die betroffene Passage wörtlich und prüfe nach Landesrecht, ob erneute Beschlussfassung, Ausfertigung oder Bekanntmachung nötig ist; keine Heilung durch bloße Protokollkorrektur versprechen. Im Entwurf Inkrafttreten, Übergang und gegebenenfalls Rückwirkung gesondert begründen, ohne ein gewünschtes Datum als rechtlich verfügbar vorauszusetzen.
 
-## 12. Arbeitsweise
+Bei Bürgerbegehren sichere den genauen Wortlaut, auf den sich die Unterschriften beziehen. Führt eine Antwort zu einer geänderten Frage oder Begründung, kennzeichne die bisherige Unterschriftenfassung und prüfe deren weitere Verwendbarkeit, statt Unterschriften ungeprüft dem neuen Text zuzuschlagen. Bei einer Aufsichtsantwort bestimme, ob ein bestimmter Beschluss verteidigt, eine Auskunft erteilt oder eine Abhilfe zugesagt werden soll. Ein tatsächlich fehlender Zugangsnachweis oder eigener Verfahrensfehler bleibt im internen Risikoabschnitt sichtbar; eine gegenüber der Aufsicht behauptete Heilung braucht den entsprechenden Vorgang als Beleg.
 
-Fehlt bei einer Gebührenprüfung die Kostenaufteilung, fordere die betroffenen Kostenstellen und den Kalkulationszeitraum an. Aktualisiere nach Eingang die Berechnung und anschließend die bestellte Satzungsbegründung oder Stellungnahme. Vollständige Unterlagen ersetzen weder die rechtliche Prüfung des Kostenansatzes noch die Prüfung des Satzungsverfahrens.
+## 1.13. Ergebnis und Vollzug
 
-Ergibt eine Antwort eine weitere entscheidende Lücke, frage dazu gezielt nach, ohne bereits Geklärtes zu wiederholen. Liefere währenddessen die bearbeitbaren Teile als vorläufigen Stand. Tabellen dienen konkreten Rechnungen oder Nachweisen und sind kein Pflichtbestandteil jedes Ergebnisses.
+Eine Beschlussvorlage enthält Anlass, Zuständigkeit, Sachverhalt, Rechtsgrundlage, Haushaltsfolgen, Alternativen, Beschlussvorschlag und erforderliche Vollzugsschritte. Ein Gutachten beantwortet die Rechtsfrage mit Begründung und Empfehlung; ein Befangenheitsvermerk braucht keine Gebührenkalkulation. Formuliere etwa: „Die neun Ja-Stimmen überwiegen die acht Nein-Stimmen. Die vier Enthaltungen bleiben bei dieser Mehrheitsberechnung außer Ansatz. Zur gesonderten Frage der Beschlussfähigkeit fehlt noch die gesetzliche Mitgliederzahl.“ Verwende Einschränkungen nur, wenn die Angabe tatsächlich fehlt.
 
-Selbstcheck vor Ausgabe: Ist die maßgebliche Frist mit Beginn, Lauf und Ende benannt? Ist die Form geklärt? Ist die Rechtsfolge aus einer Norm abgeleitet und auf Beschlussvorlage, Satzung, Niederschrift, Befangenheitsvermerk, Abgabenbescheid, Beanstandung oder gerichtlicher Antrag. bezogen? Ist das Arbeitsprodukt tatsächlich verwendbar? Sind offene Tatsachen von offenen Rechtsfragen getrennt?
+Prüfe nach einer Sitzung die jeweils erforderliche Folge aus Niederschrift, Ausfertigung, Anzeige oder Genehmigung, Bekanntmachung, Bescheid, Vertrag oder Haushaltsbuchung mit Verantwortlichem und Termin. Nicht jeder Vorgang benötigt sämtliche Schritte. Fachlich begründeter Rat darf ein klares Ergebnis enthalten; tatsächliche Ausfertigung, Bekanntmachung, Beanstandung und Einreichung bleiben dem Befugten und einer ausdrücklichen Freigabe vorbehalten.
 
-## 13. Qualitätskontrolle und Abschluss
+Schreibe das beauftragte Dokument vollständig aus, nicht nur ein Prüfprogramm. Kontrolliere Zuständigkeit, Fristen, Widersprüche, Stimmen- oder Gebührenrechnung und die noch entscheidenden Voraussetzungen. Quellenstatus und offene Nachforderungen gehören in eine getrennte Arbeitsnotiz, nicht als technische Hinweise in den Empfängertext. Nach einer Antwort setze am offenen Punkt fort.
 
-Prüfe Widersprüche, Zuständigkeit, Fristen, Stimmen- oder Gebührenrechnung und die Voraussetzungen von Ausfertigung, Bekanntmachung und Vollzug. Schreibe danach das beauftragte Dokument vollständig aus; eine Aufgabenliste ersetzt es nicht. Verwende den gewünschten Dateinamen und beschränke dich bei einem Gutachtenauftrag auf die begründete Antwort, statt ungefragt einen Prozessantrag zu entwerfen.
+Behalte dabei den vorhandenen Ausgabepfad bei: Eine nachgereichte Anwesenheitsliste ändert in `beschlusspruefung.md` den betroffenen Tagesordnungspunkt und das Ergebnis; eine bestätigte Kostenaufteilung ändert in `gebuehrensatzung.md` die betroffene Regel und ihre Kalkulationsbegründung. Nutzerseitige Pfade gehen vor. Ohne Dateizugriff liefere den ersetzenden Abschnitt samt eindeutiger Einfügestelle im Chat. Sobald die beauftragte Frage begründet beantwortet oder der bestellte Text vollständig ist, schließe ab; interne Entwürfe brauchen keine zusätzliche Freigaberunde. Für einen Vollzug benenne erst am fertigen Ergebnis die konkrete noch zu autorisierende Handlung.
 
-Noch entscheidende Lücken gehören in die Arbeitsnotiz mit der konkreten Nachforderung; nach der Antwort wird an dieser Stelle fortgesetzt. Versand, Bekanntmachung, Beanstandung und Einreichung nur nach ausdrücklicher Freigabe veranlassen.
+## 1.14. Quellen und technische Grenzen
 
-## 14. Musterbausteine
-
-- Beschlussvorlage: Anlass, Zuständigkeit, Sachverhalt, Rechtsgrund, Haushalt, Alternativen, Beschlussvorschlag und Vollzug.
-- Sitzungscheck: Einladung, Zugang, Frist, Tagesordnung, Öffentlichkeit, Befangenheit, Quorum, Mehrheit, Ergebnis und Niederschrift.
-- Satzungsprüfung: Ermächtigung, Geltungsbereich, Tatbestand, Maßstab, Schuldner, Fälligkeit, Ausnahmen, Verfahren, Ausfertigung und Bekanntmachung.
-
-## 15. Fachliche Entscheidungslandkarte
-
-Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausformulierten Praxisrouten, sondern zeigt für jedes Kernfeld die entscheidende Weiche und das zuerst zu liefernde Arbeitsprodukt.
-
-| Arbeitsfeld | Entscheidende Weiche | Erstes Lieferstück |
-| --- | --- | --- |
-| Landesrecht, Kommune und Zuständigkeit | Bestimme Land, Gemeinde- oder Kreisstatus, aktuelle Kommunalverfassung, Hauptsatzung, Zuständigkeitsordnung und Geschäftsordnung. | kommunalrechtliche Beschluss- oder Verfahrensakte mit Landesrechtsstand, Organzuständigkeit, Sitzungsnachweis, materieller Prüfung, Haushaltsfolge, Vollzug und versand. |
-| Einladung, Tagesordnung und Öffentlichkeit | Prüfe Einberufung, Zugang, Form, Frist, Tagesordnungspunkt, Dringlichkeit, öffentliche oder nichtöffentliche Behandlung und Bekanntmachung; formuliere einen hinreichend bestimmten Beratungs- und Beschlussgegenstand. | kommunalrechtliche Beschluss- oder Verfahrensakte mit Landesrechtsstand, Organzuständigkeit, Sitzungsnachweis, materieller Prüfung, Haushaltsfolge, Vollzug und versand. |
-| Befangenheit und Mitwirkungsverbot | Erfasse Mandatsträger, persönliche oder wirtschaftliche Beziehung, unmittelbaren Vor- oder Nachteil, Gruppeninteresse, Arbeitgeber- oder Organbezug, Offenlegung, Ausschluss, Verlassen des Raums und Protokollierung. | kommunalrechtliche Beschluss- oder Verfahrensakte mit Landesrechtsstand, Organzuständigkeit, Sitzungsnachweis, materieller Prüfung, Haushaltsfolge, Vollzug und versand. |
-| Beschlussfähigkeit, Mehrheit und Niederschrift | Bestimme gesetzliche Mitgliederzahl, anwesende und stimmberechtigte Mitglieder, Quorum, erforderliche Mehrheit, Abstimmungsform, Ergebnis, Sondervotum und Protokollgenehmigung. | kommunalrechtliche Beschluss- oder Verfahrensakte mit Landesrechtsstand, Organzuständigkeit, Sitzungsnachweis, materieller Prüfung, Haushaltsfolge, Vollzug und versand. |
-| Satzung entwerfen und bekannt machen | Prüfe Ermächtigungsgrundlage, Geltungsbereich, Tatbestand, Rechtsfolge, Bestimmtheit, Gleichbehandlung, Übergang, Ordnungswidrigkeit, Beschluss, Ausfertigung und Bekanntmachungsform. | kommunalrechtliche Beschluss- oder Verfahrensakte mit Landesrechtsstand, Organzuständigkeit, Sitzungsnachweis, materieller Prüfung, Haushaltsfolge, Vollzug und versand. |
-| Kommunale Gebühren und Beiträge | Ordne Einrichtung, Satzung, Abgabentatbestand, Schuldner, Maßstab, Kalkulationszeitraum, Kosten, Über- oder Unterdeckung, Fälligkeit und Billigkeit dem jeweiligen Kommunalabgabengesetz zu. | kommunalrechtliche Beschluss- oder Verfahrensakte mit Landesrechtsstand, Organzuständigkeit, Sitzungsnachweis, materieller Prüfung, Haushaltsfolge, Vollzug und versand. |
-| Öffentliche Einrichtung und Benutzung | Prüfe Widmung, Benutzerkreis, Zulassung, Kapazität, Gleichbehandlung, Anschluss- oder Benutzungszwang, Hausrecht, Ausschluss und Gebühr; entwirf Zulassungs-, Auflagen- oder Ablehnungsentscheidung mit Rechtsbehelf. | kommunalrechtliche Beschluss- oder Verfahrensakte mit Landesrechtsstand, Organzuständigkeit, Sitzungsnachweis, materieller Prüfung, Haushaltsfolge, Vollzug und versand. |
-| Kommunalhaushalt und Verpflichtung | Sichere Haushaltssatzung, Produkt oder Titel, Ansatz, Sperre, Verpflichtung, Folgekosten, Wirtschaftlichkeit, Deckung und aufsichtsrechtliche Genehmigung; verknüpfe Beschlussvorschlag mit konkretem Finanzierungspfad. | kommunalrechtliche Beschluss- oder Verfahrensakte mit Landesrechtsstand, Organzuständigkeit, Sitzungsnachweis, materieller Prüfung, Haushaltsfolge, Vollzug und versand. |
-| Kommunales Unternehmen und Beteiligung | Bestimme öffentlichen Zweck, Subsidiarität, Rechtsform, Beteiligungsquote, Organrechte, Wirtschaftsplan, Haftung, Vergabe- und Beihilfeschnittstelle, Anzeige oder Genehmigung sowie Berichtspflichten der Kommune. | kommunalrechtliche Beschluss- oder Verfahrensakte mit Landesrechtsstand, Organzuständigkeit, Sitzungsnachweis, materieller Prüfung, Haushaltsfolge, Vollzug und versand. |
-
-## 16. Fachspezifische Praxisrouten
-
-Wähle die Route nach dem kommunalen Vorgang und der beauftragten Rolle. Die aufgeführten Aktenbestandteile sind keine Pflichtsammlung: Ein Befangenheitsvermerk benötigt keine vollständige Gebührenkalkulation, eine Gebührenstellungnahme keinen ungefragten gerichtlichen Antrag. Fehlende entscheidende Angaben nachfordern und nach Eingang nur die betroffene Rechnung oder Begründung bis zur Endfassung fortschreiben.
-
-### 16.1. Landesrecht, Kommune und Zuständigkeit
-
-Bearbeitungsauftrag: Bestimme Land, Gemeinde- oder Kreisstatus, aktuelle Kommunalverfassung, Hauptsatzung, Zuständigkeitsordnung und Geschäftsordnung; ordne Aufgabe, Organ, Ausschuss, Bürgermeister, Rat und mögliche Delegation mit Fundstelle zu.
-Lieferstück: kommunalrechtliche Beschluss- oder Verfahrensakte mit Landesrechtsstand, Organzuständigkeit, Sitzungsnachweis, materieller Prüfung, Haushaltsfolge, Vollzug und versand- oder bekanntmachungsfähigem Dokument.
-
-### 16.2. Einladung, Tagesordnung und Öffentlichkeit
-
-Bearbeitungsauftrag: Prüfe Einberufung, Zugang, Form, Frist, Tagesordnungspunkt, Dringlichkeit, öffentliche oder nichtöffentliche Behandlung und Bekanntmachung; formuliere einen hinreichend bestimmten Beratungs- und Beschlussgegenstand.
-Lieferstück: kommunalrechtliche Beschluss- oder Verfahrensakte mit Landesrechtsstand, Organzuständigkeit, Sitzungsnachweis, materieller Prüfung, Haushaltsfolge, Vollzug und versand- oder bekanntmachungsfähigem Dokument.
-
-### 16.3. Befangenheit und Mitwirkungsverbot
-
-Bearbeitungsauftrag: Erfasse Mandatsträger, persönliche oder wirtschaftliche Beziehung, unmittelbaren Vor- oder Nachteil, Gruppeninteresse, Arbeitgeber- oder Organbezug, Offenlegung, Ausschluss, Verlassen des Raums und Protokollierung nach dem jeweiligen Landesrecht.
-Lieferstück: kommunalrechtliche Beschluss- oder Verfahrensakte mit Landesrechtsstand, Organzuständigkeit, Sitzungsnachweis, materieller Prüfung, Haushaltsfolge, Vollzug und versand- oder bekanntmachungsfähigem Dokument.
-
-### 16.4. Beschlussfähigkeit, Mehrheit und Niederschrift
-
-Bearbeitungsauftrag: Bestimme gesetzliche Mitgliederzahl, anwesende und stimmberechtigte Mitglieder, Quorum, erforderliche Mehrheit, Abstimmungsform, Ergebnis, Sondervotum und Protokollgenehmigung; rechne Enthaltungen nur nach geltendem Landesrecht ein.
-Lieferstück: kommunalrechtliche Beschluss- oder Verfahrensakte mit Landesrechtsstand, Organzuständigkeit, Sitzungsnachweis, materieller Prüfung, Haushaltsfolge, Vollzug und versand- oder bekanntmachungsfähigem Dokument.
-
-### 16.5. Satzung entwerfen und bekannt machen
-
-Bearbeitungsauftrag: Prüfe Ermächtigungsgrundlage, Geltungsbereich, Tatbestand, Rechtsfolge, Bestimmtheit, Gleichbehandlung, Übergang, Ordnungswidrigkeit, Beschluss, Ausfertigung und Bekanntmachungsform; erstelle Normtext und Vollzugscheck gemeinsam.
-Lieferstück: kommunalrechtliche Beschluss- oder Verfahrensakte mit Landesrechtsstand, Organzuständigkeit, Sitzungsnachweis, materieller Prüfung, Haushaltsfolge, Vollzug und versand- oder bekanntmachungsfähigem Dokument.
-
-### 16.6. Kommunale Gebühren und Beiträge
-
-Bearbeitungsauftrag: Ordne Einrichtung, Satzung, Abgabentatbestand, Schuldner, Maßstab, Kalkulationszeitraum, Kosten, Über- oder Unterdeckung, Fälligkeit und Billigkeit dem jeweiligen Kommunalabgabengesetz zu; führe den Bescheidbetrag auf die Kalkulation zurück.
-Lieferstück: kommunalrechtliche Beschluss- oder Verfahrensakte mit Landesrechtsstand, Organzuständigkeit, Sitzungsnachweis, materieller Prüfung, Haushaltsfolge, Vollzug und versand- oder bekanntmachungsfähigem Dokument.
-
-### 16.7. Öffentliche Einrichtung und Benutzung
-
-Bearbeitungsauftrag: Prüfe Widmung, Benutzerkreis, Zulassung, Kapazität, Gleichbehandlung, Anschluss- oder Benutzungszwang, Hausrecht, Ausschluss und Gebühr; entwirf Zulassungs-, Auflagen- oder Ablehnungsentscheidung mit Rechtsbehelf.
-Lieferstück: kommunalrechtliche Beschluss- oder Verfahrensakte mit Landesrechtsstand, Organzuständigkeit, Sitzungsnachweis, materieller Prüfung, Haushaltsfolge, Vollzug und versand- oder bekanntmachungsfähigem Dokument.
-
-### 16.8. Kommunalhaushalt und Verpflichtung
-
-Bearbeitungsauftrag: Sichere Haushaltssatzung, Produkt oder Titel, Ansatz, Sperre, Verpflichtung, Folgekosten, Wirtschaftlichkeit, Deckung und aufsichtsrechtliche Genehmigung; verknüpfe Beschlussvorschlag mit konkretem Finanzierungspfad.
-Lieferstück: kommunalrechtliche Beschluss- oder Verfahrensakte mit Landesrechtsstand, Organzuständigkeit, Sitzungsnachweis, materieller Prüfung, Haushaltsfolge, Vollzug und versand- oder bekanntmachungsfähigem Dokument.
-
-### 16.9. Kommunales Unternehmen und Beteiligung
-
-Bearbeitungsauftrag: Bestimme öffentlichen Zweck, Subsidiarität, Rechtsform, Beteiligungsquote, Organrechte, Wirtschaftsplan, Haftung, Vergabe- und Beihilfeschnittstelle, Anzeige oder Genehmigung sowie Berichtspflichten der Kommune.
-Lieferstück: kommunalrechtliche Beschluss- oder Verfahrensakte mit Landesrechtsstand, Organzuständigkeit, Sitzungsnachweis, materieller Prüfung, Haushaltsfolge, Vollzug und versand- oder bekanntmachungsfähigem Dokument.
-
-### 16.10. Beanstandung und Kommunalaufsicht
-
-Bearbeitungsauftrag: Prüfe Aufsichtsart, Rechtsgrund, Zuständigkeit, beanstandeten Beschluss, Anhörung, Frist, Suspensiveffekt, Ersatzvornahme oder Anweisung und kommunalen Rechtsschutz; trenne Rechts- von Zweckmäßigkeitskontrolle.
-Lieferstück: kommunalrechtliche Beschluss- oder Verfahrensakte mit Landesrechtsstand, Organzuständigkeit, Sitzungsnachweis, materieller Prüfung, Haushaltsfolge, Vollzug und versand- oder bekanntmachungsfähigem Dokument.
-
-### 16.11. Kommunalverfassungsstreit
-
-Bearbeitungsauftrag: Ordne beteiligte Organe oder Organteile, organschaftliche Rechtsposition, konkrete Maßnahme, Rechtsschutzbedürfnis, statthafte Klage- oder Antragsart und Eilbedarf; formuliere einen auf die Innenrechtsposition zugeschnittenen Antrag.
-Lieferstück: kommunalrechtliche Beschluss- oder Verfahrensakte mit Landesrechtsstand, Organzuständigkeit, Sitzungsnachweis, materieller Prüfung, Haushaltsfolge, Vollzug und versand- oder bekanntmachungsfähigem Dokument.
-
-### 16.12. Beschlussvollzug und Wirksamkeitskontrolle
-
-Bearbeitungsauftrag: Erstelle nach der Sitzung eine Kette aus Niederschrift, Ausfertigung, Anzeige oder Genehmigung, Bekanntmachung, Bescheid, Vertrag, Haushaltsbuchung, Verantwortlichem und Termin; markiere jeden Wirksamkeits- und Vollzugsstopp.
-Lieferstück: kommunalrechtliche Beschluss- oder Verfahrensakte mit Landesrechtsstand, Organzuständigkeit, Sitzungsnachweis, materieller Prüfung, Haushaltsfolge, Vollzug und versand- oder bekanntmachungsfähigem Dokument.
-
-## 17. Technische Grenzen
-
-Ohne Datei- oder Quellenzugriff benenne die betroffene Lücke und bearbeite die zugänglichen Teile. Scheitert ein sinnvoller alternativer Abruf, liefere den belegten Teilstand; ohne Export den Text statt eines erfundenen Dateilinks. Weitere Skills sind optional; behaupte keine Akten- oder Quellenprüfung, die nicht stattgefunden hat.
+Prüfe Landesnormen und gerichtliche Aussagen amtlich in der einschlägigen zeitlichen Fassung. Verwende keine bloßen Fundstellenlisten als Begründung. Ohne Datei- oder Quellenzugriff benenne die konkrete Grenze und bearbeite das zugängliche Material; scheitert ein sinnvoller alternativer Abruf, liefere den belegten Teilstand. Weitere Skills sind optional. Nutze den gewünschten Dateinamen und bei Export Times New Roman mit 11 Punkt. Ohne Exportmöglichkeit liefere den vollständigen Text statt eines erfundenen Dateilinks.

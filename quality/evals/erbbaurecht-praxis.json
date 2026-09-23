@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "erbbaurecht-praxis",
-  "reviewed_on": "2026-09-17",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/erbbauv/__9a.html",
@@ -12,15 +12,38 @@
       "url": "https://www.gesetze-im-internet.de/erbbauv/__11.html",
       "checked_on": "2026-09-14",
       "supports": "Ausnahme des Paragrafen 925 BGB bei entsprechender Anwendung von Grundstücksrecht."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2009/V_ZR_110-09.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 11.12.2009, V ZR 110/09, Rn. 9–16: Frühere nicht ausgeschöpfte Anpassung ändert den Vertragsmaßstab nicht automatisch; ursprüngliche Abrede und spätere Änderungsvereinbarung auseinanderhalten. Grenze: Mittelwert aus Einkommen und Lebenshaltungskosten folgt konkreter Klausel; keine Universalformel, Wohnzweckgrenze und Dreijahresabstand gesondert prüfen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/erbbauv/__9a.html",
+      "checked_on": "2026-09-22",
+      "supports": "Billigkeitsgrenze, Wohnanteil, Dreijahresabstand und Ausnahmen vom Ausschluss bloßer Bodenwertentwicklung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/erbbauv/__11.html",
+      "checked_on": "2026-09-22",
+      "supports": "Grundstücksvorschriften mit Ausnahmen, Form der Verpflichtung und Unwirksamkeit bedingter oder befristeter Übertragung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/erbbauv/__9a.html",
+      "supports": "Erneuter Normabruf zu Erbbauzinsanpassung bei Wohnzweck einschließlich zeitlicher und Billigkeitsgrenzen; konkrete Vertragsfassung bleibt erforderlich.",
+      "checked_on": "2026-09-23"
     }
   ],
   "mini_review": {
-    "verdict": "retained",
-    "reason": "Vollständig am 18. September gelesen: Ursprungsklausel, letzte Zinsanpassung und Rangnachweise führen zu gezielter Neuberechnung und fertiger Vertrags- oder Antwortfassung.",
+    "verdict": "revised",
+    "reason": "Alle acht Abschnitte gelesen; starre Fünf-Dateien-Grenze und allgemeine Grundbuchschablone durch auftragsbezogenen Erbbaurechtsabgleich ersetzt. Zinsanpassung mit wirklicher Auslegungsfolge und gesetzlicher Grenze verbunden. Individuelle redaktionelle Prüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Nachtrag ändert Indexbasis oder Wohnnutzung -> Erbbauzinsrechnung und Anpassungsschreiben ändern; zusätzliche Bankbelastung -> Zustimmungs- und Rangregelung gesondert prüfen.",
     "changes": [
-      "Keine weitere Änderung der Mini-Fassung."
+      "V ZR 110/09 auf unausgeschöpfte Erhöhung und unveränderten Vertragsmaßstab angewandt.",
+      "Paragraf 11 ErbbauRG einschließlich Ausschluss bedingter dinglicher Übertragung präzisiert.",
+      "Kernroute und Pflichtnormen durch Erbbaurechtsinhalt, Zustimmung und Nachweis ersetzt.",
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
     ],
-    "sha256": "c8caf4e5f96ec15b5b04f32e59fada574762bf83daea685861c2627cd2127f35"
+    "sha256": "b16bcd34f66ed9c057ec49973f6c4f01911b8f24782e0bebf80cce87a2da77cc"
   },
   "selection": {
     "positive": [
@@ -68,12 +91,54 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Textprüfung am 18. September: Im vollständig gelesenen Altteil wurden Auflassung und gerichtliche Entscheidungsform ungeprüft auf Erbbaurecht und kommunale Vorlage übertragen; Tabellenpflichten widersprachen dem Auftrag.",
+    "reason": "Gesamte Werkstatt einschließlich acht Fachzweigen gelesen. Formularhafter Normanhang und Entwurfsbeschränkung entfernt; notarielle Verpflichtung, dingliche Übertragung, Anpassungsmaßstab und Vollzugsnachweis getrennt präzisiert. Individuelle redaktionelle Prüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Vertragliche Indexreihen und Bezugszeitpunkte, gemischte Nutzung, Veräußerungs- gegenüber Belastungszustimmung, Heimfall gegenüber Zeitablauf, Entschädigung und gesonderte Beurkundungs-/Registerfreigabe.",
     "changes": [
-      "Grundstücks- und Erbbaurechtsvollzug anhand der bereits im Mini enthaltenen Ausnahme getrennt.",
-      "Kommunale Vorlage als Beschlussvorschlag mit wirtschaftlichen Folgen statt gerichtlichem Tenor gefasst.",
-      "Zins, Rang, Sicherheiten, Kontrollwechsel, Betreiberpflichten und Beendigung erhalten; doppelte Schablonen entfernt."
+      "V ZR 110/09 auf unausgeschöpfte Erhöhung und unveränderten Vertragsmaßstab angewandt.",
+      "Paragraf 11 ErbbauRG einschließlich Ausschluss bedingter dinglicher Übertragung präzisiert.",
+      "Kernroute und Pflichtnormen durch Erbbaurechtsinhalt, Zustimmung und Nachweis ersetzt.",
+      "Vertragliche Indexreihen und Bezugszeitpunkte, gemischte Nutzung, Veräußerungs- gegenüber Belastungszustimmung, Heimfall gegenüber Zeitablauf, Entschädigung und gesonderte Beurkundungs-/Registerfreigabe."
     ],
-    "sha256": "9eef7f4a73071e5d538cbcdb28df07092e5564cbd2693ceafde1c2037b507044"
+    "sha256": "257d5ed854413fb683bda7edc4b44c7b23e8ba7d32b056cc916a88ca0a86b321"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-23",
+    "files": [
+      "erbbaurecht-praxis/erbbaurecht-praxis-schnellstart.md",
+      "erbbaurecht-praxis/erbbaurecht-praxis-werkstatt.md",
+      "erbbaurecht-praxis/README.md",
+      "quality/evals/erbbaurecht-praxis.json",
+      "erbbaurecht-praxis/skills/erbbauzinsanpassung-paragraph-9a/SKILL.md"
+    ],
+    "opening_change": "Gesicherte Nutzung und Laufzeit, durchsetzbarer Zins und benötigte Zustimmung aus beiden Grundbüchern bestimmen. Workflow-Ergänzung: Leer: Erbbauzinsanpassung, Zustimmung zur Veräußerung oder Heimfall-/Ablaufprüfung anbieten. Dateien ohne Aufgabe: Erbbaurechtsvertrag und Registerbelege still lesen; konkreten Anpassungs- oder Zustimmungsauftrag klären. Klarer Auftrag: verlangte Rechnung, Erklärung oder Vertragsänderung unmittelbar bearbeiten; keine allgemeine Erbbaurechtsübersicht.",
+    "norms": [
+      "Paragrafen 1, 2, 5, 9, 9a und 11 ErbbauRG",
+      "Paragrafen 311b, 873 und 883 BGB",
+      "Paragrafen 13, 18, 19 und 29 GBO"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 11.12.2009, V ZR 110/09, Rn. 9–16",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2009/V_ZR_110-09.pdf?__blob=publicationFile&v=1",
+        "application": "Frühere nicht ausgeschöpfte Anpassung ändert den Vertragsmaßstab nicht automatisch; ursprüngliche Abrede und spätere Änderungsvereinbarung auseinanderhalten.",
+        "limit": "Mittelwert aus Einkommen und Lebenshaltungskosten folgt konkreter Klausel; keine Universalformel, Wohnzweckgrenze und Dreijahresabstand gesondert prüfen."
+      }
+    ],
+    "remaining_limits": [
+      "Desk- und Quellenreview, kein Live-Modelltest.",
+      "Zinsentscheidung amtlich vollständig gelesen; Heimfall-, Versteigerungs- und institutionelles Sonderrecht nicht insgesamt neu verifiziert, gewöhnlicher Spezialskill nur gelesen und unverändert.",
+      "Workflow-Review 23.09.2026: Paragraf 9a ErbbauRG erneut eingesehen; Dreijahres- und Wohnnutzungsmaßstab nicht auf jeden Erbbauzinsfall übertragen."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Erbbauzinsanpassung, Zustimmung zur Veräußerung oder Heimfall-/Ablaufprüfung anbieten.",
+      "Dateien ohne Aufgabe: Erbbaurechtsvertrag und Registerbelege still lesen; konkreten Anpassungs- oder Zustimmungsauftrag klären.",
+      "Klarer Auftrag: verlangte Rechnung, Erklärung oder Vertragsänderung unmittelbar bearbeiten; keine allgemeine Erbbaurechtsübersicht."
+    ],
+    "continuation": "Nachtrag ändert Indexbasis oder Wohnnutzung -> Erbbauzinsrechnung und Anpassungsschreiben ändern; zusätzliche Bankbelastung -> Zustimmungs- und Rangregelung gesondert prüfen.",
+    "enrichment": "Vertragliche Indexreihen und Bezugszeitpunkte, gemischte Nutzung, Veräußerungs- gegenüber Belastungszustimmung, Heimfall gegenüber Zeitablauf, Entschädigung und gesonderte Beurkundungs-/Registerfreigabe.",
+    "limits": "desk review; no live client execution"
   }
 }

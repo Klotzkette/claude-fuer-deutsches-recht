@@ -1,10 +1,10 @@
 # 1. Handelsrecht HGB: Geschäft und Lieferbeweis
 
-Bearbeite meinen handelsrechtlichen Auftrag anhand der mitgeteilten Tatsachen. Beginne mit dem konkreten Geschäft und dem gewünschten Ergebnis, nicht mit einem Überblick über das gesamte HGB. Dieser Prompt funktioniert ohne weitere Dateien oder installierte Skills.
+Prüfe anhand von Liefernachweisen, Untersuchungsprotokollen und Korrespondenz, ob der Käufer seine Mängelrechte erhalten hat, und formuliere die verlangte Rüge oder Antwort. Geht es stattdessen um Vertretung, Firmenfortführung oder Abrechnung, bearbeite unmittelbar diese konkrete Frage. Beginne mit dem Geschäft, nicht mit einem Überblick über das gesamte HGB.
 
 ## 1.1 Auftrag und Material
 
-Ermittle Parteien, Rechtsformen, Geschäftszweck, Rolle, Streitbetrag, Fristen und gewünschtes Dokument aus Auftrag, Verträgen, Bestellungen, Lieferscheinen, Abrechnungen und Nachrichten. Bei einem Upload ohne erkennbares Ziel kläre die gewünschte Bewertung oder das Schreiben. Frage nur nach entscheidenden fehlenden Tatsachen, etwa dem Untersuchungsdatum einer Charge oder der Vertretungsbefugnis des Unterzeichners. Fehlende Unterlagen sind keine negativen Beweise. Nutze vorhandene Extrakte bei Folgefragen, ohne geklärte Angaben erneut aufzunehmen.
+Ohne Eingabe biete Mängelrüge, Vertretungsprüfung oder Haftung bei Firmenfortführung an. Bei Dateien ohne Auftrag lies sie still und biete zwei passende Dokumente an, etwa Chargenrüge oder Antwort auf einen Verspätungseinwand. Ein klarer Auftrag führt direkt zum Entwurf. Übernimm bekannte Parteien, Geschäftszweck, Betrag und Fristen; frage nur entscheidende Lücken ab. Ein neuer Prüfbericht ändert die betroffene Charge und Begründung, eine Vollmacht den Bindungsbefund. Fehlende Unterlagen sind keine negativen Beweise; kein Pluginzugriff ist vorausgesetzt.
 
 ## 1.2 Handelsrechtliche Weichen
 
@@ -17,6 +17,8 @@ Wähle einen Hauptpfad: Liefermangel, Vertretung, Firmenfortführung oder Abrech
 Prüfe bei einem Kauf, der für beide Seiten Handelsgeschäft ist, Paragraf 377 HGB. Erfasse je Lieferung Artikel, Charge, Menge, Ablieferung, zumutbaren Prüfumfang, tatsächliche Untersuchung, Befund, Entdeckung und Absendung der konkreten Mängelanzeige. Unterscheide bei ordnungsgemäßer Untersuchung erkennbare und erst später entdeckte Mängel. Verwende keine pauschale feste Zahl von Rügetagen; begründe die Bewertung aus Geschäftsgang und Fehlerbild.
 
 Zur Rechtserhaltung genügt nach Absatz 4 die rechtzeitige Absendung der Anzeige. Fordere Versandnachweis und Inhalt an, ohne zwingend rechtzeitigen Zugang zu verlangen. Prüfe Genehmigungswirkung und gegebenenfalls behauptetes arglistiges Verschweigen gesondert. Eine rechtzeitige Rüge beweist noch keinen Sachmangel bei Gefahrübergang. Ordne Messwerte, Rückstellmuster und mögliche Alternativursachen zu, ohne selbst Prüfungen oder Kontaktaufnahmen auszulösen.
+
+Für den zumutbaren Prüfumfang ist BGH, Urteil vom 06.12.2017, VIII ZR 246/16, Rn. 23 bis 40, maßgeblich: Aufwand, technische Möglichkeiten und Verdachtsmomente sind konkret abzuwägen; keine anlasslose Untersuchung auf sämtliche denkbaren Fehler. Die dortige AGB-Pflicht zu umfassender Untersuchung durch einen neutralen Sachverständigen war nach Paragraf 307 BGB unwirksam. Prüfe entsprechende Klauseln, bevor du Rechte wegen unterlassener Laborkontrolle verneinst. Grenze den Futterfettfall ohne konkreten Dioxinverdacht von besonderen Sicherheitsvorschriften oder einer konkreten Verdachtslage ab; er begründet weder generelle Untersuchungsfreiheit noch feste Rügetage. Eine fristgerechte konkrete Anzeige bleibt nicht allein wegen fehlerhafter Voruntersuchung unwirksam ([amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2016/VIII_ZR_246-16.pdf?__blob=publicationFile&v=1)).
 
 ## 1.4 Ergebnis statt Themenliste
 

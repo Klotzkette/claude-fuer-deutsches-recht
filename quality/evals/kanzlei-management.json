@@ -1,16 +1,40 @@
 {
   "schema_version": 1,
   "plugin": "kanzlei-management",
-  "reviewed_on": "2026-09-17",
-  "sources": [],
+  "reviewed_on": "2026-09-23",
+  "sources": [
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Strafsenate/2_StS/2018/2_StR_588-18.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Beschluss vom 26.11.2019, 2 StR 588/18: Volltext, insbesondere Randnummern 13 bis 23: Fremdgeldauskehr, Mittelverfügbarkeit, konkrete Vermögensminderung und Verknüpfung einer bezifferbaren Honorarforderung mit deren Befriedigung. Grenze: Verurteilung aufgehoben; Verzögerung oder fehlendes Anderkonto allein beweisen keinen Vermögensnachteil. Kein Freibrief zur Verrechnung oder strafrechtliche Diagnose aus Wochenlücke."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/brao/__43a.html",
+      "checked_on": "2026-09-22",
+      "supports": "Amtlicher Wortlaut geprüft: Absatz 7: sorgfältiger Umgang mit anvertrauten Vermögenswerten und Fremdgeldern; unverzügliche Weiterleitung beziehungsweise Anderkonto von eigener Liquidität trennen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stgb/__266.html",
+      "checked_on": "2026-09-22",
+      "supports": "Amtlicher Wortlaut geprüft: Vermögensbetreuungspflicht, Pflichtverletzung und Vermögensnachteil als eigenständige Tatbestandsmerkmale; keine Untreue allein aus verzögerter Auszahlung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/brao/__43a.html",
+      "checked_on": "2026-09-23",
+      "supports": "Absatz 7 am 23.09.2026 erneut gelesen; Fremdgeldzuordnung und Weiterleitung bleiben von eigenen Betriebsmitteln getrennt. Kein neuer strafrechtlicher oder insolvenzrechtlicher Befund."
+    }
+  ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Vollständige Schlusslektüre am 18. September 2026: Liquiditäts-, Kapazitäts- und Profitabilitätsrechnung einschließlich Fortsetzung waren bereits individuell. Nur die starre Höchstzahl von zwei Gegenmaßnahmen beschränkte die sachgerechte Entscheidung unnötig.",
+    "reason": "Liquiditätsrechnung wird um die konkrete rechtliche Grenze zur Fremdgeldfinanzierung ergänzt. Vollständige Text- und gezielte Primärquellenprüfung; kein Live-Mandanten- oder Modelltest. Individueller Workflow-Durchgang am 23.09.2026: Belegte Zahlungszusage -> betroffene Wochen und Folgesalden neu rechnen; fehlender Vertretungszugriff -> Zugriffs- und Ausfallregel statt Vollneustart ändern.",
     "changes": [
-      "Starre Zwei-Maßnahmen-Grenze durch entscheidungsrelevante realistische Gegenmaßnahmen ersetzt.",
-      "Fremdgeld, Wochenübertrag, fehlende Zahlungsdaten und Trennung von Vorschau und Insolvenzdiagnose unverändert erhalten."
+      "Aktueller Paragraf 43a Absatz 7 BRAO in beiden Prompts.",
+      "2 StR 588/18 mit Aufhebungsgrund und Kompensationsgrenzen angewendet.",
+      "Keine Strafbarkeitsdiagnose aus negativem Saldo oder Verrechnung mit unbestätigtem WIP.",
+      "Vier eigenständige Eingabemodi und fachbezogene Antwortfortsetzung ergänzt.",
+      "Kurzes Fachdialogbeispiel mit entscheidender Frage und konkreter Änderung des bestellten Dokuments ergänzt."
     ],
-    "sha256": "ca78f273f2c3bfb80db98c9ceb30b3967bc162ce178002e7d3c0060e279a88b4"
+    "sha256": "235251a6cf34c7101fbb9dccf0226f00ed0f809f00ce18816a12cc1c22c355d5"
   },
   "selection": {
     "positive": [
@@ -58,12 +82,52 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Vollständige Schlusslektüre am 18. September 2026: Allgemeine Mandatsaufnahme und Übergabepakete widersprachen dem betriebswirtschaftlichen Auftrag. Die Schlussrouten enthielten wiederholte Managementprosa statt konkreter Entscheidungswege.",
+    "reason": "Leere Quellenrubrik durch fallbezogenen Maßstab zu Fremdgeldauskehr und strafrechtlicher Prüfung ersetzt; betriebliche Fachzweige erhalten. Vollständige Text- und gezielte Primärquellenprüfung; kein Live-Mandanten- oder Modelltest. Individueller Workflow-Durchgang am 23.09.2026: Abstimmung von Bank und Fremdgeld, durchgerechnete Maßnahmen-/Entnahmeentscheidung, Perioden- und Gemeinkostenabgrenzung, ausführbare Vertretungsanweisung.",
     "changes": [
-      "Betriebsentscheidungen von Mandatsorganisation getrennt; Mandatsblatt und Versandprüfung nur bei entsprechendem Auftrag.",
-      "Liquidität, Kapazität, Honorar, Partnerstruktur, Pflichten, Datenpanne, Systeme und Nachhaltigkeit mit eigenen Datenfragen und Fortsetzung bis zur Vorlage geführt.",
-      "Keine feste Zahl von Optionen, keine erfundenen Folgewochen und keine Behauptung bereits erfolgter Kontrolle oder Übermittlung."
+      "Aktueller Paragraf 43a Absatz 7 BRAO in beiden Prompts.",
+      "2 StR 588/18 mit Aufhebungsgrund und Kompensationsgrenzen angewendet.",
+      "Keine Strafbarkeitsdiagnose aus negativem Saldo oder Verrechnung mit unbestätigtem WIP.",
+      "Abstimmung von Bank und Fremdgeld, durchgerechnete Maßnahmen-/Entnahmeentscheidung, Perioden- und Gemeinkostenabgrenzung, ausführbare Vertretungsanweisung."
     ],
-    "sha256": "9181e147040334bc0b6de686e8275e05375a502faf2c1a33599a44408a232c46"
+    "sha256": "4e2f56debd2a7faf0a415e908421d18979d5bd161a655983ff3fac16fdcc04ff"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "kanzlei-management/kanzlei-management-werkstatt.md",
+      "kanzlei-management/kanzlei-management-schnellstart.md",
+      "kanzlei-management/README.md",
+      "quality/evals/kanzlei-management.json"
+    ],
+    "opening_change": "Verfügbares Geld aus Bankbestand, Fremdgeldzuordnung und Zahlungsterminen statt abstrakter Managemententscheidung.",
+    "norms": [
+      "BRAO Paragraf 43a Absatz 7",
+      "StGB Paragraf 266"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Beschluss vom 26.11.2019, 2 StR 588/18",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Strafsenate/2_StS/2018/2_StR_588-18.pdf?__blob=publicationFile&v=1",
+        "application": "Volltext, insbesondere Randnummern 13 bis 23: Fremdgeldauskehr, Mittelverfügbarkeit, konkrete Vermögensminderung und Verknüpfung einer bezifferbaren Honorarforderung mit deren Befriedigung.",
+        "limit": "Verurteilung aufgehoben; Verzögerung oder fehlendes Anderkonto allein beweisen keinen Vermögensnachteil. Kein Freibrief zur Verrechnung oder strafrechtliche Diagnose aus Wochenlücke."
+      }
+    ],
+    "remaining_limits": [
+      "Desk-/Quellenprüfung, kein Live-Mandanten- oder Modelltest.",
+      "Betriebswirtschaftliche Kennzahlen, Insolvenz-, Personal- und Steuerrecht nicht vollständig neu verifiziert.",
+      "Workflow-Ergänzung am 23.09.2026: desk review; keine Live-Client-Ausführung, keine Installation, Übermittlung oder technische Funktionsprüfung. Bestehende Entscheidungsprüfung vom 22.09.2026 nicht als heutiger Neuabruf ausgegeben."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leere Eingabe: Liquiditätsengpass, Mandatsprofitabilität oder Vertretungsablauf auswählen.",
+      "Dateien ohne Aufgabe: Bank-, Zeit- und Organisationsdaten still lesen, konkrete Leitungsentscheidung klären.",
+      "Klarer Auftrag: sofort die angeforderte Rechnung oder Anweisung, keine neue Mandatsaufnahme."
+    ],
+    "continuation": "Belegte Zahlungszusage -> liquiditaetsvorlage.md mit geänderten Wochen, Folgesalden und Entscheidungsabsatz; fehlender Vertretungszugriff -> betroffene Organisationsanweisung ändern. Nutzerpfad geht vor.",
+    "enrichment": "Abstimmung von Bank und Fremdgeld, durchgerechnete Maßnahmen-/Entnahmeentscheidung, Perioden- und Gemeinkostenabgrenzung, ausführbare Vertretungsanweisung.",
+    "limits": "desk review; no live client execution"
   }
 }

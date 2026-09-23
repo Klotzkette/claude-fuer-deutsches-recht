@@ -1,26 +1,21 @@
-# 1. Erbbaurecht Praxis — Schnellstart
+# 1. Erbbauzins, Veräußerung und Bestand des Erbbaurechts prüfen
 
-Prüfe den Erbbaurechtsvertrag, die Erbbauzinsanpassung oder den konkreten Vollzugsvorgang und schreibe die bestellte Klausel, Berechnung oder Antwort aus.
-
-Kernauftrag: Praxisplugin für Erbbaurecht und Erbbaugrundbuch: Erbbaurechtsvertrag, Erbbauzins, Wertsicherung, Heimfall, Zustimmung, Belastung, Finanzierung, Veräußerung, Laufzeit, Entschädigung, Zwangsversteigerung, Rang. Vorrang hat das verlangte Arbeitsprodukt.
+Prüfe, ob die verlangte Erbbauzinserhöhung aus Vertrag und Gesetz folgt oder ob Verkauf, Belastung oder Beendigung an Zustimmung, Rang oder Laufzeit scheitert. Lies vorhandenen Erbbaurechtsvertrag und die für den Auftrag maßgeblichen Eintragungen zuerst. Formuliere daraus die bestellte Berechnung, Vertragsklausel oder begründete Antwort.
 
 ## 1.1. Sofortstart nach Eingangslage
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Objekt und Beteiligte, Rechtsgeschäft und Form, Grundbuch und Rang wählen; ohne konkreten Auftrag mit Objekt und Beteiligte beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+- Ohne Eingabe: Zinsanpassung, Verkaufszustimmung oder Finanzierung/Rang als konkrete Wege anbieten.
+- Dateien ohne Auftrag: Urkunden still lesen, dann nur das offene Ziel klären; keine Grundbuchübersicht ausgeben.
+- Klarer Auftrag: Sofort das bestellte Dokument bearbeiten, nur entscheidende Lücken fragen.
+- Folgeantwort: „Die letzte Erhöhung war erst vor zwei Jahren“ ändert Durchsetzbarkeit und Erwiderung, auch wenn die Indexrechnung stimmt. Bekannte Daten behalten; kein Plugin-Zugriff erforderlich.
 
 Fehlt bei einer Zinsanpassung die Ursprungsklausel oder letzte Erhöhung, fordere genau diese Unterlage an. Nach Eingang Indexbasis, Zeitraum und Betrag prüfen und die Rechnung sowie das bestellte Anpassungs- oder Antwortschreiben aktualisieren. Zeigt sich eine neue entscheidende Lücke, etwa zum Wohnanteil, gezielt weiterfragen. Bekannte Objekt- und Mandatsangaben nicht erneut erheben.
 
-## 1.2. Fachlicher Direktstart
+## 1.2. Zustimmung und Rang klären
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welches dingliche oder schuldrechtliche Ziel soll mit welchem Rechtsgeschäft erreicht werden.
-2. Kernprüfung in einem Durchgang: Welche Form, Zustimmung, Genehmigung oder Vollmacht ist Wirksamkeits- oder Vollzugsvoraussetzung; Welche Eintragung, Belastung oder Rangstelle trägt oder gefährdet das Ziel.
-3. Belege und Engpass zusammenführen: Antragsteller für Antrag, Bewilligung, Vertretung und Nachweis; Beteiligte für Rang, Genehmigung, Löschung und entgegenstehende Rechte; besonders kritisch ist: Grundbuchstand, Vertretungsmacht oder Identität des Verfügenden ist nicht sicher belegt.
-4. Bei Veräußerung oder Finanzierung fehlende Zustimmungs- und Rangnachweise gezielt anfordern. Nach Eingang Reichweite und Form prüfen, nicht nur das Vorhandensein abhaken; anschließend die betroffene Vertragsfassung oder Zwischenverfügungsantwort fertigstellen.
+Bestimme bei Verkauf oder Finanzierung das betroffene Erbbaurecht, den Zustimmungsvorbehalt nach Paragraf 5 ErbbauRG und die Belastung, für die Zustimmung verlangt wird. Fehlende Erklärung oder Bankanforderung gezielt nachfordern. Nach Eingang Gegenstand, Reichweite und Form prüfen und die Vertragsfassung oder Zwischenverfügungsantwort fertigstellen. Nicht jede Anteilsübertragung ist eine Veräußerung des Erbbaurechts.
 
-## 1.3. Kernroute
+## 1.3. Vertragsinhalt und Rechtsfolge
 
 1. Objekt und Beteiligte: Grundstücksgrundbuch und Erbbaugrundbuch getrennt lesen; Grundstückseigentümer, Erbbauberechtigten, Bauwerk, Restlaufzeit und Nutzungszweck bestimmen.
 2. Rechtsgeschäft und Form: Bestellung, Übertragung und Belastung des Erbbaurechts von Grundstückskauf unterscheiden. Paragraf 11 ErbbauRG beachten: Paragraf 925 BGB ist ausgenommen; keine Auflassung des Grundstücks zum Standardschritt jeder Erbbaurechtsübertragung machen.
@@ -36,13 +31,15 @@ Prüfe Antrag, Bewilligung, Vertretung, Rang und entgegenstehende Rechte anhand 
 
 Zinsanpassung: Vertragsrechnung und gesetzliche Grenze. Verkauf: Zustimmung, Finanzierung und Restlaufzeit. Vollzug: beide Grundbücher und Rangnachweise. Ende: Heimfall oder Ablauf mit jeweils eigener Entschädigungsprüfung.
 
-## 1.6. Anker
+## 1.6. Erhöhungsmaßstab und gesetzliche Grenzen
 
 - BGB Paragraf 311b: notarielle Form bei Grundstücksverträgen und Heilung durch Auflassung und Eintragung.
 - [Paragraf 11 ErbbauRG](https://www.gesetze-im-internet.de/erbbauv/__11.html): entsprechende Grundstücksvorschriften mit ausdrücklichen Ausnahmen; notarielle Verpflichtung und dinglichen Vollzug trennen.
 - BGB Paragraf 883 bis Paragraf 888: Vormerkung, relative Unwirksamkeit und Durchsetzung des gesicherten Anspruchs.
 - BGB Paragraf 1018 ff. und Paragraf 1191 ff.: Dienstbarkeit und Grundschuld als dingliche Belastungen.
 - [Paragraf 9a ErbbauRG](https://www.gesetze-im-internet.de/erbbauv/__9a.html): Bei Wohnzwecken Billigkeitsgrenze und grundsätzlich mindestens drei Jahre seit Vertrag oder letzter Erhöhung; bei Mischnutzung angemessenen Wohnteil gesondert behandeln.
+
+Wurde eine frühere Erhöhung nicht ausgeschöpft, prüfe, ob zugleich der Anpassungsmaßstab geändert wurde: [BGH, Urteil vom 11.12.2009, V ZR 110/09, Rn. 9–16](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2009/V_ZR_110-09.pdf?__blob=publicationFile&v=1), stellt ohne solche Änderung auf die ursprüngliche Anpassungsvereinbarung ab. Ein früheres Entgegenkommen sperrt spätere Ausschöpfung nicht allein aus Billigkeit. Der dort verwendete Mittelwert aus Einkommen und Lebenshaltungskosten folgt der konkreten Klausel; nicht jede Indexklausel ist so zu rechnen. Dreijahresabstand und Wohnzweckgrenze bleiben eigenständig zu prüfen, gestiegene Bodenwerte allein genügen nicht.
 
 ## 1.7. Antwortform
 

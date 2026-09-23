@@ -1,21 +1,36 @@
 {
   "schema_version": 1,
   "plugin": "rechtsberatungsstelle",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/rdg/__6.html",
       "checked_on": "2026-09-14",
       "supports": "Anforderungen an unentgeltliche Rechtsdienstleistungen außerhalb enger persönlicher Beziehungen und inhaltlich erforderliche Anleitung."
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/entscheidungen/rk20090806_1bvr032209.html",
+      "checked_on": "2026-09-22",
+      "supports": "Keine pauschale Verweisung an die Ausgangsbehörde zur Beratung über den Widerspruch gegen ihre Entscheidung. Grenze: Keine automatische Beratungshilfebewilligung oder Prozessvertretungsbefugnis studentischer Stellen. Amtlicher Text im Suchindex einschließlich entscheidender Begründung geprüft; konkrete wirtschaftliche Voraussetzungen bleiben fallabhängig."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/rdg/__6.html",
+      "checked_on": "2026-09-23",
+      "supports": "Abrechnungszuordnung, tatsächlich geprüfte Fassung, zeitlich lückenlose Übergabe und begrenzte externe Übernahmeanfrage. Prüftiefe: Anleitungsnorm erneut gelesen; keine tatsächliche Freigabe oder Vertretungsbefugnis einer Einrichtung geprüft."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der vollständige Mini wurde auf RDG-Anleitung, Beratungsumfang und Semesterübergabe geprüft.",
+    "reason": "Kurzprompt individuell auf Einstieg, fachliche Fortsetzung und vollständiges Arbeitsprodukt geprüft. Abrechnungszuordnung, tatsächlich geprüfte Fassung, zeitlich lückenlose Übergabe und begrenzte externe Übernahmeanfrage.",
     "changes": [
-      "Nach Zustellungsbeleg oder bestätigter Nachfolge Frist und Verantwortung aktualisieren und das bestellte Schreiben fertigstellen."
+      "Bestehender Fall- und Übergabeeinstieg bewahrt; konkreter unabhängiger Beratungsbedarf im Behördenwiderspruch statt pauschaler Verweisung ergänzt.",
+      "Keine pauschale Verweisung an die Ausgangsbehörde zur Beratung über den Widerspruch gegen ihre Entscheidung. Grenze: Keine automatische Beratungshilfebewilligung oder Prozessvertretungsbefugnis studentischer Stellen.",
+      "Spätere Übernahme -> Zwischenverantwortung und Rückruf konkret zuweisen; Zahlungsbeleg -> Betrag und Brief korrigieren.",
+      "Abrechnungszuordnung, tatsächlich geprüfte Fassung, zeitlich lückenlose Übergabe und begrenzte externe Übernahmeanfrage."
     ],
-    "sha256": "a0d4dd5e5bb3391b6f7ab7220ae4c20cd88f83e58be6a087523af243fefd64d7"
+    "sha256": "bc530c744655fb0e6fe5326cd0d775968a0855c7ec9e883bdc229d41bc994fa2",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
   },
   "selection": {
     "positive": [
@@ -63,10 +78,52 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die gesamte Werkstatt wurde auf Beratungsbefugnis, Finanzierung, Anleitung und Übergabe gelesen.",
+    "reason": "Werkstatt individuell auf Einstieg, fachliche Fortsetzung und vollständiges Arbeitsprodukt geprüft. Abrechnungszuordnung, tatsächlich geprüfte Fassung, zeitlich lückenlose Übergabe und begrenzte externe Übernahmeanfrage.",
     "changes": [
-      "RDG-Tatbestände getrennt; nachträglichen Beratungshilfeantrag berücksichtigt und fremde Hochschulrechtsroutine nicht allgemein vorausgesetzt."
+      "Bestehender Fall- und Übergabeeinstieg bewahrt; konkreter unabhängiger Beratungsbedarf im Behördenwiderspruch statt pauschaler Verweisung ergänzt.",
+      "Keine pauschale Verweisung an die Ausgangsbehörde zur Beratung über den Widerspruch gegen ihre Entscheidung. Grenze: Keine automatische Beratungshilfebewilligung oder Prozessvertretungsbefugnis studentischer Stellen.",
+      "Spätere Übernahme -> Zwischenverantwortung und Rückruf konkret zuweisen; Zahlungsbeleg -> Betrag und Brief korrigieren.",
+      "Abrechnungszuordnung, tatsächlich geprüfte Fassung, zeitlich lückenlose Übergabe und begrenzte externe Übernahmeanfrage."
     ],
-    "sha256": "1198c89e470560efe3bef2b99b4e2884070785f388b599f7190db37d17c1e160"
+    "sha256": "882fc7450b0036d5606280a9a3110bd91320ecaeffa0bfb90e8d5399e14dbe9a",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "rechtsberatungsstelle/rechtsberatungsstelle-werkstatt.md",
+      "rechtsberatungsstelle/rechtsberatungsstelle-schnellstart.md"
+    ],
+    "opening_change": "Bestehender Fall- und Übergabeeinstieg bewahrt; konkreter unabhängiger Beratungsbedarf im Behördenwiderspruch statt pauschaler Verweisung ergänzt.",
+    "norms": [
+      "Paragraf 6 Absatz 2 RDG",
+      "Paragraf 1 BerHG",
+      "Artikel 3 Absatz 1 und Artikel 20 Absätze 1 und 3 GG"
+    ],
+    "decisions": [
+      {
+        "citation": "BVerfG, Beschluss vom 06.08.2009, 1 BvR 322/09, Randnummern 7 bis 9",
+        "url": "https://www.bundesverfassungsgericht.de/entscheidungen/rk20090806_1bvr032209.html",
+        "application": "Keine pauschale Verweisung an die Ausgangsbehörde zur Beratung über den Widerspruch gegen ihre Entscheidung.",
+        "limit": "Keine automatische Beratungshilfebewilligung oder Prozessvertretungsbefugnis studentischer Stellen."
+      }
+    ],
+    "remaining_limits": [
+      "Amtlicher Text im Suchindex einschließlich entscheidender Begründung geprüft; konkrete wirtschaftliche Voraussetzungen bleiben fallabhängig.",
+      "Workflow-Vertiefung 2026-09-23: Anleitungsnorm erneut gelesen; keine tatsächliche Freigabe oder Vertretungsbefugnis einer Einrichtung geprüft. Desk review; kein Live-Client-Test."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Mandantenbrief, dringliche Anleitung oder Semesterübergabe anbieten.",
+      "Bestehenden Fall still lesen, nur Beratungs- oder Übergabeziel klären.",
+      "Bestellten Brief oder Übergabevermerk ohne neues Erstinterview schreiben."
+    ],
+    "continuation": "Spätere Übernahme -> Zwischenverantwortung und Rückruf konkret zuweisen; Zahlungsbeleg -> Betrag und Brief korrigieren.",
+    "enrichment": "Abrechnungszuordnung, tatsächlich geprüfte Fassung, zeitlich lückenlose Übergabe und begrenzte externe Übernahmeanfrage.",
+    "limits": "desk review; no live client execution"
   }
 }

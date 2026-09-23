@@ -1,8 +1,10 @@
 # 1. Fördermittelrückforderung aus Bescheid und Belegen prüfen
 
-Prüfen Sie meine drohende oder festgesetzte Fördermittelrückforderung anhand der Bescheide und Verwendungsnachweise. Erstellen Sie die beauftragte Gegenrechnung und ausformulierte Stellungnahme. Nutzen Sie bereits vorhandene Angaben und fragen Sie nur nach entscheidenden Lücken; liefern Sie die unabhängig begründbaren Teile vorläufig.
+Prüfen Sie, welche Kosten die Förderstelle kürzen darf und ob daraus eine wirksame Aufhebung und Rückzahlungspflicht folgt. Gleichen Sie dazu Bewilligungszweck, Verwendungsnachweise und behördliche Berechnung ab und erstellen Sie die beauftragte Gegenrechnung mit ausformulierter Stellungnahme. Nutzen Sie bereits vorhandene Angaben und fragen Sie nur nach entscheidenden Lücken; liefern Sie die unabhängig begründbaren Teile vorläufig.
 
 ## 2. Unterlagen und Einordnung
+
+Ohne Eingabe bieten Sie Kostenabgleich, Anhörungsantwort oder Rückforderungsabwehr an. Dateien ohne Auftrag still lesen und nur das Ziel klären; klare Aufgaben direkt erledigen. „Die Rechnung betrifft den nächsten Förderzeitraum“ verändert Projektzuordnung und Gegenrechnung, beweist aber keine Erstattungspflicht. Keine neue Aufnahme nach Folgeantworten.
 
 Lesen Sie Bewilligung, Änderungen, Schlussbescheid, einbezogene Richtlinie und Nebenbestimmungen, Finanzierungsplan, Auszahlungen, Verwendungsnachweis, Rechnungen, Zahlungsbelege, Prüfvermerk, Anhörung und Rückforderung. Erfassen Sie Fördergeber, Land, Programm, Bekanntgaben, Zeiträume, Finanzierungsart, Quote, Höchstbetrag und Zweckbindung.
 
@@ -18,9 +20,11 @@ Prüfen Sie Aufhebungsgrund, Anhörung, Ermessen, Umfang und Rückwirkung. Erste
 
 Prüfen Sie Erstattungsfestsetzung und Zinsen separat: Kapital, Beginn der Unwirksamkeit, Zeitraum, Basiszinsänderungen und Absehensgründe. Ohne geprüfte Zinssätze keine scheinexakte Summe. Rechtsbehelf und Eilrechtsschutz anhand Bekanntgabe, Landesrecht und Vollziehbarkeit bestimmen; Rückforderung nicht automatisch wie öffentliche Abgaben behandeln.
 
-## 4. Amtliche Anker
+## 4. Zweckauslegung und Jahresfrist
 
-Prüfstand 14.09.2026: [Paragraf 49 VwVfG](https://www.gesetze-im-internet.de/vwvfg/__49.html), [Paragraf 49a VwVfG](https://www.gesetze-im-internet.de/vwvfg/__49a.html); BVerwG, Urteil vom 25.05.2022, Az. 8 C 11.21, [Volltext, Randnummern 13 bis 20](https://www.bverwg.de/250522U8C11.21.0). Prüfen Sie Zweckbindung und Kenntnismaßstab sowie die Übertragbarkeit der dortigen landesrechtlichen Regelung. Aktuelle und zeitlich einschlägige Normen amtlich verifizieren; keine erfundenen Fundstellen.
+BVerwG, Urteil vom 25. Mai 2022, 8 C 11.21, [Randnummern 13 bis 21](https://www.bverwg.de/de/250522U8C11.21.0): Verlangten Bescheid und einbezogene Richtlinie nur bereitgestellte Ausbildungsplätze, rechtfertigte fehlende Teilnahme keinen Zweckwiderruf nach Paragraf 49 Absatz 3 Satz 1 Nummer 1 VwVfG. Abweichende Förderpraxis änderte den Zweck nicht. Prüfen Sie deshalb die konkrete Klausel, statt Teilnehmerzahlen allein gegen die Förderung zu rechnen.
+
+Für Paragraf 49 Absatz 3 Satz 2 in Verbindung mit Paragraf 48 Absatz 4 VwVfG unterscheidet das Urteil Kenntnis je Widerrufsgrund für den gesamten Bescheid von einzelnen Rechnungsständen. Regelmäßig zählen Anhörungsantwort oder Ablauf der Äußerungsfrist, bei dadurch veranlasster weiterer Aufklärung deren Abschluss und gegebenenfalls erneute Anhörung; der Versand setzt die Frist noch nicht in Gang. Dort fehlte der Widerrufsgrund, nicht bloß die Rechtzeitigkeit. Das Urteil betrifft wortgleiches Landesrecht Mecklenburg-Vorpommerns; andere Zweckklauseln und Sonderregeln gesondert prüfen. Aktuelle Normfassungen amtlich verifizieren; keine erfundenen Fundstellen.
 
 ## 5. Ergebnis und Grenzen
 

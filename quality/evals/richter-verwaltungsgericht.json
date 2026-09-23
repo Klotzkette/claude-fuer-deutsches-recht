@@ -1,34 +1,59 @@
 {
   "schema_version": 1,
   "plugin": "richter-verwaltungsgericht",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/vwgo/__123.html",
       "checked_on": "2026-09-14",
       "supports": "Vorläufige Sicherungs- und Regelungsanordnung und Abgrenzung zu Paragrafen 80 und 80a."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vwgo/__123.html",
+      "checked_on": "2026-09-22",
+      "supports": "Amtlichen Text zu Paragraf 123 VwGO gelesen; Bezug: Angegriffene Regelung oder verlangte Leistung mit rechtzeitigem Schutz und bestimmtem Tenor verbinden. Keine vollständige neue Verifikation sämtlicher weiterer Normen des Plugins."
+    },
+    {
+      "url": "https://www.bverwg.de/de/pm/2025/31",
+      "checked_on": "2026-09-22",
+      "supports": "BVerwG, Beschluss vom 14.04.2025, 10 VR 3.25: Amtlich mitveröffentlichte Entscheidungsgründe Rn. 9 bis 18: Eilgrund trotz fehlenden Auskunftsanspruchs; zeitkritische Informationen und entgegenstehende Schutzinteressen getrennt prüfen. Entscheidende Gründe in amtlicher Veröffentlichung gelesen, nicht nur Pressezusammenfassung. Presse/BND-Fall, kein allgemeiner Anspruch auf Akteneinsicht und keine ungeprüfte Übertragung spezifischer Geheimhaltungsgründe."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vwgo/__44a.html",
+      "checked_on": "2026-09-22",
+      "supports": "Amtlichen Text gelesen: Rechtsbehelf gegen behördliche Verfahrenshandlung grundsätzlich mit Sachentscheidung, Ausnahmen insbesondere vollstreckbare Handlung oder Nichtbeteiligter. Verfahrensakteneinsicht von eigenständigem Informationsanspruch trennen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vwgo/__123.html",
+      "checked_on": "2026-09-23",
+      "supports": "Zweckbezogener Informationszugang, geschützte Teile, aktueller Vollzugsstand, fehlende Ermessensvorgänge und Streitgegenstandswechsel. Quellenstatus: Paragraf 123 erneut amtlich gelesen; vorhandene Begrenzung des presserechtlichen BND-Falls bewahrt, keine neue Länderrechtsprüfung behauptet."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Mini vollständig gelesen: Eilwege und maßgeblicher Zeitpunkt waren differenziert, die Fortsetzung nach nachgereichtem Zustellungsnachweis oder Verwaltungsvorgang blieb jedoch zu unbestimmt.",
+    "reason": "Individuelle Lektüre und Workflow-Vertiefung: Verschobener Termin -> Informationsnutzen und Dringlichkeit ändern; vollzogene Maßnahme -> wirksames aktuelles Rechtsschutzziel prüfen. Desk review, keine Live-Client-Ausführung.",
     "changes": [
-      "Nachgereichte Bekanntgabe- und Ermessensunterlagen ausdrücklich in Fristprüfung, Würdigung und Tenor einarbeiten lassen.",
-      "Neue Vollzugsereignisse mit erneuter Dringlichkeitsprüfung verbunden.",
-      "Gezielte weitere Klärung und Fertigstellung des bestellten Dokuments statt einmaliger Rückfrage vorgesehen; Quellenstatus getrennt."
+      "Zeitkritisches Informationsbegehren nach Anspruch und Eilgrund getrennt; Paragraf 44a ergänzt, Pressemaßstab ausdrücklich nicht pauschal auf Akteneinsicht übertragen; alte ungeprüfte Aktenzeichen entfernt.",
+      "Amtlich mitveröffentlichte Entscheidungsgründe Rn. 9 bis 18: Eilgrund trotz fehlenden Auskunftsanspruchs; zeitkritische Informationen und entgegenstehende Schutzinteressen getrennt prüfen.",
+      "Verschobener Termin -> Informationsnutzen und Dringlichkeit ändern; vollzogene Maßnahme -> wirksames aktuelles Rechtsschutzziel prüfen.",
+      "Zweckbezogener Informationszugang, geschützte Teile, aktueller Vollzugsstand, fehlende Ermessensvorgänge und Streitgegenstandswechsel."
     ],
-    "sha256": "7f02e5b475fab7e4b51d385cace764597c14234554c303528ff8e42ed71a148d"
+    "sha256": "ffb84bca0a156138c203ec182c926fffdc3fad06c3f9b436c0c85326f44995b2",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt vollständig gelesen und nach Überarbeitung nochmals vollständig geprüft: Wiederholte Tabellen, Musterfragmente und zwei parallele Routenkapitel ersetzten einen durchgehenden gerichtlichen Bearbeitungsablauf.",
+    "reason": "Individuelle Lektüre und Workflow-Vertiefung: Zweckbezogener Informationszugang, geschützte Teile, aktueller Vollzugsstand, fehlende Ermessensvorgänge und Streitgegenstandswechsel. Desk review, keine Live-Client-Ausführung.",
     "changes": [
-      "Begehren, Eilrechtsschutz, Aktenaufklärung, materielle Prüfung und Entscheidung zu einem fortlaufenden Arbeitsgang gegliedert.",
-      "Fehlende Vollzugs- und Behördenunterlagen mit konkreter Nachforderung und anschließender Anpassung von Abwägung und Tenor verbunden.",
-      "Anfechtung, Vornahme und Bescheidung sowie Urteilsinhalt und Berichtigung offenbarer Unrichtigkeiten unterschieden.",
-      "Vorhandene ältere Rechtsprechungsanker als noch zu prüfende Recherchehinweise erhalten; keine frische Verifikation dieser Entscheidungen behauptet."
+      "Angegriffene Regelung oder verlangte Leistung mit rechtzeitigem Schutz und bestimmtem Tenor verbinden.",
+      "Amtlich mitveröffentlichte Entscheidungsgründe Rn. 9 bis 18: Eilgrund trotz fehlenden Auskunftsanspruchs; zeitkritische Informationen und entgegenstehende Schutzinteressen getrennt prüfen.",
+      "Verschobener Termin -> Informationsnutzen und Dringlichkeit ändern; vollzogene Maßnahme -> wirksames aktuelles Rechtsschutzziel prüfen.",
+      "Zweckbezogener Informationszugang, geschützte Teile, aktueller Vollzugsstand, fehlende Ermessensvorgänge und Streitgegenstandswechsel."
     ],
-    "sha256": "b7c7ffdf149b9b35d35b67d5f3de1e144d1ac5d16ee477d3a149f7b40b8ad194"
+    "sha256": "8450e4d4f7a58a5ec70e7e855257103336c677af3c6c96d55ec9ec58d8f1e70d",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
   },
   "selection": {
     "positive": [
@@ -73,5 +98,47 @@
       ],
       "target_skill": "06-eilrechtsschutz-paragraf-123"
     }
-  ]
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "gerichtsplugins/richter-verwaltungsgericht/README.md",
+      "gerichtsplugins/richter-verwaltungsgericht/richter-verwaltungsgericht-werkstatt.md",
+      "gerichtsplugins/richter-verwaltungsgericht/richter-verwaltungsgericht-schnellstart.md",
+      "quality/evals/richter-verwaltungsgericht.json"
+    ],
+    "opening_change": "Angegriffene Regelung oder verlangte Leistung mit rechtzeitigem Schutz und bestimmtem Tenor verbinden",
+    "norms": [
+      "Paragraf 123 VwGO",
+      "Paragraf 44a VwGO",
+      "Artikel 19 Absatz 4 GG",
+      "Artikel 5 Absatz 1 Satz 2 GG"
+    ],
+    "decisions": [
+      {
+        "citation": "BVerwG, Beschluss vom 14.04.2025, 10 VR 3.25",
+        "url": "https://www.bverwg.de/de/pm/2025/31",
+        "application": "Amtlich mitveröffentlichte Entscheidungsgründe Rn. 9 bis 18: Eilgrund trotz fehlenden Auskunftsanspruchs; zeitkritische Informationen und entgegenstehende Schutzinteressen getrennt prüfen.",
+        "limit": "Entscheidende Gründe in amtlicher Veröffentlichung gelesen, nicht nur Pressezusammenfassung. Presse/BND-Fall, kein allgemeiner Anspruch auf Akteneinsicht und keine ungeprüfte Übertragung spezifischer Geheimhaltungsgründe."
+      }
+    ],
+    "remaining_limits": [
+      "Entscheidende Gründe in amtlicher Veröffentlichung gelesen, nicht nur Pressezusammenfassung. Presse/BND-Fall, kein allgemeiner Anspruch auf Akteneinsicht und keine ungeprüfte Übertragung spezifischer Geheimhaltungsgründe.",
+      "Keine umfassende neue Prüfung des jeweils anwendbaren besonderen Verwaltungsrechts; keine Live-Gerichtsakte.",
+      "Individuelle redaktionelle Akten- und Quellenprüfung (desk review), kein Live-Client- oder Modelltest.",
+      "Workflow-Vertiefung 2026-09-23: Paragraf 123 erneut amtlich gelesen; vorhandene Begrenzung des presserechtlichen BND-Falls bewahrt, keine neue Länderrechtsprüfung behauptet. Desk review; kein Live-Client-Test."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Vollzugsstopp, Informationszugang oder Hauptsacheentscheidung auswählen.",
+      "Bescheide und Vollzugsbelege still lesen; nur Produkt klären.",
+      "Bestellten neutralen Entwurf unmittelbar ausarbeiten."
+    ],
+    "continuation": "Verschobener Termin -> Informationsnutzen und Dringlichkeit ändern; vollzogene Maßnahme -> wirksames aktuelles Rechtsschutzziel prüfen.",
+    "enrichment": "Zweckbezogener Informationszugang, geschützte Teile, aktueller Vollzugsstand, fehlende Ermessensvorgänge und Streitgegenstandswechsel.",
+    "limits": "desk review; no live client execution"
+  }
 }

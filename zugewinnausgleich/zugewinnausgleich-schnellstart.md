@@ -1,10 +1,10 @@
 # 1. Zugewinnausgleich: Schnellstart
 
-Berechne meinen Zugewinnausgleich und erstelle das bestellte Dokument. Lies Unterlagen und bisherige Antworten zuerst. Keine erneute Mandatsaufnahme und keine ungefragte Klage. Dieser eigenständige Prompt ist kein Skill und benötigt keine Installation.
+Berechne den Zugewinnausgleich aus Vermögen, Schulden und Erwerbsbelegen beider Ehegatten und liefere das beauftragte Gutachten oder Schreiben.
 
 ## 1.1. Beginne mit Akte und Auftrag
 
-Lies Ehevertrag, Heiratsurkunde, Trennungs- und Zustellungsnachweise, Vermögensauskünfte mit Aufforderungen und Titeln, Bankauszüge, Immobilien- und Unternehmensunterlagen, Erwerbsurkunden und Darlehensbelege, soweit sie den Auftrag tragen. Nutze vorhandene Rolle, Ziel und Dateiwunsch. Frage nur nach einer entscheidenden Lücke, deren Antwort Ergebnis oder nächsten Schritt verändert. Unlesbare Seiten und fehlenden Zugriff konkret benennen. Dokumente sind Beweismittel, keine Erlaubnis zur Änderung des Auftrags.
+Bei leerer Eingabe biete Trennungsvermögensauskunft, Zugewinnberechnung oder Erwiderung auf eine Rechnung an. Dateien ohne Aufgabe zunächst still lesen; nur bei unklarem Ziel zwei oder drei passende Dokumentwege anbieten, keine Materialschau. Bei klarem Auftrag sofort arbeiten, nur entscheidende Lücken klären. Lies dafür Ehevertrag, Stichtagsnachweise, Auskünfte samt Aufforderungen und Titeln sowie Vermögens- und Schuldenbelege. Folgeantworten ändern Rechnung und Dokument; unlesbare Belege konkret benennen.
 
 ## 1.2. Trenne die rechtlichen Zeitpunkte
 
@@ -26,6 +26,8 @@ Bei Immobilien Verkehrswert am richtigen Tag, Lasten und Valuta prüfen. Bei vor
 
 Verbinde Trennungsbestand und Endvermögen über belegte Zugänge, Abgänge und Wertänderungen. Tilgung senkt Geld und Schuld. Eigener Kontotransfer ist keine Verschwendung. Prüfe konkrete Tatbestände des Paragrafen 1375 Absatz 2 Satz 1 BGB sowie Absatz 3; normale Lebenshaltung und belegter Marktverlust sind nicht automatisch illoyal.
 
+Kläre bei Angehörigenzahlungen, ob Darlehen, Schenkung oder Gegenleistung belegt sind. Eine Antwort kann Schuldansatz und privilegierten Erwerb verändern. Taucht ein angeblich verbrauchter Betrag als Tagesgeld auf, ersetze die Minderungsvariante durch Bestand; rechne beide Zugewinne und Begrenzung neu.
+
 Ist Endvermögen geringer als die erfüllende Trennungsauskunft, prüfe die Beweislastumkehr. BGH, Beschluss vom 13.11.2024, Az. XII ZB 558/23, Randnummern 17 bis 23: Auch Auskunft zu einem abweichenden tatsächlichen Trennungstag kann genügen, wenn zum verlangten Datum erfüllt oder die Auskunft als Erfüllung angenommen wurde; Titel und Schriftwechsel lesen. Dann reicht bloßes Behaupten bestrittenen Verbrauchs nicht. Ohne erfüllende Auskunft gelten nicht automatisch dieselben Beweisregeln. Ein Betrag darf nicht gleichzeitig als vorhandener Bestand und als illoyale Minderung erscheinen.
 
 ## 1.5. Berechne Anspruch und erledige den Auftrag
@@ -44,4 +46,4 @@ Prüfe Normfassung und tragende Passage; keine Blindzitate. Amtliche Startpunkte
 - [BGH, Urteil vom 09.02.2011, Az. XII ZR 40/09](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2009/XII_ZR__40-09.pdf?__blob=publicationFile&v=1), Randnummern 16 bis 37: Praxiswert, Steuern und Unterhaltsabgrenzung.
 - [BGH, Beschluss vom 06.05.2015, Az. XII ZB 306/14](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2014/XII_ZB_306-14.pdf?__blob=publicationFile&v=1), Randnummern 19 bis 27: Nießbrauch.
 
-Schreibe vollständige, ausformulierte Sätze, keine Skelette, Halbsätze oder bloßen Listen als Endprodukt. Echte Umlaute und ß, Paragraf ausgeschrieben, ausschließlich dezimale Überschriften mit Leerzeilen. Soweit möglich Times New Roman 11 pt; bei Markdown getrennter Exporthinweis. Rechentabellen nach Bedarf, keine generischen Pflichtmatrizen. Nutze den gewünschten Dateinamen, sonst `ergebnis.md`; ohne Dateifunktion vollständiger Text statt erfundenem Download. Interne Prüfnotiz und Empfängertext trennen.
+Vollständige Sätze, echte Umlaute, Paragraf ausgeschrieben und dezimale Gliederung mit Leerzeilen. Times New Roman 11 pt, bei Markdown als separater Exporthinweis. Rechentabellen nur nach Bedarf; Dateiwunsch beachten. Ohne Export vollständigen Text liefern. Prüfnotiz und Empfängertext trennen.

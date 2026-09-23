@@ -1,8 +1,10 @@
 # 1. Annahmeverzugslohn und Anrechnung belastbar rechnen
 
-Bearbeite meinen Kündigungs- oder Freistellungsfall bis zur prüfbaren Lohnforderung beziehungsweise Abwehr. Nutze vorhandene Unterlagen zuerst; keine allgemeine Abfindungsformel und kein Arbeitszeugnischeck. Frage nur nach fehlenden Angaben zu Zeitraum, Vergütung, Zahlungen oder Anrechnung, die das bestellte Ergebnis beeinflussen. Eine vorhandene Abrechnung ersetzt etwa keinen Nachweis über tatsächlich erhaltene Sozialleistungen.
+Berechne, welcher Lohn nach der Kündigung oder Freistellung offen ist und welche Zwischenverdienste oder Sozialleistungen anzurechnen sind. Begründe daraus die beauftragte Forderung oder Abwehr. Nutze vorhandene Unterlagen zuerst; keine allgemeine Abfindungsformel und kein Arbeitszeugnischeck. Frage nur nach fehlenden Angaben zu Zeitraum, Vergütung, Zahlungen oder Anrechnung. Eine Abrechnung ersetzt keinen Nachweis tatsächlich erhaltener Sozialleistungen.
 
 ## 1.1. Sachverhalt und Zeitabschnitte
+
+Ohne Eingabe biete Lohnrechnung, Zahlungsentwurf oder Abwehr eines Anrechnungseinwands an. Dateien ohne Auftrag still lesen, dann das Ziel klären; keine Periodentabelle vorab ausgeben. Bei klarem Auftrag direkt ausarbeiten. Folgeantwort „Das Arbeitslosengeld wurde zurückgezahlt“ ändert Übergang, Anrechnung und Antrag; nicht doppelt abziehen. Nur entscheidende Lücken fragen, bekannte Daten behalten. Kein Plugin-Zugriff nötig.
 
 Lies Vertrag, Kündigung, Freistellung, Abrechnungen, gerichtliche Entscheidungen, Leistungsbescheide und Stellenangebote. Erfasse laufende Kündigungsfrist, Zeit nach behauptetem Ende und Wiederbeschäftigung getrennt. Prüfe Arbeitsangebot oder Entbehrlichkeit, Arbeitsfähigkeit und Arbeitswillen. Urlaub, Krankheit und vertraglich zugesagte Freistellungsvergütung nicht pauschal als Annahmeverzug behandeln. Ein offener Kündigungsschutzprozess verlangt bedingte Berechnungsvarianten.
 
@@ -16,7 +18,7 @@ Ordne tatsächlichen Zwischenverdienst nach Entstehungszeitraum und Anrechnungsg
 
 Führe Sozialleistungen separat mit Träger, Nettobetrag, Zeitraum, Rückzahlung und Anspruchsübergang. Vermische Nettosozialleistungen nicht mit Bruttolohn zu einer scheinbaren Nettoforderung. Erläutere gegebenenfalls den Antrag auf Bruttovergütung abzüglich bezifferter Nettoleistungen. Keine Doppelanrechnung von Rückzahlungen, Zwischenverdienst und Erstattungen.
 
-Für böswillig unterlassenen Erwerb prüfe jede konkrete Stelle: Zeitpunkt der Kenntnis, Tätigkeit, Arbeitsort, Arbeitszeit, Vergütung, möglicher Beginn, Zumutbarkeit, Bewerbung und Reaktion. Stellenanzeigen allein belegen keine sichere Einstellung. Während einseitiger Freistellung vor Fristablauf die besondere Interessenabwägung beachten; diese nicht auf die gesamte Zeit nach Entlassung übertragen. Fiktive Beträge nur als begründete Variante mit Beweisbedarf, nicht als feststehenden Abzug verwenden.
+Für böswillig unterlassenen Erwerb prüfe jede konkrete Stelle: Kenntniszeitpunkt, Tätigkeit, Arbeitsort, Arbeitszeit, Vergütung, Beginn, Zumutbarkeit, Bewerbung und Reaktion. Anzeigen belegen keine sichere Einstellung. Nach BAG, Urteil vom 12.02.2025, 5 AZR 127/24, Rn. 16 bis 25, begründet einseitige Freistellung ohne tragfähigen Grund regelmäßig keine Obliegenheit, schon vor Fristablauf anderweitig zu arbeiten. Diese Abwägung nicht auf die spätere Zeit nach Entlassung übertragen. Fiktive Beträge nur als begründete Variante mit Beweisbedarf verwenden.
 
 Trenne Arbeitgeberbeweislast, Auskunftsanspruch und sekundäre Darlegung des Arbeitnehmers. Selbständig einklagbare Auskunft betrifft behördliche Vermittlungsvorschläge und ihren Inhalt, nicht Bewerbungen und Ergebnisse. Dazu muss sich der Arbeitnehmer im Rahmen sekundärer Darlegung nach konkretem Arbeitgebervortrag zu geeigneten, zumutbaren Beschäftigungsmöglichkeiten erklären. Auskunft beweist keine Böswilligkeit. Keine pauschale Offenlegung privater Aktivitäten fordern.
 

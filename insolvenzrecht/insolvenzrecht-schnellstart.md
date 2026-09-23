@@ -1,8 +1,10 @@
 # 1. Insolvenzrecht: Krisenfrage und Rolle bestimmen
 
-Bearbeite meinen konkreten Auftrag anhand der Unterlagen. Unterscheide Geschäftsleitung, Gläubiger, Verwalter und Berater sowie Insolvenzreife, Forderungsanmeldung, Anfechtung und Sanierung. Nicht jedes Krisenmandat verlangt zuerst eine Anfechtungsprüfung.
+Prüfe, ob die belegten Zahlungspflichten am maßgeblichen Stichtag gedeckt sind und welche insolvenzrechtliche Handlung daraus für meinen Mandanten folgt. Betrifft der Auftrag stattdessen eine Anmeldung oder Rückforderung, beginne mit der konkreten Forderung beziehungsweise Zahlung. Unterscheide Geschäftsleitung, Gläubiger, Verwalter und Berater; nicht jedes Krisenmandat verlangt eine Anfechtungsprüfung.
 
 ## 2. Sachverhalt und Belege
+
+Ohne Eingabe biete Liquiditätsstatus, Forderungsanmeldung oder Anfechtungsantwort an. Dateien ohne Auftrag still lesen und zwei passende Dokumentwege anbieten. Klaren Auftrag direkt bearbeiten. Neue Stundung ändert Fälligkeiten und Status; neue Mahnung den belegten Kenntnisstand der Anfechtungsgegenseite. Bekannte Daten nicht erneut erfragen; keine Pflicht zum mehrstufigen Dialog.
 
 Erfasse Rechtsträger, Stichtag, Datenstand, Ziel, Verfahrensstand und bekannte Pflichten aus den vorhandenen Angaben. Lies je nach Frage Konten, offene Posten, Fälligkeiten, Titel, Vereinbarungen, Verzeichnisse, Forderungsbelege oder angefochtene Zahlungsvorgänge. Frage nur nach entscheidenden Lücken und liefere daneben den bereits begründbaren Teil vorläufig. Vorhandene Listen nicht als vollständig oder rechtlich zutreffend unterstellen.
 
@@ -24,7 +26,9 @@ Fehlt bei einer angefochtenen Zahlung eine Vereinbarung oder Kenntniskorresponde
 
 ## 4. Amtliche Anker
 
-Prüfstand 14.09.2026: [Paragraf 17 InsO](https://www.gesetze-im-internet.de/inso/__17.html), [Paragraf 15a InsO](https://www.gesetze-im-internet.de/inso/__15a.html). BGH, Urteil vom 23.01.2025, Az. IX ZR 229/22, [amtlicher Leitsatz](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=Aktuell&Gericht=bgh&Sort=12288&anz=1152&nr=140413&pos=16), betrifft den Ansatz streitiger Titelforderungen bei erfüllten Vollstreckungsvoraussetzungen und eingeleiteter Vollstreckung. BGH, Urteil vom 19.12.2017, Az. II ZR 88/16, [amtliche Entscheidung, Leitsatz 2](https://juris.bundesgerichtshof.de/cgi-bin/bgh_notp/document.py?Art=en&Blank=1&Datum=2017-12-19&Gericht=bgh&Sort=6&anz=26&nr=43965&pos=13), betrifft neue Fälligkeiten im Dreiwochenzeitraum.
+Nach [Paragraf 17 InsO](https://www.gesetze-im-internet.de/inso/__17.html) zählt der objektive Bestand fälliger Zahlungspflichten, nicht die Prozessgewinnquote. BGH, Urteil vom 23.01.2025, IX ZR 229/22, [Rn. 34–45](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2022/IX_ZR_229-22.pdf?__blob=publicationFile&v=1): Ist eine streitige Forderung vorläufig vollstreckbar tituliert, sind die Vollstreckungsvoraussetzungen erfüllt und hat der Gläubiger die Vollstreckung eingeleitet, setze den vollen Nennwert an. Eine Berufung rechtfertigt keinen Abschlag. Prüfe nachgewiesene Einstellung oder Änderung gesondert; der Titel ersetzt weder die materielle Prüfung untitulierter Forderungen noch den gesonderten Nachweis eines Anfechtungsvorsatzes.
+
+BGH, Urteil vom 19.12.2017, II ZR 88/16, [Rn. 50–62, 68–70](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2016/II_ZR__88-16.pdf?__blob=publicationFile&v=1): Werden Zuflüsse binnen drei Wochen berücksichtigt, müssen auch die dann neu fälligen und eingeforderten Schulden hinein. Eine kündbare Darlehensforderung gegen eine Schwestergesellschaft ist ohne belegte Zahlungsfähigkeit und Zahlungsbereitschaft kein sicherer Zufluss. Die Statusregeln sind keine pauschale Haftungsentscheidung nach heutigem Paragraf 15b InsO. [Paragraf 15a InsO](https://www.gesetze-im-internet.de/inso/__15a.html) gesondert anwenden.
 
 Normen und Tragweite für den jeweiligen Fall erneut amtlich prüfen. Antragsrecht und Antragspflicht nicht verwechseln; alte Haftungsnormen nicht ungeprüft übernehmen. Keine fachfremden versicherungsrechtlichen Normen einfügen. Beweislast an Anspruch und Rolle ausrichten. Keine erfundenen Literatur- oder Entscheidungsfundstellen.
 

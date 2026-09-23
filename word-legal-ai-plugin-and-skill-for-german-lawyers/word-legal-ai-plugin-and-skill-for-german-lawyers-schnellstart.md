@@ -1,10 +1,10 @@
-# Juristische Word-Dokumente bis zur fertigen Fassung bearbeiten
+# 1. Juristische Word-Dokumente bis zur fertigen Fassung bearbeiten
 
 ## 1. Ausgangsfassung lesen
 
-Bearbeite den verlangten Vertrag, Schriftsatz, Brief oder Vermerk. Lies die bezeichnete Datei, ihre Anlagen und die bisherigen Kommentare zuerst. Übernimm bekannte Angaben; ein einzelner Entwurf braucht keine vorgelagerte Dokumenteninventur.
+Arbeite vereinbarte Änderungen und freigegebene Kommentare in den Vertrag ein oder formuliere den belegten Vortrag zum verlangten Schriftsatz, Brief oder Gutachten aus. Lies Ausgangsdatei, Anlagen und Kommentare zuerst. Gleiche geänderte Begriffe, Termine und Verweise ab; ein einzelner Entwurf braucht keine vorgelagerte Inventur.
 
-Kläre nur, was für die Bearbeitung fehlt: maßgebliche Version, konkrete Änderung oder gewünschte Ausgabe. Die jüngste Datei ist nicht automatisch freigegeben. Erhalte Originale und arbeite in einer neuen Fassung. Bei unbekanntem Auftrag frage nach dem gewünschten Dokument, nicht nach sämtlichen Mandatsdaten.
+Bei leerer Eingabe biete Änderungsvereinbarung, kommentierte Vertragsüberarbeitung oder bereinigte Schriftsatzfassung an. Dateien ohne Aufgabe still lesen; nur bei unklarem Ziel zwei oder drei passende Dokumentwege anbieten, keine Materialschau. Bei klarem Auftrag sofort bearbeiten, nur entscheidende Lücken klären. Die jüngste Datei ist nicht automatisch freigegeben; Originale erhalten.
 
 ## 2. Den passenden Arbeitsweg ausführen
 
@@ -24,6 +24,8 @@ Unterscheide freigegebene Anweisungen, Vorschläge und offene Entscheidungen. Be
 
 Nach Antwort die gewählte Fassung in Text, Definitionen und Anlagen einarbeiten. Entsteht eine weitere entscheidende Lücke, gezielt nachfragen. Nicht erneut mit der allgemeinen Aufnahme beginnen und nicht nach bloßer Analyse abbrechen.
 
+Stehen im Term Sheet 30 und im Vertrag 14 Tage Zahlungsfrist, kläre die verbindliche Absprache und den Auslöser, etwa Rechnungszugang. Nach Antwort Klausel und Anlagen angleichen. Ein Kommentar „Haftung auf Jahresvergütung“ verlangt die konkrete Bezugsperiode und Prüfung vorhandener Ausnahmen. Bei widersprüchlichem Lieferschein tatsächlichen Lieferablauf klären; nach Antwort Bestreiten, Gegenvortrag und Beweisbezug ändern. Ungünstige Belege nicht verschweigen und keine bloße Sprachkorrektur in ein Tatsachenzugeständnis verwandeln.
+
 Kläre anhand des Auftrags, ob eine saubere Lesefassung, ein kommentierter Entwurf oder echte Änderungsverfolgung erforderlich ist. Roter Text oder eine Tabelle „alt/neu“ ist keine echte Word-Revision. Änderungen nicht pauschal annehmen, solange die Entscheidung offen ist. Ohne Revisionstechnik die angebotene Vergleichsdarstellung ausdrücklich als solche bezeichnen.
 
 ## 4. Word-Datei gestalten
@@ -37,6 +39,8 @@ Prüfe Kommentare, Revisionen, ausgeblendeten Text, Felder, eingebettete Objekte
 ## 5. Form und tatsächliche Ausgabe prüfen
 
 Formfragen nach Paragrafen 126, 126a und 126b BGB vom Layout unterscheiden. Ein Unterschriftsbild ist keine qualifizierte elektronische Signatur. Für gerichtliche elektronische Dokumente Paragraf 130a ZPO und aktuelle technische Vorgaben prüfen; Signatur, verantwortende Person und Versandweg getrennt betrachten.
+
+Bei Versand durch einen Mitarbeiter mit Mitarbeiterkarte benötigt der Schriftsatz die qualifizierte elektronische Signatur der verantwortenden Person. BAG, Beschluss vom 22.01.2025, 7 ABR 23/23, Rn. 33 bis 36 ([amtlich](https://www.bundesarbeitsgericht.de/entscheidung/7-abr-23-23/)), zu Paragraf 46c Absatz 3 ArbGG entsprechend Paragraf 130a Absatz 3 ZPO: Ein negativer Prüfvermerk ist nicht unwiderleglich; bei Widerspruch Originaldatei und tatsächliche Signatur klären. Prüfe die endgültige Versanddatei, nicht nur das Namensbild in Word. Nach Textänderung erneut prüfen. Der Fall verlangt keine Signatur jedes internen Entwurfs und bestätigt nicht dessen Inhalt.
 
 Öffne die erzeugte Datei erneut und kontrolliere die dargestellten Seiten. Prüfe insbesondere abgeschnittene Tabellen, verrutschte Verweise, Unterschriften und versehentlich sichtbare Kommentare. Bei PDF-Export auch die PDF prüfen. Keine Sichtprüfung behaupten, wenn nur Text ausgelesen werden konnte. Keine Makros oder aktiven Inhalte fremder Dokumente ausführen.
 

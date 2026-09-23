@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "insolvenzplan-starug-planwerkstatt",
-  "reviewed_on": "2026-09-17",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/inso/__244.html",
@@ -12,19 +12,55 @@
       "url": "https://www.gesetze-im-internet.de/starug/__25.html",
       "checked_on": "2026-09-14",
       "supports": "Amtlicher Volltext: mindestens drei Viertel der Stimmrechte in jeder Gruppe."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2016/IX_ZB__13-16.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Beschluss vom 20.07.2017, IX ZB 13/16, Rn. 9–16: Bei versprochener Drittkompensation volle und sichere Deckung einer Schlechterstellung prüfen: Bürgenbonität, Grundschuldrang und Grundstückswert statt bloßer Nennbeträge. Grenze: Altes InsO-Verfahren und Vorprüfung nach Paragraf 231 InsO; dort nur offensichtlicher, nahezu sicher erfolgreicher Minderheitenschutzangriff. Kein unmittelbarer StaRUG-Präzedenzfall."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__251.html",
+      "checked_on": "2026-09-22",
+      "supports": "Minderheitenschutz und bereitgestellte Ausgleichsmittel im geltenden Insolvenzplanrecht."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/starug/__64.html",
+      "checked_on": "2026-09-22",
+      "supports": "Eigenständige Voraussetzungen des Minderheitenschutzes im Restrukturierungsplan; InsO-Beschluss nicht direkt übertragen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__244.html",
+      "checked_on": "2026-09-23",
+      "supports": "Erneut gelesener amtlicher Wortlaut: Kopf- und Summenmehrheit der abstimmenden Gläubiger beim Insolvenzplan; kein Ersatz der gesonderten Stimmrechtsprüfung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/starug/__25.html",
+      "checked_on": "2026-09-23",
+      "supports": "Erneut gelesener amtlicher Wortlaut: mindestens drei Viertel aller Stimmrechte der Gruppe beim Restrukturierungsplan, keine zusätzliche Kopfmehrheit."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Vollständig geprüft: Geklärte Finanzierung und Forderungsstände führen zu neuen Quoten und Stimmgewichten sowie zur abgestimmten Planfassung. Der Mini verlangt keine erfundene Zustimmung und bleibt unverändert.",
+    "reason": "Vergleichsrechnung und versprochene Drittkompensation werden auf volle, sichere Deckung statt nomineller Zusagen geprüft. Individuelle Text- und Quellenprüfung, kein Live-Modelltest.",
     "changes": [
-      "Planinhalt, Vergleichsrechnung und Finanzierung konkretisiert.",
-      "Abstimmungsnenner und Mehrheiten beider Verfahren getrennt.",
-      "Gruppenmehrheit nicht mit Bestätigung oder automatischem Cram-down gleichgesetzt."
+      "IX ZB 13/16 führt zu Bonitäts-, Rang- und Wertnachweisen der Kompensation; Vorprüfung von späterem Minderheitenschutz getrennt.",
+      "InsO-Kopf-/Summenmehrheit und StaRUG-Mehrheit mit Beispielen erhalten; keine automatische Gleichsetzung der Planregime.",
+      "Vollständigen beauftragten Plan statt obligatorischer Folgeprodukte vorgesehen.",
+      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt."
     ],
-    "sha256": "e7cdd088ba4819c100c07e9c44da95cb0987931f0e02837bff29cebe98e791ae"
+    "sha256": "95b36782d8bf467e27ae4ad410fb65940a1bac8dfd44671499f4c0f757d8092c"
   },
-  "workshop_review": {"verdict":"revised","reason":"Die Ganztextprüfung bestätigte Rückfragen zu Finanzierung und Stimmrechten; die allgemeine Stationsproduktpflicht widersprach der konsistenten Fertigstellung des bestellten Planmoduls.","changes":["Forderungen, Sicherheiten und Vergleichsrechnung in Planmodul und erforderliche Anlagen führen lassen.","Belegte Zusagen von Annahmen und offenen Zustimmungen getrennt; zusätzliche Pflichtprodukte nach jedem Schritt ausgeschlossen."],"sha256":"bde86fc7376d8754069e89b8d64d0d6cac0efe50710dd2f123c94c665b9aecc2"},
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Die zwölf Planwege eigenständig neu formuliert: Auswahl, Gruppen, Rechte, Finanzierung, Mehrheit, Schutz, Bestätigung und Vollzug bleiben enthalten. Individuelle Text- und Quellenprüfung, kein Live-Modelltest.",
+    "changes": [
+      "IX ZB 13/16 führt zu Bonitäts-, Rang- und Wertnachweisen der Kompensation; Vorprüfung von späterem Minderheitenschutz getrennt.",
+      "InsO-Kopf-/Summenmehrheit und StaRUG-Mehrheit mit Beispielen erhalten; keine automatische Gleichsetzung der Planregime.",
+      "Vollständigen beauftragten Plan statt obligatorischer Folgeprodukte vorgesehen.",
+      "Neue Forderung mit Rang und Sicherungswert in Gruppen, Stimmrecht und Vergleich einordnen; bedingte Finanzierung, Verwertungsangebot, individueller Minderheitenschutz und planfassungsbezogene Stimmen nachvollziehbar verzweigen."
+    ],
+    "sha256": "343b7cb12be370b0c079320d28bc8aacad766b8490208c30bf721dd9d789db71"
+  },
   "selection": {
     "positive": [
       "Rechne die Gruppenmehrheiten unseres Insolvenzplans nach.",
@@ -68,5 +104,44 @@
       ],
       "target_skill": "abstimmung-mehrheiten-anlagenpaket"
     }
-  ]
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "insolvenzplan-starug-planwerkstatt/insolvenzplan-starug-planwerkstatt-werkstatt.md",
+      "insolvenzplan-starug-planwerkstatt/insolvenzplan-starug-planwerkstatt-schnellstart.md",
+      "insolvenzplan-starug-planwerkstatt/README.md",
+      "quality/evals/insolvenzplan-starug-planwerkstatt.json"
+    ],
+    "opening_change": "Geplanten Forderungseingriff, Finanzierung und Abstimmungsfähigkeit des konkreten Plans prüfen.",
+    "norms": [
+      "Paragrafen 231, 244, 245 und 251 InsO",
+      "Paragrafen 25 bis 28 und 64 StaRUG"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Beschluss vom 20.07.2017, IX ZB 13/16, Rn. 9–16",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2016/IX_ZB__13-16.pdf?__blob=publicationFile&v=1",
+        "application": "Bei versprochener Drittkompensation volle und sichere Deckung einer Schlechterstellung prüfen: Bürgenbonität, Grundschuldrang und Grundstückswert statt bloßer Nennbeträge.",
+        "limit": "Altes InsO-Verfahren und Vorprüfung nach Paragraf 231 InsO; dort nur offensichtlicher, nahezu sicher erfolgreicher Minderheitenschutzangriff. Kein unmittelbarer StaRUG-Präzedenzfall."
+      }
+    ],
+    "remaining_limits": [
+      "Redaktionelle Akten- und Quellenprüfung, kein Live-Client- oder Modelltest.",
+      "Historischer InsO-Beschluss ist kein StaRUG-Präzedenzfall; aktuelle gruppenspezifische Eingriffsmöglichkeiten und sämtliche Plansteuerfolgen nicht vollständig neu verifiziert.",
+      "Workflow-Ergänzung am 2026-09-23: individuelle Textprüfung, keine erneute Gesamtverifikation der bestehenden Entscheidungsanker; deren dokumentierte Quellen- und Zugriffsgrenzen bleiben bestehen."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Gruppen- und Mehrheitsprüfung, Vergleichsrechnung oder gestaltende Planregelung anbieten.",
+      "Dateien ohne Auftrag: Planfassung still lesen und zwischen passendem Planmodul und begrenzter Vergleichsrechnung wählen lassen.",
+      "Klarer Auftrag: die bestellte Rechnung oder Planregelung ohne vorgeschaltetes Sanierungsgutachten ausarbeiten."
+    ],
+    "continuation": "Neue Finanzierungsbedingung -> ersten ungedeckten Tag, Finanzplan, Zahlungsbedingung im gestaltenden Teil und Gläubigerbrief gemeinsam ändern.",
+    "enrichment": "Neue Forderung mit Rang und Sicherungswert in Gruppen, Stimmrecht und Vergleich einordnen; bedingte Finanzierung, Verwertungsangebot, individueller Minderheitenschutz und planfassungsbezogene Stimmen nachvollziehbar verzweigen.",
+    "limits": "desk review; no live client execution"
+  }
 }

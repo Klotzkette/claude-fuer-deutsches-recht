@@ -1,6 +1,6 @@
 # meinungspruefer
 
-**54 Skills** · Stand `v444.9.0`
+**54 Skills** · Stand `v445.0.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../meinungspruefer/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

@@ -1,10 +1,10 @@
 # 1. ERP-Abnahme und Nachtragsvergütung prüfen
 
-Bearbeite den B2B-Konflikt über das ERP-Einführungsprojekt bis zum bestellten Rechnungs- oder Abnahmeschreiben beziehungsweise Gutachten. Verknüpfe ursprünglichen Leistungsumfang, Tickets, Freigaben, Abnahme und Schlussrechnung.
+Prüfe, welcher Teil der ERP-Schlussrechnung geschuldet und bereits fällig ist, welche Tickets vereinbarte Fehlerbehebung betreffen und welche einen wirksamen Zusatzauftrag belegen. Gleiche Pflichtenheft, Teststände, Freigaben und Abnahmeerklärungen ab und verfasse das beauftragte Rechnungs- oder Abnahmeschreiben beziehungsweise Gutachten.
 
 ## 1.1. Sachverhalt zuerst
 
-Lies vorhandene Unterlagen und Antworten zuerst. Verändere keine Produktivsysteme und erkläre keine Abnahme, Kündigung oder Zahlungsverweigerung eigenmächtig.
+Ohne Eingabe biete Rechnungsabwehr, Abnahmeantwort oder Nachtragsprüfung an. Dateien ohne Aufgabe still lesen und nur das Ziel klären. Klare Aufgaben direkt bearbeiten. Auf „Der Test lief mit alten Stammdaten“ Testaussage und Verantwortlichkeit prüfen; Mangelbeschreibung und Einbehalt korrigieren. Keine Produktivänderung, Abnahme oder Kündigung ohne Freigabe.
 
 Lies Vertrag, Leistungsbeschreibung mit Fassungsstand, Zahlungsplan, Nachträge, Vertretungsregeln, Tests, Tickets, Abnahmeaufforderung und Reaktionen. Erfasse Rolle, Ziel, Termine, Produktivstart, Teilabnahmen und Mitwirkung. Trenne Lizenzüberlassung, Anpassung, Implementierung, Beratung und laufenden Betrieb nach der konkreten Leistungspflicht. Nicht allein aus der Bezeichnung ERP oder agilem Vorgehen auf den Vertragstyp schließen.
 
@@ -24,6 +24,8 @@ Rechne vereinbarte Vergütung plus belegte Nachträge minus Zahlungen und Gutsch
 
 Vor Abnahme grundsätzlich Erfüllung und allgemeines Leistungsstörungsrecht prüfen. Mängelrechte nach Paragraf 634 BGB grundsätzlich erst nach Abnahme; Ausnahme eines Abrechnungsverhältnisses eigens begründen. Ein bloßes Vorschussverlangen schafft diese Ausnahme nicht automatisch. Endgültige Abkehr vom bisherigen Anbieter als rechtlich erhebliche Entscheidung zur Freigabe stellen. Keine pauschale Zweiversuchsregel aus Kaufrecht übernehmen, keine allgemeine fünfjährige Softwaregewährleistung behaupten.
 
+Wende bei einem Vorschussverlangen vor Abnahme BGH, Urteil vom 19.01.2017, VII ZR 301/13, Randnummern 31 bis 48, an: Solange der Besteller weiterhin Vertragserfüllung durch den Anbieter verlangt, trägt das Vorschussverlangen kein Abrechnungsverhältnis. Kläre insbesondere, ob er nach Fertigstellungsangebot endgültig jede weitere Leistung des Anbieters ausschließt. Ohne diese Grundlage nicht Paragrafen 634 Nummer 2 und 637 Absatz 3 BGB vorziehen, sondern Paragraf 631 BGB und allgemeines Leistungsstörungsrecht prüfen. Die Entscheidung betraf Fassadenarbeiten; sie trägt den allgemeinen werkvertraglichen Maßstab, nicht die Einordnung jedes ERP-Vertrags oder einen Software-Nachtragsanspruch.
+
 ## 1.4. Ergebnis
 
 Erstelle das bestellte Schreiben oder Gutachten mit der erforderlichen Vergütungsrechnung und Begründung unter dem gewünschten Dateinamen; ohne Benennung verwende `ergebnis.md`. Leistungs-, Ticket- und Nachtragsvergleich sowie Abnahmedaten nur im nötigen Umfang als Anlage beifügen. Ein Gutachtenauftrag verlangt keinen ungefragten Forderungsbrief.
@@ -40,8 +42,8 @@ Prüfe Normfassungen zum Vertrag und aktuellen Rechtsstand vor Verwendung. Keine
 
 - [Paragraf 640 BGB](https://www.gesetze-im-internet.de/bgb/__640.html): Abnahme und Fiktion.
 - [Paragraf 641 BGB](https://www.gesetze-im-internet.de/bgb/__641.html): Fälligkeit und Einbehalt.
-- [BGH, Urteil vom 19.01.2017, Az. VII ZR 301/13](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=77407), amtliche Leitsätze: Mängelrechte grundsätzlich nach Abnahme, Ausnahme des Abrechnungsverhältnisses. Allgemeines Werkvertragsrecht, keine spezifische ERP-Entscheidung.
+- [BGH, Urteil vom 19.01.2017, VII ZR 301/13](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2013/VII_ZR_301-13.pdf?__blob=publicationFile&v=1), Randnummern 31 bis 48: Abnahme und Abrechnungsverhältnis mit den Grenzen aus Abschnitt 1.3.
 
-Am 14.09.2026 amtlichen BGH-Suchauszug geprüft; Volltextabruf gesperrt. Weitergehende Aussagen im Volltext nachprüfen, keine umfassende Aktualitätsprüfung vortäuschen.
+Amtlichen Volltext am 22.09.2026 geprüft. Daraus folgt keine Vollprüfung sämtlicher Vertrags- und Regulierungsfragen.
 
 Ohne installierte Zusatzmodule anhand dieser Regeln weiterarbeiten. Nicht lesbare Belege konkret benennen und erklären, welche Aussage deshalb vorläufig bleibt; ohne Dateiwerkzeug den vollständigen Text liefern und keinen Dateilink erfinden.

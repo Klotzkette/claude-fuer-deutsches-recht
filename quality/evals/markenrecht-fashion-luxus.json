@@ -1,21 +1,54 @@
 {
   "schema_version": 1,
   "plugin": "markenrecht-fashion-luxus",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62008CJ0059",
+      "checked_on": "2026-09-23",
+      "supports": "Erneut gelesener amtlicher Text, insbesondere Randnummern 31 bis 37, 46 bis 51 und 57 bis 59: konkrete Lizenzbeschränkung und Rufschädigung unterscheiden; kein pauschales Verbot des Discountvertriebs. Ablaufvertiefung nutzt diesen bestehenden Anker, keine neue Fallgruppe aus der Entscheidung abgeleitet."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/markeng/__24.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlichen Normtext erneut gelesen: europäischer Erstabsatz mit Zustimmung und gesonderte berechtigte Widerspruchsgründe als Grundlage der chargenbezogenen Bearbeitung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/markeng/__30.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlichen Normtext erneut gelesen: konkret erfasste Lizenzbeschränkungen von bloßen vertraglichen Gestaltungspunkten unterscheiden."
+    },
     {
       "url": "https://www.gesetze-im-internet.de/markeng/__24.html",
       "checked_on": "2026-09-14",
       "supports": "Erschöpfung durch zustimmungsgetragenen europäischen Erstabsatz und berechtigte Gründe gegen Weitervertrieb."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62008CJ0059",
+      "checked_on": "2026-09-22",
+      "supports": "EuGH, Urteil vom 23.04.2009, Az. C-59/08, Copad, Randnummern 31 bis 37, 46 bis 51 und 57 bis 59. Anwendung: Bei Lizenznehmervertrieb an Discounter einschlägige Lizenzklausel und konkrete Schädigung des Luxusimages für Zustimmung und Widerspruch prüfen. Grenze und Prüfzugang: Keine pauschale Markensperre bei jedem Vertragsbruch oder jedem Rabattvertrieb; kein allgemeiner Beleg für Drittlandserschöpfung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/markeng/__24.html",
+      "checked_on": "2026-09-22",
+      "supports": "Territoriale Erschöpfung und berechtigte Widerspruchsgründe."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/markeng/__30.html",
+      "checked_on": "2026-09-22",
+      "supports": "Absatz 2 enthält bestimmte markenrechtlich relevante Lizenzverstöße, nicht jeden Vertragsverstoß."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Vollständig gelesen: Echtheit, Erschöpfung und konkrete Zeichenbenutzung werden getrennt; fehlende Lieferbelege rechtfertigen keine Tatsachenunterstellung.",
+    "reason": "Eigenständiger Einstieg für Anmeldung, Zeichenkonflikt und Originalware; neue Herkunftsbelege ändern das konkrete Dokument. Die frühere Abgrenzung von Lizenzverstoß, Zustimmung und Imageschaden bleibt erhalten. Individuelle Desk-Prüfung.",
     "changes": [
-      "Nachgereichte Rechnungen werden der betroffenen Charge zugeordnet und verändern gezielt Beanstandung oder Verteidigung; Benutzungsbelege werden zeitlich und sachlich eingegrenzt."
+      "Copad in Lizenzbruch und Erschöpfungsprüfung integriert",
+      "Paragraf 30 Absatz 2 MarkenG von allgemeinen Vertriebsauflagen getrennt",
+      "Prestigeschaden nicht aus Discountvertrieb allein abgeleitet",
+      "Drei Eingangsmodi, konkreter Dokumentpfad und Gegenmeldung zu Echtheit gegenüber Erschöpfung ergänzt."
     ],
-    "sha256": "cca86c337a21be0481ba98d6eaef7bfb521185eead3c4e89216e15b9e0d60e5f"
+    "sha256": "594975fc2d26c7e461798e86513dbb7a5bac7a8823c3fe23eec96e10c9215b3c"
   },
   "selection": {
     "positive": [
@@ -63,10 +96,53 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die vollständige Werkstatt wurde einschließlich US-Abgrenzung und Rechtsprechungsrecherche gelesen. Anmeldung, Widerspruch, Lieferkette und Durchsetzung bleiben auftragsabhängig.",
+    "reason": "Vollständig individuell geprüfte Werkstatt um Zeichenwahl, produktbezogenen Benutzungsnachweis, gemischte Chargen, Testkauf und Lizenzabverkauf vertieft. Anmeldung, Zoll, US-Verfahren und bestehende rechtliche Abgrenzungen erhalten; kein Live-Test.",
     "changes": [
-      "Nachforderungen zu Warenverzeichnis, Benutzung, Produktbeweis und Inhaberkette führen jeweils zur betroffenen Anmeldung, Erwiderung oder Vertragsklausel; kein ungefragter Eilantrag."
+      "Copad in Lizenzbruch und Erschöpfungsprüfung integriert",
+      "Paragraf 30 Absatz 2 MarkenG von allgemeinen Vertriebsauflagen getrennt",
+      "Prestigeschaden nicht aus Discountvertrieb allein abgeleitet",
+      "Ungünstige Benutzungsbelege, stückbezogene Herkunftszuordnung und Korrektur widerlegter Plattformvorwürfe ergänzt.",
+      "Qualitätskontrolle und Restbestandsabverkauf in konkrete Lizenzregelungen übersetzt."
     ],
-    "sha256": "5ad6af5409f8e7d1707617d0bc58a9acd29569c1449e29ad47b1fa8fb27f35db"
+    "sha256": "ec6447b28e87a5ddf0e7bc2c572dcd3b3759d43adfa3b58db8a651f4016854ab"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "markenrecht-fashion-luxus/markenrecht-fashion-luxus-werkstatt.md",
+      "markenrecht-fashion-luxus/markenrecht-fashion-luxus-schnellstart.md",
+      "markenrecht-fashion-luxus/README.md",
+      "quality/evals/markenrecht-fashion-luxus.json"
+    ],
+    "opening_change": "Etikett, Tasche oder Schuh mit geschütztem Zeichen sowie tatsächlichem Import- und Lizenzweg vergleichen.",
+    "norms": [
+      "Paragrafen 14, 24 und 30 Absatz 2 MarkenG",
+      "Artikel 7 und 8 Absatz 2 Richtlinie 89/104/EWG als historische Entscheidungsnormen"
+    ],
+    "decisions": [
+      {
+        "citation": "EuGH, Urteil vom 23.04.2009, Az. C-59/08, Copad, Randnummern 31 bis 37, 46 bis 51 und 57 bis 59",
+        "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62008CJ0059",
+        "application": "Bei Lizenznehmervertrieb an Discounter einschlägige Lizenzklausel und konkrete Schädigung des Luxusimages für Zustimmung und Widerspruch prüfen.",
+        "limit": "Keine pauschale Markensperre bei jedem Vertragsbruch oder jedem Rabattvertrieb; kein allgemeiner Beleg für Drittlandserschöpfung."
+      }
+    ],
+    "remaining_limits": [
+      "Desk-/Quellenprüfung, kein Live-Ergebnistest.",
+      "US-Markenverfahren und aktuelle Zoll-/Registerpraxis nicht insgesamt neu verifiziert.",
+      "Ergänzung 2026-09-23: Bestehende Profilquellen erneut geöffnet und die bezeichneten MarkenG-/Copad-Passagen gelesen. Die Workflow-Erweiterung ist Desk-Prüfung; keine realen Registerabfragen, Plattformmeldungen oder Mandantenabläufe ausgeführt. Frühere Quellenprüfung bleibt als datierter Stand erhalten."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Auswahl zwischen Modemarkenanmeldung, ähnlichem Zeichen und Originalwarenvertrieb.",
+      "Dateien ohne Auftrag: Register-, Produkt- oder Lieferbelege still lesen und nur das gewünschte Ergebnis klären.",
+      "Klarer Auftrag: unmittelbar Anmeldung oder Verteidigung bearbeiten und nur entscheidende Schutz- oder Herkunftslücken erfragen."
+    ],
+    "continuation": "Neue Herkunftsrechnung ändert nur die zugeordneten Chargen und den Umfang der Beanstandung im bestehenden Nutzerpfad, ersatzweise ergebnis.md; kein erneutes Erheben bekannter Tatsachen.",
+    "enrichment": "Zeichenwahl und Verzeichnis, Rechnungs-/Produktzuordnung bei Benutzung, Gegenbelege, gemischtes Lager, abweichender Testkauf, Plattformgegenmeldung sowie Qualitäts- und Abverkaufsregelungen konkretisiert.",
+    "limits": "desk review; no live client execution"
   }
 }

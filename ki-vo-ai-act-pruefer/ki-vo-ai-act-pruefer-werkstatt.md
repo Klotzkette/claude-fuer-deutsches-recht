@@ -1,6 +1,8 @@
 # 1. Verordnung über künstliche Intelligenz: Werkstatt
 
-Prüfe das konkrete System und erstelle das bestellte Einordnungsmemo, den Umsetzungsplan, die Vertragsfassung oder die Behördenantwort. Ausgangspunkt sind die vorhandene Zweckbeschreibung, Systemdokumentation und Korrespondenz.
+Ordne die tatsächlich eingesetzte Funktion einem Verbot, einer Hochrisikokategorie oder einer Transparenzpflicht zu und bestimme den verantwortlichen Akteur und Geltungsbeginn. Prüfe Zweckbeschreibung, Systemversion und Entscheidungswirkung anhand der vorhandenen Akte. Verfasse dazu das beauftragte Einordnungsmemo, den Umsetzungsplan, Vertrag oder die Behördenantwort.
+
+Ohne Eingabe biete „Systemrolle und Risikopfad bestimmen“, „synthetische Veröffentlichung kennzeichnen“ oder „Anbieterunterlagen prüfen“ an. Lies Dateien ohne Aufgabe still und kläre nur das Ziel, kein Systemdossier zum Start. Bei klarem Auftrag direkt zur bestellten Einordnung oder Klausel. Antwort „eigenes Branding“ ändert die Rollenprüfung; ein belegtes Vermarktungsdatum ändert nur die zugehörige Übergangsprüfung. Bekannte Fakten nicht erneut abfragen; keine lokalen Skills voraussetzen.
 
 ## 1.1. Systemangaben klären und weiterarbeiten
 
@@ -73,6 +75,8 @@ Prüfe Verschwiegenheit nach Paragraf 203 StGB und Paragraf 43a BRAO sowie Diens
 
 Anhang III Nummer 8 nur bei seinem tatsächlichen Anwendungsbereich heranziehen. Datenschutz und KI-Regulierung können nebeneinander gelten; die Erfüllung des einen Regelwerks ersetzt die Prüfung des anderen nicht. Weitere Fachskills sind optional, keine Voraussetzung für die Weiterbearbeitung.
 
+Bei Kreditwürdigkeitsbewertung natürlicher Personen Anhang III Nummer 5 Buchstabe b und seine Ausnahme für Betrugserkennung gesondert von Artikel 22 DSGVO prüfen. Nach EuGH, Urteil vom 07.12.2023, C-634/21, SCHUFA Holding, Randnummern 43 bis 50 und 73, kann schon die automatisierte Score-Erstellung Artikel 22 Absatz 1 unterfallen, wenn eine Drittentscheidung über Vertragsbegründung, Durchführung oder Beendigung davon maßgeblich abhängt. Fordere tatsächliche Entscheidungsregeln an; die Anbieterbezeichnung „nur Entscheidungshilfe“ genügt nicht. Prüfe Ausnahme und Garantien nach Artikel 22 Absätze 2 bis 4. Die Entscheidung legt weder Artikel 6 der KI-Verordnung noch den neuen Artikel 4a aus und verschiebt keine Datenschutzpflicht bis zum Hochrisiko-Geltungsbeginn. [Amtlicher Volltext](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62021CJ0634).
+
 ### 1.5.3. Biometrie und Grundrechte
 
 Bei Biometrie oder Emotionserkennung Zweck, Ort, Echtzeit- oder nachträgliche Nutzung, Datenquelle, Betroffenengruppe, Strafverfolgungsbezug und menschliche Kontrolle feststellen. Verbote und Ausnahmen nach Artikel 5, Hochrisikoeinordnung und nationale Eingriffsgrundlage auseinanderhalten. Artikel 9 DSGVO, BDSG, Landespolizeirecht oder StPO nur für ihren jeweiligen Anwendungsbereich prüfen.
@@ -87,12 +91,7 @@ Bei erzeugten Schriftsätzen Fallidentität, Tatsachen, Anlagen, Behörde, Strei
 
 ## 1.6. Rechtsprechung und Nachweise
 
-Die vorhandenen Entscheidungen sind Rechercheanker, keine Auslegungshilfe für jeden KI-Tatbestand. Vor einer Zitierung amtlichen Text, tragende Aussage und Fallbezug prüfen:
-
-- EuGH, Urteil vom 7. Dezember 2023, C-634/21: Scoring und automatisierte Entscheidung nach Artikel 22 DSGVO.
-- EuGH, Urteil vom 27. Februar 2025, C-203/22: Auskunft über die verwendete Logik und Geschäftsgeheimnisse.
-- BVerfG, Urteil vom 16. Februar 2023, 1 BvR 1547/19 und 1 BvR 2634/20: automatisierte Polizeidatenanalyse, Eingriffsschwellen und Verhältnismäßigkeit.
-- BVerfG, Urteil vom 15. Dezember 1983, 1 BvR 209/83 und weitere: informationelle Selbstbestimmung.
+Der Scoringanker in Abschnitt 1.5.2 betrifft die daneben geltende Datenschutzprüfung. Zusätzliche Rechtsprechung zur Entscheidungslogik, Polizeidatenanalyse oder zu neuen KI-Vorschriften nur nach Prüfung von amtlichem Volltext, tragender Aussage und konkreter Übertragbarkeit aufnehmen. Fehlende Rechtsprechung zu einer neuen Vorschrift offenlassen, nicht durch allgemeine Grundrechtszitate ersetzen.
 
 Benötigte Normfassungen und Entscheidungen amtlich belegen. Nicht überprüfte Literaturfundstellen nicht ergänzen. Interne Abrufvermerke gehören in eine Arbeitsnotiz, nicht in den Mandantenbrief.
 
@@ -105,3 +104,33 @@ Prüfe vor Abschluss Systemversion, Fristbeginn und Fristende, Zuständigkeit, s
 ## 1.8. Technische Grenzen
 
 Fehlenden Quellenzugriff oder ungelesene Unterlagen in einer gesonderten Arbeitsnotiz benennen. Ohne Export Text liefern, keinen Dateilink erfinden; weitere Skills sind optional. Ein technischer Fehler sperrt nur den abhängigen Schritt, nicht die Arbeit an gesicherten Teilen.
+
+## 1.9. Die Einordnung in ein verwendbares Dokument überführen
+
+### 1.9.1. Ein System nicht anhand seines Namens einstufen
+
+Beginne mit einer konkreten Funktion. Eine Beschaffungsbeschreibung „Assistenzsoftware“ sagt wenig darüber, ob Bewerbungen sortiert, Kreditentscheidungen vorbereitet oder nur Texte formatiert werden. Fordere bei unklarer Zweckbestimmung ein tatsächliches Eingabe-Ausgabe-Beispiel und die Stelle im Arbeitsablauf an, an der das Ergebnis verwendet wird. Vertrauliche Originaldaten sind dafür nicht zwingend erforderlich; ein zutreffend abstrahiertes Beispiel kann genügen.
+
+Stelle Anbieterzweck, Vertrag und tatsächliche Nutzung gegenüber. Antwort „Wir verwenden es jetzt für eine andere Personengruppe“ kann eine neue Zweckprüfung erfordern; Antwort „Nur die Oberfläche wurde geändert“ rechtfertigt nicht ohne weitere Tatsachen einen Rollenwechsel. Eigenmarke, technische Änderung und Zweckänderung als getrennte Auslöser prüfen. Die vertragliche Behauptung, jede Verantwortung liege beim Nutzer, ersetzt die gesetzliche Rollenbestimmung nicht.
+
+### 1.9.2. Risikopfad mit belastendem Gegenbefund prüfen
+
+Bei Bonitätsprüfung natürlicher Personen trenne die Hochrisikofrage nach dem einschlägigen Anhangseintrag von Artikel 22 DSGVO. Lege den stärksten Gegenbefund offen: Tatsächlich wird jede negative Empfehlung ohne eigene Sachprüfung übernommen, obwohl die Dokumentation von Unterstützung spricht. Nach der Antwort zur Entscheidungspraxis ändere sowohl die Subsumtion als auch die vorgeschlagene Betriebs- oder Vertragsregel. Eine Rollenbezeichnung nicht allein deshalb akzeptieren, weil sie wirtschaftlich günstig ist.
+
+Bei Produktintegration frage nach der konkreten Sicherheitsfunktion und den Folgen ihres Ausfalls. Ein allgemeiner Prüfbericht zu anderen Produktrisiken ersetzt den Funktionsbezug nicht. Begründe im Memo, welches Tatbestandsmerkmal belegt, offen oder nicht erfüllt ist. Die vorhandenen differenzierten Produkt- und Übergangswege nicht durch die Pauschale „alles hochriskant ab 2026“ ersetzen. Den Geltungsbeginn für jede tragende Pflicht gesondert nennen.
+
+### 1.9.3. Veröffentlichungsdialog bis zum Hinweistext führen
+
+Bei einem synthetischen Sprecher kläre nur die noch offenen Merkmale des beauftragten Transparenzproblems: künstliche Erzeugung oder Veränderung, Eindruck einer echten Aufnahme, Veröffentlichungskanal und erste Wahrnehmung. Sind Deepfake-Eigenschaft und fehlende Ausnahme vorgegeben, diese nicht erneut ermitteln. Technische Markierung des Anbieters, sichtbare Betreiberinformation und Rechte der dargestellten Person getrennt behandeln.
+
+Antwort „Der Anbieter hat bis Dezember Zeit“ führt zum Abgleich der konkret erfassten Anbieterpflicht und des belegten Vermarktungsdatums, nicht zu einer pauschalen Betreiberbefreiung. Antwort „Unser Text wurde gegengelesen“ ändert nicht ohne Weiteres die Einordnung des Videos. Liefere den passenden Hinweis vollständig, etwa „Die dargestellte Sprechersequenz wurde künstlich erzeugt und zeigt keine echte Aufnahme der dargestellten Person“, sofern dieser Sachverhalt stimmt. Platziere ihn im Entwurf bei der ersten Wahrnehmung; ein Hinweis nur in einer schwer auffindbaren Unterseite ist nicht einfach mit sichtbarer Information gleichzusetzen.
+
+### 1.9.4. Aus fehlenden Nachweisen eine konkrete Vertragsanforderung machen
+
+Wenn ein Testbericht fehlt, benenne Systemversion, geprüfte Funktion und offene Anforderung. Fordere nicht pauschal sämtliche technischen Geheimnisse oder die Veröffentlichung der gesamten Dokumentation. Bei Betreiberpflichten muss der Vertragsentwurf den tatsächlich benötigten Informations- und Unterstützungszugang abbilden. Eine bloße Zusage „KI-VO-konform“ beantwortet nicht, wann Änderungen gemeldet und relevante Protokolle bereitgestellt werden.
+
+Antwortet der Anbieter mit Unterlagen zu einer anderen Version, kennzeichne die Lücke und bearbeite unabhängige Klauseln weiter. Antwortet er mit einem einschlägigen Bericht, prüfe Abdeckung und Grenzen, statt automatisch das gesamte System freizugeben. Formuliere die verlangte Ersatzklausel mit konkreter Leistung, Auslöser und vereinbartem Reaktionsmechanismus; keine unbelegte gesetzliche Einheitsfrist erfinden.
+
+Ein fertiges Einordnungsmemo beantwortet den Auftrag mit Tatsachenbezug, Gegenargument, Normfassung und Datum. Eine offene Versionsfrage kann eine bedingte Empfehlung rechtfertigen, nicht eine behauptete Konformität. Registrierung, CE-Kennzeichnung, Veröffentlichung und Behördenversand sind keine bloßen Folgeschritte, die ohne gesonderten Auftrag ausgeführt werden. Bei nicht erreichbarem Änderungsakt bleibt die frühere Quellenprüfung als solche erkennbar; keine neue Vollverifikation vorspiegeln.
+
+Die neue Zweckbeschreibung ändert das bestehende Einordnungsmemo, beispielsweise `einordnung.md`, samt davon abhängiger Vertragsregel. Eine Antwort zum Vermarktungsdatum ändert dagegen nur den betroffenen Zeitpfad und Veröffentlichungshinweis. Keine zusätzlichen Pflichtdateien erzeugen; ohne Schreibzugriff die vollständige Ersatzfassung liefern.

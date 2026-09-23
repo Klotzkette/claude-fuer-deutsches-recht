@@ -1,15 +1,31 @@
 {
   "schema_version": 1,
   "plugin": "rechtstheorie-rechtsphilosophie",
-  "reviewed_on": "2026-09-18",
-  "sources": [],
+  "reviewed_on": "2026-09-23",
+  "sources": [
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2011/01/rs20110125_1bvr091810.html",
+      "checked_on": "2026-09-22",
+      "supports": "Gesetzesmodell gegen vorgeschlagene richterliche Entscheidungsregel abgleichen. Grenze: Keine allgemeine Widerlegung einer philosophischen Theorie; keine aktuelle Unterhaltsberechnung. Amtlicher Leitsatz verifiziert; kein Randnummernnachweis für nicht ausgelesene Begründung behauptet."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gg/art_20.html",
+      "checked_on": "2026-09-23",
+      "supports": "Quantifizierung, Sprecher- und Editionskritik, identischer Vergleichsfall und Grenze zur heutigen Rechtsanwendung. Prüftiefe: Gesetzesbindung erneut gelesen; historische Autorenpositionen ohne vorgelegten Originaltext bleiben Zuschreibungsfragen."
+    }
+  ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Vollständig gelesen: Argumentrekonstruktion trennt Geltung, Wirkung und Rechtfertigung; fehlender Originaltext wird nicht durch ein angebliches Zitat ersetzt.",
+    "reason": "Kurzprompt individuell auf Einstieg, fachliche Fortsetzung und vollständiges Arbeitsprodukt geprüft. Quantifizierung, Sprecher- und Editionskritik, identischer Vergleichsfall und Grenze zur heutigen Rechtsanwendung.",
     "changes": [
-      "Nachgelieferte Passagen verändern These und Prämissen und führen zum fertigen Essayabschnitt; weder Rechtsprechung noch Anspruchsprüfung wird für abstrakte Logik erzwungen."
+      "Geltungsgrund und tatsächliche argumentative Prämissen vor allgemeinen Analyseaufforderungen.",
+      "Gesetzesmodell gegen vorgeschlagene richterliche Entscheidungsregel abgleichen. Grenze: Keine allgemeine Widerlegung einer philosophischen Theorie; keine aktuelle Unterhaltsberechnung.",
+      "Einschränkende Folgepassage -> These, Gegenbeispiel und Fazit neu fassen.",
+      "Quantifizierung, Sprecher- und Editionskritik, identischer Vergleichsfall und Grenze zur heutigen Rechtsanwendung."
     ],
-    "sha256": "d59a5ddd5040a905f08f1cf500bd151800e2c2d0d031499b300c34b169e71afd"
+    "sha256": "81d639d0d584ed14e19ead47fe0c8c26b8b18e96e2aa6cfeca13fa11334a542a",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
   },
   "selection": {
     "positive": [
@@ -57,10 +73,52 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die gesamte Werkstatt einschließlich historischer, ökonomischer und ausbildungsbezogener Fragen wurde gelesen. Theorievergleich bleibt eine begründete Textarbeit statt Prozessvorbereitung.",
+    "reason": "Werkstatt individuell auf Einstieg, fachliche Fortsetzung und vollständiges Arbeitsprodukt geprüft. Quantifizierung, Sprecher- und Editionskritik, identischer Vergleichsfall und Grenze zur heutigen Rechtsanwendung.",
     "changes": [
-      "Originalpassagen und Wirkungsdaten führen zur gezielten Überarbeitung der Argumentation; Quellenanforderung und Vergleichstabelle ersetzen nicht den bestellten ausformulierten Text."
+      "Geltungsgrund und tatsächliche argumentative Prämissen vor allgemeinen Analyseaufforderungen.",
+      "Gesetzesmodell gegen vorgeschlagene richterliche Entscheidungsregel abgleichen. Grenze: Keine allgemeine Widerlegung einer philosophischen Theorie; keine aktuelle Unterhaltsberechnung.",
+      "Einschränkende Folgepassage -> These, Gegenbeispiel und Fazit neu fassen.",
+      "Quantifizierung, Sprecher- und Editionskritik, identischer Vergleichsfall und Grenze zur heutigen Rechtsanwendung."
     ],
-    "sha256": "d44fbe34aa89e46f6a13ba444822b2430a08687a87ac2568f7c8124b0d4402bb"
+    "sha256": "c4883dce0f8dbcea9c72a7d5fabf673d38b25eabd7e51644d8dd6ba445ef0ce9",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "rechtstheorie-rechtsphilosophie/rechtstheorie-rechtsphilosophie-werkstatt.md",
+      "rechtstheorie-rechtsphilosophie/rechtstheorie-rechtsphilosophie-schnellstart.md"
+    ],
+    "opening_change": "Geltungsgrund und tatsächliche argumentative Prämissen vor allgemeinen Analyseaufforderungen.",
+    "norms": [
+      "Artikel 20 Absatz 3 GG",
+      "Artikel 97 Absatz 1 GG",
+      "Artikel 2 Absatz 1 GG"
+    ],
+    "decisions": [
+      {
+        "citation": "BVerfG, 25.01.2011, 1 BvR 918/10, Leitsatz",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2011/01/rs20110125_1bvr091810.html",
+        "application": "Gesetzesmodell gegen vorgeschlagene richterliche Entscheidungsregel abgleichen.",
+        "limit": "Keine allgemeine Widerlegung einer philosophischen Theorie; keine aktuelle Unterhaltsberechnung."
+      }
+    ],
+    "remaining_limits": [
+      "Amtlicher Leitsatz verifiziert; kein Randnummernnachweis für nicht ausgelesene Begründung behauptet.",
+      "Workflow-Vertiefung 2026-09-23: Gesetzesbindung erneut gelesen; historische Autorenpositionen ohne vorgelegten Originaltext bleiben Zuschreibungsfragen. Desk review; kein Live-Client-Test."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Argumentkritik, Theorievergleich oder Rechtsfortbildung anbieten.",
+      "Original, Übersetzung und Paraphrase still unterscheiden, nur Textziel klären.",
+      "Vollständigen Essayauftrag ohne Zwang zur Anspruchsprüfung erfüllen."
+    ],
+    "continuation": "Einschränkende Folgepassage -> These, Gegenbeispiel und Fazit neu fassen.",
+    "enrichment": "Quantifizierung, Sprecher- und Editionskritik, identischer Vergleichsfall und Grenze zur heutigen Rechtsanwendung.",
+    "limits": "desk review; no live client execution"
   }
 }

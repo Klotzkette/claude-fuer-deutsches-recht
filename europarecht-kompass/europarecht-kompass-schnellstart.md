@@ -1,18 +1,18 @@
 # 1 Unionsrechtlichen Fall bis zum bestellten Ergebnis bearbeiten
 
-Prüfe die bezeichnete Maßnahme oder Normkollision anhand des Auftrags, der vorhandenen Entscheidungen, Verträge und Korrespondenz. Übernimm bekannte Beteiligte und Zielsetzung. Erstelle die verlangte Beratung, Stellungnahme, Umsetzungsklausel oder Vorlageanregung; ein Gutachtenauftrag ist kein Auftrag zur Direktklage.
+Prüfe, ob die nationale Regelung unionsrechtskonform auszulegen oder im konkreten Streit unangewendet zu lassen ist und welcher Anspruch daraus folgt. Lies zuerst Entscheidungen, Verträge und Korrespondenz. Verfasse die verlangte Beratung, Umsetzungsklausel oder Vorlageanregung; ein Gutachtenauftrag ist kein Auftrag zur Direktklage.
 
 ## 1.1 Anwendungsbereich bestimmen
 
 Stelle konkrete Unionsnorm, Rechtsakt, Maßnahme, Mitgliedstaat oder Organ und maßgeblichen Zeitpunkt fest. Prüfe sachlichen, persönlichen, räumlichen und zeitlichen Anwendungsbereich. Binnenmarktbezug und Durchführung von Unionsrecht sind nicht dieselbe Frage.
 
-Ist bei einem Upload nur das Thema, nicht aber das Ziel erkennbar, kläre die offene Entscheidung: rechtliche Bewertung, nationale Umsetzung oder bestimmter Entwurf. Bekannte Angaben nicht erneut erheben und keine vollständige Liste aller europarechtlichen Verfahren voranstellen.
+Ohne Eingabe biete Richtlinienwirkung im Streit, Marktzugangsbeschränkung oder Umsetzung einer Unionsvorgabe an. Dateien ohne Auftrag still lesen, dann das Ziel klären; keine Normübersicht ausgeben. Bei klarem Auftrag direkt ausarbeiten. Folgeantwort „Der Gegner ist ein privates Unternehmen“ verändert Wirkung und Anspruchsbegründung, nicht nur die Parteibezeichnung. Nur entscheidende Lücken fragen; keine Plugin-Dateien voraussetzen.
 
 ## 1.2 Wirkung der konkreten Norm prüfen
 
-Unterscheide Primärrecht, Verordnung, Richtlinie, Beschluss und unverbindliche Hinweise. Bei Richtlinien Bestimmung, Umsetzungsfrist, nationale Umsetzung und Parteienverhältnis getrennt prüfen. Eine Richtlinie als solche begründet keine unmittelbaren Pflichten zulasten Privater. Vorrang allein ersetzt fehlende unmittelbare Wirkung nicht und ist nicht mit Nichtigkeit der nationalen Norm gleichzusetzen.
+Unterscheide Primärrecht, Verordnung, Richtlinie, Beschluss und unverbindliche Hinweise nach Artikel 288 AEUV. Bei Richtlinien Bestimmung, Umsetzungsfrist, nationale Umsetzung und Parteienverhältnis getrennt prüfen. Eine Richtlinie als solche begründet keine unmittelbaren Pflichten zulasten Privater. Vorrang allein ersetzt fehlende unmittelbare Wirkung nicht und ist nicht mit Nichtigkeit der nationalen Norm gleichzusetzen.
 
-Unionsrechtskonforme Auslegung mit ihren Grenzen, gegebenenfalls eigenständig tragende Grundrechte und Staatshaftung als getrennte Wege prüfen. EuGH, Urteil vom 24.06.2019, C-573/17, [Popławski, Randnummern 60 bis 68](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62017CJ0573), für die Unterscheidung von Vorrang und unmittelbarer Wirkung heranziehen; nicht jede Normkollision automatisch in einen Anspruch umwandeln.
+Verlangt der Mandant allein aus einer Richtlinie zusätzliche Pflichten eines privaten Vertragspartners, wende EuGH, Urteil vom 24.06.2019, C-573/17, [Popławski, Randnummern 60 bis 68](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62017CJ0573), an: Vorrang erzeugt keine fehlende unmittelbare Wirkung; daraus allein folgt kein Zahlungs- oder Unterlassungsanspruch. Prüfe unionsrechtskonforme Auslegung mit ihren Grenzen, eigenständig anwendbare Unionsnormen und Staatshaftung getrennt. Der Ausgangsfall betraf Rahmenbeschlüsse; seine ausdrücklichen Aussagen zu Richtlinien schließen nicht jede andere unionsrechtliche Wirkung im Privatrecht aus.
 
 Fehlt die maßgebliche Fassung, fordere die bezeichnete Entscheidung oder den Änderungsakt nach. Ist die staatliche Einordnung des Gegenübers unklar, frage nach Trägerschaft und Aufgaben. Nach Antwort die rechtliche Einordnung überprüfen und die betroffenen Ausführungen neu fassen, statt die Angabe ungeprüft als Beweis zu behandeln.
 
@@ -38,7 +38,7 @@ Weitere kurze Runden sind zulässig, wenn neue Antworten entscheidende Lücken z
 
 ## 1.6 Quellen und Ausgabe
 
-Artikel 4 Absatz 3 und Artikel 5 EUV für Zusammenarbeit und Kompetenzfragen sowie Artikel 19 EUV für Rechtsschutz nur bei konkretem Bezug einsetzen. Die bisherigen Anker EuGH, Urteil vom 05.02.1963, 26/62, Van Gend en Loos, und Urteil vom 15.07.1964, 6/64, Costa gegen ENEL, am amtlichen Text und auf ihre Tragweite prüfen. Tragende Normfassungen und weitere Entscheidungen amtlich verifizieren, keine Fundstellen erfinden.
+Artikel 4 Absatz 3 und Artikel 5 EUV für Zusammenarbeit und Kompetenzfragen sowie Artikel 19 EUV für Rechtsschutz nur bei konkretem Bezug einsetzen. Tragende Normfassungen und zusätzliche Entscheidungen zur jeweiligen Grundfreiheit, Beihilfe oder Haftung amtlich verifizieren; Popławski beantwortet diese materiellen Fragen nicht.
 
 Liefere eine ausformulierte Antwort auf die konkrete Frage. Normvergleiche oder Berechnungen nur ergänzen, soweit nötig; interne Prüftabellen sind kein Pflichtprodukt. Quellenstatus und Recherchegrenzen getrennt vom Mandantenbrief notieren. Werkstatt und weitere Skills sind optional; diese Anleitung ist eigenständig. Keine Vorlage, Klage, Notifikation oder sonstige Außenhandlung ohne ausdrückliche Freigabe. Dezimale Gliederung; beim Export Times New Roman 11 pt.
 

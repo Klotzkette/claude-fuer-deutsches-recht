@@ -1,10 +1,10 @@
 # 1. Gesellschaftsrecht in verständlichem Legal English
 
-Bearbeite den konkreten Begriff, die Klausel oder Beteiligungsrechnung. Übersetze nicht bloß Wörter, sondern erkläre die Funktion im angegebenen deutschen Gesellschafts- und Vertragskontext. Ein englischer Ausdruck macht aus einer GmbH keine ausländische Rechtsform.
+Übersetze die Klausel so, dass Mitgliedschaft, Zustimmung, Zahlungspflicht und Haftung dieselbe Bedeutung behalten. Erkläre beim Cap Table, ob „shares“ echte Geschäftsanteile oder nur wirtschaftliche Szenarien bezeichnet. Englische Vertragssprache macht aus einer GmbH keine ausländische Rechtsform.
 
 ## 1.1. Mit dem vorhandenen Material beginnen
 
-Lies zuerst den vorgelegten Vertragssatz, die Tabelle oder das Memo samt zugehörigen Definitionen. Bei umfangreichen Unterlagen zunächst die betroffenen Passagen und höchstens fünf tragende Dateien auswerten; ungelesene Bereiche benennen. Ein konkreter Übersetzungsauftrag erhält direkt die gewünschte Fassung, keinen vorgeschalteten Organhaftungsvortrag.
+Ohne Eingabe fragen: „Möchten Sie eine Gesellschaftsklausel übersetzen, einem Investor Beteiligungsrechte erklären oder englische Begriffe üben?“ Dateien ohne Auftrag still lesen und passende Wege anbieten, etwa Klauselübersetzung oder Cap-Table-Erklärung. Keine Inhaltszusammenfassung. Ein klarer Auftrag erhält direkt die gewünschte Fassung, ohne Pflichtdialog; bekannte Definitionen und Sprachvorgaben übernehmen.
 
 Fehlt entscheidender Kontext, gezielt nach der betroffenen Definition, Rechtsordnung oder gewünschten Zielgruppe fragen. Bereits belegte Angaben nicht erneut erfragen. Bei Folgewünschen Terminologie und geprüfte Zahlen fortführen, nur geänderte Fassungen neu abgleichen.
 
@@ -19,6 +19,8 @@ Beträge, Währungen, Datumsformat, Prozentbasis, Bedingungen, Verneinungen sowi
 ## 1.3. Cap Table und Gesellschafterliste auseinanderhalten
 
 Ein Cap Table zeigt wirtschaftliche Beteiligungen und gegebenenfalls Szenarien. Eine Gesellschafterliste nach Paragraf 40 GmbHG enthält konkrete Geschäftsanteile, Nennbeträge, laufende Nummern und Beteiligungsangaben. Die Legitimationswirkung nach Paragraf 16 GmbHG ist davon zu unterscheiden, was eine interne Tabelle berechnet. Keine Registeränderung allein aufgrund eines Excel-Szenarios behaupten.
+
+Bezeichnet ein Memo jemanden allein wegen der internen Tabelle als nicht mehr stimmberechtigt, prüfe die maßgebliche Listenaufnahme: BGH, Urteil vom 20. November 2018, II ZR 12/17, Randnummern 22 bis 27, wendet Paragraf 16 Absatz 1 GmbHG auch auf den noch gelisteten Inhaber eines eingezogenen Anteils an. Erkläre „shareholder“ deshalb als materielle Inhaberschaft, Listenlegitimation oder Szenariobeteiligung. Das Urteil entscheidet über Rechte gegenüber der GmbH, nicht abschließend über Eigentum oder jede Missbrauchs- und Sicherungslage. [Amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2017/II_ZR__12-17.pdf?__blob=publicationFile&v=1).
 
 Zeige bei fully diluted den vollständig verwässerten Szenarionenner: bestehende echte Anteile, angenommene Optionsausübung und angenommene Wandlung getrennt. Virtuelle Beteiligungsansprüche sind nicht automatisch echte Anteile. Nenner, Stichtag und Annahme müssen vor jeder Prozentrechnung feststehen. Bei einem rein wirtschaftlich auf 100 Einheiten normierten Szenario nicht so tun, als seien 100 neue Geschäftsanteile entstanden.
 

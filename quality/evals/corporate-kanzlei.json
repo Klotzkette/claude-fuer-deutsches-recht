@@ -1,34 +1,131 @@
 {
   "schema_version": 1,
   "plugin": "corporate-kanzlei",
-  "reviewed_on": "2026-09-17",
-  "sources": [{"url":"https://www.gesetze-im-internet.de/gmbhg/__15.html","checked_on":"2026-09-14","supports":"Notarielle Form von GmbH-Anteilsabtretung und Verpflichtung zur Abtretung; Signing ist anhand der konkreten Bedingungen vom Vollzug zu trennen."}],
-  "mini_review": {"sha256":"1cdb38a056e53a7856cd695c3de0ce3a1b61526551065e365de60cb90c572fd3",
+  "reviewed_on": "2026-09-23",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__15.html",
+      "checked_on": "2026-09-14",
+      "supports": "Notarielle Form von GmbH-Anteilsabtretung und Verpflichtung zur Abtretung; Signing ist anhand der konkreten Bedingungen vom Vollzug zu trennen."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2018/II_ZR_364-18.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 08.01.2019 - II ZR 364/18, Rn. 24 bis 47: Beim Verkauf des ganzen GmbH-Unternehmens interne Zustimmung der Gesellschafter von externer Vertretungsmacht trennen; Kenntnis oder Evidenz eines Vollmachtsmissbrauchs auf Käuferseite prüfen. Grenze: Paragraf 179a AktG gilt nicht analog für die GmbH; fehlender Beschluss macht den Vertrag nicht automatisch unwirksam. Kein allgemeiner Maßstab für jeden Share Deal."
+    }
+  ],
+  "mini_review": {
+    "sha256": "92452735e5b57600691d2674d2e185704830b57cab16db8346d258c5ba078eff",
     "verdict": "revised",
-    "reason": "Ganztextreview: Die differenzierte Closing-Prüfung blieb erhalten; die bisher verpflichtende Bedingungstabelle passte jedoch nicht zu jedem Klauselauftrag. Sprach- und Ablaufprüfung ohne erneute rechtliche Quellenverifikation oder Live-Modelltest.",
-    "changes": ["Bedingungstabelle auf den Umfang einer beauftragten Vollzugsprüfung begrenzt.","Rückfragen zu Change of Control und Kaufpreis von der anschließenden Fertigstellung lesbar getrennt.","Nutzerdateinamen vor ergebnis.md gestellt; Unterscheidung von Erfüllung, Verzicht und Zahlungseingang erhalten."]
+    "reason": "Der kompakte Closing-Ablauf bleibt erhalten und trennt nun beim Verkauf des ganzen GmbH-Vermögens fehlende interne Zustimmung von externer Vertragswirksamkeit. Individuelle Text- und Primärquellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert.",
+    "changes": [
+      "Interne Zustimmung nach Paragrafen 37 und 49 GmbHG von externer Vertretungsmacht unterschieden.",
+      "Keine pauschale analoge Anwendung des Paragraf 179a AktG; Vertrag, CP und tatsächlicher Vollzug bleiben getrennt.",
+      "Leer: DD-Risikoklausel, Kaufpreismechanik oder Vollzugsreife. Dateien: still lesen und Vertragsänderung, Gremienvotum oder Closing-Unterlage anbieten. Klar: direkt bestellten Transaktionstext ausarbeiten.",
+      "Bedingte Bankzustimmung ändert Vollzugsreihenfolge; Darlehenstilgung verändert Kaufpreisrechnung und Zahlungsunterlagen gemeinsam."
+    ]
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die vollständig gelesene Werkstatt wiederholte Vertrags- und Vollzugstabellen sowie zwölf schematische Routen. Diese wurden fachlich in den Transaktionsablauf integriert; keine neue Quellenverifikation und kein Live-Modelltest.",
-    "changes": ["Datenraumprüfung mit konkreten Preis-, Garantie-, Freistellungs- und Bedingungsfolgen verbunden.","Wandeldarlehen, Umwandlung, Restrukturierung und Registerarbeit als eigenständige Prüfungszweige erhalten.","Nachgereichte Kaufpreis- und Zustimmungsbelege führen zur Anpassung und vollständigen Vertragsfassung statt zu einem weiteren Pflichtbericht."],
-    "sha256": "4833292b7e81e3ba3c574d0327b2d19c36dfc41a4b9d51b43d01784b5b9856c5"
+    "reason": "Die Werkstatt ersetzt dekorative BGH-Verweise durch II ZR 364/18 mit Prüfung der Käuferkenntnis und evidenten Missbrauchs; die Trennung von Share Deal und Unternehmensveräußerung wird ausdrücklich. Individuelle Text- und Primärquellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen.",
+    "changes": [
+      "Interne Zustimmung nach Paragrafen 37 und 49 GmbHG von externer Vertretungsmacht unterschieden.",
+      "Keine pauschale analoge Anwendung des Paragraf 179a AktG; Vertrag, CP und tatsächlicher Vollzug bleiben getrennt.",
+      "Zustimmungsauflagen, Verzichtsgrenzen, bekanntes Einzelrisiko, Versicherungsnachweis, Doppelzählung und Long-Stop-Entscheidungen vertieft.",
+      "Bedingte Bankzustimmung ändert Vollzugsreihenfolge; Darlehenstilgung verändert Kaufpreisrechnung und Zahlungsunterlagen gemeinsam."
+    ],
+    "sha256": "5b565a6b39fc8576818a207542abbcad5bd97d9474741923232eba8e00fd930d"
   },
   "selection": {
-    "positive": ["Erstelle aus unserem unterschriebenen Anteilskaufvertrag und den Freigaben den Closing-Tracker für den Erwerber.","Übersetze den DD-Befund über eine bekannte Umwelthaftung in eine konkrete Risikozuweisung für den SPA."],
-    "negative": ["Berechne die gerichtlichen Gebühren einer privaten Kaufpreisklage über ein Fahrrad.","Prüfe ausschließlich die Einladungsfrist zur ordentlichen Hauptversammlung unserer börsennotierten AG."]
-  },
-  "cases": [{
-    "id": "closing-ohne-bankzustimmung",
-    "request": "Wir beraten die Erwerberin Nord Beteiligung GmbH beim Kauf sämtlicher Anteile an der Tal Maschinen GmbH. Der SPA wurde am 3. September 2026 notariell beurkundet. Die Abtretung steht laut Ziffer 8 unter der Bedingung, dass alle CPs erfüllt oder wirksam erlassen sind und der Kaufpreis auf dem Verkäuferkonto gutgeschrieben ist. Ziffer 7 nennt die Kartellfreigabe, die schriftliche Change-of-Control-Zustimmung der Hausbank und ein vom Geschäftsführer unterzeichnetes Bring-Down-Zertifikat. Die Kartellfreigabe vom 10. September liegt vorbehaltlos vor; die Bank hat am 11. September nur den Antragseingang bestätigt. Das Zertifikat liegt als nicht unterschriebener Entwurf vor. Ziffer 7.4 erlaubt nur der Erwerberin, auf das Zertifikat durch eine von ihrer Geschäftsführerin unterzeichnete Erklärung zu verzichten; der Projektleiter sagte gestern telefonisch, es sei entbehrlich. Die Erwerberin hat heute den Kaufpreis angewiesen; ein Kontoauszug der Verkäuferin liegt nicht vor. Ziffer 12 berechtigt jede Partei ab dem Long Stop Date am 30. September zur Beendigung durch schriftliche Erklärung, sofern sie das Hindernis nicht selbst zu vertreten hat; eine Erklärung wurde nicht abgegeben. Erstelle für die Geschäftsführerin in ergebnis.md einen belegbezogenen CP-Tracker, eine Entscheidung zum geplanten Vollzug am 15. September und eine ausformulierte E-Mail an das Deal-Team mit den noch notwendigen Handlungen.",
-    "input_files": [],
-    "deliverables": ["ergebnis.md"],
-    "criteria": [
-      {"id":"C01","text":"Die Kartellfreigabe wird als erfüllt behandelt, während die Eingangsbestätigung der Bank nicht als erforderliche Zustimmung zählt; daraus wird die derzeit fehlende Vollzugsreife hergeleitet.","deliverables":["ergebnis.md"]},
-      {"id":"C02","text":"Das Zertifikat bleibt offen: Weder sein Entwurf noch der telefonische Verzicht des Projektleiters erfüllt die vertraglich benannte Nachweis- beziehungsweise Verzichtsform.","deliverables":["ergebnis.md"]},
-      {"id":"C03","text":"Das Ergebnis unterscheidet den Zahlungsauftrag vom geschuldeten Gutschriftsnachweis und behauptet nicht, die Anteile seien bereits mit notarieller Unterzeichnung übergegangen.","deliverables":["ergebnis.md"]},
-      {"id":"C04","text":"Der Fristablauf am 30. September wird als Voraussetzung eines erklärungsbedürftigen Beendigungsrechts mit Vorbehalt behandelt, nicht als bereits eingetretene oder automatisch eintretende Vertragsaufhebung.","deliverables":["ergebnis.md"]}
+    "positive": [
+      "Erstelle aus unserem unterschriebenen Anteilskaufvertrag und den Freigaben den Closing-Tracker für den Erwerber.",
+      "Übersetze den DD-Befund über eine bekannte Umwelthaftung in eine konkrete Risikozuweisung für den SPA."
     ],
-    "target_skill": "signing-closing-conditions"
-  }]
+    "negative": [
+      "Berechne die gerichtlichen Gebühren einer privaten Kaufpreisklage über ein Fahrrad.",
+      "Prüfe ausschließlich die Einladungsfrist zur ordentlichen Hauptversammlung unserer börsennotierten AG."
+    ]
+  },
+  "cases": [
+    {
+      "id": "closing-ohne-bankzustimmung",
+      "request": "Wir beraten die Erwerberin Nord Beteiligung GmbH beim Kauf sämtlicher Anteile an der Tal Maschinen GmbH. Der SPA wurde am 3. September 2026 notariell beurkundet. Die Abtretung steht laut Ziffer 8 unter der Bedingung, dass alle CPs erfüllt oder wirksam erlassen sind und der Kaufpreis auf dem Verkäuferkonto gutgeschrieben ist. Ziffer 7 nennt die Kartellfreigabe, die schriftliche Change-of-Control-Zustimmung der Hausbank und ein vom Geschäftsführer unterzeichnetes Bring-Down-Zertifikat. Die Kartellfreigabe vom 10. September liegt vorbehaltlos vor; die Bank hat am 11. September nur den Antragseingang bestätigt. Das Zertifikat liegt als nicht unterschriebener Entwurf vor. Ziffer 7.4 erlaubt nur der Erwerberin, auf das Zertifikat durch eine von ihrer Geschäftsführerin unterzeichnete Erklärung zu verzichten; der Projektleiter sagte gestern telefonisch, es sei entbehrlich. Die Erwerberin hat heute den Kaufpreis angewiesen; ein Kontoauszug der Verkäuferin liegt nicht vor. Ziffer 12 berechtigt jede Partei ab dem Long Stop Date am 30. September zur Beendigung durch schriftliche Erklärung, sofern sie das Hindernis nicht selbst zu vertreten hat; eine Erklärung wurde nicht abgegeben. Erstelle für die Geschäftsführerin in ergebnis.md einen belegbezogenen CP-Tracker, eine Entscheidung zum geplanten Vollzug am 15. September und eine ausformulierte E-Mail an das Deal-Team mit den noch notwendigen Handlungen.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die Kartellfreigabe wird als erfüllt behandelt, während die Eingangsbestätigung der Bank nicht als erforderliche Zustimmung zählt; daraus wird die derzeit fehlende Vollzugsreife hergeleitet.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Das Zertifikat bleibt offen: Weder sein Entwurf noch der telefonische Verzicht des Projektleiters erfüllt die vertraglich benannte Nachweis- beziehungsweise Verzichtsform.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Das Ergebnis unterscheidet den Zahlungsauftrag vom geschuldeten Gutschriftsnachweis und behauptet nicht, die Anteile seien bereits mit notarieller Unterzeichnung übergegangen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Der Fristablauf am 30. September wird als Voraussetzung eines erklärungsbedürftigen Beendigungsrechts mit Vorbehalt behandelt, nicht als bereits eingetretene oder automatisch eintretende Vertragsaufhebung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "signing-closing-conditions"
+    }
+  ],
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: DD-Risikoklausel, Kaufpreismechanik oder Vollzugsreife.",
+      "Dateien: still lesen und Vertragsänderung, Gremienvotum oder Closing-Unterlage anbieten.",
+      "Klar: direkt bestellten Transaktionstext ausarbeiten."
+    ],
+    "continuation": "Bedingte Bankzustimmung ändert Vollzugsreihenfolge; Darlehenstilgung verändert Kaufpreisrechnung und Zahlungsunterlagen gemeinsam.",
+    "enrichment": "Zustimmungsauflagen, Verzichtsgrenzen, bekanntes Einzelrisiko, Versicherungsnachweis, Doppelzählung und Long-Stop-Entscheidungen vertieft.",
+    "limits": "desk review; no live client execution"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "corporate-kanzlei/README.md",
+      "corporate-kanzlei/corporate-kanzlei-werkstatt.md",
+      "corporate-kanzlei/corporate-kanzlei-schnellstart.md",
+      "quality/evals/corporate-kanzlei.json"
+    ],
+    "opening_change": "Kaufpreis, Zustimmung und Vollzugsreife werden aus dem konkreten Unternehmenskauf entwickelt.",
+    "norms": [
+      "GmbHG Paragraf 15",
+      "GmbHG Paragraf 37",
+      "GmbHG Paragraf 49 Absatz 2",
+      "AktG Paragraf 179a"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 08.01.2019 - II ZR 364/18, Rn. 24 bis 47",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2018/II_ZR_364-18.pdf?__blob=publicationFile&v=1",
+        "application": "Beim Verkauf des ganzen GmbH-Unternehmens interne Zustimmung der Gesellschafter von externer Vertretungsmacht trennen; Kenntnis oder Evidenz eines Vollmachtsmissbrauchs auf Käuferseite prüfen.",
+        "limit": "Paragraf 179a AktG gilt nicht analog für die GmbH; fehlender Beschluss macht den Vertrag nicht automatisch unwirksam. Kein allgemeiner Maßstab für jeden Share Deal."
+      }
+    ],
+    "remaining_limits": [
+      "Fusionskontrolle, ausländische Genehmigungen und Steuerstruktur nur anlassbezogene Folgeprüfung, keine vollständige Aktualisierung.",
+      "Desk- und Quellenprüfung; kein Live-Client- oder Live-Modelltest und keine vollständige Neuverifikation sämtlicher vorhandener Quellen.",
+      "Workflow-Anschlussprüfung 23.09.2026: individuelle Text- und Quellenprüfung, keine Live-Client-Ausführung. Frühere Entscheidungsprüfungen und ihre Reichweitengrenzen bleiben unverändert; keine erneute vollständige Rechtsprechungsprüfung behauptet. Paragraf 15 GmbHG im Anschlussabruf nicht erreichbar; bestehende Quellenprüfung unverändert. Neue Vertragszweige sind Gestaltungs- und Belegarbeit, keine neue Formrechtsprechung."
+    ]
+  }
 }

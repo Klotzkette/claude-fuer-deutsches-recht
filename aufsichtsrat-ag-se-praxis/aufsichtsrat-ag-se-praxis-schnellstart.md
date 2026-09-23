@@ -1,8 +1,8 @@
 # 1. Aufsichtsratsarbeit entscheidungsreif vorbereiten
 
-Erstelle das beauftragte Fragenpapier, Beschlussvotum, Protokoll oder Überwachungsmemo für den Aufsichtsrat. Lies dazu zuerst Nutzersachverhalt, Satzung, Geschäftsordnungen, Zustimmungskatalog, Vorstandsvorlage und Sitzungsunterlagen.
+Prüfe die Vorstandsvorlage auf Zustimmungsbedürftigkeit, ausreichende Finanzierung und entscheidungserhebliche Risiken. Begründe daraus Zustimmung, Ablehnung oder Vertagung und formuliere das verlangte Votum, Informationsverlangen oder Protokoll. Lies zuerst Nutzersachverhalt, Satzung, Geschäftsordnungen, Zustimmungskatalog, Vorstandsvorlage und Sitzungsunterlagen.
 
-Nicht ungefragt zu Anteilsübertragung oder allgemeiner Gesellschaftsgründung wechseln. Frage nur nach entscheidenden Lücken; unabhängig davon belegte Teile weiterbearbeiten.
+Ohne Eingabe biete Investitionsvotum, Informationsverlangen oder Beschlussprotokoll an. Dateien ohne Auftrag still lesen und zwei oder drei passende Wege erfragen, noch keinen Gremienbericht. Bei klarem Auftrag direkt arbeiten. „Kredit nur bedingt zugesagt“ verändert Beschlussreife und Votum; „Vorsitzender einverstanden“ ersetzt nicht die Gremienbefassung; bestätigte Gegenstimme gehört in das Protokoll. Folgeantworten gezielt einarbeiten, bekannte Organangaben übernehmen. Nicht ungefragt zu Anteilsübertragung wechseln.
 
 ## 2. Organ und Zuständigkeit
 
@@ -23,6 +23,8 @@ Nach [Paragraf 111 AktG](https://www.gesetze-im-internet.de/aktg/__111.html) ist
 3.5. Dokumentation: Maßgebliche Unterlagen mit Stand, offene Fragen, Antworten, Alternativen, Konfliktbehandlung, Abstimmungsverlauf und gefassten Beschluss getrennt protokollieren. Vorbereiteter Beschluss ist noch kein tatsächlich gefasster Beschluss. Verweigerte Zustimmung und mögliche weitere gesellschaftsrechtliche Schritte gesondert prüfen, nicht im Protokoll vorwegnehmen.
 
 Fehlt die Liquiditätswirkung der Investition, fordere die entsprechende Planung an, statt eine Zustimmung unter pauschalem Vorbehalt zu formulieren. Gleiche die Antwort mit Betrag, Finanzierung und Alternativen ab; danach vervollständige das beauftragte Votum oder den Beschlussvorschlag. Bleibt eine wesentliche Annahme unbelegt, frage gezielt hierzu nach oder begründe die noch fehlende Beschlussreife. Bereits beantwortete Fragen nicht wiederholen. Bei einem Protokollauftrag fehlende Angaben zum tatsächlichen Abstimmungsverlauf klären, keine Abstimmung aus dem Beschlussentwurf ableiten.
+
+Steigen nach einer Zustimmung die Kosten wesentlich oder entfällt die angenommene Finanzierung, ist eine erneute Gremienbefassung zu prüfen. [BGH, Urteil vom 10.07.2018 - Az. II ZR 24/17](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2017/II_ZR__24-17.pdf?__blob=publicationFile&v=1), Rn. 14 bis 22: Paragrafen 108 Absatz 1 und 111 Absatz 4 Satz 2 AktG verlangen grundsätzlich vorherige Zustimmung durch ausdrücklichen Beschluss; das Einverständnis des Vorsitzenden genügt nicht. Ausschussdelegation gesondert prüfen. Eine allgemeine Eilfallausnahme hat der BGH offengelassen. Eine hypothetische Zustimmung kann im Haftungsprozess nur unter den Voraussetzungen der Rn. 39 bis 52 entlasten, nicht die fehlende Beschlussreife im laufenden Vorgang ersetzen.
 
 ## 4. Weitere Organaufgaben
 

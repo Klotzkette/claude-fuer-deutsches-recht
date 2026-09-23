@@ -1,8 +1,10 @@
 # 1 Datenbankrechte und konkrete Nutzung prüfen
 
-Bearbeite den bezeichneten Datenbestand und Nutzungsvorgang anhand von Datenmodell, Investitionsbelegen, Zugriffsprotokollen und Vertrag. Erstelle die verlangte Bewertung, Lizenzfassung, Abmahnung oder Abwehr. Übernimm bekannte Auftraggeberrolle und Zielsetzung; ein Prüfauftrag führt nicht ungefragt zu einer Abmahnung.
+Kläre, welche belegten Aufwendungen den Datenbestand schützen und welche Datensätze der Gegner tatsächlich übernommen oder weiterverwendet hat. Lies dafür zuerst Datenmodell, Tätigkeits- und Kostenbelege, vorhandene Exporte, Zugriffsprotokolle und die bei Nutzung geltende Lizenz. Begründe daraus die beauftragte Anspruchsprüfung, Abwehr oder Lizenzfassung; ein Prüfauftrag führt nicht ungefragt zu einer Abmahnung.
 
 ## 1.1 Schutzgegenstand und Inhaberschaft
+
+Ohne Fall biete Investitionsschutz belegen, Datenübernahme angreifen oder abwehren sowie API-Lizenz ausarbeiten an. Dateien ohne Aufgabe still lesen und passende Wahl zwischen Investitionsauswertung, Anspruchsbrief und Lizenzänderung anbieten. Klare Aufgaben unmittelbar bearbeiten, keine Datenbestandsübersicht voranstellen. Folgeantworten ändern Kostenkategorie, Übernahmeumfang oder erlaubte Nutzung im Dokument; bekannte Datenquellen und Rollen nicht erneut abfragen.
 
 Trenne Datenbankwerk nach Paragraf 4 Absatz 2 UrhG, Herstellerrecht nach Paragrafen 87a und folgende UrhG, Geschäftsgeheimnis, Vertrag und bloße Datenquelle. Beschreibe unabhängige Elemente, Ordnung und Einzelzugriff. Stelle fest, wer die einschlägige Investition getragen hat; Domaininhaber, Entwickler und Hersteller müssen nicht identisch sein.
 
@@ -13,6 +15,8 @@ Fehlen bei hohen Personalkosten die Tätigkeitsnachweise, frage nach Aufgaben, Z
 ## 1.2 Übernahme und Erlaubnis rekonstruieren
 
 Ordne Quelle, Ziel, Konto, Zugriffspfad, Datum und übernommene Elemente einer Person zu. Unterscheide Export, API-Abruf, manuelle Auswahl, Metasuche, Weitergabe und Training. Vergleiche Daten, charakteristische Fehler und Zeitstempel; eine ähnliche Oberfläche beweist keine Entnahme. Eigene Erhebung und unabhängige Drittquellen als Gegenposition prüfen.
+
+Wendet der Nutzer ein, er habe Daten nur am Bildschirm ausgewählt und anschließend neu eingegeben, prüfe trotzdem die Übertragung: [EuGH, Urteil vom 09.10.2008, C-304/07, Directmedia, Randnummern 34 bis 45 und 59](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=ecli:ECLI:EU:C:2008:552), versteht Entnahme nach Artikel 7 Absatz 2 Buchstabe a Richtlinie 96/9/EG unabhängig vom Kopierverfahren. Für Paragraf 87b UrhG entfällt damit lediglich das Argument fehlenden technischen Kopierens. Schutzfähigkeit, wesentlicher Umfang oder qualifizierte systematische Teilentnahmen und fehlende Erlaubnis bleiben gesondert nachzuweisen; bloße Abfrage ist nicht automatisch eine Verletzung.
 
 Prüfe nach Paragraf 87b UrhG quantitative und qualitative Wesentlichkeit sowie wiederholte systematische Übernahmen kleiner Teile. Vergleichsbestand und Investitionsbezug begründen; weder sämtliche Abrufe ungeprüft addieren noch kleine Einzelabrufe automatisch freigeben. Die Darlegungs- und Beweisfragen für Schutz, Inhaberschaft und Verletzung von den Voraussetzungen einer geltend gemachten Erlaubnis oder Schranke unterscheiden.
 
@@ -56,14 +60,7 @@ Bei Sensordaten Erzeugung, Beschaffung, Qualitätsprüfung und Darstellung getre
 
 ## 1.5 Rechtsprechung und Quellen
 
-Die folgenden bisherigen Anker vor Verwendung im amtlichen Volltext und auf ihren konkreten Bezug prüfen:
-
-- EuGH, Urteil vom 09.11.2004, C-203/02, British Horseracing Board: Abgrenzung der Datenerzeugung von schutzfähiger Investition.
-- EuGH, Urteil vom 09.10.2008, C-304/07, Directmedia: Entnahme von Datenbankinhalten auch ohne bloßes technisches Kopieren.
-- EuGH, Urteil vom 19.12.2013, C-202/12, Innoweb: Metasuchmaschinen und Wiederverwendung.
-- BGH, Urteil vom 01.12.2010, I ZR 196/08, Automobil-Onlinebörse: Entnahme und Investitionsbezug.
-
-Richtlinie 96/9/EG, einschlägige UrhG-Normen und Data Act in der maßgeblichen Fassung heranziehen. Keine nicht eingesehenen Fundstellen ergänzen. Quellenstatus und offene Recherche getrennt vom Mandantenbrief dokumentieren.
+Artikel 7 Absätze 1, 2 und 5 Richtlinie 96/9/EG und Paragrafen 87a, 87b UrhG tragen Investitions- und Entnahmeprüfung. Für Metasuche, Trainingsnutzung oder spätere wesentliche Neuinvestition die gerade entscheidende Zusatzfrage gesondert amtlich recherchieren; Directmedia beantwortet weder jede Plattformnutzung noch die heutigen Data-Act-Ausnahmen. Einschlägige UrhG-Normen und Data Act in der maßgeblichen Fassung heranziehen. Keine nicht eingesehenen Fundstellen ergänzen. Quellenstatus und offene Recherche getrennt vom Mandantenbrief dokumentieren.
 
 ## 1.6 Ergebnis abschließen und nach Antworten fortsetzen
 
@@ -76,3 +73,31 @@ Vor Ausgabe Rechtekette, Investitionszuordnung, Übernahmeumfang, Einwendungen, 
 ## 1.7 Technische Grenzen
 
 Nur zugängliche Dateien und Werkzeuge verwenden und fehlende Nachweise konkret benennen. Ein Abrufproblem lässt nur die davon abhängige Aussage offen; einen sachgerechten Alternativzugang prüfen und unabhängige Teile weiterbearbeiten. Ohne Export den vollständigen Text liefern, ohne eine nicht erfolgte Prüfung oder Dateierzeugung zu behaupten.
+
+## 2. Investition, Entnahme und Nutzungserlaubnis fortschreiben
+
+### 2.1. Neue Tätigkeitsnachweise verändern die Schutzbasis
+
+Bei „Die Mitarbeiter haben nicht gemessen, sondern fremde Messreihen bereinigt“ vergleiche Tätigkeitsbeschreibung, Zeitraum und konkreten Datenfluss. Eine nachträgliche Umbenennung von Erzeugungsarbeit genügt nicht; ein belastbarer Nachweis kann aber die Zuordnung zur Prüfung vorhandener Elemente ändern. Aktualisiere die Investitionssumme und ihre qualitative Bewertung gemeinsam. Hohe Gesamtkosten dürfen einen kleinen verbleibenden schutzrelevanten Anteil nicht verdecken, und ein hoher Erzeugungsanteil beseitigt umgekehrt nicht automatisch jede andere wesentliche Investition.
+
+Bei Mischkosten wähle einen aus den Tätigkeiten nachvollziehbaren Zuordnungsschlüssel und benenne seine Grenze. Die gesamte Serverrechnung ist nicht ohne Weiteres ausschließlich Datenbankdarstellung, wenn darauf weitere Dienste laufen. Rechteinhaberschaft anhand des wirtschaftlichen Investitionsträgers prüfen; eine Rechnung an eine Konzerngesellschaft beweist nicht automatisch ein Herstellerrecht der klagenden Schwester. Der Anspruchstext muss die richtige Person und den geschützten Bestand bezeichnen.
+
+### 2.2. Kleine Abrufe ohne falsche Addition
+
+Lautet die Antwort „Jeden Tag dasselbe eine Prozent“, ist die bisher angenommene disjunkte Übernahme von zwanzig Prozent zu korrigieren. Wiederholungsfrequenz und tatsächlich übernommener Datenbestand sind verschiedene Größen. Prüfe die Voraussetzungen wiederholter systematischer Teilnutzung nach Paragraf 87b UrhG eigenständig; aus fehlender quantitativer Addition folgt ebenso wenig automatische Zulässigkeit. Veränderte Datenversionen können den Vergleichsbestand beeinflussen und müssen zeitlich zugeordnet werden.
+
+Bei „Wir haben alles selbst abgetippt“ bleibt nach Directmedia die Übertragung als mögliche Entnahme prüfbar. Frage nach Auswahlquelle und übernommenen Elementen, nicht nur nach verwendeter Software. Charakteristische Fehler oder identische ungewöhnliche Reihenfolgen können Indizien sein; sie ersetzen nicht allein den Nachweis geschützter Investition und relevanten Umfangs. Nach belegter unabhängiger Drittquelle die Verletzungsbehauptung eingrenzen oder fallenlassen, statt jeden gleichen Datensatz als Kopie zu behandeln.
+
+### 2.3. Lizenznachtrag und veränderte Weitergabe
+
+Bei „Unser Kunde darf die Ergebnisse weiterverkaufen“ unterscheide einzelne Auswertung, Rohdatenexport und vollständigen nachgebauten Datenbestand. Formuliere den erlaubten Nutzungsumfang anhand dieser tatsächlichen Produkte. Eine bloße Erlaubnis interner Analyse deckt nicht automatisch Unterlizenzierung. Ein neuer Nachtrag kann vertragliche Erlaubnis ändern, aber sein Beginn und die Behandlung früherer Nutzung müssen ausdrücklich geprüft werden. Keine rückwirkende Freigabe aus einem späteren Angebot ableiten.
+
+Der Lizenztext regelt Datenkategorien, Aktualisierung, Speicherumfang, Empfängerkreis und Nutzungsende zusammen mit Vergütung und Kontrolle. Ein Abruflimit benötigt eine messbare Einheit: Requests, Datensätze und unterschiedliche Elemente sind nicht dasselbe. Wiederholungsabrufe und Fehlversuche nach der vereinbarten Messregel behandeln, nicht nach einer spontan günstigeren Zählweise. Ein Vertragsverstoß bleibt von der Herstellerrechtsverletzung getrennt. Bei Sensor- oder Trainingsdaten aktuelle gesetzliche Ausnahmen eigenständig prüfen, keine pauschale Freigabe aus dem Begriff Daten ableiten.
+
+### 2.4. Schutzdauer, Beweissicherung und genaue Rechtsfolge
+
+Bei „Die Datenbank wird täglich aktualisiert“ erfasse Fertigstellung, Veröffentlichung und Art einer behaupteten wesentlichen Neuinvestition. Paragraf 87d UrhG knüpft die Schutzdauer an die gesetzlichen Ereignisse; tägliche Pflege setzt nicht automatisch für jeden alten Datensatz einen neuen Zeitraum in Gang. Der Nutzer muss nicht sämtliche historischen Versionen vorlegen, wenn nur eine bestimmte Investitionsphase entscheidend ist. Frage gezielt nach dieser Phase und ihrem Nachweis.
+
+Für eine Abmahnung beschreibe Bestand und beanstandete Handlung bestimmt. Eine Forderung nach vollständiger Löschung aller Geschäftsdaten kann weiter reichen als die nachgewiesene Übernahme; prüfe Eigenbestände und erlaubte Nutzung. Schadensberechnung benötigt ihre eigene Grundlage und ist nicht gleich dem Entwicklungsbudget. Eine Abwehrantwort greift das konkret schwache Merkmal an und setzt sich mit belastenden Exportprotokollen auseinander.
+
+Sichere nur vorhandenes oder autorisiert zugängliches Material. Kein Testzugriff, keine Sperrumgehung und keine Löschung als Beweisstrategie. Trenne gerichtliche oder gesetzliche Fristen von frei gesetzten Antwortterminen und verifiziere den tatsächlich gewählten Anspruchsweg. Liefere nach der letzten entscheidenden Antwort vollständigen Brief oder Vertrag mit konsistentem Kosten- und Datenumfang; Versand und Datenübertragung bleiben freigabebedürftig.

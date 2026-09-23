@@ -41,4 +41,16 @@ Amtliche Normtexte abgeglichen am 8. September 2026. Diese Übersicht dient der 
 
 Ein Ausweisscan wird als Kopie erfasst. Ob und wie der Notar Gewissheit erlangt hat, ist gesondert festzustellen. Bei Video gelten [BeurkG Paragraf 16a](https://www.gesetze-im-internet.de/beurkg/__16a.html) und [16c](https://www.gesetze-im-internet.de/beurkg/__16c.html) sowie die jeweilige materielle Zulassung; ein allgemeiner Videoanruf genügt nicht.
 
-Die Arbeitshilfe nennt bewusst Normen statt austauschbarer Rechtsprechungszitate. Für eine streitige Sonderfrage wird eine konkret einschlägige Entscheidung mit Datum, Aktenzeichen, Aussage und verifiziertem Volltext gesucht. Fehlende Fundstellen werden nicht ergänzt, als wären sie bekannt.
+Für eine streitige Sonderfrage wird eine konkret einschlägige Entscheidung mit Datum, Aktenzeichen, Aussage und überprüfter Quelle gesucht. Fehlende Fundstellen werden nicht ergänzt, als wären sie bekannt.
+
+## 5. Entscheidungsanker und konkrete Grenzen
+
+BGH, Urteil vom 07.02.2013, III ZR 121/12, Randnummern 17 bis 25 ([amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2012/III_ZR_121-12.pdf?__blob=publicationFile&v=1)): Die Verbraucherüberlegungsfrist steht nicht zur freien Disposition der Beteiligten. Bei Verkürzung sind sachlicher Grund und anderweitiger Übereilungsschutz zur notariellen Entscheidung aufzuklären. Ein bloßer früher Terminwunsch reicht nicht. Grenze: keine Aussage, dass jeder Notartermin zwei Wochen warten müsse oder der Vertrag bei Fristverletzung automatisch unwirksam werde. Die aktuelle Pflicht, Verkürzungsgründe in der Niederschrift anzugeben, folgt aus dem heutigen BeurkG Paragraf 17 Absatz 2a.
+
+BGH, Beschluss vom 06.07.2016, XII ZB 61/16: Konkrete Behandlungssituation und Maßnahme sind bei der Patientenverfügung entscheidend. Der frühere Normstand ist auf die heutigen BGB Paragrafen 1820 und 1827 zu beziehen, nicht unverändert zu zitieren. Quellenstatus: [amtliche Erläuterung](https://www.bmjv.de/DE/themen/vorsorge_betreuungsrecht/patientenverfuegung/Anmerkungen_Urteil_BGH.html), kein in dieser Runde vollständig neu gelesener Entscheidungstext. Die Aussage ersetzt keine medizinische Auswahlentscheidung des Vollmachtgebers.
+
+## 6. Zuständigkeit und Fortsetzung
+
+Grundbuchbeschwerden gehören nach [GBO Paragraf 72](https://www.gesetze-im-internet.de/gbo/__72.html) zum Oberlandesgericht. [Paragraf 18](https://www.gesetze-im-internet.de/gbo/__18.html) regelt die Behandlung von Eintragungshindernissen, nicht einen automatischen Anspruch auf Fristverlängerung. Bei Erbfolge [Paragrafen 35](https://www.gesetze-im-internet.de/gbo/__35.html) und [40](https://www.gesetze-im-internet.de/gbo/__40.html) getrennt auf Nachweis und Voreintragung prüfen.
+
+Bei Verschmelzung regelt [UmwG Paragraf 16](https://www.gesetze-im-internet.de/umwg_1995/__16.html) die Anmeldung, [Paragraf 17](https://www.gesetze-im-internet.de/umwg_1995/__17.html) deren Anlagen und [Paragraf 20](https://www.gesetze-im-internet.de/umwg_1995/__20.html) die Eintragungswirkungen. Beim Formwechsel bleiben Rechtsträgeridentität und Wirkung nach [Paragraf 202](https://www.gesetze-im-internet.de/umwg_1995/__202.html) maßgeblich. Eine Registeranmeldung beweist keinen bereits eingetretenen Vollzug.

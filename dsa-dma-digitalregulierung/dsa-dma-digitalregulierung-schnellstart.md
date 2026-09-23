@@ -1,68 +1,47 @@
-# 1. DSA DMA Digitalregulierung — Schnellstart
+# 1. Plattformentscheidung oder Regulierungspflicht prüfen
 
-Prüfe die vorgelegte Plattformentscheidung oder Regulierungspflicht und verfasse die beauftragte Beschwerde, Behördenantwort oder rechtliche Bewertung. Bestimme die Dienstfunktion aus den Unterlagen, nicht aus dem Produktnamen.
+Prüfe die konkrete Sperre, Inhaltsentscheidung oder Dienstpflicht und formuliere die verlangte Beschwerde, Behördenantwort oder Bewertung. Lies Entscheidung, betroffenen Inhalt, Nutzungsbedingungen und vorhandene Korrespondenz zuerst. Bei einer Dienstprüfung bestimme Funktion, Größe und Benennung aus den Belegen, nicht aus dem Produktnamen.
 
-Kernauftrag: Digitalregulierung der EU: DSA (VO 2022/2065) und DMA (VO 2022/1925) plus Data Act DGA Regulierungsrahmen NIS-2 DORA CRA eIDAS 2.0 DDG P2B-VO und Paragraf 19a GWB. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1. Auftrag und Unterlagen
 
-## 1.1. Sofortstart nach Eingangslage
+Ohne Eingabe biete Sperrbeschwerde, Plattformpflichten oder DMA-Datenzugang an. Dateien ohne Auftrag still lesen, dann nur das offene Ziel klären. Bei klarem Auftrag direkt entwerfen, kein Komplettaudit. Folgeantwort „Es gab vorher eine Warnung“ verändert die Verhältnismäßigkeitsbegründung der Beschwerde; nicht weiter fehlende Warnung behaupten. Nur entscheidende Lücken fragen, bekannte Angaben behalten. Kein Plugin-Zugriff erforderlich.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Mit den belegten Angaben am verlangten Dokument arbeiten; kein Standardprodukt voranstellen. Fehlende Tatsachen nicht durch Annahmen ersetzen.
-- Nur Prompt gestartet: Vorhandene Unterlagen einordnen; fehlt das Bearbeitungsziel, nach der betroffenen Entscheidung oder der zu prüfenden Dienstpflicht fragen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+## 1.2. DSA-Rolle und Nutzerzahl
 
-Auch vorhandene Dateien können entscheidende Angaben offenlassen. Frage gezielt nach dem fehlenden Entscheidungstext, Inhalt oder Benennungsbeschluss; bereits beantwortete Fragen unterbleiben.
+Ordne Vermittlung, Hosting, Plattform, Marktplatz oder Suchmaschine nach Artikel 3 bis 6 der Verordnung (EU) 2022/2065 (DSA) ein. Prüfe Artikel 19 vor allgemeinen Plattformpflichten und gegebenenfalls Artikel 29 für Marktplätze. Sehr große Dienste benötigen die gesonderte Prüfung von Artikel 33 und Benennung. Haftungsprivileg, Verfahrenspflicht und materielle Rechtswidrigkeit nicht gleichsetzen.
 
-## 1.2. Fachlicher Direktstart
+Bei Eigenhandel mit Partnerangeboten wende EuG, Urteil vom 03.09.2025, T-348/23, Zalando/Kommission, Randnummern 60 bis 67, auf Artikel 3 Buchstabe p, Artikel 24 Absatz 2 und Artikel 33 DSA an: Aktive Nutzer sind nicht nur Käufer; auch tatsächlicher Kontakt mit Drittanbieterinformationen zählt. Der Umsatzanteil des Partnerprogramms bildet diese Reichweite nicht ab. Fordere Zählmethode und Belege einer getrennten Reichweite an. Kein pauschaler Einschluss sämtlicher Besucher reiner Eigenhandelsshops; Rechtsmittelstand vor Bestandskraftaussagen prüfen. [Volltext](https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62023TJ0348).
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welche konkrete technische und wirtschaftliche Funktion übt der Dienst aus.
-2. Kernprüfung in einem Durchgang: Welche DSA- oder DMA-Rolle folgt daraus und welche Schwelle ist belegt; Welche Handlung, Unterlassung oder Entscheidung löst welche Pflicht aus.
-3. Pflichtauslösende Handlung oder Entscheidung belegen. Plattformrolle und Adressat nicht nur aus der Produktbezeichnung ableiten.
-4. Erstes Arbeitsprodukt liefern: Notice, Begründung, Beschwerde, Risikobericht, Datenzugangsantrag, Behördenantwort oder Compliance-Roadmap erstellen.
+## 1.3. Meldung oder Sperrbeschwerde
 
-## 1.3. Kernroute
+Bei Artikel 16 genaue Fundstelle, Inhalt, nachvollziehbare Rechtswidrigkeitsbegründung und erforderliche Erklärungen zusammenführen. Bei Artikel 17 Entscheidung, Mitteilungstag, Reichweite, Dauer, Tatsachen, gesetzlichen oder vertraglichen Grund und Automatisierung prüfen. Ein Verstoß gegen Nutzungsbedingungen ist nicht automatisch ein Gesetzesverstoß.
 
-1. Dienst und Rolle: Vermittlung, Hosting, Plattform, Marktplatz, Suchmaschine, sehr großer Dienst oder Gatekeeper anhand der tatsächlichen Funktion einordnen.
-2. Vorgang: Meldung, Sperre, Ranking, Werbung, Empfehlungssystem, Händlernachverfolgung, Beschwerde oder behördliche Maßnahme erfassen.
-3. Pflichtmatrix: Dienstfunktion, Unternehmensgröße und gegebenenfalls förmlichen Benennungsbeschluss gesondert prüfen. DSA-Plattform ist nicht automatisch DMA-Gatekeeper. Bei Beschränkungen Entscheidung, Mitteilungstag, konkreten Inhalt, gesetzlichen oder vertraglichen Grund und verwendete Automatisierung erfassen. Artikel 19 DSA vor Anwendung der Plattformpflichten prüfen.
-4. Grundrechte und Verfahren: Nutzerposition, Unternehmerfreiheit, Meinungsfreiheit, Gehör, Beschwerdeweg und gerichtlichen Rechtsschutz trennen.
-5. Arbeitsprodukt: Notice, Begründung, Beschwerde, Risikobericht, Datenzugangsantrag, Behördenantwort oder Compliance-Roadmap erstellen.
+Nach Artikel 14 Absatz 4 auch bei gewöhnlichen Sperren Nutzergrundrechte und Gegeninteressen abwägen; Reichweite und Dauer müssen angemessen sein. Der AGB-Verstoß allein rechtfertigt nicht jede Sanktion.
 
-## 1.4. Fallkarte
+Bei anwendbarem Artikel 20 besteht kostenloser elektronischer Beschwerdezugang mindestens sechs Monate ab Mitteilung; Beschwerdeentscheidungen dürfen nicht ausschließlich automatisiert sein. Keine allgemeine Siebentagesfrist erfinden. Fehlt der gesperrte Beitrag oder Kontext, genau diesen anfordern. Nach Eingang den behaupteten Verstoß prüfen und die Beschwerde mit konkreter Abhilfe fertigschreiben; bei neuer erheblicher Lücke, etwa einer behaupteten Warnung, gezielt nachfassen.
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | DSA Artikel 3 bis Artikel 6; DSA Artikel 11 bis Artikel 17; DSA Artikel 20 bis Artikel 23 |
-| Rechtsprechung | EuGH, Urteil vom 12.07.2011 - C-324/09; EuGH, Urteil vom 03.10.2019 - C-18/18 |
-| Tatbestand | Vermittlung, Hosting, Plattform, Marktplatz, Suchmaschine, sehr großer Dienst oder Gatekeeper anhand der tatsächlichen Funktion einordnen |
-| Beweislast | Darlegungs- und Nachweisfrage für Digitale Plattformregulierung: Welche Handlung, Unterlassung oder Entscheidung löst welche Pflicht aus |
-| Rechtsfolge | Notice, Begründung, Beschwerde, Risikobericht, Datenzugangsantrag, Behördenantwort oder Compliance-Roadmap erstellen |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+Artikel 21 betrifft zertifizierte außergerichtliche Streitbeilegung ohne bindende Entscheidung; Zuständigkeit und Kosten prüfen. Artikel 53 betrifft Behördenbeschwerden. Beide nicht mit einer internen Beschwerde oder Klage gleichsetzen. Vertrauenswürdige Hinweisgeber nach Artikel 22 erhalten Vorrang, keine automatische Bestätigung ihrer Meldung; bei Missbrauch Artikel 23 einschließlich Warnung und Verhältnismäßigkeit prüfen.
 
-## 1.5. Ergebniswahl
+## 1.4. Dienstpflichten konkretisieren
 
-Moderation: konkrete Entscheidung, Begründung und Beschwerderoute. Dienstprüfung: adressatenbezogene Pflichtmatrix. Sehr großer Dienst: Benennung und besondere Risikopflichten. DMA nur bei eigenständig geprüfter Gatekeeper- und Dienstzuordnung.
+Werbung nach Artikel 26: Kennzeichnung, Werbender, abweichender Zahlender und Auswahlparameter. Artikel 27: wichtigste Empfehlungsparameter; bei sehr großen Diensten Artikel 38 zur nicht profilbasierten Option. Bei manipulativer Gestaltung Artikel 25 samt Abgrenzung zu Datenschutz- und Lauterkeitsrecht prüfen. Minderjährigenschutz nach Artikel 28 verlangt keine zusätzliche Datenerhebung allein zur Altersfeststellung. Händlernachverfolgung und Marktplatzgestaltung nach Artikeln 30 bis 32 gesondert prüfen.
 
+Bei sehr großen Diensten Benennung, Risikobewertung nach Artikel 34, konkrete Maßnahmen nach Artikel 35, gegebenenfalls Krisenentscheidung nach Artikel 36, unabhängiges Audit nach Artikel 37 oder Datenzugang nach Artikel 40 dem Auftrag zuordnen. Risiken und Maßnahmen mit tatsächlicher Funktion, Nachweis und überprüfbarer Wirkung verbinden; ein Compliance-Bericht ersetzt keinen angeforderten Datenzugangsantrag.
 
-## 1.6. Anker
+## 1.5. DMA gesondert prüfen
 
-- DSA Artikel 3 bis Artikel 6: Rollen, Vermittlungsdienste und Haftungsprivilegien nach Dienstetyp.
-- DSA Artikel 11 bis Artikel 17: Kontaktstellen, Transparenz, Melde- und Abhilfeverfahren sowie Begründung von Beschränkungen.
-- DSA Artikel 20 bis Artikel 23: internes Beschwerdesystem, außergerichtliche Streitbeilegung, vertrauenswürdige Hinweisgeber und Missbrauchsschutz.
-- DSA Artikel 34, Artikel 35 und Artikel 40: systemische Risikobewertung, Risikominderung und Datenzugang bei sehr großen Diensten.
-- Art. 263 Abs. 4 AEUV — Nichtigkeitsklage; 2-Monatsfrist; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 278/279 AEUV — Eilrechtsschutz (Aussetzung und einstweilige Maßnahmen); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- [DSA, Artikel 19 und 20](https://eur-lex.europa.eu/eli/reg/2022/2065/oj/deu): Größenabhängige Ausnahme prüfen; bei anwendbarem Artikel 20 kostenloser elektronischer Beschwerdezugang mindestens sechs Monate ab Mitteilung. Entscheidungen über Beschwerden dürfen nicht ausschließlich automatisiert erfolgen. Keine allgemeine Siebentagesfrist erfinden.
-- EuGH, Urteil vom 12.07.2011 - C-324/09: L'Oréal gegen eBay betrifft die frühere unionsrechtliche Haftungs- und Unterlassungsordnung für Online-Marktplätze; die Aussage ist bei heutigen Fällen mit dem DSA abzugleichen.
+Bei Verordnung (EU) 2022/1925 (DMA) zentralen Plattformdienst, Unternehmen und Benennung nach Artikel 3 feststellen. DSA-Status ersetzt keine Torwächterbenennung. EuG, Urteil vom 17.07.2024, T-1077/23, Bytedance/Kommission, Randnummern 39 bis 51 und 59 bis 66: Zur Widerlegung nach Artikel 3 Absatz 5 können qualitative Belege erheblich sein, wenn sie sich unmittelbar auf die betreffende Vermutung beziehen und hinreichend substantiiert sind. Ordne jedes Argument dieser Voraussetzung zu; kartellrechtliche Marktdefinition oder allgemeine Effizienzbehauptung genügt nicht. Das Urteil entscheidet über Benennung, nicht automatisch über Verstöße gegen Artikel 5 bis 7. [Volltext](https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62023TJ1077).
 
-## 1.7. Nachfragen und Fertigstellung
+Bei Datenzusammenführung Artikel 5 Absatz 2, Selbstbevorzugung Artikel 6 Absatz 5, Interoperabilität Artikel 7 und Umgehung Artikel 13 am konkreten Verhalten prüfen. Paragraf 19a GWB ist eigenständig, nicht nur unter DMA-Schwellen relevant. Data Act, DGA, NIS-2, DORA, CRA, eIDAS 2.0, DDG und P2B nur bei tatsächlichem Sachbezug ergänzen.
 
-Bei einer Sperrbeschwerde Entscheidung, Mitteilungsdatum, betroffenen Inhalt und geltend gemachten Sperrgrund abgleichen. Fehlt der Inhalt oder sein Kontext, diesen gezielt anfordern. Nach Eingang zwischen behaupteter Rechtswidrigkeit und Verstoß gegen Nutzungsbedingungen unterscheiden, die konkrete Begründung überarbeiten und die Beschwerde fertigschreiben. Eröffnet die Antwort eine entscheidende neue Frage, etwa zu einer vorausgegangenen Warnung, kurz nachfassen.
+## 1.6. Verfahren, Nachfragen und Fertigstellung
 
-Bei einer Dienstprüfung fehlende Angaben zu Funktionen, Größe oder Benennung erfragen; nur die davon abhängigen Pflichten offenlassen. Neue Angaben in die Pflichtenbewertung und die bestellte Behördenantwort oder Umsetzungsempfehlung einarbeiten. Ein Gutachtenauftrag löst keinen Klageentwurf aus. Belegabgleich und Quellenstatus gehören in eine gesonderte Arbeitsnotiz, nicht als Pflichtgliederung in die Beschwerde. Bei einem Hindernis den bearbeitbaren Teil und den benötigten Beitrag nennen; nach dessen Eingang bis zum bestellten Ergebnis fortsetzen.
+Bei Behördenpost Zuständigkeit nach Artikeln 51 und 56 DSA, Ermächtigung, Frist und Vertraulichkeit prüfen. Bei beauftragter Direktklage Artikel 263 Absätze 4 und 6 AEUV, bei Eilrechtsschutz Artikel 278 und 279 AEUV gesondert anwenden. Zustellung und Berechnungsregeln prüfen; keine Frist allein aus „zwei Monaten“ ableiten. Ein Gutachtenauftrag verlangt keine Klage.
 
-## 1.8. Grenzen und Arbeitsmittel
+Bei dringender Entsperrung zivilrechtlichen Anspruch und einstweilige Verfügung nach Paragraf 940 ZPO mit Dringlichkeitsnachweisen prüfen. Das ist keine Direktklage gegen einen Unionsakt; Plattformbeschwerden ersetzen diesen Eilweg nicht.
 
-Bei unklarer Rolle zunächst Funktions- und Adressatenmatrix liefern, nur davon abhängige Pflichten offenlassen. Beschwerde gegen Moderation, Meldung rechtswidrigen Inhalts und Behördenbeschwerde nicht gleichsetzen. Werkstatt und andere Skills optional. Keine Meldung, Sperrung oder Behördeneingabe auslösen. Ergebnis ausformulieren, Entscheidungen nur mit geprüfter Fundstelle verwenden; dezimale Gliederung, Markdown-Exporthinweis Times New Roman 11 pt.
+Fehlende Funktion, Größe, Entscheidung oder Benennung gezielt anfordern; nur abhängige Pflichten offenlassen. Nach Antwort Bewertung und bestellten Text vollständig aktualisieren. Eine bloße Fragen- oder Pflichtenliste erfüllt keinen Schreibauftrag. Quellenstatus und Belegabgleich getrennt von Beschwerde oder Mandantenbrief dokumentieren. Zusätzliche Entscheidungen amtlich verifizieren; ältere E-Commerce-Urteile nicht ungeprüft als DSA-Auslegung ausgeben.
 
-Nur verfügbare Werkzeuge nutzen; fehlenden Datei- oder Quellenzugriff konkret benennen. Bei technischen Fehlern einen sinnvollen Alternativweg versuchen, sonst den erreichten Stand sichern; ohne Export den Text liefern und keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten, ungeprüfte Teile nicht als freigegeben ausweisen.
+## 1.7. Grenzen und Arbeitsmittel
+
+Keine Meldung, Sperrung, Veröffentlichung oder Behördeneingabe ohne Freigabe. Werkstatt und weitere Skills sind optional. Nur verfügbare Werkzeuge nutzen; bei Zugriffsfehlern sinnvollen Alternativweg versuchen, ungelesene Teile benennen und unabhängig weiterarbeiten. Nach Materialnachlieferung bis zur Endfassung fortsetzen. Ohne Export vollständigen Text liefern, keine Dateilinks erfinden. Dezimale Gliederung und beim formatierten Export Times New Roman 11 pt.

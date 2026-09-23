@@ -1,8 +1,8 @@
-# 1. Urkunde und Anlagen systematisch abgleichen
+# 1. Bauträgerraten und Abnahmeklauseln prüfen
 
-Prüfe aus Erwerbersicht den vorhandenen Bauträgervertragsentwurf und erstelle den bestellten Schnellbefund, die Vollprüfung oder das Verhandlungsschreiben. Lies Nutzersachverhalt und alle zugänglichen Bezugsunterlagen zuerst.
+Gleiche den Kaufpreis mit dem geschuldeten Bauzustand ab und prüfe, ob Zahlungs- oder Abnahmeklauseln Rechte des Erwerbers vorzeitig verkürzen. Lies zunächst den vorhandenen Vertrag und die für den Auftrag maßgeblichen Anlagen. Erstelle den bestellten Schnellbefund, die Vollprüfung oder das Verhandlungsschreiben.
 
-Bei Vollprüfung nicht nur die ersten auffälligen Klauseln behandeln. Ungelesene Teile mit Abschnitt benennen; nur entscheidende fehlende Angaben erfragen.
+Ohne Eingabe biete Klauseländerung, Ratenprüfung oder Abnahme- und Mängelprüfung an. Dateien ohne Aufgabe still lesen und zwei oder drei passende Wege erfragen, noch keine Vollprüfung. Bei klarem Auftrag direkt liefern und bekannte Fakten übernehmen. „Plan nur vom Vertrieb“ lässt Vertragszuordnung offen; beurkundeter Nachtrag ändert Bausoll, Preis und Verweise. „Erwerber hat später selbst abgenommen“ verlangt eigenständige Abnahmeprüfung und verändert Beweislast und Fristbewertung. Bei Vollprüfung sämtliche einschlägigen Abschnitte bearbeiten, nur entscheidende Lücken fragen.
 
 ## 1.1. Vertrag und konkrete Einheit
 
@@ -18,7 +18,9 @@ Ordne Bezugsfertigkeit mit Besitzübergabe nicht der vollständigen Fertigstellu
 
 Für jede relevante Regelung Wortlaut, Bezug zur Anlage, wirtschaftliche Wirkung, Prüfmaßstab und Gegenargument untersuchen. Benenne den konkreten Mangel oder die verbleibende Auslegungsfrage in verständlichen Sätzen; bei Gestaltungsauftrag eine vollständige Ersatzfassung schreiben. Nicht jede AGB allein wegen ihrer Eigenschaft beanstanden.
 
-Prüfe besonders unbestimmte Bauzeiten, einseitige Materialwechsel, Preisvorbehalte und Widersprüche bei Fläche oder Stellplatz. Gewährleistungsbeginn an die konkrete Abnahmefrage knüpfen. Eine im Vertrag behauptete frühere Gemeinschaftseigentumsabnahme nicht ohne Prüfung als Bindung des neuen Erwerbers übernehmen. Tatsächlicher Bauzustand, Vertretungsmacht und Wirksamkeit einer Abnahmeklausel bleiben verschiedene Fragen.
+Prüfe besonders unbestimmte Bauzeiten, einseitige Materialwechsel, Preisvorbehalte und Widersprüche bei Fläche oder Stellplatz. Gewährleistungsbeginn an die konkrete Abnahme nach Paragraf 640 BGB knüpfen. Eine behauptete frühere Gemeinschaftseigentumsabnahme bindet den neuen Erwerber nicht ungeprüft. Bauzustand, Vertretungsmacht und Klauselwirksamkeit bleiben verschiedene Fragen.
+
+Bei formularmäßiger Abnahmevollmacht an den vom Bauträger bestimmten Erstverwalter prüfe Paragraf 307 BGB anhand [BGH, Beschluss vom 12.09.2013, VII ZR 308/12, Rn. 6–11](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2012/VII_ZR_308-12.pdf?__blob=publicationFile&v=1): Fehlende Neutralitätssicherung benachteiligt den Erwerber; bloße Widerruflichkeit rettet die Klausel nicht. Eine darauf gestützte Unterschrift nicht als wirksame Erwerberabnahme behandeln. Unabhängige Vertretung oder eigene spätere Abnahme gesondert prüfen; die Entscheidung verbietet nicht jede Vertreterabnahme und begründet keine pauschale dreißigjährige Mängelhaftung.
 
 ## 1.4. Verhandlungsfähiger Abschluss
 

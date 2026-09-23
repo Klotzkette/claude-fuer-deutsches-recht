@@ -1,32 +1,61 @@
 {
   "schema_version": 1,
   "plugin": "nachbarschaftsstreit-pruefer",
-  "reviewed_on": "2026-09-17",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/bgb/__910.html",
       "checked_on": "2026-09-14",
       "supports": "Beeinträchtigung der Grundstücksbenutzung und erfolglose angemessene Frist bei Zweigen."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2021/2021109.html",
+      "checked_on": "2026-09-23",
+      "supports": "Selbsthilfe wegen Überhangs trotz drohender Schädigung des Baums einordnen. Amtliche Pressemitteilung vollständig gelesen, kein Volltext. Nutzungsbeeinträchtigung, Naturschutz und sichere Durchführung gesondert prüfen; keine allgemeine Fäll- oder Zutrittsbefugnis."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__910.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlichen Normtext für die konkret ergänzte Abgrenzung gelesen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__917.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlichen Normtext für die konkret ergänzte Abgrenzung gelesen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__918.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlichen Normtext für die konkret ergänzte Abgrenzung gelesen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gvg/__23.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlichen Normtext für die konkret ergänzte Abgrenzung gelesen."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der vollständig geprüfte Mini verbindet Ortsbefund und Überhangprüfung nun mit gezielter Nachforderung und der Fertigstellung des bestellten Nachbarschreibens; Schnitt und Betreten bleiben gesondert zu prüfen.",
+    "reason": "Am 23. September 2026 erneut vollständig im Desk Review gelesen: drei konkrete Einstiegswege und dokumentbezogene Fortsetzung ergänzt; bisherige Rechtsprüfung erhalten. Kein Live-Modelltest.",
     "changes": [
-      "Zweige und Wurzeln unterschieden und Beeinträchtigung konkretisiert.",
-      "Schnittfreigabe von Frist, örtlichen Schutzregeln und Zugang getrennt.",
-      "Neue Angaben zum Grundstück und zur Einwirkung in die betroffene Prüfung und das beauftragte Schreiben einarbeiten lassen."
+      "Konkrete Abhilfen und passende Normen schon im Einstieg genannt.",
+      "Fristsetzung für Zweige von Wurzel-Selbsthilfe unterschieden und Notweg vertieft.",
+      "Wertunabhängige nachbarrechtliche Amtsgerichtszuständigkeit ergänzt.",
+      "Leeren Einstieg, reine Unterlagenübergabe und klaren Auftrag getrennt; Gärtnerzugang und neuer Fotobefund ändern den vorhandenen Nachbarbrief."
     ],
-    "sha256": "49521a6a6017c06526dad390f9e7991ae7e3fd4474e7f92810878ce2393c4480"
+    "sha256": "f08465ad08bc53bc527c247fa1b8325a10605ffe3f315ce8b9e82b34fbe41499"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die vollständige Werkstatt wurde nach Ortsbefund, Anspruch und Duldung sowie Schreiben oder Verfahren gegliedert. Pflanzen, Einfriedung, Immissionen, Überbau und Notweg behalten jeweils eigene Prüfungen statt allgemeiner Praxisrouten.",
+    "reason": "Vollständiger erneuter Desk Review mit konkreten Beweis-, Abhilfe- und Einigungswegen. Vorhandene Rechtsanker und ihre Grenzen erhalten; keine Mandatsausführung.",
     "changes": [
-      "Fehlenden Grenz- oder Einwirkungsnachweis gezielt klären und anschließend Aufforderung oder Einigung fertigstellen lassen.",
-      "Schlichtung, Beweissicherung und Klage vom konkreten Auftrag abhängig gemacht und doppelte allgemeine Ausgabetabellen entfernt."
+      "Konkrete Abhilfen und passende Normen schon im Einstieg genannt.",
+      "Fristsetzung für Zweige von Wurzel-Selbsthilfe unterschieden und Notweg vertieft.",
+      "Wertunabhängige nachbarrechtliche Amtsgerichtszuständigkeit ergänzt.",
+      "Alternative Schadensursachen, eigene Eingriffe, Baugrubensicherung, Gerüstzugang gegenüber dauerhaftem Weg und begrenzte Erledigungswirkung ergänzt.",
+      "Besitzer als Adressat der Zweigfrist, bestimmte Abhilfe, Terminantwort und Änderung des vorhandenen Dokumentpfads verbunden."
     ],
-    "sha256": "ccaca10ff8cf22e1f1d037c7a1317026c0c61709227073b305723b838eacc9c2"
+    "sha256": "241c56159778c323f0b43f06e17ab973959f5431c70cc9839955bb29292fdd77"
   },
   "selection": {
     "positive": [
@@ -71,5 +100,42 @@
       ],
       "target_skill": "ueberhang-aeste-wurzeln"
     }
-  ]
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-23",
+    "files": [
+      "nachbarschaftsstreit-pruefer/nachbarschaftsstreit-pruefer-werkstatt.md",
+      "nachbarschaftsstreit-pruefer/nachbarschaftsstreit-pruefer-schnellstart.md"
+    ],
+    "opening_change": "Duldung und konkret verlangte Abhilfe aus Einwirkung, Grundstücksbezug und Belegen bestimmen.",
+    "norms": [
+      "Paragrafen 906, 910, 917, 918, 921, 922 und 1004 BGB",
+      "Paragraf 23 Nummer 2 Buchstabe e GVG",
+      "Landesnachbarrecht und örtlicher Baumschutz"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 11. Juni 2021, V ZR 234/19",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2021/2021109.html",
+        "application": "Selbsthilfe wegen Überhangs trotz drohender Schädigung des Baums einordnen.",
+        "limit": "Amtliche Pressemitteilung vollständig gelesen, kein Volltext. Nutzungsbeeinträchtigung, Naturschutz und sichere Durchführung gesondert prüfen; keine allgemeine Fäll- oder Zutrittsbefugnis."
+      }
+    ],
+    "remaining_limits": [
+      "Keine Live-Modellprüfung und keine Vollverifikation aller Teilmaterien; neue Fassungen und Einzelfallquellen erneut prüfen.",
+      "Workflow-Nachprüfung 2026-09-23: sämtliche bisherigen Profilquellen erneut geöffnet; Paragraf 910 und BGH-Pressemitteilung nach Browserfehler direkt amtlich abgerufen. Weiterhin nur Pressemitteilung zu V ZR 234/19, kein neu gelesener Urteilsvolltext. Keine neue Prüfung landesrechtlicher Fristen, Baumschutzsatzungen oder technischer Ortsbefunde. Vorstehender Quellenreview bleibt als datierter Vorbefund erhalten."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Wahl zwischen Pflanzen und Grenze, Immissionen sowie Zugang und Einigung.",
+      "Nur Unterlagen: Lageplan, Fotos und Schriftwechsel still lesen; nur Brief, Bewertung oder Vereinbarung als Ziel klären.",
+      "Klarer Auftrag: konkrete Abhilfe unmittelbar ausarbeiten; nur entscheidende Grenz-, Adressaten- oder Störungslücke fragen."
+    ],
+    "continuation": "Neuer Vermessungsplan ändert Grenzbeschreibung und Schnittbereich im vorhandenen nachbarbrief.md; Gärtnerzusage ändert Zugang und Termin in der bestellten zugangsvereinbarung.md, ohne bekannte Fakten neu aufzunehmen.",
+    "enrichment": "Gegenursachen und eigene Eingriffe, bestimmte Gutachterfrage, Sicherung bei Baugrube, vorübergehender Gerüstzugang gegenüber Notweg, begrenzte Einigung und fertig ausformulierter Dokumentstand.",
+    "limits": "desk review; no live client execution"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "fachanwalt-bau-architektenrecht",
-  "reviewed_on": "2026-09-17",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2019/VII_ZR__33-19.pdf?__blob=publicationFile&v=1",
@@ -12,36 +12,65 @@
       "url": "https://www.gesetze-im-internet.de/bgb/__642.html",
       "checked_on": "2026-09-14",
       "supports": "Unterlassene erforderliche Mitwirkung und Annahmeverzug; Bemessung anhand Dauer, Vergütung, Ersparnissen und möglichem anderweitigem Einsatz."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2019/VII_ZR__33-19.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 30.01.2020, VII ZR 33/19, Rn. 38–42 und 47–58: Bei fehlender Bestellermitwirkung Anspruchsgrund ohne zusätzlichen Kostennachteil, Höhe nach konkreter unproduktiver Vorhaltung und Vergütungsanteilen; möglicher Ersatzauftrag muss kein echter Füllauftrag sein. Grenze: Keine vollständige Umsatzkompensation und keine späteren Lohn-/Materialmehrkosten; Abwägung statt Kündigungsabrechnung, Annahmeverzug gesondert nachzuweisen."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2017/VII_ZR__46-17A.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 22.02.2018, VII ZR 46/17, Rn. 31–37 und 48–54: Bei behaltenem mangelhaftem Werk Beseitigungsabsicht feststellen: kein kleiner Schadensersatz nach fiktiven Beseitigungskosten, aber zweckgebundener abzurechnender Vorschuss bei geplanter Beseitigung grundsätzlich auch nach Schadensersatzwahl. Grenze: Werkvertragsrecht, keine allgemeine Übertragung auf Kauf oder Delikt; Anspruchsvoraussetzungen und tatsächliche Dispositionen bleiben gesondert zu prüfen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__642.html",
+      "checked_on": "2026-09-22",
+      "supports": "Voraussetzungen und vier Bemessungskriterien der angemessenen Entschädigung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__642.html",
+      "supports": "Erneuter Normabruf zur unterlassenen Mitwirkung und angemessenen Entschädigung; Dauer, Vergütung, Ersparnis und anderweitiger Erwerb am konkreten Ablauf prüfen.",
+      "checked_on": "2026-09-23"
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Ganztextreview: Die fachlich brauchbaren Abnahme- und Vorhaltungsregeln standen noch zwischen mehrfach wiederholten Kernrouten und Ergebnistabellen. Der Mini wurde nach Bauakte, Nachforderung und konkretem Anspruch gegliedert; keine erneute Quellenverifikation oder Live-Modellprüfung.",
+    "reason": "Alle Abschnitte gelesen; Vorhaltung auf wirkliche Ressourcen und möglichen Ersatzauftrag bezogen, Mängelschaden von zweckgebundenem Vorschuss getrennt. Desk- und Quellenreview, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Kran wurde abbestellt oder Personal anderweitig eingesetzt -> tatsächliche Vorhaltung, ersparte Kosten und Entschädigungsforderung korrigieren.",
     "changes": [
-      "Doppelte Einsatzfeldtabellen und Antwortschablone entfernt, fachliche Abschnitte zu Abnahme, Mangel, Nachtrag und Planung erhalten.",
-      "Fehlende Anordnung, Abnahmeerklärung oder Tagesnachweise führen zu gezielter Nachfrage und anschließender Änderung des bestellten Dokuments.",
-      "Ressourcenrechnung, Ersatzbaustellen und Trennung späterer Folgekosten erhalten; Dateinamen dem Nutzer überlassen."
+      "VII ZR 33/19 mit möglichem Ersatzauftrag, Unternehmerbeweis und zeitlicher Grenze operativ eingebaut.",
+      "VII ZR 46/17 auf nicht beseitigtes Werk und Vorschuss mit Beseitigungsabsicht bezogen.",
+      "Hauptproblem und zugeordneter Skill bei Füllaufträgen und Abgrenzung zur Kündigungsabrechnung abgestimmt.",
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
     ],
-    "sha256": "1d19cca9ea02a5c289e9b95127e891eb526b2b378ccceb4682d1f2d651e487fc"
+    "sha256": "2b330a578504db246cc16b1e044f3347b40b9144a8e13b8a77f1fe6365aff8eb"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die vollständig gelesene Werkstatt wiederholte Baufragen in Tabellen und zwölf schematischen Routen und übertrug Anzeige- und Beweislastsätze zu pauschal. Der Gesamttext wurde nach den Anspruchs- und Projektfragen geordnet; keine neue Quellenverifikation oder Live-Modellprüfung.",
-    "changes": ["Abnahme, Mängel, Nachträge, Vorhaltung, Architektenhonorar und Bauträgerfragen in konkrete Bearbeitungswege überführt.","Städtebauliche Bindungen, Denkmalschutz und Nachbarrecht erhalten; unvollständige alte Entscheidungsangaben ausdrücklich als ungeprüfte Recherchehinweise bezeichnet.","Bauprozessanlagen und technische Übermittlung von materiellen Nachweislücken getrennt; nach neuen Belegen bis zur bestellten Endfassung fortsetzen."],
-    "sha256": "2209bff10c868acf8c9dcace4c035705ead4eab5a0668e7884bf794240ebe7bb"
+    "reason": "Gesamte Werkstatt einschließlich öffentlicher Projektbindungen gelesen; Abnahme-, Nachtrags-, Mängel-, Planer- und Bauträgerzweige erhalten. Werkmangel- und Bauzeitentscheidungen in die konkrete Anspruchsprüfung aufgenommen statt bloßer Rechercheliste. Desk- und Quellenreview, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Mangelerscheinung gegenüber Ursache, Beweissicherung vor Veränderung, Planfassungen und Ressourcenverfügbarkeit, Anordnungsbefugnis, Nachtragsabgrenzung sowie synchronisierte Abnahme- und Zahlungsdaten.",
+    "changes": [
+      "VII ZR 33/19 mit möglichem Ersatzauftrag, Unternehmerbeweis und zeitlicher Grenze operativ eingebaut.",
+      "VII ZR 46/17 auf nicht beseitigtes Werk und Vorschuss mit Beseitigungsabsicht bezogen.",
+      "Hauptproblem und zugeordneter Skill bei Füllaufträgen und Abgrenzung zur Kündigungsabrechnung abgestimmt.",
+      "Mangelerscheinung gegenüber Ursache, Beweissicherung vor Veränderung, Planfassungen und Ressourcenverfügbarkeit, Anordnungsbefugnis, Nachtragsabgrenzung sowie synchronisierte Abnahme- und Zahlungsdaten."
+    ],
+    "sha256": "733648fd3f0df0ff6d9094b5c81a9d5b8a0fd3ecd93fdfa05e7bea10b97e5a89"
   },
   "focus_review": {
-    "reviewed_on": "2026-09-17",
+    "reviewed_on": "2026-09-23",
     "method": "desk_review",
     "verdict": "revised",
-    "reason": "Standalone-Prompt und zugeordneter Fokus-Skill vollständig auf fachlichen Umfang, Rückfragen mit Fortsetzung bis zum bestellten Dokument, Ausgabeverhalten, Rollenbegrenzung und Quellendifferenzierung gelesen. Kein Live-Modelltest und keine erneute Vollverifikation der bestehenden Rechtsquellen.",
+    "reason": "Hauptproblem und Fokus-Skill vollständig gelesen; möglicher Ersatzauftrag, Füllauftragsgrenze und Beweislast in konkreter Ressourcenprüfung ergänzt. Amtliche Rn. 38–42 und 47–58 gelesen; kein Live-Modelltest. Workflow-Ergänzung: Kran wurde abbestellt oder Personal anderweitig eingesetzt -> tatsächliche Vorhaltung, ersparte Kosten und Entschädigungsforderung korrigieren. Zugeordneten Fokus-Skill auf Kohärenz gelesen und unverändert belassen.",
     "changes": [
-      "Vollständigen Antworttext bei fehlendem Dateiexport ergänzt; keine erfundenen Downloadlinks."
+      "VII ZR 33/19 mit möglichem Ersatzauftrag, Unternehmerbeweis und zeitlicher Grenze operativ eingebaut.",
+      "VII ZR 46/17 auf nicht beseitigtes Werk und Vorschuss mit Beseitigungsabsicht bezogen.",
+      "Hauptproblem und zugeordneter Skill bei Füllaufträgen und Abgrenzung zur Kündigungsabrechnung abgestimmt.",
+      "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten."
     ],
     "prompt_path": "fachanwalt-bau-architektenrecht/fachanwalt-bau-architektenrecht-hauptproblem.md",
-    "prompt_sha256": "0becfff08b5ba3e9d7253eb85326c7bef9d9a35f10fbb1748b1af62af155471e",
+    "prompt_sha256": "f0776501b42f0991eff37efab72c9a7d3015ce386e1b5a0f1b206de52286ed34",
     "skill_path": "fachanwalt-bau-architektenrecht/skills/bauzeitentschaedigung-vorhaltung-und-folgezeiten/SKILL.md",
-    "skill_sha256": "3b77441bfdf731f486c015a91dab3d7e708f774127f32cb7ea11d0ef2d894394"
+    "skill_sha256": "c1bb1d3f7aa7512d9b2e4ae29426a746f18e9424d17ce1646ccf5178f85ea60c"
   },
   "selection": {
     "positive": [
@@ -101,5 +130,55 @@
       ],
       "target_skill": "bauzeitentschaedigung-vorhaltung-und-folgezeiten"
     }
-  ]
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-23",
+    "files": [
+      "fachanwalt-bau-architektenrecht/fachanwalt-bau-architektenrecht-hauptproblem.md",
+      "fachanwalt-bau-architektenrecht/fachanwalt-bau-architektenrecht-schnellstart.md",
+      "fachanwalt-bau-architektenrecht/fachanwalt-bau-architektenrecht-werkstatt.md",
+      "fachanwalt-bau-architektenrecht/skills/bauzeitentschaedigung-vorhaltung-und-folgezeiten/SKILL.md",
+      "fachanwalt-bau-architektenrecht/README.md",
+      "quality/evals/fachanwalt-bau-architektenrecht.json"
+    ],
+    "opening_change": "Vereinbarte, geänderte, erbrachte und abgenommene Leistung mit Forderung und Abwehr abgleichen; Fokus rechnet Beschäftigte und Geräte. Workflow-Ergänzung: Leer: Mängelrüge, Nachtragsforderung oder Bauzeitentschädigung anbieten. Dateien ohne Aufgabe: Vertrag, Pläne, Bautagebuch und Kostenbelege still lesen; Mangel-, Vergütungs- oder Vorhalteziel klären. Klarer Auftrag: verlangte Rüge, Rechnung oder Anspruchserwiderung unmittelbar bearbeiten, bekannte Bauabschnitte übernehmen.",
+    "norms": [
+      "Paragrafen 293 bis 297 BGB",
+      "Paragrafen 634, 637 und 640 BGB",
+      "Paragrafen 642 und 648 BGB",
+      "Paragrafen 650a, 650p und 650q BGB",
+      "Paragraf 287 ZPO"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 30.01.2020, VII ZR 33/19, Rn. 38–42 und 47–58",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2019/VII_ZR__33-19.pdf?__blob=publicationFile&v=1",
+        "application": "Bei fehlender Bestellermitwirkung Anspruchsgrund ohne zusätzlichen Kostennachteil, Höhe nach konkreter unproduktiver Vorhaltung und Vergütungsanteilen; möglicher Ersatzauftrag muss kein echter Füllauftrag sein.",
+        "limit": "Keine vollständige Umsatzkompensation und keine späteren Lohn-/Materialmehrkosten; Abwägung statt Kündigungsabrechnung, Annahmeverzug gesondert nachzuweisen."
+      },
+      {
+        "citation": "BGH, Urteil vom 22.02.2018, VII ZR 46/17, Rn. 31–37 und 48–54",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2017/VII_ZR__46-17A.pdf?__blob=publicationFile&v=1",
+        "application": "Bei behaltenem mangelhaftem Werk Beseitigungsabsicht feststellen: kein kleiner Schadensersatz nach fiktiven Beseitigungskosten, aber zweckgebundener abzurechnender Vorschuss bei geplanter Beseitigung grundsätzlich auch nach Schadensersatzwahl.",
+        "limit": "Werkvertragsrecht, keine allgemeine Übertragung auf Kauf oder Delikt; Anspruchsvoraussetzungen und tatsächliche Dispositionen bleiben gesondert zu prüfen."
+      }
+    ],
+    "remaining_limits": [
+      "Desk- und Quellenreview, kein Live-Modelltest.",
+      "Zwei BGH-Urteile anhand amtlicher tragender Gründe geprüft; weitere alte Entscheidungen und öffentlich-rechtliche Unterthemen ausdrücklich nicht insgesamt neu verifiziert.",
+      "Workflow-Review 23.09.2026: Paragraf 642 BGB erneut eingesehen; Vorhaltung und Folgezeiten bleiben getrennt, keine neue Entscheidung zu konkreten Bauabläufen behauptet."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Mängelrüge, Nachtragsforderung oder Bauzeitentschädigung anbieten.",
+      "Dateien ohne Aufgabe: Vertrag, Pläne, Bautagebuch und Kostenbelege still lesen; Mangel-, Vergütungs- oder Vorhalteziel klären.",
+      "Klarer Auftrag: verlangte Rüge, Rechnung oder Anspruchserwiderung unmittelbar bearbeiten, bekannte Bauabschnitte übernehmen."
+    ],
+    "continuation": "Kran wurde abbestellt oder Personal anderweitig eingesetzt -> tatsächliche Vorhaltung, ersparte Kosten und Entschädigungsforderung korrigieren.",
+    "enrichment": "Mangelerscheinung gegenüber Ursache, Beweissicherung vor Veränderung, Planfassungen und Ressourcenverfügbarkeit, Anordnungsbefugnis, Nachtragsabgrenzung sowie synchronisierte Abnahme- und Zahlungsdaten.",
+    "limits": "desk review; no live client execution"
+  }
 }

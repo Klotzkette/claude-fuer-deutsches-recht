@@ -1,6 +1,8 @@
 # 1. Wandeldarlehen vereinbaren, berechnen und vollziehen
 
-Bearbeite das Wandeldarlehen einer GmbH oder UG vom konkret beauftragten Stand aus. Liefere die gewünschte Vertragsfassung, Wandlungsrechnung, Gesellschaftervorlage oder Zusammenstellung für das Notariat.
+Stelle fest, ob das vereinbarte Wandelereignis eingetreten ist, welcher Kapital- und Zinsbetrag zu welchem Preis umzusetzen ist und welche Beschlüsse und Einlagen dafür noch fehlen. Prüfe bei Fälligkeit und Krise außerdem, ob ein Rangrücktritt die Zahlung sperrt. Liefere die beauftragte Vertragsfassung, Wandlungsrechnung, Gesellschaftervorlage oder Notariatsunterlage für die konkrete GmbH oder UG.
+
+Ohne Eingabe biete einen Wandeldarlehensentwurf, eine Wandlungsrechnung zur Finanzierungsrunde oder Beschluss- und Notariatsvorlagen zum Vollzug an. Bei Dateien ohne Aufgabe lies sie zunächst still; nur bei danach unklarem Ziel biete zwei oder drei passende Dokumentwege an. Ist der Auftrag klar, beginne sofort und frage ausschließlich nach entscheidenden Lücken. Keine allgemeine Transaktionscheckliste und keine künstlichen Gesprächsrunden vorschalten. Antworten verändern unmittelbar Ereignisbewertung, Rechnung und betroffene Vertrags- oder Beschlusspassage.
 
 ## 1.1. Auftrag und vorhandene Unterlagen
 
@@ -13,6 +15,10 @@ Prüfe zeitkritische Fälligkeiten, Ausübungs- und Angebotsfristen sowie verein
 ## 1.2. Konditionen und Vertragsfassung
 
 Bei einem neuen Vertrag formuliere Darlehensgewährung, Auszahlungsvoraussetzungen, Zinslauf, Rückzahlung, Rang und Wandlungsmechanik aufeinander abgestimmt. Ausgangspunkt für die Darlehenspflichten ist Paragraf 488 BGB. Halte vereinbarte Konditionen und noch zu verhandelnde Positionen auseinander; weder eine ungesicherte Finanzierungszusage noch eine offene Gremienfreigabe als feststehend behandeln.
+
+Wird Rückzahlung oder Zins verlangt, obwohl die Finanzierung gescheitert ist, lies die Rangabrede vor einer Zahlungsaufforderung. [BGH, Urteil vom 5. März 2015, IX ZR 133/14](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2014/IX_ZR_133-14.pdf?__blob=publicationFile&v=1), Randnummern 15 bis 19, 22 bis 34 und 42: Ein qualifizierter Rangrücktritt kann schon vor Insolvenzeröffnung eine Zahlungssperre begründen; bloßer Nachrang im Insolvenzverfahren genügt für die Entlastung des Überschuldungsstatus nicht. Nach InsO Paragrafen 19 Absatz 2 Satz 2 und 39 Absatz 2 Rangtiefe, vorinsolvenzliche Sperre und erfasste Nebenforderungen prüfen. Die konkrete Klausel und der Zahlungszeitpunkt entscheiden, nicht das Etikett „Convertible“.
+
+Bei gesperrter Zahlung kommen Rückforderung nach BGB Paragraf 812 Absatz 1 Satz 1 und, unter eigenen Voraussetzungen, Anfechtung nach InsO Paragrafen 134 und 143 in Betracht; BGB Paragraf 814 nicht übergehen. Nach Eintritt der Insolvenzreife lässt sich die gläubigerschützende Sperre nicht einfach durch zweiseitige Freigabe beseitigen. Der BGH-Fall betraf Mezzanine-Finanzierung, nicht die Form einer Wandlung: Rangrücktritt ist kein Forderungsverzicht, keine neue Einlage und kein Beleg der Werthaltigkeit. Heutiges Insolvenzrecht und steuerbilanzielle Folgen gesondert prüfen, die Rangtiefe des damaligen Rechts nicht unverändert übernehmen.
 
 Definiere qualifizierte Finanzierung, Laufzeitende, Verkauf und Liquidation getrennt. Regle jeweils Schwelle, maßgeblichen Zeitpunkt, Wahlrecht oder Pflicht, Mitteilung, Ausübungsfrist und Folgen eines unterbliebenen Vollzugs. Bestehende Klauselnummern wie 4.4, 4.7 oder 4.10 sind nur Fundstellen des konkreten Vertrags, keine allgemeingültige Vertragsstruktur.
 
@@ -29,6 +35,14 @@ Bei Verkauf, Umstrukturierung oder Liquidation lies den Kauf-, Übertragungs- od
 Ordne Wandlungsmitteilung, Ausübungserklärung und Zugang zeitlich ein. Prüfe frühere Ereignisse, Ausschlüsse, Verzichtserklärungen und ergänzende Gesellschaftervereinbarungen. Form und Zugang der vertraglichen Wandlungserklärung sind nicht mit der Form der Übernahmeerklärung bei Kapitalerhöhung gleichzusetzen.
 
 Fehlt beispielsweise der Eingang einer Investorenerklärung, fordere genau die Nachricht und den Zugangsnachweis an. Nach Eingang prüfe Frist und Ausübungswirkung erneut und führe die Rechnung oder den bestellten Antwortbrief fort. Nicht ohne Anhaltspunkt allgemeine prozessuale Hemmungsregeln auf vertragliche Ausübungsfristen übertragen.
+
+### 1.3.1. Eine angekündigte Finanzierungsrunde ist noch kein belegter Auslöser
+
+Steht im Vertrag eine Mindestfinanzierungssumme, zerlege die vorgelegte Runde nach tatsächlich einzubeziehenden Beiträgen. Sind nur neue Bareinlagen erfasst, dürfen Altgesellschafterforderungen oder andere wandelnde Darlehen nicht allein wegen ihrer wirtschaftlichen Finanzierungswirkung mitgezählt werden. Frage bei einer unklaren Position nach der Vertragsdefinition und dem Zahlungs- beziehungsweise Vollzugsbeleg; eine Präsentation mit „Rundenvolumen“ genügt dafür nicht.
+
+Beispiel: Die Runde wird mit 1,2 Millionen Euro angekündigt, davon 400000 Euro aus umzuwandelnden Altdarlehen. Wenn der konkrete Vertrag eine Million Euro neues Geld verlangt und die Altdarlehen ausschließt, trägt die Überschrift den Auslöser nicht. Prüfe, ob die erforderlichen weiteren Zuflüsse, eine andere einschlägige Definition oder ein wirksamer Nachtrag belegt sind. Nach Antwort „200000 Euro kamen im zweiten Vollzug hinzu“ bestimme den vertraglichen Zusammenrechnungszeitraum und maßgeblichen Eintrittstag neu; behaupte nicht automatisch eine rückwirkende Wandlung.
+
+Der Eintrittstag verändert gegebenenfalls Zinsende und Beginn einer Ausübungsfrist. Trenne dazu drei Daten: Eintritt des Ereignisses, Zugang seiner Mitteilung und Zugang der Ausübungserklärung. Leite jeden Fristlauf aus der einschlägigen Klausel ab. Ist eine Mitteilung Voraussetzung des Fristbeginns, ersetzt das Datum der Investorenpräsentation den Zugang nicht. Liefere den beauftragten Ereignisvermerk oder Antwortbrief mit eindeutigem Ergebnis und gegebenenfalls vorläufiger Rechnung; eine umstrittene Schwelle darf im Beschlussentwurf nicht als unstreitiger Vollzugstatbestand erscheinen.
 
 ## 1.4. Kapital, Zinsen und Preis rechnen
 
@@ -48,6 +62,14 @@ Ist unklar, ob der Optionspool vor oder nach der Runde einzubeziehen ist, benenn
 
 Teile den Wandlungsbetrag durch den vereinbarten Preis und behandle Bruchteile nach Vertrag. [Paragraf 5 Absätze 2 und 3 GmbHG](https://www.gesetze-im-internet.de/gmbhg/__5.html) regelt Nennbeträge, nicht eine automatische Aufrundung des wirtschaftlichen Quotienten. Fehlt die Restregelung, sind Anteilzahl und Restforderung insoweit offen. Nennbetrag, Aufgeld und gesamter Wandlungsbetrag dürfen nicht gleichgesetzt werden.
 
+### 1.5.1. Preisentscheidung und Restforderung durch alle Dokumente führen
+
+Bei 105000 Euro wandelbarer Forderung, vertraglichem Nenner von 10000 Einheiten, fünf Millionen Euro Rundenbewertung, 20 Prozent Discount und 3,5 Millionen Euro Cap ergeben sich 400 Euro Discountpreis und 350 Euro Cap-Preis. Wählt der Vertrag die günstigere Alternative ohne Kombination, sind 300 zusätzliche Recheneinheiten anzusetzen; vor neuem Geld sind dies 300 von 10300 Einheiten. Erkläre den Rechenweg nur soweit für das bestellte Ergebnis nötig und behandle dieses Beispiel nicht als Vertragsstandard.
+
+Antwortet der Nutzer „der Optionspool fehlt“, ermittle zuerst, ob er nach diesem Vertrag zum Nenner zählt. Nach Bestätigung ändere Preis, Anteilzahl und Quote sowie alle davon abhängigen Tabellen und Entwürfe. Eine anwachsende wirtschaftliche Einheitenzahl darf nicht ohne Zuordnung als neues Stammkapital in den Beschluss übernommen werden. Bei parallel abweichenden Darlehen bleibt jede Vertragsformel bestehen; eine bestätigte Pooldefinition für Darlehen 1 ändert Darlehen 2 nicht automatisch.
+
+Ergibt sich dagegen aus 106000 Euro und einem festen Preis von 300 Euro ein Bruchteil, stelle die konkret offene Restentscheidung dar. Bei vereinbarter Zuteilung von 353 Anteilen wären 105900 Euro zugeordnet und 100 Euro anderweitig zu behandeln. Ob dieser Rest stehenbleibt, bezahlt oder erlassen wird, bedarf einer Grundlage; eine bloße Rechenfreigabe ist kein Erlass. Nach der Entscheidung ändere Forderungsaufstellung, Anteilsübersicht und Vollzugstext gemeinsam. Prüfe bei einer Auszahlung zusätzlich die Rangabrede, statt den Rest wegen seiner geringen Höhe automatisch als zahlbar zu behandeln.
+
 ## 1.6. Form, Beschlüsse und Einlageweg
 
 Prüfe die Form für jede Erklärung gesondert. Paragrafen 126, 126b und 128 BGB unterscheiden Schriftform, Textform und notarielle Beurkundung; daraus folgt keine pauschale Formfreigabe für einen Wandeldarlehensvertrag. Bei Verpflichtung und Verfügung über bestehende Geschäftsanteile Paragraf 15 Absätze 3 und 4 GmbHG prüfen.
@@ -59,6 +81,14 @@ Für den Beschlussentwurf Firma, Registerdaten, Stammkapital, Beteiligte, Satzun
 Bestimme Einlageweg und Werthaltigkeit der Forderung. Bei Sacheinlage Paragraf 56 GmbHG und die einschlägigen Bewertungs- und Nachweisanforderungen prüfen; die mögliche Differenzhaftung nach Paragraf 9 GmbHG gesondert würdigen. Versicherungen und Anmeldung aus den Vorschriften der konkreten Kapitalmaßnahme ableiten, insbesondere Paragrafen 57 und 57a GmbHG; Paragraf 8 Absatz 2 Satz 1 GmbHG nicht ohne Prüfung seines Anwendungsbezugs übertragen.
 
 Bei Formmängeln halte fest, welche Erklärung betroffen ist, welche Wirkungen offenbleiben und welche wirksame Nachholung oder Heilung überhaupt in Betracht kommt. Keine Rückwirkung oder Heilung durch späteren Zahlungseingang unterstellen. Insolvenzlage und gegebenenfalls erforderliche spezialisierte Prüfung benennen, ohne durch eine Entwurfsänderung die Krise als beseitigt auszugeben.
+
+### 1.6.1. Von der abgestimmten Rechnung zur notariellen Vorlage
+
+Steht die Rechnung fest, kläre den vorgesehenen Einlageweg aus dem Auftrag und den vorhandenen Entwürfen. „Die Forderung wandelt“ beschreibt noch nicht, welches Recht eingebracht, welcher Betrag auf welchen Nennbetrag geleistet und welches Aufgeld geschuldet werden soll. Bei Sacheinlage verlangt [Paragraf 56 GmbHG](https://www.gesetze-im-internet.de/gmbhg/__56.html) die Festsetzung von Gegenstand und zugehörigem Nennbetrag im Kapitalerhöhungsbeschluss sowie deren Aufnahme in die Übernahmeerklärung. Bezeichne deshalb die konkrete Darlehensforderung mit Vertrag, Gläubiger, Kapital, Zinsen und Stichtag; eine pauschale Bezugnahme auf „alle Ansprüche“ kann die Rechnung verfälschen.
+
+Prüfe belastende Umstände der Forderung: Bestreiten, Aufrechnungslage, Rang, Teilzahlung oder wirtschaftliche Krise. Der Nominalbetrag und die Freigabe des Darlehensgebers belegen keine Werthaltigkeit. Fordere nur die dafür entscheidenden Unterlagen nach und lasse eine ungeprüfte Wertbehauptung aus der Registerversicherung heraus. Nach einer belegten Teilzahlung ändere Forderungsgegenstand und Kapitalmaßnahme; prüfe, ob die bisherigen Zustimmungen noch die überarbeitete Struktur abdecken.
+
+Ordne die Unterlagen dem tatsächlichen Stand zu. [Paragraf 55 GmbHG](https://www.gesetze-im-internet.de/gmbhg/__55.html) betrifft die Übernahmeerklärung; [Paragraf 57 GmbHG](https://www.gesetze-im-internet.de/gmbhg/__57.html) trennt Anmeldung und beizufügende Nachweise. Das Notariatsanschreiben nennt daher abgestimmte Parameter, vorhandene Beschlüsse und konkret noch benötigte Erklärungen. Eine unterschriebene Übernahmeerklärung darf nicht als Registereintragung bezeichnet werden. Vor Fertigstellung kontrolliere Gläubigernamen, Anteilnummern, Nennbeträge und Forderungsrest in sämtlichen beauftragten Texten. Fertige die beauftragten Unterlagen soweit bereits möglich aus; die Freigabe zur Unterzeichnung oder Anmeldung bleibt ein eigener externer Schritt.
 
 ## 1.7. Identifikation, Unterzeichnung und Registerunterlagen
 
@@ -82,6 +112,6 @@ Nutze den gewünschten Dateinamen; `ergebnis.md` ist nur ein Standard ohne ander
 
 ## 1.9. Quellen und technische Grenzen
 
-Tragende Normen und Rechtsprechung vor Verwendung anhand überprüfbarer Quellen sichern. Die bisherigen gesellschaftsrechtlichen Rechercheanker sind BGH, Urteil vom 29.01.2001, II ZR 331/00, zur Außen-GbR unter Beachtung des späteren MoPeG; BGH, Urteil vom 21.04.1997, II ZR 175/95, zu Organhaftungsansprüchen und Aufsichtsratspflichten; BGH, Urteil vom 16.07.2007, II ZR 3/04, zum existenzvernichtenden Eingriff; sowie BGH, Urteil vom 20.11.2018, II ZR 12/17, zur Gesellschafterliste. Sie belegen ohne fallbezogene Volltextprüfung weder einen Wandlungspreis noch die Formfreiheit des Darlehens. Organpflichten nach Paragraf 43 GmbHG und, bei einschlägiger Gesellschaftsform, Paragraf 93 AktG gesondert prüfen.
+Tragende Normen und Rechtsprechung anhand amtlicher Quellen sichern. Der Rangrücktrittsanker unter 1.2 beantwortet weder Wandlungspreis noch Formfreiheit. Für Kapitalerhöhung und Forderungseinbringung die konkrete Einlage- und Beschlussstruktur prüfen; fehlende Entscheidungen nicht durch allgemeine Corporate-Fundstellen ersetzen. Organpflichten nach Paragraf 43 GmbHG und bei einschlägiger Gesellschaftsform Paragraf 93 AktG gesondert prüfen.
 
 Quellenstatus, Annahmen und technische Einschränkungen gehören in eine getrennte Arbeitsnotiz, nicht in den versandfähigen Vertrag oder Brief. Bei fehlendem Zugriff die konkret benötigte Datei oder Quelle benennen und unabhängige Teile weiterbearbeiten. Ohne Export den vollständigen Text liefern, aber keine erzeugte Datei behaupten. Weitere Skills sind optionale Hilfen, keine Voraussetzung für die Bearbeitung hier.

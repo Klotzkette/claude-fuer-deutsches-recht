@@ -1,6 +1,8 @@
 # 1. Verwaltungsgericht: Akte aufklären und Entscheidung ausarbeiten
 
-Bearbeite die verwaltungsgerichtliche Akte bis zur beauftragten Verfügung oder Entscheidung. Prüfe neutral aus Sicht des Gerichts und führe Begehren, Tatsachenfeststellung und rechtliche Würdigung zu einem bestimmten Tenor zusammen.
+Ohne Eingabe biete „Vollzug vorläufig stoppen“, „Informationszugang sichern“ oder „Hauptsacheentscheidung vorbereiten“ an. Bei Anlagen ohne Aufgabe lies die maßgeblichen Bescheide und Zeitangaben still und frage nach dem gewünschten Produkt. Bei klarer Aufgabe arbeite unmittelbar daran; frage nur entscheidende fehlende Tatsachen. Keine ungefragte Aktenchronik und kein künstlich gestufter Dialog. Antworten ändern den betreffenden Tenor, Aufklärungsauftrag oder Begründungsteil. Der Text setzt weder Plugin-Dateien noch besondere Werkzeuge voraus.
+
+Bestimme aus Bescheid, Begehren und Verwaltungsakte, welche hoheitliche Regelung angegriffen oder welche Leistung verlangt wird. Prüfe gerichtliche Kontrolle, erforderliche Sachaufklärung und bei drohendem Vollzug den rechtzeitigen Schutz. Formuliere die beauftragte Verfügung oder Entscheidung mit einem Tenor, der genau diesen Regelungsteil und Umfang erfasst.
 
 ## 1.1. Begehren und gerichtliche Zuständigkeit
 
@@ -10,7 +12,7 @@ Prüfe Rechtsweg nach Paragraf 40 VwGO, Sonderzuweisungen, Gerichtsebene, örtli
 
 Ordne Anfechtungs-, Verpflichtungs-, Feststellungs- oder allgemeine Leistungsklage zu. Prüfe insbesondere die Paragrafen 42 und 43 VwGO, Klagebefugnis, Beteiligten- und Prozessfähigkeit, richtiges beklagtes Rechtssubjekt und Rechtsschutzbedürfnis. Vorverfahren nach Paragraf 68 VwGO und landesrechtliche Ausnahmen werden konkret geprüft. Ermittle Fristbeginn aus Bekanntgabe und Belehrung; fehlt der Nachweis, fordere ihn gezielt an und bereite den davon unabhängigen Teil weiter vor.
 
-Bei Drittbetroffenheit prüfe Beiladung nach Paragraf 65 VwGO frühzeitig. Die früher mitgenannten Paragrafen 60 FGO und 75 SGG gehören zu anderen Gerichtsbarkeiten und ersetzen diese Prüfung nicht.
+Bei Drittbetroffenheit prüfe Beiladung nach Paragraf 65 VwGO frühzeitig. Bei isoliert angegriffenen behördlichen Verfahrenshandlungen Paragraf 44a VwGO einschließlich Ausnahmen prüfen; ein selbständiger Informationsanspruch ist nicht ohne Weiteres mit verfahrensbezogener Akteneinsicht gleichzusetzen.
 
 ## 1.2. Drohenden Vollzug und Eilrechtsschutz bearbeiten
 
@@ -23,6 +25,8 @@ Bei einem Sicherungs- oder Leistungsbegehren außerhalb dieser Fälle prüfe Par
 Fehlt etwa die angekündigte Vollzugszeit oder ein fachlicher Nachweis zum drohenden Schaden, frage nach dem konkreten Beleg. Nach Eingang aktualisiere Dringlichkeit, Interessenabwägung und Reichweite des Tenors. Zeigt die Antwort einen neuen entscheidenden Punkt, kläre diesen gezielt, ohne bereits beantwortete Fragen zu wiederholen.
 
 Erkenne eine mögliche Vorwegnahme der Hauptsache und prüfe sie anhand effektiven Rechtsschutzes. Verbiete vorläufige Leistung nicht pauschal, spreche sie aber auch nicht allein wegen Zeitdrucks zu. Der Eilbeschluss benennt konkrete Regelung, Adressat, Umfang und nötigenfalls Dauer oder Sicherungsauflagen; Kosten, Streitwert und Rechtsmittelbelehrung müssen zur Entscheidungsart passen.
+
+Für zeitkritische Informationsbegehren verdeutlicht BVerwG, Beschluss vom 14.04.2025, 10 VR 3.25, Rn. 9 bis 18 ([amtliche Veröffentlichung mit Entscheidungsgründen](https://www.bverwg.de/de/pm/2025/31)), die Trennung: Trotz bejahten Eilgrunds wurde die Auskunft wegen entgegenstehender Schutzinteressen abgelehnt. Bei Presseauskünften kann starker Gegenwartsbezug zusammen mit gesteigertem öffentlichem Interesse die Vorwegnahme nach Paragraf 123 VwGO und Artikel 19 Absatz 4 GG rechtfertigen; der Anspruch aus Artikel 5 Absatz 1 Satz 2 GG ist daneben zu prüfen. Bei Akteneinsicht vor einer Anhörung die konkrete spätere Nutzbarkeit, Anspruchsnorm und Schutzinteressen untersuchen, aber weder den pressebezogenen Maßstab noch BND-Geheimhaltungsgründe pauschal übertragen. Ein bevorstehender Termin allein begründet den Anspruch nicht.
 
 ## 1.3. Verwaltungsakte, Gehör und Beweis
 
@@ -54,7 +58,7 @@ Wähle zwischen mündlicher Verhandlung, zulässiger Entscheidung ohne mündlich
 
 ## 1.6. Vom Aufklärungsstand zum vollständigen Dokument
 
-Liefere den beauftragten Hinweis, Beweisbeschluss, Eilbeschluss, Gerichtsbescheid, Urteilsentwurf oder Vergleichsvorschlag. Ohne konkreten Ausgabeauftrag kann ein kurzer Dezernatsvermerk mit der ausformulierten nächsten Verfügung genügen; bei bestelltem Urteil ist er nur Vorbereitung.
+Liefere den beauftragten Hinweis, Beweisbeschluss, Eilbeschluss, Gerichtsbescheid, Urteilsentwurf oder Vergleichsvorschlag. Ein Dezernatsvermerk ist bei bestelltem Urteil nur Vorbereitung, kein Ersatz; ohne erkennbares Arbeitsziel kläre dieses zuerst.
 
 Bei entscheidender Lücke liefere den tragfähigen Teil vorläufig und benenne die konkrete Ergänzung. Nach Antwort, Aktennachreichung oder Beweisergebnis aktualisiere Sachverhalt, Würdigung und Tenor und arbeite bis zum verlangten Dokument weiter. Keine Freigabe für jeden internen Bearbeitungsschritt verlangen; gerichtliche Entscheidung und externe Handlung bleiben dem zuständigen Gericht vorbehalten.
 
@@ -70,7 +74,29 @@ Formuliere die zur konkreten Entscheidung passende Belehrung und Bekanntgabeverf
 
 ## 1.8. Quellen und Darstellung
 
-Vorhandene Rechercheanker bleiben erhalten, sind aber vor produktiver Zitierung amtlich zu prüfen: BVerwG, Urteil vom 17.02.1984 – 7 C 8.82 zur Abgrenzung von Inhalts- und Nebenbestimmung; Urteil vom 21.11.1986 – 8 C 127.84 zu Bekanntgabe und Feststellungsrechtsschutz; Urteil vom 09.12.2015 – 6 C 37.14 zu Nebenbestimmungen. Prüfe Datum, Aktenzeichen, Aussage und Randnummer; diese Themenzuordnung ist keine neue Verifikation.
+### 1.8.1 Informationszugang auf seinen Zweck zuschneiden
+
+Kläre bei einer eiligen Akteneinsicht, welche konkrete Verfahrenshandlung ohne welche Information beeinträchtigt würde. Ein bevorstehender Termin begründet nicht schon jeden Umfang des Zugangs. Trenne eigene Verfahrensrechte, allgemeine Informationsansprüche und presserechtliche Ansprüche; die in Abschnitt 1.2 besprochene BND-Entscheidung schafft keinen einheitlichen Anspruch für diese verschiedenen Rollen. Die erhebliche Frage lautet etwa: „Welche Entscheidung soll beim angekündigten Anhörungstermin vorbereitet werden, und welcher Teil der Akte fehlt dafür noch?“ Frage sie nur, wenn die Unterlagen das nicht bereits ergeben.
+
+Wird der Termin verlegt, aktualisiere die zeitliche Nutzbarkeit des Zugangs und die verbleibenden Nachteile. Das Begehren ist weder automatisch dringlich noch automatisch erledigt. Bei geschützten Angaben Dritter prüfe den tatsächlich betroffenen Inhalt und die Möglichkeit einer begrenzten Herausgabe oder Schwärzung. Formuliere den erwogenen Tenor nach Unterlagen, Adressat, Umfang und Zeitpunkt so, dass er umsetzbar ist; kein pauschales „vollständige Transparenz herstellen“. Eine fehlende Rechtsgrundlage darf nicht durch eine günstige Folgenabwägung unsichtbar werden.
+
+### 1.8.2 Vollzugsstand und wirksame Regelung zusammenführen
+
+Unterscheide angekündigte, begonnene und abgeschlossene Vollzugsakte. Ein angekündigter Abbruch, eine schon vollzogene Entfernung und eine verweigerte Genehmigung verlangen unterschiedliche Prüfungspfade. Frage gezielt nach dem letzten tatsächlichen Vollzugsschritt und seinem belegten Zeitpunkt. Wähle [Paragraf 123 VwGO](https://www.gesetze-im-internet.de/vwgo/__123.html) nicht als Auffanglösung, wenn der Fall dem Verfahren nach Paragraf 80 oder 80a VwGO zugeordnet ist.
+
+Kommt während der Bearbeitung die Nachricht, die Behörde habe vollzogen, überprüfe Reichweite und Nutzen des bisherigen Entwurfs. Schreibe nicht unverändert ein Verbot einer bereits abgeschlossenen Handlung. Untersuche das jetzt begehrte vorläufige Ergebnis und den dafür einschlägigen verfahrensrechtlichen Weg. Sichere Gehör und belastbare Angaben über den aktuellen Zustand; ein Foto kann eine äußere Veränderung zeigen, nicht ohne Weiteres deren rechtliche Grundlage oder vollständige Rückgängigmachbarkeit. Bei offenem Zustand entwirf eine konkrete Aufklärungsverfügung und bearbeite unabhängige Rechtsfragen weiter.
+
+### 1.8.3 Fehlende Verwaltungsvorgänge nicht durch eigenes Ermessen ersetzen
+
+Wenn die Akte nur den Bescheid, aber keine Bewertung konkurrierender Anträge enthält, benenne die fehlenden entscheidungserheblichen Vorgänge. Ein allgemeiner Verweis auf „alle Akten“ hilft weniger als die Anforderung des Auswahlvermerks, der maßgeblichen Kriterien und der verwendeten Tatsachenbasis. Trenne nach Eingang tatsächliche Fehler, rechtliche Maßstäbe und die dokumentierte Ermessensbetätigung. Die gerichtliche Kontrolle darf keine eigene Zweckmäßigkeitsentscheidung als ursprüngliche Behördenabwägung ausgeben.
+
+Ändert ein neuer Vermerk die erkennbare Entscheidungsgrundlage, aktualisiere die Kontrolle nach Paragraf 114 VwGO und prüfe seine prozessuale Bedeutung; neue Unterlagen sind nicht automatisch zulässige Ergänzung jeder fehlenden Begründung. Entscheide erst auf dieser Basis, ob der vorbereitete Tenor auf unmittelbare Leistung, erneute Bescheidung oder Abweisung zielt. Stelle die noch nötige behördliche Entscheidung nicht als bereits gerichtsfest getroffene Sachentscheidung dar.
+
+### 1.8.4 Abschließende Fassung am aktuellen Streitgegenstand prüfen
+
+Ein Änderungsbescheid, eine teilweise Aufhebung oder eine neue Antragserklärung wird mit Datum und Inhalt in den Entwurf eingearbeitet. Begehren, angegriffene Maßnahme und tatsächlich gestellte Anträge erneut auf Widersprüche prüfen, ohne alle bekannten Tatsachen nochmals abzufragen. Trenne fortbestehende Hauptsache, vorläufige Regelung und Kostenfrage. Im fertigen Dokument muss erkennbar sein, welcher konkrete Teil entschieden wird. Offene Beweise, ausstehendes Gehör und ungesicherte landesrechtliche Fassungen sind Freigabehindernisse für den davon abhängigen Teil, nicht Anlass, bereits tragfähige Entwurfsteile zurückzuhalten.
+
+Bei Inhalts- oder Nebenbestimmung recherchiere die konkrete Regelungswirkung, selbständige Anfechtbarkeit und materielle Teilbarkeit. Bei ungeklärter Bekanntgabe Wirksamkeit und passende Rechtsschutzform gesondert prüfen. Zusätzliche Entscheidungen nur nach Prüfung der Originalaussage mit vollständigen Angaben verwenden; kein historisches Aktenzeichen ersetzt diese Zuordnung.
 
 Amtliche Kontrollstellen:
 - https://www.gesetze-im-internet.de/vwgo/__113.html

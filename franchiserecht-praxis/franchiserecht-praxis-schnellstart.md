@@ -1,69 +1,41 @@
-# 1. Franchiserecht Praxis — Schnellstart
+# 1. Franchisevertrag, Gebühren und Ausstieg prüfen
 
-Prüfe ein konkretes Franchise-System aus Sicht des Gebers oder Nehmers: Standortkalkulation, Gebühren, Handbuch, Bezugsbindung, Gebiet und Ausstieg.
+Vergleiche zugesagte Systemleistungen mit Eintrittsgebühr, Umsatzgebühr, Pflichtbezug, Gebietsschutz und Bindungsdauer. Prüfe für den Franchisegeber oder Franchisenehmer die verlangte Klausel, Standortentscheidung oder Vertragsbeendigung und formuliere den beauftragten Text vollständig.
 
-Kernauftrag: Wirtschaftsrechtliches Plugin für Franchise-Systeme: vorvertragliche Aufklärung, Handbuch, Gebühren, Gebietsschutz, Kartellrecht, Kündigung, Expansion, Streit und Insolvenz. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1. Vertrag und wirtschaftliche Grundlage lesen
 
-## 1.1. Sofortstart nach Eingangslage
+Ohne Eingabe fragen: „Geht es um Gebühren und Handbuchänderungen, Preis- und Bezugsbindung oder einen geordneten Ausstieg?“ Anhänge ohne Auftrag zunächst still lesen, dann passende Wege anbieten, etwa Gebührenkorrektur oder Kündigungsprüfung. Keine ungefragte Vertragszusammenfassung. Bei klarem Auftrag direkt ausarbeiten, ohne Pflichtdialog. Bekannte Rolle, Fassungen und Termine übernehmen.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die Entwürfe, Verhandlungsstände, Beschlüsse, Anlagen und Vollzugsunterlagen. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Geschäftsmodell und Parteien, Regelungsprogramm, Risikoallokation wählen; ohne konkreten Auftrag mit Geschäftsmodell und Parteien beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Unterscheide zugesagte Schulung, Beschaffung, Werbung und Unterstützung von unverbindlicher Prognose. Welche Leistung steht welcher Gebühr gegenüber? Sind Umsatzdefinition, Retouren, Rabatte, Umsatzsteuer, Werbefonds und zusätzliche Investitionen eindeutig geregelt? Prüfe Änderungen des Handbuchs auf neue Kosten, Fristen und Kündigungsrechte.
 
-Fehlende entscheidende Angaben zu Gebühren, Systemleistungen, Gebiet oder Vertragsende gezielt erfragen, auch bei vorhandenen Unterlagen. Bekannte Antworten übernehmen; neue wesentliche Widersprüche erlauben eine weitere kurze Runde.
+## 1.2. Aufklärung und Vertragskontrolle
 
-## 1.2. Fachlicher Direktstart
+Vergleiche die Rentabilitätsprognose mit benannten Vergleichsbetrieben, Zeitraum, Standort, Anlaufkosten und Methodik. Eine Schätzung ist keine Gewinnzusage; erfundene Referenzumsätze sind aber nicht durch einen Prognosevorbehalt gerechtfertigt. Prüfe bei behaupteter Falschinformation Pflichtverletzung, Abschlusskausalität und Schaden nach Paragrafen 311 Absatz 2, 241 Absatz 2 und 280 Absatz 1 BGB; Täuschungsanfechtung nach Paragrafen 123 und 124 BGB gesondert.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welche Hauptleistungspflichten müssen subsumtionsfähig beschrieben sein.
-2. Kernprüfung in einem Durchgang: Welche Partei trägt welches Risiko und ist die Zuweisung AGB-fest; Welche Rechte werden wie weit eingeräumt und was bleibt vorbehalten.
-3. Systemleistungen, Gebühren und Befugnisse mit Vertrag und Handbuch abgleichen. Unbekannte Parameter nicht als vereinbart behandeln; die betroffene Regelung offenlassen und gezielt klären.
-4. Den bestellten Vertragsentwurf, Prüfvermerk oder Brief ausformulieren; bei einer Einzelklauselprüfung keinen vollständigen Neuvertrag erzwingen.
+Prüfe formularmäßige Gebühren-, Haftungs-, Vertragsstrafen- und Änderungsregeln nach Paragrafen 305c, 307 und 310 Absatz 1 BGB. Paragrafen 308 und 309 gelten im Unternehmerverkehr nicht unmittelbar; Wertungen nur begründet übertragen. Preis und geschuldete Leistung auslegen, ohne jede belastende Hauptpreisabrede automatisch der Inhaltskontrolle zu unterwerfen.
 
-## 1.3. Kernroute
+## 1.3. Preis, Bezug und Gebiet
 
-1. Geschäftsmodell und Parteien: Leistung, Gegenleistung, Rollen, Konzernbezug und Verhandlungsmacht feststellen.
-2. Regelungsprogramm: Hauptpflichten, Nebenpflichten, Rechteeinräumung, Vergütung, Laufzeit und Beendigung anlegen.
-3. Risikoallokation: Haftung, Freistellung, Gewährleistung, Vertragsstrafe und Sicherheiten austarieren.
-4. Kontrolle: AGB-Festigkeit, Transparenz, Kollision mit zwingendem Recht und Wechselwirkungen prüfen.
-5. Arbeitsprodukt: vollständigen Vertragstext mit Präambel, Definitionen, Klauseln und Schlussbestimmungen ausformulieren.
+Prüfe Artikel 101 Absätze 1 bis 3 AEUV, Paragrafen 1 und 2 GWB sowie Artikel 2 bis 5 der Verordnung (EU) 2022/720 anhand der tatsächlichen Bindung. Bei Fest- oder Mindestpreisen entfällt die Gruppenfreistellung nach Artikel 4 Buchstabe a; kleine Marktanteile heilen das nicht. Eine „Empfehlung“ mit Rabattgenehmigung und Vertragsstrafe kann wirkliche Preisbindung sein. Fehlende Gruppenfreistellung ist noch nicht die vollständige Einzelfallprüfung.
 
-## 1.4. Fallkarte
+Beispiel einer Alternative: „Der Franchisenehmer bestimmt seine Verkaufspreise selbstständig. Preisempfehlungen sind unverbindlich; abweichende Preise bedürfen keiner Zustimmung und lösen keine Nachteile aus.“
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | BGB Paragraf 145 ff. und Paragraf 133, Paragraf 157; BGB Paragraf 305 bis Paragraf 310; BGB Paragraf 280 ff. und Paragraf 323 ff |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Leistung, Gegenleistung, Rollen, Konzernbezug und Verhandlungsmacht feststellen |
-| Beweislast | Jede Partei- und Gremienannahme erhält Dokumentbeleg, Freigabestatus und Vollzugsnachweis; offene Parameter bleiben als Entscheidungspunkt sichtbar |
-| Rechtsfolge | vollständigen Vertragstext mit Präambel, Definitionen, Klauseln und Schlussbestimmungen ausformulieren |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+Trenne Bezugspflicht, Qualitätssicherung und Wettbewerbsverbot; Vertragsdauer und Ausstiegsmöglichkeiten anhand Artikel 5 prüfen. Stationäres Gebiet, eigene Onlineverkäufe, Plattformen und Click-and-Collect getrennt erfassen; kein pauschales Internetverbot aus Gebietsschutz ableiten. Konkrete Ersatzklauseln und bei Bedarf Gebührenvergleich liefern.
 
-## 1.5. Systembindung konkret prüfen
+## 1.4. Vertragsende und Kundenstamm
 
-Erfasse Eintrittsgebühr, laufende Umsatzgebühr, Werbefonds, Pflichtbezug und Investitionen getrennt. Vergleiche Umsatzprognosen mit Standort, Zeitraum und belegten Vergleichsbetrieben; eine Prognose nicht als garantierten Gewinn umformulieren. Handbuchänderungen müssen in der Vertragsprüfung als mögliche spätere Kosten- und Leistungseingriffe sichtbar bleiben.
+Prüfe Befristung, Verlängerung, Kündigungsgrund, Abmahnung oder deren Entbehrlichkeit, angemessene Erklärungsfrist und Zugang nach Paragraf 314 BGB. Plane Rückgabe von Handbuch und Ausstattung, Kennzeichenentfernung, Warenbestand, Kundendaten und fortwirkende Vertraulichkeit. Ein nachvertragliches Wettbewerbsverbot nach Artikel 5 Absatz 3 der Verordnung (EU) 2022/720 gesondert prüfen; Paragraf 90a HGB nicht automatisch anwenden.
 
-Prüfe Preisbindung nach Artikel 4 Buchstabe a der Verordnung (EU) 2022/720: Eine angebliche Preisempfehlung mit Rabattgenehmigung und Vertragsstrafe kann tatsächlich einen Fest- oder Mindestpreis durchsetzen. Kleine Marktanteile heilen eine Kernbeschränkung nicht. Unterscheide fehlende Gruppenfreistellung von der gesonderten Einzelfallprüfung. Liefere konkrete Ersatzklauseln und einen Gebührenvergleich, keinen bloßen Vertragsbauplan.
+Bei beanspruchtem Kundenausgleich wende [BGH, Urteil vom 05.02.2015, VII ZR 109/13](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2013/VII_ZR_109-13.pdf?__blob=publicationFile&v=1), Rn. 13–21, an: Im anonymen Massengeschäft reicht fortbestehende Laufkundschaft auch bei Rückgabe des Ladenlokals nicht für Paragraf 89b HGB analog. Prüfe deshalb Kundenidentifizierbarkeit, Eingliederung und rechtliche Überlassungspflicht statt allein den Standortwert. Das Urteil verneint nicht jeden Franchiseausgleich und entscheidet die allgemeine Analogiefrage nicht abschließend. Nur bei tragfähiger Anspruchsgrundlage Vorteile, Billigkeit, Ausschlussgründe und Jahresfrist nach Absatz 4 prüfen; diese ist keine Verjährungsfrist und der Höchstbetrag keine automatische Forderung.
 
-## 1.6. Anker
+## 1.5. Fehlende Angaben einarbeiten
 
-- BGB Paragraf 145 ff. und Paragraf 133, Paragraf 157: Vertragsschluss und Auslegung.
-- BGB Paragraf 305 bis Paragraf 310: AGB-Kontrolle auch im Unternehmerverkehr.
-- BGB Paragraf 280 ff. und Paragraf 323 ff.: Leistungsstörungen, Rücktritt und Schadensersatz.
-- GeschGehG: Schutz von Geschäftsgeheimnissen und angemessene Geheimhaltungsmaßnahmen.
-- BGB Paragrafen 314, 323, 241 Abs. 2, 242, 280, 305 ff.: Dauerschuldverhältnis, Pflichtverletzung, Abmahnung, AGB-Kontrolle; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 101 AEUV, GWB und Vertikal-GVO (EU) 2022/720 für Wettbewerbsverbote, Bezugsbindungen und Gebietsschutz; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- ZPO Paragrafen 935, 940 für Eilrechtsschutz, wenn Marken, Know-how, Kundendaten oder irreführende Fortnutzung sofort gestoppt werden sollen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BGB Paragrafen 305 ff., besonders Paragrafen 307 bis 309: Transparenz, unangemessene Benachteiligung, überraschende Klauseln, einseitige Leistungsänderung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+Fehlt die Umsatzdefinition oder Handbuchfassung, fordere genau diese an. Nach Eingang Gebühren, Pflichtinvestitionen und Änderungsbefugnisse neu abgleichen und die betroffene Klausel fertigschreiben. Widersprechen Vergleichsbetriebe der Prognose, Datenbasis und Zeitraum klären. Bei Ausstieg fehlende Abmahnung oder Zugangsnachweise anfordern; danach Bewertung und Schreiben aktualisieren.
 
-## 1.7. Nachfordern und fertigstellen
+Neue entscheidende Widersprüche erlauben weitere kurze Fragen, bekannte Angaben nicht nochmals erheben. Unabhängige Teile vorläufig liefern und nach der Antwort bis zur Endfassung fortsetzen. Materialzugang beweist weder richtige Prognose noch Einigung über offene Parameter.
 
-Fehlen der Gebührenkalkulation Umsatzdefinition oder Handbuchfassung, genau diese Angaben anfordern. Nach Eingang Gebühren, Pflichtinvestitionen und Änderungsbefugnisse neu abgleichen und die bestellte Klausel oder Vertragsfassung fertigschreiben. Widerspricht eine Standortprognose den Vergleichsbetrieben, Datenbasis und Zeitraum gezielt klären; eine prognostizierte Rendite nicht als garantiert behandeln.
+## 1.6. Ergebnis und Zugriff
 
-Bei einem Ausstiegsauftrag Kündigungsgrund, Abmahnung, Zugang und noch laufende Systempflichten prüfen. Fehlende Korrespondenz nachfordern, danach die betroffene Bewertung und den bestellten Brief aktualisieren. Ein Gutachtenauftrag löst keine Kündigung und keinen Klageentwurf aus. Bei einem Hindernis die übrigen Teile vorläufig liefern und nach der Antwort fortsetzen. Interne Verhandlungsgrenzen und Quellenprüfvermerke getrennt vom Empfängertext halten.
+Liefere Prüfvermerk, Einzelklausel, Vertragsfassung oder Brief nach Auftrag mit konkreter Rechtsfolge, stärkstem Gegenargument und nötiger Begründung. Bei Einzelklauselprüfung keinen Gesamtvertrag erzwingen, bei Gutachten keine ungefragte Kündigung oder Klage. Interne Verhandlungsgrenzen und Quellenstatus außerhalb des Empfängertextes führen. Keine Erklärung, Zahlung oder Einreichung eigenmächtig veranlassen.
 
-## 1.8. Grenzen und Arbeitsmittel
-
-Ungeklärte Leistungen oder Vertragszwecke nicht erfinden; nur die abhängige Regelung offenlassen. Werkstatt und weitere Skills sind optional. Vollständige Sätze, beim Export Times New Roman 11 pt und dezimale Gliederung; keine eigenmächtige Erklärung oder Einreichung.
-
-Nur verfügbare Werkzeuge nutzen, fehlenden Zugriff konkret benennen. Bei technischen Fehlern einen sinnvollen Alternativweg versuchen, sonst den bearbeitbaren Stand sichern; ohne Export Text liefern, keinen Dateilink erfinden. Ungeprüfte Teile nicht als freigegeben ausweisen.
+Tragende Normfassung und weitere Entscheidungen amtlich prüfen; keine ungesicherten Aktenzeichen ergänzen. Ohne weitere Skills eigenständig arbeiten. Bei Zugriffsfehlern einen Ersatzweg versuchen, verbleibende ungelesene Unterlagen konkret nennen. Ohne Export vollständigen Text statt erfundenem Dateilink liefern. Dezimale Überschriften mit Leerzeilen, vollständige Sätze; beim Export Times New Roman 11 pt.

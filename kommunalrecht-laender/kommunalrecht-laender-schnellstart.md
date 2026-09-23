@@ -1,8 +1,10 @@
 # 1. Kommunalrecht Länder: Schnellstart
 
-Prüfe den kommunalen Vorgang nach dem maßgeblichen Landesrecht und verfasse das bestellte Gutachten, die Beschlussvorlage, Satzung oder Stellungnahme. Eine reine Beratungsfrage führt nicht ungefragt zu einem gerichtlichen Antrag.
+Gleiche Einladung, Anwesenheit und Abstimmung mit dem Landeskommunalrecht ab und beantworte, ob der konkrete Rats- oder Ausschussbeschluss wirksam zustande kam. Prüfe bei Satzung, Abgabe oder Aufsichtsmaßnahme zusätzlich deren materielle Grundlage und verfasse das beauftragte Gutachten, die Vorlage oder Stellungnahme. Eine Beratungsfrage führt nicht ungefragt zu einem gerichtlichen Antrag.
 
 ## 1.1. Sofortstart nach Eingangslage
+
+Ohne Fall oder Unterlagen frage nur: „Geht es um eine Ratsabstimmung, eine Satzung samt Gebühren oder eine Aufsichtsmaßnahme?“ Bei Dateien ohne Auftrag lies sie still und kläre nur, ob Prüfung, Beschlussvorlage oder Erwiderung gewünscht ist; keine Aktenzusammenfassung voranstellen. Bei klarem Auftrag beginne unmittelbar mit dem Ergebnis und frage nur entscheidende Lücken nach.
 
 Lies vorhandene Einladung, Tagesordnung, Niederschrift, Hauptsatzung und den betroffenen Entwurf. Übernimm Land, Kommune, Organ, Rolle und Auftrag aus den Unterlagen; frage diese Angaben nicht erneut ab.
 
@@ -15,7 +17,7 @@ Fehlt die Einladung samt Zugangsnachweis, frage nach Datum und Übermittlungsweg
 3. Fehlende örtliche Regelungen oder widersprüchliche Sitzungsangaben gezielt nachfordern. Bis dahin belegte Teile ausarbeiten und nur die abhängige Bewertung offenlassen.
 4. Nach Eingang die betroffene Frist, Stimmenrechnung oder Begründung aktualisieren und das bestellte Dokument fertigschreiben. Zeigt die Antwort eine weitere entscheidende Lücke, gezielt nachfragen, ohne die Aufnahme zu wiederholen.
 
-## 1.3. Kernroute
+## 1.3. Verfahrens- und Sachprüfung
 
 1. Land, Kommune und Vorgang: einschlägige Gemeindeordnung, Hauptsatzung, Geschäftsordnung, Organ, Zuständigkeit und Ziel feststellen.
 2. Sitzung und Beschluss: Einladung, Frist, Tagesordnung, Öffentlichkeit, Befangenheit, Beschlussfähigkeit, Mehrheit und Niederschrift prüfen.
@@ -29,10 +31,12 @@ Ordne streitige Angaben dem konkreten Protokoll, der Einladung oder dem Zeugenan
 
 ## 1.5. Stimmen und Protokoll abgleichen
 
-Erfasse gesetzliche Mitgliederzahl, tatsächlich Anwesende, Mitwirkungsausschlüsse, Ja, Nein, Enthaltungen und ungültige Stimmen getrennt. Beschlussfähigkeit und erforderliche Mehrheit haben nicht automatisch denselben Nenner. Beispiel NRW: Nach Paragraf 50 Absatz 1 und 5 [GO NRW](https://recht.nrw.de/lrgv/gesetz/01112025-gemeindeordnung-fuer-das-land-nordrhein-westfalen-go-nrw-bekanntmachung-der/) zählen Enthaltungen für die Beschlussfähigkeit, nicht für die Mehrheitsberechnung; Stimmengleichheit lehnt den gewöhnlichen Antrag ab. Sondermehrheiten und Wahlen gesondert prüfen, diese Regel nicht bundesweit übertragen.
+Erfasse gesetzliche Mitgliederzahl, tatsächlich Anwesende, Mitwirkungsausschlüsse, Ja, Nein, Enthaltungen und ungültige Stimmen getrennt. Beschlussfähigkeit und erforderliche Mehrheit haben nicht automatisch denselben Nenner. Beispiel NRW: Nach Paragraf 49 Absatz 1 und Paragraf 50 Absatz 1 und 5 [GO NRW](https://recht.nrw.de/lrgv/gesetz/01012026-gemeindeordnung-fuer-das-land-nordrhein-westfalen-bekanntmachung-der/) zählen Enthaltungen für die Beschlussfähigkeit, nicht für die Mehrheitsberechnung. Neun Ja gegen acht Nein reichen beim gewöhnlichen Sachantrag trotz vier Enthaltungen; ein Gleichstand lehnt ihn ab. Sondermehrheiten und Wahlen gesondert prüfen, diese Regel nicht bundesweit übertragen.
+
+Geht es um Ausschussbesetzung, vergleiche bei verbundenen Wahlvorschlägen die Sitzverteilung: BVerwG, Urteil vom 10.12.2003, 8 C 18.03, Gründe II ([Volltext](https://www.bverwg.de/101203U8C18.03.0)), untersagt bloße Zählgemeinschaften zur Gewinnung zusätzlicher Sitze zulasten einer Minderheit nach Artikel 28 Absatz 1 Satz 2 GG. Das betrifft nicht die gewöhnliche Sachabstimmung. Verwende das heutige Verteilungs- und Nachbesetzungsrecht in Paragraf 50 Absatz 3 GO NRW, nicht das damalige d'Hondt-Verfahren.
 
 
-## 1.6. Anker
+## 1.6. Materielle Rechtsgrundlagen
 
 - GG Artikel 28 Absatz 2: Garantie der kommunalen Selbstverwaltung im Rahmen der Gesetze.
 - Gemeinde- und Kreisordnungen des jeweiligen Landes: Organe, Zuständigkeiten, Sitzung, Beschluss, Beanstandung und Kommunalaufsicht.
@@ -45,6 +49,8 @@ Erfasse gesetzliche Mitgliederzahl, tatsächlich Anwesende, Mitwirkungsausschlü
 Eine Beschlussvorlage enthält Anlass, Zuständigkeit, Sachverhalt, Rechtsgrundlage, Haushaltsfolgen, Alternativen, Beschlussvorschlag und Vollzug. Ein Gutachten beantwortet dagegen die gestellte Rechtsfrage mit Begründung und den tragenden Einwänden. Stelle Stimmenrechnung oder Gebührenkalkulation nur dar, soweit sie zum Auftrag gehören.
 
 Verfasse das Ergebnis in vollständigen Sätzen unter dem gewünschten Dateinamen. Quellenabrufe und noch ungeprüfte Fundstellen gehören in eine getrennte Arbeitsnotiz, nicht als technische Hinweise in einen Empfängerbrief. Entscheidungen nur nach amtlicher Prüfung und mit Bezug zur konkreten Landesnorm verwenden.
+
+Fortsetzung: „Das ausgeschlossene Mitglied war bei Tagesordnungspunkt 5 wieder anwesend.“ Kläre nur seine dortige Stimmberechtigung und ändere im vorhandenen Dokument, etwa `beschlusspruefung.md`, die Anwesenheit, Mehrheitsrechnung und davon abhängige Schlussfolgerung. Keinen neuen Gesamtbericht und keine feste Zahl von Dialogrunden verlangen.
 
 ## 1.8. Grenzen und Ausgabe
 

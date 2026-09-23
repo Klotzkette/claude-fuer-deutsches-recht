@@ -1,6 +1,6 @@
 # 1. Unternehmensinterne Untersuchung
 
-Prüfe den konkreten Verdacht anhand der vorhandenen Unterlagen und des freigegebenen Untersuchungsauftrags. Erstelle den bestellten Untersuchungsplan, Interviewleitfaden, Ergebnisbericht oder Behördenbrief mit nachvollziehbaren Feststellungen und erkennbaren Grenzen.
+Kläre, ob auffällige Rechnungen, Zahlungen, Freigaben oder Nachrichten den gemeldeten Pflichtverstoß tragen oder eine andere Erklärung nahelegen. Beginne mit den vorhandenen Geschäftsunterlagen und begrenze zusätzliche Datenerhebung und Interviews auf die noch offenen Tatsachenfragen. Verfasse den beauftragten Untersuchungsplan, Leitfaden, Ergebnisbericht oder Behördenbrief mit belegten Feststellungen und benannten Unsicherheiten.
 
 ## 1.1 Auftrag, Leitung und Unabhängigkeit
 
@@ -9,6 +9,38 @@ Entnimm Auftrag, Hinweis und bisheriger Korrespondenz Mandant, Auftraggeber, Anl
 Prüfe Interessenkonflikte von Unternehmensleitung, Untersuchenden und Empfängern. Ordne Organpflichten nach Paragraf 93 AktG oder Paragraf 43 GmbHG und gegebenenfalls Aufsichtsratsfragen nach Paragrafen 107 und 116 AktG der konkreten Gesellschaft zu. Ein Sonderausschuss benötigt eine tragfähige Zuständigkeit, Besetzung, Aufgabenbeschreibung, Befugnisse und Berichtslinie; seine Notwendigkeit folgt nicht allein aus der Höhe eines vermuteten Schadens.
 
 Bei US-Bezug prüfe die tatsächlich einschlägigen gesellschafts-, aufsichts- und verfahrensrechtlichen Anforderungen gesondert. Übertrage weder US-Beschlagnahmeschutz noch Erwartungen von DOJ oder SEC pauschal auf deutsche Untersuchungen. Ein unabhängiger Ausschuss und ein anwaltliches Mandat garantieren keine bestimmte Verwertbarkeit oder Schutzwirkung.
+
+### 1.1.1 Konkreter Untersuchungsstart
+
+Ohne Eingabe biete Rechnungs- und Zahlungsabgleich, Interviewleitfaden oder Ergebnisbericht an. Bei Dateien ohne Auftrag lies sie still und biete zwei passende Dokumentwege an. Bei klarem Auftrag direkt ausarbeiten; kein ungefragter Verdachtsbericht und keine erzwungene Befragungsrunde. Ein zugänglicher Hinweis ersetzt keine Freigabe für Datenerhebung. Der Text funktioniert ohne weitere Plugin-Dateien oder Forensiksysteme.
+
+### 1.1.2 Doppelrechnung oder getrennte Leistung
+
+Bei ähnlichen Rechnungen vergleiche Auftragsnummer, Leistungszeitraum, Leistungsempfänger, Freigabe, Zahlung und mögliche Stornierung. Gleicher Wortlaut kann eine Dublette, wiederkehrende Leistung oder unspezifische Beschreibung sein. Frage zuerst nach dem Zahlungsjournal und der konkreten Leistungsunterlage, wenn diese den Vorwurf entscheiden. Ein fehlender Beleg ist eine Erkenntnislücke, noch keine erfundene Gegenleistung und kein Beweis ihrer Nichtexistenz.
+
+Nach einem neuen Leistungsprotokoll prüfe Herkunft und Zuordnung. Passt es zur zweiten Rechnung, ändere die Doppelabrechnungshypothese. Passt es nur zur ersten, bleibt die zweite offen. Ein belegter doppelter Zahlungsausgang beweist wiederum nicht ohne Weiteres vorsätzliches Zusammenwirken des Freigebenden. Trenne objektive Abweichung, Verantwortlichkeit, Wissen und mögliche Schadenshöhe im Bericht. Entlastende Erklärungen müssen denselben Quellenmaßstab erfüllen wie belastende.
+
+### 1.1.3 Zielgerichtete Erweiterung statt Vollsichtung
+
+Taucht eine Nachricht mit einem weiteren Empfänger auf, bestimme deren Bedeutung für die offene Frage. Ein Name im Verteiler rechtfertigt nicht automatisch die Auswertung seines gesamten Postfachs. Formuliere den Erweiterungsvorschlag mit konkretem Zeitraum, Datenquelle, Suchgegenstand und milderer Alternative. Sicherung zur Verhinderung eines konkret drohenden Verlusts und spätere inhaltliche Auswertung haben getrennte Voraussetzungen.
+
+Geht die Freigabe nur für Geschäftsunterlagen ein, kläre private Daten und besonders geschützte Inhalte gesondert. Ein neuer Suchbegriff kann die Trefferzahl und Eingriffsintensität deutlich erhöhen; seine Verwendung braucht eine erneute maßnahmenbezogene Begründung. Dokumentiere, was tatsächlich gesichtet wurde. Eine technisch erzeugte Trefferliste ist weder ein vollständiger Kontext noch eine abschließende Beweiswürdigung.
+
+### 1.1.4 Interview aus dem Belegwiderspruch entwickeln
+
+Beginne mit einer offenen Frage zum konkreten Vorgang und lege anschließend den einschlägigen Beleg vor, soweit zulässig und sachgerecht. Unterscheide Erinnerung an eigenes Handeln, damals erhaltene Information und heutige Vermutung. Frage bei einem Widerspruch nach Zeitpunkt oder Dokumentversion, statt Täuschung als Prämisse der Frage zu setzen. Keine Zusage, dass Aussagen unter allen Umständen vertraulich oder unverwertbar bleiben.
+
+Nach „Die Freigabe galt nur einer Teilzahlung“ vergleiche Freigabefassung und tatsächlich ausgelöste Zahlung. Ergänze gegebenenfalls die Frage an den ausführenden Bereich, nicht wahllos weitere Interviews. Bei einer Protokollkorrektur erhalte alte Fassung und Änderungsgrund nachvollziehbar. Die spätere Erklärung wird als neue Aussage gewürdigt, nicht rückwirkend als ursprünglicher Wortlaut ausgegeben. Schweigen oder Erinnerungslücke ersetzt keinen belastenden Beweis.
+
+### 1.1.5 Organbericht, Maßnahmen und Behördenantwort
+
+Ordne jede Feststellung dem Untersuchungsumfang und der erreichbaren Beweislage zu: bestätigt, widerlegt oder offen. Ein Bericht kann einen Kontrollmangel feststellen, obwohl persönlicher Vorsatz ungeklärt bleibt. Trenne daraus abgeleitete Prozessverbesserung von arbeitsrechtlicher Sanktion und strafrechtlicher Bewertung. Eine Empfehlung zur Vier-Augen-Kontrolle ist kein Nachweis, dass sie bereits umgesetzt wurde.
+
+Wird eine Behördenanfrage nachgereicht, prüfe Gegenstand, Befugnis, Frist und zulässigen Übermittlungsumfang. Ein interner Gesamtbericht ist nicht automatisch die passende Antwortanlage. Prüfe Mandats- und Geheimnisgrenzen konkret; der anwaltliche Verfassername verspricht keinen universellen Beschlagnahmeschutz. Vermeide, dass eine intern ausdrücklich unsichere Schlussfolgerung im Behördenbrief durch sprachliche Verkürzung zur feststehenden Tatsache wird.
+
+### 1.1.6 Abschluss und verbleibende Entscheidung
+
+Der vollständige Bericht enthält Auftrag, tatsächlich durchgeführte Schritte, tragende Belege, Gegenbelege, Bewertung und offene Grenzen. Ein Leitfaden enthält verwendbare Fragen, ein Maßnahmenvorschlag Ursache, zuständige Rolle und prüfbaren Erledigungsnachweis. Aktualisiere nach jeder entscheidenden Antwort die betroffene Feststellung und deren Folge, nicht nur die Anlagenliste. Schließe den bestellten Umfang ab; weitere Erhebung, Interview, Kündigung, Anzeige oder Weitergabe benötigt gesonderte Freigabe.
 
 ## 1.2 Belege lesen, Lücken klären, Bericht fortsetzen
 
@@ -34,7 +66,9 @@ Eine Erweiterung auf neue Personen, Zeiträume oder Datenquellen benötigt eine 
 
 Prüfe Artikel 5, 6, 9, 13, 14 und 32 Datenschutz-Grundverordnung sowie Paragraf 26 BDSG für die jeweilige Maßnahme. Bei Straftataufklärung anhand von Beschäftigtendaten sind dokumentierte tatsächliche Anhaltspunkte, Erforderlichkeit und Verhältnismäßigkeit konkret darzustellen. Eine unspezifische Anschuldigung trägt keine unbegrenzte Kopie sämtlicher privater und dienstlicher Daten.
 
-Unterscheide eine rechtliche Verpflichtung von einem berechtigten Interesse und dessen erforderlicher Abwägung. Prüfe Kollektivvereinbarungen nach Paragraf 26 Absatz 4 BDSG und die anwendbaren unionsrechtlichen Anforderungen. Weder Einwilligung noch Betriebsvereinbarung sind ohne Prüfung ihres Inhalts und ihrer Voraussetzungen eine pauschale Erlaubnis.
+BAG, Urteil vom 27.07.2017, 2 AZR 681/16, Rn. 15 bis 41: Das anlasslose vollständige Erfassen von Tastatureingaben und Bildschirmbildern war ohne konkret begründeten Verdacht einer Straftat oder schweren Pflichtverletzung unzulässig; der daraus gewonnene Vortrag blieb im Kündigungsprozess unberücksichtigt. Verlange vor vergleichbar intensiver Überwachung belastbare Anhaltspunkte und prüfe mildere Mittel, etwa den Rechnungs- und Zahlungsabgleich. Schweigen auf eine Ankündigung ist keine Einwilligung. Grenze sorgfältig ab: Das Urteil erging zu Paragraf 32 BDSG alter Fassung, nicht zur heutigen DSGVO; weniger intensive offene Kontrollen können anders liegen. Datenschutzverstoß und Verwertungsverbot sind nicht automatisch gleichzusetzen. Rechtsgrundlage nach heutigem Recht und spätere Verwendung jeweils eigenständig prüfen ([amtlicher Volltext](https://www.bundesarbeitsgericht.de/entscheidung/2-azr-681-16/)).
+
+Unterscheide eine rechtliche Verpflichtung von einem berechtigten Interesse und dessen erforderlicher Abwägung. Bestimme für die konkrete Maßnahme die Grundlage nach Artikel 6 Absatz 1 DSGVO und prüfe die Vereinbarkeit herangezogenen Beschäftigtendatenschutzrechts mit Artikel 88 DSGVO. Bei Kollektivvereinbarungen beachte Paragraf 26 Absatz 4 BDSG und Artikel 88 Absatz 2 DSGVO. Weder Einwilligung noch Betriebsvereinbarung sind eine pauschale Erlaubnis; besondere Kategorien benötigen zusätzlich eine Ausnahme nach Artikel 9 Absatz 2 DSGVO.
 
 Ordne Beteiligungsrechte nach Paragrafen 87, 99 und 102 BetrVG nach der konkreten Maßnahme zu. Datenauswertung, Versetzung und Kündigung haben unterschiedliche Voraussetzungen. Bei drohender arbeitsrechtlicher Frist kläre Auslöser, Kenntnisstand und rechtlich erforderliche Schritte, statt die gesamte Untersuchung pauschal als abgeschlossen zu behandeln.
 

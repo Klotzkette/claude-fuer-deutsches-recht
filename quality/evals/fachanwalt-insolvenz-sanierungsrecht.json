@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "fachanwalt-insolvenz-sanierungsrecht",
-  "reviewed_on": "2026-09-17",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/inso/__15b.html",
@@ -27,36 +27,52 @@
       "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2017-7-4&Gericht=bgh&anz=17&nr=79247&pos=6",
       "checked_on": "2026-09-14",
       "supports": "BGH, Urteil vom 04.07.2017, Az. II ZR 319/15: amtliche Leitsätze im Suchauszug zu unmittelbarem Masseausgleich, Verwertbarkeit und Liquidationswert gelesen. Historischer Paragraf 64 GmbHG; direkter Volltext gesperrt, Übertragung auf Paragraf 15b bleibt eigenständige Prüfung."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2015/II_ZR_319-15A.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 04.07.2017, II ZR 319/15, Rn. 10–21: Zahlungen und wirtschaftlich zugehörige, für Gläubiger verwertbare Gegenwerte einzeln abgleichen; Dienstleistungen und bloße Chancen auf Anfechtungsrückgewähr nicht pauschal verrechnen. Grenze: Paragraf 64 GmbHG alter Fassung; heutige Ausnahmen und Erstattungsbegrenzung des Paragrafen 15b InsO gesondert prüfen. Fortführungswerte waren nicht allgemein entschieden."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__15b.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aktuelle Zahlungshaftung mit eigenen Sorgfalts-, Frist- und Erstattungsregeln; alte Paragraf-64-Rechtsprechung nicht unverändert übernehmen."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Ganztextreview: Die differenzierten Regeln zu Insolvenzreife, Organhaftung und Anfechtung waren brauchbar; Einstieg und Fortsetzung standen noch in langen Absätzen. Lesbarkeit und Dateivorgabe wurden präzisiert, ohne den dokumentierten alten Quellenstatus zu erneuern; kein Live-Modelltest.",
+    "reason": "Der Kernfall verbindet Organzahlung und Massegegenwert mit der zeitlich zutreffenden Haftungsnorm. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Journalzeile ist eine Umbuchung zwischen eigenen Konten -> Vorgang verknüpfen, doppelte Masseabflussrechnung beseitigen und Haftungstext korrigieren.",
     "changes": [
-      "Auftrag und Aktenprüfung vom kurzen Einstieg getrennt und Überschriften hierarchisch gegliedert.",
-      "Stundungs-, Rückfluss- und Finanzierungsnachfragen von der anschließenden Dokumentfertigstellung lesbar getrennt.",
-      "Nutzerdateinamen priorisiert; historische Gegenleistungsrechtsprechung und fehlender Schonfristcharakter unverändert erhalten."
+      "Amtliches Urteil II ZR 319/15 vom 04.07.2017 statt des gleich nummerierten PKH-Beschlusses verwendet.",
+      "In allen drei Prompts und Fokus-Skill alte Paragraf-64-Rechtsprechung von Paragraf 15b InsO abgegrenzt; Dienstleistungen nicht pauschal als Masseausgleich behandelt.",
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
     ],
-    "sha256": "b57b68dac45d2c8f8b6aa81263b52fd7543d3d109b7e4945cc214b7e9046ee59"
+    "sha256": "9dbdbafd698d92046e1b3e6f7879414de98ca07a0e06eb04f631f994b63c947b"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die vollständig gelesene Werkstatt wiederholte Prognosebausteine auch für Anfechtung und Restschuldbefreiung und enthielt zwölf schematische Anschlussrouten. Neu gegliedert nach tatsächlichem Mandat; keine erneute Quellenverifikation oder Live-Modellprüfung.",
-    "changes": ["Liquiditäts- und Prognoseprüfung, Zahlungshaftung, Sanierungsinstrumente, Plan, Anfechtung und Restschuldbefreiung eigenständig behandelt.","Stundungs- und Finanzierungsantworten führen zu angepasster Rechnung und vollständigem bestellten Text; fehlende Planung stoppt unabhängige Teile nicht.","Anfechtungsklage nicht länger wie ein Rechtsbehelf gegen eine Entscheidung beschrieben; bestehende unvollständige Entscheidungsnachweise als Recherchehinweise begrenzt."],
-    "sha256": "d601eb1302f058e97d40293d8ac634188f2a83849091e2fc7822d0c133513c40"
+    "reason": "Die breiten Sanierungswege bleiben erhalten, während der Zahlungsabgleich wirtschaftliche Zuordnung, Verwertbarkeit und tatsächlich zurückgewährte Werte verlangt. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Stundungsanfrage gegenüber wirksamer Vereinbarung, bedingte Finanzierung, fällige Schulden, Höchstfristen ohne freie Wartezeit, tatsächlicher Gegenwert, Rückflüsse, Zustimmungsumfang und empfängerbezogene Kenntnis bei Anfechtung.",
+    "changes": [
+      "Amtliches Urteil II ZR 319/15 vom 04.07.2017 statt des gleich nummerierten PKH-Beschlusses verwendet.",
+      "In allen drei Prompts und Fokus-Skill alte Paragraf-64-Rechtsprechung von Paragraf 15b InsO abgegrenzt; Dienstleistungen nicht pauschal als Masseausgleich behandelt.",
+      "Stundungsanfrage gegenüber wirksamer Vereinbarung, bedingte Finanzierung, fällige Schulden, Höchstfristen ohne freie Wartezeit, tatsächlicher Gegenwert, Rückflüsse, Zustimmungsumfang und empfängerbezogene Kenntnis bei Anfechtung."
+    ],
+    "sha256": "776ce54197fd897c51de5c583bb892c210ed3e8bff6b26d00c70a6a8562a5512"
   },
   "focus_review": {
-    "reviewed_on": "2026-09-17",
+    "reviewed_on": "2026-09-23",
     "method": "desk_review",
     "verdict": "revised",
-    "reason": "Standalone-Prompt und zugeordneter Fokus-Skill vollständig auf fachlichen Umfang, Rückfragen mit Fortsetzung bis zum bestellten Dokument, Ausgabeverhalten, Rollenbegrenzung und Quellendifferenzierung gelesen. Kein Live-Modelltest und keine erneute Vollverifikation der bestehenden Rechtsquellen.",
+    "reason": "Insolvenzreife und einzelne Organforderungen aus Zahlungsjournal und Gegenwerten bestimmen. Hauptproblem-Prompt und zugeordneten Fokus-Skill vollständig gelesen; Entscheidung auf Anwendung und Reichweite geprüft. Kein Live-Modelltest und keine vollständige Neuverifikation aller Rechtsquellen. Workflow-Ergänzung: Journalzeile ist eine Umbuchung zwischen eigenen Konten -> Vorgang verknüpfen, doppelte Masseabflussrechnung beseitigen und Haftungstext korrigieren. Zugeordneten Fokus-Skill auf Kohärenz gelesen und unverändert belassen.",
     "changes": [
-      "Vollständigen Antworttext bei fehlendem Dateiexport ergänzt; keine erfundenen Downloadlinks."
+      "Amtliches Urteil II ZR 319/15 vom 04.07.2017 statt des gleich nummerierten PKH-Beschlusses verwendet.",
+      "In allen drei Prompts und Fokus-Skill alte Paragraf-64-Rechtsprechung von Paragraf 15b InsO abgegrenzt; Dienstleistungen nicht pauschal als Masseausgleich behandelt.",
+      "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten."
     ],
     "prompt_path": "fachanwalt-insolvenz-sanierungsrecht/fachanwalt-insolvenz-sanierungsrecht-hauptproblem.md",
-    "prompt_sha256": "c2c448619b65b01a09f266e28229223308c9bcf8ae73b9a41cca190b39fe7d38",
+    "prompt_sha256": "9e049f1c09d0149c84ce0c666c50929829e75d7032dc375547785be05ba55750",
     "skill_path": "fachanwalt-insolvenz-sanierungsrecht/skills/organhaftung-zahlungen-masseabgleich/SKILL.md",
-    "skill_sha256": "028f7b368eaf2135a88ed9c9fdf5bf875968d4a7613f6de5dd9aa2fd94c5198c"
+    "skill_sha256": "973e6c035799e687900d01815368af5a17fead2d8a3fdff6edd0591401f60e6c"
   },
   "selection": {
     "positive": [
@@ -116,5 +132,46 @@
       ],
       "target_skill": "organhaftung-zahlungen-masseabgleich"
     }
-  ]
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-23",
+    "files": [
+      "fachanwalt-insolvenz-sanierungsrecht/fachanwalt-insolvenz-sanierungsrecht-schnellstart.md",
+      "fachanwalt-insolvenz-sanierungsrecht/fachanwalt-insolvenz-sanierungsrecht-hauptproblem.md",
+      "fachanwalt-insolvenz-sanierungsrecht/fachanwalt-insolvenz-sanierungsrecht-werkstatt.md",
+      "fachanwalt-insolvenz-sanierungsrecht/skills/organhaftung-zahlungen-masseabgleich/SKILL.md",
+      "fachanwalt-insolvenz-sanierungsrecht/README.md",
+      "quality/evals/fachanwalt-insolvenz-sanierungsrecht.json"
+    ],
+    "opening_change": "Insolvenzreife und einzelne Organforderungen aus Zahlungsjournal und Gegenwerten bestimmen. Workflow-Ergänzung: Leer: Insolvenzstatus, Organ-Zahlungshaftung oder Gläubigerforderung anbieten. Dateien ohne Aufgabe: Liquiditätsunterlagen, Zahlungsjournal und Verfahrensbeschlüsse still lesen; Status-, Haftungs- oder Forderungsziel klären. Klarer Auftrag: verlangtes Gutachten oder Haftungsschreiben unmittelbar ausarbeiten; keine automatische gesamte Insolvenzakte referieren.",
+    "norms": [
+      "Paragrafen 15a, 15b, 17 und 19 InsO",
+      "Paragraf 64 GmbHG alter Fassung"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 04.07.2017, II ZR 319/15, Rn. 10–21",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2015/II_ZR_319-15A.pdf?__blob=publicationFile&v=1",
+        "application": "Zahlungen und wirtschaftlich zugehörige, für Gläubiger verwertbare Gegenwerte einzeln abgleichen; Dienstleistungen und bloße Chancen auf Anfechtungsrückgewähr nicht pauschal verrechnen.",
+        "limit": "Paragraf 64 GmbHG alter Fassung; heutige Ausnahmen und Erstattungsbegrenzung des Paragrafen 15b InsO gesondert prüfen. Fortführungswerte waren nicht allgemein entschieden."
+      }
+    ],
+    "remaining_limits": [
+      "Redaktionelle Akten- und Quellenprüfung, kein Live-Client- oder Modelltest.",
+      "Historischer Haftungsanker ersetzt keine vollständige aktuelle Prüfung aller Ausnahmen des Paragrafen 15b InsO; weitere Spezialfälle bleiben Rechercheaufträge.",
+      "Workflow-Review 23.09.2026: erneuter Abruf von Paragraf 15a InsO scheiterte; vorhandene Frist- und Rechtsprechungsnachweise nicht als neu volltextverifiziert ausgegeben."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Insolvenzstatus, Organ-Zahlungshaftung oder Gläubigerforderung anbieten.",
+      "Dateien ohne Aufgabe: Liquiditätsunterlagen, Zahlungsjournal und Verfahrensbeschlüsse still lesen; Status-, Haftungs- oder Forderungsziel klären.",
+      "Klarer Auftrag: verlangtes Gutachten oder Haftungsschreiben unmittelbar ausarbeiten; keine automatische gesamte Insolvenzakte referieren."
+    ],
+    "continuation": "Journalzeile ist eine Umbuchung zwischen eigenen Konten -> Vorgang verknüpfen, doppelte Masseabflussrechnung beseitigen und Haftungstext korrigieren.",
+    "enrichment": "Stundungsanfrage gegenüber wirksamer Vereinbarung, bedingte Finanzierung, fällige Schulden, Höchstfristen ohne freie Wartezeit, tatsächlicher Gegenwert, Rückflüsse, Zustimmungsumfang und empfängerbezogene Kenntnis bei Anfechtung.",
+    "limits": "desk review; no live client execution"
+  }
 }

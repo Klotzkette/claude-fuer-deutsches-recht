@@ -1,6 +1,8 @@
 # 1. Pflichtteil aus widersprüchlichen Nachlassverzeichnissen
 
-Gleiche das vorliegende Nachlassverzeichnis mit den Belegen ab und berechne, wie sich die Abweichungen auf meinen Pflichtteilsanspruch auswirken. Liefere die verlangte begründete Nachforderung oder Erwiderung, nicht bloß ein neues Inventar. Lies vorhandenes Material und übernimm den bekannten Auftrag. Frage nur nach fehlenden Status-, Verzeichnis- oder Wertangaben, die das Ergebnis verändern. Dieser Auftrag ist ohne installierte Erweiterungen nutzbar.
+Gleiche jede Fassung des Nachlassverzeichnisses mit Kontoständen und Bewertungen zum Todestag ab. Prüfe, welche Schulden abzugsfähig sind und wie sich ausgelassene oder falsch bewertete Positionen auf den Pflichtteil auswirken. Formuliere die beauftragte Nachforderung oder Erwiderung mit der dafür tragenden Rechnung. Lies vorhandenes Material zuerst; frage nur nach fehlenden Status-, Bestands- oder Wertangaben, die das Ergebnis verändern. Bekannte Antworten und geprüfte Belege weiterverwenden. Dieser Auftrag ist ohne installierte Erweiterungen nutzbar.
+
+Ohne Eingabe biete Verzeichnisabgleich, gezielte Nachforderung oder Pflichtteilsrechnung an. Dateien ohne Aufgabe still lesen und nur das Ziel klären. Ein klarer Auftrag wird unmittelbar bearbeitet. Auf „Die Pflegevergütung wurde schon bezahlt“ prüfe Rechtsgrund und Buchung: weder automatisch anerkennen noch Schuld und Zahlung doppelt abziehen; Rechnung und Brief ändern.
 
 ## 1.1. Tatsachen und Fassungen
 
@@ -23,13 +25,13 @@ Rechne die belegte reale Masse und getrennte Streitvarianten: Aktiva minus abzug
 Prüfe die aktuelle Normfassung und tragende Aussagen amtlich; keine erfundenen Fundstellen und keine personenbezogenen Suchanfragen.
 
 - BGB [Paragraf 2314](https://www.gesetze-im-internet.de/bgb/__2314.html), [Paragraf 2311](https://www.gesetze-im-internet.de/bgb/__2311.html), [Paragraf 260](https://www.gesetze-im-internet.de/bgb/__260.html) und [Paragraf 2303](https://www.gesetze-im-internet.de/bgb/__2303.html).
-- BGH, Urteil vom 20.05.2020, Az. IV ZR 193/19, [amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2019/IV_ZR_193-19.pdf?__blob=publicationFile&v=1), Randnummern 8 bis 11: eigene Ermittlungen, Erbenmitwirkung und Ergänzung bei verweigerter Mitwirkung; kein allgemeiner Neubeginn bei jeder Unzufriedenheit.
+- BGH, Urteil vom 20.05.2020 - IV ZR 193/19, [amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2019/IV_ZR_193-19.pdf?__blob=publicationFile&v=1), Randnummern 8 bis 11: Verweigert der Erbe die für eine konkrete Auslandsbankauskunft benötigte Zustimmung, bleibt das notarielle Verzeichnis insoweit unvollständig. Fordere die erforderliche Mitwirkung und Ergänzung gerade dieser Geschäftsverbindung. Die Entscheidung verlangt eigene notarielle Ermittlungen, aber keinen allgemeinen Neubeginn bei jeder Richtigkeitsbeanstandung; Wertfragen und Sorgfaltszweifel nach Paragrafen 2314 und 260 Absatz 2 BGB gesondert behandeln.
 
 ## 1.4. Lieferung
 
 Verwende den gewünschten Dateinamen; nur ohne Dateivorgabe gilt `ergebnis.md`. Liefere nachvollziehbaren Belegabgleich, Ausgangs- und erforderliche Variantenrechnung sowie die bestellte Nachforderung oder Erwiderung. Ein reiner Berechnungsauftrag verlangt keinen zusätzlichen Brief.
 
-Bei Titel dessen Umfang und Erfüllung gesondert würdigen. Verjährung unabhängig prüfen; bloße Aufforderung nicht als sichere Hemmung ausgeben.
+Bei Titel dessen Umfang und Erfüllung gesondert würdigen. Verjährung unabhängig prüfen; bloße Aufforderung nicht als sichere Hemmung ausgeben. Bei später festgestellter Vaterschaft entsteht der Pflichtteil dennoch mit dem Erbfall, Paragraf 2317 Absatz 1 BGB. Für Paragraf 199 Absatz 1 Nummer 2 BGB Kenntnis der rechtlichen Vaterschaft und grob fahrlässige Verzögerung ihrer Feststellung getrennt prüfen: BGH, Urteil vom 12.03.2025 - IV ZR 88/24, Randnummern 17 bis 25 ([amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2024/IV_ZR__88-24.pdf?__blob=publicationFile&v=1)). Die Rechtsausübungssperre nach Paragraf 1600d Absatz 5 BGB ist keine Hemmung nach Paragraf 205 BGB. Hindernisse und Kenntnisdaten erfragen, soweit nicht belegt; aus später Feststellung allein folgt weder Verjährung noch deren Ausschluss.
 
 Fehlt bei einem späteren Kontosaldo die Bewegungsliste, fordere die Buchungen zwischen Todestag und Auskunft nach; bei Pflegevergütung die behauptete Vereinbarung und Leistungsgrundlage. Nach Antwort Nachweis und Abzugsfähigkeit prüfen, die Rechnung erneuern und die betroffene Briefpassage vollständig überarbeiten. Bei einer Wertlücke die passende Wertermittlung klären, nicht automatisch ein neues Verzeichnis verlangen.
 

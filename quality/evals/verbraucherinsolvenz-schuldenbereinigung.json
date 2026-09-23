@@ -1,8 +1,23 @@
 {
   "schema_version": 1,
   "plugin": "verbraucherinsolvenz-schuldenbereinigung",
-  "reviewed_on": "2026-09-17",
+  "reviewed_on": "2026-09-23",
   "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__305.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlicher Volltext gelesen: Forderungsaufstellung nach Absatz 2 mit Hinweis auf eingereichten oder bevorstehenden Antrag; Ergänzungsaufforderung und Rücknahmefiktion nach Absatz 3; persönliche Beratung und Planbescheinigung bleiben reale Voraussetzungen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__309.html",
+      "checked_on": "2026-09-23",
+      "supports": "Nach Web-Timeout amtlichen Volltext direkt gelesen: mehr als die Hälfte nach Köpfen und Summen, angemessene Beteiligung, keine wirtschaftliche Schlechterstellung und Grenzen bei entscheidenden Forderungsstreitigkeiten. Nur gerichtliche Zustimmungsersetzung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__302.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlicher Volltext gelesen: insbesondere vorsätzlich pflichtwidrig nicht gewährter gesetzlicher Unterhalt, Steuerforderungen mit bezeichnetem rechtskräftigem Strafurteil und Anmeldung des besonderen Rechtsgrunds nach Nummer 1; nicht gleichzusetzen mit Zugang nach Paragraf 304."
+    },
     {
       "url": "https://www.gesetze-im-internet.de/inso/__304.html",
       "checked_on": "2026-09-14",
@@ -12,15 +27,44 @@
       "url": "https://www.gesetze-im-internet.de/inso/BJNR286600994.html",
       "checked_on": "2026-09-14",
       "supports": "Amtlicher Suchauszug zu Paragraf 305 Absatz 1 Nummer 1: geeignete Person oder Stelle, persönliche Beratung und erfolgloser Planversuch innerhalb der letzten sechs Monate vor Eröffnungsantrag."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2004/IX_ZB__55-04.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Beschluss vom 22.09.2005, IX ZB 55/04, Gründe II.1 und II.2: Bei ehemaligem Alleingesellschafter-Geschäftsführer selbständige Tätigkeit und aus Beschäftigung herrührende Lohnsteuer-/Sozialversicherungsschulden auch bei persönlicher Haftung prüfen; Gläubiger, nicht Forderungspositionen zählen. Grenze: Nicht jeder Geschäftsführer ist selbständig und nicht jede öffentliche Forderung stammt aus Arbeitsverhältnissen. Regelinsolvenz bedeutet nicht Ausschluss der Restschuldbefreiung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__304.html",
+      "checked_on": "2026-09-22",
+      "supports": "Ehemalige Selbständige: überschaubare Vermögensverhältnisse und keine Forderungen aus Arbeitsverhältnissen; weniger als 20 Gläubiger."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__305.html",
+      "checked_on": "2026-09-22",
+      "supports": "Bescheinigung und Unterlagen des Verbraucherinsolvenzantrags; Einigungsversuch und gerichtlicher Antrag getrennt."
     }
   ],
   "mini_review": {
-    "verdict": "retained",
-    "reason": "Vollständige Textprüfung am 18. September: Forderungsaufstellung und Drittzahlungszusage führen zu bereinigtem Bestand und neu gerechneter Planquote; der Entwurf ersetzt keine Bescheinigung.",
+    "verdict": "revised",
+    "reason": "Am 23.09.2026 vollständig erneut gelesen: eigenständige Einstiegswege für Schuldenbild, Ratenplan und Pfändungsschutz; eine Drittzusage verändert Zahlungsbeginn, Bedingung und Quote im Plan. IX ZB 55/04 mit begrenztem Beschäftigungs- und Haftungsbezug bleibt erhalten; keine Live-Ausführung.",
     "changes": [
-      "Keine weitere Änderung der vollständig gelesenen Mini-Fassung."
+      "Drei Startmodi und bedingte Drittzahlung als konkrete Fortsetzung bis zum neu gerechneten Plan ergänzt.",
+      "IX ZB 55/04 auf ehemaligen Alleingesellschafter-Geschäftsführer und beschäftigungsbezogene Haftungsschulden begrenzt.",
+      "Gläubiger statt Forderungspositionen gezählt; Regelinsolvenz nicht mit fehlender Restschuldbefreiung gleichgesetzt."
     ],
-    "sha256": "49524613cff4e939afe18b8236c5cc91406e80e9bdd89922c06a2830a4912fd7"
+    "sha256": "66e8dc90891cbf702c2ec03bfd473af26bcf5fd143c936940da1f227d6ee51f8"
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Gläubigerliste mit Zugangseinschätzung, außergerichtlichen Ratenplan oder Schreiben zum Pfändungsschutz anbieten.",
+      "Dateien ohne Auftrag: Mahnungen, Titel und Einkommensbelege still lesen; nur bei unklarem Ziel passende Plan- oder Schutzdokumente anbieten.",
+      "Klarer Auftrag: sofort an Liste, Plan oder Antrag arbeiten; nur entscheidenden Status, Forderungsgrund oder finanzierbare Leistung klären."
+    ],
+    "continuation": "Inkassobestätigung -> korrigiertes Gläubigerverzeichnis und Planquote; bedingte Drittzusage oder Mietanstieg -> geänderte Zahlungsbedingungen und Gläubigerbeträge im Schuldenbereinigungsplan.",
+    "enrichment": "Saldenanforderung, Dubletten/Abtretung, pfändungsgeschützte Mittel und Planfinanzierung, ausformulierte Angebotsbedingungen, Mehrheiten der gerichtlichen Ersetzung, Formularergänzungsfrist und Forderungsausnahmen ausgearbeitet.",
+    "limits": "desk review; no live client execution"
   },
   "selection": {
     "positive": [
@@ -67,11 +111,41 @@
     }
   ],
   "workshop_review": {
-    "verdict": "retained",
-    "reason": "Textprüfung am 18. September: Vollständig gelesen: Zugang, Existenzsicherung, Plan, Scheitern, Antrag und Restschuldbefreiung folgen dem privaten Schuldenfall. Neue Nachweise werden bis zum beauftragten Plan oder Brief eingearbeitet.",
+    "verdict": "revised",
+    "reason": "Am 23.09.2026 vollständig erneut gelesen: aus widersprüchlichen Salden, Drittzusagen und Gegenforderungen entstehen konkrete Verzeichnis-, Plan- und Antragsänderungen. Kopf-/Summenmehrheit, Rücknahmefiktion und Ausnahmen der Restschuldbefreiung gezielt normbezogen ergänzt; bisherige Verfahrensabgrenzungen erhalten.",
     "changes": [
-      "Keine weitere Änderung; Gläubigerzählung, Pfändbarkeit und tatsächlicher Einigungsversuch bleiben eigenständig."
+      "Forderungsanforderung, Teilabtretung und Rate/Quote samt vollständigen Angebotsbedingungen und Gegenbelegen ergänzt.",
+      "Paragrafen 305 Absatz 3, 309 und 302 InsO in auslöserbezogene Frist-, Mehrheits- und Einwandsarbeit umgesetzt.",
+      "IX ZB 55/04 auf ehemaligen Alleingesellschafter-Geschäftsführer und beschäftigungsbezogene Haftungsschulden begrenzt.",
+      "Gläubiger statt Forderungspositionen gezählt; Regelinsolvenz nicht mit fehlender Restschuldbefreiung gleichgesetzt."
     ],
-    "sha256": "5d661addc85a81b31d6f33d01f82d8a6e9c67fc29cbae751fc5bd6da7e95d5e9"
+    "sha256": "6481af0eb8ab46e51de8fd99e4cf1efb006f18141a18f10c202709c196b62894"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "verbraucherinsolvenz-schuldenbereinigung/verbraucherinsolvenz-schuldenbereinigung-werkstatt.md",
+      "verbraucherinsolvenz-schuldenbereinigung/verbraucherinsolvenz-schuldenbereinigung-schnellstart.md",
+      "verbraucherinsolvenz-schuldenbereinigung/README.md",
+      "quality/evals/verbraucherinsolvenz-schuldenbereinigung.json"
+    ],
+    "opening_change": "Gläubigerbestand, Zugang der Forderungen und tragfähige Raten aus dem Haushaltsbudget abstimmen.",
+    "norms": [
+      "Paragrafen 304 und 305 InsO",
+      "Paragrafen 286 und 302 InsO"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Beschluss vom 22.09.2005, IX ZB 55/04, Gründe II.1 und II.2",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2004/IX_ZB__55-04.pdf?__blob=publicationFile&v=1",
+        "application": "Bei ehemaligem Alleingesellschafter-Geschäftsführer selbständige Tätigkeit und aus Beschäftigung herrührende Lohnsteuer-/Sozialversicherungsschulden auch bei persönlicher Haftung prüfen; Gläubiger, nicht Forderungspositionen zählen.",
+        "limit": "Nicht jeder Geschäftsführer ist selbständig und nicht jede öffentliche Forderung stammt aus Arbeitsverhältnissen. Regelinsolvenz bedeutet nicht Ausschluss der Restschuldbefreiung."
+      }
+    ],
+    "remaining_limits": [
+      "Workflow-Review: aktuelle Normtexte zu Paragrafen 304, 305, 309 und 302 InsO gelesen. Bestehender BGH-Anker nicht neu vollständig verifiziert; keine Bescheinigung, Beratung geeigneter Stelle oder vollständige Neuprüfung der Pfändungsbeträge/Formulare.",
+      "Redaktionelle Akten- und Quellenprüfung, kein Live-Client- oder Modelltest.",
+      "Kein pauschaler Ausschluss aller ehemaligen Geschäftsführer oder öffentlichen Forderungen; P-Konto-Grenzen, Formulare und Sonderattribute nicht vollständig neu verifiziert."
+    ]
   }
 }

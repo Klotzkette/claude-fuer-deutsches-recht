@@ -1,22 +1,43 @@
 {
   "schema_version": 1,
   "plugin": "internationales-handelsrecht-lex-mercatoria",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.ris.bka.gv.at/JustizEntscheidung.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20070704_OGH0002_0020OB00095_06V0000_000&IncludeSelf=True&ShowPrintPreview=True",
       "checked_on": "2026-09-14",
       "supports": "Amtlicher Entscheidungsauszug zu OGH 4. Juli 2007, 2 Ob 95/06v: Die Wahl deutschen Rechts allein schließt das UN-Kaufrecht nicht aus; keine Volltextprüfung sämtlicher Entscheidungsgründe behauptet."
+    },
+    {
+      "url": "https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002854&Artikel=6",
+      "checked_on": "2026-09-22",
+      "supports": "Aktueller Normtext: vertraglicher CISG-Ausschluss und Abweichungen unter Artikel-12-Vorbehalt."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__1051.html",
+      "checked_on": "2026-09-22",
+      "supports": "Rechtsvorschriftenwahl im Schiedsverfahren und Berücksichtigung einschlägiger Handelsbräuche."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/__458.html",
+      "checked_on": "2026-09-22",
+      "supports": "Selbsteintritt als eigene Beförderung, nicht Fixkostenabrede."
+    },
+    {
+      "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20070704_OGH0002_0020OB00095_06V0000_000",
+      "checked_on": "2026-09-22",
+      "supports": "Amtliche Entscheidungsgründe zur Klauselauslegung gelesen: einbezogene Verweise auf KSchG und HGB ergeben Bezug auf unvereinheitlichtes österreichisches Sachrecht und Ausschluss jedenfalls im Gewährleistungsbereich. Grenze: Keine Entscheidung über jede bloße Rechtswahl; konkreter österreichischer Autokauf, kein automatischer Gesamtausschluss und keine Bindung deutscher Gerichte."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Mini vollständig gelesen: Vertragsstatut, CISG, Transport und Garantie werden getrennt; nach Prüfbericht oder Rügenachweis wird Anspruch und Schaden aktualisiert, nicht ein neuer Gesamtfragebogen begonnen.",
+    "reason": "CISG-Klauselauslegung nach vollständigem OGH-Grund statt verkürztem Leitsatz; Untersuchung, Aufhebung und Verjährung getrennt.",
     "changes": [
-      "Widersprechende AGB nach tatsächlich übermittelten Fassungen klären und Vertragstext fortschreiben lassen.",
-      "Garantienachtrag und Präsentationsbeleg mit Abrufentwurf verbunden; keine ungefragte Schiedsschrift."
+      "OGH 2 Ob 95/06v tatsächlich angewendet: nationale Gewährleistungsverweise können CISG jedenfalls teilweise ausschließen; kein Automatismus oder deutsche Präjudizienbindung.",
+      "CISG Artikel 1 bis 3, 6, 26, 35, 38, 39, 47, 49 und 74 bis 77 in die konkrete Bearbeitung eingebunden.",
+      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt."
     ],
-    "sha256": "d0d81cb98f6deb9c200c2d0592bc7281fdf524034697749b7e93f3fcebe06198"
+    "sha256": "f9457168774732f06b942003ec6d2a2479c6351dd828943e13fefd5d712e9d36"
   },
   "selection": {
     "positive": [
@@ -64,12 +85,60 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt vollständig einschließlich Finanzierung, digitalen Produkten, Lieferkette und Exportkontrolle gelesen. Konkrete Charge, Vertragsfassung und Garantie bestimmen Nachforderung und Endprodukt; Transporthaftung ist keine Universalroute.",
+    "reason": "Alle Handels-, Finanzierungs- und Transportabschnitte gelesen; nationale Rechtswahl, private Regelwerke und Transportrollen fachlich präzisiert.",
     "changes": [
-      "Neue Ersatzbeschaffungsrechnung positionsbezogen in Schaden und Zahlungsbegehren übernommen.",
-      "Technische Spezifikation mit Prüf-, Rüge- und Abhilfeklauseln verbunden.",
-      "Ungeklärter Sanktionstreffer verhindert betroffene Freigabe, nicht zulässige Nachweis- und Entwurfsarbeit; alte Regelhinweise bleiben Prüfbedarf."
+      "OGH 2 Ob 95/06v tatsächlich angewendet: nationale Gewährleistungsverweise können CISG jedenfalls teilweise ausschließen; kein Automatismus oder deutsche Präjudizienbindung.",
+      "CISG Artikel 1 bis 3, 6, 26, 35, 38, 39, 47, 49 und 74 bis 77 in die konkrete Bearbeitung eingebunden.",
+      "Paragraf 458 HGB Selbsteintritt von Paragraf 459 HGB Fixkostenspedition abgegrenzt; UNIDROIT vor staatlichem Gericht und Schiedsgericht getrennt.",
+      "Unpräzise EU-Verweise und alte Redaktionshinweise zu eUCP, Digitalrichtlinie und ESG bereinigt.",
+      "Vertragsfassungen und AGB-Einbeziehung, Waren- gegen Transportschaden, Messwerte gegen Spezifikation, Rüge und Nachfrist sowie Garantieabruf gegen Grundgeschäft getrennt vertieft; Qualität und Härtefall als konkrete Vertragsarbeit."
     ],
-    "sha256": "35912be5b7aeabac28964bb6d89e78d94073a25f2ce3a5311f40d111d7fd203b"
+    "sha256": "108f0244b670b6704851b9379939e418e32284c5118a9efac1a36ebac668846c"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "internationales-handelsrecht-lex-mercatoria/internationales-handelsrecht-lex-mercatoria-schnellstart.md",
+      "internationales-handelsrecht-lex-mercatoria/internationales-handelsrecht-lex-mercatoria-werkstatt.md",
+      "internationales-handelsrecht-lex-mercatoria/README.md",
+      "internationales-handelsrecht-lex-mercatoria/skills/cisg-ausschluss-und-rechtswahl/SKILL.md",
+      "quality/evals/internationales-handelsrecht-lex-mercatoria.json"
+    ],
+    "opening_change": "Rechtswahl, konkrete Lieferpflicht und passende Mängelanzeige statt generischem grenzüberschreitendem Prüfauftrag.",
+    "norms": [
+      "Artikel 1 bis 3 und 6 CISG",
+      "Artikel 3, 4, 9 und Erwägungsgrund 13 Rom-I-Verordnung",
+      "Paragraf 1051 ZPO",
+      "Paragrafen 458 und 459 HGB",
+      "Artikel 25 Verordnung (EU) Nr. 910/2014",
+      "Artikel 3 Absatz 1 Richtlinie (EU) 2019/770"
+    ],
+    "decisions": [
+      {
+        "citation": "OGH, Urteil und Beschluss vom 4. Juli 2007, 2 Ob 95/06v",
+        "url": "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20070704_OGH0002_0020OB00095_06V0000_000",
+        "application": "Amtliche Entscheidungsgründe zur Klauselauslegung gelesen: einbezogene Verweise auf KSchG und HGB ergeben Bezug auf unvereinheitlichtes österreichisches Sachrecht und Ausschluss jedenfalls im Gewährleistungsbereich.",
+        "limit": "Keine Entscheidung über jede bloße Rechtswahl; konkreter österreichischer Autokauf, kein automatischer Gesamtausschluss und keine Bindung deutscher Gerichte."
+      }
+    ],
+    "remaining_limits": [
+      "Desk- und Quellenprüfung, kein Live-Modelltest und keine Vollprüfung sämtlicher internationalen Rechtsordnungen oder privater ICC-Regelwerke.",
+      "Alte Quellenangabe vom 14. September bleibt historisch; präzisierte OGH-Prüfung erfasst Entscheidungsform, Klauselkontext und maßgebliche eigene Gründe.",
+      "Ordentlicher Skill cisg-ausschluss-und-rechtswahl nur gelesen, nicht im Schreibbereich: dortiger Verweis auf Artikel 10 Absatz 1 Rom I als Formnorm bleibt fehlerhaft; Form ist gesondert nach Artikel 11 zu prüfen.",
+      "Workflow-Ergänzung am 2026-09-23: individuelle Textprüfung, keine erneute Gesamtverifikation der bestehenden Entscheidungsanker; deren dokumentierte Quellen- und Zugriffsgrenzen bleiben bestehen.",
+      "Erneute RIS-Abrufe zu Artikel 39 und 75 CISG am 2026-09-23 nicht zugänglich; die bestehenden Quellen- und Entscheidungsnachweise wurden dadurch nicht neu volltextverifiziert."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Mängelanzeige, Rechtswahl- und Streitklausel oder Garantiedokument prüfen.",
+      "Dateien ohne Auftrag: Vertrag, AGB und Lieferbelege still lesen und zwei tatsächlich passende Dokumentwege anbieten.",
+      "Klarer Auftrag: die beauftragte Mängelanzeige, Klausel oder Garantieanforderung vollständig erstellen."
+    ],
+    "continuation": "Neuer Prüfbericht zu einer Charge -> Umfang und Inhalt der Mängelanzeige ändern; später erklärter Rücktritt verändert die Prüfung des Deckungskaufs und die Schadensrechnung, nicht rückwirkend dessen Datum.",
+    "enrichment": "Vertragsfassungen und AGB-Einbeziehung, Waren- gegen Transportschaden, Messwerte gegen Spezifikation, Rüge und Nachfrist sowie Garantieabruf gegen Grundgeschäft getrennt vertieft; Qualität und Härtefall als konkrete Vertragsarbeit.",
+    "limits": "desk review; no live client execution"
   }
 }

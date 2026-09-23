@@ -1,8 +1,8 @@
 # 1. DFG-Antrag ausarbeiten
 
-Erstelle die beauftragte Projektbeschreibung, den Finanzplan oder die Wiedereinreichungsantwort. Lies Forschungsidee, Entwürfe, Vorarbeiten, Methodenangaben, Berechnungen und vorhandene Gutachten zuerst.
+Verbinde die Erkenntnisfrage des DFG-Projekts mit durchführbaren Methoden, Arbeitspaketen und einem nachgerechneten Mittelbedarf. Lies zuerst Entwurf, Vorarbeiten, Berechnungen und Gutachten und verfasse die bestellte Projektbeschreibung, Finanzplanbegründung oder Wiedereinreichungsantwort.
 
-Bestimme Förderlinie und gewünschtes Ergebnis aus dem Material, ohne erneut alle Antragsangaben abzufragen. Sachbeihilfe und Koselleck nach ihrem jeweiligen Programm bearbeiten.
+Ohne Eingabe biete Projektbeschreibung, Mittelbegründung oder Wiedereinreichungsantwort an. Bei Dateien ohne Auftrag zuerst still lesen, dann das offene Ziel klären; keine Gutachtenzusammenfassung ausgeben. Bei klarem Auftrag direkt schreiben und nur entscheidende Lücken fragen. Folgeantwort „Der Datenzugang entfällt“ ändert Methode, Arbeitspaket und Mittelansatz gemeinsam. Bekannte Angaben behalten; keine Plugin-Dateien voraussetzen.
 
 ## 1.1. Programm und Forschungsfrage
 
@@ -28,7 +28,9 @@ Plane Datenschutz, Forschungsdaten, Ethik und Sicherheitsfragen anhand tatsächl
 
 Die [aktuellen Sachbeihilfe-Formulare](https://www.dfg.de/de/foerderung/foerdermoeglichkeiten/programme/einzelfoerderung/sachbeihilfe/formulare-merkblaetter) führen zu Programmmerkblatt 50.01, Projektleitfaden 54.01 und Modulmerkblättern. Versionsstand, Übergangsregeln, elan-Angaben, Anlagen und institutionelle Freigabe prüfen. Ohne verifizierten Formularstand keine Einreichreife bescheinigen, aber wissenschaftliche Textarbeit fortsetzen.
 
-DFG-Verfahrensregeln und gute wissenschaftliche Praxis für Redlichkeit, Befangenheit und Quellen beachten. Landeshochschul-, Haushalts- und Zuwendungsrecht nur nach Einrichtung und Förderweg einbeziehen. Keine unvollständigen Datenschutzverweise als Erlaubnis für sensible Daten verwenden; Rechtsprechung ist kein Pflichtbestandteil eines Forschungsantrags.
+DFG-Verfahrensregeln und gute wissenschaftliche Praxis für Redlichkeit, Befangenheit und Quellen beachten. Landeshochschul-, Haushalts- und Zuwendungsrecht nach Einrichtung und Förderweg zuordnen. Sensible Forschungsdaten benötigen eine Grundlage nach Artikel 6 und Artikel 9 Absatz 2 Buchstabe a oder j DSGVO sowie Schutzmaßnahmen nach Artikel 89 Absatz 1; im Anwendungsbereich von Paragraf 27 Absatz 1 und Absatz 3 BDSG Erforderlichkeit, erhebliches Überwiegen und Anonymisierung prüfen. Artikel 10 DSGVO für Straftatendaten gesondert beachten.
+
+Bei vertraulichen Interviews berücksichtige Artikel 5 Absatz 3 Satz 1 GG und BVerfG, Kammerbeschluss vom 25. September 2023, 1 BvR 2219/20, Randnummern 9 bis 15 ([Volltext](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2023/09/rk20230925_1bvr221920.html)): Die ergänzenden Erwägungen schützen vertrauliche Forschung und verlangen deren Gewichtung bei staatlichem Zugriff. Plane deshalb Zugriffsbegrenzung, Pseudonymisierung und realistische Teilnehmerinformation. Die Beschwerde war unzulässig; kein allgemeines Beschlagnahmeverbot, kein Förderanspruch und kein obligatorisches Rechtsprechungszitat im wissenschaftlichen Antrag folgen daraus.
 
 ## 1.5. Fassung fertigstellen
 

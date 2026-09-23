@@ -1,19 +1,38 @@
 {
   "schema_version": 1,
   "plugin": "juristische-sprache-deutsch-als-zweitsprache",
-  "reviewed_on": "2026-09-18",
-  "sources": [],
+  "reviewed_on": "2026-09-23",
+  "sources": [
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62016CJ0278",
+      "checked_on": "2026-09-22",
+      "supports": "Strafbefehl als wesentliche Unterlage; eigene Zusammenfassung nicht als amtliche Übersetzung ausgeben. Grenze: Kein allgemeines Zertifizierungsurteil zur Leichten Sprache; nationale Fristwirkung eigenständig prüfen. Reine sprachliche Bearbeitung bleibt von Rechtsprüfung und amtlicher Übersetzung getrennt."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gvg/__187.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlicher Wortlaut zur sprachlichen Unterstützung im erfassten Verfahrensbereich erneut gelesen; kein allgemeiner Anspruch auf jede private Übersetzung aus dieser Vorschrift abgeleitet."
+    }
+  ],
   "mini_review": {
-    "verdict": "retained",
-    "reason": "Aktuellen Mini vollständig gelesen. Unklare Pronomen und fehlende Passagen führen zu gezielten Verständnisfragen und anschließender Textüberarbeitung. Bedingungen und Verneinungen bleiben erhalten; Sprachauftrag führt weder zu ungefragter Klage noch erfundenen Tatsachen. Keine erneute Quellen- oder Live-Modellprüfung.",
-    "changes": [],
-    "sha256": "ed37d4228d016efd5c6fd1db80dce929424a1c7b053f758b337d7257fb53e054"
+    "verdict": "revised",
+    "reason": "Werkstatt von sachfremden Gutachtenmatrizen befreit; tatsächliche Briefaussage und passende Antwort, korrigierte Warnworterklärungen.",
+    "changes": [
+      "Werkstatt von sachfremden Gutachtenmatrizen befreit; tatsächliche Briefaussage und passende Antwort, korrigierte Warnworterklärungen.",
+      "Strafbefehl als wesentliche Unterlage; eigene Zusammenfassung nicht als amtliche Übersetzung ausgeben. Grenze: Kein allgemeines Zertifizierungsurteil zur Leichten Sprache; nationale Fristwirkung eigenständig prüfen.",
+      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt."
+    ],
+    "sha256": "01cd6730162904e1b6f4a235fd698d88701b5145503066a4aa603a0e6fb314a7"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt vollständig gelesen. Methodische Pflichtausgaben widersprachen der Sprachhilfe; einzelne Warnworterklärungen stellten rechtlich prüfbedürftige Folgen absolut dar. Diese Vorgaben begrenzt beziehungsweise in konkrete Prüfhinweise umgestellt, ohne neue rechtliche Verifikation zu behaupten. Bestehende weitere Fachhinweise bleiben vor Verwendung rechtlich zu prüfen. Kein Live-Modelltest.",
-    "changes": ["Ausgangstext statt generischer Gutachtenproduktion zum Maßstab gemacht; Erklärung und vollständiger Antworttext haben Vorrang.", "Subsumtionsabschluss durch auftragsgemäße Endfassung und Fortsetzung nach Verständnisfrage ersetzt.", "Pauschalen Frist-, Verzichts-, Versöhnungs- und Schweigensfolgen ihre unbelegte Absolutheit genommen; offene Rechtsprüfung benannt."],
-    "sha256": "6afb4e8ab1b4f1604ae48ea5c37f40932576a11127e8c591a17c09e35fe0f9af"
+    "reason": "Werkstatt von sachfremden Gutachtenmatrizen befreit; tatsächliche Briefaussage und passende Antwort, korrigierte Warnworterklärungen.",
+    "changes": [
+      "Werkstatt von sachfremden Gutachtenmatrizen befreit; tatsächliche Briefaussage und passende Antwort, korrigierte Warnworterklärungen.",
+      "Strafbefehl als wesentliche Unterlage; eigene Zusammenfassung nicht als amtliche Übersetzung ausgeben. Grenze: Kein allgemeines Zertifizierungsurteil zur Leichten Sprache; nationale Fristwirkung eigenständig prüfen.",
+      "Bedingte Zahlungszusagen, Rollen und Pronomen, Anhörung gegen Entscheidung, beantragte gegen bewilligte Fristverlängerung sowie semantisch deckungsgleiche Sprachfassungen mit vollständigen Briefen verbunden."
+    ],
+    "sha256": "ee5aab56d9772f12ab7cfb5ea35f70e1750e2afe8f167d5386296cce2d0e0fdb"
   },
   "selection": {
     "positive": [
@@ -58,5 +77,41 @@
       ],
       "target_skill": "bescheid-in-einfacher-sprache"
     }
-  ]
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "juristische-sprache-deutsch-als-zweitsprache/juristische-sprache-deutsch-als-zweitsprache-werkstatt.md",
+      "juristische-sprache-deutsch-als-zweitsprache/juristische-sprache-deutsch-als-zweitsprache-schnellstart.md"
+    ],
+    "opening_change": "Werkstatt von sachfremden Gutachtenmatrizen befreit; tatsächliche Briefaussage und passende Antwort, korrigierte Warnworterklärungen.",
+    "norms": [
+      "Paragrafen 184 und 187 GVG",
+      "Artikel 3 Richtlinie 2010/64/EU"
+    ],
+    "decisions": [
+      {
+        "citation": "EuGH, 12.10.2017, C-278/16, Sleutjes, Randnummern 28 bis 34",
+        "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62016CJ0278",
+        "application": "Strafbefehl als wesentliche Unterlage; eigene Zusammenfassung nicht als amtliche Übersetzung ausgeben.",
+        "limit": "Kein allgemeines Zertifizierungsurteil zur Leichten Sprache; nationale Fristwirkung eigenständig prüfen."
+      }
+    ],
+    "remaining_limits": [
+      "Reine sprachliche Bearbeitung bleibt von Rechtsprüfung und amtlicher Übersetzung getrennt.",
+      "Workflow-Ergänzung am 2026-09-23: individuelle Textprüfung, keine erneute Gesamtverifikation der bestehenden Entscheidungsanker; deren dokumentierte Quellen- und Zugriffsgrenzen bleiben bestehen."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: juristischen Brief verstehen, Antwort formulieren oder zweisprachigen Text abgleichen.",
+      "Dateien ohne Auftrag: Ausgangsschreiben still lesen; verständliche Erklärung oder konkrete Antwort als zwei fachliche Wege anbieten.",
+      "Klarer Auftrag: den gewünschten verständlichen Text oder Brief vollständig liefern, ohne verpflichtende Sprachübung."
+    ],
+    "continuation": "Antwort zur Zahlung unterscheidet Überweisungsauftrag und tatsächlichen Eingang -> nur die belegte Aussage in den Brief übernehmen; höfliche Formulierung nicht in Anerkenntnis oder Verzicht umwandeln.",
+    "enrichment": "Bedingte Zahlungszusagen, Rollen und Pronomen, Anhörung gegen Entscheidung, beantragte gegen bewilligte Fristverlängerung sowie semantisch deckungsgleiche Sprachfassungen mit vollständigen Briefen verbunden.",
+    "limits": "desk review; no live client execution"
+  }
 }

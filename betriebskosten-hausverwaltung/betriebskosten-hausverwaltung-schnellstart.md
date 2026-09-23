@@ -1,8 +1,8 @@
-# Betriebskosten: Schnellstart bis zur Abrechnung
+# 1. Betriebskosten bis zum Mietersaldo abrechnen
 
 ## 1. Lies zuerst die vorhandenen Dateien
 
-Erstelle Abrechnung oder Antwortbrief für Mietshaus oder vermietete ETW. Lies zuerst Mietvertrag, Belege, Zahlungen, Flächen und Heizdaten; bei WEG Gesamt-/Einzelabrechnung mit Schlüsseln, bei Öl Bestände und Lieferbelege. Frage nur nach entscheidenden Lücken. Erhebe keine ungefragte Klage.
+Berechne den umlagefähigen Mietersaldo. Ohne Fall biete Jahresabrechnung, WEG-Überleitung oder Einwendungsantwort an. Dateien ohne Aufgabe still lesen, dann passend auswählen lassen. Klare Aufträge direkt bearbeiten. „Gutschrift schon verrechnet“ verlangt Abgleich des bisherigen Ansatzes; danach Zeile und Saldo ändern, nicht doppelt kürzen. Nur entscheidende Lücken nachfragen, keine Belegübersicht vorschalten. Liefere Abrechnung oder Antwortbrief.
 
 Prüfstand ist der 22.09.2026. Für 2025 gilt damaliges Recht. Trenne Abrechnungsperiode, Leistung, Lieferjahr, Zahlung und Zugang.
 
@@ -22,7 +22,7 @@ Trenne PV-Investition, Mieterstrom und Wallbox von Beleuchtung und Heizstrom. Pa
 
 ## 4. Rechne Heizung, Warmwasser und CO2
 
-Ölverbrauch ist Anfangsbestand plus Lieferungen minus Endbestand. Bewerte Verbrauchsschichten mit belegten Anschaffungskosten und begründeter Verbrauchsfolge; führe Restmenge und Restwert fort. Bei FIFO ergeben 2.000 Liter zu 1,10 EUR plus 3.000 Liter zu 1,00 EUR und 1.000 Liter Rest einen Verbrauch von 4.000 Litern für 4.200 EUR. BGH, Urteil vom 01.02.2012 - VIII ZR 156/11, verlangt Verbrauchskosten statt Jahreszahlungen.
+Ölverbrauch ist Anfangsbestand plus Lieferungen minus Endbestand. Bewerte die Schichten zu belegten Anschaffungskosten und begründe die Verbrauchsfolge; führe Restmenge und Restwert fort. Bei FIFO ergeben 2.000 Liter zu 1,10 EUR plus 3.000 Liter zu 1,00 EUR und 1.000 Liter Rest einen Verbrauch von 4.000 Litern für 4.200 EUR. BGH, Urteil vom 01.02.2012, VIII ZR 156/11, Rn. 10–14, verlangt nach Paragraf 7 Absatz 2 HeizkostenV Verbrauchskosten statt Jahreszahlungen, schreibt aber keine bestimmte Vorratsbewertung vor.
 
 Bereinige Heiznebenkosten. Trenne verbundene Anlagen nach Paragraf 9 HeizkostenV in Heizung und Warmwasser. Warmwasserwärme ist grundsätzlich zu messen; Ersatzformeln sind nur unter ihren gesetzlichen Voraussetzungen zulässig. Beim Ölkessel liefert Q in kWh geteilt durch Hi in kWh/L die Brennstoffmenge B in Litern; B/Jahresverbrauch in Litern ergibt den Kostenanteil. Relative Wärmezählerwerte sind nur bei zulässiger Wärmeverbrauchsaufteilung, gleicher Periode und vergleichbarer Systemgrenze geeignet. Berechne Kaltwasser nicht doppelt.
 
@@ -38,8 +38,8 @@ Die Abrechnung muss Zeitraum, Gesamtkosten, Schlüssel, Einzelanteil und Vorausz
 
 Paragraf 556 Absatz 4 BGB erlaubt elektronische Belege. Prüfe vollständige, lesbare und nutzbare Rechnungen samt Anlagen, Gutschriften und Zahlungsbelegen. Alte Originalbelegurteile begründen keinen pauschalen Papierzwang. Beantworte konkrete Einwendungen mit Alt-Neu-Rechnung und klarem Saldo. Bei verweigerter berechtigt verlangter Belegeinsicht prüfe das zeitweilige Leistungsverweigerungsrecht zur Nachforderung, nicht einen pauschalen Mietzahlungsstopp.
 
-Bei Lücken liefere Teilstand und konkrete Anforderung, keine fingierte Endforderung. Rechne nach Nachreichung bis zum Ergebnis weiter. Nutze vollständige Sätze mit Tabellen, soweit möglich Times New Roman 11 pt und dezimale Gliederung, bei Textausgabe mit getrenntem Exporthinweis. Verlinke nur erzeugte Dateien und versende nichts eigenmächtig.
+Bei Lücken liefere Teilstand und konkrete Anforderung, keine fingierte Endforderung. Rechne nach Nachreichung weiter. Nutze vollständige Sätze und Tabellen, soweit möglich Times New Roman 11 pt und dezimale Gliederung. Kennzeichne reine Textausgaben; verlinke nur erzeugte Dateien und versende nichts eigenmächtig.
 
 ## 6. Prüfe tragende Quellen
 
-Prüfe amtlich [BGB](https://www.gesetze-im-internet.de/bgb/), [BetrKV](https://www.gesetze-im-internet.de/betrkv/), [HeizkostenV](https://www.gesetze-im-internet.de/heizkostenv/) und das für 2025 geltende CO2KostAufG. Das [Quellenregister](references/betriebskosten-quellen.md) enthält historische Verkündung und Gerichtsanker. Ohne Begleitdatei recherchiere direkt; erfinde keine Urteile oder Literaturstellen.
+Prüfe amtlich BGB, BetrKV, HeizkostenV und das periodengültige CO2KostAufG. Das [Quellenregister](references/betriebskosten-quellen.md) enthält Verkündung und Entscheidungslinks. Ohne Begleitdatei recherchiere direkt; keine erfundenen Urteile oder Literaturstellen.

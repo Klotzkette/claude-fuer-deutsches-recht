@@ -1,12 +1,16 @@
 # 1. Ansprüche aus einer gestörten Bahnreise bearbeiten
 
-Prüfe meine Bahnreise anhand der Buchungs- und Reisebelege und berechne die möglichen Ansprüche. Erstelle die beauftragte Beratung, Forderung oder Antwort auf eine Ablehnung.
+Bestimme nach Zugausfall oder Anschlussverlust, gegen welches Unternehmen Fahrpreiserstattung, Verspätungsentschädigung und belegte Mehrkosten verlangt werden können. Rekonstruiere dafür Buchung, angebotene Weiterreise und tatsächliche Zielankunft; begründe den errechneten Betrag im beauftragten Schreiben oder in der Beratung.
 
 ## 1.1. Reise und Auftrag aus den Unterlagen bestimmen
+
+Ohne Eingabe biete Verspätungsentschädigung, Reiseabbruch oder Mehrkostenerstattung an. Dateien ohne Aufgabe still lesen und nur das Ziel klären; keinen Reisebericht ausgeben. Klare Aufträge direkt bearbeiten. „Der Fahrpreis wurde schon erstattet“ verändert Entschädigungsbasis und Forderung, nicht automatisch Hotelkosten. Folgeantworten ohne erneute Reiseaufnahme einarbeiten.
 
 Lies Fahrkarte, Buchungsbestätigung, Reiseplan, Störungsnachrichten und bisherige Korrespondenz. Entnimm daraus Reisende, Beförderer, Strecke, Umstiege, Preis und gewünschtes Ergebnis; frage bekannte Angaben nicht erneut ab. Verkäufer und verantwortliches Unternehmen sind nicht automatisch identisch.
 
 Prüfe bei Anschlussfahrten den Erwerbsvorgang und die vor dem Kauf erteilten Informationen über getrennte Verträge. Ein Buchungscode allein entscheidet nicht, ob eine Durchgangsfahrkarte vorliegt. Bei mehreren Reisenden Ansprüche, Zahlungen und Vertretung getrennt zuordnen.
+
+Hat ein Verkäufer die Tickets in einer einzigen Transaktion selbst kombiniert, prüfe Artikel 12 Absatz 4 bis 6: Bei verpasstem Anschluss können Gesamtpreiserstattung und zusätzlich 75 Prozent gegen ihn bestehen. Das ist nicht die 25-/50-Prozent-Forderung gegen den Beförderer. Vorherige Information und dauerhaft reproduzierbarer Hinweis auf getrennte Verträge können diese Haftung ausschließen; der Verkäufer trägt den Informationsnachweis.
 
 ## 1.2. Störung und Wahlrechte prüfen
 
@@ -34,7 +38,7 @@ Eine Ablehnungsantwort des Unternehmens ist kein Verwaltungsakt mit gesetzlichem
 
 Amtlicher Ausgangspunkt: [VO (EU) 2021/782](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32021R0782), insbesondere Artikel 12 für Durchgangsfahrkarten, Artikel 17 und 18 für Haftungsrahmen und Wahlrechte, Artikel 19 für Entschädigung und Artikel 20 für Hilfeleistung. Nationale Ergänzungen nach EVO in der maßgeblichen Fassung prüfen.
 
-EuGH, Urteil vom 26.09.2013, Az. C-509/11: Nach der früheren VO (EG) 1371/2007 durfte höhere Gewalt die damalige Verspätungsentschädigung nicht ausschließen. Für heutige Reisen sind die ausdrücklich geregelten Ausnahmen des Artikels 19 Absatz 10 maßgeblich. Vor Zitierung den amtlichen Inhalt und die Übertragbarkeit prüfen; keine Fundstellen erfinden.
+EuGH, Urteil vom 26.09.2013, C-509/11, [Rn. 37–42 und 46–52](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62011CJ0509), trennt pauschalen Fahrpreisausgleich von individuell nachzuweisenden Schäden nach Artikel 32 CIV. Bei einer Ablehnung wegen höherer Gewalt deshalb Anspruch und Einwendung zunächst auseinanderhalten, nicht eine CIV-Entlastung pauschal auf alle Positionen übertragen. Das Urteil betraf die frühere VO (EG) 1371/2007 ohne entsprechende Ausnahme. Heute ist Artikel 19 Absatz 10 VO (EU) 2021/782 eigenständig anzuwenden; das Urteil widerlegt diese neue Ausnahme nicht. Auch Ausnahmen aus Flug- oder Busrecht nicht übertragen.
 
 ## 1.6. Ergebnis und Grenzen
 

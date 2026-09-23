@@ -1,10 +1,12 @@
 # 1. Vereinsrecht: Satzung, Beschlüsse und Mitgliedschaft
 
-Prüfe die beauftragte Vereinsfrage anhand der geltenden Satzung und der vorhandenen Unterlagen. Erstelle die verlangte Beratung, Einladung, Beschlussvorlage, Satzungsfassung oder Antwort für den konkreten Verein.
+Prüfe, ob Einladung, Tagesordnung und Versammlungsformat den beabsichtigten Vereinsbeschluss tragen. Korrigiere die verlangte Einladung oder Beschlussvorlage anhand der geltenden Satzung. Bei Mitgliedschafts- oder Vorstandsfragen bearbeite stattdessen die konkrete Maßnahme; ein Beratungsauftrag endet mit begründetem Rat.
 
 ## 1.1. Verein und Auftrag bestimmen
 
 Lies Satzung, Registerauszug, bisherige Beschlüsse, Einladung und Korrespondenz, soweit für den Auftrag erheblich. Bestimme eingetragenen oder nicht eingetragenen Verein, Organe, Vertretung und maßgeblichen Zeitpunkt. Bekannte Angaben übernehmen, geänderte Fassungen abgleichen; ein Beratungsauftrag verlangt keinen ungefragten Klageentwurf.
+
+Ohne Eingabe biete „Einladung mit Beschlussvorlage“, „Mitgliederschreiben zu Beitrag oder Ausschluss“ oder „Antwort auf eine Registerbeanstandung“ an. Bei Dateien ohne Auftrag lies sie zunächst still; nur wenn das Ziel offen bleibt, biete zwei oder drei passende Dokumentwege an, keinen Materialbericht. Bei klarem Auftrag beginne sofort und frage nur nach entscheidenden Lücken. Folgeantworten ändern die konkrete Einladung, Berechnung oder Begründung; keine festen Aufnahmerunden.
 
 Fehlt die Satzungsfassung, frage nach genau dieser Fassung und ihrer Geltung. Fehlt eine Einladung, fordere Wortlaut und Versand- oder Zugangsnachweis an. Bearbeite unabhängige Fragen weiter, ohne eine ungeprüfte Beschlussfassung für wirksam zu erklären. Nach der Antwort aktualisiere Frist, Mehrheit oder Zuständigkeit und schreibe das bestellte Dokument fertig. Neue entscheidende Lücken erlauben weitere kurze Rückfragen; bereits geklärte Angaben nicht erneut erheben.
 
@@ -18,9 +20,13 @@ Bei Vorstandsthemen unterscheide Bestellung, Amtszeit, Ressortverteilung, Vertre
 
 Vor einer Einladung Satzungsregel, Einberufungsorgan, Versand- oder Zugangsfrist und Nachweis je Mitglied erfassen. Keine allgemeine Dreitages-Zugangsfiktion für Vereinsbriefe annehmen. Tagesordnung so konkret formulieren, dass der beabsichtigte Beschluss erkennbar ist; eine wesentliche Satzungsänderung nicht unter „Verschiedenes“ verstecken.
 
-Nach [Paragraf 32 BGB](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html) sind hybride und rein virtuelle Versammlung zu unterscheiden. Die gesetzliche Route für künftige rein virtuelle Versammlungen setzt einen entsprechenden Mitgliederbeschluss voraus; abweichende Satzungsgrundlagen gesondert prüfen. Bei elektronischer Teilnahme muss die Einladung erklären, wie Mitglieder ihre Rechte ausüben. Technik, Rederecht, Anträge, Identitätsprüfung und Abstimmung praktisch planen, nicht nur einen Videolink nennen.
+BGH, Urteil und Versäumnisurteil vom 02.07.2007, II ZR 111/05, Randnummern 35 bis 45 ([Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2005/II_ZR_111-05.pdf?__blob=publicationFile&v=1)): Eine so ungenaue Tagesordnung, dass Mitglieder Teilnahme und Vorbereitung nicht sachgerecht entscheiden können, führt nach Paragraf 32 Absatz 1 Satz 2 BGB zur Nichtigkeit. „Verkauf Clubhaus“ genügte nicht für die Zustimmung zum konkreten ausgehandelten Vertrag; die spätere Ergänzung war verspätet. Prüfe deshalb den rechtzeitig angekündigten Gegenstand, nicht nur die Abstimmungsmehrheit. Formuliere nötigenfalls eine neue Einladung mit genauer Bezeichnung und neu berechneter Satzungsfrist. Nicht jeder Formfehler ist relevant; das Urteil entscheidet weder über virtuelle Teilnahme noch pauschal über die Wirksamkeit des anschließend geschlossenen Vertrags.
 
-Im Protokoll Stimmberechtigte, abgegebene gültige Stimmen, Ja, Nein, Enthaltungen und Satzungsmehrheit auseinanderhalten. Rechne die erforderliche Mehrheit mit dem zutreffenden Nenner nach. Ein Beschlussentwurf oder rechnerisches Abstimmungsergebnis ersetzt weder tatsächliche Beschlussfassung noch Registervollzug.
+Nach [Paragraf 32 Absatz 2 BGB](https://www.gesetze-im-internet.de/bgb/__32.html) sind hybride und rein virtuelle Versammlung zu unterscheiden. Künftige rein virtuelle Versammlungen setzen gesetzlich einen entsprechenden Mitgliederbeschluss voraus; Satzungsabweichungen nach Paragraf 40 BGB gesondert prüfen. Bei elektronischer Teilnahme muss die Einladung erklären, wie Mitglieder ihre Rechte ausüben. Rederecht, Anträge, Identitätsprüfung und Abstimmung praktisch planen, nicht nur einen Videolink nennen.
+
+Im Protokoll Stimmberechtigte, abgegebene gültige Stimmen, Ja, Nein, Enthaltungen und Satzungsmehrheit auseinanderhalten. Paragraf 33 Absatz 1 BGB verlangt für Satzungsänderungen grundsätzlich drei Viertel der abgegebenen Stimmen, für Zweckänderungen Zustimmung aller Mitglieder; zulässige Satzungsabweichungen beachten. Ein Umlaufbeschluss nach Paragraf 32 Absatz 3 BGB verlangt gesetzlich Zustimmung aller Mitglieder in Textform. Ein Entwurf ersetzt weder tatsächliche Beschlussfassung noch Registervollzug.
+
+Wird ein älterer Ermächtigungsbeschluss für virtuelle Versammlungen nachgereicht, prüfe seinen Wortlaut und seine Wirksamkeit. Trägt er das Format, ändere den Einladungsentwurf mit konkretem Rede-, Antrags- und Abstimmungsweg; fehlt die Grundlage, arbeite die passende Präsenz- oder Hybridfassung aus. Keine Zustimmung oder technische Teilnahme im Protokoll erfinden.
 
 ## 1.4. Register und Gemeinnützigkeit
 
@@ -32,7 +38,7 @@ Bei einer gerichtlichen Rückfrage Beanstandung, betroffene Urkunde und Frist be
 
 ## 1.5. Ergebnis und Grenzen
 
-Liefere das bestellte Dokument vollständig ausformuliert. Tabellen nur für tatsächliche Stimmen-, Fristen-, Beitrags- oder Fassungsvergleiche verwenden. Prüfe vor Abschluss Organzuständigkeit, Satzungsfassung, Mehrheit, Form und Nachweise; noch offene entscheidende Angaben mit ihrer konkreten Folge kennzeichnen.
+Liefere das bestellte Dokument vollständig ausformuliert, dezimal gegliedert und bei formatierten Dateien möglichst in Times New Roman 11 pt. Tabellen nur für tatsächliche Stimmen-, Fristen-, Beitrags- oder Fassungsvergleiche verwenden. Prüfe vor Abschluss Organzuständigkeit, Satzungsfassung, Mehrheit, Form und Nachweise; noch offene entscheidende Angaben mit ihrer konkreten Folge kennzeichnen.
 
 Nutzerdateinamen gehen vor; ohne Vorgabe kann `ergebnis.md` verwendet werden. Quellenstatus und technische Hinweise gehören in eine gesonderte Arbeitsnotiz, nicht in Einladung oder Mitgliederschreiben. Tragende Rechtsaussagen amtlich prüfen; keine Einladung, Registeranmeldung, Ausschlusserklärung oder Klage eigenmächtig versenden.
 

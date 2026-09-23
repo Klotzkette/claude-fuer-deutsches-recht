@@ -1,25 +1,67 @@
 {
   "schema_version": 1,
   "plugin": "strassenrecht-infrastruktur",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/vwgo/__74.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlicher Normtext gelesen: Monatsfrist und unterschiedliche Auslöser nach Vorverfahren beziehungsweise unmittelbarer Klage. Fachrechtliche Planungsfristen bleiben gesondert zu prüfen."
+    },
     {
       "url": "https://www.gesetze-im-internet.de/fstrg/__8.html",
       "checked_on": "2026-09-14",
       "supports": "Sondernutzung und Erlaubnis in Ortsdurchfahrten; Zustimmung bei fremder Straßenbaulast; Koordination statt zusätzlicher Sondernutzungserlaubnis in den Fällen des Absatzes 6."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/fstrg/__8.html",
+      "checked_on": "2026-09-23",
+      "supports": "Aktueller vollständiger Normtext gelesen: Ortsdurchfahrt, Zustimmung, Folgekosten, Gebühren, Konzentration und bürgerlich-rechtliche Nutzung nach Absatz 10."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/fstrg/__8a.html",
+      "checked_on": "2026-09-23",
+      "supports": "Aktueller vollständiger Normtext gelesen: Zufahrtsänderung, dauerhafte Unterbrechung, Existenzgefährdung bei Straßenarbeiten und Ausnahmen."
+    },
+    {
+      "url": "https://ssl.bverwg.de/111214U3C6.13.0",
+      "checked_on": "2026-09-23",
+      "supports": "Gerichtliche Gründe Rn. 13–30 amtlich gelesen: erforderliche Ausnahme, Zuständigkeitswechsel und verbleibende Gebühren, keine universelle Landesregel."
+    },
+    {
+      "url": "https://www.bverwg.de/300614B9B6.14.0",
+      "checked_on": "2026-09-23",
+      "supports": "Rn. 13 im amtlichen Beschluss gelesen; Anbindung und Abwägung, keine Garantie vorteilhafter Lage."
     }
   ],
   "mini_review": {
-    "verdict": "retained",
-    "reason": "Vollständig gelesen: Widmungsplan und Aufmaß werden gezielt nachgefordert; anschließend ändern sich Straßenstatus, Kostenrechnung und die konkrete Begründung. Offene Straßenklasse stoppt weder Beweissicherung noch unabhängige Bearbeitung, Beratung führt nicht ungefragt zum Eilantrag. Kein weiterer Eingriff erforderlich.",
-    "changes": [],
-    "sha256": "84a161a5b8978aeed70c48e6d07593e329fce588e416272d8fcf43a1f5885108"
+    "verdict": "revised",
+    "reason": "Individueller Ganztextreview: drei echte Dokumentwege bei leerem Einstieg, stilles Lesen und unmittelbare klare Aufträge; dauerhafter Zufahrtsverlust und neue Kostenpositionen ändern die konkrete Fassung. Vorherige Zuständigkeits- und Fallabgrenzungen erhalten.",
+    "changes": [
+      "BVerwG 3 C 6.13 auf Konzentration begrenzt und NStrG vom FStrG getrennt.",
+      "BVerwG 9 B 6.14 gegen Anspruch auf unveränderte günstige Anbindung, zugleich Abwägungspflicht.",
+      "Vertrags- und gesetzliche Kostenmassen nicht aus Rechnungsabsender oder pauschalem Kreuzungsbegriff ableiten.",
+      "Gezielte Nachforderung von Widmung/Aufmaß, Fortsetzung und vollständige Endfassung erhalten.",
+      "Zwei konkrete Antwortbeispiele führen zu Ersatzbegehren beziehungsweise geänderter Kostenklausel; beide 7500-Grenzen eingehalten."
+    ],
+    "sha256": "ed1177a42f50424261a034d3871d035fb2a712d3e947eefe452641897123597d",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
   },
   "workshop_review": {
-    "verdict": "retained",
-    "reason": "Vollständig gelesen: Nutzung, Baulast, Planung und Kreuzungskosten sind eigenständige Abschnitte. Nachgereichte Mengen oder Gutachten verändern betroffene Rechnung und Einwendung, nicht pauschal den gesamten Vorgang. Vollzug und Beratung bleiben getrennt; der Schluss verlangt die fertige bestellte Vereinbarung oder Stellungnahme.",
-    "changes": [],
-    "sha256": "569d19d9ca016da70cb1272ee9fa33e2a34951ed1b06a00ce241b2675b15a7c0"
+    "verdict": "revised",
+    "reason": "Individueller Ganztextreview: Zugangsverlust und Betriebsfortführung, Bühnenaufstellung, Planänderungen sowie prüffähige Kostenvereinbarung wesentlich mit Gegenbefunden, Antwortfolgen und vollständigen Dokumentzielen ausgebaut; vorhandene Fachabgrenzungen erhalten.",
+    "changes": [
+      "BVerwG 3 C 6.13 auf Konzentration begrenzt und NStrG vom FStrG getrennt.",
+      "BVerwG 9 B 6.14 gegen Anspruch auf unveränderte günstige Anbindung, zugleich Abwägungspflicht.",
+      "Vertrags- und gesetzliche Kostenmassen nicht aus Rechnungsabsender oder pauschalem Kreuzungsbegriff ableiten.",
+      "Gezielte Nachforderung von Widmung/Aufmaß, Fortsetzung und vollständige Endfassung erhalten.",
+      "Betriebsfortführungsnachweis statt Umsatzautomatismus; Ersatz vor Geld im Anwendungsbereich des Paragrafen 8a Absatz 4.",
+      "Geänderte Pläne verändern konkrete Einwendungen, gemischte Rechnungen die Kostenmasse und nicht nur die Summe; Fristauslöser und Freigaben getrennt."
+    ],
+    "sha256": "cfc562d30be0fde4166e5ecc6d1d28b94637cf82e0e573d0b3ec074caf565c5e",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
   },
   "selection": {
     "positive": [
@@ -64,5 +106,51 @@
       ],
       "target_skill": "kaltstart-strassenrechtsfall"
     }
-  ]
+  ],
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Flächennutzungsantrag, Straßenplaneinwendung oder Kreuzungs-/Folgekostenvereinbarung.",
+      "Dateien: Widmung, Pläne und Bescheide still lesen; nur bei offenem Ziel passende Dokumentwege anbieten.",
+      "Klarer Auftrag: sofort Antrag, Einwendung oder Kostenregelung erstellen; nur entscheidende Maße, Statusunterlagen oder Kostenbelege nachfordern."
+    ],
+    "continuation": "Dauerhafter statt temporärer Zufahrtsverlust ändert Ersatzbegehren; alte Unterhaltung im neuen Aufmaß ändert Kostenmasse und Zahlungsklausel; Planänderung ändert betroffene Einwendung.",
+    "enrichment": "Betriebsfortführung und Gegenursachen, angemessener Zugang statt Lagegarantie, Abstützungen und Verkehrsraum, konkrete Planvarianten, Nachtrags- und Förderzuordnung, prüffähige Abrechnung und getrennte Fristauslöser.",
+    "limits": "desk review; no live client execution"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-23",
+    "files": [
+      "strassenrecht-infrastruktur/README.md",
+      "strassenrecht-infrastruktur/strassenrecht-infrastruktur-schnellstart.md",
+      "strassenrecht-infrastruktur/strassenrecht-infrastruktur-werkstatt.md",
+      "quality/evals/strassenrecht-infrastruktur.json"
+    ],
+    "opening_change": "Zulassung der Arbeitsbühne/Zufahrt, Beteiligung und Kosten statt bloßem Rechtsgebietskatalog.",
+    "norms": [
+      "Paragraf 8 und Paragraf 8a FStrG",
+      "Paragraf 12, Paragraf 13 und Paragraf 17 FStrG",
+      "Paragraf 32 und Paragraf 46 Absatz 1 Satz 1 Nummer 8 StVO"
+    ],
+    "decisions": [
+      {
+        "citation": "BVerwG, Urteil vom 11. Dezember 2014, 3 C 6.13, Rn. 13–19",
+        "url": "https://ssl.bverwg.de/111214U3C6.13.0",
+        "application": "Bauzaun mit erforderlicher Verkehrsausnahme: Konzentration trotz noch fehlender Erteilung, Gebühren bleiben möglich.",
+        "limit": "Niedersächsischer Fall; heutige Bundeszuständigkeit aus Paragraf 8 Absatz 6 FStrG."
+      },
+      {
+        "citation": "BVerwG, Beschluss vom 30. Juni 2014, 9 B 6.14, Rn. 13",
+        "url": "https://www.bverwg.de/300614B9B6.14.0",
+        "application": "Veränderte Anbindung ohne Bestandsgarantie des Lagevorteils, Anliegerbelang in Abwägung.",
+        "limit": "Nichtzulassungsbeschluss zur Planung, keine pauschale Zufahrtsentscheidung."
+      }
+    ],
+    "remaining_limits": [
+      "Desk-/Quellenprüfung, kein Modelllauf.",
+      "Landesstraßenrecht, konkrete Widmung und Kostenvereinbarungen bleiben fallbezogen zu prüfen; Kreuzungsgesetze und sämtliche Planungsfristen nicht vollständig neu verifiziert.",
+      "Workflow-Review: Paragrafen 8 und 8a FStrG sowie 74 VwGO erneut amtlich gelesen; vorhandene gerichtliche Anker aus dem vorherigen Quellenreview übernommen. Abrufe von Paragraf 17e FStrG und 73 VwVfG scheiterten; daraus keine neue konkrete Sonderfrist abgeleitet."
+    ]
+  }
 }

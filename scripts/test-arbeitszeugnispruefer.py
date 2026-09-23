@@ -39,6 +39,11 @@ NO_STATUS_HEADER = (
 )
 
 
+def excludes_status_preamble(text):
+    """Akzeptiert die präzise Kurzfassung ebenso wie den bisherigen Wortlaut."""
+    return NO_STATUS_HEADER in text or "Keine Status- oder Metadatenblöcke." in text
+
+
 class ArbeitszeugnisprueferTests(unittest.TestCase):
     def test_prompts_continue_after_questions_until_the_ordered_document(self):
         for kind in ("werkstatt", "schnellstart"):
@@ -61,7 +66,7 @@ class ArbeitszeugnisprueferTests(unittest.TestCase):
                 self.assertNotIn("skills/", text)
                 for term in FORBIDDEN_PROMPT_TERMS:
                     self.assertNotIn(term, text)
-                self.assertIn(NO_STATUS_HEADER, text)
+                self.assertTrue(excludes_status_preamble(text))
                 self.assertNotRegex(text, r"(?i)höchstens (?:zwei|drei) (?:punkte|fragen)")
                 self.assertTrue(all(re.match(r"##+ \d+(?:\.\d+)*\. ", line) for line in text.splitlines() if line.startswith("##")))
                 if kind == "schnellstart":
@@ -109,7 +114,9 @@ class ArbeitszeugnisprueferTests(unittest.TestCase):
         self.assertNotIn("Erfasse zuerst Dateinamen und Metadaten", generated_start)
         self.assertNotIn("Lies Dateinamen, Metadaten", generated_start)
         generic_start = README_GENERATOR.quickstart_section("beispiel-plugin", PLUGIN)
-        self.assertIn("Erfasse zuerst Dateinamen und Metadaten", generic_start)
+        self.assertIn("ohne seine Inhalte ungefragt aufzulisten", generic_start)
+        self.assertNotIn("Frage nur einmal gebündelt", generic_start)
+        self.assertIn("Verarbeite die Antwort im bestehenden Entwurf", generic_start)
 
         intake = (PLUGIN / "skills/intake-und-stammdaten-pruefen/SKILL.md").read_text(encoding="utf-8")
         self.assertIn("Die Aufnahme bleibt intern", intake)

@@ -1,32 +1,66 @@
 {
   "schema_version": 1,
   "plugin": "normenkontrollrat-nkr",
-  "reviewed_on": "2026-09-17",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/nkrg/__2.html",
       "checked_on": "2026-09-14",
       "supports": "Erfüllungsaufwand und Bürokratiekosten als Teilmenge."
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/e/ls20100209_1bvl000109.html",
+      "checked_on": "2026-09-22",
+      "supports": "Bei Existenzsicherungsregelungen Datengrundlage und Methodenabweichungen der Leistungsbemessung gesondert prüfen. Amtlich indexierte Gründe geprüft. Kein allgemeiner NKR-Auftrag und keine pauschale Nichtigkeit mangelhafter Kostentabellen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/nkrg/__1.html",
+      "supports": "Absätze 3 und 4: methodische Prüfung, keine Prüfung politischer Zielsetzung.",
+      "checked_on": "2026-09-22"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/nkrg/__4.html",
+      "supports": "Erweiterte Prüfgegenstände, Digitalcheck und unterschiedliche Beteiligungswege.",
+      "checked_on": "2026-09-22"
+    },
+    {
+      "url": "https://www.verwaltungsvorschriften-im-internet.de/bsvwvbund_21072009_O11313012.htm",
+      "supports": "Amtlicher Text: Alternativen und Selbstregulierung in Paragraf 43 Absatz 1 Nummer 3 GGO.",
+      "checked_on": "2026-09-22"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/nkrg/__2.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlichen Normtext erneut gelesen: messbarer Zeit- und Kostenaufwand, Informationspflichten als Teilmenge und methodischer Bezug für die ergänzten Rechen- und Gruppenbeispiele."
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/e/ls20100209_1bvl000109.html",
+      "checked_on": "2026-09-23",
+      "supports": "Nach Browserfehler amtlichen Text direkt abgerufen und Randnummern 139 bis 142 gelesen. Nur Leistungsbemessung des Existenzminimums, keine allgemeine NKR-Prüfbefugnis und kein Beleg für Nichtigkeit unvollständiger Aufwandstabellen."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der vollständig geprüfte Mini behält die konkrete Aufwandsrechnung und führt fehlende Fallzahlen oder Zeitansätze über gezielte Nachfragen zur aktualisierten Berechnung und Stellungnahme, nicht zu einem pauschalen Prüfungsabbruch.",
+    "reason": "Mini vollständig erneut im Desk Review gelesen; Aufwandsrechnung, Vollzugsalternative und Stellungnahme als konkrete Einstiege sowie Mengenänderung am vorhandenen Dokument ergänzt. Kein Live-Modelltest.",
     "changes": [
-      "Jährliche Differenz statt bloßem Bruttobetrag und Minutenumrechnung ergänzt.",
-      "Ungeprüfte GGO-Zuordnungen entfernt.",
-      "Nachgelieferte Rechengrößen in die betroffenen Aufwandspositionen und das bestellte Ergebnis übernehmen lassen."
+      "Politische Ziele von methodischer Prüfung und Auftrag nach NKRG getrennt.",
+      "Alternativen-Norm präzisiert und Digitalcheck gesetzlich zugeordnet.",
+      "Existenzsicherungsentscheidung mit strikter Grenze zur allgemeinen Aufwandsberechnung eingeordnet.",
+      "Stille Dateisichtung und direkter Aufgabenbeginn; Teilgruppe mit Quartalsmeldung ändert Rechnung und Stellungnahme ohne pauschale Änderung der Umstellungskosten."
     ],
-    "sha256": "52f8776563efbbd12aa65e127048f56f4f5ab3c8e7b50798be6ee6f59d24d05a"
+    "sha256": "f1d018ad53f53374ad855d3186fb632a123eb7c6297201bdc129b8969c044c93"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die Ganztextprüfung führte zu einer fachlichen Reihenfolge von Regelungsziel und Betroffenen über die Aufwandsrechnung bis zu Vollzug und Stellungnahme. Rechenunsicherheit wird von fehlender Rechtsprüfung unterschieden.",
+    "reason": "Alle Abschnitte individuell erneut gelesen und mit Vorgangsabgrenzung, nachgerechneten Mengenvarianten, Gegenannahmen und digitalem Übergangsvollzug vertieft. Desk Review ohne tatsächlichen Praxistest oder Ressortabstimmung.",
     "changes": [
-      "Einmaligen und laufenden Aufwand, Entlastung und Plausibilitätsprüfung in den Rechenabschnitt integriert.",
-      "Besondere Belastungsvergleiche, digitalen Vollzug und Evaluierung als fallbezogene Schritte statt zusätzlicher allgemeiner Praxisrouten angeordnet."
+      "Politische Ziele von methodischer Prüfung und Auftrag nach NKRG getrennt.",
+      "Alternativen-Norm präzisiert und Digitalcheck gesetzlich zugeordnet.",
+      "Existenzsicherungsentscheidung mit strikter Grenze zur allgemeinen Aufwandsberechnung eingeordnet.",
+      "Normpflicht gegenüber tatsächlichen Schritten, Altbestand und Neuzugang sowie Unternehmen gegenüber Betriebsstätten unterschieden.",
+      "Rechenbeispiel mit geänderter Teilgruppe, Sowieso-Gegenargument, digitale Ausnahmefälle und zeitlich begrenzter Übergangsprozess bis zur Textkorrektur ausgearbeitet."
     ],
-    "sha256": "b840cac55b9fff5d396d8a641ffc67e02551d972abdbb51d80d8241d1b4f917c"
+    "sha256": "17cc64ade3b53e2a8dd74c6223aa8fb5062f59f736dd90a33a802fd46e0a154d"
   },
   "selection": {
     "positive": [
@@ -71,5 +105,42 @@
       ],
       "target_skill": "erfuellungsaufwand-grundbegriff"
     }
-  ]
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "normenkontrollrat-nkr/normenkontrollrat-nkr-werkstatt.md",
+      "normenkontrollrat-nkr/normenkontrollrat-nkr-schnellstart.md"
+    ],
+    "opening_change": "Zusätzliche Vorgänge und rechnerisch belegter Aufwand statt allgemeiner Prüfungsansage.",
+    "norms": [
+      "Paragrafen 1, 2 und 4 NKRG",
+      "Paragraf 43 Absatz 1 Nummer 3 und Paragraf 44 GGO",
+      "Artikel 1 Absatz 1 in Verbindung mit Artikel 20 Absatz 1 GG nur bei Existenzsicherung"
+    ],
+    "decisions": [
+      {
+        "citation": "BVerfG, Urteil vom 9. Februar 2010, 1 BvL 1/09 und weitere, Randnummern 139 bis 142",
+        "url": "https://www.bundesverfassungsgericht.de/e/ls20100209_1bvl000109.html",
+        "application": "Bei Existenzsicherungsregelungen Datengrundlage und Methodenabweichungen der Leistungsbemessung gesondert prüfen.",
+        "limit": "Amtlich indexierte Gründe geprüft. Kein allgemeiner NKR-Auftrag und keine pauschale Nichtigkeit mangelhafter Kostentabellen."
+      }
+    ],
+    "remaining_limits": [
+      "Keine Live-Modellprüfung; Quelle und Register- beziehungsweise Verfahrensstand sind für den konkreten Fall zusätzlich abzugleichen.",
+      "Workflow-Nachprüfung 2026-09-23: alle bisherigen Profilquellen erneut geöffnet, NKRG 1, 2 und 4 sowie GGO 43 abgeglichen; BVerfG-Pinpoints nach Browserfehler direkt amtlich gelesen. Rechenbeispiele sind fiktiv, keine erhobenen Ressortdaten. Kein neuer Methodenleitfaden, keine Vollprüfung aktueller One-in-one-out-Buchungsregeln und keine neue materielle Verfassungsprüfung. Quellenreview vom 2026-09-22 bleibt als Vorbefund erhalten."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Erfüllungsaufwand nachrechnen, Vollzugsalternative vergleichen oder methodische Stellungnahme erstellen.",
+      "Nur Unterlagen: Entwurf, Vorblatt und Kostentabelle still lesen; nur gewünschtes Ergebnis klären.",
+      "Klarer Auftrag: direkt rechnen oder schreiben; nur entscheidende Mengen, Bezugsjahre oder Verfahrensannahmen nachfragen."
+    ],
+    "continuation": "Geänderte Zahl quartalsweise meldender Betriebe verändert Teilgruppen und Jahressumme in aufwandstabelle.md sowie die korrespondierende Passage in stellungnahme.md; Umstellungskosten nur nach ihrem eigenen Betroffenenkreis ändern.",
+    "enrichment": "Pflicht gegenüber Tätigkeit, Bestands- und Zugangsfälle, vollständige Zahlenvariante, konkrete Sowieso-Gegenprobe, vergleichbare Zeiträume, digitale Ausnahmefälle und Übergang bis zur fertigen Stellungnahme.",
+    "limits": "desk review; no live client execution"
+  }
 }

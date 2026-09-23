@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "fachanwalt-migrationsrecht",
-  "reviewed_on": "2026-09-17",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/aufenthg_2004/__2.html",
@@ -22,36 +22,70 @@
       "url": "https://www.bverwg.de/161110U1C20.09.0",
       "checked_on": "2026-09-14",
       "supports": "BVerwG, Urteil vom 16.11.2010, Az. 1 C 20.09, Leitsätze 1 und 3 sowie Randnummern 22 bis 29: Familienbedarf, Ausnahmeprüfung und unionsrechtliche Korrektur der Freibetragsrechnung."
+    },
+    {
+      "url": "https://www.bverwg.de/161110U1C20.09.0",
+      "checked_on": "2026-09-22",
+      "supports": "BVerwG, Urteil vom 16. November 2010, 1 C 20.09, Randnummern 19–23, 28–34: Familienbedarf, konkrete Ausnahmeprüfung und Korrektur behördlicher Freibetrags-/Aufwandsabzüge beim Ehegattennachzug. Grenze: Keine aktuellen Bedarfsbeträge; Korrektur im Richtlinienbereich, nicht unterschiedslos bei allen Titeln. Historische Ausweisungsregeln nicht übertragen. Amtliche tragende Gründe gelesen; keine Vollverifikation der gesamten Materie."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/aufenthg_2004/__2.html",
+      "checked_on": "2026-09-22",
+      "supports": "Absatz 3: Lebensunterhalt und ausgenommene öffentliche Mittel."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/aufenthg_2004/__5.html",
+      "checked_on": "2026-09-22",
+      "supports": "Regelerteilungsvoraussetzung und Ausnahmen nicht mit starrem Einkommensminimum gleichsetzen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/aufenthg_2004/__29.html",
+      "checked_on": "2026-09-22",
+      "supports": "Familiennachzug: allgemeine Voraussetzungen und besondere Ausnahmen; keine Vereinheitlichung aller Aufenthaltstitel."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/aufenthg_2004/__2.html",
+      "supports": "Erneuter Normabruf insbesondere zur Lebensunterhaltssicherung und gesetzlichen Ausnahmen; konkrete Titel- und Haushaltsprognose bleibt erforderlich.",
+      "checked_on": "2026-09-23"
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Ganztextreview: Der status- und titelbezogene Mini war fachlich differenziert, verlangte aber noch ein Fristenblatt und bündelte Dokumentabschluss, Rückfragen und Freigabe in einem langen Absatz. Gezielte Lesbarkeitsredaktion ohne Erneuerung der bisherigen Quellenprüfung oder Live-Modelltest.",
+    "reason": "Der Mini behandelt das konkrete Aufenthaltsbegehren und prüft Haushaltsdeckung mit fallbezogener Freibetragskorrektur statt einer pauschalen Einkommensformel. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Krankenversicherung weist eine Deckungslücke auf oder Überstunden enden -> Haushaltsprognose, Zeitraum und Behördenantwort konkret ändern.",
     "changes": [
-      "Fristenberechnung erhalten, zusätzliche Fristentabelle nur bei entsprechendem Umfang vorgesehen.",
-      "Dokumentauftrag und Fortsetzung in lesbare Absätze getrennt; gewünschter Dateiname geht vor.",
-      "Nachzug, Asyl, Vollzugsabwehr und Einbürgerung weiter getrennt; Exporthinweis ausdrücklich außerhalb des Empfängertextes."
+      "Aufenthalts- und Schutzbegehren aus Titeln und Bescheiden prüfen; Hauptproblem auf nachhaltige Haushaltsdeckung und konkrete Behördenabzüge ausgerichtet.",
+      "Alle drei Einstiege auf das konkrete aufenthaltsrechtliche Begehren beziehungsweise Haushaltsproblem zugeschnitten.",
+      "Fundstellen zur Rechenkorrektur von Randnummern 22–29 auf 33–34 berichtigt und unmittelbar in Rechenanweisung eingebunden.",
+      "Hauptproblem und Fokus-Skill unterscheiden Anreizfreibetrag, tatsächliche Aufwendungen und Ausnahmeprüfung.",
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
     ],
-    "sha256": "2b4b24c36ccf02c0e47f2f9ef13c3bb1696ad716c144c937acd3e31ac0a8d50f"
+    "sha256": "2a593433f1545ee1ad467369d3c854704eed07c670247763129f7dc0b77bb6c1"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die vollständig gelesene Werkstatt enthielt doppelte Standardrouten, pauschale GEAS-Daten und einen unzutreffenden Verfahrensbeistand-Verweis. Paragraf 12a AsylG wurde am 17.09.2026 amtlich als Asylverfahrensberatung gelesen; EU-Volltexte waren zugriffsgesperrt, daher dort keine neue Verifikation behauptet. Kein Live-Modelltest.",
-    "changes": ["Aufenthalt, Erwerb, Familie, Asyl, europäische Zuständigkeit, Freizügigkeit und Vollzugsabwehr in konkrete Arbeitsphasen gegliedert.","Paragraf 12a AsylG als Verfahrensberatung bezeichnet; alte pauschale GEAS-Stichtags- und Fristaussagen durch ausdrücklich notwendige Prüfung des jeweiligen Übergangsrechts ersetzt.","Zustell-, Einkommens- und Attestnachweise führen zur aktualisierten Frist, Monatsrechnung oder Begründung und anschließend zum bestellten Dokument."],
-    "sha256": "45733593cde3eae5967411ee6e481c8dc724147ea199e3d1324858bf09a458a0"
+    "reason": "Die Werkstatt erhält die unterschiedlichen aufenthalts- und schutzrechtlichen Wege und konkretisiert den Familiennachzug anhand der zutreffenden Urteilsrandnummern und Richtliniengrenzen. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Terminbitte gegenüber Antrag, Eingang und Titelwirkung, Arbeit und Reise getrennt, titelabhängige Mittelprüfung, privilegierte Leistungen, künftige Einkommenslücken sowie Herkunft und Aussagegrenzen von Attesten und Übersetzungen.",
+    "changes": [
+      "Alle drei Einstiege auf das konkrete aufenthaltsrechtliche Begehren beziehungsweise Haushaltsproblem zugeschnitten.",
+      "Fundstellen zur Rechenkorrektur von Randnummern 22–29 auf 33–34 berichtigt und unmittelbar in Rechenanweisung eingebunden.",
+      "Hauptproblem und Fokus-Skill unterscheiden Anreizfreibetrag, tatsächliche Aufwendungen und Ausnahmeprüfung.",
+      "Terminbitte gegenüber Antrag, Eingang und Titelwirkung, Arbeit und Reise getrennt, titelabhängige Mittelprüfung, privilegierte Leistungen, künftige Einkommenslücken sowie Herkunft und Aussagegrenzen von Attesten und Übersetzungen."
+    ],
+    "sha256": "82f9bcca79341951cc8e6c12c3ee8ee128c48c6af76e83ee891dcc924715faab"
   },
   "focus_review": {
-    "reviewed_on": "2026-09-17",
+    "reviewed_on": "2026-09-23",
     "method": "desk_review",
     "verdict": "revised",
-    "reason": "Standalone-Prompt und zugeordneter Fokus-Skill vollständig auf fachlichen Umfang, Rückfragen mit Fortsetzung bis zum bestellten Dokument, Ausgabeverhalten, Rollenbegrenzung und Quellendifferenzierung gelesen. Kein Live-Modelltest und keine erneute Vollverifikation der bestehenden Rechtsquellen.",
+    "reason": "Hauptproblem und zugeordneter Skill vollständig gelesen und auf nachhaltige Haushaltsdeckung, Richtlinienbereich sowie Korrektur von Anreizfreibetrag und tatsächlichen Aufwendungen abgestimmt. Amtlichen Volltext von 1 C 20.09 geprüft; kein Live-Modelltest. Workflow-Ergänzung: Krankenversicherung weist eine Deckungslücke auf oder Überstunden enden -> Haushaltsprognose, Zeitraum und Behördenantwort konkret ändern. Zugeordneten Fokus-Skill auf Kohärenz gelesen und unverändert belassen.",
     "changes": [
-      "Vollständigen Antworttext bei fehlendem Dateiexport ergänzt; keine erfundenen Downloadlinks."
+      "Haushaltsprüfung mit BVerwG 1 C 20.09, Randnummern 33–34, operativ verbunden; Richtlinienbereich und historische Beträge begrenzt.",
+      "Persönliche Haushaltsbelege und gezielte Nachforderung mit Fortsetzung bis zur begründeten Stellungnahme erhalten.",
+      "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten."
     ],
     "prompt_path": "fachanwalt-migrationsrecht/fachanwalt-migrationsrecht-hauptproblem.md",
-    "prompt_sha256": "8931f926987687c17c874095e93f82a3c6064ccae63ce52276a1a1b4fe6db88e",
+    "prompt_sha256": "f7a9f4595a463d103f780afbcedd6e81814297cc12bb459d8b8e50324b3fa5ce",
     "skill_path": "fachanwalt-migrationsrecht/skills/familiennachzug-haushaltsprognose-belegabgleich/SKILL.md",
-    "skill_sha256": "37cbe39cca9e93b5614b4735f5443f5c24dd013bc6ab194371b3c163c6c4e4a9"
+    "skill_sha256": "4d05e03704e7bae197b3200410e2d067f8bf03301e70ad0548df8860b84b0f9d"
   },
   "selection": {
     "positive": [
@@ -104,5 +138,48 @@
       ],
       "target_skill": "familiennachzug-haushaltsprognose-belegabgleich"
     }
-  ]
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "files": [
+      "fachanwalt-migrationsrecht/README.md",
+      "fachanwalt-migrationsrecht/fachanwalt-migrationsrecht-werkstatt.md",
+      "fachanwalt-migrationsrecht/fachanwalt-migrationsrecht-schnellstart.md",
+      "quality/evals/fachanwalt-migrationsrecht.json",
+      "fachanwalt-migrationsrecht/fachanwalt-migrationsrecht-hauptproblem.md",
+      "fachanwalt-migrationsrecht/skills/familiennachzug-haushaltsprognose-belegabgleich/SKILL.md"
+    ],
+    "opening_change": "Aufenthalts- und Schutzbegehren aus Titeln und Bescheiden prüfen; Hauptproblem auf nachhaltige Haushaltsdeckung und konkrete Behördenabzüge ausgerichtet. Workflow-Ergänzung: Leer: Aufenthaltstitel, Familiennachzug oder Schutzverfahren anbieten. Dateien ohne Aufgabe: Bescheid, Antrag und Haushaltsbelege still lesen; Titel-, Nachweis- oder Rechtsschutzziel klären. Klarer Auftrag: Ergänzung oder Rechtsbehelf direkt ausarbeiten; Frist und Vollzug bei Eile vor Vollständigkeit der Finanzrechnung sichern.",
+    "norms": [
+      "Paragraf 2 Absatz 3 AufenthG",
+      "Paragraf 5 Absatz 1 Nummer 1 AufenthG",
+      "Paragrafen 29 und 30 AufenthG",
+      "Artikel 7 Absatz 1 Buchstabe c und Artikel 17 Richtlinie 2003/86/EG"
+    ],
+    "decisions": [
+      {
+        "citation": "BVerwG, Urteil vom 16. November 2010, 1 C 20.09, Randnummern 19–23, 28–34",
+        "url": "https://www.bverwg.de/161110U1C20.09.0",
+        "application": "Familienbedarf, konkrete Ausnahmeprüfung und Korrektur behördlicher Freibetrags-/Aufwandsabzüge beim Ehegattennachzug.",
+        "limit": "Keine aktuellen Bedarfsbeträge; Korrektur im Richtlinienbereich, nicht unterschiedslos bei allen Titeln. Historische Ausweisungsregeln nicht übertragen."
+      }
+    ],
+    "remaining_limits": [
+      "GEAS-Übergang, aktuelle Nachzugssonderregeln und länderspezifische Praxis nicht umfassend neu verifiziert; keine Live-Modellprüfung.",
+      "Workflow-Review 23.09.2026: Paragraf 2 AufenthG erneut eingesehen. GEAS-Übergangsrecht bleibt verfahrens- und datumsbezogen zu prüfen; keine neue pauschale Asylrechtsregel ergänzt."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Aufenthaltstitel, Familiennachzug oder Schutzverfahren anbieten.",
+      "Dateien ohne Aufgabe: Bescheid, Antrag und Haushaltsbelege still lesen; Titel-, Nachweis- oder Rechtsschutzziel klären.",
+      "Klarer Auftrag: Ergänzung oder Rechtsbehelf direkt ausarbeiten; Frist und Vollzug bei Eile vor Vollständigkeit der Finanzrechnung sichern."
+    ],
+    "continuation": "Krankenversicherung weist eine Deckungslücke auf oder Überstunden enden -> Haushaltsprognose, Zeitraum und Behördenantwort konkret ändern.",
+    "enrichment": "Terminbitte gegenüber Antrag, Eingang und Titelwirkung, Arbeit und Reise getrennt, titelabhängige Mittelprüfung, privilegierte Leistungen, künftige Einkommenslücken sowie Herkunft und Aussagegrenzen von Attesten und Übersetzungen.",
+    "limits": "desk review; no live client execution"
+  }
 }

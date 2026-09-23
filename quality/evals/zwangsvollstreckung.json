@@ -1,47 +1,238 @@
 {
- "schema_version":1,"plugin":"zwangsvollstreckung","reviewed_on":"2026-09-18",
- "sources":[{"url":"https://www.gesetze-im-internet.de/zpo/__796.html","checked_on":"2026-09-14","supports":"Absatz 1: Klausel beim Vollstreckungsbescheid nur bei abweichender Gläubiger- oder Schuldnerperson."},{"url":"https://www.gesetze-im-internet.de/zpo/__750.html","checked_on":"2026-09-14","supports":"Absätze 1 und 2 erlauben Zustellung vor oder gleichzeitig mit Vollstreckungsbeginn; besondere Zweiwochenfrist in Absatz 3 für Sicherungsvollstreckung nach Paragraf 720a."},{"url":"https://www.gesetze-im-internet.de/zpo/__798.html","checked_on":"2026-09-14","supports":"Amtlich indexierter Normtext geprüft: Zweiwochenfrist für nicht auf das Urteil gesetzte Kostenfestsetzungsbeschlüsse, Beschlüsse nach Paragraf 794 Absatz 1 Nummer 4b und notarielle Urkunden nach Nummer 5."},{"url":"https://www.gesetze-im-internet.de/zpo/__708.html","checked_on":"2026-09-14","supports":"Nummer 2: Versäumnisurteile sind ohne Sicherheitsleistung für vorläufig vollstreckbar zu erklären."},{"url":"https://www.gesetze-im-internet.de/zpo/__726.html","checked_on":"2026-09-14","supports":"Gläubigersicherheit ist vom Bedingungsnachweis für die Klausel ausgenommen; Sonderregel für Zug-um-Zug-Leistungen in Absatz 2."},{"url":"https://www.gesetze-im-internet.de/zpo/__751.html","checked_on":"2026-09-14","supports":"Absatz 2: Nachweis erforderlicher Gläubigersicherheit durch öffentliche oder öffentlich beglaubigte Urkunde und Zustellung ihrer Abschrift."}],
- "mini_review":{"verdict":"revised","reason":"Vollständig gelesen: Titelbezogene Nachforderung und Tilgungsrechnung führen bereits zum fertigen Dokument. Einstieg und Betragsabschnitt verlangten aber weiterhin unabhängig vom Auftrag einen Antrag und widersprachen dem ausdrücklich möglichen Beratungsabschluss.","changes":["Einstieg auf Vollstreckungs- oder Abwehrweg und das bestellte Ergebnis bezogen.","Formularprüfung und antragsfähigen Entwurf an einen Antragsauftrag gebunden; reine Beratung oder Rechnung benötigt keinen Zusatzantrag."],"sha256":"f934ff702f5238ac350f332d7d9809ddd7c3f55f8b37557d547c565a5395a7df"},
- "workshop_review":{"verdict":"retained","reason":"Vollständig gelesen: Fehlende Klausel, Sicherheit und Wartefrist werden titelbezogen behandelt; Zahlungen aktualisieren Rechnung und Antrag. Insolvenz oder Schuldnerschutz begrenzen den konkreten Zugriff, nicht die gesamte Bearbeitung. Beratung, Abwehr und Vollstreckungsauftrag sind ausreichend getrennt, keine weitere Änderung erforderlich.","changes":[],"sha256":"ae44c7545af9ca12162793fc618fd5312823577da513c7b73f7d2cbca802603e"},
- "selection":{"positive":["Prüfe die Vollstreckungsreife meines zugestellten Vollstreckungsbescheids.","Erstelle eine Forderungsaufstellung unter Abzug aller Teilzahlungen für den Gerichtsvollzieher."],"negative":["Erstelle erstmals eine Klage ohne vorhandenen Titel.","Übernimm die laufende Bewirtschaftung eines zwangsverwalteten Mietshauses."]},
- "cases":[{"id":"vollstreckungsbescheid-ohne-klausel","request":"Erstelle ergebnis.md als Titelcheck mit Forderungsaufstellung. Vollstreckungsbescheid über 5000 Euro Hauptforderung und 120 Euro festgesetzte Kosten, keine Zinsen tituliert. Ausfertigung und Zustellnachweis vom 1. August 2026 liegen vollständig vor. Gläubiger und Schuldner sind unverändert die im Bescheid bezeichneten Personen. Keine Vollstreckungsklausel aufgedruckt. Am 1. September wurden 1000 Euro gezahlt; beide Seiten haben schriftlich die Tilgung der Hauptforderung vereinbart. Keine weiteren Kosten, keine Einstellung, kein Insolvenzverfahren bekannt. Heute ist der 14. September. Die Sachbearbeitung möchte wegen fehlender Klausel stoppen und ansonsten 5120 Euro beantragen. Prüfe beides, keine Vollstreckung auslösen.","input_files":[],"deliverables":["ergebnis.md"],"criteria":[{"id":"C01","text":"Erkennt nach Paragraf 796 Absatz 1 die Entbehrlichkeit einer Klausel bei diesen identischen Parteien und stoppt nicht allein deswegen.","deliverables":["ergebnis.md"]},{"id":"C02","text":"Berechnet 4000 Euro restliche Hauptforderung plus 120 Euro Kosten, insgesamt 4120 Euro; erfindet keine Zinsen oder neuen Gebühren.","deliverables":["ergebnis.md"]},{"id":"C03","text":"Dokumentiert Zustellung und Tilgungsvereinbarung als Belege und liefert einen vorbereitenden Vollstreckungsstand statt eine bereits erfolgte Maßnahme zu behaupten.","deliverables":["ergebnis.md"]}],"target_skill":"titel-klausel-zustellung"},
-{
-  "id": "versaumnisurteil-und-notarurkunde-getrennte-wartefristen",
-  "request": "Erstelle ergebnis.md als vergleichenden Vollstreckungsreifevermerk für zwei getrennte Forderungen am 14. September 2026. Vorgang A: Versäumnisurteil über fällige 9000 Euro, ausdrücklich ohne Sicherheitsleistung vorläufig vollstreckbar; vollstreckbare Ausfertigung mit einfacher Klausel vorhanden, Titel am 10. September ordnungsgemäß zugestellt. Vorgang B: notarielle Urkunde über fällige 12000 Euro mit persönlicher Unterwerfung nach Paragraf 794 Absatz 1 Nummer 5 ZPO; vollstreckbare Ausfertigung und erforderliche Klausel vorhanden, Titel ebenfalls am 10. September zugestellt. Parteien jeweils unverändert, keine Zahlungen, Bedingungen, Einstellungen oder Insolvenzverfahren. Keine Sicherungsvollstreckung nach Paragraf 720a ZPO geplant. Eine Sachbearbeiterin fordert für beide Vorgänge Sicherheit und zwei Wochen Warten nach Paragraf 750 Absatz 2. Prüfe den Start am 14. September getrennt und bereite nur den Vermerk vor.",
-  "input_files": [],
-  "deliverables": [
-    "ergebnis.md"
-  ],
-  "criteria": [
+  "schema_version": 1,
+  "plugin": "zwangsvollstreckung",
+  "reviewed_on": "2026-09-23",
+  "sources": [
     {
-      "id": "C01",
-      "text": "Behandelt Vorgang A bei den belegten Voraussetzungen als am 14. September vollstreckungsreif; verlangt für das Versäumnisurteil weder eine nicht angeordnete Sicherheit noch eine allgemeine Zweiwochenfrist.",
-      "deliverables": [
-        "ergebnis.md"
-      ]
+      "url": "https://www.gesetze-im-internet.de/zpo/__796.html",
+      "checked_on": "2026-09-14",
+      "supports": "Absatz 1: Klausel beim Vollstreckungsbescheid nur bei abweichender Gläubiger- oder Schuldnerperson."
     },
     {
-      "id": "C02",
-      "text": "Sperrt den Beginn in Vorgang B am 14. September wegen der besonderen Zweiwochenfrist nach Paragraf 798 ZPO für die notarielle Urkunde, nicht wegen Paragraf 750 Absatz 2.",
-      "deliverables": [
-        "ergebnis.md"
-      ]
+      "url": "https://www.gesetze-im-internet.de/zpo/__750.html",
+      "checked_on": "2026-09-14",
+      "supports": "Absätze 1 und 2 erlauben Zustellung vor oder gleichzeitig mit Vollstreckungsbeginn; besondere Zweiwochenfrist in Absatz 3 für Sicherungsvollstreckung nach Paragraf 720a."
     },
     {
-      "id": "C03",
-      "text": "Unterscheidet Zustellungserfordernisse nach Paragraf 750 Absätzen 1 und 2 von besonderen Wartefristen; die Korrektur beseitigt nicht pauschal jede Wartefrist.",
-      "deliverables": [
-        "ergebnis.md"
-      ]
+      "url": "https://www.gesetze-im-internet.de/zpo/__798.html",
+      "checked_on": "2026-09-14",
+      "supports": "Amtlich indexierter Normtext geprüft: Zweiwochenfrist für nicht auf das Urteil gesetzte Kostenfestsetzungsbeschlüsse, Beschlüsse nach Paragraf 794 Absatz 1 Nummer 4b und notarielle Urkunden nach Nummer 5."
     },
     {
-      "id": "C04",
-      "text": "Dokumentiert die getrennten Titel, Klauseln und Zustellungsdaten und löst keine Vollstreckungsmaßnahme aus; aus dem fehlenden Sicherheitsbedarf folgt keine Entbehrlichkeit der übrigen Titelvoraussetzungen.",
-      "deliverables": [
-        "ergebnis.md"
-      ]
+      "url": "https://www.gesetze-im-internet.de/zpo/__708.html",
+      "checked_on": "2026-09-14",
+      "supports": "Nummer 2: Versäumnisurteile sind ohne Sicherheitsleistung für vorläufig vollstreckbar zu erklären."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__726.html",
+      "checked_on": "2026-09-14",
+      "supports": "Gläubigersicherheit ist vom Bedingungsnachweis für die Klausel ausgenommen; Sonderregel für Zug-um-Zug-Leistungen in Absatz 2."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__751.html",
+      "checked_on": "2026-09-14",
+      "supports": "Absatz 2: Nachweis erforderlicher Gläubigersicherheit durch öffentliche oder öffentlich beglaubigte Urkunde und Zustellung ihrer Abschrift."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__367.html",
+      "checked_on": "2026-09-22",
+      "supports": "Amtlichen Text zu Paragraf 367 BGB gelesen; Bezug: Titulierte Forderung, Zahlungszuordnung und tatsächlich offenen Vollstreckungsbetrag abgleichen. Keine vollständige neue Verifikation sämtlicher weiterer Normen des Plugins."
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2016-6-15&Gericht=bgh&anz=11&nr=75277&pos=5",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Beschluss vom 15.06.2016, VII ZB 58/15: Bei behauptet falscher Anrechnung außerhalb der Vollstreckung geleisteter Zahlung den materiellen Abwehrweg und Gegenrechnung prüfen; Vollstreckungsgericht prüft die Gläubigerverrechnung nicht materiell nach Paragraf 367 Absatz 1 BGB. Amtlicher Leitsatz gelesen; direkter Volltextabruf 403, entscheidende Randnummern nicht verfügbar. Keine materielle Richtigkeitsgarantie, keine Billigung sämtlicher Kosten oder Übernahme historischer Formulare."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__788.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aktuellen vollständigen Normtext gelesen: nur notwendige Vollstreckungskosten nach Absatz 1; Festsetzung und Erstattung getrennt. Beschränkung materieller Verrechnungskontrolle billigt keine unnötigen Kosten."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32014R0655",
+      "checked_on": "2026-09-22",
+      "supports": "Amtlichen Text Artikel 2, 3, 6 und 7 gelesen: sachlicher und grenzüberschreitender Anwendungsbereich, Zuständigkeit, tatsächliche Vollstreckungsgefährdung auch mit Titel; ohne Titel zusätzlich voraussichtlicher Hauptsacheerfolg. Kein Ersatz durch deutschen PfÜB und keine umfassende Verifikation des europäischen Verfahrens."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__765a.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlichen Normtext vollständig gelesen: konkrete außergewöhnliche Härte unter Einbeziehung des Gläubigerschutzes; Antrag in Räumungssachen spätestens zwei Wochen vor festgesetztem Termin, mit den gesetzlichen Ausnahmen für spätere Gründe und unverschuldete Verhinderung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__798.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlichen Normtext gelesen: besondere Wartefrist bei den bezeichneten Titeln, insbesondere Kostenfestsetzungsbeschluss ohne Aufsetzung auf das Urteil und notarielle Urkunde. Mehrere Titel gesondert zuordnen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__766.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlichen Normtext gelesen: Erinnerung gegen Art und Weise der Vollstreckung beziehungsweise Vollstreckungsverfahren; keine pauschale materielle Forderungskontrolle."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__767.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlichen Normtext nach Web-Timeout direkt gelesen: materieller Anspruchseinwand beim Prozessgericht, zeitliche Grenzen und Bündelung der Einwendungen. Keine erneute Verifikation des BGH-Volltexts."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__367.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlichen Normtext erneut gelesen: Anrechnung auf Kosten, Zinsen und Hauptleistung sowie abweichende Tilgungsbestimmung; konkrete Zahlung und Vereinbarung vor Neuberechnung prüfen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__788.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlichen Normtext erneut gelesen: Notwendigkeit von Vollstreckungskosten eigenständig prüfen; kein doppelter Ansatz bereits bezahlter oder anderweitig enthaltener Kosten."
     }
   ],
-  "target_skill": "titel-klausel-zustellung"
-}]
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Kurzprompt vollständig erneut gelesen. Allgemeine Checkliste durch Bank- und Arbeitgeberzweige sowie konkrete Teilzahlungsfortsetzung ersetzt; Räumungsschutzfrist mit Ausnahmen ergänzt, bestehende Titel- und BGH-Grenzen bewahrt.",
+    "changes": [
+      "Leerer Einstieg bietet Forderungsauftrag, PfÜB oder Abwehr; Dateien ohne Aufgabe still lesen.",
+      "Neue Bank, vereinbarte Hauptforderungstilgung und medizinischer Nachweis ändern Maßnahme, Zinslauf oder Schutzantrag konkret."
+    ],
+    "sha256": "ebdc9fed9c1ca099cfc0eda6a50e74655864641787b2cec45e125f2fb9b3dc89",
+    "method": "desk_review",
+    "reviewed_on": "2026-09-23"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Werkstatt vollständig erneut gelesen. Konkreter Zugriff, mehrere Titel, Teilzahlung, Kostenstreit und Räumungsschutz bis zum Dokument ausgebaut; neue Normbezüge amtlich geprüft, kein Formular- oder Vollstreckungstest.",
+    "changes": [
+      "Bankspur, Arbeitgeberwechsel und gesonderte Titelvoraussetzungen bestimmen den konkreten Antrag.",
+      "Zahlungseingang, Tilgungsabrede und notwendige Kosten getrennt prüfen; neue Belege ändern Rechnung und Antrag gemeinsam.",
+      "Räumungstermin und Entstehung des Schutzgrunds als Fristauslöser sowie spätere Zahlung, Einstellung oder Ratenbitte bis zur aktualisierten Fassung behandeln."
+    ],
+    "sha256": "8990d511244982cbddabb19b9dda6adc8fd558e3382df0c23cde5517f1b374a0",
+    "method": "desk_review",
+    "reviewed_on": "2026-09-23"
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Forderungsaufstellung mit Auftrag, PfÜB-Entwurf oder Abwehr einer Vollstreckung anbieten.",
+      "Dateien ohne Aufgabe: Titel, Zustellung und Zahlungen still lesen; nur bei unklarem Ziel passende Zugriff- oder Abwehrdokumente anbieten.",
+      "Klarer Auftrag: unmittelbar Rechnung oder Antrag bearbeiten und nur entscheidende Vollstreckungsvoraussetzungen beziehungsweise Einwendungen klären."
+    ],
+    "continuation": "Zahlungsbeleg, neue Bank oder Attest -> geänderte Forderungsrechnung, Pfändungsantrag beziehungsweise konkret begründeter Schutzantrag.",
+    "enrichment": "Titelbezogene Wartefrist, wechselnde Vermögensspur, Tilgung und Kosten, Räumungsschutz sowie Folgezahlung oder Einstellung bis zur vollständigen Fassung verbunden.",
+    "limits": "desk review; no live client execution"
+  },
+  "selection": {
+    "positive": [
+      "Prüfe die Vollstreckungsreife meines zugestellten Vollstreckungsbescheids.",
+      "Erstelle eine Forderungsaufstellung unter Abzug aller Teilzahlungen für den Gerichtsvollzieher."
+    ],
+    "negative": [
+      "Erstelle erstmals eine Klage ohne vorhandenen Titel.",
+      "Übernimm die laufende Bewirtschaftung eines zwangsverwalteten Mietshauses."
+    ]
+  },
+  "cases": [
+    {
+      "id": "vollstreckungsbescheid-ohne-klausel",
+      "request": "Erstelle ergebnis.md als Titelcheck mit Forderungsaufstellung. Vollstreckungsbescheid über 5000 Euro Hauptforderung und 120 Euro festgesetzte Kosten, keine Zinsen tituliert. Ausfertigung und Zustellnachweis vom 1. August 2026 liegen vollständig vor. Gläubiger und Schuldner sind unverändert die im Bescheid bezeichneten Personen. Keine Vollstreckungsklausel aufgedruckt. Am 1. September wurden 1000 Euro gezahlt; beide Seiten haben schriftlich die Tilgung der Hauptforderung vereinbart. Keine weiteren Kosten, keine Einstellung, kein Insolvenzverfahren bekannt. Heute ist der 14. September. Die Sachbearbeitung möchte wegen fehlender Klausel stoppen und ansonsten 5120 Euro beantragen. Prüfe beides, keine Vollstreckung auslösen.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Erkennt nach Paragraf 796 Absatz 1 die Entbehrlichkeit einer Klausel bei diesen identischen Parteien und stoppt nicht allein deswegen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Berechnet 4000 Euro restliche Hauptforderung plus 120 Euro Kosten, insgesamt 4120 Euro; erfindet keine Zinsen oder neuen Gebühren.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Dokumentiert Zustellung und Tilgungsvereinbarung als Belege und liefert einen vorbereitenden Vollstreckungsstand statt eine bereits erfolgte Maßnahme zu behaupten.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "titel-klausel-zustellung"
+    },
+    {
+      "id": "versaumnisurteil-und-notarurkunde-getrennte-wartefristen",
+      "request": "Erstelle ergebnis.md als vergleichenden Vollstreckungsreifevermerk für zwei getrennte Forderungen am 14. September 2026. Vorgang A: Versäumnisurteil über fällige 9000 Euro, ausdrücklich ohne Sicherheitsleistung vorläufig vollstreckbar; vollstreckbare Ausfertigung mit einfacher Klausel vorhanden, Titel am 10. September ordnungsgemäß zugestellt. Vorgang B: notarielle Urkunde über fällige 12000 Euro mit persönlicher Unterwerfung nach Paragraf 794 Absatz 1 Nummer 5 ZPO; vollstreckbare Ausfertigung und erforderliche Klausel vorhanden, Titel ebenfalls am 10. September zugestellt. Parteien jeweils unverändert, keine Zahlungen, Bedingungen, Einstellungen oder Insolvenzverfahren. Keine Sicherungsvollstreckung nach Paragraf 720a ZPO geplant. Eine Sachbearbeiterin fordert für beide Vorgänge Sicherheit und zwei Wochen Warten nach Paragraf 750 Absatz 2. Prüfe den Start am 14. September getrennt und bereite nur den Vermerk vor.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Behandelt Vorgang A bei den belegten Voraussetzungen als am 14. September vollstreckungsreif; verlangt für das Versäumnisurteil weder eine nicht angeordnete Sicherheit noch eine allgemeine Zweiwochenfrist.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Sperrt den Beginn in Vorgang B am 14. September wegen der besonderen Zweiwochenfrist nach Paragraf 798 ZPO für die notarielle Urkunde, nicht wegen Paragraf 750 Absatz 2.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Unterscheidet Zustellungserfordernisse nach Paragraf 750 Absätzen 1 und 2 von besonderen Wartefristen; die Korrektur beseitigt nicht pauschal jede Wartefrist.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Dokumentiert die getrennten Titel, Klauseln und Zustellungsdaten und löst keine Vollstreckungsmaßnahme aus; aus dem fehlenden Sicherheitsbedarf folgt keine Entbehrlichkeit der übrigen Titelvoraussetzungen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "titel-klausel-zustellung"
+    }
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "zwangsvollstreckung/README.md",
+      "zwangsvollstreckung/zwangsvollstreckung-werkstatt.md",
+      "zwangsvollstreckung/zwangsvollstreckung-schnellstart.md",
+      "quality/evals/zwangsvollstreckung.json"
+    ],
+    "opening_change": "Titulierte Forderung, Zahlungszuordnung und tatsächlich offenen Vollstreckungsbetrag abgleichen",
+    "norms": [
+      "Paragraf 367 BGB",
+      "Paragraf 788 Absatz 1 ZPO",
+      "Paragraf 767 ZPO",
+      "Artikel 2 Verordnung (EU) Nr. 655/2014",
+      "Artikel 3 Verordnung (EU) Nr. 655/2014",
+      "Artikel 6 Verordnung (EU) Nr. 655/2014",
+      "Artikel 7 Verordnung (EU) Nr. 655/2014"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Beschluss vom 15.06.2016, VII ZB 58/15",
+        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2016-6-15&Gericht=bgh&anz=11&nr=75277&pos=5",
+        "application": "Bei behauptet falscher Anrechnung außerhalb der Vollstreckung geleisteter Zahlung den materiellen Abwehrweg und Gegenrechnung prüfen; Vollstreckungsgericht prüft die Gläubigerverrechnung nicht materiell nach Paragraf 367 Absatz 1 BGB.",
+        "limit": "Amtlicher Leitsatz gelesen; direkter Volltextabruf 403, entscheidende Randnummern nicht verfügbar. Keine materielle Richtigkeitsgarantie, keine Billigung sämtlicher Kosten oder Übernahme historischer Formulare."
+      }
+    ],
+    "remaining_limits": [
+      "Workflow-Review: kein Formular-, Pfändungs- oder Versandtest; BGH VII ZB 58/15 weiterhin nur im dokumentierten Leitsatzumfang, keine neuen Randnummern; aktuelle Pfändungstabellen nicht abgerufen.",
+      "Amtlicher Leitsatz gelesen; direkter Volltextabruf 403, entscheidende Randnummern nicht verfügbar. Keine materielle Richtigkeitsgarantie, keine Billigung sämtlicher Kosten oder Übernahme historischer Formulare.",
+      "Kein Live-Formular- oder Vollstreckungstest; widersprüchliche Zukunftstermine im nicht freigegebenen README/Skill-Bestand nicht repariert. Formulare, Pfändungsbeträge und Übergangsrecht bleiben antragszeitbezogen zu verifizieren.",
+      "Individuelle redaktionelle Akten- und Quellenprüfung (desk review), kein Live-Client- oder Modelltest."
+    ]
+  }
 }

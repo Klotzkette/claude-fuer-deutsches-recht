@@ -1,28 +1,56 @@
 {
   "schema_version": 1,
   "plugin": "gewerblicher-rechtsschutz",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/markeng/__24.html",
       "checked_on": "2026-09-14",
       "supports": "Territorialer Bezug der Erschöpfung und berechtigte Gründe gegen weiteren Vertrieb."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:61996CJ0355",
+      "checked_on": "2026-09-22",
+      "supports": "EuGH, Urteil vom 16.07.1998, Az. C-355/96, Silhouette, Randnummern 25 bis 31. Anwendung: Keine allgemeine internationale Erschöpfung bei Erstvertrieb außerhalb des EWR; konkrete Charge und Zustimmung prüfen. Grenze und Prüfzugang: Historische Richtlinie, heutige Anspruchsgrundlage separat; spätere EWR-Zustimmung nicht ausgeschlossen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/markeng/__24.html",
+      "checked_on": "2026-09-22",
+      "supports": "EU-/EWR-Erstvertrieb und berechtigte Widerspruchsgründe."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/patg/__140c.html",
+      "checked_on": "2026-09-23",
+      "supports": "Gegnerische Beweismittel durch bedingte Vorlage- und Besichtigungsprüfung wieder in den Arbeitsablauf aufgenommen. Amtlichen Normtext gelesen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__142.html",
+      "checked_on": "2026-09-23",
+      "supports": "Gegnerische Beweismittel durch bedingte Vorlage- und Besichtigungsprüfung wieder in den Arbeitsablauf aufgenommen. Amtlichen Normtext gelesen."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Aktuellen Mini vollständig gelesen. Schutzrechtsbezogene Einzelprüfung widersprach noch pauschalen Beweislastsätzen und einer verpflichtenden Matrix je Handlung. Gezielte Fragen zu Produktmerkmal und Erstvertrieb sowie Fortsetzung bleiben erhalten. Keine neue Quellen- oder Live-Modellprüfung des Minis.",
+    "reason": "Echtheit und EWR-Erstvertrieb werden getrennt; eine China-Charge wird nicht durch Vertrieb einer anderen Charge in Frankreich frei.",
     "changes": [
-      "Beweislast nach Schutzrecht und konkreter Voraussetzung bestimmen statt Lasten pauschal zuzuweisen.",
-      "Rechts- und Belegmatrix nur bei tatsächlichem Vergleichsbedarf ausgeben."
+      "Silhouette in die Erschöpfungsprüfung eingebaut",
+      "Vollziehung und Ordnungsmittel von automatischen Sanktionen getrennt",
+      "Mehrfache allgemeine Abläufe durch konkrete Vertrags-, Plattform- und Belegfragen ersetzt",
+      "Eigenständige Starts und fachbezogene Antwortfortsetzung ergänzt."
     ],
-    "sha256": "3e7b3c3c7ba5522d48aaffe22a3936a81aa8ad795d62a4d1248ec32aad1c02f0"
+    "sha256": "e59b9965a4e770fe76ad74deae0e3a99039b05d2695390c121e996e58a61215a"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt vollständig gelesen. Widersprüche lagen in pauschalen Zwischenprodukten, Fragenlistenabschluss, fehlender Rollenbegrenzung gerichtlicher Entwürfe und überholten Verfahrensbehauptungen. DPMA-Anmeldeinformationen am 18.09.2026 amtlich gelesen. DSA-Abruf war blockiert, Paragraf 30 MarkenG nicht abrufbar; diese Altbehauptungen daher in konkrete Verifikationsaufträge umgestellt, nicht als neu verifiziert bestätigt. Vorhandene ausführliche Übersichten nicht vollständig neu geschrieben; kein Live-Modelltest.",
-    "changes": ["Zwischenprüfungen dem bestellten Dokument untergeordnet; Fragenlistenabschluss und pauschalen Fortsetzungsstopp aufgelöst.", "Eilprüfung und getrennte Anspruchszuordnung positiv formuliert statt als gegenteilige Handlungsanweisung.", "DPMAregister von elektronischer Anmeldung getrennt.", "Ungeprüfte DSA-Größenschwelle, fortgeschriebene TMG-Verweise und pauschale Lizenznehmerbefugnisse durch konkrete Quellenprüfung ersetzt."],
-    "sha256": "c9518050ff112840417d63466daafd625cba0bb6f04ef73582822767483b0429"
+    "reason": "Schutzrechte, Geheimnisse, OSS, Abmahnung, Plattform und Vollstreckung fachbezogen gestrafft; keine Patentanspruchsformulierung außerhalb des Pluginumfangs.",
+    "changes": [
+      "Silhouette in die Erschöpfungsprüfung eingebaut",
+      "Vollziehung und Ordnungsmittel von automatischen Sanktionen getrennt",
+      "Mehrfache allgemeine Abläufe durch konkrete Vertrags-, Plattform- und Belegfragen ersetzt",
+      "Gegnerische Beweismittel durch bedingte Vorlage- und Besichtigungsprüfung wieder in den Arbeitsablauf aufgenommen.",
+      "Chargenbezogene Erschöpfung, verdeckte Produktmerkmale, Reichweite von Unterlassung und Nutzungsrechten sowie Freigabe externer Schritte."
+    ],
+    "sha256": "162e187d7d0694e87fde6effff46a0009dfa600b28ec4a9edcb3fa6c09e9a46c"
   },
   "selection": {
     "positive": [
@@ -67,5 +95,45 @@
       ],
       "target_skill": "mandat-triage-gewerblicher-rechtsschutz"
     }
-  ]
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-23",
+    "files": [
+      "gewerblicher-rechtsschutz/gewerblicher-rechtsschutz-werkstatt.md",
+      "gewerblicher-rechtsschutz/gewerblicher-rechtsschutz-schnellstart.md",
+      "gewerblicher-rechtsschutz/README.md",
+      "quality/evals/gewerblicher-rechtsschutz.json"
+    ],
+    "opening_change": "Produkt, Zeichen und Erstvertrieb der konkreten Charge bilden den Einstieg; keine obligatorische Portfolioaufnahme.",
+    "norms": [
+      "Paragrafen 14 und 24 MarkenG",
+      "Artikel 7 Richtlinie 89/104/EWG als historische Entscheidungsnorm",
+      "Paragrafen 922, 929 und 936 ZPO"
+    ],
+    "decisions": [
+      {
+        "citation": "EuGH, Urteil vom 16.07.1998, Az. C-355/96, Silhouette, Randnummern 25 bis 31",
+        "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:61996CJ0355",
+        "application": "Keine allgemeine internationale Erschöpfung bei Erstvertrieb außerhalb des EWR; konkrete Charge und Zustimmung prüfen.",
+        "limit": "Historische Richtlinie, heutige Anspruchsgrundlage separat; spätere EWR-Zustimmung nicht ausgeschlossen."
+      }
+    ],
+    "remaining_limits": [
+      "Desk-/Quellenprüfung, kein Live-Ergebnistest.",
+      "Keine komplette Neuverifikation der zahlreichen OSS-, Register- und Verfahrenszweige.",
+      "Workflow-Ergänzung am 2026-09-23: individuelle Textprüfung, keine erneute Gesamtverifikation der bestehenden Entscheidungsanker; deren dokumentierte Quellen- und Zugriffsgrenzen bleiben bestehen."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Verletzung, Abmahnungsantwort oder Lizenz wählen.",
+      "Schutzrechts- und Produktbelege still lesen; Merkmalsabgleich oder Antwort anbieten.",
+      "Bestellten Schutzrechtsentwurf ohne allgemeine Schutzrechtsübersicht verfassen."
+    ],
+    "continuation": "Belegte EWR-Erstvermarktung -> chargenbezogene Erschöpfung; verborgenes Merkmal -> Beweisweg; Lizenzumfang -> Unterlassungstext ändern.",
+    "enrichment": "Chargenbezogene Erschöpfung, verdeckte Produktmerkmale, Reichweite von Unterlassung und Nutzungsrechten sowie Freigabe externer Schritte.",
+    "limits": "desk review; no live client execution"
+  }
 }

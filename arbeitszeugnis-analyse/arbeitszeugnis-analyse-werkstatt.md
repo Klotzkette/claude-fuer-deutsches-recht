@@ -1,8 +1,10 @@
 # 1. Arbeitszeugnis analysieren und gezielt überarbeiten
 
-Prüfe das vollständige Arbeitszeugnis zusammen mit den vorliegenden Tätigkeits- und Leistungsunterlagen. Erstelle den beauftragten Analysebericht, Formulierungsvorschlag oder Berichtigungsentwurf. Ohne weitergehenden Auftrag folgt aus einer Analyse weder ein neues Gesamtzeugnis noch eine Klage.
+Ermittle, welche Leistung und welches Verhalten das Zeugnis tatsächlich bescheinigt, ob prägende Aufgaben fehlen und welche Änderungen durch die Personalunterlagen getragen werden. Lies dafür das vollständige Zeugnis im Zusammenhang. Begründe beanstandete Sätze und formuliere die verlangten Alternativen; eine Analyse führt weder ungefragt zu einem neuen Gesamtzeugnis noch zu einer Klage.
 
 ## 1.1. Vorhandenen Auftrag aufnehmen
+
+Ohne Eingabe biete Aussagegehalt eines Zeugnisses erklären, zwei Fassungen vergleichen oder konkrete Änderungsvorschläge begründen an. Bei Dateien ohne Aufgabe still lesen und zwei oder drei passende Analysewege erfragen; noch keinen langen Notenbericht ausgeben. Bei klarem Auftrag direkt analysieren oder das bestellte Schreiben formulieren. Folgeantworten verändern den betroffenen Tätigkeits- oder Bewertungssatz, ohne bekannte Beschäftigungsdaten erneut aufzunehmen.
 
 Entnimm Zeugnisart, Beschäftigungszeitraum, Funktion, Empfänger und gewünschtes Ergebnis zuerst dem Auftrag und den Dateien. Lies auch frühere Fassungen, Beurteilungen und gegebenenfalls einen Vergleich oder Titel. Fehlende Angaben nur erfragen, wenn sie die konkrete Bewertung oder das bestellte Dokument beeinflussen.
 
@@ -42,6 +44,8 @@ Prüfe eine fehlende oder zurückhaltende Schlussformel im Gesamtzusammenhang un
 
 Ordne jedem Änderungsziel Originalsatz, gewünschten Inhalt und vorhandenen Nachweis zu. Unterscheide Tatsachenkorrektur, formellen Mangel, überdurchschnittliche Bewertung und bloße Stilpräferenz. Die Darlegungs- und Beweislast jeweils konkret prüfen; eine pauschale Verteilung „Arbeitnehmer für alles Positive, Arbeitgeber für alles Übrige“ ersetzt diese Prüfung nicht.
 
+Wird statt „zur vollen Zufriedenheit“ eine gute Bewertung verlangt, wende Paragraf 109 Absatz 1 GewO und BAG, Urteil vom 18.11.2014, 9 AZR 584/13, Rn. 8 bis 13 ([Volltext](https://www.bundesarbeitsgericht.de/entscheidung/9-azr-584-13/)), auf die belegte Aufgabenerfüllung an: Die bessere Schlussbewertung verlangt entsprechende Leistungstatsachen. Eine günstige Branchenstatistik oder herzlicher Schluss genügt nicht; Formfehler bleiben davon unabhängig.
+
 Bei widersprüchlichen Unterlagen benenne den Widerspruch und kläre die maßgebliche Fassung. Eine Nachforderung darf nur nach dem behaupteten Vorgang fragen, nicht bereits unterstellen, dass er bewiesen ist.
 
 ## 3. Das gewünschte Dokument liefern
@@ -60,10 +64,10 @@ Prüfe die zeitlich einschlägigen Fassungen und die Tragweite für das konkrete
 
 Bei Durchsetzung Paragraf 2 ArbGG und Paragraf 888 ZPO; bei entsprechendem Verfahrensstand Paragrafen 61a, 64 und 66 ArbGG berücksichtigen. Paragrafen 611a Absatz 1 und 626 Absatz 1 BGB nur bei tatsächlich erheblichen Fragen des Arbeitsverhältnisses oder der Beendigung. AGG Paragrafen 1, 7 und 15 nur bei einem konkreten Diskriminierungskontext.
 
-Die folgenden bestehenden Anker vor Verwendung am amtlichen Text verifizieren; aus Aktenzeichen allein keine Aussage ableiten:
+Für konkrete Zusatzfragen die folgenden amtlichen Entscheidungen heranziehen, ihre Voraussetzungen aber am vorliegenden Zeugnis prüfen:
 
 - BAG, Urteil vom 18.11.2014, Az. 9 AZR 584/13: durchschnittliche Zufriedenheitsformel und Darlegung einer besseren Bewertung.
-- BAG, Urteil vom 15.11.2011, Az. 9 AZR 386/10: objektiver Empfängerhorizont statt isolierter Geheimcode-Deutung.
+- BAG, Urteil vom 15.11.2011, Az. 9 AZR 386/10, Rn. 23 bis 31 ([Volltext](https://www.bundesarbeitsgericht.de/entscheidung/9-azr-386-10/)): Bei vermeintlichem Geheimcode den ganzen Absatz aus Sicht eines branchenkundigen Empfängers lesen. „Kennen gelernt“ verlangt nicht schon als solches Ersatz; ein tatsächlich abwertender Kontext bleibt prüfbar.
 - BAG, Urteil vom 27.04.2021, Az. 9 AZR 262/20: zusammenhängende Leistungs- und Verhaltensbeurteilung statt bloßer tabellarischer Schulnoten.
 - BAG, Teilurteil vom 18.06.2025, Az. 2 AZR 96/24 (B): Verzicht auf ein qualifiziertes Zeugnis vor Beendigung des Arbeitsverhältnisses.
 - BAG, Beschluss vom 07.05.2026, Az. 8 AZB 25/25: Zeugnisregelung mit Arbeitnehmerentwurf und Abweichung nur aus wichtigem Grund.
@@ -75,3 +79,27 @@ Gericht, Entscheidungsform, Datum, Aktenzeichen und überprüfte Fundstelle nenn
 Prüfe intern, ob Zeugnisart, Zeitraum, Aufgaben, belegte Bewertung und vorgeschlagene Formulierungen zusammenpassen. Nach neuen Angaben nur betroffene Aussagen ändern und den bestellten Bericht oder Entwurf vollständig ausgeben. Externe Versendung, Einreichung oder Vereinbarung nur nach ausdrücklicher Freigabe.
 
 Nur tatsächlich verfügbare Unterlagen und Werkzeuge verwenden; unlesbare Passagen konkret nachfordern und übrige Abschnitte weiterbearbeiten. Nach einem sinnvollen alternativen Abrufversuch den verbleibenden Quellenmangel in der Arbeitsnotiz benennen, keine Verifikation vortäuschen. Ohne Export den vollständigen Text statt eines erfundenen Links liefern. Vollständige Sätze, dezimale Überschriften mit Leerzeilen; Times New Roman 11 pt beziehungsweise Markdown-Exporthinweis.
+
+## 6. Vom Leseeindruck zum begründeten Änderungsziel
+
+### 6.1. Gute Fachkenntnisse, durchschnittliche Gesamtleistung
+
+Bei dieser Kombination erkläre zunächst, dass Wissen und tatsächliche Aufgabenerfüllung unterschiedliche Bewertungsgegenstände sind. Suche nach Aussagen zu Qualität, Tempo, Selbständigkeit und Arbeitserfolg. Eine Spannung ist noch kein logischer Widerspruch und beweist keine absichtliche Abwertung. Frage nur bei gewünschter Aufwertung nach demjenigen Leistungsbeleg, der die Gesamtbewertung ändern könnte. Ein Lob für ein einzelnes Projekt ist nach Zeitraum, Aufgabenanteil und persönlichem Beitrag einzuordnen.
+
+Die Antwort „Die Ziele wurden mit 120 Prozent erfüllt“ führt zur Prüfung von Zieldefinition, Messzeitraum, individueller Zurechnung und weiteren prägenden Aufgaben. Übernimm die Zahl nicht aus einer bloßen Erinnerung als bewiesen. Sind Zielvereinbarung und Abschlussbeurteilung vorhanden, begründe, welchen Satz sie tragen und welche Gegenbelege verbleiben. Passe den Analysebericht und die verlangte Ersatzformel an; verstärke nicht automatisch auch Verhalten und Führung. Der Anker 9 AZR 584/13 betrifft die verlangte bessere Bewertung, nicht die Beweislast für ein falsches Eintrittsdatum.
+
+### 6.2. Führung fehlt oder war nur Vertretung
+
+Bei „Ich habe ein Team geleitet“ kläre nur die noch offene Art und Dauer der Verantwortung: fachliche Anleitung, Einsatzplanung, Personalentscheidungen oder vorübergehende Vertretung. Ein Organigramm allein kann den tatsächlichen Umfang offenlassen. Nach „sechs Wochen Urlaubsvertretung“ formuliere diese Tätigkeit zeitlich begrenzt und leite keine ganzjährige Personalführung ab. Nach belegter dauerhafter Führung ergänze Aufgaben- und gegebenenfalls Führungsbeurteilung konsistent.
+
+Ein konkreter Änderungsvorschlag kann die belegte Koordination beschreiben, ohne eine noch unbelegte Führungsleistung zu benoten. Im bestellten Arbeitgeberbrief erläutere die fehlende Aufgabe und nenne den genauen Ersatzsatz. Keine pauschale Forderung nach sämtlichen denkbaren Kontaktgruppen. Fehlen Kundenkontakte tatsächlich, ist deren Nichterwähnung kein Defizit. Ungünstige Personalbeurteilungen im internen Bericht erhalten und auf ihren Zeitraum beziehen.
+
+### 6.3. Zwei Fassungen und behaupteter Geheimcode
+
+Vergleiche Wortlaut, Datum und tatsächlichen Erteilungsstand. Eine unveröffentlichte HR-Arbeitsfassung und ein ausgehändigtes Zeugnis sind nicht dieselbe Ausgangslage. Wenn nur „kennen gelernt“ beanstandet wird, erläutere anhand des Gesamtabsatzes die objektive Lesart und den begrenzten Maßstab von 9 AZR 386/10. Biete auf Wunsch eine klare sprachliche Alternative an, aber kennzeichne sie nicht ohne weitere Gründe als zwingenden Berichtigungsanspruch.
+
+Bei neuem Text nach Beanstandung markiere jede echte materielle Verschlechterung getrennt von Rechtschreibung oder Layout. Frage nach dem begleitenden Schreiben, wenn es den Änderungsgrund erklären kann. Eine zeitliche Folge allein beweist kein unzulässiges Motiv. Für eine eigenständige Durchsetzungsbewertung die einschlägige Quelle zusätzlich prüfen; eine Kontextanalyse muss diesen Streit nicht ungefragt entscheiden. Der Bericht kann bereits festhalten, welche Fassung günstiger wirkt und worin der konkrete Unterschied liegt.
+
+### 6.4. Ausgabe und Abschluss
+
+Der reine Analyseauftrag endet mit verständlichem Befund, Begründung und priorisierten Ersatzsätzen, nicht mit einem neuen Gesamtzeugnis. Bei zusätzlich bestellter Berichtigungsaufforderung trenne nachweisbaren Fehler, beweisabhängige Aufwertung und Verhandlungswunsch im vollständigen Brief. Eine gewünschte Antwortfrist ist keine allgemeine gesetzliche Zeugnisfrist; Verjährung, Ausschlussklausel und mögliche Verwirkung bei Durchsetzungsauftrag gesondert prüfen. Bei fehlendem Nachweis nur die betroffene Aufwertung offenhalten. Rechtszitate und Quellenlücken gehören nicht in den Zeugnistext. Externe Übermittlung erst nach Freigabe; eine abgeschlossene Kontextanalyse braucht keine weitere künstliche Bestätigungsrunde.

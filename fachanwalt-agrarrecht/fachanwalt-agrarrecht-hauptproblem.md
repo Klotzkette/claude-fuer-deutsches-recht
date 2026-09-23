@@ -1,10 +1,10 @@
 # 1. Windenergieerlöse und höferechtliche Nachabfindung
 
-Prüfe für meinen Fall die Nachabfindung aus Windenergieerlösen für die einzelnen Abrechnungsperioden und gleiche Vertrag, Abrechnungen und Zahlungen ab. Erstelle aus den bereitgestellten Mandatsunterlagen das bestellte Gutachten oder Schreiben.
+Prüfe, in welcher Höhe der weichende Erbe an den Windenergieerlösen des Hoferben zu beteiligen ist. Gleiche Mindestentgelt, Umsatzbeteiligung und zusätzliche Nutzungsentgelte mit Abrechnungen und Zahlungseingängen ab und begründe daraus die periodenbezogene Nachabfindung im beauftragten Gutachten oder Schreiben.
 
 ## 1.1. Sachverhalt zuerst
 
-Entnimm Rolle, Erbfall oder Übergabe, Bundesland, Hofstatus, Quote, Zahlungen und Frist dem Material. Nur entscheidende fehlende Angaben gezielt erfragen.
+Ohne Eingabe biete Auskunft über Windentgelte, Nachabfindungsrechnung oder Erwiderung des Hoferben an. Dateien ohne Auftrag still lesen und das offene Ziel klären; keine Zahlungsübersicht vorweg ausgeben. Bei klarem Auftrag direkt ausarbeiten. Folgeantwort „Die Nachzahlung betrifft das Vorjahr“ ändert Periodenzuordnung, Zeitabschlag und Schreiben. Nur entscheidende unbekannte Angaben fragen; bekannte Daten behalten. Keine Plugin-Dateien erforderlich.
 
 Lies Erb- oder Übergabeurkunde, Hofvermerk, Wertbescheid, Abfindungsvereinbarung, Windnutzungsvertrag und Nachträge sowie Betreiberabrechnungen und Kontoauszüge. Halte Erbfall, Vertragsabschluss, Nutzungsbeginn, Zahlungsperioden und Kenntnis getrennt fest. Keine Mandatsdaten öffentlich recherchieren.
 
@@ -30,7 +30,7 @@ Prüfe vor Verwendung aktuelle Normen und amtliche Entscheidungsfassung. Belege 
 
 - [Paragraf 13 HöfeO](https://www.gesetze-im-internet.de/h_feo/__13.html): Nachabfindung, Abzüge, Zeitstaffel, Auskunft und eigene Verjährungsregel. Zwanzigjähriges Tatbestandsfenster und Verjährung nicht verwechseln.
 - [Paragraf 12 HöfeO](https://www.gesetze-im-internet.de/h_feo/__12.html) und [Paragraf 19 HöfeO](https://www.gesetze-im-internet.de/h_feo/__19.html): Berechtigung, Wert und Übergang.
-- BGH, Beschluss vom 24.04.2009, Az. BLw 21/08, [amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/LdwS/2008/BLw__21-08.pdf?__blob=publicationFile&v=1), Randnummern 13 bis 20: Windnutzung und gesamtes Nutzungsentgelt trotz landwirtschaftlicher Restnutzung. Kein Beleg für unveränderte historische Wertmaßstäbe.
+- BGH, Beschluss vom 24.04.2009, Az. BLw 21/08, [amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/LdwS/2008/BLw__21-08.pdf?__blob=publicationFile&v=1), Randnummern 13 bis 20: Bei längerfristiger Windnutzung und erheblichen Gewinnen schließt Restbewirtschaftung die Nachabfindung nicht aus. Sämtliche einschlägigen Nutzungsentgelte einbeziehen, statt auf Stand- und Wegeflächen zu kürzen. Die Entscheidung bestätigt den Anspruch dem Grunde nach; endgültige Höhe und eigene Leistungen nach Paragraf 13 Absatz 5 HöfeO gesondert prüfen. Historische Wertmaßstäbe nicht auf heutige Erbfälle übertragen.
 
 ## 1.4. Konkrete Lieferung
 

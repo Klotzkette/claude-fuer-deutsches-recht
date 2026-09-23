@@ -1,6 +1,8 @@
 # 1. Sozialgericht: Schnellstart
 
-Arbeite aus neutraler gerichtlicher Sicht. Lies Antrag oder Klage, Ausgangs- und Widerspruchsbescheid, Verwaltungsakte, Zustellnachweise und entscheidende medizinische oder wirtschaftliche Belege. Erstelle keinen Widerspruch für eine Partei und keinen Leistungsbescheid anstelle des Trägers.
+Ohne Eingabe biete „Existenzsicherung im Eilverfahren“, „medizinische Aufklärung“ oder „Bescheid- und Monatsprüfung“ an. Bei bloßen Unterlagen lies diese still und frage nach dem Ziel; keine ungefragte Aktenzusammenfassung. Ein klarer Auftrag führt direkt zum Entwurf, fehlende entscheidende Angaben werden gezielt geklärt. Folgeantworten ändern Leistungszeitraum, Beweisfrage oder Tenor am erreichten Stand. Plugin-Dateien sind nicht vorausgesetzt.
+
+Prüfe die angegriffene Leistungs- oder Beitragsentscheidung und den konkret begehrten gerichtlichen Ausspruch. Lies Antrag oder Klage, Bescheidkette, Zustellnachweise und die entscheidenden medizinischen oder wirtschaftlichen Belege. Begründe aus neutraler gerichtlicher Sicht den bestellten Beschluss, das Urteil oder die noch erforderliche Aufklärungsverfügung, keinen Parteiwiderspruch oder Leistungsbescheid.
 
 ## 1.1. Streitgegenstand und Verfahren
 
@@ -14,7 +16,7 @@ Paragraf 86b Absatz 1 SGG betrifft die Vollziehungswirkung eines angegriffenen V
 
 Anordnungsanspruch und Anordnungsgrund getrennt bewerten. Kontostand, laufende Einnahmen, konkret fällige Ausgaben, Behandlungstermin oder Wohnungssicherungsbedarf mit Datum erfassen. Ein niedriger Kontostand beweist nicht allein alle materiellen Anspruchsvoraussetzungen; ein offener Anspruch beseitigt nicht automatisch jede Dringlichkeit.
 
-Bei nicht rechtzeitig aufklärbarer Lage die grundrechtlichen Folgen und den erforderlichen Prüfmaßstab ausdrücklich untersuchen. Keine endgültige Leistungszuerkennung allein aus einer summarischen Eilprüfung ableiten.
+Bei drohender existenzieller Unterdeckung gilt BVerfG, Beschluss vom 12.05.2005, 1 BvR 569/05, Randnummern 24 bis 30 ([Volltext](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2005/05/rk20050512_1bvr056905.html)): Drohen schwere, später nicht ausgleichbare Nachteile, verlangt Artikel 19 Absatz 4 GG bei Prüfung der Erfolgsaussichten abschließende Aufklärung oder, wenn diese im Eilverfahren nicht möglich ist, eine konkrete Folgenabwägung. Vergangene ungeklärte Einkünfte beweisen keine heutigen Mittel. Aktuelle Bedarfsdeckung ermitteln; weder Anspruchsvoraussetzungen noch Glaubhaftmachung entfallen. Eine vorläufige Leistung nicht als endgültige Bewilligung tenorieren.
 
 ## 1.3. Medizin und Beträge
 
@@ -24,7 +26,9 @@ Bei Geldleistungen monatlich Bedarf, Einkommen, Abzüge, Zahlungen und streitige
 
 ## 1.4. Gerichtliches Ergebnis
 
-Erstelle das bestellte Votum, die Verfügung oder den Entscheidungsentwurf vollständig. Fehlt ein spezieller Ausgabeauftrag, leite aus dem Streitgegenstand und den entscheidenden Tatsachen den sachgerechten gerichtlichen Bearbeitungsschritt ab. Ein Eilbeschluss muss Person, Träger, Leistung, Umfang und Zeitraum klar bestimmen. Kosten und Rechtsmittel nach der konkreten Verfahrensart gesondert prüfen.
+Erstelle das bestellte Votum, die Verfügung oder den Entscheidungsentwurf vollständig. Ein Eilbeschluss muss Person, Träger, Leistung, Umfang und Zeitraum klar bestimmen. Kosten und Rechtsmittel nach der konkreten Verfahrensart gesondert prüfen.
+
+„Das angebliche zweite Konto wurde letztes Jahr geschlossen“ führt zur gezielten Prüfung des Schließungsbelegs und aktuell verfügbarer Mittel, nicht zur erneuten Erhebung aller Lebensumstände. „Heute gingen 300 Euro ein“ verändert die betroffenen Monatsbeträge und die gegenwärtige Unterdeckung; ein unveränderter Eiltenor wäre falsch. Ein später Befund mit rückblickender Aussage verändert dagegen die medizinische Zeitachse, nicht automatisch den Eintritt der Leistungsvoraussetzungen.
 
 Fehlt ein maßgeblicher Befund, frage nach Funktion und Zeitraum; fehlt eine Zahlungsunterlage, benenne den streitigen Monat und Betrag. Liefere die unabhängig tragfähigen Teile vorläufig. Nach der Antwort die medizinische Bewertung, Monatsberechnung oder Eilprüfung aktualisieren und das bestellte Dokument fertigstellen. Weitere entscheidende Fragen sind möglich, bereits geklärte Punkte nicht erneut erheben.
 

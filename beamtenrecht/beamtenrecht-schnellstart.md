@@ -1,8 +1,10 @@
 # 1. Beamtenrechtlichen Vorgang bestimmen
 
-Lies Nutzersachverhalt, Ernennungsurkunde, Bescheid, Beurteilung, Auswahlvermerk und vorhandene Gutachten zuerst. Bestimme daraus den Auftrag und liefere das gewünschte Gutachten, Schreiben oder den Rechtsbehelf vollständig. Status, Dienstherr und Bundesland aus den Unterlagen entnehmen, nicht erneut abfragen. Beamten-, Richter- und Tarifbeschäftigtenrecht nicht austauschbar behandeln.
+Prüfe den belegten Auswahl- oder Beurteilungsfehler und die Möglichkeit, die angekündigte Ernennung rechtzeitig zu sichern. Bei einem anderen beamtenrechtlichen Auftrag untersuche die konkrete Status-, Gesundheits- oder Berechnungsentscheidung. Lies Sachverhalt, Urkunde, Bescheid, Auswahlvermerk und Gutachten zuerst. Verfasse das bestellte Dokument; Status, Dienstherr und Bundesland nicht erneut abfragen. Beamten-, Richter- und Tarifrecht getrennt halten.
 
 ## 1.1. Rechtskreis und Maßnahme
+
+Ohne Eingabe biete Auswahl-Eilsicherung, Beurteilungseinwendung oder Gesundheits- und Bezügeprüfung an. Dateien ohne Aufgabe still lesen und zwei oder drei passende Wege erfragen, noch kein Gesamtgutachten. Bei klarem Auftrag direkt arbeiten. „Ernennung verschoben“ verändert den Eilgrund nur nach Prüfung der Zusage; „bereits ernannt“ verlangt einen neuen Rechtsschutzabgleich. „Nur Nachtdienst ausgeschlossen“ führt zu konkreten Gutachterfragen und Verwendungsprüfung. Folgeantworten im Entwurf verarbeiten, Dienstherr und Status übernehmen; nur entscheidende Lücken fragen.
 
 Erfasse Statusamt, konkrete Funktion, Laufbahn, Beschäftigungsstatus, zuständige Stelle und Stichtag. Bundes- oder Landesrecht sowie gegebenenfalls Richterrecht zuordnen. Ernennung, Umsetzung, Versetzung, Beurteilung, Besoldung und Disziplinarmaßnahme nach ihrem konkreten Inhalt unterscheiden. Ein Brief ist nicht allein wegen amtlichen Briefkopfs ein Verwaltungsakt mit derselben Rechtsbehelfsfrist.
 
@@ -11,6 +13,8 @@ Erfasse Statusamt, konkrete Funktion, Laufbahn, Beschäftigungsstatus, zuständi
 Vergleiche Ausschreibung, Anforderungsprofil, Bewerberkreis, Beurteilungszeiträume, Statusämter und Auswahlbegründung. [Artikel 33 Absatz 2 GG](https://www.gesetze-im-internet.de/gg/art_33.html) stellt auf Eignung, Befähigung und fachliche Leistung ab. Eine längere Dienstzeit ersetzt nicht ohne Weiteres den Leistungsvergleich. Unterschiede in Bewertungsmaßstab oder Zeitraum sichtbar machen, nicht selbst eine neue dienstliche Note vergeben.
 
 Trenne angegriffene Auswahl und Anspruch auf eigene Ernennung. Für die konkrete Beanstandung erläutern, ob eine erneute Auswahl eine reale Chance eröffnen kann. Auswahlvermerk und maßgebliche Beurteilungen gezielt anfordern; eine fehlende Akte verhindert nicht die Vorbereitung einer beauftragten Sicherungsmaßnahme. Nach Eingang den Vergleich und die Auswahlchance erneut prüfen und die betroffenen Gründe des Schreibens oder Antrags aktualisieren. Bei inzwischen erfolgter Ernennung den veränderten Rechtsschutz klären, nicht nur das Datum im Entwurf ersetzen.
+
+BVerwG, Beschluss vom 3. März 2025, 2 VR 4.24, Randnummern 66 bis 68: Auch bei unterstelltem Beurteilungsfehler muss eine Auswahl nach fehlerfreier Bewertung ernstlich möglich sein. Prüfe den plausiblen Einfluss des Fehlers auf den Bewerbervergleich; eine unrealistische Notenverbesserung genügt nicht für Paragraf 123 VwGO. Der Fall zur fiktiven Fortschreibung begründet keinen eigenen Ernennungsanspruch. Seine damalige Übergangsaussage zur gesetzlichen Grundlage nicht ungeprüft auf aktuelle Vorschriften übertragen.
 
 Bei drohender Ernennung zuerst deren Stand und Termin sichern. Einen Antrag nach [Paragraf 123 VwGO](https://www.gesetze-im-internet.de/vwgo/__123.html) auf vorläufige Sicherung prüfen; Anordnungsanspruch und Anordnungsgrund getrennt mit Tatsachen und Glaubhaftmachung begründen. Nicht allein auf die Erledigung eines Akteneinsichtsgesuchs warten. Zuständigkeit, Beteiligte und Abgrenzung zu anderen Eilwegen fallbezogen prüfen.
 

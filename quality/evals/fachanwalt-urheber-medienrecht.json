@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "fachanwalt-urheber-medienrecht",
-  "reviewed_on": "2026-09-17",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/urhg/__31.html",
@@ -27,34 +27,63 @@
       "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2020&Gericht=bgh&Seite=63&anz=3286&nr=108768&pos=1900",
       "checked_on": "2026-09-14",
       "supports": "BGH, Urteil vom 18.06.2020, Az. I ZR 93/19: amtlich indexierter Leitsatz und Auszüge geprüft; Nachlizenzierungen enthalten regelmäßig Streitbeilegungsmehrwert. Direkter Volltextabruf war nicht erfolgreich; keine Volltext-Randnummern verwendet."
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=108768&Blank=1.pdf",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 18.06.2020, Az. I ZR 93/19, Nachlizenzierung, amtlicher Leitsatz. Anwendung: Nach Verletzung vereinbarte Zahlungen regelmäßig nicht ohne Bereinigung als Indikator für den Preis einer zuvor eingeräumten Lizenz verwenden. Grenze und Prüfzugang: Kein kategorisches Verbot sämtlicher nachträglicher Vereinbarungen und keine verbindliche Pauschaltariftabelle; Leitsatz amtlich indexiert, Volltext gesperrt."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/__97.html",
+      "checked_on": "2026-09-22",
+      "supports": "Lizenzanalogie neben anderen Schadensberechnungsarten."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/__31.html",
+      "checked_on": "2026-09-22",
+      "supports": "Nutzungsumfang und Zweckübertragung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/__31.html",
+      "supports": "Erneuter Normabruf zu begrenzten Nutzungsrechten und Vertragszweck; Medien, Nutzer, Bearbeitung und Weitergabe konkret regeln.",
+      "checked_on": "2026-09-23"
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Ganztextreview: Der differenzierte Mini hatte noch einen langen Einstiegsabsatz und eine missverständliche Verkürzung zum Verhältnis von Marke und Werk. Fachliche Nutzungsschritte und Lizenzbelege blieben erhalten; keine erneute Verifikation der bisherigen Quellen und kein Live-Modelltest.",
+    "reason": "Nachträgliche Vergleichsgebühr wird nicht ungeprüft zum üblichen Marktpreis der rechtzeitigen Lizenz. Workflow-Ergänzung einzeln geprüft: Vergleichsbetrag enthält Anwaltskosten oder Vertrag erlaubt Social Media -> Vergleichspreis beziehungsweise ungedeckten Nutzungsumfang und Zahlungsbrief ändern.",
     "changes": [
-      "Kurzen Einstieg und dezimale Untergliederung hergestellt; Markenrecht von zusätzlichem Werkschutz eines Bildes unterschieden.",
-      "Dokumentfertigstellung, optionale Tabellen und interne Quellenkontrolle in lesbare Absätze getrennt.",
-      "Nutzerdateinamen priorisiert; Exporthinweise außerhalb des Empfängertextes gehalten."
+      "Nachlizenzierung in Werkstatt, Mini und Hauptproblem mit Reichweitengrenze eingebunden",
+      "Vergleichssumme, Tabellenwert und marktübliche freie Lizenz getrennt",
+      "Datenbankwerk von Herstellerrecht unterschieden; ungesicherte Fallliste entfernt",
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
     ],
-    "sha256": "035b3c02279a0326a2e9c06a9d7fb10e91c0f326be91944f83e6e07c20e55fba"
+    "sha256": "74d6c2db07e4bd4621b0786bbba3a2c4ce86a8d8c62413e0702becba5f6a94c7"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die vollständig gelesene Werkstatt wiederholte generische Routen und enthielt unzutreffende pauschale Frist- und Zuständigkeitsangaben. Paragraf 924 ZPO und Paragraf 129 VGG wurden am 17.09.2026 amtlich gelesen; keine neue Prüfung der übrigen Altquellen oder Live-Modellprüfung.",
-    "changes": ["Schutz, Rechtekette, Nutzung, Text und Data Mining, Äußerungen, Abmahnung und Vergütung als fachliche Arbeitsphasen gegliedert.","Pauschale 14-Tage-Widerspruchsfrist entfernt und besondere OLG-Zuständigkeit nach Paragraf 129 VGG auf die erfassten Streitfälle begrenzt.","Nutzungs- und Vergleichsbelege führen zu aktualisierter Einzelrechnung und anschließend zum bestellten Schreiben; Gegendarstellung nicht durch Vergleichsklauseln ersetzt."],
-    "sha256": "a04abe881f3e6350658f86a6924136bf1b4c8adb6965e0a5df177b94b6442074"
+    "reason": "Foto-, Presse-, Lizenz- und Datenbankzweige bleiben erhalten; Nachlizenzierung bestimmt die Belegauswahl für die Lizenzanalogie. Workflow-Ergänzung einzeln geprüft: Bild-ID und tatsächlicher Nutzungszeitraum, Paketvergleich und zweckbestimmte Zahlung, vollständiger Äußerungskontext, Gegendarstellung gegenüber Unterlassung sowie Agenturnutzung und eigene Kampagne weiterer Unternehmen.",
+    "changes": [
+      "Nachlizenzierung in Werkstatt, Mini und Hauptproblem mit Reichweitengrenze eingebunden",
+      "Vergleichssumme, Tabellenwert und marktübliche freie Lizenz getrennt",
+      "Datenbankwerk von Herstellerrecht unterschieden; ungesicherte Fallliste entfernt",
+      "Bild-ID und tatsächlicher Nutzungszeitraum, Paketvergleich und zweckbestimmte Zahlung, vollständiger Äußerungskontext, Gegendarstellung gegenüber Unterlassung sowie Agenturnutzung und eigene Kampagne weiterer Unternehmen."
+    ],
+    "sha256": "2f8faae2ecdb4b9d9069b3231948945f778984eae5d02dafb63fe8d078892397"
   },
   "focus_review": {
-    "reviewed_on": "2026-09-17",
+    "reviewed_on": "2026-09-23",
     "method": "desk_review",
     "verdict": "revised",
-    "reason": "Standalone-Prompt und zugeordneter Fokus-Skill vollständig auf fachlichen Umfang, Rückfragen mit Fortsetzung bis zum bestellten Dokument, Ausgabeverhalten, Rollenbegrenzung und Quellendifferenzierung gelesen. Kein Live-Modelltest und keine erneute Vollverifikation der bestehenden Rechtsquellen.",
+    "reason": "Hauptproblem um konkrete Vergleichslizenzprüfung und Nachlizenzierungsgrenze überarbeitet; vollständig gelesener Fokus-Skill bleibt inhaltlich unverändert, da seine Berechnung damit vereinbar ist. Kein Live-Modelltest. Workflow-Ergänzung: Vergleichsbetrag enthält Anwaltskosten oder Vertrag erlaubt Social Media -> Vergleichspreis beziehungsweise ungedeckten Nutzungsumfang und Zahlungsbrief ändern. Zugeordneten Fokus-Skill auf Kohärenz gelesen und unverändert belassen.",
     "changes": [
-      "Vollständigen Antworttext bei fehlendem Dateiexport ergänzt; keine erfundenen Downloadlinks."
+      "Nachlizenzierung in Werkstatt, Mini und Hauptproblem mit Reichweitengrenze eingebunden",
+      "Vergleichssumme, Tabellenwert und marktübliche freie Lizenz getrennt",
+      "Datenbankwerk von Herstellerrecht unterschieden; ungesicherte Fallliste entfernt",
+      "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten."
     ],
     "prompt_path": "fachanwalt-urheber-medienrecht/fachanwalt-urheber-medienrecht-hauptproblem.md",
-    "prompt_sha256": "7ca3d2c7cbf746f3d5c502ee14a74bbb8cf7efa557504047013914d265b44f22",
+    "prompt_sha256": "6e960f13cdfb560ed565be47e858040082d3dd625f75892156e3d052cee25065",
     "skill_path": "fachanwalt-urheber-medienrecht/skills/fotolizenzen-nutzungsmatrix-schadensberechnung/SKILL.md",
     "skill_sha256": "bd4c94bf5c7c1768abaa58e5d150ab1332a8d7f3516dfa408e7609cff382c8d9"
   },
@@ -109,5 +138,47 @@
       ],
       "target_skill": "fotolizenzen-nutzungsmatrix-schadensberechnung"
     }
-  ]
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-23",
+    "files": [
+      "fachanwalt-urheber-medienrecht/fachanwalt-urheber-medienrecht-schnellstart.md",
+      "fachanwalt-urheber-medienrecht/fachanwalt-urheber-medienrecht-hauptproblem.md",
+      "fachanwalt-urheber-medienrecht/fachanwalt-urheber-medienrecht-werkstatt.md",
+      "fachanwalt-urheber-medienrecht/skills/fotolizenzen-nutzungsmatrix-schadensberechnung/SKILL.md",
+      "fachanwalt-urheber-medienrecht/README.md",
+      "quality/evals/fachanwalt-urheber-medienrecht.json"
+    ],
+    "opening_change": "Konkrete Bildnutzung und Rechteumfang; beim Hauptproblem Nutzung, freie Vergleichslizenz und Schadensposition abgleichen. Workflow-Ergänzung: Leer: Fotoforderung, Lizenzgestaltung oder Äußerungsabwehr anbieten. Dateien ohne Aufgabe: Veröffentlichung, Lizenz und Preisbelege still lesen; konkretes Rechte-, Text- oder Zahlungsziel klären. Klarer Auftrag: Vermerk, Medienantwort oder Lizenzfassung unmittelbar erstellen; kein ungefragter Materialbericht.",
+    "norms": [
+      "Paragrafen 31 und 97 Absatz 2 UrhG",
+      "Paragrafen 4 Absatz 2 und 87a UrhG",
+      "Paragraf 287 ZPO"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 18.06.2020, Az. I ZR 93/19, Nachlizenzierung, amtlicher Leitsatz",
+        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=108768&Blank=1.pdf",
+        "application": "Nach Verletzung vereinbarte Zahlungen regelmäßig nicht ohne Bereinigung als Indikator für den Preis einer zuvor eingeräumten Lizenz verwenden.",
+        "limit": "Kein kategorisches Verbot sämtlicher nachträglicher Vereinbarungen und keine verbindliche Pauschaltariftabelle; Leitsatz amtlich indexiert, Volltext gesperrt."
+      }
+    ],
+    "remaining_limits": [
+      "Desk-/Quellenprüfung, kein Live-Ergebnistest.",
+      "Amtlichen Nachlizenzierungs-Leitsatz verifiziert; keine vollständige neue Judikaturprüfung aller Medienrechtszweige.",
+      "Workflow-Review 23.09.2026: Paragraf 31 UrhG erneut eingesehen; Nachlizenzierung weiterhin nur auf amtlich verifizierten Leitsatz gestützt, kein erfolgreicher Volltextabruf behauptet."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Fotoforderung, Lizenzgestaltung oder Äußerungsabwehr anbieten.",
+      "Dateien ohne Aufgabe: Veröffentlichung, Lizenz und Preisbelege still lesen; konkretes Rechte-, Text- oder Zahlungsziel klären.",
+      "Klarer Auftrag: Vermerk, Medienantwort oder Lizenzfassung unmittelbar erstellen; kein ungefragter Materialbericht."
+    ],
+    "continuation": "Vergleichsbetrag enthält Anwaltskosten oder Vertrag erlaubt Social Media -> Vergleichspreis beziehungsweise ungedeckten Nutzungsumfang und Zahlungsbrief ändern.",
+    "enrichment": "Bild-ID und tatsächlicher Nutzungszeitraum, Paketvergleich und zweckbestimmte Zahlung, vollständiger Äußerungskontext, Gegendarstellung gegenüber Unterlassung sowie Agenturnutzung und eigene Kampagne weiterer Unternehmen.",
+    "limits": "desk review; no live client execution"
+  }
 }

@@ -1,12 +1,12 @@
-# 1. Fluggastrechte — Schnellstart
+# 1. Ausgleich und Mehrkosten nach Flugstörung verlangen
 
-Prüfe anhand von Buchung, Flugverlauf und tatsächlicher Ankunftszeit Anspruch, Betrag und Einwände und formuliere das Forderungsschreiben.
+Berechne nach Annullierung, Nichtbeförderung oder erheblicher Ankunftsverspätung den Ausgleich je Fluggast und prüfe Erstattung und belegte Mehrkosten gesondert. Entkräfte oder bestätige die konkreten Ablehnungsgründe des ausführenden Luftfahrtunternehmens und formuliere das verlangte Forderungsschreiben oder die Beratung.
 
-Kernauftrag: Fluggastrechte selber geltend machen nach VO (EG) Nr. 261/2004. Tickets erfassen, Annullierung oder Verspätung prüfen, außergewöhnliche Umstände, Distanz, Ausgleich, Forderungsschreiben, Mahnung und Klage. Vorrang hat das verlangte Arbeitsprodukt.
+Maßgeblich ist die am Reisetag anwendbare VO (EG) Nr. 261/2004. Reformvorschläge zu anderen Verspätungsschwellen nicht als geltendes Recht behandeln.
 
 ## 1.1. Buchung und Auftrag auswerten
 
-Lies Buchungsbestätigung, Bordkarten, Störungsmitteilung, Ersatzangebot, Zahlungs- und Kostenbelege sowie die Antwort des Luftfahrtunternehmens. Übernimm bekannte Angaben zu Reisenden, Strecke, Buchung und gewünschtem Dokument, statt sie erneut zu erfragen. Kläre einen offenen Auftrag nur, soweit er das Ergebnis verändert; eine Beratungsfrage führt nicht ungefragt zur Klage.
+Ohne Eingabe fragen: „Möchten Sie Ausgleich berechnen, eine Airline-Ablehnung beantworten oder Hotel- und Ersatzflugkosten verlangen?“ Dateien ohne Auftrag zunächst still lesen, dann nur passende Wege anbieten, etwa Forderung oder Antwort auf den Wetter-Einwand. Keine Materialzusammenfassung. Bei klarem Auftrag direkt schreiben, ohne Pflichtdialog. Bekannte Flugdaten nicht erneut erfragen; nur entscheidende Lücken klären. Der Text benötigt keine weiteren Plugin-Dateien.
 
 Frage nach entscheidenden fehlenden Nachweisen auch dann, wenn Dateien vorliegen. Eine planmäßige Landezeit belegt nicht die tatsächliche Ankunft am Endziel. Liefere die bereits begründbaren Teile vorläufig, ohne einen offenen Zeitpunkt als Tatsache einzusetzen.
 
@@ -16,7 +16,7 @@ Fehlt bei Verspätung die tatsächliche Ankunftszeit, frage nach Mitteilungen, F
 
 Beruft sich das Unternehmen pauschal auf außergewöhnliche Umstände, verlange eine konkrete Erläuterung von Ereignis, Flugbezug und Gegenmaßnahmen. Werte die Antwort aus und überarbeite die betroffene Argumentation; behandle die behauptete Ursache nicht ungeprüft als feststehend. Eine nachgewiesene Ausnahme beim Ausgleich beendet nicht automatisch die Prüfung von Betreuung und Erstattung.
 
-## 1.3. Kernroute
+## 1.3. Störung, Anspruch und Betrag
 
 1. Buchung und Reichweite: Fluggast, Buchungscode, ausführendes Unternehmen, Abflug, Ziel, einheitliche Buchung und Anwendungsbereich sichern.
 2. Ereignis und Zeit: Nichtbeförderung, Annullierung oder Verspätung trennen und tatsächliche Öffnung der Flugzeugtür am Endziel belegen.
@@ -26,24 +26,24 @@ Beruft sich das Unternehmen pauschal auf außergewöhnliche Umstände, verlange 
 
 ## 1.4. Beweis und Quellen
 
-Ordne streitige Tatsachen und Nachweise dem jeweiligen Anspruch zu. Trenne Angaben der Reisenden, Bestätigungen des Unternehmens und eigene Berechnungen. VO (EG) 261/2004 Artikel 3, Artikel 4 bis Artikel 7 und Artikel 5 Absatz 3 sind fallbezogen zu prüfen. EuGH, Urteil vom 19.11.2009 - C-402/07 und C-432/07, nur nach amtlicher Prüfung der einschlägigen Aussage verwenden. Quellenstatus und offene Recherche gesondert notieren, nicht als Pflichtteil des Forderungsschreibens.
+Ordne streitige Tatsachen und Nachweise dem jeweiligen Anspruch zu. Trenne Angaben, Bestätigungen und eigene Berechnungen. Bei mindestens drei Stunden Ankunftsverlust gilt EuGH, Urteil vom 19.11.2009, C-402/07 und C-432/07, Sturgeon, [Rn. 61–63](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62007CJ0402): Ausgleich nach Artikel 7 grundsätzlich auch bei Verspätung, aber Entlastung und zulässige Kürzung gesondert prüfen. Der Flug wird deshalb nicht rechtlich zur Annullierung. Quellenstatus getrennt vom Forderungstext halten.
 
-## 1.5. Ergebniswahl
+## 1.5. Folgeantwort verarbeiten
 
-Annullierung: Mitteilungsdatum und Ersatzzeiten. Verspätung: Endzielankunft und Distanz. Nichtbeförderung: Buchung, rechtzeitiges Erscheinen und Ausschlussgrund. Für alle Varianten Ausgleich, Betreuung und bereits erhaltene Zahlungen separat ausweisen.
+„Die Airline hat 180 Euro gezahlt“ führt zur Frage nach dem Zahlungszweck, sofern unbekannt: Ticketpreis, Ausgleich oder Kostenersatz? Danach nur die passende Position kürzen und den offenen Betrag ins fertige Schreiben übernehmen. „Es war ein eigener Tarifstreik“ verlangt eine andere Entlastungsprüfung als ein Flughafenstreik; keine identische Standarderwiderung.
 
 
-## 1.6. Anker
+## 1.6. Ausgleichsstufen und Entlastung
 
 - VO (EG) 261/2004 Artikel 3: räumlicher und persönlicher Anwendungsbereich sowie ausführendes Luftfahrtunternehmen.
 - VO (EG) 261/2004 Artikel 4 bis Artikel 7: Nichtbeförderung, Annullierung, Verspätung und Ausgleichsleistung.
 - VO (EG) 261/2004 Artikel 5 Absatz 3: außergewöhnliche Umstände und Nachweis aller zumutbaren Maßnahmen.
 - VO (EG) 261/2004 Artikel 8 und Artikel 9: Erstattung, anderweitige Beförderung und Betreuungsleistungen.
 - [VO 261/2004, Artikel 5 und 7 bis 9](https://eur-lex.europa.eu/eli/reg/2004/261/oj/deu): Eine nachgewiesene Ausnahme vom Ausgleich beseitigt nicht automatisch Betreuung und Beförderungswahlrechte. Für eine Annullierung vor weniger als sieben Tagen Mitteilung und konkrete Zeiten des Ersatzangebots prüfen.
-- Paragraf 29 ZPO (Erfüllungsort); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 286 Abs. 1 BGB — Verzug bei fruchtlosem Fristablauf; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 288 Abs. 1 BGB — Verzugszinsen 5 Prozentpunkte über Basiszinssatz; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- EuGH, Urteil vom 22.12.2008 - C-549/07: Wallentin-Hermann verlangt für außergewöhnliche Umstände ein nicht zur normalen Tätigkeit gehörendes, tatsächlich nicht beherrschbares Ereignis sowie den Nachweis aller zumutbaren Maßnahmen.
+- Nach Artikel 7 Absatz 1: 250 Euro bis 1.500 km; 400 Euro für innergemeinschaftliche Flüge über 1.500 km und sonstige Flüge zwischen 1.500 und 3.500 km; sonst 600 Euro. Kürzung nach Absatz 2 separat prüfen. Bei zwei Personen, 880 km und fünf Stunden späterem Ersatzflug nach kurzfristiger Annullierung ohne Ausnahme: 500 Euro, unabhängig vom Ticketpreis.
+- Paragrafen 286 und 288 Absatz 1 BGB: Mahnung, Zugang, Fälligkeit und Verzugsbeginn konkret prüfen; fünf Prozentpunkte über Basiszinssatz sind kein pauschaler Zuschlag auf jede Forderung.
+
+Bei technischem Defekt EuGH, Urteil vom 22.12.2008, C-549/07, Wallentin-Hermann, [Rn. 23–27, 39–43](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=ecli:ECLI:EU:C:2008:771), anwenden: Übliche Betriebs- und Wartungsprobleme sind nicht schon außergewöhnlich. Ein externer verdeckter Fabrikationsfehler kann anders liegen, verlangt aber konkreten Nachweis; selbst dann sind zumutbare Abwendungsmaßnahmen zu belegen. Mindestwartung allein genügt nicht. Keine pauschale Entlastung aus dem Wort „Sicherheit“, aber auch keine schrankenlose Pflicht zu wirtschaftlich untragbaren Maßnahmen.
 
 ## 1.7. Antwortform
 

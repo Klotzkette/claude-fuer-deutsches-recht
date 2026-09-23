@@ -1,23 +1,49 @@
 {
   "schema_version": 1,
   "plugin": "grundsteuerrecht",
-  "reviewed_on": "2026-09-17",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/ao_1977/__351.html",
       "checked_on": "2026-09-14",
       "supports": "Absatz 2: Grundlagenentscheidungen im Grundlagenverfahren angreifen, nicht im Folgebescheid."
+    },
+    {
+      "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202620006/",
+      "checked_on": "2026-09-22",
+      "supports": "BFH, Urteil vom 12.11.2025, II R 3/25, Rn. 31–34: Bei Einwand gegen den Bodenrichtwert konkrete gesetzliche, methodische oder verfahrensbezogene Fehler benennen; ohne solche Anhaltspunkte darf das Finanzgericht den Richtwert übernehmen. Bahntrasse und niedrige Ist-Miete genügen nicht automatisch. Grenze: Bundesmodell, keine Bestätigung jedes Einzelbescheids oder aller Landesmodelle; niedrigerer gemeiner Wert ist ein gesonderter Nachweisweg."
+    },
+    {
+      "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202410095/",
+      "checked_on": "2026-09-22",
+      "supports": "BFH, Beschluss vom 27.05.2024, II B 78/23 (AdV): Substantiiert desolater Gebäudezustand kann die Möglichkeit eines niedrigeren Werts der gesamten Einheit und damit AdV tragen; konkrete Zustands- und Stichtagsbelege verlangen. Grenze: Summarische Prüfung vor Paragraf 220 Absatz 2 BewG, kein genereller Reformstopp oder endgültiger Wertnachweis."
+    },
+    {
+      "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202610124/",
+      "checked_on": "2026-09-22",
+      "supports": "BFH, Urteil vom 22.04.2026, II R 26/24: Im baden-württembergischen Bodenwertmodell ist abweichende Grundstückstiefe kein automatischer Abschlag; gesonderten Gutachtenweg nach Paragraf 38 Absatz 4 LGrStG mit mehr als 30 Prozent Abweichung prüfen. Grenze: Nicht auf die 40-Prozent-Regel des Bundesmodells übertragen. Erst in der Revision vorgebrachte neue Werttatsachen tragen grundsätzlich keine Tatsachenkorrektur."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bewg/__220.html",
+      "checked_on": "2026-09-22",
+      "supports": "Absatz 2: Bundesmodell-Nachweis erheblich niedrigeren gemeinen Werts; mindestens 40 Prozent Überschreitung bezogen auf gemeinen Wert, qualifizierter Gutachten-/Kaufpreisweg."
+    },
+    {
+      "url": "https://www.bundesfinanzhof.de/de/anhaengige-verfahren/im-fokus-grundsteuer/",
+      "checked_on": "2026-09-22",
+      "supports": "Amtliche Übersicht: Verfassungsbeschwerden zum Bundesmodell und zu Baden-Württemberg anhängig, nicht stattgebend entschieden."
     }
   ],
   "mini_review": {
-    "verdict": "retained",
-    "reason": "Vollständige Textprüfung am 18. September 2026: Der Schnellstart führt bereits von Bescheidstufe und Bekanntgabe über Grundstücksbelege zur getrennten Rechnung und nachgereichten Endfassung. Keine weitere Textänderung erforderlich.",
+    "verdict": "revised",
+    "reason": "Individuell durchgelesener Kurzprompt mit unverändertem fachlichem Bescheid- und Quellenumfang; eigenständige Einstiege und Antwortfortsetzung ergänzt. Aktuelle Prüfung ausschließlich desk_review, keine Live-Ausführung.",
     "changes": [
-      "Getrennte Behandlung von Wert, Messbetrag, Jahressteuer und Zahlungsstand beibehalten.",
-      "Historischen Zeitstand, Landesmodell und Fortsetzung nach Teilungs- oder Katasterbeleg erhalten.",
-      "Vorhandenen Quellenprüfstand nicht als neu bestätigt ausgegeben."
+      "II R 3/25 an einen konkreten Ermittlungs- oder Methodenfehler des Bodenrichtwerts gebunden statt pauschaler Verfassungsrüge.",
+      "II B 78/23 und II R 26/24 mit Verfahrensstufe, Gebäudesubstanz und Modellgrenzen erklärt.",
+      "Amtlichen Stand anhängiger Verfassungsbeschwerden geprüft und nicht als erfolgreiche Entscheidung dargestellt.",
+      "Eigenständige Starts und fachbezogene Antwortfortsetzung ergänzt."
     ],
-    "sha256": "00d1253ee96ea9a37c0eb8149035237f4bc144412026f99304b0a8cd0bf89a9e"
+    "sha256": "21726e9b7270872aa82a18f616bd81719d33ecffb2915f48f06ff7647e1f9c3b"
   },
   "selection": {
     "positive": [
@@ -65,12 +91,66 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Vollständige Werkstattprüfung am 18. September 2026: Die Abschnitte 1 bis 16 enthalten einen eigenständigen Grundsteuerablauf. Der angehängte Routenblock wiederholte ihn vollständig und verlangte erneut Zusatzprodukte; Quellenhinweise waren teilweise noch dem Außenbrief zugeordnet.",
+    "reason": "Alle Grundsteuerwege bleiben erhalten; Richtwertangriff, niedrigerer gemeiner Wert, historisches Eilverfahren und Baden-Württemberg werden rechtlich getrennt. Individuelle Text- und Quellenprüfung, kein Live-Modelltest.",
     "changes": [
-      "Doppelten Schlussblock entfernt; sämtliche dortigen Grundsteuerregeln verbleiben in den fachlichen Hauptabschnitten.",
-      "Entscheidungsprüfung als Arbeitsprüfung statt verpflichtender Fallkarten-Ausgabe formuliert.",
-      "Quellenlücken und Freigabevermerke der getrennten Arbeitsnotiz zugeordnet; materielle Unsicherheit in der Empfehlung nicht verschwiegen."
+      "II R 3/25 an einen konkreten Ermittlungs- oder Methodenfehler des Bodenrichtwerts gebunden statt pauschaler Verfassungsrüge.",
+      "II B 78/23 und II R 26/24 mit Verfahrensstufe, Gebäudesubstanz und Modellgrenzen erklärt.",
+      "Amtlichen Stand anhängiger Verfassungsbeschwerden geprüft und nicht als erfolgreiche Entscheidung dargestellt.",
+      "Flächengrößen und richtige Bescheidstufe, Stichtagsbezug eines Kaufpreises, Zahlungszuordnung, begrenzte Aussetzung und unterschriftsreifer Antrag."
     ],
-    "sha256": "1fa1f36a74cb9f42615b275811cb00ccad7ecd9ce463d3cd668f3ab3407f9e40"
+    "sha256": "15c01429aa9f81d91515ee438ebe9dc1926a73a0c5aa66916a609dca38460f33"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "grundsteuerrecht/grundsteuerrecht-schnellstart.md",
+      "grundsteuerrecht/grundsteuerrecht-werkstatt.md",
+      "grundsteuerrecht/README.md",
+      "quality/evals/grundsteuerrecht.json"
+    ],
+    "opening_change": "Flurstück, Miteigentumsanteil, Fläche und Bewertung mit der jeweiligen Bescheidstufe abgleichen.",
+    "norms": [
+      "Paragrafen 220 Absatz 2 und 247 BewG",
+      "Paragraf 196 BauGB",
+      "Paragrafen 351 Absatz 2, 361 und 363 AO",
+      "Paragraf 38 Absatz 4 LGrStG Baden-Württemberg"
+    ],
+    "decisions": [
+      {
+        "citation": "BFH, Urteil vom 12.11.2025, II R 3/25, Rn. 31–34",
+        "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202620006/",
+        "application": "Bei Einwand gegen den Bodenrichtwert konkrete gesetzliche, methodische oder verfahrensbezogene Fehler benennen; ohne solche Anhaltspunkte darf das Finanzgericht den Richtwert übernehmen. Bahntrasse und niedrige Ist-Miete genügen nicht automatisch.",
+        "limit": "Bundesmodell, keine Bestätigung jedes Einzelbescheids oder aller Landesmodelle; niedrigerer gemeiner Wert ist ein gesonderter Nachweisweg."
+      },
+      {
+        "citation": "BFH, Beschluss vom 27.05.2024, II B 78/23 (AdV)",
+        "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202410095/",
+        "application": "Substantiiert desolater Gebäudezustand kann die Möglichkeit eines niedrigeren Werts der gesamten Einheit und damit AdV tragen; konkrete Zustands- und Stichtagsbelege verlangen.",
+        "limit": "Summarische Prüfung vor Paragraf 220 Absatz 2 BewG, kein genereller Reformstopp oder endgültiger Wertnachweis."
+      },
+      {
+        "citation": "BFH, Urteil vom 22.04.2026, II R 26/24",
+        "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202610124/",
+        "application": "Im baden-württembergischen Bodenwertmodell ist abweichende Grundstückstiefe kein automatischer Abschlag; gesonderten Gutachtenweg nach Paragraf 38 Absatz 4 LGrStG mit mehr als 30 Prozent Abweichung prüfen.",
+        "limit": "Nicht auf die 40-Prozent-Regel des Bundesmodells übertragen. Erst in der Revision vorgebrachte neue Werttatsachen tragen grundsätzlich keine Tatsachenkorrektur."
+      }
+    ],
+    "remaining_limits": [
+      "Redaktionelle Akten- und Quellenprüfung, kein Live-Client- oder Modelltest.",
+      "Nicht alle örtlichen Hebesätze oder Landesmodelle neu verifiziert; anhängige Beschwerden entscheiden die materielle Frage nicht. Keine neue Vollprüfung der AO-Bekanntgaberegeln.",
+      "Workflow-Ergänzung am 2026-09-23: individuelle Textprüfung, keine erneute Gesamtverifikation der bestehenden Entscheidungsanker; deren dokumentierte Quellen- und Zugriffsgrenzen bleiben bestehen."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Bescheidzuordnung, Flächenkorrektur oder Zahlungs-/Eilfrage anbieten.",
+      "Bescheide still lesen und zwei passende Korrekturwege anbieten.",
+      "Bestellten Antrag oder Mandantenbrief direkt ausarbeiten."
+    ],
+    "continuation": "Teilungserklärung -> betroffenen Flächenansatz und Antrag; Aussetzungsbeschluss -> Zahlungsabschnitt; Zugang -> konkrete Frist ändern.",
+    "enrichment": "Flächengrößen und richtige Bescheidstufe, Stichtagsbezug eines Kaufpreises, Zahlungszuordnung, begrenzte Aussetzung und unterschriftsreifer Antrag.",
+    "limits": "desk review; no live client execution"
   }
 }

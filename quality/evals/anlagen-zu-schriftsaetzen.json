@@ -1,16 +1,160 @@
 {
-  "schema_version": 1, "plugin": "anlagen-zu-schriftsaetzen", "reviewed_on": "2026-09-17",
+  "schema_version": 1,
+  "plugin": "anlagen-zu-schriftsaetzen",
+  "reviewed_on": "2026-09-23",
   "sources": [
-    {"url": "https://www.gesetze-im-internet.de/zpo/__130a.html", "checked_on": "2026-09-14", "supports": "Signaturalternativen, Ausnahme für Anlagen sowie Eingang und technische Eignung elektronischer Dokumente."},
-    {"url": "https://www.gesetze-im-internet.de/zpo/__130d.html", "checked_on": "2026-09-14", "supports": "Vorübergehende technische Unmöglichkeit als eigener Ersatzeinreichungsfall."},
-    {"url": "https://www.berlin.de/gerichte/arbeitsgericht/service/elektronischer-rechtsverkehr-erv/was-ist-bei-den-elektronischen-dokumenten-zu-beachten/", "checked_on": "2026-09-14", "supports": "Amtliche Erläuterung zu 90 Zeichen Dateinamenlänge, 1000 Dateien und 200 MB nach ERVB 2025."}
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__130a.html",
+      "checked_on": "2026-09-14",
+      "supports": "Signaturalternativen, Ausnahme für Anlagen sowie Eingang und technische Eignung elektronischer Dokumente."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__130d.html",
+      "checked_on": "2026-09-14",
+      "supports": "Vorübergehende technische Unmöglichkeit als eigener Ersatzeinreichungsfall."
+    },
+    {
+      "url": "https://www.berlin.de/gerichte/arbeitsgericht/service/elektronischer-rechtsverkehr-erv/was-ist-bei-den-elektronischen-dokumenten-zu-beachten/",
+      "checked_on": "2026-09-14",
+      "supports": "Amtliche Erläuterung zu 90 Zeichen Dateinamenlänge, 1000 Dateien und 200 MB nach ERVB 2025."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__130a.html",
+      "checked_on": "2026-09-22",
+      "supports": "Amtlichen Text zu Paragraf 130a Absatz 3 und 5 ZPO gelesen; Bezug: Anlagenreferenzen mit richtigen Belegfassungen abgleichen und nummerierte Versanddateien herstellen. Keine vollständige neue Verifikation sämtlicher weiterer Normen des Plugins."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/7-abr-23-23/",
+      "checked_on": "2026-09-22",
+      "supports": "BAG, Beschluss vom 22.01.2025, 7 ABR 23/23: Bei Mitarbeiter-Versand qualifizierte Signatur der verantwortenden Person prüfen; bei widersprüchlichem Prüfvermerk Originaldatei und Signatur technisch klären. Volltext Rn. 33 bis 36 gelesen; arbeitsgerichtlicher Fall mit entsprechendem Formweg. Negativer Prüfvermerk ist keine unwiderlegliche Vermutung, gewöhnliche beigefügte Anlagen brauchen keine eigene Signatur."
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2023-3-21&Gericht=bgh&anz=20&nr=133514&pos=10",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Beschluss vom 21.03.2023, VIII ZB 80/22: amtlicher Leitsatz zur Ausgangskontrolle gelesen. Eingangsbestätigung anhand sinnvollen Dateinamens dem tatsächlich fristgebundenen Schriftsatz zuordnen; Anlagenbeleg ersetzt ihn nicht. Volltextabruf gestört, keine Aussage zur Beweiskraft des Anlageninhalts."
+    },
+    {
+      "url": "https://www.berlin.de/gerichte/arbeitsgericht/service/elektronischer-rechtsverkehr-erv/was-ist-bei-den-elektronischen-dokumenten-zu-beachten/",
+      "checked_on": "2026-09-22",
+      "supports": "Amtliche technische Hinweise gelesen: Dateinamen bis 90 Zeichen einschließlich Endung, Umlaute und ß zulässig, Größen-/Mengengrenzen 200 MB und 1000 Dateien; druckbares PDF und gegebenenfalls zusätzliches TIFF. Berliner Hinweise, keine allgemeine Inhalts- oder Signaturfreigabe."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__130a.html",
+      "checked_on": "2026-09-23",
+      "supports": "Absätze 3, 5 und 6: Formalternative am Hauptdokument, Eingang und besondere Nachreichung bei technischer Ungeeignetheit getrennt."
+    }
   ],
-  "mini_review": {"sha256":"e5498bf5115ec72e8c18fc66d9f688e0a546bbe0f75c5b2d111536537962b9cc","verdict": "revised", "reason": "Erneut vollständig gelesen: Die überarbeitete Anlagenzuordnung erfasst fehlende Rechnungen und widersprüchliche Fassungen und führt nach Antwort bis zur kontrollierten Mappe; diese Fassung bleibt in der Schlussrunde bestehen.", "changes": ["Entscheidende Nachweise statt abschließender Liste zulässiger Rückfragethemen erfasst.", "Nach Eingang Rechnung, Verzeichnis, Stempel und Manifest abgleichen.", "Prüfauftrag und Endproduktion getrennt; keine eigenmächtige Übermittlung."]},
-  "workshop_review": {"verdict":"revised","reason":"Ganztextprüfung zeigte nach dem bereits konkreten Produktionsablauf nochmals doppelte Praxisrouten und einen widersprüchlich pauschalen ASCII-Namenssatz.","changes":["Doppelte Schlusskapitel entfernt, ohne Signatur-, Paket- oder Störungsregeln zu streichen","Zusätzliche Details zu E-Mail-Köpfen, Tabellenfiltern und Übersetzungszuordnung in die Dateisichtung übernommen","Optionalen Quellenzugriff und aktuelle amtliche Prüfung klargestellt"],"sha256":"e1fdc7590f65312bbefcf422b9fa60d6922089dcb2edd4daac85d3e891e92b24"},
-  "selection": {"positive": ["Gleichen Sie meine Replik mit den Anlagen ab und führen Sie K-Nummern fort.", "Prüfen Sie die vorbereitete Versandmappe auf fehlende Anlagen und falsche Dateifassungen."], "negative": ["Begründen Sie materiell-rechtlich meinen Kaufpreisanspruch ohne Anlagenarbeit.", "Sortieren Sie private Urlaubsfotos nach Aufnahmedatum."]},
-  "cases": [{"id": "replik-k7-doppelt", "request": "Erstellen Sie ergebnis.md als Zuordnungs- und Freigabebericht, keine PDFs und keinen Versand. Klägerseite im Verfahren LG Bonn 3 O 999/26. Die bisherige Anlagenliste endet bei K 6. Der neue Repliktext vom 14.09.2026 nennt Absatz 2: Zahlung am 03.09.2026, Kontoauszug Anlage K 7; Absatz 4: Mahnung vom 07.09.2026, Anlage K 7. Der verfügbare Bestand ist vollständig so beschrieben: Zahlung.pdf, 2 Seiten, zeigt Buchung am 03.09.; Mahnung_entwurf.pdf, 1 Seite, undatiert und mit Kommentar Bitte prüfen; Vertrag.pdf, identische Kopie der bereits eingereichten K 1. Eine versandte Mahnung liegt nicht vor. Nummerieren Sie nur begründet neu und nennen Sie, was einer Freigabe entgegensteht. Die technischen Eigenschaften sind nicht gemessen.", "input_files": [], "deliverables": ["ergebnis.md"], "criteria": [
-    {"id": "C01", "text": "Führt den vorhandenen Nummernkreis ab K 7 fort und löst die doppelte K-7-Referenz nachvollziehbar, ohne K 1 neu zu nummerieren.", "deliverables": ["ergebnis.md"]},
-    {"id": "C02", "text": "Behandelt den undatierten kommentierten Entwurf nicht als Beweis einer tatsächlich versandten Mahnung vom 07.09. und bezeichnet die fehlende Beleggrundlage.", "deliverables": ["ergebnis.md"]},
-    {"id": "C03", "text": "Erteilt keine technische oder vollständige Versandfreigabe anhand ungemessener Eigenschaften und behauptet keine erzeugten PDFs oder erfolgte Übermittlung.", "deliverables": ["ergebnis.md"]}
-  ], "target_skill": "schriftsatz-anlagen-mapping"}]
+  "mini_review": {
+    "sha256": "fc7000a0a9d65861f60ee76f92f0c10f41f639cd0266cd7f6294e45fc7bfb9ec",
+    "verdict": "revised",
+    "reason": "Anlagenreferenzen mit richtigen Belegfassungen abgleichen und nummerierte Versanddateien herstellen. Der Kurzprompt behandelt diesen konkreten Ausgangsfall mit begrenztem Entscheidungsmaßstab und vollständigem bestelltem Ergebnis. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert.",
+    "changes": [
+      "Erneutes pauschales Einlesen interner Bestände beendet; delegierten Versand und widersprüchlichen Signaturvermerk konkret behandelt; ungeprüfte Entscheidungsliste durch belegte Aussagen ersetzt.",
+      "Bei Mitarbeiter-Versand qualifizierte Signatur der verantwortenden Person prüfen; bei widersprüchlichem Prüfvermerk Originaldatei und Signatur technisch klären.",
+      "Leerstart: Belegabgleich, PDF-Produktion oder Versandkontrolle anbieten. Dateien: Schriftsatz und Belege still zuordnen; keine Vollproduktion ohne Auftrag. Klarer Auftrag: Nur bestellte Prüfung oder Produktion durchführen.",
+      "Nachgereichte Mahnungsfassung verändert Anlagenbezug und Manifest; Assistenzversand verändert Signaturkontrolle am Hauptdokument."
+    ]
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Erneutes pauschales Einlesen interner Bestände beendet; delegierten Versand und widersprüchlichen Signaturvermerk konkret behandelt; ungeprüfte Entscheidungsliste durch belegte Aussagen ersetzt. Die vollständige Werkstatt wurde einschließlich Rückfragen, Fortsetzung und Auftragsgrenzen redaktionell durchgesehen. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen.",
+    "changes": [
+      "Anlagenreferenzen mit richtigen Belegfassungen abgleichen und nummerierte Versanddateien herstellen.",
+      "Bei Mitarbeiter-Versand qualifizierte Signatur der verantwortenden Person prüfen; bei widersprüchlichem Prüfvermerk Originaldatei und Signatur technisch klären.",
+      "Belegkonflikt, neue Datei nach Signatur, Nummernkollision, Nachreichung, Schwärzungen und tabellarische Ausschnitte ohne materielle Beweisentscheidung.",
+      "Nachgereichte Mahnungsfassung verändert Anlagenbezug und Manifest; Assistenzversand verändert Signaturkontrolle am Hauptdokument."
+    ],
+    "sha256": "188741940f30ef2b86ed7adb05c41e1e98ef251bd4b706e55ce1525936dd4023"
+  },
+  "selection": {
+    "positive": [
+      "Gleichen Sie meine Replik mit den Anlagen ab und führen Sie K-Nummern fort.",
+      "Prüfen Sie die vorbereitete Versandmappe auf fehlende Anlagen und falsche Dateifassungen."
+    ],
+    "negative": [
+      "Begründen Sie materiell-rechtlich meinen Kaufpreisanspruch ohne Anlagenarbeit.",
+      "Sortieren Sie private Urlaubsfotos nach Aufnahmedatum."
+    ]
+  },
+  "cases": [
+    {
+      "id": "replik-k7-doppelt",
+      "request": "Erstellen Sie ergebnis.md als Zuordnungs- und Freigabebericht, keine PDFs und keinen Versand. Klägerseite im Verfahren LG Bonn 3 O 999/26. Die bisherige Anlagenliste endet bei K 6. Der neue Repliktext vom 14.09.2026 nennt Absatz 2: Zahlung am 03.09.2026, Kontoauszug Anlage K 7; Absatz 4: Mahnung vom 07.09.2026, Anlage K 7. Der verfügbare Bestand ist vollständig so beschrieben: Zahlung.pdf, 2 Seiten, zeigt Buchung am 03.09.; Mahnung_entwurf.pdf, 1 Seite, undatiert und mit Kommentar Bitte prüfen; Vertrag.pdf, identische Kopie der bereits eingereichten K 1. Eine versandte Mahnung liegt nicht vor. Nummerieren Sie nur begründet neu und nennen Sie, was einer Freigabe entgegensteht. Die technischen Eigenschaften sind nicht gemessen.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Führt den vorhandenen Nummernkreis ab K 7 fort und löst die doppelte K-7-Referenz nachvollziehbar, ohne K 1 neu zu nummerieren.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Behandelt den undatierten kommentierten Entwurf nicht als Beweis einer tatsächlich versandten Mahnung vom 07.09. und bezeichnet die fehlende Beleggrundlage.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Erteilt keine technische oder vollständige Versandfreigabe anhand ungemessener Eigenschaften und behauptet keine erzeugten PDFs oder erfolgte Übermittlung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "schriftsatz-anlagen-mapping"
+    }
+  ],
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leerstart: Belegabgleich, PDF-Produktion oder Versandkontrolle anbieten.",
+      "Dateien: Schriftsatz und Belege still zuordnen; keine Vollproduktion ohne Auftrag.",
+      "Klarer Auftrag: Nur bestellte Prüfung oder Produktion durchführen."
+    ],
+    "continuation": "Nachgereichte Mahnungsfassung verändert Anlagenbezug und Manifest; Assistenzversand verändert Signaturkontrolle am Hauptdokument.",
+    "enrichment": "Belegkonflikt, neue Datei nach Signatur, Nummernkollision, Nachreichung, Schwärzungen und tabellarische Ausschnitte ohne materielle Beweisentscheidung.",
+    "limits": "desk review; no live client execution"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "anlagen-zu-schriftsaetzen/README.md",
+      "anlagen-zu-schriftsaetzen/anlagen-zu-schriftsaetzen-werkstatt.md",
+      "anlagen-zu-schriftsaetzen/anlagen-zu-schriftsaetzen-schnellstart.md",
+      "quality/evals/anlagen-zu-schriftsaetzen.json"
+    ],
+    "opening_change": "Anlagenreferenzen mit richtigen Belegfassungen abgleichen und nummerierte Versanddateien herstellen",
+    "norms": [
+      "Paragraf 130a Absatz 3 und 5 ZPO",
+      "Paragraf 46c Absatz 3 ArbGG",
+      "Paragraf 130d ZPO"
+    ],
+    "decisions": [
+      {
+        "citation": "BAG, Beschluss vom 22.01.2025, 7 ABR 23/23",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/7-abr-23-23/",
+        "application": "Bei Mitarbeiter-Versand qualifizierte Signatur der verantwortenden Person prüfen; bei widersprüchlichem Prüfvermerk Originaldatei und Signatur technisch klären.",
+        "limit": "Volltext Rn. 33 bis 36 gelesen; arbeitsgerichtlicher Fall mit entsprechendem Formweg. Negativer Prüfvermerk ist keine unwiderlegliche Vermutung, gewöhnliche beigefügte Anlagen brauchen keine eigene Signatur."
+      },
+      {
+        "citation": "BGH, Beschluss vom 21.03.2023, VIII ZB 80/22",
+        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2023-3-21&Gericht=bgh&anz=20&nr=133514&pos=10",
+        "application": "Eingangsnachweis dem verfahrensbestimmenden Schriftsatz zuordnen; Anlage allein ersetzt dessen Eingang nicht.",
+        "limit": "Amtlicher Leitsatz gelesen, Volltextabruf gestört; Ausgangskontrolle, keine Beweiskraftregel für Anlagen."
+      }
+    ],
+    "remaining_limits": [
+      "Volltext Rn. 33 bis 36 gelesen; arbeitsgerichtlicher Fall mit entsprechendem Formweg. Negativer Prüfvermerk ist keine unwiderlegliche Vermutung, gewöhnliche beigefügte Anlagen brauchen keine eigene Signatur.",
+      "Keine Live-PDF-Erzeugung oder Signaturprüfung; Berliner Dateivorgaben ersetzen keine abweichende gerichtliche Anordnung.",
+      "Individuelle redaktionelle Akten- und Quellenprüfung (desk review), kein Live-Client- oder Modelltest.",
+      "Workflow-Anschlussprüfung 23.09.2026: individuelle Text- und Quellenprüfung, keine Live-Client-Ausführung. Frühere Entscheidungsprüfungen und ihre Reichweitengrenzen bleiben unverändert; keine erneute vollständige Rechtsprechungsprüfung behauptet. VIII ZB 80/22 weiterhin nur im dokumentierten amtlichen Leitsatzumfang; technische Datei- und Signaturprüfung hier nicht ausgeführt."
+    ]
+  }
 }

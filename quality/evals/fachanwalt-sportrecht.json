@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "fachanwalt-sportrecht",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/tzbfg/__14.html",
@@ -22,27 +22,45 @@
       "url": "https://www.bundesarbeitsgericht.de/entscheidung/7-azr-312-16/",
       "checked_on": "2026-09-14",
       "supports": "BAG, Urteil vom 16.01.2018, Az. 7 AZR 312/16, Randnummern 38 und 39: sportliche Gründe der Nichtaufstellung und fehlende Kausalität der Reservezuweisung im entschiedenen Fall."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__162.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aktueller amtlicher Normtext zur Prüfung: Paragraf 162 BGB; Paragraf 14 TzBfG. Keine Gesamtverifikation sämtlicher Nebenmaterien."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/7-azr-312-16/",
+      "checked_on": "2026-09-22",
+      "supports": "BAG, Urteil vom 16.01.2018, 7 AZR 312/16: Bei verfehlter Einsatzschwelle sportliche Gründe und Kausalität prüfen; berechtigte Nichtaufstellung löst nicht allein die Fiktion des Bedingungseintritts aus. Grenze/Prüftiefe: Volltext Rn. 31 bis 44; keine allgemeine Wirksamkeitsbestätigung sämtlicher Options- oder Prämienklauseln."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/tzbfg/__17.html",
+      "supports": "Erneuter Normabruf zur Dreiwochenfrist nach vereinbartem Ende und Sonderfall fortgesetzter Arbeit; Optionsstreit und Prämienforderung getrennt halten.",
+      "checked_on": "2026-09-23"
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Mini vollständig gelesen. In der Verbandsroute bestand noch ein unbedingter Auftrag zum Rechtsbehelfsentwurf, der dem späteren Vorrang des Beratungsauftrags widersprach.",
+    "reason": "Schnellstart vollständig individuell gelesen und überarbeitet: Einsätze, Optionsschwelle und Prämien aus Vertrag und Spielberichten abgleichen. Sportlich begründete Nichtaufstellung von treuwidriger Verhinderung unterschieden; Hauptproblem verlangt konkrete Motive statt allein Budgetindizien. Redaktionelle Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Spielbericht erhöht 44 auf 45 Einsätze oder ein Spiel wurde abgebrochen -> Prämienrechnung, Optionsschwelle und hypothetische Einsatzkausalität getrennt ändern.",
     "changes": [
-      "Rechtsbehelfsentwurf ausdrücklich an entsprechenden Auftrag gebunden; sonst verlangte Beratung liefern.",
-      "Vorhandene Fortsetzung nach Spielbericht und Zustellungsnachweis erhalten; Option und Prämie bleiben getrennte Rechnungen."
+      "Sportlich begründete Nichtaufstellung von treuwidriger Verhinderung unterschieden; Hauptproblem verlangt konkrete Motive statt allein Budgetindizien.",
+      "Kernfall mit operativem Entscheidungsanker, gezielten Nachfragen und Fortsetzung zum vollständigen angeforderten Dokument.",
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
     ],
-    "sha256": "89fe0aa70cb1ef729d018ec2b10490ceee804f3ecbdf4f64cab941d9ef6949a8"
+    "sha256": "d65121c78054962d231432728731446f714dd0e33451ddadbdfc0374273c4808"
   },
   "focus_review": {
-    "reviewed_on": "2026-09-17",
+    "reviewed_on": "2026-09-23",
     "method": "desk_review",
     "verdict": "revised",
-    "reason": "Standalone-Prompt und zugeordneter Fokus-Skill vollständig auf fachlichen Umfang, Rückfragen mit Fortsetzung bis zum bestellten Dokument, Ausgabeverhalten, Rollenbegrenzung und Quellendifferenzierung gelesen. Kein Live-Modelltest und keine erneute Vollverifikation der bestehenden Rechtsquellen.",
+    "reason": "Hauptproblem-Prompt und zugeordneter Skill vollständig gelesen. Sportlich begründete Nichtaufstellung von treuwidriger Verhinderung unterschieden; Hauptproblem verlangt konkrete Motive statt allein Budgetindizien. Skill unverändert, da mit dem präzisierten Prompt vereinbar. Quellenprüfung im dokumentierten Umfang, kein Live-Modelltest. Workflow-Ergänzung: Spielbericht erhöht 44 auf 45 Einsätze oder ein Spiel wurde abgebrochen -> Prämienrechnung, Optionsschwelle und hypothetische Einsatzkausalität getrennt ändern. Zugeordneten Fokus-Skill auf Kohärenz gelesen und unverändert belassen.",
     "changes": [
-      "Vollständigen Antworttext bei fehlendem Dateiexport ergänzt; keine erfundenen Downloadlinks."
+      "Sportlich begründete Nichtaufstellung von treuwidriger Verhinderung unterschieden; Hauptproblem verlangt konkrete Motive statt allein Budgetindizien.",
+      "Konkreten Einstieg und Anwendung samt Grenzen des Entscheidungsankers im Hauptproblem ergänzt; zugeordneten Skill unverändert gelassen.",
+      "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten."
     ],
     "prompt_path": "fachanwalt-sportrecht/fachanwalt-sportrecht-hauptproblem.md",
-    "prompt_sha256": "46d9173681504b08d875394b69a38502237e22b126fe4640aa0bd58ca6f2881f",
+    "prompt_sha256": "2e51074e32113d67441bf40dce28da9dc5a9f4ae46ba2f4d14d4f0ea85e8c07d",
     "skill_path": "fachanwalt-sportrecht/skills/spielereinsaetze-optionsschwelle-praemienbeweis/SKILL.md",
     "skill_sha256": "c81af676ffe956eecbbf4f86f46e4b8de3a07e18fc651bf619713f2b213109eb"
   },
@@ -100,12 +118,53 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt vollständig einschließlich CAS, Transfer, Doping, E-Sport und Abschluss gelesen. Vertrags-, Verbands- und staatliche Wege bleiben getrennt und neue Belege führen zu konkreten Textänderungen.",
+    "reason": "Werkstatt vollständig individuell gelesen und überarbeitet: Einsätze, Optionsschwelle und Prämien aus Vertrag und Spielberichten abgleichen. Sportlich begründete Nichtaufstellung von treuwidriger Verhinderung unterschieden; Hauptproblem verlangt konkrete Motive statt allein Budgetindizien. Redaktionelle Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Vertragliche Einsatzdefinition und korrigierte Statistik, sportliche Gegenursache, Optionsausübung gegenüber Schwelle, Befristungsrechtsschutz, konkrete Verbandsregeln, Probenkette und kampagnenbezogene Sponsorenleistung.",
     "changes": [
-      "Spielbericht und Trainernachricht mit Einsatzanrechnung und Kausalitätsprüfung verknüpft.",
-      "Labor- oder Zustellungsnachweis gezielt nachfordern und Stellungnahme beziehungsweise Rechtsbehelf fertigstellen lassen.",
-      "Keine pauschale CAS-Frist, Sperrdauer oder ungefragte Verbandsroute bei Sponsoring; bestehendes focus_review erhalten."
+      "Sportlich begründete Nichtaufstellung von treuwidriger Verhinderung unterschieden; Hauptproblem verlangt konkrete Motive statt allein Budgetindizien.",
+      "Vorhandene Fachzweige, Beispiele und Zugriffsalternativen erhalten; schwache Rechtsprechungshinweise entfernt oder auf belegte Reichweite begrenzt.",
+      "Vertragliche Einsatzdefinition und korrigierte Statistik, sportliche Gegenursache, Optionsausübung gegenüber Schwelle, Befristungsrechtsschutz, konkrete Verbandsregeln, Probenkette und kampagnenbezogene Sponsorenleistung."
     ],
-    "sha256": "3404240c92fa9778db06af01319413597c71a585285d529b5e37e4f3c5e34ac2"
+    "sha256": "5be5f0d53621df15cfdd5431c69b752012688fbb2257aff61cf80ec146c875b6"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-23",
+    "files": [
+      "fachanwalt-sportrecht/README.md",
+      "fachanwalt-sportrecht/fachanwalt-sportrecht-hauptproblem.md",
+      "fachanwalt-sportrecht/fachanwalt-sportrecht-werkstatt.md",
+      "fachanwalt-sportrecht/fachanwalt-sportrecht-schnellstart.md",
+      "fachanwalt-sportrecht/skills/spielereinsaetze-optionsschwelle-praemienbeweis/SKILL.md",
+      "quality/evals/fachanwalt-sportrecht.json"
+    ],
+    "opening_change": "Einsätze, Optionsschwelle und Prämien aus Vertrag und Spielberichten abgleichen Workflow-Ergänzung: Leer: Einsatzprämie und Option, Verbandsrechtsbehelf oder Sponsoring anbieten. Dateien ohne Aufgabe: Spielberichte, Vertrag und Verbandsentscheidung still lesen; Vergütungs-, Vertrags- oder Rechtsbehelfsziel klären. Klarer Auftrag: Anspruch, Abwehr oder Vertragsfassung unmittelbar schreiben; kein ungefragtes Sportrechtsaudit.",
+    "norms": [
+      "Paragraf 162 BGB",
+      "Paragraf 14 TzBfG"
+    ],
+    "decisions": [
+      {
+        "citation": "BAG, Urteil vom 16.01.2018, 7 AZR 312/16",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/7-azr-312-16/",
+        "application": "Bei verfehlter Einsatzschwelle sportliche Gründe und Kausalität prüfen; berechtigte Nichtaufstellung löst nicht allein die Fiktion des Bedingungseintritts aus.",
+        "limit": "Volltext Rn. 31 bis 44; keine allgemeine Wirksamkeitsbestätigung sämtlicher Options- oder Prämienklauseln."
+      }
+    ],
+    "remaining_limits": [
+      "Desk- und Quellenprüfung, kein Live-Client- oder Modelltest; übrige Fachzweige nicht vollständig rechtlich neu verifiziert.",
+      "Volltext Rn. 31 bis 44; keine allgemeine Wirksamkeitsbestätigung sämtlicher Options- oder Prämienklauseln.",
+      "Workflow-Review 23.09.2026: Paragraf 17 TzBfG erneut eingesehen; individuelle Verbands- und Anti-Doping-Regeln nicht als neu vollständig verifiziert dargestellt."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Einsatzprämie und Option, Verbandsrechtsbehelf oder Sponsoring anbieten.",
+      "Dateien ohne Aufgabe: Spielberichte, Vertrag und Verbandsentscheidung still lesen; Vergütungs-, Vertrags- oder Rechtsbehelfsziel klären.",
+      "Klarer Auftrag: Anspruch, Abwehr oder Vertragsfassung unmittelbar schreiben; kein ungefragtes Sportrechtsaudit."
+    ],
+    "continuation": "Spielbericht erhöht 44 auf 45 Einsätze oder ein Spiel wurde abgebrochen -> Prämienrechnung, Optionsschwelle und hypothetische Einsatzkausalität getrennt ändern.",
+    "enrichment": "Vertragliche Einsatzdefinition und korrigierte Statistik, sportliche Gegenursache, Optionsausübung gegenüber Schwelle, Befristungsrechtsschutz, konkrete Verbandsregeln, Probenkette und kampagnenbezogene Sponsorenleistung.",
+    "limits": "desk review; no live client execution"
   }
 }

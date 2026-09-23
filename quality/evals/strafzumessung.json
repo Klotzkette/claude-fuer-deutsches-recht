@@ -1,8 +1,33 @@
 {
   "schema_version": 1,
   "plugin": "strafzumessung",
-  "reviewed_on": "2026-09-17",
+  "reviewed_on": "2026-09-23",
   "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/stgb/__46a.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlicher Normtext für die beiden Zugänge zum Täter-Opfer-Ausgleich beziehungsweise zur Schadenswiedergutmachung gelesen; Zahlung, Bemühen und persönliche Belastung im neuen Arbeitsablauf getrennt. Keine neue Rechtsprechungsbehauptung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stgb/__56.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlicher Normtext im Suchabruf gelesen, Direktabruf mit Timeout: Prognose, besondere Umstände bis zwei Jahre und eigenständige Prüfung der Verteidigung der Rechtsordnung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stpo/__341.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlicher Normtext im Suchabruf gelesen, Direktabruf mit Timeout: Einlegungswoche, Verkündung, Abwesenheit und Vertretungsausnahmen; keine individuelle Frist ohne Ereignisdaten."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stpo/__345.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlicher Normtext im Suchabruf gelesen, Direktabruf mit Timeout: Begründungsmonat, späterer Zustellungsbeginn und Verlängerungen bei später Aktenbringung; Formprüfung fallbezogen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stpo/__462a.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlicher Normtext gelesen, Absatz 3: Strafart, Strafhöhe und erst danach Datum bestimmen die Zuständigkeit im Gesamtstrafenverfahren; zugehörige Normen 460 und 462 ebenfalls amtlich nachgelesen."
+    },
     {
       "url": "https://www.gesetze-im-internet.de/stgb/__55.html",
       "checked_on": "2026-09-14",
@@ -32,15 +57,40 @@
       "url": "https://www.gesetze-im-internet.de/stpo/__462.html",
       "checked_on": "2026-09-14",
       "supports": "Beschlussverfahren, Anhörung und sofortige Beschwerde."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Strafsenate/1_StS/2019/1_StR_535-19.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Beschluss vom 03.12.2019, 1 StR 535/19, Randnummern 9 und 13 bis 20. Amtliche tragende Entscheidungsgründe gelesen. Anwendung: Bei auf Tagessatzhöhe beschränktem Einspruch ist die spätere Entscheidung nach Paragraf 411 Absatz 1 Satz 3 StPO für die Zäsur maßgeblich; Tatbeendigung und frühere Tatzeiten feststellen. Grenze: Ohne Einspruch kann der Strafbefehlserlass maßgeblich sein; Einbeziehbarkeit benötigt weiterhin Erledigungsstand und übrige Voraussetzungen. Keine bestimmte Gesamtstrafenhöhe vorgegeben."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stgb/__55.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aktueller amtlicher Normtext gelesen: Zeitliche und vollstreckungsbezogene Einbeziehungsvoraussetzungen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stgb/__46.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aktueller amtlicher Normtext gelesen: Schuldbezogene Zumessung und Doppelverwertungsverbot."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stpo/__411.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aktueller amtlicher Normtext gelesen: Spätere Entscheidung über alleinige Tagessatzhöhenbeschränkung."
     }
   ],
   "mini_review": {
-    "verdict": "retained",
-    "reason": "Vollständige Textprüfung am 18. September: Vollstreckungsnachweise lösen eine neue Zäsur- und Einbeziehungsprüfung aus; Einkommensangaben ändern gezielt die Tagessatzhöhe.",
+    "verdict": "revised",
+    "reason": "Individueller Ganztextreview: bisherige Zäsurentscheidung erhalten; leeren Einstieg, stilles Lesen und direkten Auftrag getrennt; neue Zahlungs- und Vollstreckungsantworten ändern das konkrete Dokument. Kein Live-Modelltest.",
     "changes": [
-      "Keine weitere Änderung der vollständig gelesenen Mini-Fassung."
+      "Einspruchsumfang und spätere Tagessatzentscheidung als benötigte Belege bezeichnet.",
+      "Fortdauernde Tat nach Beendigung zuordnen und Erledigungsstand weiterhin eigenständig prüfen.",
+      "Keine numerische Gesamtstrafe aus Zäsurentscheidung abgeleitet und kein erneutes Anfordern bereits vorliegender Urteile.",
+      "Konkrete Fortsetzung bei bezahlter Vorstrafe, nur versprochener Entschädigung und Bewährungsprognose; Mini unter beiden 7500-Grenzen."
     ],
-    "sha256": "f733e0698e9252aa4d62acc7173f747a4dabbd56e766bbac84822f5b755113a6"
+    "sha256": "834b980efed8a884a3280a66608e04ac15d56c992d508daa38f9ee9f4a0cff9d",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
   },
   "selection": {
     "positive": [
@@ -151,11 +201,56 @@
     }
   ],
   "workshop_review": {
-    "verdict": "retained",
-    "reason": "Textprüfung am 18. September: Strafrahmen, Einzelstrafe, Gesamtstrafe, Jugendstrafrecht und Vollstreckung vollständig gelesen. Der Ablauf führt zur beauftragten Begründung ohne automatisches Strafmaß oder erfundene richterliche Entscheidung.",
+    "verdict": "revised",
+    "reason": "Individueller Ganztextreview der erweiterten Werkstatt: Zahlungszuordnung, belastende Gegenbefunde, Bewährungsentwicklung, Gesamtstrafenantrag und Revisionsfristen mit konkreten Antwortfolgen ausgebaut; vorhandene Spezialthemen und Zäsuranker erhalten. Kein Live-Modelltest.",
     "changes": [
-      "Keine weitere Änderung; offene Schuldfragen werden nicht durch Strafzumessung ersetzt."
+      "Einspruchsumfang und spätere Tagessatzentscheidung als benötigte Belege bezeichnet.",
+      "Fortdauernde Tat nach Beendigung zuordnen und Erledigungsstand weiterhin eigenständig prüfen.",
+      "Keine numerische Gesamtstrafe aus Zäsurentscheidung abgeleitet und kein erneutes Anfordern bereits vorliegender Urteile.",
+      "Neue Arbeitszweige vom Zahlungsbeleg zum Plädoyer, vom Therapieabbruch zur Prognose und von Erledigungsdaten zum passenden Antrag.",
+      "Einlegung und Begründung der Revision mit eigenständigen Auslösern; bestimmte Anträge und Freigabegrenzen statt Fehlerliste."
     ],
-    "sha256": "89942a56751c0405b2449d861e29b5c0e8ce2b0abc0657553a3c4ef4950188cf"
+    "sha256": "c543e2041e1c06291b89b3a6971fd8eb9edf37b1d2cd5f1b490f04c07f8836e3",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Strafmaßplädoyer, Gesamtstrafenprüfung oder Rechtsfehlerprüfung als drei konkrete Wege.",
+      "Dateien: Feststellungen und Vorentscheidungen still lesen; nur bei offenem Ziel Plädoyer oder Gesamtstrafenantrag klären.",
+      "Klarer Auftrag: sofort am bestellten Rechtsfolgentext arbeiten und nur entscheidende fehlende Vollstreckungs- oder Tatsachendaten erfragen."
+    ],
+    "continuation": "Bezahlte Vorstrafe verändert Einbeziehbarkeit und Antrag; bloßes Zahlungsversprechen verändert Wiedergutmachungspassage; Therapieabbruch verändert Prognosebegründung.",
+    "enrichment": "Zahlungszuordnung und Gegenbefunde, beide Zugänge des Paragrafen 46a, bewährungsbezogene Stabilisierung, Zuständigkeit und Inhalt des Gesamtstrafenantrags, Revisionsfristauslöser und konkrete Anträge.",
+    "limits": "desk review; no live client execution"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-23",
+    "files": [
+      "strafzumessung/strafzumessung-schnellstart.md",
+      "strafzumessung/strafzumessung-werkstatt.md"
+    ],
+    "opening_change": "Tatbezogenen Strafrahmen und Einzelstrafe begründen, dann Vorverurteilungen nach Tatzeit und Vollstreckung auf Gesamtstrafenfähigkeit prüfen.",
+    "norms": [
+      "Paragrafen 46 und 55 StGB",
+      "Paragraf 411 Absatz 1 Satz 3 StPO",
+      "Paragraf 267 Absatz 3 StPO"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Beschluss vom 03.12.2019, 1 StR 535/19, Randnummern 9 und 13 bis 20",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Strafsenate/1_StS/2019/1_StR_535-19.pdf?__blob=publicationFile&v=1",
+        "application": "Bei auf Tagessatzhöhe beschränktem Einspruch ist die spätere Entscheidung nach Paragraf 411 Absatz 1 Satz 3 StPO für die Zäsur maßgeblich; Tatbeendigung und frühere Tatzeiten feststellen.",
+        "limit": "Ohne Einspruch kann der Strafbefehlserlass maßgeblich sein; Einbeziehbarkeit benötigt weiterhin Erledigungsstand und übrige Voraussetzungen. Keine bestimmte Gesamtstrafenhöhe vorgegeben."
+      }
+    ],
+    "remaining_limits": [
+      "Desk- und Primärquellenreview, kein Live-Client- oder Modelltest.",
+      "Keine allgemeine Strafenvergleichsdatenbank oder verbindliche Strafmaßprognose.",
+      "Weitere Härteausgleichs-, Auslandsstrafen-, Maßregel- und Jugendfragen nicht vollumfänglich neu verifiziert.",
+      "Workflow-Erweiterung am 23. September: neue Normbezüge gezielt geprüft; BGH-Zäsuranker aus dem dokumentierten vorherigen Review unverändert übernommen. Normen 56 StGB sowie 341 und 345 StPO im amtlichen Suchabruf statt gescheitertem Direktabruf gelesen."
+    ]
   }
 }

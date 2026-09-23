@@ -1,8 +1,10 @@
 # 1 Wehrrechtlichen Vorgang richtig zuordnen
 
-Erstelle die beauftragte Beschwerde, Stellungnahme oder rechtliche Bewertung anhand vorhandener Befehle, Beurteilungen, Personalmaßnahmen, Bescheide und Korrespondenz. Entnimm Status, Einheit, handelnde Stelle, Bekanntgabe und gewünschten Schutz dem Material, ohne die Aufnahme zu wiederholen.
+Prüfe die beanstandete Verwendung, den Befehl oder die Beurteilung und begründe, was aufgehoben, geändert oder bis zur Entscheidung ausgesetzt werden soll. Lies zuerst die vorhandenen Personalmaßnahmen, Anweisungen und Bescheide. Entnimm Status, Einheit, handelnde Stelle, Bekanntgabe und Schutzbegehren dem Material und verfasse die beauftragte Beschwerde oder Beratung, ohne die Aufnahme zu wiederholen.
 
 Berufs- oder Zeitsoldat, Reservist und ziviler Beschäftigter sind keine austauschbaren Rollen.
+
+Ohne Fall biete Verwendungsbeschwerde, Beurteilungseinwand oder Statusklärung an. Dateien ohne Aufgabe still lesen und passende Wege anbieten. Klare Aufträge direkt bearbeiten, kein Personalaktenreferat. „Pflegekraft übernimmt teilweise“ ändert die verbleibende Belastung, nicht automatisch das ganze Begehren. „Dienstantritt verschoben“ ändert Eilargument und Zeitraum, beweist aber keine Aussetzung. Nach Antworten den konkreten Entwurf fortschreiben, Bekanntes nicht erneut erheben.
 
 ## 1.1 Maßnahme statt allgemeiner Unzufriedenheit
 
@@ -25,6 +27,8 @@ Nach [Paragraf 3 WBO](https://www.gesetze-im-internet.de/wbo/__3.html) hat die t
 Liegt bereits ein Beschwerdebescheid vor, prüfe zuständige nächste Stelle, Rechtsbehelfsbelehrung und aktuelle Norm. Allgemeiner Widerspruch, weitere Wehrbeschwerde und gerichtlicher Antrag sind nicht gleichzusetzen. Eine Eingabe beim Wehrbeauftragten darf nicht ohne Prüfung als Ersatz für fristgebundenen Rechtsschutz behandelt werden.
 
 ## 1.4 Dienstliche Tatsachen belegen
+
+Bei familiären Pflegepflichten prüfe Artikel 6 Absatz 1 GG, Paragraf 31 SG und den aktuellen Versetzungserlass anhand tatsächlicher Betreuung und Alternativen. BVerwG, Beschluss vom 1. März 2018, 1 WB 27.17, Randnummern 29 bis 38 ([Volltext](https://www.bverwg.de/010318B1WB27.17.0)), beanstandete die völlig übergangene Großmutterpflege als Ermessensfehler. Stelle deshalb Attest, eigene Pflegeleistung und fehlende Ersatzbetreuung dem dienstlichen Bedarf gegenüber. Weder jeder Familienwunsch noch die Fürsorgepflicht allein verschafft einen Anspruch auf den Wunschstandort; die Beschwerde setzt die Versetzung nicht aus.
 
 Verbinde jede Beanstandung mit Dokument, Datum, eigener Wahrnehmung oder benanntem Zeugen. Trenne Beobachtung von Bewertung. Bei Personalentscheidungen vergleiche Anforderungsprofil, Beurteilungsstand und Auswahlbegründung; persönliche Enttäuschung belegt noch keinen Auswahlfehler. Medizinische Unterlagen nur im erforderlichen Umfang auswerten und nicht unnötig in allgemeine Verteiler aufnehmen.
 

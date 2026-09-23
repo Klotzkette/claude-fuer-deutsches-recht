@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "einfache-leichte-sprache-jura",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/bgg/__11.html",
@@ -22,21 +22,37 @@
       "url": "https://www.gesetze-im-internet.de/bitv_2_0/__4.html",
       "checked_on": "2026-09-14",
       "supports": "Bestimmte Startseitenerläuterungen öffentlicher Stellen nach Anlage 2, nicht allgemeine Textpflicht aus Anhang 1."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62016CJ0278",
+      "checked_on": "2026-09-22",
+      "supports": "Strafbefehl als wesentliche Unterlage; eigene Zusammenfassung nicht als amtliche Übersetzung ausgeben. Grenze: Kein allgemeines Zertifizierungsurteil zur Leichten Sprache; nationale Fristwirkung eigenständig prüfen. Reine sprachliche Bearbeitung bleibt von Rechtsprüfung und amtlicher Übersetzung getrennt."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgg/__11.html",
+      "supports": "Erneuter Normabruf zur verständlichen und Leichten Sprache; Erklärung und rechtlich maßgeblicher Ausgangstext bleiben getrennt.",
+      "checked_on": "2026-09-23"
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Aktuellen Mini vollständig gelesen. Mehrdeutige Bezüge und fehlende Seiten führen zur gezielten Klärung und anschließenden Überarbeitung der Adressatenfassung. Die noch feste Benennung ergebnis.md widersprach dem Vorrang des Nutzerdateiwunschs. Keine neue Rechtsquellen- oder Live-Modellprüfung.",
+    "reason": "Erhaltung von Pflichten, Ausnahmen und Fristen vor bloßer Kürzung; sachfremde Normliste entfernt. Workflow-Ergänzung einzeln geprüft: Leser verwechselt Bedingung und bereits eingetretene Pflicht -> Satzfolge, Voraussetzung und Handlung im Erklärungstext ändern; Monatsfrist nicht als vier Wochen umschreiben.",
     "changes": [
-      "ergebnis.md ausdrücklich zum Standard nur bei fehlendem Dateiwunsch gemacht."
+      "Erhaltung von Pflichten, Ausnahmen und Fristen vor bloßer Kürzung; sachfremde Normliste entfernt.",
+      "Strafbefehl als wesentliche Unterlage; eigene Zusammenfassung nicht als amtliche Übersetzung ausgeben. Grenze: Kein allgemeines Zertifizierungsurteil zur Leichten Sprache; nationale Fristwirkung eigenständig prüfen.",
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
     ],
-    "sha256": "4b54976a662089f925f0d3ac25591608aef15363e9e2d56ab244205b3f937c36"
+    "sha256": "582900fc8adf16a81110570b9044d533dab46b7e22ae3567c4176c61c8b8d82f"
   },
   "workshop_review": {
-    "verdict": "retained",
-    "reason": "Werkstatt vollständig gelesen. Ausgangstext, Bedingungen und Wahlrechte bleiben Vergleichsmaßstab; die acht fachbezogenen Übertragungswege erzwingen weder neue Gutachten noch Rechtsbehelfe. Rückmeldungen führen zur konkreten Satzüberarbeitung und erneuten Inhaltskontrolle. Zielgruppenprüfung und Zertifizierung werden nicht vorgetäuscht. Keine neue rechtliche Verifikation oder Live-Modellprüfung.",
-    "changes": [],
-    "sha256": "1c56ea13e8e2fb051f3a61ed25adc156859399340c3494eb89cb48daa8495b3d"
+    "verdict": "revised",
+    "reason": "Erhaltung von Pflichten, Ausnahmen und Fristen vor bloßer Kürzung; sachfremde Normliste entfernt. Workflow-Ergänzung einzeln geprüft: Bedeutungstreue bei Bedingungen, Modalverben und Behauptungen, getrennte Erklärung und rechtsverbindliche Änderung, ergebniswirksames Leserfeedback und keine ungesicherte Zertifizierung als Leichte Sprache.",
+    "changes": [
+      "Erhaltung von Pflichten, Ausnahmen und Fristen vor bloßer Kürzung; sachfremde Normliste entfernt.",
+      "Strafbefehl als wesentliche Unterlage; eigene Zusammenfassung nicht als amtliche Übersetzung ausgeben. Grenze: Kein allgemeines Zertifizierungsurteil zur Leichten Sprache; nationale Fristwirkung eigenständig prüfen.",
+      "Bedeutungstreue bei Bedingungen, Modalverben und Behauptungen, getrennte Erklärung und rechtsverbindliche Änderung, ergebniswirksames Leserfeedback und keine ungesicherte Zertifizierung als Leichte Sprache."
+    ],
+    "sha256": "b211ef82ae9af28276c4c47c09d3e67eeee758b14be9f3099a5dfad80f570fa3"
   },
   "selection": {
     "positive": [
@@ -113,5 +129,42 @@
       ],
       "target_skill": "einfache-sprache"
     }
-  ]
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-23",
+    "files": [
+      "einfache-leichte-sprache-jura/einfache-leichte-sprache-jura-werkstatt.md",
+      "einfache-leichte-sprache-jura/einfache-leichte-sprache-jura-schnellstart.md"
+    ],
+    "opening_change": "Erhaltung von Pflichten, Ausnahmen und Fristen vor bloßer Kürzung; sachfremde Normliste entfernt. Workflow-Ergänzung: Leer: Bescheiderklärung, verständlicher Vertragsabschnitt oder Mandantenbrief anbieten. Dateien ohne Aufgabe: Ausgangstext still lesen und Zielgruppe sowie gewünschte Textart nur soweit offen klären. Klarer Auftrag: fertige verständliche Fassung unmittelbar liefern; keine vorgelagerte Universalcheckliste oder automatische Rechtsstreitanalyse.",
+    "norms": [
+      "Paragraf 11 BGG",
+      "Paragraf 187 GVG",
+      "Artikel 3 Richtlinie 2010/64/EU"
+    ],
+    "decisions": [
+      {
+        "citation": "EuGH, 12.10.2017, C-278/16, Sleutjes, Randnummern 28 bis 34",
+        "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62016CJ0278",
+        "application": "Strafbefehl als wesentliche Unterlage; eigene Zusammenfassung nicht als amtliche Übersetzung ausgeben.",
+        "limit": "Kein allgemeines Zertifizierungsurteil zur Leichten Sprache; nationale Fristwirkung eigenständig prüfen."
+      }
+    ],
+    "remaining_limits": [
+      "Reine sprachliche Bearbeitung bleibt von Rechtsprüfung und amtlicher Übersetzung getrennt.",
+      "Workflow-Review 23.09.2026: Paragraf 11 BGG erneut eingesehen; keine Zertifizierung oder Live-Verständlichkeitsprüfung. Keine sachfremden materiell-rechtlichen Fälle ergänzt."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Bescheiderklärung, verständlicher Vertragsabschnitt oder Mandantenbrief anbieten.",
+      "Dateien ohne Aufgabe: Ausgangstext still lesen und Zielgruppe sowie gewünschte Textart nur soweit offen klären.",
+      "Klarer Auftrag: fertige verständliche Fassung unmittelbar liefern; keine vorgelagerte Universalcheckliste oder automatische Rechtsstreitanalyse."
+    ],
+    "continuation": "Leser verwechselt Bedingung und bereits eingetretene Pflicht -> Satzfolge, Voraussetzung und Handlung im Erklärungstext ändern; Monatsfrist nicht als vier Wochen umschreiben.",
+    "enrichment": "Bedeutungstreue bei Bedingungen, Modalverben und Behauptungen, getrennte Erklärung und rechtsverbindliche Änderung, ergebniswirksames Leserfeedback und keine ungesicherte Zertifizierung als Leichte Sprache.",
+    "limits": "desk review; no live client execution"
+  }
 }

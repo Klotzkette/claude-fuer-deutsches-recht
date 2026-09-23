@@ -1,8 +1,8 @@
 # 1. Rückforderung und Gläubigeranfechtung bearbeiten
 
-Erstelle die beauftragte Anspruchsbewertung, das Rückforderungsschreiben oder die Verteidigung gegen eine Anfechtungsforderung. Lies zunächst Auftrag, Verträge, Zahlungsbelege, Korrespondenz und Vollstreckungs- oder Insolvenzunterlagen.
+Verfolge jede streitige Zahlung oder Vermögensübertragung vom Rechtsgrund bis zur Rückgewähr: Wer hat wem welchen Vorteil zugewandt, wer darf ihn behalten und wem steht der Rückgriff zu? Lies zunächst Auftrag, Verträge, Zahlungsbelege und die einschlägigen Vollstreckungs- oder Insolvenzunterlagen. Begründe die Rückforderung oder deren Abwehr aus diesen konkreten Beziehungen.
 
-Bestimme daraus Rolle und gewünschtes Ergebnis; eine bereits geklärte Aufnahme nicht wiederholen. Die Bearbeitung unterstützt die fachliche Prüfung und ersetzt keine eigenverantwortliche Rechtsberatung.
+Ohne Eingabe biete Fehlzahlung zurückfordern, Rückforderung abwehren oder gläubigerbenachteiligende Übertragung angreifen an. Bei Dateien ohne Aufgabe still lesen und zwei oder drei passende Wege erfragen, noch keine Gesamtanalyse. Bei klarem Auftrag direkt zum gewünschten Text arbeiten. Folgeantworten verändern Leistungsbeziehung, Einwendung oder Zugriffsziel; bekannte Rolle und Zahlungsdaten übernehmen. Unterscheide eigene Rückforderung, Vollstreckungsgläubiger und Insolvenzverwalter.
 
 ## 1.1. Vermögensbewegung und Anspruchsziel
 
@@ -16,7 +16,7 @@ Trenne Bereicherung nach Paragrafen 812 und folgende BGB, außerinsolvenzliche G
 
 Prüfe erlangten Vorteil, Leistungsbeziehung oder sonstigen Erwerb auf Kosten des Anspruchstellers sowie den fehlenden oder weggefallenen Rechtsgrund. Bei Zweckverfehlung kläre die konkrete Zweckabrede und den ausgebliebenen Erfolg; bloße Erwartungen nicht als Vereinbarung behandeln.
 
-Untersuche Ausschlüsse nach Paragraf 814 BGB anhand der Kenntnis bei Leistung, nicht allein anhand späterer Zweifel oder des Prozessvortrags. Bei Paragraf 817 Satz 2 BGB kläre den konkreten Gesetzes- oder Sittenverstoß. Bei dauernder Einrede prüfe Paragraf 813 BGB und die betroffene Einrede, insbesondere Paragraf 214 oder Paragraf 853 BGB; historische Verweise wie Paragraf 222 BGB alter Fassung nicht als geltendes Recht übernehmen.
+Untersuche Paragraf 814 BGB anhand der Kenntnis bei Leistung. [BGH, Hinweisbeschluss vom 04.09.2018, VIII ZR 100/18, Rn. 9, 17–21](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2018/VIII_ZR_100-18.pdf?__blob=publicationFile&v=1), verlangt positive Kenntnis der Nichtschuld einschließlich der zutreffenden laienhaften rechtlichen Schlussfolgerung; der Empfänger trägt die Darlegungs- und Beweislast. Prüfe deshalb zeitgleiche Erklärungen, nicht nur das Fehlen eines Vorbehalts. Der Mietfall endete durch Revisionsrücknahme; er verlangt weder vollständige Rechtskenntnis noch eine exakt bekannte Minderungsquote. Bei Paragraf 817 Satz 2 BGB den konkreten Gesetzes- oder Sittenverstoß feststellen. Bei dauernder Einrede Paragraf 813 BGB und dessen Ausnahme für verjährte Forderungen mit Paragraf 214 Absatz 2 BGB beachten; Paragraf 853 BGB betrifft einen anderen Einredengrund.
 
 Ermittle Herausgabe, Nutzungen, Ersatz und Wert nach Paragraf 818 BGB getrennt. Behauptet der Empfänger, das Geld sei verbraucht, frage nach Verwendung, Zeitpunkt, verbleibenden Vorteilen und Belegen. Nach der Antwort aktualisiere den Rückforderungsbetrag und die Begründung zur Entreicherung. Verschärfte Haftung und Zinsen gesondert nach Grundlage und Beginn prüfen. Bestimme Darlegungs- und Beweislast für das konkrete Merkmal; keine pauschale Lastenverteilung aus einem allgemeinen Vertragsmuster übernehmen.
 
@@ -25,6 +25,8 @@ Bei Weitergabe an Dritte prüfe Paragraf 822 BGB, Unentgeltlichkeit und die Haft
 ## 1.3. Gläubigeranfechtung
 
 Bestimme aus den Unterlagen, ob ein Insolvenzverfahren eröffnet ist, wer geltend machen darf und welche konkrete Rechtshandlung betroffen ist. In der Insolvenz prüfe Paragraf 129 InsO und den passenden Sondertatbestand mit Benachteiligung, Zeitraum, Kenntnismerkmalen, Gegenleistung und Rückgewährfolge. Eine bloße Liste auffälliger Zahlungen ist noch keine begründete Anfechtungsforderung.
+
+Bei Paragraf 134 InsO nicht Rechtsgrundlosigkeit mit Unentgeltlichkeit gleichsetzen: Nach [BGH, Urteil vom 01.10.2020, IX ZR 247/19, Rn. 10–12](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2019/IX_ZR_247-19.pdf?__blob=publicationFile&v=1), fehlt bei irrtümlich angenommener entgeltlicher Schuld im Zweipersonenverhältnis die kompensationslose Vermögensminderung, soweit ein durchsetzbarer Bereicherungsanspruch besteht. Greift eine Kondiktionssperre, ist die Unentgeltlichkeit anders zu beurteilen. Der Genussrechtsfall rechtfertigt weder eine pauschale Anfechtung jeder Fehlzahlung noch die Übertragung dieser Zuordnung auf sämtliche Mehrpersonenfälle.
 
 Bei Gesellschafterdarlehen kläre Darlehensgeber, Beteiligung, Näheverhältnis, Rückzahlung oder Sicherheit, jeweilige Zeitpunkte und gegebenenfalls überlassene betriebswesentliche Gegenstände. Prüfe Paragraf 135 InsO mit Paragraf 39 Absatz 1 Nummer 5, Absatz 4 und Absatz 5 sowie Paragrafen 129, 138, 143 Absatz 3 und 146 InsO. Fehlen Beteiligungs- oder Zahlungsnachweise, fordere sie gezielt an und überarbeite nach Eingang den betroffenen Anfechtungsvorgang; eine gesellschaftsrechtliche Nähe nicht erfinden.
 
@@ -47,25 +49,13 @@ Führe Beträge, bereits geleistete Rückzahlungen, Gegenleistungen, Nutzungen u
 
 Formuliere das gewünschte Gutachten, Rückforderungsschreiben, Antwortschreiben oder bei entsprechendem Auftrag den bestimmten Antrag vollständig. Fehlen entscheidende Nachweise, liefere den belastbaren Teil als vorläufigen Stand und eine konkrete Nachforderung. Nach der Antwort aktualisiere Rechnung, Anspruchsgegner und Argumentation und arbeite bis zum bestellten Dokument weiter. Eine Nachforderung allein erledigt keinen Entwurfsauftrag. Versand, Einreichung, Anerkenntnis und Verzicht nur nach ausdrücklicher Freigabe.
 
-## 1.6. Vorhandene ergänzende Normverweise
+## 1.6. Fristwahrung und Umfang der Gläubigerbefriedigung
 
-Die folgenden Verweise aus dem Fachmaterial sind keine Bestätigung ihrer Richtigkeit oder Anwendbarkeit. Prüfe sie am konkreten Fall in amtlichen Quellen; insbesondere Fristen- und Vollstreckungszuordnungen nicht ungeprüft übernehmen.
+Berechne die regelmäßige Verjährung nach Paragrafen 195 und 199 BGB mit Anspruchsentstehung, Kenntnis und Jahresende; prüfe Hemmung nach Paragrafen 203 und 204 BGB am tatsächlichen Vorgang. Ein Verjährungsverzicht ist nicht dasselbe wie Hemmung. Seine Reichweite kann konkurrierende Bereicherungs- und Anfechtungsansprüche erfassen, hängt aber vom ausgelegten Erklärungsinhalt ab; IX ZR 247/19, Rn. 39–43, betrifft insoweit eine nicht formularmäßige Erklärung, keine automatische Ausdehnung jeder Klausel.
 
-- BGB Paragraf 104 bis Paragraf 185: Geschäftsfähigkeit, Willenserklärung, Zugang, Anfechtung, Stellvertretung und Zustimmung.
-- BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286: Pflichtverletzung, Schadensersatz, Fristsetzung und Verzug.
-- BGB Paragraf 305 bis Paragraf 310: Einbeziehung, Transparenz, Inhaltskontrolle und Klauselverbote.
-- BGB Paragraf 312 ff. und Paragraf 355 ff.: Verbrauchervertrag, Fernabsatz, Widerruf und Rückabwicklung.
-- BGB Paragraf 433, Paragraf 434, Paragraf 437, Paragraf 474 und Paragraf 477: Kaufrecht, Mangelrechte und Verbrauchsgüterkauf.
-- BGB Paragraf 631, Paragraf 633, Paragraf 634 und Paragraf 650 ff.: Werkvertrag, Mangelrechte, Bau- und Verbraucherbauvertrag.
-- HGB Paragraf 377: Untersuchungs- und Rügeobliegenheit im Handelskauf.
-- Paragrafen 195 199 BGB — Regelmässige Verjährungsfrist 3 Jahre ab Kenntnis; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragrafen 888 890 ZPO — Vollstreckung aus Duldungsurteil; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 15 AnfG — Verjährung des Anfechtungsanspruchs; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragrafen 195 199 BGB — Verjährungsfrist 3 Jahre ab Kenntnis Jahresende; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragrafen 203-211 BGB — Hemmung der Verjährung (Verhandlungen, Klageerhebung); im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 814 BGB Kenntnis der Nichtschuld; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 817 S. 2 BGB Gesetzes-/Sittenverstoß auf Seiten des Leistenden; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 818 Abs. 3 BGB Entreicherung mit konkretem Vermögensweg (substantiiert); im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+Im AnfG die Rückrechnung der Anfechtungsfristen nach Paragraf 7 von der gerichtlichen Geltendmachung und die besonderen Voraussetzungen einer vorherigen schriftlichen Mitteilung prüfen. Paragraf 15 AnfG regelt den Zugriff auf Rechtsnachfolger, nicht die Verjährung. Bei Weiterübertragung deshalb Erwerbszeit, Unentgeltlichkeit und Kenntnis des Nachfolgers ermitteln.
+
+Das Begehren nach Paragraf 11 AnfG auf den zur Gläubigerbefriedigung erforderlichen Zugriff beschränken; bei Grundstücken die Duldung der Zwangsvollstreckung in den bezeichneten Gegenstand, nicht dessen Eigentumsübertragung an den Gläubiger verlangen. Geldzinsen nur mit Verzugs- oder Prozesszinsgrundlage berechnen. Vollstreckungsart aus dem konkreten Titel bestimmen, nicht pauschal Paragrafen 888 und 890 ZPO anführen. Eine hierfür nicht beauftragte Klage bleibt außerhalb des Ergebnisses.
 
 ## 1.7. Quellen und Endkontrolle
 
@@ -76,3 +66,29 @@ Prüfe vor Abschluss Leistungsbeziehungen, Anspruchskonkurrenzen, Doppelzählung
 ## 1.8. Technische Grenzen und Format
 
 Nutze nur verfügbare Werkzeuge und benenne die konkrete Zugriffs- oder Beleglücke, ohne die unabhängig mögliche Arbeit abzubrechen. Ohne weitere Skills hier weiterarbeiten; bei Abruffehlern höchstens einen begründeten Alternativweg versuchen. Ohne Export vollständigen Text liefern und keine ungelesene Aktenprüfung, aktuelle Quellenprüfung oder erfolgreiche Dateierzeugung behaupten. Verwende dezimale Gliederung mit Leerzeilen und Times New Roman 11 pt für formatierte Endprodukte, sonst einen Exporthinweis.
+
+## 2. Neue Angaben ändern Anspruch und Begehren
+
+### 2.1. Doppelzahlung oder Zahlung auf fremde Schuld
+
+Bei zwei gleich hohen Buchungen prüfe Rechnung, Tilgungszweck und eine mögliche zweite Forderung. Identischer Betrag allein belegt keine Doppelzahlung. Nach „Eine Zahlung betraf eine andere Rechnung“ ordne beide Leistungen neu zu und reduziere oder verwerfe die Rückforderung entsprechend. Nach bestätigter Doppelzahlung nur den überschießenden Betrag verlangen, nicht den gesamten gezahlten Kaufpreis. Ein wirksamer Kaufvertrag muss dafür nicht angefochten werden.
+
+Bei Zahlung über ein fremdes Konto frage nach der konkreten Anweisung und dem Empfängerhorizont, soweit unklar. Die Antwort „Ich habe nur für die Tochtergesellschaft überwiesen“ kann Anspruchsteller und Leistungsbeziehung verändern. Nicht den wirtschaftlich letzten Empfänger aus Bequemlichkeit verklagen. Stelle den gewählten Anspruchsweg im internen Vermerk begründet dar; im Forderungsschreiben genügen die dafür erforderlichen Tatsachen und Belege.
+
+### 2.2. Empfänger behauptet Verbrauch oder Nichtschuldkenntnis
+
+„Das Geld ist ausgegeben“ verlangt die Aufklärung von Verwendung, Zeitpunkt und verbleibendem Vorteil. Frage nach der konkret behaupteten Ausgabe und Belegen. Wurde damit eine ohnehin bestehende Verbindlichkeit beglichen oder ein Gegenstand erworben, prüfe den verbleibenden Vermögensvorteil, statt automatisch Entreicherung anzunehmen. Eine rechtliche Schlussfolgerung erst nach dem Abgleich mit Paragraf 818 BGB und gegebenenfalls verschärfter Haftung ziehen. Nicht jede spätere Kenntnis beantwortet die Haftung für frühere Vorgänge gleich.
+
+Nach einer E-Mail vor Zahlung „Ich weiß, dass ich nichts schulde“ prüfe Inhalt, Kontext und tatsächliche Kenntnis nach Paragraf 814 BGB; ein Vorbehalt oder bloßer Zweifel ist anders zu würdigen. Der Empfänger trägt die im vorhandenen Hinweisbeschluss erläuterte Last für positive Kenntnis. Die Antwort verändert Einwendungsprüfung und Forderungstext, nicht bloß einen Risikohinweis. Bei Teilrückzahlung Saldo und Zinsen neu rechnen und doppelte Geltendmachung verhindern.
+
+### 2.3. Grundstück verschenkt, Titel vorhanden
+
+Prüfe außerhalb der Insolvenz Titel, Fälligkeit und unzureichende beziehungsweise aussichtslos unzureichende Vollstreckung, bevor ein AnfG-Begehren formuliert wird. Nach „Vollstreckung noch nicht versucht“ nicht ohne Weiteres fehlende Berechtigung oder Erfolglosigkeit behaupten; vorhandene Tatsachen zur Aussichtslosigkeit konkret untersuchen. Frage nach dem benannten Vollstreckungsprotokoll oder Vermögensnachweis. Verfügung, Erwerber und Zeitpunkt müssen eindeutig bezeichnet sein.
+
+Bei Grundstücken richtet sich das passende Begehren auf den erforderlichen Vollstreckungszugriff, nicht auf Eigentumsübertragung an den Gläubiger. Nach Weiterübertragung die Rechtsnachfolgerfrage gesondert prüfen. Nach Eröffnung eines Insolvenzverfahrens ändern Berechtigung und Verfahrensweg möglicherweise die gesamte Anspruchsverfolgung; keinen AnfG-Text unverändert unter InsO-Überschrift weiterverwenden. Das bestellte Schreiben oder der Antrag muss dem tatsächlich gewählten Weg entsprechen.
+
+### 2.4. Fristen und endgültige Fassung
+
+Anfechtungszeitraum rückwärts, Verjährung und prozessuale Frist vorwärts jeweils aus den einschlägigen Auslösern bestimmen. Nach korrigiertem Insolvenzantragsdatum die betroffenen Zeiträume neu berechnen. Ein Verjährungsverzicht nur im belegten Umfang verwenden; ein Entwurf oder Gespräch darüber hemmt nicht als solcher. Die vorhandene Entscheidung IX ZR 247/19 trennt durchsetzbaren Bereicherungsausgleich und Unentgeltlichkeit im bezeichneten Zweipersonenfall, nicht sämtliche Dreieckszahlungen.
+
+Abschluss mit vollständigem Rückforderungs- oder Abwehrschreiben beziehungsweise bestimmtem Antrag, passendem Anspruchsgegner, Betrag und Beweisangebot. Ungünstige Gegenleistungen und Kondiktionssperren nicht ausblenden. Eine offene Zahlungszuordnung sperrt nur den davon abhängigen Anspruchsteil. Nach vollständigen Antworten keine neue Mandatsaufnahme; Anerkenntnis, Verzicht, Versand und Einreichung bleiben freigabepflichtig.

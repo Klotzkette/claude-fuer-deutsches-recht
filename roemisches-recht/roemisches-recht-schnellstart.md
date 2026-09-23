@@ -1,6 +1,8 @@
 # 1. Römischen Quellentext oder Fall erschließen
 
-Verfasse die bestellte Exegese, historische Falllösung oder Rezeptionsanalyse. Ordne den Text seiner Epoche, seinen Begriffen und seiner Prozessform zu; spätere Rezeption getrennt behandeln.
+Ohne Eingabe biete „Fragmentexegese“, „historische Falllösung“ oder „Rezeptionsvergleich“ an. Bei bloßen Textdateien lies diese still und frage nach diesem Ziel, nicht erneut nach sichtbarer Fundstelle. Ein klarer Auftrag führt direkt zur Darstellung; kein ungefragter Quellenkatalog. Folgeantworten verändern Übersetzung, zeitliche Einordnung oder Aktionsprüfung. Keine Plugin-Dateien voraussetzen.
+
+Prüfe am vorgelegten römischen Text die betreffende actio, ihre Voraussetzungen und eine mögliche exceptio. Ordne Personenstatus, Gegenstand und Rechtsgeschäft der belegten Epoche zu. Schreibe daraus die bestellte Exegese oder Falllösung; eine moderne Anspruchsnorm ist kein Ersatz für die antike Quelle.
 
 ## 1.1. Frage und Material
 
@@ -17,6 +19,8 @@ Fehlt ein Textzeuge, werte den gesicherten Auszug begrenzt aus. Fordere die betr
 
 Unterscheide Juristenschrift, Konstitution, Edikt, Inschrift, Papyri und spätere Rekonstruktion. Nenne Autor oder Kompilator, Datierung, Überlieferung, Sprache und konkrete Stelle, soweit belegt. Keine nicht eingesehenen Textvarianten behaupten. Interpolation ist eine zu begründende Hypothese, kein Schluss aus einem einzelnen ungewohnten Wort.
 
+Für einen konkreten deliktischen Fall [D. 9.2.11 pr., Ulpian, libro 18 ad edictum](https://droitromain.univ-grenoble-alpes.fr/Corpus/d-09.htm), heranziehen: Im Barbierfall stehen Ballwurf, Rasierhandlung und gefährlicher Standort als unterschiedliche Zurechnungsansätze zur Debatte. Mit D. 9.2.2 pr. zur lex Aquilia und D. 9.2.5.1 zur iniuria verbinden. Das ist Juristenargumentation in justinianischer Überlieferung, kein datierbares Gerichtsurteil. Keine BGB-Mitverschuldensquote und keine eigene moderne Verletztenforderung in den historischen Text hineinlesen.
+
 ## 1.3. Historische Fallanalyse
 
 1. Bestimme den lateinischen Begriff im Werkzusammenhang und erläutere, wo eine moderne Übersetzung zu weit oder zu eng wäre. Offene Überlieferung nicht durch heutige BGB-Dogmatik ergänzen.
@@ -27,6 +31,8 @@ Unterscheide Juristenschrift, Konstitution, Edikt, Inschrift, Papyri und später
 Bei einem fest vorgegebenen Lehrfall keine zusätzlichen Tatsachen erfinden. Ergibt ergänztes Material eine neue entscheidende Frage nach Textstufe oder Übersetzung, gezielt nachfragen; bekannte Angaben nicht wiederholen. Ein vollständig gelieferter Text beseitigt nicht automatisch seine historische Mehrdeutigkeit.
 
 ## 1.4. Rezeption und Ergebnis
+
+„Das ist eine moderne Übersetzung, kein lateinischer Textzeuge“ ändert die Belegstufe und begrenzt sprachliche Schlüsse, nicht die gesamte Bearbeitbarkeit. „Die Fallfrage setzt einen freien Menschen voraus“ verlangt eine erneute Prüfung von Personenstatus und Klageweg; die für einen versklavten Menschen überlieferte Zuordnung darf nicht unverändert übernommen werden. Im Barbierfall verändert eine ergänzte Ortsangabe die konkret zu diskutierende Zurechnung, aber begründet keine moderne Haftungsquote.
 
 Verfolge nur bei entsprechendem Auftrag die spätere Umdeutung über Glossatoren, Kommentatoren, usus modernus und Pandektistik. Belege Übernahme, Änderung oder Bruch jeweils an der betreffenden Stufe. Die heutige Anschlussfrage folgt getrennt von der antiken Falllösung.
 

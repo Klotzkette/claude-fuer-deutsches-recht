@@ -1,24 +1,69 @@
 {
   "schema_version": 1,
   "plugin": "lizenzvertragsersteller",
-  "reviewed_on": "2026-09-17",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/urhg/__31.html",
       "checked_on": "2026-09-14",
       "supports": "Einfaches oder ausschließliches Nutzungsrecht mit räumlicher, zeitlicher oder inhaltlicher Beschränkung."
+    },
+    {
+      "url": "https://www.wipo.int/wipolex/en/text/597188",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 19.07.2012, Az. I ZR 70/10, M2Trade, Randnummern 19 und 26 bis 30. Anwendung: Bei Ende des Hauptlizenzvertrags Rückfall des Hauptrechts und grundsätzlich fortbestehende wirksame Unterlizenzen getrennt regeln. Grenze und Prüfzugang: Keine Heilung unwirksamer Rechteeinräumung und keine pauschale Insolvenzfestigkeit; vollständige gerichtliche Gründe in WIPO Lex gelesen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/__31.html",
+      "checked_on": "2026-09-22",
+      "supports": "Rechteeinräumung und Zweckübertragung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/__35.html",
+      "checked_on": "2026-09-22",
+      "supports": "Einräumung weiterer Nutzungsrechte."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__103.html",
+      "checked_on": "2026-09-22",
+      "supports": "Wahlrecht bei beiderseits nicht vollständig erfülltem Vertrag."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32026R0877",
+      "checked_on": "2026-09-22",
+      "supports": "Neue Technologietransfer-Gruppenfreistellung; Anwendung ab 01.05.2026, Artikel 10 Übergang und Artikel 11 Laufzeit geprüft."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/__32a.html",
+      "checked_on": "2026-09-23",
+      "supports": "Weitere Beteiligung nach Erlösstufe und unmittelbarem Anspruchsgegner konkretisiert. Amtlichen Normtext gelesen."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Vollständig geprüft: Nachgereichte Rechtebelege oder Abrechnungsparameter verändern Nutzungsumfang, Gewährleistung und Vergütung; danach wird der bestellte Vertrag fertiggestellt. Keine weitere Änderung des eigenständig nutzbaren Minis nötig.",
+    "reason": "Mini individuell um drei Einstiegsmodi, zusammengesetzte Rechte, Exklusivitätsfolgen und konkrete Änderung der Vertragsdatei ergänzt; M2Trade-Abgrenzung erhalten. Desk-Review ohne Live-Ausführung.",
     "changes": [
-      "Staffelkontrollrechnung und Anrechnung von Mindestbeträgen konkretisiert.",
-      "Pauschale Rechteketten- und Steuerannahmen vermieden."
+      "M2Trade für wirksame Unterlizenzen und Rückfall der Hauptrechte integriert",
+      "Escrow nicht als fehlende Rechte ersetzende Insolvenzsicherung behandelt",
+      "TTBER 2026 mit Übergang statt abgelaufener Pauschalfreistellung berücksichtigt",
+      "Neue Freigabe mit Bearbeitungsausschluss führt zu abgestimmter Rechteanlage, Unterlizenzklausel und Anpassung entgegenstehender Leistungszusagen."
     ],
-    "sha256": "4d1d9a334d388653879e1da31689151d0650aa99969bd7fc249caa4b75df0f95"
+    "sha256": "4e5dc0ccf31c7012f800d6b32c96dcd8054d3bb78ac065ab80ac32ca1054d449"
   },
-  "workshop_review": {"verdict":"revised","reason":"Die Ganztextprüfung zeigte neben passender Rechteklärung eine Stationsproduktpflicht und technische Ausgabeanweisungen mit internen Zeichen und Modulabhängigkeit.","changes":["Rechteübersicht und Berechnung dem fertigen Vertrag untergeordnet.","Sicherheiten ausformulieren statt interne Zeichen ausgeben lassen; deutsche und bilinguale Ausgabeskills ausdrücklich optional gemacht."],"sha256":"ccb5ea152d4ad6e8863309fff024e9b0000f2f605fb5a00e15d24fcf05d03d3e"},
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Werkstatt vollständig gelesen und um Rechtepakete, konkrete Vertriebswege, Exklusivitätsgegenleistung, Folgejahresretouren, Vertragsendbestände und technische Escrow-Prüfung vertieft. Bestehende TTBER- und Insolvenzgrenzen erhalten; kein Live-Vertragstest.",
+    "changes": [
+      "M2Trade für wirksame Unterlizenzen und Rückfall der Hauptrechte integriert",
+      "Escrow nicht als fehlende Rechte ersetzende Insolvenzsicherung behandelt",
+      "TTBER 2026 mit Übergang statt abgelaufener Pauschalfreistellung berücksichtigt",
+      "Weitere Beteiligung nach Erlösstufe und unmittelbarem Anspruchsgegner konkretisiert.",
+      "Kombinierte Software-, Bild- und Musikbeiträge getrennt zuordnen; Freistellung nicht als Ersatz fehlender Rechte verwenden.",
+      "Auftragsfertiger, Vertriebspartner und Endkundenlizenz unterscheiden; Mindestleistung und Folge einer verfehlten Exklusivitätsgegenleistung ausformulieren.",
+      "Bündelerlös, spätere Retoure, Abverkauf, fortbestehende Kundenrechte und Support getrennt bearbeiten; Escrow-Build und Komponentenrechte nicht gleichsetzen."
+    ],
+    "sha256": "be1a6aa9999e4ebe04a0a4eccb90ad5596f007865ddfbc8f12136b5585519149"
+  },
   "selection": {
     "positive": [
       "Entwerfen Sie eine Umsatzlizenz mit abschnittsweise sinkenden Sätzen und Mindestbetrag.",
@@ -62,5 +107,45 @@
       ],
       "target_skill": "klausel-verguetung-pauschale-royalty-tiered"
     }
-  ]
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-23",
+    "files": [
+      "lizenzvertragsersteller/lizenzvertragsersteller-schnellstart.md",
+      "lizenzvertragsersteller/lizenzvertragsersteller-werkstatt.md",
+      "lizenzvertragsersteller/README.md",
+      "quality/evals/lizenzvertragsersteller.json"
+    ],
+    "opening_change": "Lizenzgegenstand, Rechtebestand und konkret bezahlte Nutzung bestimmen die Vertragsfassung.",
+    "norms": [
+      "Paragrafen 31 und 35 UrhG",
+      "Paragraf 103 InsO",
+      "Artikel 3 bis 5, 10 und 11 Verordnung (EU) 2026/877"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 19.07.2012, Az. I ZR 70/10, M2Trade, Randnummern 19 und 26 bis 30",
+        "url": "https://www.wipo.int/wipolex/en/text/597188",
+        "application": "Bei Ende des Hauptlizenzvertrags Rückfall des Hauptrechts und grundsätzlich fortbestehende wirksame Unterlizenzen getrennt regeln.",
+        "limit": "Keine Heilung unwirksamer Rechteeinräumung und keine pauschale Insolvenzfestigkeit; vollständige gerichtliche Gründe in WIPO Lex gelesen."
+      }
+    ],
+    "remaining_limits": [
+      "Desk-/Quellenprüfung, kein Live-Ergebnistest.",
+      "Keine vollständige kartell-, steuer- oder ausfuhrrechtliche Prüfung eines konkreten Lizenzvertrags.",
+      "Nachprüfung am 2026-09-23: Alle Profilquellen erneut geöffnet. Paragrafen 31, 35 und 32a UrhG sowie Paragraf 103 InsO lesbar; M2Trade-Gründe in WIPO Lex erneut im maßgeblichen Abschnitt gelesen. Die Verordnung 2026/877 war beim erneuten EUR-Lex-Abruf durch eine JavaScript-Sperre unzugänglich. Frühere Verifikation und Rechtsänderung bleiben erhalten; keine erneute Bestätigung des Verordnungsvolltexts und keine technische Escrow-Ausführung behauptet."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Lizenzvertrag, Vergütungsklausel oder Prüfung von Rechtekette und Vertragsende als kurze Wahl.",
+      "Dateien ohne Aufgabe: Vertrag und Rechtebelege still lesen, nur Entwurfs- oder Prüfziel klären.",
+      "Klarer Auftrag: sofort die bestellte Vertragsfassung bearbeiten, nur entscheidende Rechte-, Vergütungs- oder Risikoverteilungsfragen stellen."
+    ],
+    "continuation": "Erlaubte Weiterlizenzierung bei ausgeschlossenem Bearbeitungsrecht verändert im vereinbarten Pfad, beispielsweise vertraege/lizenzvertrag.md, Rechteanlage, Unterlizenzregel, Bearbeitungs- und davon abhängige Leistungszusagen.",
+    "enrichment": "Zusammengesetzte Lizenzprodukte, Fertigungs- und Vertriebswege, Exklusivitätsgegenleistung, Bündelabrechnung und spätere Retouren, Bestände bei Beendigung sowie technischer und rechtlicher Umfang einer Escrow-Hinterlegung.",
+    "limits": "desk review; no live client execution"
+  }
 }

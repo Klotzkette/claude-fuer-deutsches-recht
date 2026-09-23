@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "insolvenzforderungsanmeldungspruefung",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/inso/__39.html",
@@ -12,16 +12,27 @@
       "url": "https://www.gesetze-im-internet.de/inso/__174.html",
       "checked_on": "2026-09-14",
       "supports": "Amtlicher Suchauszug Absätze 2 und 3: Individualisierung und besondere Aufforderung für Nachrang; Direktabruf scheiterte."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2019/IX_ZR__47-19.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 25.06.2020, IX ZR 47/19, Rn. 10–27: Anmeldung muss die Forderung individualisieren, aber nicht bereits schlüssig beweisen; fehlende Belege rechtfertigen nicht automatisch formale Unwirksamkeit. Ergänzung und erforderliche Nachprüfung vor Aufnahme eines Rechtsstreits trennen. Grenze: Heilung nicht pauschal rückwirkend; Prüfung, Bestreiten, Kostenfolgen und materieller Bestand bleiben eigenständige Fragen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__174.html",
+      "checked_on": "2026-09-22",
+      "supports": "Grund, Betrag, beizufügende Unterlagen und besondere Attribute der Forderungsanmeldung; formale Individualisierung von Beweisführung trennen."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Vollständig gelesen: Forderungsgrund, Zahlung und Zinsrang werden positionsbezogen geprüft; fehlender Beleg ist Klärungsbedarf und keine automatische materielle Nichtexistenz.",
+    "reason": "Fehlende Urkunde wird von fehlender Individualisierung und unbegründeter Forderung unterschieden. Individuelle Text- und Quellenprüfung, kein Live-Modelltest.",
     "changes": [
-      "Leistungsnachweis und Zahlungszuordnung mit aktualisierter Betragsrechnung und Gläubigerantwort verbunden.",
-      "Titel vor Zuordnung der Betreibungslast nachfordern; Prüfempfehlung nicht als gerichtliche Feststellung ausgeben."
+      "Formale Wirksamkeit nicht mehr pauschal an vollständigen Anspruchsbeweis geknüpft.",
+      "Heilung nicht als rückwirkende Beseitigung jeder Prozessvoraussetzung behandelt; Nachprüfung und Kostenfolgen getrennt.",
+      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt."
     ],
-    "sha256": "219f18675ae28fbefaa0c8766d13548e4be72bb98e6d57e27075e0e1755cb827"
+    "sha256": "c33872eb861582d87fce7186ddbd2564b7c094fb92a94e189e8561f9f5738fad"
   },
   "selection": {
     "positive": [
@@ -69,12 +80,51 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Gesamte Werkstatt einschließlich Schuldnerwiderspruch, Verteilung und Import gelesen. Anmeldung, Feststellung und Verteilung haben eigene Nachweise und Fortsetzungen; allgemeine Insolvenzreifeprüfung bleibt außerhalb des Tabellenauftrags.",
+    "reason": "Anmeldung, Ergänzung, Nachprüfung, Bestreiten und Prozessaufnahme mit IX ZR 47/19 in den vorhandenen Tabellenablauf eingebunden. Individuelle Text- und Quellenprüfung, kein Live-Modelltest.",
     "changes": [
-      "Neue Zahlungs- und Verwertungserlöse in Hauptforderung, Zinsen und Ausfall einarbeiten lassen.",
-      "Titelstatus und Bestreitenden vor Verfahrensbewertung prüfen; Nachweis der Feststellungsklage mit Verteilung abgleichen.",
-      "Importschema an tatsächlicher Vorgabe statt erfundenem Tabellenstandard ausgerichtet; Quellenprüfdaten erhalten."
+      "Formale Wirksamkeit nicht mehr pauschal an vollständigen Anspruchsbeweis geknüpft.",
+      "Heilung nicht als rückwirkende Beseitigung jeder Prozessvoraussetzung behandelt; Nachprüfung und Kostenfolgen getrennt.",
+      "Dubletten und Factorrolle, Tilgungszuordnung, eröffnungübergreifender Vertrag, Deliktsattribut und gesonderter Verteilungsnachweis."
     ],
-    "sha256": "35b86319a0609d196aebd0bc12f04b2ef19e6eec04fe558e8ce939fa3497da2b"
+    "sha256": "fdc920bd74feeaa0f45960ad90802934346edf9e174f6ae73e86dbb62147c32f"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "insolvenzforderungsanmeldungspruefung/insolvenzforderungsanmeldungspruefung-werkstatt.md",
+      "insolvenzforderungsanmeldungspruefung/insolvenzforderungsanmeldungspruefung-schnellstart.md",
+      "insolvenzforderungsanmeldungspruefung/README.md",
+      "quality/evals/insolvenzforderungsanmeldungspruefung.json"
+    ],
+    "opening_change": "Angemeldete Forderung mit Rechnung, Titel, Buchhaltung und Zahlungen auf Restbetrag und Rang abgleichen.",
+    "norms": [
+      "Paragrafen 174, 177, 178 und 179 InsO",
+      "Paragraf 93 ZPO"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 25.06.2020, IX ZR 47/19, Rn. 10–27",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2019/IX_ZR__47-19.pdf?__blob=publicationFile&v=1",
+        "application": "Anmeldung muss die Forderung individualisieren, aber nicht bereits schlüssig beweisen; fehlende Belege rechtfertigen nicht automatisch formale Unwirksamkeit. Ergänzung und erforderliche Nachprüfung vor Aufnahme eines Rechtsstreits trennen.",
+        "limit": "Heilung nicht pauschal rückwirkend; Prüfung, Bestreiten, Kostenfolgen und materieller Bestand bleiben eigenständige Fragen."
+      }
+    ],
+    "remaining_limits": [
+      "Redaktionelle Akten- und Quellenprüfung, kein Live-Client- oder Modelltest.",
+      "Sonderattribute, Nachrang, titulierte Forderungen und elektronische Einreichung bleiben fallbezogen zu prüfen; keine vollständige neue Verifikation aller Tabellenfälle.",
+      "Workflow-Ergänzung am 2026-09-23: individuelle Textprüfung, keine erneute Gesamtverifikation der bestehenden Entscheidungsanker; deren dokumentierte Quellen- und Zugriffsgrenzen bleiben bestehen."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Anmeldung, Betrags-/Rangprüfung oder Bestreiten wählen.",
+      "Forderungsunterlagen still lesen und zwei passende Dokumentwege anbieten.",
+      "Bestellte Anmeldung oder Prüfempfehlung direkt liefern."
+    ],
+    "continuation": "Abtretungsanzeige -> Gläubigerkette; Zahlung -> Zinsabschnitte; neuer Titel -> Betreibungslast; Tabellenauszug -> tatsächlichen Streitgegenstand ändern.",
+    "enrichment": "Dubletten und Factorrolle, Tilgungszuordnung, eröffnungübergreifender Vertrag, Deliktsattribut und gesonderter Verteilungsnachweis.",
+    "limits": "desk review; no live client execution"
   }
 }

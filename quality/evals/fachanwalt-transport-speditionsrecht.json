@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "fachanwalt-transport-speditionsrecht",
-  "reviewed_on": "2026-09-17",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/hgb/__431.html",
@@ -27,28 +27,76 @@
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2011/I_ZR__87-11.pdf?__blob=publicationFile&v=1",
       "checked_on": "2026-09-14",
       "supports": "BGH, Urteil vom 13.06.2012, Az. I ZR 87/11, Leitsätze: sekundäre Darlegung bei geöffnetem und wieder verschlossenem Packstück und rechtzeitige Wertmitteilung. CMR-Fall, Übertragung auf HGB ausdrücklich begrenzt. Amtliches PDF direkt abgerufen und textlich gelesen."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2011/I_ZR__87-11.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 13.06.2012, Az. I ZR 87/11, Randnummern 16 bis 20 und 26 bis 28: Sekundäre Darlegung zu Transportlauf, Kontrollen und Sicherheit bei konkreter Verpackungsmanipulation; Wertwarnung muss Reaktion ermöglichen. Grenze: CMR-Fall, Darlegungslogik auf HGB begründet übertragen; keine automatische Durchbrechung oder feste Mitverschuldensquote."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2025/I_ZR_134-25.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 02.07.2026, Az. I ZR 134/25, Randnummern 19 bis 20 und 58 bis 68: Wahl zwischen begrenztem Wertersatz und Schadensersatz bei qualifiziertem Verschulden; Bergung nicht als sonstige Beförderungskosten. Grenze: Aufliegerschaden beweist keinen Teilverlust; Frage substanzrettender Kosten innerhalb des Wertersatzes blieb offen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/__429.html",
+      "checked_on": "2026-09-22",
+      "supports": "Geltenden Wortlaut zu Wertersatz gelesen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/__431.html",
+      "checked_on": "2026-09-22",
+      "supports": "Geltenden Wortlaut zu Gewichtshaftung und Umrechnung gelesen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/__435.html",
+      "checked_on": "2026-09-22",
+      "supports": "Geltenden Wortlaut zu qualifiziertem Verschulden gelesen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/__438.html",
+      "checked_on": "2026-09-22",
+      "supports": "Geltenden Wortlaut zu unterschiedlichen Anzeigefolgen gelesen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/__435.html",
+      "checked_on": "2026-09-22",
+      "supports": "Crossreview: Vorsatz eigenständige Alternative neben Leichtfertigkeit mit Schadensbewusstsein; gesetzliche Zurechnung nach Paragraf 428 bleibt erforderlich."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2011/I_ZR__87-11.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "Rn. 19 erneut gelesen: Vorsatz von Transportbediensteten trägt unbeschränkte Haftung nach CMR ohne zusätzliches Organisationsverschulden; Außendiebstahl ist davon zu trennen."
     }
   ],
   "mini_review": {
-    "verdict": "retained",
-    "reason": "Vollständige Textprüfung am 18. September: Pack-, Wiege- und Regressnachweise ändern nur den betroffenen Zeitraum, Betrag oder Fristlauf; das bestellte Schreiben wird nach Klärung fertiggestellt.",
+    "verdict": "revised",
+    "reason": "Sekundäre Darlegung bei geöffneter Verpackung sowie rechtzeitige Wertwarnung mit tatsächlichen Voraussetzungen erklärt; Wertersatz und Vollschaden getrennt. Crossreview P2: vorsätzliche Entwendung als eigenständige Alternative aufgenommen. Workflow-Ergänzung einzeln geprüft: Palette wurde erst nach zwei Tagen im Empfängerlager geöffnet -> Verlustalternative und Beweisbegründung ändern; neuer Wiegebeleg -> Menge und Haftungsgrenze korrigieren.",
     "changes": [
-      "Keine weitere Änderung an der vollständig gelesenen Mini-Fassung."
+      "BGH I ZR 87/11 im amtlichen Volltext gelesen; Informationsvorsprung nicht zur pauschalen Beweislastumkehr gemacht",
+      "BGH I ZR 134/25 samt Randnummern 19/20 und Bergungskostenbereich erneut amtlich gelesen; kein Vermischen von Wertersatz und Folgeschaden",
+      "Quittierte Verpackung, Inhalt, Wertwarnung und Anspruchshöhe getrennt; vollständiges angefordertes Dokument statt Prüfzettel",
+      "Crossreview P2 umgesetzt: Vorsatz als selbständige Alternative in allen drei Prompts und Fokus; Mitarbeiterdiebstahl ohne zusätzliches Organisationsverschulden, Außendiebstahl gesondert.",
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
     ],
-    "sha256": "083dfe690c7246e3ae1e4bcde9e1d4c501ce2ca957fbe1724ebf5ee4503d224f"
+    "sha256": "f47b3ee7bb99f24b2b9515f42e493b1407f5d83aeb63d34cda93be4cf169659b"
   },
   "focus_review": {
-    "reviewed_on": "2026-09-17",
+    "reviewed_on": "2026-09-23",
     "method": "desk_review",
     "verdict": "revised",
-    "reason": "Standalone-Prompt und zugeordneter Fokus-Skill vollständig auf fachlichen Umfang, Rückfragen mit Fortsetzung bis zum bestellten Dokument, Ausgabeverhalten, Rollenbegrenzung und Quellendifferenzierung gelesen. Kein Live-Modelltest und keine erneute Vollverifikation der bestehenden Rechtsquellen.",
+    "reason": "Hauptproblem und zugehörigen Skill vollständig gelesen; Beweislogik und Wahl der Berechnungsgrundlage konsistent präzisiert, offengelassene Bergungskostenfrage benannt. Crossreview P2: Vorsatz und Leichtfertigkeit als Alternativen, keine zusätzliche Organisationshürde bei zurechenbarem Vorsatz. Workflow-Ergänzung: Palette wurde erst nach zwei Tagen im Empfängerlager geöffnet -> Verlustalternative und Beweisbegründung ändern; neuer Wiegebeleg -> Menge und Haftungsgrenze korrigieren. Zugeordneten Fokus-Skill auf Kohärenz gelesen und unverändert belassen.",
     "changes": [
-      "Vollständigen Antworttext bei fehlendem Dateiexport ergänzt; keine erfundenen Downloadlinks."
+      "BGH I ZR 87/11 im amtlichen Volltext gelesen; Informationsvorsprung nicht zur pauschalen Beweislastumkehr gemacht",
+      "BGH I ZR 134/25 samt Randnummern 19/20 und Bergungskostenbereich erneut amtlich gelesen; kein Vermischen von Wertersatz und Folgeschaden",
+      "Quittierte Verpackung, Inhalt, Wertwarnung und Anspruchshöhe getrennt; vollständiges angefordertes Dokument statt Prüfzettel",
+      "Crossreview P2 umgesetzt: Vorsatz als selbständige Alternative in allen drei Prompts und Fokus; Mitarbeiterdiebstahl ohne zusätzliches Organisationsverschulden, Außendiebstahl gesondert.",
+      "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten."
     ],
     "prompt_path": "fachanwalt-transport-speditionsrecht/fachanwalt-transport-speditionsrecht-hauptproblem.md",
-    "prompt_sha256": "42695ded448406b0794f2a0b22440f224f9997cc16342f553ebeaafcceecc994",
+    "prompt_sha256": "7b7545442d981ecc2772290caf78bb22aadf45b7e194e435ffc798024aa8dd5f",
     "skill_path": "fachanwalt-transport-speditionsrecht/skills/teilverlust-packstueckabgleich-haftungsdurchbrechung/SKILL.md",
-    "skill_sha256": "8023fefa11e1f9194389c23e12daf09f80420a3bc9b1a9ee9ef37a09513e64b5"
+    "skill_sha256": "51ee33a11190d579574f1c89b4e10455f4fb2f3cf2d74ace01a1b46801af70e8"
   },
   "selection": {
     "positive": [
@@ -104,6 +152,13 @@
           "deliverables": [
             "ergebnis.md"
           ]
+        },
+        {
+          "id": "C06",
+          "text": "Vorsatz wird als selbständige Alternative des Paragrafen 435 HGB geprüft. Nachgewiesene Entwendung durch eine nach Paragraf 428 zurechenbare Person verlangt kein zusätzliches leichtfertiges Organisationsverschulden; bloßer Außendiebstahl oder Manipulationsverdacht wird nicht gleichgesetzt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
         }
       ],
       "target_skill": "teilverlust-packstueckabgleich-haftungsdurchbrechung"
@@ -111,12 +166,63 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Textprüfung am 18. September: Der gesamte Werkstatttext enthielt trotz guter Eingangsschritte noch die pauschale Aussage, versäumte Reklamation vernichte den Anspruch, und fachfremde Standardausgaben.",
+    "reason": "Generische BGB-Liste und Entwurfsbeschränkung entfernt; alle Regime-, Regress-, Automatisierungs- und Versicherungszweige erhalten und beide BGH-Fälle operativ eingebunden. Crossreview P2: vorsätzliche Entwendung als eigenständige Alternative aufgenommen. Workflow-Ergänzung einzeln geprüft: Physischer Scan gegenüber Voranmeldung, Packstückidentität und Tara, Beweisalternativen außerhalb der Obhut, getrennte Wertersatz- und Schadenswege, Restverwertung, Legalzession und vertragsgliedbezogene Anzeige- und Verjährungsprüfung.",
     "changes": [
-      "Anzeigewirkung, Lieferverzug und Verjährung entsprechend der vorhandenen Mini-Abgrenzung getrennt.",
-      "CMR-Grenze nicht als vorgegeben zu durchbrechendes Hindernis behandelt; Regime und Nachweise entscheiden.",
-      "Automatisierung, Speditionsrolle und Versicherung getrennt prüfen; doppelte Pflichtprodukte entfernt."
+      "BGH I ZR 87/11 im amtlichen Volltext gelesen; Informationsvorsprung nicht zur pauschalen Beweislastumkehr gemacht",
+      "BGH I ZR 134/25 samt Randnummern 19/20 und Bergungskostenbereich erneut amtlich gelesen; kein Vermischen von Wertersatz und Folgeschaden",
+      "Quittierte Verpackung, Inhalt, Wertwarnung und Anspruchshöhe getrennt; vollständiges angefordertes Dokument statt Prüfzettel",
+      "Crossreview P2 umgesetzt: Vorsatz als selbständige Alternative in allen drei Prompts und Fokus; Mitarbeiterdiebstahl ohne zusätzliches Organisationsverschulden, Außendiebstahl gesondert.",
+      "Physischer Scan gegenüber Voranmeldung, Packstückidentität und Tara, Beweisalternativen außerhalb der Obhut, getrennte Wertersatz- und Schadenswege, Restverwertung, Legalzession und vertragsgliedbezogene Anzeige- und Verjährungsprüfung."
     ],
-    "sha256": "403acc5c5e5c342bbb585dad995809eec09d7f12300eb9027ee247f0201b9d8d"
+    "sha256": "bca0b5a93988e25c6c2fe09abb40050b8816c5000d8a4a2af8bf095b27dbd201"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-23",
+    "files": [
+      "fachanwalt-transport-speditionsrecht/fachanwalt-transport-speditionsrecht-hauptproblem.md",
+      "fachanwalt-transport-speditionsrecht/fachanwalt-transport-speditionsrecht-schnellstart.md",
+      "fachanwalt-transport-speditionsrecht/fachanwalt-transport-speditionsrecht-werkstatt.md",
+      "fachanwalt-transport-speditionsrecht/skills/teilverlust-packstueckabgleich-haftungsdurchbrechung/SKILL.md",
+      "fachanwalt-transport-speditionsrecht/README.md",
+      "quality/evals/fachanwalt-transport-speditionsrecht.json"
+    ],
+    "opening_change": "Verlust während bestimmter Obhut und Haftung des konkreten Beteiligten aus Pack-, Übergabe- und Vertragsnachweisen klären. Workflow-Ergänzung: Leer: Verlustforderung, Haftungsabwehr oder Regresssicherung anbieten. Dateien ohne Aufgabe: Pack-, Wiege-, Übergabe- und Vertragsbelege still lesen; Anspruchs- oder Regressziel klären, keinen Transportbericht ausgeben. Klarer Auftrag: Haftbarhaltung, Erwiderung oder Rechnung unmittelbar bearbeiten; unbekannte Schnittstellen gezielt nachfragen.",
+    "norms": [
+      "Paragrafen 425, 428, 429, 431, 435 und 438 HGB",
+      "Paragrafen 249 und 252 BGB",
+      "Artikel 29 CMR"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 13.06.2012, Az. I ZR 87/11, Randnummern 16 bis 20 und 26 bis 28",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2011/I_ZR__87-11.pdf?__blob=publicationFile&v=1",
+        "application": "Sekundäre Darlegung zu Transportlauf, Kontrollen und Sicherheit bei konkreter Verpackungsmanipulation; Wertwarnung muss Reaktion ermöglichen. Rn. 19 trennt vorsätzliche Entwendung durch zurechenbare Transportpersonen von Außendiebstahl mit qualifiziert schuldhaftem Sicherungsmangel.",
+        "limit": "CMR-Fall, Darlegungslogik auf HGB begründet übertragen; keine automatische Durchbrechung oder feste Mitverschuldensquote."
+      },
+      {
+        "citation": "BGH, Urteil vom 02.07.2026, Az. I ZR 134/25, Randnummern 19 bis 20 und 58 bis 68",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2025/I_ZR_134-25.pdf?__blob=publicationFile&v=1",
+        "application": "Wahl zwischen begrenztem Wertersatz und Schadensersatz bei qualifiziertem Verschulden; Bergung nicht als sonstige Beförderungskosten.",
+        "limit": "Aufliegerschaden beweist keinen Teilverlust; Frage substanzrettender Kosten innerhalb des Wertersatzes blieb offen."
+      }
+    ],
+    "remaining_limits": [
+      "Desk-/Quellenprüfung, kein Live-Ergebnistest.",
+      "I ZR 87/11 vollständig amtlich gelesen; I ZR 134/25 Leitsätze und entscheidende Abschnitte gelesen, nicht jede Nebenfrage erneut geprüft.",
+      "Keine vollständige Verifikation sämtlicher See-, Bahn-, Luft-, Multimodal- und Außenhandelsregime.",
+      "Workflow-Review 23.09.2026: erneuter Abruf von Paragraf 438 HGB scheiterte; bisherige Normnachweise und beide BGH-Anker mit CMR-/HGB- und Berechnungsgrenzen erhalten, keine neue Volltextprüfung behauptet."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Verlustforderung, Haftungsabwehr oder Regresssicherung anbieten.",
+      "Dateien ohne Aufgabe: Pack-, Wiege-, Übergabe- und Vertragsbelege still lesen; Anspruchs- oder Regressziel klären, keinen Transportbericht ausgeben.",
+      "Klarer Auftrag: Haftbarhaltung, Erwiderung oder Rechnung unmittelbar bearbeiten; unbekannte Schnittstellen gezielt nachfragen."
+    ],
+    "continuation": "Palette wurde erst nach zwei Tagen im Empfängerlager geöffnet -> Verlustalternative und Beweisbegründung ändern; neuer Wiegebeleg -> Menge und Haftungsgrenze korrigieren.",
+    "enrichment": "Physischer Scan gegenüber Voranmeldung, Packstückidentität und Tara, Beweisalternativen außerhalb der Obhut, getrennte Wertersatz- und Schadenswege, Restverwertung, Legalzession und vertragsgliedbezogene Anzeige- und Verjährungsprüfung.",
+    "limits": "desk review; no live client execution"
   }
 }

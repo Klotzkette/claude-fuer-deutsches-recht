@@ -1,25 +1,68 @@
 {
   "schema_version": 1,
   "plugin": "solo-selbststaendige-praxis",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/bgb/__641.html",
       "checked_on": "2026-09-14",
       "supports": "Vergütungsfälligkeit bei Abnahme und angemessener Mängeleinbehalt, in der Regel das Doppelte der erforderlichen Beseitigungskosten."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2015/VII_ZR_193-15.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 19.01.2017, VII ZR 193/15, Randnummern 25 bis 45: Volltext gelesen: Mängelrechte grundsätzlich ab Abnahme, davor Erfüllungsrecht; Ausnahme beim endgültigen Abrechnungsverhältnis, nicht allein durch Vorschussverlangen. Grenze: Keine Übertragung auf Dienstverträge; die Entscheidung erlaubt keine pauschale Abnahmeverweigerung bei unwesentlichen Mängeln und keine automatische Freigabe des gesamten Werklohns."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__640.html",
+      "supports": "Abnahmepflicht, unwesentliche Mängel und Vorbehalt bei bekanntem Mangel nach Absatz 3; nicht jeder Mangel erlaubt Abnahmeverweigerung.",
+      "checked_on": "2026-09-22"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__641.html",
+      "supports": "Fälligkeit bei Abnahme und regelmäßig doppelter Beseitigungsaufwand als Mängeleinbehalt, nicht automatisch die gesamte Rechnung.",
+      "checked_on": "2026-09-22"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__637.html",
+      "supports": "Selbstvornahme und Vorschuss: Fristsetzung beziehungsweise Entbehrlichkeit und erforderliche Aufwendungen.",
+      "checked_on": "2026-09-22"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__641.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlich indexierten Absatz 3 zum angemessenen Einbehalt und regelmäßig doppelten Beseitigungsaufwand geprüft; direkter Abruf nicht erreichbar."
     }
   ],
   "mini_review": {
-    "verdict": "retained",
-    "reason": "Vollständig gelesen: Leistungsbeschreibung und Teilzahlung werden gezielt nachgefordert und anschließend in Streitbetrag, Zinsen und Kundenschreiben eingearbeitet. Der Liquiditätsauftrag bleibt ein Plan ohne ungefragte Mahnung; Steuer- und Statusfragen werden getrennt behandelt. Kein Fortsetzungswiderspruch festgestellt.",
-    "changes": [],
-    "sha256": "29e98515e5a90a9b5d6b4111533fe3129de5f387ae9d7df4650966bda5073f4f"
+    "verdict": "revised",
+    "reason": "Fachliche Startvarianten und konkrete Antwortfortsetzung einzeln geprüft. Vertragstyp und Abnahmestand vor Zahlungsargumentation bestimmen; Zusatzfunktion durch vollständiges Nachtragsangebot mit Terminfolgen regeln; bezahlte, zugesagte und streitige Mittel trennen; Beendigung und Daten-/Rechteübergabe getrennt abschließen.",
+    "changes": [
+      "Auftrag, Abnahme und tatsächliche Zahlungsposition eröffnen beide Prompts.",
+      "VII ZR 193/15 steuert die gezielte Nachfrage nach Abnahme und endgültiger Erfüllungsablehnung.",
+      "Paragrafen 640 Absatz 3 und 641 Absatz 3 BGB sowie Vorschussvoraussetzungen getrennt; kein automatischer Mahn- oder Klageauftrag.",
+      "Leerstart: Reklamation beantworten, Angebot/Nachtrag oder Liquidität planen wählen.",
+      "Ein belegter Mängelbeseitigungsaufwand von 350 statt 200 Euro verändert Einbehalt und Zahlungsantwort; ein ausgefallener Zufluss verändert den Liquiditätsplan.",
+      "Vertragstyp und Abnahmestand vor Zahlungsargumentation bestimmen; Zusatzfunktion durch vollständiges Nachtragsangebot mit Terminfolgen regeln; bezahlte, zugesagte und streitige Mittel trennen; Beendigung und Daten-/Rechteübergabe getrennt abschließen."
+    ],
+    "sha256": "feb2c83e933b806adaf1fad5a63293ccc6a253e90fad5fdb38c0fc685d8e23a8",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
   },
   "workshop_review": {
-    "verdict": "retained",
-    "reason": "Die vollständig gelesene Werkstatt führt von Auftrag und Leistungsnachweisen über Reklamation und Zahlungen zur fertigen Antwort. Neue Kosten- oder Rechtebelege verändern nur betroffene Vertrags- und Rechnungspositionen; Steuer, Status, Marketing und Auslandsfragen bleiben fallabhängig. Kein zusätzlicher Stopp oder obligatorischer Prozessentwurf gefunden.",
-    "changes": [],
-    "sha256": "418b5617c2c9e836c564f1b32911476bc1e884170ab75ef4f5fffc76270e809c"
+    "verdict": "revised",
+    "reason": "Vollständige Werkstatt mit zusätzlichen fachlichen Entscheidungs- und Dokumentwegen einzeln geprüft. Vertragstyp und Abnahmestand vor Zahlungsargumentation bestimmen; Zusatzfunktion durch vollständiges Nachtragsangebot mit Terminfolgen regeln; bezahlte, zugesagte und streitige Mittel trennen; Beendigung und Daten-/Rechteübergabe getrennt abschließen.",
+    "changes": [
+      "Auftrag, Abnahme und tatsächliche Zahlungsposition eröffnen beide Prompts.",
+      "VII ZR 193/15 steuert die gezielte Nachfrage nach Abnahme und endgültiger Erfüllungsablehnung.",
+      "Paragrafen 640 Absatz 3 und 641 Absatz 3 BGB sowie Vorschussvoraussetzungen getrennt; kein automatischer Mahn- oder Klageauftrag.",
+      "Leerstart: Reklamation beantworten, Angebot/Nachtrag oder Liquidität planen wählen.",
+      "Ein belegter Mängelbeseitigungsaufwand von 350 statt 200 Euro verändert Einbehalt und Zahlungsantwort; ein ausgefallener Zufluss verändert den Liquiditätsplan.",
+      "Vertragstyp und Abnahmestand vor Zahlungsargumentation bestimmen; Zusatzfunktion durch vollständiges Nachtragsangebot mit Terminfolgen regeln; bezahlte, zugesagte und streitige Mittel trennen; Beendigung und Daten-/Rechteübergabe getrennt abschließen."
+    ],
+    "sha256": "4f19b50828d9d397e983d72d31f935cb7ec287d20bd75a5a4179df90d7798a20",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
   },
   "selection": {
     "positive": [
@@ -64,5 +107,44 @@
       ],
       "target_skill": "kunde-reklamiert"
     }
-  ]
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "solo-selbststaendige-praxis/solo-selbststaendige-praxis-werkstatt.md",
+      "solo-selbststaendige-praxis/solo-selbststaendige-praxis-schnellstart.md",
+      "solo-selbststaendige-praxis/README.md",
+      "quality/evals/solo-selbststaendige-praxis.json"
+    ],
+    "opening_change": "Der Auftakt verlangt den Abgleich von Auftrag, Abnahme und Teilzahlungen und bestimmt die aktuell verlangbare Restvergütung statt einer allgemeinen Betriebsaufnahme.",
+    "norms": [
+      "Paragrafen 631, 634, 635, 637, 640 Absatz 3 und 641 BGB"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 19.01.2017, VII ZR 193/15, Randnummern 25 bis 45",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2015/VII_ZR_193-15.pdf?__blob=publicationFile&v=1",
+        "application": "Volltext gelesen: Mängelrechte grundsätzlich ab Abnahme, davor Erfüllungsrecht; Ausnahme beim endgültigen Abrechnungsverhältnis, nicht allein durch Vorschussverlangen.",
+        "limit": "Keine Übertragung auf Dienstverträge; die Entscheidung erlaubt keine pauschale Abnahmeverweigerung bei unwesentlichen Mängeln und keine automatische Freigabe des gesamten Werklohns."
+      }
+    ],
+    "remaining_limits": [
+      "Desk-/Quellenprüfung, kein Live-Mandanten- oder Modelltest.",
+      "Die gezielte Prüfung betrifft Werklohn und Abnahme, nicht sämtliche Steuer-, Status-, Datenschutz- und Auslandsfragen des Plugins.",
+      "Keine Prüfung eines konkreten Vertrags, Leistungsnachweises oder Kostenangebots.",
+      "Workflow-Vertiefung 2026-09-23: BGH VII ZR 193/15 mit bisheriger Reichweite erhalten; keine neue Vollprüfung von Steuer-, Versicherungsstatus- oder Insolvenzberatung. Desk review; keine Live-Client-Ausführung."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leerstart: Reklamation beantworten, Angebot/Nachtrag oder Liquidität planen wählen.",
+      "Dateien: Auftrag, Rechnung und Zahlungsbelege still lesen und das konkrete Arbeitsziel klären.",
+      "Klarer Auftrag: vollständigen Zahlungsbrief, Nachtrag oder Liquiditätsplan direkt erstellen."
+    ],
+    "continuation": "Ein belegter Mängelbeseitigungsaufwand von 350 statt 200 Euro verändert Einbehalt und Zahlungsantwort; ein ausgefallener Zufluss verändert den Liquiditätsplan.",
+    "enrichment": "Vertragstyp und Abnahmestand vor Zahlungsargumentation bestimmen; Zusatzfunktion durch vollständiges Nachtragsangebot mit Terminfolgen regeln; bezahlte, zugesagte und streitige Mittel trennen; Beendigung und Daten-/Rechteübergabe getrennt abschließen.",
+    "limits": "desk review; no live client execution"
+  }
 }

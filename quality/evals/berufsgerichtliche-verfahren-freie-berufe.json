@@ -1,11 +1,155 @@
 {
-  "schema_version":1,"plugin":"berufsgerichtliche-verfahren-freie-berufe","reviewed_on":"2026-09-17",
-  "sources":[
-    {"url":"https://www.gesetze-im-internet.de/brao/__74.html","checked_on":"2026-09-14","supports":"Anhörung, begründete Rüge und Einspruch beim Vorstand binnen eines Monats nach Zustellung."},
-    {"url":"https://www.gesetze-im-internet.de/brao/__74a.html","checked_on":"2026-09-14","supports":"Antrag beim Anwaltsgericht nach Zurückweisung des Einspruchs, Monatsfrist und Möglichkeit einer mündlichen Verhandlung."}
+  "schema_version": 1,
+  "plugin": "berufsgerichtliche-verfahren-freie-berufe",
+  "reviewed_on": "2026-09-23",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/brao/__74.html",
+      "checked_on": "2026-09-14",
+      "supports": "Anhörung, begründete Rüge und Einspruch beim Vorstand binnen eines Monats nach Zustellung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/brao/__74a.html",
+      "checked_on": "2026-09-14",
+      "supports": "Antrag beim Anwaltsgericht nach Zurückweisung des Einspruchs, Monatsfrist und Möglichkeit einer mündlichen Verhandlung."
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2013/07/rk20130702_1bvr175112.html",
+      "checked_on": "2026-09-22",
+      "supports": "BVerfG, Beschluss vom 2. Juli 2013, 1 BvR 1751/12, Randnummern 15–21. Bei anwaltlicher Zuspitzung Sachbezug, Anlass und Empfängerkreis prüfen; Schmähkritik eng bestimmen und betroffene Rechte abwägen. Grenze: Zivilrechtliche Unterlassungsurteile aufgehoben und zurückverwiesen, keine automatische Aufhebung einer Kammer­rüge und keine Erlaubnis bewusst falscher Tatsachen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/brao/__43a.html",
+      "checked_on": "2026-09-22",
+      "supports": "Amtlicher Wortlaut geprüft: Absatz 3: anwaltliches Sachlichkeitsgebot, bewusste Unwahrheiten und nicht veranlasste Herabsetzung; keine allgemeine Pflicht zu zurückhaltender Kritik."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/brao/__74.html",
+      "checked_on": "2026-09-22",
+      "supports": "Amtlicher Wortlaut geprüft: Rügerecht des Kammervorstands samt Verschuldens- und Geringfügigkeitsprüfung; Anhörung, Begründung und Einspruch vom gerichtlichen Verfahren unterscheiden."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/brao/__74a.html",
+      "checked_on": "2026-09-22",
+      "supports": "Amtlicher Wortlaut geprüft: Antrag auf anwaltsgerichtliche Entscheidung nach zurückgewiesenem Einspruch, Monatsfrist und Verfahrenszuständigkeit; Rüge nicht mit berufsgerichtlichem Urteil gleichsetzen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/brao/__74.html",
+      "checked_on": "2026-09-23",
+      "supports": "Rüge und Einspruch binnen eines Monats ab Zustellung; keine Übertragung auf jede Kammeranhörung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/brao/__74a.html",
+      "checked_on": "2026-09-23",
+      "supports": "Gerichtlicher Antrag binnen eines Monats ab Zustellung des Einspruchsbescheids und beantragte mündliche Verhandlung als eigener Verfahrensschritt."
+    }
   ],
-  "mini_review":{"verdict":"revised","reason":"Vollständig gelesen: Rechtsbehelfsstufen und Fortsetzung nach Akteneinsicht sind konkret und bleiben erhalten. Den dichten Einstieg und Schluss getrennt sowie den Dateivorrang geklärt. Textprüfung ohne neue Quellenverifikation oder Live-Modelltest.","changes":["Beauftragte Einlassung, Rechtsbehelf oder Gutachten direkt im Einstieg benannt","Quellenhinweise vom technischen Abschluss getrennt","Nutzerdateiname vorrangig, ergebnis.md nur Standard ohne Vorgabe"],"sha256":"4a3b00242d9c1e3f10543b2e4eadb1052eeac81f580a4804d3339907c752777d"},
-  "workshop_review":{"verdict":"revised","reason":"Gesamten Text einschließlich der zwölf Praxisrouten gelesen. Wiederholte Standardtabellen und Satzgerüste durch berufsspezifische Verfahrensführung ersetzt; Berufsgruppe, Verfahrensstufe und Offenlegungsumfang bestimmen den Arbeitsweg. Keine neue Rechtsquellenprüfung oder Live-Modellprüfung.","changes":["Akteneinsicht als Zwischenstufe mit anschließender vollständiger Verteidigung ausgestaltet","Äußerungskontext, Fremdgeldzahlung, Aktenübergabe und elektronische Protokolle mit konkreten Nachforderungswegen verbunden","Notarielle Aufsicht, Steuerberater- und Patentanwaltsverfahren von anwaltlicher Rüge abgegrenzt","Doppelte Fachrouten und interne Pflichtausgabetabellen entfernt; Geheimnisschutz und Freigabegrenzen erhalten"],"sha256":"a19435c30664dc1af5ceb31557980c2e73f1e9aa993beac7af06178f1bd2b6e7"},
-  "selection":{"positive":["Der Einspruch gegen meine anwaltliche Rüge wurde zurückgewiesen; entwerfen Sie den nächsten gerichtlichen Antrag.","Prüfen Sie die Verteidigung gegen eine berufsgerichtliche Anschuldigung wegen eines konkreten Fremdgeldvorgangs."],"negative":["Gestalten Sie ohne Aufsichtsverfahren einen neuen anwaltlichen Briefbogen.","Legen Sie für einen Gewerbebetrieb Widerspruch gegen eine Baugenehmigung ein."]},
-  "cases":[{"id":"ruege-nach-einspruch","request":"Rechtsanwältin Mara König erhielt von ihrer Rechtsanwaltskammer eine Rüge wegen des Satzes in einem gerichtlichen Schriftsatz: Die Darstellung der Gegenseite widerspricht den eigenen Rechnungen. Sie hatte die widersprüchlichen Rechnungen in demselben Absatz genau bezeichnet; weitere beanstandete Äußerungen gibt es nicht. Gegen die Rüge erhob sie rechtzeitig Einspruch. Dessen Zurückweisung wurde ihr am 10. September 2026 zugestellt. Die Kammer hält bereits die Formulierung für herabsetzend, ohne die Rechnungen zu erörtern. König will eine gerichtliche Überprüfung, keine Entschuldigung und keine unmittelbare Einreichung durch Sie. Erstellen Sie am 14. September einen Entwurf für den nächsten Rechtsbehelf samt Verfahrensnotiz. Orts- und Aktenzeichenfelder dürfen offen markiert bleiben; Rüge und Zurückweisung liegen ihr im Original vor.","input_files":[],"deliverables":["ergebnis.md"],"criteria":[{"id":"C01","text":"Der Entwurf richtet einen Antrag auf anwaltsgerichtliche Entscheidung an das Anwaltsgericht am Sitz der zuständigen Kammer, statt erneut Einspruch beim Vorstand oder Klage beim Verwaltungsgericht einzulegen.","deliverables":["ergebnis.md"]},{"id":"C02","text":"Die Verfahrensnotiz ordnet die Monatsfrist der Zustellung der Einspruchsentscheidung am 10. September zu und nennt die erforderliche Fristsicherung; sie behandelt den ursprünglichen Rügebescheid nicht als neuen Fristauslöser.","deliverables":["ergebnis.md"]},{"id":"C03","text":"Die Begründung würdigt den Rechnungsbezug als Anlass der Äußerung und greift die fehlende Kontextprüfung an, ohne nicht berichtete Beleidigungen, eine Schuldanerkennung oder einen sicheren Prozesserfolg zu erfinden.","deliverables":["ergebnis.md"]}],"target_skill":"rak-ruege-unsachlichkeit-verteidigung"}]
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Rügeverfahren bleibt im Mittelpunkt; die Äußerungsverteidigung wird am Sachbezug und nicht an isolierten Schlagworten begründet. Vollständige Text- und gezielte Primärquellenprüfung; kein Live-Mandanten- oder Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert.",
+    "changes": [
+      "Konkreter Pflichtvorwurf und Verfahrensstand im Auftakt.",
+      "BVerfG-Kontextmaßstab in beiden Prompts mit ausdrücklicher Grenze zur Kammer­rüge.",
+      "Akteneinsicht, Monatsfristen und Fortsetzung zum vollständigen Schriftsatz erhalten.",
+      "Leer: Kammeranhörung, Rügeüberprüfung oder Terminverteidigung. Dateien: still lesen und stufengerechtes Verteidigungsdokument wählen lassen. Klar: unmittelbar Stellungnahme oder richtigen Rechtsbehelf entwerfen.",
+      "Zurückgewiesener Einspruch ändert Empfänger, Antrag und Fristauslöser; nachgewiesene Auszahlung ändert Zahlungsstand, nicht automatisch Verzögerungsvorwurf."
+    ],
+    "sha256": "19eb810c9397d2e276d7502085fe711cf8c5e2f411f83794252fb233aa5e8d6a"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Äußerungsvorwürfe werden mit Art.-5-Abwägung geprüft und von anderen Berufsgruppen sowie den Wirkungen eines zivilrechtlichen Unterlassungsurteils getrennt. Vollständige Text- und gezielte Primärquellenprüfung; kein Live-Mandanten- oder Modelltest. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen.",
+    "changes": [
+      "Konkreter Pflichtvorwurf und Verfahrensstand im Auftakt.",
+      "BVerfG-Kontextmaßstab in beiden Prompts mit ausdrücklicher Grenze zur Kammer­rüge.",
+      "Akteneinsicht, Monatsfristen und Fortsetzung zum vollständigen Schriftsatz erhalten.",
+      "Verfahrenswechsel, belastender Äußerungskontext, Zahlungsevidenz, Aussageumfang und Verhandlungsantrag ausgearbeitet.",
+      "Zurückgewiesener Einspruch ändert Empfänger, Antrag und Fristauslöser; nachgewiesene Auszahlung ändert Zahlungsstand, nicht automatisch Verzögerungsvorwurf."
+    ],
+    "sha256": "96765014e07fb3d93b1088d2bf00cd4f9edc446b5e6d7ca33ad59414567115b9"
+  },
+  "selection": {
+    "positive": [
+      "Der Einspruch gegen meine anwaltliche Rüge wurde zurückgewiesen; entwerfen Sie den nächsten gerichtlichen Antrag.",
+      "Prüfen Sie die Verteidigung gegen eine berufsgerichtliche Anschuldigung wegen eines konkreten Fremdgeldvorgangs."
+    ],
+    "negative": [
+      "Gestalten Sie ohne Aufsichtsverfahren einen neuen anwaltlichen Briefbogen.",
+      "Legen Sie für einen Gewerbebetrieb Widerspruch gegen eine Baugenehmigung ein."
+    ]
+  },
+  "cases": [
+    {
+      "id": "ruege-nach-einspruch",
+      "request": "Rechtsanwältin Mara König erhielt von ihrer Rechtsanwaltskammer eine Rüge wegen des Satzes in einem gerichtlichen Schriftsatz: Die Darstellung der Gegenseite widerspricht den eigenen Rechnungen. Sie hatte die widersprüchlichen Rechnungen in demselben Absatz genau bezeichnet; weitere beanstandete Äußerungen gibt es nicht. Gegen die Rüge erhob sie rechtzeitig Einspruch. Dessen Zurückweisung wurde ihr am 10. September 2026 zugestellt. Die Kammer hält bereits die Formulierung für herabsetzend, ohne die Rechnungen zu erörtern. König will eine gerichtliche Überprüfung, keine Entschuldigung und keine unmittelbare Einreichung durch Sie. Erstellen Sie am 14. September einen Entwurf für den nächsten Rechtsbehelf samt Verfahrensnotiz. Orts- und Aktenzeichenfelder dürfen offen markiert bleiben; Rüge und Zurückweisung liegen ihr im Original vor.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Der Entwurf richtet einen Antrag auf anwaltsgerichtliche Entscheidung an das Anwaltsgericht am Sitz der zuständigen Kammer, statt erneut Einspruch beim Vorstand oder Klage beim Verwaltungsgericht einzulegen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die Verfahrensnotiz ordnet die Monatsfrist der Zustellung der Einspruchsentscheidung am 10. September zu und nennt die erforderliche Fristsicherung; sie behandelt den ursprünglichen Rügebescheid nicht als neuen Fristauslöser.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die Begründung würdigt den Rechnungsbezug als Anlass der Äußerung und greift die fehlende Kontextprüfung an, ohne nicht berichtete Beleidigungen, eine Schuldanerkennung oder einen sicheren Prozesserfolg zu erfinden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "rak-ruege-unsachlichkeit-verteidigung"
+    }
+  ],
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Kammeranhörung, Rügeüberprüfung oder Terminverteidigung.",
+      "Dateien: still lesen und stufengerechtes Verteidigungsdokument wählen lassen.",
+      "Klar: unmittelbar Stellungnahme oder richtigen Rechtsbehelf entwerfen."
+    ],
+    "continuation": "Zurückgewiesener Einspruch ändert Empfänger, Antrag und Fristauslöser; nachgewiesene Auszahlung ändert Zahlungsstand, nicht automatisch Verzögerungsvorwurf.",
+    "enrichment": "Verfahrenswechsel, belastender Äußerungskontext, Zahlungsevidenz, Aussageumfang und Verhandlungsantrag ausgearbeitet.",
+    "limits": "desk review; no live client execution"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "berufsgerichtliche-verfahren-freie-berufe/berufsgerichtliche-verfahren-freie-berufe-werkstatt.md",
+      "berufsgerichtliche-verfahren-freie-berufe/berufsgerichtliche-verfahren-freie-berufe-schnellstart.md",
+      "berufsgerichtliche-verfahren-freie-berufe/README.md",
+      "quality/evals/berufsgerichtliche-verfahren-freie-berufe.json"
+    ],
+    "opening_change": "Persönlich vorwerfbarer Pflichtverstoß und noch offener Rechtsschutz statt bloßem Auftrag zur Einlassung.",
+    "norms": [
+      "BRAO Paragraf 43a Absatz 3",
+      "BRAO Paragrafen 74 und 74a",
+      "GG Artikel 5 Absatz 1"
+    ],
+    "decisions": [
+      {
+        "citation": "BVerfG, Beschluss vom 2. Juli 2013, 1 BvR 1751/12, Randnummern 15–21",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2013/07/rk20130702_1bvr175112.html",
+        "application": "Bei anwaltlicher Zuspitzung Sachbezug, Anlass und Empfängerkreis prüfen; Schmähkritik eng bestimmen und betroffene Rechte abwägen.",
+        "limit": "Zivilrechtliche Unterlassungsurteile aufgehoben und zurückverwiesen, keine automatische Aufhebung einer Kammer­rüge und keine Erlaubnis bewusst falscher Tatsachen."
+      }
+    ],
+    "remaining_limits": [
+      "Desk-/Quellenprüfung, kein Live-Mandanten- oder Modelltest.",
+      "Verfahrensrecht der übrigen freien Berufe und landesrechtliche Zuständigkeiten nicht vollständig neu verifiziert.",
+      "Workflow-Anschlussprüfung 23.09.2026: individuelle Text- und Quellenprüfung, keine Live-Client-Ausführung. Frühere Entscheidungsprüfungen und ihre Reichweitengrenzen bleiben unverändert; keine erneute vollständige Rechtsprechungsprüfung behauptet."
+    ]
+  }
 }

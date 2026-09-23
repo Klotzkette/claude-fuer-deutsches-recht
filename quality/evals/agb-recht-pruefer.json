@@ -1,16 +1,204 @@
 {
-  "schema_version": 1, "plugin": "agb-recht-pruefer", "reviewed_on": "2026-09-17",
+  "schema_version": 1,
+  "plugin": "agb-recht-pruefer",
+  "reviewed_on": "2026-09-23",
   "sources": [
-    {"url": "https://www.gesetze-im-internet.de/bgb/__305.html", "checked_on": "2026-09-14", "supports": "AGB-Eigenschaft und Einbeziehung vorformulierter Vertragsbedingungen."},
-    {"url": "https://www.gesetze-im-internet.de/bgb/__309.html", "checked_on": "2026-09-14", "supports": "Nummer 5 verlangt bei Schadenspauschalen insbesondere die ausdrückliche Möglichkeit des Nachweises fehlenden oder wesentlich geringeren Schadens."},
-    {"url": "https://www.gesetze-im-internet.de/bgb/__306.html", "checked_on": "2026-09-14", "supports": "Klauselausfall lässt den übrigen Vertrag grundsätzlich bestehen und führt zur gesetzlichen Lückenfüllung."}
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__305.html",
+      "checked_on": "2026-09-14",
+      "supports": "AGB-Eigenschaft und Einbeziehung vorformulierter Vertragsbedingungen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__309.html",
+      "checked_on": "2026-09-14",
+      "supports": "Nummer 5 verlangt bei Schadenspauschalen insbesondere die ausdrückliche Möglichkeit des Nachweises fehlenden oder wesentlich geringeren Schadens."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__306.html",
+      "checked_on": "2026-09-14",
+      "supports": "Klauselausfall lässt den übrigen Vertrag grundsätzlich bestehen und führt zur gesetzlichen Lückenfüllung."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2023/III_ZR_426-23.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 13.03.2025, III ZR 426/23, Rn. 46 und 50: Bei Klauselausfall verbleibenden Wortlaut auf selbständigen Sinn prüfen; Vertreterregelung war von Wahlarztvereinbarung abtrennbar. Grenze: Keine geltungserhaltende Neufassung; Wirksamkeit der Vertreterregelung offen, Krankenhausrecht nicht allgemein übertragen."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2024/III_ZR_165-24.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 13.11.2025, III ZR 165/24, Rn. 32–36: Transparenz nach typischem aufmerksamen Adressaten und Klauselzusammenhang beurteilen; widersprüchliche Laufzeit- und Kündigungsregeln bleiben intransparent. Grenze: Nicht jede sprachlich verbesserbare Klausel ist unwirksam; keine Freigabe widersprüchlicher Belastungen."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2020/I_ZR_212-20.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 07.04.2022, I ZR 212/20, Rn. 40–44: Leistungseinschränkende Beförderungsbedingungen sind nicht schon wegen ihrer Bezeichnung kontrollfreie Hauptleistungsbeschreibung. Grenze: Pakettransportfall; genaue vertragliche Funktion und gesetzliches Leitbild in anderen Branchen gesondert prüfen."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2020/XI_ZR__26-20.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 27.04.2021, XI ZR 26/20, Rn. 18–32, 38–40: Unbeschränkte Umgestaltung mittels Zustimmungsfiktion wird nicht allein durch Vorankündigung und Kündigungsrecht wirksam; sachlichen Änderungsumfang prüfen. Grenze: Bank-AGB gegenüber Verbrauchern; Zweimonatsregel des Paragrafen 675g BGB ist keine allgemeine Branchenregel."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62018CJ0260",
+      "checked_on": "2026-09-22",
+      "supports": "EuGH, Urteil vom 03.10.2019, C-260/18, Dziubak, Rn. 48, 51 und 62: Verbraucherinteressen an Folgen der Gesamtnichtigkeit aktuell beurteilen; keine freie Lückenfüllung allein nach Billigkeit oder Verkehrssitte. Grenze: Fremdwährungskredit; Ersatz durch dispositives Recht nur unter den genannten Schutzvoraussetzungen, keine beliebige Vertragsreparatur."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62015CJ0191",
+      "checked_on": "2026-09-22",
+      "supports": "EuGH, Urteil vom 28.07.2016, C-191/15, Verein für Konsumenteninformation/Amazon, Rn. 66–71: Bei Verbraucher-Rechtswahl prüfen, ob die Klausel irreführend ausschließliches Sitzrecht suggeriert und den zwingenden Schutz nach Artikel 6 Absatz 2 Rom I verschweigt. Grenze: Rechtswahl grundsätzlich zulässig; Einzelfallprüfung und tatsächliche Anknüpfung erforderlich, keine allgemeine Anwendung deutschen Rechts."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__306.html",
+      "checked_on": "2026-09-22",
+      "supports": "Restvertrag, gesetzliches Ersatzrecht und unzumutbare Härte als getrennte Rechtsfolgen des Klauselausfalls."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__309.html",
+      "checked_on": "2026-09-22",
+      "supports": "Nummer 5: gewöhnlicher Schaden und ausdrücklicher Gegenbeweis als getrennte Voraussetzungen einer Schadenspauschale."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__306.html",
+      "checked_on": "2026-09-23",
+      "supports": "Gesetzlicher Ersatz bei unwirksamer AGB-Klausel: neue Wunschquote nicht als Altvertragsinhalt einsetzen."
+    }
   ],
-  "mini_review": {"sha256":"70535caf49c931511a691c5fdfdfea87cc334399d23f725dc775ba74d7323ee0","verdict": "retained", "reason": "Am 18. September vollständig erneut gelesen. Die maßgebliche Preisliste führt zur gezielten Nachforderung und erneuten Klauselprüfung; Rückzahlung und Unterlassung bleiben getrennte Aufträge. Keine starre Rückfragegrenze oder Pflichtdatei gefunden; optionale Links lassen den Mini eigenständig. Keine neue Quellenverifikation oder Live-Modellprüfung.", "changes": []},
-  "workshop_review": {"verdict":"revised","reason":"Am 18. September gesamten Werkstatttext nachgeprüft. Der bereits überarbeitete Ablauf trennt Einbeziehung, Inhaltskontrolle, Ersatzfassung und Vertragsumstellung; Annahmefristen sind keine Prozessfristen mehr. Nur ein redaktionsbezogener Normprüfvermerk im Nutzertest war noch zu entfernen.","changes":["Historischen Bearbeitungsvermerk durch sachliche Prüfung der maßgeblichen Normfassung ersetzt","Vorhandene fallbezogene Nachfragen zu Vertragsfassung, Aushandeln und Mehrleistung sowie Fortsetzung zur Endfassung erhalten","Keine zusätzlichen Themen, Pflichtausgaben oder Rechtsanker eingeführt"],"sha256":"b96561ecdc7d0bf891aa29be943bc1ea3d447cab55f45cbbca3951cb5d05f806"},
-  "selection": {"positive": ["Prüfen Sie unsere Stornopauschale in Verbraucher-AGB und formulieren Sie eine Ersatzregel.", "Bewerten Sie die Einbeziehung unserer Einkaufsbedingungen bei widersprechenden Lieferbedingungen."], "negative": ["Berechnen Sie die gesetzliche Widerrufsfrist meines Onlinekaufs ohne AGB-Streit.", "Entwerfen Sie eine individuelle notarielle Grundstücksübertragung ohne vorformulierte Bedingungen."]},
-  "cases": [{"id": "moebelkauf-stornopauschale", "request": "Erstellen Sie ergebnis.md als Klauselvotum für einen Möbelhändler. Er verkauft neue serienmäßige Stühle an Privatkunden im Ladengeschäft. Am 10.09.2026 erhält und akzeptiert eine Kundin vor Unterschrift die für alle Verkäufe vorformulierten Bedingungen. Darin steht: Bei endgültiger Nichtabnahme schuldet der Käufer 40 Prozent des Kaufpreises als Schadensersatz. Weitere Sätze zur Pauschale fehlen. Individuell verhandelt wurde nichts. Der Händler möchte die Klausel künftig verwenden; es gibt noch keinen Schadensfall und keine Zahlung. Seine dokumentierten gewöhnlichen Ausfälle nach Wiederverkauf liegen bei 8 bis 12 Prozent. Prüfen Sie die Klausel und schlagen Sie eine verwendbare Neufassung oder Alternative vor.", "input_files": [], "deliverables": ["ergebnis.md"], "criteria": [
-    {"id": "C01", "text": "Ordnet den Fall als vorformulierte Verbraucherbedingung ein und behandelt Einbeziehung getrennt von inhaltlicher Wirksamkeit.", "deliverables": ["ergebnis.md"]},
-    {"id": "C02", "text": "Begründet die Beanstandung sowohl mit dem Verhältnis der 40 Prozent zum gewöhnlichen Schaden als auch mit der fehlenden ausdrücklichen Möglichkeit des Gegenbeweises.", "deliverables": ["ergebnis.md"]},
-    {"id": "C03", "text": "Liefert eine ausformulierte Alternative, etwa konkreten Schadensnachweis, und leitet ohne Schadensfall oder Zahlung keinen Rückzahlungsanspruch ab.", "deliverables": ["ergebnis.md"]}
-  ], "target_skill": "klauselinhalt-und-verbote-pruefen"}]
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Kompakten Klauselauftrag vollständig gelesen und auf Preis-, Haftungs-, Laufzeit- und Stornobelastung konkretisiert. Klauselausfall führt zu Restwortlaut und Ersatzrecht statt automatischer Reparatur. Kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert.",
+    "changes": [
+      "Schadenspauschale an gewöhnlichen Schaden und ausdrücklichen Gegenbeweis geknüpft.",
+      "III ZR 426/23 mit Teilbarkeitsfolge und Grenzen in den eigenständigen Mini aufgenommen.",
+      "Leerstart: Klauselprüfung, Ersatzregel oder AGB-Beanstandung anbieten. Dateien: Abschlussfassung still lesen; Stornopauschale, Neuvertrag oder Abmahnung passend eingrenzen. Klarer Auftrag: Gewünschte Klausel oder Antwort ohne erneute Vertragsaufnahme ausarbeiten.",
+      "Fehlende Schadensstatistik führt zur konkreten Schadensregel; Kundenwiderspruch verändert Umstellung in ausdrückliches Änderungsangebot."
+    ],
+    "sha256": "aa2b6516bfa0f52a5067421a4cf66d04594421721b13488ab0e0f7081e3a4c6a"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Alle 13 Abschnitte einschließlich Einbeziehung, Gestaltung, digitaler Schäden, Vertragsumstellung und Auslandsbezug gelesen. Bereits detaillierte Fachwege erhalten; Transparenz und Teilbarkeit anhand amtlicher Entscheidungsgründe präzisiert. Kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen.",
+    "changes": [
+      "Konkreter Einstieg mit Vertragsfassung, Kundenbelastung und Ausfallfolge.",
+      "Zu weite Randnummernangabe zur Teilbarkeit auf Rn. 46 und 50 korrigiert; offene Vertreterklausel nicht als bestätigt behandelt.",
+      "Transparenzgrenze und unionsrechtliche Grenzen der Lückenfüllung mit tatsächlichem Auslöser und Reichweite erläutert.",
+      "Storno im Alt- und Neufall, Haftungsdeckel bei Schadenshäufung und widersprochene Vertragsumstellung mit vollständigen Textfolgen.",
+      "Fehlende Schadensstatistik führt zur konkreten Schadensregel; Kundenwiderspruch verändert Umstellung in ausdrückliches Änderungsangebot."
+    ],
+    "sha256": "3f0616ce9f66dd1ddd11c06ba2610605ca2c42d57f468735f12fafef93e03626"
+  },
+  "selection": {
+    "positive": [
+      "Prüfen Sie unsere Stornopauschale in Verbraucher-AGB und formulieren Sie eine Ersatzregel.",
+      "Bewerten Sie die Einbeziehung unserer Einkaufsbedingungen bei widersprechenden Lieferbedingungen."
+    ],
+    "negative": [
+      "Berechnen Sie die gesetzliche Widerrufsfrist meines Onlinekaufs ohne AGB-Streit.",
+      "Entwerfen Sie eine individuelle notarielle Grundstücksübertragung ohne vorformulierte Bedingungen."
+    ]
+  },
+  "cases": [
+    {
+      "id": "moebelkauf-stornopauschale",
+      "request": "Erstellen Sie ergebnis.md als Klauselvotum für einen Möbelhändler. Er verkauft neue serienmäßige Stühle an Privatkunden im Ladengeschäft. Am 10.09.2026 erhält und akzeptiert eine Kundin vor Unterschrift die für alle Verkäufe vorformulierten Bedingungen. Darin steht: Bei endgültiger Nichtabnahme schuldet der Käufer 40 Prozent des Kaufpreises als Schadensersatz. Weitere Sätze zur Pauschale fehlen. Individuell verhandelt wurde nichts. Der Händler möchte die Klausel künftig verwenden; es gibt noch keinen Schadensfall und keine Zahlung. Seine dokumentierten gewöhnlichen Ausfälle nach Wiederverkauf liegen bei 8 bis 12 Prozent. Prüfen Sie die Klausel und schlagen Sie eine verwendbare Neufassung oder Alternative vor.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Ordnet den Fall als vorformulierte Verbraucherbedingung ein und behandelt Einbeziehung getrennt von inhaltlicher Wirksamkeit.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Begründet die Beanstandung sowohl mit dem Verhältnis der 40 Prozent zum gewöhnlichen Schaden als auch mit der fehlenden ausdrücklichen Möglichkeit des Gegenbeweises.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Liefert eine ausformulierte Alternative, etwa konkreten Schadensnachweis, und leitet ohne Schadensfall oder Zahlung keinen Rückzahlungsanspruch ab.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "klauselinhalt-und-verbote-pruefen"
+    }
+  ],
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leerstart: Klauselprüfung, Ersatzregel oder AGB-Beanstandung anbieten.",
+      "Dateien: Abschlussfassung still lesen; Stornopauschale, Neuvertrag oder Abmahnung passend eingrenzen.",
+      "Klarer Auftrag: Gewünschte Klausel oder Antwort ohne erneute Vertragsaufnahme ausarbeiten."
+    ],
+    "continuation": "Fehlende Schadensstatistik führt zur konkreten Schadensregel; Kundenwiderspruch verändert Umstellung in ausdrückliches Änderungsangebot.",
+    "enrichment": "Storno im Alt- und Neufall, Haftungsdeckel bei Schadenshäufung und widersprochene Vertragsumstellung mit vollständigen Textfolgen.",
+    "limits": "desk review; no live client execution"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "agb-recht-pruefer/agb-recht-pruefer-schnellstart.md",
+      "agb-recht-pruefer/agb-recht-pruefer-werkstatt.md",
+      "agb-recht-pruefer/README.md",
+      "quality/evals/agb-recht-pruefer.json"
+    ],
+    "opening_change": "Klauselinhalt und konkrete Kundenbelastung vor abstraktem Prüfauftrag; Rechtsfolge des Ausfalls und Altbestand ausdrücklich benannt.",
+    "norms": [
+      "Paragrafen 305 bis 310 BGB",
+      "Artikel 6 Absatz 1 Richtlinie 93/13/EWG",
+      "Artikel 6 Absatz 2 Rom I"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 13.03.2025, III ZR 426/23, Rn. 46 und 50",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2023/III_ZR_426-23.pdf?__blob=publicationFile&v=1",
+        "application": "Bei Klauselausfall verbleibenden Wortlaut auf selbständigen Sinn prüfen; Vertreterregelung war von Wahlarztvereinbarung abtrennbar.",
+        "limit": "Keine geltungserhaltende Neufassung; Wirksamkeit der Vertreterregelung offen, Krankenhausrecht nicht allgemein übertragen."
+      },
+      {
+        "citation": "BGH, Urteil vom 13.11.2025, III ZR 165/24, Rn. 32–36",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2024/III_ZR_165-24.pdf?__blob=publicationFile&v=1",
+        "application": "Transparenz nach typischem aufmerksamen Adressaten und Klauselzusammenhang beurteilen; widersprüchliche Laufzeit- und Kündigungsregeln bleiben intransparent.",
+        "limit": "Nicht jede sprachlich verbesserbare Klausel ist unwirksam; keine Freigabe widersprüchlicher Belastungen."
+      },
+      {
+        "citation": "BGH, Urteil vom 07.04.2022, I ZR 212/20, Rn. 40–44",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2020/I_ZR_212-20.pdf?__blob=publicationFile&v=1",
+        "application": "Leistungseinschränkende Beförderungsbedingungen sind nicht schon wegen ihrer Bezeichnung kontrollfreie Hauptleistungsbeschreibung.",
+        "limit": "Pakettransportfall; genaue vertragliche Funktion und gesetzliches Leitbild in anderen Branchen gesondert prüfen."
+      },
+      {
+        "citation": "BGH, Urteil vom 27.04.2021, XI ZR 26/20, Rn. 18–32, 38–40",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2020/XI_ZR__26-20.pdf?__blob=publicationFile&v=1",
+        "application": "Unbeschränkte Umgestaltung mittels Zustimmungsfiktion wird nicht allein durch Vorankündigung und Kündigungsrecht wirksam; sachlichen Änderungsumfang prüfen.",
+        "limit": "Bank-AGB gegenüber Verbrauchern; Zweimonatsregel des Paragrafen 675g BGB ist keine allgemeine Branchenregel."
+      },
+      {
+        "citation": "EuGH, Urteil vom 03.10.2019, C-260/18, Dziubak, Rn. 48, 51 und 62",
+        "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62018CJ0260",
+        "application": "Verbraucherinteressen an Folgen der Gesamtnichtigkeit aktuell beurteilen; keine freie Lückenfüllung allein nach Billigkeit oder Verkehrssitte.",
+        "limit": "Fremdwährungskredit; Ersatz durch dispositives Recht nur unter den genannten Schutzvoraussetzungen, keine beliebige Vertragsreparatur."
+      },
+      {
+        "citation": "EuGH, Urteil vom 28.07.2016, C-191/15, Verein für Konsumenteninformation/Amazon, Rn. 66–71",
+        "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62015CJ0191",
+        "application": "Bei Verbraucher-Rechtswahl prüfen, ob die Klausel irreführend ausschließliches Sitzrecht suggeriert und den zwingenden Schutz nach Artikel 6 Absatz 2 Rom I verschweigt.",
+        "limit": "Rechtswahl grundsätzlich zulässig; Einzelfallprüfung und tatsächliche Anknüpfung erforderlich, keine allgemeine Anwendung deutschen Rechts."
+      }
+    ],
+    "remaining_limits": [
+      "Redaktionelle Quellenprüfung, kein Live-Client- oder Modelltest.",
+      "Keine vollständige neue Prüfung aller optionalen Spezialskills; 10 AZR 275/09 bleibt ausdrücklich ungeprüfter Recherchehinweis.",
+      "Workflow-Anschlussprüfung 23.09.2026: individuelle Text- und Quellenprüfung, keine Live-Client-Ausführung. Frühere Entscheidungsprüfungen und ihre Reichweitengrenzen bleiben unverändert; keine erneute vollständige Rechtsprechungsprüfung behauptet. Paragraf 309 BGB war beim erneuten Abruf nicht erreichbar; vorhandene geprüfte Fassung und Nachweise beibehalten. Neu gelesen wurde Paragraf 306 BGB."
+    ]
+  }
 }

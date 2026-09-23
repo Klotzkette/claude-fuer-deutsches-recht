@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "staatsanwaltschaft-praxis-einstieg",
-  "reviewed_on": "2026-09-17",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/stpo/__170.html",
@@ -12,27 +12,87 @@
       "url": "https://www.gesetze-im-internet.de/stpo/__160.html",
       "checked_on": "2026-09-14",
       "supports": "Objektive Sachverhaltsaufklärung einschließlich entlastender Umstände."
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2023/04/rk20230419_2bvr218020.html",
+      "checked_on": "2026-09-22",
+      "supports": "BVerfG, Beschluss vom 19.04.2023, 2 BvR 2180/20, Randnummern 25 bis 29 und 31 bis 37. Amtliche tragende Entscheidungsgründe gelesen. Anwendung: Durchsuchungsantrag auf konkrete vorherige Verdachtstatsachen stützen und Tat, Zeitraum und gesuchte Beweise begrenzen; keine Durchsuchung erst zur Gewinnung eines Anfangsverdachts. Grenze: Historische Geldwäsche-Vortatenlage nicht in heutiges materielles Recht übertragen; kein automatisches Verwertungsverbot. Fehlende Begrenzung von Tat und Suchgegenstand von bloß ergänzbarer Begründung unterscheiden."
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2013/03/rs20130319_2bvr262810.html",
+      "checked_on": "2026-09-22",
+      "supports": "BVerfG, Urteil vom 19.03.2013, 2 BvR 2628/10, Randnummern 91 bis 93. Amtliche tragende Entscheidungsgründe gelesen. Anwendung: Eigene staatsanwaltschaftliche Kontrollverantwortung bei Verständigung: Unzulässigkeit oder Transparenzmangel konkret beanstanden und erforderliche Klärung sowie Rechtsmittelprüfung vorbereiten. Grenze: Kein Ersatz gerichtlicher Wahrheitsermittlung, keine informellen Nebenabreden und keine automatische Rechtsmittelpflicht bei jeder Meinungsverschiedenheit."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stpo/__152.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aktueller amtlicher Normtext gelesen: Anfangsverdacht."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stpo/__160.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aktueller amtlicher Normtext gelesen: Ermittlung belastender und entlastender Umstände."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stpo/__170.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aktueller amtlicher Normtext gelesen: Anklage oder Einstellung nach Ermittlungsergebnis."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stpo/__102.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aktueller amtlicher Normtext gelesen: Durchsuchung beim Verdächtigen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stpo/__105.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aktueller amtlicher Normtext gelesen: Anordnungskompetenz."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stpo/__257c.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aktueller amtlicher Normtext gelesen: Zustimmung und gesetzliche Grenzen der Verständigung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stpo/__160.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlich indexierte Passage zur objektiven Ermittlungsaufgabe geprüft; direkter Einzelabruf nicht erreichbar."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stpo/__170.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlich indexierte Passage zum Abschluss nach Ermittlungsergebnis geprüft; keine neue vollständige Einzeltextprüfung behauptet."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der vollständig geprüfte Mini trennt Personen, Tatvorwürfe und Nebenentscheidungen und verlangt nach ergänzten Ermittlungsangaben die Fortsetzung bis zur bestellten Verfügung statt einer pauschalen Erledigung.",
+    "reason": "Fachliche Startvarianten und konkrete Antwortfortsetzung einzeln geprüft. Personenbezogene Abschlussreife, Asservatenzweck und Herausgabe getrennt bearbeiten; tatsächlichen Hauptverhandlungsstoff in Schlussantrag übernehmen; Zustimmung, Auflagenerfüllung und Wiedervorlage auseinanderhalten.",
     "changes": [
-      "Tat- und beschuldigtenbezogene Entscheidungsmatrix eingeführt.",
-      "Offene Beweismittel- und Mitteilungsfragen sichtbar gehalten.",
-      "Entwürfe von tatsächlich veranlassten Maßnahmen getrennt.",
-      "Weitere Tatsachenfragen an die betroffene Abschlussentscheidung angebunden und nach Antwort die Entwurfsarbeit fortsetzen lassen."
+      "Paragrafen 152 Absatz 2 und 160 Absatz 2 als unterschiedliche Verdachts- und Ermittlungsanforderungen konkretisiert.",
+      "Vorherige Verdachtstatsachen und begrenztes Suchziel anhand 2 BvR 2180/20 eingefordert.",
+      "Gesetzmäßigkeitskontrolle bei Verständigung mit 2 BvR 2628/10 begründet, keine gerichtliche Rollenübernahme.",
+      "Leerstart: erste Ermittlungsverfügung, personenweiser Abschluss oder Sitzungsdienst wählen.",
+      "Bestätigtes Alibi für B verändert dessen Abschluss und gemeinsame Tatbehauptungen, nicht automatisch die Anklage gegen A oder die Entscheidung über Cs Telefon.",
+      "Personenbezogene Abschlussreife, Asservatenzweck und Herausgabe getrennt bearbeiten; tatsächlichen Hauptverhandlungsstoff in Schlussantrag übernehmen; Zustimmung, Auflagenerfüllung und Wiedervorlage auseinanderhalten."
     ],
-    "sha256": "81af5ff2c771704e4eb7c20f4bcb15686238fe0e450ba96771f5fb991b754b9b"
+    "sha256": "9e3d8ac8f440651ff9a5d76e957ffb4bfaba67464f06dbffa4f4edfc3f6a24ee",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die vollständige Werkstatt wurde nach Ermittlungsauftrag, Eingriffen, Abschlussreife, Verfügung und Sitzungsdienst gegliedert. Tatsächlicher Verhandlungsstoff wird nicht durch Aktenkenntnis oder erfundene Maßnahmen ersetzt.",
+    "reason": "Vollständige Werkstatt mit zusätzlichen fachlichen Entscheidungs- und Dokumentwegen einzeln geprüft. Personenbezogene Abschlussreife, Asservatenzweck und Herausgabe getrennt bearbeiten; tatsächlichen Hauptverhandlungsstoff in Schlussantrag übernehmen; Zustimmung, Auflagenerfüllung und Wiedervorlage auseinanderhalten.",
     "changes": [
-      "Offene Beweise mit konkreter weiterer Ermittlung oder vorläufigem Entwurfsstand verbunden.",
-      "Asservate, Mitteilungen und Nebenentscheidungen an den Abschluss angeschlossen; allgemeine doppelte Praxisrouten entfernt und dienstliche Freigaben erhalten."
+      "Paragrafen 152 Absatz 2 und 160 Absatz 2 als unterschiedliche Verdachts- und Ermittlungsanforderungen konkretisiert.",
+      "Vorherige Verdachtstatsachen und begrenztes Suchziel anhand 2 BvR 2180/20 eingefordert.",
+      "Gesetzmäßigkeitskontrolle bei Verständigung mit 2 BvR 2628/10 begründet, keine gerichtliche Rollenübernahme.",
+      "Leerstart: erste Ermittlungsverfügung, personenweiser Abschluss oder Sitzungsdienst wählen.",
+      "Bestätigtes Alibi für B verändert dessen Abschluss und gemeinsame Tatbehauptungen, nicht automatisch die Anklage gegen A oder die Entscheidung über Cs Telefon.",
+      "Personenbezogene Abschlussreife, Asservatenzweck und Herausgabe getrennt bearbeiten; tatsächlichen Hauptverhandlungsstoff in Schlussantrag übernehmen; Zustimmung, Auflagenerfüllung und Wiedervorlage auseinanderhalten."
     ],
-    "sha256": "f1f09de652d23a94e9dbe701f1128cfdae753cae5919574f488c9c3cf59f9b93"
+    "sha256": "e4b5a263c996e08a895a90bcfd9096055d6cc3f5e96e9031b670431930a8c006",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
   },
   "selection": {
     "positive": [
@@ -77,5 +137,48 @@
       ],
       "target_skill": "abschlussverfuegung-anfaengerfehler"
     }
-  ]
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "gerichtsplugins/staatsanwaltschaft-praxis-einstieg/staatsanwaltschaft-praxis-einstieg-schnellstart.md",
+      "gerichtsplugins/staatsanwaltschaft-praxis-einstieg/staatsanwaltschaft-praxis-einstieg-werkstatt.md"
+    ],
+    "opening_change": "Den konkreten Dezernatsvorgang über belegte Tatsache, fehlenden Beweis und jetzt tragfähige Verfügung bearbeiten.",
+    "norms": [
+      "Paragrafen 152 Absatz 2, 160 Absatz 2, 170, 102, 105, 243 Absatz 4, 257c und 273 Absatz 1a StPO"
+    ],
+    "decisions": [
+      {
+        "citation": "BVerfG, Beschluss vom 19.04.2023, 2 BvR 2180/20, Randnummern 25 bis 29 und 31 bis 37",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2023/04/rk20230419_2bvr218020.html",
+        "application": "Durchsuchungsantrag auf konkrete vorherige Verdachtstatsachen stützen und Tat, Zeitraum und gesuchte Beweise begrenzen; keine Durchsuchung erst zur Gewinnung eines Anfangsverdachts.",
+        "limit": "Historische Geldwäsche-Vortatenlage nicht in heutiges materielles Recht übertragen; kein automatisches Verwertungsverbot. Fehlende Begrenzung von Tat und Suchgegenstand von bloß ergänzbarer Begründung unterscheiden."
+      },
+      {
+        "citation": "BVerfG, Urteil vom 19.03.2013, 2 BvR 2628/10, Randnummern 91 bis 93",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2013/03/rs20130319_2bvr262810.html",
+        "application": "Eigene staatsanwaltschaftliche Kontrollverantwortung bei Verständigung: Unzulässigkeit oder Transparenzmangel konkret beanstanden und erforderliche Klärung sowie Rechtsmittelprüfung vorbereiten.",
+        "limit": "Kein Ersatz gerichtlicher Wahrheitsermittlung, keine informellen Nebenabreden und keine automatische Rechtsmittelpflicht bei jeder Meinungsverschiedenheit."
+      }
+    ],
+    "remaining_limits": [
+      "Desk- und Primärquellenreview, kein Live-Client- oder Modelltest.",
+      "Kein Abgleich mit unbekannten lokalen Dienstanweisungen.",
+      "EncroChat-, ANOM- und Sky-ECC-Einzelfragen bleiben datensatzbezogen zu verifizieren; kein pauschaler Rechtsprechungsnachweis dafür.",
+      "Workflow-Vertiefung 2026-09-23: Vorhandene BVerfG-Anker zur Durchsuchung und Verständigung mit ihrer bisherigen Anwendung und Grenze bewahrt. Keine Live-Dezernats- oder Sitzungsbearbeitung und keine neue umfassende Prüfung aller Opportunitätsvorschriften. Desk review; keine Live-Client-Ausführung."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leerstart: erste Ermittlungsverfügung, personenweiser Abschluss oder Sitzungsdienst wählen.",
+      "Dateien: Akte still lesen und auf den vorhandenen Verfahrensstand begrenztes Ziel klären.",
+      "Klarer Auftrag: vollständige Verfügung oder Sitzungsunterlage ohne Durchlauf aller Verfahrensstadien schreiben."
+    ],
+    "continuation": "Bestätigtes Alibi für B verändert dessen Abschluss und gemeinsame Tatbehauptungen, nicht automatisch die Anklage gegen A oder die Entscheidung über Cs Telefon.",
+    "enrichment": "Personenbezogene Abschlussreife, Asservatenzweck und Herausgabe getrennt bearbeiten; tatsächlichen Hauptverhandlungsstoff in Schlussantrag übernehmen; Zustimmung, Auflagenerfüllung und Wiedervorlage auseinanderhalten.",
+    "limits": "desk review; no live client execution"
+  }
 }

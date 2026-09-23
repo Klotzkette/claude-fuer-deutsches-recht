@@ -1,21 +1,84 @@
 {
   "schema_version": 1,
   "plugin": "seerecht-schifffahrtsrecht",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/hgb/__504.html",
       "checked_on": "2026-09-14",
       "supports": "Stückzahl- und Rohgewichtsgrenze im Seefrachtrecht, höherer Betrag, Angabe der Packstücke im Beförderungsdokument und Begrenzung auf verlorene oder entwertete Teile."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2015/I_ZR_128-15.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlicher Urteilskopf und eigene Entscheidungsgründe Rn. 29–34 gelesen; Zuordnung des Umschlags, keine Hafenort-Automatik."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/__452a.html",
+      "checked_on": "2026-09-23",
+      "supports": "Aktueller vollständiger Normtext zur Teilstrecke, Obhut, Begrenzung, Umrechnung, Haftungsdurchbrechung oder Frist gelesen; nur entsprechend dem bezeichneten Paragrafen verwendet."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/__498.html",
+      "checked_on": "2026-09-23",
+      "supports": "Aktueller vollständiger Normtext zur Teilstrecke, Obhut, Begrenzung, Umrechnung, Haftungsdurchbrechung oder Frist gelesen; nur entsprechend dem bezeichneten Paragrafen verwendet."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/__504.html",
+      "checked_on": "2026-09-23",
+      "supports": "Aktueller vollständiger Normtext zur Teilstrecke, Obhut, Begrenzung, Umrechnung, Haftungsdurchbrechung oder Frist gelesen; nur entsprechend dem bezeichneten Paragrafen verwendet."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/__505.html",
+      "checked_on": "2026-09-23",
+      "supports": "Aktueller vollständiger Normtext zur Teilstrecke, Obhut, Begrenzung, Umrechnung, Haftungsdurchbrechung oder Frist gelesen; nur entsprechend dem bezeichneten Paragrafen verwendet."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/__507.html",
+      "checked_on": "2026-09-23",
+      "supports": "Aktueller vollständiger Normtext zur Teilstrecke, Obhut, Begrenzung, Umrechnung, Haftungsdurchbrechung oder Frist gelesen; nur entsprechend dem bezeichneten Paragrafen verwendet."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/__510.html",
+      "checked_on": "2026-09-23",
+      "supports": "Aktueller vollständiger Normtext zur Teilstrecke, Obhut, Begrenzung, Umrechnung, Haftungsdurchbrechung oder Frist gelesen; nur entsprechend dem bezeichneten Paragrafen verwendet."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/__605.html",
+      "checked_on": "2026-09-23",
+      "supports": "Aktueller vollständiger Normtext zur Teilstrecke, Obhut, Begrenzung, Umrechnung, Haftungsdurchbrechung oder Frist gelesen; nur entsprechend dem bezeichneten Paragrafen verwendet."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/__607.html",
+      "checked_on": "2026-09-23",
+      "supports": "Aktueller vollständiger Normtext zur Teilstrecke, Obhut, Begrenzung, Umrechnung, Haftungsdurchbrechung oder Frist gelesen; nur entsprechend dem bezeichneten Paragrafen verwendet."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/__510.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlichen Text zur Schadensanzeige gelesen; Anzeigeversäumnis nicht pauschal als Anspruchsuntergang behandeln."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/__504.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlichen Text zur Haftungsbegrenzung gelesen; konkret betroffene Güter und Gewichte unterscheiden."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Mini vollständig zu Schiff, Beteiligten, Haftungsgrenze und Nachweisen gelesen; eine Pflichtmatrix und einmalige Rückfrage verhinderten den passenden Abschluss.",
+    "reason": "Fachliche Startvarianten und konkrete Antwortfortsetzung einzeln geprüft. Verlustanzeige und Verjährung, Teilgewicht und Gesamtentwertung sowie Eigentums-/Registerstand und Gläubigerfreigabe getrennt bearbeiten; Schuldneridentität und Abfahrt für einen konkreten Sicherungsweg klären.",
     "changes": [
-      "Fehlende Identitäts-, Container- und Gewichtsbelege gezielt nachfordern, nach Antwort Haftungsberechnung und verlangtes Dokument aktualisieren; Dateiname und Auftrag gehen vor."
+      "BGH-Hafenumschlag mit Obhutsbezug und ausdrücklicher Grenze zum alten Seefrachtrecht/ADSp 2003.",
+      "1.333,34 gegenüber 400 SZR am konkreten Teilverlust gerechnet.",
+      "Paragrafen 498, 504, 505, 507, 510, 605 und 607 HGB getrennt eingesetzt.",
+      "Vollständiges Dokument, gezielte Container- und Gewichtsnachforderung sowie Fortsetzung erhalten.",
+      "Leerstart: Ladungsschaden, Schiffsclosing oder Sicherung/Arrest wählen.",
+      "Ein belegtes Teilgewicht verändert die Haftungsbegrenzungsrechnung; ein neuer Terminalnachweis verändert die Streckenzuordnung; eine Bankfreigabe nach Zahlung verändert die Closing-Bedingung.",
+      "Verlustanzeige und Verjährung, Teilgewicht und Gesamtentwertung sowie Eigentums-/Registerstand und Gläubigerfreigabe getrennt bearbeiten; Schuldneridentität und Abfahrt für einen konkreten Sicherungsweg klären."
     ],
-    "sha256": "6f8b6eb7eba8a1187d10a8a39f2be6932d941c5516601445fb50af42dc577b4b"
+    "sha256": "d0aef60f2f9e43cd9a39dfb12b12f76c455c5f750279e2d9c71a858102e5fc3b",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
   },
   "selection": {
     "positive": [
@@ -63,10 +126,59 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Ganze Werkstatt einschließlich der zwölf See- und Schifffahrtsthemen geprüft; doppelte Standardrouten und sachlich falsche Normzuordnungen gefunden.",
+    "reason": "Vollständige Werkstatt mit zusätzlichen fachlichen Entscheidungs- und Dokumentwegen einzeln geprüft. Verlustanzeige und Verjährung, Teilgewicht und Gesamtentwertung sowie Eigentums-/Registerstand und Gläubigerfreigabe getrennt bearbeiten; Schuldneridentität und Abfahrt für einen konkreten Sicherungsweg klären.",
     "changes": [
-      "Schiffskauf, Register, Charter, Haftung, Versicherung, Bergung und weitere vorhandene Themen geordnet; SchRG 2/3, VVG 209 und HGB 480/576/577 abgegrenzt, unbelegte Pauschalzuordnungen entfernt."
+      "BGH-Hafenumschlag mit Obhutsbezug und ausdrücklicher Grenze zum alten Seefrachtrecht/ADSp 2003.",
+      "1.333,34 gegenüber 400 SZR am konkreten Teilverlust gerechnet.",
+      "Paragrafen 498, 504, 505, 507, 510, 605 und 607 HGB getrennt eingesetzt.",
+      "Vollständiges Dokument, gezielte Container- und Gewichtsnachforderung sowie Fortsetzung erhalten.",
+      "Leerstart: Ladungsschaden, Schiffsclosing oder Sicherung/Arrest wählen.",
+      "Ein belegtes Teilgewicht verändert die Haftungsbegrenzungsrechnung; ein neuer Terminalnachweis verändert die Streckenzuordnung; eine Bankfreigabe nach Zahlung verändert die Closing-Bedingung.",
+      "Verlustanzeige und Verjährung, Teilgewicht und Gesamtentwertung sowie Eigentums-/Registerstand und Gläubigerfreigabe getrennt bearbeiten; Schuldneridentität und Abfahrt für einen konkreten Sicherungsweg klären."
     ],
-    "sha256": "654611f364740dccc341c5e204ae46d683c313953131348376ca997d35dcccb4"
+    "sha256": "3f3e81109d674a33e2b3641ebc671b7e19a4f8735ce744798891cb4479aedec6",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "seerecht-schifffahrtsrecht/README.md",
+      "seerecht-schifffahrtsrecht/seerecht-schifffahrtsrecht-schnellstart.md",
+      "seerecht-schifffahrtsrecht/seerecht-schifffahrtsrecht-werkstatt.md",
+      "quality/evals/seerecht-schifffahrtsrecht.json",
+      "seerecht-schifffahrtsrecht/skills/kaltstart-schifffahrtsmandat/SKILL.md"
+    ],
+    "opening_change": "Ladungsschaden mit konkretem Schuldner, Betrag und Frist; alternative Kauf- und Arrestaufträge ausdrücklich abgegrenzt.",
+    "norms": [
+      "Paragraf 452a HGB",
+      "Paragraf 498 und Paragraf 504 bis Paragraf 507 HGB",
+      "Paragraf 510, Paragraf 605 Nummer 1 und Paragraf 607 HGB"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 1. Dezember 2016, I ZR 128/15, Rn. 29–34",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2015/I_ZR_128-15.pdf?__blob=publicationFile&v=1",
+        "application": "Verschiffungsbezogener Containerumschlag regelmäßig Seestrecke.",
+        "limit": "Tätigkeit und Obhut entscheidend; Altfall ist kein Beleg für unverändert geltende ADSp- oder Haftungsregeln."
+      }
+    ],
+    "remaining_limits": [
+      "Desk-/Quellenprüfung, kein Live-Test; nicht sämtliches ausländisches Hafen-, Flaggen-, Register-, Versicherungs- oder Übereinkommensrecht neu verifiziert.",
+      "Ordentlicher Einstiegsskill kaltstart-schifffahrtsmandat unverändert außerhalb Schreibbereich: unter anderem veraltete/falsche Zuordnungen HGB 606 als einjährige Konnossementfrist, HGB 480 als Heuerverhältnis, HGB 481 als Kapitänspflichten und ZPO 929 als Arrestaufhebungsfrist; pauschaler Versicherungsdeckungsverlust ebenfalls nicht übernehmen.",
+      "Workflow-Vertiefung 2026-09-23: BGH I ZR 128/15 bleibt auf altes Seefrachtrecht und ADSp 2003 begrenzt. Ausländisches Register-, Hafen- und Arrestrecht nicht vollständig geprüft; bestehender Hinweis auf außerhalb des Auftrags liegende gewöhnliche Skills bleibt erhalten. Desk review; keine Live-Client-Ausführung."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leerstart: Ladungsschaden, Schiffsclosing oder Sicherung/Arrest wählen.",
+      "Dateien: Fracht- oder Schiffsunterlagen still lesen und das konkrete Anspruchs- oder Vollzugsziel klären.",
+      "Klarer Auftrag: Schadensschreiben, Closing-Klausel oder Sicherungsvermerk unmittelbar ausarbeiten."
+    ],
+    "continuation": "Ein belegtes Teilgewicht verändert die Haftungsbegrenzungsrechnung; ein neuer Terminalnachweis verändert die Streckenzuordnung; eine Bankfreigabe nach Zahlung verändert die Closing-Bedingung.",
+    "enrichment": "Verlustanzeige und Verjährung, Teilgewicht und Gesamtentwertung sowie Eigentums-/Registerstand und Gläubigerfreigabe getrennt bearbeiten; Schuldneridentität und Abfahrt für einen konkreten Sicherungsweg klären.",
+    "limits": "desk review; no live client execution"
   }
 }

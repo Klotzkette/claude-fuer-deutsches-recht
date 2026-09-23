@@ -1,9 +1,9 @@
 ---
 name: datentraeger-rueckgabe
-description: "Für Rückgabe von Datenträgern und Unterlagen bei Vertragsende nach Paragraf 88 HGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Prüft die Rückgabe von Datenträgern und Unterlagen nach Vertrag und Paragraf 675 Absatz 1 in Verbindung mit Paragraf 667 BGB; trennt Gegenstände, Datenkopien, Löschung und Geheimnisschutz nach Paragraf 90 HGB."
 ---
 
-# Rückgabe von Datenträgern und Unterlagen bei Vertragsende nach § 88 HGB
+# Rückgabe von Datenträgern und Unterlagen bei Vertragsende
 
 ## Arbeitsweg
 
@@ -15,7 +15,7 @@ description: "Für Rückgabe von Datenträgern und Unterlagen bei Vertragsende n
 
 ## Überblick
 
-Unterstützt bei rechtlichen Fragen rund um Rückgabe von Datenträgern und Unterlagen bei Vertragsende nach § 88 HGB.
+Bestimmt die Rückgabe von Datenträgern und Unterlagen nach Vertrag und Paragrafen 675 Absatz 1, 667 BGB. Die Herausgabe eines Firmenlaptops, die Übertragung geschäftlicher Daten und die Löschung verbliebener Kopien sind verschiedene Leistungen.
 Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB §§ 84–92c ab
 und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie BGH- und EuGH-Rechtsprechung ein.
 Ziel sind konkrete, umsetzbare Ergebnisse: Schriftsätze, Berechnungen, Vertragsentwürfe und Prüfvermerke.
@@ -29,7 +29,7 @@ Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 
 ## Erste Schritte
 
-1. Herausgabepflichten vertraglich und gesetzlich nach § 88 HGB bestimmen.
+1. Für jeden Gegenstand und Datenbestand Herkunft, Eigentümer und Auftragsbezug feststellen. Herausgabe nach Vertrag und Paragrafen 675 Absatz 1, 667 BGB prüfen; auf einem privaten Gerät gespeicherte Geschäftsdaten begründen nicht ohne Weiteres einen Anspruch auf das Gerät selbst. Geheimnisschutz nach Paragraf 90 HGB ersetzt diese Anspruchsprüfung nicht.
 2. Inventar aller herauszugebenden Gegenstände und Daten erstellen.
 3. Vollstreckung der Herausgabepflicht nach § 883 ZPO (vertretbare Sachen) oder § 888 ZPO prüfen.
 4. Datenschutzrechtliche Löschpflichten nach Art. 17 DSGVO klären.
@@ -38,8 +38,8 @@ Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
 
 ## Rechtsrahmen
 
-- § 88 HGB — Geheimhaltungspflicht und Nutzungsverbot nach Vertragsende
-- § 667 BGB — Herausgabepflicht des Beauftragten (analog)
+- Paragraf 90 HGB: fortwirkender Geheimnisschutz unter den gesetzlichen Voraussetzungen, keine eigenständige Rückgabenorm; Paragraf 88 HGB ist weggefallen.
+- Paragrafen 675 Absatz 1, 667 BGB: Herausgabe der für die Geschäftsbesorgung erhaltenen oder daraus erlangten Gegenstände und Unterlagen neben vertraglichen Rückgabepflichten.
 - § 883 ZPO — Vollstreckung auf Herausgabe vertretbarer Sachen
 - § 888 ZPO — Vollstreckung unvertretbarer Handlungen
 - Art. 17 DSGVO — Recht auf Löschung
@@ -76,8 +76,8 @@ Wettbewerbsverbot (§ 90a HGB) sowie Kündigung (§§ 89 und 89a HGB).
 
 ## Quellen
 
-- [§ 88 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__88.html)
+- [Paragraf 90 HGB](https://www.gesetze-im-internet.de/hgb/__90.html)
 - [§ 667 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__667.html)
 - [§ 883 ZPO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/zpo/__883.html)
 - [Art. 17 DSGVO auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32016R0679)
-- [Dejure § 88 HGB](https://dejure.org/gesetze/HGB/88.html)
+- [Paragraf 675 BGB](https://www.gesetze-im-internet.de/bgb/__675.html)

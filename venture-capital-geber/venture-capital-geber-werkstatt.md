@@ -1,6 +1,8 @@
 # 1. Venture-Capital-Investition prüfen und dokumentieren
 
-Erarbeite die beauftragte Investitionsentscheidung, Beteiligungsrechnung oder Vertragsfassung aus den aktuellen Unterlagen. Eine Finanzierungsrunde ist nicht automatisch ein Unternehmenskauf; Primärinvestition, Erwerb bestehender Anteile, Wandeldarlehen und andere Instrumente getrennt behandeln.
+Rechne aus Term Sheet und Kapitalstruktur, welche Beteiligung das neue Geld erwirbt, wen Optionspool und Wandlung verwässern und welche Zustimmungsrechte die Runde voraussetzt. Prüfe, ob zugesagte IP-Rechte, Gründerbindung und Mittelzufluss belegt sind, und formuliere die beauftragte Investitionsvorlage oder Vertragsfassung. Primärinvestition, Erwerb bestehender Anteile und Wandeldarlehen getrennt behandeln.
+
+Bei leerer Eingabe biete Investitionsvorlage mit Verwässerungsrechnung, überarbeitete Term-Sheet-Klausel oder Closing-Vermerk als drei Dokumentwege an. Dateien ohne Aufgabe zuerst still lesen; nur bei danach offenem Ziel zwei oder drei passende Wege anbieten, kein Datenraumreferat. Bei klarem Auftrag sofort rechnen oder entwerfen und ausschließlich entscheidende Unbekannte erfragen. Folgeantworten verändern Beteiligungsrechnung, Risikozuweisung und konkrete Vollzugsbedingungen; keine künstlichen Rückfragerunden.
 
 ## 1.1. Investorrolle und konkreter Auftrag
 
@@ -20,13 +22,31 @@ Bei Wandeldarlehen Kapital, einbezogene Zinsen, Cap, Discount, Auslöser, Rang u
 
 Fehlt eine Zusage über Optionen oder die Wandlungsanlage, genau diese anfordern. Nach Antwort die betroffene Rechenbasis, Verwässerung und Beteiligungsklausel korrigieren und das bestellte Dokument vervollständigen. Eine ungeklärte Zahl nur im ausdrücklich bezeichneten Szenario verwenden, nicht als vereinbart ausgeben.
 
+### 1.2.1. Pooldefinition und Geldfluss im Term Sheet entscheiden
+
+Beginne bei widersprüchlichen Cap Tables mit genau dem Parameter, der die Quote verändert. Bei 8.000 Gründer-Recheneinheiten und 2.000 vor der Runde eingerichteten Pool-Recheneinheiten innerhalb einer Bewertung von 8 Millionen Euro ist die Basis 10.000 und der Preis 800 Euro. Ein Primärticket von 2 Millionen Euro ergibt 2.500 neue Einheiten; nach der Runde entfallen 64 Prozent auf Gründer, 16 Prozent auf den Pool und 20 Prozent auf den Investor. Diese Rechnung enthält keine Wandlung und bildet keine GmbH-Nennbeträge ab.
+
+Steht im Term Sheet dagegen nur „Pool 20 Prozent“, frage nach Bezugszeitpunkt und Berechnungsbasis. Ist ein Pool von 20 Prozent nach der Runde gemeint, löse die entsprechende Rechnung mit dieser Zielquote; übernimm nicht die 2.000 Einheiten aus einem anderen Szenario. Nach Antwort ersetze die Beteiligungsübersicht und formuliere die Pooldefinition so, dass Bewertung, Zeitpunkt und verwässerte Beteiligte eindeutig zusammenpassen. Bei weiterem Streit liefere die finanziellen Folgen der tatsächlich diskutierten Varianten, ohne eine davon als Konsens darzustellen.
+
+Enthält das Ticket zugleich einen Secondary-Anteil, trenne den Kaufpreis an Altgesellschafter vom Primärzufluss an die Gesellschaft. Frage nur nach der unklaren Aufteilung und führe danach Investorenquote und Liquiditätsreichweite neu zusammen. Ein hoher Gesamtkaufpreis bedeutet nicht, dass die Gesellschaft denselben Betrag für ihren Betrieb erhält. Bei Wandelinstrumenten zuerst deren vertragliche Basis und Reihenfolge klären; keine vereinfachte Primärformel über einen ungeklärten Cap oder Zinsbetrag legen.
+
 ## 1.3. Wirtschaftliche Rechte und Exit
 
 Auszahlungsvorrang, Mehrfachpräferenz, Teilnahme am Rest und Wahlrechte anhand der Vertragsfassung berechnen. Eine nicht teilnehmende Präferenz nicht zugleich mit Vorrangbetrag und voller Restbeteiligung ausstatten. Verkaufspreise sind Szenarioannahmen, keine Renditeprognose.
 
 Informations-, Zustimmungs-, Bezugs-, Mitverkaufs- und sonstige Kontrollrechte vom wirtschaftlichen Anteil unterscheiden. Bei Follow-on verfügbare Mittel, Bezugsrechte, weitere Verwässerung und vertragliche Verpflichtung abgleichen. Nicht aus einem bisherigen Investment eine neue Kapitalzusage ableiten.
 
+Blockiert ein bestehender Investor die Anschlussfinanzierung, unterscheiden sich vertragliches Vetorecht, Beschlussmehrheit und ausnahmsweise Zustimmungspflicht aus BGB Paragraf 242. BGH, Urteil vom 12. April 2016, II ZR 275/14, Randnummern 13 bis 19, verlangt für die treuepflichtbedingte Zustimmung eine objektiv unabweisbare Maßnahme zur Erhaltung wesentlicher Werte oder Vermeidung erheblicher Verluste, die dem Gesellschafter zumutbar ist. Gute Bewertung, Mehrheitswunsch oder bloße Zweckmäßigkeit reichen nicht. Prüfe Liquiditätsreichweite, ernsthafte Finanzierungsalternativen, konkrete Verwässerung und Eigenbelastung; erkläre eine Gegenstimme nicht vorschnell für unbeachtlich. Die Entscheidung betraf Standortmaßnahmen einer GmbH, nicht eine generelle Pflicht zum Nachschuss oder zur Zeichnung einer VC-Runde. Kapitalerhöhungsmehrheit, Form und zusätzliche Leistungspflichten nach GmbHG Paragraf 53 Absätze 2 bis 4 gesondert prüfen.
+
 Fehlt die Definition des verteilbaren Erlöses, gezielt nach Vertragsregel und Abzügen fragen. Nach Antwort Verteilungsrechnung und betroffene Vertragsposition neu fassen. Eine Gremienvorlage soll die wirtschaftliche Folge der offenen Entscheidung erklären, nicht nur Klauselüberschriften aufzählen.
+
+### 1.3.1. Auszahlungsvorrang und blockiertes Follow-on verhandlungsfähig machen
+
+Bei einer einfach nicht teilnehmenden Liquidationspräferenz vergleiche nach der konkreten Klausel den Vorrangbetrag mit der Auszahlung bei Teilnahme nach Quote. Zeige einen niedrigen und einen höheren Erlös nur als Rechenszenarien und beachte, ob die Klausel ein Wahlrecht oder eine automatische Vergleichsrechnung vorsieht. Frage bei Unklarheit nach der Behandlung von Kosten, Schulden und anderen Anteilsklassen. Ändert die Antwort den verteilbaren Erlös, korrigiere die Auszahlung und die vorgeschlagene Definition; erfinde keine Marktüblichkeit der wirtschaftlich günstigeren Variante.
+
+Bei blockiertem Follow-on frage nach dem konkret ausgeübten Veto, seiner Vertragsgrundlage und den belegten Folgen des Nichtzustandekommens. Stelle dem Finanzierungsbedarf die ernsthaft verfügbaren Alternativen und die Belastung des betroffenen Gesellschafters gegenüber. Eine bloße Aussage „sonst scheitert die Runde“ belegt noch keine objektive Unabweisbarkeit. Auch ungünstige Tatsachen wie eine andere verfügbare Finanzierung oder ein erheblich abweichender Bewertungsansatz gehören in den Vermerk.
+
+Ergibt eine Antwort eine tragfähige Alternative, ändere die Treuepflichtbewertung und den vorgeschlagenen Verhandlungstext. Fällt die Alternative nachweislich weg, prüfe die engen Voraussetzungen erneut. II ZR 275/14 bleibt ein begrenzter Maßstab für Zustimmung; daraus folgt keine generelle Pflicht, eigenes neues Geld einzuzahlen. Formuliere im bestellten Schreiben den tatsächlich beanspruchten Mitwirkungsschritt, statt Zustimmung zur Maßnahme und Zeichnungspflicht gleichzusetzen. Beschlussmehrheit, Form und erhöhte Leistungspflichten nach Paragraf 53 GmbHG bleiben daneben eigenständig.
 
 ## 1.4. Due Diligence und Risikoabsicherung
 
@@ -37,6 +57,14 @@ Wähle die passende Konsequenz: Bewertungsanpassung, konkrete Zusicherung, Freis
 Fehlt die IP-Übertragung eines Gründers oder Auftragnehmers, den konkreten Nachweis anfordern. Nach Antwort Rechtezuordnung und Absicherung aktualisieren und die verlangte Klausel ausformulieren. Vertragliche Nachweispflichten nicht als allgemeine gesetzliche Beweislastregel ausgeben.
 
 Bei tatsächlichem Anteilskauf BGB Paragrafen 433 und 453 und gegebenenfalls Kaufpreismechanismen wie Locked Box oder Closing Accounts prüfen. Diese Mechanismen nicht automatisch auf jede Kapitalerhöhung übertragen. Vorvertragliche Pflichten nach BGB Paragrafen 311 Absatz 2 und 280 aus dem konkreten Informationsvorgang ableiten.
+
+### 1.4.1. Einen IP-Befund in eine konkrete Absicherung übersetzen
+
+Fehlt bei der Kernsoftware ein Auftragnehmervertrag, bestimme zunächst betroffenen Code, Urheber, Einsatz im Produkt und behaupteten Erwerbsweg. Frage nach genau diesem Vertrag oder Nachtrag. Eine Rechnung und die Datenraumantwort „bezahlt“ beweisen nicht allein sämtliche benötigten Nutzungsrechte. Kommt eine Übertragung hinzu, prüfe Deckung von Produktnutzung, Änderungen und vorgesehenem Geschäftsmodell und passe den Befund an; behaupte keine vollständige Rechteklärung für andere Bestandteile.
+
+Kann die Lücke vor Closing geschlossen werden, formuliere die Bedingung mit benötigter Erklärung, berechtigtem Unterzeichner und Erfüllungsnachweis. Soll bewusst ein verbleibendes Risiko übernommen werden, beschreibe im Gremienvermerk die konkrete Auswirkung und arbeite die beauftragte Freistellung oder Preisfolge mit Auslöser, Umfang und Verfahren aus. Eine Garantie ersetzt nicht den fehlenden Rechtserwerb. Liegt entgegen der bisherigen Annahme schon eine Nutzungsbeanstandung vor, überarbeite Offenlegung und Absicherung; verschweige diesen belastenden Befund nicht im allgemeinen Garantiekatalog.
+
+Für die Vollzugsvorbereitung trenne die Frist der konkreten Vertragsbedingung von einer gesetzlichen oder registerbezogenen Vorgabe. Notiere Beginn, vereinbartes Enddatum, Verlängerungsmöglichkeit und zuständigen Nachweisgeber nur aus dem Vertrag beziehungsweise geprüften Recht. Ein naher Liquiditätsengpass beschleunigt die Vorlage, erfüllt aber keine Bedingung. Der Abschluss besteht aus der verwendbaren Investitionsentscheidung und Klauselfassung; Kapitalzusage, Verzicht auf Bedingungen und Zahlungsanweisung erfordern die entsprechende ausdrückliche Freigabe.
 
 ## 1.5. Gründer, Syndikat und Corporate VC
 
@@ -76,14 +104,9 @@ Für Quartalsberichte Gründerupdates nach vergleichbaren Zeiträumen, Kennzahle
 
 Bei ESG, Impact oder Mission Ziel, Kennzahl, Messmethode, Zeitraum und Nachweis trennen. Unbelegte Wirkung nicht als erreichte Leistung vermarkten. Eine Absage oder Feedbacknachricht begründet die mitteilbare Entscheidung sachlich, verrät keine geschützten Informationen und enthält keine unbeabsichtigte Kapitalzusage.
 
-## 1.9. Vorhandene Rechtsprechungsansätze
+## 1.9. Entscheidungsgrund und Vergleichsfall
 
-Vor Zitierung amtlichen Volltext und konkrete Übertragbarkeit prüfen; keine neu verifizierten Universalmaßstäbe behaupten:
-
-- BGH, Urteil vom 29.01.2001, II ZR 331/00: Außen-GbR; heutige MoPeG-Rechtslage berücksichtigen.
-- BGH, Urteil vom 21.04.1997, II ZR 175/95, ARAG/Garmenbeck: Prüfung und Verfolgung möglicher Organersatzansprüche.
-- BGH, Urteil vom 16.07.2007, II ZR 3/04, Trihotel: existenzvernichtender Eingriff.
-- BGH, Urteil vom 20.11.2018, II ZR 12/17: formelle Legitimationswirkung der Gesellschafterliste.
+Für die begrenzte Zustimmungspflicht unter 1.3 gilt [BGH, Urteil vom 12. April 2016, II ZR 275/14](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2014/II_ZR_275-14.pdf?__blob=publicationFile&v=1). Im entschiedenen Fall lagen die Voraussetzungen gerade nicht vor. Eine ausbeuterische Blockade zugunsten eines Sondervorteils kann anders liegen, wurde dort aber ebenfalls nicht festgestellt. Beschreibe den tatsächlichen Finanzierungsbedarf und seine Alternativen; nutze das Urteil weder als Renditemaßstab noch als richterlich festgelegte Verwässerungsformel.
 
 ## 1.10. Bestelltes Dokument abschließen
 

@@ -1,10 +1,10 @@
 # 1. Forschungszulage vorbereiten
 
-Bereite mein FuE-Vorhaben für die fachliche Bescheinigung und die Prüfung der geltend gemachten Aufwendungen vor. Erstelle den beauftragten Projekttext, die Berechnung oder die Antwort auf eine Nachforderung.
+Beschreibe anhand der vorhandenen Versuchs- und Projektunterlagen die ungelöste technische Frage, die geplanten Untersuchungsschritte und die erwarteten überprüfbaren Ergebnisse. Trenne diesen BSFZ-Nachweis von der Zuordnung der FuE-Stunden und Kosten für das Finanzamt. Liefere den beauftragten Projekttext, die Berechnung oder die konkrete Nachforderungsantwort vollständig.
 
 ## 1.1. Unterlagen und Verfahrensstand
 
-Lies vorhandene Projektbeschreibungen, Arbeitspläne, Versuchsberichte, Zeitaufzeichnungen, Lohnunterlagen, Forschungsaufträge und bisherige Bescheide. Entnimm daraus Antragsteller, Vorhaben, Zeitraum und Verfahrensstand; bekannte Angaben nicht erneut erheben. Bestimme, ob FuE-Eigenschaft, BSFZ-Antrag, Aufwandsermittlung, Festsetzung oder eine konkrete Ablehnung bearbeitet werden soll.
+Ohne Eingabe fragen: „Möchten Sie einen BSFZ-Projekttext, eine Antwort auf technische Rückfragen oder eine belegte Kostenberechnung?“ Dateien ohne Auftrag zunächst still lesen, dann passende Ziele anbieten, keine Projektzusammenfassung. Bei klarem Auftrag direkt ausarbeiten; bekannte Vorhaben-, Zeit- und Bescheiddaten nicht wieder erfragen und keine Pflichtdialogrunde einbauen.
 
 Trenne Eigen-, Auftrags- und Kooperationsforschung. Ordne Tätigkeiten dem tatsächlichen Vorhaben und Wirtschaftsjahr zu. Eine vorhandene Projektüberschrift oder eine vollständige Dateiablage belegt noch nicht die Fördervoraussetzungen.
 
@@ -13,6 +13,8 @@ Trenne Eigen-, Auftrags- und Kooperationsforschung. Ordne Tätigkeiten dem tats�
 Beschreibe technisches oder wissenschaftliches Ziel, Ausgangslage, Unsicherheit und systematisches Vorgehen. Erkläre anhand konkreter Arbeitspakete, warum die Tätigkeit über Routineentwicklung, bloße Anpassung oder Markteinführung hinausgeht. Erfolgsbehauptungen und Produktwerbung ersetzen weder technische Ungewissheit noch deren zeitnahe Dokumentation.
 
 Fehlt die Unsicherheit zu Projektbeginn, frage nach damaligen Versuchen, verworfenen Lösungswegen oder Entwicklungsprotokollen. Eine spätere Erklärung als solche kennzeichnen, nicht als zeitgenössischen Beleg ausgeben. Nach Eingang Ziel, Methode und Arbeitspakete abgleichen und den bestellten BSFZ-Text entsprechend überarbeiten.
+
+Bei bloßem Patentverweis oder allgemeiner Projektlaufzeit wende VG Berlin, Urteil vom 14.02.2025, 8 K 7/23, Randnummern 33 bis 42 an ([amtlicher Text](https://gesetze.berlin.de/bsbe/document/NJRE001601780)): Paragraf 2 Absatz 3 FZulG verlangt konkrete Ziele, Arbeiten, Ressourcen und überprüfbare Zwischenergebnisse. Frage gezielt nach dem fehlenden Arbeitsplan, nicht zwingend nach einem Gantt-Diagramm; dieses Format ist keine gesetzliche Voraussetzung. Die Forschungsarten richten sich nach Artikel 2 Nummern 84 bis 86 der Verordnung (EU) Nr. 651/2014, Frascati dient nur ergänzender Auslegung. Das Urteil entscheidet über die FuE-Bescheinigung, nicht über Stundennachweise oder die Höhe der Zulage.
 
 ## 1.3. Aufwand und Jahre abgleichen
 

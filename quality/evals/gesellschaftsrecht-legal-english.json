@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "gesellschaftsrecht-legal-english",
-  "reviewed_on": "2026-09-17",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/gmbhg/__16.html",
@@ -12,19 +12,35 @@
       "url": "https://www.gesetze-im-internet.de/gmbhg/__40.html",
       "checked_on": "2026-09-14",
       "supports": "Gesellschafterliste mit konkreten Anteilen und Nennbeträgen nach wirksamer Veränderung."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2017/II_ZR__12-17.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 20.11.2018 - II ZR 12/17, Rn. 22 bis 27, 54 bis 62: Listenlegitimation am Beschlusstag grundsätzlich auch nach Einziehung beachten; eigene Entlastung bleibt auch bei negativ gefasstem Antrag vom Stimmverbot erfasst. Grenze: Liste entscheidet nicht abschließend über materielles Eigentum; Stimmverbote und Missbrauch getrennt prüfen. Unberechtigte Versammlungsleitung allein beseitigt nicht jeden Beschluss."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Vollständig geprüft: Definitionen, Sprachfassungen und Beteiligungsnenner werden bis zur fertigen Übersetzung oder Erklärung bearbeitet. Die auftragsabhängige Fortsetzung bleibt unverändert.",
+    "reason": "Der Kurzprompt erklärt am Beteiligungsfall, weshalb Cap Table, vollständig verwässerte Quote und Gesellschafterliste unterschiedliche Aussagen treffen; II ZR 12/17 trägt die rechtliche Abgrenzung. Individuelle Text- und Primärquellenprüfung, kein Live-Modelltest.",
     "changes": [
-      "Eigenständigen Übersetzungs- und Erklärungsablauf ausgearbeitet.",
-      "Bedeutungserhalt bei Modalverben und Rechtsordnungen verankert.",
-      "Fully-diluted-Nenner und virtuelle Ansprüche von echten Anteilen getrennt."
+      "Listenlegitimation von materiellem Anteilseigentum und virtuellen Beteiligungen getrennt.",
+      "Cap Table, Sprachvorrang, Efforts, Garantie/Freistellung, Vesting, Drag/Tag und Anti-Dilution jeweils mit eigener Prüfungsfolge statt Universalabsatz behandelt.",
+      "Lern- und Simulationsmodus sowie Dokumenten-, Quellen- und Exportfallbacks erhalten.",
+      "Eigenständige Starts und fachbezogene Antwortfortsetzung ergänzt."
     ],
-    "sha256": "8198268f1cf09dd454206b5d49f4e6c4cf05351f1e3ed26971dbdbd2bb30ff6d"
+    "sha256": "a1d43c9e66e45bffd30730c0c0e64c3c6094d5728c59e3c92d673493ff38b889"
   },
-  "workshop_review": {"verdict":"revised","reason":"Die Ganztextprüfung zeigte trotz passender Fortsetzung einen pauschalen Stopp bei Form- oder Registerfragen und eine Stationsproduktpflicht.","changes":["Unabhängige Übersetzungsarbeit fortsetzen und nach Antwort die betroffene Passage aktualisieren lassen.","Terminologie und Zahlenprüfung dem Zieltext oder der Lernfrage statt zusätzlichen Vollzugsdokumenten zugeordnet."],"sha256":"41c1ca555929b62a99cf4acd161bece78ddcc21cdd22eb7662f88e71cb68da7b"},
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Die Werkstatt wurde aus langen schematischen Wiederholungen in zwölf eigenständige Arbeitsrouten überführt, mit konkreten englischen Empfängerformulierungen, Klauselauslegung und deutschen Formgrenzen. Individuelle Text- und Primärquellenprüfung, kein Live-Modelltest.",
+    "changes": [
+      "Listenlegitimation von materiellem Anteilseigentum und virtuellen Beteiligungen getrennt.",
+      "Cap Table, Sprachvorrang, Efforts, Garantie/Freistellung, Vesting, Drag/Tag und Anti-Dilution jeweils mit eigener Prüfungsfolge statt Universalabsatz behandelt.",
+      "Lern- und Simulationsmodus sowie Dokumenten-, Quellen- und Exportfallbacks erhalten.",
+      "Organbegriffe, Risikoänderung durch Übersetzung, Beteiligungsnenner und vollständiger zweisprachiger Dokumentabschluss."
+    ],
+    "sha256": "9cdcfc6c913794e5b03e03dfcef4bccd9ff9ff53da895af271b5ea261babc1fd"
+  },
   "selection": {
     "positive": [
       "Erkläre einem englischsprachigen Investor den Unterschied zwischen Cap Table und Gesellschafterliste.",
@@ -68,5 +84,48 @@
       ],
       "target_skill": "cap-table-client-explainer"
     }
-  ]
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "gesellschaftsrecht-legal-english/README.md",
+      "gesellschaftsrecht-legal-english/gesellschaftsrecht-legal-english-werkstatt.md",
+      "gesellschaftsrecht-legal-english/gesellschaftsrecht-legal-english-schnellstart.md",
+      "gesellschaftsrecht-legal-english/skills/cap-table-client-explainer/SKILL.md",
+      "quality/evals/gesellschaftsrecht-legal-english.json"
+    ],
+    "opening_change": "Englische Klauseln und Beteiligungsdarstellungen werden auf ihre konkrete Wirkung für die deutsche GmbH zurückgeführt.",
+    "norms": [
+      "GmbHG Paragraf 16 Absatz 1",
+      "GmbHG Paragraf 15 Absatz 3 und 4",
+      "GmbHG Paragraf 19 Absatz 4 und 5",
+      "BGB Paragrafen 133 und 157"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 20.11.2018 - II ZR 12/17, Rn. 22 bis 27, 54 bis 62",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2017/II_ZR__12-17.pdf?__blob=publicationFile&v=1",
+        "application": "Listenlegitimation am Beschlusstag grundsätzlich auch nach Einziehung beachten; eigene Entlastung bleibt auch bei negativ gefasstem Antrag vom Stimmverbot erfasst.",
+        "limit": "Liste entscheidet nicht abschließend über materielles Eigentum; Stimmverbote und Missbrauch getrennt prüfen. Unberechtigte Versammlungsleitung allein beseitigt nicht jeden Beschluss."
+      }
+    ],
+    "remaining_limits": [
+      "Kein Gutachten zu englischem oder US-Recht; englische Begriffe begründen nicht automatisch Common-Law-Rechtsfolgen.",
+      "Der gelesene gewöhnliche Cap-Table-Skill liegt außerhalb des Schreibbereichs und wurde nicht verändert.",
+      "Desk- und Quellenprüfung; kein Live-Client- oder Live-Modelltest und keine vollständige Neuverifikation sämtlicher vorhandener Quellen.",
+      "Workflow-Ergänzung am 2026-09-23: individuelle Textprüfung, keine erneute Gesamtverifikation der bestehenden Entscheidungsanker; deren dokumentierte Quellen- und Zugriffsgrenzen bleiben bestehen."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Übersetzung einer Gesellschaftsklausel, Investorenerläuterung oder Sprachübung anbieten.",
+      "Klausel und Definitionsanhang still lesen; Übersetzung oder Redline anbieten.",
+      "Bestellte englische Fassung ohne vorgeschaltete Unterrichtsrunde liefern."
+    ],
+    "continuation": "Neue Definition -> konsistente Klauselbegriffe; anderer Beteiligungsnenner -> Beteiligungserläuterung; Sprachvorrang -> Schlussklausel ändern.",
+    "enrichment": "Organbegriffe, Risikoänderung durch Übersetzung, Beteiligungsnenner und vollständiger zweisprachiger Dokumentabschluss.",
+    "limits": "desk review; no live client execution"
+  }
 }

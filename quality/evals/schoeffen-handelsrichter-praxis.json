@@ -1,21 +1,73 @@
 {
   "schema_version": 1,
   "plugin": "schoeffen-handelsrichter-praxis",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/gvg/__105.html",
       "checked_on": "2026-09-14",
       "supports": "Besetzung der Kammer für Handelssachen und gleiches Stimmrecht ihrer Mitglieder."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Strafsenate/5_StS/2021/5_StR_153-21.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Beschluss vom 02.02.2022, 5 StR 153/21, Randnummern 14 bis 15 und 21 bis 22. Amtliche tragende Entscheidungsgründe gelesen. Anwendung: Bei möglicher Befangenheit eines Schöffen den konkreten Kontakt offenlegen; Entscheidung setzt Ablehnungsgesuch oder Selbstanzeige voraus, anders als gesetzlicher Ausschluss. Grenze: Keine automatische Befangenheit jeder Bekanntschaft und kein eigenmächtiges Fernbleiben; strafprozessuale Zuständigkeiten nicht auf Handelsrichter übertragen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stpo/__30.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aktueller amtlicher Normtext gelesen: Selbstanzeige und amtswegige Entscheidung gesetzlicher Ausschließung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stpo/__31.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aktueller amtlicher Normtext gelesen: Schöffen und zuständiges Entscheidungsorgan."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__42.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aktueller amtlicher Normtext gelesen: Besorgnis der Befangenheit im Zivilprozess."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__48.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aktueller amtlicher Normtext gelesen: Selbstanzeige im Zivilprozess."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vwgo/__54.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aktueller amtlicher Normtext gelesen: ZPO-Verweisung und verwaltungsgerichtliche Sonderregeln."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gvg/__105.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aktueller amtlicher Normtext gelesen: Besetzung der Kammer für Handelssachen und Stimmrecht."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stpo/__240.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlichen Text zum Fragerecht in der Hauptverhandlung gelesen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/drig/__43.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlichen Text zum Beratungsgeheimnis gelesen; keine Offenlegung interner Beratung zur Promptbearbeitung verlangen."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Vollständig gelesen; die starre Grenze einer Rückfrage widersprach der erforderlichen Klärung von Verfahrensrolle und zulässig mitteilbarem Sachverhalt.",
+    "reason": "Fachliche Startvarianten und konkrete Antwortfortsetzung einzeln geprüft. Privaten Kontakt von automatischem Ausschluss unterscheiden; Wahrnehmung in zulässige Frage überführen; Handelsrechnung nicht als Liefernachweis behandeln; Hörprobleme und Beratungsgeheimnis in konkrete Handlungsvorschläge übersetzen.",
     "changes": [
-      "Rückfragendeckel entfernt und Fortsetzung bis zur Fragenliste oder Mitteilung ergänzt; Beobachtung und Bewertung ohne verpflichtende Tabelle getrennt."
+      "Kontakt, Nähe und Kenntniszeit statt bloßer Selbsteinschätzung mitteilen.",
+      "Ablehnung/Selbstanzeige und gesetzlichen Ausschluss trennen; Entscheidung bleibt zuständigem Gericht vorbehalten.",
+      "Handelsrichter nach ZPO und Verwaltungsrichter nach VwGO gesondert zuordnen.",
+      "Leerstart: Frage in der Verhandlung, Kontakt offenlegen oder Beleg einordnen wählen.",
+      "Neue Angaben zu Kontaktzeitpunkt und Gesprächsinhalt verändern die Offenlegung; geklärte Gebindeeinheit verändert Belegvergleich und neutrale Nachfrage.",
+      "Privaten Kontakt von automatischem Ausschluss unterscheiden; Wahrnehmung in zulässige Frage überführen; Handelsrechnung nicht als Liefernachweis behandeln; Hörprobleme und Beratungsgeheimnis in konkrete Handlungsvorschläge übersetzen."
     ],
-    "sha256": "2d47013e870161eae232fc720865bc6c05dcde7283f1cdae831c18030b045710"
+    "sha256": "45512776c9dec7a0d3bbabfe8ca58d03de789372710d3d5011e8774ca8ca14bd",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
   },
   "selection": {
     "positive": [
@@ -63,10 +115,58 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die vollständige Werkstatt verlangte trotz Beratungsgeheimnis pauschale richterliche Endprodukte und einen verpflichtenden Skill-Durchlauf; doppelte Routen wiederholten dieselben Leerformeln.",
+    "reason": "Vollständige Werkstatt mit zusätzlichen fachlichen Entscheidungs- und Dokumentwegen einzeln geprüft. Privaten Kontakt von automatischem Ausschluss unterscheiden; Wahrnehmung in zulässige Frage überführen; Handelsrechnung nicht als Liefernachweis behandeln; Hörprobleme und Beratungsgeheimnis in konkrete Handlungsvorschläge übersetzen.",
     "changes": [
-      "Rollenbezogene Vorbereitung für Straf-, Jugend-, Handels- und Verwaltungsverfahren zusammengeführt; digitale Beweise, Bilanzfragen und Neutralitätsmitteilung erhalten. Entscheidungsentwürfe auf zulässigen ausdrücklichen Auftrag begrenzt; Beratung und Abstimmung bleiben geschützt."
+      "Kontakt, Nähe und Kenntniszeit statt bloßer Selbsteinschätzung mitteilen.",
+      "Ablehnung/Selbstanzeige und gesetzlichen Ausschluss trennen; Entscheidung bleibt zuständigem Gericht vorbehalten.",
+      "Handelsrichter nach ZPO und Verwaltungsrichter nach VwGO gesondert zuordnen.",
+      "Leerstart: Frage in der Verhandlung, Kontakt offenlegen oder Beleg einordnen wählen.",
+      "Neue Angaben zu Kontaktzeitpunkt und Gesprächsinhalt verändern die Offenlegung; geklärte Gebindeeinheit verändert Belegvergleich und neutrale Nachfrage.",
+      "Privaten Kontakt von automatischem Ausschluss unterscheiden; Wahrnehmung in zulässige Frage überführen; Handelsrechnung nicht als Liefernachweis behandeln; Hörprobleme und Beratungsgeheimnis in konkrete Handlungsvorschläge übersetzen."
     ],
-    "sha256": "c8d2990b647cf1d7ba24c2b4f92703d3822cfd9088b3a667a886e168be8083a3"
+    "sha256": "e3155a4587122707499e3030cf6b18e155cecd5c41ad94575be1346904557d73",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "schoeffen-handelsrichter-praxis/schoeffen-handelsrichter-praxis-werkstatt.md",
+      "schoeffen-handelsrichter-praxis/schoeffen-handelsrichter-praxis-schnellstart.md"
+    ],
+    "opening_change": "Konkrete Sitzungsfrage, Belegvergleich oder sachliche Kontaktmitteilung des ehrenamtlichen Richters statt abstrakter Rollenhilfe.",
+    "norms": [
+      "Paragrafen 22 bis 24, 30, 31, 240 Absatz 2 und 261 StPO",
+      "Paragrafen 42 und 48 ZPO",
+      "Paragraf 54 VwGO",
+      "Paragraf 105 GVG",
+      "Paragraf 43 DRiG"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Beschluss vom 02.02.2022, 5 StR 153/21, Randnummern 14 bis 15 und 21 bis 22",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Strafsenate/5_StS/2021/5_StR_153-21.pdf?__blob=publicationFile&v=1",
+        "application": "Bei möglicher Befangenheit eines Schöffen den konkreten Kontakt offenlegen; Entscheidung setzt Ablehnungsgesuch oder Selbstanzeige voraus, anders als gesetzlicher Ausschluss.",
+        "limit": "Keine automatische Befangenheit jeder Bekanntschaft und kein eigenmächtiges Fernbleiben; strafprozessuale Zuständigkeiten nicht auf Handelsrichter übertragen."
+      }
+    ],
+    "remaining_limits": [
+      "Desk- und Primärquellenreview, kein Live-Client- oder Modelltest.",
+      "Geprüfter gerichtlicher Anker betrifft Schöffen; Handels- und Verwaltungszweige gesetzlich abgegrenzt, keine zusätzliche fallbezogene Volltextprüfung ihrer Befangenheitsrechtsprechung.",
+      "Keine geheime Beratung oder tatsächliche Abstimmung ausgewertet.",
+      "Workflow-Vertiefung 2026-09-23: Der bereits dokumentierte BGH-Beschluss 5 StR 153/21 bleibt auf seinen konkreten strafprozessualen Schöffenkontext begrenzt; keine allgemeine Befangenheitsregel für jede Bekanntschaft oder Übertragung auf Handelssachen. Desk review; keine Live-Client-Ausführung."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leerstart: Frage in der Verhandlung, Kontakt offenlegen oder Beleg einordnen wählen.",
+      "Dateien: Sitzungsunterlagen still lesen und den konkreten neutralen Arbeitsbeitrag klären.",
+      "Klarer Auftrag: sachliche Frage, Offenlegung oder Belegvermerk ohne private Ermittlung ausformulieren."
+    ],
+    "continuation": "Neue Angaben zu Kontaktzeitpunkt und Gesprächsinhalt verändern die Offenlegung; geklärte Gebindeeinheit verändert Belegvergleich und neutrale Nachfrage.",
+    "enrichment": "Privaten Kontakt von automatischem Ausschluss unterscheiden; Wahrnehmung in zulässige Frage überführen; Handelsrechnung nicht als Liefernachweis behandeln; Hörprobleme und Beratungsgeheimnis in konkrete Handlungsvorschläge übersetzen.",
+    "limits": "desk review; no live client execution"
   }
 }

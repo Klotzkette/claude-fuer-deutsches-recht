@@ -1,34 +1,65 @@
 {
   "schema_version": 1,
   "plugin": "richter-familiengericht",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/famfg/__113.html",
       "checked_on": "2026-09-14",
       "supports": "Ausschluss allgemeiner FamFG-Regeln einschließlich Paragraf 26 in Ehesachen und Familienstreitsachen; ZPO-Verweisung."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2023/XII_ZB_558-23.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "Erneute Primärquellenprüfung: BGH, Beschluss vom 13.11.2024, XII ZB 558/23, Randnummern 17 bis 23. Anwendung: Bei niedrigerem Endvermögen erfüllende Auskunft feststellen und beweisbelastetem Beteiligten gegebenenfalls neutralen Hinweis zu Verbrauchsbelegen erteilen. Grenze: Keine Feststellung allein aus Kontorückgang; Gehör und Beweiswürdigung bleiben erforderlich; keine allgemeine FamFG-Amtsermittlung in Zugewinnsachen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/famfg/__113.html",
+      "checked_on": "2026-09-22",
+      "supports": "ZPO-Verweisung und Ausschluss allgemeiner Amtsermittlung in Familienstreitsachen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/famfg/__159.html",
+      "checked_on": "2026-09-22",
+      "supports": "Kindesanhörung, persönlicher Eindruck und konkrete Ausnahmen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__1375.html",
+      "checked_on": "2026-09-22",
+      "supports": "Beweislastfolge bei geringerer Endvermögensangabe; nicht jeder Verbrauch ist illoyal."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/famfg/__159.html",
+      "checked_on": "2026-09-23",
+      "supports": "Ausführbare Umgangsregelung, Schutzlage, monatliche Unterhaltszuordnung und stichtagsbezogene Vermögensbelege. Quellenstatus: Paragraf 159 nur im amtlichen Suchindex zugänglich; Direktabrufe von 159 und 113 gescheitert. Bestehende geprüfte FamFG-Abgrenzungen bewahrt, keine neue Volltextprüfung behauptet."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Mini vollständig gelesen: Die Verfahrensunterscheidung und Stichtagsprüfung waren tragfähig, aber die Begrenzung auf eine Rückfrage widersprach der nötigen Fortsetzung bei fehlenden Einkommens- und Vermögensbelegen.",
+    "reason": "Individuelle Lektüre und Workflow-Vertiefung: Neuer Übergabevorfall -> Schutz- und Anhörungsplan ändern; Zahlungszuordnung -> Unterhaltsmonate und Tenor berichtigen. Desk review, keine Live-Client-Ausführung.",
     "changes": [
-      "Starre Rückfragegrenze durch gezielte Klärung neuer entscheidender Lücken ersetzt.",
-      "Nach Eingang von Einkommens-, Zahlungs- oder Stichtagsbelegen betroffene Rechnung und Beschlussentwurf aktualisieren lassen.",
-      "Quellenstatus vom Beschlusstext getrennt und Nutzerdateinamen vor ergebnis.md gestellt."
+      "Paragrafen 1375 und 1384 BGB mit XII ZB 558/23 in den Vermögensabgleich integriert.",
+      "Erforderlicher Hinweis und rechtliches Gehör statt pauschaler Amtsermittlung oder automatischer Illoyalitätsfeststellung.",
+      "Neuer Übergabevorfall -> Schutz- und Anhörungsplan ändern; Zahlungszuordnung -> Unterhaltsmonate und Tenor berichtigen.",
+      "Ausführbare Umgangsregelung, Schutzlage, monatliche Unterhaltszuordnung und stichtagsbezogene Vermögensbelege."
     ],
-    "sha256": "f121c02aec969854ad0644c1241130e4b834720e8206c078f9a78eb54f075d68"
+    "sha256": "98deea6193bbf3ac6cbb7eee180b21522dd4b0081284e3c1b6d2db638ccde834",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt vollständig gelesen und nach Überarbeitung nochmals vollständig geprüft: Doppelte Themenrouten und pauschale Vorgaben zu Amtsermittlung, Anhörung und Beschwerde verdeckten die unterschiedlichen Familienverfahren.",
+    "reason": "Individuelle Lektüre und Workflow-Vertiefung: Ausführbare Umgangsregelung, Schutzlage, monatliche Unterhaltszuordnung und stichtagsbezogene Vermögensbelege. Desk review, keine Live-Client-Ausführung.",
     "changes": [
-      "Verfahrensbezogene Aufklärung und gezielte Fortsetzung bis zum bestellten Beschluss zusammengeführt.",
-      "Kindschaft, Gefährdung, Unterhalt, Zugewinn und Versorgungsausgleich in eigene Bearbeitungsabschnitte mit Belegen und Anschlussentscheidungen eingeordnet.",
-      "Entscheidung ohne mündliche Verhandlung von Gehörsausnahmen sowie Beschwerdefrist und Abhilfebefugnis nach Entscheidungsart getrennt.",
-      "Unverifizierte ältere Rechtsprechungsangaben als Recherchehinweise erhalten; technische Grenzen ans Ende gestellt."
+      "Titel, Auskunftsverlangen und Erfüllungsannahme als Auslöser der Beweislastfolge aufgenommen.",
+      "Neutrale Hinweise nach Paragraf 139 ZPO mit Paragraf 113 FamFG verbunden.",
+      "Ungeprüfte Aktenzeichen entfernt; europäische Zuständigkeitsprüfung auf genaue Artikel verwiesen.",
+      "Neuer Übergabevorfall -> Schutz- und Anhörungsplan ändern; Zahlungszuordnung -> Unterhaltsmonate und Tenor berichtigen.",
+      "Ausführbare Umgangsregelung, Schutzlage, monatliche Unterhaltszuordnung und stichtagsbezogene Vermögensbelege."
     ],
-    "sha256": "a9d17dfa38a9142391f4cda901d34112a013831a99ad08c33224f7714ddf37e9"
+    "sha256": "880f5e947598b66bbbba0cb8d75d9563b02daa67e37bcb96112f2a5d2473aca8",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
   },
   "selection": {
     "positive": [
@@ -73,5 +104,44 @@
       ],
       "target_skill": "09-beschluss-familiensache-paragraf-38-famfg"
     }
-  ]
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "gerichtsplugins/richter-familiengericht/richter-familiengericht-werkstatt.md",
+      "gerichtsplugins/richter-familiengericht/richter-familiengericht-schnellstart.md"
+    ],
+    "opening_change": "Entscheidungsreife der beantragten Sorge-, Umgangs-, Unterhalts- oder Vermögensregelung mit konkreter noch nötiger Aufklärung bestimmen.",
+    "norms": [
+      "Paragrafen 1374, 1375, 1378, 1379 und 1384 BGB",
+      "Paragrafen 113 und 159 FamFG; Paragraf 139 ZPO",
+      "Artikel 1, 3, 7 und 100 Verordnung (EU) 2019/1111 als fallbezogene Prüfpunkte"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Beschluss vom 13.11.2024, XII ZB 558/23, Randnummern 17 bis 23",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2023/XII_ZB_558-23.pdf?__blob=publicationFile&v=1",
+        "application": "Bei niedrigerem Endvermögen erfüllende Auskunft feststellen und beweisbelastetem Beteiligten gegebenenfalls neutralen Hinweis zu Verbrauchsbelegen erteilen.",
+        "limit": "Keine Feststellung allein aus Kontorückgang; Gehör und Beweiswürdigung bleiben erforderlich; keine allgemeine FamFG-Amtsermittlung in Zugewinnsachen."
+      }
+    ],
+    "remaining_limits": [
+      "Desk- und Quellenreview ohne gerichtlichen Einsatz oder Live-Modelltest.",
+      "Keine Vollverifikation aller kindschafts- und versorgungsausgleichsrechtlichen Entscheidungen.",
+      "EUR-Lex-Volltextabruf der Verordnung (EU) 2019/1111 durch Zugriffshürde nicht gelungen; Artikel als Prüfpunkte, keine hier bestätigte internationale Zuständigkeit.",
+      "Workflow-Vertiefung 2026-09-23: Paragraf 159 nur im amtlichen Suchindex zugänglich; Direktabrufe von 159 und 113 gescheitert. Bestehende geprüfte FamFG-Abgrenzungen bewahrt, keine neue Volltextprüfung behauptet. Desk review; kein Live-Client-Test."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Sorge/Umgang, Unterhalt/Vermögen oder Eilschutz auswählen.",
+      "Familienakten still lesen; keine ungefragte Gesamtübersicht.",
+      "Bestellte Verfügung oder Beschluss direkt ausarbeiten."
+    ],
+    "continuation": "Neuer Übergabevorfall -> Schutz- und Anhörungsplan ändern; Zahlungszuordnung -> Unterhaltsmonate und Tenor berichtigen.",
+    "enrichment": "Ausführbare Umgangsregelung, Schutzlage, monatliche Unterhaltszuordnung und stichtagsbezogene Vermögensbelege.",
+    "limits": "desk review; no live client execution"
+  }
 }

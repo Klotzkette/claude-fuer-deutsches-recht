@@ -1,8 +1,23 @@
 {
   "schema_version": 1,
   "plugin": "methodenlehre-buergerliches-recht",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__305.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlicher Text gelesen: gestellte vorformulierte Vertragsbedingungen und im Einzelnen ausgehandelte Regelung unterscheiden; Gesprächsbehauptung als Anlass zur konkreten Tatsachenklärung, keine automatische Einordnung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__306.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlicher Text gelesen: gesetzlicher Ersatzinhalt bei nicht einbezogenen oder unwirksamen AGB; keine stillschweigende freie Ersatzgestaltung als Auslegung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__133.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlichen Text erneut geöffnet und im BGB-Gesamttext gelesen: wirklichen Willen erforschen statt ausschließlicher Wortlauthaftung; neue Verhandlungsbelege verändern die konkrete Auslegung."
+    },
     {
       "url": "https://www.gesetze-im-internet.de/bgb/__133.html",
       "checked_on": "2026-09-14",
@@ -17,25 +32,40 @@
       "url": "https://www.gesetze-im-internet.de/bgb/__271.html",
       "checked_on": "2026-09-14",
       "supports": "Bestimmte Leistungszeit gegenüber fehlender Zeitbestimmung."
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2023-6-23&Gericht=bgh&anz=3&client=13&nr=136183&pos=2",
+      "checked_on": "2026-09-22",
+      "supports": "Gemeinsame Falschbezeichnung und einseitige Fehlvorstellung beim Grundstückskauf unterscheiden. Grenze: Besichtigung einer scheinbaren Einheit beweist regelmäßig keinen Mitverkauf fremden Grunds; keine generelle Überwindung der Form. Amtliche Leitsätze geprüft; keine vollständige Neuverifikation sämtlicher Fallgruppen oder Theoriequellen."
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2011/01/rs20110125_1bvr091810.html",
+      "checked_on": "2026-09-22",
+      "supports": "Gesetzesmodell gegen vorgeschlagene richterliche Entscheidungsregel abgleichen. Grenze: Keine allgemeine Widerlegung einer philosophischen Theorie; keine aktuelle Unterhaltsberechnung. Amtliche Leitsätze geprüft; keine vollständige Neuverifikation sämtlicher Fallgruppen oder Theoriequellen."
     }
   ],
   "mini_review": {
-    "verdict": "retained",
-    "reason": "Mini vollständig gelesen: Er trennt Tatsachenfeststellung, Vertrags- und Gesetzesauslegung und unterscheidet Nachforderungen im Mandat vom abgeschlossenen Übungssachverhalt. Fortsetzung und gewünschter Dateiname sind bereits klar. Keine neue Quellenverifikation oder Modellprüfung.",
+    "verdict": "revised",
+    "reason": "Mini individuell um leeren Einstieg, stilles Dateilesen und direkte Bearbeitung sowie bestätigte Raumlieferung gegenüber interner Notiz ergänzt. Bestehende Trennung von Vertragsauslegung, Beweis und Rechtsfortbildung erhalten; Desk-Prüfung.",
     "changes": [
-      "Konkrete Gegenlesarten, Textnachforderung und ausformuliertes Gesamtergebnis beibehalten."
+      "Werkstatt vollständig vom generischen Ausbildungsgerüst gelöst; Vertragsauslegung, Gesetzesauslegung, Beweisfrage und Rechtsfortbildung eigenständig bearbeitbar. Falsche Sittenwidrigkeits-/Anfechtungs- und pauschale Immissionsbeispiele entfernt.",
+      "Gemeinsame Falschbezeichnung und einseitige Fehlvorstellung beim Grundstückskauf unterscheiden. Grenze: Besichtigung einer scheinbaren Einheit beweist regelmäßig keinen Mitverkauf fremden Grunds; keine generelle Überwindung der Form.",
+      "Gesetzesmodell gegen vorgeschlagene richterliche Entscheidungsregel abgleichen. Grenze: Keine allgemeine Widerlegung einer philosophischen Theorie; keine aktuelle Unterhaltsberechnung.",
+      "Verhandlungs-E-Mail und spätere AGB-Einordnung verändern abhängige Begründung und Schluss im benannten Dokumentpfad."
     ],
-    "sha256": "ca371fa1ca09149fdd19a4a883aff37de2dcd607da386fb22adb0fa27bba07f7"
+    "sha256": "4a021a5e354813ef40a2cec8d427f57b39a1b1b71c449bf6e987dac084c8ae02"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt vollständig gelesen. Die allgemeine Nachfrageregel und der Abschluss mit einem Zwischenergebnis widersprachen teilweise der bereits guten Trennung von Ausbildungs- und Beratungsauftrag. Gezielte Korrektur statt erneuter Gesamtfassung; sonstige methodische Beispiele nicht neu rechtlich verifiziert.",
+    "reason": "Vollständig individuell gelesene Werkstatt um konkrete Streitfragen, Anlagenrang, Verhandlungsbelege, AGB-Einordnung, historische Materialstände und Gegenfälle bei Analogie vertieft. Früher korrigierte Rechtsabgrenzungen und begrenzte Fallanker erhalten; kein Live-Test.",
     "changes": [
-      "Bei abgeschlossenen Übungssachverhalten auch im späteren Ablauf keine zusätzlichen Tatsachenfragen.",
-      "Knappe Bearbeitungszeit führt zur Ausformulierung der entscheidenden Teile, nicht zum Abbruch vor Fortsetzung.",
-      "Gesamtergebnis statt bloßem Redaktionsschritt; Rechtsfortbildung setzt begründeten Bedarf voraus."
+      "Werkstatt vollständig vom generischen Ausbildungsgerüst gelöst; Vertragsauslegung, Gesetzesauslegung, Beweisfrage und Rechtsfortbildung eigenständig bearbeitbar. Falsche Sittenwidrigkeits-/Anfechtungs- und pauschale Immissionsbeispiele entfernt.",
+      "Gemeinsame Falschbezeichnung und einseitige Fehlvorstellung beim Grundstückskauf unterscheiden. Grenze: Besichtigung einer scheinbaren Einheit beweist regelmäßig keinen Mitverkauf fremden Grunds; keine generelle Überwindung der Form.",
+      "Gesetzesmodell gegen vorgeschlagene richterliche Entscheidungsregel abgleichen. Grenze: Keine allgemeine Widerlegung einer philosophischen Theorie; keine aktuelle Unterhaltsberechnung.",
+      "Interne Vorstellung, gemeinsame Verständigung, Vertragsänderung und bloße spätere Praxis mit konkreten Belegen auseinandergehalten.",
+      "Verworfene Entwurfsbegründung von geltender Norm getrennt; Analogie als Entscheidungsregel mit Gegenfall und negativem Ergebnis ausformuliert."
     ],
-    "sha256": "522d3a8768b87a401e72a6e31e9e5472906a1a5c9dda923ccc54a10eff683375"
+    "sha256": "0b8f16cce3dd15917211e04f0255d3c9f8fe4d0207437bd5712f72976ba60129"
   },
   "selection": {
     "positive": [
@@ -80,5 +110,48 @@
       ],
       "target_skill": "meth-auslegung-vertrag-leitfaden"
     }
-  ]
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "methodenlehre-buergerliches-recht/methodenlehre-buergerliches-recht-werkstatt.md",
+      "methodenlehre-buergerliches-recht/methodenlehre-buergerliches-recht-schnellstart.md"
+    ],
+    "opening_change": "Werkstatt vollständig vom generischen Ausbildungsgerüst gelöst; Vertragsauslegung, Gesetzesauslegung, Beweisfrage und Rechtsfortbildung eigenständig bearbeitbar. Falsche Sittenwidrigkeits-/Anfechtungs- und pauschale Immissionsbeispiele entfernt.",
+    "norms": [
+      "Paragrafen 133 und 157 BGB",
+      "Paragrafen 305c, 306 und 310 BGB",
+      "Artikel 20 Absatz 3 und Artikel 97 Absatz 1 GG"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 23.06.2023, V ZR 89/22, amtliche Leitsätze",
+        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2023-6-23&Gericht=bgh&anz=3&client=13&nr=136183&pos=2",
+        "application": "Gemeinsame Falschbezeichnung und einseitige Fehlvorstellung beim Grundstückskauf unterscheiden.",
+        "limit": "Besichtigung einer scheinbaren Einheit beweist regelmäßig keinen Mitverkauf fremden Grunds; keine generelle Überwindung der Form."
+      },
+      {
+        "citation": "BVerfG, 25.01.2011, 1 BvR 918/10, Leitsatz",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2011/01/rs20110125_1bvr091810.html",
+        "application": "Gesetzesmodell gegen vorgeschlagene richterliche Entscheidungsregel abgleichen.",
+        "limit": "Keine allgemeine Widerlegung einer philosophischen Theorie; keine aktuelle Unterhaltsberechnung."
+      }
+    ],
+    "remaining_limits": [
+      "Amtliche Leitsätze geprüft; keine vollständige Neuverifikation sämtlicher Fallgruppen oder Theoriequellen.",
+      "Ergänzung 2026-09-23: Sämtliche bisherigen Profil-URLs erneut aufgerufen. Paragrafen 133 und 271 BGB zugänglich; Paragrafen 305 und 306 BGB ergänzend amtlich gelesen. Die angegebenen BGH-/BVerfG-Texte und der Einzelabruf von Paragraf 157 BGB waren nicht erneut zugänglich. Frühere Leitsatzprüfung bleibt historischer Stand, keine neue Volltextverifikation behauptet. Keine neue Entscheidung, kein Live-Mandat oder Ausbildungstest."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Auswahl zwischen Vertragsklausel, Gesetzesauslegung und Grenze der Rechtsfortbildung.",
+      "Dateien ohne Aufgabe: Texte still lesen und anschließend nur die gewünschte Streitfrage klären.",
+      "Klarer Auftrag: konkrete Auslegung beginnen und nur entscheidenden Text oder Kontext nachfragen."
+    ],
+    "continuation": "Bestätigte Raumlieferung oder nachgereichtes Formular verändert Prämisse, Auslegungsargument und Leistungsergebnis im bestehenden Nutzerpfad, etwa auslegungsvermerk.md.",
+    "enrichment": "Konkurrierende Fassungen und Lesarten, Anlagenrang, erkennbare Verständigung, AGB-Zweig, historische Quellenklassifikation, Gegenfall zur Analogie und Abschluss mit begründeter konkreter Rechtsfolge vertieft.",
+    "limits": "desk review; no live client execution"
+  }
 }

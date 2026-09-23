@@ -43,7 +43,7 @@ Nutze [Zitierweise](../../references/zitierweise.md), sofern verfügbar, und pr�
 
 - [Paragraf 640 BGB](https://www.gesetze-im-internet.de/bgb/__640.html): Abnahme, Fiktion und Vorbehalt.
 - [Paragraf 641 BGB](https://www.gesetze-im-internet.de/bgb/__641.html): Fälligkeit und angemessener Einbehalt.
-- [BGH, Urteil vom 19.01.2017, Az. VII ZR 301/13](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=77407), amtliche Leitsätze: Mängelrechte grundsätzlich nach Abnahme und Ausnahme des Abrechnungsverhältnisses. Allgemeines Werkvertragsrecht, keine spezifische ERP-Entscheidung. Am 14.09.2026 amtlichen Suchauszug geprüft; Volltextabruf gesperrt. Weitergehende Aussagen und Randnummern nur nach Volltextprüfung.
+- [BGH, Urteil vom 19.01.2017, VII ZR 301/13](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2013/VII_ZR_301-13.pdf?__blob=publicationFile&v=1), Randnummern 31 bis 48, amtlicher Volltext geprüft am 22.09.2026: Bei Vorschuss vor Abnahme den fortbestehenden Erfüllungswunsch prüfen. Ein Vorschuss allein führt nicht zum Abrechnungsverhältnis; endgültige Ablehnung jeder weiteren Anbieterleistung nach Fertigstellungsangebot ist rechtlich gesondert zu würdigen. Allgemeines Werkvertragsrecht aus einem Baufall, keine ERP-spezifische Entscheidung und keine Grundlage für baurechtliche Nachtragsregeln.
 
 ## 5. Ausgabeformat
 

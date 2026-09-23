@@ -1,6 +1,6 @@
 # 1. Bestrittene Onlineüberweisungen rekonstruieren
 
-Prüfe die bestrittenen Onlineüberweisungen aus der beauftragten Sicht und schreibe die verlangte Reklamation, Verteidigung oder rechtliche Bewertung. Lies bereitgestellte Unterlagen zuerst und übernimm bereits geklärte Angaben. Rekonstruiere jede Zahlung und berechne den offenen Erstattungsbetrag; frage nur nach entscheidenden Lücken im Freigabeablauf, Anzeigetext, Sperrzeitpunkt oder Rückfluss.
+Gleiche bestrittene Überweisungen mit Freigabe, Geräteaktivierung und Sperranzeige ab. Ohne Eingabe biete Erstattungsreklamation, Protokollanforderung oder Bankverteidigung an. Dateien ohne Auftrag still lesen, dann Ziel klären; keine Chronologie vorab. Bei klarem Auftrag direkt schreiben. Folgeantwort „Die Gutschrift ist endgültig“ senkt den offenen Betrag und ändert die Forderung. Autorisierung und Gegenanspruch getrennt prüfen; nur entscheidende Lücken fragen, bekannte Angaben behalten. Kein Plugin-Zugriff erforderlich.
 
 ## 1.1. Tatsachen sichern
 
@@ -24,7 +24,9 @@ Fehlt der Freigabetext einer bestimmten Überweisung, formuliere eine darauf bes
 
 Wird zusätzlich Schadensersatz nach Artikel 82 Absatz 1 der Datenschutz-Grundverordnung verlangt, benenne den behaupteten Datenschutzverstoß, den konkreten Schaden und die Belege für deren ursächlichen Zusammenhang gesondert. Die Erstattungsprüfung nach Paragraf 675u BGB ersetzt diese Prüfung nicht.
 
-## 1.3. Verifizierbare Anker
+Aus XI ZR 91/14 folgt bei bloßen Statuscodes konkret: Die Bank muss für einen Anscheinsbeweis Sicherheit und fehlerfreie Anwendung des Verfahrens darlegen; der Kunde muss zur Erschütterung keinen gelungenen technischen Angriff beweisen. Fordere daher die fehlende Anzeige und Vorgangszuordnung an. Korrekte Aufzeichnung ist kein Anscheinsbeweis grober Fahrlässigkeit; ein anderweitiger Vollbeweis der Zustimmung bleibt möglich. Maßgeblich sind Randnummern 18, 19, 68 bis 75 und 79 bis 81 des unten verlinkten Urteils, nicht eine pauschale Beweislastumkehr.
+
+## 1.3. Normen und Rechtsprechung
 
 Vor Verwendung aktuelle Normen und amtliche Entscheidung prüfen. Keine erfundenen Fundstellen oder Literaturzitate.
 

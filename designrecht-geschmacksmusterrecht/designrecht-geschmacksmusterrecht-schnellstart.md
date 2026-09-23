@@ -1,10 +1,10 @@
 # 1. Designrecht: Anmeldung, Rechtsbestand und Verletzung
 
-Prüfe anhand der vorgelegten Ansichten und Schutzrechtsunterlagen den Designschutz, die Eigenart gegenüber dem Formenschatz oder eine behauptete Designverletzung. Arbeite bis zur bestellten Anmeldung, Beratung, Vertragsfassung oder Verfahrensschrift.
+Vergleiche die Designansichten mit den älteren Katalogbildern oder dem angegriffenen Produkt. Kläre, welche Offenbarung rechtzeitig belegt ist und ob der Gesamteindruck Schutz oder einen Verletzungsvorwurf trägt. Arbeite aus den vorhandenen Unterlagen bis zur beauftragten Anmeldung, Beratung, Lizenz oder Verfahrensschrift.
 
 ## 1.1. Auftrag und Bildgrundlage
 
-Lies Schutzrechtsunterlagen und Korrespondenz und betrachte die maßgeblichen Ansichten. Bestimme Parteirolle, Erzeugnis, Schutzgebiet und Verfahrensstand aus den vorhandenen Angaben. Ein Gutachten verlangt keine zusätzliche Abmahnung; eine Registerrecherche ist noch keine Anmeldung.
+Ohne Eingabe biete Anmeldung, Produktvergleich oder Lizenzentwurf an. Bei Dateien ohne Auftrag Bilder und Registerunterlagen still lesen, dann das Ziel klären. Bei klarem Auftrag direkt entwerfen, ohne Bildkatalog oder Aufnahmebogen vorab. Folgeantwort „Das ältere Bild zeigt auch die Rückseite“ führt zum neuen Einzelvergleich und zur Korrektur des Angriffs, nicht zum Neustart. Kein Plugin-Zugriff erforderlich.
 
 Trenne deutsches Design, eingetragenes und nicht eingetragenes EU-Design sowie eine internationale Registrierung. Ordne Ansichten, Anmelde-, Prioritäts- und Offenbarungsdaten dem konkreten Recht zu. Prüfe die für den maßgeblichen Zeitpunkt geltende Rechtsfassung einschließlich EU-Reform und Übergangsvorschriften; eine Eintragung ist kein materielles Bestandsurteil.
 
@@ -38,7 +38,7 @@ Bei einer Lizenz bezeichne Designs und Ansichten eindeutig und formuliere Rechte
 
 Prüfe für deutsches Designrecht Paragrafen 1 und 2 DesignG zu Designbegriff, Neuheit und Eigenart, [Paragrafen 5 und 6 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html) zu Offenbarung und Schonfrist, Paragraf 33 zur Nichtigkeit sowie Paragraf 38 zum Schutzumfang. Für EU-Designs sind die entsprechenden unionsrechtlichen Voraussetzungen eigenständig zu prüfen.
 
-Vorhandene Rechercheanker sind EuGH, Urteil vom 20.10.2011, C-281/10 P, PepsiCo gegen Grupo Promer, zu informiertem Benutzer, Gestaltungsfreiheit und Gesamteindruck sowie EuGH, Urteil vom 19.06.2014, C-345/13, Karen Millen, zum Einzelvergleich statt Merkmalsmosaik. Verifiziere tragende Normen und Entscheidungen amtlich, bevor du sie als Begründung verwendest. Ungeprüfte Fundstellen bleiben Recherchehinweise; erfinde keine Aktenzeichen oder Aussagen.
+Stützt der Gegner fehlende Eigenart auf Merkmale aus verschiedenen Katalogen, wende [EuGH, Urteil vom 19.06.2014, C-345/13, Karen Millen, Randnummern 25 bis 35](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=ecli:ECLI:EU:C:2014:2013), zu Artikel 6 Verordnung (EG) Nr. 6/2002 an: Der Vergleich erfolgt mit einzelnen bestimmten Designs, nicht mit einem Merkmalsmosaik. Das beseitigt diesen Kombinationsangriff, bestätigt aber noch keine Eigenart. Beim nicht eingetragenen EU-Design verlangt die Bestandsvermutung nach Artikel 85 Absatz 2 den Nachweis nach Artikel 11 und die Angabe der eigenartbegründenden Merkmale, nicht deren zusätzlichen Vollbeweis (Randnummern 36 bis 47); Nachahmung nach Artikel 19 Absatz 2 bleibt gesondert zu prüfen. Tragende Normen in der zeitlich maßgeblichen Fassung verwenden, weitere Entscheidungen amtlich verifizieren.
 
 ## 1.6. Bestelltes Ergebnis abschließen
 

@@ -231,10 +231,10 @@ class WorkflowPreservation(unittest.TestCase):
         self.assertEqual(result, 1)
         self.assertIn("individuelle Prüfung ungültig", output)
         self.paths["schnellstart"].write_bytes(self.before["schnellstart"])
-        self.paths["werkstatt"].write_bytes(self.before["werkstatt"] + b"x" * (48 * 1024))
+        self.paths["werkstatt"].write_bytes(self.before["werkstatt"] + b"x" * (128 * 1024))
         result, output = self.routing_audit()
         self.assertEqual(result, 1)
-        self.assertIn("höchstens 48 KiB", output)
+        self.assertIn("höchstens 128 KiB", output)
 
     def test_workshop_structure_rejects_empty_or_misnumbered_sections(self):
         for text in ("", "# Titel\n", "# Titel\n\n## 1. Auftrag\n\n", 
@@ -317,8 +317,14 @@ class WorkshopValidatorTests(unittest.TestCase):
                 self.validations(False)
 
     def test_workshop_upper_bound_remains(self):
-        self.workshop.write_text(self.valid + "x" * (48 * 1024), encoding="utf-8")
+        self.workshop.write_text(self.valid + "x" * (128 * 1024), encoding="utf-8")
         self.validations(False)
+
+    def test_long_standalone_workshop_is_allowed_without_increasing_skill_limits(self):
+        self.workshop.write_text(self.valid + "Fachliche Vertiefung.\n" * 3000, encoding="utf-8")
+        self.assertGreater(self.workshop.stat().st_size, 48 * 1024)
+        self.assertLess(self.workshop.stat().st_size, 128 * 1024)
+        self.validations(True)
 
     def test_marketplace_workshop_review_keeps_structure_and_hash_checks(self):
         import hashlib
@@ -328,7 +334,7 @@ class WorkshopValidatorTests(unittest.TestCase):
             (self.valid, True, True),
             (self.valid, False, False),
             ("# Titel\n", True, False),
-            (self.valid + "x" * (48 * 1024), True, False),
+            (self.valid + "x" * (128 * 1024), True, False),
         ):
             with self.subTest(text_length=len(text), valid_hash=valid_hash):
                 self.workshop.write_text(text, encoding="utf-8")

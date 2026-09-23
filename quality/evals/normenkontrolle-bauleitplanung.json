@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "normenkontrolle-bauleitplanung",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/vwgo/__47.html",
@@ -12,15 +12,49 @@
       "url": "https://www.gesetze-im-internet.de/bbaug/__215.html",
       "checked_on": "2026-09-14",
       "supports": "Gesonderte Rüge bestimmter Fehler gegenüber der Gemeinde."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bbaug/__215.html",
+      "checked_on": "2026-09-23",
+      "supports": "Volltext: Fehlerkategorien, schriftliche substantiierte Rüge innerhalb eines Jahres und Hinweis."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bbaug/__215a.html",
+      "checked_on": "2026-09-23",
+      "supports": "Volltext: Satzungsbeschlussfrist Ende 2024 und Einzelfallvorprüfung für damalige Sonderverfahren."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bbaug/__3.html",
+      "checked_on": "2026-09-23",
+      "supports": "Aktuelle Internetveröffentlichung, mindestens 30 Tage und thematische Umweltinformationen."
+    },
+    {
+      "url": "https://ssl.bverwg.de/200121U4CN7.19.0",
+      "checked_on": "2026-09-23",
+      "supports": "Eigene Gründe gelesen: Rüge braucht konkret substantiierten Sachverhalt, Auslegung im Aktenkontext kann Fachamtsstellungnahmen erfassen. Grenze: Keine pauschale Fehlererhaltung und keine materielle Planunwirksamkeit allein durch wirksame Rüge; damalige Beteiligungsfassung gesondert vom heutigen Paragraf 3."
+    },
+    {
+      "url": "https://curia.europa.eu/site/upload/docs/application/pdf/2024-03/4_cn_3.22_entscheidung_18.07.2023_deutsche_fassung.pdf",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlicher Volltext gelesen: pauschale Befreiung von Umweltprüfung im früheren Paragraf 13b unionsrechtswidrig; rechtzeitig gerügter Umweltprüfungs- und Berichtsfehler führte dort zur Gesamtunwirksamkeit. Grenze: Kein allgemeines Verbot des Paragrafen 13a; spätere Fehlerbehebung und geltende Planerhaltung gesondert prüfen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vwgo/__47.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlichen Normtext erneut gelesen: gerichtlicher Antrag, eigene Betroffenheit, Empfänger, Jahresfrist und gesonderte einstweilige Anordnung; keine Gleichsetzung mit dem Schreiben an die Gemeinde."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Vollständig gelesen: Gerichtlicher Antrag und gemeindliche Rüge haben getrennte Frist- und Zugangsnachweise; offene Bekanntmachung beendet nicht die Planprüfung.",
+    "reason": "Mini vollständig erneut im Desk Review gelesen; drei Planrechtsschutz-Einstiege und konkrete Korrektur eines durch die Abwägung widerlegten Vorwurfs ergänzt. Bisherige Rüge- und Fristgrenzen erhalten.",
     "changes": [
-      "Nachgereichte Bekanntmachung und Gutachten führen zu aktualisierter Frist, Fehlerbewertung und bestelltem Rüge- oder Antragstext."
+      "BVerwG 4 CN 7.19 Rn. 25 in beiden Prompts mit Tatsachengehalt und begrenzter Auslegung der Rüge verknüpft.",
+      "Paragraf 13b anhand BVerwG 4 CN 3.22 ersetzt, Paragraf 215a nicht als neuer Beschleunigungsweg 2026 dargestellt.",
+      "Ungeprüfte fünf Altfundstellen entfernt; an ihrer Stelle konkreter Rügetext und Antrag auf Unwirksamerklärung.",
+      "Bestehende zwei Fristen, dokumentbezogene Rückfragen, Fortsetzung und auftragsbegrenzte Fertigstellung erhalten.",
+      "Dateien ohne Aufgabe still lesen, klare Aufträge direkt bearbeiten; Gegenbeleg aus der Abwägung ändert den vorhandenen Rügetext."
     ],
-    "sha256": "2fdc86fc06f1fe34ae3f116b4437c09d7e6000c2de301639c1f86fc00ff18678"
+    "sha256": "382c8b4c64c95a0ae2ad26debc0c2289a539fa7e67e5ef07009806bc58a05080"
   },
   "selection": {
     "positive": [
@@ -68,10 +102,62 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die vollständige Werkstatt wurde einschließlich Vertragsabgrenzung, anderer Satzungen und Schlusskontrolle gelesen. Planerhonorarregeln werden nicht zur Normenkontrolle verallgemeinert.",
+    "reason": "Alle Abschnitte erneut individuell gelesen und um Planversionen, Mandantenpositionen, Einwendungsinhalt, Gutachtenannahmen und Vollzugsbelege vertieft. Desk Review ohne Einreichung oder Mandatsausführung.",
     "changes": [
-      "Festsetzungs-, Beteiligungs- und Abwägungsfragen werden anhand konkreter Unterlagen fortgesetzt; Eilrechtsschutz bleibt auftragsabhängig und Planfehler werden auf ihre Rechtsfolge geprüft."
+      "BVerwG 4 CN 7.19 Rn. 25 in beiden Prompts mit Tatsachengehalt und begrenzter Auslegung der Rüge verknüpft.",
+      "Paragraf 13b anhand BVerwG 4 CN 3.22 ersetzt, Paragraf 215a nicht als neuer Beschleunigungsweg 2026 dargestellt.",
+      "Ungeprüfte fünf Altfundstellen entfernt; an ihrer Stelle konkreter Rügetext und Antrag auf Unwirksamerklärung.",
+      "Bestehende zwei Fristen, dokumentbezogene Rückfragen, Fortsetzung und auftragsbegrenzte Fertigstellung erhalten.",
+      "Planstände und ergänzendes Verfahren, Plannachbar gegenüber unmittelbar betroffenem Eigentümer sowie mehrere Antragsteller unterschieden.",
+      "Vorhandene Einwendungen, gegenläufige Abwägungsbelege, abweichende Gutachtenvarianten und konkreter Vollzug in Rüge- und Antragstext überführt."
     ],
-    "sha256": "a9da9d19a3934dbdb6fc5548b88d8785ddf96f4169b1ae2566394eb774c1ce52"
+    "sha256": "a018c6c1e7d31e41e0acbe9e372a9ff16c26e82a4ca5c4d73325fcae2d6c7d20"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "normenkontrolle-bauleitplanung/normenkontrolle-bauleitplanung-schnellstart.md",
+      "normenkontrolle-bauleitplanung/normenkontrolle-bauleitplanung-werkstatt.md",
+      "normenkontrolle-bauleitplanung/README.md",
+      "quality/evals/normenkontrolle-bauleitplanung.json"
+    ],
+    "opening_change": "Konkrete nutzungsbeschränkende Festsetzung und belegten Planfehler mit Gemeinderüge und gerichtlichem Antrag verbinden.",
+    "norms": [
+      "Paragraf 47 VwGO",
+      "Paragrafen 1 Absatz 7, 2 Absatz 3 und 4, 3 Absatz 2, 9, 214, 215 und 215a BauGB",
+      "Artikel 3 Absatz 1 und 5 Richtlinie 2001/42/EG"
+    ],
+    "decisions": [
+      {
+        "citation": "BVerwG, Urteil vom 20. Januar 2021, 4 CN 7.19, Rn. 25",
+        "url": "https://ssl.bverwg.de/200121U4CN7.19.0",
+        "application": "Eigene Gründe gelesen: Rüge braucht konkret substantiierten Sachverhalt, Auslegung im Aktenkontext kann Fachamtsstellungnahmen erfassen.",
+        "limit": "Keine pauschale Fehlererhaltung und keine materielle Planunwirksamkeit allein durch wirksame Rüge; damalige Beteiligungsfassung gesondert vom heutigen Paragraf 3."
+      },
+      {
+        "citation": "BVerwG, Urteil vom 18. Juli 2023, 4 CN 3.22, Rn. 8 bis 21",
+        "url": "https://curia.europa.eu/site/upload/docs/application/pdf/2024-03/4_cn_3.22_entscheidung_18.07.2023_deutsche_fassung.pdf",
+        "application": "Amtlicher Volltext gelesen: pauschale Befreiung von Umweltprüfung im früheren Paragraf 13b unionsrechtswidrig; rechtzeitig gerügter Umweltprüfungs- und Berichtsfehler führte dort zur Gesamtunwirksamkeit.",
+        "limit": "Kein allgemeines Verbot des Paragrafen 13a; spätere Fehlerbehebung und geltende Planerhaltung gesondert prüfen."
+      }
+    ],
+    "remaining_limits": [
+      "Desk-/Quellenreview, kein Live-Modelltest. Keine neue Vollprüfung aller städtebaulichen Vertragstypen, Landesbekanntmachungsregeln oder Naturschutzgutachten.",
+      "Nicht verifizierte Altfundstellen aus der Werkstatt entfernt; spezielle weitere Vertragsrechtsprechung bleibt fallbezogene Recherche.",
+      "Gewöhnlicher Frist-Skill nicht geändert; sein pauschaler Wiedereinsetzungs- und Bekanntmachungsansatz wird im Mini weiterhin ausdrücklich nicht übernommen.",
+      "Workflow-Nachprüfung 2026-09-23: alle bisherigen Profilquellen erneut geöffnet; Paragraf 215 nach Browserfehler direkt amtlich gelesen, BVerwG-Pinpoints und Normfassungen erneut abgeglichen. Keine neuen Entscheidungen oder pauschale Vollverifikation landesrechtlicher Bekanntmachung, Umweltgutachten, Verbandszugänge oder städtebaulicher Verträge. Bisheriger datierter Quellenreview bleibt erhalten."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Planfehler und Betroffenheit, Rüge und Fristsicherung oder gerichtlichen Antrag mit Eilbedarf wählen.",
+      "Nur Unterlagen: Plan, Bekanntmachung und Abwägung still lesen; nur Beratung, Rüge oder Antrag als Ziel klären.",
+      "Klarer Auftrag: direkt am bestellten Dokument arbeiten; nur entscheidende Fassung, Betroffenheit oder Fristlücke fragen."
+    ],
+    "continuation": "Nachgewiesene Behandlung der Gewerbenutzung ändert den Ermittlungsfehler-Vorwurf in gemeinderuege.md und dem bestellten normenkontrollantrag.md; bestätigter Baubeginn verändert die beauftragte Eildarlegung.",
+    "enrichment": "Planfassungen, individuelle Antragstellerpositionen, bestehende Einwendung und konkretisierende Rüge, Prognoseannahmen und Gegenbelege, tatsächlicher Vollzug und dokumentbezogene Endfassung.",
+    "limits": "desk review; no live client execution"
   }
 }

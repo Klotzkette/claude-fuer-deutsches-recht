@@ -150,6 +150,95 @@ class QualityLabTests(unittest.TestCase):
         self.assertEqual(lab.audit(self.root)[1], [])
         self.assertIn("Nicht ausgeführt", lab.catalog(lab.audit(self.root)[0], self.root))
 
+    def add_editorial_review(self):
+        self.add_focus_review()
+        self.profile["workshop_review"] = {
+            **self.profile["mini_review"],
+            "sha256": lab.digest((self.plugin / "fachgebiet-werkstatt.md").read_bytes()),
+        }
+        review = {
+            "date": "2026-09-14",
+            "files": [f"fachgebiet/fachgebiet-{kind}.md" for kind in
+                      ("schnellstart", "werkstatt", "hauptproblem")],
+            "opening_change": "Bankgebühr und Zahlung im Einstieg unterscheiden.",
+            "norms": ["Paragraf 362 BGB"],
+            "decisions": [{"citation": "Quellenbezeichnung für den technischen Test",
+                           "url": "https://example.invalid/entscheidung",
+                           "application": "Zuordnung des belegten Zahlungseingangs.",
+                           "limit": "Keine Feststellung über den konkreten Vertrag."}],
+            "remaining_limits": ["Nur technische Prüfung des Datenschemas."],
+        }
+        self.profile["prompt_editorial_review"] = review
+        return review
+
+    def test_editorial_review_covers_all_prompt_variants(self):
+        review = self.add_editorial_review()
+        lab.validate_profile(self.profile, "fachgebiet", self.plugin, self.root)
+        for name in review["files"][:]:
+            with self.subTest(name=name):
+                review["files"].remove(name)
+                with self.assertRaises(lab.LabError):
+                    lab.validate_profile(self.profile, "fachgebiet", self.plugin, self.root)
+                review["files"].append(name)
+
+    def test_editorial_review_cannot_replace_hash_bound_reviews(self):
+        self.add_editorial_review()
+        for key in ("workshop_review", "focus_review"):
+            with self.subTest(key=key):
+                original = self.profile.pop(key)
+                with self.assertRaises(lab.LabError):
+                    lab.validate_profile(self.profile, "fachgebiet", self.plugin, self.root)
+                self.profile[key] = original
+
+    def test_editorial_review_rejects_incomplete_or_unsafe_metadata(self):
+        valid = copy.deepcopy(self.add_editorial_review())
+        for field, values in {
+            "date": [None, "9999-01-01", "2026-02-30"],
+            "norms": [None, [], [""]],
+            "files": [[], ["../external.md"], ["missing.md"]],
+            "decisions": [[], [None], [{"citation": "Nur ein Aktenzeichen"}]],
+            "opening_change": [None, ""],
+        }.items():
+            for value in values:
+                with self.subTest(field=field, value=value):
+                    self.profile["prompt_editorial_review"] = {**valid, field: value}
+                    with self.assertRaises(lab.LabError):
+                        lab.validate_profile(self.profile, "fachgebiet", self.plugin, self.root)
+        for field in ("application", "limit", "url"):
+            review = copy.deepcopy(valid)
+            review["decisions"][0][field] = ""
+            self.profile["prompt_editorial_review"] = review
+            with self.assertRaises(lab.LabError):
+                lab.validate_profile(self.profile, "fachgebiet", self.plugin, self.root)
+
+        for url in ("http://example.invalid/decision", "https:///decision",
+                    "https://user:password@example.invalid/decision", "file:///local/decision"):
+            with self.subTest(url=url):
+                review = copy.deepcopy(valid)
+                review["decisions"][0]["url"] = url
+                self.profile["prompt_editorial_review"] = review
+                with self.assertRaises(lab.LabError):
+                    lab.validate_profile(self.profile, "fachgebiet", self.plugin, self.root)
+
+    def test_editorial_review_does_not_assert_model_success(self):
+        self.add_editorial_review()
+        self.write_profile()
+        profiles, errors = lab.audit(self.root)
+        self.assertEqual(errors, [])
+        self.assertIn("Nicht ausgeführt", lab.catalog(profiles, self.root))
+
+    def test_editorial_audit_requires_review_without_changing_legacy_mode(self):
+        self.write_profile()
+        self.assertEqual(lab.audit(self.root)[1], [])
+        profiles, errors = lab.audit(self.root, require_editorial=True)
+        self.assertEqual(profiles, {})
+        self.assertEqual(errors, ["fachgebiet: Fachbezogene Prompt-Redaktion fehlt"])
+        self.add_editorial_review()
+        self.write_profile()
+        self.assertEqual(lab.audit(self.root, require_editorial=True)[1], [])
+        (self.plugin / "fachgebiet-werkstatt.md").write_text("Ungeprüft geändert", encoding="utf-8")
+        self.assertTrue(lab.audit(self.root, require_editorial=True)[1])
+
     def test_focus_review_pins_both_files(self):
         review = self.add_focus_review()
         for kind in ("prompt", "skill"):
@@ -160,6 +249,29 @@ class QualityLabTests(unittest.TestCase):
                 with self.assertRaisesRegex(lab.LabError, "Schwerpunkt.*verändert"):
                     lab.validate_profile(self.profile, "fachgebiet", self.plugin, self.root)
                 path.write_bytes(original)
+
+    def test_workflow_review_requires_individual_modes_and_hashed_editorial_review(self):
+        self.add_editorial_review()
+        self.write_profile()
+        self.assertIn("Workflow-Prüfung fehlt", lab.audit(self.root, require_workflow=True)[1][0])
+        review = {"date": "2026-09-23", "method": "desk_review",
+                  "opening_modes": ["Zahlung ohne Beleg klären", "Bankunterlagen ohne Auftrag einordnen", "Verlangtes Schreiben beginnen"],
+                  "continuation": "Nach Gutschrift den Restbetrag und das Schreiben nachführen.",
+                  "enrichment": "Tilgungszuordnung vor dem nächsten Schreiben prüfen.",
+                  "limits": "Keine beobachtete Modellausführung."}
+        self.profile["prompt_workflow_review"] = review
+        self.write_profile()
+        self.assertEqual(lab.audit(self.root, require_workflow=True)[1], [])
+        for field, invalid in (("method", "live"), ("opening_modes", []), ("date", "2026-02-30"),
+                               ("continuation", ""), ("enrichment", ""), ("limits", None)):
+            with self.subTest(field=field):
+                self.profile["prompt_workflow_review"] = {**review, field: invalid}
+                with self.assertRaises(lab.LabError):
+                    lab.validate_profile(self.profile, "fachgebiet", self.plugin, self.root)
+        self.profile["prompt_workflow_review"] = review
+        del self.profile["prompt_editorial_review"]
+        self.write_profile()
+        self.assertTrue(lab.audit(self.root, require_workflow=True)[1])
 
     def test_focus_review_rejects_invalid_metadata(self):
         valid = copy.deepcopy(self.add_focus_review())

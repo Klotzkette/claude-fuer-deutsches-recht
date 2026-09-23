@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "ki-vo-ai-act-pruefer",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://eur-lex.europa.eu/eli/reg/2026/1744/oj?locale=de",
@@ -17,16 +17,27 @@
       "url": "https://www.gesetze-im-internet.de/ki-mig/__2.html",
       "checked_on": "2026-09-14",
       "supports": "Grundzuständigkeit und Sonderzuständigkeiten der Marktaufsicht, nicht pauschal jede Eingabe bei der zentralen Stelle als Zuständigkeitsnachweis."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62021CJ0634",
+      "checked_on": "2026-09-22",
+      "supports": "EuGH, Urteil vom 7. Dezember 2023, C-634/21, SCHUFA Holding, Randnummern 43 bis 55 und 73. Anwendung: Bei maßgeblich scoregeleiteter Vertragsentscheidung Artikel 22 DSGVO und echte menschliche Einflussmöglichkeiten prüfen. Grenze: Keine Entscheidung zur KI-VO-Risikoklasse oder zu Artikel 4a; nicht jede Empfehlung ist eine automatisierte Entscheidung."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/eli/reg/2026/1744/oj?locale=de",
+      "checked_on": "2026-09-22",
+      "supports": "Artikel 1: Änderungen der KI-VO einschließlich Artikel 4/4a und der Anwendungstermine; Inkrafttreten nicht mit späterer Anwendung einzelner Pflichten gleichsetzen."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Mini vollständig gelesen. Die vorhandene Fortsetzung nach System- und Versionsnachweisen bleibt erhalten; die Abgrenzung des offenen Datenschutz-Reformvorschlags fehlte im eigenständig nutzbaren Mini.",
+    "reason": "Der Mini trennt Bonitätsbewertung nach Anhang III Nummer 5 Buchstabe b von Artikel 22 DSGVO und der bloßen Anbieterbezeichnung als Entscheidungshilfe. Individueller Text- und Quellenreview, kein Live-Modelltest. Individueller Workflow-Durchgang am 23.09.2026: Eigenbranding oder neue Zweckbeschreibung -> konkrete Rollen-/Anhangsprüfung und Vertragsregel; Vermarktungsdatum -> nur einschlägige Übergangsprüfung und Hinweisempfehlung ändern.",
     "changes": [
-      "COM(2025) 837 ausdrücklich als offenen Vorschlag abgegrenzt; keine vorweggenommene Meldefrist oder allgemeine Trainingserlaubnis.",
-      "Bestehende Regeln zu Artikel 50, Anbieter-Bestandsschutz und gezielten Folgerückfragen beibehalten."
+      "Operativen C-634/21-Anker in die Kredit-/Entscheidungsprüfung eingebaut.",
+      "Gliederung und Kurzfassung auf die Einstufung statt allgemeinen Rechtsweg ausgerichtet.",
+      "Vier eigenständige Eingabemodi und fachbezogene Antwortfortsetzung ergänzt."
     ],
-    "sha256": "953515459c84f1daf6d9f675eaa89b98579d36c6ff2121336ef1b0f4ec49230c"
+    "sha256": "392177a8c0c9bb1e739790d184f85b3b08c691985448fcefbadc4cc9e2c55fd3"
   },
   "selection": {
     "positive": [
@@ -74,13 +85,54 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt vollständig gelesen. Generische Ausgabe- und Routentabellen verlangten zusätzliche Produkte und widersprachen der bereits vorhandenen Fortsetzungsregel; Registrierung und CE enthielten falsche Normzuordnungen.",
+    "reason": "Die Werkstatt nutzt den SCHUFA-Maßstab nur für die parallele Datenschutzprüfung; Ausnahme für Betrugserkennung und zeitliche Anwendung bleiben eigenständig. Die bezeichneten Anker wurden am amtlichen Entscheidungstext geprüft; keine pauschale Vollverifikation aller Nebenmaterien. Individueller Workflow-Durchgang am 23.09.2026: Funktionsbezogene Rollenprüfung, belastender Gegenbefund bei Scoring, vollständiger Veröffentlichungshinweis und versionsbezogene Nachforderung statt pauschaler Konformitätszusage.",
     "changes": [
-      "Doppelte Ausgaberouten zu einem auftragsbezogenen Ablauf mit gezielten Nachforderungen und fertigem Dokument zusammengeführt.",
-      "CE Artikel 48 von Erklärung Artikel 47 getrennt; Artikel 49 Absatz 4 nicht mehr als Anhang-I-Registrierungsvorschrift dargestellt.",
-      "Geltende Änderungsverordnung, KI-MIG und offene Datenschutzreform getrennt erhalten; besondere Vertrags-, Datenschutz-, GPAI- und Grundrechtsthemen weiter enthalten.",
-      "Quellenvermerke vom Empfängertext getrennt; keine automatische Meldung, Abschaltung oder Registrierung."
+      "Operativen C-634/21-Anker in die Kredit-/Entscheidungsprüfung eingebaut.",
+      "Gliederung und Kurzfassung auf die Einstufung statt allgemeinen Rechtsweg ausgerichtet.",
+      "Funktionsbezogene Rollenprüfung, belastender Gegenbefund bei Scoring, vollständiger Veröffentlichungshinweis und versionsbezogene Nachforderung statt pauschaler Konformitätszusage."
     ],
-    "sha256": "40075d993b6a9596116e51ad15638beef361e701bb4fcf40a2719bace2a8034f"
+    "sha256": "aaa940d2b312685d92c49c8bb529d1823b752251cbe63c86160971056a926b05"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "method": "desk_review",
+    "files": [
+      "ki-vo-ai-act-pruefer/README.md",
+      "ki-vo-ai-act-pruefer/ki-vo-ai-act-pruefer-werkstatt.md",
+      "ki-vo-ai-act-pruefer/ki-vo-ai-act-pruefer-schnellstart.md",
+      "quality/evals/ki-vo-ai-act-pruefer.json"
+    ],
+    "opening_change": "Zweckbestimmung, Verbot, Risikoeinstufung, Akteursrolle und Anwendungsdatum entscheiden.",
+    "norms": [
+      "Artikel 6 und Anhang III Nummer 5 Buchstabe b KI-VO",
+      "Artikel 22 DSGVO",
+      "Artikel 111 und 113 KI-VO in der Fassung 2026/1744"
+    ],
+    "decisions": [
+      {
+        "citation": "EuGH, Urteil vom 7. Dezember 2023, C-634/21, SCHUFA Holding, Randnummern 43 bis 55 und 73",
+        "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62021CJ0634",
+        "application": "Bei maßgeblich scoregeleiteter Vertragsentscheidung Artikel 22 DSGVO und echte menschliche Einflussmöglichkeiten prüfen.",
+        "limit": "Keine Entscheidung zur KI-VO-Risikoklasse oder zu Artikel 4a; nicht jede Empfehlung ist eine automatisierte Entscheidung."
+      }
+    ],
+    "remaining_limits": [
+      "Keine gerichtliche Bestätigung der neuen KI-VO-Regeln; Konformitätsverfahren und konkrete Behördenpraxis nicht vollständig neu geprüft.",
+      "Desk-/Quellenreview, kein Live-Client- oder Modelltest. Bestehende Auswahl- und Ergebnisfälle unverändert erhalten.",
+      "Workflow-Ergänzung am 23.09.2026: desk review; keine Live-Client-Ausführung, keine Installation, Übermittlung oder technische Funktionsprüfung. Bestehende Entscheidungsprüfung vom 22.09.2026 nicht als heutiger Neuabruf ausgegeben.",
+      "Verordnung (EU) 2026/1744 am 23.09.2026 über ELI, HTML und PDF erneut angefragt, aber durch JavaScript-/Bot-Prüfung blockiert. Auch der erneute ELI-Abruf der Grundverordnung 2024/1689 zum Artikel 50 lieferte keinen Normtext. Vorhandene differenzierte Rechtsstanddarstellung und frühere Quellenprüfung erhalten; keine neue Volltextverifikation dieser KI-Rechtsakte behauptet."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leere Eingabe: Systemrolle/Risikopfad, synthetische Veröffentlichung oder Anbieternachweise auswählen.",
+      "Dateien ohne Aufgabe: Systembeschreibung still lesen, konkretes Einordnungsziel statt Dossierdump klären.",
+      "Klarer Auftrag: direkt Einordnung, Hinweistext oder Vertragsänderung ausarbeiten."
+    ],
+    "continuation": "Eigenbranding oder neue Zweckbeschreibung -> einordnung.md mit geänderter Rollen-/Anhangsprüfung und Vertragsregel; Vermarktungsdatum -> einschlägige Übergangsprüfung und Hinweistext im bereits bestellten Dokument.",
+    "enrichment": "Funktionsbezogene Rollenprüfung, belastender Gegenbefund bei Scoring, vollständiger Veröffentlichungshinweis und versionsbezogene Nachforderung statt pauschaler Konformitätszusage.",
+    "limits": "desk review; no live client execution"
   }
 }

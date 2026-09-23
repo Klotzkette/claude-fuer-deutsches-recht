@@ -1,8 +1,181 @@
 {
- "schema_version":1,"plugin":"bautraegervertragspruefer","reviewed_on":"2026-09-17",
- "sources":[{"url":"https://www.gesetze-im-internet.de/bgb/__650u.html","checked_on":"2026-09-14","supports":"Vertragsqualifikation."},{"url":"https://www.gesetze-im-internet.de/bgb/__650v.html","checked_on":"2026-09-14","supports":"Abschlagsregel ohne behaupteten Absatz 4."},{"url":"https://www.gesetze-im-internet.de/gewo_34cdv/__3.html","checked_on":"2026-09-14","supports":"Bezugsgrößen der Raten und vollständige Fertigstellung als gesonderter Baustein."}],
- "mini_review":{"sha256":"0f6972fe86196d8be739949b9904323f9a3597436ca60de6b36589cd68223f0d","verdict":"revised","reason":"Erneut vollständig gelesen. Ratenbezugsgrößen, Fertigstellungsabgrenzung und Fortsetzung nach Baufortschrittsnachweis bleiben erhalten; der dichte Einstieg wurde getrennt und der Dateivorrang geklärt. Keine neue amtliche Quellenprüfung oder Live-Modellprüfung.","changes":["Auftrag und Leseumfang in kurze Absätze geteilt","Entscheidende Rückfragen statt pauschaler Blockierformulierung","Nutzerdateiname ausdrücklich vorrangig; ergebnis.md nur Standard ohne Vorgabe"]},
- "workshop_review":{"verdict":"revised","reason":"Gesamten Text und alle zwölf angehängten Praxisrouten geprüft. Der bisherige Hauptteil wiederholte allgemeine Tabellen und Mustersätze, während Bauzeit, Preisänderung, Tatsachenbestätigung und Bauüberwachung erst im Doppelanhang standen. Alle Fachthemen sind nun in den passenden Bearbeitungsschritten enthalten; vorhandene Entscheidungen bleiben ungeprüfte Rechercheansätze bis zur Fallverifikation.","changes":["Vertragsqualifikation, Bausoll, Bauzeit und Preis vor Raten- und Abnahmeprüfung angeordnet","Baufortschrittsnachweis, Planfassung und Abnahmevollmacht als konkrete Nachforderungszweige mit Aktualisierung und fertigem Dokument ausgestaltet","Technische Nachweise, Notarvollzug und Gemeinschaftsbeschlüsse getrennt bearbeitet","Generische Tabellen, Satzskelette und autogenerierten Doppelanhang durch fachliche Abschnittsführung ersetzt"],"sha256":"c613c4630949f1197a00ffeb7b9c76588bd2390add7f1110a1f95728c8cdab2d"},
- "selection":{"positive":["Prüfen Sie den zweistufigen Zahlungsplan meines Bauträgerentwurfs.","Erstellen Sie eine urkundennahe Klauselmatrix mit Ersatzfassungen."],"negative":["Berechnen Sie einen Werklohn für einen Dachdecker ohne Grundstückserwerb.","Entwerfen Sie die Satzung einer Baugenossenschaft."]},
- "cases":[{"id":"zwei-raten-vor-fertigstellung","request":"Prüfen Sie in ergebnis.md diesen noch nicht unterschriebenen Verbraucherbauträgervertrag: Preis 600000 Euro für Grundstückseigentum und neu errichtetes Haus. Zahlungsplan: 30 Prozent nach Erdarbeiten, 70 Prozent bei Bezugsfertigkeit und Schlüsselübergabe. Fassade und Außenanlagen sollen nach dem Bauzeitenplan erst zwei Monate später fertig werden; beide gehören zum Vertragssoll. Eine alternative Bürgschaft ist nicht vorgesehen. Die allgemeinen Voraussetzungen vor erster Zahlung sollen ausdrücklich eingehalten werden. Gewünscht sind Rechenbefund und konkrete Verhandlungsforderung, keine Klage.","input_files":[],"deliverables":["ergebnis.md"],"criteria":[{"id":"C01","text":"Beanstandet nicht die Zahl zwei allein, sondern das Vorziehen noch nicht erreichter Baufortschrittsbausteine.","deliverables":["ergebnis.md"]},{"id":"C02","text":"Trennt Bezugsfertigkeit und vollständige Fertigstellung und verwendet bei späteren Bausteinen die Restvertragssumme.","deliverables":["ergebnis.md"]},{"id":"C03","text":"Liefert eine ausformulierte Korrekturforderung ohne die Großrate allein wegen vollständiger Gesamtsumme freizugeben.","deliverables":["ergebnis.md"]}],"target_skill":"mabv-ratenplan-pruefen"}]
+  "schema_version": 1,
+  "plugin": "bautraegervertragspruefer",
+  "reviewed_on": "2026-09-23",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__650u.html",
+      "checked_on": "2026-09-14",
+      "supports": "Vertragsqualifikation."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__650v.html",
+      "checked_on": "2026-09-14",
+      "supports": "Abschlagsregel ohne behaupteten Absatz 4."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gewo_34cdv/__3.html",
+      "checked_on": "2026-09-14",
+      "supports": "Bezugsgrößen der Raten und vollständige Fertigstellung als gesonderter Baustein."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/1999/VII_ZR_310-99.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 22.12.2000, VII ZR 310/99, amtlicher Volltext S. 11–16: Verfrühte erste Rate führte zur Unwirksamkeit des gesamten Zahlungsplans; MaBV-Stufen ersetzen ihn nicht automatisch. Grenze: Vertrag von 1994 und damalige Rechtslage; heutige Fälligkeit zusätzlich nach Paragraf 650v BGB und Paragraf 1 AbschlagsV prüfen, keine automatische Gesamtrückzahlung."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2012/VII_ZR_308-12.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Beschluss vom 12.09.2013, VII ZR 308/12, Rn. 6–11: Formularmäßige Abnahmevollmacht für bauträgerbestimmten Erstverwalter wegen ungesicherter Neutralität beanstanden; bloße Widerruflichkeit genügt nicht. Grenze: Kein Verbot jeder unabhängigen Vertreterabnahme oder der Verwalterbestellung; eigene Abnahme und Verjährung gesondert prüfen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__650u.html",
+      "checked_on": "2026-09-22",
+      "supports": "Absatz 2 schließt nicht sämtliche Verbraucherbauvorschriften aus."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__650v.html",
+      "checked_on": "2026-09-22",
+      "supports": "Abschlagszahlungen nur im Umfang zulässiger Vereinbarung nach der Verordnung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gewo_34cdv/__3.html",
+      "checked_on": "2026-09-22",
+      "supports": "Allgemeine Voraussetzungen, höchstens sieben Teilbeträge und unterschiedliche Prozentbezugsgrößen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/abschlagsv/BJNR098100001.html",
+      "checked_on": "2026-09-22",
+      "supports": "Paragraf 1: Abschlagsvereinbarungen nach MaBV; Paragraf 650m Absatz 2 und 3 BGB anwendbar."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__650m.html",
+      "checked_on": "2026-09-22",
+      "supports": "Fünfprozentige Sicherheit bei erster Verbraucherrate, Erhöhungsfall und Sicherungsformen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gewo_34cdv/__3.html",
+      "checked_on": "2026-09-23",
+      "supports": "Raten nach erreichten Bausteinen und zutreffender Bezugsgröße; Schlüsselübergabe ersetzt nicht sämtliche Fertigstellungsstufen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/woeigg/__45.html",
+      "checked_on": "2026-09-23",
+      "supports": "Beschlussanfechtung: Erhebung binnen eines Monats und Begründung binnen zweier Monate ab Beschlussfassung; keine allgemeinen Baumängelfristen."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Urkundenbezogenen Mini vollständig gelesen und die verkürzende Abnahmeklausel als eigenständigen Schwerpunkt bearbeitet; Ratenrechenweg, Anlagenwidersprüche und Fortsetzung bleiben erhalten. Kein Live-Test. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert.",
+    "changes": [
+      "Bauzustand, Zahlungspflicht und noch durchsetzbare Erwerberrechte im Auftakt zusammengeführt.",
+      "Erstverwaltervollmacht mit Rn. 6–11 und gesonderter Prüfung eigener Abnahme verbunden.",
+      "Leerstart: Klauseln, Rate oder Abnahme und Mängel anbieten. Dateien: Urkunde still lesen; passenden Prüf- oder Durchsetzungsumfang klären. Klarer Auftrag: Gewünschtes Schreiben, Votum oder Antrag direkt ausarbeiten.",
+      "Neuer Vertragsplan ändert Bausoll und Verweise; eigene spätere Abnahme verändert Beweislast und Fristen; tatsächlicher Beschluss ändert Ermächtigung."
+    ],
+    "sha256": "97917f2f28008a2e8a8f870628ba172679f05fb8ece30fcbff9f0b6af8e17242"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Alle zehn Abschnitte bis zur Gemeinschaftsbeschluss- und Mängelbearbeitung gelesen. Ausschlüsse des Paragrafen 650u Absatz 2 BGB genau bezeichnet und vertretungsbedingte Abnahmerisiken aus amtlichen Gründen entwickelt. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen.",
+    "changes": [
+      "Bauzustand, Zahlungspflicht und noch durchsetzbare Erwerberrechte im Auftakt zusammengeführt.",
+      "Erstverwaltervollmacht mit Rn. 6–11 und gesonderter Prüfung eigener Abnahme verbunden.",
+      "650m Absatz 2 und 3 über AbschlagsV erhalten; historisches Zahlungsplanurteil nicht als heutige Pauschallösung verwendet.",
+      "Zweistufige Rate, Sonderwunschfolgen, unabhängige Erwerberabnahme und Gemeinschaftsauftrag mit getrennten WEG-Anfechtungsfristen.",
+      "Neuer Vertragsplan ändert Bausoll und Verweise; eigene spätere Abnahme verändert Beweislast und Fristen; tatsächlicher Beschluss ändert Ermächtigung."
+    ],
+    "sha256": "1860ab0211e15d153b558c6b15f3d0ae708721a4b0b72ea69e7574877349b8ed"
+  },
+  "selection": {
+    "positive": [
+      "Prüfen Sie den zweistufigen Zahlungsplan meines Bauträgerentwurfs.",
+      "Erstellen Sie eine urkundennahe Klauselmatrix mit Ersatzfassungen."
+    ],
+    "negative": [
+      "Berechnen Sie einen Werklohn für einen Dachdecker ohne Grundstückserwerb.",
+      "Entwerfen Sie die Satzung einer Baugenossenschaft."
+    ]
+  },
+  "cases": [
+    {
+      "id": "zwei-raten-vor-fertigstellung",
+      "request": "Prüfen Sie in ergebnis.md diesen noch nicht unterschriebenen Verbraucherbauträgervertrag: Preis 600000 Euro für Grundstückseigentum und neu errichtetes Haus. Zahlungsplan: 30 Prozent nach Erdarbeiten, 70 Prozent bei Bezugsfertigkeit und Schlüsselübergabe. Fassade und Außenanlagen sollen nach dem Bauzeitenplan erst zwei Monate später fertig werden; beide gehören zum Vertragssoll. Eine alternative Bürgschaft ist nicht vorgesehen. Die allgemeinen Voraussetzungen vor erster Zahlung sollen ausdrücklich eingehalten werden. Gewünscht sind Rechenbefund und konkrete Verhandlungsforderung, keine Klage.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Beanstandet nicht die Zahl zwei allein, sondern das Vorziehen noch nicht erreichter Baufortschrittsbausteine.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Trennt Bezugsfertigkeit und vollständige Fertigstellung und verwendet bei späteren Bausteinen die Restvertragssumme.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Liefert eine ausformulierte Korrekturforderung ohne die Großrate allein wegen vollständiger Gesamtsumme freizugeben.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "mabv-ratenplan-pruefen"
+    }
+  ],
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leerstart: Klauseln, Rate oder Abnahme und Mängel anbieten.",
+      "Dateien: Urkunde still lesen; passenden Prüf- oder Durchsetzungsumfang klären.",
+      "Klarer Auftrag: Gewünschtes Schreiben, Votum oder Antrag direkt ausarbeiten."
+    ],
+    "continuation": "Neuer Vertragsplan ändert Bausoll und Verweise; eigene spätere Abnahme verändert Beweislast und Fristen; tatsächlicher Beschluss ändert Ermächtigung.",
+    "enrichment": "Zweistufige Rate, Sonderwunschfolgen, unabhängige Erwerberabnahme und Gemeinschaftsauftrag mit getrennten WEG-Anfechtungsfristen.",
+    "limits": "desk review; no live client execution"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "bautraegervertragspruefer/bautraegervertragspruefer-schnellstart.md",
+      "bautraegervertragspruefer/bautraegervertragspruefer-werkstatt.md",
+      "bautraegervertragspruefer/README.md",
+      "quality/evals/bautraegervertragspruefer.json"
+    ],
+    "opening_change": "Urkunde, Bauzustand und Abnahmeerklärungen bestimmen konkret Zahlungspflicht und Erwerberrechte.",
+    "norms": [
+      "Paragrafen 134, 307, 640 und 641 BGB",
+      "Paragrafen 650u, 650v und 650m Absatz 2 und 3 BGB",
+      "Paragrafen 3, 7 und 12 MaBV",
+      "Paragraf 1 AbschlagsV"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 22.12.2000, VII ZR 310/99, amtlicher Volltext S. 11–16",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/1999/VII_ZR_310-99.pdf?__blob=publicationFile&v=1",
+        "application": "Verfrühte erste Rate führte zur Unwirksamkeit des gesamten Zahlungsplans; MaBV-Stufen ersetzen ihn nicht automatisch.",
+        "limit": "Vertrag von 1994 und damalige Rechtslage; heutige Fälligkeit zusätzlich nach Paragraf 650v BGB und Paragraf 1 AbschlagsV prüfen, keine automatische Gesamtrückzahlung."
+      },
+      {
+        "citation": "BGH, Beschluss vom 12.09.2013, VII ZR 308/12, Rn. 6–11",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2012/VII_ZR_308-12.pdf?__blob=publicationFile&v=1",
+        "application": "Formularmäßige Abnahmevollmacht für bauträgerbestimmten Erstverwalter wegen ungesicherter Neutralität beanstanden; bloße Widerruflichkeit genügt nicht.",
+        "limit": "Kein Verbot jeder unabhängigen Vertreterabnahme oder der Verwalterbestellung; eigene Abnahme und Verjährung gesondert prüfen."
+      }
+    ],
+    "remaining_limits": [
+      "Desk- und Quellenreview, kein Live-Client- oder Modelltest.",
+      "Weitere ausdrücklich bezeichnete Rechercheentscheidungen zu Nachzüglern und Schäden wurden nicht neu verifiziert; technische Zustandsprüfung bleibt sachverständig.",
+      "Workflow-Anschlussprüfung 23.09.2026: individuelle Text- und Quellenprüfung, keine Live-Client-Ausführung. Frühere Entscheidungsprüfungen und ihre Reichweitengrenzen bleiben unverändert; keine erneute vollständige Rechtsprechungsprüfung behauptet."
+    ]
+  }
 }

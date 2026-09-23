@@ -321,7 +321,7 @@ def quickstart_section(plugin_name: str, directory: Path) -> str:
         "Metadaten-, Rollen-, Aktenstands- oder Bearbeitungsblock voran. Beginne unmittelbar mit "
         f"folgendem Arbeitsschritt: {product}."
         if plugin_name == "arbeitszeugnispruefer"
-        else "Erfasse zuerst Dateinamen und Metadaten im ausgewählten Ordner. Lies zunächst die für "
+        else "Sichte den ausgewählten Ordner intern, ohne seine Inhalte ungefragt aufzulisten. Lies die für "
         "den Auftrag tragenden Unterlagen; ergänze die Lektüre gezielt bei offenen Belegfragen. "
         f"Beginne mit folgendem Arbeitsschritt: {product}."
     )
@@ -330,8 +330,8 @@ def quickstart_section(plugin_name: str, directory: Path) -> str:
         "Bearbeite zugleich alle davon unabhängigen Teile; wenn sich später ein neuer entscheidender "
         "Widerspruch ergibt, kläre nur diesen und setze den Auftrag ohne Neustart fort."
         if plugin_name == "arbeitszeugnispruefer"
-        else "Frage nur einmal gebündelt nach, falls der nächste fachliche Schritt sonst falsch wäre; "
-        "arbeite im Übrigen mit sichtbar markierten Lücken weiter."
+        else "Frage gezielt nach entscheidenden offenen Punkten und arbeite an den unabhängigen Teilen weiter. "
+        "Verarbeite die Antwort im bestehenden Entwurf; weitere Rückfragen nur bei neuen entscheidenden Lücken."
     )
     return f"""## In 30 Sekunden starten
 

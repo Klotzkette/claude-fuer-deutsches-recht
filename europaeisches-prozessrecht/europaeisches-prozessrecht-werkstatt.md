@@ -1,8 +1,10 @@
 # 1. Europäisches Prozessrecht: Schriftsätze und Vorlagefragen ausarbeiten
 
-Bearbeite das beauftragte unionsprozessuale Verfahren anhand der vorhandenen Akte bis zum vollständigen Schriftsatz, zur Vorlageanregung oder zur begründeten Beratung. Stimme Antrag, Zuständigkeit, Frist, Sprache und Anlagen aufeinander ab.
+Prüfe, mit welchem Antrag der angegriffene Unionsakt, das Unterlassen oder der behauptete Rechtsfehler überprüft werden kann. Bei einer Vorlageanregung arbeite heraus, welche unionsrechtliche Antwort das nationale Gericht für seine Entscheidung benötigt. Verfasse anhand der Akte den beauftragten Schriftsatz oder die Beratung und stimme Zuständigkeit, Frist, Sprache und Anlagen darauf ab.
 
 ## 1.1. Verfahrensart und Rolle bestimmen
+
+Ohne Eingabe biete Vorlageanregung, Direktklage oder Rechtsmittelbegründung an. Dateien ohne Auftrag zunächst still lesen, dann nur das offene Rechtsschutzziel klären; keine umfassende Aktenauswertung ausgeben. Bei klarem Auftrag direkt entwerfen und nur entscheidende Lücken fragen. Folgeantworten verändern die vorhandenen Anträge und Gründe. Keine zusätzlichen Plugin-Dateien voraussetzen.
 
 Lies angegriffenen Akt, bisherige Schriftsätze, Verfügungen, Zustellnachweise und Anlagen. Entnimm ihnen Parteirolle, Rechtsschutzziel und Stand des Verfahrens. Unterscheide Gerichtshof, Gericht, Beschwerdekammer und nationales Vorlagegericht; EUV Artikel 19, AEUV Artikel 256, Satzung und einschlägige Verfahrensordnung bilden den Ausgangspunkt.
 
@@ -31,6 +33,8 @@ Ordne jeden Klagegrund dem angegriffenen Handeln und den zugehörigen Aktenbeleg
 Bei Artikel 267 AEUV lies zuerst den nationalen Streitstoff und die unionsrechtliche Zweifelsfrage. Zeige, welche Entscheidung bei welcher Auslegung möglich ist. Fehlt dieser Zusammenhang, frage nach dem nationalen Streitpunkt und dem noch zu entscheidenden Antrag; arbeite die Antwort anschließend in Sachverhalt, Begründung und Frage ein.
 
 Unterscheide Auslegung und Gültigkeit sowie Vorlagebefugnis und Vorlagepflicht. Prüfe bei geltend gemachter Klärung oder Eindeutigkeit die einschlägigen Voraussetzungen; eine bekannte Entscheidung ersetzt nicht den Vergleich ihrer Aussage mit der konkreten Frage. Parteiseitig wird eine Vorlage angeregt; ein gerichtliches Ersuchen wird nur bei entsprechendem Auftrag entworfen.
+
+Will ein letztinstanzliches Gericht eine entscheidungserhebliche Auslegungsfrage nicht vorlegen, wende Artikel 267 Absatz 3 AEUV anhand von EuGH, Urteil vom 06.10.2021, C-561/19, Consorzio Italian Management, Randnummern 48 bis 66, an: Begründe, ob die Frage unerheblich, bereits geklärt oder ohne vernünftigen Zweifel zu beantworten ist. Eine frühere Vorlage im selben Verfahren beseitigt die Pflicht für eine neue erhebliche Zweifelsfrage nicht. Lege abweichende Rechtsprechung und die konkrete Auswirkung der Auslegungsalternativen offen. Ein Parteiwunsch allein erzwingt keine Vorlage; zulässige nationale Präklusionsregeln bleiben unter Äquivalenz- und Effektivitätsvorbehalt zu prüfen. Die Entscheidung betrifft Auslegung, nicht die Befugnis nationaler Gerichte zur Ungültigerklärung eines Unionsakts. Amtlicher Text: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62019CJ0561.
 
 Berücksichtige Artikel 23 und Artikel 50b der Satzung und die seit 01.10.2024 vorgesehene Teilübertragung von Vorabentscheidungen. Prüfe anhand der geltenden Fassung, ob das Ersuchen ausschließlich übertragene Sachgebiete betrifft, etwa die zolltarifliche Einreihung in die Kombinierte Nomenklatur. Das zentrale Eingangsverfahren beim Gerichtshof ist zu beachten; das nationale Gericht adressiert sein Ersuchen nicht allein wegen dieser Einordnung unmittelbar an das Gericht.
 
@@ -64,12 +68,7 @@ Trenne eigene Vergütung, erstattungsfähige Kosten und Prozessrisiko. Rechne mi
 
 ## 1.9. Quellen und Entscheidungsaussagen prüfen
 
-Verwende die folgenden bestehenden Anker als Rechercheeinstieg und verifiziere vor einer tragenden Zitierung amtlichen Text, Aussage und heutigen Zusammenhang:
-
-- EuGH, Urteil vom 15.07.1963, 25/62, Plaumann, zur individuellen Betroffenheit.
-- EuGH, Urteil vom 06.10.1982, 283/81, CILFIT, zu Vorlagepflicht, acte clair und acte éclairé.
-- EuGH, Urteil vom 04.07.2000, C-352/98 P, Bergaderm, zur außervertraglichen Haftung der Union.
-- EuGH, Urteil vom 03.10.2013, C-583/11 P, Inuit Tapiriit Kanatami, zur Einordnung von Rechtsakten im Rechtsschutzsystem des Artikels 263 AEUV.
+Prüfe bei Direktklagen die aktuelle Rechtsprechung zur jeweils beanspruchten Alternative des Artikels 263 Absatz 4 AEUV und bei Haftung den einschlägigen Maßstab der hinreichend qualifizierten Rechtsverletzung. Verifiziere den amtlichen Volltext, bevor eine zusätzliche Entscheidung tragend zitiert wird; die Vorlageentscheidung aus Abschnitt 1.4 beantwortet diese anderen Zulässigkeits- und Haftungsfragen nicht.
 
 Erforderliche Rechtsnachweise gehören in die Begründung. Quellenabrufe, ungeprüfte Recherchehinweise und technische Grenzen werden getrennt notiert, nicht als interne Prüfkategorien in den Mandantenbrief übernommen.
 
@@ -82,3 +81,27 @@ Bei einem verbleibenden Hindernis liefere einen klar bezeichneten Teilstand und 
 ## 1.11. Technische Grenzen
 
 Ohne Export liefere den vollständigen Text; bei fehlendem Zugriff benenne die konkrete Unterlage und bearbeite unabhängige Teile weiter. Behaupte keine Recherche, Übermittlung oder Fristwahrung ohne Durchführung beziehungsweise Nachweis. Verwende dezimale Gliederung und bei formatierten Dokumenten Times New Roman 11 pt; technische Exporthinweise bleiben außerhalb des Empfängertextes.
+
+## 1.12. Vorlagefrage aus zwei Entscheidungsalternativen entwickeln
+
+Formuliere intern zunächst, wie der nationale Streit bei Auslegung eins und bei Auslegung zwei ausgeht. Führen beide zum selben Ergebnis, ist die behauptete Entscheidungserheblichkeit zu überprüfen. Frage dann nach dem noch offenen nationalen Streitpunkt, nicht nach einer abstrakten Europarechtsfrage. Ein behaupteter Verstoß gegen nationales Recht wird nicht dadurch zur Vorlagefrage, dass der Antrag den Gerichtshof nennt.
+
+Beispiel: „Das nationale Gericht hat die Forderung bereits aus einem anderen Grund abgewiesen.“ Prüfe, ob dieser Grund die Entscheidung selbständig trägt und ob er noch angegriffen wird. Nach Antwort entweder den Zusammenhang mit der Unionsfrage begründen oder die Vorlageanregung entsprechend begrenzen. Die Frage soll die konkrete Unionsnorm und den rechtlichen Zweifel beschreiben, ohne den gesamten Tatsachenstreit an den Gerichtshof abzugeben.
+
+Bei einer Parteiunterlage klar als Anregung an das nationale Gericht schreiben. Nur im gerichtlichen Auftrag ein Ersuchen mit eigenem Sachverhalt, nationalem Rahmen und Fragen entwerfen. Artikel 267 AEUV und der vorhandene Consorzio-Anker bestimmen unterschiedliche Aspekte: Vorlagegegenstand und gerichtliche Rolle einerseits, begrenzte Ausnahmen der letztinstanzlichen Vorlagepflicht andererseits. Keine garantierte Vorlage aus dem Parteiwunsch ableiten.
+
+## 1.13. Klagebefugnis und Klagegründe getrennt nacharbeiten
+
+Bei einem Unionsakt die konkret angegriffene Regelung und ihre Rechtswirkungen identifizieren. Eine Pressemitteilung oder Vorankündigung nicht ohne Prüfung wie den verbindlichen Akt behandeln. Wenn ein Unternehmen erst auf Nachfrage einen nationalen Durchführungsbescheid liefert, die bisherige Zulässigkeitsannahme und mögliche nationale Rechtsschutzroute neu prüfen. Eine inhaltlich belastende Regelung allein belegt keine individuelle Betroffenheit.
+
+Die Klageschrift verbindet jeden selbständigen Grund mit der betroffenen Regelung, dem rechtlichen Maßstab und dem dazugehörigen Aktenbefund. Verfahrensfehler, Kompetenzmangel und materielle Abwägung nicht in einer pauschalen Rechtswidrigkeitsbehauptung zusammenziehen. Eine später eingereichte Anlage muss im Text ausgewertet werden; ihre bloße Beifügung ersetzt keine Begründung. Belastende Anhörungsunterlagen berücksichtigen, statt weiterhin eine tatsächlich gewährte Äußerungsmöglichkeit zu bestreiten.
+
+Beim Rechtsmittel genau unterscheiden, ob der Nutzer eine neue Tatsachenbewertung oder einen Rechtsfehler rügt. Die neue Antwort „Das Gericht hat die Anlage erwähnt, aber den falschen Maßstab angelegt“ führt weg vom pauschalen Übergehen zum konkret begründeten Maßstabsfehler. Die Endfassung greift die tragenden Entscheidungsgründe an und respektiert die Grenzen der jeweiligen Rechtsmittelstufe.
+
+## 1.14. Dringlichkeit und Einreichungsreife belegen
+
+Ein Eilantrag benötigt konkret drohende Folgen mit Zeitpunkt und Nachweis. Allgemeine Umsatzsorgen sind nicht ohne Prüfung gleichbedeutend mit dem geltend gemachten irreparablen Schaden. Frage nach dem unmittelbar bevorstehenden Vollzug und belastbaren Daten, wenn davon Dringlichkeit abhängt. Eine neue Aussetzung durch das Organ kann das Eilbegehren verändern, ohne die Hauptsache zu erledigen. Antrag, beantragte Dauer und tatsächliche Gefahr gemeinsam aktualisieren.
+
+Fristberechnung, Übersetzung und technische Vorbereitung parallel zum belegbaren Entwurf führen. Veröffentlichungsdatum, Zustellung und Kenntnis sind nicht austauschbar; den einschlägigen Auslöser und etwaige besondere Berechnungsregeln verifizieren. Ohne Empfangsnachweis keine erfolgreiche Einreichung behaupten. Bei Geheimnissen Hauptfassung und geschwärzte Fassung auf identische Anträge und lesbare tragende Gründe kontrollieren.
+
+Liefere den vollständig begründeten bestellten Schriftsatz und nur erforderliche getrennte Hinweise zu offenen Nachweisen. Eine fehlende Übersetzung oder Vertretungsurkunde kann Einreichungsreife verhindern; sie rechtfertigt keine erfundenen Angaben und keinen Abbruch aller unabhängigen Begründungsteile. Externe Prozesshandlungen benötigen Freigabe, die interne Fertigstellung keine zusätzliche Bestätigungsrunde.

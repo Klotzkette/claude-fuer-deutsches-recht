@@ -1,21 +1,38 @@
 {
   "schema_version": 1,
   "plugin": "forschungszulage-antragstellung",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/fzulg/__3.html",
       "checked_on": "2026-09-14",
       "supports": "Absatz 1 begrenzt Personalaufwand auf begünstigte FuE-Tätigkeit; Absatz 3b verlangt Vorhabenbeginn nach 2025 für die Gemeinkostenpauschale."
+    },
+    {
+      "url": "https://gesetze.berlin.de/bsbe/document/NJRE001601780",
+      "checked_on": "2026-09-22",
+      "supports": "VG Berlin, Urteil vom 14.02.2025, 8 K 7/23, Rn. 33–42: Bei pauschaler Projektbeschreibung sind technische Aufgabe, geplante Arbeiten, Zeit und Ressourcen zu konkretisieren. Patent und frühere Entwicklung belegen nicht von selbst das zur Bescheinigung gestellte Vorhaben; ein Gantt-Diagramm ist nicht zwingend. Grenze: Einzelfall einer unzureichend beschriebenen Entwicklung; keine allgemeine Förderunfähigkeit patentierter Vorhaben. Amtlich indexierte Entscheidungsgründe gelesen, Rechtskraft nicht geprüft."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/fzulg/__3.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aktuelle zeitabhängige Kostenregeln: Eigenleistungen, Auftragsforschung, Gemeinkosten und Bemessungsgrenze nicht unterschiedslos auf frühere Jahre anwenden."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02014R0651-20230701",
+      "checked_on": "2026-09-22",
+      "supports": "Artikel 2 Nummern 84 bis 86: Forschungskategorien; experimentelle Entwicklung schließt Routineänderungen aus, nicht automatisch kommerziell nutzbare Prototypen."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der vollständige Mini wurde auf FuE-Zeit, Personalaufwand und Vorhabenbeginn geprüft.",
+    "reason": "Die Projektbeschreibung wird vom Förderwortschatz auf die konkrete Entwicklungsaufgabe und den belegten Arbeitsplan zurückgeführt. Individuelle Text- und Quellenprüfung, kein Live-Modelltest.",
     "changes": [
-      "Fehlende Arbeitspaket- oder Stundennachweise gezielt klären und danach die finanzielle Zuordnung aktualisieren."
+      "VG Berlin 8 K 7/23 mit technischen Arbeiten, Zeit und Ressourcen statt obligatorischem Gantt-Diagramm verknüpft.",
+      "Artikel 2 Nummern 84 bis 86 AGVO von Frascati-Leitlinien abgegrenzt; aktuelle Kostenstaffeln nach Paragraf 3 FZulG berücksichtigt.",
+      "BSFZ-Projekttext, Nachforderung oder Kostenrechnung wählen. Dateien still lesen, klare Aufträge direkt bearbeiten, Folgeantwort dokumentbezogen umsetzen."
     ],
-    "sha256": "99aaf874b939635a094351aad1f3ab3ae7b756f06185abbc2d03f892b8a7a4e1"
+    "sha256": "d6fa84cf5193dfdfda4f2cc62ad3c933ec8660ec3c6598c5ce7abfc997b0d3b5"
   },
   "selection": {
     "positive": [
@@ -63,10 +80,51 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die ganze Werkstatt wurde auf technische Förderfähigkeit und getrennte steuerliche Bemessung geprüft.",
+    "reason": "Bescheinigungsfrage und steuerliche Bemessung bleiben getrennte Wege; Patent, Routineentwicklung und Kostenjahre werden nicht vermengt. Individuelle Text- und Quellenprüfung, kein Live-Modelltest.",
     "changes": [
-      "Keine starre Drei-von-fünf-Frascati-Regel; BSFZ-Bescheinigung, Kostenbasis und zeitabhängige Ansätze getrennt."
+      "VG Berlin 8 K 7/23 mit technischen Arbeiten, Zeit und Ressourcen statt obligatorischem Gantt-Diagramm verknüpft.",
+      "Artikel 2 Nummern 84 bis 86 AGVO von Frascati-Leitlinien abgegrenzt; aktuelle Kostenstaffeln nach Paragraf 3 FZulG berücksichtigt.",
+      "Technische Ungewissheit, ursprüngliche Planung versus Rekonstruktion, Ressourcenbezug, Stundenabweichung und zweistufige Rechtsbehelfsbearbeitung konkretisiert."
     ],
-    "sha256": "6f942040ca4e1434ebdd33ca0068b166e65e7d24d0dd0182cce63fdce9fa1fed"
+    "sha256": "b9d63960b3f13953f697265717aabf1211646c947f2da51dc2b1abca5020e427"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "forschungszulage-antragstellung/forschungszulage-antragstellung-schnellstart.md",
+      "forschungszulage-antragstellung/forschungszulage-antragstellung-werkstatt.md",
+      "forschungszulage-antragstellung/README.md",
+      "quality/evals/forschungszulage-antragstellung.json"
+    ],
+    "opening_change": "Technische Ungewissheit, Versuche, Arbeitspakete und Aufwendungen des konkreten Vorhabens darlegen.",
+    "norms": [
+      "Paragrafen 2 und 3 FZulG",
+      "Artikel 2 Nummern 84 bis 86 Verordnung (EU) Nr. 651/2014"
+    ],
+    "decisions": [
+      {
+        "citation": "VG Berlin, Urteil vom 14.02.2025, 8 K 7/23, Rn. 33–42",
+        "url": "https://gesetze.berlin.de/bsbe/document/NJRE001601780",
+        "application": "Bei pauschaler Projektbeschreibung sind technische Aufgabe, geplante Arbeiten, Zeit und Ressourcen zu konkretisieren. Patent und frühere Entwicklung belegen nicht von selbst das zur Bescheinigung gestellte Vorhaben; ein Gantt-Diagramm ist nicht zwingend.",
+        "limit": "Einzelfall einer unzureichend beschriebenen Entwicklung; keine allgemeine Förderunfähigkeit patentierter Vorhaben. Amtlich indexierte Entscheidungsgründe gelesen, Rechtskraft nicht geprüft."
+      }
+    ],
+    "remaining_limits": [
+      "Redaktionelle Akten- und Quellenprüfung, kein Live-Client- oder Modelltest.",
+      "VG-Rechtskraft nicht verifiziert; amtlich indexierte Entscheidungsgründe geprüft, Direktseite technisch eingeschränkt. Keine Förderzusage oder Gesamtprüfung aller Beihilfeschwellen.",
+      "Workflow-Ergänzung am 2026-09-23: individuelle Textprüfung, keine erneute Gesamtverifikation der bestehenden Entscheidungsanker; deren dokumentierte Quellen- und Zugriffsgrenzen bleiben bestehen."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "BSFZ-Projekttext, Nachforderung oder Kostenrechnung wählen.",
+      "Projektberichte und Bescheide still lesen; technische Antwort oder Kostenkorrektur anbieten.",
+      "Beauftragten Portaltext oder Jahresrechnung ohne Pflichtdialog erstellen."
+    ],
+    "continuation": "Versuche erst ab August -> Arbeitspakete und Stunden; Vertriebsstunden -> FuE-Zähler und Rechnung; Bescheidart -> passender Antwortweg.",
+    "enrichment": "Technische Ungewissheit, ursprüngliche Planung versus Rekonstruktion, Ressourcenbezug, Stundenabweichung und zweistufige Rechtsbehelfsbearbeitung konkretisiert.",
+    "limits": "desk review; no live client execution"
   }
 }

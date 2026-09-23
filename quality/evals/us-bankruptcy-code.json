@@ -1,38 +1,141 @@
 {
   "schema_version": 1,
   "plugin": "us-bankruptcy-code",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
-    {"url": "https://www.uscourts.gov/court-programs/bankruptcy/bankruptcy-basics/chapter-11-bankruptcy-basics", "checked_on": "2026-09-14", "supports": "Aktueller amtlicher Suchabruf: Stay bei Chapter-11-Petition und gerichtliche Relief-Prüfung."},
-    {"url": "https://www.cacb.uscourts.gov/node/589", "checked_on": "2026-09-14", "supports": "Amtliche Gerichtsinformation: gestellter Relief-Antrag allein erlaubt keine Fortsetzung; gerichtliche Bewilligung erforderlich, Sonderlagen vorbehalten."},
-    {"url": "https://uscode.house.gov/view.xhtml?edition=2023&num=0&req=granuleid%3AUSC-2023-title11-section362", "checked_on": "2026-09-14", "supports": "Amtlicher Suchauszug der ausdrücklich historischen Ausgabe 2023 zu Absatz a Nummer 6 und 7; aktueller Preliminary-Volltext war nicht abrufbar. Kein vollständiger aktueller Code-Check behauptet."}
+    {
+      "url": "https://www.uscourts.gov/court-programs/bankruptcy/bankruptcy-basics/chapter-11-bankruptcy-basics",
+      "checked_on": "2026-09-23",
+      "supports": "Geöffnete amtliche Erläuterung, Abschnitt Proofs of Claim: fehlende oder als disputed, contingent beziehungsweise unliquidated eingetragene Forderung, Abgleich und Änderung der Schedules. Chapter-11-spezifisch; kein Ersatz für Order und Local Rules."
+    },
+    {
+      "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section362&num=0&edition=prelim",
+      "checked_on": "2026-09-23",
+      "supports": "Erneuter aktueller Preliminary-Abruf technisch gescheitert; keine aktuelle Volltextverifikation behauptet. Neue Abläufe konkretisieren die belegten Handlungen, Fulton-Grenzen und die Prüfung tatsächlich erlassener Orders."
+    },
+    {
+      "url": "https://www.uscourts.gov/court-programs/bankruptcy/bankruptcy-basics/chapter-11-bankruptcy-basics",
+      "checked_on": "2026-09-14",
+      "supports": "Aktueller amtlicher Suchabruf: Stay bei Chapter-11-Petition und gerichtliche Relief-Prüfung."
+    },
+    {
+      "url": "https://www.cacb.uscourts.gov/node/589",
+      "checked_on": "2026-09-14",
+      "supports": "Amtliche Gerichtsinformation: gestellter Relief-Antrag allein erlaubt keine Fortsetzung; gerichtliche Bewilligung erforderlich, Sonderlagen vorbehalten."
+    },
+    {
+      "url": "https://uscode.house.gov/view.xhtml?edition=2023&num=0&req=granuleid%3AUSC-2023-title11-section362",
+      "checked_on": "2026-09-14",
+      "supports": "Amtlicher Suchauszug der ausdrücklich historischen Ausgabe 2023 zu Absatz a Nummer 6 und 7; aktueller Preliminary-Volltext war nicht abrufbar. Kein vollständiger aktueller Code-Check behauptet."
+    },
+    {
+      "url": "https://www.supremecourt.gov/opinions/20pdf/19-357_6k47.pdf",
+      "checked_on": "2026-09-22",
+      "supports": "U.S. Supreme Court, Opinion vom 14.01.2021, City of Chicago v. Fulton, No. 19-357, 592 U.S. 154 (2021), Mehrheitsgründe S. 3–7: Bloßes Behalten bereits vor Verfahrenseröffnung entzogenen Vermögens ist nicht allein ein Verstoß gegen 11 U.S.C. 362(a)(3). Bestehenden Besitzstand, neue Verwertung und Zahlungsdruck tatsächlich trennen. Grenze: Andere Stay-Verbote und Turnover nach 11 U.S.C. 542 bleiben gesondert zu prüfen; keine allgemeine Freigabe für Sicherheitenverwertung oder Zurückbehaltungsdruck."
+    }
   ],
   "mini_review": {
-    "verdict": "retained",
-    "reason": "Vollständig gelesen: Erlassene Order, Zustellnachweis und Forderungsanlage werden gezielt nachgefordert und mit dem Docket abgeglichen. Ein möglicher Stay sperrt die Handlung, nicht die Forderungsrechnung oder den bestellten Entwurf. Counsel-Prüfung und externe Freigabe sind vom internen Abschluss getrennt.",
-    "changes": [],
-    "sha256": "34896c9838fc235883ec924144d61d4fae1091096f7fbeda8a49d386ae637a3c"
+    "verdict": "revised",
+    "reason": "Bei vorinsolvenzlicher Sachentziehung unterscheidet der Kernfall Behalten, neue Verfügung und Zahlungsdruck. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Am 23. September vollständig erneut gelesen: drei konkrete Einstiege und Forderungsdifferenz zu den Schedules ergänzt; allgemeine Fortsetzungsanweisungen verdichtet, unter 7500 Bytes und Zeichen.",
+    "changes": [
+      "Mehrheitsgründe von Fulton statt bloßem Syllabus gelesen und operativ in beide Prompts eingebaut.",
+      "Andere Stay-Verbote und 542 ausdrücklich offengelassen; keine allgemeine Erlaubnis zur Sicherheitenverwertung.",
+      "Rechnung über 80.000 USD gegen Schedule-Eintrag von 50.000 USD: gezielte Zahlungsfrage und Änderung des Anmeldungsentwurfs statt Übernahme der Schuldnerzahl."
+    ],
+    "sha256": "f30dfdc59e9b0fb36a7aec46614a178cd663be3d11acd9ca7f0952417a91f3b1"
   },
   "workshop_review": {
-    "verdict": "retained",
-    "reason": "Vollständig gelesen: Forderung, Finanzierung, Verkauf und Plan haben konkrete Beleg- und Fortsetzungswege. Neue Gutschrift, Budgetfassung oder Ballot verändern die betroffene Rechnung oder Bewertung; Order-Entwurf und erlassene Order bleiben getrennt. Kein zusätzlicher Bearbeitungsabbruch oder unbestelltes Tabellenpaket festgestellt.",
-    "changes": [],
-    "sha256": "e0cc31a7f992fd8d762b9839ff6011f0acef3e1a0917c14f3d9d4ebea456d9ff"
+    "verdict": "revised",
+    "reason": "US-Verfahrenswege bleiben erhalten; Fulton wird als begrenzte Auslegung von 362(a)(3) in die Stay- und Turnover-Prüfung eingebunden. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Am 23. September vollständig erneut gelesen: konkrete Order-Reichweite, Schedules-Abweichung und überarbeitete Verkaufs- beziehungsweise Finanzierungsorder als Dokumentverzweigungen ausgearbeitet.",
+    "changes": [
+      "Mehrheitsgründe von Fulton statt bloßem Syllabus gelesen und operativ in beide Prompts eingebaut.",
+      "Andere Stay-Verbote und 542 ausdrücklich offengelassen; keine allgemeine Erlaubnis zur Sicherheitenverwertung.",
+      "Nachgereichte Order verändert nur die gedeckte Handlung; Besitzbeginn und zusätzliche Zahlungsbedingungen steuern getrennte Fulton- und Stay-Prüfung.",
+      "Forderungsdifferenz, Teilzahlung, Bar-Date-Order und Order-Neufassung verändern Anmeldung beziehungsweise begrenzte Einwendung; Gegenargument wirtschaftlicher Verluste berücksichtigt."
+    ],
+    "sha256": "44d41689f1542443d71c9b92de3e1b1c23335bd6d058340c500320a64e9036e9"
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Stay-Briefing, Forderungsanmeldung oder Einwendung gegen Verkauf beziehungsweise Plan anbieten.",
+      "Dateien ohne Aufgabe: Petition, Docket und Orders still lesen; nur bei unklarem Ziel zwei oder drei passende Dokumentwege anbieten.",
+      "Klarer Auftrag: Handlung, Forderung oder Order-Passage sofort bearbeiten; nur entscheidende Frist-, Zahlungs- oder Order-Lücke erfragen."
+    ],
+    "continuation": "Erlassene Order -> konkrete Handlungsempfehlung im Counsel-Briefing; Gutschrift oder Zahlung -> Anmeldungsbetrag und Anlagen; geänderter Order-Text -> eingegrenzter Einwendungsentwurf.",
+    "enrichment": "Stay-Anwendung auf Klage und Zahlungsdruck, Fulton bei Altbesitz und neuen Herausgabebedingungen, Chapter-11-Schedules-Abgleich, schuldnerbezogene Bar Date und Sicherheitenargument gegen Finanzierung oder Verkauf.",
+    "limits": "desk review; no live client execution"
   },
   "selection": {
-    "positive": ["Prüfe unsere geplanten Einziehungsschritte nach der Chapter-11-Petition des US-Kunden.", "Baue aus Docket und Forderungsdaten ein Stay-Briefing für US-Counsel."],
-    "negative": ["Berechne die deutsche Insolvenzgeldvorfinanzierung ohne US-Bezug.", "Registriere das Urheberrecht an einem Buch in den USA ohne Insolvenzverfahren."]
-  },
-  "cases": [{
-    "id": "relief-antrag-ohne-order",
-    "request": "Erstelle ergebnis.md als deutsches Briefing für US-Counsel. Unsere US-Vertriebsgesellschaft hat eine unbestrittene Forderung von 80.000 USD aus einer Augustlieferung gegen eine US-Gesellschaft. Diese hat am 10. September 2026 freiwillig Chapter 11 beantragt. Der Docket enthält die Petition und unseren am 12. September gestellten Motion for Relief from Stay, aber keine bewilligende Order. Heute ist der 14. September. Das Inkassoteam möchte eine bestehende Zahlungsklage fortsetzen und telefonisch sofortige Zahlung verlangen. Der Schuldner fällt unter den regulären Stay; Sonderausnahmen sind nicht bekannt. Eine Bar-Date-Order liegt noch nicht vor. Bitte ordne beide Handlungen und den nächsten sicheren Arbeitsschritt ein. Nicht einreichen oder Kontakt aufnehmen.",
-    "input_files": [],
-    "deliverables": ["ergebnis.md"],
-    "criteria": [
-      {"id": "C01", "text": "Die Fortsetzung der Zahlungsklage und die telefonische Einziehung der Altforderung werden beide als stay-relevante Handlungen geprüft und nicht freigegeben.", "deliverables": ["ergebnis.md"]},
-      {"id": "C02", "text": "Das Ergebnis unterscheidet den anhängigen Relief-Antrag von einer bewilligenden Order und behandelt den Antrag nicht als Aufhebung des Stay.", "deliverables": ["ergebnis.md"]},
-      {"id": "C03", "text": "Die Forderung wird mit 80.000 USD als gesondert zu sichernde Position behandelt, ohne ihren Bestand durch den Stay zu verneinen oder eine nicht belegte Bar Date zu erfinden.", "deliverables": ["ergebnis.md"]}
+    "positive": [
+      "Prüfe unsere geplanten Einziehungsschritte nach der Chapter-11-Petition des US-Kunden.",
+      "Baue aus Docket und Forderungsdaten ein Stay-Briefing für US-Counsel."
     ],
-    "target_skill": "automatic-stay-362"
-  }]
+    "negative": [
+      "Berechne die deutsche Insolvenzgeldvorfinanzierung ohne US-Bezug.",
+      "Registriere das Urheberrecht an einem Buch in den USA ohne Insolvenzverfahren."
+    ]
+  },
+  "cases": [
+    {
+      "id": "relief-antrag-ohne-order",
+      "request": "Erstelle ergebnis.md als deutsches Briefing für US-Counsel. Unsere US-Vertriebsgesellschaft hat eine unbestrittene Forderung von 80.000 USD aus einer Augustlieferung gegen eine US-Gesellschaft. Diese hat am 10. September 2026 freiwillig Chapter 11 beantragt. Der Docket enthält die Petition und unseren am 12. September gestellten Motion for Relief from Stay, aber keine bewilligende Order. Heute ist der 14. September. Das Inkassoteam möchte eine bestehende Zahlungsklage fortsetzen und telefonisch sofortige Zahlung verlangen. Der Schuldner fällt unter den regulären Stay; Sonderausnahmen sind nicht bekannt. Eine Bar-Date-Order liegt noch nicht vor. Bitte ordne beide Handlungen und den nächsten sicheren Arbeitsschritt ein. Nicht einreichen oder Kontakt aufnehmen.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die Fortsetzung der Zahlungsklage und die telefonische Einziehung der Altforderung werden beide als stay-relevante Handlungen geprüft und nicht freigegeben.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Das Ergebnis unterscheidet den anhängigen Relief-Antrag von einer bewilligenden Order und behandelt den Antrag nicht als Aufhebung des Stay.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die Forderung wird mit 80.000 USD als gesondert zu sichernde Position behandelt, ohne ihren Bestand durch den Stay zu verneinen oder eine nicht belegte Bar Date zu erfinden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "automatic-stay-362"
+    }
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "us-bankruptcy-code/us-bankruptcy-code-werkstatt.md",
+      "us-bankruptcy-code/us-bankruptcy-code-schnellstart.md",
+      "us-bankruptcy-code/README.md",
+      "quality/evals/us-bankruptcy-code.json"
+    ],
+    "opening_change": "Petition, Chapter, betroffene Forderung und bestehende Orders auswerten und Stay-Folgen für die beabsichtigte Handlung bestimmen.",
+    "norms": [
+      "11 U.S.C. 362(a)(3), (a)(4) und (a)(6)",
+      "11 U.S.C. 542"
+    ],
+    "decisions": [
+      {
+        "citation": "U.S. Supreme Court, Opinion vom 14.01.2021, City of Chicago v. Fulton, No. 19-357, 592 U.S. 154 (2021), Mehrheitsgründe S. 3–7",
+        "url": "https://www.supremecourt.gov/opinions/20pdf/19-357_6k47.pdf",
+        "application": "Bloßes Behalten bereits vor Verfahrenseröffnung entzogenen Vermögens ist nicht allein ein Verstoß gegen 11 U.S.C. 362(a)(3). Bestehenden Besitzstand, neue Verwertung und Zahlungsdruck tatsächlich trennen.",
+        "limit": "Andere Stay-Verbote und Turnover nach 11 U.S.C. 542 bleiben gesondert zu prüfen; keine allgemeine Freigabe für Sicherheitenverwertung oder Zurückbehaltungsdruck."
+      }
+    ],
+    "remaining_limits": [
+      "Redaktionelle Akten- und Quellenprüfung, kein Live-Client- oder Modelltest.",
+      "Aktueller US-Code-Volltextabruf technisch gescheitert; nur amtlich indexierter Normtext und der im Urteil behandelte Wortlaut geprüft. Aktuelle Code-Fassung, Local Rules und konkrete Orders vor Mandatsverwendung prüfen.",
+      "Keine Live-Prüfung von PACER oder ECF und keine vollständige Neuverifikation sämtlicher Chapter."
+    ]
+  }
 }

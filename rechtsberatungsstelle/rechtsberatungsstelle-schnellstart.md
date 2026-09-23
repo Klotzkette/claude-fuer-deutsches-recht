@@ -1,5 +1,9 @@
 # 1. Beratungsfall übernehmen und handlungsfähig halten
 
+Leere Eingabe: Biete Mandantenbrief, dringenden Fall mit Anleitung oder Semesterübergabe an. Dateien ohne Auftrag still lesen und nur passende zwei oder drei Wege erfragen; keine Aktenzusammenfassung. Klarer Auftrag: direkt bearbeiten, ohne zusätzliche Pflichtrunde. Folgeantworten am vorhandenen Fall verarbeiten. Kein lokales Register oder Plugin-Werkzeug voraussetzen.
+
+Beispiel: „Die Nachfolge übernimmt erst Montag, der Rückruf ist Freitag.“ Verfasse den Übergabevermerk mit konkreter Zwischenverantwortung und Rückrufaufgabe; eine künftige Übernahme erledigt den früheren Termin nicht. „Der Abschlag wurde doch bezahlt.“ Gleiche Beleg und Kundennummer ab, ändere den bestrittenen Betrag im Brief und lege die geänderte rechtliche Erklärung bei Bedarf erneut der Anleitung vor. „Die Juristin wurde nur in Kopie gesetzt.“ Behandle den Entwurf weiter als ungeprüft, ohne Unterschrift oder Freigabe zu erfinden. Liefere jeweils die neue vollständige Fassung statt bloßer Bearbeitungsanweisungen.
+
 Bearbeite oder übergib den konkreten Fall der unentgeltlichen Rechtsberatungsstelle und erstelle das bestellte Dokument. Lies zuerst Auftrag, letzte Korrespondenz, vorhandene Fristnotizen und Entwürfe.
 
 Wiederhole kein Erstinterview, wenn der Fall bereits dokumentiert ist. Frage gezielt nach Angaben, die für die beauftragte Beratung oder Übergabe fehlen. Beginne mit den bearbeitbaren Teilen des Mandantenbriefs, Übergabevermerks oder der Rechtsprüfung.
@@ -17,6 +21,8 @@ Halte fest, was die ratsuchende Person erreichen möchte und welche Erklärung s
 Für die Sachprüfung jedes erhebliche Merkmal mit Nutzerangabe oder Dokumentfund verbinden. Verständliche Mandantenkommunikation erläutert Ergebnis, konkrete Handlung und verbleibendes Risiko, ohne Fachbegriffe nur durch andere Fachbegriffe zu ersetzen. Keine Erfolgsgarantie und kein ungeprüftes Anerkenntnis formulieren. Rechtliche Aussagen anhand passender amtlicher Quellen prüfen; der organisatorische Übergabevermerk braucht keine dekorative Normensammlung.
 
 ## 1.3. Übergabe ohne Zuständigkeitslücke
+
+Wenn anwaltliche Hilfe nötig wird, prüfe Paragraf 1 BerHG und die tatsächliche Zumutbarkeit anderer Hilfe. [BVerfG, Beschluss vom 06.08.2009, 1 BvR 322/09, Randnummern 7 bis 9](https://www.bundesverfassungsgericht.de/entscheidungen/rk20090806_1bvr032209.html): Bei einem Widerspruch darf ein Bedürftiger nicht pauschal auf die Beratung gerade der Behörde verwiesen werden, deren Entscheidung er angreift. Erläutere daher den konkreten unabhängigen Beratungsbedarf. Daraus folgen weder eine automatische Bewilligung noch eine gerichtliche Vertretungsbefugnis der Beratungsstelle. Eine reine Semesterübergabe benötigt diese Prüfung nur bei entsprechendem offenem Hilfebedarf.
 
 Erstelle für jeden tatsächlich vorhandenen Fall einen lesbaren Stand: Ziel, bisherige Schritte, offene Fristen, ausstehende Antwort, freizugebender Entwurf, nächste Handlung und konkrete Zuständigkeit. Gibt es noch keine Nachfolge, benenne dies ausdrücklich und leite die Zuweisung an die anleitende Person weiter. Ein Versand an ein Gruppenpostfach beweist keine Übernahme. Zwischen Ausscheiden und bestätigtem Eintritt der Nachfolge muss Erreichbarkeit und Fristenverantwortung geklärt sein.
 

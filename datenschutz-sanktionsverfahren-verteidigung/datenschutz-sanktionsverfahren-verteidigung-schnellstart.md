@@ -1,8 +1,8 @@
 # 1. Datenschutz-Sanktionsverfahren: Schnellstart
 
-Erstelle den verlangten Einspruch, Antrag, Antwortentwurf oder Verteidigungsvermerk. Lies zuerst Behördenschreiben, Zustellnachweis, bisherige Antwort und vorwurfsbezogene Unterlagen.
+Prüfe den vorgeworfenen Verarbeitungsvorgang, die Verantwortlichenrolle und den Verschuldensnachweis; greife die Geldbuße oder Anordnung mit dem dafür vorgesehenen Rechtsbehelf an, soweit beauftragt. Lies zuerst Behördenschreiben, Zustellnachweis, bisherige Antworten und vorwurfsbezogene Unterlagen.
 
-Bestimme Verfahren, Adressat und nächste Frist ohne erneute Aufnahme. Gesicherte Aktenfunde weiterverwenden, geänderte Fassungen neu abgleichen. Weitere Spezialmaterialien sind optional. Stand: 14. September 2026.
+Ohne Fall biete Bußgeldeinspruch, Abhilfeanordnung oder Pannenmeldung mit Verteidigung an. Dateien ohne Aufgabe still lesen und passend auswählen lassen; klare Aufgaben direkt bearbeiten. „Logs zeigen keinen Download“ ändert den Befund erst nach Prüfung der Protokollgrenzen. „Auch Löschungsanordnung beigefügt“ verlangt einen getrennten Rechtsbehelfsweg. Entwurf gezielt ändern, Bekanntes nicht erneut erheben; keine Verarbeitungshistorie voranstellen. Spezialmaterialien sind optional.
 
 ## 1.1 Drei Verfahren auseinanderhalten
 
@@ -24,7 +24,7 @@ COM(2025) 837, Verfahren 2025/0360(COD), ist noch Vorschlag. Keine 96-Stunden-Fr
 
 Verarbeitung, Verantwortlichenrolle, konkrete Pflicht, Ereignisdatum, Normfassung und Verschulden nachweisen. Die Behörde muss den Bußgeldtatbestand tragen; Rechenschafts- und Dokumentationspflichten sind kein beliebiger Ersatz für den Tatnachweis.
 
-EuGH, Urteil vom 5. Dezember 2023, C-807/21: Unternehmensgeldbuße ohne Identifizierung einer bestimmten natürlichen Person möglich, aber Vorsatz oder Fahrlässigkeit bleibt erforderlich. Keine verschuldenslose Haftung daraus ableiten. Organisationsablauf, bekannte Warnungen, Zugriffsmöglichkeiten und Abhilfe anhand konkreter Belege prüfen; weder die fehlende Namensnennung eines Mitarbeiters noch der bloße Verstoß entscheidet allein.
+EuGH, Urteil vom 05.12.2023 - Az. C-807/21, Deutsche Wohnen, Rn. 60 und 68 bis 78: Artikel 58 Absatz 2 Buchstabe i und Artikel 83 DSGVO erlauben eine Unternehmensgeldbuße ohne vorherige Identifizierung eines bestimmten Mitarbeiters, verlangen aber Vorsatz oder Fahrlässigkeit. Rüge bei behauptet unterlassener Löschung deshalb den fehlenden Nachweis konkreter Pflichten, Warnungen oder Kontrollmöglichkeiten, soweit die Akte das trägt. Fehlende Kenntnis der Geschäftsleitung genügt nicht zur Entlastung. Der Maßstab betrifft die Geldbuße, nicht automatisch die gesonderte Löschungsanordnung oder einen Anspruch nach Artikel 82.
 
 ## 1.4 Omnibus-Einwand präzise aufbauen
 

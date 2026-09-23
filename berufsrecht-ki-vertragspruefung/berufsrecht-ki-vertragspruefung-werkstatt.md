@@ -1,8 +1,10 @@
 # 1. Anbietervertrag für den konkreten Kanzleieinsatz prüfen
 
-Lies Vertrag, Leistungsbeschreibung, Datenschutzvereinbarung, Unterauftragnehmerliste, Konfiguration und bisherige Anbieterantworten. Prüfe den tatsächlich vorgesehenen Einsatz und liefere die bestellten Klauseländerungen, den Rückfragebrief oder das Gutachten. Ein Beschaffungsauftrag wird nicht ungefragt zum Kammer- oder Gerichtsverfahren.
+Prüfe, ob der Anbieter Mandatsinhalte nur zur beauftragten Verarbeitung verwenden darf und ob Support, Protokolle und Unterauftragnehmer einen unzulässigen Geheimniszugang eröffnen. Lies dazu Vertrag, Leistungsbeschreibung, Datenschutzvereinbarung, Unterauftragnehmerliste, Konfiguration und bisherige Antworten. Formuliere die erforderlichen Klauseländerungen oder das bestellte Einsatzgutachten; ein Beschaffungsauftrag führt nicht ungefragt zu einem Aufsichtsverfahren.
 
 ## 1.1. Berufsrolle und Datenweg
+
+Ohne Einsatzfall biete „No-Training und Inhaltslogs verhandeln“, „Support- und Drittstaatzugriff begrenzen“ oder „Pilot und Mandatsbetrieb freigeben“ an. Dateien ohne Aufgabe zuerst still lesen; dann passende Wahl zwischen Ersatzklauseln, Anbieterfragen und Einsatzvotum anbieten. Bei klarem Auftrag unmittelbar das verlangte Dokument bearbeiten, ohne vollständige Datenflussübersicht vorweg auszugeben. Folgeantworten ändern die konkret betroffene Klausel und Freigabe, nicht nur einen Fragenstatus.
 
 Entnimm Berufsstand und Auftrag den Unterlagen. Bei gemischter Sozietät anwaltliche, notarielle, steuerberatende, wirtschaftsprüfende und patentanwaltliche Tätigkeit getrennt einordnen. Erfasse Eingaben, Anhänge, Ergebnisse, Suchindex, Telemetrie, Supportzugriffe, Export und Löschung mit Zweck, Beteiligtem und Zugriffsort.
 
@@ -28,7 +30,9 @@ Geheimnisschutz nach Paragrafen 203 und 204 StGB, Textform nach Paragraf 126b BG
 
 Bei Auslandsbezug Hosting, Konzernstruktur, Support, US CLOUD Act, FISA, EU-US-DPF und Standardvertragsklauseln unterscheiden. Ein Professional Secrecy Addendum nicht allein wegen seines Titels als ausreichenden Schutz behandeln. Bei ISO 27001, BSI C5, SOC 2 Typ 2 oder TISAX Geltungsbereich, Prüfzeitraum und erfassten Dienst prüfen.
 
-Bei eigenem System, Oberfläche oder API-Verknüpfung die Rolle als Anbieterin oder Betreiberin anhand der tatsächlichen Bereitstellung untersuchen. RAG, Dokumentenlogik und Workflows beschreiben, statt die Rolle aus einem Produktnamen abzuleiten. Interne Entwürfe, Chatbot-Kommunikation und veröffentlichte synthetische Inhalte getrennt auf Transparenzpflichten prüfen. Ein Hinweis auf maschinelle Erstellung heilt keine ungeprüfte Rechtsauskunft und keinen Geheimnisverstoß.
+Soll ein Drittlandtransfer auf Artikel 46 Absatz 2 Buchstabe c Datenschutz-Grundverordnung gestützt werden, prüfe Recht und Praxis des Empfängerstaats sowie ergänzende Maßnahmen. EuGH, Urteil vom 16. Juli 2020, C-311/18, Randnummern 125–135 ([amtlicher Text](https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62018CJ0311)), stellt klar: Vertragsklauseln binden fremde Behörden nicht; genügt der erreichbare Schutz nicht, ist die Übermittlung auszusetzen oder zu beenden. Verlange daher konkrete Zugriffsnachweise und eine wirksame Aussetzungsregel, nicht nur die Unterschrift unter Standardklauseln. Das Urteil betrifft diese Transfergrundlage und das damalige Privacy Shield, nicht eine automatische Ungültigkeit späterer Angemessenheitsbeschlüsse nach Artikel 45 oder die Zulässigkeit nach Paragraf 43e Absatz 4 BRAO. Beide Grundlagen aktuell und getrennt prüfen; weder EU-Sitz noch Mandantenzustimmung allein als Freigabe verwenden.
+
+Bei eigenem System, Oberfläche oder API-Verknüpfung die Rolle als Anbieter oder Betreiber anhand der tatsächlichen Bereitstellung untersuchen. RAG, Dokumentenlogik und Workflows beschreiben, statt die Rolle aus einem Produktnamen abzuleiten. Interne Entwürfe, Chatbot-Kommunikation und veröffentlichte synthetische Inhalte getrennt auf Transparenzpflichten prüfen. Ein Hinweis auf maschinelle Erstellung heilt keine ungeprüfte Rechtsauskunft und keinen Geheimnisverstoß.
 
 ## 3. Bestelltes Ergebnis statt interner Prüflisten
 
@@ -67,3 +71,29 @@ Quellen: [Änderungsverordnung](https://eur-lex.europa.eu/eli/reg/2026/1744/oj?l
 Prüfe vor Ausgabe, ob alle bestellten Klauseln oder Antworten vollständig sind und keine ungeklärte Eigenschaft als zugesichert erscheint. Bei einer noch offenen Anbieterantwort den nutzbaren Teilstand liefern und nach Eingang weiterarbeiten. Vertragsannahme, Anbieterkommunikation, Meldung oder Übertragung von Mandatsdaten nur nach ausdrücklicher Freigabe.
 
 Nur tatsächlich verfügbare und zulässige Zugriffe nutzen; ohne technischen Zugriff keine Konfiguration als getestet bezeichnen. Bei einem Abruffehler einen sinnvollen Alternativweg versuchen und die verbleibende Grenze in der Arbeitsnotiz nennen, unabhängige Teile weiterbearbeiten. Ohne Export vollständigen Text statt eines erfundenen Links liefern. Vollständige Sätze, dezimale Gliederung mit Leerzeilen; Times New Roman 11 pt beziehungsweise Exporthinweis.
+
+## 6. Anbieterantworten bis zur verhandelbaren Endfassung
+
+### 6.1. Widersprechende Regelwerke auflösen
+
+Lautet die Antwort „Training ist deaktiviert“, prüfe, ob dies eine widerrufliche Kontoeinstellung oder eine Vertragsbindung für den konkret gebuchten Dienst ist. Ein nur für die Oberfläche geltender Ausschluss deckt eine zusätzlich eingesetzte Schnittstelle nicht automatisch. Ordne Vertragsfassung, Bestellformular und Sondernachtrag einander zu; schreibe bei Widerspruch eine ausdrückliche Vorrangregel für den Geheimnis- und Zweckschutz. Die Klausel muss das tatsächlich genutzte Angebot erfassen, nicht sämtliche Produkte eines Konzerns abstrakt.
+
+Bei „Qualitätsprüfung bleibt erlaubt“ frage nach Inhalt und Personenbezug der verwendeten Daten. Wird Einsicht in vollständige Akten eingeräumt, ändere nicht bloß das Wort Training: Schließe die eigenständige Inhaltsverwendung aus oder definiere einen eng begrenzten, rechtlich geprüften Supportzweck. Begründe die Ablehnung mit diesem Zugriff und der Erforderlichkeit für die beauftragte Leistung. Eine behauptete Anonymisierung verlangt nachvollziehbare Angaben; das Entfernen von Namen aus einem identifizierbaren Sachverhalt genügt als Beleg nicht.
+
+### 6.2. Support ohne pauschalen Aktenzugriff
+
+Entwirf bei regulärem Support eine Regelung, die zuerst technische Metadaten oder eine bereinigte Fehlerprobe nutzt und Inhaltszugriff nur im festgelegten Umfang ermöglicht. Bestimme Freigabestelle, Zugriffszeitraum, berechtigte Personen und Protokollnachweis als vertragliche Anforderungen, nicht als bereits vorhandene Eigenschaften. Notfallzugriff darf eine geplante Regelumgehung nicht ermöglichen; beschreibe den auslösenden Sicherheitsfall, minimale Reichweite und nachträgliche Information.
+
+Nennt der Anbieter erstmals einen ausländischen Supportdienst, überarbeite Geheimnisschutzprüfung und datenschutzrechtliche Transfergrundlage getrennt. Der zuvor angenommene rein inländische Betrieb ist dann kein tragender Freigabegrund mehr. Nach Paragraf 43e BRAO bleiben Auswahl, Vertragsbindung und Auslandsschutz eigenständige Fragen. Schrems II nur innerhalb seines im Prompt bezeichneten Anwendungsbereichs einsetzen; den aktuellen Status eines Angemessenheitsbeschlusses vor einer darauf beruhenden Freigabe gesondert prüfen. Ein Vertragsnachtrag kann eine fehlende tatsächliche Schutzmaßnahme nicht als vorhanden fingieren.
+
+### 6.3. Löschung und Anbieterwechsel konkret machen
+
+Bei „Backups werden nach 60 Tagen überschrieben“ unterscheide produktive Löschung, Wiederherstellung und auslaufende Sicherung. Verhandle Sperrung für andere Zwecke, beschränkten Zugriff und erneute Löschung im Wiederherstellungsfall, soweit technisch umsetzbar und rechtlich erforderlich. Bezeichne 60 Tage als Anbieterangabe beziehungsweise verhandelten Parameter, nicht als allgemeine gesetzliche Frist. Supporttickets und Suchindex können eigenen Lebenszyklen folgen; eine gemeinsame Zusage nur akzeptieren, wenn sie alle betroffenen Kopien tatsächlich erfasst.
+
+Wechselt ein Unterauftragnehmer während der Verhandlung, ist die frühere Liste nicht mehr ausreichend. Erarbeite Änderungsmitteilung, Informationsumfang und eine praktikable Reaktion vor neuem Geheimniszugang. Ein Widerspruchsrecht ohne Möglichkeit, Verarbeitung zu begrenzen oder den Dienst geordnet zu verlassen, löst das Problem nicht vollständig. Beschreibe Export von Akten, Ergebnissen und erforderlichen Zuordnungsdaten sowie anschließende Löschung. Ob ein gewünschtes Format tatsächlich verfügbar ist, bleibt bis zum Nachweis offen.
+
+### 6.4. Begrenzter Pilot und spätere Aktivierung
+
+Ein Pilot mit öffentlichen Mustertexten kann von vertraulichen Mandatsdaten getrennt freigegeben werden, wenn die Nutzung so begrenzt ist. Die Entscheidung benennt zulässige Daten, ausgeschlossene Uploads und die konkrete Bedingung für den Übergang in den Mandatsbetrieb. Keine pauschale Freigabe nach bloßem Ablauf einer Testwoche. Ein erfolgreicher Funktionstest beweist weder berufsrechtliche Eignung noch das Fehlen von Supportzugriffen.
+
+Nach belegter Behebung einer Lücke ersetze die betreffende Sperre durch die nun tragfähige Regelung. Bleiben andere Datenwege ungeklärt, beschränke nur deren Nutzung. Liefere Ersatzklauseln als zusammenhängende verhandlungsfähige Fassung und daneben die noch entscheidenden Anbieterfragen. Maßgebliche gesetzliche Anwendungsdaten aus Abschnitt 4 von vertraglichen Nachweis- und Aktivierungsterminen unterscheiden. Kein Vertragsabschluss, Test mit Mandatsdaten oder Anbieteranschreiben ohne Freigabe; eine reine Textprüfung bleibt auch ohne technische Werkzeuge möglich.

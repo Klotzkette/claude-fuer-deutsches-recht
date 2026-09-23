@@ -1,30 +1,60 @@
 {
   "schema_version": 1,
   "plugin": "pruefungsrecht-hochschule",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.bverwg.de/de/280618B2B57.17.0",
       "checked_on": "2026-09-14",
       "supports": "Beschluss vom 28. Juni 2018, 2 B 57.17, Randnummern 7 bis 9: Grenzen des Bewertungsspielraums und Unterscheidung fachlicher Richtigkeit von prüfungsspezifischer Gewichtung."
+    },
+    {
+      "url": "https://www.bverwg.de/de/280618B2B57.17.0",
+      "checked_on": "2026-09-22",
+      "supports": "BVerwG, Beschluss vom 28.06.2018, 2 B 57.17, Rn. 7 bis 9: Übersehene Leistung oder fachlich vertretbare Lösung als konkreten Bewertungsfehler rügen und Berücksichtigung verlangen. Grenze: Lehramts-Staatsprüfung; allgemeiner Kontrollmaßstab übertragbar, keine fremde Prüfungsordnung und keine vorgegebene Punktzahl. Amtliche tragende Gründe gelesen; keine Vollverifikation der gesamten Materie."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vwgo/__74.html",
+      "checked_on": "2026-09-22",
+      "supports": "Klagefrist nach Vorverfahren oder Bekanntgabe bei entbehrlichem Widerspruch, nicht unabhängig vom Verfahrensstand."
+    },
+    {
+      "url": "https://www.bverwg.de/de/280618B2B57.17.0",
+      "checked_on": "2026-09-23",
+      "supports": "Uploadversuch gegen Eingangsnachweis, funktionaler Nachteilsausgleich gegen Rücktritt, eigenständige Rechtsbehelfsfrist. Prüftiefe: Bewertungsmaßstab und Klagefrist erneut gelesen; keine konkrete Hochschulordnung neu verifiziert."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vwgo/__74.html",
+      "checked_on": "2026-09-23",
+      "supports": "Uploadversuch gegen Eingangsnachweis, funktionaler Nachteilsausgleich gegen Rücktritt, eigenständige Rechtsbehelfsfrist. Prüftiefe: Bewertungsmaßstab und Klagefrist erneut gelesen; keine konkrete Hochschulordnung neu verifiziert."
     }
   ],
   "mini_review": {
-    "verdict": "retained",
-    "reason": "Mini vollständig schlussgelesen. Konkrete Korrekturbemerkung und abgegebene Antwort tragen die Rüge; fehlende Seiten und Störungsnachweise werden gezielt nachgefordert und in die Endfassung eingearbeitet. Keine neue Rechtsverifikation oder Live-Modellprüfung.",
+    "verdict": "revised",
+    "reason": "Kurzprompt individuell auf Einstieg, fachliche Fortsetzung und vollständiges Arbeitsprodukt geprüft. Uploadversuch gegen Eingangsnachweis, funktionaler Nachteilsausgleich gegen Rücktritt, eigenständige Rechtsbehelfsfrist.",
     "changes": [
-      "Belegbezogene Bewertungsrüge, eigenständige Fristenprüfung und auftragsgemäße Endfassung unverändert erhalten."
+      "Abgegebene Leistung gegen konkrete Korrekturbemerkung und passende Fehlerfolge prüfen.",
+      "Beide Einstiege und Rechtsprechungsanwendung an abgegebene Antwort und Rügefolge gebunden.",
+      "Unverifizierte Kapazitätsfundstellen ersetzt; differenzierte Störungs-, Krankheits-, Täuschungs- und Nachteilsausgleichswege beibehalten.",
+      "Prüfer bestätigt Seitenlektüre -> Übersehenseinwand durch belegte fachliche Rüge ersetzen oder fallenlassen.",
+      "Uploadversuch gegen Eingangsnachweis, funktionaler Nachteilsausgleich gegen Rücktritt, eigenständige Rechtsbehelfsfrist."
     ],
-    "sha256": "e1d070d7c2ed1dc15d159910880747868e37a9187202887936acb9971ea5ee80"
+    "sha256": "49190048eb2b36e800f94930ff9a1552947534b2f1461165f2b3644b0b4bec25",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
   },
   "workshop_review": {
-    "verdict": "retained",
-    "reason": "Werkstatt vollständig gelesen. Bereits überarbeitete Fassung unterscheidet mündliche Prüfung, Technikstörung, Krankheit, Nachteilsausgleich, Täuschung und Versuchszählung. Nachfragen ändern die konkrete Rüge und Rechtsfolge; Tabellen und Prozessentwürfe sind nicht obligatorisch.",
+    "verdict": "revised",
+    "reason": "Werkstatt individuell auf Einstieg, fachliche Fortsetzung und vollständiges Arbeitsprodukt geprüft. Uploadversuch gegen Eingangsnachweis, funktionaler Nachteilsausgleich gegen Rücktritt, eigenständige Rechtsbehelfsfrist.",
     "changes": [
-      "Keine weitere Textänderung erforderlich; konkrete Nachforderungswege und Fortsetzung bis zum bestellten Dokument beibehalten.",
-      "Vorhandene Quellenanker erhalten, ohne deren früheren Prüfzeitpunkt zu erneuern."
+      "Beide Einstiege und Rechtsprechungsanwendung an abgegebene Antwort und Rügefolge gebunden.",
+      "Unverifizierte Kapazitätsfundstellen ersetzt; differenzierte Störungs-, Krankheits-, Täuschungs- und Nachteilsausgleichswege beibehalten.",
+      "Prüfer bestätigt Seitenlektüre -> Übersehenseinwand durch belegte fachliche Rüge ersetzen oder fallenlassen.",
+      "Uploadversuch gegen Eingangsnachweis, funktionaler Nachteilsausgleich gegen Rücktritt, eigenständige Rechtsbehelfsfrist."
     ],
-    "sha256": "d840acad80d83e921c2a8260927b1c611e812d1bd1802643777ce1753d63bddc"
+    "sha256": "61fe6fa071ec784a981ced8b2e5d6af66e3af264a04a9008d982b45e7c7e8af0",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
   },
   "selection": {
     "positive": [
@@ -69,5 +99,46 @@
       ],
       "target_skill": "neubewertung-verfahren"
     }
-  ]
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "method": "desk_review",
+    "files": [
+      "pruefungsrecht-hochschule/README.md",
+      "pruefungsrecht-hochschule/pruefungsrecht-hochschule-werkstatt.md",
+      "pruefungsrecht-hochschule/pruefungsrecht-hochschule-schnellstart.md",
+      "quality/evals/pruefungsrecht-hochschule.json"
+    ],
+    "opening_change": "Abgegebene Leistung gegen konkrete Korrekturbemerkung und passende Fehlerfolge prüfen.",
+    "norms": [
+      "Artikel 3 Absatz 1, 12 Absatz 1 und 19 Absatz 4 GG",
+      "Paragrafen 70, 74, 80 Absatz 5, 123 VwGO",
+      "Maßgebliche Landesprüfungsordnung"
+    ],
+    "decisions": [
+      {
+        "citation": "BVerwG, Beschluss vom 28.06.2018, 2 B 57.17, Rn. 7 bis 9",
+        "url": "https://www.bverwg.de/de/280618B2B57.17.0",
+        "application": "Übersehene Leistung oder fachlich vertretbare Lösung als konkreten Bewertungsfehler rügen und Berücksichtigung verlangen.",
+        "limit": "Lehramts-Staatsprüfung; allgemeiner Kontrollmaßstab übertragbar, keine fremde Prüfungsordnung und keine vorgegebene Punktzahl."
+      }
+    ],
+    "remaining_limits": [
+      "Amtlicher Volltext und Klagefristgrundlage geprüft; konkrete Hochschulordnungen, Täuschungsnachweise und medizinische Rücktrittsvoraussetzungen bleiben fallabhängig.",
+      "Kein Live-Prüfungsfall oder Modelltest.",
+      "Workflow-Vertiefung 2026-09-23: Bewertungsmaßstab und Klagefrist erneut gelesen; keine konkrete Hochschulordnung neu verifiziert. Desk review; kein Live-Client-Test."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Bewertung, Störung/Rücktritt oder Nachteilsausgleich anbieten.",
+      "Klausur und Bescheid still lesen, keine ungefragte Prüfungsaktenübersicht.",
+      "Bestellte Einwendung unmittelbar mit Seitenbezug entwerfen."
+    ],
+    "continuation": "Prüfer bestätigt Seitenlektüre -> Übersehenseinwand durch belegte fachliche Rüge ersetzen oder fallenlassen.",
+    "enrichment": "Uploadversuch gegen Eingangsnachweis, funktionaler Nachteilsausgleich gegen Rücktritt, eigenständige Rechtsbehelfsfrist.",
+    "limits": "desk review; no live client execution"
+  }
 }

@@ -1,8 +1,8 @@
 # 1. Dokumentenstatus und Schrittplan: Schnellstart
 
-Erstelle aus dem vorhandenen Bestand das bestellte Dokumentenregister, den Fassungsvergleich oder Schrittplan. Dies ist Dokumentenverarbeitung, keine eigenständige rechtliche Bewertung von Ansprüchen oder Fristen.
+Vergleiche den unterschriebenen Vertrag mit neueren Entwürfen, Freigabenachrichten und Aufgabenboard. Zeige im beauftragten Register oder Schrittplan, welcher Stand belegt ist und was vor einer Änderung noch geklärt werden muss. Eine intern eingetragene Preissenkung ist ohne passenden Nachweis noch kein dokumentierter Vertragsschluss; die abschließende Rechtsbewertung bleibt ein gesonderter Auftrag.
 
-Lies die für den Auftrag tragenden Dateien zuerst und übernimm bereits geklärte Fassungen und Ausgabeziele. Ein allgemeines Rechtsgutachten gehört nicht zu diesem Auftrag.
+Ohne Eingabe biete Fassungsabgleich, Nachforderungsbrief oder abhängigen Schrittplan an. Dateien ohne Auftrag zuerst still lesen und nur das Arbeitsziel klären, keine automatische Inventarliste. Bei klarem Auftrag direkt liefern; bekannte Freigaben nicht erneut erfragen. „Die Zustimmung bezog sich nur auf den Preis“ verändert den Freigabestatus dieser Klausel, nicht aller Anlagen. Aktualisiere betroffene Registerzeilen und Folgeschritte. Standalone nur tatsächlich zugängliche Dateien und Werkzeuge nutzen. Ein allgemeines Rechtsgutachten gehört nicht zu diesem Auftrag.
 
 ## 1.1. Bestand und Arbeitsziel
 
@@ -23,6 +23,8 @@ Für Tabellen Formel, Eingaben, Einheit, Rundung, Filter und ausgeblendete Blät
 Führe „Arbeitsschritt / Voraussetzung / konkrete Eingabe / verantwortliche Rolle / Ergebnis / Terminstatus“. Abhängigkeiten ausdrücklich angeben: Eine Redline benötigt eine geklärte Ausgangsfassung, ein als freigegeben bezeichneter Export eine bestätigte Zielversion. Eine eindeutig als Arbeitsfassung gekennzeichnete Datei darf schon vorher erstellt und zur Prüfung übergeben werden; dadurch wird keine Freigabe erteilt.
 
 Priorisiere nach tatsächlicher Dringlichkeit und blockierten Folgearbeiten. Übernommene Dokumentfristen als Quellenangabe kennzeichnen; einen rechtlichen Fristbeginn nicht selbst aus einem beliebigen Dateidatum ableiten. Fehlende Zustellung oder unbekannte Formwirksamkeit als fachlichen Prüfauftrag ausweisen.
+
+Bei einem Einwurf-Einschreiben Einlieferung, Tracking und Auslieferungsbeleg getrennt erfassen. BAG, Urteil vom 30.01.2025, 2 AZR 68/24, Rn. 15 bis 20 ([amtlich](https://www.bundesarbeitsgericht.de/entscheidung/2-azr-68-24/)): Einlieferungsbeleg und Online-Status ohne Auslieferungsbeleg begründen keinen Anscheinsbeweis des Zugangs nach [Paragraf 130 Absatz 1 BGB](https://www.gesetze-im-internet.de/bgb/__130.html). Trage deshalb „Zustellung laut Tracking; Auslieferungsnachweis fehlt“ ein und plane dessen Beschaffung, statt Zugang oder Fristbeginn als gesichert zu melden. Der Kündigungsfall beweist umgekehrt keinen Nichtzugang; andere Nachweise bleiben möglich. Das Register ersetzt keine Beweiswürdigung.
 
 Priorisiere die tatsächlich ausführbaren Schritte und benenne blockierte Entscheidungen mit ihrer Voraussetzung, statt alle denkbaren Aufgaben aufzulisten. Ein fehlendes Original sperrt nur Aussagen, die dieses Original voraussetzen; lesbare Vergleichsteile weiterbearbeiten.
 

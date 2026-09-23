@@ -1,22 +1,29 @@
 {
   "schema_version": 1,
   "plugin": "gesellschaftsrecht",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/gmbhg/__47.html",
       "checked_on": "2026-09-14",
       "supports": "Mehrheit abgegebener Stimmen und Stimmverbot bei eigener Entlastung, auch als Vertreter anderer."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2017/II_ZR__12-17.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 20.11.2018 - II ZR 12/17, Rn. 22 bis 27, 54 bis 62: Listenlegitimation am Beschlusstag grundsätzlich auch nach Einziehung beachten; eigene Entlastung bleibt auch bei negativ gefasstem Antrag vom Stimmverbot erfasst. Grenze: Liste entscheidet nicht abschließend über materielles Eigentum; Stimmverbote und Missbrauch getrennt prüfen. Unberechtigte Versammlungsleitung allein beseitigt nicht jeden Beschluss."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Vollständig gelesen: Stimmenrechnung, Listenlage und Kapitalmaßnahme führen nach konkretem Nachweis zum bestellten Beschluss oder Vertrag; ein Teilnehmerverzeichnis wird nicht mit Vollmachtsnachweis gleichgesetzt.",
+    "reason": "Listenstand und negative Entlastungsfassung werden nicht mehr nur als Schlagworte behandelt: II ZR 12/17 begründet die separate Prüfung von Legitimation und Stimmverbot. Individuelle Text- und Primärquellenprüfung, kein Live-Modelltest.",
     "changes": [
-      "Nach Vollmacht oder Stimmangabe Ergebnis neu berechnen und Protokollkorrektur ausformulieren lassen.",
-      "Aufgeldvereinbarung und Sacheinlagenachweis mit abgestimmten Beträgen, Beschluss und Anmeldung verbunden."
+      "Gesellschafterliste am Abstimmungstag und Stimmverbot auch bei Verweigerung der Entlastung getrennt.",
+      "MoPeG-Nummerierung für Ausschließung und Beschlussmängel geprüft; alte HGB-Ausschließungsnummer entfernt.",
+      "Mehrheit, notarielle Form und Zustimmung zu zusätzlichen Leistungspflichten nach Paragraf 53 Absatz 2 bis 4 GmbHG unterschieden.",
+      "Beschluss, Geschäftsführerwechsel oder Kapital-/Anteilsmaßnahme wählen. Dateien still lesen, klare Aufträge direkt bearbeiten, Folgeantwort dokumentbezogen umsetzen."
     ],
-    "sha256": "be4ca4e88cb83d2ed5b29d73b2766e0e110c1f88afdd40d75b941f39c02401b2"
+    "sha256": "8f651cea81f117bcd5a456a55a5461001144c0a14e7b1335c00c1426a663a004"
   },
   "selection": {
     "positive": [
@@ -64,12 +71,55 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt vollständig einschließlich Normeinstiegen gelesen. Beschlussmängel, Organhaftung, Kapital und Registervollzug bleiben getrennte Aufträge; fehlende Urkunde begrenzt die abhängige Aussage statt alle Entwurfsarbeit.",
+    "reason": "Die Werkstatt berechnet Beschlüsse gegenstandsbezogen, behandelt die Grenzen einer Rüge der Versammlungsleitung und ersetzt doppelte Normlisten durch konkrete Kapital- und Haftungsfolgen. Individuelle Text- und Primärquellenprüfung, kein Live-Modelltest.",
     "changes": [
-      "Entscheidungs- und Schadensbelege mit Haftungsbewertung sowie Rechnung verknüpft.",
-      "Parteientscheidungen zu Kaufpreis und Vollzug in zusammenhängende Vertragsfassung überführen lassen.",
-      "Einreichung von Eintragung und interne Varianten von Endvertrag getrennt; keine neue Prüfung der alten Normliste behauptet."
+      "Gesellschafterliste am Abstimmungstag und Stimmverbot auch bei Verweigerung der Entlastung getrennt.",
+      "MoPeG-Nummerierung für Ausschließung und Beschlussmängel geprüft; alte HGB-Ausschließungsnummer entfernt.",
+      "Mehrheit, notarielle Form und Zustimmung zu zusätzlichen Leistungspflichten nach Paragraf 53 Absatz 2 bis 4 GmbHG unterschieden.",
+      "Gegenstandsbezogene Stimmenrechnung, Organ-/Dienstvertrags-/Registerebene, Kapitalaufteilung, Listenstand und haftungsrelevante Zustimmung ergänzt."
     ],
-    "sha256": "53dc949fb3cf5add49f52caa9b9aeda14bf07442dbc1d9effe4b0dc6cbaa0a36"
+    "sha256": "162ba5f6b65b28e13bc18d44e0853c4780962b723062036798e507fc47258861"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "gesellschaftsrecht/README.md",
+      "gesellschaftsrecht/gesellschaftsrecht-schnellstart.md",
+      "gesellschaftsrecht/gesellschaftsrecht-werkstatt.md",
+      "quality/evals/gesellschaftsrecht.json"
+    ],
+    "opening_change": "Stimmrecht, Mehrheit und Bestand des konkreten Beschlusses leiten die Bearbeitung; Gründungs- und Übertragungsfälle werden an ihrer jeweiligen Rechtswirkung ausgerichtet.",
+    "norms": [
+      "GmbHG Paragraf 16 Absatz 1",
+      "GmbHG Paragraf 47 Absatz 4",
+      "GmbHG Paragraf 53 Absatz 2 bis 4",
+      "HGB Paragrafen 110 bis 115 und 134",
+      "BGB Paragraf 727"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 20.11.2018 - II ZR 12/17, Rn. 22 bis 27, 54 bis 62",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2017/II_ZR__12-17.pdf?__blob=publicationFile&v=1",
+        "application": "Listenlegitimation am Beschlusstag grundsätzlich auch nach Einziehung beachten; eigene Entlastung bleibt auch bei negativ gefasstem Antrag vom Stimmverbot erfasst.",
+        "limit": "Liste entscheidet nicht abschließend über materielles Eigentum; Stimmverbote und Missbrauch getrennt prüfen. Unberechtigte Versammlungsleitung allein beseitigt nicht jeden Beschluss."
+      }
+    ],
+    "remaining_limits": [
+      "Steuerliche und umwandlungsrechtliche Randfragen nicht durch den Beschlussmängelanker verifiziert.",
+      "Desk- und Quellenprüfung; kein Live-Client- oder Live-Modelltest und keine vollständige Neuverifikation sämtlicher vorhandener Quellen.",
+      "Workflow-Ergänzung am 2026-09-23: individuelle Textprüfung, keine erneute Gesamtverifikation der bestehenden Entscheidungsanker; deren dokumentierte Quellen- und Zugriffsgrenzen bleiben bestehen."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Beschluss, Geschäftsführerwechsel oder Kapital-/Anteilsmaßnahme wählen.",
+      "Satzung, Protokoll und Liste still lesen; Stimmenkorrektur oder Organwechsel anbieten.",
+      "Bestellten Beschluss oder Vertrag unmittelbar erstellen."
+    ],
+    "continuation": "Vertretungsstimme beim Stimmverbot -> Zählung; nur Abberufung -> keine Kündigung; spätes Agio -> Beschluss und Vollzug getrennt ändern.",
+    "enrichment": "Gegenstandsbezogene Stimmenrechnung, Organ-/Dienstvertrags-/Registerebene, Kapitalaufteilung, Listenstand und haftungsrelevante Zustimmung ergänzt.",
+    "limits": "desk review; no live client execution"
   }
 }

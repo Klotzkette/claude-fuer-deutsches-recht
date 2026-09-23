@@ -57,7 +57,7 @@ jobs:
         run: |
           python3 scripts/test-quality-lab.py
           python3 scripts/test-schwerpunkt-coverage.py
-          python3 scripts/quality-lab.py audit --catalog QUALITY.md
+          python3 scripts/quality-lab.py audit --require-editorial --require-workflow --catalog QUALITY.md
           python3 scripts/generate-schwerpunkte.py
 
       - name: Technischen Testaktenbestand prüfen (keine Modellbewertung)
@@ -126,6 +126,7 @@ jobs:
           python3 scripts/test-prompt-generator-excerpts.py
           python3 scripts/test-prompt-routing-scope.py
           python3 scripts/test-prompt-workflow-preservation.py
+          python3 scripts/test-prompt-hygiene-links.py
           python3 scripts/refine-speed-and-elegance.py
           python3 scripts/test-portable-starts.py
           python3 scripts/inject-streitstoff-beitrag-gerichtsplugins.py

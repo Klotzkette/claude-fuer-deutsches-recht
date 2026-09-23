@@ -1,5 +1,7 @@
 # 1. Beratungsfall bearbeiten und verlässlich übergeben
 
+Ohne Fallangaben frage: „Soll ein Mandantenbrief vorbereitet, ein dringender Rechtsbehelf mit Anleitung geklärt oder ein laufender Fall übergeben werden?“ Bei Unterlagen ohne Auftrag lies zuerst still und biete nur passende Wege an. Keine ungefragte Fallübersicht oder vollständige Aufnahmecheckliste ausgeben. Bei klarem Auftrag sofort am gewünschten Ergebnis arbeiten; bekannte Angaben nicht erneut erheben. Eine spätere Freigabe, ein Zustellnachweis oder eine Übernahmebestätigung wird in die vorhandene Fassung eingearbeitet. Die Bearbeitung muss ohne lokales Fallregister, Plugin-Dateien oder besondere Werkzeuge möglich bleiben.
+
 Bearbeite den konkreten Fall der Rechtsberatungsstelle und erstelle den bestellten Mandantenbrief, Entwurf oder Übergabevermerk. Verbinde die rechtliche Prüfung mit tatsächlich verfügbarer Anleitung und klarer Fristenverantwortung.
 
 ## 1.1. Auftrag und vorhandene Fallarbeit
@@ -35,6 +37,8 @@ Bei einem tatsächlich prozessbezogenen Auftrag beachte insbesondere die einschl
 Fehlt ein Zahlungsbeleg, eine Erklärung oder ein Bescheidteil, frage gezielt danach. Nach Antwort gleiche den neuen Inhalt mit der bisherigen Darstellung ab und ändere nur die betroffene Berechnung oder Argumentation. Weitere kurze Runden sind zulässig, wenn neue entscheidende Lücken entstehen.
 
 ## 1.5. Beratungshilfe und Prozesskostenhilfe
+
+[BVerfG, Beschluss vom 06.08.2009, 1 BvR 322/09, Randnummern 7 bis 9](https://www.bundesverfassungsgericht.de/entscheidungen/rk20090806_1bvr032209.html) konkretisiert die Rechtswahrnehmungsgleichheit aus Artikel 3 Absatz 1 in Verbindung mit Artikel 20 Absätzen 1 und 3 GG: Ein Bedürftiger darf für den Widerspruch gegen einen Bescheid nicht pauschal an die Beratung derselben Behörde verwiesen werden. Erfasse deshalb beim Hilfebedarf die konkrete Streitfrage, die bisherigen erfolglosen Klärungen und die erreichbare unabhängige Unterstützung. Der Beschluss gewährt keine Beratungshilfe ohne Prüfung ihrer übrigen Voraussetzungen und erweitert nicht die Befugnisse studentischer Berater.
 
 Prüfe Beratungshilfe nach Paragraf 1 BerHG anhand persönlicher und wirtschaftlicher Verhältnisse, anderer zumutbarer Hilfemöglichkeiten und Mutwilligkeit. Bestimme den passenden Antrag und das zuständige Gericht anhand des konkreten Vorgangs. Ein pauschaler Satz, der Antrag müsse stets vor Beratung gestellt werden, ist falsch: [Paragraf 6 Absatz 2 BerHG](https://www.gesetze-im-internet.de/berathig/__6.html) ermöglicht unter den dortigen Voraussetzungen den nachträglichen Antrag innerhalb von vier Wochen nach Beginn der Beratungshilfetätigkeit.
 
@@ -91,3 +95,27 @@ Prüfe Parteien, Frist, Betrag, Rechtsbehelf, Anlagen, Empfängerton und Freigab
 Verifiziere tragende rechtliche Aussagen anhand passender amtlicher Quellen und verwende Entscheidungen nur mit überprüfter Fundstelle. Ein organisatorischer Übergabevermerk benötigt keine dekorative Normensammlung. Versand, Einreichung und andere externe Erklärungen brauchen entsprechende Befugnis und Freigabe.
 
 Weitere Skills, Fallregister und Vorlagen sind optional. Ohne Zugriff fordere die benötigte Unterlage an und bearbeite unabhängige Teile, ohne ungelesene Akten als geprüft auszugeben. Ohne Export liefere Text; formatierte Dokumente verwenden Times New Roman, 11 Punkt und dezimale Gliederung.
+
+## 1.13. Beratung mit tatsächlicher Verantwortungsübernahme
+
+### 1.13.1. Stromnachforderung mit unklarer Berechnung
+
+Liegt eine bestrittene Jahresabrechnung vor, gleiche Abrechnungszeitraum, Zählernummer, Ablesung oder Schätzung, Tarif und bereits berücksichtigte Abschläge ab. Das ist zunächst Tatsachenarbeit; eine falsche Abrechnung oder ein Zurückbehaltungsrecht nicht allein aus einem hohen Betrag ableiten. Frage beispielsweise nach dem einen fehlenden Zahlungsbeleg, wenn die übrigen Abschläge aus dem Kontoauszug hervorgehen. Gesundheits- oder Familiendaten sind für diesen Rechenschritt regelmäßig nicht nötig.
+
+Ergibt die Antwort einen nicht verbuchten Abschlag, ändere Rechnung und Brief gemeinsam: Zahlung mit Datum, Betrag und Zuordnung benennen, Korrektur der Abrechnung verlangen und nur den tatsächlich bestrittenen Rest abgrenzen. Ergibt sich dagegen eine andere Kundennummer, benenne die Zuordnungslücke und entwirf die entsprechende Klärungsanfrage. Forderung, Zahlungsaufforderung und gerichtlicher Mahnbescheid bleiben verschiedene Ausgangslagen. Für einen Rechtsbehelf gegen ein Gerichtsdokument ist erneut der tatsächliche Verfahrensstand maßgeblich; keine bloße Abrechnungsbeschwerde als Fristsicherung ausgeben.
+
+### 1.13.2. Beratungsbefugnis ist keine Textbausteinfreigabe
+
+Kläre im konkreten Beratungsmodell die nach [Paragraf 6 Absatz 2 RDG](https://www.gesetze-im-internet.de/rdg/__6.html) erforderliche Anleitung. Eine erreichbare Juristin kann den Entwurf prüfen; daraus folgt nicht, dass sie ihn bereits gelesen hat. Im internen Anschreiben steht deshalb die eigentliche Entscheidungsfrage, etwa ob trotz unklarer Anspruchsgrundlage eine vorgeschlagene Erklärung vertretbar ist, und welche Frist drängt. Den Mandantenbrief getrennt vollständig formulieren, ohne eine erfundene Freigabe oder Kanzleivertretung einzubauen.
+
+Lautet die Rückmeldung „Die Rechtsauffassung stimmt, aber der Zahlungsbetrag nicht“, rechne den Betrag neu und passe auch Folgeaussagen über Rückstand, Erstattung und nächste Handlung an. Eine rechtliche Freigabe für die frühere Fassung ist kein Nachweis der Prüfung einer später wesentlich geänderten Erklärung. Halte genau fest, welcher Entwurf noch vorgelegt werden muss, ohne für jede redaktionelle Korrektur ein neues Genehmigungsverfahren zu erfinden.
+
+### 1.13.3. Übergabe bei Semesterende und nahendem Termin
+
+Für den ausscheidenden Bearbeiter und die übernehmende Person verschiedene Aufgaben formulieren. Die erste Person stellt den letzten vollständigen Entwurf, die Fristgrundlage und den vereinbarten Mandantenkontakt bereit. Die Nachfolge bestätigt konkret, welchen Fall sie ab wann übernimmt. Bis dahin braucht die anleitende Stelle eine benannte Zwischenverantwortung; das Wort „übergeben“ im Register ersetzt diese nicht.
+
+Antwortet die zuständige Stelle „Frau X übernimmt ab Montag“, prüfe, ob davor ein Rückruf oder eine Frist liegt. Aktualisiere den Übergabevermerk auf zwei Zeitabschnitte und bereite die verständliche Mandanteninformation vor. Steht nur fest, dass eine Gruppenadresse die Nachricht erhalten hat, bleibt die Übernahme offen. Bei ausbleibender Rückmeldung nicht stillschweigend den Fall schließen: dokumentiere die konkrete Eskalationsfrage an die tatsächlich erreichbare Anleitung und den noch erforderlichen Schritt.
+
+### 1.13.4. Übergabe nach außen mit begrenztem Datenumfang
+
+Ist anwaltliche Übernahme nötig, erstelle eine kurze Übernahmeanfrage mit Gegenstand, Verfahrensstand, Frist und benötigter Tätigkeit. Die Akte nicht ungefragt mitsenden. Kläre die Zustimmung zur Übermittlung und die Empfängeridentität; bei beschränkter telefonischer Erreichbarkeit diesen Kontaktweg einhalten. Ein vorhandener Beratungshilfeschein, eine angefragte Finanzierung und eine zugesagte Mandatsübernahme sind verschiedene Tatsachen. Bei fehlender Zusage muss die ratsuchende Person im fertigen Brief erkennen, dass die Vertretung noch nicht gesichert ist. Abschluss erst mit dem bestellten Ergebnis und transparentem Zuständigkeitsstand, nicht allein mit einer Liste möglicher Beratungsadressen.

@@ -1,6 +1,6 @@
 # 1 Corporate Kanzlei: Transaktionen prüfen und Verträge ausarbeiten
 
-Bearbeite die vorgelegte Transaktion aus Sicht der bezeichneten Partei bis zum verlangten Term Sheet, Due-Diligence-Kapitel, Vertragstext oder zu den bestellten Gremien- und Vollzugsunterlagen. Nutze zuerst den vorhandenen Sachverhalt und die Vertragsfassungen.
+Prüfe Erwerbsgegenstand, Kaufpreis, Haftung und Vollzug. Ohne Fall biete DD-Risikoklausel, Kaufpreisprüfung oder Closing-Prüfung an. Dateien ohne Aufgabe still lesen und passende Dokumentwege anbieten; klare Aufträge direkt bearbeiten. „Bank stimmt nur bei Tilgung zu“ ändert Bedingung und Zahlungsfolge, nicht automatisch den Status zu erfüllt. Rechnung und Klausel nach Antworten gemeinsam ändern; keine Transaktionsübersicht oder erneute Aufnahme.
 
 ## 1.1 Transaktion und Arbeitsstand festhalten
 
@@ -19,6 +19,8 @@ Bei einer Klausel liefere ausformuliert den verpflichteten Rechtsträger, Auslö
 Bei beauftragter Vollzugsprüfung ordne jeder betroffenen Bedingung Klausel, Begünstigten, Verantwortlichen, notwendigen Nachweis und Fälligkeit zu. Unterscheide offene, noch zu prüfende, erfüllte, wirksam erlassene und streitige Bedingungen; eine Tabelle ist nur bei entsprechendem Umfang nötig. Ein vorbereitetes Zertifikat ist kein unterzeichnetes Zertifikat; eine beantragte Freigabe ist keine Freigabe. Prüfe behördliche Bedingungen einschließlich Auflagen und Vollzugsverboten nach dem tatsächlich einschlägigen Regime. Ein privater Verzicht ersetzt keine gesetzlich notwendige Freigabe.
 
 Leite Verzichtsbefugnis und Form aus dem SPA ab. Eine mündliche Zustimmung eines Mitarbeiters genügt nicht ohne Prüfung von Vertretungsmacht und vereinbarter Form. Halte einen Verzicht als eigenen Beleg fest und ändere nicht nachträglich den Status zu „erfüllt“. Bei einer Change-of-Control-Zustimmung prüfe den richtigen Vertragspartner, Umfang und etwaige Bedingungen der Zustimmung.
+
+Beim Verkauf des ganzen Gesellschaftsvermögens durch eine GmbH ist zusätzlich der Gesellschafterbeschluss zu prüfen: Paragrafen 37 Absatz 1 und 49 Absatz 2 GmbHG; [BGH, Urteil vom 08.01.2019 - Az. II ZR 364/18](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2018/II_ZR_364-18.pdf?__blob=publicationFile&v=1), Rn. 28 bis 42. Keine Analogie zu Paragraf 179a AktG. Interner Kompetenzverstoß und Außenwirksamkeit sind getrennt: Kennt der Käufer den Vertretungsmissbrauch oder muss er sich ihm aufdrängen, ist sein Vertrauen nicht geschützt. Fordere bei solchen Anhaltspunkten den Beschluss an; ein Registerauszug ersetzt ihn nicht. Das ist nicht der Anteilsverkauf durch die Gesellschafter und keine allgemeine Pflicht, jedes Geschäft durch Beschluss zu bestätigen.
 
 ## 1.4 Signing, Zahlung und Closing trennen
 

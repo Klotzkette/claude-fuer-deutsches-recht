@@ -1,8 +1,10 @@
 # 1. Juristische Texte verständlich übertragen
 
-Übertrage den vorgelegten Text in die gewünschte verständliche Fassung. Lies zuerst Ausgangstext, Anlagen und bereits mitgeteilte Vorgaben. Liefere die überarbeitete Erklärung, den Brief, das Formular oder den vereinbarten Textabschnitt. Eine sprachliche Übertragung verlangt weder ein neues Rechtsgutachten noch einen ungefragten Antrag oder Klageentwurf.
+Übertrage den vorgelegten Bescheid, Vertrag oder Brief so, dass der Empfänger seine Rechte, Pflichten und Handlungsmöglichkeiten versteht. Bewahre Bedingungen, Ausnahmen, Fristen und Rechtsfolgen; sprachliche Kürze darf den rechtlichen Inhalt nicht verändern. Liefere die vollständige verständliche Fassung, kein ungefragtes Rechtsgutachten.
 
 ## 1.1. Zielgruppe und Textfunktion
+
+Ohne Eingabe biete Bescheiderklärung, verständliche Vertragsklausel oder Mandantenbrief an. Dateien ohne Auftrag zunächst still lesen, dann die offene Textfunktion klären, ohne bereits eine Inhaltsübersicht auszugeben. Bei klarem Auftrag direkt übertragen; nur entscheidende unbekannte Angaben erfragen. Folgeantworten verändern die vorhandene Zielfassung. Weitere Plugin-Dateien sind nicht erforderlich.
 
 Entnimm dem Auftrag, für wen und in welchem Medium der Text bestimmt ist. Einfache Sprache bleibt nahe an der Standardsprache; Leichte Sprache erfordert stärkere sprachliche und gestalterische Anpassung an die Zielgruppe. Ist die Sprachstufe nicht bestimmt und für die Bearbeitung entscheidend, frage danach. Behaupte ohne tatsächliche Prüfung keine Normkonformität, Zertifizierung oder Verständlichkeitsprüfung durch die Zielgruppe.
 
@@ -64,17 +66,11 @@ Löse verschachtelte Bedingungen in eine nachvollziehbare Reihenfolge auf. Prüf
 
 ## 5. Quellen und rechtliche Gegenprüfung
 
-Bei rein sprachlicher Übertragung ist der Ausgangstext die maßgebliche Vergleichsgrundlage. Eine umfangreiche Rechtsprechungsliste ist dafür nicht erforderlich. Mögliche Rechtsfehler werden in einer getrennten Arbeitsnotiz bezeichnet und nicht ohne Prüfung im Zieltext berichtigt. Für einen zusätzlich beauftragten Rechtscheck bleiben die bisherigen fachlichen Anker verfügbar:
+Bei rein sprachlicher Übertragung ist der Ausgangstext die Vergleichsgrundlage. Paragraf 11 BGG regelt Verständlichkeit und Erläuterung in Leichter Sprache in seinem gesetzlichen Anwendungsbereich; daraus folgt keine allgemeine Pflicht jedes privaten Verfassers. Stelle deshalb fest, ob eine ergänzende Erläuterung oder eine rechtsverbindliche Neufassung verlangt wird. Mögliche Rechtsfehler getrennt bezeichnen und nicht ungeprüft im Zieltext berichtigen.
 
-- Artikel 20 Absatz 3 GG: Bindung an Gesetz und Recht.
-- Paragrafen 133 und 157 BGB: Auslegung von Erklärungen und Verträgen.
-- Paragrafen 241 Absatz 2, 242 und 280 Absatz 1 BGB: Rücksichtnahme, Treu und Glauben und Pflichtverletzung.
-- Paragraf 286 Absatz 1 BGB sowie Paragrafen 195 und 199 Absatz 1 BGB: Verzug, Verjährung und deren Beginn.
-- Paragrafen 138 und 139 ZPO: Tatsachenvortrag und gerichtliche Hinweise.
-- Paragraf 253, insbesondere Absatz 2 ZPO: bestimmter Antrag und Streitgegenstand.
-- Paragraf 286 ZPO: Beweiswürdigung.
+Für die Grenze zur verfahrensrechtlich erforderlichen Übersetzung: EuGH, Urteil vom 12.10.2017, [C-278/16, Sleutjes](https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62016CJ0278), Randnummern 28 bis 34. Ein Strafbefehl ist eine wesentliche Unterlage nach Artikel 3 der Richtlinie 2010/64/EU. Eine selbst erstellte Zusammenfassung in einfacherem Deutsch ersetzt nicht die für einen sprachunkundigen Beschuldigten erforderliche Übersetzung; Paragraf 187 GVG gesondert prüfen. Die Entscheidung betrifft Sprachverständnis im Strafverfahren, nicht die allgemeine Zertifizierung Leichter Sprache.
 
-Verwende diese Normen nur bei passendem Gegenstand. Die Beweislast richtet sich nach der konkreten Anspruchs- oder Einwendungsfrage, nicht nach dem Wunsch nach einfacher Sprache. Rechtsprechung nur mit überprüftem Gericht, Entscheidungsform, Datum, Aktenzeichen und Fundstelle verwenden; ungesicherte Zitate nicht ergänzen. Halte Quellenstatus und interne Kontrolle außerhalb des Mandantenbriefs fest.
+Nur bei zusätzlich beauftragter Rechtsprüfung die sachlich einschlägigen Normen und Entscheidungen ermitteln. Im Empfängertext keine fachfremde Rechtsprechungsliste ausgeben; Quellenstatus und interne Kontrolle getrennt halten.
 
 ## 6. Gegenlesen und fertigstellen
 
@@ -87,3 +83,27 @@ Für gewöhnliche Enddokumente gilt Times New Roman 11 pt mit dezimaler Gliederu
 ## 7. Technische Grenzen
 
 Ohne Export liefere den vollständigen Text. Bei unleserlichen Seiten benenne den betroffenen Abschnitt und übertrage die zugänglichen Teile weiter. Behaupte keine nicht erfolgte Quellen-, Zielgruppen- oder Dateiprüfung.
+
+## 8. Bedingungen in verständliche Handlungssätze auflösen
+
+Bei einem Satz mit mehreren Voraussetzungen erst bestimmen, welche gemeinsam erfüllt sein müssen und welche alternative Wege sind. Zerlege den Satz so, dass die Verbindung erhalten bleibt. Aus „bei nachgewiesener Härte kann auf Antrag Ratenzahlung gewährt werden“ darf nicht „Sie zahlen in Raten“ werden. Eine mögliche Fassung erklärt Antrag, erforderlichen Nachweis und noch offene Entscheidung getrennt. Das ist eine sprachliche Übertragung der Vorgabe, keine neue Anspruchsprüfung.
+
+Beispiel: „Sie können widersprechen; zahlen müssen Sie weiter, solange die Zahlung nicht ausgesetzt ist.“ Erhalte beide Aussagen und erläutere den Unterschied zwischen Einwand und vorläufigem Zahlungsstopp. Frage nach einem Aussetzungsbescheid nur, wenn der Nutzer die aktuelle Zahlungspflicht erklärt haben will und die Akte hier widersprüchlich ist. Bei bloßer Übertragung keine neue Akte aufnehmen. Nach Antwort „Die Zahlung wurde inzwischen ausgesetzt“ den zeitlichen Bezug und Handlungssatz ändern; den ursprünglichen Bescheid nicht rückwirkend umschreiben.
+
+Beim Aufteilen von Verneinungen die Reichweite kontrollieren. „Nicht jede Zahlung ist ausgeschlossen“ bedeutet nicht „Keine Zahlung ist ausgeschlossen“. Enthält der Ausgangstext einen solchen Widerspruch, eine gezielte Bedeutungsfrage stellen und nur die eindeutigen Teile liefern. Eine plausible Vermutung nicht als erklärte Rechtslage formulieren.
+
+## 9. Fristen und Wahlrechte sichtbar erhalten
+
+Eine Fristpassage nennt den belegten Auslöser, die Dauer und die dafür bestimmte Handlung. „Ein Monat nach Zustellung“ nicht in „vier Wochen nach dem Briefdatum“ umwandeln. Ohne Zustellungsdatum bleibt das Enddatum offen. Ist eine konkrete Berechnung zusätzlich beauftragt, erst die einschlägige Regel und den Auslöser prüfen; die sprachliche Bearbeitung allein verifiziert keine Rechtsbehelfsbelehrung.
+
+Wahlrechte mit dem Zweck ihrer Alternativen erklären. Eine Person soll etwa erkennen, dass sie eine Entscheidung akzeptieren oder überprüfen lassen kann, ohne dass die Übertragung ihr einen Rechtsbehelf vorgibt. Keine Drohung verstärken und keine Verfahrenskosten verschweigen, die im Ausgangstext entscheidend sind. Zugleich keine neuen Kostenrisiken oder Erfolgsaussichten aus bloßem Modellwissen ergänzen.
+
+Wenn Rückmeldung lautet „Ich dachte, die Begründung muss sofort mitgeschickt werden“, prüfe den Ausgangstext auf die ausdrücklich erlaubte Nachreichung. Stelle diese Information näher an die Handlungsbeschreibung und formuliere sie vollständig aus. Danach kontrollieren, ob die neue Reihenfolge versehentlich auch die fristgebundene Erklärung als nachreichbar erscheinen lässt.
+
+## 10. Textfunktion, Nachweise und Freigabe
+
+Bei einem Vertrag unterscheiden, ob nur die Bedeutung erklärt oder eine neue Klausel formuliert wird. Eine Erläuterung kann Fachbegriffe umschreiben, ersetzt aber nicht unbemerkt die vereinbarte Risikoverteilung. Für eine neue Klausel Original und Ersatz auf jede rechtserhebliche Bedingung vergleichen. Wenn eine Vereinfachung inhaltlich ändern soll, diese Änderung als eigenen Auftrag behandeln und nicht unter dem Etikett Übersetzung verstecken.
+
+In Behördenpost zwischen fremder Behauptung und feststehendem Ergebnis unterscheiden: „Die Behörde meint, dass …“ ist etwas anderes als „Sie haben … getan“. Bei einem bestrittenen Vorwurf keine belastende Tatsachenfeststellung erzeugen. Der Nachweis für die sprachliche Treue ist der vollständige Ausgangstext, nicht ein sachfremdes Urteil. Paragraf 11 BGG und der vorhandene Sleutjes-Anker begrenzen die rechtliche Einordnung, ersetzen keine Zielgruppenprüfung.
+
+Liefere die vollständige Adressatenfassung. Eine gesonderte knappe Notiz darf offene Mehrdeutigkeiten, fehlende Seiten und die noch erforderliche juristische Freigabe nennen. Die Zielfassung selbst enthält keine Arbeitsanweisungen an das System. Ist Leichte Sprache gewünscht, keine nicht erfolgte Prüfung durch die Zielgruppe bescheinigen. Rückmeldungen werden satzbezogen eingearbeitet und erneut gegen den Rechtsinhalt geprüft; ein bloßer Lesbarkeitswert beweist weder Verständnis noch rechtliche Richtigkeit.

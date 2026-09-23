@@ -1,28 +1,55 @@
 {
   "schema_version": 1,
   "plugin": "forderungsmanagement-klagewerkstatt",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/bgb/__286.html",
       "checked_on": "2026-09-14",
       "supports": "Verbraucherhinweis für Dreißigtageverzug; Mahnung und Ausnahmen sind getrennt zu prüfen."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2007/III_ZR__91-07.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 25.10.2007, III ZR 91/07, Rn. 6–12: Ein einseitiges Zahlungsziel auf einer Rechnung begründet regelmäßig keinen Kalenderverzug; bei Verbrauchern fehlt ohne besonderen Hinweis auch die Wirkung nach Paragraf 286 Absatz 3 BGB. Erst verzugsbegründende Anwaltskosten sind nicht bereits Verzugsschaden. Grenze: Eine Rechnung kann eine eindeutige Mahnung enthalten; vereinbartes oder wirksam nach Paragraf 315 BGB bestimmtes Zahlungsziel bleibt gesondert zu prüfen."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2012/III_ZR_156-12.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 18.04.2013, III ZR 156/12, Rn. 8–16: Bei Wegfall des Klageanlasses vor Rechtshängigkeit sind Kostenantrag nach Paragraf 269 Absatz 3 Satz 3 ZPO und selbständige Kostenforderung nach Rücknahme zu unterscheiden; die prozessuale Kostenregel schließt die Leistungsklage nicht generell aus. Grenze: Kein automatischer materieller Kostenerstattungsanspruch; bereits ergangene Kostenentscheidung nicht bei unveränderter Tatsachenlage durch Gegenentscheidung unterlaufen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__286.html",
+      "checked_on": "2026-09-22",
+      "supports": "Mahnung, Kalenderbestimmung, Verbraucherhinweis und Zugangsregeln für Verzug."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gvg/__23.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aktuelle Wertzuständigkeit des Amtsgerichts bis 10.000 Euro; besondere sachliche Zuständigkeiten gesondert."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Aktuellen Mini vollständig gelesen. Der allgemeine Auftragsvorrang wurde noch durch einen vorgeschriebenen Klageentwurf oder bloße Nachforderung unterlaufen. Die Beweislastmerksätze waren zu pauschal. Redaktionelle Fortsetzungsprüfung, kein Live-Modelltest.",
+    "reason": "Mahnung und Klage beginnen mit einer bereinigten Forderungsrechnung; ein Rechnungsdatum wird nicht ohne Rechtsgrund zum Verzugseintritt. Individuelle Text- und Quellenprüfung, kein Live-Modelltest.",
     "changes": [
-      "Rechnung in das tatsächlich bestellte Dokument überführen; Nachforderung ausdrücklich als Zwischenschritt behandeln.",
-      "Pauschale Beweislast für sämtliche Einwendungen durch konkrete Zuordnung ersetzt."
+      "III ZR 91/07 ersetzt unbestätigte Pauschalanker; Verbraucherhinweis und Kosten der erst verzugsbegründenden Mahnung differenziert.",
+      "III ZR 156/12 begrenzt den Kostenweg nach Erledigung vor Rechtshängigkeit; Rücknahme und materielle Kostenforderung getrennt.",
+      "Anspruchsbezogene Beweisprüfung, Nettoschaden/Bruttopreis, RDG-Kosten und aktuelle Zuständigkeit statt universeller Beweislasttabelle.",
+      "Mahnung, Klage oder Zahlung nach Prozessbeginn wählen. Dateien still lesen, klare Aufträge direkt bearbeiten, Folgeantwort dokumentbezogen umsetzen."
     ],
-    "sha256": "28f0c077bbddb217aa8b3b0c0270fe8f644e51086ef2f4d0297edc05b9278c29"
+    "sha256": "a2209d60489e73448f08a2b61b34475f703ca84f84b44623c9361bf0f6ff9906"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Gesamte Werkstatt einschließlich Praxisrouten gelesen. Vorhandene Übersichten bleiben Auswahlhilfen, keine Pflichtausgaben. Konkrete Widersprüche betrafen Abschluss mit Fragenliste, automatisches Vollstrecken, Klauselbedarf und Mahnverfahren. Paragrafen 688, 689 und 796 ZPO am 18.09.2026 im amtlichen Einzelnormtext gelesen; übrige Quellen nicht erneut verifiziert. Bestehende ausführliche Übersichtsstruktur nicht neu geschrieben; kein Live-Modelltest.",
-    "changes": ["Pflichtausgaben und Fragenlistenabschluss dem bestellten Dokument untergeordnet; Nutzerdateiname priorisiert.", "Widersprüchliche Gesellschafterhaftungsanweisung und pauschalen Bearbeitungsstopp entfernt.", "Klauselbedarf beim Vollstreckungsbescheid nach Paragraf 796 begrenzt und eigenmächtige Vollstreckung ausgeschlossen.", "Auslandszustellung, Verbraucherkreditzinsgrenze und ausschließliche Zuständigkeit des Amtsgerichts Wedding korrigiert."],
-    "sha256": "808e484f89d3d28999878262b64131e68dfeea83f9f055a5642eaf1bde046e63"
+    "reason": "Die Werkstatt für Mahnung, Klage, Mietforderung, Erledigung, Titel und Vollstreckung neu formuliert, ohne diese Wege als Pflichtkaskade auszugeben. Individuelle Text- und Quellenprüfung, kein Live-Modelltest.",
+    "changes": [
+      "III ZR 91/07 ersetzt unbestätigte Pauschalanker; Verbraucherhinweis und Kosten der erst verzugsbegründenden Mahnung differenziert.",
+      "III ZR 156/12 begrenzt den Kostenweg nach Erledigung vor Rechtshängigkeit; Rücknahme und materielle Kostenforderung getrennt.",
+      "Anspruchsbezogene Beweisprüfung, Nettoschaden/Bruttopreis, RDG-Kosten und aktuelle Zuständigkeit statt universeller Beweislasttabelle.",
+      "Teilklagezuordnung, konkrete Beweisangebote, Abnahmevorbehalte, Verfahrenswechsel und vollständiger Ratenvergleich ergänzt."
+    ],
+    "sha256": "15532f30f85908e42c9b683e4da0915c4404abf1de55fc774077d94637bb3c38"
   },
   "selection": {
     "positive": [
@@ -67,5 +94,52 @@
       ],
       "target_skill": "klagefreigabe-belegte-forderung"
     }
-  ]
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "forderungsmanagement-klagewerkstatt/forderungsmanagement-klagewerkstatt-schnellstart.md",
+      "forderungsmanagement-klagewerkstatt/forderungsmanagement-klagewerkstatt-werkstatt.md",
+      "forderungsmanagement-klagewerkstatt/README.md",
+      "quality/evals/forderungsmanagement-klagewerkstatt.json"
+    ],
+    "opening_change": "Offene Hauptforderung, Zinsen und Kosten aus Vertrag, Rechnung, Zahlung und Zugang nachvollziehbar herleiten.",
+    "norms": [
+      "Paragrafen 280, 286 und 288 BGB",
+      "Paragrafen 253 und 269 ZPO",
+      "Paragrafen 13a und 13e RDG",
+      "Paragraf 23 GVG"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 25.10.2007, III ZR 91/07, Rn. 6–12",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2007/III_ZR__91-07.pdf?__blob=publicationFile&v=1",
+        "application": "Ein einseitiges Zahlungsziel auf einer Rechnung begründet regelmäßig keinen Kalenderverzug; bei Verbrauchern fehlt ohne besonderen Hinweis auch die Wirkung nach Paragraf 286 Absatz 3 BGB. Erst verzugsbegründende Anwaltskosten sind nicht bereits Verzugsschaden.",
+        "limit": "Eine Rechnung kann eine eindeutige Mahnung enthalten; vereinbartes oder wirksam nach Paragraf 315 BGB bestimmtes Zahlungsziel bleibt gesondert zu prüfen."
+      },
+      {
+        "citation": "BGH, Urteil vom 18.04.2013, III ZR 156/12, Rn. 8–16",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2012/III_ZR_156-12.pdf?__blob=publicationFile&v=1",
+        "application": "Bei Wegfall des Klageanlasses vor Rechtshängigkeit sind Kostenantrag nach Paragraf 269 Absatz 3 Satz 3 ZPO und selbständige Kostenforderung nach Rücknahme zu unterscheiden; die prozessuale Kostenregel schließt die Leistungsklage nicht generell aus.",
+        "limit": "Kein automatischer materieller Kostenerstattungsanspruch; bereits ergangene Kostenentscheidung nicht bei unveränderter Tatsachenlage durch Gegenentscheidung unterlaufen."
+      }
+    ],
+    "remaining_limits": [
+      "Redaktionelle Akten- und Quellenprüfung, kein Live-Client- oder Modelltest.",
+      "Keine Live-Erprobung der Klage- oder Mahnformulare; spezielle Bauabrechnungen, Landeszuständigkeiten und Vollstreckungsmaßnahmen verlangen Fallprüfung.",
+      "Workflow-Ergänzung am 2026-09-23: individuelle Textprüfung, keine erneute Gesamtverifikation der bestehenden Entscheidungsanker; deren dokumentierte Quellen- und Zugriffsgrenzen bleiben bestehen."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Mahnung, Klage oder Zahlung nach Prozessbeginn wählen.",
+      "Rechnungen und gerichtliche Schreiben still lesen; Saldenklärung oder Verfahrensentwurf anbieten.",
+      "Bestellten Forderungsentwurf ohne erneute Aufnahme schreiben."
+    ],
+    "continuation": "Tilgungszweck -> Saldo und Zinsantrag; Zustellung nach Zahlung -> Rücknahme-/Kostenweg statt schematischer Erledigung.",
+    "enrichment": "Teilklagezuordnung, konkrete Beweisangebote, Abnahmevorbehalte, Verfahrenswechsel und vollständiger Ratenvergleich ergänzt.",
+    "limits": "desk review; no live client execution"
+  }
 }

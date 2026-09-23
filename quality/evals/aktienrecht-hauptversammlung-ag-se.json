@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "aktienrecht-hauptversammlung-ag-se",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/aktg/__118a.html",
@@ -12,16 +12,38 @@
       "url": "https://www.gesetze-im-internet.de/aktg/__243.html",
       "checked_on": "2026-09-14",
       "supports": "Absatz 3 differenziert technische Störungen nach Verschulden und Satzungsmaßstab; Absatz 4 behandelt Informationsrelevanz."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2022/II_ZR_208-22.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 25.03.2025 - II ZR 208/22, Rn. 18, 26, 30 bis 36: Bei nicht börsennotierter AG mit satzungsmäßiger Öffnungsklausel für gleichwertige Nachweise Zuverlässigkeit einer anwaltlichen Verwahrbescheinigung und Zulassung zur Hauptversammlung prüfen. Grenze: Kein allgemeiner Eigentumsnachweis und keine Übertragung der gesetzlichen Nachweisfiktion auf jede Satzung; Präsenzsachverhalt aus 2020, keine Entscheidung über heutige virtuelle Versammlungsrechte."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/aktg/__123.html",
+      "checked_on": "2026-09-22",
+      "supports": "AktG Paragraf 123: Teilnahmevoraussetzungen und gesetzlicher Nachweis börsennotierter Gesellschaften; Satzung nicht ungeprüft gleichsetzen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/aktg/__243.html",
+      "checked_on": "2026-09-23",
+      "supports": "Absatz 3: technische Störung, Verschuldensschwelle und strengerer Satzungsmaßstab; keine Gleichsetzung jeder Organisation mit Technik."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/aktg/__246.html",
+      "checked_on": "2026-09-23",
+      "supports": "Absatz 1: Anfechtung binnen eines Monats nach Beschlussfassung; amtlicher Normtext über Primärquellensuche gelesen."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Vollständige Schlusslektüre bestätigt die konkrete Fortsetzung von Satzungsnachweis und Störungsprotokoll zur angepassten Einladung beziehungsweise zum Leitungsskript; kein weiterer Textwechsel nötig.",
+    "reason": "Der Schnellstart benötigte für den Teilnahmeausschluss einen belastbaren Maßstab statt pauschaler Nachweisbegriffe; II ZR 208/22 ist nun bei der satzungsmäßigen Nachweisprüfung anzuwenden. Individuelle Text- und Primärquellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert.",
     "changes": [
-      "Im ersten Durchgang Nachforderung der Ermächtigung mit anschließender Anpassung der Teilnahmehinweise verbunden.",
-      "Gutachtenauftrag von ungefragter Beschlussmängelklage getrennt; technische Störungen nach betroffener Funktion bearbeitet."
+      "Nachweis eines Aktionärs am Satzungswortlaut und an der Verwahrbescheinigung prüfen.",
+      "Börsennotierte und nicht börsennotierte AG sowie historische Präsenz-HV unterscheiden; virtuelle Rechte bleiben eigenständig.",
+      "Leerstart: Einladung, Leitungsskript oder Beschlussmängelprüfung anbieten. Dateien: Satzung und Versammlungsunterlagen still lesen; passende zwei bis drei Produkte klären. Klarer Auftrag: Gewähltes HV-Dokument unmittelbar ausarbeiten.",
+      "Abgelaufene Ermächtigung sperrt virtuellen Einladungstext; wiederhergestellte Videoanträge führen zu dokumentierter Wiederaufnahme."
     ],
-    "sha256": "4f19d7952aefbda71460ca04594721ab3b802e43bcb14fb72470259a6f73fcba"
+    "sha256": "a1cf4eb076dc5993784e49cccc974d7165bf843967ba3c67f991376583e7a4d9"
   },
   "selection": {
     "positive": [
@@ -69,11 +91,53 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Gesamte Werkstatt einschließlich besonderer Unterlagen und Schlussabschnitte gelesen: Fristen, Legitimation, Auskünfte, Abstimmung und Beschlussmängel führen jeweils zum bestellten Dokument statt zu parallelen Routentabellen.",
+    "reason": "Die Werkstatt enthielt isolierte Entscheidungsnamen. Sie prüft nun Satzungsöffnung, Zuverlässigkeit des Nachweises und Grenzen der gesetzlichen Nachweisfiktion anhand der amtlichen Entscheidung. Individuelle Text- und Primärquellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen.",
     "changes": [
-      "Nachgereichte Veröffentlichungs- und Teilnahmenachweise mit erneuter Fristberechnung und Leitungsanweisung verknüpft.",
-      "Aufsichtsratsbericht, Unternehmensvertrag und Minderheitenverlangen als konkrete Sonderaufträge erhalten; keine fingierte Durchführung oder Einreichung."
+      "Nachweis eines Aktionärs am Satzungswortlaut und an der Verwahrbescheinigung prüfen.",
+      "Börsennotierte und nicht börsennotierte AG sowie historische Präsenz-HV unterscheiden; virtuelle Rechte bleiben eigenständig.",
+      "Satzung zur Einladung, streitiger Teilnahmenachweis, störungsabhängige Ansagen, Verschuldensbelege und Monatsfrist der Anfechtung.",
+      "Abgelaufene Ermächtigung sperrt virtuellen Einladungstext; wiederhergestellte Videoanträge führen zu dokumentierter Wiederaufnahme."
     ],
-    "sha256": "9d73188dda11b08b79cb3c49daed6d750c1735c11aea58555b0aa4f2de0528cd"
+    "sha256": "f45ff7c9ac92538263b3fe04ffbb3254a5482aa7bb4b9abb6f66b45b8d1a2411"
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leerstart: Einladung, Leitungsskript oder Beschlussmängelprüfung anbieten.",
+      "Dateien: Satzung und Versammlungsunterlagen still lesen; passende zwei bis drei Produkte klären.",
+      "Klarer Auftrag: Gewähltes HV-Dokument unmittelbar ausarbeiten."
+    ],
+    "continuation": "Abgelaufene Ermächtigung sperrt virtuellen Einladungstext; wiederhergestellte Videoanträge führen zu dokumentierter Wiederaufnahme.",
+    "enrichment": "Satzung zur Einladung, streitiger Teilnahmenachweis, störungsabhängige Ansagen, Verschuldensbelege und Monatsfrist der Anfechtung.",
+    "limits": "desk review; no live client execution"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "aktienrecht-hauptversammlung-ag-se/README.md",
+      "aktienrecht-hauptversammlung-ag-se/aktienrecht-hauptversammlung-ag-se-werkstatt.md",
+      "aktienrecht-hauptversammlung-ag-se/aktienrecht-hauptversammlung-ag-se-schnellstart.md",
+      "quality/evals/aktienrecht-hauptversammlung-ag-se.json"
+    ],
+    "opening_change": "Einberufung, Teilnahmeberechtigung und Zählung werden unmittelbar auf den Bestand des konkret gefassten HV-Beschlusses bezogen.",
+    "norms": [
+      "AktG Paragraf 123",
+      "AktG Paragraf 118a",
+      "AktG Paragraf 243"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 25.03.2025 - II ZR 208/22, Rn. 18, 26, 30 bis 36",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2022/II_ZR_208-22.pdf?__blob=publicationFile&v=1",
+        "application": "Bei nicht börsennotierter AG mit satzungsmäßiger Öffnungsklausel für gleichwertige Nachweise Zuverlässigkeit einer anwaltlichen Verwahrbescheinigung und Zulassung zur Hauptversammlung prüfen.",
+        "limit": "Kein allgemeiner Eigentumsnachweis und keine Übertragung der gesetzlichen Nachweisfiktion auf jede Satzung; Präsenzsachverhalt aus 2020, keine Entscheidung über heutige virtuelle Versammlungsrechte."
+      }
+    ],
+    "remaining_limits": [
+      "SE-Sonderrecht, Mitbestimmung und einzelne virtuelle Versammlungsrechte nicht umfassend neu verifiziert.",
+      "Desk- und Quellenprüfung; kein Live-Client- oder Live-Modelltest und keine vollständige Neuverifikation sämtlicher vorhandener Quellen.",
+      "Workflow-Anschlussprüfung 23.09.2026: individuelle Text- und Quellenprüfung, keine Live-Client-Ausführung. Frühere Entscheidungsprüfungen und ihre Reichweitengrenzen bleiben unverändert; keine erneute vollständige Rechtsprechungsprüfung behauptet."
+    ]
   }
 }

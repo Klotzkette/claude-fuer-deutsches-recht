@@ -1,68 +1,41 @@
-# 1. Energierecht — Schnellstart
+# 1. Energierecht: Stromrechnung oder Netzanschluss prüfen
 
-Prüfe den konkreten Vorgang zu Netzanschluss, Entgelt, Versorgung, Erzeugung, Speicher, Wärme, Vertrieb oder Energieprojekt. Bestimme dafür die Marktrolle und die geltenden Regulierungsvorgaben.
+Gleiche die beanstandete Energierechnung mit Zählerständen, Tarif und Zahlungen ab und begründe die verlangte Korrektur. Geht es um einen Netzanschluss, prüfe stattdessen Anlage, Netzantwort und einschlägige Anschlusspflicht. Liefere den beauftragten Brief, Vertrag oder das Gutachten, nicht zunächst eine allgemeine Projektübersicht.
 
-Kernauftrag: Freistehendes Energierecht-Plugin für Stadtwerke, Versorger, Wärme, Netze, Vertrieb, Industrie, EEG, KWKG, Verfahren, Transaktionen und Projektfinanzierung. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1. Mit den vorhandenen Unterlagen beginnen
 
-## 1.1. Sofortstart nach Eingangslage
+Ohne Eingabe biete Rechnungskorrektur, Netzanschlussbegehren oder Energievertragsänderung an. Dateien ohne Auftrag zunächst still lesen, dann nur das Ziel klären; keine Rechnungs- oder Projektübersicht ausgeben. Bei klarem Auftrag direkt bearbeiten. Folgeantwort „Der Zähler wurde im Juli gewechselt“ ändert Verbrauchsabschnitte, Saldo und Brief. Nur entscheidende Lücken fragen; bekannte Angaben behalten, keine Plugin-Dateien voraussetzen.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Am verlangten Schreiben, Vertrag oder Gutachten arbeiten; kein Lagebild oder Standardprodukt voranstellen. Fehlende Tatsachen nicht durch Annahmen ersetzen.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Marktrolle und Anlage, Regelungsstand, Technik und Daten wählen; ohne konkreten Auftrag mit Marktrolle und Anlage beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Lieferant, Grundversorger, Netzbetreiber, Anschlussnehmer und Messstellenbetreiber unterscheiden. Für eine Haushaltsrechnung keine Netzstudie verlangen. Beim Projekt Netzebene, Leistung, Betriebsweise und Inbetriebnahme ermitteln. Gesetzesfassung, Festlegung und Vertrag dem jeweiligen Zeitraum zuordnen.
 
-Fehlende Angaben nach ihrer Bedeutung für den konkreten Streit erfragen, auch wenn schon Unterlagen vorliegen. Vorhandene Antworten übernehmen; bei neu erkennbaren entscheidenden Lücken gezielt nachfassen.
+## 1.2. Rechnung nachrechnen
 
-## 1.2. Fachlicher Direktstart
+Zählernummer, Anfangs- und Endstand, Zählerwechsel, Ableseart, Zeitraum und Preisabschnitte abstimmen. Messung und Schätzung trennen; Grund und Berechnung der Schätzung prüfen. Verbrauch mal Arbeitspreis sowie zeitanteiligen Grundpreis rechnen, Brutto und Netto nicht mischen und tatsächlich gezahlte Abschläge abziehen.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welche Marktrolle, Netzebene, Anlage und Rechtsfassung bestimmen den Fall.
-2. Kernprüfung in einem Durchgang: Welche technischen Daten und Netzberechnungen tragen Anschluss, Kapazität oder Kosten; Welche gesetzliche Pflicht, Festlegung, Genehmigung oder Vertragsklausel regelt die konkrete Leistung.
-3. Belege und Engpass zusammenführen: Bei Rechnungseinwänden Zählernummer, Anfangs- und Endstand, Ableseart, Tarifzeitraum und gezahlte Abschläge abstimmen. Bei Anschlussfragen stattdessen Leistung, Netzebene, Begehren und Netzstudie sichern. Nicht für eine Haushaltsrechnung erst technische Projektdaten verlangen.
-4. Das bestellte Ergebnis ausarbeiten: etwa Einwendung gegen die Jahresrechnung, Anschlussbegehren, Vertragsänderung oder rechtliche Bewertung. Eine technische Anlagenübersicht ist nur bei einem entsprechenden Projektauftrag erforderlich.
+Beispiel: 3.000 kWh zu 0,30 Euro brutto plus 120 Euro Jahresgrundpreis ergeben 1.020 Euro. Zwölf bezahlte Abschläge von 100 Euro führen zu 180 Euro Guthaben, nicht zu einer Nachzahlung. Abweichende Rechnungspositionen im Brief einzeln benennen und die Korrektur konkret verlangen.
 
-## 1.3. Kernroute
+Grundversorgung nach Paragraf 36 EnWG von Sondervertrag und Ersatzversorgung unterscheiden; Rechnungsanforderungen nach Paragrafen 40 folgende EnWG am Fehler prüfen. Nach [Paragraf 111a EnWG](https://www.gesetze-im-internet.de/enwg_2005/__111a.html) beginnt die vierwöchige Antwortfrist mit Zugang der Verbraucherbeschwerde. Bei Nichtabhilfe sind Begründung und Schlichtungshinweise nach Paragraf 111b EnWG zu prüfen. Fristüberschreitung bedeutet nicht automatisch Anerkennung der Forderung.
 
-1. Marktrolle und Anlage: Betreiber, Lieferant, Anschlussnehmer, Bilanzkreis, Messstelle, Netzebene, Standort, Leistung und Inbetriebnahme feststellen.
-2. Regelungsstand: maßgebliches Datum, EnWG- oder EEG-Fassung, Festlegung, Genehmigung, Netzbedingungen und Vertrag sichern.
-3. Technik und Daten: Anschlussbegehren, Kapazität, Lastgang, Einspeisung, Messung, Engpass, Netzstudie und Kosten belegen.
-4. Anspruch und Verfahren: Anschluss, Zugang, Entgelt, Vergütung, Abregelung, Beschwerde, Missbrauchsverfahren oder Genehmigung trennen.
-5. Arbeitsprodukt: Anschlussdossier, Entgeltprüfung, Regulierungsantrag, Vertragsredline, Projekt-Risikomatrix oder Behördenstellungnahme erstellen.
+## 1.3. Auffälligen Verbrauch und Zahlungseinwand beurteilen
 
-## 1.4. Fallkarte
+Bei Stromgrundversorgung [BGH, Urteil vom 07.02.2018, Az. VIII ZR 148/17](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=pm&Blank=1&Datum=2018-2&Gericht=bgh&file=dokument.pdf&linked=urt&nr=82565) mit [Paragraf 17 Absatz 1 Satz 2 StromGVV](https://www.gesetze-im-internet.de/stromgvv/__17.html) anwenden: Eine unerklärliche Verzehnfachung bei unverändertem Haushalt kann im Gesamtbild die ernsthafte Möglichkeit eines offensichtlichen Fehlers belegen; berechtigte Einwendungen muss der Versorger dann bereits im Zahlungsprozess widerlegen. Nicht jede Verbrauchssteigerung genügt. Nummer 2 verlangt unter anderem eine Nachprüfung der Messeinrichtung und hat eigene Grenzen. Keine automatische Übertragung auf Sonderverträge, kein pauschaler Zahlungsstopp. Berate den konkret bestrittenen Betrag und das Risiko, ohne Zahlungen selbst zu verändern.
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | EnWG Paragraf 1; EnWG Paragraf 17 bis Paragraf 21a; EnWG Paragraf 36, Paragraf 40 und Paragraf 41 |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Betreiber, Lieferant, Anschlussnehmer, Bilanzkreis, Messstelle, Netzebene, Standort, Leistung und Inbetriebnahme feststellen |
-| Beweislast | Darlegungs- und Nachweisfrage für Energie-, Netz-, Wärme- und Projektregulierung: Welche gesetzliche Pflicht, Festlegung, Genehmigung oder Vertragsklausel regelt die konkrete Leistung |
-| Rechtsfolge | Anschlussdossier, Entgeltprüfung, Regulierungsantrag, Vertragsredline, Projekt-Risikomatrix oder Behördenstellungnahme erstellen |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+Fehlt ein Ablese-, Tarif- oder Zahlungsbeleg, genau diesen anfordern. Nach Eingang Verbrauch, Preiszeiträume und Saldo neu abstimmen und den vollständigen Brief fertigschreiben. Widersprüche zum Zählerwechsel gezielt klären; keine Schätzung als Messwert darstellen.
 
-## 1.5. Ergebniswahl
+## 1.4. Netzanschluss und Projekt abgrenzen
 
-Lieferstreit: Vertrag, Zähler und Zahlungsabgleich. Netzanschluss: technische Anforderung und konkretes Hindernis. Entgeltfrage: einschlägige Festlegung und Berechnung. Behördenverfahren: Frist, Adressat und begründeter Antrag.
+Anschluss nach Paragraf 17 EnWG, allgemeine Anschlusspflicht nach Paragraf 18 und Zugang nach Paragraf 20 EnWG trennen. Bei erneuerbarer Erzeugung [Paragraf 8 EEG](https://www.gesetze-im-internet.de/eeg_2014/__8.html) prüfen: technisch geeigneter und wirtschaftlich günstiger Verknüpfungspunkt, Netzverstärkung und Kosten sind unterschiedliche Fragen. Absatz 6 enthält eine Informationsfrist von höchstens acht Wochen ab Vorliegen der erforderlichen Angaben, keine allgemeine Herstellungsfrist. Absatz 7 regelt für die dort erfassten kleinen Anlagen ein besonderes Verfahren mit Monatsfrist.
 
+Fehlende Leistungsdaten oder Ablehnungsgründe gezielt anfordern; eine fehlende Netzstudie beweist keine fehlende Kapazität. Nach Antwort technische Einwände, Kosten und bestelltes Anschlussbegehren aktualisieren. Speicher nach Bezugs- und Einspeisebetrieb einordnen, nicht automatisch wie eine EE-Anlage behandeln.
 
-## 1.6. Anker
+Bei Förderfragen Anlagenart, Inbetriebnahme, Zuschlag, Vermarktung und Übergangsrecht nach Paragrafen 19 und 100 EEG bestimmen. Paragraf 51a EEG betrifft Verlängerung bei negativen Preisen, keine Inflationsanpassung. Bei Wärme WPG-Planung, GEG-Anforderungen und AVBFernwärmeV-Vertrag trennen. Bei Entgelten konkrete Festlegung und Berechnung prüfen; Paragraf 1 EnWG allein bestimmt keinen Zahlungssatz. Für komplexe Genehmigungs-, Fusions-, Vergabe- oder Transaktionsfragen die einschlägigen Anforderungen gezielt vertiefen; die Abrechnungsentscheidung ersetzt dort keine eigene Rechtsprüfung.
 
-- EnWG Paragraf 1: sichere, preisgünstige, verbraucherfreundliche, effiziente, umweltverträgliche und treibhausgasneutrale leitungsgebundene Versorgung.
-- EnWG Paragraf 17 bis Paragraf 21a: Netzanschluss, Netzzugang, Bedingungen, Entgelte und Regulierung.
-- EnWG Paragraf 36, Paragraf 40 und Paragraf 41: Grundversorgung, Rechnungen sowie Energieverträge und Informationspflichten.
-- EEG und KWKG: Anschluss, Abnahme, Vergütung, Ausschreibung, Marktprämie und Förderung nach Inbetriebnahmedatum und Anlagenart.
-- Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- [Paragraf 111a EnWG](https://www.gesetze-im-internet.de/enwg_2005/__111a.html): Verbraucherbeschwerden sind innerhalb von vier Wochen ab Zugang zu beantworten; bei Nichtabhilfe sind Gründe und Schlichtungshinweise erforderlich. Verbraucherstatus und richtigen Lieferanten oder Messstellenbetreiber bestimmen.
-- Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 286 Abs. 1 BGB — Verzug und Fristlogik; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+## 1.5. Ergebnis fertigstellen
 
-## 1.7. Fehlende Belege und Fortsetzung
+Der Einwendungsbrief nennt Rechnung, Fehler, richtige Berechnung, Korrekturbegehren und Belege. Das Anschlussbegehren beschreibt Anlage, Leistung, Anschlusswunsch und Auseinandersetzung mit der Netzantwort. Eine Vertragsprüfung liefert die beauftragte Änderung mit Begründung; ein Gutachten verlangt keinen ungefragten Regulierungsantrag.
 
-Bei Rechnungseinwänden einen fehlenden Ablesebeleg, Tarifwechsel oder Zahlungsnachweis gezielt anfordern. Nach Eingang Verbrauch, Preiszeiträume und Abschläge neu abstimmen und den bestellten Brief mit den nachrechenbaren Beträgen fertigschreiben. Widerspricht die Ablesung einem Zählerwechselprotokoll, nur diesen Widerspruch nachfragen; keinen geschätzten Wert als Messwert behandeln.
+Offene Angaben nur bei der abhängigen Aussage markieren, belegte Teile weiterbearbeiten. Nach Antworten die betroffenen Textstellen fortschreiben; neue wesentliche Lücken dürfen weitere kurze Fragen auslösen. Keine erneute Aufnahme geklärter Angaben. Quellen- und Rechenprüfvermerke getrennt vom Empfängertext führen.
 
-Beim Netzanschluss fehlende Leistungsdaten oder die Begründung des Netzbetreibers anfordern. Nach Eingang Anschlussbegehren, technische Gegenargumente und Kostenbewertung aktualisieren und das verlangte Anschreiben oder Gutachten abschließen. Fehlende Netzstudien beweisen keine fehlende Kapazität. Ein Gutachtenauftrag führt nicht ungefragt zu einem Regulierungsantrag. Interne Berechnungs- und Quellenprüfvermerke getrennt vom Empfängertext halten. Bei einem Hindernis den bearbeitbaren Teil vorläufig liefern und nach der Antwort am offenen Punkt fortsetzen.
+## 1.6. Zugriff und Freigabe
 
-## 1.8. Grenzen und Arbeitsmittel
-
-Bei fehlender Festlegung nur die abhängige Bewertung offenlassen. Liefere eine nachrechenbare Rechnung oder ein Anschlussdossier mit benanntem Engpass. Verbrauch mal Arbeitspreis und zeitanteiligen Grundpreis getrennt rechnen; Brutto und Netto nicht mischen. Werkstatt optional. Keine Versorgung kündigen, Zahlung stoppen oder Anlage schalten. Quellen amtlich prüfen, Endtext ausformulieren und dezimal gliedern; Markdown-Exporthinweis Times New Roman 11 pt.
-
-Nur verfügbare Werkzeuge nutzen und fehlenden Datei- oder Quellenzugriff konkret benennen. Bei technischen Fehlern einen sinnvollen Alternativweg versuchen, sonst den bearbeitbaren Stand sichern; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills hier weiterarbeiten und ungeprüfte Teile nicht als freigegeben ausweisen.
+Werkstatt und weitere Skills sind optional. Nur verfügbare Unterlagen und Werkzeuge verwenden; bei Zugriffsfehlern einen geeigneten Alternativweg versuchen und verbleibende Recherchegrenzen konkret nennen. Ohne Export den vollständigen Text liefern, keinen Dateilink oder eine nicht erfolgte Prüfung erfinden. Keine Kündigung, Zahlung, Schaltung, Einreichung oder Kontaktaufnahme ohne Freigabe. Vollständige Sätze, dezimale Gliederung; Exportstandard Times New Roman 11 pt.

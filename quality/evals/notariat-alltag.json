@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "notariat-alltag",
-  "reviewed_on": "2026-09-17",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/gmbhg/__53.html",
@@ -22,15 +22,83 @@
       "url": "https://www.gesetze-im-internet.de/zpo/__800.html",
       "checked_on": "2026-09-14",
       "supports": "Dingliche Unterwerfung gegen den jeweiligen Grundstückseigentümer und Eintragung, keine automatische persönliche Mitschuld."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2012/III_ZR_121-12.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 07.02.2013, III ZR 121/12, Randnummern 17 bis 25: Entscheidende Gründe gelesen: sachlicher Verkürzungsgrund und anderweitiger Übereilungsschutz erforderlich; ohne diese Voraussetzungen vorzeitige Beurkundung ablehnen. Grenze: Haftungsfall, keine automatische Vertragsnichtigkeit; kein allgemeines Zweiwochengebot für jede notarielle Erklärung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/beurkg/__17.html",
+      "checked_on": "2026-09-22",
+      "supports": "Amtlicher Wortlaut geprüft: Absatz 2a Satz 2 Nummer 2: Verbrauchergrundstücksgeschäft, regelmäßige zweiwöchige Vorbereitungszeit und Angabe der Verkürzungsgründe in der Niederschrift."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__53.html",
+      "checked_on": "2026-09-22",
+      "supports": "Amtlicher Wortlaut geprüft: Satzungsänderung durch Gesellschafterbeschluss, gesetzliche Dreiviertelmehrheit und notarielle Beurkundung; Satzungsverschärfungen gesondert prüfen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gbo/__72.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlicher Wortlaut: Oberlandesgericht entscheidet über die Grundbuchbeschwerde."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gbo/__18.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlicher Wortlaut: Hindernisse und Zwischenverfügung; Absatz 2 ist keine allgemeine Fristverlängerung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/umwg_1995/__17.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlicher Wortlaut: Anmeldeunterlagen und Achtmonatsgrenze der Schlussbilanz."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gnotkg/__19.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlicher Wortlaut: mitgeteilte Kostenberechnung in Textform mit Pflichtangaben."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwg_2017/__16a.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlicher Wortlaut: Verbot und Nachweisobliegenheiten nach Absatz und Transaktion differenziert; keine pauschale 10000-Euro-Freigabe."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__1820.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlicher Wortlaut: besondere Anforderungen an Vollmachten für bestimmte Maßnahmen."
+    },
+    {
+      "url": "https://www.bmjv.de/DE/themen/vorsorge_betreuungsrecht/patientenverfuegung/Anmerkungen_Urteil_BGH.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtliche Erläuterung zu XII ZB 61/16: Konkretisierung der Behandlungssituation und Maßnahmen; kein neu geprüfter Entscheidungsvolltext."
+    },
+    {
+      "url": "https://www.hcch.net/en/instruments/conventions/specialised-sections/apostille",
+      "checked_on": "2026-09-23",
+      "supports": "Offizielle Erläuterung: Apostille ersetzt Legalisation; elektronische Apostille nicht allein wegen ihres Formats ablehnen."
     }
   ],
   "mini_review": {
-    "verdict": "retained",
-    "reason": "Am 18. September vollständig erneut gelesen. Alle sieben Vorgangswege bleiben eigenständig; fehlende persönliche Haftungsvorgabe oder Einzahlung führt zur konkreten Nachfrage und Aktualisierung der betroffenen Erklärungen. Notarielle Amtshandlungen werden nicht aus Dokumenten fingiert. Keine neue Quellenverifikation oder Live-Modellprüfung.",
-    "changes": [],
-    "sha256": "683b784dc7997ac2cf53fe28f2dc9731078ee74a8545a21d5333699dcb12f252"
+    "verdict": "revised",
+    "reason": "Fachbezogene Startvarianten, gezielte Rückfragen und Fortsetzung bis zur vollständigen notariellen Vorlage individuell geprüft; kein Live-Modelltest.",
+    "changes": [
+      "Eindeutiger Auftrag beginnt unmittelbar; leerer Start und Ordner ohne Auftrag erhalten konkrete Auswahlfragen.",
+      "Nach Bankantwort, Identitätsnachweis oder Kapitalzahlung nur betroffene Teile aktualisieren.",
+      "Bestandskauf ohne Baupflicht vom Bauträger-Ratenplan abgegrenzt; vollständige Entwürfe statt technischer Ausgabeetiketten verlangt."
+    ],
+    "sha256": "bb891185a269f3151269198565d0d2e502c10648f885cfbeeabd7aeb47e66790"
   },
-  "workshop_review": {"verdict":"retained","reason":"Am 18. September gesamten Text gelesen. Formwege, Beteiligtenrollen, Grundschuldhaftung, Kapitalaufbringung und bedingte Anteilsübertragung bleiben getrennt. Abschnitt 11 führt nach Zahlungs- oder Banknachweis zur fertigen Vorlage und erklärt seine Tabelle ausdrücklich nicht zum Pflichtvorspann. Kein widersprechender Abbruch oder erneutes Vollinterview gefunden.","changes":[],"sha256":"ddff7c977423bca68fa8d0efaf2639ab4a93032b08f61ea43eaf76497da97573"},
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Fachbezogene Startvarianten, gezielte Rückfragen und Fortsetzung bis zur vollständigen notariellen Vorlage individuell geprüft; kein Live-Modelltest.",
+    "changes": [
+      "Eindeutiger Auftrag beginnt unmittelbar; leerer Start und Ordner ohne Auftrag erhalten konkrete Auswahlfragen.",
+      "Nach Bankantwort, Identitätsnachweis oder Kapitalzahlung nur betroffene Teile aktualisieren.",
+      "Werkstatt um Umwandlung, familiäre Übertragung, Auslandsurkunden, Vorsorge, Kosten und Registerhindernisse vertieft."
+    ],
+    "sha256": "d2f45eaefaa9a4e494e0c1d3ec9cb560170eeff4e8bc1981c6c9bdb212e1b5d7"
+  },
   "selection": {
     "positive": [
       "Bereite die Grundschuldbestellung aus Bankauftrag und Eigentümerangaben vor.",
@@ -73,6 +141,347 @@
         }
       ],
       "target_skill": "grundschuld-buchgrundschuld-treuhand"
+    },
+    {
+      "id": "parkhof-entwurf-und-sonderwunsch",
+      "request": "Bereite aus den beigefügten Unterlagen zum Erwerb der Wohnung im Parkhof eine gezielte Rückfrage des Notariats an Vertrieb und Erwerber vor. Die vorhandenen Informationen sollen nicht nochmals abgefragt werden. Schreibe die Rückfrage vollständig in ergebnis.md und halte nur die für den Vertragsentwurf noch entscheidenden offenen Punkte fest.",
+      "input_files": [
+        "testakten/notariat-bautraegerkauf-parkhof-potsdam/01_objektunterlagen.docx",
+        "testakten/notariat-bautraegerkauf-parkhof-potsdam/02_baubeschreibung.docx",
+        "testakten/notariat-bautraegerkauf-parkhof-potsdam/03_beteiligte.txt",
+        "testakten/notariat-bautraegerkauf-parkhof-potsdam/04_grundbuch_rueckfrage.txt",
+        "testakten/notariat-bautraegerkauf-parkhof-potsdam/05_kaeufer.eml",
+        "testakten/notariat-bautraegerkauf-parkhof-potsdam/06_vertrieb.eml",
+        "testakten/notariat-bautraegerkauf-parkhof-potsdam/07_notariat.eml",
+        "testakten/notariat-bautraegerkauf-parkhof-potsdam/08_technische_antwort.eml"
+      ],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Erfasst Wohnung und Stellplatz mit insgesamt 504000 Euro; macht aus der unverbindlichen Küchenänderung keinen vereinbarten Mehrpreis.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Trennt den geplanten Termin von der Bereitstellung eines notariellen Entwurfs und den noch offenen Verbraucheranforderungen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Fordert die konkret fehlende Plan-, Preis- und Freistellungsgrundlage an, statt Vertragsbestand oder Fälligkeit zu erfinden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "bautraegervertrag-mabv-familiengesellschaft"
+    },
+    {
+      "id": "erfurt-bankantwort-fortschreiben",
+      "request": "Die Bank hat auf die Rückfrage zur Grundschuldbestellung geantwortet; alle vorhandenen Unterlagen und Antworten liegen bei. Führe die Vorbereitung für Thomas und Nora Groß fort. Erstelle in ergebnis.md die erforderliche konkrete Banknachfrage und einen knappen Vorlagevermerk für den Notar, ohne die Beteiligten erneut vollständig zu interviewen.",
+      "input_files": [
+        "testakten/notariat-grundschuld-bankauftrag-erfurt/01_bankauftrag.docx",
+        "testakten/notariat-grundschuld-bankauftrag-erfurt/02_eigentuemerbrief.docx",
+        "testakten/notariat-grundschuld-bankauftrag-erfurt/03_grundbuchdaten.txt",
+        "testakten/notariat-grundschuld-bankauftrag-erfurt/04_telefonnotiz.txt",
+        "testakten/notariat-grundschuld-bankauftrag-erfurt/05_abloesebank.eml",
+        "testakten/notariat-grundschuld-bankauftrag-erfurt/06_bankrueckfrage.eml",
+        "testakten/notariat-grundschuld-bankauftrag-erfurt/07_bankantwort.eml",
+        "testakten/notariat-grundschuld-bankauftrag-erfurt/08_termin.eml"
+      ],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Trennt Darlehen 340000 Euro, Grundschuld 360000 Euro und persönliche Haftung; beide Miteigentümer sind nicht automatisch Darlehensnehmer.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Behandelt Noras Ablehnung und die fehlende Bankänderung als ungelöst, statt einen Haftungsverzicht der Bank anzunehmen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Berücksichtigt Ablösestichtag und Tageszinsen aus dem Nachweis, ohne unbekannte Zahlung oder Freigabe zu behaupten.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "grundschuld-buchgrundschuld-treuhand"
+    },
+    {
+      "id": "hannover-unterschrift-anerkennen",
+      "request": "Bereite aus den Unterlagen zu Anna Brandts Genehmigung das vollständige Terminanschreiben in ergebnis.md vor. Ihre Unterschrift wurde bereits zu Hause geleistet. Erläutere nur die für diesen Termin tatsächlich erforderlichen Schritte und Nachweise und berücksichtige die noch unvollständige Namensdokumentation.",
+      "input_files": [
+        "testakten/notariat-unterschriftsbeglaubigung-hannover/01_anfrage_notariat.docx",
+        "testakten/notariat-unterschriftsbeglaubigung-hannover/02_genehmigungstext.docx",
+        "testakten/notariat-unterschriftsbeglaubigung-hannover/03_personalien.txt",
+        "testakten/notariat-unterschriftsbeglaubigung-hannover/04_telefonnotiz.txt",
+        "testakten/notariat-unterschriftsbeglaubigung-hannover/05_kundin.eml",
+        "testakten/notariat-unterschriftsbeglaubigung-hannover/06_terminantwort.eml",
+        "testakten/notariat-unterschriftsbeglaubigung-hannover/07_vollzug.eml",
+        "testakten/notariat-unterschriftsbeglaubigung-hannover/08_bruder.eml"
+      ],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Bezeichnet die Anerkennung einer vorhandenen Unterschrift vor dem Notar als möglichen Weg, statt zwingend eine Neuunterschrift zu verlangen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Ordnet Anna Brandt und den bisherigen Namen Seidel anhand des noch zu belegenden Namenswechsels zu, ohne den Originalnachweis als vorhanden auszugeben.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Liefert ein versandfertig formuliertes Terminanschreiben als Entwurf, ohne Beglaubigung oder persönliche Identitätsfeststellung zu fingieren.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "formweg-beurkundung-beglaubigung"
+    },
+    {
+      "id": "rostock-gruendungswunsch",
+      "request": "Erstelle aus dem Rostocker Kundenordner die nächste Beteiligtennachricht zur Gründung der Küstenlot Service GmbH in ergebnis.md. Kläre die noch erforderliche Entscheidung zur Satzung und bereite die Fortsetzung mit vorhandenen Anteils- und Geschäftsführerangaben vor. Wiederhole keinen allgemeinen Gründungsfragebogen.",
+      "input_files": [
+        "testakten/notariat-gmbh-gruendung-rostock/01_gruenderwunsch.docx",
+        "testakten/notariat-gmbh-gruendung-rostock/02_geschaeftsdaten.docx",
+        "testakten/notariat-gmbh-gruendung-rostock/03_anteilsplan.txt",
+        "testakten/notariat-gmbh-gruendung-rostock/04_telefonnotiz.txt",
+        "testakten/notariat-gmbh-gruendung-rostock/05_bank.eml",
+        "testakten/notariat-gmbh-gruendung-rostock/06_geschaeftsfuehrer.eml",
+        "testakten/notariat-gmbh-gruendung-rostock/07_vermieter.eml",
+        "testakten/notariat-gmbh-gruendung-rostock/08_notariat.eml"
+      ],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Schließt das Musterprotokoll nicht allein wegen des Fremdgeschäftsführers aus; behandelt individuelle Zustimmungsvorgaben als konkrete Gestaltungsfrage.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Hält vier beabsichtigte Anteile und 25000 Euro Stammkapital auseinander und verändert die Stückelung nicht stillschweigend.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Unterscheidet geplante Einzahlung 12500 Euro, Kontoeröffnung und wirklichen Zahlungseingang; keine falsche Registerversicherung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "gmbh-gruendung-gesellschafterliste"
+    },
+    {
+      "id": "ulm-kapital-und-organwechsel",
+      "request": "Bereite in ergebnis.md den ausformulierten Beschlussentwurf und die noch notwendige gezielte Unterlagenanforderung zur Falkensteg Sensorik GmbH vor. Verarbeite Kapitalerhöhung und vorgesehenen Geschäftsführerwechsel gemeinsam, aber mit ihren jeweils zutreffenden Erklärungen und Zeitpunkten. Keine bereits vollzogenen Handlungen unterstellen.",
+      "input_files": [
+        "testakten/notariat-kapitalerhoehung-geschaeftsfuehrer-ulm/01_auftrag_gesellschaft.docx",
+        "testakten/notariat-kapitalerhoehung-geschaeftsfuehrer-ulm/02_satzungsauszug.docx",
+        "testakten/notariat-kapitalerhoehung-geschaeftsfuehrer-ulm/03_anteilsbestand.txt",
+        "testakten/notariat-kapitalerhoehung-geschaeftsfuehrer-ulm/04_zahlungsnotiz.txt",
+        "testakten/notariat-kapitalerhoehung-geschaeftsfuehrer-ulm/05_investorin.eml",
+        "testakten/notariat-kapitalerhoehung-geschaeftsfuehrer-ulm/06_gesellschafterin.eml",
+        "testakten/notariat-kapitalerhoehung-geschaeftsfuehrer-ulm/07_notariat.eml",
+        "testakten/notariat-kapitalerhoehung-geschaeftsfuehrer-ulm/08_buchhaltung.eml"
+      ],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Rechnet 25000 Euro auf 35000 Euro Stammkapital; 10000 Euro Nennbetrag und 40000 Euro Aufgeld werden nicht als 50000 Euro Kapitalerhöhung behandelt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Trennt Beschluss, Übernahme, Zahlung, Eintragung und den vorgesehenen Geschäftsführerwechsel am 10. Oktober.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Erkennt die ausstehende Zahlung und unvollständige Satzungsgrundlage; fragt gezielt nach und unterstellt keinen Einberufungsverzicht.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "kapitalerhoehung-beschluss-register"
+    },
+    {
+      "id": "bremen-finanzierung-abstimmen",
+      "request": "Formuliere anhand des Bremer Ordners eine vollständige Abstimmungsnachricht zur Erwerbsfinanzierung an Bank und Beteiligte in ergebnis.md. Sie soll den nächsten sachlich notwendigen Schritt ermöglichen. Keine allgemeine Abhandlung über Anteilskauf und keine ungeprüfte Zusage einer notariellen Verwahrung erstellen.",
+      "input_files": [
+        "testakten/notariat-anteilsuebertragung-verpfaendung-bremen/01_verkaeuferauftrag.docx",
+        "testakten/notariat-anteilsuebertragung-verpfaendung-bremen/02_bankbedingungen.docx",
+        "testakten/notariat-anteilsuebertragung-verpfaendung-bremen/03_gesellschaftsdaten.txt",
+        "testakten/notariat-anteilsuebertragung-verpfaendung-bremen/04_gespraechsnotiz.txt",
+        "testakten/notariat-anteilsuebertragung-verpfaendung-bremen/05_kaeuferin.eml",
+        "testakten/notariat-anteilsuebertragung-verpfaendung-bremen/06_mitgesellschafterin.eml",
+        "testakten/notariat-anteilsuebertragung-verpfaendung-bremen/07_bankrueckfrage.eml",
+        "testakten/notariat-anteilsuebertragung-verpfaendung-bremen/08_bankstand.eml"
+      ],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Erfasst die konkrete Zirkularität zwischen Zahlung vor Abtretung und Auszahlung erst nach wirksamem Erwerb samt Pfand.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Verwendet 168000 Euro Kaufpreis, 120000 Euro Finanzierung und 48000 Euro Eigenmittel konsistent, ohne Eigenmittel als bereits gezahlt auszugeben.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Unterscheidet Zustimmung zum Verkauf und zur Verpfändung; erklärt eine positive Mitgesellschafternachricht nicht automatisch zum formgerechten Beschluss.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "gmbh-anteile-uebertragen-verpfaenden"
+    },
+    {
+      "id": "waldwinkel-verfahren-entflechten",
+      "request": "Bearbeite den Kundenordner Waldwinkel für die nächste Vorlage an den Notar. Erstelle in ergebnis.md eine gezielte Nachforderung an die Beteiligten und einen kurzen internen Vermerk zu den tatsächlich offenen Register- und Vollzugspunkten. Gesellschaft, Grundstück und Erbfall müssen unterscheidbar bleiben; keine allgemeine Zusammenfassung jedes Aktenstücks liefern.",
+      "input_files": [
+        "testakten/notariat-alltag-waldwinkel-gmbh-immobilien-erbfall/01-notariat-einladung-beurkundungstermin.docx",
+        "testakten/notariat-alltag-waldwinkel-gmbh-immobilien-erbfall/02-entwurf-anteilskauf-und-abtretung.docx",
+        "testakten/notariat-alltag-waldwinkel-gmbh-immobilien-erbfall/03-email-eva-falk-vollmacht-kurier.eml",
+        "testakten/notariat-alltag-waldwinkel-gmbh-immobilien-erbfall/04-registergericht-zwischenverfuegung.docx",
+        "testakten/notariat-alltag-waldwinkel-gmbh-immobilien-erbfall/05-gesellschafterliste-rohdaten.csv",
+        "testakten/notariat-alltag-waldwinkel-gmbh-immobilien-erbfall/06-grundbuch-bestandsdaten.csv",
+        "testakten/notariat-alltag-waldwinkel-gmbh-immobilien-erbfall/07-weserland-bank-finanzierungsbestaetigung.docx",
+        "testakten/notariat-alltag-waldwinkel-gmbh-immobilien-erbfall/08-notariat-auskunftsersuchen-wirtschaftlich-berechtigte.docx",
+        "testakten/notariat-alltag-waldwinkel-gmbh-immobilien-erbfall/09-dolmetscherin-bestaetigung-und-personalien.docx",
+        "testakten/notariat-alltag-waldwinkel-gmbh-immobilien-erbfall/10-email-bank-auszahlungsvoraussetzungen.eml",
+        "testakten/notariat-alltag-waldwinkel-gmbh-immobilien-erbfall/11-aktennotiz-telefonat-eva-falk.docx",
+        "testakten/notariat-alltag-waldwinkel-gmbh-immobilien-erbfall/12-email-nachforderung-register-und-trustunterlagen.eml",
+        "testakten/notariat-alltag-waldwinkel-gmbh-immobilien-erbfall/13-entwurf-grundstueckskaufvertrag.docx",
+        "testakten/notariat-alltag-waldwinkel-gmbh-immobilien-erbfall/14-notariat-vollzugsmitteilung-grundbuchunterlagen.docx",
+        "testakten/notariat-alltag-waldwinkel-gmbh-immobilien-erbfall/15-nachlassgericht-eroeffnungsniederschrift.docx",
+        "testakten/notariat-alltag-waldwinkel-gmbh-immobilien-erbfall/16-kaufpreis-zahlungsdaten.csv",
+        "testakten/notariat-alltag-waldwinkel-gmbh-immobilien-erbfall/17-kuriersendung-verlauf-vollmacht.csv",
+        "testakten/notariat-alltag-waldwinkel-gmbh-immobilien-erbfall/18-email-anwalt-dorn-einziehung.eml"
+      ],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Gleicht 100000 Euro Stammkapital mit den vorhandenen Anteilsdaten und der Einziehungsfrage ab, ohne fehlende Anteile eigenmächtig zuzuteilen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Unterscheidet eingegangenen Scan, Kurierstand, Originalvollmacht und notwendigen Vertretungsnachweis; fingiert keinen Originaleingang.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Verbindet Erbnachweis, Grundstück und Bankvorgaben nur soweit belegt und liefert eine konkrete Nachforderung statt einseitiger Vollzugsfreigabe.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "kaltstart-triage"
     }
-  ]
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-23",
+    "files": [
+      "notariat-alltag/notariat-alltag-werkstatt.md",
+      "notariat-alltag/notariat-alltag-schnellstart.md",
+      "notariat-alltag/README.md",
+      "quality/evals/notariat-alltag.json"
+    ],
+    "opening_change": "Konkrete notarielle Vorlage beginnen oder zwischen fallbezogenen Bearbeitungswegen wählen lassen; keine ungefragte Ordnerzusammenfassung.",
+    "norms": [
+      "BeurkG Paragraf 17 Absatz 2a Satz 2 Nummer 2",
+      "BNotO Paragraf 19 Absatz 1",
+      "GmbHG Paragraf 53 Absätze 2 und 3",
+      "GBO Paragrafen 18, 35, 40 und 72",
+      "UmwG Paragrafen 17, 20 und 202",
+      "GNotKG Paragraf 19",
+      "BGB Paragrafen 1816, 1820 und 1827"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 07.02.2013, III ZR 121/12, Randnummern 17 bis 25",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2012/III_ZR_121-12.pdf?__blob=publicationFile&v=1",
+        "application": "Entscheidende Gründe gelesen: sachlicher Verkürzungsgrund und anderweitiger Übereilungsschutz erforderlich; ohne diese Voraussetzungen vorzeitige Beurkundung ablehnen.",
+        "limit": "Haftungsfall, keine automatische Vertragsnichtigkeit; kein allgemeines Zweiwochengebot für jede notarielle Erklärung."
+      }
+    ],
+    "remaining_limits": [
+      "Desk-/Quellenprüfung, keine beobachtete Ausführung in einem Live-Client.",
+      "III ZR 121/12 am 22. September in den tragenden Gründen geprüft; erneuter Abruf am 23. September gesperrt. XII ZB 61/16 anhand amtlicher Erläuterung, kein neu gelesener Volltext.",
+      "Keine umfassende Neuverifikation sämtlicher notarieller Spezialmaterien; konkrete Verwendung erfordert aktuelle Einzelfallprüfung."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Ohne Material nach Immobilien-, Gesellschafts- oder Beglaubigungsvorgang und gewünschter Vorlage fragen.",
+      "Bei Ordner ohne Auftrag anhand der Korrespondenz zwischen Entwurf, Nachforderung und Vollzug wählen lassen.",
+      "Bei klarem Urkunden- oder Anmeldeauftrag ohne erneutes Aufnahmeinterview beginnen."
+    ],
+    "continuation": "Bankantwort, Namensnachweis oder Kapitalzahlung nur in den betroffenen Urkunden-, Listen- und Vollzugsteilen nachführen; bis zur vollständigen Vorlage arbeiten.",
+    "enrichment": "Umwandlung, Nachlassgrundstück, familiäre Übertragung, Auslandsnachweise, Vorsorge, Kosten und Zwischenverfügung vertieft; 131 überlappende Skills zu 20 mit zentralem Hauptworkflow zusammengeführt.",
+    "limits": "Individuelle Text- und Quellenprüfung sowie vorbereitete Ergebnisfälle; kein beobachteter Live-Client-Test und keine Garantie automatischer Skillauswahl."
+  }
 }

@@ -1,10 +1,10 @@
-# 1. Juristische Zitate verifizieren und vereinheitlichen
+# 1. Deutsche juristische Zitierweise: Belege verifizieren und vereinheitlichen
 
-Prüfe den Belegapparat des vorgelegten Textes und liefere eine korrigierte Fassung mit Quellenprotokoll. Vorrang hat die tatsächliche Belegbarkeit, nicht die elegante Ergänzung fehlender Daten. Dieses Mini enthält die erforderlichen Hausregeln selbst; weitere Referenzen oder Skills sind nur optional. Die Hauszitierweise ist eine Dokumentkonvention, keine allgemein verbindliche Rechtsnorm.
+Gleiche jede zitierte Norm und Entscheidung mit der Aussage ab, die sie belegen soll. Korrigiere falsche Identifikatoren, ungeeignete Randnummern und uneinheitliche Schreibweisen im vorgelegten Text. Liefere die bereinigte Fassung samt getrenntem Quellenprotokoll; fehlende Nachweise nicht aus Erinnerung vervollständigen. Die Hauszitierweise ist eine Konvention, keine Rechtsnorm.
 
 ## 1.1. Text und Prüfauftrag
 
-Lies den vollständigen zu prüfenden Text einschließlich Fußnoten, Quellenliste und mitgelieferter Auszüge. Kläre, ob nur die Form vereinheitlicht oder auch die inhaltliche Tragfähigkeit der Belege geprüft werden soll. Ein reiner Formatcheck darf nicht als Vollverifikation bezeichnet werden. Fehlen Text oder Quellen vollständig, eine gebündelte Rückfrage stellen; sonst mit den vorhandenen Belegen beginnen.
+Bei leerer Eingabe biete Fußnotenkorrektur im Schriftsatz, Belegprüfung im Gutachten oder Bereinigung historischer Literaturzitate an. Dateien ohne Aufgabe still einschließlich Fußnoten und Auszügen lesen; nur bei unklarem Ziel zwei oder drei passende Wege anbieten, keine Materialschau. Bei klarem Auftrag sofort bearbeiten und nur entscheidende Unbekannte klären. Formkontrolle und inhaltliche Prüfung unterscheiden; ein Formatcheck ist keine Vollverifikation.
 
 Erfasse jedes Zitat mit Position, zu belegender Aussage, Quellenart, vorhandenen Identifikatoren und Prüfstatus. Gleiche Mehrfachnennungen ab, ohne unterschiedliche Entscheidungen mit ähnlichen Aktenzeichen zusammenzuführen. Ein neueres Veröffentlichungsdatum ist nicht das Entscheidungsdatum.
 
@@ -16,19 +16,27 @@ Amtliche Entscheidung, amtlicher Leitsatz, gerichtliche Pressemitteilung, redakt
 
 Belege die Aussage so eng wie die Quelle reicht. Prüfprogramm, Parteivortrag, Vorinstanz und eigene tragende Erwägung des Gerichts auseinanderhalten. Unpassende Belege entfernen oder die Aussage einschränken; keine fehlenden Parallelfundstellen, Datenbanknummern oder Randnummern ergänzen. Unverifizierbares erhält einen konkreten Prüfvermerk, nicht eine scheinbar vollständige Zitierung.
 
+Belegt ein Urteil statt „stets zulässig“ nur eine Abwägungsanforderung, ändere bei Inhaltsauftrag den Satz und seine Fußnote zusammen. Bei bloßem Formatauftrag den Sachfehler gesondert melden. Eine nachgereichte Passage kann auch gegen die gewünschte These sprechen; dann die Einschränkung einarbeiten. Ein aufgehobenes Urteil nicht als bestätigte Sachentscheidung zitieren. Nach Änderungen „ebenda“, Kurzbelege und Ergebnisabsatz abgleichen.
+
 ## 1.3. Normen und Literatur
 
 Gesetzeszitate mit Gesetz, Paragraf beziehungsweise Artikel und erforderlichem Absatz, Satz oder Nummer angeben. Paragraf ausschreiben. Bei historischen Sachverhalten maßgebliche Fassung und Stichtag prüfen; aktuelle Fassung nicht stillschweigend rückprojizieren. Ein Änderungsentwurf ist keine geltende Norm.
 
 Kommentare, Monografien und Aufsätze nur mit tatsächlich vorliegendem Auszug oder legitimem Live-Zugriff inhaltlich bestätigen. Autor beziehungsweise Bearbeiter, Werk, Auflage, Jahr und genaue Stelle am Material abgleichen. Einen historischen Werktitel nicht mechanisch durch einen heutigen Titel ersetzen. Ein Titelwechsel berechtigt nicht dazu, eine andere Auflage oder deren Randnummer zu erfinden.
 
+Ein belegter alter Palandt-Auszug bleibt historische Literatur dieser Auflage. Soll er heutiges Recht stützen, kläre den aktuellen Nachweis; soll er eine damalige Auffassung dokumentieren, erhalte den historischen Bezug. Nach Antwort Fußnote und Aussage entsprechend ändern. Abgabetermine aus dem Auftrag erfassen, keine gesetzliche Zitatprüffrist erfinden. Bei Zeitdruck tragende Belege vor Typografie prüfen und offene Stellen konkret ausweisen.
+
 Bei Materialien Herausgeber, Titel, Datum oder Stand, Dokumentnummer und genaue Seite beziehungsweise Gliederungsstelle nennen. Internetquellen erhalten konkreten Seitentitel, verantwortliche Stelle, URL und soweit sinnvoll Abrufdatum. Eine bloße Startseite ersetzt nicht den Beleg für eine konkrete Aussage.
 
 ## 1.4. Hausstil und Ergebnis
 
+Bei wörtlicher Literaturübernahme Paragrafen 51 und 63 UrhG prüfen. EuGH, Urteil vom 29.07.2019, [C-516/17, Spiegel Online](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:62017CJ0516), Randnummern 78 bis 83 und 89: Zitatzweck, Verbindung zur eigenen Aussage, Umfang und rechtmäßige Veröffentlichung sind eigenständige Fragen. Eine korrekte Fußnote rechtfertigt nicht jede Übernahme. Amtliche Entscheidungen und amtliche Leitsätze nach Paragraf 5 Absatz 1 UrhG von redaktionellen Kommentaren unterscheiden; daraus folgt kein gesetzlicher Fußnotenstil.
+
 Innerhalb des Dokuments konsequent dieselbe Form verwenden: vierstelliges Jahr, übliche Gerichtskürzel, Aktenzeichenmarker Az., Zeitschriftenkürzel grundsätzlich ohne Punkt. Bei Zeitschriftenfundstellen nach dieser Hausregel kein zusätzliches S. vor der Seite; bei Dokumentseiten darf S. die Fundstelle verdeutlichen. Ein vgl. nur verwenden, wenn tatsächlich ein vergleichender oder mittelbarer Beleg gemeint ist.
 
 Mehrere Entscheidungen nach Gerichtsebene und innerhalb derselben Ebene nach Datum absteigend oder begründet nach Relevanz ordnen. Die gewählte Reihenfolge ist keine Aussage über universelle Bindungswirkung. Nur Belege aufnehmen, die zur konkreten Aussage beitragen.
+
+Endtexte vollständig ausformulieren, dezimal mit Leerzeilen gliedern und bei formatierter Ausgabe Times New Roman 11 pt verwenden. Bei Textausgabe den Formatwunsch getrennt nennen.
 
 Fehlt der konkrete Kommentarauszug oder die gemeinte Entscheidungsfassung, frage nach genau dieser Quelle. Nach Eingang Metadaten und Aussagebezug abgleichen, das betroffene Zitat korrigieren und die bestellte Textfassung abschließen. Neue entscheidende Widersprüche dürfen weitere kurze Rückfragen erfordern; eine schon geklärte Quellenzuordnung nicht erneut abfragen.
 

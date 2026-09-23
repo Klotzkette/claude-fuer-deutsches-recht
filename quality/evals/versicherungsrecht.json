@@ -1,8 +1,157 @@
 {
- "schema_version":1,"plugin":"versicherungsrecht","reviewed_on":"2026-09-18",
- "sources":[{"url":"https://www.gesetze-im-internet.de/vvg_2008/__28.html","checked_on":"2026-09-14","supports":"Absätze 2 bis 4: Verschuldensabstufung, Kausalität, Arglistausnahme und gesonderte Belehrung bei nachträglichen Auskunfts- oder Aufklärungsobliegenheiten."}],
- "mini_review":{"verdict":"retained","reason":"Vollständig gelesen: Fehlende Belehrung oder Schadengutachten führen zu gezielter Nachfrage und danach zur aktualisierten Kausalitätsprüfung, Rechnung und Endfassung. Vertragsbedingungen werden nicht durch Muster ersetzt; Quote und Abzugsreihenfolge benötigen konkrete Grundlage. Kein weiterer Textänderungsbedarf.","changes":[],"sha256":"c76759e6f0b18f686b51bdf157056d3f0649f4da0532b97ed117cb6cab4fa704"},
- "workshop_review":{"verdict":"retained","reason":"Vollständig gelesen: Deckung, Haftpflicht und Vermittlerhaftung sind getrennt, neue Befund- oder Zahlungsangaben führen zur Anpassung der betroffenen Leistung und des bestellten Schreibens. Die Spartenabschnitte erzwingen keinen zusätzlichen Prozess; Freigabe betrifft die externe Handlung, nicht die interne Fertigstellung.","changes":[],"sha256":"4f40d68f3bd3fdc8296cc14f95513cb3f6f8eff56c2fed7635fd1c8324021aa7"},
- "selection":{"positive":["Prüfe die 50-Prozent-Kürzung wegen verspäteter Schadenunterlagen.","Erstelle ein Deckungsmemo aus Police, Bedingungen und Ablehnung."],"negative":["Erstelle eine reine versicherungsaufsichtliche Solvabilitätsberechnung.","Prüfe ausschließlich den Haftpflichtanspruch gegen den Unfallverursacher ohne Deckungsfrage."]},
- "cases":[{"id":"fragebogen-ohne-belehrung","request":"Schreibe ergebnis.md zur Hausratregulierung. Versicherter Einbruch und Schaden von 12000 Euro sind unstreitig; kein Selbstbehalt, keine Grenze. Die vereinbarten Bedingungen enthalten eine Auskunftsobliegenheit und Leistungsfolgen. Der nach dem Einbruch übersandte Fragebogen wurde zwei Wochen zu spät zurückgesandt. Der Versicherer kürzt allein deswegen um 50 Prozent wegen grober Fahrlässigkeit. Eine gesonderte Rechtsfolgenmitteilung gab es nach vollständiger Korrespondenzprüfung nicht. Polizeifotos und Inventarliste lagen schon am ersten Tag vollständig vor; Versicherer bestätigt, dass die Verspätung seine Feststellungen nicht beeinflusst hat. Arglist wird nicht behauptet. Prüfe die Kürzung und den geforderten Betrag, versende nichts.","input_files":[],"deliverables":["ergebnis.md"],"criteria":[{"id":"C01","text":"Prüft die fehlende gesonderte Belehrung für die nachträgliche Auskunftsobliegenheit und behandelt die AVB-Klausel nicht als ihren Ersatz.","deliverables":["ergebnis.md"]},{"id":"C02","text":"Prüft zusätzlich die belegte fehlende Ursächlichkeit nach Absatz 3 und erwähnt die gesonderte Arglistgrenze statt nur Verschulden zu diskutieren.","deliverables":["ergebnis.md"]},{"id":"C03","text":"Lehnt die allein hierauf gestützte Kürzung ab und stellt 12000 Euro Ausgangsanspruch den angebotenen 6000 Euro gegenüber, ohne eine 50-Prozent-Standardquote zu erfinden.","deliverables":["ergebnis.md"]}],"target_skill":"vvg-obliegenheit-28-quotelung-kausalitaet"}]
+  "schema_version": 1,
+  "plugin": "versicherungsrecht",
+  "reviewed_on": "2026-09-23",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/vvg_2008/__14.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlicher Volltext gelesen: Fälligkeit nach Abschluss notwendiger Erhebungen; Abschlag auf voraussichtliche Mindestleistung nach einem Monat ab Anzeige, mit Hemmung bei vom Versicherungsnehmer verschuldeter Verzögerung. Anwendung auf Abschlagsforderung statt ungeprüfter Vollzahlungsforderung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vvg_2008/__15.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlicher Volltext gelesen: Hemmung nach Anspruchsanmeldung bis zum Zugang der Versichererentscheidung in Textform; Briefdatum und Zugang im konkreten Fristvermerk trennen. Keine neue allgemeine Klagefrist."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vvg_2008/__28.html",
+      "checked_on": "2026-09-23",
+      "supports": "Nach Web-Timeout amtlichen Volltext per Direktabruf gelesen: konkrete Obliegenheit, Verschulden und Beweislast nach Absatz 2, Kausalität und Arglist nach Absatz 3, Belehrung nach Absatz 4 getrennt. Keine neue Volltextverifikation der vorhandenen BGH-Anker."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vvg_2008/__28.html",
+      "checked_on": "2026-09-14",
+      "supports": "Absätze 2 bis 4: Verschuldensabstufung, Kausalität, Arglistausnahme und gesonderte Belehrung bei nachträglichen Auskunfts- oder Aufklärungsobliegenheiten."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vvg_2008/__28.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aktueller amtlicher Normtext zur Prüfung von Paragraf 28 Absatz 2 bis 4 VVG. Diese URL belegt nicht Artikel 2 und Artikel 30 Verordnung (EU) 2022/2554; keine Gesamtverifikation sämtlicher Nebenmaterien."
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2013&Gericht=bgh&Sort=1&anz=3204&nr=62935&pos=29",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 09.01.2013, IV ZR 197/11: Deutlich hervorgehobene Belehrung im Fragebogen kann gesonderte Mitteilung sein; Originalgestaltung anfordern und eigenständig würdigen. Grenze/Prüftiefe: Amtliche Leitsätze 1 und 2 gelesen, Volltextabruf gescheitert; AVB allein genügen nicht, Belehrung beweist weder Verschulden noch Kausalität."
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=pm&Blank=1&Datum=2011-6&Gericht=bgh&file=dokument.pdf&linked=urt&nr=57104",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 22.06.2011, IV ZR 225/10: Bei besonders schwerer grober Fahrlässigkeit kann Paragraf 81 Absatz 2 VVG ausnahmsweise vollständige Kürzung tragen. Grenze/Prüftiefe: Amtlicher Leitsatz; Alkohol-Fahruntüchtigkeit individuell würdigen, nicht auf jede verspätete Auskunft übertragen."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32016R0679",
+      "checked_on": "2026-09-22",
+      "supports": "Artikel 9 Absatz 1 und Absatz 2 Buchstaben a und f amtlich gelesen: Gesundheitsdatenverbot und konkrete Ausnahmen durch ausdrückliche Einwilligung oder erforderliche Anspruchsverfolgung/-abwehr. Keine unbeschränkte Beschaffungserlaubnis und kein Ersatz der Schweigepflichtprüfung."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Am 23.09.2026 vollständig individuell nachgelesen: fachliche Einstiege für leere Eingabe, Dateien und klaren Auftrag ergänzt; konkrete Beweisverlustfrage führt zur geänderten Erwiderung. Police, Belehrungslayout, Kausalität und Restforderung samt begrenztem BGH-Anker erhalten. Desk-Review, kein Live-Modelltest.",
+    "changes": [
+      "Layout der Rechtsfolgenbelehrung als Beweisfrage ergänzt; gesonderte Mitteilung nicht mit separatem Blatt gleichgesetzt; DORA nur im einschlägigen Anwendungsbereich.",
+      "Kernfall mit operativem Entscheidungsanker, gezielten Nachfragen und Fortsetzung zum vollständigen angeforderten Dokument.",
+      "Stillen Dateieinstieg und drei konkrete Dokumentwege ergänzt; nachträgliches Gutachten verändert Beweisargument und Erfolgseinschätzung statt nur den Sachstand."
+    ],
+    "sha256": "1ea0f857154593e13bc87d75ef00dc525084bb05b971c32d7c70643e766d03a7"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Am 23.09.2026 vollständig individuell nachgelesen: Kürzungserwiderung aus konkretem Beweisverlust, Abschlagsforderung und Verjährungsstand sowie BU-Leistungsbrief nach Tätigkeits- und Befundabgleich ausgebaut. Vorhandene Fachzweige und begrenzte Entscheidungsreichweite erhalten; neue Normen amtlich gelesen. Desk-Review, kein Live-Modelltest.",
+    "changes": [
+      "Layout der Rechtsfolgenbelehrung als Beweisfrage ergänzt; gesonderte Mitteilung nicht mit separatem Blatt gleichgesetzt; DORA nur im einschlägigen Anwendungsbereich.",
+      "Vorhandene Fachzweige, Beispiele und Zugriffsalternativen erhalten; schwache Rechtsprechungshinweise entfernt oder auf belegte Reichweite begrenzt.",
+      "Gesundheitsdaten: konkrete Ausnahmen nach Artikel 9 Absatz 2 Buchstaben a und f DSGVO statt pauschalem Datenschutzverweis.",
+      "Gegenbeweise, nachgereichtes Belehrungslayout, Abschlag nach Paragraf 14 VVG, Zugang nach Paragraf 15 VVG und veränderte Berufstätigkeit in konkrete Dokumentfortsetzung eingebunden."
+    ],
+    "sha256": "47d394c24b7239af2be4aa13cae6ddb635383bf7294b5e016ae53d3ce894f610"
+  },
+  "selection": {
+    "positive": [
+      "Prüfe die 50-Prozent-Kürzung wegen verspäteter Schadenunterlagen.",
+      "Erstelle ein Deckungsmemo aus Police, Bedingungen und Ablehnung."
+    ],
+    "negative": [
+      "Erstelle eine reine versicherungsaufsichtliche Solvabilitätsberechnung.",
+      "Prüfe ausschließlich den Haftpflichtanspruch gegen den Unfallverursacher ohne Deckungsfrage."
+    ]
+  },
+  "cases": [
+    {
+      "id": "fragebogen-ohne-belehrung",
+      "request": "Schreibe ergebnis.md zur Hausratregulierung. Versicherter Einbruch und Schaden von 12000 Euro sind unstreitig; kein Selbstbehalt, keine Grenze. Die vereinbarten Bedingungen enthalten eine Auskunftsobliegenheit und Leistungsfolgen. Der nach dem Einbruch übersandte Fragebogen wurde zwei Wochen zu spät zurückgesandt. Der Versicherer kürzt allein deswegen um 50 Prozent wegen grober Fahrlässigkeit. Eine gesonderte Rechtsfolgenmitteilung gab es nach vollständiger Korrespondenzprüfung nicht. Polizeifotos und Inventarliste lagen schon am ersten Tag vollständig vor; Versicherer bestätigt, dass die Verspätung seine Feststellungen nicht beeinflusst hat. Arglist wird nicht behauptet. Prüfe die Kürzung und den geforderten Betrag, versende nichts.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Prüft die fehlende gesonderte Belehrung für die nachträgliche Auskunftsobliegenheit und behandelt die AVB-Klausel nicht als ihren Ersatz.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Prüft zusätzlich die belegte fehlende Ursächlichkeit nach Absatz 3 und erwähnt die gesonderte Arglistgrenze statt nur Verschulden zu diskutieren.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Lehnt die allein hierauf gestützte Kürzung ab und stellt 12000 Euro Ausgangsanspruch den angebotenen 6000 Euro gegenüber, ohne eine 50-Prozent-Standardquote zu erfinden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "vvg-obliegenheit-28-quotelung-kausalitaet"
+    }
+  ],
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Deckungsmemo zur Police, Anspruchsschreiben gegen Kürzung oder konkrete Schadenbelegnachforderung anbieten.",
+      "Dateien: Police, Schadenmeldung und Ablehnung still lesen; nur bei offenem Ziel passende Dokumentwege anbieten.",
+      "Klarer Auftrag: sofort Deckung und Restbetrag bearbeiten; nur entscheidende Klausel-, Belehrungs- oder Beweislücken nachfragen."
+    ],
+    "continuation": "Nachgereichtes Gutachten oder Belehrungslayout verändert Kausalitätsargument und Anspruchsschreiben; Teilzahlung ändert Restforderung, Tätigkeitsnachweis den BU-Leistungsbrief.",
+    "enrichment": "Beweisverlust nach Reparatur und Entlastung gegen Kürzung, Mindestleistung und Abschlagsforderung, Hemmungsende durch Textformzugang sowie BU-Tätigkeitsvergleich bis zum vollständigen Brief ausgearbeitet; bestehende Spartendifferenzierung erhalten.",
+    "limits": "desk review; no live client execution"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "versicherungsrecht/README.md",
+      "versicherungsrecht/versicherungsrecht-schnellstart.md",
+      "versicherungsrecht/versicherungsrecht-werkstatt.md",
+      "quality/evals/versicherungsrecht.json"
+    ],
+    "opening_change": "Leistungskürzung anhand Police, Belehrung, Kausalität und offener Restforderung prüfen",
+    "norms": [
+      "Paragraf 28 Absatz 2 bis 4 VVG",
+      "Artikel 2 und Artikel 30 Verordnung (EU) 2022/2554",
+      "Artikel 9 Absatz 2 Buchstaben a und f DSGVO"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 09.01.2013, IV ZR 197/11",
+        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2013&Gericht=bgh&Sort=1&anz=3204&nr=62935&pos=29",
+        "application": "Deutlich hervorgehobene Belehrung im Fragebogen kann gesonderte Mitteilung sein; Originalgestaltung anfordern und eigenständig würdigen.",
+        "limit": "Amtliche Leitsätze 1 und 2 gelesen, Volltextabruf gescheitert; AVB allein genügen nicht, Belehrung beweist weder Verschulden noch Kausalität."
+      },
+      {
+        "citation": "BGH, Urteil vom 22.06.2011, IV ZR 225/10",
+        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=pm&Blank=1&Datum=2011-6&Gericht=bgh&file=dokument.pdf&linked=urt&nr=57104",
+        "application": "Bei besonders schwerer grober Fahrlässigkeit kann Paragraf 81 Absatz 2 VVG ausnahmsweise vollständige Kürzung tragen.",
+        "limit": "Amtlicher Leitsatz; Alkohol-Fahruntüchtigkeit individuell würdigen, nicht auf jede verspätete Auskunft übertragen."
+      }
+    ],
+    "remaining_limits": [
+      "Desk- und Quellenprüfung, kein Live-Client- oder Modelltest; übrige Fachzweige nicht vollständig rechtlich neu verifiziert.",
+      "Amtliche Leitsätze 1 und 2 gelesen, Volltextabruf gescheitert; AVB allein genügen nicht, Belehrung beweist weder Verschulden noch Kausalität."
+    ]
+  }
 }

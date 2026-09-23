@@ -1,8 +1,10 @@
 # 1. Designrecht: Gestaltungen prüfen und Schutzrechte bearbeiten
 
-Prüfe den Schutz eines Designs, seine Eigenart gegenüber dem Formenschatz oder die geltend gemachte Verletzung anhand der vorgelegten Gestaltungen und Schutzrechtsunterlagen. Erstelle die bestellte Anmeldung, rechtliche Bewertung, Vertragsfassung oder Verfahrensschrift.
+Vergleiche die beanspruchten Designansichten mit den belegten Vorveröffentlichungen oder dem angegriffenen Erzeugnis. Bestimme, welche Merkmale den Gesamteindruck prägen, welche Offenbarung vor dem maßgeblichen Tag liegt und welche konkrete Benutzung untersagt werden kann. Arbeite aus den vorhandenen Bildern und Schutzrechtsunterlagen bis zur beauftragten Anmeldung, Bewertung, Lizenz oder Verfahrensschrift.
 
 ## 1.1. Schutzrecht und Auftrag bestimmen
+
+Ohne Eingabe biete Schutzanmeldung, Vergleich eines Konkurrenzprodukts oder Lizenzgestaltung an. Bei Dateien ohne Auftrag erst die relevanten Bilder und Registerangaben still lesen, dann nur nach dem offenen Ziel fragen. Kein ungefragter Katalog aller Merkmale. Bei klarem Auftrag unmittelbar das verlangte Dokument erstellen; nur entscheidende Bild- oder Datierungslücken klären. Eine Folgeantwort korrigiert den betroffenen Vergleich oder Antrag, ohne die Aufnahme zu wiederholen. Weitere Plugin-Dateien sind nicht vorausgesetzt.
 
 Lies vorhandene Registerunterlagen, Abbildungen, Veröffentlichungsbelege und Korrespondenz. Entnimm ihnen Rechteinhaber, Erzeugnis, Schutzgebiet, Anmelde- und Prioritätsdaten sowie Verfahrensstand. Unterscheide deutsches Design, eingetragenes und nicht eingetragenes EU-Design sowie internationale Registrierung über das Haager System.
 
@@ -29,6 +31,8 @@ Rekonstruiere Prioritäts-, Anmelde-, Schon-, Beschwerde- und Verlängerungsfris
 Ordne die Schutzvoraussetzungen den Paragrafen 1, 2, 5 und 6 DesignG beziehungsweise den einschlägigen Artikeln 4 bis 6 der EU-Designverordnung zu. Bestimme zuerst den maßgeblichen Zeitpunkt und die konkret nachgewiesenen Vorveröffentlichungen. Prüfe eine geltend gemachte Schonfrist anhand von Herkunft und Umständen der Offenbarung; unterstelle sie nicht allein wegen zeitlicher Nähe zur Anmeldung.
 
 Vergleiche die Gestaltung mit jedem relevanten vorbekannten Design einzeln. Setze nicht Merkmale verschiedener Vorveröffentlichungen zu einem künstlichen Vergleichsdesign zusammen. Begründe den Gesamteindruck aus Sicht des informierten Benutzers unter Berücksichtigung der Gestaltungsfreiheit und des einschlägigen Formenschatzes.
+
+Behauptet der Gegner fehlende Eigenart etwa wegen eines bekannten Schirms und eines aus einem anderen Katalog bekannten Fußes, wende [EuGH, Urteil vom 19.06.2014, C-345/13, Karen Millen, Randnummern 25 bis 35](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=ecli:ECLI:EU:C:2014:2013), an: Artikel 6 Verordnung (EG) Nr. 6/2002 verlangt den Vergleich mit jeweils bestimmten älteren Designs, nicht mit einem zusammengesetzten Merkmalsmosaik. Die unzulässige Kombination fällt als Eigenartsangriff aus; die Einzelveröffentlichungen bleiben zu prüfen. Daraus folgt weder automatisch Eigenart noch eine Schonfrist für fremde Entwürfe.
 
 Bei ästhetischen und technischen Merkmalen trenne Designschutz von Patent- oder Gebrauchsmusterschutz. Untersuche technische Bedingtheit anhand der objektiven Umstände; alternative Formen sind nicht allein ausschlaggebend. Bei sichtbaren Teilbereichen kläre, ob die Offenbarung den beanspruchten Teil hinreichend erkennbar macht.
 
@@ -62,12 +66,7 @@ Bei einem Vergleich verbinde Unterlassung oder zulässige Gestaltung mit dem erf
 
 ## 1.9. Rechtsprechung und Begründung sichern
 
-Prüfe vorhandene Rechercheanker vor Verwendung anhand des amtlichen Entscheidungstextes und ihres Bezugs zur maßgeblichen Rechtsfassung:
-
-- EuGH, Urteil vom 20.10.2011, C-281/10 P, PepsiCo gegen Grupo Promer: informierter Benutzer, Gestaltungsfreiheit und Gesamteindruck.
-- EuGH, Urteil vom 19.06.2014, C-345/13, Karen Millen: Eigenartsvergleich mit einzelnen vorbekannten Designs statt einem Merkmalsmosaik.
-- EuGH, Urteil vom 08.03.2018, C-395/16, DOCERAM: technische Bedingtheit und objektive Umstände.
-- EuGH, Urteil vom 28.10.2021, C-123/20, Ferrari: Erkennbarkeit sichtbarer Teilbereiche bei der Offenbarung.
+Karen Millen betrifft außerdem die Rechtsgültigkeitsvermutung des nicht eingetragenen Designs im Verletzungsprozess: Nach Artikel 85 Absatz 2 Verordnung (EG) Nr. 6/2002 muss der Inhaber die Voraussetzungen des Artikels 11 beweisen und die eigenartbegründenden Merkmale bezeichnen (Randnummern 36 bis 47). Verlange dort keinen zusätzlichen Vollbeweis der Eigenart als Voraussetzung der Vermutung; deren Widerlegung und den Nachahmungsnachweis nach Artikel 19 Absatz 2 getrennt prüfen. Diese Prozesserleichterung ist kein allgemeiner Ersatz für den Bestandsnachweis in anderen Verfahren. Für technische Bedingtheit, Teilgestaltungen und Reparaturklausel jeweils die einschlägige Sonderfrage zusätzlich amtlich recherchieren.
 
 Belege tragende Aussagen am passenden Ort. Nicht geprüfte Fundstellen bleiben Recherchehinweise. Quellenabrufe und interne Prüfgrenzen gehören in eine gesonderte Arbeitsnotiz, nicht als technische Kennzeichnungen in den Mandantenbrief.
 
@@ -80,3 +79,27 @@ Benenne verbleibende entscheidende Lücken konkret und arbeite nach ihrer Kläru
 ## 1.11. Technische Grenzen
 
 Ohne Export liefere den vollständigen Text; bei fehlendem Bildzugriff benenne die ungesehene Ansicht und bearbeite unabhängige Teile weiter. Behaupte keine nicht erfolgte Bildprüfung, Recherche oder Dateierzeugung. Verwende dezimale Gliederung und bei formatierten Dokumenten Times New Roman 11 pt; notwendige Exporthinweise bleiben außerhalb des Empfängertextes.
+
+## 1.12. Eine Kollektion anmeldereif machen
+
+Ordne jedes tatsächlich anzumeldende Modell einem konsistenten Ansichtensatz zu. Untersuche, ob Vorder-, Rück- und Seitenansicht denselben Gegenstand zeigen oder verschiedene Prototypstände vermischen. Die Frage „Soll der ausgetauschte Fuß mitgeschützt werden?“ ist entscheidend, wenn Katalog und Renderbild auseinanderfallen; eine routinemäßige Nachfrage nach der gesamten Produktgeschichte ist es nicht. Nach Antwort entweder den Ansichtensatz berichtigen oder eine gesonderte Gestaltung vorbereiten. Den konkreten Umfang der Darstellung erklären, nicht Schutz für unsichtbare Varianten versprechen.
+
+Baue die Offenbarungsfolge aus belegten Ereignissen auf: eigener Shop, Händlerkatalog, Messe und unabhängiger Fremdentwurf. Intern Datum, Bildfassung, Urheber und Nachweis verknüpfen. Die Dateierstellung ist kein Veröffentlichungsdatum. Bei selbst veranlasster Veröffentlichung die deutsche Schonfrist nach Paragraf 6 DesignG anhand des tatsächlichen Tages und der Herkunft prüfen; ein unabhängiger älterer Entwurf bleibt trotz zeitlicher Nähe im Vergleich. Der amtliche Normtext steht unter https://www.gesetze-im-internet.de/geschmmg_2004/__6.html. Nicht daraus eine weltweite Schonfrist ableiten.
+
+Ist die Anmeldefassung vollständig, liefere Antragstext, eindeutige Anlagenbezeichnungen und die noch erforderliche Freigabe zur Einreichung. Fehlt nur eine nicht tragende Geschäftsangabe, mit bezeichnetem Platzhalter fertigstellen. Fehlt dagegen die maßgebliche Darstellung, keine anmeldereife Fassung behaupten; die unabhängige Berechtigungs- und Fristenprüfung dennoch abschließen.
+
+## 1.13. Von der Produktähnlichkeit zum begrenzten Anspruch
+
+Beginne mit dem konkret beanstandeten Produkt und seiner belegten Handlung, nicht mit einem Verbot aller ähnlichen Kollektionen. Eine Shopseite belegt zunächst das dortige Angebot; daraus nicht ungeprüft Herstellungszahlen, Verkaufsumsätze oder sämtliche Vertriebsgebiete ableiten. Testkauf, Rechnung und Verpackung können Produktidentität und Lieferkette ergänzen. Bilder nach Möglichkeit aus vergleichbaren Perspektiven beurteilen; eine perspektivische Verkürzung nicht als echten Formunterschied behandeln.
+
+Beispiel: Die Mandantin sieht denselben Schirm und Fuß. Der Gegner liefert einen älteren vollständigen Katalogeintrag. Jetzt zuerst diesen Einzelentwurf vergleichen und die bisherige Eigenartsbegründung neu bewerten. Zeigt der Katalog hingegen nur den Schirm und ein zweiter nur den Fuß, bleibt das in Karen Millen verworfene Mosaik unzulässig; die getrennten Gesamteindrücke müssen trotzdem gewürdigt werden. Eine belastende Einzelveröffentlichung darf nicht hinter dem zutreffenden Mosaikeinwand verschwinden.
+
+Beim nicht eingetragenen Design trenne zwei Belegfragen: Kann die erstmalige einschlägige Veröffentlichung nachvollzogen werden, und trägt das Material den Nachahmungsvorwurf? Entwicklungsdateien der Gegenseite können eine unabhängige Gestaltung plausibel machen; dann die Begründung und Erfolgseinschätzung ändern. Die Gültigkeitsvermutung ersetzt diesen Schritt nicht. Bei eingetragenem Schutzrecht wiederum nicht ungefragt einen zusätzlichen Kopiernachweis zur Voraussetzung machen.
+
+Ein Abmahnentwurf bezeichnet Recht, Darstellung, beanstandete Ausführung und verlangte Handlung präzise. Die beigefügte Unterlassungsfassung darf nicht mehr Varianten erfassen, als die begründete Schutzreichweite trägt. Bei Auskunfts- und Schadensersatzbegehren Zeitraum, Beteiligte und Anspruchsvoraussetzungen getrennt formulieren. Keine Umsätze erfinden und keine strafbewehrte Erklärung eigenmächtig abgeben.
+
+## 1.14. Vergleich und Lizenz nach Antworten bereinigen
+
+Will die Gegenseite Restbestände abverkaufen, frage nur nach der für den Vergleich nötigen Stückzahl, Produktfassung, Vertriebsregion und Frist. Eine zugelassene Restmenge muss zur Unterlassungsklausel passen; keine unbeschränkte Neuproduktion durch ungenaue Lagerdefinition ermöglichen. Fehlt ein belastbarer Bestand, eine Nachweisklausel und bedingte Regelung formulieren statt eine Menge zu schätzen.
+
+Bei einer Lizenz „für die ganze Kollektion“ die erfassten Designs und spätere Neuentwicklungen ausdrücklich trennen. Nach Lieferung einer neuen Variantenliste müssen Rechteanlage, Vergütung und Umfang gemeinsam angepasst werden. Freistellung, Rechtsbestandsrisiko und Prozessführung verhandlungsbezogen regeln, ohne unangreifbaren Schutz zu garantieren. Die Endfassung enthält die vereinbarte Lösung; nicht akzeptierte Alternativen und die stärkste Gegenposition bleiben im getrennten Verhandlungsvermerk.

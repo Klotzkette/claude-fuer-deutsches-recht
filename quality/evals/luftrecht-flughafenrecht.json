@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "luftrecht-flughafenrecht",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/luftvg/__6.html",
@@ -12,25 +12,69 @@
       "url": "https://www.gesetze-im-internet.de/luftvg/__8.html",
       "checked_on": "2026-09-14",
       "supports": "Planfeststellung und Absatz 4 zur Änderung betrieblicher Regelungen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/luftvg/__6.html",
+      "checked_on": "2026-09-23",
+      "supports": "Aktueller vollständiger Normtext einschließlich Gewichtung des Ausbaus und besonderer Eilantragsfrist in Absatz 6."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/luftvg/__8.html",
+      "checked_on": "2026-09-23",
+      "supports": "Betriebliche Änderung nach Absatz 4 Satz 2 von baulicher Planfeststellung getrennt."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/luftvg/__29b.html",
+      "checked_on": "2026-09-23",
+      "supports": "Besondere Rücksicht auf die Nachtruhe."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/luftfzgg/__99.html",
+      "checked_on": "2026-09-23",
+      "supports": "Volltext: sinngemäße Vollstreckungsregeln, Arrestvollzug und Registerpfandrecht."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zvg/__171b.html",
+      "checked_on": "2026-09-23",
+      "supports": "Volltext: besondere Zuständigkeit und Register für Pfandrechte."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/luftvg/__27.html",
+      "checked_on": "2026-09-23",
+      "supports": "Gefahrgut-Erlaubnisnorm, keine generelle Bestellpflicht eines Gefahrgutbeauftragten."
+    },
+    {
+      "url": "https://www.bverwg.de/040412U4C8.09.0",
+      "checked_on": "2026-09-23",
+      "supports": "Amtliche entscheidende Gründe gelesen: Begrenzung tagähnlicher Spitzen auch in Nachtrandstunden; gesamte künftige Belastung bei dortigem Ausbau, nicht nur rechnerischer Zuwachs. Grenze: Frankfurter Betriebs- und Kontingentkonzept nicht bundesweit übertragbar; kein allgemeines Nachtflugverbot und kein automatischer baulicher Schallschutzanspruch."
     }
   ],
   "mini_review": {
-    "verdict": "retained",
-    "reason": "Mini vollständig schlussgelesen: Betriebsänderung, Prognosevergleich und gezielte Nachforderung führen bereits zum bestellten Dokument; keine pauschalen Register- oder Fristpflichten. Keine neue rechtliche Quellenprüfung und kein Live-Modelltest.",
+    "verdict": "revised",
+    "reason": "Mini individuell um fachbezogene Einstiegswahl, Zulassungskette, gegenläufige Lärmfakten und konkrete Fortschreibung der Einwendung ergänzt. Nachtrandstunden- und Eilrechtsschutzabgrenzung erhalten; kein Live-Modelltest.",
     "changes": [
-      "Bestehende fallbezogene Genehmigungsprüfung und Fortsetzung unverändert beibehalten."
+      "BVerwG 4 C 8.09 Rn. 372 bis 378 mit Betriebszeit, Nachtflugbedarf, Belastungsspitzen und nicht übertragbarem Frankfurter Kontingent verknüpft.",
+      "Luftaufsicht nach Paragraf 29 LuftVG, Gefahrgut-Erlaubnis nach Paragraf 27 und Luftsicherheit sauber getrennt; keine pauschale Gefahrgutbeauftragtenpflicht.",
+      "Vollstreckung nach Paragraf 99 LuftFzgG und Paragrafen 171a ff. ZVG statt pauschaler Sachpfändung; Insolvenzantrag von Eröffnung getrennt.",
+      "Konkrete EU-Artikel für Zulassung, Slots, Drohnen, ACC3 und Instandhaltung ergänzt; Dokument-first, Folgeantworten und fertiges Auftragsdokument erhalten.",
+      "Drei Einstiegswege; neuer Prognoseanhang ersetzt die überholte Fehlstellenrüge im bezeichneten Einwendungspfad."
     ],
-    "sha256": "cdb3085a45a2082b24c71023661565721e8a33b31bcfdf540d3a82d25ae49495"
+    "sha256": "27d6769a1d82d2532832be357692e450e1d6bd1e0e44943e100f7820b622f0f3"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt vollständig gelesen. Ältere Routen widersprachen der fallbezogenen Register-, Lärm- und Fristenprüfung im Mini. Diese Widersprüche gezielt bereinigt; ausführliche Übersichtsstruktur nicht vollständig neu geschrieben. Sonstige Fachhinweise bleiben vor Verwendung am geltenden Recht zu prüfen.",
+    "reason": "Werkstatt vollständig gelesen und bei erhaltenen zwölf Fallbereichen um Bescheidketten, kombinierte Bau-/Betriebsänderungen, Prognosegegenargumente, Sicherheitsnachweise, Triebwerksrechte und dringlichen Arrestsachverhalt vertieft. Desk-Review ohne Live-Ausführung.",
     "changes": [
-      "Lärmwerte und Anspruchsberechtigung nicht mehr pauschal vorgegeben, sondern an Festsetzung und Flugplatzart gebunden.",
-      "Sachfremde Registerpflichten bei Bodenabfertigung, Drohnen und Ersatzteillagern sowie pauschale Rechtsbehelfsfristen entfernt.",
-      "Fehlende Angaben führen zu konkreter Nachforderung und Fortsetzung; bestelltes Dokument statt obligatorischem Dossier oder bloß nächstem Schritt."
+      "BVerwG 4 C 8.09 Rn. 372 bis 378 mit Betriebszeit, Nachtflugbedarf, Belastungsspitzen und nicht übertragbarem Frankfurter Kontingent verknüpft.",
+      "Luftaufsicht nach Paragraf 29 LuftVG, Gefahrgut-Erlaubnis nach Paragraf 27 und Luftsicherheit sauber getrennt; keine pauschale Gefahrgutbeauftragtenpflicht.",
+      "Vollstreckung nach Paragraf 99 LuftFzgG und Paragrafen 171a ff. ZVG statt pauschaler Sachpfändung; Insolvenzantrag von Eröffnung getrennt.",
+      "Konkrete EU-Artikel für Zulassung, Slots, Drohnen, ACC3 und Instandhaltung ergänzt; Dokument-first, Folgeantworten und fertiges Auftragsdokument erhalten.",
+      "Bestandsbescheide und fortgeltende Anlagen gegen bloßen Flugplan abgleichen; Bau- und Betriebsanteile einer kombinierten Änderung bestimmen.",
+      "Leisere Flotte und zeitliche Häufung als gegenläufige Tatsachen prüfen; entkräftete Prognoserügen in der Folgefassung ersetzen.",
+      "Behördlich akzeptierte Sicherheitsabhilfe von interner Maßnahmenliste trennen; Slot-Saison und finanzielle gegenüber technischer Airline-Zulassung abgrenzen.",
+      "Triebwerksidentität und Freigaben getrennt prüfen; Abflugplan nicht als Eigentums- oder Arrestgrundnachweis behandeln und ausländischen Standort beachten."
     ],
-    "sha256": "940dc7222d014db197792f87491fe31fda11fc1d7a135483b97384d9bbc9b680"
+    "sha256": "9bb9ced78c2376f191094744a1365c042656bd19e795dde408cd342295c63090"
   },
   "selection": {
     "positive": [
@@ -75,5 +119,51 @@
       ],
       "target_skill": "flughafen-planfeststellung"
     }
-  ]
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "luftrecht-flughafenrecht/luftrecht-flughafenrecht-schnellstart.md",
+      "luftrecht-flughafenrecht/luftrecht-flughafenrecht-werkstatt.md",
+      "luftrecht-flughafenrecht/README.md",
+      "luftrecht-flughafenrecht/skills/flughafen-planfeststellung/SKILL.md",
+      "luftrecht-flughafenrecht/skills/pfaendung-flugzeug-deutschland/SKILL.md",
+      "quality/evals/luftrecht-flughafenrecht.json"
+    ],
+    "opening_change": "Genehmigten und beantragten Flugplatzbetrieb vergleichen; davon getrennt Luftfahrzeugrechte und Zugriff prüfen.",
+    "norms": [
+      "Paragrafen 6, 8, 27, 29, 29b, 64 LuftVG",
+      "Paragrafen 2, 4, 9 FluglärmG",
+      "Paragraf 99 LuftFzgG",
+      "Paragraf 171b ZVG",
+      "Artikel 3 bis 6 Durchführungsverordnung (EU) 2019/947",
+      "Artikel 9 Verordnung (EG) Nr. 1008/2008"
+    ],
+    "decisions": [
+      {
+        "citation": "BVerwG, Urteil vom 4. April 2012, 4 C 8.09, Rn. 372 bis 378 und 386 bis 388",
+        "url": "https://www.bverwg.de/040412U4C8.09.0",
+        "application": "Amtliche entscheidende Gründe gelesen: Begrenzung tagähnlicher Spitzen auch in Nachtrandstunden; gesamte künftige Belastung bei dortigem Ausbau, nicht nur rechnerischer Zuwachs.",
+        "limit": "Frankfurter Betriebs- und Kontingentkonzept nicht bundesweit übertragbar; kein allgemeines Nachtflugverbot und kein automatischer baulicher Schallschutzanspruch."
+      }
+    ],
+    "remaining_limits": [
+      "Desk-/Quellenprüfung, kein Live-Modelltest. Kernentscheidung anhand maßgeblicher Gründe, nicht alle 456 Randnummern geprüft.",
+      "Kapstadt-Ratifikationen, Flughafenfestsetzungen, technische ICAO/IATA-Originaltexte und alle aktuellen EU-Ausnahmen nicht vollständig verifiziert; fallbezogener Abruf bleibt nötig.",
+      "Gelesene gewöhnliche Skills flughafen-planfeststellung und pfaendung-flugzeug-deutschland außerhalb Schreibbereich: enthalten weiter unzutreffende pauschale Registerlisten, Präklusionsaussagen beziehungsweise Vollstreckungsnormen. README enthält weiter pauschalen Rechtsberatungs-Ausschluss; nicht verändert.",
+      "Nachprüfung am 2026-09-23: Alle Profil-URLs erneut geöffnet. Paragrafen 6, 8 und 29b LuftVG, Paragraf 99 LuftFzgG und Paragraf 171b ZVG vollständig lesbar; BVerwG 4 C 8.09 Rn. 372 bis 378 erneut gelesen. Paragraf 27 LuftVG scheiterte beim erneuten Abruf technisch; früherer Quellenstand erhalten. Keine Vollverifikation aller EU-, Auslands-, Register- und Fachregeltexte, keine Prognoseberechnung oder betriebliche Ausführung."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Flugplatzänderung und Lärm, betriebliche Zulassung und Sicherheit oder Rechte am Luftfahrzeug.",
+      "Dateien ohne Aufgabe: Bescheid, Antrag oder Vertragsakte still lesen und nur das gewünschte Ergebnis klären.",
+      "Klarer Auftrag: unmittelbar Vermerk, Einwendung, Antrag oder Vertragsfassung bearbeiten; nur entscheidende Lücken nachfragen."
+    ],
+    "continuation": "Ergänzter Prognoseanhang verändert im vereinbarten Pfad, beispielsweise verfahren/einwendung.md, die bisherige Fehlstellenrüge zur verbleibenden Flugzeugmix-Inkonsistenz; ein Eröffnungsbeschluss verändert stattdessen luftfahrzeug/herausgabevermerk.md.",
+    "enrichment": "Zulassungskette, kombinierte Maßnahmen, gegenläufige Lärmfakten, vollziehbare Betriebsregelung, nachgewiesene Sicherheitsabhilfe, saisonspezifische Slots, technische und finanzielle Zulassung, Triebwerksrechte und standortbezogener Arrestsachverhalt.",
+    "limits": "desk review; no live client execution"
+  }
 }

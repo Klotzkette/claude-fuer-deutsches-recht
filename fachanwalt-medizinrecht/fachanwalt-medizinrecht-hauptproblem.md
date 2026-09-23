@@ -1,8 +1,10 @@
 # 1. Haushalts- und Pflegefolgen eines Behandlungsfehlers berechnen
 
-Bereite materielle Folgen eines behaupteten Behandlungsfehlers aus Tätigkeitsnachweisen, Rechnungen und Sozialleistungen auf. Liefere eine bezifferte Anspruchs- oder Verteidigungsgrundlage ohne installierte Zusatzmodule. Keine medizinische Diagnose, Vergleichsannahme, Leistungsbeantragung oder Schweigepflichtentbindung eigenmächtig vornehmen.
+Berechne die ausgefallene eigene Haushaltsarbeit und den zusätzlichen persönlichen Pflegebedarf nach dem behaupteten Behandlungsfehler. Gleiche Tätigkeitsnachweise, gemischte Rechnungen und Sozialleistungen so ab, dass keine Hilfestunde doppelt und kein übergegangener Anspruch nochmals für den Patienten verlangt wird. Liefere die beauftragte Anspruchs- oder Verteidigungsgrundlage ohne Zusatzmodule; keine Diagnose oder eigenmächtige Erklärung.
 
 ## 2. Sachverhalt zuerst
+
+Ohne Eingabe biete Stundenrechnung, Rechnungsabgleich oder Anspruchsschreiben an. Dateien ohne Aufgabe still lesen und nur das gewünschte Ergebnis klären. Klare Aufgaben direkt bearbeiten. Auf „Seit Juni geht Einkaufen wieder selbst“ den neuen Zeitabschnitt und Restbedarf prüfen, Rechnung und Zukunftsaussage ändern; keine unveränderte Dauerprognose fortschreiben.
 
 Lies Behandlungszeitachse, Haftungsanerkenntnis oder streitige Anspruchsgrundlage, Gutachten, Haushaltsbeschreibung, frühere Aufgabenverteilung, Hilfsprotokolle, Rechnungen und Bescheide. Erfasse Haushaltspersonen, Wohnfläche, Erwerbstätigkeit, Vorerkrankungen, stationäre Zeiten und Restfähigkeiten. Verarbeite Gesundheitsdaten nur im zugelassenen Mandatskontext.
 
@@ -15,6 +17,8 @@ Gliedere die Zeit nach tatsächlich unterschiedlichen Einschränkungen. Erfasse 
 Rechne je Abschnitt ausgefallene Wochenstunden mal Dauer in Tagen geteilt durch sieben. Prüfe notwendige Umorganisation. Tatsächliche Ersatzkosten anhand erforderlicher belegter Leistungen bestimmen. Unentgeltliche Hilfe oder nicht gedeckten Ausfall mit begründetem fiktivem Nettoansatz bewerten, nicht mit erfundenem Marktlohn. Für dieselbe Stunde nie gleichzeitig Rechnung und fiktive Ersatzkraft ansetzen. Tabellen nur als Orientierung verwenden; abweichende konkrete Angaben zum Haushalt ausdrücklich berücksichtigen.
 
 Erfasse persönliche Hilfe wie Körperpflege, Transfers und notwendige Begleitung getrennt. Maßgeblich ist zusätzlicher Bedarf gegenüber dem Zustand ohne Fehler. Enthält eine Pflegerechnung Reinigung, diese Zeilen dem Haushalt zuordnen und dort nicht nochmals ansetzen. Angehörigenhilfe nicht allein wegen fehlender Rechnung mit Null bewerten; Notwendigkeit, Umfang und Ansatz begründen. Bloße Anwesenheit nicht ohne Weiteres als aktive Pflege abrechnen.
+
+Für eine Schätzung nach Paragraf 287 ZPO konkretisiert BGH, Urteil vom 03.02.2009, VI ZR 183/08, amtlicher Leitsatz, die Grenze der Tabellenverwendung: Ohne abweichende konkrete Gesichtspunkte ist Orientierung zulässig. Bei belegter anderer Aufgabenverteilung diese auswerten, nicht durch einen Tabellenhaushalt ersetzen. Die Entscheidung belegt weder aktuelle Stundenpreise noch den Behandlungsfehler; Quelle und Abrufgrenze stehen unten.
 
 ## 4. Leistungen und Zukunft
 
@@ -40,7 +44,7 @@ Prüfe amtliche Normfassungen und einschlägige Rechtsprechung vor Verwendung; k
 - [Paragraf 287 ZPO](https://www.gesetze-im-internet.de/zpo/__287.html), [Paragraf 116 SGB X](https://www.gesetze-im-internet.de/sgb_10/__116.html) und [Paragraf 630h BGB](https://www.gesetze-im-internet.de/bgb/__630h.html).
 - [BGH, Urteil vom 03.02.2009, Az. VI ZR 183/08](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=47069), amtlicher Leitsatz: Tabellenorientierung beim Haushaltsführungsschaden, soweit keine abweichenden konkreten Gesichtspunkte vorliegen. Kein aktueller Stundensatz und keine spezielle Arzthaftungsentscheidung.
 
-Am 14.09.2026 amtlichen BGH-Suchauszug geprüft; Volltextabruf gesperrt. Keine Randnummer oder umfassende Aktualitätsprüfung behaupten.
+Amtlichen BGH-Leitsatz am 22.09.2026 erneut im Suchauszug geprüft; Volltextabruf weiterhin gesperrt. Keine Randnummer oder umfassende Aktualitätsprüfung behaupten.
 
 ## 7. Technische Arbeitsgrenzen
 

@@ -1,8 +1,10 @@
 # 1. Liquiditätsplanung und Finanzierungsbedarf
 
-Erstelle aus den vorhandenen Zahlungsdaten die beauftragte Liquiditätsplanung und erläutere den daraus folgenden Finanzierungsbedarf. Bei Krisensignalen prüfe zusätzlich, welche insolvenzrechtliche Beurteilung erforderlich ist, ohne die Planung mit dieser Beurteilung gleichzusetzen.
+Stimme Bankguthaben, freie Kreditlinien und offene Posten ab und bestimme für jeden Zahlungstermin, ob die verfügbaren Mittel reichen. Zeige den ersten Engpass, den höchsten zusätzlichen Finanzierungsbedarf und die Auswirkungen verzögerter Kundenzahlungen. Begründe daraus die beauftragte Finanzierungsentscheidung; bei Krisensignalen folgt die gesonderte insolvenzrechtliche Einordnung.
 
 ## 1.1. Auftrag, Stichtag und Zeithorizont
+
+Bei leerer Eingabe biete nur die kurze Auswahl „Wochenplanung erstellen, Finanzierungsbedarf für die Bank begründen oder vorhandene Planung auf Krisensignale prüfen?“ an. Bei Dateien ohne Auftrag lies die zugänglichen Zahlungsdaten still und kläre nur das gewünschte Ergebnis. Ist etwa eine Vierwochenrechnung bereits beauftragt, rechne unmittelbar; keine vorgelagerte Materialzusammenfassung oder allgemeine Datenanforderung. Frage nur nach Angaben, die Betrag, Verfügbarkeit, Fälligkeit oder Aussage des bestellten Dokuments entscheidend verändern.
 
 Übernimm Rolle, Adressat, Stichtag, Währung und gewünschten Planungshorizont aus dem Auftrag und den Unterlagen. Eine Drei-Wochen-Vorschau zur Prüfung der Zahlungsfähigkeit, eine rollierende Planung über 13, 26 oder 52 Wochen und eine längerfristige Sanierungsplanung beantworten unterschiedliche Fragen. Steht der Auftrag bereits fest, beginne mit der Rechnung statt mit einer erneuten Aufnahme.
 
@@ -18,6 +20,10 @@ Erfasse zu jeder wesentlichen Zahlung Betrag, Fälligkeit, erwarteten Zahlungsta
 
 Eine geplante Stundungsverhandlung verschiebt noch keine Fälligkeit. Fehlt die Bestätigung, belasse die ursprüngliche Zahlung im Ausgangsfall und zeige eine vereinbarte Verschiebung zunächst nur als gesonderte Annahme. Nach Eingang der Vereinbarung prüfe Reichweite, Wirksamkeit und neuen Termin, aktualisiere die betroffenen Wochen und den Finanzierungsbedarf.
 
+Bei einer OP-Liste mit bereits gebuchten Zahlungen gleiche Belegnummer, Teilzahlung und Restbetrag mit dem Bankkonto ab. Ein Kundenavis kann eine Zahlung ankündigen, belegt aber noch keinen Geldeingang; eine interne Umbuchung zwischen zwei eigenen Konten erhöht die Gesamtliquidität nicht. Bei Factoring unterscheide den schon vereinnahmten Vorschuss, den Sicherheitseinbehalt und mögliche Rückbelastungen. Erfasse die Forderung nicht nochmals mit ihrem vollen Betrag als Kundenzufluss. Fehlt die Abrechnung, isoliere die betreffende Position, statt sämtliche erwarteten Umsätze zu verwerfen.
+
+Stimmen Buchhaltung und Bank nicht überein, benenne den Betrag der Abstimmungsdifferenz und deren Einfluss auf den Anfangsbestand. Plane einen strittigen Eingang in einer kenntlich gemachten Variante, bis Wertstellung oder Verfügbarkeit belegt ist. Ein Monatsabschluss allein beantwortet nicht, ob ein am Stichtag ausgewiesenes Guthaben tatsächlich frei nutzbar ist. Bei mehreren Währungen dokumentiere Umrechnungstag und Annahme; eine rechnerische Eurodeckung ersetzt keinen rechtzeitig möglichen Währungstausch.
+
 Bewahre Ursprungsdaten, Formeln und Planversionen. Die Dokumentation soll den Krisenverlauf anhand von Stichtagen und Belegen nachvollziehbar machen. Soweit Buchführungs- oder Aufbewahrungsfragen betroffen sind, prüfe HGB Paragrafen 238, 242 und 252, AO Paragrafen 140 ff. und 147 sowie die einschlägigen GoBD; nicht jede interne Planung ist allein deshalb ein gesetzlicher Abschluss.
 
 ## 1.3. Wochenplan und Engpässe berechnen
@@ -30,11 +36,17 @@ Nenne den ersten Fehlbetrag, den höchsten Finanzierungsbedarf und den späteste
 
 Bei einer rollierenden Aktualisierung ersetze abgelaufene Planwochen durch Ist-Zahlen, erläutere wesentliche Abweichungen und ergänze den vereinbarten Horizont. Ändert eine Antwort nur einen Kundenzahlungstermin, rechne die davon betroffenen Bestände und Szenarien neu, ohne die gesamte Aufnahme zu wiederholen.
 
+Beispiel für die zeitliche Auflösung: Montag stehen 12.000 EUR zur Verfügung, am Dienstag werden 18.000 EUR fällig, am Freitag kommen 15.000 EUR hinzu. Trotz 9.000 EUR Wochenendbestand fehlen am Dienstag 6.000 EUR. Eine bis dahin abrufbare Linie von 5.000 EUR lässt 1.000 EUR ungedeckt. Benenne beide Bereitstellungstermine und die Restlücke; ein späterer Eingang wird nicht rückwirkend zur Deckung. Sind alle Zahlungen ausdrücklich zum Wochenende vorgegeben, erfinde dagegen keine abweichenden Tagesfälligkeiten.
+
+Bei Kreditnutzung unterscheide gezogenen Betrag, noch freien Rahmen und Rückführung. Eine Rückzahlung verbessert den verfügbaren Rahmen nur entsprechend dem tatsächlichen Kreditvertrag; eine auslaufende Linie ist nach ihrem Ende nicht weiter anzusetzen. Zeige Finanzierungsbedarf vor Maßnahmen und verbleibende Unterdeckung danach getrennt, damit eine bereits eingerechnete Linie nicht ein zweites Mal als Lösung erscheint.
+
 ## 1.4. Kreditlinien, Zahlungsausfälle und Sondereffekte
 
 Prüfe bei Kreditlinien Verfügbarkeit, Laufzeit, Sicherheiten, Kündigungsrechte, Covenants und benötigte Zustimmungen. Fehlt ein Verzicht auf eine Vertragsfolge oder eine Verlängerungszusage, frage nach der konkreten Bankbestätigung. Ein Gesprächsprotokoll über eine mögliche Finanzierung darf nicht als ausgezahlte oder unbedingt abrufbare Liquidität erscheinen.
 
 Rechne neben dem Ausgangsfall einen Stressfall für die tatsächlich unsicheren Zahlungen und einen Maßnahmenfall. Relevante Auslöser sind etwa Kundenzahlungsverzug, Lieferantenstopp, Covenant-Verletzung, Lohnlauf oder Steuertermin. Annahmen und Wechselwirkungen erläutern; keine beliebigen Prozentabschläge anstelle der belegten Risiken verwenden.
+
+Bilde bei einem bestrittenen Großkundenposten die konkreten Folgen von Verzögerung und vollständigem Ausfall getrennt ab. Eine pauschal mit Wahrscheinlichkeit gewichtete Einzahlung kann einen Bestand ausweisen, der an keinem Zahlungstag tatsächlich eintritt. Berücksichtige bei Lieferstopp auch den ausfallenden Umsatz oder eine erforderliche Vorkasse, soweit belegt. Nicht unabhängig erscheinende Risiken mehrfach als denselben Ausfall abziehen. Die belastbarste Gegeninformation, etwa eine Reklamation trotz älterer Zahlungszusage, gehört in die Annahme und kann den Ausgangsfall ändern.
 
 Bei Großaufträgen Materialvorfinanzierung, Personal, Abschlagszahlungen und Sicherheitseinbehalte zeitlich zuordnen. Bei Bauaufträgen Paragraf 17 VOB/B und MaBV-Raten nur im tatsächlich einschlägigen Vertrags- und Rechtsrahmen prüfen. Ein hoher Auftragswert oder ausgewiesener Gewinn beweist keinen rechtzeitigen Zahlungseingang.
 
@@ -56,21 +68,21 @@ Stellt sich eine Lücke heraus, vergleiche die tatsächlich verfügbaren Maßnah
 
 Fehlt die Deckung einer zugesagten Maßnahme, formuliere auf Auftrag die gezielte Finanzierungs- oder Bestätigungsanfrage mit Betrag und benötigtem Termin. Nach Eingang prüfe Bedingungen und Verfügbarkeit, rechne den Maßnahmenfall neu und vollende den bestellten Finanzierungsvermerk oder das Bankschreiben. Eine weitere entscheidende Lücke rechtfertigt eine kurze Folgerunde, nicht den Abbruch nach einer festen Fragenzahl.
 
+Die Antwort „Die Bank zahlt am Freitag, benötigt vorher aber die neue Sicherheit“ ändert mehr als eine Zahl. Trage im vereinbarten Planpfad, etwa `planung/liquiditaet.xlsx`, den Zufluss nur mit der belegten Bedingung ein; aktualisiere im zugehörigen `planung/finanzierungsvermerk.md` den Bereitstellungstag und den bis dahin offenen Bedarf. Ist weder Sicherheit noch rechtzeitiger Abruf belegt, bleibt die Maßnahme bedingt. Ohne bearbeitbare Arbeitsmappe liefere dieselben Änderungen als nachrechenbare Tabelle und ausformulierten Vermerk, ohne Dateierstellung zu behaupten.
+
 Bei integrierter Sanierungsplanung verbinde Liquidität, GuV, Planbilanz, Maßnahmen und deren zeitliche Wirkung. Eine 13-Wochen-Vorschau ist kein vollständiges Sanierungskonzept. IDW-S-6- oder andere fachliche Anforderungen nur auf verifizierter Grundlage anwenden; keinen Standardkonformitätsvermerk ohne entsprechende Prüfung ausgeben.
 
 StaRUG-, Schutzschirm-, Eigenverwaltungs- und Insolvenzplanoptionen nur entsprechend Auftrag und Voraussetzungen untersuchen. Für Krisenfrüherkennung und Organverantwortung sind insbesondere StaRUG Paragraf 1, GmbHG Paragraf 43, AktG Paragrafen 91 Absatz 2 und 93 sowie gegebenenfalls GenG Paragraf 34 zu prüfen. Dokumentationspflichten nicht mit einer pauschalen Beweislastregel für jeden späteren Haftungsprozess gleichsetzen.
 
-## 1.7. Vorhandene Rechtsprechungsansätze verifizieren
+## 1.7. Planrechnung in den Liquiditätsstatus überführen
 
-Die folgenden bestehenden Rechercheansätze sind vor Verwendung im konkreten Fall anhand des amtlichen Volltexts zu prüfen. Entscheidungsinhalt, Verfahrensrolle und Reichweite dürfen nicht allein aus der Kurzbeschreibung übernommen werden:
+BGH, Urteil vom 19.12.2017, II ZR 88/16, [Rn. 50–62, 68–70](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2016/II_ZR__88-16.pdf?__blob=publicationFile&v=1), verlangt bei der Dreiwochenbetrachtung nach Paragraf 17 Absatz 2 InsO, neu fällige und eingeforderte Schulden ebenso wie neue Zuflüsse zu berücksichtigen. Sonst verschleiert die Bezahlung alter Rechnungen einen ständig erneuerten Rückstand. Überführe deshalb den Wochenplan in eine gesonderte Rechnung mit Anfangsmitteln, belastbaren Zuflüssen, Anfangsschulden und neuen Fälligkeiten; vermeide Doppelabzüge bereits erfasster Zahlungen. Ein positiver Dreizehnwochen-Endbestand widerlegt einen früheren Engpass nicht.
 
-- BGH, Urteil vom 24.05.2005, IX ZR 123/04: Abgrenzung von Zahlungsstockung und Zahlungsunfähigkeit, Lückenhöhe und zeitliche Schließung. Keine mechanische Freigabe unterhalb einer Prozentgrenze.
-- BGH, Urteil vom 19.12.2017, II ZR 88/16: Behandlung innerhalb des Betrachtungszeitraums fällig werdender Verbindlichkeiten und Umgang mit buchhalterisch erfassten Passiva.
-- BGH, Urteil vom 18.04.2024, IX ZR 129/22: Anforderungen an Darlegung und Bestreiten eines Liquiditätsstatus durch einen außenstehenden Dritten. Dessen Prozesslage nicht ungeprüft auf die Geschäftsleitung übertragen.
-- BGH, Urteil vom 23.01.2025, IX ZR 229/22: Behandlung streitiger Verbindlichkeiten und Bedeutung eines vorläufig vollstreckbaren Titels bei eingeleiteter Vollstreckung.
-- BGH, Beschluss vom 11.03.2025, II ZR 139/23: materieller Bestand einer Verbindlichkeit im Kontext einer Nichtzulassungsbeschwerde; nicht als eigenständiges Grundsatzurteil ausgeben.
+Bei einer Forderung gegen eine Schwestergesellschaft genügt nach Rn. 68–70 die kurzfristige Kündbarkeit nicht: Zahlungsbereitschaft, Zahlungsfähigkeit und Zufluss innerhalb des maßgeblichen Zeitraums belegen. Übertrage die im damaligen Organhaftungsprozess behandelte Darlegungslast nicht pauschal auf außenstehende Dritte. Das Urteil begründet weder einen gesetzlichen Dreizehnwochenhorizont noch eine automatische Ersatzpflicht nach heutigem Paragraf 15b InsO. Für streitige Titelforderungen, abweichende Prozessrollen und heutige Haftungsfolgen die zusätzliche einschlägige Rechtsprechung gesondert amtlich prüfen.
 
 Bei einem streitigen Status jede angegriffene Position mit Fälligkeit, Beleg und Gegenargument bearbeiten. Fehlender Nachweis einer behaupteten Finanzierung und streitige rechtliche Fälligkeit sind unterschiedliche Probleme. Den jeweiligen Einfluss auf Rechnung und rechtliche Folgerung offenlegen.
+
+Bei rückblickender Prüfung bewahre den damaligen Kenntnisstand: Eine später gewährte Linie beweist keine frühere Abrufmöglichkeit, eine nachträgliche Zahlung kann aber einen zuvor unsicheren Sachverhalt aufklären. Ordne Belegdatum, behaupteten Geltungszeitpunkt und tatsächlichen Zahlungszeitpunkt gesondert zu. Ändert ein neuer Beleg den angenommenen Eintritt eines Insolvenzgrunds, überprüfe auch den davon abhängigen Frist- und Pflichtenteil; ändere nicht lediglich die aktuelle Wochenübersicht. Ein offen gebliebener Eintrittszeitpunkt verhindert eine belastbare abschließende Fristberechnung, nicht die Bearbeitung belegter Zahlungsströme.
 
 ## 1.8. Planung und bestelltes Dokument abschließen
 

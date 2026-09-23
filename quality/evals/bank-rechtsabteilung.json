@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "bank-rechtsabteilung",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/bgb/__675w.html",
@@ -12,15 +12,38 @@
       "url": "https://www.gesetze-im-internet.de/bgb/__675u.html",
       "checked_on": "2026-09-14",
       "supports": "Erstattung nicht autorisierter Zahlungen und begrenzte Ausnahme bei mitgeteiltem Verdacht betrügerischen Verhaltens des Zahlers."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2014/XI_ZR__91-14.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 26.01.2016, XI ZR 91/14, Rn. 18, 19, 68–81: Bei bestrittenen Onlinezahlungen muss die Bank mehr als ein Erfolgslog vorlegen: Autorisierung, konkrete Verfahrenssicherheit und fehlerfreie Anwendung getrennt würdigen; kein typischer Schluss auf grobe Fahrlässigkeit. Grenze: Entscheidung zum damaligen Zahlungsdiensterecht; kein Ausschluss des Vollbeweises und keine Übernahme alter Absatznummern in Paragraf 675v BGB."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__675w.html",
+      "checked_on": "2026-09-22",
+      "supports": "Nachweis der Authentifizierung ist nicht notwendig Nachweis der Autorisierung oder groben Fahrlässigkeit."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32022R2554",
+      "checked_on": "2026-09-22",
+      "supports": "Artikel 16 Absatz 1: begrenzter Adressatenkreis; Artikel 28: Drittparteienrisiko und fortbestehende Verantwortung; Artikel 30: Vertragsanforderungen nach Kritikalität."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__675u.html",
+      "checked_on": "2026-09-23",
+      "supports": "Unverzügliche Erstattung spätestens bis Ende des folgenden Geschäftstags; gesetzliche Ausnahme nur mit berechtigten Betrugsverdachtsgründen gegen den Zahler und schriftlicher Behördenmitteilung."
     }
   ],
   "mini_review": {
-    "sha256": "c58b18c47a50a5fa04cb262c4fd62e024d02b2a659b524ce202e76419e808335",
     "verdict": "revised",
-    "reason": "Der Mini wurde vollständig auf bankinterne Zahlungs-, Sicherheiten- und Aufsichtsaufträge gelesen.",
+    "reason": "Die Zahlungsreklamation beginnt bei Buchung und Freigabeinhalt; der technische Erfolgsnachweis wird nicht mit Zustimmung oder grober Fahrlässigkeit gleichgesetzt. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert.",
     "changes": [
-      "Fehlende Autorisierungs- oder Protokollangaben gezielt klären und danach Entscheidung sowie Kundenantwort vervollständigen."
-    ]
+      "Bankseitige Erstattungsprüfung mit XI ZR 91/14 und Grenzen des Anscheinsbeweises verknüpft.",
+      "DORA Artikel 16 vom allgemeinen Risikomanagement sowie Artikel 28 und 30 von zivilrechtlicher Zahlungshaftung getrennt.",
+      "Leerstart: Zahlungsreklamation, Avalabruf oder Aufsichtsauskunft anbieten. Dateien: Bankakte still lesen; kein Gesamtmemo ohne Auftrag. Klarer Auftrag: Kundenantwort oder internes Votum unmittelbar ausarbeiten.",
+      "Freigabeanzeige verändert Autorisierung und Kundenantwort; Avalnachtrag verändert Laufzeit; korrigierte Tochterdaten verändern Aufsichtsanhänge."
+    ],
+    "sha256": "79b29e2a2f80bde5ad7050407c124a567aa3b620c16599dfd6f828e171ef338d"
   },
   "selection": {
     "positive": [
@@ -68,10 +91,52 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die ganze Werkstatt wurde auf die Trennung bankinterner Prüfung und externer Erklärung geprüft.",
+    "reason": "Die getrennten Wege für Zahlungsdienste, Kredit, Aufsicht und IKT-Verträge bleiben erhalten; der Entscheidungsanker führt zur konkret anzufordernden Beweiskette. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen.",
     "changes": [
-      "Protokollabgleich, Garantieunterlagen und regulatorische Zuständigkeit fachlich getrennt; keine eigenmächtigen Meldungen oder Kundenzusagen."
+      "Bankseitige Erstattungsprüfung mit XI ZR 91/14 und Grenzen des Anscheinsbeweises verknüpft.",
+      "DORA Artikel 16 vom allgemeinen Risikomanagement sowie Artikel 28 und 30 von zivilrechtlicher Zahlungshaftung getrennt.",
+      "Erstattungszeitrahmen, Autorisierung nach neuer Aussage, Avalabruf und widersprüchliche Aufsichtszahlen mit getrennten Vollzugsschritten.",
+      "Freigabeanzeige verändert Autorisierung und Kundenantwort; Avalnachtrag verändert Laufzeit; korrigierte Tochterdaten verändern Aufsichtsanhänge."
     ],
-    "sha256": "9b4a6a66c6e0048a901e26679ee6e941f54fcbffb29fc0f7398fbf0001078f8d"
+    "sha256": "e5ffed99c3c3b42ea4e2a5bcf4d3a44cee26f7b9d4cb91ef482f72a79e6ada97"
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leerstart: Zahlungsreklamation, Avalabruf oder Aufsichtsauskunft anbieten.",
+      "Dateien: Bankakte still lesen; kein Gesamtmemo ohne Auftrag.",
+      "Klarer Auftrag: Kundenantwort oder internes Votum unmittelbar ausarbeiten."
+    ],
+    "continuation": "Freigabeanzeige verändert Autorisierung und Kundenantwort; Avalnachtrag verändert Laufzeit; korrigierte Tochterdaten verändern Aufsichtsanhänge.",
+    "enrichment": "Erstattungszeitrahmen, Autorisierung nach neuer Aussage, Avalabruf und widersprüchliche Aufsichtszahlen mit getrennten Vollzugsschritten.",
+    "limits": "desk review; no live client execution"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "bank-rechtsabteilung/bank-rechtsabteilung-schnellstart.md",
+      "bank-rechtsabteilung/bank-rechtsabteilung-werkstatt.md",
+      "bank-rechtsabteilung/README.md",
+      "quality/evals/bank-rechtsabteilung.json"
+    ],
+    "opening_change": "Kontobelastung, Kreditsicherheit und Aufsichtsantwort statt allgemeiner Rechtsabteilungsorganisation.",
+    "norms": [
+      "Paragrafen 675u, 675v und 675w BGB",
+      "Artikel 16, 28 und 30 DORA"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 26.01.2016, XI ZR 91/14, Rn. 18, 19, 68–81",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2014/XI_ZR__91-14.pdf?__blob=publicationFile&v=1",
+        "application": "Bei bestrittenen Onlinezahlungen muss die Bank mehr als ein Erfolgslog vorlegen: Autorisierung, konkrete Verfahrenssicherheit und fehlerfreie Anwendung getrennt würdigen; kein typischer Schluss auf grobe Fahrlässigkeit.",
+        "limit": "Entscheidung zum damaligen Zahlungsdiensterecht; kein Ausschluss des Vollbeweises und keine Übernahme alter Absatznummern in Paragraf 675v BGB."
+      }
+    ],
+    "remaining_limits": [
+      "Redaktionelle Akten- und Quellenprüfung, kein Live-Client- oder Modelltest.",
+      "Kredit- und Aufsichtsrecht nicht vollständig neu verifiziert; institutsspezifische Schwellen und Anzeigeformate bleiben einzelfallbezogen zu prüfen.",
+      "Workflow-Anschlussprüfung 23.09.2026: individuelle Text- und Quellenprüfung, keine Live-Client-Ausführung. Frühere Entscheidungsprüfungen und ihre Reichweitengrenzen bleiben unverändert; keine erneute vollständige Rechtsprechungsprüfung behauptet."
+    ]
   }
 }

@@ -1,8 +1,10 @@
 # 1. Handelsvertretung: Provision und Vertragsende
 
-Prüfe meinen Vertriebsfall aus der angegebenen Perspektive und erarbeite die bestellte Beratung, Berechnung oder Erklärung aus Vertrag und Geschäftsdaten.
+Ermittle aus Vertrag und Geschäftsdaten, welche Provision fehlt und welche Angaben der Unternehmer noch abrechnen oder im Buchauszug offenlegen muss. Formuliere die verlangte Zahlungs- oder Auskunftsanforderung mit belastbarer Rechnung. Bei Kündigung oder Ausgleich bearbeite diese Frage gezielt, ohne einen laufenden Provisionsstreit in eine Vertragsbeendigung umzudeuten.
 
 ## 1.1 Vertragsbeziehung erfassen
+
+Ohne Eingabe biete Provisionsnachforderung, Buchauszug oder Ausgleich nach Vertragsende an. Nur Dateien: still lesen und zwei passende Dokumentwege anbieten. Klarer Auftrag: unmittelbar ausarbeiten. Antwort „Storno wegen eigener Lieferprobleme“: Nichtausführungsgrund prüfen und betroffene Provision neu zuordnen; Antwort „Kunde blieb beim Unternehmer“: Ausgleichsvorteil statt laufender Provision untersuchen. Keine vollständige Neuaufnahme.
 
 Lies zuerst vorhandenen Vertrag, Nachträge, Abrechnungen, Kundenlisten und Kündigung. Entnimm ihnen Mandantenseite, Geschäfte, Gebiete, Kunden und streitigen Zeitraum; frage nur nach entscheidenden fehlenden Angaben. Unterscheide selbstständige Handelsvertretung, angestellten Vertrieb, Makler und Vertragshändler anhand tatsächlicher Tätigkeit und Vertragsgestaltung. Ohne Unterlagen mit den ausdrücklich mitgeteilten Tatsachen beginnen, Annahmen nicht als Tatsachen ausgeben. Bei Folgeaufträgen vorhandene Auswertungen weiterverwenden.
 
@@ -15,6 +17,10 @@ Wähle nach Auftrag: laufende Provision, Abrechnung und Buchauszug, Kündigung, 
 Erstelle pro Auftrag eine Zeile mit Kunde, Auftragsnummer, Vermittlung oder Bezirkszuordnung, Abschlussdatum, Nettobasis, Provisionssatz, Ausführung, Zahlung, Storno und abgerechneter Provision. Trenne gesicherte Rechenabweichungen von ungeklärter Anspruchsentstehung. Setze fehlende Ausführungsdaten nicht mit Storno gleich. Prüfe Gründe einer Nichtausführung und vertragliche Regelungen gesondert, bevor du Provisionen streichst.
 
 Paragraf 87c HGB unterscheidet Abrechnung, Buchauszug, ergänzende Auskunft und unter zusätzlichen Voraussetzungen Einsicht. Die Abrechnung erfolgt grundsätzlich monatlich; vereinbart werden kann ein Zeitraum von höchstens drei Monaten. Sie ist spätestens bis zum Ende des folgenden Monats vorzunehmen. Ein Buchauszug verlangt geschäftsbezogene Nachprüfbarkeit, nicht nur eine Provisionssumme. Einsicht ist nicht automatisch der erste oder voraussetzungslose Schritt. Grenze Zeitraum und relevante Geschäftsdaten konkret ab.
+
+BGH, Urteil vom 20.09.2006, VIII ZR 100/05, Rn. 16 bis 24: Zugriff auf ein System mit nur jeweils aktuellen, vorübergehend verfügbaren Daten ersetzt keinen geordneten Gesamtüberblick. Prüfe deshalb, ob die Angaben für den verlangten Zeitraum vollständig und nachprüfbar vorliegen; der Vertreter muss sie nicht selbst aus flüchtigen Daten zusammensetzen. Eine Vertragsklausel, die mangels Widerspruchs ein Anerkenntnis fingiert, verletzt Paragraf 87c Absatz 5 HGB. Eine eindeutige tatsächliche Abrechnungseinigung ist davon zu unterscheiden. Der Versicherungsvertreterfall verbietet elektronische Buchauszüge nicht und beweist noch keinen Zahlungsanspruch für jedes aufgeführte Geschäft ([amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2005/VIII_ZR_100-05.pdf?__blob=publicationFile&v=1)).
+
+Bei Ausgleichsfragen prüfe Paragraf 89b Absätze 1 bis 4 HGB: erhebliche fortbestehende Vorteile aus geworbenen oder entsprechend erweiterten Kundenverbindungen, Billigkeit, Ausschlussgründe und Geltendmachung binnen eines Jahres. Die Jahresvergütung ist nur die Höchstgrenze. Für Versicherungs- und Bausparkassenvertreter Absatz 5 gesondert beachten.
 
 ## 1.4 Ergebnis mit Zahlen
 

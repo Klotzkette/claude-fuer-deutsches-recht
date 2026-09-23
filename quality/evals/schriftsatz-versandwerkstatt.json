@@ -1,27 +1,66 @@
 {
   "schema_version": 1,
   "plugin": "schriftsatz-versandwerkstatt",
-  "reviewed_on": "2026-09-17",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/zpo/__130a.html",
       "checked_on": "2026-09-14",
       "supports": "Elektronischer Eingang bei Speicherung in der Empfangseinrichtung; automatisierte Eingangsbestätigung und Anforderungen an Signatur beziehungsweise sicheren Übermittlungsweg."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__130a.html",
+      "checked_on": "2026-09-22",
+      "supports": "Amtlichen Text zu Paragraf 130a Absatz 3 und 5 ZPO gelesen; Bezug: Bestätigte Fassung technisch herstellen und ihren tatsächlichen Eingang kontrollieren. Keine vollständige neue Verifikation sämtlicher weiterer Normen des Plugins."
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2023-3-21&Gericht=bgh&anz=20&nr=133514&pos=10",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Beschluss vom 21.03.2023, VIII ZB 80/22: Eingangsbestätigung der tatsächlich freigegebenen Endfassung über sinnvollen Dateinamen und Inhaltsvergleich zuordnen. Amtlicher Leitsatz gelesen, Volltextzugriff gestört. Kein materieller Schriftsatzcheck; Dateiname und Status ersetzen Freigabe oder Signatur nicht."
+    },
+    {
+      "url": "https://www.berlin.de/gerichte/arbeitsgericht/service/elektronischer-rechtsverkehr-erv/was-ist-bei-den-elektronischen-dokumenten-zu-beachten/",
+      "checked_on": "2026-09-22",
+      "supports": "Amtliche Hinweise zu 90-Zeichen-Dateinamen einschließlich Endung, zulässigen Umlauten/ß, 200 MB und 1000 Dateien sowie PDF/TIFF gelesen. Empfängerbezogene technische Vorgaben, kein Nachweis tatsächlich erfolgreicher Übermittlung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__130a.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlichen Normtext zu elektronischen Dokumenten und Absatz 6 gelesen; technische Eignungsnachreichung nicht mit einer Inhaltskorrektur gleichsetzen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__130d.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlichen Normtext zu elektronischer Einreichungspflicht und vorübergehender technischer Unmöglichkeit gelesen."
     }
   ],
   "mini_review": {
-    "verdict": "retained",
-    "reason": "Am 18. September vollständig gelesen: Fassungsauswahl, Signaturroute und gerichtliche Eingangsbestätigung sind getrennt. Fehlende Anlagen oder Freigaben verhindern nicht die unabhängig mögliche Vorbereitung; nach Klärung wird die Versandmappe fertiggestellt.",
+    "verdict": "revised",
+    "reason": "Fachliche Startvarianten und konkrete Antwortfortsetzung einzeln geprüft. Freigegebene, signierte und nachträglich geänderte Fassungen trennen; Ersatzeinreichung nach Paragraf 130d und Nachreichung nach Paragraf 130a Absatz 6 ZPO nicht vermengen; Eingangsbelege jeder tatsächlich gesendeten Teilsendung zuordnen.",
     "changes": [
-      "Keine weitere Mini-Änderung; konkrete Freigabe und Eingangsnachweis bleiben erforderlich."
+      "Pauschales Rechtsprechungsverbot durch begrenzten Form- und Eingangsmaßstab ersetzt; konkrete Endfassung statt bloßem Nachrichtenstatus zuordnen, Inhaltsprüfung außerhalb des Auftrags belassen.",
+      "Eingangsbestätigung der tatsächlich freigegebenen Endfassung über sinnvollen Dateinamen und Inhaltsvergleich zuordnen.",
+      "Leerstart: Versandmappe herstellen, Fassung abgleichen oder Eingang kontrollieren wählen.",
+      "Eine ersetzte Anlage B3 verändert Fassungsbezug, Verweise und erneute Prüfungen; ein Teil-Eingangsbeleg lässt die übrigen Teile ausdrücklich offen.",
+      "Freigegebene, signierte und nachträglich geänderte Fassungen trennen; Ersatzeinreichung nach Paragraf 130d und Nachreichung nach Paragraf 130a Absatz 6 ZPO nicht vermengen; Eingangsbelege jeder tatsächlich gesendeten Teilsendung zuordnen."
     ],
-    "sha256": "844a9b96b3da9aa7eb61a56b48470db31e92fa5c413d7f9ecbe3c86cd57a2462"
+    "sha256": "dc5965d7cc761785d9c4db28f48d326e5cdae9a41010bf6f3e664c8d27111a44",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Vollständig am 18. September geprüft: Der Ablauf führt von Quellenaufnahme über Konvertierung und Anlagenabgleich zur Freigabevorbereitung. Ein freigegebenes Deckblatt widersprach bisher der ausnahmslos verlangten unveränderten Seitenzahl.",
-    "changes": ["Seitenzahlinvarianz auf die Stempelung begrenzt; zusätzliche Deckblätter werden gesondert gezählt, Quellseiten bleiben erhalten.", "Dateiliste ausdrücklich zur Freigabe vorbereiten statt eine erteilte Freigabe vorwegzunehmen. Keine neue Quellenverifikation oder Live-Modellprüfung."],
-    "sha256": "a446eed305890e7a87ec99aff9a0215aa6bdad5d17aec2d368a04fcb56825a19"
+    "reason": "Vollständige Werkstatt mit zusätzlichen fachlichen Entscheidungs- und Dokumentwegen einzeln geprüft. Freigegebene, signierte und nachträglich geänderte Fassungen trennen; Ersatzeinreichung nach Paragraf 130d und Nachreichung nach Paragraf 130a Absatz 6 ZPO nicht vermengen; Eingangsbelege jeder tatsächlich gesendeten Teilsendung zuordnen.",
+    "changes": [
+      "Bestätigte Fassung technisch herstellen und ihren tatsächlichen Eingang kontrollieren.",
+      "Eingangsbestätigung der tatsächlich freigegebenen Endfassung über sinnvollen Dateinamen und Inhaltsvergleich zuordnen.",
+      "Leerstart: Versandmappe herstellen, Fassung abgleichen oder Eingang kontrollieren wählen.",
+      "Eine ersetzte Anlage B3 verändert Fassungsbezug, Verweise und erneute Prüfungen; ein Teil-Eingangsbeleg lässt die übrigen Teile ausdrücklich offen.",
+      "Freigegebene, signierte und nachträglich geänderte Fassungen trennen; Ersatzeinreichung nach Paragraf 130d und Nachreichung nach Paragraf 130a Absatz 6 ZPO nicht vermengen; Eingangsbelege jeder tatsächlich gesendeten Teilsendung zuordnen."
+    ],
+    "sha256": "48e064cd95da61dc39d5610d81895a254fda3990c32d09d5988a74ee3c6bf7a7",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
   },
   "selection": {
     "positive": [
@@ -66,5 +105,45 @@
       ],
       "target_skill": "versandfreigabe-und-eingang-sichern"
     }
-  ]
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "schriftsatz-versandwerkstatt/README.md",
+      "schriftsatz-versandwerkstatt/schriftsatz-versandwerkstatt-werkstatt.md",
+      "schriftsatz-versandwerkstatt/schriftsatz-versandwerkstatt-schnellstart.md",
+      "quality/evals/schriftsatz-versandwerkstatt.json"
+    ],
+    "opening_change": "Bestätigte Fassung technisch herstellen und ihren tatsächlichen Eingang kontrollieren",
+    "norms": [
+      "Paragraf 130a Absatz 3 und 5 ZPO",
+      "Paragraf 130d ZPO"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Beschluss vom 21.03.2023, VIII ZB 80/22",
+        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2023-3-21&Gericht=bgh&anz=20&nr=133514&pos=10",
+        "application": "Eingangsbestätigung der tatsächlich freigegebenen Endfassung über sinnvollen Dateinamen und Inhaltsvergleich zuordnen.",
+        "limit": "Amtlicher Leitsatz gelesen, Volltextzugriff gestört. Kein materieller Schriftsatzcheck; Dateiname und Status ersetzen Freigabe oder Signatur nicht."
+      }
+    ],
+    "remaining_limits": [
+      "Amtlicher Leitsatz gelesen, Volltextzugriff gestört. Kein materieller Schriftsatzcheck; Dateiname und Status ersetzen Freigabe oder Signatur nicht.",
+      "Kein beA-Versand einer Mandantenakte und keine technische Live-Signaturvalidierung; lokaler Regressionstest mit synthetischen Dateien einschließlich Office-Konvertierung bestanden. Regionale Vorgaben vor konkretem Versand erneut prüfen.",
+      "Individuelle redaktionelle Akten- und Quellenprüfung (desk review), kein Live-Client- oder Modelltest.",
+      "Workflow-Vertiefung 2026-09-23: BGH VIII ZB 80/22 bleibt auf den zuvor zugänglichen amtlichen Leitsatz begrenzt. In diesem Workflow-Durchgang keine beA-, Konverter-, Signatur- oder Clientausführung; ältere dokumentierte lokale Regressionen werden nicht als neue Tests ausgegeben. Desk review; keine Live-Client-Ausführung."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leerstart: Versandmappe herstellen, Fassung abgleichen oder Eingang kontrollieren wählen.",
+      "Dateien: Anlagen und Schriftsatz still prüfen; keine automatische große Produktionsliste ausgeben.",
+      "Klarer Auftrag: bestellte Dateifassung und Versandvorbereitung herstellen, ohne eigenmächtige Inhaltsänderung oder behaupteten Versand."
+    ],
+    "continuation": "Eine ersetzte Anlage B3 verändert Fassungsbezug, Verweise und erneute Prüfungen; ein Teil-Eingangsbeleg lässt die übrigen Teile ausdrücklich offen.",
+    "enrichment": "Freigegebene, signierte und nachträglich geänderte Fassungen trennen; Ersatzeinreichung nach Paragraf 130d und Nachreichung nach Paragraf 130a Absatz 6 ZPO nicht vermengen; Eingangsbelege jeder tatsächlich gesendeten Teilsendung zuordnen.",
+    "limits": "desk review; no live client execution"
+  }
 }

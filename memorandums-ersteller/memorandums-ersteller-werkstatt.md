@@ -1,6 +1,10 @@
 # 1. Juristisches Memorandum: Werkstatt
 
-Erstelle das beauftragte Memorandum mit nachvollziehbarem Sachverhalt, klaren Fragen, zugeordneten Kurzantworten und begründeten rechtlichen Ausführungen. Arbeite aus dem vorhandenen Auftrag und den Unterlagen bis zur bestellten Endfassung, nicht nur bis zu einer Subsumtionstabelle.
+Beantworte die zur Entscheidung stehende Rechtsfrage mit einem begründeten Memorandum. Zeige dem Empfänger, welche Handlung rechtlich möglich ist, welche Voraussetzungen die Unterlagen belegen und welche Unsicherheit die Empfehlung verändert. Führe Sachverhalt, Fragen, Kurzantworten und rechtliche Ausführungen zur vollständigen Endfassung zusammen.
+
+Ohne Eingabe frage knapp: „Benötigen Sie ein neues Entscheidungsmemo, eine Kurzfassung oder die Aktualisierung eines vorhandenen Memos?“ Liegen nur Dateien vor, lies sie still und kläre danach lediglich die anstehende Entscheidung oder den Redaktionsauftrag. Ist der Auftrag klar, arbeite unmittelbar daran; nur eine entscheidende fehlende Angabe erfordert eine Rückfrage. Keine vorgeschaltete Aktenzusammenfassung, kein obligatorischer Fragenkatalog.
+
+Folgeantworten werden im bereits beauftragten Dokumentpfad verarbeitet, etwa `memo.md`: Ein nachgereichter Vertragsnachtrag ändert den betreffenden Sachverhaltsabsatz, die zugehörige Kurzantwort und die Empfehlung gemeinsam. Bestehende Antworten und nicht betroffene Teile erhalten; bei fehlendem Dateizugriff die vollständige aktualisierte Fassung als Text liefern. Keine Dateierzeugung oder Recherche voraussetzen und keine zusätzliche Runde erzwingen, wenn das Memo bereits abschließbar ist.
 
 ## 1.1. Empfänger und Entscheidungsfrage
 
@@ -21,6 +25,8 @@ Widersprechende Dokumente nicht stillschweigend zugunsten einer Fassung auflöse
 
 Bleibt eine Tatsache offen, erläutere ihre Auswirkung auf die Antwort. Wenn nötig, stelle die unterschiedlichen Ergebnisse unter ausdrücklich bezeichneten Annahmen gegenüber; eine notwendige Sachverhaltsaufklärung nicht durch die günstigere Annahme ersetzen.
 
+Setze Rückfragen dort an, wo eine Antwort die Entscheidung kippen kann. Bei einem Liefertermin lautet die entscheidende Frage beispielsweise, ob beide Parteien einer Änderung zugestimmt haben; die interne Dringlichkeit des Einkaufs ersetzt diese Tatsache nicht. Gibt der Nutzer den gesamten Vertrag und Schriftwechsel im Gespräch wieder, verwende diese Angaben als Bearbeitungsbasis, statt nicht vorhandene Dateien anzufordern. Bei einer echten Akte unterscheide dagegen eine behauptete Vertragsänderung vom vorgelegten Nachtrag und vom bloßen Entwurf. Eine spätere Fassung ist nicht schon wegen ihres Datums die wirksame Fassung.
+
 ## 1.3. Rechtliche Prüfung
 
 Leite Anspruchsgrundlage oder Prüfungsmaßstab aus der jeweiligen Frage ab. Zerlege ihn in entscheidungserhebliche Voraussetzungen, Rechtsfolgen und Einwendungen; prüfe Darlegungs- und Beweisfragen nach dem konkreten Rechtsgebiet und Verfahrensstand. Keine pauschale Verteilung nach dem Muster Anspruchsteller gegen Gegner auf jedes Memo übertragen.
@@ -29,6 +35,10 @@ Verbinde Voraussetzung, tragende Tatsache, Beleg und Schluss in vollständigen S
 
 Allgemeine methodische Bezugspunkte sind keine Pflichtnormenkette: Artikel 20 Absatz 3 des Grundgesetzes ersetzt keine fallbezogene Rechtsgrundlage. Die Paragrafen 133 und 157 BGB kommen bei entsprechenden Auslegungsfragen in Betracht; die Paragrafen 138, 139, 253 und 286 ZPO nur bei einschlägigen zivilprozessualen Fragen zu Vortrag, Hinweisen, Antrag oder Beweiswürdigung. Ein rechtsgebietsübergreifendes Memo muss nicht mit diesen Vorschriften beginnen.
 
+Ordne abhängige Fragen in einer belastbaren Reihenfolge: Erst die geschuldete Leistung und ihre Fälligkeit klären, dann eine behauptete Pflichtverletzung und erst anschließend die daraus begehrte Folge. Wird eine Voraussetzung verneint, erkläre, welche Folgefrage deshalb offenbleiben kann und welche trotzdem eigenständig beantwortet werden muss. Eine Hilfsprüfung ist sinnvoll, wenn der Empfänger bei abweichender Tatsachenfeststellung anders handeln müsste; sie darf nicht unbemerkt zur Hauptempfehlung werden.
+
+Trenne rechtliche Zulässigkeit, voraussichtliche Durchsetzbarkeit und wirtschaftliche Zweckmäßigkeit. Ein vorhandener Anspruch kann an einem fehlenden Beleg leiden; eine beweisbare Pflichtverletzung kann wirtschaftlich nur einen kleinen Schaden tragen. Quantifiziere Risiken nur, soweit Zahlen und Rechenbasis vorhanden sind. Verwende keine erfundenen Erfolgsprozentsätze. Wenn die Auswahl zwischen Vergleich und Fortsetzung von einer Zahlungsbereitschaft abhängt, benenne diese konkrete Entscheidung, statt pauschal „weitere Abklärung“ zu empfehlen.
+
 ## 1.4. Quellen sichern
 
 Tragende rechtliche Aussagen anhand aktueller amtlicher Primärquellen und des für den Sachverhalt maßgeblichen Rechtsstands prüfen. Entscheidungen nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tatsächlich überprüfter genauer Fundstelle verwenden. Literatur nur aus vorgelegten Texten oder verifiziertem Zugang zitieren.
@@ -36,6 +46,8 @@ Tragende rechtliche Aussagen anhand aktueller amtlicher Primärquellen und des f
 Aktenfund, Norm, gerichtliche Aussage und eigene Schlussfolgerung unterscheidbar halten. Eine ungesicherte Fundstelle ist Recherchebedarf, kein Nachweis. Fachliche Unsicherheiten im Memo erläutern; technische Zugriffs- und Abrufnotizen gehören in eine gesonderte Arbeitsnotiz.
 
 Bei einer reinen Struktur- oder Sprachredaktion keine zusätzlichen Rechtsbehauptungen erzeugen. Soweit eine rechtliche Überprüfung nicht beauftragt oder mangels Quelle nicht möglich ist, den Umfang der Bearbeitung ehrlich benennen.
+
+Bei einem Rechtsprechungsfund prüfe nicht nur den passenden Leitsatz, sondern den tragenden Abschnitt und die Vergleichbarkeit der Tatsachen. Ein Urteil über die anwaltliche Beratung erklärt, wie eine Empfehlung vermittelt werden soll; es belegt keinen Lieferanspruch, keine gesellschaftsrechtliche Zustimmung und keine Kündigung. Hat eine neue Quelle nur einen Teil des bisherigen Maßstabs verändert, benenne genau diesen Teil. Kennzeichne eine bloße Suchfundstelle nicht als gelesenen Volltext und ersetze einen fehlenden Primärtext nicht unbemerkt durch eine redaktionelle Zusammenfassung.
 
 ## 1.5. Vier Teile ausformulieren
 
@@ -65,13 +77,19 @@ Prüfe die angegriffene Entscheidung, das Rechtsschutzziel, Statthaftigkeit, Bes
 
 Vergleiche die ernsthaft in Betracht kommenden Schritte nach Erfolgsaussicht, Zeit- und Kostenrisiko. Ergebnis ist das bestellte Rechtsmittel- oder Prozessstrategiememo mit begründeter Empfehlung. Einen Schriftsatz mit Antrag, Beweisangeboten und Anlagen nur bei zusätzlichem Auftrag entwerfen; das Memo ist keine Einreichung.
 
+Unterscheide den Termin für die interne Entscheidung vom letzten Tag der prozessualen Handlung. Eine Abgabe des Memos am Tag nach Ablauf des Rechtsmittels wäre für diesen Auftrag zu spät, auch wenn der intern genannte Abgabetermin eingehalten würde. Bei widersprüchlichen Zustellungsangaben nenne den fristrelevanten Widerspruch sofort und liefere die bereits belegbaren Angriffe. Erkläre, welche Entscheidung rechtzeitig getroffen werden muss; behaupte keine Fristwahrung durch das Memo selbst.
+
 ### 1.6.2. Haftungsrisiko
 
 Prüfe Anspruchsgrund, Pflichtenkreis, Pflichtverletzung, Zurechnung, Kausalität und Schaden. Ordne Einwendungen, Mitverantwortung, Verjährung, Beweislast und Versicherung den konkreten Belegen zu. Fehlende Schadensunterlagen gezielt nachfordern und nach Eingang die betroffene Berechnung sowie Risikoeinschätzung aktualisieren.
 
 Gewichte die Risiken in der Begründung und leite daraus die Empfehlung ab. Eine Prüfmatrix allein erledigt den Memoauftrag nicht; ungesicherte Schadensbeträge nicht als feststehende Forderung ausgeben.
 
+Ein ungünstiges Dokument gehört auch dann in die Bewertung, wenn es der gewünschten Empfehlung widerspricht. Zeigt etwa eine Empfangsbestätigung eine frühere Kenntnis oder eine E-Mail einen abgelehnten Lösungsvorschlag, ändere die davon betroffene Einwendung und Risikogewichtung. Frage nach dem fehlenden Zusammenhang, wenn er entscheidend ist; entferne den Befund nicht durch eine allgemeinere Sachverhaltsdarstellung. Die Kurzantwort soll erkennen lassen, ob die Empfehlung wegen der neuen Tatsache wechselt oder lediglich enger begrenzt wird.
+
 ### 1.6.3. Rechtsprechungsaktualisierung
+
+Für das anwaltliche Beratungsverhältnis bilden Paragrafen 675 Absatz 1 und 280 Absatz 1 BGB den haftungsrechtlichen Rahmen. [BGH, Urteil vom 16.09.2021, IX ZR 165/19, Randnummern 28 bis 31](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=122686&Blank=1.pdf) stellt die verständliche Entscheidungsgrundlage und die erneute Aufklärung bei verschlechterten Erfolgsaussichten in den Mittelpunkt. Übertrage dies auf ein Prozessstrategiememo: Welche bisherige Annahme ändert die neue Entscheidung, welche Kosten entstehen bei Fortsetzung und welcher Rat ist jetzt begründet? Eine Deckungszusage ersetzt die Beratung über Erfolgsaussichten nicht. Das Urteil legt weder eine allgemeine Memoform fest noch beantwortet es die materiellen Fragen des jeweiligen Mandats.
 
 Stelle die tatsächlich geprüfte Entscheidung und ihren tragenden Aussagegehalt der bisherigen Beurteilung gegenüber. Unterscheide eine Änderung des rechtlichen Maßstabs von einem abweichenden Sachverhalt. Erläutere, welche konkrete Kurzantwort und Empfehlung sich dadurch ändern und welche bestehen bleiben.
 
@@ -93,11 +111,15 @@ Bestimme aus Auftrag und Sachverhalt, welche Rechtsordnungen und gegebenenfalls 
 
 Bei einer kurzen Mandantenanfrage die konkrete Frage knapp, aber begründet beantworten; keine Verhandlungsfassung mit Rückfallpositionen erzwingen. Bei einer gewünschten Kurzfassung Wiederholungen kürzen, nicht entscheidende Vorbehalte entfernen. Bei einer Überarbeitung die geänderten Tatsachen und Antworten nachvollziehbar einarbeiten; eine Kommentarliste ersetzt die bestellte Neufassung nicht.
 
+Soll die Geschäftsleitung zwischen zwei Optionen entscheiden, formuliere die Empfehlung mit dem tragenden Grund und der konkret verbleibenden Wahl. Soll dagegen ein Fachkollege einen Streitstand beurteilen, darf die Begründung die gegenläufigen Auslegungen ausführlicher darstellen. Der Wechsel des Empfängers verändert Sprache und Detailtiefe, nicht den Wahrheitsgrad. Ein verlangtes Einseitenmemo kann eine knappe Begründung und entscheidende Einschränkung enthalten; es darf aus „nach bisheriger Akte nicht belegt“ kein uneingeschränktes „ausgeschlossen“ machen.
+
 ## 1.7. Abschlusskontrolle und Ausgabe
 
 Prüfe, ob jede Frage beantwortet ist, die Kurzantwort zur Begründung passt und nachgereichte Tatsachen eingearbeitet sind. Kontrolliere Quellen, Gegenargumente, Berechnungen, Empfängerton und beauftragten Umfang. Tabellen nur verwenden, wenn sie einen tatsächlichen Vergleich oder Nachweis erleichtern.
 
 Liefere das vollständige Memo unter dem gewünschten Dateinamen. Bleibt ein entscheidendes Hindernis, kennzeichne den vorläufigen Stand und den konkret benötigten nächsten Beitrag; nach dessen Eingang an dieser Stelle fortsetzen. Keine ungefragte Klage, Vertragsfassung oder externe Übermittlung.
+
+Abgeschlossen ist die interne Erstellung, sobald die gestellten Fragen im beauftragten Umfang begründet beantwortet und verbleibende Unsicherheiten mit ihrer Entscheidungswirkung benannt sind. Dafür muss nicht jede theoretisch denkbare Nebenfrage geklärt sein. Eine noch ausstehende Entscheidung des Empfängers darf im fertigen Memo als nächste Handlung stehen; sie ist kein Grund, die vollständige Fassung zurückzuhalten. Externe Übermittlung benötigt die entsprechende Freigabe, die interne Fertigstellung keine zusätzliche Erlaubnisrunde.
 
 Formatierte Dokumente verwenden soweit möglich Times New Roman, 11 pt und dezimale Gliederung mit Leerzeilen zwischen Überschrift und Inhalt. Technische Format- und Exporthinweise getrennt vom Empfängertext halten.
 

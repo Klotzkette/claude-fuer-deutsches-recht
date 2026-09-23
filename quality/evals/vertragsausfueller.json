@@ -1,46 +1,173 @@
 {
- "schema_version":1,"plugin":"vertragsausfueller","reviewed_on":"2026-09-17","sources":[{"url":"https://www.gesetze-im-internet.de/bgb/__355.html","checked_on":"2026-09-14","supports":"Widerrufsfrist setzt ein gesetzlich eingeräumtes Verbraucherwiderrufsrecht voraus; keine allgemeine 14-Tage-Lösung für Unternehmerverträge."},{"url":"https://www.gesetze-im-internet.de/bgb/__312g.html","checked_on":"2026-09-14","supports":"Verbraucherwiderruf bei Fernabsatz und außerhalb von Geschäftsräumen mit gesetzlichen Ausnahmen; kein pauschales Widerrufsrecht im reinen B2B-Mappingfall."}],
- "mini_review":{"verdict":"revised","reason":"Die Ausfüllung bleibt auf die freigegebene Vorlage begrenzt. Rückfragen zu Preis, Laufzeit oder Vertretung führen nach der Antwort zu konsistenten Änderungen sämtlicher betroffener Felder und zur vollständigen Ausfüllfassung.","changes":["Vorlagenwahl und rechtsgestaltende Entscheidungen von bloßer Datenübertragung getrennt","Antworten mit Folgeänderungen in Kopfzeilen, Anlagen und Terminen abgleichen","Nur notwendige offene Punkte statt ungefragter umfangreicher Kontrolltabellen ausgeben"],"sha256":"755e2ea06667f1c73358939dc7a4c2eba8018d94dc094f5b346f6b89487ef387"},
- "workshop_review":{"verdict":"revised","reason":"Die Werkstatt bleibt beim kontrollierten Befüllen und führt über Versionsentscheidung, Feldzuordnung und Rückfragen zur vollständigen neuen Fassung, ohne ungefragt einen neuen Vertrag oder Schriftsatz zu erzeugen.","changes":["Feldkonflikte und Regelungsänderungen mit unterschiedlichen Freigaben behandeln","Bestätigte Werte an allen betroffenen Stellen nachführen","Tatsächliche Datei- und Sichtprüfung von bloßer Textprüfung unterscheiden"],"sha256":"98dddbae1a87eedaee10e6961fda50d75c7ac3ffee8f6ae144f1f7ef3657138b"},
- "selection":{"positive":["Übertrage die freigegebenen Eckdaten in unsere Vertragsvorlage und protokolliere offene Felder.","Vergleiche Term Sheet und Vorlage vor der Ausfüllung auf Preis- und Laufzeitkonflikte."],"negative":["Entwickle ohne Vorlage ein vollständig neues internationales Lizenzmodell.","Klage eine bereits fällige Vertragsstrafe ein."]},
- "cases":[{"id":"preis-konflikt-kopfzeile","request":"Liefere ergebnis.md als ausgefüllten Text mit Feldprotokoll. Vorlage: Kopfzeile Kunde Alt GmbH; Vertrag zwischen Anbieter A GmbH und [KUNDE]; Preis [PREIS] Euro netto monatlich; Beginn [BEGINN]; Anlage 1 Leistungsbeschreibung; Unterschrift [VERTRETER]. Unverändert zu erhalten ist die Klausel Haftung richtet sich nach den gesetzlichen Vorschriften. Freigegebenes Term Sheet vom 1. September: Kunde Neu GmbH, Beginn 1. Oktober 2026, Preis 1200 Euro netto monatlich. Nicht freigegebene E-Mail vom 5. September schlägt 1500 Euro vor. Der Auftraggeber sagt ausdrücklich, Preis erst nach Entscheidung einsetzen. Vertreter und Anlage fehlen. Keine Redline und keine neue Haftungsklausel gewünscht.","input_files":[],"deliverables":["ergebnis.md"],"criteria":[{"id":"C01","text":"Ersetzt Alt GmbH auch in der Kopfzeile durch Neu GmbH und setzt den belegten Beginn ein.","deliverables":["ergebnis.md"]},{"id":"C02","text":"Lässt den Preis wegen ausdrücklichen Entscheidungsvorbehalts offen und dokumentiert 1200 versus 1500 samt verschiedenem Freigabestatus.","deliverables":["ergebnis.md"]},{"id":"C03","text":"Erhält die Haftungsklausel unverändert, erfindet weder Vertreter noch Anlage und liefert dennoch eine nutzbare Teilausfüllung ohne behauptete DOCX-Erzeugung.","deliverables":["ergebnis.md"]}],"target_skill":"termsheet-mapping"},
-{
-  "id": "b2b-mapping-ohne-verbraucherwiderruf",
-  "request": "Erstelle ergebnis.md mit ausgefüllter Vertragsfassung und kurzem Feldprotokoll. Vorlage: Kaufvertrag zwischen [VERKAEUFER] und [KAEUFER]; Kaufgegenstand [WARE]; Nettopreis [PREIS] Euro; Lieferung am [LIEFERDATUM]; Zahlungsziel [ZAHLUNGSZIEL]. Bestehende Schlussklausel: Änderungen bedürfen einer Vereinbarung der Parteien. Freigegebenes verbindliches Term Sheet vom 14. September 2026: Verkäuferin Drucktechnik A GmbH, Käuferin Handel B GmbH, zwei Druckmaschinen Modell D, Gesamtpreis 24000 Euro netto, Lieferung 1. Oktober 2026, Zahlung innerhalb von zehn Kalendertagen nach Rechnungseingang. Beide Gesellschaften handeln ausschließlich für ihren Geschäftsbetrieb; kein Verbraucher, keine Finanzierung, kein vereinbartes Widerrufs- oder Rückgaberecht. Der Auftrag lautet nur Datenübertragung, keine neue Rechtsgestaltung. Ein Altvermerk empfiehlt pauschal die Ergänzung einer 14-tägigen Widerrufsfrist nach Paragraf 14 BGB-InfoV. Ordne diesen Vorschlag im Protokoll ein; keine Originaldatei überschreiben.",
-  "input_files": [],
-  "deliverables": [
-    "ergebnis.md"
-  ],
-  "criteria": [
+  "schema_version": 1,
+  "plugin": "vertragsausfueller",
+  "reviewed_on": "2026-09-23",
+  "sources": [
     {
-      "id": "C01",
-      "text": "Überträgt die freigegebenen Parteien, zwei Maschinen, Gesamtpreis von 24000 Euro netto und den Liefertermin korrekt und verwechselt Gesamtpreis nicht mit Stückpreis.",
-      "deliverables": [
-        "ergebnis.md"
-      ]
+      "url": "https://www.gesetze-im-internet.de/bgb/__305b.html",
+      "checked_on": "2026-09-23",
+      "supports": "Nach Web-Timeout amtlichen Normtext per Direktabruf gelesen: Vorrang einer individuellen Vertragsabrede; interne Ausfüllfreigabe und noch offener Vorschlag werden nicht als bereits vereinbarte Vertragsänderung behandelt."
     },
     {
-      "id": "C02",
-      "text": "Erhält das Zahlungsziel als zehn Kalendertage ab Rechnungseingang, ohne mangels Rechnungseingangsdatum einen festen Zahlungstag zu erfinden.",
-      "deliverables": [
-        "ergebnis.md"
-      ]
+      "url": "https://www.gesetze-im-internet.de/bgb/__177.html",
+      "checked_on": "2026-09-23",
+      "supports": "Nach Web-Timeout amtlichen Volltext per Direktabruf gelesen: Vertrag ohne Vertretungsmacht hängt von Genehmigung ab; Zweiwochenfrist nach Absatz 2 erst ab Empfang der Aufforderung. Keine Gleichsetzung offener Unterschriftsfelder mit bereits abgeschlossenem Vertrag."
     },
     {
-      "id": "C03",
-      "text": "Fügt dem reinen Unternehmervertrag kein Verbraucherwiderrufsrecht hinzu und verwirft den Altvermerk als ungeeignete Grundlage; die 14-Tage-Regel wird nicht als allgemeines Vertragsrecht behandelt.",
-      "deliverables": [
-        "ergebnis.md"
-      ]
+      "url": "https://www.gesetze-im-internet.de/bgb/__355.html",
+      "checked_on": "2026-09-14",
+      "supports": "Widerrufsfrist setzt ein gesetzlich eingeräumtes Verbraucherwiderrufsrecht voraus; keine allgemeine 14-Tage-Lösung für Unternehmerverträge."
     },
     {
-      "id": "C04",
-      "text": "Erhält die vorgegebene Schlussklausel und bleibt bei kontrollierter Ausfüllung mit Protokoll statt unbestellter Neugestaltung oder behaupteter Überschreibung.",
-      "deliverables": [
-        "ergebnis.md"
-      ]
+      "url": "https://www.gesetze-im-internet.de/bgb/__312g.html",
+      "checked_on": "2026-09-14",
+      "supports": "Verbraucherwiderruf bei Fernabsatz und außerhalb von Geschäftsräumen mit gesetzlichen Ausnahmen; kein pauschales Widerrufsrecht im reinen B2B-Mappingfall."
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2023-6-23&Gericht=bgh&anz=3&client=13&nr=136183&pos=2",
+      "checked_on": "2026-09-22",
+      "supports": "Widersprüchliche Flurstücks- und Objektangaben nicht mechanisch korrigieren; gemeinsame Vorstellung beider Parteien und formbedürftigen Gegenstand klären. Grundstückskauf und Vertragsauslegung, keine allgemeine Heilung fehlerhafter Datenübernahme. Amtliche Leitsätze geprüft."
     }
   ],
-  "target_skill": "termsheet-mapping"
-}]
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Am 23.09.2026 vollständig individuell nachgelesen: drei konkrete Ausfüllwege und stiller Dateieinstieg; Preisbestätigung ändert Wiederholungen und Zahlungsintervall, ohne unvereinbarte Raten oder Zahlungstage zu ergänzen. Vorhandenen begrenzten Grundstücksanker erhalten. Desk-Review, keine Live-Modellprüfung.",
+    "changes": [
+      "Rechtsgrundlagen auf Auslegung, Individualabrede, Vertretung und konkrete Ausfüllkonflikte konzentriert.",
+      "Grundstücksbezeichnung mit begrenztem Entscheidungsanker versehen; keine automatische Heilung oder Parteifreiheit erfunden.",
+      "Gewerbemiet-Textform aktualisiert, Datenübertragung und Neugestaltung weiterhin getrennt.",
+      "Preisantwort bis zu Zahlungsintervall und Rechnungseingang fortgeführt; allgemeine Materialabfrage durch konkrete fehlende Vorlage ersetzt."
+    ],
+    "sha256": "7e4ca27c7d7bd8fd5c5b6001cc897e83a7056737fe6eae883efd4017a281787d"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Am 23.09.2026 vollständig individuell nachgelesen: Preiswiderspruch, Kioskfläche und Übergabeauslöser sowie Partei-/Unterzeichnerwechsel als konkrete Gesprächs- und Dokumentpfade ergänzt. Genehmigungsfrist nur bei tatsächlich vorliegender Aufforderung; Ausfüllung bleibt von Neugestaltung getrennt. Desk-Review, keine Live-Modellprüfung.",
+    "changes": [
+      "Rechtsgrundlagen auf Auslegung, Individualabrede, Vertretung und konkrete Ausfüllkonflikte konzentriert.",
+      "Grundstücksbezeichnung mit begrenztem Entscheidungsanker versehen; keine automatische Heilung oder Parteifreiheit erfunden.",
+      "Gewerbemiet-Textform aktualisiert, Datenübertragung und Neugestaltung weiterhin getrennt.",
+      "Preisfreigabe mit Vereinbarungsstatus, Flächenkonflikt mit Anlagenänderung und Vertretungsnachweis mit konkretem Unterschriftsblock ausgearbeitet; dezimale Gliederung auch für Altvorlagen klargestellt."
+    ],
+    "sha256": "61296a0b618fea36ed128a09ddae5185b64a43b069d67196190bcd170838c912"
+  },
+  "selection": {
+    "positive": [
+      "Übertrage die freigegebenen Eckdaten in unsere Vertragsvorlage und protokolliere offene Felder.",
+      "Vergleiche Term Sheet und Vorlage vor der Ausfüllung auf Preis- und Laufzeitkonflikte."
+    ],
+    "negative": [
+      "Entwickle ohne Vorlage ein vollständig neues internationales Lizenzmodell.",
+      "Klage eine bereits fällige Vertragsstrafe ein."
+    ]
+  },
+  "cases": [
+    {
+      "id": "preis-konflikt-kopfzeile",
+      "request": "Liefere ergebnis.md als ausgefüllten Text mit Feldprotokoll. Vorlage: Kopfzeile Kunde Alt GmbH; Vertrag zwischen Anbieter A GmbH und [KUNDE]; Preis [PREIS] Euro netto monatlich; Beginn [BEGINN]; Anlage 1 Leistungsbeschreibung; Unterschrift [VERTRETER]. Unverändert zu erhalten ist die Klausel Haftung richtet sich nach den gesetzlichen Vorschriften. Freigegebenes Term Sheet vom 1. September: Kunde Neu GmbH, Beginn 1. Oktober 2026, Preis 1200 Euro netto monatlich. Nicht freigegebene E-Mail vom 5. September schlägt 1500 Euro vor. Der Auftraggeber sagt ausdrücklich, Preis erst nach Entscheidung einsetzen. Vertreter und Anlage fehlen. Keine Redline und keine neue Haftungsklausel gewünscht.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Ersetzt Alt GmbH auch in der Kopfzeile durch Neu GmbH und setzt den belegten Beginn ein.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Lässt den Preis wegen ausdrücklichen Entscheidungsvorbehalts offen und dokumentiert 1200 versus 1500 samt verschiedenem Freigabestatus.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Erhält die Haftungsklausel unverändert, erfindet weder Vertreter noch Anlage und liefert dennoch eine nutzbare Teilausfüllung ohne behauptete DOCX-Erzeugung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "termsheet-mapping"
+    },
+    {
+      "id": "b2b-mapping-ohne-verbraucherwiderruf",
+      "request": "Erstelle ergebnis.md mit ausgefüllter Vertragsfassung und kurzem Feldprotokoll. Vorlage: Kaufvertrag zwischen [VERKAEUFER] und [KAEUFER]; Kaufgegenstand [WARE]; Nettopreis [PREIS] Euro; Lieferung am [LIEFERDATUM]; Zahlungsziel [ZAHLUNGSZIEL]. Bestehende Schlussklausel: Änderungen bedürfen einer Vereinbarung der Parteien. Freigegebenes verbindliches Term Sheet vom 14. September 2026: Verkäuferin Drucktechnik A GmbH, Käuferin Handel B GmbH, zwei Druckmaschinen Modell D, Gesamtpreis 24000 Euro netto, Lieferung 1. Oktober 2026, Zahlung innerhalb von zehn Kalendertagen nach Rechnungseingang. Beide Gesellschaften handeln ausschließlich für ihren Geschäftsbetrieb; kein Verbraucher, keine Finanzierung, kein vereinbartes Widerrufs- oder Rückgaberecht. Der Auftrag lautet nur Datenübertragung, keine neue Rechtsgestaltung. Ein Altvermerk empfiehlt pauschal die Ergänzung einer 14-tägigen Widerrufsfrist nach Paragraf 14 BGB-InfoV. Ordne diesen Vorschlag im Protokoll ein; keine Originaldatei überschreiben.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Überträgt die freigegebenen Parteien, zwei Maschinen, Gesamtpreis von 24000 Euro netto und den Liefertermin korrekt und verwechselt Gesamtpreis nicht mit Stückpreis.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Erhält das Zahlungsziel als zehn Kalendertage ab Rechnungseingang, ohne mangels Rechnungseingangsdatum einen festen Zahlungstag zu erfinden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Fügt dem reinen Unternehmervertrag kein Verbraucherwiderrufsrecht hinzu und verwirft den Altvermerk als ungeeignete Grundlage; die 14-Tage-Regel wird nicht als allgemeines Vertragsrecht behandelt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Erhält die vorgegebene Schlussklausel und bleibt bei kontrollierter Ausfüllung mit Protokoll statt unbestellter Neugestaltung oder behaupteter Überschreibung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "termsheet-mapping"
+    }
+  ],
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Vorlage mit Eckdaten ausfüllen, Altvertrag für neuen Partner vorbereiten oder widersprüchliche Eckdaten zur Ausfüllfassung klären.",
+      "Dateien: Vorlage, Term Sheet und Korrespondenz still lesen; erst bei offenem Ziel passende Ausfüllwege anbieten.",
+      "Klarer Auftrag: belegte Felder unmittelbar ausfüllen und ausschließlich entscheidende Wert-, Fassungs- oder Ausfüllkonflikte erfragen."
+    ],
+    "continuation": "Jahrespreisbestätigung ändert Preisfelder und Zahlungsbezüge; bestätigter Mietgegenstand ändert Plananlage und Objektangaben; Vollmacht ändert die betroffenen Unterschriftsblöcke.",
+    "enrichment": "Detaillierte Preis- und Freigabekonflikte, Kiosk-/Lagerabgrenzung, ereignisabhängiger Mietbeginn und Partei-/Vertreterabgrenzung samt tatsächlich ausgelöster Genehmigungsfrist bis zur vollständigen Ausfüllfassung ausgearbeitet. Keine sachfremden materiell-rechtlichen Entscheidungen ergänzt.",
+    "limits": "desk review; no live client execution"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "vertragsausfueller/vertragsausfueller-werkstatt.md",
+      "vertragsausfueller/vertragsausfueller-schnellstart.md"
+    ],
+    "opening_change": "Belegte Parteien-, Leistungs-, Preis- und Termindaten mit Quellenabgleich statt abstrakter Vertragsgestaltung.",
+    "norms": [
+      "Paragrafen 133, 157, 164, 177 und 305b BGB",
+      "Paragraf 311b Absatz 1 BGB",
+      "Paragraf 578 BGB und Artikel 229 Paragraf 70 Absatz 1 EGBGB"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 23. Juni 2023, V ZR 89/22, amtliche Leitsätze",
+        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2023-6-23&Gericht=bgh&anz=3&client=13&nr=136183&pos=2",
+        "application": "Widersprüchliche Flurstücks- und Objektangaben nicht mechanisch korrigieren; gemeinsame Vorstellung beider Parteien und formbedürftigen Gegenstand klären.",
+        "limit": "Grundstückskauf und Vertragsauslegung, keine allgemeine Heilung fehlerhafter Datenübernahme. Amtliche Leitsätze geprüft."
+      }
+    ],
+    "remaining_limits": [
+      "Keine Live-Modellprüfung oder technische Exportprüfung durchgeführt; fallbezogene weitere Rechtsprechung bleibt zu prüfen."
+    ]
+  }
 }

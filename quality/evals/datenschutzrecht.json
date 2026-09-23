@@ -1,47 +1,204 @@
 {
   "schema_version": 1,
   "plugin": "datenschutzrecht",
-  "reviewed_on": "2026-09-17",
+  "reviewed_on": "2026-09-23",
   "sources": [
-    {"url":"https://eur-lex.europa.eu/eli/reg/2016/679/oj?locale=de","checked_on":"2026-09-14","supports":"Artikel 12, 28, 30, 33 und 34: Antwortfrist, Auftragsverarbeitung, Verzeichnis auch bei regelmäßiger Verarbeitung kleiner Unternehmen sowie Meldungsinhalt, 72 Stunden und gesonderte Benachrichtigung."},
-    {"url":"https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62021CJ0300","checked_on":"2026-09-14","supports":"EuGH, Urteil vom 4. Mai 2023, C-300/21: Verstoß allein reicht für Schadensersatz nicht; keine abstrakte Erheblichkeitsschwelle für immateriellen Schaden."},
-    {"url":"https://eur-lex.europa.eu/eli/reg/2026/1744/oj?locale=de","checked_on":"2026-09-14","supports":"Artikel 4a als eingeschränkte Bias-Datenregel anstelle von Artikel 10 Absatz 5; Kompetenzförderung und differenzierte Hochrisiko-Anwendungsdaten, keine Aussetzung der DSGVO."},
-    {"url":"https://www.gesetze-im-internet.de/ki-mig/__2.html","checked_on":"2026-09-14","supports":"Systemaufsicht der Bundesnetzagentur mit besonderen Zuständigkeiten; keine pauschale Übernahme der Datenschutzaufsicht."},
-    {"url":"https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025%2F0360%28COD%29","checked_on":"2026-09-14","supports":"COM(2025) 837 ist weiterhin ein laufendes Reformverfahren, keine geltende 96-Stunden-Frist."},
-    {"url":"https://eur-lex.europa.eu/procedure/EN/2025_130?qid=1748035370044&rid=3","checked_on":"2026-09-14","supports":"COM(2025) 501 gehört zum noch laufenden Verfahren 2025/0130/COD; vorgeschlagene Erleichterungen nicht vorwegnehmen."}
+    {
+      "url": "https://eur-lex.europa.eu/eli/reg/2016/679/oj?locale=de",
+      "checked_on": "2026-09-14",
+      "supports": "Artikel 12, 28, 30, 33 und 34: Antwortfrist, Auftragsverarbeitung, Verzeichnis auch bei regelmäßiger Verarbeitung kleiner Unternehmen sowie Meldungsinhalt, 72 Stunden und gesonderte Benachrichtigung."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62021CJ0300",
+      "checked_on": "2026-09-14",
+      "supports": "EuGH, Urteil vom 4. Mai 2023, C-300/21: Verstoß allein reicht für Schadensersatz nicht; keine abstrakte Erheblichkeitsschwelle für immateriellen Schaden."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/eli/reg/2026/1744/oj?locale=de",
+      "checked_on": "2026-09-14",
+      "supports": "Artikel 4a als eingeschränkte Bias-Datenregel anstelle von Artikel 10 Absatz 5; Kompetenzförderung und differenzierte Hochrisiko-Anwendungsdaten, keine Aussetzung der DSGVO."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/ki-mig/__2.html",
+      "checked_on": "2026-09-14",
+      "supports": "Systemaufsicht der Bundesnetzagentur mit besonderen Zuständigkeiten; keine pauschale Übernahme der Datenschutzaufsicht."
+    },
+    {
+      "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025%2F0360%28COD%29",
+      "checked_on": "2026-09-14",
+      "supports": "COM(2025) 837 ist weiterhin ein laufendes Reformverfahren, keine geltende 96-Stunden-Frist."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/procedure/EN/2025_130?qid=1748035370044&rid=3",
+      "checked_on": "2026-09-14",
+      "supports": "COM(2025) 501 gehört zum noch laufenden Verfahren 2025/0130/COD; vorgeschlagene Erleichterungen nicht vorwegnehmen."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62021CJ0487",
+      "checked_on": "2026-09-22",
+      "supports": "EuGH, Urteil vom 4. Mai 2023, C-487/21, CRIF, Randnummern 28 bis 45. Anwendung: Verständliche originalgetreue Datenkopie; Dokumentauszüge oder ganze Dokumente, soweit der Kontext für wirksame Rechteausübung unerlässlich ist. Grenze: Kein allgemeiner Aktenherausgabeanspruch; Rechte anderer konkret abwägen."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62021CJ0300",
+      "checked_on": "2026-09-22",
+      "supports": "EuGH, Urteil vom 4. Mai 2023, C-300/21, Österreichische Post, Randnummern 32 bis 51 und 58 bis 59. Anwendung: Verstoß, Schaden und Kausalität getrennt; keine Erheblichkeitsschwelle beim immateriellen Schaden. Grenze: Verstoß allein genügt nicht, keine automatische Schadenspauschale oder Strafentschädigung."
+    },
+    {
+      "url": "https://www.bfdi.bund.de/SharedDocs/Downloads/DE/Broschueren/INFO6.pdf?__blob=publicationFile&v=9",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlich veröffentlichte Aufsichtserläuterung, Abschnitte 4.1.2 bis 4.1.4, zur Dritterhebung, Zweckänderung und Ausnahmen; zugänglicher Quellenabschnitt geprüft."
+    }
   ],
-  "mini_review": {"sha256":"d9fa1852da6f170473aeded16130482b2c0f2a23cad27fd5841b02592fd2773d",
+  "mini_review": {
     "verdict": "revised",
-    "reason": "Vollständig geprüft: Datenpanne und Auskunft werden nach ergänzten Angaben bis zum bestellten Dokument fortgeführt. Doppelten Auftragseinstieg gekürzt; vorhandene Reformangaben nicht erneut rechtlich verifiziert.",
-    "changes": ["Erstmeldungsfelder, Schätzungen, Nachlieferung und gesonderten Betroffenenbrief ergänzt.","COM(2025) 837 und COM(2025) 501 sowie Artikel 4a, Kompetenzförderung, Hochrisikofristen und getrennte Aufsicht erhalten.","Allgemeine Bedienformel durch sachbezogenen Aktenstart ersetzt und Zusatzmaterial ausdrücklich optional gemacht.","Doppelten Auftragseinstieg gekürzt und den Stand der bestehenden Reformhinweise kenntlich gemacht."]
+    "reason": "Der Mini verknüpft Datenkopie und Kontext mit CRIF sowie Schaden und Kausalität mit Österreichische Post, ohne automatische Vollaktenkopie oder Schadenspauschale. Individueller Text- und Quellenreview, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Neue Angabe zum notwendigen Kontext eines Vergleichsfelds -> Schwärzungsentscheidung und Auskunftsantwort ändern; eine bloße Linksperre -> Löschbehauptung im Vorfallsentwurf korrigieren.",
+    "changes": [
+      "Artikel 15 Absatz 3 und 4 DSGVO auf verständliche vollständige Datenkopie mit erforderlichem Kontext angewandt.",
+      "Artikel 82 von Sanktion getrennt; Schaden und Kausalität bleiben nachzuweisen.",
+      "Dokumentenbasierte Nachfragen, gestufte Meldung und ausformulierte Empfängerdokumente erhalten.",
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
+    ],
+    "sha256": "217f4734faef639699ad940425eecea563a2769f80e2a2086d8b6cec0f664809"
   },
-  "workshop_review": {"verdict":"revised","reason":"Die Ganztextprüfung zeigte noch verpflichtende Stationsausgaben und eine Auslagerung der Sanktionsverteidigung im Widerspruch zum Einzelauftrag.","changes":["Zusatzplugin ausdrücklich optional gemacht.","Prozessentwurf bei Sammelklagenprävention vom Auftrag abhängig gemacht; keine eigenen Pflichtdokumente je Prüfschritt."],"sha256":"c1a7fc7e4da04c88735e576d9543bd9dad80b8f0ac085c8a66fef10022e943e9"},
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Die einzeln neu gefasste Werkstatt erhält Auskunft, AVV, DSFA, Datenpanne, Transfer und Behördenarbeit; unzutreffende Gleichsetzungen bei Rollen, BCR und Schadensersatz sind bereinigt. Die bezeichneten Anker wurden am amtlichen Entscheidungstext geprüft; keine pauschale Vollverifikation aller Nebenmaterien. Workflow-Ergänzung einzeln geprüft: Systembezogene Auskunftssuche, Drittbelange und verständliche Kopie; Vorfallkenntnis und Nachmeldung trotz Loglücken; Cloud-Eigennutzung, Unterauftragnehmer, Backups und Transferklauseln mit begrenzter Startfreigabe.",
+    "changes": [
+      "Artikel 15 Absatz 3 und 4 DSGVO auf verständliche vollständige Datenkopie mit erforderlichem Kontext angewandt.",
+      "Artikel 82 von Sanktion getrennt; Schaden und Kausalität bleiben nachzuweisen.",
+      "Dokumentenbasierte Nachfragen, gestufte Meldung und ausformulierte Empfängerdokumente erhalten.",
+      "Informationspflichten bei Direkt- und Dritterhebung ohne Antrag einschließlich Zeitpunkt, Zweckänderung und Ausnahmen wieder aufgenommen.",
+      "Systembezogene Auskunftssuche, Drittbelange und verständliche Kopie; Vorfallkenntnis und Nachmeldung trotz Loglücken; Cloud-Eigennutzung, Unterauftragnehmer, Backups und Transferklauseln mit begrenzter Startfreigabe."
+    ],
+    "sha256": "f5e58a7907656b6e6cb9e18033dd864978f25892164c97ad5e317fde5ea7e7ed"
+  },
   "selection": {
-    "positive": ["Bereite nach einem Fehlversand von Patientenunterlagen die Erstmeldung und die Betroffeneninformation vor.","Prüfe, ob wir bei achtzig Beschäftigten die laufende Lohnabrechnung aus unserem Verarbeitungsverzeichnis entfernen dürfen."],
-    "negative": ["Lege gegen einen bereits zugestellten Datenschutz-Bußgeldbescheid Einspruch ein und entwickle die Verteidigungsstrategie.","Prüfe ausschließlich das Datenbankherstellerrecht an nicht personenbezogenen Geodaten."]
+    "positive": [
+      "Bereite nach einem Fehlversand von Patientenunterlagen die Erstmeldung und die Betroffeneninformation vor.",
+      "Prüfe, ob wir bei achtzig Beschäftigten die laufende Lohnabrechnung aus unserem Verarbeitungsverzeichnis entfernen dürfen."
+    ],
+    "negative": [
+      "Lege gegen einen bereits zugestellten Datenschutz-Bußgeldbescheid Einspruch ein und entwickle die Verteidigungsstrategie.",
+      "Prüfe ausschließlich das Datenbankherstellerrecht an nicht personenbezogenen Geodaten."
+    ]
   },
-  "cases": [{
-    "id": "patientenexport-kein-warten-auf-forensik",
-    "request": "Die Praxiszentrum Süd GmbH in Stuttgart erfährt am 14. September 2026 um 09:00 Uhr durch eine bestätigte Logauswertung, dass ein Mitarbeiter am Vorabend versehentlich einen unverschlüsselten Exportlink an einen unbeteiligten externen Empfänger versandt hat. Dieser hat den Export vollständig heruntergeladen. Nach dem Exportprotokoll sind ungefähr 150 Patienten mit Namen, Kontaktdaten und Diagnosen betroffen; die genaue Zahl einzelner Datensätze wird erst die Forensik am 20. September liefern. Der Link ist seit 09:10 Uhr gesperrt. Eine Löschbestätigung des Empfängers fehlt; es gibt keine Anhaltspunkte, dass die heruntergeladenen Daten unlesbar sind. Die Datenschutzkontaktstelle lautet datenschutz@praxiszentrum-sued.example. Die Geschäftsführung möchte wegen einer Nachricht über den Digitalen Omnibus 96 Stunden warten und dann den Abschlussbericht abwarten. Erstelle in ergebnis.md einen entscheidungsreifen Frist- und Risikovermerk, eine zur Freigabe geeignete Erstmeldung an die zuständige Datenschutzaufsicht und einen gesonderten Patientenbrief. Kein Versand.",
-    "input_files": [],
-    "deliverables": ["ergebnis.md"],
-    "criteria": [
-      {"id":"C01","text":"Das Ergebnis setzt unverzügliches Handeln und die 72-Stunden-Marke am 17. September 2026 um 09:00 Uhr an; weder 96 Stunden noch der 20. September werden als zulässiger pauschaler Wartezeitpunkt übernommen.","deliverables":["ergebnis.md"]},
-      {"id":"C02","text":"Die Erstmeldung verwendet die belegten Kategorien, ungefähre Patientenzahl, Kontaktstelle, Folgen und Link-Sperrung; fehlende Datensatzzahlen werden offengelegt und nachzuliefern vorgesehen, nicht erfunden.","deliverables":["ergebnis.md"]},
-      {"id":"C03","text":"Der vollständige unverschlüsselte Diagnoseabfluss wird als Grundlage eines hohen Risikos gewürdigt und ein gesonderter verständlicher Patientenbrief vorbereitet; die Linksperre wird nicht als Rückholung des Downloads behandelt.","deliverables":["ergebnis.md"]},
-      {"id":"C04","text":"COM(2025) 837 wird als Vorschlag vom geltenden Melderecht unterschieden; eine Meldung an die Bundesnetzagentur wird nicht als Ersatz für die Datenschutzmeldung vorgeschlagen.","deliverables":["ergebnis.md"]}
+  "cases": [
+    {
+      "id": "patientenexport-kein-warten-auf-forensik",
+      "request": "Die Praxiszentrum Süd GmbH in Stuttgart erfährt am 14. September 2026 um 09:00 Uhr durch eine bestätigte Logauswertung, dass ein Mitarbeiter am Vorabend versehentlich einen unverschlüsselten Exportlink an einen unbeteiligten externen Empfänger versandt hat. Dieser hat den Export vollständig heruntergeladen. Nach dem Exportprotokoll sind ungefähr 150 Patienten mit Namen, Kontaktdaten und Diagnosen betroffen; die genaue Zahl einzelner Datensätze wird erst die Forensik am 20. September liefern. Der Link ist seit 09:10 Uhr gesperrt. Eine Löschbestätigung des Empfängers fehlt; es gibt keine Anhaltspunkte, dass die heruntergeladenen Daten unlesbar sind. Die Datenschutzkontaktstelle lautet datenschutz@praxiszentrum-sued.example. Die Geschäftsführung möchte wegen einer Nachricht über den Digitalen Omnibus 96 Stunden warten und dann den Abschlussbericht abwarten. Erstelle in ergebnis.md einen entscheidungsreifen Frist- und Risikovermerk, eine zur Freigabe geeignete Erstmeldung an die zuständige Datenschutzaufsicht und einen gesonderten Patientenbrief. Kein Versand.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Das Ergebnis setzt unverzügliches Handeln und die 72-Stunden-Marke am 17. September 2026 um 09:00 Uhr an; weder 96 Stunden noch der 20. September werden als zulässiger pauschaler Wartezeitpunkt übernommen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die Erstmeldung verwendet die belegten Kategorien, ungefähre Patientenzahl, Kontaktstelle, Folgen und Link-Sperrung; fehlende Datensatzzahlen werden offengelegt und nachzuliefern vorgesehen, nicht erfunden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Der vollständige unverschlüsselte Diagnoseabfluss wird als Grundlage eines hohen Risikos gewürdigt und ein gesonderter verständlicher Patientenbrief vorbereitet; die Linksperre wird nicht als Rückholung des Downloads behandelt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "COM(2025) 837 wird als Vorschlag vom geltenden Melderecht unterschieden; eine Meldung an die Bundesnetzagentur wird nicht als Ersatz für die Datenschutzmeldung vorgeschlagen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "datenpanne-meldung"
+    },
+    {
+      "id": "personalverwaltung-verzeichnis-omnibus",
+      "request": "Unsere Handwerk GmbH hat 80 Beschäftigte und rechnet deren Löhne monatlich ab. Im bestehenden Verzeichnis sind Lohnabrechnung, Arbeitszeitverwaltung und die Verwaltung von Arbeitsunfähigkeitsmeldungen erfasst. Der Geschäftsführer möchte am 14. September 2026 diese drei Einträge löschen, weil er von einer Omnibus-Befreiung für Unternehmen unter 1000 Mitarbeitern gelesen hat. Neue Systeme oder andere Verarbeitungen stehen nicht an. Verfasse in ergebnis.md eine kurze Entscheidungsvorlage für diese konkrete Bereinigung und grenze die einschlägigen Reformvorhaben vom derzeit anzuwendenden Verzeichnisrecht ab.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die Vorlage empfiehlt nicht die beantragte vollständige Entfernung: Die regelmäßige Personalverarbeitung wird trotz 80 Beschäftigten als vom Verzeichnis erfasst eingeordnet.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die Verwaltung von Arbeitsunfähigkeitsmeldungen wird zusätzlich im Hinblick auf besondere Datenkategorien betrachtet, statt ausschließlich die Beschäftigtenzahl zu zählen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "COM(2025) 501 und das andere Vorhaben COM(2025) 837 werden nicht als schon geltende allgemeine 1000-Personen-Befreiung angewandt; das Ergebnis bleibt auf die drei bezeichneten Verarbeitungstätigkeiten bezogen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "verarbeitungsverzeichnis-vvt-generator"
+    }
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "files": [
+      "datenschutzrecht/README.md",
+      "datenschutzrecht/datenschutzrecht-werkstatt.md",
+      "datenschutzrecht/datenschutzrecht-schnellstart.md",
+      "quality/evals/datenschutzrecht.json",
+      "datenschutzrecht/skills/datenpanne-meldung/SKILL.md"
     ],
-    "target_skill": "datenpanne-meldung"
-  }, {
-    "id": "personalverwaltung-verzeichnis-omnibus",
-    "request": "Unsere Handwerk GmbH hat 80 Beschäftigte und rechnet deren Löhne monatlich ab. Im bestehenden Verzeichnis sind Lohnabrechnung, Arbeitszeitverwaltung und die Verwaltung von Arbeitsunfähigkeitsmeldungen erfasst. Der Geschäftsführer möchte am 14. September 2026 diese drei Einträge löschen, weil er von einer Omnibus-Befreiung für Unternehmen unter 1000 Mitarbeitern gelesen hat. Neue Systeme oder andere Verarbeitungen stehen nicht an. Verfasse in ergebnis.md eine kurze Entscheidungsvorlage für diese konkrete Bereinigung und grenze die einschlägigen Reformvorhaben vom derzeit anzuwendenden Verzeichnisrecht ab.",
-    "input_files": [],
-    "deliverables": ["ergebnis.md"],
-    "criteria": [
-      {"id":"C01","text":"Die Vorlage empfiehlt nicht die beantragte vollständige Entfernung: Die regelmäßige Personalverarbeitung wird trotz 80 Beschäftigten als vom Verzeichnis erfasst eingeordnet.","deliverables":["ergebnis.md"]},
-      {"id":"C02","text":"Die Verwaltung von Arbeitsunfähigkeitsmeldungen wird zusätzlich im Hinblick auf besondere Datenkategorien betrachtet, statt ausschließlich die Beschäftigtenzahl zu zählen.","deliverables":["ergebnis.md"]},
-      {"id":"C03","text":"COM(2025) 501 und das andere Vorhaben COM(2025) 837 werden nicht als schon geltende allgemeine 1000-Personen-Befreiung angewandt; das Ergebnis bleibt auf die drei bezeichneten Verarbeitungstätigkeiten bezogen.","deliverables":["ergebnis.md"]}
+    "opening_change": "Konkrete Datenverarbeitung, Auskunft, Vorfall oder Vertragsrolle bearbeiten. Workflow-Ergänzung: Leer: Auskunftsantwort, Datenvorfall oder Auftragsverarbeitungsvertrag anbieten. Dateien ohne Aufgabe: Vorfallsbericht oder Auskunftsmaterial still lesen; Erstmeldung, interne Meldeentscheidung oder Antwortziel klären. Klarer Auftrag: das verlangte Datenschutzdokument unmittelbar entwerfen, keine Materialzusammenfassung und keine Fragen zu bereits bekannten Systemen.",
+    "norms": [
+      "Artikel 12, 15, 22, 28, 32 bis 36, 44 bis 49, 58, 78 und 82 DSGVO"
     ],
-    "target_skill": "verarbeitungsverzeichnis-vvt-generator"
-  }]
+    "decisions": [
+      {
+        "citation": "EuGH, Urteil vom 4. Mai 2023, C-487/21, CRIF, Randnummern 28 bis 45",
+        "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62021CJ0487",
+        "application": "Verständliche originalgetreue Datenkopie; Dokumentauszüge oder ganze Dokumente, soweit der Kontext für wirksame Rechteausübung unerlässlich ist.",
+        "limit": "Kein allgemeiner Aktenherausgabeanspruch; Rechte anderer konkret abwägen."
+      },
+      {
+        "citation": "EuGH, Urteil vom 4. Mai 2023, C-300/21, Österreichische Post, Randnummern 32 bis 51 und 58 bis 59",
+        "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62021CJ0300",
+        "application": "Verstoß, Schaden und Kausalität getrennt; keine Erheblichkeitsschwelle beim immateriellen Schaden.",
+        "limit": "Verstoß allein genügt nicht, keine automatische Schadenspauschale oder Strafentschädigung."
+      }
+    ],
+    "remaining_limits": [
+      "Nicht sämtliche Transfer-, Reform- und Leitlinienquellen neu verifiziert. Der gelesene gewöhnliche Datenpannen-Skill enthält weiter unpräzise ältere Aussagen und wurde außerhalb des Schreibbereichs nicht geändert.",
+      "Desk-/Quellenreview, kein Live-Client- oder Modelltest. Bestehende Auswahl- und Ergebnisfälle unverändert erhalten.",
+      "Workflow-Review 23.09.2026: DSGVO-Abruf nur begrenzt auswertbar; vorhandene Entscheidungsnachweise und dokumentierte Reformgrenzen beibehalten, keine erneute vollständige Rechtsstandsprüfung behauptet."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Auskunftsantwort, Datenvorfall oder Auftragsverarbeitungsvertrag anbieten.",
+      "Dateien ohne Aufgabe: Vorfallsbericht oder Auskunftsmaterial still lesen; Erstmeldung, interne Meldeentscheidung oder Antwortziel klären.",
+      "Klarer Auftrag: das verlangte Datenschutzdokument unmittelbar entwerfen, keine Materialzusammenfassung und keine Fragen zu bereits bekannten Systemen."
+    ],
+    "continuation": "Neue Angabe zum notwendigen Kontext eines Vergleichsfelds -> Schwärzungsentscheidung und Auskunftsantwort ändern; eine bloße Linksperre -> Löschbehauptung im Vorfallsentwurf korrigieren.",
+    "enrichment": "Systembezogene Auskunftssuche, Drittbelange und verständliche Kopie; Vorfallkenntnis und Nachmeldung trotz Loglücken; Cloud-Eigennutzung, Unterauftragnehmer, Backups und Transferklauseln mit begrenzter Startfreigabe.",
+    "limits": "desk review; no live client execution"
+  }
 }

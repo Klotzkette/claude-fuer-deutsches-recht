@@ -1,21 +1,55 @@
 {
   "schema_version": 1,
   "plugin": "richter-amtsgericht-zivil",
-  "reviewed_on": "2026-09-17",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/zpo/__495a.html",
       "checked_on": "2026-09-14",
       "supports": "Streitwertgrenze 1.000 Euro und zwingende mündliche Verhandlung auf Antrag."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__495a.html",
+      "checked_on": "2026-09-22",
+      "supports": "Amtlichen Text zu Paragraf 495a ZPO gelesen; Bezug: Forderung, erhebliche Einwendung und Verhandlungsbedarf aus der Zivilakte bestimmen. Keine vollständige neue Verifikation sämtlicher weiterer Normen des Plugins."
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2017/03/rk20170302_2bvr097716.html",
+      "checked_on": "2026-09-22",
+      "supports": "BVerfG, Beschluss vom 02.03.2017, 2 BvR 977/16: Ablehnung der Entscheidung nach Aktenlage als Verhandlungsantrag auslegen; fehlendes Beweisangebot rechtfertigt sein Übergehen nicht. Vollständiger amtlich indizierter Text Rn. 1 bis 13 gelesen; direkter Abruf 403. Kein allgemeiner Verhandlungsanspruch außerhalb der gesetzlichen Regel, heutige Wertgrenze separat geprüft."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__495a.html",
+      "checked_on": "2026-09-23",
+      "supports": "Laienhafter Verhandlungsantrag, Mangel-/Fotobeweis, konkrete Fachfrage und Vergleichsreichweite. Prüftiefe: Aktuelle Grenze und Verhandlungsantrag erneut gelesen; keine neue Vollverifikation kaufrechtlicher Beweislastvarianten."
     }
   ],
   "mini_review": {
-    "verdict": "retained",
-    "reason": "Am 18. September vollständig gelesen. Richterrolle, Gehör und noch erforderliche Beweisaufnahme bleiben klar; nachgereichte Zahlungsbelege ändern Zuordnung, Zinsen und Kosten statt einen Urteilsausgang vorwegzunehmen. Keine neue Quellenverifikation oder Live-Modellprüfung.",
-    "changes": [],
-    "sha256": "4864fbf4eb4acf1ee68a31a658f1e30fcb86d2077a840360d5c5305da7e6a610"
+    "verdict": "revised",
+    "reason": "Kurzprompt individuell auf Einstieg, fachliche Fortsetzung und vollständiges Arbeitsprodukt geprüft. Laienhafter Verhandlungsantrag, Mangel-/Fotobeweis, konkrete Fachfrage und Vergleichsreichweite.",
+    "changes": [
+      "Verhandlungsantrag funktional auslegen und schriftliche Entscheidung rechtzeitig ankündigen; ungeprüfte Aktenzeichen durch konkrete Verfahrensfragen ersetzt.",
+      "Ablehnung der Entscheidung nach Aktenlage als Verhandlungsantrag auslegen; fehlendes Beweisangebot rechtfertigt sein Übergehen nicht.",
+      "Verhandlungsbegehren -> Verfahrensverfügung ändern; andere Zahlungszuordnung -> Restbetrag und Zinsen korrigieren.",
+      "Laienhafter Verhandlungsantrag, Mangel-/Fotobeweis, konkrete Fachfrage und Vergleichsreichweite."
+    ],
+    "sha256": "4cee218762f4e8bee4a8e51946fe5c7ad3c909f1a96a8282e2ddd0a936a8a1a9",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
   },
-  "workshop_review": {"verdict":"retained","reason":"Am 18. September gesamten Text geprüft. Schlüssigkeit, Hinweise, Beweiswürdigung und Entscheidungsreife sind aufeinander abgestimmt; einzelne Aufträge erzwingen kein Urteil. Nachgereichte Belege werden gezielt eingearbeitet, und Nutzerantworten ersetzen keine gerichtlichen Verfahrenshandlungen. Kein widersprechender generischer Schluss gefunden.","changes":[],"sha256":"238cc4bfcc2105b9c5f80d76404418546bab296c83bc15d939c6b1df542a4315"},
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Werkstatt individuell auf Einstieg, fachliche Fortsetzung und vollständiges Arbeitsprodukt geprüft. Laienhafter Verhandlungsantrag, Mangel-/Fotobeweis, konkrete Fachfrage und Vergleichsreichweite.",
+    "changes": [
+      "Forderung, erhebliche Einwendung und Verhandlungsbedarf aus der Zivilakte bestimmen.",
+      "Ablehnung der Entscheidung nach Aktenlage als Verhandlungsantrag auslegen; fehlendes Beweisangebot rechtfertigt sein Übergehen nicht.",
+      "Verhandlungsbegehren -> Verfahrensverfügung ändern; andere Zahlungszuordnung -> Restbetrag und Zinsen korrigieren.",
+      "Laienhafter Verhandlungsantrag, Mangel-/Fotobeweis, konkrete Fachfrage und Vergleichsreichweite."
+    ],
+    "sha256": "adfec4089497fe739657c241ae7b024092d6f6c6386d95125662ec38e165ab7c",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
+  },
   "selection": {
     "positive": [
       "Erstellen Sie als Amtsrichter eine Relation zur bestrittenen Kaufpreisforderung.",
@@ -59,5 +93,45 @@
       ],
       "target_skill": "04-relation-zivilrecht-klein"
     }
-  ]
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "gerichtsplugins/richter-amtsgericht-zivil/README.md",
+      "gerichtsplugins/richter-amtsgericht-zivil/richter-amtsgericht-zivil-werkstatt.md",
+      "gerichtsplugins/richter-amtsgericht-zivil/richter-amtsgericht-zivil-schnellstart.md",
+      "quality/evals/richter-amtsgericht-zivil.json"
+    ],
+    "opening_change": "Forderung, erhebliche Einwendung und Verhandlungsbedarf aus der Zivilakte bestimmen",
+    "norms": [
+      "Paragraf 495a ZPO",
+      "Artikel 103 Absatz 1 GG"
+    ],
+    "decisions": [
+      {
+        "citation": "BVerfG, Beschluss vom 02.03.2017, 2 BvR 977/16",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2017/03/rk20170302_2bvr097716.html",
+        "application": "Ablehnung der Entscheidung nach Aktenlage als Verhandlungsantrag auslegen; fehlendes Beweisangebot rechtfertigt sein Übergehen nicht.",
+        "limit": "Vollständiger amtlich indizierter Text Rn. 1 bis 13 gelesen; direkter Abruf 403. Kein allgemeiner Verhandlungsanspruch außerhalb der gesetzlichen Regel, heutige Wertgrenze separat geprüft."
+      }
+    ],
+    "remaining_limits": [
+      "Vollständiger amtlich indizierter Text Rn. 1 bis 13 gelesen; direkter Abruf 403. Kein allgemeiner Verhandlungsanspruch außerhalb der gesetzlichen Regel, heutige Wertgrenze separat geprüft.",
+      "Keine echte Verhandlung und kein Live-Modelltest; Volltext über amtlich indizierten Text, nicht über erfolgreichen Direktabruf gelesen.",
+      "Individuelle redaktionelle Akten- und Quellenprüfung (desk review), kein Live-Client- oder Modelltest.",
+      "Workflow-Vertiefung 2026-09-23: Aktuelle Grenze und Verhandlungsantrag erneut gelesen; keine neue Vollverifikation kaufrechtlicher Beweislastvarianten. Desk review; kein Live-Client-Test."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Relation, Hinweis/Beweis oder Entscheidungsentwurf anbieten.",
+      "Klage und Erwiderung still lesen, automatischen Relationsstart entfernt.",
+      "Bestellten neutralen Entwurf direkt bearbeiten."
+    ],
+    "continuation": "Verhandlungsbegehren -> Verfahrensverfügung ändern; andere Zahlungszuordnung -> Restbetrag und Zinsen korrigieren.",
+    "enrichment": "Laienhafter Verhandlungsantrag, Mangel-/Fotobeweis, konkrete Fachfrage und Vergleichsreichweite.",
+    "limits": "desk review; no live client execution"
+  }
 }

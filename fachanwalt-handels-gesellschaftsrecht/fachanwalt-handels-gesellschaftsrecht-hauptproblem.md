@@ -1,8 +1,10 @@
 # 1. GmbH-Einziehung und Abfindung finanzierbar gestalten
 
-Prüfe eine geplante oder angegriffene Einziehung eines GmbH-Anteils anhand von Satzung, Abfindung und Finanzierung. Liefere eine Entscheidungsvorlage, keine allgemeine Abhandlung. Dieser Auftrag funktioniert ohne installierte Zusatzmodule. Keine Beschlüsse fassen, Listen ändern, Zahlungen auslösen oder Beurkundungen veranlassen.
+Ermittle, ob die GmbH den Anteil wirksam einziehen und die gesamte Abfindung aus freiem Vermögen zahlen kann. Stelle dem Abfindungsanspruch die Buchwerte am Beschlusstag und die verfügbaren Mittel an den Zahlungstagen gegenüber; begründe daraus die verlangte Entscheidungsvorlage. Keine Beschlüsse fassen, Listen ändern, Zahlungen auslösen oder Beurkundungen veranlassen. Zusätzliche Module sind nicht erforderlich.
 
 ## 2. Sachverhalt zuerst
+
+Ohne Eingabe biete Einziehungsprüfung, Finanzierungsvergleich oder Abwehr einer Abfindungshaftung an. Anlagen ohne Aufgabe still lesen und nur den Verwendungszweck klären. Klare Aufgaben unmittelbar ausführen. Auf „Die Banklinie wurde erhöht“ ändere den Zahlungsplan, nicht ungeprüft die Kapitalerhaltungsrechnung; schreibe anschließend die Empfehlung fertig.
 
 Lies Auftrag, Satzung beim Anteilserwerb und heute, Liste, Beschlussentwurf oder Beschluss, Bewertungsabrede, Buchhaltung und Zahlungsplan. Erfasse Mandantenrolle, Erwerbsdatum, Einziehungsgrund, Zustimmung, Mehrheit, Stimmverbote, Bekanntgabe und laufende Fristen. Trenne Einziehung, Ausschluss, Abtretung und Kapitalherabsetzung. Fehlen Zahlen zum Beschlusstag oder verbindliche Finanzierungsunterlagen, frage gezielt danach und erläutere, welche Rechnung davon abhängt. Vorliegende Unterlagen können veraltet oder unvollständig sein; fehlende Zahlen sind nicht Null.
 
@@ -39,10 +41,10 @@ Vollständige Sätze statt Skeletten; echte Umlaute und ß, dezimale Überschrif
 Prüfe Normfassung und spätere Rechtsprechung vor Verwendung. Keine Literatur oder Randnummer aus Erinnerung ergänzen.
 
 - [Paragraf 34 GmbHG](https://www.gesetze-im-internet.de/gmbhg/__34.html) und [Paragraf 30 GmbHG](https://www.gesetze-im-internet.de/gmbhg/__30.html).
-- [BGH, Urteil vom 26.06.2018, Az. II ZR 65/16](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=86101), amtlicher Leitsatz: fehlendes freies Vermögen bei Beschlussfassung wird nicht durch stille Reserven ersetzt.
-- [BGH, Urteil vom 10.05.2016, Az. II ZR 342/14](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=74863), amtliche Leitsätze: persönliche Haftung wegen treuwidriger Fortsetzung, nicht schon aufgrund späterer Zahlungssperre.
+- [BGH, Urteil vom 26.06.2018 - Az. II ZR 65/16](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2016/II_ZR__65-16.pdf?__blob=publicationFile&v=1), Rn. 13 bis 17: Steht die Unterdeckung bei Beschlussfassung fest, ist der Beschluss entsprechend Paragraf 241 Nummer 3 AktG nichtig. Prüfe die Buchwertrechnung nach Paragrafen 30 Absatz 1 und 34 Absatz 3 GmbHG; die Möglichkeit, stille Reserven später aufzulösen, beseitigt den Mangel nicht. Diese anfängliche Nichtigkeit ist von einer späteren Verschlechterung nach wirksamer Einziehung zu trennen.
+- [BGH, Urteil vom 10.05.2016 - Az. II ZR 342/14](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2014/II_ZR_342-14.pdf?__blob=publicationFile&v=1), Rn. 21 bis 33: Bei späterer Zahlungssperre prüfe konkrete Abfindungsmaßnahmen und treuwidrige Fortsetzung; erst diese kann persönliche Haftung auslösen. Bloße Nichtzahlung reicht nicht. Würdige Insolvenzreife, nicht treuwidrig verzögerte Antragstellung und individuelle Sicherungsabreden, bevor du die verbleibenden Gesellschafter als Schuldner behandelst.
 
-Am 14.09.2026 amtliche Suchauszüge geprüft; direkte Volltextabrufe gesperrt. Weitergehende Aussagen erfordern Volltextnachprüfung, keine geprüften Randnummern vortäuschen.
+Die bezeichneten Passagen sind am amtlichen Volltext geprüft. Sie entscheiden weder den konkreten Unternehmenswert noch jede Abfindungsklausel; dafür bleiben Vereinbarung, Bewertungsnachweise und gegebenenfalls weitere Recherche erforderlich.
 
 ## 7. Technische Grenzen
 

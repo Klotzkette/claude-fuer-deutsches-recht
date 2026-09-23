@@ -1,8 +1,140 @@
 {
-  "schema_version":1,"plugin":"berufsrecht-wirtschaftspruefer","reviewed_on":"2026-09-18",
-  "sources":[{"url":"https://www.gesetze-im-internet.de/hgb/__319.html","checked_on":"2026-09-14","supports":"Ausschluss bei Besorgnis der Befangenheit, nicht untergeordneter Mitwirkung an Buchführung oder Abschlussaufstellung und Erstreckung auf Prüfungsgesellschaften."}],
-  "mini_review":{"verdict":"retained","reason":"Aktuellen Mini vollständig gelesen. Tatsächliche Vorleistungen und fehlende Arbeitspapiere werden gezielt geklärt; nach der Antwort werden Annahmevotum oder Aufsichtsantwort fertiggestellt. Teamwechsel, Mandantenzustimmung und vollständige Dateiablage gelten nicht automatisch als ausreichende Prüfung oder Unabhängigkeit. Keine weitere Abbruchstelle gefunden; keine neue Rechtsquellen- oder Live-Modellprüfung.","changes":[],"sha256":"c5a58b944f8523dcca0bc6626cd2e760987df8a4fecbd708a0346f6c0a179768"},
-  "workshop_review":{"verdict":"retained","reason":"Gesamte Werkstatt gelesen. Unabhängigkeit, Dokumentation, Qualitätskontrolle, Vergütung und Aufsicht werden auftragsbezogen bearbeitet. Nachträgliche Erläuterungen bleiben von zeitgenössischen Arbeitspapieren getrennt; ergänzte Belege führen zu konkreten Änderungen statt unveränderter Freigabe. Keine verpflichtende Klagegliederung oder Bescheinigung bei Beratungsauftrag. Quellenstand unverändert, kein Live-Modelltest.","changes":[],"sha256":"35e79df79fb23fa692b74c980505f5e168ce67086eaf93947df2e9a224535fa6"},
-  "selection":{"positive":["Darf unsere Prüfungsgesellschaft einen Abschluss prüfen, den sie selbst wesentlich aufgestellt hat?","Bewerten Sie einen berufsaufsichtlichen Vorwurf wegen nicht nachvollziehbarer Prüfungsarbeitspapiere."],"negative":["Erstellen Sie für den Vorstand einen gewöhnlichen monatlichen Umsatzbericht.","Prüfen Sie nur den Gewährleistungsanspruch aus dem Kauf einer defekten Maschine."]},
-  "cases":[{"id":"abschlussaufstellung-und-pruefauftrag","request":"Die Treuprüfung GmbH Wirtschaftsprüfungsgesellschaft hat für die mittelgroße West GmbH den Jahresabschluss 2025 vollständig aufgestellt, wesentliche Rückstellungen berechnet und die Abschlussbuchungen selbst entwickelt. Es waren keine bloß technischen oder untergeordneten Hilfstätigkeiten. West unterliegt der gesetzlichen Abschlussprüfung und ist kein Unternehmen von öffentlichem Interesse. Nun soll dieselbe Prüfungsgesellschaft den Abschluss prüfen. Die Geschäftsführung von West stimmt zu; intern wird vorgeschlagen, ein anderes Team einzusetzen. Erstellen Sie ein begründetes Annahmevotum und eine Nachricht an West. Ein Prüfungsauftrag wurde noch nicht angenommen; beurteilen Sie nicht die Bilanzansätze selbst.","input_files":[],"deliverables":["ergebnis.md"],"criteria":[{"id":"C01","text":"Das Votum erkennt die nicht untergeordnete Mitwirkung an der Aufstellung gerade des zu prüfenden Abschlusses als gesetzlichen Ausschlussgrund und beschränkt sich nicht auf eine abstrakte Gefährdung.","deliverables":["ergebnis.md"]},{"id":"C02","text":"Weder Zustimmung der Geschäftsführung noch bloßer Wechsel des Teams wird als ausreichende Heilung für die Vorleistung derselben Prüfungsgesellschaft behandelt.","deliverables":["ergebnis.md"]},{"id":"C03","text":"Die Nachricht lehnt die Annahme nachvollziehbar ab und empfiehlt die Prüfung durch einen nicht ausgeschlossenen anderen Prüfer, ohne für den ausdrücklich nicht öffentlichen Mandanten ungeprüft PIE-Sonderregeln anzuwenden.","deliverables":["ergebnis.md"]}],"target_skill":"interessenkollision-beratung-interne"}]
+  "schema_version": 1,
+  "plugin": "berufsrecht-wirtschaftspruefer",
+  "reviewed_on": "2026-09-23",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/__319.html",
+      "checked_on": "2026-09-14",
+      "supports": "Ausschluss bei Besorgnis der Befangenheit, nicht untergeordneter Mitwirkung an Buchführung oder Abschlussaufstellung und Erstreckung auf Prüfungsgesellschaften."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/Xa_ZS/2007/Xa_ZR_175-07.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 21.01.2010, Xa ZR 175/07, Rn. 8 bis 24. Wesentliche eigene Erstellung des Anhangs als Selbstprüfung; anfänglichen Verbotsvertrag von erst späterer Pflichtverletzung und deren Vergütungsfolgen unterscheiden. Grenze: Älteres Recht, freiwillige Prüfung mit gesetzlich nachgebildetem Vermerk; nicht jede Beratung ist Abschlussaufstellung, verwendbare Teilleistungen gesondert prüfen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/__319.html",
+      "checked_on": "2026-09-22",
+      "supports": "Amtlicher Wortlaut geprüft: Gesetzliche Ausschlussgründe und Mitwirkung an Abschlussaufstellung; im Selbstprüfungsfall tatsächlichen Umfang eigener Arbeiten feststellen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/wipro/__43.html",
+      "checked_on": "2026-09-22",
+      "supports": "Amtlicher Wortlaut geprüft: Berufspflichten der Unabhängigkeit, Gewissenhaftigkeit, Verschwiegenheit und Unparteilichkeit; keine vollständige Prüfung sämtlicher PIE-Sonderregeln."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/__319.html",
+      "checked_on": "2026-09-23",
+      "supports": "Ausschlussprüfung nach Vorleistung, Person, Gesellschaft und Zeitraum; anderer Prüfungstrupp ist keine automatische Heilung."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Das Annahmevotum verknüpft wesentliche eigene Abschlussaufstellung mit dem Ausschluss und trennt die zeitabhängige Honorarfolge. Vollständige Text- und gezielte Primärquellenprüfung; kein Live-Mandanten- oder Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert.",
+    "changes": [
+      "Gesellschaftsbezogene Vorleistung nicht durch Teamwechsel oder Zustimmung heilbar.",
+      "Xa ZR 175/07 mit Anhang, zeitlicher Differenzierung und Teilleistungsgrenze integriert.",
+      "Paragraf 323 HGB als gesonderten Haftungsmaßstab aufgenommen.",
+      "Leer: Annahme, Prüfungsnachweis oder Aufsichtsantwort. Dateien: still lesen und Votum oder Qualitätsvermerk anbieten. Klar: direkt bestelltes Berufsrechtsdokument erstellen.",
+      "Neue Fassungskette ändert Annahmeentscheidung; erst heute erstelltes Arbeitspapier ändert Beweiswert statt historischen Prüfungszeitpunkt."
+    ],
+    "sha256": "916ab1e465d6812668517145ecbcb3a0b99c84ad6f6b131b8e5058ade989af08"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Gesetzlicher Ausschluss, zulässige Schutzmaßnahmen und Vertragsfolgen werden getrennt; besondere Abschlussprüferhaftung nicht im allgemeinen BGB-Schema übergangen. Vollständige Text- und gezielte Primärquellenprüfung; kein Live-Mandanten- oder Modelltest. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen.",
+    "changes": [
+      "Gesellschaftsbezogene Vorleistung nicht durch Teamwechsel oder Zustimmung heilbar.",
+      "Xa ZR 175/07 mit Anhang, zeitlicher Differenzierung und Teilleistungsgrenze integriert.",
+      "Paragraf 323 HGB als gesonderten Haftungsmaßstab aufgenommen.",
+      "Vorleistungsumfang, zeitabhängige Honorarfolge, Dokumentations- versus Durchführungsmangel und begrenzte Aufsichtsantwort vertieft.",
+      "Neue Fassungskette ändert Annahmeentscheidung; erst heute erstelltes Arbeitspapier ändert Beweiswert statt historischen Prüfungszeitpunkt."
+    ],
+    "sha256": "07ec33402b2d82a41c2dd0b5883020b373e2052eb337d833a904f435225c4fac"
+  },
+  "selection": {
+    "positive": [
+      "Darf unsere Prüfungsgesellschaft einen Abschluss prüfen, den sie selbst wesentlich aufgestellt hat?",
+      "Bewerten Sie einen berufsaufsichtlichen Vorwurf wegen nicht nachvollziehbarer Prüfungsarbeitspapiere."
+    ],
+    "negative": [
+      "Erstellen Sie für den Vorstand einen gewöhnlichen monatlichen Umsatzbericht.",
+      "Prüfen Sie nur den Gewährleistungsanspruch aus dem Kauf einer defekten Maschine."
+    ]
+  },
+  "cases": [
+    {
+      "id": "abschlussaufstellung-und-pruefauftrag",
+      "request": "Die Treuprüfung GmbH Wirtschaftsprüfungsgesellschaft hat für die mittelgroße West GmbH den Jahresabschluss 2025 vollständig aufgestellt, wesentliche Rückstellungen berechnet und die Abschlussbuchungen selbst entwickelt. Es waren keine bloß technischen oder untergeordneten Hilfstätigkeiten. West unterliegt der gesetzlichen Abschlussprüfung und ist kein Unternehmen von öffentlichem Interesse. Nun soll dieselbe Prüfungsgesellschaft den Abschluss prüfen. Die Geschäftsführung von West stimmt zu; intern wird vorgeschlagen, ein anderes Team einzusetzen. Erstellen Sie ein begründetes Annahmevotum und eine Nachricht an West. Ein Prüfungsauftrag wurde noch nicht angenommen; beurteilen Sie nicht die Bilanzansätze selbst.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Das Votum erkennt die nicht untergeordnete Mitwirkung an der Aufstellung gerade des zu prüfenden Abschlusses als gesetzlichen Ausschlussgrund und beschränkt sich nicht auf eine abstrakte Gefährdung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Weder Zustimmung der Geschäftsführung noch bloßer Wechsel des Teams wird als ausreichende Heilung für die Vorleistung derselben Prüfungsgesellschaft behandelt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die Nachricht lehnt die Annahme nachvollziehbar ab und empfiehlt die Prüfung durch einen nicht ausgeschlossenen anderen Prüfer, ohne für den ausdrücklich nicht öffentlichen Mandanten ungeprüft PIE-Sonderregeln anzuwenden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "interessenkollision-beratung-interne"
+    }
+  ],
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Annahme, Prüfungsnachweis oder Aufsichtsantwort.",
+      "Dateien: still lesen und Votum oder Qualitätsvermerk anbieten.",
+      "Klar: direkt bestelltes Berufsrechtsdokument erstellen."
+    ],
+    "continuation": "Neue Fassungskette ändert Annahmeentscheidung; erst heute erstelltes Arbeitspapier ändert Beweiswert statt historischen Prüfungszeitpunkt.",
+    "enrichment": "Vorleistungsumfang, zeitabhängige Honorarfolge, Dokumentations- versus Durchführungsmangel und begrenzte Aufsichtsantwort vertieft.",
+    "limits": "desk review; no live client execution"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "berufsrecht-wirtschaftspruefer/berufsrecht-wirtschaftspruefer-werkstatt.md",
+      "berufsrecht-wirtschaftspruefer/berufsrecht-wirtschaftspruefer-schnellstart.md",
+      "berufsrecht-wirtschaftspruefer/README.md",
+      "quality/evals/berufsrecht-wirtschaftspruefer.json"
+    ],
+    "opening_change": "Konkrete Selbstprüfung, Nachweis einer Prüfungshandlung und Aufsichtsvorwurf statt abstrakter Berufsfrage.",
+    "norms": [
+      "HGB Paragraf 319 Absatz 3 Satz 1 Nummer 3 Buchstabe a und Absatz 4",
+      "WPO Paragraf 43",
+      "BGB Paragrafen 134, 275 Absatz 1 und 326 Absatz 1"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 21.01.2010, Xa ZR 175/07, Rn. 8 bis 24",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/Xa_ZS/2007/Xa_ZR_175-07.pdf?__blob=publicationFile&v=1",
+        "application": "Wesentliche eigene Erstellung des Anhangs als Selbstprüfung; anfänglichen Verbotsvertrag von erst späterer Pflichtverletzung und deren Vergütungsfolgen unterscheiden.",
+        "limit": "Älteres Recht, freiwillige Prüfung mit gesetzlich nachgebildetem Vermerk; nicht jede Beratung ist Abschlussaufstellung, verwendbare Teilleistungen gesondert prüfen."
+      }
+    ],
+    "remaining_limits": [
+      "Desk-/Quellenprüfung, kein Live-Mandanten- oder Modelltest.",
+      "PIE-Sonderrecht, Prüfungsstandards und Haftungshöchstbeträge nicht vollständig neu verifiziert.",
+      "Workflow-Anschlussprüfung 23.09.2026: individuelle Text- und Quellenprüfung, keine Live-Client-Ausführung. Frühere Entscheidungsprüfungen und ihre Reichweitengrenzen bleiben unverändert; keine erneute vollständige Rechtsprechungsprüfung behauptet."
+    ]
+  }
 }

@@ -1,8 +1,8 @@
 # 1. Hauptversammlung der AG oder SE vorbereiten und auswerten
 
-Erstelle die beauftragte Einladung, das Leitungsskript, den Fragenkatalog, die Beschlussvorlage oder die rechtliche Bewertung einer Hauptversammlung. Lies dafür zuerst Auftrag, Satzung, Beschlüsse und vorhandene Versammlungsunterlagen.
+Prüfe, ob die Hauptversammlung wirksam einberufen ist, die vorgesehenen Aktionäre teilnehmen und abstimmen dürfen und die Beschlüsse ordnungsgemäß zustande kommen können. Überarbeite daraus die verlangte Einladung, das Leitungsskript oder den Beschlussvorschlag; bei einer bereits abgehaltenen Versammlung bewerte die konkret gerügten Mängel. Lies zuerst Auftrag, Satzung, Beschlüsse und vorhandene Versammlungsunterlagen.
 
-Ist das gewünschte Ergebnis daraus erkennbar, beginne ohne erneute Aufnahme; ist es unklar, frage gezielt nach dem benötigten Dokument.
+Ohne Eingabe biete Einladung mit Fristenplanung, Leitungsskript für die Durchführung oder Prüfung eines gefassten Beschlusses an. Bei Dateien ohne Auftrag lies zunächst still und biete zwei oder drei dazu passende Wege an, noch keinen Gesamtbefund. Bei klarem Auftrag beginne unmittelbar; frage nur nach entscheidenden fehlenden Angaben. Eine Folgeantwort aktualisiert Satzungsgrundlage, Teilnahmeentscheidung oder konkreten Leitungstext, ohne die Gesellschaft erneut aufzunehmen.
 
 ## 1.1. Gesellschaft, Rolle und Termin bestimmen
 
@@ -63,13 +63,11 @@ Prüfe die für den Auftrag einschlägigen Grundlagen, nicht unterschiedslos jed
 - AktG Paragraf 241 bis Paragraf 246a: Nichtigkeit, Anfechtung, Klagefrist und Freigabeverfahren.
 - SE-VO Artikel 52 bis Artikel 60 und SEAG: Zuständigkeit und Beschlussfassung der Hauptversammlung einer SE.
 
-### 1.7.1. Vorhandene Rechtsprechungsanker
+### 1.7.1. Streit um die Teilnahmeberechtigung
 
-Die folgenden Anker sind vor Verwendung am konkreten Fall und anhand einer belastbaren Quelle zu prüfen; die Auflistung bescheinigt keine aktuelle Verifikation.
+Legt ein Aktionär einer nicht börsennotierten AG einen von Paragraf 123 Absatz 4 AktG abweichenden Satzungsnachweis vor, prüfe dessen Wortlaut und Richtigkeitsgewähr. Nach [BGH, Urteil vom 25.03.2025 - Az. II ZR 208/22](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2022/II_ZR_208-22.pdf?__blob=publicationFile&v=1), Rn. 18, 26 und 30 bis 36, gilt die unwiderlegliche Vermutung des Absatzes 4 Satz 5 nicht für solche abweichenden Nachweise. Paragraf 123 Absatz 3 AktG lässt Gestaltungsspielraum, aber keine unbestimmten Anforderungen oder unangemessene Teilnahmeerschwerung zu. Eine Öffnungsklausel kann vergleichbar zuverlässige Nachweise zulassen; sie erlaubt nicht jede beliebige Bescheinigung.
 
-- BGH, Urteil vom 25.03.2025 - II ZR 208/22: Bei einer nicht börsennotierten AG mit Inhaberaktien besteht für den satzungsmäßigen Nachweis der Teilnahme- und Stimmberechtigung ein weiter Gestaltungsspielraum; die Vermutung des AktG Paragraf 123 Absatz 4 Satz 5 gilt nicht für abweichende Satzungsnachweise.
-- BGH, Urteil vom 30.06.2015 - II ZR 142/14: Das Einberufungsorgan kann die Versammlung grundsätzlich absagen, aber nicht mehr, wenn erschienene Aktionäre nach dem angekündigten Beginn im Versammlungsraum zusammengekommen sind.
-- BGH, Urteil vom 08.02.2010 - II ZR 94/08: Eine Satzung darf angemessene Zeitrahmen für Rede- und Fragerecht vorsehen; der Versammlungsleiter muss die konkrete Beschränkung sachgerecht, verhältnismäßig und gleichbehandelnd ausüben.
+Arbeite deshalb die Entscheidung über Zulassung, Nachforderung oder Zurückweisung anhand der konkreten Satzung aus. Der dort entschiedene Besitznachweis ist kein Urteil über das Eigentum zwischen streitenden Prätendenten und kein Beleg für die heutige Zulässigkeit virtueller Versammlungen: Der Fall betraf eine HV von 2020. Für deren heutige technische und organisatorische Anforderungen bleiben Paragrafen 118a, 130a, 131 und 243 Absatz 3 AktG maßgeblich. Weitere Streitfragen, etwa Absage oder Redezeitbegrenzung, gesondert recherchieren, nicht mit diesem Urteil erledigen.
 
 ## 1.8. Ergebnis und Fortsetzung
 
@@ -80,3 +78,27 @@ Prüfe vor Abschluss die Übereinstimmung von Termin, Tagesordnung, Satzung, Tei
 ## 1.9. Technische Grenzen und Format
 
 Nutze nur verfügbare Werkzeuge; fehlender Datei- oder Quellenzugriff sperrt nur den davon abhängigen Schritt und ist konkret zu benennen. Ohne zusätzliche Skills hier weiterarbeiten; nach einem erfolglosen Abruf nur einen begründeten Alternativweg versuchen und sonst den verwendbaren Teilstand liefern. Behaupte keine ungelesene Aktenprüfung, aktuelle Quellenprüfung oder erfolgreiche Dateierzeugung; ohne Export liefere vollständigen Text statt erfundener Links. Verwende dezimale Gliederung mit Leerzeilen und für formatierte Dokumente Times New Roman 11 pt, sonst einen entsprechenden Exporthinweis.
+
+## 2. Entscheidungen im laufenden HV-Mandat
+
+### 2.1. Von der Satzung zur konkreten Einladung
+
+Bei „Wir wollen wieder virtuell tagen“ ist die letzte virtuelle HV kein Nachweis einer noch gültigen Ermächtigung. Prüfe den vorgelegten Satzungswortlaut, dessen Registerstand, Befristung und die Organentscheidung. Frage nur nach dem fehlenden Teil dieser Kette. Ergibt die Nachlieferung eine abgelaufene Grundlage, liefere keinen endgültigen virtuellen Einladungstext. Arbeite die beauftragte Alternative aus, etwa einen Präsenzentwurf mit klar gekennzeichneten noch zu entscheidenden Versammlungsdaten. Eine neue Satzungsgrundlage darf nicht als bereits wirksam eingesetzt werden.
+
+Bei vorhandenem Termin rechne jede einzelne Handlungsfrist mit der einschlägigen Norm und Satzung; bei verändertem Termin aktualisiere nicht nur das Datum im Kopf, sondern Einberufung, Anmeldung, Nachweis, Anträge und Mitteilungen. Bleibt der Termin offen, liefere ausformulierten Text mit benannten Datumsplatzhaltern und getrenntem Berechnungsvorbehalt. Die Einladung muss die tatsächlich nutzbaren Teilnahmewege beschreiben, nicht die Leistungen eines noch unverbindlichen Dienstleisterangebots.
+
+### 2.2. Nachweisstreit vor der Abstimmung
+
+Bei zwei Personen, die dieselben Aktien beanspruchen, trenne satzungsmäßige Legitimation, Vollmacht und materiellen Eigentumsstreit. Frage nach der fehlenden Bescheinigung, nicht pauschal nach sämtlichen Depotunterlagen. Wende II ZR 208/22 nur auf den konkret vergleichbaren Satzungsnachweis an. Erstelle einen vollständigen Zulassungs- oder Nachforderungstext mit konkretem Mangel und verantwortlicher Prüfstelle, ohne Eigentum verbindlich festzustellen.
+
+Wird ein Nachweis ergänzt, ändere Teilnehmerverzeichnis, erfasste Stimmen und Leitungsanweisung konsistent. Wurde bereits abgestimmt, nicht rückwirkend so protokollieren, als sei die Person von Anfang an zugelassen gewesen. Sichere tatsächlichen Ablauf, Zeitpunkt und betroffene Beschlüsse. Die Frage einer Wiederholung oder späteren Beschlussmängelbewertung ist dann ein eigener Arbeitsschritt innerhalb des beauftragten Mandats. Ungünstige Belege, etwa eine vergleichbar zuverlässige rechtzeitig vorgelegte Bescheinigung, ausdrücklich in die interne Bewertung aufnehmen.
+
+### 2.3. Technische Störung verändert das Leitungsskript
+
+Bei Ausfall der Videoanträge vor der Abstimmung frage nur nach betroffener Funktion, Nutzerkreis und belastbarer Wiederherstellungsaussage, soweit nicht dokumentiert. Entwirf eine Ansage mit tatsächlichem Störungsumfang, Unterbrechung und angekündigtem weiteren Bericht; keine erfundene Reparaturzeit nennen. Nach „Funktion wiederhergestellt“ ergänze einen konkreten Funktionsnachweis und die Wiederaufnahme der unterbrochenen Wortmeldung, bevor der betroffene Tagesordnungspunkt fortgesetzt wird. Nach „nur einzelne Nutzer betroffen“ prüfe deren Meldungen und Zugänge, statt automatisch einen allgemeinen Ausfall anzunehmen.
+
+Für das spätere Votum erfasse auch Warnungen, abgesagte Tests und bekannte Fehler. [Paragraf 243 Absatz 3 AktG](https://www.gesetze-im-internet.de/aktg/__243.html) verlangt für die dort erfassten Störungen die Prüfung von grober Fahrlässigkeit oder Vorsatz sowie eines strengeren Satzungsmaßstabs. Nicht jede Organisationsentscheidung ist eine technische Störung. Die Belege bestimmen die Tatsachenbasis; ihre Verfügbarkeit allein verteilt nicht die prozessuale Beweislast. Ein funktionierender Stream ersetzt kein ausgefallenes Antragsrecht.
+
+### 2.4. Beschlussmängelauftrag abschließen
+
+Bei einem bereits gefassten Beschluss kläre Rolle, angegriffenen Wortlaut, Beschlussdatum und tatsächliche Teilnahme beziehungsweise Widerspruch nur soweit offen. Die Anfechtungsklage unterliegt nach Paragraf 246 Absatz 1 AktG der Monatsfrist nach Beschlussfassung; nicht auf den späteren Erhalt der Niederschrift warten. Nichtigkeit und andere Rechtsschutzwege nicht ohne Prüfung derselben Frist unterwerfen. Entwerfe nur bei Klageauftrag einen Antrag, der den betroffenen Beschluss eindeutig bezeichnet, mit Tatsachen und konkreten Beweisangeboten. Ein Risikovermerk endet dagegen mit Empfehlung und Handlungsfrist. Externe Einladung, Klage oder Registeranmeldung gesondert freigeben; keine künstliche Freigaberunde für die interne Endfassung.

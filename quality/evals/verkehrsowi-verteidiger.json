@@ -1,8 +1,13 @@
 {
   "schema_version": 1,
   "plugin": "verkehrsowi-verteidiger",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/owig_1968/__67.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlicher Normtext für den ergänzten Fristdialog erneut gelesen: zwei Wochen ab Zustellung, erlassende Behörde und gesonderte Entscheidung über Beschränkung. Keine Zustellungsfiktion aus fehlendem Umschlag abgeleitet."
+    },
     {
       "url": "https://www.gesetze-im-internet.de/owig_1968/__67.html",
       "checked_on": "2026-09-14",
@@ -32,15 +37,51 @@
       "url": "https://www.gesetze-im-internet.de/owig_1968/BJNR004810968.html",
       "checked_on": "2026-09-14",
       "supports": "Amtlich indexierter Paragraf 17: Bemessung der Geldbuße anhand Bedeutung, Vorwurf und gegebenenfalls wirtschaftlichen Verhältnissen."
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2020/11/rk20201112_2bvr161618.html",
+      "checked_on": "2026-09-22",
+      "supports": "BVerfG, Beschluss vom 12.11.2020, 2 BvR 1616/18, Randnummern 50 bis 60. Amtliche tragende Entscheidungsgründe gelesen. Anwendung: Zugang zu behördlich vorhandenen Informationen außerhalb der Bußgeldakte bei sachlichem und zeitlichem Bezug und möglicher Verteidigungsrelevanz, ohne schon einen Messfehler beweisen zu müssen. Grenze: Keine beliebige Ausforschung; Drittinteressen und Verfahrensstand beachten. Informationszugang nicht mit gerichtlicher Aufklärungspflicht oder Datenerzeugung gleichsetzen."
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2023/06/rk20230620_2bvr116720.html",
+      "checked_on": "2026-09-22",
+      "supports": "BVerfG, Beschluss vom 20.06.2023, 2 BvR 1167/20, Randnummern 48 bis 54. Amtliche tragende Entscheidungsgründe gelesen. Anwendung: Vorhandene und technisch nicht gespeicherte Daten unterscheiden; ein Anspruch auf Erzeugung und Speicherung folgt nicht ohne weitere Darlegung aus dem Zugang zu vorhandenen Informationen. Grenze: Nichtannahme wegen unzureichender Darlegung, keine allgemeine Sachentscheidung zum Ausschluss jeder Speicherungspflicht und kein automatisches Verwertungsverbot."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/owig_1968/__49.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aktueller amtlicher Normtext gelesen: Akteneinsicht."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/owig_1968/__62.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aktueller amtlicher Normtext gelesen: Gerichtlicher Rechtsschutz gegen behördliche Maßnahmen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/owig_1968/__67.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aktueller amtlicher Normtext gelesen: Frist und Umfang des Einspruchs."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stvg/__24a.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aktueller amtlicher Normtext gelesen: Einheiten und gesetzliche Alkohol-/THC-Tatbestände auseinanderhalten."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Mini vollständig gelesen; gute Trennung von Rohwert, Toleranz und Vorwurf erhalten, aber starres Ausgabepaket aufgelöst.",
+    "reason": "Ganztext nach Erweiterung gelesen: drei Eingangsmodi führen zum Einspruch, Messdatenantrag oder Rechtsfolgentext; Behördenantworten ändern das Informationsbegehren und widerlegte Hypothesen werden entfernt. Vorhandene Entscheidungsgrenzen erhalten; Desk-Review, kein Live-Modelltest.",
     "changes": [
-      "Zustellnachweis, Originalfoto und Messprotokoll gezielt nachfordern, anschließend Frist oder Beweisbewertung aktualisieren und gewünschtes Dokument fertigstellen."
+      "Informationszugang ohne vorherigen Fehlernachweis, aber mit Bezug zur konkreten Messung begründet.",
+      "Antrag, Ablehnung und Paragraf 62 OWiG in die Bearbeitung eingebunden.",
+      "Nichtannahmebeschluss von 2023 mit Darlegungsgrenze eingeordnet; keine automatische Unverwertbarkeit oder Freispruchszusage.",
+      "Vorhandenes Wartungsprotokoll, nachgewiesene Nichtspeicherung und bloß fehlender Behördenbesitz in konkrete Fortsetzungswege übersetzt.",
+      "Bestätigte Vertretungsmöglichkeit verändert die Fahrverbotshärtebegründung."
     ],
-    "sha256": "a2befc79fbb8a6f67d23bd70c4276cea828e1c65b76ea00cf5fe8c657259861d"
+    "sha256": "e0bcf68a47303946a051905d3ff653c02687a67e7a54468fccb72f3e929d6b97",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
   },
   "selection": {
     "positive": [
@@ -127,10 +168,61 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt vollständig einschließlich aller Schlussrouten gelesen; pauschale Toleranz, falscher Fahrtenbuchverweis und fehlerhafte Entbindungsangabe widersprachen der konkreten Prüfung.",
+    "reason": "Werkstatt vollständig nachgelesen: Anhörung, Bescheid, Informationszugang und gerichtliche Weiterverfolgung führen zu passenden Texten; entlastende Technikbelege und belastende Härtefalltatsachen ändern die Empfehlung. Entscheidungsarten bleiben getrennt. Desk-Review, kein Live-Modelltest.",
     "changes": [
-      "Messdatenzugangsanker erhalten; Toleranz gerätebezogen prüfen, Fahrtenbuch Paragraf 31a StVZO zuordnen, Entbindung nach Paragraf 73 Absatz 2 OWiG und Blutentnahme-Ausnahmen berücksichtigen; doppelte Standardrouten entfernt."
+      "Informationszugang ohne vorherigen Fehlernachweis, aber mit Bezug zur konkreten Messung begründet.",
+      "Antrag, Ablehnung und Paragraf 62 OWiG in die Bearbeitung eingebunden.",
+      "Nichtannahmebeschluss von 2023 mit Darlegungsgrenze eingeordnet; keine automatische Unverwertbarkeit oder Freispruchszusage.",
+      "Behördenantwort, Wartungsprotokoll und Gerätezustand mit Nachforderung, Beweisfrage und aktualisiertem Verteidigungsvermerk verbunden.",
+      "Fristauslöser, Verfahrensort, belegte Ersatzbeförderung und gesonderte Entscheidung über Beschränkung konkretisiert."
     ],
-    "sha256": "e1138567dee2c4860741e632fe69410cf6f88e1b1cf0fffb37db96ef65dc07ea"
+    "sha256": "e8ede3ddffb3c4825b11f2ba0091c305410cabaab758923b11a5789eb625cc00",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Einspruch, Messdatenantrag mit Verteidigungsvermerk oder Fahrverbotsschriftsatz anbieten.",
+      "Dateien: Bescheid, Zustellbeleg und Messunterlagen still lesen; nur bei offenem Ziel fristbezogenen Einspruch oder Messaktennachforderung anbieten.",
+      "Klarer Auftrag: sofort formulieren; nur entscheidenden Zustelltag, Beweisbezug oder Härtefallnachweis klären."
+    ],
+    "continuation": "Behördenauskunft über vorhandene oder nicht gespeicherte Daten verändert den Antrag; eingegangenes Wartungsprotokoll oder bestätigte Vertretung ändert Verteidigungsvermerk und Rechtsfolgenbegründung.",
+    "enrichment": "Verfahrensstand, Zustellung, konkret begründeter Datenzugang, technische Gegenbelege und tatsächliche Fahrverbotsalternativen bis zu vollständigen Entwürfen weitergeführt.",
+    "limits": "desk review; no live client execution"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "verkehrsowi-verteidiger/verkehrsowi-verteidiger-schnellstart.md",
+      "verkehrsowi-verteidiger/verkehrsowi-verteidiger-werkstatt.md"
+    ],
+    "opening_change": "Fahrerzuordnung, konkreten Mess- oder Beobachtungsbeleg und bereits bereinigten Tatvorwurf mit Bescheid und Zustellung abgleichen.",
+    "norms": [
+      "Paragrafen 46, 49, 62, 67, 73 und 74 OWiG",
+      "Artikel 2 Absatz 1 in Verbindung mit Artikel 20 Absatz 3 GG",
+      "Paragraf 24a StVG"
+    ],
+    "decisions": [
+      {
+        "citation": "BVerfG, Beschluss vom 12.11.2020, 2 BvR 1616/18, Randnummern 50 bis 60",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2020/11/rk20201112_2bvr161618.html",
+        "application": "Zugang zu behördlich vorhandenen Informationen außerhalb der Bußgeldakte bei sachlichem und zeitlichem Bezug und möglicher Verteidigungsrelevanz, ohne schon einen Messfehler beweisen zu müssen.",
+        "limit": "Keine beliebige Ausforschung; Drittinteressen und Verfahrensstand beachten. Informationszugang nicht mit gerichtlicher Aufklärungspflicht oder Datenerzeugung gleichsetzen."
+      },
+      {
+        "citation": "BVerfG, Beschluss vom 20.06.2023, 2 BvR 1167/20, Randnummern 48 bis 54",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2023/06/rk20230620_2bvr116720.html",
+        "application": "Vorhandene und technisch nicht gespeicherte Daten unterscheiden; ein Anspruch auf Erzeugung und Speicherung folgt nicht ohne weitere Darlegung aus dem Zugang zu vorhandenen Informationen.",
+        "limit": "Nichtannahme wegen unzureichender Darlegung, keine allgemeine Sachentscheidung zum Ausschluss jeder Speicherungspflicht und kein automatisches Verwertungsverbot."
+      }
+    ],
+    "remaining_limits": [
+      "Desk- und Primärquellenreview, kein Live-Client- oder Modelltest.",
+      "Keine tatsächliche Geräteprüfung oder sachverständige Messrekonstruktion.",
+      "Nichtannahme 2023 ist keine allgemeine Sachentscheidung über jede Speicherungspflicht; aktuelle gerätespezifische Vorgaben bleiben zu prüfen.",
+      "Workflow-Erweiterung 23.09.2026: Paragraf 67 OWiG erneut gelesen; bestehende qualifizierte Nachweise zu den Messdatenentscheidungen erhalten, keine neue vollständige Entscheidungsprüfung oder Geräteprüfung behauptet."
+    ]
   }
 }

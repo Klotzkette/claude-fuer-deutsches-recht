@@ -1,22 +1,45 @@
 {
   "schema_version": 1,
   "plugin": "haushaltsrecht-bho-bund-laender",
-  "reviewed_on": "2026-09-17",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/bho/__38.html",
       "checked_on": "2026-09-14",
       "supports": "Amtlicher Volltext: Ermächtigung für künftige Ausgaben und Ausnahmen, insbesondere Absatz 4."
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2023/11/fs20231115_2bvf000122.html",
+      "checked_on": "2026-09-22",
+      "supports": "BVerfG, Urteil vom 15. November 2023, 2 BvF 1/22, Randnummern 158–178: Aufstellung, Geltungszeitraum und Kassenwirksamkeit jahresbezogen trennen; Fondszuweisung ersetzt keine erforderliche Ermächtigung. Grenze: Gesetzliche Ausgabereste bleiben möglich. Urteil betrifft frühere Verfassungslage; heutige Artikel 115 und 143h GG gesondert geprüft, kein generelles Sondervermögensverbot. Amtliche tragende Gründe gelesen; keine Vollverifikation der gesamten Materie."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bho/__38.html",
+      "checked_on": "2026-09-22",
+      "supports": "Verpflichtungsermächtigung bei Bindungen für künftige Haushaltsjahre und Ausnahmen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gg/art_115.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aktuelle Kreditgrenzen einschließlich besonderer Verteidigungs- und Sicherheitsausgaben; Urteil von 2023 nicht unverändert auf heutige Verfassungslage anwenden."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gg/art_143h.html",
+      "checked_on": "2026-09-22",
+      "supports": "Besondere Verfassungsgrundlage des Infrastruktur-Sondervermögens; keine generelle Übertragbarkeit auf beliebige Fonds."
     }
   ],
   "mini_review": {
-    "verdict": "retained",
-    "reason": "Vollständige Textprüfung am 18. September 2026: Der Mini trennt Jahresmittel, offene Bindungen und Folgejahresermächtigung und aktualisiert nach Zahlungsplan oder Betriebskostennachweis die Rechnung und den bestellten Vermerk. Kein weiterer Eingriff erforderlich.",
+    "verdict": "revised",
+    "reason": "Der Mini führt Titel, Jahresdeckung und Folgejahresbindung konkret zusammen; Fondszuweisung ersetzt keine erforderliche Ermächtigung. Individuelle Text- und Quellenprüfung, kein Live-Modelltest.",
     "changes": [
-      "Schutz vor doppeltem Abzug bereits bezahlter Bindungen und automatischer BHO-Anwendung auf Länder erhalten.",
-      "Fehlende Ermächtigung begrenzt weiterhin die Freigabeempfehlung, nicht die unabhängige Tatsachenarbeit."
+      "Jahresdeckung, offene Bindungen und Folgejahresermächtigung aus Vertrag und Titel nachrechnen.",
+      "Doppelte Normenliste durch funktionsbezogene Prüfung von Ausgabe, Verpflichtung und Zuwendung ersetzt.",
+      "Interne Überschriften und redundante Mini-Einstiegsanweisungen entfernt.",
+      "Fehlende hoheitliche Entscheidungsbefugnis nicht mehr mit Unmöglichkeit abschließender Beratung verwechselt.",
+      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt."
     ],
-    "sha256": "be26ce078b2535d5142d183a5f25cb7f953485f3810522fd63b3774af35e5000"
+    "sha256": "666ee6404fd1851b85eb8dee05c5b52cc009d758b0b0733f043544ef8204cc13"
   },
   "selection": {
     "positive": [
@@ -64,12 +87,54 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Vollständige Werkstattprüfung am 18. September 2026: Allgemeine Tabellen und zwölf wiederholte Anforderungen einer vollständigen Haushaltsakte widersprachen der auftragsbezogenen Ausgabe. Zwei Grenzpunkte waren bloße Zustandsbeschreibungen statt klarer Prüfanweisungen.",
+    "reason": "Die Werkstatt trennt Ausgabe, Verpflichtung und Zuwendung, beseitigt doppelte Normenlisten und berücksichtigt die Reichweite des Haushaltsurteils gegenüber den geänderten Verfassungsnormen. Individuelle Text- und Quellenprüfung, kein Live-Modelltest.",
     "changes": [
-      "Doppelte Raster entfernt und fachliche Inhalte in sieben Schritte von Titel und Folgejahren bis Rechnungsprüfung zusammengeführt.",
-      "Wirtschaftlichkeit, Vergabe, Zuwendung, Zahlungsprüfung und Rückforderung jeweils mit eigenen Nachweisen und Fortsetzung geführt.",
-      "Vollzugsgrenzen als klare Anweisungen formuliert; keine Zahlung, Bewilligung oder Abhilfe als bereits erfolgt dargestellt."
+      "Doppelte Normenliste durch funktionsbezogene Prüfung von Ausgabe, Verpflichtung und Zuwendung ersetzt.",
+      "Interne Überschriften und redundante Mini-Einstiegsanweisungen entfernt.",
+      "Fehlende hoheitliche Entscheidungsbefugnis nicht mehr mit Unmöglichkeit abschließender Beratung verwechselt.",
+      "Zahlungsverschiebung versus Verpflichtung, vergleichbare Lebenszykluskosten, doppelt gebundene Drittmittel, Zweckabweichung und begrenzte Einwilligung."
     ],
-    "sha256": "2b1121e033ab4cde2f108e2a11e93b3d0c38966c0b63b538547c4a696776ed4f"
+    "sha256": "cbfa40b2672b6589272a07a333b335bd567008292bd44816dfd5c2458b6b2bbc"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "method": "desk_review",
+    "files": [
+      "haushaltsrecht-bho-bund-laender/README.md",
+      "haushaltsrecht-bho-bund-laender/haushaltsrecht-bho-bund-laender-werkstatt.md",
+      "haushaltsrecht-bho-bund-laender/haushaltsrecht-bho-bund-laender-schnellstart.md",
+      "quality/evals/haushaltsrecht-bho-bund-laender.json"
+    ],
+    "opening_change": "Jahresdeckung, offene Bindungen und Folgejahresermächtigung aus Vertrag und Titel nachrechnen.",
+    "norms": [
+      "Artikel 110 Absatz 2 Satz 1 GG",
+      "Paragrafen 38 und 45 BHO",
+      "Artikel 115 Absatz 2 GG",
+      "Artikel 143h GG"
+    ],
+    "decisions": [
+      {
+        "citation": "BVerfG, Urteil vom 15. November 2023, 2 BvF 1/22, Randnummern 158–178",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2023/11/fs20231115_2bvf000122.html",
+        "application": "Aufstellung, Geltungszeitraum und Kassenwirksamkeit jahresbezogen trennen; Fondszuweisung ersetzt keine erforderliche Ermächtigung.",
+        "limit": "Gesetzliche Ausgabereste bleiben möglich. Urteil betrifft frühere Verfassungslage; heutige Artikel 115 und 143h GG gesondert geprüft, kein generelles Sondervermögensverbot."
+      }
+    ],
+    "remaining_limits": [
+      "Landeshaushaltsrecht, jährliche Haushaltsgesetze und interne Einwilligungen weiterhin vorgangsbezogen zu prüfen; keine umfassende Prüfung aller Sondervermögensgesetze.",
+      "Workflow-Ergänzung am 2026-09-23: individuelle Textprüfung, keine erneute Gesamtverifikation der bestehenden Entscheidungsanker; deren dokumentierte Quellen- und Zugriffsgrenzen bleiben bestehen."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Jahresdeckung, Wirtschaftlichkeit oder Zuwendung wählen.",
+      "Titel und Zahlungsplan still lesen; Freigabevermerk oder Verwendungsnachweisprüfung anbieten.",
+      "Bestellten Haushaltsvermerk unmittelbar ausarbeiten."
+    ],
+    "continuation": "Neuer Zahlungsplan -> Jahresbindung und VE; Drittmittelzusage -> Finanzierungsart und Bescheid; Einwilligung -> nur gedeckten Freigabepunkt schließen.",
+    "enrichment": "Zahlungsverschiebung versus Verpflichtung, vergleichbare Lebenszykluskosten, doppelt gebundene Drittmittel, Zweckabweichung und begrenzte Einwilligung.",
+    "limits": "desk review; no live client execution"
   }
 }

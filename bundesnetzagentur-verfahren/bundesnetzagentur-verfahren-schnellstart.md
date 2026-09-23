@@ -1,8 +1,10 @@
 # 1 Regulierungsverfahren sektorgenau bearbeiten
 
-Lies zuerst Auftrag, angegriffenen Beschluss oder Auskunftsersuchen, Zustellnachweis und vorhandene Datenmeldungen. Liefere die verlangte Antwort, Beschwerde oder Stellungnahme. Ordne Energie, Telekommunikation, Post, Eisenbahn oder digitale Aufsicht zu. Der Briefkopf Bundesnetzagentur bestimmt nicht allein den Rechtsweg. Eine Frist unter zwei Wochen ist kein Bearbeitungsstopp; sichere den konkreten nächsten Schritt.
+Gleiche das Auskunftsverlangen oder die angegriffene Kosten- oder Regulierungsentscheidung mit den Unternehmensdaten ab und formuliere die bestellte Antwort, Beschwerde oder Stellungnahme. Lies Auftrag, Beschluss, Zustellnachweis und Meldungen zuerst. Ordne den Sektor zu; der Briefkopf Bundesnetzagentur bestimmt nicht den Rechtsweg. Bei knapper Frist bereite den fristwahrenden Schritt vor.
 
 ## 1.1 Maßnahme und Zuständigkeit
+
+Ohne Fall biete Datenauskunft, Kostenbeschwerde oder Veröffentlichungsschutz an. Dateien ohne Aufgabe still lesen und passende Dokumentwege anbieten. Klare Aufgaben direkt bearbeiten, keine Aktenübersicht. „Tochtergesellschaft enthalten“ verändert Datenabgrenzung und Antwort; „Beschwerde gestern eingereicht“ verändert nach belegtem Eingang die Begründungsfrist. „Schon veröffentlicht“ verlangt Vergleich der Granularität und gegebenenfalls engere Schwärzung. Den Entwurf gezielt ändern, Bekanntes nicht erneut erheben.
 
 Erfasse betroffenen Rechtsträger, regulierte Tätigkeit, Beschlusskammer oder andere Stelle, Aktenzeichen, Verfahrensart und Ziel. Trenne Konsultation, informelle Nachfrage, verbindliches Auskunftsverlangen, Festlegung, Genehmigung und Sanktion. Wähle das tatsächliche Fachgesetz und prüfe Befugnis, Adressat und Umfang. Eine allgemeine Gewerbeuntersagungsnorm trägt nicht beliebige Regulierungsmaßnahmen.
 
@@ -13,6 +15,8 @@ Bei KI-Marktüberwachung [Paragraf 2 KI-MIG](https://www.gesetze-im-internet.de/
 Zerlege jedes verlangte Feld nach Zeitraum, Einheit, betroffener Gesellschaft und Datenquelle. Eine Erlösgröße, ein Messwert und eine Prognose sind verschieden zu belegen. Vergleiche Definitionen des Erhebungsbogens mit den internen Daten. Nicht vorhandene Daten, unverhältnismäßig aufwendige Aufbereitung und inhaltlich bestrittene Angaben getrennt begründen. Liefere den belastbaren Teil, ohne eine vollständige Erfüllung zu behaupten.
 
 Für Geschäftsgeheimnisse benenne konkrete Information, fehlende Öffentlichkeit, wirtschaftliche Bedeutung und Schutzinteresse. Unterscheide vollständige Behördenfassung und für weitere Beteiligte vorgesehene bereinigte Fassung. Eine Kennzeichnung „vertraulich“ allein ist keine rechtliche Begründung und keine Erlaubnis zur Verweigerung jeder Auskunft. Prüfe den Schutzweg für die jeweilige Verfahrensstufe; gerichtliche Akteneinsicht nach Paragraf 84 EnWG ist nicht schlicht die Regel für jedes Verwaltungsverfahren.
+
+Bei angekündigter Veröffentlichung prüfe Paragraf 71 EnWG und Paragraf 30 VwVfG: [BGH, Beschluss vom 08.10.2019 - Az. EnVR 12/18, Rn. 19 bis 30, berichtigt am 25.02.2020](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/KartS/2018/EnVR__12-18.pdf?__blob=publicationFile&v=1) schützt auch aggregierte Daten, wenn sie geschützte interne Verhältnisse erkennen lassen; Erlösobergrenze, Effizienzwert und Regulierungskontosaldo sind nicht allein deshalb geheim. Bezeichne die gefährdeten Informationen und verlange nur insoweit Schutz. Damalige ARegV-Fassung mit heutiger Veröffentlichungsermächtigung abgleichen; daraus folgt kein Recht, verlangte Angaben schon gegenüber der Behörde zurückzuhalten.
 
 ## 1.3 Energie-Beschwerde mit zwei Fristen
 

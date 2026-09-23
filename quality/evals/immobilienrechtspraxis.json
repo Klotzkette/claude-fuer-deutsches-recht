@@ -1,25 +1,46 @@
 {
   "schema_version": 1,
   "plugin": "immobilienrechtspraxis",
-  "reviewed_on": "2026-09-17",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/bgb/__873.html",
       "checked_on": "2026-09-14",
       "supports": "Amtlicher Suchauszug mit beiden Absätzen gelesen: Einigung und Eintragung; Direktabruf fehlgeschlagen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__873.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlichen Volltext mit Absätzen 1 und 2 gelesen: Einigung und Eintragung sowie Bindung vor Eintragung; Vormerkung nicht Eigentumsübertragung."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2022/V_ZR__77-22.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-23",
+      "supports": "BGH, Urteil vom 15.09.2023, V ZR 77/22, Rn. 33–46: Bei bekannten erheblichen Sanierungslasten genügt Datenraumzugriff nur bei berechtigter Erwartung der Kenntnisnahme; Uploadzeit, Ordnung, Hinweis und Prüfungsumfang konkret prüfen. Grenze: Keine allgemeine gesetzliche Due-Diligence-Pflicht und keine automatische Arglist bei spätem Upload; Zurückverweisung, Schaden, Kausalität und Verschulden bleiben fallbezogen. Amtlichen Volltext gelesen."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Vollständig geprüft: Ablösemitteilung und Rangnachweise werden in Zahlung und Klauseln eingearbeitet; Mieterbelege führen zur korrigierten Rechnung und Antwort. Die vorhandene auftragsbezogene Fortsetzung bleibt unverändert.",
+    "reason": "Der vollständig gelesene Mini trennt Kaufpreisabwicklung, Eigentum und Grundschuldablöse und prüft bekannte Sanierungslasten mit der tatsächlichen Offenlegung im Datenraum; Musterbindung und Mieterantwort bleiben erhalten.",
     "changes": [
-      "Kaufpreisfälligkeit, Besitz und Eigentum getrennt.",
-      "Doppelzählung von Grundschuld und Darlehensablöse ausgeschlossen.",
-      "Objektbezogenen Portfolioabgleich ergänzt."
+      "V ZR 77/22 mit Uploadzeit, Hinweis, Prüfungsumfang, Rechtsfolge und Grenzen in beide Prompts eingearbeitet.",
+      "WEG-Nachschuss von Mieterkosten getrennt; Zahlung, Vormerkung und Eigentumswechsel sowie nominale Grundschuld und Ablöse rechnerisch auseinandergehalten.",
+      "Alle bisherigen zwölf Sachthemen einschließlich AVV, Sachverhaltsermittlung und geschützter Muster erhalten; Doppelvorspann und interne Standardraster entfernt.",
+      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt."
     ],
-    "sha256": "e437434ec387f5b64581a01aa22777273be333f4d56330c14e84ba29a1899731"
+    "sha256": "1d1739630312dc119bfac695e2878598963d6a3b849e1296f735740450f344e7"
   },
-  "workshop_review": {"verdict":"revised","reason":"Die vollständig gelesene Werkstatt enthielt bereits konkrete Nachforderungswege, der Einstieg verlangte aber noch pauschal Vollzugsschritt oder Antrag; eine Lückenliste konnte als Zwischenende verstanden werden.","changes":["Vollzug und Antrag ausdrücklich vom Auftrag abhängig gemacht und Mieteranfrage abgegrenzt.","Lückenliste durch konkrete Nachforderung mit paralleler Entwurfsarbeit und anschließender Vervollständigung ersetzt."],"sha256":"07978cf4ba5e2a79ad8e6a0941d7aa4813e2d1bead7963b687687888aa9df3ac"},
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Die vollständig gelesene Werkstatt ersetzte wiederholte abstrakte Grundbuchtabellen und einen falschen Entwurfsvorbehalt durch zwölf sachbezogene Arbeitsfelder einschließlich Mustervertrag, Abrechnung, Projektarbeit und interner Vertragsprüfung.",
+    "changes": [
+      "V ZR 77/22 mit Uploadzeit, Hinweis, Prüfungsumfang, Rechtsfolge und Grenzen in beide Prompts eingearbeitet.",
+      "WEG-Nachschuss von Mieterkosten getrennt; Zahlung, Vormerkung und Eigentumswechsel sowie nominale Grundschuld und Ablöse rechnerisch auseinandergehalten.",
+      "Alle bisherigen zwölf Sachthemen einschließlich AVV, Sachverhaltsermittlung und geschützter Muster erhalten; Doppelvorspann und interne Standardraster entfernt.",
+      "Ablösefrist und Treuhandauflagen, Offenlegung versus Garantie, unvollendeter Bauträgerbau, Kostenanteile und vollständige objektbezogene Klauseln."
+    ],
+    "sha256": "d3671a310468362152996813fd5d8f31a91ae932541dbd41b77bb76e37547854"
+  },
   "selection": {
     "positive": [
       "Erstelle eine Vollzugsmatrix für unseren Grundstückskauf.",
@@ -63,5 +84,48 @@
       ],
       "target_skill": "grundbuchanalyse"
     }
-  ]
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "immobilienrechtspraxis/README.md",
+      "immobilienrechtspraxis/immobilienrechtspraxis-schnellstart.md",
+      "immobilienrechtspraxis/immobilienrechtspraxis-werkstatt.md",
+      "quality/evals/immobilienrechtspraxis.json"
+    ],
+    "opening_change": "Kaufvertrag, Zahlung und Eigentumsstand konkret abgleichen; Bewirtschaftung und Mieterantwort als eigenständige Aufgaben statt wiederholter Grundbuchprüfung.",
+    "norms": [
+      "Paragrafen 241 Absatz 2, 280 Absatz 1 und 311 Absatz 2 BGB",
+      "Paragrafen 311b, 873, 883 und 925 BGB",
+      "Paragrafen 650u und 650v BGB",
+      "Paragraf 556 BGB und Paragraf 28 Absatz 2 WEG",
+      "Paragrafen 13, 18, 19 und 29 GBO"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 15.09.2023, V ZR 77/22, Rn. 33–46",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2022/V_ZR__77-22.pdf?__blob=publicationFile&v=1",
+        "application": "Bei bekannten erheblichen Sanierungslasten genügt Datenraumzugriff nur bei berechtigter Erwartung der Kenntnisnahme; Uploadzeit, Ordnung, Hinweis und Prüfungsumfang konkret prüfen.",
+        "limit": "Keine allgemeine gesetzliche Due-Diligence-Pflicht und keine automatische Arglist bei spätem Upload; Zurückverweisung, Schaden, Kausalität und Verschulden bleiben fallbezogen."
+      }
+    ],
+    "remaining_limits": [
+      "Desk-/Quellenprüfung, kein Live-Modell- oder Mandatstest.",
+      "V ZR 77/22 amtlicher Volltext und entscheidende Rn. 33–46 gelesen; nicht sämtliche Spezialnormen und Nebenmaterien neu vollständig verifiziert.",
+      "Direktabruf Paragrafen 241 und 311 BGB im Webdienst fehlgeschlagen; ihre konkrete Haftungsanwendung zusätzlich im amtlichen Urteil geprüft.",
+      "Workflow-Ergänzung am 2026-09-23: individuelle Textprüfung, keine erneute Gesamtverifikation der bestehenden Entscheidungsanker; deren dokumentierte Quellen- und Zugriffsgrenzen bleiben bestehen."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Kaufpreisvollzug, Vertragsklausel oder Mieterabrechnung anbieten.",
+      "Objekturkunden still lesen; Zahlungsabgleich oder Lastenfreistellungsantwort anbieten.",
+      "Bestelltes Objekt- oder Mieterschreiben direkt liefern."
+    ],
+    "continuation": "Neue Ablöse -> Zahlungsaufteilung; Käufermail -> Kenntnisprüfung; WEG-Korrektur -> nur betroffene Mieterpositionen; Bankbestätigung -> begrenzten Vollzugspfad ändern.",
+    "enrichment": "Ablösefrist und Treuhandauflagen, Offenlegung versus Garantie, unvollendeter Bauträgerbau, Kostenanteile und vollständige objektbezogene Klauseln.",
+    "limits": "desk review; no live client execution"
+  }
 }

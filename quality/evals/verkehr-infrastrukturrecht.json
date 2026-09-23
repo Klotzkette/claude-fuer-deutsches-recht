@@ -1,34 +1,152 @@
 {
   "schema_version": 1,
   "plugin": "verkehr-infrastrukturrecht",
-  "reviewed_on": "2026-09-18",
-  "sources": [{"url": "https://www.gesetze-im-internet.de/pbefg/__28.html", "checked_on": "2026-09-14", "supports": "Geöffneter Volltext: Planfeststellung für Straßenbahnbetriebsanlagen samt Ausnahmen, begrenzte vorläufige Anordnung und Verhältnis zur Betriebsgenehmigung."}],
+  "reviewed_on": "2026-09-23",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/pbefg/__28.html",
+      "checked_on": "2026-09-23",
+      "supports": "Für die Workflow-Erweiterung Normtext nach anfänglichem Timeout erfolgreich gelesen: Absatz 3a zu Umfang vorläufiger Arbeiten, Internetbekanntgabe, fehlender aufschiebender Wirkung und entfallendem Vorverfahren. Weitere Fristen aus den Verweisungen nicht pauschal behauptet."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/pbefg/__28.html",
+      "checked_on": "2026-09-14",
+      "supports": "Geöffneter Volltext: Planfeststellung für Straßenbahnbetriebsanlagen samt Ausnahmen, begrenzte vorläufige Anordnung und Verhältnis zur Betriebsgenehmigung."
+    },
+    {
+      "url": "https://www.bverwg.de/300317U7C17.15.0",
+      "checked_on": "2026-09-23",
+      "supports": "Rn. 20–28: Präklusion, UVP-Anwendungsbereich, kommunale Betroffenheit und eigene Rechte."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/umwrg/__7.html",
+      "checked_on": "2026-09-23",
+      "supports": "Absätze 3 und 4 betreffen verschiedene Entscheidungskategorien; aktueller Normtext gelesen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/pbefg/__28.html",
+      "checked_on": "2026-09-23",
+      "supports": "Aktueller vollständiger Normtext einschließlich begrenzter vorläufiger Anordnung und Ausnahmen gelesen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/fstrg/__17.html",
+      "checked_on": "2026-09-23",
+      "supports": "Bauzulassung und Reichweite vorläufiger Maßnahmen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/aeg_1994/__18.html",
+      "checked_on": "2026-09-23",
+      "supports": "Eisenbahnbetriebsanlagen, Änderungsbegriff und Ausnahmen."
+    }
+  ],
   "mini_review": {
-    "verdict": "retained",
-    "reason": "Vollständig gelesen: Fehlende Lärmberechnung, Grunderwerbsplan oder Anordnung werden gezielt nachgefordert; neue Unterlagen ändern Schutzforderung und Begründung. Baubeginn priorisiert Rechtsschutz, stoppt aber nicht die übrige Prüfung. Beratung und Klageauftrag bleiben getrennt; Mini beibehalten.",
-    "changes": [],
-    "sha256": "a716d765d947ef39f80be3c5eab0acd1b2df6d1dde7bf6744cae5a3e27db7b53"
+    "verdict": "revised",
+    "reason": "Mini nach Erweiterung vollständig nachgelesen: Eingangslagen, Planabweichung, konkrete Zufahrts- und Lärmbetroffenheit sowie Ladepunktzugang führen zu geändertem Dokument. Bestehende Fachnormen und Entscheidungsgrenzen erhalten; Desk-Review, kein Live-Modelltest.",
+    "changes": [
+      "Einstieg auf zugelassenen Bauumfang, konkreten Planbezug und Schutzforderung zugeschnitten.",
+      "Bauzulassungsnormen nach Verkehrsträger konkretisiert und vorhandene Lade-, Parkraum-, Schulweg- und Förderzweige erhalten.",
+      "Amtlich gelesenen Verfahrensanker zur Präklusion mit Reichweitengrenze und aktuellem UmwRG verknüpft.",
+      "Generische Ablaufwiederholung durch konkrete Antworten zu Seitenzufahrt, Immissionsort, Nutzerkreis und begrenztem Bauumfang ersetzt."
+    ],
+    "sha256": "298a889a40bcb8eec8720ff05ab3488f485eb4730e14cb5ccd9176c930052f30",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
   },
   "workshop_review": {
-    "verdict": "retained",
-    "reason": "Vollständig gelesen: Planfassung, Betroffenheit, Fachbeiträge und tatsächlicher Bauumfang werden aufeinander bezogen. Nachgereichte Anschlussdaten, Gutachten oder Pläne verändern nur betroffene Bewertung und Textteile; Förderung, Vergabe und Vertragsfragen bleiben auftragsbezogen. Kein Widerspruch zur Fortsetzung bis zum verlangten Dokument gefunden.",
-    "changes": [],
-    "sha256": "d576a5c99bca3c6476983cf32c6b14e4d675b35388ddd2b321182497c03349eb"
+    "verdict": "revised",
+    "reason": "Werkstatt vollständig nachgelesen: Bauabschnitt, wirksame Planfassung und Flächenzugriff werden getrennt; Gegenbelege ändern Einwendung und Schutzforderung. Aktueller Paragraf 28 PBefG trägt den ergänzten Vollzugszweig. Desk-Review, kein Live-Modelltest.",
+    "changes": [
+      "Einstieg auf zugelassenen Bauumfang, konkreten Planbezug und Schutzforderung zugeschnitten.",
+      "Bauzulassungsnormen nach Verkehrsträger konkretisiert und vorhandene Lade-, Parkraum-, Schulweg- und Förderzweige erhalten.",
+      "Amtlich gelesenen Verfahrensanker zur Präklusion mit Reichweitengrenze und aktuellem UmwRG verknüpft.",
+      "Leitungsarbeiten und Gleisbau planblattbezogen in Vermerk und Klärungsschreiben übersetzt; Bekanntgabe, Vorverfahren und Eilrechtsschutz differenziert.",
+      "Bau- und Betriebslärm, Ersatzzuwegung, Ladepunktzugang und Schulwegkonflikt mit gezielten Rückfragen und konkreten Textänderungen verbunden."
+    ],
+    "sha256": "ef99de677e86c9e63e25b1fa290eba7a7075a6d9e908d4aee8b3167f4009cbf1",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Bauzulassungsvermerk, Einwendung zu Grundstück oder Lärm oder Standortschreiben für Ladepunkt anbieten.",
+      "Dateien: Plan, Bekanntmachung und Entscheidung still lesen; nur bei offenem Ziel Einwendung oder Bauumfangsvermerk passend anbieten.",
+      "Klarer Auftrag: sofort Entwurf erstellen; nur entscheidende Planfassung, Betroffenheit oder Frist klären."
+    ],
+    "continuation": "Nachgereichte Anordnung ändert den gedeckten Bauumfang; bestätigte Seitenzufahrt oder geänderter Nutzerkreis verändert Schutzforderung beziehungsweise Standortschreiben.",
+    "enrichment": "Planblattbezogene Bauprüfung, vorläufige Anordnung mit Bekanntgabe und Rechtsschutz, Immissionsort, Bauphase, Ersatzzuwegung, Ladezugang und Schulwegzeiten als konkrete Dokumentabläufe ergänzt.",
+    "limits": "desk review; no live client execution"
   },
   "selection": {
-    "positive": ["Prüfe, welche Bauarbeiten unsere vorläufige Straßenbahnanordnung tatsächlich erlaubt.", "Gleiche Trassenplan, Betriebsgenehmigung und Planfeststellungsstand ab."],
-    "negative": ["Reguliere einen einzelnen Kfz-Haftpflichtschaden.", "Prüfe ausschließlich eine immissionsschutzrechtliche Produktionsanlage ohne Verkehrsinfrastruktur."]
-  },
-  "cases": [{
-    "id": "strassenbahn-vorlaeufiger-umfang",
-    "request": "Erstelle ergebnis.md als Bauzulassungs- und Risikovermerk. Für eine neue Straßenbahntrasse liegt eine Betriebsgenehmigung vor, ausdrücklich vorbehaltlich der erforderlichen Planfeststellung. Das Planfeststellungsverfahren ist eingeleitet, aber nicht abgeschlossen. Eine vorläufige Anordnung nach Paragraf 28 Absatz 3a PBefG erlaubt nur Leitungsverlegung und Baustelleneinrichtung auf Planblatt 3. Der Bauleiter möchte nächste Woche zusätzlich Gleise auf Planblatt 4 in einer neuen Trassenlage bauen. Es handelt sich nach abgeschlossener technischer Prüfung weder um Unterhaltung noch um eine gesetzlich ausgenommene Einzelmaßnahme; ein ersetzender Bebauungsplan besteht nicht. Der Grundstückseigentümer von Blatt 4 widerspricht. Bitte ordne die Dokumente und das geplante Vorgehen ein, ohne Freigabe oder Antrag zu erteilen.",
-    "input_files": [],
-    "deliverables": ["ergebnis.md"],
-    "criteria": [
-      {"id": "C01", "text": "Die Betriebsgenehmigung wird nicht als Ersatz für die ausdrücklich vorbehaltene Bauzulassung behandelt.", "deliverables": ["ergebnis.md"]},
-      {"id": "C02", "text": "Der zulässige vorläufige Umfang auf Blatt 3 wird vom nicht erfassten Gleisbau auf Blatt 4 getrennt; eine generelle Baufreigabe aus der vorläufigen Anordnung wird abgelehnt.", "deliverables": ["ergebnis.md"]},
-      {"id": "C03", "text": "Der Vermerk benennt fehlende Zulassung und Eigentumsbetroffenheit als vor Baubeginn zu klärende Risiken, ohne entgegen dem Sachverhalt eine Unterhaltungs- oder Einzelmaßnahmenausnahme zu erfinden.", "deliverables": ["ergebnis.md"]}
+    "positive": [
+      "Prüfe, welche Bauarbeiten unsere vorläufige Straßenbahnanordnung tatsächlich erlaubt.",
+      "Gleiche Trassenplan, Betriebsgenehmigung und Planfeststellungsstand ab."
     ],
-    "target_skill": "strassenbahn"
-  }]
+    "negative": [
+      "Reguliere einen einzelnen Kfz-Haftpflichtschaden.",
+      "Prüfe ausschließlich eine immissionsschutzrechtliche Produktionsanlage ohne Verkehrsinfrastruktur."
+    ]
+  },
+  "cases": [
+    {
+      "id": "strassenbahn-vorlaeufiger-umfang",
+      "request": "Erstelle ergebnis.md als Bauzulassungs- und Risikovermerk. Für eine neue Straßenbahntrasse liegt eine Betriebsgenehmigung vor, ausdrücklich vorbehaltlich der erforderlichen Planfeststellung. Das Planfeststellungsverfahren ist eingeleitet, aber nicht abgeschlossen. Eine vorläufige Anordnung nach Paragraf 28 Absatz 3a PBefG erlaubt nur Leitungsverlegung und Baustelleneinrichtung auf Planblatt 3. Der Bauleiter möchte nächste Woche zusätzlich Gleise auf Planblatt 4 in einer neuen Trassenlage bauen. Es handelt sich nach abgeschlossener technischer Prüfung weder um Unterhaltung noch um eine gesetzlich ausgenommene Einzelmaßnahme; ein ersetzender Bebauungsplan besteht nicht. Der Grundstückseigentümer von Blatt 4 widerspricht. Bitte ordne die Dokumente und das geplante Vorgehen ein, ohne Freigabe oder Antrag zu erteilen.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die Betriebsgenehmigung wird nicht als Ersatz für die ausdrücklich vorbehaltene Bauzulassung behandelt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Der zulässige vorläufige Umfang auf Blatt 3 wird vom nicht erfassten Gleisbau auf Blatt 4 getrennt; eine generelle Baufreigabe aus der vorläufigen Anordnung wird abgelehnt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Der Vermerk benennt fehlende Zulassung und Eigentumsbetroffenheit als vor Baubeginn zu klärende Risiken, ohne entgegen dem Sachverhalt eine Unterhaltungs- oder Einzelmaßnahmenausnahme zu erfinden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "strassenbahn"
+    }
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-23",
+    "files": [
+      "verkehr-infrastrukturrecht/verkehr-infrastrukturrecht-werkstatt.md",
+      "verkehr-infrastrukturrecht/verkehr-infrastrukturrecht-schnellstart.md"
+    ],
+    "opening_change": "Einstieg auf zugelassenen Bauumfang, konkreten Planbezug und Schutzforderung zugeschnitten.",
+    "norms": [
+      "Paragraf 17 FStrG",
+      "Paragraf 18 AEG",
+      "Paragraf 28 PBefG",
+      "Paragrafen 2, 3, 7 UmwRG",
+      "Paragrafen 42 und 80 VwGO"
+    ],
+    "decisions": [
+      {
+        "citation": "BVerwG, Urteil vom 30. März 2017, 7 C 17.15",
+        "url": "https://www.bverwg.de/300317U7C17.15.0",
+        "application": "Versäumte Beteiligung nicht mit umfassender gerichtlicher Präklusion gleichsetzen; UVP-Anwendungsbereich und eigene Rechte bestimmen.",
+        "limit": "Rn. 20–28 im amtlichen Volltext gelesen. Bergrechtlicher Ausgangsfall, keine verkehrsrechtliche Bauzulassung und keine Befreiung von gerichtlichen Fristen."
+      }
+    ],
+    "remaining_limits": [
+      "EuGH C-137/14 nur mittelbar im amtlichen BVerwG-Volltext geprüft; eigener Volltextabruf technisch gescheitert.",
+      "Keine vollständige Neuverifikation aller Fachbeiträge, Landesgesetze oder technischen Regelwerke; kein Live-Modelltest."
+    ]
+  }
 }

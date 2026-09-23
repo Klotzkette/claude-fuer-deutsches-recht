@@ -1,6 +1,8 @@
 # 1. WEG-Verwaltung: Beschlüsse, Abrechnung und Maßnahmen bearbeiten
 
-Prüfe den Vorgang der Gemeinschaft der Wohnungseigentümer anhand von Beschlusskompetenz, ordnungsmäßiger Verwaltung, Kostenfolgen und Fristen. Erstelle den verlangten Beschluss, Verwaltungsvermerk, Eigentümerbrief oder anderen beauftragten Entwurf.
+Gleiche Abrechnung, beschlossene Vorschüsse und Eigentümerkonto ab oder bereite die konkret geplante Verwaltungsmaßnahme beschlussreif vor. Kläre, wer entscheiden darf, welche Kosten auf welche Einheit entfallen und ob der Beschluss hinreichend bestimmt ist. Erstelle daraus den verlangten Beschluss, Verwaltungsvermerk oder Eigentümerbrief, nicht bloß eine Liste allgemeiner WEG-Prüfpunkte.
+
+Ohne Eingabe biete Nachschussbeschluss mit Abrechnungskorrektur, Einladung mit bestimmten Beschlussvorlagen oder Gestattungsbeschluss für eine Wallbox beziehungsweise Steckersolar an. Bei Dateien ohne Aufgabe lies sie zunächst still; nur wenn das Ziel danach unklar bleibt, biete zwei oder drei passende Dokumentwege an. Bei klarem Auftrag beginne sofort und frage nur nach entscheidenden Lücken. Keine allgemeine Verwaltungscheckliste und keine künstlichen Gesprächsrunden vorschalten. Antworten führen zur Änderung des konkreten Betrags, Beschlusses oder Eigentümerbriefs.
 
 ## 1.1. Gemeinschaft und Verwaltungsziel
 
@@ -23,15 +25,39 @@ Ein Beschlussentwurf bezeichnet Maßnahme, Kostenrahmen, Verteilungsschlüssel, 
 
 Bei hybrider oder virtueller Versammlung trenne die jeweilige Beschlussgrundlage und prüfe gleichwertige Teilhabe und Rechteausübung. Berücksichtige Paragraf 23 Absatz 1 Satz 2 WEG für Online-Teilnahme, Vollmachten, Screenreader, Untertitel und technische Zugangsmöglichkeiten. Aufzeichnungen werden nicht ohne Prüfung ihrer Zulässigkeit eingerichtet.
 
+Eine rein virtuelle Versammlung setzt nach Paragraf 23 Absatz 1a WEG einen Beschluss mit mindestens drei Vierteln der abgegebenen Stimmen für höchstens drei Jahre voraus; Teilnahme und Rechteausübung müssen einer Präsenzversammlung vergleichbar sein. Bei vor dem 01.01.2028 gefasstem Ermächtigungsbeschluss verlangt Paragraf 48 Absatz 6 WEG bis einschließlich 2028 jährlich mindestens eine Präsenzversammlung, sofern darauf nicht einstimmig verzichtet wurde. Ein Verstoß gegen diese Zusatzpflicht macht die virtuellen Beschlüsse nicht allein deshalb nichtig oder anfechtbar. Diese Regeln nicht mit der bloßen Online-Teilnahme an einer Präsenzversammlung vermischen.
+
+### 1.3.1. Aus einer Eigentümerbeschwerde einen Tagesordnungspunkt machen
+
+Bei „die Verwaltung soll endlich die Heizung erneuern“ kläre zuerst anhand der Unterlagen, ob ein akuter Defekt, eine Erhaltungsplanung oder ein Änderungswunsch vorliegt. Frage bei unklarem Ziel, ob die Versammlung zunächst eine Untersuchung beauftragen oder schon über ein konkret vorliegendes Angebot entscheiden soll. Formuliere danach einen hinreichend bezeichneten Tagesordnungspunkt und den dazu passenden Beschluss. Ein allgemeiner Punkt „Verschiedenes“ ersetzt die erforderliche Vorbereitung einer konkreten kostenträchtigen Entscheidung nicht.
+
+Für die Einladung ermittle Empfängerkreis, Einberufungsbefugnis, Übermittlungsweg und Versammlungstag. [Paragraf 24 Absatz 4 WEG](https://www.gesetze-im-internet.de/woeigg/__24.html) verlangt Textform und sieht grundsätzlich mindestens drei Wochen vor. Plane anhand des erforderlichen Zugangs, nicht allein des Postaufgabedatums; abweichende Vereinbarungen und belegte besondere Dringlichkeit prüfen. Ein vom Handwerker knapp gesetztes Angebotsende belegt nicht schon eine besondere Dringlichkeit der Versammlung. Lege bei unsicherem Zugang den Zeitplan offen, ohne den Termin als gesichert fristgerecht auszugeben.
+
+Nach Antwort „es gibt nur eine Kostenschätzung“ ändere einen vermeintlichen Vergabebeschluss in die beauftragte, tatsächlich vorbereitbare Entscheidung, etwa zur Einholung konkret bestimmter Angebote; keine Vergabe zum erfundenen Festpreis formulieren. Soll trotzdem über eine Maßnahme entschieden werden, benenne die noch entscheidende Auswahl oder Begrenzung. Nach Eingang eines Angebots ergänze Anbieter, Datum, Leistung und Kostenrahmen im Beschlusstext. Ein Protokollentwurf enthält offene Ergebnisfelder, bis Stimmen und Verkündung tatsächlich belegt sind.
+
 ## 1.4. Wirtschaftsplan, Abrechnung und Hausgeld
 
 Unterscheide nach Paragraf 28 WEG Wirtschaftsplan, Vorschussbeschluss, Jahresabrechnung, Beschluss über Nachschüsse oder Vorschussanpassung und Vermögensbericht. Gleiche Einnahmen, Ausgaben, Belege, Zeitraum und Einzelzuordnung ab; Rücklagenbewegungen sind gesondert zu behandeln.
 
 Vergleiche je Einheit die zugeordneten Jahreskosten mit den beschlossenen Sollvorschüssen, nicht allein mit den Zahlungseingängen. Halte Jahreskosten, Sollvorschuss, Istzahlung, Abrechnungsspitze und alten Vorschussrückstand auseinander. Der neue Nachschuss darf alte Rückstände nicht nochmals enthalten. Zeige bei jedem Fehler, ob und wie er die Zahlungspflicht verändert.
 
+Bei 4.200 Euro Kosten, 3.600 Euro Sollvorschüssen und 3.000 Euro Zahlungen beträgt der Nachschuss 600 Euro; weitere 600 Euro beruhen bereits auf dem Vorschussbeschluss. Formuliere etwa: „Für Einheit 4 wird auf Grundlage der Einzelabrechnung [Jahr/Fassung/Anlage] ein Nachschuss von 600 Euro festgesetzt, fällig am [festzulegendes Datum].“ Alten Rückstand gesondert erläutern und fehlende Bezugsanlage oder Fälligkeit nicht erfinden.
+
+Nach [BGH, Urteil vom 20.09.2024, V ZR 195/23, Rn. 7–10 und 17](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2023/V_ZR_195-23.pdf?__blob=publicationFile&v=1), trägt ein Abrechnungsfehler die Ungültigerklärung nach Paragraf 28 Absatz 2 Satz 1 WEG nur bei Auswirkung auf die Zahlungspflicht. Rechne deshalb den behaupteten Fehler bis zur betroffenen Einzelspitze durch. Ein bloßer Darstellungsfehler genügt insoweit nicht; andere Verfahrensmängel und Ansprüche auf richtige Unterlagen sind damit nicht erledigt. Die Entscheidung behandelt auch eine konkrete Umsatzsteueroption und den Steuersatzwechsel 2020; daraus keine heutige allgemeine Steuerbehandlung aller Gemeinschaften ableiten.
+
+Nach [BGH, Urteil vom 19.07.2024, V ZR 102/23, Rn. 5–9](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2023/V_ZR_102-23.pdf?__blob=publicationFile&v=1), ist eine nach dem 30.11.2020 beschlossene „Genehmigung“ von Gesamt- und Einzelabrechnungen nächstliegend als Festlegung der Abrechnungsspitzen auszulegen. Lies Wortlaut und Bezugsanlagen objektiv zusammen; erkläre nicht allein wegen der alten Bezeichnung Nichtigkeit. Diese Auslegung bestätigt weder die rechnerische Höhe noch alle weiteren Voraussetzungen ordnungsmäßiger Verwaltung.
+
 Prüfe Hausgeldforderung oder Sonderumlage anhand von Beschlussgrundlage, Betrag, Schuldnerzuordnung, Fälligkeit, Zahlung und Einwendungen. Untersuche behauptete Zurückbehaltungsrechte eigenständig; ein Streit über Verwaltung hebt Zahlungspflichten nicht ohne Prüfung auf. Bei Liquiditätsproblemen begründe eine benötigte Finanzierung oder Sonderumlage anhand der tatsächlichen Verpflichtungen und Mittel.
 
 Prüfe Kostenverteilung nach Vereinbarung und Paragraf 16 Absatz 2 WEG. Bei einer Änderung des Schlüssels sind Kompetenz, sachlicher Grund, Bestimmtheit und ordnungsmäßige Verwaltung getrennt zu behandeln. Rechne die Auswirkungen auf die betroffenen Einheiten vor und nach der Änderung nach, statt nur den neuen Schlüssel zu benennen.
+
+### 1.4.1. Abrechnungsfehler mit und ohne Zahlungswirkung fortführen
+
+Behauptet ein Eigentümer „die Zahlung fehlt“, vergleiche Buchungsdatum, Verwendungszweck und Eigentümerkonto mit den Sollvorschüssen. Eine nachgewiesene weitere Zahlung von 300 Euro vermindert im Beispiel den Vorschussrückstand von 600 auf 300 Euro; sie verändert den aus Jahreskosten und Sollvorschüssen berechneten Nachschuss von 600 Euro nicht. Ändere daher Rückstandsvermerk und Zahlungsübersicht, ohne die Abrechnungsspitze nochmals zu kürzen.
+
+Wird stattdessen eine doppelt erfasste Rechnung nachgewiesen, korrigiere zunächst die verteilbaren Kosten, dann den Anteil der Einheit und schließlich deren Nachschuss oder Anpassung. Wende V ZR 195/23 auf genau diese Zahlungsauswirkung an. Ist nur ein Anlagenname falsch, darf daraus nicht ohne weitere Prüfung derselbe Anfechtungsgrund abgeleitet werden; berichtige den Bezug und prüfe, ob der Beschlussgegenstand überhaupt eindeutig bestimmbar war. Bei „Abrechnung genehmigt“ den Beschluss nach V ZR 102/23 mit seinen Anlagen lesen, statt eine neue Forderungsgrundlage nachträglich zu erfinden.
+
+Unterscheide vor der Versammlung korrigierte Entwürfe von bereits beschlossenen Zahlungspflichten. Eine verwaltungsinterne Neuberechnung ändert einen gefassten Beschluss nicht von selbst. Bei einem beauftragten Korrekturbeschluss bezeichne den früheren Beschluss und regle eindeutig, was ersetzt oder angepasst werden soll; rechnerische Gegenläufigkeiten und bereits erfolgte Zahlungen berücksichtigen. Für einen Eigentümerbrief erkläre die konkrete Auswirkung in Euro. Für eine laufende Anfechtung ordne den belegten Fehler und seine Zahlungswirkung dem angegriffenen Beschluss zu, sichere die Fristen und verbleibe im erteilten Auftrag.
 
 ## 1.5. Betriebskosten und bauliche Maßnahmen
 
@@ -40,6 +66,14 @@ Trenne WEG-Abrechnung zwischen Gemeinschaft und Eigentümer von mietrechtlicher 
 Unterscheide Erhaltung nach Paragraf 19 Absatz 2 Nummer 2 WEG von baulicher Veränderung nach Paragraf 20 WEG. Prüfe bei baulichen und privilegierten Maßnahmen Anspruch, Gestattung, konkrete Ausführung und Kosten nach Paragraf 21 WEG getrennt. Ein Gestattungsbeschluss soll spätere Nutzungsstreitigkeiten nicht ohne Grundlage vorentscheiden.
 
 Bei Wallbox, Steckersolar oder anderen Einbauten ordne Standort, Ausführung, Eingriffe, Wartung, Haftung und Rückbau dem Antrag zu. Fordere einen fehlenden Plan oder ein Angebot konkret nach und passe danach den Beschlusstext und Kostenrahmen an. Bei Handwerkeraufträgen kläre Beschlussdeckung, Auftraggeber, Leistungsumfang, Vergütung, Abnahme und Versicherung; keine Bestellung oder Zahlungsfreigabe eigenmächtig auslösen.
+
+### 1.5.1. Gestattung und Kosten einer privilegierten Maßnahme ausformulieren
+
+Bei einem Wallboxantrag lies Lageplan, Leitungsführung und vorhandene Anschlussangaben. Frage bei einer Lücke nach genau dem Eingriff, der die Gestattung verändert, etwa der Durchdringung einer gemeinschaftlichen Wand. Die bloße Zusage „macht ein Fachbetrieb“ beantwortet Standort und Ausführungsumfang nicht. Einwände zu technischen Gefahren benötigen einen konkreten Bezug; weder diese ungeprüft als Tatsache übernehmen noch allein wegen des privilegierten Zwecks verwerfen.
+
+Nach [Paragraf 20 WEG](https://www.gesetze-im-internet.de/woeigg/__20.html) prüfe Anspruch, Angemessenheit, Durchführung und Grenzen getrennt. Nach [Paragraf 21 Absatz 1 WEG](https://www.gesetze-im-internet.de/woeigg/__21.html) trägt bei der dort erfassten individuell gestatteten oder verlangten Maßnahme der betreffende Eigentümer die Kosten. Ein Privileg begründet keine automatische Kostenpflicht aller. Wird stattdessen eine gemeinschaftliche Anlage vorgeschlagen, prüfe die dafür einschlägige Kostenregel eigenständig anhand Beschlussmehrheit, Miteigentumsanteilen, Kosten und gegebenenfalls Amortisation; Zustimmung zur Maßnahme und Verteilung sind verschiedene Fragen.
+
+Der Entwurf benennt Antragsteller und Einheit, Anlage mit Datum, gestattete Arbeiten, konkret begründete Ausführungsvorgaben und Kostenzuordnung. Wartung, spätere Änderungen, Rückbau und Nutzungsfragen nur innerhalb der rechtlich geprüften Regelungsbefugnis behandeln; keinen unbegrenzten Haftungsverzicht anderer Eigentümer ergänzen. Bestätigt die Antwort einen geänderten Leitungsweg, ersetze Planbezug und betroffene Schutzvorgaben. Bestätigt sie allein ein höheres Angebot, ändere nur die tatsächlich davon abhängigen Preis- oder Finanzierungsbestimmungen. Liefere den ausformulierten Beschluss und bei Bedarf eine knappe interne Begründung seiner Grenzen.
 
 ## 1.6. Bauträgermängel und Altanlagen
 
@@ -65,12 +99,9 @@ Bei einem Dokumentenauftrag erstelle das konkret benötigte Verzeichnis, Maßnah
 
 Prüfe Beschlussklage nach Paragraf 44 und Paragraf 45 WEG, richtigen Gegner, zuständiges Gericht, Klage- und Begründungsfrist sowie den konkreten Beschlussmangel. Ordne Zuständigkeitsfragen nach Paragraf 43 WEG der tatsächlichen Streitigkeit zu. Belegfragen und Darlegungslasten sind für die konkrete Forderung oder Anfechtung zu bestimmen, nicht pauschal für alle Verwaltungsfragen gleichzusetzen.
 
-Die folgenden bestehenden Rechercheanker vor Verwendung im Volltext und auf Fallbezug prüfen:
+Die beiden Abrechnungsentscheidungen sind oben mit ihrem Anwendungsbereich eingeordnet. Für Schlüsseländerungen bei Rücklagen und die Aufhebung vereinbarter objektbezogener Kostentrennung bleibt eine eigene aktuelle Volltextrecherche erforderlich; aus der Beschlusskompetenz nach Paragraf 16 Absatz 2 Satz 2 WEG folgt nicht die Ordnungsmäßigkeit jeder Verteilung. Ungeprüfte Aktenzeichen aus Hilfsmaterialien nicht als bestätigte Rechtssätze übernehmen.
 
-- BGH, Urteil vom 19.07.2024, V ZR 102/23: Auslegung eines nach dem 30.11.2020 als Genehmigung von Gesamt- und Einzelabrechnungen formulierten Beschlusses als Nachschuss- beziehungsweise Vorschussanpassungsbeschluss.
-- BGH, Urteil vom 20.09.2024, V ZR 195/23: Bedeutung eines Abrechnungsfehlers für Abrechnungsspitze und Zahlungspflicht bei Paragraf 28 Absatz 2 WEG.
-- BGH, Urteil vom 14.02.2025, V ZR 128/23: Änderung des Verteilungsschlüssels für Rücklagen nach Paragraf 16 Absatz 2 Satz 2 WEG und eigenständige Prüfung ordnungsmäßiger Verwaltung.
-- BGH, Urteil vom 14.02.2025, V ZR 236/23: sachlicher Grund bei Aufhebung vereinbarter objektbezogener Kostentrennung und zusätzlicher Belastung weiterer Eigentümer.
+Anfechtungsklage und Begründung sind nach Paragraf 45 WEG binnen eines beziehungsweise zweier Monate ab Beschlussfassung zu erbringen; Protokollzugang startet diese Fristen nicht neu. Klagegegner ist nach Paragraf 44 Absatz 2 WEG die Gemeinschaft, nicht die übrigen Eigentümer. Ein Beschluss bleibt nach Paragraf 23 Absatz 4 WEG grundsätzlich gültig, bis er rechtskräftig für ungültig erklärt wird, soweit nicht Nichtigkeit vorliegt; eine bloße Fehlerbehauptung beseitigt seine Wirkung nicht.
 
 Tragende Normen amtlich prüfen. Recherche- und Quellenstatus gehören in eine getrennte Arbeitsnotiz, nicht als technische Etiketten in Eigentümeranschreiben oder Beschlusstexte.
 

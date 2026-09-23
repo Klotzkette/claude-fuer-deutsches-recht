@@ -1,8 +1,159 @@
 {
-  "schema_version":1,"plugin":"commercial-courts-deutschland","reviewed_on":"2026-09-17",
-  "sources":[{"url":"https://www.gesetze-im-internet.de/gvg/__119b.html","checked_on":"2026-09-14","supports":"Sachgebiet, Wertgrenze, Einrichtung und Parteiwille für Commercial Courts."},{"url":"https://www.gesetze-im-internet.de/gvg/__184a.html","checked_on":"2026-09-14","supports":"Landesrechtlicher Rahmen und Parteiwille für englische Verfahrensführung."},{"url":"https://www.gesetze-im-internet.de/zpo/__612.html","checked_on":"2026-09-14","supports":"Organisationstermin und Vereinbarungen über den Verfahrensablauf."},{"url":"https://www.gesetze-im-internet.de/zpo/__613.html","checked_on":"2026-09-14","supports":"Wortprotokoll auf übereinstimmenden Parteiantrag mit tatsächlichem Vorbehalt."},{"url":"https://www.gesetze-im-internet.de/zpo/__273a.html","checked_on":"2026-09-14","supports":"Antragsgebundene Einstufung streitgegenständlicher Informationen als geheimhaltungsbedürftig."}],
-  "mini_review":{"sha256":"c95d3c5e76e1aec44488149dab0d15fbc6a7d36f2007e7e086755da4cfc0a64b","verdict":"revised","reason":"Der vollständig geprüfte Mini trennt Forum, Sprache, Organisationstermin und Wortprotokoll und verarbeitet fehlende Klauseln oder Geheimnisangaben bereits bis zur fertigen Fassung. Kein weiterer Mini-Eingriff nötig.","changes":["Zeitplan und Beweisthemen sowie Trennung von Wortprotokoll und Geheimnisschutz beibehalten.","Bereits eingearbeitete Fortsetzung nach Klausel- oder Geheimnisnachforderung vollständig geprüft."]},
-  "workshop_review":{"verdict":"revised","reason":"Die Ganztextprüfung zeigte erneut die falsche Zuordnung des Wortprotokolls zum Geheimnisschutz und mehrfach vorgeschriebene Zwischenprodukte. Die Werkstatt folgt jetzt der tatsächlichen Verfahrensbearbeitung statt doppelten allgemeinen Routen.","changes":["Forum und Sprache, Beweis und Übersetzung, Schutzantrag, Organisationstermin sowie Einreichung getrennt angeordnet.","Paragraf 613 ZPO dem Wortprotokoll zugeordnet und pauschale Kosten-, Geheimhaltungs- und Formatversprechen entfernt.","Ergänzte Klauseln und Schutzangaben bis zum beauftragten Schriftsatz fortführen lassen; Rechtsmittel und Spezialaufträge bleiben auftragsabhängig."],"sha256":"386030f4368eb9f0325769bbd976eacf05e6ec9abe6d2315ab09ba94600ae8d6"},
-  "selection":{"positive":["Bereiten Sie den Organisationstermin eines bereits anhängigen englischsprachigen Commercial-Court-Verfahrens vor.","Prüfen Sie eine Commercial-Court-Klausel auf Sachgebiet, Streitwert, Landesrahmen und Sprache."],"negative":["Erstellen Sie einen US-Discovery-Antrag für ein Bundesgericht in New York.","Entwerfen Sie eine gewöhnliche Wohnraummietklage über 2000 Euro."]},
-  "cases":[{"id":"organisation-mit-geheimnis-und-protokoll","request":"In einem bereits wirksam anhängigen erstinstanzlichen Commercial-Court-Verfahren über 1,2 Millionen Euro Liefervergütung sind Zuständigkeit und englische Gerichtssprache geklärt. Der Organisationstermin ist für den 1. Oktober 2026 angesetzt. Streitpunkte sind die erreichte Maschinenleistung und die Höhe einer vertraglichen Anpassung. Eine deutschsprachige Ingenieurin kann zur Leistung aussagen; Messprotokolle liegen deutsch vor. Eine Kalkulation enthält bislang nicht öffentliche Herstellkosten, die intern nur Einkauf und Leitung sehen dürfen. Unsere Seite möchte Geheimnisschutz und ein mitlesbares Wortprotokoll; die Gegenseite hat sich zum Protokoll noch nicht geäußert. Erstellen Sie eine deutsche interne Agenda mit einem vorgeschlagenen Zeitplan und ausformulierten Antragsbausteinen, ohne erneut die geklärte Forumfrage aufzurollen.","input_files":[],"deliverables":["ergebnis.md"],"criteria":[{"id":"C01","text":"Die Agenda verbindet Leistung und Preisanpassung mit konkreten Beweisthemen, Messprotokollen und Übersetzungs- beziehungsweise Sprachbedarf der Ingenieurin; vorgeschlagene Termine werden nicht als gerichtliche Anordnung dargestellt.","deliverables":["ergebnis.md"]},{"id":"C02","text":"Der Geheimnisschutzantrag bezieht sich konkret auf die Herstellkosten und ihren beschränkten Zugang, statt die gesamte Akte ohne Begründung als geheim zu deklarieren oder Paragraf 613 als Geheimnisschutznorm zu verwenden.","deliverables":["ergebnis.md"]},{"id":"C03","text":"Das Wortprotokoll wird unter Vorbehalt des übereinstimmenden Parteiantrags und tatsächlicher Umsetzbarkeit vorbereitet; eine Zustimmung der Gegenseite oder Bewilligung wird nicht erfunden.","deliverables":["ergebnis.md"]}],"target_skill":"case-management-conference"}]
+  "schema_version": 1,
+  "plugin": "commercial-courts-deutschland",
+  "reviewed_on": "2026-09-23",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/gvg/__119b.html",
+      "checked_on": "2026-09-14",
+      "supports": "Sachgebiet, Wertgrenze, Einrichtung und Parteiwille für Commercial Courts."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gvg/__184a.html",
+      "checked_on": "2026-09-14",
+      "supports": "Landesrechtlicher Rahmen und Parteiwille für englische Verfahrensführung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__612.html",
+      "checked_on": "2026-09-14",
+      "supports": "Organisationstermin und Vereinbarungen über den Verfahrensablauf."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__613.html",
+      "checked_on": "2026-09-14",
+      "supports": "Wortprotokoll auf übereinstimmenden Parteiantrag mit tatsächlichem Vorbehalt."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__273a.html",
+      "checked_on": "2026-09-14",
+      "supports": "Antragsgebundene Einstufung streitgegenständlicher Informationen als geheimhaltungsbedürftig."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gvg/__119b.html",
+      "checked_on": "2026-09-22",
+      "supports": "Amtlichen Text zu Paragraf 119b GVG gelesen; Bezug: Vertragsklausel und konkreten Wirtschaftsstreit dem eröffneten Spruchkörper und der richtigen Verfahrenssprache zuordnen. Keine vollständige neue Verifikation sämtlicher weiterer Normen des Plugins."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/de/ALL/?uri=CELEX%3A62022CJ0566",
+      "checked_on": "2026-09-22",
+      "supports": "EuGH, Urteil vom 08.02.2024, C-566/22, Inkreal: Bei Parteien aus demselben anderen Mitgliedstaat kann Wahl deutscher Gerichte allein den erforderlichen Auslandsbezug begründen; keinen weiteren deutschen Erfüllungsort verlangen. Volltext Rn. 23 bis 25 und 39 gelesen; nationale Sachgebiets- und Wertgrenzen sowie Landesverordnung und Sprachvereinbarung nicht ersetzt."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gvg/__184a.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aktuellen Normtext gelesen: englische Verfahrenssprache nach den gesetzlichen Voraussetzungen; Wortprotokoll beim Commercial Court auf übereinstimmenden Antrag. Sprache ersetzt weder Sachzuständigkeit noch erforderliche Landesregelung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__273a.html",
+      "checked_on": "2026-09-23",
+      "supports": "Bestimmter Geheimnisschutz im Zivilprozess mit konkreter Schutzbegründung; Schwärzung ist keine bereits angeordnete Zugangsbeschränkung."
+    }
+  ],
+  "mini_review": {
+    "sha256": "35cafffe21fed99ec35d06c5027adf6eedcdd2b880e56a08db747afdb5311574",
+    "verdict": "revised",
+    "reason": "Vertragsklausel und konkreten Wirtschaftsstreit dem eröffneten Spruchkörper und der richtigen Verfahrenssprache zuordnen. Der Kurzprompt behandelt diesen konkreten Ausgangsfall mit begrenztem Entscheidungsmaßstab und vollständigem bestelltem Ergebnis. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert.",
+    "changes": [
+      "Internationalen Gerichtsstand von Commercial-Court-Zugang und Sprache getrennt; Beschlussmängelstreitigkeiten ausdrücklich abgegrenzt und übereinstimmenden Protokollantrag präzisiert.",
+      "Bei Parteien aus demselben anderen Mitgliedstaat kann Wahl deutscher Gerichte allein den erforderlichen Auslandsbezug begründen; keinen weiteren deutschen Erfüllungsort verlangen.",
+      "Leer: Forumklausel, Organisationstermin oder Geheimnisschutz. Dateien: still lesen und konkretes Verfahrensprodukt anbieten. Klar: unmittelbar bestellten Text erstellen, geklärtes Forum übernehmen.",
+      "Spätere Zeugenverfügbarkeit verändert Zeitplanvorschlag; zusätzliche Kostenanlage verändert Schutzantrag und alle Fassungen."
+    ]
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Internationalen Gerichtsstand von Commercial-Court-Zugang und Sprache getrennt; Beschlussmängelstreitigkeiten ausdrücklich abgegrenzt und übereinstimmenden Protokollantrag präzisiert. Die vollständige Werkstatt wurde einschließlich Rückfragen, Fortsetzung und Auftragsgrenzen redaktionell durchgesehen. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen.",
+    "changes": [
+      "Vertragsklausel und konkreten Wirtschaftsstreit dem eröffneten Spruchkörper und der richtigen Verfahrenssprache zuordnen.",
+      "Bei Parteien aus demselben anderen Mitgliedstaat kann Wahl deutscher Gerichte allein den erforderlichen Auslandsbezug begründen; keinen weiteren deutschen Erfüllungsort verlangen.",
+      "Klauselnachtrag, gemischter Streitgegenstand, Beweisabhängigkeiten, Schutzumfang, Protokollzustimmung und Sprachkonsistenz vertieft.",
+      "Spätere Zeugenverfügbarkeit verändert Zeitplanvorschlag; zusätzliche Kostenanlage verändert Schutzantrag und alle Fassungen."
+    ],
+    "sha256": "6679722d533e7be224ff961ac55c6e28b7d9662543c0af9e9438e3c927ba49ff"
+  },
+  "selection": {
+    "positive": [
+      "Bereiten Sie den Organisationstermin eines bereits anhängigen englischsprachigen Commercial-Court-Verfahrens vor.",
+      "Prüfen Sie eine Commercial-Court-Klausel auf Sachgebiet, Streitwert, Landesrahmen und Sprache."
+    ],
+    "negative": [
+      "Erstellen Sie einen US-Discovery-Antrag für ein Bundesgericht in New York.",
+      "Entwerfen Sie eine gewöhnliche Wohnraummietklage über 2000 Euro."
+    ]
+  },
+  "cases": [
+    {
+      "id": "organisation-mit-geheimnis-und-protokoll",
+      "request": "In einem bereits wirksam anhängigen erstinstanzlichen Commercial-Court-Verfahren über 1,2 Millionen Euro Liefervergütung sind Zuständigkeit und englische Gerichtssprache geklärt. Der Organisationstermin ist für den 1. Oktober 2026 angesetzt. Streitpunkte sind die erreichte Maschinenleistung und die Höhe einer vertraglichen Anpassung. Eine deutschsprachige Ingenieurin kann zur Leistung aussagen; Messprotokolle liegen deutsch vor. Eine Kalkulation enthält bislang nicht öffentliche Herstellkosten, die intern nur Einkauf und Leitung sehen dürfen. Unsere Seite möchte Geheimnisschutz und ein mitlesbares Wortprotokoll; die Gegenseite hat sich zum Protokoll noch nicht geäußert. Erstellen Sie eine deutsche interne Agenda mit einem vorgeschlagenen Zeitplan und ausformulierten Antragsbausteinen, ohne erneut die geklärte Forumfrage aufzurollen.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die Agenda verbindet Leistung und Preisanpassung mit konkreten Beweisthemen, Messprotokollen und Übersetzungs- beziehungsweise Sprachbedarf der Ingenieurin; vorgeschlagene Termine werden nicht als gerichtliche Anordnung dargestellt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Der Geheimnisschutzantrag bezieht sich konkret auf die Herstellkosten und ihren beschränkten Zugang, statt die gesamte Akte ohne Begründung als geheim zu deklarieren oder Paragraf 613 als Geheimnisschutznorm zu verwenden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Das Wortprotokoll wird unter Vorbehalt des übereinstimmenden Parteiantrags und tatsächlicher Umsetzbarkeit vorbereitet; eine Zustimmung der Gegenseite oder Bewilligung wird nicht erfunden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "case-management-conference"
+    }
+  ],
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Forumklausel, Organisationstermin oder Geheimnisschutz.",
+      "Dateien: still lesen und konkretes Verfahrensprodukt anbieten.",
+      "Klar: unmittelbar bestellten Text erstellen, geklärtes Forum übernehmen."
+    ],
+    "continuation": "Spätere Zeugenverfügbarkeit verändert Zeitplanvorschlag; zusätzliche Kostenanlage verändert Schutzantrag und alle Fassungen.",
+    "enrichment": "Klauselnachtrag, gemischter Streitgegenstand, Beweisabhängigkeiten, Schutzumfang, Protokollzustimmung und Sprachkonsistenz vertieft.",
+    "limits": "desk review; no live client execution"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "commercial-courts-deutschland/README.md",
+      "commercial-courts-deutschland/commercial-courts-deutschland-werkstatt.md",
+      "commercial-courts-deutschland/commercial-courts-deutschland-schnellstart.md",
+      "quality/evals/commercial-courts-deutschland.json"
+    ],
+    "opening_change": "Vertragsklausel und konkreten Wirtschaftsstreit dem eröffneten Spruchkörper und der richtigen Verfahrenssprache zuordnen",
+    "norms": [
+      "Paragraf 119b GVG",
+      "Paragraf 184a GVG",
+      "Artikel 25 Absatz 1 Verordnung (EU) Nr. 1215/2012"
+    ],
+    "decisions": [
+      {
+        "citation": "EuGH, Urteil vom 08.02.2024, C-566/22, Inkreal",
+        "url": "https://eur-lex.europa.eu/legal-content/de/ALL/?uri=CELEX%3A62022CJ0566",
+        "application": "Bei Parteien aus demselben anderen Mitgliedstaat kann Wahl deutscher Gerichte allein den erforderlichen Auslandsbezug begründen; keinen weiteren deutschen Erfüllungsort verlangen.",
+        "limit": "Volltext Rn. 23 bis 25 und 39 gelesen; nationale Sachgebiets- und Wertgrenzen sowie Landesverordnung und Sprachvereinbarung nicht ersetzt."
+      }
+    ],
+    "remaining_limits": [
+      "Volltext Rn. 23 bis 25 und 39 gelesen; nationale Sachgebiets- und Wertgrenzen sowie Landesverordnung und Sprachvereinbarung nicht ersetzt.",
+      "Landesverordnungen und tatsächliche Einrichtung einzelner Spruchkörper sind fallbezogen erneut zu prüfen; keine bundesweite Standortprüfung.",
+      "Individuelle redaktionelle Akten- und Quellenprüfung (desk review), kein Live-Client- oder Modelltest.",
+      "Workflow-Anschlussprüfung 23.09.2026: individuelle Text- und Quellenprüfung, keine Live-Client-Ausführung. Frühere Entscheidungsprüfungen und ihre Reichweitengrenzen bleiben unverändert; keine erneute vollständige Rechtsprechungsprüfung behauptet. Paragraf 612 ZPO im Anschlussabruf nicht erreichbar; bisherige Quellenprüfung bleibt datiert. Aktuelle Landeszuständigkeit und technische Protokollumsetzung weiterhin fallbezogen zu sichern."
+    ]
+  }
 }

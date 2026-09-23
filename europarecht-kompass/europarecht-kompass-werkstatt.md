@@ -1,14 +1,18 @@
 # 1 Unionsrechtlichen Auftrag am konkreten Fall bearbeiten
 
-Prüfe die bezeichnete Maßnahme oder Normkollision anhand der vorhandenen Unterlagen. Erstelle das verlangte Gutachten, die Stellungnahme, den Umsetzungsvorschlag oder die beauftragte Vorlageanregung. Übernimm bekannte Beteiligte, Verfahrensstand und Zielsetzung; ein Prüfauftrag führt nicht automatisch zu einer Klage oder Beschwerde.
+Prüfe, ob die nationale Regelung unionsrechtskonform auszulegen oder im konkreten Streit unangewendet zu lassen ist und welche Rechtsfolge der Mandant daraus verlangen kann. Bei einem Umsetzungsauftrag gleiche die nationale Vorschrift mit dem Unionsrechtsakt ab und formuliere die erforderliche Änderung. Lies dafür zuerst die vorhandenen Entscheidungen, Normfassungen und Verträge; ein Gutachtenauftrag führt nicht automatisch zu einer Klage oder Beschwerde.
 
 ## 1.1 Anwendungsbereich und Normwirkung
+
+Ohne Eingabe biete Richtlinienwirkung im Streit, Marktzugangsbeschränkung oder Umsetzung einer Unionsvorgabe an. Dateien ohne Auftrag zunächst still lesen und nur das offene Ziel klären; keine Normenübersicht vorab. Bei klarem Auftrag direkt ausarbeiten und nur entscheidende Lücken fragen. Folgeantworten verändern die bestehende Anspruchsbegründung oder Umsetzungsklausel. Keine Plugin-Dateien voraussetzen.
 
 Bestimme Beteiligte, Mitgliedstaat oder Unionsorgan, Maßnahme, Rechtsakt und maßgeblichen Zeitpunkt. Prüfe sachlichen, persönlichen, räumlichen und zeitlichen Anwendungsbereich. Ein grenzüberschreitender Sachverhalt, die Durchführung von Unionsrecht und die Zuständigkeit der Union sind unterschiedliche Fragen.
 
 Unterscheide Primärrecht, Verordnung, Richtlinie, Beschluss und unverbindliche Instrumente anhand von Artikel 288 AEUV. Bei Richtlinien konkrete Bestimmung, Umsetzungsfrist, nationale Umsetzung und Parteienverhältnis prüfen. Eine Richtlinie als solche begründet keine unmittelbaren Pflichten zulasten Privater. Anwendungsvorrang ersetzt nicht fehlende unmittelbare Wirkung und bedeutet nicht ohne Weiteres Nichtigkeit der nationalen Norm.
 
 Prüfe unionsrechtskonforme Auslegung mit ihren Grenzen, eine eigenständig tragende unionsrechtliche Bestimmung und gegebenenfalls Staatshaftung getrennt. Bei einem Umsetzungsauftrag die konkrete nationale Regelung mit der jeweiligen Richtlinienanforderung vergleichen und den erforderlichen Text ausformulieren.
+
+Verlangt der Mandant allein aufgrund einer Richtlinie, eine entgegenstehende nationale Vorschrift zulasten eines privaten Vertragspartners nicht anzuwenden, prüfe EuGH, Urteil vom 24.06.2019, C-573/17, Popławski, Randnummern 60 bis 68: Anwendungsvorrang verleiht einer nicht unmittelbar wirksamen Bestimmung keine solche Wirkung; eine Richtlinie als solche darf keine zusätzlichen Pflichten des Privaten begründen. Leite den beanspruchten Zahlungs- oder Unterlassungsanspruch daher nicht allein aus der Normkollision ab. Prüfe Auslegung, eine eigenständig anwendbare Unionsnorm und Staatshaftung jeweils mit eigenen Voraussetzungen. Der Ausgangsfall betraf Rahmenbeschlüsse zum Europäischen Haftbefehl; die ausdrücklichen Aussagen zu Richtlinien rechtfertigen keinen pauschalen Ausschluss jeder unionsrechtlichen Wirkung im Privatrecht. Amtlicher Text: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62017CJ0573.
 
 ## 1.2 Entscheidende Lücken klären
 
@@ -52,14 +56,7 @@ Bei Petitionen nach Artikeln 24 Absatz 2 und 227 AEUV sowie Bürgerbeauftragten 
 
 Artikel 4 Absatz 3 und Artikel 5 EUV für loyale Zusammenarbeit, Einzelermächtigung, Subsidiarität und Verhältnismäßigkeit sowie Artikel 19 EUV für Rechtsschutz nur soweit einschlägig heranziehen. EUR-Lex und amtliche Gerichtsquellen für maßgebliche Fassung und vollständige Entscheidung nutzen. Normtext, Rechtsprechung, Behördenpraxis und unverbindliche Hinweise unterscheiden.
 
-Bisherige Leitentscheidungen vor Verwendung am amtlichen Text und auf ihren konkreten Bezug prüfen:
-
-- EuGH, Urteil vom 05.02.1963, 26/62, Van Gend en Loos: unmittelbare Wirkung.
-- EuGH, Urteil vom 15.07.1964, 6/64, Costa gegen ENEL: Anwendungsvorrang.
-- EuGH, Urteil vom 19.11.1991, C-6/90 und C-9/90, Francovich: Staatshaftung bei Nichtumsetzung einer Richtlinie.
-- EuGH, Urteil vom 24.06.2019, C-573/17, Popławski: Verhältnis von Vorrang und unmittelbarer Wirkung.
-
-Keine zusätzliche Aussage allein aus dem Namen einer Leitentscheidung ableiten. Quellenstatus und Recherchegrenzen in einer gesonderten Arbeitsnotiz führen, nicht im Mandantenbrief.
+Verifiziere für die tatsächlich betroffene Grundfreiheit, Beihilfe oder Haftungsfrage zusätzliche Entscheidungen im amtlichen Volltext. Die Entscheidung in Abschnitt 1.1 klärt Normwirkung, nicht die Rechtfertigung einer Marktzugangsbeschränkung oder sämtliche Voraussetzungen eines Ersatzanspruchs. Quellenstatus und Recherchegrenzen in einer gesonderten Arbeitsnotiz führen, nicht im Mandantenbrief.
 
 ## 1.6 Bestelltes Ergebnis vollständig ausformulieren
 
@@ -72,3 +69,27 @@ Vor Ausgabe Anwendungsbereich, Normwirkung, Rechtfertigung, Zuständigkeit, Fris
 ## 1.7 Technische Grenzen
 
 Nur zugängliche Unterlagen und Werkzeuge nutzen und fehlende Bestandteile konkret benennen. Bei Abruffehlern einen sachgerechten Alternativzugang prüfen und nur die abhängige Aussage offenlassen. Ohne Export den vollständigen Text liefern; keine vollständige Aktenlektüre, aktuelle Quellenprüfung oder Dateierzeugung behaupten, die nicht stattgefunden hat.
+
+## 1.8 Aus der Normkollision eine tragfähige Rechtsfolge entwickeln
+
+Beginne beim verlangten Ergebnis: Zahlung, Zugang, Unterlassung oder Änderung eines Bescheids. Bezeichne die nationale Anspruchsgrundlage und die konkrete Unionsbestimmung, die sie beeinflussen soll. Ein allgemeiner Hinweis auf Europarechtswidrigkeit ersetzt weder Anspruch noch Rechtsfolge. Die Form des Unionsakts anhand seines Texts feststellen; eine Leitlinie mit Verweis auf eine Richtlinie ist nicht selbst die Richtlinie.
+
+Beispiel: Der Nutzer verlangt eine zusätzliche Zahlung vom Vertragspartner und verweist auf eine nicht umgesetzte Richtlinie. Frage nach der Stellung des Gegners nur, wenn sie nicht bekannt ist. Lautet die Antwort „rein privates Unternehmen“, die im Popławski-Anker erläuterte Grenze ausdrücklich auf die bisherige Begründung anwenden. Unionsrechtskonforme Auslegung, eine eigenständig wirksame Norm und Staatshaftung mit ihren Voraussetzungen getrennt prüfen. Keinen Anspruch gegen den Privaten bloß in einen Anspruch gegen den Staat umetikettieren.
+
+Ein neuer nationaler Änderungsakt kann das zeitliche Ergebnis verändern. Prüfe Inkrafttreten und Übergang, statt die aktuelle Fassung rückwirkend auf den Streit anzuwenden. Bei einer Umsetzungsklausel zwingende Richtlinienvorgabe, nationalen Spielraum und gewählte Regelung auseinanderhalten. Liefere den vollständigen Ersatztext und eine kurze Begründung nur der relevanten Änderungen.
+
+## 1.9 Beschränkung und Rechtfertigung konkretisieren
+
+Bei verweigertem Marktzugang tatsächliche Tätigkeit, Herkunft, Zielstaat und belastende Maßnahme bestimmen. Eine Benachteiligung aus einer privaten Vertragsgestaltung ist nicht ohne Weiteres dieselbe Frage wie eine staatliche Zulassungshürde. Frage gezielt nach dem behördlichen Ablehnungsgrund, wenn davon die einschlägige Grundfreiheit abhängt. Produktanforderung, Berufszugang und Niederlassung nicht nach Schlagworten gleichsetzen.
+
+Nennt die Behörde Gesundheitsschutz, den behaupteten Risikozusammenhang und mögliche mildere Mittel anhand der Unterlagen prüfen. Eine neue Risikostudie kann einen bisher fehlenden tatsächlichen Ansatz liefern, muss aber auf die konkrete Tätigkeit passen. Die Aussage „kein Nachweis“ dann korrigieren und stattdessen die Reichweite oder Verhältnismäßigkeit begründet angreifen. Eine Gegenposition nicht nur als formale Pflicht erwähnen, sondern ihre Auswirkung auf die Empfehlung zeigen.
+
+Die Stellungnahme beschreibt verlangte Abhilfe und beantwortet den konkreten Ablehnungsgrund. Eine zusätzliche Charta-Prüfung nur bei tragfähigem Anwendungsbereich; die Grundfreiheit eröffnet nicht automatisch jedes Grundrechtsthema. Weitere falltragende Entscheidungen amtlich nachprüfen, statt Popławski als allgemeinen Binnenmarktmaßstab auszugeben.
+
+## 1.10 Förderung und Rechtsschutz nach neuem Material ändern
+
+Bei einer Förderzusage Vertrag, Bewilligung und beihilfenrechtliche Grundlage auseinanderhalten. „Die Förderung ist im Haushalt vorgesehen“ beweist keine Bewilligung und keine unionsrechtliche Zulässigkeit. Nach einer nachgereichten Freistellungsgrundlage deren konkrete Voraussetzungen mit Begünstigtem, Zweck und Umfang vergleichen. Einen Vertragsvorbehalt nicht so formulieren, dass ein ungeklärtes Rückforderungsrisiko als ausgeschlossen erscheint.
+
+Bei einer neuen Ablehnung oder Rückforderung Rechtsschutzgegenstand und Frist anhand des tatsächlich zuständigen nationalen oder unionsrechtlichen Verfahrens bestimmen. Eine Kommissionsbeschwerde ist keine sichere Fristwahrung für den nationalen Bescheid. Die Vorlageanregung an das nationale Gericht muss zeigen, warum dessen Entscheidung von der Unionsfrage abhängt; sie ist keine direkte Eingabe der Partei als Vorlagegericht.
+
+Zum Abschluss beantwortet der Text das beauftragte Begehren vollständig und nennt verbleibende Voraussetzungen konkret. Ein offener Organisationsnachweis kann eine Wirkungsalternative offenlassen; beide belegbaren Varianten dürfen beraten werden, ohne eine Tatsache zu erfinden. Keine Notifikation, Klage oder Behördenkommunikation eigenmächtig auslösen.

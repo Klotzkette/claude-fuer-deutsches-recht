@@ -1,22 +1,35 @@
 {
   "schema_version": 1,
   "plugin": "dfg-foerderantrag",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.dfg.de/de/foerderung/foerdermoeglichkeiten/programme/einzelfoerderung/sachbeihilfe/formulare-merkblaetter",
       "checked_on": "2026-09-14",
       "supports": "Programmmerkblatt, Projektleitfaden und Modulmerkblätter sind getrennte aktuelle Antragsgrundlagen; Versionsstand und Übergangsregeln abgleichen."
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2023/09/rk20230925_1bvr221920.html",
+      "checked_on": "2026-09-22",
+      "supports": "BVerfG, Kammerbeschluss vom 25. September 2023, 1 BvR 2219/20, Randnummern 9–15: Bei vertraulichen Interviews Schutzkonzept und realistische Teilnehmerinformation aus Bedeutung der Forschungsfreiheit ableiten. Grenze: Ergänzende Erwägungen in unzulässiger Verfassungsbeschwerde; weder allgemeines Beschlagnahmeverbot noch DFG-Förderanspruch entschieden. Amtliche tragende Gründe gelesen; keine Vollverifikation der gesamten Materie."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bdsg_2018/__27.html",
+      "checked_on": "2026-09-22",
+      "supports": "Forschungsbezogene Verarbeitung besonderer Kategorien unter Voraussetzungen und Schutzmaßnahmen; keine pauschale Erlaubnis sämtlicher Forschungsdaten."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Mini vollständig gelesen: Forschungsfrage, Datenzugang und Stellenanteil führen zu unterschiedlichen gezielten Nachfragen und danach zu Methoden-, Zeitplan- oder Budgetkorrektur statt einer allgemeinen Förderübersicht.",
+    "reason": "Der Mini beginnt mit Erkenntnisfrage, Methode und nachgerechnetem Projektbedarf; Vertraulichkeitszusagen werden am begrenzten verfassungsrechtlichen Schutz geprüft. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Daten- oder Archivzugang entfällt -> Forschungsfrage, Methode, Arbeitspaket, Zeitplan und Mittelansatz konsistent umstellen.",
     "changes": [
-      "Methodenlücke mit beobachtbarem Erkenntnisziel und anschließendem Antragstext verbunden.",
-      "Personalpositionen nach Ergänzung von Satz oder Stellenanteil neu berechnen lassen; fehlender Formularstand sperrt nur Einreichreife."
+      "Erkenntnisfrage, Methode, Arbeitspakete und nachgerechneten Mittelbedarf zum beantragten Projekt verbinden.",
+      "Wissenschaftlicher Arbeitsauftrag statt unspezifischer Ergebnisbestellung.",
+      "Sensible Daten und Straftatendaten getrennt; Vertraulichkeitsrisiko als echte Planungsfrage integriert.",
+      "Unvollständige Datenschutzverweise und juristische Pflichtfelder im Antrag vermieden.",
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
     ],
-    "sha256": "c6f18a3759909eacbe356970dd702505d692481b26400a5571550bf5aaef11bf"
+    "sha256": "c1561b6cb5818b61bf78c462ec0d8aafaf5d4048f3335ee90859a1df3ce641f9"
   },
   "selection": {
     "positive": [
@@ -64,12 +77,53 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Gesamte Werkstatt einschließlich Wiedereinreichung und Formalia geprüft. Forschungsunsicherheit bleibt wissenschaftlicher Inhalt; technische Quellenvermerke, pauschale Bewilligungsquoten und juristische Pflichtfelder werden nicht in den Antrag gedrängt.",
+    "reason": "Die Werkstatt verknüpft Arbeitspakete, Mittel und Forschungsdatenkonzept und trennt sensible Daten von Straftatendaten; das Forschungsurteil wird nicht als Förderanspruch verwendet. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Beobachtbare Forschungsergebnisse, methodische Ausweichpfade, Personal- und Kapazitätsrechnung, Gerätezugang, begründete Reaktion auf Gutachterkritik und Abgrenzung institutioneller von Ausschreibungsfristen.",
     "changes": [
-      "Daten- und Kooperationszusage von Anfrage getrennt und nach Antwort Arbeitspakete samt Ressourcen angepasst.",
-      "Gutachterkritik mit sachlicher Änderung und konkreter Antwort verbunden.",
-      "Bestellten Antragsteil von einem ungefragten Gesamtpaket unterschieden; bestehende Programmangaben weiterhin aktuell zu prüfen."
+      "Wissenschaftlicher Arbeitsauftrag statt unspezifischer Ergebnisbestellung.",
+      "Sensible Daten und Straftatendaten getrennt; Vertraulichkeitsrisiko als echte Planungsfrage integriert.",
+      "Unvollständige Datenschutzverweise und juristische Pflichtfelder im Antrag vermieden.",
+      "Beobachtbare Forschungsergebnisse, methodische Ausweichpfade, Personal- und Kapazitätsrechnung, Gerätezugang, begründete Reaktion auf Gutachterkritik und Abgrenzung institutioneller von Ausschreibungsfristen."
     ],
-    "sha256": "2ac6eeaeb702660b65b87ca25f93bf49d91492ee85a1fae73ab7d53118861ab1"
+    "sha256": "79443e0f1daf48db656abd925a9387cdc260f8e759d323f29c15bc7634823361"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "files": [
+      "dfg-foerderantrag/README.md",
+      "dfg-foerderantrag/dfg-foerderantrag-werkstatt.md",
+      "dfg-foerderantrag/dfg-foerderantrag-schnellstart.md",
+      "quality/evals/dfg-foerderantrag.json"
+    ],
+    "opening_change": "Erkenntnisfrage, Methode, Arbeitspakete und nachgerechneten Mittelbedarf zum beantragten Projekt verbinden. Workflow-Ergänzung: Leer: Projektbeschreibung, Mittelbegründung oder Wiedereinreichungsantwort anbieten. Dateien ohne Aufgabe: Antrag und Gutachten still lesen; gewünschten Antragsteil klären, keine Gutachtenzusammenfassung. Klarer Auftrag: bestellten Antragsteil unmittelbar schreiben; kein erfundener Rechtsstreit und kein automatisches Gesamtantragspaket.",
+    "norms": [
+      "Artikel 5 Absatz 3 Satz 1 GG",
+      "Artikel 6, Artikel 9 Absatz 2 Buchstabe a oder j, Artikel 10 und Artikel 89 Absatz 1 DSGVO",
+      "Paragraf 27 Absatz 1 und Absatz 3 BDSG"
+    ],
+    "decisions": [
+      {
+        "citation": "BVerfG, Kammerbeschluss vom 25. September 2023, 1 BvR 2219/20, Randnummern 9–15",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2023/09/rk20230925_1bvr221920.html",
+        "application": "Bei vertraulichen Interviews Schutzkonzept und realistische Teilnehmerinformation aus Bedeutung der Forschungsfreiheit ableiten.",
+        "limit": "Ergänzende Erwägungen in unzulässiger Verfassungsbeschwerde; weder allgemeines Beschlagnahmeverbot noch DFG-Förderanspruch entschieden."
+      }
+    ],
+    "remaining_limits": [
+      "Aktuelle Programmformulare und Personalmittelsätze im konkreten Antrag weiter zu prüfen; kein unmittelbar einschlägiges Budget- oder Bewilligungsurteil verifiziert.",
+      "Workflow-Review 23.09.2026: DFG-Formularportal erneut eingesehen; keine neuen Fördersätze, Fristen oder Bewilligungszusagen abgeleitet. Keine sachfremde Rechtsprechung ergänzt."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Projektbeschreibung, Mittelbegründung oder Wiedereinreichungsantwort anbieten.",
+      "Dateien ohne Aufgabe: Antrag und Gutachten still lesen; gewünschten Antragsteil klären, keine Gutachtenzusammenfassung.",
+      "Klarer Auftrag: bestellten Antragsteil unmittelbar schreiben; kein erfundener Rechtsstreit und kein automatisches Gesamtantragspaket."
+    ],
+    "continuation": "Daten- oder Archivzugang entfällt -> Forschungsfrage, Methode, Arbeitspaket, Zeitplan und Mittelansatz konsistent umstellen.",
+    "enrichment": "Beobachtbare Forschungsergebnisse, methodische Ausweichpfade, Personal- und Kapazitätsrechnung, Gerätezugang, begründete Reaktion auf Gutachterkritik und Abgrenzung institutioneller von Ausschreibungsfristen.",
+    "limits": "desk review; no live client execution"
   }
 }

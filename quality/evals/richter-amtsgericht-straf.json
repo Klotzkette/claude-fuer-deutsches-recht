@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "richter-amtsgericht-straf",
-  "reviewed_on": "2026-09-17",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/stpo/__261.html",
@@ -12,27 +12,70 @@
       "url": "https://www.gesetze-im-internet.de/stpo/__203.html",
       "checked_on": "2026-09-14",
       "supports": "Hinreichender Tatverdacht als Maßstab der Eröffnung des Hauptverfahrens."
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2013/03/rs20130319_2bvr262810.html",
+      "checked_on": "2026-09-22",
+      "supports": "BVerfG, Urteil vom 19.03.2013, 2 BvR 2628/10, Randnummern 68 bis 71 und 84 bis 93. Amtliche tragende Entscheidungsgründe gelesen. Anwendung: Inhaltsleeres Formalgeständnis nicht als hinreichende Wahrheitsermittlung behandeln; Bestätigung durch tatsächlich eingeführte Hauptverhandlungsbeweise feststellen und Mitteilung dokumentieren. Grenze: Reine Terminabsprachen nicht erfasst; kein generelles Verständigungsverbot und nicht jeder Fehler automatisch absoluter Revisionsgrund."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stpo/__203.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aktueller amtlicher Normtext gelesen: Hinreichender Tatverdacht zur Eröffnung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stpo/__261.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aktueller amtlicher Normtext gelesen: Inbegriff der Hauptverhandlung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stpo/__257c.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aktueller amtlicher Normtext gelesen: Gesetzliche Verständigung und fortbestehende Aufklärung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stpo/__243.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aktueller amtlicher Normtext gelesen: Mitteilung über verständigungsbezogene Gespräche."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stpo/__273.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aktueller amtlicher Normtext gelesen: Verständigungsdokumentation."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stpo/__261.html",
+      "checked_on": "2026-09-23",
+      "supports": "Identifizierungsbedingungen, begrenztes Geständnis, Einspruchsumfang und belegte Rechtsfolgenbasis. Prüftiefe: Paragraf 261 erneut gelesen; Abruf Paragraf 408 gestört, hierzu keine neue gesicherte Detailregel behauptet."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der vollständig geprüfte Mini wahrt die richterliche Perspektive und den jeweiligen Verfahrensstand. Fehlende Nachweise führen zu konkreter weiterer Bearbeitung, ohne Beweiserhebung oder Entscheidungsreife zu erfinden.",
+    "reason": "Kurzprompt individuell auf Einstieg, fachliche Fortsetzung und vollständiges Arbeitsprodukt geprüft. Identifizierungsbedingungen, begrenztes Geständnis, Einspruchsumfang und belegte Rechtsfolgenbasis.",
     "changes": [
-      "Eröffnungsmaßstab von Überzeugungsbildung in der Hauptverhandlung getrennt.",
-      "Tatsächlich eingeführten Beweisstoff und bloße Aktenkenntnis unterschieden.",
-      "Vorläufige Würdigung ohne erfundene Vernehmung oder Schuldbeweislast konkretisiert.",
-      "Ergänzte Verfahrensangaben in den bestellten Verfügungs- oder Entscheidungsentwurf einarbeiten lassen."
+      "Formalgeständnis und Nichtbestreiten nicht als ausreichende Wahrheitsermittlung behandelt.",
+      "Mitteilung nach Paragraf 243 Absatz 4 und Dokumentation nach Paragraf 273 Absatz 1a präzisiert.",
+      "Zwischenverfahren, Strafbefehl, Einstellung und Rechtsfolgen mit eigener Entscheidungsreife erhalten.",
+      "Tatsächlich protokollierte Wiedererkennung nur der Kleidung -> Identifizierungswürdigung begrenzen; Einkommensbeleg -> Tagessatzhöhe prüfen.",
+      "Identifizierungsbedingungen, begrenztes Geständnis, Einspruchsumfang und belegte Rechtsfolgenbasis."
     ],
-    "sha256": "49c2af7716e90274944e1e76085ce3f53c6fb32d96dea72569a5e9b3fffe0985"
+    "sha256": "1e664b992a7dbc61203f1d51035999d366dc99dd6dc3b6b0f0f0514f43833739",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die Ganztextprüfung ersetzt allgemeine Praxisrouten durch Zwischenverfahren, Strafbefehl, Hauptverhandlung, Beweiswürdigung und Entscheidung. Akteninhalt und tatsächlich eingeführter Verhandlungsstoff bleiben unterscheidbar.",
+    "reason": "Werkstatt individuell auf Einstieg, fachliche Fortsetzung und vollständiges Arbeitsprodukt geprüft. Identifizierungsbedingungen, begrenztes Geständnis, Einspruchsumfang und belegte Rechtsfolgenbasis.",
     "changes": [
-      "Aufklärungslücken und weitere Entwurfsarbeit verfahrensbezogen miteinander verbunden.",
-      "Geständnis, Verständigung, Einstellung und Rechtsfolgen in die passende Entscheidungsphase eingeordnet statt pauschale Pflichtausgaben zu verlangen."
+      "Formalgeständnis und Nichtbestreiten nicht als ausreichende Wahrheitsermittlung behandelt.",
+      "Mitteilung nach Paragraf 243 Absatz 4 und Dokumentation nach Paragraf 273 Absatz 1a präzisiert.",
+      "Zwischenverfahren, Strafbefehl, Einstellung und Rechtsfolgen mit eigener Entscheidungsreife erhalten.",
+      "Tatsächlich protokollierte Wiedererkennung nur der Kleidung -> Identifizierungswürdigung begrenzen; Einkommensbeleg -> Tagessatzhöhe prüfen.",
+      "Identifizierungsbedingungen, begrenztes Geständnis, Einspruchsumfang und belegte Rechtsfolgenbasis."
     ],
-    "sha256": "458c122cbe3d39388ebaa689bf29f96f6cd960d8cf9a93c0e143bf8b6bf88b3e"
+    "sha256": "de6bb320968238cf2e33923fad0e3ac717e6aa179bcae7f9bef470004c612eb2",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
   },
   "selection": {
     "positive": [
@@ -77,5 +120,42 @@
       ],
       "target_skill": "05-beweiswuerdigung-strafrecht"
     }
-  ]
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "gerichtsplugins/richter-amtsgericht-straf/richter-amtsgericht-straf-werkstatt.md",
+      "gerichtsplugins/richter-amtsgericht-straf/richter-amtsgericht-straf-schnellstart.md"
+    ],
+    "opening_change": "Eröffnung, Strafbefehlsprüfung und Urteilsreife anhand des tatsächlich erreichten amtsgerichtlichen Verfahrensschritts bestimmen.",
+    "norms": [
+      "Paragrafen 203, 244 Absatz 2, 261, 267, 243 Absatz 4, 257c und 273 Absatz 1a StPO"
+    ],
+    "decisions": [
+      {
+        "citation": "BVerfG, Urteil vom 19.03.2013, 2 BvR 2628/10, Randnummern 68 bis 71 und 84 bis 93",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2013/03/rs20130319_2bvr262810.html",
+        "application": "Inhaltsleeres Formalgeständnis nicht als hinreichende Wahrheitsermittlung behandeln; Bestätigung durch tatsächlich eingeführte Hauptverhandlungsbeweise feststellen und Mitteilung dokumentieren.",
+        "limit": "Reine Terminabsprachen nicht erfasst; kein generelles Verständigungsverbot und nicht jeder Fehler automatisch absoluter Revisionsgrund."
+      }
+    ],
+    "remaining_limits": [
+      "Desk- und Primärquellenreview, kein Live-Client- oder Modelltest.",
+      "Verständigungsanker ersetzt keine Vollprüfung aller Strafbefehls-, Beweisverwertungs- oder Zumessungsfragen.",
+      "Keine tatsächliche gerichtliche Akte oder Hauptverhandlung geprüft.",
+      "Workflow-Vertiefung 2026-09-23: Paragraf 261 erneut gelesen; Abruf Paragraf 408 gestört, hierzu keine neue gesicherte Detailregel behauptet. Desk review; kein Live-Client-Test."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Eröffnung, Strafbefehl oder Hauptverhandlungs-/Urteilsarbeit anbieten.",
+      "Entscheidende Aktenstücke still lesen, kein Ermittlungsaktenreferat.",
+      "Bestellten gerichtlichen Schritt ohne neue Anklage ausarbeiten."
+    ],
+    "continuation": "Tatsächlich protokollierte Wiedererkennung nur der Kleidung -> Identifizierungswürdigung begrenzen; Einkommensbeleg -> Tagessatzhöhe prüfen.",
+    "enrichment": "Identifizierungsbedingungen, begrenztes Geständnis, Einspruchsumfang und belegte Rechtsfolgenbasis.",
+    "limits": "desk review; no live client execution"
+  }
 }

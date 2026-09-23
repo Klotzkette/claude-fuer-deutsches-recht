@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "richter-amtsgericht-insolvenz-restrukturierung",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/inso/__14.html",
@@ -17,15 +17,40 @@
       "url": "https://www.gesetze-im-internet.de/inso/__21.html",
       "checked_on": "2026-09-14",
       "supports": "Vorläufige Sicherung richtet sich nach drohender nachteiliger Vermögensveränderung, nicht nach einem automatischen Maßnahmenpaket."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2022/IX_ZR_229-22.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 23.01.2025, IX ZR 229/22, Rn. 34–45: Vorläufig vollstreckbare Forderung bei erfüllten Vollstreckungsvoraussetzungen und eingeleiteter Vollstreckung im Schuldnerstatus zum Nennwert ansetzen; Prozesschancen nicht als Abschlag verwenden. Grenze: Die Voraussetzungen der Statusbewertung nicht pauschal in die gerichtliche Prüfung eines Gläubigerantrags übertragen; Einwendungen gegen den Titel grundsätzlich im zuständigen Prozess, Ausnahme offensichtlicher Unbegründetheit nicht abschließend entschieden."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__14.html",
+      "checked_on": "2026-09-22",
+      "supports": "Rechtliches Interesse und Glaubhaftmachung von Forderung und Eröffnungsgrund; Titel nicht mit Insolvenzreife gleichsetzen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__14.html",
+      "checked_on": "2026-09-23",
+      "supports": "Zahlung, Finanzierungszusage, stichtagsbezogene Kostendeckung und gegenstandsbezogene Sicherung getrennt. Prüftiefe: Antrags- und Sicherungsnormen erneut gelesen; StaRUG-, Plan- und Restschuldbefreiungszweige nicht vollständig neu verifiziert."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__21.html",
+      "checked_on": "2026-09-23",
+      "supports": "Zahlung, Finanzierungszusage, stichtagsbezogene Kostendeckung und gegenstandsbezogene Sicherung getrennt. Prüftiefe: Antrags- und Sicherungsnormen erneut gelesen; StaRUG-, Plan- und Restschuldbefreiungszweige nicht vollständig neu verifiziert."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Vollständig gelesen: Die gerichtliche Rolle bleibt von Geschäftsleitung und Verwalter getrennt; Zahlung auf die Gläubigerforderung beendet nicht automatisch die Antragsprüfung.",
+    "reason": "Kurzprompt individuell auf Einstieg, fachliche Fortsetzung und vollständiges Arbeitsprodukt geprüft. Zahlung, Finanzierungszusage, stichtagsbezogene Kostendeckung und gegenstandsbezogene Sicherung getrennt.",
     "changes": [
-      "Gutachtenwidersprüche lösen konkrete Aufklärung und anschließende Neuberechnung aus; der bestellte Entscheidungsentwurf wird fortgesetzt, ohne Entscheidungsreife vorzutäuschen."
+      "IX ZR 229/22 mit den Grenzen insolvenzgerichtlicher Titelnachprüfung verknüpft.",
+      "Vollstreckungsbeginn aus der Statusbewertung nicht als universelle Zulässigkeitsvoraussetzung jedes Gläubigerantrags übernommen.",
+      "Zahlung nach Fremdantrag -> fortbestehenden Antrag und aktuelle Liquidität prüfen; Zusage -> Statusposition berichtigen.",
+      "Zahlung, Finanzierungszusage, stichtagsbezogene Kostendeckung und gegenstandsbezogene Sicherung getrennt."
     ],
-    "sha256": "287e046401fec7985dab75c3593db8a7d65c1d742932d50b57fcd5088d7b2b9e"
+    "sha256": "9d9db9f9d77ee492608fea37a816b8736c379c2adf10192f94217b55567323bd",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
   },
   "selection": {
     "positive": [
@@ -73,10 +98,54 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die ganze Werkstatt einschließlich Eigenverwaltung, Plan, Restrukturierung und Entscheidungsform wurde gelesen. Amtsermittlung wird nicht durch eine pauschale parteiliche Beweislasttabelle ersetzt.",
+    "reason": "Werkstatt individuell auf Einstieg, fachliche Fortsetzung und vollständiges Arbeitsprodukt geprüft. Zahlung, Finanzierungszusage, stichtagsbezogene Kostendeckung und gegenstandsbezogene Sicherung getrennt.",
     "changes": [
-      "Aufklärung führt jeweils zur erneuten Prüfung von Eröffnungsgrund, Sicherungsumfang oder Planvergleich; Entwurf und richterlicher Erlass bleiben getrennt. Bestehende Recherchevorbehalte bleiben erhalten."
+      "IX ZR 229/22 mit den Grenzen insolvenzgerichtlicher Titelnachprüfung verknüpft.",
+      "Vollstreckungsbeginn aus der Statusbewertung nicht als universelle Zulässigkeitsvoraussetzung jedes Gläubigerantrags übernommen.",
+      "Zahlung nach Fremdantrag -> fortbestehenden Antrag und aktuelle Liquidität prüfen; Zusage -> Statusposition berichtigen.",
+      "Zahlung, Finanzierungszusage, stichtagsbezogene Kostendeckung und gegenstandsbezogene Sicherung getrennt."
     ],
-    "sha256": "98e67a8649cfae92985a53df03a0c2f5687823a6e57e9024c9e966d420b65705"
+    "sha256": "998c7f010a051c0d52c49e64d0c48b1f303b334e7e6d93350fa188d9b5b4a078",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "gerichtsplugins/richter-amtsgericht-insolvenz-restrukturierung/richter-amtsgericht-insolvenz-restrukturierung-werkstatt.md",
+      "gerichtsplugins/richter-amtsgericht-insolvenz-restrukturierung/richter-amtsgericht-insolvenz-restrukturierung-schnellstart.md",
+      "gerichtsplugins/richter-amtsgericht-insolvenz-restrukturierung/README.md",
+      "quality/evals/richter-amtsgericht-insolvenz-restrukturierung.json"
+    ],
+    "opening_change": "Zulässigkeit, Eröffnungsgrund und konkret erforderliche Sicherung aus Antrag und Belegen richterlich prüfen.",
+    "norms": [
+      "Paragrafen 14, 17 und 21 InsO",
+      "Paragrafen 34 und 35 StaRUG"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 23.01.2025, IX ZR 229/22, Rn. 34–45",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2022/IX_ZR_229-22.pdf?__blob=publicationFile&v=1",
+        "application": "Vorläufig vollstreckbare Forderung bei erfüllten Vollstreckungsvoraussetzungen und eingeleiteter Vollstreckung im Schuldnerstatus zum Nennwert ansetzen; Prozesschancen nicht als Abschlag verwenden.",
+        "limit": "Die Voraussetzungen der Statusbewertung nicht pauschal in die gerichtliche Prüfung eines Gläubigerantrags übertragen; Einwendungen gegen den Titel grundsätzlich im zuständigen Prozess, Ausnahme offensichtlicher Unbegründetheit nicht abschließend entschieden."
+      }
+    ],
+    "remaining_limits": [
+      "Redaktionelle Akten- und Quellenprüfung, kein Live-Client- oder Modelltest.",
+      "Offensichtliche Unbegründetheit als mögliche Ausnahme im Urteil offengelassen; weitere Plan-, Restschuldbefreiungs- und Organisationsfragen nicht neu umfassend verifiziert.",
+      "Workflow-Vertiefung 2026-09-23: Antrags- und Sicherungsnormen erneut gelesen; StaRUG-, Plan- und Restschuldbefreiungszweige nicht vollständig neu verifiziert. Desk review; kein Live-Client-Test."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Eröffnung, vorläufige Sicherung oder bestimmtes StaRUG-Instrument anbieten.",
+      "Antrag und Gutachten still lesen, nur Entscheidungsziel klären.",
+      "Konkrete Aufklärungsverfügung oder Entscheidung unmittelbar entwerfen."
+    ],
+    "continuation": "Zahlung nach Fremdantrag -> fortbestehenden Antrag und aktuelle Liquidität prüfen; Zusage -> Statusposition berichtigen.",
+    "enrichment": "Zahlung, Finanzierungszusage, stichtagsbezogene Kostendeckung und gegenstandsbezogene Sicherung getrennt.",
+    "limits": "desk review; no live client execution"
   }
 }

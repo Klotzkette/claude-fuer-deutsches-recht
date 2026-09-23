@@ -1,21 +1,48 @@
 {
   "schema_version": 1,
   "plugin": "legistik-werkstatt",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/gg/art_82.html",
       "checked_on": "2026-09-14",
       "supports": "Inkrafttretensbestimmung von Bundesgesetzen und Rechtsverordnungen."
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2013/12/ls20131217_1bvl000508.html",
+      "checked_on": "2026-09-22",
+      "supports": "BVerfG, Beschluss vom 17.12.2013, 1 BvL 5/08, Rn. 40 bis 49 und 62 bis 68: Belastende Änderung für abgeschlossene Sachverhalte: vermeintliche Klarstellung anhand alten und neuen Rechts prüfen; Übergangsrecht oder tragfähige Ausnahme begründen. Grenze: Steuerfall; nicht jede Änderung laufender Verfahren ist echte Rückwirkung, bloße Auslegungsbedürftigkeit keine ausreichende Ausnahme. Amtliche tragende Gründe gelesen; keine Vollverifikation der gesamten Materie."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gg/art_80.html",
+      "checked_on": "2026-09-22",
+      "supports": "Verordnungsermächtigung: Inhalt, Zweck, Ausmaß und Angabe der Rechtsgrundlage."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gg/art_82.html",
+      "checked_on": "2026-09-22",
+      "supports": "Ausfertigung, Verkündung und zeitliche Geltung; gesetzlichen Inkrafttretenszeitpunkt bestimmen."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/ALL/?uri=celex:32015L1535",
+      "checked_on": "2026-09-23",
+      "supports": "Artikel 5 und 6 im amtlichen Text gelesen: Notifizierung technischer Entwürfe und grundsätzlich dreimonatiger Stillstand mit Verlängerungen; Ausnahmen nach Artikel 6 Absatz 7 und Artikel 7 gesondert. Kein allgemeines Notifizierungsgebot für jeden Normtext."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:12016E288",
+      "checked_on": "2026-09-23",
+      "supports": "Artikel 288 AEUV: unmittelbare Geltung von Verordnungen gegenüber zielbezogener Bindung der Mitgliedstaaten bei Richtlinien; Rechtsaktart vor Umsetzung bestimmen."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der vollständige Mini wurde auf Änderungsbefehl, resultierende Fassung und Übergangsfälle geprüft.",
+    "reason": "Individuell um drei Einstiegsmodi, Fassungsabgleich und konkrete Fortschreibung des Übergangsrechts ergänzt; bestehende Rückwirkungsabgrenzung erhalten. Desk-Review ohne Live-Ausführung.",
     "changes": [
-      "Nach politischer Entscheidung zu Ausnahmen oder Altverfahren Normtext und Begründung gemeinsam überarbeiten."
+      "Regelungsziel in Tatbestand, Rechtsfolge, Zuständigkeit und Änderungsbefehle übersetzen.",
+      "Beide Einstiege auf konkrete Normgestaltung ausgerichtet; zeitliche Prüfung materiell um Vertrauensschutz ergänzt.",
+      "Leere Eingabe, bloße Dateien und klaren Entwurfsauftrag getrennt; neue Altantragsentscheidung verändert die bezeichnete Übergangsrechtsdatei und Begründung."
     ],
-    "sha256": "c23759cbcd41504b8038acb82365f245903e71b68af650f0c526197ebf50f2d1"
+    "sha256": "83b1b9451faf89bf51d07b1882cf191bd566420e0279d2b4c00ded9c524a4dcf"
   },
   "selection": {
     "positive": [
@@ -63,10 +90,57 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die gesamte Werkstatt wurde auf echten Normsetzungsablauf statt doppelte Themenrouten gelesen.",
+    "reason": "Werkstatt vollständig gelesen und um Fassungsabhängigkeiten, digitale Grenzfälle, Vollzugstest, gegenläufige Anhörungseinwände und Aufwandseffekte vertieft. Zehn Fachmaterien und vorhandene Rechtsgrenzen bleiben erhalten; kein Live-Modelltest.",
     "changes": [
-      "Anhörung nicht mit universeller Frist versehen; GGO-Begründung und Ressortabstimmung getrennt, sachfremden WHG-Bezug korrigiert."
+      "Beide Einstiege auf konkrete Normgestaltung ausgerichtet; zeitliche Prüfung materiell um Vertrauensschutz ergänzt.",
+      "Werkstatt unterscheidet bedarfsabhängige EU-Notifizierung und konkrete Artikel; vorhandene zehn Fachmaterien und Beteiligungswege erhalten.",
+      "Zwischenfassungen zeitversetzter Änderungen und unbeabsichtigte Begriffserweiterungen konkret prüfen.",
+      "Papieranträge, Nachreichung, Neuantrag und Portalausfall als Gestaltungsfälle; neue Entscheidung führt zu Normtext und Einzelbegründung.",
+      "Meldevereinfachung mit Kontrollzweck und Aufwand beider Seiten abgleichen; substantielle Anhörungseinwände bis zur Textänderung bearbeiten."
     ],
-    "sha256": "bb874067ba994c980e2f1e725600c9d46bdad11b6683c5ead34e804e62dd6cb8"
+    "sha256": "f0fb89d5aebb830d523b970e178b13bfdaad458268303a2ea01c9d9a3651a8d3"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "method": "desk_review",
+    "files": [
+      "legistik-werkstatt/README.md",
+      "legistik-werkstatt/legistik-werkstatt-werkstatt.md",
+      "legistik-werkstatt/legistik-werkstatt-schnellstart.md",
+      "quality/evals/legistik-werkstatt.json"
+    ],
+    "opening_change": "Regelungsziel in Tatbestand, Rechtsfolge, Zuständigkeit und Änderungsbefehle übersetzen.",
+    "norms": [
+      "Artikel 20 Absatz 3, 70 ff., 80 und 82 Absatz 2 GG",
+      "Artikel 288 AEUV",
+      "Artikel 51 Absatz 1 GRCh",
+      "Artikel 5 und 6 Richtlinie (EU) 2015/1535"
+    ],
+    "decisions": [
+      {
+        "citation": "BVerfG, Beschluss vom 17.12.2013, 1 BvL 5/08, Rn. 40 bis 49 und 62 bis 68",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2013/12/ls20131217_1bvl000508.html",
+        "application": "Belastende Änderung für abgeschlossene Sachverhalte: vermeintliche Klarstellung anhand alten und neuen Rechts prüfen; Übergangsrecht oder tragfähige Ausnahme begründen.",
+        "limit": "Steuerfall; nicht jede Änderung laufender Verfahren ist echte Rückwirkung, bloße Auslegungsbedürftigkeit keine ausreichende Ausnahme."
+      }
+    ],
+    "remaining_limits": [
+      "Entscheidende Urteilsabschnitte und Artikel 80/82 GG amtlich gelesen; nicht jede Fachmaterie, Geschäftsordnung oder künftige Änderung geprüft.",
+      "Desk-Review ohne Modelllauf.",
+      "Artikel 5/6 Richtlinie 2015/1535 und Artikel 288 AEUV am 23. September ergänzend amtlich gelesen. Der erneute Abruf des Artikel-51-GRCh-Normvolltexts blieb technisch erfolglos; keine Volltextverifikation dieses Artikels behauptet.",
+      "Nachprüfung am 2026-09-23 für die Workflow-Ergänzung: Alle bestehenden Profil-URLs erneut aufgerufen. Artikel 80/82 GG und der alternative GG-Gesamttext scheiterten am Abruf, BVerfG 1 BvL 5/08 an HTTP 403, beide EUR-Lex-Texte an einer JavaScript-Sperre. Der frühere Quellenbefund bleibt als datierter Prüfstand erhalten; keine erneute Volltextbestätigung. Ergänzungen betreffen Gestaltung und Belegverarbeitung, keine neue Entscheidung oder zusätzliche behauptete gesetzliche Frist."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: kurze Wahl zwischen neuer Regelung, Entwurfsänderung und Vereinfachung einer bestimmten Pflicht.",
+      "Dateien ohne Aufgabe: geltende Fassung und Entwurf still lesen, nur Normtext-, Änderungsantrags- oder Prüfziel klären.",
+      "Klarer Auftrag: unmittelbar am Normtext arbeiten, nur eine entscheidende politische oder tatsächliche Lücke erfragen."
+    ],
+    "continuation": "Antwort zum Papierkanal für Nachreichungen ändert im vereinbarten Pfad, beispielsweise entwurf/uebergangsrecht.md, Übergangsvorschrift, Änderungsbefehl und Einzelbegründung; keine erneute Aufnahme bekannter Vorgaben.",
+    "enrichment": "Zwischenfassungen, Definitionsfolgen, digitale Alt- und Grenzfälle, Vollzugstest, Kontrollverlust bei Meldebündelung und gegenläufige Anhörungseinwände bis zur konsistenten Endfassung.",
+    "limits": "desk review; no live client execution"
   }
 }

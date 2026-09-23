@@ -1,22 +1,39 @@
 {
   "schema_version": 1,
   "plugin": "influencer-recht",
-  "reviewed_on": "2026-09-17",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/uwg_2004/__5a.html",
       "checked_on": "2026-09-14",
       "supports": "Amtlicher Volltext Absatz 4: kommerzieller Zweck, Fremdwerbung ohne Gegenleistung und Vermutung."
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=122152&Blank=1.pdf",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 09.09.2021, Az. I ZR 90/20, Influencer I, Leitsatz c. Anwendung: Gegenleistung für Beitrag begründet geschäftliche Handlung für das beworbene Unternehmen; Honorar und Produktvergütung konkret zuordnen. Grenze und Prüfzugang: Urteil zum früheren Recht; unbezahlte Fremdwerbung heute gesondert nach Gegenleistungsvermutung und Widerlegung. Amtlicher indexierter Leitsatz geprüft, Volltext nicht neu gelesen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/uwg_2004/__5a.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aktuelle Gegenleistungsvermutung und Widerlegung nach Absatz 4."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/ddg/__6.html",
+      "checked_on": "2026-09-22",
+      "supports": "Erkennbarkeit kommerzieller Kommunikation."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Vollständige Schlusslektüre am 18. September 2026: Die konkreten Nachforderungen zu Gegenleistung und Anzeigenlizenz waren tragfähig; allgemeine Nachweisbegriffe und eine pauschale Dreifachausgabe erschwerten den auftragsbezogenen Abschluss.",
+    "reason": "Gegenleistungszuordnung und heutige Vermutungsregel werden von historischer Influencer-Rechtsprechung getrennt.",
     "changes": [
-      "Einstieg auf konkrete Creator-, Agentur- oder Markenperspektive begrenzt.",
-      "Interne Kennzeichnungs-, Aussage- und Rechteprüfung in das bestellte Ergebnis überführt statt stets drei separate Freigabeprodukte zu verlangen."
+      "Influencer I auf bezahlten Beitrag statt pauschal auf jede Verlinkung bezogen",
+      "Paragraf 5a Absatz 4 UWG nach heutiger Fassung berücksichtigt",
+      "DSA-Artikel und Lizenzreichweite konkretisiert; redundante Ablauftexte gestrafft",
+      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt."
     ],
-    "sha256": "3e0df851b036da56a33a09a06673589871d22f1e2e293974ce494060f39cb8b4"
+    "sha256": "36afa26b4bcd72c1c797cc7093bbfee2002ebb2f687ca84c92169135c37975a4"
   },
   "selection": {
     "positive": [
@@ -64,14 +81,54 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Vollständige Schlusslektüre am 18. September 2026: Der Anhang wiederholte allgemeine Ausgaberaster und widersprach teilweise den Grenzen des Haupttexts. Accountsperren, Lizenzumfang, Bildrechte und Gewerbeanzeige enthielten konkrete Fehlzuordnungen.",
+    "reason": "Kampagnenkennzeichnung, Kooperation, Accountsperre und Gesundheit bleiben getrennte Prüfungen; das Werbelabel heilt weder Lizenzmangel noch unbelegten Claim.",
     "changes": [
-      "Doppelte Tabellen und Routen durch fachliche Abläufe für Beitrag, Vertrag, Rechte, Plattform, Agentur, Steuer, Community und Gesundheitswerbung ersetzt; nach Nachweisen bis zum bestellten Text fortsetzen.",
-      "DSA-Artikel 17 und 20 Absatz 6 getrennt; Paragraf 241a BGB nicht als pauschale Sperrgrundlage verwendet. Amtlich abgeglichen: https://eur-lex.europa.eu/eli/reg/2022/2065/oj/deu und https://www.gesetze-im-internet.de/bgb/__241a.html .",
-      "Lizenzumfang anhand Paragraf 31 Absatz 5 UrhG und Namensnennung nach Paragraf 13 UrhG konkretisiert; keine automatische einmalige Nutzung oder ausnahmsloses Verzichtsverbot. Amtlich abgeglichen: https://www.gesetze-im-internet.de/urhg/__31.html und https://www.gesetze-im-internet.de/urhg/__13.html .",
-      "Paragraf 24 KUG als behördliche Bildnisverwendung eingeordnet und erfundene Vierwochenfrist der Gewerbeanzeige beseitigt. Amtlich abgeglichen: https://www.gesetze-im-internet.de/kunsturhg/__24.html und https://www.gesetze-im-internet.de/gewo/__14.html .",
-      "E-Mail-Werbung anhand Paragraf 7 UWG mit Ausnahmen prüfen lassen statt falscher Absatzzuordnung: https://www.gesetze-im-internet.de/uwg_2004/__7.html . Bestehende Quellenprüfdaten unverändert; keine vollständige Neuprüfung sämtlicher Rechtsgebiete behauptet."
+      "Influencer I auf bezahlten Beitrag statt pauschal auf jede Verlinkung bezogen",
+      "Paragraf 5a Absatz 4 UWG nach heutiger Fassung berücksichtigt",
+      "DSA-Artikel und Lizenzreichweite konkretisiert; redundante Ablauftexte gestrafft",
+      "Geschenkabsprache, organisches Reposting versus Anzeigen, getrennte Rechtekette, produktspezifischer Wirkungsnachweis und begrenzter Unterlassungstext."
     ],
-    "sha256": "cea434178299a526734c1de1e1265dddc114f9ca0ec7f657724c12de2456c4ac"
+    "sha256": "1aa3afd59f62c1dac0aee80227096d10f5bb81d7b338f29c7cc6dfa924d0e0b6"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "influencer-recht/influencer-recht-schnellstart.md",
+      "influencer-recht/influencer-recht-werkstatt.md",
+      "influencer-recht/README.md",
+      "quality/evals/influencer-recht.json"
+    ],
+    "opening_change": "Beitrag mit Honorar, Produktüberlassung, erstsichtbarer Kennzeichnung und Werbenutzung abgleichen.",
+    "norms": [
+      "Paragraf 5a Absatz 4 UWG",
+      "Paragraf 6 Absatz 1 Nummer 1 DDG",
+      "Paragraf 22 Absatz 1 MStV",
+      "Artikel 16, 17 und 20 Verordnung (EU) 2022/2065"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 09.09.2021, Az. I ZR 90/20, Influencer I, Leitsatz c",
+        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=122152&Blank=1.pdf",
+        "application": "Gegenleistung für Beitrag begründet geschäftliche Handlung für das beworbene Unternehmen; Honorar und Produktvergütung konkret zuordnen.",
+        "limit": "Urteil zum früheren Recht; unbezahlte Fremdwerbung heute gesondert nach Gegenleistungsvermutung und Widerlegung. Amtlicher indexierter Leitsatz geprüft, Volltext nicht neu gelesen."
+      }
+    ],
+    "remaining_limits": [
+      "Desk-/Quellenprüfung, kein Live-Ergebnistest.",
+      "Vollständige aktuelle MStV-, Steuer- und Plattformpraxis nicht neu verifiziert; BGH nur amtlicher Leitsatz.",
+      "Workflow-Ergänzung am 2026-09-23: individuelle Textprüfung, keine erneute Gesamtverifikation der bestehenden Entscheidungsanker; deren dokumentierte Quellen- und Zugriffsgrenzen bleiben bestehen."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Beitragsfreigabe, Kooperationsklausel oder Sperrbeschwerde wählen.",
+      "Beitrag samt zugänglichem Ton still prüfen; zwei passende Dokumente anbieten.",
+      "Bestellte Beitragszeilen oder Vertragsfassung unmittelbar liefern."
+    ],
+    "continuation": "Affiliate-Antwort -> Gegenleistungszuordnung; neue Musiklizenz -> Nutzungsumfang; geänderter Claim -> Beitragsfassung; Sperrgrund -> Beschwerdeargument ändern.",
+    "enrichment": "Geschenkabsprache, organisches Reposting versus Anzeigen, getrennte Rechtekette, produktspezifischer Wirkungsnachweis und begrenzter Unterlassungstext.",
+    "limits": "desk review; no live client execution"
   }
 }

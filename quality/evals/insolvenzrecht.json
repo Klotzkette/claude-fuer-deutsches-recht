@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "insolvenzrecht",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/inso/__17.html",
@@ -32,42 +32,65 @@
       "url": "https://www.gesetze-im-internet.de/inso/__343.html",
       "checked_on": "2026-09-18",
       "supports": "Anerkennungsprüfung für ausländische Insolvenzverfahren außerhalb einer ohne Weiteres anwendbaren EuInsVO; keine pauschale EuInsVO-Behandlung sämtlicher Drittstaatenverfahren."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2022/IX_ZR_229-22.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 23.01.2025, IX ZR 229/22, Rn. 34–45: Vorläufig vollstreckbare Forderung bei erfüllten Vollstreckungsvoraussetzungen und eingeleiteter Vollstreckung im Schuldnerstatus zum Nennwert ansetzen; Prozesschancen nicht als Abschlag verwenden. Grenze: Die Voraussetzungen der Statusbewertung nicht pauschal in die gerichtliche Prüfung eines Gläubigerantrags übertragen; Einwendungen gegen den Titel grundsätzlich im zuständigen Prozess, Ausnahme offensichtlicher Unbegründetheit nicht abschließend entschieden."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2016/II_ZR__88-16.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 19.12.2017, II ZR 88/16, insbesondere Rn. 50–70: In der Dreiwochenbetrachtung künftige Zuflüsse und neue Fälligkeiten gemeinsam erfassen. Konzernansprüche nur bei rechtzeitiger Leistungsfähigkeit und Zahlungsbereitschaft als verfügbar behandeln. Grenze: Eine 13-Wochen-Budgetplanung ersetzt nicht den Status; die Entscheidung zu Paragraf 64 GmbHG begründet keine automatische heutige Organhaftung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__17.html",
+      "checked_on": "2026-09-22",
+      "supports": "Fällige Zahlungspflichten und Zahlungseinstellung, kein Prozessrisikoabschlag nach freier Einschätzung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__15a.html",
+      "checked_on": "2026-09-22",
+      "supports": "Antrag ohne schuldhaftes Zögern; drei beziehungsweise sechs Wochen sind Höchstfristen, keine freie Wartezeit."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Den gesamten Schnellstart auf Trennung der Mandate und Fortsetzung nach Liquiditäts- oder Anfechtungsbelegen geprüft. Zahlenabgleich und Nachforderungen führen zur bestellten Krisenbewertung, Anmeldung oder Stellungnahme statt zu einer neuen Aufnahme.",
+    "reason": "Titel werden nicht nach Berufungschancen abgezinst; Zuflüsse und neue Fälligkeiten fließen symmetrisch in die Dreiwochenbetrachtung ein. Individuelle Text- und Quellenprüfung, kein Live-Modelltest.",
     "changes": [
-      "Insolvenzreife, Anmeldung, Anfechtung und Sanierung rollenabhängig getrennt.",
-      "Fachfremden VVG-Anker entfernt und neue Fälligkeiten symmetrisch zu Zuflüssen aufgenommen.",
-      "Unverzüglichen Entscheidungsbedarf statt freier Dreiwochenwartezeit und statt Arbeitsabbruch formuliert.",
-      "Nachgereichte Kreditbedingungen und Zahlungen mit erneuter Rechnung und vollständiger Fassung verbunden."
+      "IX ZR 229/22 und II ZR 88/16 aus amtlichen entscheidenden Gründen in alle drei Promptvarianten eingebunden.",
+      "Titelvoraussetzungen, Konzernmittel und neue Fälligkeiten als konkrete Belegfragen formuliert.",
+      "Im Hauptproblem OPOS-Bereinigung und Statusrechnung ohne automatische Paragraf-15b-Haftung verbunden.",
+      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt."
     ],
-    "sha256": "8dc2a1962d9aaea3bccf0f28eb06f563d234c3e316fe325adc1f3b3c6cb16152"
+    "sha256": "dd6ebb715276941d930a1a60c9f7ba007488b15e21cce3a0b8dbfc41c2a1bbc3"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die gesamte Werkstatt einschließlich aller bisherigen Anhänge gelesen und widersprüchliche allgemeine Routen durch getrennte Bearbeitungswege für Status, Organe, Tabelle, Anfechtung und Sanierung ersetzt. Keine Live-Modellprüfung.",
+    "reason": "Eröffnungsgrund, Organzahlung, Anmeldung, Anfechtung und Sanierung bleiben getrennte Aufträge; alte Vorsatzanfechtung nicht mechanisch auf heutiges Recht übertragen. Individuelle Text- und Quellenprüfung, kein Live-Modelltest.",
     "changes": [
-      "Paragraf 18 InsO nicht mehr als Anfechtungs- oder Konzernnorm verwendet; Versicherungsfragen auf Deckungsmandate begrenzt.",
-      "Pauschale Beweislastverteilung und automatische Register-, Klage- oder Planprodukte entfernt.",
-      "Sanierungsertrag nicht mit einem automatisch erforderlichen Steuerbefreiungsantrag gleichgesetzt; Drittstaatenanerkennung von EuInsVO getrennt.",
-      "Nach Kredit-, Zahlungs- und Forderungsbelegen Rechnung und vollständige Außenfassung fortschreiben; keine unbefugte Einreichung oder Zahlungsfreigabe."
+      "IX ZR 229/22 und II ZR 88/16 aus amtlichen entscheidenden Gründen in alle drei Promptvarianten eingebunden.",
+      "Titelvoraussetzungen, Konzernmittel und neue Fälligkeiten als konkrete Belegfragen formuliert.",
+      "Im Hauptproblem OPOS-Bereinigung und Statusrechnung ohne automatische Paragraf-15b-Haftung verbunden.",
+      "Stundung gegen bloßes Stillhalten abgrenzen, Cashpoolmittel und Zuflüsse zeitlich prüfen, Anfechtung zahlungsbezogen aufbauen und Organentscheidungen nach ihrer tatsächlichen Zahlungs- und Kenntnislage bearbeiten; Fokus-Prompt und Fokus-Skill im Einstieg abgestimmt."
     ],
-    "sha256": "658a355114b270143657d7e2249afc9803c4c2a6b403091aef1f78aaa1c88b03"
+    "sha256": "506d973c85030a6ed0f74540106ebb839fd6a7c118a0454c2b66ebfb8f07d32a"
   },
   "focus_review": {
-    "reviewed_on": "2026-09-17",
+    "reviewed_on": "2026-09-23",
     "method": "desk_review",
     "verdict": "revised",
-    "reason": "Standalone-Prompt und zugeordneter Fokus-Skill vollständig auf fachlichen Umfang, Rückfragen mit Fortsetzung bis zum bestellten Dokument, Ausgabeverhalten, Rollenbegrenzung und Quellendifferenzierung gelesen. Kein Live-Modelltest und keine erneute Vollverifikation der bestehenden Rechtsquellen.",
+    "reason": "OPOS, Titelansatz und Dreiwochenbrücke behalten die bestehenden fachlichen Grenzen. Hauptproblem und Fokus-Skill individuell gelesen und in Start- sowie Fortsetzungsverhalten abgestimmt; heutiger desk_review ohne Live-Ausführung und ohne erneute Vollverifikation der bisherigen Entscheidungsanker.",
     "changes": [
-      "Vollständigen Antworttext bei fehlendem Dateiexport ergänzt; keine erfundenen Downloadlinks."
+      "IX ZR 229/22 und II ZR 88/16 aus amtlichen entscheidenden Gründen in alle drei Promptvarianten eingebunden.",
+      "Titelvoraussetzungen, Konzernmittel und neue Fälligkeiten als konkrete Belegfragen formuliert.",
+      "Im Hauptproblem OPOS-Bereinigung und Statusrechnung ohne automatische Paragraf-15b-Haftung verbunden.",
+      "Hauptproblem und Fokus-Skill nach vollständiger Lektüre um eigenständige Einstiege und konkrete Fortsetzung bei Stundung oder Zahlungseingang ergänzt; keine neue Gesamtquellenprüfung."
     ],
     "prompt_path": "insolvenzrecht/insolvenzrecht-hauptproblem.md",
-    "prompt_sha256": "d9b112d0d335f6e387a99c8c64dd4917314c208a7c3ebc245d6c3dd3bb5666bf",
+    "prompt_sha256": "09c88d5e1993466aff52fda58d8fc16e9ea8b12dc74ea5eb5725e4b8f8a917b9",
     "skill_path": "insolvenzrecht/skills/opos-titelabgleich-dreiwochen-liquiditaetsbruecke/SKILL.md",
-    "skill_sha256": "d1ebca0c979a012792c536201d405873fe05c998715b48668ca91c5c7c5d51f8"
+    "skill_sha256": "f2b96d70d9d751175363a23bc7225b2f933df04ea915ee11fd8f7fb2683dd531"
   },
   "selection": {
     "positive": [
@@ -120,5 +143,54 @@
       ],
       "target_skill": "opos-titelabgleich-dreiwochen-liquiditaetsbruecke"
     }
-  ]
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "insolvenzrecht/insolvenzrecht-schnellstart.md",
+      "insolvenzrecht/insolvenzrecht-hauptproblem.md",
+      "insolvenzrecht/insolvenzrecht-werkstatt.md",
+      "insolvenzrecht/skills/opos-titelabgleich-dreiwochen-liquiditaetsbruecke/SKILL.md",
+      "insolvenzrecht/README.md",
+      "quality/evals/insolvenzrecht.json"
+    ],
+    "opening_change": "Fällige Schulden, frei verfügbare Mittel und streitige Titel für den Insolvenzstatus abstimmen.",
+    "norms": [
+      "Paragrafen 14, 15a, 17, 18 und 19 InsO",
+      "Paragraf 15b InsO",
+      "Paragraf 133 InsO in zeitlich einschlägiger Fassung"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 23.01.2025, IX ZR 229/22, Rn. 34–45",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2022/IX_ZR_229-22.pdf?__blob=publicationFile&v=1",
+        "application": "Vorläufig vollstreckbare Forderung bei erfüllten Vollstreckungsvoraussetzungen und eingeleiteter Vollstreckung im Schuldnerstatus zum Nennwert ansetzen; Prozesschancen nicht als Abschlag verwenden.",
+        "limit": "Die Voraussetzungen der Statusbewertung nicht pauschal in die gerichtliche Prüfung eines Gläubigerantrags übertragen; Einwendungen gegen den Titel grundsätzlich im zuständigen Prozess, Ausnahme offensichtlicher Unbegründetheit nicht abschließend entschieden."
+      },
+      {
+        "citation": "BGH, Urteil vom 19.12.2017, II ZR 88/16, insbesondere Rn. 50–70",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2016/II_ZR__88-16.pdf?__blob=publicationFile&v=1",
+        "application": "In der Dreiwochenbetrachtung künftige Zuflüsse und neue Fälligkeiten gemeinsam erfassen. Konzernansprüche nur bei rechtzeitiger Leistungsfähigkeit und Zahlungsbereitschaft als verfügbar behandeln.",
+        "limit": "Eine 13-Wochen-Budgetplanung ersetzt nicht den Status; die Entscheidung zu Paragraf 64 GmbHG begründet keine automatische heutige Organhaftung."
+      }
+    ],
+    "remaining_limits": [
+      "Redaktionelle Akten- und Quellenprüfung, kein Live-Client- oder Modelltest.",
+      "Fokus-Skill bei der Vorprüfung vom 2026-09-22 unverändert belassen; am 2026-09-23 nur Einstieg und Antwortfortsetzung kohärent ergänzt. Alte Abrufvermerke sind keine neue Volltextprüfung. Keine Vollverifikation sämtlicher Anfechtungs- und Steuerfragen.",
+      "Workflow-Ergänzung am 2026-09-23: individuelle Textprüfung, keine erneute Gesamtverifikation der bestehenden Entscheidungsanker; deren dokumentierte Quellen- und Zugriffsgrenzen bleiben bestehen.",
+      "Erneuter Abruf von Paragrafen 15a und 17 InsO am 2026-09-23 scheiterte; die dokumentierte Vorprüfung vom 2026-09-22 bleibt als solche erhalten, keine neue Volltextprüfung behauptet."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Liquiditätsstatus, Tabellenforderung oder Anfechtungsabwehr anbieten; im Fokus OPOS-Bereinigung, Titelansatz oder Dreiwochenbrücke.",
+      "Dateien ohne Auftrag: OP-Liste, Titel und Bankbelege still lesen und nur zwischen den konkret passenden Prüfprodukten wählen lassen.",
+      "Klarer Auftrag: Statusrechnung oder beauftragtes Schreiben vollständig erstellen, ohne zusätzliche Fragerunde bei vollständigen Daten."
+    ],
+    "continuation": "Neue konkrete Stundung -> nur erfasste Forderungen und betroffene Fälligkeitstage in Status, Dreiwochenbrücke und Organvermerk ändern; späterer Zahlungseingang bleibt von damaliger Prognose getrennt.",
+    "enrichment": "Stundung gegen bloßes Stillhalten abgrenzen, Cashpoolmittel und Zuflüsse zeitlich prüfen, Anfechtung zahlungsbezogen aufbauen und Organentscheidungen nach ihrer tatsächlichen Zahlungs- und Kenntnislage bearbeiten; Fokus-Prompt und Fokus-Skill im Einstieg abgestimmt.",
+    "limits": "desk review; no live client execution"
+  }
 }

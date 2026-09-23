@@ -1,15 +1,137 @@
 {
-  "schema_version": 1, "plugin": "apothekenrecht", "reviewed_on": "2026-09-17",
+  "schema_version": 1,
+  "plugin": "apothekenrecht",
+  "reviewed_on": "2026-09-23",
   "sources": [
-    {"url": "https://www.gesetze-im-internet.de/apobetro_1987/__17.html", "checked_on": "2026-09-14", "supports": "Absatz 5 sperrt die Abgabe bei erkennbaren Irrtümern oder sonstigen Bedenken bis zur Klärung."},
-    {"url": "https://www.gesetze-im-internet.de/amvv/__4.html", "checked_on": "2026-09-14", "supports": "Unaufschiebbare Anwendung, Mitteilung durch verschreibende Person, Identitätsgewissheit und unverzügliches Nachreichen der Verschreibung."}
+    {
+      "url": "https://www.gesetze-im-internet.de/apobetro_1987/__17.html",
+      "checked_on": "2026-09-14",
+      "supports": "Absatz 5 sperrt die Abgabe bei erkennbaren Irrtümern oder sonstigen Bedenken bis zur Klärung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/amvv/__4.html",
+      "checked_on": "2026-09-14",
+      "supports": "Unaufschiebbare Anwendung, Mitteilung durch verschreibende Person, Identitätsgewissheit und unverzügliches Nachreichen der Verschreibung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/amvv/__4.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aktueller amtlicher Normtext zur Prüfung: Paragraf 4 Absatz 1 AMVV; Paragraf 17 Absatz 5 ApBetrO. Keine Gesamtverifikation sämtlicher Nebenmaterien."
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=pm&Blank=1&Datum=2015-1&Gericht=bgh&file=dokument.pdf&linked=bes&nr=72074",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 08.01.2015, I ZR 123/13: Bei Abgabe ohne schriftliche Verschreibung ärztliche Therapieentscheidung auf ordnungsgemäßer Diagnose verlangen; Notstand nur bei akuter anders nicht abwendbarer erheblicher Gefahr. Grenze/Prüftiefe: Amtliche Leitsätze b und c gelesen; kein erreichbarer Volltext. Keine automatische Retaxhöhe oder allgemeine Notabgabebefugnis."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/amvv/__4.html",
+      "checked_on": "2026-09-23",
+      "supports": "Absatz 1: unaufschiebbare Anwendung, Mitteilung der verschreibenden Person, Identitätssicherung und unverzügliche Nachreichung; keine allgemeine Notabgabemenge."
+    }
   ],
-  "mini_review": {"sha256":"9931805af5ba34fdab3c8c9f49b725687183e8e4eb177296b6c07ceccb3d12e4","verdict": "retained", "reason": "Am 18. September vollständig nachgeprüft. Abgabe, Vergütung und Aufsicht bleiben getrennt; fehlende Abgabe- oder Umsetzungsnachweise führen zur gezielten Frage und fertigen Erwiderung. Patientengefahr verhindert nur die Abgabefreigabe. Keine weitere Textänderung, neue Quellenverifikation oder Live-Modellprüfung.", "changes": []},
-  "workshop_review": {"verdict":"revised","reason":"Am 18. September gesamten Text gelesen. Der bereits individuelle Ablauf führt von Rezept-, Chargen- und Kontenbelegen zur bestellten Antwort und unterscheidet geplante von umgesetzten Maßnahmen. Zwei Hinweise auf das Fachmaterial waren noch redaktionell statt sachbezogen formuliert.","changes":["Prüfhinweis zu Paragraf 84 AMG unmittelbar als sachliche Anwendungsprüfung formuliert","Ordnungswidrigkeitenprüfung ohne Verweis auf die Herkunft der Normen formuliert","Konkrete Fortsetzung bei Störungsprotokoll, Herstellungsnachweis und Aufsichtsabhilfe unverändert erhalten"],"sha256":"525e5ffee423394be2f344bdc7b4495d21e9bad7f93816769db8a3a002694476"},
-  "selection": {"positive": ["Prüfen Sie unsere SOP für dringende Abgaben bei fehlendem Rezept.", "Entwerfen Sie eine Antwort auf eine apothekenrechtliche Aufsichtsbeanstandung zur Abgabedokumentation."], "negative": ["Legen Sie die medizinisch richtige Insulindosis für einen Patienten fest.", "Prüfen Sie die Approbation eines Arztes ohne Bezug zu einer Apotheke."]},
-  "cases": [{"id": "vergessenes-rezept-dringender-bedarf", "request": "Erstellen Sie ergebnis.md als juristische SOP-Korrektur für eine öffentliche Apotheke. Bisheriger SOP-Satz: Wer sein Rezept vergessen hat und dringenden Bedarf erklärt, erhält die kleinste Packung; das Rezept kann binnen sieben Tagen nachgereicht werden. Anlass am 14.09.2026: Ein Patient verlangt sein verschreibungspflichtiges Dauermedikament, legt kein Rezept vor und erklärt, der Vorrat sei verbraucht. Die Apotheke hat weder mit der Praxis gesprochen noch eine andere ärztliche Mitteilung erhalten. Eine akute Symptomatik ist nicht bekannt. Formulieren Sie einen belastbaren Ablauf und eine kurze Erklärung für den Patienten; treffen Sie keine medizinische Dosierungsentscheidung.", "input_files": [], "deliverables": ["ergebnis.md"], "criteria": [
-    {"id": "C01", "text": "Gibt die Abgabe nicht allein aufgrund der Patientenerklärung und der kleinsten Packungsgröße frei.", "deliverables": ["ergebnis.md"]},
-    {"id": "C02", "text": "Verlangt für den Weg nach Paragraf 4 Absatz 1 AMVV eine unaufschiebbare Anwendung, Verordnermitteilung und Identitätsprüfung und ersetzt die starre Sieben-Tage-Frist durch unverzügliches Nachreichen.", "deliverables": ["ergebnis.md"]},
-    {"id": "C03", "text": "Liefert eine ausformulierte SOP und Patientenerklärung mit ärztlicher Klärung, ohne akute Symptome, eine Verschreibung oder eine Dosierung zu erfinden.", "deliverables": ["ergebnis.md"]}
-  ], "target_skill": "arzneimittelabgabe-verschreibungspflicht"}]
+  "mini_review": {
+    "sha256": "937ff7f4e5b5c46bd3c4fa2dcdd5e0b4fcddd0e38eff4cd75097397362b6c840",
+    "verdict": "revised",
+    "reason": "Schnellstart vollständig individuell gelesen und überarbeitet: Abgabeentscheidung bei fehlendem Rezept und Beanstandung der Abgabedokumentation. Ärztliche Mitteilung und eigene Therapieentscheidung von bloßer Gefälligkeitsbestätigung getrennt; akuten Notstand nicht aus Dauermedikation abgeleitet. Redaktionelle Quellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert.",
+    "changes": [
+      "Ärztliche Mitteilung und eigene Therapieentscheidung von bloßer Gefälligkeitsbestätigung getrennt; akuten Notstand nicht aus Dauermedikation abgeleitet.",
+      "Kernfall mit operativem Entscheidungsanker, gezielten Nachfragen und Fortsetzung zum vollständigen angeforderten Dokument.",
+      "Leerstart: Retaxation, Abgabe-SOP oder Aufsichtsantwort anbieten. Dateien: Rezept und Beanstandung still lesen; passenden Vorgang eingrenzen. Klarer Auftrag: Bestellte Erwiderung oder SOP direkt erarbeiten.",
+      "Nachweis damaliger Nichtlieferbarkeit verändert konkrete Retaxposition; Schulungsnachweis verändert geplante in belegte Abhilfe."
+    ]
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Werkstatt vollständig individuell gelesen und überarbeitet: Abgabeentscheidung bei fehlendem Rezept und Beanstandung der Abgabedokumentation. Ärztliche Mitteilung und eigene Therapieentscheidung von bloßer Gefälligkeitsbestätigung getrennt; akuten Notstand nicht aus Dauermedikation abgeleitet. Redaktionelle Quellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen.",
+    "changes": [
+      "Ärztliche Mitteilung und eigene Therapieentscheidung von bloßer Gefälligkeitsbestätigung getrennt; akuten Notstand nicht aus Dauermedikation abgeleitet.",
+      "Vorhandene Fachzweige, Beispiele und Zugriffsalternativen erhalten; schwache Rechtsprechungshinweise entfernt oder auf belegte Reichweite begrenzt.",
+      "Positionsbezogene Retaxation, ärztliche Mitteilung bei fehlendem Rezept und Herstellungsnachweise mit getrennten Sicherheits- und Versandfreigaben.",
+      "Nachweis damaliger Nichtlieferbarkeit verändert konkrete Retaxposition; Schulungsnachweis verändert geplante in belegte Abhilfe."
+    ],
+    "sha256": "e72467dfb4dd25170484393f46a5fb027c74aae9fded18ed424aba4c562ff676"
+  },
+  "selection": {
+    "positive": [
+      "Prüfen Sie unsere SOP für dringende Abgaben bei fehlendem Rezept.",
+      "Entwerfen Sie eine Antwort auf eine apothekenrechtliche Aufsichtsbeanstandung zur Abgabedokumentation."
+    ],
+    "negative": [
+      "Legen Sie die medizinisch richtige Insulindosis für einen Patienten fest.",
+      "Prüfen Sie die Approbation eines Arztes ohne Bezug zu einer Apotheke."
+    ]
+  },
+  "cases": [
+    {
+      "id": "vergessenes-rezept-dringender-bedarf",
+      "request": "Erstellen Sie ergebnis.md als juristische SOP-Korrektur für eine öffentliche Apotheke. Bisheriger SOP-Satz: Wer sein Rezept vergessen hat und dringenden Bedarf erklärt, erhält die kleinste Packung; das Rezept kann binnen sieben Tagen nachgereicht werden. Anlass am 14.09.2026: Ein Patient verlangt sein verschreibungspflichtiges Dauermedikament, legt kein Rezept vor und erklärt, der Vorrat sei verbraucht. Die Apotheke hat weder mit der Praxis gesprochen noch eine andere ärztliche Mitteilung erhalten. Eine akute Symptomatik ist nicht bekannt. Formulieren Sie einen belastbaren Ablauf und eine kurze Erklärung für den Patienten; treffen Sie keine medizinische Dosierungsentscheidung.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Gibt die Abgabe nicht allein aufgrund der Patientenerklärung und der kleinsten Packungsgröße frei.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Verlangt für den Weg nach Paragraf 4 Absatz 1 AMVV eine unaufschiebbare Anwendung, Verordnermitteilung und Identitätsprüfung und ersetzt die starre Sieben-Tage-Frist durch unverzügliches Nachreichen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Liefert eine ausformulierte SOP und Patientenerklärung mit ärztlicher Klärung, ohne akute Symptome, eine Verschreibung oder eine Dosierung zu erfinden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "arzneimittelabgabe-verschreibungspflicht"
+    }
+  ],
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leerstart: Retaxation, Abgabe-SOP oder Aufsichtsantwort anbieten.",
+      "Dateien: Rezept und Beanstandung still lesen; passenden Vorgang eingrenzen.",
+      "Klarer Auftrag: Bestellte Erwiderung oder SOP direkt erarbeiten."
+    ],
+    "continuation": "Nachweis damaliger Nichtlieferbarkeit verändert konkrete Retaxposition; Schulungsnachweis verändert geplante in belegte Abhilfe.",
+    "enrichment": "Positionsbezogene Retaxation, ärztliche Mitteilung bei fehlendem Rezept und Herstellungsnachweise mit getrennten Sicherheits- und Versandfreigaben.",
+    "limits": "desk review; no live client execution"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "apothekenrecht/README.md",
+      "apothekenrecht/apothekenrecht-werkstatt.md",
+      "apothekenrecht/apothekenrecht-schnellstart.md",
+      "quality/evals/apothekenrecht.json"
+    ],
+    "opening_change": "Abgabeentscheidung bei fehlendem Rezept und Beanstandung der Abgabedokumentation",
+    "norms": [
+      "Paragraf 4 Absatz 1 AMVV",
+      "Paragraf 17 Absatz 5 ApBetrO"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 08.01.2015, I ZR 123/13",
+        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=pm&Blank=1&Datum=2015-1&Gericht=bgh&file=dokument.pdf&linked=bes&nr=72074",
+        "application": "Bei Abgabe ohne schriftliche Verschreibung ärztliche Therapieentscheidung auf ordnungsgemäßer Diagnose verlangen; Notstand nur bei akuter anders nicht abwendbarer erheblicher Gefahr.",
+        "limit": "Amtliche Leitsätze b und c gelesen; kein erreichbarer Volltext. Keine automatische Retaxhöhe oder allgemeine Notabgabebefugnis."
+      }
+    ],
+    "remaining_limits": [
+      "Desk- und Quellenprüfung, kein Live-Client- oder Modelltest; übrige Fachzweige nicht vollständig rechtlich neu verifiziert.",
+      "Amtliche Leitsätze b und c gelesen; kein erreichbarer Volltext. Keine automatische Retaxhöhe oder allgemeine Notabgabebefugnis.",
+      "Workflow-Anschlussprüfung 23.09.2026: individuelle Text- und Quellenprüfung, keine Live-Client-Ausführung. Frühere Entscheidungsprüfungen und ihre Reichweitengrenzen bleiben unverändert; keine erneute vollständige Rechtsprechungsprüfung behauptet. I ZR 123/13 weiterhin nur im vorhandenen Leitsatzumfang b/c; konkrete Retaxvertragsfassungen und pharmazeutische Befunde nicht durch Musterworkflow ersetzt."
+    ]
+  }
 }

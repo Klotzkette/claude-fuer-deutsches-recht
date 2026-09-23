@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "ecommerce-recht",
-  "reviewed_on": "2026-09-17",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/bgb/__312j.html",
@@ -12,15 +12,39 @@
       "url": "https://curia.europa.eu/jcms/upload/docs/application/pdf/2022-04/cp220060de.pdf",
       "checked_on": "2026-09-14",
       "supports": "Gerichtliche Pressemitteilung 60/22, Seite 2: konkrete Bewertung von Buchung abschließen durch nationales Gericht; kein verifizierter Urteilsvolltext."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62021CJ0249",
+      "checked_on": "2026-09-22",
+      "supports": "Eindeutige Zahlungsinformation aus der Bestellschaltfläche selbst prüfen. Rn. 28–34 im amtlichen Volltext gelesen; konkrete Sprachbewertung bleibt dem nationalen Gericht."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62022CJ0565",
+      "checked_on": "2026-09-22",
+      "supports": "Widerruf beim Übergang des Probeabos in die Entgeltphase anhand der ursprünglichen Information prüfen. Rn. 49–51 amtlich gelesen; keine Entscheidung über jede Kündigungs- oder Verlängerungsklausel."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__356a.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aktueller amtlicher Normtext zur elektronischen Widerrufsfunktion gelesen; von Kündigung getrennt."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__312j.html",
+      "supports": "Erneuter Normabruf zu Informationen unmittelbar vor Bestellung und eindeutig zahlungspflichtiger Bestellsituation; konkrete Bildschirmfolge bleibt nachzuweisen.",
+      "checked_on": "2026-09-23"
     }
   ],
   "mini_review": {
-    "verdict": "retained",
-    "reason": "Vollständig am 18. September gelesen: Nachgereichte Bestellansicht wird nach Gerät, Datum und Fassung geprüft; Antworten führen zu fertigen Ersatztexten oder Abmahnantwort.",
+    "verdict": "revised",
+    "reason": "Vollständige fachbezogene Redaktion mit amtlich geprüften Entscheidungsgründen; keine Live-Modellprüfung. Workflow-Ergänzung einzeln geprüft: Preisbestandteil wird erst nach dem Bestellknopf sichtbar -> Informationszeitpunkt und Ersatztext ändern; nachgereichter Lieferbeleg -> Antwort zu Widerruf, Stornierung oder Leistungsstörung differenzieren.",
     "changes": [
-      "Keine weitere Änderung der Mini-Fassung."
+      "Sachfremde arbeitsrechtliche Klagefrist entfernt; wiederholte Normlisten und Rollenfloskeln durch Bildschirmnachweise ersetzt.",
+      "Button- und Widerrufsentscheidungen mit Anwendungsgrenzen ergänzt.",
+      "Vorhandene Zweige zu Plattformen, digitalen Waren, Abmahnung und OSS/IOSS erhalten.",
+      "Elektronischen Widerruf nach Paragraf 356a BGB von Kündigung abgegrenzt.",
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
     ],
-    "sha256": "6b045f502d321d317e2c109920a66f69406489a6dcfe9b20b417cbb3bf73e7fc"
+    "sha256": "cc94e4dacfa53b9c521dbd34c1d3925016fd1bd80810e0d4ba478ee0e3de4929"
   },
   "selection": {
     "positive": [
@@ -100,12 +124,59 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Textprüfung am 18. September: Vollständig gelesen: Pflicht-Journey-Matrix und doppelte Routentabellen verdrängten konkrete Korrekturen. Einbeziehung, Inhaltskontrolle und Produktregime waren teilweise verkürzt.",
+    "reason": "Vollständige fachbezogene Redaktion mit amtlich geprüften Entscheidungsgründen; keine Live-Modellprüfung. Workflow-Ergänzung einzeln geprüft: Tatsächliche Bildschirmfolge und Vertragsversion, sichtbare Pflichtinformation statt versteckter Kosten, vollständige Ersatzformulierungen, unterschiedliche Rückabwicklungswege und Abstimmung technischer Änderung mit Unterlassungsbindung.",
     "changes": [
-      "Doppelte Schablonen durch zusammengeführte vorhandene Shopprüfungen ersetzt.",
-      "Button- und Informationspflicht wie im Mini getrennt; Kündigung, Widerruf, digitale Ware und OSS/IOSS eigenständig gehalten.",
-      "Versionsabgleich führt zu fertigen Ersatztexten; Quellenstatus bleibt außerhalb des Empfängertexts."
+      "Sachfremde arbeitsrechtliche Klagefrist entfernt; wiederholte Normlisten und Rollenfloskeln durch Bildschirmnachweise ersetzt.",
+      "Button- und Widerrufsentscheidungen mit Anwendungsgrenzen ergänzt.",
+      "Vorhandene Zweige zu Plattformen, digitalen Waren, Abmahnung und OSS/IOSS erhalten.",
+      "Elektronische Widerrufsfunktion und ihren Nachweis eigenständig eingeordnet.",
+      "Tatsächliche Bildschirmfolge und Vertragsversion, sichtbare Pflichtinformation statt versteckter Kosten, vollständige Ersatzformulierungen, unterschiedliche Rückabwicklungswege und Abstimmung technischer Änderung mit Unterlassungsbindung."
     ],
-    "sha256": "67cfd3fe117e3a35fc6f384ddbfdc753096578ab911c84dcd8623bbe4c147941"
+    "sha256": "efa1dc86f9bd90acc6b0cf2ae292f52ec9bdc9d9fe87f391f7a794430aafc0f6"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-23",
+    "files": [
+      "ecommerce-recht/ecommerce-recht-werkstatt.md",
+      "ecommerce-recht/ecommerce-recht-schnellstart.md"
+    ],
+    "opening_change": "Vertragsschluss, Preis und Vertragsbeendigung unmittelbar am dokumentierten Shopablauf prüfen statt allgemeine Rollenbeschreibung. Workflow-Ergänzung: Leer: Checkout-Korrektur, Widerrufsantwort oder Abmahnungsabwehr anbieten. Dateien ohne Aufgabe: Bestellansichten und Korrespondenz still lesen; gewünschte Text- oder Anspruchskorrektur klären. Klarer Auftrag: konkreten Checkout-, Kunden- oder Abwehrtext unmittelbar ausarbeiten; keine automatische Gesamtprüfung des Shops.",
+    "norms": [
+      "Paragrafen 312c, 312d, 312g, 312i, 312j, 312k BGB",
+      "Artikel 246a EGBGB",
+      "Paragrafen 327 folgende und 475b, 475c BGB",
+      "Paragrafen 8, 13 UWG",
+      "Paragraf 356a BGB"
+    ],
+    "decisions": [
+      {
+        "citation": "EuGH, Urteil vom 7. April 2022, C-249/21",
+        "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62021CJ0249",
+        "application": "Eindeutige Zahlungsinformation aus der Bestellschaltfläche selbst prüfen.",
+        "limit": "Rn. 28–34 im amtlichen Volltext gelesen; konkrete Sprachbewertung bleibt dem nationalen Gericht."
+      },
+      {
+        "citation": "EuGH, Urteil vom 5. Oktober 2023, C-565/22",
+        "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62022CJ0565",
+        "application": "Widerruf beim Übergang des Probeabos in die Entgeltphase anhand der ursprünglichen Information prüfen.",
+        "limit": "Rn. 49–51 amtlich gelesen; keine Entscheidung über jede Kündigungs- oder Verlängerungsklausel."
+      }
+    ],
+    "remaining_limits": [
+      "Keine Live-Modellprüfung; Quellen- und Vertragsfassung für den Einzelfall erneut abgleichen.",
+      "Workflow-Review 23.09.2026: Paragraf 312j BGB erneut zugänglich; bestehende Aussagen zu Paragraf 356a und Rechtsstand 2026 nicht als vollständig neu verifiziert ausgegeben."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Checkout-Korrektur, Widerrufsantwort oder Abmahnungsabwehr anbieten.",
+      "Dateien ohne Aufgabe: Bestellansichten und Korrespondenz still lesen; gewünschte Text- oder Anspruchskorrektur klären.",
+      "Klarer Auftrag: konkreten Checkout-, Kunden- oder Abwehrtext unmittelbar ausarbeiten; keine automatische Gesamtprüfung des Shops."
+    ],
+    "continuation": "Preisbestandteil wird erst nach dem Bestellknopf sichtbar -> Informationszeitpunkt und Ersatztext ändern; nachgereichter Lieferbeleg -> Antwort zu Widerruf, Stornierung oder Leistungsstörung differenzieren.",
+    "enrichment": "Tatsächliche Bildschirmfolge und Vertragsversion, sichtbare Pflichtinformation statt versteckter Kosten, vollständige Ersatzformulierungen, unterschiedliche Rückabwicklungswege und Abstimmung technischer Änderung mit Unterlassungsbindung.",
+    "limits": "desk review; no live client execution"
   }
 }

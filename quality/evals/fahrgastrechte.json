@@ -1,21 +1,39 @@
 {
   "schema_version": 1,
   "plugin": "fahrgastrechte",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32021R0782",
       "checked_on": "2026-09-14",
       "supports": "Artikel 18 bis 20: Weiterreise, Entschädigung und Hilfe getrennt; eigene Personalstreiks nicht von der Entschädigungsausnahme umfasst."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62011CJ0509",
+      "checked_on": "2026-09-22",
+      "supports": "EuGH, Urteil vom 26.09.2013, C-509/11, ÖBB-Personenverkehr: Rn. 37–42 und 46–52: Pauschale Fahrpreisentschädigung und individueller Verspätungsschaden getrennt; Entlastungsgründe nicht zwischen Anspruchsarten und Verkehrsträgern übertragen. Grenze: Urteil zur VO 1371/2007; dessen Ablehnung einer Höhere-Gewalt-Ausnahme ist durch heutigen Artikel 19 Absatz 10 nicht unverändert übertragbar."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32021R0782",
+      "checked_on": "2026-09-22",
+      "supports": "Artikel 12 und 18 bis 20 vollständig gelesen: Verkäuferhaftung, Wahlrechte, Entschädigung und gesonderte Hilfe einschließlich Drei-Nächte-Begrenzung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/evo_2023/__11.html",
+      "checked_on": "2026-09-22",
+      "supports": "Geltender Wortlaut zu ergänzenden Nahverkehrsrechten und 120-Euro-Grenze geprüft."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der ganze Mini wurde auf Reisekette, Beförderer und Anspruchsart geprüft.",
+    "reason": "Kernfall Anschlussverlust um Verkäuferhaftung und die sachliche Grenze des historischen EuGH-Urteils ergänzt. Workflow-Ergänzung einzeln geprüft: Fahrpreis bereits erstattet oder Zielankunft nur 110 statt 130 Minuten verspätet -> Entschädigungsbasis beziehungsweise Stufe und Forderung korrigieren; Hotelkosten eigenständig prüfen.",
     "changes": [
-      "Nach Ticket- oder Verspätungsnachweis die Anspruchsberechnung überarbeiten und das bestellte Forderungsschreiben fertigstellen."
+      "Artikel 12 Absatz 3 bis 6 nach Erwerbsvorgang, Information und Beweislast konkretisiert.",
+      "Historisches Urteil nur zur Anspruchstrennung genutzt, heutige Ausnahme ausdrücklich vorrangig behandelt.",
+      "Betreuung, Ersatzbeförderung, gezielte Nachfragen und beauftragte Endfassung erhalten.",
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
     ],
-    "sha256": "09eb0f7d25823b65024199769a5c1c0df7c19ea372ec88b728c874d0b031e8ab"
+    "sha256": "4d49dd8024add833fe08d37fae5132bb46519dc72b746670e2e25f765919cb86"
   },
   "selection": {
     "positive": [
@@ -63,10 +81,54 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die gesamte Werkstatt wurde einschließlich Umbuchung, Betreuung und Entschädigung gelesen.",
+    "reason": "Verkäuferkombination mit 75-Prozent-Folge und Informationsbeweis von Durchgangsticket beim Beförderer abgegrenzt; Hotelbegrenzung und getrennte Beispielrechnung ergänzt. Workflow-Ergänzung einzeln geprüft: Erwerbsvorgang und vorvertraglicher Hinweis, getrennte Verkäuferhaftung, erwartete gegenüber tatsächlicher Zielverspätung, nutzbare Ersatzangebote, Kosten pro Reisendem und konkrete Entlastungsbegründung.",
     "changes": [
-      "Durchgangsfahrkarte nicht allein aus einer Buchungsnummer abgeleitet; unterschiedliche Erstattungs- und Betreuungswege erhalten."
+      "Artikel 12 Absatz 3 bis 6 nach Erwerbsvorgang, Information und Beweislast konkretisiert.",
+      "Historisches Urteil nur zur Anspruchstrennung genutzt, heutige Ausnahme ausdrücklich vorrangig behandelt.",
+      "Betreuung, Ersatzbeförderung, gezielte Nachfragen und beauftragte Endfassung erhalten.",
+      "Erwerbsvorgang und vorvertraglicher Hinweis, getrennte Verkäuferhaftung, erwartete gegenüber tatsächlicher Zielverspätung, nutzbare Ersatzangebote, Kosten pro Reisendem und konkrete Entlastungsbegründung."
     ],
-    "sha256": "e98f1d74111a668a9686e6eccd029e0fc00669cb33ca71f167235887a82c21ee"
+    "sha256": "4a61b9ed58c290550f3a105a040575b5c8f00f99011344dfe35db777ff33f4ab"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-23",
+    "files": [
+      "fahrgastrechte/fahrgastrechte-schnellstart.md",
+      "fahrgastrechte/fahrgastrechte-werkstatt.md",
+      "fahrgastrechte/README.md",
+      "quality/evals/fahrgastrechte.json"
+    ],
+    "opening_change": "Vertragsziel und richtige Schuldner von Erstattung, Entschädigung und Mehrkosten aus Verkaufsinformationen und Reiseverlauf bestimmen. Workflow-Ergänzung: Leer: Verspätungsentschädigung, Reiseabbruch oder Mehrkostenerstattung anbieten. Dateien ohne Aufgabe: Tickets, Verkaufsinformationen und Reisebelege still lesen; Erstattungs-, Entschädigungs- oder Betreuungsziel klären. Klarer Auftrag: Rechnung oder Forderungsantwort unmittelbar bearbeiten; keine ungefragte Reiseübersicht oder automatische Klage.",
+    "norms": [
+      "Artikel 12, 18, 19 und 20 VO (EU) 2021/782",
+      "Artikel 32 CIV",
+      "Paragraf 11 EVO"
+    ],
+    "decisions": [
+      {
+        "citation": "EuGH, Urteil vom 26.09.2013, C-509/11, ÖBB-Personenverkehr",
+        "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62011CJ0509",
+        "application": "Rn. 37–42 und 46–52: Pauschale Fahrpreisentschädigung und individueller Verspätungsschaden getrennt; Entlastungsgründe nicht zwischen Anspruchsarten und Verkehrsträgern übertragen.",
+        "limit": "Urteil zur VO 1371/2007; dessen Ablehnung einer Höhere-Gewalt-Ausnahme ist durch heutigen Artikel 19 Absatz 10 nicht unverändert übertragbar."
+      }
+    ],
+    "remaining_limits": [
+      "Desk-/Quellenreview, kein Live-Ergebnistest.",
+      "Entscheidende Urteilsgründe Rn. 28–66 gelesen; historischer Anker ist keine Entscheidung zur neuen Entschädigungsausnahme.",
+      "Unternehmensbedingungen, nationale Ausnahmen und konkreter Verjährungsbeginn benötigen fallbezogene Prüfung.",
+      "Workflow-Review 23.09.2026: Verordnung 2021/782 erneut geöffnet, gezielte Textsuche anschließend technisch nicht auswertbar; bestehende Prüfung der Artikel 12 und 18 bis 20 beibehalten. Keine neue Verjährungs- oder Beschwerdefrist behauptet; historischer EuGH-Anker nicht gegen heutige Ausnahmen verwendet."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Verspätungsentschädigung, Reiseabbruch oder Mehrkostenerstattung anbieten.",
+      "Dateien ohne Aufgabe: Tickets, Verkaufsinformationen und Reisebelege still lesen; Erstattungs-, Entschädigungs- oder Betreuungsziel klären.",
+      "Klarer Auftrag: Rechnung oder Forderungsantwort unmittelbar bearbeiten; keine ungefragte Reiseübersicht oder automatische Klage."
+    ],
+    "continuation": "Fahrpreis bereits erstattet oder Zielankunft nur 110 statt 130 Minuten verspätet -> Entschädigungsbasis beziehungsweise Stufe und Forderung korrigieren; Hotelkosten eigenständig prüfen.",
+    "enrichment": "Erwerbsvorgang und vorvertraglicher Hinweis, getrennte Verkäuferhaftung, erwartete gegenüber tatsächlicher Zielverspätung, nutzbare Ersatzangebote, Kosten pro Reisendem und konkrete Entlastungsbegründung.",
+    "limits": "desk review; no live client execution"
   }
 }

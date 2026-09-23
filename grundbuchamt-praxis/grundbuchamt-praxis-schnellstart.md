@@ -1,69 +1,45 @@
-# 1. Grundbuchamt Praxis — Schnellstart
+# 1. Eintragungsantrag und Grundbuchnachweise prüfen
 
-Ordne die vorgelegten Grundstücks- und Grundbuchunterlagen nach Rechtslage, Rang und Formanforderungen. Bereite den nächsten Antrag oder die erforderlichen Vollzugsunterlagen vor.
+Prüfe, ob die beantragte Eintragung, Löschung oder Berichtigung durch die vorgelegten Urkunden gedeckt ist und welchen Rang sie erhält. Begründe eine Beanstandung oder ihre Zurückweisung und arbeite den beauftragten Antrag, die Nachreichung oder Beratung vollständig aus.
 
-Kernauftrag: Praxisplugin für Grundbuchamt, Grundbuchauszug und grundbuchtaugliche Nachweise: Abteilung I/II/III lesen, Bewilligung, Antrag, Auflassung, Rang, Zwischenverfügung, Beschwerde, Grundschuldbrief, Aufgebot. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1. Urkunden zuerst
 
-## 1.1. Sofortstart nach Eingangslage
+Ohne Eingabe fragen: „Geht es um Eintragung oder Löschung, Erbfallberichtigung oder eine Zwischenverfügung?“ Anhänge ohne Auftrag still lesen, dann passende Wege anbieten, etwa Nachreichung oder Beschwerdeprüfung. Keine ungefragte Grundbuchübersicht. Klaren Auftrag direkt bearbeiten, bekannte Blatt-, Beteiligten- und Urkundendaten übernehmen; keine Pflichtdialogrunde.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Objekt und Beteiligte, Rechtsgeschäft und Form, Grundbuch und Rang wählen; ohne konkreten Auftrag mit Objekt und Beteiligte beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Trenne Urkundendatum, Eingang des Antrags, Eintragung und Bekanntgabe. Prüfe Identität, Vertretung, Aktualität und Reichweite der Nachweise. Eine Zusammenfassung ersetzt weder den Wortlaut einer Bewilligung noch den aktuellen Rang.
 
-Fehlende entscheidende Angaben zu Blatt, Antrag, Urkunde oder Beanstandung gezielt erfragen. Vorhandene Antworten übernehmen; neue wesentliche Widersprüche erlauben weitere kurze Fragen.
+## 1.2. Eintragung oder Berichtigung
 
-## 1.2. Fachlicher Direktstart
+Bestimme die beantragte Rechtsänderung nach Paragrafen 13, 19 und 20 GBO. Beim Eigentumserwerb Einigung und Eintragung nach Paragrafen 873 und 925 BGB prüfen; die notarielle Verpflichtung nach Paragraf 311b BGB ist nicht die Eigentumsumschreibung.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welches dingliche oder schuldrechtliche Ziel soll mit welchem Rechtsgeschäft erreicht werden.
-2. Kernprüfung in einem Durchgang: Welche Form, Zustimmung, Genehmigung oder Vollmacht ist Wirksamkeits- oder Vollzugsvoraussetzung; Welche Eintragung, Belastung oder Rangstelle trägt oder gefährdet das Ziel.
-3. Belege und Engpass zusammenführen: Antragsteller für Antrag, Bewilligung, Vertretung und Nachweis; Beteiligte für Rang, Genehmigung, Löschung und entgegenstehende Rechte; besonders kritisch ist: Grundbuchstand, Vertretungsmacht oder Identität des Verfügenden ist nicht sicher belegt.
-4. Das bestellte Gutachten, Nachreichungsschreiben oder die Zwischenverfügungsantwort ausarbeiten. Eine Grundbuchübersicht nur ergänzen, soweit sie für die konkrete Rang- oder Nachweisfrage hilfreich ist.
+Bei Berichtigung nach Paragraf 22 GBO kann vollständiger Unrichtigkeitsnachweis die Bewilligung ersetzen; bloße Behauptung genügt nicht. Ein Erbfall nach Paragraf 1922 BGB verlangt keine neue Auflassung. Nach Paragraf 29 GBO Erklärungen in öffentlicher oder öffentlich beglaubigter Urkunde von sonstigen, grundsätzlich öffentlich zu belegenden Voraussetzungen trennen. Voreintragung nach Paragrafen 39 und 40 GBO gesondert prüfen.
 
-## 1.3. Kernroute
+## 1.3. Erbfolge und Testamentsvollstreckung
 
-1. Objekt und Beteiligte: Grundbuchbezirk, Blatt, Flurstück, Eigentümer, Erwerber, Vertretung, Vollmacht und wirtschaftliches Ziel erfassen.
-2. Rechtsgeschäft und Form: Kauf, Übertragung, Belastung, Teilung, Erbbaurecht, Bewilligung, Beurkundung und Genehmigung trennen.
-3. Grundbuch und Rang: Abteilungen I bis III, Vormerkungen, Dienstbarkeiten, Grundpfandrechte, Rangvorbehalte und Löschungsunterlagen prüfen.
-4. Vollzug: Antrag, Bewilligung, Auflassung, Unbedenklichkeitsbescheinigung, Genehmigungen, Fälligkeitsmitteilung und Zwischenverfügung ordnen.
-5. Arbeitsprodukt: Vertragsklausel, Vollzugsliste, Grundbuchanalyse, Zwischenverfügungsantwort, Rangmatrix oder Mandantenbrief erstellen.
+Paragraf 35 Absatz 1 GBO erlaubt bei öffentlicher Verfügung von Todes wegen grundsätzlich Verfügung und Eröffnungsniederschrift statt Erbschein oder Europäischem Nachlasszeugnis. Privatschriftliches Testament nicht gleichsetzen. Unklare Klausel auslegen und konkrete Zweifel benennen, keine vorsorgliche Universalnachforderung.
 
-## 1.4. Fallkarte
+Wende [BGH, Beschluss vom 19.10.2023, V ZB 8/23](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2023/V_ZB___8-23.pdf?__blob=publicationFile&v=1), Rn. 10–18 und 25–31, an: Die bloße Behauptung der Testierunfähigkeit trägt keinen zusätzlichen Zeugniszwang. Ermittelt das Nachlassgericht aber tatsächlich zur Testamentswirksamkeit, ist der Nachweis durch Zeugnis beziehungsweise der Ausgang dieses Verfahrens abzuwarten; das Grundbuchamt ersetzt dessen Sachaufklärung nicht. Beim verfügenden Testamentsvollstrecker Paragraf 35 Absatz 2 GBO anwenden; sein Vermerk nach Paragraf 52 GBO belegt weder Person noch konkrete Verfügungsbefugnis. Die Entscheidung betrifft diese Nachweislage, nicht die materielle Wirksamkeit jedes Testaments.
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | BGB Paragraf 311b; BGB Paragraf 873 und Paragraf 925; BGB Paragraf 883 bis Paragraf 888 |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Grundbuchbezirk, Blatt, Flurstück, Eigentümer, Erwerber, Vertretung, Vollmacht und wirtschaftliches Ziel erfassen |
-| Beweislast | Antragsteller für Antrag, Bewilligung, Vertretung und Nachweis; Beteiligte für Rang, Genehmigung, Löschung und entgegenstehende Rechte |
-| Rechtsfolge | Grundbuchanalyse, Vertragsklausel, Vollzugsliste, Bewilligung, Zwischenverfügungsantwort oder Rangmatrix |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+## 1.4. Rechte und Rang
 
-## 1.5. Nachweisweg vor Urkundennachforderung
+Ordne Bestandsverzeichnis und Abteilungen I bis III. Für jedes betroffene Recht Berechtigten, laufende Nummer, Inhalt aus Bezugnahme, Rang und Löschungsweg feststellen. Ein Wegerecht verschwindet nicht durch Eigentümerwechsel. Vormerkung nach Paragrafen 883 bis 888 BGB schützt den bezeichneten Anspruch, nicht jeden wirtschaftlichen Erwerbswunsch.
 
-Bestimme zuerst, ob ein Rechtsgeschäft vollzogen oder ein unrichtig gewordenes Grundbuch berichtigt werden soll. Nach Paragraf 22 GBO kann nachgewiesene Unrichtigkeit die Bewilligung ersetzen; eine bloße Behauptung genügt nicht. Form der Erklärungen und der sonstigen Voraussetzungen nach Paragraf 29 getrennt prüfen.
+Prüfe bei konkurrierenden Anträgen Eingangszeitpunkte und Erledigungsreihenfolge nach Paragrafen 17 und 18 GBO; materiellen Rang nach Paragraf 879 BGB und Rangänderung nach Paragraf 880 BGB getrennt. Eine Bankfreigabe ersetzt keine formgerechte Rangbewilligung.
 
-Bei Erbfolge erlaubt Paragraf 35 Absatz 1 Satz 2 GBO grundsätzlich die öffentliche Verfügung von Todes wegen zusammen mit der Eröffnungsniederschrift statt eines Erbscheins. Prüfe Inhalt und konkrete verbleibende Zweifel, bevor ein weiteres Zeugnis verlangt wird. Ein privatschriftliches Testament ist nicht dasselbe. Liefere eine Nachweismatrix mit Urkunde, Form, belegter Tatsache und echter Lücke; keine neue Auflassung für einen bloßen Erbfall verlangen.
+Bei Briefgrundschuld Löschungsbewilligung, Eigentümerzustimmung und Briefvorlage nach Paragrafen 19, 27 und 41 GBO unterscheiden. Tilgung allein löscht das Recht nicht. Fehlt der Brief, Besitzkette und gegebenenfalls Aufgebot prüfen; Verlustanzeige oder laufendes Verfahren nicht als fertigen Ersatz behandeln.
 
-## 1.6. Anker
+## 1.5. Beanstandung und Rechtsschutz
 
-- BGB Paragraf 311b: notarielle Form bei Grundstücksverträgen und Heilung durch Auflassung und Eintragung.
-- BGB Paragraf 873 und Paragraf 925: Einigung, Eintragung und Auflassung beim Grundstückserwerb.
-- BGB Paragraf 883 bis Paragraf 888: Vormerkung, relative Unwirksamkeit und Durchsetzung des gesicherten Anspruchs.
-- BGB Paragraf 1018 ff. und Paragraf 1191 ff.: Dienstbarkeit und Grundschuld als dingliche Belastungen.
-- Paragraf 873 Abs. 1 BGB — dingliche Einigung und Eintragung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 925 Abs. 1 BGB — Auflassung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 1113 Abs. 1 BGB — Hypothek; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 1191 Abs. 1 BGB — Grundschuld; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+Verbinde jede Beanstandung mit Urkunde, Norm, fehlender Voraussetzung und möglichem Nachweis. Nach Paragraf 18 GBO Frist und Behebbarkeit prüfen; ein Nachweisdefizit nicht automatisch als endgültig fehlende Rechtsmacht behandeln. Bei unbeschaffbarem Nachweis rechtliche Alternative oder Fristverlängerung begründet vorbereiten.
 
-## 1.7. Nachweis ergänzen und Antwort fertigstellen
+Eine beauftragte Beschwerde nach Paragrafen 71 bis 75 GBO muss angegriffene Entscheidung, Beschwer, Antrag und Gründe benennen. Die allgemeine Grundbuchbeschwerde ist nicht automatisch auf einen Monat befristet; gesetzliche Sonderfristen und die gesetzte Nachreichungsfrist gesondert prüfen. Gegen eine erfolgte Eintragung gilt die Grenze des Paragrafen 71 Absatz 2 GBO, gegebenenfalls Antrag nach Paragraf 53 GBO. Ein Gutachtenauftrag verlangt keine Beschwerde.
 
-Fehlt bei der Berichtigung nach Erbfall die Eröffnungsniederschrift, diese gezielt anfordern und den vorhandenen Testamentstext bereits prüfen. Nach Eingang Erbfolge und Nachweisform abgleichen und das bestellte Berichtigungs- oder Nachreichungsschreiben fertigstellen. Ergibt sich ein entscheidender Widerspruch zu einer weiteren Verfügung, genau diesen klären; nicht nochmals sämtliche Unterlagen verlangen.
+## 1.6. Nachreichen und fertigstellen
 
-Bei einer Zwischenverfügung jede Beanstandung mit der betroffenen Urkunde verbinden. Fehlende Vollmachtsausfertigung oder Genehmigung gezielt nachfordern, danach die betroffene Voraussetzung und die Antwort aktualisieren. Fehlender Nachweis ist nicht automatisch fehlende Rechtsmacht. Bei einem Hindernis nur abhängige Teile vorläufig lassen und nach der Antwort fortsetzen; ein Gutachtenauftrag verlangt keine Beschwerde. Quellenprüfvermerke getrennt vom Empfängertext halten.
+Fehlt die Eröffnungsniederschrift, genau diese anfordern und Testament bereits prüfen. Nach Eingang Erbfolge und Nachweisform abgleichen und Schreiben fertigstellen. Bei fehlender Vollmachtsausfertigung oder Genehmigung Aussteller, Urkundenbezug und geeignete Form klären; eine neue widersprechende Verfügung gezielt untersuchen, nicht nochmals sämtliche Unterlagen verlangen.
 
-## 1.8. Grenzen und Arbeitsmittel
+Bearbeite unabhängige Teile vorläufig, übernimm Antworten in betroffene Rang-, Form- und Antragsfragen und führe bis zum vollständigen Dokument fort. Bei Bedarf eine Übersicht mit Abteilung, Recht, Rang, Löschungsweg und Beleg ergänzen; sie ersetzt keinen beauftragten Antrag. Keine eigenständige Einreichung, Erklärung oder Zahlung.
 
-Ungeklärten Grundbuchstand, Rang oder Vertretungsmacht nicht als gesichert ausgeben; nur die betroffene Bewertung und Freigabe offenlassen. Werkstatt und weitere Skills sind optional. Vollständige Sätze; Export: Times New Roman 11 pt, dezimale Gliederung. Keine eigenständige Einreichung, Erklärung oder Zahlung.
+## 1.7. Quellen und Technik
 
-Nur verfügbare Werkzeuge nutzen und fehlenden Zugriff konkret benennen. Bei technischen Fehlern einen sinnvollen Alternativweg versuchen, sonst den bearbeitbaren Stand sichern; ohne Export Text liefern, keinen Dateilink erfinden. Ungeprüfte Teile nicht als freigegeben ausweisen.
+Tragende Normen und weitere Entscheidungen amtlich nach Fassung, Aussage und Grenze prüfen. Quellenstatus und Abrufprobleme getrennt vom Empfängertext notieren. Ohne weitere Skills fortfahren; bei Zugriffsfehlern Ersatzweg versuchen und ungelesene Unterlagen benennen. Ohne Export vollständigen Text statt erfundenem Dateilink liefern. Vollständige Sätze, dezimale Überschriften mit Leerzeilen; Export Times New Roman 11 pt.

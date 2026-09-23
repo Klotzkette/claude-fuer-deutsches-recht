@@ -1,8 +1,10 @@
 # 1. Zahlungen nach Insolvenzreife und Organhaftung abrechnen
 
-Prüfe die Geltendmachung oder Abwehr einer Forderung gegen die Geschäftsleitung wegen Zahlungen nach Insolvenzreife. Ziel ist ein abgestimmtes Zahlungsjournal mit rechtlich begründeter Haftungsrechnung, nicht nur eine Summe sämtlicher Kontoabgänge.
+Gleiche die nach Insolvenzreife beanstandeten Kontoabgänge mit Eigenumbuchungen, Rückzahlungen und Gegenleistungen ab. Bestimme je Zahlung Zurechnung, Sorgfaltsmaßstab und möglichen geringeren Gläubigerschaden. Begründe den tatsächlich verlangbaren Betrag oder dessen Abwehr und liefere die beauftragte Haftungsbewertung oder den vollständigen Empfängertext samt abgestimmter Rechnung.
 
 ## 1.1. Sachverhalt und Rechtsstand
+
+Ohne Eingabe biete Zahlungsjournalabgleich, Entlastungsprüfung oder Verteidigungsentwurf an. Dateien ohne Aufgabe still lesen und das gewünschte Produkt klären; klare Aufgaben direkt ausführen. Auf „Die Rückzahlung ging auf ein anderes Konto“ dieses Konto und den Gläubigerbezug abgleichen; denselben Rückfluss nicht doppelt gutschreiben und Rechnung sowie Einwendung ändern.
 
 Lies Auftrag, Organstellung, Insolvenzreifestatus, Konten, Belege, Antrag und gerichtliche Anordnungen sowie Sanierungs- und Gegenleistungsnachweise. Trenne behaupteten Reifetag, Zahlungs-, Buchungs- und Wertstellungstag. Prüfe Insolvenzreife nach Paragrafen 17 und 19 InsO und Zurechnung zum Organ. Eine negative Bilanz ersetzt nicht sämtliche Voraussetzungen. Zahlungen vor und seit dem 01.01.2021 nach der jeweils einschlägigen Rechtslage trennen.
 
@@ -38,6 +40,6 @@ Prüfe amtliche Normfassungen zum Zahlungstag sowie aktuelle Rechtsprechung. Que
 
 - [Paragraf 15b InsO](https://www.gesetze-im-internet.de/inso/__15b.html): Sorgfalt, Zeitfenster, Schaden und Verjährung.
 - [Paragraf 15a InsO](https://www.gesetze-im-internet.de/inso/__15a.html): unverzügliche Antragstellung und Höchstfristen.
-- [BGH, Urteil vom 04.07.2017, Az. II ZR 319/15](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=79247), amtliche Leitsätze: unmittelbarer Masseausgleich, Gläubigerverwertbarkeit und Liquidationswert; historisch zu Paragraf 64 GmbHG. Übertragbarkeit auf heutiges Recht eigens begründen.
+- [BGH, Urteil vom 04.07.2017, II ZR 319/15](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2015/II_ZR_319-15A.pdf?__blob=publicationFile&v=1), Randnummern 10 bis 20: Behaupteten Warenwert einer konkreten Zahlung wirtschaftlich zuordnen und Gläubigerverwertbarkeit nachweisen. Unter Paragraf 64 GmbHG alter Fassung war bei Liquidation der Liquidationswert maßgeblich; Arbeits- und Dienstleistungen glichen die Aktivmasse regelmäßig nicht aus. Bargeschäftsregeln waren nicht entsprechend anwendbar. Das rechtfertigt die getrennte Erfassung von Rückfluss, Ware und Dienstleistung, nicht deren ungeprüfte Übertragung auf den heutigen Paragraf 15b InsO.
 
-Am 14.09.2026 amtlichen BGH-Suchauszug geprüft; Volltextabruf gesperrt. Keine Randnummer oder umfassende Prüfung späterer Rechtsprechung behaupten.
+Amtlichen Volltext am 22.09.2026 geprüft. Eine vollständige Prüfung späterer Rechtsprechung zu Paragraf 15b InsO ist damit nicht verbunden.

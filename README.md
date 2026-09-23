@@ -18,7 +18,7 @@ Für besonders arbeitsintensive Mandate gibt es [fachliche Schwerpunktaufträge]
 
 Das [Qualitätslabor für alle Plugins](./QUALITY.md) trennt Dateiprüfung, tatsächliche Skill-Auswahl und Bewertung erzeugter Arbeitsergebnisse. Fachlich geprüfte Mini-Prompts und vorbereitete Prüffälle sind keine bereits bestandenen Modelltests. [Durchführung, zwei unabhängige Prüfer und Fehlerdiagnose](./quality/README.md) erklären, wie konkrete Client-Läufe bewertet werden; ungeprüfte Quellen und fehlende Zugänge bleiben sichtbar. Diese Entwicklungsprüfungen laufen nicht zusätzlich bei jedem Mandatsaufruf.
 
-English: [Focused workflows](./SCHWERPUNKTE.md) offer a specific skill and a standalone Markdown prompt for substantial specialist assignments. The [quality laboratory](./quality/README.md#18-english-summary) distinguishes prepared cases, structural checks and actual model evaluations; it does not claim that unexecuted client tests have passed.
+English: [Focused workflows](./SCHWERPUNKTE.md) offer a specific skill and a standalone Markdown prompt for substantial specialist assignments. The [quality laboratory](./quality/README.md#19-english-summary) distinguishes prepared cases, structural checks and actual model evaluations; it does not claim that unexecuted client tests have passed.
 
 ## Schnell arbeiten, auch in einer anderen Oberfläche
 
@@ -34,7 +34,7 @@ Für einen Vorgang nur ein passendes Plugin oder einen seiner Markdown-Prompts v
 | DOCX-, PDF- oder Tabellenproduktion | tatsächlich verfügbares und geeignetes Dateiverarbeitungswerkzeug | ausformulierten Text oder Tabelle samt offenem Exportstatus liefern; keine Datei vortäuschen |
 | Aktuelle Quellenprüfung | zugängliche amtliche Quelle oder überprüfbarer bereitgestellter Text | belegten Teil liefern und die ungeprüfte Aussage abgrenzen; keine Freigabe behaupten |
 
-Die Einstiege verwenden vorhandene Unterlagen, halten den konkreten Ausgabeauftrag fest und setzen Folgewünsche ohne erneute Grundabfrage fort. Bei fehlgeschlagenen Werkzeugschritten ist höchstens ein begründeter Alternativweg vorgesehen; danach kommen ein verwertbarer Teilstand und die konkrete Blockade. Ein Teilstand ersetzt weder die noch erforderliche Endprüfung noch eine Versandfreigabe. Änderungen an Quellen oder Dateien werden erneut geprüft, unveränderte Auszüge weiterverwendet.
+Die Einstiege verwenden vorhandene Unterlagen, halten den konkreten Ausgabeauftrag fest und setzen Folgewünsche ohne erneute Grundabfrage fort. Ohne Auftrag wird nach dem fachlich passenden Bearbeitungsziel gefragt; bei einem klaren Auftrag beginnt die Dokumentarbeit unmittelbar. Ein ungefragter Ordnerbericht ist nicht vorgesehen. Nach Rückfragen wird der Entwurf weitergeführt, bis das beauftragte Dokument vorliegt. Bei fehlgeschlagenen Werkzeugschritten ist höchstens ein begründeter Alternativweg vorgesehen; danach kommen ein verwertbarer Teilstand und die konkrete Blockade. Ein Teilstand ersetzt weder die noch erforderliche Endprüfung noch eine Versandfreigabe. Änderungen an Quellen oder Dateien werden erneut geprüft, unveränderte Auszüge weiterverwendet.
 
 Die Hersteller beschreiben unterschiedliche Mechanismen: stufenweise Skill-Ladung, dokumentbezogene Arbeitsaufträge und eigene Workflow-Formate. Daraus folgt keine bestätigte Übertragbarkeit dieses Marketplaces auf andere Systeme. Maßgeblich sind die freigeschalteten Funktionen der konkreten Oberfläche. Quellenstand 7. September 2026: [Skill-Ladestufen](https://claude.com/docs/skills/overview), [Dokumentarbeit](https://academy.noxtua.com/posts/getting-started), [Workflow-Einrichtung](https://legora.com/product/workflows).
 
@@ -66,12 +66,12 @@ Die fünf vollständigen Register sind alphabetisch sortiert und werden bei jede
 | Bestand | Umfang | Kurzbeschreibung | Vollständige alphabetische Liste |
 | --- | ---: | --- | --- |
 | **Plugins** | 240 | Installierbare Pakete für Rechtsgebiete und Arbeitsbereiche; jede Zeile beschreibt Zweck und fachlichen Zuschnitt. | [Plugin-Katalog mit Kurzbeschreibungen](#was-ist-drin) · [ZIPs und Einzeldateien](./ASSET_INDEX.md) |
-| **Skills** | 22463 | Eng abgegrenzte Arbeitsabläufe; die Detailseiten führen jeden Skill mit Kurzbeschreibung und einzelnem Markdown-Download auf. | [Skill-Gesamtübersicht](./SKILLS.md) · [Detailseiten je Plugin](./skills-index/) |
+| **Skills** | 22352 | Eng abgegrenzte Arbeitsabläufe; die Detailseiten führen jeden Skill mit Kurzbeschreibung und einzelnem Markdown-Download auf. | [Skill-Gesamtübersicht](./SKILLS.md) · [Detailseiten je Plugin](./skills-index/) |
 | **Werkstatt-Prompts** | 240 | Ausführliche eigenständige Arbeitsmodi für komplexe Vorgänge; je Plugin mit Kurzbeschreibung und direktem Markdown-Download. | [Werkstatt-Prompts von A bis Z](./docs/werkstatt-und-schnellstart-coverage.md#werkstatt-prompts) |
 | **Schnellstart-/Mini-Prompts** | 240 | Kompakte eigenständige Einstiege für den Kernworkflow und ein erstes belastbares Arbeitsprodukt. | [Schnellstart-Prompts von A bis Z](./docs/werkstatt-und-schnellstart-coverage.md#schnellstart-prompts) |
 | **Testakten** | 341 zentral / 344 gesamt | Praxisnahe Dokumentensammlungen; jede Zeile skizziert den Fall, nennt passende Plugins und bietet drei Downloadformen. Drei weitere Akten liegen unmittelbar bei ihren Plugins. | [Zentrale Testakten mit Kurzbeschreibungen von A bis Z](./testakten/README.md#verfügbare-akten) · [pluginlokale Akten über den Plugin-Katalog](#was-ist-drin) |
 
-Sortierlogik: Plugins, Werkstatt- und Schnellstart-Prompts folgen dem Plugin-Slug; Skills sind zuerst nach Plugin und dort nach Skill-Slug sortiert; Testakten folgen dem Aktenordner. Die großen Bestände bleiben auf eigenen, schnell ladenden Registerseiten, damit der Haupt-README trotz 22463 Skills benutzbar bleibt.
+Sortierlogik: Plugins, Werkstatt- und Schnellstart-Prompts folgen dem Plugin-Slug; Skills sind zuerst nach Plugin und dort nach Skill-Slug sortiert; Testakten folgen dem Aktenordner. Die großen Bestände bleiben auf eigenen, schnell ladenden Registerseiten, damit der Haupt-README trotz 22352 Skills benutzbar bleibt.
 
 Plugin-Schnellwahl: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [J](#j) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [R](#r) · [S](#s) · [T](#t) · [U](#u) · [V](#v) · [W](#w) · [Z](#z)
 <!-- END HAUPTVERZEICHNIS (auto-generated) -->
@@ -96,7 +96,7 @@ Vor einem produktiven Einsatz sind Berufsrecht, Mandatsgeheimnis, Datenschutz, t
 
 Viele Skills in diesem Repo sind strukturierte Markdown-Arbeitsabläufe. Sie können einzeln heruntergeladen und in einer geeigneten Arbeitsoberfläche als Datei verwendet oder aus der Datei kopiert werden. Werkstatt und Schnellstart sind davon getrennte Ein-Datei-Prompts: Die Werkstatt bietet die ausführliche Fachroute, der Schnellstart den kompakten Einstieg.
 
-Für den Einsatz ohne Plugin-Installation gibt es pro Plugin zwei reine Markdown-Dateien: einen ausführlichen **Werkstatt-Prompt** und einen kompakten **Schnellstart-Prompt** mit höchstens 7.500 Zeichen. Beide werden als einzelne Markdown-Dateien angeboten, nicht als ZIP. Die Downloadlinks stehen oben in jeder Plugin-README und auf jeder Plugin-Detailseite; sie führen über die statische Downloadseite, weil GitHub das HTML-Attribut `download` in gerenderten README-Dateien entfernt.
+Für den Einsatz ohne Plugin-Installation gibt es pro Plugin zwei reine Markdown-Dateien: einen ausführlichen Werkstatt-Prompt und einen kompakten Schnellstart-Prompt mit höchstens 7500 Zeichen und 7500 UTF-8-Bytes. Individuell bearbeitete Werkstätten dürfen bis zu 128 KiB umfassen; sie werden nicht automatisch mit einem installierten Plugin geladen. Die Grenze ist kein Mindestumfang und keine Garantie für das Kontextfenster eines anderen Anbieters. Beide werden als einzelne Markdown-Dateien angeboten, nicht als ZIP. Die Downloadlinks stehen oben in jeder Plugin-README und auf jeder Plugin-Detailseite; sie führen über die statische Downloadseite, weil GitHub das HTML-Attribut `download` in gerenderten README-Dateien entfernt.
 
 ### Formatstandard für erzeugte Dokumente
 
@@ -109,10 +109,10 @@ Für diesen Anwendungsfall gibt es eine kuratierte, nach Fachanwaltschaften sort
 | Kennzahl | Wert |
 |---|---|
 | **Plugins** | 240 (inkl. 15 Gerichts- und Staatsanwalts-Plugins im Sammelordner [`gerichtsplugins/`](./gerichtsplugins/) und 11 Insolvenz-Plugins im Sammelordner [`insolvenzrecht-plugins/`](./insolvenzrecht-plugins/)) |
-| **Skills (SKILL.md)** | 22463: [Gesamtübersicht](./SKILLS.md) |
+| **Skills (SKILL.md)** | 22352: [Gesamtübersicht](./SKILLS.md) |
 | **Testakten** | 341 zentral / 344 gesamt |
 | **Fachanwalts-Profile** | 24 |
-| **Plugin-Version / Arbeitsstand** | `v444.9.0` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
+| **Plugin-Version / Arbeitsstand** | `v445.0.0` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
 | **Marketplace-Definition** | [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json) |
 
 ### Sammel-Downloads
@@ -163,7 +163,7 @@ Jede Plugin-README beginnt mit **In 30 Sekunden starten**. Dort stehen der direk
 
 Für den Organisations-Sync verlangt die aktuelle Oberfläche ein privates oder internes Repository. Das öffentliche Original wird dafür in ein Organisationsrepository gespiegelt; der manuelle Marketplace nimmt nur einzelne Plugin-ZIPs und höchstens 100 Plugins auf. Die genaue, aktuelle Route steht in [Installation in einfach](./INSTALLATION_EINFACH.md#4-marketplace-für-eine-organisation).
 
-> Erfasse zuerst alle Dateien im ausgewählten Ordner nach Name, Datum und Typ. Öffne zunächst höchstens fünf tragende Unterlagen und beginne unmittelbar mit dem verlangten Arbeitsprodukt. Wenn nur der Prompt oder Skill gestartet wurde, bestimme daraus die Fachroute und liefere einen ersten belastbaren Stand. Erweitere die Lektüre nur für eine benannte Beleglücke; frage einmal gebündelt nach, falls der nächste fachliche Schritt sonst falsch wäre.
+> Lies die für meinen Auftrag maßgeblichen Unterlagen zuerst, ohne einen ungefragten Ordnerbericht auszugeben. Beginne bei klarem Auftrag mit dem verlangten Dokument. Wenn ich nur den Prompt starte, frage nach dem konkreten Anliegen und biete passende fachliche Wege an. Frage fehlende entscheidende Angaben gezielt nach; führe nach meiner Antwort den Entwurf ohne erneute Aufnahme weiter. Lies zusätzliche Unterlagen, soweit der nächste fachliche Schritt sie benötigt.
 
 Für Folgewünsche gilt: Den bisherigen Aktenstand fortführen, Tatsachen und Quellen nicht erneut abfragen und nur die verlangte Dimension ändern. Ausführlich: [Schnellstart in fünf Minuten](./QUICKSTART.md). ZIP-Probleme und Organisations-Sync: [Installation in einfach](./INSTALLATION_EINFACH.md).
 
@@ -835,7 +835,7 @@ Start with one legal field, not the entire collection. Open its plugin README, c
 
 The skill indexes show the complete source collection. In installed packages, some specialist series are reached through topic routers rather than separate menu entries. Automatic skill selection is not guaranteed. A Markdown file does not install tools or grant file access; provide any required references when using a skill manually.
 
-Use a standalone prompt as an instruction, not merely as another document to search. Its workflow now distinguishes missing file access, unavailable sources and unavailable export tools: it should return supported text and a precise unresolved step instead of retrying indefinitely or inventing a download. Reuse unchanged findings, but recheck updated files. Repository checks do not certify runtime speed or compatibility in third-party accounts; use the [workplace checks](./QUICKSTART.md#9-portabilität-im-eigenen-arbeitsplatz-prüfen) with your actual tools.
+Use a standalone prompt as an instruction, not merely as another document to search. With no task, it asks which relevant legal work is needed; with a clear task, it starts drafting without an unsolicited folder summary. Answers should update the existing draft rather than restart the intake. Individually reviewed workshops may reach 128 KiB and are not loaded with the installed plugin. Mini and focus prompts stay within 7500 characters and UTF-8 bytes; a provider's actual context limit still applies. Missing access, unavailable sources and failed export tools should lead to supported text and a precise unresolved step instead of indefinite retries or an invented download. Reuse unchanged findings, but recheck updated files. Repository checks do not certify runtime speed or compatibility in third-party accounts; use the [workplace checks](./QUICKSTART.md#9-portabilität-im-eigenen-arbeitsplatz-prüfen) with your actual tools.
 
 For a practice case, choose one format: the combined PDF for reading, the individual-PDF ZIP for document-by-document review, or the original-format ZIP for working with spreadsheets, emails and other files. Case archives are separate from plugin installation. Their bilingual warning identifies them as generated experimental material, not real client files.
 

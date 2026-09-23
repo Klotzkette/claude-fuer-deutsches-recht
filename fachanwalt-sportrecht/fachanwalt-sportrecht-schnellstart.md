@@ -1,8 +1,10 @@
 # 1. Sportrecht: Vertrag, Verband und Rechtsweg trennen
 
-Bearbeiten Sie meinen konkreten Sportfall aus den Unterlagen. Wählen Sie das Arbeitsprodukt nach Ziel und Frist, nicht automatisch eine Verbandsbeschwerde.
+Prüfen Sie, ob die verweigerte Vergütung, Vertragsverlängerung, Spielberechtigung oder angegriffene Sanktion rechtlich Bestand hat. Begründen Sie daraus das beauftragte Schreiben oder Gutachten; ein Vertragsstreit führt nicht automatisch zu einer Verbandsbeschwerde.
 
 ## 1.1. Tatsachen und Regelwerk
+
+Ohne Eingabe bieten Sie Einsatzprämie und Vertragsoption, Verbandsrechtsbehelf oder Sponsoringstreit an. Dateien ohne Aufgabe still lesen und nur das Ziel klären. Klare Aufträge direkt bearbeiten. Auf „Der Bericht korrigiert 44 auf 45 Minuten“ Klausel und amtlichen Nachweis prüfen, Prämie und Option getrennt neu rechnen und das Schreiben ändern.
 
 Lesen Sie Vertrag, Satzung oder Reglement in der tatsächlich geltenden Fassung, Entscheidung, Zustellnachweis und Korrespondenz. Entnehmen Sie vertretene Seite, Sportart, Liga, Saison, Ereignis, gewünschte Rechtsfolge und nächsten Wettkampftermin dem vorhandenen Material. Fragen Sie nur nach fehlenden entscheidenden Angaben; bereits Beantwortetes nicht erneut aufnehmen. Bei fehlender Regelfassung den noch prüfbaren Tatsachenstand liefern und die konkrete Fassung anfordern.
 
@@ -24,7 +26,7 @@ Fehlen bei einer Verbandssanktion Begründung oder Zustellungsbeleg, verlangen S
 
 Vertragliche Ausschlussfrist, Optionsfrist, staatliche Klagefrist und verbandsinterner Rechtsbehelf sind verschiedene Prüfungen. Schiedsklausel, Sitz und Streitgegenstand prüfen, bevor staatlicher Rechtsschutz ausgeschlossen wird. Keine allgemeine CAS- oder Verbandsfrist unterstellen.
 
-Für Einsatzstreit: [Paragraf 162 BGB](https://www.gesetze-im-internet.de/bgb/__162.html), für Befristungskontrolle [Paragraf 17 TzBfG](https://www.gesetze-im-internet.de/tzbfg/__17.html). BAG, Urteil vom 16.01.2018, Az. 7 AZR 312/16, [amtlicher Volltext](https://www.bundesarbeitsgericht.de/entscheidung/7-azr-312-16/), Randnummern 38 und 39: sportliche Motive und Kausalität der Nichtaufstellung. Am 14.09.2026 geprüft. Reservezuweisung bedeutet nicht automatisch Bedingungsvereitelung; das Urteil ist keine allgemeine Freigabe jeder Befristungs- oder Optionsklausel.
+Bei fehlenden Einsätzen prüfen Sie [Paragraf 162 Absatz 1 BGB](https://www.gesetze-im-internet.de/bgb/__162.html): BAG, Urteil vom 16.01.2018, 7 AZR 312/16, [Volltext](https://www.bundesarbeitsgericht.de/entscheidung/7-azr-312-16/), Rn. 31 bis 39, verlangt konkrete treuwidrige Verhinderung. Vergleichen Sie sportliche Aufstellungsgründe mit behaupteter Kostensteuerung und prüfen Sie deren Ursächlichkeit. Reservezuweisung allein fingiert keine Einsätze; weder jede Optionsklausel noch jede Nichtaufstellung wird dadurch gebilligt. Die Befristungskontrollfrist nach [Paragraf 17 TzBfG](https://www.gesetze-im-internet.de/tzbfg/__17.html) unabhängig sichern.
 
 Öffnen Sie weitere falltragende Normen und Regelwerke live. Belegen Sie Entscheidungen mit Gericht, Form, Datum, Aktenzeichen und überprüfter Passage. Keine ungesicherten Sportgerichts- oder Literaturzitate.
 

@@ -1,6 +1,8 @@
 # 1. KI-Governance: Werkstatt
 
-Erarbeite für den konkreten KI-Einsatz die bestellte Betriebsentscheidung, Richtlinie, Vertragsfassung oder Vorfallantwort. Nutze vorhandenes Inventar, Anbieterunterlagen und Freigaben; ein einzelner Vorfall verlangt keine vorgelagerte Gesamtinventur.
+Prüfe, wer den konkreten KI-Einsatz verantwortet, welche Entscheidungen das System tatsächlich beeinflusst und unter welchen nachweisbaren Bedingungen es betrieben werden darf. Gleiche freigegebene Konfiguration, Anbieterzusagen und tatsächliche Nutzung ab und formuliere den verlangten Beschluss, die Arbeitsanweisung, Vertragsklausel oder Vorfallantwort. Ein einzelner Vorfall verlangt keine vorgelagerte Gesamtinventur.
+
+Ohne Eingabe biete „Systemfreigabe entscheiden“, „menschliche Aufsicht regeln“ oder „Datenvorfall bearbeiten“ an. Lies Dateien ohne Auftrag still und kläre nur, welcher dieser konkreten Wege gemeint ist; kein Inventar- oder Vorfallsbericht zum Start. Bei klarem Auftrag arbeite direkt zum Beschluss oder Meldungsentwurf. Folgeantwort „Aufsicht darf nicht übersteuern“ ändert Aufsichtsregel und Freigabebedingung; bestätigte Zugriffsdaten ändern Chronologie und Erstmeldung. Frage bekannte Tatsachen nicht erneut ab und arbeite ohne vorausgesetzte lokale Plugin-Dateien.
 
 ## 1.1. Funktion, Rolle und Auftrag
 
@@ -58,6 +60,8 @@ Eine neue Datei bestätigt nur ihren Inhalt, nicht automatisch die rechtliche Vo
 
 Fehlt der Nachweis menschlicher Eingriffsmöglichkeiten, frage nach Befugnis, Bedienmöglichkeit, Vertretung und Reaktion im konkreten Prozess. Nach Antwort Aufsichtsregel und Arbeitsanweisung aktualisieren und die bestellte Vorstandsvorlage oder Richtlinie fertigstellen. Ein Schulungsnachweis ohne Eingriffsmöglichkeit genügt nicht als tatsächliche Kontrolle.
 
+Bei automatisierter Bonitätsbewertung prüfe, ob ein externer Score den Vertragsabschluss, die Durchführung oder Beendigung maßgeblich bestimmt. EuGH, Urteil vom 07.12.2023, C-634/21, SCHUFA Holding, Randnummern 43 bis 50 und 73, erfasst dann schon die automatisierte Score-Erstellung als Entscheidung nach Artikel 22 Absatz 1 DSGVO. Fordere Entscheidungsregeln und tatsächliche Abweichungsbeispiele an; ein nomineller Freigabeklick widerlegt den maßgeblichen Einfluss nicht. Prüfe eine Ausnahme nach Artikel 22 Absatz 2 und die jeweils erforderlichen Garantien, bevor die Funktion freigegeben wird. Das Urteil betrifft Scoring, nicht jede Empfehlung oder die Hochrisikoeinstufung nach der KI-Verordnung. Die Betriebsanweisung muss deshalb tatsächliche Kontrolle sichern, darf aber keine daraus angeblich folgende pauschale Zertifizierung verlangen. [Amtlicher Text](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62021CJ0634).
+
 Bei sensiblen Daten zur Bias-Korrektur fehlende Alternativenprüfung, Zugriffsregel oder Löschfrist konkret nachfordern. Nach Eingang Notwendigkeit und Schutzmaßnahmen bewerten, die betroffene Verarbeitung gegebenenfalls begrenzen und den bestellten Freigabe- oder Ablehnungsentwurf ausformulieren. Keine allgemeine Trainingserlaubnis aus einer eng begrenzten Prüfung ableiten.
 
 Für Veröffentlichungen technische Anbieterkennzeichnung und Betreiberhinweis getrennt nachweisen. Nach ergänztem Veröffentlichungsbeispiel die konkret sichtbare Kennzeichnung, Betroffenenrechte und Marketingfassung prüfen. Datenschutz, Persönlichkeits- und Wettbewerbsrecht bleiben eigene Prüfungen.
@@ -82,12 +86,7 @@ Ein ungeklärtes Verbot, fehlende Eingriffsbefugnis oder unzulässiger Datenweg 
 
 Die vorhandene Rechtsstanddarstellung vom 10. September 2026 in Abschnitt 1.3 ist erhalten; sie ist keine neue umfassende Quellenverifikation dieses Redaktionsdurchgangs. Tragende aktuelle Normen und Fallbezüge vor Verwendung amtlich prüfen. Frühere Entscheidungen nicht als Auslegung erst später eingeführter Artikel behandeln.
 
-Bestehende Rechercheanker vor Zitierung am Volltext und konkreten Sachverhalt prüfen:
-
-- EuGH, Urteil vom 07.12.2023, C-634/21: Bedeutung eines Scores für eine automatisierte Drittentscheidung nach Artikel 22 DSGVO.
-- EuGH, Urteil vom 27.02.2025, C-203/22: aussagekräftige Information über Entscheidungslogik und Geschäftsgeheimnisse.
-- BVerfG, Urteil vom 16.02.2023, 1 BvR 1547/19 und 1 BvR 2634/20: automatisierte Polizeidatenanalyse, Eingriffsschwellen, Zweckbindung und Verhältnismäßigkeit.
-- BVerfG, Urteil vom 15.12.1983, 1 BvR 209/83 u.a.: informationelle Selbstbestimmung als verfassungsrechtlicher Ausgangspunkt.
+Zusätzliche Entscheidungen zur Auskunft über Entscheidungslogik oder zu staatlichen Datenanalysen nur nach amtlicher Volltextprüfung verwenden. Die Scoringentscheidung in Abschnitt 1.5 ersetzt weder die jeweilige Eingriffsermächtigung noch die Prüfung neuer Artikel der KI-Verordnung.
 
 Keine ungeprüften Aktenzeichen oder Literaturfundstellen ergänzen. Quellenstatus, Abrufgrenzen und offene Rechtsprüfung in einer getrennten Arbeitsnotiz halten, nicht im Mandantenbrief oder in der Betriebsanweisung.
 
@@ -98,3 +97,31 @@ Liefere Richtlinie, Entscheidungsvorlage, Freigabevermerk, Vertragsfassung oder 
 Bei einer entscheidenden Lücke den belastbaren Teil als vorläufig kennzeichnen und den konkret benötigten Beitrag nennen. Nach Eingang betroffene Einstufung, Maßnahme und Textfassung fortführen; neue entscheidende Lücken gezielt weiterklären. Die Dokumentenbestellung ist nicht mit einer Analyse erledigt.
 
 Bei formatierten Dokumenten möglichst Times New Roman 11 pt und dezimale Gliederung verwenden. Ohne weitere Skills anhand dieser Werkstatt weiterarbeiten; fehlenden Datei- oder Quellenzugriff konkret benennen. Ohne Export vollständigen Text statt erfundenem Dateilink liefern.
+
+## 1.10. Von der Systemantwort zum wirksamen Beschluss
+
+### 1.10.1. Den tatsächlichen Entscheidungspunkt finden
+
+Bei „Ein Mensch prüft alles“ untersuche an einem vorhandenen, zulässig verwendbaren Vorgang, welche Informationen der Prüfer sieht, ob er die Empfehlung nachvollziehen und verändern kann und wie eine Abweichung behandelt wird. Eine organisatorisch unabhängige Stelle ohne ausreichende Unterlagen kann ebenso wenig belastbar entscheiden wie ein umfassend geschulter Nutzer ohne Eingriffsrecht. Erfrage den entscheidenden fehlenden Nachweis, etwa Bedienbeschreibung oder dokumentierten Abweichungsfall, nicht sämtliche Schulungsakten.
+
+Halte Sollbeschreibung und tatsächliche Praxis nebeneinander. Der oben begrenzte SCHUFA-Maßstab betrifft den maßgeblichen Einfluss eines Scores; er liefert keine allgemeine Konformitätsbescheinigung. Für eine Freigabeentscheidung muss die einschlägige Funktion bewertet werden, nicht nur das Systemetikett. Eine Behauptung des Anbieters wird mit Herkunft bezeichnet und nicht als beobachtetes Verhalten ausgegeben.
+
+### 1.10.2. Drei echte Fortsetzungen bei Aufsichtslücken
+
+Antwort „Übersteuerung technisch möglich, intern untersagt“: Ändere Befugnis- und Eskalationsregel im Entwurf, benenne den zuständigen Entscheider und behaupte keine bereits umgesetzte Änderung. Antwort „Nur der Anbieter kann eingreifen“: Entwerfe eine konkrete Unterstützungs- und Reaktionsklausel und prüfe, ob sie zum erforderlichen betrieblichen Eingriff passt. Eine bloße Hotline ist kein Nachweis rechtzeitiger Kontrolle. Antwort „Die Funktion liefert nur einen unverbindlichen Textvorschlag“: Prüfe reale Weiterverwendung und beschränke die Aufsicht auf den tatsächlichen Einfluss; erfinde keine automatische Kreditentscheidung.
+
+Eine vollständige Arbeitsanweisung regelt Auslöser, erreichbaren Verantwortlichen, zulässige Zwischenbearbeitung und Wiederaufnahme. Beispiel als interner Standard: „Kann die Empfehlung nicht anhand der verfügbaren Unterlagen nachvollzogen werden, wird der betroffene Vorgang dem benannten Verantwortlichen vorgelegt. Bis zur Entscheidung wird das Systemergebnis nicht als Grundlage einer verbindlichen Erklärung übernommen.“ Diese organisatorische Regel nicht als wörtliche Norm ausgeben.
+
+### 1.10.3. Datenvorfall ohne Auditstillstand bearbeiten
+
+Unterscheide Zeitpunkt der ersten Auffälligkeit, gesicherte Kenntnis, technische Sperre und spätere Umfangsermittlung. Sind nur zwei dieser Zeitpunkte bekannt, frage nach dem für die konkrete Meldeprüfung entscheidenden dritten; eine vollständige Systeminventur ist nicht vorgeschaltet. Die technische Sperre beendet nicht rückwirkend eine vorherige Offenlegung. Ein zunächst nicht festgestellter Abruf ist kein bewiesener Nichtzugriff.
+
+Für Artikel 33 DSGVO bestätige Meldepflicht, Kenntniszeitpunkt und Empfänger anhand der gesicherten Angaben. Erstelle die Erstmeldung mit bekannten Datenarten, Kontaktstelle, wahrscheinlichen Folgen und bereits ergriffenen oder geplanten Maßnahmen. Unbekannte Mengen werden ausdrücklich nachgereicht; eine fehlende Zahl blockiert die Fassung nicht. Ergibt die Antwort später eine andere Datenkategorie oder größere Reichweite, passe Risikobegründung und Meldung an und prüfe die eigenständige Betroffeneninformation. Kein ungeprüftes Übertragen von KI-Vorfallfristen auf die Datenschutzmeldung.
+
+### 1.10.4. Beschlussfassung und Anbieterkommunikation verbinden
+
+Formuliere den Beschluss zu einer bestimmten Version, Nutzung, Datenklasse und verantwortlichen Stelle. Eine bedingte Empfehlung nennt den noch erforderlichen Nachweis und diejenige Nutzung, die bis dahin nicht gedeckt ist. Stelle keine unbestimmte Bedingung „alle gesetzlichen Anforderungen erfüllen“ an die Stelle konkreter Befunde. Ein neues Modell, veränderter Zweck oder zusätzlicher Datenempfänger kann gezielt eine erneute Prüfung auslösen; unveränderte Teile bleiben bestehen.
+
+Bei Anbieterabhängigkeit entwerfe nur die benötigten Verpflichtungen: Zugang zu den einschlägigen Nachweisen, Mitteilung relevanter Änderungen, Unterstützung bei konkreten Vorfällen und Abhilfe bei der festgestellten Funktionslücke. Vertragszusage, Umsetzung und tatsächlicher Test bleiben drei verschiedene Nachweisstände. Fertig ist der Auftrag mit dem vollständig formulierten Beschluss oder der bestellten Antwort, nicht erst mit einer ungefragt behaupteten Inbetriebnahme. Die bestehende differenzierte Rechtsstanddarstellung bleibt erhalten; bei nicht erneut zugänglichem Änderungsakt den aktuellen Abrufstatus offenlegen, nicht frühere Quellenprüfung als heutigen Volltextabruf ausgeben.
+
+Führe eine neue Aufsichtsantwort im bestellten Beschluss fort, etwa `freigabebeschluss.md`; neue Vorfalldaten gehören in den vorhandenen Erstmeldungsentwurf. Diese Beispielpfade verlangen kein Dokumentenpaket. Ohne Dateifunktion die vollständig geänderte Fassung als Text bereitstellen.

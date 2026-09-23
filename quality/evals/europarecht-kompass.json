@@ -1,21 +1,28 @@
 {
   "schema_version": 1,
   "plugin": "europarecht-kompass",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62017CJ0573",
       "checked_on": "2026-09-14",
       "supports": "EuGH, Urteil vom 24.06.2019, C-573/17, Randnummern 60 bis 68: Vorrang ersetzt unmittelbare Wirkung nicht; keine zusätzlichen privaten Pflichten allein aus Richtlinie."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62017CJ0573",
+      "checked_on": "2026-09-22",
+      "supports": "EuGH, Urteil vom 24. Juni 2019, C-573/17, Popławski, Randnummern 60 bis 68. Anwendung: Vorrang von unmittelbarer Wirkung trennen; Richtlinie allein begründet grundsätzlich keine zusätzliche Pflicht eines Privaten. Grenze: Ausgangsfall Rahmenbeschluss; andere unmittelbar wirksame Unionsnormen und konforme Auslegung separat prüfen."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der vollständige Mini wurde auf Rechtswirkung, Beteiligtenkonstellation und bestelltes Ergebnis geprüft.",
+    "reason": "Der Mini verhindert die automatische Nichtanwendung nationalen Rechts allein wegen einer Richtlinie im Streit zwischen Privaten. Individueller Text- und Quellenreview, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Gegner ist privat oder ein neuer Gesundheitsrisikobeleg liegt vor -> Wirkungsweg beziehungsweise Verhältnismäßigkeitsprüfung und Stellungnahme ändern.",
     "changes": [
-      "Fehlenden nationalen Verfahrensstand klären und die betroffene unionsrechtliche Argumentation fortführen."
+      "C-573/17 Randnummern 60 bis 68 in die Anspruchsprüfung eingebaut.",
+      "Rahmenbeschluss-Ausgangsfall und Grenzen horizontaler Richtlinienwirkung ausdrücklich benannt.",
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
     ],
-    "sha256": "dcb76a609475076ad2829bd13fd6277fb14ed7acac6ec6f6f9a920731c04487d"
+    "sha256": "b19811b4669b3e7f9ffc5ffdd3a89604d38615906bd11b6a2e5df494ff7661f6"
   },
   "selection": {
     "positive": [
@@ -63,10 +70,52 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die gesamte Werkstatt wurde auf unmittelbare Wirkung, Vorrang und Auslegung durchgesehen.",
+    "reason": "Die Werkstatt arbeitet Vorrang, unmittelbare Wirkung, konforme Auslegung und mögliche Staatshaftung mit einem begrenzten Popławski-Anker ab. Die bezeichneten Anker wurden am amtlichen Entscheidungstext geprüft; keine pauschale Vollverifikation aller Nebenmaterien. Workflow-Ergänzung einzeln geprüft: Nationales Anspruchsziel und unionsrechtlicher Wirkungsweg, Zeit- und Anwendungsbereich, alternative Umsetzung, konkrete Risikobelege, Beihilfemaßnahme und fehlende Fristwirkung einer Beschwerde.",
     "changes": [
-      "Keine automatische horizontale Richtlinienwirkung; passende Rechtsfolge und Dokumentabschluss statt bloßer Themenweiterleitung."
+      "C-573/17 Randnummern 60 bis 68 in die Anspruchsprüfung eingebaut.",
+      "Rahmenbeschluss-Ausgangsfall und Grenzen horizontaler Richtlinienwirkung ausdrücklich benannt.",
+      "Nationales Anspruchsziel und unionsrechtlicher Wirkungsweg, Zeit- und Anwendungsbereich, alternative Umsetzung, konkrete Risikobelege, Beihilfemaßnahme und fehlende Fristwirkung einer Beschwerde."
     ],
-    "sha256": "24768fbede98d1227bd2c7686372b00e1d78652bf6e53f5f0f8408306ccc0e42"
+    "sha256": "ae13c050099c2c06b2efd203452a75b1896cab20343793b711ece8c3ae0f67e0"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "files": [
+      "europarecht-kompass/README.md",
+      "europarecht-kompass/europarecht-kompass-werkstatt.md",
+      "europarecht-kompass/europarecht-kompass-schnellstart.md",
+      "quality/evals/europarecht-kompass.json"
+    ],
+    "opening_change": "Konkrete nationale Norm, unionsrechtliche Pflicht und begehrte Rechtsfolge auseinanderhalten. Workflow-Ergänzung: Leer: Richtlinienwirkung, Marktzugang oder nationale Umsetzung anbieten. Dateien ohne Aufgabe: Normen und nationale Entscheidung still lesen; gewünschte Rechtsfolge klären, keinen Normenkatalog ausgeben. Klarer Auftrag: verlangte Stellungnahme unmittelbar anhand konkreter Rechtsfolge bearbeiten, bekannte Beteiligten- und Umsetzungsdaten übernehmen.",
+    "norms": [
+      "Artikel 288 AEUV",
+      "Artikel 267 AEUV"
+    ],
+    "decisions": [
+      {
+        "citation": "EuGH, Urteil vom 24. Juni 2019, C-573/17, Popławski, Randnummern 60 bis 68",
+        "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62017CJ0573",
+        "application": "Vorrang von unmittelbarer Wirkung trennen; Richtlinie allein begründet grundsätzlich keine zusätzliche Pflicht eines Privaten.",
+        "limit": "Ausgangsfall Rahmenbeschluss; andere unmittelbar wirksame Unionsnormen und konforme Auslegung separat prüfen."
+      }
+    ],
+    "remaining_limits": [
+      "Keine neue Gesamtprüfung von Grundfreiheiten, Beihilfen oder Charta-Rechtsprechung; entscheidende Unionsnorm jeweils gesondert prüfen.",
+      "Desk-/Quellenreview, kein Live-Client- oder Modelltest. Bestehende Auswahl- und Ergebnisfälle unverändert erhalten.",
+      "Workflow-Review 23.09.2026: erneuter AEUV-288-Abruf lieferte keinen auswertbaren Volltext; vorhandene Wirkungs- und Fallgrenzen erhalten, keine neue Vollprüfung behauptet."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Richtlinienwirkung, Marktzugang oder nationale Umsetzung anbieten.",
+      "Dateien ohne Aufgabe: Normen und nationale Entscheidung still lesen; gewünschte Rechtsfolge klären, keinen Normenkatalog ausgeben.",
+      "Klarer Auftrag: verlangte Stellungnahme unmittelbar anhand konkreter Rechtsfolge bearbeiten, bekannte Beteiligten- und Umsetzungsdaten übernehmen."
+    ],
+    "continuation": "Gegner ist privat oder ein neuer Gesundheitsrisikobeleg liegt vor -> Wirkungsweg beziehungsweise Verhältnismäßigkeitsprüfung und Stellungnahme ändern.",
+    "enrichment": "Nationales Anspruchsziel und unionsrechtlicher Wirkungsweg, Zeit- und Anwendungsbereich, alternative Umsetzung, konkrete Risikobelege, Beihilfemaßnahme und fehlende Fristwirkung einer Beschwerde.",
+    "limits": "desk review; no live client execution"
   }
 }

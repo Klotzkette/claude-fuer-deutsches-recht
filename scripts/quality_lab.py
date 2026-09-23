@@ -169,6 +169,56 @@ def validate_focus_review(review, plugin, target, directory, root):
         )
 
 
+def validate_editorial_review(review, profile, plugin, directory, root):
+    if not isinstance(review, dict):
+        raise LabError("Prompt-Redaktion muss ein JSON-Objekt sein")
+    try:
+        iso_day(review.get("date"))
+    except (ValueError, TypeError) as exc:
+        raise LabError("Ungültiges redaktionelles Prüfdatum") from exc
+    nonempty(review.get("opening_change"), "Fachlicher Einstieg")
+    list_strings(review.get("norms"), "Normen der Prompt-Redaktion")
+    list_strings(review.get("remaining_limits"), "Verbleibende Prüfgrenzen", minimum=0)
+    list_strings(review.get("files"), "Redaktionell geprüfte Dateien")
+    reviewed = {inside(root, name) for name in review["files"]}
+    if any(not path.is_file() for path in reviewed):
+        raise LabError("Redaktionell geprüfte Datei fehlt")
+    for kind, key in (("schnellstart", "mini_review"), ("werkstatt", "workshop_review")):
+        path = directory / f"{plugin}-{kind}.md"
+        if path.resolve() not in reviewed:
+            raise LabError(f"Prompt-Redaktion erfasst {kind} nicht")
+        validate_prompt_review(profile.get(key), f"Redaktionelle {kind}-Prüfung", path)
+    focus = directory / f"{plugin}-hauptproblem.md"
+    if focus.is_file():
+        if focus.resolve() not in reviewed or "focus_review" not in profile:
+            raise LabError("Prompt-Redaktion erfasst den Schwerpunkt nicht vollständig")
+        validate_focus_review(profile["focus_review"], plugin,
+                              profile.get("selection", {}).get("target_skill"), directory, root)
+    decisions = review.get("decisions")
+    if not isinstance(decisions, list) or not decisions:
+        raise LabError("Konkreter Entscheidungs- oder historischer Fallanker fehlt")
+    for decision in decisions:
+        if not isinstance(decision, dict):
+            raise LabError("Redaktioneller Fallanker muss ein JSON-Objekt sein")
+        for field in ("citation", "application", "limit", "url"):
+            nonempty(decision.get(field), f"Fallanker: {field}")
+        url = urlsplit(decision["url"])
+        if url.scheme != "https" or not url.hostname or url.username or url.password:
+            raise LabError("Ungültige redaktionelle Quellen-URL")
+
+
+def validate_workflow_review(review):
+    if not isinstance(review, dict) or review.get("method") != "desk_review":
+        raise LabError("Workflow-Prüfung dokumentiert nur desk_review, keinen Live-Modelltest")
+    try:
+        iso_day(review.get("date"))
+    except (ValueError, TypeError) as exc:
+        raise LabError("Ungültiges Workflow-Prüfdatum") from exc
+    list_strings(review.get("opening_modes"), "Fachliche Startvarianten", minimum=3)
+    for field in ("continuation", "enrichment", "limits"):
+        nonempty(review.get(field), f"Workflow-Prüfung: {field}")
+
+
 def validate_profile(profile, plugin, directory, root=ROOT):
     if not isinstance(profile, dict):
         raise LabError("Prüfprofil muss ein JSON-Objekt sein")
@@ -200,6 +250,10 @@ def validate_profile(profile, plugin, directory, root=ROOT):
         raise LabError("Auswahlprüfung benennt einen unbekannten Zielskill")
     if "focus_review" in profile:
         validate_focus_review(profile["focus_review"], plugin, selection_target, directory, root)
+    if "prompt_editorial_review" in profile:
+        validate_editorial_review(profile["prompt_editorial_review"], profile, plugin, directory, root)
+    if "prompt_workflow_review" in profile:
+        validate_workflow_review(profile["prompt_workflow_review"])
     sources = profile.get("sources", [])
     if not isinstance(sources, list):
         raise LabError("Quellen müssen eine Liste sein")
@@ -258,7 +312,7 @@ def validate_profile(profile, plugin, directory, root=ROOT):
             raise LabError("Ergebnisdatei ohne fachliches Kriterium")
 
 
-def audit(root=ROOT):
+def audit(root=ROOT, *, require_editorial=False, require_workflow=False):
     plugins = marketplace(root)
     errors, profiles = [], {}
     files = {p.stem: p for p in (root / "quality/evals").glob("*.json")}
@@ -270,6 +324,12 @@ def audit(root=ROOT):
                 raise LabError("Individuelles Prüfprofil fehlt")
             profile = load(files[name])
             validate_profile(profile, name, directory, root)
+            if require_editorial and "prompt_editorial_review" not in profile:
+                raise LabError("Fachbezogene Prompt-Redaktion fehlt")
+            if require_workflow:
+                if "prompt_workflow_review" not in profile:
+                    raise LabError("Fachbezogene Workflow-Prüfung fehlt")
+                validate_editorial_review(profile.get("prompt_editorial_review"), profile, name, directory, root)
             mini = directory / f"{name}-schnellstart.md"
             data = bounded_bytes(mini)
             if not data or len(data) > 7500 or len(data.decode("utf-8")) > 7500:
@@ -745,6 +805,10 @@ def main(argv=None):
     sub = parser.add_subparsers(dest="command", required=True)
     audit_parser = sub.add_parser("audit")
     audit_parser.add_argument("--catalog", type=Path)
+    audit_parser.add_argument("--require-editorial", action="store_true",
+                              help="Fachbezogene Prüfung aller Prompt-Varianten verlangen")
+    audit_parser.add_argument("--require-workflow", action="store_true",
+                              help="Individuelle Start-, Fortsetzungs- und Inhaltsprüfung verlangen")
     p = sub.add_parser("prepare")
     p.add_argument("plugin")
     p.add_argument("case")
@@ -765,7 +829,8 @@ def main(argv=None):
     args = parser.parse_args(argv)
     try:
         if args.command == "audit":
-            profiles, errors = audit()
+            profiles, errors = audit(require_editorial=args.require_editorial,
+                                     require_workflow=args.require_workflow)
             if args.catalog:
                 args.catalog.write_text(catalog(profiles), encoding="utf-8")
             if errors:

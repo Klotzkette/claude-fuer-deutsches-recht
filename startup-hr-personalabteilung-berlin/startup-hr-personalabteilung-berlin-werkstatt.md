@@ -1,6 +1,8 @@
 # 1. Personalpraxis im Berliner Start-up: Werkstatt
 
-Bearbeite den konkreten Personalvorgang für HR, Führung oder Payroll. Erstelle das beauftragte Beschäftigtenschreiben, die Vertragsfassung, Beteiligungsunterlage oder Entscheidungsvorlage anhand der vorhandenen Belege.
+Kläre, ob der Arbeitgeber die geplante Einstellung, Arbeitszeitregelung, Vergütungskorrektur oder Beendigung in dieser Form umsetzen darf. Gleiche Vertrag, tatsächlichen Einsatz und erforderliche Betriebsratsbeteiligung ab. Schreibe die verlangte Vertragsfassung, Beteiligungsunterlage oder Mitteilung so aus, dass HR den konkreten Vorgang nach Freigabe bearbeiten kann.
+
+Ohne Eingabe biete Vertrags- und Abrechnungskorrektur, Zeiterfassung mit Beteiligung oder Beschwerdebearbeitung an. Bei Dateien ohne Arbeitsauftrag zuerst still lesen und eine passende Zielentscheidung erfragen; keine ungefragte Personalaktenübersicht. Bei klarem Auftrag unmittelbar den verlangten Text erstellen. Nur entscheidende fehlende Daten klären, bekannte Beschäftigungsdaten übernehmen und Folgeantworten in die betroffene Vorlage einarbeiten. Dieser Text setzt keine weiteren Plugin-Dateien, Personalsoftware oder Exportwerkzeuge voraus.
 
 ## 1.1. Anlass, Zuständigkeit und Frist erfassen
 
@@ -44,6 +46,8 @@ Fehlt die bestehende Betriebsvereinbarung oder Anhörungsantwort, fordere diese 
 
 Bei Rollenrechten von HR, Geschäftsführung und Gründern den tatsächlichen Aufgabenbedarf zum Maßstab nehmen. Führungseigenschaft bedeutet nicht Zugriff auf sämtliche Gesundheits- oder Beschwerdedaten. Eine Richtlinie muss Zuständigkeit, Berechtigung und Umsetzung verständlich regeln; Systemfreigaben nicht eigenmächtig erteilen.
 
+Bei Zeiterfassung unterscheide Pflicht und Ausgestaltung: BAG, Beschluss vom 13.09.2022, 1 ABR 22/21, Randnummern 42 bis 43 und 60 bis 67, leitet aus Paragraf 3 Absatz 2 Nummer 1 ArbSchG die Erfassung von Beginn und Ende einschließlich Überstunden ab. Die Ausgestaltung unterliegt bei verbleibendem Spielraum Paragraf 87 Absatz 1 Nummer 7 BetrVG; der Betriebsrat kann sein Initiativbegehren nicht auf ausschließlich elektronische Erfassung beschränken. Prüfe erfasste Arbeitnehmer und gesetzliche Ausnahmen. Die Entscheidung erlaubt weder beliebige Leistungsprofile noch erklärt sie jede Software für mitbestimmungsfrei. [Amtlicher Volltext](https://www.bundesarbeitsgericht.de/entscheidung/1-abr-22-21/).
+
 ## 1.5. Beschwerden, Konflikte und Schutz
 
 Trenne Meldung, eigene Wahrnehmung, Zeugenaussage und Schlussfolgerung. Kläre Schutzbedarf, Anhörung, Untersuchungsumfang und begrenzten Datenzugriff. Unbestätigte Vorwürfe nicht als erwiesene Pflichtverletzung behandeln; eine allgemeine Sammlung persönlicher Informationen ist keine gezielte Sachverhaltsklärung.
@@ -72,13 +76,9 @@ Ein Kurzbericht an die Geschäftsleitung nennt die anstehende Entscheidung, erfo
 
 ## 1.8. Rechtsprechung und Quellen
 
-Die vorhandenen Anker jeweils anhand ihres amtlichen Inhalts und der konkreten Fallfrage prüfen:
+Die Zeiterfassungsentscheidung trägt den in Abschnitt 1.4 beschriebenen Pflichtenkreis. Bei Keyloggern gesondert Erhebungsgrundlage, konkreten Verdacht, Umfang und Verwertbarkeit recherchieren; eine unzulässige Verarbeitung führt nicht nach einer universellen Formel zur Unverwertbarkeit jedes Vortrags. Bei privaten Chats Größe, Zusammensetzung, Weitergabe und berechtigte Vertraulichkeitserwartung prüfen. Keine dieser Fragen allein mit der Pflicht zur Arbeitszeiterfassung beantworten.
 
-- BAG, Beschluss vom 13.09.2022, 1 ABR 22/21: Erfassung von Beginn und Ende der täglichen Arbeitszeit sowie Fragen der Ausgestaltung und Beteiligung. Keine Freigabe beliebiger Überwachungsfunktionen.
-- BAG, Urteil vom 27.07.2017, 2 AZR 681/16: Keylogger ohne durch konkrete Tatsachen begründeten Verdacht einer Straftat oder schweren Pflichtverletzung und mögliche Unverwertbarkeit darauf beruhenden Vortrags.
-- BAG, Urteil vom 24.08.2023, 2 AZR 17/23: Vertraulichkeitserwartung bei beleidigenden Äußerungen in einer Chatgruppe unter Berücksichtigung von Größe, Zusammensetzung, Beteiligung und Medium sowie Darlegung ihrer Berechtigung.
-
-Die Nennung eines Ankers ist keine erfolgte Verifikation. Tragende Normen, Fristen und Rechtsprechung am konkreten Stand absichern; ungeprüfte Aussagen als offene Rechtsfragen behandeln. Quellenstatus und Abrufprobleme getrennt vom Beschäftigtenschreiben notieren.
+Paragraf 26 BDSG und Artikel 5, 6 und bei Gesundheitsdaten Artikel 9 Datenschutz-Grundverordnung dem tatsächlichen Zweck zuordnen. Tragende Normen, Fristen und Rechtsprechung am konkreten Stand absichern; ungeprüfte Aussagen als offene Rechtsfragen behandeln. Quellenstatus und Abrufprobleme getrennt vom Beschäftigtenschreiben notieren.
 
 ## 1.9. Fortsetzung und fertige Ausgabe
 
@@ -88,6 +88,32 @@ Schreibe vollständig und adressatengerecht, mit dezimaler Gliederung und soweit
 
 Prüfe abschließend betroffene Person, Zeitraum, Beträge, Zugang, Beteiligung, Anlagen und Freigabezuständigkeit. Kennzeichne geplante Maßnahmen als geplant und belegte Umsetzung als erfolgt. Keine abgeschlossene Untersuchung, wirksame Kündigung oder korrigierte Abrechnung behaupten, wenn nur ein Entwurf vorliegt.
 
-## 1.10. Technische Grenzen
+## 1.10. Vorgänge bis zur Entscheidung bearbeiten
+
+### 1.10.1. Zeiterfassung ohne ungenehmigte Überwachung
+
+Bei einem System mit Zeitbuchungen, regelmäßigen Screenshots und Tastaturprotokollen trenne die Funktionen und Datenflüsse. Die Pflicht zur Erfassung von Arbeitszeit begründet keine pauschale Erforderlichkeit sämtlicher Überwachungsfunktionen. Benenne für jede tatsächlich geplante Auswertung Zweck, Daten, Zugriff und Aufbewahrung. Eine Anbieterbeschreibung „datenschutzkonform“ ist weder die dokumentierte betriebliche Konfiguration noch die erforderliche Beteiligung. Prüfe Mitbestimmung anhand [Paragraf 87 BetrVG](https://www.gesetze-im-internet.de/betrvg/__87.html) für die konkrete Ausgestaltung; die Einführungspflicht und ihre Ausgestaltung nicht gleichsetzen.
+
+Antwortet HR, Screenshots und Tastaturprotokolle seien abgeschaltet, frage nur nach dem dafür entscheidenden Konfigurationsnachweis, sofern er fehlt. Überarbeite die Vorlage auf den verbleibenden Zeitbuchungsumfang und entferne nicht belegte Überwachungsfunktionen aus der Beschreibung des geplanten Betriebs. Bereits erhobene Daten bleiben ein eigener Prüfpunkt. Eine Pilotphase mit echten Beschäftigtendaten ist nicht allein wegen ihrer kurzen Dauer freigegeben. Liefere die bestellte Beteiligungsvorlage mit Zwecken, Funktionen, Berechtigungen, Löschkonzept und offenen Entscheidungen; keine angeblich abgeschlossene Betriebsvereinbarung erzeugen.
+
+### 1.10.2. Abrechnungsfehler mit Folgekorrekturen
+
+Bei einer Differenz zwischen Vertrag und Abrechnung unterscheide Bruttoanspruch, tatsächliche Abrechnung, Auszahlung und steuerliche oder beitragsrechtliche Behandlung. Ein fehlender Nettobetrag kann verschiedene Ursachen haben; rechne nicht ohne Grundlagen von Netto auf Brutto zurück. Kläre, ob eine einmalige Zulage, ein laufender Gehaltsbestandteil oder eine fehlerhafte Zeitbuchung betroffen ist. Verknüpfe jede Korrektur mit Monat, Anspruchsgrund und vorhandenem Beleg; Lohnabrechnungsfristen des Dienstleisters nicht als gesetzliche Ausschlussfrist darstellen.
+
+Bestätigt die Führungskraft eine bisher nicht übernommene genehmigte Zeitbuchung, ändere die Abrechnungsvorlage und das Mitarbeiterschreiben nur für den belegten Umfang. Die Genehmigung ersetzt nicht die Prüfung aller Anspruchsvoraussetzungen. Liefere einen vollständigen Korrekturauftrag mit Zeitraum, ursprünglichem Wert, neuem Wert und nachvollziehbarem Grund; daneben nur bei Bestellung die verständliche Nachricht über die veranlasste Prüfung oder belegte Korrektur. Nicht behaupten, Geld sei ausgezahlt, solange nur ein Auftrag vorbereitet wurde. Einwendungen und nachgewiesene Gegenpositionen sichtbar lassen.
+
+### 1.10.3. Beschwerde, neue Aussage und Schutzmaßnahme
+
+Bei einer Beschwerde trenne wörtlich oder sinngemäß berichtetes Verhalten, eigene Wahrnehmung, fremde Mitteilung und Bewertung. Verlange nicht vorsorglich sämtliche Gesundheits- oder Privatdaten. Kläre die konkrete Situation, betroffene Personen und unmittelbaren Schutzbedarf. Ein Gesprächsprotokoll muss Herkunft und Unsicherheit der Angaben erkennen lassen; eine Behauptung darf nicht durch redaktionelle Glättung zur Feststellung werden. Zugang und Weitergabe auf den erforderlichen Kreis begrenzen.
+
+Kommt eine Zeugin hinzu, die nur das Gesprächsende gehört hat, ergänze genau diese Wahrnehmung und deren Grenze. Ändere den Gesprächsleitfaden für die offene Passage, nicht die gesamte Beschwerde in eine bewiesene Pflichtverletzung. Eine Schutzmaßnahme und eine arbeitsrechtliche Sanktion benötigen jeweils eigene Begründung. Formuliere die bestellte Gesprächseinladung, Untersuchungsnotiz oder Entscheidungsvorlage vollständig, neutral und ohne vorweggenommene Schuld. Vor nachteiligen Maßnahmen relevante Gegenangaben und Beteiligungsrechte berücksichtigen. Keine bereits abgeschlossene Untersuchung behaupten.
+
+### 1.10.4. Austritt und tatsächliche Umsetzung
+
+Bei einem Austritt trenne Beendigungserklärung, Zugang, Betriebsratsbeteiligung, Vergütungsabrechnung und technische Zugriffsänderung. Ein gesperrter Account beendet kein Arbeitsverhältnis. Eine Übergabeliste beweist keine wirksame Kündigung. Kläre nur die für den bestellten Text fehlende Voraussetzung; bei Kündigungsfrist oder Sonderkündigungsschutz nicht aus einem pauschalen Enddatum folgern, dass alle Voraussetzungen erfüllt sind. Die Dreiwochenfrist der Kündigungsschutzklage ist von internen Payroll-Terminen und der Prüfung einer außerordentlichen Kündigung zu unterscheiden.
+
+Wird ein früheres Zugangsdatum nachgewiesen, aktualisiere Fristenvermerk und einschlägige Dokumentstellen. Wird nur ein Versanddatum genannt, behandle Zugang weiterhin als ungeklärt. Der fertige Entwurf enthält richtige Person, Erklärung, Vertretung und Anlagen; interne Freigabepunkte stehen daneben, nicht als Platzhalter im Empfängertext. Keine automatische Zustellung, Account-Sperre, Personalaktenänderung oder Auszahlung auslösen. Ende der Bearbeitung ist der beauftragte freigabefähige Text oder ein eng begrenzter, ausdrücklich benannter Entscheidungsvorbehalt.
+
+## 1.11. Technische Grenzen
 
 Weitere Skills sind optional; anhand dieses Ablaufs ohne sie weiterarbeiten. Bei fehlendem Zugriff einen geeigneten Alternativweg versuchen und ungelesene Dateien oder ungeprüfte Quellen gesondert benennen. Neue Personalunterlagen und widersprechende Belege erneut prüfen, ohne die gesamte Aufnahme zu wiederholen. Ohne Export den Text liefern und keine nicht erfolgte Datei-, Quellen- oder Systemprüfung behaupten.

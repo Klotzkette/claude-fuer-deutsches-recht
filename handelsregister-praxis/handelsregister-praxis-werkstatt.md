@@ -1,6 +1,6 @@
 # 1. Handelsregister: Anmeldung, Beanstandung und Vollzug
 
-Bearbeite meinen Registervorgang anhand der vorhandenen Urkunden und gerichtlichen Nachrichten. Erstelle die beauftragte Anmeldungsvorbereitung, Antwort, Beschlussfassung oder Stellungnahme bis zur ausformulierten Endfassung.
+Gleiche die beantragte Eintragung mit Beschluss, Anmeldung und aktuellem Registerstand ab. Kläre für jeden Beanstandungspunkt, ob eine Urkunde nachzureichen, eine Erklärung formgerecht neu abzugeben oder die Rechtsauffassung des Registergerichts anzugreifen ist. Formuliere die beauftragte Anmeldungsvorbereitung, Antwort oder Stellungnahme vollständig; behandle eine noch offene Eintragung nicht als vollzogen.
 
 ## 1.1 Auftrag und Aktenstand
 
@@ -9,6 +9,34 @@ Entnimm den Unterlagen Gesellschaft, Rechtsform, Registergericht, Registernummer
 Lies Anmeldung, aktuelle Satzung, Beschlüsse, Gesellschafterliste, Vollmachten, Registerauszug und gerichtliche Nachrichten, soweit sie den Vorgang betreffen. Kennzeichne Fassungen und Fundstellen. Trenne Urkundendatum, Eingang der Anmeldung, Bekanntgabe einer Entscheidung und Erledigung einer gerichtlichen Auflage. Die Existenz eines Entwurfs belegt weder Einreichung noch wirksamen Beschluss noch Eintragung.
 
 Bestimme bei zeitkritischen Vorgängen zuerst die konkrete Frist und ihren Auslöser. Eine beantragte Fristverlängerung darf nicht wie eine bewilligte behandelt werden. Unklare Bekanntgabe oder widersprüchliche Vertretung hindern nur die davon abhängige Schlussfolgerung, nicht jede weitere Bearbeitung.
+
+### 1.1.1 Ohne Sachverhalt oder nur mit Urkunden beginnen
+
+Ohne Eingabe biete Geschäftsführerwechsel, Satzungsänderung oder Beanstandungsantwort an. Bei bloßen Dateien lies sie still, bevor du zwei fallbezogene Richtungen anbietest: beispielsweise fehlenden Bestellungsnachweis nachreichen oder die verlangte neue Erklärung prüfen. Bei eindeutigem Auftrag beginne mit dem bestellten Dokument. Das bloße Vorliegen vieler Urkunden verlangt keinen chronologischen Aktenbericht. Weitere Plugin-Dateien oder Einreichungswerkzeuge werden nicht vorausgesetzt.
+
+### 1.1.2 Eine Beanstandung kann mehrere unterschiedliche Heilungen verlangen
+
+Trenne „Unterschrift nicht beglaubigt“, „Beschluss nicht beigefügt“ und „Bestellung inhaltlich unwirksam“. Der erste Punkt verlangt eine formgerechte Erklärung, der zweite möglicherweise nur eine vorhandene Abschrift, der dritte eine materielle Prüfung. Eine notarielle Übermittlung heilt nicht von selbst jeden inhaltlichen Mangel. Ordne jedem gerichtlichen Satz genau die dazu vorliegende Urkunde zu; ein pauschales „alles beigefügt“ ist keine belastbare Antwort.
+
+Wenn der Nutzer eine ältere unterschriebene Fassung nachreicht, vergleiche Namen, Eintragungsgegenstand und Vertretungsregel mit der eingereichten Fassung. Bei Deckungsgleichheit erläutere den Nachweis im Begleitschreiben. Bei Abweichung benenne die erforderliche Berichtigung oder neue Erklärung, ohne Unterschriften in einen aktuellen Entwurf zu übernehmen. Ist eine gerichtliche Frist nicht erreichbar, entwirf die konkrete Verlängerungsbitte mit Beschaffungsgrund und realistischem Termin; der bisherige Termin bleibt bis zur Bewilligung im Arbeitsstand.
+
+### 1.1.3 Geschäftsführerwechsel mit zeitlich versetzten Dokumenten
+
+Ordne Abberufung, Neubestellung, Annahme, Anmeldung und Eintragung ihren jeweiligen Zeitpunkten zu. Ein aktueller Auszug kann noch die alte Person nennen, obwohl die interne Maßnahme bereits wirksam ist; umgekehrt beweist ein unterschriebener Entwurf keinen Beschluss. Frage nach genau dem fehlenden Bestellungsakt, nicht nach der gesamten gesellschaftsrechtlichen Vorgeschichte. Dienstvertrag und Vertretung der Gesellschaft beim Abschluss dieses Vertrags sind gesonderte Fragen, wenn sie beauftragt sind.
+
+Bei widersprüchlichen Vertretungsregeln prüfe zunächst Satzung und wirksamen Beschluss. Ändert die neue Antwort die Vertretungsbefugnis nur für eine Person, formuliere keine allgemeine Änderung für alle Geschäftsführer. Der Entwurf muss die anzumeldende Tatsache präzise wiedergeben und diejenigen Erklärungen als offen kennzeichnen, die nur der Erklärende persönlich bestätigen kann. Versicherungen über unbekannte persönliche Umstände nicht aus anderen Registereinträgen ableiten.
+
+### 1.1.4 Satzung, Kapital und ausländische Beteiligte
+
+Bei Satzungsänderungen erstelle aus dem Änderungsbeschluss und der bisherigen Fassung einen nachvollziehbaren Solltext. Prüfe gerade die Verweisungen, die von einer geänderten Nummerierung betroffen sind. Eine materielle Korrektur außerhalb des Beschlussumfangs ist keine redaktionelle Zusammenführung. Nach einem geänderten Beschluss tausche nicht nur die Anlagenüberschrift, sondern auch Firmenwortlaut, Sitzangabe oder Kapitalbetrag in sämtlichen betroffenen Entwurfspassagen aus.
+
+Bei einer Auslandsurkunde trenne Existenznachweis des Rechtsträgers, Vertretung zum Erklärungszeitpunkt und Echtheit der Urkunde. Eine Apostille beantwortet nicht die Reichweite einer Vollmacht. Nach neuer Übersetzung kontrolliere die operative Vertretungsregel, etwa gemeinsames oder einzelnes Handeln, und passe den Unterzeichnerkreis an. Unklare Gleichwertigkeit einer ausländischen Form bleibt eine bezeichnete Rechtsfrage; eine deutsche Begleitmail beseitigt sie nicht.
+
+### 1.1.5 Entscheidung über Nachreichung oder Rechtsbehelf
+
+Eine neue gerichtliche Nachricht kann aus einer laufenden Nachforderung eine Ablehnung machen. Lies deshalb Verfügungssatz, Bekanntgabe und Belehrung erneut für dieses Dokument, ohne die bereits erledigte Sachverhaltsaufnahme zu wiederholen. Bestimme den richtigen Rechtsbehelf und dessen Frist aus dieser Entscheidung. Nutze den unten erläuterten BGH-Beschluss nur für seine verfahrensrechtliche Aussage; eine fehlerhafte Entscheidungsform beweist noch nicht die materielle Eintragungsfähigkeit.
+
+Die fertige Nachreichungsantwort benennt Aktenzeichen, beantragte Eintragung, jeden erledigten Punkt und die tatsächlich vorhandene Anlage. Eine Beschwerde enthält einen bestimmten Antrag und greift die tragende Begründung an. Eine reine Vollzugsinformation nennt dagegen bestätigten Stand und verbliebene Handlung, ohne einen Rechtsbehelf vorzutäuschen. Versand und notarielle Einreichung bleiben freigabebedürftig; eine Eintragungsmitteilung schließt den Vorgang erst nach Abgleich mit dem gewünschten Inhalt ab.
 
 ## 1.2 Vom fehlenden Nachweis zur fertigen Antwort
 
@@ -42,6 +70,8 @@ Prüfe bei einer Personengesellschaft Tätigkeit, bisherige Registerlage und gew
 ### 1.4.4 Beanstandung und Zwischenverfügung
 
 Ordne jeden Beanstandungspunkt nach Wortlaut, Rechtsgrund, benötigtem Nachweis und Frist. Prüfe bei behebbaren Hindernissen Paragraf 382 Absatz 4 FamFG und unterscheide Zwischenverfügung von Ablehnung. Erstelle aus anwaltlicher Perspektive eine Antwort oder Nachreichung, keinen gerichtlichen Beschluss. Erkläre bei streitiger Rechtsauffassung, weshalb die vorhandene Urkunde ausreicht oder welcher zusätzliche Schritt erforderlich ist; ergänze eine Verlängerungsbitte nur nach tatsächlichem Bedarf und Auftrag.
+
+Fordert das Gericht lediglich die Rücknahme, weil es die Tatsache endgültig für nicht eintragungsfähig hält, prüfe schon die Entscheidungsform: [BGH, Beschluss vom 19. September 2023, II ZB 15/22](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2022/II_ZB__15-22.pdf?__blob=publicationFile&v=1), Randnummern 8 bis 12, verlangt bei einem nach gerichtlicher Auffassung unbehebbaren Hindernis einen Ablehnungsbeschluss nach Paragraf 382 Absatz 3 FamFG. Die Rücknahmeaufforderung ist kein zulässiger Inhalt einer Zwischenverfügung. Stelle dem den echten Nachweisfall gegenüber: Fehlt nur die Abschrift einer vorhandenen Bestellung nach Paragraf 39 Absatz 2 GmbHG, ist die konkrete Nachreichung möglich. Ein Erfolg gegen die Zwischenverfügung bewirkt noch keine Eintragung; die besondere Sparkassenvereinigung des Ausgangsfalls trägt keine allgemeine Eintragungsfähigkeit beliebiger Tatsachen.
 
 ### 1.4.5 Beschwerde in Registersachen
 

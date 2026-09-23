@@ -1,6 +1,8 @@
 # 1. Solo-Selbstständige: Schnellstart
 
-Löse den konkreten betrieblichen Vorgang in verständlicher Sprache und liefere das bestellte Angebot, Antwortschreiben oder den Liquiditätsplan. Eine offene Rechnung verlangt kein vollständiges Gründungsinterview.
+Ohne Eingabe biete „Reklamation und offene Rechnung“, „Angebot/Zusatzauftrag“ oder „Liquiditätsengpass“ an. Dateien ohne Aufgabe still lesen und Ziel klären. Klaren Auftrag direkt ausarbeiten; keine Gründungs- oder Aktenübersicht. Antworten ändern Einbehalt, Leistungsumfang oder Plan ohne Neustart. Nur entscheidende Lücken fragen; keine Plugin-Dateien voraussetzen.
+
+Gleiche Auftrag, Abnahme, Mangel und Teilzahlungen ab und berechne, welchen Restbetrag der Kunde derzeit zahlen muss. Formuliere das bestellte Antwortschreiben mit einem konkreten Beseitigungsangebot. Bei Angebots- oder Liquiditätsauftrag bearbeite diese Frage; keine erneute Gründungsaufnahme.
 
 Lies Angebot, Auftrag, Rechnung, Leistungsnachweis, Reklamation oder Behördenpost zuerst. Übernimm bekannte Preise, Rollen und Termine aus den Unterlagen.
 
@@ -16,6 +18,8 @@ Ordne vereinbarten Umfang, gelieferte Fassung, Abnahme, Änderungswunsch und ger
 
 Beim Werkvertrag knüpft Paragraf 641 BGB die Vergütungsfälligkeit grundsätzlich an die Abnahme. Bei bestehendem Mangelbeseitigungsanspruch kann nach Absatz 3 ein angemessener Teil zurückbehalten werden, regelmäßig das Doppelte der erforderlichen Beseitigungskosten. Nicht jede Reklamation rechtfertigt die Einbehaltung der gesamten Rechnung. Quelle: https://www.gesetze-im-internet.de/bgb/__641.html
 
+BGH, Urteil vom 19.01.2017, VII ZR 193/15, Randnummern 25 bis 45 ([Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2015/VII_ZR_193-15.pdf?__blob=publicationFile&v=1)): Vor Abnahme grundsätzlich Herstellung nach Paragraf 631 BGB prüfen, danach Mängelrechte nach Paragraf 634. Ein Vorschussverlangen allein beendet das Erfüllungsstadium nicht; endgültige Ablehnung jeder weiteren Erfüllung nach Fertigstellungsangebot kann anders zu beurteilen sein. Abnahme und genaue Kundenerklärung gezielt klären. Rechte bestehen also auch vor Abnahme; keine Übertragung auf Dienstverträge. Bei vorbehaltloser Abnahme trotz bekanntem Mangel Paragraf 640 Absatz 3 BGB gesondert prüfen.
+
 Ordne den Rechnungspositionen Vertragsgrund, Leistungsbeleg, Einwand und streitigen beziehungsweise unstreitigen Betrag zu; eine Tabelle nur bei Bedarf ausgeben. Teilzahlungen mit Datum und Zuordnung abziehen. Verzug und Zinsen erst nach Prüfung von Fälligkeit, Mahnung oder einschlägiger Ausnahme berechnen.
 
 ## 1.3. Praktische Betriebsfolge
@@ -25,6 +29,8 @@ Bei Angebot oder Auftrag Leistungsumfang, Ergebnis, Mitwirkung, Änderungsverfah
 Bei Liquiditätsengpass verfügbare Mittel, sichere Eingänge, unsichere Forderungen und fällige Ausgaben trennen. Eine bestrittene Forderung nicht als sicheren Zahlungseingang verplanen. Steuer- und Beitragsrücklagen gesondert ausweisen, aktuelle Sätze und Grenzen amtlich prüfen.
 
 ## 1.4. Ergebnis und Grenzen
+
+„Die Beseitigung kostet nun belegt 350 statt 200 Euro“ verändert den zu prüfenden Einbehalt und die Zahlungsforderung gemeinsam. „Der Kunde will zusätzlich eine neue Seite“ führt zum Abgleich mit dem vereinbarten Umfang und gegebenenfalls Zusatzangebot. „Die zugesagte Zahlung ist ausgeblieben“ verschiebt sie im Liquiditätsplan aus sicheren Mitteln heraus; keine unveränderte Ausgabenfreigabe auf dieser Grundlage.
 
 Fehlt die vereinbarte Leistungsbeschreibung, frage nach dem Angebot oder der konkreten Chatstelle. Bei einer Teilzahlung fordere Datum und Zuordnung an. Die belegten Teile des Entwurfs bereits ausarbeiten; eine vorhandene Rechnung beweist nicht schon die vollständige Leistung.
 

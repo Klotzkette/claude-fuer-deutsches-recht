@@ -1,21 +1,29 @@
 {
   "schema_version": 1,
   "plugin": "handelsregister-praxis",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/famfg/__382.html",
       "checked_on": "2026-09-14",
       "supports": "Amtlicher Volltext: Eintragung, Ablehnungsbeschluss und Fristsetzung bei behebbaren Hindernissen samt Beschwerdemöglichkeit."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2022/II_ZB__15-22.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Beschluss vom 19.09.2023 - II ZB 15/22, Rn. 8 bis 12: Bei aus Gerichtssicht unbehebbarem Eintragungshindernis keinen Rücknahmehinweis als Zwischenverfügung nach Paragraf 382 Absatz 4 FamFG ausgeben; Ablehnungsbeschluss nach Absatz 3 erforderlich. Grenze: Aufhebung einer unzulässigen Zwischenverfügung ersetzt nicht die Eintragungsprüfung. Materielle Besonderheiten der Sparkassenvereinigung nicht auf jede Gesellschaft übertragen."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der Mini wurde vollständig auf Anmeldung, Nachweise und noch offenen Registervollzug geprüft.",
+    "reason": "Der Kurzprompt trennt eine fehlende Abschrift des Bestellungsbeschlusses von einer gerichtlichen Rücknahmeaufforderung wegen verneinter Eintragungsfähigkeit. Individuelle Text- und Primärquellenprüfung, kein Live-Modelltest.",
     "changes": [
-      "Nach fehlender Bestellung, Vollmacht oder Zustellungsangabe den beauftragten Antwortentwurf fertigstellen."
+      "Paragraf 382 Absatz 3 und 4 FamFG mit behebbaren und unbehebbaren Hindernissen verknüpft.",
+      "Aufhebung der Zwischenverfügung nicht mit automatischer Eintragung gleichgesetzt; Sparkassen-Sonderfall begrenzt.",
+      "Entscheidungsform Beschluss präzisiert.",
+      "Eigenständige Starts und fachbezogene Antwortfortsetzung ergänzt."
     ],
-    "sha256": "6838fee62110e43db092bf123fb1ee0a54994189f6818839100ab6b6a71f583d"
+    "sha256": "0df9a75802811c7f665216e95741b5bb7cedaff3087649d1fc6686264b4fbd12"
   },
   "selection": {
     "positive": [
@@ -63,10 +71,53 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die ganze Werkstatt wurde auf anwaltliche Registerarbeit einschließlich Firmen-, Umwandlungs- und Liquidationsfragen gelesen.",
+    "reason": "Die Werkstatt ergänzt zur Beanstandungsantwort den zulässigen Gegenstand der Zwischenverfügung und deren Beschwerdefolge anhand von II ZB 15/22. Individuelle Text- und Primärquellenprüfung, kein Live-Modelltest.",
     "changes": [
-      "Beanstandung, materielle Wirksamkeit und Vollzug getrennt; keine gerichtliche Entscheidung oder erfolgte Eintragung aus einem Entwurf behauptet."
+      "Paragraf 382 Absatz 3 und 4 FamFG mit behebbaren und unbehebbaren Hindernissen verknüpft.",
+      "Aufhebung der Zwischenverfügung nicht mit automatischer Eintragung gleichgesetzt; Sparkassen-Sonderfall begrenzt.",
+      "Entscheidungsform Beschluss präzisiert.",
+      "Formmangel und materielle Heilung, zeitversetzter Organwechsel, konsolidierte Satzung, Auslandsvertretungsbeleg und Entscheidungsform."
     ],
-    "sha256": "15364ccc8403b73b42c7982c166aac9457f1ce4e823336064955d46104d3cc36"
+    "sha256": "80a32728b87c3411deb83005fad2fb20223ad247bef260a3136f5c6949513419"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "handelsregister-praxis/README.md",
+      "handelsregister-praxis/handelsregister-praxis-schnellstart.md",
+      "handelsregister-praxis/handelsregister-praxis-werkstatt.md",
+      "quality/evals/handelsregister-praxis.json"
+    ],
+    "opening_change": "Nachreichbarer Nachweis, neue materielle Erklärung und rechtlich bestrittene Beanstandung werden bereits im Einstieg unterschieden.",
+    "norms": [
+      "FamFG Paragraf 382 Absatz 3 und 4",
+      "GmbHG Paragraf 39 Absatz 2",
+      "HGB Paragraf 12"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Beschluss vom 19.09.2023 - II ZB 15/22, Rn. 8 bis 12",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2022/II_ZB__15-22.pdf?__blob=publicationFile&v=1",
+        "application": "Bei aus Gerichtssicht unbehebbarem Eintragungshindernis keinen Rücknahmehinweis als Zwischenverfügung nach Paragraf 382 Absatz 4 FamFG ausgeben; Ablehnungsbeschluss nach Absatz 3 erforderlich.",
+        "limit": "Aufhebung einer unzulässigen Zwischenverfügung ersetzt nicht die Eintragungsprüfung. Materielle Besonderheiten der Sparkassenvereinigung nicht auf jede Gesellschaft übertragen."
+      }
+    ],
+    "remaining_limits": [
+      "Einzelne materielle Firmen-, Umwandlungs- und Auslandsurkundenfragen nicht durch diesen Verfahrensanker entschieden.",
+      "Desk- und Quellenprüfung; kein Live-Client- oder Live-Modelltest und keine vollständige Neuverifikation sämtlicher vorhandener Quellen.",
+      "Workflow-Ergänzung am 2026-09-23: individuelle Textprüfung, keine erneute Gesamtverifikation der bestehenden Entscheidungsanker; deren dokumentierte Quellen- und Zugriffsgrenzen bleiben bestehen."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Geschäftsführerwechsel, Satzungsänderung oder Beanstandung wählen.",
+      "Urkunden still lesen; Nachreichung oder Prüfung der gerichtlichen Auffassung anbieten.",
+      "Bestellte Registerantwort direkt fertigstellen."
+    ],
+    "continuation": "Neue Beschlussfassung -> Nachweis/Anlagen; abweichende Vertretungsregel -> Unterzeichnerkreis; Ablehnung -> Rechtsbehelf statt Nachreichung prüfen.",
+    "enrichment": "Formmangel und materielle Heilung, zeitversetzter Organwechsel, konsolidierte Satzung, Auslandsvertretungsbeleg und Entscheidungsform.",
+    "limits": "desk review; no live client execution"
   }
 }

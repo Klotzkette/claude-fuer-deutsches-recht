@@ -1,27 +1,63 @@
 {
   "schema_version": 1,
   "plugin": "word-legal-ai-plugin-and-skill-for-german-lawyers",
-  "reviewed_on": "2026-09-17",
-  "sources": [],
+  "reviewed_on": "2026-09-23",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__130a.html",
+      "checked_on": "2026-09-22",
+      "supports": "Amtlichen Text zu Paragraf 130a Absatz 3 ZPO gelesen; Bezug: Vereinbarte Änderungen, Kommentare und belegten Vortrag unmittelbar ausformulieren. Keine vollständige neue Verifikation sämtlicher weiterer Normen des Plugins."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/7-abr-23-23/",
+      "checked_on": "2026-09-22",
+      "supports": "BAG, Beschluss vom 22.01.2025, 7 ABR 23/23: Mitarbeiterversand verlangt qualifizierte Signatur der verantwortenden Person an der endgültigen Schriftsatzdatei; negativer technischer Vermerk allein nicht unwiderleglich. Amtlicher Volltext Rn. 33 bis 36 gelesen. Arbeitsgerichtlicher Formfall, keine allgemeine Signaturpflicht interner Entwürfe, keine Prüfung aller Vertragsklauseln oder technische Live-Signaturvalidierung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__138.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlichen Normtext vollständig gelesen: Wahrheitspflicht, Erklärung zum Gegnervortrag und Grenzen des Bestreitens mit Nichtwissen für den neuen Ablauf bei widersprüchlichen Lieferbelegen. Kein Beweislastnachweis für einen bestimmten materiellen Anspruch."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__130a.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlichen Normtext erneut gelesen: Dokumenteignung, Signatur und Übermittlungsweg sowie tatsächlicher Eingang getrennt. Keine technische Prüfung einer Datei oder Signatur und keine erneute BAG-Volltextprüfung."
+    }
+  ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Dokumentbearbeitung führt vom vorhandenen Entwurf über die konkret nötige Entscheidung zur vollständigen neuen Fassung. Layoutauftrag, rechtliche Änderung und tatsächlicher Export bleiben getrennt.",
+    "reason": "Kurzprompt vollständig erneut gelesen. Fachliche Einstiege und konkrete Konflikte bei Zahlungsfrist, Haftungsbezugsgröße und Lieferschein bis zur geänderten Fassung ergänzt; BAG- und Exportgrenzen bewahrt.",
     "changes": [
-      "Vertrag, Schriftsatz, Mandantenbrief und zweisprachige Fassung mit eigenen Arbeitsschritten versehen",
-      "Antworten in Text, Definitionen und Anlagen fortführen statt die Aufnahme neu zu beginnen",
-      "Echte Revisionen, Empfängerkopie, Metadaten und tatsächliche Sichtprüfung unterscheiden"
+      "Leerer Einstieg bietet Änderungsvereinbarung, Vertragsüberarbeitung oder bereinigten Schriftsatz; Dateien ohne Aufgabe still lesen.",
+      "Antwort zur verbindlichen Zahlungsfrist oder zum Lieferablauf ändert Klausel, Anlagen und Tatsachenvortrag."
     ],
-    "sha256": "491da44a256b12eb750cd67d3bba89ae66d8a252789b6b6fd0cbd598f07e6a61"
+    "sha256": "9dc7214b74c0b0aebda3f6e40798d37d907133827373b4fd591ac265ad54dc21",
+    "method": "desk_review",
+    "reviewed_on": "2026-09-23"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die Werkstatt verbindet konkrete Schreibaufträge mit Kommentarbearbeitung und Dateifertigstellung. Allgemeine Tabellenpflichten und nicht beauftragte rechtliche Umschreibungen wurden durch dokumentbezogene Entscheidungen ersetzt.",
+    "reason": "Werkstatt vollständig erneut gelesen. Vertragskommentare, widersprüchliche Prozessbelege und unterschriftsreife Rückläufe in konkrete Bearbeitungszweige umgesetzt; kein Word- oder Signaturtest.",
     "changes": [
-      "Vertragsregelungen, gerichtlichen Vortrag und Mandantenkommunikation getrennt behandeln",
-      "Inhaltliche Freigabe, Lesefassung, Änderungsverfolgung und Versand unterscheiden",
-      "Ohne Export vollständigen Text liefern; keine Dateierzeugung oder Sichtprüfung vortäuschen"
+      "Bezugsperiode einer Haftungsgrenze, Fristauslöser und widersprüchliche Term-Sheet-Angaben bis zur Klauselfassung klären.",
+      "Gegnerbehauptung, Mandantenerklärung und Anlage mit Paragraf 138 ZPO abgleichen; ungünstige Belege und Zustellungsdatum berücksichtigen.",
+      "Rücklauf und Empfängerkopie auf inhaltliche Abweichung, offene Klauselfreigabe und vertrauliche Kommentare getrennt prüfen."
     ],
-    "sha256": "c17bb956d3963842411c76d69fc2ad6ab718fe5500d6678fb995ea9f50b066c7"
+    "sha256": "d121c630fc78c5d2bbe456263d38af134808fcfe8bf77617e8cfa65bdac4bdca",
+    "method": "desk_review",
+    "reviewed_on": "2026-09-23"
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Änderungsvereinbarung, kommentierte Vertragsfassung oder bereinigten Schriftsatz anbieten.",
+      "Dateien ohne Aufgabe: Ausgangsfassung und Kommentare still lesen; nur bei offenem Ziel passende Fassungswege anbieten.",
+      "Klarer Auftrag: unmittelbar ausformulieren und nur maßgebliche Version oder entscheidende Sachentscheidung klären."
+    ],
+    "continuation": "Antwort zur Zahlungsfrist, Haftungsperiode oder Lieferung -> geänderte Vertragsklausel beziehungsweise korrigierter Schriftsatz samt Anlagenbezug.",
+    "enrichment": "Konflikte aus Term Sheet, Kommentaren und unterschriebenem Rücklauf sowie belastende Belege in vollständige Word-Zielfassungen überführen.",
+    "limits": "desk review; no live client execution"
   },
   "selection": {
     "positive": [
@@ -105,5 +141,34 @@
         }
       ]
     }
-  ]
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "word-legal-ai-plugin-and-skill-for-german-lawyers/README.md",
+      "word-legal-ai-plugin-and-skill-for-german-lawyers/word-legal-ai-plugin-and-skill-for-german-lawyers-werkstatt.md",
+      "word-legal-ai-plugin-and-skill-for-german-lawyers/word-legal-ai-plugin-and-skill-for-german-lawyers-schnellstart.md",
+      "quality/evals/word-legal-ai-plugin-and-skill-for-german-lawyers.json"
+    ],
+    "opening_change": "Vereinbarte Änderungen, Kommentare und belegten Vortrag unmittelbar ausformulieren",
+    "norms": [
+      "Paragraf 130a Absatz 3 ZPO",
+      "Paragraf 46c Absatz 3 ArbGG",
+      "Paragraf 126a BGB"
+    ],
+    "decisions": [
+      {
+        "citation": "BAG, Beschluss vom 22.01.2025, 7 ABR 23/23",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/7-abr-23-23/",
+        "application": "Mitarbeiterversand verlangt qualifizierte Signatur der verantwortenden Person an der endgültigen Schriftsatzdatei; negativer technischer Vermerk allein nicht unwiderleglich.",
+        "limit": "Amtlicher Volltext Rn. 33 bis 36 gelesen. Arbeitsgerichtlicher Formfall, keine allgemeine Signaturpflicht interner Entwürfe, keine Prüfung aller Vertragsklauseln oder technische Live-Signaturvalidierung."
+      }
+    ],
+    "remaining_limits": [
+      "Workflow-Review: kein DOCX-Export, keine Sichtprüfung oder Signaturvalidierung; bestehende BAG-Prüfgrenze unverändert, keine neue Vollprüfung der Klauselbibliothek.",
+      "Amtlicher Volltext Rn. 33 bis 36 gelesen. Arbeitsgerichtlicher Formfall, keine allgemeine Signaturpflicht interner Entwürfe, keine Prüfung aller Vertragsklauseln oder technische Live-Signaturvalidierung.",
+      "Kein Live-Word-Export, kein Änderungsnachverfolgungs- oder Signaturtest; vorhandene materielle Vertragsbeispiele nicht sämtlich neu recherchiert.",
+      "Individuelle redaktionelle Akten- und Quellenprüfung (desk review), kein Live-Client- oder Modelltest."
+    ]
+  }
 }
