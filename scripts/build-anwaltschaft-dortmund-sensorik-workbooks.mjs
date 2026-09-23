@@ -4,7 +4,9 @@ import os from 'node:os';
 import path from 'node:path';
 import assert from 'node:assert/strict';
 import { fileURLToPath } from 'node:url';
-import { Workbook, SpreadsheetFile, requireRuntime as runtime } from './akten-workbook-runtime.mjs';
+import { loadWorkbookRuntime } from './akten-workbook-runtime.mjs';
+
+const { Workbook, SpreadsheetFile, requireRuntime: runtime } = await loadWorkbookRuntime(['jszip', 'xml-js']);
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const qa = await fs.mkdtemp(path.join(os.tmpdir(), 'dortmund-sensorik-xlsx-'));

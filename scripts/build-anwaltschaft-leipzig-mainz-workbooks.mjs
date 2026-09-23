@@ -3,7 +3,9 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { Workbook, SpreadsheetFile } from './akten-workbook-runtime.mjs';
+import { loadWorkbookRuntime } from './akten-workbook-runtime.mjs';
+
+const { Workbook, SpreadsheetFile } = await loadWorkbookRuntime();
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const leipzig = path.join(root, 'testakten/anwaltschaft-lieferstreit-kaffeeroesterei-leipzig');
 const mainz = path.join(root, 'testakten/anwaltschaft-arbeitsrecht-vertrieb-mainz');

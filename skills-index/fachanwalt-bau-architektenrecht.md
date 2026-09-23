@@ -1,6 +1,6 @@
 # fachanwalt-bau-architektenrecht
 
-**123 Skills** · Stand `v445.1.1`
+**123 Skills** · Stand `v445.1.2`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../fachanwalt-bau-architektenrecht/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

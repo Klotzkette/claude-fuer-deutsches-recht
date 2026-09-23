@@ -5,7 +5,9 @@ import os from 'node:os';
 import assert from 'node:assert/strict';
 import { fileURLToPath } from 'node:url';
 import { execFileSync } from 'node:child_process';
-import { Workbook, SpreadsheetFile, requireRuntime } from './akten-workbook-runtime.mjs';
+import { loadWorkbookRuntime } from './akten-workbook-runtime.mjs';
+
+const { Workbook, SpreadsheetFile, requireRuntime } = await loadWorkbookRuntime(['jszip', 'xml-js']);
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const p = path.join(root, 'testakten/corporate-contract-law-projektvertrag-automation-augsburg');

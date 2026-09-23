@@ -1,3 +1,9 @@
+# v445.1.2 - Anwaltschaft und Wirtschaftsverträge
+
+Veröffentlichung beider neuer Praxisplugins mit zehn beziehungsweise zwanzig Skills, je einer ausführlichen Werkstatt, einem Schnellstart und einem Hauptproblem-Prompt. Sechs individuelle Arbeitsakten enthalten 149 Originalunterlagen und 271 Gesamt-PDF-Seiten sowie die beiden flachen ZIP-Varianten.
+
+Enthalten sind die fachlichen Gegenprüfungen, aktualisierten Verzeichnisse und die Layout- und Portabilitätskorrekturen der vorangegangenen Stände. Der Tabellen-Erzeuger prüft Zusatzpakete jetzt je Verbraucher: Leipzig und Mainz benötigen keine ungenutzten ZIP-/XML-Pakete. Die Regression prüft sowohl diese Minimalinstallation als auch das gezielte Fehlschlagen bei tatsächlich benötigten fehlenden Paketen.
+
 # v445.1.1 - Portable Aktenwerkzeuge
 
 Anwaltschaft generell mit zehn Skills und Corporate Contract Law mit zwanzig Skills werden gemeinsam mit je drei individuellen Arbeitsakten und den vollständigen Downloadpaketen veröffentlicht. Werkstatt-, Schnellstart- und Hauptproblem-Prompts aus v445.1.0 sind enthalten. Die Fallinhalte bleiben unverändert.
