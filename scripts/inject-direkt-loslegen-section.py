@@ -37,6 +37,11 @@ DISALLOWED_MIXED = chr(75) + "i"
 PROSE_REPLACEMENTS = {
     "Wirtschaftsvertraege": "Wirtschaftsverträge",
     "Geschaeftsauftrag": "Geschäftsauftrag",
+    "Geschaefte": "Geschäfte",
+    "Geschaeftsentscheidungen": "Geschäftsentscheidungen",
+    "Liquiditaetsfragen": "Liquiditätsfragen",
+    "Nachtraege": "Nachträge",
+    "ausfuehrende": "ausführende",
     "Ansprueche": "Ansprüche",
     "Vertraege": "Verträge",
     "vollstaendigen": "vollständigen",
@@ -276,6 +281,8 @@ def compact_prompt_fragment(value: str, limit: int = 210) -> str:
 HANDCURATED_FIRST_PRODUCTS = {
     "anwaltschaft-generell": "das konkret beauftragte Mandanten- oder Gegnerschreiben, die Vertragsänderung oder den Schriftsatz aus den vorhandenen Belegen; kläre nur die dafür entscheidenden offenen Tatsachen",
     "corporate-contract-law": "einen vollständigen Wirtschaftsvertrag, eine konkrete Gegenfassung oder den vereinbarten Nachtrag; verbinde Leistungsbeschreibung, Vergütung, Risikoverteilung und Anlagen widerspruchsfrei",
+    "vertragserstellung": "den bestellten Vertrag oder Nachtrag aus Angebot, Leistungsunterlagen und Verhandlungsstand; kläre nur die noch offene wirtschaftliche Entscheidung und führe denselben Entwurf bis zur Endfassung fort",
+    "wirtschaftsanwalt": "das beauftragte Schreiben oder die Vereinbarung für das Unternehmen; trenne Gesellschaft und handelnde Personen, prüfe die tatsächlich berührten Zahlungs-, Vertrags- und Organfragen und arbeite nach Rückantwort am selben Dokument weiter",
     "betriebskosten-hausverwaltung": "eine aus Mietvertrag, Rechnungen, Gutschriften, Vorauszahlungen und Heizverbrauch nachgerechnete Betriebskostenabrechnung oder den beauftragten Antwortbrief",
     "geldwaeschepraevention-aml-kyc": "einen belegten Prüfvermerk zum konkreten Mandat, Kaufpreis oder Zahlungsvorgang samt gezielter Nachforderung und gegebenenfalls sofortiger Meldeprüfung",
     "notariat-alltag": "einen aus den Kundenunterlagen vorbereiteten Urkunden- oder Registerentwurf mit Beteiligtenblatt und offenen Freigaben für den Notar",
@@ -449,6 +456,11 @@ def block(plugin: dict, directory: Path, akten_slugs: list[str], marketplace_cou
     testakten = testakten_section(plugin_name, directory, akten_slugs)
     testakten_block = f"\n\n{testakten}" if testakten else ""
     quickstart = quickstart_section(plugin_name, directory)
+    skill_note = "Die Skill-Liste bildet den Quellbestand ab. Im installierten Paket werden umfangreiche Spezialserien teilweise über einen Fachrouter bei Bedarf geladen und erscheinen dann nicht als eigene auswählbare Skills. Beim manuellen Einsatz eines einzelnen Skills müssen zusätzlich benötigte Referenzen oder Werkzeuge verfügbar sein."
+    skill_note_en = "The skill index lists the source collection. In the installed package, some specialist series are accessed through a topic router rather than separate menu entries. A standalone skill may need additional reference files or tools. Choose one entry point, then add only what the matter requires."
+    if plugin_name in {"vertragserstellung", "wirtschaftsanwalt"}:
+        skill_note = "Alle zehn Skills sind im Plugin unmittelbar enthalten. Der Hauptskill bearbeitet den Auftrag selbst; die übrigen Skills vertiefen konkrete Teilfragen. Bei einem einzelnen Skill-Download müssen seine verlinkten Referenzen zusätzlich verfügbar sein."
+        skill_note_en = "All ten skills are included directly in the plugin. The main skill carries out the assignment; the others address specific issues. A downloaded individual skill also needs its linked references."
     return ensure_download_notices(f"""{BEGIN}
 ## Was ist das hier?
 
@@ -470,9 +482,9 @@ Links mit „MD herunterladen / Download MD“ starten einen Dateidownload. Navi
 
 Links labelled “MD herunterladen / Download MD” start a file download. Navigation links to README and index pages remain normal GitHub pages.
 
-Die Skill-Liste bildet den Quellbestand ab. Im installierten Paket werden umfangreiche Spezialserien teilweise über einen Fachrouter bei Bedarf geladen und erscheinen dann nicht als eigene auswählbare Skills. Beim manuellen Einsatz eines einzelnen Skills müssen zusätzlich benötigte Referenzen oder Werkzeuge verfügbar sein.
+{skill_note}
 
-The skill index lists the source collection. In the installed package, some specialist series are accessed through a topic router rather than separate menu entries. A standalone skill may need additional reference files or tools. Choose one entry point, then add only what the matter requires.
+{skill_note_en}
 
 {navigation(plugin_name, directory)}
 

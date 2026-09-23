@@ -40,3 +40,5 @@ fachanwalt-it-recht
 robotik-recht
 anwaltschaft-generell
 corporate-contract-law
+vertragserstellung
+wirtschaftsanwalt

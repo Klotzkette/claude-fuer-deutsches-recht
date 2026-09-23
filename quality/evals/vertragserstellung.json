@@ -1,0 +1,557 @@
+{
+  "schema_version": 1,
+  "plugin": "vertragserstellung",
+  "reviewed_on": "2026-09-23",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/BJNR001950896.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlicher Gesamttext zugaenglich; gezielte Normgruppen zu Form, Abschluss, Vertretung, AGB und Werkvertrag gelesen. Paragrafen 276, 640 und 648 nach fehlgeschlagenen Einzelabrufen im Gesamttext gelesen. Keine Gesamtpruefung aller Normen oder historischer Fassungen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__310.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlicher Einzeltext gelesen: Paragraf 308 Nummern 1a und 1b im gewoehnlichen B2B-Bereich nicht pauschal ausgeschlossen; Paragraf 307 bleibt relevant."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__271a.html",
+      "checked_on": "2026-09-23",
+      "supports": "Einzelnorm gelesen: besondere Zahlungs- und Pruefungsfristen, oeffentliche Auftraggeber, Ausnahmen und weitere Inhaltskontrolle getrennt beachten."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__766.html",
+      "checked_on": "2026-09-23",
+      "supports": "Einzelnorm gelesen: Schriftform der Buergschaft und Ausschluss elektronischer Form; Ausnahme gesondert pruefen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/BJNR002190897.html",
+      "checked_on": "2026-09-23",
+      "supports": "Paragraf 350 im amtlichen Gesamttext gelesen: Handelsgeschaeft auf Seite des Buergen beziehungsweise Verpflichteten entscheidend. Einzelabruf zeitueberschritten."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/__377.html",
+      "checked_on": "2026-09-23",
+      "supports": "Einzelnorm gelesen: beiderseitiger Handelskauf, rechtzeitige Absendung nach Absatz 4, verdeckte Maengel und Arglistgrenze."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__35.html",
+      "checked_on": "2026-09-23",
+      "supports": "Einzelnorm gelesen: Geschaeftsfuehrer und gemeinschaftliche Vertretung bei mehreren Geschaeftsfuehrern vorbehaltlich abweichender Regelung. Kein konkreter Vollmachtsnachweis."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/BJNR012730965.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlicher Gesamttext zugaenglich, insbesondere Paragrafen 29 und 31 gelesen. Keine bestaetigte Rechtekette; Einzelabruf zu Paragraf 31 zeitueberschritten."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/geschgehg/BJNR046610019.html",
+      "checked_on": "2026-09-23",
+      "supports": "Paragraf 2 im amtlichen Gesamttext gelesen: angemessene tatsaechliche Geheimhaltungsmassnahmen als Voraussetzung. Kein Nachweis solcher Massnahmen im Mandat."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32016R0679",
+      "checked_on": "2026-09-23",
+      "supports": "Direktdarstellungen nicht als vollstaendiger lesbarer Text zugaenglich. Keine vollstaendige aktuelle EUR-Lex-Verifikation behauptet."
+    },
+    {
+      "url": "https://grsth.bundesfinanzministerium.de/ao/2023/Datenschutz-Grundverordnung/inhalt.html",
+      "checked_on": "2026-09-23",
+      "supports": "Artikel 28 in amtlicher BMF-Ausgabe AO 2023 gelesen, besonders Weisungsausnahme, Unterauftraege und Rueckgabe oder Loeschung. Datierte Wiedergabe, kein Nachweis aktueller Vollpruefung aller DSGVO-Artikel."
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2017-1-19&Gericht=bgh&anz=22&nr=77407&pos=14",
+      "checked_on": "2026-09-23",
+      "supports": "Begrenzter Anker fuer Maengelrechte grundsaetzlich nach Abnahme und Ausnahmen beim Abrechnungsverhaeltnis. Amtlich indexierte Leitsaetze gelesen. Direktabruf 403, kein gelesener Volltext, keine Randnummer bestaetigt. Keine Rechtlosigkeit vor Abnahme und keine automatische Uebertragung auf Kauf oder Dienstleistung."
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2014-3-20&Gericht=bgh&anz=30&nr=67527&pos=21",
+      "checked_on": "2026-09-23",
+      "supports": "Blosse Verhandlungsbestaetigung belegt Aushandeln nicht; AGB-Recht nicht unabhaengig von seinen Voraussetzungen abwaehlbar. Amtlich indexierte Leitsaetze gelesen. Direktvolltext nicht bestaetigt, keine Randnummer verifiziert. Konkreter Generalunternehmervertrag, keine universelle Sicherheitsquote oder gerichtliche Freigabe neuer Klauseln."
+    }
+  ],
+  "mini_review": {
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review",
+    "verdict": "revised",
+    "reason": "Eigenstaendigen Entwurfsweg vollstaendig redaktionell gelesen und auf 7391 UTF-8-Bytes sowie 7281 Zeichen gekuerzt. Keine Live-Ausfuehrung.",
+    "changes": [
+      "Drei Eingangsmodi, konkrete Rueckfragen und Fortsetzung derselben Fassung erhalten.",
+      "Abnahme, kaufmaennische Ruege, B2B-AGB und Handlungsschranke mit praezisen Grenzen formuliert."
+    ],
+    "sha256": "9af14af22f2fc7afd86a3312034859053e5c13c5695bd40473e0e4f41599ba9b"
+  },
+  "workshop_review": {
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review",
+    "verdict": "revised",
+    "reason": "Fachliche Entscheidungswege und vollstaendige Klauselbeispiele redaktionell gegengelesen; Dopplungen gekuerzt, eine H1 hergestellt, 64753 UTF-8-Bytes. Keine ausgefuehrte Testakte.",
+    "changes": [
+      "Leistung, Mitwirkung, Preis, Haftung, Exit, Daten, Rangfolge, Nachtrag und Verhandlung eigenstaendig verbunden.",
+      "Konkrete Fortsetzung fuer Wartungszusage und zusaetzliches Geraet ausformuliert.",
+      "Amtlichen Normtext, indexierte Leitsaetze und gesperrte Volltexte unterschieden; BMF-Ausgabe als datierte Zusatzquelle vermerkt."
+    ],
+    "sha256": "efa55662abb5474a706776e09f63a32fa8d2a1abe056abf0338520ae47b781bc"
+  },
+  "focus_review": {
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review",
+    "verdict": "revised",
+    "reason": "Hauptproblem und selbst ausfuehrenden Hauptskill auf denselben Einzelgeschaeftsauftrag, Bindungskollision, Folgeaenderungen und Ergebnisabschluss gegengelesen. Keine Live-Ausfuehrung.",
+    "changes": [
+      "Hauptskill produziert den Vertrag selbst und verlinkt neun Geschwisterskills nur fuer konkrete Fachfragen.",
+      "Hauptproblem bleibt eigenstaendig und unter 7500 UTF-8-Bytes sowie Zeichen; kein elfter Skill."
+    ],
+    "prompt_path": "vertragserstellung/vertragserstellung-hauptproblem.md",
+    "prompt_sha256": "4bc6955a14c0b71fbee05fc994dd878f11ccad30b9796f396299e0b83a56bcde",
+    "skill_path": "vertragserstellung/skills/vertrag-vom-auftrag-bis-zur-endfassung-erstellen/SKILL.md",
+    "skill_sha256": "5b5bfd0b6e6b3f77e088a0e842a1c7682a2565a9b7e25a9d6f78e9cca7a716ca"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-23",
+    "files": [
+      "vertragserstellung/vertragserstellung-schnellstart.md",
+      "vertragserstellung/vertragserstellung-werkstatt.md",
+      "vertragserstellung/vertragserstellung-hauptproblem.md",
+      "vertragserstellung/skills/vertrag-vom-auftrag-bis-zur-endfassung-erstellen/SKILL.md"
+    ],
+    "opening_change": "Deutsches mittelstaendisches Einzelgeschaeft als konkreter Eingang; vorhandene Unterlagen intern lesen, Bindung und Leistungsversprechen klaeren, bei klarem Auftrag direkt schreiben. Keine neue Mandatsaufnahme nach Antwort.",
+    "norms": [
+      "Paragrafen 125 bis 127, 145 bis 150, 164 und 177 BGB; Paragraf 35 GmbHG",
+      "Paragrafen 271a, 276, 305 bis 310 BGB, insbesondere Paragraf 308 Nummern 1a und 1b im B2B-Bereich",
+      "Paragrafen 314, 433, 611, 631 bis 643, 648 und 648a BGB; Paragraf 377 HGB einschliesslich Absatz 4",
+      "Paragrafen 765 bis 767 BGB und Paragraf 350 HGB",
+      "Paragrafen 29 und 31 UrhG, Paragraf 2 GeschGehG, Artikel 28 DSGVO mit dokumentierter Stand- und Zugriffsgrenze"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 19.01.2017, Az. VII ZR 301/13, amtlich indexierte Leitsaetze",
+        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2017-1-19&Gericht=bgh&anz=22&nr=77407&pos=14",
+        "application": "Begrenzter Anker fuer Maengelrechte grundsaetzlich nach Abnahme und Ausnahmen beim Abrechnungsverhaeltnis. Amtlich indexierte Leitsaetze gelesen.",
+        "limit": "Direktabruf 403, kein gelesener Volltext, keine Randnummer bestaetigt. Keine Rechtlosigkeit vor Abnahme und keine automatische Uebertragung auf Kauf oder Dienstleistung."
+      },
+      {
+        "citation": "BGH, Urteil vom 20.03.2014, Az. VII ZR 248/13, amtlich indexierte Leitsaetze",
+        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2014-3-20&Gericht=bgh&anz=30&nr=67527&pos=21",
+        "application": "Blosse Verhandlungsbestaetigung belegt Aushandeln nicht; AGB-Recht nicht unabhaengig von seinen Voraussetzungen abwaehlbar. Amtlich indexierte Leitsaetze gelesen.",
+        "limit": "Direktvolltext nicht bestaetigt, keine Randnummer verifiziert. Konkreter Generalunternehmervertrag, keine universelle Sicherheitsquote oder gerichtliche Freigabe neuer Klauseln."
+      }
+    ],
+    "remaining_limits": [
+      "Desk-Review und gezielte Primaerquellenrecherche, keine Live-Modelltests und keine vollstaendige Ausfuehrung der drei zugeordneten Akten.",
+      "Beide BGH-Anker nur amtlich indexierte Leitsaetze; Direktvolltexte nicht bestaetigt, keine Randnummern verifiziert.",
+      "EUR-Lex-Direktabruf eingeschraenkt; Artikel 28 in datierter amtlicher BMF-Ausgabe gelesen. Aktuellen Stand vor tragender Mandatsverwendung pruefen.",
+      "Keine Literatur aus Modellwissen, keine allgemeine sichere Prozentgrenze fuer Sicherheiten oder Vertragsstrafen, keine technischen oder wirtschaftlichen Tatsachenpruefungen behauptet."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Ohne Unterlagen: konkrete Frage nach Vertragsseite, einzelner Lieferung oder Wartung, geschuldeter Leistung, Preis und bekanntem Termin.",
+      "Unterlagen ohne Auftrag: intern lesen und passende Zielwahl zwischen neuem Vertrag, Antwort auf abweichende Bestellung oder Nachtrag.",
+      "Klarer Auftrag: unmittelbar ausformulieren, nur entscheidende Luecken fragen und unabhaengige Teile fertigstellen."
+    ],
+    "continuation": "Antwort zur Wartungszusage veraendert in derselben Fassung Leistung, Messung und Rechtsfolgen; neue Maschine veraendert bestimmte Anlage und bestaetigten Preis, nicht ungefragt Laufzeit. Neue entscheidende Luecke fuehrt zur gezielten Folgefrage, nicht zur Neuaufnahme.",
+    "enrichment": "Neun konkrete Fachwege vertiefen nur den aktuellen Engpass; Hauptskill liefert selbst. Jede Fachbearbeitung muendet in Klausel, Vertrag, Nachtrag oder Verhandlungsfassung statt Routerhinweis.",
+    "limits": "Nur desk_review, kein aufgezeichneter Mehr-Runden-Dialog. Keine Erklaerung, Annahme, Unterschrift, Versendung, Kuendigung, Verzicht oder Datenloeschung ohne konkrete Autorisierung."
+  },
+  "selection": {
+    "target_skill": "vertrag-vom-auftrag-bis-zur-endfassung-erstellen",
+    "positive": [
+      "Erstellen Sie fuer unsere Druckerei aus Angebot und Leistungsanlage einen vollstaendigen deutschen B2B-Wartungsvertrag und arbeiten Sie meine Antworten in denselben Entwurf ein.",
+      "Setzen Sie den bereits begonnenen Liefervertrag fuer unser einzelnes Maschinengeschaeft nach der bestaetigten Preis- und Leistungsentscheidung bis zur bereinigten Endfassung fort."
+    ],
+    "negative": [
+      "Pruefen Sie ausschliesslich, ob die private Buergschaft elektronisch unterschrieben werden darf, und schreiben Sie nur die benoetigte Formanfrage.",
+      "Strukturieren Sie einen internationalen Konzernvertrieb mit Handelsvertretern, mehreren Rechtsordnungen und weltweiten Rahmenlieferketten."
+    ]
+  },
+  "testakten": [
+    {
+      "path": "testakten/corporate-contract-law-rahmenlieferung-sensorik-aachen",
+      "status": "wiederverwendeter Bestand",
+      "scope": "Abgegrenzte Einzelbestell-, Preis- und Anlagenfragen, keine vollstaendige Neuarchitektur des Lieferrahmens."
+    },
+    {
+      "path": "testakten/corporate-contract-law-projektvertrag-automation-augsburg",
+      "status": "wiederverwendeter Bestand",
+      "scope": "Projektleistung, Mitwirkung, Abnahme und begrenzte Nachtragsfragen."
+    },
+    {
+      "path": "testakten/vertragserstellung-wartungsvertrag-druckerei-kassel",
+      "status": "neue zentral erstellte Akte",
+      "scope": "Wartungsvertrag; Erstellung und Aktenqualitaet getrennt, hier keine Live-Bearbeitung behauptet."
+    }
+  ],
+  "cases": [
+    {
+      "id": "hauptvertrag-nach-serviceantwort-fortsetzen",
+      "target_skill": "vertrag-vom-auftrag-bis-zur-endfassung-erstellen",
+      "request": "Erstellen Sie ergebnis.md als vollstaendigen Wartungsvertragsentwurf ohne Versand. Auftraggeber Druck GmbH und Auftragnehmer Service GmbH, beide mit belegter Einzelvertretung. Vertragsbeginn 01.01.2027, fest bis 31.12.2027 ohne Verlaengerung. Maschine D-7 am Standort Kassel, vierteljaehrliche Inspektion und Stoerungsanalyse. Neu bestaetigte Antwort: nur Beginn qualifizierter Analyse binnen vier Servicestunden Montag bis Freitag 9 bis 17 Uhr, keine Wiederherstellungsgarantie; Feiertage in Hessen ausgenommen. Reparatur und Ersatzteile nur separat nach Kostenangebot. Preis neu 8400 EUR netto pro Jahr, monatlich nachtraeglich abgerechnet, Zahlung 14 Tage nach Rechnungszugang. Keine Individualhaftungsbegrenzung gewuenscht, gesetzliche Rechte bleiben. Im bisherigen Entwurf stehen noch 9600 EUR und garantierte Reparatur binnen vier Stunden. Fuehren Sie denselben Stand ohne neue Aufnahme fort; fehlende Anschriften duerfen markiert bleiben.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Der vollstaendige operative Entwurf enthaelt 8400 EUR jaehrlich und 700 EUR monatlich; alter Preis wird nicht fortgeschrieben oder doppelt abgerechnet.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Leistung und Folgen knuepfen an qualifizierten Analysebeginn an; weder im Haupttext noch in Zusatzklauseln bleibt eine Vierstunden-Reparaturgarantie.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Inspektion, separate Reparaturbeauftragung, feste Laufzeit und 14-Tage-Zahlung sind als Pflichten ausformuliert; keine automatische Verlaengerung oder neue Haftungsgrenze wird erfunden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Antwort wird in denselben Vertrag integriert, statt nur eine Analyse oder neue Aufnahme zu liefern; kein Versand oder Vertragsschluss behauptet.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gmbh-gesamtvertretung-ohne-einzelvollmacht",
+      "target_skill": "eckpunkte-form-und-vertretung-festlegen",
+      "request": "Erstellen Sie ergebnis.md als Vertragsanfang und getrennte konkrete Rueckfrage zur Zeichnung. Kunde Nord GmbH, Lieferant West GmbH. Der gelesene Registerauszug der Nord GmbH verlangt gemeinsame Vertretung der Geschaeftsfuehrer Berger und Lang. Berger soll allein unterschreiben; eine Einzelvollmacht oder geaenderte Satzungsregel liegt nicht vor. Preis und Leistungsbeschreibung sind bestaetigt. Kein schon geschlossener Vertrag und keine Genehmigung belegt. Bitte keine gesamte Vertragsneuverhandlung.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Der Parteiblock nennt die Nord GmbH als Partei und stellt Berger nicht als nachgewiesen allein vertretungsberechtigt dar.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die gezielte Rueckfrage verlangt gemeinsame Zeichnung oder konkreten Nachweis passender Vollmacht, nicht pauschal alle Unternehmensunterlagen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Ausformulierter Vertragsanfang wird geliefert; Einigung, Genehmigung und Vollmacht werden nicht erfunden und der gesamte Entwurfsauftrag nicht blockiert.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "servicestunden-statt-reparaturerfolg",
+      "target_skill": "leistung-mitwirkung-und-abnahme-ausformulieren",
+      "request": "Formulieren Sie ergebnis.md als vollstaendige Ersatzklausel fuer Stoerungsanalyse. Vereinbart ist Beginn qualifizierter Analyse binnen vier Servicestunden nach Eingang einer aussagekraeftigen Meldung im Serviceportal. Servicefenster Montag bis Freitag 9 bis 17 Uhr, keine Feiertage im Beispielszeitraum. Meldung Freitag um 16 Uhr, erforderlicher Zugriff ist durchgehend bereitgestellt. Keine Reparaturzusage, kein Werkabnahmeverfahren. Erlaeutern Sie separat den Fristablauf fuer dieses Beispiel.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die operative Klausel schuldet qualifizierten Analysebeginn und keine Reparatur oder Wiederherstellung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die Berechnung ergibt Montag 12 Uhr: eine Stunde am Freitag, drei Stunden am Montag; kein Fristablauf Freitag 20 Uhr oder Montag 13 Uhr.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Meldeeingang, Servicefenster und Weiterzaehlung sind vollstaendig geregelt; kein unbestelltes Abnahmeverfahren oder freies Pausenrecht wird eingefuegt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "zahlungsplan-und-b2b-langfrist",
+      "target_skill": "preis-zahlung-und-sicherung-vereinbaren",
+      "request": "Erstellen Sie ergebnis.md mit vollstaendiger Verguetungsklausel und kurzer getrennter Begruendung. Einzelprojekt 24000 EUR netto; 30 Prozent Vorschuss nach Vertragsschluss und Rechnung, Rest nach Abnahme und Schlussrechnung. Beide Zahlungen 30 Tage nach dem jeweiligen Rechnungszugang bei erfuellter Leistungsvoraussetzung. Die vorformulierten Kundenbedingungen verlangen dagegen 120 Tage fuer die Schlusszahlung. Kein oeffentlicher Auftraggeber, keine besondere Rechtfertigung und kein Aushandeln. Der Kunde behauptet, Paragraf 308 BGB gelte insgesamt nie zwischen Unternehmern. Der neue Vertrag soll die widersprechende Bedingung ausdruecklich ausschliessen; keine Sicherheit zusaetzlich gewuenscht.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Vorschuss 7200 EUR und Rest 16800 EUR sind richtig berechnet; Vorschuss wird auf den Gesamtpreis angerechnet.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die operative Neuregel bestimmt 30 Tage, jeweiligen Rechnungseingang, Abnahme fuer den Rest und Vorrang vor der widersprechenden 120-Tage-Klausel.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die pauschale B2B-Ausnahme wird anhand Paragraf 310 Absatz 1 fuer Nummern 1a und 1b korrigiert; Paragraf 271a und Inhaltskontrolle werden konkret angesprochen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Keine automatische geltungserhaltende Reduktion der Altregel und keine zusaetzliche nicht beauftragte Buergschaft.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pauschalhaftung-nicht-nur-betrag-aendern",
+      "target_skill": "haftung-und-maengelrechte-abstimmen",
+      "request": "Schreiben Sie ergebnis.md als vollstaendige Ersatzklausel samt knapper Risikonotiz aus Sicht eines Wartungsanbieters. Vorformulierte Ausgangsklausel: Jede Haftung einschliesslich Vorsatz und Personenschaeden ist auf 500 EUR je Jahr beschraenkt; Maengelrechte sind ebenfalls ausgeschlossen. Jahrespreis 10800 EUR, produktionskritische Maschine. Gewuenscht sind vernuenftige Haftungsregeln und gesetzliche Maengelrechte. Schadensrisiken und Versicherungsumfang sind noch nicht beziffert. Kein beliebiger numerischer Deckel soll erfunden werden.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die pauschale Beschraenkung fuer Vorsatz und Personenschaeden wird nicht beibehalten; Ausnahmen werden operativ ausformuliert.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die Klausel unterscheidet Maengelrechte und Schadensersatz sowie grobe und einfache Fahrlaessigkeit und wesentliche Pflichten; kein Totalausschluss der Kernpflicht.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Es wird kein vermeintlich sicherer Betrag oder Deckungsmultiplikator erfunden; konkret fehlende Risikogroesse wird getrennt benannt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Gesetzliche Maengelrechte bleiben gemaess Auftrag erhalten; weder Versicherungsschutz noch gerichtliche Freigabe wird behauptet.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "freier-werkausstieg-anteilige-vermutung",
+      "target_skill": "laufzeit-und-vertragsende-regeln",
+      "request": "Erstellen Sie ergebnis.md als vollstaendige Klausel zur freien Kuendigung eines Werkvertrags durch den Besteller mit Abrechnung nach Paragraf 648 BGB und separatem Rechenbeispiel. Gesamtverguetung 60000 EUR, davon 40000 EUR erbrachter und 20000 EUR noch nicht erbrachter Teil. Die Beispieleinstufung ist unstreitig. Keine tatsaechlichen Anrechnungswerte bekannt. Der Nutzer meint, die gesetzliche Vermutung ergebe pauschal 3000 EUR zusaetzlich zur Gesamtverguetung. Eine Kuendigung selbst ist nicht beauftragt.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die Vermutung bezieht sich auf 20000 EUR noch nicht erbrachten Teil und ergibt 1000 EUR, nicht 3000 EUR auf den Gesamtvertrag.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die Klausel ordnet vereinbarte Verguetung und gesetzliche Anrechnung ersparter Aufwendungen beziehungsweise anderweitigen Erwerbs korrekt zu; die Vermutung ist keine unabdingbare Obergrenze.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Abrechnung und Leistungsstand sind ausformuliert; keine Kuendigung oder abschliessende tatsaechliche Forderung wird ohne Werte behauptet.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rueckgabe-vor-loeschung-und-nachfolgerrechte",
+      "target_skill": "daten-nutzungsrechte-und-geheimhaltung-regeln",
+      "request": "Erstellen Sie ergebnis.md als vollstaendige Exit-Ergaenzung. Auftraggeber ist Verantwortlicher, Dienstleister verarbeitet personenbezogene Wartungsprotokolle nachweislich ausschliesslich in dessen Auftrag. Rollen sind geklaert. Der Verantwortliche waehlt Rueckgabe im vorhandenen XML-Format binnen 14 Tagen nach Ende, verschluesselt an seine benannte Kontaktperson. Danach Loeschung der Kopien, vorbehaltlich konkret gesetzlich vorgeschriebener Speicherung. Alttext erlaubt Dienstleisterwahl zwischen sofortiger Loeschung und Rueckgabe. Das bezahlte Handbuch soll dauerhaft auch durch einen zur Geheimhaltung verpflichteten Nachfolger genutzt und bearbeitet werden; entsprechende Rechte des Dienstleisters sind belegt. Keine realen Daten uebermitteln.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Wahlrecht liegt beim Verantwortlichen; der Dienstleister darf die gewaehlte Rueckgabe nicht durch sofortige Loeschung ersetzen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "XML, 14 Tage, geschuetzte Uebergabe, anschliessende Kopienloeschung und begrenzte gesetzliche Speicherung werden operativ geregelt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die erforderliche Handbuchnutzung und Bearbeitung durch einen geheimhaltungsgebundenen Nachfolger gelten ueber das Vertragsende hinaus, ohne Uebertragung des Urheberrechts selbst.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Keine reale Datenuebermittlung oder Loeschung und keine Behauptung einer technisch bereits geprueften Sicherheitsumsetzung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "festpreis-gegen-agb-aushandlungsfiktion",
+      "target_skill": "vertragsrangfolge-und-agb-bereinigen",
+      "request": "Erstellen Sie ergebnis.md als bereinigte Rangfolge- und Preisregel mit kurzer separater Begruendung. Fuer ein Einzelgeschaeft ist ein Preis von 18000 EUR netto unveraenderlich bis zur vollstaendigen vereinbarten Lieferung bestaetigt. Die beigefuegten Anbieter-AGB erlauben jederzeitige freie Preissteigerung und erklaeren pauschal alle Klauseln fuer individuell ausgehandelt. Tatsaechlich wurde nur der Preis ausgehandelt, nicht die anderen Klauselkerne. Anlage Leistung vom 10.09.2026 Version 2 ist abschliessend bestaetigt. Keine neue Preisverhandlung gewuenscht.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Festpreis und bindende Leistungsanlage sind konkret benannt; der kollidierende AGB-Preisanpassungssatz wird fuer dieses Geschaeft ausdruecklich ausgeschlossen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die blosse Aushandlungsbestaetigung wird nicht als Beweis individueller Verhandlung aller Bedingungen akzeptiert.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Eine vollstaendige operative Regel wird geliefert; Einbeziehung, Vorrang und Inhaltskontrolle werden nicht als identische Fragen behandelt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Keine freie kuenftige Anlagenaenderung und keine Behauptung, jede unwirksame AGB sei automatisch auf das hoechstzulaessige Mass zu reduzieren.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nachtrag-neues-geraet-ohne-neue-laufzeit",
+      "target_skill": "nachtrag-mit-folgeaenderungen-erstellen",
+      "request": "Formulieren Sie ergebnis.md als kurzen vollstaendigen Nachtrag zum Wartungsvertrag vom 01.01.2026 zwischen Druck GmbH und Service GmbH. Vertretung belegt. Anlage 1 erfasst bisher Maschinen D-1 bis D-3; ab 01.11.2026 kommt D-4 am selben Standort Kassel hinzu, identischer bestaetigter Inspektionsumfang. Monatspreis steigt von 650 auf 800 EUR netto. Monatliche Abrechnung nachtraeglich und bestehende Zahlungsfrist bleiben. Befristung weiterhin bis 31.12.2026, keine Verlaengerung. Neu bestaetigte Antwort lautet: keine Erledigung bisheriger Ansprueche. Keine neue Vollfassung.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Ausgangsvertrag und konkrete Ergaenzung der Anlage 1 um D-4 ab 01.11.2026 sind eindeutig bezeichnet.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Operativer Monatspreis betraegt ab diesem Datum 800 EUR netto, nicht zusaetzlich 800 EUR oder 950 EUR; bisherige Abrechnung bleibt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Laufzeit bis 31.12.2026 bleibt ohne neue Mindestbindung bestehen und bisherige Ansprueche werden nicht erledigt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Antwort ist in einen fertigen begrenzten Nachtrag integriert; keine Vollvertragsneuerstellung, Unterschrift oder Versendung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gegenfassung-unmarkierte-ausnahme-erhalten",
+      "target_skill": "verhandlung-und-unterschriftenfassung-abschliessen",
+      "request": "Erstellen Sie ergebnis.md als vollstaendige bereinigte Fassung der folgenden Schlussvereinbarung ohne Versand. Parteien Alpha GmbH und Beta GmbH, Vertretung belegt. Bisheriger Text: Der Auftragspreis betraegt 12000 EUR netto. Zahlung binnen 14 Tagen nach Abnahme und Rechnungszugang. Die Haftungsbegrenzungen dieses Vertrags gelten nicht fuer Vorsatz oder Schaeden aus Verletzung von Leben, Koerper oder Gesundheit. Anlage 1 gilt in Version 2. Neu hat die eigene Geschaeftsfuehrung intern nur einen Preis von 11000 EUR freigegeben. Gegenseitige Annahme fehlt. Gegenseite nennt ihre Datei final und streicht unmarkiert die Personenschadenausnahme sowie nennt Anlage 1 Version 1. Nutzerauftrag: Preis 11000 EUR anbieten, Ausnahme und Version 2 erhalten. Schreiben Sie zusaetzlich eine kurze getrennte Abschlussnotiz; keine weiteren Vertragsbestandteile erfinden.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Operativer Preis ist 11000 EUR; Zahlungsfrist und ihre Voraussetzungen bleiben unveraendert.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Ausnahme fuer Personenschaeden und Vorsatz sowie Anlage Version 2 werden in der vollstaendigen Fassung erhalten; unmarkierte Gegenaenderungen werden nicht blind uebernommen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Interne Freigabe wird nicht als externe Annahme oder bestehende Einigung ausgegeben; Status ist Angebotsentwurf.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Keine Unterschrift, Versendung oder erfundene weitere Klauseln; Notiz bleibt vom operativen Text getrennt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

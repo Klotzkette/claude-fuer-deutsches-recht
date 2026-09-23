@@ -1,6 +1,6 @@
 # schulrecht-laender
 
-**101 Skills** · Stand `v445.1.2`
+**101 Skills** · Stand `v445.2.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../schulrecht-laender/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

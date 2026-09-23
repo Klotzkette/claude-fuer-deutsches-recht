@@ -1,8 +1,8 @@
 # Skills-Index: Detailseiten pro Plugin
 
-Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v445.1.2`.
+Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v445.2.0`.
 
-Die Aufteilung verhindert, dass eine einzige Seite alle 22382 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
+Die Aufteilung verhindert, dass eine einzige Seite alle 22402 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
 
 English: Each plugin has one lightweight detail page containing its complete skill list, descriptions and direct Markdown downloads. Open a plugin page to choose a skill; links labelled `Download MD` save the file instead of opening a source preview.
 
@@ -306,6 +306,7 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 - [versammlungsrecht](./versammlungsrecht.md) (56 Skills)
 - [versicherungsrecht](./versicherungsrecht.md) (65 Skills)
 - [vertragsausfueller](./vertragsausfueller.md) (60 Skills)
+- [vertragserstellung](./vertragserstellung.md) (10 Skills)
 - [vertragsrecht](./vertragsrecht.md) (59 Skills)
 
 ### W
@@ -314,6 +315,7 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 - [wandeldarlehen-lebenszyklus](./wandeldarlehen-lebenszyklus.md) (54 Skills)
 - [weg-hausverwaltung](./weg-hausverwaltung.md) (93 Skills)
 - [weltraumrecht](./weltraumrecht.md) (181 Skills)
+- [wirtschaftsanwalt](./wirtschaftsanwalt.md) (10 Skills)
 - [word-legal-ai-plugin-and-skill-for-german-lawyers](./word-legal-ai-plugin-and-skill-for-german-lawyers.md) (53 Skills)
 
 ### Z

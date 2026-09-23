@@ -1,6 +1,6 @@
 # kanzlei-mandant-lifecycle
 
-**116 Skills** · Stand `v445.1.2`
+**116 Skills** · Stand `v445.2.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../kanzlei-mandant-lifecycle/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

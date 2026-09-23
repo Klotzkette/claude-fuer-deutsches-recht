@@ -1,6 +1,6 @@
 # bank-rechtsabteilung
 
-**122 Skills** · Stand `v445.1.2`
+**122 Skills** · Stand `v445.2.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../bank-rechtsabteilung/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

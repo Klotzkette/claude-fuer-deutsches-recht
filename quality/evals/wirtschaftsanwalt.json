@@ -1,0 +1,756 @@
+{
+  "schema_version": 1,
+  "plugin": "wirtschaftsanwalt",
+  "reviewed_on": "2026-09-23",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/brao/__43a.html",
+      "supports": "Absätze 2 und 4 gelesen: Verschwiegenheit, eigene widerstreitende Interessen und Regeln ihrer Erstreckung nicht durch pauschale Einwilligung nivellieren.",
+      "checked_on": "2026-09-23"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html",
+      "supports": "Gezielt Paragrafen 35, 37, 38, 43 und 45 bis 51b im Gesamttext gelesen. Innenbindung, Außenvertretung, Beschlussverfahren und Stimmverbote unterschieden; keine Vollprüfung aller GmbHG-Fragen.",
+      "checked_on": "2026-09-23"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/BJNR001950896.html",
+      "supports": "Amtlicher Gesamttext zugänglich; gezielte Arbeitsgruppen Form, Vertretung, Leistungsstörung, AGB und Vergleich. Nicht jede genannte Arbeitsnorm als einzelne Seite oder in jeder historischen Fassung geprüft.",
+      "checked_on": "2026-09-23"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/__377.html",
+      "supports": "Einzelnorm gelesen: beiderseitiger Handelskauf, Erkennbarkeit, rechtzeitige Rügeabsendung nach Absatz 4, Arglistgrenze.",
+      "checked_on": "2026-09-23"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__308.html",
+      "supports": "Nummern 1a und 1b gelesen, im Zusammenhang mit Paragraf 310 kein pauschaler Ausschluss im Unternehmerverkehr.",
+      "checked_on": "2026-09-23"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__271a.html",
+      "supports": "Zahlungs- und Überprüfungsfristen gezielt gelesen; kein AGB-Freibrief allein unter 60 Tagen.",
+      "checked_on": "2026-09-23"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/kschg/__1.html",
+      "supports": "Allgemeiner Kündigungsschutz als getrennte materielle Prüfung, daneben Betriebsgröße, Beteiligung, Form und Zugang.",
+      "checked_on": "2026-09-23"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/kschg/__23.html",
+      "supports": "Anwendungsbereich und Schwellenprüfung gelesen; Mittelstand nicht als eigene Schutzkategorie behandelt.",
+      "checked_on": "2026-09-23"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/kschg/__4.html",
+      "supports": "Klagefrist und schriftliche Kündigung als Ausgangspunkt gelesen; kein Fristautomat aus gewöhnlichem E-Mail-Scan.",
+      "checked_on": "2026-09-23"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/betrvg/BJNR000130972.html",
+      "supports": "Paragraf 102 im Gesamttext gelesen nach erfolglosem Einzelabruf: Anhörung vor Kündigung, nicht nachträgliche bloße Information.",
+      "checked_on": "2026-09-23"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/arbgg/__46h.html",
+      "supports": "Nach zunächst erfolglosem Abruf gelesen: besondere Formfiktion für klar erkennbare Erklärung im ordnungsgemäß eingereichten vorbereitenden Schriftsatz mit Zustellung oder Mitteilung.",
+      "checked_on": "2026-09-23"
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-68-24/",
+      "supports": "Amtlicher Volltext gelesen, insbesondere Randnummern 15 bis 21 und die in Randnummer 18 offengelassene andere Zugangskonstellation.",
+      "checked_on": "2026-09-23"
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32016R0679",
+      "supports": "Amtliches deutsches Veröffentlichungs-PDF zunächst zugänglich mit 88 Seiten; HTML und spätere PDF-Wiederholungsabrufe gesperrt. Keine umfassende Konsolidierungsprüfung behauptet.",
+      "checked_on": "2026-09-23"
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=uriserv%3AOJ.L_.2018.127.01.0002.01.DEU",
+      "supports": "Amtlicher Suchauszug der Berichtigung vom 23.05.2018, ABl. L 127 Seite 4, bestätigt bei Artikel 28 Absatz 3 die Löschung vorhandener Kopien. Direktabruf gesperrt, kein Volltextetikett.",
+      "checked_on": "2026-09-23"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/BJNR286600994.html",
+      "supports": "Paragrafen 15a, 15b und 17 bis 19 im Gesamttext gelesen; Höchstfristen keine Freifristen, 24- und 12-Monatsprognose unterschieden. Einzelabrufe von 17 und 15b zuvor erfolglos.",
+      "checked_on": "2026-09-23"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/starug/__1.html",
+      "supports": "Krisenfrüherkennung, Gegenmaßnahmen und Organbefassung gelesen, nicht als Ersatz für Insolvenzantragspflicht.",
+      "checked_on": "2026-09-23"
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2022-6-28&Gericht=bgh&Sort=3&anz=38&nr=130746&pos=27",
+      "supports": "Amtlicher Suchauszug bestätigt BGH, Urteil vom 28.06.2022, Az. II ZR 112/21, ECLI und Leitsatz. Direkter Webvolltextabruf erfolglos. Separat identifiziertes Repository-PDF lokal gelesen; Herkunft unten dokumentiert.",
+      "checked_on": "2026-09-23"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__253.html",
+      "supports": "Einzelnorm gelesen: bestimmte Anträge und konkreter Lebenssachverhalt; Entwurf nicht mit Einreichung gleichgesetzt.",
+      "checked_on": "2026-09-23"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gvg/__23.html",
+      "supports": "Aktuelle allgemeine Wertgrenze 10000 EUR gelesen; Sonderzuweisung und Übergangsrecht bleiben gesondert.",
+      "checked_on": "2026-09-23"
+    }
+  ],
+  "source_access_limits": [
+    "BGH II ZR 112/21: amtlicher Suchnachweis, aber kein erfolgreicher direkter Webvolltextabruf; lokale Lektüre ist separat mit Byteidentität dokumentiert.",
+    "BGH II ZR 88/16 nur amtlicher Suchauszug, kein in dieser Bearbeitung gelesener Volltext. BGH IX ZR 229/22 nicht als allgemeine Beweislastumkehr gegenüber Geschäftsführern verwendet.",
+    "DSGVO: Veröffentlichungs-PDF zunächst zugänglich, spätere Zugriffe und HTML durch JavaScript-Prüfung gesperrt. Berichtigung 2018 nur im amtlichen Suchauszug; keine vollständige konsolidierte aktuelle Fassung bestätigt.",
+    "Kein Zugang zu lizenzierter Literatur genutzt; keine Kommentar-, Aufsatz- oder Datenbankfundstellen aus Modellwissen.",
+    "Nicht jede im Arbeitsweg genannte Norm einzeln abgerufen, keine Vollständigkeits- oder historische Fassungsprüfung.",
+    "Keine Live-Ausführung der Skills, keine beobachtete Auswahl, keine Bearbeitung der drei zugeordneten Testakten und kein Remote-Modelltest."
+  ],
+  "local_source_provenance": [
+    {
+      "path": "insolvenzrecht/references/rechtsprechung/BGH_II_ZR_112-21_vom_2022-06-28.pdf",
+      "sha256": "2e3f08881c8c219a731407da50067af06681c8e9c4e4180fc35f3b114fa62de2",
+      "read_on": "2026-09-23",
+      "method": "local_pdf_text_extraction",
+      "identity": {
+        "court": "BGH",
+        "form": "Urteil",
+        "date": "2022-06-28",
+        "file_number": "II ZR 112/21",
+        "ecli": "ECLI:DE:BGH:2022:280622UIIZR112.21.0",
+        "pages": 11
+      },
+      "provenance": "Bereits vor dieser Arbeit vorhandenes Urteils-PDF im gemeinsamen Repository; Deckblatt, Entscheidungsdaten, ECLI und vollständiger extrahierter Text gelesen. Metadaten und Leitsatz mit amtlichem Web-Suchauszug abgeglichen. Keine kryptografische amtliche Signatur oder Bytegleichheit mit einem aktuell heruntergeladenen Gerichtsoriginal behauptet.",
+      "official_reference": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2022-6-28&Gericht=bgh&Sort=3&anz=38&nr=130746&pos=27",
+      "scope": "Randnummern 12 bis 17 zur Darlegung der Zahlungsunfähigkeit; Randnummern 18 bis 22 betreffen alten Paragraf 64 GmbHG und sind keine heutige Haftungsfreigabe nach Paragraf 15b InsO.",
+      "runtime_limit": "PDF nicht im Plugin mitgeliefert. Optionaler absoluter GitHub-Link im Quellenverzeichnis; Hauptworkflow setzt weder Nachbarplugin noch diesen Volltext voraus."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Eigenständigen Schnellstart auf drei Eingänge, Unternehmensverknüpfung, konkrete Normgrenzen, Folgeantwort und tatsächliche Dokumentproduktion redaktionell geprüft; anschließend unter Byte- und Zeichengrenze gekürzt.",
+    "changes": [
+      "Gezielte Engpassbearbeitung ohne Nachbarplugin.",
+      "Unternehmer-AGB, Gesellschaftsrolle und enge Liquiditätswarnung statt Einzelmandatkopie.",
+      "Quellenzugriff und externe Freigaben ausdrücklich begrenzt."
+    ],
+    "sha256": "00c120fb39f6f80ff1c3ef4b096c74abcaa0cc32db63a510e26f8391a6004dd6",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Die eigenständig verfasste Werkstatt redaktionell auf ihre 22 Fachkapitel, durchgängige Fallfortsetzung und operative Dokumentlogik geprüft. Keine Live-Bearbeitung und kein unabhängiger Modelltest.",
+    "changes": [
+      "Leistung, Zahlung, Personalübergabe, Beschluss, Datenexport und Liquidität über dieselbe Unternehmensentscheidung verknüpft.",
+      "Objektive Insolvenzvoraussetzungen, 24-/12-Monatsprognosen und unverzügliche Antragspflicht mit Höchstfristen unterschieden.",
+      "Stimmverbote nicht auf sämtliche eigenen Organfragen erweitert; Quellenanker mit enger Reichweite.",
+      "Ein H1, dezimale H2-Hauptkapitel, vollständige Endprodukte und getrennte interne Vermerke."
+    ],
+    "sha256": "c7e88d2a0c52b93d45aa74bed399f0eaf0ab32ada88aac126df92bc9d9652113",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
+  },
+  "focus_review": {
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review",
+    "verdict": "revised",
+    "reason": "Hauptproblem und ausführenden Hauptskill auf denselben Unternehmensentscheidungsauftrag gegengelesen. Hauptskill bearbeitet selbst und verlinkt neun Geschwisterdateien nur für konkrete Engpässe. Kompaktfassung bleibt eigenständig.",
+    "changes": [
+      "Drei Startmodi und Fortsetzung im selben Entwurf konkretisiert.",
+      "Rollen-, Vertretungs- und Liquiditätsgrenzen konsistent.",
+      "Kein elfter Skill, keine erzwungene Ladung aller Fachwege."
+    ],
+    "prompt_path": "wirtschaftsanwalt/wirtschaftsanwalt-hauptproblem.md",
+    "prompt_sha256": "6f8f2fae69f16b523b8bd8e0bf3aea7f12c69b38a6650ce83af0d1d10cc73b94",
+    "skill_path": "wirtschaftsanwalt/skills/unternehmensmandat-bis-zum-dokument-bearbeiten/SKILL.md",
+    "skill_sha256": "e6c436438e442d25f6c69eb3ff11b84005b8afced8fdfaf4519ba9446d222871"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-23",
+    "files": [
+      "wirtschaftsanwalt/wirtschaftsanwalt-schnellstart.md",
+      "wirtschaftsanwalt/wirtschaftsanwalt-werkstatt.md",
+      "wirtschaftsanwalt/wirtschaftsanwalt-hauptproblem.md",
+      "wirtschaftsanwalt/skills/unternehmensmandat-bis-zum-dokument-bearbeiten/SKILL.md"
+    ],
+    "opening_change": "Geschäftsentscheidung der laufend beratenen Gesellschaft statt allgemeiner Einzelmandatsaufnahme. Vorhandene Dateien intern lesen, Folgen über Vertrags-, Personal-, Gesellschafts-, Daten- und Zahlungsfragen verbinden und selbst das bestellte Dokument erzeugen.",
+    "norms": [
+      "Paragraf 43a Absätze 2 und 4 BRAO; Paragrafen 35, 37 und 46 bis 51a GmbHG.",
+      "Paragrafen 271a, 305 bis 310, 433, 437, 439, 640, 779 und 397 BGB sowie Paragraf 377 HGB.",
+      "Paragrafen 1, 4 und 23 KSchG, Paragraf 102 BetrVG, Paragraf 623 BGB und Paragraf 46h ArbGG.",
+      "Paragrafen 15a, 15b und 17 bis 19 InsO sowie Paragraf 1 StaRUG.",
+      "Artikel 28 und 32 bis 34 DSGVO mit dokumentierten Zugriffs- und Konsolidierungsgrenzen.",
+      "Paragraf 253 ZPO und Paragraf 23 GVG."
+    ],
+    "decisions": [
+      {
+        "citation": "BAG, Urteil vom 30.01.2025, Az. 2 AZR 68/24, Randnummern 15 bis 21",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-68-24/",
+        "application": "Amtlicher Volltext: Einlieferungsbeleg und bloßer Sendungsstatus trugen im konkreten Fall keinen Anscheinsbeweis des Zugangs.",
+        "limit": "Kein allgemeines Einschreibenverbot; Randnummer 18 lässt andere Nachweiskonstellation offen."
+      },
+      {
+        "citation": "BGH, Urteil vom 28.06.2022, Az. II ZR 112/21, Randnummern 12 bis 17",
+        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2022-6-28&Gericht=bgh&Sort=3&anz=38&nr=130746&pos=27",
+        "application": "Identifiziertes lokales Urteils-PDF gelesen; aussagekräftige Liquiditätsstatus als Darlegungsmittel. Amtlicher Suchnachweis bestätigt Metadaten und Leitsatz.",
+        "limit": "Webvolltextabruf gescheitert. Kein Diagnoseautomat, keine ungeprüfte Übertragung der Aussagen zu altem Paragraf 64 GmbHG auf heutige Zahlungen oder persönliche Haftungsfreiheit."
+      }
+    ],
+    "remaining_limits": [
+      "Desk-Review und gezielte Recherche, keine ausgeführten Mandate oder statistisch belegte Auswahlqualität.",
+      "Spezialrecht, historische Fassungen, aktuelle Basiszinssätze und vollständige DSGVO-Konsolidierung fallbezogen offen.",
+      "Keine allgemeine Beweislastumkehr aus einem Anfechtungsurteil; keine fingierten Entscheidungen."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Ohne Material nach Gesellschaft, Rolle, Geschäftsentscheidung, Dokument und Termin fragen.",
+      "Ordner ohne Auftrag intern lesen, zwei aus dem Material abgeleitete Ziele anbieten, keinen Dateidump ausgeben.",
+      "Bei klarem Auftrag direkt prüfen und ausformulieren, nur entscheidende Lücken klären."
+    ],
+    "continuation": "Neue Teilzahlung verändert Rechnung und Text, Registerstand die Befugnis, Export die Erfüllung, verbindliche Finanzierung die darauf gestützte Entscheidung. Derselbe Entwurf wird fortgeschrieben; kein erneuter Intake.",
+    "enrichment": "Neun individuell abgegrenzte Fachwege, nur den aktuellen Engpass vertiefen. Hauptskill produziert selbst, Spezialquellen optional über absolute Links, keine Nachbarpluginpflicht.",
+    "limits": "desk_review, keine Live-Dialoge, kein Versand, keine Einreichung, kein Anerkenntnis, Verzicht, Vergleichsschluss oder Datenvollzug."
+  },
+  "selection": {
+    "target_skill": "unternehmensmandat-bis-zum-dokument-bearbeiten",
+    "positive": [
+      "Unsere laufend beratene GmbH muss Lieferfortführung, Lohnreserve und Zeichnungsbefugnis zusammen entscheiden. Prüfen Sie die vorhandenen Unterlagen und erstellen Sie die Entscheidungsvorlage und den Vertragsnachtrag.",
+      "Führen Sie den bestehenden Unternehmensentwurf nach dem neuen Datenexport und der verbindlichen Bankbestätigung fort; berücksichtigen Sie verbleibende Ansprüche und liefern Sie das konkrete Schreiben."
+    ],
+    "negative": [
+      "Erstellen Sie ausschließlich eine isolierte Privatverbraucher-Reklamation für meinen defekten Kühlschrank, ohne Unternehmensmandat.",
+      "Installieren Sie eine Kanzleisoftware mit Nutzerkonten und automatisiertem E-Mail-Versand."
+    ]
+  },
+  "cases": [
+    {
+      "id": "lieferfortfuehrung-mit-lohnreserve",
+      "target_skill": "unternehmensmandat-bis-zum-dokument-bearbeiten",
+      "request": "Erstellen Sie ergebnis.md für die laufend beratene Werkbau GmbH als kurze Entscheidungsvorlage und fortgeschriebenen Antwortentwurf an den Lieferanten, ohne Versand. Altlieferung: 20000 EUR Rechnung, verbindliche Gutschrift 2000 EUR, neu belegte Zahlung 6000 EUR ausdrücklich allein auf Hauptforderung; keine Zinsen oder sonstigen Gegenrechte. Für Fortlieferung verlangt der Lieferant zusätzlich 7000 EUR Vorauszahlung. Heute sind 15000 EUR frei verfügbar; davon sind 10000 EUR morgen für fällige Löhne nötig, sonstige Fälligkeiten und weitere sichere Zuflüsse bis dahin fehlen. Vertretung ist geklärt. Der bisherige Entwurf versprach die 7000 EUR sofort. Gewünscht ist Fortlieferung ohne ungesicherte Zusage, keine neue Aufnahme und keine Insolvenzfeststellung aus diesen begrenzten Daten.",
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Der korrigierte Altstand beträgt 12000 EUR; Vorauszahlung für neue Lieferung wird getrennt von Altverbindlichkeit und Teilzahlung behandelt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Der Text erkennt, dass nach 7000 EUR Vorauszahlung nur 8000 EUR für 10000 EUR Löhne verbleiben; er übernimmt die sofortige Zusage nicht unverändert.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Erstellt werden begründete Entscheidung und vollständiger Antwortentwurf mit bedingter Verhandlungslösung statt bloßer Themenauswahl; keine neue Mandatsaufnahme.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Keine sichere Insolvenzfeststellung oder Entwarnung aus den begrenzten Angaben, kein Versand oder persönliches Geschäftsführermandat wird behauptet.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ]
+    },
+    {
+      "id": "abrufprognose-ohne-mindestabnahme",
+      "target_skill": "betriebsvertrag-pruefen-und-nachtrag-erstellen",
+      "request": "Erstellen Sie ergebnis.md als Nachtrag zum Rahmenliefervertrag vom 01.07.2026 zwischen Nordwerk GmbH und Teilebau GmbH. Beide sind ordnungsgemäß vertreten. Ab 01.11.2026 soll nur Nummer 3 geändert werden: monatliche unverbindliche Vorschau von etwa 500 Teilen, keine Mindestabnahme oder Vorratsvergütung. Einzelne Abrufe werden erst mit ausdrücklich bestätigter Menge und Liefertermin verbindlich. Bereits bestätigte Abrufe bleiben unberührt, Preise bleiben unverändert. Gewünscht ist die klare operative Klausel, keine neue AGB-Sammlung und kein Versand.",
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Vorschau von etwa 500 Teilen wird ausdrücklich von verbindlichem Abruf getrennt und nicht zur Mindestabnahme oder Vorratsvergütung umgedeutet.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Verbindlichkeit setzt Bestätigung von Menge und Liefertermin voraus; bereits bestätigte Abrufe bleiben bestehen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Der Nachtrag nennt Ausgangsvertrag, Nummer 3 und Beginn 01.11.2026 und regelt unveränderte Preise sowie Fortgeltung des Übrigen in vollständiger Sprache.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ]
+    },
+    {
+      "id": "gegenforderung-nicht-automatisch-abziehen",
+      "target_skill": "lieferforderung-und-maengeleinwand-bearbeiten",
+      "request": "Erstellen Sie ergebnis.md als begründeten Vermerk und Antwortentwurf der Käuferin Metallbau GmbH an den Lieferanten. Kaufpreis 30000 EUR, verbindliche Gutschrift 6000 EUR und belegte Zahlung 4000 EUR nach Vereinbarung allein auf Hauptforderung. Zinsen und Kosten sind ausgeschlossen. Die Käuferin behauptet weitere 5000 EUR Produktionsausfall; Ursache, Höhe und Aufrechnungsvoraussetzungen sind ungeklärt, keine Aufrechnung ist erklärt. Die weitere Belieferung soll erhalten bleiben. Stellen Sie den derzeit belegten Rechnungsstand klar und formulieren Sie einen begrenzten Vorbehalt, ohne Schaden zu erfinden oder eine Forderung anzuerkennen.",
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Der nach Gutschrift und Zahlung belegte Rechenstand lautet 20000 EUR, nicht automatisch 15000 EUR.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die behaupteten 5000 EUR werden als ungeprüfte Gegenforderung behandelt; weder Erlöschen noch erklärte Aufrechnung werden fingiert.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Der vollständige Antwortentwurf erhält die weitere Lieferbeziehung und grenzt den Vorbehalt ab; er erzeugt keine unautorisierte Anerkenntnis- oder Aufrechnungserklärung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ]
+    },
+    {
+      "id": "lohnkuerzung-nur-aenderungsangebot",
+      "target_skill": "personalmassnahme-pruefen-und-dokumentieren",
+      "request": "Erstellen Sie ergebnis.md für die laufend beratene Arbeitgeberin Bergwerkstatt GmbH als kurzen Vermerk und vollständiges Änderungsangebot an eine Beschäftigte. Vereinbartes Bruttomonatsgehalt 4000 EUR bei unveränderter Arbeitszeit. Wegen Auftragsrückgang soll freiwillig befristet vom 01.11.2026 bis 31.01.2027 auf 3600 EUR reduziert werden; ab 01.02.2027 wieder 4000 EUR. Keine einseitige Kürzungsbefugnis, keine Tarifbindung, kein Betriebsrat oder kollektivrechtlicher Sonderfall. Keine Kündigung beauftragt, keine Zustimmung erklärt. Sonstige Vertragsbedingungen bleiben unverändert.",
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Der Vermerk behandelt Auftragsrückgang nicht als einseitige Kürzungsbefugnis; das Dokument ist ein zustimmungsbedürftiges Angebot, keine schon wirksame Anordnung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "3600 EUR, Beginn und Ende sowie automatische Rückkehr zu 4000 EUR ab 01.02.2027 sind im operativen Text eindeutig geregelt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Unveränderte Arbeitszeit und übrige Bedingungen bleiben erhalten; keine erfundene Gegenleistung, Kündigung oder bereits erklärte Zustimmung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ]
+    },
+    {
+      "id": "innenvorbehalt-und-aussenbindung",
+      "target_skill": "gesellschafterkonflikt-und-vertretung-bearbeiten",
+      "request": "Erstellen Sie ergebnis.md als Gesellschaftsvermerk mit Beschlussvorschlag für eine GmbH, nicht als persönliche Verteidigung ihres Geschäftsführers. Der Geschäftsführer hat durchgehend belegte Einzelvertretungsmacht. Er schloss einen gewöhnlichen formfreien Liefervertrag über 40000 EUR; intern ist ab 25000 EUR Gesellschafterzustimmung nötig und fehlte. Der gutgläubige Lieferant kannte die Grenze nicht; kein Missbrauch, keine Kollusion, kein Insichgeschäft. Die Gesellschaft will wirtschaftlich am Vertrag festhalten und intern über die Durchführung entscheiden, ohne persönliche Ersatzansprüche zu erlassen. Der Geschäftsführer hält 60 Prozent der Anteile und wünscht zusätzlich ungefragte Entlastung.",
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Interner Zustimmungsvorbehalt wird von Außenvertretung getrennt; keine schwebende Unwirksamkeit nach Paragraf 177 BGB allein wegen fehlender interner Zustimmung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Der Beschlussvorschlag betrifft konkrete Durchführung des Vertrags und enthält keine ungefragte persönliche Entlastung oder Anspruchserledigung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Gesellschaft als Mandantin bleibt von persönlicher Organverteidigung getrennt; Entlastung und mögliche Stimmverbote nach Paragraf 47 Absatz 4 werden nicht pauschal auf alle eigenen Organfragen verallgemeinert.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ]
+    },
+    {
+      "id": "exportpruefung-vor-loeschfreigabe",
+      "target_skill": "dienstleisterwechsel-und-datenzugriff-sichern",
+      "request": "Erstellen Sie ergebnis.md als vertragliches Nachforderungsschreiben einer GmbH an ihren bisherigen Auftragsverarbeiter. Vertraglich geschuldet sind bis 30.09.2026 vollständige CSV-Kundendaten samt zugeordneten PDF-Anhängen und ein Testimport. CSV wurde geliefert, die Anhänge fehlen vollständig; der Dienstleister will nach dem bloßen CSV-Versand alle Kopien löschen. Vergütung ist bezahlt, kein Zurückbehaltungsstreit. Gesonderte Aufbewahrungspflichten sind noch abzuklären. Ansprechpartner und sichere Übertragung sind bestimmt. Keine Betroffenenanfrage, kein eigenmächtiger Zugriff, kein Versand oder Löschauftrag.",
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Vertragsanspruch der GmbH wird nicht auf ein eigenes Betroffenenrecht nach Artikel 15 DSGVO gestützt; CSV-Teilübergabe und fehlende Anhänge werden getrennt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Das Schreiben verlangt die geschuldeten Anhänge und den Testimport termingerecht, ohne zusätzliche ungeschuldete Programmierung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Keine Löschfreigabe allein wegen CSV-Versand; Rückgabe, erforderliche Kopienlöschung und gesetzliche Aufbewahrung unter Artikel 28 Absatz 3 werden abgestimmt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Kein Datenversand, Kontenzugriff oder tatsächlich erteilter Löschauftrag wird behauptet.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ]
+    },
+    {
+      "id": "zahlungs-und-prueffrist-b2b",
+      "target_skill": "kaufmaennische-agb-pruefen-und-neufassen",
+      "request": "Erstellen Sie ergebnis.md als Prüfung und Ersatzklauseln für Verkaufsbedingungen einer gewöhnlichen B2B-Lieferbeziehung zwischen Kaufleuten. Die Kunden-Einkaufsbedingungen, wirksam gestellt und einbezogen, sehen 90 Tage Zahlungsfrist nach Rechnung und Lieferung sowie 45 Tage Überprüfung der Ware vor. Nicht ausgehandelt, keine besondere Rechtfertigung, keine VOB/B und keine Finanzgeschäfte. Der Kunde behauptet vollständige Ausnahme des Paragrafen 308 BGB im Unternehmerverkehr. Gewünscht sind getrennte Bewertung beider Fristen und Vorschlag 30 Tage Zahlung sowie 10 Tage Überprüfung, ohne automatische Änderung bereits geschlossener Verträge.",
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die pauschale Herausnahme des gesamten Paragrafen 308 wird korrigiert; Nummern 1a und 1b bleiben als unterschiedliche Prüfgegenstände erhalten.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Paragrafen 271a, 307 und 310 werden mit Zahlungs- und Überprüfungsfrist verknüpft; kein pauschaler 60-Tage-Freibrief.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Beide Ersatzregeln sind vollständig und haben klare Fristauslöser; neue Bedingungen werden nicht als rückwirkende Heilung bestehender Verträge bezeichnet.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ]
+    },
+    {
+      "id": "verlust-ist-kein-insolvenztest",
+      "target_skill": "liquiditaetsrisiken-und-fristenwarnung-bearbeiten",
+      "request": "Erstellen Sie ergebnis.md als begrenzten Warnvermerk und Leitungsschreiben für eine GmbH am 23.09.2026. Handelsbilanzieller Verlust 80000 EUR. Heute frei verfügbar 12000 EUR und sämtliche heute fälligen Pflichten 10000 EUR; keine Zahlungseinstellung belegt. Im nächsten Monat werden zusätzliche 25000 EUR fällig; sichere Zuflüsse und verbindliche Finanzierung fehlen in den Unterlagen. Eine Gesellschafterhilfe ist nur mündlich erwogen. Vermögensstatus und belastbare 12- beziehungsweise 24-Monatsplanung fehlen. Die Leitung meint, ab heute habe sie immer sechs Wochen freie Sanierungszeit. Keine abschließende Insolvenzfeststellung und keine persönliche Haftungsfreigabe beauftragt.",
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Der Verlust wird nicht mit Zahlungsunfähigkeit oder Überschuldung gleichgesetzt; aktueller Status, ungesicherte Zukunft und fehlende Vermögensprüfung werden getrennt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Paragraf 18 mit regelmäßig 24 Monaten und Paragraf 19 mit zwölfmonatiger Fortführungsprognose werden nicht verwechselt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Paragraf 15a wird als ohne schuldhaftes Zögern mit Höchstfristen von drei beziehungsweise sechs Wochen behandelt, nicht als sechs Wochen freie Zeit ab Beratungsdatum.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Warnschreiben und konkreter sofortiger Daten- und Prüfbedarf liegen vor; weder persönliche Haftungsfreigabe noch pauschale Zahlungsfreigabe nach Paragraf 15b noch automatischer Insolvenzantrag.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ]
+    },
+    {
+      "id": "ratenvergleich-ohne-organentlastung",
+      "target_skill": "unternehmensvergleich-und-erfuellung-gestalten",
+      "request": "Erstellen Sie ergebnis.md als außergerichtlichen Vergleichsentwurf zwischen zwei wirksam vertretenen GmbHs. Streitige Lieferforderung 24000 EUR; vier Raten zu 4000 EUR am 01.11.2026, 01.12.2026, 01.01.2027 und 01.02.2027. Rest soll erst nach vollständigen 16000 EUR erlassen werden. Bis dahin nur Stundung. Bei endgültigem Ausfall nach zehn Kalendertagen schriftlich gesetzter Nachfrist soll auf den Ausgangsanspruch unter Anrechnung tatsächlich geleisteter Zahlungen zurückgegriffen werden. Keine Zinsen, Kosten, Sicherheiten oder Titulierung gewünscht. Persönliche Ansprüche gegen Geschäftsführer sind nicht Vergleichsgegenstand; kein Abschluss nach außen.",
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Vier Raten und Termine sowie bedingter Erlass erst nach vollständigen 16000 EUR sind ausformuliert; kein sofortiger Erlass von 8000 EUR.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Nachfrist und Ausfallmechanik verhindern doppelte Forderungen; nach einer gezahlten Rate bleiben aus dem Ausgangsbetrag höchstens 20000 EUR, nicht 24000 EUR plus Vergleichssumme.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Erledigung beschränkt sich auf den bezeichneten Lieferstreit; keine persönliche Organentlastung, ungefragte Nebenforderung oder automatische Vollstreckbarkeit.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ]
+    },
+    {
+      "id": "teilzahlung-im-klageentwurf",
+      "target_skill": "unternehmensstreit-gerichtlich-vorbereiten",
+      "request": "Erstellen Sie ergebnis.md als fortgeschriebenen Klageentwurf für die GmbH gegen ihre gewerbliche Kundin. Bisher 9600 EUR unstreitig fälliger Kaufpreis, Vertrag und Lieferung belegt, Vertretung geklärt. Neu vor Einreichung 1200 EUR Zahlung, vereinbarungsgemäß vollständig auf Hauptforderung; keine Zinsen, Kosten oder Gegenrechte. Einreichung beabsichtigt am 23.09.2026 beim allgemeinen Gerichtsstand Hannover, kein Sonderfall und kein Altverfahren. Geplante Rechnung als Anlage K3 fehlt tatsächlich; Vertrag K1 und Lieferschein K2 liegen vor. Keine Einreichung beauftragt. Parteiangaben dürfen Platzhalter sein.",
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Der bestimmte Zahlungsantrag wird auf 8400 EUR angepasst, Teilzahlung nicht doppelt berücksichtigt und kein Erledigungs- oder Rücknahmeprozess für eine noch nicht eingereichte Klage fingiert.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die aktuelle allgemeine Wertgrenze von 10000 EUR nach Paragraf 23 GVG wird berücksichtigt; kein Landgericht allein wegen früherer 5000-EUR-Grenze.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Fehlende K3 wird nicht als beigefügt bezeichnet; vorhandene K1 und K2 stützen den Vortrag und die konkrete Nachweislücke wird getrennt benannt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Vollständiger Entwurf statt bloßer Analyse, keine behauptete Einreichung oder Fristwahrung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ]
+    }
+  ],
+  "skill_reviews": [
+    {
+      "skill_path": "wirtschaftsanwalt/skills/unternehmensmandat-bis-zum-dokument-bearbeiten/SKILL.md",
+      "sha256": "e6c436438e442d25f6c69eb3ff11b84005b8afced8fdfaf4519ba9446d222871",
+      "case_id": "lieferfortfuehrung-mit-lohnreserve",
+      "reviewed_on": "2026-09-23",
+      "method": "desk_review",
+      "verdict": "retained",
+      "reason": "Redaktioneller Abgleich des individuellen Fachwegs mit dem vorbereiteten Fall lieferfortfuehrung-mit-lohnreserve; keine Fallausführung behauptet.",
+      "checked_points": [
+        "Der korrigierte Altstand beträgt 12000 EUR; Vorauszahlung für neue Lieferung wird getrennt von Altverbindlichkeit und Teilzahlung behandelt.",
+        "Der Text erkennt, dass nach 7000 EUR Vorauszahlung nur 8000 EUR für 10000 EUR Löhne verbleiben; er übernimmt die sofortige Zusage nicht unverändert.",
+        "Erstellt werden begründete Entscheidung und vollständiger Antwortentwurf mit bedingter Verhandlungslösung statt bloßer Themenauswahl; keine neue Mandatsaufnahme.",
+        "Keine sichere Insolvenzfeststellung oder Entwarnung aus den begrenzten Angaben, kein Versand oder persönliches Geschäftsführermandat wird behauptet."
+      ],
+      "runtime_status": "not_run"
+    },
+    {
+      "skill_path": "wirtschaftsanwalt/skills/betriebsvertrag-pruefen-und-nachtrag-erstellen/SKILL.md",
+      "sha256": "71ddf140c560627e5bcd08dca9c5f095e66186ece232722fa7ebb71e79224633",
+      "case_id": "abrufprognose-ohne-mindestabnahme",
+      "reviewed_on": "2026-09-23",
+      "method": "desk_review",
+      "verdict": "retained",
+      "reason": "Redaktioneller Abgleich des individuellen Fachwegs mit dem vorbereiteten Fall abrufprognose-ohne-mindestabnahme; keine Fallausführung behauptet.",
+      "checked_points": [
+        "Vorschau von etwa 500 Teilen wird ausdrücklich von verbindlichem Abruf getrennt und nicht zur Mindestabnahme oder Vorratsvergütung umgedeutet.",
+        "Verbindlichkeit setzt Bestätigung von Menge und Liefertermin voraus; bereits bestätigte Abrufe bleiben bestehen.",
+        "Der Nachtrag nennt Ausgangsvertrag, Nummer 3 und Beginn 01.11.2026 und regelt unveränderte Preise sowie Fortgeltung des Übrigen in vollständiger Sprache."
+      ],
+      "runtime_status": "not_run"
+    },
+    {
+      "skill_path": "wirtschaftsanwalt/skills/lieferforderung-und-maengeleinwand-bearbeiten/SKILL.md",
+      "sha256": "08c8ef0a995b4249818f91f8bf968c8e5f5c6504fc56d0fb10ac19164b06698c",
+      "case_id": "gegenforderung-nicht-automatisch-abziehen",
+      "reviewed_on": "2026-09-23",
+      "method": "desk_review",
+      "verdict": "retained",
+      "reason": "Redaktioneller Abgleich des individuellen Fachwegs mit dem vorbereiteten Fall gegenforderung-nicht-automatisch-abziehen; keine Fallausführung behauptet.",
+      "checked_points": [
+        "Der nach Gutschrift und Zahlung belegte Rechenstand lautet 20000 EUR, nicht automatisch 15000 EUR.",
+        "Die behaupteten 5000 EUR werden als ungeprüfte Gegenforderung behandelt; weder Erlöschen noch erklärte Aufrechnung werden fingiert.",
+        "Der vollständige Antwortentwurf erhält die weitere Lieferbeziehung und grenzt den Vorbehalt ab; er erzeugt keine unautorisierte Anerkenntnis- oder Aufrechnungserklärung."
+      ],
+      "runtime_status": "not_run"
+    },
+    {
+      "skill_path": "wirtschaftsanwalt/skills/personalmassnahme-pruefen-und-dokumentieren/SKILL.md",
+      "sha256": "4715af71310b3a70aed91fe43d854ed51520306849e19e345c6f2eb425a88791",
+      "case_id": "lohnkuerzung-nur-aenderungsangebot",
+      "reviewed_on": "2026-09-23",
+      "method": "desk_review",
+      "verdict": "retained",
+      "reason": "Redaktioneller Abgleich des individuellen Fachwegs mit dem vorbereiteten Fall lohnkuerzung-nur-aenderungsangebot; keine Fallausführung behauptet.",
+      "checked_points": [
+        "Der Vermerk behandelt Auftragsrückgang nicht als einseitige Kürzungsbefugnis; das Dokument ist ein zustimmungsbedürftiges Angebot, keine schon wirksame Anordnung.",
+        "3600 EUR, Beginn und Ende sowie automatische Rückkehr zu 4000 EUR ab 01.02.2027 sind im operativen Text eindeutig geregelt.",
+        "Unveränderte Arbeitszeit und übrige Bedingungen bleiben erhalten; keine erfundene Gegenleistung, Kündigung oder bereits erklärte Zustimmung."
+      ],
+      "runtime_status": "not_run"
+    },
+    {
+      "skill_path": "wirtschaftsanwalt/skills/gesellschafterkonflikt-und-vertretung-bearbeiten/SKILL.md",
+      "sha256": "5396c55d61b5f30106f85db16206211d15185bba911b666a7c461a15ab8754ff",
+      "case_id": "innenvorbehalt-und-aussenbindung",
+      "reviewed_on": "2026-09-23",
+      "method": "desk_review",
+      "verdict": "retained",
+      "reason": "Redaktioneller Abgleich des individuellen Fachwegs mit dem vorbereiteten Fall innenvorbehalt-und-aussenbindung; keine Fallausführung behauptet.",
+      "checked_points": [
+        "Interner Zustimmungsvorbehalt wird von Außenvertretung getrennt; keine schwebende Unwirksamkeit nach Paragraf 177 BGB allein wegen fehlender interner Zustimmung.",
+        "Der Beschlussvorschlag betrifft konkrete Durchführung des Vertrags und enthält keine ungefragte persönliche Entlastung oder Anspruchserledigung.",
+        "Gesellschaft als Mandantin bleibt von persönlicher Organverteidigung getrennt; Entlastung und mögliche Stimmverbote nach Paragraf 47 Absatz 4 werden nicht pauschal auf alle eigenen Organfragen verallgemeinert."
+      ],
+      "runtime_status": "not_run"
+    },
+    {
+      "skill_path": "wirtschaftsanwalt/skills/dienstleisterwechsel-und-datenzugriff-sichern/SKILL.md",
+      "sha256": "186b1dd935eb5ba2389c1a11f22adc2c54c89e328f0b9139439a7b5c7a051c2f",
+      "case_id": "exportpruefung-vor-loeschfreigabe",
+      "reviewed_on": "2026-09-23",
+      "method": "desk_review",
+      "verdict": "retained",
+      "reason": "Redaktioneller Abgleich des individuellen Fachwegs mit dem vorbereiteten Fall exportpruefung-vor-loeschfreigabe; keine Fallausführung behauptet.",
+      "checked_points": [
+        "Vertragsanspruch der GmbH wird nicht auf ein eigenes Betroffenenrecht nach Artikel 15 DSGVO gestützt; CSV-Teilübergabe und fehlende Anhänge werden getrennt.",
+        "Das Schreiben verlangt die geschuldeten Anhänge und den Testimport termingerecht, ohne zusätzliche ungeschuldete Programmierung.",
+        "Keine Löschfreigabe allein wegen CSV-Versand; Rückgabe, erforderliche Kopienlöschung und gesetzliche Aufbewahrung unter Artikel 28 Absatz 3 werden abgestimmt.",
+        "Kein Datenversand, Kontenzugriff oder tatsächlich erteilter Löschauftrag wird behauptet."
+      ],
+      "runtime_status": "not_run"
+    },
+    {
+      "skill_path": "wirtschaftsanwalt/skills/kaufmaennische-agb-pruefen-und-neufassen/SKILL.md",
+      "sha256": "e5b2fdc771ea4b9f636ef4fa95d52f39f1d69b2a807a397f613aaa485470f49e",
+      "case_id": "zahlungs-und-prueffrist-b2b",
+      "reviewed_on": "2026-09-23",
+      "method": "desk_review",
+      "verdict": "retained",
+      "reason": "Redaktioneller Abgleich des individuellen Fachwegs mit dem vorbereiteten Fall zahlungs-und-prueffrist-b2b; keine Fallausführung behauptet.",
+      "checked_points": [
+        "Die pauschale Herausnahme des gesamten Paragrafen 308 wird korrigiert; Nummern 1a und 1b bleiben als unterschiedliche Prüfgegenstände erhalten.",
+        "Paragrafen 271a, 307 und 310 werden mit Zahlungs- und Überprüfungsfrist verknüpft; kein pauschaler 60-Tage-Freibrief.",
+        "Beide Ersatzregeln sind vollständig und haben klare Fristauslöser; neue Bedingungen werden nicht als rückwirkende Heilung bestehender Verträge bezeichnet."
+      ],
+      "runtime_status": "not_run"
+    },
+    {
+      "skill_path": "wirtschaftsanwalt/skills/liquiditaetsrisiken-und-fristenwarnung-bearbeiten/SKILL.md",
+      "sha256": "6061d04acc352915240a4ebd0602e5e4b14febd3746ed67348588f399ea12627",
+      "case_id": "verlust-ist-kein-insolvenztest",
+      "reviewed_on": "2026-09-23",
+      "method": "desk_review",
+      "verdict": "retained",
+      "reason": "Redaktioneller Abgleich des individuellen Fachwegs mit dem vorbereiteten Fall verlust-ist-kein-insolvenztest; keine Fallausführung behauptet.",
+      "checked_points": [
+        "Der Verlust wird nicht mit Zahlungsunfähigkeit oder Überschuldung gleichgesetzt; aktueller Status, ungesicherte Zukunft und fehlende Vermögensprüfung werden getrennt.",
+        "Paragraf 18 mit regelmäßig 24 Monaten und Paragraf 19 mit zwölfmonatiger Fortführungsprognose werden nicht verwechselt.",
+        "Paragraf 15a wird als ohne schuldhaftes Zögern mit Höchstfristen von drei beziehungsweise sechs Wochen behandelt, nicht als sechs Wochen freie Zeit ab Beratungsdatum.",
+        "Warnschreiben und konkreter sofortiger Daten- und Prüfbedarf liegen vor; weder persönliche Haftungsfreigabe noch pauschale Zahlungsfreigabe nach Paragraf 15b noch automatischer Insolvenzantrag."
+      ],
+      "runtime_status": "not_run"
+    },
+    {
+      "skill_path": "wirtschaftsanwalt/skills/unternehmensvergleich-und-erfuellung-gestalten/SKILL.md",
+      "sha256": "4f5a21a511b34d2082d2565e5cf043346e4c8b43d7a9ebd9d0f878aebe218500",
+      "case_id": "ratenvergleich-ohne-organentlastung",
+      "reviewed_on": "2026-09-23",
+      "method": "desk_review",
+      "verdict": "retained",
+      "reason": "Redaktioneller Abgleich des individuellen Fachwegs mit dem vorbereiteten Fall ratenvergleich-ohne-organentlastung; keine Fallausführung behauptet.",
+      "checked_points": [
+        "Vier Raten und Termine sowie bedingter Erlass erst nach vollständigen 16000 EUR sind ausformuliert; kein sofortiger Erlass von 8000 EUR.",
+        "Nachfrist und Ausfallmechanik verhindern doppelte Forderungen; nach einer gezahlten Rate bleiben aus dem Ausgangsbetrag höchstens 20000 EUR, nicht 24000 EUR plus Vergleichssumme.",
+        "Erledigung beschränkt sich auf den bezeichneten Lieferstreit; keine persönliche Organentlastung, ungefragte Nebenforderung oder automatische Vollstreckbarkeit."
+      ],
+      "runtime_status": "not_run"
+    },
+    {
+      "skill_path": "wirtschaftsanwalt/skills/unternehmensstreit-gerichtlich-vorbereiten/SKILL.md",
+      "sha256": "b2b7a0e093e63d957d9cb3901402cfb1348c2d98c7b431894c9e3bd6c5b3bb5e",
+      "case_id": "teilzahlung-im-klageentwurf",
+      "reviewed_on": "2026-09-23",
+      "method": "desk_review",
+      "verdict": "retained",
+      "reason": "Redaktioneller Abgleich des individuellen Fachwegs mit dem vorbereiteten Fall teilzahlung-im-klageentwurf; keine Fallausführung behauptet.",
+      "checked_points": [
+        "Der bestimmte Zahlungsantrag wird auf 8400 EUR angepasst, Teilzahlung nicht doppelt berücksichtigt und kein Erledigungs- oder Rücknahmeprozess für eine noch nicht eingereichte Klage fingiert.",
+        "Die aktuelle allgemeine Wertgrenze von 10000 EUR nach Paragraf 23 GVG wird berücksichtigt; kein Landgericht allein wegen früherer 5000-EUR-Grenze.",
+        "Fehlende K3 wird nicht als beigefügt bezeichnet; vorhandene K1 und K2 stützen den Vortrag und die konkrete Nachweislücke wird getrennt benannt.",
+        "Vollständiger Entwurf statt bloßer Analyse, keine behauptete Einreichung oder Fristwahrung."
+      ],
+      "runtime_status": "not_run"
+    }
+  ],
+  "artifact_hashes": {
+    "wirtschaftsanwalt/.claude-plugin/plugin.json": "ec8efa79f34deb05d54b5777a9a4520d7b9c70e97e46f9486fc1ff89332ab7d2",
+    "wirtschaftsanwalt/.codex-plugin/plugin.json": "e826deb5a178864003700cdc76fb37f16213cddcfffd9fc10e55b39b27aac6a4",
+    "wirtschaftsanwalt/README.md": "bad7d3a61540eb6032c28eb1f48636554c77d46ed49527c5ad3e55558da3f200",
+    "wirtschaftsanwalt/wirtschaftsanwalt-hauptproblem.md": "6f8f2fae69f16b523b8bd8e0bf3aea7f12c69b38a6650ce83af0d1d10cc73b94",
+    "wirtschaftsanwalt/wirtschaftsanwalt-schnellstart.md": "00c120fb39f6f80ff1c3ef4b096c74abcaa0cc32db63a510e26f8391a6004dd6",
+    "wirtschaftsanwalt/wirtschaftsanwalt-werkstatt.md": "c7e88d2a0c52b93d45aa74bed399f0eaf0ab32ada88aac126df92bc9d9652113",
+    "wirtschaftsanwalt/references/fachquellen.md": "fb7430126186d54e7b33ad02d0f4634abf20adacea14fa84bb09b3c6f831a1a4",
+    "wirtschaftsanwalt/references/zitierweise.md": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e",
+    "wirtschaftsanwalt/skills/betriebsvertrag-pruefen-und-nachtrag-erstellen/SKILL.md": "71ddf140c560627e5bcd08dca9c5f095e66186ece232722fa7ebb71e79224633",
+    "wirtschaftsanwalt/skills/dienstleisterwechsel-und-datenzugriff-sichern/SKILL.md": "186b1dd935eb5ba2389c1a11f22adc2c54c89e328f0b9139439a7b5c7a051c2f",
+    "wirtschaftsanwalt/skills/gesellschafterkonflikt-und-vertretung-bearbeiten/SKILL.md": "5396c55d61b5f30106f85db16206211d15185bba911b666a7c461a15ab8754ff",
+    "wirtschaftsanwalt/skills/kaufmaennische-agb-pruefen-und-neufassen/SKILL.md": "e5b2fdc771ea4b9f636ef4fa95d52f39f1d69b2a807a397f613aaa485470f49e",
+    "wirtschaftsanwalt/skills/lieferforderung-und-maengeleinwand-bearbeiten/SKILL.md": "08c8ef0a995b4249818f91f8bf968c8e5f5c6504fc56d0fb10ac19164b06698c",
+    "wirtschaftsanwalt/skills/liquiditaetsrisiken-und-fristenwarnung-bearbeiten/SKILL.md": "6061d04acc352915240a4ebd0602e5e4b14febd3746ed67348588f399ea12627",
+    "wirtschaftsanwalt/skills/personalmassnahme-pruefen-und-dokumentieren/SKILL.md": "4715af71310b3a70aed91fe43d854ed51520306849e19e345c6f2eb425a88791",
+    "wirtschaftsanwalt/skills/unternehmensmandat-bis-zum-dokument-bearbeiten/SKILL.md": "e6c436438e442d25f6c69eb3ff11b84005b8afced8fdfaf4519ba9446d222871",
+    "wirtschaftsanwalt/skills/unternehmensstreit-gerichtlich-vorbereiten/SKILL.md": "b2b7a0e093e63d957d9cb3901402cfb1348c2d98c7b431894c9e3bd6c5b3bb5e",
+    "wirtschaftsanwalt/skills/unternehmensvergleich-und-erfuellung-gestalten/SKILL.md": "4f5a21a511b34d2082d2565e5cf043346e4c8b43d7a9ebd9d0f878aebe218500"
+  }
+}

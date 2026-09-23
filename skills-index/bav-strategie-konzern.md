@@ -1,6 +1,6 @@
 # bav-strategie-konzern
 
-**59 Skills** · Stand `v445.1.2`
+**59 Skills** · Stand `v445.2.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../bav-strategie-konzern/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

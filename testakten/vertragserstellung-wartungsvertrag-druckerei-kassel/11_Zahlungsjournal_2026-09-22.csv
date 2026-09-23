@@ -1,0 +1,5 @@
+"Buchungstag";"Beleg";"Rechnung";"Soll_Haben";"Betrag_EUR";"Konto";"Verwendungszweck"
+"2026-07-14";"ZA-0714-18";"WS-260701";"Ausgang";"3000,00";"Geschäftskonto 7702";"Erste Teilzahlung Q3"
+"2026-07-15";"ZA-0715-09";"WS-260701";"Ausgang";"2712,00";"Geschäftskonto 7702";"Rest Wartung Q3"
+"2026-09-18";"ZA-0918-31";"WS-260914";"Ausgang";"1000,00";"Geschäftskonto 7702";"Entstörung K2; Teilzahlung"
+"2026-09-21";"ZA-0921-07";"WS-260914";"Ausgang";"500,00";"Geschäftskonto 7702";"Weitere Teilzahlung; Rückfrage offen"
