@@ -1,0 +1,26 @@
+name: corporate-contract-law-vertrieb-messtechnik-bremen
+plugin: corporate-contract-law
+description: Deutsch-italienische Vertriebsverhandlung mit Gegenfassungen, Direktkunden, Eröffnungsbestellung, Service und Lagerbestand.
+checks:
+  - id: herstellerfassung
+    check_type: file_exists
+    description: Der vollständige Herstellerentwurf ist als eigener Verhandlungsstand vorhanden.
+    path: 04_Herstellervertrag_DE_2026-08-20.docx
+  - id: gegenfassung
+    check_type: file_exists
+    description: Der englische Gegenentwurf des Vertriebspartners liegt separat vor.
+    path: 05_Distributor_counterproposal_EN_2026-09-03.docx
+  - id: eroeffnungsbestellung
+    check_type: file_exists
+    description: Mengen und Preise der vorgesehenen Erstbestellung lassen sich aus der Proforma nachvollziehen.
+    path: 10_Proforma_PF-IT-260909.docx
+  - id: kalkulation
+    check_type: file_exists
+    description: Eine native Arbeitsmappe enthält die wirtschaftlichen Annahmen des Vertriebspartners.
+    path: 13_Haendlerkalkulation_2027.xlsx
+  - id: vertriebsform-und-gebiet
+    check_type: human_review
+    description: Eigenhandel, Vermittlung, Gebietsabrede und Direktkundenvorbehalt anhand der Unterlagen auseinanderhalten; Rechtswahl ersetzt keine Prüfung zwingender Vorgaben.
+  - id: widerspruchsfreier-gegenentwurf
+    check_type: human_review
+    description: Den beauftragten Gegenentwurf mit Bestellungen, Preisen, Service, Daten und Beendigung abstimmen; Verhandlungsvorschläge nicht als bereits vereinbart darstellen.

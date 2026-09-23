@@ -1,0 +1,26 @@
+name: corporate-contract-law-projektvertrag-automation-augsburg
+plugin: corporate-contract-law
+description: Automationsprojekt mit Leistungsgrenzen, Zahlungsstufen, Vorplanungsauftrag, Schnittstellen und noch offenen Verhandlungspunkten.
+checks:
+  - id: vorplanungsauftrag
+    check_type: file_exists
+    description: Der gesonderte Vorplanungsauftrag bleibt vom späteren Projektvertrag unterscheidbar.
+    path: 02_LOI_Vorplanung_2026-08-05.docx
+  - id: vertragsfassung
+    check_type: file_exists
+    description: Ein ausformulierter Lieferantenentwurf liegt als bearbeitbare Datei vor.
+    path: 06_Vertragsentwurf_Helix_2026-09-09.docx
+  - id: zahlungsstufen
+    check_type: file_exists
+    description: Zahlungsstufen und Termine können anhand einer nativen Arbeitsmappe geprüft werden.
+    path: 17_Meilensteinzahlungen_und_Termine.xlsx
+  - id: messprotokoll
+    check_type: file_exists
+    description: Messwerte sind als einzelne Datensätze und nicht nur als zusammenfassende Bewertung vorhanden.
+    path: 19_Probe_Dosierung_2026-09-03.csv
+  - id: gezielte-verhandlung
+    check_type: human_review
+    description: Noch offene Zustimmung zu Anrechnung, Schnittstellen und Terminen gezielt erfragen; keine Freigabe aus einem bloßen Angebot ableiten.
+  - id: zusammenpassende-vertragsfassung
+    check_type: human_review
+    description: Vertrag, Leistungsanlagen, Abnahme und Zahlungsstufen widerspruchsfrei abstimmen; eine separat bezahlte Vorplanung weder doppelt abrechnen noch ohne Einigung gutschreiben.

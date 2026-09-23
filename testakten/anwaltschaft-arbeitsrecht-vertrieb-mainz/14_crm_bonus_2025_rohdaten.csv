@@ -1,0 +1,21 @@
+﻿Auftrag;Kunde;Rechnung;Leistungsdatum;Netto_EUR;Hesse_Anteil_EUR;Abrechnung_Anteil_EUR;Änderung_am;Vermerk_Buchhaltung
+V25-101;Altenhof Gerätebau;RE25-301;2025-01-12;20000;20000;20000;;Zuordnung unverändert
+V25-102;Berghaus Anlagen;RE25-302;2025-01-24;25000;25000;10000;2026-04-21;"15.000 an Seifert; CRM-Freigabe Berg"
+V25-103;Cramer Prüftechnik;RE25-303;2025-02-12;30000;30000;30000;;Zuordnung unverändert
+V25-104;Dornbach Systeme;RE25-304;2025-02-24;35000;35000;35000;;Zuordnung unverändert
+V25-105;Eichen Messgeräte;RE25-305;2025-03-12;40000;40000;40000;;Zuordnung unverändert
+V25-106;Feldmann Labor;RE25-306;2025-03-24;45000;45000;45000;;Zuordnung unverändert
+V25-107;Gartenbach Pumpen;RE25-307;2025-04-12;50000;50000;50000;;Zuordnung unverändert
+V25-108;Heller Maschinen;RE25-308;2025-04-24;30000;30000;30000;;Zuordnung unverändert
+V25-109;Ilmen Werkzeuge;RE25-309;2025-05-12;25000;25000;5000;2026-04-21;"20.000 an Roth; Änderung ohne Empfangsbestätigung"
+V25-110;Jäger Automation;RE25-310;2025-05-24;40000;40000;40000;;Zuordnung unverändert
+V25-111;Kastner Anlagen;RE25-311;2025-06-12;35000;35000;35000;;Zuordnung unverändert
+V25-112;Lichtenberg Technik;RE25-312;2025-06-24;45000;45000;45000;;Zuordnung unverändert
+V25-113;Mahlow Geräte;RE25-313;2025-07-12;30000;30000;30000;;Zuordnung unverändert
+V25-114;Norden Laborbau;RE25-314;2025-07-24;40000;40000;40000;;Zuordnung unverändert
+V25-115;Ostheim Pumpen;RE25-315;2025-08-12;35000;35000;35000;;Zuordnung unverändert
+V25-116;Peters Prüfstände;RE25-316;2025-08-24;30000;30000;30000;;Zuordnung unverändert
+V25-117;Rabenfeld Industrie;RE25-317;2025-09-12;50000;50000;25000;2026-04-21;"25.000 an Berg; gemeinsamer Rahmenvertrag"
+V25-118;Steinbach Geräte;RE25-318;2025-09-24;30000;30000;30000;;Zuordnung unverändert
+V25-119;Ufer Messtechnik;RE25-319;2025-10-12;40000;40000;40000;;Zuordnung unverändert
+V25-120;Waldheim Automation;RE25-320;2025-10-24;35000;35000;35000;;Zuordnung unverändert

@@ -1,0 +1,17 @@
+﻿Zeitpunkt;Ticket;Urheber;Kanal;Eintrag;Status
+2026-09-09T08:10:00+02:00;ND-6721;Monitoring;Web und Portal;"HTTP 503; erste negative Prüfung";offen
+2026-09-09T08:17:00+02:00;ND-6721;Tom Bremer;Telefon;"Kunden melden leeren Warenkorb; Portal nicht erreichbar";offen
+2026-09-09T09:04:00+02:00;ND-6721;Nils Böttcher;Support;"Meldung bestätigt; Datenbankvolume nicht eingebunden";in Arbeit
+2026-09-09T11:32:00+02:00;ND-6721;Betrieb;Host;"Neustart ohne dauerhaften Erfolg; Dateisystemprüfung";in Arbeit
+2026-09-09T16:48:00+02:00;ND-6721;Jana Römer;E-Mail;Sieben telefonisch angenommene Bestellungen separat notiert;in Arbeit
+2026-09-10T09:15:00+02:00;ND-6721;Betrieb;Sicherung;"Sicherung vom 09.09. 02:00 Uhr lesbar; Kopie begonnen";in Arbeit
+2026-09-10T14:26:00+02:00;ND-6721;Nils Böttcher;Support;Kein Hinweis auf Anmeldung fremder Konten in sichtbaren Zugriffslogs;in Arbeit
+2026-09-11T10:08:00+02:00;ND-6721;Betrieb;Datenbank;"Neuaufbau auf Ersatzvolume; Bestellqueue noch gesperrt";in Arbeit
+2026-09-11T17:42:00+02:00;ND-6721;Tom Bremer;Kontrolle;"Produktvorschau erreichbar; Kundenanmeldung weiter 503";in Arbeit
+2026-09-12T08:10:00+02:00;ND-6721;Monitoring;Web und Portal;Erster vollständiger grüner Bestell- und Loginlauf;beobachtet
+2026-09-12T09:03:00+02:00;ND-6721;Tom Bremer;Kontrolle;"Bestellung KL-3612 und Nachrichten sichtbar; keine Vollzählung";beobachtet
+2026-09-14T10:12:00+02:00;ND-6764;Jana Römer;E-Mail;Datenübergabe für Dienstleisterwechsel angefragt;offen
+2026-09-16T14:05:00+02:00;ND-6764;Felix Sander;Abrechnung;Exportfreigabe bis Zahlung ND-2026-388 angehalten;wartet
+2026-09-18T12:42:00+02:00;ND-6782;Maren Fink;Support;"Konto K-00817; Datenzusammenstellung und Marketinglöschung angefragt";offen
+2026-09-21T10:43:18+02:00;ND-6764;Tom Bremer;Admin;Exportjob EXP-260921-1043: EXPORT_ACCOUNT_HOLD;wartet
+2026-09-22T14:10:00+02:00;ND-6782;Nils Böttcher;Support;"Marketingkennzeichen am 18.09. aus Versand genommen; Löschlauf noch offen";in Arbeit

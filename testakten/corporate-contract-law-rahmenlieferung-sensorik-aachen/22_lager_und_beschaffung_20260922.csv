@@ -1,0 +1,7 @@
+﻿Stand;Teilenummer;Bezeichnung;Stufe;Menge_Stück;Einstand_EUR_je_Stück;Beleg;Bestelldatum;Stornofrist;Projektzuordnung;Bemerkung
+2026-09-22;MK-41;Messkern alt;Lager verfügbar;96;61.00;LG-260922-41;2026-06-18;;D400 noch nicht exklusiv;Kein Teil der 360 MK-42
+2026-09-22;MK-42;Messkern neu;Fest bestellt, noch nicht geliefert;240;64.00;TB-EK-260916-77;2026-09-16;keine;Rheinkern intern vorgemerkt;"Vorlieferant bestätigt 25.09.; keine Käuferfreigabenummer"
+2026-09-22;MK-42;Messkern neu;Nur reserviert;120;64.00;TB-RES-260918-12;2026-09-18;2026-09-24T12:00:00+02:00;Rheinkern intern vorgemerkt;"Kostenfrei lösbar; zusammen mit Festbestellung 360"
+2026-09-22;GEH-D400;Leergehäuse;Gefertigt, unbestückt;120;18.00;FA-260917-32;2026-09-17;keine;Rheinkern intern vorgemerkt;Keine Messkerne enthalten
+2026-09-22;PCB-D400;Leiterplatte;Bestückt ohne Messkern;48;27.50;FA-260918-04;2026-09-18;keine;D400 allgemein;"MK-42 noch nicht eingesetzt; auch für andere D400 nutzbar"
+2026-09-22;D400-C-MUSTER;Versuchssensor komplett;Ausgeliefert;12;0.00;LS-260917-14;2026-08-28;;RK-WZ-260828;"Nicht Lagerbestand; im Werkzeugpreis enthalten"

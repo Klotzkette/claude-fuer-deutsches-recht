@@ -1,0 +1,26 @@
+name: anwaltschaft-arbeitsrecht-vertrieb-mainz
+plugin: anwaltschaft-generell
+description: Mainzer Vertriebsarbeitsverhältnis mit Vertragsnachtrag, Kündigungszugang, Bonusabrechnung, Urlaub und Übergabe von Kundendaten.
+checks:
+  - id: arbeitsvertrag
+    check_type: file_exists
+    description: Der unterschriebene Arbeitsvertrag ist als vollständige Einzelunterlage vorhanden.
+    path: 02_arbeitsvertrag_2019_unterschrieben.pdf
+  - id: zugangsnachweis
+    check_type: file_exists
+    description: Der Einwurfnachweis liegt getrennt von Kündigung und Vorabmail vor.
+    path: 11_einwurfnachweis_15-09.pdf
+  - id: bonusrohdaten
+    check_type: file_exists
+    description: CRM-Umsätze und Zuordnungen stehen zur eigenständigen Prüfung bereit.
+    path: 14_crm_bonus_2025_rohdaten.csv
+  - id: bonusarbeitsmappe
+    check_type: file_exists
+    description: Der betriebliche Bonusabgleich ist als bearbeitbare Arbeitsmappe enthalten.
+    path: 15_bonusabgleich_2025.xlsx
+  - id: getrennte-prueffragen
+    check_type: human_review
+    description: Erklärungsform, Zugang, Fristen, betriebliche Gründe, Bonus und Urlaub anhand ihrer jeweiligen Belege trennen; die Kündigung nicht allein aus dem Personalumbau beurteilen.
+  - id: antwort-und-fortsetzung
+    check_type: human_review
+    description: Den verlangten arbeitsrechtlichen Entwurf fertigstellen, offenen Beweis gezielt erfragen und eine nachgereichte Abrechnung oder Zugangsauskunft in denselben Vorgang einarbeiten.

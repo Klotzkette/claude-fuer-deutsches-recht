@@ -1,0 +1,513 @@
+{
+  "schema_version": 1,
+  "plugin": "anwaltschaft-generell",
+  "reviewed_on": "2026-09-23",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/BJNR001950896.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlicher Gesamttext zugänglich, gezielte Normgruppen zu Vertrag, Form, Vertretung, Leistungsstörung, Verjährung und AGB geprüft; keine Behauptung vollständiger Prüfung jedes BGB-Paragrafen oder aller historischen Fassungen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/__377.html",
+      "checked_on": "2026-09-23",
+      "supports": "Einzelnorm gelesen: beiderseitiger Handelskauf, Untersuchung, offene und versteckte Mängel; rechtzeitige Absendung nach Absatz 4, Arglistgrenze nach Absatz 5."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/kschg/BJNR004990951.html",
+      "checked_on": "2026-09-23",
+      "supports": "Normtext zugänglich: allgemeiner Schutz, Änderungskündigung und Klagefrist getrennt behandeln."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/betrvg/__102.html",
+      "checked_on": "2026-09-23",
+      "supports": "Einzelnorm gelesen: Betriebsratsanhörung und Kündigung auseinanderhalten."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/arbgg/__46h.html",
+      "checked_on": "2026-09-23",
+      "supports": "Einzelnorm gelesen: besondere Formfiktion nur für klar erkennbare Erklärung im nach Paragraf 46c eingereichten und zugestellten oder mitgeteilten vorbereitenden Schriftsatz."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gvg/__23.html",
+      "checked_on": "2026-09-23",
+      "supports": "Einzelnorm gelesen: aktuelle allgemeine Wertgrenze 10000 EUR; Sonderzuweisungen und Übergangsrecht bleiben fallbezogen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/BJNR005330950.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlicher Gesamttext zugänglich; elektronische Einreichung und Formfiktion, Vortrag, Beweis und bestimmte Anträge als gezielte Normgruppen. Keine gesamte ZPO-Prüfung."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-68-24/",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlicher Volltext gelesen, Randnummern 11 bis 21; konkrete Aussagegrenzen in allen betroffenen Texten."
+    },
+    {
+      "url": "https://juris.curia.europa.eu/juris/document/document.jsf?cid=496700&docid=269146&doclang=en&mode=lst&occ=first&pageIndex=0&part=1",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlicher englischer Volltext gelesen, Randnummern 36 bis 50 und Tenor; eigene deutsche Zusammenfassung, kein angebliches deutsches Wortlautzitat."
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=pm&Blank=1&Datum=2016-6&Gericht=bgh&file=dokument.pdf&linked=urt&nr=75498",
+      "checked_on": "2026-09-23",
+      "supports": "Nur amtlicher Suchauszug mit Leitsätzen zu VIII ZR 49/15; Direktabrufe nicht als Volltext lesbar beziehungsweise Weiterleitung. Keine bestätigte Volltextverifikation."
+    },
+    {
+      "url": "https://curia.europa.eu/site/upload/docs/application/pdf/2023-05/cp230071de.pdf",
+      "checked_on": "2026-09-23",
+      "supports": "Amtliche Pressemitteilung zu C-487/21 erschlossen; Urteilsvolltext nicht zugänglich. Keine Randnummern oder Volltextprüfung behauptet."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/eli/reg/2016/679/oj/deu",
+      "checked_on": "2026-09-23",
+      "supports": "Direktabruf der DSGVO durch JavaScript-Sperre begrenzt; Normstart, keine hier erfolgte Volltextverifikation."
+    },
+    {
+      "url": "https://www.bfdi.bund.de/SharedDocs/Downloads/DE/Broschueren/INFO1.pdf?__blob=publicationFile&v=61",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlicher Suchauszug sichtbar, Direktabruf 403; nicht als gelesene gesamte Normfassung verwendet."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__35.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlicher Suchauszug sichtbar, direkte Einzel- und Gesamtabrufe mit Zeitüberschreitung; vor tragender Verwendung erneut prüfen."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Neu verfassten Schnellstart redaktionell geprüft: drei Eingangsmodi, konkrete Normgrenzen, zwei verifizierte Entscheidungen und fortgesetzte Dokumentproduktion. Keine Live-Mandatsausführung.",
+    "changes": [
+      "Kompakte eigenständige Bearbeitung ohne Pluginreferenzen mit einem Fachweg und gemeinsamem Aktenstand.",
+      "Paragraf 377 HGB, besondere Prozessformfiktion und aktuelle Zuständigkeitsgrenze ausdrücklich abgegrenzt."
+    ],
+    "sha256": "91218fca77b252acae824d7a276999660b6805b9933c9c7930391351f51d8756",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Neu verfasste Werkstatt vollständig redaktionell geprüft und wiederholte Prozesshinweise gekürzt. Fachliche Detailwege und Quellenbegrenzungen bewahrt; keine Live-Ausführung der Übungsakten.",
+    "changes": [
+      "Vertragsfassung, AGB-Rechtsfolge, Mängelrechte, Zahlungsrechnung, Arbeit, Datenzugang, Vertretung, Vergleich und Prozessschrift bis zum konkreten Dokument ausgebaut.",
+      "Fortsetzung nach Teilzahlung, Zugangsnachweis, Verhandlungsantwort und Datenexport konkretisiert.",
+      "Quellenstatus unterscheidet gelesenen Volltext, Suchanker, Pressemitteilung und gesperrten Normabruf.",
+      "Gegenprüfung: Zeugen vom Hörensagen nicht pauschal ausschließen; Wahrnehmungsgrundlage und Beweiswürdigung unterscheiden."
+    ],
+    "sha256": "0d3beeafee65149dd82ec3c18434f3acaee0de103f4e7e10c188389eeb0af7c4",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
+  },
+  "focus_review": {
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review",
+    "verdict": "revised",
+    "reason": "Hauptproblem-Prompt und ausführenden Hauptskill gegengelesen: gleicher Mandatsfokus, drei Eingänge, Beweis und Rechnung, ein Fachweg, Dokument und Fortsetzung. Kompakttext auf Byte- und Zeichengrenze geprüft; kein elfter Skill oder Wrapper, kein Live-Test.",
+    "changes": [
+      "Hauptproblem auf denselben ausführenden Mandatsablauf begrenzt; kein zusätzlicher Spezialauftrag.",
+      "Normgrenzen zu Handelskauf, Arbeitsform und Zuständigkeit sowie ehrlicher Quellenstatus synchronisiert."
+    ],
+    "prompt_path": "anwaltschaft-generell/anwaltschaft-generell-hauptproblem.md",
+    "prompt_sha256": "695720408a58aec3c2626385201a2d3f7b8c41f2997c41a7a7c2b1e67d3056ee",
+    "skill_path": "anwaltschaft-generell/skills/mandat-bis-zum-schreiben-bearbeiten/SKILL.md",
+    "skill_sha256": "c28f65ab7bc1b03a40ee915758eacc0f63b027572ae6213bb0688fff71aba2f4"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-23",
+    "files": [
+      "anwaltschaft-generell/anwaltschaft-generell-schnellstart.md",
+      "anwaltschaft-generell/anwaltschaft-generell-werkstatt.md",
+      "anwaltschaft-generell/anwaltschaft-generell-hauptproblem.md",
+      "anwaltschaft-generell/skills/mandat-bis-zum-schreiben-bearbeiten/SKILL.md"
+    ],
+    "opening_change": "Konkreter fachlicher Eingang aus Auftrag und vorhandenen Unterlagen; Anspruch, Gegenrecht, Beweis, Frist und Rechnung werden bis zum Empfängerdokument bearbeitet.",
+    "norms": [
+      "Paragrafen 125 bis 127, 130, 164 folgende, 187 folgende, 195, 199, 203, 204, 280 folgende, 305 bis 310, 433 folgende, 623 und 779 BGB",
+      "Paragraf 377 HGB einschließlich Absatz 4",
+      "Paragrafen 1, 2, 4 bis 7 und 23 KSchG sowie Paragraf 102 BetrVG",
+      "Paragraf 46h ArbGG und Paragrafen 130a, 130d, 130e, 138 und 253 ZPO",
+      "Paragraf 23 Nummer 1 GVG, aktuelle allgemeine Grenze 10000 EUR",
+      "Artikel 12, 15 und 28 DSGVO mit offen benannter Direktabrufsperre"
+    ],
+    "decisions": [
+      {
+        "citation": "BAG, Urteil vom 30.01.2025, Az. 2 AZR 68/24, Randnummern 11 bis 21",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-68-24/",
+        "application": "Amtlicher Volltext gelesen: Zugangsnachweis durch Einlieferungsbeleg und bloßen Sendungsstatus im entschiedenen Fall unzureichend.",
+        "limit": "Kein genereller Ausschluss des Einwurf-Einschreibens; Randnummer 18 lässt die Konstellation mit nachgewiesenem Verfahren und Auslieferungsbeleg offen."
+      },
+      {
+        "citation": "EuGH, Urteil vom 12.01.2023, Az. C-154/21, Randnummern 36 bis 50 und Tenor",
+        "url": "https://juris.curia.europa.eu/juris/document/document.jsf?cid=496700&docid=269146&doclang=en&mode=lst&occ=first&pageIndex=0&part=1",
+        "application": "Amtlicher englischer Volltext gelesen: grundsätzlich konkrete Empfänger auf Verlangen.",
+        "limit": "Grenzen bei unmöglicher Identifizierung und nachgewiesen offensichtlich unbegründeten oder exzessiven Anträgen; kein allgemeiner Unternehmensaktenanspruch. Deutsche Darstellung ist Zusammenfassung."
+      }
+    ],
+    "remaining_limits": [
+      "Desk-Review und gezielte Primärquellenrecherche, keine Live-Modelltests und keine vollständige Bearbeitung der parallel entstehenden Akten.",
+      "BGH VIII ZR 49/15 nur amtlicher Suchanker; EuGH C-487/21 nur amtliche Pressemitteilung und Verfahrensnachweis, keine Volltextverifikation.",
+      "DSGVO- und BfDI-Direktabrufe gesperrt, GmbHG-Abrufe zeitüberschritten. Vor tragenden Zitaten konkrete Normfassung erneut prüfen.",
+      "Keine Literatur aus Modellwissen, keine Entscheidungen aus 2026 behauptet, keine umfassende Vollständigkeits- oder Aktualitätsgarantie."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Ohne Material: konkrete Frage nach vertretener Seite, Vorgang, gewünschtem Ergebnis, Frist und maßgeblichem Dokument.",
+      "Ordner ohne Auftrag: intern tragende Unterlagen lesen, keine Inventarliste, daraus passende Zielwahl ableiten.",
+      "Klarer Auftrag: unmittelbar prüfen und ausformulieren; nur entscheidende Lücken erfragen und unabhängige Teile fertigstellen."
+    ],
+    "continuation": "Antwort oder Nachreichung verändert im gemeinsamen Aktenstand gezielt Tatsache, Anspruch, Rechnung, Frist und Empfängertext; keine neue Aufnahme. Teilzahlung, Zugangsnachweis und Datenexport haben ausdrücklich verschiedene Folgeänderungen.",
+    "enrichment": "Genau ein Fachweg für den aktuellen Engpass; Hauptablauf produziert selbst. Fachliche Fortsetzung bis Brief, Ersatzklausel, Vergleich oder Schriftsatz mit erhaltenen Belegen.",
+    "limits": "desk_review; keine Live-Ausführung, kein Versand, keine Einreichung, kein Vergleichsschluss und keine Löschung ohne konkrete Freigabe."
+  },
+  "selection": {
+    "target_skill": "mandat-bis-zum-schreiben-bearbeiten",
+    "positive": [
+      "Prüfen Sie die offene Rechnung aus dem Liefervertrag samt Gegenposition und Zahlungsnachweisen und schreiben Sie die konkrete Antwort für unseren Betrieb.",
+      "Führen Sie unseren vorhandenen Mandatsstand nach den neuen Belegen bis zum aktualisierten anwaltlichen Schreiben fort, ohne neue Aufnahme."
+    ],
+    "negative": [
+      "Richten Sie eine Kanzleiverwaltung mit Kalendern, Nutzerkonten und automatischem E-Mail-Versand ein.",
+      "Berechnen Sie ausschließlich den Zugewinnausgleich zweier Ehegatten aus Anfangs- und Endvermögen."
+    ]
+  },
+  "cases": [
+    {
+      "id": "hauptauftrag-nach-teilzahlung-fortsetzen",
+      "target_skill": "mandat-bis-zum-schreiben-bearbeiten",
+      "request": "Setzen Sie den vorhandenen Antwortentwurf an den Lieferanten als ergebnis.md fort, ohne Versand. Der Mandant ist Käufer; Vertrag und Rechnung über 12000 EUR sowie eine verbindliche Gutschrift über 1000 EUR sind belegt und unstreitig. Neu liegt eine Zahlung über 4000 EUR vor, vereinbarungsgemäß vollständig auf die Hauptforderung. Zinsen und Kosten sind noch nicht angefallen; keine Mängel oder Gegenrechte. Der Lieferant behauptet weiter 11000 EUR Rest. Keine neue Aufnahme; schreiben Sie die konkrete Korrektur vollständig aus.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Der Rest der Hauptforderung beträgt 7000 EUR; die Zahlung wird genau einmal nach der ausdrücklich vorgegebenen Tilgungsvereinbarung angerechnet.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Der Text weist die weiter verlangten 11000 EUR durch die konkrete Differenz von 4000 EUR zurück und behauptet weder Mängel noch erfundene Kosten oder Zinsen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Der bereits bestellte Antwortentwurf wird auf denselben Forderungsstand fortgeführt, ohne neue Zielwahl, zusätzliches Gerichtsschreiben oder Versandbehauptung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "regelverjaehrung-mahnung-genuegt-nicht",
+      "target_skill": "ansprueche-beweise-und-fristen-pruefen",
+      "request": "Erstellen Sie ergebnis.md als Fristvermerk für eine gewöhnliche vertragliche Dienstvergütungsforderung. Fälligkeit und vollständige Kenntnis liegen seit 10.01.2023 vor; keine Sonderverjährung, Hemmung oder Neubeginn. Der Mandant will am 15.12.2026 nur eine einseitige Mahnung versenden und meint, dies sichere die Forderung für weitere drei Jahre. Keine Gerichtsmaßnahme ist beauftragt. Beurteilen Sie Frist und nötigen Sicherungsbedarf.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die regelmäßige Verjährung wird über Paragrafen 195 und 199 BGB grundsätzlich mit Ablauf des 31.12.2026 berechnet, nicht drei Jahre nach der Mahnung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Eine einseitige Mahnung wird nicht als Verhandlung nach Paragraf 203 oder Rechtsverfolgung nach Paragraf 204 BGB behandelt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Der Vermerk benennt den konkreten Sicherungsbedarf vor Fristende, ohne eine bereits erfolgte Hemmung, beauftragte Klage oder gewährte Verlängerung zu behaupten.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "reaktionszeit-ist-keine-reparaturgarantie",
+      "target_skill": "vertrag-pruefen-und-aendern",
+      "request": "Erstellen Sie ergebnis.md als kurzen Nachtrag zum Wartungsvertrag vom 01.06.2026. Parteien Alpha GmbH und Beta GmbH, Vertretung belegt. Geändert wird nur Nummer 4.2 ab 01.10.2026: Eingang einer Störungsmeldung bestätigen und qualifizierte Analyse binnen vier Stunden beginnen, ausschließlich Montag bis Freitag 9 bis 17 Uhr; außerhalb dieses Fensters beginnt die Zeit am nächsten Servicetag. Keine Wiederherstellungsgarantie, kein geänderter Preis. Alle übrigen Vereinbarungen bleiben unverändert.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die Ersatzklausel regelt Bestätigung und Beginn qualifizierter Analyse als geschuldete Handlungen, keine Reparatur oder Wiederherstellung binnen vier Stunden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Zeitfenster und Beginn bei Meldung außerhalb der Servicezeit werden in der operativen Klausel eindeutig abgebildet.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Der Nachtrag identifiziert Vertrag, Nummer 4.2, Wirksamkeitsdatum und Fortgeltung der übrigen Regelungen, ohne Preisänderung oder neuen Gesamtvertrag.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b2b-zahlungsfrist-keine-pauschale-ausnahme",
+      "target_skill": "agb-im-geschaeftsverkehr-pruefen",
+      "request": "Prüfen Sie ergebnis.md für den Lieferanten: Die wirksam einbezogenen Einkaufs-AGB des Kunden verlangen Zahlung erst 120 Tage nach Zugang der Rechnung und vertragsgemäßer Lieferung. Beide Seiten sind Unternehmer und Kaufleute, kein Verbraucher oder öffentlich-rechtlicher Schuldner. Der Klauselkern wurde nicht ausgehandelt, es gibt keine Besonderheiten zur Rechtfertigung. Der Kunde meint, der gesamte Paragraf 308 BGB gelte in B2B nie und damit sei die Klausel sicher wirksam. Gewünscht sind begründete Bewertung und eine auf 30 Tage reduzierte Ersatzklausel.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die pauschale Ausnahme des gesamten Paragrafen 308 wird anhand Paragraf 310 Absatz 1 korrigiert; Nummer 1a wird nicht aus der Prüfung entfernt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Paragraf 271a und die Inhaltskontrolle nach Paragraf 307 werden für die 120-Tage-Frist konkret geprüft; sichere Wirksamkeit folgt nicht allein aus Unternehmereigenschaft.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die 30-Tage-Ersatzregel benennt den maßgeblichen Start nach Rechnung und vertragsgemäßer Lieferung; sie wird nicht als rückwirkende Heilung der alten AGB ausgegeben.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ruege-rechtzeitig-abgesandt",
+      "target_skill": "zahlung-maengel-und-verzug-bearbeiten",
+      "request": "Entwerfen Sie ergebnis.md als Nacherfüllungsverlangen für den Käufer einer betrieblichen Maschine. Beiderseitiger Handelskauf und rechtzeitige Untersuchung sind belegt. Ein dabei erkannter Mangel wurde nachweislich noch am Untersuchungstag konkret gerügt und die Rüge rechtzeitig abgesandt; Zugang erst drei Tage später. Verkäufer hält die Rechte allein wegen späteren Zugangs für verloren. Vertragsgemäße Nachbesserung ist gewünscht und möglich; angemessener Endtermin 15.10.2026, Zugang zur Maschine angeboten. Keine Rücktrittserklärung.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Rechtzeitige Absendung nach Paragraf 377 Absatz 4 HGB wird von späterem Zugang getrennt; kein Rechtsverlust allein aus den drei Tagen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Beiderseitiger Handelskauf wird als Voraussetzung genutzt, nicht auf jeden B2B-Vertrag verallgemeinert; keine erfundene starre Rügefrist.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Das konkrete Nachbesserungsbegehren enthält Endtermin und angebotenen Zugang, ohne sofortigen Rücktritt oder allgemeine kaufrechtliche Selbstvornahme aus Paragraf 637 BGB.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "email-kuendigung-ohne-prozessfiktion",
+      "target_skill": "arbeitsverhaeltnis-aendern-oder-beenden",
+      "request": "Erstellen Sie ergebnis.md zur Arbeitgeberkündigung eines Arbeitsverhältnisses. Einzige Erklärung ist eine am 23.09.2026 empfangene E-Mail mit eingescanntem unterschriebenem Kündigungsschreiben. Kein Originalzugang, kein gerichtliches Verfahren, keine Einreichung nach Paragraf 46c ArbGG und keine gerichtliche Zustellung oder Mitteilung. Der Arbeitgeber beruft sich auf die neue Formfiktion und meint, E-Mail genüge. Gewünscht ist ein begründeter Vermerk mit kurzer Antwortpassage, keine Klage und kein Versand.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Paragraf 623 BGB und der fehlende Ersatz der Schriftform durch die E-Mail oder den Scan werden auf den vorgegebenen Sachverhalt angewendet.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Paragraf 46h ArbGG wird als spezielle Prozesskonstellation mit klar erkennbarer Erklärung im vorbereitenden Schriftsatz, normgerechter Einreichung und Zustellung oder Mitteilung abgegrenzt; sie greift hier nicht.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Der Vermerk erfindet weder Originalzugang noch Fristlauf allein aus der E-Mail; die Antwortpassage widerspricht konkret dem behaupteten allgemeinen E-Mail-Freibrief.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gesellschaftsexport-und-betroffenenanfrage-trennen",
+      "target_skill": "datenschutzanfrage-und-dienstleister-pruefen",
+      "request": "Erstellen Sie ergebnis.md für eine GmbH: Der Dienstleistungsvertrag gewährt ihr bei Ende den vollständigen strukturierten CSV-Export ihrer Kundendaten. Der Dienstleister bietet nur einen PDF-Bericht; offene Vergütung und Zurückbehaltung sind ausgeschlossen. Daneben verlangt ein eindeutig identifizierter Kunde mit Eingang am 23.09.2026 Auskunft über eigene Daten einschließlich konkreter Empfänger. Keine Verlängerungsgründe, die Empfänger sind bekannt. Gewünscht sind vertragliche Exportnachforderung und getrennte Antwortvorbereitung, ohne Datenversand.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die GmbH stützt den strukturierten Export auf den Vertrag, nicht auf ein eigenes Betroffenenrecht nach Artikel 15 DSGVO; PDF wird am vereinbarten CSV-Export gemessen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die Kundenanfrage erhält grundsätzlich die Monatsfrist bis 23.10.2026, keine pauschale 30-Tage- oder automatische Verlängerungsregel.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Konkrete bekannte Empfänger werden entsprechend C-154/21 geprüft und in der Antwortvorbereitung vorgesehen; kein voraussetzungsloser Anspruch auf alle Geschäftsdokumente oder erfundene Volltextprüfung von C-487/21.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gesamtvertretung-vertrag-genehmigen",
+      "target_skill": "gesellschaft-und-vertretung-klaeren",
+      "request": "Erstellen Sie ergebnis.md als Vertretungsvermerk und Genehmigungsentwurf. Eine GmbH wird nach Satzung und durchgehend belegtem Registerstand nur durch ihre zwei Geschäftsführer gemeinsam vertreten. Einen gewöhnlichen formfreien Liefervertrag hat nur Geschäftsführer eins im Namen der GmbH unterschrieben; keine zusätzliche Vollmacht. Beide wollen nun für die GmbH gemeinsam genau diesen Vertrag genehmigen. Kein Insichgeschäft, kein Zustimmungsvorbehalt, keine notarielle Form. Namen und Vertragsdatum dürfen markierte Platzhalter sein.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Alleinige Geschäftsführerstellung wird nicht als Einzelvertretungsmacht behandelt; der feststehende Gesamtvertretungsstand bleibt maßgeblich.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Für den Vertrag wird Genehmigung nach Paragraf 177 BGB geprüft, nicht pauschal die Behandlung eines einseitigen Rechtsgeschäfts nach Paragraf 180 übertragen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Der Genehmigungsentwurf bezieht sich auf genau den bezeichneten Vertrag und gemeinsames Handeln beider Geschäftsführer, ohne Genehmigung oder Registervollzug als bereits erfolgt zu behaupten.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ratenvergleich-erlass-erst-nach-erfuellung",
+      "target_skill": "vergleich-und-abwicklung-vereinbaren",
+      "request": "Entwerfen Sie ergebnis.md als außergerichtlichen Vergleich. Ausgangsforderung 9000 EUR ist streitig. Vereinbart werden sollen drei Monatsraten zu 2000 EUR am 01.11.2026, 01.12.2026 und 01.01.2027. Erst nach vollständiger Zahlung der 6000 EUR soll der Rest erlassen werden; bis dahin wird die Ausgangsforderung nur gestundet. Bei endgültigem Ausfall sollen nach schriftlicher Nachfrist nur tatsächlich geleistete Zahlungen angerechnet werden. Keine Zinsen, Kosten, Sicherheiten oder Titulierung gewünscht. Keine Annahme nach außen.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Der Erlass tritt erst nach vollständiger Zahlung von 6000 EUR ein, nicht sofort bei Abschluss; Stundung und Erlass sind getrennt geregelt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Für den Ausfallfall verhindert der Text Doppelzahlung aus Vergleichs- und Ausgangsforderung; nach beispielhaft 2000 EUR Zahlung bleiben höchstens 7000 EUR der Ausgangsforderung, nicht erneut 9000 EUR plus Vergleich.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Drei eindeutige Termine, Nachfristmechanik und begrenzter Erledigungsgegenstand werden ausgearbeitet; keine automatische Vollstreckbarkeit des privaten Vergleichs oder nicht vereinbarte Nebenforderung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "klage-achttausend-und-fehlende-anlage",
+      "target_skill": "schriftsatz-und-anlagen-fertigstellen",
+      "request": "Erstellen Sie ergebnis.md als Klageentwurf über unstreitig fälligen Kaufpreis 8000 EUR ohne Zinsen, Einreichung am 23.09.2026 beabsichtigt. Beklagte GmbH hat Sitz Leipzig; allgemeiner Gerichtsstand, kein Sondergerichtsstand oder wertunabhängige Sonderzuweisung, kein Altverfahren. Der Mandant nennt eine überholte Wertgrenze von 5000 EUR. Vertrag und Lieferung sind vorgelegt; die erwähnte Rechnung als geplante Anlage K3 fehlt tatsächlich. Parteiangaben dürfen markiert werden. Nicht einreichen.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die aktuelle allgemeine Wertgrenze von 10000 EUR nach Paragraf 23 GVG wird berücksichtigt; kein Landgericht allein wegen Überschreitens von 5000 EUR.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Der Zahlungsantrag lautet bestimmt auf 8000 EUR ohne ungefragte Zinsen; Zuständigkeit und vorgelegte Leistungsgrundlagen werden dazu passend begründet.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die fehlende K3 wird nicht als beigefügt behauptet; konkrete Lücke außerhalb der Gerichtsfassung kennzeichnen und keine Einreichung oder Fristwahrung fingieren.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "artifact_hashes": {
+    "anwaltschaft-generell/anwaltschaft-generell-schnellstart.md": "91218fca77b252acae824d7a276999660b6805b9933c9c7930391351f51d8756",
+    "anwaltschaft-generell/anwaltschaft-generell-werkstatt.md": "3868d738b2becdeef000584d67dd78f1fbcf08f33e928ddbbc060dff32caf509",
+    "anwaltschaft-generell/anwaltschaft-generell-hauptproblem.md": "695720408a58aec3c2626385201a2d3f7b8c41f2997c41a7a7c2b1e67d3056ee",
+    "anwaltschaft-generell/skills/agb-im-geschaeftsverkehr-pruefen/SKILL.md": "5a57be0d6d018eefa2b403d18364c7c7148b1c9708440d60de57fa9d304bba5f",
+    "anwaltschaft-generell/skills/ansprueche-beweise-und-fristen-pruefen/SKILL.md": "8a455cf91ef60b7ffcf35bf8ae24b51b1a75f5f7c02100decd8a01b352917840",
+    "anwaltschaft-generell/skills/arbeitsverhaeltnis-aendern-oder-beenden/SKILL.md": "132b5a63cbb76bbc4474b3344ceedd1186c748f8400d4fb1ddc25a654e1ecc1d",
+    "anwaltschaft-generell/skills/datenschutzanfrage-und-dienstleister-pruefen/SKILL.md": "b83cf1da2dce5eac7d925c44ffb266ba6bc4ba588140e7d184a214714db92f92",
+    "anwaltschaft-generell/skills/gesellschaft-und-vertretung-klaeren/SKILL.md": "18a89cb3b2b5a41edfff35db4d5bb8f987271eca6d05eecf087b14bda39b8dbb",
+    "anwaltschaft-generell/skills/mandat-bis-zum-schreiben-bearbeiten/SKILL.md": "c28f65ab7bc1b03a40ee915758eacc0f63b027572ae6213bb0688fff71aba2f4",
+    "anwaltschaft-generell/skills/schriftsatz-und-anlagen-fertigstellen/SKILL.md": "65aedae378ea949bd9cd2e7f457ba634468a12596dd2f91af1f51510906ede59",
+    "anwaltschaft-generell/skills/vergleich-und-abwicklung-vereinbaren/SKILL.md": "df3c2d7721287c343d58033e8d88e326c36261f4d22cd7d055c71d75d7622807",
+    "anwaltschaft-generell/skills/vertrag-pruefen-und-aendern/SKILL.md": "5a2474db3f9fa619c6792bb505a6d4961cb808e7423582fac8d90260b3d2086c",
+    "anwaltschaft-generell/skills/zahlung-maengel-und-verzug-bearbeiten/SKILL.md": "9650e760e560dc4bdd8df12458429756ba04d131d6b3da2c36b059f42d720ec3"
+  }
+}

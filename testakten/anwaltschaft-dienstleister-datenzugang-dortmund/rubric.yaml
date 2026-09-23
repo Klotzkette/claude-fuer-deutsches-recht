@@ -1,0 +1,26 @@
+name: anwaltschaft-dienstleister-datenzugang-dortmund
+plugin: anwaltschaft-generell
+description: Dortmunder Fahrradhändler mit Hostingvertrag, Zusatzrechnung, gesperrtem Export und persönlicher Datenanfrage eines Kunden.
+checks:
+  - id: konkrete-vertragsfassung
+    check_type: file_exists
+    description: Der tatsächlich versandte Vertragsentwurf ist eigenständig dokumentiert.
+    path: 03_vertragsentwurf_2024_v09.docx
+  - id: supportverlauf
+    check_type: file_exists
+    description: Störungen und Supportvorgänge liegen als datierte Datensätze vor.
+    path: 12_supporttickets_september.csv
+  - id: eigenstaendige-betroffenenanfrage
+    check_type: file_exists
+    description: Das persönliche Auskunftsersuchen ist von der geschäftlichen Datenmigration getrennt.
+    path: 16_kundin_graefe_datenanfrage.eml
+  - id: rechnungsdaten
+    check_type: file_exists
+    description: Stunden, Rechnungen und Zahlungen sind bearbeitbar hinterlegt.
+    path: 23_rechnungs_leistungsabgleich.xlsx
+  - id: unterschiedliche-anspruchsgrundlagen
+    check_type: human_review
+    description: Exportpflichten, Vergütungsstreit und persönliche Auskunft anhand von Vertrag, Freigaben und tatsächlichen Rollen getrennt bearbeiten; einen unbestätigten Entwurf nicht als unterschrieben behandeln.
+  - id: handlungsfaehiger-entwurf
+    check_type: human_review
+    description: Das beauftragte Antwort- oder Anforderungsschreiben fertigstellen und nur die konkret fehlende Information erfragen, ohne eine technische Exportmöglichkeit oder einen erfolgten Versand vorzutäuschen.

@@ -1,0 +1,19 @@
+Wertau Lebensmittel GmbH
+Zahlungsverkehr / ausgeführte Einzelzahlung
+Exportiert von Jana Moser am 12.08.2026 um 16:42 Uhr
+
+Auftraggeberin: Wertau Lebensmittel GmbH
+Belastungskonto: Betriebskonto EUR, Endziffern 4402
+Empfängerin: Helix Prozessautomation GmbH
+Empfängerkonto: Kreditor 70418, Endziffern 7319
+Betrag: 11.305,00 EUR
+Verwendungszweck: HP-260806 / WA-26-08 Vorplanung
+Auftragsreferenz: WA-ZL-260812-018
+Freigegeben: 12.08.2026 11:04 Uhr / Jana Moser und Dr. Eva Färber
+Ausgeführt: 12.08.2026 14:18 Uhr
+Buchungstag: 12.08.2026
+Wertstellung: 12.08.2026
+Status: ausgeführt
+
+Zuordnung im Kreditorenbuch: Beleg HP-260806, Ausgleich 11.305,00 EUR.
+Anlagenhauptauftrag: noch nicht angelegt.

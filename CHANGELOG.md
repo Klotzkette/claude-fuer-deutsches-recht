@@ -1,3 +1,27 @@
+# v445.1.0 - Anwaltschaft und wirtschaftliche Vertragsgestaltung
+
+## 1. Zwei eigenständige Praxispakete
+
+`anwaltschaft-generell` bündelt zehn Arbeitswege für gemischte Wirtschaftsmandate: Anspruch, Beweis und Frist, Vertragsprüfung, AGB, Zahlung und Mängel, Arbeitsverhältnis, Datenanfragen, Vertretung, Vergleich und Schriftsatz. Der Hauptskill führt die beauftragte Bearbeitung selbst bis zum Schreiben aus und vertieft nur die tatsächlich benötigte Fachfrage.
+
+`corporate-contract-law` enthält zwanzig Skills für die Gestaltung und Verhandlung von Wirtschaftsverträgen. Liefer- und Rahmenvertrag, Projekt und Abnahme, Dienstleistungen, Vertrieb, Entwicklung, Rechte, Preise, Haftung, Sicherheiten, Daten, Auslandsbezug, Nachtrag und Unterschriftenfassung werden anhand der konkreten geschäftlichen Bindung abgestimmt. Das Paket ersetzt weder einen vollständigen Unternehmenskauf- noch einen reinen Lizenzvertragsworkflow.
+
+Beide Pakete haben ausführliche, individuell geschriebene Werkstätten sowie getrennte Schnellstart- und Hauptproblem-Prompts mit höchstens 7500 Zeichen und UTF-8-Bytes. Hauptproblem-Prompts entsprechen echten installierbaren Skills. Die eigenständigen Promptdateien und Arbeitsakten bleiben außerhalb der installierbaren Plugin-ZIPs.
+
+## 2. Sechs individuelle Arbeitsakten
+
+Die drei allgemeinen Mandate betreffen eine Verpackungsmaschine einer Leipziger Rösterei, das Arbeitsverhältnis eines Mainzer Vertriebsmitarbeiters und Datenzugang sowie Rechnungsstreit bei einem Dortmunder Onlineshop. Die drei Vertragsakten betreffen eine Sensor-Rahmenlieferung in Aachen, ein Automationsprojekt in Augsburg und einen deutsch-italienischen Messgerätevertrieb aus Bremen.
+
+Ausformulierte Vertragsunterlagen, Briefe, E-Mails, betriebliche Zahlen, bearbeitbare Arbeitsmappen und Bildanlagen bleiben getrennte Originaldokumente. Die Bereitstellung erfolgt jeweils als Gesamt-PDF, flaches Einzel-PDF-ZIP und flaches Originalformat-ZIP. Der verpflichtende Warnhinweis steht auf der Downloadseite und in der ZIP-README, nicht in den PDF-Unterlagen. Lösungen und interne Prüfkriterien gehören nicht in die Aktenarchive.
+
+## 3. Verzeichnisse und Prüfungen
+
+Der Schwerpunktindex erfasst jetzt vorhandene Hauptproblem-Prompts auch außerhalb der bisherigen Fachpakete. Die bisherigen Pflichtpakete bleiben obligatorisch. Neue Regressionstests sichern die genaue Skillzahl, den installierbaren Hauptworkflow, native Aktenformate, vollständige Nachrichtenheader, Tabellenformeln und die getrennten Promptdateien. Beide neuen Aktenfamilien unterliegen auch der allgemeinen formalen Dokumentqualitätsprüfung.
+
+Quellen- und Workflowprüfungen dokumentieren ihre Reichweite und offene Quellenzugänge. Technische Prüfungen und vorbereitete Ergebnisprüffälle sind keine Garantie der tatsächlichen Skillauswahl oder Antwortqualität in jedem Benutzerkonto.
+
+Die abschließende Gegenprüfung präzisiert Zeugen vom Hörensagen, die Ausnahme für bestimmte Auslandsvertretungen nach Paragraf 92c HGB und die zulässige Weisungsausnahme bei Auftragsverarbeitung. Gezielte Regressionstests sichern diese Abgrenzungen und die lesbaren Hauptüberschriften aller dreißig neuen Skills.
+
 # v445.0.0 - Fachliche Workflows und Notariatswerkstatt
 
 ## 1. Individuelle Prompt-Bearbeitung

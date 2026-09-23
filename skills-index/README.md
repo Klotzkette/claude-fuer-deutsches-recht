@@ -1,8 +1,8 @@
 # Skills-Index: Detailseiten pro Plugin
 
-Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v445.0.0`.
+Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v445.1.0`.
 
-Die Aufteilung verhindert, dass eine einzige Seite alle 22352 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
+Die Aufteilung verhindert, dass eine einzige Seite alle 22382 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
 
 English: Each plugin has one lightweight detail page containing its complete skill list, descriptions and direct Markdown downloads. Open a plugin page to choose a skill; links labelled `Download MD` save the file instead of opening a source preview.
 
@@ -19,6 +19,7 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 - [aktenauszug-gerichtsverfahren](./aktenauszug-gerichtsverfahren.md) (59 Skills)
 - [aktienrecht-hauptversammlung-ag-se](./aktienrecht-hauptversammlung-ag-se.md) (101 Skills)
 - [anlagen-zu-schriftsaetzen](./anlagen-zu-schriftsaetzen.md) (118 Skills)
+- [anwaltschaft-generell](./anwaltschaft-generell.md) (10 Skills)
 - [apothekenrecht](./apothekenrecht.md) (66 Skills)
 - [arbeitsrecht](./arbeitsrecht.md) (100 Skills)
 - [arbeitszeugnis-analyse](./arbeitszeugnis-analyse.md) (51 Skills)
@@ -57,6 +58,7 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 
 - [commercial-courts-deutschland](./commercial-courts-deutschland.md) (59 Skills)
 - [common-law-kompass](./common-law-kompass.md) (59 Skills)
+- [corporate-contract-law](./corporate-contract-law.md) (20 Skills)
 - [corporate-kanzlei](./corporate-kanzlei.md) (88 Skills)
 
 ### D

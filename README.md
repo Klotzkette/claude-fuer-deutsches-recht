@@ -14,11 +14,15 @@ Für den ersten Vorgang: Rechtsgebiet öffnen, einen Einstieg wählen und die Un
 
 Weniger konkurrierende Einstiege, klarere Aufgaben: [Skills nach Ergebnis auswählen und bisherige Aufrufe umstellen](./docs/skill-auswahl-und-umstellungen.md). Dort steht auch, welche Fachvertiefungen erhalten bleiben und erst bei Bedarf gelesen werden.
 
-Für besonders arbeitsintensive Mandate gibt es [fachliche Schwerpunktaufträge](./SCHWERPUNKTE.md): je Fachanwalts-Plugin sowie für Steuer- und Insolvenzrecht einen konkreten Skill und einen eigenständigen Markdown-Prompt mit höchstens 7500 Zeichen. Die Auswahl betrifft zum Beispiel einen vollständigen Beleg- und Stichtagsabgleich statt einer allgemeinen Rechtsgebietsübersicht.
+Für besonders arbeitsintensive Mandate gibt es [fachliche Schwerpunktaufträge](./SCHWERPUNKTE.md): konkrete Hauptskills und eigenständige Markdown-Prompts mit höchstens 7500 Zeichen und UTF-8-Bytes. Neben den Fachanwalts-, Steuer-, Insolvenz- und Zugewinnpaketen sind auch allgemeine Mandatsbearbeitung und wirtschaftliche Vertragsgestaltung erfasst. Die Auswahl betrifft zum Beispiel einen vollständigen Beleg- und Stichtagsabgleich statt einer allgemeinen Rechtsgebietsübersicht.
+
+Zwei kompakte Einstiege für den Kanzleialltag: [Anwaltschaft generell](./anwaltschaft-generell/README.md) verbindet zehn Skills für Vertragsprüfung, Forderungen, Arbeitsrecht, Datenschutzfragen und gerichtliche Schreiben. [Corporate Contract Law](./corporate-contract-law/README.md) führt mit zwanzig Skills von den Vertragsverhandlungen über Leistung, Vergütung und Haftung bis zur abgestimmten Unterschriftenfassung. Beide Pakete haben einen durchgehenden Hauptworkflow, eigene Werkstatt-, Mini- und Hauptproblem-Prompts sowie jeweils drei gesonderte Übungsakten; die Akten werden nicht mitinstalliert.
 
 Das [Qualitätslabor für alle Plugins](./QUALITY.md) trennt Dateiprüfung, tatsächliche Skill-Auswahl und Bewertung erzeugter Arbeitsergebnisse. Fachlich geprüfte Mini-Prompts und vorbereitete Prüffälle sind keine bereits bestandenen Modelltests. [Durchführung, zwei unabhängige Prüfer und Fehlerdiagnose](./quality/README.md) erklären, wie konkrete Client-Läufe bewertet werden; ungeprüfte Quellen und fehlende Zugänge bleiben sichtbar. Diese Entwicklungsprüfungen laufen nicht zusätzlich bei jedem Mandatsaufruf.
 
 English: [Focused workflows](./SCHWERPUNKTE.md) offer a specific skill and a standalone Markdown prompt for substantial specialist assignments. The [quality laboratory](./quality/README.md#19-english-summary) distinguishes prepared cases, structural checks and actual model evaluations; it does not claim that unexecuted client tests have passed.
+
+For a compact general-practice package, start with [Anwaltschaft generell](./anwaltschaft-generell/README.md). For drafting and negotiating commercial agreements, use [Corporate Contract Law](./corporate-contract-law/README.md). Each includes a main workflow, three separate prompt downloads and three practice cases; choose one entry point for the assignment rather than loading every prompt together.
 
 ## Schnell arbeiten, auch in einer anderen Oberfläche
 
@@ -65,13 +69,13 @@ Die fünf vollständigen Register sind alphabetisch sortiert und werden bei jede
 
 | Bestand | Umfang | Kurzbeschreibung | Vollständige alphabetische Liste |
 | --- | ---: | --- | --- |
-| **Plugins** | 240 | Installierbare Pakete für Rechtsgebiete und Arbeitsbereiche; jede Zeile beschreibt Zweck und fachlichen Zuschnitt. | [Plugin-Katalog mit Kurzbeschreibungen](#was-ist-drin) · [ZIPs und Einzeldateien](./ASSET_INDEX.md) |
-| **Skills** | 22352 | Eng abgegrenzte Arbeitsabläufe; die Detailseiten führen jeden Skill mit Kurzbeschreibung und einzelnem Markdown-Download auf. | [Skill-Gesamtübersicht](./SKILLS.md) · [Detailseiten je Plugin](./skills-index/) |
-| **Werkstatt-Prompts** | 240 | Ausführliche eigenständige Arbeitsmodi für komplexe Vorgänge; je Plugin mit Kurzbeschreibung und direktem Markdown-Download. | [Werkstatt-Prompts von A bis Z](./docs/werkstatt-und-schnellstart-coverage.md#werkstatt-prompts) |
-| **Schnellstart-/Mini-Prompts** | 240 | Kompakte eigenständige Einstiege für den Kernworkflow und ein erstes belastbares Arbeitsprodukt. | [Schnellstart-Prompts von A bis Z](./docs/werkstatt-und-schnellstart-coverage.md#schnellstart-prompts) |
-| **Testakten** | 341 zentral / 344 gesamt | Praxisnahe Dokumentensammlungen; jede Zeile skizziert den Fall, nennt passende Plugins und bietet drei Downloadformen. Drei weitere Akten liegen unmittelbar bei ihren Plugins. | [Zentrale Testakten mit Kurzbeschreibungen von A bis Z](./testakten/README.md#verfügbare-akten) · [pluginlokale Akten über den Plugin-Katalog](#was-ist-drin) |
+| **Plugins** | 242 | Installierbare Pakete für Rechtsgebiete und Arbeitsbereiche; jede Zeile beschreibt Zweck und fachlichen Zuschnitt. | [Plugin-Katalog mit Kurzbeschreibungen](#was-ist-drin) · [ZIPs und Einzeldateien](./ASSET_INDEX.md) |
+| **Skills** | 22382 | Eng abgegrenzte Arbeitsabläufe; die Detailseiten führen jeden Skill mit Kurzbeschreibung und einzelnem Markdown-Download auf. | [Skill-Gesamtübersicht](./SKILLS.md) · [Detailseiten je Plugin](./skills-index/) |
+| **Werkstatt-Prompts** | 242 | Ausführliche eigenständige Arbeitsmodi für komplexe Vorgänge; je Plugin mit Kurzbeschreibung und direktem Markdown-Download. | [Werkstatt-Prompts von A bis Z](./docs/werkstatt-und-schnellstart-coverage.md#werkstatt-prompts) |
+| **Schnellstart-/Mini-Prompts** | 242 | Kompakte eigenständige Einstiege für den Kernworkflow und ein erstes belastbares Arbeitsprodukt. | [Schnellstart-Prompts von A bis Z](./docs/werkstatt-und-schnellstart-coverage.md#schnellstart-prompts) |
+| **Testakten** | 347 zentral / 350 gesamt | Praxisnahe Dokumentensammlungen; jede Zeile skizziert den Fall, nennt passende Plugins und bietet drei Downloadformen. Drei weitere Akten liegen unmittelbar bei ihren Plugins. | [Zentrale Testakten mit Kurzbeschreibungen von A bis Z](./testakten/README.md#verfügbare-akten) · [pluginlokale Akten über den Plugin-Katalog](#was-ist-drin) |
 
-Sortierlogik: Plugins, Werkstatt- und Schnellstart-Prompts folgen dem Plugin-Slug; Skills sind zuerst nach Plugin und dort nach Skill-Slug sortiert; Testakten folgen dem Aktenordner. Die großen Bestände bleiben auf eigenen, schnell ladenden Registerseiten, damit der Haupt-README trotz 22352 Skills benutzbar bleibt.
+Sortierlogik: Plugins, Werkstatt- und Schnellstart-Prompts folgen dem Plugin-Slug; Skills sind zuerst nach Plugin und dort nach Skill-Slug sortiert; Testakten folgen dem Aktenordner. Die großen Bestände bleiben auf eigenen, schnell ladenden Registerseiten, damit der Haupt-README trotz 22382 Skills benutzbar bleibt.
 
 Plugin-Schnellwahl: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [J](#j) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [R](#r) · [S](#s) · [T](#t) · [U](#u) · [V](#v) · [W](#w) · [Z](#z)
 <!-- END HAUPTVERZEICHNIS (auto-generated) -->
@@ -108,11 +112,11 @@ Für diesen Anwendungsfall gibt es eine kuratierte, nach Fachanwaltschaften sort
 
 | Kennzahl | Wert |
 |---|---|
-| **Plugins** | 240 (inkl. 15 Gerichts- und Staatsanwalts-Plugins im Sammelordner [`gerichtsplugins/`](./gerichtsplugins/) und 11 Insolvenz-Plugins im Sammelordner [`insolvenzrecht-plugins/`](./insolvenzrecht-plugins/)) |
-| **Skills (SKILL.md)** | 22352: [Gesamtübersicht](./SKILLS.md) |
-| **Testakten** | 341 zentral / 344 gesamt |
+| **Plugins** | 242 (inkl. 15 Gerichts- und Staatsanwalts-Plugins im Sammelordner [`gerichtsplugins/`](./gerichtsplugins/) und 11 Insolvenz-Plugins im Sammelordner [`insolvenzrecht-plugins/`](./insolvenzrecht-plugins/)) |
+| **Skills (SKILL.md)** | 22382: [Gesamtübersicht](./SKILLS.md) |
+| **Testakten** | 347 zentral / 350 gesamt |
 | **Fachanwalts-Profile** | 24 |
-| **Plugin-Version / Arbeitsstand** | `v445.0.0` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
+| **Plugin-Version / Arbeitsstand** | `v445.1.0` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
 | **Marketplace-Definition** | [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json) |
 
 ### Sammel-Downloads
@@ -274,6 +278,7 @@ Alphabetisch: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · 
 | [`aktenauszug-gerichtsverfahren`](./aktenauszug-gerichtsverfahren) | Strukturierter Aktenauszug für deutsche Gerichtsverfahren: Verfahrensidentifikation Einleitungssatz Verfahrenszusammenfassung Sachverhaltschronologie Verfahrensgeschichte tabellarische Gegenüberstellung der Parteivorträge Beweismittel und Rechtsargumente für schnelle Einarbeitung in Akten. |
 | [`aktienrecht-hauptversammlung-ag-se`](./aktienrecht-hauptversammlung-ag-se) | Hauptversammlungs-Vorbereiter, Leitfaden-Ersteller und Durchführungsplugin für kleine AG, normale AG, börsennotierte AG und SE: Einberufung, Tagesordnung, virtuelle HV, Q&A, Abstimmung, Niederschrift, Anfechtungsrisiko und Post-HV. |
 | [`anlagen-zu-schriftsaetzen`](./anlagen-zu-schriftsaetzen) | Gerichtsprozess-Dokumentenproduktion bis zur beA-fertigen Versandmappe: liest Schriftsatz und Anlagenordner, führt K/B/AST/AG fort, konvertiert und stempelt jede PDF-Seite, prüft ERVV, Signatur, Dateinamen, Empfänger und Eingang und liefert Verzeichnis, Manifest und Freigabevermerk. |
+| [`anwaltschaft-generell`](./anwaltschaft-generell) | Anwaltschaft - Mandate im Alltag: zehn Skills für wirtschaftsrechtliche Dokumentarbeit vom belegten Aktenstand über Ansprüche, Verträge, Arbeit und Datenschutz bis zum Schreiben, Vergleich oder Schriftsatz. |
 | [`apothekenrecht`](./apothekenrecht) | Super-Plugin für Apothekenrecht: Betriebserlaubnis, ApBetrO, Versand, E-Rezept, BtM, Retaxation, Aufsicht und Compliance. |
 | [`arbeitsrecht`](./arbeitsrecht) | Arbeitsrechtliche Workflows für Kündigung, Befristung, Urlaub, AGG, Aufhebungsvertrag, Betriebsrat, Arbeitszeit, Lohn und Expansion. Rechtsprechung wird nur mit Gericht, Datum, Aktenzeichen und verifizierbarer Quelle verwendet. |
 | [`arbeitszeugnis-analyse`](./arbeitszeugnis-analyse) | Analyse deutscher Arbeitszeugnisse nach Ampelsystem. Prüft Geheimcodes, Schaufenster-Drift, negative Codeworte, Steigerungsadverbien, Satznoten und Gesamtnotenspanne. Führt vom Erstgespräch über Mandantenbericht und Aufforderungsschreiben bis zur Klagestrategie. |
@@ -316,6 +321,7 @@ Alphabetisch: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · 
 | --- | --- |
 | [`commercial-courts-deutschland`](./commercial-courts-deutschland) | Commercial-Courts-Plugin für englischsprachige Wirtschaftsverfahren in Deutschland: Zuständigkeit, Wahlklauseln, Klage, Case Management, Beweis, Geheimnisschutz, Wortprotokoll/Transcript, Rechtsmittel, BGH, Kosten, Vollstreckung und bilingualer Schriftsatz-/Hearing-Workflow. |
 | [`common-law-kompass`](./common-law-kompass) | Freistehendes Common-Law-Plugin für deutsche Wirtschaftsjuristen: UK/US-False-Friends, Vertragsbegriffe, Consideration, Suretyship, Indemnity, UCC, Precedent, Discovery und bilinguale Drafting-Reviews. |
+| [`corporate-contract-law`](./corporate-contract-law) | Corporate Contract Law - Wirtschaftsverträge: zwanzig Skills für deutsche B2B-Vertragsgestaltung vom Geschäftsauftrag über den vollständigen Vertrag und die Verhandlung bis zum unterschriftsreifen Entwurf. |
 | [`corporate-kanzlei`](./corporate-kanzlei) | Corporate-Kanzlei-Plugin: Deal-Kommandocenter, Datenraum, Due Diligence, SPA/APA, Umwandlung, StaRUG, Insolvenzplan, W&I, Signing/Closing, PMI. |
 
 ### D

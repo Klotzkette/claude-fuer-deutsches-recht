@@ -1,0 +1,10 @@
+﻿Pfad;Kategorie;Format;Datensätze_oder_Dateien;Größe_Bytes;Stand;Exportstatus;Bemerkung
+tenant1048/orders;Kundenbestellungen;CSV;3612;1873640;2026-09-21T09:00:00+02:00;gesperrt;Bestellköpfe mit Konto-ID
+tenant1048/order_items;Kundenbestellungen;CSV;8940;2611050;2026-09-21T09:00:00+02:00;gesperrt;"Positionen; Verknüpfung order_id"
+tenant1048/customers;Kundenkonten;CSV;1284;684210;2026-09-21T09:00:00+02:00;gesperrt;Ohne Kennworthashes im Standardexport
+tenant1048/messages;Kundenkommunikation;JSON;218;312890;2026-09-21T09:00:00+02:00;Serviceauftrag offen;"Text und account_id; Anlagen gesondert"
+tenant1048/message_uploads;Kundenkommunikation;ZIP;36;18631124;2026-09-21T09:00:00+02:00;Serviceauftrag offen;Dateinamen mit message_id
+tenant1048/marketing;Marketing;CSV;417;98100;2026-09-21T09:00:00+02:00;gesperrt;"Aktive Einträge; ausgesetzte nicht mitgezählt"
+tenant1048/media;Produktmedien;ZIP;684;918736400;2026-09-21T09:00:00+02:00;gesperrt;Artikelbilder und Anleitungen
+runtime/shared/pipeline.yaml;Proprietäre Konfiguration;YAML;1;18210;2026-09-16T18:10:00+02:00;nicht im Paket;Mandantenübergreifende Bereitstellung
+runtime/tenant1048/routing.enc;Proprietäre Konfiguration;BIN;1;9842;2026-09-16T18:10:00+02:00;nicht im Paket;Schlüssel und interne Dienstadressen
