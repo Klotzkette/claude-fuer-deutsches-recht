@@ -1,6 +1,6 @@
 # weg-hausverwaltung
 
-**93 Skills** · Stand `v445.1.1`
+**93 Skills** · Stand `v445.1.2`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../weg-hausverwaltung/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

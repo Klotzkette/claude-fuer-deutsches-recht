@@ -146,6 +146,17 @@ class PracticePackageTests(unittest.TestCase):
                                         env=environment, capture_output=True, text=True, timeout=20)
                 self.assertEqual(result.returncode, 0, result.stderr)
                 self.assertIn("keine Akten verändert", result.stdout)
+            for name in ("jszip", "xml-js"):
+                shutil.rmtree(modules / name)
+            for stem, success in (("anwaltschaft-leipzig-mainz", True),
+                                  ("anwaltschaft-dortmund-sensorik", False),
+                                  ("corporate-projekt-vertrieb", False)):
+                script = ROOT / "scripts" / f"build-{stem}-workbooks.mjs"
+                result = subprocess.run([node, str(script), "--check-runtime"], cwd=temporary,
+                                        env=environment, capture_output=True, text=True, timeout=20)
+                self.assertEqual(result.returncode == 0, success, result.stderr)
+                if not success:
+                    self.assertIn("jszip", result.stderr)
             environment["AKTEN_NODE_MODULES"] = str(Path(temporary) / "missing")
             result = subprocess.run([node, str(script), "--check-runtime"], cwd=temporary,
                                     env=environment, capture_output=True, text=True, timeout=20)
