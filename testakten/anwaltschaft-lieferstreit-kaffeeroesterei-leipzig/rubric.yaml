@@ -1,0 +1,26 @@
+name: anwaltschaft-lieferstreit-kaffeeroesterei-leipzig
+plugin: anwaltschaft-generell
+description: Verpackungsmaschine einer Leipziger Rösterei mit Leistungsabweichung, Probelauf, Foliencharge und offener Restrechnung.
+checks:
+  - id: bestellung-und-bedingungen
+    check_type: file_exists
+    description: Der unterschriebene Auftrag mit Leistung und Preis liegt getrennt vor.
+    path: 02_auftrag_px12_12-03-2026.pdf
+  - id: betriebliche-messdaten
+    check_type: file_exists
+    description: Die Produktionsaufzeichnungen sind als Einzelmessungen auswertbar.
+    path: 08_produktionsbuch_px12.csv
+  - id: konkrete-maengelanzeige
+    check_type: file_exists
+    description: Die Korrespondenz über die beanstandete Leistung bleibt als eigenständige Unterlage erhalten.
+    path: 11_maengelanzeige_20-08-2026.docx
+  - id: bearbeitbare-zahlungen
+    check_type: file_exists
+    description: Zahlungen und Rechnungen sind in einer nativen Arbeitsmappe dokumentiert.
+    path: 25_zahlungen_px12.xlsx
+  - id: sachverhalt-und-gegenposition
+    check_type: human_review
+    description: Vertrag, Folienmaterial, Messbedingungen und Erklärungen zum Probelauf nach ihren Quellen abgleichen; widersprechende Behauptungen nicht ungeprüft als erwiesen darstellen.
+  - id: konkretes-schreiben
+    check_type: human_review
+    description: Das bestellte Schreiben ausformulieren und Forderung, Teilzahlung, verlangte Abhilfe sowie offenen Nachweis zusammenführen; keine unbeauftragte rechtsgestaltende Erklärung versenden.

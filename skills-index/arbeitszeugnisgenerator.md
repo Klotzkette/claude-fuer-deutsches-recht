@@ -1,6 +1,6 @@
 # arbeitszeugnisgenerator
 
-**5 Skills** · Stand `v445.0.0`
+**5 Skills** · Stand `v445.1.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../arbeitszeugnisgenerator/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

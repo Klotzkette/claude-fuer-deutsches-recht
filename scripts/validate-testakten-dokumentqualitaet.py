@@ -22,8 +22,10 @@ from testakte_file_filter import META_EXACT_NAMES, include_in_working_dump
 REPO = Path(__file__).resolve().parent.parent
 TESTAKTEN = REPO / "testakten"
 PREFIXES = (
+    "anwaltschaft-",
     "arbeitsrecht-",
     "arbeitszeugnis-",
+    "corporate-contract-law-",
     "elternunterhalt-",
     "erbrecht-",
     "erbstreit-",

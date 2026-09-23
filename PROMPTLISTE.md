@@ -29,7 +29,7 @@ Kategorien sind alphabetisch nach Titel sortiert, Einträge innerhalb jeder Kate
 | Kategorie | Plugins |
 | --- | ---: |
 | [Agrarrecht](#agrarrecht) | 2 |
-| [Anwaltliches Berufsrecht und Kanzleimanagement](#anwaltliches-berufsrecht-und-kanzleimanagement) | 16 |
+| [Anwaltliches Berufsrecht und Kanzleimanagement](#anwaltliches-berufsrecht-und-kanzleimanagement) | 17 |
 | [Arbeitsrecht](#arbeitsrecht) | 7 |
 | [Bank- und Kapitalmarktrecht](#bank--und-kapitalmarktrecht) | 6 |
 | [Bau- und Architektenrecht](#bau--und-architektenrecht) | 6 |
@@ -40,7 +40,7 @@ Kategorien sind alphabetisch nach Titel sortiert, Einträge innerhalb jeder Kate
 | [Franchise und Leasing](#franchise-und-leasing) | 2 |
 | [Gerichtliche Spruchpraxis (experimentell)](#gerichtliche-spruchpraxis-experimentell) | 13 |
 | [Gewerblicher Rechtsschutz](#gewerblicher-rechtsschutz) | 8 |
-| [Handels- und Gesellschaftsrecht](#handels--und-gesellschaftsrecht) | 16 |
+| [Handels- und Gesellschaftsrecht](#handels--und-gesellschaftsrecht) | 17 |
 | [Insolvenz- und Sanierungsrecht](#insolvenz--und-sanierungsrecht) | 10 |
 | [Internationales Wirtschaftsrecht](#internationales-wirtschaftsrecht) | 6 |
 | [IT-Recht](#it-recht) | 17 |
@@ -63,7 +63,7 @@ Kategorien sind alphabetisch nach Titel sortiert, Einträge innerhalb jeder Kate
 | [Versicherungsrecht](#versicherungsrecht) | 3 |
 | [Verwaltungsrecht](#verwaltungsrecht) | 32 |
 
-227 kuratierte Plugins in 34 Kategorien, aus insgesamt 240 Marketplace-Plugins (Abgleich: 22. September 2026). Gezählt werden Plugins, nicht einzelne Skills oder Prompt-Dateien.
+229 kuratierte Plugins in 34 Kategorien, aus insgesamt 242 Marketplace-Plugins (Abgleich: 23. September 2026). Gezählt werden Plugins, nicht einzelne Skills oder Prompt-Dateien.
 
 ## Agrarrecht
 
@@ -72,6 +72,7 @@ Kategorien sind alphabetisch nach Titel sortiert, Einträge innerhalb jeder Kate
 
 ## Anwaltliches Berufsrecht und Kanzleimanagement
 
+- [anwaltschaft-generell](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/anwaltschaft-generell): Wirtschaftliche Alltagsmandate vom Aktenstand zum Schreiben: Ansprüche, Vertragsänderungen, AGB, Arbeit und Datenschutz; Beweis, Frist und Rechnung führen zum verwendbaren Brief, Vergleich oder Schriftsatz. · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=anwaltschaft-generell/anwaltschaft-generell-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=anwaltschaft-generell/anwaltschaft-generell-werkstatt.md)
 - [berufsgerichtliche-verfahren-freie-berufe](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/berufsgerichtliche-verfahren-freie-berufe): Plugin für anwaltsgerichtliche und berufsgerichtliche Verfahren gegen Anwälte, Patentanwälte, Steuerberater, Wirtschaftsprüfer und Notare: Kammeraufsicht… · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=berufsgerichtliche-verfahren-freie-berufe/berufsgerichtliche-verfahren-freie-berufe-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=berufsgerichtliche-verfahren-freie-berufe/berufsgerichtliche-verfahren-freie-berufe-werkstatt.md)
 - [berufsrecht-anwaelte](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/berufsrecht-anwaelte): Plugin für anwaltliches Berufsrecht: BRAO, BORA, FAO, beA, Kanzleisitz, Werbung, Interessenkollision, Verschwiegenheit, KI-/Cloud-Outsourcing, Schatten-KI… · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=berufsrecht-anwaelte/berufsrecht-anwaelte-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=berufsrecht-anwaelte/berufsrecht-anwaelte-werkstatt.md)
 - [berufsrecht-notare](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/berufsrecht-notare): Plugin für Notarrecht: BNotO, BeurkG, DONot, Dienstaufsicht, Urkundspflichten, Neutralität, Verwahrung, Amtspflichten, Vertreter/Verwalter… · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=berufsrecht-notare/berufsrecht-notare-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=berufsrecht-notare/berufsrecht-notare-werkstatt.md)
@@ -182,6 +183,7 @@ Kategorien sind alphabetisch nach Titel sortiert, Einträge innerhalb jeder Kate
 
 - [aktienrecht-hauptversammlung-ag-se](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aktienrecht-hauptversammlung-ag-se): Hauptversammlungs-Vorbereiter, Leitfaden-Ersteller und Durchführungsplugin für kleine AG, normale AG, börsennotierte AG und SE: Einberufung, Tagesordnung… · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=aktienrecht-hauptversammlung-ag-se/aktienrecht-hauptversammlung-ag-se-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=aktienrecht-hauptversammlung-ag-se/aktienrecht-hauptversammlung-ag-se-werkstatt.md)
 - [aufsichtsrat-ag-se-praxis](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aufsichtsrat-ag-se-praxis): Praxisplugin für Aufsichtsräte in AG und SE: Überwachung, Informationsrechte, Vorstand bestellen/abberufen, Vergütung, Ausschüsse, Protokoll… · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=aufsichtsrat-ag-se-praxis/aufsichtsrat-ag-se-praxis-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=aufsichtsrat-ag-se-praxis/aufsichtsrat-ag-se-praxis-werkstatt.md)
+- [corporate-contract-law](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-contract-law): Liefer-, Rahmen-, Projekt-, Dienstleistungs- und Vertriebsverträge: widersprüchliche Geschäftsentscheidungen klären, Leistung, Preis und Haftung abstimmen und einen vollständigen Gegenentwurf bis zur Unterschriftenfassung fortführen. · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=corporate-contract-law/corporate-contract-law-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=corporate-contract-law/corporate-contract-law-werkstatt.md)
 - [corporate-kanzlei](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei): Corporate-Kanzlei-Plugin: Deal-Kommandocenter, Datenraum, Due Diligence, SPA/APA, Umwandlung, StaRUG, Insolvenzplan, W&I, Signing/Closing, PMI · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=corporate-kanzlei/corporate-kanzlei-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=corporate-kanzlei/corporate-kanzlei-werkstatt.md)
 - [fachanwalt-handels-gesellschaftsrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-handels-gesellschaftsrecht): Plugin Fachanwalt für Handels- und Gesellschaftsrecht nach FAO Paragraf 14i. HGB. AktG. GmbHG. PartGG. UmwG. Geschäftsführerhaftung Paragrafen 43 GmbHG 93 AktG · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-handels-gesellschaftsrecht/fachanwalt-handels-gesellschaftsrecht-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-handels-gesellschaftsrecht/fachanwalt-handels-gesellschaftsrecht-werkstatt.md)
 - [gesellschaftsgruender](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender): Anfängerfreundlicher Gründungsassistent für deutsche Gesellschaften: Rechtsformwahl, Satzung, SHA, Cap Table, Notar, Handelsregister, Bank/KYC, Behörden… · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschaftsgruender/gesellschaftsgruender-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschaftsgruender/gesellschaftsgruender-werkstatt.md)

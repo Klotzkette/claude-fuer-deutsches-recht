@@ -1,6 +1,6 @@
 # betriebskosten-hausverwaltung
 
-**10 Skills** · Stand `v445.0.0`
+**10 Skills** · Stand `v445.1.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../betriebskosten-hausverwaltung/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

@@ -1,0 +1,11 @@
+{
+  "name": "anwaltschaft-generell",
+  "version": "445.1.0",
+  "description": "Anwaltschaft - Mandate im Alltag: zehn Skills fuer wirtschaftsrechtliche Dokumentarbeit vom belegten Aktenstand ueber Ansprueche, Vertraege, Arbeit und Datenschutz bis zum Schreiben, Vergleich oder Schriftsatz.",
+  "author": {
+    "name": "Klotzkette",
+    "email": "39582916+Klotzkette@users.noreply.github.com"
+  },
+  "license": "Apache-2.0 OR MIT",
+  "keywords": ["anwaltschaft", "wirtschaftsrecht", "vertragspruefung", "ansprueche", "arbeitsrecht", "datenschutz", "schriftsatz"]
+}

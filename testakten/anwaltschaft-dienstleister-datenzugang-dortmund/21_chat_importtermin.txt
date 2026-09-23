@@ -1,0 +1,16 @@
+Chat-Export / KL-Shop Umzug
+Teilnehmer: Jana Römer (Kettenlicht), Tom Bremer (Kettenlicht), Deniz Aydin (Ufercode Webbetrieb)
+Export durch Tom Bremer am 22.09.2026, 16:30 Uhr
+Zeitzone: Europe/Berlin
+
+22.09.2026 09:02 Deniz Aydin: Der Importslot am 28.09. von 9 bis 13 Uhr bleibt reserviert. Ich brauche bis Donnerstag ein kleines Datenpaket mit Feldnamen, sonst können wir nur die Artikel vorbereiten.
+22.09.2026 09:06 Tom Bremer: Anbei kann ich noch nichts hochladen. Die Exporttaste meldet seit gestern Kontosperre. Einzelne Aufträge lassen sich ansehen.
+22.09.2026 09:08 Deniz Aydin: Bitte keine Kundenbestellungen in diesen Chat kopieren. Wir richten einen Übertragungsordner mit zeitlich begrenztem Zugang ein.
+22.09.2026 09:13 Jana Römer: Eine Dateiliste haben wir. Darin sind Bestellköpfe und Positionen getrennt. Nachrichten sind JSON und 36 Anhänge.
+22.09.2026 09:18 Deniz Aydin: Das reicht als Beschreibung für meine Vorbereitung. Wir benötigen keine gemeinsame Laufzeitkonfiguration von Netzraum. Die Verknüpfung account_id zu order_id muss erhalten bleiben.
+22.09.2026 09:24 Tom Bremer: Die Passwörter sind laut Liste nicht dabei.
+22.09.2026 09:27 Deniz Aydin: Dann planen wir einen neuen Aktivierungslink für Kundenkonten. Nicht automatisch alte Hashes übernehmen. Den Text stimmt ihr bitte selbst ab.
+22.09.2026 12:10 Jana Römer: Können wir am 5. Oktober starten, wenn der Export erst am 30. kommt?
+22.09.2026 12:17 Deniz Aydin: Das kann ich noch nicht bestätigen. Am 1. und 2. Oktober ist das Team anderweitig gebunden. Ich kann den Slot vom 28. bis Donnerstagabend halten.
+22.09.2026 15:56 Tom Bremer: Die 800 EUR in der Rechnung sind unser Testmandant, nicht ein Umzugsauftrag. Bei dem Telefonat am 3. September ging es darum, welche Artikelnummer zur Nabenschaltung gehört. Ich habe gesagt, die Liste müsse bis Freitag fertig werden. Einen Betrag haben wir nicht genannt.
+22.09.2026 16:02 Jana Römer: Danke, ich habe von Herrn Sander eine andere Darstellung gehört. Bitte den alten Testmandanten noch nicht löschen.

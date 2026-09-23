@@ -1,0 +1,26 @@
+name: corporate-contract-law-rahmenlieferung-sensorik-aachen
+plugin: corporate-contract-law
+description: Rahmenlieferung von Sensoren mit Gegenentwürfen, Prognose und Abrufen, Werkzeugzahlung, Musterprüfung und Bauteilabkündigung.
+checks:
+  - id: lieferantenfassung
+    check_type: file_exists
+    description: Der ausformulierte Rahmenvertragsentwurf des Lieferanten liegt vor.
+    path: 03_rahmenvertrag_lieferant_v06.docx
+  - id: eigenstaendige-gegenfassung
+    check_type: file_exists
+    description: Die Käuferfassung bleibt als eigener Verhandlungsstand erhalten.
+    path: 04_gegenvorschlag_rheinkern_v08.docx
+  - id: abrufdaten
+    check_type: file_exists
+    description: Bestellungen und Mengen können aus einzelnen ERP-Datensätzen nachvollzogen werden.
+    path: 11_erp_abrufe_20260921.csv
+  - id: preisstaffeln
+    check_type: file_exists
+    description: Preise, Mengenstaffeln und Werkzeug sind in einer nativen Arbeitsmappe vorhanden.
+    path: 12_preisstaffeln_d400.xlsx
+  - id: offene-bindungsentscheidung
+    check_type: human_review
+    description: Prognose, verbindlichen Abruf, Materialfreigabe und Restbestand auseinanderhalten; fehlende wirtschaftliche Zustimmung gezielt erfragen statt sie in eine Klausel hineinzulesen.
+  - id: abgestimmter-gegenentwurf
+    check_type: human_review
+    description: Den angeforderten Vertrag oder Gegenentwurf samt Anlagenstand, Vergütung, Qualitätsprüfung und Exit widerspruchsfrei formulieren; Musterlieferung nicht mit Serienfreigabe gleichsetzen.

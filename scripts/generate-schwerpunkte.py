@@ -11,15 +11,18 @@ from quality_lab import ROOT, bounded_bytes, load, marketplace
 
 def main():
     lines = ["# 1. Fachliche Schwerpunktaufträge", "",
-             "Je Fachanwalts-Plugin sowie für Steuerrecht, Insolvenzrecht und Zugewinnausgleich ein abgegrenzter, arbeitsintensiver Mandatsauftrag. Die Auswahl ist fachlich begründet, keine statistische Rangliste der häufigsten Mandate.", "",
+             "Konkrete Hauptworkflows der Fachanwalts- und weiterer Praxisplugins: vom arbeitsintensiven Fachmandat bis zur allgemeinen Mandatsbearbeitung und wirtschaftlichen Vertragsgestaltung. Die Auswahl ist fachlich begründet, keine statistische Rangliste der häufigsten Mandate.", "",
              "Der Skill gehört zum Plugin. Der eigenständige Hauptproblem-Prompt ist ein separater Markdown-Download mit höchstens 7500 Zeichen und Bytes; nicht gemeinsam mit allen anderen Prompts in denselben Auftrag laden.", "",
              "[Alle Plugins](README.md#was-ist-drin) · [Alle Skills](SKILLS.md) · [Werkstatt und Mini](docs/werkstatt-und-schnellstart-coverage.md) · [Qualitätslabor](QUALITY.md)", "",
              "## 1.1. Alphabetische Übersicht", "",
              "| Plugin | Konkreter Schwerpunkt | Skill | Eigenständiger Prompt |", "| --- | --- | --- | --- |"]
     for name, directory in sorted(marketplace().items()):
-        if not (name.startswith("fachanwalt-") or name in {"insolvenzrecht", "steuerrecht-anwalt-und-berater", "zugewinnausgleich"}):
-            continue
         path = directory / f"{name}-hauptproblem.md"
+        required = name.startswith("fachanwalt-") or name in {
+            "insolvenzrecht", "steuerrecht-anwalt-und-berater", "zugewinnausgleich"
+        }
+        if not required and not path.is_file():
+            continue
         data = bounded_bytes(path)
         if len(data) > 7500 or not data.strip():
             raise ValueError(f"Ungültiger Schwerpunkt-Prompt: {name}")

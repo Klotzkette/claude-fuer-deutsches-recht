@@ -35,6 +35,12 @@ DOWNLOAD_BASE = "https://klotzkette.github.io/claude-fuer-deutsches-recht/downlo
 DISALLOWED_ABBR = chr(75) + chr(73)
 DISALLOWED_MIXED = chr(75) + "i"
 PROSE_REPLACEMENTS = {
+    "Wirtschaftsvertraege": "Wirtschaftsverträge",
+    "Geschaeftsauftrag": "Geschäftsauftrag",
+    "Ansprueche": "Ansprüche",
+    "Vertraege": "Verträge",
+    "vollstaendigen": "vollständigen",
+    "ueber": "über",
     "Oeffentliches": "Öffentliches",
     "Strassenverkehrsverwaltungsrecht": "Straßenverkehrsverwaltungsrecht",
     "Strassen": "Straßen",
@@ -268,6 +274,8 @@ def compact_prompt_fragment(value: str, limit: int = 210) -> str:
 
 
 HANDCURATED_FIRST_PRODUCTS = {
+    "anwaltschaft-generell": "das konkret beauftragte Mandanten- oder Gegnerschreiben, die Vertragsänderung oder den Schriftsatz aus den vorhandenen Belegen; kläre nur die dafür entscheidenden offenen Tatsachen",
+    "corporate-contract-law": "einen vollständigen Wirtschaftsvertrag, eine konkrete Gegenfassung oder den vereinbarten Nachtrag; verbinde Leistungsbeschreibung, Vergütung, Risikoverteilung und Anlagen widerspruchsfrei",
     "betriebskosten-hausverwaltung": "eine aus Mietvertrag, Rechnungen, Gutschriften, Vorauszahlungen und Heizverbrauch nachgerechnete Betriebskostenabrechnung oder den beauftragten Antwortbrief",
     "geldwaeschepraevention-aml-kyc": "einen belegten Prüfvermerk zum konkreten Mandat, Kaufpreis oder Zahlungsvorgang samt gezielter Nachforderung und gegebenenfalls sofortiger Meldeprüfung",
     "notariat-alltag": "einen aus den Kundenunterlagen vorbereiteten Urkunden- oder Registerentwurf mit Beteiligtenblatt und offenen Freigaben für den Notar",

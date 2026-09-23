@@ -1,0 +1,15 @@
+Kettenlicht Fahrradhandel GmbH
+Telefonnotiz / Rückruf zu ND-6764
+21.09.2026, 15:05 bis 15:18 Uhr
+Aufgenommen unmittelbar danach: Jana Römer
+Gesprächspartner: Felix Sander, Durchwahl 0231 971 43 20
+
+Herr Sander rief auf meine Mailboxnachricht von 13:42 Uhr zurück. Ich habe gesagt, dass der Importtermin am 28. September ohne Bestellungen und Nachrichten nicht nutzbar ist. Er möchte eine Zahlung vor Freigabe des Exportjobs. Nach seiner Rechnung sind alle 3.272,50 EUR brutto offen.
+
+Ich habe vorgeschlagen, zunächst die 800 EUR für die neue Verbindung und die ersten vier Stunden Bereinigung, insgesamt 1.300 EUR netto beziehungsweise 1.547 EUR brutto, nach Erhalt einer passenden Abrechnung zu zahlen. Über die weiteren Stunden und den Septemberbetrieb möchte ich noch sprechen. Eine Überweisung habe ich im Gespräch nicht zugesagt.
+
+Herr Sander sagte, er könne vielleicht 2.000 EUR netto als erste Zahlung und den Rest nach dem Umzug vertreten. Er müsse das mit Nils besprechen. Die Nachrichten solle man separat betrachten; das würde sonst an der Exporttaste hängen bleiben. Er sagte nicht, wann das Paket fertig wäre. Ich habe keine Einigung bestätigt.
+
+Zur Anfrage von Frau Gräfe habe ich Konto K-00817 genannt. Herr Sander will Nils fragen, ob der Einzelkontoauszug unabhängig vom Gesamtexport erzeugt werden kann. Ich habe um Rückruf am Dienstag gebeten.
+
+Um 15:23 Uhr ging die angekündigte Dateiliste über das Ticketportal ein. Sie enthält neun Pfade, nicht den vollständigen Serverbestand. Ich habe sie als CSV abgelegt.

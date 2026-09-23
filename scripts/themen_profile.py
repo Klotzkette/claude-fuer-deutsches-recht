@@ -5803,10 +5803,115 @@ PROFILE += (
     ),
 )
 
+PROFILE += (
+    ThemenProfil(
+        key="anwaltschaft-generell",
+        label="Anwaltschaft generell",
+        rolle="Allgemeiner Wirtschaftsanwalt für Vertragsprüfung, Leistungsstreit, Arbeitsverhältnis, Datenanfragen und die außergerichtliche oder gerichtliche Mandatsbearbeitung. Ein Mandat bleibt ein Vorgang mit gemeinsamem Beleg- und Entwurfsstand.",
+        oeffnungssatz="Bearbeite das beauftragte Schreiben, den Vertrag oder den Schriftsatz aus den vorhandenen Unterlagen; kläre nur die Tatsache oder Entscheidung, die den nächsten Textschritt tatsächlich verändert.",
+        normen=(
+            "BGB Paragrafen 280, 281, 286, 288, 320 und 323: Pflichtverletzung, Fristsetzung, Verzug und Gegenrechte nach der verlangten Rechtsfolge unterscheiden.",
+            "BGB Paragrafen 433, 434, 437 und 439 sowie 633 bis 641: Kauf oder Werkleistung, Nacherfüllung, Abnahme und Zahlung am konkreten Vertrag prüfen.",
+            "HGB Paragraf 377: Untersuchung und Rüge setzen ein beiderseitiges Handelsgeschäft voraus; versteckte Mängel und rechtzeitige Absendung getrennt belegen.",
+            "BGB Paragrafen 305 bis 310: AGB-Einbeziehung, individuelle Vereinbarung und Inhaltskontrolle im jeweiligen Geschäftsverkehr unterscheiden.",
+            "BGB Paragraf 623, KSchG Paragrafen 4 und 7, ArbGG Paragraf 46h: Schriftform, Kündigungszugang, Klagefrist und die besondere Formfiktion gerichtlicher Schriftsätze nicht vermischen.",
+            "Artikel 12, 15 und 28 der Verordnung (EU) 2016/679: Betroffenenauskunft, Geschäftsunterlagen und Dienstleisterpflichten auf getrennten Anspruchsgrundlagen bearbeiten.",
+            "ZPO Paragrafen 138, 253, 286 und 130a: substantiierter Vortrag, bestimmter Antrag, Beweis und elektronische Einreichungsform bleiben eigenständige Voraussetzungen.",
+        ),
+        entscheidungen=(
+            "BAG, Urteil vom 30.01.2025 - 2 AZR 68/24, Randnummern 11 bis 21: Einlieferungsbeleg und bloßer Sendungsstatus genügen nicht für einen Anscheinsbeweis des Kündigungszugangs. Konkreter Auslieferungsbeleg, Zustellverfahren und andere Beweismittel sind gesondert zu prüfen.",
+        ),
+        stationen=(
+            "Mandat -> skills/mandat-bis-zum-schreiben-bearbeiten/SKILL.md: Den beauftragten Vorgang selbst bis zum verwendbaren Schreiben oder Vertrag bearbeiten.",
+            "Anspruch -> skills/ansprueche-beweise-und-fristen-pruefen/SKILL.md: Anspruchsgrundlage, Gegenposition, Beweislast und Fristauslöser zusammenführen.",
+            "Vertrag -> skills/vertrag-pruefen-und-aendern/SKILL.md: Die konkrete Regelung samt benachbarten Pflichten prüfen und durch einsetzbaren Text ändern.",
+            "AGB -> skills/agb-im-geschaeftsverkehr-pruefen/SKILL.md: Verwender, Einbeziehung, Parteirollen und einzelne Klauselwirkungen bestimmen.",
+            "Zahlung -> skills/zahlung-maengel-und-verzug-bearbeiten/SKILL.md: Zahlungsbelege, Mängel und verlangte Rechtsfolge in Rechnung und Schreiben abgleichen.",
+            "Arbeit -> skills/arbeitsverhaeltnis-aendern-oder-beenden/SKILL.md: Änderung oder Beendigung nach Auftrag, Form, Zugang, Schutz und Frist bearbeiten.",
+            "Daten -> skills/datenschutzanfrage-und-dienstleister-pruefen/SKILL.md: Auskunftsbegehren, Datenzugang und Dienstleistervertrag voneinander abgrenzen.",
+            "Gesellschaft -> skills/gesellschaft-und-vertretung-klaeren/SKILL.md: Vertragspartner, Vertretung und notwendige Organentscheidung anhand der Unterlagen feststellen.",
+            "Vergleich -> skills/vergleich-und-abwicklung-vereinbaren/SKILL.md: Leistung, Erledigungsumfang, Sicherung und tatsächliche Abwicklung vollständig vereinbaren.",
+            "Schriftsatz -> skills/schriftsatz-und-anlagen-fertigstellen/SKILL.md: Gewünschten Antrag oder Erwiderung mit Beweisangeboten und passenden Anlagen ausformulieren.",
+        ),
+        pruefraster=(
+            "Für welche Partei und welchen Empfänger wird welches konkrete Dokument benötigt?",
+            "Welche belegte Pflicht und welche Einwendung tragen den verlangten Betrag oder die verlangte Handlung?",
+            "Welche Seite muss die entscheidende Tatsache beweisen, und wo steht ihr Nachweis?",
+            "Welche Erklärung oder Zustellung löst die maßgebliche Frist aus?",
+            "Welche Antwort verändert Rechnung, Rechtsfolge und die nächste Fassung desselben Schreibens?",
+        ),
+        stop=(
+            "Ein Datenexport soll ohne Prüfung als vollständige Betroffenenauskunft behandelt werden.",
+            "Eine Beschwerde soll ohne Prüfung als Rücktritt oder Anerkenntnis gelten.",
+            "Eine Fristverlängerungsbitte soll ohne Bewilligung eine laufende Frist sichern.",
+            "Vergleich, Einreichung oder Versand soll ohne ausdrückliche Freigabe erfolgen.",
+        ),
+    ),
+)
+
+PROFILE += (
+    ThemenProfil(
+        key="corporate-contract-law",
+        label="Corporate Contract Law: Wirtschaftsverträge",
+        rolle="Vertragsgestalter für deutsche und grenzüberschreitende B2B-Liefer-, Projekt-, Dienstleistungs-, Kooperations- und Vertriebsverträge. Die tatsächlichen Pflichten und wirtschaftlichen Bindungen bestimmen den Entwurf, nicht dessen Überschrift.",
+        oeffnungssatz="Erstelle oder überarbeite den konkret bestellten Wirtschaftsvertrag aus Angebot, Anlagen und Verhandlungsstand; kläre die entscheidende wirtschaftliche Bindung und führe denselben Entwurf nach Antworten bis zur abgestimmten Unterschriftenfassung weiter.",
+        normen=(
+            "BGB Paragrafen 305, 307 und 310: Vorformulierung, echtes Aushandeln und B2B-Inhaltskontrolle unterscheiden; Paragraf 308 Nummern 1a und 1b bleiben grundsätzlich relevant.",
+            "BGB Paragrafen 271a und 276: Zahlungs- und Prüfungsfristen sowie die Grenze vorausgehenden Vorsatzausschlusses beachten; daraus keine allgemeine Freigabe von AGB ableiten.",
+            "BGB Paragrafen 640 und 648: Abnahme einschließlich Fiktionsvoraussetzungen sowie freie Bestellerkündigung und Vergütungsabrechnung nur in ihrem werkvertraglichen Anwendungsbereich gestalten.",
+            "HGB Paragrafen 377, 348 und 350: Handelsgeschäftliche Rüge, Vertragsstrafe und Formausnahmen jeweils nach eigenen Voraussetzungen prüfen.",
+            "HGB Paragrafen 89b und 90a: Ausgleich und Wettbewerbsverbot bei Handelsvertretern nicht ungeprüft auf Eigenhändler übertragen.",
+            "BGB Paragrafen 766 und 767: Bürgschaftsform, gesicherte Hauptverbindlichkeit und Grenzen nachträglicher Erweiterungen konkret abstimmen.",
+            "BGB Paragraf 311b und GeschGehG Paragraf 2: Notarform beziehungsweise konkrete Geheimhaltungsmaßnahmen sind keine bloßen Vertragsüberschriften.",
+        ),
+        entscheidungen=(
+            "EuGH, Urteil vom 09.11.2000 - C-381/98, Ingmar: Der gelesene amtliche Leitsatz schützt die Rechte nach Artikeln 17 und 18 der Handelsvertreterrichtlinie bei Tätigkeit im Mitgliedstaat, Unternehmer im Drittstaat und dessen Rechtswahl. Keine Volltextfreigabe, kein automatischer Vertragshändlerausgleich und keine bestimmte Anspruchshöhe.",
+        ),
+        stationen=(
+            "Hauptvertrag -> skills/wirtschaftsvertrag-bis-zur-unterschrift-erstellen/SKILL.md: Den Vertragsauftrag selbst bis zum vollständigen Entwurf und zur abgestimmten Endfassung führen.",
+            "Eckpunkte -> skills/verhandlungsauftrag-und-eckpunkte-klaeren/SKILL.md: Belegte Einigung von eigener Vorgabe, Gegenposition und offener Geschäftsentscheidung trennen.",
+            "Typ und Form -> skills/vertragstyp-form-und-vertretung-pruefen/SKILL.md: Tatsächliche Leistung, Wirksamkeitsform und Vertretung vor der Unterschrift klären.",
+            "Lieferung -> skills/liefervertrag-und-abrufsystem-gestalten/SKILL.md: Prognose, Abruf, Mindestmenge, Kapazität und Restmaterial widerspruchsfrei verbinden.",
+            "Rahmen -> skills/rahmenvertrag-mit-einzelauftraegen-verknuepfen/SKILL.md: Vertragsschluss, Anlagenfassung und Fortbestand einzelner Bestellungen ausdrücklich regeln.",
+            "Projekt -> skills/projektvertrag-leistung-und-abnahme-fassen/SKILL.md: Erfolg, Schnittstellen, Tests, Abnahme und Wiederholungsprüfung messbar ausgestalten.",
+            "Service -> skills/dienstleistung-und-servicelevel-vereinbaren/SKILL.md: Verfügbarkeitsmessung, Störung, Reaktion und Gutschrift auf den geschuldeten Dienst abstimmen.",
+            "Vertrieb -> skills/vertrieb-haendler-und-handelsvertreter-gestalten/SKILL.md: Eigenhandel, Vermittlung, Gebiet, Preisfreiheit und Vertragsende nach tatsächlicher Rolle prüfen.",
+            "Entwicklung -> skills/kooperation-und-entwicklung-vereinbaren/SKILL.md: Beiträge, Ergebnisse, Entscheidungen und Abbruch des gemeinsamen Vorhabens vereinbaren.",
+            "Rechte -> skills/software-daten-und-nutzungsrechte-regeln/SKILL.md: Vorbestehende und neue Rechte sowie erforderliche Datenzugänge konkret zuordnen.",
+            "Geheimnisse -> skills/vertraulichkeit-und-geheimnisschutz-vereinbaren/SKILL.md: Geschützte Information, Zugriff, zulässige Offenlegung und Rückgabe abgrenzen.",
+            "Vergütung -> skills/preise-zahlung-und-preisanpassung-regeln/SKILL.md: Preisformel, Nachweise, Fälligkeit, Steuern und Anpassungsmechanismus zusammenrechnen.",
+            "Haftung -> skills/haftung-gewaehrleistung-und-freistellung-regeln/SKILL.md: Pflicht, Schadensart, Grenze, Ausnahme und das Zusammenwirken aller Rechtsbehelfe prüfen.",
+            "Exit -> skills/laufzeit-kuendigung-und-exit-gestalten/SKILL.md: Beendigungsgrund, Übergang, offene Aufträge und Abrechnung regeln.",
+            "Sicherheit -> skills/sicherheiten-und-konzernzusagen-pruefen/SKILL.md: Gesicherte Pflicht, Form, Höchstbetrag, Inanspruchnahme und Freigabe bestimmen.",
+            "Datenverarbeitung -> skills/datenschutz-und-unterauftragnehmer-regeln/SKILL.md: Tatsächliche Rollen, Weisung, Unterstützung, Unterauftrag und Datenrückgabe abstimmen.",
+            "Ausland -> skills/internationalen-vertrag-rechtswahl-und-gerichtsstand-pruefen/SKILL.md: Rechtswahl, UN-Kaufrecht, Forum und Durchsetzung gesondert prüfen.",
+            "Klauseln -> skills/agb-und-dokumentenrangfolge-abgleichen/SKILL.md: Einbeziehung, echte Verhandlung und sachbezogenen Vorrang der Vertragsdokumente klären.",
+            "Nachtrag -> skills/vertragsaenderung-und-nachtrag-erstellen/SKILL.md: Nur die beauftragte Änderung samt ihrer betroffenen Folgepflichten rechtssicher fassen.",
+            "Abschluss -> skills/verhandlungsfassung-und-unterschriftenmappe-fertigstellen/SKILL.md: Lesefassung, Änderungen, Anlagen, Freigaben und zulässigen Signaturweg abschließend abstimmen.",
+        ),
+        pruefraster=(
+            "Welche Leistung ist verbindlich bestellt, und welche Menge oder Planung bleibt unverbindlich?",
+            "Welche objektiv feststellbare Tatsache löst Abnahme, Zahlung oder eine weitere Leistung aus?",
+            "Wer trägt nicht verwertbares Material, Änderungsaufwand, Folgeschäden und Übergangskosten?",
+            "Welche Haftungsbegrenzung wird durch Freistellung, Gutschrift oder Vertragsstrafe verdeckt verändert?",
+            "Sind Gegenfassung, Anlagenstand und Unterschriftenfreigabe tatsächlich belegt oder nur vorgeschlagen?",
+        ),
+        stop=(
+            "Eine Rechtswahl zugunsten deutschen Rechts soll ohne Prüfung UN-Kaufrecht ausschließen.",
+            "Eine Aushandlungsbestätigung soll echte Einflussnahme auf die Klausel ersetzen.",
+            "Ein Vertragsentwurf soll ohne wirtschaftliche Freigabe als bindende Einigung ausgegeben werden.",
+            "Eine Prozentgrenze aus einem einzelnen Bauvertragsfall soll jede Vertragsstrafe rechtfertigen.",
+            "Unterschrift, Notarform, Versand oder Vertretungsmacht soll ohne Nachweis behauptet werden.",
+        ),
+    ),
+)
+
 PROFILE_BY_KEY = {p.key: p for p in PROFILE}
 
 
 EXACT_PROFILE_KEYS: dict[str, str] = {
+    "anwaltschaft-generell": "anwaltschaft-generell",
+    "corporate-contract-law": "corporate-contract-law",
     "agb-recht-pruefer": "verbraucher",
     "aktenaufbereiter-strafrecht": "strafjustiz",
     "aktienrecht-hauptversammlung-ag-se": "aktg_hv",

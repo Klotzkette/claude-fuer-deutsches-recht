@@ -1,0 +1,8 @@
+﻿Exportstand;Beleg;Position;Artikel;Revision;Menge_Stück;Wunschtermin;Status;Versand_an_Lieferant;Lieferantenbestätigung;Bemerkung
+2026-09-21T14:00:00+02:00;RK-AB-261001;10;D400-24-M12;offen;60;2026-10-19;Termin angefragt;2026-09-21;;"Erster Serienanlauf; technische Freigabe fehlt"
+2026-09-21T14:00:00+02:00;RK-AB-261102;10;D400-24-M12;offen;80;2026-11-16;Termin angefragt;2026-09-21;;Los unter 100 Stück
+2026-09-21T14:00:00+02:00;RK-AB-261203;10;D400-24-M12;offen;100;2026-12-14;Termin angefragt;2026-09-21;;Anlagenkunde hat Menge noch nicht finalisiert
+2026-09-21T14:00:00+02:00;RK-FC-2027;10;D400-24-M12;offen;300;2027-03-31;Unverbindlicher Forecast;2026-09-21;;"Quartal 1; Sammeltermin, kein Einzelabruf"
+2026-09-21T14:00:00+02:00;RK-FC-2027;20;D400-24-M12;offen;300;2027-06-30;Unverbindlicher Forecast;2026-09-21;;"Quartal 2; Sammeltermin, kein Einzelabruf"
+2026-09-21T14:00:00+02:00;RK-FC-2027;30;D400-24-M12;offen;300;2027-09-30;Unverbindlicher Forecast;2026-09-21;;"Quartal 3; Sammeltermin, kein Einzelabruf"
+2026-09-21T14:00:00+02:00;RK-FC-2027;40;D400-24-M12;offen;300;2027-12-31;Unverbindlicher Forecast;2026-09-21;;"Quartal 4; Sammeltermin, kein Einzelabruf"
