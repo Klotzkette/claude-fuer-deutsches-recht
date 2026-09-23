@@ -1,0 +1,75 @@
+name: vertragserstellung-wartungsvertrag-druckerei-kassel
+plugin: vertragserstellung
+description: Offene Wartungsverhandlung für bestehende Sonderdrucklinien mit Betriebsbelegen, vollständigen Gegenfassungen, Preisstufen, Remotezugriff und gesondertem Umbau.
+checks:
+  - id: lieferantenfassung-vollstaendig
+    check_type: file_exists
+    path: 16_Lieferantenfassung_2026-09-18.docx
+    description: Vollständiger und editierbarer Lieferantenvorschlag vom 18.09.2026 mit freiem Unterschriftsbereich.
+  - id: druckereifassung-vollstaendig
+    check_type: file_exists
+    path: 20_Druckereifassung_2026-09-21.docx
+    description: Vollständiger Gegenentwurf vom 21.09.2026, kein bloßer Änderungszettel und nicht als Abschluss bezeichnet.
+  - id: kalkulation-nativ
+    check_type: file_exists
+    path: 22_Kostenvergleich_2027.xlsx
+    description: Editierbare Kostenrechnung mit Quellen, Formeln, gespeicherten Werten und separatem Zahlungsabgleich.
+  - id: schichtbeleg
+    check_type: file_exists
+    path: 04_Schichtbuch_2026-09-10_bis_12.csv
+    description: Gequoteter UTF-8-Schichtexport mit getrennten Minuten für Stillstand und eingeschränkten Betrieb.
+  - id: anlagenplan
+    check_type: file_exists
+    path: 17_Aufstellplan_Halle2_2026-09-08.png
+    description: Lesbare Bestandsskizze mit Z1/K1-Schnittstelle, K2/P-17, G1 und Teilefach R3.
+  - id: native-formate-und-anlagen
+    check_type: human_review
+    description: 26 eigenständige Quellen prüfen; EML-Header und MIME-Anhänge mit den Einzelfassungen abgleichen; Chat-Anlagen und Vertragsanlagen müssen vorhanden sein. README, rubric und QA-Dateien bleiben außerhalb des Arbeitsmaterials.
+  - id: offenheit-und-mandatsrolle
+    check_type: human_review
+    description: Die beauftragte Partei ausdrücklich bestimmen oder erfragen. Fuldabogen ist Servicebestellerin, Werkspur Anbieterin; kein Maschinenkauf. Verhandlungsvollmacht von Hartung nicht als Unterzeichnungsvollmacht behandeln. Am 23.09. liegen weder Vertragsschluss noch Umbauauftrag vor.
+  - id: gesamterstellung-und-vertretung
+    check_type: human_review
+    description: Für die Skills vertrag-vom-auftrag-bis-zur-endfassung-erstellen und eckpunkte-form-und-vertretung-festlegen die beiden Geschäftsführungen, Standort, Beginn 01.01.2027, Altvertragsende 31.12.2026 und fehlende Abschlussfreigabe verbinden; keine freie Unterzeichnung fingieren.
+  - id: leistung-mitwirkung-abnahme
+    check_type: human_review
+    description: Die abweichende Einbeziehung von Z1, G1, Trocknern, P-17 sowie sechs Wartungen pro Jahr und 40 versus 60 Entstörungsstunden herausarbeiten. Mitwirkung und Fehlerursache nicht aus einem fehlenden Reinigungseintrag gleichsetzen. Wartung, Entstörung und gesonderten Umbauerfolg differenzieren.
+  - id: zeitbegriffe-und-einsatznachweise
+    check_type: human_review
+    description: 00:40 Stillstand, 00:48 Telefonannahme, 01:25 technische Reaktion, 03:25 Ankunft, 04:10 eingeschränkter Wiederanlauf und 06:55 volle Leistung auseinanderhalten. 210 Minuten Stillstand plus 165 Minuten eingeschränkte Leistung sind nicht 375 Minuten kompletter Stillstand. Geplante Leistungsversprechen nicht rückwirkend auf den Altvertrag anwenden.
+  - id: fristen-und-rufbereitschaft
+    check_type: human_review
+    description: Werktagsservice und Montag-bis-Samstag-Bereitschaft ohne Feiertage gegen 24/7 vergleichen; 60 Minuten Reaktion und bloßes Sechsstunden-Ankunftsziel gegen 30 Minuten Reaktion, vier Stunden Ankunft und acht Stunden Wiederherstellung abgrenzen. Gutschriften mit Haftung und Schadensanrechnung abstimmen.
+  - id: preis-zahlung-und-sicherung
+    check_type: human_review
+    description: 10.900 Planstunden aus 5.400 und 5.500 führen im Lieferantenstand zur höheren Stufe. 2.390 plus 450 plus 120 ergeben monatlich 2.960 und jährlich 35.520 EUR netto. Unterstufe 32.640 ist nicht Planfall. Grundwartung 1.650 nicht zusätzlich addieren. Bestellervorschlag 29.400 jährlich bleibt unbestätigt.
+  - id: material-und-kostenvergleich
+    check_type: human_review
+    description: 3.500-EUR-Budget und 750-EUR-Stückgrenze samt ausgeschlossenen Motoren gegen 6.000-EUR-Budget ohne Stückgrenze trennen. Unter der ausdrücklich begrenzten 3.900-EUR-Planannahme entstehen 400 EUR Zusatzmaterial beim Lieferanten und null im Gegenentwurf. Mit Umbau 4.800 beziehungsweise 4.200 ergeben sich 40.720 beziehungsweise 33.600 EUR netto, Differenz 7.120; kein gleichwertiger Leistungsumfang unterstellen.
+  - id: rechnungen-und-teilzahlungen
+    check_type: human_review
+    description: Quartalsrechnung 4.800 netto plus 912 Steuer gleich 5.712 brutto ist mit 3.000 und 2.712 vollständig bezahlt. Einsatz 448 Arbeit plus 240 Bereitschaft plus 145 Anfahrt plus 902 Teile gleich 1.735 netto und 2.064,65 brutto. Zwei Teilzahlungen 1.000 und 500 lassen 564,65 offen; keine endgültige Kürzung oder neue Vertragsanzahlung daraus ableiten.
+  - id: preisanpassung
+    check_type: human_review
+    description: Ersten Anpassungszeitpunkt 01.01.2028 und Mitteilung bis 30.09. trennen von Nutzungsstufen und rückwirkender Jahresnachbelastung. Lieferantenkostenmix 60/40 mit fünf Prozent Grenze gegen Juni-VPI mit drei Prozent Grenze und Sonderkündigung prüfen. Die Excel-Obergrenzen sind keine feststehenden Indexwerte.
+  - id: daten-nutzungsrechte-geheimhaltung
+    check_type: human_review
+    description: Dauernder Tunnel gegen Einzelzugriff, 180 gegen 30 Tage Protokollhaltung, Personenkennungen und freies Auftragsfeld, persönliche Konten und Unterauftragnehmer differenzieren. Kein bereits abgeschlossener Auftragsverarbeitungsvertrag behaupten; Rollen und erforderliche Zusatzvereinbarung bleiben offen. Kundendateien werden nicht als frei nutzbare Serviceinhalte behandeln.
+  - id: haftung-und-maengelrechte
+    check_type: human_review
+    description: Ein Nettojahresentgelt und Produktionsausfallausschluss gegen 250.000 EUR pro Fall und 500.000 EUR jährlich mit nachgewiesenen Ausfallschäden prüfen. Ausnahmen und zwingende Grenzen nicht übergehen. Umbau-Mängelfrist zwölf versus 24 Monate sowie Nachbesserung und Abnahme unterscheiden; keine pauschale Wirksamkeitszusage aus der Akte ableiten.
+  - id: laufzeit-und-vertragsende
+    check_type: human_review
+    description: Dreijährige feste Laufzeit bis Ende 2029 gegen Erstlaufzeit Ende 2027 und jährliche Verlängerung mit dreimonatiger Kündigungsfrist abgleichen. Sonderkündigung, wichtiger Grund, Abhilfe, Zugangssperrung und Protokollübergabe durchgängig abstimmen; aus Angebotsbindung bis 30.09. keine Verlängerung des Altvertrags folgern.
+  - id: rangfolge-und-agb
+    check_type: human_review
+    description: Konflikt zwischen technischem Blatt RZ-06 und Einzelzugriff im Gegenentwurf über ausdrücklichen Vertragsvorrang behandeln. Angebot, aktuelle Fassung und gesondertes Umbauangebot nicht kumulativ widerspruchslos voraussetzen. Keine nicht vorhandenen AGB oder Anlagen erfinden.
+  - id: nachtrag-und-folgeaenderungen
+    check_type: human_review
+    description: Bei Beauftragung des Skills nachtrag-mit-folgeaenderungen-erstellen klären, ob der Altvertrag oder ein erst noch abzuschließender Wartungsvertrag geändert werden soll. Aufnahme G2 und Rücklaufmessung mit Anlagenliste, Preis, Remotezugriff, Abnahme, Materialbudget und Beginn verknüpfen; noch nicht gebaute Komponenten nicht als Bestand behandeln.
+  - id: verhandlung-und-unterschriftenfassung
+    check_type: human_review
+    description: Änderungen aus den Mails quellengerecht übernehmen und verbleibende Alternativen offenhalten. Bei späterem Auftrag zur Endfassung nur tatsächlich freigegebene Positionen konsolidieren. Unterzeichnung nicht vorwegnehmen; Vorbehalte, offene Preisfreigabe und getrennte Umbau-Bestellung beachten.
+  - id: layout-formeln-export
+    check_type: human_review
+    description: Sämtliche formalen Dokumentseiten und beide Tabellenblätter visuell prüfen, Times New Roman 11 im Fließtext der formalen Dokumente, keine isolierte Unterschrift, echte Umlaute und keine fehlenden Glyphen. Alle Formeln müssen nach Office-Neuberechnung gespeicherte Werte enthalten; Warntext nur README vor Downloads und ZIP-README, niemals in den PDFs.

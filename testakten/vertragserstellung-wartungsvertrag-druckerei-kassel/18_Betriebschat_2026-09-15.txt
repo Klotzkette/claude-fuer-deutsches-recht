@@ -1,0 +1,13 @@
+Fuldabogen Betriebsnachrichten
+Kanal: Halle 2 / Instandhaltung
+Export durch René Möller am 15.09.2026 um 16:45 Uhr, Zeitzone Europe/Berlin
+
+15.09.2026 15:42 Selin Krüger: Für das Gespräch morgen: Am Samstag war bei 04:10 nicht alles gut. Wir mussten die Auflage reduzieren, sonst kam der Druckalarm zurück. Erst nach dem Schlauchwechsel lief es normal.
+15.09.2026 15:46 René Möller: Ja. Der Bericht unterscheidet das jetzt. Bitte die Zeiten nicht in der Schichtliste zu einem einzigen Feld zusammenziehen.
+15.09.2026 15:47 René Möller: Datei angehängt: 08_Servicebericht_SR-260912.pdf
+15.09.2026 15:50 Jan Faber: Am K1-Einlauf ist das Problem anders. Z1 hält an, und dann steht K1 über dieselbe Not-Halt-Kette. Wenn Werkspur nur die K1 anschaut, warten wir wieder auf zwei Firmen.
+15.09.2026 15:53 René Möller: Datei angehängt: 17_Aufstellplan_Halle2_2026-09-08.png
+15.09.2026 15:54 René Möller: Das ist die Skizze vom letzten Rundgang. Der Platz am Servicetor muss frei bleiben. Am Samstag standen dort zwei Paletten; wir haben sie weggezogen, bevor Grebe ankam.
+15.09.2026 16:02 Selin Krüger: Zum Gateway: Ich habe den Schlüssel gedreht, das weiß ich sicher. Ob die Firewall davor offen war, sehe ich am Schrank nicht. Ich will keine dauernde Freigabe unterschreiben, nur damit die Diagnose schneller startet.
+15.09.2026 16:14 Jan Faber: Für einen Umbautest bitte unsere dicke Nachtfarbe nehmen. Der Probelauf im August war mit Standardfarbe; da gab es keinen Alarm. Sechs Stunden wären ein kompletter sauberer Vergleichslauf.
+15.09.2026 16:29 René Möller: Ich gebe das so an Einkauf weiter. Es gibt noch keinen Umbauauftrag. P-17 und der alte Schlauch bleiben beschriftet in Fach R3, bis beide Seiten sie gesehen haben.

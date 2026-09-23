@@ -1,6 +1,6 @@
 # geldwaeschepraevention-aml-kyc
 
-**20 Skills** · Stand `v445.1.2`
+**20 Skills** · Stand `v445.2.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../geldwaeschepraevention-aml-kyc/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

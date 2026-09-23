@@ -1,3 +1,21 @@
+# v445.2.0 - Vertragserstellung und Wirtschaftsanwalt mit je zehn Skills
+
+## 1. Zwei zusätzliche kompakte Praxispakete
+
+Vertragserstellung bündelt den konkreten B2B-Vertragsauftrag in zehn abgestimmten Arbeitswegen. Wirtschaftsanwalt verbindet die laufende Unternehmensberatung mit Vertrags-, Zahlungs-, Personal-, Organ- und Datenfragen. Beide Hauptskills führen den beauftragten Vorgang selbst bis zum Dokument und verarbeiten Rückantworten im selben Entwurf; eine bloße Analyse beendet keinen weitergehenden Dokumentauftrag.
+
+Je eine individuell geschriebene Werkstatt, ein Mini-Prompt und ein Hauptproblem-Prompt stehen als separate Markdown-Downloads bereit. Beide kompakten Fassungen bleiben innerhalb von 7500 Zeichen und UTF-8-Bytes. Die Hauptproblem-Workflows sind zugleich echte installierbare Skills. Die bisherigen Pakete Anwaltschaft generell und Corporate Contract Law sowie ihre Prompts bleiben unverändert verfügbar.
+
+## 2. Neue Akten und nachvollziehbare Wiederverwendung
+
+Die neue Kasseler Akte verbindet die Verhandlung eines Wartungsvertrags für Druckmaschinen mit betrieblichen Störungen, Serviceberichten, Preisen und Leistungsgrenzen. Die neue Hannoveraner Akte verknüpft einen Gesellschafterkonflikt in einer Handwerksgesellschaft mit laufenden Kundenforderungen, Lieferantenverbindlichkeiten und Zahlungsplanung. Je 26 Originalunterlagen ergeben zusammen 52 Quellen und 101 Gesamt-PDF-Seiten. Native Dokumente, Korrespondenz, Zahlenwerk und Bildanlagen werden als Gesamt-PDF und in beiden flachen ZIP-Varianten bereitgestellt; rechtliche Musterlösungen gehören nicht in die Akten. Die Zahlungsplanung erfasst auch Wochenendtermine; verschobene Eingänge werden durch eine Neuberechnungsprüfung abgesichert.
+
+Jedes neue Plugin verweist außerdem auf zwei passende, bereits vorhandene Akten. Diese vier Bestandsfälle werden wiederverwendet, nicht als neue Fälle ausgegeben oder unter neuen Namen dupliziert. Die Herkunft bleibt in den Übersichten erkennbar.
+
+## 3. Auffindbarkeit und Prüfung
+
+Alle sechs neuen Prompt-Downloads sind unmittelbar im Haupt-README verlinkt. Marketplace, Skill- und Promptverzeichnisse, fachliche Schwerpunktaufträge und Aktenzuordnungen werden gemeinsam aktualisiert. Neue Regressionen sichern die genaue Zahl von zehn Skills, die ausführenden Hauptworkflows, die geschützten Einzeldateien und die drei zugeordneten Akten pro Paket. Individuelle Aktenprüfungen ergänzen die bestehenden Import-, Struktur-, Layout- und Quellenkontrollen. Vorbereitete Ergebnisprüffälle und technische Importprüfung sind keine ausgeführten Live-Tests in fremden Benutzerkonten.
+
 # v445.1.2 - Anwaltschaft und Wirtschaftsverträge
 
 Veröffentlichung beider neuer Praxisplugins mit zehn beziehungsweise zwanzig Skills, je einer ausführlichen Werkstatt, einem Schnellstart und einem Hauptproblem-Prompt. Sechs individuelle Arbeitsakten enthalten 149 Originalunterlagen und 271 Gesamt-PDF-Seiten sowie die beiden flachen ZIP-Varianten.

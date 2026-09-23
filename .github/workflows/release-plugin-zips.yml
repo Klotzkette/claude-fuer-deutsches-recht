@@ -87,6 +87,9 @@ jobs:
           python3 scripts/test-zugewinnausgleich.py
           python3 scripts/test-strassennutzung.py
           python3 scripts/test-anwaltschaft-vertragswerkstatt.py
+          python3 scripts/test-kompakte-wirtschaftspakete.py
+          python3 scripts/test-vertragserstellung-kassel-akte.py
+          python3 scripts/test-wirtschaftsanwalt-hannover-akte.py
 
       - name: Skill-Aktivierungssignale prüfen
         run: |

@@ -40,7 +40,7 @@ Kategorien sind alphabetisch nach Titel sortiert, Einträge innerhalb jeder Kate
 | [Franchise und Leasing](#franchise-und-leasing) | 2 |
 | [Gerichtliche Spruchpraxis (experimentell)](#gerichtliche-spruchpraxis-experimentell) | 13 |
 | [Gewerblicher Rechtsschutz](#gewerblicher-rechtsschutz) | 8 |
-| [Handels- und Gesellschaftsrecht](#handels--und-gesellschaftsrecht) | 17 |
+| [Handels- und Gesellschaftsrecht](#handels--und-gesellschaftsrecht) | 19 |
 | [Insolvenz- und Sanierungsrecht](#insolvenz--und-sanierungsrecht) | 10 |
 | [Internationales Wirtschaftsrecht](#internationales-wirtschaftsrecht) | 6 |
 | [IT-Recht](#it-recht) | 17 |
@@ -63,7 +63,7 @@ Kategorien sind alphabetisch nach Titel sortiert, Einträge innerhalb jeder Kate
 | [Versicherungsrecht](#versicherungsrecht) | 3 |
 | [Verwaltungsrecht](#verwaltungsrecht) | 32 |
 
-229 kuratierte Plugins in 34 Kategorien, aus insgesamt 242 Marketplace-Plugins (Abgleich: 23. September 2026). Gezählt werden Plugins, nicht einzelne Skills oder Prompt-Dateien.
+231 kuratierte Plugins in 34 Kategorien, aus insgesamt 244 Marketplace-Plugins (Abgleich: 23. September 2026). Gezählt werden Plugins, nicht einzelne Skills oder Prompt-Dateien.
 
 ## Agrarrecht
 
@@ -198,6 +198,9 @@ Kategorien sind alphabetisch nach Titel sortiert, Einträge innerhalb jeder Kate
 - [private-equity-praxis](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/private-equity-praxis): Private-Equity-Praxis-Plugin für deutsche Kanzleien, Investoren, Fonds, Family Offices und Unternehmen: Fund Formation, KAGB/AIF, ELTIF, Deal Execution… · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=private-equity-praxis/private-equity-praxis-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=private-equity-praxis/private-equity-praxis-werkstatt.md)
 - [schoeffen-handelsrichter-praxis](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/schoeffen-handelsrichter-praxis): Plugin für Schöffen, Jugendschöffen, ehrenamtliche Richter und Handelsrichter: Rolle, Rechte, Pflichten, Sitzung, Beratung, Befangenheit, Beweiswürdigung… · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=schoeffen-handelsrichter-praxis/schoeffen-handelsrichter-praxis-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=schoeffen-handelsrichter-praxis/schoeffen-handelsrichter-praxis-werkstatt.md)
 - [venture-capital-geber](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/venture-capital-geber): VC-Geber-Plugin für deutsche Venture-Capital-Investoren, Family Offices, Angels und junge VCs: Sourcing, Deal-Tracking, Wandeldarlehen, SAFE, Pre-Seed… · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=venture-capital-geber/venture-capital-geber-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=venture-capital-geber/venture-capital-geber-werkstatt.md)
+
+- [vertragserstellung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/vertragserstellung): Zehn Arbeitswege für den einzelnen B2B-Vertrag: Lieferung, Wartung und Projektleistung mit Preis, Abnahme, Haftung und Nachtrag bis zur abgestimmten Endfassung. · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vertragserstellung/vertragserstellung-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vertragserstellung/vertragserstellung-werkstatt.md)
+- [wirtschaftsanwalt](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/wirtschaftsanwalt): Laufende Unternehmensberatung verbindet Vertrags-, Personal-, Organ-, Zahlungs- und Datenfragen. Zehn Skills bearbeiten die Geschäftsentscheidung bis zum Schreiben, Nachtrag, Vergleich oder Schriftsatz. · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=wirtschaftsanwalt/wirtschaftsanwalt-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=wirtschaftsanwalt/wirtschaftsanwalt-werkstatt.md)
 
 ## Insolvenz- und Sanierungsrecht
 

@@ -1,0 +1,49 @@
+name: wirtschaftsanwalt-gesellschafterkonflikt-handwerk-hannover
+plugin: wirtschaftsanwalt
+description: Gesellschaftsmandat mit Anteilswunsch, laufendem Werkprojekt und kurzfristigen Zahlungsfragen.
+checks:
+  - id: gesellschaftsmandat
+    check_type: human_review
+    description: Mandantin GmbH von den Einzelinteressen Brandes und Niemeyer abgrenzen; keine gemeinsame persönliche Vertretung stillschweigend annehmen.
+  - id: vertretung-und-innenbindung
+    check_type: human_review
+    description: Einzelvertretung beider Geschäftsführer, Einzelprokura, fehlende Selbstkontrahierungsbefreiung, interne Finanzierungszustimmung und technische Bankfreigabe anhand verschiedener Quellen unterscheiden.
+  - id: anteil-statt-assetdeal
+    check_type: human_review
+    description: Unverbindliche Preisvorstellungen, Anteilsübertragung, Satzungskündigung, Organstellung und Dienstvertrag getrennt erfassen; keinen Verkauf von Betriebsmitteln oder bereits wirksamen Austritt unterstellen.
+  - id: einberufung
+    check_type: human_review
+    description: Den nicht versandten Entwurf anhand der konkreten Satzungsfristen, Einladungsform, Tagesordnung und Beschlussfähigkeit prüfen; Einzelthemen und mögliche Stimmrechtsfragen ohne pauschale Vorentscheidung behandeln.
+  - id: gehaltsbestand
+    check_type: human_review
+    description: Bestandsvergütung September, befristeter Reduktionsvorschlag für beide Geschäftsführer und Erhöhungswunsch Brandes trennen; keine Vertragsänderung oder Lohnstundung erfinden.
+  - id: projekt-und-beweislage
+    check_type: human_review
+    description: Zwischenleistungsnachweis nicht als Abnahme behandeln; Geräusch, Feuchte, Beschriftung und Elektroübergabe mit ihren unterschiedlichen Beobachtungsständen bewerten; Ursache und Fremdkosten nicht als geklärt darstellen.
+  - id: abschlaege
+    check_type: human_review
+    description: 142800 EUR Bruttoauftrag, 42840 EUR bezahlter erster Abschlag, 57120 EUR zweiter Abschlag und 37120 EUR Teilzahlung zu 20000 EUR offen abstimmen; nicht fakturierte Schlussrate von 42840 EUR nicht als aktuelle OP verdoppeln.
+  - id: lieferantenstand
+    check_type: human_review
+    description: Ursprüngliche Fälligkeit, letzte Mahnfrist und nicht angenommene Ratenanfrage auseinanderhalten; keine Stundung, Gutschrift oder neue Lieferung als vereinbart ausgeben.
+  - id: liquiditaet-und-quellen
+    check_type: human_review
+    description: Kontostand minus 14250,60 EUR und bestehende Linie 40000 EUR zu 25749,40 EUR abstimmen; 30000 EUR Zusatzrahmen nicht vor Erfüllung der offenen Voraussetzungen einrechnen. Arbeitsmappe nicht mit einer fertigen Insolvenzreifeprüfung verwechseln.
+  - id: zeit-und-personal
+    check_type: human_review
+    description: 15 Arbeitnehmer und zwei gesondert abgerechnete Geschäftsführer, SV-Termin 28.09., Bankvorlauf 29.09., Lohntermin 30.09. und Lohnsteuer 12.10. auseinanderhalten; Oktober-USt und Zusatzaufwand als fehlende Informationen erkennen.
+  - id: priorisierung
+    check_type: human_review
+    description: Kundenortstermin, Mahnfrist und Bankrückruf konkret terminieren; fehlende Daten gezielt erheben und externe Erklärungen nur nach Mandatsumfang und Freigabe entwerfen.
+  - id: satzung
+    check_type: file_exists
+    path: 03_Gesellschaftsvertrag_Auszug.pdf
+    description: Die individuelle Originalquelle liegt vor.
+  - id: beschluss
+    check_type: file_exists
+    path: 04_Beschluss_2026-08-20_unterzeichnet.pdf
+    description: Die individuelle Originalquelle liegt vor.
+  - id: arbeitsmappe
+    check_type: file_exists
+    path: 25_Liquiditaetsstatus_2026-09-23.xlsx
+    description: Die individuelle Originalquelle liegt vor.

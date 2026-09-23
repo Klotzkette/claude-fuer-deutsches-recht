@@ -1,0 +1,19 @@
+Fuldabogen Spezialdruck GmbH
+Betriebsleitung Halle 2
+Anrufnotiz vom 12.09.2026, niedergeschrieben 08:20 Uhr
+René Möller an Maren Brückner / Leonie Hartung
+Bezug: K2, Störung vom 12.09., Service SR-260912
+
+Guten Morgen Frau Brückner, guten Morgen Frau Hartung,
+
+K2 stand ab 00:40. Selin rief mich um 00:42 an. Ich wählte um 00:44 die Werkspur-Nummer; nach Warteschleife nahm um 00:48 ein Telefonservice die Meldung auf. Dort wurde mir gesagt, man gebe es sofort weiter. Ich habe das zunächst als Beginn der Hilfe verstanden. Ein Techniker meldete sich aber erst um 01:25. Es war Herr Grebe, nicht die Person am Empfang.
+
+Wir wollten das Gateway einschalten. Selin hatte den Schlüsselschalter freigegeben, die Verbindung kam trotzdem nicht hoch. Unsere IT vermutet die neue Firewallregel vom Donnerstag; ein belastbarer Nachweis liegt mir noch nicht vor. Herr Grebe konnte nur telefonisch anleiten. Er untersagte ausdrücklich das Überbrücken der Drucküberwachung. Um 01:51 sagte ich ihm bis zu 1.800 EUR netto für den Einsatz zu. Ich wollte die Freigabe nicht bis zur Geschäftsführung liegenlassen.
+
+Um 03:25 war Herr Grebe an der Linie. Ab 04:10 liefen wieder Bogen, aber nur mit ungefähr 60 Prozent. Selin hat deshalb im Schichtbuch zwischen Stillstand und eingeschränktem Betrieb getrennt. Volle Leistung hatten wir erst um 06:55. Die Meldung 'läuft wieder' an den Versand um 04:15 war zu optimistisch. Die 1.120 Ausschussbogen wurden am Schichtende separat gezählt; sie sind nicht in Gutbogen enthalten.
+
+Für den nächsten Vertrag brauche ich nachts jemanden, der tatsächlich entscheiden kann. Ich kann die Aussage 'Reaktion in einer Stunde' gegenüber dem Versand nicht als Zusage verwenden, dass die Maschine nach einer Stunde läuft. Sonntag haben wir im Oktober zwei Einrichtefenster, auch wenn bisher kein regelmäßiger Sonntagsbetrieb vorgesehen ist.
+
+Viele Grüße
+René Möller
+Betriebsleiter

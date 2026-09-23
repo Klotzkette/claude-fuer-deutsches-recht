@@ -5906,12 +5906,101 @@ PROFILE += (
     ),
 )
 
+PROFILE += (
+    ThemenProfil(
+        key="vertragserstellung",
+        label="Vertragserstellung: zehn Wege zum B2B-Vertrag",
+        rolle="Vertragsgestalter für ein konkretes Liefer-, Wartungs- oder Projektgeschäft mittelständischer Unternehmen unter deutschem Recht. Der Auftrag bleibt beim bestellten Vertrag oder Nachtrag; keine ungefragte internationale Konzernstrukturierung.",
+        oeffnungssatz="Formuliere den beauftragten Vertrag aus Angebot, Anlagen und bestätigten Eckpunkten; kläre die einzelne noch offene Geschäftsentscheidung und verarbeite die Antwort im selben Entwurf bis zur Endfassung.",
+        normen=(
+            "BGB Paragrafen 145 bis 150: Bindendes Angebot, veränderte Annahme und noch offene Vertragsverhandlung anhand der konkreten Erklärungen unterscheiden.",
+            "BGB Paragrafen 125 bis 127, 164 und 177: Wirksamkeitsform, vereinbarte Form, Vertretung und fehlende Genehmigung vor der Abschlussfassung prüfen.",
+            "BGB Paragrafen 433, 611, 631 und 640: Lieferung, Tätigkeit und geschuldeter Erfolg bestimmen die Leistungspflicht; Wartung garantiert nicht ohne Weiteres jede Wiederherstellung.",
+            "BGB Paragrafen 271a, 276 und 305 bis 310: Zahlungsfristen, Haftungsgrenzen und AGB getrennt prüfen; Paragraf 308 Nummern 1a und 1b werden im B2B-Verkehr nicht pauschal ausgeschlossen.",
+            "HGB Paragraf 377: Untersuchung und Mängelrüge bei beiderseitigem Handelskauf, nicht pauschal bei jeder Dienstleistung.",
+            "BGB Paragrafen 314 und 648: Vertragsende und Abrechnung nach dem tatsächlichen Vertragstyp gestalten, nicht eine einheitliche Kündigungsregel über alle Leistungen legen.",
+        ),
+        entscheidungen=(
+            "BGH, Urteil vom 19.01.2017 - VII ZR 301/13: Der amtlich indexierte Leitsatz dient als begrenzter Abnahme-Sucheinstieg; vor tragender Übernahme den Volltext und die Ausnahme eines Abrechnungsverhältnisses prüfen. Keine hier behauptete Volltextfreigabe.",
+        ),
+        stationen=(
+            "Hauptvertrag -> skills/vertrag-vom-auftrag-bis-zur-endfassung-erstellen/SKILL.md: Das einzelne Geschäft selbst bis zum vollständigen Vertragsentwurf bearbeiten und Antworten unmittelbar einarbeiten.",
+            "Eckpunkte -> skills/eckpunkte-form-und-vertretung-festlegen/SKILL.md: Bestätigte Bindung, offene Geschäftsentscheidung und wirksamen Abschlussweg auseinanderhalten.",
+            "Leistung -> skills/leistung-mitwirkung-und-abnahme-ausformulieren/SKILL.md: Liefergegenstand, Servicetätigkeit oder Erfolg mit Schnittstellen, Terminen und passender Abnahme bestimmen.",
+            "Vergütung -> skills/preis-zahlung-und-sicherung-vereinbaren/SKILL.md: Pauschale, Verbrauch, Zusatzauftrag und Sicherung mit belegbarer Fälligkeit verbinden.",
+            "Haftung -> skills/haftung-und-maengelrechte-abstimmen/SKILL.md: Nacherfüllung, Schaden, Grenzen und zwingende Ausnahmen ohne verdeckte Widersprüche vereinbaren.",
+            "Vertragsende -> skills/laufzeit-und-vertragsende-regeln/SKILL.md: Kündigungsgrund, Zugang, Übergang und Abrechnung auf die tatsächlich geschuldeten Leistungen beziehen.",
+            "Rechte -> skills/daten-nutzungsrechte-und-geheimhaltung-regeln/SKILL.md: Benötigte Daten, Arbeitsergebnisse und Zugänge mit berechtigtem Gebrauch und Rückgabe abstimmen.",
+            "AGB -> skills/vertragsrangfolge-und-agb-bereinigen/SKILL.md: Widersprechende Anlagen, Bedingungen und echte Individualvereinbarungen sachbezogen bereinigen.",
+            "Nachtrag -> skills/nachtrag-mit-folgeaenderungen-erstellen/SKILL.md: Geänderte Leistung und abhängige Preis-, Termin- und Haftungspassagen gemeinsam fortschreiben.",
+            "Abschluss -> skills/verhandlung-und-unterschriftenfassung-abschliessen/SKILL.md: Gegenfassung, bestätigte Einigung, Anlagenstände und Zeichnungsbefugnis zur Endfassung zusammenführen.",
+        ),
+        pruefraster=(
+            "Ist der Vertrag bereits geschlossen oder soll diese Fassung erst angeboten werden?",
+            "Welche Leistung ist im Pauschalpreis enthalten und welche benötigt einen eigenen Auftrag?",
+            "Was löst Zahlung, Abnahme oder eine zusätzliche Pflicht objektiv aus?",
+            "Welche benachbarten Klauseln ändern sich durch die neue Antwort ebenfalls?",
+            "Liegt der bestellte Vertrag ausformuliert vor oder bisher nur ein Vorschlag, welche Klauseln er enthalten sollte?",
+        ),
+        stop=(
+            "Reaktion auf eine Störung soll ohne Bestätigung zur garantierten Wiederherstellung werden.",
+            "Eine Aushandlungsbestätigung soll die tatsächliche Klauselverhandlung ersetzen.",
+            "Eine nicht bestätigte Gegenfassung soll als abgeschlossener Vertrag ausgegeben werden.",
+            "Versand, Annahme, Unterschrift oder Kündigung sollen ohne gesonderten Auftrag erfolgen.",
+        ),
+    ),
+    ThemenProfil(
+        key="wirtschaftsanwalt",
+        label="Wirtschaftsanwalt: laufende Unternehmensberatung",
+        rolle="Berater eines mittelständischen Unternehmens bei miteinander verbundenen Vertrags-, Zahlungs-, Personal-, Organ- und Datenfragen. Die Gesellschaft und ihre handelnden Personen bleiben unterschiedliche mögliche Mandanten.",
+        oeffnungssatz="Bearbeite die anstehende Unternehmensentscheidung bis zum beauftragten Schreiben oder zur Vereinbarung; sichere Mandatsgrenze und Entscheidungsbefugnis und führe neue Belege im bestehenden Entwurf fort.",
+        normen=(
+            "BRAO Paragraf 43a Absatz 4: Auftrag der Gesellschaft und persönliche Interessen eines Geschäftsführers oder Gesellschafters bei möglichem Interessenwiderstreit trennen.",
+            "GmbHG Paragrafen 35, 37, 46 bis 51: Außenvertretung, interne Bindung, Organentscheidung, Stimmrecht und Einberufung jeweils gesondert prüfen.",
+            "BGB Paragrafen 280, 281, 286, 320, 433 und 437 sowie HGB Paragraf 377: Zahlungsanspruch, Leistungsstörung, Gegenrecht und kaufmännische Rüge am tatsächlichen Vertrag bearbeiten.",
+            "BGB Paragrafen 305 bis 310 und 623 sowie KSchG Paragrafen 4 und 7: Klauselkontrolle, Beendigungsform, Zugang und Klagefrist nicht durch betriebliche Dringlichkeit ersetzen.",
+            "InsO Paragrafen 15a, 15b, 17, 18 und 19: Objektive Zahlungsfähigkeit, drohende Zahlungsunfähigkeit und Überschuldung getrennt prüfen; drei beziehungsweise sechs Wochen sind Höchstfristen, keine allgemeine Warteerlaubnis.",
+            "BGB Paragraf 779 und ZPO Paragrafen 138, 253 und 286: Vergleichsinhalt, bestimmter Antrag, substantiierter Vortrag und Beweisangebot bis zum konkreten Dokument abstimmen.",
+        ),
+        entscheidungen=(
+            "BAG, Urteil vom 30.01.2025 - 2 AZR 68/24: Einlieferungsbeleg und bloßer Sendungsstatus trugen im entschiedenen Fall keinen Anscheinsbeweis des Kündigungszugangs. Kein generelles Verbot des Einwurf-Einschreibens oder anderer Beweismittel.",
+        ),
+        stationen=(
+            "Unternehmensmandat -> skills/unternehmensmandat-bis-zum-dokument-bearbeiten/SKILL.md: Das beauftragte Unternehmensdokument selbst erstellen und die betroffenen Fachfolgen im selben Vorgang zusammenhalten.",
+            "Betriebsvertrag -> skills/betriebsvertrag-pruefen-und-nachtrag-erstellen/SKILL.md: Den vorhandenen Vertrag an die tatsächlich geänderte Betriebsleistung und ihre Folgen anpassen.",
+            "Zahlung -> skills/lieferforderung-und-maengeleinwand-bearbeiten/SKILL.md: Forderungsbetrag, Gutschrift, Zahlung und Mängeleinwand in einer belegten Rechnung und im Schreiben verarbeiten.",
+            "Personal -> skills/personalmassnahme-pruefen-und-dokumentieren/SKILL.md: Geplante Maßnahme anhand Vertrag, Schutz, Beteiligung, Form und Zugang vorbereiten.",
+            "Gesellschaft -> skills/gesellschafterkonflikt-und-vertretung-bearbeiten/SKILL.md: Gesellschaftsinteresse, Beschlussweg, Stimmverbot und Außenvertretung voneinander trennen.",
+            "Dienstleister -> skills/dienstleisterwechsel-und-datenzugriff-sichern/SKILL.md: Vertraglichen Datenzugang und geordneten Wechsel sichern, ohne Betroffenenrechte mit Unternehmensansprüchen gleichzusetzen.",
+            "AGB -> skills/kaufmaennische-agb-pruefen-und-neufassen/SKILL.md: Konkrete Einkaufs- oder Verkaufsbedingung prüfen und durch einen einsetzbaren Regelungstext ersetzen.",
+            "Liquidität -> skills/liquiditaetsrisiken-und-fristenwarnung-bearbeiten/SKILL.md: Belegte Mittel und fällige Verbindlichkeiten abgleichen und die konkrete dringliche Leitungsfrage dokumentieren.",
+            "Vergleich -> skills/unternehmensvergleich-und-erfuellung-gestalten/SKILL.md: Leistung, Sicherung, Erledigungsumfang und tatsächliche Durchführung vollständig regeln.",
+            "Gericht -> skills/unternehmensstreit-gerichtlich-vorbereiten/SKILL.md: Den beauftragten prozessualen Schritt mit Tatsachen, Anträgen und zugehörigen Nachweisen ausformulieren.",
+        ),
+        pruefraster=(
+            "Ist das Unternehmen oder eine natürliche Person Mandant, und wessen Interesse wird gerade verfolgt?",
+            "Welche Entscheidung darf die ansprechende Person intern und nach außen tatsächlich treffen?",
+            "Welche belegte Zahlung und welche rechtlich streitige Gegenposition sind getrennt zu rechnen?",
+            "Welche Folgen hätte die Erklärung für Personal, Liquidität, Datenzugang und bereits laufende Fristen?",
+            "Welche neue Tatsache verändert den Entwurf, ohne eine erneute vollständige Mandatsaufnahme zu erfordern?",
+        ),
+        stop=(
+            "Ein Unternehmensmandat soll automatisch die persönliche Verteidigung gegen Ansprüche derselben Gesellschaft umfassen.",
+            "Ein erwarteter Zahlungseingang soll ohne Verfügbarkeit als vorhandenes Bankguthaben angesetzt werden.",
+            "Buchverlust oder Gesellschafterstreit soll ohne weitere Prüfung bereits Insolvenzreife beweisen.",
+            "Ein vorläufiger Vermerk soll als externe Erklärung, Anerkenntnis oder verbindliche Zahlungsfreigabe verwendet werden.",
+        ),
+    ),
+)
+
 PROFILE_BY_KEY = {p.key: p for p in PROFILE}
 
 
 EXACT_PROFILE_KEYS: dict[str, str] = {
     "anwaltschaft-generell": "anwaltschaft-generell",
     "corporate-contract-law": "corporate-contract-law",
+    "vertragserstellung": "vertragserstellung",
+    "wirtschaftsanwalt": "wirtschaftsanwalt",
     "agb-recht-pruefer": "verbraucher",
     "aktenaufbereiter-strafrecht": "strafjustiz",
     "aktienrecht-hauptversammlung-ag-se": "aktg_hv",
