@@ -18,7 +18,9 @@ from docx import Document
 from docx.oxml import OxmlElement
 from docx.oxml.ns import qn
 from docx.shared import Cm, Pt, RGBColor
-from PIL import Image, ImageDraw, ImageFont
+from akten_docx_format import separate_section_headings
+from PIL import Image, ImageDraw
+from akten_build_runtime import screen_font
 from reportlab.lib import colors
 from reportlab.lib.pagesizes import A4
 from reportlab.lib.styles import ParagraphStyle
@@ -82,7 +84,7 @@ def docx(path, org, title, meta, sections, closing=None):
         d.styles["Normal"].paragraph_format.space_after = Pt(5)
         d.styles["Heading 1"].font.size = Pt(12)
         d.styles["Heading 1"].paragraph_format.space_before = Pt(7)
-        d.styles["Heading 1"].paragraph_format.space_after = Pt(5)
+        d.styles["Heading 1"].paragraph_format.space_after = Pt(0)
     d.add_paragraph(org).runs[0].bold = True
     d.add_paragraph(CONTACT.get(org, ""))
     d.add_paragraph(title, "Title")
@@ -97,6 +99,7 @@ def docx(path, org, title, meta, sections, closing=None):
             d.add_paragraph(text)
     if closing:
         d.add_paragraph(closing)
+    separate_section_headings(d)
     footer = s.footer.paragraphs[0]
     footer.add_run(org + " · Seite ")
     field = OxmlElement("w:fldSimple")
@@ -416,9 +419,8 @@ Amtsgericht Dortmund HRB 34718""", attachments=["11_rechnung_nd_2026_388.pdf"])
 def admin_png(path):
     im = Image.new("RGB", (1440, 920), "#f5f6f7")
     draw = ImageDraw.Draw(im)
-    fontpath = "/System/Library/Fonts/Supplemental/Arial.ttf"
     def f(size):
-        return ImageFont.truetype(fontpath, size)
+        return screen_font(size)
     draw.rectangle((0, 0, 1440, 60), fill="#e8ebee")
     draw.text((34, 19), "shop.kettenlicht-fahrradhandel.de/admin/export", fill="#323b42", font=f(20))
     draw.rectangle((0, 60, 240, 920), fill="#243e42")
@@ -698,7 +700,7 @@ def measurement_png(path):
     im = Image.new("RGB", (1440, 920), "#f2f4f5")
     draw = ImageDraw.Draw(im)
     def f(size):
-        return ImageFont.truetype("/System/Library/Fonts/Supplemental/Arial.ttf", size)
+        return screen_font(size)
     draw.rectangle((0, 0, 1440, 65), fill="#29383f")
     draw.text((30, 21), "RHEINKERN   /   Messwerterfassung RK-LM-18", fill="white", font=f(23))
     draw.text((36, 102), "Versuchsreihe RK-QM-260918", fill="#26373f", font=f(34))
@@ -753,6 +755,7 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--case", choices=["dortmund", "aachen", "both"], default="both")
     args = parser.parse_args()
+    screen_font(12)
     if args.case in ("dortmund", "both"):
         dortmund()
     if args.case in ("aachen", "both"):

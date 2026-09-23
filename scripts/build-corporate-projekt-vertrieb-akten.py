@@ -3,7 +3,9 @@
 
 import argparse
 import csv
+import os
 import re
+import shutil
 import subprocess
 import sys
 from datetime import datetime
@@ -16,7 +18,10 @@ from docx import Document
 from docx.oxml import OxmlElement
 from docx.oxml.ns import qn
 from docx.shared import Cm, Pt, RGBColor
-from PIL import Image, ImageDraw, ImageFont
+from akten_docx_format import separate_section_headings
+from PIL import Image, ImageDraw
+from akten_build_runtime import node_binary, screen_font
+from testakte_office_pdf import render_office_batch
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -61,13 +66,13 @@ def doc(folder, name, author, title, meta, body):
         document.styles[s].font.size = Pt(12 if s == 'Heading 1' else 11)
         document.styles[s].font.bold = True
         document.styles[s].paragraph_format.space_before = Pt(8)
-        document.styles[s].paragraph_format.space_after = Pt(6)
+        document.styles[s].paragraph_format.space_after = Pt(0)
     if name == '10_Schnittstellenbeiblatt_SB-03.docx':
         section.top_margin, section.bottom_margin = Cm(1.8), Cm(1.5)
         document.styles['Normal'].paragraph_format.space_after = Pt(2)
         for s in ['Heading 1', 'Heading 2']:
             document.styles[s].paragraph_format.space_before = Pt(6)
-            document.styles[s].paragraph_format.space_after = Pt(4)
+            document.styles[s].paragraph_format.space_after = Pt(0)
     section.header.paragraphs[0].text = author
     section.header.paragraphs[0].style = document.styles['Header']
     footer = section.footer.paragraphs[0]
@@ -90,6 +95,7 @@ def doc(folder, name, author, title, meta, body):
             if block.startswith(('Für Wertau Lebensmittel GmbH:', 'Anneke Martens für ', 'Dieser Vertrag wird mit der Unterzeichnung', 'Der Vertrag wird erst durch Unterzeichnung')):
                 paragraph.paragraph_format.keep_with_next = True
                 paragraph.paragraph_format.keep_together = True
+    separate_section_headings(document)
     document.core_properties.author = author
     document.core_properties.title = title
     document.core_properties.subject = meta
@@ -1282,8 +1288,7 @@ Versandt an die Teilnehmer am 22. September 2026 um 14:10 Uhr.''')
 
 
 def font(size, bold=False):
-    name = 'Arial Bold.ttf' if bold else 'Arial.ttf'
-    return ImageFont.truetype(str(Path('/System/Library/Fonts/Supplemental') / name), size)
+    return screen_font(size, bold)
 
 
 def drawing_text(draw, xy, text, size=23, bold=False, fill='#202528'):
@@ -1455,12 +1460,21 @@ def verify():
 
 
 def render_documents(qa):
-    renderer = Path.home() / '.codex/plugins/cache/openai-primary-runtime/documents/26.905.11957/skills/documents/render_docx.py'
+    renderer = shutil.which('pdftoppm')
+    if not renderer:
+        raise RuntimeError('Für die Sichtprüfung fehlt pdftoppm. Poppler installieren.')
+    sources = [source for folder in (P, V) for source in sorted(folder.glob('*.docx'))]
+    pdfs = render_office_batch(sources)
+    missing = [str(source) for source in sources if source not in pdfs]
+    if missing:
+        raise RuntimeError('PDF-Konvertierung fehlt; LibreOffice oder SOFFICE prüfen: ' + ', '.join(missing))
     qa.mkdir(parents=True, exist_ok=True)
-    for folder in (P, V):
-        for source in sorted(folder.glob('*.docx')):
-            out = qa / folder.name / source.stem
-            subprocess.run([sys.executable, str(renderer), str(source), '--output_dir', str(out), '--width', '1100', '--height', '1556'], check=True)
+    for source in sources:
+        out = qa / source.parent.name / source.stem
+        out.mkdir(parents=True, exist_ok=True)
+        pdf = out / (source.stem + '.pdf')
+        pdf.write_bytes(pdfs[source])
+        subprocess.run([renderer, '-scale-to-x', '1100', '-scale-to-y', '1556', '-png', str(pdf), str(out / 'page')], check=True)
     pages = sorted(qa.glob('corporate-*/*/page-*.png'))
     for offset in range(0, len(pages), 12):
         board = Image.new('RGB', (1800, 2120), '#e7e7e7')
@@ -1486,14 +1500,19 @@ def main():
     elif args.render:
         render_documents(args.render)
     else:
+        runtime = node_binary()
+        workbook = str(ROOT / 'scripts/build-corporate-projekt-vertrieb-workbooks.mjs')
+        environment = dict(os.environ, AKTEN_PYTHON=sys.executable)
+        subprocess.run([runtime, workbook, '--check-runtime'], env=environment, check=True)
+        screen_font(12)
+        screen_font(12, bold=True)
         project()
         distribution()
         layout()
         portal()
         for folder, name in [(P, '17_Meilensteinzahlungen_und_Termine.xlsx'), (V, '13_Haendlerkalkulation_2027.xlsx')]:
             FILES[folder].append(name)
-        runtime = Path.home() / '.cache/codex-runtimes/codex-primary-runtime/dependencies/node/bin/node'
-        subprocess.run([str(runtime), str(ROOT / 'scripts/build-corporate-projekt-vertrieb-workbooks.mjs')], check=True)
+        subprocess.run([runtime, workbook], env=environment, check=True)
         readme(P, 'Dosier- und Verpackungsintegration in Augsburg', 'Wertau Lebensmittel GmbH und Helix Prozessautomation GmbH verhandeln über die Integration der Linie 3 zum angebotenen Preis von 675.000 EUR netto. Vorplanung, Leistungsumfang, Anschlussdaten und Vertragsfassungen liegen getrennt vor.')
         readme(V, 'Messtechnikvertrieb in Italien', 'Weserblick Messtechnik GmbH aus Bremen und Luminara Strumenti S.r.l. aus Bologna verhandeln über einen dreijährigen Vertrieb der Geräte M24 und M48 in Italien. Deutscher Herstellerentwurf und englischer Gegenvorschlag stehen neben Angeboten, Korrespondenz und Vertriebszahlen.')
         verify()

@@ -3,15 +3,11 @@ import fs from 'node:fs/promises';
 import os from 'node:os';
 import path from 'node:path';
 import assert from 'node:assert/strict';
-import { createRequire } from 'node:module';
-import { fileURLToPath, pathToFileURL } from 'node:url';
+import { fileURLToPath } from 'node:url';
+import { Workbook, SpreadsheetFile, requireRuntime as runtime } from './akten-workbook-runtime.mjs';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const qa = await fs.mkdtemp(path.join(os.tmpdir(), 'dortmund-sensorik-xlsx-'));
-const dependencies = path.resolve(path.dirname(process.execPath), '../..');
-await fs.symlink(path.join(dependencies, 'node/node_modules'), path.join(qa, 'node_modules'), 'dir');
-const runtime = createRequire(path.join(qa, 'runtime.cjs'));
-const { Workbook, SpreadsheetFile } = await import(pathToFileURL(runtime.resolve('@oai/artifact-tool')).href);
 const JSZip = runtime('jszip');
 const xml = runtime('xml-js');
 const money = '#,##0.00"  "';

@@ -1,11 +1,19 @@
 {
   "name": "corporate-contract-law",
-  "version": "445.1.0",
+  "version": "445.1.1",
   "description": "Corporate Contract Law - Wirtschaftsvertraege: zwanzig Skills fuer deutsche B2B-Vertragsgestaltung vom Geschaeftsauftrag ueber den vollstaendigen Vertrag und die Verhandlung bis zum unterschriftsreifen Entwurf.",
   "author": {
     "name": "Klotzkette",
     "email": "39582916+Klotzkette@users.noreply.github.com"
   },
   "license": "Apache-2.0 OR MIT",
-  "keywords": ["wirtschaftsvertraege", "b2b", "vertragsgestaltung", "liefervertrag", "projektvertrag", "vertrieb", "verhandlung"]
+  "keywords": [
+    "wirtschaftsvertraege",
+    "b2b",
+    "vertragsgestaltung",
+    "liefervertrag",
+    "projektvertrag",
+    "vertrieb",
+    "verhandlung"
+  ]
 }
