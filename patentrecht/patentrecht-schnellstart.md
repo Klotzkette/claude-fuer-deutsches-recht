@@ -1,6 +1,10 @@
 # 1. Patentrecht am Anspruch bearbeiten
 
-Lies zuerst den konkreten Auftrag, die maßgebliche Patent- oder Anmeldefassung und die technischen Belege. Bestimme, ob eine Anmeldung, Bescheidserwiderung, Verletzungsprüfung, Bestandsprüfung oder Lizenzregel verlangt ist. Produktidee, Anmeldungsanspruch und erteilter beziehungsweise beschränkter Anspruch sind nicht austauschbar. Frage nach fehlender Fassung oder betroffenem Staat nur, soweit dies eine tragende Beurteilung verhindert; bearbeite gesicherte Teilfragen weiter.
+Prüfe, ob das Produkt jedes Merkmal des geltenden Patentanspruchs verwirklicht, oder beantworte den konkret beauftragten Anmeldungs-, Bestands- oder Lizenzpunkt.
+
+Ohne Sachverhalt biete kurz „Patentanspruch und Produkt vergleichen“, „Prüfungsbescheid beantworten“ oder „Lizenzregel entwerfen“ an. Bei Dateien ohne Auftrag lies sie still und kläre nur das Arbeitsziel. Bei klarem Auftrag arbeite direkt; frage nur nach entscheidenden fehlenden Angaben. Keine Startübersicht und keine ungefragte Materialzusammenfassung.
+
+Lies zuerst Patentfassung, Auftrag und technische Belege. Produktidee, Anmeldungsanspruch und erteilter beziehungsweise beschränkter Anspruch sind nicht austauschbar. Frage nach fehlender Fassung oder betroffenem Staat nur, soweit dies die Beurteilung verändert; bearbeite gesicherte Teilfragen weiter.
 
 ## 1.1. Anspruch und Offenbarung
 
@@ -14,6 +18,8 @@ PatG Paragraf 14 bestimmt den Schutzbereich anhand der Ansprüche unter Heranzie
 
 Eine allgemeine Funktionsähnlichkeit ersetzt keinen Nachweis aller Anspruchsmerkmale. Bei einem fehlenden Merkmal nicht dennoch wortsinngemäße Benutzung bestätigen. Eine mögliche äquivalente Verwirklichung ist eine eigene, anhand verifizierter Rechtsprechung zu prüfende Begründung; sie folgt nicht automatisch aus gleichem Ergebnis. Beschreibung als Auslegungshilfe nutzen, aber eine dort erwähnte Variante nicht ohne Begründung zum geltenden Anspruch erklären.
 
+Nach [BGH, Urteil vom 12.03.2002, Az. X ZR 168/00, Schneidmesser I, Gründe II.3.a bis d](https://www.wipo.int/wipolex/en/text/597230) verlangt Äquivalenz neben Gleichwirkung und Auffindbarkeit eine am Anspruch orientierte Gleichwertigkeit. Prüfe beim Ersatz eines optischen Sensors durch Strommessung daher gerade die Wirkung des beanspruchten Mittels, nicht nur die gleiche Abschaltung. Paragraf 14 PatG und Artikel 69 EPÜ mit Auslegungsprotokoll bleiben die Grundlage. Die Entscheidung belegt keine allgemeine Austauschbarkeit von Sensoren oder starre Toleranzgrenze.
+
 ## 1.3. Rechtsfolge und Verfahrensweg
 
 Rechtsinhaber, geltende Fassung, Land, konkrete Benutzungshandlung und Zeitpunkt vor einem Anspruchsschreiben prüfen. Bestehende Lizenz, Zustimmung und vorgetragene Einwendungen gesondert behandeln. Verletzung und Rechtsbeständigkeit bleiben unterschiedliche Fragen: Eine erteilte Urkunde ersetzt weder den Produktvergleich noch die Prüfung eines konkret erhobenen Bestandsangriffs. Verfahren und Fristen bei nationalem Amt, europäischem Amt und Gericht nicht vermischen; für den tatsächlichen Verfahrensstand den aktuellen amtlichen Maßstab verifizieren.
@@ -25,6 +31,8 @@ Rechtsinhaber, geltende Fassung, Land, konkrete Benutzungshandlung und Zeitpunkt
 Ist ein inneres Produktmerkmal nicht erkennbar, frage nach der konkreten Zeichnung, Messung oder Funktionsprüfung, die darüber Aufschluss gibt. Nach Eingang ordne den Befund dem Anspruchsmerkmal zu und prüfe die bisherige Verletzungsbewertung erneut. Bei einem Anspruchsentwurf stattdessen eine fehlende ursprüngliche Offenbarungsstelle nachfordern; keine technisch plausible, aber unbelegte Variante hinzufügen.
 
 Widersprechen neue Daten den bisherigen Belegen, kläre die betroffene Produkt- oder Anspruchsfassung in einer kurzen Folgerunde. Andere geprüfte Merkmale nicht von vorn bearbeiten. Liefere bei einem Hindernis den begrenzten Zwischenstand und setze nach Klärung bis zum bestellten Dokument fort.
+
+„Die Serienversion verwendet doch eine Lichtschranke“ verändert nur den Vergleich dieser Version: Ergänze Herkunft und Datum des Befunds im vorhandenen Zielpfad, etwa `verletzungsvermerk.md`, und korrigiere Sensorbewertung und Ergebnis. Die alte Strommessvariante bleibt gesondert beurteilt. Bei nachgereichter ursprünglicher Offenbarung ändere stattdessen Anspruchsfassung, Rückbezüge und Erwiderungsbegründung gemeinsam. Ohne Schreibzugriff liefere die benannte Ersatzfassung; keine weitere Runde verlangen, wenn der Auftrag damit abschließbar ist.
 
 ### 1.4.2. Bestelltes Dokument abschließen
 

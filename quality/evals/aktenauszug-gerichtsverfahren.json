@@ -1,14 +1,33 @@
 {
   "schema_version": 1,
   "plugin": "aktenauszug-gerichtsverfahren",
-  "reviewed_on": "2026-09-18",
-  "sources": [],
+  "reviewed_on": "2026-09-23",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__130a.html",
+      "checked_on": "2026-09-22",
+      "supports": "Amtlichen Text zu Paragraf 130a Absatz 5 ZPO gelesen; Bezug: Aktuelle Anträge, wechselnden Vortrag und tatsächlichen Beweisstand mit Verfahrensnachweisen rekonstruieren. Keine vollständige neue Verifikation sämtlicher weiterer Normen des Plugins."
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2023-3-21&Gericht=bgh&anz=20&nr=133514&pos=10",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Beschluss vom 21.03.2023, VIII ZB 80/22: Eingangsbestätigung und sinnvoller Dateiname müssen zum behaupteten fristgebundenen Schriftsatz passen; für den Auszug den belegten Eingang statt nur die Versandabsicht berichten. Amtlicher Leitsatz gelesen; Volltextabruf lieferte Fehler beziehungsweise Umleitung. Anwaltliche Ausgangskontrolle, keine allgemeine Beweiskraftregel für Akten."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__130a.html",
+      "checked_on": "2026-09-23",
+      "supports": "Absatz 5: elektronischen Eingang von Versand und bloßer Dateierstellung unterscheiden."
+    }
+  ],
   "mini_review": {
-    "sha256": "0d0a8fc1b14bc6b2787709c46923ebe4cc13a4180ac5aeee9b4d397baae53917",
+    "sha256": "edb6be8db5d0655061be9043ca31cba9ce70f1cafa855c4263e9a5042fda66e3",
     "verdict": "revised",
-    "reason": "Der vollständige Mini wurde auf den neutralen Aktenauszug und die Fortsetzung nach fehlenden Verfahrensunterlagen geprüft.",
+    "reason": "Aktuelle Anträge, wechselnden Vortrag und tatsächlichen Beweisstand mit Verfahrensnachweisen rekonstruieren. Der Kurzprompt behandelt diesen konkreten Ausgangsfall mit begrenztem Entscheidungsmaßstab und vollständigem bestelltem Ergebnis. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert.",
     "changes": [
-      "Fehlende Schriftsätze, Protokolle und Zustellungsbelege gezielt nachfordern; nach Eingang den Auszug aktualisieren."
+      "Elektronischen Eingang der konkreten Schriftsatzfassung zuordnen; offene Zuordnung nicht als festgestellte Fristversäumung behandeln.",
+      "Eingangsbestätigung und sinnvoller Dateiname müssen zum behaupteten fristgebundenen Schriftsatz passen; für den Auszug den belegten Eingang statt nur die Versandabsicht berichten.",
+      "Leerstart: Übergabeauszug, Antragsvergleich oder Terminfortschreibung anbieten. Dateien: Schriftsätze still lesen; noch keine Gesamtzusammenfassung ohne Umfangsentscheidung. Klarer Auftrag: Neutralen Gesamt- oder Teilauszug direkt ausarbeiten.",
+      "Nachgereichte Antragserklärung verändert Einleitung und Verfahrenschronologie; Vernehmungsprotokoll verändert nur belegten Beweisstatus."
     ]
   },
   "selection": {
@@ -57,10 +76,53 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die ganze Werkstatt wurde auf neutrale Dokumentauswertung statt Parteistrategie oder gerichtliche Eigenentscheidung durchgesehen.",
+    "reason": "Elektronischen Eingang der konkreten Schriftsatzfassung zuordnen; offene Zuordnung nicht als festgestellte Fristversäumung behandeln. Die vollständige Werkstatt wurde einschließlich Rückfragen, Fortsetzung und Auftragsgrenzen redaktionell durchgesehen. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen.",
     "changes": [
-      "Anträge, Vortrag und Beweisergebnis getrennt; aus Nachreichungen den bestellten Auszug fertigstellen."
+      "Aktuelle Anträge, wechselnden Vortrag und tatsächlichen Beweisstand mit Verfahrensnachweisen rekonstruieren.",
+      "Eingangsbestätigung und sinnvoller Dateiname müssen zum behaupteten fristgebundenen Schriftsatz passen; für den Auszug den belegten Eingang statt nur die Versandabsicht berichten.",
+      "Zahlung versus Antragsänderung, Privatgutachten versus gerichtlicher Beweis, elektronische Eingangszuordnung und empfängerbezogener Abschluss.",
+      "Nachgereichte Antragserklärung verändert Einleitung und Verfahrenschronologie; Vernehmungsprotokoll verändert nur belegten Beweisstatus."
     ],
-    "sha256": "efc212f5e3b02cd129fbc9e6a223962c02a02d3c96ee1117c9ace20c3cfd683a"
+    "sha256": "12d2bd2b61586ad18cf369222b44c869b9778e1379a482b5af98e761f54cedd1"
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leerstart: Übergabeauszug, Antragsvergleich oder Terminfortschreibung anbieten.",
+      "Dateien: Schriftsätze still lesen; noch keine Gesamtzusammenfassung ohne Umfangsentscheidung.",
+      "Klarer Auftrag: Neutralen Gesamt- oder Teilauszug direkt ausarbeiten."
+    ],
+    "continuation": "Nachgereichte Antragserklärung verändert Einleitung und Verfahrenschronologie; Vernehmungsprotokoll verändert nur belegten Beweisstatus.",
+    "enrichment": "Zahlung versus Antragsänderung, Privatgutachten versus gerichtlicher Beweis, elektronische Eingangszuordnung und empfängerbezogener Abschluss.",
+    "limits": "desk review; no live client execution"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "aktenauszug-gerichtsverfahren/README.md",
+      "aktenauszug-gerichtsverfahren/aktenauszug-gerichtsverfahren-werkstatt.md",
+      "aktenauszug-gerichtsverfahren/aktenauszug-gerichtsverfahren-schnellstart.md",
+      "quality/evals/aktenauszug-gerichtsverfahren.json",
+      "aktenauszug-gerichtsverfahren/skills/aktenauszug-erstellen/SKILL.md"
+    ],
+    "opening_change": "Aktuelle Anträge, wechselnden Vortrag und tatsächlichen Beweisstand mit Verfahrensnachweisen rekonstruieren",
+    "norms": [
+      "Paragraf 130a Absatz 5 ZPO"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Beschluss vom 21.03.2023, VIII ZB 80/22",
+        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2023-3-21&Gericht=bgh&anz=20&nr=133514&pos=10",
+        "application": "Eingangsbestätigung und sinnvoller Dateiname müssen zum behaupteten fristgebundenen Schriftsatz passen; für den Auszug den belegten Eingang statt nur die Versandabsicht berichten.",
+        "limit": "Amtlicher Leitsatz gelesen; Volltextabruf lieferte Fehler beziehungsweise Umleitung. Anwaltliche Ausgangskontrolle, keine allgemeine Beweiskraftregel für Akten."
+      }
+    ],
+    "remaining_limits": [
+      "Amtlicher Leitsatz gelesen; Volltextabruf lieferte Fehler beziehungsweise Umleitung. Anwaltliche Ausgangskontrolle, keine allgemeine Beweiskraftregel für Akten.",
+      "Keine Live-Auswertung einer Mandantenakte; straf- und verwaltungsprozessuale Nebenpfade nicht vollständig neu verifiziert.",
+      "Individuelle redaktionelle Akten- und Quellenprüfung (desk review), kein Live-Client- oder Modelltest.",
+      "Workflow-Anschlussprüfung 23.09.2026: individuelle Text- und Quellenprüfung, keine Live-Client-Ausführung. Frühere Entscheidungsprüfungen und ihre Reichweitengrenzen bleiben unverändert; keine erneute vollständige Rechtsprechungsprüfung behauptet. VIII ZB 80/22 weiterhin nur im dokumentierten amtlichen Leitsatzumfang, keine neue Volltextprüfung."
+    ]
   }
 }

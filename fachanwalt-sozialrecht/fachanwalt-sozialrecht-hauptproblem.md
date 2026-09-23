@@ -1,8 +1,10 @@
 # 1. Widersprüchliche Erwerbsminderungsbefunde auflösen
 
-Bearbeiten Sie meinen Rentenfall anhand der widersprüchlichen Reha- und Gutachtenaussagen. Verbinden Sie die möglichen Eintrittszeitpunkte der Erwerbsminderung mit den jeweiligen Beitragsfenstern und erstellen Sie das beauftragte Dokument.
+Klären Sie, weshalb Reha-Bericht, behandelnde Ärzte und Gutachter mein tägliches Leistungsvermögen unterschiedlich beurteilen. Ordnen Sie jede Aussage ihrem Zeitraum und ihrer Befundgrundlage zu, prüfen Sie die Versicherungsvoraussetzungen für die vertretbaren Eintrittszeitpunkte und begründen Sie die beauftragte Beratung oder Rechtsbehelfsbegründung.
 
 ## 1.1. Akte zuerst
+
+Ohne Eingabe bieten Sie Befundvergleich, Beitragsfensterrechnung oder ergänzende Widerspruchsbegründung an. Dateien ohne Aufgabe still lesen und nur das Ziel klären. Klare Aufträge direkt bearbeiten. Auf „Die Einschränkung bestand schon 2023“ rückblickende Befundgrundlage prüfen, vertretbaren Leistungsfall und Beitragsfenster neu rechnen und den bestellten Text ändern.
 
 Lesen Sie Antrag, Bescheide mit Zugang, Versicherungsverlauf, Reha-Bericht, Gutachten und zeitnahe Verlaufsbefunde. Entnehmen Sie daraus Alter, bisherigen Beruf, aktuelle Tätigkeit, Behandlung, Pausen, Wegefähigkeit und beantragten Zeitraum. Trennen Sie Mandantenangaben von ärztlichen Feststellungen; bereits geklärte Angaben nicht erneut erfragen.
 
@@ -28,7 +30,7 @@ Ordnen Sie einen nachgereichten Befund seinem Untersuchungszeitraum zu und prüf
 
 Prüfen Sie [Paragraf 43 SGB VI](https://www.gesetze-im-internet.de/sgb_6/__43.html) und [Paragraf 103 SGG](https://www.gesetze-im-internet.de/sgg/__103.html) sowie fallbezogen die aktuellen Normen für Rentenbeginn, Befristung und Rechtsbehelfsfristen.
 
-BSG, Urteil vom 11.12.2019, Az. B 13 R 7/18 R, [amtlicher Volltext](https://www.bsg.bund.de/SharedDocs/Downloads/DE/Entscheidungen/2019/2019_12_11_B_13_R_07_18_R.pdf?__blob=publicationFile&v=3), Randnummern 17 bis 22: qualitative Einschränkungen und Abgrenzung zum allgemeinen Arbeitsmarktrisiko. Anker am 14.09.2026 geprüft. Verwenden Sie keine erfundenen Fundstellen; kennzeichnen Sie nicht verifizierbare Aussagen als Prüfbedarf.
+BSG, Urteil vom 11.12.2019, B 13 R 7/18 R, [amtlicher Volltext](https://www.bsg.bund.de/SharedDocs/Downloads/DE/Entscheidungen/2019/2019_12_11_B_13_R_07_18_R.pdf?__blob=publicationFile&v=3), Randnummern 30 bis 40 und 49 bis 50: Auch bei mindestens sechs Stunden kann eine schwere spezifische Leistungsbehinderung oder Summierung ungewöhnlicher Einschränkungen die Benennung einer konkret noch möglichen Tätigkeit verlangen. Stellen Sie deshalb die Wechselwirkungen der belegten Funktionsausfälle und die verbleibenden Verrichtungen leichter Arbeit gegenüber; prüfen Sie eine benannte Tätigkeit auf tatsächliche Durchführbarkeit. Eine bloße Addition gewöhnlicher Einschränkungen oder schlechte Vermittlung genügt nicht. Das Urteil verwies zur Aufklärung zurück, statt eine Rente zuzusprechen. Nicht verifizierbare zusätzliche Aussagen als Prüfbedarf kennzeichnen.
 
 ## 1.4. Ergebnis
 

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "ki-richtlinie-kanzleien",
-  "reviewed_on": "2026-09-17",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://eur-lex.europa.eu/eli/reg/2026/1744/oj?locale=de",
@@ -22,19 +22,60 @@
       "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025%2F0360%28COD%29",
       "checked_on": "2026-09-14",
       "supports": "Offenes Gesetzgebungsverfahren, keine bereits geltende Datenschutzreform."
+    },
+    {
+      "url": "https://nrwe.justiz.nrw.de/ag_koeln/j2025/312_F_130_25_Beschluss_20250702.html",
+      "checked_on": "2026-09-22",
+      "supports": "AG Köln, Beschluss vom 02.07.2025, 312 F 130/25, Randnummern 23 und 24: Amtlicher Volltext gelesen: erfundene und falsch zugeordnete Fundstellen beanstandet; konkrete Originalkontrolle vor externer Verwendung als Kanzleistandard. Grenze: Keine disziplinarrechtliche Verurteilung, kein allgemeines KI-Verbot oder Urteil zum geänderten Artikel 4; KI-Ursprung nur als offenbar angenommen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/brao/__43a.html",
+      "checked_on": "2026-09-22",
+      "supports": "Amtlicher Wortlaut geprüft: Absätze 2 bis 4: Verschwiegenheit, Sachlichkeit und Interessenwiderstreit gelten auch bei Werkzeugnutzung; Verbot bewusster Unwahrheiten vom bloßen Irrtum unterscheiden."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/eli/reg/2026/1744/oj?locale=de",
+      "checked_on": "2026-09-22",
+      "supports": "Amtlicher Wortlaut geprüft: Artikel 1 Nummern 5, 6, 39 und 40: geänderte Artikel 4/4a und Übergangsregeln in Artikeln 111/113; konkrete Bedingungen und zeitlichen Geltungsbeginn beachten, kein Urteil zur Reform."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/ki-mig/__2.html",
+      "checked_on": "2026-09-22",
+      "supports": "Amtlicher Wortlaut geprüft: Zuständigkeitsabgrenzungen nach Absätzen 1 bis 3, insbesondere Sonderzuständigkeiten statt pauschaler Alleinzuständigkeit der Bundesnetzagentur."
+    },
+    {
+      "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025%2F0360%28COD%29",
+      "checked_on": "2026-09-22",
+      "supports": "Amtlicher Wortlaut geprüft: Verfahren 2025/0360(COD) laut Verfahrensseite noch offen; vorgeschlagene Datenschutzänderung einschließlich 96-Stunden-Frist nicht als geltendes Recht behandeln."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/brao/__43e.html",
+      "checked_on": "2026-09-23",
+      "supports": "Am 23.09.2026 erneut gelesen: Dienstleisterzugang und mandatsbezogene Einwilligung sind nicht allein mit einer allgemeinen Nutzungsrichtlinie oder Trainingssperre geklärt."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Vollständig geprüft: Vertragsanhänge und tatsächliche Einstellungen verändern gezielt die betroffene Richtlinienregel, nicht eine erneute Vollinventur. Die Fortsetzung bis zum bestellten Abschnitt bleibt unverändert; bestehende Rechtsanker wurden nicht erneut verifiziert.",
+    "reason": "Kompetenzabschnitt mit einschlägigem gerichtlichem Quellenfehlerfall verbunden, ohne den alten Beschluss als Rechtsprechung zur Reform auszugeben. Vollständige Text- und gezielte Primärquellenprüfung; kein Live-Mandanten- oder Modelltest. Individueller Workflow-Durchgang am 23.09.2026: Supportzugriff trotz Trainingssperre -> Daten-/Dienstleisterregel ändern; reine Anlagenzuordnung -> Übung und Kontrolle auf diese Rolle begrenzen.",
     "changes": [
-      "Einstieg unmittelbar an Richtlinienfassung und betroffener Tätigkeit ausgerichtet.",
-      "Konkrete Übungsaufgabe und zulässige Übungsdaten ergänzt.",
-      "Strengere interne Standards von gesetzlichen Anforderungen getrennt."
+      "AG Köln 312 F 130/25 als begrenzten Quellenkontrollanker angewendet.",
+      "Veröffentlichung, Syndikusrolle, Anonymisierung und autonome Außenhandlungen präzisiert.",
+      "Artikel 4, 4a, 111 und 113 der Änderungsverordnung sowie offenes Datenschutzverfahren amtlich gegengeprüft.",
+      "Vier eigenständige Eingabemodi und fachbezogene Antwortfortsetzung ergänzt."
     ],
-    "sha256": "e8e65d4f3f4d70bca14e4fcd43fe567b1614dc37ec303437b707916a6870797a"
+    "sha256": "1501c960102bc9ce0ce8f2dc23f4863eee2b46d9820ee0361ce6ef9e4b4eb18a"
   },
-  "workshop_review": {"verdict":"revised","reason":"Die Ganztextprüfung bestätigte konkrete Fortsetzung nach Vertrags- oder Einstellungsangaben; der allgemeine Rollenabsatz schrieb noch Dokumentenübergaben je Station vor.","changes":["Richtlinienregel mit Tätigkeit, Werkzeug und verantwortlicher Person verbunden.","Mandatsblatt, Rechnung und Übergabevermerk als zusätzliche Pflichtprodukte ausgeschlossen; Einführung bleibt gesonderte Entscheidung."],"sha256":"1b7288d9dfd1924181f790d85fe7fbd25bb44c4a940cebb134ef4fecc680cf03"},
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Werkstatt vollständig von wiederholten Produktionsrastern befreit; zwölf konkrete Regelungsfelder sowie bestehende Reformwege erhalten. Vollständige Text- und gezielte Primärquellenprüfung; kein Live-Mandanten- oder Modelltest. Individueller Workflow-Durchgang am 23.09.2026: Operative Datenerlaubnis, Pseudonymisierungsvorbehalt, Originalkontrollübung, unterschiedliche Assistenz-/Rechercheübungen und Korrekturpfad vor bzw. nach Versand.",
+    "changes": [
+      "AG Köln 312 F 130/25 als begrenzten Quellenkontrollanker angewendet.",
+      "Veröffentlichung, Syndikusrolle, Anonymisierung und autonome Außenhandlungen präzisiert.",
+      "Artikel 4, 4a, 111 und 113 der Änderungsverordnung sowie offenes Datenschutzverfahren amtlich gegengeprüft.",
+      "Operative Datenerlaubnis, Pseudonymisierungsvorbehalt, Originalkontrollübung, unterschiedliche Assistenz-/Rechercheübungen und Korrekturpfad vor bzw. nach Versand."
+    ],
+    "sha256": "86aea709351dfa0fcc09faa26f8b951f091c9e690d83a5e8764abdad84fcbd37"
+  },
   "selection": {
     "positive": [
       "Überarbeite den Kompetenzabschnitt unserer Kanzleirichtlinie für Recherche und Assistenz.",
@@ -78,5 +119,47 @@
       ],
       "target_skill": "ki-kompetenz-erwerb-plan"
     }
-  ]
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "ki-richtlinie-kanzleien/ki-richtlinie-kanzleien-werkstatt.md",
+      "ki-richtlinie-kanzleien/ki-richtlinie-kanzleien-schnellstart.md",
+      "ki-richtlinie-kanzleien/README.md",
+      "quality/evals/ki-richtlinie-kanzleien.json"
+    ],
+    "opening_change": "Konkrete Datenfreigabe und Fehlerkontrolle vor externer Verwendung statt allgemeiner Systemrichtlinie.",
+    "norms": [
+      "BRAO Paragrafen 43, 43a Absätze 2 bis 4 und 43e",
+      "Verordnung (EU) 2024/1689 Artikel 4, 4a, 50, 111 und 113 in der Fassung 2026/1744",
+      "KI-MIG Paragraf 2"
+    ],
+    "decisions": [
+      {
+        "citation": "AG Köln, Beschluss vom 02.07.2025, 312 F 130/25, Randnummern 23 und 24",
+        "url": "https://nrwe.justiz.nrw.de/ag_koeln/j2025/312_F_130_25_Beschluss_20250702.html",
+        "application": "Amtlicher Volltext gelesen: erfundene und falsch zugeordnete Fundstellen beanstandet; konkrete Originalkontrolle vor externer Verwendung als Kanzleistandard.",
+        "limit": "Keine disziplinarrechtliche Verurteilung, kein allgemeines KI-Verbot oder Urteil zum geänderten Artikel 4; KI-Ursprung nur als offenbar angenommen."
+      }
+    ],
+    "remaining_limits": [
+      "Desk-/Quellenprüfung, kein Live-Mandanten- oder Modelltest.",
+      "Keine vollständige Verifikation aller Urheber-, Datenschutz- und Beschäftigtenschutzfragen.",
+      "README enthält weiterhin überholte Hochrisikofrist und teils starre Schulungsangaben; außerhalb des Schreibbereichs nicht geändert.",
+      "Workflow-Ergänzung am 23.09.2026: desk review; keine Live-Client-Ausführung, keine Installation, Übermittlung oder technische Funktionsprüfung. Bestehende Entscheidungsprüfung vom 22.09.2026 nicht als heutiger Neuabruf ausgegeben.",
+      "Verordnung (EU) 2026/1744 am 23.09.2026 über ELI, HTML und PDF erneut angefragt, aber durch JavaScript-/Bot-Prüfung blockiert. Vorhandene differenzierte Rechtsstanddarstellung und frühere Quellenprüfung erhalten; keine neue Volltextverifikation dieses Änderungsakts behauptet."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leere Eingabe: Mandatsdaten, Fundstellenkontrolle oder rollengerechte Einweisung auswählen.",
+      "Dateien ohne Aufgabe: Richtlinie und Vertragsanhänge still lesen, betroffenen Regelungsabschnitt klären.",
+      "Klarer Auftrag: Ersatzabschnitt direkt ausschreiben; keine Gesamtinventur oder zusätzliche Mandatsannahme."
+    ],
+    "continuation": "Supportzugriff trotz Trainingssperre -> Daten-/Dienstleisterabschnitt in ki-richtlinie.md ändern; reine Anlagenzuordnung -> dort nur passende Übung und Kontrollregel ergänzen, unveränderte Abschnitte erhalten.",
+    "enrichment": "Operative Datenerlaubnis, Pseudonymisierungsvorbehalt, Originalkontrollübung, unterschiedliche Assistenz-/Rechercheübungen und Korrekturpfad vor bzw. nach Versand.",
+    "limits": "desk review; no live client execution"
+  }
 }

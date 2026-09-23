@@ -1,24 +1,58 @@
 {
   "schema_version": 1,
   "plugin": "dsa-dma-digitalregulierung",
-  "reviewed_on": "2026-09-17",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://eur-lex.europa.eu/eli/reg/2022/2065/oj/deu",
       "checked_on": "2026-09-14",
       "supports": "DSA Artikel 19 und 20: größenabhängige Ausnahme, mindestens sechsmonatiger kostenloser Beschwerdezugang ab Mitteilung und keine ausschließlich automatisierte Beschwerdeentscheidung."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62023TJ0348",
+      "checked_on": "2026-09-22",
+      "supports": "EuG, Urteil vom 3. September 2025, T-348/23, Zalando/Kommission, Randnummern 60 bis 67 und 86 bis 91. Anwendung: Aktive Nutzer nach tatsächlichem Kontakt mit fremden Informationen prüfen, nicht allein Käufer oder Umsatzanteile zählen. Grenze: Nicht sämtliche Besucher eines Eigenhandelsangebots automatisch erfassen; Rechtsmittelstand separat prüfen."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62023TJ1077",
+      "checked_on": "2026-09-22",
+      "supports": "EuG, Urteil vom 17. Juli 2024, T-1077/23, Bytedance/Kommission, Randnummern 39 bis 51 und 59 bis 66. Anwendung: Widerlegung nach Artikel 3 Absatz 5 DMA mit belegten Umständen zum Zusammenhang der Schwellen und Vermutungen. Grenze: Kein allgemeiner Marktdefinitions- oder Effizienzeinwand gegen die Gatekeeper-Benennung."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/eli/reg/2022/2065/oj/deu",
+      "checked_on": "2026-09-23",
+      "supports": "Artikel 14 Absatz 4, Artikel 16 Absätze 3 bis 6, Artikel 19 und Artikel 24 Absatz 5 amtlich gelesen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__940.html",
+      "checked_on": "2026-09-23",
+      "supports": "Zivilrechtlichen Eilweg bei privater Kontosperre von unionsgerichtlicher Direktklage unterscheiden."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Vollständig geprüft: Nach Vorlage des Beitrags oder einer Warnung wird die Sperrbeschwerde aktualisiert und fertiggestellt. Dienstfunktion und Benennung bleiben getrennt; kein weiterer Mini-Eingriff nötig.",
+    "reason": "Der neue Mini erklärt Nutzerzählung und Widerlegung der DMA-Schwellenvermutung mit zwei verschiedenen gerichtlichen Maßstäben und hält Beschwerdewege getrennt. Individueller Text- und Quellenreview, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Vorherige Warnung wird nachgereicht -> nicht weiter fehlende Warnung behaupten; Verhältnismäßigkeit, Dauer und Beschwerdebegehren ändern.",
     "changes": [
-      "Beschwerdezugang und Mitteilungstag konkretisiert.",
-      "Gatekeeper-Benennung von DSA-Plattformstatus getrennt."
+      "Zalando T-348/23 für tatsächliche Informationskontakte statt Käufer-/Umsatzquote.",
+      "Bytedance T-1077/23 für die begrenzte Widerlegung nach Artikel 3 Absatz 5 DMA.",
+      "Beschwerde, Streitbeilegung, DSC und gerichtlicher Rechtsschutz ohne Pflichtkaskade.",
+      "Abwägung gewöhnlicher Sperren und zivilrechtlichen Eilweg ausdrücklich wiederhergestellt.",
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
     ],
-    "sha256": "2f24518fca07f8dfefe33d55dea7b36b81e4a1e0f683bdde89e85150f9c5ce6e"
+    "sha256": "7588c333966e5c6defac29562e7b4d85e1ff8bf899655ad9b8db81a639b2392d"
   },
-  "workshop_review": {"verdict":"revised","reason":"Die vollständig gelesene Werkstatt enthält bereits konkrete Fortsetzung für Sperrfälle und Anbieterprüfung; die Stationsproduktpflicht widersprach dem Einzelauftrag.","changes":["Einzelne Pflichtbefunde in die bestellte Beschwerde oder Behördenantwort führen lassen, statt eine zusätzliche Regulierungsakte vorzuschreiben."],"sha256":"1d8fca5bfad4c00d665f691f1c3dfb14f33d03efa19d4b592c244be805e4dc03"},
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Die Werkstatt wurde vollständig individuell neu gefasst: Diensteeinordnung, Moderation, Nutzerrechte, Risiken, Forschung und DMA-Pflichten haben eigene Tatsachenvoraussetzungen. Die bezeichneten Anker wurden am amtlichen Entscheidungstext geprüft; keine pauschale Vollverifikation aller Nebenmaterien. Workflow-Ergänzung einzeln geprüft: Reichweitenbeschränkung gegenüber Gesamtsperre, URL- und Berechtigungsnachweise, Eigenhandel und Vermittlung, Warnungs- und Kenntnisablauf sowie getrennte DSA-Forschungs- und DMA-Geschäftsdatenzugänge.",
+    "changes": [
+      "Zalando T-348/23 für tatsächliche Informationskontakte statt Käufer-/Umsatzquote.",
+      "Bytedance T-1077/23 für die begrenzte Widerlegung nach Artikel 3 Absatz 5 DMA.",
+      "Beschwerde, Streitbeilegung, DSC und gerichtlicher Rechtsschutz ohne Pflichtkaskade.",
+      "Kenntniswirkung und Anbieterbearbeitung von Meldungen, Interessenabwägung, Transparenzdatenbank und zivilrechtlichen Eilrechtsschutz nach Gegenprüfung wiederhergestellt.",
+      "Reichweitenbeschränkung gegenüber Gesamtsperre, URL- und Berechtigungsnachweise, Eigenhandel und Vermittlung, Warnungs- und Kenntnisablauf sowie getrennte DSA-Forschungs- und DMA-Geschäftsdatenzugänge."
+    ],
+    "sha256": "4ed9353d0cd92f21d9dd8dbe2e3d64d21c7cda3ebc8632692f787b404689c14d"
+  },
   "selection": {
     "positive": [
       "Prüfe das interne Beschwerdesystem unserer Onlineplattform.",
@@ -62,5 +96,53 @@
       ],
       "target_skill": "dsa-internes-beschwerdesystem-aufbau"
     }
-  ]
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "files": [
+      "dsa-dma-digitalregulierung/README.md",
+      "dsa-dma-digitalregulierung/dsa-dma-digitalregulierung-werkstatt.md",
+      "dsa-dma-digitalregulierung/dsa-dma-digitalregulierung-schnellstart.md",
+      "quality/evals/dsa-dma-digitalregulierung.json",
+      "dsa-dma-digitalregulierung/skills/dsa-internes-beschwerdesystem-aufbau/SKILL.md"
+    ],
+    "opening_change": "Plattformentscheidung, VLOP-Benennung oder Gatekeeper-Pflicht anhand Dienst und tatsächlicher Nutzung prüfen. Workflow-Ergänzung: Leer: Sperrbeschwerde, konkrete Plattformpflichten oder DMA-Datenzugang anbieten. Dateien ohne Aufgabe: Sperrentscheidung und Dienstbeschreibung still lesen, danach Beschwerde- oder Prüfziel klären; keine vollständige Pflichtenliste. Klarer Auftrag: Beschwerde, Behördenantwort oder Zugangsschreiben direkt bearbeiten; nur fehlende dienst- und entscheidungsrelevante Angaben erfragen.",
+    "norms": [
+      "Artikel 16, 17, 19 bis 24, 28, 30 bis 40 und 53 DSA",
+      "Artikel 3, 5 bis 7, 11, 13 und 30 DMA",
+      "Artikel 263, 278 und 279 AEUV"
+    ],
+    "decisions": [
+      {
+        "citation": "EuG, Urteil vom 3. September 2025, T-348/23, Zalando/Kommission, Randnummern 60 bis 67 und 86 bis 91",
+        "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62023TJ0348",
+        "application": "Aktive Nutzer nach tatsächlichem Kontakt mit fremden Informationen prüfen, nicht allein Käufer oder Umsatzanteile zählen.",
+        "limit": "Nicht sämtliche Besucher eines Eigenhandelsangebots automatisch erfassen; Rechtsmittelstand separat prüfen."
+      },
+      {
+        "citation": "EuG, Urteil vom 17. Juli 2024, T-1077/23, Bytedance/Kommission, Randnummern 39 bis 51 und 59 bis 66",
+        "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62023TJ1077",
+        "application": "Widerlegung nach Artikel 3 Absatz 5 DMA mit belegten Umständen zum Zusammenhang der Schwellen und Vermutungen.",
+        "limit": "Kein allgemeiner Marktdefinitions- oder Effizienzeinwand gegen die Gatekeeper-Benennung."
+      }
+    ],
+    "remaining_limits": [
+      "Rechtsmittelstand und neue Durchführungsakte nicht abschließend geprüft; normale Spezialskills wurden nicht geändert.",
+      "Desk-/Quellenreview, kein Live-Client- oder Modelltest. Bestehende Auswahl- und Ergebnisfälle unverändert erhalten.",
+      "Workflow-Review 23.09.2026: erneuter DSA-Abruf lieferte keinen verlässlich auswertbaren Volltext. Vorhandene Zalando- und Bytedance-Anker samt Grenzen erhalten; keine neue Gesamtverifikation behauptet."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Sperrbeschwerde, konkrete Plattformpflichten oder DMA-Datenzugang anbieten.",
+      "Dateien ohne Aufgabe: Sperrentscheidung und Dienstbeschreibung still lesen, danach Beschwerde- oder Prüfziel klären; keine vollständige Pflichtenliste.",
+      "Klarer Auftrag: Beschwerde, Behördenantwort oder Zugangsschreiben direkt bearbeiten; nur fehlende dienst- und entscheidungsrelevante Angaben erfragen."
+    ],
+    "continuation": "Vorherige Warnung wird nachgereicht -> nicht weiter fehlende Warnung behaupten; Verhältnismäßigkeit, Dauer und Beschwerdebegehren ändern.",
+    "enrichment": "Reichweitenbeschränkung gegenüber Gesamtsperre, URL- und Berechtigungsnachweise, Eigenhandel und Vermittlung, Warnungs- und Kenntnisablauf sowie getrennte DSA-Forschungs- und DMA-Geschäftsdatenzugänge.",
+    "limits": "desk review; no live client execution"
+  }
 }

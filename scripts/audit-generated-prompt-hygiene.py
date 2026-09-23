@@ -7,7 +7,10 @@ import json
 import re
 from pathlib import Path
 
+from markdown_it import MarkdownIt
+
 REPO = Path(__file__).resolve().parent.parent
+MARKDOWN = MarkdownIt("commonmark")
 PROTECTED_LIST = REPO / "scripts" / "handkuratierte-prompts.txt"
 
 NOISE_BITS = (
@@ -85,7 +88,7 @@ PROSE_ASCII_BITS = (
 COURT_BITS = ("BGH", "BVerfG", "BVerwG", "BAG", "BFH", "BSG", "EuGH", "OLG", "LG", "ArbG", "LAG")
 TRUNCATED_CASE_END = re.compile(
     r"(?:\beingeleiteter|\bersetzt|\bstärkt|\bstatt einer|\bnicht der|"
-    r"\bQuelle|\bBestandteil der Verpflichtung)\.?\s*(?:\|)?$",
+    r"\bBestandteil der Verpflichtung)\.?\s*(?:\|)?$",
     flags=re.IGNORECASE,
 )
 ROUTE_PREFIXES = (
@@ -140,18 +143,34 @@ def prompt_files() -> list[Path]:
                 plugin_dir / f"{slug}-schnellstart.md",
             )
         )
+        focus = plugin_dir / f"{slug}-hauptproblem.md"
+        if focus.is_file():
+            files.append(focus)
     return sorted(files, key=lambda p: p.as_posix())
 
 
+def visible_prose(line: str) -> str:
+    """Linkziele und Code auslassen, sichtbare Klammern dagegen erhalten."""
+    def content(tokens) -> str:
+        parts = []
+        for token in tokens:
+            if token.type == "code_inline":
+                continue
+            if token.children:
+                parts.append(content(token.children))
+            elif token.type == "text":
+                parts.append(token.content)
+        return "".join(parts)
+
+    prose = content(MARKDOWN.parseInline(line))
+    return re.sub(r"https?://[^\s<>\[\]()]+", "", prose)
+
+
 def main() -> int:
-    protected = protected_slugs()
     problems: list[str] = []
     for path in prompt_files():
         if not path.exists():
             problems.append(f"{path.relative_to(REPO)}: erwarteter Prompt fehlt")
-            continue
-        plugin_slug = path.parent.name
-        if plugin_slug in protected:
             continue
         text = path.read_text(encoding="utf-8", errors="ignore")
         if path.name.endswith("-werkstatt.md"):
@@ -188,7 +207,7 @@ def main() -> int:
                             f"{rel}: Rechtsprechungstabelle kürzt den Aussagekern zu {head}"
                         )
                         break
-        prose = re.sub(r"https?://[^\s<>]+", "", text)
+        prose = "\n".join(visible_prose(line) for line in text.splitlines())
         for bit in NOISE_BITS:
             if bit in prose:
                 rel = path.relative_to(REPO)
@@ -200,14 +219,7 @@ def main() -> int:
                 problems.append(f"{rel}: unechter Umlaut in Prosa gefunden: {bit}")
                 break
         for line_no, line in enumerate(text.splitlines(), start=1):
-            # URLs dürfen in eckigen Klammern stehen. Für die Klammerbilanz
-            # wird deshalb die vollständige Fundstelle einschließlich der
-            # optionalen Einfassung entfernt.
-            without_code = re.sub(
-                r"`[^`]*`|!?\[[^\]]*\]\(https?://[^\s]+\)|\[?https?://[^\s\])]+\]?",
-                "",
-                line,
-            )
+            without_code = visible_prose(line)
             if without_code.count("(") != without_code.count(")") or without_code.count("[") != without_code.count("]"):
                 rel = path.relative_to(REPO)
                 problems.append(

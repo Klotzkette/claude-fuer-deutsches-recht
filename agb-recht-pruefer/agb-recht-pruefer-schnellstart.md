@@ -1,10 +1,12 @@
-# AGB-Recht prüfen: Schnellstart
+# 1. AGB-Recht prüfen: Schnellstart
 
-Prüfe die vorgelegten AGB und schreibe die beauftragte Bewertung, Ersatzklausel oder Antwort aus. Übernimm Vertrag, Kundengruppe und Prüfziel aus den vorhandenen Unterlagen und dem Gespräch, statt eine neue Aufnahme zu beginnen.
+Bestimme, ob die beanstandete Preis-, Haftungs-, Laufzeit- oder Stornoklausel Vertragsbestandteil geworden ist, welche Belastung sie erzeugt und welche Regel bei ihrem Ausfall gilt. Schreibe die beauftragte Bewertung, Ersatzklausel oder Antwort vollständig aus. Übernimm Vertrag, Kundengruppe und Prüfziel aus den Unterlagen und dem Gespräch.
 
 ## 1. Auftrag und Unterlagen
 
-Lies zuerst Klausel, Vertrag, Anlagen und Änderungsschreiben. Liefere das verlangte Produkt: Klauselgutachten, Ersatzfassung, Redline oder Antwort. Ohne präzisen Auftrag benenne den konkreten Klauselbefund und kläre, ob eine Bewertung oder Neufassung gewünscht ist. Fehlt etwa die bei Abschluss verwendete Preisliste, frage gezielt nach dieser Fassung. Nach Eingang prüfe die betroffenen Verweise und Belastungen erneut und führe das bestellte Dokument zu Ende. Ergibt die Antwort eine weitere entscheidende Lücke, frage dazu nach, nicht erneut nach bereits geklärten Angaben.
+Ohne Eingabe frage: „Klausel prüfen, Ersatzregel formulieren oder AGB-Beanstandung beantworten?“ Lies Dateien zunächst still; fehlt der Auftrag, biete nur zwei oder drei dazu passende Wege an, etwa Stornopauschale bewerten oder für Neuverträge ersetzen. Keine Materialzusammenfassung oder vorzeitige Gesamtanalyse. Bei klarem Auftrag sofort zum bestellten Text arbeiten und bekannte Fakten übernehmen. Fehlt die Abschlussfassung, fordere nur diese an. Die Folgeantwort verändert die betroffene Bewertung oder Klausel, nicht die gesamte Mandatsaufnahme.
+
+Beispiel: „40 Prozent Storno für künftige Verträge“ führt zur Frage nach gewöhnlichem Schaden und Weiterverwertung, sofern unbelegt. „Keine Statistik“ führt zu einer ausformulierten Regel über konkreten Schadensnachweis, nicht zu einer erfundenen zulässigen Quote. „Es wurde schon bezahlt“ eröffnet dagegen die gesonderte Rückforderungsprüfung; keine neue Klausel rückwirkend einsetzen. Bei nachgereichtem Kundenwiderspruch aus einer Umstellungsbestätigung ein ausdrückliches Änderungsangebot machen, soweit beauftragt; keine automatische Kündigung.
 
 Erfasse Vertragstyp, Parteistatus, Verwender, Vertragsdatum, Fassung, Einbeziehung und Regelungsziel. B2B steht nicht schon durch eine Überschrift fest. Vertragsänderung, Individualabrede und erstmalige Einbeziehung unterscheiden.
 
@@ -31,6 +33,8 @@ Alle folgenden Skill- und Referenzlinks sind optionale Vertiefungen. Ohne Zugrif
 Klauselwortlaut und Fundstelle nennen. Einbeziehung, Auslegung, Transparenz, Inhaltskontrolle und Rechtsfolge getrennt begründen. Bei Paragrafen 307 bis 310 BGB zuerst Anwendungsbereich und Vertragsdatum bestimmen; anschließend nur einschlägige Tatbestände prüfen. Gesetzliche Ausnahme und stärkste Gegenposition einbeziehen.
 
 Das Ergebnis enthält die tragende Norm, den entscheidenden Aktenfund, die rechtliche Bewertung und eine konkrete Empfehlung. Eine Ersatzfassung vollständig schreiben; keine bloße Anweisung „rechtskonform ergänzen“. Bei fehlender Grundlage die offene Frage und ihre Auswirkung benennen.
+
+Bei Schadenspauschalen nach Paragraf 309 Nummer 5 BGB gewöhnlichen Schaden und ausdrücklichen Gegenbeweis getrennt prüfen. Eine überhöhte Pauschale nicht auf den gerade zulässigen Betrag reduzieren. Paragraf 306 BGB verlangt die Prüfung des verbleibenden Vertrags. [BGH, Urteil vom 13.03.2025, III ZR 426/23](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2023/III_ZR_426-23.pdf?__blob=publicationFile&v=1), Rn. 46 und 50, erlaubt das Abtrennen selbständiger Regelungen: Dort blieb die Wahlleistungsvereinbarung ohne die Vertreterregelung sinnvoll. Übertrage nur diesen Teilbarkeitsmaßstab, nicht das spezielle Krankenhausrecht. Prüfe, ob der Rest ohne neue Wörter eigenständig verständlich bleibt; eine neue Ersatzklausel gilt nicht rückwirkend für den Altvertrag.
 
 ## 4. Anschlussaufträge getrennt halten
 

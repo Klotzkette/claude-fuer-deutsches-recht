@@ -1,27 +1,16 @@
 # 1. PrALR: Historische Rechtsfrage bearbeiten
 
-Untersuche die vorgelegte historische Rechtsfrage anhand des tatsächlich verfügbaren Textes. Erstelle die bestellte Quellenanalyse, Synopse, Fallbewertung oder Lehrunterlage.
+Prüfe die vorgelegte Urkunde oder Fallfrage am örtlich und zeitlich einschlägigen Allgemeinen Landrecht. Bestimme Teil, Titel und Paragraf, lies benachbarte Ausnahmen mit und begründe die historische Rechtsfolge. Eine heutige Fortgeltungsbehauptung getrennt von der damaligen Regel und Praxis untersuchen.
 
 ## 1.1. Mit der konkreten Frage beginnen
 
-Vorhandenen Scan, Vertrag, Registerauszug oder Aktenvermerk zuerst lesen. Festhalten: Was soll geklärt werden, für welchen historischen Ort und Zeitpunkt und in welcher Ausgabe? Das verlangte Ergebnis liefern, etwa eine Normkarte, Textsynopse oder historische Fallbewertung. Nicht jeden Auftrag in eine Normkarte umformen.
-
-Fehlt Material, nur die entscheidende Lücke gebündelt erfragen. Beispiel: „Für welchen Ort und welches Jahr soll die Regel geprüft werden, und liegt die betreffende Textseite vor?“ Ein offener Textzeuge verhindert ein gesichertes Zitat, aber nicht die Benennung des nächsten sinnvollen Quellenzugriffs.
+Ohne Eingabe frage kurz: „Textstelle lesen und vergleichen, damaligen Fall lösen oder heutige Wirkung eines Altrechts prüfen?“ Bei Scans oder Akten ohne Aufgabe lies still und kläre nur das Erkenntnisziel. Bei klarem Auftrag arbeite direkt an Normkarte, Synopse oder Fallbewertung; frage nur entscheidende Lücken zu Ort, Stichtag oder Text nach. Keine Materialzusammenfassung und keine feste Rückfragerunde vorschalten.
 
 ## 1.2. Den passenden Arbeitsweg nehmen
 
-Alle folgenden Links sind optionale Vertiefungen. Ohne weitere Dateien die jeweilige Sacharbeit hier ausführen: Titelblatt und Systemstelle abgleichen, unsichere Lesung kennzeichnen, Ort und Stichtag bestimmen und erst danach den historischen Text auf die belegten Tatsachen anwenden.
+Bei zwei Drucken Titelblatt, Ausgabe und dieselbe Systemstelle vergleichen; Seitenzahlen allein reichen nicht. Bei Fraktur und OCR Original, unsichere Lesung und eigene Übertragung trennen. Bei Normsuche Register und Nachbarvorschriften lesen; ein Dateiname beweist keinen Titel. Bei historischer Falllösung Ort, Stichtag und einschlägiges Sonderrecht bestimmen, bevor der Text auf Tatsachen angewandt wird. Bei heutiger Wirkung zusätzlich Entstehung, Zwischenrecht und Durchsetzbarkeit belegen. Bei einer verbreiteten Behauptung gerade die ausgelassene Ausnahme suchen.
 
-| Ausgangslage | Nächster Arbeitsschritt |
-| --- | --- |
-| Unklare Ausgabe oder zwei abweichende Drucke | Mit [Textzeugen vergleichen](skills/textzeugen-vergleichen/SKILL.md) Titelblatt, Ausgabe und dieselbe Textstelle abgleichen. |
-| Fraktur oder OCR ist unsicher | Mit [Normtext lesen und übertragen](skills/normtext-lesen-und-uebertragen/SKILL.md) Original, Leselücke und eigene Übertragung trennen. |
-| Eine bestimmte Norm wird gesucht | In der [Normenbibliothek](skills/pralr-normenbibliothek/SKILL.md) nur den passenden Bereich öffnen und die Fundstelle am Primärtext prüfen. |
-| Ein damaliger Fall soll entschieden werden | Zuerst [historische Geltung bestimmen](skills/historische-geltung-bestimmen/SKILL.md), danach [den Fall begutachten](skills/historischen-fall-begutachten/SKILL.md) und die sachnächste Fachprüfung nutzen. |
-| Ein altes Recht soll heute wirken | Mit [Rechtsüberleitung prüfen](skills/altrechte-und-rechtsueberleitung-pruefen/SKILL.md) Entstehung, Zwischenrecht und heutige Durchsetzbarkeit belegen. |
-| Eine verbreitete Behauptung erscheint zweifelhaft | Mit [historische Behauptungen prüfen](skills/historische-behauptungen-pruefen/SKILL.md) den behaupteten Satz gegen Wortlaut, Ausnahmen und Geltung halten. |
-
-Die Fachmaterialien innerhalb dieser Skills nur optional zur tatsächlich auftretenden Teilfrage nachladen. Mehrere frühere Fassungen sind keine zusätzlichen Auswahloptionen.
+Beispiel: „Die Mühle durfte dort immer stauen.“ Ein Plan kann frühere Nutzung zeigen, eine Parteieingabe die Rechtsbehauptung; beide beweisen nicht allein ein zeitlich unbeschränktes Privileg. Prüfe die konkrete Verleihung oder Anordnung und trenne private Nutzung, obrigkeitlichen Eingriff und behaupteten Schaden. Eine heutige Aufopferungsentscheidung ersetzt diese Belege nicht. Fachskills und Referenzen sind nur optionale Vertiefungen; die Bearbeitung setzt keinen lokalen Zugriff voraus.
 
 ## 1.3. Fachliche Fehlgriffe vermeiden
 
@@ -35,6 +24,8 @@ Der optionale [Quellenprüfvermerk](references/historische-quellenpruefung.md) e
 
 1.3.4. Eine historische Entschädigungsregel beweist für sich weder ihre Anwendung auf einen bestimmten Schaden noch einen heutigen Anspruch. Entstehung, späteres Zwischenrecht und heutige Durchsetzbarkeit als getrennte Fragen behandeln.
 
+1.3.5. Bei Aufopferung Einleitung Paragrafen 74 und 75 PrALR als historischen Ausgangspunkt lesen. BGH, Urteil vom 07.09.2017, [III ZR 71/17](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=pm&Datum=2017-9&nr=79600&linked=urt&Blank=1&file=dokument.pdf), amtlicher Leitsatz, erfasst beim allgemeinen Aufopferungsanspruch wegen Eingriffs in die körperliche Unversehrtheit auch immaterielle Nachteile. Das belegt eine spätere Fortentwicklung, nicht denselben Anspruchsumfang im Jahr 1794. Historische Falllösung und heutige Anspruchsprüfung dürfen deshalb zu unterschiedlichen Fragen und Ergebnissen führen.
+
 ## 1.4. Ergebnis ausarbeiten und nach Quellenzugang fortsetzen
 
 Ein knapper Quellenbefund kann so beginnen:
@@ -45,7 +36,7 @@ Eine historische Fallbewertung ergänzt die tatsächliche Anwendung, den stärks
 
 Fehlt etwa die Folgeseite mit einer Ausnahme, frage nach genau dieser Seite und arbeite die bereits lesbaren Teile vorläufig aus. Nach Eingang prüfe die Ausnahme im Zusammenhang und ändere Zitat, Auslegung und Fallbewertung gemeinsam. Eröffnet der neue Text eine weitere entscheidende Geltungsfrage, kläre sie gezielt; bereits bestimmte Ausgabe und Fundstelle werden nicht erneut abgefragt.
 
-Setze am bestehenden Text fort, bis die bestellte Analyse oder Lehrunterlage fertig ist. Eine heutige Anschlussfrage wird nur bei entsprechendem Auftrag zusätzlich untersucht. Nutzerseitige Dateinamen haben Vorrang; ergebnis.md ist nur ein möglicher Standard.
+Setze im bestehenden Nutzerpfad fort; ohne Vorgabe bezeichne den Synopsentext als `textzeugenvergleich.md`, das Fallgutachten als `historisches-gutachten.md`. Eine neue Ausnahme ändert Lesung, Übertragung, Subsumtion und Ergebnis in diesen Texten. Eine nur 1820 betreffende Frage endet mit der historischen Bewertung; heutige Fortgeltung nur auf Auftrag ergänzen. Ohne Export keine Dateierzeugung behaupten.
 
 ## 1.5. Quellen und Format
 

@@ -37,16 +37,18 @@ Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punk
 
 ### 2. Mängelkategorien
 
+Bei Verfahrensfehlern die Relevanz für die Mitwirkungsrechte eines objektiv urteilenden Mitglieds prüfen, nicht nur eine rechnerische Änderung des Abstimmungsergebnisses. Der BGH, Urteil und Versäumnisurteil vom 2. Juli 2007, II ZR 111/05, Rn. 35 bis 44, behandelt die unzureichende Ankündigung eines konkreten Grundstücksverkaufs: Sie beeinträchtigte Vorbereitung und Teilnahmeentscheidung und führte zur Nichtigkeit. Daraus folgt weder die Unwirksamkeit jedes belanglosen Verfahrensfehlers noch ein allgemeines aktienrechtliches Anfechtungsmodell. [Amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2005/II_ZR_111-05.pdf?__blob=publicationFile&v=1).
+
 | Fehler | Beispiele | Rechtsfolge |
 |---|---|---|
 | **Ladungsmängel** | Einladung nicht fristgerecht (§ 32 I 2 BGB i. V. m. Satzung); Tagesordnungspunkte nicht in Einladung; Nichteinladung Mitglied | Regel: **Nichtigkeit** des Beschlusses; Heilung durch Vollversammlung mit Zustimmung aller |
-| **Versammlungsleitung** | Falsche Versammlungsleitung; fehlerhafte Eröffnung; Ausschluss von Wortmeldungen | Anfechtbar; je nach Schwere bis Nichtigkeit |
-| **Stimmrecht** | Ausschluss stimmberechtigter Mitglieder; Stimmrecht von Nicht-Mitgliedern; Vollmachtsmängel | Nichtigkeit, wenn Ergebnis ändert |
+| **Versammlungsleitung** | Falsche Versammlungsleitung; fehlerhafte Eröffnung; Ausschluss von Wortmeldungen | Relevanz für Teilnahme- und Mitwirkungsrechte prüfen; bei relevantem Verfahrensmangel Unwirksamkeit, festzustellen nach Paragraf 256 ZPO |
+| **Stimmrecht** | Ausschluss stimmberechtigter Mitglieder; Stimmrecht von Nicht-Mitgliedern; Vollmachtsmängel | Unberechtigte Stimmen rechnerisch prüfen; Ausschluss von Mitgliedern zusätzlich auf Relevanz für Teilnahme, Beratung und Abstimmung untersuchen. Keine Beschränkung auf eine geänderte Stimmenmehrheit |
 | **Mehrheit** | Falsche Mehrheitsberechnung; § 33 BGB für Satzungsänderung (3/4-Mehrheit); § 41 BGB für Auflösung | Nichtigkeit |
-| **Tagesordnung** | Beschluss zu nicht in TO aufgeführtem Punkt (außer Dringlichkeit + Mehrheitsbeschluss) | Nichtigkeit |
+| **Tagesordnung** | Beschlussgegenstand bei Einberufung nicht oder unzureichend bezeichnet | Grundsätzlich Nichtigkeit nach Paragraf 32 Absatz 1 Satz 2 BGB; Dringlichkeit und Mehrheitsbeschluss allein ersetzen die Ankündigung nicht. Wirksame Satzungsabweichung nach Paragraf 40 BGB gesondert prüfen |
 | **Befangenheit** | § 34 BGB: Mitglied, das vom Beschluss betroffen ist (Vertrag, Rechtsstreit, Entlastung in eigener Sache) — kein Stimmrecht | Wenn Stimme entscheidend: Nichtigkeit |
 | **Inhalt sittenwidrig / gesetzeswidrig** | Beschluss verstößt gegen § 138 BGB oder zwingendes Recht | Nichtigkeit § 134 BGB |
-| **Gemeinnützigkeitsverstoß** | Verstoß gegen § 55 AO Selbstlosigkeit | Beschluss steuerlich unwirksam; ggf. Aberkennung Gemeinnützigkeit |
+| **Gemeinnützigkeitsverstoß** | Verstoß gegen Paragraf 55 AO Selbstlosigkeit | Steuerliche Folgen, insbesondere einen möglichen Verlust von Steuervergünstigungen, nach [Paragraf 55 AO](https://www.gesetze-im-internet.de/ao_1977/__55.html) und [Paragraf 63 AO](https://www.gesetze-im-internet.de/ao_1977/__63.html) prüfen. Zivilrechtliche Wirksamkeit eigenständig nach Satzung und Zivilrecht beurteilen; keine automatische Nichtigkeit des Beschlusses |
 
 ### 3. Fristen
 - **Kein gesetzliches Fristenregime** wie § 246 AktG.
@@ -65,7 +67,7 @@ Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punk
 - **Heilung** durch nachträgliche Vollversammlung möglich; sehr formell durchführen.
 - **Vorstandsentlastung trotz Befangenheit**: Vorstand stimmt mit über eigene Entlastung — verbotenes Insichgeschäft § 34 BGB.
 - **Einladung an Vereinsadresse statt Mitgliedsadresse**: bei Satzungssilenz Mitgliedsadresse maßgeblich.
-- **Online-Versammlung** § 32 II BGB (idF seit 2023): grundsätzlich zulässig, soweit Satzung nicht ausschließt; Technik und Identitätssicherung beachten.
+- Hybride und rein virtuelle Versammlung unterscheiden: Nach [Paragraf 32 Absatz 2 BGB](https://www.gesetze-im-internet.de/bgb/__32.html) kann bei der Einberufung eine hybride Teilnahme vorgesehen werden. Rein virtuelle Versammlungen benötigen nach dem gesetzlichen Modell einen vorherigen Ermächtigungsbeschluss der Mitglieder für künftige Versammlungen. Abweichende Satzungsregelungen nach [Paragraf 40 BGB](https://www.gesetze-im-internet.de/bgb/__40.html) prüfen; die Einladung muss die elektronische Ausübung der Mitgliedschaftsrechte erläutern.
 - **Stimmübertragung durch Vollmacht**: nur wenn Satzung erlaubt; Schriftform regelmäßig erforderlich.
 - **Mehrheit** § 32 I 3 BGB: einfache Mehrheit der abgegebenen Stimmen, soweit Satzung nichts anderes sagt; Stimmenthaltungen zählen nicht mit.
 

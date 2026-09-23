@@ -1,22 +1,34 @@
 {
   "schema_version": 1,
   "plugin": "grosskanzlei-corporate-ma",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/gmbhg/__15.html",
       "checked_on": "2026-09-14",
       "supports": "Verpflichtung zur Abtretung und Abtretungsvertrag sind getrennte formbedürftige Vorgänge."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2022/V_ZR__77-22.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 15.09.2023 - V ZR 77/22, Rn. 33 bis 41: Bei spätem Upload wesentlicher Belastungsinformationen nicht automatisch von erfüllter Aufklärung ausgehen; Zeitpunkt, Organisation, Inhalt, Käuferprüfung und konkreten Hinweis abgleichen. Grenze: Gewerbeimmobilienkauf, keine allgemeine SPA-Offenlegungsfiktion; berechtigte Kenntniserwartung kann im Einzelfall bestehen. Zurückverweisung, keine abschließende Haftungsfeststellung für jeden Datenraumfall."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62021CJ0746",
+      "checked_on": "2026-09-22",
+      "supports": "EuGH, Urteil vom 09.11.2023 - C-746/21 P, Rn. 132 bis 151 und 165 bis 185: Vor Closing wirksame Vetorechte über Geschäftsleitung, Preise und gewöhnliche Verträge auf bereits eingeräumte Möglichkeit bestimmenden Einflusses prüfen; Kontrollübernahme kann vor tatsächlicher Ausübung vorliegen. Grenze: Nicht jede werterhaltende Zwischenklausel ist verboten; angemessenen Erhalt von Wert und Integrität abgrenzen. Informationsaustausch war Beweisanzeichen für Einfluss, nicht generell eigenständiger Verstoß gegen Artikel 7 FKVO."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Mini vollständig gelesen: Einzelauftrag geht vor Gesamttransaktion; fehlende Kaufpreisposition und Bankzustimmung führen zu spezifischem Nachweis und anschließender Vertrags- oder Briefänderung.",
+    "reason": "Der Kurzprompt nutzt Altice für konkrete Zwischenklauseln und vorzeitige Kontrolle; Informationsaustausch und bloße Vertragssicherung werden nicht pauschal gleichgesetzt. Individuelle Text- und Primärquellenprüfung, kein Live-Modelltest.",
     "changes": [
-      "Konten- und Vertragsnachweis mit Debt-, Cash- und Working-Capital-Rechnung verbunden.",
-      "Bankantwort auf Erwerber, Zeitpunkt und Bedingungen prüfen und danach Vollzugsplan sowie bestelltes Schreiben fertigstellen lassen."
+      "V ZR 77/22 auf späte wesentliche Datenraumoffenlegung angewandt und auf seinen Immobilienkontext begrenzt.",
+      "Altice mit niedrigen Vetoschwellen, Werterhaltung und tatsächlichem Kontrollbezug erläutert.",
+      "Unbestätigten Randverweis entfernt; alle vorhandenen Preis-, DD-, Regulatory- und Vollzugswege erhalten.",
+      "Eigenständige Starts und fachbezogene Antwortfortsetzung ergänzt."
     ],
-    "sha256": "e53ab9c8c36dcc42f3eb81e8cc95c5d644f8b3f22160fb7c050b8a139352e4e3"
+    "sha256": "2be80c48e24a9a03c497b286b55707c6a49fd635f46d1f847ec661c86f32758c"
   },
   "selection": {
     "positive": [
@@ -64,12 +76,60 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Gesamte Werkstatt einschließlich besonderer Mandate und Übergabe gelesen. Datenraum, Kaufpreis, Disclosure und Closing werden nach derselben neuen Information aktualisiert; der frühere doppelte Routenschluss ist integriert.",
+    "reason": "Die umfangreichen DD- und Regulatory-Routen verbinden nun späten Datenraum-Upload mit tatsächlicher Kenntniserwartung und Interim Covenants mit der Möglichkeit bestimmenden Einflusses. Individuelle Text- und Primärquellenprüfung, kein Live-Modelltest.",
     "changes": [
-      "Abtretungs- und Optionsnachweise mit Beteiligungsrechnung und Vertrag verknüpft.",
-      "Nach ergänzter Offenlegung Garantieausnahme und Freistellung gemeinsam überarbeiten lassen.",
-      "Steuerliche und lokale Rechtsfragen nicht aus deutschem Vertragswissen als geklärt ausgegeben; konkrete Altanker mit Übertragungsgrenzen erhalten."
+      "V ZR 77/22 auf späte wesentliche Datenraumoffenlegung angewandt und auf seinen Immobilienkontext begrenzt.",
+      "Altice mit niedrigen Vetoschwellen, Werterhaltung und tatsächlichem Kontrollbezug erläutert.",
+      "Unbestätigten Randverweis entfernt; alle vorhandenen Preis-, DD-, Regulatory- und Vollzugswege erhalten.",
+      "Kenntnis und Offenlegung, Garantie/Freistellung, Doppelzählung in Debt und Working Capital, eingeschränkte Bankzustimmung und tatsächlicher Vollzugsnachweis."
     ],
-    "sha256": "edef0650e5b24a02976e985d4d1e07dfabd8601537f22540bf61f7715bd3d5fb"
+    "sha256": "24771dcc5ef031010f7e88483a792d40557d7f1e70741651f7510641706413c8"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "grosskanzlei-corporate-ma/README.md",
+      "grosskanzlei-corporate-ma/grosskanzlei-corporate-ma-werkstatt.md",
+      "grosskanzlei-corporate-ma/grosskanzlei-corporate-ma-schnellstart.md",
+      "quality/evals/grosskanzlei-corporate-ma.json"
+    ],
+    "opening_change": "Kaufpreis, aufgedeckte Haftungsrisiken und Freigaben bestimmen den Einstieg in Signing und Closing.",
+    "norms": [
+      "BGB Paragraf 241 Absatz 2",
+      "BGB Paragraf 311 Absatz 2",
+      "Verordnung (EG) 139/2004 Artikel 3 Absatz 2, Artikel 4 Absatz 1 und Artikel 7 Absatz 1"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 15.09.2023 - V ZR 77/22, Rn. 33 bis 41",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2022/V_ZR__77-22.pdf?__blob=publicationFile&v=1",
+        "application": "Bei spätem Upload wesentlicher Belastungsinformationen nicht automatisch von erfüllter Aufklärung ausgehen; Zeitpunkt, Organisation, Inhalt, Käuferprüfung und konkreten Hinweis abgleichen.",
+        "limit": "Gewerbeimmobilienkauf, keine allgemeine SPA-Offenlegungsfiktion; berechtigte Kenntniserwartung kann im Einzelfall bestehen. Zurückverweisung, keine abschließende Haftungsfeststellung für jeden Datenraumfall."
+      },
+      {
+        "citation": "EuGH, Urteil vom 09.11.2023 - C-746/21 P, Rn. 132 bis 151 und 165 bis 185",
+        "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62021CJ0746",
+        "application": "Vor Closing wirksame Vetorechte über Geschäftsleitung, Preise und gewöhnliche Verträge auf bereits eingeräumte Möglichkeit bestimmenden Einflusses prüfen; Kontrollübernahme kann vor tatsächlicher Ausübung vorliegen.",
+        "limit": "Nicht jede werterhaltende Zwischenklausel ist verboten; angemessenen Erhalt von Wert und Integrität abgrenzen. Informationsaustausch war Beweisanzeichen für Einfluss, nicht generell eigenständiger Verstoß gegen Artikel 7 FKVO."
+      }
+    ],
+    "remaining_limits": [
+      "Keine vollständige Neuprüfung der zahlreichen Steuer-, W&I-, FDI- und Public-M&A-Schnittstellen.",
+      "Datenraumurteil steht in der Werkstatt; eigenständiger operativer Mini-Anker ist Altice.",
+      "Desk- und Quellenprüfung; kein Live-Client- oder Live-Modelltest und keine vollständige Neuverifikation sämtlicher vorhandener Quellen.",
+      "Workflow-Ergänzung am 2026-09-23: individuelle Textprüfung, keine erneute Gesamtverifikation der bestehenden Entscheidungsanker; deren dokumentierte Quellen- und Zugriffsgrenzen bleiben bestehen."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "SPA-Klausel, DD-Fund oder Closing-Nachweis anbieten.",
+      "SPA und Datenraumunterlagen still lesen; Klauseländerung oder CP-Abgleich anbieten.",
+      "Bestelltes Transaktionsdokument direkt bearbeiten."
+    ],
+    "continuation": "Spätes Datenraumdokument -> Disclosure und Garantie; neue Bankfreigabe -> CP nur in belegtem Umfang; Preisposition -> Funds Flow ändern.",
+    "enrichment": "Kenntnis und Offenlegung, Garantie/Freistellung, Doppelzählung in Debt und Working Capital, eingeschränkte Bankzustimmung und tatsächlicher Vollzugsnachweis.",
+    "limits": "desk review; no live client execution"
   }
 }

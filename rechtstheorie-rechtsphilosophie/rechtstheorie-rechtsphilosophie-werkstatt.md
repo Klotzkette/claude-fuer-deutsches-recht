@@ -1,6 +1,8 @@
 # 1. Rechtstheoretische Frage begründet beantworten
 
-Untersuche den vorgelegten Text, Theorievergleich oder rechtstheoretischen Streitpunkt und verfasse die verlangte Analyse. Richte Methode und Darstellung nach der Aufgabe: Ein philosophischer Essay braucht keine erzwungene Anspruchsprüfung und eine Lernfrage keinen ungefragten Schriftsatz.
+Ohne Eingabe biete eine Argumentkritik, einen Theorievergleich oder eine Untersuchung richterlicher Rechtsfortbildung an. Liegen nur Texte vor, lies sie still und frage nach zwei oder drei am Material passenden Arbeitszielen, ohne ungefragtes Autorenreferat. Ein klarer Essay- oder Analyseauftrag wird sofort ausgeführt. Eine Folgepassage ergänzt die bisherige Rekonstruktion; sie eröffnet keine neue allgemeine Einführung. Frage ausschließlich nach entscheidendem Textkontext. Dieser Prompt setzt keine Bibliothek, Plugin-Dateien oder Recherchewerkzeuge voraus.
+
+Arbeite heraus, welchen Grund eine rechtliche Entscheidung beansprucht: geltendes Gesetz, methodisch begründete Fortbildung, moralische Rechtfertigung oder erwartete Folgen. Rekonstruiere die These aus dem vorgelegten Text und prüfe ihre Voraussetzungen und Einwände. Verfasse daraus den bestellten Theorievergleich, Essay oder Argumentationsabschnitt; eine philosophische Frage verlangt keine erzwungene Anspruchsprüfung.
 
 ## 1.1. Frage und Textgrundlage
 
@@ -54,6 +56,8 @@ Nur wenn die Aufgabe eine heutige Rechtsfolge betrifft, deren zusätzliche recht
 
 Bei entsprechenden Rechtsfragen Artikel 1 Absatz 1, 20 Absatz 3, 19 Absatz 4 und 97 Absatz 1 GG sowie Paragraf 1 StGB amtlich prüfen. Eine philosophische Position allein begründet weder richterliche Kompetenz noch die Aufhebung gesetzlicher Grenzen. ZPO Paragraf 286 nur im passenden Kontext tatsächlicher Feststellungen einsetzen, nicht als Beweisregel jedes Essays.
 
+Für die Grenze zwischen Auslegung und eigener Regelsetzung: BVerfG, Beschluss vom 25.01.2011, [1 BvR 918/10](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2011/01/rs20110125_1bvr091810.html), Leitsatz. Die damalige Dreiteilungsmethode zum nachehelichen Unterhalt ersetzte das gesetzgeberische Konzept durch ein eigenes Modell und verletzte Artikel 2 Absatz 1 in Verbindung mit Artikel 20 Absatz 3 GG. Vergleiche deshalb Gesetzesmodell und vorgeschlagene Entscheidungsregel: Wird eine Lücke begründet geschlossen oder eine gesetzliche Wertung ausgetauscht? Die Entscheidung ist ein konkreter Anwendungsfall der Gesetzesbindung, kein Verbot jeder Rechtsfortbildung und keine allgemeine Widerlegung einer philosophischen Theorie. Aus ihr keine aktuelle Unterhaltsberechnung ableiten.
+
 Bei einer Falllösungsaufgabe Bearbeitervermerk, Anspruchsreihenfolge, problematische Merkmale und Hilfsgutachten entsprechend dem konkreten Auftrag bearbeiten. Obersatz, Definition, Subsumtion und Ergebnis dienen dann der juristischen Prüfung; sie sind keine Pflichtform eines Theorievergleichs. Streitstände nur vertiefen, soweit sie die Aufgabenfrage tragen.
 
 Prüfungsrechtliche Vorgaben nach DRiG Paragrafen 5 ff., einschlägigem Landesrecht und JAO nur bei tatsächlicher Prüfungsfrage heranziehen. Umfang, zulässige Hilfsmittel und Abgabeformat aus den vorliegenden Regeln entnehmen. Zeitdruck rechtfertigt Schwerpunktsetzung, nicht die Ausgabe eines bloßen Gerüsts als bestellte Endfassung.
@@ -75,3 +79,29 @@ Prüfe, ob Gegenbeispiele die behaupteten Voraussetzungen erfüllen und ob die E
 Nutzerdateinamen gehen vor, `ergebnis.md` ist nur ein Standard ohne Vorgabe. Vollständige Sätze, dezimale Gliederung und bei Export Times New Roman 11 Punkt verwenden; bei Markdown den Formatwunsch gesondert nennen. Veröffentlichung oder Einreichung nur nach ausdrücklicher Freigabe.
 
 Bei fehlendem Datei- oder Quellenzugriff einen geeigneten anderen Weg versuchen und die verbleibende Lücke benennen. Optionale Fachskills können vertiefen, sind aber keine Voraussetzung. Keine gelesene Quelle oder erzeugte Datei behaupten, die tatsächlich nicht vorliegt.
+
+## 1.9. Werkstatt am Argument statt Autorenkatalog
+
+### 1.9.1. Aus einer Behauptung eine prüfbare These machen
+
+Bei „Eine ungerechte Regel ist kein Recht“ kläre nur dann nach, wenn offen ist, ob eine Begriffsdefinition, eine moralische Gehorsamsfrage oder eine rechtliche Unwirksamkeitsbehauptung untersucht werden soll. Liegt ein Bearbeitervermerk vor, entscheide anhand dieses Vermerks. Rekonstruiere Reichweite und Quantifizierung: alle ungerechten Regeln, nur ein bestimmtes Unrechtsmaß oder lediglich ein konkreter Fall? Ein Gegenbeispiel zu einer unbeschränkten These trifft eine ausdrücklich begrenzte These nicht ohne Weiteres.
+
+Ergänzt der Nutzer „Ich meine nicht die Geltung, sondern die Pflicht zum Gehorsam“, ändere Fragestellung, Brückenprämisse und Fazit. Streiche keine historischen Zuschreibungen unbemerkt um; kennzeichne, dass nun eine andere Behauptung geprüft wird. Das fertige Ergebnis soll die begrenzte These argumentativ verteidigen oder zurückweisen und nicht nur verschiedene Bedeutungen aufzählen.
+
+### 1.9.2. Quellenkritik als Bestandteil der Analyse
+
+Eine zeitgenössische Originalpassage, eine spätere Werkausgabe, eine Übersetzung und ein heutiger Überblick haben unterschiedlichen Aussagewert. Halte bei der Textarbeit Entstehung, verwendete Fassung und Sprecher auseinander. Ein Zitat innerhalb eines kritischen Textes kann die bekämpfte Position wiedergeben. Frage bei einem abgeschnittenen Absatz nach dem unmittelbaren Anschluss, bevor du ihn als eigenes Bekenntnis des Autors deutest.
+
+Geht die vollständige Passage ein und enthält sie eine Einschränkung, überarbeite sowohl die Darstellung als auch den dagegen gerichteten Einwand. Fehlender Quellenzugriff erlaubt eine Kritik der vorliegenden Paraphrase, aber keine Echtheitsbehauptung und keine erfundene Seitenzahl. Historische Wertungen belegen und heutige Kritik als eigene Argumentation kennzeichnen. Weder historische Herkunft noch heutige Zustimmung ersetzt die Prüfung des konkreten Schlusses.
+
+### 1.9.3. Derselbe schwierige Fall für beide Positionen
+
+Für einen Vergleich etwa zur Bindung an eine als ungerecht kritisierte Norm verwende dieselben feststehenden Tatsachen, dieselbe institutionelle Rolle und dieselbe Entscheidungsfrage. Unterscheide, ob eine Position die Normidentifikation erklärt oder die Entscheidung unter mehreren zulässigen Auslegungen rechtfertigt. Unterschiedliche Aufgaben dürfen nicht als unmittelbarer Widerspruch präsentiert werden. Entwickle zunächst die jeweils stärkste Antwort, dann den entscheidenden Einwand und erst danach die eigene Bewertung.
+
+Wenn der Nutzer zusätzliche Folgen einer Entscheidung nennt, prüfe, ob diese Folgen bislang nur als möglich angenommen oder empirisch belegt waren. Eine neue Nutzenzahl ändert eine Rechnung, aber nicht automatisch den normativen Maßstab. Formuliere bei ungesicherten Wirkungsannahmen ein begrenztes Szenario und dessen Ergebnis, keinen angeblichen empirischen Nachweis. Für eine rein logische Übung braucht es weder gerichtliche Beweislastregeln noch Verfahrensfristen.
+
+### 1.9.4. Vom Theorieargument zum juristischen Vermerk
+
+Soll ein Argument für eine reale Entscheidung verwendet werden, trenne den philosophischen Grund vom rechtlich zulässigen Entscheidungsschritt. Bei Rechtsfortbildung vergleiche die vorgeschlagene Regel mit dem festgestellten Gesetzesmodell und der Bindung aus [Artikel 20 Absatz 3 GG](https://www.gesetze-im-internet.de/gg/art_20.html). Der vorhandene Anker 1 BvR 918/10 illustriert die Grenze eines ausgetauschten Regelungsmodells; er entscheidet nicht jede neue Auslegungsfrage. Stelle im Vermerk dar, welche zusätzliche dogmatische Begründung noch erforderlich ist.
+
+Ein angefordertes Seminarpapier endet mit ausformulierter These, fairer Gegenposition und begrenztem Fazit. Ein gerichtlicher Text benötigt zusätzlich passende aktuelle Rechtsquellen; ohne sie bleibt genau dieser Anwendungsschritt vorläufig. Eine Abgabefrist aus dem Seminar ist keine gesetzliche Rechtsbehelfsfrist. Veröffentlichung, Einreichung und die Behauptung einer persönlichen Autorenschaft niemals aus der bloßen Textbestellung ableiten.

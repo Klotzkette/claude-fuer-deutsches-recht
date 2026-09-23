@@ -1,10 +1,10 @@
 # 1. Interne Untersuchung vorbereiten und auswerten
 
-Prüfe den konkreten Untersuchungsauftrag und die vorhandenen Belege. Erstelle den bestellten Untersuchungsplan, Interviewleitfaden, Ergebnisbericht oder Behördenbrief innerhalb des rechtlich zulässigen und freigegebenen Umfangs.
+Gleiche die verdächtigen Rechnungen, Zahlungen, Freigaben oder Nachrichten mit Gegenbelegen ab und kläre, was den Vorwurf tatsächlich trägt. Begrenze weitere Datenerhebungen und Interviews auf offene Tatsachenfragen. Verfasse den beauftragten Untersuchungsplan, Leitfaden, Bericht oder Behördenbrief innerhalb des zulässigen und freigegebenen Umfangs.
 
 ## 1.1 Auftrag und Zuständigkeit
 
-Lies Auftrag, Hinweis, bisherige Untersuchungsberichte und betroffene Unterlagen zuerst. Entnimm daraus Mandant, Auftraggeber, Entscheidungsgremium, Anlass, Zeitraum, Einheiten, Empfänger und Ziel. Übernimm bereits geklärte Angaben; eine bestehende Untersuchung beginnt nicht erneut mit einer vollständigen Aufnahme.
+Ohne Eingabe biete Rechnungsabgleich, Interviewleitfaden oder Ergebnisbericht an. Dateien ohne Auftrag still lesen und zwei passende Wege anbieten. Klaren Auftrag direkt bearbeiten; Mandant, Gremium, Zeitraum und Empfänger aus den Belegen übernehmen. Neue Interviewerklärung ändert Gegenhypothese und Bericht, nicht automatisch den zulässigen Datenzugriff. Bekanntes nicht erneut erfragen.
 
 Prüfe Interessenkonflikte von Untersuchenden, Auftraggebern und Berichtsadressaten. Bestimme, wer den Umfang ändern darf und welche Personen Zugang zu Ergebnissen erhalten sollen. Organpflichten nach Paragraf 93 AktG beziehungsweise Paragraf 43 GmbHG ersetzen nicht die Prüfung der Zulässigkeit jeder einzelnen Erhebungsmaßnahme.
 
@@ -15,6 +15,8 @@ Bei drohender Löschung priorisiere einen rechtlich begrenzten Sicherungsvorschl
 Bei Beschäftigtendaten zur Straftataufklärung prüfe [Paragraf 26 Absatz 1 BDSG](https://www.gesetze-im-internet.de/bdsg_2018/__26.html): dokumentierte tatsächliche Anhaltspunkte, Erforderlichkeit und Verhältnismäßigkeit. Ein unspezifischer Vorwurf rechtfertigt keine unbegrenzte Kopie aller privaten und dienstlichen Daten. Rechtsgrundlage, Umfang und Beteiligungsrechte sind für jede Maßnahme gesondert zu prüfen.
 
 Beachte Artikel 5, 6, 9, 13, 14 und 32 Datenschutz-Grundverordnung sowie die einschlägigen arbeitsrechtlichen Grenzen. Prüfe Paragrafen 87, 99 und 102 BetrVG nur nach dem konkreten Beteiligungstatbestand. Vertraulichkeit, Folgemaßnahmen, Rückmeldung und Benachteiligungsverbot nach dem HinSchG sind bei einem entsprechenden Hinweis gesondert zu berücksichtigen.
+
+BAG, Urteil vom 27.07.2017, 2 AZR 681/16, Rn. 15 bis 41: Vollständiges Tastatur- und Bildschirmprotokollieren ohne konkret begründeten Verdacht einer Straftat oder schweren Pflichtverletzung war unzulässig; daraus gewonnener Vortrag blieb im Kündigungsprozess außer Betracht. Prüfe vor ähnlich intensiver Überwachung konkrete Anhaltspunkte und mildere Mittel, etwa Zahlungsabgleich. Schweigen auf die Ankündigung ist keine Einwilligung. Grenze den Fall zu Paragraf 32 BDSG alter Fassung von heutigen DSGVO-Grundlagen und weniger intensiven offenen Kontrollen ab. Nicht jeder Datenschutzfehler bewirkt automatisch ein Verwertungsverbot; Datenerhebung und prozessuale Verwendung getrennt beurteilen ([amtlicher Volltext](https://www.bundesarbeitsgericht.de/entscheidung/2-azr-681-16/)).
 
 ## 1.3 Beleglücken und weitere Untersuchung
 

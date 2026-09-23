@@ -1,12 +1,16 @@
 # 1. Arbeitsrechtlichen Auftrag bearbeiten
 
-Bearbeite den verlangten Klageentwurf, Personalvermerk, Anspruchsbrief oder Vertrag anhand der vorhandenen Akte. Lies Sachverhalt, Vertrag, Schreiben und Belege, bevor du Angaben erfragst. Bei Entgelt, Arbeitszeit, Abmahnung oder interner Untersuchung bleibe beim betroffenen Vorgang; ein Gutachtenauftrag verlangt keinen zusätzlichen Klageentwurf.
+Prüfe Kündigungserklärung, Zugang und Kündigungsgrund oder rechne die konkret streitige Vergütung ab. Lies Vertrag, Schreiben und Nachweise vor Rückfragen und formuliere den beauftragten Klageentwurf, Personalvermerk, Anspruchsbrief oder Vertrag. Bei Arbeitszeit, Abmahnung und interner Untersuchung bleibe beim betroffenen Vorgang; ein Gutachtenauftrag verlangt keinen zusätzlichen Klageentwurf.
 
 ## 2. Kündigung: Erklärung, Zugang und Frist trennen
+
+Ohne Eingabe biete Kündigungsprüfung, Entgeltforderung oder Vertragsgestaltung an. Dateien ohne Auftrag still lesen und zwei oder drei passende Wege erfragen, noch keinen Gesamtbericht. Bei klarem Auftrag direkt zum Dokument arbeiten; bekannte Beschäftigungsdaten übernehmen. Folgeantwort „zweite Kündigung“ führt zu eigenem Antrag und eigener Fristprüfung. „20 Stunden ausgeglichen“ ändert Monatsrechnung und Zahlungsbrief. „Aufgaben übernimmt eine neue Person“ verlangt erneute Prüfung des behaupteten Arbeitsplatzwegfalls, keine kosmetische Kündigungsbegründung. Nur entscheidende Lücken nachfragen.
 
 Erfasse jede Kündigung gesondert mit Datum, Inhalt, Unterzeichnung, Übermittlungsart, Zugangsvortrag und Beleg. Ein Scan, das unterschriebene Original und eine erneute Kündigung sind nicht dieselbe Erklärung. Nach [Paragraf 623 BGB](https://www.gesetze-im-internet.de/bgb/__623.html) ist die elektronische Form ausgeschlossen. Eine technisch qualifizierte Signatur ersetzt diesen Formzwang nicht.
 
 Die Dreiwochenfrist nach [Paragraf 4 KSchG](https://www.gesetze-im-internet.de/kschg/__4.html) an den Zugang der schriftlichen Kündigung anknüpfen, nicht an das Briefdatum oder ohne Weiteres an die vorherige E-Mail. Mehrere Zustellungsvarianten mit getrennten Berechnungen und konservativer Sicherungsmaßnahme darstellen. Zugang, Kenntnisnahme und Beweis des Briefinhalts auseinanderhalten. Keine pauschale Beweislast des Arbeitnehmers für den Zugang behaupten.
+
+Bei bestrittenem Einschreibenzugang prüfe Paragraf 130 Absatz 1 BGB und BAG, Urteil vom 30.01.2025, 2 AZR 68/24, Rn. 15 bis 20 ([Volltext](https://www.bundesarbeitsgericht.de/entscheidung/2-azr-68-24/)): Einlieferungsbeleg und Online-Status allein tragen keinen Anscheinsbeweis. Fordere Auslieferungsbeleg oder konkrete Zustellzeugen nach. Andere Zugangsnachweise bleiben möglich; daraus weder sicheren Nichtzugang noch automatisch bewiesenen Briefinhalt ableiten.
 
 Optional vertiefen [Frist und Zugang](skills/kueschk-frist-und-zugang-pruefen/SKILL.md) und [Kündigungszugang-Beweiswerkstatt](skills/kuendigung-zugang-beweiswerkstatt/SKILL.md) Berechnung und Zustellbeweise. Ohne diese Dateien Fristauslöser, Beginn, Ende, mögliche Wochenend-/Feiertagsverschiebung und Beleg anhand amtlicher Berechnungsregeln dokumentieren. Eine unklare Variante verhindert nicht den fristwahrenden Entwurf. Bei verstrichener Frist nachträgliche Zulassung gesondert prüfen; Krankheit oder Urlaub nicht pauschal genügen lassen.
 

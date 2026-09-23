@@ -1,92 +1,44 @@
 ---
 name: umwandlung-verschmelzung-kapitalerhoehung
-description: "Für Notariat im Alltag: Umwandlung – Verschmelzung, Spaltung, Formwechsel, Registervollzug: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Bereitet Verschmelzung, Spaltung und Formwechsel für das Notariat vor: Rechtsträger, Vertrags- und Beschlussentwürfe, Schlussbilanz, Zustimmungen und Registerfolge. Eine bloße GmbH-Kapitalerhöhung wird an den Kapitalmaßnahmen-Skill übergeben."
 ---
 
-# Notariat im Alltag: Umwandlung – Verschmelzung, Spaltung, Formwechsel, Registervollzug
+# 1. Umwandlungsurkunden und Registerfolge vorbereiten
 
-## Arbeitsweg
+## 1. Zweck und Anwendungsfall
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Führe einen festgelegten Umwandlungsauftrag vom Gesellschaftsordner zu den zusammenpassenden Urkunden- und Anmeldeentwürfen. Mitarbeiter bereiten vor; notarielle Prüfung, Beurkundung, Bescheinigung und Einreichungsfreigabe bleiben beim Notar. Ein steuerliches Ziel allein bestimmt noch nicht den gesellschaftsrechtlichen Weg.
 
-## Zweck und Anwendungsbereich
+## 2. Eingaben
 
-Umwandlungen nach dem UmwG (Verschmelzung, Spaltung, Formwechsel, Vermögensübertragung) sind komplexe strukturverändernde Maßnahmen, die umfangreiche notarielle Begleitung erfordern. Dieser Skill gibt einen Überblick über das Verfahren und die notariellen Beurkundungspflichten.
+Lies Strukturvorgabe, Registerauszüge, geltende Satzungen, Beteiligungsaufstellung, Bilanzstichtag und vorhandene Beraterentwürfe. Bei bloßen Unterlagen ohne Auftrag frage: „Soll Vermögen auf einen anderen Rechtsträger übergehen oder soll derselbe Rechtsträger nur seine Rechtsform wechseln?“ Bei eindeutiger Vorgabe beginne die Urkundenmappe, ohne alle Möglichkeiten vorzutragen.
 
-Rechtsgrundlagen: UmwG (Umwandlungsgesetz), §§ 2–38 UmwG (Verschmelzung), §§ 123–173 UmwG (Spaltung), §§ 190–304 UmwG (Formwechsel), §§ 305–320 UmwG (Vermögensübertragung), § 13 UmwG (notarielle Beurkundung), § 17 UmwG (Anmeldung), GmbHG, AktG, HGB, GNotKG.
+## 3. Ablauf
 
-## Umwandlungsarten im Überblick
+### 3.1. Rechtsträger und Vorgang festlegen
 
-| Art | Norm | Ergebnis |
-|---|---|---|
-| Verschmelzung durch Aufnahme | §§ 2–38 UmwG | Übertragendes Unternehmen erlischt, übernehmend bleibt |
-| Verschmelzung durch Neugründung | §§ 36–38 UmwG | Beide erlöschen, neues entsteht |
-| Aufspaltung | § 123 Abs. 1 UmwG | Übertragendes erlischt, Teile gehen auf bestehende/neue über |
-| Abspaltung | § 123 Abs. 2 UmwG | Übertragender besteht fort; Teil geht über |
-| Ausgliederung | § 123 Abs. 3 UmwG | Übertragendes besteht fort; Teil wird in neue Gesellschaft ausgegliedert |
-| Formwechsel | §§ 190–304 UmwG | Rechtsform ändert sich, Identität bleibt |
+Bei Verschmelzung erfasse übertragenden und übernehmenden Rechtsträger, bei Spaltung Vermögenszuordnung und Empfänger der neuen Anteile. Ausgliederung und Abspaltung unterscheiden sich gerade darin, wer die Gegenleistung erhält. Bei Formwechsel bleibt der Rechtsträger bestehen. Eine bloße Kapitalerhöhung führt zu `kapitalerhoehung-beschluss-register`, nicht durch sämtliche Umwandlungsschritte.
 
-## Notarielle Beurkundungspflichten
+### 3.2. Urkunden und Verzichtserklärungen zuordnen
 
-- **Verschmelzungsvertrag:** Notarielle Beurkundung (§ 6 UmwG) wenn beteiligte Rechtsträger AG, KGaA, SE oder GmbH
-- **Formwechselbeschluss:** Notarielle Beurkundung (§ 193 Abs. 3 UmwG)
-- **Spaltungsplan:** Notarielle Beurkundung (§ 136 UmwG)
-- **Handelsregisteranmeldung:** Öffentlich beglaubigte Unterschrift (§ 12 HGB)
+Verschmelzungsvertrag nach UmwG Paragrafen 4 bis 6 und Zustimmungsbeschlüsse nach Paragraf 13 getrennt vorbereiten. Paragraf 6 gilt nicht nur für eine willkürliche Auswahl von Kapitalgesellschaften. Berichte, Prüfungen und zulässige Verzichte je Rechtsform und Beteiligungslage prüfen; Konzernzugehörigkeit ersetzt keinen gesetzlichen Ausnahmetatbestand. Spaltung nach Paragrafen 123 ff., Formwechselbeschluss nach Paragrafen 193 und 194 bearbeiten. Arbeitnehmerschutz und rechtzeitige Zuleitung an den zuständigen Betriebsrat nicht mit einer allgemeinen „Anhörung erledigt“ quittieren.
 
-## Vollzugskette (am Beispiel Verschmelzung)
+### 3.3. Anmeldung, Anlagen und Wirksamkeit trennen
 
-1. Verschmelzungsvertrag beurkunden (§ 6 UmwG)
-2. Gesellschafterversammlungen beider Gesellschaften, Verschmelzungsbeschluss (§§ 13–14 UmwG), notarielle Beurkundung
-3. Ausgabe Abfindungsangebot an Minderheitsgesellschafter (§ 29 UmwG, ggf.)
-4. Handelsregisteranmeldung beider Register (§ 17 UmwG)
-5. Eintragung → Rechtswirksamkeit der Verschmelzung (§ 20 UmwG)
+Bei Verschmelzung regelt Paragraf 16 die Anmeldung, Paragraf 17 die Anlagen einschließlich Schlussbilanz und Paragraf 20 die Wirkung der Eintragung beim übernehmenden Rechtsträger. Den höchstens acht Monate vor Anmeldung liegenden Bilanzstichtag nach Paragraf 17 Absatz 2 konkret berechnen. Bei Spaltung gelten insbesondere Paragrafen 129 bis 131, beim Formwechsel Paragrafen 198 bis 202. Kein Abschlussdatum, steuerlicher Rückwirkungsstichtag oder Versandbeleg ersetzt die Registereintragung.
 
-## Wirkungen der Eintragung
+### 3.4. Nach einer Antwort fortsetzen
 
-- Universalsukzession: alle Aktiva und Passiva gehen auf übernehmenden Rechtsträger über (§ 20 Abs. 1 Nr. 1 UmwG)
-- Erlöschen des übertragenden Rechtsträgers (§ 20 Abs. 1 Nr. 2 UmwG)
-- Anteilseigner werden Gesellschafter des übernehmenden Rechtsträgers
+Kommt eine neuere Schlussbilanz, aktualisiere Bilanzanlage und Anmeldeplanung, nicht ungefragt Umtauschverhältnis und Vertragsdatum. Ändert sich die Beteiligungsstruktur, prüfe dagegen genau die betroffenen Mehrheiten, Verzichtsmöglichkeiten und Kapitalmaßnahmen erneut. Fehlende Steuerfreigabe als offene Abstimmung führen, nicht steuerliche Neutralität zusichern. Bei Auslandsbezug zunächst die besonderen grenzüberschreitenden Vorschriften bestimmen.
 
-## Steuerliche Aspekte
+## 4. Quellenpflicht
 
-UmwStG (Umwandlungssteuergesetz) regelt die steuerliche Neutralität unter bestimmten Voraussetzungen. Buchwertfortführung bei Erfüllung der Voraussetzungen (§§ 11–19 UmwStG). Steuerlicher Berater muss eingebunden sein.
+Amtliche Grundlage: [UmwG](https://www.gesetze-im-internet.de/umwg_1995/), insbesondere Paragrafen 6, 13, 16, 17, 20, 123, 131, 193 und 202. Eintragungswirkungen nicht auf einen anderen Umwandlungstyp übertragen. Zitierweise nach [Quellenleitfaden](../../references/zitierweise.md); offene streitige Fragen dem Notar mit dem tatsächlich geprüften Rechtsstand vorlegen.
 
-## Prüfprogramm
+## 5. Ausgabeformat
 
-- Welche UmwG-Art passt zum Sachverhalt?
-- Sind alle beteiligten Rechtsträger umwandlungsfähig (§ 1 UmwG)?
-- Notarielle Beurkundung für Beschluss und Vertrag?
-- Gläubigerschutz beachtet (§ 22 UmwG: Sicherheitsleistung)?
-- Arbeitnehmerrecht: Betriebsrat gehört? (§ 5 UmwG)
-- Steuerliche Beratung eingebunden?
+Liefere den beauftragten Vertrag oder Beschluss und die dazugehörige Anmeldung vollständig ausformuliert als „Entwurf zur notariellen Prüfung“. Nur benötigte Anlagen ergänzen. Eine interne Reihenfolge mit abhängigen Eintragungen ersetzt die Urkundentexte nicht. Times New Roman 11 pt, dezimale Gliederung; keine erfundenen Versicherungen, Unterschriften oder Registermitteilungen.
 
-## Typische Fallen
+## 6. Beispiel
 
-- Verschmelzungsvertrag ohne notarielle Beurkundung → unwirksam.
-- Formwechselbeschluss formlos → § 193 Abs. 3 UmwG-Verstoß → Zurückweisung Registergericht.
-- Gläubigerbenachrichtigung vergessen → Schadenersatzpflicht.
-- Grundstücke im Betriebsvermögen: GrESt-Frage nicht geklärt.
-- Verschmelzung ohne vorherige Steuerberatung → stille Reserven aufgedeckt.
-
-## Rechtsquellen
-
-- UmwG: https://www.gesetze-im-internet.de/umwg_1994/
-- § 6 UmwG (Beurkundung): https://dejure.org/gesetze/UmwG/6.html
-- § 193 UmwG (Formwechsel): https://dejure.org/gesetze/UmwG/193.html
-- UmwStG: https://www.gesetze-im-internet.de/umwstg_2006/
-- BGH zu UmwG: https://www.bgh.de
-- BNotK Umwandlungsrecht: https://www.bnotk.de
-
-## Output-Formate
-
-- **Umwandlungsart-Entscheidungsbaum** (Verschmelzung / Spaltung / Formwechsel)
-- **Vollzugscockpit** (alle Schritte bis zur Eintragung)
-- **Beurkundungs-Checkliste** (welcher Akt braucht notarielle Form?)
-- **Gläubigerschutz-Protokoll**
-- **Mandantenmail** (Zeitplanung, Steuerberater einbinden)
-
-Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
+Ein Tochterunternehmen soll auf die Mutter verschmolzen werden. Der Bilanzstichtag ist bekannt, die Anmeldung verschiebt sich. Prüfe zunächst das Achtmonatsfenster und fordere nötigenfalls eine neue Schlussbilanz an. Eine bloße Korrektur des Datums im bisherigen Bilanzdokument ist keine Lösung.

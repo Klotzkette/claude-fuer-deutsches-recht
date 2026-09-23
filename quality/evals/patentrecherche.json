@@ -1,32 +1,67 @@
 {
   "schema_version": 1,
   "plugin": "patentrecherche",
-  "reviewed_on": "2026-09-17",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/patg/BJNR201170936.html",
       "checked_on": "2026-09-14",
       "supports": "Paragraf 3 unterscheidet öffentliche Zugänglichkeit und ältere später veröffentlichte Anmeldungen; Paragraf 4 grenzt deren Verwendung bei erfinderischer Tätigkeit ab."
+    },
+    {
+      "url": "https://www.epo.org/de/legal/attachments/official-journal/1991/08/p429/1991-p429.pdf",
+      "checked_on": "2026-09-22",
+      "supports": "EPA, Technische Beschwerdekammer 3.2.2, Entscheidung vom 01.09.1989, Az. T 305/87, Nummer 5.3. Anwendung: Bei Neuheit keine künstliche Merkmalskombination verschiedener Ausführungsformen derselben Quelle ohne entsprechende Offenbarung bilden. Grenze und Prüfzugang: Keine allgemeine Unzulässigkeit von Kombinationen bei erfinderischer Tätigkeit; konkret offenbartes Zusammenwirken gesondert prüfen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/patg/__3.html",
+      "checked_on": "2026-09-22",
+      "supports": "Neuheit und Stand der Technik."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/patg/__4.html",
+      "checked_on": "2026-09-22",
+      "supports": "Erfinderische Tätigkeit gegenüber dem Stand der Technik."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/patg/BJNR201170936.html",
+      "checked_on": "2026-09-23",
+      "supports": "Paragrafen 3 und 4 im Gesamttext erneut gelesen: öffentliche Zugänglichkeit, besondere ältere später veröffentlichte Anmeldungen und deren Ausschluss bei erfinderischer Tätigkeit. Keine technische Patentsuche ausgeführt."
+    },
+    {
+      "url": "https://www.epo.org/de/legal/attachments/official-journal/1991/08/p429/1991-p429.pdf",
+      "checked_on": "2026-09-23",
+      "supports": "T 305/87 Nummer 5.3 im amtlichen Amtsblatt-Auszug erneut gelesen. Anwendung auf unterschiedliche Ausführungsformen innerhalb eines Dokuments erhalten; veröffentlichter Text ausdrücklich gekürzt, keine Volltextprüfung sämtlicher Entscheidungsgründe behauptet."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der vollständig geprüfte Mini behandelt Suchläufe, Offenbarungsstellen und Recherchegrenzen eigenständig. Fehlende technische Merkmale oder Zeitangaben führen zu gezielter Klärung und danach zum aktualisierten Recherchebericht.",
+    "reason": "Individueller Ganztext-Desk-Review am 2026-09-23: Drei konkrete Rechercheeinstiege, stille Dokumentaufnahme und Weiterarbeit bei mechanischer statt elektrischer Anzeige ergänzt; Neuheits- und FTO-Grenzen erhalten.",
     "changes": [
-      "Suchprotokoll, Offenbarungsstellen und Datenbankzugriffsgrenzen eingebaut.",
-      "Priorität, Veröffentlichung und territoriale Familienprüfung getrennt.",
-      "Fortsetzung nach technischen Ergänzungen bis zum beauftragten Bericht oder Entwurf vorgesehen."
+      "T 305/87 unmittelbar in Fundstellen- und Merkmalsprüfung integriert",
+      "Neuheitsprüfung von zulässiger Kombination bei erfinderischer Tätigkeit getrennt",
+      "Recherchereichweite und fehlenden Zugang statt pauschaler Freigabe ausgewiesen",
+      "Leere Eingabe auf Suchplan, Trefferbewertung oder Drittrechte begrenzt; klare Aufgabe direkt bearbeitet.",
+      "Technische Antwort verändert Merkmalsdefinition, geplante Suchabfragen und Trefferprüfung in recherchebericht.md, ohne alte Suchläufe umzuschreiben."
     ],
-    "sha256": "977275d67d527f4a1a5b85d586e6d0c5b0f8e83f7170d6583637b3879897c47c"
+    "sha256": "421a9cc6ed27cd24eba2b95fb9836499876313bdd4c6114f8fe5c6b421c4a53c",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die vollständig gelesene Werkstatt wurde entlang Recherche, Trefferprüfung, Zeitrang und Rechtsstand neu gegliedert. Neuheitsprüfung und Benutzungsfreiheit werden nicht als austauschbare Rechercheziele behandelt.",
+    "reason": "Individueller Ganztext-Desk-Review am 2026-09-23: Suchläufe, technische Fehlstellen, Zugänglichkeitsbelege, gegenteilige Offenbarungsbefunde und Registerereignisse bis zum begrenzten Abschluss des Berichts ausgearbeitet.",
     "changes": [
-      "Technische Rückfragen mit der Überarbeitung der Suchstrategie und Merkmalsauswertung verbunden.",
-      "Bescheidantwort, Einspruch, Verletzungsverfahren und Lizenzfragen nur als beauftragte Anschlussarbeit aufgenommen; allgemeine doppelte Routen entfernt."
+      "T 305/87 unmittelbar in Fundstellen- und Merkmalsprüfung integriert",
+      "Neuheitsprüfung von zulässiger Kombination bei erfinderischer Tätigkeit getrennt",
+      "Recherchereichweite und fehlenden Zugang statt pauschaler Freigabe ausgewiesen",
+      "Konkrete Steckverbinder-Suchlogik mit Nulltreffer- und Übermengenzweigen sowie getrenntem Planungsstatus ergänzt.",
+      "Datierung von Katalog, Webseite und Familienvariante getrennt von technischem Inhalt geprüft; ältere Anmeldungen nicht zur erfinderischen Tätigkeit herangezogen.",
+      "Registerereignisse, Überwachungsanlass, technische Gegenlesart und begründete Recherchebeendigung mit Dokumentfortsetzung ergänzt."
     ],
-    "sha256": "cf39c388f84f70bf5cde8e134589ae2e72be5de939964db1a40a8f06efab202b"
+    "sha256": "b6d837003cadf7b52087cca1dd1da7abac65c1a88dd1c2f99009a978dd223a74",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
   },
   "selection": {
     "positive": [
@@ -71,5 +106,44 @@
       ],
       "target_skill": "recherchebericht-erstellen"
     }
-  ]
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "patentrecherche/patentrecherche-schnellstart.md",
+      "patentrecherche/patentrecherche-werkstatt.md",
+      "patentrecherche/README.md",
+      "quality/evals/patentrecherche.json"
+    ],
+    "opening_change": "Technische Merkmale und früheste belegte Veröffentlichung bestimmen Suchraum und Vergleich, nicht Trefferzahl.",
+    "norms": [
+      "Paragrafen 3 und 4 PatG",
+      "Artikel 54 und 56 EPÜ"
+    ],
+    "decisions": [
+      {
+        "citation": "EPA, Technische Beschwerdekammer 3.2.2, Entscheidung vom 01.09.1989, Az. T 305/87, Nummer 5.3",
+        "url": "https://www.epo.org/de/legal/attachments/official-journal/1991/08/p429/1991-p429.pdf",
+        "application": "Bei Neuheit keine künstliche Merkmalskombination verschiedener Ausführungsformen derselben Quelle ohne entsprechende Offenbarung bilden.",
+        "limit": "Keine allgemeine Unzulässigkeit von Kombinationen bei erfinderischer Tätigkeit; konkret offenbartes Zusammenwirken gesondert prüfen."
+      }
+    ],
+    "remaining_limits": [
+      "Desk-/Quellenprüfung, kein Live-Ergebnistest und keine tatsächlich ausgeführte technische Patentsuche.",
+      "Vollständige Aktualisierung sämtlicher EPA-Verfahrens- und Registerregeln nicht umfasst.",
+      "Workflow-Nachprüfung 2026-09-23: Alle bisherigen Profilquellen erneut geöffnet; Paragrafen 3/4 und T 305/87 Nummer 5.3 gelesen. Der EPA-Amtsblatttext ist ein gekürzter Entscheidungsauszug. Suchstrings wurden redaktionell entwickelt, nicht in Datenbanken ausgeführt; weder Trefferzahlen noch Registerabfragen oder technische Versuche als getestet ausgegeben."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Wahl zwischen Suchstrategie, Treffer-/Neuheitsbewertung und Drittrechten im Zielmarkt.",
+      "Dateien ohne Auftrag: Technische Beschreibung oder Treffer still lesen und nur den Recherchezweck klären.",
+      "Klarer Auftrag: Suchplan oder Bericht direkt bearbeiten; nur entscheidende technische, zeitliche oder territoriale Lücken erfragen."
+    ],
+    "continuation": "Mechanische statt elektrischer Anzeige verändert Merkmalsdefinition, Suchbegriffe und betroffene Treffer in recherchebericht.md; Prioritätsbeleg verändert die zeitliche Einordnung bei erhaltenem Suchverlauf.",
+    "enrichment": "Konkrete Suchlogik mit Varianten, belegte öffentliche Zugänglichkeit, getrennte Ausführungsformen und Gegenlesarten, Registerereignisse und begründeter Abschluss ohne Vollständigkeitsgarantie.",
+    "limits": "desk review; no live client execution"
+  }
 }

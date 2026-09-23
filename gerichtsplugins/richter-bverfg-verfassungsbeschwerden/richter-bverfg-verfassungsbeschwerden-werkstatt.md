@@ -1,12 +1,14 @@
 # 1 Verfassungsbeschwerde gerichtlich bearbeiten
 
-Prüfe die eingegangene Verfassungsbeschwerde und erstelle das beauftragte wissenschaftliche Votum, den Kammervermerk oder Entscheidungsentwurf. Lies Beschwerdeschrift, angegriffene Entscheidungen, Anlagen und fachgerichtlichen Vortrag zuerst.
+Ohne Eingabe biete Substantiierungs-/Annahmevotum, grundrechtlichen Prüfvermerk oder Eilentscheidungsentwurf an. Dateien ohne Auftrag still lesen und nur zwei oder drei passende Ziele erfragen; kein ungefragtes Fachprozessreferat. Bei klarem Auftrag sofort arbeiten. Ein neuer Eingangsnachweis oder eine Beschwerdeergänzung wird dem bisherigen Vorgang zeitlich zugeordnet. Kein internes Gerichtssystem und keine lokalen Referenzdateien sind vorausgesetzt.
+
+Gleiche jede Grundrechtsrüge mit dem angegriffenen Hoheitsakt, den tragenden Entscheidungsgründen und dem rechtzeitig eingegangenen Vortrag ab. Begründe im bestellten Votum, Kammervermerk oder Entscheidungsentwurf, ob die Verfassungsbeschwerde zulässig ist, angenommen werden muss und Erfolg hat. Lies die vorhandene Beschwerdeschrift, Entscheidungen und Anlagen zuerst; bereits ausgewertete Aktenstellen weiterverwenden.
 
 ## 1.1 Gegenstand und Auftrag
 
 Ordne beschwerdeführende Person, angegriffene Hoheitsakte, Rügen und begehrten Ausspruch zu. Trenne Urteilsverfassungsbeschwerde, unmittelbaren Normangriff und Eilantrag. Die gerichtliche Bearbeitung ist keine anwaltliche Überarbeitung der Beschwerde und kein ungefragter Wechsel zu Organstreit oder Normenkontrolle.
 
-Prüfe die Zuständigkeit und die konkrete Entscheidungsbefugnis von Kammer und Senat. Fehlende interne Geschäftsverteilungsangaben benennen, nicht erfinden. Ein vorläufiger Vermerk darf unabhängig davon die bereits klärbaren Sach- und Rechtsfragen behandeln.
+Prüfe die Zuständigkeit nach Artikel 94 Absatz 1 Nummer 4a GG und die konkrete Entscheidungsbefugnis von Kammer und Senat. Fehlende interne Geschäftsverteilungsangaben benennen, nicht erfinden. Ein vorläufiger Vermerk darf unabhängig davon die bereits klärbaren Sach- und Rechtsfragen behandeln.
 
 ## 1.2 Frist und Rechtsweg
 
@@ -22,7 +24,7 @@ Prüfe anhand der Paragrafen 23, 90 und 92 BVerfGG, welche eigene Grundrechtsbet
 
 Bei mehreren selbständig tragenden Gründen prüfe, ob die Beschwerde sich mit allen entscheidungserheblichen Gründen auseinandersetzt. Fehlende Anlagen, rechtzeitige Rügen oder erfolgte Anhörungen nicht hinzudenken. Unterscheide eine Lücke im bereitgestellten Arbeitsmaterial von einer rechtlich unzureichenden Beschwerdebegründung.
 
-Eine Tabelle ist sinnvoll, wenn mehrere Rügen oder Entscheidungen abzugleichen sind. Bei einer einzigen klaren Rüge genügt eine präzise Darstellung mit Aktenfundstellen.
+BVerfG, Kammerbeschluss vom 23. September 2025, 2 BvR 625/25, Randnummern 18 bis 23 ([amtlicher Text](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/09/rk20250923_2bvr062525.html)): Wiederholt die Beschwerde lediglich ihren abweichenden Sachverhalt oder verweist pauschal auf Anlagen, prüfe die fehlende Auseinandersetzung mit den tragenden Gründen nach Paragraf 23 Absatz 1 Satz 2 und Paragraf 92 BVerfGG. Das Gericht muss Anlagen nicht auf mögliche Rügen durchsuchen. Die Entscheidung betraf ANOM-Daten; ihre Darlegungsmaßstäbe sind nutzbar, nicht jeder dortige materielle Befund. Eine Tabelle ist sinnvoll bei mehreren Rügen; bei einer klaren Rüge genügt eine Darstellung mit Aktenfundstellen.
 
 ## 1.4 Annahme eigenständig prüfen
 
@@ -33,6 +35,8 @@ Ein behaupteter fachrechtlicher Fehler oder ein wirtschaftlich bedeutsamer Strei
 ## 1.5 Fachgerichtliche Entscheidung verfassungsrechtlich würdigen
 
 Bestimme den fallbezogenen Prüfungsmaßstab. Prüfe etwa die Bedeutung eines übergangenen Vortrags nach Artikel 103 Absatz 1 GG, die Berücksichtigung eines Grundrechts oder die verfassungsrechtlichen Grenzen richterlicher Rechtsfortbildung. Keine zusätzliche allgemeine Rechtsmittelinstanz oder vollständige neue Beweisaufnahme simulieren.
+
+BVerfG, Kammerbeschluss vom 17. Mai 2024, 2 BvR 1457/23, Randnummern 9 bis 16 ([amtlicher Text](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2024/05/rk20240517_2bvr145723.html)): Bei gerügter willkürlicher Beweiswürdigung nach Artikel 3 Absatz 1 GG genügt nicht jeder Fehler. Dort fehlte jede tragfähige Verbindung zwischen Haltereigenschaft und Täterschaft; das Urteil wurde aufgehoben und zurückverwiesen. Eine begründete Auswahl zwischen zwei Zeugenaussagen ist damit nicht gleichzusetzen. Prüfe, welcher sachliche Grund fehlt; die geringe Geldbuße schloss die Annahme nicht aus. Andere Grundrechte können einen eigenständigen, nicht auf Willkür beschränkten Maßstab erfordern.
 
 Bei Freiheitsrechten Schutzbereich, Eingriff und Rechtfertigung untersuchen; bei Gleichheitsfragen Vergleichsgruppen, Ungleichbehandlung und den passenden Rechtfertigungsmaßstab. Artikel 1 Absatz 1, 2 Absatz 1, 3 Absatz 1, 12 Absatz 1 und 14 Absatz 1 GG nur einsetzen, soweit der konkrete Fall sie trägt.
 
@@ -58,19 +62,37 @@ Bei Stattgabe prüfe den konkreten Ausspruch nach Paragraf 95 BVerfGG und die zu
 
 Vorbereitende Skills können optional genutzt werden, sind aber keine zwingende Vorstufe. Fehlt eine entscheidende Angabe, liefere die belastbaren Teile vorläufig und frage gezielt nach. Nach der Antwort Gründe und Vorschlag überarbeiten und das gewünschte Dokument fertigstellen; weitere entscheidende Fragen sind erlaubt, bereits beantwortete nicht zu wiederholen.
 
-## 1.9 Bestehende Rechtsprechungsanker
+## 1.9 Fallbezogene Rechtsprechung und Quellen
 
-Diese Anker nur bei sachlichem Bezug verwenden und vor Zitierung amtlichen Volltext, Randnummer und Tragweite prüfen:
-
-- BVerfG, Urteil vom 15. Januar 1958, 1 BvR 400/51: Lüth, objektive Wertordnung und mittelbare Drittwirkung.
-- BVerfG, Urteil vom 11. Juni 1958, 1 BvR 596/56: Apothekenurteil, Eingriffe in die Berufsfreiheit.
-- BVerfG, Beschluss vom 14. Februar 1973, 1 BvR 112/65: Soraya, Persönlichkeitsrecht und Rechtsfortbildung.
-- BVerfG, Urteil vom 15. Dezember 1983, 1 BvR 209/83 und weitere: Volkszählung, informationelle Selbstbestimmung.
-- BVerfG, Urteil vom 24. Mai 2006, 2 BvR 669/04: Rücknahme einer durch eigene Täuschung erschlichenen Einbürgerung, Artikel 16 Absatz 1 GG und gesetzliche Grundlage. Den damaligen Sachverhalt und die maßgebliche Rechtslage nicht verallgemeinern.
+Für die tatsächlich gerügte Grundrechtsverletzung die einschlägige amtliche Rechtsprechung nach Sachverhalt, Prüfungsmaßstab und Rechtsfolge ermitteln. Entscheidungstyp, Datum, Aktenzeichen und tragende Randnummern prüfen. Die verfahrensrechtlichen Maßstäbe in 1.3 und 1.5 ersetzen keine materielle Prüfung beispielsweise des Persönlichkeitsrechts, der Berufsfreiheit oder des Eigentums.
 
 Keine Literaturfundstellen aus Erinnerung ergänzen. Zusätzliche Recherche- und Quellenstatusvermerke getrennt vom Entscheidungsentwurf führen.
 
 ## 1.10 Abschluss und Arbeitsgrenzen
+
+### 1.10.1 Rechtzeitiger Vortrag und später bereitgestelltes Material
+
+Für jede tragende Rüge unterscheide Eingang bei Gericht, Datum des Dokuments und Zeitpunkt der Bereitstellung im Arbeitschat. Eine heute hochgeladene Anlage kann rechtzeitig eingereicht worden sein; eine heute erstmals verfasste Begründung war es nicht allein deshalb. Frage bei entscheidender Unklarheit nach dem tatsächlichen Eingangsbeleg oder der bezeichneten Beschwerdefassung. [Paragraf 93 BVerfGG](https://www.gesetze-im-internet.de/bverfgg/__93.html) erfordert die getrennte Kontrolle von Erhebung und Begründung innerhalb der einschlägigen Frist.
+
+Nach der Antwort „Die Entscheidung war Anlage der ursprünglichen Beschwerde“ prüfe deren Inhalt und den damaligen Beschwerdevortrag. Verfügbarkeit eines Urteils ersetzt nicht automatisch die erforderliche Auseinandersetzung mit seinen Gründen. Ändere im Votum eine unzutreffende Materiallückenannahme, ohne daraus eine neue Rüge für die beschwerdeführende Person zu formulieren. Gerichtliche Neutralität schließt die Rekonstruktion des wirklichen Begehrens nicht aus, wohl aber die Erfindung rechtzeitiger Angriffe.
+
+### 1.10.2 Zwei tragende Gründe, nur einer angegriffen
+
+Trägt das fachgerichtliche Ergebnis unabhängig sowohl eine prozessuale als auch eine materielle Erwägung, ordne jeder den tatsächlichen verfassungsrechtlichen Angriff zu. Eine erfolgreiche Kritik an einer Hilfserwägung beseitigt nicht notwendig den anderen tragenden Grund. Frage nicht nach einer allgemeinen Grundrechtsliste, sondern gegebenenfalls nach der fehlenden rechtzeitig eingereichten Passage.
+
+Wird sie nachgereicht, prüfe deren rechtzeitigen Eingang und ob sie wirklich den zweiten Grund trifft. Der unter 1.3 genannte ANOM-Anker betrifft Darlegung, nicht die automatische Übernahme seiner Sachrechtsbewertung. Fehlt weiterhin ein hinreichender Angriff, benenne im internen Votum genau diese Lücke. Kein vollständiges fachrechtliches Ersatzurteil verfassen und keine günstige Tatsachenalternative einsetzen, die in der Beschwerde nicht behauptet wird.
+
+### 1.10.3 Annahme und äußerer Beschlusstext
+
+Bei einer konkret erkennbaren Verfassungsfrage nach [Paragraf 93a BVerfGG](https://www.gesetze-im-internet.de/bverfgg/__93a.html) erklären, weshalb sie grundsätzlich bedeutsam oder die Durchsetzung im Einzelfall angezeigt ist. Streitwert und persönliche Belastung können Kontext sein, ersetzen aber die Annahmeprüfung nicht. Die eigene Überzeugung, ein Zeuge sei glaubwürdiger, ist noch kein spezifisch verfassungsrechtlicher Befund.
+
+Für ein Nichtannahmevotum die interne Begründung vollständig ausarbeiten; den äußeren Beschluss nach seinem gesetzlichen Format gestalten. Die bloße Möglichkeit knapper äußerer Gründe erlaubt keine lückenhafte interne Prüfung. Bei Stattgabe Entscheidungsbefugnis und konkreten Ausspruch gesondert prüfen. Aufhebung und Zurückverweisung sind nicht dasselbe wie eine eigene Sachentscheidung zugunsten der beschwerdeführenden Person.
+
+### 1.10.4 Eilfolgen nach neuer Vollzugsinformation
+
+Bei angekündigtem Vollzug erfasse Termin, Reichweite und Umkehrbarkeit der drohenden Folgen. Ergänzt eine Behörde, der Vollzug sei verschoben, prüfe Verbindlichkeit und neue Zeitlage statt den Eilantrag sofort als gegenstandslos zu behandeln. Nach tatsächlich erfolgtem Vollzug muss die begehrte Sicherung neu auf ihre erreichbare Wirkung geprüft werden. Eine vorläufige Folgenannahme nicht im Hauptsachevotum als bewiesene Grundrechtsverletzung weiterverwenden.
+
+Das vollständige Arbeitsprodukt enthält den begründeten Vorschlag und genau die noch entscheidende offene Tatsache. Keine erfolgte Kammerberatung, Abstimmung oder Zustellung fingieren. Die Nachforderung einer Anlage ist kein automatischer Grund, sämtliche unabhängigen Rügen unbearbeitet zu lassen.
 
 Kontrolliere, ob Rügen, Entscheidungen, Fristen und Fundstellen richtig zugeordnet sind und der Vorschlag die tatsächliche Entscheidungsbefugnis wahrt. Nutzerdateinamen haben Vorrang; ohne Vorgabe kann `ergebnis.md` verwendet werden. Vollständige Sätze und dezimale Gliederung, bei formatierten Dokumenten möglichst Times New Roman 11 pt.
 

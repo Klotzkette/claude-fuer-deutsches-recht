@@ -1,6 +1,8 @@
 # 1. Leasingakte bearbeiten
 
-Prüfe den Leasingvertrag oder die Abrechnung und verfasse den bestellten Einwand, Vertragsentwurf oder Rechenvergleich.
+Prüfe, ob die verlangten Leasingraten, Rückgabekosten und Minderwerte durch den konkreten Vertrag und den nachgewiesenen Objektzustand gedeckt sind. Verfasse daraus den bestellten Abrechnungseinwand, Vertragsentwurf oder Rechenvergleich.
+
+Bei leerem Eingang biete kurz „Rückgabeabrechnung, Mangel am Leasingobjekt oder Vertragsänderung“ an. Bei Dateien ohne Auftrag lies sie still und kläre nur, welches Ergebnis gewünscht ist. Bei klarem Auftrag beginne direkt; nur entscheidende Fragen stellen, keine Materialübersicht und keine feste Folge von Dialogrunden.
 
 Lies zuerst Sachverhalt, Vertrag, einbezogene Bedingungen, Übergabe- und Rückgabeprotokoll sowie Abrechnung. Bestimme Leasinggeber, Leasingnehmer, Lieferant und Eigentümer aus der Akte; ordne Rahmenvertrag und Einzelabruf, ohne bekannte Angaben erneut abzufragen.
 
@@ -9,6 +11,8 @@ Lies zuerst Sachverhalt, Vertrag, einbezogene Bedingungen, Übergabe- und Rückg
 Trenne Kilometerabrechnung, Restwertvereinbarung, Erwerbspflicht und Andienungsrecht. Bei Verbrauchern prüfe [Paragraf 506 Absatz 2 BGB](https://www.gesetze-im-internet.de/bgb/__506.html); leite Finanzierungshilferecht nicht allein aus dem Wort Leasing ab. Bei Maschinen erfasse Abnahme, Wartung, Ausfallzeiten und die Abtretung von Lieferantenansprüchen. Eine Lieferantenbeanstandung nicht ohne Vertragsprüfung als Berechtigung zum Einbehalt aller Leasingraten behandeln.
 
 ## 1.2. Rückgabeabrechnung
+
+BGH, Urteil vom 24. Februar 2021, VIII ZR 36/20: Kilometerleasing ohne Erwerbspflicht, Andienungsrecht und Restwertgarantie begründet über Paragraf 506 Absatz 2 BGB kein verbraucherkreditrechtliches Widerrufsrecht. Quelle: [amtliche Pressemitteilung 39/2021](https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2021/2021039.html), kein hier geprüfter Volltext. Vertragsinhalt, abweichende Erwerbspflichten, gesonderte Rechte und Abschlussweg eigenständig prüfen. Keine allgemeine Unwiderruflichkeit aller Leasingverträge behaupten.
 
 Rechne Mehr- und Minderkilometer nach Satz und Freigrenzen. Trenne Restwertdifferenz und Zustandsschäden. Ordne jede Schadensposition der Objektstelle, einem datierten Foto und dem Übergabe-/Rückgabebefund zu. Trenne Reparaturkosten, verbleibenden Minderwert und Gebühren; addiere sie nicht ungeprüft für denselben Nachteil.
 
@@ -19,6 +23,8 @@ Vergleiche vertragsgemäßen Gebrauch mit Beschädigung anhand Laufzeit, Nutzung
 Bei Mängeln Liefervertrag, abgetretene Rechte und Leasingfolgen getrennt prüfen. Bei Kündigung Rückstände, Zugang, Rückholung, Verwertungserlös und Anrechnung aufgliedern. In der Insolvenz Schuldnerseite, Gegenstand, Erfüllungsstand und Eröffnung bestimmen; [Paragraf 103 InsO](https://www.gesetze-im-internet.de/inso/__103.html) ist ein Prüfanker für unerfüllte gegenseitige Verträge, keine Lösung sämtlicher Leasingfälle.
 
 ## 1.4. Ergebnis
+
+Beispiel für eine Fortsetzung: „Die 700 Euro sind der nach Reparatur verbleibende Minderwert.“ Ergänze im vorhandenen `abrechnungseinwand.md` die Bewertungsprüfung und ändere den Saldo nur, soweit der verbleibende Nachteil belegt ist. Die bloße neue Bezeichnung rechtfertigt keine Addition zu 900 Euro Reparaturkosten. Nutzerpfad beibehalten; bei fehlendem Dateizugriff die Ersatzpassage im Chat liefern.
 
 Fehlt zu einer Schadensposition das datierte Foto oder die Bewertungsgrundlage, fordere genau diesen Nachweis an. Fehlt bei vorzeitiger Beendigung der Verwertungserlös, frage nach Verkaufsabrechnung und bereits angerechneten Beträgen. Liefere solange die prüfbaren Positionen mit einem vorläufigen Saldo; fehlende Unterlagen weder als Schadenfreiheit noch als Anerkennung behandeln.
 

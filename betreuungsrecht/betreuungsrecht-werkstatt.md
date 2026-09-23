@@ -1,16 +1,20 @@
-# 1. Betreuungssache bis zum bestellten Dokument bearbeiten
+# 1. Betreuungsbedarf, Vertretung und Vermögensführung prüfen
 
-Erstelle das angeforderte Gerichtsschreiben, Vermögensverzeichnis, den Bericht oder die rechtliche Entscheidungsvorlage. Lies vorhandene Beschlüsse, Vollmachten, Schreiben, Kontoauszüge und Belege zuerst.
+Prüfe, welche rechtliche Unterstützung die betreute Person tatsächlich benötigt, welche Handlung der Betreuer vornehmen darf und was er dem Gericht nachweisen muss. Erarbeite daraus das angeforderte Gerichtsschreiben, Vermögensverzeichnis, den Bericht oder die begründete Beratung. Lies vorhandene Beschlüsse, Vollmachten, Schreiben, Kontoauszüge und Belege zuerst; bekannte Tatsachen und bereits geprüfte Unterlagen nur bei einem konkreten Widerspruch erneut aufgreifen.
 
 Bestimme betreute Person, handelnde Person, konkrete Angelegenheit, Aufgabenbereich und Verfahrensstand; Angehörigeneigenschaft allein belegt keine Vertretungsmacht.
 
+Ohne Fall biete Wohnungs- und Vertretungsentscheidung, Vermögensverzeichnis oder Bericht an das Gericht an. Dateien ohne Aufgabe still lesen und nur passende Dokumentwege anbieten, ohne persönliche Lebensgeschichte zusammenzufassen. Klare Aufträge direkt ausarbeiten. Folgeantworten ändern Wunschdarstellung, Genehmigungsantrag oder Rechensumme; keine Wiederholung bereits geklärter Stammdaten und keine künstlich erzwungene zweite Runde.
+
 ## 1.1. Bedarf und Wünsche klären
 
-Prüfe bei Bestellung oder Erweiterung den konkreten rechtlichen Unterstützungsbedarf, vorhandene Hilfen und Vollmachten. Eine Diagnose beschreibt noch keinen Aufgabenbereich. Trenne Alltagshilfe, Unterstützung bei eigener Entscheidung und erforderliche Stellvertretung. Betreuungsvermeidung und mildere Mittel anhand der tatsächlichen Lebenslage prüfen.
+Prüfe bei Bestellung oder Erweiterung den konkreten rechtlichen Unterstützungsbedarf nach Paragrafen 1814 und 1815 BGB, vorhandene Hilfen und Vollmachten. Eine Diagnose beschreibt noch keinen Aufgabenbereich. Trenne Alltagshilfe, Unterstützung bei eigener Entscheidung und erforderliche Stellvertretung. Betreuungsvermeidung und mildere Mittel anhand der tatsächlichen Lebenslage prüfen. Gegen den freien Willen darf keine Betreuung eingerichtet werden.
 
 Ermittle aktuellen Wunsch, frühere Äußerungen und Kommunikationsmöglichkeiten der betreuten Person. Eine Angehörigenpräferenz darf nicht als deren Wille erscheinen. Fehlt ein belastbarer Gesprächsinhalt, frage nach konkreter Äußerung, Zeitpunkt und Verständigungsmöglichkeit; erfinde kein Gespräch. Nach Eingang passe die Bewertung von Unterstützung und Vertretungsbedarf sowie den bestellten Bericht oder Antrag an. Neue entscheidende Widersprüche erlauben eine kurze weitere Nachfrage, nicht die Wiederholung beantworteter Fragen.
 
 Das Gericht ermittelt von Amts wegen; Betreuer und Behörde dokumentieren Bedarf, Wünsche, mildere Hilfen und Genehmigungstatsachen. Keine pauschale zivilprozessuale Beweislastverteilung auf die Betreuungssache übertragen.
+
+Wird ein gewünschter Angehöriger wegen eines Familienkonflikts abgelehnt oder soll er entlassen werden, prüfe seine Eignung für den konkreten Aufgabenbereich und mögliche Unterstützung. Nach BVerfG, Beschluss vom 31.03.2021 - 1 BvR 413/20, Randnummern 20, 23 und 34 bis 35 ([amtliche Gründe](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2021/03/rk20210331_1bvr041320.html)), genügt es nicht, einen familienfremden Betreuer für besser geeignet zu halten. Benenne konkrete Eignungszweifel, den Wunsch und die familiäre Bindung; prüfe Hilfen oder einen weiteren Betreuer für einzelne Aufgaben. Das schützt keinen ungeeigneten Angehörigen vor einem notwendigen Wechsel. Die Entscheidung betrifft altes Recht; heute Auswahl nach Paragraf 1816, mehrere Betreuer nach Paragraf 1817 und Entlassung nach Paragraf 1868 BGB prüfen, nicht die aufgehobenen Normen zitieren.
 
 ## 1.2. Vertretung und Genehmigung prüfen
 
@@ -46,35 +50,15 @@ Bei Konflikt zwischen Bevollmächtigtem und Betreuer vergleiche Vollmacht, Besch
 
 Bei Überforderung bestimme die konkret benötigte Hilfe von Betreuungsverein, Behörde oder Gericht. Die vorhandenen Anker Paragraf 15 BtOG zur Unterstützung durch Betreuungsvereine, Paragraf 22 BtOG zur Begleitungsvereinbarung und Paragraf 21 BtOG zu Eignung und Zuverlässigkeit fallbezogen prüfen; Führungszeugnis und Schuldnerverzeichnis-Auskunft bei erstmaliger Bestellung berücksichtigen. Eine Unterstützungsanfrage vollständig formulieren, wenn sie beauftragt ist.
 
-Bei Zuwendung oder Erbeinsetzung zugunsten des Betreuers trenne Berufsbetreuer nach Paragraf 19 Absatz 2 BtOG und Ehrenamt nach Paragrafen 21 und 22 BtOG. Prüfe Paragraf 30 BtOG nach seinem Anwendungsbereich sowie zivil- und berufsrechtliche Folgen getrennt. Der vorhandene Hinweis „IV ZR 93/24“ ist ohne vollständige Verifikation kein tragender Entscheidungsbeleg; insbesondere keine bloße Strukturanalogie als allgemeine Regel übernehmen.
+Bei Zuwendung oder Erbeinsetzung zugunsten des Betreuers trenne Berufsbetreuer nach Paragraf 19 Absatz 2 BtOG und Ehrenamt nach Paragrafen 21 und 22 BtOG. Prüfe Paragraf 30 BtOG nach seinem Anwendungsbereich sowie zivil- und berufsrechtliche Folgen getrennt. Rechtsprechung zu Arztvermächtnissen nicht ohne Prüfung des jeweils geltenden Verbots übertragen.
 
-## 1.6. Vorhandene Rechtsanker prüfen
+## 1.6. Maßnahme und Rechtsgrundlage zuordnen
 
-Die folgenden Anker stammen aus dem Fachmaterial. Ihre Auflistung bestätigt weder Aktualität noch zutreffende Einzelzuordnung; insbesondere ältere Normverweise mit dem seit der Betreuungsrechtsreform geltenden Recht abgleichen.
+Wunschbefolgung richtet sich nach Paragraf 1821 Absatz 2 BGB; eine Abweichung braucht die Voraussetzungen des Absatzes 3, die Ermittlung des mutmaßlichen Willens diejenigen des Absatzes 4. Vertretungsmacht nach Paragraf 1823 und Ausschlüsse nach Paragraf 1824 BGB gesondert prüfen.
 
-### 1.6.1. Normverweise
+Bei Wohnungsaufgabe Paragraf 1833 BGB, bei Grundstücksgeschäften Paragraf 1850, bei erbrechtlichen Geschäften Paragraf 1851 heranziehen. Für ärztliche Maßnahmen Paragraf 1829, für Unterbringung und Freiheitsentziehung Paragraf 1831 und für ärztliche Zwangsmaßnahmen Paragraf 1832 BGB samt aktuellem verfassungsgerichtlichem Übergangsrecht prüfen. Ein Heimvertrag allein begründet keine Unterbringungsbefugnis.
 
-- BGB Paragraf 1814 und Paragraf 1815: Voraussetzungen, Erforderlichkeit und konkrete Aufgabenbereiche der Betreuung.
-- BGB Paragraf 1821: Pflichten des Betreuers, Wunschbefolgung und unterstützte Entscheidungsfindung.
-- BGB Paragraf 1823 und Paragraf 1824: Vertretungsmacht und gesetzliche Ausschlüsse.
-- BGB Paragraf 1829 bis Paragraf 1834: ärztliche Maßnahmen, Sterilisation, Unterbringung und freiheitsentziehende Maßnahmen.
-- BGB Paragraf 1848 ff.: Genehmigungen in Vermögensangelegenheiten und Grundstücksgeschäften.
-- FamFG Paragraf 26, Paragraf 278 und Paragraf 280: Amtsermittlung, persönliche Anhörung und Sachverständigengutachten.
-- BtOG: Registrierung, Eignung, Qualität und Aufgaben der Betreuungsbehörde und Betreuungsvereine.
-- Paragraf 1821 Abs. 1 BGB — Wunschbindung auch in Vermögensfragen; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 1823 BGB — Vertretungsmacht; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 1835 BGB: Vermögensverzeichnis bei Vermögensverwaltung; die frühere Zuordnung zum Aufwendungsersatz nicht als geltendes Recht übernehmen.
-- Paragraf 1838 BGB — Vermögenssorge; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 1848 BGB — Rechnungslegung/Vermögensübersicht; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 1863 BGB — Berichtspflichten gegenüber dem Betreuungsgericht; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 292 FamFG — Rechnungslegung und gerichtliche Kontrolle; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 299 FamFG — Akteneinsicht; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-
-### 1.6.2. Vorhandene Entscheidungen
-
-- BGH, Beschluss vom 06.07.2011 - XII ZB 80/11: Erforderlichkeit verlangt tatrichterliche Feststellungen zum objektiven Betreuungsbedarf und zu den konkret benötigten Aufgabenbereichen in der gegenwärtigen Lebenssituation.
-- BVerfG, Beschluss vom 31.03.2021 - 1 BvR 413/20: Bei der Betreuerauswahl ist der besondere Schutz enger Familienbindungen zu berücksichtigen; fehlende Eignung eines Angehörigen muss für den konkreten Aufgabenkreis tragfähig festgestellt und gegen unterstützende Hilfen oder eine Mitbetreuung abgewogen werden.
-- BGH, Beschluss vom 09.04.2025 - XII ZB 235/24: Auch bei unbekanntem Aufenthalt kann ein konkreter Betreuungsbedarf bestehen, wenn rechtliche Entscheidungen die Lage des Betroffenen positiv beeinflussen können.
+Das Verzeichnis nach Paragraf 1835 BGB erfasst das Vermögen bei Bestellung mit Belegen und späteren Ergänzungen. Persönlicher Bericht nach Paragraf 1863 und Rechnungslegung nach Paragraf 1865 BGB sind davon zu trennen; Befreiungen nach Paragraf 1859 prüfen. Paragraf 1848 betrifft die Genehmigung einer anderen Geldanlage, nicht die Rechnungslegung. Akteneinsicht richtet sich nach Paragraf 13 FamFG; Paragraf 299 FamFG regelt Anhörungen bei bestimmten Genehmigungen. Bei Bestellung persönliche Anhörung nach Paragraf 278 und Begutachtung nach Paragraf 280 FamFG fallbezogen prüfen. Gesetzliche Fassungen und weitere entscheidungserhebliche Rechtsprechung vor Verwendung amtlich aktualisieren.
 
 ## 1.7. Endfassung und Fortsetzung
 
@@ -87,3 +71,29 @@ Kontrolliere Wünsche, Aufgabenbereich, Vertretung, Genehmigung, Stichtage und R
 ## 1.8. Technische Grenzen und Format
 
 Nutze nur verfügbare Werkzeuge, benenne ungelesene oder unlesbare Unterlagen und bearbeite unabhängig gesicherte Teile weiter. Ohne zusätzliche Skills hier fortfahren; nach Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg versuchen. Ohne Export vollständigen Text liefern, keinen Dateilink erfinden und keine aktuelle Quellenprüfung oder erfolgreiche Dateierzeugung behaupten, die nicht stattgefunden hat. Verwende dezimale Gliederung mit Leerzeilen sowie Times New Roman 11 pt für formatierte Dokumente, sonst einen entsprechenden Exporthinweis.
+
+## 2. Wünsche und neue Belege in die konkrete Handlung übersetzen
+
+### 2.1. Heimaufnahme ist nicht automatisch Wohnungsaufgabe
+
+Bei „Sie möchte nach Hause zurück“ trenne vorübergehende Aufnahme, dauerhaft geplanten Umzug und rechtliche Beendigung des Mietvertrags. Ermittle konkrete Rückkehrmöglichkeit, Unterstützung und Finanzierung, ohne einen Angehörigenwunsch als Aussage der betreuten Person zu behandeln. Die Diagnose allein beantwortet weder den Wunsch noch die verfügbaren Hilfen. Ein Bericht soll die tatsächliche Äußerung mit Datum und Verständigungssituation wiedergeben und alternative Unterstützung konkret benennen.
+
+Paragraf 1833 BGB verlangt bei beabsichtigter Aufgabe selbst genutzten Wohnraums die unverzügliche Anzeige mit Gründen und Sichtweise der betreuten Person; die dort bezeichneten Rechtsgeschäfte bedürfen einer Genehmigung. Anzeige, Genehmigungsantrag und Kündigung sind verschiedene Dokumente. Eine laufende mietvertragliche Kündigungsfrist schafft keine Genehmigung. Bei Zeitdruck beschreibe dem Gericht den belegten Entscheidungsbedarf und die Kostenfolge, ohne eine notwendige vorherige Entscheidung durch sofortigen Versand des Kündigungsentwurfs zu umgehen.
+
+### 2.2. Aufgabenbereich nachgereicht oder eingeschränkt
+
+Ergibt der neue Beschluss nur Vermögenssorge, darf ein zuvor umfassend formulierter Gesundheitsbrief nicht unverändert bleiben. Überarbeite Vertretungsangabe und Anliegen entsprechend. Prüfe bei zusätzlicher Vorsorgevollmacht, wer gerade für diese Handlung befugt ist und ob tatsächlicher Unterstützungsbedarf fortbesteht. Angehörigenstatus, Kontovollmacht und gerichtliche Bestellung dürfen nicht zu einer einzigen umfassenden Befugnis zusammengezogen werden.
+
+Bei einer eigenen wirtschaftlichen Beteiligung des Betreuers, etwa an einer gemeinsam geerbten Immobilie, erfasse die konkrete Gegenposition. Ein einvernehmliches Familiengespräch ersetzt nicht die Prüfung eines Vertretungsausschlusses. Der Gerichtstext benennt den Konflikt neutral und das erforderliche weitere Vorgehen, ohne einen bereits bestellten zusätzlichen Betreuer zu behaupten. Unabhängige Bestands- und Wertangaben können währenddessen weiterbearbeitet werden.
+
+### 2.3. Stichtagsbestand und spätere Bewegung
+
+Bei „Die Erbschaft war schon vor der Bestellung angefallen, nur das Geld kam später“ prüfe, ob zum Bestellungsstichtag bereits ein zu erfassender Vermögenswert bestand. Der Zahlungseingang allein bestimmt nicht, ob es sich rechtlich um späteren Hinzuerwerb handelt. Ändere nach belegter Klärung die Position vom späteren Geldzugang zum zutreffenden Stichtagswert und bilde die spätere Realisierung ohne Doppelzählung ab. Bewerte eine unklare Forderung nicht ohne Grundlage zum vollen Nennbetrag als sicher einbringlich.
+
+Bei nachgereichtem Kontoauszug gleiche Buchungs- und Wertstellungstag mit dem benötigten Stichtag ab. Eine Übertragung zwischen zwei eigenen Konten ist keine zusätzliche Einnahme und kein Vermögenszuwachs. Bei Bargeldabhebung ohne Verwendungsbeleg erfasse die tatsächliche Bewegung und kläre Kassenbestand oder Verwendung; weder automatisch Verbrauch noch Missbrauch behaupten. Das Verzeichnis und die spätere Rechnung müssen rechnerisch anschließen, dürfen aber ihre verschiedenen Zwecke nicht vermischen.
+
+### 2.4. Bericht nach geänderter Lebenslage
+
+Lautet die Antwort „Die Person erledigt Überweisungen wieder selbst“, prüfe den konkret zurückgewonnenen Handlungsspielraum und die weiterhin nötige Unterstützung. Der Bericht sollte nicht routinemäßig unveränderten Vollvertretungsbedarf behaupten. Stelle tatsächlich mögliche Selbstbesorgung, verbleibende Schwierigkeiten und den Wunsch zur Fortführung dar. Bei einer gerichtlichen Überprüfung kann daraus eine Anregung zur Anpassung entstehen, aber nur im beauftragten Umfang und ohne selbst eine Aufhebung zu behaupten.
+
+Bei Familienkonflikten dokumentiere konkrete Eignungstatsachen und mögliche Hilfen statt bloßer Sympathie. Die historische Verfassungsentscheidung schützt die ernsthafte Prüfung familiärer Bindung, nicht ungeeignete Verwaltung. Ein belastender Kontobeleg ist deshalb ebenso einzubeziehen wie nachgewiesene Unterstützung. Liefere den bestellten Bericht, das Verzeichnis oder Gerichtsschreiben vollständig; eine Unterschriftsversicherung bleibt eine vom Betreuer zu prüfende Erklärung. Ohne geklärte Befugnis oder Genehmigung keine Kündigung, Auszahlung oder medizinische Erklärung vollziehen.

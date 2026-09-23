@@ -1,8 +1,10 @@
 # 1. Factoring: Forderungserwerb und Abrechnung prüfen
 
-Prüfe den Forderungskauf aus Sicht von Factor, Anschlusskunde oder Debitor und erstelle die bestellte Abrechnung, Vertragsbewertung oder das konkrete Schreiben. Kläre Forderungsinhaberschaft und Zahlungszuordnung vor einer Zahlungsaufforderung.
+Stimme angekaufte Rechnungen, Abtretungen und Debitorenzahlungen ab: Welche Forderung hat der Factor erworben, welche Einwendung besteht fort und wem steht der verbleibende Betrag zu? Lies zuerst Rahmenvertrag, konkrete Ankaufannahme und Zahlungsbelege. Formuliere aus der beauftragten Sicht die Abrechnung, Vertragsbewertung oder den Debitorenbrief; eine Ankaufpreiszahlung ist nicht ohne Weiteres Erfüllung der Lieferforderung.
 
 ## 1.1. Vertrag und Forderungsbestand lesen
+
+Ohne Eingabe biete Ankaufprüfung, Abrechnungsabgleich oder Debitorenantwort an. Anlagen ohne Aufgabe still lesen und nur das Ziel klären; keinen umfassenden Forderungsbericht ausgeben. Bei klarem Auftrag direkt arbeiten und nur entscheidende Lücken erfragen. Folgeantworten verändern die betroffene Erwerbsposition, Rechnung oder Klausel und den zugehörigen Entwurf. Der Text funktioniert ohne Plugin-Dateien und besondere Werkzeuge.
 
 Lies Factoringvertrag, Ankaufslisten und Annahmen, Abtretungen, Rechnungen, Leistungsnachweise, Abrechnungen und Zahlungsbelege. Übernimm Auftrag und geklärte Angaben. Trenne Grundgeschäft zwischen Anschlusskunde und Debitor, Forderungserwerb durch den Factor und interne Abrechnung; jedes Verhältnis hat eigene Ansprüche und Einwendungen.
 
@@ -62,7 +64,7 @@ Bei beauftragter Durchsetzung prüfe Zuständigkeit, Aktivlegitimation, schlüss
 
 ## 1.9. Quellen und vorhandene Anker
 
-Verifiziere tragende Normen und Entscheidungen amtlich. BGH, Beschluss vom 28.02.2012, VIII ZR 124/11, dient als vorhandener Rechercheanker zu schlüssigem Tatsachenvortrag, nicht als Ersatz für den Nachweis der Abtretung. BGH, Urteil vom 04.05.2011, VIII ZR 171/10, betrifft Verzug beim unbezahlten Tanken; diese Sonderlage trägt keine pauschale Verzugsregel für Factoringforderungen.
+BGH, Urteil vom 08.05.2014, IX ZR 128/12, Randnummern 10 bis 18 ([amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2012/IX_ZR_128-12.pdf?__blob=publicationFile&v=1)): Beim echten Factoring tilgt der Factor durch Ankaufpreiszahlung seine eigene Kaufpreisschuld, nicht die Schuld des Debitors nach Paragraf 362 BGB. Bleiben Kaufpreisforderung und wirksam übertragenes einfaches Vorbehaltseigentum zur Sicherung des Warenkredits erhalten, kann Paragraf 47 InsO zur Aussonderung führen. Prüfe deshalb neben Paragrafen 398 und 453 BGB die Eigentumsübertragung nach Paragrafen 929 und 931 BGB, den Rücktritt und Paragraf 449 BGB. Grenze die bloße Geldkreditsicherung mit Absonderung nach Paragraf 51 Nummer 1 InsO ab. Die Entscheidung belegt weder einen automatischen Eigentumsübergang mit jeder Zession noch den Wegfall des Schuldnerschutzes nach Paragraf 407 BGB.
 
 Ungeprüfte Fundstellen bleiben Recherchehinweise. Erforderliche Rechtsnachweise gehören in Gutachten oder Schriftsatz, Abrufstatus und technische Kontrollen in eine gesonderte Arbeitsnotiz. Erfinde keine Markt-, Bilanzierungs- oder Aufsichtsbestätigung aus der Vertragsbezeichnung.
 
@@ -75,3 +77,29 @@ Verwende den gewünschten Dateinamen; `ergebnis.md` ist nur ein Vorschlag ohne V
 ## 1.11. Technische Grenzen
 
 Bei fehlendem Zugriff benenne die konkrete Unterlage und bearbeite unabhängige Teile weiter; zusätzliche Skills sind optional. Ohne Export liefere den vollständigen Text und behaupte keine nicht erfolgte Recherche oder Dateierzeugung. Gliedere dezimal und verwende bei formatierten Dokumenten Times New Roman 11 pt; technische Exporthinweise bleiben außerhalb des Empfängertextes.
+
+## 1.12. Einzelankauf und kollidierende Rechte auflösen
+
+Gib jeder Forderung eine stabile Kennung aus Debitor, Grundgeschäft und Rechnung. Gleiche die angebotene Ankaufsliste mit der tatsächlich angenommenen Fassung ab. Eine vollständig ausgezahlte Sammelabrechnung kann einen Ankauf stützen, ersetzt aber nicht ohne Weiteres den Nachweis, welche einzelnen Forderungen erfasste Ausschlüsse oder Limits betreffen. Eine später stornierte und neu ausgestellte Rechnung darf nicht als zweite unabhängige Forderung in den Bestand gelangen.
+
+Bei Globalzession oder Lieferantenvorbehalt lies den konkreten Sicherungsvertrag und bestimme die erfasste Forderung. Datum der Rahmenvereinbarung, Entstehung des Anspruchs und erforderlicher Erwerbsschritt nicht austauschen. Frage nach der fehlenden Klausel oder Freigabe genau für die streitige Rechnungsgruppe. Eine allgemeine Bankbestätigung ohne passenden Umfang beseitigt nicht jede Kollision. Bei ungeklärter Priorität getrennte Erwerbsvarianten ausarbeiten und keine sichere Aktivlegitimation im Debitorenbrief behaupten.
+
+Lautet die Antwort „Diese Rechnung wurde vom Factor wegen Limitüberschreitung abgelehnt“, entferne sie aus dem gesicherten angekauften Bestand. Prüfe, ob dennoch eine gesonderte Sicherungsabtretung oder Einziehungsvereinbarung besteht; nicht allein aus dem fehlenden Ankauf auf völlige Rechtefreiheit schließen. Passe Forderungsinhaber, Zahlungsaufforderung und interne Abrechnung gemeinsam an. Das Ergebnis kann eine bezifferte Abrechnung für die erworbenen Forderungen und eine gezielte Nachforderung für den Rest sein, statt eines künstlichen Gesamtstopps.
+
+## 1.13. Debitorenzahlung und Einwendungen in den richtigen Saldo buchen
+
+Verbinde jede Zahlung mit Auftrag, Eingang, Empfänger und Tilgungsbestimmung. Bei mehreren Rechnungen darf eine Sammelzahlung nicht gleichzeitig jede Einzelposition vollständig tilgen. Prüfe bei Banklaufzeiten die rechtlich maßgeblichen Vorgänge, statt eine bloße Anweisungsbestätigung wie endgültigen Eingang zu behandeln. Rückbuchung und endgültige Gutschrift gesondert erfassen. Eine korrigierte Buchungszeile muss sich in allen abhängigen Summen und im beauftragten Schreiben wiederfinden.
+
+Nach [Paragraf 407 BGB](https://www.gesetze-im-internet.de/bgb/__407.html) ist die Kenntnis der Abtretung bei der Leistung entscheidend. Lies deshalb Wortlaut, Adressat und Zugang einer Anzeige und prüfe daneben andere konkrete Kenntnisbelege. Ein späterer Hinweis macht eine zuvor geschützte Zahlung nicht rückwirkend unwirksam. Umgekehrt ist „vor schriftlicher Anzeige“ keine ausreichende Begründung, wenn eine frühere tatsächliche Kenntnis belegt ist. Eine pauschale Formulierung auf irgendeiner Rechnung darf nicht ohne Bezug zur betroffenen Forderung als sicherer Kenntnisnachweis gelten.
+
+Ist eine Zahlung an den Anschlusskunden gegenüber dem Factor wirksam, korrigiere den Debitorensaldo und prüfe Herausgabe oder Vertragsanspruch im Innenverhältnis. Verlange nicht dieselbe erfüllende Zahlung nochmals vom Debitor. Der Ankaufpreis bleibt eine andere Leistung: Aus 50.000 Euro Nennforderung und 45.000 Euro Ankaufpreis folgt keine zusätzliche Debitorenschuld von 5.000 Euro. Gebühr, Sicherheitseinbehalt und Kaufpreisabschlag anhand ihrer jeweiligen Vertragsgrundlage erklären, nicht unter einem Restforderungsbetrag verstecken.
+
+Bei einer Mängelrüge frage nach konkret betroffener Lieferung, rechtzeitigem Vorbringen und Belegen. Die Abtretung beseitigt den Einwand nicht, seine bloße Behauptung belegt ihn aber auch nicht. Ein späteres Abnahmeprotokoll kann einen Fälligkeitseinwand ändern, ohne automatisch jeden Mangel auszuräumen. Für Aufrechnung Entstehung, Fälligkeit, Gegenseitigkeit und Kenntnis nach dem einschlägigen Schuldnerschutz gesondert prüfen. Die Antwort führt je nach Ergebnis zu Zahlung, begründeter Teilabwehr oder gezieltem Belegverlangen, nicht stets zur Vollmahnung.
+
+## 1.14. Rückgriff und Vertragsänderung wirtschaftlich präzise formulieren
+
+Bei Rückbelastung den behaupteten Auslöser benennen: Zahlungsausfall, bestrittene Leistung, Gutschrift, Limitverstoß oder fehlender Erwerb. Delkredereübernahme und Veritätszusage anhand der Vertragsfassung abgleichen. Ein Bonitätsausfall darf nicht durch bloße Umbenennung zum Veritätsmangel werden. Liegt ein wirklicher Mangel der Forderung vor, prüfe vereinbarten Rückgriff, Nachfrist, Umfang und bereits erhaltene Erlöse. Stille Einbehalte und offen ausgewiesene Rückkaufansprüche dürfen denselben Betrag nicht doppelt belasten.
+
+Lautet die Folgeantwort „Der Debitor hat inzwischen den halben Betrag bezahlt“, ordne den Erlös zunächst dem berechtigten Empfänger und der betroffenen Forderung zu. Aktualisiere anschließend Rückgriff und gegebenenfalls Einbehaltsfreigabe, statt nur den Debitorensaldo zu verändern. Trenne bestrittene Belastungen in der Abrechnung von tatsächlich fälligen Beträgen. Für einen Abrechnungswiderspruch konkrete Buchungszeile, Vertragsklausel und verlangte Korrektur nennen.
+
+Bei beauftragter Vertragsänderung formuliere Ankaufannahme, Nachweise, Abrechnungsturnus, Einbehaltsfreigabe und Rückgriffsereignis zusammenhängend. Eine neue Garantie darf nicht unbemerkt die vereinbarte Delkredereübernahme beseitigen. Bei Warenrechten die gesonderte Eigentumsübertragung und insolvenzrechtliche Einordnung aus Abschnitt 1.9 beibehalten; eine Forderungszession ist keine automatische Bestätigung aller Sicherungsrechte. Die abschließende Fassung enthält die konkret gewählte Regelung und ihre offene Freigabefrage, keine alternativlosen Blankovollmachten. Anzeige, Zahlungswegänderung und Anerkenntnis erst nach Freigabe ausführen.

@@ -1,14 +1,16 @@
 # 1. Bauträgervertrag, Zahlungen und Mängel bearbeiten
 
-Prüfe den Bauträgervertrag, bereite die Abnahme vor oder bearbeite den konkret beauftragten Zahlungs- oder Mängelstreit. Erstelle das gewünschte Gutachten, Änderungsschreiben, die Beschlussvorlage oder den bestellten Schriftsatz vollständig.
+Bestimme aus Urkunde, Bauzustand und Abnahmeerklärungen, welche Leistung der Erwerber noch verlangen kann und welche Zahlung der Bauträger bereits fordern darf. Prüfe Vertragsänderungen, Abnahme oder Mängelrechte aus der beauftragten Perspektive und formuliere das gewünschte Gutachten, Schreiben, die Beschlussvorlage oder den Schriftsatz vollständig.
 
 ## 1.1. Perspektive, Vertragsfassung und Auftrag
+
+Ohne Eingabe biete Vertragsklauseln überarbeiten, Ratenfälligkeit prüfen oder Abnahme und Mängelrechte bearbeiten an. Bei Dateien ohne Aufgabe still lesen und zwei oder drei passende Wege erfragen, noch keine Vollprüfung ausgeben. Bei klarem Auftrag unmittelbar zum bestellten Dokument arbeiten; nur entscheidende Lücken fragen. Folgeantworten ändern Bausoll, Abnahmestand oder gewählten Anspruch, ohne bekannte Parteien und Einheit erneut aufzunehmen.
 
 Lies Urkunde, Baubeschreibung, Teilungserklärung, Pläne und bisherige Korrespondenz zuerst. Übernimm bekannte Rolle und Ziele; unterscheide Erwerber, Bauträger, Gemeinschaft der Wohnungseigentümer und Verwalter. Arbeite nicht gleichzeitig für widerstreitende Seiten.
 
 Erfasse Grundstück oder Erbbaurecht, konkrete Einheit, Bauverpflichtung, Kaufpreis, Verbrauchereigenschaft, Vertragsdatum und Verfahrensstand. Prüfe die Einordnung nach Paragraf 650u BGB anhand der tatsächlich vereinbarten Bau- und Eigentumsverschaffungspflichten. Bei Umbau oder Sanierung nicht allein das Gebäudealter entscheiden lassen; eine Aufspaltung in Kauf- und Werkvertrag anhand ihres Inhalts untersuchen.
 
-Ordne die einzelnen Schutzvorschriften dem Vertragstyp zu. Die Ausschlüsse und verbleibenden Regeln nach Paragraf 650u Absatz 2 BGB sind für Paragrafen 648, 648a, 650b bis 650e, 650j, 650k, 650l, 650m und 650n BGB gesondert zu prüfen. Paragraf 650v BGB betrifft Abschlagszahlungen, nicht einen allgemeinen Verweis auf sämtliche Werkvertragsregeln.
+Ordne die einzelnen Schutzvorschriften dem Vertragstyp zu. Paragraf 650u Absatz 2 BGB schließt Paragrafen 648, 648a, 650b bis 650e, 650k Absatz 1, 650l und 650m Absatz 1 BGB aus, nicht sämtliche Verbraucherbauvorschriften. Prüfe die verbleibenden Regeln nach ihrem Anwendungsbereich. Paragraf 650v BGB betrifft Abschlagszahlungen; Paragraf 1 AbschlagsV verweist ausdrücklich auf Paragraf 650m Absatz 2 und 3 BGB.
 
 Bei Vollprüfungsauftrag alle einschlägigen Vertragsabschnitte bearbeiten. Bei einer einzelnen Ratenfrage nur die hierfür erforderlichen Unterlagen vertiefen. Ungelesene Teile in einer Arbeitsnotiz benennen; vorhandenes Material ist nicht schon der Nachweis rechtlicher Vollständigkeit.
 
@@ -40,13 +42,15 @@ Fehlt der Baufortschrittsnachweis, fordere genau den zur angeforderten Rate geh�
 
 Prüfe eine Sicherheit nach Paragraf 7 MaBV anhand des vollständigen Textes, Sicherungsumfangs, Begünstigten, Laufzeit und Freigaberegeln. Das Verhältnis zum Zahlungsmodell nach Paragraf 3 MaBV klären; eine Bürgschaft ist kein bloß dekorativer Zusatz. Paragraf 7 Absatz 1 einschließlich der Regel zur Aufrechterhaltung sowie Paragraf 12 MaBV fallbezogen prüfen.
 
-Die Fertigstellungssicherheit nach Paragraf 650m Absatz 2 BGB und eine Sicherheit nach Paragraf 7 MaBV haben unterschiedliche Prüfgegenstände. Anwendungsbereich, Höhe und fortbestehende Wirksamkeit jeweils feststellen; fehlenden Bürgschaftstext nicht durch eine vermutete Sicherheit ersetzen. Bei Rückforderungsfragen Zahlung, Anspruchsgrund, Verjährung, Aufrechnung und etwaige Erledigung gesondert behandeln.
+Die Fertigstellungssicherheit nach Paragraf 650m Absatz 2 BGB und eine Sicherheit nach Paragraf 7 MaBV haben unterschiedliche Prüfgegenstände. Beim Verbraucher sind bei erster Abschlagszahlung fünf Prozent der Gesamtvergütung für rechtzeitige Herstellung ohne wesentliche Mängel zu sichern; Art und Fortbestand der Sicherheit prüfen. Fehlenden Bürgschaftstext nicht durch eine vermutete Sicherheit ersetzen. Bei Rückforderungsfragen Zahlung, Anspruchsgrund, Verjährung, Aufrechnung und etwaige Erledigung gesondert behandeln.
+
+Verstößt der vereinbarte Zahlungszeitpunkt gegen Paragraf 3 MaBV, prüfe Paragraf 134 BGB mit Paragraf 12 MaBV: [BGH, Urteil vom 22.12.2000, VII ZR 310/99, amtlicher Volltext S. 11–16](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/1999/VII_ZR_310-99.pdf?__blob=publicationFile&v=1), verwarf den gesamten Ratenplan statt einen gesetzlichen Ersatzplan einzusetzen. Das Urteil betrifft einen Vertrag von 1994; für heutige Verträge zusätzlich Paragraf 650v BGB und Paragraf 1 AbschlagsV anwenden. Aus dem Fehler allein folgen weder unveränderte MaBV-Ersatzraten noch ein Anspruch auf Rückzahlung aller Beträge.
 
 ## 1.5. Abnahme und Mängel
 
 Trenne Sondereigentum und Gemeinschaftseigentum sowie Bauzustand, Abnahmeerklärung und Vertretungsmacht. Lies Protokoll, Vollmacht, Vertragsklauseln und Korrespondenz. Eine tatsächliche Übergabe oder fremde Unterschrift beweist nicht ohne Weiteres eine für den Erwerber wirksame Abnahme nach Paragraf 640 BGB.
 
-Bei einer Abnahme durch Erstverwalter, bauträgernahe Person, Sachverständigen oder Erwerbervertreter prüfe Bestellungsmechanismus, Vertretung und Klauselwirksamkeit. Paragraf 307 BGB und bei einschlägigen Nachzüglerklauseln Paragraf 309 Nummer 8 Buchstabe b BGB sind fallbezogen heranzuziehen. Eine Klausel über eine bereits erfolgte Gemeinschaftseigentumsabnahme nicht ungeprüft als Bindung eines späteren Erwerbers behandeln.
+Bei einer Abnahme durch Erstverwalter, bauträgernahe Person, Sachverständigen oder Erwerbervertreter prüfe Bestellungsmechanismus, Vertretung und Klauselwirksamkeit. [BGH, Beschluss vom 12.09.2013, VII ZR 308/12, Rn. 6–11](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2012/VII_ZR_308-12.pdf?__blob=publicationFile&v=1), beanstandet die formularmäßige Vollmacht an den vom Bauträger bestimmten Erstverwalter wegen ungesicherter Neutralität; bloße Widerruflichkeit reicht nicht. Wende Paragraf 307 BGB auf den konkreten Bestellungsmechanismus an und untersuche eine davon unabhängige Erwerberabnahme. Nicht jede sachverständige Vertretung ist unzulässig. Bei Nachzüglerklauseln zusätzlich Paragraf 309 Nummer 8 Buchstabe b BGB prüfen; eine behauptete frühere Abnahme bindet spätere Erwerber nicht ohne eigenen Rechtsgrund.
 
 Fehlt die Vollmacht der unterzeichnenden Person, frage gezielt danach. Bearbeite die dokumentierten Mängel unabhängig weiter. Nach Eingang Vertretung, Abnahmewirkung, Beweislast und mögliche Verjährungsfolgen erneut beurteilen; das Protokoll nicht allein wegen seiner Verfügbarkeit als wirksame Abnahme ausgeben.
 
@@ -84,7 +88,7 @@ Fehlt das tatsächliche Abstimmungsergebnis, frage nach dem Protokoll statt den 
 
 ## 1.9. Rechercheanker und Begründung
 
-Die vorhandenen Rechtsprechungsansätze bleiben Suchansätze bis zur fallbezogenen Prüfung des vollständigen Inhalts: BGH, Urteil vom 09.11.2023, VII ZR 241/22; BGH, Urteil vom 08.11.2007, VII ZR 183/05; BGH, Urteil vom 22.02.2018, VII ZR 46/17; BGH, Urteil vom 12.05.2016, VII ZR 171/15; BGH, Urteil vom 25.02.2016, VII ZR 49/15; BGH, Beschluss vom 12.09.2013, VII ZR 308/12; und BGH, Urteil vom 22.12.2000, VII ZR 310/99.
+Die oben ausgewerteten Entscheidungen zur Ratenvereinbarung und Erstverwalterabnahme tragen nur die dort bezeichneten Aussagen. Weitere, hier nicht verifizierte Suchansätze sind BGH, Urteil vom 09.11.2023, VII ZR 241/22; Urteil vom 08.11.2007, VII ZR 183/05; Urteil vom 22.02.2018, VII ZR 46/17; Urteil vom 12.05.2016, VII ZR 171/15; und Urteil vom 25.02.2016, VII ZR 49/15. Sie dürfen ohne eigene Volltextprüfung nicht als Belege in das Ergebnis gelangen.
 
 Prüfe bei Abnahmeklauseln und Nachzüglern den jeweiligen Vertrags- und Erwerbssachverhalt, bei Schadensberechnung die tatsächlich gewählte Anspruchsart und bei Ratenplänen die konkrete MaBV-Abweichung. Eine Entscheidung nicht als allgemeine Antwort für sämtliche Bauträgerfragen verwenden. Gericht, Entscheidungsform, Datum, Aktenzeichen und belegte Randnummer nur nach überprüfbarer Quelle zitieren; ungeprüfte Fundstellen nicht in die Endfassung übernehmen.
 
@@ -97,3 +101,29 @@ Kontrolliere Vertragsqualifikation, Fassung, Rechenwerte, Fristen, Abnahmestand 
 Nutzerbenannte Dateien gehen vor; `ergebnis.md` ist nur ein Standard ohne andere Vorgabe. Formatierte Dokumente soweit möglich in Times New Roman 11 pt und dezimal ausgeben. Keine Zahlung, Abnahmeerklärung, Beurkundung, Versendung oder Einreichung ohne ausdrückliche Freigabe auslösen.
 
 Ohne weitere Skills hier weiterarbeiten; sie sind optionale Hilfen. Bei fehlendem Datei- oder Quellenzugriff die konkrete Lücke in einer getrennten Arbeitsnotiz benennen und unabhängige Teile bearbeiten. Ohne Export den vollständigen Text liefern, keinen Dateilink erfinden. Neue Fassungen und widersprechende Belege erneut prüfen, aber keine vollständige Akten- oder Quellenprüfung behaupten, die nicht erfolgt ist.
+
+## 2. Vom Urkundenbefund zur Durchsetzung
+
+### 2.1. Zwei Raten und noch offene Bauteile
+
+Bei einem Plan „30 Prozent nach Erdarbeiten, 70 Prozent bei Schlüsselübergabe“ prüfe nicht nur die Summe. Ordne die zweite Rate den tatsächlich enthaltenen MaBV-Bausteinen zu und benenne, welche noch nicht erreicht sind. Nach „Fassade erst später“ bleibt deren Anteil ebenso wie die vollständige Fertigstellung eigenständig. Frage nur nach dem entscheidenden Bauzustand; eine vollständige technische Untersuchung darf durch Fotos nicht vorgetäuscht werden.
+
+Vor Unterzeichnung formuliere den konkreten Änderungswunsch an der Urkundenstelle mit nachvollziehbaren Fälligkeitsereignissen und richtiger Bezugsgröße. Nach Unterzeichnung prüfe die Rechtsfolge des bestehenden Plans, statt eine Ersatzstaffel als bereits vereinbart einzusetzen. VII ZR 310/99 ist historisch einzuordnen; die aktuelle Abschlagsregel bleibt gesondert maßgeblich. Ein bereits gezahlter Teil verändert Saldo und möglichen Anspruch, nicht rückwirkend die Wirksamkeit der Klausel.
+
+### 2.2. Neuer Plan und Sonderwunsch
+
+Ein nachgereichter Grundriss kann Entwurf, genehmigter Plan oder Vertragsanlage sein. Frage nach seiner tatsächlichen Einigung und Fassung, wenn dies offen ist. Nach „Nur vom Vertrieb geschickt“ behandle die Vertragszuordnung weiterhin als ungeklärt; nach beurkundetem Nachtrag passe Bausoll, Preis, Termin und Verweise gemeinsam an. Ein größerer Balkon darf nicht nur in der Flächenzahl erscheinen, während Baubeschreibung und Aufteilungsplan unverändert widersprechen.
+
+Bei behaupteter Verzögerung durch Sonderwunsch verlange die konkrete betroffene Leistung, Beauftragung und Auswirkung auf den Bauablauf. Eine spätere Mehrkostenrechnung belegt weder Anordnung noch gesamte Terminverschiebung. Im Verhandlungsschreiben sachlichen Einwand und gewünschten Text trennen. Ungünstige Belege wie bestätigte späte Bemusterung in die Ursachenbewertung aufnehmen; keinen pauschalen Anspruchsausschluss oder pauschale Bauträgerhaftung formulieren.
+
+### 2.3. Abnahmeprotokoll ohne gesicherte Vollmacht
+
+Bei unterzeichneter Gemeinschaftseigentumsabnahme frage nach Person, Bestellungsmechanismus und Vollmacht, soweit nicht dokumentiert. Nach „Erstverwalter vom Bauträger eingesetzt“ prüfe die konkrete Klausel mit VII ZR 308/12; nach „Erwerber hat später selbst erklärt“ untersuche diese Erklärung unabhängig. Ein unwirksamer Vertretungsweg schließt jede andere Abnahme nicht automatisch aus. Beweislast und Verjährungsbeginn müssen dem neu festgestellten Stand folgen.
+
+Erstelle bei Auftrag eine Mängelaufforderung mit Bauteil, Erscheinungsbild, Zeitpunkt und verlangter Abhilfe. Fehlt die Ursache, formuliere eine konkrete Sachverständigenfrage, keinen vermeintlich feststehenden Konstruktionsfehler. Nach Kostengutachten entscheide anhand des Auftrags und der Voraussetzungen, ob Nacherfüllung, Vorschuss, Ersatz oder Minderung verfolgt werden soll. Nicht lediglich denselben Betrag unter wechselnde Anspruchsüberschriften setzen. Gegenpositionen zu Zugang, Fristablauf und bereits angebotener Nachbesserung würdigen.
+
+### 2.4. Gemeinschaftsauftrag und Fristen
+
+Bei einer Gemeinschaft der Wohnungseigentümer kläre konkrete Rechtsverfolgungsbefugnis und Beschlusslage. Ein Verwalterauftrag ersetzt nicht automatisch jede erforderliche Entscheidung. Nach tatsächlichem Beschlussprotokoll passe Ermächtigung, Kostenrahmen und Adressat an; keinen nur vorbereiteten Beschluss als gefasst ausgeben. Für eine ausdrücklich beauftragte Beschlussanfechtung sind nach Paragraf 45 WEG die Monatsfrist für Erhebung und Zweimonatsfrist für Begründung ab Beschlussfassung getrennt zu sichern. Diese Fristen gelten nicht pauschal für sämtliche Mängelansprüche.
+
+Die Endfassung richtet sich nach der vertretenen Seite: Erwerberbrief, begründete Bauträgerantwort, Gemeinschaftsbeschluss oder bestimmter Antrag. Interne Beweislücken gehören in den Vermerk, nicht als technische Prüffelder in den Empfängertext. Nur die abhängige Zahlungs-, Abnahme- oder Prozessentscheidung offenhalten; nach vollständiger Antwort ohne neue Aufnahmerunde fertigstellen. Externe Erklärungen bedürfen Freigabe.

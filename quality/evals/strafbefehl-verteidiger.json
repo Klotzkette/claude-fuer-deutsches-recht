@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "strafbefehl-verteidiger",
-  "reviewed_on": "2026-09-17",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/stpo/__410.html",
@@ -12,27 +12,77 @@
       "url": "https://www.gesetze-im-internet.de/stpo/__411.html",
       "checked_on": "2026-09-14",
       "supports": "Besonderes Beschlussverfahren bei Beschränkung auf Tagessatzhöhe und Zustimmungserfordernissen; keine allgemeine Bindung an den Strafbefehl nach Einspruch."
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/07/rk20260715_2bvr135123.html",
+      "checked_on": "2026-09-22",
+      "supports": "BVerfG, Beschluss vom 15.07.2026, 2 BvR 1351/23, Randnummern 41 bis 54. Amtliche tragende Entscheidungsgründe gelesen. Anwendung: Tatsächliches Hindernis bei behaupteter Zwangslage in Auslieferungshaft prüfen, nicht allein Dokumentkenntnis; Verteidigerverzicht erfordert ausdrückliche konkrete Ermächtigung statt bloßer allgemeiner Anfangsvollmacht. Grenze: Zurückverweisung, keine automatische Wiedereinsetzung bei Auslandsinhaftierung; Ermächtigung kann mündlich erteilt werden. Frist, Verschulden, Tatsachenvortrag, Glaubhaftmachung und Nachholung bleiben gesondert."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stpo/__410.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aktueller amtlicher Normtext gelesen: Einspruch, Frist und Verweisung auf Rechtsmittelregeln."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stpo/__411.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aktueller amtlicher Normtext gelesen: Beschränkung auf Tagessatzhöhe und Hauptverhandlung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stpo/__44.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aktueller amtlicher Normtext gelesen: Unverschuldete Fristversäumung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stpo/__45.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aktueller amtlicher Normtext gelesen: Frist, Vortrag, Glaubhaftmachung und Nachholung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stpo/__302.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aktueller amtlicher Normtext gelesen: Ausdrückliche Ermächtigung für Verteidigerverzicht."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stpo/__32d.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aktueller amtlicher Normtext gelesen: Elektronisch einzureichender anwaltlicher Einspruch und Rücknahme."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stpo/__411.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlichen Text zum besonderen Beschlussverfahren, den Zustimmungen, Vertretung und fehlender allgemeiner Bindung an den Strafbefehl gelesen."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der vollständig geprüfte Mini behandelt Zustellung, Einspruchsumfang und Tagessatzfragen getrennt und setzt die Verteidigungsarbeit nach gezielten Nachfragen bis zum beauftragten Schreiben fort. Ein Minderungswunsch wird nicht als Beschränkungsvollmacht behandelt.",
+    "reason": "Fachliche Startvarianten und konkrete Antwortfortsetzung einzeln geprüft. Zahlungswunsch, bewusste Einspruchsbeschränkung, Tagessatzanzahl und Zahlungserleichterung trennen; zustimmungsabhängigen Beschlussweg von fortbestehender Ladung unterscheiden; Wiedereinsetzung und Nebenfolgen fallbezogen fortschreiben.",
     "changes": [
-      "Zustellung und Einspruchsumfang als erste Entscheidungspunkte aufgenommen.",
-      "Tagessatzhöhe von Schuldfrage und Tagessatzanzahl getrennt.",
-      "Sonderverfahren nach Paragraf 411 von regulärer Hauptverhandlung abgegrenzt.",
-      "Neue Zustellungs- und Einkommensnachweise in Fristprüfung, Berechnung und bestellten Entwurf übernehmen lassen."
+      "Allgemeine Anfangsvollmacht nicht als ausdrückliche konkrete Verzichtsermächtigung behandelt; keine notwendige Schriftform erfunden.",
+      "Kenntnis des Strafbefehls nicht mit Wegfall jedes Hindernisses gleichgesetzt; Tatsachen und Handlungswege prüfen.",
+      "Elektronische Pflicht nach Paragraf 32d ausdrücklich auf anwaltlichen Einspruch und Rücknahme bezogen.",
+      "Leerstart: fristwahrender Einspruch, Tagessatzhöhe oder Tatverteidigung wählen.",
+      "Neue Einkommens- und Unterhaltsbelege verändern Tagessatzbewertung und Begründung; bestrittene Täterschaft bleibt eigener Angriffspunkt. Ein anderer Zustellnachweis verändert Frist und Folgeschritte.",
+      "Zahlungswunsch, bewusste Einspruchsbeschränkung, Tagessatzanzahl und Zahlungserleichterung trennen; zustimmungsabhängigen Beschlussweg von fortbestehender Ladung unterscheiden; Wiedereinsetzung und Nebenfolgen fallbezogen fortschreiben."
     ],
-    "sha256": "0bb74427fa11ed6a22c5e6e140bde237e1b1020fd0d685ee9f0612570a6d401b"
+    "sha256": "3ddd06c3462afa37b6672a35b18bec272a2e8e8e38644803198748b3140c2458",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die Ganztextüberarbeitung führt von Zustellung und Einspruch über Tatvorwurf und Rechtsfolgen zur beauftragten Verteidigungsschrift. Wiedereinsetzung, Beschränkung und Hauptverhandlung haben eigene Voraussetzungen und Risiken.",
+    "reason": "Vollständige Werkstatt mit zusätzlichen fachlichen Entscheidungs- und Dokumentwegen einzeln geprüft. Zahlungswunsch, bewusste Einspruchsbeschränkung, Tagessatzanzahl und Zahlungserleichterung trennen; zustimmungsabhängigen Beschlussweg von fortbestehender Ladung unterscheiden; Wiedereinsetzung und Nebenfolgen fallbezogen fortschreiben.",
     "changes": [
-      "Zustellungs- und Einkommenslücken gezielt nachfordern und nach Antwort die betroffenen Frist- oder Rechtsfolgenabschnitte weiterbearbeiten lassen.",
-      "Sonderentscheidung zur Tagessatzhöhe von der regulären Hauptverhandlung getrennt und generische zusätzliche Praxisrouten entfernt."
+      "Allgemeine Anfangsvollmacht nicht als ausdrückliche konkrete Verzichtsermächtigung behandelt; keine notwendige Schriftform erfunden.",
+      "Kenntnis des Strafbefehls nicht mit Wegfall jedes Hindernisses gleichgesetzt; Tatsachen und Handlungswege prüfen.",
+      "Elektronische Pflicht nach Paragraf 32d ausdrücklich auf anwaltlichen Einspruch und Rücknahme bezogen.",
+      "Leerstart: fristwahrender Einspruch, Tagessatzhöhe oder Tatverteidigung wählen.",
+      "Neue Einkommens- und Unterhaltsbelege verändern Tagessatzbewertung und Begründung; bestrittene Täterschaft bleibt eigener Angriffspunkt. Ein anderer Zustellnachweis verändert Frist und Folgeschritte.",
+      "Zahlungswunsch, bewusste Einspruchsbeschränkung, Tagessatzanzahl und Zahlungserleichterung trennen; zustimmungsabhängigen Beschlussweg von fortbestehender Ladung unterscheiden; Wiedereinsetzung und Nebenfolgen fallbezogen fortschreiben."
     ],
-    "sha256": "8e81003c35ed724385da888a4bc554f5cb937c57f945f64a103d181f8fa3dbe1"
+    "sha256": "9556e02debc57def23ff033addffb8c4ef7ce3d1d54035f77abcbb565ed032c8",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
   },
   "selection": {
     "positive": [
@@ -77,5 +127,42 @@
       ],
       "target_skill": "strafbefehls-erstpruefung-und-mandatsziel"
     }
-  ]
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "strafbefehl-verteidiger/strafbefehl-verteidiger-schnellstart.md",
+      "strafbefehl-verteidiger/strafbefehl-verteidiger-werkstatt.md"
+    ],
+    "opening_change": "Wirksame Zustellung und verbleibenden Einspruchsumfang vor Tatnachweis, Tagessätzen und Nebenfolgen bestimmen.",
+    "norms": [
+      "Paragrafen 32a, 32d, 44, 45, 302 Absatz 2, 410 und 411 StPO"
+    ],
+    "decisions": [
+      {
+        "citation": "BVerfG, Beschluss vom 15.07.2026, 2 BvR 1351/23, Randnummern 41 bis 54",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/07/rk20260715_2bvr135123.html",
+        "application": "Tatsächliches Hindernis bei behaupteter Zwangslage in Auslieferungshaft prüfen, nicht allein Dokumentkenntnis; Verteidigerverzicht erfordert ausdrückliche konkrete Ermächtigung statt bloßer allgemeiner Anfangsvollmacht.",
+        "limit": "Zurückverweisung, keine automatische Wiedereinsetzung bei Auslandsinhaftierung; Ermächtigung kann mündlich erteilt werden. Frist, Verschulden, Tatsachenvortrag, Glaubhaftmachung und Nachholung bleiben gesondert."
+      }
+    ],
+    "remaining_limits": [
+      "Desk- und Primärquellenreview, kein Live-Client- oder Modelltest.",
+      "BVerfG hat zur weiteren Prüfung zurückverwiesen, keine Wiedereinsetzung generell gewährt.",
+      "Weitere Zustellungs-, Aufnahme-, Register- und Aufenthaltsfolgen nicht umfassend neu verifiziert.",
+      "Workflow-Vertiefung 2026-09-23: BVerfG 2 BvR 1351/23 und die vorhandene Prüfung der elektronischen Einreichungspflicht bleiben mit ihren Grenzen erhalten. Keine automatische Wiedereinsetzung oder umfassende neue Register-, Aufenthalts- und Fahrerlaubnisfolgenprüfung. Desk review; keine Live-Client-Ausführung."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leerstart: fristwahrender Einspruch, Tagessatzhöhe oder Tatverteidigung wählen.",
+      "Dateien: Strafbefehl und Zustellnachweis still lesen, keine vorzeitige Schuld- oder Sanktionsanalyse.",
+      "Klarer Auftrag: vollständigen Einspruch oder Beratungsbrief liefern, ohne ungeklärte Beschränkung."
+    ],
+    "continuation": "Neue Einkommens- und Unterhaltsbelege verändern Tagessatzbewertung und Begründung; bestrittene Täterschaft bleibt eigener Angriffspunkt. Ein anderer Zustellnachweis verändert Frist und Folgeschritte.",
+    "enrichment": "Zahlungswunsch, bewusste Einspruchsbeschränkung, Tagessatzanzahl und Zahlungserleichterung trennen; zustimmungsabhängigen Beschlussweg von fortbestehender Ladung unterscheiden; Wiedereinsetzung und Nebenfolgen fallbezogen fortschreiben.",
+    "limits": "desk review; no live client execution"
+  }
 }

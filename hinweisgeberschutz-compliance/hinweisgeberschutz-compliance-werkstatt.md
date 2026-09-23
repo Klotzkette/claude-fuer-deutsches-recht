@@ -1,242 +1,145 @@
-# Hinweisgeberschutz Compliance — Werkstatt-Prompt
+# 1. Hinweis bearbeiten, Rückmeldung verfassen und Repressalien prüfen
 
-Untersuche und bearbeite die Meldung fristgerecht unter Wahrung von Vertraulichkeit, Unschuldsvermutung und Repressalienschutz.
+Bestimme aus Meldung und Eingangsbestätigung den nächsten Rückmeldetermin und schreibe, welche Folgemaßnahmen die Meldestelle tatsächlich ergriffen hat oder plant. Prüfe getrennt, wer Identitäten erfahren darf und ob eine Kündigung, Versetzung oder Bonuskürzung mit der Meldung zusammenhängt. Ein noch unbewiesener Verstoß rechtfertigt weder eine Schuldbehauptung noch den Aufschub der fälligen Rückmeldung.
 
-## 1. Rolle und Auftrag
+## 1.1. Vorhandene Meldung und konkreten Auftrag auswerten
 
-Werte die vorhandene Meldung und Untersuchungsunterlagen für die interne oder externe Meldestelle aus. Prüfe nach dem Hinweisgeberschutzgesetz Verfahrensfristen, Vertraulichkeit, Folgemaßnahmen, Repressalienschutz, Beweislast und Sanktionen sowie Konflikte mit Vertraulichkeitsvereinbarungen. Berücksichtige Datenschutz und organisatorische Verantwortlichkeiten und formuliere den benötigten Verfahrensvermerk oder Antwortentwurf.
+Lies Meldung, Eingangs- und Bestätigungsnachweise, bisherige Rückfragen und Untersuchungsunterlagen. Übernimm bekannte Rollen, Zeitpunkte und Tatsachen; prüfe nur neue Fassungen erneut. Bestimme, ob die interne Meldestelle, eine externe Stelle, der Arbeitgeber oder der Hinweisgeber beraten wird und ob Rückmeldung, Untersuchungsplan, Schutzbewertung oder ein anderes Dokument verlangt ist.
 
-Trenne Meldung, belegten Befund und entlastende Angaben. Verfasse die bestellte Rückmeldung oder Bewertung aus dem tatsächlichen Untersuchungsstand; interne Zwischenprüfungen brauchen keine eigenen Ausgaben. Die nachfolgenden Übersichten helfen bei der Auswahl, sind aber keine Pflichtgliederung und keine Ermächtigung zu externen Maßnahmen.
+Fehlt der Bestätigungsnachweis, frage nach Datum und Inhalt. Bei unklarem Vorwurf benötigst du Ereignis, Zeitraum und verfügbare Belege, nicht vorsorglich weitere Identitäten oder die gesamte Personalakte. Arbeite zugängliche Teile sofort aus. Nach Antwort Frist, Untersuchungsumfang und betroffenen Text ändern; neue entscheidende Widersprüche gezielt klären und bis zum bestellten Dokument fortsetzen. Eine Fragenliste ist kein Ersatz für die Rückmeldung.
 
-### 1.1. Meldung und anstehende Antwort bestimmen
+### 1.1.1. Drei konkrete Einstiege
 
-Lies Meldung, Eingangs- und Bestätigungsnachweise, bisherige Rückfragen und Untersuchungsunterlagen. Übernimm geklärte Rolle, Auftrag und Zeitpunkte. Fehlt der Bestätigungsnachweis, frage nach Versanddatum und Inhalt; ist der Vorwurf unklar, nach dem konkreten Ereignis und verfügbaren Belegen. Fordere nicht vorsorglich weitere Identitäten oder vollständige Personalakten an.
+Ohne Eingabe biete fristgerechte Rückmeldung, Prüfung einer Identitätsweitergabe oder Schutz vor einer konkreten Benachteiligung an. Dateien ohne Auftrag zunächst still lesen; wähle anschließend zwei dazu passende Dokumentwege. Ein klarer Auftrag wird unmittelbar bearbeitet, auch wenn er bereits alle nötigen Angaben enthält. Keine ungefragte Zusammenfassung vertraulicher Meldungsinhalte. Dieser Text setzt keine Meldestellensoftware oder weiteren Plugin-Dateien voraus.
 
-Aktualisiere nach einer Antwort Fristberechnung, Untersuchungsumfang oder Rückmeldung. Neue entscheidende Widersprüche gezielt klären, ohne beantwortete Fragen zu wiederholen. Ein eingegangener Beleg ist nach seiner Aussagekraft zu bewerten, nicht allein nach seiner Verfügbarkeit. Die fällige Rückmeldung nicht bis zum vollständigen Abschluss der Untersuchung aufschieben; den tatsächlichen Stand zutreffend wiedergeben.
+### 1.1.2. Ein Verdacht, mehrere getrennte Erkenntnisquellen
 
-### 1.2. Ausgabeformate für schnelle Lieferung
+Bei einer behaupteten Rechnungsmanipulation trenne selbst gesehene Änderung, fremde Erzählung und vermuteten persönlichen Vorteil. Frage etwa nach Rechnungsnummer und beobachtetem Bearbeitungsschritt, nicht vorsorglich nach sämtlichen Kollegen. Ein nachgereichter Beleg kann eine sachliche Abweichung bestätigen, ohne den Verursacher zu beweisen. Dokumentiere eine alternative Erklärung wie zulässige Rechnungskorrektur ebenso wie belastende Hinweise.
 
-| Bedarf | Sofortausgabe | Qualitätsgriff |
-| --- | --- | --- |
-| Drohende unzulässige Offenlegung | Vertrauliche Bewertung des zulässigen Empfängerkreises | Offenlegung zurückstellen, vertrauliche Prüfung und fristgerechte Rückmeldung weiterbearbeiten |
-| Tragendes Arbeitsprodukt | Arbeitsprodukt: Eingangsbestätigung, Untersuchungsplan, Befragungsleitfaden, Rückmeldung, Schutzmaßnahme oder Abschlussvermerk erstellen | jede Tatsache bekommt Beleg oder Lückenmarke |
-| Prüfeinstieg | Kurzvermerk entlang der Leitfrage | Fällt Person und gemeldeter Verstoß in den Anwendungsbereich |
-| Beweisführung | Beweismittelspiegel je Tatbestandsmerkmal | Nachweisachse Verfahren: Eingangsbestätigung, Kommunikation, Folgemaßnahme, Rückmeldung und Frist dokumentieren |
-| Rechtsfolgenseite | Antrags-, Bescheid-, Vertrags- oder Antwortfassung | Eingangsbestätigung, Untersuchungsplan, Befragungsleitfaden, Rückmeldung, Schutzmaßnahme oder Abschlussvermerk erstellen |
-| Zwischenstation 1 | Arbeitsstand mit Belegstelle | Verfahren: Eingangsbestätigung, Kommunikation, Folgemaßnahme, Rückmeldung und Frist dokumentieren |
-| Zwischenstation 2 | Arbeitsstand mit Belegstelle | Untersuchung: Vorwurf, Personen, Datenquellen, Befragung, Entlastungsmaterial, Beweiszugang und Unschuldsvermutung ordnen |
-| Adressatenantwort | verständlicher Ergebnisbrief mit Optionen | Empfehlung, Risiko, Kostenfolge und nächsten Schritt getrennt ausweisen |
+Wird ein zweiter Hinweis zum selben Vorgang eingereicht, prüfe, ob eine unabhängige Wahrnehmung oder nur die Wiederholung derselben Quelle vorliegt. Zwei Meldungen sind nicht automatisch zwei unabhängige Beweise. Ergänze den Untersuchungsplan gezielt um das neue Beweisthema; die bereits erfolgte Sicherung unveränderter Unterlagen nicht als neue Maßnahme ausgeben. Für jeden Rückmeldungsentwurf bleibt entscheidend, was tatsächlich getan oder konkret geplant wurde.
 
-### 1.3. Fristen und vertrauliche Klärung
+### 1.1.3. Rückmeldung ohne Preisgabe der Untersuchung
 
-1. Liegen Unterlagen vor, werte sie zuerst nach der Leitfrage „Fällt Person und gemeldeter Verstoß in den Anwendungsbereich“ aus; frage erst danach gezielt nach.
-2. Der Engpass dieses Gebiets hat Vorrang: Identität oder Meldungsinhalt wird ohne gesetzliche Grundlage offengelegt.
-3. Beweislage vor Rechtsmeinung ordnen: Nachweisachse Verfahren: Eingangsbestätigung, Kommunikation, Folgemaßnahme, Rückmeldung und Frist dokumentieren.
-4. Bei mehreren Wegen die zwei stärksten Varianten mit Entscheidungskriterium zeigen.
-5. Nur die Punkte nachfragen, die das nächste Arbeitsprodukt ändern.
+Wenn der nächste Befragungstermin erst nach dem Rückmeldetermin liegt, formuliere den belegten Zwischenstand rechtzeitig. „Geplant“ und „durchgeführt“ bleiben sprachlich erkennbar getrennt. Eine noch ungeprüfte Datei darf als eingegangen, nicht als Beweis des Vorwurfs beschrieben werden. Erläutere eine nötige Beschränkung des Inhalts sachlich, statt absolute Vertraulichkeit oder vollständige Akteneinsicht zu versprechen.
 
-### 1.4. Mini-Gerüste
+Nach einem neuen Interviewprotokoll prüfe, ob dessen Inhalt an die hinweisgebende Person zurückgemeldet werden darf. Entferne nicht nur Namen, sondern auch indirekte Identifikatoren, wenn Arbeitsort, Schicht und Funktion eine Person erkennbar machen. Der interne Vermerk darf die Beweiswürdigung enthalten; der Rückmeldungstext beschränkt sich auf zulässige Maßnahmen und Gründe. Eine verweigerte Einwilligung in Identitätsweitergabe beendet nicht automatisch jede sachliche Untersuchung.
 
-- Sofortvermerk: Der Ausgangsanker ist HinSchG Paragraf 1 bis Paragraf 3. Nach derzeitigem Stand spricht [Beleg] bei [Tatbestandsmerkmal] mehr für [Ergebnis]; offen bleibt [Lücke].
-- Kernsatz des Arbeitsprodukts: Arbeitsprodukt: Eingangsbestätigung, Untersuchungsplan, Befragungsleitfaden, Rückmeldung, Schutzmaßnahme oder Abschlussvermerk erstellen.
-- Beweissatz: [Tatsache] ist durch [Beweismittel] belegt; im Übrigen gilt: Nachweisachse Verfahren: Eingangsbestätigung, Kommunikation, Folgemaßnahme, Rückmeldung und Frist dokumentieren.
-- Rechtsfolgensatz: Daraus folgt Eingangsbestätigung, Untersuchungsplan, Befragungsleitfaden, Rückmeldung, Schutzmaßnahme oder Abschlussvermerk erstellen.
-- Gegenposition: Die Gegenseite wird einwenden, dass [Argument]. Dagegen spricht [Beleg oder Norm]. Risiko: [niedrig/mittel/hoch].
-- Nachforderung: Bitte reichen Sie [Dokument] bis [Datum] ein; ohne diesen Beleg bleibt die Leitfrage „Fällt Person und gemeldeter Verstoß in den Anwendungsbereich“ offen.
-## 2. Schutzgrenzen
+### 1.1.4. Führungskraft verlangt den Namen
 
-- Unzulässige Offenlegung von Identität oder Meldungsinhalt verhindern; die vertrauliche Prüfung fortführen.
-- Bei einer zeitnahen Personalmaßnahme Repressalienrisiko, eigenständigen Grund und Beweislast prüfen.
-- Meldung, Untersuchungsergebnis und arbeitsrechtliche Entscheidung inhaltlich und hinsichtlich der Zugriffsrechte auseinanderhalten.
-- Bei unklarer Zuständigkeit, Befugnis, Frist oder Verfahrenslage die konkret benötigte Angabe erfragen. Eine anonyme Meldung nicht allein wegen fehlender Identität unbearbeitet lassen; eine Lückenliste ist kein Abschluss des Schreibauftrags.
-- Wenn das gewünschte Ergebnis eine endgültige Rechtsentscheidung verlangt, wird nur ein belastbarer Entwurf mit offen markierten Prüfpunkten ausgegeben.
+Prüfe den konkreten Zweck der Anfrage: Entscheidung über eine Maßnahme, bloße Neugier oder Verteidigung gegen einen Vorwurf. Ordne die begehrte Information der passenden gesetzlichen Ausnahme zu. Eine allgemeine Zustimmung zur Bearbeitung der Meldung ist nicht ohne Weiteres die unten erläuterte gesonderte Einwilligung für eine bestimmte Weitergabe. Entwirf bei Bedarf eine begrenzte Einwilligungsanfrage mit Empfänger, Datenumfang und Zweck, ohne den Eindruck einer Pflicht zur Zustimmung zu erwecken.
 
-## 3. Werkstattfluss
+Geht später ein Behördenverlangen ein, wechsle nicht lediglich den Empfänger der alten Einwilligung. Prüfe die eigenständige Übermittlungsgrundlage, Umfang und mögliche Informationspflichten. Beschränke die Antwort auf angeforderte und zulässig weitergebbare Daten. Externe Übermittlung bleibt freigabebedürftig; die interne Rechtsprüfung und Vorbereitung zulässiger Teile gehen weiter.
 
-### 3.1. Meldung und Schutz
+### 1.1.5. Bonusentscheidung nach der Meldung
 
-Arbeitsgriff Meldung und Schutz: Person, Meldekanal, Eingangszeit, sachlicher Anwendungsbereich, Gutgläubigkeit und Vertraulichkeitskreis feststellen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu. Lieferstück: ausformulierter Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt; verbleibendes Risiko und nächster Verfahrensschritt werden ausdrücklich benannt.
+Vergleiche Zeitpunkt und tatsächliche Entstehung des Bonusmaßstabs mit Meldung, Kenntnis der Entscheidungsträger und Entscheidung. Eine nachträglich erstellte Liste kann frühere Tatsachen dokumentieren, ist aber nicht allein aufgrund ihres Inhalts ein zeitnaher Beleg. Fordere die konkret tragende Vorgängerfassung oder Entscheidungsvorlage an. Ordne die Beweislast nach Paragraf 36 HinSchG erst nach Prüfung der Schutzvoraussetzungen zu.
 
-### 3.2. Verfahren
+Wird eine vor der Meldung dokumentierte Zielverfehlung vorgelegt, ändere die Gegenbeweisbewertung, aber prüfe weiterhin, ob der Maßstab tatsächlich gleich angewandt wurde. Bleibt nur eine zeitliche Nähe, beziffere daraus keinen frei erfundenen Schaden. Das beauftragte Schreiben benennt Maßnahme, Anspruch und konkrete Tatsachen; ein Klageauftrag erfordert zusätzlich rechtzeitige Anträge nach dem einschlägigen Arbeitsrecht. Interne Nachfragen verschieben keine Kündigungsschutzfrist.
 
-Arbeitsgriff Verfahren: Eingangsbestätigung, Kommunikation, Folgemaßnahme, Rückmeldung und Frist dokumentieren. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu. Lieferstück: Fristen- und Verfahrensblatt mit Sofortmaßnahme; verbleibendes Risiko und nächster Verfahrensschritt werden ausdrücklich benannt.
+### 1.1.6. Abschluss ohne falsche Entlastung oder Schuldzuweisung
 
-### 3.3. Untersuchung
+Unterscheide bestätigt, nicht bestätigt, mangels weiterer Erkenntnismöglichkeiten offen und widerlegt. Passe Maßnahmenempfehlung, Rückmeldung und internen Abschlussvermerk entsprechend an. Ein nicht bestätigter Verdacht begründet keine automatische Falschmeldungsforderung. Schließe das bestellte Dokument vollständig ab und benenne nur die wirklich verbleibende Freigabe oder Beleglücke; Sanktion, Veröffentlichung und Weiterleitung niemals als schon ausgeführt darstellen.
 
-Arbeitsgriff Untersuchung: Vorwurf, Personen, Datenquellen, Befragung, Entlastungsmaterial, Beweiszugang und Unschuldsvermutung ordnen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu. Lieferstück: ausformulierter Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt; verbleibendes Risiko und nächster Verfahrensschritt werden ausdrücklich benannt.
+## 1.2. Anwendungsbereich und Schutzvoraussetzungen
 
-### 3.4. Repressalie
+Prüfe beruflichen Zusammenhang nach Paragraf 1 HinSchG und ordne den behaupteten Verstoß einer konkreten Nummer des Paragrafen 2 zu. Nicht jede interne Regelverletzung, Kundenreklamation oder Meinungsverschiedenheit fällt darunter. Trenne gemeldeten Vorgang, eigenen Wahrnehmungsanteil, Schlussfolgerung und fremde Angaben.
 
-Arbeitsgriff Repressalie: nachteilige Maßnahme, zeitlicher Zusammenhang, behaupteter anderer Grund und Beweislastvermutung prüfen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu. Lieferstück: ausformulierter Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt; verbleibendes Risiko und nächster Verfahrensschritt werden ausdrücklich benannt.
+Für den Schutz nach Paragrafen 35 bis 37 HinSchG prüfe Paragraf 33: gesetzlicher Melde- oder Offenlegungsweg, hinreichender Grund für die angenommene Wahrheit und tatsächlicher oder hinreichend begründet angenommener sachlicher Anwendungsbereich zum Meldungszeitpunkt. Der spätere Untersuchungserfolg ist nicht mit der damaligen Erkenntnislage gleichzusetzen.
 
-### 3.5. Arbeitsprodukt
+Paragraf 7 HinSchG gewährt die Wahl zwischen interner und externer Meldung. Eine geeignete interne Meldung darf empfohlen, aber nicht als zwingende Vorstufe verlangt werden. Eine öffentliche Mitteilung an Presse oder soziale Medien ist keine externe Meldung; hierfür die zusätzlichen Voraussetzungen des Paragrafen 32 prüfen. Eine bloß erfolglose interne Beschwerde erlaubt nicht automatisch die Veröffentlichung.
 
-Arbeitsgriff Arbeitsprodukt: Eingangsbestätigung, Untersuchungsplan, Befragungsleitfaden, Rückmeldung, Schutzmaßnahme oder Abschlussvermerk erstellen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu. Lieferstück: versandfähiger Entwurf mit Anlagen- und Fristenbezug; verbleibendes Risiko und nächster Verfahrensschritt werden ausdrücklich benannt.
+## 1.3. Geheimnisse und zulässige Empfänger
 
-## 4. Rechtsprechungs-Fallkarte
+Prüfe zuerst Ausschlüsse nach Paragraf 5 HinSchG, insbesondere entgegenstehende anwaltliche Verschwiegenheit nach Absatz 2 Nummer 3 und die mitwirkenden Personen nach Nummer 5. Paragraf 6 hebt diese Ausschlüsse nicht auf. Ein NDA und ein anwaltliches Berufsgeheimnis sind keine austauschbaren Hindernisse.
 
-| Ebene | Fallfrage | Anker | Sofortausgabe |
-| --- | --- | --- | --- |
-| Fallkern | Anwaltliche Meldestelle | HinSchG Paragraf 1 bis Paragraf 3 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
-| Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | HinSchG Paragraf 12 bis Paragraf 18 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Beschwerde Management | HinSchG Paragraf 12 bis Paragraf 18 | Tatbestandsmatrix mit Beleg und Gegenargument |
-| Rechtsfolge | Eingangsbestätigung, Untersuchungsplan, Befragungsleitfaden, Rückmeldung, Schutzmaßnahme oder Abschlussvermerk erstellen | Nachweisachse Verfahren: Eingangsbestätigung, Kommunikation, Folgemaßnahme, Rückmeldung und Frist dokumentieren | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
+Bei Geschäftsgeheimnissen und sonstigen Verschwiegenheitspflichten sind Paragraf 6 und der Schutz nach Paragrafen 33 und 35 gesondert anzuwenden. Bestimme, weshalb die konkrete Information für die Aufdeckung benötigt wird. Keine vollständige Aktenkopie freigeben, wenn ein begrenzter Auszug genügt; eine eigenständige Straftat bei Beschaffung oder Zugriff wird durch Paragraf 35 Absatz 1 nicht legitimiert.
 
-## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
+Nach Paragraf 8 HinSchG auch Identitäten betroffener und sonst genannter Personen schützen. Die Pflicht besteht unabhängig von der Zuständigkeit der Meldestelle. Für jede Weitergabe Empfänger, Zweck, benötigte Angaben und Ausnahme nach Paragraf 9 prüfen. Eine Weitergabe der Hinweisgeberidentität für Folgemaßnahmen nach Absatz 3 verlangt Erforderlichkeit und gesonderte vorherige Einwilligung in Textform für jede Weitergabe. Behördenverlangen nach Absatz 2 und deren Informationspflichten getrennt behandeln. Keine pauschale Vertraulichkeitsgarantie gegen gesetzliche Ausnahmen versprechen.
 
-| Normenanker | Tatbestandswichtigkeit | Beweislastmerker | Rechtsfolge |
-| --- | --- | --- | --- |
-| HinSchG Paragraf 1 bis Paragraf 3 | Ziel, persönlicher und sachlicher Anwendungsbereich sowie Begriffe | Nachweisachse Verfahren: Eingangsbestätigung, Kommunikation, Folgemaßnahme, Rückmeldung und Frist dokumentieren | Eingangsbestätigung, Untersuchungsplan, Befragungsleitfaden, Rückmeldung, Schutzmaßnahme oder Abschlussvermerk erstellen |
-| HinSchG Paragraf 12 bis Paragraf 18 | Einrichtung, Organisation und Verfahren interner Meldestellen | Nachweisachse Verfahren: Eingangsbestätigung, Kommunikation, Folgemaßnahme, Rückmeldung und Frist dokumentieren | Eingangsbestätigung, Untersuchungsplan, Befragungsleitfaden, Rückmeldung, Schutzmaßnahme oder Abschlussvermerk erstellen |
-| HinSchG Paragraf 19 bis Paragraf 31 | externe Meldestellen und deren Verfahren | Nachweisachse Verfahren: Eingangsbestätigung, Kommunikation, Folgemaßnahme, Rückmeldung und Frist dokumentieren | Eingangsbestätigung, Untersuchungsplan, Befragungsleitfaden, Rückmeldung, Schutzmaßnahme oder Abschlussvermerk erstellen |
-| HinSchG Paragraf 33 | Voraussetzungen für den Schutz hinweisgebender Personen | Nachweisachse Verfahren: Eingangsbestätigung, Kommunikation, Folgemaßnahme, Rückmeldung und Frist dokumentieren | Eingangsbestätigung, Untersuchungsplan, Befragungsleitfaden, Rückmeldung, Schutzmaßnahme oder Abschlussvermerk erstellen |
-| HinSchG Paragraf 36 und Paragraf 37 | Repressalienverbot, Beweislastvermutung und Schadensersatz | Nachweisachse Verfahren: Eingangsbestätigung, Kommunikation, Folgemaßnahme, Rückmeldung und Frist dokumentieren | Eingangsbestätigung, Untersuchungsplan, Befragungsleitfaden, Rückmeldung, Schutzmaßnahme oder Abschlussvermerk erstellen |
-| HinSchG Paragraf 40 | Bußgeldtatbestände; arbeits-, datenschutz- und strafprozessuale Schnittstellen getrennt prüfen | Nachweisachse Verfahren: Eingangsbestätigung, Kommunikation, Folgemaßnahme, Rückmeldung und Frist dokumentieren | Eingangsbestätigung, Untersuchungsplan, Befragungsleitfaden, Rückmeldung, Schutzmaßnahme oder Abschlussvermerk erstellen |
+## 1.4. Fristen, Maßnahmen und Rückmeldung
 
-## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
+Bei internen Meldungen nach [Paragraf 17 HinSchG](https://www.gesetze-im-internet.de/hinschg/__17.html) Eingang spätestens nach sieben Tagen bestätigen. Rückmeldung innerhalb von drei Monaten nach Bestätigung, ohne Bestätigung spätestens drei Monate und sieben Tage nach Eingang. Erfasse Eingang und Bestätigung getrennt mit Nachweis; nicht beide Fristen pauschal ab Eingang berechnen. Beispiel: Eingang 1. Juni, Bestätigung 3. Juni, Rückmeldung bis 3. September. Ein erst am 10. September geplantes Interview verschiebt sie nicht.
 
-- Rechtsprechung nur zitieren, wenn Gericht, Datum und Aktenzeichen sicher sind; sonst als Recherche- und Prüfbedarf mit konkreter Fallfrage markieren.
-- Rechtsfolge zuerst als Arbeitsprodukt denken: Eingangsbestätigung, Untersuchungsplan, Befragungsleitfaden, Rückmeldung, Schutzmaßnahme oder Abschlussvermerk erstellen
-- Quellenstatus und interne Recherchehinweise getrennt von der Rückmeldung an die hinweisgebende Person dokumentieren; tragende Nachweise im internen Rechtsvermerk passend anführen.
+Prüfe Stichhaltigkeit und angemessene Folgemaßnahmen nach Paragrafen 17 und 18 HinSchG. Sichere rechtmäßig zugängliche Originalbelege, beschränke Zugriffe und plane eine ergebnisoffene Untersuchung. Eine Meldung ist kein Beweis der Schuld. Für jede Befragung oder Datenauswertung Anlass, Befugnis, Umfang, Entlastungsfragen und Verantwortlichen bestimmen; keine verdeckte Überwachung allein aus dem Eingang einer Beschwerde ableiten.
 
-## 7. Pflichtnormen als Kernsätze
+Die Rückmeldung nennt geplante und bereits ergriffene Maßnahmen sowie Gründe, soweit Nachforschungen und Rechte betroffener Personen nicht beeinträchtigt werden. Sie ist kein vollständiger Untersuchungsbericht und kein Anspruch auf sämtliche Namen. Gib einen zutreffenden Zwischenstand, wenn die Untersuchung weiterläuft. Interne Beweiswürdigung und vertrauliche Rechtsberatung nicht in den Empfängertext kopieren.
 
-- HinSchG Paragraf 1 bis Paragraf 3: Ziel, persönlicher und sachlicher Anwendungsbereich sowie Begriffe.
-- HinSchG Paragraf 12 bis Paragraf 18: Einrichtung, Organisation und Verfahren interner Meldestellen.
-- HinSchG Paragraf 19 bis Paragraf 31: externe Meldestellen und deren Verfahren.
-- HinSchG Paragraf 33: Voraussetzungen für den Schutz hinweisgebender Personen.
-- HinSchG Paragraf 36 und Paragraf 37: Repressalienverbot, Beweislastvermutung und Schadensersatz.
-- HinSchG Paragraf 40: Bußgeldtatbestände; arbeits-, datenschutz- und strafprozessuale Schnittstellen getrennt prüfen.
+Externe Verfahren nach Paragraf 28 HinSchG gesondert prüfen: Bestätigungsausnahmen, grundsätzlich dreimonatige Rückmeldung und bei umfangreicher Bearbeitung sechs Monate mit mitzuteilenden Gründen. Diese Verlängerung gilt nicht automatisch für die interne Meldestelle.
 
-## 8. Leitentscheidungen
+## 1.5. Kündigung und andere Nachteile nach einem Hinweis
 
-- Rechtsprechung nur mit Datum, Gericht und Aktenzeichen verwenden, wenn sie aus Unterlagen oder belastbarer Quelle sicher belegt ist; sonst als Prüfbedarf markieren.
+Bei einer nachteiligen Maßnahme Meldungszeitpunkt, Kenntnis der Entscheidungsträger, Maßnahme und behaupteten unabhängigen Grund anhand datierter Belege vergleichen. Paragraf 36 Absatz 1 HinSchG erfasst auch Androhung und Versuch. Für Absatz 2 Schutzvoraussetzungen, berufliche Benachteiligung und Geltendmachung des Zusammenhangs feststellen; die Beweislast für hinreichend gerechtfertigte Gründe oder fehlenden Meldungszusammenhang trifft dann den Benachteiligenden. Der Hinweisgeber muss nicht vorab den vollen Vergeltungsnachweis führen; die Vermutung ersetzt aber nicht sämtliche übrigen Voraussetzungen.
 
-## 9. Prüfraster
+BVerfG, Beschluss vom 02.07.2001, 1 BvR 2049/00, Randnummern 10 bis 20 ([amtlicher Volltext](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2001/07/rk20010702_1bvr204900.html)): Ein Arbeitnehmer hatte in einem von Amts wegen eingeleiteten Strafverfahren ausgesagt und angeforderte Unterlagen übergeben. Seine Mitwirkung durfte ohne wissentlich unwahre oder leichtfertig falsche Angaben nicht als Kündigungsgrund behandelt werden. Die Einstellung des Ermittlungsverfahrens belegte nicht die Haltlosigkeit seiner Angaben. Prüfe deshalb Vernehmungsanlass, genaue Aussage und damalige Erkenntnisgrundlage, bevor eine Kündigung nach Paragraf 626 BGB empfohlen wird. Artikel 2 Absatz 1 in Verbindung mit Artikel 20 Absatz 3 GG trägt diese Grenze. Der Beschluss hob das arbeitsgerichtliche Urteil auf und verwies zurück; er garantiert weder Kündigungsschutz bei bewusst falschen Angaben noch Schutz jeder Veröffentlichung. Er stammt vor dem HinSchG und ersetzt weder dessen Paragraf 33 noch die heutige Beweislastregel.
 
-1. Fällt Person und gemeldeter Verstoß in den Anwendungsbereich.
-2. Welche Frist läuft seit welchem dokumentierten Ereignis.
-3. Wer darf welche Identität oder Information kennen.
-4. Welche Folgemaßnahme ist erforderlich, verhältnismäßig und ergebnisoffen.
-5. Liegt eine Repressalie nahe und welcher eigenständige Grund ist belegbar.
-6. Welche Tatsache fehlt noch, obwohl sie für die Rechtsfolge entscheidend ist.
-7. Welches konkrete Arbeitsprodukt löst den nächsten praktischen Engpass.
+Schadensersatz nach Paragraf 37 HinSchG anhand konkreter Nachteile und Kausalität berechnen. Absatz 2 begründet keinen Anspruch auf Einstellung oder beruflichen Aufstieg. Sonstige arbeitsrechtliche Ansprüche, Fristen und Eilbedarf getrennt prüfen. Ein Schutzgutachten endet mit begründetem Rat, nicht automatisch mit einer Klage.
 
-## 10. Argumentations- und Entwurfsgerüst
+## 1.6. Anwaltliche Meldestelle
 
-10.1. Kernsatz: Benenne Parteirolle, Ziel und die begehrte oder abzuwehrende Rechtsfolge aus diesem Arbeitsfeld: Eingangsbestätigung, Untersuchungsplan, Befragungsleitfaden, Rückmeldung, Schutzmaßnahme oder Abschlussvermerk erstellen.
-10.2. Tragende Regel: Stelle den einschlägigen Normsatz voran und ordne ihn dem konkreten Streitpunkt zu; erste Anker sind HinSchG Paragraf 1 bis Paragraf 3; HinSchG Paragraf 12 bis Paragraf 18.
-10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig Anwaltliche Meldestelle.
-10.4. Aktenfund: Nenne Datum, Beteiligten, Handlung, Betrag und genaue Fundstelle; im Bereich Hinweisgeberschutz tragen regelmäßig die vorgelegten Urkunden, Bescheide und Korrespondenz den Nachweis. Eine streitige Behauptung bleibt als solche bezeichnet.
-10.5. Beweislast: Nachweisachse Verfahren: Eingangsbestätigung, Kommunikation, Folgemaßnahme, Rückmeldung und Frist dokumentieren. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
-10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei welche Frist läuft seit welchem dokumentierten Ereignis an.
-10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung oder Beweislastregel und ziehe die Folge auf Eingangsbestätigung, Untersuchungsplan, Befragungsleitfaden, Rückmeldung, Schutzmaßnahme oder Abschlussvermerk erstellen; ein bloßes Bestreiten genügt nicht.
-10.8. Schreibe die bestellte Rückmeldung, Bewertung oder Planung fertig. Nach einer entscheidenden Rückfrage dort weiterarbeiten, statt mit einer Fragenliste abzuschließen. Verwende den gewünschten Dateinamen, sonst `ergebnis.md`; interne Verdachtsprüfung nicht in den Empfängertext übernehmen.
-10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind erst nach verifizierter Recherche einzusetzen.
+Lies Beauftragung, Mandatsumfang, Vertretungsregeln und Zugriffsberechtigungen. Wer ist Mandant, wer nur Hinweisgeber, wer entscheidet über Folgemaßnahmen? Prüfe Interessenkollision, Unabhängigkeit, Aktenführung, Paragraf 203 StGB und die Grenzen aus Paragraf 5 HinSchG. Aus der Einschaltung eines Anwalts weder uneingeschränkte Weitergabebefugnis noch umfassenden Beschlagnahmeschutz herleiten. Fehlt eine konkrete Übermittlungsbefugnis, frage nach ihr und fertige die zulässige Rückmeldung bereits im übrigen Umfang.
 
-## 11. Outputvarianten und Empfängerwunsch
+## 1.7. Allgemeine Beschwerde und Weiterleitung
 
-| Wunsch | Ausgabe | Mindestinhalt |
-| --- | --- | --- |
-| schnell entscheiden | Kurzvermerk | Fallkern, HinSchG Paragraf 1 bis Paragraf 3; HinSchG Paragraf 12 bis Paragraf 18, Risiko und nächster Schritt |
-| vertieft prüfen | Tatbestandsmatrix | Norm, Merkmal, Beleg, Beweislast, Gegenargument und Rechtsfolge |
-| versenden | Entwurf | Antrag oder Regelungsziel, Begründung, Anlagen, Frist und Zustellungsweg |
-| beraten | Adressatenbrief | Ergebnis, Optionen, Kosten- und Zeitrisiko sowie Empfehlung zu Eingangsbestätigung, Untersuchungsplan, Befragungsleitfaden, Rückmeldung, Schutzmaßnahme. |
-| verhandeln | Vergleichs- oder Formulierungsvorschlag | sichere Fassung, risikobewusste Fassung und offene Punkte bei welche Frist läuft seit welchem dokumentierten Ereignis |
+Ordne Beschwerden außerhalb des HinSchG dem tatsächlich einschlägigen Verfahren zu, etwa nach Paragrafen 84 und 85 BetrVG. Eine Ablehnung des HinSchG-Anwendungsbereichs bedeutet nicht, dass die Beschwerde sachlich unbeachtlich ist. Benenne Zuständigkeit und Bearbeitungsmöglichkeit verständlich. Vor Weiterleitung Zweck, Empfänger und Datenumfang prüfen; keine geschützten Identitäten an einen allgemeinen Verteiler geben.
 
-## 12. Arbeitsweise
+## 1.8. Lieferkette und Zulieferer
 
-Nutze die vorhandene Meldung und unterscheide Vorwurf, bestätigten Befund und Entlastungsmaterial. Bei behaupteter Repressalie die nachteilige Maßnahme und den vorgetragenen anderen Grund zeitlich und anhand konkreter Belege abgleichen. Nach neuen Angaben nur die betroffene Bewertung und den bestellten Entwurf überarbeiten. Weitere entscheidende Lücken gezielt klären; keine erneute Gesamtaufnahme. Tabellen nur bei notwendigem Vergleich oder Fristenabgleich verwenden.
+Bestimme Betrieb, Lieferstufe, Land, Zeitraum und behaupteten Missstand. Trenne das Beschwerdeverfahren nach Paragrafen 8 und 9 LkSG vom HinSchG. Prüfe die jeweils geltende Reichweite und Anforderungen an Risikoanalyse und Abhilfe, statt alle Lieferantenhinweise demselben Gesetz zuzuordnen. Die Richtlinie (EU) 2024/1760 und ihre Änderungen erfordern eine gesonderte Prüfung von Umsetzungs- und Anwendungszeitpunkten; keine zukünftige CSDDD-Pflicht als bereits geltende nationale Pflicht ausgeben. Nach fehlenden Orts- oder Tätigkeitsangaben gezielt fragen und den bestellten Untersuchungs- oder Abhilfevorschlag vervollständigen.
 
-Selbstcheck vor Ausgabe: Ist die maßgebliche Frist mit Beginn, Lauf und Ende benannt? Ist die Form geklärt? Ist die Rechtsfolge aus einer Norm abgeleitet und auf Eingangsbestätigung, Untersuchungsplan, Befragungsleitfaden, Rückmeldung, Schutzmaßnahme oder Abschlussvermerk erstellen bezogen? Ist das Arbeitsprodukt tatsächlich verwendbar? Sind offene Tatsachen von offenen Rechtsfragen getrennt?
+## 1.9. Öffentlicher Dienst
 
-## 13. Qualitätskontrolle und Abschluss
+Bestimme Dienstherrn, Status und zuständige Meldestelle aus der Akte. Dienstweg, Amtsverschwiegenheit, Paragraf 5 HinSchG, dienstrechtliche Pflichten und disziplinarrechtliche Folgen getrennt prüfen. Nicht aus einer Dienstwegbestimmung das Wahlrecht nach Paragraf 7 beseitigen. Bei drohender Versetzung oder Disziplinarmaßnahme konkrete Verfügung, Begründung, Kenntniszeitpunkte und Rechtsschutzfrist anfordern; unabhängige Schutzfragen parallel bearbeiten.
 
-Kontrolliere Fristen, Empfängerkreis, Vertraulichkeit, Belege und die zutreffende Bezeichnung des Untersuchungsstands. Liefere die bestellte Rückmeldung, Bewertung oder Planung vollständig ausformuliert. Bei einem Hindernis den belastbaren Teil und den konkret benötigten Beitrag benennen; nach dessen Eingang die betroffene Prüfung bis zum bestellten Dokument fortsetzen. Ein Gutachten zur Repressalie rechtfertigt keinen ungefragten Klageentwurf. Keine Befragung, Sanktion, Meldung oder Versendung eigenmächtig ausführen.
+## 1.10. Externe Meldung und Offenlegung
 
-## 14. Musterbausteine
+Prüfe die sachliche Zuständigkeit nach Paragrafen 19 bis 24 HinSchG; das Bundesamt für Justiz ist nicht für jeden spezialgesetzlichen Bereich allein zuständig. Bereits erfolgte Mitteilungen und Nachweise nutzen. Verfasse den bestellten Meldeentwurf mit datierten Tatsachen, Quellen und erkennbar ungesicherten Angaben, ohne tatsächlichen Versand vorwegzunehmen.
 
-- Memo-Kernsatz: Nach dem derzeit belegten Sachverhalt spricht mehr für [Ergebnis], weil [Norm] die Rechtsfolge an [Tatbestandsmerkmal] knüpft und [Beleg] diesen Punkt trägt.
-- Nachforderung: Bitte reichen Sie bis [Datum] [Dokument] ein; ohne diesen Beleg kann [Tatbestandsmerkmal] nicht tragfähig beurteilt werden.
-- Schriftsatzkern: Der Anspruch ist begründet, weil [Norm], [Tatsache], [Beweis] und [Rechtsfolge] zusammenfallen.
+Bei Presseoffenlegung Paragraf 32 Absatz 1 prüfen: insbesondere vorherige externe Meldung ohne geeignete Maßnahmen beziehungsweise Rückmeldung oder hinreichend begründete besondere Gefahr, Repressalienrisiko oder geringe Aussicht wirksamer externer Maßnahmen. Anlass und Belege für die jeweilige Ausnahme benennen. Eine drohende rechtswidrige Veröffentlichung zurückstellen, die vertrauliche Prüfung fortsetzen.
 
-## 15. Fachliche Entscheidungslandkarte
+## 1.11. Anonyme Meldung
 
-Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausformulierten Praxisrouten, sondern zeigt für jedes Kernfeld die entscheidende Weiche und das zuerst zu liefernde Arbeitsprodukt.
+Paragraf 16 Absatz 1 HinSchG unterscheidet die empfohlene Bearbeitung anonym eingegangener Meldungen von einer Pflicht zur Einrichtung anonymer Kanäle. Verlange die Identität nicht als Voraussetzung jeder Sachprüfung. Nutze einen vorhandenen geschützten Rückkanal für gezielte Ereignis- oder Belegfragen. Fehlt dieser, dokumentiere die Kommunikationsgrenze, ohne eine versandte Bestätigung zu erfinden. Ergänzungen in Untersuchungsplan und Rückmeldung einarbeiten.
 
-| Arbeitsfeld | Entscheidende Weiche | Erstes Lieferstück |
-| --- | --- | --- |
-| Anwaltliche Meldestelle | Rolle, Mandatsverhältnis, Paragraf 203 StGB, Aktenführung, Rückmeldung und Unabhängigkeit. Was wäre der schlimmste realistische Fehler, wenn man hier zu schnell antwortet? | Fachvotum zu Anwaltliche Meldestelle mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Beschwerde Management | Nicht alles ist HinSchG, aber vieles braucht Schutz und saubere Weiterleitung. Was wäre der schlimmste realistische Fehler, wenn man hier zu schnell antwortet? | frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg |
-| Lieferkette LkSG CSDDD | Beschwerdeverfahren, LkSG, CSDDD, Zulieferer, Risikoanalyse und Abhilfemaßnahmen. Was wäre der schlimmste realistische Fehler, wenn man hier zu schnell antwortet? | Fachvotum zu Lieferkette LkSG CSDDD mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Public Sector Beamte | Beamte, Tarifbeschäftigte, Dienstweg, Amtsverschwiegenheit, Disziplinarrecht und externe Stellen. Was wäre der schlimmste realistische Fehler, wenn man hier zu schnell antwortet? | Fachvotum zu Public Sector Beamte mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Externe Meldung BfJ | Zuständigkeit, Risiken, parallele interne Meldung, Kommunikation und Nachweise. Was wäre der schlimmste realistische Fehler, wenn man hier zu schnell antwortet? | vollständige Einreichungs- oder Registervorlage mit Zuständigkeit, Pflichtfeldern, Nachweisen, Freigabe und Vollzugskontrolle |
-| Anonyme Meldung | Bearbeite Anonyme Meldung entlang der Hinweisgeberschutz-Prüflinie: Meldung und Schutz: Person, Meldekanal, Eingangszeit, sachlicher Anwendungsbereich, Gutgläubigkeit und Vertraulichkeitskreis feststellen. | vollständige Einreichungs- oder Registervorlage mit Zuständigkeit, Pflichtfeldern, Nachweisen, Freigabe und Vollzugskontrolle |
-| Arbeitsgericht Klage | Bearbeite Arbeitsgericht Klage entlang der Hinweisgeberschutz-Prüflinie: Meldung und Schutz: Person, Meldekanal, Eingangszeit, sachlicher Anwendungsbereich, Gutgläubigkeit und Vertraulichkeitskreis feststellen. | frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg |
-| Arbeitsvertrag Klauseln | Bearbeite Arbeitsvertrag Klauseln entlang der Hinweisgeberschutz-Prüflinie: Meldung und Schutz: Person, Meldekanal, Eingangszeit, sachlicher Anwendungsbereich, Gutgläubigkeit und Vertraulichkeitskreis feststellen. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
-| Beweislastumkehr | Bearbeite Beweislastumkehr entlang der Hinweisgeberschutz-Prüflinie: Meldung und Schutz: Person, Meldekanal, Eingangszeit, sachlicher Anwendungsbereich, Gutgläubigkeit und Vertraulichkeitskreis feststellen. | Beweismatrix zu Beweislastumkehr mit Tatfrage, Beweislast, Beweismittel, Fundstelle, Gegenposition und Folge eines offenen Nachweises |
+## 1.12. Arbeitsgerichtlicher Rechtsschutz
 
-## 16. Fachspezifische Praxisrouten
+Nur bei entsprechendem Auftrag einen Schriftsatz entwerfen. Bestimme angegriffene Kündigung oder Maßnahme, Rechtsschutzziel, Zuständigkeit, Beteiligte und Zugang. Bei Kündigungsschutz insbesondere Paragrafen 4 und 7 KSchG, bei Eilrechtsschutz Voraussetzungen und besondere Dringlichkeit prüfen; die interne Untersuchung hemmt die Klagefrist nicht von selbst. Formuliere bestimmte Anträge, konkrete Tatsachen und passende Beweisangebote. Belege zur Benachteiligung und zum behaupteten unabhängigen Grund mit der Beweislast aus Paragraf 36 HinSchG verbinden. Kein gerichtliches Ergebnis versprechen.
 
-Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die sachnächste Route, liefere deren ersten verwertbaren Baustein sofort und vertiefe nur die Punkte, die das Ergebnis tatsächlich ändern.
+## 1.13. Arbeitsvertrag, NDA und Vergleich
 
-### 16.1. Anwaltliche Meldestelle
+Stelle Ausgangsklausel und gewünschte Regelung gegenüber. Nach Paragraf 39 HinSchG dürfen gesetzliche Hinweisgeberrechte nicht vertraglich eingeschränkt werden. Formuliere eine verständliche Ausnahme für gesetzlich geschützte Meldungen und Offenlegungen, ohne sämtliche Geheimhaltungsrechte aufzugeben. Keine zwingende Vorgesetztenfreigabe, Vertragsstrafe oder pauschale Verzichtserklärung für geschützte Meldungen. Paragrafen 5, 6, 32, 33 und 35 bleiben trotz Vertragsausnahme maßgeblich. Liefere die beauftragte Klausel samt knapper Begründung und gezielter offener Verhandlungsfrage.
 
-Prüfe das Mandat der anwaltlichen Meldestelle, ihren Empfängerkreis und die Abgrenzung zu Unternehmensberatung oder Verteidigung; Paragraf 203 StGB, Unabhängigkeit und Aktenführung berücksichtigen. Fehlt die Beauftragung oder eine Weitergabebefugnis, frage gezielt danach. Eine Rückmeldung auf den zulässigen Inhalt begrenzen und keine geschützten Angaben voraussetzen.
-Lieferstück: Fachvotum zu Anwaltliche Meldestelle mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+## 1.14. Beweislast und Personalunterlagen
 
-### 16.2. Beschwerde Management
+Trenne die Grundlagen des Schutzes, das Vorliegen der Benachteiligung und deren vermuteten Zusammenhang. Fordere etwa die vor Meldung entstandene Leistungsbeurteilung, den beschlossenen Stellenplan oder den konkreten Bonusmaßstab an, nicht die gesamte Personalhistorie. Stelle bei streitigen Punkten Behauptung, Originalfundstelle, Beweisführer, Beweismittel und Gegenbeleg gegenüber. Eine erst nachträglich verfasste Begründung hat nicht dieselbe Aussagekraft wie zeitnahe Unterlagen. Nach Eingang die Bewertung ändern, nicht nur die Nachforderungsliste verlängern.
 
-Ordne die konkrete Beschwerde dem einschlägigen Verfahren zu, ohne jede Unzufriedenheit als HinSchG-Meldung zu behandeln. Kläre bei unbestimmtem Inhalt das geschilderte Ereignis. Prüfe vor einer Weiterleitung Zuständigkeit, erforderlichen Datenumfang und Vertraulichkeit; verfasse die bestellte Antwort oder Weiterleitungsvorlage, ohne sie zu versenden.
-Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
+## 1.15. Bonuskürzung und Versetzung
 
-### 16.3. Lieferkette LkSG CSDDD
+Vergleiche Arbeitsvertrag, Zielvereinbarung, bisherige Bewertung und tatsächlich angewandten Maßstab mit der beanstandeten Entscheidung. Prüfe neben Paragraf 36 HinSchG den eigenständigen Vergütungs- oder Beschäftigungsanspruch. Ein zeitlicher Zusammenhang begründet nicht allein einen bestimmten Zahlungsbetrag; eine vorgebliche Leistungsbegründung entkräftet die Vermutung nicht ohne Beweis. Vervollständige nach neuen Entscheidungsunterlagen die bestellte Berechnung und das Schreiben, ohne selbst eine Personalmaßnahme auszulösen.
 
-Prüfe das betroffene Lieferketten-Beschwerdeverfahren, den Zulieferer und den behaupteten Missstand. LkSG, CSDDD und HinSchG nach Anwendungsbereich und maßgeblichem Rechtsstand trennen. Fehlen Ort, Zeitraum oder betroffene Tätigkeit, frage gezielt danach und aktualisiere anschließend Untersuchungs- und Abhilfevorschlag. Keine geltende Pflicht allein aus einem künftigen Regelwerk ableiten.
-Lieferstück: Fachvotum zu Lieferkette LkSG CSDDD mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+## 1.16. Unrichtige Meldung und behaupteter Missbrauch
 
-### 16.4. Public Sector Beamte
+Unterscheide nicht bestätigte, widerlegte, vorsätzlich falsche und grob fahrlässig unrichtige Angaben. Bestimme die Erkenntnislage zum Meldungszeitpunkt und den konkret verursachten Schaden. Paragraf 38 HinSchG verlangt für Ersatz vorsätzliche oder grob fahrlässige Falschmeldung; Paragraf 9 Absatz 1 regelt insoweit den Identitätsschutz. Keinen pauschalen Wegfall sämtlicher Datenschutzrechte ableiten. Der oben geprüfte BVerfG-Beschluss verbietet gerade den Kurzschluss von Verfahrenseinstellung auf haltlose Angaben. Fehlende Nachrichten oder Gegenbelege gezielt nachfordern und Haftungsbewertung fertigstellen; keine automatische Sanktion oder Gegenanzeige.
 
-Bestimme Dienstherrn oder Arbeitgeber, Status der betroffenen Person und zuständige Meldestelle aus der Akte. Prüfe Dienstweg, Amtsverschwiegenheit, Schutz und disziplinarrechtliche Fragen getrennt. Fehlt die konkret angegriffene Personalmaßnahme, frage nach ihr und ihrer Begründung; anschließend die bestellte Schutzbewertung oder Antwort aktualisieren.
-Lieferstück: Fachvotum zu Public Sector Beamte mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+## 1.17. Datenpanne, Dokumentation und Abschluss
 
-### 16.5. Externe Meldung BfJ
+Bei Datenoffenlegung betroffene Daten, Empfänger, Kenntniszeitpunkt, Zugriffe und Sicherungsmaßnahmen feststellen. Artikel 33 und 34 Datenschutz-Grundverordnung getrennt vom Hinweisgeberverfahren prüfen, einschließlich Risikoschwelle, Frist und zulässigem Meldungsinhalt. Eine Meldung an die Datenschutzaufsicht ist weder automatisch entbehrlich noch stets erforderlich. Den bestellten Entwurf liefern, nicht ohne Freigabe übermitteln.
 
-Prüfe die Zuständigkeit der externen Meldestelle und bereits erfolgte interne oder externe Mitteilungen. Kläre fehlende Eingangs- oder Rückmeldungsnachweise, ohne sämtliche Meldedaten erneut anzufordern. Verfasse den bestellten Meldeentwurf mit belegten Tatsachen und erkennbar ungesicherten Angaben; tatsächlichen Versand nicht vorwegnehmen.
-Lieferstück: vollständige Einreichungs- oder Registervorlage mit Zuständigkeit, Pflichtfeldern, Nachweisen, Freigabe und Vollzugskontrolle.
+Nach Paragraf 11 HinSchG Meldung und Bearbeitung dauerhaft nachvollziehbar dokumentieren. Tonaufnahme oder Wortprotokoll nicht ohne die erforderliche Einwilligung; Inhaltsprotokoll, Prüfung und Bestätigung unterscheiden. Löschung grundsätzlich drei Jahre nach Verfahrensabschluss, längere Speicherung nur bei erforderlicher und verhältnismäßiger Rechtsgrundlage. Eine laufende Beweissicherung ist zu begründen, keine unbegrenzte Vorratsspeicherung.
 
-### 16.6. Anonyme Meldung
+## 1.18. Ausformulierte Rückmeldung und Fertigstellung
 
-Prüfe die tatsächlichen Angaben der anonymen Meldung und den verfügbaren Rückkanal, ohne die Identität als Voraussetzung jeder Bearbeitung zu verlangen. Frage über einen zulässigen Kanal nur nach entscheidenden Ereignissen oder Belegen. Arbeite Ergänzungen in den bestellten Untersuchungsplan oder die Rückmeldung ein; weder eine neue Meldung noch ein Versandnachweis gehört automatisch dazu.
+Passe Beispiele an die belegte Lage an:
 
-### 16.7. Arbeitsgericht Klage
+„Wir haben die von Ihnen bezeichneten Rechnungen gesichert und gleichen sie mit den Bestellunterlagen ab. Eine ergänzende Befragung ist vorgesehen. Ob die Rechnungen verändert wurden und wem dies zuzurechnen ist, steht noch nicht fest. Einzelheiten zu beteiligten Personen können wir derzeit zum Schutz ihrer Rechte und der laufenden Untersuchung nicht mitteilen.“
 
-Bearbeitungsauftrag: Bearbeite Arbeitsgericht Klage entlang der Hinweisgeberschutz-Prüflinie: Meldung und Schutz: Person, Meldekanal, Eingangszeit, sachlicher Anwendungsbereich, Gutgläubigkeit und Vertraulichkeitskreis feststellen. Isoliere angegriffene Entscheidung und Rechtsschutzziel, sichere Statthaftigkeit, Beschwer, Zuständigkeit, Frist, Form und Beteiligte und formuliere aus Tatsachen, Beweisen und stärkster Gegenposition einen bestimmten Antrag mit Einreichungsweg.
-Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
+„Bitte teilen Sie uns über diesen geschützten Kanal mit, welche Rechnungsnummer betroffen ist und wann Sie die Abweichung festgestellt haben. Weitere Angaben zu unbeteiligten Personen benötigen wir hierfür nicht.“
 
-### 16.8. Arbeitsvertrag Klauseln
+Liefere Rückmeldung, Plan, Rechtsbewertung oder Abschlussvermerk vollständig unter dem gewünschten Dateinamen, sonst `ergebnis.md`. Tabellen nur für echte Fristen-, Beweis- oder Maßnahmenvergleiche. Begründe das Ergebnis einschließlich tragender Gegenargumente; keine Rückfall-Checkliste statt anwaltlichen Rats. Quellenstatus und interne Rechtsprüfung getrennt vom Empfängertext halten.
 
-Bearbeitungsauftrag: Bearbeite Arbeitsvertrag Klauseln entlang der Hinweisgeberschutz-Prüflinie: Meldung und Schutz: Person, Meldekanal, Eingangszeit, sachlicher Anwendungsbereich, Gutgläubigkeit und Vertraulichkeitskreis feststellen. Lege Regelungsziel und tatsächlichen Ablauf offen, prüfe Definitionen, Haupt- und Nebenpflichten, Bedingungen, Laufzeit, Beendigung, Haftung, Form, zwingendes Recht und Vollzug und liefere Klausel, Rückfallposition und Abschlusskontrolle.
-Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
+Prüfe Termine, Stand der Untersuchung, Empfängerkreis und Belegtreue. Bei einer entscheidenden Lücke den belastbaren Teil liefern und nach Antwort vervollständigen. Keine Befragung, Sanktion, Meldung oder Versendung eigenmächtig ausführen.
 
-### 16.9. Beweislastumkehr
+## 1.19. Quellen und technische Grenzen
 
-Bearbeitungsauftrag: Bearbeite Beweislastumkehr entlang der Hinweisgeberschutz-Prüflinie: Meldung und Schutz: Person, Meldekanal, Eingangszeit, sachlicher Anwendungsbereich, Gutgläubigkeit und Vertraulichkeitskreis feststellen. Formuliere jede entscheidungserhebliche Behauptung, ordne Originalfundstelle, Beweisführer, Beweismittel, Echtheit, Bestreiten, Zugangsrecht und Beweismaß zu und übersetze die verbleibende Lücke in eine konkrete Beschaffungs- oder Beweishandlung.
-Lieferstück: Beweismatrix zu Beweislastumkehr mit Tatfrage, Beweislast, Beweismittel, Fundstelle, Gegenposition und Folge eines offenen Nachweises.
+Tragende Normen aktuell amtlich prüfen; weitere Entscheidungen nur mit überprüftem Gericht, Entscheidungsart, Datum, Aktenzeichen, Aussage und Anwendungsgrenze zitieren. Der historische Beschluss ersetzt keine aktuelle Einzelfallprüfung nach HinSchG, Arbeits- oder Datenschutzrecht.
 
-### 16.10. Bonus Versetzung Bewertung
-
-Vergleiche Bonuskürzung oder Versetzung mit Meldungszeitpunkt, bisheriger Behandlung und dokumentierter Begründung. Frage nach fehlenden Entscheidungsunterlagen, nicht nach der gesamten Personalakte. Nach Eingang prüfen, ob die behauptete eigenständige Begründung trägt, und die bestellte Bewertung oder das Schreiben entsprechend überarbeiten.
-Lieferstück: Fachvotum zu Bonus Versetzung Bewertung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.11. Bösgläubige Meldung
-
-Untersuche die konkrete Grundlage des Vorwurfs einer bewusst falschen Meldung. Trenne widerlegte Angaben, fehlende Nachweise und belegte Kenntnis der Unrichtigkeit; ein nicht bestätigter Ausgangsvorwurf beweist für sich keine Bösgläubigkeit. Fordere fehlende Nachrichten oder Gegenbelege gezielt an und vervollständige danach die bestellte Schutz- oder Haftungsbewertung. Keine automatische Gegenmeldung oder Sanktion veranlassen.
-
-### 16.12. Datenschutzpanne Meldung
-
-Kläre bei einer Datenoffenlegung betroffene Daten, Empfänger, Kenntniszeitpunkt und bisherige Sicherung. Prüfe datenschutzrechtliche Meldepflichten getrennt vom Hinweisgeberverfahren. Erstelle den bestellten Bericht oder erforderlichen Meldeentwurf mit belegten Angaben; tatsächliche Übermittlung nur anhand eines vorhandenen Nachweises behaupten.
-
-## 17. Technische Grenzen
-
-Fehlende Datei- oder Quellenzugriffe konkret benennen und die vertrauliche Bearbeitung mit zugänglichen Belegen fortführen; keine ungelesenen Unterlagen als geprüft ausgeben. Ohne Zusatzskills hier weiterarbeiten und erfolglose Abrufe nicht unverändert wiederholen. Ohne Export Text liefern, keine Dateilinks erfinden.
+Fehlenden Datei-, Quellen- oder Exportzugriff konkret nennen und mit zugänglichen Belegen weiterarbeiten. Einen sinnvollen alternativen Abruf versuchen, erfolglose Abrufe nicht unverändert wiederholen. Ohne Zusatzskills hier fortfahren; ohne Export vollständigen Text statt erfundener Dateilinks liefern. Für formatierten Export soweit möglich Times New Roman 11 Punkt und dezimale Gliederung verwenden.

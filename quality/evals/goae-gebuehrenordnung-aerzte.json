@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "goae-gebuehrenordnung-aerzte",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/go__1982/__5.html",
@@ -12,15 +12,27 @@
       "url": "https://www.gesetze-im-internet.de/go__1982/__12.html",
       "checked_on": "2026-09-14",
       "supports": "Absatz 3: individuelle schriftliche Begründung der jeweiligen Schwellenüberschreitung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/go__1982/__5.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aktueller amtlicher Normtext zur Prüfung: Paragraf 5 Absatz 2 und Paragraf 12 Absatz 3 GOÄ. Keine Gesamtverifikation sämtlicher Nebenmaterien."
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=pm&Blank=1&Datum=2007-11&Gericht=bgh&file=dokument.pdf&linked=urt&nr=41965",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 08.11.2007, III ZR 54/07: Durchschnittliche ärztliche Leistung darf mit 2,3 beziehungsweise einschlägig 1,8 bemessen werden; oberhalb Schwelle gesonderte Begründung prüfen. Grenze/Prüftiefe: Amtlicher Leitsatz gelesen, Volltextabruf gescheitert; nicht auf Laborsätze oder unbewiesene Leistungen übertragen."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der vollständige Mini wurde auf positionsbezogene Faktoren und tatsächliche Leistungserschwernisse geprüft.",
+    "reason": "Schnellstart vollständig individuell gelesen und überarbeitet: Rechnungspositionen, Faktoren und Korrekturbeträge anhand der Leistungsnachweise prüfen. Schwellenwert nicht als Ausnahmehonorar behandelt; Überschreitung braucht individuellen Aufwand, Laborhöchstsatz bleibt eigenständig. Redaktionelle Quellenprüfung, kein Live-Modelltest.",
     "changes": [
-      "Fehlende Leistungsdokumentation nachfordern und danach Rechnung oder Rechnungsantwort konkret überarbeiten."
+      "Schwellenwert nicht als Ausnahmehonorar behandelt; Überschreitung braucht individuellen Aufwand, Laborhöchstsatz bleibt eigenständig.",
+      "Kernfall mit operativem Entscheidungsanker, gezielten Nachfragen und Fortsetzung zum vollständigen angeforderten Dokument.",
+      "Eigenständige Starts und fachbezogene Antwortfortsetzung ergänzt."
     ],
-    "sha256": "454f3e30b78235b70c8a1e4e0479dd2c63ba4581b69eceadc02eee9b39c23563"
+    "sha256": "036e11ec18cdbdad25b0e2c82edaec1685d587d785a9e043e4995f55e8898f39"
   },
   "selection": {
     "positive": [
@@ -68,10 +80,50 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die ganze Werkstatt wurde auf Gebührenpositionen, Vereinbarungen und besondere Abrechnungslagen gelesen.",
+    "reason": "Werkstatt vollständig individuell gelesen und überarbeitet: Rechnungspositionen, Faktoren und Korrekturbeträge anhand der Leistungsnachweise prüfen. Schwellenwert nicht als Ausnahmehonorar behandelt; Überschreitung braucht individuellen Aufwand, Laborhöchstsatz bleibt eigenständig. Redaktionelle Quellenprüfung, kein Live-Modelltest.",
     "changes": [
-      "Gebührenrahmen nach Leistungsgruppen erhalten; unzutreffende Zuordnungen zu Paragrafen 5a und 11 berichtigt und Nachweisfragen in die Abrechnung eingeordnet."
+      "Schwellenwert nicht als Ausnahmehonorar behandelt; Überschreitung braucht individuellen Aufwand, Laborhöchstsatz bleibt eigenständig.",
+      "Vorhandene Fachzweige, Beispiele und Zugriffsalternativen erhalten; schwache Rechtsprechungshinweise entfernt oder auf belegte Reichweite begrenzt.",
+      "Rechnungsversionen, tatsächlich geleistete Zahlungen, patientenbezogene Faktorbegründung, Analogbewertung und Trennung von Honorar und Versicherung."
     ],
-    "sha256": "b91ad036f39193b789b82b5afd210447c7b9ca6c1acc86988274b68cbd1053d8"
+    "sha256": "bc888defb267e4044a21f19b5976006cc316b7dfc19bf7ba13ddd4f0e4532971"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "goae-gebuehrenordnung-aerzte/README.md",
+      "goae-gebuehrenordnung-aerzte/goae-gebuehrenordnung-aerzte-schnellstart.md",
+      "goae-gebuehrenordnung-aerzte/goae-gebuehrenordnung-aerzte-werkstatt.md",
+      "quality/evals/goae-gebuehrenordnung-aerzte.json"
+    ],
+    "opening_change": "Rechnungspositionen, Faktoren und Korrekturbeträge anhand der Leistungsnachweise prüfen",
+    "norms": [
+      "Paragraf 5 Absatz 2 und Paragraf 12 Absatz 3 GOÄ"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 08.11.2007, III ZR 54/07",
+        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=pm&Blank=1&Datum=2007-11&Gericht=bgh&file=dokument.pdf&linked=urt&nr=41965",
+        "application": "Durchschnittliche ärztliche Leistung darf mit 2,3 beziehungsweise einschlägig 1,8 bemessen werden; oberhalb Schwelle gesonderte Begründung prüfen.",
+        "limit": "Amtlicher Leitsatz gelesen, Volltextabruf gescheitert; nicht auf Laborsätze oder unbewiesene Leistungen übertragen."
+      }
+    ],
+    "remaining_limits": [
+      "Desk- und Quellenprüfung, kein Live-Client- oder Modelltest; übrige Fachzweige nicht vollständig rechtlich neu verifiziert.",
+      "Amtlicher Leitsatz gelesen, Volltextabruf gescheitert; nicht auf Laborsätze oder unbewiesene Leistungen übertragen.",
+      "Workflow-Ergänzung am 2026-09-23: individuelle Textprüfung, keine erneute Gesamtverifikation der bestehenden Entscheidungsanker; deren dokumentierte Quellen- und Zugriffsgrenzen bleiben bestehen."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Rechnung, Steigerungsfaktor oder Versichererkürzung wählen.",
+      "Rechnungen und Kürzungsschreiben still lesen; Gebühreneinwand oder Erstattungsbrief anbieten.",
+      "Konkreten GOÄ-Abgleich oder Brief unmittelbar fertigstellen."
+    ],
+    "continuation": "Neue Faktorbegründung -> einzelne Position neu beurteilen; Tarifauszug -> Erstattungsargument statt Gebührenanspruch ändern.",
+    "enrichment": "Rechnungsversionen, tatsächlich geleistete Zahlungen, patientenbezogene Faktorbegründung, Analogbewertung und Trennung von Honorar und Versicherung.",
+    "limits": "desk review; no live client execution"
   }
 }

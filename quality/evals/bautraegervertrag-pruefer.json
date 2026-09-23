@@ -1,8 +1,176 @@
 {
- "schema_version":1,"plugin":"bautraegervertrag-pruefer","reviewed_on":"2026-09-17",
- "sources":[{"url":"https://www.gesetze-im-internet.de/bgb/__650u.html","checked_on":"2026-09-14","supports":"Baupflicht und Eigentumsverschaffung beim Bauträgervertrag."},{"url":"https://www.gesetze-im-internet.de/bgb/__650v.html","checked_on":"2026-09-14","supports":"Abschlagszahlungen statt Baubeschreibung."},{"url":"https://www.gesetze-im-internet.de/gewo_34cdv/__3.html","checked_on":"2026-09-14","supports":"Allgemeine Sicherungsvoraussetzungen vor Geldannahme und baufortschrittsbezogene Raten."}],
- "mini_review":{"sha256":"b0891067b7ad95eea7ba6d1426b7a4e37d3a9a11673aae054cbcd748589cc88d","verdict":"revised","reason":"Erneut vollständig gelesen: Fälligkeitsnachweis, Ratenberechnung und Bausoll sind eigenständig prüfbar; die überarbeitete Fortsetzung unterscheidet nicht vorgelegte von tatsächlich fehlenden Erklärungen.","changes":["Nach Eingang der Freistellungserklärung Einheit, Rang und Fälligkeitsbefund aktualisieren.","Weitere entscheidende Bautenstandswidersprüche gezielt klären und bestellte Antwort fertigschreiben.","Drei-Dokumente-Paket nur bei entsprechendem Auftrag ausgeben."]},
- "workshop_review":{"verdict":"revised","reason":"Ganztextprüfung zeigte neben dem verbesserten Einstieg weiterhin Pflicht-Dreierpaket, allgemeine Mustersätze und doppelte Praxisrouten.","changes":["Beurkundung, Raten, Sicherheiten, Bausoll und Abnahme in zusammenhängende Arbeitsphasen gegliedert","Förderunterlagen, Nachzügler und Baugruppen einschließlich ihrer Abgrenzungsfragen erhalten","Klauseländerungen und Nachforderungen bis zum jeweils bestellten Empfängertext geführt"],"sha256":"7ccaa2327cd4998c726bebede57df9b49e512425a46dbc6c625b6ba95a6f4e3d"},
- "selection":{"positive":["Prüfen Sie die erste Bauträgerrate trotz fehlender Vormerkung.","Bereiten Sie Vertragsänderungen getrennt für Erwerber, Bauträger und Notar vor."],"negative":["Prüfen Sie einen Architektenhonoraranspruch.","Berechnen Sie Mietminderung in einer Bestandswohnung."]},
- "cases":[{"id":"erste-rate-ohne-vormerkung","request":"Erstellen Sie ergebnis.md als Zahlungsbefund und Antwortentwurf. Eine Verbraucherin kauft eine neu zu errichtende Eigentumswohnung für 500000 Euro. Nach beurkundetem Vertrag wird Eigentum übertragen; eine Sicherheit nach Paragraf 7 MaBV ist nicht vereinbart. Der Bauträger fordert 150000 Euro nach begonnenen Erdarbeiten. Eine Notarmitteilung bestätigt nur Vertragswirksamkeit und Genehmigungen. Im aktuellen Grundbuch ist die Erwerbervormerkung noch nicht eingetragen. Lastenfreistellungserklärung und Baugenehmigung liegen ordnungsgemäß vor. Noch keine Zahlung erfolgt. Bearbeitungsstand 14.09.2026.","input_files":[],"deliverables":["ergebnis.md"],"criteria":[{"id":"C01","text":"Erkennt, dass die rechnerisch passende 30-Prozent-Rate die fehlende Vormerkung nicht ersetzt.","deliverables":["ergebnis.md"]},{"id":"C02","text":"Trennt bestätigte Notartatsachen von der nicht belegten Eigentumssicherung und gibt keine Zahlungsfreigabe.","deliverables":["ergebnis.md"]},{"id":"C03","text":"Formuliert eine konkrete Nachweisanforderung und Antwort, ohne einen bereits entstandenen Rückzahlungsanspruch zu erfinden.","deliverables":["ergebnis.md"]}],"target_skill":"mabv-ratenplan-sicherheiten-und-notaranderkonto"}]
+  "schema_version": 1,
+  "plugin": "bautraegervertrag-pruefer",
+  "reviewed_on": "2026-09-23",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__650u.html",
+      "checked_on": "2026-09-14",
+      "supports": "Baupflicht und Eigentumsverschaffung beim Bauträgervertrag."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__650v.html",
+      "checked_on": "2026-09-14",
+      "supports": "Abschlagszahlungen statt Baubeschreibung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gewo_34cdv/__3.html",
+      "checked_on": "2026-09-14",
+      "supports": "Allgemeine Sicherungsvoraussetzungen vor Geldannahme und baufortschrittsbezogene Raten."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/1999/VII_ZR_310-99.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 22.12.2000, VII ZR 310/99, amtlicher Volltext S. 11–16: Verfrühte erste Rate führte zur Unwirksamkeit des gesamten Zahlungsplans; MaBV-Stufen ersetzen ihn nicht automatisch. Grenze: Vertrag von 1994 und damalige Rechtslage; heutige Fälligkeit zusätzlich nach Paragraf 650v BGB und Paragraf 1 AbschlagsV prüfen, keine automatische Gesamtrückzahlung."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2012/VII_ZR_308-12.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Beschluss vom 12.09.2013, VII ZR 308/12, Rn. 6–11: Formularmäßige Abnahmevollmacht für bauträgerbestimmten Erstverwalter wegen ungesicherter Neutralität beanstanden; bloße Widerruflichkeit genügt nicht. Grenze: Kein Verbot jeder unabhängigen Vertreterabnahme oder der Verwalterbestellung; eigene Abnahme und Verjährung gesondert prüfen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__650u.html",
+      "checked_on": "2026-09-22",
+      "supports": "Absatz 2 schließt nicht sämtliche Verbraucherbauvorschriften aus."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__650v.html",
+      "checked_on": "2026-09-22",
+      "supports": "Abschlagszahlungen nur im Umfang zulässiger Vereinbarung nach der Verordnung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gewo_34cdv/__3.html",
+      "checked_on": "2026-09-22",
+      "supports": "Allgemeine Voraussetzungen, höchstens sieben Teilbeträge und unterschiedliche Prozentbezugsgrößen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/abschlagsv/BJNR098100001.html",
+      "checked_on": "2026-09-22",
+      "supports": "Paragraf 1: Abschlagsvereinbarungen nach MaBV; Paragraf 650m Absatz 2 und 3 BGB anwendbar."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__650m.html",
+      "checked_on": "2026-09-22",
+      "supports": "Fünfprozentige Sicherheit bei erster Verbraucherrate, Erhöhungsfall und Sicherungsformen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gewo_34cdv/__3.html",
+      "checked_on": "2026-09-23",
+      "supports": "Allgemeine Sicherungsvoraussetzungen und Ratenbausteine; bei Eigentumsübertragung 40 Prozent des Restes nach erster 30-Prozent-Stufe, nicht 40 Prozent der Vertragssumme."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Vollständig gelesener Erwerber-Mini beginnt mit der konkreten Zahlungspflicht und ungesicherten Vorleistung. Zahlungsplanfolge statt bloßem Recherchevorbehalt; keine automatische Rückzahlung. Quellenprüfung, kein Live-Test. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert.",
+    "changes": [
+      "Zahlungsplanurteil von 2000 mit historischer Reichweite und heutiger Abschlagsverordnung verbunden.",
+      "Fünfprozentige Verbrauchersicherheit von MaBV-Sicherheit und Lastenfreistellung unterschieden.",
+      "Leerstart: Rate, Urkundenänderung oder Abnahme klären. Dateien: Erwerberunterlagen still lesen; kein Drei-Dokumente-Paket ohne Auftrag. Klarer Auftrag: Zahlungsbefund oder bestellte Texte direkt ausarbeiten.",
+      "Grundbuchnachweis verändert Fälligkeitsprüfung; korrigierter Bautenstand verändert Rate; Schlüsselübergabe nicht mit Abnahme gleichgesetzt."
+    ],
+    "sha256": "5813bdbab3d26308dd344347bdb068a457c4114fc0d8b32248360c4d278ead98"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Alle zehn Abschnitte einschließlich Baugruppen, technischen Förderunterlagen und Nachzüglern einzeln gelesen. Zahlungsplanunwirksamkeit, Verbrauchersicherheit und Erstverwalterabnahme mit unterschiedlichen Rechtsfolgen präzisiert. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen.",
+    "changes": [
+      "Zahlungsplanurteil von 2000 mit historischer Reichweite und heutiger Abschlagsverordnung verbunden.",
+      "Fünfprozentige Verbrauchersicherheit von MaBV-Sicherheit und Lastenfreistellung unterschieden.",
+      "Erstverwalterabnahme anhand Neutralitätssicherung statt pauschalem Vertretungsverbot geprüft.",
+      "Vormerkungskette, Rohbaurate mit Restbezugsgröße, Besitz versus Fertigstellung und empfängerbezogene Erwerbertexte.",
+      "Grundbuchnachweis verändert Fälligkeitsprüfung; korrigierter Bautenstand verändert Rate; Schlüsselübergabe nicht mit Abnahme gleichgesetzt."
+    ],
+    "sha256": "6453fb868c4fc07f5e37a23bb8a62253469a4948b55a449004477d22a48cc2d0"
+  },
+  "selection": {
+    "positive": [
+      "Prüfen Sie die erste Bauträgerrate trotz fehlender Vormerkung.",
+      "Bereiten Sie Vertragsänderungen getrennt für Erwerber, Bauträger und Notar vor."
+    ],
+    "negative": [
+      "Prüfen Sie einen Architektenhonoraranspruch.",
+      "Berechnen Sie Mietminderung in einer Bestandswohnung."
+    ]
+  },
+  "cases": [
+    {
+      "id": "erste-rate-ohne-vormerkung",
+      "request": "Erstellen Sie ergebnis.md als Zahlungsbefund und Antwortentwurf. Eine Verbraucherin kauft eine neu zu errichtende Eigentumswohnung für 500000 Euro. Nach beurkundetem Vertrag wird Eigentum übertragen; eine Sicherheit nach Paragraf 7 MaBV ist nicht vereinbart. Der Bauträger fordert 150000 Euro nach begonnenen Erdarbeiten. Eine Notarmitteilung bestätigt nur Vertragswirksamkeit und Genehmigungen. Im aktuellen Grundbuch ist die Erwerbervormerkung noch nicht eingetragen. Lastenfreistellungserklärung und Baugenehmigung liegen ordnungsgemäß vor. Noch keine Zahlung erfolgt. Bearbeitungsstand 14.09.2026.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Erkennt, dass die rechnerisch passende 30-Prozent-Rate die fehlende Vormerkung nicht ersetzt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Trennt bestätigte Notartatsachen von der nicht belegten Eigentumssicherung und gibt keine Zahlungsfreigabe.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Formuliert eine konkrete Nachweisanforderung und Antwort, ohne einen bereits entstandenen Rückzahlungsanspruch zu erfinden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "mabv-ratenplan-sicherheiten-und-notaranderkonto"
+    }
+  ],
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leerstart: Rate, Urkundenänderung oder Abnahme klären.",
+      "Dateien: Erwerberunterlagen still lesen; kein Drei-Dokumente-Paket ohne Auftrag.",
+      "Klarer Auftrag: Zahlungsbefund oder bestellte Texte direkt ausarbeiten."
+    ],
+    "continuation": "Grundbuchnachweis verändert Fälligkeitsprüfung; korrigierter Bautenstand verändert Rate; Schlüsselübergabe nicht mit Abnahme gleichgesetzt.",
+    "enrichment": "Vormerkungskette, Rohbaurate mit Restbezugsgröße, Besitz versus Fertigstellung und empfängerbezogene Erwerbertexte.",
+    "limits": "desk review; no live client execution"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "bautraegervertrag-pruefer/bautraegervertrag-pruefer-schnellstart.md",
+      "bautraegervertrag-pruefer/bautraegervertrag-pruefer-werkstatt.md",
+      "bautraegervertrag-pruefer/README.md",
+      "quality/evals/bautraegervertrag-pruefer.json"
+    ],
+    "opening_change": "Zahlungspflicht, zugesagte Wohnung und Sicherung vor Vorleistung ersetzen den allgemeinen Prüfauftrag.",
+    "norms": [
+      "Paragrafen 134, 307, 640 und 641 BGB",
+      "Paragrafen 650u, 650v und 650m Absatz 2 und 3 BGB",
+      "Paragrafen 3, 7 und 12 MaBV",
+      "Paragraf 1 AbschlagsV"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 22.12.2000, VII ZR 310/99, amtlicher Volltext S. 11–16",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/1999/VII_ZR_310-99.pdf?__blob=publicationFile&v=1",
+        "application": "Verfrühte erste Rate führte zur Unwirksamkeit des gesamten Zahlungsplans; MaBV-Stufen ersetzen ihn nicht automatisch.",
+        "limit": "Vertrag von 1994 und damalige Rechtslage; heutige Fälligkeit zusätzlich nach Paragraf 650v BGB und Paragraf 1 AbschlagsV prüfen, keine automatische Gesamtrückzahlung."
+      },
+      {
+        "citation": "BGH, Beschluss vom 12.09.2013, VII ZR 308/12, Rn. 6–11",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2012/VII_ZR_308-12.pdf?__blob=publicationFile&v=1",
+        "application": "Formularmäßige Abnahmevollmacht für bauträgerbestimmten Erstverwalter wegen ungesicherter Neutralität beanstanden; bloße Widerruflichkeit genügt nicht.",
+        "limit": "Kein Verbot jeder unabhängigen Vertreterabnahme oder der Verwalterbestellung; eigene Abnahme und Verjährung gesondert prüfen."
+      }
+    ],
+    "remaining_limits": [
+      "Desk- und Quellenreview, kein Live-Client- oder Modelltest.",
+      "Weitere ausdrücklich bezeichnete Rechercheentscheidungen zu Nachzüglern und Schäden wurden nicht neu verifiziert; technische Zustandsprüfung bleibt sachverständig.",
+      "Workflow-Anschlussprüfung 23.09.2026: individuelle Text- und Quellenprüfung, keine Live-Client-Ausführung. Frühere Entscheidungsprüfungen und ihre Reichweitengrenzen bleiben unverändert; keine erneute vollständige Rechtsprechungsprüfung behauptet."
+    ]
+  }
 }

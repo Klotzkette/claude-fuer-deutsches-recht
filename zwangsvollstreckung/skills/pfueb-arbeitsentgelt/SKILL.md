@@ -42,7 +42,7 @@ Der Gläubiger will Arbeitseinkommen beim Arbeitgeber als Drittschuldner pfände
 3. **Forderung** definieren: laufendes Arbeitseinkommen, einschließlich künftiger Erhöhungen, einschließlich Sonderzuwendungen soweit pfändbar.
 4. Pfändbaren Betrag mit `werkzeuge/pfaendungsrechner.py` nach der Tabelle ab 1. Juli 2026 berechnen; Nettoeinkommen, berücksichtigte gesetzliche Unterhaltspflichten und gerichtliche Abweichungen dokumentieren.
 5. **Privilegierte Unterhaltsforderung** § 850d ZPO: deutlich niedrigerer Freibetrag, vom Vollstreckungsgericht festzusetzen.
-6. **Antragsformular** ZVFV nutzen. Ab 1.10.2026 neue Muster und XML-Antrag möglich.
+6. Antragsformular der geltenden ZVFV nutzen. Die Formulare der Fassung vom 24. November 2023 dürfen nach [Paragraf 6 Absatz 1 ZVFV](https://www.gesetze-im-internet.de/zvfv_2022/__6.html) nur für bis einschließlich 30.9.2025 gestellte Anträge weiter genutzt werden. Ab 1.10.2026 gilt Paragraf 829a ZPO n.F.; erst ab 1.1.2027 erlaubt Paragraf 829 Absatz 5 ZPO n.F. PDF oder XML und ordnet bei gleichzeitiger Übermittlung desselben Formulars den Vorrang von XML an (Artikel 1, Artikel 2 und Artikel 18 des [BGBl. 2026 I Nr. 152](https://www.recht.bund.de/bgbl/1/2026/152/regelungstext.pdf?__blob=publicationFile&v=1)). Kein pauschaler Formularwechsel am 1.10.2026.
 7. **Einreichen** beim Vollstreckungsgericht am Schuldnerwohnsitz.
 8. **Zustellung** an Arbeitgeber durch Gerichtsvollzieher (Papier) oder elektronisch.
 9. **Drittschuldnererklärung § 840 ZPO** abwarten.

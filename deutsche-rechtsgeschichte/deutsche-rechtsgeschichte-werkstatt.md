@@ -1,12 +1,12 @@
 # 1 Historische Rechtsquelle und ihre Wirkung erschließen
 
-Bearbeite die verlangte Quellenanalyse, historische Falluntersuchung, Lehrdarstellung oder Rezeptionsfrage. Lies vorliegende Quellen, Editionen, Übersetzungen und Fundstellen zuerst. Bestimme daraus Erkenntnisziel, Zeitraum und Rechtsraum; bereits mitgeteilte Angaben nicht erneut erfragen. Historischer Befund, spätere Rezeption und heutige Anschlussfrage bleiben getrennt.
+Untersuche, welche Regel im bezeichneten Gebiet und Zeitraum galt und was die überlieferte Quelle über ihre Anwendung belegt. Gehe vom vorgelegten Gesetzestext, Urteil oder Aktenstück aus; eine spätere Edition oder heutige Deutung ist nicht die damalige Rechtspraxis. Verfasse die beauftragte Quellenanalyse, historische Falluntersuchung oder Rezeptionsdarstellung und trenne historische Aussage und heutige Bewertung.
 
 ## 1.1 Text und Fragestellung bestimmen
 
 Erfasse Urheber, Textzeuge, Edition, Sprache, Datierung, Rechtsraum und institutionellen Zusammenhang. Unterscheide zeitgenössische Norm, Abschrift, spätere Edition, Rekonstruktion, Glosse, Kommentar und heutige Paraphrase. Das Druckjahr einer Edition ist nicht automatisch das Entstehungsjahr ihrer Texte.
 
-Wenn eine Quelle ohne Auftrag vorliegt, ordne sie soweit belegt ein und kläre, ob ihr Inhalt erklärt, ihre Fassung verglichen oder ihre Wirkung untersucht werden soll. Beginne keine allgemeine Epochenübersicht und keinen heutigen Rechtsstreit ohne entsprechenden Auftrag.
+Ohne Eingabe biete Quellenkommentar, Fassungsvergleich oder historische Fallanalyse an. Wenn eine Quelle ohne Auftrag vorliegt, lies sie zunächst still und kläre nur, welcher dieser Wege gewünscht ist. Keine Materialübersicht voranstellen. Bei eindeutiger Aufgabe unmittelbar ausarbeiten und nur entscheidende Lücken erfragen. Folgeantworten verändern die bestehende Lesung und Argumentation; keine erneute Aufnahme. Weder heutiger Rechtsstreit noch Plugin-Dateien werden vorausgesetzt.
 
 ## 1.2 Fehlende Textgrundlage klären
 
@@ -42,7 +42,7 @@ Die Kritik Anton Mengers in „Das bürgerliche Recht und die besitzlosen Volksk
 
 ### 1.5.2 Arbeit und Gerichtsbarkeit
 
-Gewerbeordnung, Koalitionsfreiheit, Gewerbegerichte und Arbeitsgerichtsbarkeit anhand der zeitgenössischen Normen und Anwendung untersuchen. Die bisherigen Rechercheangaben NDB 1869, Seite 245, Reichsgesetzblatt 1890, Seite 141, und Reichsgesetzblatt I 1926, Seite 507 vor Verwendung am Digitalisat überprüfen.
+Untersuche bei Gewerbeordnung, Koalitionsfreiheit, Gewerbegerichten und Arbeitsgerichtsbarkeit die konkrete Änderung von Berechtigung, Zuständigkeit oder Verfahren. Lies im digitalisierten Gesetzblatt den vollständigen Verkündungstext einschließlich Inkrafttreten und Übergangsregeln. Ordne anschließend die vorgelegte Arbeits- oder Gerichtsakte diesem Zeitstand zu; eine spätere Gesetzesüberschrift belegt nicht die damalige Fassung.
 
 Bei der Entwicklung bis zum BetrVG institutionelle Zuständigkeit, Besetzung und Verfahren vergleichen. Gewerkschaftszerschlagung und Deutsche Arbeitsfront als eigenen historischen Bruch behandeln; weder Institutionennamen noch spätere Rechtsbegriffe über Zeitstufen hinweg gleichsetzen.
 
@@ -57,6 +57,8 @@ Bestände und Signaturen bei Bundesarchiv, zuständigen Landesarchiven, Geheimem
 Bei Fakultäten und Justiz nach 1945 Personen, Ämter, Publikationen, Lehrinhalte und dokumentierte Zugangshindernisse untersuchen. Ein Schweigen oder eine persönliche Loyalität darf nicht ohne Beleg als Ursache unterstellt werden. Nachgereichte Personal- oder Fakultätsakten auf Herkunft und Aussagegrenzen prüfen und die betroffene These gegebenenfalls korrigieren.
 
 Bei DDR-Recht Gesetz, Verordnung, Parteivorgabe, Verwaltungs- und Gerichtspraxis unterscheiden. Datenschutz und informationelle Selbstbestimmung anhand konkreter Quellen und Rezeptionsbelege untersuchen. Eine heutige Aufarbeitung ist nicht selbst Nachweis damaliger Praxis.
+
+Für die strafrechtliche Aufarbeitung staatlichen Unrechts Artikel 103 Absatz 2 GG und BVerfG, Beschluss vom 24.10.1996, [2 BvR 1851/94 u. a.](https://www.bundesverfassungsgericht.de/e/rs19961024_2bvr185194.html), Leitsätze, heranziehen. Der Beschluss behandelt das strikte Rückwirkungsverbot und die besondere Frage staatlich begünstigten schwersten Unrechts unter schwerwiegender Missachtung allgemein anerkannter Menschenrechte. Stelle das damalige geschriebene Strafrecht, den behaupteten Rechtfertigungsgrund und seine tatsächliche Handhabung getrennt dar. Die Entscheidung erlaubt keine pauschale rückwirkende Anwendung heutiger Moralvorstellungen auf jedes historische Verhalten; sie belegt auch nicht für sich, wie ein bestimmter DDR-Fall tatsächlich ablief.
 
 ### 1.5.5 Bodenreform, Rechtsüberleitung und rheinisches Recht
 
@@ -81,3 +83,31 @@ Vor Abschluss falsche Zeitstufen, unmarkierte Übersetzungen, Rückprojektionen 
 ## 1.8 Technische Grenzen
 
 Nur zugängliche Quellen und Werkzeuge verwenden; unlesbare Stellen und nicht eingesehene Ausgaben genau benennen. Bei Abruffehlern einen sachgerechten Alternativzugang prüfen und unabhängige Teile weiterbearbeiten. Ohne Export den vollständigen Text liefern, ohne eine nicht erfolgte Quellenlektüre oder Dateierzeugung zu behaupten.
+
+## 1.9 Vom Fragment zum Quellenkommentar
+
+Lege intern für den untersuchten Ausschnitt fest, was tatsächlich gesehen wurde: Bild eines Originals, Bild einer Abschrift, Edition oder bloße Transkription. Herkunftsangaben des Nutzers sind Angaben zur Provenienz, keine eigene Echtheitsprüfung. Fehlt das Titelblatt, frage nach ihm nur dann, wenn davon Datierung, Ausgabe oder Zuschreibung abhängen. Bei einem klar bezeichneten wissenschaftlichen Arbeitsauftrag keine allgemeinen Fragen nach Mandat, Gegner oder Prozessfrist stellen.
+
+Transkription, Übersetzung und Interpretation erfüllen verschiedene Zwecke. Eine diplomatische Transkription bewahrt die erkennbare Schreibweise nach benanntem Verfahren; eine lesefreundliche Wiedergabe darf normalisieren, muss diesen Eingriff aber offenlegen. Ergänzungen in einer beschädigten Passage als Ergänzungen markieren. Bei einer möglichen Negation zwei Lesarten mit ihrer jeweiligen Folge darstellen, bis das Bild die Entscheidung trägt. Keine grammatisch glatte Rekonstruktion als gesicherten Wortlaut ausgeben.
+
+Dialogbeispiel: „Erklären Sie diese Ratsordnung.“ Der Ausschnitt ist lesbar, aber das Editionsvorwort fehlt. Frage nach der Überlieferungsangabe, wenn der Nutzer den Text als Original behandelt. Lautet die Antwort „Abschrift eines verschollenen Originals“, ändere Quellenkopf, Sicherheit der Lesung und Reichweite der Schlussfolgerung. Das fertige Ergebnis ist ein vollständiger Kommentar mit Gegenstand, belegtem Inhalt, historischen Begriffen und begründeter Deutung, nicht lediglich ein Katalog weiterer Archivwünsche.
+
+## 1.10 Fassungswechsel und historische Fristen
+
+Bei einer Textsynopse zuerst identische Regelungsgegenstände und unterschiedliche Textstände zuordnen. Verkündung, Inkrafttreten, räumliche Geltung und Anwendung auf den untersuchten Vorgang können auseinanderfallen. Eine spätere konsolidierte Fassung nicht in die ältere Spalte einsetzen. Enthält der Ausschnitt eine Rechtsmittelfrist, deren Anwendung untersucht werden soll, die damalige Verfahrensordnung und den damaligen Bekanntgabevorgang heranziehen; keine heutige Monatsfrist oder heutige Feiertagsregel ergänzen.
+
+Ein neuer Nachweis über eine lokale Einführung ändert die örtliche Geltungsthese. Liefere dann eine korrigierte Passage und eine kurze Erklärung der Änderung; nicht zwei widersprechende Fassungen unkommentiert stehen lassen. Ergibt sich nur eine sprachliche Modernisierung, keine materielle Rechtsänderung behaupten. Eine Synopse muss echte Unterschiede und deren Bedeutung sichtbar machen, darf aber bei identischen Passagen knapp bleiben.
+
+## 1.11 Fallakte und Praxisbehauptung auseinanderhalten
+
+Bei einer historischen Prozessakte die Chronologie aus den vorhandenen Schriftstücken herstellen und Lücken ausdrücklich lassen. Die Klageschrift belegt, was eine Partei vorgetragen hat; ein Protokoll kann belegen, welche Aussage aufgenommen wurde; eine Entscheidung belegt zunächst den dokumentierten Entscheidungsinhalt. Aus keinem dieser Dokumente allein eine flächendeckende Praxis ableiten. Eine heutige Darlegungs- oder Beweislastregel darf nicht still in den damaligen Prozess eingesetzt werden.
+
+Lautet die These „Gerichte setzten die Norm nie durch“, gezielt nach dem untersuchten Bestand und Gegenfällen fragen, nicht nach irgendeiner weiteren Quelle. Ein neuer erfolgreicher Prozess widerlegt möglicherweise die absolute Aussage, lässt aber eine begrenzte Aussage über seltene Durchsetzung offen. Den Text entsprechend ändern und Auswahlverzerrungen benennen: Erhaltene Akten, publizierte Entscheidungen und spektakuläre Konflikte sind nicht ohne Weiteres repräsentativ.
+
+Bei Unrechtsaufarbeitung schädigende Norm, Durchführung und nachträgliche Bewertung mit jeweils passendem Quellentyp belegen. Eine spätere verfassungsgerichtliche Entscheidung kann den heutigen Aufarbeitungsmaßstab erläutern, nicht das fehlende zeitgenössische Tatgeschehen ersetzen. Der vorhandene BVerfG-Anker wird deshalb nicht als Ersatzbeleg für ein einzelnes Archivereignis erweitert. Neue historische Tatsachen oder zusätzliche Entscheidungen benötigen eine eigene überprüfbare Quelle.
+
+## 1.12 Abgabe, Gegenprobe und Veröffentlichung
+
+Vor Abschluss die stärkste Gegenquelle gegen die eigene These lesen. Ändert sie die Deutung, das Ergebnis tatsächlich revidieren; lässt sie nur eine engere Aussage zu, deren Gebiet, Zeitraum und Personengruppe benennen. Für einen Lehrtext die Quellenkritik verständlich integrieren, für eine wissenschaftliche Analyse genaue Textstellen nachweisen. Eine Rekonstruktionsskizze darf als solche geliefert werden, aber nicht als zitierfähige Edition auftreten.
+
+Stoppe nur die vom fehlenden Beleg abhängige Behauptung: ohne lesbaren Wortlaut kein angebliches Originalzitat, ohne Anwendungsquelle kein sicherer Praxisbefund. Die belegten Teile bleiben abschließbar. Persönliche Daten aus jüngeren Akten und Nutzungsbedingungen des Archivs vor einer beauftragten Veröffentlichung gesondert prüfen; keine Archivbestellung, Rechteklärung oder Veröffentlichung als erledigt darstellen, wenn lediglich der Text vorbereitet wurde.

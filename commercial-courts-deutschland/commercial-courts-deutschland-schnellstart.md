@@ -1,12 +1,16 @@
-# 1 Wirtschaftsverfahren vor Commercial Courts vorbereiten
+# 1. Wirtschaftsverfahren vor Commercial Courts vorbereiten
 
-Lies zuerst Auftrag, Gerichtsstands- und Sprachklausel, Klage oder Erwiderung und verfügbare Anlagen. Erstelle das verlangte Forumvotum, den Schriftsatz oder die Terminsvorbereitung. Ist das Verfahren bereits verbindlich eingeordnet, wiederhole keinen abstrakten Forumvergleich. Deutsche Zivilprozessregeln bleiben auch bei englischer Sprache maßgeblich; englische Bezeichnungen schaffen keine US-amerikanische Discovery.
+Kläre anhand von Vertrag, Gerichtsstands- und Sprachklausel, Klage oder Erwiderung, ob der Wirtschaftsstreit vor dem vorgesehenen Commercial Court geführt werden kann. Lies vorhandene Unterlagen zuerst und formuliere daraus das bestellte Forumvotum, den Schriftsatz oder die Terminsvorbereitung. Bereits geklärte Forumfragen nicht erneut aufrollen. Deutsche Prozessregeln bleiben maßgeblich; englische Begriffe schaffen keine US-amerikanische Discovery.
 
 ## 1.1 Forum und Sprache getrennt sichern
+
+Ohne Fall biete Forumklausel, Organisationstermin oder Geheimnisschutz an. Dateien ohne Aufgabe still lesen und passende Wege anbieten. Klare Aufträge direkt bearbeiten, geklärtes Forum nicht erneut aufrollen. „Zeugin erst im November verfügbar“ ändert den vorgeschlagenen Beweisplan, nicht automatisch gerichtliche Fristen. „Kosten auch in Anlage 7“ ändert Schutzantrag und sämtliche Fassungen. Nach Antworten den konkreten Text fertigstellen, keine erneute Aufnahme oder Materialübersicht.
 
 Prüfe [Paragraf 119b GVG](https://www.gesetze-im-internet.de/gvg/__119b.html): eingerichteter Spruchkörper, Sachgebiet, Streitwert ab 500000 Euro, Ausschlüsse und Parteivereinbarung beziehungsweise gesetzlich genügende Einlassung. Die konkrete Landesverordnung bestimmt die Einrichtung und mögliche fachliche Begrenzung. Commercial Court am Obergericht und Commercial Chamber am Landgericht sind verschieden. Internationale und örtliche Zuständigkeit zusätzlich prüfen, soweit sie offen sind.
 
 Nach [Paragraf 184a GVG](https://www.gesetze-im-internet.de/gvg/__184a.html) benötigt englische Verfahrensführung den gesetzlich und landesrechtlich eröffneten Rahmen sowie den erforderlichen Parteiwillen. Ein englischer Vertrag allein genügt nicht. Ordne Gerichtssprache, Anlagen, Übersetzung und Sprachbedarf von Zeugen oder Dritten einzeln. Englische Entwürfe nur in der beauftragten Rolle und mit passenden deutschen Prozessanträgen ausarbeiten.
+
+Artikel 25 Absatz 1 Verordnung (EU) Nr. 1215/2012 kann schon durch die Wahl deutscher Gerichte durch zwei Parteien aus demselben anderen Mitgliedstaat eröffnet sein: EuGH, Urteil vom 08.02.2024, C-566/22, Inkreal, Rn. 23 bis 25 und 39 ([Volltext](https://eur-lex.europa.eu/legal-content/de/ALL/?uri=CELEX%3A62022CJ0566)). Kein zusätzlicher deutscher Erfüllungsort nötig. Form, Wirksamkeit und Reichweite der Klausel bleiben zu prüfen; die Entscheidung ersetzt weder Paragraf 119b GVG und Landesverordnung noch Sprachvereinbarung. Insbesondere sind Beschlussmängelstreitigkeiten nicht allein wegen ihres Unternehmensbezugs Commercial-Court-Sachen.
 
 ## 1.2 Organisationstermin mit arbeitsfähigem Zeitplan
 

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "berufsrecht-ki-vertragspruefung",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/brao/__43e.html",
@@ -17,15 +17,34 @@
       "url": "https://www.gesetze-im-internet.de/ki-mig/__2.html",
       "checked_on": "2026-09-14",
       "supports": "Bundesnetzagentur als Auffangbehörde und ausdifferenzierte sektorale sowie Landeszuständigkeiten."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62018CJ0311",
+      "checked_on": "2026-09-22",
+      "supports": "EuGH, Urteil vom 16. Juli 2020, C-311/18, Randnummern 125–135. Bei Transfer über Standarddatenschutzklauseln Empfängerrecht und zusätzliche Maßnahmen prüfen; unzureichend geschützte Übermittlung aussetzen oder beenden. Grenze: Kein generelles Cloud-Verbot und keine Entscheidung über Paragraf 43e BRAO oder spätere Angemessenheitsbeschlüsse. Entscheidende Passagen, nicht sämtliche Folgeentscheidungen geprüft."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/brao/__43e.html",
+      "checked_on": "2026-09-22",
+      "supports": "Amtlicher Wortlaut geprüft: Dienstleisterzugriff, Auswahl, vertragliche Verschwiegenheit und Auslandsschutz nach Absatz 4; eine Auftragsverarbeitungsvereinbarung oder No-Training-Zusage beantwortet diese Fragen nicht vollständig."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/brao/__43e.html",
+      "checked_on": "2026-09-23",
+      "supports": "Tatsächliche Zugriffskette bestimmt berufsrechtliche Vertragsprüfung; Anbieteradresse und AVV ersetzen Auslandsschutz und mandatsbezogene Einwilligungsprüfung nicht."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der Mini wurde vollständig einschließlich seiner konkreten Reform- und Vertragsklauselpassagen gelesen.",
+    "reason": "Datenwege und Ersatzklauseln bleiben handhabbar; Wiederholungen gekürzt, um den angewandten Transferanker unter der Byte-Grenze aufzunehmen. Vollständige Text- und gezielte Primärquellenprüfung; kein Live-Mandanten- oder Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert.",
     "changes": [
-      "Datenwege und fehlende Anbieterzusagen gezielt klären; Reformpassagen und getrennte Fristen erhalten."
+      "Schrems II an den konkret auf Artikel 46 gestützten Transfer gebunden.",
+      "Aussetzungsregel statt pauschaler Cloud- oder Länderfreigabe.",
+      "Anbieter-/Betreiberrolle sprachlich vereinheitlicht; Reformklauseln und Nachforderungswege erhalten.",
+      "Leer: Zweckbindung, Supportbegrenzung oder Pilotfreigabe. Dateien: still lesen und Ersatzklauseln oder Einsatzvotum anbieten. Klar: direkt Klauseln, Anbieterbrief oder Einsatzvermerk erstellen.",
+      "Deaktiviertes Training ändert nicht automatisch Produktverbesserung; neu benannter Auslandssupport ändert Zugriffsklausel und Freigabe."
     ],
-    "sha256": "918766af94ebb1c10af9995bc29f4786398cb8567f5093c73628c1fbd2d4859d"
+    "sha256": "a4580435c4fe874206c6cfa5ad48dd07a3b4862fa54295c22a6b3574501618d5"
   },
   "selection": {
     "positive": [
@@ -119,10 +138,56 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die ganze Werkstatt wurde auf Anbieterprüfung, Vertragsbearbeitung und berufsrechtliche Grenzen geprüft.",
+    "reason": "Standardklauseln werden nicht als Schutz gegen fremde Behörden missverstanden; Geheimnisschutz, Transfergrundlage und tatsächlicher Zugriff werden getrennt. Vollständige Text- und gezielte Primärquellenprüfung; kein Live-Mandanten- oder Modelltest. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen.",
     "changes": [
-      "Vertragliche Nachforderungen führen zur überarbeiteten Klauselfassung; technische Resilienz vom fachlichen Eingang getrennt."
+      "Schrems II an den konkret auf Artikel 46 gestützten Transfer gebunden.",
+      "Aussetzungsregel statt pauschaler Cloud- oder Länderfreigabe.",
+      "Anbieter-/Betreiberrolle sprachlich vereinheitlicht; Reformklauseln und Nachforderungswege erhalten.",
+      "Vertragsrang, Datenarten, Notfallzugriff, Backup-Lebenszyklus, Unterauftragnehmerwechsel und gestufte Pilotaktivierung ausgearbeitet.",
+      "Deaktiviertes Training ändert nicht automatisch Produktverbesserung; neu benannter Auslandssupport ändert Zugriffsklausel und Freigabe."
     ],
-    "sha256": "64dd674c8e5d899d362a45deb1e7cc17070e3e0698ec213eb6af056ecb2bee61"
+    "sha256": "411a3d2c4d4dbec08b26b245975636321c5b95950be8e32e9c3742a7c4270edf"
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Zweckbindung, Supportbegrenzung oder Pilotfreigabe.",
+      "Dateien: still lesen und Ersatzklauseln oder Einsatzvotum anbieten.",
+      "Klar: direkt Klauseln, Anbieterbrief oder Einsatzvermerk erstellen."
+    ],
+    "continuation": "Deaktiviertes Training ändert nicht automatisch Produktverbesserung; neu benannter Auslandssupport ändert Zugriffsklausel und Freigabe.",
+    "enrichment": "Vertragsrang, Datenarten, Notfallzugriff, Backup-Lebenszyklus, Unterauftragnehmerwechsel und gestufte Pilotaktivierung ausgearbeitet.",
+    "limits": "desk review; no live client execution"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "berufsrecht-ki-vertragspruefung/berufsrecht-ki-vertragspruefung-werkstatt.md",
+      "berufsrecht-ki-vertragspruefung/berufsrecht-ki-vertragspruefung-schnellstart.md",
+      "berufsrecht-ki-vertragspruefung/README.md",
+      "quality/evals/berufsrecht-ki-vertragspruefung.json",
+      "berufsrecht-ki-vertragspruefung/skills/cloud-act-und-drittstaat-pruefen/SKILL.md"
+    ],
+    "opening_change": "Widerspruch zwischen No-Training-Zusage, Inhaltsprotokollen, Verbesserung und Supportzugriff als konkrete Vertragsprüfung.",
+    "norms": [
+      "BRAO Paragraf 43e Absätze 1 bis 8",
+      "Datenschutz-Grundverordnung Artikel 45 und 46 Absatz 2 Buchstabe c",
+      "Verordnung (EU) 2024/1689 Artikel 4, 4a und 113 in der Fassung der Verordnung (EU) 2026/1744"
+    ],
+    "decisions": [
+      {
+        "citation": "EuGH, Urteil vom 16. Juli 2020, C-311/18, Randnummern 125–135",
+        "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62018CJ0311",
+        "application": "Bei Transfer über Standarddatenschutzklauseln Empfängerrecht und zusätzliche Maßnahmen prüfen; unzureichend geschützte Übermittlung aussetzen oder beenden.",
+        "limit": "Kein generelles Cloud-Verbot und keine Entscheidung über Paragraf 43e BRAO oder spätere Angemessenheitsbeschlüsse. Entscheidende Passagen, nicht sämtliche Folgeentscheidungen geprüft."
+      }
+    ],
+    "remaining_limits": [
+      "Desk-/Quellenprüfung, kein Live-Mandanten- oder Modelltest.",
+      "Änderungsverordnung zu Artikel 4, 4a und Hochrisikofristen amtlich gegengeprüft; übrige Reformdetails und heutiger DPF-Status nicht vollständig neu verifiziert.",
+      "Gelesener gewöhnlicher Skill cloud-act-und-drittstaat-pruefen enthält pauschale EU-Freigaben und Länderampeln; außerhalb des Schreibbereichs nicht geändert.",
+      "Workflow-Anschlussprüfung 23.09.2026: individuelle Text- und Quellenprüfung, keine Live-Client-Ausführung. Frühere Entscheidungsprüfungen und ihre Reichweitengrenzen bleiben unverändert; keine erneute vollständige Rechtsprechungsprüfung behauptet."
+    ]
   }
 }

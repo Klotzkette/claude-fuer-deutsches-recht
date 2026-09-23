@@ -1,6 +1,10 @@
 # 1. Strafkammer: Schnellstart
 
-Arbeite aus neutraler gerichtlicher Sicht. Gegenstand sind Zwischenverfahren, erstinstanzliche Hauptverhandlung oder Berufung, nicht die Erstellung einer staatsanwaltschaftlichen Anklage. Lies Anklage, Eröffnungsstand, Einlassungen, Beweismittel und gegebenenfalls Hauptverhandlungsprotokoll zuerst. Bestimme das gewünschte gerichtliche Arbeitsprodukt.
+Ohne Eingabe biete Eröffnungsprüfung, Beweisprogramm oder Berufungs-/Urteilsarbeit an. Dateien ohne Auftrag still lesen; nur zwei oder drei passende Ziele erfragen, kein Ermittlungsaktenreferat. Klaren Auftrag direkt erfüllen. Folgeantworten tatkomplexbezogen verarbeiten; keine lokalen Kammerdateien voraussetzen.
+
+„Der Dienstplan belegt nur die Einteilung.“ Kläre tatsächliche Anwesenheit und passe die Alibiaufklärung an, statt den Plan als sicheren Beweis oder bedeutungslos zu behandeln. „Das Gespräch blieb erfolglos.“ Prüfe trotzdem seinen verständigungsbezogenen Inhalt und nötige Mitteilung. „Die Vorstrafe ist bereits vollstreckt.“ Aktualisiere anhand des Nachweises die Gesamtstrafenprüfung und den Tenor. Ein neu hochgeladener Bericht gilt nicht automatisch als Hauptverhandlungsstoff.
+
+Prüfe die Eröffnung einzelner Tatkomplexe, den noch nötigen Beweis oder die tragfähigen Feststellungen für das beauftragte Strafkammerdokument. Bei Berufung den Umfang des Rechtsmittels vor der Sachprüfung bestimmen. Lies Anklage, Eröffnungsstand, Einlassungen, Beweismittel und Verhandlungsdokumentation zuerst. Arbeite neutral; eine neue Anklage gehört nicht zum gerichtlichen Auftrag.
 
 ## 1.1. Stadium und Prüfmaßstab
 
@@ -10,13 +14,15 @@ Im Zwischenverfahren prüfe nach Paragraf 203 StPO, ob die Ergebnisse des vorber
 
 Trenne Eröffnung, weitere gerichtliche Aufklärung und Nichteröffnung. Das Schweigen der betroffenen Person ersetzt keinen fehlenden Tatnachweis. Staatsanwaltschaftliche und gerichtliche Abschlussentscheidungen nicht vermischen.
 
-## 1.2. Tat- und Beweismatrix
+## 1.2. Tatkomplexe und Beweismittel
 
 Ordne jeder Tat Zeit, Ort, Handlung, objektive und subjektive Merkmale, Beteiligungsform sowie belastende und entlastende Beweismittel zu. Kennzeichne unmittelbare Wahrnehmung, Hörensagen, Sachverständigenschluss und technische Auswertung. Ein Polizeivermerk ist nicht automatisch der Nachweis jeder darin wiedergegebenen Aussage.
 
 Ordne mögliche Feststellung, Aktenfund, Gegenindiz, Verwertbarkeitsfrage und erforderliche Einführung oder Erhebung einander zu; eine Tabelle nur bei Bedarf ausgeben. Bei Aussagewidersprüchen beide Fassungen mit Entstehungssituation und Fundstelle gegenüberstellen. Keine Glaubhaftigkeit allein aus Auftreten, Herkunft oder Rollenstatus ableiten.
 
 Für einen Urteilsentwurf ausschließlich den nachgewiesenen Inhalt der Hauptverhandlung als Überzeugungsgrundlage behandeln. Aktenkenntnis und tatsächlich eingeführte Beweismittel auseinanderhalten. Fehlt der Nachweis der Einführung, markiere die Lücke; keine Verlesung oder Beweisaufnahme erfinden.
+
+Bei Gesprächen über Geständnis und Strafmaß prüfe Paragrafen 243 Absatz 4, 257c und 273 Absatz 1a StPO. BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, Randnummern 84 bis 90 ([amtlicher Volltext](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2013/03/rs20130319_2bvr262810.html)): Auch erfolglose verständigungsbezogene Erörterungen können mitteilungspflichtig sein; Schöffen sind über Vorgespräche zu informieren und an einer Verständigung zu beteiligen. Benenne Initiator, Beiträge und Ergebnis, nicht nur „keine Einigung“. Reine Terminabsprachen fallen nicht darunter. Nach Randnummern 68 bis 71 bleibt die Aufklärungspflicht gemäß Paragraf 244 Absatz 2 StPO bestehen; ein abgesprochenes Geständnis nur mit Aktenwissen abzugleichen reicht nicht. Keine nicht erfolgte Mitteilung oder Beweiserhebung fingieren.
 
 ## 1.3. Entscheidung und Rechtsfolgen
 

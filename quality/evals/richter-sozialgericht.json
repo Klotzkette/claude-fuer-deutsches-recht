@@ -1,21 +1,41 @@
 {
   "schema_version": 1,
   "plugin": "richter-sozialgericht",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/sgg/__86b.html",
       "checked_on": "2026-09-14",
       "supports": "Trennung von Vollziehungsregelung und einstweiliger Anordnung; Eilrechtsschutz vor Klage."
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2005/05/rk20050512_1bvr056905.html",
+      "checked_on": "2026-09-22",
+      "supports": "Erneute Primärquellenprüfung: BVerfG, Beschluss vom 12.05.2005, 1 BvR 569/05, Randnummern 24 bis 30. Anwendung: Bei existenziellen, später nicht behebbaren Nachteilen abschließend prüfen oder bei rechtzeitig nicht möglicher Aufklärung konkrete Folgenabwägung durchführen. Grenze: Kein Verzicht auf Anspruchsvoraussetzungen und Glaubhaftmachung; keine Bewilligung allein wegen Kontostands, keine Übertragung auf Leistungshöhe."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/sgg/__86b.html",
+      "checked_on": "2026-09-22",
+      "supports": "Absatz 1 für Vollziehung, Absatz 2 für einstweilige Anordnung; Antrag vor Klage möglich und Beschlussform."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/sgg/__86b.html",
+      "checked_on": "2026-09-23",
+      "supports": "Aktuelle Mittel statt Vergangenheitsverdacht, medizinische Zeitachse, Beschaffung versus Erstattung und monatlicher Tenorabgleich. Quellenstatus: Paragraf 86b erneut amtlich gelesen; vorhandene BVerfG-Grenze gegen automatische Leistungszusage erhalten."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der vollständige Mini wurde auf gerichtliche Aufklärung, Eilbedarf und Weiterarbeit nach Befund- oder Zahlungsnachweis geprüft.",
+    "reason": "Individuelle Lektüre und Workflow-Vertiefung: Kontoschließung/Zwischenzahlung -> aktuelle Unterdeckung und Eiltenor ändern; Rückblickbefund -> Beweisfrage zum Leistungsbeginn präzisieren. Desk review, keine Live-Client-Ausführung.",
     "changes": [
-      "Einmalige Rückfragegrenze durch konkrete Befund- und Monatsfragen ersetzt; nach Antwort das bestellte gerichtliche Dokument vervollständigen."
+      "Abschließende Prüfung oder konkrete Folgenabwägung bei schweren irreversiblen Nachteilen aufgenommen.",
+      "Vergangene Einnahmen und aktuelle Mittel getrennt; vorläufige Leistung nicht als endgültige Bewilligung tenorieren.",
+      "Kontoschließung/Zwischenzahlung -> aktuelle Unterdeckung und Eiltenor ändern; Rückblickbefund -> Beweisfrage zum Leistungsbeginn präzisieren.",
+      "Aktuelle Mittel statt Vergangenheitsverdacht, medizinische Zeitachse, Beschaffung versus Erstattung und monatlicher Tenorabgleich."
     ],
-    "sha256": "ac03d3499829547f244bad401376b1627bc8a281c429b78a928c98aa19dd0ea7"
+    "sha256": "48404c8af5cb4c4385ed70665879231e888f140793f0f7f095cec55def0e046a",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
   },
   "selection": {
     "positive": [
@@ -63,10 +83,52 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die ganze Werkstatt wurde auf neutralen gerichtlichen Ablauf statt Parteiwiderspruch oder Leistungsbescheid geprüft.",
+    "reason": "Individuelle Lektüre und Workflow-Vertiefung: Aktuelle Mittel statt Vergangenheitsverdacht, medizinische Zeitachse, Beschaffung versus Erstattung und monatlicher Tenorabgleich. Desk review, keine Live-Client-Ausführung.",
     "changes": [
-      "Medizinische, rentenrechtliche und monatliche Berechnungswege erhalten; gerichtliche Amtsermittlung, Feststellungslast, Eilentscheidung und Kostenregime getrennt."
+      "BVerfG 1 BvR 569/05 in den Eilbeschlussweg integriert.",
+      "Unverifizierte materielle Fallliste entfernt; monatsbezogene, medizinische und kostenrechtliche Routen erhalten.",
+      "Kontoschließung/Zwischenzahlung -> aktuelle Unterdeckung und Eiltenor ändern; Rückblickbefund -> Beweisfrage zum Leistungsbeginn präzisieren.",
+      "Aktuelle Mittel statt Vergangenheitsverdacht, medizinische Zeitachse, Beschaffung versus Erstattung und monatlicher Tenorabgleich."
     ],
-    "sha256": "e1482dbd750296274acf60e29342fcbdd59cf41528c4fe0020101d08b27da2b9"
+    "sha256": "8c327f44bfd79125695b980a76f2430d62fc33c96d9ba127600e0b90ffd7e45c",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "gerichtsplugins/richter-sozialgericht/richter-sozialgericht-werkstatt.md",
+      "gerichtsplugins/richter-sozialgericht/richter-sozialgericht-schnellstart.md"
+    ],
+    "opening_change": "Rechtmäßigkeit der angegriffenen Regelung und bestimmbaren gerichtlichen Ausspruch aus festgestellten Tatsachen prüfen.",
+    "norms": [
+      "Paragrafen 86b, 103 und 106 SGG",
+      "Artikel 19 Absatz 4 GG"
+    ],
+    "decisions": [
+      {
+        "citation": "BVerfG, Beschluss vom 12.05.2005, 1 BvR 569/05, Randnummern 24 bis 30",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2005/05/rk20050512_1bvr056905.html",
+        "application": "Bei existenziellen, später nicht behebbaren Nachteilen abschließend prüfen oder bei rechtzeitig nicht möglicher Aufklärung konkrete Folgenabwägung durchführen.",
+        "limit": "Kein Verzicht auf Anspruchsvoraussetzungen und Glaubhaftmachung; keine Bewilligung allein wegen Kontostands, keine Übertragung auf Leistungshöhe."
+      }
+    ],
+    "remaining_limits": [
+      "Desk-/Quellenprüfung, kein Live-Modelltest und kein tatsächlich entschiedener Fall.",
+      "Materielles Kranken-, Pflege-, Unfall- und Grundsicherungsrecht nicht vollständig neu verifiziert.",
+      "Workflow-Vertiefung 2026-09-23: Paragraf 86b erneut amtlich gelesen; vorhandene BVerfG-Grenze gegen automatische Leistungszusage erhalten. Desk review; kein Live-Client-Test."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Existenzsicherung, medizinische Aufklärung oder Bescheid-/Monatsprüfung auswählen.",
+      "Bescheide und Befunde still lesen; nur Ziel klären.",
+      "Bestellten gerichtlichen Entwurf ohne automatische Ersatzaufgabe erstellen."
+    ],
+    "continuation": "Kontoschließung/Zwischenzahlung -> aktuelle Unterdeckung und Eiltenor ändern; Rückblickbefund -> Beweisfrage zum Leistungsbeginn präzisieren.",
+    "enrichment": "Aktuelle Mittel statt Vergangenheitsverdacht, medizinische Zeitachse, Beschaffung versus Erstattung und monatlicher Tenorabgleich.",
+    "limits": "desk review; no live client execution"
   }
 }

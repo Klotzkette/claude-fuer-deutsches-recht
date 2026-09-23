@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "jveg-kostenpruefer",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/jveg/__6.html",
@@ -22,15 +22,37 @@
       "url": "https://www.gesetze-im-internet.de/jveg/__4.html",
       "checked_on": "2026-09-14",
       "supports": "Gerichtliche Festsetzung und Beschwerde bei Überschreiten von 300 Euro oder Zulassung; keine allgemeine Zweiwochenfrist aus dieser Vorschrift."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/jveg/__1.html",
+      "checked_on": "2026-09-22",
+      "supports": "Amtlichen Text zu Paragraf 1 JVEG gelesen; Bezug: Gerichtlichen Auftrag, erforderliche Zeit, Auslagen und Vorschüsse zu streitigem Restbetrag zusammenführen. Keine vollständige neue Verifikation sämtlicher weiterer Normen des Plugins."
+    },
+    {
+      "url": "https://www.bverwg.de/151117U10C4.16.0",
+      "checked_on": "2026-09-22",
+      "supports": "BVerwG, Urteil vom 15.11.2017, 10 C 4.16: Formale Heranziehung zu Sachverständigenleistungen eröffnet abschließenden JVEG-Weg; Steuerberaterkammer darf gerichtliche Festsetzung nicht durch eigenen Gebührenbescheid ersetzen. Volltext Rn. 12 bis 19 gelesen; keine Übernahme historischen Stundensatzes, echte Privatgutachten und gesetzliche Sonderregeln bleiben getrennt."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/jveg/__8.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlicher Wortlaut erneut gelesen: erforderliche Zeit, gemeinsame Schlussrundung und Aufteilung gleichzeitig mehreren Angelegenheiten dienender Leistungen und Aufwendungen nach Absatz 3."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/jveg/__8a.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlicher Wortlaut erneut gelesen: tatbestandsbezogene Beschränkungen, Verwertbarkeit, Mängelbeseitigung und getrennte Kostenwarnungstatbestände einschließlich Verschuldensausnahme; keine pauschale Kürzungsfolge."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der ganze Mini wurde auf Fristbeginn, Zeitblöcke und Schlussrundung geprüft.",
+    "reason": "Gerichtlichen Auftrag, erforderliche Zeit, Auslagen und Vorschüsse zu streitigem Restbetrag zusammenführen. Der Kurzprompt behandelt diesen konkreten Ausgangsfall mit begrenztem Entscheidungsmaßstab und vollständigem bestelltem Ergebnis.",
     "changes": [
-      "Fehlende Eingangs- oder Tätigkeitsnachweise klären und danach die streitigen Kostenpositionen neu berechnen."
+      "Konkurrierende Kammergebührenforderung am formalen Heranziehungsakt und bindender gerichtlicher Festsetzung prüfen; ungeprüfte BGH-Fundstellen in konkrete Recherchefragen überführt.",
+      "Formale Heranziehung zu Sachverständigenleistungen eröffnet abschließenden JVEG-Weg; Steuerberaterkammer darf gerichtliche Festsetzung nicht durch eigenen Gebührenbescheid ersetzen.",
+      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt."
     ],
-    "sha256": "a85ee19481ca4c32a8a0662035d60de253ada2020a11cc8986aa9e04566c881d"
+    "sha256": "42cfb09a4bf1a5f507ce9f626a34f8d83e449c58f30280345d4c66aa9665a86f"
   },
   "selection": {
     "positive": [
@@ -110,10 +132,53 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die vollständige Werkstatt wurde auf Sachverständige, Dolmetscher, Übersetzer und weitere Entschädigte gelesen.",
+    "reason": "Konkurrierende Kammergebührenforderung am formalen Heranziehungsakt und bindender gerichtlicher Festsetzung prüfen; ungeprüfte BGH-Fundstellen in konkrete Recherchefragen überführt. Die vollständige Werkstatt wurde einschließlich Rückfragen, Fortsetzung und Auftragsgrenzen redaktionell durchgesehen.",
     "changes": [
-      "Anspruchsfrist, Fahrtkosten, Zeitversäumnis und gerichtliche Festsetzung richtig zugeordnet; Übergangsrecht bei Betragsgrenzen berücksichtigt."
+      "Gerichtlichen Auftrag, erforderliche Zeit, Auslagen und Vorschüsse zu streitigem Restbetrag zusammenführen.",
+      "Formale Heranziehung zu Sachverständigenleistungen eröffnet abschließenden JVEG-Weg; Steuerberaterkammer darf gerichtliche Festsetzung nicht durch eigenen Gebührenbescheid ersetzen.",
+      "Rohzeiten, Auftragsbezug, rekonstruierte Aufzeichnungen, Kostenwarnung mit Zugang und Zeitpunkt, konkrete Kürzungsgründe sowie Vorschussforderung gegen tatsächliche Zahlung in bezifferte Anträge überführt."
     ],
-    "sha256": "652aac0e5f11e0fe43c2e063917dbdd380eeaf79d00e0f19b32f2f11ea238274"
+    "sha256": "381e23ce59b94ed795289425401d1d4aa7e90ea36005ee6f60d8de89cdca80f8"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "jveg-kostenpruefer/README.md",
+      "jveg-kostenpruefer/jveg-kostenpruefer-werkstatt.md",
+      "jveg-kostenpruefer/jveg-kostenpruefer-schnellstart.md",
+      "quality/evals/jveg-kostenpruefer.json"
+    ],
+    "opening_change": "Gerichtlichen Auftrag, erforderliche Zeit, Auslagen und Vorschüsse zu streitigem Restbetrag zusammenführen",
+    "norms": [
+      "Paragraf 1 JVEG",
+      "Paragraf 4 JVEG"
+    ],
+    "decisions": [
+      {
+        "citation": "BVerwG, Urteil vom 15.11.2017, 10 C 4.16",
+        "url": "https://www.bverwg.de/151117U10C4.16.0",
+        "application": "Formale Heranziehung zu Sachverständigenleistungen eröffnet abschließenden JVEG-Weg; Steuerberaterkammer darf gerichtliche Festsetzung nicht durch eigenen Gebührenbescheid ersetzen.",
+        "limit": "Volltext Rn. 12 bis 19 gelesen; keine Übernahme historischen Stundensatzes, echte Privatgutachten und gesetzliche Sonderregeln bleiben getrennt."
+      }
+    ],
+    "remaining_limits": [
+      "Volltext Rn. 12 bis 19 gelesen; keine Übernahme historischen Stundensatzes, echte Privatgutachten und gesetzliche Sonderregeln bleiben getrennt.",
+      "Keine vollständige Neubewertung sämtlicher Honorartabellen und Übergangsfälle; das Urteil belegt keinen heutigen Stundensatz.",
+      "Individuelle redaktionelle Akten- und Quellenprüfung (desk review), kein Live-Client- oder Modelltest.",
+      "Workflow-Ergänzung am 2026-09-23: individuelle Textprüfung, keine erneute Gesamtverifikation der bestehenden Entscheidungsanker; deren dokumentierte Quellen- und Zugriffsgrenzen bleiben bestehen.",
+      "Erneuter Abruf von Paragraf 2 JVEG am 2026-09-23 scheiterte; vorhandene dokumentierte Fristprüfung nicht als heutige Neuverifikation ausgegeben."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Zeitabrechnung, Kürzungserwiderung oder gerichtlichen Festsetzungsantrag anbieten.",
+      "Dateien ohne Auftrag: Heranziehung, Zeitnachweise und Kostenmitteilung still lesen; Nachrechnung oder begründete Geltendmachung zur Auswahl stellen.",
+      "Klarer Auftrag: Rechnung oder Antrag vollständig ausarbeiten, ohne vorgeschaltete Rollenabfrage zu bekannten Angaben."
+    ],
+    "continuation": "Antwort 'Die Reise betraf zwei Verfahren' -> gemeinsame Kosten aufteilen, Rundung und Endbetrag prüfen und Rechnung samt Begründung ändern; neuer Eingangsbeleg verändert getrennt die Fristberechnung.",
+    "enrichment": "Rohzeiten, Auftragsbezug, rekonstruierte Aufzeichnungen, Kostenwarnung mit Zugang und Zeitpunkt, konkrete Kürzungsgründe sowie Vorschussforderung gegen tatsächliche Zahlung in bezifferte Anträge überführt.",
+    "limits": "desk review; no live client execution"
   }
 }

@@ -1,6 +1,8 @@
-# 1. Dokumentenbestände mit verknüpften Prüftabellen auswerten
+# 1. Juristische Dokumentenprüfung: Tabellenreview mit verknüpften Perspektiven
 
-Prüfe den bereitgestellten Dokumentenbestand anhand einheitlicher Fragen und der beauftragten fachlichen Perspektiven. Erstelle die gewünschte Prüftabelle oder Auswertung mit nachvollziehbaren Fundstellen und aufgelösten beziehungsweise ausdrücklich offenen Widersprüchen.
+Gleiche Vertragspositionen, Nachträge und Berechnungsblätter auf denselben Stichtag ab. Ermittle, welche Vergütung, Laufzeit oder Haftungsregel tatsächlich belegt ist, wo Recht, Steuer und Einkauf mit unterschiedlichen Voraussetzungen rechnen und welche Abweichung die beauftragte Entscheidung verändert. Halte Dokumente und Prüfpositionen über alle Arbeitsblätter eindeutig verbunden; liefere die bestellte Tabelle oder den ausformulierten Bericht.
+
+Ohne Eingabe biete drei Arbeitsprodukte an: Vertragsbelastung samt Nachträgen abgleichen, Kündigungsfenster für einen Vertragsbestand auswerten oder Behauptungen einer Prozessanlage mit Zeilen und Belegen verknüpfen. Bei Dateien ohne Aufgabe lies die Unterlagen zunächst still; falls das Prüfziel offenbleibt, biete zwei oder drei daraus abgeleitete Produkte an, keine Bestandszusammenfassung. Bei klarem Auftrag beginne mit der konkreten Auswertung. Frage nur nach einer Unklarheit, die Zeileneinheit, Stichtag oder Entscheidung verändert. Eine Folgeantwort wird in betroffene Zellen und Berichtsaussagen eingearbeitet.
 
 ## 1.1. Bestand und Prüfauftrag abgrenzen
 
@@ -20,7 +22,11 @@ Arbeitsblätter bilden nur die benötigten Perspektiven ab, beispielsweise Recht
 
 Verknüpfe jede entscheidende Antwort mit Dokumentversion und Seite, Absatz, Zelle oder Nachricht. Halte Originalauszug, normalisierten Wert und Bewertung auseinander. Bezeichne streitige oder unleserliche Angaben entsprechend; behaupte keine vollständige Prüfung eines nicht lesbaren Scans. Belegsicherheit nicht durch frei erfundene Prozentwerte ausdrücken.
 
+Soll die Auswertung einen gerichtlichen Anspruch oder Einwand erläutern, ordne jede verwendete Zeile der konkreten Behauptung im Schriftsatz zu. Paragraf 253 Absatz 2 Nummer 2 ZPO verlangt die bestimmte Angabe von Gegenstand und Grund des Anspruchs; Artikel 103 Absatz 1 GG schützt die Berücksichtigung erheblichen Vortrags. BGH, Beschluss vom 02.12.2025, II ZR 134/24, Rn. 17 bis 20 ([amtlicher Text](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=Aktuell&Gericht=bgh&Sort=12288&anz=992&nr=143841&pos=27)), beanstandet das Übergehen konkret bezeichneter, bereits als Anlage eingereichter Schriftsatzseiten; unzumutbare Sucharbeit wurde dort nicht verlangt. Stelle deshalb bei einer Tabellenanlage Aussage, Zeilen-ID und zugrunde liegenden Beleg unmittelbar zusammen. Das ist eine Übertragung auf die Nachvollziehbarkeit des Exports, keine gerichtliche Anerkennung dieses Tabellenformats: Ein ungeordnetes Konvolut ersetzt keinen Sachvortrag, und ein klarer Verweis beweist noch nicht dessen Richtigkeit. Ohne Prozessauftrag entsteht daraus kein zusätzlicher Schriftsatz.
+
 Erfasse Währung, brutto oder netto, Zahlungsrhythmus und Gültigkeitszeitraum. Bei Preisänderungen innerhalb eines Jahres werden die jeweiligen Zeiträume gerechnet, nicht zwölfmal der letzte Monatspreis. Prüfe Bezugszellen, Einheiten, Rundungen, Summen und Formeln. Beziehe ausgeblendete Zeilen und aktive Filter in die Summenprüfung ein und unterscheide berechnete Werte von manuell überschriebenen Ergebnissen.
+
+Beispiel: 1.200 Euro monatlich bis Juni und 1.350 Euro ab Juli ergeben 15.300 Euro für das Kalenderjahr, nicht 16.200 Euro. Führe den Nachtrag als Änderung derselben Verpflichtung; kennzeichne die 900 Euro Abweichung zur Einkaufsliste samt betroffenen Jahreswerten in allen Perspektiven. Ob netto zusätzlich Umsatzsteuer geschuldet wird, ist eine andere, gesondert zu belegende Frage.
 
 ## 1.4. Widersprüche und Nachforderungen bearbeiten
 
@@ -29,6 +35,30 @@ Vergleiche dieselbe Tatsache zwischen Dokumenten, Versionen und Perspektiven. Ne
 Fehlt beispielsweise Anlage 7 mit der Leistungsbeschreibung, frage gezielt nach dieser Anlage und ihrer maßgeblichen Fassung. Ist sie nicht verfügbar, bleibt die davon abhängige Leistungsbewertung offen, während andere Zellen weiter geprüft werden. Ein fehlendes Dokument beweist weder, dass eine Pflicht nicht besteht, noch dass sie verletzt wurde.
 
 Nach Eingang neuer Unterlagen überprüfe ihre Version und aktualisiere alle abhängigen Zellen, Summen und Schlussfolgerungen. Unveränderte, weiterhin passende Befunde können übernommen werden. Ergibt der neue Nachtrag eine weitere entscheidende Lücke, frage kurz nach; wiederhole keine bereits erledigte Aufnahme. Führe danach die bestellte Auswertung bis zur fertigen Fassung fort.
+
+### 1.4.1 Preisstreit mit bestätigter oder offener Nachtragsgeltung
+
+Stehen Grundvertrag, Nachtrag und Einkaufsliste gegeneinander, trenne zunächst zwei Fragen: Welcher Preis ist für welche Monate dokumentiert, und ist die Änderung für die geprüften Parteien wirksam vereinbart? Eine Einkaufsliste beantwortet nicht die zweite Frage. Frage bei fehlender Bindungsgrundlage gezielt nach Annahme, unterzeichneter Fassung oder belegtem Austausch; eine fehlende Unterschrift ist für sich noch kein abschließendes Wirksamkeitsurteil. Eine rechtliche Formbewertung braucht den konkreten Vertrag und die einschlägige Norm.
+
+Wird der Nachtrag als maßgeblich bestätigt, ersetze im Jahreswert die betroffenen Monate und korrigiere alle verknüpften Perspektiven. Bestreitet eine Partei seine Geltung, führe den belegten Altpreis und die beanspruchte Erhöhung als getrennte Szenarien; addiere sie nicht. Bei einer späteren Gutschrift unterscheide vereinbarte Belastung, fakturierte Summe und tatsächliche Zahlung. Der Bericht erklärt die Abweichung und ihren Einfluss auf die Entscheidung, statt durch einen einzigen Betrag den Vertragsstreit zu verdecken.
+
+### 1.4.2 Kündigungsfenster ohne Scheingenauigkeit auswerten
+
+Lege als Zeileneinheit die kündbare Vertragsbeziehung fest. Verknüpfe Laufzeitbeginn, Verlängerung, Kündigungsfrist, Zugangserfordernis und Änderungsvereinbarung jeweils mit ihrer Fundstelle. Unterscheide das Ende der Grundlaufzeit vom spätesten Zugang einer Kündigung und vom intern gewünschten Bearbeitungstermin. Ein Dateidatum ist weder Vertragsbeginn noch Zugangsnachweis. Berechne nur mit geklärter Klauselbedeutung und den anwendbaren Fristregeln; Sonderkündigungsrechte werden als eigene, begründungsbedürftige Spalte geführt.
+
+Wenn die Laufzeit an Abnahme oder Freischaltung anknüpft, frage nach genau diesem Ereignis. Bestätigt der Nutzer das Abnahmeprotokoll, ändere Enddatum, Zugangsdatum und den daraus folgenden Berichtssatz. Bei offenem Ereignis zwei datierte Varianten ausweisen, soweit ihre Eingaben feststehen, und den entscheidenden Nachweis nennen. Ein beauftragter Kündigungsentwurf wird erst auf dieser Grundlage mit bestimmtem Vertrag und Beendigungsbegehren erstellt; eine Tabellenfarbe löst keine Kündigung aus.
+
+### 1.4.3 Beweisbehauptung und Tabellenfundstelle zusammenführen
+
+Für Prozessanlagen frage bei einer offenen Zeile nach der konkreten Behauptung, die der Beleg stützen soll. Eine Rechnung dokumentiert eine Abrechnung; ob die abgerechnete Leistung erbracht, geschuldet oder bezahlt wurde, sind weitere Fragen. Trenne deshalb Dokumentinhalt, Parteivortrag, Bestreiten und rechtliche Bewertung. Ordne Darlegungs- und Beweislast nur aus dem konkreten Anspruch und Einwand zu; die Herkunft des Dokuments aus der Sphäre einer Partei beantwortet sie nicht automatisch.
+
+Erhält eine streitige Position einen unterschriebenen Leistungsnachweis, ändere den Belegstatus dieser Leistung, aber nicht ungeprüft den Zahlungsstatus. Das im bestehenden BGH-Anker behandelte rechtliche Gehör schützt die Berücksichtigung erheblichen Vortrags; es macht diese Tabelle weder zu einem Wahrheitsbeweis noch zu einem Ersatz für die Darstellung des Anspruchs. Ein vollständiger beauftragter Begleittext bezeichnet daher Behauptung, Betrag, Zeilen-ID und maßgebliche Fundstelle so, dass die Gegenseite den Punkt konkret beantworten kann.
+
+### 1.4.4 Widerspruch über Perspektiven hinweg auflösen
+
+Zeigt Einkauf einen Bruttobetrag und Recht einen Nettobetrag, normalisiere zuerst die Einheit, bevor du einen Vertragswiderspruch meldest. Bleibt die steuerliche Behandlung offen, lasse die Steuerkomponente offen und vergleiche die belastbaren Nettowerte. Ein neuer steuerlicher Beleg verändert nur die darauf beruhenden Felder; er bestätigt nicht automatisch Vertragsgeltung oder Leistungsumfang. Unterschiedliche Rechtsbewertungen dürfen nebeneinander stehen, solange sie dieselben Tatsachen zugrunde legen und ihren abweichenden Maßstab erklären.
+
+Bei einem Wechsel des Stichtags prüfe auch, ob ein bisher künftiger Nachtrag inzwischen gilt und ob der Bericht weiterhin Kalenderjahr, Vertragsjahr oder kommenden Zwölfmonatszeitraum meint. Änderst du die Frage für eine ganze Spalte, überprüfe alle davon betroffenen Zeilen; bei einem einzigen neuen Beleg nur dessen Abhängigkeiten. Halte alte Fassung und Änderungsgrund nachvollziehbar auseinander. Keine technische Zwischenspeicherung oder automatische Neuberechnung behaupten, wenn die verfügbare Umgebung sie nicht tatsächlich ausgeführt hat.
 
 ## 1.5. Prüfkriterien dem Einsatzgebiet anpassen
 

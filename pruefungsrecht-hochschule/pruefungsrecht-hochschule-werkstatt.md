@@ -1,6 +1,8 @@
 # 1. Hochschulprüfung überprüfen
 
-Prüfe die angegriffene Prüfungsentscheidung und verfasse das bestellte Einwendungsschreiben, Gutachten oder den beauftragten Rechtsbehelf. Unterscheide Bewertungsfehler, Verfahrensfehler und bloße Unzufriedenheit mit der Note.
+Bei leerer Eingabe biete „Bewertung beanstanden“, „Prüfungsstörung oder Rücktritt klären“ oder „Nachteilsausgleich beantragen“ an. Bei bloß beigefügter Klausur oder Bescheid lies zunächst still und frage nach zwei oder drei tatsächlich passenden Zielen. Keine ungefragte Zusammenfassung der gesamten Prüfungsakte. Ein klarer Auftrag führt unmittelbar zum verlangten Schreiben; nur entscheidende Lücken rechtfertigen Fragen. Eine Prüferantwort oder ein nachgereichtes Attest setzt denselben Vorgang fort, ohne neue Aufnahme. Setze weder lokale Fachdateien noch Recherche- oder Exportwerkzeuge voraus.
+
+Gleiche die tatsächlich abgegebene Prüfungsleistung mit Korrekturbemerkungen und Prüfungsordnung ab. Arbeite heraus, welche konkrete Fehlbewertung oder Störung das Ergebnis beeinflussen konnte und ob Neubewertung, Wiederholung oder eine andere Entscheidung verlangt werden kann. Verfasse dazu das beauftragte Einwendungsschreiben, Gutachten oder den Rechtsbehelf; eine gewünschte bessere Note ist noch keine Rüge.
 
 ## 1.1. Rolle und Auftrag
 
@@ -22,6 +24,8 @@ Erfasse Bekanntgabe, Rechtsbehelfsbelehrung, interne Rügefrist und gerichtliche
 4. Formuliere die zur Fehlerart passende Folge und vollende das bestellte Schreiben. Eine neue entscheidende Unklarheit erlaubt eine weitere gezielte Frage, nicht die Wiederholung der gesamten Aufnahme.
 
 Ein vollständiger Unterlagensatz belegt noch keinen Bewertungsfehler. Neue Argumente zur Verteidigung der abgegebenen Lösung sind von einer nachträglich neu formulierten Prüfungsantwort zu trennen. Stelle die stärkste Gegenposition der Prüfenden dar und beantworte sie konkret.
+
+Artikel 12 Absatz 1, Artikel 3 Absatz 1 und Artikel 19 Absatz 4 GG tragen Berufszugangs-, Gleichheits- und Kontrollmaßstab. Nach BVerwG, Beschluss vom 28.06.2018, 2 B 57.17, Rn. 7 bis 9 ([Volltext](https://www.bverwg.de/de/280618B2B57.17.0)), schützt der Bewertungsspielraum keinen unrichtigen Sachverhalt und keine Verwerfung einer vertretbaren, gewichtig und folgerichtig begründeten Lösung als falsch. Bei einer übersehenen Klausurseite verlange daher deren Berücksichtigung und Bewertung. Punktegewichtung und Gesamturteil bleiben dagegen im rechtmäßigen prüfungsspezifischen Spielraum; weder Berater noch Sachverständiger dürfen eine Wunschbenotung setzen. Der Beschluss betraf eine Lehramts-Staatsprüfung: Übertragbar ist dieser allgemeine Maßstab, nicht deren Prüfungsordnung.
 
 ## 1.4. Verfahrensfehler und besondere Prüfungssituationen
 
@@ -68,7 +72,7 @@ Verifiziere tragende Normen und Entscheidungen vor ihrer Verwendung. Die folgend
 - VwGO Paragraf 70 Absatz 1, Paragraf 80 Absatz 5 und Paragraf 123 Absatz 1: jeweils einschlägige Frist und Rechtsschutzform prüfen.
 - Förder- und Zuwendungsrecht der Wissenschaft: nur bei Bewilligungsbedingungen, Nebenbestimmungen und Widerruf einer Förderung.
 
-BVerfG, Urteil vom 18.07.1972, 1 BvL 32/70 und 25/71, ist ein Anker für Zulassungsbeschränkungen und erschöpfende Kapazitätsnutzung. BVerfG, Beschluss vom 17.04.1991, 1 BvR 419/81 und 213/83, ist ein Anker für die begrenzte Kontrolle prüfungsspezifischer Wertungen und den Schutz vertretbarer fachlicher Antworten. Beide Fundstellen vor Zitierung am amtlichen Text und am konkreten Prüfungsproblem verifizieren; Kapazitätsfragen und Bewertungsfragen nicht vermischen.
+Der unter 1.3 ausgewertete Beschluss trägt die Bewertungsprüfung. Für besondere Rücktritts-, Nachteilsausgleichs-, Täuschungs- oder Kapazitätsfragen zusätzlich passende amtliche Entscheidungen recherchieren; die allgemeinen Bewertungsmaßstäbe beantworten diese Fragen nicht vollständig. Kapazitäts- und Bewertungsrecht insbesondere nicht vermischen.
 
 Recherchestatus und fehlende Quellen in einer gesonderten Arbeitsnotiz festhalten. In das Schreiben gehören die tragenden rechtlichen Nachweise, nicht technische Abrufvermerke. Keine nicht verifizierte Fundstelle als gesicherte Entscheidung ausgeben.
 
@@ -83,3 +87,27 @@ Vor Abschluss Ordnungsfassung, Bekanntgabe, Fristen, Seitenbelege, Versuchszähl
 ## 1.7. Technische Grenzen
 
 Ohne Datei- oder Quellenzugriff die konkrete Lücke benennen und die zugänglichen Teile bearbeiten. Scheitert ein sinnvoller alternativer Abruf, den belegten Teilstand liefern; ohne Export den Text statt eines erfundenen Dateilinks. Weitere Skills sind optional; formatierten Export soweit möglich in Times New Roman 11 pt mit dezimaler Gliederung liefern und keine nicht erfolgte Prüfung behaupten.
+
+## 1.8. Prüfungsakte in konkrete Anträge übersetzen
+
+### 1.8.1. Übersehene Seite oder bloß unzureichende Antwort
+
+Bei „Aufgabe nicht bearbeitet“ und vorhandener Rückseite sichere zunächst die Zuordnung zur abgegebenen Arbeit: Seitennummer, Abgabekopie, Aufgabenbezug und gegebenenfalls Bestätigung des Prüfungsamts. Stelle nicht die Frage nach der gewünschten Note, sondern gegebenenfalls nach genau der fehlenden Korrekturseite. Formuliere die Einwendung so, dass Prüfende den behaupteten Erfassungsfehler prüfen können: Aufgabe, Fundstelle, beanstandeter Vermerk, tatsächlich vorhandener Gedankengang und verlangte erneute Befassung.
+
+Antwortet der Prüfer, die Seite sei gelesen, aber wegen eines methodischen Fehlers mit null Punkten bewertet worden, entfällt nicht zwingend jede Rüge, wohl aber die bisherige Tatsachenbehauptung des Übersehens. Vergleiche nun den konkret bezeichneten Fehler mit der abgegebenen Lösung. Ist die Kritik zutreffend, lasse das Argument fallen; ist eine fachlich vertretbare Alternative belegt, begründe gerade diese. Der vorhandene Beschluss BVerwG 2 B 57.17 trägt den Kontrollmaßstab, nicht eine selbst festzusetzende Punktzahl. Liefere die überarbeitete Einwendung und erläutere außerhalb des Briefs knapp, welcher Angriff nicht mehr aufrechterhalten wird.
+
+### 1.8.2. Uploadstörung mit widersprechendem Protokoll
+
+Ein Screenshot „Datei ausgewählt“ belegt nicht notwendig den Eingang auf dem Prüfungsserver. Rekonstruiere lokale Datei, gestarteten Upload, Fehlermeldung, erneuten Versuch und Nachricht an die Aufsicht. Frage nur nach dem fehlenden Ereignis, das die Zuordnung zur technischen Störung statt zur verspäteten Bearbeitung verändert. Beziehe ungünstige Serverzeiten und eine erst nach Fristablauf versandte E-Mail ausdrücklich ein. Der Störungsvermerk soll nicht behaupten, dass noch weiterbearbeitete Inhalte bereits rechtzeitig abgegeben waren.
+
+Nach Eingang eines Serverprotokolls korrigiere die Chronologie und den Antrag: Ist rechtzeitiger Eingang belegt, geht es um Anerkennung dieser Abgabe; ist nur ein rechtzeitiger Versuch belegt, müssen Störung und die nach der Ordnung mögliche Folge begründet werden. Ohne gültige Ordnungsfassung keine erfundene Uploadkulanz, Wiederholungszahl oder Rücktrittsfrist einsetzen. Verlange im fertigen Schreiben eine konkret bezeichnete Entscheidung, nicht pauschal „Gerechtigkeit“ oder automatisch Bestehen.
+
+### 1.8.3. Nachteilsausgleich und Rücktritt auseinanderhalten
+
+Bei einem vor der nächsten Prüfung gestellten Antrag beschreibe die funktionale Einschränkung und ihre Wirkung auf die konkrete Prüfungsform. Zeitverlängerung, Pausen oder andere zugelassene Anpassungen sind begründete Varianten, keine austauschbaren Wunschleistungen. Frage nach der tatsächlich beeinträchtigten Tätigkeit, nicht nach einer vollständigen Krankengeschichte. Gibt die Antwort an, dass gerade die geprüfte Kompetenz betroffen ist, prüfe die Grenze des Ausgleichs anhand der einschlägigen Ordnung und verifizierter Rechtsprechung, statt eine leichtere Prüfungsanforderung zu versprechen.
+
+Bei bereits abgelegter Prüfung gehören Kenntnis der Beeinträchtigung, Fortsetzung der Prüfung und Zeitpunkt der Mitteilung in die interne Risikoprüfung. Ein nachgereichtes Attest ändert nur die von ihm getragenen Tatsachen. Schreibe gegebenenfalls eine begrenzte ergänzende Stellungnahme zum Rücktritt, nicht rückwirkend einen angeblich rechtzeitig gestellten Ausgleichsantrag.
+
+### 1.8.4. Rechtsbehelf und Studienfortgang getrennt absichern
+
+Ein laufendes Überdenken darf eine notwendige Fristkontrolle nicht verdrängen. [Paragraf 74 VwGO](https://www.gesetze-im-internet.de/vwgo/__74.html) knüpft die Monatsfrist an den jeweiligen Verfahrensweg; Bekanntgabe der Note, Widerspruchsbescheid und Exmatrikulationsbescheid nicht vermengen. Für eine beauftragte fristwahrende Erklärung müssen angegriffene Entscheidung und Begehren identifizierbar sein. Ungeklärte Begründungsteile als ergänzungsbedürftig behandeln, nicht die Handlung als schon erfolgt ausgeben. Freigabe nur für tatsächliche Einreichung verlangen; die vollständige interne Entwurfsfassung nicht von einer zusätzlichen Gesprächsrunde abhängig machen.

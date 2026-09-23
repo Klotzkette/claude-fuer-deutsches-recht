@@ -1,15 +1,15 @@
-# 1. Denkmalschutzrecht — Schnellstart
+# 1. Denkmalschutzrecht: Schnellstart
 
-Prüfe Denkmaleigenschaft, Erlaubnis, Erhaltung, Zumutbarkeit, Bodendenkmal oder steuerliche Bescheinigung anhand des konkreten Objekts und des einschlägigen Landesrechts.
+Prüfe, ob die geplante Arbeit am Denkmal erlaubnisfrei bleibt, welche substanzschonende Ausführung genehmigungsfähig ist oder ob eine Erhaltungsforderung den Eigentümer unzumutbar belastet. Begründe die beauftragte Maßnahmenbeschreibung, Behördenantwort oder Beratung aus dem konkreten Befund.
 
 Lies vorhandene Pläne, Befunde, Bescheide und Korrespondenz und schreibe die beauftragte Maßnahmenbeschreibung, Behördenantwort oder rechtliche Bewertung. Artikel 14 und Artikel 70 GG bilden den bundesstaatlichen Rahmen; maßgeblich bleibt das jeweilige Landesgesetz.
 
 ## 1.1. Sofortstart nach Eingangslage
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Objekt und Landesrecht, Vorhaben und Bestand, Erlaubnis und Abwägung wählen; ohne konkreten Auftrag mit Objekt und Landesrecht beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+- Ohne Eingabe: „Soll ein Umbau erlaubt, eine Erhaltungsforderung beantwortet oder eine Sanierung steuerlich bescheinigt werden?“
+- Dateien ohne Auftrag: Befunde und Bescheid still lesen, dann etwa Maßnahmenbeschreibung oder Antwort auf den Baustopp anbieten; keine Gesamtauswertung.
+- Klarer Auftrag: Direkt den bestellten Text erstellen, nur entscheidende Lücken klären. Keine künstliche Gesprächsrunde.
+- Folgeantwort: „Unter den Fliesen liegt historischer Boden“ ändert Eingriffsbeschreibung und Freistellungsprüfung; die bisherige Substanzannahme streichen. Bekannte Objektangaben behalten. Kein Plugin-Zugriff erforderlich.
 
 Frage nach den entscheidenden fehlenden Angaben, auch wenn bereits Material vorliegt. Fehlt ein Befund zum geplanten Fensteraustausch, fordere die Dokumentation der vorhandenen Substanz und die Ausführungsvariante an. Prüfe nach Eingang die Beeinträchtigung erneut und überarbeite die Maßnahmenbeschreibung. Zeigen sich neue entscheidende Lücken, frage gezielt weiter; bekannte Objekt- und Mandatsangaben übernehmen.
 
@@ -20,7 +20,7 @@ Frage nach den entscheidenden fehlenden Angaben, auch wenn bereits Material vorl
 3. Verbinde historische Substanz, Maßnahme, Material, Gestaltung, Nutzung, Statik und Energie mit ihren Nachweisen. Bundesland, Denkmalstatus und Schutzumfang nicht vermuten.
 4. Bei streitiger Zumutbarkeit fehlende Kostenangebote, Ertragsdaten oder Förderentscheidungen gezielt anfordern. Nach Prüfung der neuen Angaben die Rechnung und das bestellte Schreiben aktualisieren; eine Fördermöglichkeit nicht als bewilligte Förderung behandeln.
 
-## 1.3. Kernroute
+## 1.3. Schutzumfang und Eingriff
 
 1. Objekt und Landesrecht: Adresse, Flurstück, Denkmalart, Listeneintrag, Schutzumfang, Umgebung und zuständige Behörden feststellen.
 2. Vorhaben und Bestand: historische Substanz, geplante Maßnahme, Material, Gestaltung, Nutzung, Statik, Energie und Alternativen dokumentieren.
@@ -34,17 +34,16 @@ Ordne Plan, Gutachten und Bescheid dem konkreten Objekt und Stand zu. Ein vorhan
 
 ## 1.5. Ergebniswahl
 
-Bei Baumaßnahmen: Maßnahmenblatt mit Bestand, Eingriff und erlaubnisfreier oder erlaubnispflichtiger Variante. Bei Unzumutbarkeit: belegte Kosten-, Ertrags- und Förderrechnung. Bei Bescheid: Rechtsbehelf mit Zustellung und statthaftem Verfahrensweg.
+Bei Baumaßnahmen Bestand, Eingriff und erlaubnisfreie oder erlaubnispflichtige Variante darstellen. Bei Unzumutbarkeit die belegte Kosten-, Ertrags- und Förderrechnung auswerten. Bei Bescheiden Zustellung und Verfahrensweg prüfen; einen Rechtsbehelf nur bei entsprechendem Auftrag ausarbeiten.
 
-## 1.6. Anker
+## 1.6. Erlaubnisfreiheit und Eigentümerbelastung
 
 - GG Artikel 14 und Artikel 70: Eigentumsgarantie sowie grundsätzlich landesrechtliche Gesetzgebungskompetenz für Denkmalschutz.
 - Denkmalschutzgesetz des zuständigen Landes: Denkmalbegriff, Eintragung oder ipso-iure-Schutz, Erhaltung, Erlaubnis, Bodendenkmal, Anordnung und Sanktion.
 - BauGB und Landesbauordnung: planungs- und bauordnungsrechtliche Zulässigkeit zusätzlich, aber getrennt vom denkmalrechtlichen Erlaubnistatbestand.
 - VwVfG und VwGO: Anhörung, Bestimmtheit, Ermessen, Zustellung, Widerspruch oder Klage und Eilrechtsschutz.
-- Artikel 14 Absatz 3 GG gilt nur für eine Enteignung zum Wohl der Allgemeinheit auf gesetzlicher Grundlage; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 14 Abs. 1 Satz 1 GG Eigentumsgarantie; Satz 2 Inhalts- und Schrankenbestimmung durch Gesetz; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- [Artikel 6 BayDSchG](https://www.gesetze-bayern.de/Content/Document/BayDSchG-6), Fassung ab 01.05.2026: In Bayern unter anderem Freistellungen für bestimmte substanzschonende Küchen- und Baderneuerungen prüfen; Tatbestand und Erlaubnisentscheidung nicht verwechseln. Keine Übertragung auf andere Länder.
+- [Artikel 6 Absatz 3 Nummer 1 Buchstabe a BayDSchG](https://www.gesetze-bayern.de/Content/Document/BayDSchG-6), ab 01.05.2026: Küchen- und Baderneuerungen sind nur ohne Verlust historischer Ausstattung oder Bauelemente, Grundrissänderung oder erheblichen Eingriff in Mauerwerk oder Boden freigestellt. Neuere Fliesen belegen nicht den Zustand verdeckter Substanz. Absatz 5 betrifft die gesonderte Erlaubnis bei erforderlicher Baugenehmigung, nicht den Wegfall materieller Schutzanforderungen. Keine Übertragung auf andere Länder.
+- Bei fehlender sinnvoller Nutzung und praktisch unveräußerlichem Denkmal nach Artikel 14 Absatz 1 Satz 2 GG und [BVerfG, Beschluss vom 02.03.1999, Az. 1 BvL 7/91](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/1999/03/ls19990302_1bvl000791.html), Randnummern 92 bis 104, reale Entlastung und gesetzlich vorgesehenen Ausgleich prüfen. Ausgleich ist mit der belastenden Entscheidung zu klären, nicht erst nach deren Bestandskraft zu erhoffen. Der Beschluss zum früheren rheinland-pfälzischen Recht begründet keinen Abrissanspruch bei jeder unrentablen Sanierung.
 
 ## 1.7. Antwortform
 

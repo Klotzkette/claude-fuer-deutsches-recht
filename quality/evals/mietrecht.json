@@ -1,8 +1,13 @@
 {
   "schema_version": 1,
   "plugin": "mietrecht",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/BJNR001950896.html",
+      "checked_on": "2026-09-23",
+      "supports": "Bei der Workflow-Ergänzung amtlichen Gesamttext zu Paragrafen 548, 556, 569 und 573 gelesen: unterschiedliche Fristbeginne für Ersatzansprüche, Betriebskosten und Belegeinsicht, Schonfrist und eigenständige ordentliche Kündigung. Einzelabrufe von Paragrafen 548, 556 und 569 nicht erfolgreich; Gesamttext als benannter Ersatz verwendet."
+    },
     {
       "url": "https://www.gesetze-im-internet.de/bgb/BJNR001950896.html",
       "checked_on": "2026-09-14",
@@ -12,15 +17,38 @@
       "url": "https://www.gesetze-im-internet.de/bgb/__569.html",
       "checked_on": "2026-09-14",
       "supports": "Wohnraumschwelle von mehr als einer Monatsmiete und Schonfristvoraussetzungen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__569.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlichen Volltext gelesen: Wohnraumschwelle, Kautionsverzug und Schonfrist einschließlich Nutzungsentschädigung, Rechtshängigkeit und Zweijahresausschluss."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__578.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlichen Volltext gelesen: Textform bei langfristiger Grundstücks-/Gewerberaummiete und abweichende Anwendungsbereiche."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgbeg/art_229__70.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlichen Volltext gelesen: altes Gewerbemietregime bis einschließlich 01.01.2026, vorzeitige Anwendung des neuen Rechts bei Änderungen ab 01.01.2025."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2023/VIII_ZR_287-23.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-23",
+      "supports": "BGH, Urteil vom 23.07.2025, VIII ZR 287/23, Rn. 10–12: Schonfristzahlung heilt eine ordentliche Zahlungsverzugskündigung weder unmittelbar noch analog; deren Voraussetzungen nach Paragraf 573 Absatz 2 Nummer 1 BGB getrennt prüfen. Grenze: Im Fall nur ordentliche Kündigung; sonstige Voraussetzungen revisionsrechtlich unterstellt und Zurückverweisung, deshalb keine automatische Wirksamkeit oder Erfolgsgarantie. Amtlichen Volltext gelesen."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der gesamte Mini wurde auf monatsbezogene Rückstände, Kündigungswege und Schonfrist geprüft.",
+    "reason": "Mini individuell um drei Eingangsmodi, konkreten Dokumentpfad und getrennte Verarbeitung neuer Zahlung und Mangelanzeige ergänzt. Rückstand bei Kündigung und späterer Saldo werden getrennt; bisherige Schonfrist- und Kündigungsabgrenzung erhalten. Desk-Prüfung.",
     "changes": [
-      "Nach Zahlungszuordnung, Mangelzeitraum oder Betriebskostenbeleg Rechnung und bestelltes Schreiben aktualisieren."
+      "VIII ZR 287/23 vollständig amtlich gelesen und in beiden Prompts mit Zurückverweisungsgrenze sowie eigenständiger Prüfung nach Paragraf 573 BGB angewendet.",
+      "Gewerbemiet-Textform einschließlich Altfrist bis einschließlich 01.01.2026 und Schriftsatzformfiktion vom Wohnraumregime getrennt.",
+      "Rückstandsbeispiel und amtliche Mietspiegelmerkmale ergänzt; ungeprüfte Altentscheidungen durch konkrete Recherchefragen ersetzt.",
+      "Zahlungseingang verändert Monatsrechnung und Begründung im bestehenden Dokument; Mangelzeitraum gesondert prüfen."
     ],
-    "sha256": "b12a812b585c6a1e25481de495335a622a30cbdabdf769884d53e8a3a0dc87c0"
+    "sha256": "48c18a419cbc9b289edb968d48292f15323c3e28c3cc9f61acd3b4fa942e37ec"
   },
   "selection": {
     "positive": [
@@ -68,10 +96,60 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die vollständige Werkstatt wurde einschließlich Mängeln, Erhöhung, Betriebskosten und WEG-Schnittstellen gelesen.",
+    "reason": "Vollständig individuell geprüfte Werkstatt mit Berechnungsstichtagen, Hauswartbelegen, Mangelumfang, Mietspiegelfeldwechsel, Eigenbedarfsplanung und Rückgabe vertieft. WEG-Route, aktuelles Gewerbemietformrecht und Grenzen des Schonfristankers bleiben erhalten; kein Live-Test.",
     "changes": [
-      "Rückstands- und Kündigungsprüfung individualisiert; WEG-Anfechtungs- und Begründungsfrist sowie Zustimmungsfrist getrennt."
+      "VIII ZR 287/23 vollständig amtlich gelesen und in beiden Prompts mit Zurückverweisungsgrenze sowie eigenständiger Prüfung nach Paragraf 573 BGB angewendet.",
+      "Gewerbemiet-Textform einschließlich Altfrist bis einschließlich 01.01.2026 und Schriftsatzformfiktion vom Wohnraumregime getrennt.",
+      "Rückstandsbeispiel und amtliche Mietspiegelmerkmale ergänzt; ungeprüfte Altentscheidungen durch konkrete Recherchefragen ersetzt.",
+      "Streitige Minderung, Guthabenverrechnung und verschiedene Rückstandsstichtage in Rechnung und Kündigungsbewertung getrennt.",
+      "Kostenaufteilung, Teilreparatur, Flächennachweis, geänderte Nutzungsplanung und Rückgabezeitpunkt mit konkreten Dokumentfolgen ergänzt."
     ],
-    "sha256": "57705a13a15c5882feccdb28184f151290b007f73619b40692fc735b5eb580b5"
+    "sha256": "02df9b59098b17b7ef9809689eb8e99e247bf7ba8df88320ecc2f792fae2860f"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "mietrecht/README.md",
+      "mietrecht/mietrecht-schnellstart.md",
+      "mietrecht/mietrecht-werkstatt.md",
+      "quality/evals/mietrecht.json",
+      "mietrecht/skills/mahnung-zahlungsverzug-mieter/SKILL.md"
+    ],
+    "opening_change": "Kündigungsrelevanten Rückstand aus Monaten und Einwendungen berechnen; andere Mietstreitpunkte nach ihrem konkreten Anspruch bearbeiten.",
+    "norms": [
+      "Paragrafen 543 und 569 BGB",
+      "Paragraf 573 Absatz 2 Nummer 1 BGB",
+      "Paragrafen 535, 536 und 536c BGB",
+      "Paragrafen 556 und 556a BGB",
+      "Paragraf 578 BGB und Artikel 229 Paragraf 70 EGBGB",
+      "Paragraf 130e ZPO",
+      "Paragrafen 44 und 45 WEG"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 23.07.2025, VIII ZR 287/23, Rn. 10–12",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2023/VIII_ZR_287-23.pdf?__blob=publicationFile&v=1",
+        "application": "Schonfristzahlung heilt eine ordentliche Zahlungsverzugskündigung weder unmittelbar noch analog; deren Voraussetzungen nach Paragraf 573 Absatz 2 Nummer 1 BGB getrennt prüfen.",
+        "limit": "Im Fall nur ordentliche Kündigung; sonstige Voraussetzungen revisionsrechtlich unterstellt und Zurückverweisung, deshalb keine automatische Wirksamkeit oder Erfolgsgarantie."
+      }
+    ],
+    "remaining_limits": [
+      "Desk-/Quellenprüfung, kein Live-Modell- oder Mandatstest; örtliche Mietspiegel und Verordnungen nicht flächendeckend aktualisiert.",
+      "Ordentlicher Skill mahnung-zahlungsverzug-mieter nur gelesen, nicht im Schreibbereich: dort verbleiben zu pauschale Aussagen zur Wirksamkeit ordentlicher Kündigung, Unterschrift aller Vermieter und ältere ungeprüfte Entscheidungen; Prompts verlangen eigenständige Prüfung.",
+      "Weitere Spezialrechtsprechung zu Schönheitsreparaturen, Aufzug und Eigenbedarf nicht als neu verifiziert ausgewiesen.",
+      "Workflow-Ergänzung 2026-09-23: Alle bisherigen Profil-URLs erneut aufgerufen. Paragraf 578 BGB und Artikel 229 Paragraf 70 EGBGB erneut amtlich gelesen; Paragrafen 548, 556 und 569 BGB über Gesamttext geprüft. Erneuter Abruf des BGH-PDF VIII ZR 287/23 erfolglos; die frühere datierte Volltextprüfung wird erhalten und nicht als neuer Abruf ausgegeben. Keine flächendeckende Mietspiegelprüfung, keine Live-Mandatsausführung."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Auswahl zwischen Rückstand/Kündigung, Mangel und Miethöhe/Betriebskosten.",
+      "Dateien ohne Auftrag: Vertrag und Belege still lesen und danach nur gewünschtes Ergebnis klären; erkennbaren WEG-Auftrag gesondert bearbeiten.",
+      "Klarer Auftrag: unmittelbar rechnen oder formulieren und nur ergebnisrelevante Beträge, Zeiträume und Fristnachweise nachfragen."
+    ],
+    "continuation": "Zahlung, Mangelbeleg oder Flächennachweis ändern betroffene Monate, Anspruchsumfang und Begründung im bisherigen Nutzerpfad, ersatzweise ergebnis.md; Kündigungsstichtag und späterer Saldo bleiben getrennt.",
+    "enrichment": "Guthaben und Minderung, Einzelpositionen der Betriebskosten, Teilabhilfe bei Mängeln, Mietspiegelmerkmale, Nutzungsplanung, Härtebelege und Rückgabe als Auslöser konkreter Rechnungs- und Textänderungen ergänzt.",
+    "limits": "desk review; no live client execution"
   }
 }

@@ -1,14 +1,16 @@
 # 1. Handels- und Gesellschaftsrecht: Schnellstart
 
-Erstelle das verlangte handels- oder gesellschaftsrechtliche Arbeitsprodukt. Lies zuerst Vertrag, Satzung, Registerlage, Beschlüsse und tragende Korrespondenz. Bestimme Parteirolle, Rechtsform, wirtschaftliches Ziel, Vertretung und Termin aus den vorhandenen Angaben. Ein Handelskauf oder Handelsvertretermandat darf nicht automatisch in einen gesellschaftsrechtlichen Beschlussweg geraten. Frage nur nach entscheidenden Lücken; auch eine vorhandene Vertrags- oder Registerdatei kann den maßgeblichen Zeitpunkt nicht abdecken.
+Prüfe, ob der angegriffene Beschluss Bestand hat, eine GmbH-Einziehung finanziert werden kann oder der geltend gemachte Handelsanspruch durchsetzbar ist. Lies zuerst Vertrag, Satzung, Registerlage, Beschlüsse und Korrespondenz. Bestimme Rolle, Rechtsform, Vertretung und Termin daraus und liefere das verlangte Gutachten, Schreiben oder Vertragsdokument. Ein Handelskauf oder Handelsvertretermandat führt nicht in einen gesellschaftsrechtlichen Beschlussweg. Frage nur nach entscheidenden Lücken.
 
 ## 2. Die passende Rechtsfrage
+
+Ohne Eingabe biete Beschlussangriff, Abfindungsfinanzierung oder Handelsforderung an. Dateien ohne Aufgabe still lesen und nur das konkrete Ziel klären. Klare Aufgaben direkt bearbeiten. Auf „Der Zuschuss ist rückzahlbar“ prüfe die Verpflichtung neu: Liquidität und freies Vermögen nicht gleich erhöhen; Gremienempfehlung und Entwurf anpassen. Kein erneuter Fragenkatalog bei bekannten Daten.
 
 Bei Gesellschafterstreit Beschluss, Satzung, Beteiligung und Bekanntgabe erfassen; GmbH, AG und Personengesellschaft nicht mit einem einheitlichen Fristen- oder Beschlussmängelschema behandeln. Bei Gestaltung Wirksamkeit des Beschlusses, Vertretungsmacht, Form und Registervollzug getrennt prüfen. Bei Organhaftung Schaden, Pflichtenkreis, Informationsgrundlage und Entlastung anhand der konkreten Anspruchsnorm zuordnen, keine allgemeine Beweislastformel für sämtliche Organe und Gesellschafter verwenden.
 
 Bei Handelskauf Bestellung, Annahme, Lieferbeleg, Untersuchung und Rüge lesen. Beim Handelsvertreter Vertrag, Beendigung, Kunden- und Provisionsdaten auswerten. Frist, Rechtsfolge und Beweisbedarf jeweils am tatsächlichen Geschäft bestimmen, nicht aus dem benachbarten Gesellschaftsrecht übernehmen.
 
-Fehlt beim Handelskauf der Nachweis des Rügezugangs, frage nach Nachricht und Übermittlungsbeleg; behandle den Zugang bis dahin nicht als feststehend. Ordne nach Eingang die betroffenen Mängel neu ein und schreibe das beauftragte Anspruchs- oder Erwiderungsschreiben fertig. Bei streitigen Provisionsdaten fordere die konkret fehlenden Abrechnungen an und aktualisiere nach ihrer Prüfung die Forderungsberechnung. Ein Gutachtenauftrag führt nicht ungefragt zu einer Klage.
+Fehlt beim Handelskauf der Rügenachweis, frage nach Nachricht und Absendungsbeleg: Paragraf 377 Absatz 4 HGB lässt rechtzeitige Absendung genügen. Ordne nach Eingang die betroffenen Mängel neu ein und schreibe das beauftragte Anspruchs- oder Erwiderungsschreiben fertig. Bei streitigen Provisionsdaten fordere die konkret fehlenden Abrechnungen an und aktualisiere nach ihrer Prüfung die Forderungsberechnung. Ein Gutachtenauftrag führt nicht ungefragt zu einer Klage.
 
 ## 3. Finanzielle Rechtsfolgen prüfbar machen
 
@@ -22,7 +24,9 @@ Erstelle das beauftragte Beschluss-, Vertrags-, Anspruchs- oder Erwiderungsdokum
 
 ## 5. Quellen und Arbeitsgrenzen
 
-[Paragraf 34 GmbHG](https://www.gesetze-im-internet.de/gmbhg/__34.html) und [Paragraf 30 GmbHG](https://www.gesetze-im-internet.de/gmbhg/__30.html) regeln Einziehung und Kapitalerhaltung. [BGH, Urteil vom 26.06.2018, Az. II ZR 65/16](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=86101), amtlicher Leitsatz: Fehlendes freies Vermögen wird nicht durch stille Reserven ersetzt. [BGH, Urteil vom 10.05.2016, Az. II ZR 342/14](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=74863), amtliche Leitsätze zur treuwidrigen Fortsetzung. Am 14.09.2026 amtliche Suchauszüge geprüft; Volltextabrufe gesperrt. Weitergehende Rechtsprechung und für andere Mandate einschlägige Normen live verifizieren.
+[Paragrafen 34 Absatz 3](https://www.gesetze-im-internet.de/gmbhg/__34.html) und [30 Absatz 1 GmbHG](https://www.gesetze-im-internet.de/gmbhg/__30.html): Steht bei Beschlussfassung fest, dass die Abfindung nicht aus freiem Vermögen zahlbar ist, ist der Beschluss entsprechend Paragraf 241 Nummer 3 AktG nichtig. [BGH, Urteil vom 26.06.2018 - Az. II ZR 65/16](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2016/II_ZR__65-16.pdf?__blob=publicationFile&v=1), Rn. 13 bis 17, stellt auf Buchwerte ab; noch auflösbare stille Reserven genügen nicht. Begründe die Empfehlung daher aus der Vermögensrechnung, nicht aus der Kreditlinie.
+
+Bei erst späterer Zahlungssperre verlangt [BGH, Urteil vom 10.05.2016 - Az. II ZR 342/14](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2014/II_ZR_342-14.pdf?__blob=publicationFile&v=1), Rn. 21 bis 33, für persönliche Haftung treuwidrige Fortsetzung ohne Abfindungsmaßnahmen. Prüfe Insolvenzlage und Sicherungsabreden; bloße Nichtzahlung reicht nicht. Beide Volltexte sind geprüft, andere Mandatsfragen gesondert recherchieren.
 
 Keine Beschlüsse fassen, Registeranmeldungen absenden oder Zahlungen vornehmen. Keine ungeprüften Fundstellen. Echte Umlaute und ß, dezimale Gliederung, Paragraf ausschreiben; Times New Roman 11 pt beim Export, sonst als Exporthinweis. Keine Skelette als Endprodukt.
 

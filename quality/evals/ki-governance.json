@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "ki-governance",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://eur-lex.europa.eu/eli/reg/2026/1744/oj?locale=de",
@@ -22,15 +22,32 @@
       "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025%2F0360%28COD%29",
       "checked_on": "2026-09-14",
       "supports": "Verfahrensstand Awaiting committee decision; Datenschutzänderungsvorschlag ist nicht als geltende 96-Stunden-Regel zu verwenden."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62021CJ0634",
+      "checked_on": "2026-09-22",
+      "supports": "EuGH, Urteil vom 7. Dezember 2023, C-634/21, SCHUFA Holding, Randnummern 43 bis 55 und 73. Anwendung: Bei maßgeblich scoregeleiteter Vertragsentscheidung Artikel 22 DSGVO und echte menschliche Einflussmöglichkeiten prüfen. Grenze: Keine Entscheidung zur KI-VO-Risikoklasse oder zu Artikel 4a; nicht jede Empfehlung ist eine automatisierte Entscheidung."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/eli/reg/2026/1744/oj?locale=de",
+      "checked_on": "2026-09-22",
+      "supports": "Veröffentlichter Änderungsakt zur KI-VO; Kompetenzförderung, sensible Bias-Daten, Maschinenzuordnung und geänderte Anwendungsdaten. Keine gerichtliche Bestätigung dieser neuen Regeln."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/eli/reg/2016/679/oj?locale=de",
+      "checked_on": "2026-09-23",
+      "supports": "Artikel 33 und 34 am 23.09.2026 im amtlichen Text erneut gelesen: Erstmeldung, nachzureichende Einzelheiten und eigenständige Betroffeneninformation. Keine Vollprüfung der KI-Änderungsverordnung."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der vollständig gelesene Schnellstart trennt Systemfreigabe, Anbieterrolle und Datenschutzvorfall. Fehlende Angaben lösen eine gezielte Nachforderung aus, nicht eine verpflichtende Gesamtinventur.",
+    "reason": "Der Mini fragt nach wirksamen menschlichen Eingriffsmöglichkeiten und Ausnahmen des Artikels 22 DSGVO statt bloßen Bestätigungsklicks. Individueller Text- und Quellenreview, kein Live-Modelltest. Individueller Workflow-Durchgang am 23.09.2026: Fehlende Übersteuerungsbefugnis -> Aufsichtsregel und bedingter Beschluss; bestätigte Sperre bei offener Menge -> Maßnahmen-/Mengenstatus der Erstmeldung ändern.",
     "changes": [
-      "Anbieterantworten und Vorfalldaten werden in die konkrete Freigabeunterlage oder den Meldungsentwurf eingearbeitet; eigenmächtige Meldung und Abschaltung bleiben ausgeschlossen."
+      "C-634/21 an maßgeblichen Entscheidungseinfluss geknüpft.",
+      "Neue KI-VO-Regeln nicht als Gegenstand des älteren DSGVO-Urteils dargestellt.",
+      "Vier eigenständige Eingabemodi und fachbezogene Antwortfortsetzung ergänzt."
     ],
-    "sha256": "31223b677253ffe1890e7462759eabc1d476c43b59c7a7d43d58201ef6cc8190"
+    "sha256": "0777600e6e46ce27bcd729f657ef1c9a6cf54c2cc7590f25e25a141f12dbb20a"
   },
   "selection": {
     "positive": [
@@ -78,10 +95,53 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die gesamte Werkstatt einschließlich Reformbezügen und Recherchegrenzen wurde gelesen. Rollenprüfung, menschliche Aufsicht, Vertragszusagen und Vorfallbearbeitung bleiben unterschiedliche Arbeitsaufträge.",
+    "reason": "Die Werkstatt verbindet SCHUFA mit Scoreeinsatz, Entscheidungspraxis und nachvollziehbaren Freigabebedingungen; KI-VO-Risikoklasse bleibt gesondert. Die bezeichneten Anker wurden am amtlichen Entscheidungstext geprüft; keine pauschale Vollverifikation aller Nebenmaterien. Individueller Workflow-Durchgang am 23.09.2026: Tatsächliche Entscheidungspunkte, drei unterschiedliche Aufsichtslücken, Chronologie ohne Auditstillstand und versions-/datenbezogene Beschlussfassung.",
     "changes": [
-      "Nachgelieferte Zweckbestimmung, Eingriffsbefugnisse oder Protokolle führen zur betroffenen Vertragsklausel, Arbeitsanweisung oder Vorfallbewertung. Bestehende Quellenstände wurden nicht als neu verifiziert ausgegeben."
+      "C-634/21 an maßgeblichen Entscheidungseinfluss geknüpft.",
+      "Neue KI-VO-Regeln nicht als Gegenstand des älteren DSGVO-Urteils dargestellt.",
+      "Tatsächliche Entscheidungspunkte, drei unterschiedliche Aufsichtslücken, Chronologie ohne Auditstillstand und versions-/datenbezogene Beschlussfassung."
     ],
-    "sha256": "d9dfc798d9c09e8c76ba50574eaaa92f31c4c74c4324f5504b0bdf526fe8a8be"
+    "sha256": "59945ab8074d2c9ea9349514057bf1a1e24e304c0746e75f496df76d2e99b2a4"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "method": "desk_review",
+    "files": [
+      "ki-governance/README.md",
+      "ki-governance/ki-governance-werkstatt.md",
+      "ki-governance/ki-governance-schnellstart.md",
+      "quality/evals/ki-governance.json"
+    ],
+    "opening_change": "Tatsächlichen Einfluss des Systems auf Entscheidungen und die Freigabeverantwortung prüfen.",
+    "norms": [
+      "Artikel 22 DSGVO",
+      "Artikel 4, 4a, 6, 26, 50, 111 und 113 KI-VO in der Fassung 2026/1744"
+    ],
+    "decisions": [
+      {
+        "citation": "EuGH, Urteil vom 7. Dezember 2023, C-634/21, SCHUFA Holding, Randnummern 43 bis 55 und 73",
+        "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62021CJ0634",
+        "application": "Bei maßgeblich scoregeleiteter Vertragsentscheidung Artikel 22 DSGVO und echte menschliche Einflussmöglichkeiten prüfen.",
+        "limit": "Keine Entscheidung zur KI-VO-Risikoklasse oder zu Artikel 4a; nicht jede Empfehlung ist eine automatisierte Entscheidung."
+      }
+    ],
+    "remaining_limits": [
+      "Kein Urteil zur KI-VO-Einstufung behauptet; nicht sämtliche sektorspezifischen Pflichten, technischen Standards und Reformverfahren neu geprüft.",
+      "Desk-/Quellenreview, kein Live-Client- oder Modelltest. Bestehende Auswahl- und Ergebnisfälle unverändert erhalten.",
+      "Workflow-Ergänzung am 23.09.2026: desk review; keine Live-Client-Ausführung, keine Installation, Übermittlung oder technische Funktionsprüfung. Bestehende Entscheidungsprüfung vom 22.09.2026 nicht als heutiger Neuabruf ausgegeben.",
+      "Verordnung (EU) 2026/1744 am 23.09.2026 über ELI, HTML und PDF erneut angefragt, aber durch JavaScript-/Bot-Prüfung blockiert. Vorhandene differenzierte Rechtsstanddarstellung und frühere Quellenprüfung erhalten; keine neue Volltextverifikation dieses Änderungsakts behauptet."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leere Eingabe: Systemfreigabe, menschliche Aufsicht oder Datenvorfall auswählen.",
+      "Dateien ohne Aufgabe: System-/Vorfallunterlagen still lesen; kein Inventarbericht ohne Ziel.",
+      "Klarer Auftrag: Beschluss oder Erstmeldungsentwurf direkt liefern, nur entscheidende Eingriffsbefugnis oder Kenntnisangabe klären."
+    ],
+    "continuation": "Fehlende Übersteuerungsbefugnis -> freigabebeschluss.md und betroffene Aufsichtsregel; bestätigte Sperre bei offener Menge -> erstmeldung.md mit geändertem Maßnahmen-/Mengenstatus. Nur bestelltes Dokument fortsetzen.",
+    "enrichment": "Tatsächliche Entscheidungspunkte, drei unterschiedliche Aufsichtslücken, Chronologie ohne Auditstillstand und versions-/datenbezogene Beschlussfassung.",
+    "limits": "desk review; no live client execution"
   }
 }

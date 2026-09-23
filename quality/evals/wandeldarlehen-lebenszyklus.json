@@ -1,47 +1,208 @@
 {
- "schema_version":1,"plugin":"wandeldarlehen-lebenszyklus","reviewed_on":"2026-09-17",
- "sources":[{"url":"https://www.gesetze-im-internet.de/gmbhg/__55.html","checked_on":"2026-09-14","supports":"Absatz 1: notarielle Aufnahme oder Beglaubigung der Übernahmeerklärung; reine Rechentabelle vollzieht keine Kapitalerhöhung."},{"url":"https://www.gesetze-im-internet.de/gmbhg/__5.html","checked_on":"2026-09-14","supports":"Absätze 2 und 3 regeln volle Euro-Nennbeträge und deren Summe; keine gesetzliche Aufrundung wirtschaftlicher Wandlungsquotienten."},{"url":"https://www.gesetze-im-internet.de/gmbhg/__53.html","checked_on":"2026-09-14","supports":"Aktuelle Absatzfolge: Dreiviertelmehrheit in Absatz 2, notarielle Beurkundung des Änderungsbeschlusses in Absatz 3."},{"url":"https://www.gesetze-im-internet.de/bgb/__126b.html","checked_on":"2026-09-14","supports":"Definition der Textform; keine Aussage, dass Textform jeden Wandeldarlehensvertrag und dessen Vollzug abdeckt."},{"url":"https://www.gesetze-im-internet.de/bgb/__488.html","checked_on":"2026-09-14","supports":"Vertragliche Darlehenspflichten und geschuldeter Zins; Zinssatz und Rechenkonvention nicht durch einen pauschalen Standard ersetzen."},{"url":"https://www.gesetze-im-internet.de/hgb/__272.html","checked_on":"2026-09-14","supports":"Absatz 2 Nummer 1: Aufgeld bei Ausgabe von Anteilen; von anderen Eigenkapitalzuzahlungen nach Nummer 4 abgrenzen."}],
- "mini_review":{"verdict":"revised","reason":"Vollständig gelesen: Die Vertragsrechnung und Formabgrenzung bleiben erhalten; die bisherige bloße Teillieferung bei fehlender Zinskonvention führte noch nicht ausdrücklich zur aktualisierten Endrechnung. Sprach- und Ablaufprüfung, keine erneute Quellenverifikation oder Live-Modellprüfung.","changes":["Fehlende Zinskonvention gezielt nachfordern und anschließend Wandlungsbetrag, Anteile und Quoten aktualisieren","Optionspool und Zugang der Wandlungserklärung als konkrete Rückfragezweige ergänzt","Bestellten Vertrag oder Beschluss vollständig ausarbeiten; Nutzerdateiname hat Vorrang"],"sha256":"49ef3e04ba6160cb55a963c6a0e932fd3ed2dbb192b95a2d274fe3abcc57ed1d"},
- "workshop_review":{"verdict":"revised","reason":"Gesamten Text einschließlich der doppelten Praxisrouten geprüft. Allgemeine M&A-Tabellen, gerichtliche Entscheidungsbegriffe beim Gesellschafterbeschluss und starre Rückfragegrenzen störten den tatsächlichen Wandlungsablauf. Vorhandene Normen und Rechercheanker bleiben mit ihrem Prüfvorbehalt erhalten; keine neue Rechtsquellenprüfung.","changes":["Vertragsgestaltung, Ereignisnachweis, Zins- und Preisrechnung sowie parallele Darlehen in fachliche Abschnitte integriert","Fragen zu Zugang, Optionspool und Zinskonvention mit anschließender Neuberechnung und Dokumentfertigstellung verbunden","Formprüfung, Beschluss, Werthaltigkeit, Identifikation und Registervollzug getrennt; allgemeine Lieferstück- und Qualitätsgriff-Tabellen entfernt","Quellenstatus und technische Grenzen ans Ende verlegt und vom Empfängertext getrennt"],"sha256":"9cc6f09ee12b6336279fc5bcada3485d88e5f5e6e0043ef09014b373eb2869a5"},
- "selection":{"positive":["Berechne die Wandlung unseres Darlehens bei der qualifizierten Finanzierungsrunde.","Prüfe, ob Vertragsnachtrag und Closingdaten den Wandlungstrigger erfüllen."],"negative":["Prüfe Garantien beim Erwerb sämtlicher Geschäftsanteile eines Zielunternehmens.","Erstelle einen Tilgungsplan für ein gewöhnliches Bankdarlehen ohne Wandlungsrecht."]},
- "cases":[{"id":"cap-nicht-doppelt-discountieren","request":"Liefere ergebnis.md mit Wandlungsrechnung und Vollzugsvorbehalt. GmbH, qualifizierte Finanzierung laut vollständigem Vertrag nachweislich eingetreten. Wandelbares Kapital 100000 Euro plus vertraglich festgestellte Zinsen 5000 Euro. Vertraglicher Nenner für beide Preise: 10000 vollverwässerte Recheneinheiten vor Wandlung und neuem Geld. Rundenbewertung 5000000 Euro pre-money; Discount 20 Prozent; Cap 3500000 Euro. Vertrag wählt den niedrigeren aus Discountpreis und Cap-Preis, keine Kombination. Keine weiteren Darlehen oder Optionen. Neue Geldanteile sind noch nicht zu berechnen. Beschluss, Übernahmeerklärung und Registervollzug stehen aus. Berechne Preis, neue Einheiten und rechnerische Quote direkt nach Wandlung.","input_files":[],"deliverables":["ergebnis.md"],"criteria":[{"id":"C01","text":"Berechnet Discountpreis 400 Euro und Cap-Preis 350 Euro; wählt 350, nicht einen zusätzlich rabattierten Cap-Preis von 280 Euro.","deliverables":["ergebnis.md"]},{"id":"C02","text":"Teilt 105000 durch 350 zu 300 neuen Einheiten und berechnet 300 von 10300, also rund 2,9126 Prozent vor neuem Geld.","deliverables":["ergebnis.md"]},{"id":"C03","text":"Kennzeichnet die Quote als rechnerisch und nicht als bereits wirksam entstandene Beteiligung; benennt offene Beschluss-, Übernahme- und Registerschritte.","deliverables":["ergebnis.md"]}],"target_skill":"wandlungspreis-wandlungspruefung-trigger"},
-{
-  "id": "vertraglicher-zins-bruchteil-und-formfreigabe",
-  "request": "Erstelle ergebnis.md für die Finanzleitung einer GmbH mit 25000 Geschäftsanteilen zu je einem Euro. Ein Darlehen über 100000 Euro wurde vollständig ausgezahlt; laut unterschriebenem Vertrag einfache Verzinsung mit sechs Prozent p.a., act/365, genau 365 Zinstage bis zum belegten Wandelereignis, keine Tilgung. Kapital und Zinsen wandeln mit. Für dieses Ereignis vereinbart der Vertrag ausdrücklich einen festen Preis von 300 Euro je neuem Anteil zu einem Euro Nennbetrag; Cap und Discount gelten hier nicht. Eine Regel über Bruchteile, Rundung, Barausgleich oder Forderungsrest fehlt. Ein Mitarbeiter will 354 Anteile als endgültig eintragen und meint, ein per E-Mail bestätigtes Tabellenblatt reiche für die gesamte Umsetzung. Der Kapitalerhöhungsbeschluss ist noch nicht gefasst, keine notarielle Übernahmeerklärung abgegeben und keine Registeranmeldung erfolgt. Liefere Rechnung, Entscheidungspunkte und Vollzugscheck, ohne Erklärungen abzugeben.",
-  "input_files": [],
-  "deliverables": [
-    "ergebnis.md"
-  ],
-  "criteria": [
+  "schema_version": 1,
+  "plugin": "wandeldarlehen-lebenszyklus",
+  "reviewed_on": "2026-09-23",
+  "sources": [
     {
-      "id": "C01",
-      "text": "Berechnet aus der vereinbarten einfachen Verzinsung 6000 Euro Zinsen und 106000 Euro Wandlungsbetrag; ersetzt weder Zinssatz noch Jahresnenner durch einen Standardwert.",
-      "deliverables": [
-        "ergebnis.md"
-      ]
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__55.html",
+      "checked_on": "2026-09-23",
+      "supports": "Nach Web-Timeout amtlichen Volltext per Direktabruf gelesen: Form der Übernahmeerklärung und Zuordnung neuer Anteile. Anwendung auf die getrennte Behandlung von Rechenfreigabe, Übernahme und Registervollzug."
     },
     {
-      "id": "C02",
-      "text": "Verwendet den vertraglichen Festpreis von 300 Euro und ermittelt einen Rohwert von 353 ein Drittel neuen Anteilen; führt keine unvereinbarte Minimumregel für Cap und Discount ein.",
-      "deliverables": [
-        "ergebnis.md"
-      ]
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__56.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlichen Volltext gelesen: Gegenstand der Sacheinlage und zugehöriger Nennbetrag im Erhöhungsbeschluss festsetzen und in Übernahmeerklärung aufnehmen. Konkrete Darlehensforderung statt pauschaler Formel zur Wandlung bezeichnen."
     },
     {
-      "id": "C03",
-      "text": "Verweigert die automatische endgültige Aufrundung auf 354 und weist Bruchteils- beziehungsweise Restbehandlung als erforderliche Vereinbarung aus; Paragraf 5 GmbHG wird nicht als gesetzliche Aufrundungsermächtigung verwendet.",
-      "deliverables": [
-        "ergebnis.md"
-      ]
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__57.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlichen Volltext gelesen: Anmeldung nach Deckung des erhöhten Kapitals durch Übernahme, Versicherungen und beizufügende Unterlagen. Kein Registervollzug durch Tabelle, unterschriebene Übernahme oder ungeprüfte Wertbehauptung."
     },
     {
-      "id": "C04",
-      "text": "Trennt Rechenfreigabe von Kapitalerhöhungsbeschluss, notarieller Beschlussform, Übernahmeform und Registervollzug; lässt E-Mail oder Signaturdienst nicht pauschal als Ersatz für die gesamte Umsetzung genügen.",
-      "deliverables": [
-        "ergebnis.md"
-      ]
+      "url": "https://www.gesetze-im-internet.de/inso/__19.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlichen Volltext gelesen: aktuelle Überschuldungsregel einschließlich Rangbezug auf Paragraf 39 Absatz 1 Nummern 1 bis 5. Historische Rangrücktrittsentscheidung bleibt von heutiger Norm, konkreter Klausel und tatsächlicher Krise zu trennen; keine Form- oder Werthaltigkeitsfreigabe."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__55.html",
+      "checked_on": "2026-09-14",
+      "supports": "Absatz 1: notarielle Aufnahme oder Beglaubigung der Übernahmeerklärung; reine Rechentabelle vollzieht keine Kapitalerhöhung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__5.html",
+      "checked_on": "2026-09-14",
+      "supports": "Absätze 2 und 3 regeln volle Euro-Nennbeträge und deren Summe; keine gesetzliche Aufrundung wirtschaftlicher Wandlungsquotienten."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__53.html",
+      "checked_on": "2026-09-14",
+      "supports": "Aktuelle Absatzfolge: Dreiviertelmehrheit in Absatz 2, notarielle Beurkundung des Änderungsbeschlusses in Absatz 3."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__126b.html",
+      "checked_on": "2026-09-14",
+      "supports": "Definition der Textform; keine Aussage, dass Textform jeden Wandeldarlehensvertrag und dessen Vollzug abdeckt."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__488.html",
+      "checked_on": "2026-09-14",
+      "supports": "Vertragliche Darlehenspflichten und geschuldeter Zins; Zinssatz und Rechenkonvention nicht durch einen pauschalen Standard ersetzen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/__272.html",
+      "checked_on": "2026-09-14",
+      "supports": "Absatz 2 Nummer 1: Aufgeld bei Ausgabe von Anteilen; von anderen Eigenkapitalzuzahlungen nach Nummer 4 abgrenzen."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2014/IX_ZR_133-14.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 05.03.2015 - IX ZR 133/14, Rn. 15 bis 45 und 46 ff.: Qualifizierten Rangrücktritt auf vorinsolvenzliche Durchsetzungssperre prüfen; Rückzahlung und Zinsen können trotz Fälligkeit gesperrt sein. Zahlung entgegen der Sperre auf Bereicherung und Insolvenzanfechtung untersuchen. Grenze: Konkrete Klausel und teilweise historischer Rechtsstand sind maßgeblich. Keine Wirkung allein durch Überschrift, kein Forderungsverzicht und keine Entscheidung zur Form oder Werthaltigkeit einer Wandlung; Paragraf 814 BGB und aktuelle Insolvenzrangfolge gesondert beachten."
     }
   ],
-  "target_skill": "wandlungspreis-wandlungspruefung-trigger"
-}]
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Am 23.09.2026 vollständig individuell nachgelesen: drei konkrete Dokumentwege, stiller Dateieinstieg und unmittelbare Weiterrechnung nach Pool- oder Zuflussangabe ergänzt. Historischen Ranganker sowie Trennung von Rechnung und Beteiligung erhalten. Desk-Review, kein Live-Modelltest.",
+    "changes": [
+      "Rangrücktritt nach Inhalt und Auszahlungslage, nicht nach Überschrift oder pauschalem Darlehensstatus geprüft.",
+      "BGB Paragrafen 812 und 814 sowie InsO Paragrafen 134 und 143 als unterschiedliche Rückforderungswege mit Grenzen aufgenommen.",
+      "Historische Rangfolge des Falles von aktueller InsO getrennt; Trigger-, Rechen-, Notar- und Mehrdarlehensrouten erhalten.",
+      "Antwort zur Pooldefinition führt zu geändertem Cap-Preis, Anteilszahl und Quote; neuer Rundenzufluss zuerst auf Bedeutung für das Wandelereignis geprüft."
+    ],
+    "sha256": "2a81dbb4cc50e15f136e5156ae845eadf2f5c42911a1d9ff3bf71f4315fac13b"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Am 23.09.2026 vollständig individuell nachgelesen: angekündigtes Rundenvolumen gegen vertraglich erfasste Zuflüsse geprüft, Ereignis-/Mitteilungs-/Ausübungsdaten getrennt und Preis-/Restentscheidung bis zur notariellen Vorlage fortgeführt. Kapitalmaßnahme und Forderungswerthaltigkeit bleiben eigenständige Prüfungen. Desk-Review, kein Live-Modelltest.",
+    "changes": [
+      "Rangrücktritt nach Inhalt und Auszahlungslage, nicht nach Überschrift oder pauschalem Darlehensstatus geprüft.",
+      "BGB Paragrafen 812 und 814 sowie InsO Paragrafen 134 und 143 als unterschiedliche Rückforderungswege mit Grenzen aufgenommen.",
+      "Historische Rangfolge des Falles von aktueller InsO getrennt; Trigger-, Rechen-, Notar- und Mehrdarlehensrouten erhalten.",
+      "Konkrete Runden-, Pool- und Bruchteilsfälle ergänzt; Forderungsgegenstand, Teilzahlungen und offene Werthaltigkeit bestimmen Beschluss- und Notariatsentwurf nach Paragrafen 55 bis 57 GmbHG."
+    ],
+    "sha256": "180e4d2f9799dfbb0d8508e95d7a080bb2f0d1d8232f1bf07e2100d24c674d15"
+  },
+  "selection": {
+    "positive": [
+      "Berechne die Wandlung unseres Darlehens bei der qualifizierten Finanzierungsrunde.",
+      "Prüfe, ob Vertragsnachtrag und Closingdaten den Wandlungstrigger erfüllen."
+    ],
+    "negative": [
+      "Prüfe Garantien beim Erwerb sämtlicher Geschäftsanteile eines Zielunternehmens.",
+      "Erstelle einen Tilgungsplan für ein gewöhnliches Bankdarlehen ohne Wandlungsrecht."
+    ]
+  },
+  "cases": [
+    {
+      "id": "cap-nicht-doppelt-discountieren",
+      "request": "Liefere ergebnis.md mit Wandlungsrechnung und Vollzugsvorbehalt. GmbH, qualifizierte Finanzierung laut vollständigem Vertrag nachweislich eingetreten. Wandelbares Kapital 100000 Euro plus vertraglich festgestellte Zinsen 5000 Euro. Vertraglicher Nenner für beide Preise: 10000 vollverwässerte Recheneinheiten vor Wandlung und neuem Geld. Rundenbewertung 5000000 Euro pre-money; Discount 20 Prozent; Cap 3500000 Euro. Vertrag wählt den niedrigeren aus Discountpreis und Cap-Preis, keine Kombination. Keine weiteren Darlehen oder Optionen. Neue Geldanteile sind noch nicht zu berechnen. Beschluss, Übernahmeerklärung und Registervollzug stehen aus. Berechne Preis, neue Einheiten und rechnerische Quote direkt nach Wandlung.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Berechnet Discountpreis 400 Euro und Cap-Preis 350 Euro; wählt 350, nicht einen zusätzlich rabattierten Cap-Preis von 280 Euro.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Teilt 105000 durch 350 zu 300 neuen Einheiten und berechnet 300 von 10300, also rund 2,9126 Prozent vor neuem Geld.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Kennzeichnet die Quote als rechnerisch und nicht als bereits wirksam entstandene Beteiligung; benennt offene Beschluss-, Übernahme- und Registerschritte.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "wandlungspreis-wandlungspruefung-trigger"
+    },
+    {
+      "id": "vertraglicher-zins-bruchteil-und-formfreigabe",
+      "request": "Erstelle ergebnis.md für die Finanzleitung einer GmbH mit 25000 Geschäftsanteilen zu je einem Euro. Ein Darlehen über 100000 Euro wurde vollständig ausgezahlt; laut unterschriebenem Vertrag einfache Verzinsung mit sechs Prozent p.a., act/365, genau 365 Zinstage bis zum belegten Wandelereignis, keine Tilgung. Kapital und Zinsen wandeln mit. Für dieses Ereignis vereinbart der Vertrag ausdrücklich einen festen Preis von 300 Euro je neuem Anteil zu einem Euro Nennbetrag; Cap und Discount gelten hier nicht. Eine Regel über Bruchteile, Rundung, Barausgleich oder Forderungsrest fehlt. Ein Mitarbeiter will 354 Anteile als endgültig eintragen und meint, ein per E-Mail bestätigtes Tabellenblatt reiche für die gesamte Umsetzung. Der Kapitalerhöhungsbeschluss ist noch nicht gefasst, keine notarielle Übernahmeerklärung abgegeben und keine Registeranmeldung erfolgt. Liefere Rechnung, Entscheidungspunkte und Vollzugscheck, ohne Erklärungen abzugeben.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Berechnet aus der vereinbarten einfachen Verzinsung 6000 Euro Zinsen und 106000 Euro Wandlungsbetrag; ersetzt weder Zinssatz noch Jahresnenner durch einen Standardwert.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Verwendet den vertraglichen Festpreis von 300 Euro und ermittelt einen Rohwert von 353 ein Drittel neuen Anteilen; führt keine unvereinbarte Minimumregel für Cap und Discount ein.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Verweigert die automatische endgültige Aufrundung auf 354 und weist Bruchteils- beziehungsweise Restbehandlung als erforderliche Vereinbarung aus; Paragraf 5 GmbHG wird nicht als gesetzliche Aufrundungsermächtigung verwendet.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Trennt Rechenfreigabe von Kapitalerhöhungsbeschluss, notarieller Beschlussform, Übernahmeform und Registervollzug; lässt E-Mail oder Signaturdienst nicht pauschal als Ersatz für die gesamte Umsetzung genügen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "wandlungspreis-wandlungspruefung-trigger"
+    }
+  ],
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Wandeldarlehensentwurf, Wandlungsrechnung oder Beschluss-/Notariatsvorlage anbieten.",
+      "Dateien: Vertrag, Nachträge, Beteiligungsübersicht und Ereignisunterlagen still lesen; nur bei offenem Ziel passende Dokumentwege anbieten.",
+      "Klarer Auftrag: Ereignis, Rechnung oder Vollzug sofort bearbeiten; nur entscheidende Definitions-, Zufluss-, Zins- oder Formlücken erfragen."
+    ],
+    "continuation": "Zweiter Rundenzufluss verändert Ereignisdatum und Zinsende; bestätigter Pool verändert Preise und Quoten; Restvereinbarung und Teilzahlung ändern Forderungsaufstellung, Anteilsübersicht und Beschluss-/Notariatsentwurf gemeinsam.",
+    "enrichment": "Qualifizierte Finanzierung mit ausgeschlossenem Altdarlehensvolumen, getrennte Fristauslöser, alternative Preisrechnung, Bruchteilsrest und konkret bezeichnete Forderungseinbringung samt belastenden Wertumständen bis zu vollständigen Vollzugsunterlagen ausgearbeitet.",
+    "limits": "desk review; no live client execution"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "wandeldarlehen-lebenszyklus/README.md",
+      "wandeldarlehen-lebenszyklus/wandeldarlehen-lebenszyklus-schnellstart.md",
+      "wandeldarlehen-lebenszyklus/wandeldarlehen-lebenszyklus-werkstatt.md",
+      "quality/evals/wandeldarlehen-lebenszyklus.json"
+    ],
+    "opening_change": "Vertragliches Wandelereignis, Forderungsbetrag, Form und Rang bestimmen Berechnung und Vollzugsunterlagen.",
+    "norms": [
+      "InsO Paragraf 19 Absatz 2 Satz 2",
+      "InsO Paragraf 39 Absatz 2",
+      "BGB Paragraf 812 Absatz 1",
+      "BGB Paragraf 814",
+      "InsO Paragrafen 134 und 143"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 05.03.2015 - IX ZR 133/14, Rn. 15 bis 45 und 46 ff.",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2014/IX_ZR_133-14.pdf?__blob=publicationFile&v=1",
+        "application": "Qualifizierten Rangrücktritt auf vorinsolvenzliche Durchsetzungssperre prüfen; Rückzahlung und Zinsen können trotz Fälligkeit gesperrt sein. Zahlung entgegen der Sperre auf Bereicherung und Insolvenzanfechtung untersuchen.",
+        "limit": "Konkrete Klausel und teilweise historischer Rechtsstand sind maßgeblich. Keine Wirkung allein durch Überschrift, kein Forderungsverzicht und keine Entscheidung zur Form oder Werthaltigkeit einer Wandlung; Paragraf 814 BGB und aktuelle Insolvenzrangfolge gesondert beachten."
+      }
+    ],
+    "remaining_limits": [
+      "Kein Rechtsprechungsnachweis zur pauschalen Formwirksamkeit aller Wandeldarlehen oder zur Werthaltigkeit einer konkreten Forderung; das bedarf gesonderter Prüfung.",
+      "Desk- und Quellenprüfung; kein Live-Client- oder Live-Modelltest und keine vollständige Neuverifikation sämtlicher vorhandener Quellen."
+    ]
+  }
 }

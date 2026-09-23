@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "fachanwalt-erbrecht",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2019/IV_ZR_193-19.pdf?__blob=publicationFile&v=1",
@@ -27,25 +27,68 @@
       "url": "https://www.gesetze-im-internet.de/bgb/__2303.html",
       "checked_on": "2026-09-14",
       "supports": "Pflichtteil ausgeschlossener Abkömmlinge in Höhe der Hälfte des gesetzlichen Erbteils."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2019/IV_ZR_193-19.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "Erneute Primärquellenprüfung: BGH, Urteil vom 20.05.2020, IV ZR 193/19, Randnummern 8 bis 11. Anwendung: Erbe verweigert für notarielle Ermittlung erforderliche Bankzustimmung: konkret unzureichend ermitteltes Verzeichnis ergänzen und Mitwirkung verlangen. Grenze: Kein beliebiger Anspruch auf neues Verzeichnis bei bloßen Zweifeln; Wertermittlung und Versicherung an Eides statt haben eigene Voraussetzungen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__2314.html",
+      "checked_on": "2026-09-22",
+      "supports": "Auskunft, notarielle Aufnahme und Wertermittlung unterscheiden; kein pauschaler Beleganspruch."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__2311.html",
+      "checked_on": "2026-09-22",
+      "supports": "Bestand und Wert zur Zeit des Erbfalls als Berechnungsgrundlage."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2024/IV_ZR__88-24.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 12.03.2025, IV ZR 88/24, Randnummern 17 bis 25. Amtliche tragende Gründe gelesen. Anwendung: Pflichtteil entsteht mit Erbfall; Kenntnis rechtlicher Vaterschaft und grob fahrlässig verzögerte Feststellung für Verjährungsbeginn getrennt würdigen. Grenze: Zurückverweisung zur Einzelfallklärung, keine automatische Verjährung; Rechtsausübungssperre allein hemmt nicht nach Paragraf 205 BGB."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2024/IV_ZR__93-24.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 02.07.2025, IV ZR 93/24, Randnummern 9 bis 21 und 25 bis 27. Amtliche tragende Gründe gelesen. Anwendung: Paragraf 32 Absatz 1 Satz 1 BOÄ Westfalen-Lippe macht Patientenvermächtnis an behandelnden Arzt nicht nach Paragrafen 134, 2171 Absatz 1 BGB unwirksam. Grenze: Andere Verbote, Testierfähigkeit und Sittenwidrigkeit getrennt; Zurückverweisung wegen möglicher weiterer Feststellungen, keine umfassende Wirksamkeitszusage."
+    },
+    {
+      "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202610133/",
+      "checked_on": "2026-09-22",
+      "supports": "BFH, Beschluss vom 29.06.2026, II B 68/25, Randnummern 11 bis 15. Amtliche tragende Gründe gelesen. Anwendung: Erhebliche Steuerwertabweichung kann bei wertabhängiger Erbquote weitere Verkehrswertermittlung trotz Erbschein und Abschichtung erfordern. Grenze: Steuerwert ist Ermittlungsanlass, kein automatischer Ersatz des Verkehrswerts oder neue Quote; finanzgerichtliche Sachaufklärung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__1600d.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aktuelle Rechtsausübungssperre in Absatz 5, nicht Absatz 4."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Mini, Hauptproblem und Pflichtteilsfokus wurden vollständig auf Stichtags- und Belegabgleich gelesen.",
+    "reason": "Schnellstart vollständig gelesen, auf Pflichtteilsberechnung und gezielte Ergänzung eines notariellen Verzeichnisses zugespitzt und unter die Bytegrenze verdichtet. Redaktioneller Desk-Review, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Pflegevergütung wurde bereits bezahlt -> Zahlung und Nachlassschuld nicht doppelt abziehen; Pflichtteilsrechnung und Forderungstext ändern.",
     "changes": [
-      "Nach Konten-, Schenkungs- oder Bewertungsangaben neu rechnen und den bestellten Brief abschließen; Nutzerdateiname geht vor.",
-      "In der Schlusskontrolle den internen Ausdruck Sofortbild durch kurze Einordnung von Erbfall und Beratungsziel ersetzt."
+      "Bankermittlung und Mitwirkung anhand IV ZR 193/19 operativ eingebaut; bloße Zweifel nicht mit Neuerstellungsanspruch gleichgesetzt.",
+      "Bestandsmangel, Wertermittlung und Versicherung an Eides statt getrennt; sämtliche bisherigen Fachzweige und Fortsetzung erhalten.",
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
     ],
-    "sha256": "2f75772e6fb499ee4a0d7cac4d5ae78f7d152f3d4ff04dcc8130ff0c54743982"
+    "sha256": "4ffdb85f5e12261332f972dc7d639584e77921a44776d08119cba13c7d76faef",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
   },
   "focus_review": {
-    "reviewed_on": "2026-09-17",
+    "reviewed_on": "2026-09-23",
     "method": "desk_review",
-    "verdict": "retained",
-    "reason": "Standalone-Prompt und zugeordneter Fokus-Skill vollständig auf fachlichen Umfang, Rückfragen mit Fortsetzung bis zum bestellten Dokument, Ausgabeverhalten, Rollenbegrenzung und Quellendifferenzierung gelesen. Kein Live-Modelltest und keine erneute Vollverifikation der bestehenden Rechtsquellen.",
-    "changes": [],
+    "verdict": "revised",
+    "reason": "Hauptproblem und zugeordneter Pflichtteilsskill vollständig gelesen. Prompt für datierte Nachlassbestände und erforderliche Bankmitwirkung präzisiert; Fachskill unverändert tragfähig. Desk-Review mit erneut geprüftem IV ZR 193/19, kein Modelllauf. Crossreview: Verjährung bei später Vaterschaftsfeststellung mit IV ZR 88/24 ergänzt; Skill unverändert. Workflow-Ergänzung: Pflegevergütung wurde bereits bezahlt -> Zahlung und Nachlassschuld nicht doppelt abziehen; Pflichtteilsrechnung und Forderungstext ändern. Zugeordneten Fokus-Skill auf Kohärenz gelesen und unverändert belassen.",
+    "changes": [
+      "Hauptproblem eröffnet mit Todestagsbestand, Schulden und Euroauswirkung.",
+      "Ergänzungsanker mit verweigerter Bankmitwirkung, Grenze bloßer Richtigkeitszweifel und Trennung von Wertfragen erläutert; Skill unverändert.",
+      "Spätere Vaterschaftsfeststellung: Anspruchsentstehung, Kenntnis, grobe Fahrlässigkeit und fehlende automatische Hemmung differenziert.",
+      "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten."
+    ],
     "prompt_path": "fachanwalt-erbrecht/fachanwalt-erbrecht-hauptproblem.md",
-    "prompt_sha256": "b666d190393bc2bf6f149aef792be935ecb5d65f9d5d1f8fa98b91ca62263eab",
+    "prompt_sha256": "d96ecac9b51b458b33ad3de6fac87502971599d061e717599f377a0979e2b431",
     "skill_path": "fachanwalt-erbrecht/skills/pflichtteil-nachlassverzeichnis-belegabgleich/SKILL.md",
     "skill_sha256": "68e3825a08d3f5453d92c5baec78fe6f2fe4d1dd87212fc328687382b35166a1"
   },
@@ -160,11 +203,75 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die vollständige Werkstatt wurde auf Nachlassbearbeitung und widersprüchliche Fortsetzungsregeln geprüft.",
+    "reason": "Werkstatt vollständig individuell bearbeitet; Crossreview um drei amtlich geprüfte jüngere Entscheidungen zu Vaterschaft, Arztvermächtnis und steuerlicher Erbquote ergänzt. Kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Stichtagskonto und spätere Abflüsse, Verzeichnisergänzung gegenüber Wertfrage und Versicherung, Auslegung von Hauszuwendung, Teilungsliquidität sowie Ausschlagungskenntnis und Freigabe einer Auszahlung.",
     "changes": [
-      "Doppelten Abschlussabschnitt entfernt; fehlende Auskunft, Bewertung und spätere Zahlungsbearbeitung unterschieden.",
-      "Offenen Nachweis und dessen Bedeutung unmittelbar benennen statt des internen Begriffs Kernbeleg."
+      "Notarielle Eigenrecherche und verweigerte Bankzustimmung in konkrete Ergänzungsanforderung überführt.",
+      "Erbvertrag von wechselbezüglichem Testament, Ausschlagung und Pflichtteil sowie Testierverbote und Zukunftsvorhaben genauer abgegrenzt.",
+      "Detaillierte Nachlass-, Steuer-, Digital- und Unternehmensrouten erhalten; keine automatische Klage.",
+      "IV ZR 88/24, IV ZR 93/24 und II B 68/25 mit konkretem Prüfauftrag und Grenzen wieder integriert; aktuelle Absatznummer 1600d Absatz 5 BGB korrigiert.",
+      "Stichtagskonto und spätere Abflüsse, Verzeichnisergänzung gegenüber Wertfrage und Versicherung, Auslegung von Hauszuwendung, Teilungsliquidität sowie Ausschlagungskenntnis und Freigabe einer Auszahlung."
     ],
-    "sha256": "62d2755d4d969461ff6e0b8affb5f6296cc6609454c932b5c6cb3f0db9929b2f"
+    "sha256": "bfcbc736b371190e7e8a457c5eb8d17216f5cc72c4491b845be8109134eaf341",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-23",
+    "files": [
+      "fachanwalt-erbrecht/fachanwalt-erbrecht-werkstatt.md",
+      "fachanwalt-erbrecht/fachanwalt-erbrecht-hauptproblem.md",
+      "fachanwalt-erbrecht/fachanwalt-erbrecht-schnellstart.md",
+      "fachanwalt-erbrecht/skills/pflichtteil-nachlassverzeichnis-belegabgleich/SKILL.md"
+    ],
+    "opening_change": "Erbenstellung und Pflichtteilsberechtigung aus Status und Verfügungen sowie Todestagsbestand, Werte und Schulden konkret abgleichen. Workflow-Ergänzung: Leer: Erbfolgeklärung, Pflichtteilsforderung oder Haftungssicherung anbieten. Dateien ohne Aufgabe: Verfügungen, Verzeichnis und Zahlungsbelege still lesen; Erbfolge-, Auskunfts- oder Forderungsziel klären. Klarer Auftrag: verlangte Nachforderung, Rechnung oder Regelung unmittelbar erstellen, keine ungefragte vollständige Nachlassanalyse.",
+    "norms": [
+      "Paragrafen 2303, 2311, 2314 und 260 Absatz 2 BGB",
+      "Paragrafen 199 Absatz 1, 205, 2317 Absatz 1, 1600d Absatz 5, 134, 138 und 2171 Absatz 1 BGB",
+      "Paragraf 32 Absatz 1 Satz 1 BOÄ Westfalen-Lippe im entschiedenen Fall",
+      "Paragraf 76 Absatz 1 Satz 1 FGO; Paragraf 3 Absatz 1 ErbStG"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 20.05.2020, IV ZR 193/19, Randnummern 8 bis 11",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2019/IV_ZR_193-19.pdf?__blob=publicationFile&v=1",
+        "application": "Erbe verweigert für notarielle Ermittlung erforderliche Bankzustimmung: konkret unzureichend ermitteltes Verzeichnis ergänzen und Mitwirkung verlangen.",
+        "limit": "Kein beliebiger Anspruch auf neues Verzeichnis bei bloßen Zweifeln; Wertermittlung und Versicherung an Eides statt haben eigene Voraussetzungen."
+      },
+      {
+        "citation": "BGH, Urteil vom 12.03.2025, IV ZR 88/24, Randnummern 17 bis 25",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2024/IV_ZR__88-24.pdf?__blob=publicationFile&v=1",
+        "application": "Pflichtteil entsteht mit Erbfall; Kenntnis rechtlicher Vaterschaft und grob fahrlässig verzögerte Feststellung für Verjährungsbeginn getrennt würdigen.",
+        "limit": "Zurückverweisung zur Einzelfallklärung, keine automatische Verjährung; Rechtsausübungssperre allein hemmt nicht nach Paragraf 205 BGB."
+      },
+      {
+        "citation": "BGH, Urteil vom 02.07.2025, IV ZR 93/24, Randnummern 9 bis 21 und 25 bis 27",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2024/IV_ZR__93-24.pdf?__blob=publicationFile&v=1",
+        "application": "Paragraf 32 Absatz 1 Satz 1 BOÄ Westfalen-Lippe macht Patientenvermächtnis an behandelnden Arzt nicht nach Paragrafen 134, 2171 Absatz 1 BGB unwirksam.",
+        "limit": "Andere Verbote, Testierfähigkeit und Sittenwidrigkeit getrennt; Zurückverweisung wegen möglicher weiterer Feststellungen, keine umfassende Wirksamkeitszusage."
+      },
+      {
+        "citation": "BFH, Beschluss vom 29.06.2026, II B 68/25, Randnummern 11 bis 15",
+        "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202610133/",
+        "application": "Erhebliche Steuerwertabweichung kann bei wertabhängiger Erbquote weitere Verkehrswertermittlung trotz Erbschein und Abschichtung erfordern.",
+        "limit": "Steuerwert ist Ermittlungsanlass, kein automatischer Ersatz des Verkehrswerts oder neue Quote; finanzgerichtliche Sachaufklärung."
+      }
+    ],
+    "remaining_limits": [
+      "Desk- und Quellenreview, kein Live-Modelltest.",
+      "Vier bezeichnete Entscheidungsanker amtlich in tragenden Gründen geprüft; keine Vollverifikation sämtlicher Testaments-, Steuer-, Kollisions- und Schenkungsfragen.",
+      "Workflow-Review 23.09.2026: erneuter Paragraf-2314-Abruf scheiterte. Vorhandene Entscheidungen zu Auskunft, späterer Vaterschaft, ärztlichem Zeugnis und Steuerquote mit ihren bisherigen Grenzen erhalten."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Erbfolgeklärung, Pflichtteilsforderung oder Haftungssicherung anbieten.",
+      "Dateien ohne Aufgabe: Verfügungen, Verzeichnis und Zahlungsbelege still lesen; Erbfolge-, Auskunfts- oder Forderungsziel klären.",
+      "Klarer Auftrag: verlangte Nachforderung, Rechnung oder Regelung unmittelbar erstellen, keine ungefragte vollständige Nachlassanalyse."
+    ],
+    "continuation": "Pflegevergütung wurde bereits bezahlt -> Zahlung und Nachlassschuld nicht doppelt abziehen; Pflichtteilsrechnung und Forderungstext ändern.",
+    "enrichment": "Stichtagskonto und spätere Abflüsse, Verzeichnisergänzung gegenüber Wertfrage und Versicherung, Auslegung von Hauszuwendung, Teilungsliquidität sowie Ausschlagungskenntnis und Freigabe einer Auszahlung.",
+    "limits": "desk review; no live client execution"
   }
 }

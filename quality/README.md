@@ -23,8 +23,10 @@ Eine zusätzlich dokumentierte Einzelprüfung der Werkstatt steht in `workshop_r
 
 Für ein gemeinsam geprüftes Hauptproblem-Paar enthält `focus_review` beide Dateipfade, `prompt_sha256` und `skill_sha256` sowie Datum, Begründung und Änderungen. Der Skill muss genau dem in `selection.target_skill` benannten Schwerpunkt entsprechen; der Prompt muss zum selben Plugin gehören. Die Methode `desk_review` bezeichnet ausschließlich die Textprüfung. Abweichende Dateien, Pfade oder Prüfsummen werden abgewiesen. Ein fehlender Schwerpunktvermerk in einem älteren Profil wird nicht als bestandene Paarprüfung ausgegeben.
 
+Der Release verlangt zusätzlich `prompt_editorial_review` mit fachlichem Einstieg, geprüften Dateien, Normen sowie konkreten Entscheidungs- oder historischen Fallankern einschließlich Übertragungsgrenzen. `prompt_workflow_review` dokumentiert die individuellen Startvarianten, die Fortsetzung nach einer Antwort, ergänztes Fachwissen und verbleibende Grenzen. Ein ausgefüllter Vermerk ist keine automatisch nachgewiesene juristische Richtigkeit: Die technische Prüfung sichert Vollständigkeit, Zuordnung und unveränderte Textfassungen, nicht den Erfolg eines ausgeführten Dialogs.
+
 ```bash
-python3 scripts/quality-lab.py audit
+python3 scripts/quality-lab.py audit --require-editorial --require-workflow
 python3 scripts/quality-lab.py prepare PLUGIN FALL --mode schnellstart --run /absoluter/pfad/ausserhalb-des-repos/lauf-001
 ```
 
@@ -116,6 +118,14 @@ Diese Fälle werden als ein Arbeitsauftrag mit beschriebenem Vorverlauf vorberei
 
 Ein fachliches Gutachten kann das beauftragte Endprodukt sein. Ein verlangter Brief, Vertrag oder Schriftsatz ist dagegen nicht durch eine Analyse, eine Tabelle oder die Ankündigung seiner späteren Erstellung ersetzt. Die Bewertung richtet sich nach dem konkreten Auftrag, nicht nach der Anzahl von Überschriften, Rückfragen oder Dateien.
 
-## 1.8. English summary
+## 1.8. Fachbezogene Prompt-Redaktion
+
+Der Release-Ablauf verwendet `python3 scripts/quality-lab.py audit --require-editorial --catalog QUALITY.md`. Damit muss jedes Marketplace-Plugin den nachfolgenden Prüfvermerk besitzen; ein älteres Profil ohne redaktionelle Prüfung genügt für diesen Schritt nicht. Der Aufruf ohne diese Option bleibt für die Bestandsaufnahme älterer Profile verfügbar.
+
+`prompt_editorial_review` dokumentiert die gemeinsame Prüfung der Werkstatt, des Schnellstarts und eines vorhandenen Hauptproblem-Prompts. Der Vermerk nennt Datum, gelesene Dateien, konkrete Änderung des Einstiegs, einschlägige Normen sowie für jeden Entscheidungsanker Fundstelle, Quellen-URL, Anwendung und Grenze. Bei historischen Rechtsgebieten kann ein ausdrücklich als solcher bezeichneter historischer Fall an die Stelle einer modernen Gerichtsentscheidung treten. Eine moderne Entscheidung ist kein Beleg dafür, dass ihre heutige Lösung bereits im historischen Recht galt.
+
+Der Vermerk ersetzt keine Einzelprüfung: Die geprüften Prompt-Dateien müssen mit `mini_review` und `workshop_review` übereinstimmen. Bei einem Hauptproblem müssen auch Prompt und zugehöriger Skill durch `focus_review` an den tatsächlich geprüften Inhalt gebunden sein. Der Audit weist fehlende Dateien, unvollständige Vermerke und veraltete Prüfsummen zurück. Er kontrolliert deren Konsistenz, nicht selbst die rechtliche Wahrheit einer Aussage. Beschränkungen des Quellenabrufs und der Übertragbarkeit bleiben deshalb ausdrücklich dokumentiert; eine Textprüfung ist weiterhin kein bestandener Lauf in einem konkreten Client.
+
+## 1.9. English summary
 
 This laboratory separates package validation, observed skill selection and evaluation of actual work products. A prepared test is not a passing model run. Only expose the input directory to the working client; keep assessment criteria outside its accessible workspace. Use two independently configured judges, preserve failures and disagreements, and compare identical cases with recorded client versions, model versions, timing and artifact hashes. Automated agreement does not independently verify legal sources or authorize filing. Remote evaluation is opt-in and may incur provider charges.

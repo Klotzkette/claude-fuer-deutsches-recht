@@ -1,23 +1,23 @@
-# 1. Gesellschaftsrechtliche Treuepflicht — Schnellstart
+# 1. Zustimmungspflicht und missbräuchliche Blockade prüfen
 
-Prüfe einen konkreten Gesellschafterkonflikt: Wer soll welches Verhalten schulden, aus welcher Bindung und mit welcher nachweisbaren Belastung?
+Prüfe, ob der Gesellschafter die verlangte Sanierungs- oder Geschäftsmaßnahme ermöglichen muss oder seine Zustimmung verweigern darf. Bestimme die drohenden Nachteile, realistischen Alternativen und persönliche Belastung anhand der Akte, nicht anhand der bloßen Behauptung einer Blockade.
 
 Bearbeite den Konflikt in GmbH, AG, SE, Personengesellschaft, Familiengesellschaft oder Konzern anhand von Stimmrecht, Minderheitenschutz, Einziehung oder Ausschluss, soweit betroffen. Vorrang hat das verlangte Arbeitsprodukt.
 
 ## 1.1. Konflikt und Unterlagen
 
-Lies Satzung, Gesellschaftervereinbarung, Beteiligungsübersicht, Beschlussunterlagen und die Korrespondenz zum verlangten Verhalten. Bestimme daraus Rolle, konkrete Bindung, wirtschaftliche Belastung und gewünschten Ergebnistyp. Bekannte Angaben nicht erneut erfragen; bei einer Gutachtenbestellung keine ungefragte Klage oder Anteilsübertragung entwerfen.
+Ohne Eingabe fragen: „Geht es um verlangte Sanierungszustimmung, eine Blockade für Sondervorteile oder Ersatz eines entstandenen Schadens?“ Dateien ohne Auftrag still lesen und passende Wege wie Zustimmungsschreiben oder Beschlussprüfung anbieten. Keine Aktenzusammenfassung. Klaren Auftrag unmittelbar bearbeiten, bekannte Rollen und Belastungen übernehmen, keine Pflichtdialogrunde.
 
 Frage nach entscheidenden Lücken auch bei vorhandenen Dateien. Ein Beschlussvorschlag belegt weder seine Notwendigkeit noch die Unzumutbarkeit einer Gegenstimme. Bearbeite die bereits begründbaren Teile vorläufig, ohne behauptete Verluste oder Sondervorteile als feststehend zu übernehmen.
 
-## 1.2. Fachlicher Direktstart
+## 1.2. Mitgliedschafts- und Organpflicht bestimmen
 
 1. Leitfrage aus Akte und Auftrag festlegen: Welche Gesellschaftsform und welche Rechtsquelle bestimmen den Fall.
 2. Bestimme Mitgliedschafts- und Organrolle sowie die betroffene Pflicht; trenne Beschluss- und Formanforderungen vom Vorwurf treuwidrigen Verhaltens.
 3. Pflichtverletzung, Schaden und Kausalität den Belegen zuordnen. Beweislast und mögliche Entlastung nach der konkreten Mitgliedschafts- oder Organpflicht prüfen; offene Form- oder Registerfragen nur für die betroffene Maßnahme klären.
 4. Das bestellte Gutachten, Schreiben oder Beschlussdokument ausarbeiten; einen Vertrags- oder Klageentwurf nur auf entsprechenden Auftrag erstellen.
 
-## 1.3. Kernroute
+## 1.3. Zustimmungserfordernis, Alternativen und Rechtsfolge
 
 1. Gesellschaftsform, Registerlage, Beteiligungen und Organe feststellen.
 2. Satzung, Gesellschaftervereinbarung, Beschluss und Vertretung trennen.
@@ -35,14 +35,11 @@ Bei behaupteter Blockade zur Erlangung eines Sondervorteils frage nach der konkr
 
 Unterscheide konkrete Stimmbindung, gesetzliches Stimmverbot und eine aus Treuepflicht abgeleitete Zustimmungspflicht. Für Letztere reichen wirtschaftliche Zweckmäßigkeit oder Mehrheitswunsch nicht. Prüfe Erhalt wesentlicher Werte, drohende erhebliche Verluste, objektive Unabweisbarkeit gerade dieser Maßnahme und Zumutbarkeit für den betroffenen Gesellschafter.
 
-Anker: BGH, Urteil vom 12. April 2016, II ZR 275/14, Randnummern 13 bis 19. Randnummer 23 behandelt gesondert missbräuchliche Blockade für Sondervorteile. Dokumentiere Alternativen, Belastungen und behauptete Eigenvorteile; eine unbequeme Gegenstimme ist nicht automatisch treuwidrig. Begründe die Bewertung des konkreten Abstimmungsverhaltens; eine Interessenübersicht nur bei Bedarf ergänzen, keinen allgemeinen Transaktionsplan.
+Wende [BGH, Urteil vom 12.04.2016 - Az. II ZR 275/14](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2014/II_ZR_275-14.pdf?__blob=publicationFile&v=1), Rn. 13 bis 19, auf die konkrete Abstimmung an: Fehlt die objektive Unabweisbarkeit, darf die Gegenstimme nicht bloß wegen erwarteter Profitabilität unbeachtet bleiben. Die satzungsmäßige Mehrheit bleibt maßgeblich. Rn. 23 nennt eigennützige Blockade für Sondervorteile als andere mögliche Treuepflichtverletzung, verneint sie aber im entschiedenen Fall. Fordere daher konkrete Verhandlungsbelege an, statt das Motiv zu unterstellen. Die GmbH-Entscheidung begründet keinen allgemeinen Nachschusszwang für sämtliche Gesellschaftsformen.
 
-## 1.6. Anker
+## 1.6. Rechtsgrundlagen
 
-- BGB Paragraf 705: Gesellschaftsvertrag der Gesellschaft bürgerlichen Rechts.
-- HGB Paragraf 105: offene Handelsgesellschaft.
-- GmbHG Paragraf 13: Rechtsnatur der GmbH.
-- GmbHG Paragraf 15: Übertragung von Geschäftsanteilen.
+Die mitgliedschaftliche Treuepflicht nach Paragraf 242 BGB im konkreten Gesellschaftsverhältnis bestimmen; bei GmbH-Stimmen Paragraf 47 GmbHG, bei AG-Sondervorteilen Paragraf 243 Absatz 2 AktG prüfen. Gesetzliches Stimmverbot und treuepflichtwidriger Stimmeninhalt sind verschieden. Für Schadensersatz Paragrafen 280 Absatz 1 und 241 Absatz 2 BGB mit Pflicht, Verschulden und eingetretenem Schaden prüfen; eine Verlustprognose allein ist noch kein Schadensnachweis.
 
 ## 1.7. Antwortform
 

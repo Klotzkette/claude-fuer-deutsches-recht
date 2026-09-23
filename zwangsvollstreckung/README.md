@@ -37,7 +37,7 @@ Direktnavigation: [30-Sekunden-Start](#in-30-sekunden-starten) · [Startseite](.
 
 Startsatz für Zwangsvollstreckung:
 
-> Erfasse zuerst Dateinamen und Metadaten im ausgewählten Ordner. Lies zunächst die für den Auftrag tragenden Unterlagen; ergänze die Lektüre gezielt bei offenen Belegfragen. Beginne mit folgendem Arbeitsschritt: einen fachbezogenen Erststand mit Ergebnisrichtung, Kernbeleg und nächstem Dokument. Wenn bereits ein konkretes Dokument verlangt ist, beginne unmittelbar damit. Frage nur einmal gebündelt nach, falls der nächste fachliche Schritt sonst falsch wäre; arbeite im Übrigen mit sichtbar markierten Lücken weiter.
+> Sichte den ausgewählten Ordner intern, ohne seine Inhalte ungefragt aufzulisten. Lies die für den Auftrag tragenden Unterlagen; ergänze die Lektüre gezielt bei offenen Belegfragen. Beginne mit folgendem Arbeitsschritt: einen fachbezogenen Erststand mit Ergebnisrichtung, Kernbeleg und nächstem Dokument. Wenn bereits ein konkretes Dokument verlangt ist, beginne unmittelbar damit. Frage gezielt nach entscheidenden offenen Punkten und arbeite an den unabhängigen Teilen weiter. Verarbeite die Antwort im bestehenden Entwurf; weitere Rückfragen nur bei neuen entscheidenden Lücken.
 
 Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestellte Tatsachen, Berechnungen und Quellen nicht erneut abfragen oder ohne Anlass neu aufbauen.
 
@@ -81,11 +81,11 @@ Freistehendes Cowork-Plugin für die Zwangsvollstreckung nach §§ 704 ff. ZPO a
 - Grundstücksvollstreckung aus notarieller Grundschuldurkunde § 800 ZPO: Zwangsversteigerungsantrag § 15 ZVG, Beitrittsantrag, Sicherungs- vs. Eigentümergrundschuld, Rangverhältnisse.
 - Insolvenz-Folgevollstreckung aus Tabellenauszug § 201 InsO nach Aufhebung des Verfahrens (Restschuldbefreiungsantrag pendent oder versagt).
 - Schuldnerschutz: Erinnerung § 766 ZPO, Vollstreckungsschutz § 765a ZPO, P-Konto-Bescheinigung § 850k ZPO, Räumungsvollstreckungsschutz § 765a ZPO, Drittwiderspruchsklage § 771 ZPO.
-- Reform-Stand 2026/2027: ZVollstrDigitG (BT-Drs. 21/4815, Bundestag 19.3.2026 beschlossen). Inkrafttreten Hauptteile 1.10.2026 (neue ZVFV-Formulare, § 829 Abs. 5 ZPO n.F. mit XML-Antrag als führender Form), Kreditinstitute-Pflicht zum sicheren Übermittlungsweg ab 1.10.2027 (§ 173 Abs. 2 Nr. 1 ZPO n.F., eBO/§ 130a Abs. 4 ZPO). § 840 ZPO erlaubt zusätzlich die Drittschuldnererklärung per Post.
+- Reform-Stand 2026/2027: Gesetz vom 20. Mai 2026, verkündet am 26. Mai 2026 ([BGBl. 2026 I Nr. 152](https://www.recht.bund.de/bgbl/1/2026/152/regelungstext.pdf?__blob=publicationFile&v=1)). Nach Artikel 18 treten die Hauptteile einschließlich Paragraf 829a ZPO n.F. am 1.10.2026 in Kraft, die PDF-/XML-Regel des Paragrafen 829 Absatz 5 ZPO n.F. am 1.1.2027 und die Pflicht der Kreditinstitute zum sicheren Übermittlungsweg nach Paragraf 173 Absatz 2 Nummer 1 ZPO n.F. am 1.6.2027. PDF oder XML sind möglich; bei gleichzeitiger Übermittlung desselben Formulars ist XML maßgeblich. Paragraf 840 ZPO erlaubt weiterhin die Drittschuldnererklärung per Post.
 
 ## Leitprinzip
 
-Das Plugin arbeitet titelorientiert und drittschuldnerorientiert. Es prüft erst, ob der Titel die richtige Maßnahme trägt (vollstreckbare Ausfertigung, Klausel, Zustellung, Wartefrist, Sicherheitsleistung), dann, ob der Drittschuldner der richtige Ansprechpartner ist (Sitz, Zustellungsweg, Erklärungspflicht, Auskunftsrecht). Erst danach erzeugt es Schriftsätze. Vollstreckungsschutz, P-Konto und Drittwiderspruch werden nicht als Hindernis behandelt, sondern als parallel zu führender Strang mit eigener Aktenlage. Reform-Übergänge (ZVollstrDigitG) werden datumsabhängig gesteuert: bis 30.9.2026 alte ZVFV, ab 1.10.2026 neue ZVFV-Formulare, ab 1.10.2027 sicherer Übermittlungsweg für Kreditinstitute Pflicht.
+Das Plugin arbeitet titelorientiert und drittschuldnerorientiert. Es prüft erst, ob der Titel die richtige Maßnahme trägt (vollstreckbare Ausfertigung, Klausel, Zustellung, Wartefrist, Sicherheitsleistung), dann, ob der Drittschuldner der richtige Ansprechpartner ist (Sitz, Zustellungsweg, Erklärungspflicht, Auskunftsrecht). Erst danach erzeugt es Schriftsätze. Vollstreckungsschutz, P-Konto und Drittwiderspruch werden nicht als Hindernis behandelt, sondern als parallel zu führender Strang mit eigener Aktenlage. Reform-Übergänge (ZVollstrDigitG) werden datumsabhängig gesteuert: ab 1.10.2026 elektronische Antragstellung nach Paragraf 829a ZPO n.F., ab 1.1.2027 PDF-/XML-Regel, ab 1.6.2027 sicherer Übermittlungsweg für Kreditinstitute Pflicht. Die Formularübergänge richten sich gesondert nach Paragraf 6 ZVFV, nicht nach einem pauschalen Formularwechsel am 1.10.2026.
 
 ## Typischer Ablauf
 
@@ -93,7 +93,7 @@ Das Plugin arbeitet titelorientiert und drittschuldnerorientiert. Es prüft erst
 2. Titel-Klausel-Zustellung prüfen: vollstreckbare Ausfertigung, Klausel § 724 ZPO, Zustellungsnachweis § 750 ZPO, Wartefrist § 798 ZPO bei notarieller Urkunde, Sicherheitsleistung.
 3. Vorfeld-Recherche: Vermögensauskunft beim Gerichtsvollzieher, Kontensuche § 802l ZPO über BZSt, Schuldnerverzeichnis § 882c ZPO.
 4. Maßnahme wählen: PfÜB Bank/Arbeitgeber/Mieter/Finanzamt, Mobiliarvollstreckung, Räumung § 885 ZPO, ZVG-Antrag oder Tabellenauszug § 201 InsO.
-5. Schriftsatz erzeugen: ZVFV-Formular (alt bis 30.9.2026 / neu ab 1.10.2026), Drittschuldnerzustellung organisieren, § 840-Erklärung anfordern.
+5. Schriftsatz erzeugen: geltendes ZVFV-Formular unter Beachtung von Paragraf 6 ZVFV verwenden, Drittschuldnerzustellung organisieren, Paragraf 840-Erklärung anfordern.
 6. Schuldnerseite begleiten: Erinnerung, Vollstreckungsschutz, P-Konto-Sockel berechnen, Drittwiderspruch prüfen.
 
 ## Enthaltene Skills
@@ -128,9 +128,10 @@ Das Plugin arbeitet titelorientiert und drittschuldnerorientiert. Es prüft erst
 
 | Datum | Was ändert sich |
 | --- | --- |
-| bis 30.9.2026 | Alte ZVFV-Formulare bleiben gültig, § 829 ZPO unverändert. |
-| ab 1.10.2026 | Neue ZVFV-Formulare verbindlich, § 829 Abs. 5 ZPO n.F.: XML-Datensatz wird führend. |
-| ab 1.10.2027 | Kreditinstitute müssen sicheren Übermittlungsweg vorhalten (§ 173 Abs. 2 Nr. 1 ZPO n.F., eBO/§ 130a Abs. 4 ZPO). § 840 ZPO-Erklärung weiterhin per Post zulässig. |
+| bis 30.9.2025 | Für bis dahin gestellte Aufträge und Anträge nach [Paragraf 6 Absatz 1 ZVFV](https://www.gesetze-im-internet.de/zvfv_2022/__6.html) dürfen die Formulare der Fassung vom 24. November 2023 weiter genutzt werden. |
+| ab 1.10.2026 | Elektronischer PfÜB-Antrag nach Paragraf 829a ZPO n.F.; kein durch dieses Gesetz angeordneter allgemeiner Wechsel der ZVFV-Formulare. |
+| ab 1.1.2027 | Paragraf 829 Absatz 5 ZPO n.F.: Formulare als PDF oder XML; wird dasselbe Formular zugleich in beiden Formaten übermittelt, ist XML maßgeblich. |
+| ab 1.6.2027 | Kreditinstitute müssen einen sicheren Übermittlungsweg eröffnen (Paragraf 173 Absatz 2 Nummer 1 ZPO n.F.). Die Erklärung nach Paragraf 840 ZPO bleibt per Post zulässig. |
 
 ## Grenzen
 

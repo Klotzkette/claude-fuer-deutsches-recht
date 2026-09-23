@@ -1,10 +1,10 @@
 # 1. Fortbestehensprognose zum konkreten Stichtag
 
-Prüfe, ob die Unternehmensfortführung über zwölf Monate überwiegend wahrscheinlich ist, und erstelle die bestellte Prognosedokumentation. Lies die vorhandene Planung und ihre Belege zuerst; ein Restrukturierungsplan ist nur bei entsprechendem Auftrag nötig.
+Rechne nach, ob die verfügbaren Mittel und plausiblen Zuflüsse jede fällige Zahlung der nächsten zwölf Monate decken. Lies zuerst Planung, Fälligkeiten und Finanzierungsbelege; zeige eine Zwischenlücke auch bei positivem Jahressaldo. Begründe daraus die Fortbestehensprognose nach Paragraf 19 Absatz 2 InsO. Ein Restrukturierungsplan ist nur bei entsprechendem Auftrag nötig.
 
 ## 1.1. Ausgangslage und dringende Prüfung
 
-Entnimm Rechtsträger, Stichtag, Rolle, Krisenanlass und gewünschtes Dokument dem Auftrag. Lies Abschlüsse, aktuelle Kontostände, Forderungen, fällige Verbindlichkeiten, Kreditbedingungen und Finanzierungszusagen. Bereits beantwortete Angaben nicht erneut erfragen.
+Ohne Eingabe fragen: „Soll ich die Zwölfmonatsplanung prüfen, eine Finanzierungszusage bewerten oder einen Prognosevermerk erstellen?“ Bei Dateien ohne Auftrag Planung und Finanzierungsbelege still lesen und passende Wege anbieten; keine ungefragte Gesamtanalyse. Ein klarer Auftrag führt direkt zur Berechnung und zum Dokument. Bekannte Stichtags- und Unternehmensdaten nicht erneut erfragen; keine Pflichtdialogrunde.
 
 Gegenwärtige Zahlungsunfähigkeit, drohende Zahlungsunfähigkeit und Überschuldung getrennt prüfen. Eine künftig auftretende Lücke begründet nicht allein heutige Zahlungsunfähigkeit; ein positiver Jahressaldo schließt eine akute Lücke nicht aus. Bei Hinweisen auf Insolvenzreife dringenden fachlichen Entscheidungsbedarf benennen und Antragspflicht sowie Zahlungen gesondert prüfen.
 
@@ -41,7 +41,7 @@ Am 15.09.2026 amtlich geprüft:
 
 Weitere vorhandene Normeinstiege fallbezogen verifizieren: StaRUG Paragraf 1, InsO Paragrafen 15b und 17 bis 19 sowie für zusätzlichen Restrukturierungsauftrag StaRUG Paragrafen 29 und folgende. BGB Paragrafen 241 Absatz 2, 242 und 280 Absatz 1 nur bei konkreter Vertrags- oder Haftungsfrage heranziehen.
 
-Bisherige Entscheidungsanker, vor Verwendung im amtlichen Volltext zu prüfen: BGH, Urteil vom 23.01.2025, IX ZR 229/22, zu streitigen Verbindlichkeiten und zum vorläufig vollstreckbaren Titel unter den dortigen Voraussetzungen; BGH, Urteil vom 24.05.2005, IX ZR 123/04, zu Zahlungsunfähigkeit und Zahlungsstockung. Kein pauschaler Prozessrisikoabschlag und keine ungeprüfte Übernahme von Schwellen. Keine Literatur oder Randnummern aus Erinnerung.
+BGH, Urteil vom 13.07.2021, II ZR 84/20, Randnummern 68 bis 85 ([Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2020/II_ZR__84-20.pdf?__blob=publicationFile&v=1)): Eine weiche Patronatserklärung beseitigt keine rechnerische Überschuldung. Künftige Zuflüsse setzen in der Prognose nicht stets einen Rechtsanspruch voraus; bei krisenhafter Gesellschaft und sichtbarer Lücke trägt unverbindliche Unterstützung aber nur ausnahmsweise. Frühere Hilfen allein reichen nicht. Prüfe konkrete Leistungsfähigkeit, Verlustübernahmebereitschaft und Zuflusszeit; kennzeichne eine begründete Ausnahme statt eines sicheren Bankbestands. Das Urteil zum früheren Recht ersetzt weder den heutigen Zwölfmonatshorizont noch die Prüfung aktueller Zahlungsunfähigkeit.
 
 ## 1.6. Prognosevermerk fertigstellen
 

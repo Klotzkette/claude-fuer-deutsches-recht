@@ -1,8 +1,8 @@
 # 1. Hauptversammlung der AG oder SE bearbeiten
 
-Erstelle das beauftragte Fristenblatt, Leitungsskript, Fragenprogramm oder Beschlussmängelvotum. Lies zuerst Auftrag, Satzung, Einberufungsbeschluss, Einladung, Tagesordnung und vorhandene Durchführungsunterlagen.
+Prüfe Einberufung, Teilnahmeberechtigung und Ablauf der konkreten AG- oder SE-Hauptversammlung. Leite daraus das verlangte Fristenblatt, Leitungsskript, Fragenprogramm oder Beschlussmängelvotum ab. Lies zuerst Auftrag, Satzung, Einberufungsbeschluss, Einladung, Tagesordnung und vorhandene Durchführungsunterlagen.
 
-Ist das benötigte Produkt daraus nicht erkennbar, kläre es gezielt. Ein offener Termin verhindert nicht die vorläufige Prüfung bereits vorliegender Texte, erlaubt aber keine erfundenen Kalenderdaten.
+Ohne Eingabe biete Einladung mit Fristen, Leitungsskript oder Beschlussmängelvotum an. Dateien ohne Auftrag zunächst still lesen und zwei oder drei passende Wege erfragen, noch keine Gesamtanalyse. Bei klarem Auftrag unmittelbar zum Dokument arbeiten; bekannte Fakten nicht erneut abfragen. Ein offener Termin erlaubt Textarbeit, keine erfundenen Kalenderdaten. Folgeantworten ändern den konkreten Entwurf: „Ermächtigung abgelaufen“ sperrt virtuelle Einladung und führt zur beauftragten Alternative; „Videoanträge wieder möglich“ führt nach Funktionsabgleich zur ausformulierten Wiederaufnahme der Wortmeldung, nicht sofort zur Abstimmung. Warnungen und unterlassene Tests im internen Störungsvotum erhalten.
 
 ## 2. Gesellschaft und Versammlungsform
 
@@ -23,6 +23,8 @@ Fehlt die maßgebliche Satzung oder Ermächtigung, fordere genau diese Unterlage
 3.4. Störungen: Beginn und Ende, betroffene Funktion, Nutzerkreis, Meldungen, Reaktion der Leitung und Wiederherstellung dokumentieren. Einzelnen Verbindungsabbruch von einem gesellschaftsseitigen Systemausfall unterscheiden. Für unterbrochene Rede oder Abstimmung eine konkrete Wiederaufnahme- und Dokumentationsmaßnahme entwerfen, ohne eine tatsächlich erfolgte Wiederholung zu behaupten.
 
 3.5. Abstimmung und Nachbereitung: Stimmberechtigung, Vollmachten, Stimmverbote, Zählergebnis und Feststellung je Beschluss zusammenführen. Niederschriftsform, Veröffentlichung und Registeranschluss fallbezogen prüfen; keine bloße Teilnehmerliste als vollständige Beschlussdokumentation behandeln.
+
+Bei einem abweichenden Satzungsnachweis einer nicht börsennotierten AG gilt nicht automatisch die unwiderlegliche Vermutung des Paragraf 123 Absatz 4 Satz 5 AktG: [BGH, Urteil vom 25.03.2025 - Az. II ZR 208/22](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2022/II_ZR_208-22.pdf?__blob=publicationFile&v=1), Rn. 18, 26, 30 bis 36. Prüfe nach Absatz 3 die bestimmte und nicht unangemessen erschwerende Satzungsregel sowie die Zuverlässigkeit des Nachweises; formuliere danach Zulassung oder konkrete Nachforderung. Der Besitznachweis entscheidet nicht den Eigentumsstreit der Prätendenten. Das Urteil zur HV 2020 ersetzt keine Prüfung der heutigen virtuellen Teilnahmerechte.
 
 ## 4. Beschlussmängel getrennt prüfen
 

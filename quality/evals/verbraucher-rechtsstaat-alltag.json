@@ -1,32 +1,168 @@
 {
   "schema_version": 1,
   "plugin": "verbraucher-rechtsstaat-alltag",
-  "reviewed_on": "2026-09-17",
+  "reviewed_on": "2026-09-23",
   "sources": [
-    {"url": "https://www.gesetze-im-internet.de/zpo/__692.html", "checked_on": "2026-09-14", "supports": "Geöffneter Volltext: keine inhaltliche Anspruchsprüfung im Mahnbescheid und Aufforderung zur Reaktion binnen zwei Wochen seit Zustellung."},
-    {"url": "https://www.gesetze-im-internet.de/zpo/__694.html", "checked_on": "2026-09-14", "supports": "Amtlicher Suchabruf: schriftlicher Widerspruch beim erlassenden Gericht bis zur Verfügung des Vollstreckungsbescheids."}
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__477.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlicher Volltext gelesen: Vermutung beim innerhalb eines Jahres gezeigten abweichenden Zustand, sechs Monate bei lebenden Tieren und Sonderregel für dauerhaft bereitgestellte digitale Elemente. Grundlage der neuen Beleg- und Gegenbefundprüfung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__475d.html",
+      "checked_on": "2026-09-23",
+      "supports": "Nach Web-Timeout amtlichen Volltext direkt gelesen: Ausnahmen von der Fristsetzung für Rücktritt und Schadensersatz, insbesondere angemessene Zeit seit Mangelinformation ohne Nacherfüllung, erfolgloser Versuch und Verweigerung; andere Anspruchsvoraussetzungen bleiben offen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__692.html",
+      "checked_on": "2026-09-14",
+      "supports": "Geöffneter Volltext: keine inhaltliche Anspruchsprüfung im Mahnbescheid und Aufforderung zur Reaktion binnen zwei Wochen seit Zustellung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__694.html",
+      "checked_on": "2026-09-14",
+      "supports": "Amtlicher Suchabruf: schriftlicher Widerspruch beim erlassenden Gericht bis zur Verfügung des Vollstreckungsbescheids."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__286.html",
+      "supports": "Amtlichen Volltext per Direktabruf gelesen: Mahnung, vereinbarte Kalenderbestimmung, Verbraucherhinweis der 30-Tage-Regel und Vertretenmüssen.",
+      "checked_on": "2026-09-23"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__339.html",
+      "supports": "Amtlichen Volltext per Direktabruf gelesen: zweiwöchige Notfrist ab Zustellung, gesonderte Auslands- und öffentliche Zustellung.",
+      "checked_on": "2026-09-23"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__700.html",
+      "supports": "Amtlichen Volltext per Direktabruf gelesen: Vollstreckungsbescheid einem vorläufig vollstreckbaren Versäumnisurteil gleichgestellt und Einspruchsverfahren.",
+      "checked_on": "2026-09-23"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__356a.html",
+      "supports": "Amtlichen Volltext Absätze 1–5 gelesen: Verfügbarkeit während Widerrufsfrist, Felder und zwei Funktionen, dauerhafte Eingangsbestätigung mit Datum/Uhrzeit, Versand vor Fristende als rechtzeitiger Zugang.",
+      "checked_on": "2026-09-23"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__356.html",
+      "supports": "Amtlichen Volltext gelesen: Fristbeginn/Belehrung, aktuelle Erlöschensregeln für Dienstleistungen Absatz 5 und digitale Inhalte Absatz 6.",
+      "checked_on": "2026-09-23"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2007/III_ZR__91-07.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-23",
+      "supports": "BGH, Urteil vom 25.10.2007, III ZR 91/07, Rn. 6–12: Ein einseitiges Zahlungsziel auf einer Rechnung begründet regelmäßig keinen Kalenderverzug; bei Verbrauchern fehlt ohne besonderen Hinweis auch die Wirkung nach Paragraf 286 Absatz 3 BGB. Erst verzugsbegründende Anwaltskosten sind nicht bereits Verzugsschaden. Grenze: Eine Rechnung kann eine eindeutige Mahnung enthalten; vereinbartes oder wirksam nach Paragraf 315 BGB bestimmtes Zahlungsziel bleibt gesondert zu prüfen. Amtlichen Entscheidungstext und entscheidende Gründe gelesen."
+    }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Die Dokumentweiche ist tragfähig; nur einmalige Rückfrage und obligatorische Vorabsätze konnten den bestellten Antwortbrief verdrängen.",
-    "changes": ["Zustellungs- und Zahlungsnachweise gezielt mit anschließender Aktualisierung klären", "Weitere entscheidende Rückfragen ohne Wiederaufnahme zulassen", "Bestellten Antworttext statt Pflichtvorrede fertigstellen"],
-    "sha256": "99a93eaad1d26ade8af56cf1ba055545067e4861461a36c9b8c22ecd80104620"
-  },
-  "workshop_review": {"verdict":"revised","reason":"Ganztextprüfung zeigte Widerrufs- und Vertragsabläufe auch für Familienkasse, Schulbehörde und Baunachbarpost.","changes":["Gerichtliche Mahnpost, Verträge und Behördenverfahren getrennt geführt","Kindergeldwege, Nebenkosten, Zahnarztkosten und Kleinanzeigenfälle individuell eingeordnet","Nachweise mit Frist-, Betrags- und Textaktualisierung bis zum fertigen Schreiben verbunden"],"sha256":"e0e78d9d2acbf4eea82e51f404eeb21d9f1b13e3eb01171100466d35d065ceeb"},
-  "selection": {
-    "positive": ["Erkläre mir den gelben Brief mit Mahnbescheid und bereite eine passende Reaktion vor.", "Ordne Rechnung, Inkassobrief und Behördenpost verständlich nach Frist und Empfänger."],
-    "negative": ["Entwirf eine Verbandsklage für eine qualifizierte Verbraucherorganisation.", "Prüfe eine komplexe Unternehmenskaufgarantie zwischen zwei Gesellschaften."]
-  },
-  "cases": [{
-    "id": "mahnbescheid-zahlung-bereits-erfolgt",
-    "request": "Bitte schreibe ergebnis.md in verständlicher Sprache mit einer Formularhilfe, ohne etwas zu versenden. Ich habe am 4. September 2026 einen gerichtlichen Mahnbescheid im gelben Umschlag erhalten. Gefordert werden 620 Euro Kaufpreis plus Kosten. Den Kaufpreis habe ich am 20. August unter korrekter Rechnungsnummer bezahlt; Kontoauszug und Gutschriftbestätigung des Händlers liegen vor. Ich bestreite die gesamte noch verlangte Forderung einschließlich der daraus abgeleiteten Kosten. Heute ist der 14. September. Das Inkassobüro hat meinen Brief vom 7. September nicht beantwortet. An das im Mahnbescheid genannte Amtsgericht habe ich nichts geschickt. Ein Vollstreckungsbescheid ist nicht bekannt. Erkläre, was der Mahnbescheid bedeutet und was als Nächstes an wen vorzubereiten ist.",
-    "input_files": [],
-    "deliverables": ["ergebnis.md"],
-    "criteria": [
-      {"id": "C01", "text": "Die Antwort erklärt ohne Annahme einer gerichtlichen Schuldfeststellung, dass der geltend gemachte Anspruch im Mahnverfahren nicht inhaltlich geprüft wurde.", "deliverables": ["ergebnis.md"]},
-      {"id": "C02", "text": "Sie benennt den 18. September 2026 als Ende des Zweiwochen-Reaktionszeitraums ab Zustellung und richtet den vorzubereitenden Widerspruch an das erlassende Gericht statt allein an das Inkassobüro.", "deliverables": ["ergebnis.md"]},
-      {"id": "C03", "text": "Die Formularhilfe entspricht dem ausdrücklich vollständigen Bestreiten, berücksichtigt Zahlungs- und Gutschriftbeleg und löst weder weitere Zahlung noch Versand aus.", "deliverables": ["ergebnis.md"]}
+    "reason": "Am 23.09.2026 vollständig erneut gelesen: drei konkrete Einstiegswege und stille Dateiauswertung führen unmittelbar zum Dokument; Zahlungsbeleg und spätere Mahnung ändern Einwand und Kostenfassung. III ZR 91/07 sowie Mahn-/Vollstreckungsbescheid und Widerrufsfunktion bleiben differenziert erhalten.",
+    "changes": [
+      "Leere Eingabe, Dateien ohne Auftrag und klarer Auftrag ausdrücklich unterschieden; konkrete Zahlungseinwand-Fortsetzung ergänzt.",
+      "III ZR 91/07 mit tatsächlichem Verzugsauslöser, Verbraucherhinweis und Grenze für Kosten der ersten anwaltlichen Mahnung in beide Prompts integriert.",
+      "Vollstreckungsbescheid mit Einspruch und eigenständiger Vollstreckungslage vom Mahnbescheid abgegrenzt.",
+      "Paragraf 356a BGB vollständig amtlich geprüft: zweistufige Widerrufsfunktion, Eingangsbestätigung und Absatz 5; klar vom Kündigungsbutton getrennt, aktuelle Absätze 5/6 des Paragrafen 356 berücksichtigt."
     ],
-    "target_skill": "gerichtlicher-mahnbescheid-laie"
-  }]
+    "sha256": "951b092c5425a480cb8c493aa59989c57f9fb527ef217f4d93412462873cb459"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Am 23.09.2026 vollständig erneut gelesen: Zahlungszuordnung, nachgereichte Verzugsbelege, Mängelnachweis und Monatsabgleich bei Familienkassenpost führen zu konkreten Fassungsänderungen. Alle bisherigen Sonderzweige und Entscheidungsgrenzen bleiben erhalten; nur gezielte neue Normprüfung, kein Mandatstest.",
+    "changes": [
+      "Zahlungseinwand mit Gegenbelegen, Rücktritt/Nacherfüllung nach belegter Verkäuferreaktion und bescheidbezogene Monatsdarstellung substanziell ausgearbeitet.",
+      "Drei Startmodi, konkreter Dokumentabschluss und Freigabegrenzen mit Frist- und Empfängerbezug ergänzt.",
+      "III ZR 91/07 mit tatsächlichem Verzugsauslöser, Verbraucherhinweis und Grenze für Kosten der ersten anwaltlichen Mahnung in beide Prompts integriert.",
+      "Vollstreckungsbescheid mit Einspruch und eigenständiger Vollstreckungslage vom Mahnbescheid abgegrenzt.",
+      "Paragraf 356a BGB vollständig amtlich geprüft: zweistufige Widerrufsfunktion, Eingangsbestätigung und Absatz 5; klar vom Kündigungsbutton getrennt, aktuelle Absätze 5/6 des Paragrafen 356 berücksichtigt."
+    ],
+    "sha256": "d91d9599d335075811b56093e0af376608a467e811dbdb59d1bade3aa3b9bab4"
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Antwort auf Rechnung/Inkasso, Widerspruchshilfe zu Mahnpost oder Antwort auf Behördenbescheid anbieten.",
+      "Dateien ohne Auftrag: Brief, Zustellung und Belege still lesen; nur bei offenem Ziel passende Antwort- oder Formularwege anbieten.",
+      "Klarer Auftrag: sofort am Schreiben arbeiten; nur entscheidenden Zustelltag, Bestreitensumfang oder Beleg klären."
+    ],
+    "continuation": "Zahlungsbeleg oder frühere Mahnung -> geänderter Zahlungseinwand und Kostenabsatz im Antwortbrief; Ausbildungsnachweis -> geänderter Monatsumfang im Rechtsbehelf.",
+    "enrichment": "Zahlungszuordnung und nachteilige Verzugsbelege, Mangelbeobachtung und Verkäuferreaktion, Familienkassenzeiträume sowie Abschluss als konkrete Erklärung ausgearbeitet.",
+    "limits": "desk review; no live client execution"
+  },
+  "selection": {
+    "positive": [
+      "Erkläre mir den gelben Brief mit Mahnbescheid und bereite eine passende Reaktion vor.",
+      "Ordne Rechnung, Inkassobrief und Behördenpost verständlich nach Frist und Empfänger."
+    ],
+    "negative": [
+      "Entwirf eine Verbandsklage für eine qualifizierte Verbraucherorganisation.",
+      "Prüfe eine komplexe Unternehmenskaufgarantie zwischen zwei Gesellschaften."
+    ]
+  },
+  "cases": [
+    {
+      "id": "mahnbescheid-zahlung-bereits-erfolgt",
+      "request": "Bitte schreibe ergebnis.md in verständlicher Sprache mit einer Formularhilfe, ohne etwas zu versenden. Ich habe am 4. September 2026 einen gerichtlichen Mahnbescheid im gelben Umschlag erhalten. Gefordert werden 620 Euro Kaufpreis plus Kosten. Den Kaufpreis habe ich am 20. August unter korrekter Rechnungsnummer bezahlt; Kontoauszug und Gutschriftbestätigung des Händlers liegen vor. Ich bestreite die gesamte noch verlangte Forderung einschließlich der daraus abgeleiteten Kosten. Heute ist der 14. September. Das Inkassobüro hat meinen Brief vom 7. September nicht beantwortet. An das im Mahnbescheid genannte Amtsgericht habe ich nichts geschickt. Ein Vollstreckungsbescheid ist nicht bekannt. Erkläre, was der Mahnbescheid bedeutet und was als Nächstes an wen vorzubereiten ist.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die Antwort erklärt ohne Annahme einer gerichtlichen Schuldfeststellung, dass der geltend gemachte Anspruch im Mahnverfahren nicht inhaltlich geprüft wurde.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Sie benennt den 18. September 2026 als Ende des Zweiwochen-Reaktionszeitraums ab Zustellung und richtet den vorzubereitenden Widerspruch an das erlassende Gericht statt allein an das Inkassobüro.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die Formularhilfe entspricht dem ausdrücklich vollständigen Bestreiten, berücksichtigt Zahlungs- und Gutschriftbeleg und löst weder weitere Zahlung noch Versand aus.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "gerichtlicher-mahnbescheid-laie"
+    }
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "verbraucher-rechtsstaat-alltag/README.md",
+      "verbraucher-rechtsstaat-alltag/verbraucher-rechtsstaat-alltag-schnellstart.md",
+      "verbraucher-rechtsstaat-alltag/verbraucher-rechtsstaat-alltag-werkstatt.md",
+      "quality/evals/verbraucher-rechtsstaat-alltag.json"
+    ],
+    "opening_change": "Aus Rechnung, Gerichtspost oder Bescheid Zahlungspflicht, Reaktionsfrist und richtigen Empfänger klären; verständlichen Antwortbrief statt allgemeinen Verbraucherrechtsüberblick liefern.",
+    "norms": [
+      "Paragrafen 692, 694 und 700 ZPO",
+      "Paragrafen 338 und 339 ZPO",
+      "Paragrafen 280 Absätze 1 und 2, 286 und 288 BGB",
+      "Paragrafen 355, 356 und 356a BGB",
+      "Paragraf 312k BGB"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 25.10.2007, III ZR 91/07, Rn. 6–12",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2007/III_ZR__91-07.pdf?__blob=publicationFile&v=1",
+        "application": "Ein einseitiges Zahlungsziel auf einer Rechnung begründet regelmäßig keinen Kalenderverzug; bei Verbrauchern fehlt ohne besonderen Hinweis auch die Wirkung nach Paragraf 286 Absatz 3 BGB. Erst verzugsbegründende Anwaltskosten sind nicht bereits Verzugsschaden.",
+        "limit": "Eine Rechnung kann eine eindeutige Mahnung enthalten; vereinbartes oder wirksam nach Paragraf 315 BGB bestimmtes Zahlungsziel bleibt gesondert zu prüfen."
+      }
+    ],
+    "remaining_limits": [
+      "Workflow-Review: neue Prüfung auf Paragrafen 286, 477 und 475d BGB begrenzt. Vorherige Entscheidungsprüfung erhalten, nicht als neue Volltextprüfung ausgegeben; Landes- und Sozial-/Steuer-Spezialrecht nicht flächendeckend neu verifiziert.",
+      "Desk-/Quellenprüfung, kein Live-Modell- oder Mandatstest.",
+      "Der geprüfte gerichtliche Anker betrifft privaten Zahlungsverzug und vorgerichtliche Kosten, nicht die Anspruchsprüfung durch das Mahngericht oder sämtliche Gerichtskosten.",
+      "Schulrecht, Baunachbarrecht, Kindergeld und medizinische Vergütung nicht flächendeckend neu verifiziert; deren besondere Verfahren bleiben ausdrücklich getrennt.",
+      "Paragraf 356a aktuell amtlich verifiziert; keine Behauptung bereits gefestigter Rechtsprechung zur neuen Funktion."
+    ]
+  }
 }

@@ -1,6 +1,8 @@
 # 1. Dokumentenbestand ordnen und Bearbeitung fortführen
 
-Erstelle das bestellte Dokumentenregister, den Versionsvergleich oder einen ausführbaren Schrittplan. Ordne Dateien, Fundstellen und offene Bearbeitungen, ohne eigenständig Ansprüche, Formwirksamkeit oder rechtliche Fristen zu beurteilen.
+Gleiche unterschriebene Verträge, Nachträge, Freigaben und Aufgabenboard miteinander ab: Welcher Stand ist tatsächlich dokumentiert, wo widerspricht ihm die interne Übersicht und welcher Nachweis fehlt für die nächste Bearbeitung? Erstelle daraus das beauftragte Register, den Fassungsvergleich oder Schrittplan. Trenne dokumentierten Stand und vorgeschlagene Änderung; entscheide nicht ungefragt über Vertragswirksamkeit oder gesetzliche Fristen.
+
+Ohne Eingabe biete Fassungsabgleich, Nachforderungsbrief oder Schrittplan mit Abhängigkeiten an. Bei Dateien ohne Auftrag still lesen und nur das passende Ziel klären; keinen Bestand automatisch als große Übersicht ausgeben. Einen klaren Auftrag direkt bearbeiten. Nur fehlende Freigabe- oder Versionsangaben nachfragen, die das Ergebnis ändern. Nach einer Antwort die davon abhängigen Registerzeilen, Vergleichsstellen und Aufgaben fortführen. Weitere Plugin-Dateien, Ordnerzugriff oder Exportwerkzeuge sind keine Voraussetzung; ohne diese mit den bereitgestellten Inhalten arbeiten und Grenzen konkret benennen.
 
 ## 1.1. Auftrag und Umfang
 
@@ -39,6 +41,8 @@ Beteiligungsstände, Kapitalmaßnahmen, Wandlungen, Optionen, Finanzierungsinstr
 
 Bei Zugang und Zustellung Absender, Empfänger, Übermittlungsweg, dokumentiertes Empfangsereignis, Nachweis und Bestreiten erfassen. Übernommene Fristen mit ihrer Quelle kennzeichnen. Rechtlichen Fristbeginn nicht aus dem Dateidatum ableiten; unbekannte Rechtsgrundlage oder Formwirksamkeit gesondert prüfen lassen.
 
+Bei einem Einwurf-Einschreiben sind Einlieferungsbeleg, Online-Status und Auslieferungsbeleg getrennte Dokumente. BAG, Urteil vom 30.01.2025, 2 AZR 68/24, Rn. 15 bis 20 ([amtlich](https://www.bundesarbeitsgericht.de/entscheidung/2-azr-68-24/)), verneint den Anscheinsbeweis des Zugangs allein aus Einlieferungsbeleg und Sendungsstatus ohne Reproduktion des Auslieferungsbelegs. Für [Paragraf 130 Absatz 1 BGB](https://www.gesetze-im-internet.de/bgb/__130.html) genügt deshalb nicht der Registereintrag „zugestellt laut Tracking“. Erfasse genau diesen belegten Status, fordere den fehlenden Auslieferungsnachweis gezielt an und kennzeichne davon abhängige Fristannahmen als ungeklärt. Der Kündigungsfall erklärt die Nachweislücke; er beweist keinen Nichtzugang und schließt andere Empfangsnachweise nicht aus. Eine abschließende Beweiswürdigung ist kein Nebenprodukt des Registers.
+
 ## 1.6. Ausführbaren Schrittplan erstellen
 
 Jeder erforderliche Schritt nennt Voraussetzung, konkrete Eingabe, verantwortliche Rolle, erwartetes Ergebnis und Terminstatus. Bei Bedarf Freigeber, Stellvertretung, Eskalationsdatum und Abschlussnachweis ergänzen. Rollen und Termine nicht erfinden; fehlende Zuständigkeit als offene Entscheidung benennen.
@@ -59,11 +63,37 @@ Die Übergabenotiz nennt Auftrag, geprüften Bestand, Ergebnisdateien, relevante
 
 ## 1.8. Grenze zur Rechtsprüfung
 
-Die im Fachmaterial genannten BGB Paragraf 126, Paragraf 126a und Paragraf 126b betreffen unterschiedliche Formfragen. ZPO Paragraf 130a betrifft elektronische gerichtliche Dokumente; ZPO Paragraf 138 und Paragraf 253 Vortrag und Antrag, ZPO Paragraf 286 und Paragraf 371a Beweisfragen. HGB Paragraf 257 und AO Paragraf 147 sind bei anwendbarer Aufbewahrung gesondert zu prüfen.
+Unterscheide bei Unterschriftsvermerken Schriftform, elektronische Form und Textform nach BGB Paragrafen 126, 126a und 126b. Ein eingescanntes Namensbild bescheinigt keine qualifizierte elektronische Signatur. ZPO Paragraf 130a betrifft gerichtliche elektronische Dokumente, nicht jede Projektablage; ZPO Paragrafen 286 und 371a betreffen deren mögliche Beweiswürdigung. Aufbewahrung nach HGB Paragraf 257 und AO Paragraf 147 erst nach Dokumenttyp, Verpflichtetem und Frist prüfen, bevor ein Löschschritt empfohlen wird.
 
 Diese Normen machen einen Dateistatus nicht zur rechtlichen Bewertung. Eine solche Prüfung nur bei ausdrücklichem gesondertem Auftrag und mit verifiziertem Geltungsstand durchführen. Fehlende Quellen der betroffenen Datei und Frage zuordnen; keinen formgerechten oder beweiskräftigen Zustand allein aus Dateiverfügbarkeit ableiten.
 
-## 1.9. Abschluss und technische Grenzen
+## 1.9. Widersprüche in bearbeitbare Entscheidungen überführen
+
+### 1.9.1. Preisfreigabe und unveränderte Anlagen
+
+Liegt eine beidseitig unterzeichnete Fassung über 20.000 Euro neben einem internen Entwurf über 18.000 Euro, erfasse beide mit ihrem eigenen Status. Die Aufgabe „Preissenkung umgesetzt“ im Board ist eine Behauptung über den Vorgang, kein Ersatz für den fehlenden Annahmenachweis. Wird eine spätere Nachricht „mit dem Preis einverstanden“ nachgereicht, prüfe deren Bezug: Welche Fassung, welches Angebot, welcher Zeitraum und welche Anlagen sind erkennbar gemeint? Keine rechtliche Wirksamkeit allein aus dieser Dokumentenzuordnung bescheinigen.
+
+Ergibt sich nur ein Bezug auf den Preis, aktualisiere den dokumentierten Zustimmungsstand für diesen Punkt und lasse den Status anderer Änderungen offen. Ändere nicht ungefragt Laufzeit, Haftung oder Leistungsanlage im Register auf „freigegeben“. Der gezielte Nachforderungsbrief bezeichnet die fragliche Fassung und Anlage sowie die benötigte Bestätigung. Ein Auftrag zum fertigen Register endet mit aktualisierten Einträgen und konkreten offenen Entscheidungen, nicht mit der bloßen Empfehlung, irgendwann Unterlagen zu beschaffen.
+
+### 1.9.2. Anlagenwechsel und auswirkungsbezogener Plan
+
+Ist Anlage 2 in der unterschriebenen Fassung als Leistungsumfang bezeichnet, in der neuen Datei jedoch als Preisliste, gleiche nicht allein die Nummer ab. Vergleiche Titel, Verweisstelle, Datum und erkennbaren Inhalt. Eine zusätzlich gefundene Anlage kann zu einer anderen Vertragsfassung gehören. Halte den Zuordnungskonflikt mit beiden Fundstellen fest; keine stillschweigende Umbenennung des Originals. Frage nach genau der mitunterzeichneten oder übermittelten Anlage, soweit dieser Zusammenhang entscheidend und nicht belegt ist.
+
+Nach ihrem Eingang passe nur die betroffenen Aufgaben an: Ausgangsfassung feststellen, Verweise in der Arbeitsfassung berichtigen, Vergleich neu prüfen, Zielversion zur Freigabe vorlegen. Ein bereits abgeschlossener inhaltlicher Vergleich kann durch einen Anlagenwechsel teilweise wieder offen werden. Ein bloß technischer Dateiumzug braucht dagegen keine neue Rechtsprüfung. Trenne erledigt, zur Prüfung vorgelegt und freigegeben anhand tatsächlicher Nachweise. Neue Verantwortliche oder Termine nicht aus der Dringlichkeit erfinden; fehlende Benennung ist eine konkrete Planentscheidung.
+
+### 1.9.3. Rechenstand und Stichtag
+
+Bei einem Beteiligungs- oder Preisregister prüfe, ob die verglichenen Zahlen denselben Stichtag und dieselbe Bezugsgröße haben. Ein Board kann eine geplante Kapitalmaßnahme enthalten, während die Urkunde nur den bisherigen Stand dokumentiert. Trenne geplante, beschlossene und anhand der vorhandenen Unterlagen vollzogene Schritte. Ein Registerauszug ist mit seinem Abrufstand zu erfassen, nicht als zeitloser Beleg. Die fachrechtliche Bedeutung des Vollzugs bleibt bei fehlendem Prüfauftrag ausdrücklich offen.
+
+Wird eine Formel korrigiert, dokumentiere alte Eingabe, neue Eingabe, Ursache und betroffene Summen. Ein ausgeblendetes Tabellenblatt oder gesetzter Filter kann die scheinbare Differenz erklären, ohne den ursprünglichen Wert falsch zu machen. Bei der Antwort „Das sind Nettowerte“ passe Überschrift, Vergleich und abhängige Berechnungen an; nicht nur ein Etikett neben der unverändert falschen Summe ergänzen. Liefere den bestellten nachvollziehbaren Fassungsvergleich, keine ausgedachten technischen Prüfergebnisse. Ungeprüfte Zellen bleiben ungeprüft, auch wenn die Gesamtsumme plausibel erscheint.
+
+### 1.9.4. Nachweis, Export und Übergabe
+
+Bei nachgereichtem Zustellbeleg verknüpfe Sendungsnummer, Empfänger und bezeichnetes Dokument. Ein Beleg für eine andere Sendung schließt die ursprüngliche Nachweislücke nicht. Ändere den Status auf das tatsächlich belegte Ereignis und passe davon abhängige Fristprüfaufträge an. Die rechtliche Zugangswürdigung nach Paragraf 130 BGB und der in Abschnitt 1.5 begrenzt angewandten BAG-Entscheidung bleibt von der bloßen Erfassung getrennt. Keine neue Frist nur aus dem Zeitpunkt des Uploads bilden.
+
+Vor einem bestellten Export Zielversion, Anlagenfolge, offene Kommentare und zu erhaltende Tabellenfunktionen abgleichen. Bei fehlender Freigabe kann eine deutlich benannte Arbeitsfassung geliefert werden; eine Endfreigabe darf nicht simuliert werden. Die Übergabe benennt tatsächlich erzeugte Datei, geprüften Umfang, belegten Stand und eng begrenzten Restbedarf. Ohne Dateizugriff vollständigen Text des Registers oder Nachforderungsbriefs liefern, aber keinen erfundenen Link. Stoppe vor Überschreiben, Löschen, externer Freigabe oder Versand. Dafür ist eine eigenständige ausdrückliche Beauftragung nötig.
+
+## 1.10. Abschluss und technische Grenzen
 
 Liefere das bestellte Ergebnis vollständig, nicht nur eine Liste künftiger Korrekturen. Bei einem Hindernis den Teilstand und konkret benötigten Beitrag benennen und nach dessen Eingang fortsetzen. Keine Originale überschreiben oder löschen, keine Freigaben erteilen und keine externen Nachrichten oder Einreichungen ohne ausdrücklichen Auftrag veranlassen.
 

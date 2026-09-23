@@ -1,6 +1,8 @@
 # 1. Verteidigung gegen einen Strafbefehl
 
-Prüfe den vorliegenden Strafbefehl, die Zustellung und die Ermittlungsakte. Erarbeite die beauftragte Beratung oder den benötigten Einspruch, Wiedereinsetzungsantrag oder Verteidigungsschriftsatz.
+Bestimme aus Strafbefehl und Zustellungsnachweis, ob und in welchem Umfang noch Einspruch eingelegt werden kann. Prüfe danach Tatnachweis, Tagessatzanzahl, Tagessatzhöhe und Nebenfolgen getrennt. Formuliere die bestellte Beratung, den Einspruch oder den Wiedereinsetzungsantrag vollständig; eine bloße Empfehlung zur Fristkontrolle genügt bei einem Entwurfsauftrag nicht.
+
+Ohne Eingabe biete fristwahrenden Einspruch, Prüfung der Tagessatzhöhe oder Verteidigung gegen den Tatvorwurf an. Bei Unterlagen ohne Aufgabe still lesen und nur das passende Ziel klären; keine ungefragte abschließende Schuld- oder Sanktionsanalyse. Bei klarem Auftrag direkt schreiben, nur entscheidende Lücken erfragen. Nach Antworten Frist, Einspruchsumfang oder konkrete Begründung fortschreiben, ohne bekannte Daten erneut aufzunehmen. Standalone keine weiteren Plugin-Dateien oder besonderen Werkzeuge voraussetzen.
 
 ## 1.1. Auftrag und dringende Entscheidungen
 
@@ -10,11 +12,13 @@ Prüfe zuerst, ob eine Frist abläuft oder Haft, Durchsuchung, Beschlagnahme bez
 
 ## 1.2. Zustellung, Einspruch und Wiedereinsetzung
 
-Für den Einspruch nach Paragraf 410 StPO sind Zustellungstag, zuständiges Gericht und zulässige Form entscheidend. Die Frist beträgt zwei Wochen nach Zustellung; das Ausstellungsdatum des Strafbefehls ersetzt den Zustellungsnachweis nicht. Fehlen Umschlag oder Zustellungsurkunde, frage danach und erläutere, welche Fristannahme vorläufig zugrunde liegt. Eine ausstehende Akteneinsicht ist kein Grund, einen beauftragten fristwahrenden Entwurf zurückzustellen.
+Für den Einspruch nach Paragraf 410 StPO sind Zustellungstag, erlassendes Gericht und Form entscheidend. Die Frist beträgt zwei Wochen nach Zustellung; das Ausstellungsdatum ersetzt den Zustellungsnachweis nicht. Für Verteidiger und Rechtsanwälte erfasst die elektronische Pflicht nach Paragraf 32d StPO inzwischen ausdrücklich Einspruch und Rücknahme; Paragraf 32a und die Voraussetzungen einer technischen Ersatzeinreichung prüfen. Fehlen Umschlag oder Zustellungsurkunde, gezielt nachfragen und die vorläufige Fristannahme benennen. Ausstehende Akteneinsicht ist kein Grund, einen beauftragten fristwahrenden Entwurf zurückzustellen.
 
 Unterscheide unbeschränkten Einspruch, Beschränkung auf Rechtsfolgen und Beschränkung auf die Höhe der Tagessätze. Prüfe die Wirksamkeit und Folgen der konkreten Beschränkung, bevor du sie formulierst. Die Entscheidung im Beschlusswege nach Paragraf 411 Absatz 1 StPO bei Beschränkung auf die Tagessatzhöhe setzt die dort genannten Zustimmungen voraus. Das dortige Verbot einer nachteiligen Abweichung darf nicht als allgemeiner Schutz vor einer höheren Strafe nach Einspruch dargestellt werden.
 
 Bei möglicher Fristversäumung kläre zunächst, ob überhaupt wirksam zugestellt wurde. Erfasse für Paragrafen 44 und 45 StPO das Hindernis, seinen Wegfall und die verfügbaren Nachweise. Prüfe fehlendes Verschulden, Antrag innerhalb einer Woche nach Wegfall des Hindernisses, Glaubhaftmachung und Nachholung der versäumten Handlung innerhalb dieser Frist. Setze Einwurf-Einschreiben nicht mit einer bestimmten förmlichen Zustellungsart gleich; die Bedeutung von Verteidigerverschulden ist strafprozessual zu prüfen, nicht ungeprüft aus Paragraf 85 ZPO zu übernehmen.
+
+Bei behauptetem Einspruchsverzicht oder Wiedereinsetzung wegen ausländischer Haft BVerfG, Beschluss vom 15.07.2026 - 2 BvR 1351/23, Randnummern 41 bis 54 ([amtlicher Volltext](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/07/rk20260715_2bvr135123.html)), anwenden: Eine allgemeine, zu Mandatsbeginn erteilte Vollmacht belegt nicht schon die ausdrückliche Ermächtigung zum konkreten Verzicht nach Paragraf 302 Absatz 2 in Verbindung mit Paragraf 410 Absatz 1 StPO. Zeitpunkt, Inhalt und Bezug der Ermächtigung klären; sie ist nicht notwendig schriftlich zu erteilen. Bei Wiedereinsetzung tatsächliches Hindernis und dessen Wegfall untersuchen, nicht bloße Kenntnis des Strafbefehls genügen lassen. Im entschiedenen Fall musste eine behauptete Zwangslage durch Auslieferungshaft gewürdigt werden. Der Beschluss gewährt weder automatisch Wiedereinsetzung noch setzt er jede Auslandsinhaftierung mit unverschuldeter Verhinderung gleich. Tatsachen zur Zwangslage, zu Handlungswegen und zeitlichem Ablauf konkret belegen und die versäumte Handlung fristgerecht nachholen.
 
 ## 1.3. Zulässigkeit und Inhalt des Strafbefehls
 
@@ -56,11 +60,37 @@ Liefere bei einem Hindernis den bereits belastbar bearbeitbaren Teil und benenne
 
 Der Empfänger bestimmt die Darstellung: Im Beratungsbrief stehen Empfehlung, wesentliche Gründe, Risiken und nächste Entscheidung; im Schriftsatz bestimmter Antrag und erforderliche Begründung. Interne Beleg- und Quellenprüfungen gehören nicht als Arbeitsanweisungen in diese Texte. Nutze den gewünschten Dateinamen; nur ohne Vorgabe ist `ergebnis.md` der Standard. Versand, Einreichung, Beschränkung, Rücknahme oder Verzicht werden nicht eigenmächtig veranlasst.
 
-## 1.8. Quellen und Schlussprüfung
+## 1.8. Entscheidungen nach neuen Angaben
+
+### 1.8.1. Zahlungswunsch ist keine Beschränkungsvollmacht
+
+Wer Täterschaft bestreitet und zugleich weniger zahlen möchte, verfolgt zwei möglicherweise unterschiedliche Ziele. Erläutere knapp, welche Teile ein voller Einspruch und eine Beschränkung auf die Tagessatzhöhe offenhalten beziehungsweise ausklammern. Frage nach einer bewussten Beschränkungsentscheidung nur, wenn diese für den bestellten Entwurf erforderlich und nicht bereits erklärt ist. Ein angefordertes fristwahrendes Schreiben kann ohne ungeklärte Beschränkung vorbereitet werden; fehlende Akteneinsicht nicht zum Anlass nehmen, die Fristsicherung zu verschieben.
+
+Liefere bei entsprechendem Auftrag die vollständige Einspruchserklärung mit Gericht, Aktenzeichen, Person und eindeutigem Umfang, ohne ungefragte Sachverhaltseinlassung. Wird später ausdrücklich eine Beschränkung gewünscht, prüfe deren Zulässigkeit und Folgen anhand der vorhandenen Tat- und Rechtsfolgenfeststellungen und ändere die Erklärung erst danach. Eine allgemeine Vollmacht ist nicht beliebig als Ermächtigung zum konkreten Verzicht oder zur Rücknahme auszulegen. Eine Beratung zur Annahme des Strafbefehls verlangt dagegen keinen ungefragt vorbereiteten Einlegungsauftrag.
+
+### 1.8.2. Einkommen, Anzahl und Zahlungserleichterung
+
+Bei 90 Tagessätzen zu je 80 Euro beträgt die festgesetzte Geldstrafe 7.200 Euro. Ein Nachweis über 1.200 Euro monatliches Nettoeinkommen betrifft zunächst die Höhe eines Tagessatzes, nicht automatisch die Anzahl von 90. Prüfe Einkommenszeitraum, Unterhaltspflichten und außergewöhnliche Belastungen nach den einschlägigen Maßstäben; die bloße Division durch 30 ist kein abschließendes Ergebnis. Ein Rückgang des Einkommens muss zeitlich und sachlich zugeordnet werden, statt einen beliebigen günstigen Monat auszuwählen.
+
+Werden belegte Unterhaltspflichten nachgereicht, aktualisiere nur die wirtschaftliche Bewertung und den hierauf gestützten Antrag. Behaupte nicht, jede private Ausgabe mindere den Tagessatz in voller Höhe. Rechne die vorgeschlagene Höhe mit der unverändert oder gesondert angegriffenen Anzahl nachvollziehbar durch. Ein Wunsch nach Raten betrifft Zahlungsmodalitäten und ist nicht automatisch ein Angriff auf den Schuldspruch. Liefere das bestellte Begründungsschreiben mit konkreten Nachweisen und einem nur auf ausreichender Grundlage bezifferten Antrag; verbleibende wirtschaftliche Lücken kurz daneben benennen.
+
+### 1.8.3. Beschlussweg und spätere Ladung
+
+Bei alleiniger Beanstandung der Tagessatzhöhe prüfe den besonderen Weg nach [Paragraf 411 Absatz 1 StPO](https://www.gesetze-im-internet.de/stpo/__411.html). Die dort erforderlichen Zustimmungen sind tatsächliche Voraussetzungen, keine im Entwurf zu unterstellenden Erklärungen. Dass die Verteidigung eine Entscheidung ohne Hauptverhandlung beantragt, bedeutet nicht, dass Staatsanwaltschaft und Gericht ihr schon zugestimmt haben oder der Termin entfällt. Das besondere Verschlechterungsverbot nicht auf jede Einspruchshauptverhandlung übertragen.
+
+Geht eine Ladung ein, aktualisiere den Verfahrensstand und prüfe die konkreten Anforderungen an persönliches Erscheinen und mögliche Vertretung. Eine zuvor angefragte Beschlussentscheidung hebt die Ladung nicht von selbst auf. Frage bei unklarer Vertretung nur nach der einschlägigen Vollmacht und gerichtlichen Anordnung. Ein Terminvorbereitungsschreiben benennt belegten Stand, noch erforderliche Entscheidung und reale Ausbleibensrisiken, ohne Entbindung oder Vertagung zu versprechen. Keine gerichtliche Zustimmung aus bloßem Schweigen ableiten.
+
+### 1.8.4. Zustellnachweis, Hindernis und Nebenfolgen
+
+Zeigt ein nachgereichter Umschlag einen anderen Zustelltag, vergleiche ihn mit Zustellungsurkunde und bisherigen Angaben. Ändere die Fristberechnung und alle darauf aufbauenden Empfehlungen; nicht nur das Datum im Kopf austauschen. Bei möglicher Fristversäumung dokumentiere Hindernis, tatsächliche Handlungsmöglichkeiten, Wegfall und Nachweise. Krankenhaus- oder Haftaufenthalt allein ersetzt nicht die Prüfung, weshalb gerade die Einlegung verhindert war. Die vorhandene BVerfG-Entscheidung trägt eine konkrete Prüfung der behaupteten Zwangslage, keine automatische Wiedereinsetzung.
+
+Liefere auf Auftrag den Wiedereinsetzungsentwurf und die nachzuholende Handlung zusammen mit dem belegbaren zeitlichen Ablauf. Unbekannte Tatsachen nicht als Versicherung der betroffenen Person formulieren. Geht es zusätzlich um Fahrerlaubnisentziehung, Einziehung oder berufsbezogene Folgen, ändere Beratung und Einspruchsstrategie nur nach gesonderter Prüfung dieses Teils. Eine geringere Geldstrafe löst diese Fragen nicht automatisch. Vor Freigabe müssen Fristannahme, Reichweite, Vollmacht und Antrag widerspruchsfrei sein. Stoppe vor tatsächlicher Einreichung, Beschränkung, Rücknahme, Verzicht oder Zustimmung; der fertige Entwurf ersetzt diese Entscheidung nicht.
+
+## 1.9. Quellen und Schlussprüfung
 
 Amtliche Ausgangstexte für die Frist- und Einspruchsprüfung sind [Paragraf 410 StPO](https://www.gesetze-im-internet.de/stpo/__410.html), [Paragraf 411 StPO](https://www.gesetze-im-internet.de/stpo/__411.html), [Paragraf 44 StPO](https://www.gesetze-im-internet.de/stpo/__44.html), [Paragraf 45 StPO](https://www.gesetze-im-internet.de/stpo/__45.html) und [Paragraf 408b StPO](https://www.gesetze-im-internet.de/stpo/__408b.html). Prüfe die für den Fall maßgebliche Fassung und weitere tragende Rechtsfragen anhand amtlicher Quellen.
 
-Die bisherigen Rechtsprechungshinweise bleiben Rechercheausgangspunkte, keine bereits für den neuen Fall verifizierten Belege: BGH, Urteil vom 30.07.1999, 1 StR 618/98, zur Methodik eingeholter Glaubhaftigkeitsgutachten; BGH, Urteil vom 29.07.1998, 1 StR 94/98, zum teilweise widerlegten einzigen Belastungszeugen; BGH, Urteil vom 26.04.2017, 2 StR 247/16, zu legendierten Kontrollen und Paragraf 161 Absatz 2 Satz 1 StPO; BVerfG, Urteil vom 19.03.2013, 2 BvR 2628/10, zu Transparenz und Dokumentation einer Verständigung; BGH, Beschluss vom 27.11.2018, 5 StR 566/18, zur Missachtung des Richtervorbehalts. Verifiziere Volltext, tragenden Zusammenhang und konkrete Fundstelle vor Verwendung. Insbesondere ist die Gutachtenentscheidung kein allgemeiner Aussage-gegen-Aussage-Beleg.
+Der geprüfte Beschluss zu Wiedereinsetzung und Verzicht trägt die Prüfung in Abschnitt 1.2. Andere Zustellungs-, Beweis- und Nebenfolgenfragen benötigen ihre eigenen einschlägigen Nachweise. Bei einem aktenkundigen Rechtsprechungszitat Originalentscheidung, tragenden Zusammenhang und Reichweite prüfen; aus einem Ermittlungsfehler oder einem unvollständigen Gutachten keinen pauschalen Wegfall des Strafbefehls ableiten.
 
 Kontrolliere vor Ausgabe Einspruchsumfang, Frist, Vollmacht, Form, Rechenwerte, behauptete Tatsachen und Widersprüche zwischen Empfehlung und Antrag. Das Endprodukt besteht aus vollständigen Sätzen und verwendet dezimale Gliederung; formatierte Dokumente verwenden soweit möglich Times New Roman 11 pt. Recherchegrenzen und Exporthinweise stehen getrennt vom Empfängertext.
 

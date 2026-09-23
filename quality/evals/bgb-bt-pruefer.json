@@ -1,21 +1,45 @@
 {
   "schema_version": 1,
   "plugin": "bgb-bt-pruefer",
-  "reviewed_on": "2026-09-17",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/bgb/__637.html",
       "checked_on": "2026-09-14",
       "supports": "Werkvertragliche Selbstvornahme nach Fristablauf, Ausnahmen und Vorschuss für erforderliche Aufwendungen."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2017/VII_ZR__46-17A.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 22.02.2018, VII ZR 46/17, Rn. 31–37 und 48–54: Bei behaltenem mangelhaftem Werk Beseitigungsabsicht feststellen: kein kleiner Schadensersatz nach fiktiven Beseitigungskosten, aber zweckgebundener abzurechnender Vorschuss bei geplanter Beseitigung grundsätzlich auch nach Schadensersatzwahl. Grenze: Werkvertragsrecht, keine allgemeine Übertragung auf Kauf oder Delikt; Anspruchsvoraussetzungen und tatsächliche Dispositionen bleiben gesondert zu prüfen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__634.html",
+      "checked_on": "2026-09-22",
+      "supports": "Werkmangelrechte und Voraussetzungen der jeweiligen Rechtsfolge."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__637.html",
+      "checked_on": "2026-09-22",
+      "supports": "Selbstvornahme, Fristausnahmen und Vorschuss ohne notwendige Vorfinanzierung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__637.html",
+      "checked_on": "2026-09-23",
+      "supports": "Selbstvornahme, erforderliche Aufwendungen und Vorschuss anhand Fristablauf beziehungsweise gesetzlichem Ausnahmefall; tatsächliche Reparatur verändert Anspruch und Abrechnung."
     }
   ],
   "mini_review": {
-    "verdict": "retained",
-    "reason": "Vollständig am 18. September gelesen: Vorschussangebot, Nacherfüllungsverlangen und Zugang werden gezielt nachgefordert und bis zum bestellten Schreiben verarbeitet.",
+    "verdict": "revised",
+    "reason": "Vollständig gelesen und den Werkvorschuss-Kernfall bis zur Beseitigungsabsicht und Abrechnungspflicht präzisiert. Der neue Einstieg fragt nach der konkret erlaubten Rechtsfolge statt nur nach dem gewünschten Produkt. Individuelle redaktionelle Prüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert.",
     "changes": [
-      "Keine weitere Änderung der Mini-Fassung."
+      "VII ZR 46/17 im Vorschussweg mit Disposition, Zweckbindung und Grenze zum Kaufrecht verankert.",
+      "Fehlanweisungen zur AGB- und Mängelprüfung durch richtige Voraussetzungen ersetzt.",
+      "Vertragsspezifische Rechtsfolgen und vollständige anwaltliche Antwort statt Rückfall-Checkliste verlangt.",
+      "Leer: Kaufmängel, Werkvorschuss oder Rückabwicklung. Dateien: still lesen und leistungsbezogene Dokumentwege anbieten. Klar: direkt bestellten Anspruchstext erstellen.",
+      "Ausgeführte Reparatur ändert Vorschussprüfung zu tatsächlichem Aufwand; aufgegebene Beseitigungsabsicht führt zur Wertfolgenprüfung."
     ],
-    "sha256": "53ff880fc241e7752ecd49eaf894bb2800a8a502a45eeeb6ef9fa16515db099f"
+    "sha256": "039d1c217764b443e863a197de4629e08b76395a6ed58da65e5ce4f68491741e"
   },
   "selection": {
     "positive": [
@@ -63,12 +87,58 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Textprüfung am 18. September: Pauschale Beweislasttabellen und doppelte Pflichtausgaben widersprachen der anspruchsbezogenen Bearbeitung. Der Altabschnitt zu Paragraf 831 BGB verwies sachfremd auf HGB Paragraf 377.",
+    "reason": "Alle zwölf Vertragsthemen und der alte Hauptteil vollständig gelesen. Affirmative Fehlanweisungen, generischer Normkatalog, reine Entwurfsbeschränkung und obligatorische Anschlussliste entfernt; Miet-, Dienst-, Darlehens-, Bürgschafts- und GoA-Fragen konkretisiert. Individuelle redaktionelle Prüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen.",
     "changes": [
-      "Doppelte Schablonenabschnitte entfernt; vorhandene Vertragsthemen als konkrete Prüfungen zusammengeführt.",
-      "Kaufmännische Rügeobliegenheit vom Deliktsanspruch getrennt; Beweislast nach Anspruch und Stadium prüfen.",
-      "Optionalität der lokalen Referenz klargestellt und Gliederung fortlaufend nummeriert."
+      "VII ZR 46/17 im Vorschussweg mit Disposition, Zweckbindung und Grenze zum Kaufrecht verankert.",
+      "Fehlanweisungen zur AGB- und Mängelprüfung durch richtige Voraussetzungen ersetzt.",
+      "Vertragsspezifische Rechtsfolgen und vollständige anwaltliche Antwort statt Rückfall-Checkliste verlangt.",
+      "Nacherfüllungsgelegenheit, Vorschussabrechnung, Teilzahlung, Vergleichsreichweite und Abgrenzung Miet- und Dienstleistung vertieft.",
+      "Ausgeführte Reparatur ändert Vorschussprüfung zu tatsächlichem Aufwand; aufgegebene Beseitigungsabsicht führt zur Wertfolgenprüfung."
     ],
-    "sha256": "48a4060198ff47345c5851a03045f7db7041ee102adbc6710ef5f3f748b4b169"
+    "sha256": "0a9a4a2a3be61355b91aab18f521b9d403f2089f71f9f48d6ba8be785045609a"
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Kaufmängel, Werkvorschuss oder Rückabwicklung.",
+      "Dateien: still lesen und leistungsbezogene Dokumentwege anbieten.",
+      "Klar: direkt bestellten Anspruchstext erstellen."
+    ],
+    "continuation": "Ausgeführte Reparatur ändert Vorschussprüfung zu tatsächlichem Aufwand; aufgegebene Beseitigungsabsicht führt zur Wertfolgenprüfung.",
+    "enrichment": "Nacherfüllungsgelegenheit, Vorschussabrechnung, Teilzahlung, Vergleichsreichweite und Abgrenzung Miet- und Dienstleistung vertieft.",
+    "limits": "desk review; no live client execution"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "bgb-bt-pruefer/bgb-bt-pruefer-schnellstart.md",
+      "bgb-bt-pruefer/bgb-bt-pruefer-werkstatt.md",
+      "bgb-bt-pruefer/README.md",
+      "quality/evals/bgb-bt-pruefer.json"
+    ],
+    "opening_change": "Nachbesserung, Rückzahlung oder Ersatz nach vereinbarter Leistung und eingetretener Störung bestimmen.",
+    "norms": [
+      "Paragrafen 280 und 281 BGB",
+      "Paragrafen 433, 434, 437 und 439 BGB",
+      "Paragrafen 474 bis 477 BGB",
+      "Paragrafen 535, 536 und 536a BGB",
+      "Paragrafen 631, 633 bis 638 BGB",
+      "Paragrafen 662, 670, 675, 677, 683 und 684 BGB",
+      "Paragrafen 766, 768 und 771 BGB"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 22.02.2018, VII ZR 46/17, Rn. 31–37 und 48–54",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2017/VII_ZR__46-17A.pdf?__blob=publicationFile&v=1",
+        "application": "Bei behaltenem mangelhaftem Werk Beseitigungsabsicht feststellen: kein kleiner Schadensersatz nach fiktiven Beseitigungskosten, aber zweckgebundener abzurechnender Vorschuss bei geplanter Beseitigung grundsätzlich auch nach Schadensersatzwahl.",
+        "limit": "Werkvertragsrecht, keine allgemeine Übertragung auf Kauf oder Delikt; Anspruchsvoraussetzungen und tatsächliche Dispositionen bleiben gesondert zu prüfen."
+      }
+    ],
+    "remaining_limits": [
+      "Desk- und Quellenreview, kein Live-Modelltest.",
+      "Werkvertragsentscheidung gezielt geprüft; nicht sämtliche Vertragstypen oder zukünftigen Reparaturrechtsänderungen vollständig neu verifiziert.",
+      "Workflow-Anschlussprüfung 23.09.2026: individuelle Text- und Quellenprüfung, keine Live-Client-Ausführung. Frühere Entscheidungsprüfungen und ihre Reichweitengrenzen bleiben unverändert; keine erneute vollständige Rechtsprechungsprüfung behauptet."
+    ]
   }
 }

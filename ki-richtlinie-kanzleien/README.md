@@ -37,7 +37,7 @@ Direktnavigation: [30-Sekunden-Start](#in-30-sekunden-starten) · [Startseite](.
 
 Startsatz für KI-Richtlinie für Kanzleien und Rechtsabteilungen:
 
-> Erfasse zuerst Dateinamen und Metadaten im ausgewählten Ordner. Lies zunächst die für den Auftrag tragenden Unterlagen; ergänze die Lektüre gezielt bei offenen Belegfragen. Beginne mit folgendem Arbeitsschritt: einen fachbezogenen Erststand mit Ergebnisrichtung, Kernbeleg und nächstem Dokument. Wenn bereits ein konkretes Dokument verlangt ist, beginne unmittelbar damit. Frage nur einmal gebündelt nach, falls der nächste fachliche Schritt sonst falsch wäre; arbeite im Übrigen mit sichtbar markierten Lücken weiter.
+> Sichte den ausgewählten Ordner intern, ohne seine Inhalte ungefragt aufzulisten. Lies die für den Auftrag tragenden Unterlagen; ergänze die Lektüre gezielt bei offenen Belegfragen. Beginne mit folgendem Arbeitsschritt: einen fachbezogenen Erststand mit Ergebnisrichtung, Kernbeleg und nächstem Dokument. Wenn bereits ein konkretes Dokument verlangt ist, beginne unmittelbar damit. Frage gezielt nach entscheidenden offenen Punkten und arbeite an den unabhängigen Teilen weiter. Verarbeite die Antwort im bestehenden Entwurf; weitere Rückfragen nur bei neuen entscheidenden Lücken.
 
 Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestellte Tatsachen, Berechnungen und Quellen nicht erneut abfragen oder ohne Anlass neu aufbauen.
 
@@ -94,7 +94,7 @@ Dieses Plugin erstellt und pflegt eine berufsrechtskonforme KI-Nutzungsrichtlini
 | `urheberrecht-bausteine` | § 2 Abs. 2 UrhG, § 5 UrhG amtliche Werke, Upload-Regeln, Lizenzbedingungen juristischer Datenbanken |
 | `geschgehg-bausteine` | Geschäftsgeheimnisschutz beim KI-Einsatz, § 1 Abs. 3 Nr. 1 GeschGehG, Verhältnis zu § 203 StGB |
 | `ki-vo-betreiber-pflichten` | Art. 3 Nr. 4 Betreiber, Art. 4 KI-Kompetenz, Hochrisiko-Abgrenzung Anhang III Nr. 8.a, Art. 50 Abs. 4 Kennzeichnung |
-| `ki-vo-hochrisiko-personalwesen` | Hochrisiko-KI im Personalwesen ab 2. August 2026: Anhang III Nr. 4, Pflichten und Betriebsratsrechte |
+| `ki-vo-hochrisiko-personalwesen` | Hochrisiko-KI im Personalwesen nach Artikel 6 Absatz 2 und Anhang III Nummer 4: Kapitel III Abschnitte 1 bis 3, außer Artikel 6 Absatz 5, ab 2. Dezember 2027 nach Artikel 113 Absatz 3 Buchstabe c Ziffer i; Betriebsratsrechte gesondert prüfen |
 | Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | `schatten-ki-aufdeckung` | Methoden zur Erkennung verdeckter KI-Nutzung und konstruktiver Umgang: Stilanalyse, Anlaufstelle, Amnestie |
 | `compliance-regelsatz-erstellen` | Standardisierter Zehn-Gebote-Regelsatz für den KI-Einsatz in der Kanzlei |
@@ -105,13 +105,15 @@ Dieses Plugin erstellt und pflegt eine berufsrechtskonforme KI-Nutzungsrichtlini
 | `halluzinations-handhabung` | Quellenprüfungspflicht, OLG Koblenz, AG Köln 02.07.2025, Vier-Augen-Prinzip, Prüfprotokoll |
 | `automatisierte-entscheidungen-art-22-dsgvo` | Verbot ausschließlich automatisierter Entscheidungen, Ausnahmen, Anwendung auf Kanzleiprozesse |
 | `bias-und-diskriminierung-pruefung` | Bias-Quellen in KI-Systemen, AGG-Relevanz bei Bewerberauswahl, Prüfverfahren |
-| `ki-kompetenz-erwerb-plan` | Schulungsplan nach Art. 4 KI-VO: drei Module, Sandbox, Dokumentation, jährliche Aktualisierung |
+| `ki-kompetenz-erwerb-plan` | Maßnahmen zur Kompetenzförderung nach Artikel 4 KI-VO; Modulzahl, Sandbox und jährliche Wiederholung nur als bedarfsgerechter interner Standard, nicht als gesetzlich festgelegtes Programm |
 | `dokumentationspflichten-protokoll` | Beweissichere Protokollierung von KI-Inputs und -Outputs; Prüfprotokoll, Handakten-Dokumentation |
 | `kennzeichnungspflichten-veroeffentlichungen` | Art. 50 Abs. 4 KI-VO: Kanzlei-Blogs, Pressemitteilungen, Schriftsätze; redaktionelle Verantwortung als Ausnahme |
 | `prompting-leitfaden` | Vier-Elemente-Methode für juristische Prompts: Ziel, Format, Kontext, Beispiel; Tipps und Tricks |
 | `richtlinien-update-zyklus` | Halbjährliches Review plus Trigger-Liste für sofortige Updates bei neuer Rechtslage |
 | `musterklauseln-it-vertrag` | § 43e-BRAO-Vereinbarung, Training-Opt-out, Löschpflichten, Auditrechte, Haftungsregelung |
 | `literatur-und-quellen` | Pflicht-Literatur und offene Aktualisierungsliste: BRAK, DAV, EU-FAQ, BNetzA |
+
+Artikel 4 und Artikel 113 sind in der Fassung von Artikel 1 Nummern 5 und 40 der [Verordnung (EU) 2026/1744](https://eur-lex.europa.eu/eli/reg/2026/1744/oj?locale=de) zugrunde zu legen. Der spätere Anwendungsbeginn der genannten Hochrisiko-Regeln verschiebt nicht sämtliche KI-Pflichten oder bestehende arbeitsrechtliche Anforderungen.
 
 ---
 

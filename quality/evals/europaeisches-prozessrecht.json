@@ -1,29 +1,38 @@
 {
   "schema_version": 1,
   "plugin": "europaeisches-prozessrecht",
-  "reviewed_on": "2026-09-17",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://eur-lex.europa.eu/eli/reg/2024/2019/oj/deu",
       "checked_on": "2026-09-14",
       "supports": "Artikel 50b der Satzung: begrenzte Zuständigkeit des Gerichts für Vorabentscheidungen, Eingang beim Gerichtshof und Vorbehalt eigenständiger Primärrechtsfragen."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62019CJ0561",
+      "checked_on": "2026-09-22",
+      "supports": "EuGH, Urteil vom 6. Oktober 2021, C-561/19, Consorzio Italian Management, Randnummern 48 bis 66. Anwendung: Letztinstanzliche Vorlagepflicht auch bei später aufgeworfenen Fragen prüfen; Ausnahme konkret begründen. Grenze: Parteiantrag erzwingt keine Vorlage; nationale Präklusion nur im Rahmen von Äquivalenz und Effektivität."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Ganztextreview: Der Mini enthielt mehrfach eine pauschale Organbeweislast, obwohl die Schlussregel ihr widersprach, sowie redundante Pflichtausgaben. Parteianregung und gerichtliches Ersuchen blieben getrennt; keine erneute Quellenverifikation oder Live-Modellprüfung.",
+    "reason": "Der Mini verbindet Artikel 267 Absatz 3 AEUV mit der Begründung einer Vorlage oder ihres Unterbleibens trotz bereits erfolgter Vorlage. Individueller Text- und Quellenreview, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Unabhängiger nationaler Abweisungsgrund wird bekannt -> Entscheidungserheblichkeit der Vorlagefrage und Vorlageanregung ändern; neuer Zustellbeleg -> Friststand korrigieren.",
     "changes": [
-      "Direktklage, Rechtsmittel und Vorlage mit eigenen Folgefragen und passenden Dokumenten gegliedert.",
-      "Widersprüchliche pauschale Beweislastsätze entfernt; Frist- und Betroffenheitsbelege werden nach Eingang eingearbeitet.",
-      "Anlagen- und Quellenkontrolle von Empfängertext getrennt; Dateiname bleibt Nutzerentscheidung."
+      "C-561/19 mit Ausnahmegründen und Begründungspflicht eingefügt.",
+      "Ungeprüfte dekorative Entscheidungslisten durch gezielte Rechercheaufträge ersetzt.",
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
     ],
-    "sha256": "f33d4ff23eebd8790eb6ded178493157792d29ebd26f4170639a8312fdbda5ac"
+    "sha256": "f36dd01fa6ca8bda00f40bb738b9d2b017637be0f047bc710831babb9176a138"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die vollständig gelesene Werkstatt setzte Parteiaufträge mehrfach mit richterlichen Verfügungen gleich und duplizierte zwölf Routen. Die Neugliederung folgt dem tatsächlichen Verfahren; keine neue Quellenverifikation und kein Live-Modelltest.",
-    "changes": ["Direkte Klagen, Vorlage, Eilrechtsschutz, Intervention und Rechtsmittel fachlich getrennt und mit konkreter Fortsetzung verbunden.","Vertraulichkeit gegenüber verschiedenen Beteiligten und e-Curia-Einreichungsfassung eigenständig behandelt.","Mündliches Plädoyer nicht mehr als automatischen Vergleichsauftrag beschrieben; pauschale Urteilsmuster und Pflichtfristentabellen entfernt."],
-    "sha256": "10ee330598156fe40c9da907145213122036acbda6ef1c9da550cce9e30ce3a5"
+    "reason": "Die Werkstatt behandelt letztinstanzliche Zweifel, späteren Parteivortrag und nationale Präklusion anhand Consorzio statt einer Liste klassischer Fallnamen. Die bezeichneten Anker wurden am amtlichen Entscheidungstext geprüft; keine pauschale Vollverifikation aller Nebenmaterien. Workflow-Ergänzung einzeln geprüft: Zwei mögliche nationale Ergebnisse als Relevanzprobe, Partei gegenüber vorlegendem Gericht, bindender Unionsakt gegenüber Durchführung, Rechtsfehler gegenüber Tatsachenrüge und konkret drohender Eilschaden.",
+    "changes": [
+      "C-561/19 mit Ausnahmegründen und Begründungspflicht eingefügt.",
+      "Ungeprüfte dekorative Entscheidungslisten durch gezielte Rechercheaufträge ersetzt.",
+      "Zwei mögliche nationale Ergebnisse als Relevanzprobe, Partei gegenüber vorlegendem Gericht, bindender Unionsakt gegenüber Durchführung, Rechtsfehler gegenüber Tatsachenrüge und konkret drohender Eilschaden."
+    ],
+    "sha256": "ddabb9ece04a1df9bcb8cd85d7ef98bd15683fb0c61b7060ef81e175d8cce95e"
   },
   "selection": {
     "positive": [
@@ -68,5 +77,44 @@
       ],
       "target_skill": "eugh-vorabentscheidung-art-267"
     }
-  ]
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "files": [
+      "europaeisches-prozessrecht/README.md",
+      "europaeisches-prozessrecht/europaeisches-prozessrecht-werkstatt.md",
+      "europaeisches-prozessrecht/europaeisches-prozessrecht-schnellstart.md",
+      "quality/evals/europaeisches-prozessrecht.json"
+    ],
+    "opening_change": "Unionsakt, nationalen Streit und konkrete Vorlagefrage dem richtigen Verfahren zuordnen. Workflow-Ergänzung: Leer: Vorlageanregung, Direktklage oder unionsgerichtliches Rechtsmittel anbieten. Dateien ohne Aufgabe: Entscheidung und Verfahrensunterlagen still lesen; Rechtsfrage, Klage- oder Rechtsmittelziel klären. Klarer Auftrag: bestellte gerichtliche Eingabe unmittelbar entwerfen; nur entscheidende Angaben zu Akt, Zustellung und Verfahrenslage erfragen.",
+    "norms": [
+      "Artikel 263, 267, 278 und 279 AEUV"
+    ],
+    "decisions": [
+      {
+        "citation": "EuGH, Urteil vom 6. Oktober 2021, C-561/19, Consorzio Italian Management, Randnummern 48 bis 66",
+        "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62019CJ0561",
+        "application": "Letztinstanzliche Vorlagepflicht auch bei später aufgeworfenen Fragen prüfen; Ausnahme konkret begründen.",
+        "limit": "Parteiantrag erzwingt keine Vorlage; nationale Präklusion nur im Rahmen von Äquivalenz und Effektivität."
+      }
+    ],
+    "remaining_limits": [
+      "Keine umfassende Neuverifikation der Verfahrensordnungen, e-Curia-Bedingungen und individuellen Klagefristen.",
+      "Desk-/Quellenreview, kein Live-Client- oder Modelltest. Bestehende Auswahl- und Ergebnisfälle unverändert erhalten.",
+      "Workflow-Review 23.09.2026: AEUV-267-Abruf nur begrenzt auswertbar; keine neuen Fristrettungsregeln oder Entscheidungen eingeführt. Vorhandene Quellen- und Verfahrensgrenzen beibehalten."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Vorlageanregung, Direktklage oder unionsgerichtliches Rechtsmittel anbieten.",
+      "Dateien ohne Aufgabe: Entscheidung und Verfahrensunterlagen still lesen; Rechtsfrage, Klage- oder Rechtsmittelziel klären.",
+      "Klarer Auftrag: bestellte gerichtliche Eingabe unmittelbar entwerfen; nur entscheidende Angaben zu Akt, Zustellung und Verfahrenslage erfragen."
+    ],
+    "continuation": "Unabhängiger nationaler Abweisungsgrund wird bekannt -> Entscheidungserheblichkeit der Vorlagefrage und Vorlageanregung ändern; neuer Zustellbeleg -> Friststand korrigieren.",
+    "enrichment": "Zwei mögliche nationale Ergebnisse als Relevanzprobe, Partei gegenüber vorlegendem Gericht, bindender Unionsakt gegenüber Durchführung, Rechtsfehler gegenüber Tatsachenrüge und konkret drohender Eilschaden.",
+    "limits": "desk review; no live client execution"
+  }
 }

@@ -1,6 +1,8 @@
 # 1. Form und Zugang einer Erklärung prüfen
 
-Prüfe die konkrete Erklärung oder Vereinbarung anhand ihrer vollständigen Fassung und erstelle den bestellten Formvermerk oder korrigierten Entwurf. Beurteile Form, Zugang und Nachweis getrennt; eine sichtbare Unterschrift beantwortet nicht alle drei Fragen.
+Ohne Eingabe biete „Form und Zugang einer Erklärung“, „Korrektur eines Nachtrags“ oder „Signatur- und Fassungsabgleich“ an. Dateien ohne Aufgabe still lesen und nur Arbeitsziel klären; keine ungefragte Inventarliste. Einen klaren Auftrag unmittelbar ausführen, fehlende entscheidende Nachweise gezielt erfragen. Folgeantworten ändern die konkrete Fassung, Zugangsberechnung oder Korrekturpassage. Dieser Text benötigt keine Plugin-Dateien.
+
+Prüfe die Formwirksamkeit und den rechtzeitigen Zugang der konkreten Erklärung: Kündigung, Befristung, Nachtrag, Bürgschaft oder beurkundungsbedürftiger Vertrag. Ordne jeder Fassung Formgrundlage, Unterzeichner, Übermittlungsweg und Zugangsbeleg zu und erstelle den bestellten Vermerk oder Korrekturtext. Eine sichtbare Unterschrift beweist weder die erforderliche Form noch den Zugang.
 
 ## 1.1. Vertrag und Fassungen lesen
 
@@ -41,6 +43,8 @@ Bei einem Formangriff prüfe tatsächliche Einhaltung, Umfang des Formgebots, ei
 
 Rekonstruiere, welche Fassung wann auf welchem Weg den richtigen Empfänger erreicht haben soll. Prüfe BGB Paragraf 130 oder das einschlägige Zustellungsregime. Versanddatum, behaupteter Empfang und nachgewiesener Zugang bleiben unterscheidbar; ein Einlieferungsbeleg beweist nicht ohne Weiteres Inhalt und Zugang.
 
+[BGH, Urteil vom 6. Oktober 2022, VII ZR 895/21](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=Aktuell&Gericht=bgh&Sort=12288&anz=750&nr=131581&pos=11), amtlicher Leitsatz: Eine während üblicher Geschäftszeiten auf dem Empfängerserver abrufbare E-Mail geht im unternehmerischen Geschäftsverkehr grundsätzlich bereits dann zu; tatsächliches Lesen ist nicht nötig. Prüfe deshalb Serverbereitstellung, Empfängeradresse und Geschäftszeiten. Der Gesendet-Ordner beweist diese Umstände nicht. Private Empfänger und Nachrichten außerhalb der Geschäftszeiten gesondert beurteilen.
+
 Ordne Originalbrief, Scan, E-Mail-Anhang, Messenger-Nachricht und Portalübermittlung konkret zu. Bei einer elektronisch signierten Erklärung prüfe auch die tatsächlich beim Empfänger verfügbare Fassung und ihre Prüfbarkeit. Nachgereichte Empfangsdaten müssen die Fristbewertung und den noch möglichen Korrekturweg aktualisieren.
 
 Bei offener Frist bereite eine nach Form und Zugang geeignete Alternative vor, etwa eine belegbare erneute Übermittlung der richtigen Fassung. Verspreche keine Rückdatierung oder automatische Heilung durch bloßen Empfang. Ein Bote, Einschreiben oder elektronischer Prüfbericht ist anhand seiner jeweiligen Beweisreichweite zu beurteilen, nicht pauschal als sicherster Weg.
@@ -53,11 +57,13 @@ Bei Befristung prüfe TzBfG Paragraf 14 Absatz 4, Zeitpunkt der Vereinbarung, Ar
 
 Bei Kündigung und Auflösungsvertrag gilt die eigenständige Prüfung von BGB Paragraf 623 einschließlich des Ausschlusses elektronischer Form. Eine valide qualifizierte Signatur allein trägt deshalb keine Freigabe. Vorhandene Primärquelle: https://www.gesetze-im-internet.de/bgb/__623.html
 
-Die im Fachmaterial genannte „ArbG-Gera-Linie“ ist ohne verifizierte Entscheidung keine zitierfähige Fundstelle. Prüfe aktuelle Rechtsprechung fallbezogen und trenne einen besonderen prozessualen Weg nach ArbGG Paragraf 46h von der unmittelbar abgegebenen Erklärung. Fristen zur Erklärung und zum gerichtlichen Rechtsschutz eigenständig berechnen.
+Eine bloß nach Gerichtsort benannte Entscheidung ist ohne überprüfbare Fundstelle nicht zitierfähig. Den besonderen prozessualen Weg nach [Paragraf 46h ArbGG](https://www.gesetze-im-internet.de/arbgg/__46h.html) von der direkt übermittelten Kündigung unterscheiden: Die klar erkennbare Erklärung in einem nach Paragraf 46c elektronisch eingereichten vorbereitenden Schriftsatz gilt nach gerichtlicher Zustellung oder Mitteilung als formgerecht zugegangen, auch bei ausgeschlossenem elektronischem Ersatz. Einreichung allein genügt nicht. Materielle Vertretung und Fristen bleiben eigenständig zu prüfen.
 
 ### 4.2. Miete
 
-Prüfe bei Wohnraummietkündigungen BGB Paragraf 568 Absatz 1 mit konkreter Erklärung, Signatur und Zugang. Eine technisch mögliche Signatur beantwortet weder Empfänger- noch Vollmachtsfragen. Bei langfristiger Gewerberaum- oder Grundstücksmiete BGB Paragraf 578 in Verbindung mit Paragraf 550, Vertragskette, Nachträge, Laufzeit und maßgebliches Übergangsrecht prüfen.
+Prüfe bei Wohnraummietkündigungen BGB Paragraf 568 Absatz 1 mit konkreter Erklärung, Signatur und Zugang. Eine technisch mögliche Signatur beantwortet weder Empfänger- noch Vollmachtsfragen. Langfristige Gewerberaum- und Grundstücksmietverträge unterliegen dagegen nach [Paragraf 578 Absätze 1 und 2 BGB](https://www.gesetze-im-internet.de/bgb/__578.html) in Verbindung mit Paragraf 550 der Textform. Ihr Fehlen führt nicht pauschal zur Nichtigkeit, sondern zur gesetzlichen Laufzeitfolge. Wohnraumrecht nicht auf diese Verträge übertragen.
+
+Artikel 229 Paragraf 70 Absatz 1 EGBGB ordnet für vor dem 1. Januar 2025 entstandene Mietverhältnisse die Weitergeltung alten Rechts bis einschließlich 1. Januar 2026 an; eine ab 1. Januar 2025 vereinbarte Änderung führt bereits ab dieser Vereinbarung zum neuen Recht. Für den heutigen Vertragsstand ist die Übergangsfrist abgelaufen. Frühere Kündigungen und Nachträge dennoch nach ihrem maßgeblichen Zeitpunkt beurteilen; Rechtsprechung zur alten Schriftform nicht ungeprüft als Aussage zum neuen Textformerfordernis behandeln.
 
 Lies Anlagen und E-Mail-Abreden vollständig, soweit sie den formbedürftigen Inhalt betreffen. Eine nicht vorgelegte Anlage beweist keinen Vertragsmangel. Nach ihrer Bereitstellung Formstatus und Kündigungsrisiko aktualisieren und die verlangte Beratung oder Ergänzungsvereinbarung ausformulieren.
 
@@ -65,7 +71,7 @@ Lies Anlagen und E-Mail-Abreden vollständig, soweit sie den formbedürftigen In
 
 Bei einem über E-Mail, Messenger, Plattform oder PDF angebahnten Immobilienmaklervertrag prüfe BGB Paragraf 656a, tatsächlichen Vertragsschluss und erkennbaren Provisionshinweis. Textform, Provisionsverteilung nach Paragraf 656c oder Paragraf 656d und Rückforderung gezahlter Kosten sind getrennte Fragen.
 
-Das vorhandene Aktenzeichen I ZR 32/24 ist ein Rechercheeinstieg zum Einfamilienhausbegriff und möglichen Drittbeteiligten. Prüfe Originalentscheidung, Datum und konkrete Tragweite, bevor Aussagen zu untergeordneter Einliegerwohnung, gewerblicher Nutzung oder entsprechender Anwendung des Paragrafen 656c übernommen werden. Ein Textformbefund allein entscheidet diese Fragen nicht.
+[BGH, Urteil vom 6. März 2025, I ZR 32/24](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=pm&Blank=1&Datum=2025&Gericht=bgh&file=dokument.pdf&linked=urt&nr=140942), amtliche Leitsätze: Maßgeblich für das Einfamilienhaus ist der bei Maklervertragsschluss erkennbare Wohnzweck eines einzelnen Haushalts; eine untergeordnete Einliegerwohnung oder gewerbliche Nutzungsmöglichkeit steht dem nicht entgegen. Paragraf 656c kann auch bei Vertragsschluss durch einen Dritten anstelle einer Kaufvertragspartei entsprechend gelten. Nutze den Anker zur Bestimmung des Anwendungsbereichs, nicht als Nachweis, dass eine konkrete E-Mail bereits Textform oder Vertragsschluss belegt.
 
 ### 4.4. Anspruchs- und Vertragskontext
 
@@ -79,7 +85,7 @@ Diese Schnittstellen sind kein Pflichtprogramm jeder Unterschriftsprüfung. Nur 
 
 Prüfe gerichtliche Einreichung gesondert nach ZPO Paragraf 130a oder der einschlägigen Prozessordnung. Zivilrechtliche Textform erlaubt nicht allgemein eine einfache E-Mail an das Gericht. Bei einer Kündigung im Schriftsatz trenne Einreichung, Zustellung, materiell-rechtliche Formwirkung und Vertretung.
 
-Vorhandene Anker sind ZPO Paragraf 130e, Paragraf 173, Paragraf 186 und Paragraf 298 Absatz 3, ArbGG Paragraf 46c, Paragraf 46g und Paragraf 46h sowie BGB Paragraf 174. Prüfe jeweils aktuelle Fassung, Voraussetzungen und tatsächlichen Übermittlungsweg. Ein beA-Versand oder eine qualifizierte Signatur begründet nicht ohne Weiteres sämtliche materiell-rechtlichen Wirkungen.
+Nach [Paragraf 130e ZPO](https://www.gesetze-im-internet.de/zpo/__130e.html) muss die empfangsbedürftige Erklärung klar erkennbar im vorbereitenden Schriftsatz enthalten sein; das Dokument muss nach Paragraf 130a eingereicht und dem Empfänger zugestellt oder mitgeteilt worden sein. Die Formfiktion greift auch bei gesetzlichem Ausschluss elektronischer Ersetzung. Belege Einreichungsfassung und gerichtliche Übermittlung getrennt. Bei Vertretererklärungen etwa Paragraf 174 BGB zusätzlich prüfen; die Formfiktion schafft keine Vollmacht.
 
 Fordere bei entscheidender Unklarheit die versandte Datei, das Prüfprotokoll oder die gerichtliche Zustellungsunterlage an. Überarbeite nach Eingang Zugang und Wirksamkeitsbewertung und liefere den bestellten Vermerk. Eine geplante Einreichung oder Zustellung wird nicht als vollzogen dargestellt.
 
@@ -90,6 +96,30 @@ Ordne Erklärungsfassung, Unterschrift oder Signatur, Übermittlung und Empfang 
 Erstelle den beauftragten vollständigen Erklärungstext oder die passende Vertragsänderung. Noch fehlende Namen, Daten oder Beträge klar markieren, ohne den umgebenden Inhalt durch Stichworte zu ersetzen. Berücksichtige Gegenargumente zu Fassung, Zugang, Vertretung und Reichweite der Formklausel. Ein Mandantenbrief erläutert Ergebnis und möglichen nächsten Schritt, nicht sämtliche internen Prüffelder.
 
 ## 7. Endkontrolle und Quellen
+
+### 7.1. Zwei Unterschriften sind noch kein gemeinsamer Vertragsinhalt
+
+Bei elektronisch geschlossenen Verträgen ordne jedem Unterzeichner die vollständige tatsächlich signierte Datei zu. [Paragraf 126a Absatz 2 BGB](https://www.gesetze-im-internet.de/bgb/__126a.html) verlangt gleichlautende Dokumente. Ein gleicher Dateiname oder dieselbe Seitenzahl belegt diese Übereinstimmung nicht. Vergleiche insbesondere Laufzeit, Vergütung, Anlagenbezug und letzte Änderungen. Unterschiede im technischen Dateiaufbau und Unterschiede im Erklärungsinhalt auseinanderhalten; ungleiche Hashes allein belegen keinen inhaltlich abweichenden Vertrag.
+
+Antwortet der Nutzer, die zweite Partei habe erst nach einer Preisänderung signiert, prüfe Annahmeinhalt und Form für diese Fassung neu. Verfasse gegebenenfalls einen vollständigen konsistenten Neu- oder Ergänzungstext zur erneuten Unterzeichnung, nicht nur die geänderte Seite. Behaupte keine rückwirkende Einigung. Wurde nur ein Prüfbericht verwechselt, aktualisiere hingegen zunächst den technischen Nachweisstatus, ohne einen materiellen Formfehler zu erfinden. Der Endvermerk trennt Inhaltseinigung, Form und Zugang.
+
+### 7.2. Fehlenden Zugangsbeweis in eine geeignete Belegfrage übersetzen
+
+Bei einem Papierbrief kläre, ob der angebotene Zeuge Inhalt, Einwurf und Zeitpunkt aus eigener Wahrnehmung bestätigen kann. Wer nur einen verschlossenen Umschlag übergeben bekam, kennt nicht automatisch den Erklärungstext. Bei einer E-Mail ordne Versandprotokoll, Serverbereitstellung, vollständigen Anhang und Empfängerumfeld getrennt. Die vorhandene BGH-Aussage zum Unternehmerverkehr ersetzt diese Tatsachenfeststellung nicht.
+
+Kommt „Die E-Mail war im Spamordner“, prüfe anhand des konkreten Empfangssystems und der belegten Bereitstellung weiter, statt allein aus dem Ordnernamen rechtzeitigen Zugang sicher zu bejahen oder zu verneinen. Bei „Der Originalbrief wurde erst später übergeben“ erhält die spätere Übergabe ein eigenes Datum; der frühere Scan wird nicht nachträglich zum Papieroriginal. Korrekturentwurf und Fristempfehlung müssen vom tatsächlich noch möglichen Zugang ausgehen. Rückdatierung ist keine Alternative.
+
+### 7.3. Prozessuale Formfiktion an die richtige Fassung binden
+
+Für [Paragraf 130e ZPO](https://www.gesetze-im-internet.de/zpo/__130e.html) ermittle, welche erkennbare Willenserklärung im formgerecht elektronisch eingereichten vorbereitenden Schriftsatz enthalten war und welche Fassung zugestellt oder mitgeteilt wurde. Ein Entwurf in der Kanzlei, ein Eingang beim Gericht und die Übermittlung an den Erklärungsempfänger sind verschiedene Ereignisse. Erfasst ein Zustellungsnachweis nur einen anderen Schriftsatz, bleibt der Zugang der fraglichen Erklärung offen.
+
+Nach Vorlage der gerichtlichen Übermittlung aktualisiere den Zugangstag und die Formbegründung. Vertretungsmacht und materielle Wirksamkeit bleiben gesonderte Fragen; die Fiktion ersetzt keine fehlende Vollmacht. Bei einem ausschließlich auf Form und Zugang beschränkten Auftrag keine ungefragte volle Kündigungs- oder Anspruchsprüfung anschließen. Das Ergebnis lautet nur in dem Umfang endgültig, den Erklärung, Übermittlungsnachweis und Rechtsgrundlage tragen.
+
+### 7.4. Formklausel und praktische Korrektur deckungsgleich machen
+
+Bei einem Vertragsnachtrag lies die bisherige Formklausel zusammen mit der neuen Regelung und dem konkret betroffenen Geschäft. Eine interne Vorgabe „nur unterschriebene Verträge ablegen“ ist nicht automatisch eine gesetzliche Wirksamkeitsvoraussetzung. Eine Textformklausel lässt sich nicht durch bloße Umbenennung eines Scans zur Schriftformklausel machen. Bei Gewerbemiete Ereignisfassung und Übergangsrecht bewahren; nicht jedes Problem mit einem alten Schriftformheilungsmuster beantworten.
+
+Verlangt der Nutzer eine Ersatzklausel, liefere deren vollständigen Wortlaut einschließlich erfasster Erklärungen und zulässigem Übermittlungsweg. Kennzeichne eine gesetzlich zwingende Form, die davon unberührt bleibt. Vor Freigabe des Gesamtentwurfs prüfe, ob Anlagenbezug, vertretende Person und gewählter Weg zusammenpassen. Eine fehlende Zertifikatsprüfung sperrt eine vorbehaltlose technische Bestätigung, nicht den fertig ausgearbeiteten Erklärungstext mit klar bezeichnetem noch nötigem Nachweis.
 
 Prüfe vor Abschluss, ob Formgrund, vollständiger Inhalt, verwendetes Medium, Signaturperson, Empfänger und Zugang zusammenpassen. Rechtsfolge und Korrekturweg müssen aus der konkret geprüften Regel folgen. Eine noch nicht geprüfte technische Voraussetzung oder offene Frist bleibt erkennbar; nichts selbst unterschreiben oder absenden.
 

@@ -1,15 +1,23 @@
 {
   "schema_version": 1,
   "plugin": "mandantenanfragen-assistent",
-  "reviewed_on": "2026-09-18",
-  "sources": [],
+  "reviewed_on": "2026-09-23",
+  "sources": [
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2011-11-3&Gericht=bgh&anz=22&nr=58234&pos=16",
+      "checked_on": "2026-09-22",
+      "supports": "Erkannter Wunsch nach Honorarauskunft vor Mandatsübernahme muss vor Vertragsschluss beantwortet werden. Grenze: Keine allgemeine Unwirksamkeit eines Mandats ohne Honorarvereinbarung; kein pauschaler Preis. Identität und entscheidende Passage im amtlichen Suchindex geprüft; direkter PDF-Abruf nicht auswertbar, keine vollständige Neuprüfung aller übrigen Normen behauptet."
+    }
+  ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der vollständige Mini wurde auf organisatorische Erstantwort statt ungefragter Rechtsberatung geprüft.",
+    "reason": "Mini individuell um drei Einstiegsmodi, berichtete Dringlichkeit, klare Nichtannahme und konkrete Fortsetzung der Antwortdatei ergänzt. Organisatorischer Empfängertext bleibt knapp; kein Live-Client-Test.",
     "changes": [
-      "Nur fehlende Termin- oder Unterlagenangaben klären und anschließend die bestellte E-Mail fertigschreiben."
+      "Den bereits konkreten E-Mail-Einstieg erhalten; Verzögerung der Absage und offene Honoraranfrage als sachliche Verzweigungen ergänzt, ohne Rechtsgutachten in die Antwort zu zwingen.",
+      "Erkannter Wunsch nach Honorarauskunft vor Mandatsübernahme muss vor Vertragsschluss beantwortet werden. Grenze: Keine allgemeine Unwirksamkeit eines Mandats ohne Honorarvereinbarung; kein pauschaler Preis.",
+      "Leere Eingabe, bloße Korrespondenz und klaren Antwortauftrag trennen; eine Kanzleiabsage ersetzt den vorläufigen Terminabsatz und unnötige Nachforderungen."
     ],
-    "sha256": "1ce5d1231459edae939649e71e92a4e99f00d163c957d15caa300ec3f3551128"
+    "sha256": "f386f9a7458914e3233efac815e3f276d9e29712f319ddf1139a7663ee0ffeb9"
   },
   "selection": {
     "positive": [
@@ -57,10 +65,51 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die ganze Werkstatt wurde einschließlich Vertraulichkeit, Mandatsstatus, Sprache und Kontaktorganisation gelesen.",
+    "reason": "Werkstatt vollständig gelesen und um Anhangstatus, weitergeleitete Korrespondenz, Auskunft an Angehörige, dringliche Absage, Kontaktwegkonflikt und ausdrückliche Preisgrenze vertieft. Keine materielle Rechtsprechung ohne Bezug zum Antwortauftrag ergänzt; kein Live-Client-Test.",
     "changes": [
-      "Keine erfundene Termin-, Kosten- oder Mandatszusage; rechtliche Vertiefung nur bei passendem Auftrag."
+      "Den bereits konkreten E-Mail-Einstieg erhalten; Verzögerung der Absage und offene Honoraranfrage als sachliche Verzweigungen ergänzt, ohne Rechtsgutachten in die Antwort zu zwingen.",
+      "Erkannter Wunsch nach Honorarauskunft vor Mandatsübernahme muss vor Vertragsschluss beantwortet werden. Grenze: Keine allgemeine Unwirksamkeit eines Mandats ohne Honorarvereinbarung; kein pauschaler Preis.",
+      "Tatsächlichen Eingang und rechtliche Anlagenprüfung trennen; zitierte ältere Zusagen ihrem Absender und Datum zuordnen.",
+      "Angehörigenanfrage ohne belegte Befugnis neutral beantworten; gemeinsame Anfrage nicht als abgeschlossene Konfliktprüfung behandeln.",
+      "Frist morgen bleibt berichtete Dringlichkeit; entschiedene Nichtannahme klar ausformulieren und interne Weiterleitung nicht vortäuschen.",
+      "Unbrauchbaren Kontaktweg und ausdrückliche Preisgrenze gezielt intern klären; neue Kanzleientscheidung bis zur vollständigen Antwortdatei umsetzen."
     ],
-    "sha256": "5455dfc6490de15e08d69307c96ddd9babd58794479751a61adae1512766936d"
+    "sha256": "5817906168acaa5f9b61784e510074ac4441e5e710129ba53564a7273f038702"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "mandantenanfragen-assistent/mandantenanfragen-assistent-werkstatt.md",
+      "mandantenanfragen-assistent/mandantenanfragen-assistent-schnellstart.md"
+    ],
+    "opening_change": "Den bereits konkreten E-Mail-Einstieg erhalten; Verzögerung der Absage und offene Honoraranfrage als sachliche Verzweigungen ergänzt, ohne Rechtsgutachten in die Antwort zu zwingen.",
+    "norms": [
+      "Paragraf 44 BRAO",
+      "Paragraf 34 RVG"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Beschluss vom 03.11.2011, IX ZR 49/09, Randnummer 3",
+        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2011-11-3&Gericht=bgh&anz=22&nr=58234&pos=16",
+        "application": "Erkannter Wunsch nach Honorarauskunft vor Mandatsübernahme muss vor Vertragsschluss beantwortet werden.",
+        "limit": "Keine allgemeine Unwirksamkeit eines Mandats ohne Honorarvereinbarung; kein pauschaler Preis."
+      }
+    ],
+    "remaining_limits": [
+      "Identität und entscheidende Passage im amtlichen Suchindex geprüft; direkter PDF-Abruf nicht auswertbar, keine vollständige Neuprüfung aller übrigen Normen behauptet.",
+      "Nachprüfung am 2026-09-23: Bestehenden BGH-Profillink erneut aufgerufen; HTTP 403, keine erneute Volltextverifikation. Paragraf 44 BRAO und Paragraf 34 RVG im amtlichen Normtext gelesen. Frühere Quellenprüfung bleibt als datierter Befund erhalten; Ergänzungen betreffen Antwortgestaltung und Belegabgleich, keine neue materielle Fallrechtsprechung. Keine Postfach-, Konfliktdatenbank-, Weiterleitungs- oder Versandprüfung."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Erstanfrage beantworten, Unterlagen gezielt anfordern oder entschiedene Mandatsabsage formulieren.",
+      "Dateien ohne Aufgabe: Korrespondenz still lesen, anschließend nur die gewünschte Antwort klären.",
+      "Klarer Auftrag: sofort vollständige E-Mail entwerfen und nur entscheidende Empfänger-, Erklärungs-, Kosten- oder Zusagenlücken fragen."
+    ],
+    "continuation": "Kanzleientscheidung gegen Übernahme ersetzt im vereinbarten Pfad, beispielsweise korrespondenz/antwort-sommer.md, den Terminabsatz durch eine klare Absage und entfernt unnötige Unterlagenbitten; Anrede und Signatur nicht erneut erheben.",
+    "enrichment": "Anhang- und Prüfstatus, ältere zitierte Zusagen, Angehörigenanfragen, berichtete Dringlichkeit, beschlossene Absage, unbrauchbarer Telefonweg, Preisgrenze und nachweisabhängige Rechtsschutzantwort bis zur vollständigen E-Mail.",
+    "limits": "desk review; no live client execution"
   }
 }

@@ -1,8 +1,157 @@
 {
-  "schema_version":1,"plugin":"berufsrecht-steuerberater","reviewed_on":"2026-09-17",
-  "sources":[{"url":"https://www.gesetze-im-internet.de/stberg/__66.html","checked_on":"2026-09-14","supports":"Herausgabe empfangener Dokumente, ausgenommene Arbeitspapiere, Zurückbehaltung und Unangemessenheitsgrenze einschließlich elektronischer Dokumente."}],
-  "mini_review":{"verdict":"retained","reason":"Am 18. September vollständig erneut gelesen: Dokumentarten, Gebührenzurückhaltung und unbestätigte Fristübernahme sind konkret getrennt. Die Fortsetzung nach Klärung führt zum bestellten Übergabeschreiben; keine weitere Textänderung nötig. Keine neue Rechtsquellenverifikation oder Live-Modellprüfung.","changes":[],"sha256":"bf9af608e52d54f3f4200e2ab26eee0ab45884a23a53bfbddbbd633f73c77900"},
-  "workshop_review":{"verdict":"revised","reason":"Am 18. September gesamten Text gelesen. Anwaltliche Standardnormen und doppelte Pflichtausgabetabellen widersprachen dem steuerberatungsrechtlichen Einstieg; vorhandene Fachabschnitte wurden erhalten und ihre konkrete Fortsetzung präzisiert.","changes":["Doppelte Ausgabe-, Norm- und Routenübersichten entfernt; andere Berufsrechte auf tatsächliche Schnittstellen begrenzt","Aktenzuordnung, Bekanntgabe, Versicherungsnachweis und Gebührenbeleg mit gezielter Nachfrage und anschließender Dokumentfertigstellung verbunden","Konkrete Prüfung von Fachbezeichnung, Fortbildung, Identität und Homeoffice-Kontrolle statt pauschalem Fachvotum","Abschluss auf tatsächlichen Bearbeitungsstand und bestellte Endfassung ausgerichtet"],"sha256":"3250f4dd1c90a6b97d637e2bdbe8d6a8bf47a16ab492ab758ba2855bca3d4140"},
-  "selection":{"positive":["Darf unsere Steuerkanzlei bei Mandatsende Originalbelege wegen einer offenen Gebührenrechnung zurückhalten?","Entwerfen Sie eine berufsrechtlich belastbare Übergabenachricht für noch offene Steuererklärungen beim Beraterwechsel."],"negative":["Berechnen Sie die Umsatzsteuerzahllast aus den beigefügten Rechnungen.","Verteidigen Sie einen Wirtschaftsprüfer gegen den Vorwurf fehlender Unabhängigkeit bei der Abschlussprüfung."]},
-  "cases":[{"id":"originalbelege-und-interne-notizen","request":"Steuerberaterin Weber hat das Mandat der Nord GmbH beendet. Nord verlangt ihre im Original übergebenen Eingangsrechnungen und die von Weber für sie empfangenen Behördenbescheide sowie sämtliche internen Prüfnotizen. Die Originale hat Nord nicht anderweitig. Eine Gebührenrechnung über 250 Euro ist unstreitig offen. Die Belege werden nachweislich für eine in drei Tagen beginnende Außenprüfung benötigt; elektronische Kopien der Originale fehlen. Weber möchte alles bis zur Bezahlung sperren. Nord erlaubt die direkte Übergabe an den benannten neuen Steuerberater. Erstellen Sie eine berufsrechtliche Bewertung und einen begründeten Übergabevorschlag, der Gebührenanspruch und Dokumentenarten berücksichtigt. Senden Sie keine Unterlagen.","input_files":[],"deliverables":["ergebnis.md"],"criteria":[{"id":"C01","text":"Die Bewertung unterscheidet herauszugebende empfangene Originale und Bescheide von internen Arbeitspapieren; sie behandelt nicht sämtliche Dateien als einheitlichen Herausgabegegenstand.","deliverables":["ergebnis.md"]},{"id":"C02","text":"Das Ergebnis prüft das Zurückbehaltungsrecht wegen der geschuldeten 250 Euro und würdigt den drohenden Prüfungsnachteil und die fehlenden Kopien bei der Unangemessenheitsgrenze; es erlaubt keine undifferenzierte Vollsperre.","deliverables":["ergebnis.md"]},{"id":"C03","text":"Der Vorschlag trennt Gebührenbeitreibung von rechtzeitig dokumentierter Übergabe der benötigten Unterlagen an den autorisierten Nachfolger und behauptet keine bereits erfolgte Herausgabe.","deliverables":["ergebnis.md"]}],"target_skill":"mandatsbeendigung"}]
+  "schema_version": 1,
+  "plugin": "berufsrecht-steuerberater",
+  "reviewed_on": "2026-09-23",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/stberg/__66.html",
+      "checked_on": "2026-09-14",
+      "supports": "Herausgabe empfangener Dokumente, ausgenommene Arbeitspapiere, Zurückbehaltung und Unangemessenheitsgrenze einschließlich elektronischer Dokumente."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2003/IX_ZR_178-03.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 11. März 2004, IX ZR 178/03, Gründe II.1 und II.2. DATEV-Übertragung nach Dateninhalt prüfen: erhaltene und vorbereitend aufbereitete Daten von vertraglichem Arbeitsergebnis unterscheiden; passende Anspruchsgrundlage bestimmt Herausgabe. Grenze: Zurückverwiesener Insolvenzfall, kein allgemeines Datensperrrecht; heutiger Paragraf 66 StBerG, Vertragsanspruch und Einreden gesondert."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stberg/__66.html",
+      "checked_on": "2026-09-22",
+      "supports": "Amtlicher Wortlaut geprüft: Aktuelle Handaktenregelung, Herausgabe und Grenze des Zurückbehaltungsrechts bei Unangemessenheit; erhaltene Dokumente von internem Material und Arbeitsergebnissen unterscheiden."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stberg/__57.html",
+      "checked_on": "2026-09-22",
+      "supports": "Amtlicher Wortlaut geprüft: Allgemeine Berufspflichten, insbesondere eigenverantwortliche, gewissenhafte und verschwiegene Berufsausübung; keine generelle Datensperrbefugnis."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__273.html",
+      "checked_on": "2026-09-22",
+      "supports": "Amtlicher Wortlaut geprüft: Zurückbehaltungsrecht wegen fälligem Gegenanspruch aus demselben rechtlichen Verhältnis; besondere Herausgabepflicht und Unangemessenheit gesondert prüfen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__320.html",
+      "checked_on": "2026-09-22",
+      "supports": "Amtlicher Wortlaut geprüft: Einrede beim gegenseitigen Vertrag, einschließlich Grenze bei geringfügiger Rückleistung; vom allgemeinen Zurückbehaltungsrecht unterscheiden."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stberg/__66.html",
+      "checked_on": "2026-09-23",
+      "supports": "Handakten, Unangemessenheit der Zurückhaltung sowie zehnjährige Aufbewahrung ab Jahresende der Auftragsbeendigung und gesonderte Dokumentenregeln."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/ao_1977/__355.html",
+      "checked_on": "2026-09-23",
+      "supports": "Einspruchsfrist ab Bekanntgabe; Übergabewunsch und interne Zuständigkeit verlängern die Monatsfrist nicht."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Der Herausgabefall wird um die notwendige DATEV-Differenzierung von Daten und geschuldetem Arbeitsergebnis ergänzt. Vollständige Text- und gezielte Primärquellenprüfung; kein Live-Mandanten- oder Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert.",
+    "changes": [
+      "Pauschalen Vorbehalt einer angeblich endgültigen Rechtsentscheidung entfernt.",
+      "Interne Überschriften und wiederholte Norm-/Auftragsketten fachlich ersetzt.",
+      "DATEV-Übertragungsanspruch, Vertragsleistung und Einreden getrennt.",
+      "Alle bestehenden Fachgebiete und Fortsetzungswege erhalten.",
+      "Leer: Herausgabe, Fristenübergabe oder Erklärungsfehler. Dateien: still lesen und Übergabebrief oder Mandanteninformation anbieten. Klar: bestellte Bewertung oder Nachricht ohne allgemeine Mandatsübersicht erstellen.",
+      "Zahlungsbeleg ändert Saldo und Zurückhaltung; Übernahme ab Oktober verlangt genaue Zuordnung der offenen Vorjahreserklärung im Übergabebrief."
+    ],
+    "sha256": "7174315356b20975de7fd9eb0743905e566cd6f5c96f98b740f8ef81ce40d328"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Alle zwölf Einzelabschnitte von wiederholten abstrakten Arbeitsaufträgen befreit; konkrete Mandats-, Nachweis- und Empfängerfragen treten an ihre Stelle. Vollständige Text- und gezielte Primärquellenprüfung; kein Live-Mandanten- oder Modelltest. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen.",
+    "changes": [
+      "Pauschalen Vorbehalt einer angeblich endgültigen Rechtsentscheidung entfernt.",
+      "Interne Überschriften und wiederholte Norm-/Auftragsketten fachlich ersetzt.",
+      "DATEV-Übertragungsanspruch, Vertragsleistung und Einreden getrennt.",
+      "Alle bestehenden Fachgebiete und Fortsetzungswege erhalten.",
+      "Datenkategorien, Teilherausgabe, Gebührenzuordnung, Bekanntgabefrist, Fehlerzeitraum und getrennte Aufbewahrung ausgearbeitet.",
+      "Zahlungsbeleg ändert Saldo und Zurückhaltung; Übernahme ab Oktober verlangt genaue Zuordnung der offenen Vorjahreserklärung im Übergabebrief."
+    ],
+    "sha256": "97343f6beaab43660c313b170c7f6a02614c9997e79783ed1a9d112085e8d7ff"
+  },
+  "selection": {
+    "positive": [
+      "Darf unsere Steuerkanzlei bei Mandatsende Originalbelege wegen einer offenen Gebührenrechnung zurückhalten?",
+      "Entwerfen Sie eine berufsrechtlich belastbare Übergabenachricht für noch offene Steuererklärungen beim Beraterwechsel."
+    ],
+    "negative": [
+      "Berechnen Sie die Umsatzsteuerzahllast aus den beigefügten Rechnungen.",
+      "Verteidigen Sie einen Wirtschaftsprüfer gegen den Vorwurf fehlender Unabhängigkeit bei der Abschlussprüfung."
+    ]
+  },
+  "cases": [
+    {
+      "id": "originalbelege-und-interne-notizen",
+      "request": "Steuerberaterin Weber hat das Mandat der Nord GmbH beendet. Nord verlangt ihre im Original übergebenen Eingangsrechnungen und die von Weber für sie empfangenen Behördenbescheide sowie sämtliche internen Prüfnotizen. Die Originale hat Nord nicht anderweitig. Eine Gebührenrechnung über 250 Euro ist unstreitig offen. Die Belege werden nachweislich für eine in drei Tagen beginnende Außenprüfung benötigt; elektronische Kopien der Originale fehlen. Weber möchte alles bis zur Bezahlung sperren. Nord erlaubt die direkte Übergabe an den benannten neuen Steuerberater. Erstellen Sie eine berufsrechtliche Bewertung und einen begründeten Übergabevorschlag, der Gebührenanspruch und Dokumentenarten berücksichtigt. Senden Sie keine Unterlagen.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die Bewertung unterscheidet herauszugebende empfangene Originale und Bescheide von internen Arbeitspapieren; sie behandelt nicht sämtliche Dateien als einheitlichen Herausgabegegenstand.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Das Ergebnis prüft das Zurückbehaltungsrecht wegen der geschuldeten 250 Euro und würdigt den drohenden Prüfungsnachteil und die fehlenden Kopien bei der Unangemessenheitsgrenze; es erlaubt keine undifferenzierte Vollsperre.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Der Vorschlag trennt Gebührenbeitreibung von rechtzeitig dokumentierter Übergabe der benötigten Unterlagen an den autorisierten Nachfolger und behauptet keine bereits erfolgte Herausgabe.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "mandatsbeendigung"
+    }
+  ],
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Herausgabe, Fristenübergabe oder Erklärungsfehler.",
+      "Dateien: still lesen und Übergabebrief oder Mandanteninformation anbieten.",
+      "Klar: bestellte Bewertung oder Nachricht ohne allgemeine Mandatsübersicht erstellen."
+    ],
+    "continuation": "Zahlungsbeleg ändert Saldo und Zurückhaltung; Übernahme ab Oktober verlangt genaue Zuordnung der offenen Vorjahreserklärung im Übergabebrief.",
+    "enrichment": "Datenkategorien, Teilherausgabe, Gebührenzuordnung, Bekanntgabefrist, Fehlerzeitraum und getrennte Aufbewahrung ausgearbeitet.",
+    "limits": "desk review; no live client execution"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "berufsrecht-steuerberater/berufsrecht-steuerberater-werkstatt.md",
+      "berufsrecht-steuerberater/berufsrecht-steuerberater-schnellstart.md",
+      "berufsrecht-steuerberater/README.md",
+      "quality/evals/berufsrecht-steuerberater.json"
+    ],
+    "opening_change": "Übernommene Erklärungen, Fristen und Herausgabe bei offenen Gebühren statt allgemeiner Berufsrechtsbearbeitung.",
+    "norms": [
+      "StBerG Paragrafen 57 und 66",
+      "BGB Paragrafen 675 Absatz 1, 667, 273 und 320",
+      "AO Paragrafen 80, 153 und 370"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 11. März 2004, IX ZR 178/03, Gründe II.1 und II.2",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2003/IX_ZR_178-03.pdf?__blob=publicationFile&v=1",
+        "application": "DATEV-Übertragung nach Dateninhalt prüfen: erhaltene und vorbereitend aufbereitete Daten von vertraglichem Arbeitsergebnis unterscheiden; passende Anspruchsgrundlage bestimmt Herausgabe.",
+        "limit": "Zurückverwiesener Insolvenzfall, kein allgemeines Datensperrrecht; heutiger Paragraf 66 StBerG, Vertragsanspruch und Einreden gesondert."
+      }
+    ],
+    "remaining_limits": [
+      "Desk-/Quellenprüfung, kein Live-Mandanten- oder Modelltest.",
+      "Gebührenrecht, AO-Einzelfragen und aktuelle Kammerverfahrensregeln nicht vollständig neu verifiziert.",
+      "Workflow-Anschlussprüfung 23.09.2026: individuelle Text- und Quellenprüfung, keine Live-Client-Ausführung. Frühere Entscheidungsprüfungen und ihre Reichweitengrenzen bleiben unverändert; keine erneute vollständige Rechtsprechungsprüfung behauptet. Paragraf 153 AO im Anschlussabruf nicht erreichbar; bestehende Einordnung und ältere Quellenprüfung unverändert, keine neue umfassende Berichtigungspflicht behauptet."
+    ]
+  }
 }

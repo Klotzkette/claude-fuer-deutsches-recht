@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "krankenkassenrecht-krankenversicherung",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/gvg/__13.html",
@@ -17,15 +17,49 @@
       "url": "https://www.gesetze-im-internet.de/sgg/__51.html",
       "checked_on": "2026-09-14",
       "supports": "Amtlicher Normauszug: Sozialgerichtliche Zuweisung für gesetzliche Krankenversicherung, keine pauschale Gleichsetzung mit privater Krankheitskostenversicherung."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2015/IV_ZR_533-15.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "Erneute Primärquellenprüfung: BGH, Urteil vom 29.03.2017, IV ZR 533/15, Randnummern 20 bis 31. Anwendung: Eine verfügbare Brille allein schließt bei den dortigen Bedingungen medizinische Notwendigkeit einer LASIK nicht aus; objektive Befunde zum Behandlungszeitpunkt prüfen. Grenze: Tarifabhängig; Zurückverweisung zur Notwendigkeit, keine allgemeine Kostenzusage und keine GKV-Regel."
+    },
+    {
+      "url": "https://www.bsg.bund.de/SharedDocs/Downloads/DE/Entscheidungen/2022/2022_03_10_B_01_KR_06_21_R.pdf?__blob=publicationFile&v=2",
+      "checked_on": "2026-09-22",
+      "supports": "Erneute Primärquellenprüfung: BSG, Urteil vom 10.03.2022, B 1 KR 6/21 R, Randnummern 12 bis 25. Anwendung: Fristabhängige Kostenerstattung setzt unter anderem Gutgläubigkeit, Kosten und Ursächlichkeit voraus; vorherige Vorfestlegung und tatsächlichen Zugang der MD-Unterrichtung prüfen. Grenze: Keine automatische Sachleistung; Vorauszahlung nur gewichtiges Indiz, Unaufschiebbarkeit eigenständig nach Absatz 3."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/sgb_5/__13.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aktuelle Voraussetzungen einschließlich elektronischer Fristverlängerungsmitteilung und Rehabilitationsabgrenzung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vvg_2008/__192.html",
+      "checked_on": "2026-09-22",
+      "supports": "Medizinisch notwendige Heilbehandlung im vereinbarten Umfang; Tarif bleibt gesondert zu prüfen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vvg_2008/__192.html",
+      "checked_on": "2026-09-23",
+      "supports": "Absatz 8 erneut gelesen: Auskunft in Textform vor Heilbehandlung bei voraussichtlichen Kosten über 2000 Euro; Zwei-/Vierwochenfrist nach Dringlichkeit; widerlegliche Vermutung nur zur medizinischen Notwendigkeit, keine automatische Vollerstattung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/sgb_5/__13.html",
+      "checked_on": "2026-09-23",
+      "supports": "Absätze 3 und 3a erneut gelesen: Selbstbeschaffung und Fristmitteilungen getrennt, Rehabilitation mit eigenständiger Verweisung. Kein neuer Volltextnachweis für die in den Prompts erhaltenen Gerichtsentscheidungen."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Vollständig gelesen: GKV-Bescheid, PKV-Vertrag und Beihilfe werden getrennt; die ärztliche Nachforderung führt zum Leistungsbrief statt zum Abbruch nach der Analyse.",
+    "reason": "2026-09-23: Individuell vollständig gelesen und fachbezogen erweitert. Drei tatsächliche Versicherungswege als Leerstart, stille Dateisichtung und direkter Arbeitsbeginn ergänzt; Tarifantwort unmittelbar in Restforderung und bestehendem Pfad umgesetzt. Desk-Review; kein Live-Client- oder Modelltest.",
     "changes": [
-      "Arzt- und Tarifantworten werden in Anspruchsbegründung, Erstattungsquote und Zeitraum eingearbeitet; kein automatischer Widerspruch gegen eine PKV-Ablehnung."
+      "LASIK-Anker begrenzt den bloßen Verweis auf Brille; konkrete Tarif- und Befundprüfung bleibt nötig.",
+      "GKV-Fristablauf mit Vorfestlegung, Gutgläubigkeit und Kosten verknüpft; reine Quotenfälle ohne unnötige Medizinrunde.",
+      "Drei tatsächliche Versicherungswege als Leerstart, stille Dateisichtung und direkter Arbeitsbeginn ergänzt; Tarifantwort unmittelbar in Restforderung und bestehendem Pfad umgesetzt."
     ],
-    "sha256": "4bae2c3216d121a6830e62fe6aa712d013938d214f8297ae0a5159cd48a2b3a5"
+    "sha256": "363ae2c47ad39f57751b6bcc62487b43b171cdcaf45ab17f76b0206a6cbdcc4c",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
   },
   "selection": {
     "positive": [
@@ -105,10 +139,58 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Vollständig gelesen einschließlich besonderer Versicherungswege und Quellenvorbehalte. Medizinischer Bedarf, versicherter Umfang und Zahlungsrechnung bleiben eigenständige Prüfungen.",
+    "reason": "2026-09-23: Individuell vollständig gelesen und fachbezogen erweitert. Vorbehandlungs-Auskunft nach Paragraf 192 Absatz 8 VVG, konkrete AU-Lücken, Beschaffungsbindung, Teilrechnungen und ungünstige medizinische Befunde in den jeweiligen Dokumentenweg eingebaut. Desk-Review; kein Live-Client- oder Modelltest.",
     "changes": [
-      "Hilfsmittel-, Arzneimittel-, Krankengeld- und Beitragswege enthalten konkrete Nachforderungen und anschließende Endfassungen. Als ungeprüft bezeichnete Altangaben bleiben ausdrücklich unverifiziert."
+      "Beschaffungszeitachse umfasst Vertrag, Zahlung, Terminbindung und subjektive Vorfestlegung.",
+      "Tatsächlicher Zugang der MD-Unterrichtung von heutiger elektronischer Fristverlängerungsregel unterschieden.",
+      "Medizinische Notwendigkeit, Tarifgrenzen und Leistungsumfang getrennt; spezielle Versicherungs- und Nachforderungswege erhalten.",
+      "Vorbehandlungs-Auskunft nach Paragraf 192 Absatz 8 VVG, konkrete AU-Lücken, Beschaffungsbindung, Teilrechnungen und ungünstige medizinische Befunde in den jeweiligen Dokumentenweg eingebaut."
     ],
-    "sha256": "8bef24247d5679bfe50d194e5c9d563730a61b56e593b2e5479b2a2e13545a49"
+    "sha256": "2ce0a814d95ea0b0d032bf2b90a35f62f8bffb6eb0c031a60b9b391eae89cb57",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "krankenkassenrecht-krankenversicherung/krankenkassenrecht-krankenversicherung-werkstatt.md",
+      "krankenkassenrecht-krankenversicherung/krankenkassenrecht-krankenversicherung-schnellstart.md"
+    ],
+    "opening_change": "Verweigerte Versorgung, Rechnungskürzung, Krankengeld und Beiträge am jeweiligen Versicherungsweg und Zeitraum prüfen.",
+    "norms": [
+      "Paragrafen 12, 13 Absatz 3 und Absatz 3a, 27, 44 und 46 SGB V",
+      "Paragraf 192 VVG"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 29.03.2017, IV ZR 533/15, Randnummern 20 bis 31",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2015/IV_ZR_533-15.pdf?__blob=publicationFile&v=1",
+        "application": "Eine verfügbare Brille allein schließt bei den dortigen Bedingungen medizinische Notwendigkeit einer LASIK nicht aus; objektive Befunde zum Behandlungszeitpunkt prüfen.",
+        "limit": "Tarifabhängig; Zurückverweisung zur Notwendigkeit, keine allgemeine Kostenzusage und keine GKV-Regel."
+      },
+      {
+        "citation": "BSG, Urteil vom 10.03.2022, B 1 KR 6/21 R, Randnummern 12 bis 25",
+        "url": "https://www.bsg.bund.de/SharedDocs/Downloads/DE/Entscheidungen/2022/2022_03_10_B_01_KR_06_21_R.pdf?__blob=publicationFile&v=2",
+        "application": "Fristabhängige Kostenerstattung setzt unter anderem Gutgläubigkeit, Kosten und Ursächlichkeit voraus; vorherige Vorfestlegung und tatsächlichen Zugang der MD-Unterrichtung prüfen.",
+        "limit": "Keine automatische Sachleistung; Vorauszahlung nur gewichtiges Indiz, Unaufschiebbarkeit eigenständig nach Absatz 3."
+      }
+    ],
+    "remaining_limits": [
+      "Desk- und Quellenprüfung ohne Live-Modelltest.",
+      "Nicht sämtliche Hilfsmittel-, Off-Label-, Beihilfe-, Steuer- und Aufsichtsfragen neu volltextlich verifiziert; entsprechende Einzelfallprüfung bleibt.",
+      "2026-09-23: Workflow-Desk-Review. Alle bisherigen Profil-URLs erneut aufgerufen. Paragrafen 13 SGB V und 192 VVG gelesen; Paragraf 192 Absatz 8 trägt die neue Auskunftsverzweigung. BGH IV ZR 533/15 und BSG B 1 KR 6/21 R als PDF zunächst nicht abrufbar; für BSG nur amtlicher indexierter Auszug Rn. 19–22 erneut zugänglich, keine neue vollständige Entscheidungskontrolle. Frühere Volltextprüfung vom 22.09.2026 bleibt historischer Nachweis; keine Vollprüfung aller Fachzweige oder Live-Ausführung."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: GKV-Behandlung, PKV-Rechnung oder Krankengeld/Beiträge auswählen.",
+      "Dateien ohne Auftrag: Bescheid, Tarif und Befunde still lesen; ausschließlich gewünschtes Ergebnis klären.",
+      "Klarer Auftrag: passenden Versicherungsweg bearbeiten, bei unstreitiger Medizin keine zusätzliche Begutachtungsrunde."
+    ],
+    "continuation": "Tarifnachtrag korrigiert in leistungsbrief.md Quote und Restforderung; Nachweis zur AU-Feststellung korrigiert in krankengeld-widerspruch.md Zeitraum und Begründung. Vorhandene Nutzerpfade gelten.",
+    "enrichment": "Auskunft vor PKV-Behandlung über 2000 Euro mit Frist und begrenzter Vermutungswirkung, Feststellung gegenüber AU-Übermittlung, Stornoregel/Vorauszahlung als Tatsachen zur Vorfestlegung, 400-Euro-Restrechnung und funktionelle Befundanfrage.",
+    "limits": "desk review; no live client execution"
   }
 }

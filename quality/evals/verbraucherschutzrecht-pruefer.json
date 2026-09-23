@@ -1,34 +1,161 @@
 {
   "schema_version": 1,
   "plugin": "verbraucherschutzrecht-pruefer",
-  "reviewed_on": "2026-09-18",
-  "sources": [{"url": "https://www.gesetze-im-internet.de/bgb/__327r.html", "checked_on": "2026-09-14", "supports": "Geöffneter Volltext: Änderungsbedingungen, erhebliche Nutzungsbeeinträchtigung, Vorabinformation, 30-Tage-Frist und Ausnahme bei unverändertem Produkt ohne Zusatzkosten."}],
+  "reviewed_on": "2026-09-23",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__327o.html",
+      "checked_on": "2026-09-23",
+      "supports": "Nach Web-Timeout amtlichen Volltext direkt gelesen: Beendigungserklärung, Zahlungsfolgen und zeitbezogene Erstattung bei dauerhafter Bereitstellung; im Änderungsfall nur entsprechende Anwendung über Paragraf 327r Absatz 5."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__477.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlicher Volltext gelesen: Vermutung knüpft an innerhalb des maßgeblichen Zeitraums gezeigten abweichenden Zustand an; keine allgemeine Befreiung von Tatsachendarlegung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__475d.html",
+      "checked_on": "2026-09-23",
+      "supports": "Nach Web-Timeout amtlichen Volltext direkt gelesen: Entbehrlichkeit der Fristsetzung unter den einzelnen Voraussetzungen; Mangelinformation allein ist kein sofortiger Rücktrittsgrund."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__327r.html",
+      "checked_on": "2026-09-14",
+      "supports": "Geöffneter Volltext: Änderungsbedingungen, erhebliche Nutzungsbeeinträchtigung, Vorabinformation, 30-Tage-Frist und Ausnahme bei unverändertem Produkt ohne Zusatzkosten."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__327r.html",
+      "supports": "Amtlichen Volltext Absätze 1–6 gelesen: Änderungen bei dauerhafter Bereitstellung, triftiger Grund, Vorabinformation, 30 Tage ab späterem Änderungszeitpunkt, unveränderte Alternative und konkrete Telekommunikationspaketausnahme.",
+      "checked_on": "2026-09-23"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__356a.html",
+      "supports": "Amtlichen Volltext Absätze 1–5 gelesen: Online-Widerrufsfunktion und Bestätigung, Felder, dauerhafter Datenträger, rechtzeitiger Versand; nicht Kündigungsbutton.",
+      "checked_on": "2026-09-23"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__356.html",
+      "supports": "Amtlichen Volltext gelesen: aktuelle Frist- und Erlöschensstruktur, Dienstleistungen Absatz 5 und digitale Inhalte Absatz 6.",
+      "checked_on": "2026-09-23"
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62022CJ0565",
+      "checked_on": "2026-09-23",
+      "supports": "EuGH, Urteil vom 05.10.2023, C-565/22, Sofatutor, Rn. 43–50: Bei Probeabo mit transparent mitgeteiltem späteren Gesamtpreis und unveränderten Bedingungen grundsätzlich einmaliges Widerrufsrecht; bei fehlender transparenter Information nach Testphase neues Recht, sofern ein bindender Vertrag besteht. Grenze: Nationale Feststellung der Information erforderlich; keine Entscheidung über Paragraf 327r BGB, keine pauschale Wirksamkeit aller Verlängerungsklauseln; alte Richtlinienfassung im Ausgangsverfahren beachten. Amtlichen Entscheidungstext und entscheidende Gründe gelesen."
+    }
+  ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Vollständig gelesen: Die Nachforderung von Belehrung und Änderungsmitteilung war bereits mit Fortsetzung verbunden. Kernroute und Digitalabschnitt verlangten aber noch unabhängig vom Beratungsauftrag die Auswahl kollektiver Durchsetzung beziehungsweise einen Erklärungsentwurf.",
-    "changes": ["Durchsetzungsweg an Auftrag und tatsächliche Anspruchsberechtigung gebunden.","Funktionsvergleich in die bestellte Bewertung einarbeiten lassen; Erklärung, Abmahnung oder Klage nur bei entsprechendem Auftrag."],
-    "sha256": "a8aa3dbd34ea7ef9c3ac7bc4984eed2e094e23a5b6c0da1177a0d54adf58526f"
+    "reason": "Am 23.09.2026 vollständig erneut gelesen und unter 7500 Bytes/Zeichen verdichtet: drei fachliche Einstiege sowie eine tatsächlich unveränderte Digitalversion verändern den konkreten Entwurf. Sofatutor, Paragraf 327r und die Widerrufsfunktion bleiben in ihren unterschiedlichen Anwendungsbereichen erhalten.",
+    "changes": [
+      "Drei Startmodi und Prüfung einer nachgereichten unveränderten Digitalversion ergänzt; allgemeine Doppelabläufe zugunsten konkreter Fortsetzung gekürzt.",
+      "Sofatutor C-565/22 mit Preisaufklärung, bindendem Vertrag, einmaligem beziehungsweise neuem Widerruf und ausdrücklicher Grenze zu Paragraf 327r in beide Prompts eingefügt.",
+      "Paragraf 327r aktuell vollständig gelesen; Änderungsklausel von zusätzlichem Beendigungsrecht, späterem Fristbeginn und unveränderter Alternative unterschieden.",
+      "Paragraf 356a samt zweistufiger Funktion und Bestätigung vom Kündigungsbutton getrennt; aktuelle Paragraf-356-Absätze geprüft, Nachweisfortsetzung und vollständiger Erklärungsentwurf bewahrt."
+    ],
+    "sha256": "cce19698522ac6bd4aa6bd51b2a4afacef4d6b4ee18e1eab92d425d36468afb1"
   },
   "workshop_review": {
-    "verdict": "retained",
-    "reason": "Vollständig gelesen: Belehrungszugang, digitale Funktionsänderung und Energieabrechnung haben eigene Nachforderungswege bis zum fertigen Text. Individualanspruch, Verbandsauftrag und Behördenbeschwerde sind getrennt; eine neue Klausel ersetzt nicht ungeprüft die Bewertung des Bestandsvertrags. Keine zusätzliche Korrektur erforderlich.",
-    "changes": [],
-    "sha256": "a2374a559985fd341cc051de4d18bbc337a85d58105cdb9a27e96166f68aa0ba"
+    "verdict": "revised",
+    "reason": "Am 23.09.2026 vollständig erneut gelesen: Probeabofassung, Digitalfunktion, Gegenangebot und Verkäuferreaktion führen zu unterschiedlichen, vollständig beschriebenen Erklärungswegen. Vergangene und zukünftige Zahlungszeiträume sowie Ersatzklauseln werden konkret bearbeitet; sämtliche Spezialzweige und bisherigen Entscheidungsgrenzen erhalten.",
+    "changes": [
+      "Bestellnachweis und Sofatutor-Anwendung bis zu Bestreiten, hilfsweiser Erklärung und bezifferter Rückforderung ausgearbeitet.",
+      "Digitaländerung mit Gegenangebot, Fristkorrektur und zeitbezogenen Zahlungsfolgen sowie Kaufmangel mit Gegenbefund und Verkäuferreaktion ergänzt.",
+      "Sofatutor C-565/22 mit Preisaufklärung, bindendem Vertrag, einmaligem beziehungsweise neuem Widerruf und ausdrücklicher Grenze zu Paragraf 327r in beide Prompts eingefügt.",
+      "Paragraf 327r aktuell vollständig gelesen; Änderungsklausel von zusätzlichem Beendigungsrecht, späterem Fristbeginn und unveränderter Alternative unterschieden.",
+      "Paragraf 356a samt zweistufiger Funktion und Bestätigung vom Kündigungsbutton getrennt; aktuelle Paragraf-356-Absätze geprüft, Nachweisfortsetzung und vollständiger Erklärungsentwurf bewahrt."
+    ],
+    "sha256": "440396bb387bd99695fa2932a2735ba2b9712f9e67a947eca9d3531a028f7cf2"
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Probeaboprüfung mit Erklärung, Anspruchsschreiben wegen Digitalfunktion oder Ersatzklausel anbieten.",
+      "Dateien ohne Auftrag: damalige Vertrags-, Bestell- und Mitteilungsfassung still lesen; nur bei offenem Ziel passende Dokumentwege anbieten.",
+      "Klarer Auftrag: sofort entwerfen; nur entscheidende Preisinformation, Änderungszugang oder Verkäuferreaktion klären."
+    ],
+    "continuation": "Damals klare Preisinformation -> geänderte Widerrufsbegründung; tatsächlich unveränderte Digitalversion -> korrigierte Beendigungsbewertung; Erstattung -> geänderter Zahlungsabsatz im Anspruchsschreiben.",
+    "enrichment": "Probeabobelege, hilfsweise Erklärung, Ersatzklauseln, tatsächlicher Funktionsvergleich, Alternativversion, zeitbezogene Rückzahlung und mangelbezogene Reaktion bis zum vollständigen Dokument ausgearbeitet.",
+    "limits": "desk review; no live client execution"
   },
   "selection": {
-    "positive": ["Prüfe die Abschaltung einer zugesagten Funktion in meinem laufenden digitalen Abonnement.", "Vergleiche Änderungsmitteilung, Vertragsklausel und mein Recht zur Vertragsbeendigung."],
-    "negative": ["Bilde eine kollektive Abhilfeklagegruppe für einen Verbraucherverein.", "Prüfe einen individuell ausgehandelten Softwarevertrag ausschließlich zwischen Unternehmen."]
-  },
-  "cases": [{
-    "id": "cloud-exportfunktion-entfernt",
-    "request": "Erstelle ergebnis.md als Verbraucher-Memo mit einem noch nicht versandten Erklärungsentwurf. Mein privates Cloud-Archiv kostet 15 Euro monatlich und wird dauerhaft bereitgestellt; es ist kein Telekommunikationspaket. Der Vertrag erlaubt Änderungen aus dem konkret benannten Grund der technischen Plattformablösung. Eine E-Mail vom 20. August 2026 kündigte zum 1. September den Wegfall des vollständigen Dateiexports an, erläuterte Merkmal, Zeitpunkt und das Beendigungsrecht. Seit 1. September kann ich nur einzelne Dateien ansehen, nicht mehr meine 8.000 Dokumente exportieren. Der Anbieter räumt eine erhebliche Nutzungsbeeinträchtigung ein; Zusatzkosten entstehen nicht. Eine unveränderte Version wird nicht angeboten. Heute ist der 14. September. Der Anbieter hält eine Beendigung für ausgeschlossen, weil eine Änderungsklausel vereinbart sei. Bitte prüfe diesen Einwand und die zeitliche Lage.",
-    "input_files": [],
-    "deliverables": ["ergebnis.md"],
-    "criteria": [
-      {"id": "C01", "text": "Das Ergebnis trennt die vertragliche Änderungsmöglichkeit vom zusätzlichen Beendigungsrecht bei erheblicher Beeinträchtigung; die Klausel allein schließt die Beendigung nicht aus.", "deliverables": ["ergebnis.md"]},
-      {"id": "C02", "text": "Für die 30-Tage-Frist wird die spätere Änderung am 1. September und nicht bereits die E-Mail vom 20. August zugrunde gelegt; am 14. September ist sie nicht abgelaufen.", "deliverables": ["ergebnis.md"]},
-      {"id": "C03", "text": "Die fehlende unveränderte Alternative und der erhebliche Exportverlust werden konkret gewürdigt; der Entwurf wird nicht als bereits abgesandte Erklärung ausgegeben.", "deliverables": ["ergebnis.md"]}
+    "positive": [
+      "Prüfe die Abschaltung einer zugesagten Funktion in meinem laufenden digitalen Abonnement.",
+      "Vergleiche Änderungsmitteilung, Vertragsklausel und mein Recht zur Vertragsbeendigung."
     ],
-    "target_skill": "verbraucherrecht-digitale-produkte-327-bgb"
-  }]
+    "negative": [
+      "Bilde eine kollektive Abhilfeklagegruppe für einen Verbraucherverein.",
+      "Prüfe einen individuell ausgehandelten Softwarevertrag ausschließlich zwischen Unternehmen."
+    ]
+  },
+  "cases": [
+    {
+      "id": "cloud-exportfunktion-entfernt",
+      "request": "Erstelle ergebnis.md als Verbraucher-Memo mit einem noch nicht versandten Erklärungsentwurf. Mein privates Cloud-Archiv kostet 15 Euro monatlich und wird dauerhaft bereitgestellt; es ist kein Telekommunikationspaket. Der Vertrag erlaubt Änderungen aus dem konkret benannten Grund der technischen Plattformablösung. Eine E-Mail vom 20. August 2026 kündigte zum 1. September den Wegfall des vollständigen Dateiexports an, erläuterte Merkmal, Zeitpunkt und das Beendigungsrecht. Seit 1. September kann ich nur einzelne Dateien ansehen, nicht mehr meine 8.000 Dokumente exportieren. Der Anbieter räumt eine erhebliche Nutzungsbeeinträchtigung ein; Zusatzkosten entstehen nicht. Eine unveränderte Version wird nicht angeboten. Heute ist der 14. September. Der Anbieter hält eine Beendigung für ausgeschlossen, weil eine Änderungsklausel vereinbart sei. Bitte prüfe diesen Einwand und die zeitliche Lage.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Das Ergebnis trennt die vertragliche Änderungsmöglichkeit vom zusätzlichen Beendigungsrecht bei erheblicher Beeinträchtigung; die Klausel allein schließt die Beendigung nicht aus.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Für die 30-Tage-Frist wird die spätere Änderung am 1. September und nicht bereits die E-Mail vom 20. August zugrunde gelegt; am 14. September ist sie nicht abgelaufen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die fehlende unveränderte Alternative und der erhebliche Exportverlust werden konkret gewürdigt; der Entwurf wird nicht als bereits abgesandte Erklärung ausgegeben.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "verbraucherrecht-digitale-produkte-327-bgb"
+    }
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "verbraucherschutzrecht-pruefer/README.md",
+      "verbraucherschutzrecht-pruefer/verbraucherschutzrecht-pruefer-schnellstart.md",
+      "verbraucherschutzrecht-pruefer/verbraucherschutzrecht-pruefer-werkstatt.md",
+      "quality/evals/verbraucherschutzrecht-pruefer.json",
+      "verbraucherschutzrecht-pruefer/skills/verbraucherrecht-digitale-produkte-327-bgb/SKILL.md"
+    ],
+    "opening_change": "Bindung an Bestellung oder Probeabo, verlangte Zahlung und Rechte bei Funktionsentzug aus damaligem Bestellablauf und tatsächlicher Leistung prüfen.",
+    "norms": [
+      "Paragrafen 13 und 14 BGB",
+      "Paragrafen 312c, 312d und 312j BGB",
+      "Paragrafen 355, 356 und 356a BGB",
+      "Paragraf 312k BGB",
+      "Paragrafen 327e, 327f, 327o, 327p und 327r BGB",
+      "Paragrafen 305 bis 310 BGB",
+      "Artikel 9 Absatz 1, Artikel 6 Absatz 1 Buchstabe e und Artikel 8 Absatz 2 Richtlinie 2011/83/EU"
+    ],
+    "decisions": [
+      {
+        "citation": "EuGH, Urteil vom 05.10.2023, C-565/22, Sofatutor, Rn. 43–50",
+        "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62022CJ0565",
+        "application": "Bei Probeabo mit transparent mitgeteiltem späteren Gesamtpreis und unveränderten Bedingungen grundsätzlich einmaliges Widerrufsrecht; bei fehlender transparenter Information nach Testphase neues Recht, sofern ein bindender Vertrag besteht.",
+        "limit": "Nationale Feststellung der Information erforderlich; keine Entscheidung über Paragraf 327r BGB, keine pauschale Wirksamkeit aller Verlängerungsklauseln; alte Richtlinienfassung im Ausgangsverfahren beachten."
+      }
+    ],
+    "remaining_limits": [
+      "Workflow-Review: Paragrafen 327r, 327o, 477 und 475d BGB aktuell gelesen. Sofatutor-Anker und seine Grenzen aus vorhandener Quellenprüfung erhalten; keine neue Rechtsprechung zur Digitaländerung oder Widerrufsfunktion behauptet, Branchenspezialrecht nicht insgesamt neu verifiziert.",
+      "Desk-/Quellenprüfung, kein Live-Modell- oder Mandatstest.",
+      "C-565/22: amtliche EUR-Lex-HTML-Fassung mit Entscheidungsart, Datum und entscheidenden Rn. 43–50 gelesen; zwischenzeitliche PDF-/HTML-Sperrseiten nicht als Volltextnachweis verwendet.",
+      "Kein verifizierter spezifischer Entscheidungsanker zu Paragraf 327r oder neuer Widerrufsfunktion behauptet; Sofatutor bewusst auf Probeabo beschränkt.",
+      "Reise-, Energie-, Finanz-, Gesundheits- und Pflege-Spezialrecht nicht vollständig neu verifiziert; bestehende differenzierte Prüfzweige erhalten."
+    ]
+  }
 }

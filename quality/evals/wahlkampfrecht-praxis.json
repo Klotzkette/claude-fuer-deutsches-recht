@@ -1,8 +1,13 @@
 {
   "schema_version": 1,
   "plugin": "wahlkampfrecht-praxis",
-  "reviewed_on": "2026-09-17",
+  "reviewed_on": "2026-09-23",
   "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/partg/__25.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlichen Volltext gelesen: Empfangs-/Verfügungsbereich und unverzügliche Rückleitung nach Absatz 1, Annahmeverbote nach Absatz 2, Einzelanzeige über 35000 Euro und Jahresausweis über 10000 Euro nach Absatz 3 sowie Weiterleitung unzulässiger Spenden nach Absatz 4. Unterschiedliche Vorgänge werden im Meldungs- und Verwendungsworkflow nicht als austauschbar behandelt."
+    },
     {
       "url": "https://www.gesetze-im-internet.de/partg/__25.html",
       "checked_on": "2026-09-14",
@@ -22,19 +27,44 @@
       "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/EN/2018/02/es20180227_2bve000116en.html",
       "checked_on": "2026-09-14",
       "supports": "Amtliche Leitsätze im Suchabruf geprüft: Urteil 27.02.2018, 2 BvE 1/16; staatliche Neutralität auch außerhalb des Wahlkampfs, abschreckende Veranstaltungsbewertung und kein allgemeines Gegenschlagsrecht. Deutscher Direktvolltextabruf gesperrt; keine Randnummernprüfung behauptet."
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2018/02/es20180227_2bve000116.html",
+      "checked_on": "2026-09-22",
+      "supports": "BVerfG, Urteil vom 27. Februar 2018, 2 BvE 1/16, Rn. 44 bis 69, Wanka: Amtliche Ressourcen und abschreckende parteiergreifende Veröffentlichung auch außerhalb des Wahlkampfs auf Chancengleichheit prüfen. Grenze: Sachliche Regierungserläuterung und private Parteibetätigung unterscheiden; keine generelle Neutralitätspflicht für Private oder ungeprüfte Gleichsetzung kommunaler Rollen. Amtliche tragende Gründe gelesen; keine Vollverifikation der gesamten Materie."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/partg/__25.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aktuelle Spendenannahme- und Veröffentlichungsvorgaben einschließlich 35000-EUR-Schwelle."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=oj:L_202400900",
+      "checked_on": "2026-09-22",
+      "supports": "Artikel 11/12: Kennzeichnung und Transparenz; Artikel 18/19: Datenherkunft, gesonderte ausdrückliche Einwilligung, Verbot sensibler Profilbildung und begrenzte Mitgliederausnahme; Artikel 30 Absatz 2: zeitliche Anwendung. Keine vollständige Prüfung späterer Durchführungsformate."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der Mini trennt Kampagnenrollen und Spendenschwellen sachgerecht; Nachforderung und anschließende Fertigstellung sowie operative Freigabe mussten deutlicher getrennt werden.",
+    "reason": "Am 23.09.2026 vollständig individuell nachgelesen: drei rechtliche Dokumentwege und stiller Dateieinstieg ergänzt; Kontoauszug beziehungsweise unbekannter Geldgeber verändern Meldungsentwurf und Annahmeprüfung. Wanka und EU-Artikel mit bisherigen Grenzen erhalten. Desk-Review, kein Live-Modelltest.",
     "changes": [
-      "Fehlende Herkunftsnachweise und Standortgenehmigungen gezielt nachfordern",
-      "Nach Antwort Annahmeprüfung oder Standortbewertung und bestellten Text aktualisieren",
-      "Rechtliche Empfehlung von tatsächlicher operativer Freigabe getrennt"
+      "Spendeneingang, Werbung und Amtsmitteleinsatz anhand Herkunfts- und Veröffentlichungsbelegen getrennt bearbeiten.",
+      "Wanka jetzt im deutschen amtlichen Volltext mit tragenden Randnummern statt englischem Suchhinweis geprüft.",
+      "Exakte Werbetransparenz- und Targetingartikel samt Profilingverbot und begrenzter Ausnahme ergänzt; Spendenschwellen am aktuellen Gesetz bestätigt.",
+      "40000-Euro-Eingang zur konkreten Anzeigevorlage fortgeführt; Rückleitung beim Eingang und Weiterleitung unzulässiger Spenden getrennt."
     ],
-    "sha256": "fc987e60e6e3dbaaa3a5627b90a9c52f17123721707c95232be60145017202d6"
+    "sha256": "3fb5c9c7c9a5ece3e3ec6049352ab1529645abd8de1cd75f2d853a1c1843ba37"
   },
-  "workshop_review": {"verdict":"revised","reason":"Ganztextprüfung zeigte doppelte allgemeine Routen trotz konkreter Spenden- und Neutralitätsabschnitte.","changes":["Finanzierung, Plakatierung, digitale Werbung, Amtsressourcen und Wahltag als getrennte Abläufe aufgebaut","Agenturverträge, Teamstatus und Beweisarchivierung ihren tatsächlichen Aufgaben zugeordnet","Unabhängige Aktionen weiterprüfen und nach Nachweisen Meldung oder Behördenantwort fertigstellen"],"sha256":"1838c6522c3621adead86c0cffcd174c62d7daac92c86cc13f68f4003ff2fd89"},
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Am 23.09.2026 vollständig individuell nachgelesen: Kontoeingang, widersprechender Geldgeber, beanstandeter Plakatstandort, fehlende Werbenachweise und nachgewiesener Amtskanal führen zu jeweils geänderten rechtlichen Dokumenten. Paragraf 25 PartG neu gelesen; vorhandene EU- und Wanka-Reichweite erhalten. Desk-Review, kein Live-Modelltest.",
+    "changes": [
+      "Wanka jetzt im deutschen amtlichen Volltext mit tragenden Randnummern statt englischem Suchhinweis geprüft.",
+      "Exakte Werbetransparenz- und Targetingartikel samt Profilingverbot und begrenzter Ausnahme ergänzt; Spendenschwellen am aktuellen Gesetz bestätigt.",
+      "Meldungs- und Herkunftsdialog, Standortantwort anhand Bescheid/Anlage und Änderung von Transparenzvermerk beziehungsweise Amtskanalbewertung konkret ausgearbeitet; keine politische Anspracheoptimierung."
+    ],
+    "sha256": "cabc97f7fdc924fb4dfebd4ec4ffab58006f2f7e236e8efad2e7a1653994297d"
+  },
   "selection": {
     "positive": [
       "Prüfe unseren Spendeneingang auf unverzügliche Meldung und Jahresausweis.",
@@ -156,5 +186,47 @@
         }
       ]
     }
-  ]
+  ],
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Spendenvermerk mit Anzeigeentwurf, rechtlichen Anzeigenprüfvermerk oder Behördenantwort zur Plakataktion anbieten.",
+      "Dateien: Spendenlog, Buchungsauftrag oder Standortbescheid still lesen; nur bei unklarem Ziel passende rechtliche Dokumente anbieten.",
+      "Klarer Auftrag: konkrete Meldung oder Aktionsprüfung sofort bearbeiten; nur entscheidende Herkunfts-, Rollen- oder Genehmigungslücken erfragen."
+    ],
+    "continuation": "Bestätigter Kontoeingang wird zur Anzeigevorlage; unbekannter Drittspender ändert Annahme- und Verwendungsvermerk; genehmigter Standort oder amtlicher Veröffentlichungskanal verändert die konkrete Behördenantwort beziehungsweise Unterlassungsbewertung.",
+    "enrichment": "Spendeneingang mit Empfangsablauf und Rechtsfolgen, Bescheid-/Standortabweichung, fehlende Sponsor- und Datenherkunftsnachweise sowie entlastende Tatsachen beim Amtskanal bis zum bestellten rechtlichen Text ausgearbeitet. Keine kampagnenstrategische Optimierung.",
+    "limits": "desk review; no live client execution"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "method": "desk_review",
+    "files": [
+      "wahlkampfrecht-praxis/README.md",
+      "wahlkampfrecht-praxis/wahlkampfrecht-praxis-werkstatt.md",
+      "wahlkampfrecht-praxis/wahlkampfrecht-praxis-schnellstart.md",
+      "quality/evals/wahlkampfrecht-praxis.json"
+    ],
+    "opening_change": "Spendeneingang, Werbung und Amtsmitteleinsatz anhand Herkunfts- und Veröffentlichungsbelegen getrennt bearbeiten.",
+    "norms": [
+      "Paragraf 25 Absatz 2 bis 4 und Paragraf 5 PartG",
+      "Artikel 21 Absatz 1 Satz 1 GG",
+      "Artikel 11, 12, 18, 19 und 30 Absatz 2 Verordnung (EU) 2024/900",
+      "Artikel 6 und 9 DSGVO"
+    ],
+    "decisions": [
+      {
+        "citation": "BVerfG, Urteil vom 27. Februar 2018, 2 BvE 1/16, Rn. 44 bis 69, Wanka",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2018/02/es20180227_2bve000116.html",
+        "application": "Amtliche Ressourcen und abschreckende parteiergreifende Veröffentlichung auch außerhalb des Wahlkampfs auf Chancengleichheit prüfen.",
+        "limit": "Sachliche Regierungserläuterung und private Parteibetätigung unterscheiden; keine generelle Neutralitätspflicht für Private oder ungeprüfte Gleichsetzung kommunaler Rollen."
+      }
+    ],
+    "remaining_limits": [
+      "Paragraf 25 PartG, Wanka und bezeichnete EU-Artikel geprüft; örtliche Sondernutzungsregeln, Landeswahlrecht, Durchführungsformate und Plattformangebote nicht vollständig verifiziert.",
+      "Desk-/Quellenreview, kein Live-Kampagnen- oder Modelltest.",
+      "Workflow-Erweiterung 23.09.2026: Paragraf 25 PartG erneut amtlich gelesen. EUR-Lex lieferte zunächst einen amtlichen Texteinstieg, anschließende Artikel- und PDF-Abrufe aber nur eine JavaScript-/Robot-Prüfung; keine erneute Detailverifikation der erhaltenen Artikel 11, 12, 18 und 19 oder neuer Durchführungsformate behauptet. Wanka nicht erneut im Volltext geprüft."
+    ]
+  }
 }

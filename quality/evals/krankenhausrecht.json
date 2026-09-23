@@ -1,21 +1,40 @@
 {
   "schema_version": 1,
   "plugin": "krankenhausrecht",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/khg/__8.html",
       "checked_on": "2026-09-14",
       "supports": "Absatz 1: Fördervoraussetzungen, bei Investitionen nach Paragraf 9 Absatz 1 Nummer 1 zusätzlich Investitionsprogramm; Planfeststellung und Förderung nicht gleichsetzen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/khg/__8.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aktueller amtlicher Normtext zur Prüfung: Paragraf 8 KHG; Paragraf 109 SGB V. Keine Gesamtverifikation sämtlicher Nebenmaterien."
+    },
+    {
+      "url": "https://www.bverwg.de/140411U3C17.10.0",
+      "checked_on": "2026-09-22",
+      "supports": "BVerwG, Urteil vom 14.04.2011, 3 C 17.10: Versorgungsvertrag bindet die Krankenhausplanung nicht automatisch; eigenen Aufnahmeanspruch nach Planungsmaßstäben prüfen. Grenze/Prüftiefe: Volltext Rn. 12 bis 23; keine Entscheidung über heutige Leistungsgruppen oder konkrete Förderhöhe."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/khg/__8.html",
+      "checked_on": "2026-09-23",
+      "supports": "Erneut gelesen: Planaufnahme, Investitionsprogramm und Förderentscheidung bleiben getrennte Grundlagen. Neue Betragsbeispiele sind ausdrücklich Rechenfälle, keine Förderquote oder Zusage."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der vollständige Mini wurde auf Planaufnahme, Förderstatus und belegte Finanzierungslücke geprüft.",
+    "reason": "2026-09-23: Individuell vollständig gelesen und fachbezogen erweitert. Leerer Eingang, stille Dateisichtung und direkte Auftragsbearbeitung ausdrücklich getrennt; generische Fortsetzungsprosa durch Förderbescheid -> finanzierung.md ersetzt. Desk-Review; kein Live-Client- oder Modelltest.",
     "changes": [
-      "Fehlende Plananlagen, Personal- oder Kostenangaben gezielt klären und danach das gewünschte Schreiben vervollständigen."
+      "Versorgungsvertrag von Planaufnahme und Investitionsbewilligung getrennt; Neubau-Finanzierung bleibt mit belegter Lücke statt erwarteter Förderquote.",
+      "Kernfall mit operativem Entscheidungsanker, gezielten Nachfragen und Fortsetzung zum vollständigen angeforderten Dokument.",
+      "Leerer Eingang, stille Dateisichtung und direkte Auftragsbearbeitung ausdrücklich getrennt; generische Fortsetzungsprosa durch Förderbescheid -> finanzierung.md ersetzt."
     ],
-    "sha256": "9660526780bfaa97477a3fe57c4fbec59f27aa5af8b89cf96ec1919e8adf712c"
+    "sha256": "d3526044645ac74d7ed7320e9d7df1fdd3569bd8430c3a094ffd764b0a6f829b",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
   },
   "selection": {
     "positive": [
@@ -63,10 +82,53 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die ganze Werkstatt wurde einschließlich Budget, Pflege, Notfall, Qualität und Patientenschnittstellen gelesen.",
+    "reason": "2026-09-23: Individuell vollständig gelesen und fachbezogen erweitert. Planungsnachweise nach Standort und Zeitpunkt, Bewilligung gegenüber Bauzahlungsplan, Kostenüberleitung und konkrete MD-Kürzungsgründe vertieft. Desk-Review; kein Live-Client- oder Modelltest.",
     "changes": [
-      "Pflegebudget und Sicherstellungszuschläge zutreffend zugeordnet; pauschale Finanzierungs- und Aufbewahrungsbehauptungen entfernt."
+      "Versorgungsvertrag von Planaufnahme und Investitionsbewilligung getrennt; Neubau-Finanzierung bleibt mit belegter Lücke statt erwarteter Förderquote.",
+      "Vorhandene Fachzweige, Beispiele und Zugriffsalternativen erhalten; schwache Rechtsprechungshinweise entfernt oder auf belegte Reichweite begrenzt.",
+      "Planungsnachweise nach Standort und Zeitpunkt, Bewilligung gegenüber Bauzahlungsplan, Kostenüberleitung und konkrete MD-Kürzungsgründe vertieft."
     ],
-    "sha256": "b2766fe2ccb7fcfcdf9d3902cb95f9c370852be13a3c2bbd5a662a73a8da9e9a"
+    "sha256": "2d03c4903be849b1c8b03692e2e0f18051ffbb2191278929ddec2226b3f773c2",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "krankenhausrecht/README.md",
+      "krankenhausrecht/krankenhausrecht-werkstatt.md",
+      "krankenhausrecht/krankenhausrecht-schnellstart.md",
+      "quality/evals/krankenhausrecht.json"
+    ],
+    "opening_change": "Planstatus, Förderentscheidung und tatsächliche Finanzierung des Standorts auseinanderhalten",
+    "norms": [
+      "Paragraf 8 KHG",
+      "Paragraf 109 SGB V"
+    ],
+    "decisions": [
+      {
+        "citation": "BVerwG, Urteil vom 14.04.2011, 3 C 17.10",
+        "url": "https://www.bverwg.de/140411U3C17.10.0",
+        "application": "Versorgungsvertrag bindet die Krankenhausplanung nicht automatisch; eigenen Aufnahmeanspruch nach Planungsmaßstäben prüfen.",
+        "limit": "Volltext Rn. 12 bis 23; keine Entscheidung über heutige Leistungsgruppen oder konkrete Förderhöhe."
+      }
+    ],
+    "remaining_limits": [
+      "Desk- und Quellenprüfung, kein Live-Client- oder Modelltest; übrige Fachzweige nicht vollständig rechtlich neu verifiziert.",
+      "Volltext Rn. 12 bis 23; keine Entscheidung über heutige Leistungsgruppen oder konkrete Förderhöhe.",
+      "2026-09-23: Workflow-Desk-Review. Bestehende Profilquellen Paragraf 8 KHG und BVerwG 3 C 17.10 erneut geöffnet; tragende Auszüge zur eigenständigen Planungsentscheidung gelesen. Keine neue Vollprüfung der Krankenhausreform, konkreter Leistungsgruppen, Förderprogramme oder PrüfvV-Fassungen; kein Live-Client-Test."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Planungsentscheidung, Baufinanzierung oder Budget-/Abrechnungsstreit wählen.",
+      "Dateien ohne Auftrag: Bescheide und Abrechnung still lesen; nur das gewünschte Arbeitsprodukt erfragen.",
+      "Klarer Auftrag: Standort, Budgetjahr und Streitposition aus vorhandenen Unterlagen übernehmen und direkt Entwurf oder Prüfung liefern."
+    ],
+    "continuation": "Förderbescheid verändert in finanzierung.md Deckung und Abruf; Befund oder Empfangsbeleg verändert in md-erwiderung.md die konkrete Kürzung, Anlagen und Restforderung. Nutzerpfad geht vor.",
+    "enrichment": "Standortbezogener Personal- und Kooperationsnachweis, Ausbauabsicht gegenüber verfügbarer Struktur, Förderlücke mit 12/4/6 Millionen Euro und Zwischenfinanzierung, Personal-Doppelansätze sowie erbrachte, dokumentierte und rechtzeitig übermittelte Leistung getrennt.",
+    "limits": "desk review; no live client execution"
   }
 }

@@ -3,6 +3,7 @@
 
 import importlib.util
 import io
+import json
 from pathlib import Path
 import re
 import tempfile
@@ -17,7 +18,7 @@ from testakte_einzelpdf_common import expected_arcnames
 ROOT = Path(__file__).resolve().parent.parent
 PLUGIN = ROOT / 'notariat-alltag'
 CASES = ["notariat-bautraegerkauf-parkhof-potsdam","notariat-grundschuld-bankauftrag-erfurt","notariat-unterschriftsbeglaubigung-hannover","notariat-gmbh-gruendung-rostock","notariat-kapitalerhoehung-geschaeftsfuehrer-ulm","notariat-anteilsuebertragung-verpfaendung-bremen"]
-CORE = ["kaltstart-triage","notariat-002-beurkundung-ubeglaubigung-richtig-einordnen","notariat-023-identitaetspruefung-videoident-praesenztermin","gmbh-gruendung-gesellschafterliste","notariat-032-kapitalerhoehung-bar-sache-bezugsrecht","notariat-006-hr-anmeldung-gf-bestellung-abberufung-vertretung","gmbh-anteile-uebertragen-verpfaenden","bautraegervertrag-mabv-familiengesellschaft","grundschuld-buchgrundschuld-treuhand","qualitaetsgate-signatur-notarielle"]
+CORE = ["kaltstart-triage","formweg-beurkundung-beglaubigung","beteiligte-identitaet-vertretung","gmbh-gruendung-gesellschafterliste","kapitalerhoehung-beschluss-register","geschaeftsfuehrer-bestellung-register","gmbh-anteile-uebertragen-verpfaenden","bautraegervertrag-mabv-familiengesellschaft","grundschuld-buchgrundschuld-treuhand","urkundenmappe-zur-freigabe"]
 
 
 def staff_boundary_present(text):
@@ -73,11 +74,31 @@ class NotariatswerkstattTests(unittest.TestCase):
                 self.assertIn('notariellen Prüfung', text)
                 if kind == 'schnellstart':
                     self.assertLess(len(text.encode('utf-8')), 7500)
-        legacy = (PLUGIN / 'skills/002-beurkundung-oder-unterschriftsbeglaubigung-richtig/SKILL.md').read_text(encoding='utf-8')
-        self.assertNotIn('403 ZPO', legacy)
-        self.assertNotIn('Einigungserklärung: Beurkundung nötig', legacy)
+        form = (PLUGIN / 'skills/formweg-beurkundung-beglaubigung/SKILL.md').read_text(encoding='utf-8')
+        self.assertNotIn('403 ZPO', form)
+        self.assertNotIn('Einigungserklärung: Beurkundung nötig', form)
         entry = (PLUGIN / 'skills/kaltstart-triage/SKILL.md').read_text(encoding='utf-8')
         self.assertIn('nur den einen', entry)
+
+    def test_twenty_skills_have_one_coordinating_entry_and_valid_handoffs(self):
+        paths = sorted((PLUGIN / 'skills').glob('*/SKILL.md'))
+        self.assertEqual(len(paths), 20)
+        entry = (PLUGIN / 'skills/kaltstart-triage/SKILL.md').read_text(encoding='utf-8')
+        self.assertIn('Hauptworkflow', entry)
+        for path in paths:
+            if path.parent.name != 'kaltstart-triage':
+                self.assertIn(path.parent.name, entry)
+            for target in re.findall(r'\]\(([^)]+)\)', path.read_text(encoding='utf-8')):
+                if '://' not in target and not target.startswith('#'):
+                    self.assertTrue((path.parent / target.partition('#')[0]).is_file(), (path, target))
+
+    def test_seven_native_cases_are_covered_by_separate_evaluation_requests(self):
+        profile = json.loads((ROOT / 'quality/evals/notariat-alltag.json').read_text(encoding='utf-8'))
+        paths = [item for case in profile['cases'] for item in case['input_files']]
+        for slug in CASES + ['notariat-alltag-waldwinkel-gmbh-immobilien-erbfall']:
+            self.assertTrue(any(f'testakten/{slug}/' in item for item in paths), slug)
+        for path in paths:
+            self.assertTrue((ROOT / path).is_file(), path)
 
     def test_staff_boundary_requires_reservation_not_just_role_name(self):
         valid = "Mitarbeiter bereiten Entwürfe zur notariellen Prüfung vor. Persönliche Amtshandlungen und notarielle Freigaben bleiben beim Notar."

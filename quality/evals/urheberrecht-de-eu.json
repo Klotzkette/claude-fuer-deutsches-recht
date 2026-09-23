@@ -1,29 +1,136 @@
 {
   "schema_version": 1,
   "plugin": "urheberrecht-de-eu",
-  "reviewed_on": "2026-09-17",
-  "sources": [{"url": "https://www.gesetze-im-internet.de/urhg/__51.html", "checked_on": "2026-09-14", "supports": "Geöffneter amtlicher Volltext: veröffentlichtes Werk, Zitatzweck und durch diesen gerechtfertigter Umfang statt allgemeiner Prozentfreigabe."}],
+  "reviewed_on": "2026-09-23",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/__31.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlicher Volltext gelesen: beschränkte Nutzungsrechte und Vertragszweck bei nicht einzeln bezeichneten Nutzungsarten; angewandt auf Print-, Online- und Weitergabeklauseln."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/__97.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlicher Volltext gelesen: Unterlassung und Schadensersatz getrennt; konkrete Schadens-, Gewinn- und Lizenzbemessung, keine pauschal erfundenen Beträge."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/__51.html",
+      "checked_on": "2026-09-14",
+      "supports": "Geöffneter amtlicher Volltext: veröffentlichtes Werk, Zitatzweck und durch diesen gerechtfertigter Umfang statt allgemeiner Prozentfreigabe."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62017CJ0516",
+      "checked_on": "2026-09-22",
+      "supports": "EuGH, Urteil vom 29.07.2019, Az. C-516/17, Spiegel Online, Randnummern 78 bis 87. Anwendung: Zitatzweck anhand enger geistiger Verbindung zu eigenen Ausführungen und verhältnismäßigem Umfang bestimmen. Grenze und Prüfzugang: Verlinkte Datei kann zitierfähig sein, aber nicht jede Verlinkung oder werbliche Dekoration ist Zitat; keine feste Wortzahl."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/__51.html",
+      "checked_on": "2026-09-22",
+      "supports": "Eigenständiger Zitatzweck und durch ihn gerechtfertigter Umfang."
+    }
+  ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Schutzgegenstand und Zitatprüfung sind konkret, der Ein-Frage-Deckel konnte aber die Klärung einer unvollständigen Rechtekette vorzeitig beenden.",
-    "changes": ["Gezielte Klärung einzelner Rechtekettenglieder mit erneuter Nutzungsbewertung verbunden", "Bestellten Brief oder Vertrag nach Antwort fertigstellen", "Interne Quellenprüfung und Dateinamen vom Empfängertext getrennt"],
-    "sha256": "adf269d7f9338f1689ebadbd9fd50f778706aff964f6d23cf0aa0237337d2e5b"
-  },
-  "workshop_review": {"verdict":"revised","reason":"Ganztextprüfung zeigte wiederholte Anspruchstabellen, markenrechtliche Nichtbenutzung und starre Rückfragegrenzen.","changes":["Schutz, Rechtekette, Nutzung, Schranken und Rechtsfolgen als zusammenhängenden Ablauf aufgebaut","Software, Musik, Sampling, Vergütung und System-Klauseln in die jeweilige Fachprüfung eingeordnet","Fortsetzung bei fehlender Unterlizenz bis zum bestellten Dokument ausdrücklich geregelt"],"sha256":"ced4b3c45fe56639f0470ac86c4e6f2936b418adae0fa227131072edada463e2"},
-  "selection": {
-    "positive": ["Prüfe die fremden Textauszüge in unserer Rezension auf einen tragfähigen Zitatzweck.", "Ordne für unseren Upload Nutzungsrechte, Lizenzkette und mögliche Schranken zu."],
-    "negative": ["Prüfe die Nichtbenutzungseinrede gegen eine eingetragene Marke.", "Bereite ausschließlich die Registrierung eines US-Werks beim dortigen Copyright Office vor."]
-  },
-  "cases": [{
-    "id": "rezension-versus-dekorationszitat",
-    "request": "Schreibe ergebnis.md als Freigabevermerk für zwei geplante Nutzungen eines veröffentlichten Romans. Eine Lizenz liegt nicht vor. Die Urheberschaft und Schutzfähigkeit sind unstreitig. In einer eigenständigen 1.200 Wörter langen Rezension werden zwei Sätze mit insgesamt 38 Wörtern aus Seite 87 angeführt und anschließend deren besondere Erzählperspektive in drei Absätzen analysiert. Autor, Titel, Verlag, Erscheinungsjahr und Seite stehen direkt darunter. Daneben soll derselbe Auszug unverändert als dekorativer Werbebanner für unser Buchhandelsabonnement erscheinen; dort gibt es nur eine Quellenangabe und den Kaufknopf, keine inhaltliche Auseinandersetzung. Die verantwortliche Redaktion meint, weniger als 50 Wörter seien stets erlaubt. Bitte bewerte beide Nutzungen getrennt und benenne praktikable Alternativen. Es gibt keine weiteren Unterlagen.",
-    "input_files": [],
-    "deliverables": ["ergebnis.md"],
-    "criteria": [
-      {"id": "C01", "text": "Das Ergebnis lehnt eine allgemeine 50-Wörter-Freigabe ab und prüft Zweck sowie erforderlichen Umfang der konkreten Übernahme.", "deliverables": ["ergebnis.md"]},
-      {"id": "C02", "text": "Die analytische Einbindung in die Rezension wird von der rein dekorativen Werbenutzung unterschieden; die Quellenangabe allein trägt keine Freigabe des Banners.", "deliverables": ["ergebnis.md"]},
-      {"id": "C03", "text": "Der Vermerk nennt Lizenzklärung oder eine Gestaltung ohne den fremden Text als Alternative für den Banner und behauptet weder einen bereits erteilten Lizenzkonsens noch eine eigene Veröffentlichung.", "deliverables": ["ergebnis.md"]}
+    "reason": "Zitat verlangt inhaltliche Auseinandersetzung und angemessenen Umfang, nicht bloß Quellenangabe oder eine feste Wortzahl. Am 23. September vollständig erneut gelesen: drei Dokumenteinstiege, nachgereichte redaktionelle Analyse und Print-/Online-Nachtrag in konkrete Textänderungen überführt; unter 7500 Bytes und Zeichen.",
+    "changes": [
+      "Spiegel Online auf geistige Verbindung zwischen Zitat und eigenen Ausführungen angewandt",
+      "Schrankenprüfung von Rechtsinhaberschaft und Namensnennung getrennt",
+      "Allgemeine Fallliste entfernt und gerichtsfeste Begründung des verlangten Dokuments gestärkt",
+      "Redaktionelle Antwort verändert Freigabevermerk oder Lizenzanfrage; neuer Vertragsbeleg verändert nur tatsächlich gedeckte Nutzung und Forderungen."
     ],
-    "target_skill": "schranken-zitat-unterricht"
-  }]
+    "sha256": "1f69e79b8c088aae96b5b2a4a01001de218a24c02c2be672c7170b647456e062"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Werk, Lizenz, Schranke, Beweis und Anspruch getrennt; Software, Sampling, Text- und Data-Mining und Bilder bleiben eigene Zweige. Am 23. September vollständig erneut gelesen: Kampagnenlizenz, Rezension/Banner und Bildabmahnung mit Belegen, Gegenargumenten und vollständigen Anschlussdokumenten ausgebaut.",
+    "changes": [
+      "Spiegel Online auf geistige Verbindung zwischen Zitat und eigenen Ausführungen angewandt",
+      "Schrankenprüfung von Rechtsinhaberschaft und Namensnennung getrennt",
+      "Allgemeine Fallliste entfernt und gerichtsfeste Begründung des verlangten Dokuments gestärkt",
+      "Briefing und Nachtrag steuern Lizenzergänzung; geänderte Analyse steuert fassungsbezogene Freigabe; Screenshot, Nutzungsdauer und Lizenznachweis steuern Abmahnungsantwort und Geldberechnung."
+    ],
+    "sha256": "8767d075eae808dd3ebc5c59f7594d352c79f2e0868a0b43fade73f44576dc0d"
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Freigabevermerk für eine Veröffentlichung, Lizenzklausel oder Abmahnungsantwort anbieten.",
+      "Dateien ohne Aufgabe: Originale, Verträge und Nutzungsbelege still lesen; nur bei unklarem Ziel passende Dokumentwege anbieten.",
+      "Klarer Auftrag: sofort entwerfen und nur entscheidende Lücken zu Ausschnitt, Rechtekette oder Nutzung klären."
+    ],
+    "continuation": "Neue redaktionelle Analyse -> fassungsbezogener Freigabevermerk; Print-/Online-Nachtrag -> geänderte Lizenzklausel; Nutzungsbeleg -> korrigierte Abmahnungsantwort und Berechnung.",
+    "enrichment": "Konkrete Kampagnenrechte nach Vertragszweck, Rezension versus Werbebanner, getrennte Musikrechte und Bildabmahnung mit belastenden Screenshots, alternativen Schadenswegen und Fristreaktion.",
+    "limits": "desk review; no live client execution"
+  },
+  "selection": {
+    "positive": [
+      "Prüfe die fremden Textauszüge in unserer Rezension auf einen tragfähigen Zitatzweck.",
+      "Ordne für unseren Upload Nutzungsrechte, Lizenzkette und mögliche Schranken zu."
+    ],
+    "negative": [
+      "Prüfe die Nichtbenutzungseinrede gegen eine eingetragene Marke.",
+      "Bereite ausschließlich die Registrierung eines US-Werks beim dortigen Copyright Office vor."
+    ]
+  },
+  "cases": [
+    {
+      "id": "rezension-versus-dekorationszitat",
+      "request": "Schreibe ergebnis.md als Freigabevermerk für zwei geplante Nutzungen eines veröffentlichten Romans. Eine Lizenz liegt nicht vor. Die Urheberschaft und Schutzfähigkeit sind unstreitig. In einer eigenständigen 1.200 Wörter langen Rezension werden zwei Sätze mit insgesamt 38 Wörtern aus Seite 87 angeführt und anschließend deren besondere Erzählperspektive in drei Absätzen analysiert. Autor, Titel, Verlag, Erscheinungsjahr und Seite stehen direkt darunter. Daneben soll derselbe Auszug unverändert als dekorativer Werbebanner für unser Buchhandelsabonnement erscheinen; dort gibt es nur eine Quellenangabe und den Kaufknopf, keine inhaltliche Auseinandersetzung. Die verantwortliche Redaktion meint, weniger als 50 Wörter seien stets erlaubt. Bitte bewerte beide Nutzungen getrennt und benenne praktikable Alternativen. Es gibt keine weiteren Unterlagen.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Das Ergebnis lehnt eine allgemeine 50-Wörter-Freigabe ab und prüft Zweck sowie erforderlichen Umfang der konkreten Übernahme.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die analytische Einbindung in die Rezension wird von der rein dekorativen Werbenutzung unterschieden; die Quellenangabe allein trägt keine Freigabe des Banners.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Der Vermerk nennt Lizenzklärung oder eine Gestaltung ohne den fremden Text als Alternative für den Banner und behauptet weder einen bereits erteilten Lizenzkonsens noch eine eigene Veröffentlichung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "schranken-zitat-unterricht"
+    }
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "urheberrecht-de-eu/urheberrecht-de-eu-schnellstart.md",
+      "urheberrecht-de-eu/urheberrecht-de-eu-werkstatt.md",
+      "urheberrecht-de-eu/README.md",
+      "quality/evals/urheberrecht-de-eu.json"
+    ],
+    "opening_change": "Original, konkrete Nutzung und eingeräumte Rechte vergleichen; Rezension und dekorative Werbeübernahme unterscheiden.",
+    "norms": [
+      "Paragrafen 31, 51, 62 und 63 UrhG",
+      "Artikel 5 Absatz 3 Buchstabe d und Absatz 5 Richtlinie 2001/29/EG"
+    ],
+    "decisions": [
+      {
+        "citation": "EuGH, Urteil vom 29.07.2019, Az. C-516/17, Spiegel Online, Randnummern 78 bis 87",
+        "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62017CJ0516",
+        "application": "Zitatzweck anhand enger geistiger Verbindung zu eigenen Ausführungen und verhältnismäßigem Umfang bestimmen.",
+        "limit": "Verlinkte Datei kann zitierfähig sein, aber nicht jede Verlinkung oder werbliche Dekoration ist Zitat; keine feste Wortzahl."
+      }
+    ],
+    "remaining_limits": [
+      "Desk-/Quellenprüfung, kein Live-Ergebnistest.",
+      "KI-, Sampling- und Plattformrecht nicht vollständig neu judikaturgeprüft."
+    ]
+  }
 }

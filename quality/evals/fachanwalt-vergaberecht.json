@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "fachanwalt-vergaberecht",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/gwb/__127.html",
@@ -32,26 +32,101 @@
       "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2017-4-4&Gericht=bgh&anz=18&nr=78215&pos=16",
       "checked_on": "2026-09-14",
       "supports": "BGH, Beschluss vom 04.04.2017, Az. X ZB 3/17: amtlich indexierte Leitsätze zur Notenwertung und Dokumentation geprüft; direkter Volltextabruf gescheitert, keine Randnummer behauptet."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/X_ZS/2017/X_ZB___3-17.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-23",
+      "supports": "Amtliches 24-seitiges PDF vollständig gelesen. Randnummern 39–48 zur Zulässigkeit des Notenmodells bei verständlichen Anforderungen; vorsorgliche Hinweise 50–53 zur Dokumentation und Vergleichskontrolle. Besondere Komplexität ausdrücklich offengelassen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwb/__127.html",
+      "checked_on": "2026-09-23",
+      "supports": "Aktuellen amtlichen Volltext gelesen: Bestimmte, überprüfbare Kriterien und veröffentlichte Gewichtung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vgv_2016/__8.html",
+      "checked_on": "2026-09-23",
+      "supports": "Aktuellen amtlichen Volltext gelesen: Fortlaufende Dokumentation einschließlich Auswahl- und Zuschlagsgründen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vgv_2016/__58.html",
+      "checked_on": "2026-09-23",
+      "supports": "Aktuellen amtlichen Volltext gelesen: Qualitätskriterien, Personalbezug und Festpreisfall."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vgv_2016/__56.html",
+      "checked_on": "2026-09-23",
+      "supports": "Aktuellen amtlichen Volltext gelesen: Nachforderungsermessen und Ausschluss wertungsrelevanter leistungsbezogener Unterlagen samt enger Preis-Ausnahme."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwb/__134.html",
+      "checked_on": "2026-09-23",
+      "supports": "Aktuellen amtlichen Volltext gelesen: Absendungsbezogene Wartefrist und Ausnahmen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwb/__160.html",
+      "checked_on": "2026-09-23",
+      "supports": "Aktuellen amtlichen Volltext gelesen: Kenntnis-/Erkennbarkeitsrüge und Nichtabhilfefrist, aktueller Gesamttext."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwb/__169.html",
+      "checked_on": "2026-09-23",
+      "supports": "Aktuellen amtlichen Volltext gelesen: Aktueller Absatz 1 Satz 2: Ende beim Obsiegen des Auftraggebers bereits mit Bekanntgabe; Ausnahmen und weitere Absätze gelesen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwb/__173.html",
+      "checked_on": "2026-09-23",
+      "supports": "Aktuellen amtlichen Volltext gelesen: Aktuell keine aufschiebende Wirkung der Beschwerde bei Ablehnung; keine alte Fortwirkungszusage."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwb/__172.html",
+      "checked_on": "2026-09-23",
+      "supports": "Aktuellen amtlichen Volltext gelesen: Zweiwochen-Notfrist und gleichzeitige Beschwerdebegründung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwb/__135.html",
+      "checked_on": "2026-09-23",
+      "supports": "Aktuellen amtlichen Volltext gelesen: Informations- und Bekanntmachungsfristen, Sechsmonatsgrenze, aktueller Absatz 4 mit begrenzter Ausnahme und alternativen Sanktionen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwb/__132.html",
+      "checked_on": "2026-09-23",
+      "supports": "Aktuellen amtlichen Volltext gelesen: Wesentliche Änderungen, Options-/Zusatzbedarfstatbestände, bedingte 50-Prozent-Grenze, kumulative Bagatellgrenzen und Bekanntmachung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vgv_2016/__56.html",
+      "supports": "Erneuter Normabruf zur Nachforderung, zum Ausschluss wertungsrelevanter leistungsbezogener Unterlagen, zur engen Preis-Ausnahme und zur kalenderbestimmten Frist.",
+      "checked_on": "2026-09-23"
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Mini und Wertungsfokuspaar wurden vollständig auf Kriterien, Punkteberechnung und Rangfolge geprüft.",
+    "reason": "Mini vollständig gelesen; abstrakte Bearbeitungsroute durch anwendungsbezogene Wertungsprüfung ersetzt, BGH-Anker in den Bewertungsablauf eingebunden und Rechtsschutzmechanismen präzisiert. Workflow-Ergänzung einzeln geprüft: Seite mit Zusage war nicht Bestandteil des fristgerechten Angebots -> Tatsachengrundlage, Nachforderungsprüfung und Rüge ändern, nicht einfach höhere Note beanspruchen.",
     "changes": [
-      "Fehlende Wertungsunterlagen gezielt nachfordern und danach Punkte, Rang und bestellte Rüge oder Beratung aktualisieren."
+      "BGH X ZB 3/17 jetzt anhand des vollständigen amtlichen PDFs überprüft; Randnummern 39–48 und Hinweise 50–53 mit Anwendung und offener Komplexitätsgrenze in drei Prompts und Fokus-Skill.",
+      "Interne Materialnachforderung von Paragraf 56 Absatz 3 VgV getrennt; Hauptproblem um nachgerechnetes 84,00/86,55/bedingt 92,00-Punkte-Beispiel ergänzt.",
+      "Aktuelle Paragrafen 134, 160, 169 und 173 GWB abgeglichen; keine Zusage fortdauernden Zuschlagsschutzes nach Obsiegen des Auftraggebers.",
+      "Werkstatt differenziert Paragraf 132 GWB statt pauschaler Nachtragsfreigrenze; ungeprüfte historische Entscheidungsliste entfernt.",
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
     ],
-    "sha256": "16730da68054ce449a47445371b7dfa79561c4fabc35ca757a0cf75ea3496ce4"
+    "sha256": "b1ea5ddd4c7f043dac767f67bd93444c17569db13b6e19caec028ac2be85d6a4"
   },
   "focus_review": {
-    "reviewed_on": "2026-09-17",
+    "reviewed_on": "2026-09-23",
     "method": "desk_review",
-    "verdict": "retained",
-    "reason": "Standalone-Prompt und zugeordneter Fokus-Skill vollständig auf fachlichen Umfang, Rückfragen mit Fortsetzung bis zum bestellten Dokument, Ausgabeverhalten, Rollenbegrenzung und Quellendifferenzierung gelesen. Kein Live-Modelltest und keine erneute Vollverifikation der bestehenden Rechtsquellen.",
-    "changes": [],
+    "verdict": "revised",
+    "reason": "Hauptproblem und zugeordneter Skill vollständig gelesen und konsistent überarbeitet: bedingter Rangwechsel, vorhandene Zusage versus Konzeptnachbesserung, amtlich volltextverifizierte Notenentscheidung und zeitlich passende Zuschlagssicherung. Workflow-Ergänzung: Seite mit Zusage war nicht Bestandteil des fristgerechten Angebots -> Tatsachengrundlage, Nachforderungsprüfung und Rüge ändern, nicht einfach höhere Note beanspruchen. Zugeordneten Fokus-Skill auf Kohärenz gelesen und unverändert belassen.",
+    "changes": [
+      "BGH X ZB 3/17 jetzt anhand des vollständigen amtlichen PDFs überprüft; Randnummern 39–48 und Hinweise 50–53 mit Anwendung und offener Komplexitätsgrenze in drei Prompts und Fokus-Skill.",
+      "Interne Materialnachforderung von Paragraf 56 Absatz 3 VgV getrennt; Hauptproblem um nachgerechnetes 84,00/86,55/bedingt 92,00-Punkte-Beispiel ergänzt.",
+      "Aktuelle Paragrafen 134, 160, 169 und 173 GWB abgeglichen; keine Zusage fortdauernden Zuschlagsschutzes nach Obsiegen des Auftraggebers.",
+      "Werkstatt differenziert Paragraf 132 GWB statt pauschaler Nachtragsfreigrenze; ungeprüfte historische Entscheidungsliste entfernt.",
+      "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten."
+    ],
     "prompt_path": "fachanwalt-vergaberecht/fachanwalt-vergaberecht-hauptproblem.md",
-    "prompt_sha256": "31eb777e9d83c468c9f63c29c59788a85d57667c46b01d3f4c8dd9bf86013afa",
+    "prompt_sha256": "12a66e3269643bed0147a945ec2987d3d053fe365fdf1ade497755b115b9b0a8",
     "skill_path": "fachanwalt-vergaberecht/skills/angebotswertung-punktespiegel-rangfolgenkontrolle/SKILL.md",
-    "skill_sha256": "0c42f7a9570546325c961f1c4a22fa402e8101cad714eab182b0052dc98e7e46"
+    "skill_sha256": "f4350cfee4aa775c5860108759150b24ccadd7773c4201dd0d6ef648dd09c6f7"
   },
   "selection": {
     "positive": [
@@ -107,10 +182,57 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die ganze Werkstatt wurde auf Bieter- und Auftraggeberrollen sowie Rechtsschutzwege gelesen.",
+    "reason": "Gesamte Werkstatt mit Eignung, Aufklärung, Wertung, Rechtsschutz, Sondervergaben und Vertragsfolgen gelesen; Nachforderung, dokumentierter Vergleich, aktuelle Rechtsbehelfsfolgen und Vertragsänderungsgrenzen konkretisiert. Workflow-Ergänzung einzeln geprüft: Abgabenachweis gegenüber Arbeitskopie, Eignungsnachweis gegenüber wertungsrelevantem Konzept, Originalrechnung und bedingte Neubewertung, konkrete Abhilfe, Geheimschutz und Ausgangsoption bei Vertragsänderung.",
     "changes": [
-      "Rüge, Informations- und Wartefristen getrennt; Inhouse- und Registerfragen nur passend zum tatsächlichen Vorgang behandelt."
+      "BGH X ZB 3/17 jetzt anhand des vollständigen amtlichen PDFs überprüft; Randnummern 39–48 und Hinweise 50–53 mit Anwendung und offener Komplexitätsgrenze in drei Prompts und Fokus-Skill.",
+      "Interne Materialnachforderung von Paragraf 56 Absatz 3 VgV getrennt; Hauptproblem um nachgerechnetes 84,00/86,55/bedingt 92,00-Punkte-Beispiel ergänzt.",
+      "Aktuelle Paragrafen 134, 160, 169 und 173 GWB abgeglichen; keine Zusage fortdauernden Zuschlagsschutzes nach Obsiegen des Auftraggebers.",
+      "Werkstatt differenziert Paragraf 132 GWB statt pauschaler Nachtragsfreigrenze; ungeprüfte historische Entscheidungsliste entfernt.",
+      "Abgabenachweis gegenüber Arbeitskopie, Eignungsnachweis gegenüber wertungsrelevantem Konzept, Originalrechnung und bedingte Neubewertung, konkrete Abhilfe, Geheimschutz und Ausgangsoption bei Vertragsänderung."
     ],
-    "sha256": "9c01f505c9cc763045f262994c5c59eb05b7b486d64e6622437e2ce41391f341"
+    "sha256": "1cb6b9adebf7389ef42cbf378cae21d9659ea721bcf27d073c5936bb127c6174"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-23",
+    "files": [
+      "fachanwalt-vergaberecht/README.md",
+      "fachanwalt-vergaberecht/fachanwalt-vergaberecht-schnellstart.md",
+      "fachanwalt-vergaberecht/fachanwalt-vergaberecht-werkstatt.md",
+      "fachanwalt-vergaberecht/fachanwalt-vergaberecht-hauptproblem.md",
+      "fachanwalt-vergaberecht/skills/angebotswertung-punktespiegel-rangfolgenkontrolle/SKILL.md",
+      "quality/evals/fachanwalt-vergaberecht.json"
+    ],
+    "opening_change": "Beanstandete Ausschreibungsanforderung und dokumentierte Zuschlagswertung konkret benannt; Hauptproblem auf Rechen-/Tatsachenfehler gegenüber vertretbarer Bewertung ausgerichtet. Workflow-Ergänzung: Leer: Unterlagenrüge, Wertungsprüfung oder Auftraggeberkorrektur anbieten. Dateien ohne Aufgabe: Kriterienfassungen, Angebot und Wertung still lesen; Rüge-, Nachrechnungs- oder Korrekturziel klären. Klarer Auftrag: bestelltes Dokument unmittelbar bearbeiten; kein automatisches Nachprüfungsverfahren und keine erfundenen Konkurrenzdaten.",
+    "norms": [
+      "Paragrafen 127, 132, 134, 135, 160, 169, 172 und 173 GWB",
+      "Paragrafen 8, 56 und 58 VgV"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Beschluss vom 4. April 2017, X ZB 3/17, Postdienstleistungen, Randnummern 39–48 und Hinweise 50–53",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/X_ZS/2017/X_ZB___3-17.pdf?__blob=publicationFile&v=1",
+        "application": "Bei streitigen Konzeptnoten zwischen zulässigem Notenmodell und konkret dokumentierter Bewertung unterscheiden; Angebotszusagen und Vergleichsbegründung abgleichen.",
+        "limit": "Keine eigene Wunschbenotung oder automatische Neuwertung allein wegen fehlender Punktebeschreibung; besondere Komplexität in Randnummer 48 offengelassen, Hinweise zur konkreten Wertung nicht als bereits festgestellter Wertungsfehler darstellen."
+      }
+    ],
+    "remaining_limits": [
+      "Amtliches 24-seitiges BGH-PDF vollständig gelesen; Normen der Wertung, Nachforderung und Rechtsschutzfolgen in aktuellen Einzelnorm-Volltexten geprüft.",
+      "Keine umfassende Verifikation von Landes-Unterschwellenrecht, sämtlichen Sektoren-/Konzessionsregeln, Sicherheitsstandards oder EU-Schwellenwertverordnungen; im Prompt bleibt deren fallbezogene Prüfung erforderlich.",
+      "Aktuell abrufbare geänderte GWB-Regeln wurden ausdrücklich zeitabhängig formuliert; für historische Vergabeverfahren Übergangsrecht separat prüfen.",
+      "Desk-/Quellenreview mit Nachrechnung, kein Live-Mandanten- oder Modelltest.",
+      "Workflow-Review 23.09.2026: Paragraf 56 VgV erneut eingesehen; dokumentierte Volltextprüfung von X ZB 3/17 und geänderten GWB-Normen aus der vorhandenen Redaktion erhalten. Keine neue Landes- oder Schwellenwertvollprüfung."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Unterlagenrüge, Wertungsprüfung oder Auftraggeberkorrektur anbieten.",
+      "Dateien ohne Aufgabe: Kriterienfassungen, Angebot und Wertung still lesen; Rüge-, Nachrechnungs- oder Korrekturziel klären.",
+      "Klarer Auftrag: bestelltes Dokument unmittelbar bearbeiten; kein automatisches Nachprüfungsverfahren und keine erfundenen Konkurrenzdaten."
+    ],
+    "continuation": "Seite mit Zusage war nicht Bestandteil des fristgerechten Angebots -> Tatsachengrundlage, Nachforderungsprüfung und Rüge ändern, nicht einfach höhere Note beanspruchen.",
+    "enrichment": "Abgabenachweis gegenüber Arbeitskopie, Eignungsnachweis gegenüber wertungsrelevantem Konzept, Originalrechnung und bedingte Neubewertung, konkrete Abhilfe, Geheimschutz und Ausgangsoption bei Vertragsänderung.",
+    "limits": "desk review; no live client execution"
   }
 }

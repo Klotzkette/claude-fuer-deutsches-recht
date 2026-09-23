@@ -1,25 +1,55 @@
 {
   "schema_version": 1,
   "plugin": "handelsrecht-hgb",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/hgb/__377.html",
       "checked_on": "2026-09-14",
       "supports": "Absätze 1 bis 5: Untersuchung, verdeckter Mangel, rechtzeitige Absendung und Arglist; amtlicher Volltext gelesen."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2016/VIII_ZR_246-16.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 06.12.2017, VIII ZR 246/16, Rn. 23 bis 40. Prüfumfang an Aufwand, Möglichkeiten und Verdacht ausrichten; umfassende neutrale Sachverständigenprüfung in AGB auf unangemessene Benachteiligung prüfen. Grenze: Futterfette ohne konkreten Dioxinverdacht; keine generelle Befreiung von Untersuchung, besonderen Sicherheitsregeln oder unverzüglicher Anzeige."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/__377.html",
+      "checked_on": "2026-09-22",
+      "supports": "Amtlicher Wortlaut geprüft: Beiderseitiger Handelskauf, zumutbare Untersuchung und unverzügliche Anzeige; Absatz 4 lässt rechtzeitige Absendung genügen, Absatz 5 schließt Berufung bei Arglist aus."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/__49.html",
+      "checked_on": "2026-09-22",
+      "supports": "Amtlicher Wortlaut geprüft: Umfang der Prokura und besondere Ermächtigung für Grundstücksveräußerung oder -belastung nach Absatz 2; internen Beschränkungen nicht ohne Weiteres Außenwirkung zuschreiben."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/__25.html",
+      "checked_on": "2026-09-22",
+      "supports": "Amtlicher Wortlaut geprüft: Haftung bei Erwerb und Fortführung eines Handelsgeschäfts unter bisheriger Firma; Ausschluss im Außenverhältnis anhand Absatz 2 prüfen."
     }
   ],
   "mini_review": {
-    "verdict": "retained",
-    "reason": "Aktuellen Mini vollständig gelesen. Untersuchung, Entdeckung und Absendung werden je Charge getrennt; nachgereichte Prüfprotokolle ändern Rügebewertung und Rechnung. Der Text verlangt die bestellte Rüge oder Antwort und keine ungefragte Klage; Belegverfügbarkeit wird nicht als Mangelnachweis behandelt. Keine weitere Korrektur nötig, keine neue Quellen- oder Live-Modellprüfung.",
-    "changes": [],
-    "sha256": "8cec2181abfac92efc77a08d9a3c1918cc860285190e9b29469b2ace7d116422"
+    "verdict": "revised",
+    "reason": "Lieferchronologie bleibt erhalten; Prüfaufwand und AGB-Klausel werden vor einer Genehmigungsfolge beurteilt. Vollständige Text- und gezielte Primärquellenprüfung; kein Live-Mandanten- oder Modelltest.",
+    "changes": [
+      "Fehlerhafte Entwurfsbeschränkung und Satz, der Status nur aus Geschäftsbezeichnung ableitet, entfernt.",
+      "Alle zwölf bestehenden Handelsrechtsgebiete samt Fortsetzung und Empfängertext erhalten und materiell präzisiert.",
+      "VIII ZR 246/16 zu Untersuchung, Handelsbrauch und AGB praktisch angewendet.",
+      "Eigenständige Starts und fachbezogene Antwortfortsetzung ergänzt."
+    ],
+    "sha256": "626cd0ab83e7a0b88af43cbadd752c8e7e44ed204196830edb8893fd2f9ed808"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt vollständig gelesen. Einzelne Altanweisungen verlangten trotz auftragsbezogenem Einstieg eigene Zwischenprodukte, einen pauschalen Stopp bei unklarer Vertretung und einen Übermittlungsnachweis schon zur Registervorlage. Diese Widersprüche gezielt bereinigt; die umfangreiche Themenübersicht nicht neu geschrieben. Keine erneute rechtliche Quellenverifikation oder Live-Modellprüfung.",
-    "changes": ["Zwischenprodukte und Übersichten ausdrücklich nicht obligatorisch; fehlende Vollmacht hindert nicht den unabhängigen Lieferabgleich.", "HGB-Anwendungsprüfung und auftragsbezogenen Fachpunkt klargestellt; kein Vorrang der Mängelroute in jedem Fall.", "Fragenlistenabschluss durch Fortsetzung zum Dokument ersetzt und Übermittlungsnachweis an tatsächliche Einreichung gebunden."],
-    "sha256": "798393aed7d6b9ccb79aa43ad8cca0bdea0abf4a390d7344e755b37c9eced3b8"
+    "reason": "Die vollständige Werkstatt von schematischen Mehrfachtabellen und affirmativem Fehlerrest befreit; alle zwölf Fachthemen in konkrete Tatbestands- und Nachweisfragen überführt. Vollständige Text- und gezielte Primärquellenprüfung; kein Live-Mandanten- oder Modelltest.",
+    "changes": [
+      "Fehlerhafte Entwurfsbeschränkung und Satz, der Status nur aus Geschäftsbezeichnung ableitet, entfernt.",
+      "Alle zwölf bestehenden Handelsrechtsgebiete samt Fortsetzung und Empfängertext erhalten und materiell präzisiert.",
+      "VIII ZR 246/16 zu Untersuchung, Handelsbrauch und AGB praktisch angewendet.",
+      "Chargenweise Rüge und Beweis, interne/äußere Vollmacht, Genehmigungsumfang, Firmenfortführung und präzise Leistungsaufforderung."
+    ],
+    "sha256": "bc0f0f484d1974eef2a12a47a8c69e280c273017b9d684026ab9a9040134aff2"
   },
   "selection": {
     "positive": [
@@ -64,5 +94,47 @@
       ],
       "target_skill": "maengelruege-paragraph-377-hgb"
     }
-  ]
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "handelsrecht-hgb/handelsrecht-hgb-werkstatt.md",
+      "handelsrecht-hgb/handelsrecht-hgb-schnellstart.md",
+      "handelsrecht-hgb/README.md",
+      "quality/evals/handelsrecht-hgb.json",
+      "handelsrecht-hgb/skills/maengelruege-paragraph-377-hgb/SKILL.md"
+    ],
+    "opening_change": "Erhaltene Mängelrechte, Bindung durch Vertreter und Firmenfortführung als konkrete Streitfragen.",
+    "norms": [
+      "HGB Paragraf 377 Absätze 1 bis 5",
+      "BGB Paragraf 307",
+      "HGB Paragrafen 25 und 49"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 06.12.2017, VIII ZR 246/16, Rn. 23 bis 40",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2016/VIII_ZR_246-16.pdf?__blob=publicationFile&v=1",
+        "application": "Prüfumfang an Aufwand, Möglichkeiten und Verdacht ausrichten; umfassende neutrale Sachverständigenprüfung in AGB auf unangemessene Benachteiligung prüfen.",
+        "limit": "Futterfette ohne konkreten Dioxinverdacht; keine generelle Befreiung von Untersuchung, besonderen Sicherheitsregeln oder unverzüglicher Anzeige."
+      }
+    ],
+    "remaining_limits": [
+      "Desk-/Quellenprüfung, kein Live-Mandanten- oder Modelltest.",
+      "Transport-, Register-, Gesellschafts- und CISG-Nebenfragen nicht vollständig neu verifiziert.",
+      "Gewöhnlicher Rüge-Skill enthält weiterhin Zugangsbeispiel, Anschluss-Skill-Kaskade und hier ungeprüfte Entscheidungen vom 06.05.2026; außerhalb des Schreibbereichs nicht geändert.",
+      "Workflow-Ergänzung am 2026-09-23: individuelle Textprüfung, keine erneute Gesamtverifikation der bestehenden Entscheidungsanker; deren dokumentierte Quellen- und Zugriffsgrenzen bleiben bestehen."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Liefermangel, Vertretung oder Firmenfortführung wählen.",
+      "Lieferbelege still lesen; Chargenrüge oder Verspätungsantwort anbieten.",
+      "Bestelltes Handelsschreiben direkt ausarbeiten."
+    ],
+    "continuation": "Versandlog -> Rechtzeitigkeitsbegründung; früherer QS-Vermerk -> Entdeckungsdatum; Vollmacht -> Bindung; Haftungsmitteilung -> Anspruchsgegner ändern.",
+    "enrichment": "Chargenweise Rüge und Beweis, interne/äußere Vollmacht, Genehmigungsumfang, Firmenfortführung und präzise Leistungsaufforderung.",
+    "limits": "desk review; no live client execution"
+  }
 }

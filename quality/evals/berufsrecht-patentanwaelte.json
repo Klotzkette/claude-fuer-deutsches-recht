@@ -1,8 +1,155 @@
 {
-  "schema_version":1,"plugin":"berufsrecht-patentanwaelte","reviewed_on":"2026-09-17",
-  "sources":[{"url":"https://www.gesetze-im-internet.de/patanwo/__3.html","checked_on":"2026-09-14","supports":"Gegenstands- und stellenbezogene Beratungs- und Vertretungsbefugnis des Patentanwalts."},{"url":"https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html","checked_on":"2026-09-14","supports":"Amtlich indexierter Wortlaut von Paragraf 4 zum Auftreten und Rederecht in Schutzrechtsstreitigkeiten."},{"url":"https://www.gesetze-im-internet.de/zpo/__78.html","checked_on":"2026-09-14","supports":"Rechtsanwaltliche Vertretung vor Land- und Oberlandesgerichten."}],
-  "mini_review":{"verdict":"revised","reason":"Der vollständig geprüfte Mini unterscheidet Patentgericht, Verletzungsprozess und technische Mitwirkung. Die bereits eingearbeiteten Rückfragen zu früherer Beratung und bestätigter Mandatsübernahme führen zum fertigen Annahmevermerk oder Übergabetext; kein weiterer Mini-Eingriff nötig.","changes":["Verfahrensbezogene Vertretungsprüfung und Aufgabenübergabe beibehalten.","Fortsetzung nach Auskunft zur Vorbefassung oder Übernahmebestätigung in der vorhandenen Überarbeitung geprüft."],"sha256":"ea6828a65d5e11f457605cb68cff64324df75d4940e68c9703489a5a41cc9f5d"},
-  "workshop_review":{"verdict":"revised","reason":"Die vollständige Prüfung zeigte einen Widerspruch zwischen patentanwaltlichem Einstieg und später vorgeschriebenen BRAO-Ausgangsprüfungen sowie mehrfachen Pflichtausgaben. Diese Vorgaben sind zugunsten der konkreten Berufsrolle und des bestellten Dokuments bereinigt.","changes":["Kollisionsklärung, Fristenübergabe und Kammerantwort als fortlaufende Bearbeitung angeordnet.","Pflichten anderer Berufe nur bei tatsächlich beteiligter Rolle prüfen lassen; Aktenführung, Vergütung, Haftung, Auslandstätigkeit und Geheimnisschutz erhalten.","Doppelte allgemeine Tabellen und Praxisrouten in die passenden Fachabschnitte integriert."],"sha256":"3fd05979b4fd8b2a60fa0086f92a4f8e6d0f33baa671b455c80b8cf731d96b37"},
-  "selection":{"positive":["Kann unser deutscher Patentanwalt die Patentverletzungsklage vor dem Landgericht allein führen?","Prüfen Sie beim Wechsel der Patentkanzlei die Übergabe der laufenden Amts- und Gebührenfristen."],"negative":["Analysieren Sie ausschließlich die Neuheit eines Patentanspruchs gegenüber zwei Druckschriften.","Prüfen Sie eine notarielle Vorbefassung bei einer Grundstücksbeurkundung."]},
-  "cases":[{"id":"verletzungsprozess-und-nichtigkeit","request":"Die Motor GmbH möchte eine Patentverletzungsklage beim Landgericht Mannheim gegen die Antrieb GmbH erheben. Ihr Berater ist ausschließlich als deutscher Patentanwalt zugelassen, nicht als Rechtsanwalt. Er betreut außerdem ein separates Nichtigkeitsverfahren beim Bundespatentgericht und meint, deshalb auch die Verletzungsklage allein einreichen und führen zu können. Ein Rechtsanwalt ist noch nicht beauftragt. Es besteht keine laufende gerichtliche Frist; technische Merkmalsunterlagen sind vorhanden. Erstellen Sie einen Vermerk zur Mandatsabgrenzung und eine Nachricht an die Geschäftsführung, welche Aufgaben vor Klageeinreichung zugeordnet werden müssen. Eine Prüfung der Patentverletzung selbst ist nicht beauftragt.","input_files":[],"deliverables":["ergebnis.md"],"criteria":[{"id":"C01","text":"Das Ergebnis unterscheidet das Nichtigkeitsverfahren beim Bundespatentgericht vom Verletzungsprozess vor dem Landgericht und leitet aus ersterem keine alleinige Prozessvertretungsbefugnis für letzteres ab.","deliverables":["ergebnis.md"]},{"id":"C02","text":"Es benennt die erforderliche rechtsanwaltliche Prozessvertretung für die Landgerichtsklage und grenzt sie von patentanwaltlicher technischer Mitwirkung beziehungsweise Rederecht ab.","deliverables":["ergebnis.md"]},{"id":"C03","text":"Die Nachricht weist Einreichung, technische Zuarbeit und Verfahrenskoordination nachvollziehbar zu, kennzeichnet die fehlende Beauftragung eines Rechtsanwalts und behauptet weder erfolgte Klageeinreichung noch eine erfundene Frist.","deliverables":["ergebnis.md"]}],"target_skill":"vertretungsbefugnis"}]
+  "schema_version": 1,
+  "plugin": "berufsrecht-patentanwaelte",
+  "reviewed_on": "2026-09-23",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/patanwo/__3.html",
+      "checked_on": "2026-09-14",
+      "supports": "Gegenstands- und stellenbezogene Beratungs- und Vertretungsbefugnis des Patentanwalts."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html",
+      "checked_on": "2026-09-14",
+      "supports": "Amtlich indexierter Wortlaut von Paragraf 4 zum Auftreten und Rederecht in Schutzrechtsstreitigkeiten."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__78.html",
+      "checked_on": "2026-09-14",
+      "supports": "Rechtsanwaltliche Vertretung vor Land- und Oberlandesgerichten."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/X_ZS/2021/X_ZB___7-21.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Beschluss vom 7. November 2023, X ZB 7/21, Randnummern 10–19. Parallel anhängiger Verletzungsprozess begründet typischerweise Abstimmungsbedarf für Doppelvertretung im Nichtigkeitsverfahren; bloße Androhung, Schutzschrift oder Strafanzeige genügt nicht. Grenze: Kostenentscheidung, kein Verbot freiwilliger Doppelbeauftragung und kein Ersatz der getrennten Postulationsprüfung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/patanwo/__3.html",
+      "checked_on": "2026-09-22",
+      "supports": "Amtlicher Wortlaut geprüft: Beratung und Vertretung des Patentanwalts innerhalb des gesetzlich bestimmten Tätigkeitsbereichs, nicht allgemeine Vertretungsbefugnis für jeden Zivilprozess."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/patanwo/__4.html",
+      "checked_on": "2026-09-22",
+      "supports": "Amtlicher Wortlaut geprüft: Mitwirkung und Auftreten vor Gerichten innerhalb der gesetzlichen Grenzen; von Prozessvertretung und Erstattungsfähigkeit getrennter Prüfpunkt."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__78.html",
+      "checked_on": "2026-09-22",
+      "supports": "Amtlicher Wortlaut geprüft: Anwaltszwang im jeweiligen gerichtlichen Verfahren; technische Sachkunde allein ersetzt die vorgeschriebene Prozessvertretung nicht."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/patg/__97.html",
+      "checked_on": "2026-09-22",
+      "supports": "Amtlicher Wortlaut geprüft: Vertretung und Beistand vor dem Patentgericht; Befugnis im Nichtigkeitsverfahren nicht mit Kostenerstattung der Doppelvertretung gleichsetzen."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Verletzungsprozess und Nichtigkeitsverfahren werden um die getrennte Erstattungsprognose bei Doppelvertretung ergänzt. Vollständige Text- und gezielte Primärquellenprüfung; kein Live-Mandanten- oder Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert.",
+    "changes": [
+      "Paragrafen 3 und 4 PAO, 97 PatG und 78 ZPO gegenstandsbezogen zugeordnet.",
+      "X ZB 7/21 grenzt anhängige Parallelverfahren von Androhung, Schutzschrift und Strafanzeige ab.",
+      "Keine Kostenentscheidung als Verbot freiwilliger Beauftragung dargestellt.",
+      "Leer: Prozessbefugnis, Portfoliokonflikt oder Fristenübergabe. Dateien: still lesen und Rollenvermerk oder Übergabebrief anbieten. Klar: direkt Mandatsabgrenzung oder bestellte Stellungnahme schreiben.",
+      "Zugestellte Verletzungsklage ändert Vertretungs- und Kostenvermerk; Empfangsbestätigung führt zur Prüfung tatsächlicher Fristenübernahme."
+    ],
+    "sha256": "db4005cb54fe9fe9cc52be0d1385fc31e6d9bdb1fab69253f6b76b87080778e7"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "PAO-Befugnis, ZPO-Anwaltszwang, tatsächlicher Abstimmungsbedarf und Kostenfolge sind getrennt und auf konkrete Verfahrensstände bezogen. Vollständige Text- und gezielte Primärquellenprüfung; kein Live-Mandanten- oder Modelltest. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen.",
+    "changes": [
+      "Paragrafen 3 und 4 PAO, 97 PatG und 78 ZPO gegenstandsbezogen zugeordnet.",
+      "X ZB 7/21 grenzt anhängige Parallelverfahren von Androhung, Schutzschrift und Strafanzeige ab.",
+      "Keine Kostenentscheidung als Verbot freiwilliger Beauftragung dargestellt.",
+      "Parallele Verfahren, Erfinderinteressen, divergierende Fristenlisten, Veröffentlichungsumfang und konkrete Übergabeverantwortung vertieft.",
+      "Zugestellte Verletzungsklage ändert Vertretungs- und Kostenvermerk; Empfangsbestätigung führt zur Prüfung tatsächlicher Fristenübernahme."
+    ],
+    "sha256": "9551090746e37d50f9a3515ab49aeb52b0419e0e93fe25222fab3913575dd9f9"
+  },
+  "selection": {
+    "positive": [
+      "Kann unser deutscher Patentanwalt die Patentverletzungsklage vor dem Landgericht allein führen?",
+      "Prüfen Sie beim Wechsel der Patentkanzlei die Übergabe der laufenden Amts- und Gebührenfristen."
+    ],
+    "negative": [
+      "Analysieren Sie ausschließlich die Neuheit eines Patentanspruchs gegenüber zwei Druckschriften.",
+      "Prüfen Sie eine notarielle Vorbefassung bei einer Grundstücksbeurkundung."
+    ]
+  },
+  "cases": [
+    {
+      "id": "verletzungsprozess-und-nichtigkeit",
+      "request": "Die Motor GmbH möchte eine Patentverletzungsklage beim Landgericht Mannheim gegen die Antrieb GmbH erheben. Ihr Berater ist ausschließlich als deutscher Patentanwalt zugelassen, nicht als Rechtsanwalt. Er betreut außerdem ein separates Nichtigkeitsverfahren beim Bundespatentgericht und meint, deshalb auch die Verletzungsklage allein einreichen und führen zu können. Ein Rechtsanwalt ist noch nicht beauftragt. Es besteht keine laufende gerichtliche Frist; technische Merkmalsunterlagen sind vorhanden. Erstellen Sie einen Vermerk zur Mandatsabgrenzung und eine Nachricht an die Geschäftsführung, welche Aufgaben vor Klageeinreichung zugeordnet werden müssen. Eine Prüfung der Patentverletzung selbst ist nicht beauftragt.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Das Ergebnis unterscheidet das Nichtigkeitsverfahren beim Bundespatentgericht vom Verletzungsprozess vor dem Landgericht und leitet aus ersterem keine alleinige Prozessvertretungsbefugnis für letzteres ab.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Es benennt die erforderliche rechtsanwaltliche Prozessvertretung für die Landgerichtsklage und grenzt sie von patentanwaltlicher technischer Mitwirkung beziehungsweise Rederecht ab.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die Nachricht weist Einreichung, technische Zuarbeit und Verfahrenskoordination nachvollziehbar zu, kennzeichnet die fehlende Beauftragung eines Rechtsanwalts und behauptet weder erfolgte Klageeinreichung noch eine erfundene Frist.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "vertretungsbefugnis"
+    }
+  ],
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Prozessbefugnis, Portfoliokonflikt oder Fristenübergabe.",
+      "Dateien: still lesen und Rollenvermerk oder Übergabebrief anbieten.",
+      "Klar: direkt Mandatsabgrenzung oder bestellte Stellungnahme schreiben."
+    ],
+    "continuation": "Zugestellte Verletzungsklage ändert Vertretungs- und Kostenvermerk; Empfangsbestätigung führt zur Prüfung tatsächlicher Fristenübernahme.",
+    "enrichment": "Parallele Verfahren, Erfinderinteressen, divergierende Fristenlisten, Veröffentlichungsumfang und konkrete Übergabeverantwortung vertieft.",
+    "limits": "desk review; no live client execution"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "berufsrecht-patentanwaelte/berufsrecht-patentanwaelte-werkstatt.md",
+      "berufsrecht-patentanwaelte/berufsrecht-patentanwaelte-schnellstart.md",
+      "berufsrecht-patentanwaelte/README.md",
+      "quality/evals/berufsrecht-patentanwaelte.json"
+    ],
+    "opening_change": "Wirksame Führung des Schutzrechtsverfahrens und erforderliche rechtsanwaltliche Mitwirkung statt abstraktem Vertretungsprodukt.",
+    "norms": [
+      "PAO Paragrafen 3 und 4",
+      "ZPO Paragrafen 78 Absatz 1 und 91 Absatz 1",
+      "PatG Paragrafen 84 Absatz 2 Satz 2 und 97"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Beschluss vom 7. November 2023, X ZB 7/21, Randnummern 10–19",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/X_ZS/2021/X_ZB___7-21.pdf?__blob=publicationFile&v=1",
+        "application": "Parallel anhängiger Verletzungsprozess begründet typischerweise Abstimmungsbedarf für Doppelvertretung im Nichtigkeitsverfahren; bloße Androhung, Schutzschrift oder Strafanzeige genügt nicht.",
+        "limit": "Kostenentscheidung, kein Verbot freiwilliger Doppelbeauftragung und kein Ersatz der getrennten Postulationsprüfung."
+      }
+    ],
+    "remaining_limits": [
+      "Desk-/Quellenprüfung, kein Live-Mandanten- oder Modelltest.",
+      "EPA-, internationale Vertretungs- und Wiedereinsetzungsregeln sowie BOPA nicht insgesamt neu verifiziert.",
+      "Workflow-Anschlussprüfung 23.09.2026: individuelle Text- und Quellenprüfung, keine Live-Client-Ausführung. Frühere Entscheidungsprüfungen und ihre Reichweitengrenzen bleiben unverändert; keine erneute vollständige Rechtsprechungsprüfung behauptet. Paragraf 59 PatG im Anschlussabruf nicht erreichbar; deshalb keine neu behauptete konkrete Einspruchsdauer, sondern verfahrensbezogene Primärprüfung verlangt."
+    ]
+  }
 }

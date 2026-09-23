@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "berufsrecht-notare",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/bnoto/__14.html",
@@ -12,16 +12,39 @@
       "url": "https://www.gesetze-im-internet.de/beurkg/__3.html",
       "checked_on": "2026-09-14",
       "supports": "Mitwirkungsverbote, Vorbefassung außerhalb des Amtes und Ausnahme bei damaligem Auftrag aller Beteiligten."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/NotS/2012/NotSt_Brfg___2-12.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Beschluss vom 26. November 2012, NotSt (Brfg) 2/12, Randnummern 8–14. Einseitige Scheidungsvertretung sperrt spätere Grundstücksübertragung mit Zugewinnausgleichsregelung; einheitlichen Lebenssachverhalt auch bei begrenztem Mandatsumfang vergleichen. Grenze: Nicht jede frühere Beratung desselben Beteiligten ist dieselbe Angelegenheit; Disziplinarentscheidung, keine automatische Urkundennichtigkeit."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/beurkg/__3.html",
+      "checked_on": "2026-09-22",
+      "supports": "Amtlicher Wortlaut geprüft: Vorbefassung in derselben Angelegenheit nach Absatz 1 Satz 1 Nummer 7, Reichweite und zulässige Ausnahmen; bloßer Beteiligtenwunsch heilt keine unzulässige einseitige Vorbefassung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/beurkg/__3.html",
+      "checked_on": "2026-09-23",
+      "supports": "Vorbefassung am tatsächlichen Geschäft und Beratungsumfang prüfen; Mitwirkungsverbot nicht durch pauschale Zustimmung ersetzen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/beurkg/__17.html",
+      "checked_on": "2026-09-23",
+      "supports": "Absatz 2a: angemessene Verbrauchervorbereitung und Regelfrist bestimmter Grundstücksgeschäfte; Unterschreitung mit Gründen, keine starre Neueröffnung durch jede Änderung."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Mini vollständig geprüft: Vorbefassung, Belehrung und Auszahlungsbedingungen werden anhand konkreter Anweisungen geklärt; die neutrale Amtsrolle führt zur Beteiligtenantwort statt zu einseitiger Mandantenstrategie.",
+    "reason": "Vorbefassung wird am Lebenssachverhalt geprüft; anderweitige Beurkundung wird von bloßer Zustimmung und Urkundennichtigkeit unterschieden. Vollständige Text- und gezielte Primärquellenprüfung; kein Live-Mandanten- oder Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert.",
     "changes": [
-      "Fehlenden Beratungsauftrag mit erneuter Mitwirkungsprüfung und korrigierter Nachricht verbunden.",
-      "Widersprüchliche Auszahlungsanweisungen gezielt klären und danach Vermerk oder Stellungnahme vervollständigen lassen."
+      "Einheitlicher Lebenssachverhalt statt enger Mandatstitelbetrachtung.",
+      "Deklaratorische Klausel und begrenztes Scheidungsmandat beseitigen den Zusammenhang nicht.",
+      "Disziplinarfolge, Mitwirkungsverbot und Urkundenwirksamkeit getrennt.",
+      "Leer: Mitwirkung, Terminsvorbereitung oder Verwahrung klären. Dateien: still lesen und Amtsvermerk oder Beteiligtennachricht anbieten. Klar: direkt bestelltes Amtsdokument ausarbeiten.",
+      "Nachgewiesener früherer Entwurfsversand führt zum Fassungsvergleich und geänderter Terminmitteilung; neue Weisung ändert Vollzugsvermerk erst nach Bedingungsprüfung."
     ],
-    "sha256": "3f4a887b0b9fc8096d5377735f5fa4065f0ffad6e38ac2166b2496154ccb86e2"
+    "sha256": "05acba944a2798eaf7d636aa0fe276d3044a740c8652cc345f865000aee2ef43"
   },
   "selection": {
     "positive": [
@@ -69,12 +92,53 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt vollständig bis zu Aufsicht, Haftpflicht und technischen Grenzen gelesen. Die Fachabschnitte verlangen konkrete Vollmachts-, Verwahrungs- und Offenlegungsnachweise und setzen nach deren Eingang fort, ohne Amtshandlungen zu fingieren.",
+    "reason": "Der sachliche Zusammenhang zwischen Vorberatung und Urkunde erhält einen unmittelbar einschlägigen disziplinarrechtlichen BGH-Maßstab. Vollständige Text- und gezielte Primärquellenprüfung; kein Live-Mandanten- oder Modelltest. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen.",
     "changes": [
-      "Beurkundung, Verwahrung, Vollzug und Aufsicht als unterschiedliche Arbeitsaufträge geführt.",
-      "Nachgereichte Genehmigung, Versandprotokolle und Schadensunterlagen mit den jeweils betroffenen Entwürfen verknüpft.",
-      "Amtsvermerk von erfundenem Gespräch und Entwurfsfertigstellung von externer Freigabe abgegrenzt."
+      "Einheitlicher Lebenssachverhalt statt enger Mandatstitelbetrachtung.",
+      "Deklaratorische Klausel und begrenztes Scheidungsmandat beseitigen den Zusammenhang nicht.",
+      "Disziplinarfolge, Mitwirkungsverbot und Urkundenwirksamkeit getrennt.",
+      "Verbrauchervorbereitung, Vorberatungsumfang, Vollmachtsreichweite, Genehmigungszuordnung und widersprüchliche Verwahrungsbedingungen vertieft.",
+      "Nachgewiesener früherer Entwurfsversand führt zum Fassungsvergleich und geänderter Terminmitteilung; neue Weisung ändert Vollzugsvermerk erst nach Bedingungsprüfung."
     ],
-    "sha256": "6453b814642f67c57f376b8fed65be807507583b15934a5fa8c371a727a938d2"
+    "sha256": "9c481e2448d7457579537153357cb5ed7f6170c3b7d56612b3ae841eb772604f"
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Mitwirkung, Terminsvorbereitung oder Verwahrung klären.",
+      "Dateien: still lesen und Amtsvermerk oder Beteiligtennachricht anbieten.",
+      "Klar: direkt bestelltes Amtsdokument ausarbeiten."
+    ],
+    "continuation": "Nachgewiesener früherer Entwurfsversand führt zum Fassungsvergleich und geänderter Terminmitteilung; neue Weisung ändert Vollzugsvermerk erst nach Bedingungsprüfung.",
+    "enrichment": "Verbrauchervorbereitung, Vorberatungsumfang, Vollmachtsreichweite, Genehmigungszuordnung und widersprüchliche Verwahrungsbedingungen vertieft.",
+    "limits": "desk review; no live client execution"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "berufsrecht-notare/berufsrecht-notare-werkstatt.md",
+      "berufsrecht-notare/berufsrecht-notare-schnellstart.md",
+      "berufsrecht-notare/README.md",
+      "quality/evals/berufsrecht-notare.json"
+    ],
+    "opening_change": "Mitwirkungsbefugnis, Belehrung und anweisungsgebundener Vollzug als konkrete Amtsfragen.",
+    "norms": [
+      "BeurkG Paragraf 3 Absatz 1 Satz 1 Nummer 7",
+      "BNotO Paragraf 14 Absatz 1 und 3"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Beschluss vom 26. November 2012, NotSt (Brfg) 2/12, Randnummern 8–14",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/NotS/2012/NotSt_Brfg___2-12.pdf?__blob=publicationFile&v=1",
+        "application": "Einseitige Scheidungsvertretung sperrt spätere Grundstücksübertragung mit Zugewinnausgleichsregelung; einheitlichen Lebenssachverhalt auch bei begrenztem Mandatsumfang vergleichen.",
+        "limit": "Nicht jede frühere Beratung desselben Beteiligten ist dieselbe Angelegenheit; Disziplinarentscheidung, keine automatische Urkundennichtigkeit."
+      }
+    ],
+    "remaining_limits": [
+      "Desk-/Quellenprüfung, kein Live-Mandanten- oder Modelltest.",
+      "DONot, Landesaufsicht und GNotKG-Nebenfragen nicht vollständig neu verifiziert.",
+      "Workflow-Anschlussprüfung 23.09.2026: individuelle Text- und Quellenprüfung, keine Live-Client-Ausführung. Frühere Entscheidungsprüfungen und ihre Reichweitengrenzen bleiben unverändert; keine erneute vollständige Rechtsprechungsprüfung behauptet."
+    ]
   }
 }

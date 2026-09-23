@@ -1,25 +1,55 @@
 {
   "schema_version": 1,
   "plugin": "insolvenzverwaltung",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/inso/__22.html",
       "checked_on": "2026-09-14",
       "supports": "Amtlicher Suchauszug Absätze 1 und 2: Befugnisübergang bei allgemeinem Verfügungsverbot versus gerichtlich bestimmte Pflichten ohne solches Verbot; Direktabruf scheiterte."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2017/IX_ZR_125-17.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 12.03.2020, IX ZR 125/17, Rn. 28–39: Prozess, Vergleich oder Verwertung aus damaliger Informationslage nach Gläubigerzweck, Kosten und Risiken beurteilen. Vertretbaren Handlungsspielraum dokumentieren statt einen späteren Verlust allein als Pflichtverletzung zu behandeln. Grenze: Keine Übertragung der aktienrechtlichen Business Judgment Rule; Maßstab bleibt Paragraf 60 InsO, keine Freistellung für bloß grob fahrlässige Fehler."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__60.html",
+      "checked_on": "2026-09-22",
+      "supports": "Insolvenzspezifische Sorgfaltspflicht und Haftung des Verwalters."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__158.html",
+      "checked_on": "2026-09-22",
+      "supports": "Stilllegung oder Veräußerung vor Berichtstermin mit besonderer Beteiligungs- und Kontrollregel, nicht allgemeine Verwertungsermächtigung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__22.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlicher Wortlaut zur Stellung des vorläufigen Insolvenzverwalters erneut gelesen; konkrete gerichtliche Anordnung und Verfügungsbefugnis bleiben für einzelne Maßnahmen entscheidend."
     }
   ],
   "mini_review": {
-    "verdict": "retained",
-    "reason": "Aktuellen Mini vollständig gelesen. Beschluss und konkrete Rolle bestimmen Befugnisse; nachgereichte Konten und Eigentumsnachweise ändern Deckung beziehungsweise Verwertungsempfehlung. Fehlende Zustimmung bleibt offen, hindert aber keine unabhängige Arbeit. Das bestellte Dokument wird nach der Antwort fertiggestellt. Keine neue Rechtsquellen- oder Live-Modellprüfung des Minis.",
-    "changes": [],
-    "sha256": "ce0223f423fdb6f4e637ff6f0c4470ffb1f212cb5e9a96c1afd3e621f0ccff82"
+    "verdict": "revised",
+    "reason": "Eine verlustbringende Maßnahme wird aus damaliger Informationslage geprüft, nicht allein wegen ihres späteren Ergebnisses beanstandet. Individuelle Text- und Quellenprüfung, kein Live-Modelltest.",
+    "changes": [
+      "IX ZR 125/17 als Maßstab für vertretbare Kosten-/Risikobewertung nach Paragraf 60 InsO eingebaut; keine aktienrechtliche Business Judgment Rule.",
+      "Paragraf 158 InsO für Stilllegung/Veräußerung vor Berichtstermin von Verwertung und Zustimmung nach Paragrafen 159 und 160 getrennt.",
+      "Masseunzulänglichkeit und Drittvermögen verhindern pauschale Zahlungsfreigaben.",
+      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt."
+    ],
+    "sha256": "153db1c75f41c4efe6c237ce21a53a0a9556ba5cbe8852379cfec6149250a914"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Gesamte Werkstatt gelesen. Alte Krisen- und Antragsschemata widersprachen dem beschlussbezogenen Verwaltungsauftrag; pauschale Anmeldefrist und Pflichtübermittlungsnachweise waren ebenfalls unpassend. Paragraf 28 InsO am 18.09.2026 amtlich gelesen; Abruf von Paragraf 113 scheiterte, deshalb dort konkrete Normprüfung statt vermeintlich vollständiger Fristregel. Übrige Quellen unverändert, kein Live-Modelltest.",
-    "changes": ["Insolvenzreifeprüfung auf den tatsächlichen Auftrags- oder Anspruchsbedarf begrenzt; unabhängige Massearbeit fortsetzen.", "Anmeldefrist am Eröffnungsbeschluss ausgerichtet und unvollständige Kündigungsfrist als konkrete Prüfaufgabe formuliert.", "Fragenliste nicht als Dokumentabschluss zugelassen; Übermittlungsnachweis setzt tatsächliche Übermittlung voraus."],
-    "sha256": "3f3e2818421a502562afa398e428ec618b2061f05b8fc1ede849ffd113036650"
+    "reason": "Verwaltung, Fortführung, Masseansprüche, Tabelle, Bericht, Verteilung und Planoption vollständig nach Rollen und Beschlussumfang neu gegliedert. Individuelle Text- und Quellenprüfung, kein Live-Modelltest.",
+    "changes": [
+      "IX ZR 125/17 als Maßstab für vertretbare Kosten-/Risikobewertung nach Paragraf 60 InsO eingebaut; keine aktienrechtliche Business Judgment Rule.",
+      "Paragraf 158 InsO für Stilllegung/Veräußerung vor Berichtstermin von Verwertung und Zustimmung nach Paragrafen 159 und 160 getrennt.",
+      "Masseunzulänglichkeit und Drittvermögen verhindern pauschale Zahlungsfreigaben.",
+      "Beschlussbezogene Befugnisse, Seriennummern und Eigentumsvorbehalt, kritische Lieferantenvorauszahlung, Masseunzulänglichkeit und tatsächlicher Zahlungsvollzug als getrennte Entscheidungspfade ergänzt."
+    ],
+    "sha256": "577f57c28eae2e4e929b7dfca25994bc878307b4930a674a143b92fec16a61be"
   },
   "selection": {
     "positive": [
@@ -64,5 +94,43 @@
       ],
       "target_skill": "vorlaeufige-verwaltung"
     }
-  ]
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "insolvenzverwaltung/insolvenzverwaltung-werkstatt.md",
+      "insolvenzverwaltung/insolvenzverwaltung-schnellstart.md",
+      "insolvenzverwaltung/README.md",
+      "quality/evals/insolvenzverwaltung.json"
+    ],
+    "opening_change": "Verwalterbefugnis, Massebestand und zulässige Zahlung anhand des Beschlusses und der Konten bestimmen.",
+    "norms": [
+      "Paragrafen 22, 60, 80, 158 bis 160, 208 und 209 InsO"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 12.03.2020, IX ZR 125/17, Rn. 28–39",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2017/IX_ZR_125-17.pdf?__blob=publicationFile&v=1",
+        "application": "Prozess, Vergleich oder Verwertung aus damaliger Informationslage nach Gläubigerzweck, Kosten und Risiken beurteilen. Vertretbaren Handlungsspielraum dokumentieren statt einen späteren Verlust allein als Pflichtverletzung zu behandeln.",
+        "limit": "Keine Übertragung der aktienrechtlichen Business Judgment Rule; Maßstab bleibt Paragraf 60 InsO, keine Freistellung für bloß grob fahrlässige Fehler."
+      }
+    ],
+    "remaining_limits": [
+      "Redaktionelle Akten- und Quellenprüfung, kein Live-Client- oder Modelltest.",
+      "Keine Vollprüfung aller Arbeits-, Steuer- oder Auslandsfragen; Maßnahmen erfordern Beschluss- und Zahlungsdaten des konkreten Verfahrens.",
+      "Workflow-Ergänzung am 2026-09-23: individuelle Textprüfung, keine erneute Gesamtverifikation der bestehenden Entscheidungsanker; deren dokumentierte Quellen- und Zugriffsgrenzen bleiben bestehen."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Sicherungsmaßnahme, Massezahlung oder Verwertungsvorlage anbieten.",
+      "Dateien ohne Auftrag: Bestellungsbeschluss, Konten und Vermögensbelege still lesen; konkrete Sicherung oder Zahlungsprüfung zur Auswahl stellen.",
+      "Klarer Auftrag: die bestellte Zahlungs-, Verwertungs- oder Berichtsvorlage unmittelbar fertigstellen."
+    ],
+    "continuation": "Neuer Eigentumsnachweis -> Zuordnung des konkreten Gegenstands, freie Masse, Verwertungserlös und Entwurf ändern; neuer Beschluss verändert nur die tatsächlich erweiterte Befugnis.",
+    "enrichment": "Beschlussbezogene Befugnisse, Seriennummern und Eigentumsvorbehalt, kritische Lieferantenvorauszahlung, Masseunzulänglichkeit und tatsächlicher Zahlungsvollzug als getrennte Entscheidungspfade ergänzt.",
+    "limits": "desk review; no live client execution"
+  }
 }

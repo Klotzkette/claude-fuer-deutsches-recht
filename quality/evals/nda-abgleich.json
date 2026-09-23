@@ -1,15 +1,45 @@
 {
   "schema_version": 1,
   "plugin": "nda-abgleich",
-  "reviewed_on": "2026-09-17",
-  "sources": [],
+  "reviewed_on": "2026-09-23",
+  "sources": [
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/8-azr-172-23/",
+      "checked_on": "2026-09-22",
+      "supports": "Schutzmaßnahmen konkret darlegen; umfassende zeitlich unbegrenzte nachvertragliche Mitarbeiter-Schweigepflicht nicht ungeprüft übernehmen. Arbeitsvertragliche Klauselkontrolle; kein generelles Verbot langfristiger Unternehmens-NDAs. Vertraglicher Schutz kann über den gesetzlichen Geheimnisbegriff hinausreichen."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/8-azr-172-23/",
+      "checked_on": "2026-09-23",
+      "supports": "Amtliche Gründe Randnummern 25 bis 27 und 31 bis 39 erneut gelesen; Schutzmaßnahmen und arbeitsvertragliche Catch-all-Grenze unverändert, keine allgemeine Übertragung auf Unternehmens-NDAs."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/geschgehg/__3.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlicher Normtext: Untersuchung, Rückbau und Tests samt Voraussetzungen mit der konkreten Nutzungsabrede abgleichen; keine pauschale Freigabe technischer Nutzung."
+    }
+  ],
   "mini_review": {
-    "verdict": "retained",
-    "reason": "Am 18. September vollständig gelesen. Standardkonflikte bei Empfängern, Archivierung und Dauer führen zur gezielten Frage und betroffenen Klauseländerung; bestellte Darstellung und Dateiname gehen vor. Echte Revisionen werden nicht mit Farbe verwechselt. Keine neue Quellenverifikation oder Live-Modellprüfung.",
-    "changes": [],
-    "sha256": "6dbc7eef94ee055d9322c461c564adbb5bb60860029d82dc25227c7c8e2feafa"
+    "verdict": "revised",
+    "reason": "Erneuter vollständiger Desk Review am 23. September 2026: NDA-spezifische Startmodi und Klauselfortsetzung ergänzt, bestehende Normen und Rechtsprechungsgrenzen bewahrt. Kein Live-Modelltest.",
+    "changes": [
+      "Sachfremde Vertriebs-, Rücktritts- und Prozessnormen entfernt; NDA-spezifische Nutzungs- und Schutzregeln eingeordnet.",
+      "Arbeitsrechtlichen Geheimhaltungsanker mit Grenze zum Unternehmens-NDA belegt; gezielte Änderung und Archivkopienfall erhalten.",
+      "Vergleichsroute bei leerem Einstieg und stille Sichtung bei Dateien; Berater- und Backupantwort am vorhandenen Entwurf umgesetzt."
+    ],
+    "sha256": "303014cbcab904cf89cde44be7ea77d918260dd261d175f3d8c86975f1dba8e8"
   },
-  "workshop_review": {"verdict":"retained","reason":"Am 18. September gesamten Text nachgeprüft. Semantischer Klauselabgleich, minimale Änderung und Nachprüfung abhängiger Verweise sind durchgehend; ein fehlender Standard verhindert nur dessen Abgleich. Besondere Einsatzsituationen sind optional, Prozess- oder Lizenzaufträge werden nicht erzwungen.","changes":[],"sha256":"7867b25a91220b817153805a4faaf7c1805f42bb3384b13cf5d4da48a6b13c67"},
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Vollständiger individueller Desk Review mit vertieftem Bedeutungsvergleich, versteckten Definitionsabweichungen und umsetzbaren Klauselentscheidungen; keine technische DOCX- oder Mandatsausführung.",
+    "changes": [
+      "Sachfremde Vertriebs-, Rücktritts- und Prozessnormen entfernt; NDA-spezifische Nutzungs- und Schutzregeln eingeordnet.",
+      "Arbeitsrechtlichen Geheimhaltungsanker mit Grenze zum Unternehmens-NDA belegt; gezielte Änderung und Archivkopienfall erhalten.",
+      "Sollvergleich gegenüber Versionsvergleich, Anlagenrangfolge, uneinheitliche Altstandards und gegenläufige Zugriffsinteressen ergänzt.",
+      "Technische Tests, Erinnerungswissen, wiederhergestellte Backups und gestufte Vorfallinformation als konkrete Klauselentscheidungen mit Abschlusskriterium ausgestaltet."
+    ],
+    "sha256": "0411d0e5dab6acf505d20c9d8fe08f5b08680ce87273f059088da18b81c8fdf2"
+  },
   "selection": {
     "positive": [
       "Vergleichen Sie die Rückgabeklausel unseres Standards mit dem Fremdentwurf und ändern Sie nur die Abweichung.",
@@ -53,5 +83,42 @@
       ],
       "target_skill": "nda-vergleichsmatrix-leitfaden"
     }
-  ]
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "nda-abgleich/nda-abgleich-werkstatt.md",
+      "nda-abgleich/nda-abgleich-schnellstart.md"
+    ],
+    "opening_change": "NDA-Abgleich mit konkreten Schutzgegenständen und fortbestehenden Pflichten statt bloßem Verweis auf Standardpositionen.",
+    "norms": [
+      "Paragrafen 133, 157, 305b, 307 und 310 BGB",
+      "Paragrafen 2, 3 und 5 GeschGehG",
+      "Paragrafen 6, 7 und 33 HinSchG"
+    ],
+    "decisions": [
+      {
+        "citation": "BAG, Urteil vom 17. Oktober 2024, 8 AZR 172/23, Randnummern 25 bis 27 und 31 bis 39",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/8-azr-172-23/",
+        "application": "Schutzmaßnahmen konkret darlegen; umfassende zeitlich unbegrenzte nachvertragliche Mitarbeiter-Schweigepflicht nicht ungeprüft übernehmen.",
+        "limit": "Arbeitsvertragliche Klauselkontrolle; kein generelles Verbot langfristiger Unternehmens-NDAs. Vertraglicher Schutz kann über den gesetzlichen Geheimnisbegriff hinausreichen."
+      }
+    ],
+    "remaining_limits": [
+      "Keine Live-Modellprüfung oder technische Exportprüfung durchgeführt; fallbezogene weitere Rechtsprechung bleibt zu prüfen.",
+      "Workflow-Nachprüfung 2026-09-23: bestehende BAG-Quelle in den einschlägigen Gründen erneut gelesen; Paragrafen 2 und 3 GeschGehG geöffnet, Paragraf 2 direkt amtlich abgerufen. Keine neuen Entscheidungen, keine umfassende Auslandsrechts-, Kartellrechts- oder Exportprüfung. Vorstehender Quellenreview vom 2026-09-22 bleibt als historischer Prüfstand erhalten."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Hausstandardabgleich, Verhandlungsfassungsvergleich oder einzelne Haltelinie wählen.",
+      "Nur Dateien: Fassungen still lesen und nur Vergleichsrichtung sowie gewünschte Änderungsdarstellung klären.",
+      "Klarer Auftrag: Bedeutungsvergleich und kleinste notwendige Klauseländerung direkt liefern."
+    ],
+    "continuation": "Freigabe nur des Steuerberaters ändert Empfängerdefinition und Weitergabesatz im vorhandenen nda-redline.docx sowie dieselbe Vergleichszeile; Backupantwort ändert die Löschungsausnahme bei erhaltener Zweckbindung.",
+    "enrichment": "Versionsherkunft, Definitions- und Anlagenkonflikte, Standardableitung, Transaktionsempfänger, Tests und Erinnerungswissen, Rückgabe nach Wiederherstellung und nachweisbare Änderungsfassung.",
+    "limits": "desk review; no live client execution"
+  }
 }

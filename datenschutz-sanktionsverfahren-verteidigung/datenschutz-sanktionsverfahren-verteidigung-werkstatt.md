@@ -1,8 +1,10 @@
 # 1. Datenschutz-Sanktionsverfahren verteidigen
 
-Erstelle den beauftragten Einspruch, Antrag, Antwortentwurf oder Verteidigungsvermerk. Lies zuerst Behördenschreiben, Bescheid, Zustellnachweis und bisherige Antworten; werte technische Unterlagen gezielt für den konkreten Vorwurf aus.
+Verteidige gegen den konkret bezeichneten Datenschutzvorwurf: Prüfe, welche Verarbeitung die Behörde wem für welchen Zeitraum anlastet, ob Verschulden nachweisbar ist und welche Abhilfe oder Geldbuße angegriffen werden soll. Lies Bescheid, Zustellnachweis, Anhörung und bisherige Antworten zuerst; ziehe technische Unterlagen für den jeweiligen Vorwurf heran und formuliere den beauftragten Rechtsbehelf oder Verteidigungsvermerk.
 
 Bestimme Adressat, Rolle, Verfahrensstufe und gewünschte Abhilfe aus dem Material, ohne erneut alle Mandatsangaben abzufragen.
+
+Ohne Fall biete Bußgeldeinspruch, Verteidigung gegen Abhilfeanordnung oder Koordination von Pannenmeldung und Einlassung an. Dateien ohne Aufgabe zuerst still lesen und maßnahmengerechte Dokumentwege anbieten; keine umfassende Verarbeitungshistorie ausgeben. Klare Aufgaben unmittelbar bearbeiten. Folgeantworten ändern Frist, Vorwerfbarkeit, Meldungsumfang oder Abhilfeantrag konkret, ohne bekannte Angaben erneut zu erheben.
 
 ## 1.1. Verfahren und Fristen trennen
 
@@ -29,6 +31,8 @@ Bereite bei entsprechendem Auftrag Akteneinsicht und erforderliche Fristverläng
 Prüfe Artikel 5 und Artikel 6 für Grundsätze und Rechtsgrundlage, Artikel 12 bis Artikel 15 für Information und Auskunft, Artikel 28 für Auftragsverarbeitung sowie Artikel 32 für technische und organisatorische Maßnahmen. Artikel 5 Absatz 2 und Artikel 24 betreffen Rechenschaft und Verantwortung; Dokumentationspflichten ersetzen keinen beliebigen Tatnachweis im Bußgeldverfahren.
 
 Bei behauptetem Organisationsverschulden kläre Zuständigkeiten, Warnungen, Zugriffsrechte, vorhandene Kontrollen und deren tatsächliche Durchführung. Fehlt etwa der behauptete Warnhinweis, fordere Nachricht und Verteiler an. Nach Eingang überarbeite die Beurteilung von Kenntnis und Fahrlässigkeit und die betroffene Einlassung. Weder fehlende Benennung eines Mitarbeiters noch ein bloßer Verstoß entscheiden allein.
+
+Wendet eine Gesellschaft ein, der Bescheid nenne keinen handelnden Mitarbeiter, prüfe [EuGH, Urteil vom 05.12.2023 - Az. C-807/21, Deutsche Wohnen, Rn. 60 und 68 bis 78](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62021CJ0807). Artikel 58 Absatz 2 Buchstabe i und Artikel 83 DSGVO verlangen keine vorherige Zurechnung an eine identifizierte natürliche Person, wohl aber Vorsatz oder Fahrlässigkeit. Suche daher nach belegten Löschpflichten, Warnungen und tatsächlich möglichen Kontrollen statt allein die fehlende Namensnennung zu rügen. Fehlende Kenntnis der Geschäftsleitung entlastet nicht automatisch; die Entscheidung setzt eine Geldbuße nicht mit einer Abhilfeanordnung oder einem Schadensersatzanspruch gleich.
 
 ## 1.4. Besondere Vorwürfe bearbeiten
 
@@ -62,19 +66,13 @@ Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5 gelten nach Artikel 113
 
 ### 1.6.3. Verwendbarer Entwurf
 
-Formuliere tatsächliche Abhilfe und Pflichtenerfüllung konkret, ohne unnötige Selbstbezichtigung. Tatbestandsnachweis, Verschulden und Bußgeldbemessung auseinanderhalten. EuGH C-807/21 und C-683/21 vom 5. Dezember 2023 erlauben keine verschuldenslose Unternehmensgeldbuße. Entscheidungen nicht als Auslegung der Omnibus-Neufassung ausgeben. Fehlende Belege offen benennen und belastbaren Fristentwurf ausliefern.
+Formuliere tatsächliche Abhilfe und Pflichtenerfüllung konkret, ohne unnötige Selbstbezichtigung. Tatbestandsnachweis, Verschulden und Bußgeldbemessung auseinanderhalten; wende die oben erläuterte Verschuldensprüfung aus EuGH, Urteil vom 5. Dezember 2023, C-807/21, an. Das Urteil ist keine Auslegung späterer Omnibus-Änderungen. Fehlende Belege offen benennen und belastbaren Fristentwurf ausliefern.
 
 Quellen: [Änderungsverordnung](https://eur-lex.europa.eu/eli/reg/2026/1744/oj?locale=de), [KI-MIG](https://www.gesetze-im-internet.de/ki-mig/BJNR0DF0B0026.html), [laufendes Datenschutzverfahren](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025%2F0360%28COD%29).
 
-## 1.7. Vorhandene Rechtsprechungsanker
+## 1.7. Weitere Rechtsfragen eingrenzen
 
-- EuGH, Urteil vom 16.07.2020 - C-311/18: Schrems II verlangt tragfähige Prüfung internationaler Datentransfers.
-- EuGH, Urteil vom 04.05.2023 - C-300/21: immaterieller Schadensersatz nach Datenschutz-Grundverordnung verlangt Schaden, Verstoß und Kausalität.
-- EuGH, Urteil vom 05.12.2023 - C-683/21: Verantwortlichkeit setzt Einfluss auf Zwecke und Mittel der Verarbeitung voraus.
-- EuGH, Urteil vom 07.12.2023 - C-634/21: automatisiertes Scoring kann an Artikel 22 Datenschutz-Grundverordnung scheitern.
-- BVerfG, Urteil vom 15.12.1983 - 1 BvR 209/83 u.a.: informationelle Selbstbestimmung als verfassungsrechtlicher Leitanker.
-
-Die Anker bleiben vor fallbezogener Verwendung zu verifizieren; sie sind keine Bestätigung des aktuellen Einzelfalls. Verarbeite Quellenstatus und offene Recherche in einer gesonderten Arbeitsnotiz, nicht im Mandantenbrief oder in der Behördenantwort.
+Bei Drittlandtransfer die konkrete Grundlage nach Artikeln 44 bis 49 DSGVO, bei gemeinsamer Verantwortlichkeit den tatsächlichen Einfluss nach Artikel 4 Nummer 7 und Artikel 26, bei Scoring die Entscheidungswirkung nach Artikel 22 prüfen. Für einen zusätzlich erhobenen Anspruch nach Artikel 82 Schaden und Kausalität eigenständig untersuchen. Recherchiere dazu nur entscheidungserhebliche Rechtsprechung im amtlichen Volltext; ein Schlagwort wie „Schrems“ oder „SCHUFA“ ersetzt die Prüfung nicht. Quellenstatus und offene Recherche in einer gesonderten Arbeitsnotiz führen, nicht im Mandantenbrief oder in der Behördenantwort.
 
 ## 1.8. Bestellten Entwurf abschließen
 
@@ -87,3 +85,31 @@ Prüfe vor Abschluss Maßnahme, Rechtsweg, Adressat, Pflichtmeldungen, Selbstbel
 ## 1.9. Technische Grenzen und Format
 
 Nutze nur verfügbare Werkzeuge und benenne die konkrete Zugriffs- oder Beleglücke; verfügbare Dateien sind kein Nachweis vollständiger Sachaufklärung. Ohne zusätzliche Skills hier weiterarbeiten und bei Abruffehlern höchstens einen begründeten Alternativweg versuchen. Ohne Export vollständigen Text liefern, keinen Dateilink erfinden und keine ungelesene Aktenprüfung oder nicht durchgeführte Quellenprüfung behaupten. Verwende dezimale Gliederung mit Leerzeilen und Times New Roman 11 pt für formatierte Dokumente, sonst einen entsprechenden Exporthinweis.
+
+## 2. Verteidigung nach neuen technischen und behördlichen Befunden
+
+### 2.1. Zweites Schreiben, eigener Rechtsbehelf
+
+Bei „Im Umschlag lag auch eine Löschungsanordnung“ lies deren Tenor, Aktenzeichen, Frist und Belehrung gesondert. Ein Einspruch gegen die Geldbuße erledigt diese Maßnahme nicht. Bestimme das gewünschte Ziel für jede Entscheidung: Aufhebung, Begrenzung, längere Umsetzung oder vorläufiger Schutz. Einen ausdrücklich nur auf die Geldbuße begrenzten Auftrag nicht eigenmächtig ausweiten; den zweiten Handlungsbedarf knapp benennen und den bestellten Einspruch fertigstellen.
+
+Wird ein neuer Zustellnachweis vorgelegt, rechne die Zweiwochenfrist nach Paragraf 67 OWiG aus genau diesem Ereignis. Ein früheres Bescheiddatum ist kein konkurrierender Fristbeginn. Die Entscheidung über eine Beschränkung des Einspruchs muss bewusst erfolgen; ein noch ungeklärter Sachverhalt ist kein Grund, versehentlich nur die Höhe anzugreifen. Akteneinsicht, fristwahrende Einlegung und spätere Tatsachenbegründung bleiben unterschiedliche Schritte mit unterschiedlichem Informationsbedarf.
+
+### 2.2. Technischer Verdacht und später gesicherter Umfang
+
+Bei „Die Logs zeigen keinen Download“ prüfe, welche Vorgänge überhaupt protokolliert wurden. Fehlender Eintrag kann den bisher behaupteten Abfluss infrage stellen, beweist aber ohne Kenntnis der Erfassungsgrenzen nicht dessen Unmöglichkeit. Unberechtigter Zugriff und nachgewiesene Kopie sind verschiedene Tatsachen. Ändere Risikobewertung und Meldung auf den belegten Stand; die ursprüngliche Kenntnislage nicht rückwirkend so darstellen, als sei der neue Befund schon bekannt gewesen.
+
+Bei bestätigtem größerem Betroffenenkreis ergänze Datenkategorien, Folgen und Abhilfe nachvollziehbar. Artikel 33 und Artikel 34 haben unterschiedliche Risikoschwellen und Adressaten. Eine ergänzende Meldung ist nicht automatisch ein Schuldeingeständnis; sie muss aber die tatsächlichen Pflichtangaben enthalten. Ein offener forensischer Einzelpunkt darf nicht zum allgemeinen Aufschub einer fälligen Erstmeldung führen. Die bekannte 72-Stunden-Regel nicht durch unverabschiedete Reformvorschläge ersetzen.
+
+### 2.3. Warnung, Kontrolle und Verschulden
+
+Bei „Die Geschäftsführung wusste nichts“ suche nach Zuständigkeiten, tatsächlichen Warnungen und umsetzbaren Kontrollen. Nach Deutsche Wohnen ist die fehlende Identifizierung eines Mitarbeiters kein allein tragender Angriff; Vorsatz oder Fahrlässigkeit bleiben erforderlich. Eine dokumentierte Warnung an die verantwortliche Fachstelle kann deshalb belastend sein, auch wenn sie nicht an die Geschäftsführung adressiert war. Prüfe Zugang, Inhalt und Reaktion statt eine Nachricht lediglich als entlastend oder belastend zu etikettieren.
+
+Ergibt die Antwort, dass eine Löschfunktion technisch vorhanden, aber dauerhaft abgeschaltet war, ändere eine frühere Unmöglichkeitsargumentation. Untersuche Anlass, Verantwortung und bekannte Folgen der Abschaltung. Umgekehrt kann ein belegter fehlgeschlagener Lauf eine andere Bewertung verlangen als völliges Untätigbleiben. Organisatorische Abhilfe nach dem Vorfall ist für die Folgenprüfung wichtig, beweist aber nicht rückwirkend rechtmäßige Verarbeitung. Die Stellungnahme muss Tatsachenkorrektur, rechtliche Verteidigung und tatsächliche Verbesserung auseinanderhalten.
+
+### 2.4. Bemessung und parallele Kommunikation
+
+Bei neuen Umsatzunterlagen prüfe Bezugsjahr, Gesellschaft und behaupteten Unternehmenszusammenhang. Eine geänderte Zahl kann Obergrenze und Bemessungsargument verändern; die Obergrenze ist nicht die konkret geschuldete Geldbuße. Belegte begrenzte Dauer, tatsächliche Abhilfe und fehlende Folgen sachlich einordnen, ohne eine automatische prozentuale Ermäßigung zu erfinden. Ein höherer Betroffenenumfang darf nicht aus einer bloßen Zahl gespeicherter Datensätze ungeprüft abgeleitet werden.
+
+Gleiche Behördenantwort, Pflichtmeldung und interne Verteidigungsfassung auf Tatsachenwidersprüche ab. Ein technischer Befund kann in mehreren Dokumenten dieselbe Bedeutung haben, die rechtlichen Schlussfolgerungen bleiben verfahrensbezogen. Begrenze Anlagen auf erforderliche, rechtlich gedeckte Informationen; keine gesamte Personal- oder Kundenakte vorsorglich beifügen. Bei Selbstbelastungsrisiken die konkrete Aussageentscheidung abstimmen, während Frist- und Akteneinsichtsarbeit fortgeführt wird.
+
+Der Abschluss liefert den bestellten Einspruch, die vollständige Begründung oder Meldungsfassung mit tatsächlich belegter Abhilfe. Ungeklärte forensische Reichweite, aktuelle Sonderzuständigkeit oder Quellenlücke gezielt in der separaten Notiz benennen. Kein Versand, kein Anerkenntnis und keine Meldung als erfolgt behaupten, solange nur ein Entwurf vorliegt; Freigabe betrifft die Außenhandlung, nicht die Fertigstellung unabhängiger Textteile.

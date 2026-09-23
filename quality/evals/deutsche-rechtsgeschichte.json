@@ -1,15 +1,23 @@
 {
   "schema_version": 1,
   "plugin": "deutsche-rechtsgeschichte",
-  "reviewed_on": "2026-09-18",
-  "sources": [],
+  "reviewed_on": "2026-09-23",
+  "sources": [
+    {
+      "url": "https://www.bundesverfassungsgericht.de/e/rs19961024_2bvr185194.html",
+      "checked_on": "2026-09-22",
+      "supports": "Norm, Rechtfertigung und tatsächliche Handhabung beim staatlichen Unrecht getrennt prüfen. Grenze: Keine pauschale Rückwirkung heutiger Moralvorstellungen. Amtliche Leitsätze geprüft; historische Einzelfallquellen bleiben auftragsabhängig."
+    }
+  ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der ganze Mini wurde auf Quellenkritik und historisches Erkenntnisziel statt heutiger Rechtsdurchsetzung geprüft.",
+    "reason": "Historische Regel, belegte Anwendungspraxis und heutige Aufarbeitung getrennt zum Ausgangspunkt gemacht. Workflow-Ergänzung einzeln geprüft: Quelle ist eine spätere Abschrift oder enthält eine unsichere Negation -> Quellenbezeichnung, Lesung, Beweiswert und historische These ändern, nicht nur Literaturangabe.",
     "changes": [
-      "Fehlende Edition oder Textstelle gezielt nachfordern und danach die historische These überarbeiten."
+      "Historische Regel, belegte Anwendungspraxis und heutige Aufarbeitung getrennt zum Ausgangspunkt gemacht.",
+      "Norm, Rechtfertigung und tatsächliche Handhabung beim staatlichen Unrecht getrennt prüfen. Grenze: Keine pauschale Rückwirkung heutiger Moralvorstellungen.",
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
     ],
-    "sha256": "9ee11a5ff65caf2e796e03d7df417413832afe0beafee0e39f0bd4c426091144"
+    "sha256": "fba89d8a732b996848924f9e6e2d822e17bebf35209b36e7c478efa9484ae5b3"
   },
   "selection": {
     "positive": [
@@ -57,10 +65,47 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die gesamte Werkstatt wurde auf quellengebundene historische Argumentation gelesen.",
+    "reason": "Historische Regel, belegte Anwendungspraxis und heutige Aufarbeitung getrennt zum Ausgangspunkt gemacht. Workflow-Ergänzung einzeln geprüft: Diplomatische und normalisierte Lesung, Datierung und Geltungsraum, Normtext gegenüber Prozessbehauptung und Anwendungspraxis, Gegenbeispiel gegen absolute These sowie begrenzte Aussage ohne Original.",
     "changes": [
-      "Entstehung, Überlieferung und Geltung unterschieden; als Ergebnis die bestellte historische Ausarbeitung statt eines Klageentwurfs verlangt."
+      "Historische Regel, belegte Anwendungspraxis und heutige Aufarbeitung getrennt zum Ausgangspunkt gemacht.",
+      "Norm, Rechtfertigung und tatsächliche Handhabung beim staatlichen Unrecht getrennt prüfen. Grenze: Keine pauschale Rückwirkung heutiger Moralvorstellungen.",
+      "Diplomatische und normalisierte Lesung, Datierung und Geltungsraum, Normtext gegenüber Prozessbehauptung und Anwendungspraxis, Gegenbeispiel gegen absolute These sowie begrenzte Aussage ohne Original."
     ],
-    "sha256": "6ac80ba897936b4002a3da9e9982e6e113f95043856ee2804ffd9c5566839663"
+    "sha256": "b50081d14c51786b9b9c6f6cf8464c91bc98fccea4125b1b3509d53f69b63ef3"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-23",
+    "files": [
+      "deutsche-rechtsgeschichte/deutsche-rechtsgeschichte-werkstatt.md",
+      "deutsche-rechtsgeschichte/deutsche-rechtsgeschichte-schnellstart.md"
+    ],
+    "opening_change": "Historische Regel, belegte Anwendungspraxis und heutige Aufarbeitung getrennt zum Ausgangspunkt gemacht. Workflow-Ergänzung: Leer: Quellenkommentar, Fassungsvergleich oder historische Fallanalyse anbieten. Dateien ohne Aufgabe: Textzeugen still lesen und wissenschaftliches Ziel klären; keine automatische Quellenübersicht. Klarer Auftrag: historische Ausarbeitung ohne künstliche Mandats- oder Fristenaufnahme; Original, Abschrift und Edition unterscheiden.",
+    "norms": [
+      "Artikel 103 Absatz 2 GG"
+    ],
+    "decisions": [
+      {
+        "citation": "BVerfG, 24.10.1996, 2 BvR 1851/94 u. a., Leitsätze",
+        "url": "https://www.bundesverfassungsgericht.de/e/rs19961024_2bvr185194.html",
+        "application": "Norm, Rechtfertigung und tatsächliche Handhabung beim staatlichen Unrecht getrennt prüfen.",
+        "limit": "Keine pauschale Rückwirkung heutiger Moralvorstellungen."
+      }
+    ],
+    "remaining_limits": [
+      "Amtliche Leitsätze geprüft; historische Einzelfallquellen bleiben auftragsabhängig.",
+      "Workflow-Review 23.09.2026: erneuter BVerfG-Abruf nicht erfolgreich; vorhandener historischer Fallanker bleibt mit bisheriger Prüftiefe erhalten. Keine neuen historischen Tatsachen oder Originalzitate erfunden."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Quellenkommentar, Fassungsvergleich oder historische Fallanalyse anbieten.",
+      "Dateien ohne Aufgabe: Textzeugen still lesen und wissenschaftliches Ziel klären; keine automatische Quellenübersicht.",
+      "Klarer Auftrag: historische Ausarbeitung ohne künstliche Mandats- oder Fristenaufnahme; Original, Abschrift und Edition unterscheiden."
+    ],
+    "continuation": "Quelle ist eine spätere Abschrift oder enthält eine unsichere Negation -> Quellenbezeichnung, Lesung, Beweiswert und historische These ändern, nicht nur Literaturangabe.",
+    "enrichment": "Diplomatische und normalisierte Lesung, Datierung und Geltungsraum, Normtext gegenüber Prozessbehauptung und Anwendungspraxis, Gegenbeispiel gegen absolute These sowie begrenzte Aussage ohne Original.",
+    "limits": "desk review; no live client execution"
   }
 }

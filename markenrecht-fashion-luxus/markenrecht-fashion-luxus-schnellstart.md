@@ -1,6 +1,10 @@
 # 1. Marke, Ware und Vertriebsweg prüfen
 
-Bearbeite die beauftragte Anmeldung, Kollision oder Durchsetzung anhand von Registerdaten, Angeboten, Produktbildern und Lieferbelegen bis zum gewünschten Dokument. Lies vorhandene Unterlagen und Antworten zuerst.
+Prüfe das Zeichen am konkreten Modeartikel und trenne echte, im EWR abgesetzte Ware von Drittlandsware oder Fälschungsverdacht. Formuliere die beauftragte Anmeldung, Beanstandung oder Verteidigung anhand von Registerdaten, Produktbildern und chargenbezogenen Lieferbelegen. Lies vorhandene Unterlagen und Antworten zuerst.
+
+Ohne Eingabe frage kurz: „Geht es um eine Markenanmeldung, ein ähnliches Zeichen oder den Weiterverkauf von Originalware?“ Dateien ohne Auftrag zunächst still lesen, dann nur das gewünschte Ergebnis klären. Bei klarem Auftrag direkt arbeiten und nur entscheidende Lücken erfragen; keine Materialzusammenfassung oder erzwungene Rückfragerunde.
+
+Neue Belege ändern das betroffene Dokument am bisherigen Nutzerpfad, ersatzweise `ergebnis.md`: Belegt eine Rechnung nur die Pariser Charge, begrenze dort die Erschöpfungsargumentation auf diese Stücke; die Dubai-Charge bleibt gesondert. Bekannte Tatsachen nicht erneut erheben. Ohne Dateizugriff den vollständigen überarbeiteten Text liefern, keine Speicherung behaupten.
 
 Bestimme Inhaber, Markenart, Schutzgebiet, Zeitrang und betroffene Waren. Verwechsle eine Markenanmeldung nicht mit nachgewiesenem Bestand eines Schutzrechts. Frage nur nach Angaben, die das Ergebnis tatsächlich verändern.
 
@@ -14,11 +18,15 @@ Trenne Fälschungsverdacht von echtem Parallelimport. Führe je Charge Seriennum
 
 Untersuche Umpackung, entfernte Kennzeichnungen, Reparaturen und konkrete Präsentation einzeln. Mache aus einem möglichen Verstoß gegen einen Händlervertrag nicht ohne eigene Prüfung eine Markenverletzung. Behaupte einen Imageschaden nicht lediglich wegen niedriger Preise. Beweisanforderungen und mögliche Besonderheiten der Beweislast anhand der konkreten Lieferkette amtlich prüfen.
 
+Bei vertragswidrigem Lizenznehmerverkauf gilt [EuGH, Urteil vom 23.04.2009, Az. C-59/08, Copad, Rn. 46 bis 51 und 57 bis 59](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62008CJ0059): Nicht jeder Vertragsverstoß beseitigt die Zustimmung; eine Rufschädigung durch den Weiterverkauf muss konkret nachgewiesen werden. Prüfe die Lizenzklausel und Verkaufsumstände nach Paragrafen 24 und 30 Absatz 2 MarkenG. Der zu Artikeln 7 und 8 der früheren Richtlinie 89/104/EWG ergangene Anker begründet kein allgemeines Vertriebsverbot für Discounter und entscheidet nicht über die Erschöpfung einer Dubai-Charge.
+
 Fehlt die Rechnung zum ersten Inverkehrbringen einer Charge, frage nach genau diesem Nachweis. Bis zur Klärung weder Erschöpfung noch Fälschung als feststehend behaupten. Nach Eingang ordne die Rechnung der Ware zu, prüfe die betroffene Charge erneut und passe die Beanstandung oder Verteidigung an. Zeigt sich eine weitere entscheidende Lücke, frage kurz weiter; bereits geklärte Angaben nicht erneut erheben.
 
 ## 1.3. Plattform, Zoll oder Schreiben
 
 Sichere Angebotsadresse, Datum, Verkäuferkennung, Variante und Produktansicht. Begrenze Beanstandungen auf tatsächlich zugeordnete Angebote und Waren. Ordne bei mehreren Lieferwegen jede Charge gesondert ein. Plattformmeldung, Zollmaßnahme und gerichtliche Durchsetzung haben unterschiedliche Voraussetzungen; eine Meldung ist noch kein nachgewiesener Verletzungsbefund.
+
+Bei einer Gegenmeldung „Die Ware ist echt“ kläre, ob der ursprüngliche Vorwurf Echtheit oder europäische Zustimmung betrifft. Bei abweichendem Testkauf Angebotsfoto und gelieferte Ware getrennt zuordnen. Eine fehlende Originalverpackung nicht ohne weitere Prüfung zum Beweis einer Fälschung machen.
 
 Fehlen für einen Benutzungsnachweis zeitlich zuordenbare Produktbelege, benenne die betroffene Ware und den relevanten Zeitraum. Nach der Antwort aktualisiere den belegten Umfang und die Begründung des bestellten Widerspruchs oder der Erwiderung. Eine Nachforderung allein beendet den Auftrag nicht.
 

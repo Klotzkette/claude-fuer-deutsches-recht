@@ -1,21 +1,65 @@
 {
   "schema_version": 1,
   "plugin": "prozessrecht",
-  "reviewed_on": "2026-09-17",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/zpo/__276.html",
       "checked_on": "2026-09-14",
       "supports": "Verteidigungsanzeige als zweiwöchige Notfrist bei Inlandszustellung und hiervon getrennte Klageerwiderungsfrist."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__276.html",
+      "checked_on": "2026-09-22",
+      "supports": "Amtlichen Text zu Paragraf 276 ZPO gelesen; Bezug: Verteidigungsanzeige und Sachverteidigung aus konkreter Zustellung und Verfügung entwickeln. Keine vollständige neue Verifikation sämtlicher weiterer Normen des Plugins."
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2023-3-21&Gericht=bgh&anz=20&nr=133514&pos=10",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Beschluss vom 21.03.2023, VIII ZB 80/22: Fristgebundene Verteidigungsanzeige ihrer eigenen Eingangsbestätigung zuordnen, nicht einer beigefügten Anlage. Amtlicher Leitsatz gelesen; Volltextzugriff gestört. Ausgangskontrolle bewirkt weder Fristverlängerung noch eine Aussage zur Schlüssigkeit."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__276.html",
+      "checked_on": "2026-09-23",
+      "supports": "Zwei-Fristen-Entwurfsweg, Teilzahlung und Teillieferung, belastende Empfangserklärung, Hinweis vor Beweis oder Urteil. Prüftiefe: Normtexte erneut gelesen; bisherige Grenze des BGH-Leitsatzabrufs bleibt bestehen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__138.html",
+      "checked_on": "2026-09-23",
+      "supports": "Zwei-Fristen-Entwurfsweg, Teilzahlung und Teillieferung, belastende Empfangserklärung, Hinweis vor Beweis oder Urteil. Prüftiefe: Normtexte erneut gelesen; bisherige Grenze des BGH-Leitsatzabrufs bleibt bestehen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__139.html",
+      "checked_on": "2026-09-23",
+      "supports": "Zwei-Fristen-Entwurfsweg, Teilzahlung und Teillieferung, belastende Empfangserklärung, Hinweis vor Beweis oder Urteil. Prüftiefe: Normtexte erneut gelesen; bisherige Grenze des BGH-Leitsatzabrufs bleibt bestehen."
     }
   ],
   "mini_review": {
-    "verdict": "retained",
-    "reason": "Am 18. September vollständig gelesen. Zustellnachweis und konkrete Zeugenwahrnehmung führen zur gezielten Ergänzung von Frist, Vortrag und Beweisantritt. Verteidigungsanzeige und Erwiderung bleiben getrennt; Gutachtenauftrag wird nicht zur Klage. Keine neue Quellenverifikation oder Live-Modellprüfung.",
-    "changes": [],
-    "sha256": "724ce61b9f805eb8ed770e42b6d80cdaaae201adc03190446648020bd7b4524e"
+    "verdict": "revised",
+    "reason": "Kurzprompt individuell auf Einstieg, fachliche Fortsetzung und vollständiges Arbeitsprodukt geprüft. Zwei-Fristen-Entwurfsweg, Teilzahlung und Teillieferung, belastende Empfangserklärung, Hinweis vor Beweis oder Urteil.",
+    "changes": [
+      "Fristsichernde Erklärung samt eigenem Eingangsbeleg behandelt; sachfremde strafrechtliche Warnnormen entfernt, besondere Verfahrenslagen erhalten.",
+      "Fristgebundene Verteidigungsanzeige ihrer eigenen Eingangsbestätigung zuordnen, nicht einer beigefügten Anlage.",
+      "Zahlungsbeleg -> Forderungszuordnung, Zinsen und Antrag gemeinsam ändern; neuer Zeugenbefund -> Beweisantritt berichtigen.",
+      "Zwei-Fristen-Entwurfsweg, Teilzahlung und Teillieferung, belastende Empfangserklärung, Hinweis vor Beweis oder Urteil."
+    ],
+    "sha256": "1607cd8c231273c6255e40eb1413c0219c391dc0fffd098525a07f40e3d2150b",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
   },
-  "workshop_review": {"verdict":"revised","reason":"Am 18. September gesamten Text gelesen. Rollen, Antrag, Schlüssigkeit, Beweis und besondere Verfahrenslagen sind konkret getrennt; Nachweise aktualisieren die betroffenen Schriftsatzstellen. Nur ein unnötiger Mini-Verweis in der Fristregel blieb zu beseitigen.","changes":["Zweiwöchige Notfrist unmittelbar in der Werkstatt formuliert, ohne Verweis auf den Mini","Bestehende fachliche Verzweigungen und Freigabegrenzen unverändert erhalten"],"sha256":"360409e0b369231a91de5c9c7f67c8131a75130556b22c8e4a798beed00037aa"},
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Werkstatt individuell auf Einstieg, fachliche Fortsetzung und vollständiges Arbeitsprodukt geprüft. Zwei-Fristen-Entwurfsweg, Teilzahlung und Teillieferung, belastende Empfangserklärung, Hinweis vor Beweis oder Urteil.",
+    "changes": [
+      "Verteidigungsanzeige und Sachverteidigung aus konkreter Zustellung und Verfügung entwickeln.",
+      "Fristgebundene Verteidigungsanzeige ihrer eigenen Eingangsbestätigung zuordnen, nicht einer beigefügten Anlage.",
+      "Zahlungsbeleg -> Forderungszuordnung, Zinsen und Antrag gemeinsam ändern; neuer Zeugenbefund -> Beweisantritt berichtigen.",
+      "Zwei-Fristen-Entwurfsweg, Teilzahlung und Teillieferung, belastende Empfangserklärung, Hinweis vor Beweis oder Urteil."
+    ],
+    "sha256": "f9689c92a8c6aab012ed2694c93e19fcd28909276a3428635779d73a6b7f6d0d",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
+  },
   "selection": {
     "positive": [
       "Erstelle Fristenvermerk und Verteidigungsanzeige nach Klagezustellung.",
@@ -59,5 +103,45 @@
       ],
       "target_skill": "start-chronologie-fristen"
     }
-  ]
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "prozessrecht/README.md",
+      "prozessrecht/prozessrecht-werkstatt.md",
+      "prozessrecht/prozessrecht-schnellstart.md",
+      "quality/evals/prozessrecht.json"
+    ],
+    "opening_change": "Verteidigungsanzeige und Sachverteidigung aus konkreter Zustellung und Verfügung entwickeln",
+    "norms": [
+      "Paragraf 276 ZPO",
+      "Paragraf 130a Absatz 5 Satz 2 ZPO"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Beschluss vom 21.03.2023, VIII ZB 80/22",
+        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2023-3-21&Gericht=bgh&anz=20&nr=133514&pos=10",
+        "application": "Fristgebundene Verteidigungsanzeige ihrer eigenen Eingangsbestätigung zuordnen, nicht einer beigefügten Anlage.",
+        "limit": "Amtlicher Leitsatz gelesen; Volltextzugriff gestört. Ausgangskontrolle bewirkt weder Fristverlängerung noch eine Aussage zur Schlüssigkeit."
+      }
+    ],
+    "remaining_limits": [
+      "Amtlicher Leitsatz gelesen; Volltextzugriff gestört. Ausgangskontrolle bewirkt weder Fristverlängerung noch eine Aussage zur Schlüssigkeit.",
+      "Kein Live-Fristlauf oder Versandtest; besondere Verfahren und Rechtsmittel nicht lückenlos materiell neu auditiert.",
+      "Individuelle redaktionelle Akten- und Quellenprüfung (desk review), kein Live-Client- oder Modelltest.",
+      "Workflow-Vertiefung 2026-09-23: Normtexte erneut gelesen; bisherige Grenze des BGH-Leitsatzabrufs bleibt bestehen. Desk review; kein Live-Client-Test."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Verteidigungsanzeige, Sachschriftsatz oder gerichtlicher Entwurf zur Auswahl.",
+      "Klage, Zustellung und Verfügung still lesen, dann nur offene Zielrichtung klären.",
+      "Klar bestellte Anzeige ohne Sachvortragszwang ausformulieren."
+    ],
+    "continuation": "Zahlungsbeleg -> Forderungszuordnung, Zinsen und Antrag gemeinsam ändern; neuer Zeugenbefund -> Beweisantritt berichtigen.",
+    "enrichment": "Zwei-Fristen-Entwurfsweg, Teilzahlung und Teillieferung, belastende Empfangserklärung, Hinweis vor Beweis oder Urteil.",
+    "limits": "desk review; no live client execution"
+  }
 }

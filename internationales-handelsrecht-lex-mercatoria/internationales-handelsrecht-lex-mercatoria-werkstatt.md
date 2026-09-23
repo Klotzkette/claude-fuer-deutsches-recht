@@ -1,6 +1,6 @@
 # 1. Internationaler Handel: Vertrag, Leistung und Anspruch
 
-Bearbeite den bestellten grenzüberschreitenden Vertrags- oder Streitauftrag aus den vorhandenen Handelsdokumenten. Unterscheide Kaufvertrag, Transport, Versicherung und Finanzierung, bevor du Rechtsfolgen oder Erklärungen formulierst.
+Bestimme aus Bestellung, Auftragsbestätigung und Lieferdokumenten, welches Recht den Warenvertrag beherrscht, ob die Lieferung vertragsgemäß ist und welche Forderung, Mängelanzeige oder Vertragsklausel daraus folgt. Beurteile Transport, Versicherung und Finanzierung jeweils aus dem eigenen Vertrag; ein mangelhaftes Gut macht nicht jeden Beteiligten zum selben Schuldner.
 
 ## 1.1. Geschäft und Auftrag
 
@@ -8,13 +8,47 @@ Lies Vertrag, Bestellungen, Bestätigungen, AGB, Lieferdokumente und Korresponde
 
 Prüfe maßgebliche Sprachfassung, Rechtswahl, Gerichtsstands- oder Schiedsklausel und gewünschtes Ergebnis. Eine Vertragsprüfung ist kein Auftrag zur Schiedseinleitung; ein Anspruchsschreiben muss dagegen nach Klärung der Belege vollständig ausgearbeitet werden. Rüge-, Nachfrist-, Aufhebungs- und Verjährungsfragen früh prüfen, ohne aus einer nahen Frist einen Arbeitsabbruch abzuleiten.
 
+### 1.1.1. Drei Einstiege zum Handelsdokument
+
+Ohne Eingabe biete Liefermängelrüge, Rechtswahlklausel oder Garantieabrufprüfung an. Bei Dateien ohne Auftrag lies sie still und biete zwei passende Ergebnisse an. Bei klarem Auftrag unmittelbar ausarbeiten; keine vollständige Darstellung aller beteiligten Rechtsordnungen vor einem begrenzten Brief. Private Regelwerke und fremdes Recht brauchen zugängliche Quellen; weitere Plugin-Dateien werden nicht vorausgesetzt.
+
+### 1.1.2. Wessen Klauseln gelten für welche Frage?
+
+Vergleiche Bestellung und Bestätigung nach zeitlichem Ablauf, abweichendem Inhalt und tatsächlicher Zugänglichkeit der AGB. Eine später übersandte Fassung darf nicht als bei Vertragsschluss bekannt behandelt werden. Ordne Rechtswahl, Haftungsbegrenzung, Gerichtsstand und Lieferklausel getrennt zu. Die Wirksamkeit einer Rechtswahl beweist nicht zugleich Einbeziehung jeder darin enthaltenen Beschränkung oder Wirksamkeit der Schiedsabrede.
+
+Nach einer neuen Bestätigung kann ein zuvor angenommener Gleichlauf entfallen. Ändere dann die Vertragsinhaltsprüfung und den daraus folgenden Entwurf. Bei Sprachfassungen benenne den konkreten Unterschied, etwa zwischen bloßer Prüfungsmöglichkeit und verbindlicher Abnahme. Wähle keine vorteilhafte Übersetzung ohne Grundlage. Wird nationales Kaufrecht ausdrücklich gewünscht, formuliere den CISG-Ausschluss eindeutig; den Ort der Streitentscheidung nicht ungefragt selbst auswählen.
+
+### 1.1.3. Ware mangelhaft oder beim Transport beschädigt
+
+Ordne Probe, Charge, Verpackung und Schadensbild dem Zeitpunkt zu, den der jeweilige Anspruch verlangt. Ein Ankunftsfoto kann einen Schaden belegen, aber nicht allein dessen Ursache vor oder während der Beförderung. Kaufrechtlicher Gefahrübergang beantwortet nicht jede Frage der Vertragsgemäßheit oder der Transporthaftung. Prüfe parallele Wege getrennt und vermeide widersprüchliche Tatsachenbehauptungen gegenüber Verkäufer und Frachtführer.
+
+Wird ein Prüfbericht nachgereicht, vergleiche Messmethode und Vertragsstandard. Ein Herstellerzertifikat über eine andere Charge ersetzt keine Einzelzuordnung. Formuliere die Rüge mit Fehlerart, betroffener Lieferung und verfügbarem Befund; eine noch unbekannte technische Ursache muss nicht erfunden werden. Bei neu entdecktem anderem Fehler prüfe dessen eigene Entdeckung und Anzeige. Die Zweijahresregel des Artikels 39 CISG ist keine allgemeine Verjährungsfrist und keine pauschale Erlaubnis, mit der Anzeige zwei Jahre zu warten.
+
+### 1.1.4. Nachfrist, Aufhebung und Ersatzbeschaffung
+
+Unterscheide bloße Reklamation, konkrete Leistungsaufforderung, Nachfrist und Aufhebungserklärung. Ein Schreiben „Wir sind unzufrieden“ ist nicht ohne Auslegung jede dieser Erklärungen. Frage nach dem vollständigen Wortlaut und Übermittlungszeitpunkt, wenn davon der Rechtsbehelf abhängt. Erstelle den beauftragten Entwurf mit bestimmter Leistung und Rechtsfolge, ohne eine bereits erklärte Aufhebung zu erfinden.
+
+Nach einer Ersatzbeschaffungsrechnung vergleiche Ware, Menge, Qualität, Zeitraum und Kosten. Prüfe die zeitliche Abfolge zur Aufhebung für Artikel 75 CISG; ein vorheriger Deckungskauf darf nicht kommentarlos als dessen Normalfall abgerechnet werden. Gegebenenfalls andere Anspruchsbegründung gesondert prüfen. Rechne erhaltene Erstattung, ersparte Fracht und nicht betroffene Mehrleistungen positionsweise heraus. Fremdwährungsbeträge nur mit offengelegter Kursquelle und maßgeblichem Zeitpunkt umrechnen.
+
+### 1.1.5. Garantiepapier gegen Abrufentwurf
+
+Lies Garantie, Nachträge und einbezogenes Regelwerk vollständig für den konkreten Abruf. Begünstigter, Garantiebetrag, Ablauf, Präsentationsort und verlangte Dokumente müssen zusammenpassen. Ein inhaltlich berechtigter Anspruch aus dem Liefervertrag ersetzt nicht die formgerechte Inanspruchnahme einer selbstständigen Garantie. Eine Frist aus dem Grundvertrag ist nicht automatisch der Garantieablauf.
+
+Nach einem Verlängerungsnachtrag prüfe dessen Wirksamkeit und Bedingungen, statt nur das Datum auszutauschen. Verlangt die Garantie eine bestimmte Erklärung, formuliere nur belegbare Tatsachen und die tatsächlich erforderlichen Angaben. Ein Entwurf ist keine rechtzeitige Präsentation; Empfangsbeleg gesondert prüfen. Eine ungeklärte Betrugs- oder Missbrauchsfrage darf nicht durch mechanische Dokumentvollständigkeit als erledigt gelten. Keine Inanspruchnahme ohne Freigabe.
+
+### 1.1.6. Verhandlungstext und Abschluss
+
+Eine Qualitätsklausel verknüpft Spezifikation, Prüfmethode, Zeitpunkt, Rüge und Abhilfe. Eine Hardship-Regel bestimmt Auslöser, Nachweis, Verhandlung und Folgen des Scheiterns; sie ist nicht mit jeder Force-Majeure-Klausel austauschbar. Liefere die konkret beauftragte Fassung mit tragfähiger Alternative für den offenen Verhandlungspunkt. Ein Anspruchsschreiben nennt Rechtsregime, Leistung, Verletzung, Rechtsbehelf, Rechnung und Belege. Versand, Aufhebung, Garantieabruf und Schiedseinleitung bleiben gesondert freizugeben.
+
 ## 1.2. Anwendbares Recht und Vertragsinhalt
 
 ### 1.2.1. Rechtsordnung und private Regelwerke
 
-Internationale Zuständigkeit, Vertragsstatut, CISG und einbezogene private Regeln getrennt bestimmen. Niederlassungen, Vertragsstaatenstatus, zeitlichen Anwendungsbereich und einen behaupteten CISG-Ausschluss prüfen. Aus der Wahl deutschen oder österreichischen Rechts nicht automatisch einen Ausschluss ableiten; Wortlaut, Auslegung und Kontext untersuchen.
+Internationale Zuständigkeit, Vertragsstatut, CISG und einbezogene private Regeln getrennt bestimmen. Niederlassungen, Vertragsstaatenstatus und sachlichen Anwendungsbereich nach Artikeln 1 bis 3 CISG sowie einen Ausschluss nach Artikel 6 prüfen. Ergänzendes Vertragsstatut nach Artikeln 3 und 4 Rom-I-Verordnung (EG) Nr. 593/2008, Eingriffsnormen nach Artikel 9 bestimmen. Die Wahl deutschen oder österreichischen Rechts allein schließt das CISG nicht aus.
 
-Incoterms-Klausel mit benanntem Ort und Fassung erfassen. Gefahr, Kosten, Lieferpflicht und Dokumente nicht mit Eigentumsübergang, Gerichtsstand oder sämtlichen Leistungsstörungen gleichsetzen. Für UNIDROIT Principles 2016, Lex Mercatoria und Handelsbräuche Einbeziehung, Nachweis und Funktion vor staatlichem Gericht beziehungsweise Schiedsgericht prüfen. Zwingendes Recht gesondert beachten.
+Bei Verweisen auf nationales Kaufrecht die ganze Klausel auslegen: Der OGH, Urteil und Beschluss vom 4. Juli 2007, 2 Ob 95/06v, leitete aus wirksam einbezogenen Verweisen auf österreichisches KSchG und HGB einen stillschweigenden Ausschluss jedenfalls der CISG-Gewährleistungsregeln ab ([RIS, rechtliche Beurteilung](https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20070704_OGH0002_0020OB00095_06V0000_000)). Das ist ein Beispiel für den nachgewiesenen Bezug auf unvereinheitlichtes Sachrecht, nicht für einen stets vollständigen Ausschluss oder die Bindung deutscher Gerichte. Ein ausdrücklich gewollter Ausschluss sollte eindeutig formuliert werden: „Es gilt deutsches Recht unter Ausschluss des UN-Kaufrechts (CISG).“ Zuständigkeit und Schiedsabrede bleiben gesondert zu vereinbaren.
+
+Incoterms-Klausel mit benanntem Ort und Fassung erfassen. Gefahr, Kosten, Lieferpflicht und Dokumente nicht mit Eigentumsübergang, Gerichtsstand oder sämtlichen Leistungsstörungen gleichsetzen. UNIDROIT Principles 2016 können nach Erwägungsgrund 13 der Rom-I-Verordnung vertraglich einbezogen werden; daraus wird vor staatlichem Gericht nicht ohne Weiteres ein eigenständiges Vertragsstatut. Im deutschen Schiedsverfahren erlaubt Paragraf 1051 Absatz 1 ZPO die Wahl von Rechtsvorschriften; Absatz 4 verlangt die Berücksichtigung einschlägiger Handelsbräuche. Einbeziehung, konkreten Inhalt und Nachweis der behaupteten Lex Mercatoria prüfen. Zwingendes Recht bleibt gesondert zu beachten.
 
 Fehlt die maßgebliche AGB- oder Sprachfassung, genau diese Fassung anfordern. Nach Eingang Einbeziehung und betroffene Klauseln erneut prüfen und den bestellten Vermerk oder Vertragsentwurf fertigstellen. Private Regelwerke ohne verfügbare Originalquelle nicht wörtlich rekonstruieren.
 
@@ -24,7 +58,7 @@ Ordne Angebot, Gegenangebot, Bestätigung, abweichende AGB und tatsächliche Dur
 
 Schweigen nicht ohne Prüfung von Vereinbarung, Praxis oder nachgewiesenem Handelsbrauch nach Artikel 9 CISG als Annahme behandeln. Bei Onlinebestellungen Bestellschritte, abrufbare AGB-Fassung, Zustimmung, Bestätigung und Rollen des Marktplatzes sichern. Der Klick auf einen beschrifteten Button allein beantwortet nicht alle Vertragsfragen.
 
-Bei E-Commerce die Richtlinie 2000/31/EG und bei Signaturen eIDAS fallbezogen prüfen. Aus dem Herkunftslandprinzip nicht ableiten, ausschließlich das Recht des Niederlassungslands sei anwendbar. Nach ergänztem Bestellprotokoll Vertragsschluss, Klauselinhalt und die bestellte Forderung oder Vertragskorrektur aktualisieren.
+Bei E-Commerce Artikel 1 Absatz 4 und Artikel 3 der Richtlinie 2000/31/EG auseinanderhalten: Das Herkunftslandprinzip ist keine allgemeine Kollisionsregel. Bei Signaturen Artikel 25 der Verordnung (EU) Nr. 910/2014 in geltender Fassung prüfen; elektronische Form allein beseitigt nicht die Beweiswirkung, erfüllt aber auch nicht automatisch jede gesetzliche Form. Nach ergänztem Bestellprotokoll Vertragsschluss, Klauselinhalt und die bestellte Forderung oder Vertragskorrektur aktualisieren.
 
 ## 1.3. Ware, Dokumente und Beanstandung
 
@@ -32,7 +66,7 @@ Bei E-Commerce die Richtlinie 2000/31/EG und bei Signaturen eIDAS fallbezogen pr
 
 Vergleiche je Charge Spezifikation, Menge, Qualität, Verpackung, mitgeteilten Zweck, Preis und Liefertermin mit der tatsächlichen Leistung. Artikel 34 und 35 CISG für Dokumente und Ware getrennt prüfen. Vereinbarte Eigenschaften, gewöhnliche Verwendung, besonderer Zweck und Haltbarkeit entlang des Normtextes untersuchen, nicht aus einem Zertifikat pauschal Mangelfreiheit folgern.
 
-Elektronische Frachtdokumente, Konnossemente und Akkreditivunterlagen nach ihrem jeweiligen Recht und vereinbartem Regelwerk beurteilen. Bei eUCP die konkret vereinbarte Fassung prüfen; die ältere Angabe eUCP 2.0 ist keine automatische Aktualitätsbestätigung.
+Elektronische Frachtdokumente, Konnossemente und Akkreditivunterlagen nach ihrem jeweiligen Recht und vereinbartem Regelwerk beurteilen. Bei eUCP die vereinbarte Fassung und die technischen Voraussetzungen wirksamer Präsentation am Originaltext prüfen.
 
 ### 1.3.2. Untersuchung, Rüge und Rechtsbehelf
 
@@ -42,7 +76,7 @@ Fehlen Prüfbericht oder Nachweis der Mängelanzeige, fordere konkrete Charge, F
 
 ### 1.3.3. Schaden berechnen
 
-Bei Artikeln 74 bis 76 CISG sowie einschlägigen weiteren Schadensregeln Anspruchsvoraussetzungen, Deckungsgeschäft, Marktpreis, Kausalität und Schadensbegrenzung konkret prüfen. Mehrkosten, ersparte Aufwendungen, Teilzahlungen und Versicherungsleistungen positionsbezogen ausweisen. Wechselkursquelle, Stichtag und Rundung dokumentieren.
+Bei Artikeln 74 bis 77 CISG Kausalität, Vorhersehbarkeit, Schadensbegrenzung und Berechnungsweg prüfen. Artikel 75 setzt grundsätzlich ein angemessenes Deckungsgeschäft nach Vertragsaufhebung voraus; vorzeitigen Ersatzkauf nicht kommentarlos darunter abrechnen. Artikel 76 betrifft unter seinen Voraussetzungen den Marktpreisvergleich, nicht zusätzlich denselben schon konkret ersetzten Einkauf. Mehrkosten, ersparte Aufwendungen, Teilzahlungen und Versicherungsleistungen positionsbezogen ausweisen. Wechselkursquelle, Stichtag und Rundung dokumentieren.
 
 Nach ergänzter Ersatzbeschaffungsrechnung nur die betroffenen Schadenspositionen neu rechnen und das bestellte Zahlungsbegehren anpassen. Fehlende Beträge offenhalten, keine Schätzung als belegte Rechnung ausgeben. Doppelersatz für denselben Schaden vermeiden.
 
@@ -60,7 +94,7 @@ Stelle Absender, Frachtführer, Unterfrachtführer, Spediteur, Empfänger und Ve
 
 Für Straßentransport den CMR-Anwendungsbereich und Vertragsstaatenstatus prüfen; keine alte feste Staatenzahl übernehmen. Artikel 17 ff., besondere Gefahren nach Artikel 17 Absatz 4, qualifiziertes Verschulden nach Artikel 29, Verjährung nach Artikel 32 und aufeinanderfolgende Frachtführer nach Artikeln 34 bis 40 jeweils nach ihrem eigenen Tatbestand untersuchen. Frachtbrief und e-CMR nach einschlägigem Übereinkommen beziehungsweise Protokoll beurteilen.
 
-Bei deutschem Fracht-, Speditions-, Multimodal- oder Seerecht Paragrafen 407 ff., 452 ff., 453, 454, 459, 461, 476 ff. und 498 bis 530 HGB konkret zuordnen. Die ältere Bezeichnung von Paragraf 459 als Selbsteintrittsregel nicht ungeprüft übernehmen. Haftungsgrund, Höchstbetrag, mögliche Durchbrechung und Beweislast gesondert begründen.
+Bei deutschem Fracht-, Speditions-, Multimodal- oder Seerecht Paragrafen 407 ff., 452 ff., 453, 454, 461, 476 ff. und 498 bis 530 HGB konkret zuordnen. Selbsteintritt nach Paragraf 458 HGB und Fixkostenspedition nach Paragraf 459 HGB unterscheiden; beide können Frachtführerrechte und -pflichten begründen, aber aufgrund unterschiedlicher Tatsachen. Haftungsgrund, Höchstbetrag, mögliche Durchbrechung und Beweislast gesondert begründen.
 
 Fehlen Ablieferungsbeleg oder Schadensprotokoll, diese mit Sendungsbezug anfordern. Nach Eingang Obhutszeitraum, Vorbehalt, Haftungsbetrag und Regressfrist aktualisieren und das beauftragte Haftungs- oder Regressschreiben fertigstellen. Bei Diebstahl Abstellort, Sicherung, Ablauf und Gegenbelege prüfen, statt qualifiziertes Verschulden aus dem Schaden allein zu folgern.
 
@@ -76,7 +110,7 @@ Fehlt ein Garantienachtrag oder Präsentationsbeleg, gezielt nachfordern; nach E
 
 ### 1.7.1. Digitale Produkte
 
-Software, Datenbank, Systemmodell, Dienstleistung und Nutzungsrecht nach Leistungsinhalt und Vertragsstruktur unterscheiden. CISG-Anwendung nicht allein aus Datenträger oder Download ableiten. Den Anwendungsbereich der Richtlinie 2019/770 gegenüber B2B-Verträgen prüfen; keine widersprüchliche pauschale B2B-Geltung übernehmen.
+Software, Datenbank, Systemmodell, Dienstleistung und Nutzungsrecht nach Leistungsinhalt und Vertragsstruktur unterscheiden. CISG-Anwendung nicht allein aus Datenträger oder Download ableiten. Artikel 3 Absatz 1 der Richtlinie (EU) 2019/770 betrifft Verträge zwischen Unternehmer und Verbraucher, nicht allgemein grenzüberschreitende B2B-Verträge.
 
 Open-Source-Lizenzen, Weitervertrieb, Kompatibilität und Rechtekette anhand der tatsächlichen Komponenten untersuchen. Bei KI-bezogenen Pflichten Rolle, Verwendungszweck und einschlägigen Rechtsstand gesondert verifizieren. Nach ergänzter Komponentenliste Lizenz- und Gewährleistungsklauseln überarbeiten.
 
@@ -86,11 +120,11 @@ Bei Handelsvertreterbezug Tätigkeit, Gebiet, Provision, Vertragsende und Kunden
 
 ### 1.7.3. Lieferketten, Audits und Geheimnisse
 
-LkSG, CSDDD, CSRD und Taxonomie nach Adressatenkreis, zeitlicher Geltung und einschlägiger Pflicht unterscheiden. Frühere pauschale Angaben zu Klimaübergangsplan, doppelter Wesentlichkeit, Scope-3-Berichten oder direkten Audits sind vor Verwendung aktuell zu verifizieren. Keine automatische Pflicht allein aus dem Schlagwort ESG ableiten.
+Für Lieferkettenpflichten zunächst den Adressatenkreis nach Paragraf 1 LkSG und die einschlägige Risiko-, Präventions- oder Abhilfepflicht nach Paragrafen 3 bis 9 LkSG prüfen. Unionsrechtliche Sorgfalts- oder Berichtspflichten nur nach Ermittlung der konkreten Vorschrift, geltenden Änderungsfassung und Anwendungsfrist behaupten. Eine Reformankündigung ist keine geltende Pflicht; das Schlagwort ESG begründet kein Auditrecht.
 
 Vertragliche Auditrechte mit Umfang, Anlass, Vorankündigung, Kosten, Datenschutz, Vertraulichkeit und Nachbesserung ausformulieren. Selbstbewertung, gemeinsames Audit und unabhängige Prüfung sind unterschiedliche Instrumente; keine feste Vorankündigungsdauer erfinden. Nach Lieferantenantwort betroffene Abhilfemaßnahmen und Vertragsklauseln aktualisieren.
 
-Beim Geheimnisschutz GeschGehG und Richtlinie 2016/943, tatsächliche Schutzmaßnahmen sowie Ausnahmen prüfen. NDA, Zugangskontrollen, Wasserzeichen und beschränkte Empfängerkreise anhand der Information bewerten. Reverse Engineering nach Paragraf 3 Absatz 1 Nummer 2 und Offenbarung nach Paragraf 5 nicht ohne Tatbestandsprüfung freigeben; Kollisionsrecht gesondert bestimmen.
+Beim Geheimnisschutz Paragraf 2 Nummer 1 GeschGehG, tatsächliche Schutzmaßnahmen sowie Ausnahmen prüfen. NDA, Zugangskontrollen, Wasserzeichen und beschränkte Empfängerkreise anhand der Information bewerten. Reverse Engineering nach Paragraf 3 Absatz 1 Nummer 2 und Offenbarung nach Paragraf 5 GeschGehG nicht ohne Tatbestandsprüfung freigeben; Kollisionsrecht gesondert bestimmen.
 
 ### 1.7.4. Sanktionen und Exportkontrolle
 

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "arbeitszeugnisgenerator",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/gewo/__109.html",
@@ -12,16 +12,38 @@
       "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-262-20/",
       "checked_on": "2026-09-14",
       "supports": "BAG vom 27.04.2021: individuelle Leistungs- und Verhaltensbeurteilung regelmäßig im Fließtext statt Schulnotentabelle."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gewo/__109.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aktueller amtlicher Normtext zur Prüfung: Paragraf 109 GewO; Paragraf 126a BGB. Keine Gesamtverifikation sämtlicher Nebenmaterien."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-262-20/",
+      "checked_on": "2026-09-22",
+      "supports": "BAG, Urteil vom 27.04.2021, 9 AZR 262/20: Schulnotentabelle für qualifiziertes Zeugnis durch individuelle Sätze über belegte Leistung und Verhalten ersetzen. Grenze/Prüftiefe: Volltext Rn. 15 bis 18; kein Anspruch auf beliebige Superlative oder erfundene Erfolge."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-584-13/",
+      "checked_on": "2026-09-22",
+      "supports": "BAG, Urteil vom 18.11.2014, 9 AZR 584/13: Gute Bewertung verlangt konkrete Leistungstatsachen. Grenze/Prüftiefe: Volltext Rn. 8 bis 13; keine automatische Note bei fehlender Bewertung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gewo/__109.html",
+      "checked_on": "2026-09-23",
+      "supports": "Absatz 3: elektronische Erteilung mit Einwilligung; PDF-Dateiformat allein ist keine gesicherte formgerechte Erteilung."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Vollständige Schlusslektüre: Tatsachenbewertung, Zeugnisart und Fortsetzung nach geklärter Führungsverantwortung sind konkret; fehlende Note führt weder zur Standardnote noch zum Abbruch.",
+    "reason": "Schnellstart vollständig individuell gelesen und überarbeitet: Beschäftigungsdauer, Aufgaben und belegte Leistung als individuelles Zeugnis formulieren. Erfindungsfreie Rollenwechsel und Leistungsbeurteilung mit Fließtextpflicht verknüpft; berechtigte Notenwünsche von bloßer Branchenstatistik unterschieden. Redaktionelle Quellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert.",
     "changes": [
-      "Im ersten Durchgang Rollenklärung mit Änderung von Tätigkeits- und Führungsabschnitt verbunden.",
-      "Zeugnis und Berichtigungsschreiben bis zur Endfassung verlangt, Quellenstatus außerhalb des Zeugnistextes belassen."
+      "Erfindungsfreie Rollenwechsel und Leistungsbeurteilung mit Fließtextpflicht verknüpft; berechtigte Notenwünsche von bloßer Branchenstatistik unterschieden.",
+      "Kernfall mit operativem Entscheidungsanker, gezielten Nachfragen und Fortsetzung zum vollständigen angeforderten Dokument.",
+      "Leerstart: Endzeugnis, Zwischenzeugnis oder einzelne Beurteilungspassage anbieten. Dateien: Personalbelege still lesen, passenden Erstellungsweg klären. Klarer Auftrag: Individuellen Zeugnistext ohne zusätzliche Bestätigungsrunde formulieren.",
+      "Fachliche Koordination verändert Rollenabschnitt; späteres Ende ergänzt Zeitraum und Zeitformen; PDF-Wunsch klärt noch nicht Erteilungsform."
     ],
-    "sha256": "a7f5a2da882c0c5e5a9ca3eac86dbff3ac84aeeb5d89c447f72ba4e7c1a59e47"
+    "sha256": "bdb669bd7b7d68d177584c9d38bc7c755ebebbf558920b125115769e50cd3e6c"
   },
   "selection": {
     "positive": [
@@ -69,12 +91,58 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Gesamten Text einschließlich Streitfall, Quellen, Rollenwechsel und technischer Grenzen gelesen. Individuelle Beurteilung und persönliche Ergebniszurechnung bleiben erhalten; keine weitere Neuschreibung erforderlich.",
+    "reason": "Werkstatt vollständig individuell gelesen und überarbeitet: Beschäftigungsdauer, Aufgaben und belegte Leistung als individuelles Zeugnis formulieren. Erfindungsfreie Rollenwechsel und Leistungsbeurteilung mit Fließtextpflicht verknüpft; berechtigte Notenwünsche von bloßer Branchenstatistik unterschieden. Redaktionelle Quellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen.",
     "changes": [
-      "Nachfragen zu beobachteter Leistung führen über Vorzeugnisabgleich zum vollständigen Zeugnis.",
-      "Doppelte Aufgabenrouten im ersten Durchgang zusammengeführt; Ausbildungsabschnitte, Signatur, Vergleich und Vollstreckung erhalten.",
-      "Gezielte Passagenänderung von neuer Gesamtbewertung unterschieden."
+      "Erfindungsfreie Rollenwechsel und Leistungsbeurteilung mit Fließtextpflicht verknüpft; berechtigte Notenwünsche von bloßer Branchenstatistik unterschieden.",
+      "Vorhandene Fachzweige, Beispiele und Zugriffsalternativen erhalten; schwache Rechtsprechungshinweise entfernt oder auf belegte Reichweite begrenzt.",
+      "Personalnotizen zu belegtem Rollenbild, widersprüchliche Bewertungen, Übergang vom Zwischen- zum Endzeugnis und konkrete Formfreigabe.",
+      "Fachliche Koordination verändert Rollenabschnitt; späteres Ende ergänzt Zeitraum und Zeitformen; PDF-Wunsch klärt noch nicht Erteilungsform."
     ],
-    "sha256": "f769482e37f9342c0d3a2e905bec4aa45cb18a44198d4b72d8f21690b290d268"
+    "sha256": "f3e7ce0fa4eab5895ca6ab28609ec71017e843153dc3c7a72e4c556ab781faf7"
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leerstart: Endzeugnis, Zwischenzeugnis oder einzelne Beurteilungspassage anbieten.",
+      "Dateien: Personalbelege still lesen, passenden Erstellungsweg klären.",
+      "Klarer Auftrag: Individuellen Zeugnistext ohne zusätzliche Bestätigungsrunde formulieren."
+    ],
+    "continuation": "Fachliche Koordination verändert Rollenabschnitt; späteres Ende ergänzt Zeitraum und Zeitformen; PDF-Wunsch klärt noch nicht Erteilungsform.",
+    "enrichment": "Personalnotizen zu belegtem Rollenbild, widersprüchliche Bewertungen, Übergang vom Zwischen- zum Endzeugnis und konkrete Formfreigabe.",
+    "limits": "desk review; no live client execution"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "arbeitszeugnisgenerator/README.md",
+      "arbeitszeugnisgenerator/arbeitszeugnisgenerator-schnellstart.md",
+      "arbeitszeugnisgenerator/arbeitszeugnisgenerator-werkstatt.md",
+      "quality/evals/arbeitszeugnisgenerator.json"
+    ],
+    "opening_change": "Beschäftigungsdauer, Aufgaben und belegte Leistung als individuelles Zeugnis formulieren",
+    "norms": [
+      "Paragraf 109 GewO",
+      "Paragraf 126a BGB"
+    ],
+    "decisions": [
+      {
+        "citation": "BAG, Urteil vom 27.04.2021, 9 AZR 262/20",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-262-20/",
+        "application": "Schulnotentabelle für qualifiziertes Zeugnis durch individuelle Sätze über belegte Leistung und Verhalten ersetzen.",
+        "limit": "Volltext Rn. 15 bis 18; kein Anspruch auf beliebige Superlative oder erfundene Erfolge."
+      },
+      {
+        "citation": "BAG, Urteil vom 18.11.2014, 9 AZR 584/13",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-584-13/",
+        "application": "Gute Bewertung verlangt konkrete Leistungstatsachen.",
+        "limit": "Volltext Rn. 8 bis 13; keine automatische Note bei fehlender Bewertung."
+      }
+    ],
+    "remaining_limits": [
+      "Desk- und Quellenprüfung, kein Live-Client- oder Modelltest; übrige Fachzweige nicht vollständig rechtlich neu verifiziert.",
+      "Volltext Rn. 15 bis 18; kein Anspruch auf beliebige Superlative oder erfundene Erfolge.",
+      "Workflow-Anschlussprüfung 23.09.2026: individuelle Text- und Quellenprüfung, keine Live-Client-Ausführung. Frühere Entscheidungsprüfungen und ihre Reichweitengrenzen bleiben unverändert; keine erneute vollständige Rechtsprechungsprüfung behauptet."
+    ]
   }
 }

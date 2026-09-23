@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "bundesnetzagentur-verfahren",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/enwg_2005/__75.html",
@@ -22,15 +22,33 @@
       "url": "https://www.gesetze-im-internet.de/ki-mig/__2.html",
       "checked_on": "2026-09-14",
       "supports": "Auffangzuständigkeit der Bundesnetzagentur und fachliche sowie landesbezogene Ausnahmen für KI-Marktüberwachung."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/KartS/2018/EnVR__12-18.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Beschluss vom 8. Oktober 2019, EnVR 12/18, berichtigt am 25. Februar 2020, Randnummern 19 bis 30. Anwendung: Geschäftsgeheimnisse auch bei aussagekräftigen Rückschlüssen aus Aggregaten; Ermächtigung zur Veröffentlichung getrennt prüfen. Grenze: Damals Paragraf 31 ARegV; Erlösobergrenze und Regulierungskontosaldo nicht unterschiedslos geheim."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/enwg/__78.html",
+      "checked_on": "2026-09-22",
+      "supports": "Beschwerdefrist, Begründung und Anwaltsunterzeichnung im EnWG-Verfahren; kein allgemeiner VwGO-Ersatz."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/enwg_2005/__78.html",
+      "checked_on": "2026-09-23",
+      "supports": "Einlegung ab Zustellung und Begründung ab Einlegung mit jeweils eigener Monatsfrist; konkrete Verlängerungsentscheidung erforderlich."
     }
   ],
   "mini_review": {
-    "sha256": "4baf77785707faaf73224811af383a1c448fb284792a3ea6b3ee07fd58d4a9c8",
     "verdict": "revised",
-    "reason": "Der Mini wurde vollständig auf sektorabhängige Rechtswege, Fristauslöser und Geheimnisschutz geprüft.",
+    "reason": "Der Mini verlangt konkrete Geheimnisfolgen und die passende Veröffentlichungsbefugnis statt pauschaler Schwärzung sämtlicher Unternehmensdaten. Individueller Text- und Quellenreview, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert.",
     "changes": [
-      "Fehlende Verfügung oder Bekanntgabe gezielt klären und den passenden beauftragten Verfahrensentwurf fortsetzen."
-    ]
+      "EnVR 12/18 einschließlich Berichtigung und Ausnahmen bei Erlösobergrenze/Regulierungskontosaldo eingeordnet.",
+      "Geheimnisqualität, gesetzliche Offenlegungsbefugnis und Interessenabwägung getrennt.",
+      "Leer: Datenauskunft, Kostenbeschwerde oder Veröffentlichungsschutz. Dateien: still lesen und sektorgerechtes Dokument anbieten. Klar: direkt Antwort, Beschwerde oder Schutzantrag ausarbeiten.",
+      "Konzerndaten ändern Abgrenzung; tatsächliche Einlegung ändert Begründungsfrist; öffentliche Quelle verengt Geheimnisschutzfassung."
+    ],
+    "sha256": "9261034bd2e25ee54cc9dd9f55fd3061376cbf21f78f1e443e0c3c38b551b129"
   },
   "selection": {
     "positive": [
@@ -78,10 +96,53 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die ganze Werkstatt wurde auf Energie-, Telekommunikations- und sonstige Zuständigkeitsunterschiede gelesen.",
+    "reason": "Die Werkstatt unterscheidet Energie-Rechtsbeschwerde, Verwaltungsrechtsschutz und Geheimnisschutz; aggregierte Rückschlüsse und nicht geheime Kennzahlen werden differenziert. Die bezeichneten Anker wurden am amtlichen Entscheidungstext geprüft; keine pauschale Vollverifikation aller Nebenmaterien. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen.",
     "changes": [
-      "Sektorspezifische Verfahrenswege statt pauschalem Verwaltungsgerichtsweg; Datenfelder und vertrauliche Fassungen im Ablauf zugeordnet."
+      "EnVR 12/18 einschließlich Berichtigung und Ausnahmen bei Erlösobergrenze/Regulierungskontosaldo eingeordnet.",
+      "Geheimnisqualität, gesetzliche Offenlegungsbefugnis und Interessenabwägung getrennt.",
+      "Rechtsträger- und Messdatenabgrenzung, Kostenbeweis, getrennte Beschwerdefristen und vollständige/veröffentlichungsfähige Fassungen vertieft.",
+      "Konzerndaten ändern Abgrenzung; tatsächliche Einlegung ändert Begründungsfrist; öffentliche Quelle verengt Geheimnisschutzfassung."
     ],
-    "sha256": "ba0fe8a2c6dd0e81b716b8c212aa5762fb0e1ba176d6328ea5ea872a9351e0a1"
+    "sha256": "775afc9a63bca895e83a015bcdd9305e6601c97542dbca64d63cc18aa92b5a1c"
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Datenauskunft, Kostenbeschwerde oder Veröffentlichungsschutz.",
+      "Dateien: still lesen und sektorgerechtes Dokument anbieten.",
+      "Klar: direkt Antwort, Beschwerde oder Schutzantrag ausarbeiten."
+    ],
+    "continuation": "Konzerndaten ändern Abgrenzung; tatsächliche Einlegung ändert Begründungsfrist; öffentliche Quelle verengt Geheimnisschutzfassung.",
+    "enrichment": "Rechtsträger- und Messdatenabgrenzung, Kostenbeweis, getrennte Beschwerdefristen und vollständige/veröffentlichungsfähige Fassungen vertieft.",
+    "limits": "desk review; no live client execution"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "method": "desk_review",
+    "files": [
+      "bundesnetzagentur-verfahren/README.md",
+      "bundesnetzagentur-verfahren/bundesnetzagentur-verfahren-werkstatt.md",
+      "bundesnetzagentur-verfahren/bundesnetzagentur-verfahren-schnellstart.md",
+      "quality/evals/bundesnetzagentur-verfahren.json"
+    ],
+    "opening_change": "Bestimmte Auskunft, Festlegung oder Veröffentlichung angreifen und fristgebunden beantworten.",
+    "norms": [
+      "Paragrafen 71 und 78 EnWG",
+      "Paragraf 31 ARegV in der entscheidungserheblichen damaligen Fassung"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Beschluss vom 8. Oktober 2019, EnVR 12/18, berichtigt am 25. Februar 2020, Randnummern 19 bis 30",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/KartS/2018/EnVR__12-18.pdf?__blob=publicationFile&v=1",
+        "application": "Geschäftsgeheimnisse auch bei aussagekräftigen Rückschlüssen aus Aggregaten; Ermächtigung zur Veröffentlichung getrennt prüfen.",
+        "limit": "Damals Paragraf 31 ARegV; Erlösobergrenze und Regulierungskontosaldo nicht unterschiedslos geheim."
+      }
+    ],
+    "remaining_limits": [
+      "Keine vollständige Neuprüfung von Post-, Eisenbahn-, TKG- und DSA-Recht; aktuelle Festlegungen und Fristen im Einzelverfahren prüfen.",
+      "Desk-/Quellenreview, kein Live-Client- oder Modelltest. Bestehende Auswahl- und Ergebnisfälle unverändert erhalten.",
+      "Workflow-Anschlussprüfung 23.09.2026: individuelle Text- und Quellenprüfung, keine Live-Client-Ausführung. Frühere Entscheidungsprüfungen und ihre Reichweitengrenzen bleiben unverändert; keine erneute vollständige Rechtsprechungsprüfung behauptet."
+    ]
   }
 }

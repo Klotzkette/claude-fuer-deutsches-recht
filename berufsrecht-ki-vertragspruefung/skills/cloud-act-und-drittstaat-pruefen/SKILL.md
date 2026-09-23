@@ -21,7 +21,7 @@ Absatz 4 der jeweiligen Dienstleisterregelung. Wortlaut (am Beispiel § 43e Abs.
 
 ## Berufsrechtliche Auslegungslinie
 
-EU-/EWR-Konstellationen sind wegen gemeinsamer Datenschutz- und Berufsrechtsnähe regelmäßig leichter vertretbar. Außerhalb der EU/des EWR ist die Vergleichbarkeit des Geheimnisschutzes einzelfallabhängig zu prüfen.
+Der Sitz des Anbieters in der EU oder im EWR ersetzt die Prüfung der tatsächlichen Leistungs-, Support-, Backup- und Unterauftragnehmerstandorte nicht. Bei Auslandsleistungen ist die Vergleichbarkeit des Geheimnisschutzes nach [Paragraf 43e Absatz 4 BRAO](https://www.gesetze-im-internet.de/brao/__43e.html) zu prüfen, soweit dessen Ausnahme nicht greift; das gilt auch innerhalb der EU und des EWR. Weitere beteiligte Personen sind nach Absatz 3 einzubeziehen. Die datenschutzrechtlichen Anforderungen bleiben nach Absatz 8 daneben bestehen.
 
 Wichtig: Die Vergleichbarkeit bezieht sich auf den Schutz der Geheimnisse, nicht auf das allgemeine Rechtsschutzniveau. Selbst wenn ein Land eine funktionierende Justiz hat, kann der Schutz von Berufsgeheimnissen mangelhaft sein.
 
@@ -79,9 +79,9 @@ Das 2023 in Kraft getretene Data Privacy Framework regelt den datenschutzrechtli
 
 ## Empfehlungen
 
-- Bei EU/EWR-Anbietern: Auslandsbezug grundsätzlich unproblematisch
-- Bei US-Anbietern: Professional Secrecy Addendum, EU-Hosting-Zusicherung, kein US-Backup
-- Bei Anbietern aus sonstigen Drittstaaten (China, Indien): in der Regel rote Ampel — Vergleichbarkeit muss positiv nachgewiesen werden
+- Bei EU/EWR-Anbietern: tatsächliche Leistungs- und Zugriffsorte einschließlich Support und Unterauftragnehmer prüfen; keine Freigabe allein nach Sitz oder Hostingangabe.
+- Bei US-Bezug: konkrete behördliche Zugriffsmöglichkeiten und wirksame vertragliche sowie technische Schutzmaßnahmen prüfen; ein Berufsgeheimnis-Addendum oder EU-Hosting belegt für sich noch keine Zulässigkeit.
+- Bei sonstigen Drittstaaten: Schutz der Geheimnisse und Zugriffsmöglichkeiten am konkreten Leistungsort feststellen. Keine automatische Länderampel; ungeklärte Vergleichbarkeit ist eine offene Freigabevoraussetzung, keine durch Risikoakzeptanz ersetzbare Prüfung.
 
 ## Zentrale Normen (Paragrafenkette)
 
@@ -93,17 +93,10 @@ Das 2023 in Kraft getretene Data Privacy Framework regelt den datenschutzrechtli
 
 ## Triage-Frage (Entscheidungsbaum)
 
-```
-Anbieter Sitz EU/EWR?
- Ja → Auslandsbezug unproblematisch (DAV S. 15)
- Nein → US-Konzern oder US-Tochter?
- Ja → CLOUD Act anwendbar → Professional Secrecy Addendum erforderlich
- EU-Hosting-Zusicherung vorhanden?
- Ja → gelbe Ampel (struktureller Restzugriff bleibt)
- Nein → rote Ampel
- Nein → Sonstiges Drittland (CN, IN, RU)?
- → Vergleichbarkeitsnachweis positiv erforderlich → i.d.R. rote Ampel
-```
+1. Welche Stellen erbringen die Leistung oder können auf Geheimnisse zugreifen, und in welchen Ländern?
+2. Bei Auslandsleistungen den vergleichbaren Geheimnisschutz nach Paragraf 43e Absatz 4 BRAO einschließlich der gesetzlichen Ausnahme begründen. Sitz und Konzernzugehörigkeit liefern Anhaltspunkte, keine abschließende Freigabe.
+3. Konkrete Zugriffsrechte, Vertragsbindungen und technische Schutzmaßnahmen prüfen; Datenschutz und Berufsgeheimnis getrennt bewerten.
+4. Fehlende Nachweise gezielt nachfordern. Die betroffene Nutzung erst bei erfüllten gesetzlichen Voraussetzungen empfehlen; sonst erforderliche Beschränkung oder Alternative benennen.
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Strategische Optionen (vor dem Template entscheiden)

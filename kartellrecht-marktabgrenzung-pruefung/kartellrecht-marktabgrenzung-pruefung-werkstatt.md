@@ -1,6 +1,8 @@
 # 1. Marktdefinition und kartellrechtliche Bewertung
 
-Prüfe die behauptete Marktgrenze, Marktstellung oder Wettbewerbsbeschränkung anhand der vorhandenen Belege. Erstelle die bestellte Analyse, Berechnung, Vertragsprüfung oder Stellungnahme, ohne den Auftrag ungefragt zu einer Anmeldung oder Klage zu erweitern.
+Bestimme, auf welche Produkte und Anbieter die betroffenen Kunden tatsächlich ausweichen können und welche Umsätze deshalb in den Marktanteilsnenner gehören. Prüfe anschließend nur die beauftragte Marktstellung, Vertragsbeschränkung oder Transaktion. Verfasse die Analyse, Berechnung oder Stellungnahme, ohne daraus ungefragt eine Anmeldung oder Klage zu machen.
+
+Ohne Eingabe biete „Ersatzprodukte abgrenzen“, „Marktanteile unter Alternativen berechnen“ oder „behördliches Auskunftsverlangen beantworten“ an. Bei Dateien ohne Aufgabe lies Produkt- und Umsatzdaten still; frage nur nach dem unklaren Prüfzweck, statt Marktstudien zusammenzufassen. Bei klarem Auftrag beginne direkt mit der beauftragten Analyse oder Antwort. Ein nachgereichter Zertifizierungsnachweis ändert die Substitutionsbeurteilung, den Marktanteilsnenner und die betroffene Passage; keine neue Aufnahme. Dieser eigenständige Text verlangt keine lokalen Skills oder Analyseprogramme.
 
 ## 1.1 Gegenstand und Verfahrensstand
 
@@ -21,6 +23,8 @@ Liefere bei einem offenen entscheidenden Punkt die unabhängig tragfähigen Teil
 ### 1.3.1 Nachfrage und Angebot
 
 Prüfe Verwendungszweck, Eigenschaften, Preise, Qualität, Lieferzeiten, Zulassung und Wechselkosten aus Sicht der betroffenen Kunden. Technische Ähnlichkeit oder eine gemeinsame Branchenbezeichnung beweisen keine Austauschbarkeit. Ordne beobachtete Wechsel, Ausschreibungen, Angebotsvergleiche und Kundenbefragungen den jeweiligen Produkten und Kundengruppen zu.
+
+Bei behaupteter Austauschbarkeit trotz besonderer Kundenanforderungen ziehe EuGH, Urteil vom 14.02.1978, 27/76, United Brands, Randnummern 22 bis 35, heran: Besondere Produkteigenschaften tragen einen getrennten Markt nur zusammen mit tatsächlich geringer Austauschbarkeit und begrenztem Wettbewerbsdruck. Prüfe daher beispielsweise bei zertifizierten Klinikfiltern Beschaffungsregeln, kurzfristige Zulassung und Wechselmöglichkeiten, statt alle äußerlich ähnlichen Filter einzubeziehen. Das Urteil betraf Bananen und damaligen Artikel 86 EWG-Vertrag, heute Artikel 102 AEUV; es entscheidet weder den Klinikfiltermarkt noch einen universellen Zahlenwert für Substitution. Paragraf 18 Absatz 1 GWB und aktuelle Marktbelege bleiben gesondert anzuwenden. [Amtlicher Volltext](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:61976CJ0027).
 
 Prüfe Angebotssubstitution gesondert: kurzfristige Umstellbarkeit, Aufwand, zusätzliche versunkene Kosten und tatsächliche Anreize. Langfristig denkbarer Marktzutritt ist nicht ohne Weiteres sofortige Angebotssubstitution. Eine hypothetische kleine Preisänderung kann die Untersuchung strukturieren, ersetzt aber keine fehlenden Daten; bei unentgeltlichen Angeboten und Plattformen ist die Methode sachgerecht anzupassen.
 
@@ -90,13 +94,7 @@ Bei grenzüberschreitender Weitergabe bestimme Empfänger, Zweck, rechtliche Gru
 
 ## 1.9 Rechtsprechung und Quellen
 
-Diese vorhandenen Anker sind vor Verwendung am amtlichen Volltext und am konkreten Aussagegehalt zu prüfen:
-
-- EuGH, Urteil vom 4. Juni 2009, C-8/08, T-Mobile Netherlands: abgestimmte Verhaltensweisen und Wettbewerbszweck.
-- EuGH, Urteil vom 30. Januar 2020, C-307/18, Generics: potenzieller Wettbewerb und Vergleichsvereinbarungen.
-- BGH, Urteil vom 28. Juni 2011, KZR 75/10, ORWI: Kartellschadensersatz, Vorteilsausgleich und Darlegung im Abnehmerverhältnis.
-- BGH, Urteil vom 11. Dezember 2018, KZR 26/17, Schienenkartell: schadensrechtliche Gesamtwürdigung und Kartellbetroffenheit.
-- EuGH, Rechtssache 6/72, Continental Can: vorhandener Rechercheeinstieg zur Marktdefinition; Entscheidungsdatum, einschlägige Randnummern und genaue Tragweite vor Zitierung über den amtlichen Volltext verifizieren.
+Für abgestimmtes Verhalten, potenziellen Wettbewerb, Vorteilsausgleich und Kartellschadensersatz jeweils zusätzliche Rechtsprechung am amtlichen Volltext prüfen. Die Marktdefinitionsentscheidung in Abschnitt 1.3.1 beantwortet diese Fragen nicht. Keine ungeprüfte Entscheidungsübersicht als Beleg für den konkreten Verstoß verwenden.
 
 Prüfe GWB, Artikel 101 und 102 AEUV, Verordnung EG 1/2003, FKVO und einschlägige Gruppenfreistellungen in der maßgeblichen Fassung. Verwaltungsleitlinien sind als solche zu kennzeichnen. Keine Fundstellen oder historischen Vorrangbehauptungen aus Erinnerung ergänzen. Zusätzliche Abrufvermerke gehören in eine Arbeitsnotiz, nicht in den Mandantenbrief.
 
@@ -111,3 +109,31 @@ Dokumente verwenden soweit möglich Times New Roman 11 Punkt und dezimale Gliede
 ## 1.11 Technische Grenzen
 
 Ohne zugängliche Datei oder Quelle benenne die konkrete Prüfgrenze und bearbeite unabhängige Teile weiter. Ohne Export liefere Text statt eines erfundenen Dateilinks; behaupte keine vollständige Daten- oder Quellenprüfung, die nicht stattgefunden hat. Weitere Skills sind optional.
+
+## 1.12. Streitige Marktgrenzen entscheidungsfähig machen
+
+### 1.12.1. Die entscheidende Ausweichbehauptung isolieren
+
+Beginne nicht mit allen Produkten der Branche, sondern mit dem konkret umstrittenen Ersatz: Wer soll von welchem Produkt wann wohin wechseln können? Bei Klinikfiltern kann der entscheidende Punkt die für die jeweilige Anwendung erforderliche Zertifizierung sein; bei einer Plattform die tatsächliche Erreichbarkeit derselben Nutzergruppe. Trenne technische Eignung, rechtliche Nutzbarkeit, Lieferfähigkeit und wirtschaftliche Zumutbarkeit. Ein Nachweis nur einer dieser Voraussetzungen erledigt die übrigen nicht.
+
+Erstelle für die interne Prüfung eine kurze Beleggegenüberstellung aus realen Wechselvorgängen, fehlgeschlagenen Angeboten und belastenden internen Aussagen. Ein Vertriebsvermerk „keine Alternative“ kann zugunsten einer engen Abgrenzung sprechen, ist aber auf Autor, Zeitpunkt und Aussagezweck zu prüfen. Werden nur erfolgreiche Wechsel vorgelegt, frage gezielt nach den nicht erfolgreichen Ausschreibungen, soweit sie die behauptete Austauschbarkeit verändern können. Keine Kontakte mit Wettbewerbern eigenmächtig aufnehmen.
+
+### 1.12.2. Datenanforderung passend zum Engpass entwerfen
+
+Fehlt nur die Gültigkeit einer Zulassung, verlange Zertifikat, erfasste Verwendung und maßgeblichen Zeitraum. Fehlen räumliche Ausweichmöglichkeiten, frage nach tatsächlich bedienten Liefergebieten, Transportkosten und Lieferzeiten der relevanten Angebote. Bei behaupteter kurzfristiger Produktionsumstellung brauche es belegbare Umstellungsdauer, Investitionsbedarf und verfügbare Kapazität. Eine allgemeine Unternehmenspräsentation beantwortet diese Fragen nicht.
+
+Formuliere eine neutrale interne Anfrage: „Bitte ordnen Sie die dokumentierten Kundenwechsel den jeweiligen Anwendungen und Zeitpunkten zu und kennzeichnen Sie Fälle, in denen eine Umstellung an Zulassung oder Lieferfrist scheiterte.“ Eine solche Datenerhebung ist keine Aussage über gesetzliche Beweislast. Im Behörden- oder Gerichtsverfahren muss die Last für die konkrete Tatbestandsvoraussetzung gesondert bestimmt werden. Die Vermutung des Paragrafen 18 Absatz 4 GWB ersetzt weder die tragfähige Marktdefinition noch den Nachweis missbräuchlichen Verhaltens.
+
+### 1.12.3. Nach Antwort Rechnung und These gemeinsam ändern
+
+Antwort „Die Zertifizierung ist seit Juli vorhanden“: Prüfe, ob die betrachteten Umsätze das ganze Kalenderjahr oder nur die Zeit danach erfassen. Lege keine rückwirkende ganzjährige Austauschbarkeit zugrunde. Antwort „Die Zulassung betrifft nur eine andere Anwendung“: Halte diese Kundengruppe getrennt und ändere den Nenner nicht pauschal. Antwort „Zwei Kunden wechselten binnen vier Wochen“: Untersuche deren Beschaffungsbedingungen und ob der Befund auf die übrigen Kunden übertragbar ist.
+
+Bei 4 Millionen Euro relevantem Umsatz und 10 beziehungsweise 20 Millionen Euro Gesamtvolumen ergeben sich rechnerisch 40 beziehungsweise 20 Prozent. Die Aufgabe ist nicht, die günstigere Zahl auszuwählen, sondern die passende Abgrenzung zu begründen. Ungewisse Marktvolumina als Spannweite nur aus belegten Grenzen berechnen. Keine punktgenaue Zahl aus unvollständiger Erhebung und keine vermischten Umsatz- und Absatzanteile. Überprüfe nach jeder Änderung auch die Aussage zur nationalen Vermutung und zu weiteren Marktstellungsfaktoren.
+
+### 1.12.4. Zum richtigen Empfängerprodukt gelangen
+
+Ein internes Memo darf Alternativen, empfindliche Datenlücken und Gegenargumente offen gegenüberstellen. Eine Behördenantwort muss die einzelnen Fragen abarbeiten, Zeitraum und Datendefinition erklären und belegte Werte von Schätzungen trennen. Bei vertraulichen Anlagen erstelle auf Auftrag eine begründete Kennzeichnung und eine konsistente nicht vertrauliche Fassung; die bloße Kennzeichnung garantiert keinen rechtlichen Schutz.
+
+Bei knapper Behördenfrist fertige die belegbaren Antworten und gegebenenfalls einen begründeten Fristverlängerungsentwurf. Ein Verlängerungsantrag verändert die Frist erst nach maßgeblicher Entscheidung; den bisherigen Termin nicht aus dem Arbeitsstand löschen. Der Auftrag endet mit dem bestellten Dokument samt offener, ergebnisrelevanter Grenzen. Eine ernsthaft offene Marktgrenze kann als alternative Begründung stehen bleiben, wenn das Ergebnis unter beiden tragfähig ist; dann keine unnötige zusätzliche Erhebung erzwingen.
+
+Verarbeite die neue Zertifizierung in der bestellten Marktanalyse, etwa `marktdefinition.md`, und ändere Marktgrenze, Rechnung und Schlussfolgerung gemeinsam. Bei einem Behördenauftrag bleibt der vorhandene Antwortpfad maßgeblich. Ohne Dateizugriff die vollständige geänderte Passage samt korrigierter Rechnung liefern.

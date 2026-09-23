@@ -1,8 +1,10 @@
 # 1. Berufsrechtlichen Vorwurf prüfen und Verteidigung ausarbeiten
 
-Prüfe den konkreten Vorwurf anhand der Verfahrensakte und schreibe die beauftragte Einlassung, den Rechtsbehelf oder das Verteidigungsgutachten. Trenne den behaupteten Pflichtverstoß, den belegten Ablauf und die rechtliche Bewertung.
+Prüfe, ob die beanstandete Mandatsführung, Äußerung oder Amtsausübung eine persönlich vorwerfbare Berufspflichtverletzung trägt und welcher Rechtsschutz im erreichten Verfahrensstadium offensteht. Arbeite aus Vorwurf, Aktenbelegen und Entlastung die beauftragte Einlassung, den Rechtsbehelf oder das Verteidigungsgutachten aus; übernimm die Wertung der Aufsicht nicht als feststehenden Sachverhalt.
 
 ## 1.1. Berufsgruppe und Verfahrensstufe
+
+Ohne Falldaten biete die Wege „Kammeranhörung beantworten“, „Rüge gerichtlich überprüfen“ und „Anschuldigung für den Termin aufarbeiten“ an. Bei Dateien ohne Auftrag lies sie zunächst still und frage nur, ob eine Stellungnahme, der nächste Rechtsbehelf oder eine Terminvorbereitung gewünscht ist; passe diese Auswahl an die tatsächlich erreichte Stufe an. Ein klarer Auftrag wird unmittelbar bearbeitet, ohne Auswahlmenü und ohne vorangestellte Aktenzusammenfassung. Folgeantworten ersetzen die betroffene Tatsachenannahme und führen zum geänderten Schriftsatz, nicht zu einer neuen Aufnahme.
 
 Lies zuerst Vorwurf, letzte Entscheidung, Zustellnachweis und bisherige Reaktionen. Übernimm bekannte Berufsgruppe, Rolle und Verteidigungsrichtung. Unterscheide Rechtsanwaltschaft, Patentanwaltschaft, Steuerberatung, Wirtschaftsprüfung und Notariat; ähnliche Vorwürfe führen nicht notwendig zu gleichen Verfahren.
 
@@ -29,6 +31,8 @@ Beim Notar Amtspflichten und Gebührenbindung nach Paragrafen 14 und 17 BNotO so
 ## 1.4. Äußerungen, Werbung und Beteiligtenkommunikation
 
 Bei Unsachlichkeit oder Kollegenbeleidigung die vollständige Äußerung, Anlass, Adressat und vorherigen Schriftwechsel lesen. Tatsachenbehauptung, Bewertung und zugespitzte Interessenvertretung unterscheiden. Ein isoliertes Wort oder die bloße Beanstandung ersetzt keine Kontextprüfung.
+
+Bei anwaltlicher Zuspitzung prüfe Paragraf 43a Absatz 3 BRAO im Licht von Artikel 5 Absatz 1 GG. Nach BVerfG, Beschluss vom 2. Juli 2013, 1 BvR 1751/12, Randnummern 15–21 ([amtlicher Text](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2013/07/rk20130702_1bvr175112.html)), macht eine verletzende Formulierung mit Sachbezug die Äußerung nicht schon zur Schmähkritik; Anlass, beruflicher Bezug und begrenzter Empfängerkreis sind abzuwägen. Belege deshalb, welche Verfahrensposition angegriffen wurde und wer die Äußerung erhielt. Der Beschluss betraf ein zivilrechtliches Unterlassungsgebot, keine Kammer­rüge: Er ersetzt weder die berufsrechtliche Subsumtion noch rechtfertigt er bewusst unwahre Tatsachen oder jede Wiederholung gegenüber Dritten.
 
 Fehlt der vorangegangene Absatz oder die Antwort der Gegenseite, fordere den vollständigen Schriftwechsel an. Bearbeite den gesicherten Ablauf vorläufig weiter. Nach Eingang Kontext und Entlastung neu bewerten und die bestellte Stellungnahme fertigstellen; keine nicht belegte Provokation oder Rechtfertigung ergänzen.
 
@@ -79,3 +83,29 @@ Vor Abschluss Berufsgruppe, Verfahrensstufe, Zustellung, Empfänger, Antrag, Bel
 Tragende Normen und Rechtsprechung aus überprüfbaren Quellen sichern. Entscheidungen nur mit gesichertem Gericht, Datum, Aktenzeichen und nachvollziehbarem Inhalt verwenden; anderenfalls die konkrete Rechtsfrage als offen benennen. Quellenstatus und technische Einschränkungen in einer getrennten Arbeitsnotiz führen, nicht in den Empfängertext kopieren.
 
 Ohne weitere Skills hier weiterarbeiten; sie sind optionale Hilfen. Bei fehlendem Zugriff die konkrete Akte oder Quelle anfordern und unabhängige Teile fortführen, ohne Einsicht oder Prüfung zu behaupten. Ohne Export den vollständigen Text liefern. Verschwiegenheit wahren und Versand, Einreichung oder Offenlegung nur nach ausdrücklicher Freigabe und geklärter Berechtigung ausführen.
+
+## 2. Verteidigungsentscheidungen im laufenden Austausch
+
+### 2.1. Aus einer Anhörung wird ein Rechtsbehelf
+
+Bei „Die Kammer hat jetzt entschieden“ lies zuerst den Entscheidungssatz. Eine Rüge nach bereits abgegebener Anhörung ändert das Dokument von der Stellungnahme zum Einspruch; eine Zurückweisung des Einspruchs führt bei Rechtsanwälten zum Antrag nach Paragraf 74a BRAO. Für beide Stufen gilt jeweils die Monatsfrist ab Zustellung der zugehörigen Entscheidung, nicht ab deren Ausstellungsdatum. Trage den neuen Auslöser und den richtigen Empfänger ein. Eine nochmalige Bitte um Überdenken ersetzt den gerichtlichen Antrag nicht. Für andere Berufe erst das eigene Verfahrensrecht sichern.
+
+Lautet die Antwort „Ich habe nur den Umschlag nicht mehr“, frage nach Empfangsbekenntnis, Zustellungsurkunde oder belegtem Empfang und kennzeichne die Fristberechnung als vorläufig. Bei unmittelbar drohendem Fristablauf den hinreichend bestimmten Sicherungsentwurf priorisieren. Ein Antrag muss nicht durch unbelegte Sachangaben künstlich vollständig wirken. Halte die Ergänzung der Begründung und die tatsächliche Einreichung als getrennte Handlungen fest.
+
+### 2.2. Belastender Kontext statt nur günstiger Ausschnitte
+
+Bei einer beanstandeten Äußerung bilde intern die Passage mit vorangehender Behauptung, angesprochenem Verhalten und tatsächlichen Empfängern ab. Ergibt die nachgereichte E-Mail, dass die Äußerung zusätzlich öffentlich verbreitet wurde, ändere die Abwägung und die Verteidigung: Der begrenzte gerichtliche Empfängerkreis trägt dann nicht mehr die gesamte Handlung. Trenne die ursprüngliche Schriftsatzpassage von der späteren Veröffentlichung, statt beide mit demselben Rechtfertigungssatz zu behandeln. Die genannte Verfassungsentscheidung ersetzt die Prüfung dieser neuen Tatsachen nicht.
+
+Sagt der Nutzer „Die Zahl war falsch, das wusste ich damals nicht“, prüfe Informationsstand, Quelle und spätere Korrektur. Behaupte weder bewusste Unwahrheit noch erwiesene Unkenntnis. Eine sachlich belegte Richtigstellung kann neben der Verteidigung gegen einen Verschuldensvorwurf stehen. Formuliere die Erklärung zeitlich präzise: damaliger Kenntnisstand, heute erkannter Fehler und konkrete Berichtigung. Ein freiwilliges Bedauern nur auftragsgemäß und ohne ein nicht freigegebenes Schuldanerkenntnis einbauen.
+
+### 2.3. Fremdgeldvorwurf mit widersprüchlichen Buchungen
+
+Bei „Das Geld ist inzwischen ausgezahlt“ ändere den Zahlungsstand, aber streiche den Vorwurf verspäteter Weiterleitung nicht automatisch. Ordne Eingang, zunächst unklare Berechtigung, Klärung und Auszahlung getrennt zu. Verlange bei behaupteter Auszahlung den passenden Bankbeleg, nicht sämtliche Kontoumsätze. Ein Umbuchungsbeleg ist nicht ohne Weiteres ein Nachweis des Zugangs beim Berechtigten. Eine schriftliche Weisung kann die Bewertung einer Zwischenverwahrung verändern; prüfe ihren Zeitraum und ihren wirklichen Inhalt.
+
+Der Verteidigungsschriftsatz stellt nur belegte Entlastung als Tatsache dar. Ungeklärte Differenzen gehören als offener Prüfungspunkt in die interne Notiz. Fehlt ein Beleg für eine zentrale Behauptung, formuliere den bisher gesicherten Ablauf und einen gezielten Beweisantritt, statt die Aktenführung als Beweislastumkehr zulasten des Berufsträgers zu behandeln. Organisatorische Abhilfe für künftige Eingänge und die Bewertung des vergangenen Vorgangs bleiben getrennte Abschnitte.
+
+### 2.4. Akteneinsicht, Aussageumfang und Terminziel
+
+Nach Einsicht kann aus „keine Belege bekannt“ ein konkreter Streit um eine Zeugenaussage werden. Überarbeite dann nicht nur den Quellenvermerk: Benenne Wahrnehmungssituation, Erinnerungslücke oder entgegenstehenden Beleg und entscheide, ob eine schriftliche Erklärung genügt oder eine mündliche Verhandlung beantragt werden soll. Im Verfahren nach Paragraf 74a BRAO ist die beantragte mündliche Verhandlung gesetzlich vorgesehen; erkläre ihren konkreten Nutzen, ohne einen bestimmten Ausgang zu versprechen.
+
+Bei paralleler strafrechtlicher Beschuldigung vor einer inhaltlichen Einlassung die Abstimmung zur Aussageentscheidung kennzeichnen. Arbeite dennoch Rechtsbehelf, Akteneinsichtsbegehren und unproblematische Verfahrensangaben aus. Vollständige Mandatsakten nicht als vorsorgliche Anlage beifügen. Liefere schließlich einen empfängerfertigen Schriftsatz und davon getrennt die knappe Freigabenotiz mit tatsächlichem Zustellstand, offenem Beleg und zulässigem Geheimnisumfang. Ohne gesicherte Offenlegungsbefugnis bleibt gerade diese Anlage gesperrt, nicht jede weitere Bearbeitung.

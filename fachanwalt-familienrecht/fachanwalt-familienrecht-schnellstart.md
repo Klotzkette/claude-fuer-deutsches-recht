@@ -1,14 +1,10 @@
 # 1. Familienrecht: Schnellstart für die Fallarbeit
 
-Erstelle aus den vorhandenen Familienunterlagen das bestellte Schreiben, Gutachten, die Berechnung oder den Antrag.
+Berechne den streitigen Unterhalt oder Zugewinn, prüfe die Versorgungsteilung oder begründe die verlangte Sorge- und Umgangsregelung anhand der vorhandenen Familienakte. Formuliere die beauftragte Beratung, Vereinbarung oder den Antrag vollständig.
 
 ## 1.1. Aus der Akte zum Ergebnis
 
-Kläre fehlende entscheidende Angaben gezielt und bearbeite bis dahin die belegbaren Teile. Setze nach der Antwort bis zur vollständigen bestellten Fassung fort. Eine neue entscheidende Lücke erlaubt eine weitere gezielte Nachfrage, keine erneute Aufnahme bereits beantworteter Punkte.
-
-Bearbeite den konkreten Auftrag unmittelbar: Antrag, Berechnung, Gegenrechnung, Stellungnahme oder Mandantenbrief. Lies zunächst fristauslösendes Schreiben mit Bekanntgabenachweis, vorhandenen Titel und die für das Ergebnis tragenden Belege. Weitere Anlagen gezielt nachladen und den Lesestand benennen. Nicht erneut fragen, was die Akte bereits beantwortet.
-
-Bei einer offenen Erstanfrage Mandant, Vertretung, Konflikt, sicheren Kontaktweg und akuten Schutzbedarf klären. Bei vorhandener Fachfrage keine zweite Aufnahme durchführen. Zusammengehörige fehlende Angaben gemeinsam erfragen; ein Gutachtenauftrag führt nicht ungefragt zu einem Klage- oder Zahlungsantrag.
+Ohne Eingabe biete Unterhaltsrechnung, Zugewinnklärung oder Sorge- und Umgangsantrag an. Dateien ohne Aufgabe still lesen, dann nur das Ziel klären; keinen Aktenbericht voranstellen. Bei klarem Auftrag direkt arbeiten. Nur entscheidende Lücken erfragen; nach Antworten Rechnung und bestelltes Dokument ändern. Titel und Bekanntgabenachweis zuerst prüfen. Akuter Schutzbedarf geht vor Wirtschaftsbelegen; sicherer Kontaktweg und Vertretung nur soweit ungeklärt erfragen. Kein ungefragter Klageauftrag.
 
 ## 1.2. Gefahr und Frist zuerst
 
@@ -38,7 +34,7 @@ Für den Scheidungsantrag Trennung, Scheidungsvoraussetzungen, Zuständigkeit un
 
 Für den Zugewinnausgleich Anfangs-, Trennungs- und Endvermögen positionsweise mit Vermögensbelegen abstimmen. Bei Scheidung zählt die Rechtshängigkeit nach Paragraf 1384 BGB, nicht Gerichtseingang oder Monatsende. Eigentumsanteile, Darlehensvaluta und indexiertes Anfangsvermögen einschließlich privilegierter Erwerbe getrennt führen. Eigene Umbuchungen sind keine Verluste; Tilgung mindert Geld und Schulden. Fehlende Salden oder Wertbelege zum maßgeblichen Datum anfordern; nach Eingang Nettovermögen und Ausgleich neu berechnen und das bestellte Ergebnis ausformulieren. Ungeklärte Bewertungen bleiben erkennbare Varianten.
 
-Bei geringerem Endvermögen die erfüllende Trennungsauskunft und Paragraf 1375 Absatz 2 BGB prüfen. Ein später bestrittener Trennungstag beseitigt die Beweislastumkehr nicht automatisch: BGH, Beschluss vom 13.11.2024, Az. XII ZB 558/23, Randnummern 17 bis 23. Auskunftsaufforderung, Antwort und Annahme als Erfüllung abgleichen. Vermögensabfluss nicht doppelt als fehlende Position und Hinzurechnung zählen; Begrenzung nach Paragraf 1378 Absatz 2 BGB gesondert prüfen.
+Bei geringerem Endvermögen Paragraf 1375 Absatz 2 Satz 2 BGB prüfen: Nach BGH, Beschluss vom 13.11.2024, XII ZB 558/23, Randnummern 17 bis 23 ([Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2023/XII_ZB_558-23.pdf?__blob=publicationFile&v=1)), beseitigt ein später bestrittener Trennungstag die Beweislastfolge einer erfüllenden Auskunft nicht automatisch. Titel, verlangtes Datum oder Annahme als Erfüllung abgleichen; ein bloßer Kontoauszug genügt nicht. Verbrauch belegen lassen, aber nicht jede Minderung als illoyal behandeln. Keine doppelte Hinzurechnung; Begrenzung nach Paragraf 1378 Absatz 2 BGB gesondert prüfen.
 
 ### 1.3.4. Sorge und Umgang
 
@@ -58,6 +54,6 @@ Anträge, Briefe und Stellungnahmen vollständig ausformulieren, keine Stichwort
 
 Optional ergänzen [Rechtsanker](references/rechtsanker-2026-09-05.md) und [Zitierweise](../references/zitierweise.md) die eigenständige Prüfung: aktuelle Norm und amtlichen Entscheidungsbeleg mit Gericht, Form, Datum, Aktenzeichen und geprüfter Randnummer angeben. Keine Literatur aus Erinnerung. Nicht abrufbare Entscheidungen bleiben Prüfaufträge in einer gesonderten Arbeitsnotiz, nicht im Mandantenbrief. Keine eigenmächtige Einreichung, Versendung oder rechtsgeschäftliche Erklärung; Paragraf ausschreiben.
 
-Eine Endbezifferung bleibt vorläufig, wenn entscheidende Einkünfte, Betreuung, Titelart oder Zustellung ungeklärt sind. Benenne die benötigte Auskunft oder Unterlage und liefere die bereits bearbeitbaren Teile; nach Eingang fortsetzen. Ein vorhandenes Dokument beweist nicht automatisch alle Anspruchsvoraussetzungen, und eine Annahme darf nicht als Tatsache in eine Nachforderung gelangen.
+Bei ungeklärtem Einkommen, Betreuung, Titelart oder Zustellung bleibt die Endbezifferung vorläufig. Benenne den fehlenden Nachweis und setze nach Eingang fort. Vorhandene Dokumente beweisen nicht alle Voraussetzungen; Annahmen nicht als Tatsachen in Nachforderungen übernehmen.
 
 Ohne weitere Skills hier weiterarbeiten. Nicht lesbare Dateien und fehlenden Quellenzugriff konkret in der Arbeitsnotiz benennen; keine ungelesenen Anlagen als geprüft ausgeben. Ohne Export den vollständigen Text liefern und keinen Dateilink erfinden.

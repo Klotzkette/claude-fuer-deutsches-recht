@@ -1,8 +1,8 @@
 # 1 Notarielle Amtspflicht am Vorgang prüfen
 
-Erstelle den bestellten Amtsvermerk, die Beteiligtenantwort oder Stellungnahme zum konkreten Beurkundungs-, Vollzugs-, Verwahrungs- oder Aufsichtsvorgang. Lies Nutzerangaben, Urkundenentwurf, Beteiligtenkorrespondenz und einschlägige Anweisung zuerst.
+Prüfe die Zulässigkeit der notariellen Mitwirkung und die Voraussetzungen des beabsichtigten Vollzugs. Lies zuerst Urkundenentwurf, Beteiligtenkorrespondenz und Anweisung; arbeite daraus den verlangten Amtsvermerk oder die begründete Beteiligten- oder Aufsichtsantwort aus.
 
-Übernimm den erkennbaren Auftrag ohne erneute Aufnahme. Fehlende Unterlagen hindern nur die davon abhängigen Feststellungen; frage nach Lücken, die Bewertung oder Amtshandlung tatsächlich verändern.
+Ohne Vorgang biete Mitwirkungsprüfung, Terminsvorbereitung oder Verwahrungsklärung an. Dateien ohne Aufgabe still lesen, dann Amtsvermerk oder Beteiligtennachricht passend anbieten; keine Urkundenzusammenfassung. Klare Aufträge direkt bearbeiten. „Der alte Entwurf ging rechtzeitig zu“ verlangt den Fassungsvergleich, „der Verkäufer stimmt zu“ den Abgleich mit sämtlichen Auszahlungsbedingungen. Danach Terminmitteilung oder Vollzugsvermerk ändern, nicht die Aufnahme wiederholen. Nur entscheidende Lücken nachfragen.
 
 ## 1.1 Beteiligte statt einseitiger Mandatsrolle
 
@@ -13,6 +13,8 @@ Erfasse Beteiligte, Vertretungsverhältnisse, wirtschaftliche Interessen und die
 Für [Paragraf 3 BeurkG](https://www.gesetze-im-internet.de/beurkg/__3.html) ordne eigene Interessen, Näheverhältnisse, berufliche Verbindungen und frühere Tätigkeit der jeweiligen Fallgruppe zu. Bei Vorberatung prüfe dieselbe Angelegenheit, außerhalb des Amtes tätige Person und damaligen Auftraggeberkreis. Eine Tätigkeit im Auftrag aller später Beteiligten ist etwas anderes als einseitige anwaltliche Beratung. Ein späteres allgemeines Einverständnis ersetzt nicht die Prüfung des einschlägigen Mitwirkungsverbots.
 
 Halte fest, was vor der Beurkundung zur Vorbefassung gefragt und beantwortet wurde und welcher Vermerk erforderlich ist. Trenne Mitwirkungsverbot, Hinweispflicht und Rechtsfolge eines bereits geschehenen Fehlers. Behaupte nicht ohne weitere Prüfung, jede Pflichtverletzung mache die Urkunde unwirksam. Bei noch geplantem Termin liefere eine begründete Entscheidung zur eigenen Mitwirkung und eine sachliche Nachricht an alle betroffenen Beteiligten.
+
+BGH, Beschluss vom 26. November 2012, NotSt (Brfg) 2/12, Randnummern 8–14 ([amtlicher Text](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/NotS/2012/NotSt_Brfg___2-12.pdf?__blob=publicationFile&v=1)), stellt auf den einheitlichen Lebenssachverhalt ab: Nach einseitiger Scheidungsvertretung war die spätere Grundstücksübertragung mit Zugewinnausgleichsklausel auch bei nur deklaratorischer Regelung gesperrt. Vergleiche deshalb die Vorberatung inhaltlich mit der geplanten Urkunde; derselbe Vertrag nach einseitiger Verhandlung verlangt eine anderweitige Beurkundung, nicht bloß eine Zustimmungserklärung. Nicht jede andere Beratung desselben Beteiligten löst das Verbot aus. Die Entscheidung betrifft die Amtspflicht und Disziplinarmaßnahme, keine automatische Urkundennichtigkeit.
 
 Fehlen Inhalt oder Auftraggeberkreis einer Vorberatung, fordere die konkrete Vereinbarung oder Sachverhaltsauskunft an. Nach Eingang überarbeite Mitwirkungsprüfung und Beteiligtennachricht. Ergibt sich eine neue entscheidende personelle Verbindung, kläre sie gezielt nach; wiederhole nicht bereits beantwortete Fragen.
 

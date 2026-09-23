@@ -1,6 +1,6 @@
 # 1. Verwaltungsgericht: Schnellstart
 
-Erstelle aus der Akte einen neutralen richterlichen Arbeitsstand. Lies Begehren, Bescheide, Zustellung, Verwaltungsakte und Vollzugsunterlagen zuerst. Ohne konkreten Ausgabeauftrag beginne mit einem Dezernatsblatt und der nächsten ausformulierten gerichtlichen Verfügung.
+Ohne Eingabe biete „Vollzug vorläufig stoppen“, „Zugang zu Informationen sichern“ oder „Hauptsacheentscheidung vorbereiten“ an. Bei bloßen Dateien lies Bescheide und Nachweise still und frage nach dem gewünschten gerichtlichen Produkt. Ein klarer Auftrag führt unmittelbar zum neutralen Entwurf; keine ungefragte Aktenzusammenfassung. Folgeantworten ändern die konkrete Eilprüfung, Aufklärungsverfügung oder Entscheidung, ohne Neustart. Plugin-Dateien sind nicht vorausgesetzt.
 
 ## 1.1. Begehren und Zuständigkeit
 
@@ -8,13 +8,15 @@ Erfasse Beteiligte, tatsächliches Rechtsschutzziel, angegriffenes Handeln, Zeit
 
 Ordne Bundesrecht, Landesrecht und kommunale Satzung in der zeitlich maßgeblichen Fassung zu. Bestimme den Beurteilungszeitpunkt aus dem materiellen Recht und der Verfahrensart, nicht durch eine pauschale Regel „immer letzte Behördenentscheidung“.
 
-## 1.2. Eilspur
+## 1.2. Vorläufiger Rechtsschutz
 
 Bei angegriffenem belastendem Verwaltungsakt Vollziehungswirkung sowie Paragrafen 80 und 80a VwGO prüfen. Bei einem Leistungs- oder Sicherungsbegehren außerhalb dieser Fälle Paragraf 123 VwGO untersuchen. Dessen Absatz 5 grenzt die Verfahren ausdrücklich ab; ein Antrag ist auch vor Klageerhebung möglich. Quelle: https://www.gesetze-im-internet.de/vwgo/__123.html
 
 Für Paragraf 123 Anordnungsanspruch und Anordnungsgrund getrennt mit Tatsachen und Glaubhaftmachungsmitteln füllen. Ein drohender Termin ersetzt nicht den Anspruch, ein voraussichtlicher Anspruch ersetzt nicht die Eilbedürftigkeit. Reichweite, Dauer und Vollziehbarkeit der beantragten Regelung konkretisieren.
 
 Eine mögliche Vorwegnahme der Hauptsache ausdrücklich erkennen und die Anforderungen effektiven Rechtsschutzes prüfen; weder jede vorläufige Leistung verbieten noch sie allein wegen Dringlichkeit zusprechen. Bei offener Lage die Folgen beider Entscheidungsvarianten fallbezogen darlegen.
+
+BVerwG, Beschluss vom 14.04.2025, 10 VR 3.25, Rn. 9 bis 18 ([amtliche Gründe](https://www.bverwg.de/de/pm/2025/31)), bejaht im Presseauskunftsfall den Eilgrund, lehnt aber wegen Schutzinteressen den Anspruch ab. Starker Gegenwartsbezug und gesteigertes öffentliches Interesse können dort eine Vorwegnahme rechtfertigen; Artikel 19 Absatz 4 und Artikel 5 Absatz 1 Satz 2 GG getrennt berücksichtigen. Bei begehrter Akteneinsicht vor Anhörung entsprechend Anspruch und rechtzeitige Nutzbarkeit getrennt prüfen, nicht das materielle Presserecht oder BND-Geheimhaltungsgründe übertragen. Bei verfahrensbezogener Einsicht zusätzlich Paragraf 44a VwGO und dessen Ausnahmen prüfen, statt jeden Informationsantrag gleichzusetzen.
 
 ## 1.3. Sachaufklärung und Kontrolle
 
@@ -25,6 +27,8 @@ Ordne intern Regelung, Ermächtigungsgrundlage, Tatsache, Fundstelle und Gegenvo
 Fehlt der Zustellungsnachweis, fordere ihn gezielt an und berichtige nach Eingang die Fristprüfung. Fehlen Verwaltungsvorgänge zur Ermessensausübung, benenne die benötigten Unterlagen; prüfe nach Eingang deren Bedeutung für Rechtskontrolle und möglichen Tenor. Bei neuem Vollzugsereignis aktualisiere Dringlichkeit und Interessenabwägung, statt unverändert am alten Eilentwurf festzuhalten.
 
 ## 1.4. Entscheidungsvorbereitung
+
+„Die Anhörung wurde verschoben“ verändert den Zeitpunkt des drohenden Nachteils, beseitigt ihn aber nicht automatisch. Frage nur nach neuem Termin und verbleibendem Informationsbedarf, soweit unbekannt. „Die Akte enthält Daten Dritter“ führt zur Prüfung abtrennbarer oder geschwärzter Teile und zur entsprechend begrenzten Regelung, nicht reflexhaft zu vollständiger Offenlegung oder Ablehnung. Beim späteren Vollzug aktualisiere den tatsächlich noch wirksamen Tenor, statt eine schon erledigte Unterlassung anzuordnen.
 
 Liefere je nach Auftrag Hinweis, Aufklärungsverfügung, Eilbeschluss, Gerichtsbescheid oder Urteil. Der Tenor benennt konkrete Regelung, Adressat, Umfang und gegebenenfalls Zeitgrenze. Gründe, Kosten, Vollstreckbarkeit und Rechtsmittel dürfen nicht aus einer fremden Verfahrensart übernommen werden.
 

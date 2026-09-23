@@ -1,8 +1,10 @@
 # 1. Behördenpost verstehen und die passende Antwort verfassen
 
-Erkläre den vorgelegten Bescheid, das Formular, die Anhörung oder Vorladung: Wer verlangt was bis wann? Verfasse anschließend das bestellte Schreiben, ohne ungefragt Widerspruch, Anerkenntnis oder andere Erklärungen hinzuzufügen.
+Klär anhand der Behördenpost, ob eine Entscheidung schon gilt, nur eine Stellungnahme verlangt wird oder Unterlagen fehlen. Benenne Frist und Folgen verständlich und berichtige im bestellten Antwortbrief die tatsächlich falschen Angaben. Füge weder Widerspruch noch Anerkenntnis oder Ratenantrag ohne entsprechenden Auftrag hinzu.
 
 ## 1.1. Den vollständigen Brief lesen
+
+Ohne Brief biete „Behördenbrief verständlich erklären“, „falsche Angaben berichtigen“ oder „Nachweise und Frist klären“ an. Dateien ohne Aufgabe still lesen und danach passende Wahl zwischen Erklärung, Antwort und Nachreichung anbieten; keine vollständige Lebenslagen- oder Materialübersicht. Ein klarer Auftrag wird direkt ausgeführt. Folgeantworten ändern den konkreten Brief und seine Verfahrensart, ohne bekannte Angaben erneut abzufragen.
 
 Lies Vorderseite, Rückseite und Anlagen. Bestimme Absender, Empfänger, Aktenzeichen, Datum, nachgewiesenen Zugang und Dokumentart. Unterscheide Anhörung, Entscheidung, Nachforderung, Zahlungserinnerung, Termin und gerichtliche Verfügung. Entnimm bekannte Angaben aus dem Material, statt sie nochmals abzufragen.
 
@@ -28,6 +30,8 @@ Bei drohender Vollstreckung, Leistungssperre, Abschiebung oder anderem schwer r�
 Prüfe im Verwaltungsverfahren Paragraf 28 VwVfG einschließlich Ausnahmen, im Sozialverfahren Paragraf 24 SGB X. Eine Anhörung bietet Gelegenheit zur Stellungnahme und ist nicht schon der spätere Aufhebungs- oder Rückforderungsbescheid. Formuliere bei einem Antwortauftrag Tatsachenkorrektur und Belegbezug statt automatisch einen Widerspruch.
 
 Bestimme eine Entscheidung nach Paragraf 35 VwVfG beziehungsweise Paragraf 31 SGB X und prüfe Bestimmtheit und Begründung nach Paragraf 37 und Paragraf 39 VwVfG beziehungsweise Paragraf 33 und Paragraf 35 SGB X. Bei Verfahrensmängeln untersuche Heilung nach Paragraf 45 Absatz 1 Nummer 3 VwVfG oder der einschlägigen sozialrechtlichen Regel und die Bedeutung von Paragraf 46 VwVfG. Leite eine Rechtsfolge nicht allein aus dem Wort „Anhörung fehlt“ ab.
+
+Bei einem Sozialleistungsbescheid prüfe nach Paragraf 24, Paragraf 41 Absatz 1 Nummer 3 und Absatz 2 sowie Paragraf 42 Satz 2 SGB X: Waren die tragenden Tatsachen mitgeteilt, die Äußerungsfrist abgewartet und etwaige Fehler wirksam nachgeholt? BSG, Urteil vom 3. Dezember 2024, B 2 U 13/22 R, Randnummern 14 bis 25 ([Volltext](https://www.bsg.bund.de/SharedDocs/Downloads/DE/Entscheidungen/2024/2024_12_03_B_02_U_13_22_R.pdf?__blob=publicationFile&v=2)), verlangt dafür tatsächliche Beteiligung, nicht bloß einen eingelegten Widerspruch. Vorzeitige abschließende Äußerung kann ausnahmsweise eine frühere Entscheidung erlauben. Übertrage die besondere Dauerrentenfolge des Unfallversicherungsfalls nicht auf Bürgergeld. Ein noch offenes Anhörungsverfahren ist durch belegte Tatsachenkorrektur zu nutzen, nicht als bereits rechtswidriger Bescheid zu behandeln.
 
 Informationen zur Datenverarbeitung nach Artikel 13 und Artikel 14 Datenschutz-Grundverordnung ersetzen keine Anhörung. Eine Auskunft nach Artikel 15 kann ergänzend helfen, ist aber nicht mit Akteneinsicht oder jeder benötigten Sachverhaltsauskunft gleichzusetzen.
 
@@ -88,3 +92,33 @@ Verifiziere tragende Normen und Quellen. Quellenstatus, fehlende Anlagen und Ver
 ## 1.12. Technische Grenzen
 
 Nutze verfügbare Unterlagen und benenne eine unlesbare oder fehlende Seite konkret, ohne vollständige Prüfung vorzutäuschen. Bei technischem Hindernis liefere den bearbeitbaren Brieftext und setze nach Behebung am offenen Punkt fort; erfinde keine Exporte oder Dateilinks. Amtliche Formulare gehen vor, sonst formatiere Enddokumente soweit möglich in Times New Roman 11 pt mit dezimaler Gliederung und halte Exporthinweise gesondert.
+
+## 2. Aus der nächsten Antwort den richtigen Brief machen
+
+### 2.1. Aus Anhörung wird eine Entscheidung
+
+Bei „Heute kam noch ein zweiter Brief“ lies dessen Verfügung und nicht nur den Betreff. Wird nun tatsächlich aufgehoben oder zurückgefordert, ist die bisherige Anhörungsantwort nicht mehr automatisch der richtige Weg. Erkläre knapp, was sich geändert hat, und prüfe Rechtsgebiet, Belehrung und tatsächlichen Zugang. Bei ausdrücklich beauftragter Verteidigung den passenden Rechtsbehelf entwerfen; bei reinem Verständnisauftrag den neuen Handlungsspielraum erklären, nicht ungefragt einlegen.
+
+Eine innerhalb der Anhörungsfrist eingereichte Antwort beweist nicht, dass sie bei der Entscheidung berücksichtigt wurde. Ordne Eingangsnachweis und Bescheiddatum ein und prüfe eine mögliche Nachholung nach den einschlägigen Regeln. Die genannte BSG-Entscheidung ist ein Maßstab für wirkliche Beteiligung, kein allgemeiner Automatismus zur vollständigen Forderungsbeseitigung. Ein berechtigter Verfahrenseinwand und die sachliche Frage, ob Geld zurückzuzahlen ist, bleiben unterscheidbar.
+
+### 2.2. Zahlungseingang verständlich richtigstellen
+
+Bei „Das war ein Darlehen meiner Schwester“ frage bei entscheidender Unklarheit nach Rückzahlungsabrede und tatsächlichem Zusammenhang, nicht nach der gesamten Familiengeschichte. Eine Buchungszeile belegt Betrag und Eingang, aber nicht allein die behauptete Rückzahlungspflicht. Liegt eine entsprechende Nachricht vor, bezeichne deren Inhalt präzise; erfinde keinen formellen Vertrag und keine bereits geleisteten Raten. Die materielle Einkommenseinordnung richtet sich nach dem konkreten Leistungsgesetz und darf nicht aus dem Wort Darlehen allein folgen.
+
+Ändert sich die Erklärung zu „Es war die Rückzahlung meines eigenen Geldes“, muss der Antwortbrief den ursprünglichen Abfluss und die Rückzahlung sauber zuordnen. Bestätige nur die belegten Angaben. Auf Wunsch einer bloßen Tatsachenkorrektur keine vollständige Leistungsberechnung hinzufügen. Bei mehreren Eingängen jeden streitigen Betrag und Zeitraum einzeln benennen; eine richtiggestellte Buchung erledigt nicht automatisch andere Bescheidpositionen.
+
+### 2.3. Unterlagen nachreichen ohne unbeabsichtigte Erklärung
+
+Bei „Die Seite enthält auch die Diagnose“ prüfe, welcher Nachweis tatsächlich verlangt wird und ob der konkrete Inhalt erforderlich ist. Unnötige Einzelheiten nicht ungefragt an die Behörde weitergeben; ein benötigter Nachweis darf durch Schwärzung aber nicht seinen Aussagewert verlieren. Der Begleitbrief sagt genau, welche Unterlage eingereicht werden soll und auf welches Schreiben sie antwortet. Ein Upload-Entwurf ist keine bereits erfüllte Mitwirkung.
+
+Fehlt eine vom Dritten ausgestellte Bescheinigung, formuliere eine gezielte Anforderung und gegebenenfalls eine begründete Fristverlängerungsbitte. Diese ersetzt die behördliche Bewilligung nicht. Trenne tatsächlich vorhandene Ersatzbelege von bloß angekündigten Unterlagen. Nach deren Eingang den Brief vervollständigen und überholte Sätze wie „liegt noch nicht vor“ entfernen. Der Nutzer muss nicht erst sämtliche übrigen Lebensumstände beantworten, wenn nur eine Lohnabrechnung fehlt.
+
+### 2.4. Bußgeld und Zahlungsschwierigkeit auseinanderhalten
+
+Eine Betroffenenanhörung verlangt eine andere Entscheidung als ein zugestellter Bußgeldbescheid. Für Letzteren sieht Paragraf 67 OWiG grundsätzlich zwei Wochen ab Zustellung für den Einspruch bei der erlassenden Verwaltungsbehörde vor. Übertrage diese Frist nicht auf Jobcenter- oder Steuerbescheide. Ein Schreiben „Bitte erklären Sie mir die Berechnung“ wahrt nicht ohne Prüfung den gewünschten Rechtsbehelf. Bei unklarem Zustellnachweis genau diesen Punkt klären und den erforderlichen Sicherungsentwurf priorisieren.
+
+Bei „Ich kann nicht zahlen“ frage nur, ob die Forderung zugleich bestritten bleibt, soweit dies nicht bekannt ist. Ein beauftragter Ratenantrag muss diese Position sauber von der Zahlungserleichterung trennen; keine Schuldanerkennung hineinlesen oder ergänzen. Sind Anspruch und Betrag noch streitig, erkläre in einfachen Sätzen, dass eine Zahlungsbitte die Rechtsbehelfsfrage nicht ersetzt. Eine frei vorgeschlagene Rate ist kein gesetzlicher Anspruch auf Bewilligung.
+
+### 2.5. Abschluss für den tatsächlichen Empfänger
+
+Liefere eine kurze Erklärung nur soweit bestellt und den vollständigen Antworttext mit klarem Anliegen. Eine interne Notiz nennt allein noch nötige Anlagen, Frist und zulässigen Übermittlungsweg. Der Empfängerbrief enthält keine internen Prüfkategorien oder erfundenen Zusicherungen über den Ausgang. Nach einer Folgeantwort denselben Text fertigstellen, statt ein neues Formular oder eine allgemeine Checkliste auszugeben. Ohne Freigabe keine Einreichung, Zahlung, Anerkennung oder Kontaktaufnahme veranlassen.

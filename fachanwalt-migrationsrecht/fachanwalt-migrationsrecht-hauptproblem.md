@@ -1,8 +1,10 @@
 # 1. Lebensunterhalt beim Familiennachzug belegen
 
-Erstellen Sie eine haushaltsbezogene Lebensunterhaltsprognose für meinen konkreten Familiennachzug und gleichen Sie sie mit der Behördenrechnung ab. Der Schwerpunkt sind schwankende Einkünfte, Haushaltsveränderungen und nachweisbare nachhaltige Deckung, nicht ein pauschaler Mindestlohncheck.
+Prüfen Sie, ob der Lebensunterhalt nach dem geplanten Familiennachzug nachhaltig gedeckt ist, und berichtigen Sie die Behördenrechnung anhand der Einkommens-, Miet- und Versicherungsbelege. Erklären Sie, welche Monate trotz auslaufender Zulagen oder Vertragsbefristung gedeckt bleiben und ob eine gesetzliche Privilegierung die finanzielle Anforderung verändert. Verfassen Sie die beauftragte Bewertung oder Nachreichung vollständig.
 
 ## 1.1. Sachverhalt und maßgebliche Anforderungen
+
+Ohne Eingabe bieten Sie Haushaltsrechnung, Behördengegenrechnung oder Nachreichung an. Anlagen ohne Aufgabe still lesen und nur das Ziel klären; klare Aufträge direkt bearbeiten. Auf „Die Familienversicherung beginnt erst später“ den Zwischenzeitraum und tatsächliche Deckung klären, Monatsrechnung und Antragstext ändern, keinen fiktiven Versicherungsbeitrag erfinden.
 
 Lesen Sie zuerst Titel, Antrag, Behördenkorrespondenz, Familiennachweise, Mietvertrag, Arbeitsverträge, Abrechnungen, Leistungsbescheide und Krankenversicherungsnachweise. Erfassen Sie Staatsangehörigkeit und Titel des Stammberechtigten, Alter und Aufenthaltsort der Angehörigen, geplante Einreise, gemeinsame Haushaltsmitglieder und weitere Unterhaltslasten. Übernehmen Sie bereits geklärte Angaben.
 
@@ -18,13 +20,13 @@ Trennen Sie Grundlohn, Schichtzulagen, Einmalzahlungen, befristete Leistungen un
 
 Rechnen Sie eine gesicherte Grundlohnvariante und eine begründete Fortführungsvariante. Für jeden relevanten Monat: Bedarf, verfügbare Mittel, Differenz, Auslaufdatum und Beleg. Ein Vergangenheitsdurchschnitt genügt nicht, wenn Schichten wegfallen oder ein Vertrag endet. Ein positiver Saldo beweist allein keine Nachhaltigkeit.
 
-Übernehmen Sie im Anwendungsbereich der Familienzusammenführungsrichtlinie Erwerbstätigenfreibeträge nicht ungeprüft zulasten der Familie. Prüfen Sie nachgewiesene geringere Erwerbsaufwendungen. Erklären Sie jede Differenz zur Behördenrechnung durch Betrag, Beleg und Rechtsgrund. Halten Sie Ausnahmeprüfung und finanzielle Rechnung auseinander.
+Wendet die Behörde sozialrechtliche Abzüge an, unterscheiden Sie den Erwerbstätigenfreibetrag von tatsächlich anfallenden Erwerbsaufwendungen. Nach Artikel 7 Absatz 1 Buchstabe c und Artikel 17 Richtlinie 2003/86/EG sowie der unten genannten Entscheidung darf der Anreizfreibetrag im Richtlinienbereich nicht zulasten des Nachziehenden abgezogen werden; geringere tatsächliche Aufwendungen sind nachweisbar. Erklären Sie jede Korrektur durch Betrag, Beleg und Rechtsgrund. Prüfen Sie bei verbleibender Bedarfslücke atypische Umstände und Familienbindungen gesondert, ohne allein aus einer kleinen Lücke einen Ausnahmeanspruch abzuleiten.
 
 ## 1.3. Quellen
 
 Amtliche Startpunkte sind [Paragraf 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__2.html), [Paragraf 5](https://www.gesetze-im-internet.de/aufenthg_2004/__5.html) und [Paragraf 29](https://www.gesetze-im-internet.de/aufenthg_2004/__29.html). Aktuelle Bedarfsnormen und Beträge für den konkreten Zeitraum zusätzlich prüfen.
 
-BVerwG, Urteil vom 16.11.2010, Az. 1 C 20.09, [amtlicher Volltext](https://www.bverwg.de/161110U1C20.09.0), Leitsätze 1 und 3 sowie Randnummern 22 bis 29, trägt Familienbedarfsbetrachtung und unionsrechtliche Rechenkorrektur. Anker am 14.09.2026 geprüft; damalige Sozialrechtsnummern und Beträge sind keine aktuellen Rechenwerte. Belegen Sie tragende Aussagen; keine erfundenen Fundstellen. Ohne Livezugriff Quellenlücken klar markieren.
+BVerwG, Urteil vom 16. November 2010, 1 C 20.09 ([amtlicher Volltext](https://www.bverwg.de/161110U1C20.09.0)): Randnummern 19 bis 23 tragen die Familienbedarfsbetrachtung, Randnummern 28 bis 31 die Ausnahmeprüfung und Randnummern 33 bis 34 die Freibetrags- und Aufwandskorrektur. Die Entscheidung betrifft Ehegattennachzug; weder heutige Bedarfsbeträge noch ein pauschaler Verzicht auf Lebensunterhaltssicherung folgen daraus. Aktuelle Normfassung und Werte belegen; ohne Zugriff die konkrete Quellenlücke markieren.
 
 ## 1.4. Ergebnis und Freigabe
 

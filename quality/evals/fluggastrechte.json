@@ -1,22 +1,54 @@
 {
   "schema_version": 1,
   "plugin": "fluggastrechte",
-  "reviewed_on": "2026-09-17",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://eur-lex.europa.eu/eli/reg/2004/261/oj/deu",
       "checked_on": "2026-09-14",
       "supports": "Artikel 5 und 7 bis 9: Mitteilungsfrist und Ersatzzeiten bei Annullierung, distanzbezogener Ausgleich pro Person, getrennte Betreuung."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=ecli:ECLI:EU:C:2008:771",
+      "checked_on": "2026-09-22",
+      "supports": "EuGH, Urteil vom 22.12.2008, C-549/07, Wallentin-Hermann: Rn. 23–27, 39–43: Technisches Ereignis und externe Ursache unterscheiden; Mindestwartung ersetzt nicht Nachweis zumutbarer Maßnahmen. Grenze: Verdeckter externer Fabrikationsfehler kann anders liegen; keine wirtschaftlich untragbaren Maßnahmen verlangt."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62007CJ0402",
+      "checked_on": "2026-09-22",
+      "supports": "EuGH, Urteil vom 19.11.2009, C-402/07 und C-432/07, Sturgeon: Rn. 61–63: Ausgleich bei mindestens drei Stunden Endzielverlust, Kürzung in passender Langstreckenkategorie prüfen. Grenze: Keine begriffliche Gleichstellung zur Annullierung; Entlastung und Anwendungsbereich bleiben erforderlich."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62017CJ0537",
+      "checked_on": "2026-09-22",
+      "supports": "EuGH, Urteil vom 31.05.2018, C-537/17, Wegener: Rn. 16–25: Einheitliche EU-Abflugbuchung bleibt trotz Flugzeugwechsel im Drittstaat zusammenhängende Beförderung. Grenze: Keine automatische Übertragung auf getrennte Buchungen oder Rückflug."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=celex:62020CJ0028",
+      "checked_on": "2026-09-22",
+      "supports": "EuGH, Urteil vom 23.03.2021, C-28/20, Airhelp: Rn. 30–42 und Tenor: Rechtmäßiger eigener Tarifstreik nicht allein außergewöhnlicher Umstand. Grenze: Externe Streiks und andere Streikziele separat würdigen."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32004R0261",
+      "checked_on": "2026-09-22",
+      "supports": "Artikel 5 bis 8: Ausgleichsstufen, Informationsausnahmen, Halbierung und Beförderungswahlrechte anhand amtlicher Textauszüge geprüft; Reformvorschläge nicht übernommen."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32004R0261",
+      "checked_on": "2026-09-23",
+      "supports": "Artikel 5 Absatz 4 und Artikel 7 Absatz 3 im amtlichen englischen Text gelesen: Informationsnachweis und Gutscheinvereinbarung; deutsche Direktabrufe technisch gesperrt."
     }
   ],
   "mini_review": {
-    "verdict": "retained",
-    "reason": "Vollständige Textprüfung am 18. September 2026: Der Schnellstart trennt Ausgleich je Person, Betreuungs- und Erstattungspositionen und führt nach Flug- oder Mitteilungsnachweisen zur bestellten Forderungsfassung weiter. In dieser Schlussprüfung kein zusätzlicher Mini-Eingriff nötig.",
+    "verdict": "revised",
+    "reason": "Rechenstufen, Sturgeon-Anwendung und technische Defekte mit operativem Wallentin-Hermann-Anker ergänzt; Anfrage führt bis zur fertigen Antwort.",
     "changes": [
-      "Bestehende Nachforderung von Flug- und Ersatzflugzeiten sowie Fortsetzung zur Endfassung beibehalten.",
-      "Keine neue Quellenverifikation oder Live-Modellprüfung behauptet."
+      "Betrag pro Person und Beispiel 880 km/5 Stunden ergänzt, keine Begrenzung auf Ticketpreis.",
+      "Technische Defekte, zumutbare Maßnahmen, eigener Streik und Drittstaatenanschluss konkretisiert.",
+      "Entwurfsbeschränkung und interner Überschriftenjargon entfernt; kein automatischer Klageauftrag.",
+      "Ausgleich, Airline-Ablehnung oder Mehrkosten wählen. Dateien still lesen, klare Aufträge direkt bearbeiten, Folgeantwort dokumentbezogen umsetzen."
     ],
-    "sha256": "3b075e59e441b01379ee72884de2fc0edc8e5b43b9b4901992e04726dec8109c"
+    "sha256": "3860d88d2c345a78bb2a9d4112746126ff47e17ea5169e85fbbc1e45f5a6daae"
   },
   "selection": {
     "positive": [
@@ -64,12 +96,72 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Vollständige Werkstattprüfung am 18. September 2026: Doppelte Ausgaberouten und sachfremde Mietrechtszuordnungen überlagerten den Fluggastauftrag; pauschale technische Schwellen und Nachweisanforderungen waren nicht fallbezogen.",
+    "reason": "Alle Störungs- und Verfahrenszweige erhalten; vier Entscheidungen mit Auslöser, Folge und Grenze erklärt, ungeprüfte Datums-/Aktenzeichenreste und Mietrechtsausflug entfernt.",
     "changes": [
-      "Doppelte Tabellen und Schlussrouten durch Buchungs-, Störungs-, Berechnungs- und Einwendungsprüfung mit gezielten Nachforderungen zusammengeführt.",
-      "Mietrechtsnormen auf ein gegebenenfalls gesondertes Mietverhältnis begrenzt; ungeprüfte Entscheidungsangaben ausdrücklich prüfbedürftig gehalten.",
-      "Betreuung, Ausgleich, Erstattung, Abtretung und Freigabe getrennt; keine fingierte Volltextprüfung oder Versandhandlung."
+      "Betrag pro Person und Beispiel 880 km/5 Stunden ergänzt, keine Begrenzung auf Ticketpreis.",
+      "Technische Defekte, zumutbare Maßnahmen, eigener Streik und Drittstaatenanschluss konkretisiert.",
+      "Entwurfsbeschränkung und interner Überschriftenjargon entfernt; kein automatischer Klageauftrag.",
+      "Gutschein und Vergleich, Informationsnachweis, Ersatzangebot, Mehrpersonenbelege und selbst beschaffter Ersatzflug ergänzt."
     ],
-    "sha256": "b895a4cd67558436b27d4f9b511d0049653f83d02514322849b18310ac992db3"
+    "sha256": "db216598c8883d63cebf0394ab7abbfc0211fa4fa0df47a15e0a17cdc6fac95a"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "fluggastrechte/fluggastrechte-schnellstart.md",
+      "fluggastrechte/fluggastrechte-werkstatt.md",
+      "fluggastrechte/README.md",
+      "quality/evals/fluggastrechte.json"
+    ],
+    "opening_change": "Ausgleich pro Reisendem und konkrete Einwände statt abstrakter Rollenbeschreibung; Betreuung und Erstattung gesondert.",
+    "norms": [
+      "Artikel 3 bis 9 VO (EG) 261/2004",
+      "Artikel 19, 22 und 35 Montrealer Übereinkommen",
+      "Paragrafen 286 und 288 BGB"
+    ],
+    "decisions": [
+      {
+        "citation": "EuGH, Urteil vom 22.12.2008, C-549/07, Wallentin-Hermann",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=ecli:ECLI:EU:C:2008:771",
+        "application": "Rn. 23–27, 39–43: Technisches Ereignis und externe Ursache unterscheiden; Mindestwartung ersetzt nicht Nachweis zumutbarer Maßnahmen.",
+        "limit": "Verdeckter externer Fabrikationsfehler kann anders liegen; keine wirtschaftlich untragbaren Maßnahmen verlangt."
+      },
+      {
+        "citation": "EuGH, Urteil vom 19.11.2009, C-402/07 und C-432/07, Sturgeon",
+        "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62007CJ0402",
+        "application": "Rn. 61–63: Ausgleich bei mindestens drei Stunden Endzielverlust, Kürzung in passender Langstreckenkategorie prüfen.",
+        "limit": "Keine begriffliche Gleichstellung zur Annullierung; Entlastung und Anwendungsbereich bleiben erforderlich."
+      },
+      {
+        "citation": "EuGH, Urteil vom 31.05.2018, C-537/17, Wegener",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62017CJ0537",
+        "application": "Rn. 16–25: Einheitliche EU-Abflugbuchung bleibt trotz Flugzeugwechsel im Drittstaat zusammenhängende Beförderung.",
+        "limit": "Keine automatische Übertragung auf getrennte Buchungen oder Rückflug."
+      },
+      {
+        "citation": "EuGH, Urteil vom 23.03.2021, C-28/20, Airhelp",
+        "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=celex:62020CJ0028",
+        "application": "Rn. 30–42 und Tenor: Rechtmäßiger eigener Tarifstreik nicht allein außergewöhnlicher Umstand.",
+        "limit": "Externe Streiks und andere Streikziele separat würdigen."
+      }
+    ],
+    "remaining_limits": [
+      "Desk-/Quellenreview, kein Live-Modelltest.",
+      "Wallentin-Hermann und Wegener in amtlicher englischer Fassung gelesen; Sturgeon Rn. 58–64 und Airhelp maßgebliche Abschnitte teilweise über amtlich indexierte Volltextauszüge wegen wechselnder Abruffehler, keine vollständige erneute Volltextlektüre dieser beiden behauptet.",
+      "Sonderfälle Türöffnung, Vorverlegung, Codeshare, Montreal-Höchstbetrag und nationale Zuständigkeit nicht vollständig neu verifiziert.",
+      "Workflow-Ergänzung am 2026-09-23: individuelle Textprüfung, keine erneute Gesamtverifikation der bestehenden Entscheidungsanker; deren dokumentierte Quellen- und Zugriffsgrenzen bleiben bestehen."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Ausgleich, Airline-Ablehnung oder Mehrkosten wählen.",
+      "Buchung und Airline-Schreiben still lesen; Forderung oder Ereigniserwiderung anbieten.",
+      "Bestellte Rechnung und Schreiben direkt erstellen."
+    ],
+    "continuation": "Zahlungszweck -> richtige Position und Restforderung; Mitteilungszugang -> Ausgleichsausnahme; Ereignisbericht -> konkrete Erwiderung ändern.",
+    "enrichment": "Gutschein und Vergleich, Informationsnachweis, Ersatzangebot, Mehrpersonenbelege und selbst beschaffter Ersatzflug ergänzt.",
+    "limits": "desk review; no live client execution"
   }
 }

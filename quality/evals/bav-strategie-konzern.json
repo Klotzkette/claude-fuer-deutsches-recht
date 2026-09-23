@@ -1,8 +1,143 @@
 {
- "schema_version":1,"plugin":"bav-strategie-konzern","reviewed_on":"2026-09-18",
- "sources":[{"url":"https://www.gesetze-im-internet.de/betravg/__16.html","checked_on":"2026-09-14","supports":"Absätze 1 bis 3 und 5: Anpassungsprüfung, Vergleichswege und mehrere Ausnahmen."}],
- "mini_review":{"sha256":"94537c8b01ff9e6c24ed53218ce368630b567021ed567a2c7dbb2bc3109df79f","verdict":"retained","reason":"Aktuellen Gesamttext gelesen. Zusage, Finanzierung und Bilanz bleiben getrennt; fehlende Dienstzeiten, Zusagefassungen und Anpassungsdaten führen zur betroffenen Neuberechnung und anschließend zur fertigen Entscheidungsvorlage. Keine pauschale Konzernlösung oder erfundene Deckungsquote vorgesehen. Keine zusätzliche Textkorrektur nötig; keine neue Quellen- oder Live-Modellprüfung.","changes":[]},
- "workshop_review":{"sha256":"c6cad3e369077f51600ca8a2eff773591ed3d6e8025fc5bba1eedd672d1967cb","verdict":"retained","reason":"Werkstatt vollständig gelesen. Besitzstandsvergleich, Anpassung, Mitbestimmung, CTA und Übertragung haben unterschiedliche Prüfgegenstände. Nachgereichte Daten ändern Vergleich und Übergangsregelung; vollständige Personaldaten gelten ausdrücklich nicht als rechtliche Freigabe. Die Ausgabe richtet sich nach dem Auftrag und Dateiwunsch, nicht nach einer Pflichtsammlung aller Konzernunterlagen. Vorhandene Rechtsprechungsanker bleiben vor Verwendung zu prüfen; kein Live-Modelltest.","changes":[]},
- "selection":{"positive":["Vergleichen Sie Anpassungspflichten unserer drei Konzernversorgungssysteme.","Erstellen Sie eine Harmonisierungsvorlage mit getrennten Besitzständen."],"negative":["Empfehlen Sie einen privaten ETF-Sparplan.","Berechnen Sie ausschließlich die gesetzliche Altersrente ohne Betriebsrente."]},
- "cases":[{"id":"drei-systeme-anpassung","request":"Erstellen Sie ergebnis.md als Entscheidungsvorlage zum 14.09.2026. Eine Unternehmensgruppe hat drei ausschließlich arbeitgeberfinanzierte Systeme: A ist eine Direktzusage ohne Anpassungsklausel; B eine Direktversicherung, bei der nach Vertrag und Abrechnungen seit Rentenbeginn sämtliche auf den Rentenbestand entfallenden Überschussanteile zur Erhöhung laufender Leistungen verwendet werden; C eine Zusage mit ausdrücklicher jährlicher Erhöhung um mindestens ein Prozent. Ein Konzernmemo behauptet, nur C könne von der dreijährigen Anpassungsprüfung ausgenommen sein und alle übrigen Systeme müssten zwingend nach Verbraucherpreisindex erhöht werden. Prüfen Sie diese Aussage, ohne unbekannte Rentenbeträge oder wirtschaftliche Daten zu ergänzen.","input_files":[],"deliverables":["ergebnis.md"],"criteria":[{"id":"C01","text":"Prüft B als eigenständigen Ausnahmeweg und verwirft den behaupteten Alleinstatus von C.","deliverables":["ergebnis.md"]},{"id":"C02","text":"Unterscheidet bei A Prüfpflicht, wirtschaftliche Lage und die gesetzlichen Vergleichswege statt automatisch eine bestimmte Erhöhung festzusetzen.","deliverables":["ergebnis.md"]},{"id":"C03","text":"Ordnet die Ergebnisse je System zu und nennt fehlende Berechnungsdaten, ohne einen einheitlichen Konzernprozentsatz zu erfinden.","deliverables":["ergebnis.md"]}],"target_skill":"governance-und-anpassungsmechanismen"}]
+  "schema_version": 1,
+  "plugin": "bav-strategie-konzern",
+  "reviewed_on": "2026-09-23",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/betravg/__16.html",
+      "checked_on": "2026-09-14",
+      "supports": "Absätze 1 bis 3 und 5: Anpassungsprüfung, Vergleichswege und mehrere Ausnahmen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/betravg/__1.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aktueller amtlicher Normtext zur Prüfung: Paragraf 1 Absatz 1 Satz 3 und Absatz 2 Nummer 2a BetrAVG; Artikel 2 Richtlinie (EU) 2016/2341. Keine Gesamtverifikation sämtlicher Nebenmaterien."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/3-azr-408-10/",
+      "checked_on": "2026-09-22",
+      "supports": "BAG, Urteil vom 19.06.2012, 3 AZR 408/10: Bei Leistungskürzung der Pensionskasse zugesagte und gezahlte Leistung vergleichen; dynamische Satzungsverweisung beseitigt Einstandspflicht nicht. Grenze/Prüftiefe: Volltext Rn. 36 bis 44; heutige reine Beitragszusage war nicht entschieden."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/3-azr-517-13/",
+      "checked_on": "2026-09-22",
+      "supports": "BAG, Urteil vom 14.07.2015, 3 AZR 517/13: Dynamische Bezugnahme bei späterer Versorgungsänderung durch dreistufigen Schutz prüfen. Grenze/Prüftiefe: Volltext Rn. 25 bis 31; kirchlicher Vertragsfall, keine steuerrechtliche Globalbewertung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/betravg/__16.html",
+      "checked_on": "2026-09-23",
+      "supports": "Absätze 3 und 4: konkret nachzuweisende Ausnahmen und begrenzte Dreikalendermonatsregel bei qualifizierter Mitteilung; keine allgemeine Klagefrist."
+    }
+  ],
+  "mini_review": {
+    "sha256": "13965ebb219348ab2c2cc0abe782e6cac1ec7b5f0bec16ed9919a98057770471",
+    "verdict": "revised",
+    "reason": "Schnellstart vollständig individuell gelesen und überarbeitet: Datierte Versorgungszusagen und Versorgungsträgerleistungen im Konzern abgleichen. Einstandspflicht trotz dynamischer Satzungsverweisung und heutige Ausnahme reiner Beitragszusage getrennt; IORP-II-Anwendungsbereich konkretisiert. Redaktionelle Quellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert.",
+    "changes": [
+      "Einstandspflicht trotz dynamischer Satzungsverweisung und heutige Ausnahme reiner Beitragszusage getrennt; IORP-II-Anwendungsbereich konkretisiert.",
+      "Kernfall mit operativem Entscheidungsanker, gezielten Nachfragen und Fortsetzung zum vollständigen angeforderten Dokument.",
+      "Leerstart: Besitzstand, Anpassung oder Trägerkürzung anbieten. Dateien: Zusagen still lesen; passenden Kohorten- oder Leistungsauftrag klären. Klarer Auftrag: Rechnung und bestelltes Versorgungsdokument unmittelbar erstellen.",
+      "Entgeltdefinition ändert Besitzstandsrechnung und Übergang; Überschussnachweis ändert Anpassungsweg; Kürzungskomponente ändert Differenzanspruch."
+    ]
+  },
+  "workshop_review": {
+    "sha256": "0596345f78f5007dcd757aa0316e9628f68f8fbd737d536231bd8cbd702d4444",
+    "verdict": "revised",
+    "reason": "Werkstatt vollständig individuell gelesen und überarbeitet: Datierte Versorgungszusagen und Versorgungsträgerleistungen im Konzern abgleichen. Einstandspflicht trotz dynamischer Satzungsverweisung und heutige Ausnahme reiner Beitragszusage getrennt; IORP-II-Anwendungsbereich konkretisiert. Redaktionelle Quellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen.",
+    "changes": [
+      "Einstandspflicht trotz dynamischer Satzungsverweisung und heutige Ausnahme reiner Beitragszusage getrennt; IORP-II-Anwendungsbereich konkretisiert.",
+      "Vorhandene Fachzweige, Beispiele und Zugriffsalternativen erhalten; schwache Rechtsprechungshinweise entfernt oder auf belegte Reichweite begrenzt.",
+      "Verliererkohorten, Rentenanpassung samt begrenzter Dreimonatsregel, Pensionskassenkomponenten und Regelungskonsistenz.",
+      "Entgeltdefinition ändert Besitzstandsrechnung und Übergang; Überschussnachweis ändert Anpassungsweg; Kürzungskomponente ändert Differenzanspruch."
+    ]
+  },
+  "selection": {
+    "positive": [
+      "Vergleichen Sie Anpassungspflichten unserer drei Konzernversorgungssysteme.",
+      "Erstellen Sie eine Harmonisierungsvorlage mit getrennten Besitzständen."
+    ],
+    "negative": [
+      "Empfehlen Sie einen privaten ETF-Sparplan.",
+      "Berechnen Sie ausschließlich die gesetzliche Altersrente ohne Betriebsrente."
+    ]
+  },
+  "cases": [
+    {
+      "id": "drei-systeme-anpassung",
+      "request": "Erstellen Sie ergebnis.md als Entscheidungsvorlage zum 14.09.2026. Eine Unternehmensgruppe hat drei ausschließlich arbeitgeberfinanzierte Systeme: A ist eine Direktzusage ohne Anpassungsklausel; B eine Direktversicherung, bei der nach Vertrag und Abrechnungen seit Rentenbeginn sämtliche auf den Rentenbestand entfallenden Überschussanteile zur Erhöhung laufender Leistungen verwendet werden; C eine Zusage mit ausdrücklicher jährlicher Erhöhung um mindestens ein Prozent. Ein Konzernmemo behauptet, nur C könne von der dreijährigen Anpassungsprüfung ausgenommen sein und alle übrigen Systeme müssten zwingend nach Verbraucherpreisindex erhöht werden. Prüfen Sie diese Aussage, ohne unbekannte Rentenbeträge oder wirtschaftliche Daten zu ergänzen.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Prüft B als eigenständigen Ausnahmeweg und verwirft den behaupteten Alleinstatus von C.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Unterscheidet bei A Prüfpflicht, wirtschaftliche Lage und die gesetzlichen Vergleichswege statt automatisch eine bestimmte Erhöhung festzusetzen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Ordnet die Ergebnisse je System zu und nennt fehlende Berechnungsdaten, ohne einen einheitlichen Konzernprozentsatz zu erfinden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "governance-und-anpassungsmechanismen"
+    }
+  ],
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leerstart: Besitzstand, Anpassung oder Trägerkürzung anbieten.",
+      "Dateien: Zusagen still lesen; passenden Kohorten- oder Leistungsauftrag klären.",
+      "Klarer Auftrag: Rechnung und bestelltes Versorgungsdokument unmittelbar erstellen."
+    ],
+    "continuation": "Entgeltdefinition ändert Besitzstandsrechnung und Übergang; Überschussnachweis ändert Anpassungsweg; Kürzungskomponente ändert Differenzanspruch.",
+    "enrichment": "Verliererkohorten, Rentenanpassung samt begrenzter Dreimonatsregel, Pensionskassenkomponenten und Regelungskonsistenz.",
+    "limits": "desk review; no live client execution"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "bav-strategie-konzern/README.md",
+      "bav-strategie-konzern/bav-strategie-konzern-schnellstart.md",
+      "bav-strategie-konzern/bav-strategie-konzern-werkstatt.md",
+      "quality/evals/bav-strategie-konzern.json"
+    ],
+    "opening_change": "Datierte Versorgungszusagen und Versorgungsträgerleistungen im Konzern abgleichen",
+    "norms": [
+      "Paragraf 1 Absatz 1 Satz 3 und Absatz 2 Nummer 2a BetrAVG",
+      "Artikel 2 Richtlinie (EU) 2016/2341"
+    ],
+    "decisions": [
+      {
+        "citation": "BAG, Urteil vom 19.06.2012, 3 AZR 408/10",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/3-azr-408-10/",
+        "application": "Bei Leistungskürzung der Pensionskasse zugesagte und gezahlte Leistung vergleichen; dynamische Satzungsverweisung beseitigt Einstandspflicht nicht.",
+        "limit": "Volltext Rn. 36 bis 44; heutige reine Beitragszusage war nicht entschieden."
+      },
+      {
+        "citation": "BAG, Urteil vom 14.07.2015, 3 AZR 517/13",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/3-azr-517-13/",
+        "application": "Dynamische Bezugnahme bei späterer Versorgungsänderung durch dreistufigen Schutz prüfen.",
+        "limit": "Volltext Rn. 25 bis 31; kirchlicher Vertragsfall, keine steuerrechtliche Globalbewertung."
+      }
+    ],
+    "remaining_limits": [
+      "Desk- und Quellenprüfung, kein Live-Client- oder Modelltest; übrige Fachzweige nicht vollständig rechtlich neu verifiziert.",
+      "Volltext Rn. 36 bis 44; heutige reine Beitragszusage war nicht entschieden.",
+      "Workflow-Anschlussprüfung 23.09.2026: individuelle Text- und Quellenprüfung, keine Live-Client-Ausführung. Frühere Entscheidungsprüfungen und ihre Reichweitengrenzen bleiben unverändert; keine erneute vollständige Rechtsprechungsprüfung behauptet."
+    ]
+  }
 }

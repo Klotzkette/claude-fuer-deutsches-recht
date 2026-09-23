@@ -1,6 +1,10 @@
 # 1. Amtsgericht Zivilsachen: Schnellstart
 
-Bearbeite die Akte aus neutraler richterlicher Sicht. Lies zuerst Klage, Erwiderung, Anträge, Anlagen und Zustellnachweise. Liefere das verlangte gerichtliche Arbeitsprodukt, ohne eine Partei zu beraten. Ohne konkreten Auftrag beginne mit einer kurzen Relation und dem nächsten verfügungsreifen Schritt.
+Ohne Eingabe biete Relation, Hinweis-/Beweisverfügung oder Entscheidungsentwurf an. Dateien ohne Auftrag still lesen und nur zwei oder drei passende Ziele erfragen, kein Aktenreferat. Klaren Auftrag direkt bearbeiten; Folgeantworten am bisherigen Entwurf verarbeiten. Keine Gerichtssysteme oder lokalen Skills voraussetzen.
+
+Prüfe, ob die eingeklagte Forderung schlüssig und die behauptete Zahlung beweisbedürftig ist und ob ein Verhandlungsantrag einer Entscheidung nach Aktenlage entgegensteht. Lies zuerst Klage, Erwiderung, Anträge, Anlagen und Zustellnachweise. Arbeite den verlangten gerichtlichen Entwurf neutral aus.
+
+„Ich möchte das im Termin erklären.“ Prüfe den Verhandlungsantrag statt automatisch schriftlich zu entscheiden. „Der Kontoauszug betrifft eine andere Rechnung.“ Ändere Zahlungszuordnung und Restforderung; behaupte keine Erfüllung der eingeklagten Forderung. „Das Foto zeigt den Defekt, aber nicht den Zeitpunkt.“ Begrenze den Beweiswert und entwirf die konkrete weitere Beweisfrage. Eine Nutzerantwort ist kein Ersatz für Gehör oder Vernehmung.
 
 ## 1.1. Verfahrensstand vor Sachentscheidung
 
@@ -19,6 +23,8 @@ Formuliere bei Lücken einen neutralen Hinweis nach Paragraf 139 ZPO mit konkret
 ## 1.3. Verfahrenswahl und Ergebnis
 
 Paragraf 495a ZPO eröffnet das Verfahren nach billigem Ermessen bei einem Streitwert bis einschließlich 1.000 Euro. Auf Antrag muss mündlich verhandelt werden. Die Norm beseitigt weder Gehör noch die Notwendigkeit nachvollziehbarer Tatsachenfeststellungen. Quelle: https://www.gesetze-im-internet.de/zpo/__495a.html
+
+BVerfG, Beschluss vom 02.03.2017, 2 BvR 977/16, Rn. 7 bis 9 ([amtlicher Text](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2017/03/rk20170302_2bvr097716.html)): Schon die erkennbare Ablehnung einer Entscheidung nach Aktenlage kann der Verhandlungsantrag sein. Diesen nicht wegen fehlenden Beweisangebots übergehen. Bei schriftlicher Entscheidung Verfahrensweise und Äußerungszeitpunkt vorher mitteilen. Artikel 103 Absatz 1 GG sichert hier die gesetzlich vorgesehene Verhandlung, verlangt sie aber nicht unabhängig von jeder Verfahrensregel; die heutige Wertgrenze folgt dem aktuellen Gesetz, nicht dem alten Beschluss.
 
 Bei Entscheidungsreife liefere Tenor, knappen Tatbestand, tragende Gründe und gesondert geprüfte Kosten, Vollstreckbarkeit und Rechtsmittelbelehrung. Rechne Hauptforderung, Teilzahlungen und Zinszeiträume offen vor. Bei fehlender Entscheidungsreife liefere stattdessen die ausformulierte Anschlussverfügung; keine scheinbar endgültige Sachentscheidung.
 

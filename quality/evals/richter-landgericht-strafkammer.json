@@ -1,21 +1,82 @@
 {
   "schema_version": 1,
   "plugin": "richter-landgericht-strafkammer",
-  "reviewed_on": "2026-09-17",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/stpo/__203.html",
       "checked_on": "2026-09-14",
       "supports": "Eröffnung anhand hinreichenden Tatverdachts aus dem vorbereitenden Verfahren."
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2013/03/rs20130319_2bvr262810.html",
+      "checked_on": "2026-09-22",
+      "supports": "BVerfG, Urteil vom 19.03.2013, 2 BvR 2628/10, Randnummern 68 bis 71 und 84 bis 93. Amtliche tragende Entscheidungsgründe gelesen. Anwendung: Vorgespräche und erfolglose Verständigungsgespräche konkret mitteilen, Schöffen informieren und beteiligen; Geständnisbestätigung im Hauptverhandlungsstoff prüfen. Grenze: Reine Terminabsprachen nicht erfasst; kein generelles Verständigungsverbot und nicht jeder Fehler automatisch absoluter Revisionsgrund."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stpo/__203.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aktueller amtlicher Normtext gelesen: Gerichtlicher Eröffnungsmaßstab."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stpo/__243.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aktueller amtlicher Normtext gelesen: Mitteilung auch relevanter Vorgespräche."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stpo/__257c.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aktueller amtlicher Normtext gelesen: Verständigung durch Gericht und Beteiligte, zulässiger Gegenstand."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stpo/__273.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aktueller amtlicher Normtext gelesen: Protokollinhalt bei Verständigung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stpo/__261.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aktueller amtlicher Normtext gelesen: Urteilsgrundlage aus Hauptverhandlung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stpo/__203.html",
+      "checked_on": "2026-09-23",
+      "supports": "Tatkomplexe und Beweisursprung, belastbares Alibi, erfolglose Gespräche und vollstreckte Vorstrafe im Entwurf. Quellenstatus: Paragrafen 203 und 243 direkt amtlich gelesen; vorhandene BVerfG-Begründung und ihre begrenzte Reichweite erhalten."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stpo/__243.html",
+      "checked_on": "2026-09-23",
+      "supports": "Tatkomplexe und Beweisursprung, belastbares Alibi, erfolglose Gespräche und vollstreckte Vorstrafe im Entwurf. Quellenstatus: Paragrafen 203 und 243 direkt amtlich gelesen; vorhandene BVerfG-Begründung und ihre begrenzte Reichweite erhalten."
     }
   ],
   "mini_review": {
-    "verdict": "retained",
-    "reason": "Am 18. September vollständig gelesen. Protokollnachweis und Vollstreckungsstand führen zur gezielten Ergänzung von Beweiswürdigung und Gesamtstrafe; gerichtliche Aufklärung wird nicht durch Nutzerantwort ersetzt. Keine Anklagearbeit oder fingierte Beweise. Keine neue Quellenverifikation oder Live-Modellprüfung.",
-    "changes": [],
-    "sha256": "32b08a1f4be533f7a4b0937dd560bb6b2dcac6abec659289d255f59e7d4fcf5c"
+    "verdict": "revised",
+    "reason": "Individuelle Lektüre und Workflow-Vertiefung: Dienstplan nur Einteilung -> tatsächliche Anwesenheit aufklären; erfolglose Verständigung -> Mitteilungsinhalt prüfen. Desk review, keine Live-Client-Ausführung.",
+    "changes": [
+      "Auch erfolglose sachbezogene Verständigungsgespräche erfassen; reine Terminabsprachen ausnehmen.",
+      "Schöffen informieren und beteiligen, Vorsitzendenhandeln nicht mit Kammerentscheidung gleichsetzen.",
+      "Geständnis durch tatsächlich erhobenen Hauptverhandlungsbeweis prüfen; keine nachträgliche Fiktion fehlender Einführung.",
+      "Dienstplan nur Einteilung -> tatsächliche Anwesenheit aufklären; erfolglose Verständigung -> Mitteilungsinhalt prüfen.",
+      "Tatkomplexe und Beweisursprung, belastbares Alibi, erfolglose Gespräche und vollstreckte Vorstrafe im Entwurf."
+    ],
+    "sha256": "06d740967d6ca9b7724dbd1c97f6dc2d7608958df8d5c12d879a4b5f4d8f35af",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
   },
-  "workshop_review": {"verdict":"revised","reason":"Am 18. September gesamten Text geprüft. Eröffnung, Hauptverhandlung und Rechtsfolgen bleiben getrennt; Einführungsnachweise und Vorverurteilungen werden konkret nachgefordert und in den bestellten Entwurf eingearbeitet. Ein Herkunftshinweis zum Ausgangsmaterial war noch redaktionell statt sachlich formuliert.","changes":["Verweis auf Paragrafen 76 ff. als unmittelbare sachliche Anwendungsprüfung statt Bearbeitungsgeschichte formuliert","Gerichtliche Rollenführung, konkrete Fortsetzung und amtliche Freigabegrenzen unverändert erhalten"],"sha256":"07b99a0d3401583ff8baa67ab2ac30950f6412cd09e99cd545b9f62e0011a686"},
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Individuelle Lektüre und Workflow-Vertiefung: Tatkomplexe und Beweisursprung, belastbares Alibi, erfolglose Gespräche und vollstreckte Vorstrafe im Entwurf. Desk review, keine Live-Client-Ausführung.",
+    "changes": [
+      "Auch erfolglose sachbezogene Verständigungsgespräche erfassen; reine Terminabsprachen ausnehmen.",
+      "Schöffen informieren und beteiligen, Vorsitzendenhandeln nicht mit Kammerentscheidung gleichsetzen.",
+      "Geständnis durch tatsächlich erhobenen Hauptverhandlungsbeweis prüfen; keine nachträgliche Fiktion fehlender Einführung.",
+      "Dienstplan nur Einteilung -> tatsächliche Anwesenheit aufklären; erfolglose Verständigung -> Mitteilungsinhalt prüfen.",
+      "Tatkomplexe und Beweisursprung, belastbares Alibi, erfolglose Gespräche und vollstreckte Vorstrafe im Entwurf."
+    ],
+    "sha256": "0dff10c3c4703539b66997829f9dac60c9c68d0e8769ed549007ceae7231651d",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
+  },
   "selection": {
     "positive": [
       "Erstellen Sie einen Eröffnungsvermerk für die Strafkammer.",
@@ -59,5 +120,41 @@
       ],
       "target_skill": "01-eroeffnungsverfahren-strafkammer"
     }
-  ]
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "gerichtsplugins/richter-landgericht-strafkammer/richter-landgericht-strafkammer-schnellstart.md",
+      "gerichtsplugins/richter-landgericht-strafkammer/richter-landgericht-strafkammer-werkstatt.md"
+    ],
+    "opening_change": "Tatkomplexe auf Eröffnung, erforderlichen Beweis und tragfähige Feststellung prüfen; Berufungsumfang vor Sachprüfung bestimmen.",
+    "norms": [
+      "Paragrafen 199, 203, 207, 243 Absatz 4, 244 Absatz 2, 257c, 261, 267 und 273 Absatz 1a StPO"
+    ],
+    "decisions": [
+      {
+        "citation": "BVerfG, Urteil vom 19.03.2013, 2 BvR 2628/10, Randnummern 68 bis 71 und 84 bis 93",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2013/03/rs20130319_2bvr262810.html",
+        "application": "Vorgespräche und erfolglose Verständigungsgespräche konkret mitteilen, Schöffen informieren und beteiligen; Geständnisbestätigung im Hauptverhandlungsstoff prüfen.",
+        "limit": "Reine Terminabsprachen nicht erfasst; kein generelles Verständigungsverbot und nicht jeder Fehler automatisch absoluter Revisionsgrund."
+      }
+    ],
+    "remaining_limits": [
+      "Desk- und Primärquellenreview, kein Live-Client- oder Modelltest.",
+      "Geprüfte Rechtsprechung zur Verständigung, nicht Gesamtverifikation sämtlicher Maßregeln, Berufungsbeschränkungen oder Verwertungsfragen.",
+      "Workflow-Vertiefung 2026-09-23: Paragrafen 203 und 243 direkt amtlich gelesen; vorhandene BVerfG-Begründung und ihre begrenzte Reichweite erhalten. Desk review; kein Live-Client-Test."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Eröffnungsprüfung, Beweisprogramm oder Berufungs-/Urteilsarbeit auswählen.",
+      "Ermittlungsakte still lesen; kein ungefragtes Referat.",
+      "Klaren Kammerauftrag unmittelbar tatkomplexbezogen bearbeiten."
+    ],
+    "continuation": "Dienstplan nur Einteilung -> tatsächliche Anwesenheit aufklären; erfolglose Verständigung -> Mitteilungsinhalt prüfen.",
+    "enrichment": "Tatkomplexe und Beweisursprung, belastbares Alibi, erfolglose Gespräche und vollstreckte Vorstrafe im Entwurf.",
+    "limits": "desk review; no live client execution"
+  }
 }

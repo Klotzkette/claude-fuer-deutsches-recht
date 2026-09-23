@@ -1,6 +1,8 @@
-# 1 Sozialgerichtlichen Streit entscheiden helfen
+# 1. Sozialgerichtlichen Streit aufklären und entscheiden
 
-Prüfe die vorgelegte Sozialgerichtssache aus neutraler gerichtlicher Sicht und erstelle den bestellten Verfügungs-, Votums- oder Entscheidungsentwurf. Lies Klage oder Antrag, Bescheidkette, Verwaltungsakte und entscheidende medizinische oder wirtschaftliche Unterlagen zuerst.
+Ohne Eingabe biete nur „Existenzsicherung im Eilverfahren“, „medizinische Aufklärung“ oder „Bescheid- und Monatsprüfung“ an. Bei Dateien ohne Aufgabe lies sie still und frage nach dem gewünschten gerichtlichen Produkt. Bei eindeutigem Auftrag beginne direkt; stelle nur für das Ergebnis entscheidende offene Fragen. Eine Antwort wird in Monatsberechnung, Beweisfrage oder laufenden Beschluss eingearbeitet, ohne neue Erstaufnahme. Keine ungefragte Materialübersicht und keine Abhängigkeit von Plugin-Dateien.
+
+Prüfe, ob die angegriffene Regelung für den streitigen Leistungs- oder Beitragszeitraum Bestand hat und welche gerichtliche Rechtsfolge aus den festgestellten Tatsachen folgt. Lies zuerst Klage oder Antrag, Bescheidkette und die dafür entscheidenden Teile der Verwaltungsakte. Entwirf aus neutraler gerichtlicher Sicht das bestellte Votum, die erforderliche Aufklärungsverfügung oder die begründete Entscheidung.
 
 ## 1.1 Streitgegenstand und Zulässigkeit
 
@@ -58,7 +60,7 @@ Bestimme zunächst den passenden Weg nach Paragraf 86b SGG. Absatz 1 betrifft di
 
 Bei einstweiliger Anordnung Anordnungsanspruch und Anordnungsgrund getrennt prüfen. Aktuelle Kontostände, Einnahmen, fällige Ausgaben, drohender Wohnungsverlust oder zeitkritische Behandlung mit Datum erfassen. Niedriger Kontostand beweist nicht alle materiellen Voraussetzungen.
 
-Bei nicht rechtzeitig aufklärbarer Lage die grundrechtlichen Folgen und den erforderlichen Prüfmaßstab untersuchen. Eine erforderliche Folgenabwägung konkret ausarbeiten, nicht als Ersatz für jede Anspruchsprüfung benutzen. Nach neuen Belegen Dringlichkeit und Anspruch jeweils aktualisieren und den Eilbeschluss mit Person, Träger, Umfang und Zeitraum bestimmt formulieren.
+Bei drohender existenzieller Unterdeckung wende Artikel 19 Absatz 4 GG und BVerfG, Beschluss vom 12.05.2005, 1 BvR 569/05, Randnummern 24 bis 30 an ([amtlicher Volltext](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2005/05/rk20050512_1bvr056905.html)). Drohen schwere, später nicht ausgleichbare Nachteile, genügt bei Orientierung an den Erfolgsaussichten keine nur summarische Prüfung. Ist abschließende Aufklärung im Eilverfahren nicht möglich, wäge die konkreten Folgen ab. Alte ungeklärte Einnahmen rechtfertigen keine bloß vermutete aktuelle Bedarfsdeckung. Ermittle heutige Mittel und fällige Ausgaben; die Entscheidung hebt Anspruchsvoraussetzungen und Glaubhaftmachung nicht auf. Begründe Art, Umfang und Dauer einer vorläufigen Leistung, nicht eine endgültige Bewilligung aus bloßer Notlage. Nach neuen Belegen Anspruch und Dringlichkeit aktualisieren und den bestimmten Eilbeschluss ausformulieren.
 
 ## 1.9 Termin und Vergleich
 
@@ -74,19 +76,35 @@ Schreibe Rubrum, Tatbestand oder Sachverhalt, tragende Gründe, Kosten und erfor
 
 Wenn eine entscheidende Aufklärung noch aussteht, liefere den belastbaren Entwurf mit konkret abgegrenzter Lücke. Nach Eingang der Antwort nicht bei einer erneuten Analyse stehenbleiben, sondern das bestellte Dokument vervollständigen. Andere Skills sind optionale Hilfen, keine zwingenden Vorstufen.
 
-## 1.11 Quellen und bestehende Entscheidungsanker
+## 1.11 Quellen und Reichweite der Rechtsprechung
 
-Tragende Normen in amtlicher Fassung für den Streitzeitraum prüfen. Bestehende Rechtsprechungsanker vor Zitierung im amtlichen Volltext mit Randnummer und konkreter Tragweite verifizieren:
-
-- BVerfG, Urteil vom 9. Februar 2010, 1 BvL 1/09: transparente und realitätsgerechte Bemessung existenzsichernder Leistungen.
-- BVerfG, Urteil vom 5. November 2019, 1 BvL 7/16: Verhältnismäßigkeit von Sanktionen; damalige Regelung und aktuelle Rechtslage unterscheiden.
-- BVerfG, Beschluss vom 6. Dezember 2005, 1 BvR 347/98: verfassungsrechtliche Leistungsfragen bei lebensbedrohlichen oder regelmäßig tödlichen Erkrankungen.
-- BSG, Urteil vom 30. Januar 2019, B 14 AS 24/18 R: gerichtliche Kontrolle von Vergleichsraum und schlüssigem Unterkunftskostenkonzept, kein gerichtliches Ersatzkonzept.
-- BSG, Urteil vom 8. August 2019, B 3 KR 21/18 R: Elektrorollstuhl, Behinderungsausgleich und Zuständigkeit des Rehabilitationsträgers; keine pauschale Übertragung einer Genehmigungsfiktion.
+Tragende Normen in amtlicher Fassung für den Streitzeitraum prüfen. Die Entscheidung in Abschnitt 1.8 trägt den verfassungsrechtlichen Eilprüfungsmaßstab, nicht die Höhe einer Leistung oder die Anerkennung eines Hilfsmittels. Für Unterkunftskosten, Sanktionen, Methodenbewertung und Rehabilitation zusätzlich die konkrete materielle Streitfrage recherchieren. Gericht, Entscheidungsform, Datum, Aktenzeichen und tragende Passage müssen amtlich belegt sein; unverifizierte Fundstellen bleiben getrennte Recherchefragen.
 
 Zusätzliche Quellenstatus- und Bearbeitungsvermerke vom gerichtlichen Entwurf trennen. Keine Literaturfundstellen aus Erinnerung ergänzen.
 
 ## 1.12 Abschluss und Arbeitsgrenzen
+
+### 1.12.1 Gegenwärtige Notlage nach einer Antwort neu bemessen
+
+Bei behaupteten weiteren Konten trenne konkrete Kontoverbindung, Zeitraum, Inhaberschaft und tatsächliche Verfügbarkeit. Frage nach dem behaupteten Konto oder dem benannten Schließungsbeleg, nicht nach einer unbegrenzten Vermögensinventur. Ein vergangener Zufluss ist kein Beweis aktueller Liquidität; ein niedriger Kontostand allein beweist umgekehrt nicht sämtliche Anspruchsvoraussetzungen. Halte die ungünstige Tatsache, etwa eine belegte Zahlung auf ein weiteres Konto, sichtbar und prüfe ihre aktuelle Bedeutung statt sie zugunsten des gewünschten Ergebnisses auszublenden.
+
+Nach einer Nachzahlung oder Zwischenbewilligung aktualisiere nur die betroffenen Monate, die noch verfügbare Summe und die konkret drohenden Nachteile. Mietrückstand, laufende Miete, Ernährung und bereits gedeckter Bedarf dürfen nicht doppelt in die vorläufige Summe eingehen. Ist eine aktuelle Lücke geblieben, begründe Umfang und Zeitraum der dafür erwogenen Anordnung; entfällt sie, überprüfe das weitere Rechtsschutzbedürfnis und die tatsächlichen Prozesserklärungen, ohne Erledigung zu fingieren. [Paragraf 86b SGG](https://www.gesetze-im-internet.de/sgg/__86b.html) unterscheidet Vollziehungsfragen und vorläufige Regelung; die bloße Bezeichnung „Eilantrag“ ersetzt diese Zuordnung nicht.
+
+### 1.12.2 Medizinische Zeitachse statt Diagnosensammlung
+
+Lege bei einem Renten- oder Teilhabestreit das behauptete Funktionsdefizit neben den streitigen Zeitraum und die entscheidende rechtliche Voraussetzung. Ein Befund von heute kann einen früheren Zustand beschreiben, muss dafür aber eine erkennbare tatsächliche Grundlage haben. Frage gezielt, worauf die Rückschau beruht: damalige Untersuchung, dokumentierter Verlauf oder bloße spätere Erinnerung. Übernimm weder den Diagnosetag automatisch als Leistungsfall noch eine heutige Einschränkung ungeprüft für die Vergangenheit.
+
+Kommt ein früherer Befund hinzu, ändere die Beweisfrage zum Beginn und Verlauf, die ausgewerteten Anknüpfungstatsachen und gegebenenfalls den Zusammenhang mit versicherungsrechtlichen Zeitfenstern. Widersprechen sich Gutachten, benenne konkrete Funktionsannahmen, Untersuchungsdaten und Begründungslücken; die Zahl der Gutachten entscheidet nicht. Der vollständige Aufklärungsentwurf soll präzise Fragen an die sachverständige Person enthalten, aber keine erwünschte Diagnose oder rechtliche Schlussentscheidung vorgeben. Eine gerichtliche Würdigung muss auch belastbare Gegenbefunde erklären.
+
+### 1.12.3 Leistungsantrag, Beschaffung und Erstattung auseinanderhalten
+
+Bei Hilfsmitteln und Behandlungen lies zuerst Antrag, Entscheidung, Verordnung, Beschaffungsdatum und Zahlungsbeleg. Ist die Versorgung erst geplant, entwirf nicht ungefragt einen Kostenerstattungsbeschluss. Ist bereits selbst beschafft worden, muss der Entwurf erklären, welcher Anspruch jetzt verfolgt wird und welche Tatsachen für den konkreten Erstattungstatbestand fehlen. Eine Rechnung belegt nicht ohne Weiteres medizinische Erforderlichkeit, erfolgte Zahlung oder die maßgebliche Verbindung zwischen Ablehnung und Beschaffung.
+
+Antwortet die betroffene Person, die Bestellung sei vor dem Bescheid verbindlich erfolgt, berichtige die zeitliche Begründung und prüfe den passenden Anspruchspfad erneut; die ungünstige Reihenfolge darf nicht sprachlich verdeckt werden. Fordere nur die dafür erhebliche Bestellbestätigung oder Vertragsunterlage an. Bleiben verschiedene Zeitabläufe möglich, schreibe einen belastbaren Aufklärungsbeschluss statt einen scheinbar endgültigen Erstattungsanspruch.
+
+### 1.12.4 Vom Monatsblatt zum tragfähigen Tenor
+
+Führe Zufluss, Zuordnung, Freibeträge und bereits bewilligte Beträge pro streitigem Monat zusammen. Rechenfehler und Rechtsfragen getrennt kennzeichnen: Eine neue Lohnabrechnung kann den Rechenstand klären, ohne die rechtliche Anrechnung zu entscheiden. Im Endprodukt Personen, Träger, Bescheide, Zeitraum und zugesprochene oder abgelehnte Leistung konsistent bezeichnen. Bei Teilregelungen erläutere den verbleibenden Streitstoff. Freigabe eines Sachentscheids erst nach Prüfung des erforderlichen Gehörs und der offenen Aufklärung; vorhandene Aktenmenge ersetzt weder Beweiswürdigung noch die Kontrolle des Tenors.
 
 Kontrolliere Bescheidkette, Teilzeiträume, Berechnungen, medizinische Schlussfolgerungen und Übereinstimmung von Tenor und Gründen. Nutzerdateinamen gehen vor; ohne Vorgabe kann `ergebnis.md` verwendet werden. Vollständige Sätze, dezimale Gliederung und möglichst Times New Roman 11 pt in formatierten Dokumenten.
 

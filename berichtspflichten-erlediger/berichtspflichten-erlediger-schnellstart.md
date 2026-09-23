@@ -1,14 +1,18 @@
 # 1 Berichtspflicht bis zum Nachweis bearbeiten
 
-Erstelle aus dem konkreten Auftrag und vorhandenen Bescheiden, Formularhinweisen und Unternehmensdaten die verlangte Meldung, Korrektur oder Freigabevorlage. Beginne nicht mit einem Katalog denkbarer Berichtspflichten. Wenn die Aufgabe bereits bezeichnet ist, arbeite ihre Felder ab; ein Melderegister ist nur bei einem Inventarisierungsauftrag das Hauptprodukt.
+Lies Meldeaufforderung, Formularhinweise und Unternehmensdaten zuerst. Grenze Rechtsträger und Berichtszeitraum ab, rechne die verlangten Felder nach und arbeite Abweichungen zur abgegebenen Fassung in die bestellte Meldung, Korrektur oder Freigabevorlage ein. Ein Melderegister ist nur bei einem Inventarisierungsauftrag das Hauptprodukt.
 
 ## 1.1 Meldeauftrag eingrenzen
+
+Ohne Eingabe biete Meldung vorbereiten, Werte berichtigen oder Heranziehung prüfen an. Dateien ohne Aufgabe still lesen und zwei oder drei passende Wege erfragen, noch kein Melderegister. Bei klarem Auftrag direkt rechnen und schreiben. „Technische Dublette“ führt zum belegten Ausschluss; „zweite Teillieferung“ zur gesonderten Zuordnung. „Vorversion schon gesendet“ verlangt Abgleich mit tatsächlichem Empfängerbestand und passendem Korrekturweg. Folgeantworten ändern Felder und Freigabe gemeinsam; bekannte Perioden übernehmen, nur entscheidende Lücken fragen.
 
 Notiere Rechtsträger, Standort, Meldekennzeichen, Empfänger, Zeitraum, Stichtag, Abgabefrist und Format. Unterscheide die Frist der Behörde von internen Zuarbeitsterminen. Entnimm Schwellen und Ausnahmen der für diesen Zeitraum geltenden amtlichen Vorschrift oder Erhebungshilfe. Eine Konzernzugehörigkeit begründet noch keine konsolidierte Meldung. Ein früherer Meldebrief beweist nicht, dass jede Folgeperiode identisch behandelt wird.
 
 Falls der Nutzer lediglich eine interne Datenspezifikation vorgibt, setze genau diese um und bezeichne das Ergebnis nicht als gesetzlich abschließend geprüfte Meldung. Fehlt eine entscheidende Abgrenzung, stelle dazu eine gebündelte Rückfrage; rechne bereits eindeutig zuordenbare Werte weiter. Bei knapper Frist priorisiere Freigabe und Klärung, statt die Arbeit wegen einer pauschalen Anzahl verbleibender Tage abzubrechen.
 
 ## 1.2 Jedes Feld bekommt eine Herkunft
+
+Bei amtlicher Statistik bestimme die Auskunftspflicht nach Paragraf 15 Absatz 1 BStatG und dem konkreten Fachgesetz; Absatz 5 verlangt vollständige, wahre und rechtzeitige Angaben. Bei dauernder Stichprobenauswahl trotz Entlastungsverlangens prüfe [BVerwG, Urteil vom 15.03.2017 - Az. 8 C 9.16, Rn. 15 bis 24](https://www.bverwg.de/150317U8C9.16.0): Das damalige Auswahlermessen durfte nicht allein optimale Ergebnisse zulasten gleichmäßiger Belastung anstreben. Ermittle Methode, Belastung und weniger belastende Alternativen. Keine automatische Befreiung aus dem Urteil ableiten; heutiges Fachgesetz prüfen. Paragraf 15 Absatz 7 BStatG schließt die aufschiebende Wirkung aus. Bei bloß interner Feldzuordnung ohne Rechtsprüfauftrag diesen Zweig nicht aufdrängen.
 
 Ordne den Meldefeldern Quelldatei, Tabellenblatt oder Datensatz, Ausgangswert, Filter, Umrechnung und Ergebnis zu. Halte Rohdaten unverändert. Trenne Einzelunternehmen, Niederlassung und Konzern; Leistungsmonat, Rechnungsdatum und Zahlungsdatum dürfen nicht stillschweigend gleichgesetzt werden. Prüfe Netto oder Brutto, Euro oder Tausend Euro, Stück oder Gewicht und die vorgeschriebene Rundung. Rechne möglichst erst nach Aggregation um, sofern die Feldvorgabe nichts anderes verlangt.
 

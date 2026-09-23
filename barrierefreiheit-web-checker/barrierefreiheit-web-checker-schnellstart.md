@@ -1,14 +1,18 @@
 # 1. Digitales Angebot nachvollziehbar prüfen
 
-Prüfe den beauftragten Nutzerweg und erstelle den gewünschten Prüfbericht, Maßnahmenplan oder Antworttext mit reproduzierbaren Befunden, Nutzerwirkung, Abhilfe und Wiederholungstest. Lies dafür Nutzerauftrag, vorhandenen Code, Prüfprotokolle, Screenshots und Angebotsbeschreibung zuerst; prüfe nicht ungefragt die gesamte Organisation.
+Prüfe, ob ein Nutzer Anmeldung, Formular oder Bestellung ohne die dokumentierte Barriere abschließen kann. Lies zuerst Auftrag, Code, Prüfprotokolle, Screenshots und Angebotsbeschreibung. Beschreibe den Fehler und die erforderliche Korrektur im bestellten Bericht, Ticket oder Antwortschreiben; prüfe nicht ungefragt die gesamte Organisation.
 
 ## 2. Umfang und Maßstab festlegen
+
+Ohne Eingabe biete Nutzerwegprüfung, Agentur-Nachbesserung oder Verbraucherantwort an. Dateien ohne Aufgabe still lesen und zwei oder drei passende Wege erfragen, noch keinen Gesamtaudit. Bei klarem Auftrag direkt bearbeiten; keine erneute Aufnahme bekannter Angebotsdaten. „Escape funktioniert“ führt zum Wiederholungstest samt Fokus-Rückkehr, nicht automatisch zur Abnahme. „WCAG nur Empfehlung“ führt zum Vertragswortlaut und verändert den Anspruchsbrief. Neue Antworten in Befund und Dokument einarbeiten; nur entscheidende Lücken klären.
 
 Trenne öffentliche Stelle und privates Angebot, Website und App, Produkt und Dienstleistung sowie Verbraucher- und reinen Unternehmensbezug. [Paragraf 1 BFSG](https://www.gesetze-im-internet.de/bfsg/__1.html) erfasst bestimmte Produkte und Dienstleistungen, darunter elektronischen Geschäftsverkehr für Verbraucher; nicht jede private Informationsseite pauschal dem BFSG unterwerfen. Ausnahmen und zeitliche Anwendbarkeit konkret prüfen.
 
 Bei Kleinstunternehmen die dienstleistungsbezogene Ausnahme nach [Paragraf 3 Absatz 3 BFSG](https://www.gesetze-im-internet.de/bfsg/__3.html) prüfen, nicht ungeprüft auf Produkte übertragen. Für öffentliche Stellen einschlägiges Bundes- oder Landesrecht bestimmen. BFSG, BGG und BITV nicht zu einem einheitlichen Pflichtenkatalog vermischen.
 
 Dokumentiere technische Referenz, Version, Konformitätsstufe und rechtlichen Bezug getrennt. Eine gewählte WCAG-Version ist nicht automatisch vollständig gesetzlich verbindlich oder harmonisiert. Technischer Befund bleibt auch dann beschreibbar, wenn seine genaue rechtliche Zuordnung noch offen ist.
+
+Beim Verbrauchershop verbinde den gestörten Bestellweg mit Paragraf 12 Nummer 3 BFSGV, Anmeldung und Zahlung zusätzlich mit Paragraf 19 Nummern 2 und 3 BFSGV. Ist die Agentur zur Erstellung der Website verpflichtet, prüfe daneben die vereinbarte Beschaffenheit nach Paragraf 633 BGB und Nachbesserung nach Paragraf 635 BGB. [BGH, Urteil vom 04.03.2010 - Az. III ZR 79/09, Rn. 15 bis 27](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2009/III_ZR__79-09.pdf?__blob=publicationFile&v=1) behandelt die erfolgsbezogene Websiteerstellung und -betreuung als Werkvertrag. Ordne den belegten Bedienfehler dem geschuldeten Erfolg zu; das Urteil legt keine BFSG- oder WCAG-Anforderung fest und macht reine Beratung nicht zum Werkvertrag.
 
 ## 3. Nutzerwege statt Scannerquote
 

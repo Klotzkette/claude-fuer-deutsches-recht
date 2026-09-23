@@ -1,33 +1,57 @@
 {
   "schema_version": 1,
   "plugin": "selbstvertreter-sozialgericht",
-  "reviewed_on": "2026-09-17",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/sgg/__86b.html",
       "checked_on": "2026-09-14",
       "supports": "Einstweilige Anordnung zur vorläufigen Leistung, auch vor Klageerhebung; Abgrenzung zu Anordnung oder Wiederherstellung aufschiebender Wirkung."
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2005/05/rk20050512_1bvr056905.html",
+      "checked_on": "2026-09-22",
+      "supports": "Erneute Primärquellenprüfung: BVerfG, Beschluss vom 12.05.2005, 1 BvR 569/05, Randnummern 24 bis 30. Anwendung: Im eigenen Eilantrag aktuelle Mittel, fällige Miete und Folgen des Wartens darlegen; bloße Vermutung früherer Unterstützung als heutiger Bedarfsdeckung angreifen. Grenze: Keine Tatsachenerfindung oder Erfolgsgarantie; materielle Anspruchsvoraussetzungen und Glaubhaftmachung bleiben nötig."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/sgg/__86b.html",
+      "checked_on": "2026-09-22",
+      "supports": "Noch nicht bewilligte Leistung erfordert gegebenenfalls einstweilige Anordnung, nicht bloß aufschiebende Wirkung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/sgg/__86b.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlichen Text zum sozialgerichtlichen Eilrechtsschutz erneut gelesen; Antrag und aktuelle tatsächliche Notlage getrennt begründen."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der vollständig geprüfte Mini unterscheidet Erstbewilligung und Leistungsentziehung und führt fehlende Existenzsicherungsnachweise über gezielte Fragen zum tatsächlich beauftragten Schreiben oder Antrag.",
+    "reason": "Fachliche Startvarianten und konkrete Antwortfortsetzung einzeln geprüft. Unterlagenauswahl von tatsächlichem Eingang unterscheiden; heutige Mittel und alte Rückstände getrennt belegen; Diagnosen in tatsächliche Alltagsbeeinträchtigungen einordnen; Rückforderung, Aufrechnung und neue Entscheidung getrennt behandeln.",
     "changes": [
-      "Erstbewilligung und Entziehung vorhandener Leistungen unterschieden.",
-      "Tatsächliche Mittellosigkeit mit verfügbaren Belegen erhoben.",
-      "Widerspruch und Eilantrag ohne unnötiges Abwarten vorbereitet.",
-      "Nachgereichte Bescheide und Mittelangaben in die betroffene Begründung einarbeiten lassen, ohne bereits beantwortete Fragen zu wiederholen."
+      "Aktuelle Mittel und konkrete Nachteile mit BVerfG 1 BvR 569/05 verbunden.",
+      "Erläuterungsauftrag ausdrücklich ohne automatischen Klageentwurf; Anspruchsbelege trotz Eilmaßstab erforderlich.",
+      "Leerstart: Sozialbescheid verstehen, Widerspruch oder Eilhilfe wählen.",
+      "Eine nachgewiesene Teilzahlung verändert gegenwärtigen Eilbedarf und Antrag; nachgereichte Funktionsangaben verändern die konkrete Leistungsbegründung.",
+      "Unterlagenauswahl von tatsächlichem Eingang unterscheiden; heutige Mittel und alte Rückstände getrennt belegen; Diagnosen in tatsächliche Alltagsbeeinträchtigungen einordnen; Rückforderung, Aufrechnung und neue Entscheidung getrennt behandeln."
     ],
-    "sha256": "208dfe8f7cfcd702b6651d7e04ea3a8ed2c97f92e0ca027ba4838a429a1059a0"
+    "sha256": "8bd5c716c14af2ff18cff46a35b988b2de372facdd00082ffe42b8308c7732de",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die Ganztextprüfung ordnet Bescheid, Frist, Akteneinsicht, Leistungsprüfung und Eilrechtsschutz zu einem verständlichen Ablauf für Selbstvertretende. Unterschiedliche Leistungsarten behalten ihre eigenen Nachweisfragen.",
+    "reason": "Vollständige Werkstatt mit zusätzlichen fachlichen Entscheidungs- und Dokumentwegen einzeln geprüft. Unterlagenauswahl von tatsächlichem Eingang unterscheiden; heutige Mittel und alte Rückstände getrennt belegen; Diagnosen in tatsächliche Alltagsbeeinträchtigungen einordnen; Rückforderung, Aufrechnung und neue Entscheidung getrennt behandeln.",
     "changes": [
-      "Geld, Unterkunft, Rückforderung, Krankenversicherung, Pflege und Teilhabe in auftragsbezogene Abschnitte eingeordnet.",
-      "Aus konkreten Nachforderungen nach Eingang der Antwort das bestellte Schreiben mit passenden Anlagen fertigstellen lassen; keine automatische Prozessausweitung."
+      "BVerfG-Anker in Eilrechtsschutz mit heutiger Bedarfsdeckung und Folgenabwägung integriert.",
+      "Beispiel zur fehlenden Unterstützung nur konditional und mit Belegplatzhaltern formuliert.",
+      "Unverifizierte Standardfallliste entfernt; vorhandene Leistungswege, Nachfragen und Fertigstellung erhalten.",
+      "Leerstart: Sozialbescheid verstehen, Widerspruch oder Eilhilfe wählen.",
+      "Eine nachgewiesene Teilzahlung verändert gegenwärtigen Eilbedarf und Antrag; nachgereichte Funktionsangaben verändern die konkrete Leistungsbegründung.",
+      "Unterlagenauswahl von tatsächlichem Eingang unterscheiden; heutige Mittel und alte Rückstände getrennt belegen; Diagnosen in tatsächliche Alltagsbeeinträchtigungen einordnen; Rückforderung, Aufrechnung und neue Entscheidung getrennt behandeln."
     ],
-    "sha256": "ba66a164675c7e8cc9bf6a5118c91e07b2811600f276bb4956401dafd261305b"
+    "sha256": "f0605fc1953b5444c4eebe3d8137b3872746cb91814de6ba6452ee42f8903edf",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
   },
   "selection": {
     "positive": [
@@ -72,5 +96,43 @@
       ],
       "target_skill": "eilantrag-buergergeld-jobcenter"
     }
-  ]
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "selbstvertreter-sozialgericht/selbstvertreter-sozialgericht-werkstatt.md",
+      "selbstvertreter-sozialgericht/selbstvertreter-sozialgericht-schnellstart.md"
+    ],
+    "opening_change": "Bescheidwirkung, streitigen Zeitraum, konkrete Änderung und verfügbare Gegenbelege verständlich erklären; Schreiben aus Betroffenensicht nur nach Auftrag.",
+    "norms": [
+      "Paragraf 86b SGG",
+      "Artikel 19 Absatz 4 GG",
+      "Paragrafen 20, 24, 25, 45, 48 und 50 SGB X als jeweilige Verfahrensfragen"
+    ],
+    "decisions": [
+      {
+        "citation": "BVerfG, Beschluss vom 12.05.2005, 1 BvR 569/05, Randnummern 24 bis 30",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2005/05/rk20050512_1bvr056905.html",
+        "application": "Im eigenen Eilantrag aktuelle Mittel, fällige Miete und Folgen des Wartens darlegen; bloße Vermutung früherer Unterstützung als heutiger Bedarfsdeckung angreifen.",
+        "limit": "Keine Tatsachenerfindung oder Erfolgsgarantie; materielle Anspruchsvoraussetzungen und Glaubhaftmachung bleiben nötig."
+      }
+    ],
+    "remaining_limits": [
+      "Redaktionelle Quellenprüfung, kein Test mit Betroffenen oder Live-Modell.",
+      "Besondere Leistungsnormen, aktuelle Geldbeträge und individuelle Fristen bleiben im konkreten Fall zu verifizieren.",
+      "Workflow-Vertiefung 2026-09-23: Vorhandenen BVerfG-Anker 1 BvR 569/05 erhalten; keine neue Verifikation sämtlicher Leistungssätze, Pflegebegutachtung oder Leistungszweige. Desk review; keine Live-Client-Ausführung."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leerstart: Sozialbescheid verstehen, Widerspruch oder Eilhilfe wählen.",
+      "Dateien: Bescheid und Leistungsbelege still lesen, keine automatische Aktenzusammenfassung.",
+      "Klarer Auftrag: verständlichen Widerspruch, Klage- oder Eilentwurf mit dem tatsächlichen Bedarf verfassen."
+    ],
+    "continuation": "Eine nachgewiesene Teilzahlung verändert gegenwärtigen Eilbedarf und Antrag; nachgereichte Funktionsangaben verändern die konkrete Leistungsbegründung.",
+    "enrichment": "Unterlagenauswahl von tatsächlichem Eingang unterscheiden; heutige Mittel und alte Rückstände getrennt belegen; Diagnosen in tatsächliche Alltagsbeeinträchtigungen einordnen; Rückforderung, Aufrechnung und neue Entscheidung getrennt behandeln.",
+    "limits": "desk review; no live client execution"
+  }
 }

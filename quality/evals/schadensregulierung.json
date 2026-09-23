@@ -1,21 +1,52 @@
 {
   "schema_version": 1,
   "plugin": "schadensregulierung",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/vvg_2008/__86.html",
       "checked_on": "2026-09-14",
       "supports": "Anspruchsübergang nur im Umfang erbrachter Versicherungsleistung und Schutz verbleibender Ansprüche."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__253.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aktueller amtlicher Normtext zur Prüfung: Paragraf 253 Absatz 2 BGB; Paragraf 86 VVG; Paragraf 116 SGB X. Keine Gesamtverifikation sämtlicher Nebenmaterien."
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=pm&Blank=1&Datum=2022&Gericht=bgh&Sort=1&file=dokument.pdf&linked=urt&nr=128339",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 15.02.2022, VI ZR 937/20, berichtigt am 23.02.2022: Taggenaue Berechnung durch Gesamtwürdigung von Verletzung, Leiden, Dauer und wahrgenommener Lebensbeeinträchtigung ersetzen. Grenze/Prüftiefe: Amtliche Leitsätze a und b gelesen, Volltextabruf gescheitert; keine feste Taxe für Bagatellverletzungen."
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2022&Gericht=bgh&Seite=6&anz=3167&nr=132234&pos=197",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 06.12.2022, VI ZR 168/21: Schockbedingte psychische Störung mit Krankheitswert als eigene Gesundheitsverletzung prüfen. Grenze/Prüftiefe: Amtlicher Leitsatz; kein Erfordernis über das Übliche hinausgehender Angehörigenreaktion, aber Kausalität bleibt nötig."
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2014-2-18&Gericht=bgh&anz=27&nr=67195&pos=24",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 18.02.2014, VI ZR 383/12: Hoheitliches Abschleppen als Ersatzvornahme und öffentlich-rechtliche Verwahrung prüfen. Grenze/Prüftiefe: Amtliche Leitsätze a bis c; nicht auf privates Parkplatzabschleppen übertragen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vvg_2008/__86.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlichen Normtext zum Ersatzanspruchsübergang bei tatsächlicher Versicherungsleistung gelesen; keine automatische Übertragung jeder Position oder Beseitigung des Quotenvorrechts."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Mini vollständig auf Haftung, Deckung, Rückgriff und Fortsetzung nach Schadenbelegen gelesen; die fachlichen Berechnungs- und Beweisregeln bleiben erhalten.",
+    "reason": "Fachliche Startvarianten und konkrete Antwortfortsetzung einzeln geprüft. Tatsächlichen Forderungsübergang, Quotenvorrecht und verbleibenden Eigenschaden getrennt behandeln; technische Widersprüche auf ihre Belegreichweite begrenzen; Teilzahlung, Zahlungsauftrag und endgültigen Vergleich unterscheiden.",
     "changes": [
-      "Starre Rückfragebegrenzung durch gezielte Nachforderung von Befund, Schadenbeleg oder Deckungsunterlage ersetzt; Antwort in Positionen und bestelltem Schreiben weiterverarbeiten, Dateiwunsch beachten."
+      "Schmerzensgeld nach Gesamtumständen statt Tagessatz; Schockschaden und Abschlepphoheit voneinander abgegrenzt, Regress und Restanspruch erhalten.",
+      "Kernfall mit operativem Entscheidungsanker, gezielten Nachfragen und Fortsetzung zum vollständigen angeforderten Dokument.",
+      "Leerstart: Haftungsantwort, Teilregulierung oder Kasko-/Sozialregress wählen.",
+      "Nachgewiesene Kaskozahlung verändert Anspruchsinhaber und getrennte Antwortschreiben; neuer Arztbericht verändert Vergleichsvorbehalt und Abgeltungsumfang.",
+      "Tatsächlichen Forderungsübergang, Quotenvorrecht und verbleibenden Eigenschaden getrennt behandeln; technische Widersprüche auf ihre Belegreichweite begrenzen; Teilzahlung, Zahlungsauftrag und endgültigen Vergleich unterscheiden."
     ],
-    "sha256": "2c8c890abdacdcb9aec8d77d4b3360c505be89d6acbd736ec4177a4437c52411"
+    "sha256": "f4e2808b58bc2f69e0e145b86eb560df794b19991a92ba0365fb6173d617dccc",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
   },
   "selection": {
     "positive": [
@@ -63,10 +94,68 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt einschließlich Schlussabschnitten vollständig geprüft; die zusätzliche Routensammlung wiederholte die bereits ausgeführten Schadenwege.",
+    "reason": "Vollständige Werkstatt mit zusätzlichen fachlichen Entscheidungs- und Dokumentwegen einzeln geprüft. Tatsächlichen Forderungsübergang, Quotenvorrecht und verbleibenden Eigenschaden getrennt behandeln; technische Widersprüche auf ihre Belegreichweite begrenzen; Teilzahlung, Zahlungsauftrag und endgültigen Vergleich unterscheiden.",
     "changes": [
-      "Doppelte Schlussrouten entfernt, konkrete Schadenbearbeitung erhalten und Nachforderung mit Fertigstellung verbunden; Quellenstatus von Außenbriefen getrennt."
+      "Schmerzensgeld nach Gesamtumständen statt Tagessatz; Schockschaden und Abschlepphoheit voneinander abgegrenzt, Regress und Restanspruch erhalten.",
+      "Vorhandene Fachzweige, Beispiele und Zugriffsalternativen erhalten; schwache Rechtsprechungshinweise entfernt oder auf belegte Reichweite begrenzt.",
+      "Leerstart: Haftungsantwort, Teilregulierung oder Kasko-/Sozialregress wählen.",
+      "Nachgewiesene Kaskozahlung verändert Anspruchsinhaber und getrennte Antwortschreiben; neuer Arztbericht verändert Vergleichsvorbehalt und Abgeltungsumfang.",
+      "Tatsächlichen Forderungsübergang, Quotenvorrecht und verbleibenden Eigenschaden getrennt behandeln; technische Widersprüche auf ihre Belegreichweite begrenzen; Teilzahlung, Zahlungsauftrag und endgültigen Vergleich unterscheiden."
     ],
-    "sha256": "fc5920f034e2a7c961533cf23f496570d5d14cc80d7f0f94183bb7c9f1ec72f6"
+    "sha256": "1d6a0368440c829edd94200132eb43badde2fafd80cef4de038b58c8fd89c510",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "schadensregulierung/README.md",
+      "schadensregulierung/schadensregulierung-werkstatt.md",
+      "schadensregulierung/schadensregulierung-schnellstart.md",
+      "quality/evals/schadensregulierung.json"
+    ],
+    "opening_change": "Haftung, einzelne Schadenpositionen und berechtigte Zahlungsempfänger bestimmen",
+    "norms": [
+      "Paragraf 253 Absatz 2 BGB",
+      "Paragraf 86 VVG",
+      "Paragraf 116 SGB X"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 15.02.2022, VI ZR 937/20, berichtigt am 23.02.2022",
+        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=pm&Blank=1&Datum=2022&Gericht=bgh&Sort=1&file=dokument.pdf&linked=urt&nr=128339",
+        "application": "Taggenaue Berechnung durch Gesamtwürdigung von Verletzung, Leiden, Dauer und wahrgenommener Lebensbeeinträchtigung ersetzen.",
+        "limit": "Amtliche Leitsätze a und b gelesen, Volltextabruf gescheitert; keine feste Taxe für Bagatellverletzungen."
+      },
+      {
+        "citation": "BGH, Urteil vom 06.12.2022, VI ZR 168/21",
+        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2022&Gericht=bgh&Seite=6&anz=3167&nr=132234&pos=197",
+        "application": "Schockbedingte psychische Störung mit Krankheitswert als eigene Gesundheitsverletzung prüfen.",
+        "limit": "Amtlicher Leitsatz; kein Erfordernis über das Übliche hinausgehender Angehörigenreaktion, aber Kausalität bleibt nötig."
+      },
+      {
+        "citation": "BGH, Urteil vom 18.02.2014, VI ZR 383/12",
+        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2014-2-18&Gericht=bgh&anz=27&nr=67195&pos=24",
+        "application": "Hoheitliches Abschleppen als Ersatzvornahme und öffentlich-rechtliche Verwahrung prüfen.",
+        "limit": "Amtliche Leitsätze a bis c; nicht auf privates Parkplatzabschleppen übertragen."
+      }
+    ],
+    "remaining_limits": [
+      "Desk- und Quellenprüfung, kein Live-Client- oder Modelltest; übrige Fachzweige nicht vollständig rechtlich neu verifiziert.",
+      "Amtliche Leitsätze a und b gelesen, Volltextabruf gescheitert; keine feste Taxe für Bagatellverletzungen.",
+      "Workflow-Vertiefung 2026-09-23: Die vorhandenen BGH-Anker VI ZR 937/20, VI ZR 168/21 und VI ZR 383/12 bleiben auf die zuvor zugänglichen amtlichen Leitsätze begrenzt; kein neu gelesener Volltext behauptet. Keine Vollprüfung sämtlicher Schaden- und Regressarten. Desk review; keine Live-Client-Ausführung."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leerstart: Haftungsantwort, Teilregulierung oder Kasko-/Sozialregress wählen.",
+      "Dateien: Schadenbelege und Police still lesen und die konkrete Zahlungs- oder Antwortaufgabe klären.",
+      "Klarer Auftrag: Positionen und Berechtigung ausarbeiten, keine automatische Schadenaktenübersicht."
+    ],
+    "continuation": "Nachgewiesene Kaskozahlung verändert Anspruchsinhaber und getrennte Antwortschreiben; neuer Arztbericht verändert Vergleichsvorbehalt und Abgeltungsumfang.",
+    "enrichment": "Tatsächlichen Forderungsübergang, Quotenvorrecht und verbleibenden Eigenschaden getrennt behandeln; technische Widersprüche auf ihre Belegreichweite begrenzen; Teilzahlung, Zahlungsauftrag und endgültigen Vergleich unterscheiden.",
+    "limits": "desk review; no live client execution"
   }
 }

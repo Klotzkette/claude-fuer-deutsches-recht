@@ -1,21 +1,54 @@
 {
   "schema_version": 1,
   "plugin": "vertragsrecht",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__280.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlichen Volltext gelesen: Pflichtverletzung, hierdurch verursachter Schaden und Entlastung beim Vertretenmüssen; zusätzliche Voraussetzungen für Verzögerungsschaden und Schadensersatz statt der Leistung. Grundlage der belegspezifischen Leistungsstörungsbearbeitung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__281.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlichen Volltext gelesen: angemessene Nachfrist, Entbehrlichkeit, Teil-/Schlechtleistung und Ausschluss des Leistungsanspruchs bei Verlangen nach Schadensersatz statt der Leistung nach Absatz 4. Keine folgenlose Standardfloskel im Aufforderungsschreiben."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__286.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlichen Volltext gelesen: Mahnung nach Fälligkeit, kalendermäßige Leistungszeit als mögliche Ausnahme und fehlendes Vertretenmüssen. Kalendertermin ersetzt nicht sämtliche Verzugsvoraussetzungen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__323.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlichen Volltext gelesen: Rücktritt mit eigenständigen Voraussetzungen, Fristsetzung und Ausnahmen sowie Teil-/Schlechtleistung und Verantwortungsgrenzen. Der Dokumentpfad hängt vom belegten Verlauf und gewählten Rechtsschutzziel ab."
+    },
     {
       "url": "https://www.gesetze-im-internet.de/bgb/BJNR001950896.html",
       "checked_on": "2026-09-14",
       "supports": "Amtlich indexierter Paragraf 310 Absatz 1: Paragraf 309 nicht unmittelbar im Unternehmerverkehr anwendbar; differenzierter AGB-Maßstab."
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=Aktuell&Gericht=bgh&Sort=12288&anz=750&nr=131581&pos=11",
+      "checked_on": "2026-09-22",
+      "supports": "E-Mail-Zugang bei abrufbarer Bereitstellung auf dem Empfängerserver während üblicher Geschäftszeiten im Unternehmerverkehr. Keine automatische Übertragung auf private Empfänger, Nachtversand oder Beweis durch bloßes Absenden. Amtlich indexierter Leitsatz geprüft; direkter PDF-Abruf gesperrt."
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?.pdf=&Art=en&Datum=Aktuell&Frame=4&Gericht=bgh&anz=1&nr=136872&pos=0",
+      "checked_on": "2026-09-22",
+      "supports": "Vertragsstrafenklausel im Einheitspreisvertrag nach Bezugsgröße und Obergrenze prüfen, keine pauschale Freigabe wegen Fünf-Prozent-Angabe. Konkrete AGB-Klausel eines Einheitspreisvertrags; keine allgemeine Obergrenze für alle Vertragstypen. Amtlich indexierter Leitsatz geprüft."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Mini vollständig gelesen; Pflicht-Vertragsgerüst und einmalige Rückfrage widersprachen dem Auftrag zur fertigen Fassung. Die konkrete B2B-Verlängerungs- und Kostenprüfung war dagegen brauchbar.",
+    "reason": "Am 23.09.2026 vollständig individuell nachgelesen: leere Eingabe und Dateien führen zu passenden Vertrags-, Nachtrags- oder Kündigungsdokumenten; Lieferverzögerung und nachgereichte Mitwirkung ändern die konkrete Aufforderung. Vorhandene Rechtsprechungsgrenzen erhalten. Desk-Review, keine Live-Modellprüfung.",
     "changes": [
-      "Leistungs-, Preis- und Laufzeitfragen mit anschließender gemeinsamer Klauselaktualisierung verbunden; bestellter Nachtrag oder Brief statt automatischem Gesamtvertrag, B2B-Frist- und Kostenlogik erhalten."
+      "Vertragsstrafe nach Bezugsgröße und Vertragsart statt pauschaler Prozent-Freigabe eingeordnet.",
+      "E-Mail-Zugang in Kündigungs- und Verlängerungsworkflow eingebunden; Gegenbeweise und Anwendungsgrenzen erhalten.",
+      "Gewerbemiet-Textform zeitlich präzisiert; Nachfragen führen weiterhin zur vollständigen bestellten Fassung.",
+      "Fachlichen Standalone-Einstieg ergänzt und Lieferverzögerung anhand Leistungsbedarf, zugegangener Fristsetzung und Gegenbelegen bis zum Brief geführt."
     ],
-    "sha256": "8740ab1d6f4a16cb65161d2fab83cf81e1d38214863c7ce4dccba18a4c29419d"
+    "sha256": "d2a20d55a40d14e0293ebb6d1fdd30862f6e897ac9d8e035489eb0039023b817"
   },
   "selection": {
     "positive": [
@@ -63,10 +96,54 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt vollständig einschließlich sämtlicher Schlussrouten gelesen; fehlender NDA-Hausstandard sperrte die Bewertung, Nachträge wurden schematisch als Vorrang jüngeren Textes behandelt und der Abschluss blieb beim Vertragsgerüst.",
+    "reason": "Am 23.09.2026 vollständig individuell nachgelesen: Leistungsanlage als Ergebnis- oder Stundenauftrag konkretisiert, Leistungsaufforderung von Rücktritt und Schadensersatz getrennt und Kündigungszugang mit Frist-/Kostenfolge fortgeschrieben. Neue Normen amtlich gelesen; vorhandene Leitsatzgrenzen nicht erweitert. Desk-Review, keine Live-Modellprüfung.",
     "changes": [
-      "NDA-Prüfung ohne Pflicht-Hausvorlage ermöglicht; konkrete Rangfolge und Auslegung bei Nachträgen, zusammenhängende Folgeänderungen und vollständige bestellte Fassung verankert; interne Standards und Freigaben von rechtlichen Voraussetzungen getrennt."
+      "Vertragsstrafe nach Bezugsgröße und Vertragsart statt pauschaler Prozent-Freigabe eingeordnet.",
+      "E-Mail-Zugang in Kündigungs- und Verlängerungsworkflow eingebunden; Gegenbeweise und Anwendungsgrenzen erhalten.",
+      "Gewerbemiet-Textform zeitlich präzisiert; Nachfragen führen weiterhin zur vollständigen bestellten Fassung.",
+      "Konkrete Dialoge zu Datenimport, Nachfrist, Teilbelieferung und E-Mail-Zugang ergänzt; Antworten ändern zusammenhängende Klauseln, Erklärung, Beweisbewertung und Kostenrechnung."
     ],
-    "sha256": "e7c7c597cf62317205638b80c5b793e12166a49c7f2b067e6b9bddcc5775d6ae"
+    "sha256": "d6b395f8a7930b6663e331185aadeb90ee8c4065a26ef55dc34a7919ba91db5c"
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Vertragsprüfung mit Ersatzklauseln, Leistungs-/Preisnachtrag oder Kündigungsentwurf samt Frist und Kosten anbieten.",
+      "Dateien: Vertrag, Anlagen und Nachträge still lesen; nur bei offenem Ziel passende Dokumentwege anbieten.",
+      "Klarer Auftrag: sofort am bestellten Vertrag oder Schreiben arbeiten; nur entscheidende Leistungs-, Preis-, Frist- oder Zugangsfragen stellen."
+    ],
+    "continuation": "Bestätigter Leistungserfolg ändert Leistungsnachweis und Vergütungsklausel; Teilbelieferung ändert den Rechtsfolgenbrief; nachgereichter Zugangsbeleg verändert Kündigungsbewertung und Verlängerungskosten.",
+    "enrichment": "Unklare Softwareleistung, belastende Mitwirkungsverzögerungen, angemessene Nachfrist, Wahl und Folgen von Schadensersatz/Rücktritt sowie Kündigung unter verspäteter interner Freigabe als vollständige Dokumentpfade ausgearbeitet.",
+    "limits": "desk review; no live client execution"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "vertragsrecht/vertragsrecht-werkstatt.md",
+      "vertragsrecht/vertragsrecht-schnellstart.md"
+    ],
+    "opening_change": "Leistung, Preisfälligkeit, Mitwirkung, Risiko und Beendigung des tatsächlichen Vertragstyps als konkrete Eingangsprüfung.",
+    "norms": [
+      "Paragrafen 130, 133, 157, 280, 286, 307, 310, 323 und 339 BGB",
+      "Paragraf 578 BGB und Artikel 229 Paragraf 70 Absatz 1 EGBGB"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 6. Oktober 2022, VII ZR 895/21, amtlicher Leitsatz",
+        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=Aktuell&Gericht=bgh&Sort=12288&anz=750&nr=131581&pos=11",
+        "application": "E-Mail-Zugang bei abrufbarer Bereitstellung auf dem Empfängerserver während üblicher Geschäftszeiten im Unternehmerverkehr.",
+        "limit": "Keine automatische Übertragung auf private Empfänger, Nachtversand oder Beweis durch bloßes Absenden. Amtlich indexierter Leitsatz geprüft; direkter PDF-Abruf gesperrt."
+      },
+      {
+        "citation": "BGH, Urteil vom 15. Februar 2024, VII ZR 42/22, amtlicher Leitsatz",
+        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?.pdf=&Art=en&Datum=Aktuell&Frame=4&Gericht=bgh&anz=1&nr=136872&pos=0",
+        "application": "Vertragsstrafenklausel im Einheitspreisvertrag nach Bezugsgröße und Obergrenze prüfen, keine pauschale Freigabe wegen Fünf-Prozent-Angabe.",
+        "limit": "Konkrete AGB-Klausel eines Einheitspreisvertrags; keine allgemeine Obergrenze für alle Vertragstypen. Amtlich indexierter Leitsatz geprüft."
+      }
+    ],
+    "remaining_limits": [
+      "Keine Live-Modellprüfung oder technische Exportprüfung durchgeführt; fallbezogene weitere Rechtsprechung bleibt zu prüfen."
+    ]
   }
 }

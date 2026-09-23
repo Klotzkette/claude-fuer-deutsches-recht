@@ -1,8 +1,10 @@
 # 1. Modernisierungskosten bis zur Wohnung nachrechnen
 
-Prüfen Sie für meine vertretene Seite eine Modernisierungsmieterhöhung nach Bauabschluss. Beginnen Sie mit meinen Unterlagen und dem konkreten Ziel, nicht mit einer Rechtsvorlesung. Erstellen Sie eine nachprüfbare Gegenrechnung und einen verwendbaren Schreibenentwurf. Der Schwerpunkt liegt auf gemischten Baukosten, Erhaltungsabzug, Förderung und dauerhafter Mietbelastung.
+Rechnen Sie die verlangte Modernisierungserhöhung vom Rechnungsbetrag bis zur monatlichen Miete der betroffenen Wohnung nach. Ziehen Sie Gutschriften, Erhaltung und zugehörige Fördermittel ab, prüfen Sie Verteilung und Kappung und begründen Sie die Einwendung oder Erläuterung für die vertretene Seite.
 
 ## 1.1. Sachverhalt zuerst
+
+Ohne Eingabe bieten Sie Kostenabgleich, Wohnungsgegenrechnung oder Einwendungsschreiben an. Anlagen ohne Auftrag still lesen und nur das Ziel klären; klare Aufgaben unmittelbar bearbeiten. Auf „Der Zuschuss galt nur der Fassade“ ordnen Sie ihn diesem Gewerk zu, berechnen Verteilung und Monatsbetrag neu und ändern den Brief statt alle Maßnahmen pauschal zu kürzen.
 
 Lesen Sie Vertrag, Ankündigung, Erhöhungserklärung mit Zugang, Schlussrechnungen, Abschläge, Gutschriften, Förderbescheide, Flächenverteilung und frühere Erhöhungen. Ordnen Sie Zustand und Alter der ersetzten Bauteile anhand von Fotos, Berichten und Angaben zu. Erfassen Sie Wohnfläche, Nettokaltmiete, Maßnahmendatum und vertretene Seite, ohne bekannte Angaben erneut zu erfragen. Fehlen etwa Zustandsnachweise oder die Zuordnung einer Förderung, fragen Sie gezielt danach und liefern Sie die bereits prüfbaren Teile vorläufig. Eine vorhandene Schlussrechnung belegt nicht automatisch Modernisierung und vollständige Umlagefähigkeit.
 
@@ -20,7 +22,7 @@ Trennen Sie materielle Berechtigung, formelle Erläuterung, Duldungshärte, wirt
 
 Prüfen Sie live [Paragraf 559 BGB](https://www.gesetze-im-internet.de/bgb/__559.html), [Paragraf 559a](https://www.gesetze-im-internet.de/bgb/__559a.html), [Paragraf 559b](https://www.gesetze-im-internet.de/bgb/__559b.html), [Paragraf 559c](https://www.gesetze-im-internet.de/bgb/__559c.html) und [Paragraf 559e](https://www.gesetze-im-internet.de/bgb/__559e.html).
 
-Anker: BGH, Versäumnisurteil vom 17.06.2020, Az. VIII ZR 81/19, [amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2019/VIII_ZR__81-19.pdf?__blob=publicationFile&v=1), Leitsätze und Randnummer 49, zum Erhaltungsabzug und zur Beweislast. Am 14.09.2026 geprüft; historische Umlagesätze nicht übernehmen. Belegen Sie jede tragende rechtliche Aussage, erfinden Sie keine Entscheidungen oder Randnummern. Bei fehlendem Zugriff den Prüfbedarf ausweisen.
+Wenden Sie BGH, Versäumnisurteil vom 17.06.2020, VIII ZR 81/19, [amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2019/VIII_ZR__81-19.pdf?__blob=publicationFile&v=1), Rn. 27–35 und 36–49, auf alte noch funktionierende Bauteile an: Auch noch nicht fällige Erhaltung verlangt einen abnutzungsbezogenen Abzug. Der Vermieter belegt Modernisierung und umlagefähige Kosten auch bei negativer Feststellungsklage des Mieters. Unberechtigt fehlender Abzug betrifft die materielle Höhe, nicht automatisch die Form; bei trennbaren Maßnahmen Paragraf 139 BGB prüfen. Keine starre Altersquote und keine Übernahme alter Umlagesätze oder Übertragung auf besondere Heizungspauschalen. Belegen Sie tragende Aussagen; fehlenden Zugriff als Prüfbedarf ausweisen.
 
 ## 1.4. Ergebnis und Grenzen
 

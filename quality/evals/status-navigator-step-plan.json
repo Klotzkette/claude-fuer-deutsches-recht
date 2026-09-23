@@ -1,21 +1,46 @@
 {
   "schema_version": 1,
   "plugin": "status-navigator-step-plan",
-  "reviewed_on": "2026-09-18",
-  "sources": [],
+  "reviewed_on": "2026-09-23",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__130.html",
+      "checked_on": "2026-09-22",
+      "supports": "Amtlichen Text zu Paragraf 130 Absatz 1 BGB gelesen; Bezug: Unterschriebene Fassung, Änderungsabsicht und Aufgabenboard konkret abgleichen. Keine vollständige neue Verifikation sämtlicher weiterer Normen des Plugins."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-68-24/",
+      "checked_on": "2026-09-22",
+      "supports": "BAG, Urteil vom 30.01.2025, 2 AZR 68/24: Register unterscheidet bloßen Trackingstatus und Auslieferungsnachweis, davon abhängige Fristannahmen bleiben zur Prüfung offen. Amtlicher Volltext gelesen, Rn. 15 bis 20. Kündigungszugang, keine Entscheidung über Vertragsfreigabe; kein Beweis des Nichtzugangs und keine abschließende Beweiswürdigung durch Dokumentenregister."
+    }
+  ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Vollständig gelesen: Versionsklärung und Nachlieferung führen zum aktualisierten Register und Schrittplan. Die pauschale Forderung nach Freigabe vor jedem Export widersprach jedoch der zulässigen Übergabe einer Arbeitsfassung und konnte den Abschluss unnötig blockieren.",
+    "reason": "Fachliche Startvarianten und konkrete Antwortfortsetzung einzeln geprüft. Preisfreigabe und Anlagenwechsel gezielt zuordnen; Stichtage und Bezugsgrößen im Register trennen; Auslieferungsnachweis mit konkreter Sendung abgleichen; Arbeitsfassung und freigegebenen Export unterscheiden.",
     "changes": [
-      "Freigegebenen Export von einer ausdrücklich gekennzeichneten Arbeitsfassung getrennt; deren Erstellung und Prüfungsübergabe ohne vorgetäuschte Freigabe ermöglicht."
+      "Registereintrag zu Einwurf-Einschreiben nach Nachweisarten getrennt; fehlenden Auslieferungsbeleg beschaffen statt Zugang oder Nichtzugang fingieren; Form- und Aufbewahrungsfragen auf betroffene Dokumente beschränkt.",
+      "Register unterscheidet bloßen Trackingstatus und Auslieferungsnachweis, davon abhängige Fristannahmen bleiben zur Prüfung offen.",
+      "Leerstart: Fassungsabgleich, Nachforderungsbrief oder abhängigen Schrittplan wählen.",
+      "Eine nur auf den Preis bezogene Zustimmung verändert diesen Freigabestand und abhängige Aufgaben, nicht automatisch Anlagen oder Haftungsklauseln.",
+      "Preisfreigabe und Anlagenwechsel gezielt zuordnen; Stichtage und Bezugsgrößen im Register trennen; Auslieferungsnachweis mit konkreter Sendung abgleichen; Arbeitsfassung und freigegebenen Export unterscheiden."
     ],
-    "sha256": "b17163058624e927d20cc2d4fc9f6958708aa52ca84ce127bd9d2c5865d34b57"
+    "sha256": "a76f2cabc6d94ce66766c32102995dedcb9c1066fb192e217c1c0a5de7ff85d2",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
   },
   "workshop_review": {
-    "verdict": "retained",
-    "reason": "Vollständig gelesen: Die Werkstatt trennt bereits bestätigten Export und fertige Arbeitsfassung, schützt Originale und führt nach Freigabenachweis oder Anlagenlieferung den Versionsvergleich fort. Statusbericht und beauftragte Dokumentherstellung sind ausdrücklich unterschieden; rechtliche Wirksamkeit wird nicht aus Dateiverfügbarkeit abgeleitet.",
-    "changes": [],
-    "sha256": "91e3a0c1c09ee86d5a83f9ae17d0ecbcbb644cb870ce1b1a67c9d9c6f9a87ec9"
+    "verdict": "revised",
+    "reason": "Vollständige Werkstatt mit zusätzlichen fachlichen Entscheidungs- und Dokumentwegen einzeln geprüft. Preisfreigabe und Anlagenwechsel gezielt zuordnen; Stichtage und Bezugsgrößen im Register trennen; Auslieferungsnachweis mit konkreter Sendung abgleichen; Arbeitsfassung und freigegebenen Export unterscheiden.",
+    "changes": [
+      "Unterschriebene Fassung, Änderungsabsicht und Aufgabenboard konkret abgleichen.",
+      "Register unterscheidet bloßen Trackingstatus und Auslieferungsnachweis, davon abhängige Fristannahmen bleiben zur Prüfung offen.",
+      "Leerstart: Fassungsabgleich, Nachforderungsbrief oder abhängigen Schrittplan wählen.",
+      "Eine nur auf den Preis bezogene Zustimmung verändert diesen Freigabestand und abhängige Aufgaben, nicht automatisch Anlagen oder Haftungsklauseln.",
+      "Preisfreigabe und Anlagenwechsel gezielt zuordnen; Stichtage und Bezugsgrößen im Register trennen; Auslieferungsnachweis mit konkreter Sendung abgleichen; Arbeitsfassung und freigegebenen Export unterscheiden."
+    ],
+    "sha256": "b14452e345f9d4cee537b54668cffb845127690035e0674d1cd6c81127fa4f82",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
   },
   "selection": {
     "positive": [
@@ -60,5 +85,46 @@
       ],
       "target_skill": "status-navigator-einstieg"
     }
-  ]
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "status-navigator-step-plan/README.md",
+      "status-navigator-step-plan/status-navigator-step-plan-werkstatt.md",
+      "status-navigator-step-plan/status-navigator-step-plan-schnellstart.md",
+      "quality/evals/status-navigator-step-plan.json"
+    ],
+    "opening_change": "Unterschriebene Fassung, Änderungsabsicht und Aufgabenboard konkret abgleichen",
+    "norms": [
+      "Paragraf 130 Absatz 1 BGB",
+      "Paragraf 126a BGB",
+      "Paragraf 130a ZPO"
+    ],
+    "decisions": [
+      {
+        "citation": "BAG, Urteil vom 30.01.2025, 2 AZR 68/24",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-68-24/",
+        "application": "Register unterscheidet bloßen Trackingstatus und Auslieferungsnachweis, davon abhängige Fristannahmen bleiben zur Prüfung offen.",
+        "limit": "Amtlicher Volltext gelesen, Rn. 15 bis 20. Kündigungszugang, keine Entscheidung über Vertragsfreigabe; kein Beweis des Nichtzugangs und keine abschließende Beweiswürdigung durch Dokumentenregister."
+      }
+    ],
+    "remaining_limits": [
+      "Amtlicher Volltext gelesen, Rn. 15 bis 20. Kündigungszugang, keine Entscheidung über Vertragsfreigabe; kein Beweis des Nichtzugangs und keine abschließende Beweiswürdigung durch Dokumentenregister.",
+      "Keine Anbindung an ein tatsächliches Aufgabenboard; keine pauschale Aussage zu Aufbewahrungsfristen oder Freigabekompetenzen.",
+      "Individuelle redaktionelle Akten- und Quellenprüfung (desk review), kein Live-Client- oder Modelltest.",
+      "Workflow-Vertiefung 2026-09-23: Aktueller Direktabruf zu Paragraf 130 BGB scheiterte; Suchindex bestätigte nur die Normfundstelle, keine neue Volltextprüfung. Vorhandene Prüfung vom 22.09.2026 und BAG 2 AZR 68/24 mit ihren Grenzen erhalten. Keine materiellrechtlichen Zusatzfälle, DMS-Anbindung oder Signaturprüfung erfunden. Desk review; keine Live-Client-Ausführung."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leerstart: Fassungsabgleich, Nachforderungsbrief oder abhängigen Schrittplan wählen.",
+      "Dateien: Vertragsfassungen und Freigaben still lesen, keine automatische Inventarliste.",
+      "Klarer Auftrag: bestelltes Register oder Dokument liefern, keinen ungefragten Vertragswirksamkeitsentscheid."
+    ],
+    "continuation": "Eine nur auf den Preis bezogene Zustimmung verändert diesen Freigabestand und abhängige Aufgaben, nicht automatisch Anlagen oder Haftungsklauseln.",
+    "enrichment": "Preisfreigabe und Anlagenwechsel gezielt zuordnen; Stichtage und Bezugsgrößen im Register trennen; Auslieferungsnachweis mit konkreter Sendung abgleichen; Arbeitsfassung und freigegebenen Export unterscheiden.",
+    "limits": "desk review; no live client execution"
+  }
 }

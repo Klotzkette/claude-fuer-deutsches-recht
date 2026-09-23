@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "richter-landgericht-zivilkammer",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.recht.bund.de/bgbl/1/2025/318/regelungstext.pdf?__blob=publicationFile&v=3",
@@ -37,25 +37,64 @@
       "url": "https://www.gesetze-im-internet.de/gvg/__71.html",
       "checked_on": "2026-09-14",
       "supports": "Erstinstanzliche Landgerichtszuständigkeit für nicht dem Amtsgericht zugewiesene Streitigkeiten und besondere ausschließliche Zuständigkeiten."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__531.html",
+      "checked_on": "2026-09-22",
+      "supports": "Amtlichen Text zu Paragraf 531 Absatz 2 ZPO gelesen: Zulassung neuen Vorbringens bei übersehenem Gesichtspunkt, Verfahrensmangel oder fehlender Nachlässigkeit. Keine vollständige neue Verifikation sämtlicher weiterer Normen des Plugins."
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2024-11&Gericht=bgh&Seite=8&Sort=1024&anz=302&nr=140011&pos=256",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Beschluss vom 20.11.2024, VII ZR 191/23: Beweis zur korrigierten Schlussrechnung nicht vom vorgängigen Nachweis des Grunds des Vortragswechsels abhängig machen. Amtlicher Leitsatz und entscheidende Rn. 9 bis 14 im primär indizierten PDF gelesen; direkter PDF-Abruf gestört. Keine materielle Rechnungsbestätigung, keine Aufhebung von Präklusionsregeln."
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2013-4-18&Gericht=bgh&anz=21&nr=64171&pos=0",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 18.04.2013, III ZR 156/12: amtliche Leitsätze a und b im primär indizierten Entscheidungs-PDF gelesen. Bei Wegfall des Klageanlasses vor Rechtshängigkeit und anschließender Rücknahme Wahl zwischen Kostenantrag nach Paragraf 269 Absatz 3 Satz 3, Absatz 4 ZPO und materieller Kostenerstattungsklage; möglicher Kostenantrag beseitigt deren Rechtsschutzbedürfnis nicht. Kein Beleg für die Begründetheit des materiellen Anspruchs. Direkter Volltextabruf scheitert an Weiterleitung, Entscheidungsgründe nicht vollständig geprüft."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__269.html",
+      "checked_on": "2026-09-22",
+      "supports": "Amtlichen Text gelesen: Wegfall des Klageanlasses vor Rechtshängigkeit mit anschließender Rücknahme erlaubt Kostenentscheidung nach billigem Ermessen unter Berücksichtigung des bisherigen Sach- und Streitstands; gilt auch ohne Zustellung. Absatz 4 regelt Beschluss auf Antrag und den gesetzlichen PKH-Sonderfall. Keine eigene materielle Schadenersatzgrundlage."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__280.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlichen Text gelesen: Ersatz eines kausalen Schadens aus zu vertretender Pflichtverletzung; bei Leistungsverzögerung zusätzliche Voraussetzungen des Paragrafen 286 BGB. Das prozessuale Wahlrecht nach III ZR 156/12 ersetzt diese materielle Prüfung nicht."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__531.html",
+      "checked_on": "2026-09-23",
+      "supports": "Positionsbezogene Rechnungsänderung, Zulassung versus Beweiswürdigung, Zahlung vor Rechtshängigkeit und vollständiger Kammerentwurf. Quellenstatus: Paragraf 531 erneut amtlich gelesen; frühere Abrufgrenzen der BGH-Entscheidungen VII ZR 191/23 und III ZR 156/12 bleiben unverändert."
     }
   ],
   "mini_review": {
-    "verdict": "retained",
-    "reason": "Mini vollständig gelesen. Erste Instanz, Berufungsbindung und neues Vorbringen sind bereits getrennt; fehlende Anlagen führen zu konkreter Nachforderung und zur Fortsetzung der betroffenen Parteistation. Kein Pflichtdateiname oder fingiertes Beweisergebnis. Kein Live-Modelltest.",
+    "verdict": "revised",
+    "reason": "Individuelle Lektüre und Workflow-Vertiefung: Früherer Hinweis -> Zulassung neuen Beweismittels und folgenden Beweisbeschluss ändern; Zahlung -> Anträge und Kostenweg aktualisieren. Desk review, keine Live-Client-Ausführung.",
     "changes": [
-      "Eigenständige Berufungsprüfung und Fortsetzung bis zum bestellten richterlichen Entwurf beibehalten."
+      "Generische Tabellen und parteiliche Vergleichsvorgaben durch vollständige Kammerarbeit ersetzt; korrigierte Schlussrechnung, Zeugenzulassung und Übergangsrecht konkret behandelt; bisherige Aufgabenbereiche erhalten.",
+      "Beweis zur korrigierten Schlussrechnung nicht vom vorgängigen Nachweis des Grunds des Vortragswechsels abhängig machen.",
+      "Früherer Hinweis -> Zulassung neuen Beweismittels und folgenden Beweisbeschluss ändern; Zahlung -> Anträge und Kostenweg aktualisieren.",
+      "Positionsbezogene Rechnungsänderung, Zulassung versus Beweiswürdigung, Zahlung vor Rechtshängigkeit und vollständiger Kammerentwurf."
     ],
-    "sha256": "b42032f1f814100a2bbac1b50e8ddecd8b017fc4d11f4d3a9bdc6bc0870d97c6"
+    "sha256": "526ff6a151115f7b1a61a0f6850a1651cc9c0b5b74138be94d499ba69d27d12b",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt vollständig gelesen. Alte Tabelle verlangte Vorbereitungsskills; spätere Routen behandelten Berufungsbindungen wie erste Instanz und nannten überholte Wertgrenze sowie falschen Zuständigkeitsanker. Paragrafen 511 und 495a ZPO sowie 72 GVG am 18.09.2026 amtlich abgerufen; übrige Quellenanker nicht neu verifiziert, bisherige sources-Daten unverändert.",
+    "reason": "Individuelle Lektüre und Workflow-Vertiefung: Positionsbezogene Rechnungsänderung, Zulassung versus Beweiswürdigung, Zahlung vor Rechtshängigkeit und vollständiger Kammerentwurf. Desk review, keine Live-Client-Ausführung.",
     "changes": [
-      "Skillvoraussetzung entfernt und fehlende Aktenstücke mit gezielter Fortsetzung statt pauschalem Stopp verbunden.",
-      "Berufungswert nach maßgeblicher Fassung einschließlich Übergangsprüfung; Zuständigkeit nach Paragraf 72 GVG statt 119 GVG.",
-      "Berufungsrouten unterscheiden Bindung und neues Vorbringen; Paragraf 495a ZPO nicht als allgemeine Kammerbefugnis dargestellt."
+      "Forderungen und Einwendungen sowie konkrete Berufungsangriffe getrennt prüfen.",
+      "Beweis zur korrigierten Schlussrechnung nicht vom vorgängigen Nachweis des Grunds des Vortragswechsels abhängig machen.",
+      "Gesonderte Leistungsklage auf materiellen Kostenersatz bei Wegfall vor Rechtshängigkeit und Rücknahme ausdrücklich vom Kostenantrag abgegrenzt; Ereignis, Zustellung, materielle Grundlage und bereits entschiedene oder erstattete Kosten prüfen.",
+      "Früherer Hinweis -> Zulassung neuen Beweismittels und folgenden Beweisbeschluss ändern; Zahlung -> Anträge und Kostenweg aktualisieren.",
+      "Positionsbezogene Rechnungsänderung, Zulassung versus Beweiswürdigung, Zahlung vor Rechtshängigkeit und vollständiger Kammerentwurf."
     ],
-    "sha256": "aeb1f58f80375af91e86c9413af727945c6c56351383449774ff0bafa69999b7"
+    "sha256": "2392f7887f120ade88b59ac648bcf9e2bfde8487e4d4c8813a12ad2544b86d9c",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
   },
   "selection": {
     "positive": [
@@ -164,5 +203,58 @@
       ],
       "target_skill": "07-berufungsverfahren-paragraf-511-ff"
     }
-  ]
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "gerichtsplugins/richter-landgericht-zivilkammer/README.md",
+      "gerichtsplugins/richter-landgericht-zivilkammer/richter-landgericht-zivilkammer-werkstatt.md",
+      "gerichtsplugins/richter-landgericht-zivilkammer/richter-landgericht-zivilkammer-schnellstart.md",
+      "quality/evals/richter-landgericht-zivilkammer.json"
+    ],
+    "opening_change": "Forderungen und Einwendungen sowie konkrete Berufungsangriffe getrennt prüfen",
+    "norms": [
+      "Paragraf 286 ZPO",
+      "Paragraf 531 Absatz 2 ZPO",
+      "Artikel 103 Absatz 1 GG",
+      "Paragraf 47 EGZPO",
+      "Paragraf 269 Absatz 3 Satz 3 ZPO",
+      "Paragraf 269 Absatz 4 ZPO",
+      "Paragraf 280 Absatz 1 und Absatz 2 BGB",
+      "Paragraf 286 BGB"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Beschluss vom 20.11.2024, VII ZR 191/23",
+        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2024-11&Gericht=bgh&Seite=8&Sort=1024&anz=302&nr=140011&pos=256",
+        "application": "Beweis zur korrigierten Schlussrechnung nicht vom vorgängigen Nachweis des Grunds des Vortragswechsels abhängig machen.",
+        "limit": "Amtlicher Leitsatz und entscheidende Rn. 9 bis 14 im primär indizierten PDF gelesen; direkter PDF-Abruf gestört. Keine materielle Rechnungsbestätigung, keine Aufhebung von Präklusionsregeln."
+      },
+      {
+        "citation": "BGH, Urteil vom 18.04.2013, III ZR 156/12",
+        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2013-4-18&Gericht=bgh&anz=21&nr=64171&pos=0",
+        "application": "Bei Wegfall des Klageanlasses vor Rechtshängigkeit und anschließender Rücknahme gesonderte materielle Kostenerstattungsklage als Alternative zum Kostenantrag nach Paragraf 269 Absatz 3 Satz 3 und Absatz 4 ZPO zulassen; Rechtsschutzbedürfnis nicht allein wegen des Kostenantrags verneinen.",
+        "limit": "Amtliche Leitsätze a und b im primär indizierten PDF gelesen, direkter Volltextabruf gestört; keine vollständige Prüfung der Entscheidungsgründe. Materielle Grundlage, Kausalität, Kostenumfang und frühere Kostenentscheidungen eigenständig prüfen, keine automatische Erstattung."
+      }
+    ],
+    "remaining_limits": [
+      "Amtlicher Leitsatz und entscheidende Rn. 9 bis 14 im primär indizierten PDF gelesen; direkter PDF-Abruf gestört. Keine materielle Rechnungsbestätigung, keine Aufhebung von Präklusionsregeln.",
+      "Kein Live-Kammervotum; besondere Sachgebiete und sämtliche Übergangsfälle nicht vollständig neu recherchiert.",
+      "III ZR 156/12 im Umfang der amtlichen Leitsätze a und b verifiziert; Entscheidungsgründe wegen gestörten direkten Abrufs nicht vollständig gelesen.",
+      "Individuelle redaktionelle Akten- und Quellenprüfung (desk review), kein Live-Client- oder Modelltest.",
+      "Workflow-Vertiefung 2026-09-23: Paragraf 531 erneut amtlich gelesen; frühere Abrufgrenzen der BGH-Entscheidungen VII ZR 191/23 und III ZR 156/12 bleiben unverändert. Desk review; kein Live-Client-Test."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Erstinstanzliche Relation, Berufung oder Entscheidung/Vergleich auswählen.",
+      "Anträge, Rechnungsstände und Urteil still lesen; nur Produkt klären.",
+      "Bestellten Entwurf direkt bearbeiten statt automatischem Entscheidungsreifevermerk."
+    ],
+    "continuation": "Früherer Hinweis -> Zulassung neuen Beweismittels und folgenden Beweisbeschluss ändern; Zahlung -> Anträge und Kostenweg aktualisieren.",
+    "enrichment": "Positionsbezogene Rechnungsänderung, Zulassung versus Beweiswürdigung, Zahlung vor Rechtshängigkeit und vollständiger Kammerentwurf.",
+    "limits": "desk review; no live client execution"
+  }
 }

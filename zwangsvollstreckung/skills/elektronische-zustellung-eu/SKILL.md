@@ -38,14 +38,14 @@ Gläubiger oder Kreditinstitut fragt: Was ändert sich durch die Digitalisierung
 | Datum | Inhalt |
 | --- | --- |
 | 19.3.2026 | Bundestag beschließt das Gesetz; konsolidierter Nachweis über BT-Drs. 21/4816 |
-| 13.5.2026 | Verkündung im BGBl. 2026 I Nr. 152 |
+| 26.5.2026 | Verkündung des Gesetzes vom 20. Mai 2026 im BGBl. 2026 I Nr. 152 |
 | 1.10.2026 | Inkrafttreten wesentlicher Hauptteile, darunter der elektronische PfÜB-Antrag nach Paragraf 829a ZPO n.F. |
-| 1.1.2027 | Strukturierter XML-Datensatz nach Paragraf 829 Absatz 5 ZPO n.F. kann zusammen mit dem PDF-Antrag genutzt werden; bei Widerspruch ist der XML-Datensatz maßgeblich |
+| 1.1.2027 | Nach Paragraf 829 Absatz 5 ZPO n.F. können die einzelnen Formulare als PDF oder als strukturierter XML-Datensatz übermittelt werden; ein zusätzliches PDF ist bei XML nicht erforderlich. Nur wenn dasselbe Formular gleichzeitig in beiden Formaten übermittelt wird, ist XML für die gerichtliche Prüfung maßgeblich. |
 | 1.6.2027 | Kreditinstitute müssen einen sicheren elektronischen Übermittlungsweg eröffnen nach Paragraf 173 Absatz 2 Nummer 1 ZPO n.F. |
 
 Bei jeder neuen Beratung prüfen, ob seit BGBl. 2026 I Nr. 152 weitere Formular-, ZVFV- oder ERV-Anpassungen veröffentlicht wurden. Quellen:
 
-- BGBl. 2026 I Nr. 152
+- [BGBl. 2026 I Nr. 152](https://www.recht.bund.de/bgbl/1/2026/152/regelungstext.pdf?__blob=publicationFile&v=1), Artikel 18: Inkrafttreten der Hauptteile am 1.10.2026, des Artikels 2 am 1.1.2027 und des Artikels 3 am 1.6.2027.
 - BT-Drs. 21/4816
 - BRAK-Newsletter Ausgabe 8/2026 vom 1.5.2026 ("Zwangsvollstreckung künftig mit weniger Medienbrüchen")
 - DGVB-Beitrag zum elektronischen Rechtsverkehr in der Vollstreckung
@@ -64,7 +64,7 @@ Bei jeder neuen Beratung prüfen, ob seit BGBl. 2026 I Nr. 152 weitere Formular-
 
 ### 1. Elektronischer Antrag und XML-Datensatz
 
-Ab 1.10.2026 ist die erleichterte elektronische Antragstellung nach Paragraf 829a ZPO n.F. zu prüfen. Ab 1.1.2027 kann der PfÜB-Antrag zusätzlich zum PDF-Antrag eine maschinenlesbare XML-Struktur nach Paragraf 829 Absatz 5 ZPO n.F. enthalten. Bei Diskrepanz gilt der XML-Datensatz. Wer Software einsetzt, sollte vor dem 1.1.2027 testen, ob die Kanzlei-Software den ZVFV-konformen XML-Anhang erzeugt.
+Ab 1.10.2026 ist die erleichterte elektronische Antragstellung nach Paragraf 829a ZPO n.F. zu prüfen. Ab 1.1.2027 können die einzelnen Formulare nach Paragraf 829 Absatz 5 ZPO n.F. als PDF oder als strukturierter maschinenlesbarer XML-Datensatz übermittelt werden. Ein zusätzliches PDF ist bei XML nicht erforderlich. Nur bei gleichzeitiger Übermittlung desselben Formulars in beiden Formaten wird die XML-Fassung der gerichtlichen Prüfung zugrunde gelegt, auch bei abweichenden Angaben. Wer Software einsetzt, sollte vor dem 1.1.2027 testen, ob die Kanzlei-Software den ZVFV-konformen XML-Datensatz erzeugt.
 
 ### 2. Pflicht der Kreditinstitute zum sicheren Übermittlungsweg
 

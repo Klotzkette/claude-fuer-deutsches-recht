@@ -1,10 +1,10 @@
 # 1. Insiderrecht: Information und Handlung beurteilen
 
-Prüfe die konkrete Information, Transaktion oder Veröffentlichungspflicht nach MAR und WpHG. Erstelle den bestellten Insidervermerk, Ad-hoc-Entwurf, die Aufschubbegründung oder Behördenantwort anhand des damaligen Informationsstands.
+Kläre, ab welchem Zeitpunkt die geplante Übernahme, Prognoseänderung oder Personalentscheidung eine Insiderinformation war, wer davon wusste und welche Handels- oder Veröffentlichungspflicht daraus folgte. Verfasse den beauftragten Insidervermerk, Ad-hoc-Entwurf, die Aufschubbegründung oder Behördenantwort anhand des damaligen Informationsstands.
 
 ## 1.1 Information und Zeitablauf
 
-Lies vorhandene E-Mails, Protokolle, Entwurfsfassungen, öffentliche Mitteilungen und Handelsdaten zuerst. Entnimm daraus Rolle, Auftrag, Emittent, Finanzinstrument und relevante Zeitpunkte. Übernimm bereits geklärte Angaben, statt eine erneute Aufnahme zu beginnen.
+Ohne Eingabe biete Transaktionsinformation, Prognoseänderung oder Handelswunsch an. Dateien ohne Auftrag still lesen und zwei passende Wege anbieten, etwa Insidervermerk oder Ad-hoc-Entwurf. Klaren Auftrag direkt ausarbeiten; bekannte Zeitpunkte übernehmen. Neues präzises Gerücht: Vertraulichkeit und Veröffentlichung neu prüfen; frühere Order: Wissens- und Handlungsfolge ändern, nicht automatisch Handel freigeben.
 
 Bestimme für jeden entscheidenden Zeitpunkt den konkreten Informationsinhalt, seine Präzision, Öffentlichkeit, Quelle und Wissensträger. Begründe Kursrelevanz aus damaliger Sicht eines verständigen Anlegers; spätere Kursbewegungen allein ersetzen diese Prüfung nicht. Verwende keine starren Wahrscheinlichkeitsprozente für Insiderqualität.
 
@@ -20,9 +20,11 @@ Bei offenem Instrumentenbezug oder Informationsinhalt liefere die belegbare zeit
 
 Prüfe Artikel 7 MAR für die Information und Artikel 8 sowie 14 MAR für Handel, Empfehlung oder Veranlassung. Ordne Offenlegung und Marktsondierung gesondert ein. Besitzzeitpunkt, Order, Änderung oder Stornierung, Ausführung und Kommunikation sind eigenständige Tatsachen.
 
+Bei noch laufenden Verhandlungen prüfe nach EuGH, Urteil vom 28. Juni 2012, C-19/11, Geltl, ECLI:EU:C:2012:397, Rn. 38–40 und 49–56, auch den bereits eingetretenen Zwischenschritt selbst. Ein künftiges Ereignis muss nach Gesamtwürdigung tatsächlich erwartet werden können; hohes Kurspotenzial ersetzt fehlende Eintrittswahrscheinlichkeit nicht. [Amtlicher Volltext](https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62011CJ0019). Der Maßstab hilft bei Artikel 7 Absatz 2 und 3 MAR, entscheidet aber nicht die seit Juni 2026 geänderte Veröffentlichungspflicht.
+
 Prüfe nach Artikel 17 MAR zuerst, ob eine Veröffentlichungspflicht besteht. Unterscheide Ereignisdatum, Zwischenschritt und finales Ereignis. Ein Aufschubvermerk ist nur passend, wenn eine Veröffentlichungspflicht besteht; das Fehlen dieser Pflicht beantwortet nicht die Frage nach Insiderqualität oder Handelsverboten.
 
-Seit 5. Juni 2026 gilt die Neufassung durch [Verordnung EU 2024/2809](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024R2809), Artikel 2 Nummer 6 und Artikel 4 Absatz 3: Bei qualifizierten Zwischenschritten eines gestreckten Vorgangs entfällt die Veröffentlichungspflicht; dafür ist kein Aufschub nach Absatz 4 nötig. Insiderqualität und Handelsverbote bleiben gesondert zu prüfen. Geheimhaltung muss gewährleistet sein; ihr Verlust kann nach Absatz 7 eine unverzügliche Veröffentlichung auslösen. Für einen echten Aufschub prüfe insbesondere den Widerspruch zur letzten öffentlichen Kommunikation statt nur einer abstrakten Irreführung. Prüfe zusätzlich aktuelle Konkretisierungen und die Einordnung des finalen Ereignisses.
+Seit 5. Juni 2026 nimmt Artikel 17 Absatz 1 MAR qualifizierte Zwischenschritte gestreckter Vorgänge von der Veröffentlichung aus; Absatz 1a verlangt Geheimhaltung, Absatz 7 erfasst deren Verlust. Maßgeblich ist [Verordnung EU 2024/2809](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024R2809), Artikel 2 Nummer 6, Artikel 4 Absatz 3. Bei Vereinbarungen nennt [Delegierte Verordnung EU 2026/789](https://eur-lex.europa.eu/eli/reg_del/2026/789/oj/deu), Artikel 1 mit Anhang I Nummer 1, die Unterzeichnung oder gleichwertige verbindliche Handlung als finales Ereignis. Die Liste ist nicht abschließend und ersetzt Artikel 7 nicht. Bei echtem Aufschub nach Artikel 17 Absatz 4 MAR prüfe den Widerspruch zur letzten öffentlichen Kommunikation konkret anhand Artikel 2 und Anhängen II/III der Verordnung 2026/789.
 
 ## 1.4 Kontrollen und Meldungen
 

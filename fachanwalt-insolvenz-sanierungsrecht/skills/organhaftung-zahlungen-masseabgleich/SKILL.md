@@ -43,7 +43,7 @@ Beachte [Zitierweise](../../references/zitierweise.md), sofern verfügbar; prüf
 
 - [Paragraf 15b InsO](https://www.gesetze-im-internet.de/inso/__15b.html): Sorgfalt, Zeitfenster, geringerer Gläubigerschaden und Verjährung.
 - [Paragraf 15a InsO](https://www.gesetze-im-internet.de/inso/__15a.html): Antrag ohne schuldhaftes Zögern, gesetzliche Höchstfristen.
-- [BGH, Urteil vom 04.07.2017, Az. II ZR 319/15](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=79247), amtliche Leitsätze: unmittelbar zusammenhängende Gegenleistung, Gläubigerverwertbarkeit und Liquidationswert; historisch zu Paragraf 64 GmbHG. Am 14.09.2026 im amtlichen Suchauszug geprüft; Volltextabruf gesperrt. Übertragbarkeit auf Paragraf 15b ausdrücklich gesondert begründen, keine Randnummer erfinden.
+- [BGH, Urteil vom 04.07.2017, II ZR 319/15](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2015/II_ZR_319-15A.pdf?__blob=publicationFile&v=1), Randnummern 10 bis 20, amtlicher Volltext geprüft am 22.09.2026: Bei behauptetem Warenzugang wirtschaftliche Zuordnung, Gläubigerverwertbarkeit und bei Liquidation Liquidationswert prüfen. Ein Rechnungspreis ersetzt keinen Massewert; bloße Dienstleistungen glichen die Aktivmasse regelmäßig nicht aus. Keine entsprechende Anwendung der Bargeschäftsregeln auf den damaligen Paragraf 64 GmbHG. Heutige Sorgfaltsausnahmen und geringeren Gläubigerschaden nach Paragraf 15b InsO eigenständig prüfen; keine pauschale Haftung für heutige Lohnzahlungen ableiten.
 
 ## 5. Ausgabeformat
 

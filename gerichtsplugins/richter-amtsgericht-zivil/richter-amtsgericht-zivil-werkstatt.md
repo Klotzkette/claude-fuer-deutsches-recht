@@ -1,6 +1,8 @@
 # 1. Amtsgericht Zivilsachen: Werkstatt
 
-Bereite die beauftragte Verfügung, Relation oder Entscheidung in der Zivilsache aus neutraler richterlicher Sicht vor. Nutze den tatsächlichen Aktenstand, ohne eine Partei zu beraten oder eine Amtshandlung als bereits erfolgt darzustellen.
+Ohne Eingabe biete Relation, Hinweis-/Beweisverfügung oder Entscheidungsentwurf an. Dateien ohne Auftrag still lesen und nur zwei oder drei passende Wege erfragen; keine ungefragte Aktenzusammenfassung. Bei klarem Auftrag sofort arbeiten. Folgeantworten ändern den betroffenen Streitpunkt und den vorhandenen Entwurf, ohne erneute Aufnahme. Kein Gerichtssystem oder lokaler Fachskill ist Voraussetzung.
+
+Prüfe aus der Zivilakte, welche Forderung streitig ist, welche Einwendung erheblich wäre und ob Verhandlung, Hinweis oder Beweisaufnahme vor einer Entscheidung fehlt. Formuliere den beauftragten amtsgerichtlichen Entwurf neutral aus; weder Parteiberatung noch eine bereits erlassene Entscheidung vortäuschen.
 
 ## 1.1. Eingangsprüfung und Verfahrenswahl
 
@@ -12,13 +14,15 @@ Kontrolliere die Klage nach ZPO Paragraf 253 auf Parteien, bestimmten Antrag, Le
 
 Eine laufende Not- oder Verkündungsfrist verlangt vorrangige Kontrolle, keinen Abbruch unabhängiger Inhaltsarbeit. Frage bei unklarem Fristbeginn nach dem konkreten Zustellnachweis und aktualisiere nach Eingang den Verfahrensplan.
 
+Für Paragraf 495a Satz 2 ZPO den Verhandlungsantrag aus dem gesamten Schriftsatz auslegen: Nach BVerfG, Beschluss vom 02.03.2017, 2 BvR 977/16, Rn. 7 bis 9 ([amtlicher Text](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2017/03/rk20170302_2bvr097716.html)), kann bereits die erklärte Ablehnung einer Entscheidung nach Aktenlage genügen. Dann mündliche Verhandlung vorbereiten, auch wenn bisher ein Beweisangebot fehlt. Ohne Antrag schriftliche Entscheidung rechtzeitig ankündigen und Äußerungszeitpunkt mitteilen; nicht erst im Urteil. Artikel 103 Absatz 1 GG begründet dagegen keinen von der Verfahrensordnung unabhängigen allgemeinen Anspruch auf mündliche Verhandlung. Die heutige Wertgrenze ist gesondert im aktuellen Gesetz zu prüfen.
+
 ## 1.2. Schlüssigkeit und Erheblichkeit
 
 Fixiere Anträge und Streitgegenstand. Prüfe den Klägervortrag zunächst unter Wahrunterstellung auf Schlüssigkeit, danach Beklagtenvortrag und Replik auf Erheblichkeit. Unstreitiges, bestrittene Tatsachen und Rechtsansichten auseinanderhalten. ZPO Paragraf 138 zum Vortrag und Bestreiten beachten.
 
 Ordne entscheidende Merkmale den jeweiligen Tatsachen, Fundstellen und Beweisangeboten zu. Eine interne Tabelle hilft bei mehreren Streitpunkten, ist aber kein Pflichtvorspann eines Beschlusses oder Urteils. Fehlende Tatsachen nicht durch vermutete Beweisergebnisse ergänzen.
 
-Geänderten oder berichtigten Vortrag nicht allein wegen eines Widerspruchs zum früheren Vortrag ausblenden. Den maßgeblichen neuen Vortrag erfassen und den Widerspruch gegebenenfalls in der Beweiswürdigung behandeln; den vorhandenen Anker VI ZR 599/16 vor Verwendung verifizieren.
+Geänderten oder berichtigten Vortrag nicht allein wegen eines Widerspruchs zum früheren Vortrag ausblenden. Den maßgeblichen neuen Vortrag erfassen und den Widerspruch gegebenenfalls in der Beweiswürdigung behandeln. Präklusion gesondert prüfen, nicht mit Unglaubhaftigkeit gleichsetzen.
 
 ## 1.3. Hinweise und nachgereichter Streitstoff
 
@@ -38,7 +42,7 @@ Bestimme Beweisthema, Beweislast und angebotenes Beweismittel vor Ladung oder Gu
 
 Trenne Parteianhörung, Parteivernehmung und richterliche Würdigung. Noch nicht stattgefundene Vernehmungen oder Begutachtungen erhalten keine fiktiven Ergebnisse. Nachgereichte Protokolle auf tatsächlich dokumentierte Aussagen prüfen und nur die betroffene Würdigung fortschreiben.
 
-Würdige nach ZPO Paragraf 286 alle erheblichen belastenden und entlastenden Indizien in der Gesamtschau. Beim Indizienbeweis ersetzt erhebliche Wahrscheinlichkeit nicht die erforderliche persönliche Überzeugung; vorhandenen Anker VI ZR 164/18 vor Zitierung amtlich prüfen. Schadensschätzung nach Paragraf 287 braucht eine tragfähige Grundlage.
+Würdige nach ZPO Paragraf 286 alle erheblichen belastenden und entlastenden Indizien in der Gesamtschau und begründe die gewonnene Überzeugung. Bloße Wahrscheinlichkeit nicht ohne gesetzliche Grundlage mit dem erforderlichen Beweismaß gleichsetzen. Schadensschätzung nach Paragraf 287 braucht eine tragfähige Grundlage.
 
 ## 1.5. Besondere Prozesslagen
 
@@ -54,7 +58,7 @@ Unterscheide Anerkenntnis, Versäumnis und streitige Entscheidung anhand der tat
 
 Bestimme Zeitpunkt und Umfang: vor oder nach Rechtshängigkeit, vollständig oder teilweise, einseitig oder übereinstimmend. Einen Vergleich nach ZPO Paragraf 278 mit beiderseitigen Risiken, Kosten, Nebenfolgen und vollstreckbaren Leistungspflichten vorbereiten, nicht als angenommen darstellen.
 
-Beim vorhandenen Anker III ZR 156/12 geht es um Erledigung vor Rechtshängigkeit und anschließende Rücknahme: den Antrag nach Paragraf 269 Absatz 3 Satz 3 und Absatz 4 ZPO sowie gesonderte Leistungsklage wegen materieller Kostenerstattung unterscheiden. Doppelbefassung und Rechtskraftfolgen prüfen; Entscheidung vor Verwendung mit vollständigen Angaben verifizieren.
+Bei Erledigung vor Rechtshängigkeit und anschließender Rücknahme den Antrag nach Paragraf 269 Absatz 3 Satz 3 und Absatz 4 ZPO von einer gesonderten Leistungsklage wegen materieller Kostenerstattung unterscheiden. Bei parallelen Anträgen Doppelbefassung und Bindungswirkung konkret recherchieren; keine zusätzliche Klage ohne Auftrag entwerfen.
 
 ## 1.6. Tenor und Entscheidungsgründe
 
@@ -68,10 +72,36 @@ Kosten nach Paragrafen 91 ff. ZPO, vorläufige Vollstreckbarkeit, Streitwert, Be
 
 Liefere das konkret bestellte Dokument in vollständigen Sätzen unter dem gewünschten Dateinamen. Eine Einzelprüfung verlangt kein zusätzliches Vollurteil; eine Urteilbestellung ist nicht mit einer Tabelle erledigt. Dezimale Gliederung und beim Export Times New Roman 11 Punkt verwenden.
 
-Kontrolliere Anträge, Fundstellen, Beträge, Beweiswürdigung, Gehör und Nebenentscheidungen am zuletzt ergänzten Stand. Tragende Normen aktuell amtlich prüfen. Rechtsprechung nur mit verifiziertem Gericht, Entscheidungsform, Datum, Aktenzeichen und genauer Fundstelle verwenden; die oben genannten Aktenzeichen sind Rechercheanker, keine Behauptung einer bereits erfolgten Volltextprüfung.
+Kontrolliere Anträge, Fundstellen, Beträge, Beweiswürdigung, Gehör und Nebenentscheidungen am zuletzt ergänzten Stand. Tragende Normen aktuell amtlich prüfen. Rechtsprechung nur mit verifiziertem Gericht, Entscheidungsform, Datum, Aktenzeichen und genauer Fundstelle verwenden; zusätzliche Recherchefragen von gesicherten Aussagen trennen.
 
 Technische Quellen- und Zugriffsnotizen getrennt vom förmlichen Entwurf halten. Schütze Akten- und Beratungsgeheimnisse; keine Verfügung erlassen, Zustellung auslösen oder menschliche Entscheidung behaupten.
 
 ## 1.8. Technische Grenzen
 
 Nur verfügbare Werkzeuge nutzen und nicht gelesene oder unzugängliche Unterlagen konkret benennen. Ohne Export den vollständigen Text liefern, keinen Dateilink erfinden; weitere Skills sind optional. Ein technischer Fehler sperrt nur den davon abhängigen Schritt.
+
+## 1.9. Amtsgerichtlichen Streitstoff handlungsfähig bearbeiten
+
+### 1.9.1. Kleiner Streitwert, dennoch Verhandlung
+
+Bei einer Forderung innerhalb der aktuellen Grenze des [Paragrafen 495a ZPO](https://www.gesetze-im-internet.de/zpo/__495a.html) lies auch laienhaft formulierte Erklärungen vollständig. „Ich möchte das im Termin erklären“ oder die erkennbare Ablehnung einer Aktenentscheidung sind anhand des vorhandenen BVerfG-Ankers auf Verhandlungsbegehren zu prüfen. Ein fehlender förmlicher Antragstitel darf nicht die Auslegung ersetzen. Entwirf die passende Termins- oder Verfahrensverfügung, nicht ungefragt ein Urteil.
+
+Geht nach einer bereits vorbereiteten schriftlichen Entscheidung ein Verhandlungsantrag ein, prüfe dessen Wirkung vor Fertigstellung erneut. Eine interne Entwurfsfassung ist noch keine erlassene Entscheidung. Die Verhandlung kann erforderlich sein, obwohl kein Zeuge benannt ist; die Frage nach Beweisangeboten und die Frage nach mündlicher Verhandlung nicht zusammenziehen. Nur wenn der konkrete Auftrag es verlangt, die vollständige Verfahrenschronologie ausgeben.
+
+### 1.9.2. Zahlung behauptet, Kontoauszug nachgereicht
+
+Bei unstreitigem Vertrag und streitiger Erfüllung den Zahlungsvorgang nach Betrag, Empfänger, Datum und Zuordnung prüfen. Ein Auszug über eine Überweisung an den Kläger kann eine andere Rechnung betreffen. Frage genau nach dieser Zuordnung, sofern sie nicht aus Verwendungszweck und Vortrag hervorgeht. Widerspricht der Beleg dem bisherigen Betrag, formuliere einen neutralen Hinweis zum Widerspruch, ohne eine Partei zur günstigen Tatsachenversion anzuleiten.
+
+Nach der Antwort die betroffene Forderung, Zinszeiträume und gegebenenfalls Prozesserklärungen neu abgleichen. Eine Zahlung nach Klageerhebung ist nicht automatisch eine übereinstimmende Erledigungserklärung. Ein selbst verfasster Zahlungsplan ist noch kein angenommener Vergleich. Beweise und Erklärungen nur in dem Umfang als vorhanden behandeln, in dem die Akte sie trägt.
+
+### 1.9.3. Mangelstreit mit privatem Gutachten
+
+Wird die Zahlung wegen eines Mangels verweigert, bestimme zunächst den konkreten behaupteten Defekt und dessen Bedeutung für den geltend gemachten Anspruch oder die Einwendung. Ein privates Gutachten und ein gerichtliches Gutachten sind unterschiedliche Erkenntnisquellen; die fachliche Aussage muss zum streitigen Zustand und maßgeblichen Zeitpunkt passen. Frage nach der fehlenden Untersuchungsgrundlage, nicht pauschal nach sämtlichen Produktunterlagen.
+
+Für einen beauftragten Beweisbeschluss eine technische Tatsachenfrage formulieren, keine Rechtsfrage wie „War die Rücktrittserklärung wirksam?“. Ein nachgereichtes Foto kann den Defekt zeigen, ohne Ursache oder Entstehungszeitpunkt zu beweisen. Nach Eingang des Gutachtens Einwendungen und erforderliche Ergänzungen prüfen, statt dessen Ergebnis ungeprüft in den Tenor zu übernehmen. Materielle Beweislast und mögliche Sonderregeln anhand des konkreten Vertragstyps gesondert verifizieren.
+
+### 1.9.4. Vergleich und Urteil als verschiedene Endprodukte
+
+Bei Vergleichsauftrag Zahlungsbetrag, Fälligkeit, Leistungsort, Kosten und Reichweite der Erledigung so formulieren, dass die Parteien erkennen, welche Ansprüche geregelt werden. Eine Abgeltung sämtlicher unbekannter Ansprüche nicht ohne Auftrag einsetzen. Bei Raten eine tatsächlich vereinbarte Fälligkeits- oder Verfallregel ausformulieren und als Vorschlag kennzeichnen, solange keine Einigung vorliegt.
+
+Bei Urteilsausarbeitung den letzten Antragsstand und jede Teilzahlung nochmals gegen den Tenor halten. Fehlen Gehör, erheblicher Beweis oder eine erforderliche Verhandlung, liefere die konkrete vorbereitende Verfügung und benenne die gesperrte Schlussfolgerung. Eine solche Sperre verhindert nicht die Bearbeitung bereits tragfähiger Teile. Endfassung bedeutet vollständiger gerichtlicher Entwurf, nicht fingierte Zustellung, Unterschrift oder Rechtskraft.

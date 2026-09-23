@@ -38,10 +38,10 @@ Unterscheide anfängliche Beschlussnichtigkeit, spätere Auszahlungssperre und m
 Prüfe aktuelle und stichtagsbezogene Normfassungen; beachte [Zitierweise](../../references/zitierweise.md), sofern verfügbar. Keine ungeprüften Literatur- oder Randnummernangaben.
 
 - [Paragraf 34 GmbHG](https://www.gesetze-im-internet.de/gmbhg/__34.html) und [Paragraf 30 GmbHG](https://www.gesetze-im-internet.de/gmbhg/__30.html): Satzungsgrundlage und Kapitalerhaltung.
-- [BGH, Urteil vom 26.06.2018, Az. II ZR 65/16](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=86101), amtlicher Leitsatz: unzureichendes freies Vermögen bei Beschlussfassung; stille Reserven beseitigen das Hindernis nicht.
-- [BGH, Urteil vom 10.05.2016, Az. II ZR 342/14](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=74863), amtliche Leitsätze: persönliche Haftung erst bei treuwidriger Fortsetzung, nicht schon aufgrund Einziehungsbeschluss oder späterer Zahlungssperre.
+- [BGH, Urteil vom 26.06.2018 - Az. II ZR 65/16](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2016/II_ZR__65-16.pdf?__blob=publicationFile&v=1), Rn. 13 bis 17: Bei schon im Beschlusszeitpunkt feststehend unzureichendem freien Vermögen ist die Einziehung entsprechend Paragraf 241 Nummer 3 AktG nichtig. Die stichtagsbezogene Buchwertrechnung entscheidet; bloß auflösbare stille Reserven ersetzen sie nicht. Erst spätere Unterdeckung gesondert behandeln.
+- [BGH, Urteil vom 10.05.2016 - Az. II ZR 342/14](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2014/II_ZR_342-14.pdf?__blob=publicationFile&v=1), Rn. 21 bis 33: Bei späterem Ausfall der Gesellschaft Abfindungsmaßnahmen und treuwidrige Fortsetzung prüfen; bloße Nichtzahlung begründet keine persönliche Haftung. Insolvenzreife, nicht treuwidrig verzögerte Antragstellung und individuelle Sicherungsabreden können der Haftungsannahme entgegenstehen.
 
-Am 14.09.2026 amtliche Leitsätze im Suchauszug geprüft; unmittelbare Volltextabrufe gesperrt. Für weitergehende Aussagen Volltext nachbeschaffen, keine umfassende Rechtsprechungsprüfung behaupten.
+Am 22.09.2026 diese amtlichen Volltextpassagen geprüft. Keine Vollverifikation sämtlicher Bewertungs-, Satzungs- oder Insolvenzfragen; weitergehende Aussagen benötigen eigene Quellen.
 
 ## 5. Ausgabeformat
 

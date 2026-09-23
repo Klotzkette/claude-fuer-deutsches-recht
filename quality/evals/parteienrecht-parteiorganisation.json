@@ -1,21 +1,52 @@
 {
   "schema_version": 1,
   "plugin": "parteienrecht-parteiorganisation",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/partg/__15.html",
       "checked_on": "2026-09-14",
       "supports": "Absatz 2 unterscheidet zwingend geheime Vorstandswahlen von anderen Wahlen; Absatz 2a behandelt elektronische Kommunikation."
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2020/05/rk20200527_2bvr012114.html",
+      "checked_on": "2026-09-22",
+      "supports": "BVerfG, Kammerbeschluss vom 27.05.2020, 2 BvR 121/14, Rn. 37 bis 42: Staatlichen Angriff gegen schiedsgerichtlichen Ausschluss auf kontrollierbare Rechts-, Verfahrens-, Tatsachen- oder Missbrauchsfehler stützen. Grenze: Keine eigene politische Zweckmäßigkeitsbewertung; keine Übertragung auf Geheimwahlpflicht oder Beschränkung der anwaltlichen Prüfung eines Ausschlussantrags. Amtliche tragende Gründe gelesen; keine Vollverifikation der gesamten Materie."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/partg/__10.html",
+      "checked_on": "2026-09-22",
+      "supports": "Absätze 4 und 5: Ausschlussvoraussetzungen, schwerer Schaden, Schiedsgericht und vorläufige Rechtebeschränkung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/partg/__15.html",
+      "checked_on": "2026-09-22",
+      "supports": "Geheime Wahlen und Möglichkeiten elektronischer Beschlussfassung voneinander abgrenzen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/partg/__15.html",
+      "checked_on": "2026-09-23",
+      "supports": "Absätze 1 bis 3 erneut gelesen: Mehrheitsmaßstab, Geheimwahl, elektronische Kommunikation, Rechte aller Stimmberechtigten und Minderheiten. Ergänzte Wahlunterlagenprüfung bleibt von technischer Sicherheitszertifizierung getrennt."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/partg/__10.html",
+      "checked_on": "2026-09-23",
+      "supports": "Mitgliedsrechte, Ausschlussvoraussetzungen und vorläufige Rechtebeschränkung erneut gelesen. Workflow konkretisiert Vorwurf, schweren Schaden und Dringlichkeit, ohne neue Schwellen oder Fristen zu behaupten."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Vollständig gelesen: Vorstandswahl und staatliche Kandidatenaufstellung bleiben getrennt; ein Protokoll darf fehlende Geheimwahl nicht nachträglich erfinden.",
+    "reason": "Individueller Ganztext-Desk-Review am 2026-09-23: Kurze Wahl zwischen Parteitag, Wahlfehler und Mitgliedsmaßnahme; nachgereichte Anwesenheitsangaben verändern Berechnung und Protokoll konkret. Bestehende gesetzliche Differenzierungen erhalten.",
     "changes": [
-      "Neue Anwesenheits- und Stimmzahlen führen zur erneuten Mehrheitsrechnung; nachgereichte Vorwurfsbelege zur begründeten Stellungnahme statt zur ungeprüften Sanktion."
+      "Tatsächlichen Einladungs-, Wahl- und Mitgliederrechtsvorgang am zuständigen Organ prüfen.",
+      "Ausschlusstatbestände, schwerer Schaden und vorläufige Rechtebeschränkung exakt getrennt.",
+      "Kontrollmaßstab in beiden Prompts operativ eingebaut; Vorstandswahl, staatliche Wahl und besondere Verfassungsverfahren getrennt erhalten.",
+      "Dateien ohne Auftrag führen nach stillem Lesen nur zur Zielklärung; klarer Auftrag führt unmittelbar zum Dokument.",
+      "Wahlgangbezogene Anwesenheitsänderung korrigiert wahlpruefung.md und nur belegte Tatsachen in protokollentwurf.md."
     ],
-    "sha256": "18382e5e3c43cc98d745c722f53d447558b04b836177493a7fe08e5e906964f2"
+    "sha256": "ac9e46836d55c7b2217ced5985272ffba2cfc47dfde31cd2d63d17da1a017eae",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
   },
   "selection": {
     "positive": [
@@ -63,10 +94,57 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Vollständig gelesen einschließlich Finanzierung, Mandatsausübung und besonderer Verfassungsverfahren. Satzungsprüfung und konkrete Verfahren ersetzen keine pauschale Anfechtungsfrist.",
+    "reason": "Individueller Ganztext-Desk-Review am 2026-09-23: Einladung und Satzungswechsel, Stimmzettelabgleich, elektronische Wahl, Vorwurf und Schaden sowie Zahlungszuordnung bis zum verwendbaren Dokument vertieft. Spezialgebiete vollständig erhalten.",
     "changes": [
-      "Ladungs-, Wahl-, Beitrags- und Spendenbelege werden gezielt nachgefordert und im bestellten Dokument verarbeitet; Beratung führt nicht ungefragt zum Schiedsantrag."
+      "Ausschlusstatbestände, schwerer Schaden und vorläufige Rechtebeschränkung exakt getrennt.",
+      "Kontrollmaßstab in beiden Prompts operativ eingebaut; Vorstandswahl, staatliche Wahl und besondere Verfassungsverfahren getrennt erhalten.",
+      "Tagesordnung bei Satzungsänderung und Wahl, Versandlücken sowie Differenzen zwischen ausgegebenen und abgegebenen Stimmen konkret bearbeitet.",
+      "Ausschlussvorwurf mit Urheberschaft, Kontext, Gegenbelegen, schwerem Schaden und konkretem Eilbedarf verbunden.",
+      "Sponsoring und Drittzahlungen anhand Vereinbarung und Bankbeleg bis zur Korrektur der Berichtsposition verfolgt."
     ],
-    "sha256": "1bfad564ca323233bdb6b088b3e75884ec5609efda1c6706bc971015d3aeebc1"
+    "sha256": "9ac902465d082b3f4ee4b1bdd31cd5aaf13262c6a7851cfd54fd4887de3e2e8c",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "method": "desk_review",
+    "files": [
+      "parteienrecht-parteiorganisation/README.md",
+      "parteienrecht-parteiorganisation/parteienrecht-parteiorganisation-werkstatt.md",
+      "parteienrecht-parteiorganisation/parteienrecht-parteiorganisation-schnellstart.md",
+      "quality/evals/parteienrecht-parteiorganisation.json"
+    ],
+    "opening_change": "Tatsächlichen Einladungs-, Wahl- und Mitgliederrechtsvorgang am zuständigen Organ prüfen.",
+    "norms": [
+      "Artikel 21 GG",
+      "Paragrafen 10, 14, 15 PartG",
+      "Paragrafen 43 ff., 46a BVerfGG"
+    ],
+    "decisions": [
+      {
+        "citation": "BVerfG, Kammerbeschluss vom 27.05.2020, 2 BvR 121/14, Rn. 37 bis 42",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2020/05/rk20200527_2bvr012114.html",
+        "application": "Staatlichen Angriff gegen schiedsgerichtlichen Ausschluss auf kontrollierbare Rechts-, Verfahrens-, Tatsachen- oder Missbrauchsfehler stützen.",
+        "limit": "Keine eigene politische Zweckmäßigkeitsbewertung; keine Übertragung auf Geheimwahlpflicht oder Beschränkung der anwaltlichen Prüfung eines Ausschlussantrags."
+      }
+    ],
+    "remaining_limits": [
+      "Kammerbeschluss in entscheidenden amtlichen Abschnitten und PartG Paragrafen 10/15 neu geprüft; keine Prüfung individueller Satzungen oder sämtlicher Finanzierungsgrenzen.",
+      "Desk-Review ohne Wahl- oder Modelltest.",
+      "Workflow-Nachprüfung 2026-09-23: PartG Paragrafen 10 und 15 erneut gelesen, Paragraf 14 geöffnet. BVerfG-URL diesmal HTTP 403; vorheriger datierter Quellenreview bleibt erhalten und wird nicht als heutige Volltextverifikation ausgegeben. Keine individuelle Satzung, Wahlsoftware, Rechenschaftsbuchung oder aktuelle Finanzierungsschwelle vollgeprüft."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Werkstatt bietet Parteitag/Wahl, Wahlfehler/Mitgliedsmaßnahme oder Finanzierung; Mini konzentriert auf Parteitag, Wahlfehler und Mitgliedsmaßnahme.",
+      "Dateien ohne Auftrag: Satzung, Protokoll oder Zahlungsunterlage still lesen und ausschließlich das gewünschte Arbeitsprodukt klären.",
+      "Klarer Auftrag: Einladung, Stellungnahme, Antrag oder Vermerk unmittelbar bearbeiten; nur entscheidende Satzungs- oder Ablaufangaben nachfordern."
+    ],
+    "continuation": "Neue Anwesenheitszahl ändert nur betroffene Wahlgänge in wahlpruefung.md und den belegten Protokollentwurf; neue Gegenleistungsvereinbarung verändert Einordnung und Berichtsposition in rechenschaftsvermerk.md.",
+    "enrichment": "Satzungswechsel und Einladung, Stimmzahlen und elektronische Geheimwahl, tatsächlicher neuer Wahlgang, Ausschlussbelege und Dringlichkeit sowie Zahlungszuordnung und vollständiger Dokumentabschluss.",
+    "limits": "desk review; no live client execution"
   }
 }

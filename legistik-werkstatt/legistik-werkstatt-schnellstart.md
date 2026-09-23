@@ -1,6 +1,8 @@
 # 1. Vom Regelungsauftrag zum Normtext
 
-Formuliere die beauftragte Regelung oder prüfe den vorgelegten Entwurf. Lies Regelungsauftrag, geltende Fassung und vorhandene Entwürfe, bevor du fehlende Angaben erfragst.
+Formuliere aus dem Regelungsauftrag einen bestimmten Tatbestand, eine vollziehbare Rechtsfolge und die dazu passenden Änderungsbefehle. Prüfe den vorgelegten Entwurf gegen die geltende Fassung, bevor du fehlende politische Vorgaben oder Unterlagen erfragst.
+
+Ohne Eingabe frage kurz: „Neue Regelung, Änderung eines Entwurfs oder Vereinfachung einer bestehenden Pflicht?“ Bei Dateien ohne Auftrag lies zunächst still und kläre nur das Ziel, etwa Normtext oder Prüfvermerk. Bei klarem Auftrag liefere direkt den bearbeitbaren Entwurf; frage nur nach einer entscheidenden Lücke, ohne Startvortrag oder Materialzusammenfassung. Dateizugriff nicht voraussetzen; verfügbare Textauszüge genügen für die davon getragenen Teile.
 
 Übernimm bekannte Angaben zu Normgeber, Normart, Ebene und gewünschter Änderung. Fehlt eine politische Entscheidung oder die maßgebliche Ausgangsfassung, benenne genau diese Lücke; erfinde keine Vorschriften, Zuständigkeiten oder politischen Vorgaben.
 
@@ -12,9 +14,15 @@ Zeige Ausgangstext, Änderungsbefehl und resultierende Fassung. Kontrolliere Bin
 
 Ist etwa unklar, ob bestehende Genehmigungen erfasst werden sollen, frage nach dieser Entscheidung und erläutere knapp die unterschiedlichen Folgen. Nach der Antwort ändere Anwendungsbereich, Übergangsrecht und Einzelbegründung gemeinsam. Ergibt sich daraus eine weitere entscheidende Abgrenzungsfrage, kläre sie gezielt, ohne bereits getroffene Entscheidungen erneut abzufragen.
 
+Bei mehreren Fassungen kläre nur die maßgebliche Basis. Vergleiche einen Änderungsantrag mit der bezeichneten Vorlage und prüfe bei zeitversetzten Änderungen auch die Zwischenfassung. Eine neue Definition darf nicht unbemerkt Pflichten in anderen Vorschriften erweitern.
+
 ## 1.2. Zeitlicher Anwendungsbereich
 
 Trenne Verkündung, Inkrafttreten, erstmalige Anwendung und Übergangsfrist. Bestimme die Behandlung begonnener Verfahren, bestehender Genehmigungen und neuer Anträge. Teste den Tag vor und nach jedem Stichtag. Ermögliche Vollzugsvorbereitung, ohne vorzeitig Bürgerpflichten auszulösen.
+
+Beispiel einer Fortsetzung: „Auch spätere Ergänzungen alter Papieranträge bleiben schriftlich zulässig.“ Ändere im bereits vereinbarten Pfad, etwa `entwurf/uebergangsrecht.md`, die Übergangsregel und ihre Begründung; knüpfe an den Erstantrag an, statt Nachreichungen als neue Verfahren zu behandeln. Prüfe einen zurückgenommenen und erneut gestellten Antrag als eigenen Grenzfall, sofern der Auftrag ihn offenlässt. Ohne Dateizugriff gib die aktualisierte vollständige Passage aus, ohne Speicherung zu behaupten.
+
+Bei nachträglicher Belastung abgeschlossener Sachverhalte prüfe Artikel 20 Absatz 3 GG: BVerfG, Beschluss vom 17.12.2013, 1 BvL 5/08, Rn. 40 bis 49 und 62 bis 68 ([Volltext](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2013/12/ls20131217_1bvl000508.html)), behandelt eine behauptete „Klarstellung“ nach ihrem wirklichen Änderungsgehalt. Bloße Auslegungsbedürftigkeit rechtfertigt echte Rückwirkung nicht. Vergleiche deshalb alte und neue Rechtsfolge und begründe gegebenenfalls eine Ausnahme oder ändere das Übergangsrecht. Der Steuerfall verbietet nicht pauschal die Änderung laufender Verfahren.
 
 [Artikel 82 Absatz 2 GG](https://www.gesetze-im-internet.de/gg/art_82.html) ist der geprüfte Anker für Inkrafttretensbestimmungen von Bundesgesetzen und Rechtsverordnungen; Landesrecht gesondert prüfen. Keine pauschalen IT-Vorlauffristen als Rechtsvorgabe ausgeben. Optional vertieft `inkrafttreten-uebergangsrecht` die Gestaltung; ohne Zugriff die hier beschriebenen Stichtagstests durchführen. Seine Muster und Quellenangaben müssen am Normtyp und amtlichen Material geprüft werden. In jedem Test festhalten, welche Fassung gilt und ob ein bereits begonnener Vorgang den Rechtskreis wechselt.
 

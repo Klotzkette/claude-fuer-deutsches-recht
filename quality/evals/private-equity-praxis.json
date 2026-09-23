@@ -1,15 +1,39 @@
 {
   "schema_version": 1,
   "plugin": "private-equity-praxis",
-  "reviewed_on": "2026-09-18",
-  "sources": [],
+  "reviewed_on": "2026-09-23",
+  "sources": [
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2004/II_ZR_173-04.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 19.09.2005 - II ZR 173/04, Gründe zur sachlichen Rechtfertigung des Managermodells, S. 5 bis 9 und 13: Rückübertragung einer verbilligten, risikoarmen Minderheitsbeteiligung als Annex zur Geschäftsführerstellung von sachgrundlosem Hinauskündigen unterscheiden; Erwerbspreis, Risiko, Gewinnfunktion und Austrittsanlass prüfen. Grenze: Keine pauschale Billigung jeder PE-Leaver-Klausel oder selbst finanzierten Vollwertbeteiligung. Treuwidrig herbeigeführter Bedingungseintritt nach Paragraf 162 Absatz 2 BGB bleibt gesondert zu prüfen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__133.html",
+      "checked_on": "2026-09-23",
+      "supports": "Normtext erneut gelesen: Auslegung der Erklärung; Zahlungs- und Verteilungsbeispiele beruhen auf ausdrücklich angegebenen Vertragsannahmen, nicht gesetzlichen Quoten."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__241.html",
+      "checked_on": "2026-09-23",
+      "supports": "Normtext gelesen: Leistungspflicht aus dem Schuldverhältnis; Anspruchsberechtigten, Verpflichteten und vereinbarten Leakage-Mechanismus konkret zuordnen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__15.html",
+      "checked_on": "2026-09-23",
+      "supports": "Normtext gelesen: Formanforderungen für Anteilsübertragung und Verpflichtung hierzu. Eine nachgereichte Verhandlungsnachricht ist nicht ungeprüft eine wirksame SPA-Änderung."
+    }
+  ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Vollständig gelesen: Locked Box und Closing Accounts werden nicht vermischt; Kapitalquote und Erlösrang bleiben getrennt.",
+    "reason": "Am 2026-09-23 vollständig gelesen und individuell ergänzt: Fondsbedingungen, Kaufpreis/Vollzug und Management als Einstiegswege; geänderte Beratungsausnahme und Ablösebescheinigung führen zu konkreten neuen Zahlen im bisherigen Dokument. Bestehende Managermodell-Grenzen erhalten.",
     "changes": [
-      "Buchungen, erlaubte Abflüsse und Finanzierungsantworten werden nachgerechnet und in Klausel oder Zahlungsanforderung eingearbeitet; keine automatische Vollzugsfreigabe."
+      "II ZR 173/04 anhand Erwerbspreis, Minderheitsstellung, Risiko und Gewinnfunktion statt als allgemeine PE-Freigabe angewandt.",
+      "Abberufung nach Paragraf 38 GmbHG von Beteiligungsrückerwerb und Paragraf 162 Absatz 2 BGB getrennt.",
+      "Keine erfundene Leakage-Rechtsprechung; bestehende Fonds-, Kredit- und Exit-Routen erhalten.",
+      "2026-09-23: Drei ausdrückliche Startmodi und Fortsetzungsbeispiele mit Vertragsstatus, Formprüfung und benanntem Kaufpreis- beziehungsweise Vollzugsvermerk."
     ],
-    "sha256": "a6784a6141b6afef650aeb8d3dce46641a6b6174f1998172b68fb425985a2e58"
+    "sha256": "ff1eecc162ae91aa63a29d4f9e372a0371ca9d37da9c3b9fdf91c9f154c6a6ac"
   },
   "selection": {
     "positive": [
@@ -57,10 +81,55 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die gesamte Werkstatt einschließlich Fondsregulierung, Finanzierung und Entscheidungsankern wurde gelesen. Außen-GbR II ZR 331/00 und ARAG/Garmenbeck II ZR 175/95 sind korrekt getrennte Rechercheansätze.",
+    "reason": "Am 2026-09-23 vollständig gelesen und individuell vertieft: Verteilungsebenen und Renditedefinitionen, Kaufpreiseinwand und Zugang, bekannte Risiken und Einzelfreistellung sowie Ablösung und Vollzugsbereitschaft. Keine pauschale neue Freigabe von Leaver- oder Fondsmodellen.",
     "changes": [
-      "Kapitalabruf, Waterfall, Kaufpreis und Vollzug besitzen eigene Fortsetzungswege. Vorhandene getrennte Entscheidungszuordnung bleibt erhalten; keine neue Verifikation alter Quellen behauptet."
+      "II ZR 173/04 anhand Erwerbspreis, Minderheitsstellung, Risiko und Gewinnfunktion statt als allgemeine PE-Freigabe angewandt.",
+      "Abberufung nach Paragraf 38 GmbHG von Beteiligungsrückerwerb und Paragraf 162 Absatz 2 BGB getrennt.",
+      "Keine erfundene Leakage-Rechtsprechung; bestehende Fonds-, Kredit- und Exit-Routen erhalten.",
+      "2026-09-23: Waterfall mit ausdrücklich angenommener Rechenfolge, Fonds- versus Erwerbsvehikelebene und Nachwirkung einer Aufholklausel ergänzt.",
+      "2026-09-23: Finanzschuld/Betriebskapital/Leakage, anspruchsberechtigte Partei, Einwandfrist, Sachverständigenzuständigkeit, Drittanspruchsverfahren und tagesbezogener Funds Flow konkretisiert."
     ],
-    "sha256": "49ae462b43766f934f2232f9ca7107ac9e3a0bdb47324f423e7c72b4c5746486"
+    "sha256": "d4ea24433e84b09d16c4b32b71843232bb4496751487ed6ac094ff368245b5ca"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "private-equity-praxis/README.md",
+      "private-equity-praxis/private-equity-praxis-werkstatt.md",
+      "private-equity-praxis/private-equity-praxis-schnellstart.md",
+      "quality/evals/private-equity-praxis.json"
+    ],
+    "opening_change": "Eigenes Investment, wirtschaftliches Risiko und Rückerwerbsrechte leiten die Prüfung einer Managementbeteiligung.",
+    "norms": [
+      "BGB Paragraf 138 Absatz 1",
+      "BGB Paragraf 162 Absatz 2",
+      "GmbHG Paragraf 38",
+      "BGB Paragrafen 133, 157 und 241 Absatz 1"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 19.09.2005 - II ZR 173/04, Gründe zur sachlichen Rechtfertigung des Managermodells, S. 5 bis 9 und 13",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2004/II_ZR_173-04.pdf?__blob=publicationFile&v=1",
+        "application": "Rückübertragung einer verbilligten, risikoarmen Minderheitsbeteiligung als Annex zur Geschäftsführerstellung von sachgrundlosem Hinauskündigen unterscheiden; Erwerbspreis, Risiko, Gewinnfunktion und Austrittsanlass prüfen.",
+        "limit": "Keine pauschale Billigung jeder PE-Leaver-Klausel oder selbst finanzierten Vollwertbeteiligung. Treuwidrig herbeigeführter Bedingungseintritt nach Paragraf 162 Absatz 2 BGB bleibt gesondert zu prüfen."
+      }
+    ],
+    "remaining_limits": [
+      "Keine Vollprüfung des Fondsaufsichtsrechts, der KAGB-/ELTIF-Schnittstellen oder sämtlicher Leaver-Modelle.",
+      "Desk- und Quellenprüfung; kein Live-Client- oder Live-Modelltest und keine vollständige Neuverifikation sämtlicher vorhandener Quellen.",
+      "2026-09-23: Quellenprüfung vom 2026-09-22 als datierten Prüfstand erhalten. BGH-Direktlink zu II ZR 173/04 erneut versucht, HTTP 403; Suchfund einer Schreibfehlerberichtigung ersetzt keinen Urteilsvolltext. Heute keine erneute Volltextprüfung und keine Vollprüfung neuerer Leaver-Rechtsprechung. BGB Paragrafen 133 und 241 sowie GmbHG Paragraf 15 gelesen; Abruf von Paragraf 157 BGB scheiterte. Fonds-, Steuer- und Krisenrecht nicht vollständig neu geprüft."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leere Eingabe: Fonds- und Anlegerbedingungen, Kaufpreis und Vollzug oder Managementbeteiligung anbieten.",
+      "Dateien ohne Aufgabe: Vertragsunterlagen still lesen und ausschließlich den gewünschten Arbeitsauftrag klären.",
+      "Klarer Auftrag: direkt rechnen oder entwerfen; nur entscheidende fehlende Definitionen, Belege oder Vertragsdaten erfragen."
+    ],
+    "continuation": "Wirksam vereinbarte Erhöhung erlaubter Beratungskosten von 50000 auf 60000 Euro ändert Überschuss, Gesamtabzug und Restpreis in kaufpreisvermerk.md beziehungsweise Nutzerpfad; neue Ablösebescheinigung ändert Zahlungstag, Finanzierungslücke und Beträge im Vollzugsvermerk.",
+    "enrichment": "Verteilung nach Ebene und Zahlungszeit, Aufholklausel, streitige Bilanzpositionen, Zugang von Kaufpreiseinwänden, bekannte Risiken und Drittanspruchsverfahren sowie tagesbezogene Ablösung und konkrete Vollzugsbedingungen ergänzt.",
+    "limits": "desk review; no live client execution"
   }
 }

@@ -1,8 +1,10 @@
 # 1 Betreuung aus Bedarf, Wunsch und Nachweis bearbeiten
 
-Erstelle das verlangte Gerichtsschreiben, Verzeichnis oder die Entscheidungsvorlage. Nutze zuerst den konkreten Auftrag und vorhandene Betreuungsbeschlüsse, Vollmachten, Schreiben und Belege; bereits geklärte Angaben nicht erneut erfragen.
+Prüfe Aufgabenbereich und Wünsche der betreuten Person, gleiche Vermögensbestände zum Bestellungsdatum ab und formuliere das verlangte Verzeichnis, Gerichtsschreiben oder die begründete Beratung. Nutze zuerst vorhandene Betreuungsbeschlüsse, Vollmachten, Schreiben und Belege; bereits geklärte Angaben nicht erneut erfragen oder Unterlagen ohne Anlass nochmals lesen.
 
 Erfasse betreute Person, handelnde Person, Aufgabenbereich und aktuellen Verfahrensstand. Eine Angehörigeneigenschaft allein ist keine nachgewiesene Vertretungsmacht.
+
+Ohne Fall biete Wohnungsentscheidung, Vermögensverzeichnis oder Gerichtsbericht an. Dateien ohne Aufgabe still lesen, dann passende Dokumentwege anbieten. Klare Aufträge direkt bearbeiten, keine Lebenslagenübersicht. „Sie will nach Hause“ ändert Wunschdarstellung und Alternativenprüfung vor Wohnungsaufgabe. „Erbschaft schon vor Bestellung“ verlangt Prüfung des damaligen Vermögenswerts statt bloßer Zuordnung nach Zahlungseingang. Danach Antrag oder Verzeichnis ändern; Bekanntes nicht erneut erfragen.
 
 ## 1.1 Unterstützung vor Stellvertretung
 
@@ -11,6 +13,8 @@ Prüfe bei Bestellung oder Erweiterung den konkreten rechtlichen Unterstützungs
 Nach [Paragraf 1821 BGB](https://www.gesetze-im-internet.de/bgb/__1821.html) sind Wünsche festzustellen und rechtliche Selbstbesorgung zu unterstützen; Vertretungsmacht nur soweit erforderlich einsetzen. Unterscheide aktuellen Wunsch, frühere Äußerung und lediglich vermutete Präferenz von Angehörigen. Prüfe eine Abweichung anhand der gesetzlichen Voraussetzungen, nicht anhand eigener Vorstellungen eines vernünftigen Lebens. Dokumentiere Gesprächsinhalt und Quelle, ohne ein Gespräch zu erfinden.
 
 Fehlt ein belastbarer Wunsch, frage nach konkreter Äußerung und Verständigungsmöglichkeit. Bearbeite unabhängig gesicherte Angaben vorläufig weiter. Nach der Antwort passe Unterstützungsbedarf, Alternativen und den bestellten Text an. Zeigt sich ein weiterer entscheidender Widerspruch, kläre ihn gezielt nach, ohne beantwortete Fragen zu wiederholen.
+
+Soll ein gewünschter Angehöriger als Betreuer abgelehnt oder ausgewechselt werden, verlange konkrete Eignungstatsachen und prüfe Hilfen für den betroffenen Aufgabenbereich: BVerfG, Beschluss vom 31.03.2021 - 1 BvR 413/20, Randnummern 34 bis 35 ([amtliche Gründe](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2021/03/rk20210331_1bvr041320.html)). Die bloß bessere Eignung eines Fremden genügt nicht; bei erheblichen Gefahren durch fehlende Eignung kann ein Wechsel geboten sein. Die Entscheidung zum früheren Recht ist heute mit Paragrafen 1816, 1817 und 1868 BGB anzuwenden, nicht als uneingeschränkter Angehörigenvorrang.
 
 ## 1.2 Konkrete Handlung und Genehmigung
 
@@ -28,7 +32,7 @@ Fehlt der Auszug zum Bestellungsstichtag, fordere genau diesen Zeitraum an. Nach
 
 ## 1.4 Bericht und Abschluss
 
-Trenne Anfangsverzeichnis, laufende Rechnungslegung, persönlichen Bericht und Aufwendungs- oder Vergütungsantrag. Für den angeforderten Zeitraum ordne Maßnahmen, Kontakte, Wünsche, Veränderungen und noch erforderliche Betreuung den tatsächlichen Belegen zu. Keine standardisierte positive Entwicklung erfinden. Verweise im Gerichtsschreiben auf die konkret beigefügten oder noch fehlenden Nachweise.
+Trenne Anfangsverzeichnis, Rechnungslegung nach Paragraf 1865 BGB, persönlichen Bericht nach Paragraf 1863 BGB und Aufwendungs- oder Vergütungsantrag. Für den angeforderten Zeitraum ordne Maßnahmen, Kontakte, Wünsche, Veränderungen und noch erforderliche Betreuung den tatsächlichen Belegen zu. Keine standardisierte positive Entwicklung erfinden. Verweise im Gerichtsschreiben auf die konkret beigefügten oder noch fehlenden Nachweise.
 
 Bei einer entscheidenden Lücke liefere einen gekennzeichneten Teilstand und den konkret benötigten nächsten Beitrag. Nach dessen Eingang aktualisiere Rechnung, Genehmigungsprüfung oder Berichtsabschnitt und arbeite bis zum bestellten Dokument weiter; keine ungefragten Anträge bei bloßem Beratungsauftrag. Quellenstatus und technische Prüfvermerke gesondert halten, nicht in das Gerichtsschreiben kopieren.
 

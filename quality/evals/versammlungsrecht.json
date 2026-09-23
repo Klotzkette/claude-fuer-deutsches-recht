@@ -1,8 +1,18 @@
 {
   "schema_version": 1,
   "plugin": "versammlungsrecht",
-  "reviewed_on": "2026-09-17",
+  "reviewed_on": "2026-09-23",
   "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/versammlg/__14.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlicher Normtext erneut gelesen: bundesrechtliche Anknüpfung vor Bekanntgabe und Benennung der Leitung; Bundesland und Eil- oder Spontanlage bleiben gesondert zu prüfen."
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2015/09/rk20150911_1bvr221115.html",
+      "checked_on": "2026-09-23",
+      "supports": "Vollständiger amtlich indexierter Kammerbeschluss mit Randnummern 1 bis 7 erneut gelesen: Schutzbemühungen, Amtshilfe, zeitliche Alternative sowie behördliche Darlegungs- und Beweislast; erfolgloser Eilantrag wegen konkreter Gewaltprognose und begrenzter Aufklärbarkeit bleibt die Anwendungsgrenze. Kein Live-Eilverfahren."
+    },
     {
       "url": "https://www.gesetze-im-internet.de/versammlg/__14.html",
       "checked_on": "2026-09-14",
@@ -12,15 +22,31 @@
       "url": "https://www.gesetze-im-internet.de/vwgo/__80.html",
       "checked_on": "2026-09-14",
       "supports": "Absatz 5: Wiederherstellung bei besonders angeordnetem Sofortvollzug."
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2015/09/rk20150911_1bvr221115.html",
+      "checked_on": "2026-09-22",
+      "supports": "BVerfG, Kammerbeschluss vom 11. September 2015, 1 BvR 2211/15, Rn. 3 bis 6: Fremde Gewalt grundsätzlich gegen Störer abwehren; Kräfte, Amtshilfe und zeitliche Alternativen vor Polizeinotstand prüfen. Grenze: Eilantrag dort wegen konkreter schwerer Gewaltprognose erfolglos; keine Durchführungsgarantie und keine Übernahme fremder Landesbefugnisse. Amtliche tragende Gründe gelesen; keine Vollverifikation der gesamten Materie."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/versammlg/__15.html",
+      "checked_on": "2026-09-22",
+      "supports": "Absatz 1: unmittelbare Gefahr nach erkennbaren Umständen; nur bei fortgeltendem Bundesrecht anwenden."
     }
   ],
   "mini_review": {
-    "verdict": "retained",
-    "reason": "Vollständige Textprüfung am 18. September: Gefahrenbeleg und praktisch verfügbare Ordner führen zur Aktualisierung von Alternative und Auflagenantwort; ein naher Termin löst Eilbearbeitung statt Abbruch aus.",
+    "verdict": "revised",
+    "reason": "Mini vollständig nachgelesen: Anzeige, Schutzkonzept und Eilantrag haben konkrete Startwege; neue Gewaltbelege, ausgefallene Ordner und verstrichene Termine ändern das Dokument. Vorhandene Fallgrenzen erhalten; Desk-Review, kein Live-Modelltest.",
     "changes": [
-      "Keine weitere Änderung der vollständig gelesenen Mini-Fassung."
+      "Routen- und Zeitbeschränkung gegen Gefahrenbelege und praktisch verfügbares Schutzkonzept prüfen.",
+      "Beide Einstiege konkretisiert und Polizeinotstand mit Nachweisfragen und gegenteiliger Eilfolge differenziert.",
+      "Ungeprüften Brokdorf-Verweis ersetzt; Anzeige, Kooperation, Vollzug, Aufnahmen und Nachbereitung erhalten.",
+      "Stilles Lesen bei Dateien ohne Aufgabe, unmittelbarer Entwurf bei klarem Auftrag und konkrete Fortsetzung bei neuen Plan- oder Personalangaben ergänzt.",
+      "Organisatorischen Zeitdruck vom Rechtsbehelfsbeginn getrennt; keine Rückdatierung oder erfundene Spontaneität."
     ],
-    "sha256": "6372c02a6e7a8fbee03f7ef232165a7c59b7e208c0db0f2c2f7c4b1dab7dbf09"
+    "sha256": "29126dd1853601bdffebcc57519d58b08179da8391d6f346b2c34fb4e9cd5195",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
   },
   "selection": {
     "positive": [
@@ -67,11 +93,57 @@
     }
   ],
   "workshop_review": {
-    "verdict": "retained",
-    "reason": "Textprüfung am 18. September: Anzeige, Kooperation, Gefahr, Rechtsschutz, Aufnahmen und Nachbereitung vollständig gelesen. Nicht bestätigte Schutzmaßnahmen werden nicht zugesagt; nach Klärung wird die beauftragte Eingabe fertiggestellt.",
+    "verdict": "revised",
+    "reason": "Werkstatt vollständig nachgelesen: örtlich und zeitlich konkrete Alternativen, Ressourcenabgleich, nachgereichte Gewaltbelege und Bekanntgabeablauf führen zu fertiger Behördenantwort oder Eilantrag. Polizeiaufgaben und Veranstalterzusagen bleiben getrennt; Desk-Review, kein Live-Modelltest.",
     "changes": [
-      "Keine weitere Änderung; Landesrecht, Bekanntgabe und Versammlungsbeginn bleiben getrennt."
+      "Beide Einstiege konkretisiert und Polizeinotstand mit Nachweisfragen und gegenteiliger Eilfolge differenziert.",
+      "Ungeprüften Brokdorf-Verweis ersetzt; Anzeige, Kooperation, Vollzug, Aufnahmen und Nachbereitung erhalten.",
+      "Routenalternative mit Engpass, Anreise, Sicht- und Hörbezug, Personal und tatsächlichem Kooperationsstand ausgearbeitet.",
+      "Gegenbelege ändern Gefahrenprognose und Antrag; nach erledigtem Termin wird das fortbestehende Rechtsschutzziel geklärt."
     ],
-    "sha256": "322f7c4dcf1ca6a8247b362c1a00b92d56aeb2507c49a46c23d1a70b0243c2f6"
+    "sha256": "825314cc504e34c8d5b94759e5bf5b47bea3f4afbd7ccce739d91dc1819b59e9",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Versammlungsanzeige, Behördenantwort mit Routenschutzkonzept oder Eilantrag gegen kurzfristige Beschränkung anbieten.",
+      "Dateien: Anzeige, Plan und Bescheid still lesen; nur bei offenem Ziel passende Anzeige-, Kooperations- oder Rechtsschutzwege anbieten.",
+      "Klarer Auftrag: sofort formulieren; nur entscheidendes Bundesland, Bekanntgabeereignis oder verfügbare Schutzressource klären."
+    ],
+    "continuation": "Bestätigte Engstelle, ausgefallene Ordner oder konkrete neue Gewaltbelege ändern Schutzkonzept, Gefahrenbewertung und Behördenbrief beziehungsweise Eilantrag.",
+    "enrichment": "Bekanntgabeablauf ohne Rückdatierung, örtliche Routenalternative, Sicht- und Hörbezug, Kräfte und Amtshilfe, Gegenbelege sowie verstrichener Termin mit konkretem Dokumentziel verbunden.",
+    "limits": "desk review; no live client execution"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "method": "desk_review",
+    "files": [
+      "versammlungsrecht/README.md",
+      "versammlungsrecht/versammlungsrecht-werkstatt.md",
+      "versammlungsrecht/versammlungsrecht-schnellstart.md",
+      "quality/evals/versammlungsrecht.json"
+    ],
+    "opening_change": "Routen- und Zeitbeschränkung gegen Gefahrenbelege und praktisch verfügbares Schutzkonzept prüfen.",
+    "norms": [
+      "Artikel 8 Absatz 1 GG",
+      "Paragrafen 14 und 15 Absatz 1 VersammlG bei fortgeltendem Bundesrecht",
+      "Paragrafen 80 Absatz 5 und 123 VwGO"
+    ],
+    "decisions": [
+      {
+        "citation": "BVerfG, Kammerbeschluss vom 11. September 2015, 1 BvR 2211/15, Rn. 3 bis 6",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2015/09/rk20150911_1bvr221115.html",
+        "application": "Fremde Gewalt grundsätzlich gegen Störer abwehren; Kräfte, Amtshilfe und zeitliche Alternativen vor Polizeinotstand prüfen.",
+        "limit": "Eilantrag dort wegen konkreter schwerer Gewaltprognose erfolglos; keine Durchführungsgarantie und keine Übernahme fremder Landesbefugnisse."
+      }
+    ],
+    "remaining_limits": [
+      "Amtlicher vollständiger Kammerbeschluss und Paragraf 15 VersammlG geprüft; Länderbefugnisse, Bannmeilen und Camps bleiben fallbezogen zu recherchieren.",
+      "Desk-/Quellenreview, kein Live-Eilverfahren oder Modelltest.",
+      "Workflow-Erweiterung 23.09.2026: Paragraf 14 VersammlG aktuell geöffnet und Kammerbeschluss von 2015 vollständig amtlich indexiert gelesen; keine landesrechtliche Vollprüfung oder tatsächliche Einsatzkräfteprüfung."
+    ]
   }
 }

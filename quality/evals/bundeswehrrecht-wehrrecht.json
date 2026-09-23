@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "bundeswehrrecht-wehrrecht",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/wbo/__6.html",
@@ -17,16 +17,45 @@
       "url": "https://www.gesetze-im-internet.de/wbo/__3.html",
       "checked_on": "2026-09-14",
       "supports": "Keine aufschiebende Wirkung und gesonderte einstweilige Maßnahmen."
+    },
+    {
+      "url": "https://www.bverwg.de/010318B1WB27.17.0",
+      "checked_on": "2026-09-22",
+      "supports": "BVerwG, Beschluss vom 1. März 2018, 1 WB 27.17, Randnummern 18–38: Tatsächliche Pflegeleistung und Ersatzbetreuung gegen dienstlichen Bedarf abwägen; qualifizierten Gesprächsvermerk auf wirksame Beschwerde prüfen. Grenze: Kein Wunschstandortanspruch oder automatischer Aufschub; damaligen Versetzungserlass nicht als heutige Fassung unterstellen. Amtliche tragende Gründe gelesen; keine Vollverifikation der gesamten Materie."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/sg/__44.html",
+      "checked_on": "2026-09-22",
+      "supports": "Dienstunfähigkeit bei Berufssoldaten von Altersgrenzen unterscheiden."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/sg/__55.html",
+      "checked_on": "2026-09-22",
+      "supports": "SaZ: Dienstunfähigkeit und Verweisungen der Entlassung gesondert prüfen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/seg/__1.html",
+      "checked_on": "2026-09-22",
+      "supports": "Sachlicher und persönlicher Anwendungsbereich der Soldatenentschädigung; keine pauschale Fortführung des alten SVG-Ankers."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/wbo/__6.html",
+      "checked_on": "2026-09-23",
+      "supports": "Kenntnis vom Beschwerdeanlass, Monatsfrist und Ablauf einer Nacht; späterer Ausdruck ist nicht automatisch neuer Auslöser."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Vollständige Schlusslektüre bestätigt konkrete Fortsetzung bei fehlendem Kenntnisdatum oder Auswahlbegründung und die getrennte Prüfung der Beschwerde und ihrer fehlenden aufschiebenden Wirkung.",
+    "reason": "Versetzung und Beschwerde werden an tatsächlicher Pflegebelastung, Empfangszuständigkeit und konkreter Abhilfe geprüft; kein automatischer Wunschstandort oder Aufschub. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert.",
     "changes": [
-      "Kenntnisnachweis mit neuer Fristberechnung und vollständiger Beschwerde verknüpft.",
-      "Nachgereichten Bescheid nach Verfahrensstufe auswerten statt WBO, Widerspruch und gerichtlichen Antrag gleichzusetzen."
+      "Beanstandete Verwendung, Befehl und Beurteilung auf konkrete Abhilfe und Schutzbedarf beziehen.",
+      "Konkrete Belastung und beauftragte Abhilfe statt allgemeiner Dokumentenbestellung im Einstieg.",
+      "Familienpflege und Empfangszuständigkeit in bestehende Versetzungs- und Beschwerdeprüfung integriert.",
+      "Altersgrenzen von Dienstunfähigkeit und Ruhestandsvoraussetzungen getrennt; alten SVG-Entschädigungsanker durch SEG-Anwendungsprüfung ersetzt.",
+      "Leer: Verwendung, Beurteilung oder Statusklärung. Dateien: still lesen und dienstrechtlich passenden Dokumentweg anbieten. Klar: direkt bestellte Beschwerde oder Beratung ausarbeiten.",
+      "Teilweise Ersatzpflege verändert verbleibende Belastung; verschobener Dienstantritt verändert Eilantrag ohne fingierte Aussetzung."
     ],
-    "sha256": "43704ee5254647b0def3231e454abbad3e955e387adbc5bca4960b40591197c6"
+    "sha256": "9065a2c19ab836bb445c90f36d75727be5486f49fd30215941a8ec743c0ad490"
   },
   "selection": {
     "positive": [
@@ -74,12 +103,56 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Alle Abschnitte einschließlich Status, Versorgung, Reservisten und ziviler Beschäftigung gelesen. Fachliche Verzweigungen führen nach neuen Befehls-, Gutachten- oder Kostenbelegen zum jeweils bestellten Dokument; keine weitere Textänderung nötig.",
+    "reason": "Die Werkstatt enthält differenzierte Verwendungs-, Status- und Beschwerdewege; Dienstunfähigkeit, Altersgrenzen und Entschädigung wurden normgenau auseinandergezogen. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen.",
     "changes": [
-      "Im ersten Durchgang Befehlswortlaut, Auswahlbegründung und Ausbildungskostenaufstellung mit konkreter Nachforderung und anschließender Würdigung verbunden.",
-      "Fristprüfung und vorläufigen Schutz getrennt; keine fingierte Aussetzung oder eigenmächtige Einlassung.",
-      "Ältere Status- und Versorgungsverweise als fallbezogenen Prüfbedarf erhalten."
+      "Konkrete Belastung und beauftragte Abhilfe statt allgemeiner Dokumentenbestellung im Einstieg.",
+      "Familienpflege und Empfangszuständigkeit in bestehende Versetzungs- und Beschwerdeprüfung integriert.",
+      "Altersgrenzen von Dienstunfähigkeit und Ruhestandsvoraussetzungen getrennt; alten SVG-Entschädigungsanker durch SEG-Anwendungsprüfung ersetzt.",
+      "Pflegekonkretisierung, Kenntnis- und Beschwerdebeleg, Beurteilungszeitraum, medizinischer Umfang und Ausbildungskosten vertieft.",
+      "Teilweise Ersatzpflege verändert verbleibende Belastung; verschobener Dienstantritt verändert Eilantrag ohne fingierte Aussetzung."
     ],
-    "sha256": "627b2393358aca74ffde72d34410a0ed2616833972ea0b51b3c8e36eed054353"
+    "sha256": "23a9b00239261926f839e104f126f216ed506dec59712e96b9745ad6093e4d6c"
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Verwendung, Beurteilung oder Statusklärung.",
+      "Dateien: still lesen und dienstrechtlich passenden Dokumentweg anbieten.",
+      "Klar: direkt bestellte Beschwerde oder Beratung ausarbeiten."
+    ],
+    "continuation": "Teilweise Ersatzpflege verändert verbleibende Belastung; verschobener Dienstantritt verändert Eilantrag ohne fingierte Aussetzung.",
+    "enrichment": "Pflegekonkretisierung, Kenntnis- und Beschwerdebeleg, Beurteilungszeitraum, medizinischer Umfang und Ausbildungskosten vertieft.",
+    "limits": "desk review; no live client execution"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "method": "desk_review",
+    "files": [
+      "bundeswehrrecht-wehrrecht/README.md",
+      "bundeswehrrecht-wehrrecht/bundeswehrrecht-wehrrecht-werkstatt.md",
+      "bundeswehrrecht-wehrrecht/bundeswehrrecht-wehrrecht-schnellstart.md",
+      "quality/evals/bundeswehrrecht-wehrrecht.json"
+    ],
+    "opening_change": "Beanstandete Verwendung, Befehl und Beurteilung auf konkrete Abhilfe und Schutzbedarf beziehen.",
+    "norms": [
+      "Artikel 6 Absatz 1 GG",
+      "Paragraf 31 SG",
+      "Paragrafen 3, 5 und 6 WBO",
+      "Paragrafen 44, 46 und 55 SG",
+      "Paragraf 1 SEG"
+    ],
+    "decisions": [
+      {
+        "citation": "BVerwG, Beschluss vom 1. März 2018, 1 WB 27.17, Randnummern 18–38",
+        "url": "https://www.bverwg.de/010318B1WB27.17.0",
+        "application": "Tatsächliche Pflegeleistung und Ersatzbetreuung gegen dienstlichen Bedarf abwägen; qualifizierten Gesprächsvermerk auf wirksame Beschwerde prüfen.",
+        "limit": "Kein Wunschstandortanspruch oder automatischer Aufschub; damaligen Versetzungserlass nicht als heutige Fassung unterstellen."
+      }
+    ],
+    "remaining_limits": [
+      "Aktuelle interne Erlasse sowie Status- und Entschädigungsrecht benötigen fallbezogene zusätzliche Prüfung.",
+      "Workflow-Anschlussprüfung 23.09.2026: individuelle Text- und Quellenprüfung, keine Live-Client-Ausführung. Frühere Entscheidungsprüfungen und ihre Reichweitengrenzen bleiben unverändert; keine erneute vollständige Rechtsprechungsprüfung behauptet."
+    ]
   }
 }

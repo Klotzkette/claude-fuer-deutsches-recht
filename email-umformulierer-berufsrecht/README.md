@@ -37,7 +37,7 @@ Direktnavigation: [30-Sekunden-Start](#in-30-sekunden-starten) · [Startseite](.
 
 Startsatz für E-Mail-Umformulierer (Berufsrechtskonform):
 
-> Erfasse zuerst Dateinamen und Metadaten im ausgewählten Ordner. Lies zunächst die für den Auftrag tragenden Unterlagen; ergänze die Lektüre gezielt bei offenen Belegfragen. Beginne mit folgendem Arbeitsschritt: einen fachbezogenen Erststand mit Ergebnisrichtung, Kernbeleg und nächstem Dokument. Wenn bereits ein konkretes Dokument verlangt ist, beginne unmittelbar damit. Frage nur einmal gebündelt nach, falls der nächste fachliche Schritt sonst falsch wäre; arbeite im Übrigen mit sichtbar markierten Lücken weiter.
+> Sichte den ausgewählten Ordner intern, ohne seine Inhalte ungefragt aufzulisten. Lies die für den Auftrag tragenden Unterlagen; ergänze die Lektüre gezielt bei offenen Belegfragen. Beginne mit folgendem Arbeitsschritt: einen fachbezogenen Erststand mit Ergebnisrichtung, Kernbeleg und nächstem Dokument. Wenn bereits ein konkretes Dokument verlangt ist, beginne unmittelbar damit. Frage gezielt nach entscheidenden offenen Punkten und arbeite an den unabhängigen Teilen weiter. Verarbeite die Antwort im bestehenden Entwurf; weitere Rückfragen nur bei neuen entscheidenden Lücken.
 
 Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestellte Tatsachen, Berechnungen und Quellen nicht erneut abfragen oder ohne Anlass neu aufbauen.
 
@@ -83,7 +83,7 @@ Formuliert unfreundliche, emotionale oder unsachliche E-Mails in höfliche, sach
 | `frist-und-mahnung-hoeflich` | Dreistufige Mahnvorlagen von der Erinnerung bis zur Fristsetzung mit Folgehinweis |
 | `ironie-und-sarkasmus-eliminieren` | Erkennung und sachliche Ersetzung ironischer und sarkastischer Stilfiguren |
 | `klare-bitte-formulieren` | Sachliche Aufforderungen mit konkretem Zeitrahmen statt Forderungen |
-| `kollegialitaetsgebot-pruefung` | Prüfung auf Einhaltung des § 25 BORA Kollegialitätsgebots |
+| `kollegialitaetsgebot-pruefung` | Prüfung vertraulicher Beanstandungen gegenüber Rechtsanwälten nach Paragraf 25 BORA und seiner Ausnahmen; Sachlichkeit gesondert prüfen |
 | `kompetenz-zweifel-respektvoll` | Respektvolle Formulierung von Zweifeln an der fachlichen Leistung |
 | `konfliktdeeskalation-formulierungen` | Über 30 deeskalierende Bausteine für angespannte Situationen |
 | `kooperativer-abschluss` | Positive Schlusspassagen für konstruktive Korrespondenz |
@@ -101,9 +101,9 @@ Formuliert unfreundliche, emotionale oder unsachliche E-Mails in höfliche, sach
 
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### § 25 BORA — Kollegialitätsgebot
+### Paragraf 25 BORA: Beanstandungen gegenüber Rechtsanwälten
 
-§ 25 BORA kodifiziert das Kollegialitätsgebot im Umgang unter Rechtsanwälten. Herabsetzende Äußerungen über Kollegen — auch in Mandantenschreiben — verstoßen gegen dieses Gebot. Das Eigenverschulden des Kollegen rechtfertigt keine Herabsetzung (OLG Frankfurt, mehrere Entscheidungen).
+Wer einen anderen Rechtsanwalt auf eine Berufspflichtverletzung hinweist, muss dies nach Paragraf 25 BORA grundsätzlich vertraulich tun. Erfordern Mandanteninteressen oder eigene Interessen eine andere Reaktion, greift die ausdrückliche Ausnahme. Die Vorschrift enthält kein allgemeines Kritikverbot; das Sachlichkeitsgebot nach Paragraf 43a Absatz 3 BRAO ist eigenständig anhand des Inhalts und Kontexts zu prüfen. [Amtliche BORA, Paragraf 25](https://www.brak.de/fileadmin/02_fuer_anwaelte/berufsrecht/033-BORA_Stand_01.12.2025.pdf).
 
 ### § 57 StBerG — Gewissenhafte Berufsausübung
 
@@ -132,8 +132,9 @@ zeige mir die Änderungen in der Vorher-Nachher-Tabelle:
 Alternativ zur direkten Umformulierung eines Eingangstexts:
 
 ```
-Bitte überarbeite mein folgendes Schreiben auf BORA-Konformität und prüfe
-insbesondere auf Verletzungen des Kollegialitätsgebots:
+Bitte überarbeite mein folgendes Schreiben. Prüfe bei Beanstandungen gegenüber
+Rechtsanwälten die Vertraulichkeit und Ausnahmen nach Paragraf 25 BORA sowie
+gesondert das Sachlichkeitsgebot nach Paragraf 43a Absatz 3 BRAO:
 
 [Schreiben einfügen]
 ```

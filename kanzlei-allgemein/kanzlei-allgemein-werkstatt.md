@@ -1,18 +1,54 @@
 # 1. Kanzleivorgänge bearbeiten
 
-Bearbeite den bestellten Kanzleivorgang anhand der vorhandenen Akte und Kanzleivorgaben. Erstelle das verlangte Schreiben, die Rechnung, Fristenprüfung oder Versandvorbereitung, ohne bereits erledigte Mandatsaufnahme zu wiederholen.
+Kläre aus Eingang, Fristnotiz und Versandprotokoll, was die Kanzlei heute veranlassen muss und was bereits nachweisbar erledigt ist. Bei einem Gebühren- oder Schreibauftrag gleiche stattdessen Auftrag, Tätigkeit und Zahlungen beziehungsweise den letzten Sachstand ab und fertige das verlangte Dokument. Eine bestehende Mandatsaufnahme wird nicht wiederholt.
 
 ## 1.1. Auftrag und maßgebliche Fassung
 
 Lies Eingangsdatei, Auftrag, bisherige Antworten und die auftragsrelevante Akte. Entnimm Empfänger, Bearbeitungsstand, Frist und Dokumentwunsch daraus. Original, Arbeitsfassung, freigegebene Fassung und tatsächlich versandte Datei auseinanderhalten; Änderungen müssen zur Quelle zurückführbar bleiben.
 
-Bei einem Upload ohne Auftrag den erkennbaren Vorgang bearbeiten, etwa einen Eingang zuordnen oder eine Versandbestätigung prüfen. Nur nachfragen, wenn Rolle, Fassung oder Ziel entscheidend offenbleiben. Große Ordner gezielt nach dem Auftrag erschließen und den tatsächlich geprüften Umfang benennen, nicht vorschnell Vollständigkeit behaupten.
+Bei einem Upload ohne Auftrag den erkennbaren Vorgang zunächst still erschließen, etwa Eingang und Versandbestätigung zuordnen. Wenn das Bearbeitungsziel offen ist, zwei passende Wege anbieten; noch keinen ungefragten Abschlussbericht erstellen. Große Ordner gezielt nach dem Auftrag erschließen und den tatsächlich geprüften Umfang benennen, nicht vorschnell Vollständigkeit behaupten.
+
+### 1.1.1. Eigenständiger Einstieg und Fortsetzung
+
+Ohne Eingabe biete Frist- und Versandkontrolle, einen Mandantenbrief oder die Abstimmung einer Honorarrechnung an. Bei einer reinen Versandmappe lautet die Entscheidung etwa: „Soll ich den Gerichtseingang kontrollieren oder die Abweichung zwischen freigegebener und versandter Datei aufbereiten?“ Keine universelle Liste sämtlicher Kanzleiaufgaben ausgeben. Ein eindeutiger Schreibauftrag wird unmittelbar ausgeführt; bekannte Aktenzeichen und Termine nicht nochmals abfragen.
+
+Eine Antwort muss das Arbeitsprodukt verändern. Wird eine fehlende Anlage nachgereicht, prüfe deren Fassung, Verweise und tatsächlichen Versandstatus. Wird eine bereits verbuchte Zahlung anders zugeordnet, ändere Rechnung und Mahnbetrag gemeinsam. Stelle nur die neu entscheidende Frage und beende die Bearbeitung mit dem vollständigen bestellten Dokument. Dieser Ablauf setzt weder Zugriff auf Kanzleisoftware noch andere Plugin-Dateien voraus; ohne solche Werkzeuge entstehen Entwurf und kontrollierbare Arbeitsnotiz, keine behaupteten Systembuchungen.
+
+### 1.1.2. Fristdruck bei ungeklärter Aktenlage
+
+Trenne eine fehlende Zustellungsinformation von einem fehlenden Bearbeitungsauftrag. Liegt ein Urteil mit widersprüchlichen Empfangsangaben vor, benenne die beiden konkreten Daten und den benötigten Nachweis. Eine berechnete Frist mit offener Tatsachengrundlage darf nicht als bestätigter Kalendereintrag ausgegeben werden. Zeige die Auswirkung der offenen Alternative und priorisiere die sofort erforderliche menschliche Klärung, während unabhängige Textarbeit weiterläuft.
+
+Die Antwort „Die Vertretung hat die Aufgabe gesehen“ belegt noch nicht, welche Fassung sie bis wann freigeben und welche Kontrolle sie übernehmen wird. Frage bei entscheidender Unklarheit nach genau dieser Übernahme. Schreibe eine kurze Übergabe mit Vorgang, nächster Handlung, Zeitgrenze und fehlendem Beleg. Verwende keine Diagnose oder private Abwesenheitsbegründung, wenn die Information über die verfügbare Vertretung genügt. Ein interner Übergabevermerk ersetzt weder Zustellung noch gerichtliche Fristverlängerung.
+
+### 1.1.3. Versandpaket und Bestätigung abgleichen
+
+Prüfe Hauptdokument und Anlagen nicht nur anhand ähnlicher Dateinamen. Vergleiche bei zugänglichen Dateien Inhalt, Fassung, Seitenumfang und die im Schriftsatz genannten Anlagen. Eine bestätigte Nachricht mit ausschließlich Anlagen beweist nicht den Eingang des fehlenden Hauptdokuments. Die Antwort „Das Hauptdokument wurde separat gesendet“ führt zur Prüfung der zweiten Nachricht und ihrer Bestätigung, nicht zum pauschalen Abschluss beider Vorgänge.
+
+Bei einer später gefundenen Bestätigung ändere den Status nur insoweit, wie Empfänger, Zeitpunkt und Dateien tatsächlich übereinstimmen. War versehentlich die frühere Entwurfsfassung beigefügt, halte den nachgewiesenen Eingang und den inhaltlichen Fehler nebeneinander fest. Bereite die konkrete Korrekturentscheidung vor; behaupte weder Heilung noch Fristversäumnis ohne Prüfung. Trenne technische Übermittlung, Formwirksamkeit und fachliche Vollständigkeit wie in Paragraf 130a ZPO und dem unten eingeordneten Beschluss VIII ZB 9/20 angelegt.
+
+### 1.1.4. Mandantenantwort in tragfähigen Text übersetzen
+
+Bei einer Vergleichsentscheidung frage nur nach dem tatsächlich offenen wirtschaftlichen oder rechtlichen Punkt. „Zahlung ja, aber keine Erledigung weiterer Ansprüche“ verlangt eine entsprechend begrenzte Erledigungsklausel und einen dazu passenden Begleitbrief; eine umfassende Abgeltung darf nicht aus einer Betragsfreigabe abgeleitet werden. Eine Zustimmung des Sachbearbeiters ist nicht ohne Prüfung eine Entscheidung des vertretungsberechtigten Mandanten.
+
+Wenn der Mandant eine belastende Tatsache bestreitet, trenne seine Erklärung, einen Gegenbeleg und die daraus tragfähige Behauptung im Schriftsatz. „Ich erinnere mich nicht an den Zugang“ ist kein positiver Beweis des Nichtzugangs. Prüfe, ob der neue Beleg den gesamten Anspruch oder nur eine Teilposition betrifft. Erstelle die passende überarbeitete Passage vollständig, einschließlich Antrag oder konkreter Zahlungsaufforderung, statt nur eine abstrakte Empfehlung zur Anpassung auszugeben.
+
+### 1.1.5. Rechnung, Fremdgeld und Abschluss getrennt führen
+
+Stimme jede Zahlung nach Datum, Betrag, Zahler und erkennbarem Zweck ab. Die Antwort „Das Geld kam von der Gegenseite“ entscheidet noch nicht, ob Honorar, Kostenerstattung oder für den Mandanten bestimmtes Fremdgeld vorliegt. Kläre den konkreten Verwendungszweck und die Abrechnung; stelle ungeklärte Beträge nicht als frei verfügbares Kanzleiguthaben dar. Eine erteilte Rechnung und eine vereinnahmte Zahlung sind verschiedene Buchungsereignisse.
+
+Bei korrigierten Tätigkeitszeiten ändere Berechnungsgrundlage, Umsatzsteuer und offenen Saldo zusammen. Prüfe, ob eine neue Rechnung, eine nachvollziehbare Korrektur oder lediglich eine interne Aufstellung bestellt ist; erfinde keine Rechnungsnummer und keine bereits erfolgte Buchung. Ein Abschlussbrief kann fertig sein, während eine Auszahlung, Kostenfestsetzung oder Vollstreckungsentscheidung noch offenbleibt. Halte genau diesen Rest mit Verantwortlichem und Termin fest, ohne die ganze Akte vorschnell als erledigt zu bezeichnen.
+
+### 1.1.6. Freigabefähiges Ergebnis
+
+Liefere das bestellte Schreiben mit zutreffendem Empfänger, Aktenbezug, verständlicher Aussage und konkreter nächster Entscheidung. Eine interne Frist- oder Versandnotiz enthält belegten Status, offene Handlung, Verantwortlichen und Belegfundstelle, nicht ungeprüfte Erfolgsmeldungen. Verknüpfe Anlagen nur mit tatsächlich vorhandenen Dokumenten. Erkennbare Widersprüche zwischen Brief, Rechnung und Versandmappe werden vor der Endfassung bereinigt oder eng bezeichnet.
+
+Stoppe die betroffene externe Handlung bei fehlender Freigabe, unklarer Empfängeridentität oder entscheidendem Formmangel; der übrige Entwurf bleibt lieferbar. Gib eine Frist nicht zum Streichen frei, weil lediglich ein Entwurf fertig oder eine Nachricht lokal als gesendet markiert ist. Ohne tatsächlichen Zugriff auf Postfach und Kalender keine Kontrollen, Eintragungen oder Löschungen als durchgeführt ausgeben.
 
 ## 1.2. Mandatsannahme und Aktenzuordnung
 
 Bei einem neuen Mandat Beteiligte, Gegner, Gegenstand, Umfang, Interessenkontrolle, Identität, Vollmacht, Vergütung und Annahmeentscheidung prüfen. Paragraf 43a Absätze 2 und 4 BRAO sowie Paragraf 3 BORA für Verschwiegenheit und widerstreitende Interessen fallbezogen heranziehen. GwG-Anwendbarkeit vor Identifizierung und weiteren Pflichten nach Paragrafen 10 und 11 bestimmen; nicht jedes Mandat ungeprüft gleich behandeln.
 
-Fehlt ein vertretungsberechtigter Ansprechpartner oder die Vollmacht, genau diese Angabe nachfordern. Nach Antwort Mandatsumfang, Adressierung und bestellte Annahmeunterlagen vervollständigen. Die Annahme selbst nicht eigenmächtig erklären; ungeklärte Konflikte oder Verdachtsmomente der zuständigen Berufsträgerin beziehungsweise dem zuständigen Berufsträger vorlegen.
+Fehlt ein vertretungsberechtigter Ansprechpartner oder die Vollmacht, genau diese Angabe nachfordern. Nach Antwort Mandatsumfang, Adressierung und bestellte Annahmeunterlagen vervollständigen. Die Annahme selbst nicht eigenmächtig erklären; ungeklärte Konflikte oder Verdachtsmomente dem zuständigen Berufsträger vorlegen.
 
 Ausweiskopien, Registerauszüge und GwG-Unterlagen nur in freigegebenen geschützten Akten ablegen. Keine PINs, Passwörter, Bankzugänge oder unnötigen Ausweisdaten in Chat oder ungeschützte Dateien kopieren. Verdachtsmeldung, goAML-Vorgang, Unstimmigkeitsmeldung und Ablehnung nur vorbereiten; keine unbedachte Mandanteninformation über Verdachtsprüfungen.
 
@@ -26,7 +62,7 @@ Erfasse tatsächlichen Eingang, Absender, Empfänger, Dokument und Aktenbezug. Z
 
 Fehlt Zustellungsurkunde oder Empfangsnachweis, benenne das genaue Dokument. Nach Eingang Fristrechnung und bestellte Fristnotiz korrigieren und die betroffenen Bearbeiter informieren beziehungsweise die Nachricht vorbereiten. Eine offene Frist nicht als erledigt kennzeichnen, bloß weil der Schriftsatz entworfen ist.
 
-Fristen aus dem einschlägigen Normtext und der Akte berechnen. Die älteren Hinweise auf Paragraf 548 ZPO, Artikel 7 PostModG, Paragraf 188 ZPO, Paragraf 122 AO oder Paragraf 37 SGB X sind keine einheitliche Zustellungsregel. Insbesondere eine pauschale Vier-Tages-Fiktion nicht auf jede gerichtliche Post übertragen.
+Fristen aus dem einschlägigen Normtext und der Akte berechnen. Eine Bekanntgabefiktion für Verwaltungsakte nach Paragraf 122 AO oder Paragraf 37 SGB X nicht auf die gerichtliche Zustellung eines Urteils übertragen. Tatsächlichen Zugang, förmliche Zustellung und gesetzliche Fiktion mit dem jeweils maßgeblichen Nachweis auseinanderhalten.
 
 ### 1.3.2. Verantwortung und Vertretung
 
@@ -44,7 +80,7 @@ Mandantenbriefe nach Zweck schreiben: Mandatseröffnung, Zwischenbericht, Beratu
 
 Fehlt eine Entscheidung zu Vergleich, Vertragsvariante oder wirtschaftlichem Grenzwert, die realen Folgen erläutern und gezielt fragen. Nach Antwort betroffene Argumentation oder Klausel ändern und den Brief beziehungsweise Vertrag fertigstellen. Neue entscheidende Lücken erlauben weitere kurze Runden; bereits Beantwortetes nicht erneut erheben.
 
-Bei einem Vorwurf des KI-Einsatzes im Sachverständigengutachten konkrete Anhaltspunkte, überprüfbare Fehler, Quellen und tatsächliche Leistung prüfen. Auffällige Sprache allein nicht als Beweis behandeln. Die bisherigen Anknüpfungen an Paragraf 407a Absatz 1 ZPO und Paragraf 8a Absatz 2 JVEG vor Verwendung nach aktuellem Inhalt und passender Rechtsfolge verifizieren; nicht pauschal Kennzeichnungspflicht, Unverwertbarkeit oder Vergütungsverlust behaupten. Nach ergänzter Erläuterung des Sachverständigen den beauftragten Einwand aktualisieren.
+Bei einem Vorwurf des KI-Einsatzes im Sachverständigengutachten konkrete Anhaltspunkte, überprüfbare Fehler, Quellen und tatsächliche Leistung prüfen. Auffällige Sprache allein nicht als Beweis behandeln. Paragraf 407a Absatz 3 ZPO untersagt die Übertragung des Auftrags und regelt Angaben zur Mitarbeit anderer Personen; daraus folgt keine allgemeine Kennzeichnungspflicht jedes technischen Hilfsmittels. Unverwertbarkeit oder Vergütungsverlust nicht allein aus behauptetem KI-Einsatz ableiten; Voraussetzungen der konkret beanspruchten Folge gesondert prüfen. Nach ergänzter Erläuterung des Sachverständigen den beauftragten Einwand aktualisieren.
 
 ## 1.5. Versand vorbereiten und Eingang nachweisen
 
@@ -55,6 +91,8 @@ Für elektronische Einreichung die konkrete Verfahrensordnung prüfen: Paragrafe
 Fehlt eine Anlage oder Signatur, den konkreten Mangel benennen und die betroffene Datei nachfordern beziehungsweise korrigieren. Nach Eingang Fassung, Anlagenbezug und Versandpaket erneut abgleichen. Die Freigabe für Versand nicht aus der bloßen Bitte um einen Entwurf ableiten.
 
 Nach erfolgtem Versand gerichtliche Eingangsbestätigung, Empfänger, Zeitstempel und tatsächlich übermittelte Dateien vergleichen. Ein lokaler Status „gesendet“ ist kein gerichtlicher Eingangsnachweis; bei Zivilverfahren [Paragraf 130a Absatz 5 ZPO](https://www.gesetze-im-internet.de/zpo/__130a.html) prüfen. Bei fehlender oder fehlerhafter Bestätigung Frist offenhalten, zuständige Person und verbleibende Reaktionszeit benennen und den konkreten Nachweis anfordern. Nach Eingang Versandvermerk und Fristbewertung aktualisieren, ohne eine Empfangsbestätigung zu erfinden.
+
+BGH, Beschluss vom 11.05.2021, VIII ZB 9/20, Randnummern 18, 21 bis 24 und 41 bis 54 ([amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2020/VIII_ZB___9-20.pdf?__blob=publicationFile&v=1)): Bei elektronischer Einreichung muss die Ausgangskontrolle den Eingang auf der gerichtlichen Empfangseinrichtung erfassen. Fehlt die Bestätigung, sind Ursache und nötige erneute Übermittlung rechtzeitig zu klären; eine nur allgemein auf Fehlermeldungen gerichtete Büroanweisung reicht nicht. Prüfe deshalb konkrete Kontrollanweisung, Ausführung und Stichprobenaufsicht. Organisationsverschulden kann nach Paragrafen 85 Absatz 2 und 233 ZPO die Wiedereinsetzung ausschließen. Die Bestätigung ersetzt weder Inhaltsabgleich noch Form- und Signaturprüfung nach Paragraf 130a Absätze 2 und 3 ZPO; ihr bloßes Fehlen beweist umgekehrt noch keinen verspäteten Eingang. Das Gericht muss die Datei nicht schon intern weiterverarbeitet haben.
 
 ## 1.6. Zeit, Rechnung und Mahnung
 

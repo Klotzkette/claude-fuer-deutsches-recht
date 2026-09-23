@@ -1,8 +1,129 @@
 {
- "schema_version":1,"plugin":"zitierweise-deutsches-recht","reviewed_on":"2026-09-17",
- "sources":[{"url":"https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/11/rk20251103_1bvr057325.html","checked_on":"2026-09-14","supports":"Amtlich indexierter Text: Beschluss vom 3. November 2025, 1 BvR 573/25; Randnummer 51 beanstandet die schematische Anknüpfung an strafprozessuale Verdachtsstufen. Konkreter Anker des Prüffalls, nicht allgemeine Zitierpflicht."}],
- "mini_review":{"verdict":"revised","reason":"Die eigenständigen Zitierregeln sind konkret; nach fehlenden Auszügen fehlte die ausdrückliche Fortsetzung bis zur korrigierten Textfassung.","changes":["Gezielte Nachforderung einer Auflage oder Entscheidungsfassung mit erneuter Belegprüfung verbunden","Weitere entscheidende Widersprüche zulassen statt Abrufgrenze als Aufgabenabschluss behandeln","Quellenprotokoll vom Empfängertext getrennt und Nutzerdateinamen priorisiert"],"sha256":"c72a062e899c092071259c8e5d6911b74062a007f9c0fed19e832209d1b81b31"},
- "workshop_review":{"verdict":"revised","reason":"Ganztextprüfung zeigte allgemeine Subsumtionsrouten und sogar Urteilsentwürfe als Ergebnis einer Zitierprüfung.","changes":["Identifikation, Aussageabgleich, Normfassung und Literaturzugriff als tatsächliche Prüfschritte aufgebaut","BVerfG-, internationale und Fachgerichtsbelege ohne sachfremden Entscheidungsentwurf behandelt","Nach Quellenzugang Mehrfachzitate und bestellte Textfassung abschließen"],"sha256":"68d29afeea45776907fbdf298e39d69947b9aaa390e6ae0531a63f944a08e507"},
- "selection":{"positive":["Prüfe unsere Fußnoten auf richtige Entscheidungsform und belastbare Randnummern.","Vereinheitliche die Zitierweise, ohne fehlende Literaturstellen zu erfinden."],"negative":["Entscheide den materiellen Deckungsstreit ohne Zitierauftrag.","Prüfe, ob ein Romanabschnitt urheberrechtlich als Zitat verwendet werden darf."]},
- "cases":[{"id":"entscheidung-metadaten-und-tragweite","request":"Liefere ergebnis.md mit korrigiertem Zitat und Quellenvermerk. Manuskriptsatz: Ein Anfangsverdacht erlaubt stets identifizierende Berichterstattung. Fußnote: BVerfG, Urteil vom 03.11.2025, 1 BvR 573/25, Rn. 99. Vorgelegt ist ein amtlicher Textauszug mit Kopf Beschluss vom 3. November 2025, Aktenzeichen 1 BvR 573/25; Randnummer 51 beanstandet die Bestimmung des Mindestbestands an Beweistatsachen allein nach strafprozessualen Verdachtsstufen und verlangt eine abwägende Gesamtschau. Der Auszug enthält keine Randnummer 99. Amtliche Adresse: https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/11/rk20251103_1bvr057325.html. Prüfe Form und Tragfähigkeit, nicht den zugrunde liegenden Medienfall vollständig.","input_files":[],"deliverables":["ergebnis.md"],"criteria":[{"id":"C01","text":"Korrigiert Urteil zu Beschluss und erhält Datum sowie Aktenzeichen mit eindeutiger Quellenangabe.","deliverables":["ergebnis.md"]},{"id":"C02","text":"Verwendet nicht Randnummer 99; ordnet die belegte Aussage nachvollziehbar Randnummer 51 zu und behauptet keinen weitergehenden Volltextzugriff.","deliverables":["ergebnis.md"]},{"id":"C03","text":"Schränkt die pauschale Aussage stets erlaubt ein, weil die beanstandete schematische Verdachtsstufenprüfung keine automatische Veröffentlichungsfreigabe begründet.","deliverables":["ergebnis.md"]}],"target_skill":"zitierweise-anwenden"}]
+  "schema_version": 1,
+  "plugin": "zitierweise-deutsches-recht",
+  "reviewed_on": "2026-09-23",
+  "sources": [
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/11/rk20251103_1bvr057325.html",
+      "checked_on": "2026-09-14",
+      "supports": "Amtlich indexierter Text: Beschluss vom 3. November 2025, 1 BvR 573/25; Randnummer 51 beanstandet die schematische Anknüpfung an strafprozessuale Verdachtsstufen. Konkreter Anker des Prüffalls, nicht allgemeine Zitierpflicht."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:62017CJ0516",
+      "checked_on": "2026-09-22",
+      "supports": "Eigenständige Kontrolle des Zitatzwecks und Umfangs bei übernommenen Literaturpassagen. Grenze: Keine Rechtsnorm für Fußnotentypografie; amtliche Werke gesondert. Konkret zitierte Literatur muss weiterhin in passender Auflage zugänglich sein."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/__51.html",
+      "checked_on": "2026-09-23",
+      "supports": "Aktuellen amtlichen Normtext nach Web-Timeout direkt gelesen: Zitatzweck und dadurch gerechtfertigter Umfang. Praktische Kürzung und eigene Einordnung einer übernommenen Passage; keine allgemeine Berechtigung zur vollständigen Literaturübernahme."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/__63.html",
+      "checked_on": "2026-09-23",
+      "supports": "Aktuellen amtlichen Normtext nach Web-Timeout direkt gelesen: Quellenangabe gesondert von der Befugnis zur Nutzung prüfen. EuGH-PDF beim erneuten Abruf nur teilweise textlich zugänglich, weitere Pinpoint-Abrufe durch Robot-Prüfung blockiert; keine neue vollständige Verifikation der früher geprüften Entscheidung behauptet."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Kurzprompt vollständig erneut gelesen. Drei Dokumentwege, sachliche Korrektur nach nachgereichter Passage und historische Auflagenzuordnung konkretisiert; vorhandene Quellen- und EuGH-Grenzen erhalten.",
+    "changes": [
+      "Fußnotenkorrektur, Gutachtenbelegprüfung und historischer Literaturapparat als konkrete Einstiegswege.",
+      "Abwägungsanforderung statt pauschaler Zulässigkeit, historische Palandt-Auflage und Folgekorrekturen an Kurzbelegen ausgearbeitet."
+    ],
+    "sha256": "d10b621db603890c1aa404f8f2852d236bb6767e3513685ddb789c0fc056456f",
+    "method": "desk_review",
+    "reviewed_on": "2026-09-23"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Werkstatt vollständig erneut gelesen. Aussagekorrektur, historische Norm- und Literaturfassungen, Zugangstiefe und Fertigstellung unter Abgabefrist individuell ausgebaut; keine Live-Manuskriptprüfung.",
+    "changes": [
+      "Tragende Begründung von referierter Vorinstanz und Zurückverweisung trennen; gegenteilige Einschränkungen in den Satz einarbeiten.",
+      "Historische Ausgabe erhalten und aktuellen Nachweis nur für aktuelle Aussagen verlangen.",
+      "Nachgelieferte Passage verändert Text und alle Kurzbelege; Quellenprotokoll und Empfängertext bis zur konsistenten Fassung führen."
+    ],
+    "sha256": "3686d078c03225584d116cfd77cee90c2f4434590adb54b50cc135bd907579a3",
+    "method": "desk_review",
+    "reviewed_on": "2026-09-23"
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Schriftsatzfußnoten, Gutachtenbelege oder historischen Literaturapparat anbieten.",
+      "Dateien ohne Aufgabe: Manuskript samt Fußnoten und Auszügen still lesen; nur bei unklarem Prüfziel passende Wege anbieten.",
+      "Klarer Auftrag: sofort Form oder Aussagebezug im vereinbarten Umfang korrigieren, nur entscheidende Quellenlücken klären."
+    ],
+    "continuation": "Nachgereichte Originalpassage oder Auflagenangabe -> korrigierter Manuskriptsatz, Fußnote, Kurzbelege und Quellenprotokoll.",
+    "enrichment": "Gegenläufige Quellenpassagen, historische Fassungen, übermäßige Fremdtextübernahme und Abgabefrist in konkrete Textkorrekturen übersetzt.",
+    "limits": "desk review; no live client execution"
+  },
+  "selection": {
+    "positive": [
+      "Prüfe unsere Fußnoten auf richtige Entscheidungsform und belastbare Randnummern.",
+      "Vereinheitliche die Zitierweise, ohne fehlende Literaturstellen zu erfinden."
+    ],
+    "negative": [
+      "Entscheide den materiellen Deckungsstreit ohne Zitierauftrag.",
+      "Prüfe, ob ein Romanabschnitt urheberrechtlich als Zitat verwendet werden darf."
+    ]
+  },
+  "cases": [
+    {
+      "id": "entscheidung-metadaten-und-tragweite",
+      "request": "Liefere ergebnis.md mit korrigiertem Zitat und Quellenvermerk. Manuskriptsatz: Ein Anfangsverdacht erlaubt stets identifizierende Berichterstattung. Fußnote: BVerfG, Urteil vom 03.11.2025, 1 BvR 573/25, Rn. 99. Vorgelegt ist ein amtlicher Textauszug mit Kopf Beschluss vom 3. November 2025, Aktenzeichen 1 BvR 573/25; Randnummer 51 beanstandet die Bestimmung des Mindestbestands an Beweistatsachen allein nach strafprozessualen Verdachtsstufen und verlangt eine abwägende Gesamtschau. Der Auszug enthält keine Randnummer 99. Amtliche Adresse: https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/11/rk20251103_1bvr057325.html. Prüfe Form und Tragfähigkeit, nicht den zugrunde liegenden Medienfall vollständig.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Korrigiert Urteil zu Beschluss und erhält Datum sowie Aktenzeichen mit eindeutiger Quellenangabe.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Verwendet nicht Randnummer 99; ordnet die belegte Aussage nachvollziehbar Randnummer 51 zu und behauptet keinen weitergehenden Volltextzugriff.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Schränkt die pauschale Aussage stets erlaubt ein, weil die beanstandete schematische Verdachtsstufenprüfung keine automatische Veröffentlichungsfreigabe begründet.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "zitierweise-anwenden"
+    }
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "zitierweise-deutsches-recht/zitierweise-deutsches-recht-werkstatt.md",
+      "zitierweise-deutsches-recht/zitierweise-deutsches-recht-schnellstart.md"
+    ],
+    "opening_change": "Belegbarkeit konkreter Aussage vor Stilkorrektur; Amtliches und geschützter redaktioneller Fremdtext getrennt.",
+    "norms": [
+      "Paragrafen 5, 51, 63 UrhG"
+    ],
+    "decisions": [
+      {
+        "citation": "EuGH, 29.07.2019, C-516/17, Randnummern 78 bis 83 und 89",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:62017CJ0516",
+        "application": "Eigenständige Kontrolle des Zitatzwecks und Umfangs bei übernommenen Literaturpassagen.",
+        "limit": "Keine Rechtsnorm für Fußnotentypografie; amtliche Werke gesondert."
+      }
+    ],
+    "remaining_limits": [
+      "Workflow-Review: keine lizenzierte Literaturprüfung; aktuelle Paragrafen 51 und 63 UrhG direkt gelesen, erneute EuGH-Pinpointprüfung durch Robot-Prüfung begrenzt.",
+      "Konkret zitierte Literatur muss weiterhin in passender Auflage zugänglich sein."
+    ]
+  }
 }

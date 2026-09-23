@@ -1,6 +1,6 @@
 # 1 Eigentum und Vermögenszuordnung aus den Akten klären
 
-Bearbeite die verlangte Eigentumsprüfung, Restitutionsfrage oder Zuordnung anhand der DDR-, Übergangs- und heutigen Akten. Lies vorhandene Urkunden, Bescheide, Registerunterlagen und Korrespondenz zuerst. Übernimm den bekannten Auftrag; ein Prüfvermerk verlangt nicht automatisch ein Behörden- oder Grundbuchschreiben.
+Kläre die heutige Eigentums- oder Zuordnungslage und ob der Altantrag das jetzt beanspruchte Grundstück tatsächlich erfasst. Lies Urkunden, Bescheide, Registerunterlagen und Korrespondenz zuerst; trenne Entziehung, Rechtsträgerschaft und späteren Erwerb. Übernimm den bekannten Auftrag: Ein Prüfvermerk verlangt nicht automatisch ein Behörden- oder Grundbuchschreiben.
 
 ## 1.1 Objekt und Rechtswechsel bestimmen
 
@@ -8,7 +8,7 @@ Ordne Grundstück, Gebäude, Betrieb und Beteiligte nach Datum und Urkunde zu. V
 
 Unterscheide Grundbuch, Liegenschaftskarte, Rechtsträgernachweis, Enteignungsakt, Register, Treuhandvertrag und Bescheid nach ihrem Aussagewert. Besitz oder bloße Rechtsträgerschaft ist nicht Eigentum. Ein vollständiger Aktenordner beweist noch keine lückenlose Rechtsnachfolge.
 
-Bei einem Upload ohne erkennbares Ziel zunächst den belegbaren Vorgang einordnen und die offene Zielentscheidung klären: heutige Eigentumslage, Altantrag, Zuordnung oder Rechtsschutz. Bekannte Angaben nicht erneut erheben.
+Ohne Eingabe biete Eigentumsklärung, Ergänzung eines Altantrags oder Prüfung eines Zuordnungsbescheids an. Dateien ohne Auftrag still lesen, dann nur das Ziel klären; keine Eigentumskette vorweg ausgeben. Bei klarem Auftrag direkt ausarbeiten. Folgeantwort „Das heutige Flurstück enthält auch das unangemeldete Nachbargrundstück“ führt zur getrennten Flächen- und Fristbewertung. Nur entscheidende Lücken fragen; kein Plugin-Zugriff erforderlich.
 
 ## 1.2 Fehlende Belege nachfordern und auswerten
 
@@ -29,6 +29,8 @@ Beim Grundbuchproblem materielle Eigentumslage und urkundlichen Nachweis getrenn
 ## 1.4 Altanmeldung und Bestandskraft prüfen
 
 Lies den historischen Antrag mit Eingangsbeleg und dem damals bestimmten Objekt. Spätere Belegergänzung nicht mit erstmaliger Anmeldung eines anderen Grundstücks gleichsetzen. [Paragrafen 30 und 30a VermG](https://www.gesetze-im-internet.de/vermg/BJNR211590990.html), Sonderregeln, Bestandskraft und Rechtsnachfolge getrennt prüfen. Ein neu gefundenes Archivdokument öffnet nicht automatisch eine abgelaufene Ausschlussfrist.
+
+Nach [BVerwG, Urteil vom 27.11.2019, Az. 8 C 13.18](https://www.bverwg.de/271119U8C13.18.0), Randnummern 24 bis 31, muss der rechtzeitige Antrag konkrete Ermittlungsansätze zum Vermögenswert enthalten. Paragraf 31 Absatz 1b VermG erlaubt spätere Präzisierung, nicht den Austausch gegen beliebige Objekte; eine unterbliebene Behördennachfrage heilt fehlende Individualisierbarkeit nicht. Die Entscheidung betraf Bücher nach dem AusglLeistG, nicht dessen Frist auf Grundstücke übertragen. Beim ausdrücklich angemeldeten Flurstück neue Belege auswerten; das nicht angemeldete Nachbarflurstück gesondert beurteilen.
 
 Unterscheide Ausschlussfrist, Verjährung und Rechtsbehelfsfrist. Beginn und Ende am konkreten Auslöser festmachen; Hemmung, Wiedereinsetzung oder erneute Sachprüfung nicht ohne passende Grundlage zusagen. Fehlt der Zustellnachweis, die davon abhängige Fristberechnung begrenzen und nach Eingang erneuern.
 

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "betriebskosten-hausverwaltung",
-  "reviewed_on": "2026-09-22",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/bgb/__556.html",
@@ -52,27 +52,70 @@
       "url": "https://www.gesetze-im-internet.de/enwg_2005/__42a.html",
       "checked_on": "2026-09-22",
       "supports": "Mieterstromvertrag grundsaetzlich getrennt vom Wohnraummietvertrag; kein pauschaler Betriebskostenansatz."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2011/VIII_ZR_156-11.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 01.02.2012, VIII ZR 156/11, Rn. 10–14: Bei Abrechnung bloßer Jahreszahlungen Periodenverbrauch nach Paragraf 7 Absatz 2 HeizkostenV rekonstruieren; 15-Prozent-Kürzung heilt diesen Fehler nicht. Grenze: Keine allgemeine FIFO-Pflicht; sachgerechte Schätzung und nachträgliche Nachforderungsgrenze gesondert prüfen."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2015/VIII_ZR_249-15.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 25.01.2017, VIII ZR 249/15, Rn. 17 und 46–47: Mietabrechnung ohne Abhängigkeit von WEG-Beschluss fristgerecht erstellen; bei Verspätung eigene Beschaffungsbemühungen darlegen. Grenze: Vor WEG-Reform; keine automatische Entschuldigung oder heutige WEG-Kostenverteilung aus dem Urteil."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2019/VIII_ZR_118-19.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 09.12.2020, VIII ZR 118/19, Rn. 12–17: Zahlungsbelege auch beim Leistungsprinzip zugänglich machen; berechtigt verlangte verweigerte Einsicht kann vorübergehende Leistungsverweigerung zur Nachforderung begründen. Grenze: Kein endgültiger Forderungswegfall oder pauschaler Mietzahlungsstopp; heutige elektronische Bereitstellung zusätzlich nach Paragraf 556 Absatz 4 BGB."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2020/VIII_ZR__66-20.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 15.12.2021, VIII ZR 66/20, Rn. 13–19: Historische Originalbelegregel und digitale Ursprungsbelege unterscheiden. Grenze: Früheres Recht; kein pauschaler Papierzwang unter heutigem Paragraf 556 Absatz 4 BGB."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2017/VIII_ZR_220-17.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 30.05.2018, VIII ZR 220/17, Rn. 19–23: Bei Flächenumlage tatsächliche Wohnungs- und Gesamtfläche statt Zehnprozenttoleranz verwenden. Grenze: Keine Entscheidung über spätere WEG-Auffangregel des Paragrafen 556a Absatz 3 BGB."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2007/VIII_ZR__27-07.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Versäumnisurteil vom 20.02.2008, VIII ZR 27/07, Rn. 28–32: Hauswartkosten nach tatsächlichem Aufwand aufteilen; bei bestrittenem Heizstrom Schätzgrundlage offenlegen. Grenze: Keine allgemeine Zehnprozentkürzung oder universelle Schätzquote."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__556.html",
+      "checked_on": "2026-09-22",
+      "supports": "Absatz 3 Fristen und Ausnahmen, Absatz 4 elektronische Belegeinsicht aktuell gelesen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/heizkostenv/__7.html",
+      "checked_on": "2026-09-22",
+      "supports": "Verbrauchskosten und kumulative Voraussetzungen der 70-Prozent-Heizungsquote aktuell gelesen."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Eigenstaendiger neuer Schnellstart mit Belegrechnung, beiden Objektvarianten, Jahresabgrenzung und konkretem Abschluss; kein zusaetzlicher Skill.",
+    "reason": "Alle sechs Abschnitte und Rechenbeispiele gelesen. Bereits präzisen Workflow erhalten; Auftakt auf umlagefähigen Mietersaldo ausgerichtet und Verbrauchsurteil um Randnummern, Norm und Grenze zur Vorratsbewertung ergänzt. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert.",
     "changes": [
-      "Vorhandene Dateien und entscheidende Luecken steuern den Einstieg.",
-      "Oelverbrauch, CO2-Lieferjahre und elektronische Belegeinsicht sind getrennt geregelt.",
-      "Die Ausgabe endet bei Abrechnung oder Antwortbrief ohne erfundene Exporte."
+      "Ergebnisbezogener Einstieg mit Kostenbasis, Mietschlüssel und Ist-Vorauszahlungen.",
+      "VIII ZR 156/11 mit fehlender Heilung durch Kürzung und fehlender FIFO-Vorgabe eingeordnet.",
+      "Leer: Jahresabrechnung, WEG-Überleitung oder Einwendungsantwort. Dateien: still lesen und materialgerechten Abrechnungsweg anbieten. Klar: unmittelbar rechnen und bestellte Empfängerfassung erstellen.",
+      "Bereits verrechnete Gutschrift verhindert Doppelabzug; neuer Flächen- oder Zugangsbeleg ändert Rechnung und Durchsetzbarkeitsbegründung."
     ],
-    "sha256": "edbf2ae759a793a4ee79afa1e0271355ba140fb2d93fec09e4df786fa34d87e6"
+    "sha256": "f96a8d9ae1572dc494dedbebdfa60ccc721e39b9e28a18860daf83d1339f067e"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Neue fachliche Werkstatt mit eigenstaendiger Rechenkette, WEG-Ueberleitung und amtlichen Quellenankern; keine generischen Druckbloecke.",
+    "reason": "Alle 16 Abschnitte einschließlich CO2-Lieferanteilen, WEG-Überleitung und Einwendungen gelesen. Gerichtliche Folgen stehen jetzt an den Rechenschritten statt nur im Schlussregister; missverständliche berechtigt verweigerte Einsicht korrigiert. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen.",
     "changes": [
-      "Q/Hi als Brennstoffmenge und relative Waermeanteile nach Systemgrenze unterschieden.",
-      "2025-Normstand von spaeteren Aenderungen getrennt.",
-      "Kostenbasis, Zahlungen, Schluessel, Saldo und Einwendungen bis zur Endfassung verbunden."
+      "Ergebnisbezogener Einstieg mit Kostenbasis, Mietschlüssel und Ist-Vorauszahlungen.",
+      "VIII ZR 156/11 mit fehlender Heilung durch Kürzung und fehlender FIFO-Vorgabe eingeordnet.",
+      "WEG-Fristurteil und Zahlungsbelegeinsicht mit Entlastungsnachweis beziehungsweise zeitweiliger Rechtsfolge im Hauptteil verankert.",
+      "Gutschrift und Zahlungsverrechnung, konsistenter Flächennenner, Messdienst-CO2-Abgleich, Ölbestand und Fristkorrekturen vertieft.",
+      "Bereits verrechnete Gutschrift verhindert Doppelabzug; neuer Flächen- oder Zugangsbeleg ändert Rechnung und Durchsetzbarkeitsbegründung."
     ],
-    "sha256": "43d4c2d41b5e7a858ae5996cc0184029e9b6a351a5d850b0202d0b530280760c"
+    "sha256": "e137cf7cbed108ea499a830bb32b7e54d14c3d5566c55c249eedf64401bc46d5"
   },
   "selection": {
     "target_skill": "belege-bis-zur-abrechnung",
@@ -406,5 +449,77 @@
         }
       ]
     }
-  ]
+  ],
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Jahresabrechnung, WEG-Überleitung oder Einwendungsantwort.",
+      "Dateien: still lesen und materialgerechten Abrechnungsweg anbieten.",
+      "Klar: unmittelbar rechnen und bestellte Empfängerfassung erstellen."
+    ],
+    "continuation": "Bereits verrechnete Gutschrift verhindert Doppelabzug; neuer Flächen- oder Zugangsbeleg ändert Rechnung und Durchsetzbarkeitsbegründung.",
+    "enrichment": "Gutschrift und Zahlungsverrechnung, konsistenter Flächennenner, Messdienst-CO2-Abgleich, Ölbestand und Fristkorrekturen vertieft.",
+    "limits": "desk review; no live client execution"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "betriebskosten-hausverwaltung/betriebskosten-hausverwaltung-schnellstart.md",
+      "betriebskosten-hausverwaltung/betriebskosten-hausverwaltung-werkstatt.md",
+      "betriebskosten-hausverwaltung/README.md",
+      "quality/evals/betriebskosten-hausverwaltung.json",
+      "betriebskosten-hausverwaltung/references/betriebskosten-quellen.md"
+    ],
+    "opening_change": "Umlagefähige Jahreskosten und tatsächliche Vorauszahlungen bis zum Mietersaldo berechnen.",
+    "norms": [
+      "Paragrafen 556, 556a und 560 BGB",
+      "Paragrafen 1 und 2 BetrKV",
+      "Paragrafen 7 bis 12 HeizkostenV",
+      "Paragrafen 3, 5, 6, 7, 9 und 11 CO2KostAufG"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 01.02.2012, VIII ZR 156/11, Rn. 10–14",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2011/VIII_ZR_156-11.pdf?__blob=publicationFile&v=1",
+        "application": "Bei Abrechnung bloßer Jahreszahlungen Periodenverbrauch nach Paragraf 7 Absatz 2 HeizkostenV rekonstruieren; 15-Prozent-Kürzung heilt diesen Fehler nicht.",
+        "limit": "Keine allgemeine FIFO-Pflicht; sachgerechte Schätzung und nachträgliche Nachforderungsgrenze gesondert prüfen."
+      },
+      {
+        "citation": "BGH, Urteil vom 25.01.2017, VIII ZR 249/15, Rn. 17 und 46–47",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2015/VIII_ZR_249-15.pdf?__blob=publicationFile&v=1",
+        "application": "Mietabrechnung ohne Abhängigkeit von WEG-Beschluss fristgerecht erstellen; bei Verspätung eigene Beschaffungsbemühungen darlegen.",
+        "limit": "Vor WEG-Reform; keine automatische Entschuldigung oder heutige WEG-Kostenverteilung aus dem Urteil."
+      },
+      {
+        "citation": "BGH, Urteil vom 09.12.2020, VIII ZR 118/19, Rn. 12–17",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2019/VIII_ZR_118-19.pdf?__blob=publicationFile&v=1",
+        "application": "Zahlungsbelege auch beim Leistungsprinzip zugänglich machen; berechtigt verlangte verweigerte Einsicht kann vorübergehende Leistungsverweigerung zur Nachforderung begründen.",
+        "limit": "Kein endgültiger Forderungswegfall oder pauschaler Mietzahlungsstopp; heutige elektronische Bereitstellung zusätzlich nach Paragraf 556 Absatz 4 BGB."
+      },
+      {
+        "citation": "BGH, Urteil vom 15.12.2021, VIII ZR 66/20, Rn. 13–19",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2020/VIII_ZR__66-20.pdf?__blob=publicationFile&v=1",
+        "application": "Historische Originalbelegregel und digitale Ursprungsbelege unterscheiden.",
+        "limit": "Früheres Recht; kein pauschaler Papierzwang unter heutigem Paragraf 556 Absatz 4 BGB."
+      },
+      {
+        "citation": "BGH, Urteil vom 30.05.2018, VIII ZR 220/17, Rn. 19–23",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2017/VIII_ZR_220-17.pdf?__blob=publicationFile&v=1",
+        "application": "Bei Flächenumlage tatsächliche Wohnungs- und Gesamtfläche statt Zehnprozenttoleranz verwenden.",
+        "limit": "Keine Entscheidung über spätere WEG-Auffangregel des Paragrafen 556a Absatz 3 BGB."
+      },
+      {
+        "citation": "BGH, Versäumnisurteil vom 20.02.2008, VIII ZR 27/07, Rn. 28–32",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2007/VIII_ZR__27-07.pdf?__blob=publicationFile&v=1",
+        "application": "Hauswartkosten nach tatsächlichem Aufwand aufteilen; bei bestrittenem Heizstrom Schätzgrundlage offenlegen.",
+        "limit": "Keine allgemeine Zehnprozentkürzung oder universelle Schätzquote."
+      }
+    ],
+    "remaining_limits": [
+      "Desk- und Quellenreview, kein Live-Modelltest.",
+      "Sechs gerichtliche Kernaussagen amtlich nachgelesen; historische CO2-Verkündung und Berliner Steuerwerte in dieser Anschlussprüfung nicht erneut vollständig verifiziert, vorhandene Nachweise und Datierungen unverändert.",
+      "Workflow-Anschlussprüfung 23.09.2026: individuelle Text- und Quellenprüfung, keine Live-Client-Ausführung. Frühere Entscheidungsprüfungen und ihre Reichweitengrenzen bleiben unverändert; keine erneute vollständige Rechtsprechungsprüfung behauptet. Paragraf 556 BGB beim erneuten Abruf nicht erreichbar; geprüfter Normstand vom 22.09.2026 und periodengebundene 2025-Grundlagen unverändert, keine neue Vollverifikation behauptet."
+    ]
+  }
 }

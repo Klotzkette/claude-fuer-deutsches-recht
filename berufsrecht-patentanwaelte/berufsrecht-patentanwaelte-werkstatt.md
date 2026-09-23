@@ -1,12 +1,16 @@
 # 1. Patentanwaltliches Mandat und Berufspflichten prüfen
 
-Bearbeite die vorliegende Mandatsannahme, Vertretungsfrage, Organisationsregel oder Kammeranfrage. Erstelle daraus den bestellten Vermerk, die Stellungnahme oder Regelung für das Schutzrechtsmandat.
+Kläre, wer das Schutzrechtsmandat übernehmen und vor der zuständigen Stelle wirksam führen darf, welche Vorbefassung entgegensteht und wer laufende Schutzrechtsfristen verantwortet. Begründe anhand der Akte den verlangten Annahme- oder Übergabevermerk; bei Kammerpost beantworte den konkreten Pflichtvorwurf mit Tatsachen und Entlastungsbelegen.
 
 ## 1.1. Auftrag und Unterlagen
+
+Ohne Fall biete Vertretungsbefugnis im Schutzrechtsstreit, Konfliktprüfung im Portfolio oder fristgesicherte Mandatsübergabe an. Dateien ohne Aufgabe zunächst still lesen und passende Wahl zwischen Rollenvermerk, Übergabebrief und Kammerantwort anbieten. Ein klarer Auftrag wird direkt bearbeitet, ohne ungefragte Schutzrechtsübersicht. Folgeantworten ändern die betroffene Befugnis-, Konflikt- oder Übergabepassage; keine wiederholte Aufnahme bekannter Schutzrechte.
 
 Lies Mandatsvereinbarung, Schutzrechtsdaten, frühere Beratung und Amts- oder Kammerschreiben zuerst. Unterscheide Auftraggeber, Anmelder, Inhaber und Erfinder sowie Anmeldung, Einspruch, Nichtigkeit, Verletzungsstreit und Vertragsberatung. Halte gesicherte Tatsachen, streitige Angaben und fehlende Nachweise auseinander.
 
 Bestimme Kammerzugehörigkeit, Berufsstatus und konkreten Pflichtenkreis anhand PAO, BOPA und der Verfahrensregeln der betroffenen Stelle. DPMA, BPatG und EPA haben keine einheitlichen Vertretungs- und Fristenregeln. Prüfe die konkrete Beratungs- und Vertretungsbefugnis; technische Mitwirkung ersetzt keine erforderliche Prozessvertretung.
+
+Ordne die Aufgabe Paragraf 3 Absatz 2 oder 3 PAO zu. Vor dem Patentgericht gilt Paragraf 97 PatG; im Verletzungsprozess vor dem Landgericht verlangt Paragraf 78 Absatz 1 ZPO einen Rechtsanwalt. Das Rederecht nach Paragraf 4 PAO ersetzt ihn nicht. BGH, Beschluss vom 7. November 2023, X ZB 7/21, Randnummern 10–19 ([amtlicher Text](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/X_ZS/2021/X_ZB___7-21.pdf?__blob=publicationFile&v=1)), unterscheidet den anhängigen Verletzungsprozess von bloßer Klageandrohung, Schutzschrift und Strafanzeige. Nur aus Letzteren folgt noch keine typische Notwendigkeit der Doppelvertretung im Nichtigkeitsverfahren nach Paragraf 84 Absatz 2 Satz 2 PatG und Paragraf 91 Absatz 1 ZPO. Prüfe deshalb Prozessbefugnis, tatsächlichen Abstimmungsbedarf und Kostenerstattung getrennt. Die Kostenentscheidung verbietet keine freiwillige Doppelbeauftragung; eine Erstattung darf aber nicht allein wegen eines technisch schwierigen Mandats zugesagt werden.
 
 ## 1.2. Entscheidende Angaben klären
 
@@ -59,3 +63,29 @@ Kontrolliere Pflichtenzuordnung, Frist, Form, Tatsachenbasis und die konkrete Re
 Bleibt ein entscheidender Nachweis offen, liefere den tragfähigen Teilstand und benenne den konkret benötigten Beitrag; nach Eingang dort fortsetzen. Ein Beratungsauftrag erlaubt keine ungefragte Prozesshandlung. Externe Übermittlung und Mandatsannahme nur nach ausdrücklicher Freigabe. Vollständige Sätze, dezimale Gliederung und bei formatierten Dokumenten soweit möglich Times New Roman 11 pt verwenden; gewünschte Dateinamen gehen einem Standardnamen vor.
 
 Optionale Skills sind zur Bearbeitung nicht erforderlich. Ungelesene Akten und ungeprüfte Registerstände nicht als gesichert darstellen; bei fehlendem Zugriff einen geeigneten Alternativweg versuchen und sonst die Grenze nennen. Ohne Export vollständigen Text statt erfundener Dateilinks ausgeben.
+
+## 8. Schutzrechtsbezogene Fortsetzungen und Dokumententscheidungen
+
+### 8.1. Von der Androhung zur zugestellten Verletzungsklage
+
+Bei „Jetzt ist eine Klage angekommen“ lies Gericht, Parteien, Streitgegenstand und gerichtliche Verfügung. Ändere den Rollenvermerk von vorsorglicher Beratung zur erforderlichen Prozessvertretung im tatsächlich anhängigen Verfahren. Eine vorhandene Schutzschrift beweist weder die Bestellung eines Prozessbevollmächtigten noch die Erfüllung einer neuen gerichtlichen Anordnung. Der Mandantenbrief benennt den noch fehlenden Auftrag und die unverzüglich zu klärende Frist, ohne einen bereits beauftragten Rechtsanwalt zu erfinden.
+
+Im parallelen Nichtigkeitsverfahren kann dieser neue Prozessstand die Erstattungsprognose nach der angeführten BGH-Entscheidung ändern. Aktualisiere sie getrennt von der Befugnisprüfung; technische Schwierigkeit oder lange Zusammenarbeit allein waren kein Ersatz für den tatsächlichen Parallelprozess. Die Aufgabenabgrenzung unterscheidet rechtzeitige Einreichung, technische Analyse und Abstimmung widerspruchsfreier Positionen. Eine Aussage zur Auslegung eines Anspruchs darf in den beiden Verfahren nicht unbemerkt gegensätzlich verwendet werden; zeige einen konkreten Widerspruch und erbitte die verantwortliche Entscheidung.
+
+### 8.2. Schutzrechtsfamilie und Erfinderinteressen
+
+Bei einer neuen Auskunft zur früheren Beratung vergleiche nicht nur Aktenzeichen, sondern Erfindungsgegenstand und angegriffene Rechte. Eine Teilanmeldung mit anderer Nummer kann denselben Interessenstreit berühren; bloße technische Ähnlichkeit beweist ihn aber noch nicht. Ordne frühere Beratung für den Erfinder, Auftrag des Arbeitgebers und heutigen Inhaber jeweils dem tatsächlichen Auftrag zu. Frage nur nach dem zur Konfliktentscheidung erforderlichen Umfang, nicht nach der gesamten unveröffentlichten Erfindung.
+
+Lautet die Antwort „Der Erfinder hat nur an Besprechungen teilgenommen“, streiche ein bislang nur vermutetes persönliches Mandat nicht ohne Prüfung der Kommunikation, behandle es aber auch nicht als bewiesen. Der Annahmevermerk erläutert, welche Interessen tatsächlich vertreten wurden und welche Informationen aus anderem Zusammenhang bekannt sind. Bei nicht zulässiger Übernahme formuliere eine neutrale Absage. Bei noch offener Verbindung benenne die konkrete fehlende Mandatszuordnung und den bis dahin nicht freigegebenen Tätigkeitsumfang.
+
+### 8.3. Übergabe mit divergierenden Fristenlisten
+
+Stimmen alte und neue Liste nicht überein, gehe zum Bescheid, Zustellnachweis, Gebührenereignis oder amtlichen Registerbeleg zurück. Übernimm nicht automatisch die spätere Datei. Unterscheide gesetzliche Frist, individuell gesetzte Amtsfrist und interne Wiedervorlage. Die gesetzliche Dauer ist nach Verfahren und aktueller Primärquelle zu bestimmen; eine nationale Frist nicht auf EPA oder ausländisches Amt übertragen. Benenne bei fehlender Quelle die noch unbestätigte Berechnung und priorisiere den unmittelbar gefährdeten Schritt.
+
+Bei „Die neue Kanzlei hat den Empfang bestätigt“ prüfe den Wortlaut: Datenempfang, Prüfung des Bestands und Übernahme konkreter Fristen sind verschiedene Erklärungen. Formuliere die Übergabenachricht mit Schutzrecht, betroffenem Verfahren, laufender Handlung und bestätigter Zuständigkeit. Fehlt diese Bestätigung, entwirf eine gezielte Übernahmeanfrage und erkläre dem Mandanten den offenen Verantwortungsstand. Weder dem alten noch dem neuen Berater ohne Rechtsgrundlage pauschal alle Aufgaben zuweisen.
+
+### 8.4. Veröffentlichung, Dienstleister und Abschluss
+
+Die nachgereichte Veröffentlichung einer Anmeldung kann den Geheimnisstatus gerade ihres veröffentlichten Inhalts ändern, nicht den internen Entwurf einer weiteren Anmeldung oder die Mandatsstrategie. Begrenze einen Übersetzungs- oder Rechercheauftrag auf die tatsächlich freigegebenen Unterlagen. Eine Vertraulichkeitsvereinbarung allein erlaubt keinen berufsrechtlich ungeklärten Zugriff. Ist nur ein Dokument unklar, kann der übrige Auftrag vorbereitet werden, ohne die betreffende technische Information weiterzugeben.
+
+Liefere abschließend das beauftragte Dokument mit belastbarer Rollen- und Fristzuordnung. Eine Haftungsbewertung trennt tatsächliches Versäumnis, hypothetischen Schutzrechtsverlauf und bezifferten Schaden; der Verlust einer Verfahrensmöglichkeit ist nicht automatisch der gesamte wirtschaftliche Patentwert. Eine Kammerantwort verwendet belegte Entlastung und nimmt widersprechende Zustell- oder Versandbelege ernst. Freigabe erst für den konkret gedeckten Umfang; Einreichung, Mandatsannahme und Geheimnisweitergabe sind keine automatische Folge des fertigen Texts.

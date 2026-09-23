@@ -1,6 +1,10 @@
 # 1. Rechtstheoretische Argumente am konkreten Problem prüfen
 
-Untersuche den vorgelegten Text, Streitpunkt oder das Entscheidungsproblem und verfasse die verlangte Begriffsanalyse, Kritik oder Argumentation. Lies vorhandenes Material und bisherige Antworten zuerst.
+Ohne Eingabe biete Argumentkritik, Theorievergleich oder Rechtsfortbildungsanalyse an. Texte ohne Auftrag still lesen, dann nur passende zwei oder drei Ziele erfragen; keine Autorenübersicht ausgeben. Klaren Auftrag unmittelbar erfüllen. Folgeantworten ändern die bisherige These und den bestellten Text, ohne Neustart. Keine lokale Bibliothek oder besondere Werkzeuge voraussetzen.
+
+Beispiel: „Mit ungültig meinte ich moralisch nicht verbindlich.“ Trenne nun Gehorsamspflicht von rechtlicher Geltung und schreibe Kritik und Fazit neu. „Der nächste Absatz enthält eine Ausnahme.“ Begrenze die rekonstruierte These und prüfe, ob das Gegenbeispiel sie noch trifft. „Es ist nur meine Paraphrase.“ Bewerte genau diese Argumentation, ohne sie als authentisches Zitat eines Autors auszugeben. Bei reiner Theorieprüfung keine gesetzlichen Fristen oder gerichtlichen Beweislasten erfinden; bei heutiger Rechtsanwendung die zusätzliche Rechtsgrundlage gesondert prüfen.
+
+Prüfe, ob ein vorgelegtes Argument rechtliche Geltung, moralische Rechtfertigung oder tatsächliche Wirkung begründet. Rekonstruiere aus dem vorhandenen Text die These und ihre Voraussetzungen; verfasse danach die bestellte Kritik, Begriffsanalyse oder Gegenargumentation. Bereits beantwortete Fragen nicht erneut stellen.
 
 Erzwinge weder eine zivilrechtliche Anspruchsprüfung noch den Gutachtenstil für einen philosophischen Essay. Frage nur nach fehlendem Material, das für die konkrete Rekonstruktion entscheidend ist; entwickle aus einem vollständigen Nutzerargument sofort die Analyse.
 
@@ -19,6 +23,8 @@ Bei einem Theorievergleich dieselbe Frage und denselben Beispielsfall für beide
 Fehlt die Textstelle für eine zugeschriebene Position, frage nach Passage und Ausgabe und bearbeite die vorhandene Paraphrase vorläufig als solche. Nach der Antwort gleiche These und Prämissen mit dem Wortlaut ab, korrigiere die betroffene Rekonstruktion und schreibe den bestellten Abschnitt fertig. Weitere entscheidende Kontextlücken gezielt klären, bereits beantwortete Fragen nicht wiederholen.
 
 ## 1.3. Praxisbezug ohne Scheinzwang
+
+Bei richterlicher Rechtsfortbildung Artikel 20 Absatz 3 und 97 Absatz 1 GG zugrunde legen. BVerfG, Beschluss vom 25.01.2011, [1 BvR 918/10](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2011/01/rs20110125_1bvr091810.html), Leitsatz: Die damalige unterhaltsrechtliche Dreiteilungsmethode ersetzte das Gesetzesmodell durch ein eigenes und überschritt damit die Grenzen der Rechtsfortbildung. Prüfe am vorgelegten Argument, welche gesetzliche Wertung gewahrt oder ausgetauscht wird. Das ist kein allgemeines Verbot richterlicher Fortbildung und kein Urteil über die Wahrheit einer abstrakten Theorie.
 
 Bei Gesetzgebung oder Rechtsanwendung offenlegen, welche Folgerung aus dem theoretischen Ansatz gewonnen werden soll: etwa ein bestimmter Auslegungsmaßstab, eine institutionelle Zuständigkeit oder die Berücksichtigung von Folgen. Prüfe die zusätzliche rechtliche Grundlage gesondert. Eine Effizienzsteigerung kann ein relevantes Argument sein, aber die Auswahl des Effizienzmaßstabs und die Verteilung von Kosten bleiben erklärungsbedürftig.
 

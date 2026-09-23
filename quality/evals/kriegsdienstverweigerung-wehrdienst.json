@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "kriegsdienstverweigerung-wehrdienst",
-  "reviewed_on": "2026-09-17",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/wehrpflg/__2.html",
@@ -22,19 +22,67 @@
       "url": "https://www.bafza.de/rat-und-hilfe/kriegsdienstverweigerung-kdv",
       "checked_on": "2026-09-14",
       "supports": "Amtliche Hinweise zur persönlichen Darstellung statt vorgefertigter Begründung sowie zum Behördenweg und besonderen Weiterleitungsregeln für Ungediente."
+    },
+    {
+      "url": "https://www.bverwg.de/030818B6B124.18.0",
+      "checked_on": "2026-09-22",
+      "supports": "BVerwG, Beschluss vom 03.08.2018, 6 B 124.18, Rn. 10 bis 15: Persönliche verbindliche Gewissensentscheidung und nachvollziehbarer Wandel nach Waffendienst; allmähliche Entwicklung möglich. Grenze: Gerichtliche Aufklärung beim Berufssoldaten, keine Anerkennungsautomatik oder Pflicht zum Schlüsselerlebnis; behördliche Anhörung bleibt gesondert. Amtliche tragende Gründe gelesen; keine Vollverifikation der gesamten Materie."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/kdvg_2003/__13.html",
+      "checked_on": "2026-09-22",
+      "supports": "Sonderregel für ungediente, vor 2010 Geborene einschließlich Neunmonats-Sollfrist; keine Anerkennungsautomatik."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/kdvg_2003/__3.html",
+      "checked_on": "2026-09-22",
+      "supports": "Wirkungen des Antrags und gesetzliche Ausnahmen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/kdvg_2003/__6.html",
+      "checked_on": "2026-09-22",
+      "supports": "Ergänzende Anhörung von schriftlicher Darstellung trennen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/wehrpflg/__2.html",
+      "checked_on": "2026-09-22",
+      "supports": "Anwendungsbereiche und Ausnahmen im aktuellen Wehrpflichtrecht; keine pauschale Behauptung vollständiger Aussetzung aller Vorschriften."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/kdvg_2003/BJNR159310003.html",
+      "checked_on": "2026-09-23",
+      "supports": "Ersatzabruf nach nicht verfügbaren Einzelnormen: Paragrafen 2, 5 und 6 für Unterlagen, Gesamtvorbringen und Anhörung gelesen. Redaktion und äußere Belege bleiben von persönlichen inneren Vorgängen getrennt."
+    },
+    {
+      "url": "https://www.bafza.de/rat-und-hilfe/kriegsdienstverweigerung-kdv",
+      "checked_on": "2026-09-23",
+      "supports": "Erneut gelesen: persönliche eigene Darlegung und Warnung vor vorgefertigten Begründungen. Ergänzungen führen zu Kommentierung eigener Angaben, nicht zu erfundenem Gewissensinhalt."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Vollständig geprüft: Persönliche Erläuterungen werden behutsam in die eigene Begründung eingearbeitet und mit Lebenslauf und Schreiben abgeglichen. Neue Widersprüche führen zu gezielten Fragen, nicht erfundenen Erlebnissen; Mini unverändert beibehalten.",
+    "reason": "2026-09-23: Individuell vollständig gelesen und fachbezogen erweitert. Leerstart mit eigener Begründung, Antragsweg oder Behörden-/Dienstschreiben; stille Dateisichtung und gezielte Fortsetzung nach persönlicher Datumsklärung ergänzt. Desk-Review; kein Live-Client- oder Modelltest.",
     "changes": [
-      "Eigene Beweggründe, Lebenslauf und tatsächlichen Status in den Mittelpunkt gestellt.",
-      "Behutsame Redaktion ohne erfundene Erlebnisse oder Anerkennungsgarantie.",
-      "Antragseingang, Weiterleitung und Entscheidung getrennt; keine Befugnis zum Fernbleiben suggeriert."
+      "Eigene Gewissensgrenze, Antrag und Diensttermine statt fachfremder Gefahren- und Statusprognosen.",
+      "Neunmonats-Sollfrist, Vorrang, Antragswirkung, Anhörung, verkürzte Fristen und Aktenführung konkretisiert; persönliche Redaktion ohne erfundene Erlebnisse erhalten.",
+      "Leerstart mit eigener Begründung, Antragsweg oder Behörden-/Dienstschreiben; stille Dateisichtung und gezielte Fortsetzung nach persönlicher Datumsklärung ergänzt."
     ],
-    "sha256": "981a5db000e6023c8d38f3f75f10b58dad82da89149cef6dda5b9c31ffc3f83d"
+    "sha256": "c43ca62bcbef2fc01884cdf1493b137942694731fe563ac826ff100345c253e0",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
   },
-  "workshop_review": {"verdict":"revised","reason":"Die vollständig gelesene Werkstatt enthält die persönliche Redaktionsfortsetzung; der allgemeine Rollenabsatz behandelte dagegen einen breiten Verwaltungsfall mit Stationsproduktpflicht.","changes":["Gewissensentwicklung von äußerlich belegbaren Terminen und Verfahrensdaten getrennt.","Bestellten Begründungstext oder Verfahrensbrief statt zusätzlicher Zwischenprodukte verlangt; keine persönlichen Erfahrungen ergänzen lassen."],"sha256":"6566da5fc5790b6136b46e0e7e6b8d63f31bfdd6a446aef47933c744c5fe7db9"},
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "2026-09-23: Individuell vollständig gelesen und fachbezogen erweitert. Sprachliche Unklarheit von fehlendem persönlichen Inhalt getrennt; politische Begleitmotive, allmählicher Wandel, konkrete Behördenzweifel, fremde Stellungnahmen und tatsächlicher Weiterleitungsstand vertieft. Desk-Review; kein Live-Client- oder Modelltest.",
+    "changes": [
+      "Werkstatt von Beamten-, Versammlungs- und Migrationsbausteinen bereinigt; alle zwölf KDV-Themen fachbezogen zusammengeführt.",
+      "Neunmonats-Sollfrist, Vorrang, Antragswirkung, Anhörung, verkürzte Fristen und Aktenführung konkretisiert; persönliche Redaktion ohne erfundene Erlebnisse erhalten.",
+      "Sprachliche Unklarheit von fehlendem persönlichen Inhalt getrennt; politische Begleitmotive, allmählicher Wandel, konkrete Behördenzweifel, fremde Stellungnahmen und tatsächlicher Weiterleitungsstand vertieft."
+    ],
+    "sha256": "428957e437772cf21052fe381f4b7ec7c593dbcbbb41588755b38f5aeaa64c71",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
+  },
   "selection": {
     "positive": [
       "Prüfe meine eigene KDV-Begründung auf Widersprüche zum Lebenslauf.",
@@ -50,11 +98,31 @@
       "id": "aktiver-soldat-kein-direkter-sonderweg",
       "request": "Kommentiere in ergebnis.md ausschließlich den Verfahrensabsatz meiner eigenen KDV-Unterlagen. Ich bin 27 Jahre alt und Soldat auf Zeit. Meine persönliche Begründung und mein Lebenslauf sind fertig und sollen hier nicht bewertet werden. Ein Antrag wurde noch nicht gestellt. Mein Entwurf lautet: Weil ich aktiver Soldat bin, reiche ich den Antrag unmittelbar beim Bundesamt für Familie und zivilgesellschaftliche Aufgaben ein; das Personalmanagement ist nur für Ungediente zuständig. Außerdem ist das Wehrpflichtgesetz vollständig ausgesetzt und daher insgesamt bedeutungslos. Prüfe diese Aussagen zum Stand 14. September 2026 und benenne die statusbezogenen Zusatzunterlagen im Weiterleitungsverfahren. Versende nichts und beurteile keine konkrete Dienstpflicht oder Entlassung.",
       "input_files": [],
-      "deliverables": ["ergebnis.md"],
+      "deliverables": [
+        "ergebnis.md"
+      ],
       "criteria": [
-        {"id": "C01", "text": "Auch für den Soldaten auf Zeit wird Antragstellung beim Personalmanagement von der inhaltlichen Entscheidung durch das Bundesamt für Familie und zivilgesellschaftliche Aufgaben getrennt.", "deliverables": ["ergebnis.md"]},
-        {"id": "C02", "text": "Die Weiterleitung berücksichtigt Stellungnahmen des Disziplinarvorgesetzten und der personalbearbeitenden Stelle, ohne deren Vorliegen zu erfinden.", "deliverables": ["ergebnis.md"]},
-        {"id": "C03", "text": "Die pauschale Gesamtaussetzung des Wehrpflichtgesetzes wird zurückgewiesen, ohne daraus eine konkrete Einberufung, Dienstbefreiung oder Entlassung abzuleiten.", "deliverables": ["ergebnis.md"]}
+        {
+          "id": "C01",
+          "text": "Auch für den Soldaten auf Zeit wird Antragstellung beim Personalmanagement von der inhaltlichen Entscheidung durch das Bundesamt für Familie und zivilgesellschaftliche Aufgaben getrennt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die Weiterleitung berücksichtigt Stellungnahmen des Disziplinarvorgesetzten und der personalbearbeitenden Stelle, ohne deren Vorliegen zu erfinden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die pauschale Gesamtaussetzung des Wehrpflichtgesetzes wird zurückgewiesen, ohne daraus eine konkrete Einberufung, Dienstbefreiung oder Entlassung abzuleiten.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
       ],
       "target_skill": "begruendung-redaktion-ohne-schablone"
     },
@@ -90,5 +158,48 @@
       ],
       "target_skill": "begruendung-redaktion-ohne-schablone"
     }
-  ]
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "method": "desk_review",
+    "files": [
+      "kriegsdienstverweigerung-wehrdienst/README.md",
+      "kriegsdienstverweigerung-wehrdienst/kriegsdienstverweigerung-wehrdienst-werkstatt.md",
+      "kriegsdienstverweigerung-wehrdienst/kriegsdienstverweigerung-wehrdienst-schnellstart.md",
+      "quality/evals/kriegsdienstverweigerung-wehrdienst.json",
+      "kriegsdienstverweigerung-wehrdienst/skills/begruendung-redaktion-ohne-schablone/SKILL.md"
+    ],
+    "opening_change": "Eigene Gewissensgrenze, Antrag und Diensttermine statt fachfremder Gefahren- und Statusprognosen.",
+    "norms": [
+      "Artikel 4 Absatz 3 Satz 1 GG",
+      "Paragrafen 2 bis 7, 9 bis 13 KDVG",
+      "Paragraf 2 WPflG",
+      "Paragrafen 70, 74, 75, 80 Absatz 5, 123 VwGO"
+    ],
+    "decisions": [
+      {
+        "citation": "BVerwG, Beschluss vom 03.08.2018, 6 B 124.18, Rn. 10 bis 15",
+        "url": "https://www.bverwg.de/030818B6B124.18.0",
+        "application": "Persönliche verbindliche Gewissensentscheidung und nachvollziehbarer Wandel nach Waffendienst; allmähliche Entwicklung möglich.",
+        "limit": "Gerichtliche Aufklärung beim Berufssoldaten, keine Anerkennungsautomatik oder Pflicht zum Schlüsselerlebnis; behördliche Anhörung bleibt gesondert."
+      }
+    ],
+    "remaining_limits": [
+      "Aktuelle KDVG-Kernvorschriften und WPflG Paragraf 2 amtlich geprüft; keine umfassende Prüfung einzelner Befehle, Entlassungsfolgen oder aktueller Verwaltungskapazitäten.",
+      "Keine Live-Anhörung und kein Modelltest.",
+      "2026-09-23: Workflow-Desk-Review. Bestehende Profil-URLs erneut aufgerufen; nach Zeitüberschreitungen bei KDVG-Einzelnormen amtliche Gesamtfassung für Paragrafen 2, 5 und 6 gelesen. WPflG Paragraf 2, KDVG Paragrafen 3/13, BAFzA-Hinweise und BVerwG 6 B 124.18 Rn. 10–15 erneut zugänglich. Keine Prüfung individueller Befehle, keine Anhörung, keine Anerkennungsprognose oder Live-Client-Ausführung."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: eigene Gewissensbegründung, Antrag/Bearbeitungsstand oder Behörden-/Dienstschreiben auswählen.",
+      "Dateien ohne Auftrag: Lebenslauf, persönliche Notizen und Schreiben still lesen; nur gewünschtes Ergebnis klären.",
+      "Klarer Auftrag: eigene Formulierungen oder konkreten Verfahrensbrief direkt bearbeiten; keine vorgegebene Gewissensgeschichte."
+    ],
+    "continuation": "Persönliche Erklärung zum Praktikumsjahr ändert in begruendung-kommentar.md Datum und Entwicklung; Eingangsnachweis ändert in sachstandsanfrage.md Verfahrensbezug und Auskunftsbegehren, ohne erneute Statusaufnahme.",
+    "enrichment": "Nicht suggestive Fragen zu politischem Anlass und Gewissensgrenze, Umgang mit ungenauen Erinnerungen, frühere Schießausbildung als konkreter Zweifel, Grenzen dritter Beobachtungen, Protokollkorrektur und gezielte Antwort auf fehlenden Lebenslaufabschnitt.",
+    "limits": "desk review; no live client execution"
+  }
 }

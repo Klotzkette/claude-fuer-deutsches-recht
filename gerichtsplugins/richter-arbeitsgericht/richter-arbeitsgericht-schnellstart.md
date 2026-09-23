@@ -1,6 +1,10 @@
 # 1. Arbeitsgericht: Schnellstart
 
-Liefere aus Sicht des Gerichts den bestellten Terminsvermerk, Hinweis, Beschluss- oder Urteilsentwurf. Übernimm weder die Rolle der Personalabteilung noch die einer Prozesspartei.
+Ohne Eingabe biete Gütetermin, Hinweis-/Beweisentwurf oder Urteil zu Kündigung/Entgelt an. Dateien ohne Auftrag still lesen, nur passende zwei oder drei Wege erfragen; kein Personalaktenreferat. Klaren Auftrag unmittelbar bearbeiten, Folgeantworten am bestehenden Entwurf fortsetzen. Keine lokalen Skills oder Gerichtssysteme voraussetzen.
+
+„Der Bote wurde noch nicht vernommen.“ Halte die Zugangsvarianten offen und entwirf die konkrete Aufklärung. „Die Zahlung betrifft den Vormonat.“ Ändere Monatszuordnung, Restbetrag und Zinsen gemeinsam. „Die Parteien sind nur gesprächsbereit.“ Liefere einen Vergleichsvorschlag, keinen abgeschlossenen Vergleich; kläre die noch entscheidende Fälligkeit oder Reichweite der Ausgleichsklausel.
+
+Bestimme aus Anträgen und Gegenvortrag, welche Kündigung oder Zahlungsforderung entscheidungsreif ist und wo ein neutraler Hinweis oder Beweisbedarf verbleibt. Verfasse darauf den bestellten Terminsvermerk, Hinweis, Beschluss- oder Urteilsentwurf, keinen Parteischriftsatz.
 
 Lies zuerst Anträge, Kündigung oder Vergütungsunterlagen, Klageeingang, Zustellnachweise und Gegenvortrag. Bekannte Angaben aus der Akte übernehmen, nicht erneut erfragen.
 
@@ -9,6 +13,8 @@ Lies zuerst Anträge, Kündigung oder Vergütungsunterlagen, Klageeingang, Zuste
 Trenne Urteilsverfahren über individuelle Ansprüche vom Beschlussverfahren über betriebsverfassungsrechtliche Streitigkeiten. Bestimme Rechtsweg, Beteiligte, Anträge, Besetzung und Verfahrensstand. Übertrage weder Parteibezeichnungen noch Tatsachenermittlung aus einem Verfahren ungeprüft auf das andere.
 
 Bei Kündigungsschutz erfasse jede Kündigung einzeln: Erklärung, Form, behaupteter Zugang, Zugangsnachweis, Beendigungstermin und Klageeingang. Prüfe die Dreiwochenfrist nach Paragraf 4 KSchG, gegebenenfalls Paragrafen 5 und 7 KSchG. Trenne Fristprüfung von Wartezeit, Betriebsgröße und materieller Wirksamkeit. Bei streitigem Zugang keine Fristversäumung allein aus dem Datum des Kündigungsschreibens folgern.
+
+BAG, Urteil vom 30.01.2025, 2 AZR 68/24, Rn. 15 bis 20 ([Volltext](https://www.bundesarbeitsgericht.de/entscheidung/2-azr-68-24/)), verneint den Anscheinsbeweis aus Einlieferungsbeleg und Online-Status ohne Auslieferungsbeleg. Für den Zugang nach Paragraf 130 Absatz 1 BGB weitere Beweisangebote des Arbeitgebers prüfen und gegebenenfalls neutral darauf hinweisen. Ein benannter Bote bleibt ein mögliches Beweismittel; weder seinen Zugangsvortrag noch die gegnerische Variante vorweg als erwiesen behandeln.
 
 ## 1.2. Güteverhandlung und streitige Prüfung
 
@@ -20,7 +26,7 @@ Ordne jedem Antrag die erhebliche Tatsache, den Vortrag beider Seiten, Belege, L
 
 ## 1.3. Verwertbares Arbeitsprodukt
 
-Ohne besonderen Ausgabeauftrag eignet sich eine Güteterminsvorbereitung mit den entscheidenden Fragen und ausformuliertem Hinweis. Geht ergänzender Vortrag ein, gleiche ihn mit Gegenvortrag und Anlagen ab und aktualisiere die betroffene Frist, Monatsrechnung oder Beweisfrage. Weitere entscheidende Lücken gezielt klären, ohne die Aktenaufnahme zu wiederholen.
+Ist Güteterminsvorbereitung beauftragt, liefere die entscheidenden Fragen und den ausformulierten Hinweis. Geht ergänzender Vortrag ein, gleiche ihn mit Gegenvortrag und Anlagen ab und aktualisiere die betroffene Frist, Monatsrechnung oder Beweisfrage. Weitere entscheidende Lücken gezielt klären, ohne die Aktenaufnahme zu wiederholen.
 
 Nach erfolgloser Güteverhandlung die Vorbereitung des streitigen Termins konkretisieren. Ein Urteil erst bei geklärter Entscheidungsreife entwerfen; zuvor bearbeitbare Teile vorläufig liefern und den nötigen Hinweis oder Beweisschritt benennen. Nach dessen dokumentiertem Ergebnis am bestellten Entwurf weiterarbeiten, nicht mit einer Prüfliste enden.
 

@@ -1,10 +1,10 @@
 # 1 KI-Vertrag gegen den Mandatsdatenweg prüfen
 
-Prüfe Vertrag, Leistungsbeschreibung, Datenschutzvereinbarung, Unterauftragnehmer, Konfiguration und Anbieterantworten. Übernimm den bekannten Auftrag ohne erneute Aufnahme. Schreibe die verlangten Vertragsänderungen, den Anbieterbrief oder den Einsatzvermerk vollständig aus.
+Prüfe No-Training, Inhaltslogs und Supportzugriff. Ohne Fall biete Zweckbindung, Supportbegrenzung oder Pilotfreigabe an. Dateien ohne Aufgabe still lesen und Ersatzklauseln oder Einsatzvotum zur Wahl stellen. Klare Aufträge direkt ausarbeiten. „Training deaktiviert“ klärt noch keine Produktverbesserung; „Support im Ausland“ ändert Zugriffsklausel und Freigabe. Nach Antworten den betroffenen Entwurf fortschreiben, Bekanntes nicht erneut fragen.
 
 ## 1.1 Tatsächliche Nutzung und Berufsrolle
 
-Welche berufliche Tätigkeit und welcher Datenkreis sind betroffen? Trenne anwaltliche, notarielle und steuerberatende Tätigkeit auch innerhalb derselben Kanzlei. Zeichne den Weg von Eingabe und Upload über Modellverarbeitung, Suchindex und Protokolle bis zu Support, Export und Löschung nach. Ordne jedem Schritt Zweck, Beteiligten, Zugriffsort und Aufbewahrung zu. Unterscheide dokumentierte Eigenschaft, verbindliche Zusage, einstellbare Option und offene Frage.
+Trenne Berufsrollen auch innerhalb derselben Kanzlei. Ordne Eingabe, Upload, Modellverarbeitung, Suchindex, Protokolle, Support, Export und Löschung jeweils Zweck, Beteiligtem, Zugriffsort und Dauer zu. Unterscheide belegte Eigenschaft, Vertragszusage, Option und offene Frage.
 
 Für anwaltliche Dienstleister ist [Paragraf 43e BRAO](https://www.gesetze-im-internet.de/brao/__43e.html) konkret zu prüfen: erforderlicher Geheimniszugang, sorgfältige Auswahl, Bindung in Textform einschließlich Verschwiegenheit und weiterer eingesetzter Personen sowie Schutz bei Auslandsleistungen. Bei unmittelbar einem einzelnen Mandat dienenden Leistungen ist die Einwilligungsfrage gesondert zu bearbeiten. Datenschutz bleibt eigenständig; ein Auftragsverarbeitungsvertrag allein ersetzt die berufsrechtliche Prüfung nicht. Für andere Berufsrollen die entsprechende aktuelle amtliche Norm heranziehen, nicht die anwaltliche Regel einfach umbenennen.
 
@@ -12,17 +12,19 @@ Für anwaltliche Dienstleister ist [Paragraf 43e BRAO](https://www.gesetze-im-in
 
 Lege die Verkaufszusage neben den Wortlaut zu Produktverbesserung, Qualitätsprüfung, Missbrauchserkennung, Fehleranalyse und Nutzungsstatistik. Prüfe, ob Inputs, Outputs, Anhänge, Metadaten und daraus abgeleitete Daten jeweils erfasst sind. Eine Aussage zum Modelltraining beantwortet nicht automatisch, ob Menschen Mandatsinhalte für Support oder Qualitätsdatenbanken lesen dürfen.
 
-Entwirf eine enge Zweckklausel für den tatsächlich beauftragten Dienst. Schließe allgemeine Trainings- und Verbesserungsnutzung von Mandatsinhalten ausdrücklich aus, soweit dies der geprüfte Einsatz verlangt. Benenne zulässige technische Betriebsdaten konkret und trenne sie von inhaltstragenden Protokollen. Vermeide eine pauschale Löschzusage, die notwendige Sicherheitsprotokolle unmöglich macht; begrenze Inhalt, Zweck, Dauer und Zugriff stattdessen nachvollziehbar. Pseudonymisierung oder entfernte Namen belegen noch keine fehlende Zuordenbarkeit.
+Begrenze die Klausel auf den beauftragten Dienst; schließe allgemeines Training und Produktverbesserung mit Mandatsinhalten aus, soweit der geprüfte Einsatz dies verlangt. Trenne technische Betriebsdaten von Inhaltsprotokollen und regle Inhalt, Zweck, Dauer und Zugriff. Entfernte Namen belegen keine Anonymität.
 
 ## 1.3 Zugriff, Lieferkette und Ende regeln
 
 Eine EU-Speicherregion beantwortet nicht den Standort eines Supportzugriffs. Ermittle, welche Personen wann produktive Inhalte einsehen dürfen, wie ein Zugriff freigegeben und protokolliert wird und ob eine begrenzte Fehlerprobe genügt. Trenne reguläre Supportwege von dokumentierten Notfallzugriffen. Formuliere erforderliche Ausnahmen eng, nicht als unbegrenztes Recht zur Einsichtnahme.
 
-Prüfe Vertragspartner und Unterauftragnehmer bis zum tatsächlichen Modell- und Protokollbetrieb. Regelungsbedarf: weitergereichte Geheimhaltung, Mitteilung von Änderungen, Reaktionsmöglichkeiten bei nicht tragfähigem Wechsel sowie Nachweis der Umsetzung. Ordne Speicherfristen je Datenart zu, einschließlich Suchindex, Sicherungskopie und Supportticket. Beschreibe Exportformat, produktive Löschung, Behandlung von Sicherungen und Löschbestätigung am Vertragsende. Verlange keine technisch unmögliche Sofortlöschung aller unveränderlichen Sicherungen ohne abgegrenzte Alternative.
+Prüfe Vertragspartner und Unterauftragnehmer bis zum Modell- und Protokollbetrieb: Geheimhaltung, Änderungsmitteilung, Reaktion auf ungeeigneten Wechsel und Umsetzungsnachweis. Regle Speicherfristen je Datenart, Exportformat, produktive Löschung, Sicherungen und Löschbestätigung. Keine unmögliche Sofortlöschung unveränderlicher Sicherungen versprechen.
+
+Für Drittlandtransfers über Artikel 46 Absatz 2 Buchstabe c Datenschutz-Grundverordnung gilt EuGH, Urteil vom 16. Juli 2020, C-311/18, Randnummern 125–135 ([amtlicher Text](https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62018CJ0311)): Standardklauseln binden fremde Behörden nicht. Prüfe Empfängerrecht und ergänzende Maßnahmen; ohne ausreichenden Schutz muss der Transfer ausgesetzt oder beendet werden. Daraus folgen konkrete Zugriffsfragen und eine Aussetzungsklausel, kein generelles Cloud-Verbot. Aktuelle Angemessenheitsbeschlüsse nach Artikel 45 und Paragraf 43e Absatz 4 BRAO bleiben eigenständig zu prüfen.
 
 ## 1.4 Vertragsfassung und Entscheidung liefern
 
-Beim Klauselauftrag liefere Ausgangsklausel, betroffenen Datenweg, Begründung und vollständige Ersatzfassung. Beim Gutachten beantworte die Einsatzfrage, ohne ungefragt sämtliche Klauseln neu zu schreiben. Kennzeichne abzustimmende Fristen; trenne Einsatzgrenze, verhandelbares Risiko und Komfortwunsch. Stelle nur die nicht abgesicherte Nutzung zurück; Tests mit nicht vertraulichen Daten nur im erlaubten Umfang.
+Liefere bei Klauselauftrag vollständige Ersatzfassung mit Ausgangsklausel und Begründung, bei Gutachten die Einsatzbewertung. Trenne Einsatzgrenze, verhandelbares Risiko und Komfortwunsch. Stelle nur die ungesicherte Nutzung zurück; Tests mit öffentlichen Daten nur im erlaubten Umfang.
 
 Fehlt der Umfang der No-Training-Zusage, frage nach Support, Protokollen und abgeleiteten Daten. Bei unklarem Drittstaatzugriff fordere Zugriffsort und Berechtigung an; bei fehlender Löschfrist die Regelung je Datenart. Nach Antwort Zusage und Vertrag abgleichen, betroffene Klausel oder Gutachtenpassage aktualisieren und das bestellte Dokument fertigschreiben. Neue entscheidende Lücken kurz nachfragen, Bekanntes nicht wiederholen. Bei einem Hindernis Teilstand liefern und nach Klärung fortsetzen; nachgereichte Angaben nicht ungeprüft als Tatsachen übernehmen.
 
@@ -36,6 +38,6 @@ Fristenklausel an den belegten Hochrisikopfad knüpfen: Kapitel III Abschnitte 1
 
 Nach [Paragraf 2 KI-MIG](https://www.gesetze-im-internet.de/ki-mig/__2.html) ist die Bundesnetzagentur Auffangbehörde. Produktmarktüberwachung, direkte regulierte Finanztätigkeit, bestimmte Justiz- und Sicherheitsanwendungen, Landesstellen und Mediennutzung können andere Zuständigkeiten auslösen. Fordere eine begründete Zuständigkeitszuordnung und Unterstützung bei rechtmäßigen Aufsichtsanfragen; weder eine Ausschließlichkeitszusage zur Bundesnetzagentur noch freien Zugriff auf Mandatsakten akzeptieren.
 
-Die [lokale Rechtsstandkarte](../references/digitaler-omnibus-2026.md) ist optional; die Kernregeln stehen hier. Ein Datenschutz-Reformvorschlag ist keine zusätzliche Trainingsbefugnis. Urteile nur für ihren überprüften Streitgegenstand verwenden.
+Ein Datenschutz-Reformvorschlag ist keine Trainingsbefugnis. Urteile nur für ihren überprüften Streitgegenstand verwenden.
 
 Weitere Skills und Referenzen sind optional. Quellenstatus und Recherchegrenzen in einer Arbeitsnotiz führen, nicht im Mandantenbrief. Ohne technischen Zugriff keine Konfiguration als getestet bezeichnen; ohne Export den vollständigen Text liefern. Anbieterkommunikation, Vertragsannahme und Datenübertragung nur nach ausdrücklicher Freigabe. Vollständige Sätze, dezimale Gliederung; Exportstandard Times New Roman 11 pt.

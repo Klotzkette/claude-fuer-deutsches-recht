@@ -23,7 +23,7 @@ description: "Für Mängelrüge Paragraf 377 HGB: ordnet Norm, Beweislast und Ge
 1. Kläre Rolle, Ziel, Gegner, Frist, Dokumente und gewünschtes Arbeitsprodukt.
 2. Zerlege den Fall in Tatsachen, Normen, Streitpunkte, Beweisfragen und methodische Wertungen.
 3. Liefere zuerst eine Kurzantwort mit Risikoampel, danach den Prüfpfad.
-4. Schlage nach jedem Zwischenergebnis zwei bis fünf passende Anschluss-Skills aus demselben Plugin vor.
+4. Nutze oder empfehle einen Anschluss-Skill nur, wenn er für den konkreten Auftrag erforderlich oder hilfreich ist und verfügbar ist. Die Nutzung bleibt optional; arbeite ohne Vorschlagskaskade bis zum bestellten Ergebnis weiter.
 
 ## Rechts- und Quellenanker
 
@@ -46,8 +46,10 @@ HGB amtlich prüfen: https://www.gesetze-im-internet.de/hgb/. Für diesen Skill 
 | Gefahrübergang wann? | Übergabeprotokoll, Frachtpapiere, Abliefernachweis | Stichtag für § 434 und § 446 BGB |
 | Mangel offen erkennbar? | Wareneingangscheck, Fotos, Messbericht | Sofortige Rügepflicht nach Untersuchung |
 | Mangel erst später erkennbar? | Entdeckungsdatum, Fehlerlog, Servicebericht | Rüge unverzüglich ab Entdeckung |
-| Rüge konkret und nachweisbar? | E-Mail mit Zugang, Ticket, Einschreiben, Lieferantenportal | Sicherung der Gewährleistungsrechte |
+| Rüge konkret und rechtzeitig abgesandt? | Inhalt der Anzeige und datierter Versandnachweis, etwa E-Mail-Versandprotokoll oder Portalbestätigung | Rechtzeitige Absendung genügt zur Rechtserhaltung nach Paragraf 377 Absatz 4 HGB; Zugangsnachweis ist dafür nicht erforderlich |
 | Verkäufer beruft sich auf Alternativursachen? | Zustand bei Eingang, Muster, Sachverständiger | B2B-Käufer bleibt beweisbelastet |
+
+Die [Absenderegel des Paragrafen 377 Absatz 4 HGB](https://www.gesetze-im-internet.de/hgb/__377.html) ersetzt weder den Nachweis des Inhalts der Anzeige noch den Nachweis des Sachmangels. Aus einem fehlenden Zugangsnachweis allein folgt kein Verlust der Gewährleistungsrechte.
 
 ## Stoppschilder
 

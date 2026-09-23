@@ -1,22 +1,39 @@
 {
   "schema_version": 1,
   "plugin": "fashion-law-moderecht",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://eur-lex.europa.eu/eli/reg/2011/1007/oj/deu",
       "checked_on": "2026-09-14",
       "supports": "Artikel 12 und 16: nichttextile tierische Teile kennzeichnen; Faserinformationen vor Onlinekauf sichtbar bereitstellen."
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=138206&Blank=1.pdf",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 27.06.2024, Az. I ZR 98/23, klimaneutral, amtliche Leitsätze. Anwendung: Mehrdeutige Klimaneutralitätswerbung am Werbemittel selbst erklären; Reduktion und Kompensation nicht gleichsetzen. Grenze und Prüfzugang: Keine Entscheidung über jede vegane Materialangabe oder sämtliche ab September 2026 geltenden Regeln; Leitsätze amtlich indexiert, direkter Volltext nicht abrufbar."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/uwg_2004/__5.html",
+      "checked_on": "2026-09-22",
+      "supports": "Irreführende Umwelt- und Materialbehauptungen nach konkretem Aussagegehalt."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32011R1007",
+      "checked_on": "2026-09-22",
+      "supports": "Artikel 5, 9, 12 und 16 im amtlichen Text gelesen: Faserbezeichnungen, Gewichtsanteile, tierische Teile, Information vor Onlinekauf."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Vollständige Schlusslektüre: Fehlende Stückliste, Werbebeleg und Nutzungsrecht lösen unterschiedliche Nachforderungen aus; danach wird Etikett, Shoptext oder Vertragsfassung fertiggestellt, nicht automatisch abgemahnt.",
+    "reason": "Klimaneutral-Aussage erfordert Erklärung der Reduktion oder Kompensation in der Werbung; Lederbestandteile getrennt prüfen. Workflow-Ergänzung einzeln geprüft: Nur schwarze Variante hat Leder oder Kampagne wird auf bezahlte Werbung erweitert -> konkrete Artikelhinweise und Vegan-Aussage beziehungsweise Lizenzumfang und Freigabe ändern.",
     "changes": [
-      "Artikelbezogene Materialnachweise mit vollständig korrigiertem Etikett und Shoptext verbunden.",
-      "Model-Einwilligung, Urheberrecht und kanalbezogene Lizenz getrennt; unbelegte Werbeaussage nicht durch neue Behauptung ersetzt."
+      "Klimaneutral-Entscheidung unmittelbar auf Kampagnenkorrektur angewandt",
+      "Textilkennzeichnung und vegane Materialbehauptung von Klimawirkung getrennt",
+      "Anwendungswechsel 2026 als eigenständige Rechtsstandsfrage behandelt",
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
     ],
-    "sha256": "e1b908aaf11af0ba1e0947d3d06dc79ef190f09a481c285c7a7bbf7a32156d8b"
+    "sha256": "30a58c50233db2ee9c4c041ff96c3a29a8fc37b80e3b5bb4d35dc50ea8d1c5d8"
   },
   "selection": {
     "positive": [
@@ -64,12 +81,54 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Alle Werkstattabschnitte einschließlich Produktpass, Lieferkette und Handelspartnerkrise gelesen. Der Ablauf bleibt produkt- und auftragsbezogen und enthält keine verpflichtende Schutzrechtsgesamtprüfung.",
+    "reason": "Produkt-, Lieferketten-, IP- und Kampagnenfragen werden am konkreten Produkt gehalten; Umweltwerbung nicht aus allgemeiner Nachhaltigkeit abgeleitet. Workflow-Ergänzung einzeln geprüft: Varianten- und Chargenzuordnung, begrenzter Zertifikatsnachweis, Werbeaussage und Veröffentlichungsdatum, Vorserie gegenüber Verkaufsausführung, Geheimnisnachweis sowie getrennte Kampagnenrechte, Produktion und Abverkauf.",
     "changes": [
-      "Nachgereichte Rechteübertragung oder Lizenz mit Schutzumfang beziehungsweise Kampagnenfassung abgeglichen.",
-      "Lieferanten-, Chargen- und Bestandsbelege gezielt nachfordern und betroffene Behörden- oder Händlerantwort vervollständigen lassen.",
-      "Gute konkrete Abschnitte beibehalten; keine zusätzliche Rechtsrecherche oder Live-Prüfung behauptet."
+      "Klimaneutral-Entscheidung unmittelbar auf Kampagnenkorrektur angewandt",
+      "Textilkennzeichnung und vegane Materialbehauptung von Klimawirkung getrennt",
+      "Anwendungswechsel 2026 als eigenständige Rechtsstandsfrage behandelt",
+      "Varianten- und Chargenzuordnung, begrenzter Zertifikatsnachweis, Werbeaussage und Veröffentlichungsdatum, Vorserie gegenüber Verkaufsausführung, Geheimnisnachweis sowie getrennte Kampagnenrechte, Produktion und Abverkauf."
     ],
-    "sha256": "7495f2ee63eaa30cae3c59e7cceba5b5fee8aadf6292bf76a0bdadcd6d77f586"
+    "sha256": "7cb6ceff76e1c5a8d108d9a3a14b40ac7808bf7dac0f5096fe14e7828d2a7bad"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-23",
+    "files": [
+      "fashion-law-moderecht/fashion-law-moderecht-schnellstart.md",
+      "fashion-law-moderecht/fashion-law-moderecht-werkstatt.md",
+      "fashion-law-moderecht/README.md",
+      "quality/evals/fashion-law-moderecht.json"
+    ],
+    "opening_change": "Artikelbezogene Etiketten, Zusammensetzung und Werbeaussage statt allgemeiner Mode-Lebenszyklus. Workflow-Ergänzung: Leer: Etikettenkorrektur, Kampagnenprüfung oder Nachahmungsabwehr anbieten. Dateien ohne Aufgabe: Stückliste, Produktvarianten und Rechtebelege still lesen; konkreten Kennzeichnungs-, Werbe- oder Anspruchstext klären. Klarer Auftrag: bestellte Produkttexte, Lizenz oder Erwiderung unmittelbar erstellen; kein pauschales Kollektionsaudit.",
+    "norms": [
+      "Paragraf 5 UWG",
+      "Artikel 5, 9, 12 und 16 Verordnung (EU) Nr. 1007/2011",
+      "Artikel 4 Absatz 1 Richtlinie (EU) 2024/825"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 27.06.2024, Az. I ZR 98/23, klimaneutral, amtliche Leitsätze",
+        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=138206&Blank=1.pdf",
+        "application": "Mehrdeutige Klimaneutralitätswerbung am Werbemittel selbst erklären; Reduktion und Kompensation nicht gleichsetzen.",
+        "limit": "Keine Entscheidung über jede vegane Materialangabe oder sämtliche ab September 2026 geltenden Regeln; Leitsätze amtlich indexiert, direkter Volltext nicht abrufbar."
+      }
+    ],
+    "remaining_limits": [
+      "Desk-/Quellenprüfung, kein Live-Ergebnistest.",
+      "BGH-Leitsätze geprüft; technische Nachweise zu Lieferkette und Produktpass nicht als vollständig verifiziert dargestellt.",
+      "Nationale Umsetzung und Anwendung der Richtlinie 2024/825 für den konkreten Werbetag gesondert prüfen.",
+      "Workflow-Review 23.09.2026: erneuter Abruf von Paragraf 38 DesignG nicht auswertbar; vorhandene Textil- und BGH-Leitsatznachweise erhalten. Nationale Anwendung der Richtlinie 2024/825 am Werbetag sowie Produktpass-/Lieferkettenpflichten nicht neu vollverifiziert."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Etikettenkorrektur, Kampagnenprüfung oder Nachahmungsabwehr anbieten.",
+      "Dateien ohne Aufgabe: Stückliste, Produktvarianten und Rechtebelege still lesen; konkreten Kennzeichnungs-, Werbe- oder Anspruchstext klären.",
+      "Klarer Auftrag: bestellte Produkttexte, Lizenz oder Erwiderung unmittelbar erstellen; kein pauschales Kollektionsaudit."
+    ],
+    "continuation": "Nur schwarze Variante hat Leder oder Kampagne wird auf bezahlte Werbung erweitert -> konkrete Artikelhinweise und Vegan-Aussage beziehungsweise Lizenzumfang und Freigabe ändern.",
+    "enrichment": "Varianten- und Chargenzuordnung, begrenzter Zertifikatsnachweis, Werbeaussage und Veröffentlichungsdatum, Vorserie gegenüber Verkaufsausführung, Geheimnisnachweis sowie getrennte Kampagnenrechte, Produktion und Abverkauf.",
+    "limits": "desk review; no live client execution"
   }
 }

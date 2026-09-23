@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "sozialversicherungsstatus-pruefer",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/sgb_4/__7.html",
@@ -12,15 +12,41 @@
       "url": "https://www.gesetze-im-internet.de/sgb_4/__7a.html",
       "checked_on": "2026-09-14",
       "supports": "Statusentscheidung nach Gesamtwürdigung; Antragsverfahren nicht bei bereits von zuständiger Stelle eingeleitetem Verfahren zur Feststellung von Versicherungspflicht aufgrund Beschäftigung."
+    },
+    {
+      "url": "https://www.bsg.bund.de/SharedDocs/Downloads/DE/Entscheidungen/2024/2024_11_05_B_12_BA_03_23_R.pdf?__blob=publicationFile&v=2",
+      "checked_on": "2026-09-22",
+      "supports": "Erneute Primärquellenprüfung: BSG, Urteil vom 05.11.2024, B 12 BA 3/23 R, Randnummern 13 bis 18, 31, 36 bis 38. Anwendung: Fachlich freier VHS-Dozent kann bei fremdbestimmter Organisation ohne gewichtige unternehmerische Chancen beschäftigt sein; tatsächliche Durchführung und Zeiträume gesondert würdigen. Grenze: Gesamtwürdigung übertragbar, Ergebnis nicht pauschal auf Berufe; spätere gesetzliche Lehrkräfte-Übergangsregel gesondert prüfen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/sgb_4/__7a.html",
+      "checked_on": "2026-09-22",
+      "supports": "Konkreter Erwerbsstatus, Ausschluss bereits anderweitig eingeleiteter Verfahren und besondere Vollziehungswirkung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/sgb_4/__127.html",
+      "checked_on": "2026-09-22",
+      "supports": "Amtlich gelesene aktuelle Lehrkräfte-Übergangsregel bis Ende 2027 mit Annahme der Selbstständigkeit, Zustimmung und gesonderter Absicherung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/sgb_4/__7a.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlichen Normtext zu Statusfeststellung, laufenden Verfahren und Drittbeziehungen gelesen; Prognose und tatsächliche Durchführung unterscheiden."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Mini vollständig zum Unterschied zwischen Vertrag, tatsächlicher Durchführung und Statusfolge gelesen; vorhandene Statusregeln erhalten.",
+    "reason": "Fachliche Startvarianten und konkrete Antwortfortsetzung einzeln geprüft. Geübte Vertretung, bloße Vertragsklausel und spätere Praxisänderung trennen; Organisation beim Dritten belegen; Lehrkraftzustimmung nicht fingieren; Status- und Beitragsbescheide mit eigenem Gegenstand und Vollziehungsbedarf behandeln.",
     "changes": [
-      "Gezielte Fragen zu Dienstplan, Vertretung und Satzung statt einmaligem Rückfragedeckel; nach Antwort Gewichtung und verlangtes Schreiben vervollständigen."
+      "Fachliche Freiheit von organisatorischer Eingliederung unterschieden; keine zwingende Kumulation mit Weisungen.",
+      "Lehrkräfte-Übergang nach aktuellem Paragraf 127 SGB IV bis Ende 2027 und Absicherung nach Absatz 2 ergänzt.",
+      "Leerstart: Einsatzgestaltung, Statusanhörung oder Beitragsforderung wählen.",
+      "Erstmals belegte eigene Vertretung ab Mai verändert diesen Zeitabschnitt und die Erwiderung; bekannt gewordenes laufendes Prüfverfahren verändert den vorgesehenen Antragsweg.",
+      "Geübte Vertretung, bloße Vertragsklausel und spätere Praxisänderung trennen; Organisation beim Dritten belegen; Lehrkraftzustimmung nicht fingieren; Status- und Beitragsbescheide mit eigenem Gegenstand und Vollziehungsbedarf behandeln."
     ],
-    "sha256": "bb0a83fa842eaa1ac18662f6f8c6211ccd30ecc7f82eaec40402c0443fe48f33"
+    "sha256": "5d73c5a6e30aadf16a5ce336263ae88d3deb9f92f967c582002b1af731085c58",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
   },
   "selection": {
     "positive": [
@@ -68,10 +94,54 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt vollständig einschließlich Geschäftsführer-, Lehrkräfte-, Plattform- und Familienkonstellationen geprüft; generische Doppelrouten und zu enge Darstellung gesellschaftsrechtlicher Rechtsmacht bereinigt.",
+    "reason": "Vollständige Werkstatt mit zusätzlichen fachlichen Entscheidungs- und Dokumentwegen einzeln geprüft. Geübte Vertretung, bloße Vertragsklausel und spätere Praxisänderung trennen; Organisation beim Dritten belegen; Lehrkraftzustimmung nicht fingieren; Status- und Beitragsbescheide mit eigenem Gegenstand und Vollziehungsbedarf behandeln.",
     "changes": [
-      "Status, Versicherungspflicht und Beitragsfolgen getrennt; tatsächliche Durchführung und Mehrheits- beziehungsweise Sperrrechte konkret prüfen, vorhandene Entscheidungen nicht als frisch verifizierte Volltexte ausgeben."
+      "Kundenbeziehung, Einsatzsteuerung und Verdienstchancen als zu belegende Faktoren herausgearbeitet.",
+      "B 12 BA 3/23 R verlangt eigene Feststellungen für Folgezeiträume; keine automatische Berufsgruppenregel.",
+      "Ungeprüfte alte Fallliste entfernt; Geschäftsführer, Beiträge und Rechtsschutz bleiben eigenständige Prüfwege.",
+      "Leerstart: Einsatzgestaltung, Statusanhörung oder Beitragsforderung wählen.",
+      "Erstmals belegte eigene Vertretung ab Mai verändert diesen Zeitabschnitt und die Erwiderung; bekannt gewordenes laufendes Prüfverfahren verändert den vorgesehenen Antragsweg.",
+      "Geübte Vertretung, bloße Vertragsklausel und spätere Praxisänderung trennen; Organisation beim Dritten belegen; Lehrkraftzustimmung nicht fingieren; Status- und Beitragsbescheide mit eigenem Gegenstand und Vollziehungsbedarf behandeln."
     ],
-    "sha256": "37144ce2facdfa95a4043bdd9d2dd198d2e4410cd2aff5c020f86109aceb2a5b"
+    "sha256": "04c316a823c48ef9c4a9b9db1e2b591e4f49e9872ae7ed44869cc9248cb82f8e",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "sozialversicherungsstatus-pruefer/sozialversicherungsstatus-pruefer-werkstatt.md",
+      "sozialversicherungsstatus-pruefer/sozialversicherungsstatus-pruefer-schnellstart.md"
+    ],
+    "opening_change": "Unternehmerische Spielräume und fremde Einsatzorganisation anhand tatsächlicher Vertragsdurchführung je Zeitraum beurteilen.",
+    "norms": [
+      "Paragrafen 7, 7a, 28e, 28p und 127 SGB IV",
+      "Paragraf 2 SGB VI"
+    ],
+    "decisions": [
+      {
+        "citation": "BSG, Urteil vom 05.11.2024, B 12 BA 3/23 R, Randnummern 13 bis 18, 31, 36 bis 38",
+        "url": "https://www.bsg.bund.de/SharedDocs/Downloads/DE/Entscheidungen/2024/2024_11_05_B_12_BA_03_23_R.pdf?__blob=publicationFile&v=2",
+        "application": "Fachlich freier VHS-Dozent kann bei fremdbestimmter Organisation ohne gewichtige unternehmerische Chancen beschäftigt sein; tatsächliche Durchführung und Zeiträume gesondert würdigen.",
+        "limit": "Gesamtwürdigung übertragbar, Ergebnis nicht pauschal auf Berufe; spätere gesetzliche Lehrkräfte-Übergangsregel gesondert prüfen."
+      }
+    ],
+    "remaining_limits": [
+      "Desk-/Primärquellenprüfung ohne Live-Modelltest.",
+      "Kein vollständiger neuer Rechtsprechungscheck zu Geschäftsführern, Plattformen, Beitragsverjährung oder Strafrisiken; konkrete Fälle bleiben gesondert zu prüfen.",
+      "Workflow-Vertiefung 2026-09-23: Vorhandene zeitliche Sonderregel des Paragrafen 127 SGB IV und BSG B 12 BA 3/23 R unverändert mit ihren Grenzen erhalten; nicht alle Versicherungssätze, Tätigkeitsgruppen und Übergangsregeln neu verifiziert. Desk review; keine Live-Client-Ausführung."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leerstart: Einsatzgestaltung, Statusanhörung oder Beitragsforderung wählen.",
+      "Dateien: Vertrag, Praxisbelege und Bescheid still lesen und Votum oder Erwiderung als Ziel klären.",
+      "Klarer Auftrag: gewogenes Statusvotum oder konkrete Beitragsgegenrechnung ohne pauschalen Fragebogen schreiben."
+    ],
+    "continuation": "Erstmals belegte eigene Vertretung ab Mai verändert diesen Zeitabschnitt und die Erwiderung; bekannt gewordenes laufendes Prüfverfahren verändert den vorgesehenen Antragsweg.",
+    "enrichment": "Geübte Vertretung, bloße Vertragsklausel und spätere Praxisänderung trennen; Organisation beim Dritten belegen; Lehrkraftzustimmung nicht fingieren; Status- und Beitragsbescheide mit eigenem Gegenstand und Vollziehungsbedarf behandeln.",
+    "limits": "desk review; no live client execution"
   }
 }

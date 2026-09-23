@@ -1,21 +1,54 @@
 {
   "schema_version": 1,
   "plugin": "kanzlei-allgemein",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/zpo/__130a.html",
       "checked_on": "2026-09-14",
       "supports": "Absatz 5: Speicherung auf der gerichtlichen Empfangseinrichtung und automatisierte Eingangsbestätigung; ein lokaler Versandstatus ist damit nicht gleichzusetzen."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2020/VIII_ZB___9-20.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Beschluss vom 11.05.2021, VIII ZB 9/20: Randnummern 18, 21 bis 24 und 41 bis 54: Gerichtseingang und konkrete organisatorische Kontrolle der automatisierten Bestätigung; fehlender Nachweis verlangt rechtzeitige Klärung. Grenze: Eingangsbestätigung ersetzt weder Inhalts- noch Formprüfung; bloß fehlende Bestätigung beweist noch keine Verspätung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__130a.html",
+      "checked_on": "2026-09-22",
+      "supports": "Amtlicher Wortlaut geprüft: Elektronischer Gerichtseingang nach Absatz 5 und automatisierte Eingangsbestätigung; Form- und Übermittlungswegprüfung bleiben eigenständig."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__85.html",
+      "checked_on": "2026-09-22",
+      "supports": "Amtlicher Wortlaut geprüft: Zurechnung anwaltlichen Verschuldens nach Absatz 2, nicht pauschale Zurechnung jedes Mitarbeiterfehlers."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__233.html",
+      "checked_on": "2026-09-22",
+      "supports": "Amtlicher Wortlaut geprüft: Wiedereinsetzung setzt unverschuldete Fristversäumung im gesetzlichen Anwendungsbereich voraus; bloßer Technikhinweis ersetzt keine konkrete Darlegung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__407a.html",
+      "checked_on": "2026-09-22",
+      "supports": "Amtlicher Wortlaut geprüft: Absatz 3: persönliche Gutachterleistung, keine Übertragung des Auftrags; Mitarbeit mit Benennung und Umfang von Hilfsdiensten untergeordneter Bedeutung abgrenzen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__130a.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlicher Wortlaut erneut gelesen: Form, Übermittlungsweg und Eingang nach Absatz 5 getrennt; Bestätigung einer Nachricht ersetzt keinen Abgleich der tatsächlich übermittelten Dokumente."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der vollständig gelesene Schnellstart führt vom vorhandenen Post-, Frist- oder Gebührenauftrag zum bestellten Dokument, ohne eine abgeschlossene Mandatsaufnahme zu wiederholen.",
+    "reason": "Kernfall beA erhält einen operativen Kontrollmaßstab einschließlich Verantwortlichem und Reaktionsreserve. Vollständige Text- und gezielte Primärquellenprüfung; kein Live-Mandanten- oder Modelltest.",
     "changes": [
-      "Nach Eingang von Zustellungsbeleg, Vertretungsbestätigung oder Gebührennachweis werden die betroffenen Fristen und Schreiben fortgeführt; Versandstatus und gerichtlicher Eingang bleiben getrennt."
+      "VIII ZB 9/20 in beiden Versandkontrollen verankert.",
+      "Eingang, Formprüfung und behauptete Fristversäumung getrennt.",
+      "Paragraf 407a Absatz 3 ZPO zutreffend zugeordnet; keine allgemeine KI-Kennzeichnungspflicht erfunden.",
+      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt."
     ],
-    "sha256": "2d508b3651c0c45c76a6bf0a1d7b077039bb377797b92d69a01c0b5f7e02e15c"
+    "sha256": "9e8a52bc917bb605b0ee79013653f98e5a5a2b432a650cadaae8d090f8443dd8"
   },
   "selection": {
     "positive": [
@@ -63,10 +96,53 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die gesamte Werkstatt einschließlich Versandkontrolle, Abrechnung und Abschluss wurde gelesen. Aufgabenverteilung ersetzt weder Eingangsnachweis noch Freigabe; eine fehlende Bestätigung beendet die Fristenkontrolle nicht.",
+    "reason": "Organisationsverschulden und Wiedereinsetzung an konkrete Kontrollanweisungen gebunden; alte unscharfe Zustellungs- und Sachverständigenverweise bereinigt. Vollständige Text- und gezielte Primärquellenprüfung; kein Live-Mandanten- oder Modelltest.",
     "changes": [
-      "Die fachlichen Arbeitswege führen nach ergänzten Nachweisen zum Versandvermerk, zur Rechnung oder zum beauftragten Schreiben; interne Quellenprüfung bleibt außerhalb des Mandantenbriefs."
+      "VIII ZB 9/20 in beiden Versandkontrollen verankert.",
+      "Eingang, Formprüfung und behauptete Fristversäumung getrennt.",
+      "Paragraf 407a Absatz 3 ZPO zutreffend zugeordnet; keine allgemeine KI-Kennzeichnungspflicht erfunden.",
+      "Fristdruck bei widersprüchlichen Empfangsangaben, tatsächliche Vertretungsübernahme, versandte gegen freigegebene Fassung, konkrete Mandantenentscheidung sowie Honorar, Fremdgeld und Abschlussreste als ausführbare Dokumentwege vertieft."
     ],
-    "sha256": "42ee9432dc946904d0e8241b8df01a084e4fa05391e4336ba4f6b7a17a4fce0c"
+    "sha256": "35c21aee7fe1481764ade7eae01982c364ad0689d6060caec833bd5c0e3bf6bb"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "kanzlei-allgemein/kanzlei-allgemein-werkstatt.md",
+      "kanzlei-allgemein/kanzlei-allgemein-schnellstart.md",
+      "kanzlei-allgemein/README.md",
+      "quality/evals/kanzlei-allgemein.json"
+    ],
+    "opening_change": "Konkrete Fristen- und Eingangskontrolle oder Abgleich des Gebührenauftrags statt allgemeiner Kanzleibearbeitung.",
+    "norms": [
+      "ZPO Paragraf 130a Absätze 2, 3 und 5",
+      "ZPO Paragrafen 85 Absatz 2 und 233",
+      "ZPO Paragraf 407a Absatz 3"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Beschluss vom 11.05.2021, VIII ZB 9/20",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2020/VIII_ZB___9-20.pdf?__blob=publicationFile&v=1",
+        "application": "Randnummern 18, 21 bis 24 und 41 bis 54: Gerichtseingang und konkrete organisatorische Kontrolle der automatisierten Bestätigung; fehlender Nachweis verlangt rechtzeitige Klärung.",
+        "limit": "Eingangsbestätigung ersetzt weder Inhalts- noch Formprüfung; bloß fehlende Bestätigung beweist noch keine Verspätung."
+      }
+    ],
+    "remaining_limits": [
+      "Desk-/Quellenprüfung, kein Live-Mandanten- oder Modelltest.",
+      "Gebühren-, Aufbewahrungs- und andere Verfahrensordnungen nicht vollständig neu verifiziert.",
+      "Workflow-Ergänzung am 2026-09-23: individuelle Textprüfung, keine erneute Gesamtverifikation der bestehenden Entscheidungsanker; deren dokumentierte Quellen- und Zugriffsgrenzen bleiben bestehen."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Frist- und Versandkontrolle, Mandantenbrief oder Honorarabgleich anbieten.",
+      "Dateien ohne Auftrag: Eingang, Fassungen und Versandmappe still lesen; Gerichtseingang oder konkrete Freigabelücke zur Auswahl stellen.",
+      "Klarer Auftrag: das bestellte Kanzleidokument unmittelbar fertigstellen, ohne bestehende Mandatsaufnahme zu wiederholen."
+    ],
+    "continuation": "Bestätigung nur für Anlagen -> Hauptdokument weiter als ungeklärt führen und zweite Nachricht prüfen; begrenzte Vergleichsfreigabe -> Abgeltungsklausel und Begleitbrief entsprechend beschränken.",
+    "enrichment": "Fristdruck bei widersprüchlichen Empfangsangaben, tatsächliche Vertretungsübernahme, versandte gegen freigegebene Fassung, konkrete Mandantenentscheidung sowie Honorar, Fremdgeld und Abschlussreste als ausführbare Dokumentwege vertieft.",
+    "limits": "desk review; no live client execution"
   }
 }

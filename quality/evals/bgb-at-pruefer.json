@@ -1,8 +1,162 @@
 {
-  "schema_version":1,"plugin":"bgb-at-pruefer","reviewed_on":"2026-09-17",
-  "sources":[{"url":"https://www.gesetze-im-internet.de/bgb/__177.html","checked_on":"2026-09-14","supports":"Genehmigungsabhängigkeit vollmachtlos geschlossener Verträge und Aufforderungsregel."},{"url":"https://www.gesetze-im-internet.de/bgb/__179.html","checked_on":"2026-09-14","supports":"Differenzierte Vertreterhaftung und Ausschluss bei Kenntnis des Vertragspartners."}],
-  "mini_review":{"sha256":"5c06c5f4fa0e59afd81a924db0b602c74563488558abf5226dd4495291b3ed6e","verdict":"revised","reason":"Der vollständig geprüfte Mini führt fehlende Zugangs- oder Vollmachtsnachweise bereits über konkrete Fragen zur aktualisierten Erklärungskette und zum bestellten Gutachten oder Schreiben. Diese Fassung bleibt nach erneuter Lektüre unverändert.","changes":["Erklärungskette, Zugang und Form vor Rechtsfolgen geordnet.","Schwebende Unwirksamkeit und Vertreterhaftung getrennt.","Fortsetzung nach gezielter Nachforderung in der vorhandenen Überarbeitung geprüft und beibehalten."]},
-  "workshop_review":{"verdict":"revised","reason":"Die Ganztextprüfung zeigte Pflichtmatrizen und wiederholte Praxisrouten, die dem bereits richtigen Auftragseinstieg widersprachen. Die Fachfragen sind nun nach Erklärung, Person, Form, Anfechtung und Anspruchsfolge geordnet.","changes":["Fehlenden Nachweis von bewiesenem Nichtzugang oder fehlender Vollmacht getrennt und die Fortsetzung bis zum Dokument erhalten.","Bedingungen, Minderjährigengeschäfte, Schweigen, Formheilung und AGB in konkrete Prüfabschnitte integriert; keine pauschale Tabellenpflicht.","Pauschalen Ausschluss der Heilung bei Bürgschaften entfernt; die konkrete Spezialnorm ist zu prüfen."],"sha256":"b78f403006f9078b0f3855b2e75b2de1663f9649c5db2a6d6862d4fc09d6e1f4"},
-  "selection":{"positive":["Prüfen Sie einen Vertrag, den ein Mitarbeiter erkennbar ohne Vollmacht für uns geschlossen hat.","Bewerten Sie Zugang und Wirksamkeit einer Anfechtungserklärung nach einem Eingabefehler."],"negative":["Berechnen Sie ausschließlich den werkvertraglichen Vorschuss für eine bereits belegte Mangelbeseitigung.","Prüfen Sie die Rechtmäßigkeit eines kommunalen Gebührenbescheids."]},
-  "cases":[{"id":"bekannte-vollmachtlosigkeit","request":"Mitarbeiter Jonas bestellt ausdrücklich im Namen der Nord GmbH bei der Süd GmbH eine Maschine für 18000 Euro. Er erklärt vor Unterzeichnung: Ich habe hierfür keine Vollmacht; die Geschäftsführung muss noch genehmigen. Süd unterschreibt dennoch. Es gibt weder frühere entsprechende Geschäfte noch eine Vollmachtsurkunde oder ein Verhalten der Geschäftsführung, das auf Vollmacht hindeutet. Die Geschäftsführung verweigert gegenüber Süd am nächsten Tag ausdrücklich die Genehmigung. Süd verlangt nun wahlweise Kaufpreiszahlung von Nord oder persönlich von Jonas. Die Maschine wurde nicht geliefert, Aufwendungen werden nicht behauptet. Prüfen Sie beide Forderungen in einem kurzen Gutachten und formulieren Sie eine Antwort für Nord.","input_files":[],"deliverables":["ergebnis.md"],"criteria":[{"id":"C01","text":"Das Gutachten unterscheidet die zunächst genehmigungsabhängige Wirksamkeit vom Zustand nach ausdrücklicher Verweigerung und begründet daraus keine Kaufpreisbindung der Nord GmbH.","deliverables":["ergebnis.md"]},{"id":"C02","text":"Eine persönliche Haftung nach Paragraf 179 BGB wird unter Berücksichtigung der ausdrücklichen Kenntnis von Süd geprüft und nicht automatisch allein wegen verweigerter Genehmigung bejaht.","deliverables":["ergebnis.md"]},{"id":"C03","text":"Das Ergebnis erfindet keine Duldungs- oder Anscheinsvollmacht entgegen den vorgegebenen Tatsachen und formuliert eine konsistente Ablehnung der an Nord gerichteten Zahlungsforderung.","deliverables":["ergebnis.md"]}],"target_skill":"stellvertretung-routing-paragraphen-164-181"}]
+  "schema_version": 1,
+  "plugin": "bgb-at-pruefer",
+  "reviewed_on": "2026-09-23",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__177.html",
+      "checked_on": "2026-09-14",
+      "supports": "Genehmigungsabhängigkeit vollmachtlos geschlossener Verträge und Aufforderungsregel."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__179.html",
+      "checked_on": "2026-09-14",
+      "supports": "Differenzierte Vertreterhaftung und Ausschluss bei Kenntnis des Vertragspartners."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2009/VIII_ZR_289-09.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 11.05.2011, VIII ZR 289/09, Rn. 12–19: Fremdes Nutzerkonto führt nur bei Vollmacht, Genehmigung oder zurechenbarem Rechtsschein zur Vertragsbindung; Passwortschutzmangel allein reicht nicht. Grenze: eBay-Vertragszurechnung, keine allgemeine Aussage zur deliktischen Haftung oder jeder heutigen Authentifizierungstechnik."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__177.html",
+      "checked_on": "2026-09-22",
+      "supports": "Genehmigung und Zweiwochenfrist nach Aufforderung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__179.html",
+      "checked_on": "2026-09-22",
+      "supports": "Vertreterhaftung und Ausschluss bei Kenntnis oder Kennenmüssen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__130e.html",
+      "checked_on": "2026-09-22",
+      "supports": "Formfiktion einschließlich Ausschluss elektronischer Ersetzung; gerichtliche Zustellung/Mitteilung erforderlich."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/arbgg/__46h.html",
+      "checked_on": "2026-09-22",
+      "supports": "Entsprechende Formfiktion im Arbeitsprozess."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__121.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlicher Normtext über Primärquellensuche gelesen: unverzüglich nach Kenntnis statt frei gewählter Wochenfrist bei den erfassten Irrtumsfällen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__124.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlicher Normtext über Primärquellensuche gelesen: Jahresfrist mit eigenem Beginn bei Täuschung oder Drohung; nicht mit Paragraf 121 gleichsetzen."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Gesamten eigenständigen Mini gelesen; Vertragsbindung und konkrete Erklärung ersetzen abstrakten AT-Einstieg. Vertreterzurechnung und Anfechtungsfristen sind mit klaren gesetzlichen Voraussetzungen beschrieben. Individuelle redaktionelle Prüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert.",
+    "changes": [
+      "VIII ZR 289/09 auf Vollmacht, Genehmigung und konkreten Rechtsschein bezogen.",
+      "130e ZPO und 46h ArbGG einschließlich gerichtlicher Zustellung/Mitteilung und ausgeschlossener elektronischer Ersetzung ergänzt.",
+      "Irrtums- und Täuschungsanfechtung samt Fristen und Vertrauensschaden getrennt.",
+      "Leer: Vertragsschluss, Vollmacht oder Anfechtung. Dateien: still lesen und Wirksamkeitsgutachten oder Erklärungstext anbieten. Klar: direkt bestelltes Gutachten oder Schreiben erstellen.",
+      "Verweigerte Genehmigung ändert Wirksamkeitszustand und Antwort; neue Täuschungsangabe ändert Tatbestands- und Fristprüfung."
+    ],
+    "sha256": "319a40a62b4e2aec4e5f026702e8ce04bf437f5e6db1ffec0c96a7c286c4d2ce"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Alle Personen-, Vertrags-, Form-, Anfechtungs- und Anschlussabschnitte gelesen. Fremde Kontonutzung mit tatsächlichen Rechtsscheinmerkmalen geprüft; pauschaler Gegensatz zwischen Prozessübermittlung und materieller Form um die aktuelle Formfiktion ergänzt. Individuelle redaktionelle Prüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen.",
+    "changes": [
+      "VIII ZR 289/09 auf Vollmacht, Genehmigung und konkreten Rechtsschein bezogen.",
+      "130e ZPO und 46h ArbGG einschließlich gerichtlicher Zustellung/Mitteilung und ausgeschlossener elektronischer Ersetzung ergänzt.",
+      "Irrtums- und Täuschungsanfechtung samt Fristen und Vertrauensschaden getrennt.",
+      "Geänderte Annahme, Genehmigungsaufforderung, Irrtum/Täuschung, gerichtlicher Formweg und Minderjährigenzahlung vertieft.",
+      "Verweigerte Genehmigung ändert Wirksamkeitszustand und Antwort; neue Täuschungsangabe ändert Tatbestands- und Fristprüfung."
+    ],
+    "sha256": "5cc10d67abd92b7a39692963399b2ddc0992dcb6049ddd5b3948edfc9f3abab3"
+  },
+  "selection": {
+    "positive": [
+      "Prüfen Sie einen Vertrag, den ein Mitarbeiter erkennbar ohne Vollmacht für uns geschlossen hat.",
+      "Bewerten Sie Zugang und Wirksamkeit einer Anfechtungserklärung nach einem Eingabefehler."
+    ],
+    "negative": [
+      "Berechnen Sie ausschließlich den werkvertraglichen Vorschuss für eine bereits belegte Mangelbeseitigung.",
+      "Prüfen Sie die Rechtmäßigkeit eines kommunalen Gebührenbescheids."
+    ]
+  },
+  "cases": [
+    {
+      "id": "bekannte-vollmachtlosigkeit",
+      "request": "Mitarbeiter Jonas bestellt ausdrücklich im Namen der Nord GmbH bei der Süd GmbH eine Maschine für 18000 Euro. Er erklärt vor Unterzeichnung: Ich habe hierfür keine Vollmacht; die Geschäftsführung muss noch genehmigen. Süd unterschreibt dennoch. Es gibt weder frühere entsprechende Geschäfte noch eine Vollmachtsurkunde oder ein Verhalten der Geschäftsführung, das auf Vollmacht hindeutet. Die Geschäftsführung verweigert gegenüber Süd am nächsten Tag ausdrücklich die Genehmigung. Süd verlangt nun wahlweise Kaufpreiszahlung von Nord oder persönlich von Jonas. Die Maschine wurde nicht geliefert, Aufwendungen werden nicht behauptet. Prüfen Sie beide Forderungen in einem kurzen Gutachten und formulieren Sie eine Antwort für Nord.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Das Gutachten unterscheidet die zunächst genehmigungsabhängige Wirksamkeit vom Zustand nach ausdrücklicher Verweigerung und begründet daraus keine Kaufpreisbindung der Nord GmbH.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Eine persönliche Haftung nach Paragraf 179 BGB wird unter Berücksichtigung der ausdrücklichen Kenntnis von Süd geprüft und nicht automatisch allein wegen verweigerter Genehmigung bejaht.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Das Ergebnis erfindet keine Duldungs- oder Anscheinsvollmacht entgegen den vorgegebenen Tatsachen und formuliert eine konsistente Ablehnung der an Nord gerichteten Zahlungsforderung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "stellvertretung-routing-paragraphen-164-181"
+    }
+  ],
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Vertragsschluss, Vollmacht oder Anfechtung.",
+      "Dateien: still lesen und Wirksamkeitsgutachten oder Erklärungstext anbieten.",
+      "Klar: direkt bestelltes Gutachten oder Schreiben erstellen."
+    ],
+    "continuation": "Verweigerte Genehmigung ändert Wirksamkeitszustand und Antwort; neue Täuschungsangabe ändert Tatbestands- und Fristprüfung.",
+    "enrichment": "Geänderte Annahme, Genehmigungsaufforderung, Irrtum/Täuschung, gerichtlicher Formweg und Minderjährigenzahlung vertieft.",
+    "limits": "desk review; no live client execution"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "bgb-at-pruefer/bgb-at-pruefer-schnellstart.md",
+      "bgb-at-pruefer/bgb-at-pruefer-werkstatt.md",
+      "bgb-at-pruefer/README.md",
+      "quality/evals/bgb-at-pruefer.json"
+    ],
+    "opening_change": "Vertragsbindung aus dokumentierter Erklärung, Zugang und Zurechnung statt allgemeinem Prüfauftrag.",
+    "norms": [
+      "Paragrafen 119 bis 124 und 142 bis 144 BGB",
+      "Paragrafen 125 bis 129 BGB",
+      "Paragrafen 164, 177 und 179 BGB",
+      "Paragrafen 130a und 130e ZPO",
+      "Paragrafen 46c und 46h ArbGG"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 11.05.2011, VIII ZR 289/09, Rn. 12–19",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2009/VIII_ZR_289-09.pdf?__blob=publicationFile&v=1",
+        "application": "Fremdes Nutzerkonto führt nur bei Vollmacht, Genehmigung oder zurechenbarem Rechtsschein zur Vertragsbindung; Passwortschutzmangel allein reicht nicht.",
+        "limit": "eBay-Vertragszurechnung, keine allgemeine Aussage zur deliktischen Haftung oder jeder heutigen Authentifizierungstechnik."
+      }
+    ],
+    "remaining_limits": [
+      "Desk- und Quellenreview, kein Live-Modelltest.",
+      "Aktuelle Spezialnormen zu digitalen Reparaturrechten nicht insgesamt neu geprüft; keine Aussage, dass jedes elektronisch übersandte Dokument formgerecht sei.",
+      "Workflow-Anschlussprüfung 23.09.2026: individuelle Text- und Quellenprüfung, keine Live-Client-Ausführung. Frühere Entscheidungsprüfungen und ihre Reichweitengrenzen bleiben unverändert; keine erneute vollständige Rechtsprechungsprüfung behauptet. Paragraf 177 BGB im Anschlussabruf nicht erreichbar; vorhandener verifizierter Prüfstand zur Genehmigung bleibt erhalten. Paragrafen 121 und 124 über amtliche Suchtreffer gelesen."
+    ]
+  }
 }

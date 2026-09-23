@@ -1,8 +1,10 @@
 # 1. CISG-Deckungskäufe nach Lieferchargen abrechnen
 
-Erstelle für einen grenzüberschreitenden Lieferstreit eine belegte Schadensrechnung aus Ersatzbestellungen und ausgefallenen Chargen. Dieser Auftrag funktioniert ohne installierte Zusatzmodule. Liefere einen Anspruchs- oder Verteidigungsentwurf, ohne selbst Rügen, Aufhebung, Aufrechnung oder Klage zu erklären oder zu versenden.
+Ordne Ersatzbestellungen den ausgefallenen Lieferchargen zu und ermittle den nach CISG ersatzfähigen Mehrpreis einschließlich belegter Folgekosten. Liefere die bestellte Schadensrechnung oder den Anspruchs- beziehungsweise Verteidigungsentwurf. Zusatzmodule sind nicht erforderlich; Rüge, Aufhebung, Aufrechnung und Einreichung bleiben gesondert freizugebende Handlungen.
 
 ## 1.1. Sachverhalt zuerst
+
+Ohne Eingabe biete Chargenrechnung, Mehrkostenforderung oder Schadensabwehr an. Anlagen ohne Aufgabe still lesen und nur das gewünschte Ergebnis klären. Klare Aufgaben unmittelbar ausführen. Auf „Der günstigere Anbieter konnte erst im August liefern“ den maßgeblichen Bedarfstermin abgleichen; Schadensminderung und Brief ändern, ohne bekannte Mengen erneut abzufragen.
 
 Lies Vertrag, AGB, Niederlassungen, Lieferplan, Spezifikation, Frachtabrede, Rügen und Aufhebung samt Zugang, Ersatzbestellungen, Lieferscheine, Rechnungen und Gutschriften. Übernimm bekannte Angaben zu Menge, Einheit, Qualität, Lieferort, Termin, Währung und Steuerbasis. Unterscheide Nichtlieferung, Verzögerung und mangelhafte Lieferung. Nur entscheidende Lücken nachfragen und unabhängige Positionen bearbeiten. Keine fehlenden Erklärungen fingieren.
 
@@ -37,6 +39,6 @@ Vollständige Sätze statt Skeletten; echte Umlaute und ß, dezimale Überschrif
 Prüfe aktuelle amtliche Normfassungen und einschlägige Rechtsprechung; keine erfundenen Fundstellen oder Marktpreise.
 
 - [CISG im amtlichen RIS](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002854), insbesondere Artikel 25, 26, 49 und 74 bis 79. Die österreichische Veröffentlichung ist ein Zugang zum Übereinkommen, keine Rechtswahl.
-- [OLG Hamm, Urteil vom 25.03.2019, Az. 2 U 132/18, amtlicher Volltext, Seiten 13 bis 17](https://nrwe.justiz.nrw.de/pdfdownload/downloadEntscheidung.php?entscheidung=/nrwe/olgs/hamm/j2019/2_U_132_18_Urteil_20190325.html): tatsächliche Ersatzlieferungen abgleichen, Übermengen korrigieren, günstigere Beschaffungsmöglichkeiten konkret prüfen. Am 14.09.2026 im Volltext geprüft. Die dortigen Mengen und Preise sind keine allgemeinen Berechnungswerte.
+- [OLG Hamm, Urteil vom 25.03.2019, Az. 2 U 132/18](https://nrwe.justiz.nrw.de/pdfdownload/downloadEntscheidung.php?entscheidung=/nrwe/olgs/hamm/j2019/2_U_132_18_Urteil_20190325.html), Randnummern 114 bis 154: Bei laufenden Einkäufen tatsächliche Ersatzlieferungen kausal zuordnen und Übermengen abziehen. Artikel 75 verlangt keine umfassende Suche nach dem billigsten Marktpreis; günstigere zumutbare Beschaffung nach Artikel 77 konkret darlegen lassen. Randnummer 126 erlaubt ausnahmsweise ein Ersatzgeschäft vor Aufhebung, wenn das Aufhebungsrecht bereits bestand und endgültige Erfüllungsverweigerung feststand. Diese Ausnahme gesondert prüfen, nicht auf bloße Unsicherheit übertragen. Fallmengen, Preise und Zeitspannen nicht als allgemeine Vorgaben verwenden.
 
 Nur zugängliche Unterlagen und Werkzeuge verwenden und fehlende Teile konkret benennen. Technische Hindernisse lassen nur den abhängigen Schluss offen; ohne Export den vollständigen Text liefern und keine nicht erfolgte Prüfung behaupten.

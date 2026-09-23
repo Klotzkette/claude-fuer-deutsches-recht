@@ -1,6 +1,10 @@
 # 1. Sozialversicherungsstatus: Schnellstart
 
-Prüfe ein bestimmtes Auftragsverhältnis und einen bestimmten Zeitraum anhand der tatsächlichen Arbeit. Lies Vertrag, Leistungsbeschreibung, Abrechnung, Dienstpläne, Weisungen und vorhandene Bescheide zuerst. Liefere Statusmatrix, Anhörungserwiderung oder Beitragsrisikovermerk entsprechend dem Auftrag.
+Prüfe, ob der Auftragnehmer im streitigen Einsatz eigene unternehmerische Spielräume nutzte oder in fremde Arbeitsabläufe eingegliedert war. Lies zuerst Vertrag, Leistungsbeschreibung, Abrechnung, Einsatzpläne, Weisungen und Bescheide. Begründe das bestellte Statusvotum oder die Erwiderung anhand der tatsächlichen Arbeit im jeweiligen Zeitraum.
+
+Ohne Eingabe frage: „Geht es um die tatsächliche Einsatzgestaltung, eine Statusanhörung oder eine Beitragsforderung?“ Bei Dateien ohne Auftrag lies sie still und biete nur passende Wege an, etwa Statusvotum oder Bescheiderwiderung; keine Vertragszusammenfassung voranstellen. Bei klarem Auftrag direkt schreiben und nur ergebnisentscheidende Lücken klären. Standalone genügen die hier verfügbaren Angaben; andere Dateien oder Werkzeuge nicht voraussetzen.
+
+„Die Vertretung wurde im Mai erstmals genutzt“ führt zur Prüfung, wer Ersatz auswählte, bezahlte und ablehnen konnte. Überarbeite den Mai-Zeitraum und die betreffende Passage der Erwiderung; schreibe nicht automatisch die gesamte Vergangenheit um. Eine Antwort ist Fortsetzung, kein neuer Fragebogen.
 
 ## 1.1. Konkretes Verhältnis statt Berufslabel
 
@@ -12,7 +16,9 @@ Paragraf 7 SGB IV nennt Weisungsgebundenheit und Eingliederung als Anhaltspunkte
 
 Vergleiche Vereinbarung, tatsächliche Praxis und Beleg für jedes entscheidende Indiz und begründe dessen Gewicht samt Gegenargument. Eine Tabelle nur verwenden, wenn sie den Vergleich erleichtert. Prüfe Zeit- und Ortsvorgaben, Arbeitsorganisation, Austauschbarkeit, eigene Preisgestaltung, Ausfallrisiko, Personal und Betriebsmittel. Ein hoher Stundensatz allein macht keine unternehmerische Tätigkeit.
 
-Bei Geschäftsführern gesellschaftsrechtlich durchsetzbare Rechtsmacht anhand der Satzung prüfen, nicht nur familiären Einfluss oder tatsächliche Rücksichtnahme. Bei Lehrkräften einschlägiges Übergangsrecht zeitbezogen gesondert prüfen; eine Übergangsregel nicht als allgemeines Statusurteil verstehen.
+BSG, Urteil vom 05.11.2024, B 12 BA 3/23 R, Randnummern 13 bis 18 und 36 bis 38 ([Volltext](https://www.bsg.bund.de/SharedDocs/Downloads/DE/Entscheidungen/2024/2024_11_05_B_12_BA_03_23_R.pdf?__blob=publicationFile&v=2)): Auch fachliche Freiheit eines VHS-Dozenten schließt Beschäftigung nicht aus, wenn fremde Organisation ohne gewichtige unternehmerische Chancen und Risiken überwiegt. Weisungen und Eingliederung müssen nicht kumulativ vorliegen. Prüfe deshalb Kundenbeziehung, Einsatzsteuerung und echte Gestaltungsmöglichkeiten; keine Berufsgruppenregel oder automatische Übertragung auf IT-Aufträge ableiten.
+
+Bei Geschäftsführern gesellschaftsrechtlich durchsetzbare Rechtsmacht anhand der Satzung prüfen, nicht nur familiären Einfluss. Bei Lehrkräften Paragraf 127 SGB IV gesondert prüfen: Übereinstimmende Annahme der Selbstständigkeit bei Vertragsschluss und erforderliche Zustimmung können die Beschäftigtenversicherung bis Ende 2027 ausschließen beziehungsweise auf den 1. Januar 2028 verschieben. Voraussetzungen, Feststellungsstand und Zustimmung belegen; kein allgemeines Statusprivileg. Die Absicherung als selbstständiger Lehrer oder nach KSVG gemäß Absatz 2 gesondert prüfen.
 
 Selbstständigkeit und Versicherungspflicht als Selbstständiger unterscheiden. Die Frage nach Rentenversicherungspflicht nach Paragraf 2 SGB VI bleibt auch bei verneinter Beschäftigung möglich.
 

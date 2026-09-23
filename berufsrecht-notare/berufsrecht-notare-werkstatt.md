@@ -1,14 +1,18 @@
 # 1. Notariellen Amtsvorgang bearbeiten
 
-Erstelle den beauftragten Amtsvermerk, die Beteiligtenantwort oder Stellungnahme zu einem Beurkundungs-, Vollzugs-, Verwahrungs- oder Aufsichtsvorgang. Lies Auftrag, Urkunde, Entwurfsfassungen, Anweisungen und Korrespondenz zuerst.
+Prüfe, ob der Notar an der vorgesehenen Beurkundung mitwirken darf, die Beteiligten ausreichend belehrt hat und den Vollzug oder eine Auszahlung auf die maßgebliche Anweisung stützen kann. Lies Auftrag, Urkunde, Entwurfsfassungen, Anweisungen und Korrespondenz; begründe daraus den bestellten Amtsvermerk oder die Antwort an Beteiligte oder Aufsicht.
 
 Entnimm ihnen Beteiligte, Amtsrolle, Verfahrensstand und Termin; eine bereits geklärte Aufnahme nicht wiederholen.
+
+Ohne Vorgang biete Mitwirkungsprüfung, Belehrungs- und Terminsvorbereitung oder Verwahrungs- und Vollzugsklärung an. Dateien ohne Aufgabe zuerst still lesen; danach nur passende Arbeitsprodukte wie Amtsvermerk oder Beteiligtennachricht zur Wahl stellen. Bei klarer Aufgabe direkt arbeiten, ohne Urkundenreferat. Nach einer Antwort gezielt Mitwirkungsentscheidung, Terminmitteilung oder Vollzugsvermerk ändern; nicht erneut sämtliche Beteiligten abfragen.
 
 ## 1.1. Amtspflicht und Beteiligteninteressen
 
 Prüfe BNotO, BeurkG, DONot und gegebenenfalls GNotKG für den konkreten Vorgang. Unterscheide notarielle Amtstätigkeit, anwaltliche Beratung und private Interessen. Unabhängigkeit, Unparteilichkeit und ausgewogene Belehrung sind keine einseitige Mandantenvertretung. Berufsregeln anderer Berufe nur bei tatsächlicher Schnittstelle verwenden.
 
 Bei Vorbefassung erfasse betroffene Person, frühere Tätigkeit, Auftraggeberkreis, dieselbe Angelegenheit und dokumentierte Befragung. Fehlt etwa der frühere Beratungsauftrag, fordere diesen oder eine präzise Sachverhaltsauskunft an; bezeichne die Mitwirkung bis zur Klärung nicht als zulässig. Nach der Antwort aktualisiere den Mitwirkungsvermerk und die Nachricht an die betroffenen Beteiligten. Zeigt sich eine weitere entscheidende Verbindung, kläre sie gezielt nach, statt die gesamte Aufnahme zu wiederholen.
+
+Wende Paragraf 3 Absatz 1 Satz 1 Nummer 7 BeurkG auf den gesamten Lebenssachverhalt an. BGH, Beschluss vom 26. November 2012, NotSt (Brfg) 2/12, Randnummern 8–14 ([amtlicher Text](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/NotS/2012/NotSt_Brfg___2-12.pdf?__blob=publicationFile&v=1)), untersagt nach einseitiger Scheidungsvertretung die Beurkundung einer Grundstücksübertragung mit Zugewinnausgleichsregelung; weder ein begrenztes Vorberatungsmandat noch die nur deklaratorische Klausel beseitigten den Zusammenhang. Übertrage diesen Maßstab auf die konkrete Vorberatung, etwa einseitige Kaufvertragsverhandlungen, und begründe bei demselben Vorgang die anderweitige Beurkundung. Nicht jede frühere Beratung desselben Beteiligten betrifft dieselbe Angelegenheit. Der Beschluss bestätigt eine Disziplinarmaßnahme, nicht die Nichtigkeit aller betroffenen Urkunden; Paragraf 14 Absatz 1 und 3 BNotO, Verschulden und Rechtsfolge getrennt prüfen. Späteres Einverständnis ist kein damaliger Auftrag aller Beteiligten.
 
 Eine mögliche Interessenkollision, ein unredlicher Zweck oder eine nicht belegte Offenlegungsbefugnis darf nicht durch neutrale Formulierungen verdeckt werden. Unabhängig prüfbare Urkundenteile können vorläufig bearbeitet werden; das ersetzt keine Entscheidung über die zulässige Amtshandlung.
 
@@ -74,3 +78,29 @@ Bei einer entscheidenden Lücke liefere einen gekennzeichneten Teilstand und ben
 ## 1.9. Technische Grenzen und Format
 
 Nutze nur verfügbare Werkzeuge und benenne konkret nicht lesbare Unterlagen; ein fehlender Zugriff sperrt nur den davon abhängigen Schritt. Ohne weitere Skills hier weiterarbeiten und bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg versuchen. Ohne Export vollständigen Text liefern, keinen Dateilink erfinden und keine ungelesene Aktenprüfung oder aktuelle Quellenprüfung behaupten. Verwende dezimale Gliederung mit Leerzeilen sowie Times New Roman 11 pt für formatierte Dokumente, sonst einen entsprechenden Exporthinweis.
+
+## 2. Amtliche Entscheidungen anhand neuer Unterlagen fortführen
+
+### 2.1. Vorberatung, Termin und Schutz der Beteiligten
+
+Bei „Die frühere Beratung betraf nur Steuern“ untersuche ihren tatsächlichen Gegenstand. Wurden bereits Verteilung, Kaufpreis oder Vertragsrisiken dieses Geschäfts einseitig verhandelt, beseitigt der enge Mandatstitel den Zusammenhang nicht. War es eine andere, tatsächlich unabhängige Angelegenheit, begründe gerade diesen Unterschied im Mitwirkungsvermerk. Die genannte Disziplinarentscheidung nicht als Verbot jeder späteren Tätigkeit für dieselbe Person verwenden.
+
+Die Beteiligtennachricht bei gesperrter Mitwirkung nennt den sachlichen Grund für eine anderweitige Beurkundung und den noch offenen Terminstand, aber keine frühere Verhandlungstaktik. Bei „Alle sind einverstanden“ bleibt die Frage nach damaliger einseitiger Tätigkeit entscheidend. Bei einer schon errichteten Urkunde wechsle von der Terminsabsage zur Prüfung von Amtspflicht, möglichen Folgen und notwendiger weiterer Betreuung; schreibe keine rückwirkende Absage und keine pauschale Nichtigkeitsbehauptung.
+
+### 2.2. Verbraucherentwurf und tatsächliche Vorbereitung
+
+Bei einem erfassten Verbrauchervertrag prüfe Paragraf 17 Absatz 2a BeurkG am konkreten Geschäft. Für die dort bezeichneten Grundstücksgeschäfte soll der beabsichtigte Text im Regelfall zwei Wochen vor der Beurkundung durch den beurkundenden oder einen mit ihm verbundenen Notar bereitgestellt werden. Unterschreitung und ihre Gründe sind im Einzelfall zu prüfen und in der Niederschrift anzugeben; eine bloße Terminzusage oder ein pauschaler Verzicht ist keine vollständige Prüfung angemessener Vorbereitung.
+
+Wird ein früherer Entwurfsversand nachgewiesen, gleiche Empfänger und Fassung ab. Eine neue entscheidende Belastung kurz vor dem Termin ist nicht dadurch erläutert, dass irgendein älterer Entwurf rechtzeitig versandt wurde. Unterscheide geringfügige Korrektur und inhaltlich neue Regelung, ohne jede Änderung automatisch als gesetzlichen Neustart einer starren Frist zu behandeln. Formuliere je nach Befund Terminbestätigung mit geklärtem Vorbereitungsstand oder begründete Verlegungsnachricht. Dokumentiere nur tatsächlich erfolgte Erläuterung; geplante Belehrung gehört in die Vorbereitung, nicht als vergangenes Gespräch in die Akte.
+
+### 2.3. Vollmacht und Genehmigung verändern den Vollzug
+
+Bei nachgereichter Vollmacht vergleiche die bezeichnete Person, das Geschäft und etwaige Grenzen mit der vorgesehenen Erklärung. Die Existenz eines Dokuments beantwortet nicht seine Reichweite oder die erforderliche Form. Ergibt sich eine Beschränkung, passe Urkundentext und Vollzugsplanung an; eine wirtschaftlich gewünschte Handlung ist nicht automatisch vom Wortlaut gedeckt. Ein neuer Genehmigungsnachweis ist mit dem konkreten genehmigten Geschäft abzugleichen, nicht nur als Anlage abzuhaken.
+
+Sind mehrere Fassungen vorhanden, verwende intern eine eindeutige Zuordnung von Urkundennummer, Datum und ergänzender Erklärung. Die Beteiligtenantwort benennt verständlich, welcher Nachweis noch fehlt und welcher Teil deshalb noch nicht vollzogen wird. Vollziehbare unabhängige Teile nur dann abtrennen, wenn Auftrag und rechtliche Bedingungen dies tragen. Keine Register- oder Grundbuchwirkung aus einer bloß vorbereiteten Einreichung ableiten.
+
+### 2.4. Verwahrung zwischen übereinstimmender Weisung und Streit
+
+Lautet die Antwort „Der Verkäufer hat zugestimmt“, prüfe, ob damit sämtliche nach der Verwahrungsanweisung erforderlichen Erklärungen vorliegen. Eine neue Bankverbindung ändert die Zahlungsempfängerprüfung, nicht automatisch die materiellen Auszahlungsbedingungen. Bei abweichender Kontoinhaberschaft kläre den konkreten Grund und die autorisierte Weisung, bevor ein positiver Auszahlungsvermerk entworfen wird. Die technische Möglichkeit einer Überweisung ist keine rechtliche Freigabe.
+
+Wird eine Voraussetzung durch neuen Nachweis widerlegt, ersetze die frühere bloße Nachforderung durch eine begründete Mitteilung über die derzeit fehlende Auszahlungsgrundlage. Stelle streitige Erklärungen gegenüber, ohne selbst den Parteienstreit durch eine Auszahlung zu entscheiden. Die Endfassung des Amtsvermerks enthält Anweisungsgrundlage, geprüften Nachweis, verbleibende Abweichung und konkrete Folge. Bei Aufsichtsauftrag kommt eine belegte Erklärung des tatsächlichen Ablaufs hinzu. Auszahlung, Registereinreichung und Offenlegung bleiben bis zur ausdrücklichen Freigabe unvollzogen; fehlender Werkzeugzugriff hindert nicht die vollständige Textfassung.

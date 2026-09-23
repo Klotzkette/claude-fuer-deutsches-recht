@@ -1,8 +1,18 @@
 {
   "schema_version": 1,
   "plugin": "verlagsrecht-buchpreisbindung",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/buchprg/__7.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlicher Normtext erneut gelesen: Fehler und Kennzeichnung nach Absatz 1 Nummer 4 als Grundlage der getrennten Zustandsgruppen; keine pauschale Remittendenfreigabe."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/buchprg/__8.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlicher Normtext gelesen: Aufhebungsakt durch Verleger oder Importeur, Veröffentlichung und erstes Erscheinen als Anknüpfung; Absatz 2 gesondert. Lageralter und bloße Ankündigung ersetzen die Voraussetzungen nicht."
+    },
     {
       "url": "https://www.gesetze-im-internet.de/buchprg/__3.html",
       "checked_on": "2026-09-14",
@@ -27,15 +37,31 @@
       "url": "https://www.gesetze-im-internet.de/buchprg/__9.html",
       "checked_on": "2026-09-14",
       "supports": "Unterlassung und verschuldensabhängiger Schadensersatz bei Preisbindungsverstößen."
+    },
+    {
+      "url": "https://www.rv.hessenrecht.hessen.de/perma?d=LARE190013259",
+      "checked_on": "2026-09-22",
+      "supports": "OLG Frankfurt am Main, Urteil vom 24.04.2007, Az. 11 U 41/06, Randnummern 14 bis 20. Anwendung: Mängelstempel begründet keinen Anscheinsbeweis für tatsächlichen Fehler; Händler muss preisbindungsrechtliche Ausnahme belegen. Grenze und Prüfzugang: Echte Fehler mit Kennzeichnung bleiben ausnahmefähig; nicht sämtliche Kostenfragen des historischen Urteils auf heutiges Recht übertragen. Vollständiger amtlich indexierter Entscheidungstext gelesen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/buchprg/__7.html",
+      "checked_on": "2026-09-22",
+      "supports": "Beschädigung oder sonstiger Fehler und Kennzeichnung nach Absatz 1 Nummer 4 kumulativ."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Mini vollständig gelesen; konkrete Zustandsgruppen- und Erlösprüfung war brauchbar, wurde aber von einmaliger Rückfrage, Pflicht-Rechteübersicht und bloßem Hinweis auf das nächste Dokument begrenzt.",
+    "reason": "Mini vollständig nachgelesen: Rechteantwort, Rücksendungsabgleich und Kennzeichnung führen zu konkreten Änderungen von Klausel, Rechnung und Preisvermerk. Fehlernachweis und Preisaufhebung bleiben getrennt; Desk-Review, kein Live-Ergebnistest.",
     "changes": [
-      "Lizenz-, Absatz- und Zustandsnachweise als gezielte Rückfragen mit anschließender Vertrags-, Rechnungs- oder Briefbearbeitung eingebunden; Preisprüfung nach tatsächlichem Mangel und Kennzeichnung erhalten."
+      "OLG Frankfurt mit fehlendem Anscheinsbeweis des Mängelstempels eingebunden",
+      "Beweis und Kennzeichnung statt pauschaler Remissionsfreigabe",
+      "Gemischte Mengen und Erlösrechnung mit Nachforderung und fertigem Vermerk verbunden",
+      "Drei fachliche Einstiegswege und sofortige Bearbeitung klarer Aufträge ergänzt; doppelte Remissionsabzüge und stillschweigende Erweiterung von Audio-Rechten verhindert.",
+      "Rabattbewertung ausdrücklich als internen Vermerk statt technischer Verkaufssperre gefasst."
     ],
-    "sha256": "554678b996eb0cd921e755ebf164655a9b648497e7c9670d71e80d32b7bd87e8"
+    "sha256": "000dee288aa184e3ce41694ef1c9ac4f7160770980d2e985493aa74195e049a4",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
   },
   "selection": {
     "positive": [
@@ -122,10 +148,56 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt vollständig einschließlich aller Ausgabe-, Vertriebs- und Konfliktrouten gelesen. Doppelte Standardkapitel enthielten zudem Widersprüche zur Preisbindung und verkürzte Aussagen zu Zweitveröffentlichung und Rückruf.",
+    "reason": "Werkstatt vollständig nachgelesen: konkret begrenzte Audio- und Übersetzungsrechte, Nettoabsatzabgleich und gemischte Chargen werden bis zum fertigen Nachtrag, Abrechnungsbrief oder Preisvermerk verarbeitet. Vorherige Spezialmaterien und Fallgrenzen erhalten; Desk-Review, kein Live-Ergebnistest.",
     "changes": [
-      "Rechtekette, Formate, Honorar, Open Access, Exemplarzustand und Rechtsdurchsetzung zusammenhängend geordnet; Preisaufhebung Paragraf 8, Ansprüche Paragraf 9 und Bucheinsicht Paragraf 10 BuchPrG zugeordnet; keine pauschale Händler-Preissenkung, starre Dringlichkeitsfrist oder automatische Zweitveröffentlichung."
+      "OLG Frankfurt mit fehlendem Anscheinsbeweis des Mängelstempels eingebunden",
+      "Beweis und Kennzeichnung statt pauschaler Remissionsfreigabe",
+      "Gemischte Mengen und Erlösrechnung mit Nachforderung und fertigem Vermerk verbunden",
+      "Formatnachtrag bei Vorlizenzkonflikt, Honorarfortsetzung nach geklärter Remission und vier Zustandsgruppen für Rücksendungen ausgearbeitet.",
+      "Veröffentlichungsnachweis und Zeitpunkt der Preisaufhebung sowie damaligen Angebotsstand bei Abmahnung in die Dokumentarbeit aufgenommen."
     ],
-    "sha256": "3463b3e1afe03a8e9df1d012661205d7c4c66601e9c27c26acd8dbfb8acc42a3"
+    "sha256": "e01f6627761c3ad42d86861ace3bc2201552f0e887a7bd2206aa7d6301538f63",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Rechte- oder Formatnachtrag, Abrechnungsschreiben oder Preisprüfvermerk für Remittenden anbieten.",
+      "Dateien: Vertrag, Abrechnung oder Zustandsliste still lesen; nur bei offenem Ziel passende Dokumentwege anbieten.",
+      "Klarer Auftrag: sofort Klausel, Brief oder Vermerk formulieren; nur entscheidenden Rechteumfang, Absatzbezug oder Zustandsnachweis klären."
+    ],
+    "continuation": "Bestätigter Lizenzumfang ändert den Nachtrag, geklärter Remissionsabzug die Honorarrechnung und vervollständigte Zustands- oder Veröffentlichungsbelege die gruppenbezogene Preisbewertung.",
+    "enrichment": "Rechtekonflikt und Formatnachtrag, Abrechnung ohne Doppelabzug, fehlende Kennzeichnung, Stichprobengrenzen, Preisaufhebungszeitpunkt und Abmahnungsantwort konkret verbunden.",
+    "limits": "desk review; no live client execution"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "verlagsrecht-buchpreisbindung/verlagsrecht-buchpreisbindung-schnellstart.md",
+      "verlagsrecht-buchpreisbindung/verlagsrecht-buchpreisbindung-werkstatt.md",
+      "verlagsrecht-buchpreisbindung/README.md",
+      "quality/evals/verlagsrecht-buchpreisbindung.json"
+    ],
+    "opening_change": "Buchausgabe und Autorenvertrag abgleichen; bei Rücksendungen tatsächlichen Fehler und Kennzeichnung je Exemplar prüfen.",
+    "norms": [
+      "Paragrafen 3, 5 und 7 Absatz 1 Nummer 4 BuchPrG",
+      "Paragrafen 31, 32 und 38 Absatz 4 UrhG",
+      "Paragraf 17 VerlG"
+    ],
+    "decisions": [
+      {
+        "citation": "OLG Frankfurt am Main, Urteil vom 24.04.2007, Az. 11 U 41/06, Randnummern 14 bis 20",
+        "url": "https://www.rv.hessenrecht.hessen.de/perma?d=LARE190013259",
+        "application": "Mängelstempel begründet keinen Anscheinsbeweis für tatsächlichen Fehler; Händler muss preisbindungsrechtliche Ausnahme belegen.",
+        "limit": "Echte Fehler mit Kennzeichnung bleiben ausnahmefähig; nicht sämtliche Kostenfragen des historischen Urteils auf heutiges Recht übertragen. Vollständiger amtlich indexierter Entscheidungstext gelesen."
+      }
+    ],
+    "remaining_limits": [
+      "Desk-/Quellenprüfung, kein Live-Ergebnistest.",
+      "Keine vollständige Neuprüfung aller Honorar-, Steuer- und Open-Access-Spezialfragen.",
+      "Workflow-Erweiterung 23.09.2026: Paragrafen 7 und 8 BuchPrG erneut amtlich gelesen; OLG-Anker mit seinem bisherigen indexierten Prüfnachweis erhalten, keine erneute Volltextprüfung behauptet."
+    ]
   }
 }

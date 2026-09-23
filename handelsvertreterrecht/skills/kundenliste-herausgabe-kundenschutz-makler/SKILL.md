@@ -1,9 +1,9 @@
 ---
 name: kundenliste-herausgabe-kundenschutz-makler
-description: "Für Kundenliste und Herausgabepflicht bei Vertragsende nach Paragraf 88 HGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Prüft die Herausgabe von Kundenlisten nach Vertrag und Paragraf 675 Absatz 1 in Verbindung mit Paragraf 667 BGB; trennt Listenherkunft, Zurückbehaltungsrechte und Nutzungsgrenzen nach Paragraf 90 HGB."
 ---
 
-# Kundenliste und Herausgabepflicht bei Vertragsende nach § 88 HGB
+# Kundenliste und Herausgabepflicht bei Vertragsende
 
 ## Arbeitsweg
 
@@ -15,7 +15,7 @@ description: "Für Kundenliste und Herausgabepflicht bei Vertragsende nach Parag
 
 ## Überblick
 
-Unterstützt bei rechtlichen Fragen rund um Kundenliste und Herausgabepflicht bei Vertragsende nach § 88 HGB.
+Bestimmt, welche Kundenlisten bei Vertragsende nach Vertrag und Paragrafen 675 Absatz 1, 667 BGB herauszugeben sind. Der Schutz enthaltener Geheimnisse nach Paragraf 90 HGB betrifft eine andere Frage als der Anspruch auf die Liste.
 Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB §§ 84–92c ab
 und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie BGH- und EuGH-Rechtsprechung ein.
 Ziel: konkrete, umsetzbare Ergebnisse für Handelsvertreter und Unternehmer.
@@ -28,27 +28,27 @@ Ziel: konkrete, umsetzbare Ergebnisse für Handelsvertreter und Unternehmer.
 
 ## Erste Schritte
 
-1. Herausgabepflicht des Handelsvertreters nach § 88 HGB und § 667 BGB analog bestimmen.
+1. Herausgabe nach Vertrag und Paragrafen 675 Absatz 1, 667 BGB bestimmen: vom Unternehmer überlassene Listen, während der Geschäftsbesorgung erlangte Kundendaten und vorbestehende eigene Bestände unterscheiden. Umfang und Auftragsbezug belegen, nicht pauschal alle Kontakte fordern.
 2. Zurückbehaltungsrecht nach § 273 BGB bei offenen Gegenforderungen prüfen.
-3. Datenschutzrechtliche Herausgabepflichten und Löschfristen nach DSGVO klären.
+3. Datenschutzrechtliche Zulässigkeit der Übermittlung und Löschpflichten prüfen; die DSGVO begründet keinen allgemeinen Herausgabeanspruch des Unternehmers auf die Kundenliste.
 4. Vollstreckung der Herausgabe nach § 883 ZPO (körperliche Listen) oder § 888 ZPO vorbereiten.
-5. Schadensersatz bei Datenmissbrauch nach § 280 BGB und § 88 HGB berechnen.
+5. Bei Datenmissbrauch eine Verletzung von Paragraf 90 HGB oder einer wirksamen Vertragsbindung feststellen und Schadensersatz nach Paragraf 280 BGB prüfen. Geheimnisqualität, konkrete Nutzung, Vertretenmüssen und Schaden nicht aus der bloßen Weiterverwendung der Liste ableiten.
 6. Übergabeprotokoll mit Inventar aller herausgegebenen Daten erstellen.
 
 ## Rechtsrahmen
 
-- § 88 HGB — Geheimhaltungspflicht und Verwendungsverbot nach Vertragsende
-- § 667 BGB — Herausgabepflicht des Beauftragten (analog)
+- Paragraf 90 HGB: Schutz anvertrauter oder durch die Tätigkeit bekannt gewordener Geschäfts- und Betriebsgeheimnisse unter den gesetzlichen Voraussetzungen; Paragraf 88 HGB ist weggefallen.
+- Paragrafen 675 Absatz 1, 667 BGB: Herausgabe der für die Geschäftsbesorgung erhaltenen oder daraus erlangten Listen und Daten neben vertraglichen Regelungen.
 - § 273 BGB — Zurückbehaltungsrecht
 - § 883 ZPO — Vollstreckung auf Herausgabe bestimmter Sachen
-- Art. 17 DSGVO — Recht auf Löschung und Herausgabe
+- Artikel 17 DSGVO: Recht auf Löschung, kein allgemeiner Herausgabeanspruch des Unternehmers.
 - § 280 BGB — Schadensersatz bei Datenmissbrauch
 
 ## Prüfraster
 
-- Besteht eine Herausgabepflicht für Kundenlisten nach § 88 HGB?
+- Welche Teile der Kundenliste unterliegen einer Herausgabepflicht nach Vertrag und Paragrafen 675 Absatz 1, 667 BGB?
 - Hat der Handelsvertreter ein Zurückbehaltungsrecht nach § 273 BGB?
-- Welche Daten sind datenschutzrechtlich herauszugeben und welche zu löschen?
+- Welche geschuldeten Daten dürfen übermittelt werden und welche verbliebenen Daten sind zu löschen?
 - Ist die Nutzung der Kundenliste nach Vertragsende verboten?
 - Kommt Vollstreckung nach § 883 oder § 888 ZPO in Betracht?
 - Welche Schadensersatzansprüche entstehen bei Datenmissbrauch?
@@ -56,7 +56,7 @@ Ziel: konkrete, umsetzbare Ergebnisse für Handelsvertreter und Unternehmer.
 ## Typische Fallstricke
 
 - Zurückbehaltungsrecht ohne durchsetzbare Gegenforderung — nicht berechtigt.
-- Kundenliste nach Vertragsende für eigene Akquise genutzt — § 88 HGB verletzt.
+- Kundenliste nach Vertragsende für eigene Akquise genutzt: konkrete Geheimnisse und Verwertungsgrenzen nach Paragraf 90 HGB prüfen, nicht allein aus dem Vertragsende ein Nutzungsverbot ableiten.
 - DSGVO-Löschpflichten nicht beachtet — Bußgeldrisiko.
 - Herausgabe ohne Übergabeprotokoll — Nachweis über vollständige Herausgabe fehlt.
 
@@ -70,14 +70,14 @@ Zwingende Vorschriften nach § 92c HGB schützen den Handelsvertreter zwingend.
 Entgegenstehende Klauseln sind nach § 134 BGB nichtig.
 Praktisch zentral: Provision (§ 87 HGB), Buchauszug (§ 87c HGB), Ausgleich (§ 89b HGB),
 Wettbewerbsverbot (§ 90a HGB) und Kündigung (§§ 89 und 89a HGB).
-Auskunftsrechte (§ 87c HGB), Geheimhaltung (§ 88 HGB) und Delkredere (§ 86b HGB)
+Auskunftsrechte (Paragraf 87c HGB), Geheimnisschutz (Paragraf 90 HGB) und Delkredere (Paragraf 86b HGB)
 ergänzen den praxisrelevanten Rechtsrahmen.
 Für internationale Sachverhalte gilt zudem die Rom-I-Verordnung für das anwendbare Recht.
 
 ## Quellen
 
-- [§ 88 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__88.html)
+- [Paragraf 90 HGB](https://www.gesetze-im-internet.de/hgb/__90.html)
 - [§ 667 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__667.html)
 - [§ 273 BGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__273.html)
 - [§ 883 ZPO auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/zpo/__883.html)
-- [Dejure § 88 HGB](https://dejure.org/gesetze/HGB/88.html)
+- [Paragraf 675 BGB](https://www.gesetze-im-internet.de/bgb/__675.html)

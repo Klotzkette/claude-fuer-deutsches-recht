@@ -1,12 +1,14 @@
-# 1. Transport- und Speditionsrecht: Regime vor Rechnung
+# 1. Transportverlust, Haftungsgrenze und Regress
 
-Bearbeiten Sie meinen Fracht-, Speditions- oder Regressfall aus der Vertrags- und Transportkette. Beginnen Sie nicht automatisch mit Exportkontrolle oder einer beliebigen Reklamationsfrist.
+Klären Sie anhand der Übergaben, in wessen Obhut die Ware verloren ging oder beschädigt wurde. Berechnen Sie den belegten Schaden und die einschlägige Haftungsgrenze und begründen Sie die beauftragte Forderung, Erwiderung oder Regressbewertung.
 
 ## 1.1. Transportakte
 
+Ohne Eingabe bieten Sie Verlustforderung, Haftungsabwehr oder Regressprüfung an. Anlagen ohne Aufgabe still lesen und nur das Ziel klären. Klare Aufträge direkt bearbeiten. Ein nachgereichter Wiegebeleg verändert Packstückzuordnung, Haftungsgrenze und Forderung, nicht automatisch das Verschulden; keine erneute Aufnahme oder ungefragte Aktenzusammenfassung.
+
 Lesen Sie Auftrag, Strecke, Verkehrsträger, Frachtbrief, Unterfrachtauftrag, Übergabe- und Ablieferbelege, Schadenunterlagen und Korrespondenz. Erfassen Sie vertretene Seite, Absender, Frachtführer, Empfänger, Versicherer, Schadentag und Ziel aus den vorhandenen Angaben. Fragen Sie nach entscheidenden Lücken, auch wenn Dateien vorhanden sind: Eine Packliste beschreibt beispielsweise den Sollinhalt, belegt aber nicht allein die tatsächliche Übergabe.
 
-## 1.2. Konkrete Fachroute
+## 1.2. Beförderung, Schaden und Vertragskette
 
 - Regimewahl: Bestimmen Sie HGB, CMR oder einschlägiges See-, Luft-, Bahn- oder Multimodalrecht anhand der Beförderung. Teilstrecke und unbekannter Schadenort sind eigene Weichen. ADSp nicht ohne Einbeziehung und Fassungsprüfung unterstellen.
 - Verlust und Beschädigung: Rekonstruieren Sie Soll- und Istinhalt, Zustand, Rohgewicht und Obhutszeit. Bei wieder verschlossener Verpackung Packprotokoll, Wiegedaten und Fotos gegen Ablieferquittung abgleichen.
@@ -23,9 +25,11 @@ Fehlt im Regress die Ablehnung oder ihr Zugang, fordern Sie diese Korrespondenz 
 
 Im HGB-Verlustfall bedeutet fehlende rechtzeitige Anzeige nach [Paragraf 438 HGB](https://www.gesetze-im-internet.de/hgb/__438.html) eine Vermutung, nicht automatisch Anspruchsuntergang. Die 21-Tage-Regel bei Lieferfristüberschreitung hat eine andere Rechtsfolge. [Paragraf 439 HGB](https://www.gesetze-im-internet.de/hgb/__439.html) regelt Verjährung und Anspruchserhebung gesondert. Keine Übertragung dieser Fristen auf andere Regime ohne Normprüfung.
 
-Prüfen Sie [Paragraf 431 HGB](https://www.gesetze-im-internet.de/hgb/__431.html) und [Paragraf 435 HGB](https://www.gesetze-im-internet.de/hgb/__435.html) für Grenze und Durchbrechung. Benennen Sie ursprüngliche Beweislast, konkrete Anhaltspunkte und erst danach mögliche sekundäre Darlegungslast.
+Prüfen Sie [Paragraf 431 HGB](https://www.gesetze-im-internet.de/hgb/__431.html) und [Paragraf 435 HGB](https://www.gesetze-im-internet.de/hgb/__435.html) für Grenze und Durchbrechung. Vorsatz ist eine eigenständige Alternative zu Leichtfertigkeit mit Schadensbewusstsein. Bei nachgewiesener Entwendung durch eine nach Paragraf 428 HGB zurechenbare Transportperson kein weiteres Organisationsverschulden verlangen. Bei einem außenstehenden Dieb reicht dessen Vorsatz nicht: Den zurechenbaren Beitrag des Frachtführers samt Verschuldensmaß prüfen; so die Unterscheidung in BGH I ZR 87/11, Randnummer 19, im dortigen CMR-Fall. Benennen Sie ursprüngliche Beweislast, konkrete Anhaltspunkte und erst danach mögliche sekundäre Darlegungslast.
 
-BGH, Urteil vom 13.06.2012, Az. I ZR 87/11, [amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2011/I_ZR__87-11.pdf?__blob=publicationFile&v=1), Leitsätze: geöffnete und wieder verschlossene Verpackung, rechtzeitige Wertmitteilung. Am 14.09.2026 geprüft. Der Fall betrifft CMR; Übertragbarkeit der Beweislogik auf HGB ausdrücklich prüfen. Keine pauschale Mitverschuldensquote übernehmen.
+BGH, Urteil vom 13.06.2012, Az. I ZR 87/11, [amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2011/I_ZR__87-11.pdf?__blob=publicationFile&v=1), Randnummern 16 bis 20: Bei während der Obhut geöffnetem, teilweise geleertem und wieder verschlossenem Packstück können konkrete Indizien eine sekundäre Darlegung zu Transportlauf, Kontrollen und Sicherheitsmaßnahmen auslösen. Die ursprüngliche Beweislast bleibt bestehen. Der Fall betrifft Artikel 29 CMR; die Darlegungslogik auf Paragraf 435 HGB begründet übertragen, nicht das Regime selbst. Nach Randnummern 26 bis 28 muss eine Wertwarnung rechtzeitige Reaktion im normalen Geschäftsgang ermöglichen, nicht zwingend schon vor Vertragsschluss erfolgen. Keine feste Kürzungsquote übernehmen.
+
+Bei Schadensersatz nach Paragraf 435 HGB in Verbindung mit Paragrafen 249 und 252 BGB Kosten und Folgeschaden eigenständig nachweisen. Wer stattdessen Wertersatz nach Paragraf 429 HGB verlangt, unterliegt dessen Begrenzungen; keine Mischrechnung. Diesen Unterschied bestätigt BGH, Urteil vom 02.07.2026, Az. I ZR 134/25, Randnummern 19 bis 20 ([amtlicher Text](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2025/I_ZR_134-25.pdf?__blob=publicationFile&v=1)). Der dortige Aufliegerschaden beweist kein qualifiziertes Verschulden bei Ihrer Sendung.
 
 ## 1.4. Ergebnis und Freigabe
 

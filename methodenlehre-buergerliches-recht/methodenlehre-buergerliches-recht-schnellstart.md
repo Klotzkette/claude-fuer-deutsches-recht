@@ -1,6 +1,8 @@
 # 1. Methodisch begründete Rechtsanwendung
 
-Beantworte die konkrete Rechtsfrage mit einer nachvollziehbaren methodischen Begründung. Arbeite anwaltlich oder didaktisch nach Auftrag; mache aus einer Vertragsauslegung nicht automatisch eine vollständige Examensklausur.
+Klär die streitige Bedeutung einer Erklärung oder Rechtsnorm und begründe die daraus folgende Rechtsfolge im konkreten Fall. Trenne Auslegung, Tatsachenfeststellung und Rechtsfortbildung; eine Vertragsfrage verlangt nicht automatisch eine vollständige Examensklausur.
+
+Ohne Eingabe biete kurz „Vertragsklausel auslegen“, „Gesetzesauslegung begründen“ oder „Rechtsfortbildung prüfen“ an. Dateien ohne Auftrag still lesen und dann nur die Streitfrage klären. Bei klarem Auftrag direkt prüfen; nur entscheidende Lücken erfragen, keine Methodenvorlesung oder Pflichtfragerunde. Folgeantworten ändern Begründung und Schluss im bisherigen Nutzerpfad, etwa `auslegungsvermerk.md`; ohne Dateizugriff den vollständigen Ersatztext liefern.
 
 Lies zuerst Fallfrage, Bearbeitervermerk, Vertragstext und vorgelegte Belege. Bestimme daraus die begehrte Rechtsfolge und die entscheidende Unklarheit, ohne bereits feststehende Angaben erneut zu erfragen.
 
@@ -12,9 +14,13 @@ Für Erklärungen und Verträge sind [Paragraf 133 BGB](https://www.gesetze-im-i
 
 ## 1.2. Argumente statt Methodenetiketten
 
+[BGH, Urteil vom 23.06.2023, V ZR 89/22, amtliche Leitsätze](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=136183&Blank=1.pdf): Ein bewiesenes gemeinsames Verständnis kann trotz falscher Grundstücksbezeichnung maßgeblich sein; die Besichtigung einer scheinbar einheitlichen Fläche beweist aber regelmäßig noch keinen Mitverkauf fremden Grunds. Nutze die Entscheidung zur Trennung von gemeinsamem Willen und einseitiger Fehlvorstellung, nicht als Freibrief zur Übergehung von Form und Eigentumsgrenzen. Bei Paragrafen 133 und 157 BGB daher stets die konkrete Verständigung belegen.
+
 Bei Gesetzesauslegung lege offen, was Wortlaut, Systematik, verifizierte Entstehungsmaterialien und Zweck jeweils für die konkrete Variante beitragen. Nicht alle Methoden müssen gleich viel Text erhalten. Historische Absichten nicht aus Modellwissen erfinden; bei fehlendem Material die Grenze benennen. Kennzeichne, wenn das gewünschte Ergebnis eine Rechtsfortbildung statt bloßer Auslegung voraussetzt.
 
 Bei Vertragsauslegung formuliere die konkurrierenden Lesarten mit ihren tatsächlichen Anknüpfungspunkten. Prüfe vor einer Ergänzung, ob dispositives Recht eine Antwort gibt und ob eine echte Regelungslücke vorliegt. Bei einer unklaren Leistungszeit kann [Paragraf 271 BGB](https://www.gesetze-im-internet.de/bgb/__271.html) relevant sein; eine bestimmte Zeit nicht als fehlende Vereinbarung behandeln. AGB-Unklarheitenregeln nur nach gesonderter Prüfung des Klauselcharakters heranziehen.
+
+Beispiel: Auf „frei Haus“ folgt der Beleg einer vorvertraglich bestätigten Lieferung „bis in Ihre Räume“. Arbeite diese Verständigung in Leistungspflicht und Ergebnis ein. Geht nur eine interne Notiz des Verkäufers ein, behandle sie nicht als beiderseitige Vereinbarung. Bei später vorgelegten AGB die Einordnung und abhängigen Prüfschritte neu beurteilen; eine bloße Änderung der Überschrift genügt nicht.
 
 ## 1.3. Ergebnis und Belastbarkeit
 

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "fachanwalt-verwaltungsrecht",
-  "reviewed_on": "2026-09-17",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/vwvfg/__49.html",
@@ -17,28 +17,58 @@
       "url": "https://www.bverwg.de/250522U8C11.21.0",
       "checked_on": "2026-09-14",
       "supports": "BVerwG, Urteil vom 25.05.2022, Az. 8 C 11.21, Volltext Randnummern 13 bis 20 geprüft: Zweck aus Bescheid und einbezogener Richtlinie, Jahresfrist je Widerrufsgrund und Anforderungen an Anhörung."
+    },
+    {
+      "url": "https://www.bverwg.de/de/250522U8C11.21.0",
+      "checked_on": "2026-09-22",
+      "supports": "BVerwG, Urteil vom 25. Mai 2022, 8 C 11.21, Randnummern 13 bis 21: Bereitstellungszweck von Teilnahme unterscheiden; Jahresfrist je Widerrufsgrund, vollständige Kenntnis einschließlich Anhörungsantwort oder Fristablauf prüfen. Grenze: Wortgleiches Landesrecht Mecklenburg-Vorpommerns; Revision wegen fehlender Zweckverfehlung erfolglos, nicht wegen Fristablaufs. Abweichende Zweckklauseln gesondert prüfen. Amtliche tragende Gründe gelesen; keine Vollverifikation der gesamten Materie."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vwvfg/__48.html",
+      "checked_on": "2026-09-22",
+      "supports": "Rücknahme, Vertrauensschutz und Kenntnisfrist nach Absatz 4."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vwvfg/__49.html",
+      "checked_on": "2026-09-22",
+      "supports": "Absatz 3: Zweckwiderruf, Auflagenverstoß und Verweis auf Jahresfrist."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vwvfg/__49a.html",
+      "checked_on": "2026-09-22",
+      "supports": "Erstattungsfestsetzung, Bereicherungswegfall, Erstattungs- und Zwischenzinsen sowie Absehensmöglichkeiten."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vwgo/__80.html",
+      "checked_on": "2026-09-22",
+      "supports": "Absatz 6: vorheriger behördlicher Aussetzungsantrag bei Abgaben und Kosten mit Ausnahmen; nicht auf jede öffentlich-rechtliche Geldforderung übertragen."
     }
   ],
   "mini_review": {
-    "verdict": "retained",
-    "reason": "Vollständige Textprüfung am 18. September: Bekanntgabe, Vollzugstermin und gekürzte Projektposition werden gezielt nachgefordert; Antworten ändern Frist, Eilbegründung oder Gegenrechnung bis zur bestellten Fassung.",
+    "verdict": "revised",
+    "reason": "Der Mini prüft Bescheid oder Leistungsanspruch; bei Förderung werden Bereitstellungszweck und Jahresfrist einschließlich Anhörungsantwort konkret angewandt. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Rechnung betrifft nächsten Förderzeitraum oder Vollzug ist bereits erfolgt -> Kostenzuordnung beziehungsweise Schutzbegehren ändern und Gegenrechnung oder Antrag fortschreiben.",
     "changes": [
-      "Keine weitere Änderung an der vollständig gelesenen Mini-Fassung."
+      "Bescheidbestand oder geschuldete Behördenentscheidung prüfen; Fördermittel anhand konkreter Kürzung, Zweckbindung und Berechnung verteidigen.",
+      "Entscheidung in alle drei Prompts und Fokus-Skill mit tatsächlicher Erfolgsbegründung und genauer Fristauslösung eingebunden.",
+      "Kostenkürzung nicht mit stets erforderlichem Teilwiderruf gleichgesetzt; Aussetzungsantrag bei Abgaben um Paragraf 80 Absatz 6 VwGO ergänzt.",
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
     ],
-    "sha256": "3725d0d162a8e069adfd49042ce47831faf6ee127132b308a0f139e37c2e1335"
+    "sha256": "b102d1e1716482325fbf3d864f016670e7763108c4c9bdf846ac0a65421aefac"
   },
   "focus_review": {
-    "reviewed_on": "2026-09-17",
+    "reviewed_on": "2026-09-23",
     "method": "desk_review",
     "verdict": "revised",
-    "reason": "Standalone-Prompt und zugeordneter Fokus-Skill vollständig auf fachlichen Umfang, Rückfragen mit Fortsetzung bis zum bestellten Dokument, Ausgabeverhalten, Rollenbegrenzung und Quellendifferenzierung gelesen. Kein Live-Modelltest und keine erneute Vollverifikation der bestehenden Rechtsquellen.",
+    "reason": "Hauptproblem und zugeordneter Skill vollständig gelesen; Bereitstellungszweck, erforderliche Aufhebung und Anhörungsantwort als Teil der vollständigen Kenntnis konkretisiert. Amtlichen Volltext von 8 C 11.21 geprüft; kein Live-Modelltest. Workflow-Ergänzung: Rechnung betrifft nächsten Förderzeitraum oder Vollzug ist bereits erfolgt -> Kostenzuordnung beziehungsweise Schutzbegehren ändern und Gegenrechnung oder Antrag fortschreiben. Zugeordneten Fokus-Skill auf Kohärenz gelesen und unverändert belassen.",
     "changes": [
-      "Vollständigen Antworttext bei fehlendem Dateiexport ergänzt; keine erfundenen Downloadlinks."
+      "Fehlende Teilnahme von fehlender Bereitstellung unterschieden und tatsächlichen Erfolgsgrund des Urteils klargestellt.",
+      "Kenntnisfrist nicht schon mit Anhörungsversand beginnen lassen; Kostenkürzung von Aufhebung, Erstattung und Zinsen getrennt.",
+      "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten."
     ],
     "prompt_path": "fachanwalt-verwaltungsrecht/fachanwalt-verwaltungsrecht-hauptproblem.md",
-    "prompt_sha256": "08a46d1c6bf06ad5f1e4f380bf448c9867719df78c4183db6425d280675e79e5",
+    "prompt_sha256": "77e1dfef32f716566027e87e0f79ba95825390c17f64d26e0194bb123b4053db",
     "skill_path": "fachanwalt-verwaltungsrecht/skills/foerdermittel-zweckbindung-belegabgleich-rueckforderung/SKILL.md",
-    "skill_sha256": "e07be1f407326e063d1e6bd1a0dfc129a9c6b515b8a6114fa7667ed605c62222"
+    "skill_sha256": "52312ebed911429e34f804a65fdfc18728cd95af090f5ad463fb8032894b6a58"
   },
   "selection": {
     "positive": [
@@ -94,12 +124,55 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Textprüfung am 18. September: Gute Handlungsform- und Eilprüfungen blieben erhalten. Der Rest enthielt pauschale Behördenbeweislast, eine allgemeine Monatsfrist und doppelte Entwurfsrouten.",
+    "reason": "Die Werkstatt beseitigt doppelte Normenlisten und die falsche Beschränkung anwaltlicher Beratung; Fördermittel, Vorverfahren und Aussetzung werden präzisiert, die besonderen Fachwege bleiben erhalten. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Regelung gegenüber Erläuterung, tatsächlicher Vollzug und Zugang, Finanzierungsart und zeitliche Förderklausel, Bereitstellung gegenüber Nutzung, rechnerische Differenz gegenüber Aufhebung sowie spruchreifes Begehren und Vergleichsfolgen.",
     "changes": [
-      "Pauschale Beweislast und Monatsfrist durch konkrete Tatbestands- und Belehrungsprüfung ersetzt.",
-      "Planfeststellung, Polizeiaufnahme, Umsetzungskosten, Förderung und Vergleich ohne Pflichtmatrizen eingeordnet.",
-      "Unvollständigen Rechtsprechungshinweis ausdrücklich vor Zitierung verifizieren; keine neue Verifikation behauptet."
+      "Werkstatt von doppelten Normenlisten, Aktenzeichenfragment und falscher Beschränkung anwaltlicher Beratung bereinigt; Fachzweige erhalten.",
+      "Entscheidung in alle drei Prompts und Fokus-Skill mit tatsächlicher Erfolgsbegründung und genauer Fristauslösung eingebunden.",
+      "Kostenkürzung nicht mit stets erforderlichem Teilwiderruf gleichgesetzt; Aussetzungsantrag bei Abgaben um Paragraf 80 Absatz 6 VwGO ergänzt.",
+      "Regelung gegenüber Erläuterung, tatsächlicher Vollzug und Zugang, Finanzierungsart und zeitliche Förderklausel, Bereitstellung gegenüber Nutzung, rechnerische Differenz gegenüber Aufhebung sowie spruchreifes Begehren und Vergleichsfolgen."
     ],
-    "sha256": "916280333438550af960234c54388819d067858d0d881120cf752ee11fca0dc6"
+    "sha256": "d3e6f42d29913d03a814f1fa7ce1e61f831e5062ff6d1eb794dcdbeba1e2c47b"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "files": [
+      "fachanwalt-verwaltungsrecht/README.md",
+      "fachanwalt-verwaltungsrecht/fachanwalt-verwaltungsrecht-werkstatt.md",
+      "fachanwalt-verwaltungsrecht/fachanwalt-verwaltungsrecht-schnellstart.md",
+      "quality/evals/fachanwalt-verwaltungsrecht.json",
+      "fachanwalt-verwaltungsrecht/fachanwalt-verwaltungsrecht-hauptproblem.md",
+      "fachanwalt-verwaltungsrecht/skills/foerdermittel-zweckbindung-belegabgleich-rueckforderung/SKILL.md"
+    ],
+    "opening_change": "Bescheidbestand oder geschuldete Behördenentscheidung prüfen; Fördermittel anhand konkreter Kürzung, Zweckbindung und Berechnung verteidigen. Workflow-Ergänzung: Leer: Bescheidabwehr, Genehmigungsanspruch oder Fördermittelgegenrechnung anbieten. Dateien ohne Aufgabe: Bescheidfolge und Kostenbelege still lesen; konkretes Schutz-, Leistungs- oder Anhörungsziel klären. Klarer Auftrag: Stellungnahme oder Antrag unmittelbar ausarbeiten; keine allgemeine Bescheid- oder Verwaltungsrechtsübersicht.",
+    "norms": [
+      "Paragrafen 28, 35, 39, 40, 48 Absatz 4, 49 Absatz 3 und 49a VwVfG",
+      "Paragrafen 42, 68, 73, 80 Absatz 2, 5 und 6, 113 und 123 VwGO"
+    ],
+    "decisions": [
+      {
+        "citation": "BVerwG, Urteil vom 25. Mai 2022, 8 C 11.21, Randnummern 13 bis 21",
+        "url": "https://www.bverwg.de/de/250522U8C11.21.0",
+        "application": "Bereitstellungszweck von Teilnahme unterscheiden; Jahresfrist je Widerrufsgrund, vollständige Kenntnis einschließlich Anhörungsantwort oder Fristablauf prüfen.",
+        "limit": "Wortgleiches Landesrecht Mecklenburg-Vorpommerns; Revision wegen fehlender Zweckverfehlung erfolglos, nicht wegen Fristablaufs. Abweichende Zweckklauseln gesondert prüfen."
+      }
+    ],
+    "remaining_limits": [
+      "Amtlicher Entscheidungsvolltext, VwVfG Paragrafen 48/49/49a und VwGO Paragraf 80 geprüft; Landesförderrecht, Sonderprogramme und übrige Fachmaterien nicht umfassend neu verifiziert.",
+      "Desk-/Quellenreview, kein Live-Mandat oder Modelltest.",
+      "Workflow-Review 23.09.2026: erneuter Abruf von Paragraf 74 VwGO scheiterte; keine neue pauschale Klagefrist eingeführt. Vorhandene Fördermittelentscheidung und Normprüfungen in ihrer dokumentierten Reichweite erhalten."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Bescheidabwehr, Genehmigungsanspruch oder Fördermittelgegenrechnung anbieten.",
+      "Dateien ohne Aufgabe: Bescheidfolge und Kostenbelege still lesen; konkretes Schutz-, Leistungs- oder Anhörungsziel klären.",
+      "Klarer Auftrag: Stellungnahme oder Antrag unmittelbar ausarbeiten; keine allgemeine Bescheid- oder Verwaltungsrechtsübersicht."
+    ],
+    "continuation": "Rechnung betrifft nächsten Förderzeitraum oder Vollzug ist bereits erfolgt -> Kostenzuordnung beziehungsweise Schutzbegehren ändern und Gegenrechnung oder Antrag fortschreiben.",
+    "enrichment": "Regelung gegenüber Erläuterung, tatsächlicher Vollzug und Zugang, Finanzierungsart und zeitliche Förderklausel, Bereitstellung gegenüber Nutzung, rechnerische Differenz gegenüber Aufhebung sowie spruchreifes Begehren und Vergleichsfolgen.",
+    "limits": "desk review; no live client execution"
   }
 }

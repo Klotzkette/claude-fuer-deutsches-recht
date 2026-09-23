@@ -1,8 +1,10 @@
 # 1. Apothekenrecht: Werkstatt
 
-Prüfe den konkreten Apothekenvorgang anhand der Betriebsunterlagen, Verordnungen oder Abrechnungen. Erstelle die beauftragte Antwort an Kostenträger oder Aufsicht, Vertragsprüfung, Betriebsanweisung oder rechtliche Stellungnahme.
+Kläre, ob die beanstandete Arzneimittelabgabe zulässig war, der Vergütungsabzug trägt oder der Apothekenbetrieb einen aufsichtsrechtlichen Mangel beheben muss. Gleiche dafür Verordnung, tatsächliche Abgabe, Betriebsnachweise und Beanstandung ab und formuliere die beauftragte Retaxationserwiderung, Aufsichtsantwort, Vertragsprüfung oder Betriebsanweisung.
 
 ## 1.1. Vorgang und dringenden Handlungsbedarf feststellen
+
+Ohne Eingabe frage: „Retaxation beantworten, Abgabeablauf rechtlich absichern oder Aufsichtsbeanstandung bearbeiten?“ Bei Dateien ohne Aufgabe zunächst still lesen und zwei oder drei zum tatsächlichen Vorgang passende Wege anbieten; noch keine umfassende Abgabeanalyse. Bei klarem Auftrag unmittelbar das verlangte Dokument erarbeiten und nur entscheidende Lücken klären. Folgeantworten ändern die betroffene Abgabeposition, SOP oder Aufsichtsantwort; bekannte Betriebsdaten nicht erneut erheben.
 
 Lies zuerst die vorhandene Beanstandung und die zugehörigen Unterlagen. Übernimm Betriebsstätte, Inhaber, verantwortliche Person, betroffene Tätigkeit und Arbeitsauftrag aus der Akte; frage nicht erneut danach. Unterscheide eine Vergütungskürzung von einer Betriebsbeanstandung, einer Erlaubnisfrage und einem möglichen Ordnungswidrigkeiten- oder Strafverfahren.
 
@@ -13,6 +15,8 @@ Entnimm Fristen dem Schreiben, dem einschlägigen Vertrag oder der maßgeblichen
 ## 1.2. Arzneimittelabgabe anhand der Belege rekonstruieren
 
 Ordne Produkt, Verschreibung, Patient, Verordner und tatsächliche Abgabe ein. Unterscheide apothekenpflichtige, verschreibungspflichtige und besonders geregelte Arzneimittel anhand der Paragrafen 43 und 48 AMG sowie der jeweils einschlägigen Sonderregeln. Vergleiche Verordnungsinhalt, Identitäts- und Plausibilitätsprüfung, abgegebenes Präparat, Beratung und Dokumentation.
+
+Fehlt eine Verschreibung, prüfe den Ausnahmeweg nach [Paragraf 4 Absatz 1 AMVV](https://www.gesetze-im-internet.de/amvv/__4.html): unaufschiebbare Anwendung, ärztliche Mitteilung, gesicherte Identität und unverzügliche Nachreichung. Nach BGH, Urteil vom 08.01.2015, I ZR 123/13, Leitsätze b und c ([amtliche Veröffentlichung](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=pm&Blank=1&Datum=2015-1&Gericht=bgh&file=dokument.pdf&linked=bes&nr=72074)), genügt die Zustimmung eines mit dem Patienten nicht befassten Arztes nicht; erforderlich ist eine eigene Therapieentscheidung auf diagnostischer Grundlage. Eine notstandsbedingte Abgabe kommt nur bei anders nicht abwendbarer erheblicher akuter Gesundheitsgefahr in Betracht. Daraus keine allgemeine Ersatzverordnung durch Apotheker ableiten. Sonderbefugnisse und spätere Gesetzesänderungen zum Abgabezeitpunkt gesondert prüfen; die Entscheidung betrifft keine Retaxationshöhe.
 
 Für Substitution, Rabattvertrag und Versorgung zulasten der gesetzlichen Krankenversicherung sind Paragrafen 12 und 129 SGB V sowie die maßgebliche Fassung des Rahmenvertrags auseinanderzuhalten. Ordne Paragraf 73 SGB V und Paragraf 17 ApBetrO nur der jeweils betroffenen ärztlichen oder pharmazeutischen Pflicht zu. Eine allgemeine Berufung auf Wirtschaftlichkeit ersetzt nicht die konkrete Abgaberegel.
 
@@ -99,3 +103,25 @@ Rechtliche Aussagen am für den Vorgang maßgeblichen Norm- und Vertragsstand ab
 ## 1.8. Technische Grenzen
 
 Ohne weitere Skills anhand dieses Ablaufs weiterarbeiten und nur verfügbare Werkzeuge nutzen. Bei Abruffehlern einen geeigneten Alternativweg versuchen; verbleibende Quellenlücken und ungelesene Dateien gesondert benennen. Ohne Export den vollständigen Text ausgeben, keinen Dateilink erfinden; neue Fassungen und widersprechende Belege erneut prüfen. Technische Hindernisse begrenzen nur abhängige Schritte und rechtfertigen keine Behauptung einer tatsächlich nicht erfolgten Prüfung.
+
+## 2. Drei Arbeitswege bis zur ausformulierten Antwort
+
+### 2.1. Retaxation nach Austauschentscheidung
+
+Beginne bei der einzelnen beanstandeten Verordnung und dem konkreten Kürzungsgrund. Lege verordnetes und abgegebenes Präparat, Abgabezeitpunkt, dokumentierten Austauschgrund und verwendete Vertragsfassung nebeneinander. Eine aktuelle Warenverfügbarkeit beweist nicht die damalige Lage. Frage nur nach dem fehlenden Nachweis, etwa Warenwirtschaftsprotokoll oder Verordnerrücksprache, und nach der einschlägigen Vertragsfassung, falls sie nicht zugänglich ist. Keine pauschale Retaxationsfrist aus einem anderen Kostenträgerverfahren übernehmen.
+
+Nach „Das Präparat war nicht lieferbar“ prüfe, ob lediglich eine Erinnerung oder ein zeitnaher Beleg vorliegt. Bei belastbarer Dokumentation überarbeite die einschlägige Anspruchsvoraussetzung und die konkrete Zahlungsforderung; bei fehlender Dokumentation entwerfe eine gezielte Nachforderung oder kennzeichne den streitigen Nachweis in der Erwiderung. Ein später erstellter Vermerk darf mit seinem tatsächlichen Datum beigefügt werden, nicht als zeitgenössisches Protokoll erscheinen. Berücksichtige ungünstige Zeitstempel und abweichende Mengen ausdrücklich. Bestimme Darlegungs- und Nachweisfragen nach dem anwendbaren Vertrag und Anspruch, nicht allein danach, wer die Datei besitzt.
+
+Die fertige Erwiderung bezeichnet Verordnung, Abrechnung, Kürzung und geforderte Korrektur eindeutig. Rechnerisch abgerechneten Betrag, bereits gutgeschriebenen Teil und Restforderung abgleichen. Keine doppelte Rückforderung bereits erstatteter Beträge. Eine gesonderte rechtliche Prüfung bleibt nötig, wenn aus der Abrechnung eine Betriebsbeanstandung oder ein Sanktionsvorwurf entsteht.
+
+### 2.2. Rezept fehlt, SOP wird geändert
+
+Eine Patientenaussage über Dauermedikation ist der Anlass für die Klärung, nicht selbst die Verschreibung. Nach Paragraf 4 Absatz 1 AMVV unterscheide unaufschiebbare Anwendung, Mitteilung der verschreibenden Person, Identitätssicherung und unverzügliche Nachreichung. Die entscheidende Nachfrage lautet beispielsweise: „Liegt eine konkrete ärztliche Mitteilung über diese Verschreibung vor?“ Ist dies bereits belegt, nicht erneut fragen. Nach einer Mitteilung den dokumentierten Inhalt in den rechtlichen Ablauf übernehmen, ohne selbst Dosierung oder pharmazeutische Eignung festzulegen.
+
+Schreibe eine SOP, die Zuständigkeit, ärztliche Kontaktaufnahme, Dokumentation, Umgang mit Nichterreichbarkeit und Übergabe an die verantwortliche pharmazeutische Person regelt. Bei „Arzt nicht erreichbar“ keine automatische kleinste Packung oder Sieben-Tage-Regel einsetzen. Erarbeite den rechtlichen Klärungs- und Sicherungsweg und eine verständliche Patientenerklärung. Die vorhandene Entscheidung I ZR 123/13 bleibt auf den dort erläuterten Ausnahmefall begrenzt; sie entscheidet keine aktuelle Sonderbefugnis oder Vergütungsfrage.
+
+### 2.3. Aufsicht beanstandet fehlende Herstellungsnachweise
+
+Prüfe, ob die Maßnahme fehlt oder nur ihr Nachweis. Nach „Schulung findet nächste Woche statt“ muss die Antwort einen geplanten Termin nennen, nicht eine bereits absolvierte Schulung. Nach Übermittlung von Teilnahme- und Inhaltsnachweisen ändere diesen Abschnitt auf dokumentierte Durchführung. Eine neue SOP beweist nicht rückwirkend den alten Herstellungsablauf. Der Entwurf trennt gesicherten Befund, bestrittenen Vorwurf und tatsächliche Abhilfe, ohne ungewolltes umfassendes Schuldeingeständnis.
+
+Bei laufender Antwortfrist arbeite belegte Maßnahmen und eine begründete Bitte um ergänzende Frist aus, soweit beauftragt; eine beantragte Verlängerung nicht als bewilligt behandeln. Patientenbezogene Einzelheiten auf das erforderliche Maß begrenzen. Abschluss ist die vollständige Aufsichtsantwort mit passenden Anlagen oder die freigabefähige organisatorische SOP. Arzneimittelabgabe, Behördenmeldung und Versand bleiben eigenständige freizugebende Handlungen; offene pharmazeutische Sicherheit darf nicht durch juristischen Text ersetzt werden.

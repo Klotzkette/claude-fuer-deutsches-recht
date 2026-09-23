@@ -1,30 +1,51 @@
 {
   "schema_version": 1,
   "plugin": "roemisches-recht",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/bgb/__929.html",
       "checked_on": "2026-09-14",
       "supports": "Heutige deutsche Eigentumsübertragung durch Einigung und Übergabe als ausdrücklich moderne Vergleichsnorm, nicht als historische Quelle."
+    },
+    {
+      "url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-09.htm",
+      "checked_on": "2026-09-22",
+      "supports": "Getrennte Zurechnungsansätze im Barbierfall und Bezug zur lex Aquilia. Grenze: Keine moderne Mitverschuldensquote oder erfundene Urteilsidentität. Fachspezifischer Juristenfall statt anachronistischem heutigen Urteil; digitale Transkription geprüft, keine Handschriftenkollation."
+    },
+    {
+      "url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-09.htm",
+      "checked_on": "2026-09-23",
+      "supports": "Digitale Transkription der Digesten 9 gelesen, insbesondere D. 9.2.11 pr. und ergänzende Aquilia-Fragmente; historische Textquelle, kein modernes Urteil."
     }
   ],
   "mini_review": {
-    "verdict": "retained",
-    "reason": "Mini vollständig schlussgelesen, nicht nur Einstieg geprüft. Epochen, Textzeugen, Übersetzung und Prozessformen bleiben getrennt; nachgereichte Passage führt zur revidierten Deutung und fertigen Exegese. Kein moderner Prozesszwang oder Pflichtdateiname. Keine neue Quellenverifikation oder Live-Modellprüfung.",
+    "verdict": "revised",
+    "reason": "Fachliche Startvarianten und konkrete Antwortfortsetzung einzeln geprüft. Im Barbierfragment Argumentationsstimmen und Sachverhaltsvarianten unterscheiden; Translation, Überlieferung, zeitgebundene Aktionsprüfung und belegte Rezeptionsschritte separat bearbeiten.",
     "changes": [
-      "Historische Fallanalyse und gezielte Ergänzung fehlender Textstellen unverändert beibehalten."
+      "Actio, exceptio, Personenstatus und zeitlich passende Prozessform statt allgemeiner Analyseaufforderung.",
+      "Getrennte Zurechnungsansätze im Barbierfall und Bezug zur lex Aquilia. Grenze: Keine moderne Mitverschuldensquote oder erfundene Urteilsidentität.",
+      "Leerstart: Fragmentexegese, historische Falllösung oder Rezeptionsvergleich wählen.",
+      "Nachgereichter Textzeuge oder geänderte Orts- und Statusangabe verändert Übersetzung, Zuordnung der Juristenstimmen und historische actio-Prüfung.",
+      "Im Barbierfragment Argumentationsstimmen und Sachverhaltsvarianten unterscheiden; Translation, Überlieferung, zeitgebundene Aktionsprüfung und belegte Rezeptionsschritte separat bearbeiten."
     ],
-    "sha256": "8760214e7b03f634645435c08239064126a99d2464e625482e7b5181f551e073"
+    "sha256": "391763523fddd251dba10715f5a53d9364cd153291bd681d034135ddf7ab689b",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
   },
   "workshop_review": {
-    "verdict": "retained",
-    "reason": "Alle elf Abschnitte vollständig gelesen. Die bereits neu gegliederte Werkstatt bewahrt Status, Sachenrecht, Sicherheiten, Verträge, Delikte, Condictiones, Erbfolge und Rezeption. Keine abstrakte moderne Prozessroute oder generischen Pflichtausgaben; historische Mehrdeutigkeit bleibt auch bei vollständigem Text sichtbar.",
+    "verdict": "revised",
+    "reason": "Vollständige Werkstatt mit zusätzlichen fachlichen Entscheidungs- und Dokumentwegen einzeln geprüft. Im Barbierfragment Argumentationsstimmen und Sachverhaltsvarianten unterscheiden; Translation, Überlieferung, zeitgebundene Aktionsprüfung und belegte Rezeptionsschritte separat bearbeiten.",
     "changes": [
-      "Keine erneute Textänderung erforderlich; konkrete Quellenlücken führen bereits zur Aktualisierung und bestellten Endfassung.",
-      "ergebnis.md bleibt ausdrücklich nur Standard ohne Nutzerbenennung; vorhandene Quellen und Fälle unverändert."
+      "Actio, exceptio, Personenstatus und zeitlich passende Prozessform statt allgemeiner Analyseaufforderung.",
+      "Getrennte Zurechnungsansätze im Barbierfall und Bezug zur lex Aquilia. Grenze: Keine moderne Mitverschuldensquote oder erfundene Urteilsidentität.",
+      "Leerstart: Fragmentexegese, historische Falllösung oder Rezeptionsvergleich wählen.",
+      "Nachgereichter Textzeuge oder geänderte Orts- und Statusangabe verändert Übersetzung, Zuordnung der Juristenstimmen und historische actio-Prüfung.",
+      "Im Barbierfragment Argumentationsstimmen und Sachverhaltsvarianten unterscheiden; Translation, Überlieferung, zeitgebundene Aktionsprüfung und belegte Rezeptionsschritte separat bearbeiten."
     ],
-    "sha256": "a6c27a5bded096b4b60179aa89b56b5828c68286fa730e15ff23416727087364"
+    "sha256": "025d33882c3078ca6c8f285e4232f544c6a44ba48e1cf0eb262b176b52a34c76",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
   },
   "selection": {
     "positive": [
@@ -69,5 +90,42 @@
       ],
       "target_skill": "quellenkritik-digesten-institutionen"
     }
-  ]
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "roemisches-recht/roemisches-recht-werkstatt.md",
+      "roemisches-recht/roemisches-recht-schnellstart.md"
+    ],
+    "opening_change": "Actio, exceptio, Personenstatus und zeitlich passende Prozessform statt allgemeiner Analyseaufforderung.",
+    "norms": [
+      "D. 9.2.2 pr.",
+      "D. 9.2.5.1",
+      "D. 9.2.11 pr."
+    ],
+    "decisions": [
+      {
+        "citation": "D. 9.2.11 pr., Ulpian, libro 18 ad edictum; überlieferter Juristenfall, kein Gerichtsurteil",
+        "url": "https://droitromain.univ-grenoble-alpes.fr/Corpus/d-09.htm",
+        "application": "Getrennte Zurechnungsansätze im Barbierfall und Bezug zur lex Aquilia.",
+        "limit": "Keine moderne Mitverschuldensquote oder erfundene Urteilsidentität."
+      }
+    ],
+    "remaining_limits": [
+      "Fachspezifischer Juristenfall statt anachronistischem heutigen Urteil; digitale Transkription geprüft, keine Handschriftenkollation.",
+      "Workflow-Vertiefung 2026-09-23: Digitale Transkription auf Editionsgrundlage, keine Handschriftenkollation. Spätere Rezeption erfordert eigene Quellen; moderne Ähnlichkeit belegt keine durchgehende Übernahme. Desk review; keine Live-Client-Ausführung."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leerstart: Fragmentexegese, historische Falllösung oder Rezeptionsvergleich wählen.",
+      "Dateien: Fragment, Übersetzung und Editionsangabe still lesen und das historische Erkenntnisziel klären.",
+      "Klarer Auftrag: Exegese oder Aktionsprüfung ohne modernen BGB-Ersatz und ohne unnötige Quelleninventur schreiben."
+    ],
+    "continuation": "Nachgereichter Textzeuge oder geänderte Orts- und Statusangabe verändert Übersetzung, Zuordnung der Juristenstimmen und historische actio-Prüfung.",
+    "enrichment": "Im Barbierfragment Argumentationsstimmen und Sachverhaltsvarianten unterscheiden; Translation, Überlieferung, zeitgebundene Aktionsprüfung und belegte Rezeptionsschritte separat bearbeiten.",
+    "limits": "desk review; no live client execution"
+  }
 }

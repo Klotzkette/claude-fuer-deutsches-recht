@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "barrierefreiheit-web-checker",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/bfsg/__1.html",
@@ -17,16 +17,38 @@
       "url": "https://www.w3.org/WAI/WCAG22/Understanding/no-keyboard-trap.html",
       "checked_on": "2026-09-14",
       "supports": "Technische Primärquelle des Standardgebers zum Verlassen tastaturbedienbarer Bereiche; keine amtliche Rechtsquelle und keine pauschale gesetzliche Konformitätsvermutung."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2009/III_ZR__79-09.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 4. März 2010, III ZR 79/09, Randnummern 15 bis 27. Anwendung: Geschuldete funktionsfähige Website als Erfolg im Gesamtvertrag; werkvertragliche Mängelprüfung. Grenze: Keine Entscheidung über BFSG/WCAG und keine pauschale Einordnung von Hosting oder Beratung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bfsg/__3.html",
+      "checked_on": "2026-09-22",
+      "supports": "Kleinstunternehmen-Ausnahme für Dienstleistungen in Absatz 3."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bfsgv/__19.html",
+      "checked_on": "2026-09-22",
+      "supports": "Elektronischer Geschäftsverkehr: Zugänglichkeit der Identifizierung, Authentifizierung, Sicherheits- und Zahlungsfunktionen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bfsg/__3.html",
+      "checked_on": "2026-09-23",
+      "supports": "Absatz 3: Ausnahme für Kleinstunternehmen als Dienstleistungserbringer; daraus keine pauschale Produktausnahme oder Vertragsbefreiung ableiten."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Vollständige Schlusslektüre bestätigt den Weg vom belegten Nutzerprotokoll über gezielte Zugangsanforderung zum erneut geprüften Befund; Scannerergebnis und Live-Test werden nicht verwechselt.",
+    "reason": "Der Mini führt von Checkout-, Authentifizierungs- oder Tastaturbarrieren zur BFSG-Einordnung und zum konkreten Mängelbegehren gegen den Webseitenhersteller. Individueller Text- und Quellenreview, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert.",
     "changes": [
-      "Fehlendes Testkonto oder Originaldokument mit konkreter Nachforderung und anschließender Prüfung verbunden.",
-      "Gemeldete Korrektur verlangt Wiederholungstest statt automatischer Abnahme; bestellter Brief bleibt eigenes Endprodukt."
+      "BFSG Paragraf 1 Absatz 3 Nummer 5 und BFSGV Paragrafen 12 und 19 konkret zugeordnet.",
+      "III ZR 79/09 in die werkvertragliche Abhilfeprüfung integriert; keine behauptete BFSG-Rechtsprechung.",
+      "Leerstart: Nutzerweg, Agentur-Nachbesserung oder Verbraucherantwort anbieten. Dateien: Protokolle still lesen und passenden Prüf- oder Briefauftrag klären. Klarer Auftrag: Befund oder Dokument ohne vorgetäuschten Live-Test erstellen.",
+      "Gemeldete Escape-Korrektur führt zu Wiederholungstest samt Fokus; Vertragswortlaut verändert Nachbesserungsbegehren."
     ],
-    "sha256": "0941467f52bc08de7287938bf44e1f0859a112fad4756e87672ad86df659eb04"
+    "sha256": "e3ab28f8a550f27c6611676fcec597bf162d19e8b80a4d5e3bc67fe2a1b4e4df"
   },
   "selection": {
     "positive": [
@@ -74,12 +96,54 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt vollständig einschließlich Vergabe, Verbraucherantwort und Schlussabschnitten geprüft. Rechtsregime, technische Nutzerwege, Abhilfe und Wiederholungstest bilden einen nachvollziehbaren Ablauf ohne allgemeinen Prozesszwang.",
+    "reason": "Die Werkstatt verbindet BFSG-Ausnahmen und BFSGV-Anforderungen mit dem geschuldeten Werkerfolg, ohne aus dem Internet-System-Vertrag eine allgemeine Barrierefreiheitsgarantie abzuleiten. Die bezeichneten Anker wurden am amtlichen Entscheidungstext geprüft; keine pauschale Vollverifikation aller Nebenmaterien. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen.",
     "changes": [
-      "Anbieterangaben und technische Reproduktion getrennt nachfordern und nach Antwort gezielt fortsetzen lassen.",
-      "Behauptete Ausnahme oder Umsetzung nicht als Tatsache übernommen; Bericht und Abnahme an tatsächlichen Prüfumfang gebunden.",
-      "Interne Quellenvermerke aus Verbraucherantwort und Behördenstellungnahme herausgehalten."
+      "BFSG Paragraf 1 Absatz 3 Nummer 5 und BFSGV Paragrafen 12 und 19 konkret zugeordnet.",
+      "III ZR 79/09 in die werkvertragliche Abhilfeprüfung integriert; keine behauptete BFSG-Rechtsprechung.",
+      "Checkout-Nachtest, gesetzliche Ausnahme versus Vertrag, Agenturstreit und beschränkte Erklärung nach tatsächlichem Prüfumfang.",
+      "Gemeldete Escape-Korrektur führt zu Wiederholungstest samt Fokus; Vertragswortlaut verändert Nachbesserungsbegehren."
     ],
-    "sha256": "83e6822c6ccec9e7056cf42be4ae2499986e90318742f696b86f45a047760232"
+    "sha256": "854399a5263d867a29e06e580d36eefda4aafde1cad1129572dad7bb0828005a"
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leerstart: Nutzerweg, Agentur-Nachbesserung oder Verbraucherantwort anbieten.",
+      "Dateien: Protokolle still lesen und passenden Prüf- oder Briefauftrag klären.",
+      "Klarer Auftrag: Befund oder Dokument ohne vorgetäuschten Live-Test erstellen."
+    ],
+    "continuation": "Gemeldete Escape-Korrektur führt zu Wiederholungstest samt Fokus; Vertragswortlaut verändert Nachbesserungsbegehren.",
+    "enrichment": "Checkout-Nachtest, gesetzliche Ausnahme versus Vertrag, Agenturstreit und beschränkte Erklärung nach tatsächlichem Prüfumfang.",
+    "limits": "desk review; no live client execution"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "method": "desk_review",
+    "files": [
+      "barrierefreiheit-web-checker/README.md",
+      "barrierefreiheit-web-checker/barrierefreiheit-web-checker-werkstatt.md",
+      "barrierefreiheit-web-checker/barrierefreiheit-web-checker-schnellstart.md",
+      "quality/evals/barrierefreiheit-web-checker.json"
+    ],
+    "opening_change": "Bedienhindernis und vertragliche Abhilfe statt abstraktem Accessibility-Bericht.",
+    "norms": [
+      "Paragrafen 1 und 3 BFSG",
+      "Paragrafen 12 und 19 BFSGV",
+      "Paragrafen 631, 633, 634, 635 und 640 BGB"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 4. März 2010, III ZR 79/09, Randnummern 15 bis 27",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2009/III_ZR__79-09.pdf?__blob=publicationFile&v=1",
+        "application": "Geschuldete funktionsfähige Website als Erfolg im Gesamtvertrag; werkvertragliche Mängelprüfung.",
+        "limit": "Keine Entscheidung über BFSG/WCAG und keine pauschale Einordnung von Hosting oder Beratung."
+      }
+    ],
+    "remaining_limits": [
+      "Technische WCAG-/EN-Prüfung, öffentliche Stellen und konkrete Ausnahmebelege bleiben fallbezogen; nicht sämtliche Barrierefreiheitsrechtsprechung neu geprüft.",
+      "Desk-/Quellenreview, kein Live-Client- oder Modelltest. Bestehende Auswahl- und Ergebnisfälle unverändert erhalten.",
+      "Workflow-Anschlussprüfung 23.09.2026: individuelle Text- und Quellenprüfung, keine Live-Client-Ausführung. Frühere Entscheidungsprüfungen und ihre Reichweitengrenzen bleiben unverändert; keine erneute vollständige Rechtsprechungsprüfung behauptet."
+    ]
   }
 }

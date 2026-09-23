@@ -1,15 +1,33 @@
 {
   "schema_version": 1,
   "plugin": "preussisches-allgemeines-landrecht-pralr",
-  "reviewed_on": "2026-09-18",
-  "sources": [],
+  "reviewed_on": "2026-09-23",
+  "sources": [
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=pm&Datum=2017-9&nr=79600&linked=urt&Blank=1&file=dokument.pdf",
+      "checked_on": "2026-09-22",
+      "supports": "Rezeption des Aufopferungsanspruchs und Erweiterung auf immaterielle Nachteile. Grenze: Kein Nachweis desselben Ersatzumfangs im Jahr 1794 oder automatischer Fortgeltung des gesamten ALR. Amtlicher Leitsatz verifiziert; direkter PDF-Abruf technisch nicht auswertbar, keine Volltextprüfung behauptet."
+    },
+    {
+      "url": "https://www.koeblergerhard.de/Fontes/ALR1fuerdiepreussischenStaaten1794teil1.htm",
+      "checked_on": "2026-09-23",
+      "supports": "Historischer Normtext in privater Webtranskription erneut geöffnet; Einleitung Paragrafen 74 und 75 sowie Teil 1 Titel 1 Paragrafen 19 bis 21 gezielt gelesen. Kein amtliches Digitalisat, keine Faksimileprüfung, kein Beleg örtlicher Geltung oder tatsächlicher Gerichtspraxis."
+    },
+    {
+      "url": "https://www.koeblergerhard.de/Fontes/ALR2fuerdiepreussischenStaaten1794Teil2.htm",
+      "checked_on": "2026-09-23",
+      "supports": "Historischer Normtext in privater Webtranskription erneut geöffnet; Teil 2 Titel 5 Paragrafen 193 bis 208 gelesen: Aufenthaltsvarianten und fortdauernde Bindungen getrennt. Keine Faksimile- oder historische Praxisprüfung."
+    }
+  ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der vollständige historische Mini wurde auf Edition, Geltung und Ausnahmeprüfung gelesen.",
+    "reason": "Am 2026-09-23 vollständig gelesen und einzeln überarbeitet: kurze fachliche Startauswahl, stilles Lesen ohne Auftrag und direkte Fallarbeit; wiederholten Verweiskatalog gegen einen Mühlenfall und konkrete Dokumentfortsetzung getauscht.",
     "changes": [
-      "Nach ergänzter Quellenseite die konkrete historische Deutung revidieren und das bestellte Lehr- oder Argumentationsergebnis liefern."
+      "Konkrete ALR-Regel und ihre Ausnahmen am Ort und historischen Stichtag; heutige Rechtsüberleitung gesondert.",
+      "Rezeption des Aufopferungsanspruchs und Erweiterung auf immaterielle Nachteile. Grenze: Kein Nachweis desselben Ersatzumfangs im Jahr 1794 oder automatischer Fortgeltung des gesamten ALR.",
+      "2026-09-23: Normlesung, historischer Fall und heutiges Altrecht als Einstieg; Plan, Parteieingabe und Privileg nach Belegwert getrennt; Synopse und Gutachten nach neuer Ausnahme ändern."
     ],
-    "sha256": "ecbdaca3cc4ba6ba6eb44293d2b0ca7cfcfb87b1775326e2484da07cd603637e"
+    "sha256": "ce886c31fabc17902186243550f33c33f2ca4c1bf36c41d923f55f668cffb628"
   },
   "selection": {
     "positive": [
@@ -57,10 +75,48 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die ganze Werkstatt mit ihren historischen Sachgebieten wurde gelesen; gute Quellenarbeit blieb erhalten.",
+    "reason": "Am 2026-09-23 vollständig gelesen und individuell vertieft: Mühlen- und Wasserstreit, Strafakte, Quellenfunktion und Änderungen nach neuen Lesungen; umfassender vorhandener Spezialstoff und korrigierte historische Statusregeln erhalten.",
     "changes": [
-      "Doppelte angehängte Themenroute entfernt und eigenständige historische Informationen integriert; keine moderne Klage als Pflichtausgabe."
+      "Konkrete ALR-Regel und ihre Ausnahmen am Ort und historischen Stichtag; heutige Rechtsüberleitung gesondert.",
+      "Rezeption des Aufopferungsanspruchs und Erweiterung auf immaterielle Nachteile. Grenze: Kein Nachweis desselben Ersatzumfangs im Jahr 1794 oder automatischer Fortgeltung des gesamten ALR.",
+      "2026-09-23: Private Staubefugnis, obrigkeitliche Anordnung und Schadensnachweis als getrennte Mühlenfallzweige; Anklage, Urteil und Vollzug in Strafakten auseinandergehalten.",
+      "2026-09-23: Archivkorrespondenz nach Entstehungszweck bewertet und neue Lesung durch Übertragung, Subsumtion und Schlussfolgerung im vorhandenen Zieldokument fortgeschrieben."
     ],
-    "sha256": "a4e0c1889d9c84d631d508dfb5ac0cf5b0d7ad763e8b049738b25197a755f389"
+    "sha256": "dbd4f9b18be7d5bace0f404ee09de86c6c81b007ae09959b3bd90788e5668ff9"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "preussisches-allgemeines-landrecht-pralr/preussisches-allgemeines-landrecht-pralr-werkstatt.md",
+      "preussisches-allgemeines-landrecht-pralr/preussisches-allgemeines-landrecht-pralr-schnellstart.md"
+    ],
+    "opening_change": "Konkrete ALR-Regel und ihre Ausnahmen am Ort und historischen Stichtag; heutige Rechtsüberleitung gesondert.",
+    "norms": [
+      "PrALR Einleitung Paragrafen 74 und 75"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, 07.09.2017, III ZR 71/17, amtlicher Leitsatz",
+        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=pm&Datum=2017-9&nr=79600&linked=urt&Blank=1&file=dokument.pdf",
+        "application": "Rezeption des Aufopferungsanspruchs und Erweiterung auf immaterielle Nachteile.",
+        "limit": "Kein Nachweis desselben Ersatzumfangs im Jahr 1794 oder automatischer Fortgeltung des gesamten ALR."
+      }
+    ],
+    "remaining_limits": [
+      "Amtlicher Leitsatz verifiziert; direkter PDF-Abruf technisch nicht auswertbar, keine Volltextprüfung behauptet.",
+      "2026-09-23: Der Quellenprüfstand vom 2026-09-22 bleibt unverändert dokumentiert. Erneuter BGH-PDF-Abruf zu III ZR 71/17 scheiterte mit HTTP 403; heute keine erneute Leitsatz- oder Volltextverifikation. Historische Webtranskriptionen sind als solche klassifiziert; keine Kollation, Ortsgeltungs- oder Praxisprüfung. Neue Mühlen- und Strafaktenzweige sind Bearbeitungsmethoden, keine neu verifizierten historischen Urteile."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leere Eingabe: Textstelle lesen und vergleichen, damaligen Fall begutachten oder heutige Altrechtswirkung prüfen.",
+      "Dateien ohne Aufgabe: Scans und Urkunden still lesen und ausschließlich das Erkenntnisziel klären.",
+      "Klarer Auftrag: direkt Quellenbefund, Synopse oder Gutachten bearbeiten; nur entscheidenden Ort, Stichtag oder fehlende Passage erfragen."
+    ],
+    "continuation": "Nachgereichte Ausnahme ändert Lesung und Übertragung in textzeugenvergleich.md sowie Subsumtion und Schlussfolgerung in historisches-gutachten.md beziehungsweise dem Nutzerpfad; bereits geklärte Ausgabe und Datierung bleiben Grundlage.",
+    "enrichment": "Mühlenstreit nach privater Befugnis, hoheitlicher Anordnung und Schadensbeleg verzweigt; Strafvorwurf, Urteil und Vollzug getrennt; Quellenfunktion von Parteieingabe und Verwaltungsanweisung bestimmt; historische Antwort ohne ungefragte Gegenwartsprüfung abgeschlossen.",
+    "limits": "desk review; no live client execution"
   }
 }

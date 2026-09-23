@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "juristische-presseberichterstattung",
-  "reviewed_on": "2026-09-17",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/11/rk20251103_1bvr057325.html",
@@ -12,16 +12,43 @@
       "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2021&Gericht=bgh&Seite=13&anz=3571&nr=125294&pos=408",
       "checked_on": "2026-09-14",
       "supports": "Amtlicher Leitsatzauszug zu BGH, 16. November 2021, VI ZR 1241/20: Mindestbestand an Beweistatsachen, keine Vorverurteilung, grundsätzlich Stellungnahme einholen und berücksichtigen."
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=125294&Blank=1.pdf",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 16.11.2021, Az. VI ZR 1241/20, amtliche Leitsätze. Anwendung: Mindestbestand, öffentliches Interesse und sichtbare Stellungnahme vor identifizierendem Verdachtsbericht prüfen. Grenze und Prüfzugang: Anhörung heilt keine fehlenden Beweistatsachen oder eigenständig unzulässige Bildverwendung; Leitsätze amtlich indexiert geprüft."
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/11/rk20251103_1bvr057325.html",
+      "checked_on": "2026-09-22",
+      "supports": "BVerfG, Beschluss vom 03.11.2025, Az. 1 BvR 573/25, Randnummern 51 und 52. Anwendung: Gesamtschau der Recherche und öffentliches Interesse statt schematischer strafprozessualer Verdachtsstufe. Grenze und Prüfzugang: Kein Freibrief für unbelegte Vorwürfe; amtlich indexierte entscheidende Passagen und amtliche Zusammenfassung gelesen, Direktabruf gesperrt."
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=pm&Blank=1&Datum=2014&Gericht=bgh&file=dokument.pdf&linked=urt&nr=69626",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 18.11.2014, Az. VI ZR 76/14, amtlicher Leitsatz. Anwendung: Bei ursprünglich rechtmäßigem Bericht und später ausgeräumtem Verdacht neutralen Nachtrag statt Korrektur einer anfänglichen Falschaussage prüfen. Grenze und Prüfzugang: Nicht jede Verfahrenseinstellung räumt Verdacht aus; fortwirkende Beeinträchtigung prüfen. Amtlicher Leitsatz der verlinkten Entscheidung gelesen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gvg/__169.html",
+      "checked_on": "2026-09-22",
+      "supports": "Gerichtsöffentlichkeit und gesetzliche Aufnahmegrenzen statt pauschalen Aufnahmeverbots."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gg/art_5.html",
+      "checked_on": "2026-09-22",
+      "supports": "Kommunikationsfreiheit und gesetzliche Schranken."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Vollständige Schlusslektüre am 18. September 2026: Die Fortsetzung nach Stellungnahme oder Entscheidungsgründen war bereits konkret. Doppelte Tabellen verlangten daneben allgemeine Ergebnisbausteine; die pauschale Beweislastzuweisung an den Betroffenen passte nicht zur redaktionellen Sorgfaltsprüfung.",
+    "reason": "Stellungnahme muss im Bericht sichtbar werden; bloße Anfrage und eine laufende Ermittlung tragen keine Freigabe.",
     "changes": [
-      "Doppelte Fall- und Einsatzfeldtabellen durch konkrete Unterscheidung von Entscheidungsmeldung, Sitzungsbericht und Verdachtsmeldung ersetzt.",
-      "Redaktionelle Nachweisprüfung nicht durch pauschale Beweislastformel ersetzen; vorhandene Entscheidungsanker und Verfahrensgrenzen erhalten."
+      "BGH zur sichtbaren Gegenposition in beide Prompts integriert",
+      "BVerfG zur Gesamtschau statt strafprozessualer Verdachtsstufe begrenzt angewandt",
+      "Nachtrag bei später ausgeräumtem Verdacht und Aufnahmegrenzen präzisiert",
+      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt."
     ],
-    "sha256": "0d72b283185c36c45fc23625ba06e48e4edc4ce0671e4bd2bc11bd1462152d30"
+    "sha256": "aa2760b7efc9f303b250ff68a8c67b1a33e9b3e87ad5904b0c3bd3bd421f8db3"
   },
   "selection": {
     "positive": [
@@ -69,12 +96,68 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Vollständige Schlusslektüre am 18. September 2026: Der gute redaktionelle Hauptablauf wurde durch technische Übergabepakete und sachfremde Ausgabeanweisungen im Anhang überlagert.",
+    "reason": "Entscheidungsmeldung, Verdachtsbericht, Bild, Liveblog und Nachtrag am jeweiligen Quellenstand ausgerichtet; spätere Entlastung nicht mit anfänglichem Fehler gleichgesetzt.",
     "changes": [
-      "Doppelte Produktions- und Übergaberaster entfernt; Meldung, Sitzungsbericht, Verdacht, Bild, Liveblog, Interview und Korrektur mit passenden Ergebnissen geführt.",
-      "Stellungnahme, Bildherkunft und neue Verfahrensinformationen führen zur Überarbeitung der betroffenen Textstellen statt Bearbeitungsabbruch.",
-      "Veröffentlichungsgrenzen als klare Anweisungen formuliert; alle vier vorhandenen Entscheidungsanker bewahrt, keine erneute Rechtsprechungsverifikation behauptet."
+      "BGH zur sichtbaren Gegenposition in beide Prompts integriert",
+      "BVerfG zur Gesamtschau statt strafprozessualer Verdachtsstufe begrenzt angewandt",
+      "Nachtrag bei später ausgeräumtem Verdacht und Aufnahmegrenzen präzisiert",
+      "Quellen- und Verfahrensstufen, tragende Aussage statt bloßem Zitat, konkrete Konfrontation mit Antwortfrist, indirekte Identifizierbarkeit sowie konsistente Artikel-, Überschriften- und Begleittexte vertieft."
     ],
-    "sha256": "ed36acc194948ee1e7048d3045dbcc88fc2b6509b5c66c2c8dfdd587cf4fb29f"
+    "sha256": "ad22fafd984b6323366f549cf733be8626d6fc14fdb5b68b02433cd8b4a372d5"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "juristische-presseberichterstattung/juristische-presseberichterstattung-schnellstart.md",
+      "juristische-presseberichterstattung/juristische-presseberichterstattung-werkstatt.md",
+      "juristische-presseberichterstattung/README.md",
+      "quality/evals/juristische-presseberichterstattung.json"
+    ],
+    "opening_change": "Entscheidung, Parteibehauptung und offener Verdacht unterscheiden; Zurückverweisung nicht als endgültigen Sieg berichten.",
+    "norms": [
+      "Artikel 5 Absatz 1 und 2 GG",
+      "Paragrafen 823 und 1004 BGB analog",
+      "Paragrafen 22 und 23 KUG",
+      "Paragraf 169 GVG",
+      "Paragraf 353d StGB"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 16.11.2021, Az. VI ZR 1241/20, amtliche Leitsätze",
+        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=125294&Blank=1.pdf",
+        "application": "Mindestbestand, öffentliches Interesse und sichtbare Stellungnahme vor identifizierendem Verdachtsbericht prüfen.",
+        "limit": "Anhörung heilt keine fehlenden Beweistatsachen oder eigenständig unzulässige Bildverwendung; Leitsätze amtlich indexiert geprüft."
+      },
+      {
+        "citation": "BVerfG, Beschluss vom 03.11.2025, Az. 1 BvR 573/25, Randnummern 51 und 52",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/11/rk20251103_1bvr057325.html",
+        "application": "Gesamtschau der Recherche und öffentliches Interesse statt schematischer strafprozessualer Verdachtsstufe.",
+        "limit": "Kein Freibrief für unbelegte Vorwürfe; amtlich indexierte entscheidende Passagen und amtliche Zusammenfassung gelesen, Direktabruf gesperrt."
+      },
+      {
+        "citation": "BGH, Urteil vom 18.11.2014, Az. VI ZR 76/14, amtlicher Leitsatz",
+        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=pm&Blank=1&Datum=2014&Gericht=bgh&file=dokument.pdf&linked=urt&nr=69626",
+        "application": "Bei ursprünglich rechtmäßigem Bericht und später ausgeräumtem Verdacht neutralen Nachtrag statt Korrektur einer anfänglichen Falschaussage prüfen.",
+        "limit": "Nicht jede Verfahrenseinstellung räumt Verdacht aus; fortwirkende Beeinträchtigung prüfen. Amtlicher Leitsatz der verlinkten Entscheidung gelesen."
+      }
+    ],
+    "remaining_limits": [
+      "Desk-/Quellenprüfung, kein Live-Ergebnistest.",
+      "Teilweise amtliche indexierte Leitsätze/Passagen statt direkt abrufbarer Gesamtentscheidungen; keine umfassende Landespresserechtsprüfung.",
+      "Workflow-Ergänzung am 2026-09-23: individuelle Textprüfung, keine erneute Gesamtverifikation der bestehenden Entscheidungsanker; deren dokumentierte Quellen- und Zugriffsgrenzen bleiben bestehen.",
+      "Erneuter Abruf von Paragraf 169 GVG am 2026-09-23 scheiterte; bestehende Quellenbewertung nicht als neue Volltextprüfung ausgegeben."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Entscheidungsbericht, Verdachtsbericht oder Korrekturmeldung anbieten.",
+      "Dateien ohne Auftrag: Pressemitteilung, Entscheidung und Stellungnahme still lesen; passende Veröffentlichung oder Quellenabgleich zur Auswahl stellen.",
+      "Klarer Auftrag: den bestellten Veröffentlichungstext ohne vorgeschaltete Aktenzusammenfassung ausformulieren."
+    ],
+    "continuation": "Neue entlastende Vertragsfassung -> Verdachtskern, Konfrontationsfrage, Überschrift und Artikeltext neu gewichten; nachträgliche Entwicklung von Korrektur eines ursprünglichen Fehlers unterscheiden.",
+    "enrichment": "Quellen- und Verfahrensstufen, tragende Aussage statt bloßem Zitat, konkrete Konfrontation mit Antwortfrist, indirekte Identifizierbarkeit sowie konsistente Artikel-, Überschriften- und Begleittexte vertieft.",
+    "limits": "desk review; no live client execution"
   }
 }

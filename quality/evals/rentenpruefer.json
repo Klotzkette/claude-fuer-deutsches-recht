@@ -1,30 +1,75 @@
 {
   "schema_version": 1,
   "plugin": "rentenpruefer",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/sgb_6/__51.html",
       "checked_on": "2026-09-14",
       "supports": "Anrechnung von Kalendermonaten nach jeweiliger Wartezeit; allgemeine Wartezeit und 35- beziehungsweise 45-jährige Wartezeit haben unterschiedliche Zeitkategorien."
+    },
+    {
+      "url": "https://www.bsg.bund.de/SharedDocs/Downloads/DE/Entscheidungen/2018/2018_03_21_B_13_R_19_14_R.pdf?__blob=publicationFile&v=2",
+      "checked_on": "2026-09-22",
+      "supports": "Erneute Primärquellenprüfung: BSG, Urteil vom 21.03.2018, B 13 R 19/14 R, Randnummern 14 bis 17 und 22. Anwendung: Fehlende Beitragszeiten und Bindung einer Vormerkung von späterer Entgeltpunktebewertung trennen; Renteninformation ist keine Leistungsbewilligung. Grenze: Keine Zusage künftiger Höhe oder Anerkennung beliebiger Zeiten; Streitgegenstand der ursprünglichen Entscheidung war Kindererziehung."
+    },
+    {
+      "url": "https://www.bsg.bund.de/SharedDocs/Downloads/DE/Entscheidungen/2019/2019_12_11_B_13_R_07_18_R.pdf?__blob=publicationFile&v=3",
+      "checked_on": "2026-09-22",
+      "supports": "Erneute Primärquellenprüfung: BSG, Urteil vom 11.12.2019, B 13 R 7/18 R, Randnummern 30 bis 40 und 49 bis 50. Anwendung: Im Werkstatt-EM-Zweig qualitative Einschränkungen und mögliche Pflicht zur Benennung konkreter Tätigkeit prüfen. Grenze: Kein Altersrentenanker und keine Rentenzusage aufgrund bloßer Diagnosen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/sgb_6/__149.html",
+      "checked_on": "2026-09-22",
+      "supports": "Vormerkungsbescheid und spätere Bewertung gesetzlich getrennt."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/sgb_6/__64.html",
+      "checked_on": "2026-09-22",
+      "supports": "Monatsbetrag aus persönlichen Entgeltpunkten, Rentenartfaktor und Rentenwert."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/sgb_6/__51.html",
+      "checked_on": "2026-09-22",
+      "supports": "Unterschiedliche anrechenbare Zeitkategorien bei allgemeiner, 35- und 45-jähriger Wartezeit."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/sgb_6/__51.html",
+      "checked_on": "2026-09-23",
+      "supports": "Überlappende Monate, differenzierte 35-/45-Jahresprüfung, Brutto-/Zahlbetrag und funktionale medizinische Ergänzung. Prüftiefe: Zeitkategorien und Feststellungsverfahren erneut gelesen; keine individuelle Rentenwert-, Satzungs- oder medizinische Vollprüfung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/sgb_6/__149.html",
+      "checked_on": "2026-09-23",
+      "supports": "Überlappende Monate, differenzierte 35-/45-Jahresprüfung, Brutto-/Zahlbetrag und funktionale medizinische Ergänzung. Prüftiefe: Zeitkategorien und Feststellungsverfahren erneut gelesen; keine individuelle Rentenwert-, Satzungs- oder medizinische Vollprüfung."
     }
   ],
   "mini_review": {
-    "verdict": "retained",
-    "reason": "Mini vollständig gelesen. Monatsüberschneidungen, anerkannte Zeiten und neue Nachweise bleiben getrennt; Nachlieferungen ändern Wartezeit, Betrag oder medizinische Argumentation und anschließend das bestellte Schreiben. Keine neue Quellenverifikation oder Live-Modellprüfung.",
+    "verdict": "revised",
+    "reason": "Kurzprompt individuell auf Einstieg, fachliche Fortsetzung und vollständiges Arbeitsprodukt geprüft. Überlappende Monate, differenzierte 35-/45-Jahresprüfung, Brutto-/Zahlbetrag und funktionale medizinische Ergänzung.",
     "changes": [
-      "Monatsabgleich, gezielte Nachforderung und Fortsetzung zur auftragsgemäßen Endfassung beibehalten."
+      "Persönliche Entgeltpunkte enthalten den Zugangsfaktor; keine erneute Multiplikation.",
+      "B 13 R 19/14 R trennt Feststellung von Zeitart und Umfang von späterer Bewertung; anfechtbaren Bescheid bestimmen.",
+      "Neuer Zielmonat -> Wartezeitfenster und Faktoren neu prüfen; Beitragsbescheinigung -> nur zusätzliche Monate beantragen.",
+      "Überlappende Monate, differenzierte 35-/45-Jahresprüfung, Brutto-/Zahlbetrag und funktionale medizinische Ergänzung."
     ],
-    "sha256": "bd1988882ed20561b34f508a36b6df7d58c6f034cc91ee779873f37f6301fe58"
+    "sha256": "74eac3c7aa19729180893acca7877d7b03d2340795f628b8328ec36b9ad23798",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
   },
   "workshop_review": {
-    "verdict": "retained",
-    "reason": "Werkstatt vollständig schlussgelesen. Bereits überarbeitete Fassung verbindet Monatsprüfung, Rentenformel und funktionale medizinische Nachweise mit konkreter Fortsetzung. Gesetzliche, betriebliche, private und ausländische Versorgung werden nicht vermischt; keine Pflicht-Versandmappe oder ungefragte Klage.",
+    "verdict": "revised",
+    "reason": "Werkstatt individuell auf Einstieg, fachliche Fortsetzung und vollständiges Arbeitsprodukt geprüft. Überlappende Monate, differenzierte 35-/45-Jahresprüfung, Brutto-/Zahlbetrag und funktionale medizinische Ergänzung.",
     "changes": [
-      "Keine weitere Textänderung nötig; Archivantworten, Arztberichte und Berechnungsnachweise werden schon in den bestellten Entwurf eingearbeitet.",
-      "Bestehende Quellenanker unverändert; frühere Quellenprüfdaten nicht erneuert."
+      "Vormerkung, unverbindliche Renteninformation und Leistungsbescheid deutlich getrennt.",
+      "Rentenformel nach Paragrafen 64 und 66 SGB VI explizit gegen Doppelabschlag gesichert.",
+      "Unverifizierte alte Syndikusurteile entfernt; aktueller Beschäftigungsbezug bleibt Prüfauftrag.",
+      "Neuer Zielmonat -> Wartezeitfenster und Faktoren neu prüfen; Beitragsbescheinigung -> nur zusätzliche Monate beantragen.",
+      "Überlappende Monate, differenzierte 35-/45-Jahresprüfung, Brutto-/Zahlbetrag und funktionale medizinische Ergänzung."
     ],
-    "sha256": "91e389548ebb7667715e128999090041b3cb501ff6646390f08f8658333071a4"
+    "sha256": "b0e5b45f14fe5a4fb06d81f85f07e429139cb963218a27e465abe9a4497adda9",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
   },
   "selection": {
     "positive": [
@@ -69,5 +114,47 @@
       ],
       "target_skill": "kontenklaerung-drv"
     }
-  ]
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "rentenpruefer/rentenpruefer-werkstatt.md",
+      "rentenpruefer/rentenpruefer-schnellstart.md"
+    ],
+    "opening_change": "Monatsbezogene Zeitnachweise abgleichen und Rentenbeträge aus Bescheidanlagen nachrechnen statt pauschaler Rentenprüfung.",
+    "norms": [
+      "Paragrafen 43, 51, 64, 66, 109 und 149 Absatz 5 SGB VI"
+    ],
+    "decisions": [
+      {
+        "citation": "BSG, Urteil vom 21.03.2018, B 13 R 19/14 R, Randnummern 14 bis 17 und 22",
+        "url": "https://www.bsg.bund.de/SharedDocs/Downloads/DE/Entscheidungen/2018/2018_03_21_B_13_R_19_14_R.pdf?__blob=publicationFile&v=2",
+        "application": "Fehlende Beitragszeiten und Bindung einer Vormerkung von späterer Entgeltpunktebewertung trennen; Renteninformation ist keine Leistungsbewilligung.",
+        "limit": "Keine Zusage künftiger Höhe oder Anerkennung beliebiger Zeiten; Streitgegenstand der ursprünglichen Entscheidung war Kindererziehung."
+      },
+      {
+        "citation": "BSG, Urteil vom 11.12.2019, B 13 R 7/18 R, Randnummern 30 bis 40 und 49 bis 50",
+        "url": "https://www.bsg.bund.de/SharedDocs/Downloads/DE/Entscheidungen/2019/2019_12_11_B_13_R_07_18_R.pdf?__blob=publicationFile&v=3",
+        "application": "Im Werkstatt-EM-Zweig qualitative Einschränkungen und mögliche Pflicht zur Benennung konkreter Tätigkeit prüfen.",
+        "limit": "Kein Altersrentenanker und keine Rentenzusage aufgrund bloßer Diagnosen."
+      }
+    ],
+    "remaining_limits": [
+      "Redaktionelle Quellenprüfung ohne Live-Modelllauf oder Rentenberechnung mit echten Versicherungsdaten.",
+      "Keine Vollverifikation sämtlicher Satzungen, Auslandsabkommen, Hinzuverdienstwerte oder steuerlicher Abzüge.",
+      "Workflow-Vertiefung 2026-09-23: Zeitkategorien und Feststellungsverfahren erneut gelesen; keine individuelle Rentenwert-, Satzungs- oder medizinische Vollprüfung. Desk review; kein Live-Client-Test."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Kontenklärung, Betrag oder Erwerbsminderungsablehnung anbieten.",
+      "Verlauf und Bescheid still lesen, keine Lebenslaufzusammenfassung.",
+      "Bestellte Monatsrechnung oder Eingabe unmittelbar ausarbeiten."
+    ],
+    "continuation": "Neuer Zielmonat -> Wartezeitfenster und Faktoren neu prüfen; Beitragsbescheinigung -> nur zusätzliche Monate beantragen.",
+    "enrichment": "Überlappende Monate, differenzierte 35-/45-Jahresprüfung, Brutto-/Zahlbetrag und funktionale medizinische Ergänzung.",
+    "limits": "desk review; no live client execution"
+  }
 }

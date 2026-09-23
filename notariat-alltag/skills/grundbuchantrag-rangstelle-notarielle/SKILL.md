@@ -1,102 +1,46 @@
 ---
 name: grundbuchantrag-rangstelle-notarielle
-description: "Für Notariat im Alltag: Grundbuchantrag – Rangstelle, Zwischenverfügung, Nachreichung: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
+description: "Bereitet Grundbuchanträge, Rangänderungen und Antworten auf Zwischenverfügungen vor. Gleicht Bewilligung, Auflassung, Lastenfreistellung und Nachweisform ab und führt offene Eintragungshindernisse bis zur Vorlage an den Notar fort."
 ---
 
-# Notariat im Alltag: Grundbuchantrag – Rangstelle, Zwischenverfügung, Nachreichung
+# 1. Grundbuchvollzug und Zwischenverfügung bearbeiten
 
-## Arbeitsweg
+## 1. Zweck und Anwendungsfall
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Arbeite den konkreten Eintragungsauftrag ab: Eigentum, Vormerkung, Grundschuld, Dienstbarkeit, Rangänderung oder Löschung. Ein Kaufvertragsentwurf und ein bereits eingereichter Grundbuchantrag sind unterschiedliche Verfahrensstände. Mitarbeiter bereiten Anträge vor; Amtshandlungen und Freigaben bleiben beim Notar.
 
-## Zweck und Anwendungsbereich
+## 2. Eingaben
 
-Der Grundbuchantrag ist das prozessuale Werkzeug für jede Änderung im Grundbuch. Dieser Skill erklärt das Antragsprinzip, das Rangprinzip, den Umgang mit Zwischenverfügungen und die fristgerechte Nachreichung fehlender Unterlagen.
+Lies die bezeichnete Urkunde, den vollständigen Grundbuchauszug, bereits gestellte Anträge, Eingangsbestätigungen und eine etwaige Zwischenverfügung. Bei mehreren Blättern nicht allein nach Adresse zuordnen. Frage nur nach dem fehlenden Nachweis, der die konkrete Eintragung trägt.
 
-Rechtsgrundlagen: §§ 13–30 GBO (Antragsgrundsatz, Form, Inhalt), § 17 GBO (Rangprinzip), §§ 18–19 GBO (Zwischenverfügung, Eintragungsbewilligung), § 20 GBO (Auflassung), §§ 29–30 GBO (Form der Bewilligungen), § 71 GBO (Beschwerde), GBV (Grundbuchverfügung), FamFG §§ 380–410 (Grundbuchsachen).
+## 3. Ablauf
 
-## Antragsgrundsatz (§ 13 GBO)
+### 3.1. Recht und Nachweis zusammenführen
 
-Eine Eintragung erfolgt nur auf Antrag. Der Antrag kann von jedem gestellt werden, dessen Recht betroffen ist. Der Notar stellt regelmäßig den Antrag namens der Beteiligten (§ 15 GBO). Der Antrag muss den Eintragungsgegenstand eindeutig bezeichnen (Grundstück, Recht, Berechtigter).
+Für jedes Recht Blatt, laufende Nummer, Berechtigten, betroffenen Eigentümer, Bewilligung und Antrag bestimmen. GBO Paragrafen 13, 15, 19, 20 und 29 unterscheiden Antragsbefugnis, notarielle Vertretungsvermutung, Bewilligung, Einigung und Nachweisform. Eine Einigung ist nicht immer durch die bloße Unterschriftsbeglaubigung bewiesen. Bei Erbfolge Paragrafen 35 und 40 prüfen; keinen Erbschein oder eine Voreintragung unabhängig vom vorhandenen öffentlichen Testament verlangen.
 
-## Rangprinzip (§ 17 GBO)
+### 3.2. Rang und Zahlungsvoraussetzungen prüfen
 
-Anträge werden in der Reihenfolge ihres Eingangs beim Grundbuchamt bearbeitet. Der Eingang begründet den Rang für das beantragte Recht. Bei mehreren gleichzeitig eingehenden Anträgen entscheidet die Reihenfolge im Tagebuch. Rangvorbehalt (§ 881 BGB) und Rangänderung (§ 880 BGB) sind möglich.
+Bearbeitungsreihenfolge nach GBO Paragraf 17, Eintragungsregeln nach Paragraf 45 und materiellen Rang nach BGB Paragraf 879 getrennt lesen. Eingang ist keine pauschale Ranggarantie. Bei Rangänderung nach BGB Paragraf 880 die betroffenen Rechte und erforderlichen Erklärungen genau benennen. Löschung, Pfandfreigabe, Rangrücktritt und bloße Zahlungsquittung nicht austauschen. Beim Briefrecht den Briefverbleib prüfen; ein fehlender Brief wird nicht durch eine selbst verfasste Verlustbestätigung kraftlos.
 
-## Checkliste Antragsinhalte
+### 3.3. Auf Zwischenverfügung reagieren
 
-- Bezeichnung des Grundbuchs (Amtsgericht, Grundbuchbezirk, Band/Blatt oder Grundstücksnummer)
-- Art der begehrten Eintragung (Eigentumsumschreibung, Grundschuldbestellung, Löschung, Vormerkung)
-- Eintragungsbewilligung oder Eintragungsantrag des Berechtigten (§ 19 GBO)
-- Beilagen: Auflassung/Bewilligung in beglaubigter Form (§§ 29–30 GBO)
-- Steuerliche Unbedenklichkeit (§ 22 GrEStG) bei Eigentumsumschreibung
-- Erbschein/ENZ bei Erbfolge als Legitimationsnachweis
+Frist, konkrete Beanstandung und verlangten Nachweis aus der Verfügung übernehmen. Nach GBO Paragraf 18 Hindernis und mögliche Behebung prüfen; nicht jede fehlende Erklärung lässt sich rangwahrend nachreichen. Antrag nicht ohne notarielle Entscheidung zurücknehmen. Bei Verzögerung rechtzeitig einen begründeten Verlängerungsantrag vorbereiten; bis Bewilligung bleibt die bisherige Frist maßgeblich. Paragraf 18 Absatz 2 ist keine besondere Fristverlängerungsnorm.
 
-## Zwischenverfügung (§ 18 GBO)
+Beschwerde nach GBO Paragrafen 71 ff. gesondert prüfen. Nach Paragraf 72 entscheidet das Oberlandesgericht. Eine Beschwerde ersetzt weder fehlende Vollzugsnachweise noch eine Verlängerungsentscheidung. Die Statthaftigkeit gegen eine schon erfolgte Eintragung unterliegt den Grenzen von Paragraf 71 Absatz 2.
 
-Wenn der Antrag noch nicht vollständig ist, ergeht eine Zwischenverfügung. Der Eingang des Antrags bleibt als Rangdatum erhalten. Der Notar hat die fehlenden Unterlagen innerhalb der gesetzten Frist (üblicherweise 1–3 Monate) nachzureichen. Nach Ablauf kann das Grundbuchamt den Antrag zurückweisen.
+### 3.4. Nachreichung bis zur Rückmeldung verfolgen
 
-**Typische Zwischenverfügungsgründe:**
-- Fehlende steuerliche Unbedenklichkeit
-- Unvollständige oder fehlende Vollmacht
-- Fehlender Erbnachweis
-- Formfehler in der Bewilligung
-- Fehlende Löschungsbewilligung eingetragener Rechte
-- Fehlende Genehmigung (Betreuer, Familiengericht)
+Nach Eingang einer Bewilligung Person, Recht, Betrag und erfasste Teilfläche gegen Antrag und Verfügung vergleichen. Dann eine ausformulierte Nachreichung mit genau bezeichneten Anlagen erstellen. Eine Übermittlungsbestätigung ist noch kein Eintragungsnachweis. Nach Registermitteilung erst die tatsächlich vollzogenen Rechte abhaken und verbleibende Rang- oder Löschungsreste an `vollzug-fristen-wiedervorlage` übergeben.
 
-## Prüfprogramm
+## 4. Quellenpflicht
 
-- Ist das Grundbuch aktiv? (Keine Grundstücksverschmelzung, kein Berichtigungsverfahren anhängig?)
-- Liegt die Eintragungsbewilligung in richtiger Form vor? (§ 29 GBO: öffentlich beglaubigte Unterschrift)
-- Auflassung in der Urkunde enthalten oder separat? (§ 925 BGB, § 20 GBO)
-- Rangverhältnis: Bestehende Belastungen in Abt. II/III geprüft?
-- Löschungsbewilligungen der abzulösenden Rechte vollständig?
-- Vertretungsnachweis (Vollmacht, Gesellschaftsvertrag, Registerauszug) aktuell?
+[GBO](https://www.gesetze-im-internet.de/gbo/) und [BGB Paragraf 879](https://www.gesetze-im-internet.de/bgb/__879.html) anhand des Vorgangs prüfen. Für die konkrete Vollzugshandlung benötigte Quelle nach [Zitierweise](../../references/zitierweise.md) dokumentieren. Landesbezogene Übermittlungsvorgaben nur als geprüft ausgeben, wenn sie tatsächlich vorliegen.
 
-## Nachreichungsfristen verwalten
+## 5. Ausgabeformat
 
-Sofort bei Zwischenverfügungseingang: Frist im Vollzugskalender vermerken, Mandant informieren, fehlende Unterlagen anfordern. Fristversäumnis → Antragszurückweisung → Rangrelevanz. Fristverlängerungsantrag vor Ablauf stellen (§ 18 Abs. 2 GBO).
+Antrag oder Antwort vollständig in Sätzen formulieren, mit zuständigem Grundbuchamt, Blatt, Antrag, Begründung soweit erforderlich und konkreten Anlagen. Interne Frist- und Rangnotiz getrennt halten. „Entwurf zur notariellen Prüfung“, Times New Roman 11 pt und dezimale Gliederung. Keine behauptete Eintragung, kein leerer Anlagenverweis.
 
-## Beschwerde (§ 71 GBO)
+## 6. Beispiel
 
-Gegen Zwischenverfügungen und Zurückweisungen ist die Beschwerde nach § 71 GBO statthaft (Beschwerdegericht: Landgericht). Frist: keine gesetzliche, aber faktisch zeitkritisch wegen Rangverlust.
-
-## Typische Fallen
-
-- Rangverlust durch verspätete Nachreichung → neuer Antrag mit schlechterem Rang.
-- Steuerliche Unbedenklichkeit beantragt, aber GrESt-Bescheid noch nicht erlassen.
-- Löschungsbewilligung auf falschen Namen ausgestellt.
-- Auflassung ohne Einigung (§ 873 BGB) – formell unvollständig.
-- Unklare Bezeichnung des Grundstücks (Flurstücksnummer veraltet).
-
-## Rechtsquellen
-
-- GBO §§ 13–30: https://dejure.org/gesetze/GBO/13.html
-- § 17 GBO (Rang): https://dejure.org/gesetze/GBO/17.html
-- § 18 GBO (Zwischenverfügung): https://dejure.org/gesetze/GBO/18.html
-- GBV: https://www.gesetze-im-internet.de/gbv/
-- BGH zu Grundbuchverfahren: https://www.bgh.de
-- BNotK Grundbuchhinweise: https://www.bnotk.de
-
-## Output-Formate
-
-- **Antragsentwurf** (strukturiert nach GBO-Anforderungen)
-- **Zwischenverfügungsantwort** (Muster, fristwahrend)
-- **Rangtabelle** (bestehende Belastungen, neue Eintragung)
-- **Vollzugscockpit** (offene Nachreichungen, Fristen, Verantwortliche)
-- **Mandantenmail** (Statusbericht Grundbuchverfahren)
-
-Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
+Das Grundbuchamt verlangt einen Vertretungsnachweis. Die neue Datei zeigt nur eine einfache Kopie. Fordere die konkret erforderliche Nachweisform nach und bereite bei naher Frist einen begründeten Verlängerungsentwurf vor; die Kopie nicht als erledigte Beanstandung buchen.

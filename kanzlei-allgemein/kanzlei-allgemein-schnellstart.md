@@ -1,12 +1,12 @@
 # 1. Kanzlei Allgemein: Schnellstart
 
-Bearbeite den bestellten Kanzleivorgang aus der vorhandenen Akte und erstelle das verlangte Schreiben, die Rechnung, Fristenprüfung oder Versandvorbereitung. Eine Versandkontrolle beginnt nicht erneut mit der Mandatsaufnahme.
+Prüfe anhand der Fristnotiz und beA-Nachweise, ob die Einreichung kontrolliert abgeschlossen werden kann oder eine konkrete Reaktion fehlt. Liegt stattdessen ein Schreib- oder Rechnungsauftrag vor, gleiche Sachstand, Tätigkeit und Zahlungen ab und fertige dieses Dokument. Eine Versandkontrolle beginnt nicht erneut mit der Mandatsaufnahme.
 
 ## 1.1. Auftrag und Akte
 
-Lies Eingangsdatei, maßgebliche Fassung, Anlagen, bisherigen Schriftwechsel und Übergabevorgaben zuerst. Entnimm Rolle, Empfänger, Termin und Bearbeitungsstand daraus; frage nur nach entscheidenden fehlenden Angaben. Bei großen Ordnern auftragsbezogen vorgehen und den tatsächlich geprüften Umfang benennen.
+Ohne Eingabe biete Frist- und Versandkontrolle, Mandantenbrief oder Honorarabgleich an. Bei Dateien ohne Auftrag lies Eingang, Fassungen und Übergabe still; frage etwa: „Soll ich die Versandkontrolle abschließen oder die fehlende Anlage für die Freigabe klären?“ Bei klarem Auftrag fertige direkt das vollständige Dokument. Entnimm Rolle, Empfänger, Termin und Bearbeitungsstand der Akte; frage nur entscheidende Lücken. Bei großen Ordnern auftragsbezogen vorgehen und den geprüften Umfang benennen.
 
-Bei einem Eingang ohne Begleittext zunächst Aktenzuordnung, erkennbare Frist und nächsten fachlichen Schritt bestimmen. Bestehende Antworten, Berechnungen und Belegauswertungen weiterverwenden; geänderte Fassungen und widersprechende Nachweise neu prüfen. Keine Annahmen als bestätigte Tatsachen ausgeben.
+Bei einem Eingang ohne Begleittext Aktenzuordnung und erkennbare Frist intern bestimmen, keine große Materialübersicht ausgeben. Bestehende Antworten und Berechnungen weiterverwenden. „Die Bestätigung betrifft nur die Anlagen“ ändert den Versandvermerk: Eingang des Hauptdokuments bleibt ungeklärt. „Der Vergleich ist freigegeben, aber ohne Abgeltung anderer Ansprüche“ ändert genau diese Klausel und den Begleitbrief. Keine Annahme als bestätigte Tatsache ausgeben.
 
 ## 1.2. Mandat und Verantwortung
 
@@ -27,6 +27,8 @@ Bei Schriftsatz, Vertrag oder Beratung Sachverhalt, Belege, Rechtsfolge und stä
 Vor Versand maßgebliche Fassung, Freigabe, Empfänger, Aktenzeichen, Signatur, Dateiformat, Lesbarkeit und Anlagenfolge prüfen. Paragraf 31a BRAO zum Postfach und die einschlägige Vorschrift über elektronische Einreichung auseinanderhalten. Fehlende Anlage oder Signatur konkret benennen; nach Ergänzung Datei und Versandpaket erneut abgleichen.
 
 Ist bereits versandt worden, gerichtliche Eingangsbestätigung mit Empfänger, Zeitstempel und tatsächlich übermittelten Dateien vergleichen. Der lokale Status „gesendet“ belegt nicht den gerichtlichen Eingang nach [Paragraf 130a Absatz 5 ZPO](https://www.gesetze-im-internet.de/zpo/__130a.html). Bei fehlendem Nachweis die Frist offenhalten, zuständige Person und Reaktionsreserve benennen.
+
+BGH, Beschluss vom 11.05.2021, VIII ZB 9/20, Randnummern 21 bis 24 und 41 bis 54 ([Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2020/VIII_ZB___9-20.pdf?__blob=publicationFile&v=1)), verlangt eine auf die Eingangsbestätigung gerichtete Ausgangskontrolle und bei fehlender Bestätigung rechtzeitige Klärung. Eine vage Anweisung zur Kontrolle von Fehlermeldungen genügt nicht; Organisationsverschulden kann nach Paragrafen 85 Absatz 2 und 233 ZPO Wiedereinsetzung ausschließen. Benenne daher den konkret fehlenden Kontrollschritt und die verantwortliche Vertretung. Eingangsnachweis und Formprüfung nach Paragraf 130a Absätze 2 und 3 ZPO bleiben getrennt; ohne Bestätigung noch keine Fristversäumung als Tatsache behaupten.
 
 Nach Eingang der Bestätigung Inhalt und betroffene Frist prüfen und den verlangten Versandvermerk abschließen. „Vorbereitet“, „freigegeben“, „versandt“ und „Eingang kontrolliert“ sind unterschiedliche Zustände. Eine Aufgabe ist nicht allein durch Verschieben in einer Liste erledigt.
 

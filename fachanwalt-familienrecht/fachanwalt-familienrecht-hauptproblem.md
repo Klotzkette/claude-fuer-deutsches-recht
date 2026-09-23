@@ -1,6 +1,8 @@
 # 1. Zugewinnausgleich mit Vermögensbeleg- und Stichtagsabgleich
 
-Erstelle für meinen Zugewinnausgleich eine nachvollziehbare Vermögensrechnung beider Ehegatten und das dazu beauftragte Gutachten, Auskunftsschreiben oder die Erwiderung. Lies vorhandene Urkunden, Auskünfte und bereits gegebene Antworten zuerst.
+Gleiche für meinen Zugewinnausgleich die Vermögensauskünfte beider Ehegatten mit Konto- und Depotsalden, Immobilienwerten, Darlehen und Erwerbsbelegen zu den jeweiligen Stichtagen ab. Berechne die Ausgleichsforderung und begründe das beauftragte Gutachten, Auskunftsschreiben oder die Erwiderung. Verwende bereits gelesene Urkunden und gegebene Antworten weiter.
+
+Ohne Eingabe biete Stichtagsrechnung, Beleganforderung oder Abwehr behaupteter Hinzurechnung an. Dateien ohne Aufgabe zuerst still lesen und das gewünschte Ergebnis klären. Bei klarem Auftrag direkt arbeiten. Auf „Die Überweisung ging auf mein eigenes Depot“ prüfe dessen Stichtagswert; entferne eine unberechtigte Verlustannahme, erfasse den Wert nur einmal und ändere Rechnung sowie Schreiben.
 
 ## 1.1. Sachverhalt und maßgebliche Stichtage
 
@@ -20,7 +22,7 @@ Ermittle Anfangsvermögen auch bei Schuldenüberhang. Belege privilegierten Erwe
 
 Verbinde Trennung und Endstichtag durch eine Bewegungsrechnung: Zugänge, Abgänge, Wertänderungen und Tilgungen. Eigene Umbuchungen sind keine Verluste. Tilgung mindert Geld und Schulden; nicht nur den Geldabfluss berücksichtigen. Einen späteren Auszug nur mittels belegter Rückrechnung verwenden.
 
-Prüfe illoyale Minderungen nach Paragraf 1375 Absatz 2 und Absatz 3 BGB. Ein geringeres Endvermögen kann die Beweislastumkehr auslösen, wenn eine erfüllende Trennungsauskunft vorliegt. Ein späterer Streit über den tatsächlichen Trennungstag beseitigt diese Wirkung nicht automatisch. Auskunftstitel, verlangtes Datum und Annahme als Erfüllung konkret prüfen. Bloße Behauptung von Konsumausgaben ist kein Beweis; belegter Verbrauch ist aber nicht stets Verschwendung. Ohne solche Auskunft allgemeine Darlegungslast und konkrete Indizien prüfen.
+Prüfe illoyale Minderungen nach Paragraf 1375 Absatz 2 und Absatz 3 BGB. Ein geringeres Endvermögen kann die Beweislastumkehr auslösen, wenn eine erfüllende Trennungsauskunft vorliegt. Nach BGH, Beschluss vom 13.11.2024, XII ZB 558/23, Randnummern 17 bis 23, beseitigt ein späterer Streit über den tatsächlichen Trennungstag diese Wirkung nicht automatisch. Bei einem Titel zählt dessen Stichtag, sonst das verlangte Datum oder die Annahme einer Auskunft als Erfüllung; ein bloßer Kontoauszug reicht nicht. Bloße Behauptung von Konsumausgaben ist kein Beweis; belegter Verbrauch ist aber nicht stets Verschwendung. Ohne solche Auskunft allgemeine Darlegungslast und konkrete Indizien prüfen. Die Entscheidung verwies zur weiteren Aufklärung zurück und belegt keine automatische Hinzurechnung.
 
 Rechne pro Ehegatte tatsächliches Nettoendvermögen plus begründete Hinzurechnungen minus indexiertes Anfangsvermögen einschließlich privilegierter Erwerbe. Zugewinn mindestens null. Halbiere die Differenz, benenne Gläubiger und prüfe Begrenzung nach Paragraf 1378 Absatz 2 in Verbindung mit Paragraf 1384 BGB einschließlich Hinzurechnungen. Ungeklärte Abflüsse nicht zugleich als fehlendes Konto und Hinzurechnung zählen.
 

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "umweltschutzverband-verbandsklage",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/umwrg/BJNR281600006.html",
@@ -12,15 +12,43 @@
       "url": "https://www.gesetze-im-internet.de/umwrg/__6.html",
       "checked_on": "2026-09-14",
       "supports": "Geöffneter Volltext: zehn Wochen ab Klageerhebung für Tatsachen und Beweismittel, begrenzte Verlängerungsmöglichkeit und Sonderrechtsvorbehalte."
+    },
+    {
+      "url": "https://www.bverwg.de/271118U9A8.17.0",
+      "checked_on": "2026-09-23",
+      "supports": "Gericht, Urteil, Datum, Aktenzeichen und amtliche Gründe Randnummern 10–15 gelesen: Tatsachen-/Beweismittelpräklusion, Entschuldigung, bloße Vertiefung; keine konkrete Verzögerung und keine Belehrung als Voraussetzungen, heutiges Sonderrecht vorbehalten."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/umwrg/__2.html",
+      "checked_on": "2026-09-23",
+      "supports": "Volltext: Fallgruppenabhängige Beteiligung, Umweltbezogenheit und noch offene Anerkennung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/umwrg/__4.html",
+      "checked_on": "2026-09-23",
+      "supports": "Volltext: absolute/relative Verfahrensfehler, Vermutung, Heilung und Sonderregeln."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/umwrg/__6.html",
+      "checked_on": "2026-09-23",
+      "supports": "Volltext: zehn Wochen, Entschuldigung und Verweisung, beschränkte Verlängerung sowie Fortsetzungsfall."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/umwrg/__7.html",
+      "checked_on": "2026-09-23",
+      "supports": "Volltext: Plan-/Programmpräklusion mit Bebauungsplanausnahme, Ausschluss bestimmter Verwaltungspräklusion und materielle Fehlerheilung."
     }
   ],
   "mini_review": {
-    "verdict": "retained",
-    "reason": "Mini vollständig gelesen: Anerkennungs-, Bekanntmachungs- und Fachbeitragslücken führen bereits zu gezielten Nachforderungen und nach Antwort zur bestellten Stellungnahme oder Antragsschrift; keine starre Rückfragegrenze gefunden.",
+    "verdict": "revised",
+    "reason": "Alle Mini-Abschnitte individuell gelesen; Beteiligungsberechtigung und Äußerung nach Fallgruppe differenziert, Fristversäumung mit operativem BVerwG-Anker statt pauschaler Unzulässigkeit behandelt. Am 23. September vollständig erneut gelesen: drei konkrete Einstiegswege und Fortsetzung vom Kartierungsnachtrag zur geänderten Rüge ergänzt; Umfang unter 7500 Bytes und Zeichen.",
     "changes": [
-      "Keine Textänderung erforderlich; fallgruppenbezogene Verbandsbefugnis, getrennte Beteiligungs-, Klage- und Begründungsfristen sowie vorläufige Bearbeitung bei fehlenden Gutachten beibehalten."
+      "BVerwG 9 A 8.17 Randnummern 13–15 in beiden Prompts bei neuem versus vertiefendem Vortrag angewandt; keine Verzögerungsvoraussetzung oder Belehrungsabhängigkeit erfunden.",
+      "Aktuelle Paragrafen 2, 4, 6 und 7 UmwRG konkretisiert; keine Gleichsetzung verspäteten Vortrags mit unzulässiger Klage.",
+      "Vorhandene materialbezogene Fortsetzung, Fachzweige, Eilberatung und vollständige Endfassung erhalten.",
+      "Leere Eingabe, stille Dateisichtung und klaren Auftrag ausdrücklich getrennt; Brutstättenbefund verändert Rüge und räumlichen Sicherungsbedarf."
     ],
-    "sha256": "017800c9d35071aa57d01a5c2afceca4e96b634cd7f5d3dbe31ce5b88f93a076"
+    "sha256": "a5d4333b51ce7792e043f11060ea9a3c229d55da7f69ec2a6118e337b2342656"
   },
   "selection": {
     "positive": [
@@ -61,17 +89,68 @@
           "deliverables": [
             "ergebnis.md"
           ]
+        },
+        {
+          "id": "C04",
+          "text": "Verspäteten Tatsachenvortrag nicht pauschal mit Unzulässigkeit der gesamten Klage gleichsetzen; fehlende gerichtliche Belehrung schafft keine neue Zehnwochenfrist.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
         }
       ],
       "target_skill": "anerkennung-und-klagebefugnis-pruefen"
     }
   ],
   "workshop_review": {
-    "verdict": "retained",
-    "reason": "Werkstatt vollständig einschließlich Aktenzugang, UVP, Arten- und Habitatschutz, Fehlerfolge, Eilrechtsschutz und Abschluss gelesen. Nachgereichte Unterlagen werden ausdrücklich in Rüge, Frist und Antrag eingearbeitet; Beratung löst keinen ungefragten Prozessentwurf aus.",
+    "verdict": "revised",
+    "reason": "Vollständige Werkstatt einschließlich Fachgutachten und Eilrechtsschutz gelesen; Fristbeispiel, Beweismittelpräklusion, Plan-/Programmabgrenzung und abgestufte Fehlerfolgen ergänzt, unbestätigte Rechtsprechungsliste entfernt. Am 23. September vollständig erneut gelesen: fristnaher Gewässervortrag, Gegenmaterial und konkrete Nachbesserungsbedingungen als interaktive Dokumentwege ausgebaut.",
     "changes": [
-      "Keine Textänderung erforderlich; fachliche Fortsetzungswege und Kennzeichnung vorhandener Rechtsprechungsansätze ohne Behauptung frischer Verifikation erhalten."
+      "BVerwG 9 A 8.17 Randnummern 13–15 in beiden Prompts bei neuem versus vertiefendem Vortrag angewandt; keine Verzögerungsvoraussetzung oder Belehrungsabhängigkeit erfunden.",
+      "Aktuelle Paragrafen 2, 4, 6 und 7 UmwRG konkretisiert; keine Gleichsetzung verspäteten Vortrags mit unzulässiger Klage.",
+      "Vorhandene materialbezogene Fortsetzung, Fachzweige, Eilberatung und vollständige Endfassung erhalten.",
+      "Neuen Tatsachenvortrag anhand rechtzeitiger Passage abgleichen; Aktenlücke, Flächenauslassung und ungünstiges Gutachtenergebnis unterscheiden.",
+      "Nachgeholte Beteiligung, Änderungsbescheid und Monitoring in konkret geänderte Rügen, Anträge oder Nebenbestimmungen überführen; Paragrafen 4 und 6 UmwRG aktuell erneut geöffnet."
     ],
-    "sha256": "d14747e99baab1c0599e5375bb68126d8f885df7b641c2006092721a1055ffdd"
+    "sha256": "5a58b3e79f8c49fab60203ec02dbbe80ce1001e0e81e7bb337f290d0d516d158"
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Einwendung im Zulassungsverfahren, Klagebegründung oder Eilantrag vor Rodung beziehungsweise Baubeginn.",
+      "Dateien ohne Aufgabe: Anerkennung, Zulassung und Fachbeiträge still lesen; nur bei offenem Ziel zwei oder drei passende Dokumentwege anbieten.",
+      "Klarer Auftrag: sofort Rüge oder Antrag ausarbeiten; nur entscheidende Frist-, Anerkennungs- oder Fachbelege erfragen."
+    ],
+    "continuation": "Kartierungsnachtrag oder Messbeleg -> Rüge bestätigen, begrenzen oder streichen -> Fehlerfolge und konkreten Antrag aktualisieren; Änderungsbescheid -> Einbeziehung und Frist neu prüfen.",
+    "enrichment": "Fristnaher Tatsachenvortrag, Einordnung verspäteter Vertiefung, Untersuchungslücke versus Gegenbefund, Gewässergutachten und überprüfbare Monitoring-Nebenbestimmung mit verbleibendem Prozessrisiko.",
+    "limits": "desk review; no live client execution"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "umweltschutzverband-verbandsklage/README.md",
+      "umweltschutzverband-verbandsklage/umweltschutzverband-verbandsklage-schnellstart.md",
+      "umweltschutzverband-verbandsklage/umweltschutzverband-verbandsklage-werkstatt.md",
+      "quality/evals/umweltschutzverband-verbandsklage.json"
+    ],
+    "opening_change": "Rechtsbehelfsbefugnis, rechtzeitigen Tatsachenvortrag und konkrete Fehlerfolge aus der Verbandsakte statt abstrakter Rechtsschutzfassung benannt.",
+    "norms": [
+      "Paragrafen 2, 4, 6, 7 UmwRG",
+      "Paragraf 87b Absatz 3 VwGO",
+      "Paragraf 57 VwGO, Paragraf 222 ZPO, Paragrafen 187 und 188 BGB"
+    ],
+    "decisions": [
+      {
+        "citation": "BVerwG, Urteil vom 27. November 2018, 9 A 8.17, Randnummern 13–15",
+        "url": "https://www.bverwg.de/271118U9A8.17.0",
+        "application": "Bei verspätetem Umweltklagevortrag Tatsachen und Beweismittel, genügende Entschuldigung und bloße Vertiefung unterscheiden; Ausschluss erfordert keine konkrete Verzögerung.",
+        "limit": "Keine allgemeine Unzulässigkeit der Klage, keine Belehrungspflicht als Fristvoraussetzung; heutiges Fachsonderrecht und gesetzliche Ausnahmen bleiben zu prüfen."
+      }
+    ],
+    "remaining_limits": [
+      "Amtliche Entscheidungsgründe Randnummern 10–15 vollständig gelesen; keine vollständige Neuverifikation sämtlicher im Fachgebiet relevanter Umweltrechtsprechung.",
+      "Paragrafen 2, 4, 6 und 7 UmwRG im aktuellen amtlichen Volltext geprüft; Landes-UIG, Fachplanungs-Sonderrecht und sämtliche Naturschutzmaßstäbe nicht flächendeckend neu recherchiert.",
+      "Desk-/Quellenreview, kein Live-Test."
+    ]
   }
 }

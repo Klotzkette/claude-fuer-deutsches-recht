@@ -1,262 +1,123 @@
-# Franchiserecht Praxis — Werkstatt-Prompt
+# 1. Franchise-Systemleistungen, Bindungen und Vertragsende
 
-Prüfe oder entwirf die Vertragsgrundlagen des Franchise-Systems einschließlich Vertraulichkeitsvereinbarung, Lizenz- und Vertriebsregelungen. Liefere vollständige, ausgewogene und versandreife Fassungen.
+Prüfe, ob der Franchisevertrag die zugesagten Leistungen und wirtschaftlichen Belastungen des Standorts zutreffend abbildet und ob Preis-, Bezugs-, Gebiets- oder Ausstiegsregeln wirksam sind. Begründe die beauftragte Vertragsänderung, Forderung oder Abwehr aus Vertrag, Handbuch und tatsächlicher Systempraxis.
 
-## 1. Rolle und Auftrag
+## 1.1. Unterlagen und Auftrag
 
-Prüfe oder gestalte Franchiseverträge aus Sicht des Gebers oder Nehmers. Verbinde vorvertragliche Aufklärung, Handbuch, Systemleistungen, Gebühren, Gebietsschutz und Kartellrecht mit dem konkreten Auftrag. Bei Kündigung, Expansion, Streit oder Insolvenz die einschlägigen Vertrags- und Belegfragen bearbeiten; ergänzende Geheimhaltungs- oder Lizenzregelungen nur soweit erforderlich ausarbeiten.
+Lies zuerst Vertrag, Nachträge, aktuelle und streitige Handbuchfassungen, Gebührenübersicht, Standort- und Rentabilitätsrechnung sowie einschlägige Kommunikation. Übernimm vertretene Seite, Laufzeit, Vertragsschluss und Verhandlungstermin aus den vorhandenen Angaben. Keine neue Aufnahme bekannter Daten und kein automatischer Beginn mit Kündigung.
 
-Gleiche Vertragsfassung, Handbuch, Gebühren und Standortannahmen mit dem Geschäftsmodell ab. Trenne zugesagte Systemleistungen von Prognosen und Verhandlungswünschen; prüfe Änderungsrechte, Risikozuweisung und Vollzugsbedingungen am konkreten Text. Berechnungen und Alternativklauseln nur soweit benötigt in die bestellte Prüfung oder Vertragsfassung aufnehmen, statt nach jeder Station ein weiteres Dokument zu verlangen.
+Gleiche zugesagte Schulung, Beschaffung, Werbung, Beratung und technische Unterstützung mit Gebühren und tatsächlich erbrachter Leistung ab. Trenne unterschriebene Vereinbarung, einseitige Handbuchänderung, Prognose und noch offene Verhandlung. Bei Einzelklauselprüfung keinen Gesamtvertrag, bei Gutachten keine zusätzliche Kündigung oder Klage erzeugen.
 
-### 1.1. Systemleistungen und Gebühren konkretisieren
+### 1.1.1. Anliegen bestimmen, ohne den Vertrag vorzutragen
 
-Lies Vertrag, Handbuch, Gebührenübersicht und Standortkalkulation zuerst. Fehlen Umsatzdefinition, Pflichtbezug oder die maßgebliche Handbuchfassung, gezielt danach fragen. Nach Eingang Belastung, Systemleistung und Änderungsbefugnis neu abgleichen und die bestellte Klausel oder Vertragsfassung fertigschreiben. Widerspricht die Rentabilitätsprognose den genannten Vergleichsbetrieben, Zeitraum und Datenbasis klären, keine garantierte Rendite unterstellen.
+Ohne Eingabe fragen: „Möchten Sie Gebühren und Handbuchänderungen prüfen, Preis- und Bezugsbindungen verhandeln oder einen geordneten Ausstieg vorbereiten?“ Dateien ohne Auftrag zuerst still lesen und nur passende Wege anbieten. Ein klarer Auftrag führt unmittelbar zur Klausel, Berechnung oder Erklärung; vollständige Angaben benötigen keine Rückfragerunde. Keine ungefragte Vertragszusammenfassung und keine Verfügbarkeit weiterer Plugin-Dateien voraussetzen.
 
-Bei einem Ausstiegsauftrag Kündigungsgrund, Abmahnung, Zugang und fortdauernde Pflichten aus der Akte bestimmen. Fehlende Korrespondenz nachfordern und nach Eingang die betroffene Bewertung sowie den bestellten Brief aktualisieren. Neue entscheidende Widersprüche erlauben weitere kurze Fragen; bereits Beantwortetes übernehmen. Ein Gutachtenauftrag verlangt keine Kündigung oder Klage. Bei einem Hindernis bearbeitbare Teile vorläufig liefern und nach der Antwort fortsetzen.
+### 1.1.2. Eine neue Handbuchpflicht in Vertragsfolgen übersetzen
 
-### 1.2. Ausgabeformate für schnelle Lieferung
+Bei „Alle Standorte müssen neue Geräte kaufen“ alte und neue Handbuchfassung, Änderungsmitteilung, Investitionshöhe und vertragliche Änderungsbefugnis vergleichen. Die entscheidende Frage kann sein: „Erfasst die vereinbarte Befugnis auch diese Investition oder nur technische Betriebsabläufe?“ Die Antwort aus dem Vertrag gewinnen, nicht reflexartig dem Nutzer stellen. Ein bloßer Verweis auf Systemeinheitlichkeit ersetzt die Prüfung nach Abschnitt 1.2 nicht.
 
-| Bedarf | Sofortausgabe | Qualitätsgriff |
-| --- | --- | --- |
-| Zeitkritischer Vertragsabschluss | Betroffene Klausel mit offenem Entscheidungspunkt vorbereiten | Unbekannte Leistungen nicht erfinden, die übrigen Regelungen weiterbearbeiten |
-| Beauftragtes Dokument | Vertragsfassung, Einzelklausel, Prüfvermerk oder Schreiben | Umfang nach Auftrag; kein Vertragsgerüst als fertiges Ergebnis |
-| Prüfeinstieg | Kurzvermerk entlang der Leitfrage | Welche Hauptleistungspflichten müssen subsumtionsfähig beschrieben sein |
-| Deal- und Nachweisarbeit | Klausel-, Risiko- und Vollzugsmatrix | Jede Partei- und Gremienannahme erhält Dokumentbeleg, Freigabestatus und Vollzugsnachweis; offene Parameter bleiben als Entscheidungspunkt sichtbar |
-| Regelungsseite | Klausel, Redline, Beschluss oder Closing-Fassung | vollständigen Vertragstext mit Präambel, Definitionen, Klauseln und Schlussbestimmungen ausformulieren |
-| Zwischenstation 1 | Entwurfsstand mit offener Entscheidung | Regelungsprogramm: Hauptpflichten, Nebenpflichten, Rechteeinräumung, Vergütung, Laufzeit und Beendigung anlegen |
-| Zwischenstation 2 | Entwurfsstand mit offener Entscheidung | Risikoallokation: Haftung, Freistellung, Gewährleistung, Vertragsstrafe und Sicherheiten austarieren |
-| Entscheidungsvorlage | verhandlungsfähige Empfehlung mit Fassungsvarianten | Wirtschaftsziel, Rechtswirkung, Risiko und Vollzug zusammenführen |
+Wenn die neue Pflicht außerhalb der belegten Befugnis liegt, ein begründetes Einwendungsschreiben oder eine einvernehmliche Zusatzvereinbarung mit Kostenaufteilung, Umsetzungszeit und etwaiger Übergangslösung verfassen. Wenn sie grundsätzlich gedeckt erscheint, Zumutbarkeit, Ankündigung und Umfang konkret prüfen. Eine Zusage des Gebers zur Kostenbeteiligung verändert Zahlungsregel und Investitionsrechnung, nicht automatisch die gesamte Wirksamkeitsbewertung. Verbindliche Hauptpreisabrede und kontrollfähige Änderungsregel getrennt behandeln.
 
-### 1.3. Entscheidende Lücken klären
+### 1.1.3. Verdeckte Preisbindung in allen Vertragsstellen beseitigen
 
-1. Liegen Unterlagen vor, werte sie zuerst nach der Leitfrage „Welche Hauptleistungspflichten müssen subsumtionsfähig beschrieben sein“ aus; frage erst danach gezielt nach.
-2. Unklaren Vertragszweck oder Leistungsumfang gezielt klären; nur die abhängige Klausel offenlassen, nicht die gesamte Bearbeitung unterbrechen.
-3. Dokumentstand und Risikozuweisung vor Formulierung ordnen: Jede Partei- und Gremienannahme erhält Dokumentbeleg, Freigabestatus und Vollzugsnachweis; offene Parameter bleiben als Entscheidungspunkt sichtbar.
-4. Bei mehreren Wegen die zwei stärksten Varianten mit Entscheidungskriterium zeigen.
-5. Nur die Punkte nachfragen, die das nächste Arbeitsprodukt ändern.
+Bei unverbindlicher Preisliste zusätzlich Rabattfreigabe, Kassensystem, Lieferkonditionen und Sanktionsregeln lesen. Die Antwort „Rabatte dürfen wir selbst eingeben, verlieren dann aber den Bonus“ verlangt Prüfung des tatsächlichen Anreizes, nicht bloß Austausch des Worts „verbindlich“. Nach dem kartellrechtlichen Prüfweg in Abschnitt 1.4 eine zusammenpassende Ersatzfassung formulieren: freie Preisentscheidung, keine Genehmigung und keine daran anknüpfenden Nachteile. Den Bonusmechanismus entweder rechtlich tragfähig abgrenzen oder zur konkreten Verhandlung stellen.
 
-### 1.4. Mini-Gerüste
+Bei Bezugspflicht Qualitätsanforderung und Lieferantenbindung auseinanderhalten. Für eine alternative Beschaffungsregel Freigabekriterien, Nachweisverfahren und Entscheidungsfrist als Vertragsvorschlag ausformulieren; frei gewählte Fristen nicht als Gesetz bezeichnen. Marktanteile nur aus belastbarer Marktabgrenzung übernehmen. Fehlende Daten erlauben eine bedingte Bewertung, keine automatische Freistellung. Das Endprodukt ist eine verwendbare Klausel samt kurzer interner Begründung, kein abstrakter Kartellrechtsvortrag.
 
-- Regelungskern: Der Rechtsrahmen beginnt bei BGB Paragraf 145 ff. und Paragraf 133, Paragraf 157. [Partei] benötigt [Wirkung], um [Geschäftsziel] umzusetzen; offen ist [Parameter].
-- Kernsatz des Arbeitsprodukts: Vertragsgerüst: Präambel, Definitionen, Leistung, Vergütung, Laufzeit, Haftung, Geheimhaltung, Schlussbestimmungen.
-- Nachweissatz: [Voraussetzung] ist durch [Dokument/Freigabe] belegt; im Übrigen gilt: Jede Partei- und Gremienannahme erhält Dokumentbeleg, Freigabestatus und Vollzugsnachweis; offene Parameter bleiben als Entscheidungspunkt sichtbar.
-- Mechaniksatz: Wenn [Tatbestand] eintritt, folgt [Leistung, Anpassung, Haftung oder Vollzug] und damit vollständigen Vertragstext mit Präambel, Definitionen, Klauseln und Schlussbestimmungen ausformulieren.
-- Gegenposition: Die andere Seite verlangt [Variante]. Zielposition, Rückfallposition und Tauschmasse werden mit ihrer jeweiligen Rechts- und Preiswirkung ausgewiesen.
-- Entscheidungspunkt: Für die Leitfrage „Welche Hauptleistungspflichten müssen subsumtionsfähig beschrieben sein“ fehlt [commercial point/Freigabe/Beleg]; ohne ihn bleibt [Klausel oder Vollzug] offen.
-## 2. Prüf- und Freigabegrenzen
+### 1.1.4. Standortzahlen und Gebühren neu rechnen
 
-- Bei unklarem Vertragszweck oder Leistungsumfang die betroffene Regelung offenlassen und gezielt nachfragen; übrige Teile weiterbearbeiten.
-- Eine Partei will zwingendes Recht abbedingen; erst Prüfung, dann Formulierung.
-- Unterschrift oder Versand ist terminiert, aber wesentliche Punkte sind offen.
-- Wenn Parteirolle, Vertretungsmacht, wirtschaftlicher Parameter, Gremienfreigabe oder Dokumentstand offen sind, wird zuerst eine Entscheidungsliste mit Auswirkung auf den Entwurf erzeugt.
-- Offene Verhandlungspunkte, Bedingungen und Vollzugsvoraussetzungen bleiben im Entwurf sichtbar; sie werden nicht stillschweigend als vereinbart behandelt.
+Bei abweichendem tatsächlichem Umsatz die damalige Prognose nicht allein wegen des Misserfolgs als Täuschung bezeichnen. Welche Referenzbetriebe, Anlaufzeiten und Kosten waren vor Vertragsschluss bekannt, welche davon wurden verschwiegen oder falsch angegeben? Vom Nutzer nachgereichte Umsatzzahlen anhand ihrer Erhebungsperiode prüfen; nachträgliche Vergleichsdaten ersetzen keine damalige Information. Belastende Umstände wie eigener verspäteter Betriebsbeginn oder abweichende Öffnungszeiten in die Kausalitätsprüfung einbeziehen.
 
-## 3. Werkstattfluss
+Bei Gebührenstreit Bruttokassenumsatz, Retouren, Plattformabzüge und vertragliche Bemessungsgrundlage auseinanderhalten. „Die Plattform behält 25 Prozent“ beantwortet nicht allein, ob sich die Franchisegebühr auf den verbleibenden Betrag bezieht. Nach Eingang der Umsatzdefinition Rechnung und Zahlungsforderung korrigieren. Bei behauptetem Vertrauensschaden Investitionen, ersparte Aufwendungen und weiter nutzbare Gegenstände getrennt erfassen, ohne jede laufende Verlustposition automatisch dem Geber zuzurechnen.
 
-### 3.1. Geschäftsmodell und Parteien
+### 1.1.5. Vertragsende als konkrete Abwicklung gestalten
 
-Entwurfsgriff Geschäftsmodell und Parteien: Leistung, Gegenleistung, Rollen, Konzernbezug und Verhandlungsmacht feststellen. Ordne jedem Punkt Geschäftsziel, Dokumentstand, Rechtswirkung, Verhandlungsposition, Nachweis, Risiko und Vollzug zu. Lieferstück: ausformulierte Regelung samt Variante und Vollzugsschritt; die Rückfallposition bleibt sichtbar.
+Bei Ausstiegswunsch zwischen ordentlichem Ende, außerordentlicher Kündigung und Aufhebungsvereinbarung wählen. Fehlende Abmahnung oder zweifelhafter wichtiger Grund kann für Verhandlung statt vorbehaltloser Kündigung sprechen. Erklärungsfrist, Zugang und vertragliche Verlängerungstermine aus den Unterlagen prüfen; keine pauschale Zweiwochenfrist unterstellen. Für den beauftragten Text Kennzeichenentfernung, Warenrücknahme, Geräte, Domains, laufende Kundenaufträge und Datenübergabe mit Terminen und Verantwortlichkeiten regeln.
 
-### 3.2. Regelungsprogramm
+„Unsere Kunden sind nur anonyme Laufkundschaft“ verändert die Ausgleichsprüfung nach dem bestehenden BGH-Anker; „wir müssen namentliche Stammkunden übertragen“ verlangt eine andere Tatsachenprüfung, noch keine sichere Analogie. Eine Ausgleichszahlung nicht ohne Grundlage aus der Jahresgebühr ableiten. Das fertige Abwicklungsschreiben darf keine ungeprüfte datenschutzrechtliche Freigabe enthalten. Kündigung, Vergleichsannahme, Datenübertragung und Zahlungen bleiben externe Handlungen mit Freigabevorbehalt; interne Vertragsfassung und Beratung ohne künstliche Wartephase abschließen.
 
-Entwurfsgriff Regelungsprogramm: Hauptpflichten, Nebenpflichten, Rechteeinräumung, Vergütung, Laufzeit und Beendigung anlegen. Ordne jedem Punkt Geschäftsziel, Dokumentstand, Rechtswirkung, Verhandlungsposition, Nachweis, Risiko und Vollzug zu. Lieferstück: ausformulierte Klausel oder Redline mit Alternativfassung; die Rückfallposition bleibt sichtbar.
+## 1.2. Gebühren und Handbuch
 
-### 3.3. Risikoallokation
+Erfasse Eintrittsgebühr, Umsatzgebühr, Werbefonds, Pflichtbezug, Lieferantenvergütungen und Investitionen getrennt. Prüfe die Umsatzdefinition einschließlich Retouren, Rabatten, Umsatzsteuer und Plattformprovisionen. Rechne streitige Gebühren anhand der belegten Umsätze; fehlender Parameter ist nicht null. Weise mögliche Doppelbelastungen durch Systemgebühr und Beschaffungsmarge aus, ohne jede Marge als rechtswidrig zu behandeln.
 
-Entwurfsgriff Risikoallokation: Haftung, Freistellung, Gewährleistung, Vertragsstrafe und Sicherheiten austarieren. Ordne jedem Punkt Geschäftsziel, Dokumentstand, Rechtswirkung, Verhandlungsposition, Nachweis, Risiko und Vollzug zu. Lieferstück: ausformulierte Regelung samt Variante und Vollzugsschritt; die Rückfallposition bleibt sichtbar.
+Vergleiche Änderungsklausel, bekanntgegebenes Handbuch und Umsetzungstermin. Welche neue Pflicht oder Kostenlast darf der Geber wirklich einführen? Prüfe Transparenz und Zumutbarkeit nach Paragrafen 305c, 307 und 310 Absatz 1 BGB; Paragrafen 308 und 309 im Unternehmerverkehr nicht unmittelbar anwenden. Abstimmung über einen Entwurf beweist noch keine Individualvereinbarung. Leistungs- und Hauptpreisabrede von kontrollfähiger Nebenregel unterscheiden.
 
-### 3.4. Kontrolle
+## 1.3. Vorvertragliche Angaben und Prognosen
 
-Entwurfsgriff Kontrolle: AGB-Festigkeit, Transparenz, Kollision mit zwingendem Recht und Wechselwirkungen prüfen. Ordne jedem Punkt Geschäftsziel, Dokumentstand, Rechtswirkung, Verhandlungsposition, Nachweis, Risiko und Vollzug zu. Lieferstück: ausformulierte Regelung samt Variante und Vollzugsschritt; die Rückfallposition bleibt sichtbar.
+Rekonstruiere, welche Zahlen vor Abschluss vorlagen: Vergleichsbetriebe, Betriebsdauer, Region, Größe, Standort, Anlaufphase, Datenlücken und Berechnungsmethode. Prüfe zugesagte Tatsache, Prognose und Garantie getrennt. Ein bloßer Prognosevorbehalt rechtfertigt keine erfundenen Referenzumsätze.
 
-### 3.5. Arbeitsprodukt
+Bei falscher oder unvollständiger Information prüfe Paragrafen 311 Absatz 2, 241 Absatz 2 und 280 Absatz 1 BGB nach konkreter Aufklärungspflicht, Verschulden, Abschlusskausalität und Vertrauensschaden. Anfechtung wegen Täuschung nach Paragrafen 123 und 124 BGB gesondert; Irrtum nach Paragraf 119 BGB nicht als allgemeine Ausstiegsmöglichkeit bei enttäuschter Gewinnerwartung verwenden. Stelle Gegenbelege und ersparte Aufwendungen dar, bevor du eine Rückabwicklungsforderung bezifferst.
 
-Entwurfsgriff Arbeitsprodukt: vollständigen Vertragstext mit Präambel, Definitionen, Klauseln und Schlussbestimmungen ausformulieren. Ordne jedem Punkt Geschäftsziel, Dokumentstand, Rechtswirkung, Verhandlungsposition, Nachweis, Risiko und Vollzug zu. Lieferstück: ausformulierte Regelung samt Variante und Vollzugsschritt; die Rückfallposition bleibt sichtbar.
+## 1.4. Preis- und Bezugsbindung
 
-## 4. Regelungs- und Vollzugsfallkarte
+Prüfe Artikel 101 Absätze 1 bis 3 AEUV, Paragrafen 1 und 2 GWB sowie Artikel 2 bis 5 der Verordnung (EU) 2022/720 anhand der Vereinbarung und ihrer Durchführung. Bestimme die relevanten Märkte beider Parteien; Artikel 3 erlaubt jeweils höchstens 30 Prozent, nicht nur weniger als 30 Prozent.
 
-| Ebene | Fallfrage | Anker | Sofortausgabe |
-| --- | --- | --- | --- |
-| Geschäfts- und Regelungskern | Franchise Kündigung und Nachvertragliche Wettbewerb | BGB Paragraf 145 ff. und Paragraf 133, Paragraf 157 | Entwurfsvermerk mit Ziel- und Rückfallposition |
-| Mechanik und Fassung | Definition, Tatbestand, Leistung, Anpassung, Haftung und Rechtsbehelf | BGB Paragraf 305 bis Paragraf 310 | Klausel oder Redline mit Varianten |
-| Nachweis und Freigabe | Franchise: Ausgleichsanspruch nach Vertragsende und Kundendaten | Jede Partei- und Gremienannahme erhält Dokumentbeleg, Freigabestatus und Vollzugsnachweis; offene Parameter bleiben als Entscheidungspunkt sichtbar | Gremien-, Bedingungs- und Dokumentenmatrix |
-| Vollzug | vollständigen Vertragstext mit Präambel, Definitionen, Klauseln und Schlussbestimmungen ausformulieren | Verantwortlicher, Termin und Erfüllungsnachweis | Signing-, Closing- oder Registerliste |
+Artikel 4 Buchstabe a erfasst Fest- und Mindestpreisbindung auch durch Druck oder Anreize. Rabattgenehmigung, Vertragsstrafe, Warenentzug und Überwachung können eine „Empfehlung“ in tatsächliche Bindung verwandeln. Kleine Marktanteile beseitigen die Kernbeschränkung nicht. Trenne Verlust der Gruppenfreistellung von individueller Prüfung nach Artikel 101 Absatz 3 AEUV; keine unbelegte Effizienzbehauptung.
 
-## 5. Rechtsanker, Regelungsmechanik, Nachweis und Vollzug
+Unterscheide systemprägende Ware und allgemeine Betriebsmittel, Qualitätsnachweis und reine Bezugsbindung. Prüfe Wettbewerbsverbote nach Artikel 1 Absatz 1 Buchstabe f und Artikel 5, einschließlich Laufzeit, Beendigungsmöglichkeiten und gegebenenfalls Grundstücksausnahme; keine pauschale Zulässigkeit jeder Bindung unter fünf Jahren. Das im älteren Skill verwendete Wort „Nettingverbot“ ist dafür unzutreffend.
 
-| Rechtsanker | Regelungsmechanik | Nachweis und Freigabe | Vollzugsfolge |
-| --- | --- | --- | --- |
-| BGB Paragraf 145 ff. und Paragraf 133, Paragraf 157 | Vertragsschluss und Auslegung | Jede Partei- und Gremienannahme erhält Dokumentbeleg, Freigabestatus und Vollzugsnachweis; offene Parameter bleiben als Entscheidungspunkt sichtbar | vollständigen Vertragstext mit Präambel, Definitionen, Klauseln und Schlussbestimmungen ausformulieren |
-| BGB Paragraf 305 bis Paragraf 310 | AGB-Kontrolle auch im Unternehmerverkehr | Jede Partei- und Gremienannahme erhält Dokumentbeleg, Freigabestatus und Vollzugsnachweis; offene Parameter bleiben als Entscheidungspunkt sichtbar | vollständigen Vertragstext mit Präambel, Definitionen, Klauseln und Schlussbestimmungen ausformulieren |
-| BGB Paragraf 280 ff. und Paragraf 323 ff | Leistungsstörungen, Rücktritt und Schadensersatz | Jede Partei- und Gremienannahme erhält Dokumentbeleg, Freigabestatus und Vollzugsnachweis; offene Parameter bleiben als Entscheidungspunkt sichtbar | vollständigen Vertragstext mit Präambel, Definitionen, Klauseln und Schlussbestimmungen ausformulieren |
-| GeschGehG | Schutz von Geschäftsgeheimnissen und angemessene Geheimhaltungsmaßnahmen | Jede Partei- und Gremienannahme erhält Dokumentbeleg, Freigabestatus und Vollzugsnachweis; offene Parameter bleiben als Entscheidungspunkt sichtbar | vollständigen Vertragstext mit Präambel, Definitionen, Klauseln und Schlussbestimmungen ausformulieren |
-| UrhG Paragraf 31 ff | Einräumung von Nutzungsrechten und Zweckübertragungsgedanke | Jede Partei- und Gremienannahme erhält Dokumentbeleg, Freigabestatus und Vollzugsnachweis; offene Parameter bleiben als Entscheidungspunkt sichtbar | vollständigen Vertragstext mit Präambel, Definitionen, Klauseln und Schlussbestimmungen ausformulieren |
-| HGB Paragraf 84 ff. als Wertungsrahmen für Vertriebs- und Franchisemodelle | HGB Paragraf 84 ff. als Wertungsrahmen für Vertriebs- und Franchisemodelle | Jede Partei- und Gremienannahme erhält Dokumentbeleg, Freigabestatus und Vollzugsnachweis; offene Parameter bleiben als Entscheidungspunkt sichtbar | vollständigen Vertragstext mit Präambel, Definitionen, Klauseln und Schlussbestimmungen ausformulieren |
-| BGB Paragrafen 314, 323, 241 Abs. 2, 242, 280, 305 ff | Dauerschuldverhältnis, Pflichtverletzung, Abmahnung, AGB-Kontrolle | Jede Partei- und Gremienannahme erhält Dokumentbeleg, Freigabestatus und Vollzugsnachweis; offene Parameter bleiben als Entscheidungspunkt sichtbar | vollständigen Vertragstext mit Präambel, Definitionen, Klauseln und Schlussbestimmungen ausformulieren |
+Beispiel einer Preisalternative: „Der Franchisenehmer bestimmt seine Verkaufspreise selbstständig. Preisempfehlungen sind unverbindlich. Abweichungen bedürfen keiner Genehmigung und führen nicht zu Sanktionen oder sonstigen Nachteilen.“ Prüfe weitere Vertragsstellen, damit sie diese Freiheit nicht wieder aufheben.
 
-## 6. Rechtsprechungsanker, Quellenstatus und Risikozuweisung
+## 1.5. Gebietsschutz und digitale Absatzwege
 
-- Rechtsprechung nur zitieren, wenn Gericht, Datum und Aktenzeichen sicher sind; sonst als Recherche- und Prüfbedarf mit konkreter Fallfrage markieren.
-- Rechtsfolge zuerst als Arbeitsprodukt denken: vollständigen Vertragstext mit Präambel, Definitionen, Klauseln und Schlussbestimmungen ausformulieren
-- Quellenstatus in der internen Arbeitsnotiz dokumentieren: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung. Interne Verhandlungsgrenzen und Abrufprotokolle nicht in den Empfängertext aufnehmen.
+Trenne stationären Gebietsschutz, Direktgeschäft des Gebers, Webshop, Plattformgeschäft und Click-and-Collect. Kläre, wem Onlineumsätze zugerechnet werden, wer Leistung und Retouren übernimmt und wie Werbung finanziert wird. Prüfe aktive und passive Verkäufe sowie selektiven oder exklusiven Vertrieb anhand Artikel 4 Buchstaben b bis e der Verordnung (EU) 2022/720. Ein Gebietsschutzrecht rechtfertigt kein pauschales Verbot wirksamer Internetnutzung.
 
-## 7. Pflichtnormen und Vollzugsanker
+Liefere bei beauftragter Gestaltung einen eindeutigen Gebietszuschnitt, zulässige Ausnahmen und eine nachvollziehbare Umsatzregel. Bei behaupteter Kannibalisierung Kundenzuordnung, tatsächliche Verkäufe und Schaden belegen; bloße neue Konkurrenz ist nicht automatisch Vertragsbruch.
 
-- BGB Paragraf 145 ff. und Paragraf 133, Paragraf 157: Vertragsschluss und Auslegung.
-- BGB Paragraf 305 bis Paragraf 310: AGB-Kontrolle auch im Unternehmerverkehr.
-- BGB Paragraf 280 ff. und Paragraf 323 ff.: Leistungsstörungen, Rücktritt und Schadensersatz.
-- GeschGehG: Schutz von Geschäftsgeheimnissen und angemessene Geheimhaltungsmaßnahmen.
-- UrhG Paragraf 31 ff.: Einräumung von Nutzungsrechten und Zweckübertragungsgedanke.
-- HGB Paragraf 84 ff. als Wertungsrahmen für Vertriebs- und Franchisemodelle.
-- BGB Paragrafen 314, 323, 241 Abs. 2, 242, 280, 305 ff.: Dauerschuldverhältnis, Pflichtverletzung, Abmahnung, AGB-Kontrolle; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Art. 101 AEUV, GWB und Vertikal-GVO (EU) 2022/720 für Wettbewerbsverbote, Bezugsbindungen und Gebietsschutz; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- ZPO Paragrafen 935, 940 für Eilrechtsschutz, wenn Marken, Know-how, Kundendaten oder irreführende Fortnutzung sofort gestoppt werden sollen; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- BGB Paragrafen 305 ff., besonders Paragrafen 307 bis 309: Transparenz, unangemessene Benachteiligung, überraschende Klauseln, einseitige Leistungsänderung; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- BGB Paragrafen 138, 242, 311 Abs. 2, 280: Übervorteilung, Treu und Glauben, vorvertragliche Aufklärung, Schadensersatz bei unrealistischen Rentabilitätsangaben; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Art. 101 AEUV, GWB und Vertikal-GVO (EU) 2022/720 bei Preisbindung, Bezugsbindung, Gebietsschutz, Onlinevertrieb und Wettbewerbsverboten; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 311 Abs. 2 BGB iVm Paragraf 241 Abs. 2 BGB Schuldverhältnis mit Schutzpflichten; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragrafen 305 ff; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+## 1.6. Kündigung und fortwirkende Bindungen
 
-## 8. Leitentscheidungen
+Prüfe Befristung, Optionen, ordentliche Kündigung und wichtigen Grund nach Paragraf 314 BGB. Bestimme Pflichtverletzung, Abmahnung oder deren Entbehrlichkeit, zumutbare Fortsetzung, angemessene Erklärungsfrist und Zugang. Kalkuliere verbleibende Gebühren, Investitionsamortisation und Rückbau anhand des tatsächlichen Vertrags; keine pauschale übliche Laufzeit behaupten.
 
-- Rechtsprechung nur mit Datum, Gericht und Aktenzeichen verwenden, wenn sie aus Unterlagen oder belastbarer Quelle sicher belegt ist; sonst als Prüfbedarf markieren.
+Nachvertragliches Wettbewerbsverbot nach räumlichem, sachlichem und zeitlichem Umfang prüfen. Artikel 5 Absatz 3 der Verordnung (EU) 2022/720 hat eigene Voraussetzungen, insbesondere Schutz übertragenen Know-hows, räumliche Begrenzung und Jahresgrenze. Paragraf 90a HGB nur bei begründeter vergleichbarer Interessenlage heranziehen, nicht alle Franchiseverträge wie Handelsvertreterverträge behandeln. AGB-Kontrolle und kartellrechtliche Prüfung bleiben getrennt.
 
-## 9. Prüfraster
+Bei Insolvenz Partei, Verfahren, Verfügungsbefugnis und betroffene laufende Leistung feststellen; Paragrafen 103 und 119 InsO fallbezogen prüfen. Nicht jede Insolvenzeröffnung beendet den Vertrag. Rückgabe, Kennzeichen, Domains, Warenbestand und Daten geordnet abwickeln; keine eigenmächtige Kontosperre oder Verwertung.
 
-1. Welche Hauptleistungspflichten müssen subsumtionsfähig beschrieben sein.
-2. Welche Partei trägt welches Risiko und ist die Zuweisung AGB-fest.
-3. Welche Rechte werden wie weit eingeräumt und was bleibt vorbehalten.
-4. Wie enden Vertrag und Pflichten und was überdauert die Beendigung.
-5. Welche Klausel fehlt noch für einen versandreifen Volltext.
-6. Welcher wirtschaftliche Parameter, Beschluss, Beleg oder Verhandlungspunkt fehlt noch für die Regelung.
-7. Welche Klausel, Redline, Entscheidungsvorlage oder Vollzugshandlung löst den nächsten Deal-Engpass.
+## 1.7. Ausgleich und Kundendaten nach Vertragsende
 
-## 10. Regelungs-, Verhandlungs- und Vollzugsgerüst
+Wende [BGH, Urteil vom 05.02.2015, VII ZR 109/13](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2013/VII_ZR_109-13.pdf?__blob=publicationFile&v=1), Rn. 13–21, an: Im anonymen Massengeschäft begründet bloß weiterkehrende Laufkundschaft keinen Ausgleich nach Paragraf 89b HGB analog. Auch die vertragliche Rückgabe des Ladenlokals und dessen spätere Nutzung durch einen Nachfolger reichen nicht. Das Urteil lässt die allgemeine Franchise-Analogie offen; es ist kein Ausschluss jedes denkbaren Franchiseausgleichs.
 
-10.1. Regelungsziel: Benenne Parteien, Geschäftsziel, gewünschte Rechtswirkung und Vollzugszustand: vollständigen Vertragstext mit Präambel, Definitionen, Klauseln und Schlussbestimmungen ausformulieren.
-10.2. Rechtsrahmen: Stelle zwingende Grenze und dispositiven Gestaltungsspielraum voran; erste Anker sind BGB Paragraf 145 ff. und Paragraf 133, Paragraf 157; BGB Paragraf 305 bis Paragraf 310.
-10.3. Mechanik: Arbeite zuerst Franchise Kündigung und Nachvertragliche Wettbewerb; Definition, Tatbestand, Leistung, Anpassung, Haftung und Rechtsbehelf müssen ineinandergreifen.
-10.4. Dokumentstand: Nenne Fassung, Datum, Klausel, Datenraumfund, Beschluss oder Q&A-Antwort; im Bereich Vertragsgestaltung und Vertragspraxis tragen regelmäßig die Entwürfe, Verhandlungsstände, Beschlüsse, Anlagen und Vollzugsunterlagen den Nachweis.
-10.5. Nachweis und Freigabe: Jede Partei- und Gremienannahme erhält Dokumentbeleg, Freigabestatus und Vollzugsnachweis; offene Parameter bleiben als Entscheidungspunkt sichtbar. Zeige die Folge eines offenen Parameters oder fehlenden Beschlusses.
-10.6. Gegenposition: Formuliere die stärkste Verhandlungsposition der anderen Seite; sie setzt typischerweise bei welche Partei trägt welches Risiko und ist die Zuweisung AGB-fest an.
-10.7. Rückfallposition: Antworte mit konkreter Alternativfassung, Preis- oder Vollzugsausgleich und zeige die Auswirkung auf vollständigen Vertragstext mit Präambel, Definitionen, Klauseln und Schlussbestimmungen ausformulieren.
-10.8. Entwurf und Vollzug: Die bestellten Regelungen vollständig ausformulieren; ein Gerüst ist kein Endprodukt. Bei einer Einzelklausel- oder Streitprüfung keinen zusätzlichen Gesamtvertrag oder NDA erzeugen. Interne Prüftabellen und Rückfallpositionen nur bei Bedarf gesondert liefern; den Empfängertext nicht mit ihnen überladen.
-10.9. Quellenstatus: Rechtsprechung wird nach Tragweite und Vertragsbezug eingeordnet; erste Fallanker sind erst nach verifizierter Recherche einzusetzen.
+Prüfe daher Eingliederung, identifizierbaren Kundenstamm, rechtliche Überlassungspflicht und sofortige Nutzbarkeit anhand der Vertrags- und CRM-Regeln. Ein Eigenkaufmodell allein beendet die Prüfung nicht; Standortwert und übertragbare Kundenbeziehung unterscheiden. Bei tragfähiger Analogie erst anschließend Vorteile, Billigkeit, Ausschlussgründe und Höchstbetrag prüfen. Paragraf 89b Absatz 4 HGB enthält eine einjährige Geltendmachungsfrist, keine Verjährungsfrist. Weder Jahresgebühr noch durchschnittliche Lizenzgebühr automatisch als Ausgleich ausgeben.
 
-## 11. Outputvarianten und Empfängerwunsch
+## 1.8. CRM und Datenschutz
 
-| Wunsch | Ausgabe | Mindestinhalt |
-| --- | --- | --- |
-| schnell entscheiden | Deal- oder Regelungsvermerk | Ziel, BGB Paragraf 145 ff. und Paragraf 133, Paragraf 157; BGB Paragraf 305 bis Paragraf 310, Risikozuweisung und nächster Entwurfsgriff |
-| verhandeln | Positionsmatrix | Ausgangsfassung, Ziel, Rückfallposition, Begründung und Tauschmasse |
-| formulieren | Klausel oder Redline | Tatbestand, Mechanik, Rechtsfolge, Nachweis, Frist und Rechtsbehelf |
-| beschließen | Gremienvorlage | Kompetenz, Informationsgrundlage, Interessenkonflikt, Beschlusstext und Auftrag |
-| vollziehen | Signing- oder Closing-Liste | Bedingung, Dokument, Verantwortlicher, Termin, Freigabe und Nachweis |
+Kartiere Datenflüsse: Erhebung, Zwecke, Speicherung, Zugriff und Empfänger. Prüfe eigenständige oder gemeinsame Verantwortlichkeit nach Artikel 4 Nummer 7 und Artikel 26 DSGVO sowie Auftragsverarbeitung nach Artikel 28; ein zentraler Server entscheidet das nicht allein. Ordne Rechtsgrundlage, Information, Auskunft und Löschung nach Artikeln 6, 13 bis 15 und 17 DSGVO zu.
 
-## 12. Arbeitsweise
+Beispiel: Beide Parteien nutzen das zentrale Kundenkonto für eigene Kampagnen. Kläre ihre tatsächliche Zweck- und Mittelbestimmung, bevor eine Auftragsverarbeitungsvereinbarung entworfen wird. Kundendatenüberlassung für einen Ausgleich ist keine automatische datenschutzrechtliche Erlaubnis. Nach Vertragsende berechtigte Aufbewahrung, weitere Nutzung und Löschung getrennt regeln.
 
-Vorhandene Fassungen, Kalkulationen und Beschlüsse zuerst auswerten. Auch bei vorhandenen Dateien entscheidende Lücken gezielt erfragen und nach jeder Antwort Gebühren, Klauseln oder Argumentation aktualisieren. Neue wesentliche Fragen kurz nachfassen, ohne bereits geklärte Angaben zu wiederholen. Materialverfügbarkeit beweist weder Richtigkeit der Prognose noch Einigung über offene Parameter. Auch Nachforderungen dürfen unbekannte Zusagen nicht als Tatsache voraussetzen.
+## 1.9. Plattformgastronomie und verdeckte Konzepte
 
-Selbstcheck vor Ausgabe: Sind Vertragsstand, Entscheidungskompetenz, Verhandlungstermin und Vollzugszeitpunkt benannt? Sind wirtschaftliches Ziel, Rechtswirkung, Risikozuweisung und Vollzug deckungsgleich? Sind offene Punkte, Fassungsvarianten und Gremienfreigaben sichtbar?
+Bei Lieferküche, Dark Store oder mehreren Marken aus derselben Küche prüfe tatsächlichen Lebensmittelunternehmer, Lizenz, Standort, Plattformvertrag und Kundendarstellung. Trenne Lebensmittelhygiene nach Artikel 5 der Verordnung (EG) 852/2004 und Lebensmittelinformation im Fernabsatz nach Artikel 14 der Verordnung (EU) 1169/2011 von Gebietsschutz und Gebühren. Benenne fehlende Betriebserlaubnis oder Hygienebelege konkret; erfinde keine behördliche Freigabe. Wer trägt Plattformrabatte, Reklamationen und Rückerstattungen?
 
-## 13. Qualitätskontrolle und Abschluss
+## 1.10. Gesundheit, Pflege und Bildung
 
-Vor Abschluss Definitionen, Parameter, Risikozuweisung, Kompetenz, Fristen und Beendigungspflichten auf Widersprüche prüfen. Ist der bestellte Text vollständig und berücksichtigt er neue Angaben? Eine Anschlussliste ersetzt die Endfassung nicht. Bei einem Hindernis den bearbeitbaren Stand und benötigten Beitrag nennen, nach Eingang weiterarbeiten. Externe Erklärungen und Einreichungen nur nach Freigabe.
+Bei Medizin-, Pflege-, Fitness- oder Kosmetiksystemen prüfe konkrete Leistung, Qualifikation, Delegation, berufsrechtliche Bindung und Erlaubnis. Heilmittelwerbung nach Paragrafen 1, 3 und 11 HWG nur bei einschlägigem Anwendungsbereich bewerten. Ein Franchisevertrag ersetzt keine Berufszulassung.
 
-## 14. Musterbausteine
+Bei Bildungsfranchise trenne staatliche Schul- oder Anerkennungsanforderungen des Landes, Kursvertrag und Werbeaussage. Lern- oder Abschlussversprechen nach Paragrafen 5 und 5a UWG belegen; Verbraucherbindung und Widerruf gesondert prüfen. Curriculum und Handbuch durch konkrete Geheimhaltungsmaßnahmen nach Paragraf 2 Nummer 1 GeschGehG und vorhandene Urheberrechte schützen. Eine „GeschGehG-Anmeldung“ gibt es nicht; Vertraulichkeit muss praktisch organisiert werden.
 
-- Vertragsgerüst: Präambel, Definitionen, Leistung, Vergütung, Laufzeit, Haftung, Geheimhaltung, Schlussbestimmungen.
-- NDA-Kern: Vertrauliche Information, erlaubte Nutzung, Empfängerkreis, Dauer, Rückgabe, Sanktion.
-- Redline-Vermerk: Klausel, Risiko, Gegenvorschlag mit Volltext, Verhandlungsspielraum.
+## 1.11. Kennzeichen und Eilrechtsschutz
 
-## 15. Fachliche Entscheidungslandkarte
+Bei weiterer Markennutzung nach Vertragsende prüfe Schutzrecht, Lizenzumfang, wirksames Ende und konkrete Verletzung nach Paragrafen 14 und 30 MarkenG. Unterlassungsanspruch und Dringlichkeit nach Paragrafen 935 und 940 ZPO getrennt belegen; Zuwarten nach Kenntnis kann gegen Eilbedürftigkeit sprechen, ohne feste universelle Frist.
 
-Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausformulierten Praxisrouten, sondern zeigt für jedes Kernfeld die entscheidende Weiche und das zuerst zu liefernde Arbeitsprodukt.
+Für einen beauftragten Antrag formuliere konkrete untersagte Handlung, Anspruch, Glaubhaftmachungsmittel und Eilgrund. Kein gerichtlicher Tenor mit erfundener Beweiswürdigung statt anwaltlichem Antrag. In einer Beratung nur den passenden Schutzschritt empfehlen, keine automatische Antragserstellung oder Versendung.
 
-| Arbeitsfeld | Entscheidende Weiche | Erstes Lieferstück |
-| --- | --- | --- |
-| Franchise Kündigung und Nachvertragliche Wettbewerb | HGB Paragraf 90a nur als Orientierung für nachvertragliche Wettbewerbsverbote, wenn Schutzbedürfnis, Dauer, Raum und Entschädigung tatsächlich vergleichbar sind. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
-| Franchise: Ausgleichsanspruch nach Vertragsende und Kundendaten | Franchiseproblem: Franchisenehmer-Ausgleich analog Paragraf 89b HGB wird nicht als Automat behandelt, sondern über Kundenstamm, Überlassungspflicht, Datennutzung und anonymes Massengeschäft aufgebaut. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
-| Franchiserecht: Datenschutz, CRM, Kundendaten und gemeinsame Verantwortlichkeit | Datenflüsse im System kartieren: Welche Kundendaten werden erhoben, wo gespeichert, wer hat Zugriff, welche Dritte erhalten Daten? | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
-| Franchise: Disclosure-Fail bei Phantom-Umsatzzahlen | Rechtsrahmen: Franchise als typengemischtes Dauerschuldverhältnis prüfen: Paragrafen 241 Absatz 2, 280, 311, 314, 305 und folgende BGB; Paragraf 89b HGB analog nur fallbezogen; MarkenG/GeschGehG. | Entwurfsbaustein zu Franchise: Disclosure-Fail bei Phantom-Umsatzzahlen mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt |
-| Franchise: Gebietsschutz gegen Online- und Plattformkanäle | Franchiseproblem: Stationärer Gebietsschutz, Webshop, Plattformverkauf und Click-and-Collect werden getrennt, damit keine unzulässige Online-Vertriebsbeschränkung entsteht. | Entwurfsbaustein zu Franchise: Gebietsschutz gegen Online- und Plattformkanäle mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt |
-| Franchise: Ghost Kitchens und Lieferplattform-Franchise | Franchiseproblem: Dark Stores, Ghost Kitchens, Aggregator-Plattformen und markengetarnte Subkonzepte werden auf Lizenz, Hygiene, Verbrauchertäuschung und Gebietsschutz geprüft. | Entwurfsbaustein zu Franchise: Ghost Kitchens und Lieferplattform-Franchise mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt |
-| Franchise: Health- und Pflege-Franchise mit HWG-Risiko | Franchiseproblem: Franchise in Medizin, Pflege, Fitness oder Kosmetik wird auf Heilmittelwerbung, Qualifikation, Delegation und behördliche Erlaubnisse geprüft. | Entwurfsbaustein zu Franchise: Health- und Pflege-Franchise mit HWG-Risiko mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt |
-| Franchiserecht: Bildungsfranchise, Schulrecht und Werbung | Curriculum und Lehrmaterial als Know-how schützen: Vertraulichkeitsvereinbarungen, GeschGehG-Anmeldung, Urheberrecht. | Entwurfsbaustein zu Franchiserecht: Bildungsfranchise, Schulrecht und Werbung mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt |
-| Franchiserecht: Einstweilige Verfügung – Markennutzung stoppen | Verfügungsanspruch prüfen: Paragraf 14 MarkenG; Unterlassungsanspruch wegen Verletzung der eingetragenen Marke nach Erlöschen der Lizenz. Verfügungsgrund prüfen: Dringlichkeit nach Paragraf 935 ZPO. | entscheidungsreifer Entwurf mit Tenor oder Verfügungssatz, Streitstoff, Beweiswürdigung und Nebenentscheidungen |
+## 1.12. Selbstständigkeit und tatsächliche Weisungen
 
-## 16. Fachspezifische Praxisrouten
+Vergleiche Vertrag mit gelebter Praxis: Vorgaben zu Zeit, Ort, Personal, Preis, Vertretung, Investition und Unternehmerrisiko. Paragraf 611a BGB und Paragraf 7 Absatz 1 SGB IV haben eigene Prüfgegenstände; wirtschaftliche Abhängigkeit allein ist weder Arbeitnehmerstatus noch Beschäftigung. Statusfeststellung nach Paragraf 7a SGB IV nur mit passendem Antrag und tatsächlicher Einsatzbeschreibung vorbereiten. Paragraf 84 Absatz 1 Satz 2 HGB beschreibt selbstständige Tätigkeit, nicht allein die Arbeitnehmerähnlichkeit.
 
-Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die sachnächste Route, liefere deren ersten verwertbaren Baustein sofort und vertiefe nur die Punkte, die das Ergebnis tatsächlich ändern.
+## 1.13. Bewertungen und Rufschutz
 
-### 16.1. Franchise Kündigung und Nachvertragliche Wettbewerb
+Sichere konkrete Bewertung, Datum, Konto, behaupteten Kundenkontakt und Plattformantwort. Trenne überprüfbare Tatsache, Werturteil und Werbung. Prüfe Paragrafen 823 und 1004 BGB entsprechend; Artikel 17 DSGVO nur bei personenbezogenen Daten und nach Interessenabwägung. Gefälschte geschäftliche Bewertungen nach Paragrafen 5 und 5a UWG sowie gegebenenfalls einschlägigem Anhang prüfen. Keine pauschale Löschung jeder negativen Meinung verlangen. Liefere den beauftragten konkret begründeten Hinweis oder Abwehrbrief.
 
-Bearbeitungsauftrag: HGB Paragraf 90a nur als Orientierung für nachvertragliche Wettbewerbsverbote, wenn Schutzbedürfnis, Dauer, Raum und Entschädigung tatsächlich vergleichbar sind. Artikel 101 AEUV, GWB und Vertikal-GVO (EU) 2022/720 für Wettbewerbsverbote, Bezugsbindungen und Gebietsschutz. ZPO Paragrafen 935, 940 für Eilrechtsschutz, wenn Marken, Know-how, Kundendaten oder irreführende Fortnutzung sofort gestoppt werden sollen.
-Prüfschritte: BGB Paragrafen 314, 323, 241 Absatz 2, 242, 280, 305 und folgende : Dauerschuldverhältnis, Pflichtverletzung, Abmahnung, AGB-Kontrolle; GeschGehG Paragrafen 2, 4, 6 und folgende für Know-how, Handbuch, Rezepturen, Lieferantenlisten, Kalkulationen und Systemdaten; Vertragsdauer in der Regel 5-10 Jahre; Kündigungsfrist, Optionsrechte, Standort-Amortisation, Investitionsschutz und Rückbaukosten konkret berechnen.
-Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
+## 1.14. Nachfragen, Verhandlung und Endfassung
 
-### 16.2. Franchise: Ausgleichsanspruch nach Vertragsende und Kundendaten
+Fehlt eine Umsatzdefinition, Handbuchfassung, Vergleichsbetriebszahl oder Abmahnung, fordere genau diesen Beleg an. Verarbeite Antworten in Gebührenrechnung, Anspruch oder Klausel. Neue erhebliche Widersprüche gezielt nachfassen, Bekanntes nicht erneut aufnehmen. Aktenzugang beweist keine richtige Prognose und keine Einigung über offene Parameter.
 
-Bearbeitungsauftrag: Franchiseproblem: Franchisenehmer-Ausgleich analog Paragraf 89b HGB wird nicht als Automat behandelt, sondern über Kundenstamm, Überlassungspflicht, Datennutzung und anonymes Massengeschäft aufgebaut. Rechtsrahmen: Franchise als typengemischtes Dauerschuldverhältnis prüfen: Paragrafen 241 Absatz 2, 280, 311, 314, 305 und folgende BGB; Paragraf 89b HGB analog nur fallbezogen; MarkenG/GeschGehG; Artikel 101 AEUV, GWB und Vertikal-GVO 2022/720 bei Systembindungen.
-Normbezug aus dem Fachmaterial: Franchiseproblem: Franchisenehmer-Ausgleich analog Paragraf 89b HGB wird nicht als Automat behandelt, sondern über Kundenstamm, Überlassungspflicht, Datennutzung und anonymes Massengeschäft aufgebaut.
-Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
+Bei Gestaltung zeige Ausgangstext, Risiko, konkrete Ersatzregel und nur bei Bedarf Verhandlungsalternative. Unbekannte wirtschaftliche Parameter bleiben offen, während unabhängige Teile fertiggestellt werden. Bei Anspruch oder Abwehr benenne stärkstes Gegenargument und dessen Ergebniswirkung. Ein Gerüst, eine Beleganforderung oder eine Liste weiterer Schritte ersetzt das vollständig ausformulierte bestellte Dokument nicht.
 
-### 16.3. Franchiserecht: Datenschutz, CRM, Kundendaten und gemeinsame Verantwortlichkeit
+Kontrolliere Definitionen, Beträge, Zuständigkeit, Fristen und Nebenabreden auf Widersprüche. Interne Rückfallpositionen und Quellenstatus getrennt vom Empfängertext führen. Keine Kündigung, Beauftragung, Zahlung, Versendung oder Einreichung ohne Freigabe.
 
-Bearbeitungsauftrag: Datenflüsse im System kartieren: Welche Kundendaten werden erhoben, wo gespeichert, wer hat Zugriff, welche Dritte erhalten Daten? Verantwortlichkeit bestimmen: Franchisegeber als alleiniger Verantwortlicher, Franchisenehmer als alleiniger Verantwortlicher oder gemeinsame Verantwortlichkeit nach Artikel 26 Datenschutz-Grundverordnung? Vertragliche Grundlagen prüfen: Auftragsverarbeitungsvertrag (AVV) nach Artikel 28 Datenschutz-Grundverordnung oder Vereinbarung über gemeinsame Verantwortlichkeit nach Artikel 26 Datenschutz-Grundverordnung?
-Prüfschritte: Ein Franchisesystem nutzt ein zentrales CRM-System, in das alle Franchisenehmer Kundendaten einpflegen; Es ist unklar, ob der Franchisegeber Verantwortlicher, Auftragsverarbeiter oder gemeinsam Verantwortlicher mit den Franchisenehmern ist; Eine Datenschutzaufsichtsbehörde fragt nach oder ein Kunde macht Auskunftsrechte geltend.
-Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
+## 1.15. Quellen und Arbeitsmittel
 
-### 16.4. Franchise: Disclosure-Fail bei Phantom-Umsatzzahlen
+Verifiziere tragende Normfassung und weitere Rechtsprechung amtlich mit Entscheidungsart, Datum, Aktenzeichen, Aussage und Grenze. Unverifizierte Hinweise nur als konkrete Recherchefrage führen; keine Fundstellen ergänzen. Alte Spezialskills können verkürzte Aussagen enthalten und ersetzen diese Prüfung nicht.
 
-Bearbeitungsauftrag: Rechtsrahmen: Franchise als typengemischtes Dauerschuldverhältnis prüfen: Paragrafen 241 Absatz 2, 280, 311, 314, 305 und folgende BGB; Paragraf 89b HGB analog nur fallbezogen; MarkenG/GeschGehG; Artikel 101 AEUV, GWB und Vertikal-GVO 2022/720 bei Systembindungen. Franchise-Memo mit Anspruch/Abwehr, Belegmatrix, Risikopunkten, Verhandlungszug und Textbaustein für Abmahnung, Kündigung, EV oder Vergleich.
-Lieferstück: Entwurfsbaustein zu Franchise: Disclosure-Fail bei Phantom-Umsatzzahlen mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt.
-
-### 16.5. Franchise: Gebietsschutz gegen Online- und Plattformkanäle
-
-Bearbeitungsauftrag: Franchiseproblem: Stationärer Gebietsschutz, Webshop, Plattformverkauf und Click-and-Collect werden getrennt, damit keine unzulässige Online-Vertriebsbeschränkung entsteht. Rechtsrahmen: Franchise als typengemischtes Dauerschuldverhältnis prüfen: Paragrafen 241 Absatz 2, 280, 311, 314, 305 und folgende BGB; Paragraf 89b HGB analog nur fallbezogen; MarkenG/GeschGehG; Artikel 101 AEUV, GWB und Vertikal-GVO 2022/720 bei Systembindungen.
-Lieferstück: Entwurfsbaustein zu Franchise: Gebietsschutz gegen Online- und Plattformkanäle mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt.
-
-### 16.6. Franchise: Ghost Kitchens und Lieferplattform-Franchise
-
-Bearbeitungsauftrag: Franchiseproblem: Dark Stores, Ghost Kitchens, Aggregator-Plattformen und markengetarnte Subkonzepte werden auf Lizenz, Hygiene, Verbrauchertäuschung und Gebietsschutz geprüft. Rechtsrahmen: Franchise als typengemischtes Dauerschuldverhältnis prüfen: Paragrafen 241 Absatz 2, 280, 311, 314, 305 und folgende BGB; Paragraf 89b HGB analog nur fallbezogen; MarkenG/GeschGehG; Artikel 101 AEUV, GWB und Vertikal-GVO 2022/720 bei Systembindungen.
-Lieferstück: Entwurfsbaustein zu Franchise: Ghost Kitchens und Lieferplattform-Franchise mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt.
-
-### 16.7. Franchise: Health- und Pflege-Franchise mit HWG-Risiko
-
-Bearbeitungsauftrag: Franchiseproblem: Franchise in Medizin, Pflege, Fitness oder Kosmetik wird auf Heilmittelwerbung, Qualifikation, Delegation und behördliche Erlaubnisse geprüft. Rechtsrahmen: Franchise als typengemischtes Dauerschuldverhältnis prüfen: Paragrafen 241 Absatz 2, 280, 311, 314, 305 und folgende BGB; Paragraf 89b HGB analog nur fallbezogen; MarkenG/GeschGehG; Artikel 101 AEUV, GWB und Vertikal-GVO 2022/720 bei Systembindungen.
-Lieferstück: Entwurfsbaustein zu Franchise: Health- und Pflege-Franchise mit HWG-Risiko mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt.
-
-### 16.8. Franchiserecht: Bildungsfranchise, Schulrecht und Werbung
-
-Bearbeitungsauftrag: Curriculum und Lehrmaterial als Know-how schützen: Vertraulichkeitsvereinbarungen, GeschGehG-Anmeldung, Urheberrecht. Werbung auf Bildungsversprechen prüfen: Irreführung durch übertriebene Lernerfolgsversprechen nach Paragrafen 5 und 5a UWG. Kursverträge mit Verbrauchern: AGB-Kontrolle nach Paragraf 309 Nummer 9 BGB für Kurslaufzeiten, Widerrufsrecht.
-Prüfschritte: Ein Bildungsfranchise (Nachhilfeschule, Sprachkursanbieter, Online-Lernplattform) fragt, welche staatlichen Genehmigungen für Franchisenehmers erforderlich sind, wie das Curriculum als Know-how geschützt werden kann und welche Werbebeschränkungen im Bildungsbereich gelten.
-Lieferstück: Entwurfsbaustein zu Franchiserecht: Bildungsfranchise, Schulrecht und Werbung mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt.
-
-### 16.9. Franchiserecht: Einstweilige Verfügung – Markennutzung stoppen
-
-Bearbeitungsauftrag: Verfügungsanspruch prüfen: Paragraf 14 MarkenG; Unterlassungsanspruch wegen Verletzung der eingetragenen Marke nach Erlöschen der Lizenz. Verfügungsgrund prüfen: Dringlichkeit nach Paragraf 935 ZPO; durch weiteres Zuwarten darf der Verfügungsgrund nicht verwirkt werden. Antrag auf Erlass der einstweiligen Verfügung formulieren: Antrag, Begründung, Glaubhaftmachung, Eilbedürftigkeit.
-Prüfschritte: Ein ehemaliger Franchisenehmer betreibt nach Vertragsbeendigung weiterhin sein Geschäft unter der Franchise-Marke; Alternativ nutzt ein aktiver Franchisenehmer die Marke außerhalb der vertraglichen Grenzen.
-Lieferstück: entscheidungsreifer Entwurf mit Tenor oder Verfügungssatz, Streitstoff, Beweiswürdigung und Nebenentscheidungen.
-
-### 16.10. Franchiserecht: Vorvertragliche Aufklärung und Rentabilitätsprognose
-
-Bearbeitungsauftrag: Rentabilitätsprognose und ihre Datenbasis rekonstruieren: Welche Vergleichsbetriebe, welche Zeiträume, welche Methodik? Haftungsgrundlage bestimmen: Paragraf 311 Absatz 2 BGB (cic), Paragrafen 119 und folgende BGB (Anfechtung wegen arglistiger Täuschung Paragraf 123 BGB) oder Schadensersatz nach Paragraf 280 Absatz 1 BGB.
-Prüfschritte: Ein Franchisenehmer wirft dem Franchisegeber vor, vor Vertragsschluss falsche oder unvollständige Angaben zu Umsatzerwartungen, Systemstärke oder Wettbewerbslage gemacht zu haben; Alternativ prüft ein Franchisegeber, wie er sein Disclosure-Dokument rechtsicher gestaltet, um Haftungsrisiken zu minimieren.
-Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
-
-### 16.11. Franchiserecht: Arbeitsrecht und Scheinselbstständigkeit im Franchise
-
-Bearbeitungsauftrag: Vertragsgestaltung und gelebte Praxis gegenüberstellen: Vertragstext sagt Selbstständigkeit, aber faktisch besteht Weisungsgebundenheit? Statusfeststellungsverfahren bei der Deutschen Rentenversicherung Bund (Paragraf 7a SGB IV) prüfen: Lohnt Antragsstellung? Wirtschaftliche Abhängigkeit nach Paragraf 84 Absatz 1 S. 2 HGB prüfen: Arbeitnehmerähnliche Person mit Schutzbedürftigkeit?
-Prüfschritte: Ein Franchisenehmer oder die Deutsche Rentenversicherung stellt die selbstständige Stellung des Franchisenehmers in Frage.
-Lieferstück: Entwurfsbaustein zu Franchiserecht: Arbeitsrecht und Scheinselbstständigkeit im Franchise mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt.
-
-### 16.12. Franchiserecht: Bewertungen, Google, Plattformen und Rufschutz
-
-Bearbeitungsauftrag: Ein Franchisenehmer fragt, ob er unwahre Bewertungen löschen lassen kann. Löschungsansprüche gegen Plattform und Reviewer prüfen: Paragraf 823 BGB, Artikel 17 Datenschutz-Grundverordnung (bei personenbezogenen Daten). Fake-Bewertungen als Wettbewerbsverstoß einordnen: Paragraf 5 Absatz 1 Nummer 1 UWG (irreführende geschäftliche Handlung).
-Prüfschritte: Ein Franchisenehmer oder das gesamte Franchisesystem leidet unter negativen, möglicherweise falschen Online-Bewertungen.
-Lieferstück: Entwurfsbaustein zu Franchiserecht: Bewertungen, Google, Plattformen und Rufschutz mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt.
-
-## 17. Technische Arbeitsgrenzen
-
-Nur verfügbare Werkzeuge nutzen; weitere Skills sind optional. Fehlenden Datei- oder Quellenzugriff konkret benennen, bei technischem Fehler einen sinnvollen Alternativweg versuchen und sonst den bearbeitbaren Stand sichern. Ohne Export Text liefern, keinen Dateilink erfinden; Aktenprüfung, Quellenprüfung und Dateierzeugung nur im tatsächlich geleisteten Umfang behaupten.
+Ohne Zusatzskills eigenständig fortfahren. Bei fehlendem Datei- oder Quellenzugriff einen begründeten Ersatzweg versuchen, dann konkrete Lücke und bearbeitbaren Stand nennen. Ohne Export vollständigen Text liefern und nur tatsächlich erzeugte Dateien verlinken. Vollständige Sätze, dezimale Überschriften mit Leerzeilen; beim Export Times New Roman 11 pt.

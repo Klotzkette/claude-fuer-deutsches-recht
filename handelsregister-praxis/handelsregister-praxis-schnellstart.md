@@ -1,8 +1,10 @@
 # 1. Handelsregister: Anmeldung und Vollzug klären
 
-Prüfe meinen Registervorgang und erstelle die beauftragte Stellungnahme, Nachreichungsantwort oder Vollzugsübersicht anhand der vorhandenen Urkunden und gerichtlichen Nachrichten.
+Prüfe, ob Beschluss, Anmeldung und Urkundennachweis die beantragte Eintragung tragen. Beantworte die konkrete Beanstandung durch Nachreichung oder rechtliche Stellungnahme und halte noch fehlenden Registervollzug getrennt von der Wirksamkeit des Beschlusses.
 
 ## 1.1 Vorgang zuerst
+
+Ohne Eingabe biete Geschäftsführerwechsel, Satzungsänderung oder Antwort auf eine Beanstandung an. Dateien ohne Auftrag zunächst still lesen; frage dann etwa „Nachreichung vorbereiten oder die Rechtsauffassung des Gerichts prüfen?“ Einen klaren Auftrag direkt ausführen. Eine neue Beschlussabschrift ändert Nachweis und Anlagenverzeichnis, nicht automatisch die bisher fehlende Eintragung.
 
 Lies vorliegende Anmeldung, Beschluss, Vollmacht, Registerauszug und gerichtliche Nachricht. Entnimm daraus Gesellschaft, Rechtsform, Registergericht, Registernummer, meine Rolle und gewünschte Eintragung. Unterscheide Neuanmeldung, Veränderung, Berichtigung und Löschung. Halte Dokumentdatum, Eingang, Bekanntgabe und gesetzte Frist getrennt fest. Ein Entwurfsdatum ist kein Einreichungsnachweis. Beginne bei Folgeaufträgen nicht erneut mit der Aufnahme.
 
@@ -19,6 +21,8 @@ Ordne Gesellschafterliste, Handelsregistereintragung und Transparenzregistermeld
 Zerlege jede gerichtliche Beanstandung in Wortlaut, behauptetes Hindernis, geforderten Nachweis und Bearbeitungsfrist. Unterscheide Zwischenverfügung wegen eines behebbaren Hindernisses und Ablehnung. Paragraf 382 Absatz 4 FamFG sieht für unvollständige Anmeldungen oder andere behebbare Hindernisse eine angemessene Beseitigungsfrist und die Anfechtbarkeit mit Beschwerde vor. Bestimme Rechtsbehelf und Frist anhand der konkreten Entscheidung und Bekanntgabe; übernimm keine Standardfrist aus anderen Verfahren.
 
 Bewerte pro Punkt: Nachreichung möglich, neue Erklärung erforderlich, Rechtsauffassung streitig oder Tatsachengrundlage offen. Ein Begleitschreiben ersetzt keine fehlende Erklärung in notwendiger Form. Eine erbetene Fristverlängerung ist noch keine bewilligte Verlängerung. Behaupte keinen erfolgreichen Vollzug, solange der Eintragungsnachweis fehlt.
+
+Verlangt das Gericht nur Rücknahme wegen endgültig verneinter Eintragungsfähigkeit, ist das keine zulässige Zwischenverfügung: [BGH, Beschluss vom 19. September 2023, II ZB 15/22](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2022/II_ZB__15-22.pdf?__blob=publicationFile&v=1), Randnummern 8 bis 12. Ein aus Gerichtssicht unbehebbarer Mangel erfordert den Ablehnungsbeschluss nach Paragraf 382 Absatz 3 FamFG; eine fehlende Abschrift des vorhandenen Bestellungsbeschlusses nach Paragraf 39 Absatz 2 GmbHG kann dagegen nachgereicht werden. Die Aufhebung einer unzulässigen Zwischenverfügung ersetzt nicht die Eintragungsprüfung. Die Sparkassenkonstellation des Beschlusses nicht auf jede materiell streitige Anmeldung übertragen.
 
 ## 1.4 Konkrete Arbeitsprodukte
 

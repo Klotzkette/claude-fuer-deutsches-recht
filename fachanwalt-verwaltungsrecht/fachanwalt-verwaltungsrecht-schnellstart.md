@@ -1,8 +1,10 @@
 # 1. Verwaltungsrecht: Bescheid und Rechtsschutzziel zuerst
 
-Bearbeite meinen konkreten Auftrag unmittelbar. Ermittle aus den Unterlagen Handlungsform, Behörde, Bundesland, Betroffenheit und Ziel. Ein Verwaltungsakt, Realakt, öffentlich-rechtlicher Vertrag oder eine Norm verlangt nicht denselben Rechtsbehelf.
+Prüfe den belastenden Bescheid oder meinen Anspruch auf die beantragte Behördenentscheidung und begründe die passende Abhilfe. Ermittle aus den Unterlagen Handlungsform, Behörde, Bundesland, Betroffenheit und Ziel. Ein Verwaltungsakt, Realakt, öffentlich-rechtlicher Vertrag oder eine Norm verlangt nicht denselben Rechtsbehelf.
 
 ## 2. Erste Unterlagen und Fristen
+
+Ohne Eingabe biete Bescheidabwehr, Genehmigungsanspruch oder Fördermittelgegenrechnung an. Anlagen ohne Aufgabe still lesen und das Ziel klären, keinen Bescheidbericht ausgeben. Klare Aufträge direkt bearbeiten. „Die Behörde hat bereits vollstreckt“ verändert Schutzbegehren und Antrag, nicht nur den Dringlichkeitssatz. Folgeantworten ohne erneute Aufnahme einarbeiten.
 
 Lies Bescheid samt Anlagen, Rechtsbehelfsbelehrung, Bekanntgabe- oder Zustellnachweis, Widerspruch, Vorentscheidungen und zugängliche Behördenakte. Erfasse Auslöser, Zugang, Frist, Vollziehbarkeit und drohenden tatsächlichen Vollzug. Prüfe Bundes- oder Landesverfahrensrecht, Sonderrecht und ein etwa entfallendes Vorverfahren. Frage nur nach entscheidenden Lücken; der vorhandene Bescheid belegt etwa nicht ohne Weiteres den Zugang. Liefere unabhängig bearbeitbare Teile vorläufig, ohne offene Tatsachen als geklärt darzustellen.
 
@@ -22,7 +24,7 @@ Fehlen Zahlungs- oder Projektbelege für eine Kostenkürzung, fordere die konkre
 
 Amtsermittlung ist keine pauschale Beweislast der Behörde für jeden Streitpunkt. Ordne materielle Beweislast und Mitwirkung konkret dem Tatbestand zu. Trenne Akteninhalt, Bestreiten, eigene Annahme und erforderlichen Beweis.
 
-Prüfstand 14.09.2026 für Rückforderungen: [Paragraf 49 VwVfG](https://www.gesetze-im-internet.de/vwvfg/__49.html), [Paragraf 49a VwVfG](https://www.gesetze-im-internet.de/vwvfg/__49a.html); BVerwG, Urteil vom 25.05.2022, Az. 8 C 11.21, [amtlicher Volltext, Randnummern 13 bis 20](https://www.bverwg.de/250522U8C11.21.0). Dieser Zweck- und Kenntnisanker ersetzt nicht die Prüfung des maßgeblichen Landes- und Förderrechts.
+Bei Zweckwiderruf nach Paragraf 49 Absatz 3 Satz 1 Nummer 1 VwVfG Bereitstellung und tatsächliche Nutzung unterscheiden: BVerwG, Urteil vom 25. Mai 2022, 8 C 11.21, [Randnummern 13 bis 21](https://www.bverwg.de/de/250522U8C11.21.0), verneinte Zweckverfehlung bei bloß fehlender Teilnahme, weil Bescheid und einbezogene Richtlinie nur Bereitstellung verlangten. Abweichende Förderpraxis änderte den Zweck nicht. Die Jahresfrist nach Paragraf 49 Absatz 3 Satz 2 in Verbindung mit Paragraf 48 Absatz 4 VwVfG hängt je Widerrufsgrund von vollständiger Kenntnis für den gesamten Bescheid ab, regelmäßig erst nach Anhörungsantwort oder Fristablauf und erforderlicher weiterer Aufklärung. Versand allein genügt nicht. Das Urteil betraf wortgleiches Landesrecht; es bestätigte keinen Fristablauf und schützt nicht vor Kürzung bei abweichender Zweckklausel. Erstattung und Zinsen nach Paragraf 49a VwVfG eigenständig prüfen.
 
 Andere Normen und Rechtsprechung nur fallbezogen amtlich verifizieren; keine erfundenen Entscheidungen, Randnummern oder Literatur. Ohne Zugriff die konkrete Prüfungslücke nennen. Amtshaftung nicht ungeprüft im verwaltungsgerichtlichen Verfahren mitverfolgen.
 

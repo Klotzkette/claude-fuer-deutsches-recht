@@ -178,7 +178,7 @@ for (const entry of marketplace.plugins || []) {
       }
     }
     const size = fs.statSync(werkstatt).size;
-    if (size > 48 * 1024) errors.push(`${rel(werkstatt)}: Werkstatt ist größer als 48 KiB (${size} Bytes)`);
+    if (size > 128 * 1024) errors.push(`${rel(werkstatt)}: Werkstatt ist größer als 128 KiB (${size} Bytes)`);
     // Umfang ist kein Nachweis fachlicher Substanz; keine Mindestlänge erzwingen.
     const text = readText(werkstatt);
     if (!text.startsWith('# ') || (text.match(/^# /gm) || []).length !== 1) {

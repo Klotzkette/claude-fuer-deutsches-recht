@@ -1,8 +1,10 @@
 # 1. Fotolizenzen und Schadenshöhe aus Belegen rekonstruieren
 
-Erstellen Sie zu meiner gewerblichen Fotolizenzstreitigkeit den bestellten Vermerk oder das Anspruchs- beziehungsweise Abwehrschreiben mit nachvollziehbarer Bezifferung. Dieser Auftrag ist ohne weitere installierte Inhalte ausführbar.
+Ordnen Sie jedes streitige Foto der erlaubten und der tatsächlich belegten Nutzung zu. Ermitteln Sie aus vergleichbaren, frei vereinbarten Lizenzen den Schaden nach Paragraf 97 Absatz 2 UrhG, rechnen Sie Zahlungen an und begründen Sie streitige Zuschläge gesondert. Verfassen Sie daraus den beauftragten Vermerk oder das Anspruchs- beziehungsweise Abwehrschreiben. Weitere installierte Inhalte sind nicht nötig.
 
 ## 1.1. Tatsachen und Belege
+
+Ohne Eingabe bieten Sie Nutzungsabgleich, Lizenzrechnung oder Zahlungsabwehr an. Anlagen ohne Auftrag still lesen und das Ziel klären; klare Aufgaben direkt erledigen. „Die 900 Euro umfassen auch Anwaltskosten“ ändert die Vergleichspreisgrundlage und Bezifferung, nicht den belegten Nutzungsumfang. Keine erneute Aufnahme oder automatische Gesamtauswertung.
 
 Ermitteln Sie meine Rolle, das Zahlungsziel und etwaige Fristen aus Auftrag und übergebenen Dateien. Übernehmen Sie bereits geklärte Angaben, statt eine Einführung ins Urheberrecht vorzuschalten. Lesen Sie Originalbilder, Rechteübertragungen, Nutzungsverträge, veröffentlichte Fassungen, Screenshots, Rechnungen, Zahlungsbelege und die gegnerische Berechnung.
 
@@ -26,7 +28,7 @@ Ein einheitlicher Vergleichsvorschlag darf die unterschiedliche Beleglage der Po
 
 Prüfen Sie den Lizenzumfang nach [Paragraf 31 UrhG](https://www.gesetze-im-internet.de/urhg/__31.html), die Benennung nach [Paragraf 13 UrhG](https://www.gesetze-im-internet.de/urhg/__13.html) und die Grenzen einer gerichtlichen Schätzung nach [Paragraf 287 ZPO](https://www.gesetze-im-internet.de/zpo/__287.html). Auch diese Normauszüge wurden am 14.09.2026 geprüft.
 
-Prüfen Sie die zeitlich einschlägige Fassung von [Paragraf 97 UrhG](https://www.gesetze-im-internet.de/urhg/__97.html). Verifizierter Ausgangspunkt am 14.09.2026: BGH, Urteil vom 18.06.2020, Az. I ZR 93/19, „Nachlizenzierung“, [amtliche Entscheidung, Leitsatz](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2020&Gericht=bgh&Seite=63&anz=3286&nr=108768&pos=1900). Nach einer Verletzung vereinbarte Vergütungen können weitere Streitbeilegungsleistungen enthalten. Prüfen Sie die Übertragbarkeit, statt daraus eine starre Tarifregel abzuleiten.
+Prüfen Sie die zeitlich einschlägige Fassung von [Paragraf 97 UrhG](https://www.gesetze-im-internet.de/urhg/__97.html). Werden Nachvergleiche als Preisbeleg vorgelegt, wenden Sie [BGH, Urteil vom 18.06.2020, I ZR 93/19, Nachlizenzierung, amtlicher Leitsatz](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=108768&Blank=1.pdf), an: Nach Verletzung vereinbarte Beträge vergüten regelmäßig auch Streitbeilegung und indizieren nicht ohne Weiteres den freien Nutzungswert. Trennen Sie diesen Mehrwert und begründen Sie Vergleichbarkeit oder verbleibende Bezifferungslücke. Daraus folgen weder ein fester Tarif noch die Unverwertbarkeit jedes Nachvertrags. Amtlicher Leitsatz am 22.09.2026 im Suchauszug geprüft; Volltext nicht abrufbar.
 
 Rechtliche Aussagen mit amtlicher Quelle und konkreter Passage belegen; keine erfundenen Randnummern, Urteile oder Literatur. Bei nicht erreichbarem Volltext die verifizierte Aussage auf den Leitsatz begrenzen. Keine Unterlassungserklärung abgeben, keine Zahlung, Löschung oder Plattformmeldung ausführen.
 

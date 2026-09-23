@@ -1,29 +1,53 @@
 {
   "schema_version": 1,
   "plugin": "factoring-recht",
-  "reviewed_on": "2026-09-17",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/bgb/__407.html",
       "checked_on": "2026-09-14",
       "supports": "Schutz des nicht über die Abtretung informierten Schuldners bei Leistung an den bisherigen Gläubiger."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2012/IX_ZR_128-12.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 08.05.2014, IX ZR 128/12, Rn. 10–18: Beim echten Factoring erfüllt der Factor mit dem Forderungskaufpreis seine eigene Kaufpreisschuld. Einfacher Eigentumsvorbehalt und gesonderte Eigentumsübertragung sind anhand der Abreden zu prüfen. Grenze: Keine Gleichsetzung jeder Factorzahlung mit Schuldnerleistung und kein allgemeiner Vorrang des Factors; verlängerten Eigentumsvorbehalt und Sicherungsrechte gesondert behandeln."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__407.html",
+      "checked_on": "2026-09-22",
+      "supports": "Zahlung an bisherigen Gläubiger schützt nur nach den gesetzlichen Kenntnisvoraussetzungen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__47.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aussonderung für Gegenstände, die nicht zur Insolvenzmasse gehören; nicht gleich Absonderung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__407.html",
+      "supports": "Erneuter Normabruf zur Leistung an den bisherigen Gläubiger und tatsächlichen Kenntnis der Abtretung; schriftliche Anzeige ist nicht der einzig mögliche Kenntnisweg.",
+      "checked_on": "2026-09-23"
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Ganztextreview am 17.09.2026: Trotz fachlicher Ergänzungen wiederholte der Mini noch allgemeine Forderungstabellen und eine pauschale Beweislastaufteilung. Nach Erwerb, Schuldnerschutz und getrennter Abrechnung neu gegliedert; keine erneute Quellenverifikation oder Live-Modellprüfung.",
+    "reason": "Der kompakte Zahlungsfall trennt Kaufpreis des Factors und Zahlung des Debitors statt beide als Tilgung derselben Schuld zu behandeln. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Debitor hat vor Kenntnis an den Anschlusskunden bezahlt oder Einzelankauf war abgelehnt -> Erwerbszuordnung, Debitorensaldo und internen Rückgriff getrennt ändern.",
     "changes": [
-      "Doppelte Fallkarte und Antwortschablone durch konkrete Erwerbs-, Einwendungs- und Abrechnungsprüfung ersetzt.",
-      "Fehlende Ankaufannahme oder Debitorenzahlung führt nach Nachweis zu angepasster Inhaberschaft, Rechnung und vollständigem bestellten Schreiben.",
-      "Debitorenforderung, Ankaufpreis, Gebühren und Rückgriff getrennt erhalten; Nutzerdateiname und optionale Tabellen ausdrücklich klargestellt."
+      "IX ZR 128/12 an eigene Kaufpreisschuld des Factors und gesonderten Eigentumserwerb geknüpft.",
+      "Paragrafen 407, 929 und 931 BGB sowie Paragrafen 47 und 51 InsO nach Kenntnisstand und Sicherungsart getrennt.",
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
     ],
-    "sha256": "ec9913209dbfd9d081f4fb4eef10a9b1467483d8b85cc8b6bcfcf9207ca9556e"
+    "sha256": "4dbf9af360a3ce4ed4ecf750bc8cdeaec986e60ec61112b6e8d9a4c8fdb8dcac"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Ganztextreview am 17.09.2026: Die Werkstatt enthielt noch allgemeine Mahnprozessschablonen und zwölf weitgehend gleichlautende Routen. Factoringfragen wurden fachlich zusammengeführt; keine neue Quellenverifikation oder Live-Modellprüfung.",
-    "changes": ["Forderungserwerb, Debitorenschutz, Risikoverteilung und getrennte Salden als zusammenhängenden Arbeitsablauf formuliert.","Aufsichtsrecht, Bilanzierung und Stichprobenkontrolle als eigenständige Prüfungszweige erhalten, ohne Folgen allein aus der Bezeichnung echtes Factoring abzuleiten.","Erwerbs- und Zahlungsnachforderungen führen zur fortgeschriebenen Abrechnung und Endfassung; Vertragsprüfung wird nicht automatisch zu Mahnung oder Klage."],
-    "sha256": "8f76fb269fcdca3fc2ed6e480334afc2a97182df88695c2ab115f632fb5cd254"
+    "reason": "Echtes Factoring, Abtretung und Warenrechte werden mit ihrer jeweiligen Insolvenzfolge verbunden; Aussonderung nicht pauschal als Absonderung bezeichnet. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Einzelankauf und kollidierende Sicherung, Storno statt doppelter Forderung, Zahlungseingang und Tilgungszweck, tatsächliche Abtretungskenntnis, Delkredere gegenüber Verität sowie Rückbelastung und Einbehaltsfreigabe.",
+    "changes": [
+      "IX ZR 128/12 an eigene Kaufpreisschuld des Factors und gesonderten Eigentumserwerb geknüpft.",
+      "Paragrafen 407, 929 und 931 BGB sowie Paragrafen 47 und 51 InsO nach Kenntnisstand und Sicherungsart getrennt.",
+      "Einzelankauf und kollidierende Sicherung, Storno statt doppelter Forderung, Zahlungseingang und Tilgungszweck, tatsächliche Abtretungskenntnis, Delkredere gegenüber Verität sowie Rückbelastung und Einbehaltsfreigabe."
+    ],
+    "sha256": "c9190c2d08ccb75741b9a261e9354fcb6bf1029d565ef31259fcc85965d47693"
   },
   "selection": {
     "positive": [
@@ -68,5 +92,44 @@
       ],
       "target_skill": "debitorenkommunikation-abtretungsanzeige"
     }
-  ]
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-23",
+    "files": [
+      "factoring-recht/factoring-recht-schnellstart.md",
+      "factoring-recht/factoring-recht-werkstatt.md",
+      "factoring-recht/README.md",
+      "quality/evals/factoring-recht.json"
+    ],
+    "opening_change": "Forderungskauf, Debitorenzahlung und Eigentumsrechte anhand einzelner Rechnungen und Abtretungen abgleichen. Workflow-Ergänzung: Leer: Ankaufprüfung, Saldenabgleich oder Debitorenantwort anbieten. Dateien ohne Aufgabe: Ankaufsannahmen, Abtretung und Zahlungsbelege still lesen; Erwerbs-, Abrechnungs- oder Vertragsziel klären. Klarer Auftrag: konkrete Abrechnung, Klausel oder Antwort unmittelbar ausarbeiten; kein automatischer Bestandsbericht oder Mahnentwurf.",
+    "norms": [
+      "Paragrafen 398, 407, 929 und 931 BGB",
+      "Paragrafen 47 und 51 InsO"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 08.05.2014, IX ZR 128/12, Rn. 10–18",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2012/IX_ZR_128-12.pdf?__blob=publicationFile&v=1",
+        "application": "Beim echten Factoring erfüllt der Factor mit dem Forderungskaufpreis seine eigene Kaufpreisschuld. Einfacher Eigentumsvorbehalt und gesonderte Eigentumsübertragung sind anhand der Abreden zu prüfen.",
+        "limit": "Keine Gleichsetzung jeder Factorzahlung mit Schuldnerleistung und kein allgemeiner Vorrang des Factors; verlängerten Eigentumsvorbehalt und Sicherungsrechte gesondert behandeln."
+      }
+    ],
+    "remaining_limits": [
+      "Redaktionelle Akten- und Quellenprüfung, kein Live-Client- oder Modelltest.",
+      "Kein allgemeiner Vorrang bei Globalzession oder verlängertem Eigentumsvorbehalt aus dem Urteil abgeleitet; deren Vertragslage gesondert prüfen.",
+      "Workflow-Review 23.09.2026: Paragraf 407 BGB erneut eingesehen; vorhandener IX-ZR-128/12-Anker bleibt auf Kaufpreisschuld und gesonderte Warenrechte begrenzt. Keine neue Aufsichts- oder Bilanzierungsbestätigung."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Ankaufprüfung, Saldenabgleich oder Debitorenantwort anbieten.",
+      "Dateien ohne Aufgabe: Ankaufsannahmen, Abtretung und Zahlungsbelege still lesen; Erwerbs-, Abrechnungs- oder Vertragsziel klären.",
+      "Klarer Auftrag: konkrete Abrechnung, Klausel oder Antwort unmittelbar ausarbeiten; kein automatischer Bestandsbericht oder Mahnentwurf."
+    ],
+    "continuation": "Debitor hat vor Kenntnis an den Anschlusskunden bezahlt oder Einzelankauf war abgelehnt -> Erwerbszuordnung, Debitorensaldo und internen Rückgriff getrennt ändern.",
+    "enrichment": "Einzelankauf und kollidierende Sicherung, Storno statt doppelter Forderung, Zahlungseingang und Tilgungszweck, tatsächliche Abtretungskenntnis, Delkredere gegenüber Verität sowie Rückbelastung und Einbehaltsfreigabe.",
+    "limits": "desk review; no live client execution"
+  }
 }

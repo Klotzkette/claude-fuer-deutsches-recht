@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "relationstechnik-zivilrecht",
-  "reviewed_on": "2026-09-17",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/bgb/__362.html",
@@ -12,15 +12,54 @@
       "url": "https://www.gesetze-im-internet.de/zpo/__138.html",
       "checked_on": "2026-09-14",
       "supports": "Erklärungslast sowie Abgrenzung zugestandener und bestrittener Tatsachen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__286.html",
+      "checked_on": "2026-09-22",
+      "supports": "Amtlichen Text zu Paragraf 286 ZPO gelesen; Bezug: Zahlungsanspruch, Erfüllungseinwendung und beweisbedürftigen Übergabevorgang stationsbezogen prüfen. Keine vollständige neue Verifikation sämtlicher weiterer Normen des Plugins."
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2022&Gericht=bgh&Seite=11&anz=3168&nr=132360&pos=346",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Beschluss vom 17.11.2022, V ZR 25/22: Erheblichen Zeugenbeweis nicht wegen bereits aus anderen Umständen gewonnener Überzeugung übergehen; auf konkret behauptete Barzahlung übertragen. Amtliche Metadaten und entscheidende Rn. 10 bis 11 im primär indizierten PDF gelesen, direkter PDF-Abruf gestört; weder Beweislastumkehr noch Erhebung unerheblicher Beweise."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__358.html",
+      "checked_on": "2026-09-23",
+      "supports": "Mehrere Forderungen, Hilfsaufrechnung, konkrete Wahrnehmung, Beweisprogramm und Entscheidungsreife stationsbezogen. Prüftiefe: Paragraf 358 direkt gelesen; Paragraf 286 über amtlich indizierte Gesamtausgabe nach gestörtem Einzelabruf. Bisherige BGH-Zugriffsgrenze unverändert."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/BJNR005330950.html",
+      "checked_on": "2026-09-23",
+      "supports": "Mehrere Forderungen, Hilfsaufrechnung, konkrete Wahrnehmung, Beweisprogramm und Entscheidungsreife stationsbezogen. Prüftiefe: Paragraf 358 direkt gelesen; Paragraf 286 über amtlich indizierte Gesamtausgabe nach gestörtem Einzelabruf. Bisherige BGH-Zugriffsgrenze unverändert."
     }
   ],
   "mini_review": {
-    "verdict": "retained",
-    "reason": "Am 18. September vollständig gelesen. Zahlungsbeleg und Protokoll werden stationsbezogen ergänzt, ohne Erfüllung oder Zeugenaussage vorwegzunehmen. Nutzerantwort ersetzt kein Gehör; offene Beweisaufnahme führt zum passenden vorläufigen Entwurf. Keine neue Quellenverifikation oder Live-Modellprüfung.",
-    "changes": [],
-    "sha256": "fd2e0a837a78b35635882bdb724542f3447a219ba7bc19f39124ac02eb38ce60"
+    "verdict": "revised",
+    "reason": "Kurzprompt individuell auf Einstieg, fachliche Fortsetzung und vollständiges Arbeitsprodukt geprüft. Mehrere Forderungen, Hilfsaufrechnung, konkrete Wahrnehmung, Beweisprogramm und Entscheidungsreife stationsbezogen.",
+    "changes": [
+      "Fehlende Quittung von vorweggenommener Beweiswürdigung abgegrenzt; erheblicher Zeugenbeweis bleibt vor non liquet zu erheben.",
+      "Erheblichen Zeugenbeweis nicht wegen bereits aus anderen Umständen gewonnener Überzeugung übergehen; auf konkret behauptete Barzahlung übertragen.",
+      "Zahlung an Dritten -> Erheblichkeit und Empfangsbefugnis vor Beweisfrage neu prüfen.",
+      "Mehrere Forderungen, Hilfsaufrechnung, konkrete Wahrnehmung, Beweisprogramm und Entscheidungsreife stationsbezogen."
+    ],
+    "sha256": "cef8a070d13573cc8b8ccac968a3800ccdc8801bd361a7019113289ec92818de",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
   },
-  "workshop_review": {"verdict":"retained","reason":"Am 18. September gesamten Text geprüft. Klägerstation, Beklagtenstation, Beweislast und Beweiswürdigung bleiben getrennt; nachgereichte Zahlung aktualisiert nur betroffene Stationen. Einzelstationsauftrag erzwingt kein Vollurteil, Urteilsausgang wird bei fehlendem Gehör oder Beweis nicht fingiert. Kein widersprechender Schlussblock gefunden.","changes":[],"sha256":"f721f5b625e7005f750c4ac37f31f6b283cfccdcc68327d31d9b68314ec98b7e"},
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Werkstatt individuell auf Einstieg, fachliche Fortsetzung und vollständiges Arbeitsprodukt geprüft. Mehrere Forderungen, Hilfsaufrechnung, konkrete Wahrnehmung, Beweisprogramm und Entscheidungsreife stationsbezogen.",
+    "changes": [
+      "Zahlungsanspruch, Erfüllungseinwendung und beweisbedürftigen Übergabevorgang stationsbezogen prüfen.",
+      "Erheblichen Zeugenbeweis nicht wegen bereits aus anderen Umständen gewonnener Überzeugung übergehen; auf konkret behauptete Barzahlung übertragen.",
+      "Zahlung an Dritten -> Erheblichkeit und Empfangsbefugnis vor Beweisfrage neu prüfen.",
+      "Mehrere Forderungen, Hilfsaufrechnung, konkrete Wahrnehmung, Beweisprogramm und Entscheidungsreife stationsbezogen."
+    ],
+    "sha256": "e90c32926777c62824740464245677cc0aa1c277fc9b85d55667a2f60e887520",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
+  },
   "selection": {
     "positive": [
       "Erstelle eine Beweisstation zu einer bestrittenen Barzahlung.",
@@ -64,5 +103,46 @@
       ],
       "target_skill": "13-beweislastverteilung-pruefen"
     }
-  ]
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "gerichtsplugins/relationstechnik-zivilrecht/README.md",
+      "gerichtsplugins/relationstechnik-zivilrecht/relationstechnik-zivilrecht-werkstatt.md",
+      "gerichtsplugins/relationstechnik-zivilrecht/relationstechnik-zivilrecht-schnellstart.md",
+      "quality/evals/relationstechnik-zivilrecht.json"
+    ],
+    "opening_change": "Zahlungsanspruch, Erfüllungseinwendung und beweisbedürftigen Übergabevorgang stationsbezogen prüfen",
+    "norms": [
+      "Paragraf 286 ZPO",
+      "Artikel 103 Absatz 1 GG",
+      "Paragraf 362 BGB"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Beschluss vom 17.11.2022, V ZR 25/22",
+        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2022&Gericht=bgh&Seite=11&anz=3168&nr=132360&pos=346",
+        "application": "Erheblichen Zeugenbeweis nicht wegen bereits aus anderen Umständen gewonnener Überzeugung übergehen; auf konkret behauptete Barzahlung übertragen.",
+        "limit": "Amtliche Metadaten und entscheidende Rn. 10 bis 11 im primär indizierten PDF gelesen, direkter PDF-Abruf gestört; weder Beweislastumkehr noch Erhebung unerheblicher Beweise."
+      }
+    ],
+    "remaining_limits": [
+      "Amtliche Metadaten und entscheidende Rn. 10 bis 11 im primär indizierten PDF gelesen, direkter PDF-Abruf gestört; weder Beweislastumkehr noch Erhebung unerheblicher Beweise.",
+      "Keine richterliche Beweisaufnahme und kein Live-Modelltest; materielle Anspruchsvarianten bedürfen der konkreten Akte.",
+      "Individuelle redaktionelle Akten- und Quellenprüfung (desk review), kein Live-Client- oder Modelltest.",
+      "Workflow-Vertiefung 2026-09-23: Paragraf 358 direkt gelesen; Paragraf 286 über amtlich indizierte Gesamtausgabe nach gestörtem Einzelabruf. Bisherige BGH-Zugriffsgrenze unverändert. Desk review; kein Live-Client-Test."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Einzelstation, Gesamtvotum oder Beweisbeschluss anbieten.",
+      "Anträge und Schriftsatzfolge still lesen, nur gewünschten Stationsumfang klären.",
+      "Bestellte Station ausformulieren, kein ungefragtes Vollurteil."
+    ],
+    "continuation": "Zahlung an Dritten -> Erheblichkeit und Empfangsbefugnis vor Beweisfrage neu prüfen.",
+    "enrichment": "Mehrere Forderungen, Hilfsaufrechnung, konkrete Wahrnehmung, Beweisprogramm und Entscheidungsreife stationsbezogen.",
+    "limits": "desk review; no live client execution"
+  }
 }

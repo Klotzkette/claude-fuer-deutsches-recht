@@ -1,6 +1,8 @@
 # 1. Einen überprüfbaren Sachverhalt zur Anzeige vorbereiten
 
-Erstelle aus den vorhandenen Nachrichten, Zahlungsbelegen, Fotos und Aufzeichnungen die beauftragte Strafanzeige oder Beratung. Ziel ist eine nüchterne Mitteilung an Polizei oder Staatsanwaltschaft, keine Anklageschrift, Verteidigungsstrategie oder Strafzumessungsempfehlung.
+Rekonstruiere aus Nachrichten, Zahlungen, Fotos und Aufzeichnungen, was geschehen ist, wer davon aus eigener Wahrnehmung berichten kann und welche Tatsachen noch unklar sind. Formuliere daraus die beauftragte Strafanzeige oder die begründete Beratung zur Anzeige. Der Text soll Polizei oder Staatsanwaltschaft eine überprüfbare Sachverhaltsmitteilung geben, keine Verurteilung vorwegnehmen.
+
+Ohne Eingabe biete sachliche Anzeige, Strafantrag mit Fristeinordnung oder Ergänzung zu einem bestehenden Aktenzeichen an. Bei Dateien ohne Aufgabe lies zuerst still und kläre nur das passende Arbeitsziel; keine ungefragte Zusammenfassung privater Kommunikation. Einen klaren Auftrag unmittelbar ausführen und nur entscheidende fehlende Angaben erfragen. Folgeantworten in Chronologie, Verlustdarstellung und Antrag einarbeiten, ohne die Aufnahme zu wiederholen. Keine weiteren Plugin-Dateien, Ermittlungs- oder Exportwerkzeuge voraussetzen.
 
 ## 1.1. Bekannte Tatsachen und Sicherheit
 
@@ -12,7 +14,7 @@ Bei akuter Gefahr unmittelbare Hilfe durch zuständige Stellen und gegebenenfall
 
 ## 1.2. Anzeige und Strafantrag
 
-Trenne Sachverhaltsmitteilung nach Paragraf 158 StPO und erforderlichen Strafantrag nach Paragrafen 77 ff. StGB. Prüfe Berechtigung, eindeutigen Verfolgungswillen, Form, Empfangsstelle und Frist. Ein Onlineformular erfüllt nicht automatisch sämtliche Anforderungen.
+Trenne Sachverhaltsmitteilung nach Paragraf 158 Absatz 1 StPO und erforderlichen Strafantrag nach Paragrafen 77 und folgende StGB. Für den Strafantrag müssen nach Paragraf 158 Absatz 2 StPO Identität und Verfolgungswille sichergestellt sein; prüfe Berechtigung, Empfangsstelle, konkreten Übermittlungsweg und Frist. Weder jede Onlineeingabe ungeprüft genügen lassen noch unabhängig von der geltenden Fassung stets einen unterschriebenen Papierbrief verlangen.
 
 Bei Paragraf 77b StGB Kenntnis von Tat und Täterperson sowie den maßgeblichen Tagesablauf bestimmen, nicht allein den Tattag verwenden. Mehrere Berechtigte und Beteiligte gesondert betrachten, Wochenenden und Feiertage beachten. Fehlt der Kenntniszeitpunkt, frage nach dem konkreten Vorgang und bereite die bereits mögliche Erklärung weiter vor.
 
@@ -24,7 +26,7 @@ Ordne Originalfundort, Datum, Kontext, Wahrnehmungsperson und Bedeutung dem jewe
 
 Fehlt eine Nachricht davor oder danach, frage gezielt nach dem Zusammenhang. Nach Eingang Chronologie und Tatsachendarstellung korrigieren, nicht bloß eine weitere Anlage anhängen. Benenne gefährdete Daten und mögliche zulässige Sicherungsansätze gegenüber der Behörde; keine heimlichen Aufnahmen, fremden Kontozugriffe oder unzulässige Recherche anleiten.
 
-Tatnachweis ist Aufgabe der Strafverfolgungsorgane. Die Anzeigende muss keinen vollständigen zivilprozessualen Beweis führen; ZPO-Beweisgrundsätze nicht als Voraussetzung der Anzeige übertragen. Verwertungsfragen gesondert prüfen und keine sichere Verwertbarkeit aus bloßer Dateiverfügbarkeit ableiten.
+Tatnachweis ist Aufgabe der Strafverfolgungsorgane. Der Anzeigeerstatter muss keinen vollständigen zivilprozessualen Beweis führen; ZPO-Beweisgrundsätze nicht als Anzeigevoraussetzung übertragen. Verwertungsfragen gesondert prüfen und keine sichere Verwertbarkeit aus bloßer Dateiverfügbarkeit ableiten.
 
 ## 1.4. Vermögens- und Datendelikte
 
@@ -70,17 +72,37 @@ Vorschaltbeschwerde, gerichtlicher Antrag, jeweilige Frist, Form und Vertretung 
 
 StPO Paragraf 160 betrifft die objektive Ermittlung, Paragraf 170 den behördlichen Abschluss und Paragrafen 261 und 267 die gerichtliche Würdigung und Urteilsbegründung. StGB Paragraf 46 ist keine Pflichtstation einer Anzeigevorbereitung. Diese unterschiedlichen Rollen nicht in den Entwurf der anzeigenden Person übernehmen.
 
-Folgende vorhandene Entscheidungsansätze vor Zitierung amtlich verifizieren; sie sind keine allgemeinen Anzeigevoraussetzungen:
-
-- BGH, Urteil vom 30.07.1999, 1 StR 618/98: methodische Anforderungen an aussagepsychologische Gutachten.
-- BGH, Urteil vom 29.07.1998, 1 StR 94/98: teilweise widerlegte Aussage des einzigen Belastungszeugen.
-- BGH, Urteil vom 26.04.2017, 2 StR 247/16: legendierte Kontrolle und präventiv gewonnene Erkenntnisse.
-- BVerfG, Urteil vom 19.03.2013, 2 BvR 2628/10: Transparenz und Dokumentation einer Verständigung.
-- BGH, Beschluss vom 27.11.2018, 5 StR 566/18: Missachtung des Richtervorbehalts bei Durchsuchung und Verwertung.
+BVerfG, Beschluss vom 02.07.2001 - 1 BvR 2049/00, Randnummern 10 bis 17 ([amtlicher Volltext](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2001/07/rk20010702_1bvr204900.html)): Wird aus einer Einstellung auf eine pflichtwidrige Beschuldigung geschlossen, zwischen fehlendem Tatnachweis und unwahrer Angabe unterscheiden. Der Beschluss schützt im entschiedenen Kündigungsfall die Mitwirkung eines Arbeitnehmers als Zeuge; gutgläubige Mitteilungen werden nicht allein durch Erfolglosigkeit rechtswidrig. Bei der Anzeige deshalb Erkenntnisquelle, Unsicherheit und bekannte Gegenbelege offenlegen. Keine allgemeine Haftungsfreistellung ableiten: wissentlich oder leichtfertig falsche Angaben, sachfremde Motive und öffentliche Weiterverbreitung sind eigenständig zu beurteilen.
 
 Risiken nach Paragraf 164 StGB prüfen. Nicht beweisbarer Verdacht ist nicht automatisch wissentlich falsche Verdächtigung; umgekehrt bekannte Gegenbelege nicht unterdrücken. Anzeige nicht als Druckmittel für eine sachfremde Zahlung formulieren.
 
-## 1.10. Die bestellte Fassung abschließen
+## 1.10. Dialogwege zum vollständigen Anzeigetext
+
+### 1.10.1. Rückzahlung und anfänglicher Verdacht
+
+Bei einer Zahlung für nicht gelieferte Ware frage nach der konkreten Erklärung vor der Zahlung, soweit diese fehlt. Die Antwort „Er hat mich betrogen“ ersetzt weder Wortlaut noch Wahrnehmungsquelle. Erfasse zugesagte Ware, Zahlung, Liefertermin, spätere Reaktionen und bekannte Erklärungen der anderen Person. Entlastende Nachrichten, etwa ein belegter Versand oder eine nachträgliche Erkrankung, nicht weglassen. Sie sind nach Zeitpunkt und Aussagekraft einzuordnen, nicht automatisch als vollständiger Gegenbeweis zu behandeln.
+
+Werden 200 Euro von ursprünglich 800 Euro zurückgezahlt, aktualisiere Zahlungsübersicht und gegenwärtig offenen Verlust auf 600 Euro, soweit keine weiteren Positionen vorliegen. Unterscheide den behaupteten Schaden im Tatzeitpunkt und spätere Wiedergutmachung; die Rückzahlung beseitigt einen früheren Tatverdacht nicht automatisch. Ist nur ein Überweisungsbild vorhanden, bezeichne Zahlung als angekündigt oder noch nicht bestätigten Eingang. Der fertige Entwurf schildert die neue Tatsache im zeitlichen Zusammenhang und korrigiert jede alte Summenangabe. Keine zivilrechtlichen Nebenforderungen ungeprüft als strafrechtlichen Schaden addieren.
+
+### 1.10.2. Täterkenntnis und eindeutiger Verfolgungswille
+
+Bei zunächst anonymem Konto trenne Empfang der Nachricht, erste Vermutung zur Person und spätere konkrete Kenntnis. Frage nach dem Ereignis, das die Zuordnung ermöglichte, etwa einem selbst wahrgenommenen Eingeständnis. Die Aussage „Mein Nachbar ist das bestimmt“ ist nicht mit einer belegten Kontozuordnung gleichzusetzen. Wurde das Eingeständnis nur dem Anzeigeerstatter gegenüber erklärt, benenne ihn als Wahrnehmungsperson; keine zusätzlichen Zeugen erfinden.
+
+Nach Mitteilung des Kenntniszeitpunkts aktualisiere die Fristeinordnung nach Paragraf 77b StGB und den ausdrücklich gewünschten Strafantrag. Die rechtliche Einordnung einzelner Worte kann offenbleiben, ohne eine fristkritische Erklärung unnötig hinauszuschieben. Verfolgungswille und Identität müssen für die gewählte Übermittlung gesichert sein; [Paragraf 158 StPO](https://www.gesetze-im-internet.de/stpo/__158.html) unterscheidet dies von einer bloßen Sachverhaltsmitteilung. Keine pauschale Behauptung, ein beliebiges Kontaktformular wahre jeden Antrag. Den Text liefern, aber tatsächlichen Eingang und Fristwahrung nicht ohne Nachweis bescheinigen.
+
+### 1.10.3. Kontext verändert den Vorwurf
+
+Wird eine vollständige Nachrichtenfolge nachgereicht, lies sie im Zusammenhang. Ein zuvor isoliert bedrohlich wirkender Satz kann anders einzuordnen sein; eine spätere konkrete Ankündigung kann umgekehrt den Schutzbedarf erhöhen. Ändere Wortlaut, zeitliche Reihenfolge und Bewertung an den betroffenen Stellen. Behalte die genaue Herkunft bei: Originalnachricht, Screenshot, Erinnerung oder Mitteilung Dritter. Aus einem Screenshot ohne Absendernachweis keine sichere Täterfeststellung machen.
+
+Bei wiederholten Kontakten trenne einzelne Ereignisse und deren belegte Auswirkungen auf den Alltag. Eine zusammenfassende Bezeichnung als Nachstellung ersetzt diese Tatsachen nicht. Lass die Person nicht gefährliche Kontakte wiederholen, um zusätzliche Beweise zu gewinnen. Bei aktueller Gefahr sichere Kommunikationswege und unmittelbare Hilfe durch zuständige Stellen priorisieren. Der beauftragte Text kann auf konkret gefährdete Daten hinweisen, ohne eine Durchsuchung, Verhaftung oder bestimmte technische Maßnahme als zwingende Folge zu behaupten.
+
+### 1.10.4. Ergänzung statt widersprüchlicher Zweitanzeige
+
+Besteht bereits ein Aktenzeichen, formuliere die bestellte Ergänzung mit Bezug auf die erste Anzeige und dem neu hinzugekommenen Sachverhalt. Eine berichtigte Summe oder zurückgenommene Personenvermutung muss ausdrücklich die frühere Angabe korrigieren. Verberge den Widerspruch nicht durch einen vollständig neuen Text, der die ursprüngliche Aussage scheinbar bestätigt. Liegt die erste Anzeige nicht vor, frage nur nach der betroffenen Passage, sofern sie für eine verlässliche Berichtigung erforderlich ist.
+
+Bei einem Einstellungsbescheid unterscheide fehlenden Tatnachweis von der Aussage, die anzeigende Person habe wissentlich gelogen. Der begrenzt verwendete BVerfG-Beschluss in Abschnitt 1.9 trägt gerade diese Unterscheidung, keine allgemeine Immunität. Eine Beschwerde benötigt den tatsächlichen Einstellungsgrund und das passende Verfahrensstadium; kein automatischer gerichtlicher Antrag. Vor Abschluss Empfänger, Aktenzeichen, Quellen jeder wesentlichen Behauptung, Anlagen und ausdrücklichen Antragswillen abgleichen. Endpunkt ist der vollständige bestellte Entwurf mit einer knappen getrennten Notiz nur zu wirklich offenen Freigabefragen, nicht eine universelle Checkliste.
+
+## 1.11. Die bestellte Fassung abschließen
 
 Liefere Adressat, anzeigende Person, bekannte Beteiligte, chronologischen Sachverhalt, Belege und gegebenenfalls ausdrücklichen Strafantrag in vollständigen Sätzen. Wer was wahrgenommen hat und wo Originale liegen, muss nachvollziehbar sein. Unbekannte Identität und offene technische oder medizinische Fragen sichtbar lassen, keine Durchsuchung oder Verhaftung ohne eigene Voraussetzungenprüfung fordern.
 

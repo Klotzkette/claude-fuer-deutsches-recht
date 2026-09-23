@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "phishing-vorfall-pruefer",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/bgb/__675w.html",
@@ -12,25 +12,85 @@
       "url": "https://www.gesetze-im-internet.de/bgb/__675u.html",
       "checked_on": "2026-09-14",
       "supports": "Erstattung und Wiederherstellung des Kontostands bei nicht autorisierten Zahlungen."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2014/XI_ZR__91-14.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 26. Januar 2016, XI ZR 91/14, Randnummern 18 bis 26 und 68 bis 75. Anwendung: Authentifizierungsprotokoll nicht mit Autorisierung gleichsetzen; Anscheinsbeweis verlangt konkret festgestellte Sicherheit und fehlerfreie Anwendung. Grenze: Historischer smsTAN-Fall; TAN-Nutzung allein beweist keine grobe Fahrlässigkeit."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2024/XI_ZR_107-24.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 22. Juli 2025, XI ZR 107/24, Randnummern 25 bis 39. Anwendung: Starke Kundenauthentifizierung des Zahlungsvorgangs vom Login trennen; Bankmitverschulden eigenständig prüfen. Grenze: Konkreter Telefon-/chipTAN-Sachverhalt, keine pauschale grobe Fahrlässigkeit aller Phishingopfer."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__675u.html",
+      "checked_on": "2026-09-22",
+      "supports": "Erstattung nicht autorisierter Zahlungen und eng begrenzte Verdachtsausnahme."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__675v.html",
+      "checked_on": "2026-09-22",
+      "supports": "Haftungsstufen und Bedeutung starker Kundenauthentifizierung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__675w.html",
+      "checked_on": "2026-09-22",
+      "supports": "Authentifizierungsnachweis allein nicht zwingend ausreichend; unterstützende Beweismittel."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__676b.html",
+      "checked_on": "2026-09-22",
+      "supports": "Anzeigeobliegenheit und 13-Monats-Grenze mit Informationsvoraussetzung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__675u.html",
+      "checked_on": "2026-09-23",
+      "supports": "Erneut gelesener Normtext: Kontowiederherstellung und Erstattungszeitpunkt; Grundlage für die getrennte Prüfung belastungsbedingter Kontofolgen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__675v.html",
+      "checked_on": "2026-09-23",
+      "supports": "Erneut gelesen: Absatz 5 knüpft an die Verwendung nach Anzeige an; Buchungstag und Verwendungszeitpunkt im Arbeitsablauf trennen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__675w.html",
+      "checked_on": "2026-09-23",
+      "supports": "Erneut gelesen: Nachweis der Authentifizierung und unterstützende Beweismittel, kein automatischer Autorisierungs- oder Verschuldensnachweis."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__676b.html",
+      "checked_on": "2026-09-23",
+      "supports": "Erneut gelesen: Anzeige und Ausschlussfrist zahlungsbezogen mit der maßgeblichen Unterrichtung prüfen."
+    },
+    {
+      "url": "https://curia.europa.eu/site/upload/docs/application/pdf/2026-02/xi_zr_107-24.pdf",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlich bereitgestellter BGH-Volltext XI ZR 107/24, Randnummern 25 bis 39 erneut gelesen: konkrete Zahlung für starke Authentifizierung, eigenständige Gesamtwürdigung und Bankmitverschulden; keine pauschale Haftung sämtlicher Phishingopfer."
     }
   ],
   "mini_review": {
-    "verdict": "retained",
-    "reason": "Mini vollständig gelesen. Einzelzahlung, Geräteaktivierung, Rückholung und Gegenanspruch werden getrennt; neue Protokolle führen zur aktualisierten Begründung und zum fertigen Schreiben. Sicherung läuft parallel. Keine neue Rechtsverifikation oder Live-Modellprüfung.",
+    "verdict": "revised",
+    "reason": "Am 2026-09-23 einzeln gelesen und überarbeitet: drei Einstiegsarten, konkrete Nachfrage zur Zahlungsanzeige und fortgeschriebene Restforderung im benannten Reklamationstext; bestehende BGH-Abgrenzungen erhalten. Desk Review ohne Live-Ausführung.",
     "changes": [
-      "Konkrete Protokollnachforderung und Bereinigung des offenen Erstattungsbetrags beibehalten."
+      "XI ZR 91/14 und XI ZR 107/24 mit technischen Voraussetzungen und Fallgrenzen eingearbeitet.",
+      "Erstattung, Anzeigefrist, SCA, Bankmitverschulden und Beispielberechnung konkretisiert.",
+      "Bankbrief und Beleganforderung bleiben vollständig, Klage nur auf Auftrag.",
+      "2026-09-23: Leere Eingabe, Dateien ohne Auftrag und klare Aufgabe ausdrücklich getrennt; Anzeigeart und weitere Gutschrift als konkrete Fortsetzungsfälle."
     ],
-    "sha256": "b6808a144c896c6ee2934ed696e97bebe4ed4fe5c3af3eeb984348eda42afae9"
+    "sha256": "b09646b798e4c69321d104ed8165af34f8b29bfc25e166991ea45ab0f301d91b"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt vollständig gelesen. Ein früher Sicherungsstopp, der Abschluss mit nächstem Schritt und ein kategorischer Erstattungssatz widersprachen dem belegbezogenen Ablauf. Diese Stellen gezielt korrigiert, vorhandene Normen und Entscheidungsanker nicht neu verifiziert.",
+    "reason": "Am 2026-09-23 vollständig gelesen und individuell ergänzt: widersprechende Freigabedaten, Fernzugriff, Meldungszeitfolge, Kontofolgen und tragende Bankablehnungsgründe führen zu konkreten Dokumentänderungen. Spezialgebiete und frühere Rechtsabgrenzungen erhalten; keine Live-Ausführung.",
     "changes": [
-      "Sicherungsempfehlung und Anspruchsvorbereitung parallel statt Abbruch; fehlende Anzeigenachweise konkret nachfordern.",
-      "Bestellte Reklamation mit offenem Betrag statt bloßer Matrix oder nächstem Schritt.",
-      "Fehlende Protokolle begründen keine erfundene fehlende Zustimmung; Beschwerdeauftrag von gerichtlicher Anspruchsentscheidung getrennt."
+      "XI ZR 91/14 und XI ZR 107/24 mit technischen Voraussetzungen und Fallgrenzen eingearbeitet.",
+      "Erstattung, Anzeigefrist, SCA, Bankmitverschulden und Beispielberechnung konkretisiert.",
+      "Bankbrief und Beleganforderung bleiben vollständig, Klage nur auf Auftrag.",
+      "2026-09-23: Sitzungszuordnung, abgebrochene Versuche und nachträgliche Umsatzanzeigen von Freigabedialogen getrennt; Meldung und Instrumentverwendung zeitlich zugeordnet.",
+      "2026-09-23: Vorläufige Gutschrift, belastungsbedingte Kontofolgen, zielgerichtete Ablehnungserwiderung und vollständige Fortsetzung in bankreklamation.md beziehungsweise Nutzerpfad ergänzt."
     ],
-    "sha256": "bc6b1115b62f4ad52a624c3f8ac1c5d2e92161dca401eac58721678a41c4dd51"
+    "sha256": "fdfd6ab8c7521fee151badd1a9ff82b4dcfa757685beeac78d170a6de9ce4413"
   },
   "selection": {
     "positive": [
@@ -75,5 +135,51 @@
       ],
       "target_skill": "phishing-tan"
     }
-  ]
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "method": "desk_review",
+    "files": [
+      "phishing-vorfall-pruefer/README.md",
+      "phishing-vorfall-pruefer/phishing-vorfall-pruefer-werkstatt.md",
+      "phishing-vorfall-pruefer/phishing-vorfall-pruefer-schnellstart.md",
+      "quality/evals/phishing-vorfall-pruefer.json"
+    ],
+    "opening_change": "Konkrete Zahlung, Zustimmung, TAN-Dialog und Erstattungsanspruch rekonstruieren.",
+    "norms": [
+      "Paragrafen 675j, 675u, 675v, 675w und 676b BGB",
+      "Paragraf 254 BGB"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 26. Januar 2016, XI ZR 91/14, Randnummern 18 bis 26 und 68 bis 75",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2014/XI_ZR__91-14.pdf?__blob=publicationFile&v=1",
+        "application": "Authentifizierungsprotokoll nicht mit Autorisierung gleichsetzen; Anscheinsbeweis verlangt konkret festgestellte Sicherheit und fehlerfreie Anwendung.",
+        "limit": "Historischer smsTAN-Fall; TAN-Nutzung allein beweist keine grobe Fahrlässigkeit."
+      },
+      {
+        "citation": "BGH, Urteil vom 22. Juli 2025, XI ZR 107/24, Randnummern 25 bis 39",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2024/XI_ZR_107-24.pdf?__blob=publicationFile&v=1",
+        "application": "Starke Kundenauthentifizierung des Zahlungsvorgangs vom Login trennen; Bankmitverschulden eigenständig prüfen.",
+        "limit": "Konkreter Telefon-/chipTAN-Sachverhalt, keine pauschale grobe Fahrlässigkeit aller Phishingopfer."
+      }
+    ],
+    "remaining_limits": [
+      "Kein allgemeiner Fahrlässigkeitsmaßstab für jede TAN-Variante; konkrete Protokolle, aktuelle Authentifizierungstechnik und Kundenverhalten bleiben beweisbedürftig.",
+      "Desk-/Quellenreview, kein Live-Client- oder Modelltest. Bestehende Auswahl- und Ergebnisfälle unverändert erhalten.",
+      "2026-09-23: Frühere Quellenprüfung vom 2026-09-22 bleibt historischer Record. Beide BGH-Direktlinks erneut versucht, HTTP 403; XI ZR 107/24 über das amtliche Curia-PDF erneut gelesen, XI ZR 91/14 heute nicht erneut im Volltext verifiziert. BGB Paragrafen 675u, 675v, 675w und 676b erneut gelesen; keine neue Vollprüfung der Nebenmaterien."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leere Eingabe: laufenden Vorfall sichern, Erstattung verlangen oder Bankablehnung prüfen.",
+      "Dateien ohne Aufgabe: Bankunterlagen still lesen und nur Reklamation, Haftungsbewertung oder Bankantwort als Ziel klären.",
+      "Klarer Auftrag: direkt den zahlungsbezogenen Entwurf bearbeiten; nur entscheidende Anzeige-, Betrags- oder Fristlücken erfragen."
+    ],
+    "continuation": "Neue endgültige Gutschrift 500 Euro: Forderung 4000 auf 3500 Euro, Rechenbegründung und Zahlungsbegehren im Nutzerpfad beziehungsweise bankreklamation.md ändern; neues Freigabeprotokoll verändert dort Tatsachenvortrag und Beweisbewertung.",
+    "enrichment": "Sitzungs- und Vorgangszuordnung, widersprechende Erinnerungen, Fernzugriff, Anzeige versus Verwendung, vorläufige Gutschriften und Kontofolgen; Bankablehnung nach ihrem konkreten Grund beantworten und das bestellte Schreiben abschließen.",
+    "limits": "desk review; no live client execution"
+  }
 }

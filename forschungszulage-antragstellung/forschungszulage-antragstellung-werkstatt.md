@@ -1,6 +1,6 @@
 # 1. Forschungszulage beantragen und begründen
 
-Bereite die Beschreibung meines FuE-Vorhabens und die zugehörige Aufwandsberechnung vor. Erstelle je nach Auftrag einen BSFZ-Portaltext, den Finanzamtsantrag, eine Beratung oder die Antwort auf eine konkrete Nachforderung.
+Arbeite aus Projekt- und Versuchsunterlagen heraus, welche technische Frage zu Beginn ungelöst war, mit welchen Arbeiten sie untersucht wird und welche Aufwendungen darauf entfallen. Formuliere den beauftragten BSFZ-Antrag oder die Nachforderungsantwort und berechne, soweit beauftragt, die nach Wirtschaftsjahr belegten Aufwendungen für das Finanzamt. Eine neue Produktbezeichnung oder ein Patent ersetzt weder das FuE-Vorhaben noch dessen Arbeitsplan.
 
 ## 1.1. Auftrag und vorhandene Unterlagen
 
@@ -8,11 +8,41 @@ Lies Projektplan, technische Berichte, Versuchsunterlagen, Zeitaufzeichnungen, L
 
 Bestimme, ob die FuE-Eigenschaft, die Bescheinigung, die Bemessungsgrundlage, die Festsetzung oder eine Ablehnung zu bearbeiten ist. Die fachliche Prüfung durch die BSFZ und die Aufwandsprüfung beim Finanzamt sind verschiedene Aufgaben. Eine vorhandene Bescheinigung ersetzt weder Stundenbelege noch Kosten- und Beihilfenabgleich.
 
+### 1.1.1. Einstieg ohne Antragsvortrag
+
+Ohne Eingabe fragen: „Geht es um die technische BSFZ-Beschreibung, eine Nachforderung oder die Aufwandsberechnung für das Finanzamt?“ Bei Dateien ohne Auftrag relevante Berichte und Bescheide still lesen und nur tatsächlich passende Ziele anbieten. Keine allgemeine Förderübersicht oder ungefragte Projektzusammenfassung. Ein klarer Auftrag wird unmittelbar bearbeitet; entscheidende Lücken zusammenhängend erfragen, vollständige Angaben nicht in künstliche Dialogrunden zerlegen. Keine Verfügbarkeit des Portals, weiterer Skills oder lokaler Projektordner voraussetzen.
+
+### 1.1.2. Aus einer Produktidee einen belegten Projekttext entwickeln
+
+Bei „Wir entwickeln eine neue Software“ nicht sofort Förderfähigkeit behaupten oder Marketingbegriffe in den Antrag übertragen. Aus den Unterlagen herausarbeiten, welches technische Verhalten mit bekannten Verfahren nicht zuverlässig erreichbar war. Fehlt genau dies, fragen: „Welches technische Problem ließ sich zu Projektbeginn mit den verfügbaren Ansätzen nicht lösen, und welcher Versuch sollte das klären?“ Eine bloße Zeit- oder Kostenunsicherheit von technischer Ungewissheit unterscheiden. Antwort und zeitgenössische Unterlagen müssen dieselbe Ausgangslage beschreiben.
+
+Wenn die Antwort nur Kundenwünsche nennt, den Antrag nicht durch erfundene Algorithmen oder Experimente aufwerten. Stattdessen die belegten Entwicklungsarbeiten von Konfiguration, Integration und Betrieb abgrenzen. Wenn Versuchsreihen, verworfene Ansätze und Messgrößen vorliegen, daraus zusammenhängende Absätze für Ziel, Methode und Unsicherheit erstellen. Ein erfolgreiches Ergebnis beseitigt die anfängliche Ungewissheit nicht rückwirkend; ein Fehlschlag ersetzt nicht den Nachweis planmäßiger Forschung. Den bestehenden VG-Anker anhand dieser konkreten Lücke anwenden, nicht als pauschales Förderverbot.
+
+### 1.1.3. Arbeitspakete mit Zeit und Ressourcen verbinden
+
+Für jedes beantragte Arbeitspaket konkrete Tätigkeit, Zeitraum, verantwortliche Beteiligte und überprüfbares Zwischenergebnis aus den Unterlagen verbinden. „Entwicklung Januar bis Dezember“ trägt keine Aufteilung auf tatsächlich verschiedene Untersuchungsarbeiten. Bei Folgeantwort „Tests liefen erst ab August“ die betroffenen Projektabsätze und Stundenzuordnungen ändern, nicht nur das Enddatum austauschen. Überschneidungen können sachlich richtig sein; sie sind nicht automatisch doppelte Kosten.
+
+Eine vorhandene Planung nicht rückwirkend als zeitgenössisch ausgeben. Für eine nachträgliche Erläuterung ausdrücklich zwischen damals dokumentiertem Plan, tatsächlicher Durchführung und heutiger Rekonstruktion unterscheiden. Bei Auftragsforschung die beim Antragsteller liegende Projektbeschreibung mit dem Leistungsumfang des Forschungsauftrags abgleichen. Eine Rechnung „Beratung“ nicht durch redaktionelle Umbenennung zu Forschung machen. Fehlende Leistungsbeschreibung gezielt anfordern und bis dahin nur den belegbaren Anteil behandeln.
+
+### 1.1.4. Stundenabweichung in eine nachvollziehbare Rechnung überführen
+
+Bei abweichenden Stundensummen den Bezugszeitraum und die Quelle jeder Größe bestimmen. Kalenderstunden, vertragliche Arbeitszeit, erfasste Tätigkeiten und verwendete Gesamtstundenbasis nicht ungeprüft gleichsetzen. Dieselbe Stunde nicht auf zwei Projekte voll verteilen. Die Antwort „200 Stunden waren Vertrieb“ führt zur Herausnahme aus dem FuE-Zähler und zur konsistenten Neuberechnung; sie erlaubt nicht automatisch eine Änderung sämtlicher Nennergrößen. Die verwendete Methode und offene Nachweislücken nennen.
+
+Für mehrere Wirtschaftsjahre einzelne Rechnungen mit jeweils maßgeblicher Rechtsfassung erstellen. Projektbeginn, Auftragsdatum, Aufwandsentstehung und Antragstellung als getrennte Tatsachen führen. Das verhindert, dass eine spätere Antragstellung eine günstigere Pauschale in ein Altvorhaben verschiebt. Unklare Unternehmensverbindungen oder andere Förderbescheide nur insoweit nachfordern, wie sie eine konkrete Begrenzung verändern. Nach Antwort Jahresrechnung und gegebenenfalls Antragstext gemeinsam aktualisieren.
+
+### 1.1.5. Nachforderung oder Ablehnung gezielt beantworten
+
+Bei BSFZ-Nachforderung jede beanstandete technische Aussage mit der passenden Fundstelle beantworten, ohne den gesamten Antrag neu zu erfinden. Neue Erkenntnisse dürfen erläutert werden; den ursprünglich behaupteten Projektgegenstand nicht stillschweigend austauschen. Bei Kostenkürzung durch das Finanzamt dagegen den streitigen Aufwand, die zugrunde gelegte Normfassung und eine konkrete Gegenrechnung herausarbeiten. Eine BSFZ-Bescheinigung ist hier kein Ersatz für die streitigen Lohnbelege.
+
+Bekanntgabe, Rechtsbehelfsbelehrung und gesetzliche Frist mit Kalenderdatum ermitteln; eine behördliche Nachforderungsfrist nicht mit der Rechtsbehelfsfrist verwechseln. Ist die Bekanntgabe streitig, die offene Tatsache und ihre Fristfolgen benennen. Ergebnis ist die vollständig formulierte Antwort beziehungsweise der beauftragte Rechtsbehelf mit Antrag, Tatsachen und Belegen. Vor Einreichung müssen entscheidende technische Behauptungen und Kostenansätze bestätigt sein. Kein Portalzugriff, Absenden oder Erfolgsversprechen ohne tatsächliche Grundlage und ausdrückliche Freigabe.
+
 ## 1.2. Vorhaben fachlich abgrenzen
 
 Beschreibe technisches oder wissenschaftliches Ziel, Stand zu Projektbeginn, konkrete Unsicherheit und systematisches Vorgehen. Ordne Arbeitspakete, Methoden, Versuche, Ergebnisse und Scheiternsrisiken zu. Unterscheide Grundlagenforschung, industrielle Forschung und experimentelle Entwicklung nach Paragraf 2 FZulG von Routineanpassung, Markteinführung und Serienbetrieb.
 
 Prüfe Grenzfälle anhand der tatsächlich geleisteten Entwicklung, nicht anhand von Schlagworten oder allein des Produkterfolgs. Ein fehlgeschlagener Versuch kann aussagekräftig sein, eine innovative Produktbezeichnung genügt nicht. Bei mehreren Vorhaben technische Zusammenhänge und Abgrenzung prüfen, statt sie allein zur Erhöhung einer Fördersumme zu bündeln.
+
+VG Berlin, Urteil vom 14.02.2025, 8 K 7/23, Randnummern 33 bis 42 ([amtliche Entscheidung](https://gesetze.berlin.de/bsbe/document/NJRE001601780)): Werden lediglich Patente, zurückliegende Erfindungen oder eine Projektlaufzeit vorgelegt, verlange nach Paragraf 2 Absatz 3 FZulG ein konkretes Erkenntnisziel und einen Zeit-, Arbeits- und Ressourcenplan mit überprüfbaren Zwischenergebnissen. Die Klage scheiterte an fehlender Zielgerichtetheit und Planung; das Gericht verlangt gerade kein bestimmtes Gantt-Format. Artikel 2 Nummern 84 bis 86 der Verordnung (EU) Nr. 651/2014 bestimmen die Forschungsarten; Frascati-Kriterien dienen ergänzender Auslegung, nicht einer starren Punktwertung. Die Entscheidung betrifft die Bescheinigung, nicht die Anerkennung einzelner Lohnstunden oder die Zulagenhöhe. Vorliegende Planung auf die konkret offene Voraussetzung ergänzen, nicht pauschal neu erstellen lassen.
 
 Fehlt ein Beleg zur Unsicherheit am Projektbeginn, frage nach damaligen Entwicklungsprotokollen, Versuchsplänen oder verworfenen Ansätzen. Eine nachträgliche Erklärung bleibt erkennbar nachträglich; fehlende Experimente oder damalige Erkenntnisse nicht erfinden. Nach Eingang die Beschreibung und betroffene Arbeitspakete neu bewerten.
 

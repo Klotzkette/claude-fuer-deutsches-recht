@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "krisenfrueherkennung-starug",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/starug/__1.html",
@@ -22,16 +22,39 @@
       "url": "https://www.gesetze-im-internet.de/inso/__19.html",
       "checked_on": "2026-09-18",
       "supports": "Eine tragfähig positive zwölfmonatige Fortführungsprognose kann Überschuldung ausschließen; fehlende Vermögensbewertung begründet dann kein pauschales Entscheidungshindernis."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2020/II_ZR__84-20.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 13.07.2021, II ZR 84/20, Rn. 65–87: Bei weicher Patronatserklärung oder erwarteter Gesellschafterfinanzierung Zahlungsfähigkeit und Zahlungsbereitschaft anhand konkreter Umstände prognostizieren; in der Krise genügt bisherige Unterstützung regelmäßig nicht. Prognose laufend überwachen. Grenze: Nicht jeder künftige Zufluss braucht bereits einen Rechtsanspruch; auch keine pauschale Anerkennung weicher Patronate. Handelsbilanzielle Fortführung und insolvenzrechtliche Prognose bleiben verschieden."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/starug/__1.html",
+      "checked_on": "2026-09-22",
+      "supports": "Fortlaufende Überwachung, Gegenmaßnahmen und Organbericht; kein eigener fester 24-Monats-Horizont in dieser Norm."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/starug/__1.html",
+      "checked_on": "2026-09-23",
+      "supports": "Erneut gelesen: unternehmensbezogene Überwachung, Gegenmaßnahmen und Organbefassung; kein in dieser Norm festgelegter 24-Monats-Horizont."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__19.html",
+      "checked_on": "2026-09-23",
+      "supports": "Erneut gelesen: überwiegend wahrscheinliche Fortführung über zwölf Monate von Vermögensdeckung und regelmäßig 24-monatiger Prognose nach Paragraf 18 getrennt; Monats-18-Beispiel ändert die Zwölfmonatsprognose nicht automatisch."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Mini vollständig gelesen. Finanzierungsszenarien und Fortsetzung waren bereits konkret; der ausnahmslose Vorbehalt eines Vermögensstatus verengte die Überschuldungsprüfung trotz tragfähig positiver Fortführungsprognose.",
+    "reason": "2026-09-23: Individuell vollständig gelesen und fachbezogen erweitert. Leerer Eingang mit Engpass, Frühwarnsystem oder Plan; stille Dateisichtung und unmittelbare Auftragsarbeit ergänzt. Verspätete Einlage verändert konkreten Prognosepfad und Maßnahmenfrist. Desk-Review; kein Live-Client- oder Modelltest.",
     "changes": [
-      "Positive zwölfmonatige Fortführungsprognose und bei deren Fehlen erforderliche Vermögensdeckungsprüfung nach Paragraf 19 Absatz 2 InsO unterschieden.",
-      "Gezielte Nachforderung von Finanzierungsbedingungen, Neuberechnung und Weiterarbeit zum bestellten Dokument erhalten."
+      "II ZR 84/20 für die Belastbarkeit weicher Patronate und fortlaufende Prognosekontrolle verwendet.",
+      "Paragraf 1 StaRUG vom Prognosehorizont nach Paragraf 18 InsO und Insolvenzantragspflicht getrennt.",
+      "Leerer Eingang mit Engpass, Frühwarnsystem oder Plan; stille Dateisichtung und unmittelbare Auftragsarbeit ergänzt. Verspätete Einlage verändert konkreten Prognosepfad und Maßnahmenfrist."
     ],
-    "sha256": "96b7f7be02968c9d2b90975db6cb1949b0e052007499d960aa9fe1092e1ce169"
+    "sha256": "424229cb70d2d60bb6bd4d7c3f383bf38a5549bd017371a39e1529876bacc747",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
   },
   "selection": {
     "positive": [
@@ -79,13 +102,53 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt vollständig gelesen. Pflichtmatrizen und doppelte Praxisrouten widersprachen dem Dokumentauftrag; positive Fortführungsprognose wurde fälschlich nur als Erlaubnis anderer Bilanzwerte beschrieben und unauffällige Kennzahlen als Entwarnung dargestellt.",
+    "reason": "2026-09-23: Individuell vollständig gelesen und fachbezogen erweitert. Finanzierungszeitpunkt, rollierende Folgeperioden, geschäftsmodellbezogene Frühwarnsignale, integrierte Überleitung und Auswirkungen geänderter Gläubigerrechte auf Planregeln vertieft. Desk-Review; kein Live-Client- oder Modelltest.",
     "changes": [
-      "Status, zwölfmonatige Fortführungsprognose und regelmäßig 24-monatige Prognose getrennt; Finanzierungsbelege führen zur Neuberechnung und angepasstem Organbericht.",
-      "Pauschale Stillstandslogik und obligatorische Zusatzprodukte entfernt; Eilprüfung und Entwurfsarbeit laufen im belegbaren Umfang weiter.",
-      "Kennzahlen und IDW-Krisenstadien nicht mehr als eigenständige gesetzliche Pflichtauslöser oder Freigabe behandelt.",
-      "Planvergleich, Gruppenentscheidung, Minderheitenschutz und Stabilisierung fachlich erhalten; Paragraf 50 mit seinen Antragsunterlagen konkretisiert."
+      "II ZR 84/20 für die Belastbarkeit weicher Patronate und fortlaufende Prognosekontrolle verwendet.",
+      "Paragraf 1 StaRUG vom Prognosehorizont nach Paragraf 18 InsO und Insolvenzantragspflicht getrennt.",
+      "Finanzierungszeitpunkt, rollierende Folgeperioden, geschäftsmodellbezogene Frühwarnsignale, integrierte Überleitung und Auswirkungen geänderter Gläubigerrechte auf Planregeln vertieft."
     ],
-    "sha256": "7d5d26a76d7b1d69fdef14ef11cd3abb63c49d8f88a0aab977af2ca774121f95"
+    "sha256": "d636f7928d15dbb863a0e4f3cff3572672e004fb36854fc0c01ef0fd15d3217c",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "krisenfrueherkennung-starug/krisenfrueherkennung-starug-werkstatt.md",
+      "krisenfrueherkennung-starug/krisenfrueherkennung-starug-schnellstart.md",
+      "krisenfrueherkennung-starug/README.md",
+      "quality/evals/krisenfrueherkennung-starug.json"
+    ],
+    "opening_change": "Auslaufende Finanzierung und operative Finanzierungslücken erkennen, Gegenmaßnahmen und Organbericht vorbereiten.",
+    "norms": [
+      "Paragraf 1 StaRUG",
+      "Paragrafen 15a, 17, 18 und 19 InsO"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 13.07.2021, II ZR 84/20, Rn. 65–87",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2020/II_ZR__84-20.pdf?__blob=publicationFile&v=1",
+        "application": "Bei weicher Patronatserklärung oder erwarteter Gesellschafterfinanzierung Zahlungsfähigkeit und Zahlungsbereitschaft anhand konkreter Umstände prognostizieren; in der Krise genügt bisherige Unterstützung regelmäßig nicht. Prognose laufend überwachen.",
+        "limit": "Nicht jeder künftige Zufluss braucht bereits einen Rechtsanspruch; auch keine pauschale Anerkennung weicher Patronate. Handelsbilanzielle Fortführung und insolvenzrechtliche Prognose bleiben verschieden."
+      }
+    ],
+    "remaining_limits": [
+      "Redaktionelle Akten- und Quellenprüfung, kein Live-Client- oder Modelltest.",
+      "Prognoseentscheidung zu Paragraf 19 InsO nur sachbezogen auf Finanzierungsannahmen übertragen; keine unmittelbare StaRUG-Zugangsentscheidung.",
+      "2026-09-23: Workflow-Desk-Review. Alle Profil-URLs erneut aufgerufen; Paragraf 1 StaRUG und Paragrafen 17 bis 19 InsO erneut gelesen. BGH II ZR 84/20 am bisherigen PDF-Link nicht abrufbar; Suche lieferte keinen erneut gelesenen amtlichen Volltext. Frühere Prüfung vom 22.09.2026 bleibt datierter historischer Nachweis, keine neue Verifikation der Entscheidungsgründe oder Vollprüfung des Planrechts; kein Live-Client-Test."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Finanzierungsengpass, Frühwarnsystem oder Restrukturierungsplan auswählen.",
+      "Dateien ohne Auftrag: Bankstände, Fälligkeiten und Planung still lesen; nur das gewünschte Arbeitsprodukt erfragen.",
+      "Klarer Auftrag: Status und Prognose oder bestellten Plan direkt bearbeiten; entscheidende Finanzierungsbedingungen gezielt nachfordern."
+    ],
+    "continuation": "Einlage erst in Monat 19 ändert in krisenvermerk.md Zufluss, Zwischenbedarf und Folgeperioden sowie in organbericht.md die Handlungsfrist; bestehende Nutzerpfade bleiben bestehen.",
+    "enrichment": "400000-Euro-Lücke in Monat 18 trotz späterer 450000-Euro-Einlage, Stundung und Kreditkündigung als neue Auslöser, Ergebnis-/Zahlungsüberleitung ohne Doppelansatz, konkrete Warnsignale und Plananpassung bei neu bekannter Sicherheit.",
+    "limits": "desk review; no live client execution"
   }
 }

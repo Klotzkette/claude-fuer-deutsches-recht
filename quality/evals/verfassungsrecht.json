@@ -1,44 +1,206 @@
 {
   "schema_version": 1,
   "plugin": "verfassungsrecht",
-  "reviewed_on": "2026-09-17",
+  "reviewed_on": "2026-09-23",
   "sources": [
-    {"url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/07/es20260723_2bve000423.html", "checked_on": "2026-09-15", "supports": "Amtlicher Urteilstenor, Leitsatz und einschlägige Begründungspassagen vom 23.07.2026, 2 BvE 4/23: Anträge verworfen, Antragsbefugnis nicht substantiiert dargelegt; kein subjektives Recht auf öffentliche Anhörungen. Frühere Eilanordnung ersetzt die Hauptsacheprüfung nicht."},
-    {"url": "https://www.gesetze-im-internet.de/gg/art_94.html", "checked_on": "2026-09-14", "supports": "Geöffneter Volltext: aktuelle Zuständigkeitsordnung, Verfassungsbeschwerde in Absatz 1 Nummer 4a."},
-    {"url": "https://www.gesetze-im-internet.de/bverfgg/__93.html", "checked_on": "2026-09-14", "supports": "Geöffneter Volltext: Monatsfrist für Erhebung und Begründung, entscheidungsabhängiger Beginn sowie eigene Jahresfristregel in Absatz 3."}
+    {
+      "url": "https://www.gesetze-im-internet.de/bverfgg/__13.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlicher Volltext gelesen: Verfassungsbeschwerden Nummer 8a, Organstreit Nummer 5, abstrakte Normenkontrolle Nummer 6; jeweilige Verweisung auf aktuelle Nummern des Artikels 94 Absatz 1 GG. Mini vermeidet Vermischung der Nummerierungen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bverfgg/__93.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlicher Volltext gelesen: Erhebung und Begründung binnen Monatsfrist, differenzierter Beginn, Wiedereinsetzung mit Hindernis/Wegfall und Nachholung sowie Jahresfrist nach Absatz 3."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bverfgg/__64.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlicher Volltext gelesen: zugeordnete Rechte/Organrechte, Bezeichnung der GG-Bestimmung und sechs Monate ab Bekanntwerden der beanstandeten Maßnahme oder Unterlassung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bverfgg/__32.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlichen Volltext direkt gelesen: eigenständige Voraussetzungen der einstweiligen Anordnung zur vorläufigen Regelung; Ergänzung verlangt konkreten Vollzug und aktualisierte Nachteile statt überholter Dringlichkeit."
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/07/es20260723_2bve000423.html",
+      "checked_on": "2026-09-15",
+      "supports": "Amtlicher Urteilstenor, Leitsatz und einschlägige Begründungspassagen vom 23.07.2026, 2 BvE 4/23: Anträge verworfen, Antragsbefugnis nicht substantiiert dargelegt; kein subjektives Recht auf öffentliche Anhörungen. Frühere Eilanordnung ersetzt die Hauptsacheprüfung nicht."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gg/art_94.html",
+      "checked_on": "2026-09-14",
+      "supports": "Geöffneter Volltext: aktuelle Zuständigkeitsordnung, Verfassungsbeschwerde in Absatz 1 Nummer 4a."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bverfgg/__93.html",
+      "checked_on": "2026-09-14",
+      "supports": "Geöffneter Volltext: Monatsfrist für Erhebung und Begründung, entscheidungsabhängiger Beginn sowie eigene Jahresfristregel in Absatz 3."
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/09/rk20250923_2bvr062525.html",
+      "checked_on": "2026-09-22",
+      "supports": "BVerfG, Kammerbeschluss vom 23. September 2025, 2 BvR 625/25, Rn. 18 bis 23: Pauschale Anlagenverweise und abweichender Sachverhalt ersetzen keine Auseinandersetzung mit tragenden Gründen. Grenze: ANOM-Verfahren; Darlegungsmaßstab übertragbar, keine allgemeine Billigung fremder Datenerhebung. Amtliche tragende Gründe gelesen; keine Vollverifikation der gesamten Materie."
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/07/es20260723_2bve000423.html",
+      "checked_on": "2026-09-22",
+      "supports": "BVerfG, Urteil vom 23. Juli 2026, 2 BvE 4/23, Rn. 83 bis 90, 109 bis 130: Bei verkürzter Gesetzesberatung Fassungsstände, Informationszugang und Beteiligungsnachteil darlegen; früheren Eilstopp von verworfener Hauptsache trennen. Grenze: Kein individuelles Anhörungs- oder informelles Gesprächsteilnahmerecht; weder Gesetzesnichtigkeit noch allgemeine Billigung jeder Beschleunigung. Amtliche tragende Gründe gelesen; keine Vollverifikation der gesamten Materie."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bverfgg/__93.html",
+      "checked_on": "2026-09-22",
+      "supports": "Frist und Begründung der Verfassungsbeschwerde; Anlagen ersetzen fristgemäße Darlegung nicht."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gg/art_94.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aktuelle verfassungsgerichtliche Zuständigkeiten nach Absatz 1."
+    }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Die Rügelogik und Artikel-94-Zuordnung bleiben erhalten; der umgangssprachliche Einstieg und Ein-Frage-Deckel passten nicht zur Arbeit an vollständigen Beschwerden.",
-    "changes": ["Konkreten Prüfauftrag an den Anfang gestellt", "Fehlenden Entscheidungszugang und fachgerichtlichen Vortrag mit erneuter Rügeprüfung verbunden", "Gutachtenauftrag von Beschwerdeschrift und internen Notizen getrennt"],
-    "sha256": "48d5f45feadbecf90c507b1d692ae1b15b0f2409c8909512cbb1c9cb037c651b"
+    "reason": "Am 23.09.2026 vollständig erneut gelesen: drei verfahrensbezogene Einstiegswege und konkrete Fortsetzung bei behauptetem Übergehen von Vortrag; Nummerierung von Artikel 94 GG und Paragraf 13 BVerfGG präzise getrennt. Vorhandene Verfahrensanker und Grenzen erhalten, kein Live-Modelltest.",
+    "changes": [
+      "Drei Startmodi und belegabhängige Änderung der konkreten Rüge ergänzt; Zuständigkeitsnummern im aktuellen Paragraf 13 BVerfGG verifiziert.",
+      "Spezifischen Grundrechtsfehler und passende Verfahrensfolge statt generischer Fallkarte ausarbeiten.",
+      "Mini vollständig entdoppelt und interne Überschriften durch fachliche Arbeitsschritte ersetzt.",
+      "Operative Substantiierung und GEG-Hauptsache in beiden Prompts; unverifizierte Entscheidungenlisten entfernt."
+    ],
+    "sha256": "904fb0201dd3c6bd40f93590a756d1cb8a479882e416f3f3769386eb76a28e0a"
   },
-  "workshop_review": {"verdict":"revised","reason":"Ganztextprüfung zeigte doppelte Grundrechtstabellen, unpassende Beschwerdezulässigkeit bei Gesetzgebungsgutachten und eine pauschal ausgeschlossene Landesregierung im Parteienverfahren.","changes":["Verfahrenswahl, Beschwerde, Gesetzgebung, Organstreit und Parteienverfahren getrennt gegliedert","Artikel 94 GG und begrenzte Antragsbefugnis nach Paragraf 43 Absatz 2 BVerfGG anhand amtlicher Texte abgeglichen","Fehlenden Vortrag bis zur vollständigen Rügebegründung weiterbearbeiten; Quellenlisten nicht als bereits verifiziert darstellen"],"sha256":"424021cb6bf0a4445b3b1fdab40d019aeba8885da6a9205064a25eaf2db02200"},
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Am 23.09.2026 vollständig erneut gelesen: Zustelldaten, behauptetes Übergehen, unabhängige Entscheidungsgründe, Entwurfsfassungen und geänderter Vollzug führen zu konkreten Beschwerde-, Organstreit- oder Gutachtenänderungen. Bestehende ANOM-/GEG-Verfahrensgrenzen bleiben erhalten; neue Normprüfung gezielt dokumentiert.",
+    "changes": [
+      "Fristauslöser und Wiedereinsetzung, Belegabgleich jeder tragenden Rüge und nachteiliger Kontext bis zum Beschwerdetext ausgearbeitet.",
+      "Beteiligungsnachteil im Organstreit, neue Gesetzesfassung und veränderter Vollzug im Eilantrag mit konkreten Dokumentfolgen ergänzt.",
+      "Mini vollständig entdoppelt und interne Überschriften durch fachliche Arbeitsschritte ersetzt.",
+      "Operative Substantiierung und GEG-Hauptsache in beiden Prompts; unverifizierte Entscheidungenlisten entfernt."
+    ],
+    "sha256": "4877734fdddbdf18e59354f5225255d85b274d376d54555870ae404055a5d25d"
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Beschwerdeentwurf mit Fristprüfung, Organstreitvermerk oder Verfassungsgutachten zu einem Gesetzentwurf anbieten.",
+      "Dateien ohne Auftrag: Entscheidungen, Vortrag oder Entwurfsfassungen still lesen; nur bei offenem Ziel passende Verfahrens-/Gutachtendokumente anbieten.",
+      "Klarer Auftrag: sofort an Rüge oder Gutachten arbeiten; nur entscheidenden Entscheidungszugang, tragenden Grund oder Beteiligungsnachteil klären."
+    ],
+    "continuation": "Nachgereichter Schriftsatz -> berichtigte Übergehensrüge im Beschwerdeentwurf; übermittelte Gesetzesfassung -> geänderter Beteiligungsvortrag/Kompetenzabschnitt; verschobener Vollzug -> geänderter Eilantrag.",
+    "enrichment": "Fristauslöser, Wiedereinsetzung nur nach belegtem Hindernis, Substantiierung aller tragenden Gründe, ungünstiger Äußerungskontext, parlamentarischer Beteiligungsnachteil und eigenständiger Eiltext konkretisiert.",
+    "limits": "desk review; no live client execution"
+  },
   "selection": {
-    "positive": ["Prüfe den vollständigen Begründungsstand meiner Urteilsverfassungsbeschwerde vor Fristablauf.", "Ordne Hoheitsakt, fachgerichtliche Rüge und spezifischen Grundrechtsfehler in einer Zulässigkeitsmatrix."],
-    "negative": ["Schreibe eine gewöhnliche zivilrechtliche Berufung ohne Verfassungsrüge.", "Vergleiche nur drei mildere Verwaltungsmaßnahmen ohne verfassungsgerichtliches Verfahren."]
+    "positive": [
+      "Prüfe den vollständigen Begründungsstand meiner Urteilsverfassungsbeschwerde vor Fristablauf.",
+      "Ordne Hoheitsakt, fachgerichtliche Rüge und spezifischen Grundrechtsfehler in einer Zulässigkeitsmatrix."
+    ],
+    "negative": [
+      "Schreibe eine gewöhnliche zivilrechtliche Berufung ohne Verfassungsrüge.",
+      "Vergleiche nur drei mildere Verwaltungsmaßnahmen ohne verfassungsgerichtliches Verfahren."
+    ]
   },
-  "cases": [{
-    "id": "ankundigung-statt-begruendung",
-    "request": "Erstelle ergebnis.md als Freigabevermerk für eine geplante Verfassungsbeschwerde, ohne Einreichung. Die vollständige letztinstanzliche Entscheidung wurde am 20. August 2026 von Amts wegen zugestellt. Der Rechtsweg ist ausgeschöpft; eine Anhörungsrüge ist nach bereits abgeschlossener Prüfung nicht erforderlich. Heute ist der 14. September. Die Beschwerdeführerin beanstandet ein gerichtliches Verbot einer konkret zitierten politischen Wertung. Der Entwurf nennt nur Meinungsfreiheit verletzt und kündigt eine Begründung bis zum 1. Oktober an. Die gerichtliche Abwägung und die fachgerichtlichen Schriftsätze sind noch nicht verarbeitet. Die Entscheidung selbst liegt vollständig vor, aber hier nicht im Wortlaut. Bitte bewerte die Frist- und Substantiierungsrisiken, ohne ihren Inhalt zu erfinden.",
-    "input_files": [],
-    "deliverables": ["ergebnis.md"],
-    "criteria": [
-      {"id": "C01", "text": "Das Ergebnis erkennt, dass innerhalb der maßgeblichen Monatsfrist nicht nur erhoben, sondern auch begründet werden muss; eine pauschale Nachreichung bis 1. Oktober wird nicht als fristwahrend freigegeben.", "deliverables": ["ergebnis.md"]},
-      {"id": "C02", "text": "Es verlangt die Auseinandersetzung mit den tragenden Gründen, der konkreten Äußerung und dem spezifischen Grundrechtsfehler, statt das Schlagwort Meinungsfreiheit als ausreichende Begründung anzusehen.", "deliverables": ["ergebnis.md"]},
-      {"id": "C03", "text": "Die unbekannten Entscheidungsgründe werden nicht erfunden; der Vermerk benennt gezielt benötigte Textstellen und verwendet bei Angabe der GG-Zuständigkeit die aktuelle Zuordnung zu Artikel 94.", "deliverables": ["ergebnis.md"]}
+  "cases": [
+    {
+      "id": "ankundigung-statt-begruendung",
+      "request": "Erstelle ergebnis.md als Freigabevermerk für eine geplante Verfassungsbeschwerde, ohne Einreichung. Die vollständige letztinstanzliche Entscheidung wurde am 20. August 2026 von Amts wegen zugestellt. Der Rechtsweg ist ausgeschöpft; eine Anhörungsrüge ist nach bereits abgeschlossener Prüfung nicht erforderlich. Heute ist der 14. September. Die Beschwerdeführerin beanstandet ein gerichtliches Verbot einer konkret zitierten politischen Wertung. Der Entwurf nennt nur Meinungsfreiheit verletzt und kündigt eine Begründung bis zum 1. Oktober an. Die gerichtliche Abwägung und die fachgerichtlichen Schriftsätze sind noch nicht verarbeitet. Die Entscheidung selbst liegt vollständig vor, aber hier nicht im Wortlaut. Bitte bewerte die Frist- und Substantiierungsrisiken, ohne ihren Inhalt zu erfinden.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Das Ergebnis erkennt, dass innerhalb der maßgeblichen Monatsfrist nicht nur erhoben, sondern auch begründet werden muss; eine pauschale Nachreichung bis 1. Oktober wird nicht als fristwahrend freigegeben.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Es verlangt die Auseinandersetzung mit den tragenden Gründen, der konkreten Äußerung und dem spezifischen Grundrechtsfehler, statt das Schlagwort Meinungsfreiheit als ausreichende Begründung anzusehen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die unbekannten Entscheidungsgründe werden nicht erfunden; der Vermerk benennt gezielt benötigte Textstellen und verwendet bei Angabe der GG-Zuständigkeit die aktuelle Zuordnung zu Artikel 94.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "verfassungsbeschwerde-subsidiaritaet-substantiierung"
+    },
+    {
+      "id": "geg-eilanordnung-und-hauptsache-getrennt",
+      "request": "Erstelle ergebnis.md als internen Prüfvermerk zu einem noch nicht veröffentlichten Entwurf einer Abgeordneteninformation vom 15. September 2026. Darin steht: Weil das Bundesverfassungsgericht 2023 die abschließende Beratung der GEG-Novelle vorläufig gestoppt hat, haben die Antragsteller im Verfahren 2 BvE 4/23 endgültig gewonnen; das Gesetz ist deshalb nichtig und jedem Abgeordneten steht vor jeder Gesetzesabstimmung eine öffentliche Anhörung zu. Der Entwurf nennt keinen anderen Nichtigkeitsausspruch. Auftraggeber ist ein Bundestagsabgeordneter, der die eigene Beteiligungsposition beurteilen lassen will. Für eine zusätzliche Rüge liegen bisher nur Einladungen zu zwei Ausschusssitzungen und seine Angabe vor, er sei an informellen Gesprächen anderer Abgeordneter nicht beteiligt gewesen. Fassungsstände und Übermittlungsdaten des Gesetzentwurfs fehlen. Prüfe die drei Aussagen anhand des Urteils vom 23. Juli 2026 und formuliere einen sachlichen Ersatzabsatz sowie gezielte Beleganforderungen für eine eigene Beteiligungsrüge. Keine Veröffentlichung oder Antragstellung.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Das Ergebnis unterscheidet die vorläufige Eilentscheidung von der erfolglosen Hauptsache und leitet aus dem früheren Eilerfolg weder einen endgültigen Prozesserfolg noch die Nichtigkeit des Gesetzes ab.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Es bestätigt kein allgemeines individuelles Recht auf öffentliche Anhörung und behandelt die Nichtteilnahme an informellen Gesprächen nicht schon für sich als erwiesene Verletzung parlamentarischer Beratungsrechte.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Es verlangt für eine eigene Rüge konkret Fassungsstände, Übermittlungs- und Beratungstermine sowie den daraus folgenden Beteiligungsnachteil, ohne fehlende Abläufe zu erfinden; ein ausformulierter Ersatzabsatz wird geliefert.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "organstreit-bundestag-fraktion-opposition"
+    }
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "method": "desk_review",
+    "files": [
+      "verfassungsrecht/README.md",
+      "verfassungsrecht/verfassungsrecht-werkstatt.md",
+      "verfassungsrecht/verfassungsrecht-schnellstart.md",
+      "quality/evals/verfassungsrecht.json"
     ],
-    "target_skill": "verfassungsbeschwerde-subsidiaritaet-substantiierung"
-  }, {
-    "id": "geg-eilanordnung-und-hauptsache-getrennt",
-    "request": "Erstelle ergebnis.md als internen Prüfvermerk zu einem noch nicht veröffentlichten Entwurf einer Abgeordneteninformation vom 15. September 2026. Darin steht: Weil das Bundesverfassungsgericht 2023 die abschließende Beratung der GEG-Novelle vorläufig gestoppt hat, haben die Antragsteller im Verfahren 2 BvE 4/23 endgültig gewonnen; das Gesetz ist deshalb nichtig und jedem Abgeordneten steht vor jeder Gesetzesabstimmung eine öffentliche Anhörung zu. Der Entwurf nennt keinen anderen Nichtigkeitsausspruch. Auftraggeber ist ein Bundestagsabgeordneter, der die eigene Beteiligungsposition beurteilen lassen will. Für eine zusätzliche Rüge liegen bisher nur Einladungen zu zwei Ausschusssitzungen und seine Angabe vor, er sei an informellen Gesprächen anderer Abgeordneter nicht beteiligt gewesen. Fassungsstände und Übermittlungsdaten des Gesetzentwurfs fehlen. Prüfe die drei Aussagen anhand des Urteils vom 23. Juli 2026 und formuliere einen sachlichen Ersatzabsatz sowie gezielte Beleganforderungen für eine eigene Beteiligungsrüge. Keine Veröffentlichung oder Antragstellung.",
-    "input_files": [],
-    "deliverables": ["ergebnis.md"],
-    "criteria": [
-      {"id": "C01", "text": "Das Ergebnis unterscheidet die vorläufige Eilentscheidung von der erfolglosen Hauptsache und leitet aus dem früheren Eilerfolg weder einen endgültigen Prozesserfolg noch die Nichtigkeit des Gesetzes ab.", "deliverables": ["ergebnis.md"]},
-      {"id": "C02", "text": "Es bestätigt kein allgemeines individuelles Recht auf öffentliche Anhörung und behandelt die Nichtteilnahme an informellen Gesprächen nicht schon für sich als erwiesene Verletzung parlamentarischer Beratungsrechte.", "deliverables": ["ergebnis.md"]},
-      {"id": "C03", "text": "Es verlangt für eine eigene Rüge konkret Fassungsstände, Übermittlungs- und Beratungstermine sowie den daraus folgenden Beteiligungsnachteil, ohne fehlende Abläufe zu erfinden; ein ausformulierter Ersatzabsatz wird geliefert.", "deliverables": ["ergebnis.md"]}
+    "opening_change": "Spezifischen Grundrechtsfehler und passende Verfahrensfolge statt generischer Fallkarte ausarbeiten.",
+    "norms": [
+      "Artikel 94 Absatz 1, 100 Absatz 1 und 38 Absatz 1 Satz 2 GG",
+      "Paragrafen 23 Absatz 1 Satz 2, 32, 64, 90, 92, 93 und 93a BVerfGG"
     ],
-    "target_skill": "organstreit-bundestag-fraktion-opposition"
-  }]
+    "decisions": [
+      {
+        "citation": "BVerfG, Kammerbeschluss vom 23. September 2025, 2 BvR 625/25, Rn. 18 bis 23",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/09/rk20250923_2bvr062525.html",
+        "application": "Pauschale Anlagenverweise und abweichender Sachverhalt ersetzen keine Auseinandersetzung mit tragenden Gründen.",
+        "limit": "ANOM-Verfahren; Darlegungsmaßstab übertragbar, keine allgemeine Billigung fremder Datenerhebung."
+      },
+      {
+        "citation": "BVerfG, Urteil vom 23. Juli 2026, 2 BvE 4/23, Rn. 83 bis 90, 109 bis 130",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/07/es20260723_2bve000423.html",
+        "application": "Bei verkürzter Gesetzesberatung Fassungsstände, Informationszugang und Beteiligungsnachteil darlegen; früheren Eilstopp von verworfener Hauptsache trennen.",
+        "limit": "Kein individuelles Anhörungs- oder informelles Gesprächsteilnahmerecht; weder Gesetzesnichtigkeit noch allgemeine Billigung jeder Beschleunigung."
+      }
+    ],
+    "remaining_limits": [
+      "Workflow-Review: Paragrafen 13, 93, 64 und 32 BVerfGG aktuell gelesen. Vorhandene ANOM-/GEG-Quellenprüfung samt Grenzen erhalten, nicht neu als vollständige Entscheidungsprüfung ausgegeben; materielle Grundrechte, Landesverfahren und Übermittlungswege nicht flächendeckend neu verifiziert.",
+      "Amtliche tragende Passagen und aktuelle Fristnorm gelesen; keine vollständige Verifikation aller materiellen Grundrechts-, Parteien- oder Landesverfahren.",
+      "Desk-/Quellenreview, kein Live-Mandat oder Modelltest."
+    ]
+  }
 }

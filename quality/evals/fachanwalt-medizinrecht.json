@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "fachanwalt-medizinrecht",
-  "reviewed_on": "2026-09-17",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/bgb/__249.html",
@@ -32,32 +32,63 @@
       "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2009-2&Gericht=bgh&Seite=9&anz=282&nr=47069&pos=274",
       "checked_on": "2026-09-14",
       "supports": "BGH, Urteil vom 03.02.2009, Az. VI ZR 183/08: amtlichen Leitsatz im Suchauszug zur Tabellenorientierung mangels abweichender konkreter Gesichtspunkte geprüft. Volltextabruf gesperrt; kein aktueller Lohn- oder spezieller Arzthaftungsanker."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__630e.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aktueller amtlicher Normtext zur Prüfung: Paragraf 630d, Paragraf 630e und Paragraf 630h BGB; Paragraf 843 BGB; Paragraf 287 ZPO. Keine Gesamtverifikation sämtlicher Nebenmaterien."
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2022&Gericht=bgh&anz=3168&nr=132534&pos=29",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 20.12.2022, VI ZR 375/21: Nach rechtzeitiger Aufklärung keine abstrakte Wartefrist; erkennbaren zusätzlichen Überlegungsbedarf bei medizinisch möglichem Aufschub berücksichtigen. Grenze/Prüftiefe: Amtliche Leitsätze b und c, Volltextabruf gescheitert; keine Entbehrlichkeit rechtzeitiger Aufklärung und keine Übertragung auf Studienzustimmung."
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2009-2&Gericht=bgh&Sort=1&anz=282&nr=47069&pos=10",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 03.02.2009, VI ZR 183/08: Haushaltsschaden aus tatsächlichen Aufgaben und Einschränkungen berechnen; Tabellen nur als Orientierung ohne abweichende Umstände. Grenze/Prüftiefe: Amtlicher Leitsatz, Volltext nicht erreichbar; kein automatischer Stundenpreis oder Kausalitätsbeweis."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__630h.html",
+      "supports": "Erneuter Normabruf zu den differenzierten Beweisregeln der Behandlungshaftung; Dokumentationsmangel und Haftung nicht pauschal gleichsetzen.",
+      "checked_on": "2026-09-23"
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Vollständig geprüft: Befunde und Haushalts- oder Pflegebelege werden gezielt nachgefordert und in Bewertung, Rechnung und bestellten Anspruchstext eingearbeitet. Die bestehende Fassung bleibt unverändert; medizinische Kausalität wird nicht erfunden.",
+    "reason": "Schnellstart vollständig individuell gelesen und überarbeitet: Behandlungsablauf, Aufklärung und belegte Folgen für Haushalt und Pflege rechtlich prüfen. Werkstatt trennt Standard, Kausalität und Beweislast; Aufklärung ohne starre Wartefrist sowie individuell belegte Haushaltshilfe statt pauschaler Tabellenansprüche. Redaktionelle Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Einkaufen ist seit Juni wieder möglich -> Hilfebedarf und Monate korrigieren; neuer Gerätebericht -> Dokumentationslücke von fortbestehender Behandlungsfrage trennen.",
     "changes": [
-      "Pauschale Beweislastformel durch die konkreten Wirkungen des Paragrafen 630h ersetzt.",
-      "Haushaltsstunden, Pflegeleistungen und Sozialleistungskongruenz mit Doppelansatzkontrolle aufgenommen.",
-      "Fehlende medizinische Kausalität als Vorbehalt statt Stillstand behandelt; optionalen Vertiefungslink und Grenzen für Gesundheitsdaten ergänzt."
+      "Werkstatt trennt Standard, Kausalität und Beweislast; Aufklärung ohne starre Wartefrist sowie individuell belegte Haushaltshilfe statt pauschaler Tabellenansprüche.",
+      "Kernfall mit operativem Entscheidungsanker, gezielten Nachfragen und Fortsetzung zum vollständigen angeforderten Dokument.",
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
     ],
-    "sha256": "a13ca046b97c13f43a5c71d3e92d3adb89598f3f26e4354df9d9a63d03499bc3"
+    "sha256": "15bb27f164ea9d1d0f80ea1495b90bab4112b028bfa63129a9d5fb31f323ba8d"
   },
   "focus_review": {
-    "reviewed_on": "2026-09-17",
+    "reviewed_on": "2026-09-23",
     "method": "desk_review",
     "verdict": "revised",
-    "reason": "Standalone-Prompt und zugeordneter Fokus-Skill vollständig auf fachlichen Umfang, Rückfragen mit Fortsetzung bis zum bestellten Dokument, Ausgabeverhalten, Rollenbegrenzung und Quellendifferenzierung gelesen. Kein Live-Modelltest und keine erneute Vollverifikation der bestehenden Rechtsquellen.",
+    "reason": "Hauptproblem-Prompt und zugeordneter Skill vollständig gelesen. Werkstatt trennt Standard, Kausalität und Beweislast; Aufklärung ohne starre Wartefrist sowie individuell belegte Haushaltshilfe statt pauschaler Tabellenansprüche. Skill unverändert, da mit dem präzisierten Prompt vereinbar. Quellenprüfung im dokumentierten Umfang, kein Live-Modelltest. Workflow-Ergänzung: Einkaufen ist seit Juni wieder möglich -> Hilfebedarf und Monate korrigieren; neuer Gerätebericht -> Dokumentationslücke von fortbestehender Behandlungsfrage trennen. Zugeordneten Fokus-Skill auf Kohärenz gelesen und unverändert belassen.",
     "changes": [
-      "Vollständigen Antworttext bei fehlendem Dateiexport ergänzt; keine erfundenen Downloadlinks."
+      "Werkstatt trennt Standard, Kausalität und Beweislast; Aufklärung ohne starre Wartefrist sowie individuell belegte Haushaltshilfe statt pauschaler Tabellenansprüche.",
+      "Konkreten Einstieg und Anwendung samt Grenzen des Entscheidungsankers im Hauptproblem ergänzt; zugeordneten Skill unverändert gelassen.",
+      "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten."
     ],
     "prompt_path": "fachanwalt-medizinrecht/fachanwalt-medizinrecht-hauptproblem.md",
-    "prompt_sha256": "b2ccc0a2e5b0ba74a4460777d99108a478d70d96e7acbbed964a61551300b5ba",
+    "prompt_sha256": "a8f73d467e16847248a19d1e54cfd2120ab954dca9ea4ee0d2c624536c21005c",
     "skill_path": "fachanwalt-medizinrecht/skills/behandlungsfolgen-haushalt-pflege-abgleich/SKILL.md",
     "skill_sha256": "436433c69286fa094039ed93443a26644aeb9f7dd1be19a61242f483a334b57b"
   },
-  "workshop_review": {"verdict":"revised","reason":"Die Ganztextprüfung bestätigte Fortsetzung bei Behandlungs- und Leistungsfragen; die allgemeine Stationsproduktpflicht passte nicht zur einzelnen Beratung oder Anspruchsbegründung.","changes":["Zeitachse und Gutachterfragen nur soweit auftragsnötig übernehmen lassen; Befunde, Behauptungen und offene Fachfragen getrennt gehalten."],"sha256":"115526c87b7b16afda7059ff4bf13b48cbba73ec8d7233ef9cedd8592cd3eb55"},
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Werkstatt vollständig individuell gelesen und überarbeitet: Behandlungsablauf, Aufklärung und belegte Folgen für Haushalt und Pflege rechtlich prüfen. Werkstatt trennt Standard, Kausalität und Beweislast; Aufklärung ohne starre Wartefrist sowie individuell belegte Haushaltshilfe statt pauschaler Tabellenansprüche. Redaktionelle Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Zeitgebundene Befundkenntnis statt Rückschau, konkrete Gutachtenfrage und Gegenursache, Aufklärungsgespräch gegenüber Formular, hypothetische Einwilligung sowie überlappende Pflege- und Haushaltshilfe und Leistungsübergang.",
+    "changes": [
+      "Werkstatt trennt Standard, Kausalität und Beweislast; Aufklärung ohne starre Wartefrist sowie individuell belegte Haushaltshilfe statt pauschaler Tabellenansprüche.",
+      "Vorhandene Fachzweige, Beispiele und Zugriffsalternativen erhalten; schwache Rechtsprechungshinweise entfernt oder auf belegte Reichweite begrenzt.",
+      "Zeitgebundene Befundkenntnis statt Rückschau, konkrete Gutachtenfrage und Gegenursache, Aufklärungsgespräch gegenüber Formular, hypothetische Einwilligung sowie überlappende Pflege- und Haushaltshilfe und Leistungsübergang."
+    ],
+    "sha256": "730fa9b8e7ca260e8edc38dac4b68181f13072168f867bf46b2a97678f00c51b"
+  },
   "selection": {
     "positive": [
       "Nach einer Operationsfolge brauchen wir eine zeitabschnittsweise Rechnung über Haushaltshilfe und Angehörigenpflege mit Abgleich der Kassenleistungen.",
@@ -116,5 +147,53 @@
       ],
       "target_skill": "behandlungsfolgen-haushalt-pflege-abgleich"
     }
-  ]
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-23",
+    "files": [
+      "fachanwalt-medizinrecht/README.md",
+      "fachanwalt-medizinrecht/fachanwalt-medizinrecht-schnellstart.md",
+      "fachanwalt-medizinrecht/fachanwalt-medizinrecht-werkstatt.md",
+      "fachanwalt-medizinrecht/fachanwalt-medizinrecht-hauptproblem.md",
+      "fachanwalt-medizinrecht/skills/behandlungsfolgen-haushalt-pflege-abgleich/SKILL.md",
+      "quality/evals/fachanwalt-medizinrecht.json"
+    ],
+    "opening_change": "Behandlungsablauf, Aufklärung und belegte Folgen für Haushalt und Pflege rechtlich prüfen Workflow-Ergänzung: Leer: Behandlungsfehlerprüfung, Haushalts-/Pflegeschaden oder Leistungsablehnung anbieten. Dateien ohne Aufgabe: Behandlungsakte, Befunde und Kosten still lesen; Haftungs-, Bezifferungs- oder Widerspruchsziel klären. Klarer Auftrag: konkrete Stellungnahme oder Forderung direkt ausarbeiten, keine ungefragte medizinische Gesamtbewertung.",
+    "norms": [
+      "Paragraf 630d, Paragraf 630e und Paragraf 630h BGB",
+      "Paragraf 843 BGB",
+      "Paragraf 287 ZPO"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 20.12.2022, VI ZR 375/21",
+        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2022&Gericht=bgh&anz=3168&nr=132534&pos=29",
+        "application": "Nach rechtzeitiger Aufklärung keine abstrakte Wartefrist; erkennbaren zusätzlichen Überlegungsbedarf bei medizinisch möglichem Aufschub berücksichtigen.",
+        "limit": "Amtliche Leitsätze b und c, Volltextabruf gescheitert; keine Entbehrlichkeit rechtzeitiger Aufklärung und keine Übertragung auf Studienzustimmung."
+      },
+      {
+        "citation": "BGH, Urteil vom 03.02.2009, VI ZR 183/08",
+        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2009-2&Gericht=bgh&Sort=1&anz=282&nr=47069&pos=10",
+        "application": "Haushaltsschaden aus tatsächlichen Aufgaben und Einschränkungen berechnen; Tabellen nur als Orientierung ohne abweichende Umstände.",
+        "limit": "Amtlicher Leitsatz, Volltext nicht erreichbar; kein automatischer Stundenpreis oder Kausalitätsbeweis."
+      }
+    ],
+    "remaining_limits": [
+      "Desk- und Quellenprüfung, kein Live-Client- oder Modelltest; übrige Fachzweige nicht vollständig rechtlich neu verifiziert.",
+      "Amtliche Leitsätze b und c, Volltextabruf gescheitert; keine Entbehrlichkeit rechtzeitiger Aufklärung und keine Übertragung auf Studienzustimmung.",
+      "Workflow-Review 23.09.2026: Paragraf 630h BGB erneut eingesehen. Bestehende Fallanker weiterhin nur in verifizierter Leitsatzreichweite, keine zugänglichen neuen Volltexte behauptet."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Behandlungsfehlerprüfung, Haushalts-/Pflegeschaden oder Leistungsablehnung anbieten.",
+      "Dateien ohne Aufgabe: Behandlungsakte, Befunde und Kosten still lesen; Haftungs-, Bezifferungs- oder Widerspruchsziel klären.",
+      "Klarer Auftrag: konkrete Stellungnahme oder Forderung direkt ausarbeiten, keine ungefragte medizinische Gesamtbewertung."
+    ],
+    "continuation": "Einkaufen ist seit Juni wieder möglich -> Hilfebedarf und Monate korrigieren; neuer Gerätebericht -> Dokumentationslücke von fortbestehender Behandlungsfrage trennen.",
+    "enrichment": "Zeitgebundene Befundkenntnis statt Rückschau, konkrete Gutachtenfrage und Gegenursache, Aufklärungsgespräch gegenüber Formular, hypothetische Einwilligung sowie überlappende Pflege- und Haushaltshilfe und Leistungsübergang.",
+    "limits": "desk review; no live client execution"
+  }
 }

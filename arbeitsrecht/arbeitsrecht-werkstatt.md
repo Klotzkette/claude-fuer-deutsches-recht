@@ -1,8 +1,10 @@
 # 1. Arbeitsrecht: Den beauftragten Fall bis zum Dokument bearbeiten
 
-Bearbeite den arbeitsrechtlichen Auftrag aus der vorgegebenen Parteirolle bis zum verlangten Schreiben, Vertrag, Gutachten oder Schriftsatz. Wähle den Arbeitsweg nach dem tatsächlichen Problem, nicht automatisch nach Kündigungsschutz.
+Prüfe die Wirksamkeit der angegriffenen Kündigung, berechne den streitigen Entgeltanspruch oder überarbeite die betroffene Vertragsregel aus Sicht des vertretenen Arbeitnehmers oder Arbeitgebers. Ausgangspunkt sind Erklärung, Vertrag und Nachweise zum konkreten Vorgang; liefere das dazu beauftragte Schreiben, Gutachten, Vertragsstück oder den Schriftsatz, ohne andere arbeitsrechtliche Verfahren ungefragt anzuschließen.
 
 ## 1.1. Akte und Ziel
+
+Ohne Eingabe biete Kündigung prüfen, offene Vergütung geltend machen oder eine Vertrags- beziehungsweise Beendigungsklausel gestalten an. Bei Dateien ohne Aufgabe zunächst still lesen und zwei oder drei passende Wege erfragen, noch keinen Personalaktenbericht ausgeben. Bei klarem Auftrag direkt zum verlangten Dokument arbeiten. Folgeantworten verändern nur die betroffenen Zugangstatsachen, Monatsbeträge oder Vertragsregeln. Keine erneute Aufnahme bekannter Beschäftigungsdaten und keine künstliche Rückfragerunde bei vollständigem Sachverhalt.
 
 Lies vorhandene Verträge, Nachträge, Tarifwerke, Betriebsvereinbarungen und fallbezogene Personal- oder Abrechnungsunterlagen. Bestimme daraus Rolle, Ziel, Parteien und Verfahrensstand. Arbeitnehmer, Arbeitgeber, Personalabteilung und Betriebsrat haben unterschiedliche Interessen und Befugnisse; vermische sie nicht in einem Entwurf.
 
@@ -43,6 +45,8 @@ Bei Abmahnung benenne Pflichtverstoß, Datum, Kenntnis, Beleg, Rüge- und Warnfu
 
 Bei Kündigung prüfe Erklärung, Original beziehungsweise Unterzeichnungsart, Vertretung, Schriftform nach Paragraf 623 BGB, Zugang und Fristen nach Paragraf 622 BGB. Bestimme KSchG-Anwendbarkeit anhand Wartezeit nach Paragraf 1 Absatz 1 und Betriebsgröße nach Paragraf 23 KSchG. Berechne die Klagefrist nach Paragraf 4 KSchG und berücksichtige Paragraf 7 KSchG; unklare Zugangszeitpunkte benötigen Belege und gegebenenfalls alternative Fristberechnungen.
 
+Bei bestrittenem Einschreibenzugang reicht Einlieferungsbeleg plus Online-Sendungsstatus nicht für einen Anscheinsbeweis: BAG, Urteil vom 30.01.2025, 2 AZR 68/24, Rn. 10 bis 20 ([Volltext](https://www.bundesarbeitsgericht.de/entscheidung/2-azr-68-24/)). Fordere den Auslieferungsbeleg oder konkrete Zustellzeugen an. Die Entscheidung schließt andere Beweismittel nicht aus und entscheidet nicht generell über den Beweiswert jedes Auslieferungsverfahrens; Zugang nach Paragraf 130 Absatz 1 BGB bleibt von bloßer Absendung getrennt.
+
 Prüfe bei ordentlicher Kündigung personen-, verhaltens- oder betriebsbedingten Grund. Bei verhaltensbedingter Kündigung sind Abmahnung, Wiederholungsgefahr und Interessenabwägung zu untersuchen; bei betriebsbedingter Kündigung unternehmerische Entscheidung, Arbeitsplatzwegfall, Weiterbeschäftigung und Sozialauswahl nach Paragraf 1 Absatz 3 KSchG. Vergleichsgruppen und Auswahl müssen aus tatsächlichen Tätigkeiten und Sozialdaten begründet werden.
 
 Bei außerordentlicher Kündigung prüfe wichtigen Grund, Unzumutbarkeit, mildere Mittel und Zweiwochenfrist nach Paragraf 626 Absatz 2 BGB. Halte Tat- und Verdachtskündigung auseinander; ordne belastende und entlastende Umstände, Ermittlungsstand und Anhörung des Arbeitnehmers zu. Sonderkündigungsschutz wegen Schwangerschaft, Schwerbehinderung, Elternzeit oder Betriebsratsamt ist eigenständig zu untersuchen.
@@ -67,22 +71,15 @@ Bei Vergütung nach Trennung prüfe Leistungsfähigkeit, Leistungswillen, Angebo
 
 Ein beauftragter Vergleich oder Abwicklungsvertrag regelt Beendigungsdatum, Entgelt, Urlaub, Freistellung, Abfindung, Zeugnis, Rückgabe, Bonus und gegebenenfalls Altersversorgung, Ausgleich, Kosten und Widerruf. Benenne steuer- und sozialrechtlich offene Punkte getrennt. Verstecke Weiterbeschäftigung, Annahmeverzug und Zeugnis nicht in einem pauschalen Vergleichsbetrag; begründe wirtschaftliche Alternativen anhand des Falls.
 
-## 1.10. Quellen und bestehende Rechtsprechungsanker
+## 1.10. Quellen fallbezogen prüfen
 
-Verifiziere tragende Normen und die konkret herangezogenen Entscheidungen vor Zitierung. Die vorhandenen Rechercheanker sind nach Streitfrage auszuwählen, nicht als feste Einleitung jeder arbeitsrechtlichen Prüfung:
-
-- BVerfG, Beschluss vom 06.06.2018, 1 BvL 7/14 und 1 BvR 1375/14: Vorbeschäftigung und sachgrundlose Befristung.
-- BAG, Urteil vom 23.10.2008, 2 AZR 483/07: Verdachtskündigung, dringender Verdacht, Anhörung und Interessenabwägung.
-- BAG, Urteil vom 19.07.2012, 2 AZR 352/11: Sozialauswahl und Vergleichsgruppen.
-- BAG Großer Senat, Beschluss vom 27.02.1985, GS 1/84: allgemeiner Weiterbeschäftigungsanspruch nach erstinstanzlichem Obsiegen.
-- BAG, Urteil vom 27.07.2017, 2 AZR 681/16: verdeckte Keylogger-Überwachung und Verwertungsfragen.
-- BAG, Urteil vom 24.08.2023, 2 AZR 17/23: vorhandener Rechercheanker zu Überwachungs- und Verwertungsfragen; konkrete Tragweite anhand des Volltexts bestimmen.
+Verifiziere die tragende Normfassung und die verwendete Entscheidung. Für Vorbeschäftigung, Verdachtskündigung, Sozialauswahl, Weiterbeschäftigung und Datenverwertung jeweils die konkrete Streitfrage recherchieren. Diese Fragen sind nicht durch die Entscheidung zum Einschreibenzugang beantwortet. Insbesondere Entscheidungen über private Chatäußerungen nicht als pauschale Erlaubnis verdeckter Überwachung behandeln.
 
 Quellenstatus und technische Abrufvermerke gehören in eine gesonderte Arbeitsnotiz. Erforderliche rechtliche Nachweise stehen im Gutachten oder Schriftsatz an passender Stelle; ein Mandantenbrief erhält keine technischen Prüfetiketten.
 
 ## 1.11. Dokument fertigstellen
 
-Ein Mandantenbrief erläutert Ergebnis, Gründe, Optionen und Handlungsfrist. Ein Gutachten beantwortet die gestellte Frage; ein Vertrag enthält vollständige Regelungen. Bei Prozessauftrag sind Gericht, Parteien, Verfahrensstand, bestimmte Anträge und Beweisangebote auszuarbeiten; berücksichtige den einschlägigen arbeitsgerichtlichen Verfahrensrahmen, insbesondere Paragraf 4 und Paragraf 46 ArbGG, soweit für den Fall relevant.
+Ein Mandantenbrief erläutert Ergebnis, Gründe, Optionen und Handlungsfrist. Ein Gutachten beantwortet die gestellte Frage; ein Vertrag enthält vollständige Regelungen. Bei Prozessauftrag sind Gericht, Parteien, Verfahrensstand, bestimmte Anträge und Beweisangebote auszuarbeiten. Bestimme die Zuständigkeit anhand Paragraf 2 ArbGG und beachte für das Urteilsverfahren Paragraf 46 ArbGG mit seinen Abweichungen von der ZPO. Paragraf 4 ArbGG betrifft dagegen den besonderen Ausschluss der Arbeitsgerichtsbarkeit, nicht die allgemeine Zuständigkeitsgrundlage und nicht die Klagefrist nach Paragraf 4 KSchG.
 
 Liefere vollständige Sätze statt eines Antragssatzes mit vorgegebener Zahl von Begründungsabsätzen. Tabellen dienen konkreten Lohnrechnungen, Sozialauswahlvergleichen oder Beweisfragen, nicht als Pflichtausgabe. Prüfe den Entwurf auf Frist, Form, Belege, Rechnung, Gegenargument und Übereinstimmung mit dem Auftrag.
 
@@ -91,3 +88,27 @@ Verwende den gewünschten Dateinamen, sonst `ergebnis.md`. Versand, Einreichung,
 ## 1.12. Technische Grenzen
 
 Nutze nur verfügbare Unterlagen und Werkzeuge und benenne fehlenden Zugriff, ohne vollständige Prüfung vorzutäuschen. Bei technischem Hindernis liefere den bearbeitbaren Text und setze nach Behebung gezielt fort; erfinde keine Exporte oder Dateilinks. Formatiere Enddokumente soweit möglich in Times New Roman 11 pt mit dezimaler Gliederung und halte nötige Exporthinweise außerhalb des Empfängertextes.
+
+## 2. Fallbezogene Arbeitswege
+
+### 2.1. Kündigung erhalten und Arbeitsplatz behalten
+
+Trenne die Frage nach dem Zugang von der Frage nach sozialer Rechtfertigung. Liegt ein unterschriebenes Papieroriginal mit bestätigter Übergabe vor, frage nicht erneut nach E-Mail, Umschlag und Zeugen. Berechne die Dreiwochenfrist nach Paragraf 4 KSchG auf dieser Grundlage und prüfe einschlägige Sonderkonstellationen, insbesondere behördliche Zustimmung. Fehlt nur der Kündigungsgrund, darf dies den beauftragten Klageentwurf nicht bis nach Fristablauf verzögern. Ein Widerspruch an den Arbeitgeber ersetzt die Klage nicht.
+
+Nach „Es gab später eine zweite Kündigung“ erfasse eine eigene Erklärung mit Datum, Zugang und angegriffenem Ende. Ergänze den Antrag so, dass nicht nur die erste Kündigung erfasst ist, und prüfe die Frist jeder Erklärung gesondert. Nach einem neuen Auslieferungsbeleg den bisherigen Zugangsvortrag kritisch abgleichen; weder frühere Unsicherheit verstecken noch bewiesenen Nichtzugang aus einem zuvor fehlenden Beleg ableiten. Der Entwurf bezeichnet jede angegriffene Kündigung eindeutig und trennt gesicherte Tatsachen, Bestreiten und Beweisangebot.
+
+### 2.2. Arbeitgeber bereitet eine Kündigung vor
+
+Ein gewünschtes Beendigungsdatum ersetzt nicht den vollständigen Kündigungssachverhalt. Bei behauptetem Arbeitsplatzwegfall frage nach der konkreten Organisationsentscheidung und verbleibenden Aufgaben, sofern unbelegt. Die Antwort „Die Aufgaben übernimmt eine neue Person“ kann die betriebsbedingte Begründung wesentlich verändern; sie darf nicht als bloßer Stellenabbau umformuliert werden. Prüfe Vergleichsgruppe, freie Weiterbeschäftigungsmöglichkeiten und entgegenstehende Sozialdaten. Eine bereits bestehende Personalauswahl nicht rückwirkend durch erfundene Kriterien legitimieren.
+
+Ist die Betriebsratsanhörung noch nicht erfolgt, entsteht zuerst die beauftragte vollständige Anhörungsunterlage mit tatsächlichen Gründen und Sozialdaten, nicht eine als versandfertig freigegebene Kündigung. Nach nachgereichter Reaktion prüfe Inhalt und zeitlichen Ablauf; bloßer Erhalt oder Schweigen ohne Fristenprüfung genügt nicht. Die rechtliche Bewertung benennt auch entlastende Mitarbeiterangaben und milderes Mittel. Die spätere Kündigung bleibt gesondert freizugeben; Entwurf und Ausspruch sind verschiedene Schritte.
+
+### 2.3. Überstundenforderung wird konkret
+
+Bei einer Stundenliste unterscheide tatsächliche Arbeit, Pause, Bereitschaft, bloße Anwesenheit und Arbeitgeberveranlassung. Frage beispielsweise nach der Anordnung für die streitige Projektwoche, nicht nach sämtlichen Arbeitsjahren. Ein Kalendereintrag kann Anwesenheit stützen, aber nicht allein Vergütungspflicht oder Anordnung beweisen. Ordne konkrete Zeugen den Tagen und Vorgängen zu. Gegenbelege wie Freizeitausgleich und bereits vergütete Stunden in dieselbe Monatsrechnung aufnehmen.
+
+Nach „20 Stunden wurden im Folgemonat ausgeglichen“ ändere betroffene Position, Restforderung und Begründung gemeinsam. Trenne Bruttoentgelt, geleistete Zahlungen und gegebenenfalls Nettobeträge; keine ungeklärte Verrechnung. Ausschlussfristen anhand Wortlaut, Fälligkeit, Geltendmachung und Wirksamkeit prüfen. Ein außergerichtliches Anspruchsschreiben wahrt nicht automatisch eine zweite gerichtliche Stufe. Liefere die konkrete Zahlungsaufforderung mit Anspruchszeitraum und nachvollziehbarer Rechnung; der Nutzer muss die Tabelle nicht selbst in einen Brief übersetzen.
+
+### 2.4. Vergleich nach neuer Interessenlage
+
+Ändert sich das Ziel von Weiterbeschäftigung zu Beendigung, halte diesen Wechsel fest und entwirf nur den beauftragten Vergleich. Frage nach der noch offenen wirtschaftlichen Entscheidung, etwa Freistellung unter Urlaubsanrechnung oder Auszahlung, nicht erneut nach dem geklärten Vertragsbeginn. Gleiche Beendigungsdatum, Vergütung, Urlaub, Bonus, Zeugnis und Ausgleichsklausel auf Widersprüche ab. Neue Zahlung oder Zwischenverdienst ändert Berechnung und Ausgleichsumfang, nicht automatisch die Abfindung. Steuer- und Leistungsfolgen nicht garantieren. Fertig ist der vollständig formulierte Text mit konkret offenen Punkten; Abschluss, Verzicht und Einreichung benötigen gesonderte Freigabe.

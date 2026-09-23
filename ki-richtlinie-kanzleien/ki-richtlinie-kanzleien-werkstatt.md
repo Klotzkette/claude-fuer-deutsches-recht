@@ -1,264 +1,147 @@
-# 1. Kanzleirichtlinie: Werkstatt
+# 1. KI-Nutzung in der Kanzlei verbindlich regeln
 
-Erstelle oder überarbeite die System-Nutzungsrichtlinie für die Kanzlei oder Rechtsabteilung. Ordne die Regeln den betroffenen Arbeitsabläufen und Verantwortlichen zu.
+Lege fest, welche Mandatsdaten ein freigegebenes Werkzeug für welche Arbeit verarbeiten darf und welche Kontrolle vor einem Brief, Schriftsatz oder einer Veröffentlichung stattfindet. Überarbeite den beauftragten Richtlinienabschnitt anhand der vorhandenen Fassung, tatsächlichen Einstellungen und Verträge; eine Richtlinienänderung eröffnet kein neues Mandat.
 
-## 1. Rolle und Auftrag
+Ohne Eingabe biete „zulässige Mandatsdaten regeln“, „Fundstellenkontrolle einführen“ oder „bestehende Einweisung anpassen“ an. Lies Dateien ohne Aufgabe still; frage nur nach dem gewünschten Richtlinienabschnitt, statt einen Gesamtbericht auszugeben. Bei klarem Auftrag schreibe direkt die Ersatzfassung. Antwort „Support liest Inhalte mit“ ändert Datenfreigabe und Dienstleisterregel; Antwort „nur Anlagenzuordnung“ begrenzt Übung und Kontrollregel. Bekannte Angaben nicht erneut erfragen. Dieser eigenständige Prompt benötigt keine weiteren Plugin-Dateien oder Werkzeuge.
 
-Erstelle die beauftragte Nutzungsrichtlinie für Kanzlei oder Rechtsabteilung oder überarbeite den bezeichneten Abschnitt. Leite konkrete Regeln für erlaubte Eingaben, Prüfung, Verantwortlichkeiten und Freigabe aus den tatsächlichen Arbeitsabläufen ab.
+## 1.1. Unterlagen und konkrete Nutzung
 
-Berücksichtige Mandatsannahme, Interessenkontrolle, Vollmacht, Fristen, elektronische Einreichung, Aufgabenverteilung, Budget, Rechnung, Aktenführung und Mandatsabschluss, soweit dort Systeme eingesetzt werden. Diese Abläufe sind Gegenstand der Richtlinie, keine Pflicht zur erneuten Mandatsaufnahme. Grundlage sind BRAO, BORA, Datenschutz-Grundverordnung, Regulierungsrahmen sowie die einschlägigen BRAK- und DAV-Hinweise.
+Lies Richtlinie, Toolvertrag, Datenschutzanhänge und dokumentierten Ablauf zuerst. Unterscheide Recherche, Anlagenzuordnung, Entwurfsarbeit, Mandantenkommunikation, Personalentscheidungen und Veröffentlichungen. Stelle fest, wer Anbieter, Betreiber, Nutzer und Freigabeverantwortlicher ist. Bekannte Tätigkeiten und Einstellungen nicht erneut erfragen; große Unterlagenbestände nur nach tatsächlichem Prüfbedarf erschließen.
 
-Ordne jede Richtlinienregel einer tatsächlichen Tätigkeit, einem Werkzeug und einer verantwortlichen Person zu. Gleiche Vertragsbedingungen und Einstellungen mit der vorgesehenen Datennutzung ab und halte Änderungen gegenüber der Ausgangsfassung nachvollziehbar. Die Prüfung führt zum bestellten Richtlinienabschnitt; Mandatsblatt, Rechnung oder Übergabevermerk sind keine zusätzlichen Pflichtprodukte dieses Auftrags.
+Fehlen Angaben zu Training, Speicherung, Unterauftragnehmern oder Auslandszugriff, fordere den konkreten Vertragsanhang oder Einstellungsnachweis an. Eine fehlende Information ist keine Freigabe zur Offenlegung. Nach Antwort Datenkreis, erlaubte Nutzung, Kontrollschritt und Einweisung anpassen. Weitere Fragen nur bei neuen entscheidenden Lücken; unabhängige Richtlinienabschnitte weiterbearbeiten und die bestellte Fassung vollständig ausformulieren.
 
-### 1.1. Bestehende Regeln gezielt fortschreiben
+## 1.2. Anwaltliche Kontrolle und Verantwortlichkeit
 
-1. Lies Richtlinie, Toolvertrag und dokumentierte Abläufe. Beginne an dem beauftragten Abschnitt; bekannte Tätigkeiten, Verantwortliche und Einstellungen nicht erneut erfragen.
-2. Fehlen Angaben zu Training, Speicherung, Unterauftragnehmern oder Kontrolle vor Versand, frage nach dem konkreten Vertragsanhang oder der tatsächlichen Einstellung. Ein fehlender Nachweis ist keine Freigabe zur Dateneingabe; unabhängige Regeln können dennoch ausgearbeitet werden.
-3. Nach Eingang aktualisiere Datenregel, Kontrollschritt und betroffene Einweisungsmaßnahme. Bei einem neuen entscheidenden Widerspruch gezielt weiterfragen, ohne die gesamte Kanzleianalyse neu zu beginnen.
-4. Schreibe den bestellten Richtlinienabschnitt fertig und begründe Änderungen knapp in einer getrennten Notiz. Einführung und Versand bleiben gesondert freizugeben; eine offene Freigabe verhindert nicht die Fertigstellung des Entwurfs.
+Paragrafen 43 und 43a Absätze 2 bis 4 BRAO für Gewissenhaftigkeit, Verschwiegenheit, Sachlichkeit und Interessenkollision konkret umsetzen. Paragraf 43e BRAO und Paragraf 203 StGB für den Dienstleisterzugriff getrennt vom Datenschutz prüfen. Ein No-Training-Schalter beseitigt weder Supportzugriff noch sonstige Offenlegung. Mandatsbezogene Einwilligung nach Paragraf 43e Absatz 5 BRAO nicht durch eine allgemeine Personalrichtlinie ersetzen.
 
-### 1.2. Ausgabeformate für schnelle Lieferung
+AG Köln, Beschluss vom 02.07.2025, 312 F 130/25, Randnummern 23 und 24 ([amtlicher Volltext](https://nrwe.justiz.nrw.de/ag_koeln/j2025/312_F_130_25_Beschluss_20250702.html)): Das Gericht beanstandete erfundene beziehungsweise falsch zugeordnete Fundstellen und warnte unter Bezug auf Paragraf 43a Absatz 3 BRAO vor wissentlich falschen Rechtsbehauptungen. Für Rechercheentwürfe daher Originalfundstelle und behauptete Aussage vor externer Verwendung vergleichen; Fehler korrigieren. Der familiengerichtliche Beschluss ist keine disziplinarrechtliche Verurteilung, kein allgemeines KI-Verbot und keine Auslegung des neuen Artikels 4. KI-Erzeugung wurde vom Gericht als offenbar angenommen, nicht technisch bewiesen.
 
-| Bedarf | Sofortausgabe | Qualitätsgriff |
-| --- | --- | --- |
-| Ungeklärte Datenoffenlegung oder Veröffentlichung | Gezielte Nachforderung und sichere Ersatzregel | Betroffene Nutzung nicht freigeben; unabhängige Richtlinienabschnitte fortführen |
-| Tragendes Arbeitsprodukt | Ausformulierter Richtlinienabschnitt mit erlaubter Tätigkeit, Datenkreis, Kontrolle und Verantwortung | Änderungen bleiben auf Ausgangsfassung und tatsächlichen Ablauf zurückführbar |
-| Prüfeinstieg | Prüfung der betroffenen Nutzungsregel | Welche Tätigkeit soll unter welchen Einstellungen und Kontrollen erlaubt sein? |
-| Datei- und Fundstellenkontrolle | Versions-, Anlagen- und Nachweismatrix | Verantwortlicher Bearbeiter für Annahme, Vollmacht, Frist, Freigabe und Versandnachweis; Mandant für Identitäts-, Sachverhalts- und Entscheidungsangaben |
-| Ausgabeseite | Richtlinienentwurf und knapper Änderungsvermerk | Nur notwendige Einweisungsmaßnahmen und offene Freigabepunkte ergänzen |
-| Zwischenstation 1 | geprüfter Zwischenstand mit Versionsbezug | Fristen und Zuständigkeit: Eingang, Bekanntgabe, Fristart, Fristende, Kalender, Verantwortlicher und Vertretung doppelt dokumentieren |
-| Zwischenstation 2 | geprüfter Zwischenstand mit Versionsbezug | Bearbeitung steuern: Arbeitsauftrag, Dokumentstand, Freigabe, Vieraugenkontrolle, Budget, offene Punkte und Mandantenentscheidung führen |
-| Empfängerfassung | vollständiges, lesbares und technisch geprüftes Dokument | Dateiname, Anlagen, Signatur, Lesbarkeit und Übergabenachweis kontrollieren |
+Formuliere beispielsweise: „Der verantwortliche Anwalt prüft jede tragende Fundstelle im zugänglichen Original auf Existenz, Aussage und Anwendbarkeit. Nicht bestätigte Zitate werden nicht als Nachweis übernommen. Er entscheidet über die fachliche Endfassung.“ Diese organisatorische Regel ausdrücklich als Kanzleistandard, nicht als wörtlichen gerichtlichen Rechtssatz verwenden. Quellenstatus gehört in die Arbeitsnotiz, nicht als interner Prüfbegriff in den Mandantenbrief.
 
-### 1.3. Klärungen für die konkrete Nutzungsregel
+## 1.3. Regeln entlang des Mandatsablaufs
 
-1. Werte die vorhandene Nutzungsregel und den zugehörigen Ablauf zuerst aus; frage erst danach gezielt nach.
-2. Ungeklärte Offenlegung, Speicherung oder Veröffentlichung hat Vorrang vor einer Freigabe dieser Nutzung.
-3. Datei- und Fundstellenlage vor Freigabe ordnen: Verantwortlicher Bearbeiter für Annahme, Vollmacht, Frist, Freigabe und Versandnachweis; Mandant für Identitäts-, Sachverhalts- und Entscheidungsangaben.
-4. Bei mehreren Wegen die zwei stärksten Varianten mit Entscheidungskriterium zeigen.
-5. Nur die Punkte nachfragen, die das nächste Arbeitsprodukt ändern.
+Bei Mandatsannahme darf das System Beteiligte und Unterlagen zuordnen; Annahme, Konfliktentscheidung und Identifizierungsprüfung bleiben beim zuständigen Bearbeiter. GwG Paragrafen 10 und 11 nicht für jedes Mandat ungeprüft voraussetzen. Die Richtlinie bestimmt Zuständigkeit und zulässige Dateneingabe, nicht die Annahme eines fiktiven Mandanten.
 
-### 1.4. Regeln für den Kanzleialltag formulieren
+Bei Fristen fristauslösendes Dokument, Verfahrensordnung, Rechenweg, Kalender und unabhängige Kontrolle festlegen. Ein generierter Termin ersetzt keine Berechnung aus dem Zustellungsnachweis. Bei Widerspruch den konkreten Termin rechtzeitig dem verantwortlichen Anwalt vorlegen; andere Entwurfsarbeit fortsetzen.
 
-Formuliere, wer welche Daten für welche Tätigkeit eingeben darf und wer das Ergebnis vor externer Verwendung prüft. Eine Nachforderung benennt den fehlenden Vertragsanhang oder die unbekannte Einstellung, ohne daraus eine tatsächlich nicht belegte Nutzung abzuleiten. Prüfnotizen und Quellenstatus getrennt führen; im Richtlinientext stehen verständliche Handlungsregeln.
+Bei Entwürfen Aktenquelle, maßgebliche Fassung und Beleg für Tatsachen festhalten. Zuständigen Anwalt für Prüfung von Sachverhalt, Anspruch, Gegenargument und Antrag bestimmen. Keine ungefragte Kette aus Mandatsblatt, Klage, Rechnung und Abschlussbericht auslösen. Honorarvereinbarung, tatsächliche Tätigkeit und Abrechnung nach Paragrafen 3a und 10 RVG bleiben vom erzeugten Zeitvorschlag getrennt.
 
-## 2. Freigabegrenzen
+Für Versand richtige Datei, Anlagen, Adressat, erforderliche Signatur und Freigabe verlangen. Paragraf 31a BRAO ersetzt nicht die jeweilige elektronische Einreichungsvorschrift, etwa Paragraf 130a ZPO. Automatisches Erstellen, Freigeben, Versenden und bestätigter gerichtlicher Eingang sind verschiedene Zustände. Keine autonome Außenhandlung durch die Richtlinie pauschal autorisieren.
 
-Die folgenden Punkte betreffen die Freigabe der jeweiligen Nutzung oder Handlung. Eine Richtlinienänderung setzt nicht ungefragt die Eröffnung eines Einzelmandats voraus; die übrigen Abschnitte bleiben bearbeitbar.
+Beim Abschluss Zugriffe, Rückgabe, Aufbewahrung, Löschung und offene Wiedervorlage regeln. Paragraf 50 BRAO sowie Paragraf 257 HGB und Paragraf 147 AO nach Dokument und Anwendbarkeit prüfen. Kein Werkzeug darf allein wegen eines Abschlussstatus Belege löschen oder Fremdgeld auskehren.
 
-- Interessenkollision, Identität, Vollmacht oder Mandatsannahme ist offen.
-- Eine Frist läuft, ohne dass Verantwortlicher, Vertretung und Übermittlungsnachweis feststehen.
-- Ein Dokument soll versandt werden, obwohl Freigabe, Signatur oder Anlagenvollständigkeit fehlt.
-- Wenn Empfänger, maßgebliche Fassung, Freigabe, Anlagenbestand oder Ausgabeformat offen sind, wird zuerst eine priorisierte Fehlteilliste erzeugt.
-- Einen Richtlinienentwurf nach Inhalts-, Lesbarkeits- und Dateikontrolle als fertig bezeichnen; verbindliche Einführung und tatsächliche Übermittlung getrennt dokumentieren. Keine erfolgte Übergabe behaupten, wenn nur der Text erstellt wurde.
+## 1.4. Regelungsbedarf auswählen
 
-## 3. Werkstattfluss
+Schreibe zuerst den angefragten Abschnitt. Ordne jeder Regel Tätigkeit, Werkzeug, Daten, Prüfung und verantwortliche Person zu. Ein Gesamtinventar, Schulungsplan oder Vertragsentwurf ist nur beizufügen, soweit bestellt oder für die konkrete Regel notwendig. Fehlende Einführungsgenehmigung verhindert nicht den fertigen Richtlinienentwurf; eine ungeklärte Datenoffenlegung verhindert nur die Freigabe dieser Nutzung.
 
-### 3.1. Systemeinsatz bei der Mandatsannahme
+## 1.5. Richtlinienänderung mit Stand September 2026
 
-Lege für den Systemeinsatz bei der Mandatsannahme fest, wie Beteiligte, Gegenstand, Gegner, Interessenkontrolle, Identität, Vollmacht, Umfang und Vergütung geprüft werden. Verwende vorhandene Abläufe und benenne die menschliche Zuständigkeit. Ergebnis ist die angefragte Nutzungsregel, nicht ein neues Mandatsblatt für einen fiktiven Mandanten.
-
-### 3.2. Fristen und Zuständigkeit
-
-Produktionsgriff Fristen und Zuständigkeit: Eingang, Bekanntgabe, Fristart, Fristende, Kalender, Verantwortlicher und Vertretung doppelt dokumentieren. Ordne jedem Punkt Eingangsdatei, maßgebliche Fassung, Fundstelle, Format, Freigabe, Verantwortlichen und Übergabe zu. Lieferstück: geprüfte Datei oder priorisierte Fehlteilliste mit Termin.
-
-### 3.3. Bearbeitung steuern
-
-Produktionsgriff Bearbeitung steuern: Arbeitsauftrag, Dokumentstand, Freigabe, Vieraugenkontrolle, Budget, offene Punkte und Mandantenentscheidung führen. Ordne jedem Punkt Eingangsdatei, maßgebliche Fassung, Fundstelle, Format, Freigabe, Verantwortlichen und Übergabe zu. Lieferstück: geprüfte Datei oder priorisierte Fehlteilliste mit Termin.
-
-### 3.4. Versand und Nachweis
-
-Produktionsgriff Versand und Nachweis: Signatur, Dateiformat, Anlagen, Übermittlungsweg, Eingangsbestätigung und Fehlerreaktion prüfen. Ordne jedem Punkt Eingangsdatei, maßgebliche Fassung, Fundstelle, Format, Freigabe, Verantwortlichen und Übergabe zu. Lieferstück: geprüftes Ausgabe- oder Übergabepaket samt Öffnungsprobe.
-
-### 3.5. Nutzung beim Mandatsabschluss
-
-Regle den Systemeinsatz bei Ergebnisdokumentation, offenen Vollstreckungsfragen, Rechnung, Fremdgeld, Rückgabe, Aufbewahrung und Wiedervorlage, soweit beauftragt. Ordne Zugriff, Kontrolle und Verantwortlichkeit dem tatsächlichen Ablauf zu. Schließe die betreffende Richtlinienpassage ab, ohne selbst ein Mandat abzuschließen oder Unterlagen zu löschen.
-
-## 4. Produktions- und Übergabekarte
-
-| Ebene | Fallfrage | Anker | Sofortausgabe |
-| --- | --- | --- | --- |
-| Eingang | Berufsrecht-Bausteine | BRAO Paragraf 43a Absatz 2 und Absatz 4 | Dokumentenregister mit maßgeblicher Fassung |
-| Form und Technik | Dateityp, Lesbarkeit, Benennung, Signatur und Ausgabeweg | BRAO Paragraf 43e | Prüfprotokoll mit konkreter Korrektur |
-| Vollständigkeit | Datenschutz-Grundverordnung-Compliance-Bausteine | Verantwortlicher Bearbeiter für Annahme, Vollmacht, Frist, Freigabe und Versandnachweis; Mandant für Identitäts-, Sachverhalts- und Entscheidungsangaben | Anlagen- und Fehlteilliste mit Verantwortlichem |
-| Freigabe und Übergabe | Mandatsblatt, Fristenkontrolle, Arbeitsauftrag, Versandprotokoll, Budgetbericht, Rechnung oder Abschlussblatt | Öffnungsprobe, Freigabe und Übergabenachweis | fertiges Exportpaket oder Übergabevermerk |
-
-## 5. Anforderungen, Qualitätsmerkmale, Nachweis und Ausgabe
-
-| Anforderung | Qualitätsmerkmal | Nachweis | Ausgabe |
-| --- | --- | --- | --- |
-| BRAO Paragraf 43a Absatz 2 und Absatz 4 | Verschwiegenheit und Verbot widerstreitender Interessen | Verantwortlicher Bearbeiter für Annahme, Vollmacht, Frist, Freigabe und Versandnachweis; Mandant für Identitäts-, Sachverhalts- und Entscheidungsangaben | Mandatsblatt, Fristenkontrolle, Arbeitsauftrag, Versandprotokoll, Budgetbericht, Rechnung oder Abschlussblatt |
-| BRAO Paragraf 43e | Inanspruchnahme von Dienstleistungen und vertragliche Sicherung der Verschwiegenheit | Verantwortlicher Bearbeiter für Annahme, Vollmacht, Frist, Freigabe und Versandnachweis; Mandant für Identitäts-, Sachverhalts- und Entscheidungsangaben | Mandatsblatt, Fristenkontrolle, Arbeitsauftrag, Versandprotokoll, Budgetbericht, Rechnung oder Abschlussblatt |
-| BRAO Paragraf 31a sowie ZPO Paragraf 130a | besonderes elektronisches Anwaltspostfach und elektronische Dokumente | Verantwortlicher Bearbeiter für Annahme, Vollmacht, Frist, Freigabe und Versandnachweis; Mandant für Identitäts-, Sachverhalts- und Entscheidungsangaben | Mandatsblatt, Fristenkontrolle, Arbeitsauftrag, Versandprotokoll, Budgetbericht, Rechnung oder Abschlussblatt |
-| GwG Paragraf 10 und Paragraf 11 | allgemeine Sorgfaltspflichten und Identifizierung bei verpflichteten Kanzleien | Verantwortlicher Bearbeiter für Annahme, Vollmacht, Frist, Freigabe und Versandnachweis; Mandant für Identitäts-, Sachverhalts- und Entscheidungsangaben | Mandatsblatt, Fristenkontrolle, Arbeitsauftrag, Versandprotokoll, Budgetbericht, Rechnung oder Abschlussblatt |
-| RVG Paragraf 3a und Paragraf 10 | Vergütungsvereinbarung und Berechnung | Verantwortlicher Bearbeiter für Annahme, Vollmacht, Frist, Freigabe und Versandnachweis; Mandant für Identitäts-, Sachverhalts- und Entscheidungsangaben | Mandatsblatt, Fristenkontrolle, Arbeitsauftrag, Versandprotokoll, Budgetbericht, Rechnung oder Abschlussblatt |
-| HGB Paragraf 257 und AO Paragraf 147 | handels- und steuerrechtliche Aufbewahrung, soweit auf den Kanzleivorgang anwendbar | Verantwortlicher Bearbeiter für Annahme, Vollmacht, Frist, Freigabe und Versandnachweis; Mandant für Identitäts-, Sachverhalts- und Entscheidungsangaben | Mandatsblatt, Fristenkontrolle, Arbeitsauftrag, Versandprotokoll, Budgetbericht, Rechnung oder Abschlussblatt |
-
-## 6. Vorgaben, Quellenstatus und technische Folge
-
-- Rechtliche oder technische Vorgaben nur mit gesichertem Geltungsstand verwenden; fehlt der Beleg, wird die betroffene Produktionsentscheidung bis zur Prüfung markiert.
-- Vorgaben auf den bestellten Richtlinienabschnitt beziehen; Mandatsblatt, Fristenkontrolle, Arbeitsauftrag, Versandprotokoll, Budgetbericht, Rechnung und Abschlussblatt sind mögliche geregelte Abläufe, keine obligatorischen zusätzlichen Ausgaben.
-- Status immer sichtbar machen: Eingangsdatei, Arbeitsfassung, geprüfte Vorgabe, freigegeben, exportiert, übermittelt oder offen.
-
-## 7. Verbindliche Form- und Verfahrensvorgaben
-
-- BRAO Paragraf 43a Absatz 2 und Absatz 4: Verschwiegenheit und Verbot widerstreitender Interessen.
-- BRAO Paragraf 43e: Inanspruchnahme von Dienstleistungen und vertragliche Sicherung der Verschwiegenheit.
-- BRAO Paragraf 31a sowie ZPO Paragraf 130a: besonderes elektronisches Anwaltspostfach und elektronische Dokumente.
-- GwG Paragraf 10 und Paragraf 11: allgemeine Sorgfaltspflichten und Identifizierung bei verpflichteten Kanzleien.
-- RVG Paragraf 3a und Paragraf 10: Vergütungsvereinbarung und Berechnung.
-- HGB Paragraf 257 und AO Paragraf 147: handels- und steuerrechtliche Aufbewahrung, soweit auf den Kanzleivorgang anwendbar.
-
-## 8. Leitentscheidungen und tragende Quellen
-
-- Fehlt eine gesicherte Vorgabe, wird ihr Prüfbedarf mit betroffener Datei, Ausgabeentscheidung und Freigabefolge markiert.
-
-## 9. Prüfraster
-
-1. Ist das Mandat wirksam angenommen und der Umfang eindeutig dokumentiert.
-2. Sind Interessenkontrolle, Identität, Vollmacht und verantwortlicher Bearbeiter belegt.
-3. Welche Frist oder Freigabe ist der nächste nicht reversible Schritt.
-4. Ist der Versand technisch und rechtlich vollständig nachgewiesen.
-5. Sind Budget, Rechnung, offene Aufgaben und Mandatsabschluss konsistent.
-6. Welche Datei, Anlage, Freigabe oder technische Prüfung fehlt noch für eine belastbare Ausgabe.
-7. Welches konkrete Export-, Freigabe- oder Übergabeprodukt beseitigt den nächsten Engpass.
-
-## 10. Produktions- und Freigabegerüst
-
-10.1. Produktionsziel: Benenne Empfänger, Dokumenttyp, maßgebliche Fassung, Freigabestatus und Ausgabeformat.
-10.2. Verbindliche Vorgabe: Ordne Form, Signatur, Dateityp, Benennung oder Übermittlungsweg zu; erste Anker sind BRAO Paragraf 43a Absatz 2 und Absatz 4; BRAO Paragraf 43e.
-10.3. Kritischer Arbeitspunkt: Bearbeite zuerst Berufsrecht-Bausteine; Inhalt und technische Umsetzung werden gemeinsam geprüft.
-10.4. Fundstelle: Nenne Eingangsdatei, Seite, Absatz, Zelle, Nachricht oder Anlage; im Bereich Kanzleibetrieb und Mandatssteuerung sind dies regelmäßig die Eingangsdateien, maßgeblichen Fassungen, Anlagen und Übergabevorgaben.
-10.5. Nachweis: Verantwortlicher Bearbeiter für Annahme, Vollmacht, Frist, Freigabe und Versandnachweis; Mandant für Identitäts-, Sachverhalts- und Entscheidungsangaben. Jede Änderung bleibt zur Ausgangsfassung rückführbar.
-10.6. Fehlerbild: Prüfe die stärkste Übergabe- oder Freigabestörung; sie liegt typischerweise bei Interessenkontrolle, Identität, Vollmacht und verantwortlicher Bearbeiter belegt.
-10.7. Korrektur: Behebe Inhalt, Format, Anlagenbezug und Benennung gemeinsam und dokumentiere, welche Eingangsdatei wie verändert wurde.
-10.8. Ergebnis: Liefere den überarbeiteten Richtlinientext mit kurzen Änderungsgründen. Bei einer Regel zur Mandatsaufnahme Beteiligte, Umfang, Vollmacht und Interessenkontrolle berücksichtigen; bei einer Versandregel Fassung, Signatur, Anlagen, Empfänger, Kanal und Fehlerreaktion. Eine Öffnungsprobe betrifft die erzeugte Datei, ein Übermittlungsnachweis erst eine tatsächlich ausgeführte Übermittlung.
-10.9. Status: Ordne jede Datei als Eingang, Arbeitsfassung, freigegeben, exportiert oder übermittelt ein; rechtliche Vorgaben werden nur mit gesichertem Stand verwendet: erst nach verifizierter Recherche einzusetzen.
-
-## 11. Outputvarianten und Empfängerwunsch
-
-| Wunsch | Ausgabe | Mindestinhalt |
-| --- | --- | --- |
-| Bestand ordnen | Dokumentenregister | Datei, Fassung, Datum, Autor, Signatur, Dublette und Lesbarkeit |
-| Fehler finden | Abweichungs- und Fehlteilliste | Fundstelle, Auswirkung, Korrektur, Verantwortlicher und Termin |
-| Fassung herstellen | Freigabedokument | vollständiger Text, Anlagenbezug, Empfänger, Format und Signaturbedarf |
-| Paket bilden | Export- oder Versandmappe | sprechende Dateinamen, Reihenfolge, Konvertierung und Öffnungsprobe |
-| Übergabe sichern | Übergabevermerk | Prüfschritte, Freigabe, Übermittlungsnachweis, Restpunkt und Wiedervorlage |
-
-## 12. Arbeitsweise
-
-Verarbeite vorhandene Fassungen und Vertragsunterlagen vor Rückfragen. Frage auch bei vorhandenem Material gezielt nach entscheidenden fehlenden Einstellungen oder Zuständigkeiten. Nach der Antwort die betroffene Regel aktualisieren; bei neu erkannten entscheidenden Lücken eine weitere kurze Runde zulassen. Formuliere natürliche Handlungsanweisungen und nutze Tabellen nur für tatsächliche Tätigkeits-, Daten- oder Zuständigkeitsvergleiche.
-
-Selbstcheck vor Ausgabe: Sind Empfänger, maßgebliche Fassung, Freigabe, Ausgabeformat und Übergabetermin benannt? Stimmen Inhalt, Dateiname, Anlagenfolge, Signaturbedarf und Exportformat überein? Wurde jede Datei geöffnet und die Übergabe protokolliert?
-
-## 13. Qualitätskontrolle und Abschluss
-
-Prüfe, ob Erlaubnisse, Verbote, Datenkreise und Kontrollpflichten im Richtlinientext zusammenpassen. Gleiche neue Regeln mit den unveränderten Abschnitten ab und kontrolliere eine erzeugte Datei auf Lesbarkeit und Benennung. Liefere die bestellte Fassung unter dem gewünschten Dateinamen; offene Freigabebedingungen getrennt nennen, statt nur weitere Redaktionsschritte aufzulisten.
-
-## 14. Musterbausteine
-
-- Mandatsblatt: Beteiligte, Gegner, Gegenstand, Umfang, Vollmacht, Interessenkontrolle, Frist, Bearbeiter, Budget und nächster Schritt.
-- Versandkontrolle: Dokument, Fassung, Signatur, Anlagen, Empfänger, Kanal, Zeitpunkt, Bestätigung und Fehlerprotokoll.
-- Abschlussblatt: Ergebnis, Restpunkte, Vollstreckung, Rechnung, Fremdgeld, Rückgabe, Aufbewahrung und Wiedervorlage.
-
-## 15. Richtlinienänderung mit Stand September 2026
-
-### 15.1. Kompetenzklausel ohne Überregulierung
+### 1.5.1. Kompetenzklausel ohne Überregulierung
 
 Verordnung (EU) 2026/1744 gilt seit 27. Juli 2026. Artikel 4 verlangt Maßnahmen zur Kompetenzförderung, keine Garantie eines bestimmten individuellen Niveaus. Die Pflicht ist nicht entfallen. Bestehende Einweisungen nach Tätigkeit prüfen: Recherche, Schriftsatzentwurf, Mandantenantwort, Personalentscheidung oder Veröffentlichung. Nur die konkrete Lücke nachschulen. Weder jährlicher Pflichtkurs noch gesetzliches Zertifikat oder feste Stundenanzahl erfinden. Artikel 26 Absatz 2 bei menschlicher Hochrisikoaufsicht zusätzlich auf Kompetenz, Ausbildung, Befugnis und Unterstützung prüfen.
 
 Formuliere eine passende Kanzleiregel in vollständigen Sätzen: Wer eine Funktion nutzt, erhält die dafür benötigte Arbeitsanweisung und einen erreichbaren Ansprechpartner; vor externer Verwendung prüft der zuständige Anwalt die tragenden Tatsachen, Normen, Fundstellen und Empfänger. Diese betriebliche Regel nicht als wörtlichen Gesetzestext ausgeben.
 
-### 15.2. Datenregel und Transparenz auseinanderhalten
+### 1.5.2. Datenregel und Transparenz auseinanderhalten
 
 Artikel 4a ersetzt Artikel 10 Absatz 5 und betrifft sensible Daten für Bias-Korrektur. Zutreffenden Absatz und zusätzliche Voraussetzungen feststellen: strikte Notwendigkeit, fehlende gleich wirksame Alternativen, technische Zweckbindung, Sicherheit, dokumentierte Zugriffe, keine Weitergabe und früheste Löschung. Gründe im Verzeichnis dokumentieren. Keine Erlaubnis zum Training auf vollständigen Mandatsakten und keine pauschale Lockerung des Berufsrechts daraus ableiten.
 
-Deepfakes gehören zu Artikel 50 Absatz 4. Technische Anbieterkennzeichnung nach Absatz 2 ist getrennt. Grundsätzlich gilt Artikel 50 seit 2. August 2026. Nur Altanbieter vor diesem Datum vermarkteter Systeme erhalten nach Artikel 111 Absatz 4 bis 2. Dezember 2026 Zeit für Absatz 2; die veröffentlichende Kanzlei ist nicht automatisch befreit. Redaktionelle Kontrolle begründet keine allgemeine Videoausnahme. Neue Inhaltsverbote nach Artikel 5 Buchstaben ba und bb ab 2. Dezember 2026 sind keine bloßen Kennzeichnungspflichten.
+Deepfakes gehören zu Artikel 50 Absatz 4. Technische Anbieterkennzeichnung nach Absatz 2 ist getrennt. Grundsätzlich gilt Artikel 50 seit 2. August 2026. Nur Altanbieter vor diesem Datum vermarkteter Systeme erhalten nach Artikel 111 Absatz 4 bis 2. Dezember 2026 Zeit für Absatz 2; die veröffentlichende Kanzlei ist nicht automatisch befreit. Redaktionelle Kontrolle begründet keine allgemeine Videoausnahme. Neue Inhaltsverbote nach Artikel 5 Absatz 1 Unterabsatz 1 Buchstaben ba und bb ab 2. Dezember 2026 sind keine bloßen Kennzeichnungspflichten.
 
-### 15.3. Termine und Eskalation
+### 1.5.3. Termine und Eskalation
 
 Artikel 113 verschiebt Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5: Anhang III ab 2. Dezember 2027, Anhang I ab 2. August 2028. Artikel 111 zum Bestand separat prüfen. Datenschutz, anwaltliche Sorgfalt und bisherige Verbote gelten weiter.
 
 KI-MIG seit 29. Juli 2026: Bundesnetzagentur als Auffang-Systemaufsicht, Paragraf 2 mit sektoralen und Länder-Ausnahmen. Berufs- und Datenschutzaufsicht bleiben eigenständig. Im Fehlversand- oder Datenpannenfall Artikel 33 unverzüglich und möglichst binnen 72 Stunden prüfen. COM(2025) 837, Verfahren 2025/0360(COD), ist noch keine geltende 96-Stunden-Regel.
 
-### 15.4. Änderungspaket liefern
+### 1.5.4. Änderungspaket liefern
 
 Gib die überarbeitete Richtlinie, einen kurzen Änderungsvermerk und nur die tatsächlich erforderlichen Einweisungsmaßnahmen aus. Bei einem bestehenden freigegebenen Absatz nur die betroffene Normfolge ändern. Keine Endlosschleife aus Vollinventur, erneuter Befragung und abermaliger Freigabevorbereitung. Verbindliche Einführung und Versand bleiben gesonderte Entscheidungen.
 
 Quellen: [Änderungsverordnung](https://eur-lex.europa.eu/eli/reg/2026/1744/oj?locale=de), [KI-MIG](https://www.gesetze-im-internet.de/ki-mig/BJNR0DF0B0026.html), [Datenschutz-Reformverfahren](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025%2F0360%28COD%29).
 
-<!-- BEGIN fachrouten-werkstatt (autogen) -->
-## 16. Fachspezifische Praxisrouten
+## 1.6. Besondere Regelungsfelder
 
-Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die sachnächste Route, liefere deren ersten verwertbaren Baustein sofort und vertiefe nur die Punkte, die das Ergebnis tatsächlich ändern.
+### 1.6.1. Berufsrecht
 
-### 16.1. Berufsrecht-Bausteine
+Regle Geheimnisschutz und fachliche Eigenverantwortung anhand der konkreten Datenwege nach Abschnitt 1.2. Assistenz darf vorbereiten, nicht eigenständig verbindlichen Rechtsrat versenden. Für den Syndikus Stellung und Mandatsbezug nach Paragrafen 46 ff. BRAO gesondert prüfen; keine allgemeine Geheimhaltung gegenüber dem eigenen Arbeitgeber erfinden. Unbestimmte Hinweise auf ein OLG ohne Aktenzeichen nicht als Haftungsentscheidung übernehmen.
 
-Bearbeitungsauftrag: Bearbeite Berufsrecht-Bausteine: mandat, Interessenkontrolle, Vollmacht, Frist, Verantwortlicher, Freigabe, Versandnachweis, Budget und Wiedervorlage sichern. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
-Prüfschritte: Berufsrechtliche Textbausteine für System-Nutzungsrichtlinien in Kanzleien: Anwendungsfall Kanzlei erstellt Systemrichtlinie und braucht präzise Bausteine zu Verschwiegenheit Sorgfaltspflicht und Eigenverantwortung; Paragraf 43 BRAO Gewissenhaftigkeit, Paragraf 43a Absatz 2 BRAO Verschwiegenheit, Paragraf 43e BRAO IT-Dienstleister, Paragraf 203 StGB Berufsgeheimnis, BRAK-Hinweise 12/2024 DAV-Stellungnahme 32/2025; Prüfraster Verschwiegenheitspflicht beim System-Einsatz, Haftung für System-Output OLG Koblenz, eigenverantwortliche Endkontrolle; Output Bausteine-Sammlung mit konkreten Formulierungen für Kanzlei-Richtlinie; Abgrenzung zu Datenschutz-Grundverordnung-Compliance-Bausteine und zu Musterklauseln-IT.
-Lieferstück: geprüftes Übergabepaket zu Berufsrecht-Bausteine mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe.
+### 1.6.2. Datenschutz
 
-### 16.2. Datenschutz-Grundverordnung-Compliance-Bausteine
+Bestimme Zwecke und Rechtsgrundlagen nach Artikeln 5 und 6 DSGVO, bei besonderen Kategorien zusätzlich Artikel 9. Prüfe Rollen und Auftragsverarbeitung nach Artikel 28, Sicherheit nach Artikel 32 und Drittlandzugriff nach Artikeln 44 ff. getrennt. Formuliere die erlaubten Datenklassen und Löschfristen; vollständige Mandatsakten dürfen nicht allein aus Bequemlichkeit hochgeladen werden. Nach neuem Vertrag nur betroffene Regeln ändern.
 
-Bearbeitungsauftrag: Bearbeite Datenschutz-Grundverordnung-Compliance-Bausteine: mandat, Interessenkontrolle, Vollmacht, Frist, Verantwortlicher, Freigabe, Versandnachweis, Budget und Wiedervorlage sichern. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
-Prüfschritte: Datenschutz-Grundverordnung-Textbausteine für System-Nutzungsrichtlinien in Kanzleien: Anwendungsfall Kanzlei erstellt oder aktualisiert Systemrichtlinie und benötigt prazise datenschutzrechtliche Formulierungen; Artikel 2 Absatz 1 Datenschutz-Grundverordnung Anwendungsbereich, Artikel 6 Datenschutz-Grundverordnung Rechtsgrundlage, Artikel 9 Datenschutz-Grundverordnung besondere Kategorien, Artikel 28 Datenschutz-Grundverordnung AVV; Prüfraster Datenminimierung, Zweckbindung, Drittlandtransfer, Anonymisierung, AVV-Pflicht, Löschkonzept; Output Datenschutz-Grundverordnung-Bausteine-Sammlung anpassbar für Kanzlei-Profil mit Normreferenzen; Abgrenzung zu Auftragsverarbeitungsvertrag-Prüfen und zu Anonymisierung-Pseudonymisierung.
-Lieferstück: Kontrollvermerk zu Datenschutz-Grundverordnung-Compliance-Bausteine mit Pflicht, Ist-Nachweis, Abweichung, Risiko, Verantwortlichem, Frist und Freigabe.
+### 1.6.3. Verzerrungen und Diskriminierung
 
-### 16.3. Bias und Diskriminierung Prüfung
+Bei Bewerberbewertung Merkmale, Datenbasis, Auswahlkriterien und tatsächlichen menschlichen Entscheidungsspielraum prüfen. Paragrafen 1 und 7 AGG betreffen Beschäftigung, Paragrafen 19 und 20 nur ihren zivilrechtlichen Anwendungsbereich. Artikel 9 DSGVO enthält Ausnahmen vom Verarbeitungsverbot, aber keinen pauschalen Freibrief für sensible Merkmale. Eine konkrete Übung mit zulässigen Daten soll fehlerhafte Zuordnungen erkennbar machen; keine pauschale Überwachung der Mitarbeiter daraus ableiten.
 
-Bearbeitungsauftrag: Kanzleien müssen ihre Mitarbeitern befähigen, Bias zu erkennen und zu korrigieren. Paragrafen 1 und 7 AGG im Beschäftigungskontext, Paragrafen 19 und 20 AGG im jeweils erfassten zivilrechtlichen Anwendungsbereich prüfen. Artikel 9 der Datenschutz-Grundverordnung regelt ein Verarbeitungsverbot mit Ausnahmen, kein pauschales Verbot jeder Entscheidung unter Berücksichtigung sensibler Daten.
-Prüfschritte: System-Systeme werden auf Basis großer Textmengen trainiert, die Verzerrungen und gesellschaftliche Vorurteile enthalten können; Diese "Bias" können sich in den Outputs der System-Systeme widerspiegeln und zu Diskriminierungen führen — besonders kritisch bei Personalentscheidungen, aber auch bei der Mandantenberatung zu diskriminierungsrechtlichen Fragen.
-Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
+### 1.6.4. Veröffentlichungen
 
-### 16.4. Kennzeichnungspflichten für Veröffentlichungen
+Unterscheide Blogtext über öffentliche Belange, private Mandantenkommunikation, synthetisches Video und Chatbot. Artikel 50 Absatz 4 der KI-Verordnung nicht auf jede Textbearbeitung anwenden. Die dortige Ausnahme für menschliche redaktionelle Kontrolle eines Textes ist keine allgemeine Videoausnahme. Kennzeichnung, Urheberrecht und berufsrechtliche Richtigkeit separat prüfen; liefere die angefragte Veröffentlichungsregel, kein obligatorisches Versandpaket.
 
-Bearbeitungsauftrag: Kennzeichnungspflichten für System-generierte Inhalte in Kanzlei-Veröffentlichungen prüfen: Anwendungsfall Kanzlei veröffentlicht System-unterstützte Artikel Blog-Posts Pressemitteilungen oder Mandantenbriefe und muss Kennzeichnungspflichten einhalten. Artikel 50 Absatz 4 Regulierungsrahmen Kennzeichnungspflicht, Paragraf 43 BRAO Sorgfaltspflicht, UrhG Urheberrecht System-Content. Prüfraster Anwendungsbereich Artikel 50 Absatz 4, redaktionelle Verantwortung als Ausnahme, Best-Practice-Hinweise transparente Kommunikation.
-Lieferstück: geprüftes Übergabepaket zu Kennzeichnungspflichten für Veröffentlichungen mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe.
+### 1.6.5. Aktualisierung
 
-### 16.5. Richtlinien-Update-Zyklus
+Lege Verantwortlichen und konkrete Änderungsanlässe fest: neue Funktion, Vertragsänderung, Datenvorfall, festgestellter Quellenfehler oder geänderte Rechtslage. Artikel 4 der KI-Verordnung und Artikel 5 Absatz 2 DSGVO nicht als gesetzlich bestimmte halbjährliche Kurs- oder Updatefrist ausgeben. Bei unverändertem Teilbestand keine vollständige Neuerhebung; Änderungen mit Datum und betroffener Regel dokumentieren.
 
-Bearbeitungsauftrag: Dieser Arbeitsgang legt einen strukturierten Update-Zyklus fest, der sicherstellt, dass die Richtlinie stets aktuell bleibt. Paragraf 43 BRAO: Gewissenhaftigkeit umfasst die laufende Anpassung der Kanzlei-Compliance an neue Rechtsentwicklungen. BRAK-Hinweise 12/2024 und DAV-Stellungnahme 32/2025 werden fortgeschrieben.
-Prüfschritte: Eine System-Nutzungsrichtlinie ist kein statisches Dokument; Gleichzeitig entstehen neue Regulierungsebenen (Regulierungsrahmen-Durchführungsrechtsakte, nationale Umsetzungsgesetze) und neue Gerichtsentscheidungen; Dieser Skill legt einen strukturierten Update-Zyklus fest, der sicherstellt, dass die Richtlinie stets aktuell bleibt; Artikel 4 Regulierungsrahmen: System-Kompetenz muss auf dem aktuellen Stand gehalten werden — was eine aktuelle Richtlinie voraussetzt; Artikel 5 Absatz 2 Datenschutz-Grundverordnung: Rechenschaftspflicht erfordert, dass die getroffenen Maßnahmen dem aktuellen Stand entsprechen.
-Lieferstück: geprüftes Übergabepaket zu Richtlinien-Update-Zyklus mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe.
+### 1.6.6. Kanzleikontext
 
-### 16.6. Kanzlei-Kontext-Analyse
+Nutze bekannte Kanzleigröße, Rechtsgebiete, Mandantenstruktur und Infrastruktur. Kläre nur fehlende Unterschiede, die Datenfreigaben oder Kontrolle ändern, etwa Gesundheitsdaten im Sozialmandat gegenüber synthetischen Schulungsfällen. Kontextgerechte Kompetenzförderung nach Artikel 4 ist nicht identisch mit einer einheitlichen Prüfung für alle Mitarbeiter.
 
-Bearbeitungsauftrag: Bevor eine System-Nutzungsrichtlinie erstellt oder angepasst wird, muss der konkrete Kanzlei-Kontext systematisch erfasst werden. Paragraf 43 BRAO verpflichtet zur gewissenhaften Berufsausübung, was eine angemessene organisatorische Ausstattung einschließt. Für Syndikus-Anwälte gelten zusätzlich Paragrafen 46 ff.
-Prüfschritte: Größe, Rechtsgebiete, Mandantenstruktur und vorhandene IT-Infrastruktur bestimmen maßgeblich, welche Anforderungen an Datenschutz, Berufsrecht und Compliance gelten und wie streng die Richtlinie ausgestaltet sein muss; Artikel 4 Regulierungsrahmen verlangt kontextspezifische System-Kompetenz, also auf das konkrete Einsatzszenario zugeschnittene Kenntnisse; Für Syndikus-Anwälte gelten zusätzlich Paragrafen 46 und folgende BRAO mit besonderen Verschwiegenheitsregelungen gegenüber dem Arbeitgeber.
-Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
+### 1.6.7. IT-Vertragsklauseln
 
-### 16.7. Musterklauseln IT-Vertrag
+Formuliere konkrete Ersatzklauseln zu Verschwiegenheit, Trainingsausschluss, Inhaltsprotokollen, Löschung, Nachweisen, Unterauftragnehmern und Haftung. Paragraf 43e BRAO und Artikel 28 DSGVO haben unterschiedliche Anforderungen. Prüfe tatsächliche Bindung aller eingesetzten Dienstleister und Einstellungen; eine bloße Werbezusage ersetzt keine Vertragsregel. Begründe Änderungen knapp und benenne verhandelbare Alternativen, soweit erforderlich.
 
-Bearbeitungsauftrag: Musterklauseln für IT-Verträge mit System-Dienstleistern in Kanzleien: Anwendungsfall Kanzlei verhandelt Vertrag mit System-Anbieter und braucht Klauseln zu Verschwiegenheit Training-Opt-out Löschpflichten und Haftung. Paragraf 43e BRAO Verschwiegenheits-Erklärung, Artikel 28 Datenschutz-Grundverordnung AVV, Paragraf 203 StGB Berufsgeheimnis. Prüfraster Verschwiegenheits- und Paragraf 43e-Erklärung, Training-Opt-out, Löschpflichten, Auditrrechte, Haftungsregelung, Subprozessoren-Genehmigung.
-Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
+### 1.6.8. Arbeitsaufträge an das Werkzeug
 
-### 16.8. Prompting-Leitfaden
+Lehre anhand der tatsächlichen Aufgabe Ziel, Ausgabeform, zulässigen Kontext und ein geeignetes Beispiel. Verwende synthetische Daten für Übungen. Bei Recherche verlangen, dass unsichere Angaben erkennbar bleiben; die Aufforderung zu Quellenangaben ersetzt deren Prüfung nicht. Eine klare Anfrage darf nicht zur Offenlegung vertraulicher Daten verleiten. Gib eine ausformulierte Arbeitsanweisung statt einer weiteren allgemeinen Checkliste aus.
 
-Bearbeitungsauftrag: Bearbeite Prompting-Leitfaden: mandat, Interessenkontrolle, Vollmacht, Frist, Verantwortlicher, Freigabe, Versandnachweis, Budget und Wiedervorlage sichern. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
-Prüfschritte: Ein "Prompt" ist eine Instruktion an ein System-System — vergleichbar damit, wie man eine Kollegin oder einen Mitarbeiter um Unterstützung bittet; Effektives Prompten ist eine Kernkompetenz beim System-Einsatz in der juristischen Praxis; Dieser Skill vermittelt die Vier-Elemente-Methode und praxiserprobte Tipps für den juristischen Kontext; Artikel 4 Regulierungsrahmen: Pflicht zur System-Kompetenz — die Fähigkeit zum effektiven und sicheren Prompten ist eine zentrale Komponente dieser Kompetenz; Artikel 3 Nummer 56 Regulierungsrahmen: System-Kompetenz umfasst das Wissen, System-Systeme sachkundig einzusetzen.
-Lieferstück: geprüftes Übergabepaket zu Prompting-Leitfaden mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe.
+### 1.6.9. Nicht freigegebene Nutzung
 
-### 16.9. Schatten-Systeme Aufdeckung
+Bestimme erreichbare Meldestelle, erlaubte Alternative und Reaktion auf unzulässige Eingabe. Stilmerkmale beweisen keine KI-Nutzung. Technische Mitarbeiterüberwachung nach Paragraf 87 Absatz 1 Nummer 6 BetrVG und Datenschutzrecht gesondert prüfen; keine anlasslose Vollüberwachung als Standardkontrolle vorsehen. Eine mögliche Geheimnisoffenbarung nicht ohne Prüfung sämtlicher Voraussetzungen als Straftat feststellen.
 
-Bearbeitungsauftrag: Dieser Arbeitsgang beschreibt Methoden zur Erkennung und zum konstruktiven Umgang mit Schatten-Systeme. Paragraf 43a Absatz 2 BRAO, Paragraf 203 StGB: Jede Übermittlung von Mandatsgeheimnissen an nicht autorisierte externe Dienste kann eine Verletzung der Verschwiegenheitspflicht darstellen — auch wenn der Mitarbeiter dies nicht beabsichtigt. Paragraf 87 Absatz 1 Nummer 6 BetrVG: Mitbestimmungsrecht des Betriebsrats bei technischer Überwachung von Mitarbeitern.
-Lieferstück: geprüftes Übergabepaket zu Schatten-Systeme Aufdeckung mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe.
+### 1.6.10. Urheberrecht
 
-### 16.10. Urheberrecht-Bausteine
+Paragraf 2 Absatz 2 UrhG verlangt persönliche geistige Schöpfung; nicht jeden maschinellen Text als geschütztes Werk ausgeben. Bei Eingaben Lizenzbedingungen, Vervielfältigungsrechte und Datenbankschutz prüfen. Paragraf 5 UrhG für amtliche Werke nicht auf redaktionelle Leitsätze, Kommentare oder ganze Datenbanken übertragen. Formuliere erlaubte Quellen und konkrete Uploadbeschränkungen.
 
-Bearbeitungsauftrag: Urheberrechtliche Bausteine für System-Nutzungsrichtlinien in Kanzleien: Anwendungsfall Kanzlei will wissen ob System-generierte Texte urheberrechtlich schützbar sind und welche Texte als Eingabe hochgeladen werden dürfen. Paragraf 2 Absatz 2 UrhG geistige Schöpfung, Paragraf 5 UrhG amtliche Werke, amtliche/freie Quellen oder lizenzierte Datenbanken Lizenzbedingungen. Output Urheberrechts-Bausteine für Kanzlei-Richtlinie mit Upload-Verbotsliste.
-Lieferstück: geprüftes Übergabepaket zu Urheberrecht-Bausteine mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe.
+### 1.6.11. Anonymisierung
 
-### 16.11. Anonymisierung und Pseudonymisierung
+Artikel 4 Nummer 5 DSGVO: Pseudonymisierte Daten bleiben personenbezogen. Nicht nur Namen entfernen, sondern Aktenzeichen, Metadaten, seltene Sachverhaltskombinationen und mögliche Rückschlüsse prüfen. Zuordnungsschlüssel getrennt und geschützt halten. Bei unzureichender Anonymisierung die verbleibende personenbezogene Verarbeitung rechtlich absichern oder die Eingabe unterlassen; keine Anonymitätsgarantie durch bloße Platzhalter.
 
-Bearbeitungsauftrag: Anonymisierung und Pseudonymisierung von Mandatsdaten vor System-Eingabe: Anwendungsfall Anwalt will Mandatsdokument in System-System eingeben und muss Namen Adressen Aktenzeichen und Identifikatoren schützen. Artikel 4 Nummer 5 Datenschutz-Grundverordnung Pseudonymisierung, Artikel 2 Absatz 1 Datenschutz-Grundverordnung Anwendungsbereich, Paragraf 43a BRAO Verschwiegenheit. Die Anonymisierung von Mandatsdaten vor der Eingabe in System-Systeme ist eine der wichtigsten praktischen Schutzmaßnahmen in der Kanzlei.
-Lieferstück: geprüftes Übergabepaket zu Anonymisierung und Pseudonymisierung mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe.
+### 1.6.12. Automatisierte Entscheidungen
 
-### 16.12. Automatisierte Entscheidungen Art. 22 Datenschutz-Grundverordnung
+Prüfe Artikel 22 Absatz 1 DSGVO nur bei ausschließlich automatisierter Entscheidung mit rechtlicher oder ähnlich erheblicher Wirkung. Ein interner Zuordnungsvorschlag ist nicht automatisch erfasst; eine nur formale menschliche Bestätigung ist keine belastbare Kontrolle. Bei erfasstem Vorgang Ausnahme nach Absatz 2, Schutzrechte nach Absatz 3 und besondere Daten nach Absatz 4 prüfen. Rechtsgrundlage nach Artikel 6 und gegebenenfalls Artikel 9 bleibt zusätzlich nötig. Die KI-Verordnung ersetzt diese Prüfung nicht.
 
-Bearbeitungsauftrag: Automatisierte Einzelentscheidungen nach Artikel 22 Datenschutz-Grundverordnung in Kanzleien prüfen: Anwendungsfall Kanzlei plant System-gestützte Mandatszuordnung Honorarberechnung oder Bonitätsprüfung und muss prüfen ob automatisierte Entscheidung ohne Mensch zulässig ist. Artikel 22 Datenschutz-Grundverordnung Verbot automatisierter Einzelentscheidungen, Artikel 6 Datenschutz-Grundverordnung Rechtsgrundlage, Datenschutz-Grundverordnung Einwilligung. Abgrenzung zu Regulierungsrahmen-Betreiber-Pflichten und zu Datenschutz-Grundverordnung-Compliance.
-Lieferstück: geprüftes Übergabepaket zu Automatisierte Entscheidungen Art. 22 Datenschutz-Grundverordnung mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe.
-<!-- END fachrouten-werkstatt (autogen) -->
+## 1.7. Fertige Richtlinie und Arbeitsnotiz
 
-## 17. Werkzeuggrenzen
+Liefere den bestellten Richtlinientext mit verständlichen Erlaubnissen, Verboten, Verantwortlichen und Fehlerreaktionen. Gleiche neue Regeln mit unveränderten Abschnitten ab. Kurzen Änderungsvermerk und nur erforderliche Einweisungsmaßnahmen gesondert ergänzen. Bei Dateiauftrag Benennung, Lesbarkeit und tatsächlich mögliche Öffnungsprobe prüfen; Times New Roman 11 pt und dezimale Gliederung verwenden.
 
-Weitere Skills sind optional; führe die Richtlinienarbeit mit diesen Regeln fort. Verwende unveränderte Auszüge erneut, prüfe neue Vertragsfassungen und widersprechende Einstellungen nach und erweitere die Sichtung bei konkreten Lücken. Ohne Quellen- oder Exportzugriff liefere den belegbaren Textstand, ohne aktuelle Quellenprüfung, vollständige Aktenprüfung oder erfolgreiche Dateierzeugung vorzutäuschen.
+Offene Vertrags- oder Einstellungsfragen genau benennen und nach Antwort die betroffene Regel bis zur Endfassung fortführen. Einführung, Datenübertragung und Versand erst nach ausdrücklicher Freigabe; erfolgte Übergabe nicht aus bloßer Texterstellung ableiten. Weitere Skills sind optional. Ohne Quellen- oder Exportzugriff den belegten, vollständig formulierten Text liefern, ohne aktuelle Gesamtprüfung oder erfolgreiche Dateierzeugung vorzutäuschen.
+
+## 1.8. Richtlinienregeln an realen Arbeitssituationen entwickeln
+
+### 1.8.1. Aus einer Nutzung eine verständliche Erlaubnis machen
+
+Eine Regel „KI ist bei sorgfältiger Nutzung erlaubt“ entscheidet keinen Kanzleialltag. Ermittle stattdessen, welches freigegebene Werkzeug welche Daten für welche Tätigkeit erhält und wer das Ergebnis prüft. Bei Anlagenzuordnung braucht die Assistenz gegebenenfalls Dokumenttitel und Seiten, nicht ohne Weiteres die gesamte Gesundheitsakte. Bei Recherche kann eine abstrahierte Rechtsfrage genügen. Einzugrenzen ist die konkrete Eingabe, nicht pauschal jeder digitale Arbeitsschritt.
+
+Antwortet die Kanzlei „Wir entfernen die Namen“, prüfe die verbliebenen Aktenzeichen, Metadaten und identifizierenden Sachverhaltskombinationen. Überarbeite die Klausel so, dass eine bloße Namensersetzung nicht als garantierte Anonymisierung gilt. Antwortet sie „Der Dienstleister speichert Inhalte für Support“, kläre Vertragsbindung, Zugriffszweck und tatsächliche Einstellung; die vorhandene Trainingssperre beantwortet diese andere Frage nicht. Bis zur Klärung kann eine engere Fassung für synthetische Übungen fertiggestellt werden, ohne echte Mandatsdaten freizugeben.
+
+### 1.8.2. Quellenfehler mit einer prüfbaren Arbeitsanweisung behandeln
+
+Nutze den bereits erläuterten Beschluss des AG Köln als begrenzten Anlass für den Kanzleistandard, nicht als Beweis eines allgemeinen Technikverbots. Die Übung zur Recherche enthält eine echte Fundstelle mit abweichender Aussage sowie einen ausdrücklich synthetischen, nicht als real ausgegebenen Fehlerhinweis. Der Bearbeiter muss Original, behaupteten Rechtssatz und konkreten Fallbezug vergleichen. Ein korrekt aussehendes Aktenzeichen oder eine geöffnete Trefferliste genügt nicht als Erfolgsnachweis.
+
+Für die Richtlinie formuliere, wer korrigiert und was bei fehlendem Zugang geschieht: „Kann ein tragender Nachweis nicht überprüft werden, kennzeichnet der Bearbeiter ihn im internen Entwurf und legt die betroffene Aussage dem verantwortlichen Anwalt vor. Der Nachweis wird nicht als verifiziert in die externe Fassung übernommen.“ Keine Rechtsbehauptung bloß deshalb streichen, weil eine einzelne Datenbank fehlt; amtliche Ersatzquelle prüfen und rechtliche Aussage gegebenenfalls ohne den unbestätigten Beleg neu begründen.
+
+### 1.8.3. Einweisung passend zur Rolle ausarbeiten
+
+Bei Assistenz in der Anlagenzuordnung übe doppelte Dateinamen, vertauschte Seiten und widersprüchliche Anlagenbezeichnungen. Das Ergebnis ist eine korrigierte Zuordnung mit erkennbarer Rückfrage, nicht ein Rechtsgutachten. Bei anwaltlichen Rechercheentwürfen übe dagegen Sachverhaltsnähe, Originalfundstelle und Gegenargument. Nutze vorhandene Einweisungen; eine beobachtete Lücke verlangt die passende Ergänzung, keine erfundene gesetzliche Stundenzahl.
+
+Antwort „Alle wurden schon eingewiesen“ beendet die Prüfung des konkret aufgetretenen Fehlers nicht. Frage nach dem einschlägigen Inhalt oder Übungsergebnis, wenn davon die neue Regel abhängt. Antwort „Die Assistenz versendet selbst“ führt zur Prüfung von Freigabe und Versandberechtigung, nicht lediglich zu einem zusätzlichen Kurs. Die Richtlinie muss Vorbereitung, fachliche Verantwortung, technische Übermittlung und Eingangsprüfung auseinanderhalten. Ein interner strengerer Standard wird als Entscheidung der Kanzleileitung bezeichnet.
+
+### 1.8.4. Fehlereingabe und Korrekturpfad vollständig regeln
+
+Bei versehentlichem Upload bestimmt die Regel eine erreichbare Meldestelle und die zu sichernden Mindestangaben: Werkzeug, Zeitpunkt, Datenkreis und bekannte Empfänger. Sie verlangt keine erneute vertrauliche Eingabe zur Fehlerreproduktion. Löschanfrage, nachgewiesene Löschung und fortbestehende Kopien sind zu unterscheiden. Fristprüfung und etwaige Meldung bleiben beim zuständigen Verantwortlichen; eine interne Meldung ersetzt keine erforderliche externe Handlung.
+
+Wird eine falsche Fundstelle vor Versand entdeckt, berichtige den Entwurf und kontrolliere die davon abhängige Begründung. Wird sie erst nach Versand bemerkt, bereite die konkret erforderliche Korrekturentscheidung und auf Auftrag einen Berichtigungstext vor; nicht heimlich die alte Aktenfassung überschreiben. Entlastende Umstände und mögliche Folgewirkungen gehören in den internen Vermerk, nicht in eine automatische Schuldzuweisung an Beschäftigte.
+
+Schließe mit der bestellten, widerspruchsfreien Richtlinienfassung und einem knappen Änderungsgrund. Einführungsdatum und verbindlicher Nutzerkreis bleiben offen, soweit sie noch nicht beschlossen sind. Der fertige Entwurf darf keine bereits durchgeführte Schulung, erteilte Mandanteneinwilligung oder technisch kontrollierte Einstellung behaupten.
+
+Übernehme die Antwort zum Supportzugriff in den betroffenen Datenabschnitt der vorhandenen Richtlinie, beispielsweise `ki-richtlinie.md`, und gleiche die dazugehörige Erlaubnis- und Fehlerregel ab. Nutzerpfad geht vor. Ohne Dateizugriff den ausformulierten Ersatzabschnitt mit seiner Einfügestelle liefern.

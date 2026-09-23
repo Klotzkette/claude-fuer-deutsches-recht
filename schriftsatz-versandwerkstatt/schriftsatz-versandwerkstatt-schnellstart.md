@@ -1,17 +1,10 @@
 # 1. Schriftsatz-Versandwerkstatt: Schnellstart
 
-Fertige Schriftsatz und Anlagen als kontrollierte Versandmappe end. Lies zuerst die verfügbaren Dateien und den Versandauftrag; keine Anspruchsprüfung, Rechtsprechungsrecherche oder ungefragte Umformulierung.
+Ohne Eingabe biete „Versandmappe herstellen“, „Fassung abgleichen“ oder „Eingang kontrollieren“ an. Dateien ohne Auftrag still lesen und Ziel klären. Klaren Auftrag direkt bearbeiten, keine Inventarflut. Antworten verändern nur betroffene Dateien und Nachweise. Keine Plugin-Dateien oder Konverter voraussetzen; keine Inhaltsänderung ohne Freigabe.
 
 ## 1.1. Sofortstart
 
-Vorhandene Dateien zuerst lesen:
-
-1. Inventarisiere Originalpfad, Dateiname, Format, Bytes, Änderungsstand und Hash.
-2. Erkenne Hauptdokument und bereits vergebene Anlagenkennungen und gleiche die Anlagenverweise im Schriftsatz mit den vorhandenen Dateien ab.
-3. Liefere sofort eine Produktionsmatrix mit `bereit`, `prüfen`, `fehlt` oder `stop`.
-4. Frage nur, was sich aus den Dateien nicht ergibt und die nächste Produktion sperrt.
-
-Nur offene Angaben erfragen: Gericht, Aktenzeichen oder Neueingang, Frist, Nummernkreis, verantwortender Anwalt, Versender und Signaturroute. Belegte Angaben übernehmen.
+Erfasse Originalpfad, Dateiname, Format, Bytes, Änderungsstand und Hash. Gleiche Hauptdokument, Anlagenkennungen und Schriftsatzverweise ab; fülle die Produktionsmatrix mit `bereit`, `prüfen`, `fehlt` oder `stop`. Nur entscheidende offene Angaben zu Gericht, Aktenzeichen oder Neueingang, Frist, Nummernkreis, Verantwortlichem, Versender und Signaturweg erfragen; Belegtes übernehmen.
 
 ## 1.2. Produktionsmatrix
 
@@ -74,7 +67,7 @@ Berechne Anzahl und Bytes aus den finalen Dateien. Bei Überschreitung Teilnachr
 
 ## 1.7. Absender und Signaturroute
 
-Kläre aus Dokumenten und Auftrag: Wer verantwortet den Schriftsatz, wessen Name steht in der einfachen Signatur, wer löst den Versand aus, aus wessen persönlich zugeordnetem sicheren Postfach wird versandt und gilt persönlicher sicherer Versand oder qualifizierte elektronische Signatur?
+Ordne Verantwortlichen, Namenszeile, tatsächlichen Versender, persönlich zugeordnetes Postfach und Signaturweg einander zu.
 
 Für Zivilverfahren bietet ZPO Paragraf 130a Absatz 3 zwei Wege: qualifizierte elektronische Signatur der verantwortenden Person oder Signatur durch die verantwortende Person und Einreichung auf sicherem Übermittlungsweg. Anlagen benötigen keine eigene Signatur. Wähle in anderen Gerichtsbarkeiten die entsprechende Verfahrensnorm.
 
@@ -96,7 +89,7 @@ ausgang/
 
 Der interne Ordner wird nicht versandt. Öffne vor Freigabe jede endgültige PDF. Prüfe Gericht, Aktenzeichen, Frist, Fassungsstand, Anlagenfolge, Dateinamen, Bytes, Signaturroute und geplante Eingangskontrolle.
 
-Nach Versand muss die automatisierte Eingangsbestätigung auf Empfänger, Zeitstempel, positiven Status und vollständige Nachricht geprüft und gemeinsam mit den Versanddateien gespeichert werden. Eine lokale Anzeige „gesendet“ ersetzt diese Empfangsprüfung nicht. Erst nach positiver Prüfung darf die verantwortliche Person die Frist erledigen. Löse niemals selbst einen Versand aus.
+Nach Versand Eingangsbestätigung, Empfänger, Zeitstempel und Dateien prüfen und mit dem Versandexport speichern. „Gesendet“ genügt nicht. BGH, Beschluss vom 21.03.2023, VIII ZB 80/22, amtlicher Leitsatz ([Quelle](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2023-3-21&Gericht=bgh&anz=20&nr=133514&pos=10)), verlangt die Zuordnung über einen sinnvollen Dateinamen. Nach Paragraf 130a Absatz 5 Satz 2 ZPO muss gerade die Endfassung zugeordnet sein; der Name ersetzt weder Inhaltsvergleich noch Freigabe oder Signatur. Erst nach positiver Kontrolle darf der Verantwortliche die Frist erledigen. Niemals selbst versenden.
 
 ## 1.9. Antwortform
 
@@ -104,8 +97,8 @@ Berichte knapp über Produktionsstand, erzeugte Dateien mit Seiten, Bytes und Ha
 
 Fehlende Anlage anfordern, übrige Dateien weiterbearbeiten. Nach Eingang Kennung, Verweise und Seiten prüfen sowie Verzeichnisse, Bytes und Hashes aktualisieren. Bei neuer Hauptfassung Anlagen erneut abgleichen. Offene Signaturfragen sperren die Freigabe, nicht unabhängige Produktionsschritte.
 
-Neue entscheidende Lücken gezielt nachfragen, Geklärtes nicht erneut erheben. Nach Antwort bis zur kontrollierten Versandmappe fortsetzen; verbleibende Hindernisse benennen, keine Freigabe erfinden.
+„B 3 wird ersetzt“ erfordert Verweis-, Seiten-, Hash- und Signaturabgleich, nicht bloß Umbenennen. „Teil 2 ging nicht ein“ lässt dessen Eingang offen, auch wenn Teil 1 bestätigt ist. Bekannte Angaben nicht erneut erfragen; keine Freigabe erfinden.
 
 ## 1.10. Technische Grenzen
 
-Ungelesene Dateien und Werkzeuggrenzen ausweisen; ohne Export Texte, keine erfundenen Dateilinks liefern. Skills sind optional; Folgeaufträge auf dem vorhandenen Stand bearbeiten, neue Fassungen prüfen.
+Ungelesene Dateien und Werkzeuggrenzen nennen; ohne Export Texte statt erfundener Dateilinks liefern. Neue Fassungen prüfen.

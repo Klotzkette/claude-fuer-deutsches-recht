@@ -1,8 +1,10 @@
 # 1. Einziehung und Arrest anhand der Geldflüsse prüfen
 
-Prüfen Sie für die von mir vertretene Person die verlangte Einziehungs- oder Arrestsumme anhand der konkreten Zahlungs- und Zugriffskette. Ziel ist eine belegbare Gegenrechnung bei mehreren Tatbeteiligten, nicht die pauschale Übernahme des Gesamtschadens aus dem Tatvorwurf.
+Rekonstruieren Sie, welchen Tatertrag die vertretene Person selbst oder gemeinsam beherrschte und welche Beträge nur unter fremder Kontrolle durch ihre Hände gingen. Gleichen Sie Einziehungsantrag und Arrest mit dieser Zahlungs- und Zugriffskette sowie nachgewiesenen Rückführungen ab. Liefern Sie die belegte Gegenrechnung und den beauftragten Verteidigungstext; Gesamtschaden und persönliche Einziehungssumme sind nicht automatisch identisch.
 
 ## 1.1. Sachverhalt zuerst
+
+Ohne Eingabe bieten Sie Geldflussrechnung, Arrestabgleich oder Verteidigungstext an. Anlagen ohne Auftrag still lesen und nur das Ziel erfragen. Klare Aufgaben direkt erledigen. Die Antwort „Das Geld wurde nur sichergestellt, nicht zurückgegeben“ ändert Rückführungsabzug und Antrag; persönliche Verfügungsmacht bleibt gesondert zu prüfen. Keine erneute Gesamtaufnahme.
 
 Lesen Sie Tatvorwurf, Anklage oder Urteil, Arrestbeschluss, Vollziehungsnachweise, Kontoauszüge, Übergabeprotokolle, Chats, Vernehmungen und Rückzahlungen. Erfassen Sie Verfahrensstand, vertretene Person und blockierte Vermögenswerte. Unterscheiden Sie Feststellungen, Behauptungen und Mandantenangaben. Fehlende Kontoauszüge, Übergabe- oder Rückführungsbelege gezielt erfragen; keine Transaktionen ergänzen und keine Einlassung zur Voraussetzung der internen Prüfung machen.
 
@@ -22,7 +24,7 @@ Berechnen Sie pro Person und Tat die durch Belege gestützten, streitigen und ni
 
 Prüfen Sie [Paragraf 73 StGB](https://www.gesetze-im-internet.de/stgb/__73.html), [Paragraf 73c](https://www.gesetze-im-internet.de/stgb/__73c.html), [Paragraf 73e](https://www.gesetze-im-internet.de/stgb/__73e.html) und [Paragraf 111e StPO](https://www.gesetze-im-internet.de/stpo/__111e.html).
 
-BGH, Beschluss vom 15.05.2025, Az. 6 StR 546/24, [amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Strafsenate/6_StS/2024/6_StR_546-24.pdf?__blob=publicationFile&v=1), Randnummern 14 bis 18: tatsächliche Mitverfügung, transitorischer Besitz und Tatlohn. Am 14.09.2026 geprüft. Die tatsächlichen Grenzen der Entscheidung offenlegen; keine ungeprüften Randnummern oder Literaturfundstellen verwenden.
+BGH, Beschluss vom 15.05.2025 - 6 StR 546/24, Randnummern 14 bis 18 ([amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Strafsenate/6_StS/2024/6_StR_546-24.pdf?__blob=publicationFile&v=1)): Bei einem weisungsgebundenen Abholer unter unmittelbarer Kontrolle eines übergeordneten Beteiligten belegt kurzfristiger Besitz noch keine Verfügungsmacht über die gesamte Beute. Prüfen Sie anhand von Übergabe, Zugangsdaten und Weisungen den eigenen Zugriff; Tatlohn gesondert zuordnen. Die Entscheidung erlaubt keinen generellen Abzug weitergeleiteter Beträge: Einmal tatsächlich erlangte Verfügungsmacht bleibt trotz späterer Aufgabe maßgeblich.
 
 Für sichergestellte Sachbeute ergänzend: BGH, Beschluss vom 04.08.2026, Az. 6 StR 160/26, [amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Strafsenate/6_StS/2026/6_StR_160-26.pdf?__blob=publicationFile&v=1), Randnummern 3 bis 5, geprüft am 15.09.2026. Die behauptete Veräußerung widersprach den Belegen zur Sicherstellung. Prüfen Sie daher pro Gegenstand Fortbestand, Verbleib und nachgewiesene Rückgabe: Noch vorhandene sichergestellte Beute und an Geschädigte zurückgelangte Beute haben unterschiedliche Einziehungsfolgen. Die dortige revisionsgerichtliche Betragskorrektur erlaubt keinen pauschalen Abzug aller Sicherstellungen von einer Geldsumme.
 

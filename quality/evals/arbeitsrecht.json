@@ -1,18 +1,163 @@
 {
-  "schema_version": 1, "plugin": "arbeitsrecht", "reviewed_on": "2026-09-18",
+  "schema_version": 1,
+  "plugin": "arbeitsrecht",
+  "reviewed_on": "2026-09-23",
   "sources": [
-    {"url": "https://www.gesetze-im-internet.de/kschg/__4.html", "checked_on": "2026-09-14", "supports": "Klagefrist knüpft an Zugang der schriftlichen Kündigung an."},
-    {"url": "https://www.gesetze-im-internet.de/bgb/__623.html", "checked_on": "2026-09-14", "supports": "Schriftform der Kündigung und Ausschluss elektronischer Form."},
-    {"url": "https://www.gesetze-im-internet.de/kschg/__1.html", "checked_on": "2026-09-14", "supports": "Soziale Rechtfertigung und differenzierte Kündigungsgründe."},
-    {"url": "https://www.gesetze-im-internet.de/betrvg/__102.html", "checked_on": "2026-09-14", "supports": "Anhörung des Betriebsrats vor jeder Kündigung."},
-    {"url": "https://www.gesetze-im-internet.de/tzbfg/__17.html", "checked_on": "2026-09-14", "supports": "Eigenständiger Fristbeginn der Befristungskontrollklage."}
+    {
+      "url": "https://www.gesetze-im-internet.de/kschg/__4.html",
+      "checked_on": "2026-09-14",
+      "supports": "Klagefrist knüpft an Zugang der schriftlichen Kündigung an."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__623.html",
+      "checked_on": "2026-09-14",
+      "supports": "Schriftform der Kündigung und Ausschluss elektronischer Form."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/kschg/__1.html",
+      "checked_on": "2026-09-14",
+      "supports": "Soziale Rechtfertigung und differenzierte Kündigungsgründe."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/betrvg/__102.html",
+      "checked_on": "2026-09-14",
+      "supports": "Anhörung des Betriebsrats vor jeder Kündigung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/tzbfg/__17.html",
+      "checked_on": "2026-09-14",
+      "supports": "Eigenständiger Fristbeginn der Befristungskontrollklage."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__130.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aktueller amtlicher Normtext zur Prüfung: Paragraf 130 BGB; Paragraf 4 KSchG. Keine Gesamtverifikation sämtlicher Nebenmaterien."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-68-24/",
+      "checked_on": "2026-09-22",
+      "supports": "BAG, Urteil vom 30.01.2025, 2 AZR 68/24: Bei bestrittenem Einwurf tragen Einlieferung und Status allein keinen Anscheinsbeweis; Zugangstatsachen für den Beginn der Klagefrist aufklären. Grenze/Prüftiefe: Volltext Rn. 10 bis 20; andere Beweismittel bleiben möglich, kein genereller Unwirksamkeitssatz für Einwurf-Einschreiben."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/kschg/__4.html",
+      "checked_on": "2026-09-23",
+      "supports": "Dreiwochenfrist nach Zugang der schriftlichen Kündigung, gesonderte Erklärung und Sonderfall behördlicher Zustimmung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/arbgg/__4.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlicher Wortlaut gelesen: besonderer Ausschluss der Arbeitsgerichtsbarkeit nach Paragrafen 101 bis 110; nicht allgemeine Zuständigkeitsgrundlage."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/arbgg/__46.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlicher Wortlaut gelesen: Urteilsverfahren für Rechtsstreitigkeiten nach Paragraf 2 Absätze 1 bis 4 und besondere Abweichungen von der ZPO."
+    }
   ],
-  "mini_review": {"sha256":"e9f3d03cdcf6f67e6251f0bc6539696e1acec68116153c218cf1525e6dbe0d2d","verdict": "revised", "reason": "Aktuellen Gesamttext vollständig gelesen: Kündigungszugang, Befristung und monatsbezogene Entgeltprüfung bleiben getrennte Arbeitswege. Die Fortsetzung war in einem dichten Absatz gebündelt; Dateiname und Platz des Exporthinweises waren noch nicht eindeutig. Redaktionelle Prüfung, keine erneute Rechtsquellenprüfung oder Live-Modellprüfung.", "changes": ["Rückfragen zu Kündigungszugang und Entgelt in getrennte Absätze gegliedert; weitere entscheidende Rückfragen bleiben möglich.", "Nutzerdateiname hat Vorrang vor ergebnis.md; technische Hinweise bleiben außerhalb des Empfängertextes.", "Zurückstellung ausdrücklich auf die betroffene externe Handlung begrenzt."]},
-  "workshop_review": {"sha256":"3dc4baa2da6d19c962b16d6c05da1911e2856da43f92fc42fa69fee8b7cd6975","verdict":"retained","reason":"Werkstatt vollständig gelesen. Zugangsnachweis, Monatsabrechnung und Anhörungsanlage führen zu gezielten Nachforderungen und anschließend zur Aktualisierung des bestellten Dokuments. Status, Entgelt, Kündigung, Befristung und Vergleich sind fachlich getrennt; Tabellen und Klageentwurf sind nicht pauschal vorgeschrieben. Quellenanker bleiben verifikationsbedürftig; keine neue Rechtsprüfung oder Live-Modellprüfung behauptet.","changes":[]},
-  "selection": {"positive": ["Prüfen Sie Kündigungsschreiben und Zustellbelege und entwerfen Sie die Klage.", "Stellen Sie offene Vergütung und Arbeitszeitnachweise für meinen Arbeitgeberbrief zusammen."], "negative": ["Prüfen Sie die Entlassung eines Beamten auf Lebenszeit.", "Fechten Sie meine Kündigung eines privaten Wohnungsmietvertrags an."]},
-  "cases": [{"id": "scan-vor-papierkuendigung", "request": "Erstellen Sie ergebnis.md als Fristen- und Handlungsmemo für Arbeitnehmerin Lea Frank. Sie arbeitet seit 2020 unbefristet bei einer GmbH mit 40 Vollzeitbeschäftigten in Bonn. Am 02.09.2026 erhielt sie per E-Mail einen Scan einer unterschriebenen ordentlichen Kündigung zum 31.10.2026. Das unterschriebene Papieroriginal wurde ihr am 04.09.2026 persönlich übergeben; beide Parteien bestätigen Datum und Inhalt. Ein Betriebsrat besteht nicht. Heute ist der 14.09.2026. Lea möchte den Arbeitsplatz behalten; der Arbeitgeber nennt bisher keinen Grund. Erläutern Sie die getrennte Bedeutung beider Übermittlungen und die nächste fristwahrende Handlung, ohne eine bereits erhobene Klage zu behaupten.", "input_files": [], "deliverables": ["ergebnis.md"], "criteria": [
-    {"id": "C01", "text": "Behandelt den Scan nicht als formwirksame Kündigung und knüpft die Dreiwochenfrist an die persönliche Übergabe des Originals am 04.09. an.", "deliverables": ["ergebnis.md"]},
-    {"id": "C02", "text": "Bestimmt den 25.09.2026 als Fristende und empfiehlt rechtzeitige gerichtliche Geltendmachung statt bloßer Beschwerde beim Arbeitgeber.", "deliverables": ["ergebnis.md"]},
-    {"id": "C03", "text": "Hält den Kündigungsgrund als offene materielle Prüfung fest, ohne aus dessen fehlender Mitteilung einen sicheren Prozesserfolg oder automatische Abfindung abzuleiten.", "deliverables": ["ergebnis.md"]}
-  ], "target_skill": "kueschk-frist-und-zugang-pruefen"}]
+  "mini_review": {
+    "sha256": "3a9ccf1a1a348d9aa74bedbb111b870ff1be7081065c943378a632d4b6f326d9",
+    "verdict": "revised",
+    "reason": "Schnellstart vollständig individuell gelesen und überarbeitet: Kündigungszugang und offene Monatsvergütung anhand der vorliegenden Nachweise prüfen. Einlieferungsbeleg und Sendungsstatus ohne Auslieferungsbeleg rechtlich eingeordnet; ungesicherte Überwachungsfundstellen in konkrete Recherchefragen überführt. Redaktionelle Quellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert.",
+    "changes": [
+      "Einlieferungsbeleg und Sendungsstatus ohne Auslieferungsbeleg rechtlich eingeordnet; ungesicherte Überwachungsfundstellen in konkrete Recherchefragen überführt.",
+      "Kernfall mit operativem Entscheidungsanker, gezielten Nachfragen und Fortsetzung zum vollständigen angeforderten Dokument.",
+      "Leerstart: Kündigung, Entgelt oder Vertragsgestaltung anbieten. Dateien: Personal- und Verfahrensunterlagen still lesen, kein Personalaktenbericht ohne Auftrag. Klarer Auftrag: Gewünschten Brief, Vertrag oder Schriftsatz unmittelbar erstellen.",
+      "Zweite Kündigung erzeugt eigene Antrags- und Fristprüfung; Freizeitausgleich korrigiert Monatsrechnung und Zahlungsbrief."
+    ]
+  },
+  "workshop_review": {
+    "sha256": "26b4379e3781c8135313eafffad1b9c823ab58d4211ac485958182ebfd47be78",
+    "verdict": "revised",
+    "reason": "Werkstatt vollständig individuell gelesen und überarbeitet: Kündigungszugang und offene Monatsvergütung anhand der vorliegenden Nachweise prüfen. Einlieferungsbeleg und Sendungsstatus ohne Auslieferungsbeleg rechtlich eingeordnet; ungesicherte Überwachungsfundstellen in konkrete Recherchefragen überführt. Redaktionelle Quellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen.",
+    "changes": [
+      "Einlieferungsbeleg und Sendungsstatus ohne Auslieferungsbeleg rechtlich eingeordnet; ungesicherte Überwachungsfundstellen in konkrete Recherchefragen überführt.",
+      "Vorhandene Fachzweige, Beispiele und Zugriffsalternativen erhalten; schwache Rechtsprechungshinweise entfernt oder auf belegte Reichweite begrenzt.",
+      "Arbeitnehmerklage, Arbeitgeberanhörung, nachweisbezogene Überstundenforderung und Wechsel zur Vergleichslösung mit ungünstigen Tatsachen.",
+      "Zweite Kündigung erzeugt eigene Antrags- und Fristprüfung; Freizeitausgleich korrigiert Monatsrechnung und Zahlungsbrief.",
+      "Bei abschließender Gegenprüfung Paragraf 4 ArbGG als allgemeinen Verfahrensanker durch Zuständigkeits- und Urteilsverfahrensabgleich nach Paragrafen 2 und 46 ersetzt; Ausschluss und KSchG-Frist ausdrücklich getrennt."
+    ]
+  },
+  "selection": {
+    "positive": [
+      "Prüfen Sie Kündigungsschreiben und Zustellbelege und entwerfen Sie die Klage.",
+      "Stellen Sie offene Vergütung und Arbeitszeitnachweise für meinen Arbeitgeberbrief zusammen."
+    ],
+    "negative": [
+      "Prüfen Sie die Entlassung eines Beamten auf Lebenszeit.",
+      "Fechten Sie meine Kündigung eines privaten Wohnungsmietvertrags an."
+    ]
+  },
+  "cases": [
+    {
+      "id": "scan-vor-papierkuendigung",
+      "request": "Erstellen Sie ergebnis.md als Fristen- und Handlungsmemo für Arbeitnehmerin Lea Frank. Sie arbeitet seit 2020 unbefristet bei einer GmbH mit 40 Vollzeitbeschäftigten in Bonn. Am 02.09.2026 erhielt sie per E-Mail einen Scan einer unterschriebenen ordentlichen Kündigung zum 31.10.2026. Das unterschriebene Papieroriginal wurde ihr am 04.09.2026 persönlich übergeben; beide Parteien bestätigen Datum und Inhalt. Ein Betriebsrat besteht nicht. Heute ist der 14.09.2026. Lea möchte den Arbeitsplatz behalten; der Arbeitgeber nennt bisher keinen Grund. Erläutern Sie die getrennte Bedeutung beider Übermittlungen und die nächste fristwahrende Handlung, ohne eine bereits erhobene Klage zu behaupten.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Behandelt den Scan nicht als formwirksame Kündigung und knüpft die Dreiwochenfrist an die persönliche Übergabe des Originals am 04.09. an.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Bestimmt den 25.09.2026 als Fristende und empfiehlt rechtzeitige gerichtliche Geltendmachung statt bloßer Beschwerde beim Arbeitgeber.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Hält den Kündigungsgrund als offene materielle Prüfung fest, ohne aus dessen fehlender Mitteilung einen sicheren Prozesserfolg oder automatische Abfindung abzuleiten.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "kueschk-frist-und-zugang-pruefen"
+    }
+  ],
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leerstart: Kündigung, Entgelt oder Vertragsgestaltung anbieten.",
+      "Dateien: Personal- und Verfahrensunterlagen still lesen, kein Personalaktenbericht ohne Auftrag.",
+      "Klarer Auftrag: Gewünschten Brief, Vertrag oder Schriftsatz unmittelbar erstellen."
+    ],
+    "continuation": "Zweite Kündigung erzeugt eigene Antrags- und Fristprüfung; Freizeitausgleich korrigiert Monatsrechnung und Zahlungsbrief.",
+    "enrichment": "Arbeitnehmerklage, Arbeitgeberanhörung, nachweisbezogene Überstundenforderung und Wechsel zur Vergleichslösung mit ungünstigen Tatsachen.",
+    "limits": "desk review; no live client execution"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "arbeitsrecht/README.md",
+      "arbeitsrecht/arbeitsrecht-werkstatt.md",
+      "arbeitsrecht/arbeitsrecht-schnellstart.md",
+      "quality/evals/arbeitsrecht.json"
+    ],
+    "opening_change": "Kündigungszugang und offene Monatsvergütung anhand der vorliegenden Nachweise prüfen",
+    "norms": [
+      "Paragraf 130 BGB",
+      "Paragraf 4 KSchG"
+    ],
+    "decisions": [
+      {
+        "citation": "BAG, Urteil vom 30.01.2025, 2 AZR 68/24",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-68-24/",
+        "application": "Bei bestrittenem Einwurf tragen Einlieferung und Status allein keinen Anscheinsbeweis; Zugangstatsachen für den Beginn der Klagefrist aufklären.",
+        "limit": "Volltext Rn. 10 bis 20; andere Beweismittel bleiben möglich, kein genereller Unwirksamkeitssatz für Einwurf-Einschreiben."
+      }
+    ],
+    "remaining_limits": [
+      "Desk- und Quellenprüfung, kein Live-Client- oder Modelltest; übrige Fachzweige nicht vollständig rechtlich neu verifiziert.",
+      "Volltext Rn. 10 bis 20; andere Beweismittel bleiben möglich, kein genereller Unwirksamkeitssatz für Einwurf-Einschreiben.",
+      "Workflow-Anschlussprüfung 23.09.2026: individuelle Text- und Quellenprüfung, keine Live-Client-Ausführung. Frühere Entscheidungsprüfungen und ihre Reichweitengrenzen bleiben unverändert; keine erneute vollständige Rechtsprechungsprüfung behauptet."
+    ]
+  }
 }

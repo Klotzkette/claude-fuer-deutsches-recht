@@ -1,12 +1,134 @@
 {
-  "schema_version": 1, "plugin": "aussenwirtschaft-zoll-sanktionen", "reviewed_on": "2026-09-18",
-  "sources": [{"url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:02021R0821-20251115", "checked_on": "2026-09-14", "supports": "Artikel 2 erfasst elektronische Software- und Technologieübertragung; Artikel 3 trennt Listenpflicht und weitere Kontrollen, Artikel 4 verwendungsbezogene Kontrollen."}],
-  "mini_review": {"sha256":"6a3f941ba3c169f6c936003cdde5b62ebc6c9feffef3f09fe6ef53fde2d6e170","verdict":"retained","reason":"Aktuellen Mini vollständig gelesen. Fehlende Listenparameter und unklare Sanktionstreffer lösen konkrete Nachforderungen aus; Antworten führen zur aktualisierten Klassifizierung und zum fertigen Vermerk oder Antrag. Weder fehlender Warentransport noch ein Namenstreffer ersetzen die Transaktionsprüfung. Kein zusätzlicher Abbruchwiderspruch gefunden; keine erneute Rechtsquellenprüfung oder Live-Modellprüfung.","changes":[]},
-  "workshop_review": {"sha256":"0f571f0175f5eebb92be2efd8ee6b01c95534251540602ee86d14dac3435c5f9","verdict":"retained","reason":"Werkstatt vollständig gelesen. Güterparameter, Kontrolle von Beteiligten, Zollwert und Bekanntgabe des Bescheids haben eigene Nachforderungs- und Fortsetzungswege. Transporthaftung bleibt auf entsprechende Aufträge beschränkt; Tabellen, Meldung und Lieferfreigabe werden nicht aus einem bloßen Prüfauftrag abgeleitet. Ungeprüfte Rechtsaktzuordnungen sind ausdrücklich als zu verifizieren bezeichnet, nicht als neu verifizierte Aussagen. Keine Live-Modellprüfung.","changes":[]},
-  "selection": {"positive": ["Prüfen Sie die Exportkontrolle eines Softwaredownloads für einen Kunden außerhalb der EU.", "Erstellen Sie ein Klassifizierungsdossier aus Datenblatt und Endverbleibserklärung."], "negative": ["Berechnen Sie den CMR-Haftungshöchstbetrag für eine beschädigte Palette ohne Exportkontrollfrage.", "Prüfen Sie ausschließlich die Umsatzsteuer einer innerdeutschen Dienstleistung."]},
-  "cases": [{"id": "verschluesselung-download-datenluecke", "request": "Erstellen Sie ergebnis.md als vorläufigen Exportkontrollvermerk für eine deutsche Softwaregesellschaft. Sie will am 21.09.2026 einem neu gegründeten Kunden in Singapur ein selbst entwickeltes Verschlüsselungsmodul zum Download bereitstellen. Produktbeschreibung: serverseitige Verschlüsselung für industrielle Kommunikationsdaten; Angaben zu Algorithmen, Schlüssellängen, frei zugänglichem Vertrieb und technischen Ausnahmen fehlen. Der Kunde erklärt zivile Fertigung als Zweck, nennt aber seinen Endnutzer noch nicht. Eine Zolltarifnummer wurde vom Vertrieb vorgeschlagen, eine Güterklassifizierung oder Genehmigung liegt nicht vor. Es gibt keinen physischen Versand. Bestimmen Sie den prüfbaren Stand, gezielte Nachforderungen und die Freigabelage, ohne nicht vorhandene technische Daten zu ergänzen.", "input_files": [], "deliverables": ["ergebnis.md"], "criteria": [
-    {"id": "C01", "text": "Schließt Ausfuhrkontrolle nicht wegen des fehlenden physischen Versands aus und behandelt das elektronische Bereitstellen als eigenständigen Prüfgegenstand.", "deliverables": ["ergebnis.md"]},
-    {"id": "C02", "text": "Verlangt die fehlenden technischen Merkmale und Endnutzerangaben gezielt und leitet aus der vorgeschlagenen Zolltarifnummer keine abschließende Nichtlistung ab.", "deliverables": ["ergebnis.md"]},
-    {"id": "C03", "text": "Gibt keine vorbehaltlose Lieferfreigabe oder erfundene Listennummer aus, liefert aber ein nutzbares vorläufiges Dossier mit getrennten Güter-, Beteiligten- und Verwendungsfragen.", "deliverables": ["ergebnis.md"]}
-  ], "target_skill": "aussenwirtschaft-exportkontrolle-dual-use"}]
+  "schema_version": 1,
+  "plugin": "aussenwirtschaft-zoll-sanktionen",
+  "reviewed_on": "2026-09-23",
+  "sources": [
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:02021R0821-20251115",
+      "checked_on": "2026-09-14",
+      "supports": "Artikel 2 erfasst elektronische Software- und Technologieübertragung; Artikel 3 trennt Listenpflicht und weitere Kontrollen, Artikel 4 verwendungsbezogene Kontrollen."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62011CJ0072",
+      "checked_on": "2026-09-22",
+      "supports": "EuGH, Urteil vom 21.12.2011, Az. C-72/11, Afrasiabi, Randnummern 45 bis 57: Kontrollierten Zwischenempfänger und beabsichtigten Endnutzen prüfen; fehlende sofortige Verwendungsbereitschaft schließt wirtschaftliche Ressource nicht aus. Grenze: Historischer Iran-Fall mit Sinterofen; aktuelle Verbotsnorm, Listung und subjektive Voraussetzungen gesondert, keine allgemeine Sperre jeder Zwischenlieferung."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:02021R0821-20260921",
+      "checked_on": "2026-09-22",
+      "supports": "Aktuelle konsolidierte Fassung über EUR-Lex-Versionsverzeichnis festgestellt; Artikel 2, 3 und 4 im deutschen Text gelesen. Keine Vollprüfung von Anhang I oder konkretem Softwareprodukt."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/ao_1977/__355.html",
+      "checked_on": "2026-09-23",
+      "supports": "Monatsfrist des statthaften Einspruchs ab Bekanntgabe; nicht mit technischer Vollständigkeit der Begründung verwechseln."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Elektronischer Download und fehlender direkter Namenstreffer beenden die Export- beziehungsweise Sanktionsprüfung nicht. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert.",
+    "changes": [
+      "Dual-Use-Verweis auf amtlichen Stand 21.09.2026 aktualisiert; Artikel 2 Nummer 2 Buchstabe d und Artikel 3 konkretisiert",
+      "Afrasiabi an Kontrolle des Zwischenempfängers und Nutzungspotenzial gebunden, historische Reichweite offengelegt",
+      "Zoll, CBAM, Meldung und Transporthaftung getrennt erhalten",
+      "Leerstart: Güterklassifizierung, Sanktionen oder Zollrechtsbehelf anbieten. Dateien: Transaktionsunterlagen still lesen und konkreten Prüfweg klären. Klarer Auftrag: Transaktionsbezogenen Vermerk, Antrag oder Einspruch direkt erstellen.",
+      "Neuer Softwareparameter verändert Listenabgleich und Antrag; Kontrollbeleg verändert Bereitstellungsprüfung; Warenkorrektur ändert Abgabenrechnung."
+    ],
+    "sha256": "f09d22dddcb2009abb092c0802691f81113d9445c1309074d6b7f78484a84f35"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Technische Listenprüfung und mittelbare Bereitstellung konkretisiert; ungesicherte Regime- und Meldenormzuordnungen entfernt. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen.",
+    "changes": [
+      "Dual-Use-Verweis auf amtlichen Stand 21.09.2026 aktualisiert; Artikel 2 Nummer 2 Buchstabe d und Artikel 3 konkretisiert",
+      "Afrasiabi an Kontrolle des Zwischenempfängers und Nutzungspotenzial gebunden, historische Reichweite offengelegt",
+      "Zoll, CBAM, Meldung und Transporthaftung getrennt erhalten",
+      "Versionsbezogene Softwareklassifizierung, Namensverwechslung versus Kontrolle, Zollbescheid und Monatsfrist mit begrenzter Vollzugsfreigabe.",
+      "Neuer Softwareparameter verändert Listenabgleich und Antrag; Kontrollbeleg verändert Bereitstellungsprüfung; Warenkorrektur ändert Abgabenrechnung."
+    ],
+    "sha256": "e674704fbc78e73e21f387018988bbece34c65a21e4e29fd06975859e694b9ea"
+  },
+  "selection": {
+    "positive": [
+      "Prüfen Sie die Exportkontrolle eines Softwaredownloads für einen Kunden außerhalb der EU.",
+      "Erstellen Sie ein Klassifizierungsdossier aus Datenblatt und Endverbleibserklärung."
+    ],
+    "negative": [
+      "Berechnen Sie den CMR-Haftungshöchstbetrag für eine beschädigte Palette ohne Exportkontrollfrage.",
+      "Prüfen Sie ausschließlich die Umsatzsteuer einer innerdeutschen Dienstleistung."
+    ]
+  },
+  "cases": [
+    {
+      "id": "verschluesselung-download-datenluecke",
+      "request": "Erstellen Sie ergebnis.md als vorläufigen Exportkontrollvermerk für eine deutsche Softwaregesellschaft. Sie will am 21.09.2026 einem neu gegründeten Kunden in Singapur ein selbst entwickeltes Verschlüsselungsmodul zum Download bereitstellen. Produktbeschreibung: serverseitige Verschlüsselung für industrielle Kommunikationsdaten; Angaben zu Algorithmen, Schlüssellängen, frei zugänglichem Vertrieb und technischen Ausnahmen fehlen. Der Kunde erklärt zivile Fertigung als Zweck, nennt aber seinen Endnutzer noch nicht. Eine Zolltarifnummer wurde vom Vertrieb vorgeschlagen, eine Güterklassifizierung oder Genehmigung liegt nicht vor. Es gibt keinen physischen Versand. Bestimmen Sie den prüfbaren Stand, gezielte Nachforderungen und die Freigabelage, ohne nicht vorhandene technische Daten zu ergänzen.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Schließt Ausfuhrkontrolle nicht wegen des fehlenden physischen Versands aus und behandelt das elektronische Bereitstellen als eigenständigen Prüfgegenstand.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Verlangt die fehlenden technischen Merkmale und Endnutzerangaben gezielt und leitet aus der vorgeschlagenen Zolltarifnummer keine abschließende Nichtlistung ab.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Gibt keine vorbehaltlose Lieferfreigabe oder erfundene Listennummer aus, liefert aber ein nutzbares vorläufiges Dossier mit getrennten Güter-, Beteiligten- und Verwendungsfragen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "aussenwirtschaft-exportkontrolle-dual-use"
+    }
+  ],
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leerstart: Güterklassifizierung, Sanktionen oder Zollrechtsbehelf anbieten.",
+      "Dateien: Transaktionsunterlagen still lesen und konkreten Prüfweg klären.",
+      "Klarer Auftrag: Transaktionsbezogenen Vermerk, Antrag oder Einspruch direkt erstellen."
+    ],
+    "continuation": "Neuer Softwareparameter verändert Listenabgleich und Antrag; Kontrollbeleg verändert Bereitstellungsprüfung; Warenkorrektur ändert Abgabenrechnung.",
+    "enrichment": "Versionsbezogene Softwareklassifizierung, Namensverwechslung versus Kontrolle, Zollbescheid und Monatsfrist mit begrenzter Vollzugsfreigabe.",
+    "limits": "desk review; no live client execution"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "aussenwirtschaft-zoll-sanktionen/aussenwirtschaft-zoll-sanktionen-werkstatt.md",
+      "aussenwirtschaft-zoll-sanktionen/aussenwirtschaft-zoll-sanktionen-schnellstart.md",
+      "aussenwirtschaft-zoll-sanktionen/README.md",
+      "quality/evals/aussenwirtschaft-zoll-sanktionen.json"
+    ],
+    "opening_change": "Konkrete Ausfuhr von Ware, Software oder Technologie und tatsächlichen Endverwender prüfen; beim Zollbescheid die streitige Abgabenposition.",
+    "norms": [
+      "Artikel 2 Nummer 2 Buchstabe d, Artikel 3 und 4 Verordnung (EU) 2021/821",
+      "Artikel 7 Absatz 3 Verordnung (EG) Nr. 423/2007 als historische Entscheidungsnorm"
+    ],
+    "decisions": [
+      {
+        "citation": "EuGH, Urteil vom 21.12.2011, Az. C-72/11, Afrasiabi, Randnummern 45 bis 57",
+        "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62011CJ0072",
+        "application": "Kontrollierten Zwischenempfänger und beabsichtigten Endnutzen prüfen; fehlende sofortige Verwendungsbereitschaft schließt wirtschaftliche Ressource nicht aus.",
+        "limit": "Historischer Iran-Fall mit Sinterofen; aktuelle Verbotsnorm, Listung und subjektive Voraussetzungen gesondert, keine allgemeine Sperre jeder Zwischenlieferung."
+      }
+    ],
+    "remaining_limits": [
+      "Desk-/Quellenprüfung, kein Live-Ergebnistest.",
+      "Keine aktuelle Transaktions-, Sanktionslisten-, TARIC- oder CBAM-Gesamtprüfung; historische Entscheidung ersetzt keine heutige regimebezogene Freigabe.",
+      "Workflow-Anschlussprüfung 23.09.2026: individuelle Text- und Quellenprüfung, keine Live-Client-Ausführung. Frühere Entscheidungsprüfungen und ihre Reichweitengrenzen bleiben unverändert; keine erneute vollständige Rechtsprechungsprüfung behauptet."
+    ]
+  }
 }

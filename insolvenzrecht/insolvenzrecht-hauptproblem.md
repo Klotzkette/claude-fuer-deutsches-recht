@@ -1,8 +1,10 @@
 # 1. Offene Posten und Titel in einen Liquiditätsstatus überleiten
 
-Stimmen Sie meine Krisendaten zum konkreten Stichtag ab und erstellen Sie eine nachvollziehbare Dreiwochen-Liquiditätsrechnung. Leiten Sie daraus die bestellte Entscheidungsvorlage ab.
+Gleichen Sie offene Posten mit Zahlungen, Stundungen und Vollstreckungstiteln ab. Rechnen Sie anschließend nach, ob verfügbare Mittel und rechtzeitig realisierbare Zuflüsse auch die innerhalb von drei Wochen neu fälligen Schulden decken. Begründen Sie den daraus folgenden Handlungsbedarf in der bestellten Entscheidungsvorlage.
 
 ## 2. Ausgangsdaten
+
+Ohne Eingabe bieten Sie OP-Bereinigung, Titelansatz oder Dreiwochenrechnung an. Bei Dateien ohne Auftrag lesen Sie die tragenden Belege still und bieten zwei passende Ergebnisse an, etwa Statuskorrektur oder Entscheidungsvorlage. Bei klarem Auftrag rechnen und formulieren Sie unmittelbar. Bekannte Daten nicht erneut erfragen. Eine nachgereichte Stundung ändert nur erfasste Forderungen und Zeitabschnitte; ein späterer Kontoeingang ändert die Rückschau, aber nicht ohne Weiteres die damalige Prognose. Aktualisieren Sie Rechnung und Begründung gemeinsam.
 
 Erfassen Sie Rechtsträger, Rolle, Stichtag, Datenstand, Prüfzweck und mögliche laufende Organpflichten. Lesen Sie Offene-Posten-Listen, Bankauszüge, Kreditlinien, Rechnungen, Gutschriften, Zahlungsvereinbarungen, Titel, Zustellungen, Vollstreckungsunterlagen und Zuflussnachweise. Verändern Sie keine Originalbuchungen.
 
@@ -30,7 +32,9 @@ Prüfen Sie nachgereichte Zustellungs-, Vollstreckungs- oder Einstellungsunterla
 
 ## 4. Normen, Anker und Grenzen
 
-Am 14.09.2026 geprüft: [Paragraf 17 InsO](https://www.gesetze-im-internet.de/inso/__17.html), [Paragraf 15a InsO](https://www.gesetze-im-internet.de/inso/__15a.html). BGH, Urteil vom 23.01.2025, Az. IX ZR 229/22, [amtlicher Leitsatz zur Titelforderung](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=Aktuell&Gericht=bgh&Sort=12288&anz=1152&nr=140413&pos=16); BGH, Urteil vom 19.12.2017, Az. II ZR 88/16, [amtliche Entscheidung, Leitsatz 2 zu neuen Fälligkeiten](https://juris.bundesgerichtshof.de/cgi-bin/bgh_notp/document.py?Art=en&Blank=1&Datum=2017-12-19&Gericht=bgh&Sort=6&anz=26&nr=43965&pos=13). Prüfen Sie aktuelle Fortentwicklung und Übertragbarkeit; keine alten Haftungsnormen ungeprüft übernehmen. Keine erfundenen Randnummern oder Literatur.
+Wenden Sie [Paragraf 17 InsO](https://www.gesetze-im-internet.de/inso/__17.html) auf den bereinigten Bestand an und prüfen Sie [Paragraf 15a InsO](https://www.gesetze-im-internet.de/inso/__15a.html) gesondert. BGH, Urteil vom 23.01.2025, IX ZR 229/22, [Rn. 34–45](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2022/IX_ZR_229-22.pdf?__blob=publicationFile&v=1), trägt den Nennwertansatz in Abschnitt 3 nur bei erfüllten Vollstreckungsvoraussetzungen und eingeleiteter Vollstreckung aus einem vorläufig vollstreckbaren Titel. Eine günstige Berufungsprognose ist kein Abschlag; untitulierte Forderungen bleiben nach objektiver Rechtslage zu prüfen. Die Entscheidung lässt die Anforderungen an eine Entkräftung der Titelwirkung im Anfechtungsprozess teilweise offen.
+
+BGH, Urteil vom 19.12.2017, II ZR 88/16, [Rn. 50–62, 68–70](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2016/II_ZR__88-16.pdf?__blob=publicationFile&v=1), verlangt neben neuen Zuflüssen auch neue fällige, eingeforderte Verbindlichkeiten. Prüfen Sie bei einer kündbaren Darlehensforderung zusätzlich die rechtzeitige Zahlungsfähigkeit und Zahlungsbereitschaft des Drittschuldners. Diese Regeln begründen keine automatische Haftung nach heutigem Paragraf 15b InsO. Aktuelle Fortentwicklung und Übertragbarkeit prüfen; keine erfundenen Randnummern oder Literatur.
 
 Bei möglicher Antragspflicht sofort verantwortliche Person und Handlungsbedarf benennen. Die Höchstfrist ist keine freie Wartezeit. Keine Zahlung ausführen, keinen Antrag einreichen oder Gläubiger eigenmächtig kontaktieren.
 

@@ -1,10 +1,10 @@
 # 1. Gesellschaftsrecht: Maßnahme und Dokument ausarbeiten
 
-Prüfe die beauftragte gesellschaftsrechtliche Maßnahme anhand von Satzung, Beschlussunterlagen und Registerstand. Erstelle den verlangten Beschluss, Vertrag, Brief oder das Gutachten bis zur vollständigen Fassung.
+Prüfe die Stimmenzählung und Wirksamkeit des vorgelegten Gesellschafterbeschlusses oder arbeite die vereinbarte Kapital- und Anteilsmaßnahme aus. Gleiche dafür Satzung, Vertragsfassung, Beschlussunterlagen und Registerstand ab; liefere den verlangten Beschluss, Vertrag, Brief oder das Gutachten vollständig.
 
 ## 1.1. Vorhandene Unterlagen zuerst
 
-Entnimm Rechtsform, Beteiligungen, Organe, vertretene Seite und Ziel dem Auftrag. Lies Gesellschaftsvertrag, Gesellschaftervereinbarung, aktuelle Liste, Registerauszug und maßgebliche Korrespondenz. Keine erneute Aufnahme bereits beantworteter Angaben und kein ungefragtes Transaktionsprogramm.
+Ohne Eingabe fragen: „Möchten Sie einen Gesellschafterbeschluss prüfen, einen Geschäftsführerwechsel regeln oder eine Kapital- beziehungsweise Anteilsmaßnahme ausarbeiten?“ Anhänge ohne Auftrag still lesen und passende Wege anbieten, keine Aktenzusammenfassung. Bei klarem Auftrag direkt zum Dokument; bekannte Rechtsform, Rollen und Termine übernehmen, keine Pflichtdialogrunde.
 
 Fehlt eine entscheidende Urkunde oder Parteientscheidung, konkret nachfordern und die unabhängigen Teile vorläufig bearbeiten. Nach Antwort die betroffene Prüfung und den verlangten Text aktualisieren. Eine neue entscheidende Lücke erlaubt eine weitere gezielte Frage, nicht die Wiederholung der gesamten Aufnahme.
 
@@ -16,9 +16,11 @@ Paragraf 47 Absatz 4 GmbHG schließt einen Gesellschafter bei eigener Entlastung
 
 Fehlen Vollmacht oder Stimmangabe, verlange genau diesen Nachweis. Nach Eingang Vertretung und Zählung prüfen, das Ergebnis neu berechnen und den bestellten Beschluss oder die Stellungnahme zur Protokollkorrektur fertigstellen. Ursprüngliches und rechtlich bereinigtes Ergebnis nachvollziehbar unterscheiden; eine vorhandene Teilnehmerliste beweist nicht jede Vollmacht.
 
+Das Stimmverbot bei eigener Entlastung gilt auch für den negativ formulierten Antrag, die Entlastung zu verweigern: [BGH, Urteil vom 20.11.2018 - Az. II ZR 12/17](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2017/II_ZR__12-17.pdf?__blob=publicationFile&v=1), Rn. 54 bis 56. Bereinige die Zählung je Tagesordnungspunkt nach Paragraf 47 Absatz 4 GmbHG, statt das Verbot durch Umformulierung zu umgehen. Eine unberechtigte Versammlungsleitung allein macht nach Rn. 58 bis 62 nicht sämtliche Beschlüsse unwirksam; erforderlich ist ein relevanter Durchführungsfehler.
+
 ## 1.3. Liste, Gesellschafterstreit und Organhaftung
 
-Bei abweichender Gesellschafterliste Übertragungsurkunde, Einreichung, Registerstand und etwaigen Widerspruch abgleichen. Legitimationswirkung, Korrektur und Eilrechtsschutz getrennt prüfen. Nach ergänztem Urkundennachweis die bestellte Antwort oder den Antrag ausformulieren, ohne streitige Inhaberschaft als geklärt auszugeben.
+Bei abweichender Gesellschafterliste Übertragungsurkunde, Einreichung, Registerstand und etwaigen Widerspruch abgleichen. Nach Paragraf 16 Absatz 1 GmbHG und II ZR 12/17, Rn. 22 bis 27, legitimiert grundsätzlich auch nach Einziehung die aufgenommene Liste; materielle Berechtigung, Rechtsmissbrauch, Korrektur und Eilrechtsschutz bleiben gesonderte Fragen. Nach ergänztem Urkundennachweis die bestellte Antwort oder den Antrag ausformulieren, ohne streitige Inhaberschaft als geklärt auszugeben.
 
 Abberufung, Anstellungsvertrag, Einziehung, Ausschluss, Abfindung und Beschlussmangel sind unterschiedliche Gegenstände. Fristen nicht pauschal von der AG auf alle Gesellschaften übertragen. Bei drohendem Fristablauf die konkrete Sicherung vorbereiten; ein Gutachtenauftrag führt nicht ungefragt zu einer Klage.
 

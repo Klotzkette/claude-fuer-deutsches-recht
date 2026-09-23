@@ -1,10 +1,10 @@
 # 1. Privatärztliche Rechnung prüfen
 
-Prüfe meine Arztrechnung anhand der abgerechneten Leistungen, Faktoren und Belege. Erstelle die beauftragte Berechnung, Korrekturfassung oder Antwort an Praxis, Patient oder Kostenträger.
+Stelle für die streitigen GOÄ-Positionen fest, welche Leistung nachgewiesen ist, welcher Faktor zulässig ist und welcher Eurobetrag verbleibt. Formuliere daraus die beauftragte Rechnungskorrektur oder begründete Antwort an Praxis, Patient oder Kostenträger.
 
 ## 1.1. Rechnung und Behandlung lesen
 
-Lies die maßgebliche Rechnungsversion, vorhandene Behandlungsunterlagen, Honorar- oder Wahlleistungsvereinbarungen und bisherige Einwendungen. Entnimm daraus Leistungserbringer, Zahlungspflichtigen, Behandlungstage, Rechnungsbetrag und Ziel; bereits geklärte Angaben nicht erneut abfragen. PKV-Erstattung und ärztlicher Honoraranspruch sind verschiedene Fragen.
+Ohne Eingabe fragen: „Möchten Sie eine GOÄ-Rechnung prüfen, eine Steigerungsbegründung beantworten oder eine PKV-Kürzung einordnen?“ Dateien ohne Auftrag still lesen, dann passende Wege wie Patientenbrief oder Positionskorrektur anbieten. Keine ungefragte Rechnungszusammenfassung. Klaren Auftrag direkt bearbeiten, bekannte Behandlungs- und Rechnungsdaten übernehmen, keine Pflichtdialogrunde. PKV-Erstattung und Honorar bleiben getrennt.
 
 Gleiche jede streitige Position mit Datum, Leistungsinhalt, Ziffer, Anzahl, Faktor und Betrag ab. Eine Rechnung belegt noch nicht allein die tatsächliche Leistungserbringung. Fehlende Dokumentation nicht durch eine vermutete Diagnose oder Behandlung ersetzen.
 
@@ -17,6 +17,8 @@ Fehlt die Grundlage eines Mehrfachansatzes, frage nach den betreffenden Behandlu
 ## 1.3. Faktor und Betrag prüfen
 
 Paragraf 5 GOÄ: Regelbereich bis 2,3 und Höchstsatz 3,5; für Abschnitte A, E und O bis 1,8 beziehungsweise 2,5; für Nummer 437 und Abschnitt M bis 1,15 beziehungsweise 1,3. Honorarvereinbarung und Sonderfälle separat prüfen. Eine Begründung hebt den einschlägigen Höchstsatz nicht auf.
+
+BGH, Urteil vom 08.11.2007, III ZR 54/07, [amtlicher Leitsatz](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=pm&Blank=1&Datum=2007-11&Gericht=bgh&file=dokument.pdf&linked=urt&nr=41965): Durchschnittliche persönlichärztliche oder medizinisch-technische Leistung erlaubt den jeweiligen Regelhöchstsatz von 2,3 oder 1,8. Eine besondere Erschwernis nicht bereits hierfür verlangen. Oberhalb der Schwelle gelten weiterhin Paragraf 5 Absatz 2 und Paragraf 12 Absatz 3 GOÄ; weder Laborhöchstsatz noch fehlende Leistung werden dadurch überwunden. Leitsatz am 22.09.2026 amtlich geprüft, direkter Volltextabruf gesperrt.
 
 Paragraf 12 Absatz 3 verlangt bei Schwellenüberschreitung eine verständliche, auf die einzelne Leistung bezogene schriftliche Begründung. Fehlende Begründung, unzulässigen Faktor und Rechenfehler getrennt behandeln. Keine Behandlungserschwernis erfinden; frage nach der konkreten Schwierigkeit, dem Zeitaufwand oder den Ausführungsumständen und prüfe deren Bedeutung für die einzelne Leistung.
 

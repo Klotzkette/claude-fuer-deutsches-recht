@@ -1,8 +1,12 @@
 # 1. Hinzuschätzung mit einer belegten Gegenkalkulation prüfen
 
-Bearbeiten Sie die Hinzuschätzung meines bargeldintensiven Betriebs anhand der Prüfungsunterlagen bis zur bestellten Gegenkalkulation, Stellungnahme oder Einspruchsbegründung. Beginnen Sie beim Sachverhalt. Der Auftrag benötigt keine installierten Zusatzinhalte.
+Rechnen Sie den vom Prüfer angenommenen Warenabsatz und Rohgewinnaufschlag nach. Stellen Sie ihm die zeitgerechten Bestände, Rezepturen und Verkaufspreise meines Betriebs gegenüber und begründen Sie daraus die verlangte Korrektur der Hinzuschätzung. Liefern Sie die beauftragte Gegenkalkulation, Stellungnahme oder Einspruchsbegründung vollständig; Zusatzinhalte sind nicht erforderlich.
 
 Fragen Sie gezielt nach fehlenden Beständen, Preiszeiträumen oder Verfahrensunterlagen, soweit diese das Ergebnis verändern. Bearbeiten Sie die davon unabhängigen Teile weiter. Nach Eingang der Antwort aktualisieren Sie die betroffene Rechnung und deren Begründung im bestellten Dokument; verlangen Sie bereits belegte Angaben nicht erneut. Neue entscheidende Widersprüche dürfen weitere gezielte Rückfragen erfordern. Ein Teilstand oder ein Angebot zur späteren Texterstellung beendet den Dokumentenauftrag nicht.
+
+Ohne Eingabe bieten Sie Prüferrechnung nachvollziehen, mengenbezogene Gegenkalkulation oder fertige Stellungnahme an. Dateien ohne Auftrag zuerst still lesen und nur das passende Ziel klären, keine automatische Materialübersicht. Bei klarem Auftrag direkt bearbeiten; keine Pflicht zu mehreren Gesprächsrunden. Andere Plugin-Dateien oder Werkzeuge nicht voraussetzen.
+
+Beispiel einer Fortsetzung: „Der belegte Endbestand beträgt 2.000 statt 1.500 Flaschen.“ Bei sonst unveränderten Daten und 5 Euro Nettopreis sinkt der kalkulierte Umsatz um 2.500 Euro. Ändern Sie Rechnung, Differenz und beziffertes Begehren gemeinsam; prüfen Sie vorher, ob beide Bestände denselben Stichtag und dieselbe Warengruppe betreffen. Der neue Beleg heilt keine fehlenden Kassenaufzeichnungen.
 
 ## 2. Akten und Verfahrensstand
 
@@ -17,6 +21,8 @@ Rechnen Sie den Prüferansatz mit denselben Eingaben nach. Unterscheiden Sie Roh
 Erstellen Sie dann je Warengruppe eine Gegenkalkulation: Anfangsbestand plus Zugänge minus Endbestand und belegte nicht verkaufte Mengen. Berücksichtigen Sie Retouren, Bruch, Eigenverbrauch und Gratisabgaben nachvollziehbar, ohne pauschale Wunschabschläge. Einkauf ist nicht Absatz. Rechnen Sie Gebinde und Portionen konsistent um. Verwenden Sie zeitgleiche Verkaufspreise und belegte Rabatte, keine späteren Preislisten ohne Anpassungsnachweis.
 
 Trennen Sie Umsatzarten und Steuersätze. Begründen Sie jede Hochrechnung aus Stichproben. Vergleichen Sie die Zuverlässigkeit innerer Betriebsdaten mit äußeren Vergleichsdaten; prüfen Sie deren Zeitraum, Gewerbeklasse und Datenqualität. Bei unklaren Parametern liefern Sie eine Sensitivitätsrechnung. Eine unsichere Richtsatzsammlung beweist keinen Nullzuschlag.
+
+Wenden Sie dabei BFH, Urteil vom 18. Juni 2025, X R 19/21, Rn. 48–63, an: Nach Paragrafen 5 und 162 AO verdient die mit zumutbarem Aufwand zuverlässigere Methode Vorrang. Belegen Sie deshalb, welche vorhandenen Mengen- und Preisdaten eine innere Nachkalkulation ermöglichen, und verlangen Sie eine konkrete Begründung für deren Ablehnung. Das Gericht muss eine bessere Kalkulation erwägen, aber nicht jede vom Steuerpflichtigen gewünschte Methode übernehmen. Nicht mehr vorlegbare Rezepturen gehen bei der dadurch verursachten Unsicherheit zu dessen Lasten. Die allgemeinen Zweifel an der damaligen Richtsatzsammlung sind nach Rn. 31 nur ergänzend; sie beseitigen die Schätzungsbefugnis nicht.
 
 Stellen Sie kalkulierten und erklärten vergleichbaren Umsatz gegenüber. Leiten Sie Gewinn- und Steuerfolgen gesondert ab; Mehrumsatz ist nicht ungeprüft Mehrgewinn oder konkrete Steuernachzahlung. Fehlende Kosten- und Bescheiddaten benennen.
 

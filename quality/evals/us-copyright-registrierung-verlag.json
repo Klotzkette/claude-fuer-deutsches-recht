@@ -1,21 +1,49 @@
 {
   "schema_version": 1,
   "plugin": "us-copyright-registrierung-verlag",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
+    {
+      "url": "https://www.copyright.gov/comp3/chap600/ch600-examination-practices.pdf",
+      "checked_on": "2026-09-23",
+      "supports": "Amtliches Compendium, Kapitel 600, ausgewertete Passagen aus 621.1 bis 621.3 und 621.8, PDF-Stand 28.01.2021: vorhandenes Material und neue Beiträge sowie korrespondierende Claim-Felder. Keine Prüfung des gesamten 247-seitigen Kapitels oder aktueller Portalbedienung."
+    },
+    {
+      "url": "https://www.copyright.gov/circs/circ14.pdf",
+      "checked_on": "2026-09-23",
+      "supports": "Amtsseitigen Ersetzungshinweis gelesen: Registerpraxis der Circular 14 ist durch das Compendium ersetzt. Nur historische Orientierung; nicht als aktuelle eigenständige Amtsregel verwendet."
+    },
+    {
+      "url": "https://www.copyright.gov/title17/92chap4.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlichen Text zu Sections 409, 410(d), 411(a) und 412 erneut gelesen: Claim-Umfang, vollständiger akzeptierter Eingang, Behördenentscheidung und Dreimonatsausnahme in der Werkzeitachse getrennt."
+    },
     {
       "url": "https://www.copyright.gov/title17/92chap4.html",
       "checked_on": "2026-09-14",
       "supports": "Geöffneter amtlicher Volltext: Sections 408, 410(d), 411 und 412 trennen Schutz, effektives Registrierungsdatum, Prozesszugang und Einschränkung bestimmter Remedies samt Dreimonatsausnahme."
+    },
+    {
+      "url": "https://www.supremecourt.gov/opinions/18pdf/17-571_e29f.pdf",
+      "checked_on": "2026-09-22",
+      "supports": "Supreme Court of the United States, Opinion vom 04.03.2019, No. 17-571, Fourth Estate v. Wall-Street.com, Gründe II.A. Anwendung: Für reguläre Klage nach Section 411(a) Behördenentscheidung statt bloßer ordnungsgemäßer Antragseinreichung abwarten. Grenze und Prüfzugang: US-work-Einordnung, Ablehnung mit Zustellung an den Register und gesetzliche Sonderfälle separat; keine Aussage, dass Schutz oder frühere Ansprüche insgesamt entfallen."
+    },
+    {
+      "url": "https://www.copyright.gov/title17/92chap4.html",
+      "checked_on": "2026-09-22",
+      "supports": "Sections 410(d), 411(a) und 412 im amtlichen Text gelesen: effektives Datum, Klagevoraussetzung, begrenzte Remedies und Ausnahmen."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Mini vollständig gelesen; die brauchbare Trennung von Schutz, Registrierung und Rechtsfolgen stand neben starrem Einmal-Rückfragenlimit und Pflicht-Worksheet.",
+    "reason": "Bloßer Antragseingang erfüllt die Klagevoraussetzung für United States works grundsätzlich noch nicht. Am 23. September vollständig erneut gelesen: konkrete Registrierungs-, Office-Action- und Remedies-Einstiege sowie Werkbestandteile und Übersetzervereinbarung als Formularfortsetzung ergänzt; unter 7500 Bytes und Zeichen.",
     "changes": [
-      "Rechteurkunde, Veröffentlichungsnachweis und Office Action als konkrete Rückfragefälle eingebunden; nach Antwort Formular oder bestellten Entwurf fertigstellen, Registrierungstiming erhalten."
+      "Fourth Estate in beide Zeitachsen integriert",
+      "Section 411(a) von effective date und Dreimonatsregel unterschieden",
+      "Ablehnungs- und Sonderfälle sowie Fortbestand früherer Ansprüche ausdrücklich begrenzt",
+      "Neue Übersetzung, alter Text und fremde Illustrationen steuern Claim-Felder; nachgereichter Vertrag wirkt nur in seinem belegten Umfang."
     ],
-    "sha256": "0fb95a2b895be63cb1647a1af5704cdf3ba3c2d384c71a0eeb963a620f2f7f79"
+    "sha256": "916cc1e7d223299ea880b4f22c3298a4150b072244d641c427a81d03738e6431"
   },
   "selection": {
     "positive": [
@@ -63,10 +91,51 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt vollständig einschließlich aller Deposit-, Rechte- und Verwertungsthemen geprüft; doppelte Fallkarten und Standardrouten erschwerten die Bearbeitung.",
+    "reason": "Werkumfang, Veröffentlichung, Deposit, Office Action und Remedies werden zeitlich getrennt; vollständiges Worksheet oder bestellter Entwurf bleibt Ziel. Am 23. September vollständig erneut gelesen: Neuauflage, widersprüchliche Publikationsbelege und konkrete Amtsrückfrage bis zu Feldtexten und Timing-Memo ausgebaut.",
     "changes": [
-      "Werkumfang, Rechtekette, Antrag, Deposit, Office Action und Verletzungsfolgen zusammenhängend geordnet; alle vorhandenen Spezialthemen erhalten, keine automatische Klage und keine pauschale Deposit-Kopienzahl."
+      "Fourth Estate in beide Zeitachsen integriert",
+      "Section 411(a) von effective date und Dreimonatsregel unterschieden",
+      "Ablehnungs- und Sonderfälle sowie Fortbestand früherer Ansprüche ausdrücklich begrenzt",
+      "Alte und neue Werkbeiträge, Übertragungsurkunde und tatsächliche Ausgabe bestimmen Claim und Deposit; historische Circular 14 ausdrücklich von Compendium-Praxis getrennt.",
+      "Office-Action-Frist aus dem konkreten Schreiben, Nachreichung und Zertifikat führen zu geänderter Antwort und getrennter Bewertung von Sections 410(d), 411(a) und 412."
     ],
-    "sha256": "4c13fd648c8b8380cf03c7b43061add8ffb97c1b9285802a1e1fb1c979c67c18"
+    "sha256": "3a3ac5148cd1bf26a655b190ec47f330a9d069ba962f30a6924497fc780d0e2d"
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Registration Worksheet, Office-Action-Antwort oder Memo zu Klagezugang und Remedies anbieten.",
+      "Dateien ohne Aufgabe: Werkfassung, Autorenvertrag und Registrierungsakte still lesen; nur bei offenem Ziel passende Dokumentwege anbieten.",
+      "Klarer Auftrag: Antragsfelder, Antwort oder Timing-Memo sofort ausarbeiten; allein entscheidende Werk-, Übertragungs- oder Publikationslücke erfragen."
+    ],
+    "continuation": "Übersetzervertrag -> claimant und transfer statement im Worksheet; Publikationsbeleg -> Werkzeitachse und Deposit-Prüfung; Office-Action-Antwort oder Zertifikat -> korrigierter Antwortentwurf und Remedies-Memo.",
+    "enrichment": "Neuauflage mit altem Text, Übersetzung und Illustrationen, widersprüchliche Veröffentlichungsdaten, feldbezogene Amtsrückfrage und konkretes Dreimonatsbeispiel ohne Zusage bestimmter Schadenshöhe.",
+    "limits": "desk review; no live client execution"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "us-copyright-registrierung-verlag/us-copyright-registrierung-verlag-werkstatt.md",
+      "us-copyright-registrierung-verlag/us-copyright-registrierung-verlag-schnellstart.md",
+      "us-copyright-registrierung-verlag/README.md",
+      "quality/evals/us-copyright-registrierung-verlag.json"
+    ],
+    "opening_change": "Buchausgabe, erworbene Rechte, Veröffentlichung und tatsächlichen US-Registrierungsstand abgleichen.",
+    "norms": [
+      "17 U.S.C. Sections 101, 410(d), 411(a) und 412"
+    ],
+    "decisions": [
+      {
+        "citation": "Supreme Court of the United States, Opinion vom 04.03.2019, No. 17-571, Fourth Estate v. Wall-Street.com, Gründe II.A",
+        "url": "https://www.supremecourt.gov/opinions/18pdf/17-571_e29f.pdf",
+        "application": "Für reguläre Klage nach Section 411(a) Behördenentscheidung statt bloßer ordnungsgemäßer Antragseinreichung abwarten.",
+        "limit": "US-work-Einordnung, Ablehnung mit Zustellung an den Register und gesetzliche Sonderfälle separat; keine Aussage, dass Schutz oder frühere Ansprüche insgesamt entfallen."
+      }
+    ],
+    "remaining_limits": [
+      "Desk-/Quellenprüfung, kein Live-Ergebnistest.",
+      "Keine Einreichung, Gebührenprüfung oder umfassende bundes- und einzelstaatliche US-Prozessprüfung; US-Counsel bleibt erforderlich."
+    ]
   }
 }

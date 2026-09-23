@@ -1,41 +1,150 @@
 {
   "schema_version": 1,
   "plugin": "strassennutzung-genehmigungen",
-  "reviewed_on": "2026-09-22",
+  "reviewed_on": "2026-09-23",
   "sources": [
-    {"url": "https://www.gesetze-im-internet.de/stvo_2013/BJNR036710013.html", "checked_on": "2026-09-22", "supports": "Halten, Parken, Verkehrszeichen und genaue Ausnahmebefugnisse; bloße Belieferung ist keine allgemeine Ausnahme."},
-    {"url": "https://www.gesetze-im-internet.de/stvo_2013/__45.html", "checked_on": "2026-09-22", "supports": "Aktuelle Abgrenzung von Sicherheit, Verkehrsversuch und Maßnahmen nach Absatz 1 Satz 2 Nummer 7; Absatz 9 und Absatz 10 getrennt."},
-    {"url": "https://recht.nrw.de/lrgv/gesetz/01072026-strassen-und-wegegesetz-des-landes-nordrhein-westfalen-strwg-nrw/", "checked_on": "2026-09-22", "supports": "NRW: Gemeingebrauch, Anliegergebrauch, Sondernutzung, Zufahrten und Konzentration nach Paragraf 21 trotz enger Überschrift."},
-    {"url": "https://voris.wolterskluwer-online.de/browse/document/80248bac-f2bf-3016-b833-ee20fa60eb9f", "checked_on": "2026-09-22", "supports": "Paragraf 19 NStrG: erforderliche Verkehrserlaubnis oder Ausnahme, Beteiligung der Straßenbehörde und fortbestehende Gebühren."},
-    {"url": "https://www.stadt-muenster.de/recht/ortsrecht/satzungen/detailansicht/satzungsnummer/66.05", "checked_on": "2026-09-22", "supports": "Münsteraner Sondernutzungssatzung: Antragsanforderungen und Trennung von Erlaubnisfreiheit und Gebührenfreiheit für Fahrradständer."},
-    {"url": "https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html", "checked_on": "2026-09-22", "supports": "Rechtsbehelfe, Untätigkeit, Vollzugsschutz nach Paragraf 80 und positive vorläufige Regelung nach Paragraf 123; keine Genehmigungsfiktion."},
-    {"url": "https://voris.wolterskluwer-online.de/browse/document/f857eea7-4d32-3aa8-95ef-28740694e828", "checked_on": "2026-09-22", "supports": "Paragraf 80 NJG, über aktuelle Gesamtfassung aufgerufen: grundsätzlich kein Vorverfahren, jedoch Ausnahmen und behördliche Anordnungen prüfen."},
-    {"url": "https://www.bverwg.de/060624U3C5.23.0", "checked_on": "2026-09-22", "supports": "BVerwG, Urteil vom 06.06.2024, Az. 3 C 5.23, Volltext gelesen: Randnummern 39 bis 46 eigene erhebliche Beeinträchtigung ohne fixe Breite, 48 bis 56 Ermessen, 61 bis 63 räumliche Reichweite."},
-    {"url": "https://www.bverwg.de/de/111214U3C6.13.0", "checked_on": "2026-09-22", "supports": "BVerwG, Urteil vom 11.12.2014, Az. 3 C 6.13, Volltext gelesen: Randnummern 13 bis 19 Konzentration und Gebühren; 21 bis 30 Hindernis und eigenständiges Landesrecht."},
-    {"url": "https://www.bverwg.de/de/111214U3C7.13.0", "checked_on": "2026-09-22", "supports": "BVerwG, Urteil vom 11.12.2014, Az. 3 C 7.13, Volltext gelesen: entsprechende zweite Bauzaunentscheidung, keine bundesweite und landesunabhängige Universalzuständigkeit."},
-    {"url": "https://www.bverwg.de/de/250719B9B8.19.0", "checked_on": "2026-09-22", "supports": "BVerwG, Beschluss vom 25.07.2019, Az. 9 B 8.19, Volltext gelesen: Randnummern 3 bis 5 konkrete Containerbedienung, irrevisibles hessisches Landesrecht; keine allgemeine Ladeninhaberhaftung."},
-    {"url": "https://www.bverwg.de/300614B9B6.14.0", "checked_on": "2026-09-22", "supports": "BVerwG, Beschluss vom 30.06.2014, Az. 9 B 6.14, Volltext gelesen: Randnummer 13 keine Garantie besonders günstiger Erreichbarkeit, gleichwohl Anliegerbelange in Planfeststellung berücksichtigen."},
-    {"url": "https://nrwe.justiz.nrw.de/ovgs/vg_minden/j2021/2_L_450_21_Beschluss_20210924.html", "checked_on": "2026-09-22", "supports": "VG Minden, Beschluss vom 24.09.2021, Az. 2 L 450/21, Volltext gelesen: Randnummern 13 bis 20 regelnde Sperrpfosten, 101 bis 103 behördliche Beseitigung; historische Versuchsprüfung nicht mit heutiger Reform vermengen."}
+    {
+      "url": "https://www.gesetze-im-internet.de/vwgo/__70.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlicher Normtext gelesen: grundsätzliche Monatsfrist ab Bekanntgabe bei eröffnetem Widerspruch; landesrechtlicher Verfahrensweg bleibt eigenständige Prüfung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vwgo/__74.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlicher Normtext gelesen: Fristauslöser nach Widerspruchsbescheid beziehungsweise ohne Vorverfahren; neuer Behördenbrief nicht pauschal ein neuer Fristbeginn."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vwgo/__123.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlicher Normtext gelesen: vorläufiger Rechtsschutz auch vor Klage, Regelungsziel, Abgrenzung nach Absatz 5; Paragraf 75 zusätzlich amtlich gelesen, Dreimonatsregel keine Eilwartepflicht."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stvo_2013/BJNR036710013.html",
+      "checked_on": "2026-09-22",
+      "supports": "Halten, Parken, Verkehrszeichen und genaue Ausnahmebefugnisse; bloße Belieferung ist keine allgemeine Ausnahme."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stvo_2013/__45.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aktuelle Abgrenzung von Sicherheit, Verkehrsversuch und Maßnahmen nach Absatz 1 Satz 2 Nummer 7; Absatz 9 und Absatz 10 getrennt."
+    },
+    {
+      "url": "https://recht.nrw.de/lrgv/gesetz/01072026-strassen-und-wegegesetz-des-landes-nordrhein-westfalen-strwg-nrw/",
+      "checked_on": "2026-09-22",
+      "supports": "NRW: Gemeingebrauch, Anliegergebrauch, Sondernutzung, Zufahrten und Konzentration nach Paragraf 21 trotz enger Überschrift."
+    },
+    {
+      "url": "https://voris.wolterskluwer-online.de/browse/document/80248bac-f2bf-3016-b833-ee20fa60eb9f",
+      "checked_on": "2026-09-22",
+      "supports": "Paragraf 19 NStrG: erforderliche Verkehrserlaubnis oder Ausnahme, Beteiligung der Straßenbehörde und fortbestehende Gebühren."
+    },
+    {
+      "url": "https://www.stadt-muenster.de/recht/ortsrecht/satzungen/detailansicht/satzungsnummer/66.05",
+      "checked_on": "2026-09-22",
+      "supports": "Münsteraner Sondernutzungssatzung: Antragsanforderungen und Trennung von Erlaubnisfreiheit und Gebührenfreiheit für Fahrradständer."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vwgo/BJNR000170960.html",
+      "checked_on": "2026-09-22",
+      "supports": "Rechtsbehelfe, Untätigkeit, Vollzugsschutz nach Paragraf 80 und positive vorläufige Regelung nach Paragraf 123; keine Genehmigungsfiktion."
+    },
+    {
+      "url": "https://voris.wolterskluwer-online.de/browse/document/f857eea7-4d32-3aa8-95ef-28740694e828",
+      "checked_on": "2026-09-22",
+      "supports": "Paragraf 80 NJG, über aktuelle Gesamtfassung aufgerufen: grundsätzlich kein Vorverfahren, jedoch Ausnahmen und behördliche Anordnungen prüfen."
+    },
+    {
+      "url": "https://www.bverwg.de/060624U3C5.23.0",
+      "checked_on": "2026-09-22",
+      "supports": "BVerwG, Urteil vom 06.06.2024, Az. 3 C 5.23, Volltext gelesen: Randnummern 39 bis 46 eigene erhebliche Beeinträchtigung ohne fixe Breite, 48 bis 56 Ermessen, 61 bis 63 räumliche Reichweite."
+    },
+    {
+      "url": "https://www.bverwg.de/de/111214U3C6.13.0",
+      "checked_on": "2026-09-22",
+      "supports": "BVerwG, Urteil vom 11.12.2014, Az. 3 C 6.13, Volltext gelesen: Randnummern 13 bis 19 Konzentration und Gebühren; 21 bis 30 Hindernis und eigenständiges Landesrecht."
+    },
+    {
+      "url": "https://www.bverwg.de/de/111214U3C7.13.0",
+      "checked_on": "2026-09-22",
+      "supports": "BVerwG, Urteil vom 11.12.2014, Az. 3 C 7.13, Volltext gelesen: entsprechende zweite Bauzaunentscheidung, keine bundesweite und landesunabhängige Universalzuständigkeit."
+    },
+    {
+      "url": "https://www.bverwg.de/de/250719B9B8.19.0",
+      "checked_on": "2026-09-22",
+      "supports": "BVerwG, Beschluss vom 25.07.2019, Az. 9 B 8.19, Volltext gelesen: Randnummern 3 bis 5 konkrete Containerbedienung, irrevisibles hessisches Landesrecht; keine allgemeine Ladeninhaberhaftung."
+    },
+    {
+      "url": "https://www.bverwg.de/300614B9B6.14.0",
+      "checked_on": "2026-09-22",
+      "supports": "BVerwG, Beschluss vom 30.06.2014, Az. 9 B 6.14, Volltext gelesen: Randnummer 13 keine Garantie besonders günstiger Erreichbarkeit, gleichwohl Anliegerbelange in Planfeststellung berücksichtigen."
+    },
+    {
+      "url": "https://nrwe.justiz.nrw.de/ovgs/vg_minden/j2021/2_L_450_21_Beschluss_20210924.html",
+      "checked_on": "2026-09-22",
+      "supports": "VG Minden, Beschluss vom 24.09.2021, Az. 2 L 450/21, Volltext gelesen: Randnummern 13 bis 20 regelnde Sperrpfosten, 101 bis 103 behördliche Beseitigung; historische Versuchsprüfung nicht mit heutiger Reform vermengen."
+    },
+    {
+      "url": "https://ssl.bverwg.de/060624U3C5.23.0",
+      "checked_on": "2026-09-23",
+      "supports": "BVerwG, Urteil vom 6. Juni 2024, 3 C 5.23, Rn. 39–63: tragende Gründe amtlich nachgelesen. Eigene erhebliche Gehwegbeeinträchtigung begründet begrenzten Bescheidungsanspruch. Grenze: Keine feste Restbreite, kein automatisches Abschleppen im Stadtgebiet."
+    },
+    {
+      "url": "https://ssl.bverwg.de/111214U3C6.13.0",
+      "checked_on": "2026-09-23",
+      "supports": "BVerwG, Urteile vom 11. Dezember 2014, 3 C 6.13 und 3 C 7.13, Rn. 13–30: tragende Gründe amtlich nachgelesen. Bauzaun als mögliches Hindernis und Konzentration bei objektiv erforderlicher Verkehrsausnahme. Grenze: Landesrechtliche Zuständigkeit und fortbestehende Gebühren; nicht jede Sondernutzung ist Hindernis."
+    },
+    {
+      "url": "https://www.bverwg.de/de/250719B9B8.19.0",
+      "checked_on": "2026-09-23",
+      "supports": "BVerwG, Beschluss vom 25. Juli 2019, 9 B 8.19, Rn. 3–5: tragende Gründe amtlich nachgelesen. Unterscheidung eigener Containerbedienung im Straßenraum von beliebigen Fremdparkern. Grenze: Nichtzulassungsbeschluss zu hessischem Recht, keine bundesweite Ladeninhaberhaftung."
+    },
+    {
+      "url": "https://www.bverwg.de/300614B9B6.14.0",
+      "checked_on": "2026-09-23",
+      "supports": "BVerwG, Beschluss vom 30. Juni 2014, 9 B 6.14, Rn. 13: tragende Gründe amtlich nachgelesen. Günstige Verkehrsanbindung nicht unveränderlich; Anliegerbelange abwägungsrelevant. Grenze: Planfeststellungskontext, keine feste Transportdistanz oder automatische Ausnahme."
+    },
+    {
+      "url": "https://nrwe.justiz.nrw.de/ovgs/vg_minden/j2021/2_L_450_21_Beschluss_20210924.html",
+      "checked_on": "2026-09-23",
+      "supports": "VG Minden, Beschluss vom 24. September 2021, 2 L 450/21, Rn. 13–20, 33–48, 71–80 und 101–103: tragende Gründe amtlich nachgelesen. Regelnde Poller, befristeter Versuch und behördliche Vollzugsfolgenbeseitigung. Grenze: Historische StVO-Fassung, Eilverfahren und keine private Abbaubefugnis."
+    },
+    {
+      "url": "https://www.bverwg.de/de/111214U3C7.13.0",
+      "checked_on": "2026-09-23",
+      "supports": "Parallelurteil vom 11. Dezember 2014 eigenständig in Rn. 12–33 nachgelesen; Konzentration und Gebühren, autonome Landesregelung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stvo_2013/__45.html",
+      "checked_on": "2026-09-23",
+      "supports": "Aktueller Normtext nachgelesen, insbesondere Absatz 1 Satz 2 Nummer 7, Absatz 9 und Absatz 10; keine pauschale Freigabe jeder Sperre."
+    }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Neuer eigenständiger Schnellstart redaktionell anhand der abgeschlossenen Quellenprüfung verdichtet; kein ausgeführter Modelltest.",
+    "reason": "Individueller Ganztextreview: Zehn-Themen-Prüfung und gerichtliche Grenzen erhalten; drei echte Startwege, stilles Dateilesen und direkte klare Aufträge; erteilte Ausnahme führt konkret zum Öffnungsantrag. Kürzung technischer Wiederholungen hält beide 7500-Grenzen ein.",
     "changes": [
-      "7444 UTF-8-Bytes; Unterlagen zuerst und Fortsetzung bis zum konkreten Ergebnis.",
-      "Reformtatbestände, Genehmigungskonkurrenz und Länderzuordnung getrennt.",
-      "Kein Pollerabbau, keine pauschale Ladeninhaberhaftung, keine Erlaubnis durch Antrag."
+      "Einfahrtsausnahme und tatsächlichen Schlüsselzugang in einer konkreten Antragsformulierung getrennt.",
+      "Keine neuen pauschalen Pflichtrouten oder Rückfall-Checkliste.",
+      "Die zuvor geprüften sechs gerichtlichen Anker und die Trennung von StVO-Reform und Altentscheidungen erhalten.",
+      "Leerer Einstieg und Dateien ohne Aufgabe verhindern Materialdump; bekannte Fahrzeug- und Vollständigkeitsangaben nicht erneut erheben."
     ],
-    "sha256": "9998f7a7abbbffb936f5ff3046ef1c3b8e3ff384d66493e576ea37a888e7dd69"
+    "sha256": "4f6e852597950b096dc06b442aba49ce730a88061ef056f1437eb38d3725f07e",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Eigenständige Werkstatt mit zehn differenzierten Fachrouten und fallbezogenen Grenzen; redaktionelle Inhaltsprüfung, kein Modelllauf.",
+    "reason": "Individueller Review der erheblich erweiterten Werkstatt: Lieferablauf, Gegenbefunde, Fahrzeugwechsel, Schlüsselbedienung, tatsächliche Gehwegkontrollen und neue Behördenantworten führen zu anderen Anträgen oder Betriebsanweisungen; alle bisherigen Fachrouten bleiben erhalten.",
     "changes": [
-      "Sechs Entscheidungen im Volltext geprüft und mit konkreten Randnummern begrenzt.",
-      "Schlüsselzugang, Verkehrsausnahme und Flächennutzung getrennt behandelt.",
-      "Wiederholungen gekürzt; beide Landesakten und aktuelle Rechtsbehelfswahl berücksichtigt."
+      "Einfahrtsausnahme und tatsächlichen Schlüsselzugang in einer konkreten Antragsformulierung getrennt.",
+      "Keine neuen pauschalen Pflichtrouten oder Rückfall-Checkliste.",
+      "Die zuvor geprüften sechs gerichtlichen Anker erhalten; Gehwegentscheidung für die neue Kontrollantwort erneut im amtlichen Volltext gelesen.",
+      "Dokumentpfade Lieferausnahme, Öffnungsantrag und Betriebsanweisung anhand geänderter Kühlzeit, Fahrzeugbindung und Schlüsselvergabe konkretisiert.",
+      "Neue Behördenantwort nach ihrem Regelungsgehalt eingeordnet; Fristauslöser, positive Eilregelung und Freigabegrenzen vertieft."
     ],
-    "sha256": "5e5aef0a7b0ca858f948bebfdfdca57fbe9574ae6b880b070ff8311b30ca77f8"
+    "sha256": "46cf587efb51212841639b8520b5da2748764f56d0165b5649087bf22b517711",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
   },
   "selection": {
     "target_skill": "strassenstatus-widmung-und-zustaendigkeit",
@@ -54,11 +163,31 @@
       "target_skill": "strassenstatus-widmung-und-zustaendigkeit",
       "request": "Erstellen Sie ergebnis.md als begründete Statusbewertung mit einer konkreten Behördenanfrage. In Münster liegt die Ladezufahrt auf einem privaten Vorplatz, der seit Jahren ohne Schranke allgemein befahren wird. Eigentumsnachweis und Lageplan liegen vor; ein Widmungsakt fehlt. Das Ordnungsamt nennt nur das Privateigentum als Ablehnungsgrund. Unterstellen Sie weder Widmung noch Verkehrsprivatheit und fragen Sie bereits genannte Tatsachen nicht erneut ab.",
       "input_files": [],
-      "deliverables": ["ergebnis.md"],
+      "deliverables": [
+        "ergebnis.md"
+      ],
       "criteria": [
-        {"id": "C01", "text": "Eigentum, tatsächliche Verkehrsöffentlichkeit und straßenrechtliche Widmung werden getrennt; weder Anwendung noch Ausschluss des Landesstraßenrechts wird aus Eigentum allein abgeleitet.", "deliverables": ["ergebnis.md"]},
-        {"id": "C02", "text": "Die Anfrage verlangt konkret Widmung, spätere Änderungen und Planbezug; Verkehrsbehörde und Straßenverwaltung werden nach Aufgabe unterschieden.", "deliverables": ["ergebnis.md"]},
-        {"id": "C03", "text": "Es entsteht ein vollständiger Text mit genau bezeichneten offenen Grundlagen, keine neue allgemeine Mandatsaufnahme und keine bloße Matrix.", "deliverables": ["ergebnis.md"]}
+        {
+          "id": "C01",
+          "text": "Eigentum, tatsächliche Verkehrsöffentlichkeit und straßenrechtliche Widmung werden getrennt; weder Anwendung noch Ausschluss des Landesstraßenrechts wird aus Eigentum allein abgeleitet.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die Anfrage verlangt konkret Widmung, spätere Änderungen und Planbezug; Verkehrsbehörde und Straßenverwaltung werden nach Aufgabe unterschieden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Es entsteht ein vollständiger Text mit genau bezeichneten offenen Grundlagen, keine neue allgemeine Mandatsaufnahme und keine bloße Matrix.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
       ]
     },
     {
@@ -66,11 +195,31 @@
       "target_skill": "anliegergebrauch-und-lieferzufahrt-sichern",
       "request": "Erstellen Sie ergebnis.md als begründeten Antrag auf ein enges Lieferfenster. Ein Laden in Niedersachsen muss werktags 16 Rollkisten und zwei Kühlboxen übernehmen. Die Ersatzladefläche liegt 230 Meter entfernt; der Gehweg ist teilweise schmal und weist eine ungesicherte Querung auf. Die alte Zufahrt wurde gesperrt. Kühlanforderungen sind dokumentiert, genaue Kistengewichte fehlen noch. Die Inhaberin behauptet ein absolutes Recht auf optimale Türbelieferung. Prüfen Sie diesen Anspruch und arbeiten Sie den Antrag soweit möglich aus.",
       "input_files": [],
-      "deliverables": ["ergebnis.md"],
+      "deliverables": [
+        "ergebnis.md"
+      ],
       "criteria": [
-        {"id": "C01", "text": "Geschützter Zugang und optimale Belieferung werden getrennt; NStrG statt NRW-Recht ist Ausgangspunkt und 9 B 6.14 wird auf seinen Planungskontext begrenzt.", "deliverables": ["ergebnis.md"]},
-        {"id": "C02", "text": "230 Meter werden nicht als automatische Zumutbarkeitsgrenze behandelt; Querung, Lasten, Kühlung und Alternativen werden konkret gewürdigt.", "deliverables": ["ergebnis.md"]},
-        {"id": "C03", "text": "Der Antrag wird ausformuliert; fehlende Gewichte werden gezielt gekennzeichnet, keine Notlage oder unbedingte Zufahrtsgarantie erfunden.", "deliverables": ["ergebnis.md"]}
+        {
+          "id": "C01",
+          "text": "Geschützter Zugang und optimale Belieferung werden getrennt; NStrG statt NRW-Recht ist Ausgangspunkt und 9 B 6.14 wird auf seinen Planungskontext begrenzt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "230 Meter werden nicht als automatische Zumutbarkeitsgrenze behandelt; Querung, Lasten, Kühlung und Alternativen werden konkret gewürdigt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Der Antrag wird ausformuliert; fehlende Gewichte werden gezielt gekennzeichnet, keine Notlage oder unbedingte Zufahrtsgarantie erfunden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
       ]
     },
     {
@@ -78,11 +227,31 @@
       "target_skill": "halten-parken-und-ladeflaechen-klaeren",
       "request": "Erstellen Sie ergebnis.md als kurze rechtliche Betriebsanweisung. Eine wirksame Ausnahme erlaubt dem bezeichneten Lieferwagen die Einfahrt, schweigt aber zum Parken. Am Ladeort gilt Zeichen 286 ohne weitere Einschränkung. Der Fahrer entlädt acht Minuten ohne Verzögerung; alternativ möchte er trotz fehlender Zulassung auf dem Gehweg stehen. Der Wagen ist ein gewöhnlicher Transporter ohne Übermaße. Erklären Sie den zulässigen Ablauf ohne eine Bußgeldverteidigung zu verfassen.",
       "input_files": [],
-      "deliverables": ["ergebnis.md"],
+      "deliverables": [
+        "ergebnis.md"
+      ],
       "criteria": [
-        {"id": "C01", "text": "Die achtminütige verzögerungsfreie Ladetätigkeit wird nicht allein wegen Überschreitens von drei Minuten als nach Zeichen 286 verboten bewertet.", "deliverables": ["ergebnis.md"]},
-        {"id": "C02", "text": "Einfahrtsausnahme wird nicht zu Gehwegparkerlaubnis erweitert; Warnblinklicht oder freie Breite ersetzen die fehlende Zulassung nicht.", "deliverables": ["ergebnis.md"]},
-        {"id": "C03", "text": "Keine Paragraf-29-Erlaubnis allein wegen gewerblicher Belieferung; vollständige verständliche Anweisung statt OWi-Einlassung.", "deliverables": ["ergebnis.md"]}
+        {
+          "id": "C01",
+          "text": "Die achtminütige verzögerungsfreie Ladetätigkeit wird nicht allein wegen Überschreitens von drei Minuten als nach Zeichen 286 verboten bewertet.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Einfahrtsausnahme wird nicht zu Gehwegparkerlaubnis erweitert; Warnblinklicht oder freie Breite ersetzen die fehlende Zulassung nicht.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Keine Paragraf-29-Erlaubnis allein wegen gewerblicher Belieferung; vollständige verständliche Anweisung statt OWi-Einlassung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
       ]
     },
     {
@@ -90,11 +259,31 @@
       "target_skill": "poller-sperren-und-schluesselzugang-pruefen",
       "request": "Erstellen Sie ergebnis.md als Öffnungsantrag und kurzen internen Rechtsschutzvermerk. In Münster sperrt ein rot-weißer herausnehmbarer Poller die Lieferzufahrt. Die aktuelle Anordnung und eine Einfahrtsausnahme liegen vor, ein Schlüssel wurde nicht erteilt. Der Inhaber möchte den Poller selbst entfernen und verweist auf VG Minden 2 L 450/21. Benötigt wird werktags ein zwanzigminütiges Lieferfenster; endgültige Demontage ist nicht nötig. Eine Bedienregel fehlt.",
       "input_files": [],
-      "deliverables": ["ergebnis.md"],
+      "deliverables": [
+        "ergebnis.md"
+      ],
       "criteria": [
-        {"id": "C01", "text": "Verkehrsberechtigung und tatsächlicher Schlüsselzugang werden getrennt; Antrag benennt Poller, Zeitfenster und sichere Bedienung beziehungsweise begleitete Öffnung.", "deliverables": ["ergebnis.md"]},
-        {"id": "C02", "text": "Kein Recht zum eigenen Pollerabbau; Randnummern 101 bis 103 des Minden-Beschlusses werden als behördliche Vollzugsfolgenbeseitigung eingeordnet.", "deliverables": ["ergebnis.md"]},
-        {"id": "C03", "text": "Die konkrete Handlungsform und das positive Zugangsziel bestimmen den Rechtsschutz; keine pauschale Übertragung der alten Versuchsprüfung auf alle heutigen Poller.", "deliverables": ["ergebnis.md"]}
+        {
+          "id": "C01",
+          "text": "Verkehrsberechtigung und tatsächlicher Schlüsselzugang werden getrennt; Antrag benennt Poller, Zeitfenster und sichere Bedienung beziehungsweise begleitete Öffnung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Kein Recht zum eigenen Pollerabbau; Randnummern 101 bis 103 des Minden-Beschlusses werden als behördliche Vollzugsfolgenbeseitigung eingeordnet.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die konkrete Handlungsform und das positive Zugangsziel bestimmen den Rechtsschutz; keine pauschale Übertragung der alten Versuchsprüfung auf alle heutigen Poller.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
       ]
     },
     {
@@ -102,11 +291,31 @@
       "target_skill": "sondernutzung-und-ausnahme-abstimmen",
       "request": "Erstellen Sie ergebnis.md als abgestimmten Zulassungsantrag für einen nichtwerblichen Bauzaun auf dem Gehweg einer Gemeindestraße in Niedersachsen. Der Zaun erschwert nach belegter Ortsbesichtigung den Fußverkehr; eine Ausnahme von Paragraf 32 StVO ist objektiv erforderlich, aber noch nicht erteilt. Eine Sachbearbeiterin verlangt vorab zwei unabhängige Erlaubnisse, der Betreiber behauptet dagegen völlige Gebührenfreiheit wegen Konzentration. Lage, Zeitraum und Maße sind vorhanden.",
       "input_files": [],
-      "deliverables": ["ergebnis.md"],
+      "deliverables": [
+        "ergebnis.md"
+      ],
       "criteria": [
-        {"id": "C01", "text": "Sondernutzung und Hindernis werden getrennt geprüft; passende Ausnahme nach Paragraf 46 Absatz 1 Satz 1 Nummer 8 StVO und Konzentration nach Paragraf 19 NStrG werden benannt.", "deliverables": ["ergebnis.md"]},
-        {"id": "C02", "text": "Objektive Erforderlichkeit genügt für die Konzentrationsprüfung; fehlende Erteilung begründet nicht automatisch zwei unabhängige Genehmigungen.", "deliverables": ["ergebnis.md"]},
-        {"id": "C03", "text": "Beteiligung, Straßenbelange und mögliche Sondernutzungsgebühren bleiben erhalten; 3 C 6.13 und 3 C 7.13 werden nicht als landesunabhängiges Universalmodell behandelt.", "deliverables": ["ergebnis.md"]}
+        {
+          "id": "C01",
+          "text": "Sondernutzung und Hindernis werden getrennt geprüft; passende Ausnahme nach Paragraf 46 Absatz 1 Satz 1 Nummer 8 StVO und Konzentration nach Paragraf 19 NStrG werden benannt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Objektive Erforderlichkeit genügt für die Konzentrationsprüfung; fehlende Erteilung begründet nicht automatisch zwei unabhängige Genehmigungen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Beteiligung, Straßenbelange und mögliche Sondernutzungsgebühren bleiben erhalten; 3 C 6.13 und 3 C 7.13 werden nicht als landesunabhängiges Universalmodell behandelt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
       ]
     },
     {
@@ -114,11 +323,31 @@
       "target_skill": "schulstrasse-und-verkehrsanordnung-pruefen",
       "request": "Erstellen Sie ergebnis.md als Stellungnahme zu einer NRW-Schulstraße im September 2026. Die Behörde nennt gleichzeitig Verkehrsversuch und Bereitstellung angemessener Fußverkehrsflächen aus Stadtentwicklungsgründen. Eine Zählung und eine auf vier Monate befristete Anordnung liegen vor; konkrete Versuchsziele fehlen. Die Gegenseite meint, seit der Reform dürfe jede Straße ohne weitere Voraussetzungen gesperrt werden, hilfsweise verbiete der Minden-Beschluss von 2021 alle Klimaschutzsperren. Trennen Sie diese Aussagen und benennen Sie gezielt fehlende Tatsachen.",
       "input_files": [],
-      "deliverables": ["ergebnis.md"],
+      "deliverables": [
+        "ergebnis.md"
+      ],
       "criteria": [
-        {"id": "C01", "text": "Nummer 6 und Nummer 7 des Paragrafen 45 Absatz 1 Satz 2 StVO werden getrennt mit ihrem wirklichen Maßnahmentyp geprüft; Befristung allein ist kein Versuch.", "deliverables": ["ergebnis.md"]},
-        {"id": "C02", "text": "Absatz 9 Satz 4 Nummer 7 nimmt echte Erprobung von Satz 3 aus; Absatz 10 Nummer 2 nimmt Maßnahmen nach Absatz 1 Satz 2 Nummer 7 vom gesamten Absatz 9 aus. Kein Vermengen.", "deliverables": ["ergebnis.md"]},
-        {"id": "C03", "text": "Sicherheit, Leichtigkeit und Verhältnismäßigkeit bleiben sachgerecht geprüft; weder universelle Reformfreigabe noch historischer genereller Klimaschutz-Ausschluss.", "deliverables": ["ergebnis.md"]}
+        {
+          "id": "C01",
+          "text": "Nummer 6 und Nummer 7 des Paragrafen 45 Absatz 1 Satz 2 StVO werden getrennt mit ihrem wirklichen Maßnahmentyp geprüft; Befristung allein ist kein Versuch.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Absatz 9 Satz 4 Nummer 7 nimmt echte Erprobung von Satz 3 aus; Absatz 10 Nummer 2 nimmt Maßnahmen nach Absatz 1 Satz 2 Nummer 7 vom gesamten Absatz 9 aus. Kein Vermengen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Sicherheit, Leichtigkeit und Verhältnismäßigkeit bleiben sachgerecht geprüft; weder universelle Reformfreigabe noch historischer genereller Klimaschutz-Ausschluss.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
       ]
     },
     {
@@ -126,11 +355,31 @@
       "target_skill": "fahrradverkehr-und-abstellnutzung-abgrenzen",
       "request": "Erstellen Sie ergebnis.md als Beratung mit benötigtem Antrag. Eine Ladeninhaberin in Münster will einen unbeworbenen mobilen Fahrradständer dauerhaft auf den öffentlichen Gehweg stellen. Sie verweist auf Paragraf 8a der örtlichen Sondernutzungssatzung und behauptet, keine Erlaubnis zu benötigen. Daneben fragt sie, ob ihr gewöhnliches verkehrsbereites Lastenrad schon wegen des Lieferzwecks Sondernutzung sei. Fotos und Maße liegen vor; es bleibt ein enger Durchgang.",
       "input_files": [],
-      "deliverables": ["ergebnis.md"],
+      "deliverables": [
+        "ergebnis.md"
+      ],
       "criteria": [
-        {"id": "C01", "text": "Gebührenfreiheit nach Paragraf 8a wird nicht als Erlaubnisfreiheit ausgegeben; übrige Satzung, Landesrecht und Durchgang werden geprüft.", "deliverables": ["ergebnis.md"]},
-        {"id": "C02", "text": "Ständeraufstellung und gewöhnliche verkehrsbezogene Lastenradnutzung werden getrennt; kein Sondernutzungsautomatismus allein wegen Gewerbezwecks.", "deliverables": ["ergebnis.md"]},
-        {"id": "C03", "text": "Ein vollständiger, sachlich begrenzter Antrag beziehungsweise eine begründete Anpassung entsteht; keine Werbeanlagenprüfung und keine erfundene Flächengarantie.", "deliverables": ["ergebnis.md"]}
+        {
+          "id": "C01",
+          "text": "Gebührenfreiheit nach Paragraf 8a wird nicht als Erlaubnisfreiheit ausgegeben; übrige Satzung, Landesrecht und Durchgang werden geprüft.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Ständeraufstellung und gewöhnliche verkehrsbezogene Lastenradnutzung werden getrennt; kein Sondernutzungsautomatismus allein wegen Gewerbezwecks.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Ein vollständiger, sachlich begrenzter Antrag beziehungsweise eine begründete Anpassung entsteht; keine Werbeanlagenprüfung und keine erfundene Flächengarantie.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
       ]
     },
     {
@@ -138,11 +387,31 @@
       "target_skill": "gehwegparken-und-behoerdliches-einschreiten",
       "request": "Erstellen Sie ergebnis.md als Einschreitensantrag eines Anwohners in NRW. Ohne Zeichen 315 oder Markierung wird sein Gehweg regelmäßig auf 1.2 Meter Restbreite über längere Abschnitte eingeengt. Begegnungen mit Kinderwagen sind nach Fotos und Protokollen erheblich erschwert. Die Behörde verweist seit zwei Jahren auf ein nicht näher beschriebenes Konzept. Der Anwohner verlangt sofortiges Abschleppen im ganzen Stadtgebiet und beruft sich auf eine angebliche feste 1.5-Meter-Grenze in BVerwG 3 C 5.23. Korrigieren Sie die Begründung und formulieren Sie ein tragfähiges Begehren.",
       "input_files": [],
-      "deliverables": ["ergebnis.md"],
+      "deliverables": [
+        "ergebnis.md"
+      ],
       "criteria": [
-        {"id": "C01", "text": "Das Datum lautet 06.06.2024; Randnummer 46 wird als Gesamtbetrachtung und nicht als feste Mindestbreite ausgewertet.", "deliverables": ["ergebnis.md"]},
-        {"id": "C02", "text": "Eigene erhebliche Betroffenheit und regelmäßig eigener Straßenabschnitt bis zur nächsten Querstraße werden begründet; kein stadtweiter Kontrollanspruch.", "deliverables": ["ergebnis.md"]},
-        {"id": "C03", "text": "Geeignete Maßnahmen und ermessensfehlerfreie Entscheidung statt automatischem Abschleppanspruch; tatsächliche Verfolgung des Konzepts nach Randnummer 56 wird hinterfragt.", "deliverables": ["ergebnis.md"]}
+        {
+          "id": "C01",
+          "text": "Das Datum lautet 06.06.2024; Randnummer 46 wird als Gesamtbetrachtung und nicht als feste Mindestbreite ausgewertet.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Eigene erhebliche Betroffenheit und regelmäßig eigener Straßenabschnitt bis zur nächsten Querstraße werden begründet; kein stadtweiter Kontrollanspruch.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Geeignete Maßnahmen und ermessensfehlerfreie Entscheidung statt automatischem Abschleppanspruch; tatsächliche Verfolgung des Konzepts nach Randnummer 56 wird hinterfragt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
       ]
     },
     {
@@ -150,11 +419,31 @@
       "target_skill": "ladeninhaber-und-fremdparker-abgrenzen",
       "request": "Erstellen Sie ergebnis.md als Stellungnahme zu einer Anhörung der Stadt Münster. Die Stadt verlangt vom Ladeninhaber, sämtliche unbekannten Falschparker vor dem Geschäft zu entfernen, und nennt BVerwG 9 B 8.19 als allgemeine Haftungsgrundlage. Zugleich ist belegt, dass seine Disposition einen eigenen Lieferfahrer einmal zum Halten auf dem Gehweg angewiesen hat. Sonstige Weisungen, Verbindungen oder eigene Container sind nicht belegt. Bestreiten Sie nicht wahrheitswidrig die interne Anweisung, übernehmen Sie aber keine pauschale Verantwortung.",
       "input_files": [],
-      "deliverables": ["ergebnis.md"],
+      "deliverables": [
+        "ergebnis.md"
+      ],
       "criteria": [
-        {"id": "C01", "text": "Eigene konkrete Anweisung und unbekanntes Fremdverhalten werden getrennt; Ladenöffnung oder Nähe allein begründet keine pauschale Pflicht.", "deliverables": ["ergebnis.md"]},
-        {"id": "C02", "text": "9 B 8.19 wird als Nichtzulassungsbeschluss zu hessischem Containerfall mit Straßenraumbedienung begrenzt, nicht als allgemeine Haftungsnorm verwendet.", "deliverables": ["ergebnis.md"]},
-        {"id": "C03", "text": "Konkrete Eingriffsnorm, Zurechnung, Auswahl und tatsächliche Befugnis werden verlangt; kein privates Abschlepprecht oder Anerkenntnis umfassender Haftung.", "deliverables": ["ergebnis.md"]}
+        {
+          "id": "C01",
+          "text": "Eigene konkrete Anweisung und unbekanntes Fremdverhalten werden getrennt; Ladenöffnung oder Nähe allein begründet keine pauschale Pflicht.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "9 B 8.19 wird als Nichtzulassungsbeschluss zu hessischem Containerfall mit Straßenraumbedienung begrenzt, nicht als allgemeine Haftungsnorm verwendet.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Konkrete Eingriffsnorm, Zurechnung, Auswahl und tatsächliche Befugnis werden verlangt; kein privates Abschlepprecht oder Anerkenntnis umfassender Haftung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
       ]
     },
     {
@@ -162,13 +451,104 @@
       "target_skill": "antraege-rechtsbehelfe-und-eilrechtsschutz",
       "request": "Erstellen Sie ergebnis.md als begründeten vorläufigen Rechtsschutzentwurf, nicht nur als Analyse. Niedersachsen, Eichenstedt: Die Stadt bestätigt mit Nachricht vom 25.08.2026, dass die Fahrzeugdaten am 24.08. nachgereicht wurden und der Ausnahmeantrag nun vollständig ist. Sie kündigt eine spätere Entscheidung an und schließt eine vorläufige Duldung ausdrücklich aus. Eine notwendige Lieferung steht in zwei Tagen an, Alternativen sind mit Belegen als ungeeignet beschrieben. Auftrag ist eine positive zeitlich begrenzte Einfahrtszulassung, nicht die allgemeine Aufhebung der Schulstraße. Antragsdaten und Vertretung sind bekannt. Fehlende Ablehnung nicht erfinden.",
       "input_files": [],
-      "deliverables": ["ergebnis.md"],
+      "deliverables": [
+        "ergebnis.md"
+      ],
       "criteria": [
-        {"id": "C01", "text": "Bestätigte Vollständigkeit wird berücksichtigt; keine erneute Frage nach Fahrzeugdaten und keine Umdeutung der Zwischenmitteilung in Genehmigung oder endgültige Ablehnung.", "deliverables": ["ergebnis.md"]},
-        {"id": "C02", "text": "Das positive Eilziel wird grundsätzlich Paragraf 123 VwGO zugeordnet, mit Anspruch, Eile, Glaubhaftmachung und begrenztem Zeitraum; Paragraf 80 Absatz 5 erteilt keine Ausnahme.", "deliverables": ["ergebnis.md"]},
-        {"id": "C03", "text": "Paragraf 75 VwGO wird nicht als starre Eilwartefrist oder Genehmigungsfiktion verwendet; Niedersachsen und aktueller Verfahrensstand bleiben maßgeblich.", "deliverables": ["ergebnis.md"]},
-        {"id": "C04", "text": "Vollständig ausformulierter Entwurf mit bestimmten Anträgen statt bloßer Prüfliste; keine externe Einreichung, OWi-Einlassung oder erfundene Ermessensreduzierung.", "deliverables": ["ergebnis.md"]}
+        {
+          "id": "C01",
+          "text": "Bestätigte Vollständigkeit wird berücksichtigt; keine erneute Frage nach Fahrzeugdaten und keine Umdeutung der Zwischenmitteilung in Genehmigung oder endgültige Ablehnung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Das positive Eilziel wird grundsätzlich Paragraf 123 VwGO zugeordnet, mit Anspruch, Eile, Glaubhaftmachung und begrenztem Zeitraum; Paragraf 80 Absatz 5 erteilt keine Ausnahme.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Paragraf 75 VwGO wird nicht als starre Eilwartefrist oder Genehmigungsfiktion verwendet; Niedersachsen und aktueller Verfahrensstand bleiben maßgeblich.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Vollständig ausformulierter Entwurf mit bestimmten Anträgen statt bloßer Prüfliste; keine externe Einreichung, OWi-Einlassung oder erfundene Ermessensreduzierung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
       ]
     }
-  ]
+  ],
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Lieferausnahme, Polleröffnung oder Gehweg-Einschreitensantrag anbieten.",
+      "Dateien: Anordnung, Antrag und Nachreichung still lesen; nur bei offenem Ziel passenden Liefer- oder Eilweg klären.",
+      "Klarer Auftrag: sofort den bestimmten Antrag oder Rat ausarbeiten, vorhandene Fahrzeugdaten und bestätigte Vollständigkeit übernehmen."
+    ],
+    "continuation": "Erteilte Ausnahme ohne Schlüssel führt zum Öffnungsantrag; anderer zugelassener Fahrzeugkreis zur Anpassung der Berechtigung; neue Gehwegkontrollen ändern die Untätigkeitsbegründung; positiver Bescheid verändert verbleibendes Eilziel.",
+    "enrichment": "Reale Lieferalternativen und Kühl-Gegenbefunde, begrenzte Hilfsanträge, Bedien- und Haftungsumfang beim Poller, örtlich und zeitlich belegte Gehwegbeeinträchtigung, Fristauslöser und Glaubhaftmachung für vorläufigen Zugang.",
+    "limits": "desk review; no live client execution"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-23",
+    "files": [
+      "strassennutzung-genehmigungen/README.md",
+      "strassennutzung-genehmigungen/strassennutzung-genehmigungen-schnellstart.md",
+      "strassennutzung-genehmigungen/strassennutzung-genehmigungen-werkstatt.md",
+      "quality/evals/strassennutzung-genehmigungen.json"
+    ],
+    "opening_change": "Zufahrt, Belieferung und tatsächliche Polleröffnung statt abstrakter Aufzählung eines Rechtsgebiets.",
+    "norms": [
+      "Paragraf 12, Paragraf 32, Paragraf 43, Paragraf 45 und Paragraf 46 StVO",
+      "Paragraf 19 NStrG, Paragraf 21 StrWG NRW und Paragraf 8 Absatz 6 FStrG",
+      "Paragraf 80 Absatz 5 und Paragraf 123 VwGO"
+    ],
+    "decisions": [
+      {
+        "citation": "BVerwG, Urteil vom 6. Juni 2024, 3 C 5.23, Rn. 39–63",
+        "url": "https://ssl.bverwg.de/060624U3C5.23.0",
+        "application": "Eigene erhebliche Gehwegbeeinträchtigung begründet begrenzten Bescheidungsanspruch.",
+        "limit": "Keine feste Restbreite, kein automatisches Abschleppen im Stadtgebiet."
+      },
+      {
+        "citation": "BVerwG, Urteile vom 11. Dezember 2014, 3 C 6.13 und 3 C 7.13, Rn. 13–30",
+        "url": "https://ssl.bverwg.de/111214U3C6.13.0",
+        "application": "Bauzaun als mögliches Hindernis und Konzentration bei objektiv erforderlicher Verkehrsausnahme.",
+        "limit": "Landesrechtliche Zuständigkeit und fortbestehende Gebühren; nicht jede Sondernutzung ist Hindernis."
+      },
+      {
+        "citation": "BVerwG, Beschluss vom 25. Juli 2019, 9 B 8.19, Rn. 3–5",
+        "url": "https://www.bverwg.de/de/250719B9B8.19.0",
+        "application": "Unterscheidung eigener Containerbedienung im Straßenraum von beliebigen Fremdparkern.",
+        "limit": "Nichtzulassungsbeschluss zu hessischem Recht, keine bundesweite Ladeninhaberhaftung."
+      },
+      {
+        "citation": "BVerwG, Beschluss vom 30. Juni 2014, 9 B 6.14, Rn. 13",
+        "url": "https://www.bverwg.de/300614B9B6.14.0",
+        "application": "Günstige Verkehrsanbindung nicht unveränderlich; Anliegerbelange abwägungsrelevant.",
+        "limit": "Planfeststellungskontext, keine feste Transportdistanz oder automatische Ausnahme."
+      },
+      {
+        "citation": "VG Minden, Beschluss vom 24. September 2021, 2 L 450/21, Rn. 13–20, 33–48, 71–80 und 101–103",
+        "url": "https://nrwe.justiz.nrw.de/ovgs/vg_minden/j2021/2_L_450_21_Beschluss_20210924.html",
+        "application": "Regelnde Poller, befristeter Versuch und behördliche Vollzugsfolgenbeseitigung.",
+        "limit": "Historische StVO-Fassung, Eilverfahren und keine private Abbaubefugnis."
+      }
+    ],
+    "remaining_limits": [
+      "Vorhandene Quellenprüfung vom 22. September bleibt unverändert dokumentiert; diese Nachprüfung am 23. September erfasst die zitierten Entscheidungsgründe und aktuellen Paragraf 45 StVO, nicht erneut jedes Landes- und Ortsrecht.",
+      "Desk-/Quellenprüfung; zehn Evaluationsfälle nicht als Live-Modelltest ausgeführt.",
+      "Keine Änderungen an den zehn gewöhnlichen Skills oder an QA/README.",
+      "Workflow-Erweiterung: Paragrafen 70, 74, 75 und 123 VwGO sowie BVerwG 3 C 5.23 erneut amtlich gelesen. Direktabrufe von Paragraf 46 StVO und 80 VwGO scheiterten; deren vorhandene Aussagen wurden aus dem dokumentierten Vorreview übernommen, nicht als frisch verifiziert ausgegeben."
+    ]
+  }
 }

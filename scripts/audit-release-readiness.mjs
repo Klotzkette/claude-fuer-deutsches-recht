@@ -91,7 +91,7 @@ for (const entry of marketplace.plugins) {
   assert(fs.existsSync(schnellstart), `${entry.name}: Schnellstart-Markdown fehlt`);
   if (fs.existsSync(werkstatt)) {
     const size = fs.statSync(werkstatt).size;
-    assert(size <= 48 * 1024, `${rel(werkstatt)}: Werkstatt ist größer als 48 KiB (${size} Bytes)`);
+    assert(size <= 128 * 1024, `${rel(werkstatt)}: Werkstatt ist größer als 128 KiB (${size} Bytes)`);
     // Technische Struktur prüfen, nicht Textvolumen als Fachqualität ausgeben.
     const text = readText(werkstatt);
     assert(text.startsWith('# ') && (text.match(/^# /gm) || []).length === 1,

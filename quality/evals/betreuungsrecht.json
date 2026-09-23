@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "betreuungsrecht",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/bgb/__1814.html",
@@ -17,16 +17,55 @@
       "url": "https://www.gesetze-im-internet.de/bgb/__1835.html",
       "checked_on": "2026-09-14",
       "supports": "Vermögensverzeichnis zum Bestellungszeitpunkt, Einnahmen und Ausgaben, Belegpflicht und spätere Ergänzung."
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2021/03/rk20210331_1bvr041320.html",
+      "checked_on": "2026-09-22",
+      "supports": "Erneute Primärquellenprüfung: BVerfG, Beschluss vom 31.03.2021, 1 BvR 413/20, Randnummern 20, 23, 34 bis 35. Anwendung: Bei Ablehnung oder Entlassung eines gewünschten Angehörigen konkrete Eignung, familiäre Bindung und unterstützende Alternativen prüfen. Grenze: Kein absoluter Angehörigenvorrang; Entscheidung zu altem Betreuungsrecht, Übertragung nur mit aktuellen Paragrafen 1816, 1817 und 1868 BGB."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__1816.html",
+      "checked_on": "2026-09-22",
+      "supports": "Auswahl nach Wunsch und Eignung; keine allein aus Verwandtschaft folgende Eignung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__1821.html",
+      "checked_on": "2026-09-22",
+      "supports": "Unterstützung, Wünsche und begrenzter Vertretungseinsatz."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__1835.html",
+      "checked_on": "2026-09-22",
+      "supports": "Bestellungsstichtag, Belegpflicht und Ergänzung des Vermögensverzeichnisses."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__1865.html",
+      "checked_on": "2026-09-22",
+      "supports": "Jährliche Rechnungslegung, Ab- und Zugang sowie Abgrenzung zum Bericht."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__1832.html",
+      "checked_on": "2026-09-22",
+      "supports": "Genehmigung ärztlicher Zwangsmaßnahmen; amtliche Fußnote enthält Fortgeltung und Neuregelungsauftrag bis Ende 2026. Keine abschließende Spezialprüfung der verfassungsrechtlichen Entscheidung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__1833.html",
+      "checked_on": "2026-09-23",
+      "supports": "Aufgabe selbst genutzten Wohnraums: unverzügliche Anzeige mit Gründen und Sichtweise, Genehmigung bestimmter Rechtsgeschäfte gesondert von Kündigung."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Vollständig gelesen: Wunschermittlung, Aufgabenbereich und Bestellungsstichtag führen zu gezielter Ergänzung und fertigem Verzeichnis oder Gerichtsschreiben, ohne Angehörigenangaben als Willen zu fingieren.",
+    "reason": "Mini vollständig auf Unterstützung, Vertretung und Bestellungsstichtag geprüft. Die Auswahl eines Angehörigen ist nun mit konkreter Eignungsprüfung und verfassungsrechtlichem Maßstab verbunden. Redaktioneller Desk-Review, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert.",
     "changes": [
-      "Nach konkreter Wunschäußerung Unterstützungsbedarf und Text aktualisieren lassen.",
-      "Stichtagsauszug nachfordern und danach Salden sowie Verzeichnis korrigieren; verfügbares Material nicht als vollständige Betreuungskontrolle behandeln."
+      "BVerfG 1 BvR 413/20 in Wunsch- und Eignungsprüfung integriert, ohne Angehörigenvorrang zu behaupten.",
+      "Jahresbericht nach Paragraf 1863 und Rechnungslegung nach Paragraf 1865 BGB getrennt; Dokumentenstart und Fortsetzung erhalten.",
+      "Leer: Wohnungsentscheidung, Vermögensverzeichnis oder Gerichtsbericht. Dateien: still lesen und passendes Betreuungsdokument anbieten. Klar: direkt bestelltes Schreiben oder Verzeichnis erstellen.",
+      "Rückkehrwunsch ändert Wohnungsentscheidung; früher Erbanfall verändert Stichtagsvermögen statt bloßer Zahlungstagszuordnung."
     ],
-    "sha256": "8c476ab494b9ba0ced925d8c80b5eddd8395bf32727ee3b26b01b356f3118808"
+    "sha256": "32737e5eadec193d28fd203c3335fe64f0983e908ca4ac92386627ed786b0526",
+    "reviewed_on": "2026-09-22",
+    "method": "desk_review"
   },
   "selection": {
     "positive": [
@@ -74,12 +113,52 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Gesamte Werkstatt einschließlich Altverweisen gelesen. Ein verbleibender Widerspruch zwischen Vermögensverzeichnis und alter Zuordnung von Paragraf 1835 zum Aufwendungsersatz wurde gezielt beseitigt.",
+    "reason": "Werkstatt vollständig gelesen und veraltete Normzuordnungen sowie ungeprüfte Entscheidungslisten bereinigt. Eignung, Betreuungshandlung und gerichtliche Genehmigung werden fallbezogen zugeordnet. Redaktioneller Desk-Review, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen.",
     "changes": [
-      "Paragraf 1835 als Vermögensverzeichnis bezeichnet und alte Zuordnung ausdrücklich ausgeschlossen.",
-      "Vorhandene Fortsetzung nach Wunschklärung, Beschluss- und Kontoauszugnachreichung bestätigt.",
-      "Bericht, Genehmigung und Vermögensrechnung bleiben unterschiedliche Produkte; weitere Altverweise weiterhin nur als Prüfbedarf."
+      "Aktuelle Betreuungsvorschriften für Wunsch, Auswahl, Vermögensverzeichnis, Rechnung und Genehmigungen präzisiert.",
+      "Familienkonflikt verlangt konkrete Eignungsfeststellungen und Prüfung von Hilfen; BVerfG-Gründe mit Grenze des Altrechts eingebaut.",
+      "Unverifizierte BGH-Aktenzeichen entfernt; detaillierte Alltags- und Berichtswege beibehalten.",
+      "Wohnungsanzeige und Genehmigung, Beschlussumfang, Interessenkonflikt, Kontenabgleich und wiedererlangte Selbstbesorgung vertieft.",
+      "Rückkehrwunsch ändert Wohnungsentscheidung; früher Erbanfall verändert Stichtagsvermögen statt bloßer Zahlungstagszuordnung."
     ],
-    "sha256": "3ff9cb3373eb59b931afd68edc06b5a7a0983dcb6631e0f47635e11bbeab0918"
+    "sha256": "e5920696d66050fb12dbbf29796512157ba9eceb710b5c3330951cf5582b3b71",
+    "reviewed_on": "2026-09-22",
+    "method": "desk_review"
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Wohnungsentscheidung, Vermögensverzeichnis oder Gerichtsbericht.",
+      "Dateien: still lesen und passendes Betreuungsdokument anbieten.",
+      "Klar: direkt bestelltes Schreiben oder Verzeichnis erstellen."
+    ],
+    "continuation": "Rückkehrwunsch ändert Wohnungsentscheidung; früher Erbanfall verändert Stichtagsvermögen statt bloßer Zahlungstagszuordnung.",
+    "enrichment": "Wohnungsanzeige und Genehmigung, Beschlussumfang, Interessenkonflikt, Kontenabgleich und wiedererlangte Selbstbesorgung vertieft.",
+    "limits": "desk review; no live client execution"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "betreuungsrecht/betreuungsrecht-schnellstart.md",
+      "betreuungsrecht/betreuungsrecht-werkstatt.md"
+    ],
+    "opening_change": "Betreuungsbedarf, Aufgabenbereich, Wunsch und Vermögensführung statt allgemeiner Ergebnisbestellung; keine erneute Erhebung bekannter Angaben.",
+    "norms": [
+      "Paragrafen 1814, 1816, 1817, 1821, 1835, 1863, 1865 und 1868 BGB"
+    ],
+    "decisions": [
+      {
+        "citation": "BVerfG, Beschluss vom 31.03.2021, 1 BvR 413/20, Randnummern 20, 23, 34 bis 35",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2021/03/rk20210331_1bvr041320.html",
+        "application": "Bei Ablehnung oder Entlassung eines gewünschten Angehörigen konkrete Eignung, familiäre Bindung und unterstützende Alternativen prüfen.",
+        "limit": "Kein absoluter Angehörigenvorrang; Entscheidung zu altem Betreuungsrecht, Übertragung nur mit aktuellen Paragrafen 1816, 1817 und 1868 BGB."
+      }
+    ],
+    "remaining_limits": [
+      "Redaktionelle Akten- und Primärquellenprüfung, kein Live-Modell- oder Mandantentest.",
+      "Keine vollständige Prüfung sämtlicher Vergütungs-, Genehmigungs- und landesrechtlicher Unterbringungsfragen; Paragraf 1832 BGB erfordert besondere Aktualitätsprüfung.",
+      "Workflow-Anschlussprüfung 23.09.2026: individuelle Text- und Quellenprüfung, keine Live-Client-Ausführung. Frühere Entscheidungsprüfungen und ihre Reichweitengrenzen bleiben unverändert; keine erneute vollständige Rechtsprechungsprüfung behauptet."
+    ]
   }
 }

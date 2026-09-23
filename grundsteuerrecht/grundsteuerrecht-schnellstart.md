@@ -1,16 +1,16 @@
 # 1. Grundsteuerrecht: Schnellstart zur Bescheidprüfung
 
-Prüfe die Grundsteuerbescheide anhand der Grundstücksbelege und erstelle die bestellte Berechnung, den passenden Antrag oder Mandantenbrief. Halte Wertfeststellung, Messbetrag und Jahressteuer auseinander.
+Gleiche Flurstück, Miteigentumsanteil, Fläche und Bewertung mit Wert-, Mess- und Jahressteuerbescheid ab. Ordne Fehler der Bescheidstufe zu und verfasse Berechnung, Änderungsantrag oder Mandantenbrief nach Auftrag.
 
 ## 1.1. Aus Unterlagen sofort zum Ergebnis
 
-Lies Bescheide samt Rückseiten und Berechnung. Übernimm Rolle, Stichtag und Dokumentwunsch aus dem Auftrag; Bekanntes nicht erneut erfragen. Ohne Unterlagen nach dem zu prüfenden Bescheid fragen.
+Ohne Eingabe: Bescheidzuordnung, Flächenkorrektur oder Zahlungsfrage anbieten. Dateien ohne Auftrag still lesen, zwei passende Wege nennen. Klaren Auftrag direkt bearbeiten. Neue Teilungserklärung: betroffenen Flächenansatz und Antrag ändern; Bekanntes nicht erfragen.
 
-Fristgefahr geht vor vollständiger Bewertungsprüfung. Fehlende entscheidende Angaben konkret anfordern und unabhängig bearbeitbare Teile vorläufig liefern. Nichts selbst versenden, beauftragen oder bezahlen.
+Fristgefahr zuerst bearbeiten. Nur entscheidende Lücken erfragen; belastbare Teile liefern. Versand, Beauftragung und Zahlung brauchen Freigabe.
 
 ## 1.2. Bescheidkette und Zeitstand
 
-Zwei PDFs können drei Verwaltungsakte enthalten: Grundsteuerwert, Messbetrag und Jahressteuer. Registriere jeden Verfügungssatz mit Behörde, Objekt, Aktenzeichen, Datum, Stichtag/Steuerjahr, Seitenbereich und Zugang. Wertfeststellung ist keine Zahlungsaufforderung. Paragrafen 182 und 184 AO binden die Folgestufen; Grundlagenangriffe gehören nach Paragraf 351 Absatz 2 AO in das Grundlagenverfahren. Ein neuer Jahresbescheid erneuert nicht die alte Wert-Einspruchsfrist.
+Auch bei zwei PDFs drei Verwaltungsakte unterscheiden: Grundsteuerwert, Messbetrag, Jahressteuer. Erfasse Behörde, Objekt, Aktenzeichen, Datum, Stichtag/Steuerjahr, Seiten und Zugang. Wertfeststellung fordert keine Zahlung. Paragrafen 182 und 184 AO binden Folgestufen; Grundlagenangriffe gehören nach Paragraf 351 Absatz 2 AO ins Grundlagenverfahren. Ein neuer Jahresbescheid erneuert keine Wert-Einspruchsfrist.
 
 Trenne Druckdatum, Postaufgabe, Zugang und elektronischen Bereitstellungsweg. Bei einfacher Inlandspost galt bis Ende 2024 grundsätzlich die Dreitages-, seit 2025 die Viertagesvermutung des Paragrafen 122 AO. Paragraf 108 AO, späterer oder fehlender Zugang und Zweifelsregel beachten. Elektronische Bekanntgabe nach der einschlägigen Fassung des Paragrafen 122a AO prüfen. Frist nach Paragrafen 355 und 356 AO nicht ohne Beleg fest zusagen.
 
@@ -20,7 +20,7 @@ Historischen Aktenstand bestimmen: Spätere Gesetze und Rechtsprechung nicht zur
 
 Grundstückslage bestimmt das Modell. Bundesmodell von Baden-Württemberg, Bayern, Hamburg, Hessen und Niedersachsen trennen; Landesmesszahl und Hebesatzjahr prüfen. Berlin: Finanzamt auch für Jahressteuer, nicht Gemeinde/Widerspruch/Verwaltungsgericht.
 
-Gleiche Flurstück, Wohnungseinheit, Teilungserklärung samt Nachträgen, Miteigentumsbruch und Erklärung ab. Zurechnung 1/1 an einer Wohnung ist nicht der Anteil am gesamten Boden. Grundstücksgesamtfläche, anteilige Bodenfläche und Wohnfläche getrennt führen. Eine Verwaltungs-CSV kann nur abgeschriebene Bescheidwerte enthalten. Pflasterfugen oder Bandmaßabstände beweisen keine Eigentumsgrenze. Fordere den genau fehlenden Kataster-, Teilungs- oder Flächennachweis an.
+Gleiche Flurstück, Wohnung, Teilungserklärung samt Nachträgen, Miteigentumsbruch und Erklärung ab. Zurechnung 1/1 an einer Wohnung ist nicht der Bodenanteil. Gesamt-, anteilige Boden- und Wohnfläche trennen. Verwaltungs-CSV auf bloß abgeschriebene Bescheidwerte prüfen. Pflasterfugen oder Bandmaß beweisen keine Eigentumsgrenze. Fehlenden Kataster-, Teilungs- oder Flächennachweis gezielt anfordern.
 
 Für Wohngrundstücke im Ertragswertverfahren: Grundstücksart, Baujahr, Wohnflächenklasse, typisierte Miete und Mietniveaustufe prüfen; Jahresrohertrag minus gesetzliche Bewirtschaftungskosten, dann Reinertrag mal Vervielfältiger. Bodenwert und Abzinsung ergänzen, Mindestwert nach Paragraf 251 BewG prüfen, abschließend nach Paragraf 230 BewG auf volle hundert Euro abrunden. Paragrafen 250 und 252 bis 257 BewG sowie passende Anlagen belegen. Keine Ist-Miete ungeprüft anstelle des Tabellenansatzes.
 
@@ -43,15 +43,15 @@ Niedrigerer gemeiner Wert: Paragraf 220 Absatz 2 BewG verlangt im Bundesmodell g
 
 Einspruch stoppt keine Zahlung. Finanzamt: Paragraf 361 AO und Paragraf 69 FGO samt Zugangsvoraussetzungen und Ausnahmen. Kommunale Jahressteuer: Landesrecht und Paragraf 80 VwGO prüfen. Ruhen nach Paragraf 363 AO ist keine Aussetzung. Zahlungsnot, Rechtmäßigkeitszweifel und Stundung getrennt halten; Vollstreckungsgefahr zuerst bearbeiten.
 
-## 1.6. Geprüfte Anker gezielt einsetzen
+## 1.6. Bodenrichtwert konkret angreifen
 
-Prüfstand 10.09.2026; vor Freigabe amtlich aktualisieren:
+Bei Lageeinwänden: [BFH, Urteil vom 12.11.2025, II R 3/25](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202620006/), Rn. 31–34, erlaubt grundsätzlich die Übernahme des Bodenrichtwerts ohne weitere Ermittlungen. Benenne konkrete Fehler nach Paragraf 247 BewG, Paragraf 196 BauGB oder ImmoWertV samt fehlendem Beleg. Niedrige Ist-Miete oder Bahntrasse allein genügen nicht. Gesonderten Gemeinwertnachweis prüfen; keine Bestätigung jedes Bescheids oder aller Landesmodelle.
 
-- [BFH, Beschluss 27.05.2024, II B 78/23 (AdV)](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202410095/): einzelfallbezogener niedrigerer Wert im Eilverfahren, keine Aufhebung der gesamten Reform.
-- [BFH, Urteil 12.11.2025, II R 3/25](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202620006/): Bundesmodell und Typisierung; individuelle Eingabe- und Übernahmefehler bleiben prüfbar.
-- [BFH, Urteil 22.04.2026, II R 26/24](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202610124/): Baden-Württemberg, nicht Berliner Bundesbewertung.
+Historisch: BFH, Beschluss vom 27.05.2024, II B 78/23 (AdV), ließ substantiiert desolaten Gebäudezustand als Anlass für einen niedrigeren Wert der gesamten Einheit genügen. Zustandsbelege verlangen; summarische Prüfung vor Paragraf 220 Absatz 2 BewG, kein endgültiger Wertnachweis oder Reformstopp.
 
-Amtliche Verfahrensübersicht, Stand August 2026: 1 BvR 472/26 und 1 BvR 551/26 sind anhängige Verfassungsbeschwerden, keine stattgebenden Entscheidungen. Status und identische Rechtsfrage vor Ruhensantrag erneut prüfen. Norm, Urteil, Pressemitteilung und Verfahrensstand unterscheiden; keine Randnummer erfinden.
+Baden-Württemberg: BFH, Urteil vom 22.04.2026, II R 26/24, gewährt wegen abweichender Grundstückstiefe keinen automatischen Abschlag. Gutachtenweg nach Paragraf 38 Absatz 4 LGrStG prüfen: mehr als 30 Prozent, nicht die Bundesmodellschwelle.
+
+Stand 22.09.2026: Laut BFH sind 1 BvR 472/26 und 1 BvR 551/26 anhängig, nicht entschieden. Vor Ruhensantrag Status und Rechtsfrage abgleichen; Flächenfehler weiterbearbeiten.
 
 ## 1.7. Verwendbaren Entwurf liefern
 
@@ -61,10 +61,10 @@ Nach Korrektur Wert, Messbetrag, Steuer und Kassenstand abgleichen. Erstattungsz
 
 ## 1.8. Neue Belege einarbeiten
 
-Prüfe nachgereichte Katasterauszüge oder Teilungsnachträge auf Fläche, Bruchteil und Stichtagsbezug. Aktualisiere die betroffenen Rechnungen und schreibe Antrag oder Mandantenbrief fertig. Neue entscheidende Unklarheiten gezielt klären; eine Datei belegt nicht automatisch die richtige Zuordnung.
+Prüfe nachgereichte Katasterauszüge oder Teilungsnachträge auf Fläche, Bruchteil und Stichtag. Berichtige betroffene Rechnungen und schreibe Antrag oder Brief fertig. Neue entscheidende Unklarheiten gezielt klären; Dateizugang beweist keine richtige Zuordnung.
 
-Nach Änderungsbescheid betroffene Folgestufen prüfen. Fehlende Kassenbestätigung nachfordern, Zahlungseingang offenlassen. Ein Gutachtenauftrag verlangt keinen ungefragten Rechtsbehelf.
+Nach Änderungsbescheid Folgestufen prüfen. Fehlende Kassenbestätigung nachfordern, Zahlungseingang offenlassen. Kein ungefragter Rechtsbehelf bei Gutachtenauftrag.
 
 ## 1.9. Technische Grenzen
 
-Ohne weitere Skills weiterarbeiten; ohne Export Text liefern. Bei Zugriffsfehlern einen Ersatzweg versuchen und verbleibende Lücken gesondert notieren. Keine nicht erfolgte Prüfung oder Dateierzeugung behaupten.
+Ohne Skills weiterarbeiten; ohne Export Text liefern. Bei Zugriffsfehlern Ersatzweg versuchen und Lücken notieren. Keine nicht erfolgte Prüfung oder Dateierzeugung behaupten.

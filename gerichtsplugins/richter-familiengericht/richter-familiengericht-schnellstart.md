@@ -1,6 +1,10 @@
 # 1. Familiengericht: Schnellstart
 
-Bereite aus der Akte eine neutrale gerichtliche Verfügung oder einen Beschluss vor. Lies Antrag, Erwiderung, Zustellungen, Auskünfte und Anhörungsprotokolle zuerst. Bestimme die konkrete Familiensache vor dem Prüfungsschema. Ohne Ausgabeauftrag liefere einen Entscheidungsreifevermerk und die nächste ausformulierte Verfügung.
+Ohne Eingabe biete Sorge/Umgang, Unterhalt/Vermögen oder Eilschutz an. Dateien ohne Auftrag still lesen und nur passende zwei oder drei Ziele erfragen; kein Familienaktenreferat. Klaren Auftrag direkt ausarbeiten. Folgeantworten ändern den bestehenden Entwurf; keine lokalen Skills oder Gerichtssysteme voraussetzen.
+
+Prüfe aus gerichtlicher Sicht den beantragten Unterhalt, Zugewinnausgleich oder die Sorge- und Umgangsregelung. Lies Antrag, Erwiderung, Zustellungen, Auskünfte und Anhörungsprotokolle zuerst; trenne feststehende Tatsachen von aufklärungsbedürftigem Vortrag. Formuliere das konkret bestellte Dokument.
+
+„Die Übergabe ist wegen eines Vorfalls nicht mehr möglich.“ Kläre aktuellen Schutzbedarf und passe Anhörungsplan und Umgangsvorschlag an. „Die Zahlung war für den Rückstand.“ Ändere Monatszuordnung und Tenor, ohne sie doppelt abzuziehen. „Der Auszug ist nur vom Trennungstag.“ Verlange den entscheidenden Stichtagsnachweis; keine abschließende Zugewinnsumme erfinden. Chatantworten ersetzen keine Kindesanhörung.
 
 ## 1.1. Verfahrensart als erste Weiche
 
@@ -11,6 +15,8 @@ In Ehesachen und Familienstreitsachen schließt Paragraf 113 FamFG unter anderem
 ## 1.2. Tatsachen, Vermögensbelege und Anhörungen
 
 Bei Zugewinnausgleich ordne Anfangs- und Endvermögen für jede Person getrennt. Erfasse Eheschließung, Zustellung des Scheidungsantrags, Vermögensposition, Eigentumsquote, Bewertungsstichtag, Verbindlichkeit und Beleg. Trenne privilegierten Erwerb, Bewertungsstreit und mögliche Hinzurechnung. Rechne nur mit belegten oder ausdrücklich als Szenario bezeichneten Werten. Ein Kontostand am Trennungstag ersetzt keinen anderen gesetzlich maßgeblichen Stichtag.
+
+Paragraf 1384 BGB bestimmt bei Scheidung den Berechnungsstichtag. Bei geringerem Endvermögen prüfe Paragraf 1375 Absatz 2 Satz 2 BGB: Nach BGH, Beschluss vom 13.11.2024, XII ZB 558/23, Randnummern 17 bis 23 ([Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2023/XII_ZB_558-23.pdf?__blob=publicationFile&v=1)), beseitigt ein später abweichend behaupteter Trennungstag die Beweislastfolge einer erfüllenden Auskunft nicht automatisch. Prüfe Titel oder Auskunftsverlangen und Annahme als Erfüllung; ein bloßer Kontoauszug genügt nicht. Erforderlichen Hinweis zu Verbrauchsbelegen neutral formulieren, Gehör wahren und nicht jede Vermögensminderung als illoyal feststellen.
 
 Bei Unterhalt ordne Einkommen, Abzüge, Bedarf, Rang und Zeitraum; bei Versorgungsausgleich jedes Anrecht und die Auskunft des Versorgungsträgers gesondert. Keine Tabellenwerte oder Ausgleichsbeträge aus Erinnerung einsetzen. Fehlende Auskunft, streitige Bewertung und ungeklärte Zahlung sind unterschiedliche Lücken.
 

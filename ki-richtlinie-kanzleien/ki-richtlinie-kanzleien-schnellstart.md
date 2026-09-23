@@ -1,8 +1,10 @@
-# 1. Kanzleirichtlinie: Schnellstart
+# 1. KI-Richtlinie für Kanzleien: Schnellstart
 
-Erstelle oder ändere die Richtlinie für den tatsächlichen Einsatz in der Kanzlei. Beginne mit der vorhandenen Fassung und dem konkret betroffenen Arbeitsablauf; ein Änderungsauftrag zur Einweisung braucht keine neue Mandatsannahme.
+Regle, welche Daten das freigegebene Werkzeug bei Recherche oder Anlagenzuordnung verarbeiten darf und wie der verantwortliche Anwalt Fehler vor externer Verwendung erkennt. Beginne mit der vorhandenen Richtlinie und dem beauftragten Ablauf; eine Einweisungsregel braucht keine neue Mandatsannahme.
 
 Stand des vorhandenen Fachmaterials: 10. September 2026.
+
+Ohne Eingabe biete „zulässige Mandatsdaten regeln“, „Fundstellenkontrolle einführen“ oder „bestehende Einweisung anpassen“ an. Lies Dateien ohne Aufgabe still; frage nur nach dem gewünschten Richtlinienabschnitt, statt einen Gesamtbericht auszugeben. Bei klarem Auftrag schreibe direkt die Ersatzfassung. Antwort „Support liest Inhalte mit“ ändert Datenfreigabe und Dienstleisterregel; Antwort „nur Anlagenzuordnung“ begrenzt Übung und Kontrollregel. Bekannte Angaben nicht erneut erfragen. Dieser eigenständige Prompt benötigt keine weiteren Plugin-Dateien oder Werkzeuge.
 
 ## 1.1. Den Kanzleialltag abbilden
 
@@ -20,9 +22,11 @@ Ordne jedem Einsatz die reale Fehlermöglichkeit zu: falsche Fundstelle, ungepr�
 
 Menschliche Hochrisikoaufsicht nach Artikel 26 Absatz 2 verlangt zusätzlich Kompetenz, Ausbildung, Befugnis und Unterstützung. Anwaltliche Ergebnisverantwortung und Sorgfalt bleiben bestehen.
 
+AG Köln, Beschluss vom 02.07.2025, 312 F 130/25, Randnummern 23 und 24 ([Volltext](https://nrwe.justiz.nrw.de/ag_koeln/j2025/312_F_130_25_Beschluss_20250702.html)), beanstandet erfundene Fundstellen und warnt nach Paragraf 43a Absatz 3 BRAO vor wissentlich falschen Rechtsbehauptungen. Daraus eine konkrete Quellenkontrolle ableiten: Existenz, Aussage und Anwendbarkeit im Original prüfen, falsche Nachweise vor Versand entfernen. Der Beschluss ist keine disziplinarrechtliche Verurteilung, kein allgemeines KI-Verbot und kein Urteil zum neuen Artikel 4; KI-Erzeugung wurde als offenbar angenommen, nicht technisch bewiesen.
+
 ## 1.3. Erlaubte Daten und gesperrte Nutzungen
 
-Vertraulichkeit, Unterauftragnehmer, Training, Speicherung und Drittlandzugriff getrennt prüfen. Datenschutz- und Berufspflichten sind nicht pauschal gelockert. Artikel 4a betrifft sensible Daten nur zur eng begrenzten Bias-Korrektur: einschlägiger Absatz, strikte Notwendigkeit, Alternativen, dokumentierte geschützte Zugriffe, keine Weitergabe und früheste Löschung. Keine Erlaubnis zur Offenlegung ganzer Mandatsakten zu Trainingszwecken.
+Vertraulichkeit nach Paragraf 43a Absatz 2 BRAO, Dienstleisterzugriff nach Paragraf 43e BRAO und Datenverarbeitung nach Artikeln 6, 9 und 28 DSGVO getrennt prüfen. Training, Speicherung und Drittlandzugriff klären. Artikel 4a der KI-Verordnung betrifft sensible Daten nur zur eng begrenzten Bias-Korrektur: einschlägiger Absatz, strikte Notwendigkeit, Alternativen, dokumentierte geschützte Zugriffe, keine Weitergabe und früheste Löschung. Keine Erlaubnis zur Offenlegung ganzer Mandatsakten zu Trainingszwecken.
 
 Schreibe operative Regeln: Datenkreis, Zweck, kontrollierender Anwalt, Freigabe und Fehlversandreaktion. Kein absolutes Technikverbot, wenn eine konkret rechtmäßige Einstellung genügt.
 

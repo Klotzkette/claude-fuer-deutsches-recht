@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "leasingrecht-praxis",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/bgb/__538.html",
@@ -17,19 +17,68 @@
       "url": "https://www.gesetze-im-internet.de/inso/__103.html",
       "checked_on": "2026-09-14",
       "supports": "Wahlrecht bei beiderseits nicht vollständig erfüllten Verträgen."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2021/2021039.html",
+      "checked_on": "2026-09-23",
+      "supports": "Kilometerleasing nach konkreter Erwerbs- und Restwertpflicht von Finanzierungshilfe abgrenzen. Amtliche Pressemitteilung vollständig gelesen, kein Volltext. Keine Aussage zur allgemeinen Unwiderruflichkeit, anderen Erwerbspflichten oder jedem Abschlussweg."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__506.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlichen Normtext für die konkret ergänzte Abgrenzung gelesen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/ao_1977/__90.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlichen Normtext für die konkret ergänzte Abgrenzung gelesen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__808.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlichen Normtext für die konkret ergänzte Abgrenzung gelesen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__29.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlichen Normtext für die konkret ergänzte Abgrenzung gelesen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__506.html",
+      "checked_on": "2026-09-23",
+      "supports": "Erneut gelesen: konkrete Erwerbs-, Andienungs- oder Werteinstandspflicht entscheidet über Absatz 2. Kein neuer Volltextnachweis der erhaltenen Pressemitteilung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__538.html",
+      "checked_on": "2026-09-23",
+      "supports": "Erneut gelesen: vertragsgemäßer Gebrauch von zu vertretender Verschlechterung trennen; konkrete Leasingübertragung und Bewertung bleiben Einzelfallprüfung."
     }
   ],
   "mini_review": {
-    "verdict": "retained",
-    "reason": "Aktuellen Mini vollständig gelesen. Fehlende Fotos, Minderwertgrundlagen oder Verwertungserlöse führen zum vorläufigen Positionssaldo und nach Ergänzung zum fertigen Einwand. Vertragsmodell, Gebrauchsschaden und Insolvenz werden getrennt geprüft; fehlende Belege sind keine Schadenfreiheit. Keine neue Quellen- oder Live-Modellprüfung.",
-    "changes": [],
-    "sha256": "e9d629a42b08462dc12656c01620ec3c235a2c333f9e1f6f0b32bd86a1fdf296"
+    "verdict": "revised",
+    "reason": "2026-09-23: Individuell vollständig gelesen und fachbezogen erweitert. Leerstart nach Rückgabe, Objektmangel oder Vertragsänderung; stille Dateisichtung und direkter Arbeitsbeginn ergänzt. Bewertungsantwort konkret in bestehenden Abrechnungseinwand übertragen. Desk-Review; kein Live-Client- oder Modelltest.",
+    "changes": [
+      "Allgemeines Vertragsgerüst durch Rückgabe-, Mängel- und Kündigungsprüfung ersetzt; zwölf fachliche Sonderthemen erhalten.",
+      "Fehlerhafte Pfändungs-, Gerichtsstands-, Softwarevertrags- und Dokumentationspauschalen korrigiert.",
+      "Verifizierten Entscheidungsanker mit begrenztem Aussagebereich ergänzt.",
+      "Leerstart nach Rückgabe, Objektmangel oder Vertragsänderung; stille Dateisichtung und direkter Arbeitsbeginn ergänzt. Bewertungsantwort konkret in bestehenden Abrechnungseinwand übertragen."
+    ],
+    "sha256": "42f04ffbdeb602dfc1e3ef36d941e5929a7f9e43b9eb27c8172d94baea881568",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt vollständig gelesen. Allgemeine Vertragsgerüste und zusätzliche NDA-Vorgaben widersprachen Abrechnungsaufträgen; fehlende Parameter wurden teilweise zum Gesamtstopp. Diese konkreten Stellen begrenzt. Ungeprüfte Insolvenz- und UNIDROIT-Pauschalen in fallbezogene Normprüfungen umgestellt; keine neue amtliche Verifikation behauptet. Übrige Fachhinweise bleiben vor Verwendung zu prüfen, kein Live-Modelltest.",
-    "changes": ["Abrechnungseinwand und Vertragsgestaltung als unterschiedliche Endprodukte behandelt; keine Pflicht zum Neuvertrag oder zusätzlicher NDA.", "Fehlenden Objektparameter nur auf abhängige Position bezogen und Fertigstellung nach Ergänzung verlangt.", "Insolvenzregeln nach Gegenstand und Erfüllungsstand getrennt; ungesicherte Vertragsstaatenbeispiele nicht fortgeschrieben."],
-    "sha256": "9c107098a66fbee216ce4a7f688a347d50572f2dec3c5e49a0d0974b450eedc9"
+    "reason": "2026-09-23: Individuell vollständig gelesen und fachbezogen erweitert. Kilometer-/Schadensrechnung, ungünstiges Rückgabeprotokoll, Maschinenmangel, Verwertung und Versicherungszahlung, Vergleichsumfang und zusammenhängende Klauseländerung individuell ergänzt. Desk-Review; kein Live-Client- oder Modelltest.",
+    "changes": [
+      "Allgemeines Vertragsgerüst durch Rückgabe-, Mängel- und Kündigungsprüfung ersetzt; zwölf fachliche Sonderthemen erhalten.",
+      "Fehlerhafte Pfändungs-, Gerichtsstands-, Softwarevertrags- und Dokumentationspauschalen korrigiert.",
+      "Verifizierten Entscheidungsanker mit begrenztem Aussagebereich ergänzt.",
+      "Kilometer-/Schadensrechnung, ungünstiges Rückgabeprotokoll, Maschinenmangel, Verwertung und Versicherungszahlung, Vergleichsumfang und zusammenhängende Klauseländerung individuell ergänzt."
+    ],
+    "sha256": "4de4bef3b7477d84382147a86ef8c3e10750ab82a9b54d68197ff0438f56893e",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
   },
   "selection": {
     "positive": [
@@ -74,5 +123,43 @@
       ],
       "target_skill": "flottenleasing-schaden-minderwert-und-gutachten"
     }
-  ]
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-23",
+    "files": [
+      "leasingrecht-praxis/leasingrecht-praxis-werkstatt.md",
+      "leasingrecht-praxis/leasingrecht-praxis-schnellstart.md"
+    ],
+    "opening_change": "Leasingraten, Rückgabekosten und nachgewiesenen Objektzustand unmittelbar zum bestellten Abrechnungseinwand führen.",
+    "norms": [
+      "Paragrafen 506, 538, 398, 437, 548 BGB",
+      "Paragrafen 47, 103, 108 und 109 InsO",
+      "Paragraf 90 Absatz 3 und 4 AO",
+      "Paragrafen 29, 38, 771 und 808 ZPO"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 24. Februar 2021, VIII ZR 36/20",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2021/2021039.html",
+        "application": "Kilometerleasing nach konkreter Erwerbs- und Restwertpflicht von Finanzierungshilfe abgrenzen.",
+        "limit": "Amtliche Pressemitteilung vollständig gelesen, kein Volltext. Keine Aussage zur allgemeinen Unwiderruflichkeit, anderen Erwerbspflichten oder jedem Abschlussweg."
+      }
+    ],
+    "remaining_limits": [
+      "Keine Live-Modellprüfung und keine Vollverifikation aller Teilmaterien; neue Fassungen und Einzelfallquellen erneut prüfen.",
+      "2026-09-23: Workflow-Desk-Review. Alle bisherigen Profil-URLs erneut aufgerufen. Paragrafen 506/538 BGB und 29/808 ZPO gelesen. Die BGH-Pressemitteilung 39/2021 war beim erneuten Abruf mit 403 gesperrt; Paragraf 103 InsO und Paragraf 90 AO blieben nach erneutem Abruf nicht verfügbar. Frühere Quellenprüfung bleibt als datierter Nachweis erhalten, keine heutige Volltextverifikation oder Vollprüfung von Insolvenz-, Steuer- und Auslandsfragen; kein Live-Client-Test."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Rückgabeforderung, Objektmangel oder Leasingklauseln auswählen.",
+      "Dateien ohne Auftrag: Vertrag, Zustandsbelege und Abrechnung still lesen; nur das gewünschte Ergebnis klären.",
+      "Klarer Auftrag: konkrete Position oder Vertragsklausel unmittelbar bearbeiten; kein vollständiges Vertragsinterview bei einem Einzelposten."
+    ],
+    "continuation": "Gutachten ändert in abrechnungseinwand.md Schadensposition, Zwischensumme und Schlussforderung; geändertes Restwertrisiko ändert in leasingvertrag.md zugleich die Endabrechnungsklausel. Nutzerpfade bleiben maßgeblich.",
+    "enrichment": "400-Euro-Kilometerposten, gesonderte 2500-Euro-Marktwertforderung und 900/700-Euro-Schadensabgleich; Protokollinhalt gegenüber Anerkenntnis, Servicebericht und Abtretung, fahrzeuggenaue Verrechnung und begrenzter Vergleich.",
+    "limits": "desk review; no live client execution"
+  }
 }

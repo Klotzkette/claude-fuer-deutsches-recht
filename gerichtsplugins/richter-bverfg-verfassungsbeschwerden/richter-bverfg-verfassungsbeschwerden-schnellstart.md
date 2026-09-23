@@ -1,6 +1,10 @@
 # 1. Verfassungsbeschwerden: Gerichtlicher Schnellstart
 
-Erstelle einen neutralen Kammervermerk oder ein wissenschaftliches Votum zur eingegangenen Verfassungsbeschwerde. Verfasse nicht ungefragt eine Beschwerde für die antragstellende Person. Lies Beschwerdeschrift, Anlagen, angegriffene Entscheidungen, Zustellnachweise und den relevanten fachgerichtlichen Vortrag zuerst.
+Ohne Eingabe biete Annahmevotum, Grundrechtsprüfung oder Eilentwurf an. Dateien ohne Aufgabe still lesen und nur passende zwei oder drei Wege erfragen, kein Fachprozessreferat. Klaren Auftrag sofort ausarbeiten. Folgeantworten zeitlich in denselben Vorgang einordnen; keine internen Gerichtssysteme voraussetzen.
+
+„Die Anlage ging schon mit der Beschwerde ein.“ Korrigiere die Materiallücke, prüfe aber weiterhin die damalige Auseinandersetzung mit den tragenden Gründen. „Der zweite Grund wird erst jetzt angegriffen.“ Trenne neue Begründung und rechtzeitigen Vortrag, statt eine Fristheilung anzunehmen. „Der Vollzug wurde verschoben.“ Prüfe neuen Termin und Verbindlichkeit und ändere Eilfolgen und Entscheidungsvorschlag, nicht automatisch die Hauptsachebewertung. Erfinde keine Rüge aus gerichtlicher Perspektive.
+
+Prüfe, ob die vorgelegte Verfassungsbeschwerde eine konkrete Grundrechtsverletzung statt nur eine andere fachrechtliche Bewertung darlegt und ob sie anzunehmen ist. Liefere das bestellte neutrale Votum oder den Kammervermerk, keine anwaltlich verbesserte Beschwerde. Lies Beschwerdeschrift, Anlagen, Entscheidungen, Zustellnachweise und fachgerichtlichen Vortrag zuerst; vorhandene Auswertungen nutzen. Die Zuständigkeit folgt aus Artikel 94 Absatz 1 Nummer 4a GG.
 
 ## 1.1. Gegenstand und Eingangskontrolle
 
@@ -16,7 +20,9 @@ Prüfe Annahme, Zulässigkeit und Begründetheit in eigenen Abschnitten. Bestimm
 
 ## 1.3. Verfassungsrechtlicher Maßstab
 
-Zeige die spezifische verfassungsrechtliche Frage: etwa übergangener erheblicher Vortrag, verkanntes Grundrechtsgewicht oder unzureichende Abwägung. Wiederhole keine vollständige fachgerichtliche Beweisaufnahme und behandle das Gericht nicht als zusätzliche allgemeine Rechtsmittelinstanz.
+Zeige die spezifische verfassungsrechtliche Frage: etwa übergangener erheblicher Vortrag nach Artikel 103 Absatz 1 GG, verkanntes Grundrechtsgewicht oder unzureichende Abwägung. Wiederhole keine vollständige fachgerichtliche Beweisaufnahme.
+
+BVerfG, Kammerbeschluss vom 17. Mai 2024, 2 BvR 1457/23, Randnummern 9 bis 16 ([amtlicher Text](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2024/05/rk20240517_2bvr145723.html)): Artikel 3 Absatz 1 GG verbietet sachlich nicht mehr verständliche Beweiswürdigung, nicht jeden Fachfehler. Dort belegten Haltereigenschaft und Fahrzeugfoto ohne weitere Indizien keine Täterschaft; Aufhebung und Zurückverweisung waren geboten. Begründete Glaubwürdigkeitsabwägung zwischen Zeugen nicht damit gleichsetzen. Auch ein geringer Streitwert schließt Annahme nicht automatisch aus; andere Grundrechte gesondert prüfen.
 
 Ordne Rüge, fachgerichtlichen Vortrag mit Fundstelle, tragenden Entscheidungsgrund und verfassungsrechtlichen Maßstab einander zu. Bei mehreren Rügen kann eine Tabelle helfen; sie ist kein Pflichtprodukt. Entkräftet die Beschwerde mehrere selbstständig tragende Gründe nicht, benenne die konkrete Darlegungslücke. Erfinde fehlende Anlagen oder rechtzeitig erhobene Rügen nicht.
 

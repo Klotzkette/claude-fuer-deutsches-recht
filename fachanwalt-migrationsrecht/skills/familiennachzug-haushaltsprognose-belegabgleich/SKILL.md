@@ -7,7 +7,7 @@ description: Erstellt beim Familiennachzug zu Drittstaatsangehörigen eine beleg
 
 ## 1.1. Zweck und Anwendungsfall
 
-Bereite die Entscheidung über die finanziellen Voraussetzungen eines konkreten Nachzugsfalls vor. Der Schwerpunkt ist wegen mehrjähriger Trennung, Wohnkosten und Erwerbsplanung wirtschaftlich relevant. Gegenüber allgemeinen Nachzugs- und Schwellenmodulen liefert er einen monatsbezogenen Abgleich von Bedarf, verlässlich verfügbarem Einkommen und behördlicher Gegenrechnung.
+Prüfe, ob der Familienhaushalt nach der Einreise nachhaltig finanziert ist, und berichtige fehlerhafte Behördenabzüge anhand der Lohn-, Miet- und Versicherungsbelege. Begründe die beauftragte Beratung oder Nachreichung; aus einer auslaufenden Zulage darf kein dauerhaft verfügbares Einkommen werden.
 
 ## 1.2. Eingaben
 
@@ -29,7 +29,7 @@ Stelle daneben Grundlohn, schwankende Schichten, befristete Zulagen, beitragsfin
 
 Rechne mindestens eine gesicherte Grundlohnvariante und eine beleggestützte Fortführungsvariante. Bilde aus Vergangenheitsmonaten keinen unkritischen Durchschnitt, wenn Zulagen wegfallen oder der Vertrag endet. Zeige monatlich Bedarf, verfügbare Mittel, Differenz und Wechselzeitpunkt. Eine positive Monatsdifferenz ersetzt die Nachhaltigkeitsprüfung nicht.
 
-Im Anwendungsbereich der Familienzusammenführungsrichtlinie dürfen Erwerbstätigenfreibeträge nicht ungeprüft aus einer sozialrechtlichen Leistungsrechnung zum Nachteil der Familie übertragen werden. Tatsächliche geringere Erwerbsaufwendungen gesondert nachweisen. Dokumentiere jede Abweichung von der Behördenrechnung mit Betrag, Rechtsgrund und Beleg. Prüfe verbleibende Ausnahmen und Abwägungsstoff getrennt vom Rechenergebnis.
+Im Anwendungsbereich von Artikel 7 Absatz 1 Buchstabe c und Artikel 17 Richtlinie 2003/86/EG den Erwerbstätigenfreibetrag nicht zum Nachteil des Nachziehenden abziehen. Unterscheide davon tatsächliche Erwerbsaufwendungen; geringere Aufwendungen sind nachweisbar. Wende dafür BVerwG, Urteil vom 16. November 2010, 1 C 20.09, Randnummern 33 bis 34 an. Dokumentiere jede Abweichung mit Betrag und Beleg. Eine verbleibende Lücke verlangt die Prüfung atypischer Umstände und konkreter Familienbindungen nach Randnummern 28 bis 31, begründet aber nicht allein einen Ausnahmeanspruch.
 
 Gleiche eingehende Antworten mit den bisherigen Unterlagen ab und aktualisiere die betroffenen Monatsbeträge, die Behördenabweichung und die Nachhaltigkeitsprognose. Zeigt etwa ein neuer Vertrag einen späteren Arbeitsbeginn, kläre die Finanzierung der Zwischenmonate; wiederhole nicht die gesamte Aufnahme.
 
@@ -41,7 +41,7 @@ Keine Antragstellung, Rücknahme, Erklärung gegenüber Behörden oder Visumsbuc
 
 Optional zur Vertiefung: [Zitierweise](../../references/zitierweise.md). Auch ohne Referenzzugriff gilt: Tragende Aussagen mit aktueller Norm und amtlicher Entscheidung samt Gericht, Form, Datum, Aktenzeichen und überprüfter Passage belegen; Literatur nur bei tatsächlich zugänglicher Quelle. Amtliche Startpunkte: [Paragraf 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__2.html), [Paragraf 5](https://www.gesetze-im-internet.de/aufenthg_2004/__5.html), [Paragraf 29](https://www.gesetze-im-internet.de/aufenthg_2004/__29.html).
 
-BVerwG, Urteil vom 16.11.2010, Az. 1 C 20.09, [amtlicher Volltext](https://www.bverwg.de/161110U1C20.09.0), Leitsätze 1 und 3 sowie Randnummern 22 bis 29: Familienbedarf und unionsrechtlich angepasste Berechnung. Historische Normnummern und Beträge nicht als heutigen Stand übernehmen. Quellenprüfung: 14.09.2026. Im Ergebnis konkrete aktuelle Bedarfsnormen und deren Fassung zusätzlich belegen; fehlt Zugriff, Zahlen nicht als amtlich bestätigt ausgeben.
+BVerwG, Urteil vom 16. November 2010, 1 C 20.09 ([amtlicher Volltext](https://www.bverwg.de/161110U1C20.09.0)), Randnummern 19 bis 23, 28 bis 34: Familienbedarf, Ausnahmeprüfung und unionsrechtliche Rechenkorrektur beim Ehegattennachzug. Nicht auf jeden Aufenthaltstitel übertragen. Historische Sozialrechtsnummern, Ausweisungsregeln und Beträge sind keine heutigen Rechenvorgaben. Aktuelle Bedarfsnormen und Fassung zusätzlich belegen; fehlt Zugriff, Zahlen nicht als amtlich bestätigt ausgeben.
 
 ## 1.5. Ausgabeformat
 

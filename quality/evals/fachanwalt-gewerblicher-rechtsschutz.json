@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "fachanwalt-gewerblicher-rechtsschutz",
-  "reviewed_on": "2026-09-17",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/geschmmg_2004/__46.html",
@@ -27,32 +27,71 @@
       "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2000-11&Gericht=bgh&Sort=1&anz=239&client=%5B%27%5B%5C%27%5B%5C%5C%5C%27%5B%22%5B%5C%5C%5C%27%2C+%5C%5C%5C%27%5B%22%5B%5C%5C%5C%27%5D%5C%27%2C+%5C%27%5B%5C%5C%5C%27%5B%22%5B%5C%5C%5C%27%2C+%5C%5C%5C%27%5B%22%5B%5C%5C%5C%27%5D%5C%27%5D%27%2C+%27%5B%5C%27%5B%5C%5C%5C%27%5B%22%5B%5C%5C%5C%27%2C+%5C%5C%5C%27%5B%22%5B%5C%5C%5C%27%5D%5C%27%2C+%5C%27%5B%5C%5C%5C%27%5B%22%5B%5C%5C%5C%27%2C+%5C%5C%5C%27%5B%22%5B%5C%5C%5C%27%5D%5C%27%5D%27%5D&nr=22971&pos=13",
       "checked_on": "2026-09-14",
       "supports": "BGH, Urteil vom 02.11.2000, Az. I ZR 246/98: amtliche Leitsätze im Suchauszug zur unmittelbaren Gemeinkostenzurechnung und eigenen Vertriebsleistung gelesen. Direkter Volltextabruf mit Zugriffssperre; keine Volltext- oder Randnummernverifikation behauptet."
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=22971&Blank=1.pdf",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 02.11.2000, Az. I ZR 246/98, Gemeinkostenanteil, amtliche Leitsätze. Anwendung: Kostenabzug erfordert unmittelbare Zuordnung zur Verletzungsproduktion; Gemeinkosten nicht automatisch vom Verletzergewinn abziehen. Grenze und Prüfzugang: Historische Anspruchsnorm; heutige Grundlage Paragraf 42 DesignG und gesonderte Kausalitätsquote prüfen. Amtlicher indexierter Leitsatz geprüft, Volltextabruf gesperrt."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=ecli:ECLI:EU:C:2014:2013",
+      "checked_on": "2026-09-22",
+      "supports": "EuGH, Urteil vom 19.06.2014, Az. C-345/13, Karen Millen. Anwendung: Eigenartvergleich der Werkstatt gegen einzelne ältere Gestaltungen. Grenze und Prüfzugang: Kein Mosaik einzelner Elemente und kein Ersatz für Nachahmungsnachweis."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/geschmmg_2004/__42.html",
+      "checked_on": "2026-09-22",
+      "supports": "Verletzungsfolgen und Schadensberechnung im Designrecht."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/patg/__64.html",
+      "checked_on": "2026-09-22",
+      "supports": "Beschränkung und Widerruf auf Antrag statt Verwechslung mit Paragraf 65 PatG."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/designg/__42.html",
+      "supports": "Erneuter Normabruf zu designrechtlichen Verletzungsansprüchen; Anspruch und konkrete Berechnungsart bleiben positionsbezogen zu prüfen.",
+      "checked_on": "2026-09-23"
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Vollständig geprüft: Nachgereichte Produktansichten verändern den Verletzungsvergleich, Kostenbelege die Zahlungsrechnung; anschließend wird das bestellte Schreiben fertiggestellt. Diese Fortsetzung bleibt unverändert.",
+    "reason": "Gemeinkosten sind keine frei wählbare pauschale Gewinnminderung; Berechnung wird an Beleg und Designkausalität gebunden. Workflow-Ergänzung einzeln geprüft: Spezialwerkzeug wurde nur für die angegriffene Serie gemietet -> Kostenansatz im Verletzergewinn ändern, nicht automatisch den kausalen Designanteil am Gewinn.",
     "changes": [
-      "Pauschale Beweislastzuweisung durch merkmalbezogene Prüfung mit gesetzlichen Vermutungen ersetzt.",
-      "Mengen-, Retouren- und Kostenabgleich sowie Trennung von Kostenabzug und Gewinnzurechnung ergänzt.",
-      "Wiederholte Tabellen und unverbundene Patentnormen entfernt; Entwurf ohne Vollzug und ehrliche Quellenlücken verankert."
+      "Gemeinkostenanteil in allen drei Prompts und Fokus-Skill integriert",
+      "Gewinn und hypothetischen Designanteil im Zahlenbeispiel getrennt",
+      "Abmahnungszugang, Vollmacht und Vollziehungsfrist präzisiert; keine Zwangskaskade",
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
     ],
-    "sha256": "4d3ce5fcf2520a52b96bc908a47bb7cdd4dfd18178c15e5ccd46711d6247b215"
+    "sha256": "21b156e6b3ded68f5301b591314de2dfedcf008ca67bfadc5d139b1e05f28a20"
   },
   "focus_review": {
-    "reviewed_on": "2026-09-17",
+    "reviewed_on": "2026-09-23",
     "method": "desk_review",
     "verdict": "revised",
-    "reason": "Standalone-Prompt und zugeordneter Fokus-Skill vollständig auf fachlichen Umfang, Rückfragen mit Fortsetzung bis zum bestellten Dokument, Ausgabeverhalten, Rollenbegrenzung und Quellendifferenzierung gelesen. Kein Live-Modelltest und keine erneute Vollverifikation der bestehenden Rechtsquellen.",
+    "reason": "Hauptproblem und zugeordneter Skill gelesen und konsistent auf unmittelbare Kostenattribution sowie gesonderte Designkausalität präzisiert; amtlichen Leitsatz geprüft, kein Live-Modelltest. Workflow-Ergänzung: Spezialwerkzeug wurde nur für die angegriffene Serie gemietet -> Kostenansatz im Verletzergewinn ändern, nicht automatisch den kausalen Designanteil am Gewinn. Zugeordneten Fokus-Skill auf Kohärenz gelesen und unverändert belassen.",
     "changes": [
-      "Vollständigen Antworttext bei fehlendem Dateiexport ergänzt; keine erfundenen Downloadlinks."
+      "Gemeinkostenanteil in allen drei Prompts und Fokus-Skill integriert",
+      "Gewinn und hypothetischen Designanteil im Zahlenbeispiel getrennt",
+      "Abmahnungszugang, Vollmacht und Vollziehungsfrist präzisiert; keine Zwangskaskade",
+      "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten."
     ],
     "prompt_path": "fachanwalt-gewerblicher-rechtsschutz/fachanwalt-gewerblicher-rechtsschutz-hauptproblem.md",
-    "prompt_sha256": "4dc18e4fd183f03b141379d4d63e04c744abc4862ec4cb9a7c8677ff301b1dd7",
+    "prompt_sha256": "c600b3f60cbac924cc411b11de31759986cb6451701bddbbe0a92a91880c2813",
     "skill_path": "fachanwalt-gewerblicher-rechtsschutz/skills/design-verletzergewinn-kostenabgleich/SKILL.md",
-    "skill_sha256": "365d10ded88ace3f90d349f6a4ff6b9b38866f915fef6cacdcf876bc4a81e533"
+    "skill_sha256": "ff1e5b57ef92cbdad0b0f1c0e8d125df195872f8c90669ac0e28cbaee656d50e"
   },
-  "workshop_review": {"verdict":"revised","reason":"Die vollständige Prüfung bestätigte Verletzungsform und Schadensrechnung als konkrete Bearbeitungswege; die allgemeine Stationsausgabe war dazu widersprüchlich.","changes":["Zeichenvergleich und Schadensrechnung als Vorarbeiten der bestellten Abmahnung, Erwiderung oder Bewertung statt zusätzliche Ergebnisdokumente gefasst."],"sha256":"ce1f9eb748cf6bcccd23f9d902f21bfdb4082d687e0dd55641777853809d4a13"},
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Breite Werkstatt von redundanten Standardabläufen befreit; Markenwiderspruch, Design, technische Rechte, UWG, Geheimnisse, Abmahnung und Vollziehung behalten getrennte Wege. Workflow-Ergänzung einzeln geprüft: Angegriffene Variante und historische Angebote, umsetzbare Unterlassung, Retouren und Wiederverkauf, spezifische Kosten statt Etiketten, Kaufmotivbelege, Dringlichkeit und Geheimschutz von Anlagen.",
+    "changes": [
+      "Gemeinkostenanteil in allen drei Prompts und Fokus-Skill integriert",
+      "Gewinn und hypothetischen Designanteil im Zahlenbeispiel getrennt",
+      "Abmahnungszugang, Vollmacht und Vollziehungsfrist präzisiert; keine Zwangskaskade",
+      "Angegriffene Variante und historische Angebote, umsetzbare Unterlassung, Retouren und Wiederverkauf, spezifische Kosten statt Etiketten, Kaufmotivbelege, Dringlichkeit und Geheimschutz von Anlagen."
+    ],
+    "sha256": "2772e48225425367ccb08c0369780c169bb9538511d09e001a401d7b21c179f9"
+  },
   "selection": {
     "positive": [
       "Prüfen Sie die Rechnungslegung zu unserem verletzten deutschen Möbeldesign: Retouren, Kostenstellen und Gemeinkosten sollen in einen Zahlungsentwurf überführt werden.",
@@ -104,5 +143,55 @@
       ],
       "target_skill": "design-verletzergewinn-kostenabgleich"
     }
-  ]
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-23",
+    "files": [
+      "fachanwalt-gewerblicher-rechtsschutz/fachanwalt-gewerblicher-rechtsschutz-werkstatt.md",
+      "fachanwalt-gewerblicher-rechtsschutz/fachanwalt-gewerblicher-rechtsschutz-schnellstart.md",
+      "fachanwalt-gewerblicher-rechtsschutz/fachanwalt-gewerblicher-rechtsschutz-hauptproblem.md",
+      "fachanwalt-gewerblicher-rechtsschutz/skills/design-verletzergewinn-kostenabgleich/SKILL.md",
+      "fachanwalt-gewerblicher-rechtsschutz/README.md",
+      "quality/evals/fachanwalt-gewerblicher-rechtsschutz.json"
+    ],
+    "opening_change": "Schutzrechtsverletzung und streitige Handlung; im Hauptproblem Rechnungslegung, Kostenbeleg und zurechenbarer Designgewinn. Workflow-Ergänzung: Leer: Abmahnungsabwehr, Schutzrechtsvergleich oder Schadensrechnung anbieten. Dateien ohne Aufgabe: Varianten, Schutzabbildungen und Erlösbelege still lesen; Unterlassungs-, Vergleichs- oder Bezifferungsziel klären. Klarer Auftrag: bestellte Erwiderung oder Rechnung direkt bearbeiten, ohne ungefragtes Schutzrechtsportfolio.",
+    "norms": [
+      "Paragraf 42 DesignG",
+      "Paragraf 287 ZPO",
+      "Paragraf 64 PatG",
+      "Paragrafen 13 UWG und 929 Absatz 2 ZPO"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 02.11.2000, Az. I ZR 246/98, Gemeinkostenanteil, amtliche Leitsätze",
+        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=22971&Blank=1.pdf",
+        "application": "Kostenabzug erfordert unmittelbare Zuordnung zur Verletzungsproduktion; Gemeinkosten nicht automatisch vom Verletzergewinn abziehen.",
+        "limit": "Historische Anspruchsnorm; heutige Grundlage Paragraf 42 DesignG und gesonderte Kausalitätsquote prüfen. Amtlicher indexierter Leitsatz geprüft, Volltextabruf gesperrt."
+      },
+      {
+        "citation": "EuGH, Urteil vom 19.06.2014, Az. C-345/13, Karen Millen",
+        "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=ecli:ECLI:EU:C:2014:2013",
+        "application": "Eigenartvergleich der Werkstatt gegen einzelne ältere Gestaltungen.",
+        "limit": "Kein Mosaik einzelner Elemente und kein Ersatz für Nachahmungsnachweis."
+      }
+    ],
+    "remaining_limits": [
+      "Desk-/Quellenprüfung, kein Live-Ergebnistest.",
+      "Gemeinkostenentscheidung anhand amtlicher Leitsätze, nicht vollständig neu abgerufener Gründe geprüft.",
+      "FAO-Nachweise, Markenamtsregeln und weitere Spezialzweige nicht insgesamt neu verifiziert.",
+      "Workflow-Review 23.09.2026: Paragraf 42 DesignG erneut eingesehen. Gemeinkostenentscheidung weiterhin nur in dokumentierter Leitsatzreichweite, keine erfolgreiche neue Volltextprüfung behauptet."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Abmahnungsabwehr, Schutzrechtsvergleich oder Schadensrechnung anbieten.",
+      "Dateien ohne Aufgabe: Varianten, Schutzabbildungen und Erlösbelege still lesen; Unterlassungs-, Vergleichs- oder Bezifferungsziel klären.",
+      "Klarer Auftrag: bestellte Erwiderung oder Rechnung direkt bearbeiten, ohne ungefragtes Schutzrechtsportfolio."
+    ],
+    "continuation": "Spezialwerkzeug wurde nur für die angegriffene Serie gemietet -> Kostenansatz im Verletzergewinn ändern, nicht automatisch den kausalen Designanteil am Gewinn.",
+    "enrichment": "Angegriffene Variante und historische Angebote, umsetzbare Unterlassung, Retouren und Wiederverkauf, spezifische Kosten statt Etiketten, Kaufmotivbelege, Dringlichkeit und Geheimschutz von Anlagen.",
+    "limits": "desk review; no live client execution"
+  }
 }

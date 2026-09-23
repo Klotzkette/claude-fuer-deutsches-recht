@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "fachanwalt-verkehrsrecht",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/bgb/__249.html",
@@ -12,27 +12,51 @@
       "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=pm&Blank=1&Datum=2024-1&Gericht=bgh&file=dokument.pdf&linked=urt&nr=136422",
       "checked_on": "2026-09-14",
       "supports": "BGH, Urteil vom 16.01.2024, Az. VI ZR 253/22: amtlich indexierter Leitsatz zu unbezahlter Rechnung, Zahlung an Werkstatt und Zug-um-Zug-Abtretung geprüft. Direkter PDF-Abruf scheiterte; keine Volltextprüfung behauptet."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2022/VI_ZR_253-22.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 16.01.2024, VI ZR 253/22: Rn. 14–20 und 25–28: Bei konkreter Unfallreparatur umfasst Werkstattrisiko auch nicht erkennbare Nichtausführung; bei offener Rechnung Zahlung an Werkstatt Zug um Zug gegen entsprechende Werkstattansprüche. Grenze: Unfallbezug und fehlendes Auswahl-/Überwachungsverschulden bleiben erforderlich; bei Zahlung an sich oder Freistellung objektiver Nachweis. Keine pauschale Zessionars-, Kasko- oder Totalschadenregel."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__249.html",
+      "checked_on": "2026-09-22",
+      "supports": "Naturalrestitution und erforderlicher Geldbetrag; Umsatzsteuer nur soweit tatsächlich angefallen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/owig_1968/__67.html",
+      "supports": "Erneuter Normabruf zur zweiwöchigen Einspruchsfrist ab Zustellung und möglicher Beschränkung; Akteneinsicht startet die Frist nicht neu.",
+      "checked_on": "2026-09-23"
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Mini vollständig gelesen: Zahlungsmitteilung ändert Schadensersatz- und Werklohnsaldo getrennt; fehlende Messunterlagen werden nicht als Messfehler gewertet und blockieren keine fristwahrende Vorbereitung.",
+    "reason": "Werkstattrisiko auf nicht erkennbare Nichtausführung erstreckt und den Zahlungsweg bei offener Rechnung von Zahlung an den Geschädigten abgegrenzt. Workflow-Ergänzung einzeln geprüft: Versicherung zahlte an den Geschädigten statt an die Werkstatt oder dieser zahlte inzwischen selbst -> beide Salden und Zahlungsempfänger im Schreiben aktualisieren.",
     "changes": [
-      "Nach neuer Zahlung Empfänger und Restforderung aktualisieren und Regulierungsschreiben fertigstellen lassen.",
-      "Unfall, Bußgeld, Strafsache und Fahrerlaubnis mit eigenen Nachweisen und Fristen bearbeitet."
+      "Nicht erkennbare Nichtausführung von unfallfremden Reparaturen getrennt.",
+      "Zahlung an Werkstatt Zug um Zug gegen Werkstattansprüche sowie Alternativen mit objektivem Nachweis erläutert.",
+      "Zwei Zahlungskonten, Teilzahlungen, gezielte Nachfragen und vollständig formulierte Antwort erhalten.",
+      "Unpassenden GWB-Verweis und Entstehungsgeschichte früherer Promptfassungen entfernt.",
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
     ],
-    "sha256": "b71bae92b9e579b9eab5a485a9923bb8849777fe7cd56651e336f55bfafae8af"
+    "sha256": "b1ee8d7a28a8f715bd91a67836735d0422149a735613de17d94c1ca901a2021e"
   },
   "focus_review": {
-    "reviewed_on": "2026-09-17",
+    "reviewed_on": "2026-09-23",
     "method": "desk_review",
-    "verdict": "retained",
-    "reason": "Standalone-Prompt und zugeordneter Fokus-Skill vollständig auf fachlichen Umfang, Rückfragen mit Fortsetzung bis zum bestellten Dokument, Ausgabeverhalten, Rollenbegrenzung und Quellendifferenzierung gelesen. Kein Live-Modelltest und keine erneute Vollverifikation der bestehenden Rechtsquellen.",
-    "changes": [],
+    "verdict": "revised",
+    "reason": "Hauptproblem und zugehörigen Skill am vollständig gelesenen Urteil überprüft: Nichtausführung, Unfallbezug, Gläubigerstellung, Zahlungsempfänger und Freistellung getrennt. Workflow-Ergänzung: Versicherung zahlte an den Geschädigten statt an die Werkstatt oder dieser zahlte inzwischen selbst -> beide Salden und Zahlungsempfänger im Schreiben aktualisieren. Zugeordneten Fokus-Skill auf Kohärenz gelesen und unverändert belassen.",
+    "changes": [
+      "Nicht erkennbare Nichtausführung von unfallfremden Reparaturen getrennt.",
+      "Zahlung an Werkstatt Zug um Zug gegen Werkstattansprüche sowie Alternativen mit objektivem Nachweis erläutert.",
+      "Zwei Zahlungskonten, Teilzahlungen, gezielte Nachfragen und vollständig formulierte Antwort erhalten.",
+      "Unpassenden GWB-Verweis und Entstehungsgeschichte früherer Promptfassungen entfernt.",
+      "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten."
+    ],
     "prompt_path": "fachanwalt-verkehrsrecht/fachanwalt-verkehrsrecht-hauptproblem.md",
-    "prompt_sha256": "2eed3406126a3620051bbcc0a42359c4d67b6e6fc8c3a40192c19e6f524ce5c4",
+    "prompt_sha256": "894966576119de771313ca129dabe79d65aacb3be4ef7be0109f1a601c2da427",
     "skill_path": "fachanwalt-verkehrsrecht/skills/werkstattrechnung-kuerzung-zahlungswege/SKILL.md",
-    "skill_sha256": "b56696a67371c40d0feaf6703ffe63a8f738e7e3ed4705570d7844f848d1ce49"
+    "skill_sha256": "2e345ea427c0204a62849fa7c39a2aaa21525c4f009a86ac0e72e281a2e2989e"
   },
   "selection": {
     "positive": [
@@ -88,12 +112,57 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Gesamte Werkstatt einschließlich Kasko, Personenschaden und Fahrerlaubnis gelesen. Konkrete Foto-, Zahlungs-, Gutachten- und Zustellungsnachweise führen jeweils zu aktualisierter Rechnung oder Verteidigung statt zu einem allgemeinen Abbruch.",
+    "reason": "Unfallregulierung mit operativer Beweis- und Zahlungsprüfung ergänzt; redaktionelle Altverweise in Automatisierung, Totalschaden, Zustellung und Fahrerlaubnis entfernt, alle Verfahrenszweige erhalten. Workflow-Ergänzung einzeln geprüft: Fotoperspektive und tatsächliche Unfallposition, Vorschadenzone, konkrete Kürzungsart, Direkt- und Eigenzahlung, belegte Abholbereitschaft, Vergleichsgrenze für Personenschäden sowie getrennte Bußgeld- und Fahrerlaubniswege.",
     "changes": [
-      "Zahlung an Geschädigten von Tilgung der Werkstattrechnung getrennt und beide Salden fortgeschrieben.",
-      "Nach neuen medizinischen oder Einkommensbelegen die betroffenen Schadenspositionen berichtigen lassen.",
-      "Vorhandene fachfremde Altverweise nicht als aktuelle Rechtsgrundlage bestätigt; focus_review erhalten."
+      "Nicht erkennbare Nichtausführung von unfallfremden Reparaturen getrennt.",
+      "Zahlung an Werkstatt Zug um Zug gegen Werkstattansprüche sowie Alternativen mit objektivem Nachweis erläutert.",
+      "Zwei Zahlungskonten, Teilzahlungen, gezielte Nachfragen und vollständig formulierte Antwort erhalten.",
+      "Unpassenden GWB-Verweis und Entstehungsgeschichte früherer Promptfassungen entfernt.",
+      "Fotoperspektive und tatsächliche Unfallposition, Vorschadenzone, konkrete Kürzungsart, Direkt- und Eigenzahlung, belegte Abholbereitschaft, Vergleichsgrenze für Personenschäden sowie getrennte Bußgeld- und Fahrerlaubniswege."
     ],
-    "sha256": "e8790fac163f3b7a5dfb4ad57e78c65608962f43033fe07ab4f0d1aa38fc205d"
+    "sha256": "a1ebc16f244dccf40dbc0c7a6286fd847ce7ce6056fcf2c90ef057f299215db5"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-23",
+    "files": [
+      "fachanwalt-verkehrsrecht/fachanwalt-verkehrsrecht-hauptproblem.md",
+      "fachanwalt-verkehrsrecht/fachanwalt-verkehrsrecht-schnellstart.md",
+      "fachanwalt-verkehrsrecht/fachanwalt-verkehrsrecht-werkstatt.md",
+      "fachanwalt-verkehrsrecht/skills/werkstattrechnung-kuerzung-zahlungswege/SKILL.md",
+      "fachanwalt-verkehrsrecht/README.md",
+      "quality/evals/fachanwalt-verkehrsrecht.json"
+    ],
+    "opening_change": "Unfallquote, Rechnungskürzungen und den konkreten Angriff gegen Verkehrssanktionen anstelle eines abstrakten Bearbeitungsauftrags genannt. Workflow-Ergänzung: Leer: Unfallregulierung, Bußgeldeinspruch oder Fahrerlaubnisabwehr anbieten. Dateien ohne Aufgabe: Unfallbelege, Bescheide und Rechnungen still lesen; konkreten Verfahrensweg und Ziel klären. Klarer Auftrag: Regulierungsantwort oder Rechtsbehelf unmittelbar erstellen; keine ungefragte Unfallzusammenfassung.",
+    "norms": [
+      "Paragraf 249 BGB",
+      "Paragrafen 7, 17 und 18 StVG",
+      "Paragraf 115 VVG",
+      "Paragraf 67 OWiG"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 16.01.2024, VI ZR 253/22",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2022/VI_ZR_253-22.pdf?__blob=publicationFile&v=1",
+        "application": "Rn. 14–20 und 25–28: Bei konkreter Unfallreparatur umfasst Werkstattrisiko auch nicht erkennbare Nichtausführung; bei offener Rechnung Zahlung an Werkstatt Zug um Zug gegen entsprechende Werkstattansprüche.",
+        "limit": "Unfallbezug und fehlendes Auswahl-/Überwachungsverschulden bleiben erforderlich; bei Zahlung an sich oder Freistellung objektiver Nachweis. Keine pauschale Zessionars-, Kasko- oder Totalschadenregel."
+      }
+    ],
+    "remaining_limits": [
+      "Desk- und Quellenreview, kein Live-Mandanten- oder Modelltest.",
+      "Amtlichen Entscheidungs-Volltext vollständig gelesen; keine vollständige Aktualitätsrecherche aller OWi-, Straf-, Fahrerlaubnis- und Personenschadenszweige.",
+      "Workflow-Review 23.09.2026: Paragraf 67 OWiG erneut eingesehen; bestehender BGH-Volltextnachweis zum Werkstattrisiko erhalten. Keine pauschale Neuverifikation aller Mess- und Fahrerlaubnisfragen."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Unfallregulierung, Bußgeldeinspruch oder Fahrerlaubnisabwehr anbieten.",
+      "Dateien ohne Aufgabe: Unfallbelege, Bescheide und Rechnungen still lesen; konkreten Verfahrensweg und Ziel klären.",
+      "Klarer Auftrag: Regulierungsantwort oder Rechtsbehelf unmittelbar erstellen; keine ungefragte Unfallzusammenfassung."
+    ],
+    "continuation": "Versicherung zahlte an den Geschädigten statt an die Werkstatt oder dieser zahlte inzwischen selbst -> beide Salden und Zahlungsempfänger im Schreiben aktualisieren.",
+    "enrichment": "Fotoperspektive und tatsächliche Unfallposition, Vorschadenzone, konkrete Kürzungsart, Direkt- und Eigenzahlung, belegte Abholbereitschaft, Vergleichsgrenze für Personenschäden sowie getrennte Bußgeld- und Fahrerlaubniswege.",
+    "limits": "desk review; no live client execution"
   }
 }

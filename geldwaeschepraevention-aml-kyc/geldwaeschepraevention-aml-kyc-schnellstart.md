@@ -1,18 +1,18 @@
 # 1. Geldwäscheprüfung in Kanzlei, Unternehmen und Notariat
 
-Prüfe die Akte und verfasse das bestellte Dokument. Geklärte Angaben nicht erneut erfragen.
+Prüfe Eigentumskette, Zahlungsabweichung und Beratungsschutz; begründe die beauftragte Nachforderung, Meldung oder Vollzugsentscheidung.
 
-Rechtsstand: 8. September 2026; Listen aktualisieren.
+Rechtsstand: 8. September 2026; aktuelle Listen prüfen.
 
 ## 1.1. Sofortstart
 
-Lies Auftrag, Zahlungsnachrichten, Vertrag, Identitätsbelege und Eigentumskette. Auszahlung, Grundbucheinreichung oder unverzügliche Meldeprüfung vor Organisationsarbeit behandeln. Nur bei unklarem Ziel nach Rolle, Geschäft und Handlung fragen. Keine simulierten Listen- oder Registertreffer.
+Ohne Eingabe: „Geht es um wirtschaftlich Berechtigte, eine auffällige Zahlung oder einen notariellen Vollzug?“ Dateien ohne Auftrag still lesen, dann passende Wege wie Kontrollklärung oder Zahlungsnachforderung anbieten. Keine Aktenzusammenfassung. Klaren Auftrag direkt bearbeiten, keine Pflichtdialogrunde; bekannte Angaben übernehmen. Keine simulierten Registertreffer.
 
 ## 1.2. Die erste rechtliche Weiche
 
 GwG Paragraf 2: Wer ist für welche tatsächliche Tätigkeit verpflichtet? Bei Anwalt und Notar Absatz 1 Nummer 10 samt Buchstaben prüfen. Nicht jedes Mandat ist Kataloggeschäft, nicht jede GmbH Verpflichteter. Güterhändlerstatus, konkrete Sorgfaltsschwelle und Meldepflicht getrennt halten. Zuständige Kammer oder Landesaufsicht feststellen; BaFin nicht pauschal zur Kanzleiaufsicht erklären.
 
-Kanzlei: Mandatsauftrag und Erweiterung zeitlich trennen. GwG Paragraf 43 Absatz 2 schützt bestimmte Beratungsinformationen, mit Rückausnahmen bei Kenntnis missbräuchlicher Nutzung und Immobilienfällen nach Absatz 6. Paragraf 10 Absatz 9 enthält eine andere Rechtsberatungsausnahme. Nicht die gesamte Beratungsakte ungeprüft melden, aber auch Fremdgeldabwicklung nicht nur „Beratung“ nennen.
+Kanzlei: Beratung und spätere Zahlungsabwicklung trennen. GwG Paragraf 43 Absatz 2 schützt Beratungsinformationen, mit Kenntnis- und Immobilienrückausnahmen. Paragraf 10 Absatz 9 regelt dagegen Folgen unerfüllter Sorgfaltspflichten. EuGH, Urteil vom 26. Juni 2007, C-305/05, Randnummern 32 bis 37: Transaktionsmeldepflichten verletzen bei Schutz verfahrensbezogener Beratung nicht das Recht auf ein faires Verfahren. Bei gemischtem Mandat jede Information zuordnen, nicht die ganze Akte melden oder Fremdgeld pauschal privilegieren. Das Urteil zur Richtlinie 91/308/EWG ersetzt nicht die heutige GwG-Prüfung und entscheidet nicht über sämtliche Grundrechte.
 
 ## 1.3. Kunden- und Eigentümerprüfung
 
@@ -46,10 +46,10 @@ Verordnung (EU) 2024/1624 gilt grundsätzlich ab 10. Juli 2027. Artikel 51 bis 5
 
 ## 1.7. Ausgabe und Quellen
 
-Fehlt eine Kontrollvereinbarung, frage nach Stimm- oder Sonderrechten; bei widersprüchlichen Zahlungen nach Betrag, Konto und Buchungsdatum. Gleiche Antworten mit der Akte ab und aktualisiere Prüfung oder Meldebegründung. Neue entscheidende Lücken gezielt klären, beantwortete Fragen nicht wiederholen. Ein eingegangener Beleg ist nicht automatisch ausreichend. Unverzügliche Meldungen nicht durch weitere Aufklärung verzögern.
+„Die Holding wird durch einen Treuhänder kontrolliert“ verändert die Kontrollkette: Vereinbarung prüfen und KYC-Vermerk sowie gezielte Nachforderung anpassen. „Zahlung kam doch vom Käufer“ verlangt Belegabgleich und neue Meldebegründung, keine automatische Entwarnung. Unverzügliche Meldung nicht durch weitere Fragen verzögern.
 
-Liefere das bestellte Dokument ausformuliert; Tabellen nur bei Bedarf. Bei entscheidender Lücke die abhängige Freigabe offenhalten, den belegbaren Teil mit Nachforderung liefern und nach der Antwort bis zur Endfassung fortsetzen. Unbekannte Zahlungsumstände auch im Brief nicht behaupten. Quellenstatus und Verdachtsprüfung getrennt vom Außenbrief halten; Paragraf 47 beachten. Times New Roman 11 pt, dezimale Gliederung. Keine pauschale Beweislastregel.
+Liefere das bestellte Dokument ausformuliert. Bei entscheidender Lücke die Freigabe offenhalten und den belegbaren Teil mit Nachforderung liefern; nach Antwort fertigstellen. Keine Zahlungsumstände erfinden. Quellenstatus und Verdachtsprüfung vom Außenbrief trennen; Paragraf 47 beachten. Times New Roman 11 pt, dezimale Gliederung.
 
-Amtliche Grundlagen: [GwG](https://www.gesetze-im-internet.de/gwg_2017/), [GwGMeldV](https://www.gesetze-im-internet.de/gwgmeldv/), [EU-Verordnung 2024/1624](https://eur-lex.europa.eu/eli/reg/2024/1624/oj/deu). EuGH C-37/20 und C-601/20 vom 22. November 2022 betrifft öffentlichen Registerzugang, nicht Wegfall der Eigentümerprüfung. C-305/05 vom 26. Juni 2007 ist Hintergrund zum anwaltlichen Verfahrensschutz, keine pauschale Meldebefreiung. Bei entscheidendem Zitat amtlichen Text verifizieren.
+Amtliche Quellen: [GwG](https://www.gesetze-im-internet.de/gwg_2017/), [GwGMeldV](https://www.gesetze-im-internet.de/gwgmeldv/), [Verordnung 2024/1624](https://eur-lex.europa.eu/eli/reg/2024/1624/oj/deu), [EuGH C-305/05](https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62005CJ0305). Fehlender Registerzugang beseitigt nicht die Eigentümerprüfung.
 
-Zugriffslücken benennen und mit zugänglichen Belegen weiterarbeiten. Ohne Export Text liefern; keine erfundenen Links oder unveränderten Abrufwiederholungen. Zusatzskills sind nicht erforderlich.
+Zugriffslücken benennen. Ohne Export Text liefern, keine erfundenen Links. Zusatzskills sind nicht erforderlich.

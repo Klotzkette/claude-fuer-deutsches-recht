@@ -1,73 +1,41 @@
-# 1. Informationsfreiheit Presseauskunft: Schnellstart
+# 1. Informationsfreiheit und Presseauskunft: Schnellstart
 
-Bearbeite den Zugang zu einer konkreten amtlichen Information oder ihren Schutz vor Offenlegung. Unterscheide Anspruch und Ausschlussgründe und prüfe Teilzugang, Schwärzung, Drittbeteiligung, Gebühren und Eilbedarf.
+Prüfe die Ablehnung oder Schwärzung der konkret angeforderten Behördenunterlagen und formuliere den verlangten Antrag oder Antwortbrief. Trenne geschützte Passagen vom zugänglichen Rest; eine private Telefonnummer rechtfertigt nicht ohne Weiteres die Sperrung eines ganzen Berichts.
 
-Kernauftrag: Bereite Verfahren nach IFG-, Transparenz-, UIG-, VIG- und Presseauskunftsrecht bei Bund, Ländern und Behörden vor. Bearbeite Antrag, Kosten, Fristen, Widerspruch und Klage und halte den Verfahrensstand fest. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1. Aus der Akte beginnen
 
-## 1.1. Sofortstart nach Eingangslage
+Ohne Eingabe biete Informationsantrag, Schwärzungseinwand oder Pressefrage an. Dateien ohne Auftrag still lesen und zwei passende Dokumentwege anbieten. Klaren Auftrag direkt ausarbeiten; bekannte Rolle, Zeitraum und Ziel übernehmen. Nur entscheidende Lücken erfragen. Neue Drittstellungnahme: Schutzgrund und Teilzugang passageweise ändern; neue Redaktionsfrist: konkrete Eilbegründung prüfen, nicht eine IFG-Frist erfinden.
 
-- Dateien oder Ordner: Zugangsantrag, Behördenantwort, betroffene Dokumente, Drittstellungnahmen und Zustellnachweise im erforderlichen Umfang lesen.
-- Konkreter Auftrag: Den bestellten Antrag, Brief, Bescheidentwurf oder die Bewertung ausarbeiten; unbekannte Akteninhalte nicht unterstellen.
-- Nur Prompt gestartet: Rolle und Zugangsziel aus der Akte bestimmen; nur bei unklarem Auftrag nach dem gewünschten Ergebnis fragen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Arbeite nach Antworten mit den bisherigen Aktenfunden weiter. Nur veränderte Fassungen erneut prüfen, bekannte Tatsachen nicht nochmals erfragen. Unabhängig von einer Lücke bearbeitbare Teile vorlegen und nach Ergänzung das bestellte Schreiben fertigstellen.
 
-Bei unbestimmtem Zugangsziel frage nach Vorgang und Zeitraum. Fehlt die Begründung einer Schwärzung, fordere deren konkreten Schutzgrund an, ohne die geschützte Information vorwegzunehmen. Nach einer Antwort Antrag oder passagenbezogene Bewertung aktualisieren. Neue entscheidende Lücken gezielt klären, beantwortete Fragen nicht wiederholen.
+## 1.2. Zugang und Ausnahmen zuordnen
 
-## 1.2. Fachlicher Direktstart
+Prüfe bei Bundesstellen Paragrafen 1 und 2 IFG und spezialgesetzlichen Vorrang; bei Umweltinformationen Paragrafen 2, 3, 8 und 9 UIG, bei Verbraucherinformationen Paragrafen 2 und 3 VIG. Bei Landesstellen das zutreffende Landesrecht, bei Archivgut dessen Schutzfristen feststellen. Verlange vorhandene Informationen mit bestimmbarer Dokumentart, Vorgang und Zeitraum, keine erst zu erstellende fachliche Analyse. Das Zusammenstellen vorhandener Daten ist nicht schon eine neue Analyse.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welche vorhandene amtliche Information wird in welchem Format von welcher Stelle begehrt.
-2. Prüfe das für Stelle und Gegenstand einschlägige Anspruchsregime sowie Ausschlussgründe und möglichen Teilzugang je Passage.
-3. Belege und Engpass zusammenführen: Nachweisachse Zugangsziel: begehrte Information, Zeitraum, Format, Behörde, Aktenbestand und Verwendungszweck so konkret wie nötig bestimmen; besonders kritisch ist: Der Antrag verlangt erst eine neue Auswertung, statt vorhandene Informationen hinreichend bestimmbar zu bezeichnen.
-4. Das bestellte Dokument ausarbeiten. Eine Übersicht zu Dokumenten, Ausschlussgründen und Teilzugang nur bei Bedarf beifügen.
+Ordne Ausschlüsse nach Paragrafen 3 bis 6 IFG den betroffenen Passagen zu. Unterscheide öffentliche Gefährdung, laufende Entscheidungsvorbereitung, personenbezogene Daten, geistiges Eigentum und Geschäftsgeheimnisse. Prüfe Einwilligung, gesetzliche Abwägung, Anonymisierung und den verbleibenden Informationswert. Zugang bedeutet keine Erlaubnis zur urheberrechtlichen Weiternutzung.
 
-## 1.3. Kernroute
+## 1.3. Teilzugang durchsetzen oder begrenzen
 
-1. Zugangsziel: begehrte Information, Zeitraum, Format, Behörde, Aktenbestand und Verwendungszweck so konkret wie nötig bestimmen.
-2. Anspruchsregime: IFG, UIG, VIG, Presseauskunft, Archivrecht oder Landesrecht nach Information und Stelle auswählen.
-3. Ausnahmen und Dritte: öffentlichen Belang, Entscheidungsprozess, personenbezogene Daten, Geheimnis, Urheberrecht, Drittanhörung und Teilzugang getrennt prüfen.
-4. Verfahren und Kosten: Antrag, Eingangsdatum, regimespezifische Bearbeitungsregel, Präzisierung, Gebührenankündigung, Bescheid und Eilbedarf steuern. Keine allgemeine Monatsfrist für alle Zugangswege annehmen.
-5. Arbeitsprodukt: Zugangsantrag, Präzisierung, Drittstellungnahme, Schwärzungsmatrix, Ablehnungsbescheid, Widerspruch oder Eilantrag ausformulieren.
+Nach [Paragraf 7 Absatz 2 IFG](https://www.gesetze-im-internet.de/ifg/__7.html) sind zugängliche Teile bereitzustellen, soweit geschützte Angaben ausgesondert werden können und kein unverhältnismäßiger Verwaltungsaufwand entsteht.
 
-## 1.4. Fallkarte
+[BVerwG, Urteil vom 10.04.2019, Az. 7 C 23.18, Rn. 36 bis 41](https://www.bverwg.de/100419U7C23.18.0): Bei einer Aufwandseinrede genügt gewöhnlicher Zusatzaufwand nicht; maßgeblich ist die eng auszulegende Grenze institutioneller Überforderung. Verlange konkrete Angaben zu Sichtung, Bewertung und Drittbeteiligung. Auch ein eingeschränkter Antrag unterliegt dieser Grenze. Die Entscheidung hebt materielle Geheimnisse nicht auf.
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | GG Artikel 5 Absatz 1; IFG Paragraf 1 sowie Paragraf 3 bis Paragraf 6; IFG Paragraf 7 bis Paragraf 9 |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Begehrte Information, Zeitraum, Format, Behörde, Aktenbestand und Verwendungszweck so konkret wie nötig bestimmen |
-| Beweislast | Nachweisachse Zugangsziel: begehrte Information, Zeitraum, Format, Behörde, Aktenbestand und Verwendungszweck so konkret wie nötig bestimmen |
-| Rechtsfolge | Zugangsantrag, Präzisierung, Drittstellungnahme, Schwärzungsmatrix, Ablehnungsbescheid, Widerspruch oder Eilantrag ausformulieren |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+Kernfall: Sind in einem zehnseitigen Bericht lediglich zwei private Telefonnummern auf Seite 10 geschützt und wird deren Schwärzung akzeptiert, verlange Zugang zum übrigen Bericht statt zur ungeschwärzten Vollfassung. Passender Empfängertext: „Mit der Schwärzung der beiden privaten Telefonnummern auf Seite 10 bin ich einverstanden. Bitte übersenden Sie mir den übrigen Bericht elektronisch. Falls Sie weitere Passagen zurückhalten, bitte ich um die jeweiligen tatsächlichen und rechtlichen Gründe.“ Passe dies an den belegten Akteninhalt an.
 
-## 1.5. Einsatzfelder
+## 1.4. Dritte, Kosten und Zeit beachten
 
-Formuliere einen bestimmbaren Antrag oder eine passagenbezogene Schwärzungsprüfung. Ordne jedem Ausschlussgrund nur den tatsächlich betroffenen Inhalt zu; prüfe den übrigen Zugang eigenständig.
+Bei Drittbezug beachte die Begründungsregel des Paragraf 7 Absatz 1 IFG und die Anhörung nach Paragraf 8 IFG. Ein Geheimhaltungswunsch ist zu würdigen, kein Entscheidungsrecht des Dritten. Die Monatsregel in Paragraf 7 Absatz 5 IFG ist eine Sollregel mit Vorbehalt der Drittbeteiligung, keine Genehmigungsfiktion.
 
+Prüfe Gebühren gesondert nach Paragraf 10 IFG und einschlägiger Gebührenverordnung; bei überraschendem Aufwand Kosteninformation und gegebenenfalls engeren Antragsumfang anbieten. Nur erforderliche Rechtsbehelfsfristen anhand belegten Zugangs und Paragrafen 70 und 74 VwGO prüfen. Bei beauftragtem Eilrechtsschutz nach Paragraf 123 VwGO konkrete Dringlichkeit und Anspruch begründen.
 
-## 1.6. Anker
+Eine Pressefrage verlangt konkrete journalistische Fragen, verantwortliche Stelle und Aktualitätsbezug. Sie richtet sich nach dem zutreffenden Landespressegesetz oder dem Anspruch gegen Bundesbehörden aus Artikel 5 Absatz 1 Satz 2 GG, nicht automatisch nach dem IFG. Keine allgemeine Monatsfrist und keinen pauschal nötigen Verwendungszweck annehmen.
 
-- GG Artikel 5 Absatz 1: Pressefreiheit und Informationsfreiheit als verfassungsrechtlicher Rahmen.
-- IFG Paragraf 1 sowie Paragraf 3 bis Paragraf 6: Zugang zu amtlichen Informationen und Schutz öffentlicher Belange, behördlicher Entscheidungsprozesse, personenbezogener Daten, geistigen Eigentums und von Betriebs- oder Geschäftsgeheimnissen.
-- IFG Paragraf 7 bis Paragraf 9: Antrag, Verfahren, Teilzugang, Drittbeteiligung und ablehnende Entscheidung. Gebühren gesondert nach Paragraf 10 und einschlägiger Gebührenverordnung prüfen.
-- UIG Paragraf 3 sowie Paragraf 8 und Paragraf 9: Zugang zu Umweltinformationen und Ablehnungsgründe.
-- Paragrafen 70, 74 und 123 VwGO: Rechtsbehelf und Eilrechtsschutz anhand des konkreten Informationsanspruchs, Zugangs und Verfahrensstands bestimmen.
+## 1.5. Vollständige Fassung und Fortsetzung
 
-## 1.7. Antwortform
+Liefere den bestellten Antrag, Antwortbrief, Bescheidentwurf, die Drittstellungnahme oder rechtliche Bewertung ausformuliert. Stelle bei mehreren Schwärzungen nötigenfalls Seite, Passage, Schutzgrund und zulässigen Rest gegenüber; die Tabelle ersetzt keinen Brief. Ein Gutachtenauftrag verlangt keinen ungefragten Rechtsbehelf und keine zusätzliche Verfahrensakte.
 
-1.7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Zugangsantrag, Präzisierung, Drittstellungnahme, Schwärzungsmatrix, Ablehnungsbescheid, Widerspruch oder Eilantrag ausformulieren.
-1.7.2. Norm: GG Artikel 5 Absatz 1; IFG Paragraf 1 sowie Paragraf 3 bis Paragraf 6 mit dem entscheidenden Merkmal verbinden.
-1.7.3. Aktenfund: Für „Zugangsziel“ Tatsache, Datum und Fundstelle nennen.
-1.7.4. Beweis: Nachweisachse Zugangsziel: begehrte Information, Zeitraum, Format, Behörde, Aktenbestand und Verwendungszweck so konkret wie nötig bestimmen. Offene Folgen aussprechen.
-1.7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welches Anspruchsregime ist gegenüber dieser Stelle und für diesen Informationsgegenstand vorrangig.
-1.7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-1.7.7. Abschluss: Das bestellte Dokument vollständig ausformulieren. Quellenstatus und interne Recherchehinweise gesondert vom Empfängertext dokumentieren; bei einem Gutachtenauftrag keinen zusätzlichen Rechtsbehelf entwerfen.
+Prüfe Anspruchsregime, Informationsgegenstand, einzelne Schutzgründe und Reichweite des Teilzugangs. Markiere tatsächliche Lücken gesondert von Rechtsfragen; bei Nachreichung die Begründung bis zur Endfassung aktualisieren. Keine eigenständige Antragstellung, Offenlegung oder Versendung.
 
-## 1.8. Fortsetzung und Grenzen
+## 1.6. Quellen und Zugriff
 
-Präzisiere bei einem zu weiten Begehren die vorhandenen Dokumente oder Datenfelder, statt die Bearbeitung abzubrechen. Trenne Dokumentenzugang von einer Pressefrage; verlange nicht pauschal einen Verwendungszweck. Für Drittbezug beachte die Begründungsregel in [Paragraf 7 IFG](https://www.gesetze-im-internet.de/ifg/__7.html). Die Monatsregel in Absatz 5 ist eine Sollregel mit Vorbehalt der Drittbeteiligung, keine automatische Genehmigungsfiktion.
-
-Prüfe je geschützter Passage Teilzugang und Schwärzung. Bei entscheidender Lücke den tragfähigen Teil mit konkreter Nachforderung liefern; nach der Antwort Bewertung und bestelltes Schreiben bis zur Endfassung fortführen. Ein vollständig vorgelegtes Dokument ist nicht deshalb vollständig herauszugeben. Unbekannte Inhalte auch im Nachforderungsbrief nicht behaupten.
-
-Prüfe tragende Quellen amtlich; keine erfundenen Entscheidungen und keine eigenständige Antragstellung oder Herausgabe. Die Werkstatt ist optional. Vollständige Sätze; Export in Times New Roman mit 11 Punkt.
-
-Ohne Datei- oder Quellenzugriff die konkrete Lücke benennen und mit zugänglichen Belegen weiterarbeiten. Ohne Export Text liefern, keine Links erfinden oder erfolglose Abrufe unverändert wiederholen.
+Prüfe weitere tragende Normen und Entscheidungen in amtlichen Quellen; die Aufwandsentscheidung ersetzt keine besondere Geheimnis- oder Landesrechtsprüfung. Bei fehlendem Datei- oder Quellenzugriff die konkrete Lücke nennen und mit zugänglichem Material weiterarbeiten. Kein Nachladen unveränderter Akten, keine erfundenen Fundstellen oder Dateilinks, keine unverändert wiederholten erfolglosen Abrufe. Die Werkstatt ist optional. Ohne Export vollständigen Text liefern; Dokumentexport in Times New Roman, 11 Punkt.

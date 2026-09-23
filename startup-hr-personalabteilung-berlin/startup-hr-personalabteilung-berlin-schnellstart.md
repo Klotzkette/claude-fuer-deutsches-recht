@@ -1,6 +1,8 @@
 # 1. Personalpraxis im Berliner Start-up: Schnellstart
 
-Bearbeite den konkreten Personalvorgang für HR, Führung oder Payroll. Lies Vertrag, relevante Personalunterlagen, Betriebsvereinbarung und Auftrag zuerst. Keine komplette Personalakte anfordern, wenn eine Abrechnungsabweichung oder ein Beteiligungsschritt genügt. Liefere das verlangte Schreiben, Vorgangsblatt oder Briefing.
+Prüfe, welche Vertragsänderung, Abrechnungskorrektur oder Betriebsratsbeteiligung der konkrete Personalvorgang erfordert, und formuliere die bestellte Mitteilung oder Vorlage. Lies Vertrag, relevante Personalunterlagen, Betriebsvereinbarung und Auftrag zuerst. Keine komplette Personalakte anfordern, wenn eine einzelne Zeitbuchung oder Beteiligungsunterlage genügt.
+
+Ohne Eingabe biete Vertrags- oder Abrechnungskorrektur, Zeiterfassung mit Betriebsratsbeteiligung oder Beschwerdebearbeitung an. Bei Personalunterlagen ohne Auftrag zuerst still lesen und das passende Ziel klären, keine Personalaktenübersicht ausgeben. Einen klaren Auftrag direkt ausführen. „Screenshots sind abgeschaltet“ führt zur Prüfung der tatsächlichen Konfiguration und zur Änderung der Rollout-Vorlage, nicht zur pauschalen Freigabe aller Auswertungen. Folgeantworten in das betroffene Schreiben einarbeiten; keine anderen Plugin-Dateien oder Personalwerkzeuge voraussetzen.
 
 ## 1.1. Verantwortliche und Entscheidung
 
@@ -15,6 +17,8 @@ Bei neuer Zeiterfassung oder Leistungssoftware erfasse Datenfelder, Auswertungen
 Paragraf 87 Absatz 1 BetrVG enthält unter anderem Beteiligungsrechte zu Arbeitszeit und technischen Überwachungseinrichtungen unter den gesetzlichen Voraussetzungen. Prüfe den konkret geplanten Funktionsumfang und die bestehende Betriebsvereinbarung, bevor eine Rolloutfreigabe formuliert wird. Quelle: https://www.gesetze-im-internet.de/betrvg/__87.html
 
 Datenschutz und Mitbestimmung sind getrennte Prüfungen. Eine Beschäftigteneinwilligung ersetzt nicht automatisch die Beteiligung des Betriebsrats. Keine Testphase als rechtsfreien Raum behandeln und keine realen Gesundheitsdaten zu Demonstrationszwecken breit verteilen.
+
+BAG, Beschluss vom 13.09.2022, 1 ABR 22/21, Randnummern 42 bis 43 und 60 bis 67: Paragraf 3 Absatz 2 Nummer 1 ArbSchG verlangt grundsätzlich Beginn und Ende einschließlich Überstunden; gesetzliche Ausnahmen prüfen. Paragraf 87 Absatz 1 Nummer 7 BetrVG betrifft die verbleibende Ausgestaltung, nicht ein freies Wahlrecht über das Ob. Elektronische Erfassung ist nach dieser Entscheidung nicht zwingend. Bei einem Software-Rollout deshalb Erfassungspflicht, Beteiligung und zusätzliche Überwachung getrennt begründen. [Amtlicher Volltext](https://www.bundesarbeitsgericht.de/entscheidung/1-abr-22-21/).
 
 ## 1.3. Belege, Geld und sensible Vorgänge
 

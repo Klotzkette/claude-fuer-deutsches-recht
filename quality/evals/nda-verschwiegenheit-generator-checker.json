@@ -1,31 +1,56 @@
 {
   "schema_version": 1,
   "plugin": "nda-verschwiegenheit-generator-checker",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/geschgehg/__2.html",
       "checked_on": "2026-09-14",
       "supports": "Angemessene Geheimhaltungsmaßnahmen als Merkmal des gesetzlichen Geschäftsgeheimnisses."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/8-azr-172-23/",
+      "checked_on": "2026-09-22",
+      "supports": "Schutzmaßnahmen konkret darlegen; umfassende zeitlich unbegrenzte nachvertragliche Mitarbeiter-Schweigepflicht nicht ungeprüft übernehmen. Arbeitsvertragliche Klauselkontrolle; kein generelles Verbot langfristiger Unternehmens-NDAs. Vertraglicher Schutz kann über den gesetzlichen Geheimnisbegriff hinausreichen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/geschgehg/__2.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlicher Normtext direkt erneut abgerufen: tatsächliche Geheimhaltungsmaßnahmen und gesetzlicher Geheimnisbegriff von vertraglichem Schutzumfang getrennt."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/geschgehg/__3.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlicher Normtext gelesen: Tests und Untersuchung nur im Zusammenhang mit den gesetzlichen Voraussetzungen und der konkreten Nutzungsabrede einordnen."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/8-azr-172-23/",
+      "checked_on": "2026-09-23",
+      "supports": "Randnummern 25 bis 27 und 31 bis 39 erneut gelesen; keine Verallgemeinerung der arbeitsvertraglichen Catch-all-Entscheidung auf Unternehmens-NDAs."
     }
   ],
   "mini_review": {
-    "verdict": "retained",
-    "reason": "Mini vollständig gelesen: Nutzungszweck, Empfänger und Sicherungskopien haben konkrete Rückfrage- und Fortsetzungswege; Prüfauftrag und Vertragsentwurf bleiben getrennt. Keine neue Rechtsverifikation oder Live-Modellprüfung.",
+    "verdict": "revised",
+    "reason": "Vollständiger erneuter Desk Review mit drei NDA-Einstiegswegen und konkreter Fortsetzung bei Beraterzugriff oder Vorveröffentlichung; keine Live-Modellprüfung.",
     "changes": [
-      "Eigenständige Zweckbindung und vollständige Fassung nach Klärung unverändert beibehalten."
+      "Werkstatt vollständig als NDA-Workflow neu gegliedert; doppelte abstrakte Verhandlungs- und Vollzugsraster entfernt.",
+      "Schutzmaßnahmen, Untersuchung von Mustern, Ausnahmen, Archivkopien, Haftung und Verletzungsnachweis konkret verbunden.",
+      "Nachfragen führen zur ausformulierten Vereinbarung; Auslandsrecht, Mitarbeiterklauseln und unbestellte Lizenzgestaltung begrenzt.",
+      "Dateien ohne Aufgabe werden still gelesen; klare Aufträge führen direkt zu Klauseln, Folgeantworten ändern den vorhandenen Dokumentpfad."
     ],
-    "sha256": "4b439f1ba11ad15f858e15a714878887bb06b54d445a700e271d497db2b01f2d"
+    "sha256": "553665f926e6e0ecf50007e2ad0e813f2122b6bfa999b6022722ab2eef8c9ff4"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt vollständig gelesen. Allgemeine Vertragsbausteine verlangten teilweise trotz begrenzten Auftrags einen Neuvertrag und sperrten Klauselarbeit bei unklarem Zweck. Diese Widersprüche im bestehenden Aufbau korrigiert; keine vollständige Neufassung oder erneute Rechtsprüfung.",
+    "reason": "Alle Abschnitte erneut individuell gelesen und um Offenlegungszeitpunkt, technische Zweckwechsel, Gegenbelege und begrenzte Nachweise ergänzt. Desk Review ohne Mandats- oder Exportausführung.",
     "changes": [
-      "Unklarer Nutzungszweck lässt nur betroffene Klauseln vorläufig; fehlende Unterschriftsfreigabe stoppt keine Entwurfsarbeit.",
-      "Prüfauftrag, Ersatzklausel und Vollvertrag unterschieden; keine stillschweigende Lizenz oder Vergütungsregel.",
-      "Abschlussbericht dokumentiert NDA-Stand und Pflichten, ohne erfundene Meldung oder Übermittlungsnachweise."
+      "Werkstatt vollständig als NDA-Workflow neu gegliedert; doppelte abstrakte Verhandlungs- und Vollzugsraster entfernt.",
+      "Schutzmaßnahmen, Untersuchung von Mustern, Ausnahmen, Archivkopien, Haftung und Verletzungsnachweis konkret verbunden.",
+      "Nachfragen führen zur ausformulierten Vereinbarung; Auslandsrecht, Mitarbeiterklauseln und unbestellte Lizenzgestaltung begrenzt.",
+      "Frühere Offenlegung, mündliche Nachbestätigung, öffentliche Teilinformationen und belegte Vorkenntnis unterschieden.",
+      "Zweckwechsel, Testprotokolle, externer KI-Dienst, Beraterarchive und Abruf gegenüber Weitergabeverdacht in konkrete Klausel- oder Schreibenänderungen überführt."
     ],
-    "sha256": "4c9affc4d0909036aa96e64bafaabb3e21fa6b93816e0206a1add0a4c623b9dc"
+    "sha256": "7bf7cecfa11e4120827e5b7b7ee6a043feb91622832f6ebf74b6cc4b76509793"
   },
   "selection": {
     "positive": [
@@ -70,5 +95,43 @@
       ],
       "target_skill": "zweckbindung-und-permitted-purpose"
     }
-  ]
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "nda-verschwiegenheit-generator-checker/nda-verschwiegenheit-generator-checker-werkstatt.md",
+      "nda-verschwiegenheit-generator-checker/nda-verschwiegenheit-generator-checker-schnellstart.md"
+    ],
+    "opening_change": "Konkrete Geheimhaltungsvereinbarung zu Informationen, Verwendung, Empfängern und Nachwirkung statt allgemeinem Vertragsgestaltungswortschatz.",
+    "norms": [
+      "Paragrafen 133, 157, 276 Absatz 3, 280 Absatz 1, 305 bis 310 und 339 ff. BGB",
+      "Paragrafen 2, 3, 5, 6, 10 und 16 bis 20 GeschGehG",
+      "Paragrafen 6, 7 und 33 HinSchG",
+      "Paragraf 31 UrhG"
+    ],
+    "decisions": [
+      {
+        "citation": "BAG, Urteil vom 17. Oktober 2024, 8 AZR 172/23, Randnummern 25 bis 27 und 31 bis 39",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/8-azr-172-23/",
+        "application": "Schutzmaßnahmen konkret darlegen; umfassende zeitlich unbegrenzte nachvertragliche Mitarbeiter-Schweigepflicht nicht ungeprüft übernehmen.",
+        "limit": "Arbeitsvertragliche Klauselkontrolle; kein generelles Verbot langfristiger Unternehmens-NDAs. Vertraglicher Schutz kann über den gesetzlichen Geheimnisbegriff hinausreichen."
+      }
+    ],
+    "remaining_limits": [
+      "Keine Live-Modellprüfung oder technische Exportprüfung durchgeführt; fallbezogene weitere Rechtsprechung bleibt zu prüfen.",
+      "Workflow-Nachprüfung 2026-09-23: beide bisherigen Profilquellen erneut geöffnet; Paragraf 2 GeschGehG nach Browserfehler direkt amtlich gelesen, BAG-Pinpoints erneut geprüft und Paragraf 3 ergänzt. Keine neuen Entscheidungen und keine Vollprüfung von Auslandsrecht, Datenschutz oder technischen Speicherpraktiken. Quellenreview vom 2026-09-22 unverändert als Vorbefund erhalten."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: neue NDA, Fremdklauselprüfung oder Reaktion auf Geheimnisweitergabe wählen.",
+      "Nur Unterlagen: Entwurf und Informationsbeschreibung still lesen, nur gewünschtes Ergebnis klären.",
+      "Klarer Auftrag: Vereinbarung oder Ersatzklausel unmittelbar ausarbeiten; nur entscheidende Nutzungs- oder Empfängerlücke erfragen."
+    ],
+    "continuation": "Erlaubter Berater-Test ändert Zweck, Empfängerbindung und Auswertungsrückgabe im vorhandenen nda-entwurf.md; nachgewiesene Vorveröffentlichung beschränkt den Vorwurf im bestellten verletzungsschreiben.md.",
+    "enrichment": "Offenlegung vor Vertrag, Kennzeichnung als Schutzvoraussetzung gegenüber Beweishilfe, technische Test- und Entwicklungszwecke, Teilöffentlichkeit, Backups und belegbezogene Reaktion auf Weitergabe.",
+    "limits": "desk review; no live client execution"
+  }
 }

@@ -1,6 +1,8 @@
 # 1. Relationstechnik Zivilrecht: Werkstatt
 
-Entwickle aus der Zivilakte die beauftragte Relation, das Votum oder den richterlichen Entwurf. Trenne Schlüssigkeit, Erheblichkeit, Beweis und Entscheidung, statt aus dem ersten Akteneindruck einen Urteilsausgang abzuleiten.
+Bei leerer Eingabe frage nach Einzelstation, vollständigem Votum oder Beweisbeschluss. Bei Dateien ohne Aufgabe lies die relevanten Anträge und Schriftsätze still; biete anschließend nur zwei oder drei passende Wege an, kein Aktenreferat. Ein klarer Auftrag wird ohne zusätzliche Pflichtrunde bearbeitet. Neue Angaben werden der betroffenen Station zugeordnet, nicht als neue Fallaufnahme behandelt. Dieser Text benötigt keine lokalen Stationsskills oder besonderen Werkzeuge.
+
+Arbeite heraus, welche Klageforderung bei Wahrunterstellung besteht, welche Einwendung sie zu Fall bringt und welche streitige Tatsache deshalb bewiesen werden muss. Formuliere die beauftragte Relation oder Einzelstation aus der Akte; ein ungeklärter Zahlungsvorgang darf weder als Erfüllung noch als widerlegte Einwendung behandelt werden.
 
 ## 1.1. Auftrag und Prozesslage
 
@@ -40,6 +42,8 @@ Nimm nur streitige, erhebliche und beweisbedürftige Tatsachen auf. Formuliere T
 
 Bei entsprechendem Auftrag einen vollständigen Beweisbeschluss mit bestimmten Beweisthemen, Beweismitteln, erforderlichen Auflagen, Vorschuss und Terminbezug entwerfen. Fehlende Beweismittel oder noch nicht erfolgte Vernehmungen erhalten keine erfundenen Ergebnisse.
 
+Die Grenze zwischen Erheblichkeit und Würdigung zeigt BGH, Beschluss vom 17.11.2022, V ZR 25/22, Rn. 10 bis 11 ([amtliche Entscheidung](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2022&Gericht=bgh&Seite=11&anz=3168&nr=132360&pos=346)): Das Gericht durfte angebotenen Zeugenbeweis nicht übergehen, weil es aus anderem Verhalten bereits eine entgegenstehende Vereinbarung ableitete; dies verletzte Artikel 103 Absatz 1 GG. Für eine konkret behauptete Barzahlung daher den erheblichen Zeugenbeweis nicht allein wegen fehlender Quittung ausscheiden. Erst erhobene Beweise nach Paragraf 286 ZPO würdigen. Das entscheidet weder Glaubhaftigkeit noch Beweislast vorab und verlangt keine Erhebung unerheblicher Beweise.
+
 ### 1.5.1. Vorhandene Ergebnisse würdigen
 
 Würdige jedes tatsächlich erhobene Beweismittel einzeln und in der Gesamtschau nach ZPO Paragraf 286. Behandle Wahrnehmungsgrundlage, Erinnerungslücken, Widersprüche, Konsistenz und Gegenindizien. Urkunden nach ihrem Inhalt beurteilen: Eine Überweisungsanweisung ist nicht ohne Weiteres der Nachweis des Geldeingangs.
@@ -71,3 +75,27 @@ Tragende Normen und Entscheidungen anhand überprüfbarer Quellen sichern. Recht
 ## 1.9. Technische und amtliche Grenzen
 
 Nur verfügbare Werkzeuge nutzen; ohne Export Text liefern und keinen Dateilink erfinden. Ungelesene oder unzugängliche Unterlagen konkret benennen, an unabhängigen Teilen weiterarbeiten; weitere Skills sind optional. Keine Verfügung, Zustellung, Verkündung oder andere Amtshandlung eigenmächtig ausführen oder als erfolgt darstellen.
+
+## 1.10. Stationswechsel am Zahlungsstreit
+
+### 1.10.1. Eine Behauptung verändert nicht alle Stationen
+
+Bei unstreitigem Kaufpreis und behaupteter Barzahlung bleibt die Anspruchsentstehung zunächst unverändert. Die Beklagtenstation untersucht die Erfüllungseinwendung; erst das Bestreiten des Zahlungsempfangs führt zur Beweisfrage. Formuliere die rechtliche Zwischenfolge jeder Station ausdrücklich. Die Aussage „Kein Beleg, also unschlüssig“ vermischt Vortrag und Nachweis. Ein vollständig vorgetragener Übergabevorgang wird nicht durch bloß fehlende Quittung rechtlich unerheblich.
+
+Lautet die Folgeantwort „Die Zahlung ging an eine andere Person“, prüfe Empfangszuständigkeit und behauptete Zuordnung, bevor du weiter über den Geldfluss Beweis erheben lässt. Die gezielte Frage lautet, welche Befugnis oder spätere Genehmigung behauptet wird und wo dies vorgetragen ist. Fehlt dazu entscheidender Vortrag, formuliere den möglichen Hinweis; ergänze keine Vollmacht aus Vermutung. Das Ergebnis kann von einer reinen Beweisfrage zurück zu einer offenen Erheblichkeitsfrage wechseln.
+
+### 1.10.2. Mehrere Beträge und Hilfsverteidigung
+
+Bei mehreren Rechnungen getrennt bestimmen, welche Forderung bestritten, bezahlt oder mit einer Gegenforderung verrechnet werden soll. Eine Zahlung darf nicht zweimal angerechnet werden. Gibt der Nutzer nachträglich einen Tilgungszweck an, kontrolliere nicht nur die Summe, sondern auch den verbleibenden Streitgegenstand und Nebenforderungen. Unstreitige und streitige Restbeträge im Votum so erklären, dass der spätere Tenor daraus nachvollziehbar hervorgeht.
+
+Bei Hilfsaufrechnung zuerst die Reihenfolge der Verteidigung klären: Wann soll das Gericht auf die Gegenforderung eingehen? Entstehung, Bestand und prozessuale Behandlung der Gegenforderung sind gesondert zu prüfen; aus dem Schlagwort „Aufrechnung“ folgt weder Zahlung noch Widerklage. Ein Vergleichsvorschlag darf diese Unterscheidungen wirtschaftlich zusammenführen, aber nicht als bereits entschiedene Rechtslage darstellen. Verlangt der Auftrag nur die Beklagtenstation, kein ungefragtes Vollurteil erstellen.
+
+### 1.10.3. Vom Beweisangebot zum Beschlussentwurf
+
+Für die streitige Barzahlung den Übergabevorgang mit Datum, Ort, Betrag und Empfänger als Tatsachenthema fassen. Der Zeuge wird zu Wahrnehmungen, nicht zur Rechtsfolge der Erfüllung benannt. Bei mehreren Zeugen jedem die jeweils behauptete Wahrnehmung zuordnen. Ein Beschluss nach [Paragraf 358 ZPO](https://www.gesetze-im-internet.de/zpo/__358.html) setzt den passenden Verfahrensbedarf voraus; keine bloße Materialliste als Beweisanordnung ausgeben. Beweislast, Ladungsdaten und noch offene organisatorische Angaben getrennt halten.
+
+Nach Eingang eines Protokolls nicht einfach die klagende oder beklagte Darstellung durch den Aussagewortlaut ersetzen. Prüfe, ob der Zeuge die Übergabe selbst gesehen hat, nur eine spätere Mitteilung wiedergibt oder zur Höhe nichts sagen kann. Ein glaubhafter Teilbericht kann ein anderes Beweisthema offenlassen. [Paragraf 286 ZPO](https://www.gesetze-im-internet.de/zpo/BJNR005330950.html) verlangt die Würdigung des gesamten Prozessstoffs; begründe tragende Widersprüche und Gegenindizien, statt einzelne Sätze isoliert zu zählen.
+
+### 1.10.4. Entscheidungsreife als konkrete Frage
+
+Erst nach tatsächlich abgeschlossener erforderlicher Beweisaufnahme prüfen, ob ein entscheidender Befund offenbleibt und wen dies trifft. Ein nicht erreichter Zeuge und eine bereits ausgeschöpfte Beweisaufnahme sind keine gleichen Zustände. Bei offenem Gehör oder weiterem erheblichen Beweis den nötigen nächsten Schritt ausformulieren. Eine Antwort im Arbeitschat ersetzt weder gerichtlichen Hinweis noch Parteierklärung. Das bestellte Votum endet mit einer begründeten Entscheidungsempfehlung oder dem genau bezeichneten Hindernis; der Entwurf darf keinen tatsächlich noch nicht erreichten Verfahrensstand fingieren.

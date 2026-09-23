@@ -1,8 +1,23 @@
 {
   "schema_version": 1,
   "plugin": "vereinsrecht-vereinsmanager",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__32.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlicher Volltext gelesen: rechtzeitig bezeichneter Gegenstand, Hybrid-/Virtuellformat, vorgängiger Beschluss für künftige virtuelle Versammlungen, Erklärung der Rechtsausübung und Zustimmung aller im gesetzlichen Umlaufverfahren."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__33.html",
+      "checked_on": "2026-09-23",
+      "supports": "Nach Web-Timeout amtlichen Volltext direkt gelesen: unterschiedliche Anforderungen für Satzungs- und Zweckänderungen; Grundlage der beschlussbezogenen Zählprüfung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__40.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlichen Volltext direkt gelesen: mögliche Satzungsabweichungen unter anderem von Paragrafen 32 und 33; keine schematische Anwendung ohne Satzungsabgleich."
+    },
     {
       "url": "https://www.gesetze-im-internet.de/bgb/BJNR001950896.html",
       "checked_on": "2026-09-14",
@@ -12,15 +27,50 @@
       "url": "https://www.gesetze-im-internet.de/bgb/__73.html",
       "checked_on": "2026-09-14",
       "supports": "Geöffneter Volltext: gerichtlicher Entzug der Rechtsfähigkeit bei weniger als drei Mitgliedern statt automatischer Auflösung."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2005/II_ZR_111-05.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil und Versäumnisurteil vom 02.07.2007, II ZR 111/05, Randnummern 35 bis 45 und 67 bis 70: Amtlicher Urteilskopf, Sachverhalt und entscheidende Gründe gelesen: Unzureichende Ankündigung des konkreten Grundstücksvertrags und verspätete Ergänzung verletzten relevante Mitwirkungsrechte; Beschluss nichtig. Ordnungsgemäße erneute Abstimmung statt bloßer Ablehnung der Rückabwicklung; Feststellungsklage statt Aktienrechtsanalogie. Grenze: Vierwochenfrist war satzungsspezifisch. Keine Entscheidung über heutige virtuelle Versammlungen. Nichtigkeit des Mitgliederbeschlusses bedeutete im Fall gerade nicht Nichtigkeit des Vorstandsgeschäfts; eigenständige Vertretungsbefugnis prüfen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__32.html",
+      "supports": "Volltext: bestimmter Beschlussgegenstand, hybride Teilnahme, vorgängiger Beschluss für künftige virtuelle Versammlungen, Rechtsausübungshinweis und Zustimmung aller in Textform beim gesetzlichen Umlaufverfahren.",
+      "checked_on": "2026-09-22"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__33.html",
+      "supports": "Volltext: Satzungsänderung grundsätzlich drei Viertel abgegebener Stimmen; Zweckänderung Zustimmung aller, Abwesende in Textform.",
+      "checked_on": "2026-09-22"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__40.html",
+      "supports": "Volltext: Satzungsabweichungen unter anderem von Paragrafen 32 und 33 zulässig; keine Abweichung vom Stimmverbot des Paragrafen 34.",
+      "checked_on": "2026-09-22"
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Mini vollständig gelesen; einmalige Rückfrage und standardisierte Fallkarte standen neben brauchbaren konkreten Regeln zu Einladung, virtueller Versammlung und Stimmenmehrheit.",
+    "reason": "Am 23.09.2026 vollständig erneut gelesen: konkrete Einstiegswege und nachgereichte Ermächtigung für virtuelle Versammlungen führen zur passenden Einladungsfassung. II ZR 111/05 und heutige Formatregeln bleiben ausdrücklich getrennt; Register-, Mitgliedschafts- und Steuerzweige erhalten, kein Live-Mandatstest.",
     "changes": [
-      "Rückfragegrenze durch Satzungs-, Einladungs- und Protokollnachforderungen mit anschließender Fertigstellung ersetzt; konkrete Versammlungsregeln erhalten, Ausgabe nach Auftrag statt Pflichtschema."
+      "Drei Startmodi und konkrete Überarbeitung nach nachgereichtem Ermächtigungsbeschluss ergänzt; Ausgabeformat eigenständig präzisiert.",
+      "II ZR 111/05 in beiden Prompts mit relevanter Mitgliederrechtsverletzung, Nichtigkeitsfolge und Begrenzung auf den Beschluss angewandt.",
+      "Paragrafen 32, 33 und 40 BGB anhand aktueller Volltexte auf Versammlungsformat, Mehrheiten und Satzungsabweichungen bezogen.",
+      "Neu formulierte Einladung und begründeter Rat bleiben Endprodukte; kein obligatorischer Prozess."
     ],
-    "sha256": "d5137fc7c53418fa547bdf4b6830ed3cc97c2ce5b62131b2d09ed9e1297179e5"
+    "sha256": "a89f56a3157cf1ac827f0efc672f1fb2cd94cef3f288084aa098fd4b08ffe3d0"
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Einladung mit Beschlussvorlage, Mitgliederschreiben zu Beitrag/Ausschluss oder Registerantwort anbieten.",
+      "Dateien ohne Auftrag: Satzung, Einladung und Gerichtsschreiben still lesen; nur bei offenem Ziel passende Versammlungs- oder Mitgliederdokumente anbieten.",
+      "Klarer Auftrag: sofort entwerfen; nur entscheidende Satzungsfassung, Ermächtigung, Frist oder Abstimmungsdaten klären."
+    ],
+    "continuation": "Ermächtigungsbeschluss -> geänderte Format- und Teilnahmebestimmungen der Einladung; Zahlungsnachweis -> korrigierte Forderung/Ausschlussbegründung; Zählliste -> berichtigte Ergebnispassage im Protokoll.",
+    "enrichment": "Anhörung mit Gegenbelegen, rechtlich tragfähige Neuberufung, reale elektronische Rechtsausübung, beschlussbezogene Mehrheitsprüfung und Trennung von Mitgliederbeschluss und Außenakt ausgearbeitet.",
+    "limits": "desk review; no live client execution"
   },
   "selection": {
     "positive": [
@@ -68,10 +118,44 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt vollständig einschließlich aller Schlussrouten gelesen. Beschlussvorlagen wurden als gerichtliche Entscheidungen behandelt, Mittelverwendungsfragen als Rechtsbehelfe; Mitgliederverlust wurde entgegen dem Mini als automatische Auflösung bezeichnet.",
+    "reason": "Am 23.09.2026 vollständig erneut gelesen: Beitrag/Ausschluss, korrigierte Einladung und Abstimmung werden anhand konkreter Antworten weiterbearbeitet. Ungünstige Zahlungs- und Zählbelege sowie die eigenständige Außenvertretung sind berücksichtigt; alle bisherigen Fachzweige und Entscheidungsgrenzen bleiben erhalten.",
     "changes": [
-      "Vereinsinterne Beschlüsse, Mitgliedschaft, Vorstand, Register und Gemeinnützigkeit getrennt; Paragraf 73 BGB als gerichtliches Entzugsverfahren berichtigt, Umlaufbeschluss und Nachforderung bis zur fertigen Fassung konkretisiert; doppelte Standardrouten entfernt."
+      "Mitgliederanhörung und Ausschlussbegründung anhand bestrittenen Vorfalls oder nachgewiesener Zahlung substanziell ergänzt.",
+      "Einladungsreparatur mit fristgerechter Tagesordnung, Hybridalternative, tatsächlicher Technik und korrigierter Stimmenauswertung bis zur vollständigen Endfassung ausgearbeitet.",
+      "II ZR 111/05 in beiden Prompts mit relevanter Mitgliederrechtsverletzung, Nichtigkeitsfolge und Begrenzung auf den Beschluss angewandt.",
+      "Paragrafen 32, 33 und 40 BGB anhand aktueller Volltexte auf Versammlungsformat, Mehrheiten und Satzungsabweichungen bezogen.",
+      "Neu formulierte Einladung und begründeter Rat bleiben Endprodukte; kein obligatorischer Prozess."
     ],
-    "sha256": "7da21dee3a3054f24445fb411a1ef131d6afc5d29aa215a09208e583e911077e"
+    "sha256": "6f9e7dbe6a1ed6036589b7fb29b097d7c12452f591015963e3dff3b280b8429c"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "vereinsrecht-vereinsmanager/vereinsrecht-vereinsmanager-werkstatt.md",
+      "vereinsrecht-vereinsmanager/vereinsrecht-vereinsmanager-schnellstart.md",
+      "vereinsrecht-vereinsmanager/README.md",
+      "quality/evals/vereinsrecht-vereinsmanager.json",
+      "vereinsrecht-vereinsmanager/skills/hybride-virtuelle-versammlung/SKILL.md",
+      "vereinsrecht-vereinsmanager/skills/anfechtung-beschluss/SKILL.md"
+    ],
+    "opening_change": "Wirksamkeit des konkret angekündigten Beschlusses und Korrektur der Einladung ersetzen den allgemeinen Einstieg in eine Vereinsfrage.",
+    "norms": [
+      "Paragrafen 32, 33 und 40 BGB",
+      "Paragraf 256 ZPO"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil und Versäumnisurteil vom 02.07.2007, II ZR 111/05, Randnummern 35 bis 45 und 67 bis 70",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2005/II_ZR_111-05.pdf?__blob=publicationFile&v=1",
+        "application": "Amtlicher Urteilskopf, Sachverhalt und entscheidende Gründe gelesen: Unzureichende Ankündigung des konkreten Grundstücksvertrags und verspätete Ergänzung verletzten relevante Mitwirkungsrechte; Beschluss nichtig. Ordnungsgemäße erneute Abstimmung statt bloßer Ablehnung der Rückabwicklung; Feststellungsklage statt Aktienrechtsanalogie.",
+        "limit": "Vierwochenfrist war satzungsspezifisch. Keine Entscheidung über heutige virtuelle Versammlungen. Nichtigkeit des Mitgliederbeschlusses bedeutete im Fall gerade nicht Nichtigkeit des Vorstandsgeschäfts; eigenständige Vertretungsbefugnis prüfen."
+      }
+    ],
+    "remaining_limits": [
+      "Workflow-Review: Paragrafen 32, 33 und 40 BGB aktuell gelesen. Bestehender BGH-Anker mit Grenzen erhalten; keine neue vollständige Rechtsprechungsprüfung zu Ausschluss, Haftung oder Gemeinnützigkeit, keine Prüfung fremdbearbeiteter gewöhnlicher Skills.",
+      "Desk-/Quellenprüfung, kein Live-Mandanten- oder Modelltest.",
+      "Keine Gesamtprüfung von Gemeinnützigkeit, Vereinsförderung oder Haftung.",
+      "Die frühere Redaktion vermerkte beim gewöhnlichen Skill anfechtung-beschluss pauschale Online-Zulässigkeit, schematische Fehlerfolgen und eine Dringlichkeitsausnahme. Dieser außerhalb des jetzigen Auftrags liegende, bereits fremdbearbeitete Skill wurde am 23.09.2026 weder geändert noch erneut bewertet; der alte Befund ist keine Aussage über seinen aktuellen Stand."
+    ]
   }
 }

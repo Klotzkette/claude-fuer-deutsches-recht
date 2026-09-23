@@ -1,12 +1,14 @@
 # 1. Agrarrechtlichen Auftrag bearbeiten
 
-Erstelle das beauftragte Gutachten, den Pachtvertrag, die Nachabfindungsrechnung oder das Schreiben zu Förderung und Aufsicht. Lies vorhandene Betriebs-, Flächen-, Vertrags- und Behördenunterlagen zuerst.
+Prüfe die Bindung des Landpachtvertrags, den Hofübergang oder die Beteiligung weichender Erben an späteren Verwertungserlösen. Bei Förderstreitigkeiten ordne die konkrete Beanstandung dem Förderjahr zu. Lies vorhandene Betriebs-, Flächen-, Vertrags- und Behördenunterlagen zuerst.
 
-Bestimme Fläche, Betrieb, Rolle, Stichtag und gewünschtes Ergebnis aus dem Material, ohne die Aufnahme zu wiederholen.
+Ohne Eingabe biete Landpachtänderung, Hofnachabfindung oder Förderbescheidantwort an. Dateien ohne Auftrag still lesen und nur das Ziel klären; keine Betriebsübersicht ausgeben. Bei klarem Auftrag direkt entwerfen. Folgeantwort „Das Mindestentgelt wird angerechnet“ korrigiert Erlös und Forderung, nicht bloß den Vertragshinweis. Nur entscheidende Lücken fragen; bekannte Daten behalten, keine Plugin-Dateien voraussetzen.
 
 ## 1.1. Pacht und Grundstücksverkehr
 
 Prüfe bei Landpacht Vertrag, Nachträge, Laufzeit, Pachtzins, Erhaltung, Kündigung und Rückgabe. BGB Paragrafen 581 und folgende sowie die speziellen Landpachtregeln nach ihrem Gegenstand zuordnen. Textform und Übergangsrecht anhand des Vertrags- und Änderungsdatums prüfen; ältere Schriftformrechtsprechung nicht ungeprüft übertragen.
+
+Paragraf 585a BGB verlangt bei mehr als zwei Jahren Textform; ihr Fehlen führt zur unbestimmten Laufzeit, nicht zur Nichtigkeit. Die alte Schriftform galt nach Artikel 229 Paragraf 70 Absatz 2 EGBGB für Altverträge längstens bis einschließlich 01.07.2026; bei Änderungen ab 2025 konnte bereits früher neues Recht gelten.
 
 Fehlt ein Nachtrag oder Flächenübergabeprotokoll, fordere genau diese Unterlage an. Bearbeite unabhängig belegte Klauseln vorläufig. Nach Eingang ändere die betroffene Formprüfung, Abrechnung oder Vertragsklausel und stelle das bestellte Dokument fertig. Neue entscheidende Widersprüche gezielt klären, ohne beantwortete Fragen erneut zu stellen.
 
@@ -28,7 +30,7 @@ Ordne Antrag, Flächenregister, Bewirtschaftungsauflage, Kontrolle, Anhörung un
 
 Fehlen Flächenidentifikation oder Kontrollbericht, fordere die betroffenen Angaben an. Nach Eingang würdige die Beanstandung, rechne betroffene Kürzungen oder Rückforderungen neu und formuliere das bestellte Behördenschreiben aus. Vorhandene Unterlagen beweisen nicht automatisch sämtliche Fördervoraussetzungen; Darlegungs- und Beweislast nach dem konkreten Merkmal prüfen.
 
-## 1.4. Bestehende Anker
+## 1.4. Hofwert und Windnutzung
 
 Normen und Entscheidungen vor Verwendung amtlich prüfen. Historische Wert- und Formmaßstäbe nicht als heutige Rechtslage ausgeben.
 
@@ -36,8 +38,7 @@ Normen und Entscheidungen vor Verwendung amtlich prüfen. Historische Wert- und 
 - HöfeO Paragraf 12 Absatz 2: Hofeswert mit 60 Prozent des zuletzt festgestellten Grundsteuerwerts sowie Zu- oder Abschlag bei besonderen Umständen.
 - BGB Paragraf 585 bis Paragraf 597: Landpachtvertrag, Form, Erhaltung, Kündigung und Rückgabe.
 - LPachtVG Paragraf 2, Paragraf 4, Paragraf 7 und Paragraf 8 sowie LwVfG Paragraf 2: Anzeige, Beanstandung und ausschließliche erstinstanzliche Zuständigkeit des Amtsgerichts als Landwirtschaftsgericht.
-- BGH, Urteil vom 06.11.2020 - LwZR 5/19: Nach der damals geltenden Schriftform konnte bei einer Gesellschaft bürgerlichen Rechts die Unterschrift nur eines Gesellschafters ohne Vertretungszusatz die Form des BGB Paragraf 585a verfehlen; für heutige Fälle sind Textform und Übergangsrecht gesondert zu prüfen.
-- BGH, Beschluss vom 23.11.2012 - BLw 12/11: Hofeigenschaft, Sondererbfolge und widersprüchliches Verhalten sind stichtags- und verlaufsbezogen zu prüfen; die Entscheidung betrifft die damalige Rechtslage und ersetzt nicht den seit 2025 geltenden Grundsteuerwertmaßstab.
+- Bei längerfristiger Windnutzung [BGH, Beschluss vom 24.04.2009, Az. BLw 21/08](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/LdwS/2008/BLw__21-08.pdf?__blob=publicationFile&v=1), Randnummern 13 bis 20, zu Paragraf 13 Absatz 4 Buchstabe b HöfeO anwenden: Restbewirtschaftung schließt die landwirtschaftsfremde Nutzung nicht aus. Bei Wegfall des höferechtlichen Zwecks für längere Zeit und erheblichen Gewinnen sämtliche einschlägigen Nutzungsentgelte berücksichtigen, nicht nur Wege- und Fundamententgelte. Endgültige Höhe und eigene Leistungen nach Absatz 5 bleiben gesondert zu prüfen; historische Hofwerte nicht übernehmen.
 
 ## 1.5. Ergebnis und Weiterarbeit
 

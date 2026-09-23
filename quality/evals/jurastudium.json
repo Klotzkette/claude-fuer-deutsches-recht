@@ -1,18 +1,34 @@
 {
   "schema_version": 1,
   "plugin": "jurastudium",
-  "reviewed_on": "2026-09-17",
-  "sources": [],
+  "reviewed_on": "2026-09-23",
+  "sources": [
+    {
+      "url": "https://www.bverwg.de/030920B6B16.20.0",
+      "checked_on": "2026-09-22",
+      "supports": "Vertretbarkeit von tragender, folgerichtiger Begründung abhängig; Feedback trennt Rechtsfehler und abweichenden Lösungsweg. Grenze: Keine Notengarantie, keine automatische Neubewertung; prüfungsspezifische Wertungen bleiben bestehen. Konkrete Landesprüfungsordnung und Rechtsstand des Übungsfalls müssen weiter fallbezogen geprüft werden."
+    }
+  ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Vollständig geprüft: Aufgabenbegrenzung und eigene Antwort bestimmen die nächste Rückmeldung; nach Überarbeitung wird die betroffene Subsumtion erneut geprüft. Die vorhandene begrenzte Lernrunde bleibt unverändert, ohne Notengarantie oder Prozessentwurf.",
+    "reason": "Subsumtionsfehler, begrenzte Lernrunden und belastbare Auswertung anstelle allgemeiner Gutachtenmatrizen; Pflichtfächer korrekt Paragraf 5a DRiG zugeordnet.",
     "changes": [
-      "Lernziel, Prüfungsformat und verfügbare Zeit steuern die Sitzung.",
-      "Trefferquote, Teilantworten und nächste Wiederholung getrennt; keine Notenprognose."
+      "Subsumtionsfehler, begrenzte Lernrunden und belastbare Auswertung anstelle allgemeiner Gutachtenmatrizen; Pflichtfächer korrekt Paragraf 5a DRiG zugeordnet.",
+      "Vertretbarkeit von tragender, folgerichtiger Begründung abhängig; Feedback trennt Rechtsfehler und abweichenden Lösungsweg. Grenze: Keine Notengarantie, keine automatische Neubewertung; prüfungsspezifische Wertungen bleiben bestehen.",
+      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt."
     ],
-    "sha256": "c6b25872d1487aadd4774512d0aac03386c0e7808ff58d5d4b62a66640a2744e"
+    "sha256": "16377671392d63f095ed6f29252c6003b0a63a752013e6d31aae1c8cbafb746d"
   },
-  "workshop_review": {"verdict":"revised","reason":"Die vollständig gelesene Werkstatt enthält bereits einen passenden Lernablauf; die allgemeine Vorgabe eines Produkts nach jeder Station war für die vereinbarte Übungsrunde zu weit.","changes":["Definitionsfehler, Sachverhaltszuordnung und Schlussfolgerung als konkrete Rückmeldungsgegenstände gefasst.","Ergebnis auf vereinbarte Rückmeldung oder Übungsrunde statt zusätzliche juristische Entwürfe begrenzt."],"sha256":"d0cc472ea6bea258a365c92c5013867fc7fd9670fec4896e86406a672bd43064"},
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Subsumtionsfehler, begrenzte Lernrunden und belastbare Auswertung anstelle allgemeiner Gutachtenmatrizen; Pflichtfächer korrekt Paragraf 5a DRiG zugeordnet.",
+    "changes": [
+      "Subsumtionsfehler, begrenzte Lernrunden und belastbare Auswertung anstelle allgemeiner Gutachtenmatrizen; Pflichtfächer korrekt Paragraf 5a DRiG zugeordnet.",
+      "Vertretbarkeit von tragender, folgerichtiger Begründung abhängig; Feedback trennt Rechtsfehler und abweichenden Lösungsweg. Grenze: Keine Notengarantie, keine automatische Neubewertung; prüfungsspezifische Wertungen bleiben bestehen.",
+      "Tatsächlichen Denkfehler statt bloßer Ergebnisabweichung untersuchen, Behauptung und Beweis im Referendariatsfall trennen, zeitlich realistische Übungen und historische Normfassungen in begrenzte Lernprodukte übersetzen."
+    ],
+    "sha256": "1451ef46a4548f988352e9e13cde920a823d0dd47914c344e8840ef76a10c7ff"
+  },
   "selection": {
     "positive": [
       "Werte meine fünf Antworten aus und plane eine kurze Wiederholung.",
@@ -56,5 +72,41 @@
       ],
       "target_skill": "lernsitzung"
     }
-  ]
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "jurastudium/jurastudium-werkstatt.md",
+      "jurastudium/jurastudium-schnellstart.md"
+    ],
+    "opening_change": "Subsumtionsfehler, begrenzte Lernrunden und belastbare Auswertung anstelle allgemeiner Gutachtenmatrizen; Pflichtfächer korrekt Paragraf 5a DRiG zugeordnet.",
+    "norms": [
+      "Paragraf 5a Absätze 2 und 3 DRiG",
+      "Paragraf 5d DRiG"
+    ],
+    "decisions": [
+      {
+        "citation": "BVerwG, Beschluss vom 03.09.2020, 6 B 16.20, Randnummern 10 und 15",
+        "url": "https://www.bverwg.de/030920B6B16.20.0",
+        "application": "Vertretbarkeit von tragender, folgerichtiger Begründung abhängig; Feedback trennt Rechtsfehler und abweichenden Lösungsweg.",
+        "limit": "Keine Notengarantie, keine automatische Neubewertung; prüfungsspezifische Wertungen bleiben bestehen."
+      }
+    ],
+    "remaining_limits": [
+      "Konkrete Landesprüfungsordnung und Rechtsstand des Übungsfalls müssen weiter fallbezogen geprüft werden.",
+      "Workflow-Ergänzung am 2026-09-23: individuelle Textprüfung, keine erneute Gesamtverifikation der bestehenden Entscheidungsanker; deren dokumentierte Quellen- und Zugriffsgrenzen bleiben bestehen."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Falllösung, mündliches Prüfungsgespräch oder Klausurfeedback anbieten.",
+      "Dateien ohne Auftrag: Aufgabe und eigene Lösung still lesen; gezielte Korrektur oder Bearbeitung des offenen Fallpunkts zur Auswahl stellen.",
+      "Klarer Auftrag: die gewünschte Erklärung, Musterpassage oder Lösung unmittelbar liefern; keine verpflichtende Übungsrunde vorschalten."
+    ],
+    "continuation": "Neue Subsumtion -> den konkreten Denkschritt bewerten und nur die tragende Sachverhaltsalternative verändern, nicht erneut dieselbe Definition abfragen.",
+    "enrichment": "Tatsächlichen Denkfehler statt bloßer Ergebnisabweichung untersuchen, Behauptung und Beweis im Referendariatsfall trennen, zeitlich realistische Übungen und historische Normfassungen in begrenzte Lernprodukte übersetzen.",
+    "limits": "desk review; no live client execution"
+  }
 }

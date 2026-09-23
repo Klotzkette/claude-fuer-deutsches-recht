@@ -1,12 +1,16 @@
 # 1. Verteidigung gegen Strafbefehl: Schnellstart
 
-Lies Strafbefehl, Zustellumschlag, Rechtsbehelfsbelehrung und vorhandene Akte zuerst. Kläre Ziel und Zeitdruck aus den Unterlagen. Liefere einen Einspruchsentwurf oder eine Entscheidungsvorlage zur Verteidigung, keine Anklage und keine abstrakte Strafrechtsübersicht.
+Prüfe Zustellung und Einspruchsfrist des Strafbefehls und kläre, ob Schuldspruch, Tagessatzanzahl, Tagessatzhöhe oder Nebenfolgen angegriffen werden sollen. Lies Strafbefehl, Umschlag, Belehrung und vorhandene Akte zuerst. Liefere die beauftragte Beratung oder den vollständigen Einspruchsentwurf, keine Anklage und keine abstrakte Strafrechtsübersicht.
+
+Ohne Eingabe biete fristwahrenden Einspruch, Prüfung der Tagessatzhöhe oder Verteidigung gegen den Tatvorwurf an. Bei Dateien ohne Auftrag still lesen und das passende Ziel klären, keine automatische Schuld- oder Sanktionsanalyse. Bei klarem Auftrag direkt schreiben. „Ich will weniger zahlen, habe die Tat aber nicht begangen“ erlaubt keine stillschweigende Beschränkung auf die Tagessatzhöhe. Neue Einkommensbelege ändern deren Berechnung und Begründung, nicht den bestrittenen Schuldspruch. Folgeantworten gezielt einarbeiten; keine weiteren Plugin-Dateien oder Werkzeuge voraussetzen.
 
 ## 1.1. Frist und Umfang zuerst
 
 Erfasse Gericht, Aktenzeichen, beschuldigte Person, Zustellung, Tatvorwürfe, Tagessatzanzahl, Tagessatzhöhe und sämtliche Nebenfolgen. Nach Paragraf 410 StPO kann binnen zwei Wochen nach Zustellung beim erlassenden Gericht schriftlich oder zu Protokoll der Geschäftsstelle Einspruch eingelegt werden. Nicht vom Ausstellungsdatum rechnen. Quelle: https://www.gesetze-im-internet.de/stpo/__410.html
 
-Prüfe Fristende und zulässigen Einreichungsweg anhand der Person und Verfahrensnormen. Ein begründungsloser Einspruch ist von einer ausführlichen Verteidigung zu unterscheiden; fehlende Akteneinsicht darf nicht zum unbeachteten Fristablauf führen. Bei möglicher Versäumung Zustellung, Hindernis und Wiedereinsetzungsbedarf gesondert erfassen.
+Prüfe Fristende und Einreichungsweg: Für Verteidiger und Rechtsanwälte gilt die elektronische Pflicht nach Paragraf 32d StPO ausdrücklich auch für Einspruch und Rücknahme; Paragraf 32a und technische Ersatzeinreichung gesondert prüfen. Ein begründungsloser Einspruch ist von einer ausführlichen Verteidigung zu unterscheiden. Bei möglicher Versäumung nach Paragrafen 44 und 45 StPO wirksame Zustellung, fehlendes Verschulden, Hinderniswegfall, Wochenfrist, Glaubhaftmachung und Nachholung prüfen.
+
+BVerfG, Beschluss vom 15.07.2026 - 2 BvR 1351/23, Randnummern 41 bis 54 ([amtlicher Volltext](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/07/rk20260715_2bvr135123.html)): Bei Auslieferungshaft darf eine behauptete Zwangslage nicht allein wegen Kenntnis des Strafbefehls als beendet behandelt werden. Tatsächliches Hindernis und Handlungswege klären; keine automatische Wiedereinsetzung versprechen. Ein Verteidigerverzicht braucht nach Paragraf 302 Absatz 2 in Verbindung mit Paragraf 410 Absatz 1 StPO ausdrückliche konkrete Ermächtigung; eine allgemeine Anfangsvollmacht genügt nicht. Inhalt und Zeitpunkt nachfragen, soweit unbelegt, ohne eine zwingende Schriftform zu behaupten.
 
 ## 1.2. Beschränkung bewusst entscheiden
 

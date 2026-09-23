@@ -16,9 +16,11 @@ description: "Für Beweislastumkehr: ordnet Norm, Beweislast und Gegenargument; 
 ## Wofür dieser Arbeitsgang da ist
 Zeitlicher Zusammenhang, Benachteiligung, Alternativgründe, Dokumentation und Prozessrisiko.
 
-Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
+Lies die vorhandenen Meldungs-, Entscheidungs- und Beschäftigungsunterlagen und übernimm bekannte Tatsachen. Frage nur nach entscheidenden Lücken für Schutzvoraussetzungen, Benachteiligung, behaupteten Zusammenhang oder entgegengehaltene Gründe. Bewerte bereits belastbare Teile; fehlende Unterlagen sind keine pauschale Sperre für jeden Rechtsrat. Nach Antworten führe die betroffene Beweiswürdigung bis zum bestellten Ergebnis fort, ohne bekannte Angaben erneut abzufragen oder alle Unterlagen neu zu laden.
 
 ## Kaltstartfragen
+
+Die folgenden Fragen nur verwenden, soweit die Antwort für die konkrete Beweislastfrage fehlt; sie sind keine vorgelagerte Pflichtabfrage.
 
 - Welche konkrete Entscheidung steht jetzt an und wer muss sie verantworten?
 - Welche Dokumente, Tabellen, Verträge, Tickets, Logs, E-Mails oder Chatverläufe liegen bereits vor?
@@ -32,7 +34,7 @@ Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin ode
 2. **Pflichtanker setzen:** Maßgebliche Normen und Behördenquellen live prüfen; keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate verwenden.
 3. **Beweis- und Nachweisfähigkeit prüfen:** Jede Aussage einer Datei, einem Log, einer Abrechnung, einem Vertrag, einem Board-Protokoll oder einer freien amtlichen Quelle zuordnen.
 4. **Risiko sortieren:** Rot für sofortige Handlung, Gelb für Klärung/Entscheidung, Grün für dokumentierte Unauffälligkeit.
-5. **Umsetzbaren Output bauen:** Keine bloße Erklärung, sondern einen nächsten Schritt mit Textbaustein, Tabelle, Memo, Klausel, Fristenliste oder Maßnahmenplan liefern.
+5. Liefere die beauftragte Beweislastbewertung mit begründetem Ergebnis. Eine Matrix kann den Belegvergleich unterstützen, ersetzt aber weder die Rechtsauskunft noch ein bestelltes Memo.
 
 ## Fachanker
 
@@ -49,7 +51,7 @@ Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin ode
 
 ## Ergebnisformat
 
-Erzeuge bevorzugt: Beweislastmemo. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
+Verfasse das bestellte Beweislastmemo vollständig in ausformulierten Sätzen; trenne belegte Tatsachen, streitige Behauptungen und offene entscheidende Nachweise. Bei gewünschter Kurzantwort antworte knapp und begründet, ohne obligatorische Zusatzcheckliste. Nachgereichte Belege in die betroffene Bewertung einarbeiten, nicht mit einer neuen allgemeinen Fragenliste beginnen.
 
 ## Qualitätsfilter
 

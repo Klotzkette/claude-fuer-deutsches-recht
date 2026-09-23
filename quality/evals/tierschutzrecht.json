@@ -1,36 +1,145 @@
 {
   "schema_version": 1,
   "plugin": "tierschutzrecht",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
-    {"url": "https://www.gesetze-im-internet.de/tierschg/__16a.html", "checked_on": "2026-09-14", "supports": "Amtlicher Normtext im Suchabruf: tierbezogene Fortnahmevoraussetzungen nach Absatz 1 Satz 2 Nummer 2, eigenständige Voraussetzungen und Prognose des Haltungsverbots nach Nummer 3."}
+    {
+      "url": "https://www.gesetze-im-internet.de/tierschg/__16a.html",
+      "checked_on": "2026-09-23",
+      "supports": "Aktuellen Normtext gelesen: tierbezogene Fortnahme und Unterbringung bis zur sichergestellten Haltung, eigenständige Veräußerungsalternativen sowie qualifizierter Verstoß und Zukunftsprognose beim Haltungsverbot. Landesvollstreckung und Kostenrecht nicht neu umfassend geprüft."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vwgo/__70.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlichen Normtext gelesen: Widerspruchsfrist knüpft grundsätzlich an Bekanntgabe an; anwendbares Vorverfahren und Belehrung bleiben fallbezogen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vwgo/__74.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlichen Normtext gelesen: Klagefrist nach Zustellung des Widerspruchsbescheids beziehungsweise Bekanntgabe bei entbehrlichem Vorverfahren; keine Gleichsetzung mit Anhörungs- oder Erfüllungsfrist."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/tierschg/__16a.html",
+      "checked_on": "2026-09-14",
+      "supports": "Amtlicher Normtext im Suchabruf: tierbezogene Fortnahmevoraussetzungen nach Absatz 1 Satz 2 Nummer 2, eigenständige Voraussetzungen und Prognose des Haltungsverbots nach Nummer 3."
+    },
+    {
+      "url": "https://www.bverwg.de/120112U7C5.11.0",
+      "checked_on": "2026-09-22",
+      "supports": "Grundverfügung, unmittelbaren Vollzug und Veräußerung getrennt prüfen; Landesvollstreckungsrecht und Bekanntgabe berücksichtigen. Volltext geprüft. Ausnahme vom Gutachten betrifft vollständig unversorgte Tiere bei Abwesenheit des Halters, nicht pauschal jede Dringlichkeit. Die Seite enthält zusätzlich eine frühere Entscheidung; maßgeblich ist das Urteil vom 12. Januar 2012."
+    },
+    {
+      "url": "https://www.bverwg.de/130619U3C28.16.0",
+      "checked_on": "2026-09-22",
+      "supports": "Wirtschaftliche Vorteile der Legehennenzucht sind für sich genommen kein vernünftiger Grund zur Tötung männlicher Küken. Amtlicher Volltext geprüft. Damalige Übergangsausführungen sind keine aktuelle Freigabe; inzwischen Paragraf 4c TierSchG beachten."
+    }
   ],
   "mini_review": {
-    "verdict": "retained",
-    "reason": "Vollständig gelesen: Fehlende Fotozuordnung oder Befunde führen zur konkreten Nachforderung und danach zur aktualisierten Maßnahmen- oder Kostenprüfung. Belegte Abhilfe wird von bloßer Ankündigung unterschieden; Versorgung hat Vorrang, ohne den Dokumentauftrag insgesamt abzubrechen. Kein Textänderungsbedarf in dieser Schlusskontrolle.",
-    "changes": [],
-    "sha256": "194093c2b9c22cb23ce4aea45c4abdaa256fe57bbb2f9ed9e44d9fb1961f1da5"
+    "verdict": "revised",
+    "reason": "Mini vollständig erneut gelesen: drei konkrete Einstiegswege, tierbezogene Anhörungsantwort, nachgewiesene Abhilfe gegenüber Gegenbefund und Rückgabe gegenüber Veräußerungsschutz ergänzt. Generische Prüfungsliste durch Fallarbeit ersetzt; keine Live-Modellprüfung.",
+    "changes": [
+      "Stille Dateilektüre, unmittelbarer Dokumentbeginn und konkrete Fortsetzung bei Nachbefund oder bereits abgelaufenem Anhörungstermin ergänzt.",
+      "Fortnahme von Grundverfügung und landesrechtlichem Vollzug abgegrenzt; Ausnahme vom Gutachten nicht pauschal auf Dringlichkeit übertragen.",
+      "Kükentötungsentscheidung mit heutiger gesetzlicher Grenze nach Paragraf 4c TierSchG verbunden.",
+      "Tierbezogene Abhilfe, Nachfragen und Fertigstellung des bestellten Dokuments erhalten."
+    ],
+    "sha256": "10e2bd54753c5cdba35107b3262c3b49fe68bcac8e8382057c457164d616a2ae"
   },
   "workshop_review": {
-    "verdict": "retained",
-    "reason": "Vollständig gelesen: Tierbezogene Befunde, Fortnahme, Veräußerung, Sanktionsvorwurf und Kosten bleiben getrennt. Neue Versorgungs- oder Abholnachweise verändern Prognose beziehungsweise Kostenzeitraum und werden bis zum bestellten Text verarbeitet. Keine starre Fragerundengrenze und kein Ersatz des Schreibens durch eine Belegliste festgestellt.",
-    "changes": [],
-    "sha256": "f7550972354794718063455a67512734e5a39c0e2ce2234863665d2ec07ed4bf"
+    "verdict": "revised",
+    "reason": "Gesamte Werkstatt erneut gelesen: unterschiedliche Tierbefunde, belegtes Versorgungskonzept, belastende Nachkontrolle, Rückgabe und Veräußerungsschutz sowie tierbezogene Kosten- und Fristarbeit bis zum fertigen Dokument vertieft. Bestehende Entscheidungen und Grenzen erhalten; keine Live-Modellprüfung.",
+    "changes": [
+      "Substantielle Anhörungs-, Rückgabe- und Gegenbefundzweige ergänzt; Ein-/Auslieferungsdaten ändern Kostenpositionen, Bekanntgabe und Verfahrensstand den Rechtsbehelf.",
+      "Fortnahme von Grundverfügung und landesrechtlichem Vollzug abgegrenzt; Ausnahme vom Gutachten nicht pauschal auf Dringlichkeit übertragen.",
+      "Kükentötungsentscheidung mit heutiger gesetzlicher Grenze nach Paragraf 4c TierSchG verbunden.",
+      "Tierbezogene Abhilfe, Nachfragen und Fertigstellung des bestellten Dokuments erhalten."
+    ],
+    "sha256": "cde7a8bfe086193b8fa06f84b1a8d2b74d057485ac02d9e71e3e01c5523f0cde"
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Stellungnahme zu Haltungsbeanstandungen, Entwurf gegen Fortnahme/Veräußerung oder Unterbringungskostenprüfung anbieten.",
+      "Nur Dateien: Befunde und Bescheide still lesen; bei offenem Ziel zwei oder drei zum Vollzugsstand passende Dokumentwege anbieten.",
+      "Klarer Auftrag: tierbezogenen Entwurf sofort bearbeiten, nur entscheidende Unbekannte zu Zustand, Vollzug oder Frist klären."
+    ],
+    "continuation": "Betreuungsvertrag und Nachbefund -> Prognose und Maßnahmenantrag ändern; Verkaufstermin -> Sicherungsbegehren bestimmen; Auslieferungsbeleg -> konkrete Kostenposition korrigieren.",
+    "enrichment": "Differenzierter Pferdebestand, tatsächliche Abhilfe statt Heilungsbehauptung, Rückgabe gegenüber Veräußerungsschutz, belastende Gegenbefunde sowie getrennte Kosten und Fristauslöser.",
+    "limits": "desk review; no live client execution"
   },
   "selection": {
-    "positive": ["Prüfe die angekündigte Fortnahme unserer Tiere anhand der einzelnen amtstierärztlichen Befunde.", "Vergleiche ein drohendes Haltungsverbot mit dem inzwischen nachgewiesenen Versorgungskonzept."],
-    "negative": ["Berechne die Gewährleistungsrechte aus einem Tierkauf ohne Haltungsbeanstandung.", "Prüfe eine naturschutzrechtliche Ausnahme zum Bau in einem geschützten Lebensraum."]
-  },
-  "cases": [{
-    "id": "acht-pferde-zwei-befunde",
-    "request": "Erstelle ergebnis.md als Stellungnahmeentwurf zur Anhörung des Veterinäramts, ohne Versand. Eine Halterin betreut acht gekennzeichnete Pferde. Der beamtete Tierarzt untersuchte am 3. September 2026 alle Tiere und stellte bei A und B erhebliche Unterernährung infolge unzureichender Fütterung fest; C bis H waren laut Protokoll normalgewichtig und ohne Verhaltensauffälligkeiten. Wasser war für alle verfügbar. Frühere Verstöße sind nicht dokumentiert. Seit 4. September übernimmt eine vertraglich gebundene sachkundige Betreuungskraft die tierärztlich vorgegebene Fütterung; Tagesprotokolle und Futterrechnungen liegen für zehn Tage vor. Eine Nachuntersuchung steht aus. Die Anhörung vom 12. September erwägt die Fortnahme aller acht Tiere und ein unbefristetes Verbot jeder Tierhaltung. Antworttermin ist der 20. September. Alle maßgeblichen Inhalte sind hier wiedergegeben. Benenne sachliche Einwendungen, verbleibende Risiken und erforderliche Nachweise.",
-    "input_files": [],
-    "deliverables": ["ergebnis.md"],
-    "criteria": [
-      {"id": "C01", "text": "Die Stellungnahme unterscheidet A und B von C bis H und verlangt für die Fortnahme des übrigen Bestands eine zusätzliche tragfähige Tatsachengrundlage, statt Unterernährung aller acht zu unterstellen.", "deliverables": ["ergebnis.md"]},
-      {"id": "C02", "text": "Das Haltungsverbot wird eigenständig hinsichtlich qualifiziertem Verstoß, Folgen und Zukunftsprognose geprüft; fehlende Wiederholung wird nicht als zwingender Ausschluss eines groben Verstoßes behandelt.", "deliverables": ["ergebnis.md"]},
-      {"id": "C03", "text": "Das Versorgungskonzept wird als konkret prüfbare mildere Maßnahme gewürdigt, ohne Heilung oder Gewichtszunahme ohne Nachbefund zu behaupten; eine zeitnahe fachliche Nachkontrolle wird als relevante Beweislücke benannt.", "deliverables": ["ergebnis.md"]}
+    "positive": [
+      "Prüfe die angekündigte Fortnahme unserer Tiere anhand der einzelnen amtstierärztlichen Befunde.",
+      "Vergleiche ein drohendes Haltungsverbot mit dem inzwischen nachgewiesenen Versorgungskonzept."
     ],
-    "target_skill": "anordnung-und-wegnahme-pruefen"
-  }]
+    "negative": [
+      "Berechne die Gewährleistungsrechte aus einem Tierkauf ohne Haltungsbeanstandung.",
+      "Prüfe eine naturschutzrechtliche Ausnahme zum Bau in einem geschützten Lebensraum."
+    ]
+  },
+  "cases": [
+    {
+      "id": "acht-pferde-zwei-befunde",
+      "request": "Erstelle ergebnis.md als Stellungnahmeentwurf zur Anhörung des Veterinäramts, ohne Versand. Eine Halterin betreut acht gekennzeichnete Pferde. Der beamtete Tierarzt untersuchte am 3. September 2026 alle Tiere und stellte bei A und B erhebliche Unterernährung infolge unzureichender Fütterung fest; C bis H waren laut Protokoll normalgewichtig und ohne Verhaltensauffälligkeiten. Wasser war für alle verfügbar. Frühere Verstöße sind nicht dokumentiert. Seit 4. September übernimmt eine vertraglich gebundene sachkundige Betreuungskraft die tierärztlich vorgegebene Fütterung; Tagesprotokolle und Futterrechnungen liegen für zehn Tage vor. Eine Nachuntersuchung steht aus. Die Anhörung vom 12. September erwägt die Fortnahme aller acht Tiere und ein unbefristetes Verbot jeder Tierhaltung. Antworttermin ist der 20. September. Alle maßgeblichen Inhalte sind hier wiedergegeben. Benenne sachliche Einwendungen, verbleibende Risiken und erforderliche Nachweise.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die Stellungnahme unterscheidet A und B von C bis H und verlangt für die Fortnahme des übrigen Bestands eine zusätzliche tragfähige Tatsachengrundlage, statt Unterernährung aller acht zu unterstellen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Das Haltungsverbot wird eigenständig hinsichtlich qualifiziertem Verstoß, Folgen und Zukunftsprognose geprüft; fehlende Wiederholung wird nicht als zwingender Ausschluss eines groben Verstoßes behandelt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Das Versorgungskonzept wird als konkret prüfbare mildere Maßnahme gewürdigt, ohne Heilung oder Gewichtszunahme ohne Nachbefund zu behaupten; eine zeitnahe fachliche Nachkontrolle wird als relevante Beweislücke benannt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "anordnung-und-wegnahme-pruefen"
+    }
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "tierschutzrecht/tierschutzrecht-werkstatt.md",
+      "tierschutzrecht/tierschutzrecht-schnellstart.md"
+    ],
+    "opening_change": "Tierbezogene Haltungsanforderung und rechtlich getrennte Maßnahmen statt pauschaler Vollzugsprüfung.",
+    "norms": [
+      "Artikel 20a GG",
+      "Paragrafen 1, 2, 4c, 11, 16, 16a, 17 und 18 TierSchG",
+      "Paragrafen 80 Absatz 5 und 123 VwGO"
+    ],
+    "decisions": [
+      {
+        "citation": "BVerwG, Urteil vom 12. Januar 2012, 7 C 5.11, Randnummern 17 bis 32",
+        "url": "https://www.bverwg.de/120112U7C5.11.0",
+        "application": "Grundverfügung, unmittelbaren Vollzug und Veräußerung getrennt prüfen; Landesvollstreckungsrecht und Bekanntgabe berücksichtigen.",
+        "limit": "Volltext geprüft. Ausnahme vom Gutachten betrifft vollständig unversorgte Tiere bei Abwesenheit des Halters, nicht pauschal jede Dringlichkeit. Die Seite enthält zusätzlich eine frühere Entscheidung; maßgeblich ist das Urteil vom 12. Januar 2012."
+      },
+      {
+        "citation": "BVerwG, Urteil vom 13. Juni 2019, 3 C 28.16",
+        "url": "https://www.bverwg.de/130619U3C28.16.0",
+        "application": "Wirtschaftliche Vorteile der Legehennenzucht sind für sich genommen kein vernünftiger Grund zur Tötung männlicher Küken.",
+        "limit": "Amtlicher Volltext geprüft. Damalige Übergangsausführungen sind keine aktuelle Freigabe; inzwischen Paragraf 4c TierSchG beachten."
+      }
+    ],
+    "remaining_limits": [
+      "Keine Live-Modellprüfung; nationale Zuständigkeit und spätere Gesetzesänderungen müssen bei konkreter Verwendung zusätzlich geprüft werden."
+    ]
+  }
 }

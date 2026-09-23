@@ -1,9 +1,9 @@
 ---
 name: ndas-und-geschaeftsgeheimnisse
-description: "Für Geschäftsgeheimnisse und NDA im Handelsvertretervertrag nach Paragraf 88 HGB und GeschGehG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Prüft Geheimnisschutz und NDA im Handelsvertretervertrag nach Paragraf 90 HGB und GeschGehG; grenzt geschützte Informationen, zulässige Nutzung und vertragliche Beschränkungen ab."
 ---
 
-# Geschäftsgeheimnisse und NDA im Handelsvertretervertrag nach § 88 HGB und GeschGehG
+# Geschäftsgeheimnisse und NDA im Handelsvertretervertrag nach Paragraf 90 HGB und GeschGehG
 
 ## Arbeitsweg
 
@@ -15,9 +15,8 @@ description: "Für Geschäftsgeheimnisse und NDA im Handelsvertretervertrag nach
 
 ## Überblick
 
-Unterstützt bei rechtlichen Fragen rund um Geschäftsgeheimnisse und NDA im Handelsvertretervertrag nach § 88 HGB und GeschGehG.
-Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB §§ 84–92c ab
-und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie BGH- und EuGH-Rechtsprechung ein.
+Prüft, welche Informationen im Handelsvertreterverhältnis nach Paragraf 90 HGB, GeschGehG oder einer wirksamen NDA geschützt sind. Geheimnisschutz begründet nicht selbst einen Anspruch auf Rückgabe von Unterlagen. Ist auch Rückgabe beauftragt, prüfe deren Grundlage gesondert im Vertrag und in [Paragraf 675 Absatz 1](https://www.gesetze-im-internet.de/bgb/__675.html) in Verbindung mit [Paragraf 667 BGB](https://www.gesetze-im-internet.de/bgb/__667.html).
+Die Prüfung berücksichtigt die einschlägigen Normen des Handelsvertreterrechts nach Paragrafen 84 bis 92c HGB sowie die EU-Handelsvertreterrichtlinie 86/653/EWG und einschlägige BGH- und EuGH-Rechtsprechung.
 Ziel: konkrete, umsetzbare Ergebnisse für Handelsvertreter und Unternehmer.
 
 ## Mandantenfall
@@ -28,8 +27,8 @@ Ziel: konkrete, umsetzbare Ergebnisse für Handelsvertreter und Unternehmer.
 
 ## Erste Schritte
 
-1. Umfang der gesetzlichen Geheimhaltungspflicht nach § 88 HGB bestimmen.
-2. NDA-Klausel auf Vereinbarkeit mit § 88 HGB und GeschGehG prüfen.
+1. Nach Paragraf 90 HGB prüfen, ob Geschäfts- oder Betriebsgeheimnisse anvertraut oder durch die Tätigkeit bekannt geworden sind und die konkrete Verwertung oder Mitteilung nach den gesamten Umständen der Berufsauffassung eines ordentlichen Kaufmanns widerspricht. Das gilt auch nach Vertragsende, ist aber kein allgemeines Wettbewerbsverbot.
+2. NDA-Klausel gegenüber Paragraf 90 HGB und GeschGehG auf Reichweite und Wirksamkeit prüfen; vertrauliche Information, allgemeine Berufserfahrung und gegebenenfalls gesonderte Wettbewerbsabrede unterscheiden.
 3. Geschäftsgeheimnis-Definition nach § 2 Nr. 1 GeschGehG auf konkrete Informationen anwenden.
 4. Verletzungshandlungen nach § 4 GeschGehG identifizieren.
 5. Schadensersatz nach § 10 GeschGehG berechnen und geltend machen.
@@ -37,7 +36,7 @@ Ziel: konkrete, umsetzbare Ergebnisse für Handelsvertreter und Unternehmer.
 
 ## Rechtsrahmen
 
-- § 88 HGB — Gesetzliche Geheimhaltungspflicht des Handelsvertreters
+- Paragraf 90 HGB: gesetzlicher Schutz von Geschäfts- und Betriebsgeheimnissen; Paragraf 88 HGB ist weggefallen.
 - § 2 Nr. 1 GeschGehG — Begriff des Geschäftsgeheimnisses
 - § 4 GeschGehG — Verbotene Handlungen (Erlangung, Nutzung, Offenbarung)
 - § 10 GeschGehG — Schadensersatz bei Verletzung
@@ -51,7 +50,7 @@ Ziel: konkrete, umsetzbare Ergebnisse für Handelsvertreter und Unternehmer.
 - Liegt eine verbotene Handlung nach § 4 GeschGehG vor?
 - Welcher Schaden ist durch die Verletzung entstanden?
 - Sind strafrechtliche Konsequenzen nach § 23 GeschGehG zu prüfen?
-- Ist die vertragliche NDA über § 88 HGB hinausgehend wirksam vereinbart?
+- Ist die vertragliche NDA über den Schutz nach Paragraf 90 HGB hinausgehend wirksam vereinbart?
 
 ## Typische Fallstricke
 
@@ -70,14 +69,13 @@ Zwingende Vorschriften nach § 92c HGB schützen den Handelsvertreter zwingend.
 Entgegenstehende Klauseln sind nach § 134 BGB nichtig.
 Praktisch zentral: Provision (§ 87 HGB), Buchauszug (§ 87c HGB), Ausgleich (§ 89b HGB),
 Wettbewerbsverbot (§ 90a HGB) und Kündigung (§§ 89 und 89a HGB).
-Auskunftsrechte (§ 87c HGB), Geheimhaltung (§ 88 HGB) und Delkredere (§ 86b HGB)
+Auskunftsrechte (Paragraf 87c HGB), Geheimnisschutz (Paragraf 90 HGB) und Delkredere (Paragraf 86b HGB)
 ergänzen den praxisrelevanten Rechtsrahmen.
 Für internationale Sachverhalte gilt zudem die Rom-I-Verordnung für das anwendbare Recht.
 
 ## Quellen
 
-- [§ 88 HGB auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/__88.html)
+- [Paragraf 90 HGB](https://www.gesetze-im-internet.de/hgb/__90.html)
 - [§ 2 GeschGehG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/geschgehg/__2.html)
 - [§ 10 GeschGehG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/geschgehg/__10.html)
 - [§ 23 GeschGehG auf gesetze-im-internet.de](https://www.gesetze-im-internet.de/geschgehg/__23.html)
-- [Dejure § 88 HGB](https://dejure.org/gesetze/HGB/88.html)

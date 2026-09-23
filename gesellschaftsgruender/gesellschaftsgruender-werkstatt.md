@@ -1,12 +1,40 @@
 # 1. Gesellschaftsgründung und Gründungsunterlagen ausarbeiten
 
-Bereite meine Gesellschaftsgründung anhand der vorhandenen Abreden und Belege vor. Erstelle die verlangte Rechtsformberatung, Satzung, Gesellschaftervereinbarung oder Notarunterlage.
+Prüfe, welche Rechtsform die vereinbarte Beteiligung, Finanzierung und Geschäftsführung trägt und ob die übernommenen Einlagen die Anmeldung erlauben. Arbeite daraus die verlangte Satzung, Gesellschaftervereinbarung oder Notaranfrage aus; bei bereits beurkundeter Gründung prüfe die noch offenen Einzahlungen und Nachweise statt die Rechtsformwahl neu zu beginnen.
 
 ## 1.1. Gründungsstand verstehen
 
 Lies Gründerabreden, Beteiligungsübersicht, Finanzierungszusagen, Satzungsfassungen und gegebenenfalls notarielle Urkunden. Entnimm daraus Beteiligte, Geschäftszweck, Kapitalbedarf, gewünschte Rechtsform und Termin. Eine neue Gesellschaft besitzt noch keine fertige Registerakte; nach bereits erfolgter Beurkundung, übernommenen Anteilen und Einzahlungen fragen, soweit dies nicht aus den Unterlagen hervorgeht.
 
 Unterscheide Gründung, bestehende Gesellschaft, Anteilsübertragung und spätere Strukturänderung. Bekannte Angaben nicht erneut abfragen. Ein Auftrag zur Satzung ist kein allgemeiner Auftrag für Organhaftung, Anfechtung oder Klage.
+
+### 1.1.1. Eigenständiger Beginn
+
+Ohne Eingabe fragen: „Geht es um Rechtsformwahl, Gründerrechte in der Satzung oder Einzahlungen vor der Anmeldung?“ Dateien ohne Auftrag zunächst still lesen und zwei oder drei passende Wege anbieten, nicht ungefragt die gesamte Gründung analysieren. Bei klarer Dokumentenbestellung unmittelbar schreiben; nur entscheidende fehlende Angaben klären. Keine künstlichen Gesprächsrunden oder verfügbaren Plugin-Dateien voraussetzen.
+
+### 1.1.2. Beteiligung und Arbeitseinsatz auseinanderhalten
+
+Bei „Wir gründen zu gleichen Teilen, aber nur einer arbeitet voll mit“ Beteiligungsquote, Einlage, Geschäftsführung und Vergütung getrennt aufnehmen. Gleiche Kapitalanteile bestimmen nicht automatisch gleiche Arbeitsvergütung oder Einzelvertretung. Den konkreten Regelungswunsch klären: Soll der unterschiedliche Einsatz durch Dienstvergütung, gestaffelten Anteilserwerb oder andere belegte Vereinbarung berücksichtigt werden? Keine steuerlich oder formrechtlich sichere Lösung ohne Prüfung versprechen.
+
+Bei einer Folgeantwort „Der passive Gründer soll jede Ausgabe verhindern können“ Umfang und Schwellen des Vetos konkretisieren. Laufendes Tagesgeschäft, Grundlagengeschäfte und Geschäfte mit Beteiligten unterscheiden. Danach Satzungsmehrheiten, Zustimmungsvorbehalte und Geschäftsordnung miteinander abstimmen. Interne Zustimmungspflicht nicht als Beschränkung der Vertretungsmacht gegenüber jedem Dritten ausgeben. Eine zweifelhafte Form- oder Wirksamkeitsfrage sichtbar halten, die übrige Satzung jedoch vollständig ausarbeiten.
+
+### 1.1.3. Hälftige Beteiligung mit realen Konfliktwegen gestalten
+
+Bei 50:50 nicht ungefragt Quoten ändern. Welche Entscheidungen müssen auch bei Streit möglich bleiben, welche bedürfen bewusst beider Zustimmung? Für die gewünschte Konfliktregel Auslöser, Gesprächs- oder Vermittlungsphase und abschließenden Mechanismus ausformulieren. Eine Kauf-/Verkaufsklausel benötigt insbesondere Preisverfahren, Finanzierung, Ausübungsfrist und Verhältnis zu Übertragungsbeschränkungen. Nicht als harmlosen Standard einsetzen, wenn ungleiche Finanzkraft die Wirkung prägt.
+
+Bei Ausscheiden zwischen Geschäftsführeramt, Dienstvertrag und Beteiligung unterscheiden. „Er soll keine Anteile mehr haben, sobald er nicht arbeitet“ verlangt genaue Auslöser, zulässige Umsetzung, Bewertung und Formprüfung, nicht bloß eine automatische Verfallsklausel. Nach geklärter Entscheidung die betroffenen Anteils-, Vergütungs- und Beschlussregeln gemeinsam ändern. Im Endentwurf nur die gewählte Fassung, interne Alternativen separat ausgeben.
+
+### 1.1.4. Einzahlung und erste Ausgaben nachvollziehen
+
+Beurkundete Einlagepflicht mit Kontoauszug und Zahlungszweck vergleichen. Bei UG die vollständige Bareinzahlung vor Anmeldung nach Abschnitt 1.3 prüfen; ein vorhandener Laptop ist kein Ersatz. Ein Gesellschafterdarlehen darf nicht gleichzeitig als Stammkapital gelten. Bei Drittzahlung nach der konkreten Zuordnung fragen, statt den Betrag automatisch einem Gründer zuzuschreiben. Stimmen Quoten und Nennbeträge nicht überein, zuerst die beurkundete Fassung ermitteln.
+
+Bei bereits bezahlter Miete, Beratung oder Technik nicht allein aus geringerem Kontostand auf fehlende ursprüngliche Einzahlung schließen. Zahlungszeitpunkt, Rechtsgrund und Gründungsphase rekonstruieren und freie Verfügung sowie etwaige Rückleistungsfragen gesondert prüfen. Die neue Information „Das Geld ging vereinbarungsgemäß an den Gründer zurück“ verändert die Kapitalaufbringungsprüfung; eine pauschale Wartefrist heilt das nicht. Ergebnis ist die genaue Einzahlungsrechnung und eine konkrete Notaranfrage, keine ungesicherte Registerreifebestätigung.
+
+### 1.1.5. Vom Entwurf zur beurkundungsfähigen Vorbereitung
+
+Eine Notaranfrage enthält die geklärten Personen- und Beteiligungsdaten, Rechtsform, Firma, Sitz, Gegenstand, Kapital und Geschäftsführung sowie konkret offene Entscheidungen. Aus einem Satzungsauftrag nicht zusätzlich sämtliche Arbeits- und Kundenverträge erzeugen. Bei IP als wesentlichem Betriebsmittel prüfen, wer die vorhandenen Rechte hält und welche Übertragung oder Lizenz tatsächlich vereinbart werden soll. Die Gesellschaft erhält Rechte nicht allein durch Erwähnung in einem Geschäftsplan.
+
+Vor Abschluss Nennbeträge, Mehrheiten, Vertreter, Rückbezüge und gewählte Gestaltungswege kontrollieren. Vertraglicher Gründungstermin, Bankbearbeitungszeit und gesetzliche Anmeldevoraussetzungen sind verschieden; keine gesetzliche Soforteintragung versprechen. Fehlende Identitäts- oder Vollmachtsbelege genau benennen. Fertige Entwürfe liefern, ohne Beurkundung, Einzahlung, Kontoeröffnung oder Registeranmeldung als erfolgt darzustellen; diese externen Schritte bleiben freizugeben.
 
 ## 1.2. Rechtsformwahl
 
@@ -23,6 +51,8 @@ Stelle Nominalkapital, übernommene Anteile, Quoten, geleistete Einzahlungen und
 Prüfe GmbHG Paragrafen 3, 5 und 7 für Kapital und Anmeldung, bei UG Paragraf 5a. Dort vollständige Einzahlung vor Anmeldung und Ausschluss von Sacheinlagen beachten. Bei der GmbH jeden Baranteil und die Gesamtsumme getrennt prüfen.
 
 Bei Sacheinlagen Werthaltigkeit und gesetzliche Voraussetzungen, bei möglichen verdeckten Sacheinlagen Zahlungs- und Leistungskette untersuchen. Keine pauschale Wartefrist als Heilung behaupten. Nach neuen Einzahlungs- oder Bewertungsbelegen den offenen Betrag und die Notarunterlage aktualisieren.
+
+Will ein Gründer einen Laptop, ein Schutzrecht oder eine Beteiligung statt des offenen Barbetrags einbringen, prüfe zunächst, ob eine UG-Gründung oder eine spätere Kapitalerhöhung vorliegt. Nach [BGH, Beschluss vom 19.04.2011 - Az. II ZB 25/10](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2010/II_ZB__25-10.pdf?__blob=publicationFile&v=1), Rn. 13 bis 21, gilt das Sacheinlagenverbot des Paragraf 5a Absatz 2 Satz 2 GmbHG grundsätzlich auch für Kapitalerhöhungen; es entfällt für die Erhöhung, die mindestens 25.000 EUR Stammkapital erreicht. Diese Ausnahme erlaubt keine Sacheinlage bei der ursprünglichen UG-Gründung. Formuliere dort die Nachforderung der vollständigen Bareinlage. Bei einer späteren Erhöhung prüfe stattdessen Paragrafen 56 und 57 GmbHG, Werthaltigkeit und Eintragung; ein bloßer Erhöhungsbeschluss beendet die übrigen UG-Sonderregeln nicht.
 
 ## 1.4. Satzung, Gesellschaftervereinbarung und Konfliktvorsorge
 

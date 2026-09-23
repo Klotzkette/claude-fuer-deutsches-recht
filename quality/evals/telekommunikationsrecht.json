@@ -1,8 +1,18 @@
 {
   "schema_version": 1,
   "plugin": "telekommunikationsrecht",
-  "reviewed_on": "2026-09-17",
+  "reviewed_on": "2026-09-23",
   "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/tkg_2021/__57.html",
+      "checked_on": "2026-09-23",
+      "supports": "Aktuellen Normtext gelesen: eigenständige Kündigung bei Vertragsänderung mit dreimonatiger Erklärungsfrist ab ordnungsgemäßer Unterrichtung, frühestem Ende und Ausnahmen; bei Minderleistung Überwachungsmechanismus und Verweis auf Paragraf 314 Absatz 2 BGB. Keine neue Verifikation sämtlicher BNetzA-Messvorgaben."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/tkg_2021/__58.html",
+      "checked_on": "2026-09-23",
+      "supports": "Aktuellen Volltext erneut gelesen: Meldungseingang, Mitwirkung, vollständiger Ausfall, Tagesstaffel und Anrechnung; Rechenweg 6 + 6 + 12 + 12 = 36 Euro bei 60 Euro Monatsentgelt und den im Prompt festgelegten vollständigen Ausfalltagen. Grenztage und Ersatzversorgung weiterhin fallbezogen."
+    },
     {
       "url": "https://www.gesetze-im-internet.juris.de/tkg_2021/__58.html",
       "checked_on": "2026-09-14",
@@ -12,15 +22,27 @@
       "url": "https://www.gesetze-im-internet.de/tkg_2021/",
       "checked_on": "2026-09-14",
       "supports": "Amtliche Inhaltsübersicht: Marktregulierung ab Paragraf 10; konkrete Zuordnung der Kundenschutzregeln in Paragraf 54 bis Paragraf 60."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2012/III_ZR__98-12.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 24. Januar 2013, III ZR 98/12, Randnummern 7 und 16 bis 22. Anwendung: Privater Internetausfall kann ohne Zusatzkosten Vermögensschaden auslösen; gleichwertigen Ersatz und objektiven Nutzungswert prüfen. Grenze: Haftungsgrund revisionsrechtlich vorausgesetzt; verlangte 50 Euro keine zugesprochene Pauschale, heutige TKG-Anrechnung zusätzlich prüfen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/tkg_2021/__58.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aktueller Volltext: Entstörung, Tagesstaffel, Terminversäumnis und wechselseitige Anrechnung."
     }
   ],
   "mini_review": {
-    "verdict": "retained",
-    "reason": "Vollständige Textprüfung am 18. September: Meldungsnachweis, Messreihe und Regulierungsverfügung haben getrennte Folgeprüfungen; Rechnung und Forderung werden nach Antworten gemeinsam aktualisiert.",
+    "verdict": "revised",
+    "reason": "Mini vollständig erneut gelesen: drei Einstiegsmodi, konkrete Tagesrechnung, Gutschrift-/Mitwirkungsklärung und Änderungsmitteilung führen zum aktualisierten Anbieterbrief. Nutzungsausfallschaden und Terminfall samt Grenzen erhalten; kein Live-Test.",
     "changes": [
-      "Keine weitere Änderung der vollständig gelesenen Mini-Fassung."
+      "Dokumentwahl ohne Materialbericht, Tagesbeispiel und Rückwirkung neuer Tickets beziehungsweise Änderungsmitteilungen auf Betrag und Kündigungsdatum ergänzt.",
+      "III ZR 98/12 mit gleichwertigem Ersatz, Haftungsgrund und Grenzen der Schadenshöhe eingefügt.",
+      "Aktuellen Paragraf 58 TKG vollständig gelesen und Terminentschädigung präzisiert."
     ],
-    "sha256": "5c98fe88ae2b5615004ea09b803484eb0d2b2f3670abf4e1a69c4a0a970d4365"
+    "sha256": "f253b364556b1f8ec654f0957de945da8de2c54b19d7ff503705d14fc213b22d"
   },
   "selection": {
     "positive": [
@@ -68,10 +90,51 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Textprüfung am 18. September: Gesamte Werkstatt einschließlich Marktregulierung gelesen. Eine Bemerkung über ältere Verweisungen war Redaktionsgeschichte statt sachlicher Prüfauftrag.",
+    "reason": "Gesamte Werkstatt erneut gelesen: Ticket-/Ersatzprüfung, konkrete Ausfallrechnung, Gutschriftzuordnung, Minderleistung gegenüber Änderungs-Kündigung und tenorbezogener Regulierungseinwand bis zum Dokumentabschluss ausgebaut. Vorhandene BGH-Grenzen erhalten; keine pauschale Vollverifikation aller Nebenmaterien.",
     "changes": [
-      "Die Bemerkung durch die Prüfung des jeweiligen Regelungsgegenstands ergänzender Normen ersetzt; bestehende Normen und fachliche Abgrenzungen erhalten."
+      "Drei substantielle Verbraucherzweige samt Gegenargumenten und gesonderter Fortsetzung des Behördenfalls ergänzt; Fristauslöser aus Unterrichtung oder Bekanntgabe ermitteln.",
+      "III ZR 98/12 mit gleichwertigem Ersatz, Haftungsgrund und Grenzen der Schadenshöhe eingefügt.",
+      "Aktuellen Paragraf 58 TKG vollständig gelesen und Terminentschädigung präzisiert."
     ],
-    "sha256": "d7b7c81fb53eb3d6281b33e534cb0c6b8566c07ce41c8742fea9881430a45db8"
+    "sha256": "59812c8a6ede0eb458d5ffba3802de9b425a195686d2de309eb167d3d06bd469"
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Ausfallforderung, Minderleistungsschreiben oder Stellungnahme zu Netz-/Frequenzverfügung anbieten.",
+      "Nur Dateien: Vertrag, Tickets und Bescheid still lesen; nur bei verbleibend offenem Ziel passende Dokumentwege anbieten.",
+      "Klarer Auftrag: Rechnung und Anbieterentwurf beziehungsweise konkreten Regulierungseinwand unmittelbar bearbeiten."
+    ],
+    "continuation": "Ticket, Ersatznachweis oder Gutschrift -> Tagesbewertung, Restforderung und Brief ändern; Änderungsmitteilung -> Frist und Kündigungsdatum aktualisieren.",
+    "enrichment": "Ausfalltage, Mitwirkungsgegenargument, tatsächlich nutzbarer Ersatz, Anrechnung und Zahlungsbrief; qualifizierte Minderleistungsbelege, Änderungs-Kündigung und konkrete Behördenverpflichtung.",
+    "limits": "desk review; no live client execution"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "method": "desk_review",
+    "files": [
+      "telekommunikationsrecht/README.md",
+      "telekommunikationsrecht/telekommunikationsrecht-werkstatt.md",
+      "telekommunikationsrecht/telekommunikationsrecht-schnellstart.md",
+      "quality/evals/telekommunikationsrecht.json"
+    ],
+    "opening_change": "Ausfallforderung anhand Meldung, Dauer und Monatsentgelt oder konkreten Regulierungseinwand begründen.",
+    "norms": [
+      "Paragrafen 57 und 58 TKG",
+      "Paragrafen 249 und 280 BGB"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 24. Januar 2013, III ZR 98/12, Randnummern 7 und 16 bis 22",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2012/III_ZR__98-12.pdf?__blob=publicationFile&v=1",
+        "application": "Privater Internetausfall kann ohne Zusatzkosten Vermögensschaden auslösen; gleichwertigen Ersatz und objektiven Nutzungswert prüfen.",
+        "limit": "Haftungsgrund revisionsrechtlich vorausgesetzt; verlangte 50 Euro keine zugesprochene Pauschale, heutige TKG-Anrechnung zusätzlich prüfen."
+      }
+    ],
+    "remaining_limits": [
+      "Keine Neuprüfung aller BNetzA-Messvorgaben, Frequenz- und Marktzugangsverfahren; Grenztage und tatsächliche Ersatzversorgung bleiben fallbezogen.",
+      "Desk-/Quellenreview, kein Live-Client- oder Modelltest. Bestehende Auswahl- und Ergebnisfälle unverändert erhalten."
+    ]
   }
 }

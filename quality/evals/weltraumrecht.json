@@ -1,8 +1,144 @@
 {
- "schema_version":1,"plugin":"weltraumrecht","reviewed_on":"2026-09-17",
- "sources":[{"url":"https://www.unoosa.org/res/oosadoc/data/documents/2025/stspace/stspace61rev_3_0_html/st_space_61rev03E.pdf","checked_on":"2026-09-14","supports":"Amtlich indexierter Vertragstext des Haftungsübereinkommens: Artikel I Startstaat, Artikel II absolute Haftung für Boden- und Flugzeugschäden, Artikel III Verschuldenshaftung für den dort bezeichneten Orbitalschaden."},{"url":"https://www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/liability-convention.html?trk=public_post_comment-text","checked_on":"2026-09-14","supports":"Amtlich indexierter Artikel IX: zwischenstaatliche Anspruchsanmeldung auf diplomatischem Weg. Direkter HTML-Abruf nicht verfügbar."}],
- "mini_review":{"verdict":"revised","reason":"Missionszulassung, Verträge, Schadensbearbeitung und besondere Missionen haben getrennte Arbeitswege bis zum verlangten Dokument. Start-, Register- und Eigentümerrolle sowie staatlicher und privater Anspruchsweg werden nicht gleichgesetzt.","changes":["Rückfragen zu Konfiguration, Vertragsentscheidung und Schadensbelegen in die jeweilige Dokumentfassung weiterführen","Artemis-Abschnitte zu Erbe, Ressourcen und Nutzungskonflikten richtig zugeordnet","Rettung, Personalrückgabe und Gegenstandsrückgabe nach verschiedenen Artikeln behandeln"],"sha256":"d747bcb92930f7bbadfde8e75e443fa03ae2565c797d5075be48951569c0a1b7"},
- "workshop_review":{"verdict":"revised","reason":"Die Werkstatt unterscheidet Genehmigungs-, Register-, Vertrags- und Schadensverfahren und erhält die fachlichen Sonderfragen, ohne jeden Missionsauftrag mit sämtlichen Übersichten zu überladen.","changes":["Nachgereichte Missions- und Schadensunterlagen mit den betroffenen Abschnitten abgleichen","Politische Verpflichtungen von verbindlichem Vertragsrecht abgrenzen","Registerstaat nicht als automatischen Eigentümer behandeln; tatsächliche Vertragsbindung prüfen"],"sha256":"4bcbe48265e46223c57ade6a586b0e638eef974cf40c410d4a879e3b3e9917d4"},
- "selection":{"positive":["Ordne die Haftung nach Satellitenkollision und herabgefallenen Trümmern getrennt ein.","Erstelle eine Missionsmatrix für Betreiber, Startstaat, Registrierung und Frequenzen."],"negative":["Prüfe einen gewöhnlichen Fluggepäckschaden nach dem Montrealer Übereinkommen.","Berechne rein technisch die Transferbahn ohne Rechtsfrage."]},
- "cases":[{"id":"orbit-und-bodenschaden","request":"Schreibe ergebnis.md für eine staatliche Rechtsabteilung. Staat A ist nachweislich Startstaat eines Satelliten, Staat B Startstaat des kollidierten Satelliten. Beide sind Vertragsparteien des Haftungsübereinkommens. Kollision im Orbit beschädigt den Satelliten von B um 4 Millionen Euro; Kausalität steht fest, Verschulden ist ungeklärt, Warn- und Manöverdaten fehlen. Separat beschädigt ein identifiziertes Teil des Satelliten von A ein öffentliches Gebäude in B um 200000 Euro. Kausalität und Schadenshöhe stehen fest; keine Ausschluss- oder Entlastungstatsachen bekannt. Das Ministerium möchte beide Positionen ohne weitere Prüfung als absolute Haftung anmelden. Prüfe Maßstäbe, Belege und Anspruchsweg.","input_files":[],"deliverables":["ergebnis.md"],"criteria":[{"id":"C01","text":"Ordnet den Gebäudeschaden dem absoluten Haftungsmaßstab des Artikels II zu und verlangt hierfür nicht generell Verschuldensnachweis.","deliverables":["ergebnis.md"]},{"id":"C02","text":"Prüft den Orbitalschaden nach Artikel III und lässt Haftung mangels geklärten Verschuldens offen; fordert Warn- und Manöverdaten statt aus Kollision allein Verschulden zu folgern.","deliverables":["ergebnis.md"]},{"id":"C03","text":"Trennt die Schadenspositionen und benennt den diplomatischen zwischenstaatlichen Weg statt einer unmittelbaren Klage des privaten Betreibers aus dem Übereinkommen.","deliverables":["ergebnis.md"]}],"target_skill":"space-003-haftungue-absoluter-bodenschaden-verschulden-all"}]
+  "schema_version": 1,
+  "plugin": "weltraumrecht",
+  "reviewed_on": "2026-09-23",
+  "sources": [
+    {
+      "url": "https://www.unoosa.org/res/oosadoc/data/documents/2025/stspace/stspace61rev_3_0_html/st_space_61rev03E.pdf",
+      "checked_on": "2026-09-14",
+      "supports": "Amtlich indexierter Vertragstext des Haftungsübereinkommens: Artikel I Startstaat, Artikel II absolute Haftung für Boden- und Flugzeugschäden, Artikel III Verschuldenshaftung für den dort bezeichneten Orbitalschaden."
+    },
+    {
+      "url": "https://www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/liability-convention.html?trk=public_post_comment-text",
+      "checked_on": "2026-09-14",
+      "supports": "Amtlich indexierter Artikel IX: zwischenstaatliche Anspruchsanmeldung auf diplomatischem Weg. Direkter HTML-Abruf nicht verfügbar."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62019CJ0515",
+      "checked_on": "2026-09-22",
+      "supports": "Satellitenteil braucht keinen überwiegenden Datenverkehr, aber einen tatsächlichen und notwendigen Systembeitrag; Bedingungen ergänzender Bodenkomponenten prüfen. Amtlicher Volltext einschließlich Tenor geprüft. Entscheidung betrifft mobile Satellitendienste nach Entscheidung 626/2008/EG, keine allgemeine Startzulassung oder unbegrenzte terrestrische Netznutzung."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62023CJ0415",
+      "checked_on": "2026-09-22",
+      "supports": "Objektive Anhaltspunkte zur Unabhängigkeit von Angeboten im Galileo-Vergabeverfahren verlangen Aufklärung, nicht zwingend bereits Vollbeweis einer Einflussnahme. Amtlicher Volltext geprüft. Personalwechsel allein kein automatischer Ausschlussgrund; Zurückverweisung, kein endgültiger Zuschlag oder Wettbewerberausschluss."
+    },
+    {
+      "url": "https://treaties.un.org/doc/Publication/UNTS/Volume%20961/volume-961-I-13810-English.pdf",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlichen UN-Vertragstext Artikel IX bis XI gelesen: diplomatische Anmeldung, Jahresfrist mit Kenntnis- und Sorgfaltsgrenze, Ergänzung bei offener Schadenshöhe sowie Begrenzung paralleler Geltendmachung desselben Schadens. Kein Nachweis heutigen Staatenstatus. Die beiden bisherigen UNOOSA-PDF-Adressen lieferten beim erneuten Abruf 404; frühere Quellenrecords bleiben als historische Prüfstände erhalten."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Kurzprompt vollständig erneut gelesen: drei fachliche Einstiege, Missionsänderung und Ersatzstartentscheidung führen unmittelbar zum geänderten Dokument. Vorhandene Vertrags- und Rechtsprechungsgrenzen erhalten; keine Live-Ausführung.",
+    "changes": [
+      "Leere Eingabe führt zu Behördenschreiben, Startvertragsänderung oder Haftungsvermerk; Dateien ohne Aufgabe werden still gelesen.",
+      "Startplatzwechsel und Ersatzstart oder Rückzahlung verändern Staatenprüfung, Klauseln und Anlagen.",
+      "Allgemeine Wiederholungen gekürzt; Eutelsat, Staatenrollen und besondere Missionsabgrenzungen erhalten."
+    ],
+    "sha256": "5a86866d7c210cd684a39ab968ee23e917189909218d5f3d7d0f6f88f134ba23",
+    "method": "desk_review",
+    "reviewed_on": "2026-09-23"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Werkstatt vollständig erneut gelesen und um konkrete Missionsänderungen, Startverschiebung sowie Schadensmeldung erweitert. Fristauslöser anhand amtlichen UN-Vertragstexts geprüft; vorhandene Entscheidungen nicht als erneut vollverifiziert ausgegeben.",
+    "changes": [
+      "Konfigurationswechsel bis zum geänderten Behördenschreiben und zur Vertragsanlage ausgearbeitet.",
+      "Verzögerungsursache, belastende Mitwirkungstatsachen und wirtschaftliche Wahl zwischen Ersatzstart und Rückzahlung verknüpft.",
+      "Warnungs- und Manöverdaten ändern Verschuldensvortrag; Artikel X und XI steuern Fristen und Anspruchsweg."
+    ],
+    "sha256": "92375761ce2c8d3da9d68ea5a11aa0b39637222ac3454b2feec41d2eef19644a",
+    "method": "desk_review",
+    "reviewed_on": "2026-09-23"
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Behördenschreiben zur Mission, Startvertragsänderung oder Haftungsvermerk auswählen lassen.",
+      "Dateien ohne Aufgabe: Mission, Bescheide und Vertrag still lesen; nur bei offenem Ziel passende Dokumentwege anbieten.",
+      "Klarer Auftrag: unmittelbar Mission, Klausel oder Schaden bearbeiten und nur entscheidende fehlende Angaben klären."
+    ],
+    "continuation": "Antwort zu Startplatz, Ersatzstart oder Telemetrie -> geändertes Behördenschreiben, Vertragsklausel beziehungsweise Haftungsvermerk.",
+    "enrichment": "Missionswechsel, Verschiebungskosten, entlastende technische Tatsachen und diplomatische Fristen bis zur vollständigen Fassung ausgearbeitet.",
+    "limits": "desk review; no live client execution"
+  },
+  "selection": {
+    "positive": [
+      "Ordne die Haftung nach Satellitenkollision und herabgefallenen Trümmern getrennt ein.",
+      "Erstelle eine Missionsmatrix für Betreiber, Startstaat, Registrierung und Frequenzen."
+    ],
+    "negative": [
+      "Prüfe einen gewöhnlichen Fluggepäckschaden nach dem Montrealer Übereinkommen.",
+      "Berechne rein technisch die Transferbahn ohne Rechtsfrage."
+    ]
+  },
+  "cases": [
+    {
+      "id": "orbit-und-bodenschaden",
+      "request": "Schreibe ergebnis.md für eine staatliche Rechtsabteilung. Staat A ist nachweislich Startstaat eines Satelliten, Staat B Startstaat des kollidierten Satelliten. Beide sind Vertragsparteien des Haftungsübereinkommens. Kollision im Orbit beschädigt den Satelliten von B um 4 Millionen Euro; Kausalität steht fest, Verschulden ist ungeklärt, Warn- und Manöverdaten fehlen. Separat beschädigt ein identifiziertes Teil des Satelliten von A ein öffentliches Gebäude in B um 200000 Euro. Kausalität und Schadenshöhe stehen fest; keine Ausschluss- oder Entlastungstatsachen bekannt. Das Ministerium möchte beide Positionen ohne weitere Prüfung als absolute Haftung anmelden. Prüfe Maßstäbe, Belege und Anspruchsweg.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Ordnet den Gebäudeschaden dem absoluten Haftungsmaßstab des Artikels II zu und verlangt hierfür nicht generell Verschuldensnachweis.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Prüft den Orbitalschaden nach Artikel III und lässt Haftung mangels geklärten Verschuldens offen; fordert Warn- und Manöverdaten statt aus Kollision allein Verschulden zu folgern.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Trennt die Schadenspositionen und benennt den diplomatischen zwischenstaatlichen Weg statt einer unmittelbaren Klage des privaten Betreibers aus dem Übereinkommen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "space-003-haftungue-absoluter-bodenschaden-verschulden-all"
+    }
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "weltraumrecht/weltraumrecht-werkstatt.md",
+      "weltraumrecht/weltraumrecht-schnellstart.md"
+    ],
+    "opening_change": "Konkrete Mission, Vertragsleistung oder Satellitenschaden mit getrennter Frequenz-, Register- und Haftungsprüfung.",
+    "norms": [
+      "Artikel II, VI, VIII und IX Weltraumvertrag",
+      "Artikel II, III und IX Weltraumhaftungsübereinkommen",
+      "Artikel 2 Absatz 2 und Artikel 8 Entscheidung 626/2008/EG",
+      "Paragraf 1 Absatz 2 LuftVG"
+    ],
+    "decisions": [
+      {
+        "citation": "EuGH, Urteil vom 15. April 2021, C-515/19, Eutelsat",
+        "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62019CJ0515",
+        "application": "Satellitenteil braucht keinen überwiegenden Datenverkehr, aber einen tatsächlichen und notwendigen Systembeitrag; Bedingungen ergänzender Bodenkomponenten prüfen.",
+        "limit": "Amtlicher Volltext einschließlich Tenor geprüft. Entscheidung betrifft mobile Satellitendienste nach Entscheidung 626/2008/EG, keine allgemeine Startzulassung oder unbegrenzte terrestrische Netznutzung."
+      },
+      {
+        "citation": "EuGH, Urteil vom 12. Juni 2025, C-415/23 P, OHB System/Kommission, Randnummern 66 bis 82",
+        "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62023CJ0415",
+        "application": "Objektive Anhaltspunkte zur Unabhängigkeit von Angeboten im Galileo-Vergabeverfahren verlangen Aufklärung, nicht zwingend bereits Vollbeweis einer Einflussnahme.",
+        "limit": "Amtlicher Volltext geprüft. Personalwechsel allein kein automatischer Ausschlussgrund; Zurückverweisung, kein endgültiger Zuschlag oder Wettbewerberausschluss."
+      }
+    ],
+    "remaining_limits": [
+      "Workflow-Review: keine neue Gesamtprüfung nationaler Zulassungsgesetze oder aktueller Staatenbindungen; UNOOSA-PDFs nicht erneut erreichbar, neuer Fristenbeleg aus UNTS.",
+      "Keine Live-Modellprüfung; nationale Zuständigkeit und spätere Gesetzesänderungen müssen bei konkreter Verwendung zusätzlich geprüft werden."
+    ]
+  }
 }

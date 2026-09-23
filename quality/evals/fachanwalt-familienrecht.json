@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "fachanwalt-familienrecht",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/bgb/__1378.html",
@@ -32,28 +32,64 @@
       "url": "https://www.gesetze-im-internet.de/bgb/__1384.html",
       "checked_on": "2026-09-14",
       "supports": "Rechtshängigkeit des Scheidungsantrags als maßgeblicher Zeitpunkt für Berechnung und Höhe der Ausgleichsforderung bei Scheidung."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2023/XII_ZB_558-23.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "Erneute Primärquellenprüfung: BGH, Beschluss vom 13.11.2024, XII ZB 558/23, Randnummern 17 bis 23. Anwendung: Niedrigeres Endvermögen nach erfüllender Trennungsauskunft: Auskunftstitel oder verlangtes Datum und Erfüllungsannahme bestimmen die Beweislastfolge. Grenze: Bloßer Kontobeleg reicht nicht; abweichender tatsächlicher Trennungstag beseitigt Folge nicht automatisch; Zurückverweisung statt Feststellung jeder Minderung als illoyal."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__1375.html",
+      "checked_on": "2026-09-22",
+      "supports": "Hinzurechnungstatbestände, Beweislastfolge und zeitliche beziehungsweise zustimmungsbezogene Grenzen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__1379.html",
+      "checked_on": "2026-09-22",
+      "supports": "Stichtagsbezogene Auskunft und Belege."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__1384.html",
+      "checked_on": "2026-09-22",
+      "supports": "Rechtshängigkeit als Berechnungsstichtag bei Scheidung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/famfg/__159.html",
+      "checked_on": "2026-09-22",
+      "supports": "Persönliche Anhörung und Eindruck ohne starre Altersgrenze."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__1379.html",
+      "supports": "Erneuter Normabruf zu vermögensbezogener Auskunft und Belegen; Stichtag, Zahlungsfluss und Hinzurechnung konkret zuordnen.",
+      "checked_on": "2026-09-23"
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Vollständige Schlusslektüre: Unterhaltsmonate, Zugewinnstichtage und einzelne Versorgungsanrechte bleiben getrennt; gezielte Antworten führen zur korrigierten Rechnung und bestellten Außenfassung.",
+    "reason": "Mini mit sämtlichen Fachzweigen gelesen; die Trennungsauskunft wird nun nach Titel, verlangtem Stichtag und Erfüllungsannahme beurteilt, nicht nach irgendeinem Bankauszug. Redaktioneller Desk-Review, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Geld wurde auf ein eigenes Depot übertragen statt verbraucht -> Vermögenszuordnung und Hinzurechnungsargument ändern; belegter Umzug -> betroffene Umgangszeiten neu regeln.",
     "changes": [
-      "Sonderzahlungs- und Stichtagsbelege mit Neuberechnung und Brief oder Antrag verbunden.",
-      "Neue entscheidende Lücken erlauben Anschlussfragen ohne erneute Aufnahme.",
-      "Rechenanlagen ersetzen den bestellten Mandantenbrief nicht."
+      "XII ZB 558/23 samt amtlichem Link und Grenzen unmittelbar in die Zugewinnprüfung eingebunden.",
+      "Doppelte Start- und Abschlussformulierungen gekürzt; Unterhalt, Versorgungsausgleich, Sorge und Fortsetzung erhalten.",
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
     ],
-    "sha256": "dfedcb1b9e6a8decea6ae93c0a8ea620c89194fe79ef2d0584f2b5eaa1cf77f1"
+    "sha256": "3dee27a5c520cb8049ea2334a8248a515ecffbfa79c90b613cbf6473e039ea35",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
   },
   "focus_review": {
-    "reviewed_on": "2026-09-17",
+    "reviewed_on": "2026-09-23",
     "method": "desk_review",
-    "verdict": "retained",
-    "reason": "Standalone-Prompt und zugeordneter Fokus-Skill vollständig auf fachlichen Umfang, Rückfragen mit Fortsetzung bis zum bestellten Dokument, Ausgabeverhalten, Rollenbegrenzung und Quellendifferenzierung gelesen. Kein Live-Modelltest und keine erneute Vollverifikation der bestehenden Rechtsquellen.",
-    "changes": [],
+    "verdict": "revised",
+    "reason": "Hauptproblem und Zugewinnskill vollständig gelesen. Hauptproblem präzisiert Titelbindung, Erfüllungsannahme und Reichweite der Zurückverweisung; Skill nur von internem Stichtagsjargon bereinigt. Keine Live-Prüfung. Workflow-Ergänzung: Geld wurde auf ein eigenes Depot übertragen statt verbraucht -> Vermögenszuordnung und Hinzurechnungsargument ändern; belegter Umzug -> betroffene Umgangszeiten neu regeln. Zugeordneten Fokus-Skill auf Kohärenz gelesen und unverändert belassen.",
+    "changes": [
+      "Prompt eröffnet mit positionsbezogenem Vermögensbelegabgleich.",
+      "BGH begründet keine automatische Hinzurechnung; im Skill fachübliche Stichtagsübersicht statt Stichtagskarte.",
+      "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten."
+    ],
     "prompt_path": "fachanwalt-familienrecht/fachanwalt-familienrecht-hauptproblem.md",
-    "prompt_sha256": "1276ce7e63e7ecbf32e3288dc80082bd58d37102f632c816991db372fb6202bf",
+    "prompt_sha256": "ad11fd6bc234f111dd478ff2c877ed0bd6e29b90979e8b8d7c3e9f68ff802849",
     "skill_path": "fachanwalt-familienrecht/skills/zugewinn-vermoegensbelege-stichtage-abgleichen/SKILL.md",
-    "skill_sha256": "4bce2d3ec02d5210e0a9f958b3d81d2c4a8e183f0c5389e0160279b41998372b"
+    "skill_sha256": "a5d1c632eefb2a081dbf2921947712896f16577ba2237871a12de7c10a749020"
   },
   "selection": {
     "positive": [
@@ -171,12 +207,54 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt einschließlich vollständigem Arbeitsanhang und sämtlichen Ergebnisalternativen gelesen. Die Abschnitte sind auftragsbezogen und enthalten konkrete Versions-, Zahlungs- und Auskunftsabgleiche statt eines verpflichtenden Gesamtkatalogs.",
+    "reason": "Gesamte Werkstatt samt ausführlichem Arbeitsanhang gelesen. Bisher fehlender operativer Entscheidungsanker zur Beweislast in den Vermögensweg aufgenommen, übrige differenzierte Rechen- und Verfahrenswege erhalten. Redaktioneller Desk-Review, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Tatsächliche Betreuung statt Planbehauptung, Schulwechsel und Schutzbedarf, Renovierungszahlung gegenüber Rechnung, Vermeidung doppelter Schuld- und Wertansätze sowie Bankentlassung und Sicherung bei Wohnungsübernahme.",
     "changes": [
-      "Nach neuer Gehalts- oder Trägerauskunft betroffene Monate beziehungsweise Anrechte prüfen und Stellungnahme fortschreiben lassen.",
-      "Schenkung und Darlehen nicht allein aus einer Überweisung ableiten; Stichtagsbilanz nach Nachweis korrigieren.",
-      "Bestellten Text von internen Varianten und Versandfreigabe getrennt; vorhandenes focus_review unverändert erhalten."
+      "Konkrete Erfüllungsprüfung nach Paragraf 1375 Absatz 2 Satz 2 BGB ergänzt.",
+      "Belegter Verbrauch ist nicht stets illoyal; bloßer anderer Trennungstag beseitigt Beweislastfolge nicht.",
+      "Verfahrensüberschrift fachüblich umbenannt; keine zusätzliche Pflichtkaskade.",
+      "Tatsächliche Betreuung statt Planbehauptung, Schulwechsel und Schutzbedarf, Renovierungszahlung gegenüber Rechnung, Vermeidung doppelter Schuld- und Wertansätze sowie Bankentlassung und Sicherung bei Wohnungsübernahme."
     ],
-    "sha256": "20d97bf06944c18a7465464884b8b30ec48c524b141dbb2eeb527cead1e0c82f"
+    "sha256": "2eb5035053258f8f270bdaccb926adbedba06bd2b0416059e33f665abb189043",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-23",
+    "files": [
+      "fachanwalt-familienrecht/fachanwalt-familienrecht-schnellstart.md",
+      "fachanwalt-familienrecht/fachanwalt-familienrecht-werkstatt.md",
+      "fachanwalt-familienrecht/fachanwalt-familienrecht-hauptproblem.md",
+      "fachanwalt-familienrecht/skills/zugewinn-vermoegensbelege-stichtage-abgleichen/SKILL.md"
+    ],
+    "opening_change": "Unterhaltsmonate, Zugewinnstichtage und konkrete Sorge-/Umgangsregelung bestimmen statt allgemeiner Familienunterlagenbearbeitung. Workflow-Ergänzung: Leer: Unterhalt, Zugewinn oder Sorge und Umgang anbieten. Dateien ohne Aufgabe: Vermögensbelege, Betreuungsplan und Schriftverkehr still lesen; gewünschten Zahlungs-, Auskunfts- oder Regelungstext klären. Klarer Auftrag: konkrete Berechnung oder Vereinbarung unmittelbar ausarbeiten; bekannte Familien- und Stichtagsangaben nicht wiederholen.",
+    "norms": [
+      "Paragrafen 1375 Absatz 2, 1378, 1379 und 1384 BGB",
+      "Paragrafen 63, 114 und 159 FamFG"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Beschluss vom 13.11.2024, XII ZB 558/23, Randnummern 17 bis 23",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2023/XII_ZB_558-23.pdf?__blob=publicationFile&v=1",
+        "application": "Niedrigeres Endvermögen nach erfüllender Trennungsauskunft: Auskunftstitel oder verlangtes Datum und Erfüllungsannahme bestimmen die Beweislastfolge.",
+        "limit": "Bloßer Kontobeleg reicht nicht; abweichender tatsächlicher Trennungstag beseitigt Folge nicht automatisch; Zurückverweisung statt Feststellung jeder Minderung als illoyal."
+      }
+    ],
+    "remaining_limits": [
+      "Redaktionelle Einzelprüfung, kein Live-Modelltest.",
+      "BGH-Anker betrifft Zugewinn; keine neue Vollverifikation aller Unterhalts-, Versorgungs- und Kindschaftsentscheidungen.",
+      "Workflow-Review 23.09.2026: Paragraf 1379 BGB erneut eingesehen; keine medizinischen Diagnosen oder neue familienrechtliche Fallentscheidungen ergänzt."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Unterhalt, Zugewinn oder Sorge und Umgang anbieten.",
+      "Dateien ohne Aufgabe: Vermögensbelege, Betreuungsplan und Schriftverkehr still lesen; gewünschten Zahlungs-, Auskunfts- oder Regelungstext klären.",
+      "Klarer Auftrag: konkrete Berechnung oder Vereinbarung unmittelbar ausarbeiten; bekannte Familien- und Stichtagsangaben nicht wiederholen."
+    ],
+    "continuation": "Geld wurde auf ein eigenes Depot übertragen statt verbraucht -> Vermögenszuordnung und Hinzurechnungsargument ändern; belegter Umzug -> betroffene Umgangszeiten neu regeln.",
+    "enrichment": "Tatsächliche Betreuung statt Planbehauptung, Schulwechsel und Schutzbedarf, Renovierungszahlung gegenüber Rechnung, Vermeidung doppelter Schuld- und Wertansätze sowie Bankentlassung und Sicherung bei Wohnungsübernahme.",
+    "limits": "desk review; no live client execution"
   }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "fachanwalt-miet-wohnungseigentumsrecht",
-  "reviewed_on": "2026-09-17",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/bgb/__559.html",
@@ -32,26 +32,67 @@
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2019/VIII_ZR__81-19.pdf?__blob=publicationFile&v=1",
       "checked_on": "2026-09-14",
       "supports": "BGH, Versäumnisurteil vom 17.06.2020, Az. VIII ZR 81/19, Leitsätze und Randnummer 49: Abzug bei funktionsfähigen abgenutzten Bauteilen, Teilbarkeit und Vermieterbeweislast. Amtliches PDF direkt abgerufen und textlich gelesen."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2019/VIII_ZR__81-19.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Versäumnisurteil vom 17.06.2020, VIII ZR 81/19, Rn. 27–35 und 36–49: Bei noch funktionierenden alten Bauteilen abnutzungsbezogenen Erhaltungsabzug prüfen; Vermieter beweist Modernisierung und umlagefähige Kosten, auch bei negativer Feststellungsklage. Fehlender Abzug nicht automatisch Formfehler, trennbare Erhöhungsteile nach Paragraf 139 prüfen. Grenze: Alte Umlageregelung; keine Übernahme der damaligen elf Prozent oder automatische Übertragung auf besondere Heizungs- und Pauschalmodelle."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__559.html",
+      "checked_on": "2026-09-22",
+      "supports": "Achtprozentumlage, Abnutzung und wohnungsbezogene Kappung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__559e.html",
+      "checked_on": "2026-09-22",
+      "supports": "Eigenständige Heizungsumlage mit Fördervoraussetzungen, Erhaltungspauschale samt aktueller Ausnahme und eigener Kappung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__578.html",
+      "checked_on": "2026-09-22",
+      "supports": "Textform bei langfristiger Grundstücks- und Gewerberaummiete."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgbeg/art_229__70.html",
+      "checked_on": "2026-09-22",
+      "supports": "Altverträge bis einschließlich 1. Januar 2026; ab 2025 vereinbarte Änderungen früher nach neuem Recht."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__130e.html",
+      "checked_on": "2026-09-22",
+      "supports": "Formfiktion bei ordnungsgemäßem elektronischem vorbereitendem Schriftsatz und gerichtlicher Zustellung oder Mitteilung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/woeigg/__45.html",
+      "supports": "Erneuter Normabruf: Anfechtungsklage innerhalb eines Monats, Begründung innerhalb zweier Monate jeweils nach Beschlussfassung; eigenständige Fristen beachten.",
+      "checked_on": "2026-09-23"
     }
   ],
   "mini_review": {
-    "verdict": "retained",
-    "reason": "Vollständige Textprüfung am 18. September: Neue Zahlungen, Zustandsberichte und Förderbelege werden gezielt eingearbeitet; danach werden Monatsbetrag, Kündigungsbewertung oder bestellte Einwendung fertiggestellt.",
+    "verdict": "revised",
+    "reason": "Vollständige Lektüre; Einstieg auf Zahlung, Mangel, Erhöhung oder Kündigung konkretisiert und Modernisierungsanker an funktionsfähige alte Bauteile gebunden. Desk- und Quellenreview, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Förderung betrifft nur die Fassade oder Gutschrift ist bereits im Rechnungsbetrag enthalten -> Kostenverteilung und Einwendung ändern, keinen doppelten Abzug vornehmen.",
     "changes": [
-      "Keine weitere Änderung an der vollständig gelesenen Mini-Fassung."
+      "VIII ZR 81/19 nach Abnutzung, Beweislast und Teilbarkeit angewandt.",
+      "Alte nicht neu geprüfte Urteile ausdrücklich zu Recherchehinweisen herabgestuft.",
+      "Paragraf 578 und Übergang bis einschließlich 1. Januar 2026 sowie Paragraf 130e ZPO differenziert.",
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
     ],
-    "sha256": "65064701c7bee60c2173b6ac2ce2cb1175402ddda11acbe4d9ca02afe4e09f7c"
+    "sha256": "7600ebd7ef3238379956185aa296f18780463920d3f9c9594c97e83a42adace4"
   },
   "focus_review": {
-    "reviewed_on": "2026-09-17",
+    "reviewed_on": "2026-09-23",
     "method": "desk_review",
     "verdict": "revised",
-    "reason": "Standalone-Prompt und zugeordneter Fokus-Skill vollständig auf fachlichen Umfang, Rückfragen mit Fortsetzung bis zum bestellten Dokument, Ausgabeverhalten, Rollenbegrenzung und Quellendifferenzierung gelesen. Kein Live-Modelltest und keine erneute Vollverifikation der bestehenden Rechtsquellen.",
+    "reason": "Hauptproblem und zugehörigen Skill vollständig gelesen; Prompt präzisiert Beweislast, materielle Höhe und Teilbarkeit anhand amtlicher Gründe. Skill inhaltlich konsistent und unverändert; kein Live-Modelltest. Workflow-Ergänzung: Förderung betrifft nur die Fassade oder Gutschrift ist bereits im Rechnungsbetrag enthalten -> Kostenverteilung und Einwendung ändern, keinen doppelten Abzug vornehmen. Zugeordneten Fokus-Skill auf Kohärenz gelesen und unverändert belassen.",
     "changes": [
-      "Vollständigen Antworttext bei fehlendem Dateiexport ergänzt; keine erfundenen Downloadlinks."
+      "VIII ZR 81/19 nach Abnutzung, Beweislast und Teilbarkeit angewandt.",
+      "Alte nicht neu geprüfte Urteile ausdrücklich zu Recherchehinweisen herabgestuft.",
+      "Paragraf 578 und Übergang bis einschließlich 1. Januar 2026 sowie Paragraf 130e ZPO differenziert.",
+      "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten."
     ],
     "prompt_path": "fachanwalt-miet-wohnungseigentumsrecht/fachanwalt-miet-wohnungseigentumsrecht-hauptproblem.md",
-    "prompt_sha256": "d3832f7750f12265b8e1bdf6c963cd77dbd82a710183f1c95675a079e2e04a6e",
+    "prompt_sha256": "b48c1af8874ce23bb8574387e5d9c158256b435690342f247bc0588e5ad6c4a4",
     "skill_path": "fachanwalt-miet-wohnungseigentumsrecht/skills/modernisierung-rechnungsabgleich-erhaltungsanteil/SKILL.md",
     "skill_sha256": "5f61cba4c94fd531b9e57baefb0abf6201b38bbc244b17a3bdca99d9d2eeeab1"
   },
@@ -109,12 +150,59 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Textprüfung am 18. September: Vollständige Prüfung einschließlich Nachlauf: CO₂- und Hausmeisterkosten wurden noch mit Kündigungsroutinen vermischt; pauschale Beweislasttabellen widersprachen der merkmalsbezogenen Prüfung.",
+    "reason": "Gesamte Werkstatt mit acht Vertiefungswegen gelesen. Entwurfsbeschränkung, doppelte Normliste und unklarer Quellenstatus korrigiert; Übergangsformrecht und Modernisierungshöhe konkretisiert. Desk- und Quellenreview, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Zahlungszuordnung und Rückbuchung, Mangelzeiträume, Kündigungsarten, Modernisierung gegenüber Erhaltung, Zuschüsse pro Gewerk und WEG-Beschlusswortlaut mit getrennten Klage- und Begründungsfristen.",
     "changes": [
-      "Gute Schritte zu Mietkonto, Mangel und WEG erhalten; doppelte Schablonen entfernt.",
-      "Betriebskosten, Hausmeisterleistungen und CO₂-Rechnung auf ihre konkreten Belege begrenzt.",
-      "WEG-Klageauftrag von gerichtlichem Tenor getrennt; ungeklärte Normbezeichnung Anlage 3 nicht als Beleg übernommen."
+      "VIII ZR 81/19 nach Abnutzung, Beweislast und Teilbarkeit angewandt.",
+      "Alte nicht neu geprüfte Urteile ausdrücklich zu Recherchehinweisen herabgestuft.",
+      "Paragraf 578 und Übergang bis einschließlich 1. Januar 2026 sowie Paragraf 130e ZPO differenziert.",
+      "Zahlungszuordnung und Rückbuchung, Mangelzeiträume, Kündigungsarten, Modernisierung gegenüber Erhaltung, Zuschüsse pro Gewerk und WEG-Beschlusswortlaut mit getrennten Klage- und Begründungsfristen."
     ],
-    "sha256": "28eef4336e18e6534c53b947ffedc02f03023d290cc25411e27e73ead1e39330"
+    "sha256": "0acf9c6508e799ba28d91f39a6862aca4493fd993a366961ed2627ab01e9675c"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-23",
+    "files": [
+      "fachanwalt-miet-wohnungseigentumsrecht/fachanwalt-miet-wohnungseigentumsrecht-hauptproblem.md",
+      "fachanwalt-miet-wohnungseigentumsrecht/fachanwalt-miet-wohnungseigentumsrecht-schnellstart.md",
+      "fachanwalt-miet-wohnungseigentumsrecht/fachanwalt-miet-wohnungseigentumsrecht-werkstatt.md",
+      "fachanwalt-miet-wohnungseigentumsrecht/skills/modernisierung-rechnungsabgleich-erhaltungsanteil/SKILL.md",
+      "fachanwalt-miet-wohnungseigentumsrecht/README.md",
+      "quality/evals/fachanwalt-miet-wohnungseigentumsrecht.json"
+    ],
+    "opening_change": "Geschuldete Miete und wirksame Beendigung statt abstraktem Auftrag; Hauptproblem vom Rechnungsbetrag zur konkreten Monatsmiete. Workflow-Ergänzung: Leer: Mietkonto und Kündigung, Abrechnungsabwehr oder WEG-Beschluss anbieten. Dateien ohne Aufgabe: Konto, Kostenbelege und Beschluss still lesen; Zahlungs-, Modernisierungs- oder Beschlussziel klären. Klarer Auftrag: konkrete Rechnung, Einwendung oder Klagevorbereitung unmittelbar bearbeiten; bekannte Wohnungsdaten nicht wiederholen.",
+    "norms": [
+      "Paragrafen 535, 536, 543, 569 und 573 BGB",
+      "Paragrafen 559, 559a, 559b, 559c und 559e BGB",
+      "Paragrafen 139 und 578 BGB",
+      "Artikel 229 Paragraf 70 Absatz 1 EGBGB",
+      "Paragraf 130e ZPO",
+      "Paragrafen 18, 44 und 45 WEG"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Versäumnisurteil vom 17.06.2020, VIII ZR 81/19, Rn. 27–35 und 36–49",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2019/VIII_ZR__81-19.pdf?__blob=publicationFile&v=1",
+        "application": "Bei noch funktionierenden alten Bauteilen abnutzungsbezogenen Erhaltungsabzug prüfen; Vermieter beweist Modernisierung und umlagefähige Kosten, auch bei negativer Feststellungsklage. Fehlender Abzug nicht automatisch Formfehler, trennbare Erhöhungsteile nach Paragraf 139 prüfen.",
+        "limit": "Alte Umlageregelung; keine Übernahme der damaligen elf Prozent oder automatische Übertragung auf besondere Heizungs- und Pauschalmodelle."
+      }
+    ],
+    "remaining_limits": [
+      "Desk- und Quellenreview, kein Live-Modelltest.",
+      "Modernisierungsentscheidung gezielt amtlich geprüft; sonstige alte Urteile in der Werkstatt bleiben ausdrücklich Recherchehinweise. Keine vollständige Neuprüfung von WEG- oder CO₂-Recht.",
+      "Aktueller Wortlaut der Heizungsumlage gelesen, nicht sämtliche Übergangs- und Gebäudemodernisierungsregeln geprüft; Maßnahmenzeitpunkt weiter entscheidend.",
+      "Workflow-Review 23.09.2026: Paragraf 45 WEG erneut eingesehen; Fristen ab Beschlussfassung, nicht pauschal ab Protokollzugang. Vorhandene mietrechtliche Differenzierungen erhalten."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Mietkonto und Kündigung, Abrechnungsabwehr oder WEG-Beschluss anbieten.",
+      "Dateien ohne Aufgabe: Konto, Kostenbelege und Beschluss still lesen; Zahlungs-, Modernisierungs- oder Beschlussziel klären.",
+      "Klarer Auftrag: konkrete Rechnung, Einwendung oder Klagevorbereitung unmittelbar bearbeiten; bekannte Wohnungsdaten nicht wiederholen."
+    ],
+    "continuation": "Förderung betrifft nur die Fassade oder Gutschrift ist bereits im Rechnungsbetrag enthalten -> Kostenverteilung und Einwendung ändern, keinen doppelten Abzug vornehmen.",
+    "enrichment": "Zahlungszuordnung und Rückbuchung, Mangelzeiträume, Kündigungsarten, Modernisierung gegenüber Erhaltung, Zuschüsse pro Gewerk und WEG-Beschlusswortlaut mit getrennten Klage- und Begründungsfristen.",
+    "limits": "desk review; no live client execution"
   }
 }

@@ -1,6 +1,8 @@
 # 1. Vertragsvorlage ausfüllen und zur fertigen Fassung weiterbearbeiten
 
-Fülle die vorgelegte Vertragsvorlage mit den belegten Angaben für den neuen Fall aus. Liefere die bestellte Vertragsfassung, nicht nur eine Liste der noch einzutragenden Daten. Eine Ausfüllung ist keine Erlaubnis, die Vertragsbedingungen neu zu gestalten.
+Fülle die Vertragsvorlage mit den freigegebenen Parteien, Leistungen, Beträgen und Terminen aus. Prüfe widersprüchliche Eckdaten vor ihrer Übernahme und gleiche jedes wiederkehrende Feld bis zu den Anlagen und Unterschriftsblöcken ab. Liefere die vollständige neue Fassung; ein Ausfüllauftrag erlaubt keine ungefragte Änderung von Haftung, Laufzeit oder sonstigen Vertragsbedingungen.
+
+Ohne Eingabe biete drei Dokumentwege an: freigegebene Eckdaten in eine Vorlage einsetzen, einen Altvertrag für einen neuen Vertragspartner vorbereiten oder widersprüchliche Eckdaten vor der Ausfüllfassung klären. Bei Dateien ohne Aufgabe lies sie zunächst still. Nur wenn das Ziel danach unklar bleibt, biete zwei oder drei passende Wege an, ohne Feldinventar oder Materialzusammenfassung voranzustellen. Ist der Auftrag klar, arbeite sofort; frage ausschließlich nach entscheidenden fehlenden Werten oder Ausfüllentscheidungen. Antworten führen ohne künstliche Runden unmittelbar zur geänderten Vertragsfassung.
 
 ## 1.1. Vorlage und Bearbeitungsauftrag feststellen
 
@@ -27,12 +29,21 @@ Stelle Fragen anhand der tatsächlich offenen Vertragsstellen. Nenne den Widersp
 Fehlt eine entscheidende Angabe, arbeite an den übrigen Feldern weiter. Kennzeichne die offene Stelle im vorläufigen Entwurf eindeutig. Ein offener Preis, Leistungsgegenstand oder eine unklare Partei darf nicht als abschließend vereinbart erscheinen.
 
 Nach einer Antwort:
+
 1. Prüfe, welche bisherigen Angaben sie bestätigt oder ersetzt.
 2. Ändere die betroffenen Felder, Wiederholungen, Berechnungen und Anlagenverweise.
 3. Prüfe die daraus folgenden Auswahlfelder und Termine.
 4. Führe die bestellte Fassung weiter; frage nur zu einer neu erkennbaren entscheidenden Lücke erneut nach.
 
 Beispiel: Wird eine bisher offene Laufzeit auf zwei Jahre festgelegt, sind Vertragsende, Verlängerungsregel und Kündigungstermin zusammen zu prüfen. Die Antwort ist keine Zustimmung zu einer zusätzlich eingefügten automatischen Verlängerung.
+
+### 1.3.1. Einen Preiswiderspruch bis zur einheitlichen Fassung auflösen
+
+Stelle nicht die abstrakte Frage nach „allen Konditionen“, wenn nur die Preise kollidieren. Nenne Betrag, Einheit und Status beider Quellen: Das unterzeichnete Term Sheet nennt 2400 Euro netto im Jahr, der nicht freigegebene Entwurf nennt denselben Betrag im Monat. Eine spätere Nachricht „Preis passt“ ist nur dann eindeutig, wenn ihr Bezug feststeht. Frage andernfalls, welche Preisangabe damit gemeint war, und halte die übrige Ausfüllung bereit.
+
+Bestätigt der Auftraggeber den Jahrespreis, ändere Preisfeld, ausgeschriebenen Betrag, Preisblatt und gegebenenfalls Zusammenfassung. Prüfe gesondert, ob der Vertrag eine jährliche Zahlung oder monatliche Raten vorsieht. Teile einen Jahrespreis nicht ungefragt in zwölf fällige Forderungen. Ist eine Ratenzahlung vereinbart, kennzeichne den errechneten Ratenbetrag als Ableitung und prüfe Rundungsrest, erste und letzte Rate. Eine Nettopreisbestätigung beantwortet nicht ohne Weiteres Umsatzsteueroption oder Steuersatz.
+
+Widerspricht die Bestätigung einer bereits mit der Gegenseite vereinbarten Regelung, benenne dies im Begleitvermerk: Die interne Ausfüllanweisung belegt noch keine Vertragsänderung zwischen den Parteien. Nach [Paragraf 305b BGB](https://www.gesetze-im-internet.de/bgb/__305b.html) ist eine tatsächliche Individualabrede entscheidend; ein freigegebener Verhandlungsvorschlag erhält dadurch nicht automatisch Vorrang vor bestehenden Vereinbarungen. Gib je nach Auftrag eine vorläufig ausgefüllte Fassung oder einen gesonderten Änderungsvorschlag aus, ohne dessen Annahme zu behaupten.
 
 ## 1.4. Wahlklauseln und rechtliche Änderungen auseinanderhalten
 
@@ -60,6 +71,10 @@ Umsatzsteueroption und deren Voraussetzungen nicht allein aus einem Bruttobetrag
 
 Bei langfristigen Grundstücks- oder Gewerberaummietverträgen Form und zeitlich anwendbares Recht gesondert prüfen. Frühere Vertragsketten und Nachträge sind nicht allein durch ihre Überschrift wirksam einbezogen. Die Rechtsprüfung darf nicht als bereits erledigt gelten, nur weil alle Felder ausgefüllt sind.
 
+Arbeite einen Flächenkonflikt am tatsächlichen Dokument durch: Nennt das Term Sheet „Kiosk einschließlich Lager“, der Plan aber nur die Verkaufsfläche, frage nach der freigegebenen räumlichen Abgrenzung. Lässt die Antwort das Lager entfallen, ändere Objektbezeichnung, Planbezug und nur die tatsächlich vereinbarten flächenabhängigen Rechengrößen. Leite daraus keine neue Miete je Quadratmeter ab, wenn ein Festpreis vereinbart wurde. Wird das Lager bestätigt, fordere die passende Anlage an und passe Übergabe- und Nutzungsangaben an; eine handschriftliche Markierung im Plan ist nicht automatisch beiderseitige Zustimmung.
+
+Bei Mietbeginn „nach Übergabe“ erhalte den Ereignisbezug. Frage nur dann nach einem Datum, wenn die Parteien einen festen Termin einsetzen wollen oder die Übergabe bereits belegt ist. Ein früherer Besitzbeginn, ein geplanter Eröffnungstag und der Beginn der Mietzahlung können auseinanderfallen. Übernimm aus einer Antwort nur das tatsächlich Bestätigte; eine mietfreie Ausbauzeit muss ausdrücklich zugeordnet sein. Liefere anschließend die durchgehend stimmige Mietvertragsfassung mit genauer Anlagenbezeichnung und gesondertem Hinweis auf noch ungeklärte Formfragen.
+
 ### 1.5.3. Zweisprachige Fassung
 
 Ordne korrespondierende Klauseln und Felder einander zu. Prüfe Beträge, Datumsformate, Laufzeit, definierte Begriffe und Anlagen in beiden Sprachen. Rechtsbegriffe nicht allein wörtlich übertragen.
@@ -72,6 +87,14 @@ Eine Vergleichsfassung oder Änderungsverfolgung nur erstellen, wenn dies beauft
 
 Prüfe, ob vorhandene Änderungen angenommen, abgelehnt oder weitergeführt werden sollen. Nicht sämtliche fremden Änderungen ohne Anweisung übernehmen. Vergleiche bei der Schlusskontrolle den tatsächlichen Vertragsinhalt mit der Ausgangsfassung; unsichtbare oder versehentlich übernommene Änderungen sind gesondert zu klären.
 
+### 1.5.5. Partei, Unterzeichner und Zustimmung auseinanderhalten
+
+Bei „bitte Frau Meyer einsetzen“ prüfe den Kontext: Soll sie Ansprechpartnerin, Vertreterin der unveränderten Gesellschaft oder neue Vertragspartnerin sein? Ist dies aus der Quelle klar, setze unmittelbar richtig ein; andernfalls stelle genau diese Auswahlfrage. Verändere bei einer neuen Ansprechpartnerin weder Haftungsträger noch Rechnungsschuldner. Bei behauptetem Parteiwechsel ist zu klären, ob ein neuer Vertrag oder eine Vertragsübernahme vorbereitet wird; alte Unterschriften und Zustimmungserklärungen dürfen nicht mitwandern.
+
+Fehlt der Vertretungsnachweis, trage den belegten Namen mit erkennbar offenem Vertretungszusatz ein und benenne den benötigten Nachweis. [Paragraf 177 BGB](https://www.gesetze-im-internet.de/bgb/__177.html) macht einen ohne Vertretungsmacht geschlossenen Vertrag von der Genehmigung abhängig. Das bedeutet nicht, dass jede Ausfülllücke schon ein solcher Vertragsschluss ist. Liegt tatsächlich eine Aufforderung zur Genehmigung nach Absatz 2 vor, sichere deren Empfang und die daran anknüpfende Zweiwochenfrist; sie beginnt nicht mit dem Hochladen der Vorlage. Erstelle nur bei entsprechendem Auftrag einen gesonderten Erklärungsentwurf, keine rückdatierte Unterschrift oder fingierte Genehmigung.
+
+Nach Eingang einer Vollmacht gleiche Umfang, betroffene Gesellschaft, Geschäft und gegebenenfalls gemeinschaftliche Vertretung mit dem Unterschriftsblock ab. Ein bestätigter zweiter Unterzeichner verändert auch die Signaturfelder beider Sprachfassungen. Ist lediglich die Firma umbenannt, prüfe den Identitätsnachweis und korrigiere die Bezeichnung, ohne aus einer Namensänderung eine Vertragsübernahme zu machen.
+
 ## 1.6. Zahlen, Verweise und Dokumentdarstellung prüfen
 
 Prüfe jede Berechnung mit ihren Eingaben und Einheiten. Netto, Umsatzsteuer und Brutto sowie monatliche und jährliche Beträge auseinanderhalten. Einen Steuersatz, Indexstand oder Umrechnungskurs nicht erfinden. Automatisch berechnete Werte intern mit Formel und Rundung nachvollziehbar halten.
@@ -80,7 +103,7 @@ Gleiche Anlagenbezeichnungen, interne Verweise, Auswahlfelder und definierte Beg
 
 Bei DOCX die tatsächliche Datei öffnen oder rendern, soweit das Werkzeug dies ermöglicht. Tabellen, Seitenumbrüche, Fußzeilen, Unterschriftsblöcke und überlaufende Eingaben prüfen. Eine Textextraktion allein bestätigt nicht das Layout und keine erfolgreiche Änderungsverfolgung. Einen Rohtextexport nicht als formaterhaltend bearbeitete Word-Datei ausgeben.
 
-Vorlagenformat und vereinbarte Gliederung möglichst erhalten. Bei neu geschriebenen Abschnitten dezimal gliedern und vollständige Klauselsätze verwenden; neu formatierte Dokumente grundsätzlich in Times New Roman 11 pt, sofern die verbindliche Vorlage nichts anderes erfordert.
+Vorlagenformat möglichst erhalten, Gliederungen jedoch ausschließlich dezimal mit Leerzeilen zwischen Überschrift und Inhalt führen; vorhandene andersartige Nummerierung samt Verweisen konsistent anpassen. Vollständige Klauselsätze verwenden; neu formatierte Dokumente grundsätzlich in Times New Roman 11 pt, sofern die verbindliche Vorlage nichts anderes erfordert.
 
 ## 1.7. Ergebnis fertigstellen und nach Antworten fortschreiben
 
@@ -94,9 +117,13 @@ Keine Unterschrift, Freigabe, Vertragsannahme oder Vertretungsmacht fingieren. N
 
 ## 1.8. Quellen und technische Grenzen
 
-Für die beauftragte rechtliche Prüfung die einschlägige Normfassung heranziehen, nicht eine allgemeine Normenliste abarbeiten: Vertragsschluss und Auslegung nach Paragrafen 145 ff., 133 und 157 BGB; AGB nach Paragrafen 305 bis 310 BGB; Leistungsstörungen nach Paragrafen 280 ff. und 323 ff. BGB. Geheimhaltung oder Rechteübertragung können zusätzliche Prüfung nach GeschGehG beziehungsweise Paragrafen 31 ff. UrhG erfordern.
+Bei einem Widerspruch zwischen Eckdaten und Vorlage Paragrafen 133 und 157 BGB für die Auslegung und Paragraf 305b BGB für den Vorrang tatsächlich vereinbarter Individualabreden heranziehen. Ein offener Vorschlag ist noch keine Abrede. Für eingesetzte Vertreter Paragrafen 164 und 177 BGB beachten; Registerstand, Vollmacht und erforderliche Zustimmung nicht aus einer E-Mail-Signatur erfinden. Die Herkunft vorformulierter Klauseln bleibt trotz ausgefüllter Namens- und Preisfelder nach Paragrafen 305 bis 310 BGB gesondert zu beurteilen.
+
+[BGH, Urteil vom 23. Juni 2023, V ZR 89/22](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2023-6-23&Gericht=bgh&anz=3&client=13&nr=136183&pos=2), amtliche Leitsätze: Eine nachgewiesene gemeinsame Vorstellung über den verkauften Grundbesitz kann trotz abweichender Flurstücksbezeichnung maßgeblich sein; eine nur einseitige Vorstellung reicht dafür nicht. Bei widersprüchlichen Objektangaben deshalb Vertrag, Plan und freigegebene Beschreibung gegenüberstellen und die Willensübereinstimmung klären. Nicht durch eine vermeintlich redaktionelle Änderung den Kaufgegenstand erweitern. Die Entscheidung betrifft Grundstückskauf und Auslegung, nicht die pauschale Wirksamkeit jeder automatisierten Datenübernahme; Paragraf 311b Absatz 1 BGB gesondert beachten.
 
 Bei Gewerberaummiete Paragrafen 535 und 536 sowie Paragraf 578 Absatz 1 in Verbindung mit Paragraf 550 BGB und gegebenenfalls Artikel 229 Paragraf 70 EGBGB prüfen. Verjährung und Störung der Geschäftsgrundlage nur bei entsprechendem Auftrag behandeln; Paragraf 195 BGB allein bestimmt keinen konkreten Fristbeginn.
+
+Bei der heute geltenden Formprüfung langfristiger Grundstücks- und Gewerberaummiete ist nach Paragraf 578 BGB Textform maßgeblich. Für vor dem 1. Januar 2025 entstandene Mietverhältnisse endete die Weitergeltung alten Rechts nach Artikel 229 Paragraf 70 Absatz 1 EGBGB mit Ablauf des 1. Januar 2026, bei später vereinbarten Änderungen gegebenenfalls früher. Alte Nachträge nach ihrem maßgeblichen Zeitpunkt einordnen; nicht allein aus dem Vertragsdatum ein fortdauerndes Schriftformerfordernis ableiten.
 
 Rechtsprechung nur mit tatsächlich geprüfter Quelle und konkretem Bezug zu einer offenen Rechtsfrage verwenden. Keine Entscheidungen oder Randnummern zur bloßen Ausschmückung ergänzen.
 

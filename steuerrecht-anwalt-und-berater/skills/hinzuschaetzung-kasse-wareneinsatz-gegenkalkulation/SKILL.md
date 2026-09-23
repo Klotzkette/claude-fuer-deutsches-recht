@@ -7,6 +7,10 @@ description: Prüft Hinzuschätzungen bei bargeldintensiven Betrieben anhand von
 
 Bearbeite die beauftragte Hinzuschätzung anhand der Mengen-, Bestands- und Preisbelege. Erstelle eine eigene Gegenkalkulation und die verlangte Stellungnahme oder Rechtsbehelfsbegründung. Beziehe weitere Jahre und Steuerfolgen nur ein, soweit der Auftrag und die Datengrundlage dies tragen. Anders als bei `aussenpruefung-strategien` und den Kassenführungs-Skills geht es hier nicht nur um Verfahrensstrategie oder Ordnungsmäßigkeit der Aufzeichnungen.
 
+Ohne Eingabe biete Prüferrechnung nachvollziehen, mengenbezogene Gegenkalkulation oder Stellungnahme an. Dateien ohne Aufgabe still lesen und das passende Ziel klären, keine automatische Materialübersicht. Bei klarem Auftrag unmittelbar bearbeiten; keine künstlichen Gesprächsrunden oder erneute Abfrage bekannter Daten.
+
+Wird ein Endbestand von 2.000 statt 1.500 Flaschen belegt, sinkt bei sonst unveränderten Daten und 5 Euro Nettopreis der kalkulierte Umsatz um 2.500 Euro. Zuerst Stichtag und Warengruppe abgleichen, dann Rechnung, Differenz und beziffertes Begehren gemeinsam ändern. Fehlende Kassenaufzeichnungen werden dadurch nicht geheilt.
+
 ## 2. Eingaben
 
 Lies Prüfungsbericht und Rechenanlagen, Änderungsbescheide, Kassenberichte, Warenrechnungen, Inventuren, Preislisten, Rezepturen, Rabattnachweise, Eigenverbrauch, Schwund und Konten. Erfasse Betrieb, Steuerarten, Jahre, Gewinnermittlungsart, Kassensystem, Öffnungsperioden, Bekanntgabe und Vollziehungsstand. Frage nur fehlende Angaben ab, die Rechnung, Begründung oder Verfahrensweg verändern; fasse zusammengehörige Belegfragen zusammen.
@@ -25,7 +29,7 @@ Bearbeite währenddessen die unabhängigen Teile. Geht etwa die angefragte Inven
 
 ## 4. Quellenpflicht
 
-Prüfstand 14.09.2026: [Paragraf 162 AO](https://www.gesetze-im-internet.de/ao_1977/__162.html), [Paragraf 361 AO](https://www.gesetze-im-internet.de/ao_1977/__361.html). BFH, Urteil vom 18.06.2025, Az. X R 19/21, [amtlicher Volltext, Leitsätze 1 bis 6 und Entscheidungsgründe zur Methodenwahl](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202520256/): Schätzungsbefugnis und verlässliche Methodenwahl sind zu trennen. Die Zweifel an der damaligen Richtsatzsammlung sind ergänzende, nicht tragende Hinweise; kein allgemeines Schätzungsverbot.
+Am 22.09.2026 erneut geprüft: [Paragraf 162 AO](https://www.gesetze-im-internet.de/ao_1977/__162.html) und [Paragraf 158 AO](https://www.gesetze-im-internet.de/ao_1977/__158.html). Der vorhandene Hinweis auf [Paragraf 361 AO](https://www.gesetze-im-internet.de/ao_1977/__361.html) wurde bei dieser Quellenprüfung nicht erneut verifiziert. BFH, Urteil vom 18.06.2025, X R 19/21, [amtlicher Volltext](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202520256/), Rn. 48–63: Sind Waren- und Preisdaten verfügbar, muss die Methodenwahl unter Paragrafen 5 und 162 AO an der mit zumutbarem Aufwand zuverlässigeren Schätzung ausgerichtet werden. Begründe die Eignung der inneren Nachkalkulation konkret und fordere Gründe für deren Ablehnung an. Nicht mehr vorlegbare Rezepturen begrenzen die Gegenrechnung; weder ein freies Methodenwahlrecht des Steuerpflichtigen noch eine zwingende zusätzliche Kontrollrechnung folgen daraus. Rn. 31 kennzeichnet die allgemeine Kritik an der damaligen Richtsatzsammlung ausdrücklich als ergänzend und nicht tragend. Der Fall betraf 2013/2014; alte Kassenregeln nicht auf neue Prüfungsjahre übertragen.
 
 Rechtslage der Prüfungsjahre und neue Entwicklungen amtlich verifizieren. Gericht, Entscheidungsform, Datum, Aktenzeichen, URL und belegte Passage nennen; die [Zitierweise](../../references/zitierweise.md) ist eine optionale Vertiefung. Keine erfundenen Richtsätze, Randnummern oder Literatur. Quelle, Rechenannahme und Subsumtion getrennt ausweisen.
 

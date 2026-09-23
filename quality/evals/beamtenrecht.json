@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "beamtenrecht",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/gg/art_33.html",
@@ -12,15 +12,39 @@
       "url": "https://www.gesetze-im-internet.de/vwgo/__123.html",
       "checked_on": "2026-09-14",
       "supports": "Vorläufige Sicherung bei drohender Vereitelung eines Rechts."
+    },
+    {
+      "url": "https://www.bverwg.de/030325B2VR4.24.0",
+      "checked_on": "2026-09-22",
+      "supports": "BVerwG, Beschluss vom 3. März 2025, 2 VR 4.24, Randnummern 46–49, 60–68: Reale Auswahlchance trotz unterstelltem Beurteilungsfehler; bei fiktiver Fortschreibung Vergleichsgruppe und Beförderungen prüfen. Grenze: Keine willkürliche Notenverbesserung; damaliger gesetzlicher Übergang ist nicht ungeprüft heutiges Recht. Amtliche tragende Gründe gelesen; keine Vollverifikation der gesamten Materie."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gg/art_33.html",
+      "checked_on": "2026-09-22",
+      "supports": "Artikel 33 Absatz 2: gleiche Auswahl nach Eignung, Befähigung und fachlicher Leistung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vwgo/__123.html",
+      "checked_on": "2026-09-22",
+      "supports": "Vorläufige Sicherung einer realen Auswahlchance; Anspruch und Eilgrund getrennt."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vwgo/__123.html",
+      "checked_on": "2026-09-23",
+      "supports": "Vorläufige Sicherung mit Anordnungsanspruch und Anordnungsgrund; keine Vorwegnahme eines eigenen Ernennungsanspruchs."
     }
   ],
   "mini_review": {
-    "sha256": "d7669afeb6e3d1b671e406b789bc1c5f5811ed7154d1485e3a316e76fdbb8ebc",
     "verdict": "revised",
-    "reason": "Der gesamte Mini wurde auf Auswahl-, Gesundheits- und Zustellungsnachweise geprüft.",
+    "reason": "Auswahlfehler werden jetzt mit einer realistischen Beförderungschance verknüpft; der Mini verlangt keine spekulative Notenverbesserung. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert.",
     "changes": [
-      "Nach Antwort die betroffene Auswahlbewertung oder Frist prüfen und das beauftragte Schreiben fertigstellen."
-    ]
+      "Auswahlentscheidung, Beurteilungsfehler und reale Beförderungschance statt allgemeiner Auftragserledigung.",
+      "Einstieg auf Auswahl-, Status- und Zahlungsbegehren zugeschnitten.",
+      "Fiktive Fortschreibung und ernsthafte Auswahlchance fallbezogen verbunden; ungeprüfte Entscheidungsliste entfernt.",
+      "Leerstart: Auswahl-Eilsicherung, Beurteilung oder Gesundheits- und Bezügeprüfung anbieten. Dateien: Personal- und Auswahlunterlagen still lesen und passenden Weg klären. Klarer Auftrag: Bestelltes Gutachten, Schreiben oder Antrag unmittelbar ausarbeiten.",
+      "Stillhaltezusage ändert Eilgrund; erfolgte Ernennung verlangt neuen Rechtsschutzabgleich; Funktionsbeschränkung ändert Gutachterfragen."
+    ],
+    "sha256": "fc5fcadac17c714896a8fcbcde37cbe533d4dfbf4530d42c6fce8d4f166a9d83"
   },
   "selection": {
     "positive": [
@@ -68,10 +92,52 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die vollständige Werkstatt wurde auf Statusbezug und tatsächlich erforderliche Eilsicherung durchgesehen.",
+    "reason": "Die Werkstatt prüft zusätzlich fiktive Fortschreibung, Vergleichsgruppen und Beförderungsverläufe anhand der entscheidenden Beschlussgründe; allgemeine Entscheidungslisten wurden entfernt. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen.",
     "changes": [
-      "Auswahlvermerk und medizinische Grundlagen in den Ablauf eingebunden; begrenzte Dienstfähigkeit nicht mit Dienstunfähigkeit gleichgesetzt."
+      "Einstieg auf Auswahl-, Status- und Zahlungsbegehren zugeschnitten.",
+      "Fiktive Fortschreibung und ernsthafte Auswahlchance fallbezogen verbunden; ungeprüfte Entscheidungsliste entfernt.",
+      "Auswahlchance und Vollzugsstand, falscher Beurteilungszeitraum, funktionelle Gesundheitsfragen und konsistente Bescheidrechnung.",
+      "Stillhaltezusage ändert Eilgrund; erfolgte Ernennung verlangt neuen Rechtsschutzabgleich; Funktionsbeschränkung ändert Gutachterfragen."
     ],
-    "sha256": "7f19761ce887abf522fc7e4a915ecd2e259cdd4aa222526d91faa994f84d591d"
+    "sha256": "8678037aef591629d60823c457b71e7b422dc0af4799ffd2c0ff34cddfe58a97"
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leerstart: Auswahl-Eilsicherung, Beurteilung oder Gesundheits- und Bezügeprüfung anbieten.",
+      "Dateien: Personal- und Auswahlunterlagen still lesen und passenden Weg klären.",
+      "Klarer Auftrag: Bestelltes Gutachten, Schreiben oder Antrag unmittelbar ausarbeiten."
+    ],
+    "continuation": "Stillhaltezusage ändert Eilgrund; erfolgte Ernennung verlangt neuen Rechtsschutzabgleich; Funktionsbeschränkung ändert Gutachterfragen.",
+    "enrichment": "Auswahlchance und Vollzugsstand, falscher Beurteilungszeitraum, funktionelle Gesundheitsfragen und konsistente Bescheidrechnung.",
+    "limits": "desk review; no live client execution"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "method": "desk_review",
+    "files": [
+      "beamtenrecht/README.md",
+      "beamtenrecht/beamtenrecht-werkstatt.md",
+      "beamtenrecht/beamtenrecht-schnellstart.md",
+      "quality/evals/beamtenrecht.json"
+    ],
+    "opening_change": "Auswahlentscheidung, Beurteilungsfehler und reale Beförderungschance statt allgemeiner Auftragserledigung.",
+    "norms": [
+      "Artikel 33 Absatz 2 GG",
+      "Paragraf 123 VwGO"
+    ],
+    "decisions": [
+      {
+        "citation": "BVerwG, Beschluss vom 3. März 2025, 2 VR 4.24, Randnummern 46–49, 60–68",
+        "url": "https://www.bverwg.de/030325B2VR4.24.0",
+        "application": "Reale Auswahlchance trotz unterstelltem Beurteilungsfehler; bei fiktiver Fortschreibung Vergleichsgruppe und Beförderungen prüfen.",
+        "limit": "Keine willkürliche Notenverbesserung; damaliger gesetzlicher Übergang ist nicht ungeprüft heutiges Recht."
+      }
+    ],
+    "remaining_limits": [
+      "Landesrecht und spätere Rechtsgrundlagen fiktiver Fortschreibung fallbezogen aktuell zu prüfen; keine vollständige Rechtsprüfung sämtlicher Teilmaterien.",
+      "Workflow-Anschlussprüfung 23.09.2026: individuelle Text- und Quellenprüfung, keine Live-Client-Ausführung. Frühere Entscheidungsprüfungen und ihre Reichweitengrenzen bleiben unverändert; keine erneute vollständige Rechtsprechungsprüfung behauptet."
+    ]
   }
 }

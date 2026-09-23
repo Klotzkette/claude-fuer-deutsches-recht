@@ -1,8 +1,10 @@
 # 1. Öffentliches Wirtschaftsrecht: Projekt und Träger entscheiden
 
-Prüfe die geplante öffentliche Kooperation oder Projektfinanzierung und verfasse die bestellte Entscheidungsvorlage oder Vertragsregel. Verbinde dabei öffentliche Aufgabe, Trägerstruktur, Beschaffung und Finanzierung.
+Prüfe, ob die Gemeinde den vorgesehenen Betriebs- oder Bauauftrag unmittelbar an ihre Gesellschaft vergeben darf und welche Kontroll-, Finanzierungs- und Rückgaberegeln das Projekt benötigt. Verfasse daraus die beauftragte Ratsvorlage oder Vertragsregel; bei einer anderen öffentlichen Kooperation untersuche deren tatsächliche Leistungsbeziehungen.
 
-Lies Gesellschaftsvertrag, Leistungsbeschreibung, Beschlussvorlage und Finanzierungsmodell nach ihrer Bedeutung für die Entscheidung. Übernimm bekannte Rollen und Ziele aus dem Auftrag; beginne bei einer kommunalen Kooperation nicht mit einer Gewerbeuntersagung.
+Ohne Sachverhalt biete kurz drei Wege an: „Geht es um einen Direktauftrag an die eigene Gesellschaft, einen Bau- und Betriebsvertrag oder die Finanzierung des Projekts?“ Bei Unterlagen ohne Auftrag lies sie zunächst still und frage nur, welche Entscheidung oder welcher Entwurf gewünscht ist. Bei klarem Auftrag arbeite unmittelbar daran; frage nur nach entscheidenden Lücken. Keine Startübersicht und keine ungefragte Zusammenfassung des Materials.
+
+Lies verfügbare Gesellschaftsverträge, Leistungsbeschreibungen, Beschlussvorlagen und Finanzierungsmodelle nach ihrer Bedeutung für die Entscheidung. Übernimm bekannte Rollen und Ziele; beginne bei einer kommunalen Kooperation nicht mit einer Gewerbeuntersagung.
 
 ## 1.1. Leistungs- und Beteiligungsbild
 
@@ -14,17 +16,21 @@ Für eine öffentlich-private Partnerschaft ordne Grundstück, Bauleistung, Betr
 
 Prüfe eine behauptete Inhouse-Ausnahme anhand GWB Paragraf 108, nicht anhand des Etiketts „kommunal“. Für Absatz 1 sind ähnliche Kontrolle wie über eigene Dienststellen, mehr als 80 Prozent betraute Tätigkeiten und die gesetzlichen Anforderungen an private Kapitalbeteiligungen getrennt zu untersuchen. Genau 80 Prozent genügen nicht. Leite Kontrollmöglichkeiten aus dokumentierten Entscheidungsrechten ab; die Eigentumsquote allein ersetzt diese Prüfung nicht.
 
-Ordne Erlöse beziehungsweise den zulässigen Tätigkeitsmaßstab den tatsächlich betrauten Aufgaben zu. Der Sitz eines Kunden im Gemeindegebiet macht dessen Auftrag nicht zum Auftrag der Gemeinde. Weise Zähler, Nenner, Zeitraum und Datenquelle aus; verifiziere die einschlägige Berechnungsvorgabe der Norm. Gemeinsame Kontrolle mehrerer Träger und öffentlich-öffentliche Kooperation sind eigene Varianten, keine automatische Rettung eines gescheiterten Einzelträgersachverhalts.
+Bei weitgehend autonomer Geschäftsleitung prüfe besonders die Zustimmungsvorbehalte: EuGH, Urteil vom 11. Mai 2006, C-340/04, Carbotermo, Rn. 36–40 ([amtlicher Volltext](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:62004CJ0340)), lässt vollständiges öffentliches Eigentum allein nicht als dienststellenähnliche Kontrolle genügen. Eine Holding kann den Einfluss abschwächen, schließt Inhouse aber nicht stets aus. Heute ist Paragraf 108 Absatz 2 GWB maßgeblich; die aktuelle Quote stammt nicht aus diesem Urteil.
+
+Ordne Erlöse beziehungsweise den zulässigen Tätigkeitsmaßstab den tatsächlich betrauten Aufgaben zu. Der Sitz eines Kunden im Gemeindegebiet macht dessen Auftrag nicht zum Auftrag der Gemeinde. Nach Paragraf 108 Absatz 7 GWB die erkennbare, inhaltlich festgelegte und rechtsverbindliche Aufgabenübertragung belegen; nach Absatz 8 grundsätzlich den Dreijahresdurchschnitt, bei fehlenden oder nicht aussagekräftigen Daten eine glaubhafte Prognose verwenden. Weise Zähler, Nenner, Zeitraum und Datenquelle aus. Gemeinsame Kontrolle nach Absätzen 4 und 5 und Kooperation nach Absatz 6 sind eigene Varianten, keine automatische Rettung eines gescheiterten Einzelträgersachverhalts.
 
 ## 1.3. Weitere Entscheidungstore
 
-Kommunalrechtliche Zulässigkeit anhand des betroffenen Landes, Aufgabenbezugs, Organzuständigkeit und Genehmigungslage prüfen. Ohne Landesangabe keinen bundesweit einheitlichen Subsidiaritätsmaßstab behaupten. Bei Zuschuss, Garantie oder verbilligter Überlassung Zahlung, Begünstigten, Gegenleistung und Vergleichsmaßstab erfassen; eine Vergabeausnahme erledigt die Beihilfenfrage nicht. Finanzierungsvorbehalte und erforderliche Beschlüsse als echte Vollzugsvoraussetzungen im Entwurf behandeln, nicht als erledigte Formalitäten.
+Kommunalrechtliche Zulässigkeit anhand des betroffenen Landes, Aufgabenbezugs, Organzuständigkeit und Genehmigungslage prüfen. Ohne Landesangabe keinen bundesweit einheitlichen Subsidiaritätsmaßstab behaupten. Bei Zuschuss, Garantie oder verbilligter Überlassung Zahlung, Begünstigten, Gegenleistung und Vergleichsmaßstab erfassen; Artikel 107 Absatz 1 und Artikel 108 Absatz 3 AEUV einschließlich einer belegten Ausnahme vom Durchführungsverbot prüfen. Eine Vergabeausnahme erledigt die Beihilfenfrage nicht. Finanzierungsvorbehalte und erforderliche Beschlüsse als echte Vollzugsvoraussetzungen im Entwurf behandeln, nicht als erledigte Formalitäten.
 
 ## 1.4. Entscheidungsvorlage liefern
 
 Fehlt die Zuordnung der Umsätze zu betrauten Tätigkeiten, fordere die Auftrags- und Erlösaufteilung für den maßgeblichen Zeitraum an. Fehlen Kontrollrechte, frage nach Gesellschaftsvertrag und einschlägigen Zustimmungsvorbehalten. Ein fehlender Beleg wird nicht durch die Annahme ersetzt, alle Umsätze oder Entscheidungen seien kommunal zuzurechnen.
 
 Nach Eingang berechne den Tätigkeitsanteil neu beziehungsweise ergänze die Kontrollprüfung und passe die Empfehlung zum Direktauftrag an. Ergibt sich daraus eine weitere entscheidende Lücke, frage gezielt nach; bekannte Angaben nicht erneut aufnehmen. Bereits tragfähige Teile der Vorlage vorläufig ausarbeiten und nach Klärung bis zum bestellten Ergebnis fortsetzen.
+
+Beispiel: „Die 20 Prozent Fremdumsatz enthalten einen ausdrücklich übertragenen Nachbarortbetrieb.“ Prüfe zuerst Auftraggeber, Betrauung und zulässige Zurechnung, statt die Quote sofort zu erhöhen. Ändere im bestehenden Zielpfad, etwa `ratsvorlage.md`, die Umsatzzuordnung, Rechnung und Beschlussempfehlung zusammen. Ein neuer Zahlungstermin verändert dagegen den Finanzierungsvorbehalt; er beseitigt keine fehlende Kontrolle. Ohne Schreibzugriff liefere die Ersatzfassung mit benanntem Zielpfad, ohne eine Speicherung zu behaupten.
 
 Liefere die angeforderte Vorlage oder Vertragsregel vollständig ausformuliert unter dem gewünschten Dateinamen. Ohne Formatvorgabe eignen sich Projektentscheidung, tragende Befunde, verbleibende Genehmigungs- und Vergabeschritte sowie wirtschaftliche Folgen. Begründe einen nicht tragfähigen Direktauftrag anhand des konkreten fehlenden Merkmals und zeige den nächsten prüfbaren Weg, ohne ungefragte Organisationsreform oder Klage.
 

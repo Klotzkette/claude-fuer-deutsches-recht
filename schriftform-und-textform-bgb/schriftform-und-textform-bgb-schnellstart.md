@@ -1,6 +1,8 @@
 # 1. Schriftform und Textform: Schnellstart
 
-Prüfe die konkrete Erklärung oder Vereinbarung, nicht abstrakt „die Unterschrift“. Lies vollständigen Vertrag, Formklausel, Erklärung, Signaturdaten und Zugangsbeleg zuerst. Liefere einen Form- und Zugangsvermerk oder einen korrigierten Entwurf entsprechend dem Auftrag.
+Ohne Eingabe biete „Erklärung auf Form und Zugang prüfen“, „Nachtrag korrigieren“ oder „Signatur- und Fassungsnachweise abgleichen“ an. Dateien ohne Aufgabe still lesen und Ziel klären; keine Materialübersicht. Bei klarem Auftrag direkt arbeiten. Antworten ändern konkrete Fassung, Zugangstag und Korrekturtext ohne Neustart. Keine Plugin-Dateien voraussetzen.
+
+Prüfe, ob die konkrete Kündigung, Befristung, Vertragsänderung oder andere Erklärung in der erforderlichen Form rechtzeitig zugegangen ist. Lies Vertrag, Formklausel, Erklärungsfassung, Signaturdaten und Übermittlungsbelege zuerst. Liefere den bestellten Form- und Zugangsvermerk oder den korrigierten Erklärungstext.
 
 ## 1.1. Erklärung und Formgrund bestimmen
 
@@ -14,7 +16,7 @@ Schriftform nach Paragraf 126 BGB, elektronische Form nach Paragraf 126a BGB und
 
 Bei arbeitsrechtlicher Kündigung und Auflösungsvertrag verlangt Paragraf 623 BGB Schriftform und schließt die elektronische Form aus. Daher nicht allein wegen einer qualifizierten elektronischen Signatur freigeben. Quelle: https://www.gesetze-im-internet.de/bgb/__623.html
 
-Bei vereinbarter Form die genaue Klausel und Paragraf 127 BGB auslegen, statt die strengste gesetzliche Form automatisch zu übertragen. Besondere Regeln für Befristung, Miete oder Bürgschaft nur nach aktuellem Norm- und Übergangsrechtscheck anwenden.
+Bei vereinbarter Form die Klausel und Paragraf 127 BGB auslegen, statt gesetzliche Schriftform automatisch zu übertragen. Befristung nach Paragraf 14 Absatz 4 TzBfG und Bürgschaft nach Paragraf 766 BGB haben eigene Formregeln. Für langfristige Grundstücks- und Gewerberaummiete gilt nach Paragraf 578 Absätze 1 und 2 BGB Textform; Altverträge und frühere Erklärungen anhand Artikel 229 Paragraf 70 Absatz 1 EGBGB zeitlich zuordnen. Die dortige Fortgeltung alten Rechts endete mit Ablauf des 1. Januar 2026; eine Änderung ab 1. Januar 2025 konnte bereits früher zum neuen Recht führen. Kein allgemeines Schriftformerfordernis für heutige Gewerbemietverträge behaupten.
 
 ## 1.3. Zugang ist eine zweite Prüfung
 
@@ -22,9 +24,13 @@ Formwirksamkeit und rechtzeitiger Zugang sind unterschiedliche Fragen. Erfasse, 
 
 Ordne Original, Scan, E-Mail-Anhang, Portalnachricht und Briefversand jeweils zu. Notiere Versandzeit, behaupteten Zugang, Empfangsnachweis und verbleibende Beweisfrage. Keine Formheilung durch bloßen Empfang behaupten und keine Frist rückdatieren.
 
-Gerichtliche Einreichungen nach Paragraf 130a ZPO und anderen Prozessordnungen gesondert behandeln. Die zivilrechtliche Textform ist kein allgemeiner Freibrief für eine einfache E-Mail an das Gericht.
+[BGH, Urteil vom 6. Oktober 2022, VII ZR 895/21](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=Aktuell&Gericht=bgh&Sort=12288&anz=750&nr=131581&pos=11): Im unternehmerischen Geschäftsverkehr geht eine E-Mail grundsätzlich bereits mit abrufbarer Bereitstellung auf dem Empfängerserver während üblicher Geschäftszeiten zu. Tatsächliches Lesen ist nicht erforderlich. Daraus folgt weder ein Nachweis allein durch den Gesendet-Ordner noch dieselbe Zugangszeit bei Privatempfängern oder außerhalb der Geschäftszeiten.
+
+Gerichtliche Einreichungen nach Paragraf 130a ZPO gesondert behandeln. [Paragraf 130e ZPO](https://www.gesetze-im-internet.de/zpo/__130e.html) und Paragraf 46h ArbGG enthalten eine Formfiktion für klar erkennbare Willenserklärungen in formgerecht elektronisch eingereichten und dem Empfänger zugestellten oder mitgeteilten vorbereitenden Schriftsätzen, auch bei Ausschluss elektronischer Ersetzung. Bloße Einreichung, direkte E-Mail und spätere gerichtliche Übermittlung nicht gleichsetzen; Vertretung und Zugangstag zusätzlich prüfen.
 
 ## 1.4. Ergebnis und sichere Korrektur
+
+„Der Prüfbericht gehört zur Vorversion“ lässt die aktuelle Signaturprüfung offen; daraus folgt noch kein nachgewiesener Formmangel. „Nur eine Partei hat die geänderte Fassung signiert“ führt zum Inhaltsabgleich beider Dokumente nach Paragraf 126a Absatz 2 BGB. „Der Schriftsatz wurde gestern nur eingereicht“ reicht nicht als gerichtliche Übermittlung nach Paragraf 130e ZPO. Passe den Vermerk und den noch möglichen Erklärungstext genau an diese Antwort an.
 
 Begründe den Formbefund anhand der konkreten Erklärung, Formgrundlage, Fassung, Signatur und Zugangsnachweise. Formmangel, Zugangslücke und ungeprüfte Technik erhalten getrennte Ergebnisse. Ist die Frist offen, zeige eine rechtzeitig prüfbare Alternative; verspreche keine rückwirkende Reparatur. Eine Tabelle ist nur bei mehreren Fassungen oder Übermittlungswegen nötig.
 

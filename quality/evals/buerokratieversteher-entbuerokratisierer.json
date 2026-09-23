@@ -1,8 +1,139 @@
 {
-  "schema_version":1,"plugin":"buerokratieversteher-entbuerokratisierer","reviewed_on":"2026-09-18",
-  "sources":[{"url":"https://www.gesetze-im-internet.de/sgb_10/__24.html","checked_on":"2026-09-14","supports":"Gelegenheit zur Äußerung zu entscheidungserheblichen Tatsachen vor belastendem sozialrechtlichem Verwaltungsakt."}],
-  "mini_review":{"sha256":"e94cbd18316037d553a62a7a392878b17fd0e246af5666dacd6a19d978791bfe","verdict":"retained","reason":"Aktuellen Mini vollständig gelesen. Fehlende Briefseiten und ungeklärte Zahlungseingänge werden gezielt geklärt; danach werden Sachverhalt und bestellter Antwortbrief fortgeschrieben. Anhörung bleibt vom Bescheid getrennt, Anerkenntnis und Ratenantrag werden nicht ungefragt ergänzt. Kein neuer Abbruchwiderspruch; keine neue Quellen- oder Live-Modellprüfung.","changes":[]},
-  "workshop_review":{"sha256":"1a73626450fca2743b986852d9b1e9622ad0149dfc283182bee70ea6463e9fce","verdict":"retained","reason":"Werkstatt vollständig gelesen. Fristen werden nach Verfahrensart bestimmt; Sozialleistung, Bußgeld, Aufenthalt und Informationszugang bleiben getrennte Wege. Kontoauszug und Zahlungsgrund werden nicht gleichgesetzt. Verständnisauftrag darf mit Erklärung enden, bestellte Antwort erfordert ausformulierten Brief; fehlende Anlagen und Quellenstatus bleiben außerhalb des Empfängertextes. Keine erneute amtliche Verifikation oder Live-Modellprüfung.","changes":[]},
-  "selection":{"positive":["Erklären Sie mir das Anhörungsschreiben des Jobcenters und schreiben Sie eine kurze Antwort.","Sagen Sie anhand dieser Behördenpost, welche Unterlagen ich bis wann nachreichen soll."],"negative":["Erstellen Sie einen volkswirtschaftlichen Gesetzentwurf zum allgemeinen Bürokratieabbau.","Verfassen Sie eine höchstrichterliche Revisionsbegründung zu einer komplexen Steuerrechtsfrage."]},
-  "cases":[{"id":"anhoerung-statt-rueckforderungsbescheid","request":"Ich verstehe diesen Brief nicht gut und brauche eine kurze Erklärung sowie einen Antwortentwurf. Das Jobcenter schreibt am 8. September 2026, Aktenzeichen JC-41: Wir beabsichtigen, für August 450 Euro zurückzufordern, weil Sie Arbeitsentgelt erhalten haben. Sie können sich bis zum 22. September äußern. Eine Entscheidung ist noch nicht ergangen. Ich erhielt den Brief am 10. September. Die 450 Euro waren laut vorhandenem Kontoauszug die Rückzahlung meiner eigenen Mietkaution vom früheren Vermieter, kein Arbeitslohn; ich war im August nicht beschäftigt. Bitte schreiben Sie nicht, dass ich die Forderung anerkenne oder Raten möchte. Prüfen Sie hier nicht abschließend die sozialrechtliche Behandlung einer Kautionsrückzahlung; ich möchte zunächst den Sachverhalt richtigstellen. Senden Sie nichts ab.","input_files":[],"deliverables":["ergebnis.md"],"criteria":[{"id":"C01","text":"Die Erklärung stellt klar, dass eine Anhörung mit Äußerungsmöglichkeit bis zum 22. September vorliegt und noch kein Rückforderungsbescheid, ohne sofort eine Zahlungspflicht als entschieden darzustellen.","deliverables":["ergebnis.md"]},{"id":"C02","text":"Der Antwortentwurf korrigiert Arbeitsentgelt zu Kautionsrückzahlung, nennt die fehlende Beschäftigung und ordnet den Kontoauszug als Beleg zu, ohne die materielle Leistungsfrage abschließend zu entscheiden.","deliverables":["ergebnis.md"]},{"id":"C03","text":"Der Entwurf enthält weder Forderungsanerkenntnis noch Ratenzahlungsantrag oder routinemäßigen Widerspruch gegen einen nicht vorhandenen Bescheid; Sprache und nächste Handlung sind für Laien verständlich.","deliverables":["ergebnis.md"]}],"target_skill":"anhoerung-vor-bescheid"}]
+  "schema_version": 1,
+  "plugin": "buerokratieversteher-entbuerokratisierer",
+  "reviewed_on": "2026-09-23",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/sgb_10/__24.html",
+      "checked_on": "2026-09-14",
+      "supports": "Gelegenheit zur Äußerung zu entscheidungserheblichen Tatsachen vor belastendem sozialrechtlichem Verwaltungsakt."
+    },
+    {
+      "url": "https://www.bsg.bund.de/SharedDocs/Downloads/DE/Entscheidungen/2024/2024_12_03_B_02_U_13_22_R.pdf?__blob=publicationFile&v=2",
+      "checked_on": "2026-09-22",
+      "supports": "BSG, Urteil vom 3. Dezember 2024, B 2 U 13/22 R, Randnummern 14–25: Tragende Tatsachen mitteilen, Äußerungsfrist abwarten und wirksame Nachholung prüfen; Widerspruch allein heilt nicht. Grenze: Ausnahmen einschließlich abschließender frühzeitiger Äußerung beachten; besondere Dauerrentenfolge nicht auf Bürgergeld übertragen. Amtliche tragende Gründe gelesen; keine Vollverifikation der gesamten Materie."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/sgb_10/__24.html",
+      "checked_on": "2026-09-22",
+      "supports": "Anhörung zu entscheidungserheblichen Tatsachen und gesetzliche Ausnahmen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/sgb_10/__41.html",
+      "checked_on": "2026-09-22",
+      "supports": "Heilung durch tatsächlich nachgeholte Anhörung, nicht bloß durch Einlegung eines Widerspruchs."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/owig_1968/__67.html",
+      "checked_on": "2026-09-23",
+      "supports": "Zweiwochenfrist ab Zustellung des Bußgeldbescheids bei der erlassenden Behörde; keine Übertragung auf andere Behördenbriefe."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Der Mini unterscheidet Anhörung und verbindlichen Bescheid und führt einen vermeintlichen Einkommenszufluss über gezielte Tatsachenkorrektur zur fertigen Antwort. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert.",
+    "changes": [
+      "Verbindliche Entscheidung, Stellungnahme und Nachforderung zuerst unterscheiden; Tatsachenkorrektur statt automatischem Rechtsbehelf.",
+      "Konkreter Briefinhalt und beauftragte Tatsachenkorrektur bestimmen den Auftakt.",
+      "Sozialrechtliche Anhörung, Heilung und Ausnahmegrenzen mit geprüfter BSG-Entscheidung verknüpft.",
+      "Leer: Brief erklären, Tatsachen berichtigen oder Nachweise klären. Dateien: still lesen und Erklärung, Antwort oder Nachreichung anbieten. Klar: bestellten verständlichen Brief direkt erstellen.",
+      "Nachgereichter Bescheid ändert Verfahrensstufe; belegter Rückzahlungsgrund ändert Sachverhalt statt ungefragtem Anerkenntnis."
+    ],
+    "sha256": "f05efc2de3ce4096fc28b44a31f55f945338a156397a358506bd61a029579c85"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Die Werkstatt erklärt das Behördenhandeln mit konkreten Folgen und wahrt die sozialrechtliche Anhörungsfrist; Widerspruch und wirksame Nachholung werden nicht mehr gleichgesetzt. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen.",
+    "changes": [
+      "Konkreter Briefinhalt und beauftragte Tatsachenkorrektur bestimmen den Auftakt.",
+      "Sozialrechtliche Anhörung, Heilung und Ausnahmegrenzen mit geprüfter BSG-Entscheidung verknüpft.",
+      "Anhörung/Bescheid-Wechsel, Zahlungsgrund, gezielte Nachreichung, Bußgeldfrist und Trennung von Bestreiten und Ratenantrag vertieft.",
+      "Nachgereichter Bescheid ändert Verfahrensstufe; belegter Rückzahlungsgrund ändert Sachverhalt statt ungefragtem Anerkenntnis."
+    ],
+    "sha256": "e89496ac77d95d3162093f748d198be2c7e5e6e75613eeda06bd84ac06f27e36"
+  },
+  "selection": {
+    "positive": [
+      "Erklären Sie mir das Anhörungsschreiben des Jobcenters und schreiben Sie eine kurze Antwort.",
+      "Sagen Sie anhand dieser Behördenpost, welche Unterlagen ich bis wann nachreichen soll."
+    ],
+    "negative": [
+      "Erstellen Sie einen volkswirtschaftlichen Gesetzentwurf zum allgemeinen Bürokratieabbau.",
+      "Verfassen Sie eine höchstrichterliche Revisionsbegründung zu einer komplexen Steuerrechtsfrage."
+    ]
+  },
+  "cases": [
+    {
+      "id": "anhoerung-statt-rueckforderungsbescheid",
+      "request": "Ich verstehe diesen Brief nicht gut und brauche eine kurze Erklärung sowie einen Antwortentwurf. Das Jobcenter schreibt am 8. September 2026, Aktenzeichen JC-41: Wir beabsichtigen, für August 450 Euro zurückzufordern, weil Sie Arbeitsentgelt erhalten haben. Sie können sich bis zum 22. September äußern. Eine Entscheidung ist noch nicht ergangen. Ich erhielt den Brief am 10. September. Die 450 Euro waren laut vorhandenem Kontoauszug die Rückzahlung meiner eigenen Mietkaution vom früheren Vermieter, kein Arbeitslohn; ich war im August nicht beschäftigt. Bitte schreiben Sie nicht, dass ich die Forderung anerkenne oder Raten möchte. Prüfen Sie hier nicht abschließend die sozialrechtliche Behandlung einer Kautionsrückzahlung; ich möchte zunächst den Sachverhalt richtigstellen. Senden Sie nichts ab.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die Erklärung stellt klar, dass eine Anhörung mit Äußerungsmöglichkeit bis zum 22. September vorliegt und noch kein Rückforderungsbescheid, ohne sofort eine Zahlungspflicht als entschieden darzustellen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Der Antwortentwurf korrigiert Arbeitsentgelt zu Kautionsrückzahlung, nennt die fehlende Beschäftigung und ordnet den Kontoauszug als Beleg zu, ohne die materielle Leistungsfrage abschließend zu entscheiden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Der Entwurf enthält weder Forderungsanerkenntnis noch Ratenzahlungsantrag oder routinemäßigen Widerspruch gegen einen nicht vorhandenen Bescheid; Sprache und nächste Handlung sind für Laien verständlich.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "anhoerung-vor-bescheid"
+    }
+  ],
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Brief erklären, Tatsachen berichtigen oder Nachweise klären.",
+      "Dateien: still lesen und Erklärung, Antwort oder Nachreichung anbieten.",
+      "Klar: bestellten verständlichen Brief direkt erstellen."
+    ],
+    "continuation": "Nachgereichter Bescheid ändert Verfahrensstufe; belegter Rückzahlungsgrund ändert Sachverhalt statt ungefragtem Anerkenntnis.",
+    "enrichment": "Anhörung/Bescheid-Wechsel, Zahlungsgrund, gezielte Nachreichung, Bußgeldfrist und Trennung von Bestreiten und Ratenantrag vertieft.",
+    "limits": "desk review; no live client execution"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "method": "desk_review",
+    "files": [
+      "buerokratieversteher-entbuerokratisierer/README.md",
+      "buerokratieversteher-entbuerokratisierer/buerokratieversteher-entbuerokratisierer-werkstatt.md",
+      "buerokratieversteher-entbuerokratisierer/buerokratieversteher-entbuerokratisierer-schnellstart.md",
+      "quality/evals/buerokratieversteher-entbuerokratisierer.json"
+    ],
+    "opening_change": "Verbindliche Entscheidung, Stellungnahme und Nachforderung zuerst unterscheiden; Tatsachenkorrektur statt automatischem Rechtsbehelf.",
+    "norms": [
+      "Paragraf 24 SGB X",
+      "Paragraf 41 Absatz 1 Nummer 3 und Absatz 2 SGB X",
+      "Paragraf 42 Satz 2 SGB X"
+    ],
+    "decisions": [
+      {
+        "citation": "BSG, Urteil vom 3. Dezember 2024, B 2 U 13/22 R, Randnummern 14–25",
+        "url": "https://www.bsg.bund.de/SharedDocs/Downloads/DE/Entscheidungen/2024/2024_12_03_B_02_U_13_22_R.pdf?__blob=publicationFile&v=2",
+        "application": "Tragende Tatsachen mitteilen, Äußerungsfrist abwarten und wirksame Nachholung prüfen; Widerspruch allein heilt nicht.",
+        "limit": "Ausnahmen einschließlich abschließender frühzeitiger Äußerung beachten; besondere Dauerrentenfolge nicht auf Bürgergeld übertragen."
+      }
+    ],
+    "remaining_limits": [
+      "Keine abschließende Prüfung aller Sozialleistungs-, Steuer-, Aufenthalts- oder Landesrechtswege; Verständnishilfe bleibt ohne ungefragte Prozessführung.",
+      "Workflow-Anschlussprüfung 23.09.2026: individuelle Text- und Quellenprüfung, keine Live-Client-Ausführung. Frühere Entscheidungsprüfungen und ihre Reichweitengrenzen bleiben unverändert; keine erneute vollständige Rechtsprechungsprüfung behauptet."
+    ]
+  }
 }

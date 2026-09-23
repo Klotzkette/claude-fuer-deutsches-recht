@@ -1,8 +1,10 @@
 # 1. Kriegsdienstverweigerung: persönliche Gründe und Verfahren ordnen
 
-Unterstütze bei der wahrheitsgemäßen Darstellung einer eigenen Gewissensentscheidung und beim Abgleich des konkreten Verfahrensstands. Keine fremde Lebensgeschichte, keine Erfolgsformel und keine Anerkennungsgarantie.
+Arbeite aus den eigenen Notizen heraus, weshalb Kriegsdienst mit der Waffe für die Person eine bindende Gewissensgrenze bildet, und gleiche Antrag, Behördenweg und anstehende Termine ab. Verfasse den beauftragten persönlichen Text oder Verfahrensbrief, ohne fremde Lebensgeschichte, Erfolgsformel oder Anerkennungsgarantie.
 
 ## 1.1. Person und Verfahrensstand zuerst
+
+Ohne Angaben biete knapp an: „Eigene Begründung redigieren, Antrag und Behördenweg ordnen oder ein Behörden-/Dienstschreiben prüfen?“ Bei Dateien ohne Auftrag lies sie still und kläre nur das gewünschte Ergebnis. Bei klarem Auftrag beginne direkt; frage ausschließlich entscheidende Lücken nach, ohne Lebenslaufzusammenfassung oder vorgeschriebene Dialogrunden.
 
 Erfasse Alter, bisherigen Wehrdienst, aktives Dienstverhältnis oder Reservistenstatus, vorhandenen Antrag, Eingangsnachweis, behördliche Schreiben und konkrete Termine. Lies vorhandenen Lebenslauf und persönliche Notizen vor Rückfragen. Politische Ablehnung eines Einsatzes, gesundheitliche Gründe und Gewissensentscheidung gegen Kriegsdienst mit der Waffe sind unterschiedliche Anliegen; vermische sie nicht.
 
@@ -16,7 +18,9 @@ Prüfe den aktuellen Weiterleitungsweg einschließlich besonderer Regeln für Un
 
 ## 1.3. Persönliche Darstellung behutsam bearbeiten
 
-Arbeite nur mit den eigenen Angaben der Person. Ordne prägende Erfahrungen, Entwicklung der Haltung, heutigen Gewissenskonflikt und den Bezug zum Kriegsdienst mit der Waffe. Frage gezielt, was eine abstrakte Aussage wie „Ich kann das nicht verantworten“ persönlich bedeutet. Eine allmähliche Entwicklung benötigt kein erfundenes einzelnes Schlüsselerlebnis.
+Arbeite nur mit den eigenen Angaben der Person. Ordne prägende Erfahrungen, Entwicklung der Haltung, heutigen Gewissenskonflikt und den Bezug zum Kriegsdienst mit der Waffe. Frage gezielt, was eine abstrakte Aussage wie „Ich kann das nicht verantworten“ persönlich bedeutet.
+
+BVerwG, Beschluss vom 03.08.2018, 6 B 124.18, Rn. 10 bis 14 ([Volltext](https://www.bverwg.de/030818B6B124.18.0)), verlangt eine unbedingt bindende Gewissensentscheidung; bei bereits geleistetem Waffendienst ist der Wandel zu erläutern. Dieser darf allmählich verlaufen, ein Schlüsselerlebnis ist nicht zwingend. Prüfe deshalb die persönliche Entwicklung statt eine Geschichte zu ergänzen. Die Entscheidung betrifft gerichtliche Aufklärung beim Berufssoldaten, nicht automatische Anerkennung oder ein zusätzliches Formerfordernis für Ungediente.
 
 Verbessere Verständlichkeit und Reihenfolge eines vorhandenen Textes, ohne Überzeugungen zu verstärken oder neue Erlebnisse einzufügen. Kennzeichne offene Stellen als Rückfrage außerhalb einer zur Einreichung gedachten Fassung. Ein allgemeines Muster darf die eigene Darstellung nicht ersetzen. Weise ausdrücklich darauf hin, dass die Person die endgültige persönliche Begründung selbst verantworten und auf ihre tatsächlichen Beweggründe zurückführen muss.
 
@@ -25,6 +29,8 @@ Nach einer persönlichen Erläuterung überarbeite die betroffene Passage und gl
 Gleiche Lebenslauf und Begründung bei Daten und äußeren Ereignissen ab. Eine abweichende frühere Haltung nicht verbergen; die Person kann eine tatsächliche Entwicklung erläutern. [Paragraf 5 KDVG](https://www.gesetze-im-internet.de/kdvg_2003/__5.html) knüpft die Anerkennung an Vollständigkeit, geeignete Beweggründe und die Prüfung des Gesamtvorbringens. Aus bloß sprachlicher Glätte keine Glaubhaftigkeit oder sichere Anerkennung ableiten.
 
 ## 1.4. Ergebnis und Grenzen
+
+Fortsetzung im bestehenden Dokument: Bestätigt die Person „Das Praktikum war 2022; meine Zweifel begannen schon vorher“, ändere in `begruendung-kommentar.md` Datum und Entwicklungsfolge, ohne einen neuen Auslöser zu erfinden. Nutzerpfad geht vor. Bei bestätigtem Behördenzugang ändere stattdessen die betroffene Frist im Verfahrensbrief; bereits geklärten Status nicht erneut erfragen.
 
 Liefere je Auftrag einen behutsam kommentierten Text, eine Unterlagenliste oder einen Verfahrensvermerk. Trenne unveränderte eigene Aussage, vorgeschlagene sprachliche Änderung und noch offene persönliche Erklärung. Für einen reinen Redaktionsauftrag keinen umfangreichen Eilantrag erstellen. Bei Widersprüchen die genaue Stelle und eine verständliche Rückfrage nennen, statt die günstigere Geschichte auszuwählen.
 

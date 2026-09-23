@@ -1,8 +1,160 @@
 {
-  "schema_version":1,"plugin":"berufsrecht-anwaelte","reviewed_on":"2026-09-18",
-  "sources":[{"url":"https://www.gesetze-im-internet.de/brao/BJNR005650959.html","checked_on":"2026-09-14","supports":"Amtlich indexierter Wortlaut des persönlichen Tätigkeitsverbots bei Vorberatung in derselben Rechtssache in Paragraf 43a Absatz 4."},{"url":"https://ao.bundesfinanzministerium.de/stberh/2025/G-Anhaenge/1-Gesetze-und-Verordnungen/2-BRAO/3-Dritter-Teil/1-Erster-Abschnitt/Paragraf-43a/paragraf-43a.html","checked_on":"2026-09-14","supports":"Amtliche Wiedergabe der Grundpflichten mit Differenzierung persönlichen Verbots und Erstreckung einschließlich Zustimmungsvoraussetzungen; Ausgabe 2025."},{"url":"https://www.gesetze-im-internet.de/brao/__43e.html","checked_on":"2026-09-14","supports":"Eigenständige Anforderungen an externe Geheimniszugriffe durch Dienstleister."}],
-  "mini_review":{"verdict":"revised","reason":"Aktuellen Mini vollständig gelesen. Kollisionsvergleich und Dienstleisterzugriff führen bereits zu konkreter Nachfrage und anschließender Fertigstellung. Die Ausgabe verlangte daneben noch unterschiedslos einen Freigabe- oder Ablehnungsvermerk, obwohl der Eingang den Nutzerauftrag priorisiert. Keine neue Quellenverifikation oder Live-Modellprüfung.","changes":["Zusätzlichen Freigabevermerk auf passende Annahmeentscheidungen begrenzt; bestellter Vertrag oder Brief bleibt eigenständiges Ergebnis."],"sha256":"b132700b097ebad6d13e162f06d2d30ac1b915b5ef8fad539160067fd8d428a7"},
-  "workshop_review":{"verdict":"retained","reason":"Werkstatt vollständig gelesen. Frühere Mandatsgegenstände, Dienstleisteranlagen und Kammerpost werden gezielt nachgefordert und in Kollisionsvermerk, Vertragsfassung oder Stellungnahme eingearbeitet. Fremdgeld, Fristorganisation und Haftung bleiben getrennte Prüfungen; weder Kammerantwort noch Tabellen sind Pflichtausgaben. Keine erneute rechtliche Verifikation und kein Live-Modelltest.","changes":[],"sha256":"897af5c38efec16fee3abf4b109d891ff777f8ea57b37495b94cc04a341c3483"},
-  "selection":{"positive":["Darf ich nach Beratung des Verkäufers nun den Käufer wegen derselben Vertragsklausel vertreten?","Prüfen Sie den Umgang unserer Kanzlei mit einem ungeklärten Fremdgeldeingang und formulieren Sie eine interne Weisung."],"negative":["Prüfen Sie die notarielle Unparteilichkeit bei meiner Beurkundung.","Erstellen Sie die steuerliche Berechnung der Einkünfte meiner Mandantin ohne berufsrechtliche Frage."]},
-  "cases":[{"id":"persoenlicher-seitenwechsel","request":"Einzelanwalt Paul Winter beriet im Mai 2026 die Verkäuferin Berg GmbH bei der Formulierung einer Haftungsbegrenzung im Maschinenkaufvertrag mit der Tal GmbH. Im September bittet Tal denselben Anwalt, gegen Berg wegen eines Maschinenschadens vorzugehen und genau diese Klausel zu Fall zu bringen. Winter hat niemanden beschäftigt und gehört keiner Berufsausübungsgesellschaft an. Beide Gesellschaften erklären per E-Mail, mit seinem Tätigwerden einverstanden zu sein. Eine Klagefrist läuft nicht. Erstellen Sie für Winter eine begründete Annahmeentscheidung und einen neutralen Antwortentwurf an Tal, ohne Inhalte der damaligen Beratung preiszugeben.","input_files":[],"deliverables":["ergebnis.md"],"criteria":[{"id":"C01","text":"Das Ergebnis erkennt dieselbe Rechtssache und den konkreten Interessenwiderstreit zwischen früherer Klauselgestaltung für Berg und geplantem Angriff für Tal.","deliverables":["ergebnis.md"]},{"id":"C02","text":"Die Zustimmung beider Gesellschaften wird nicht als Heilung des persönlichen Tätigkeitsverbots behandelt; eine Ausnahme für bloße Erstreckung wird nicht auf den allein vorbefassten Anwalt übertragen.","deliverables":["ergebnis.md"]},{"id":"C03","text":"Der Antwortentwurf lehnt die Übernahme nachvollziehbar und neutral ab, ohne die frühere Strategie oder vertrauliche Beratungsinhalte auszuführen oder eine nicht vorhandene andere Kanzleiperson als Lösung anzubieten.","deliverables":["ergebnis.md"]}],"target_skill":"interessenkollision"}]
+  "schema_version": 1,
+  "plugin": "berufsrecht-anwaelte",
+  "reviewed_on": "2026-09-23",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/brao/BJNR005650959.html",
+      "checked_on": "2026-09-14",
+      "supports": "Amtlich indexierter Wortlaut des persönlichen Tätigkeitsverbots bei Vorberatung in derselben Rechtssache in Paragraf 43a Absatz 4."
+    },
+    {
+      "url": "https://ao.bundesfinanzministerium.de/stberh/2025/G-Anhaenge/1-Gesetze-und-Verordnungen/2-BRAO/3-Dritter-Teil/1-Erster-Abschnitt/Paragraf-43a/paragraf-43a.html",
+      "checked_on": "2026-09-14",
+      "supports": "Amtliche Wiedergabe der Grundpflichten mit Differenzierung persönlichen Verbots und Erstreckung einschließlich Zustimmungsvoraussetzungen; Ausgabe 2025."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/brao/__43e.html",
+      "checked_on": "2026-09-14",
+      "supports": "Eigenständige Anforderungen an externe Geheimniszugriffe durch Dienstleister."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2014/IX_ZR_241-14.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 12. Mai 2016, IX ZR 241/14, Randnummern 7–19. Tatsächlicher Verstoß gegen das persönliche Tätigkeitsverbot führt über Paragraf 134 BGB zu Vertragsnichtigkeit und Wegfall vertraglicher Vergütung. Grenze: Im entschiedenen Fall lag gerade kein Interessenwiderstreit vor; Gebühreninteresse genügte nicht. Heutige Erstreckungsausnahmen im geänderten Paragraf 43a Absatz 4 BRAO gesondert prüfen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/brao/__43a.html",
+      "checked_on": "2026-09-22",
+      "supports": "Amtlicher Wortlaut geprüft: Absatz 4: persönlicher Interessenwiderstreit und Erstreckung auf gemeinsame Berufsausübung getrennt; informierte Textformzustimmung nach Satz 4 beseitigt nicht das persönliche Verbot nach Satz 1."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/brao/__43e.html",
+      "checked_on": "2026-09-22",
+      "supports": "Amtlicher Wortlaut geprüft: Zugang zu Geheimnissen bei Dienstleistern nur im erforderlichen Umfang, Auswahl-/Vertragsanforderungen und eigenständige Auslandsprüfung; Datenschutzvertrag ersetzt Berufsrecht nicht."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__134.html",
+      "checked_on": "2026-09-22",
+      "supports": "Amtlicher Wortlaut geprüft: Nichtigkeit gesetzeswidriger Rechtsgeschäfte, sofern sich aus dem Gesetz nichts anderes ergibt; mit tatsächlichem Tätigkeitsverbot und nicht allein Gebühreninteresse verknüpft."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/brao/__43a.html",
+      "checked_on": "2026-09-23",
+      "supports": "Persönlicher Interessenwiderstreit, Erstreckung und gesetzliche Ausnahme getrennt; Fremdgeld nicht allein wegen offener Rechnung als Honorar buchen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/brao/__43e.html",
+      "checked_on": "2026-09-23",
+      "supports": "Dienstleisterzugriff: Auswahl, Textformbindung, erforderlicher Zugang, weitere Personen, Auslandsschutz und Absatz 5 getrennt."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Persönlicher Seitenwechsel und bloße Sozietätserstreckung bleiben getrennt; der Vergütungsverlust wird an eine tatsächlich festgestellte Kollision geknüpft. Vollständige Text- und gezielte Primärquellenprüfung; kein Live-Mandanten- oder Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert.",
+    "changes": [
+      "Persönliches Verbot und Textformzustimmung zur Erstreckung präzisiert.",
+      "Vertragsnichtigkeit und Wegfall vertraglicher Vergütung aus IX ZR 241/14 eingeordnet.",
+      "Dienstleister-, Fristen-, Fremdgeld- und Aufsichtswege unverändert als auftragsabhängige Prüfungen erhalten.",
+      "Leer: Mandatskonflikt, Dienstleisterzugriff oder Fremdgeldklärung. Dateien: still lesen und Annahmevotum, Absage oder Regelung konkret auswählen lassen. Klar: bestelltes Dokument ohne Aufnahmeformular erstellen.",
+      "Andere vorbefasste Person führt von persönlichem Verbot zur Erstreckungsprüfung; neuer Supportzugriff ändert Vertragsnachtrag und Freigabe."
+    ],
+    "sha256": "5b1453f02d587efa149a5c2819e9d8e51b2e08c8af03407998cce7bc9f3a41ac"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Der Mandatsvergleich erhält eine belastbare Vertragsfolge; die fehlende Kollision im entschiedenen Gebührenmodell verhindert eine überweite Anwendung. Vollständige Text- und gezielte Primärquellenprüfung; kein Live-Mandanten- oder Modelltest. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen.",
+    "changes": [
+      "Persönliches Verbot und Textformzustimmung zur Erstreckung präzisiert.",
+      "Vertragsnichtigkeit und Wegfall vertraglicher Vergütung aus IX ZR 241/14 eingeordnet.",
+      "Dienstleister-, Fristen-, Fremdgeld- und Aufsichtswege unverändert als auftragsabhängige Prüfungen erhalten.",
+      "Mandatswechsel, wirksame Schutzorganisation, Dienstleisterketten, Teilzuordnung von Fremdgeld und Beweiswert von Versandprotokollen vertieft.",
+      "Andere vorbefasste Person führt von persönlichem Verbot zur Erstreckungsprüfung; neuer Supportzugriff ändert Vertragsnachtrag und Freigabe."
+    ],
+    "sha256": "514e7b3c2d3106b12808be03161f389f53555106320e23cdf34f17144475c1b7"
+  },
+  "selection": {
+    "positive": [
+      "Darf ich nach Beratung des Verkäufers nun den Käufer wegen derselben Vertragsklausel vertreten?",
+      "Prüfen Sie den Umgang unserer Kanzlei mit einem ungeklärten Fremdgeldeingang und formulieren Sie eine interne Weisung."
+    ],
+    "negative": [
+      "Prüfen Sie die notarielle Unparteilichkeit bei meiner Beurkundung.",
+      "Erstellen Sie die steuerliche Berechnung der Einkünfte meiner Mandantin ohne berufsrechtliche Frage."
+    ]
+  },
+  "cases": [
+    {
+      "id": "persoenlicher-seitenwechsel",
+      "request": "Einzelanwalt Paul Winter beriet im Mai 2026 die Verkäuferin Berg GmbH bei der Formulierung einer Haftungsbegrenzung im Maschinenkaufvertrag mit der Tal GmbH. Im September bittet Tal denselben Anwalt, gegen Berg wegen eines Maschinenschadens vorzugehen und genau diese Klausel zu Fall zu bringen. Winter hat niemanden beschäftigt und gehört keiner Berufsausübungsgesellschaft an. Beide Gesellschaften erklären per E-Mail, mit seinem Tätigwerden einverstanden zu sein. Eine Klagefrist läuft nicht. Erstellen Sie für Winter eine begründete Annahmeentscheidung und einen neutralen Antwortentwurf an Tal, ohne Inhalte der damaligen Beratung preiszugeben.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Das Ergebnis erkennt dieselbe Rechtssache und den konkreten Interessenwiderstreit zwischen früherer Klauselgestaltung für Berg und geplantem Angriff für Tal.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die Zustimmung beider Gesellschaften wird nicht als Heilung des persönlichen Tätigkeitsverbots behandelt; eine Ausnahme für bloße Erstreckung wird nicht auf den allein vorbefassten Anwalt übertragen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Der Antwortentwurf lehnt die Übernahme nachvollziehbar und neutral ab, ohne die frühere Strategie oder vertrauliche Beratungsinhalte auszuführen oder eine nicht vorhandene andere Kanzleiperson als Lösung anzubieten.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "interessenkollision"
+    }
+  ],
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Mandatskonflikt, Dienstleisterzugriff oder Fremdgeldklärung.",
+      "Dateien: still lesen und Annahmevotum, Absage oder Regelung konkret auswählen lassen.",
+      "Klar: bestelltes Dokument ohne Aufnahmeformular erstellen."
+    ],
+    "continuation": "Andere vorbefasste Person führt von persönlichem Verbot zur Erstreckungsprüfung; neuer Supportzugriff ändert Vertragsnachtrag und Freigabe.",
+    "enrichment": "Mandatswechsel, wirksame Schutzorganisation, Dienstleisterketten, Teilzuordnung von Fremdgeld und Beweiswert von Versandprotokollen vertieft.",
+    "limits": "desk review; no live client execution"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "berufsrecht-anwaelte/berufsrecht-anwaelte-werkstatt.md",
+      "berufsrecht-anwaelte/berufsrecht-anwaelte-schnellstart.md",
+      "berufsrecht-anwaelte/README.md",
+      "quality/evals/berufsrecht-anwaelte.json"
+    ],
+    "opening_change": "Zulässigkeit der Vertretung, Datenweitergabe und Verfügung über Mandantengut als konkrete Entscheidungsfragen.",
+    "norms": [
+      "BRAO Paragraf 43a Absatz 4 Sätze 1 bis 5",
+      "BRAO Paragraf 43e",
+      "BGB Paragraf 134"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 12. Mai 2016, IX ZR 241/14, Randnummern 7–19",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2014/IX_ZR_241-14.pdf?__blob=publicationFile&v=1",
+        "application": "Tatsächlicher Verstoß gegen das persönliche Tätigkeitsverbot führt über Paragraf 134 BGB zu Vertragsnichtigkeit und Wegfall vertraglicher Vergütung.",
+        "limit": "Im entschiedenen Fall lag gerade kein Interessenwiderstreit vor; Gebühreninteresse genügte nicht. Heutige Erstreckungsausnahmen im geänderten Paragraf 43a Absatz 4 BRAO gesondert prüfen."
+      }
+    ],
+    "remaining_limits": [
+      "Desk-/Quellenprüfung, kein Live-Mandanten- oder Modelltest.",
+      "BORA, FAO und RVG-Nebenfragen nicht insgesamt neu verifiziert.",
+      "Workflow-Anschlussprüfung 23.09.2026: individuelle Text- und Quellenprüfung, keine Live-Client-Ausführung. Frühere Entscheidungsprüfungen und ihre Reichweitengrenzen bleiben unverändert; keine erneute vollständige Rechtsprechungsprüfung behauptet."
+    ]
+  }
 }

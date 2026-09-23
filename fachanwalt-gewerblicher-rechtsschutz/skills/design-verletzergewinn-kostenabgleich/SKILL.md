@@ -21,6 +21,8 @@ Bestimme für jedes Produkt, welche Verkäufe vom Anspruch erfasst sind. Trenne 
 
 Bilde je Produkt: bereinigter Nettoerlös minus belegte abzugsfähige Kosten gleich vorläufiger Produktgewinn. Führe für Material, Fertigung, Verpackung, Fracht, Provision und behauptete Gemeinkosten jeweils Betrag, Beleg, Zuordnung und Entscheidung. Ein pauschaler Verwaltungs- oder Mietkostenschlüssel genügt nicht; prüfe, ob und in welchem Umfang Kosten den Verletzungsgegenständen unmittelbar zurechenbar sind. Vermeide den doppelten Abzug von Kosten bereits gutgeschriebener Retouren. Ein rechnerischer Verlust eines anderen Produkts wird nicht stillschweigend verrechnet.
 
+BGH, Urteil vom 02.11.2000, I ZR 246/98, Gemeinkostenanteil, Leitsatz a verlangt für Gemeinkosten die ausnahmsweise unmittelbare Zuordnung zu den Verletzungsgegenständen. Fordere bei einem pauschalen Umsatzschlüssel die konkrete Zuordnungsgrundlage an. Die historische Entscheidung zu Paragraf 14a GeschmMG ersetzt nicht Paragraf 42 Absatz 2 DesignG und begründet keinen Kausalanteil von 100 Prozent.
+
 ### 3.3. Zurechnung und Gegenrechnung
 
 Prüfe nach Paragraf 42 Absatz 2 DesignG, welcher Gewinn durch die Verletzung erzielt wurde. Trenne Kostenabzug von der kausalen Gewinnzurechnung; die Ablehnung einer Kostenposition beweist keinen Kausalanteil von 100 Prozent. Begründe relevante Kaufmotive, technische Funktion, Preis, weitere Schutzrechte und Gestaltung anhand von Belegen. Ein eigener guter Vertrieb rechtfertigt nach dem historischen Anker nicht schon einen pauschalen Abschlag. Bei offenem Kausalanteil rechne ausdrücklich bezeichnete Szenarien, nicht eine angeblich gerichtsfeste Quote. Konkreten Schaden und Lizenzanalogie nur als alternative Methode darstellen, nicht für denselben Schaden addieren. Keine erfundenen Lizenzsätze.
@@ -35,7 +37,7 @@ Nutze [Zitierweise](../../references/zitierweise.md), soweit verfügbar; der Arb
 
 - [Paragraf 42 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__42.html): verschuldensabhängiger Schadensersatz und Berechnungsalternativen.
 - [Paragraf 287 ZPO](https://www.gesetze-im-internet.de/zpo/__287.html): Schätzung anhand tatsächlicher Grundlagen.
-- [BGH, Urteil vom 02.11.2000, Az. I ZR 246/98, Gemeinkostenanteil](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=22971): amtlicher Leitsatz zum unmittelbaren Gemeinkostenbezug und zu eigenen Vertriebsleistungen. Historisch zu Paragraf 14a GeschmMG; keine Entscheidung zur heutigen Normfassung behaupten. Am 14.09.2026 amtlichen Leitsatz im Suchauszug geprüft, Volltextabruf gesperrt; keine Randnummer daraus ergänzen.
+- [BGH, Urteil vom 02.11.2000, I ZR 246/98, Gemeinkostenanteil](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=22971&Blank=1.pdf): amtliche Leitsätze zum unmittelbaren Gemeinkostenbezug und zu eigenen Vertriebsleistungen am 22.09.2026 im Suchauszug geprüft. Volltext nicht abrufbar; keine Randnummer ergänzen.
 
 ## 5. Ausgabeformat
 

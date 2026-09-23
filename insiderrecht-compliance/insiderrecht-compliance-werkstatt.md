@@ -1,12 +1,44 @@
 # 1. Insiderrecht und Marktmissbrauchs-Compliance
 
-Bewerte die konkrete Information, Transaktion oder Offenlegungspflicht nach MAR und WpHG. Verfasse die beauftragte Entscheidungsvorlage, Mitteilung, Aufklärungsdarstellung oder Verteidigung anhand des jeweils belegten Informationsstands.
+Rekonstruiere, wann aus Verhandlungen, Prognoseänderungen oder Gremienentscheidungen eine Insiderinformation entstand, wer sie kannte und welche Orders oder Mitteilungen darauf folgten. Begründe die beauftragte Entscheidung über Handelsverbot, Veröffentlichung oder Aufschub und formuliere die verlangte Vorlage, Mitteilung, Aufklärungsdarstellung oder Verteidigung vollständig.
 
 ## 1.1 Auftrag und Unterlagen
 
 Lies vorhandene Nachrichten, Gremienunterlagen, Insiderlisten, öffentliche Mitteilungen, Handelsdaten und behördliche Schreiben. Entnimm daraus Rolle, Emittent, Instrument, Handelsplatz, Entscheidungszeitpunkt und Auftrag. Eine schon geklärte Aufnahme wird nicht wiederholt; eine Compliance-Prüfung wird nicht ungefragt zur Behördenmeldung oder Verteidigung erweitert.
 
 Trenne Ereignis, Entstehung der Information, Kenntnisnahme, Entscheidung und Handlung. Notiere die einschlägigen Zeitpunkte mit Quelle und gegebenenfalls Zeitzone. Ein Dateidatum beweist nicht allein die Kenntnisnahme, ein Verteiler nicht den tatsächlichen Informationsstand aller Empfänger. Sichere nur erforderliche und zulässig zugängliche Belege; keine eigenmächtige Ausweitung der Untersuchung auf private Konten.
+
+### 1.1.1 Drei Einstiege ohne vorweggenommene Freigabe
+
+Ohne Eingabe biete Transaktionsinformation, Prognoseänderung oder konkreten Handelswunsch an. Bei Dateien ohne Auftrag lies die entscheidenden Fassungen still und frage zwischen zwei passenden Produkten, etwa Insidervermerk oder Veröffentlichungsentwurf. Bei klarem Auftrag unmittelbar ausarbeiten. Kein allgemeiner Bericht vertraulicher Gremieninhalte vor der Zielklärung. Weitere Plugin-Dateien, Handelszugänge oder Emittentensysteme werden nicht vorausgesetzt.
+
+### 1.1.2 Erkenntnisstand im gestreckten Vorgang fortschreiben
+
+Unterscheide unverbindlichen Kontakt, konkrete Verhandlungsposition, eingetretenen Zwischenschritt, Gremienentscheidung und bindende Vereinbarung. Ein später erfolgreiches Signing macht nicht rückwirkend jede frühe Kontaktaufnahme präzise. Ein tatsächlicher Zwischenbeschluss kann umgekehrt eigenständigen Informationsgehalt haben, obwohl Finanzierung oder Zustimmung noch fehlen. Ordne jeden Beleg dem damaligen Kenntnisstand zu und notiere konkrete verbleibende Hindernisse statt einer frei geschätzten Erfolgsquote.
+
+Wird nachträglich eine ältere Vorstandsvorlage gefunden, prüfe, ob sie nur einen Entwurf oder eine bereits beschlossene Tatsache enthält. Ändere den Informationsbeginn nur soweit belegt. Die neue Einordnung ist anschließend getrennt in Handelsverbote, Zugangskreis und Veröffentlichung zu übernehmen. Die unten erläuterte Ausnahme für qualifizierte Zwischenschritte darf weder auf jedes unvollendete Geschäft ausgedehnt noch durch einen unnötigen Aufschubvermerk ersetzt werden.
+
+### 1.1.3 Gerücht, Leck und widersprechende Kommunikation
+
+Lies bei einem Gerücht dessen Wortlaut, Quelle, Zeitpunkt und konkrete Nähe zum vertraulichen Sachverhalt. „Es gibt Marktgerüchte“ genügt nicht, um Vertraulichkeitsverlust sicher festzustellen. Prüfe, ob gerade die geheim gehaltene Information zutreffend und hinreichend konkret öffentlich geworden ist. Frage nach dem bezeichneten Artikel oder Gesprächsinhalt, nicht nach allgemeinem Medienmonitoring. Eine neue präzise Veröffentlichung kann die bisherige Behandlung ändern, auch wenn das finale Ereignis noch aussteht.
+
+Bei Aufschub stelle die aktuelle Information der letzten einschlägigen öffentlichen Aussage gegenüber. Eine allgemeine positive Unternehmensdarstellung ist nicht ohne Inhaltsvergleich dasselbe wie eine konkrete, nun widersprochene Prognose. Nach einem neuen Analystenstatement prüfe Sprecherbefugnis, Aussagegehalt und zeitliche Reihenfolge. Passe Entscheidungsvorlage und Mitteilungsentwurf gemeinsam an. Dokumentiere, welche neue Tatsache eine erneute Entscheidung auslöst; eine alte Freigabe wird nicht automatisch fortgeschrieben.
+
+### 1.1.4 Prognosekorridor und Vorstandswissen
+
+Trenne interne Rohzahlen, validierte Abweichung, Prognoseentwurf und beschlossene Kommunikation. Prüfe die Bedeutung aus Sicht des verständigen Anlegers und den tatsächlichen Informationsstand der Entscheidungsträger. Eine noch fehlende formelle Billigung bedeutet nicht automatisch fehlende Insiderqualität. Eine einzelne günstige Szenariorechnung ist umgekehrt nicht ohne Prüfung die neue Unternehmensprognose.
+
+Nach korrigierten Zahlen ändere Korridor, Vergleichsbasis und Aussage zur wesentlichen Abweichung. Benenne unsichere Annahmen intern und formuliere den Ad-hoc-Entwurf so, dass sichere Tatsachen und tatsächlich bestehende Unsicherheit zutreffend wiedergegeben werden. Keine werbliche Beschönigung, aber auch keine unbelegte Krisenbehauptung. Der fertige Text muss zum geprüften Informationsstand passen und darf nicht die vertrauliche interne Diskussion unnötig wiedergeben.
+
+### 1.1.5 Order vor Kenntnis, Ausführung danach
+
+Rekonstruiere Erteilung, Änderung, Stornierung und Ausführung der konkreten Order sowie Kenntnisnahme der Information. Eine frühere Order ist ein entscheidender Umstand, keine pauschale Freigabe aller späteren Eingriffe. Prüfe die einschlägigen Verbote und zulässigen Verhaltensweisen anhand des Ablaufs. Bei diskretionärer Vermögensverwaltung kläre tatsächliche Weisungen, Kenntnis der Handelnden und Entscheidungsbefugnisse; der bloße Vertragsname beweist keine Unabhängigkeit.
+
+Ein nachgereichter Brokerbeleg kann die zeitliche Reihenfolge ändern. Überarbeite dann die Bewertung und gegebenenfalls die Behördenantwort, ohne ungesicherte Motive zu erfinden. Ein fehlender Listeneintrag entlastet nicht automatisch, ein vorhandener Eintrag beweist nicht jede behauptete Kenntnis. Sanktionen und prozessuale Nachweise bleiben vom internen Compliance-Befund getrennt. Keine eigenmächtige Orderstornierung als vermeintlich risikolose Reaktion veranlassen.
+
+### 1.1.6 Entscheidung und Übermittlung vorbereiten
+
+Eine Vorlage enthält die konkret zu entscheidende Frage, damalige Belege, ernsthafte Gegenposition, Rechtsfolge und Anlass erneuter Prüfung. Ein Aufschubtext nennt nur tatsächlich tragende Gründe; ein nicht veröffentlichungspflichtiger Zwischenschritt erhält keinen fingierten Aufschub. Ein Veröffentlichungsentwurf enthält die sachlich erforderliche Information. Noch fehlende Zustimmung oder Übermittlung wird nicht als erfolgt dokumentiert. Sobald der Auftrag tragfähig beantwortet ist, abschließen; Veröffentlichung, Handel und Behördenkontakt bedürfen eigener Freigabe.
 
 ## 1.2 Entscheidend fehlende Angaben klären
 
@@ -24,6 +56,8 @@ Beurteile die Bedeutung für einen verständigen Anleger aus damaliger Sicht. Tr
 
 Bei gestreckten Vorgängen kann ein Zwischenschritt selbst insiderrechtlich relevant sein. Die Bewertung der Insiderqualität ist jedoch von der Frage seiner Veröffentlichung zu trennen. Begründe auch die stärkste sachliche Gegenposition, etwa eine bereits öffentliche Information oder eine fehlende hinreichende Präzision, anhand des konkreten Inhalts.
 
+Wende bei laufenden Übernahmeverhandlungen oder einem vorbereiteten Vorstandswechsel EuGH, Urteil vom 28. Juni 2012, C-19/11, Geltl, ECLI:EU:C:2012:397, Rn. 38–40 und 49–56, an: Ein bereits eingetretener Zwischenschritt kann selbst präzise Information sein, obwohl das Endereignis noch offen ist. Für ein erwartetes Ereignis verlangt die Gesamtwürdigung eine tatsächliche Erwartbarkeit, keine überwiegende oder hohe Wahrscheinlichkeit nach starrer Quote. Hohes Kurspotenzial gleicht eine fehlende Eintrittswahrscheinlichkeit nicht aus. Prüfe deshalb Verhandlungsstand, verbindliche Beschlüsse und verbleibende Hindernisse einzeln nach Artikel 7 Absatz 2 und 3 MAR. [Amtlicher Volltext](https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62011CJ0019). Das Urteil betrifft die Vorgängerrichtlinien; seine Informationsprüfung ist kein Beleg für eine unveränderte Veröffentlichungspflicht unter Artikel 17 MAR ab Juni 2026.
+
 ## 1.4 Handlung und Wissen zuordnen
 
 Prüfe nach Artikeln 8, 9, 10 und 14 MAR den konkreten Erwerb oder die Veräußerung, Empfehlung, Veranlassung oder Offenlegung. Trenne Ordererteilung, Änderung, Stornierung und Ausführung. Beurteile die Bedeutung des Informationsbesitzes und etwaige einschlägige Ausnahmen oder rechtmäßige Verhaltensweisen anhand des tatsächlichen Ablaufs; eine interne Handelsfreigabe ersetzt das nicht.
@@ -39,6 +73,8 @@ Bei einer Verteidigung prüfe den konkreten Tatvorwurf und Verfahrensstand. Tren
 Prüfe nach Artikel 17 MAR zuerst, ob eine Veröffentlichungspflicht besteht. Unterscheide Insiderqualität, qualifizierten Zwischenschritt und finales Ereignis. Ein Aufschubvermerk ist nicht erforderlich, wenn schon keine Veröffentlichungspflicht besteht; Handelsverbote und Geheimhaltung sind dennoch getrennt zu prüfen.
 
 Seit 5. Juni 2026 gilt die Neufassung durch [Verordnung EU 2024/2809](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024R2809), Artikel 2 Nummer 6 und Artikel 4 Absatz 3: Bei qualifizierten Zwischenschritten eines gestreckten Vorgangs entfällt die Veröffentlichungspflicht; dafür ist kein Aufschub nach Absatz 4 nötig. Insiderqualität und Handelsverbote bleiben gesondert zu prüfen. Geheimhaltung muss gewährleistet sein; ihr Verlust kann nach Absatz 7 eine unverzügliche Veröffentlichung auslösen. Für einen echten Aufschub prüfe insbesondere den Widerspruch zur letzten öffentlichen Kommunikation statt nur einer abstrakten Irreführung. Prüfe zusätzlich aktuelle Konkretisierungen und die Einordnung des finalen Ereignisses.
+
+Konkretisiere das finale Ereignis mit Artikel 1 und Anhang I der seit 19. Juli 2026 geltenden [Delegierten Verordnung EU 2026/789](https://eur-lex.europa.eu/eli/reg_del/2026/789/oj/deu): Bei einer Vereinbarung nennt Nummer 1 die Unterzeichnung oder gleichwertige verbindliche Handlung, bei einem Zusammenschluss Nummer 2 die Billigung des Verschmelzungsplans durch das Leitungsorgan. Nicht pauschal auf Vollzug oder Registereintragung warten. Die nicht abschließende Liste fingiert weder Insiderqualität noch eine Pflicht bei jeder kleinen Transaktion. Bei zweistufiger Organstruktur prüfe erforderliche Zustimmung und konkreten Entscheidungsträger. Stelle bei einem Aufschub nach Artikel 17 Absatz 4 Buchstabe b MAR die Information der letzten Kommunikation in derselben Angelegenheit gegenüber; Artikel 2 und Anhänge II/III der Verordnung 2026/789 erfassen unter anderem Prognosen, Strategie, Projektzeitpläne und öffentliche Äußerungen autorisierter Vertreter.
 
 ### 1.5.2 Aufschub und Veränderungen
 

@@ -1,33 +1,54 @@
 {
   "schema_version": 1,
   "plugin": "produktrecht",
-  "reviewed_on": "2026-09-17",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32023R0988",
       "checked_on": "2026-09-14",
       "supports": "Artikel 9 Absatz 8: Korrektur und Meldung; Artikel 35: direkte Information erreichbarer Verbraucher; Artikel 36: konkrete Rückrufanzeige ohne Risikoverharmlosung."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2008/VI_ZR_107-08.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 16. Juni 2009, VI ZR 107/08, Randnummern 15 bis 24 und 27 bis 31. Anwendung: Sicherheitskonstruktion nach praktisch verfügbarer, erprobter und zumutbarer Alternative prüfen; bloße Branchenüblichkeit oder Warnung genügt nicht. Grenze: Airbagfall; keine Haftung wegen nur theoretischer Lösung, kein Kausalitätsbeweis, keine GPSR- oder KI-VO-Auslegung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/prodhaftg/__3.html",
+      "checked_on": "2026-09-22",
+      "supports": "Fehlerbegriff und berechtigte Sicherheitserwartung."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/eli/reg/2023/988/oj/deu",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlicher Ausgangstext, Artikel 35 bis 37 erneut gelesen: Verbraucherinformation, Rückrufanzeige und Abhilfe einschließlich Wahl und Ausnahmen. EUR-Lex weist eine konsolidierte Fassung vom 29.05.2026 aus; deren Abruf war technisch gesperrt. Keine vollständige Prüfung dieser Konsolidierung behauptet."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/prodhaftg/__3.html",
+      "checked_on": "2026-09-23",
+      "supports": "Erneut gelesener Fehlermaßstab: berechtigte Sicherheitserwartung unter Berücksichtigung von Darbietung, erwartbarem Gebrauch und Inverkehrbringen. Kein Nachweis des konkreten technischen Fehlers."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der vollständig geprüfte Mini verlangt bei Gefahr konkrete Sicherheitsarbeit und trennt gesicherte Chargenangaben von offenen Nachweisen. Ergänzungen führen zur Überarbeitung des beauftragten Rückruf- oder Behördentextes.",
+    "reason": "Am 2026-09-23 vollständig gelesen und individuell ergänzt: Markteinführung, Sicherheitsvorfall und Haftung als kurze Startauswahl; neue Charge, Rückläufer und Updatefassung ändern gezielt den bestehenden Rückruf- und Maßnahmenentwurf. Vorhandene rechtliche Grenzen erhalten.",
     "changes": [
-      "Chargen- und Mengenabgleich sowie Rücknahme und Rückruf unterschieden.",
-      "Direktinformation, Behördenmeldung und Rückrufinhalt anhand GPSR konkretisiert.",
-      "Ungeprüfte ProdSG- und Bußgeldanker entfernt.",
-      "Gezielte Nachforderung mit der Fortsetzung der Sicherheitsbewertung und Dokumenterstellung verbunden."
+      "VI ZR 107/08 in Sicherheits- und Haftungsprüfung integriert.",
+      "Nicht überprüfte Entscheidungslisten durch konkreten Maßstab und Grenzen ersetzt.",
+      "2026-09-23: Stilles Lesen bei Dateien ohne Auftrag und unmittelbare Bearbeitung bei klarer Aufgabe; konkrete Fortschreibung von Chargenumfang, Außenbestand und Abhilfenachweis ergänzt."
     ],
-    "sha256": "3a0175a18ee1e23204cae708aa205b1b6fc26e375b05c3982bce7078b3947017"
+    "sha256": "d96ad19740b1e3461d8a5cc457040efe12c70c7fa9a26bbeca660d83efa9854d"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die Ganztextüberarbeitung ordnet Konformität, Gefahr, Lieferkette und Korrekturmaßnahmen in einen zusammenhängenden Arbeitsablauf ein. Haftung, Gewährleistung und Regress bleiben getrennte Prüfungen.",
+    "reason": "Am 2026-09-23 vollständig gelesen und fachlich vertieft: Aussagekraft von Prüfmustern, Feldfehler und Fehlanwendung, erreichbare Updategruppen, Mengenabgleich, Abhilfeauswahl und Rückrufwirksamkeit. Technische Hypothesen und Sicherheitsfreigabe bleiben nachweisgebunden; keine Live-Ausführung.",
     "changes": [
-      "Digitale Bestandteile, Anleitung und Produktbeobachtung an die jeweilige Sicherheitsprüfung angebunden.",
-      "Rückruf und Marktüberwachungsantwort bis zum bestellten Text fortgeführt; externe Meldung und Freigabe nicht mit dem Entwurf gleichgesetzt."
+      "VI ZR 107/08 in Sicherheits- und Haftungsprüfung integriert.",
+      "Nicht überprüfte Entscheidungslisten durch konkreten Maßstab und Grenzen ersetzt.",
+      "2026-09-23: Vorserie/Serienstand und abweichende Prüfbedingungen, Defektursache versus Unfallfolge sowie Installation versus Updateangebot unterschieden.",
+      "2026-09-23: Rückläufer ohne Doppelzählung, Händler- und Endkundenbestände, konkrete Rückgabewege, Abhilfealternativen und Wirksamkeitskontrolle mit fertigem Rückruftext verbunden."
     ],
-    "sha256": "c8adcf863e008a98f33ff9de1a10389a09b3f3752beb425f1b810fa7981427ca"
+    "sha256": "4cfc3ebe17020b71d7e982551c36d4ca72c3840f33881d8e8b877435f873be62"
   },
   "selection": {
     "positive": [
@@ -79,5 +100,46 @@
       ],
       "target_skill": "prodr-produktrueckruf-leitfaden"
     }
-  ]
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "method": "desk_review",
+    "files": [
+      "produktrecht/README.md",
+      "produktrecht/produktrecht-werkstatt.md",
+      "produktrecht/produktrecht-schnellstart.md",
+      "quality/evals/produktrecht.json"
+    ],
+    "opening_change": "Gefährliche Charge, Softwarezustand und erforderliche Korrektur oder Haftungsreaktion bestimmen.",
+    "norms": [
+      "Paragrafen 1 und 3 ProdHaftG",
+      "Paragraf 823 BGB",
+      "Artikel 5 und 9 GPSR"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 16. Juni 2009, VI ZR 107/08, Randnummern 15 bis 24 und 27 bis 31",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2008/VI_ZR_107-08.pdf?__blob=publicationFile&v=1",
+        "application": "Sicherheitskonstruktion nach praktisch verfügbarer, erprobter und zumutbarer Alternative prüfen; bloße Branchenüblichkeit oder Warnung genügt nicht.",
+        "limit": "Airbagfall; keine Haftung wegen nur theoretischer Lösung, kein Kausalitätsbeweis, keine GPSR- oder KI-VO-Auslegung."
+      }
+    ],
+    "remaining_limits": [
+      "Neue Produkthaftungsrichtlinie, Reparaturumsetzung und sämtliche produktbezogenen Sonderregime nicht vollständig neu verifiziert.",
+      "Desk-/Quellenreview, kein Live-Client- oder Modelltest. Bestehende Auswahl- und Ergebnisfälle unverändert erhalten.",
+      "2026-09-23: Frühere Quellenprüfung vom 2026-09-22 als datierten Prüfstand erhalten. BGH-Direktabruf VI ZR 107/08 erneut versucht, technisch fehlgeschlagen; keine heutige Volltextverifikation. ProdHaftG Paragraf 3 und GPSR-Ausgangstext Artikel 35 bis 37 gelesen. Die von EUR-Lex ausgewiesene Konsolidierung vom 29.05.2026 war wegen technischer Zugriffssperre nicht auswertbar; aktueller Konsolidierungsvergleich bleibt offen. Keine technische Begutachtung oder neue Vollprüfung der Sonderregime."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leere Eingabe: Markteinführung, Sicherheitsvorfall mit Rückruf oder Haftung und Regress anbieten.",
+      "Dateien ohne Aufgabe: Produkt- und Prüfunterlagen still lesen und ausschließlich das gewünschte Ergebnis klären.",
+      "Klarer Auftrag: direkt Sicherheitsprüfung oder bestellten Text bearbeiten; nur entscheidende Umfangs-, Rollen- oder Nachweislücken erfragen."
+    ],
+    "continuation": "Nachweis desselben fehlerhaften Gelenks in Charge K25 ändert Identifikation, Mengen und Kontaktkreis in rueckrufanzeige.md und massnahmenplan.md beziehungsweise Nutzerpfad; Rückläufer und wirksame Updates verändern den Maßnahmenstand ohne erneute Aufnahme bekannter Vertriebsdaten.",
+    "enrichment": "Prüfmuster und Feldfehler abgeglichen, alternative Schadensursachen offengehalten, Updateversorgung nach Erreichbarkeit und Installation getrennt, Rücklaufmengen abgestimmt sowie Abhilfe und Verbraucherhandlung konkret ausformuliert; Abschluss nach belegter Wirksamkeit statt beliebiger Rücklaufquote.",
+    "limits": "desk review; no live client execution"
+  }
 }

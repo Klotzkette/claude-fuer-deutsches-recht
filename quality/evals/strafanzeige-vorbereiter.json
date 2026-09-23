@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "strafanzeige-vorbereiter",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/stgb/__77b.html",
@@ -12,15 +12,42 @@
       "url": "https://www.gesetze-im-internet.de/stpo/__158.html",
       "checked_on": "2026-09-14",
       "supports": "Anzeige und Strafantrag bei Strafverfolgungsstellen; Sicherung von Identität und Verfolgungswillen bei Antragsdelikten."
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2001/07/rk20010702_1bvr204900.html",
+      "checked_on": "2026-09-22",
+      "supports": "BVerfG, Beschluss vom 02.07.2001, 1 BvR 2049/00, Randnummern 10 bis 17. Amtliche tragende Entscheidungsgründe gelesen. Anwendung: Erfolglosigkeit gutgläubiger Angaben nicht mit rechtswidriger Beschuldigung gleichsetzen; eine Einstellung belegt nicht schon deren Unwahrheit. Kenntnisquellen, Unsicherheiten und Gegenbelege transparent schildern. Grenze: Arbeitsrechtlicher Kündigungsfall nach Mitwirkung als Zeuge; keine generelle Haftungsfreistellung für bewusst oder leichtfertig falsche Angaben, sachfremde Motive oder öffentliche Anschuldigungen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stpo/__158.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aktueller amtlicher Normtext gelesen: Anzeige und Strafantrag; Identität und Verfolgungswille nach aktueller Fassung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stgb/__77b.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aktueller amtlicher Normtext gelesen: Dreimonatsfrist ab Kenntnis von Tat und Täterperson."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stpo/__158.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlichen Text zu Anzeige, Strafantrag, Identität und Verfolgungswillen gelesen; keine pauschale Wirksamkeitszusage für beliebige Onlineeingaben."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Vollständig gelesen: Sachverhaltsnähe und Schutz vor falscher Verdächtigung bleiben erhalten; die einmalige Rückfrage verhinderte notwendige Ergänzungen.",
+    "reason": "Fachliche Startvarianten und konkrete Antwortfortsetzung einzeln geprüft. Rückzahlung und Tatzeitschaden, Vermutung und Täterkenntnis sowie Kontextnachricht und sichere Täterzuordnung unterscheiden; ausdrücklichen Verfolgungswillen sichern; Ergänzung berichtigt frühere Angaben transparent.",
     "changes": [
-      "Kenntniszeitpunkt, Zahlungsbeleg und Nachrichtenkontext führen nach Antwort zur aktualisierten Frist, Schadensrechnung und fertigen Anzeige; keine verpflichtende Beweistabelle."
+      "BVerfG-Kündigungsfall nur für begrenzte Aussage zu gutgläubiger Mitwirkung und Erfolglosigkeit genutzt.",
+      "Identität und Verfolgungswille nach Paragraf 158 Absatz 2 statt pauschalem Papiererfordernis.",
+      "Anzeigeerstatter einheitlich bezeichnet; Gegenbelege, Kontext und Quellen der Tatsachen in die fertige Anzeige übernommen.",
+      "Leerstart: sachliche Anzeige, Strafantrag mit Frist oder Ergänzung zu einem Aktenzeichen wählen.",
+      "Nachgewiesene Rückzahlung von 200 Euro verändert bei anfänglichen 800 Euro den offenen Verlust auf 600 Euro und die Chronologie, nicht automatisch den damaligen Tatverdacht.",
+      "Rückzahlung und Tatzeitschaden, Vermutung und Täterkenntnis sowie Kontextnachricht und sichere Täterzuordnung unterscheiden; ausdrücklichen Verfolgungswillen sichern; Ergänzung berichtigt frühere Angaben transparent."
     ],
-    "sha256": "9ed7031f23dfea10f4c9a42bab70443754c75ee03a7b1eb43ae4acf67f2e20cb"
+    "sha256": "c502517ce36bbce75c7249fbbe1ee9f01badd132867a6eefbe66dcd87697a988",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
   },
   "selection": {
     "positive": [
@@ -68,10 +95,55 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die vollständige Werkstatt wechselte widersprüchlich in Verteidigung, Strafzumessung und Anklage und wiederholte generische Routen.",
+    "reason": "Vollständige Werkstatt mit zusätzlichen fachlichen Entscheidungs- und Dokumentwegen einzeln geprüft. Rückzahlung und Tatzeitschaden, Vermutung und Täterkenntnis sowie Kontextnachricht und sichere Täterzuordnung unterscheiden; ausdrücklichen Verfolgungswillen sichern; Ergänzung berichtigt frühere Angaben transparent.",
     "changes": [
-      "Anzeigevorbereitung nach konkreten Deliktsgruppen und Verletztenwegen geordnet. Originalbelege, Antragsfragen, Schutzbedarf und Reaktion auf Einstellung erhalten; kein vollständiger Tatnachweis als Voraussetzung und keine pauschale Monatsfrist für sämtliche Rechtsbehelfsstufen."
+      "BVerfG-Kündigungsfall nur für begrenzte Aussage zu gutgläubiger Mitwirkung und Erfolglosigkeit genutzt.",
+      "Identität und Verfolgungswille nach Paragraf 158 Absatz 2 statt pauschalem Papiererfordernis.",
+      "Anzeigeerstatter einheitlich bezeichnet; Gegenbelege, Kontext und Quellen der Tatsachen in die fertige Anzeige übernommen.",
+      "Leerstart: sachliche Anzeige, Strafantrag mit Frist oder Ergänzung zu einem Aktenzeichen wählen.",
+      "Nachgewiesene Rückzahlung von 200 Euro verändert bei anfänglichen 800 Euro den offenen Verlust auf 600 Euro und die Chronologie, nicht automatisch den damaligen Tatverdacht.",
+      "Rückzahlung und Tatzeitschaden, Vermutung und Täterkenntnis sowie Kontextnachricht und sichere Täterzuordnung unterscheiden; ausdrücklichen Verfolgungswillen sichern; Ergänzung berichtigt frühere Angaben transparent."
     ],
-    "sha256": "3bbb8c2d2f3fa2e71784e29ceb17b4f61ef572b7b6578a4725dcf0c95f710eb1"
+    "sha256": "78712b106ea06917cca2b6f7a402ef5301041604b200b0b97e290366b3a4188d",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "strafanzeige-vorbereiter/strafanzeige-vorbereiter-werkstatt.md",
+      "strafanzeige-vorbereiter/strafanzeige-vorbereiter-schnellstart.md"
+    ],
+    "opening_change": "Geschehen, eigene Wahrnehmung und verbleibende Ungewissheit aus konkreten Nachrichten, Zahlungen und Belegen rekonstruieren.",
+    "norms": [
+      "Paragrafen 158 und 152 Absatz 2 StPO",
+      "Paragrafen 77, 77b und 164 StGB"
+    ],
+    "decisions": [
+      {
+        "citation": "BVerfG, Beschluss vom 02.07.2001, 1 BvR 2049/00, Randnummern 10 bis 17",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2001/07/rk20010702_1bvr204900.html",
+        "application": "Erfolglosigkeit gutgläubiger Angaben nicht mit rechtswidriger Beschuldigung gleichsetzen; eine Einstellung belegt nicht schon deren Unwahrheit. Kenntnisquellen, Unsicherheiten und Gegenbelege transparent schildern.",
+        "limit": "Arbeitsrechtlicher Kündigungsfall nach Mitwirkung als Zeuge; keine generelle Haftungsfreistellung für bewusst oder leichtfertig falsche Angaben, sachfremde Motive oder öffentliche Anschuldigungen."
+      }
+    ],
+    "remaining_limits": [
+      "Desk- und Primärquellenreview, kein Live-Client- oder Modelltest.",
+      "Entscheidung ist keine allgemeine straf- oder zivilrechtliche Immunität für Anzeigen.",
+      "Keine Vollprüfung sämtlicher angesprochener Deliktsgruppen oder grenzüberschreitender Zuständigkeiten.",
+      "Workflow-Vertiefung 2026-09-23: Vorhandene Antragsfristprüfung und BVerfG 1 BvR 2049/00 mit arbeitsrechtlicher Fallgrenze erhalten; keine umfassende neue Delikts-, Haftungs- oder Auslandszuständigkeitsprüfung. Desk review; keine Live-Client-Ausführung."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leerstart: sachliche Anzeige, Strafantrag mit Frist oder Ergänzung zu einem Aktenzeichen wählen.",
+      "Dateien: Nachrichten und Zahlungsbelege still lesen, keine ungefragte Übersicht privater Kommunikation.",
+      "Klarer Auftrag: vollständigen sachlichen Anzeigeentwurf mit belegt begrenzten Angaben liefern."
+    ],
+    "continuation": "Nachgewiesene Rückzahlung von 200 Euro verändert bei anfänglichen 800 Euro den offenen Verlust auf 600 Euro und die Chronologie, nicht automatisch den damaligen Tatverdacht.",
+    "enrichment": "Rückzahlung und Tatzeitschaden, Vermutung und Täterkenntnis sowie Kontextnachricht und sichere Täterzuordnung unterscheiden; ausdrücklichen Verfolgungswillen sichern; Ergänzung berichtigt frühere Angaben transparent.",
+    "limits": "desk review; no live client execution"
   }
 }

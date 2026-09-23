@@ -1,10 +1,10 @@
 # 1. Zwangsverwaltung: Objekt übernehmen, bewirtschaften und abrechnen
 
-Bearbeite die beauftragte Übernahme, Bewirtschaftung oder Abrechnung des beschlagnahmten Grundstücks. Erstelle das benötigte Übernahmeprotokoll, Mieteranschreiben, Objektbudget, den Gerichtsbericht oder die Rechnungslegung aus den vorhandenen Unterlagen.
+Gleiche Mietverträge, Zahlungseingänge und fällige Objektkosten ab: Welche Mieten fehlen, welche Gelder sind gebunden und welcher Betrag bleibt nach notwendigen Ausgaben? Formuliere daraus das beauftragte Mieteranschreiben, Budget, Übernahmeprotokoll oder den Gerichtsbericht mit verlangter Rechnungslegung.
 
 ## 1.1. Beschluss und Objekt zuerst lesen
 
-Werte Anordnungs- und Bestellungsbeschluss, Grundbuch, Miet- und Pachtverträge, Übergabeunterlagen, Kontoauszüge und einschlägige Korrespondenz aus. Übernimm bereits bekannte Rolle, Berichtszeitraum und Empfänger; eine erneute Aufnahme ist nicht nötig. Ohne eindeutigen Auftrag kläre, welches Dokument für welchen Verfahrensstand benötigt wird.
+Bei leerer Eingabe biete Übernahmebericht, Mieterbrief oder Rechnungslegung mit Liquiditätsprüfung an. Dateien ohne Aufgabe still lesen; nur bei unklarem Ziel zwei oder drei passende Wege anbieten, keine Materialschau. Bei klarem Auftrag sofort arbeiten und nur entscheidende Lücken klären. Beschlüsse, Mietverträge, Übergabe- und Kontobelege auswerten; bekannte Rolle und Zeitraum übernehmen.
 
 Bestimme betroffene Grundstücke, Einheiten, Rechte und Nutzer sowie Zeitpunkt und Umfang der Beschlagnahme. Zwangsverwaltung ist weder eine bloße Forderungspfändung noch ein gewöhnlicher Gerichtsvollzieherauftrag. Prüfe Anordnung und Durchführung anhand der Paragrafen 146–161 ZVG, insbesondere Beschlagnahme, Besitz und Nutzung anhand der einschlägigen Bestimmungen einschließlich Paragrafen 148 und 149 ZVG.
 
@@ -17,6 +17,8 @@ Ordne je Einheit Vertrag, Sollmiete, Zahlungseingang, Rückstand, Kaution, Betri
 ### 1.2.1. Mietrückstand aufklären
 
 Widerspricht ein behaupteter Rückstand dem Kontoauszug, frage nach Zahlungsdatum, Verwendungszweck und gegebenenfalls abweichendem Zahlungskonto. Stelle offene Zuordnungen getrennt von nachgewiesen ausstehenden Mieten dar. Nach der Antwort aktualisiere Mietkonto und Forderungsbetrag und schreibe das beauftragte Zahlungs- oder Erläuterungsschreiben fertig; aus einem ungeklärten Posten keine endgültige Rückstandsbehauptung machen.
+
+BGH, Urteil vom 23.09.2009, VIII ZR 336/08, Rn. 10 bis 13 ([amtlich](https://juris.bundesgerichtshof.de/cgi-bin/bgh_notp/document.py?Art=en&Datum=2009-9-23&Gericht=bgh&Sort=3&anz=21&pos=13)): Bei vor Beschlagnahme überlassener Wohnung muss der Verwalter nach Paragraf 152 Absatz 2 ZVG die gezahlte Barkaution gemäß Paragraf 551 Absatz 3 BGB getrennt anlegen, auch ohne deren Übergabe durch den Vermieter. Bis dahin kann der Mieter nach Paragraf 273 BGB Miete bis zur Kaution samt geschuldeten Anlagezinsen zurückhalten. Kautionszahlung und Anlagebeleg klären, bevor ein solcher Betrag als Verzug angemahnt oder als verfügbar verteilt wird. Kein unbegrenzter Einbehalt; Wohnraumfall, keine allgemeine Insolvenzrangregel oder ungeprüfte Gewerbemietregel.
 
 ### 1.2.2. Maßnahme und Finanzierung klären
 
@@ -38,10 +40,10 @@ ZVG-Portal-Recherche, Bieterbewertung und Versteigerungsteilnahme nur bei entspr
 
 ## 1.5. Zum bestellten Ergebnis fortsetzen
 
-Liefere nur die für den Auftrag benötigten Texte und Tabellen, nicht zwangsläufig eine vollständige Objektverwaltung. Zeige bei einem Hindernis den bearbeitbaren Teil und genau die noch benötigte Angabe. Nach ihrer Klärung die betroffenen Beträge, Anträge oder Schreiben aktualisieren und fertigstellen; bereits beantwortete Fragen nicht wiederholen.
+Belegt die Antwort eine bisher nicht übergebene Kaution, ändere Mittelbedarf und Mieterbrief. Belegt sie ordnungsgemäße Anlage, prüfe den weiteren Einbehalt neu; einziehbare Miete ist erst nach Zahlung liquide. Ein teureres Reparaturangebot kann den Rest aufzehren: Budget, Vorschussantrag und Verteilungsempfehlung gemeinsam ändern. Liefere die bestellten Texte vollständig.
 
 Vor Abschluss Beschlagnahmezeitpunkt, Zahlungszuordnung, Zweckbindungen, fällige Ausgaben und Verteilungsbefugnis gegeneinander prüfen. Nutzerbenannte Dateien gehen vor; `ergebnis.md` ist lediglich ein Standard ohne anderen Dateiwunsch. Keine Überweisung, Beauftragung, Mieterinformation oder Einreichung eigenmächtig auslösen.
 
 ## 1.6. Quellen und technische Grenzen
 
-Rechtsprechung nur mit überprüfbarem Inhalt verwenden; fehlende rechtliche Verifikation in einer getrennten Arbeitsnotiz benennen. Ohne Dateizugriff die benötigte Unterlage konkret anfordern und unabhängige Teile weiterbearbeiten. Ohne Export das vollständige Ergebnis im Text liefern, keinen Dateilink erfinden. Werkstatt und weitere Skills sind ausschließlich optionale Vertiefung.
+Rechtsprechung mit überprüfbarem Inhalt verwenden; Quellenlücken gesondert benennen. Ohne Zugriff konkrete Belege anfordern, unabhängige Teile fortführen. Ohne Export vollständigen Text liefern. Dezimale Gliederung mit Leerzeilen; Times New Roman 11 pt bei formatierter Ausgabe, sonst separater Exporthinweis. Keine weiteren Skills voraussetzen.

@@ -16,9 +16,11 @@ description: "Für Rückmeldung 3 Monate: ordnet Norm, Beweislast und Gegenargum
 ## Wofür dieser Arbeitsgang da ist
 Was darf gesagt werden, was bleibt vertraulich, was ist noch offen, welche Maßnahmen laufen.
 
-Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin oder den Nutzer, die konkrete Lage, die vorhandenen Dokumente, technische Spuren, Zahlen und Zuständigkeiten offenzulegen, bevor eine rechtliche oder praktische Bewertung ausgegeben wird.
+Lies die vorhandene Meldung, Eingangsbestätigung und Maßnahmenunterlagen und übernimm bekannte Tatsachen. Frage nur nach entscheidenden Lücken für Frist, zulässigen Mitteilungsumfang oder Sachstand. Formuliere bereits belastbare Teile der Rückmeldung; der Abschluss der Untersuchung ist keine Voraussetzung. Nach Antworten ändere die betroffenen Passagen und vervollständige den Text, ohne bekannte Angaben erneut abzufragen oder alle Unterlagen neu zu laden.
 
 ## Kaltstartfragen
+
+Die folgenden Fragen nur verwenden, soweit die Antwort für die beauftragte Rückmeldung fehlt; sie sind keine vorgelagerte Pflichtabfrage.
 
 - Welche konkrete Entscheidung steht jetzt an und wer muss sie verantworten?
 - Welche Dokumente, Tabellen, Verträge, Tickets, Logs, E-Mails oder Chatverläufe liegen bereits vor?
@@ -32,7 +34,7 @@ Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin ode
 2. **Pflichtanker setzen:** Maßgebliche Normen und Behördenquellen live prüfen; keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate verwenden.
 3. **Beweis- und Nachweisfähigkeit prüfen:** Jede Aussage einer Datei, einem Log, einer Abrechnung, einem Vertrag, einem Board-Protokoll oder einer freien amtlichen Quelle zuordnen.
 4. **Risiko sortieren:** Rot für sofortige Handlung, Gelb für Klärung/Entscheidung, Grün für dokumentierte Unauffälligkeit.
-5. **Umsetzbaren Output bauen:** Keine bloße Erklärung, sondern einen nächsten Schritt mit Textbaustein, Tabelle, Memo, Klausel, Fristenliste oder Maßnahmenplan liefern.
+5. Liefere das beauftragte Ergebnis: bei einer Rückmeldung den vollständigen Empfängertext, bei einer Rechtsfrage eine begründete Antwort. Interne Beweis- und Quellenprüfung nicht ungefragt in die Rückmeldung übernehmen.
 
 ## Fachanker
 
@@ -49,7 +51,7 @@ Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin ode
 
 ## Ergebnisformat
 
-Erzeuge bevorzugt: Rückmeldungstext. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.
+Verfasse die bestellte Rückmeldung vollständig mit zulässigen Angaben zu geplanten und ergriffenen Folgemaßnahmen sowie deren Gründen nach [Paragraf 17 Absatz 2 HinSchG](https://www.gesetze-im-internet.de/hinschg/__17.html). Eine laufende Untersuchung erlaubt einen zutreffenden Zwischenstand, keine erfundene Abschlussmitteilung. Bei gewünschter Kurzantwort antworte knapp; keine obligatorische Zusatzcheckliste und keine Checkliste statt des verlangten Texts.
 
 ## Qualitätsfilter
 

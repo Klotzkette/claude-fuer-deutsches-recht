@@ -1,25 +1,132 @@
 {
   "schema_version": 1,
   "plugin": "hinweisgeberschutz-compliance",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/hinschg/__17.html",
       "checked_on": "2026-09-14",
       "supports": "Amtlicher Suchauszug mit vollständigen Absätzen 1 und 2 gelesen: Bestätigung, Rückmeldefrist und Beschränkung der Rückmeldungsinhalte; Direktabruf hatte Zeitüberschreitung."
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2001/07/rk20010702_1bvr204900.html",
+      "checked_on": "2026-09-22",
+      "supports": "BVerfG, Beschluss vom 02.07.2001, 1 BvR 2049/00, Randnummern 10 bis 20: Amtlichen Volltext vollständig gelesen: Aufhebung und Zurückverweisung wegen Missachtung pflichtgemäßer Zeugenaussage und Unterlagenübergabe im Strafverfahren gegen Arbeitgeber; Einstellung bewies keine haltlosen Angaben. Konkreter Anlass, Aussage und damaliges Wissen müssen einer Kündigungsbewertung zugrunde liegen. Grenze: Historische verfassungsrechtliche Grenze des Paragrafen 626 BGB, keine Auslegung heutiger HinSchG-Schutzvoraussetzungen oder Beweislastumkehr; kein Schutz wissentlich unwahrer oder leichtfertig falscher Angaben und keine generelle Freigabe von Presseveröffentlichungen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hinschg/__1.html",
+      "supports": "Aktueller Volltext gelesen: Beruflicher Zusammenhang und betroffene Personen als persönlicher Schutzbereich.",
+      "checked_on": "2026-09-22"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hinschg/__2.html",
+      "supports": "Aktueller Volltext gelesen: Konkrete sachliche Verstoßgruppen statt pauschaler Erfassung jeder Compliance-Beschwerde.",
+      "checked_on": "2026-09-22"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hinschg/__5.html",
+      "supports": "Aktueller Volltext gelesen: Entgegenstehende Berufsgeheimnisse insbesondere nach Absatz 2 Nummern 3 und 5 begrenzen den Anwendungsbereich.",
+      "checked_on": "2026-09-22"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hinschg/__6.html",
+      "supports": "Aktueller Volltext gelesen: Erforderlichkeit der Geheimnisweitergabe, Vorbehalt des Paragrafen 5 und Beschränkung weiterer Nutzung durch die Meldestelle.",
+      "checked_on": "2026-09-22"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hinschg/__7.html",
+      "supports": "Aktueller Volltext gelesen: Wahlrecht interne/externe Meldung; keine obligatorische interne Vorstufe.",
+      "checked_on": "2026-09-22"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hinschg/__8.html",
+      "supports": "Aktueller Volltext gelesen: Identitätsschutz auch für genannte Personen und unabhängig von der Zuständigkeit.",
+      "checked_on": "2026-09-22"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hinschg/__9.html",
+      "supports": "Aktueller Volltext gelesen: Ausnahmen differenziert nach Identität, Behördenverlangen und gesonderter Einwilligung je Weitergabe für Folgemaßnahmen.",
+      "checked_on": "2026-09-22"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hinschg/__11.html",
+      "supports": "Aktueller Volltext gelesen: Dokumentation, Aufnahme-/Protokolleinwilligung, Bestätigung und grundsätzlich drei Jahre ab Verfahrensabschluss mit begrenzter Verlängerungsmöglichkeit.",
+      "checked_on": "2026-09-22"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hinschg/__16.html",
+      "supports": "Aktueller Volltext gelesen: Bearbeitung anonymer Meldungen empfohlen; keine allgemeine Einrichtungspflicht für anonyme Kanäle.",
+      "checked_on": "2026-09-22"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hinschg/__17.html",
+      "supports": "Aktueller Volltext gelesen: Interne Bestätigung sieben Tage, Rückmeldung drei Monate nach Bestätigung beziehungsweise drei Monate und sieben Tage nach Eingang ohne Bestätigung; Inhalte durch Untersuchungs- und Personenrechte begrenzt.",
+      "checked_on": "2026-09-22"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hinschg/__28.html",
+      "supports": "Aktueller Volltext gelesen: Eigenständiges externes Verfahren mit Bestätigungsausnahmen und sechsmonatiger Rückmeldung bei umfangreicher Bearbeitung mit Gründen; nicht auf interne Verfahren übertragen.",
+      "checked_on": "2026-09-22"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hinschg/__32.html",
+      "supports": "Aktueller Volltext gelesen: Zusätzliche Voraussetzungen öffentlicher Offenlegung, nicht bloß erfolglose interne Meldung.",
+      "checked_on": "2026-09-22"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hinschg/__33.html",
+      "supports": "Aktueller Volltext gelesen: Schutzvoraussetzungen gesetzlicher Weg, hinreichender Wahrheitsgrund und tatsächlicher oder begründet angenommener Anwendungsbereich.",
+      "checked_on": "2026-09-22"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hinschg/__35.html",
+      "supports": "Aktueller Volltext gelesen: Verantwortlichkeitsausschluss begrenzt durch eigenständige Beschaffungs-/Zugriffsstraftat und Erforderlichkeit der Weitergabe.",
+      "checked_on": "2026-09-22"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hinschg/__36.html",
+      "supports": "Aktueller Volltext gelesen: Repressalien einschließlich Versuch/Androhung; Vermutung bei beruflicher Benachteiligung und Geltendmachung des Meldungszusammenhangs, Gegenbeweis des Benachteiligenden.",
+      "checked_on": "2026-09-22"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hinschg/__37.html",
+      "supports": "Aktueller Volltext gelesen: Schadensersatz, aber kein Anspruch auf Einstellung oder Aufstieg allein aus Repressalienverbot.",
+      "checked_on": "2026-09-22"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hinschg/__38.html",
+      "supports": "Aktueller Volltext gelesen: Vorsätzlich oder grob fahrlässig unrichtige Meldung und hierdurch verursachter Schaden; keine Haftung allein wegen Nichterweislichkeit.",
+      "checked_on": "2026-09-22"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hinschg/__39.html",
+      "supports": "Aktueller Volltext gelesen: Unwirksamkeit von Vereinbarungen, die gesetzlich geschützte Rechte einschränken.",
+      "checked_on": "2026-09-22"
     }
   ],
   "mini_review": {
-    "verdict": "retained",
-    "reason": "Aktuellen Mini vollständig gelesen. Bestätigungsnachweis und konkreter Vorwurf lösen gezielte Fragen aus; Antworten ändern Frist, Untersuchungsumfang oder Rückmeldung. Eine fristgerechte Rückmeldung wartet ausdrücklich nicht auf den Untersuchungsabschluss. Offenlegungsstopp betrifft nicht die vertrauliche Bearbeitung. Keine neue Quellen- oder Live-Modellprüfung.",
-    "changes": [],
-    "sha256": "36268c8d05988030f485bb7d15b6bfbad9721d5146f592e71dfcee3fd4a18049"
+    "verdict": "revised",
+    "reason": "Den Kernfall einer laufenden internen Untersuchung mit korrektem Fristbeginn, beschränkter Rückmeldung und tatsächlich verwendbarem Beispielsatz neu gefasst. Schutz nach Paragraf 33 und Beweislast nach Paragraf 36 werden nicht durch bloße Meldung oder zeitliche Nähe ersetzt. Vollständige Text- und gezielte Primärquellenprüfung; kein Live-Mandanten- oder Modelltest.",
+    "changes": [
+      "Fristbeispiel Eingang 1. Juni/Bestätigung 3. Juni/Rückmeldung 3. September, kein Warten auf späteres Interview.",
+      "BVerfG 1 BvR 2049/00 begrenzt den Kurzschluss von Verfahrenseinstellung zu Falschmeldung; historischer Anwendungsbereich ausdrücklich begrenzt.",
+      "HinSchG Paragrafen 5/6, 7/32, 8/9, 17/28, 33/36, 37/38 und 39 nach Funktion getrennt.",
+      "Anwaltsmeldestelle, Beschwerde, Lieferkette, öffentlicher Dienst, externe/anonyme Meldung, Rechtsschutz, Vertragsklauseln, Beweislast, Bonus/Versetzung, Falschmeldung und Datenpanne individuell erhalten.",
+      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt."
+    ],
+    "sha256": "304165608d6650e209d2e31c53cb11335075db857750f5d51b9deefcf73459f8"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Gesamte Werkstatt gelesen. Trotz brauchbarer Rückfragewege enthielten Schutzgrenzen gegenteilige Anweisungen und drei Schlussrouten pauschale Meldungs- beziehungsweise Übermittlungsprodukte. Diese Widersprüche gezielt korrigiert; keine neue Gesamtfassung und keine erneute rechtliche Verifikation. Kein Live-Modelltest.",
-    "changes": ["Unzulässige Offenlegung von fortzusetzender vertraulicher Bearbeitung getrennt und Schutzgrenzen positiv formuliert.", "Fragenlistenabschluss und Pflichtzwischenprodukte dem bestellten Dokument untergeordnet.", "Anonyme Meldung, behauptete Bösgläubigkeit und Datenoffenlegung nach ihrem eigenen Tatsachenbedarf bearbeitet; keine automatische neue Meldung oder erfundener Versandnachweis."],
-    "sha256": "0118a7a03be603588c1e08f81c524bfa4c427815a15b5fede1387b94d789e40a"
+    "reason": "Vollständige individuelle Neufassung statt wiederholter Arbeitsprodukt- und Normtabellen; alle zwölf vorhandenen Fachzweige erhalten und um genaue Geheimnisgrenzen, externe Verfahrensabweichung, Rechtsfolgen und gezielten Tatsachenbedarf ausgearbeitet. Die Klausel zur nur entwurfsweisen endgültigen Rechtsentscheidung entfernt; fundierter Rat bleibt Endprodukt. Vollständige Text- und gezielte Primärquellenprüfung; kein Live-Mandanten- oder Modelltest.",
+    "changes": [
+      "Fristbeispiel Eingang 1. Juni/Bestätigung 3. Juni/Rückmeldung 3. September, kein Warten auf späteres Interview.",
+      "BVerfG 1 BvR 2049/00 begrenzt den Kurzschluss von Verfahrenseinstellung zu Falschmeldung; historischer Anwendungsbereich ausdrücklich begrenzt.",
+      "HinSchG Paragrafen 5/6, 7/32, 8/9, 17/28, 33/36, 37/38 und 39 nach Funktion getrennt.",
+      "Anwaltsmeldestelle, Beschwerde, Lieferkette, öffentlicher Dienst, externe/anonyme Meldung, Rechtsschutz, Vertragsklauseln, Beweislast, Bonus/Versetzung, Falschmeldung und Datenpanne individuell erhalten.",
+      "Unabhängige Erkenntnisquellen, indirekte Identifizierbarkeit, konkrete Einwilligung, Zwischenrückmeldung und differenzierter Untersuchungsabschluss."
+    ],
+    "sha256": "b2b20575d198b1358b9053f15b839b2135172bc05ac992fb4541d043c2992f73"
   },
   "selection": {
     "positive": [
@@ -64,5 +171,49 @@
       ],
       "target_skill": "rueckmeldung-3-monate"
     }
-  ]
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "hinweisgeberschutz-compliance/hinweisgeberschutz-compliance-werkstatt.md",
+      "hinweisgeberschutz-compliance/hinweisgeberschutz-compliance-schnellstart.md",
+      "hinweisgeberschutz-compliance/README.md",
+      "quality/evals/hinweisgeberschutz-compliance.json",
+      "hinweisgeberschutz-compliance/skills/rueckmeldung-3-monate/SKILL.md",
+      "hinweisgeberschutz-compliance/skills/beweislastumkehr/SKILL.md"
+    ],
+    "opening_change": "Frist und Inhalt einer fälligen Rückmeldung bei noch ungeklärtem Vorwurf, zulässiger Identitätskreis und konkrete Benachteiligung werden unmittelbar als Arbeitsaufgaben benannt.",
+    "norms": [
+      "Paragrafen 1, 2, 5 bis 9, 11, 16, 17, 28, 32, 33 und 35 bis 39 HinSchG",
+      "Paragraf 626 BGB",
+      "Artikel 2 Absatz 1 und Artikel 20 Absatz 3 GG"
+    ],
+    "decisions": [
+      {
+        "citation": "BVerfG, Beschluss vom 02.07.2001, 1 BvR 2049/00, Randnummern 10 bis 20",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2001/07/rk20010702_1bvr204900.html",
+        "application": "Amtlichen Volltext vollständig gelesen: Aufhebung und Zurückverweisung wegen Missachtung pflichtgemäßer Zeugenaussage und Unterlagenübergabe im Strafverfahren gegen Arbeitgeber; Einstellung bewies keine haltlosen Angaben. Konkreter Anlass, Aussage und damaliges Wissen müssen einer Kündigungsbewertung zugrunde liegen.",
+        "limit": "Historische verfassungsrechtliche Grenze des Paragrafen 626 BGB, keine Auslegung heutiger HinSchG-Schutzvoraussetzungen oder Beweislastumkehr; kein Schutz wissentlich unwahrer oder leichtfertig falscher Angaben und keine generelle Freigabe von Presseveröffentlichungen."
+      }
+    ],
+    "remaining_limits": [
+      "Desk-/Quellenprüfung, kein Live-Mandanten- oder Modelltest.",
+      "Keine Gesamtprüfung von Lieferketten-/CSDDD-Zeitplan, Beamtenrecht, Datenschutzpannen oder allen arbeitsgerichtlichen Anspruchsgrundlagen.",
+      "Keine aktuelle HinSchG-Gerichtsentscheidung zu Rückmeldefrist oder Beweislastumkehr verifiziert; diese Aussagen beruhen auf aktuellen Normvolltexten, nicht auf dem historischen BVerfG-Beschluss.",
+      "Die gewöhnlichen Skills rueckmeldung-3-monate und beweislastumkehr enthalten weiterhin vorgeschaltete Frage-/Matrixschemata und Pflichtchecklisten außerhalb des Schreibbereichs.",
+      "Workflow-Ergänzung am 2026-09-23: individuelle Textprüfung, keine erneute Gesamtverifikation der bestehenden Entscheidungsanker; deren dokumentierte Quellen- und Zugriffsgrenzen bleiben bestehen."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Rückmeldung, Identitätsweitergabe oder Repressalie anbieten.",
+      "Meldungsbelege still lesen; zwei fallbezogene Dokumentwege anbieten.",
+      "Bestellte Rückmeldung ohne allgemeine Untersuchungszusammenfassung verfassen."
+    ],
+    "continuation": "Interviewstand -> zulässigen Rückmeldungstext; Behördenverlangen -> Übermittlungsgrundlage; frühere Leistungsbewertung -> Gegenbeweis bei Repressalie ändern.",
+    "enrichment": "Unabhängige Erkenntnisquellen, indirekte Identifizierbarkeit, konkrete Einwilligung, Zwischenrückmeldung und differenzierter Untersuchungsabschluss.",
+    "limits": "desk review; no live client execution"
+  }
 }

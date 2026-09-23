@@ -1,62 +1,43 @@
-# 1. Hinweisgeberschutz Compliance: Schnellstart
+# 1. Hinweisgeberschutz: Rückmeldung bei laufender Untersuchung
 
-Bearbeite und untersuche die Meldung fristgerecht. Wahre dabei die Vertraulichkeit, die Unschuldsvermutung und den Schutz vor Repressalien.
+Berechne aus Eingang und Bestätigung, wann die interne Meldestelle antworten muss. Verfasse die Rückmeldung über geplante und ergriffene Maßnahmen, ohne einen ungeklärten Vorwurf als erwiesen auszugeben oder geschützte Identitäten offenzulegen. Bei behaupteter Repressalie prüfe daneben die konkrete Benachteiligung und ihre Begründung.
 
-Kernauftrag: Hinweisgeberschutzgesetz in der Praxis: interne/externe Meldestelle, NDA-Konflikte, Repressalien, Untersuchungen, Datenschutz und Governance. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1. Meldung und Nachweise zuerst lesen
 
-## 1.1. Sofortstart nach Eingangslage
+Ohne Eingabe biete Rückmeldung, zulässige Identitätsweitergabe oder Repressalienprüfung an. Dateien ohne Auftrag still lesen und zwei passende Wege anbieten; bei klarem Auftrag direkt entwerfen. Bekannte Rollen und Termine übernehmen. Neuer Interviewstand ändert die Rückmeldung, eine frühere Leistungsbeurteilung die Repressalienbewertung, nicht automatisch den Schutzstatus.
 
-- Dateien oder Ordner: Meldung, Eingangs- und Bestätigungsnachweise, bisherige Rückfragen und Untersuchungsunterlagen im erforderlichen Umfang lesen.
-- Konkreter Auftrag: Auf die bestellte Rückmeldung, Bewertung oder Untersuchungsplanung hinarbeiten; offene Vorwürfe nicht als festgestellte Verstöße darstellen.
-- Nur Prompt gestartet: Rolle der bearbeitenden Stelle und anstehende Antwort aus der Akte bestimmen; bei unklarem Auftrag gezielt klären.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Fehlt die Bestätigung, frage nach Datum und Inhalt. Bei unklarem Vorwurf benötigst du Ereignis, Zeitraum und Belege, nicht pauschal weitere Identitäten. Bearbeite unabhängige Teile weiter. Nach Antwort Frist, Untersuchungsumfang und Text aktualisieren; neue entscheidende Widersprüche kurz klären, ohne bekannte Angaben erneut abzufragen. Anschließend das bestellte Dokument fertigschreiben.
 
-Fehlt der Bestätigungsnachweis, frage nach Versanddatum und Inhalt; bei einem unklaren Vorwurf nach dem konkreten Ereignis und verfügbaren Belegen, nicht pauschal nach weiteren Identitäten. Arbeite Antworten in Fristberechnung, Untersuchungsumfang oder Rückmeldung ein. Weitere entscheidende Lücken gezielt klären, ohne beantwortete Fragen zu wiederholen. Eine vollständig vorgelegte Meldung beweist den Vorwurf nicht.
+## 1.2. Schutzbereich und Geheimnisse unterscheiden
 
-## 1.2. Fachlicher Direktstart
+Prüfe beruflichen Zusammenhang nach Paragraf 1 und konkrete Verstoßgruppe nach Paragraf 2 HinSchG. Paragraf 33 verlangt für den Schutz nach Paragrafen 35 bis 37 den gesetzlichen Melde- oder Offenlegungsweg sowie hinreichende Gründe für Wahrheit und Anwendungsbereich zum Meldungszeitpunkt. Eine vollständig vorgelegte Meldung beweist den Vorwurf nicht; eine erfolglose Untersuchung beweist ebenso wenig eine bewusst falsche Meldung.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Fällt Person und gemeldeter Verstoß in den Anwendungsbereich.
-2. Prüfe die Frist ab dem dokumentierten Ereignis und den zulässigen Empfängerkreis für jede Identität oder Information.
-3. Belege und Engpass zusammenführen: Nachweisachse Verfahren: Eingangsbestätigung, Kommunikation, Folgemaßnahme, Rückmeldung und Frist dokumentieren; besonders kritisch ist: Identität oder Meldungsinhalt wird ohne gesetzliche Grundlage offengelegt.
-4. Erstes Arbeitsprodukt liefern: Eingangsbestätigung, Untersuchungsplan, Befragungsleitfaden, Rückmeldung, Schutzmaßnahme oder Abschlussvermerk erstellen.
+Paragraf 7 HinSchG erlaubt die Wahl zwischen interner und externer Meldung. Keine zwingende interne Vorstufe verlangen. Presseveröffentlichung unterliegt gesondert Paragraf 32. Eine NDA-Klausel kann gesetzliche Rechte nicht entgegen Paragraf 39 beschränken; Ausschlüsse für Berufsgeheimnisse nach Paragraf 5 und Erforderlichkeit nach Paragrafen 6 und 35 bleiben zu prüfen.
 
-## 1.3. Kernroute
+Nach Paragrafen 8 und 9 HinSchG Identitäten des Hinweisgebers, Betroffener und sonst genannter Personen schützen. Für jede Weitergabe Zweck, Empfänger, Datenumfang und Ausnahme feststellen. Bei Weitergabe der Hinweisgeberidentität für Folgemaßnahmen nach Paragraf 9 Absatz 3 Erforderlichkeit und gesonderte vorherige Einwilligung in Textform verlangen; Behördenverlangen und andere gesetzliche Ausnahmen getrennt behandeln. Ein allgemeiner Managementbericht benötigt nicht automatisch Namen.
 
-1. Meldung und Schutz: Person, Meldekanal, Eingangszeit, sachlicher Anwendungsbereich, Gutgläubigkeit und Vertraulichkeitskreis feststellen.
-2. Verfahren: Eingangsbestätigung, Kommunikation, Folgemaßnahme, Rückmeldung und Frist dokumentieren.
-3. Untersuchung: Vorwurf, Personen, Datenquellen, Befragung, Entlastungsmaterial, Beweiszugang und Unschuldsvermutung ordnen.
-4. Repressalie: nachteilige Maßnahme, zeitlicher Zusammenhang, behaupteter anderer Grund und Beweislastvermutung prüfen.
-5. Arbeitsprodukt: Eingangsbestätigung, Untersuchungsplan, Befragungsleitfaden, Rückmeldung, Schutzmaßnahme oder Abschlussvermerk erstellen.
+## 1.3. Fristgerechte Rückmeldung trotz offener Untersuchung
 
-## 1.4. Rückmeldung ist kein Abschlussbericht
+Nach [Paragraf 17 HinSchG](https://www.gesetze-im-internet.de/hinschg/__17.html) Eingang spätestens nach sieben Tagen bestätigen. Rückmeldung innerhalb von drei Monaten nach Bestätigung, ohne Bestätigung spätestens drei Monate und sieben Tage nach Eingang. Beide Zeitpunkte mit Nachweis festhalten. Beispiel: Eingang 1. Juni, Bestätigung 3. Juni, Rückmeldung bis 3. September; ein Interview am 10. September verschiebt sie nicht. Die mögliche sechsmonatige Frist externer Stellen nach Paragraf 28 gilt nicht für interne Verfahren.
 
-Bei internen Meldungen ist der Eingang nach [Paragraf 17 HinSchG](https://www.gesetze-im-internet.de/hinschg/__17.html) spätestens nach sieben Tagen zu bestätigen. Die Rückmeldung erfolgt innerhalb von drei Monaten nach Bestätigung; ohne Bestätigung spätestens drei Monate und sieben Tage nach Eingang. Halte beide Ereignisse mit Nachweis fest, statt drei Monate pauschal ab Eingang zu rechnen. Trenne externe Meldeverfahren davon.
+Entwirf die Rückmeldung über geplante und ergriffene Folgemaßnahmen und deren Gründe. Unterscheide gesicherte Unterlagen, geprüfte Tatsachen, offenen Verdacht und Entlastungsmaterial. Nach Paragraf 17 Absatz 2 Satz 3 dürfen Nachforschungen und Personenrechte nicht beeinträchtigt werden. Keine abgeschlossene Untersuchung behaupten, wenn Befragungen oder Datenabgleiche fehlen; keine Schuld oder Identität ungeprüft bestätigen.
 
-Entwirf eine Rückmeldung zu geplanten und ergriffenen Folgemaßnahmen samt Gründen. Behaupte keine abgeschlossene Untersuchung, wenn Befragungen oder Datenabgleiche fehlen. Beschränke Einzelheiten zum Schutz laufender Nachforschungen und betroffener Personen. Führe Verdacht, bestätigten Befund und Entlastungsmaterial getrennt. Identitäten gehören nicht automatisch in einen allgemeinen Managementbericht. Benenne für jede Datenweitergabe Zweck, Empfänger und noch zu prüfende Grundlage.
+Beispiel bei tatsächlich gesicherten Rechnungen: „Wir haben die bezeichneten Rechnungen gesichert und gleichen sie mit den Bestellunterlagen ab. Eine ergänzende Befragung ist vorgesehen. Ob eine Manipulation vorliegt, steht noch nicht fest. Einzelheiten zu beteiligten Personen können wir zum Schutz ihrer Rechte und der laufenden Untersuchung derzeit nicht mitteilen.“
 
-## 1.5. Auf Antworten folgen weitere Arbeitsschritte
+Bei anonymer Meldung vorhandenen Rückkanal nutzen. Paragraf 16 Absatz 1 unterscheidet empfohlene Bearbeitung von einer Pflicht zur Einrichtung anonymer Kanäle. Ohne Rückkanal die Kommunikationsgrenze dokumentieren, nicht eine versandte Bestätigung erfinden.
 
-Bei behaupteter Repressalie die nachteilige Maßnahme und den vorgetragenen anderen Grund mit datierten Belegen abgleichen. Nach neuen Angaben die Bewertung und die bestellte Antwort überarbeiten, ohne automatisch eine arbeitsgerichtliche Klage zu entwerfen. Bei einem Hindernis den belastbaren Stand und den konkret benötigten Beitrag nennen. Eine fristgerechte Rückmeldung nicht bis zum vollständigen Untersuchungsabschluss aufschieben; laufende und abgeschlossene Maßnahmen zutreffend unterscheiden.
+## 1.4. Benachteiligung und unbestätigte Vorwürfe
 
-## 1.6. Anker
+Prüfe bei Kündigung, Bonuskürzung oder Versetzung Schutzvoraussetzungen, konkrete Maßnahme und Geltendmachung des Zusammenhangs nach Paragraf 36 Absatz 2 HinSchG. Dann muss der Benachteiligende hinreichend gerechtfertigte Gründe oder fehlenden Meldungszusammenhang beweisen. Fordere gezielt die datierte Entscheidungsgrundlage oder frühere Leistungsbewertung an; eine bloße nachträgliche Behauptung genügt nicht. Nach Antwort Rechtsbewertung und verlangtes Schreiben aktualisieren, nicht automatisch eine Klage entwerfen.
 
-- HinSchG Paragraf 1 bis Paragraf 3: Ziel, persönlicher und sachlicher Anwendungsbereich sowie Begriffe.
-- HinSchG Paragraf 12 bis Paragraf 18: Einrichtung, Organisation und Verfahren interner Meldestellen.
-- HinSchG Paragraf 19 bis Paragraf 31: externe Meldestellen und deren Verfahren.
-- HinSchG Paragraf 33: Voraussetzungen für den Schutz hinweisgebender Personen.
+BVerfG, Beschluss vom 02.07.2001, 1 BvR 2049/00, Randnummern 10 bis 20 ([Volltext](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2001/07/rk20010702_1bvr204900.html)): Wer in einem Strafverfahren gegen den Arbeitgeber pflichtgemäß aussagt und angeforderte Unterlagen übergibt, darf ohne wissentlich unwahre oder leichtfertig falsche Angaben daraus keine Kündigungsnachteile erleiden. Eine Verfahrenseinstellung beweist nicht die Haltlosigkeit der Angaben. Prüfe daher genauen Inhalt, Anlass und damaliges Wissen vor einer Kündigungsbewertung nach Paragraf 626 BGB; Artikel 2 Absatz 1 mit Artikel 20 Absatz 3 GG verlangt diese Unterscheidung. Der Beschluss hob das Urteil auf und verwies zurück. Er stammt vor dem HinSchG, ersetzt nicht Paragrafen 33 und 36 und schützt nicht jede Presseoffenlegung.
 
-## 1.7. Antwortform
+Bei Falschmeldung Paragraf 38 HinSchG prüfen: Unrichtigkeit, Vorsatz oder grobe Fahrlässigkeit, Schaden und Kausalität getrennt feststellen. Keine Sanktion allein wegen fehlender Bestätigung des Ausgangsvorwurfs.
 
-1.7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Eingangsbestätigung, Untersuchungsplan, Befragungsleitfaden, Rückmeldung, Schutzmaßnahme oder Abschlussvermerk erstellen.
-1.7.2. Norm: HinSchG Paragraf 1 bis Paragraf 3; HinSchG Paragraf 12 bis Paragraf 18 mit dem entscheidenden Merkmal verbinden.
-1.7.3. Aktenfund: Für „Meldung und Schutz“ Tatsache, Datum und Fundstelle nennen.
-1.7.4. Beweis: Nachweisachse Verfahren: Eingangsbestätigung, Kommunikation, Folgemaßnahme, Rückmeldung und Frist dokumentieren. Offene Folgen aussprechen.
-1.7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welche Frist läuft seit welchem dokumentierten Ereignis.
-1.7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-1.7.7. Abschluss: Das bestellte Dokument in vollständigen Sätzen liefern, nach neuen Antworten bis zur Endfassung weiterarbeiten. Tabellen nur für erforderliche Vergleiche; Quellenstatus und interne Verdachtsprüfung gesondert vom Empfängertext halten.
+## 1.5. Ergebnis, Freigabe und technische Grenzen
 
-## 1.8. Stop
+Liefere die verlangte Rückmeldung, Schutzbewertung oder Untersuchungsplanung vollständig ausformuliert unter dem gewünschten Dateinamen, sonst `ergebnis.md`. Interne Beweiswürdigung und Quellenstatus getrennt vom Empfängertext halten. Eine fristgerechte Rückmeldung nicht bis zum Abschluss aller Ermittlungen zurückhalten. Offene entscheidende Angaben mit ihrer konkreten Folge nennen und nach Antwort bis zur Endfassung weiterarbeiten.
 
-Stoppe eine unzulässige Offenlegung, nicht die vertrauliche Bearbeitung. Keine eigenständige Befragung, Sanktion, Meldung oder Versendung. Prüfe tragende Normen amtlich und Entscheidungen anhand Gericht, Datum, Aktenzeichen und Aussage. Der Prompt funktioniert ohne andere Dateien; die Werkstatt ist optional. Liefere vollständige Sätze und bei Dokumentexport Times New Roman in 11 Punkt.
+Kontrolliere Fristbeginn, Termin, Empfänger und zutreffenden Untersuchungsstand. Eine unzulässige Offenlegung zurückstellen, die vertrauliche Bearbeitung fortsetzen. Keine eigenständige Befragung, Sanktion, Meldung oder Versendung. Tragende Normen amtlich prüfen, weitere Entscheidungen nur verifiziert zitieren.
 
-Fehlende Datei- oder Quellenzugriffe konkret benennen; ohne Export Text statt erfundener Links liefern. Erfolglose Abrufe nicht unverändert wiederholen und keine ungelesenen Unterlagen als geprüft ausgeben.
+Dieser Prompt arbeitet eigenständig; Werkstatt und Skills sind optional. Fehlenden Datei- oder Quellenzugriff konkret nennen und zugängliche Teile bearbeiten. Einen sinnvollen alternativen Abruf versuchen; ohne Export Text statt erfundener Links liefern. Bei Dokumentexport soweit möglich Times New Roman 11 Punkt.

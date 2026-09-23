@@ -1,21 +1,39 @@
 {
   "schema_version": 1,
   "plugin": "denkmalschutzrecht",
-  "reviewed_on": "2026-09-17",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-bayern.de/Content/Document/BayDSchG-6",
       "checked_on": "2026-09-14",
       "supports": "Artikel 6 in der ab Mai 2026 geltenden Fassung: Freistellungen, insbesondere bestimmte Küchen- und Baderneuerungen, und Verhältnis zur Baugenehmigung."
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/1999/03/ls19990302_1bvl000791.html",
+      "checked_on": "2026-09-22",
+      "supports": "BVerfG, Beschluss vom 02.03.1999, Az. 1 BvL 7/91, Randnummern 92 bis 104: Bei fehlender sinnvoller Nutzung und praktischer Unveräußerlichkeit reale Entlastung und gesetzlich vorgesehenen Ausgleich mit der belastenden Entscheidung prüfen. Grenze: Früheres rheinland-pfälzisches Recht; weder jeder Sanierungsverlust noch die Entscheidung selbst begründet einen Abriss- oder unmittelbaren Geldanspruch."
+    },
+    {
+      "url": "https://www.gesetze-bayern.de/Content/Document/BayDSchG-6",
+      "checked_on": "2026-09-22",
+      "supports": "Vollständigen geltenden Artikel mit Stand ab 01.05.2026 gelesen; Freistellung substanzschonender Küchen-/Baderneuerungen und Konzentration bei Baugenehmigung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gg/art_14.html",
+      "checked_on": "2026-09-22",
+      "supports": "Eigentumsinhaltsbestimmung, Sozialbindung und Enteignung getrennt anhand des geltenden Wortlauts."
     }
   ],
   "mini_review": {
-    "verdict": "retained",
-    "reason": "Vollständig am 18. September gelesen: Substanzbefund und Kosten-/Fördernachweise führen zur geänderten Maßnahmenbeschreibung und Zumutbarkeitsrechnung; Landesrecht und Bewilligung werden nicht vermutet.",
+    "verdict": "revised",
+    "reason": "Bayerische Baderneuerung an sämtliche Freistellungsbedingungen gebunden; Bescheid löst keinen ungefragten Rechtsbehelf aus. Workflow-Ergänzung einzeln geprüft: Günstigeres Angebot für denselben Erhaltungsumfang -> Zumutbarkeitsrechnung, Ablehnungsgründe und Maßnahmenantrag gemeinsam ändern.",
     "changes": [
-      "Keine weitere Änderung der Mini-Fassung."
+      "Artikel 6 Absatz 3 Nummer 1 Buchstabe a und Absatz 5 BayDSchG in geltender Fassung konkret angewendet",
+      "BVerfG-Zumutbarkeitsmaßstab mit Nutzung, Veräußerbarkeit, realer Entlastung und rechtzeitigem Ausgleich verbunden",
+      "Bestehende Boden-, Steuer-, Welterbe- und Brandenburg-Routen erhalten; interne Überschriften und Rückfall-Checkliste beseitigt",
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
     ],
-    "sha256": "3249b2a9a5f2ea35c0c56da3353715f0e4cb09155ee1abe9eec214df9dee15b6"
+    "sha256": "2ce865e232359e34604b5d85e537ba77174bd4010edb5ff365d3144c04aa9f6a"
   },
   "selection": {
     "positive": [
@@ -63,12 +81,53 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Textprüfung am 18. September: Der gesamte Werkstatttext enthielt neben guten Fortsetzungsregeln landesübergreifende Pauschalbehauptungen und doppelte Pflichtprodukte. Erlaubnisversagung und belastende Verfügung waren im Rechtsschutz nicht sauber getrennt.",
+    "reason": "Affirmative Stopplisten und Entwurfsbeschränkung entfernt; Landesrecht, Bodendenkmal und Zumutbarkeit sauber getrennt. Workflow-Ergänzung einzeln geprüft: Bauteilbezogene Reparatur- und Ersatzvarianten, Befundschichten und Planfassung; vergleichbarer Kostenumfang statt Komfortkosten; Förderungsausfall, Baustopp, Anhörung und getrennte Steuerbescheinigung.",
     "changes": [
-      "Erlaubnistatbestand, Ausnahmen und Verfahrensweg am konkreten Landesrecht prüfen.",
-      "Fundanzeige und Eigentumszuordnung getrennt; keine ungeprüfte universelle Schatzregalzuordnung.",
-      "Objekt-, Kosten-, Steuer- und regionale Welterbethemen erhalten, doppelte Schablonen entfernt und Gliederung berichtigt."
+      "Artikel 6 Absatz 3 Nummer 1 Buchstabe a und Absatz 5 BayDSchG in geltender Fassung konkret angewendet",
+      "BVerfG-Zumutbarkeitsmaßstab mit Nutzung, Veräußerbarkeit, realer Entlastung und rechtzeitigem Ausgleich verbunden",
+      "Bestehende Boden-, Steuer-, Welterbe- und Brandenburg-Routen erhalten; interne Überschriften und Rückfall-Checkliste beseitigt",
+      "Bauteilbezogene Reparatur- und Ersatzvarianten, Befundschichten und Planfassung; vergleichbarer Kostenumfang statt Komfortkosten; Förderungsausfall, Baustopp, Anhörung und getrennte Steuerbescheinigung."
     ],
-    "sha256": "afd9a9755f6baa67843fc65c152f3660ca7faf4ed81f139567d1f5155d559213"
+    "sha256": "f645d2e771eac9acd5ec04bf19ac0c9ebd97d85e1dec83b66c6f8532eeeea065"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-23",
+    "files": [
+      "denkmalschutzrecht/denkmalschutzrecht-schnellstart.md",
+      "denkmalschutzrecht/denkmalschutzrecht-werkstatt.md",
+      "denkmalschutzrecht/README.md",
+      "quality/evals/denkmalschutzrecht.json"
+    ],
+    "opening_change": "Erlaubnisfreiheit, genehmigungsfähige Ausführung und unzumutbare Erhaltungsforderung am konkreten Befund statt abstrakter Denkmalschutzbearbeitung. Workflow-Ergänzung: Leer: Umbauerlaubnis, Antwort auf eine Erhaltungsforderung oder steuerliche Maßnahmenzuordnung anbieten. Dateien ohne Aufgabe: Befunde und Bescheid still lesen; Antrag für konkrete Bauteile oder Baustoppantwort klären. Klarer Auftrag: Maßnahmenbeschreibung oder Stellungnahme direkt ausarbeiten; bekannte Objekt- und Landesangaben übernehmen.",
+    "norms": [
+      "Artikel 14 Absätze 1 bis 3 GG",
+      "Artikel 6 Absatz 3 Nummer 1 Buchstabe a und Absatz 5 BayDSchG"
+    ],
+    "decisions": [
+      {
+        "citation": "BVerfG, Beschluss vom 02.03.1999, Az. 1 BvL 7/91, Randnummern 92 bis 104",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/1999/03/ls19990302_1bvl000791.html",
+        "application": "Bei fehlender sinnvoller Nutzung und praktischer Unveräußerlichkeit reale Entlastung und gesetzlich vorgesehenen Ausgleich mit der belastenden Entscheidung prüfen.",
+        "limit": "Früheres rheinland-pfälzisches Recht; weder jeder Sanierungsverlust noch die Entscheidung selbst begründet einen Abriss- oder unmittelbaren Geldanspruch."
+      }
+    ],
+    "remaining_limits": [
+      "Desk-/Quellenprüfung, kein Live-Ergebnistest.",
+      "BVerfG-Direktabruf gesperrt; amtlich indexierte Leitsätze und entscheidende Randnummern 92 bis 104 ausgewertet, kein vollständig direkt abgerufener Urteilstext.",
+      "Keine aktuelle Vollprüfung der sechzehn Landesgesetze, Steuerbescheinigungen oder konkreten Welterbevorhaben.",
+      "Workflow-Review 23.09.2026: erneuter Abruf von Artikel 6 BayDSchG nicht erfolgreich; BVerfG-Zugang auf amtlich indexierte Passagen begrenzt. Keine Vollprüfung aller Landesdenkmalschutzgesetze."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Umbauerlaubnis, Antwort auf eine Erhaltungsforderung oder steuerliche Maßnahmenzuordnung anbieten.",
+      "Dateien ohne Aufgabe: Befunde und Bescheid still lesen; Antrag für konkrete Bauteile oder Baustoppantwort klären.",
+      "Klarer Auftrag: Maßnahmenbeschreibung oder Stellungnahme direkt ausarbeiten; bekannte Objekt- und Landesangaben übernehmen."
+    ],
+    "continuation": "Günstigeres Angebot für denselben Erhaltungsumfang -> Zumutbarkeitsrechnung, Ablehnungsgründe und Maßnahmenantrag gemeinsam ändern.",
+    "enrichment": "Bauteilbezogene Reparatur- und Ersatzvarianten, Befundschichten und Planfassung; vergleichbarer Kostenumfang statt Komfortkosten; Förderungsausfall, Baustopp, Anhörung und getrennte Steuerbescheinigung.",
+    "limits": "desk review; no live client execution"
   }
 }

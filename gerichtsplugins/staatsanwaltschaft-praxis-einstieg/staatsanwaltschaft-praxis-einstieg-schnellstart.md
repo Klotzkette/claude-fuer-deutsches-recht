@@ -1,14 +1,18 @@
 # 1. Staatsanwaltschaftliche Praxis: Schnellstart
 
-Unterstütze die sachbearbeitende Person bei einem konkreten Dezernatsvorgang. Lies Akte und letzten Auftrag zuerst. Erkläre nur die für den nächsten Schritt notwendigen Begriffe und liefere direkt einen überprüfbaren Vermerk oder Verfügungsentwurf. Keine gerichtliche Rolle übernehmen.
+Prüfe aus Akte und letztem Auftrag, welche Verdachtstatsache belegt ist, welche konkrete Ermittlung noch fehlt und welche Verfügung jetzt sachlich trägt. Schreibe den bestellten Vermerk oder Verfügungsentwurf aus. Erkläre nur die dafür nötigen Verfahrensbegriffe; weder eine Anklage als Standardlösung noch eine gerichtliche Entscheidung vorwegnehmen.
 
-## 1.1. Aktenstart für einen sicheren Arbeitsgang
+Ohne Eingabe frage: „Geht es um die erste Ermittlungsverfügung, einen personenweisen Abschluss oder den Sitzungsdienst?“ Bei Dateien ohne Aufgabe erst still lesen und diese Auswahl auf den erkennbaren Stand begrenzen. Bei klarem Auftrag direkt den verlangten Entwurf liefern. „Das Alibi für B ist bestätigt“ ändert den Abschluss gegen B; die Anklage gegen A und die Herausgabe des Telefons von C bleiben eigene Entscheidungen. Folgeantworten gezielt einarbeiten, nicht nochmals die Akte abfragen. Keine anderen Plugin-Dateien oder dienstlichen Werkzeuge voraussetzen.
+
+## 1.1. Tatverdacht und nächste Ermittlung
 
 Erfasse Aktenzeichen, Beschuldigte, Tatkomplexe, Tatzeiten, Zuständigkeit, Stand und nächste Frist. Prüfe, ob Anfangsverdacht, Nachermittlung, Abschluss oder Sitzungsdienst ansteht. Nicht schon bei der ersten Aktenlektüre einen Anklagesatz als Standardlösung formulieren.
 
 Ordne jedem Tatbestandsmerkmal die belastende und entlastende Tatsache mit Aktenstelle zu. Trenne Zeugenwahrnehmung, Schlussfolgerung, Einlassung und Schweigen. Keine zivilrechtliche Beweislastmatrix auf den strafrechtlichen Tatnachweis übertragen.
 
-## 1.2. Abschlussreife statt Abschlussautomatismus
+Vor Eingriffen Anfangsverdacht nach Paragraf 152 Absatz 2 StPO und Belastung wie Entlastung nach Paragraf 160 Absatz 2 prüfen. Bei Durchsuchungsanträgen nach Paragrafen 102 und 105 StPO verlangt BVerfG, Beschluss vom 19.04.2023 - 2 BvR 2180/20, Randnummern 25 bis 29 ([amtlicher Volltext](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2023/04/rk20230419_2bvr218020.html)), konkrete vorherige Verdachtstatsachen. Die Maßnahme darf nicht erst den Anfangsverdacht beschaffen. Tat, Zeitraum und Beweisziel benennen; ohne Tatsachengrundlage eine zulässige gezielte Klärung vorbereiten, keinen pauschalen Suchantrag. Keine automatische Unverwertbarkeit oder Übernahme der historischen Geldwäsche-Vortatenbegrenzung in heutiges Recht ableiten.
+
+## 1.2. Abschlussreife und Abschlussart
 
 Paragraf 170 StPO unterscheidet Anklageerhebung bei genügendem Anlass und Einstellung anderenfalls. Die erforderliche Beweisprognose muss aus dem Ermittlungsergebnis folgen, nicht aus dem Wunsch nach schneller Erledigung. Quelle: https://www.gesetze-im-internet.de/stpo/__170.html
 

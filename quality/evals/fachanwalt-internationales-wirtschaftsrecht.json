@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "fachanwalt-internationales-wirtschaftsrecht",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002854",
@@ -32,26 +32,54 @@
       "url": "https://nrwe.justiz.nrw.de/pdfdownload/downloadEntscheidung.php?entscheidung=/nrwe/olgs/hamm/j2019/2_U_132_18_Urteil_20190325.html",
       "checked_on": "2026-09-14",
       "supports": "OLG Hamm, Urteil vom 25.03.2019, Az. 2 U 132/18, amtlicher Volltext Seiten 13 bis 17 gelesen: Zuordnung und Angemessenheit der Deckungskäufe, Korrektur zu hoher Mengen und konkrete Prüfung günstigerer Beschaffungsmöglichkeiten nach Artikel 77 CISG."
+    },
+    {
+      "url": "https://nrwe.justiz.nrw.de/pdfdownload/downloadEntscheidung.php?entscheidung=/nrwe/olgs/hamm/j2019/2_U_132_18_Urteil_20190325.html",
+      "checked_on": "2026-09-22",
+      "supports": "OLG Hamm, Urteil vom 25.03.2019, Az. 2 U 132/18, Randnummern 114 bis 154: Tatsächliche Ersatzmengen, angemessene Beschaffung und konkrete Schadensminderungsalternative; Ausnahme vor Aufhebung nach Randnummer 126. Grenze: Einzelfall endgültiger Lieferverweigerung bei bestehendem Aufhebungsrecht; keine allgemeine Freigabe früherer Einkäufe oder festen Fallpreise/Fristen."
+    },
+    {
+      "url": "https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002854&Artikel=74",
+      "checked_on": "2026-09-22",
+      "supports": "Amtlichen deutschen Wortlaut des Artikels 74 CISG gelesen; Schadensersatz, Ersatzgeschäft beziehungsweise Schadensminderung."
+    },
+    {
+      "url": "https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002854&Artikel=75",
+      "checked_on": "2026-09-22",
+      "supports": "Amtlichen deutschen Wortlaut des Artikels 75 CISG gelesen; Schadensersatz, Ersatzgeschäft beziehungsweise Schadensminderung."
+    },
+    {
+      "url": "https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002854&Artikel=77",
+      "checked_on": "2026-09-22",
+      "supports": "Amtlichen deutschen Wortlaut des Artikels 77 CISG gelesen; Schadensersatz, Ersatzgeschäft beziehungsweise Schadensminderung."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Mini und CISG-Fokuspaar wurden vollständig auf Lieferchargen, Deckungskauf und Schadensüberschneidungen geprüft.",
+    "reason": "OLG-Hamm-Fall wird zur Mengenabgrenzung, Beschaffungsangemessenheit und engen Ausnahme vorgezogener Deckungskäufe genutzt. Workflow-Ergänzung einzeln geprüft: Ersatzware hat höhere Qualität oder eine verspätete Charge wurde doch genutzt -> Mehrpreis, Ausfallzeit und Schadensforderung neu berechnen.",
     "changes": [
-      "Nach Chargen- oder Ersatzkaufnachweisen den Schaden neu zuordnen und das bestellte Dokument fertigstellen; Dateiwunsch hat Vorrang."
+      "OLG Hamm 2 U 132/18 amtlich erneut gelesen; gerichtliche Gründe von Parteibehauptungen unterschieden",
+      "Ausnahme vom zeitlich nachfolgenden Deckungskauf nur bei Aufhebungsrecht und endgültiger Erfüllungsverweigerung",
+      "Übermengen, Marktvergleich und Einwand nach Artikel 77 operativ mit Belegen verbunden; keine zusätzlichen Dokumente bei reinem Rechenauftrag",
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
     ],
-    "sha256": "1a3e8654879865185c66fdd9c35a4a20a985ed216a7709948c647b4e85412b0e"
+    "sha256": "4d97c92acc822eae87530805770451c0eedd9a8d57debe392c954279c1a393ec"
   },
   "focus_review": {
-    "reviewed_on": "2026-09-17",
+    "reviewed_on": "2026-09-23",
     "method": "desk_review",
-    "verdict": "retained",
-    "reason": "Standalone-Prompt und zugeordneter Fokus-Skill vollständig auf fachlichen Umfang, Rückfragen mit Fortsetzung bis zum bestellten Dokument, Ausgabeverhalten, Rollenbegrenzung und Quellendifferenzierung gelesen. Kein Live-Modelltest und keine erneute Vollverifikation der bestehenden Rechtsquellen.",
-    "changes": [],
+    "verdict": "revised",
+    "reason": "Hauptproblem und Fokus-Skill vollständig gelesen und zur eng begrenzten Ausnahme in Randnummer 126 sowie tatsächlicher Ersatzmenge konsistent präzisiert. Workflow-Ergänzung: Ersatzware hat höhere Qualität oder eine verspätete Charge wurde doch genutzt -> Mehrpreis, Ausfallzeit und Schadensforderung neu berechnen. Zugeordneten Fokus-Skill auf Kohärenz gelesen und unverändert belassen.",
+    "changes": [
+      "OLG Hamm 2 U 132/18 amtlich erneut gelesen; gerichtliche Gründe von Parteibehauptungen unterschieden",
+      "Ausnahme vom zeitlich nachfolgenden Deckungskauf nur bei Aufhebungsrecht und endgültiger Erfüllungsverweigerung",
+      "Übermengen, Marktvergleich und Einwand nach Artikel 77 operativ mit Belegen verbunden; keine zusätzlichen Dokumente bei reinem Rechenauftrag",
+      "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten."
+    ],
     "prompt_path": "fachanwalt-internationales-wirtschaftsrecht/fachanwalt-internationales-wirtschaftsrecht-hauptproblem.md",
-    "prompt_sha256": "9f1c5515f08014f4c47bb85a9995c69137c5fc94350688721b8e06e7232861ff",
+    "prompt_sha256": "219818169f9c8472ddf249b2a56348ca00c591454be0c607d1b5b3e86349ae4b",
     "skill_path": "fachanwalt-internationales-wirtschaftsrecht/skills/cisg-deckungskauf-lieferchargen-schaden/SKILL.md",
-    "skill_sha256": "43fbe9e069763fa70fc891281386b94a4e517d2e1a37342abc2fbb8acea6bc71"
+    "skill_sha256": "3a22ae68795573e6bfc953f5897e25b74cc19a893bf390cbd33f7471f716e6b1"
   },
   "selection": {
     "positive": [
@@ -107,10 +135,53 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die ganze Werkstatt wurde einschließlich Außenwirtschaft, Streitbeilegung und Vollzug gelesen.",
+    "reason": "Breite Zuständigkeits-, Rechtswahl-, Schieds-, Außenhandels- und Datenschutzarbeit erhalten; Lieferstreit anhand gerichtlicher Subsumtion konkretisiert. Workflow-Ergänzung einzeln geprüft: Tatsächlich übermittelte AGB und Forumklausel, internationale Zustellung, chargenbezogener Deckungskauf, geretteter Gewinn, Währung und Nebenkosten sowie Empfänger- und Genehmigungsbedingungen im Vergleich.",
     "changes": [
-      "Forum, Sachrecht und Durchsetzung getrennt; allgemeine Abbruch- und unpassende Vollzugsroutinen durch konkrete Fachschritte ersetzt."
+      "OLG Hamm 2 U 132/18 amtlich erneut gelesen; gerichtliche Gründe von Parteibehauptungen unterschieden",
+      "Ausnahme vom zeitlich nachfolgenden Deckungskauf nur bei Aufhebungsrecht und endgültiger Erfüllungsverweigerung",
+      "Übermengen, Marktvergleich und Einwand nach Artikel 77 operativ mit Belegen verbunden; keine zusätzlichen Dokumente bei reinem Rechenauftrag",
+      "Tatsächlich übermittelte AGB und Forumklausel, internationale Zustellung, chargenbezogener Deckungskauf, geretteter Gewinn, Währung und Nebenkosten sowie Empfänger- und Genehmigungsbedingungen im Vergleich."
     ],
-    "sha256": "a689e57603e4832851c1957a43cec39ae4c5c7b435940a2025580809072b0ce5"
+    "sha256": "d27f050c57062b85719a1a45b9dc187826127a41733d6a883f6164bbf6c5da39"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-23",
+    "files": [
+      "fachanwalt-internationales-wirtschaftsrecht/fachanwalt-internationales-wirtschaftsrecht-hauptproblem.md",
+      "fachanwalt-internationales-wirtschaftsrecht/fachanwalt-internationales-wirtschaftsrecht-werkstatt.md",
+      "fachanwalt-internationales-wirtschaftsrecht/fachanwalt-internationales-wirtschaftsrecht-schnellstart.md",
+      "fachanwalt-internationales-wirtschaftsrecht/skills/cisg-deckungskauf-lieferchargen-schaden/SKILL.md",
+      "fachanwalt-internationales-wirtschaftsrecht/README.md",
+      "quality/evals/fachanwalt-internationales-wirtschaftsrecht.json"
+    ],
+    "opening_change": "Forum, Sachrecht und konkret durchsetzbare Leistung beziehungsweise chargenbezogenen Schaden statt abstrakter grenzüberschreitender Bearbeitung. Workflow-Ergänzung: Leer: Gerichtsstand, internationale Lieferstörung oder Vertragsgestaltung anbieten. Dateien ohne Aufgabe: Vertragsfassungen, Lieferchargen und Mehrkostenbelege still lesen; Forum-, Leistungs- oder Bezifferungsziel klären. Klarer Auftrag: konkreten Vertrag, Anspruch oder Abwehrtext unmittelbar bearbeiten; bekannte Länder- und Lieferdaten übernehmen.",
+    "norms": [
+      "Artikel 74, 75 und 77 CISG"
+    ],
+    "decisions": [
+      {
+        "citation": "OLG Hamm, Urteil vom 25.03.2019, Az. 2 U 132/18, Randnummern 114 bis 154",
+        "url": "https://nrwe.justiz.nrw.de/pdfdownload/downloadEntscheidung.php?entscheidung=/nrwe/olgs/hamm/j2019/2_U_132_18_Urteil_20190325.html",
+        "application": "Tatsächliche Ersatzmengen, angemessene Beschaffung und konkrete Schadensminderungsalternative; Ausnahme vor Aufhebung nach Randnummer 126.",
+        "limit": "Einzelfall endgültiger Lieferverweigerung bei bestehendem Aufhebungsrecht; keine allgemeine Freigabe früherer Einkäufe oder festen Fallpreise/Fristen."
+      }
+    ],
+    "remaining_limits": [
+      "Desk-/Quellenprüfung, kein Live-Ergebnistest.",
+      "Amtliches PDF insbesondere Randnummern 95 bis 158 gelesen; kein erneuter Vollcheck sämtlicher Forum-, Sanktions-, Drittlanddaten- oder Investitionsschutzfragen.",
+      "Workflow-Review 23.09.2026: erneuter RIS-Abruf zu Artikel 75 CISG nicht zugänglich. Vorhandene Nachweise und Grenzen des vorzeitigen Deckungskaufs beibehalten, keine neue Rechtsprechung ergänzt."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Gerichtsstand, internationale Lieferstörung oder Vertragsgestaltung anbieten.",
+      "Dateien ohne Aufgabe: Vertragsfassungen, Lieferchargen und Mehrkostenbelege still lesen; Forum-, Leistungs- oder Bezifferungsziel klären.",
+      "Klarer Auftrag: konkreten Vertrag, Anspruch oder Abwehrtext unmittelbar bearbeiten; bekannte Länder- und Lieferdaten übernehmen."
+    ],
+    "continuation": "Ersatzware hat höhere Qualität oder eine verspätete Charge wurde doch genutzt -> Mehrpreis, Ausfallzeit und Schadensforderung neu berechnen.",
+    "enrichment": "Tatsächlich übermittelte AGB und Forumklausel, internationale Zustellung, chargenbezogener Deckungskauf, geretteter Gewinn, Währung und Nebenkosten sowie Empfänger- und Genehmigungsbedingungen im Vergleich.",
+    "limits": "desk review; no live client execution"
   }
 }

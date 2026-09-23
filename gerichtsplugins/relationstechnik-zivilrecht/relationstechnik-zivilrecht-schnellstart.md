@@ -1,6 +1,10 @@
 # 1. Zivilrelation aus dem Streitstoff entwickeln
 
-Lies zuerst Anträge, Klage, Erwiderung, Replik und vorhandene Protokolle. Bearbeite die angeforderte Station, das Votum oder den Beweisbeschluss. Halte Parteien, Streitgegenstand, Verfahrensstand und entscheidende Aktenstellen fest. Fehlende Seiten oder unlesbare Anlagen konkret benennen; keine Aussagen aus ihrem Dateinamen ableiten. Rückfragen nur zu Lücken, die eine tragende Bewertung blockieren. Das Ergebnis ist ein Vorschlag zur richterlichen Prüfung, keine bereits getroffene Entscheidung.
+Ohne Eingabe biete Einzelstation, Gesamtvotum oder Beweisbeschluss an. Dateien ohne Auftrag still lesen und nur passende zwei oder drei Ziele erfragen; keine Aktenzusammenfassung. Klaren Auftrag unmittelbar ausarbeiten. Folgeantworten stationsbezogen einarbeiten, ohne Neustart und ohne lokale Skills vorauszusetzen.
+
+„Das Geld ging an einen Dritten.“ Kläre dessen behauptete Empfangsbefugnis, bevor du einen Beweisbeschluss allein zum Geldfluss fertigstellst; eine offene Erheblichkeitsfrage darf nicht durch Beweisaufnahme ersetzt werden. „Der Zeuge kennt nur eine spätere Erzählung.“ Ändere Wahrnehmungsgrundlage und Würdigung, nicht rückwirkend den Inhalt des Parteivortrags. „Die Zahlung betrifft Rechnung zwei.“ Ordne sie nur dieser Forderung zu und aktualisiere Restbetrag und Nebenforderungen. Die Klägerstation bleibt unverändert, soweit die Anspruchsentstehung davon nicht berührt ist.
+
+Leite aus Klage und Erwiderung ab, ob der Zahlungsanspruch schlüssig ist, eine behauptete Zahlung erheblich wäre und welcher Übergabevorgang noch aufzuklären ist. Lies dazu zuerst Anträge, Replik und vorhandene Protokolle mit. Formuliere die angeforderte Station, das Votum oder den Beweisbeschluss. Halte Parteien, Verfahrensstand und Aktenstellen fest; fehlende Seiten gezielt nachfordern, statt ihren Inhalt zu unterstellen. Der Entwurf ersetzt keine richterliche Entscheidung.
 
 ## 1.1. Klägerstation
 
@@ -19,6 +23,8 @@ Nimm nur streitige und erhebliche Tatsachen in das Beweisprogramm auf. Ordne jed
 Formuliere ein Beweisthema als Tatsachenfrage, nicht als Rechtsfrage „Besteht der Anspruch?“. Bei Zeugen konkreten Vorgang und Wahrnehmung zuordnen. Vorhandene Urkunden anhand ihres Inhalts würdigen: Eine Überweisungsanweisung beweist nicht ohne Weiteres den Eingang beim Gläubiger. Vernehmungen oder Begutachtungen, die noch nicht stattgefunden haben, dürfen keine scheinbaren Ergebnisse erhalten.
 
 ## 1.4. Entscheidung oder weiterer Schritt
+
+Beachte bei einem angebotenen Zeugen Artikel 103 Absatz 1 GG und Paragraf 286 ZPO: BGH, Beschluss vom 17.11.2022, V ZR 25/22, Rn. 10 bis 11 ([amtliche Entscheidung](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2022&Gericht=bgh&Seite=11&anz=3168&nr=132360&pos=346)), beanstandet das Übergehen erheblichen Zeugenbeweises aufgrund einer schon aus anderen Umständen gewonnenen Überzeugung. Eine fehlende Quittung rechtfertigt deshalb nicht, die konkret unter Zeugenbeweis gestellte Barzahlung vorab zu verwerfen. Aussagewürdigung und Beweislast bleiben offen; unerhebliche Beweise müssen nicht erhoben werden.
 
 ### 1.4.1. Ergänzungen stationsbezogen verarbeiten
 

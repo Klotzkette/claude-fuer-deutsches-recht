@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "lobbyregister-bundestag",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/lobbyrg/__2.html",
@@ -12,27 +12,42 @@
       "url": "https://www.gesetze-im-internet.de/lobbyrg/__3.html",
       "checked_on": "2026-09-14",
       "supports": "Absatz 3: unverzügliche, quartalsbezogene und geschäftsjahresbezogene Aktualisierung."
+    },
+    {
+      "url": "https://www.gesetze-bayern.de/Content/Pdf/Y-300-Z-BECKRS-B-2025-N-16380?all=False",
+      "checked_on": "2026-09-22",
+      "supports": "Gesetzliche Interessenvertretung einer Handwerkskammer als tätigkeitsbezogene Registerausnahme einordnen. Amtlicher Tenor und Gründe geprüft. Bayerisches Recht; keine Bundesregisterentscheidung oder Freistellung aller Wirtschaftsverbände."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/lobbyrg/BJNR081800021.html",
+      "supports": "Aktueller amtlicher Normtext: öffentliche Aufgaben juristischer Personen des öffentlichen Rechts nach Paragraf 2 Absatz 2 Nummer 6; Verweisung für Bundesregierung in Absatz 3 Nummer 6.",
+      "checked_on": "2026-09-22"
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Mini vollständig schlussgelesen: Die drei Aktualisierungstakte und die Fortsetzung nach Auftraggeber- oder Finanznachweisen sind tragfähig. Die pauschale Lieferung von Änderungstexten samt Listen widersprach jedoch dem ebenfalls vorgesehenen Vorstandsmemo; die Ausgabe ist jetzt auftragsbezogen.",
+    "reason": "Mini vollständig gelesen und um drei Einstiegsmodi, Reichweite eines Auskunftsersuchens, Agenturkette und konkrete Feldfortschreibung ergänzt. Bestehende Fristen und Kammerabgrenzung erhalten; kein Live-Modelltest.",
     "changes": [
-      "Änderungstexte oder Vorstandsmemo nach Auftrag; Nachweisliste und Freigabevorlage nur bei Bedarf.",
-      "Versionsbezogenen Hinweis auf Fehler eines Ergänzungsskills durch den Vorrang amtlich geprüfter Fristen ersetzt; optionalen Zugriff und eigenständigen Ablauf bewahrt."
+      "Öffentliche Aufgaben einer Kammer von privater Verbandsarbeit abgegrenzt.",
+      "Aktuelle fachgerichtliche Entscheidung mit ausdrücklicher Beschränkung auf bayerisches Registerrecht eingesetzt.",
+      "Vorhandene Aktualisierungstakte, Nachforderung und fertige Feldtexte erhalten.",
+      "Neuer Nachweis einer Hauptagentur ändert bezeichnete Registerdatei und Personenzuordnung; übermittelte Stellungnahme und bereinigte öffentliche Fassung getrennt prüfen."
     ],
-    "sha256": "c446526858eaac24a3e0bc42d1d55de3a92e9b34ae81bfdf00d23463e9faa7bd"
+    "sha256": "1272e1e9f91c75d2f66182cdbf0a7e1652a2d8ce01382f1a64d19a7a402e1643"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt vollständig schlussgelesen: Doppelte Tabellen und Praxisrouten verlangten beliebige Zwischenprodukte, enthielten einen Gesamtstopp bei Zweigniederlassungen und widersprachen den Aktualisierungstakten des Minis. Die fachlichen Themen sind nun nach Registerprüfung, Feldern, Aktualisierung, Veröffentlichung und konkretem Verfahrensauftrag geordnet.",
+    "reason": "Werkstatt individuell um gemischte Tätigkeiten, adressatenabhängige Ausnahmen, Agenturketten, Finanzzuordnung, zusammentreffende Meldetermine und öffentliche Dokumentfassungen vertieft. Kein Live-Portal- oder Modelltest.",
     "changes": [
-      "Generische Pflichtausgaben und doppelte Routen zusammengeführt; nach gezielten Nachforderungen werden betroffene Felder und das bestellte Dokument fertiggestellt.",
-      "Aktualisierungszuordnung zu Paragraf 3 Absatz 3 berichtigt und pauschalen Vierwochenrichtwert entfernt; Paragraf 4 als Registerführung und Bestätigung eingeordnet.",
-      "Adressatenbezogene Ausnahmen, Organisationsprüfung und abgestufte Bußgeldhöchstbeträge anhand der amtlichen Paragrafen 1 bis 5 und 7 LobbyRG abgeglichen.",
-      "Abgeordnetenentscheidung nur als möglicher verfassungsrechtlicher Kontext belassen; öffentliche Registertexte, interne Quellennotizen und Freigabe getrennt."
+      "Öffentliche Aufgaben einer Kammer von privater Verbandsarbeit abgegrenzt.",
+      "Aktuelle fachgerichtliche Entscheidung mit ausdrücklicher Beschränkung auf bayerisches Registerrecht eingesetzt.",
+      "Vorhandene Aktualisierungstakte, Nachforderung und fertige Feldtexte erhalten.",
+      "Individuelles Auskunftsersuchen gegen eigenen Änderungswunsch abgrenzen; lokale Bundestagsausnahme nicht auf Regierungskontakte übertragen.",
+      "Rahmenvertrag, unmittelbaren Auftraggeber, Hauptagentur, Unterauftragnehmer und eingesetzte Personen konsistent zuordnen.",
+      "Finanzmittel und Aufwendungen getrennt abstimmen; September-Beispiel trennt unverzügliche Änderung, Quartalsende und Geschäftsjahresfrist einschließlich fehlendem Abschluss.",
+      "Exakt übermittelte Stellungnahme, förmliche Veröffentlichung, Personenbereinigung und Maschinenlesbarkeit als getrennte Prüfschritte bearbeiten."
     ],
-    "sha256": "ed713ba8e28119adfd8b859a582045df801510963fa83776ba532e29ba6a13b4"
+    "sha256": "abb5eb52b20cc277241d901a476f6a2a4af148cd1898a11cb043b784f0ac6d60"
   },
   "selection": {
     "positive": [
@@ -77,5 +92,42 @@
       ],
       "target_skill": "geschaeftsjahresaktualisierung"
     }
-  ]
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "lobbyregister-bundestag/lobbyregister-bundestag-werkstatt.md",
+      "lobbyregister-bundestag/lobbyregister-bundestag-schnellstart.md"
+    ],
+    "opening_change": "Eintragungspflicht aus konkretem Kontakt und daraus folgende Registerfelder statt unspezifischem Registervorgang.",
+    "norms": [
+      "Paragrafen 1 bis 5 und 7 LobbyRG",
+      "Paragraf 2 Absatz 2 Nummer 6 und Absatz 3 Nummer 6 LobbyRG",
+      "Artikel 2 Satz 1 Nummer 3 Buchstabe c BayLobbyRG ausschließlich für den bayerischen Vergleichsfall"
+    ],
+    "decisions": [
+      {
+        "citation": "VG München, Urteil vom 3. Juni 2025, M 30 K 23.817",
+        "url": "https://www.gesetze-bayern.de/Content/Pdf/Y-300-Z-BECKRS-B-2025-N-16380?all=False",
+        "application": "Gesetzliche Interessenvertretung einer Handwerkskammer als tätigkeitsbezogene Registerausnahme einordnen.",
+        "limit": "Amtlicher Tenor und Gründe geprüft. Bayerisches Recht; keine Bundesregisterentscheidung oder Freistellung aller Wirtschaftsverbände."
+      }
+    ],
+    "remaining_limits": [
+      "Keine Live-Modellprüfung; Quelle und Register- beziehungsweise Verfahrensstand sind für den konkreten Fall zusätzlich abzugleichen.",
+      "Nachprüfung am 2026-09-23: Alle Profilquellen erneut aufgerufen. LobbyRG-Gesamttext und Paragrafen 2 und 3 lesbar, einschließlich adressatenabhängiger Ausnahmen, Auftraggeberangaben, Aktualisierungstakten und Abschlussnachlieferung. Amtlicher PDF-Link zum VG München und alternative HTML-Fassung technisch unzugänglich. Frühere Urteilsprüfung bleibt historischer Stand; keine erneute Volltextverifikation, Portalveröffentlichung oder technische Anonymisierungsprüfung behauptet."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Kontakt auf Registrierungspflicht prüfen, Eintrag aktualisieren oder Registerstelle beantworten.",
+      "Dateien ohne Aufgabe: Eintrag, Kontakt- und Finanzbelege still lesen und nur den Bearbeitungszweck klären.",
+      "Klarer Auftrag: Pflichtbewertung oder Feldtexte direkt ausarbeiten; nur entscheidende Kontakt-, Rechtsträger-, Betrags- oder Zeitlücke fragen."
+    ],
+    "continuation": "Nachgereichter Hauptagenturvertrag verändert im vereinbarten Pfad, beispielsweise register/aenderungsentwurf.md, Auftraggeber- und Personenzuordnungen sowie den beauftragten register/aktualisierungsplan.md; geklärte Geschäftsjahreszahlen bleiben Grundlage.",
+    "enrichment": "Gemischte Tätigkeiten und Auskunftsersuchen, lokale und anwaltliche Ausnahmen, Agenturketten, abgestimmte Finanzzuordnung, zusammentreffende Aktualisierungstakte und dokumentbezogene Veröffentlichungsprüfung.",
+    "limits": "desk review; no live client execution"
+  }
 }

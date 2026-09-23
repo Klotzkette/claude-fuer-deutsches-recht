@@ -1,8 +1,10 @@
 # 1 Steuerberatendes Berufsrecht am Auftrag bearbeiten
 
-Lies zuerst den Nutzerauftrag, Mandatsvereinbarung, Fristenstand und die konkret betroffene Korrespondenz. Geht es um Annahme, Beendigung, Datenweitergabe, Gebühren oder Kammerpost? Erstelle die dazu verlangte Entscheidung oder Nachricht. Bearbeite eine steuerliche Berechnung nicht ungefragt als Berufsrechtsfall und leite eine Mandatsübergabe nicht automatisch in ein Kammerverfahren um.
+Prüfe bei Mandatsende, welche Belege und Daten an den Mandanten oder seinen neuen Steuerberater gehen müssen und ob offene Gebühren die Zurückhaltung tragen. Lies Mandatsvereinbarung, Fristenstand und Korrespondenz zuerst; schreibe die verlangte Bewertung oder Übergabenachricht aus. Andere Berufsfragen anhand ihres konkreten Auftrags bearbeiten, nicht eine Steuerberechnung oder Übergabe ungefragt zum Kammerverfahren machen.
 
 ## 1.1 Mandat und Verantwortungsstand
+
+Ohne Fall biete Unterlagenherausgabe, Fristenübergabe oder Erklärungsfehler an. Dateien ohne Aufgabe still lesen und passende Wahl zwischen Übergabebrief und Mandanteninformation anbieten. Klare Aufträge direkt ausarbeiten, keine allgemeine Mandatsübersicht. „Der Nachfolger übernimmt ab Oktober“ klärt noch nicht die offene Vorjahreserklärung; genau deren Übernahme erfragen und den Übergabebrief ändern. Ein neuer Zahlungsbeleg ändert Saldo und Zurückbehaltungsbewertung, nicht nur die Anlagenliste. Bekannte Angaben nicht erneut erheben.
 
 Erfasse Auftraggeber, vertretungsberechtigte Person, Leistungsumfang und noch offene Erklärungen oder Rechtsbehelfe. Trenne Vollmacht, zivilrechtlichen Auftrag und tatsächliche Arbeit. Bei mehreren Gesellschaften oder Ehegatten ist zu klären, für wen welche Beratung erfolgte und wessen Informationen genutzt werden dürfen. Eine gemeinsame Ablage beweist kein gemeinsames Mandat.
 
@@ -15,6 +17,8 @@ Maßgeblich ist [Paragraf 66 StBerG](https://www.gesetze-im-internet.de/stberg/_
 Prüfe auf Verlangen die Herausgabe der erfassten Dokumente und ein wegen geschuldeter Gebühren geltend gemachtes Zurückbehaltungsrecht. Der Vorenthalt darf nicht unangemessen sein. Stelle deshalb konkrete Gebührenforderung, zurückgehaltene Unterlagen, drohenden Nachteil und verfügbare mildere Lösung gegenüber. Begründe weder ein absolutes Zurückbehaltungsverbot noch ein pauschales Recht, bei jeder offenen Rechnung alle Daten zu sperren. Elektronische Führung nimmt die Dokumente nicht aus der Prüfung heraus.
 
 Erhalte Aufbewahrung und Nachvollziehbarkeit der eigenen Bearbeitung getrennt von der Übergabe. Eine erforderliche Herausgabe bedeutet nicht die ungeprüfte Vernichtung aller eigenen Nachweise. Beschreibe Exportumfang, Empfängerberechtigung und Empfangsnachweis, ohne einen Export als bereits durchgeführt auszugeben.
+
+Bei DATEV-Daten ergänze die Paragrafen 675 Absatz 1 und 667 BGB: BGH, Urteil vom 11. März 2004, IX ZR 178/03, Gründe II.1 und II.2 ([amtlicher Text](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2003/IX_ZR_178-03.pdf?__blob=publicationFile&v=1)), unterscheidet überlassene oder vorbereitend aufbereitete Daten vom geschuldeten Arbeitsergebnis. Für Erstere kann Zustimmung zur Übertragung geschuldet sein; Letzteres fällt unter den vertraglichen Erfüllungsanspruch und wird nicht allein über Paragraf 667 BGB honorarfrei zugänglich. Frage nach Inhalt und Bearbeitungsstand des Exports. Der zurückverwiesene Insolvenzfall erlaubt keine pauschale Datensperre; Vertragsanspruch, Einreden und die heutige Unangemessenheitsgrenze nach Paragraf 66 Absatz 3 StBerG getrennt prüfen.
 
 ## 1.3 Fehler, Verschwiegenheit und Gebühren trennen
 

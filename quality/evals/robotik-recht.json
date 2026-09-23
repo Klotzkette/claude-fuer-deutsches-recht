@@ -1,32 +1,59 @@
 {
   "schema_version": 1,
   "plugin": "robotik-recht",
-  "reviewed_on": "2026-09-17",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://eur-lex.europa.eu/eli/reg/2026/1744/oj?locale=de",
       "checked_on": "2026-09-14",
       "supports": "Maschinen in Anhang I Abschnitt B, Artikel 6 Absätze 1a bis 1c, Artikel 4a und geänderte Geltungsdaten 2027/2028."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2008/VI_ZR_107-08.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 16. Juni 2009, VI ZR 107/08, Randnummern 15 bis 24 und 27 bis 31. Anwendung: Sicherheitskonstruktion nach praktisch verfügbarer, erprobter und zumutbarer Alternative prüfen; bloße Branchenüblichkeit oder Warnung genügt nicht. Grenze: Airbagfall; keine Haftung wegen nur theoretischer Lösung, kein Kausalitätsbeweis, keine GPSR- oder KI-VO-Auslegung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/betrsichv_2015/__3.html",
+      "checked_on": "2026-09-22",
+      "supports": "CE ersetzt keine betriebliche Gefährdungsbeurteilung; Aktualisierung bei Veränderungen und neuen Unfallinformationen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/prodhaftg/__3.html",
+      "checked_on": "2026-09-22",
+      "supports": "Fehlerbegriff für den begrenzten konstruktiven Sicherheitsmaßstab."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/betrsichv_2015/__3.html",
+      "checked_on": "2026-09-23",
+      "supports": "Gefahrenabwehr versus Beweiserhalt, Versionskausalität, überprüfbare Abnahmekriterien und fachkundige Wiederfreigabe nach Gefährdungsbeurteilung. Quellenstatus: Paragraf 3 BetrSichV erneut gelesen. Vorhandenen Reformstand und dessen Quellen vom 14. September erhalten, hier nicht erneut vollständig verifiziert; keine technische Sicherheitsprüfung."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der vollständig geprüfte Mini verbindet Unfallbeweise, Gerätezeit und Systemstand mit der weiteren Bearbeitung des konkreten Robotikauftrags. Die Textprüfung ist keine erneute Verifikation sämtlicher vorhandener Reformangaben.",
+    "reason": "Individuelle Lektüre und Workflow-Vertiefung: UTC-Antwort -> gekennzeichnete Arbeitschronologie ändern; Resetwunsch -> Sicherungsschreiben und fachkundige Untersuchung abstimmen. Desk review, keine Live-Client-Ausführung.",
     "changes": [
-      "Reforminhalt zu 2026/1744, Artikel 4a und Terminen erhalten.",
-      "Gerätezeit, Firmware, Hash, Übergaben und Originalkopien ergänzt.",
-      "Fehlende technische Nachweise gezielt nachfordern und die betroffene Bewertung sowie den bestellten Text aktualisieren lassen."
+      "VI ZR 107/08 auf konstruktive Robotersicherheit übertragen und als Airbag-Ausgangsfall begrenzt.",
+      "Paragraf 3 BetrSichV für betriebliche Gefährdungsbeurteilung und Aktualisierung ergänzt.",
+      "UTC-Antwort -> gekennzeichnete Arbeitschronologie ändern; Resetwunsch -> Sicherungsschreiben und fachkundige Untersuchung abstimmen.",
+      "Gefahrenabwehr versus Beweiserhalt, Versionskausalität, überprüfbare Abnahmekriterien und fachkundige Wiederfreigabe nach Gefährdungsbeurteilung."
     ],
-    "sha256": "e50e277813acfe5fca6b3491f9a991d327a5659d9e90d4f13d518c2715cccace"
+    "sha256": "358d6e1b2a0c635b3f0cbd86a5a93c583702b630f4b547e9e1431ca79bffb5d7",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die Ganztextüberarbeitung ordnet Unfallbeweise, Sicherheitsfunktionen, Maschinenrecht und Betrieb in einen fachlichen Ablauf ein. Besondere Einsatzfelder bleiben fallabhängig; vorhandene Rechtsanker sind nicht allein durch diesen Review frisch verifiziert.",
+    "reason": "Individuelle Lektüre und Workflow-Vertiefung: Gefahrenabwehr versus Beweiserhalt, Versionskausalität, überprüfbare Abnahmekriterien und fachkundige Wiederfreigabe nach Gefährdungsbeurteilung. Desk review, keine Live-Client-Ausführung.",
     "changes": [
-      "Nachfragen zu Systemstand und Unfallablauf mit der Fortsetzung von Haftungsprüfung und Entwurf verbunden.",
-      "Mensch-Roboter-Interaktion, Datenzugang, Medizinrobotik und Rückruf in passende Abschnitte integriert statt generische Zusatzrouten anzuhängen."
+      "VI ZR 107/08 auf konstruktive Robotersicherheit übertragen und als Airbag-Ausgangsfall begrenzt.",
+      "Paragraf 3 BetrSichV für betriebliche Gefährdungsbeurteilung und Aktualisierung ergänzt.",
+      "UTC-Antwort -> gekennzeichnete Arbeitschronologie ändern; Resetwunsch -> Sicherungsschreiben und fachkundige Untersuchung abstimmen.",
+      "Gefahrenabwehr versus Beweiserhalt, Versionskausalität, überprüfbare Abnahmekriterien und fachkundige Wiederfreigabe nach Gefährdungsbeurteilung."
     ],
-    "sha256": "28bdc86e5a38907e7f65ff2e512ef8f17a593ce92a8023ea54779dc1854537e3"
+    "sha256": "dd9d72ac70c3711aeeafa733a145112dddaef415e917c6c31386b60683d20529",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
   },
   "selection": {
     "positive": [
@@ -71,5 +98,47 @@
       ],
       "target_skill": "unfallanalyse-chain-of-custody"
     }
-  ]
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "method": "desk_review",
+    "files": [
+      "robotik-recht/README.md",
+      "robotik-recht/robotik-recht-werkstatt.md",
+      "robotik-recht/robotik-recht-schnellstart.md",
+      "quality/evals/robotik-recht.json",
+      "robotik-recht/skills/unfallanalyse-chain-of-custody/SKILL.md"
+    ],
+    "opening_change": "Unfallbewegung, Sicherheitsreaktion, Verantwortungsbereich und Beweise vor dem Reset klären.",
+    "norms": [
+      "Paragraf 3 ProdHaftG",
+      "Paragraf 3 Absätze 1 und 7 BetrSichV",
+      "Artikel 6 und 113 KI-VO in der Fassung 2026/1744"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 16. Juni 2009, VI ZR 107/08, Randnummern 15 bis 24 und 27 bis 31",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2008/VI_ZR_107-08.pdf?__blob=publicationFile&v=1",
+        "application": "Sicherheitskonstruktion nach praktisch verfügbarer, erprobter und zumutbarer Alternative prüfen; bloße Branchenüblichkeit oder Warnung genügt nicht.",
+        "limit": "Airbagfall; keine Haftung wegen nur theoretischer Lösung, kein Kausalitätsbeweis, keine GPSR- oder KI-VO-Auslegung."
+      }
+    ],
+    "remaining_limits": [
+      "Keine technische Sicherheitsfreigabe; harmonisierte Normen, konkrete Maschinenkonformität und nationale Umsetzungsdetails bleiben zu prüfen.",
+      "Desk-/Quellenreview, kein Live-Client- oder Modelltest. Bestehende Auswahl- und Ergebnisfälle unverändert erhalten.",
+      "Workflow-Vertiefung 2026-09-23: Paragraf 3 BetrSichV erneut gelesen. Vorhandenen Reformstand und dessen Quellen vom 14. September erhalten, hier nicht erneut vollständig verifiziert; keine technische Sicherheitsprüfung. Desk review; kein Live-Client-Test."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Unfall, Beschaffung/Abnahme oder Freigabe nach Update auswählen.",
+      "Anleitung, Version und Logs still lesen; nur Arbeitsziel klären.",
+      "Bestellten Lieferantenbrief oder Bericht sofort ausarbeiten."
+    ],
+    "continuation": "UTC-Antwort -> gekennzeichnete Arbeitschronologie ändern; Resetwunsch -> Sicherungsschreiben und fachkundige Untersuchung abstimmen.",
+    "enrichment": "Gefahrenabwehr versus Beweiserhalt, Versionskausalität, überprüfbare Abnahmekriterien und fachkundige Wiederfreigabe nach Gefährdungsbeurteilung.",
+    "limits": "desk review; no live client execution"
+  }
 }

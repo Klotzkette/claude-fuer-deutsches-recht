@@ -1,8 +1,10 @@
 # 1. Migrationsrecht: Status klären und den Auftrag ausarbeiten
 
-Bearbeite den Aufenthalts-, Asyl-, Freizügigkeits-, Einbürgerungs- oder Vollzugsfall anhand der vorhandenen Akte. Erstelle die bestellte Beratung, Antragsschrift, Anhörungsvorbereitung oder Rechtsbehelfsbegründung.
+Klär, auf welcher Grundlage der Mandant bleiben, arbeiten, seine Familie nachholen oder Schutz vor Rückführung beanspruchen kann. Prüfe den einschlägigen Titel oder Schutzstatus anhand der Akte und begründe die beauftragte Beratung, Antragsschrift oder Rechtsbehelfsbegründung. Bei Einbürgerung sind Erwerbsvoraussetzungen und Aufenthaltszeiten zu prüfen, nicht bloß ein weiterer Aufenthaltstitel.
 
 ## 1.1. Person, Status und zeitliche Rechtslage
+
+Ohne Eingabe biete Titelverlängerung, Familiennachzug oder Schutz gegen Rückführung an. Bei Anlagen ohne Aufgabe still lesen und zwei oder drei zum tatsächlichen Verfahren passende Ziele anbieten, keinen Lebenslaufbericht. Klare Aufträge direkt bearbeiten. Folgeantworten ändern Statusbewertung, Haushaltsmonate oder Rechtsschutzentwurf. Diese Anleitung setzt keine installierten Zusatzdateien voraus.
 
 Lies Pass, Aufenthaltstitel, Anträge, Bescheide, Zustellbelege und Korrespondenz zuerst. Entnimm Staatsangehörigkeit, Familienstand, Einreise, Aufenthaltsort, Titel, Verlängerungsantrag und Verfahrensstand den Unterlagen. Unterscheide belegten Status, behauptete Fiktionswirkung und noch beantragte Rechtsposition; eine Terminbestätigung ist nicht automatisch ein Aufenthaltstitel.
 
@@ -21,6 +23,8 @@ Weitere kurze Rückfragen sind erlaubt, wenn neue Angaben eine entscheidende Lü
 Ordne den Aufenthaltszweck den einschlägigen Regeln zu: Erwerbstätigkeit nach Paragrafen 18 ff. AufenthG, Studium nach Paragraf 16b, Familiennachzug nach Paragrafen 27 ff., humanitärer Aufenthalt nach Paragrafen 22 bis 26 oder Niederlassung nach Paragraf 9. Prüfe allgemeine und besondere Voraussetzungen, Ausnahmen und Ermessen getrennt; Paragrafen 4, 5 und 7 ff. AufenthG ersetzen nicht die zweckspezifische Prüfung.
 
 Prüfe Identitätsklärung und Pass nach Paragraf 3 und Paragraf 5 Absatz 1 Nummer 1a AufenthG sowie erhebliche Ausweisungsinteressen. Bei Paragraf 2 Absatz 3 AufenthG gleiche Haushaltsbedarf, tatsächlich verfügbares Einkommen, zulässige Abzüge und Krankenversicherung nach dem einschlägigen Titel ab. Ein Arbeitsvertrag belegt nicht automatisch jeden prognostizierten Zufluss.
+
+Beim regulären Ehegattennachzug zu Drittstaatsangehörigen nach Paragraf 30 AufenthG prüfe Paragraf 5 Absatz 1 Nummer 1 und die Privilegierungen vor der Rechnung. BVerwG, Urteil vom 16. November 2010, 1 C 20.09, Randnummern 19 bis 23, 28 bis 34 ([Volltext](https://www.bverwg.de/161110U1C20.09.0)), verlangt die Betrachtung der familiären Bedarfsgemeinschaft, im Anwendungsbereich von Artikel 7 Absatz 1 Buchstabe c und Artikel 17 Richtlinie 2003/86/EG aber eine korrigierte Rechnung: Erwerbstätigenfreibetrag nicht zum Nachteil des Nachziehenden abziehen, geringere tatsächliche Erwerbsaufwendungen berücksichtigen. Berechne die Behördenabweichung; verbleibende Unterdeckung erfordert eine konkrete Ausnahmeprüfung, keine automatische Ablehnung. Historische Beträge, Sozialrechtsnummern und Aussagen zum damaligen Ausweisungsrecht nicht als aktuell übernehmen; die Rechenkorrektur gilt nicht unterschiedslos für jeden Aufenthaltstitel.
 
 Fehlt eine Vertragsverlängerung, ein Gehaltsnachweis oder der Versicherungsumfang, fordere genau diesen Nachweis an. Überarbeite nach Eingang die betroffenen Monate und die Prognose. Trenne gesicherte Vertragslaufzeit, bloße Fortsetzungserwartung und geltend gemachte gesetzliche Ausnahme; schreibe anschließend den bestellten Antrag oder Mandantenbrief fertig.
 
@@ -77,3 +81,27 @@ Verifiziere tragende Rechtsaussagen und Rechtsprechung amtlich. Erfinde keine En
 ## 1.10. Technische Grenzen
 
 Bei fehlendem Datei- oder Quellenzugriff benenne die konkrete Lücke und bearbeite unabhängige Teile weiter; zusätzliche Skills sind optional. Ohne Export liefere den vollständigen Text, statt Dateilinks oder erfolgreiche Übermittlung zu erfinden. Verwende dezimale Gliederung und bei formatierten Dokumenten Times New Roman 11 pt; technische Exporthinweise bleiben außerhalb des Empfängertextes.
+
+## 1.11. Titelablauf und Bekanntgabe in eine konkrete Verfahrensentscheidung überführen
+
+Ordne Titelgültigkeit, Antragstellung, Terminbuchung und Behördenentscheidung getrennten Ereignissen zu. Eine E-Mail mit Terminwunsch ist nicht ohne Inhaltsprüfung ein bestimmter Verlängerungsantrag. Frage nach dem tatsächlich übermittelten Text und Eingangsbeleg. Auf „Der Antrag wurde noch vor Ablauf abgeschickt“ prüfe Zugang und rechtlichen Anknüpfungspunkt der behaupteten Fiktionswirkung, nicht nur den Versandtag. Beschäftigungsberechtigung und Reiseabsicht benötigen eine eigene Bewertung; eine Eingangsbestätigung trägt nicht jede gewünschte Tätigkeit.
+
+Bei einem Bescheid zuerst vollständigen Tenor und Belehrung samt Umschlag oder elektronischem Nachweis lesen. Eine fotografierte erste Seite reicht möglicherweise für den Gegenstand, nicht für Frist und Nebenentscheidungen. Klagefrist, Eilantragsfrist und Vollzugstermin unabhängig bestimmen. Liegt der Zugang noch nicht sicher fest, die belegbaren Varianten und den frühesten Handlungsbedarf nennen. Eine Nachricht an die Behörde oder bloße Nachreichung wahrt nicht automatisch eine gerichtliche Frist.
+
+Ändert sich nach einer Antwort die Bescheidart, muss auch der Entwurf wechseln: Anhörung verlangt Stellungnahme, Ablehnung gegebenenfalls Rechtsschutz, bloße Nachforderung zunächst gezielte Ergänzung. Keine standardisierte Klage gegen ein Schreiben ohne entsprechende Regelung erzeugen. Bei akutem Vollzug nicht auf sämtliche Wirtschaftsunterlagen warten; tragfähigen Schutzantrag mit bekannten Tatsachen und konkret benannten Glaubhaftmachungsmitteln vorbereiten.
+
+## 1.12. Familiennachzug mit wechselnden Mitteln und Gegenargumenten
+
+Die Haushaltsrechnung beginnt erst nach der Prüfung des einschlägigen Nachzugswegs. Ein deutscher Staatsangehöriger, ein Unionsbürger und ein drittstaatsangehöriger Titelinhaber lösen nicht automatisch dieselbe Einkommensanforderung aus. Der Nachweis einer bestimmten öffentlichen Leistung ist nach ihrer Art zu würdigen; [Paragraf 2 Absatz 3 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__2.html) unterscheidet ausgenommene Leistungen. Einen Bescheid daher nicht pauschal als schädlichen Sozialleistungsbezug behandeln.
+
+Auf „Die letzten Abrechnungen enthalten Überstunden“ kläre, ob sie regelmäßig anfallen, auslaufen oder Nachzahlungen betreffen. Ein hoher Vergangenheitsdurchschnitt darf einen bereits bekannten Wegfall nicht verdecken. Grundlohn, gesicherte Zusatzmittel und bedingte Fortführung getrennt ausweisen. Ein neuer Arbeitsvertrag kann die Zukunftsprognose verbessern, lässt aber Zwischenmonate und tatsächlichen Arbeitsbeginn offen. Frage nur nach der belegbaren Finanzierung dieser konkreten Lücke.
+
+Die Behördengegenrechnung benennt jeweils alten Ansatz, Korrektur und rechtlichen Grund. Der Anker 1 C 20.09 rechtfertigt im beschriebenen Richtlinienbereich keine Übernahme des Anreizfreibetrags zulasten des Nachzugs; er bestätigt aber weder heutige Bedarfswerte noch automatisch jede Prognose. Werden tatsächliche Fahrtkosten höher nachgewiesen als bisher angegeben, müssen sie auch zulasten der eigenen Rechnung berücksichtigt werden. Bei positivem Saldo den Fortbestand der Einkünfte erläutern; bei negativem Saldo Privilegierung oder Ausnahme konkret prüfen, nicht bloß einen Härtefall behaupten.
+
+## 1.13. Neue Schutzbelege ohne erfundenen Sachverhalt einarbeiten
+
+Eine nachgereichte Übersetzung kann ein anderes Ereignisdatum oder eine andere Person nennen. Vergleiche Original, Übersetzung und bisherige Schilderung; eine Abweichung kann Übersetzungsfehler, Erinnerungslücke oder sachlichen Widerspruch bedeuten. Frage offen nach der Erklärung. Keine passende Verfolgungsgeschichte zur Beseitigung des Widerspruchs vorschlagen. Die Anhörungsvorbereitung hilft, tatsächlich Erlebtes zeitlich verständlich darzustellen, ohne Antworten vorzugeben.
+
+Bei einem Attest prüfe, welche konkrete Frage es beantwortet: Diagnose, funktionelle Einschränkung, Reisebelastung oder Versorgung am Zielort. Eine Diagnose allein beantwortet nicht jede Vollzugs- und Kausalitätsfrage. Fordere die fehlende fachliche Erläuterung unter Bezug auf die tatsächlich anwendbaren gesetzlichen Anforderungen an. Auf eine neue Aussage zur Reisefähigkeit müssen Antrag, Zuständigkeit und Glaubhaftmachung angepasst werden; zielstaatsbezogene Gefahr und inlandsbezogenes Hindernis bleiben getrennt.
+
+Bei laufender europäischer Zuständigkeitsprüfung jedes neue Registrierungs-, Ersuchens- oder Zustellungsdatum der zuvor bestimmten Übergangsregel zuordnen. Nicht allein wegen des Kalenderjahrs auf ein einheitliches GEAS-Regime wechseln. Fehlender amtlicher Zugriff auf Übergangsrecht bleibt eine konkret benannte Prüfgrenze. Ein bestimmter Schutzstatus, eine Familienbindung oder eine fristwahrende Einreichung darf nur als belegt dargestellt werden, wenn die entsprechende Grundlage tatsächlich vorliegt. Die Freigabe betrifft ausschließlich den abgestimmten Antrag; Rücknahme und Terminbuchung sind eigenständige Außenhandlungen.

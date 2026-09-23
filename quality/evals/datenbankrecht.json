@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "datenbankrecht",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/urhg/__87a.html",
@@ -22,14 +22,43 @@
       "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62007CJ0304",
       "checked_on": "2026-09-14",
       "supports": "EuGH, Urteil vom 9. Oktober 2008, C-304/07: Auch Übertragung nach Bildschirmabfrage und eigener Auswahl kann Entnahme sein."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=ecli:ECLI:EU:C:2008:552",
+      "checked_on": "2026-09-22",
+      "supports": "EuGH, Urteil vom 09.10.2008, Az. C-304/07, Directmedia, Randnummern 34 bis 45. Anwendung: Auch Übertragung nach Bildschirmkonsultation und eigener Auswahl kann Entnahme sein. Grenze und Prüfzugang: Bloße Konsultation genügt nicht; geschützte Datenbank und wesentliche oder systematisch kumulierte Teile bleiben nachzuweisen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/__87a.html",
+      "checked_on": "2026-09-22",
+      "supports": "Investitionsbezogener Schutzgegenstand; Erzeugungskosten nicht pauschal schutzbegründend."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/__87b.html",
+      "checked_on": "2026-09-22",
+      "supports": "Wesentliche Teile, wiederholte systematische Teilübernahmen und Data-Act-Abgrenzung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/__87b.html",
+      "checked_on": "2026-09-23",
+      "supports": "Wesentliche und wiederholte systematische unwesentliche Teilnutzung getrennt; identische wiederholte Abrufe nicht als disjunkte Mengen addieren."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/__87d.html",
+      "checked_on": "2026-09-23",
+      "supports": "Schutzdauer und gesetzliche Ausgangsereignisse; tägliche Aktualisierung ist kein automatischer Neubeginn für jeden alten Datensatz."
     }
   ],
   "mini_review": {
-    "sha256": "217dd10481bfd6432d4d24c919606ff101ac4077e133f46b9f7bfa0bf8a78b06",
+    "sha256": "ae86b5591d0133cc49fe25149800a732f783d1adee5abc949a2bddcaaef788f7",
     "verdict": "revised",
-    "reason": "Der vollständige Mini wurde auf Investitionsbelege, Entnahmeumfang und Vertragsebene geprüft.",
+    "reason": "Kostenarten und konkrete Übernahme werden getrennt geprüft; visuelle Auswahl ist nicht allein wegen fehlenden Kopiervorgangs erlaubnisfrei. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert.",
     "changes": [
-      "Fehlende Kosten- oder Zugriffsnachweise gezielt klären; nach Antwort Berechnung und gewünschtes Schreiben aktualisieren."
+      "Beschaffungs-, Prüfungs- und Darstellungskosten von Datenerzeugung abgegrenzt",
+      "Directmedia an Übertragungsbeleg und wesentlichen Datenbankteil gebunden",
+      "Unverifizierte zusätzliche Fallnummern entfernt; Dokument und Fortsetzung erhalten",
+      "Leer: Investitionsnachweis, Übernahmeprüfung oder API-Lizenz. Dateien: still lesen und konkreten Anspruchs- oder Lizenzweg anbieten. Klar: direkt bestellten Brief, Vermerk oder Vertrag ausarbeiten.",
+      "Wiederholt identische Teilmenge ändert Umfangsrechnung; nachgewiesene Fremddatenprüfung ändert Investitionskategorie und Anspruch."
     ]
   },
   "selection": {
@@ -85,10 +114,53 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die vollständige Werkstatt wurde einschließlich Datenzugang und Anbieterwechsel gelesen.",
+    "reason": "API-Vertrag, Investitionsschutz, Mitarbeiterexport und Sensor-/Trainingsdaten behalten eigene Voraussetzungen; bloße Fallnamen durch anwendbare Entnahmeprüfung ersetzt. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen.",
     "changes": [
-      "Datenerzeugung und Beschaffung getrennt; Data-Act-Zugang nicht mit Cloud-Wechsel und Datenbankausnahmen gleichgesetzt."
+      "Beschaffungs-, Prüfungs- und Darstellungskosten von Datenerzeugung abgegrenzt",
+      "Directmedia an Übertragungsbeleg und wesentlichen Datenbankteil gebunden",
+      "Unverifizierte zusätzliche Fallnummern entfernt; Dokument und Fortsetzung erhalten",
+      "Mischkosten, Herstellerzuordnung, Übernahme ohne falsche Addition, Lizenzzählgrößen, Schutzdauer und begrenzte Unterlassungsfassung vertieft.",
+      "Wiederholt identische Teilmenge ändert Umfangsrechnung; nachgewiesene Fremddatenprüfung ändert Investitionskategorie und Anspruch."
     ],
-    "sha256": "3de72ce41eef8705ed11adeebecd682cdf39e9cbd72f43dc67ad8ab1c264a702"
+    "sha256": "e8f984e98ba7c0e585634da5234f5181a37dfbcbfaee61eb763a6c18199c8570"
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Investitionsnachweis, Übernahmeprüfung oder API-Lizenz.",
+      "Dateien: still lesen und konkreten Anspruchs- oder Lizenzweg anbieten.",
+      "Klar: direkt bestellten Brief, Vermerk oder Vertrag ausarbeiten."
+    ],
+    "continuation": "Wiederholt identische Teilmenge ändert Umfangsrechnung; nachgewiesene Fremddatenprüfung ändert Investitionskategorie und Anspruch.",
+    "enrichment": "Mischkosten, Herstellerzuordnung, Übernahme ohne falsche Addition, Lizenzzählgrößen, Schutzdauer und begrenzte Unterlassungsfassung vertieft.",
+    "limits": "desk review; no live client execution"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "datenbankrecht/datenbankrecht-schnellstart.md",
+      "datenbankrecht/datenbankrecht-werkstatt.md",
+      "datenbankrecht/README.md",
+      "quality/evals/datenbankrecht.json"
+    ],
+    "opening_change": "Beginn mit schutzfähiger Investition und nachweisbarer Übernahme statt allgemeinem Datenbankmandat.",
+    "norms": [
+      "Paragrafen 87a und 87b UrhG",
+      "Artikel 7 Richtlinie 96/9/EG"
+    ],
+    "decisions": [
+      {
+        "citation": "EuGH, Urteil vom 09.10.2008, Az. C-304/07, Directmedia, Randnummern 34 bis 45",
+        "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=ecli:ECLI:EU:C:2008:552",
+        "application": "Auch Übertragung nach Bildschirmkonsultation und eigener Auswahl kann Entnahme sein.",
+        "limit": "Bloße Konsultation genügt nicht; geschützte Datenbank und wesentliche oder systematisch kumulierte Teile bleiben nachzuweisen."
+      }
+    ],
+    "remaining_limits": [
+      "Desk-/Quellenprüfung, kein Live-Ergebnistest.",
+      "Keine vollständige Neuprüfung sämtlicher Spezialfragen zu Datenschutz, Export und Training.",
+      "Workflow-Anschlussprüfung 23.09.2026: individuelle Text- und Quellenprüfung, keine Live-Client-Ausführung. Frühere Entscheidungsprüfungen und ihre Reichweitengrenzen bleiben unverändert; keine erneute vollständige Rechtsprechungsprüfung behauptet."
+    ]
   }
 }

@@ -1,8 +1,10 @@
 # 1. Bau- und Architektenrecht: Bauakte prüfen und Forderungen bearbeiten
 
-Bearbeite den beauftragten Streit über Leistung, Nachtrag, Bauzeit, Abnahme, Mängel oder Honorar anhand der vorhandenen Bauakte. Erstelle daraus das bestellte Gutachten, Schreiben, Vertragsdokument oder den Schriftsatz.
+Stelle fest, welche Bauleistung vereinbart, geändert, erbracht und abgenommen wurde und was daraus für Werklohn, Nachträge, Mängelrechte oder Planerhaftung folgt. Begründe die beauftragte Forderung oder Abwehr aus Vertrag, Bauablauf und Belegen und arbeite Gutachten, Schreiben, Vertragsklausel oder Schriftsatz vollständig aus.
 
 ## 1.1. Vertragssoll und Auftrag feststellen
+
+Ohne Eingabe biete Mängelrüge, Nachtragsforderung oder Bauzeitentschädigung an. Dateien ohne Auftrag zunächst still lesen, dann nur das offene Ziel klären; keine vollständige Bauchronologie voranstellen. Bei klarem Auftrag direkt ausarbeiten und nur entscheidende Lücken fragen. Folgeantworten ändern die vorhandene Rechnung oder Anspruchsfassung. Keine Plugin-Dateien voraussetzen.
 
 Lies Vertrag, Leistungsverzeichnis, Baubeschreibung, Pläne, Nachträge und maßgebliche Korrespondenz. Bestimme Parteirolle, vereinbarte Leistung, Vergütung, Termine und Sicherheiten, ohne das bereits dokumentierte Projekt erneut aufzunehmen. Prüfe Vertragsdatum, Vertragstyp und Einbeziehung sowie Inhaltskontrolle der VOB/B; eine Bezugnahme ersetzt nicht diese Prüfung.
 
@@ -30,7 +32,7 @@ Vergleiche das belegte Vertragssoll mit der Ausführung nach Paragrafen 631, 633
 
 Prüfe Bedenkenhinweise nach Zeitpunkt, Inhalt und Empfänger sowie Beiträge von Planung, Vorgewerk und Ausführung. Weise Darlegungs- und Beweislast nach Anspruch und Abnahmestand zu, nicht pauschal sämtliche Mängelfragen dem Auftraggeber. Bei Architekt und Unternehmer sind jeweilige Pflichtverletzung, Kausalität und mögliche Gesamtschuld gesondert zu begründen.
 
-Ordne verlangte Nacherfüllung, Vorschuss, Selbstvornahmekosten, Minderung oder Schadensersatz der passenden Voraussetzung zu. Prüfe Fristsetzung und etwaige Entbehrlichkeit im Einzelfall. Trenne belegte Aufwendungen von Schätzungen; fiktive Mängelbeseitigungskosten dürfen nicht ungeprüft als werkvertraglicher Schaden angesetzt werden.
+Ordne Nacherfüllung, Vorschuss, Selbstvornahmekosten, Minderung oder Schadensersatz der passenden Voraussetzung zu. Prüfe Fristsetzung und Entbehrlichkeit. Bei behaltenem mangelhaftem Werk wende [BGH, Urteil vom 22.02.2018, VII ZR 46/17](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2017/VII_ZR__46-17A.pdf?__blob=publicationFile&v=1), Rn. 31–37 und 48–54, an: Ohne Beseitigung keine Schadensberechnung nach fiktiven Beseitigungskosten. Bei belegter Beseitigungsabsicht bleibt grundsätzlich auch nach Wahl kleinen Schadensersatzes ein zweckgebundener, abzurechnender Vorschuss nach Paragraf 637 Absatz 3 BGB möglich; Paragraf 281 Absatz 4 BGB schließt dann die Nacherfüllung aus, nicht diesen Vorschuss. Voraussetzungen prüfen und Werkvertragsrecht nicht pauschal auf Kauf oder Delikt übertragen.
 
 ## 1.5. Nachtrag und Bauzeitforderung berechnen
 
@@ -38,7 +40,7 @@ Ordne jede Position zunächst ein: Mengenänderung, geänderte oder zusätzliche
 
 Für Bauablaufstörungen vergleiche Sollablauf, tatsächlichen Ablauf und konkrete Auswirkung der Störung. Prüfe bei vereinbarter VOB/B Anzeige und deren rechtliche Bedeutung nach Paragraf 6. Übertrage Anzeigevoraussetzungen nicht pauschal auf Paragraf 642 BGB; prüfe die gewählte Anspruchsgrundlage eigenständig.
 
-Ordne geltend gemachte Vorhaltung tage- und ressourcenbezogen zu. Gleiche Einsatzbereitschaft, tatsächlichen anderweitigen Einsatz, ersparte Kosten und bereits abgerechnete Positionen ab. Ein verlängerter Gesamtzeitraum belegt nicht von selbst jede Einzelposition. Nach ergänzten Tagesberichten oder Kostenbelegen rechne nur die betroffenen Positionen neu und übernimm das Ergebnis in das beauftragte Forderungs- oder Abwehrschreiben.
+Ordne geltend gemachte Vorhaltung tage- und ressourcenbezogen zu. Nach [BGH, Urteil vom 30.01.2020, VII ZR 33/19](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2019/VII_ZR__33-19.pdf?__blob=publicationFile&v=1), Rn. 38–42 und 47–58, verlangt Paragraf 642 BGB beim Anspruchsgrund keinen zusätzlichen Kostennachteil; die Bemessung verlangt aber belegte unproduktive Vorhaltung und die darauf entfallenden vereinbarten Vergütungsanteile. Gleiche Einsatzbereitschaft, möglichen und tatsächlichen anderweitigen Einsatz, Ersparnisse und bereits enthaltene Zuschläge ab. Ersatzarbeit muss kein erst durch die Störung ermöglichter Füllauftrag sein. Der Anspruch ersetzt weder den gesamten ausgefallenen Umsatz noch spätere Preissteigerungen nach Ende des Annahmeverzugs. Ein verlängerter Gesamtzeitraum belegt nicht jede Einzelposition. Nach neuen Tagesberichten rechne die betroffenen Positionen neu und übernimm sie in das beauftragte Schreiben.
 
 ## 1.6. Architektenleistung und Honorar
 
@@ -66,7 +68,6 @@ Bei Denkmalschutz bestimme das Landesrecht und die konkrete Erlaubnisfrage. Prü
 
 Die folgenden vorhandenen Anker sind vor tragender Zitierung anhand amtlicher Texte zu verifizieren und auf den Fall zu beziehen:
 
-- BGH, Urteil vom 22.02.2018, VII ZR 46/17: fiktive Mängelbeseitigungskosten im Werkvertragsrecht.
 - BGH, Urteil vom 08.11.2007, VII ZR 183/05: mögliche Gesamtschuld bei Baumangel und Überwachungsfehler.
 - BGH, Urteil vom 24.01.2008, VII ZR 280/05: Bedenkenhinweis und seine Anforderungen.
 - BGH, Urteil vom 10.10.2013, VII ZR 19/12: formularmäßige Verjährungsverkürzung gegenüber Architekten und Abgrenzung einer Teilabnahme.
@@ -87,3 +88,29 @@ Verwende den gewünschten Dateinamen; `ergebnis.md` ist nur ein Vorschlag bei fe
 ## 1.11. Technische Grenzen
 
 Ohne Export liefere den vollständigen Text; bei fehlendem Zugriff benenne die ungelesene Unterlage und bearbeite unabhängige Teile weiter. Behaupte keine technische Besichtigung, Quellenprüfung oder Dateierzeugung ohne tatsächliche Durchführung. Gliedere dezimal und verwende bei formatierten Dokumenten Times New Roman 11 pt; technische Exporthinweise bleiben außerhalb des Empfängertextes.
+
+## 1.12. Mangelbefund zur richtigen Erklärung führen
+
+Bezeichne die beobachtete Erscheinung und den betroffenen Bauteil so genau, dass der Empfänger den gerügten Zustand zuordnen kann. „Feuchtigkeit im Keller“ ist Ausgangsbefund, noch keine bewiesene Abdichtungsursache. Fotos, Messwerte und Gutachten nach Datum, Ort und Untersuchungsumfang prüfen. Eine neue Information über eine zwischenzeitliche Leckage kann Ursache und Verantwortlichkeit verändern, ohne die ursprüngliche Erscheinung zu beseitigen.
+
+Frage nach Beseitigungsabsicht nur, wenn sie die beauftragte Rechtsfolge beeinflusst. Soll tatsächlich saniert werden, Vorschuss und zweckgebundene Verwendung prüfen; soll das Werk unverändert behalten werden, keine fiktiven Beseitigungskosten als sicheren Schaden ausgeben. Der vorhandene VII-ZR-46/17-Anker entscheidet nicht jede Kauf-, Bauträger- oder Deliktsfrage. Fristsetzung, angebotene Nachbesserung und deren Zumutbarkeit anhand des tatsächlichen Verlaufs würdigen.
+
+Eine Mängelrüge enthält Erscheinung, Ort, betroffene Leistung, konkrete Aufforderung und passende Frist, soweit rechtlich geboten. Ein Gutachterauftrag trennt Befund, mögliche Ursache, erforderliche Maßnahmen und Kostenfrage. Keine gewünschte technische Diagnose als feststehende Vorgabe an den Gutachter formulieren. Vor Zustandsveränderung den konkreten Beweisverlust prüfen; dringende Sicherung und endgültige Sanierung sind verschiedene Handlungen.
+
+## 1.13. Bauzeitforderung ereignis- und ressourcenbezogen ändern
+
+Verbinde jede behauptete Störung mit einer fälligen Mitwirkung und dem konkret verhinderten Vorgang. Ein alter Terminplan trägt keinen Verzug, wenn verbindlich neue Termine vereinbart wurden. Frage bei widersprüchlichen Plänen nach der maßgeblichen Terminänderung. Nach Antwort Beginn und Ende des Anspruchszeitraums neu bestimmen; nicht lediglich eine neue Anlage zur unveränderten Rechnung hinzufügen.
+
+Für Personal und Geräte tatsächliche Verfügbarkeit, produktiven Einsatz und mögliche Umsetzung getrennt prüfen. Beispiel: Vier Beschäftigte waren zehn Tage vorgesehen, an vier Tagen aber anderweitig produktiv. Die Rechnung muss diese vier Tage beim Personal anders behandeln als einen durchgehend unproduktiv gebundenen Kran. Die neue Antwort „Auch der Kran hätte abbestellt werden können“ verändert dessen Ersparnis- und Einsatzprüfung; nicht pauschal die gesamte Forderung halbieren.
+
+Vergütungsanteile und bereits enthaltene Zuschläge nachvollziehbar aus der Kalkulation ableiten. Tageskosten sind ein Beleg, nicht automatisch der alleinige gesetzliche Bemessungsmaßstab. Paragraf 642 Absatz 2 BGB nennt Dauer, vereinbarte Vergütung, Ersparnisse und möglichen anderweitigen Erwerb; amtlicher Text: https://www.gesetze-im-internet.de/bgb/__642.html. Spätere Materialpreise, Beschleunigung und Wiederanlauf jeweils einer eigenen Anspruchsprüfung zuordnen. Die gesamte Bauzeitverlängerung ist kein Ersatz für diese Zuordnung.
+
+Nach einer Nachlieferung die betroffenen Positionen neu rechnen und den vollständigen Forderungs- oder Abwehrtext mitändern. Die fehlende Tagesdokumentation einer Ressource lässt nicht automatisch alle anderen Positionen entfallen. Umgekehrt keine ungünstigen Eigenbehinderungen oder parallel fehlende Vorleistungen verschweigen.
+
+## 1.14. Nachtrag, Planerhaftung und Abschluss verbinden
+
+Bei einem Nachtrag Vertragssoll und Änderungsinhalt anhand des richtigen Planstands vergleichen. Eine protokollierte Besprechung ist auf ihren Erklärungsinhalt und die Vertretungsrolle zu prüfen; sie wird nicht allein durch die Überschrift zur vergütungsändernden Anordnung. Liefert der Nutzer eine konkrete Anordnung nach, Anspruchsgrundlage und Preisermittlung neu zuordnen. Eine fehlende Preisvereinbarung nicht durch einen erfundenen marktüblichen Satz ersetzen.
+
+Bei Planerhaftung die vertraglich geschuldete Aufgabe mit dem konkreten Fehler verbinden. Eine Baukostenüberschreitung kann andere Nachweise verlangen als ein Überwachungsfehler. Nach einem neuen Kostenstand unterscheiden, ob Mehrkosten aus geänderter Bestellung, fehlerhafter Planung oder anderen Ursachen stammen. Keine Haftungsquote allein nach Berufsgruppen verteilen. Der beauftragte Vertragsentwurf muss Planungsziel, Leistungsumfang und Kostenbezug bestimmt regeln.
+
+Vor Ausgabe Abnahmestand, Rechnung, Planversion, Frist und Anlagenbezüge synchronisieren. Ein Nachtrag darf nicht im Haupttext genehmigt und in der Zahlungsaufstellung gleichzeitig als unstreitig abgelehnt erscheinen. Ungeklärte technische Fragen begrenzen die jeweilige Aussage; externe Abnahme, Kündigung, Beauftragung, Sicherheitenabruf oder Einreichung bleiben freigabepflichtig. Der vollständige interne Entwurf ist trotzdem zu liefern.

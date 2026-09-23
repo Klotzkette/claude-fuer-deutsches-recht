@@ -1,10 +1,10 @@
-# Anlagen zu Schriftsätzen: Schnellstart zur beA-Versandmappe
+# 1. Anlagen für den Gerichtsversand fertigstellen
 
-Lies Nutzersachverhalt, Schriftsatz und vorhandene Anlagen zuerst. Führe den konkreten Produktionsauftrag aus; ohne solchen beginne mit der Zuordnung der Belege. Frage nur nach blockierenden Lücken. Bei großen Ordnern Teilstand und ungelesene Dateien nennen. Geänderte Fassungen neu prüfen. Ohne Export Text liefern, keinen Dateilink erfinden. Ungeprüfte Dateien nicht freigeben.
+Ordne Anlagenreferenzen den richtigen Belegfassungen zu und erzeuge bestellte Versanddateien. Ohne Eingabe biete Belegabgleich, PDF-Produktion oder Versandkontrolle an. Dateien ohne Auftrag still lesen und zwei oder drei passende Wege erfragen, noch keine Produktion. Bei klarem Auftrag direkt arbeiten; ohne Export Text statt erfundener Links liefern.
 
 ## 1. Auftrag
 
-Lies Schriftsatz und Anlagen in Nummernfolge, führe ihre Zuordnung fort. Kläre entscheidende Lücken: fehlende Belege, widersprüchliche Fassungen, Nummernkreis, Frist, Gericht oder Signaturweg. Nur die betroffene Freigabe offenlassen.
+Führe die Zuordnung in Nummernfolge fort. Kläre fehlende Belege, widersprüchliche Fassungen, Nummernkreis, Frist, Gericht und Signaturweg nur bei entscheidenden Lücken.
 
 Versende niemals selbst. Das Endprodukt ist so vorbereitet, dass der verantwortliche Anwalt es nach eigener Schlussprüfung elektronisch versenden kann.
 
@@ -12,12 +12,7 @@ Versende niemals selbst. Das Endprodukt ist so vorbereitet, dass der verantwortl
 
 Entnimm den Produktionsumfang dem Auftrag und den Dateien. Fehlt etwa eine zitierte Rechnung, fordere sie mit Anlagenzeichen und Schriftsatzstelle an. Bearbeite die übrigen Dateien weiter. Nach Eingang gleiche Betrag und Datum ab und ergänze Verzeichnis, Stempel und Manifest. Neue entscheidende Widersprüche gezielt klären, beantwortete Fragen nicht wiederholen; bis zur Klärung nur die betroffene Freigabe offenlassen.
 
-Für den internen Abgleich kann diese Tabelle dienen; ausgeben nur bei Bedarf:
-
-| Position | Schriftsatzstelle | Datei | Beweisthema | Nummer | PDF/Stempel | Status |
-| --- | --- | --- | --- | --- | --- | --- |
-| Hauptdokument | gesamte Fassung | Datei | Anträge und Vortrag | 00 | final oder offen | Status |
-| Anlage | Seite und Absatz | Datei | konkrete Tatsache | K 1 oder B 1 | offen oder fertig | Status |
+Folgeantworten ändern das Paket: „Nur Mahnungsentwurf vorhanden“ führt zur gezielten Anforderung der versandten Fassung, nicht zu erfundenem Zugang. „Assistenz versendet“ führt zur Signaturprüfung am Hauptdokument. Neue Endfassung nach Signatur erneut prüfen. Bekannte Nummern und Gerichtsdaten übernehmen. Belegarbeit entscheidet keine materielle Beweislast.
 
 ## 3. Arbeitsfolge
 
@@ -64,7 +59,7 @@ Prüfe Öffnung ohne Kennwort, Seitenzahl, Lesbarkeit, OCR, eingebettete Dateien
 
 ### 4.1. Signaturweg
 
-Nach [Paragraf 130a Absatz 3 ZPO](https://www.gesetze-im-internet.de/zpo/__130a.html) benötigt das elektronische Hauptdokument eine qualifizierte elektronische Signatur der verantwortenden Person oder deren Signatur und einen sicheren Übermittlungsweg. Die Vorschrift nimmt beigefügte Anlagen davon aus. Dokumentiere verantwortende Person, Signaturart und vorgesehene versendende Person konkret; ungeklärte Delegation sperrt die Versandfreigabe, nicht die Anlagenzuordnung.
+Paragraf 130a Absatz 3 ZPO: Hauptdokument qualifiziert signieren oder einfach signiert persönlich sicher versenden; gewöhnliche Anlagen sind ausgenommen. Bei Mitarbeiter-Versand verlangt BAG, Beschluss vom 22.01.2025, 7 ABR 23/23, Rn. 33 bis 36 ([Volltext](https://www.bundesarbeitsgericht.de/entscheidung/7-abr-23-23/)), die qualifizierte Signatur. Der Beschluss betrifft Paragraf 46c ArbGG mit entsprechendem Formweg. „Nein“ im Signaturvermerk ist kein unwiderleglicher Beweis: Widersprüche an Originaldatei und Signatur technisch klären. Ungeklärte Delegation sperrt nur Versand, nicht Belegarbeit.
 
 ### 4.2. Eingangskontrolle
 

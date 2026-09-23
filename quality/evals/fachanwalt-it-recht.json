@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "fachanwalt-it-recht",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/bgb/__631.html",
@@ -32,28 +32,53 @@
       "url": "https://eur-lex.europa.eu/eli/reg/2026/1744/oj?locale=de",
       "checked_on": "2026-09-14",
       "supports": "Amtliche Veröffentlichung der Änderungsverordnung vom 08.07.2026 geöffnet, insbesondere Änderungsgegenstand und Erwägungsgründe zu Kompetenzförderung und Bias-Korrektur gelesen. Der bestehende IT-Schnellstart wurde nicht auf den älteren unveränderten KI-Rechtsstand zurückgesetzt; keine Vollprüfung sämtlicher dortiger Regulierungsdetails behauptet."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2013/VII_ZR_301-13.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 19. Januar 2017, VII ZR 301/13, Randnummern 31 bis 48. Anwendung: Vor ERP-Abnahme Erfüllungsanspruch von Mängelrechten unterscheiden; bloße Vorschussforderung begründet noch kein Abrechnungsverhältnis. Grenze: Fassadenfall mit allgemeinem Werkvertragsmaßstab, keine automatische ERP-Abnahme oder Übertragung baurechtlicher Nachtragsregeln."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__634.html",
+      "checked_on": "2026-09-22",
+      "supports": "Werkvertragliche Mängelrechte; Norm mit Rechtsprechung zum Abnahmestadium verbunden."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__640.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aktueller Abnahmetatbestand und Vorbehalt bei bekannten Mängeln."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__640.html",
+      "supports": "Erneuter Normabruf zu Abnahme, Fristsetzung, Mangelbenennung und Vorbehalt; erfolgreicher Einzeltest bedeutet nicht automatisch Abnahme des gesamten ERP-Werks.",
+      "checked_on": "2026-09-23"
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Vollständig gelesen: ERP-Ticket, Nachtragsfreigabe, Abnahme und Fälligkeit sind getrennt; fehlende Anbieterbelege führen zur konkreten Klauseländerung, nicht zu einem vorgeschalteten Komplettaudit.",
+    "reason": "Der Mini knüpft werkvertragliche Rechtsfolgen an den tatsächlich belegten Abnahmestand statt an Go-live oder bloße Vorschussforderung. Individueller Text- und Quellenreview, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Testdaten waren veraltet -> Fehlerursache, Verantwortungsbereich und Abnahmeargument ändern; nachgereichter Nachtrag -> Freigabe und Vergütungsposition getrennt aktualisieren.",
     "changes": [
-      "Nachtragsangebot und Annahme gezielt nachfordern und anschließend Vergütungsgrund sowie Rechnungsschreiben aktualisieren lassen.",
-      "Bestehende Omnibus-, Artikel-4a- und KI-MIG-Abschnitte samt Quellenstatus erhalten.",
-      "Unbelegte Konformität verhindert Freigabe, nicht die Ausarbeitung belegter Vertragsabschnitte."
+      "VII ZR 301/13 zu Erfüllung, Abnahme und Abrechnungsverhältnis in allen drei Prompts verankert.",
+      "Hauptproblem und zugeordneter Fokus-Skill in Aussage und Quellenbasis abgeglichen.",
+      "Lose nicht verifizierte Softwareentscheidungen aus der Werkstatt entfernt.",
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
     ],
-    "sha256": "3a005046457bc144720caeb1cb253ea464803f957f2542d85d8860668a522749"
+    "sha256": "d576d1ad7539ef3453264753e6f8f28823df596cbae0125761fe7f1bbc9162cc"
   },
   "focus_review": {
-    "reviewed_on": "2026-09-17",
+    "reviewed_on": "2026-09-23",
     "method": "desk_review",
-    "verdict": "retained",
-    "reason": "Standalone-Prompt und zugeordneter Fokus-Skill vollständig auf fachlichen Umfang, Rückfragen mit Fortsetzung bis zum bestellten Dokument, Ausgabeverhalten, Rollenbegrenzung und Quellendifferenzierung gelesen. Kein Live-Modelltest und keine erneute Vollverifikation der bestehenden Rechtsquellen.",
-    "changes": [],
+    "verdict": "revised",
+    "reason": "Hauptproblem und Fokus-Skill vollständig gelesen und zur ERP-Abnahme nach BGH VII ZR 301/13 konsistent überarbeitet. Bloße Vorschussforderung, endgültige Ablehnung weiterer Leistung und Fortsetzung mit demselben Anbieter werden getrennt; keine Übernahme besonderer Bau-Nachtragsregeln. Amtlicher Entscheidungstext geprüft, kein Live-Modelltest. Workflow-Ergänzung: Testdaten waren veraltet -> Fehlerursache, Verantwortungsbereich und Abnahmeargument ändern; nachgereichter Nachtrag -> Freigabe und Vergütungsposition getrennt aktualisieren. Zugeordneten Fokus-Skill auf Kohärenz gelesen und unverändert belassen.",
+    "changes": [
+      "Abnahmestadium und Ausnahme eines Abrechnungsverhältnisses konkretisiert.",
+      "Amtlichen Volltext statt bloßem Suchhinweis als Entscheidungsquelle verwendet.",
+      "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten."
+    ],
     "prompt_path": "fachanwalt-it-recht/fachanwalt-it-recht-hauptproblem.md",
-    "prompt_sha256": "c4b9401e18a8e8e15ce80777c7702ad6018f2c906b58792577c801837207fadd",
+    "prompt_sha256": "aad81e03bd0237f7253a3dfd4f985c87f107c95fa7345ea22c8eb8ce064b7c87",
     "skill_path": "fachanwalt-it-recht/skills/erp-abnahme-nachtraege-belegabgleich/SKILL.md",
-    "skill_sha256": "5eaa8260a423316745b6a7b3efe0f991e30161ed284b10b7bec1c32809129c5a"
+    "skill_sha256": "7df98b6c2d867b83ac5c7b78226c2dfe2bf88ab8c450e877c405d912f0fb4162"
   },
   "selection": {
     "positive": [
@@ -116,12 +141,54 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Gesamte Werkstatt einschließlich Systemverträgen, Altankern und Ende gelesen. ERP, Service-Level, Rechtekette und Vorfälle haben konkrete Belegfortsetzungen und führen zum bestellten Vertrag oder Schreiben.",
+    "reason": "Die Werkstatt bindet die allgemeine Werkvertragsrechtsprechung an ERP-Abnahme und Fortsetzung der Zusammenarbeit, ohne spezielle Bau-Nachtragsregeln zu importieren. Die bezeichneten Anker wurden am amtlichen Entscheidungstext geprüft; keine pauschale Vollverifikation aller Nebenmaterien. Workflow-Ergänzung einzeln geprüft: Testumgebung und Migration, kaufmännische gegenüber technischer Freigabe, Abnahmefiktion und bekannte Mängel, gemessene Cloud-Verfügbarkeit, Exportumfang, Trainingsnutzung sowie Vorfallkenntnis gegenüber bloßer Linksperre.",
     "changes": [
-      "Test-, Mess- und Exportnachweise mit Mangelbeschreibung, Gutschrift beziehungsweise Exit-Klauseln verbunden.",
-      "Akuten Vorfall als Prioritätsänderung statt Bearbeitungsabbruch behandelt.",
-      "Interne Rückfallpositionen und Quellenprotokolle von Endfassung getrennt; focus_review unverändert."
+      "VII ZR 301/13 zu Erfüllung, Abnahme und Abrechnungsverhältnis in allen drei Prompts verankert.",
+      "Hauptproblem und zugeordneter Fokus-Skill in Aussage und Quellenbasis abgeglichen.",
+      "Lose nicht verifizierte Softwareentscheidungen aus der Werkstatt entfernt.",
+      "Testumgebung und Migration, kaufmännische gegenüber technischer Freigabe, Abnahmefiktion und bekannte Mängel, gemessene Cloud-Verfügbarkeit, Exportumfang, Trainingsnutzung sowie Vorfallkenntnis gegenüber bloßer Linksperre."
     ],
-    "sha256": "897eefb8f0f70ae9dc575359b0a5af9688ecdb816eae0a029ba2567837c0ccf8"
+    "sha256": "ac3d24f1f2be96bdd077e523b1e1cee19eaa745c9afe592ae38c89358a63467b"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "files": [
+      "fachanwalt-it-recht/README.md",
+      "fachanwalt-it-recht/fachanwalt-it-recht-werkstatt.md",
+      "fachanwalt-it-recht/fachanwalt-it-recht-schnellstart.md",
+      "quality/evals/fachanwalt-it-recht.json",
+      "fachanwalt-it-recht/fachanwalt-it-recht-hauptproblem.md",
+      "fachanwalt-it-recht/skills/erp-abnahme-nachtraege-belegabgleich/SKILL.md"
+    ],
+    "opening_change": "ERP-Funktionen, Abnahmebelege, Tickets und Nachtragsabrechnung gegeneinander prüfen. Workflow-Ergänzung: Leer: ERP-Rechnungsabwehr, Cloud-Klausel oder Vorfallmeldung anbieten. Dateien ohne Aufgabe: Abnahmeprotokolle, Nachträge und Vorfallsdaten still lesen; nur das Arbeitsziel klären, kein Komplettaudit. Klarer Auftrag: konkrete Klausel, Rechnungsantwort oder Meldung direkt bearbeiten; Folgeantworten ohne neue Aufnahme.",
+    "norms": [
+      "Paragrafen 631, 634, 640 und 641 BGB"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 19. Januar 2017, VII ZR 301/13, Randnummern 31 bis 48",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2013/VII_ZR_301-13.pdf?__blob=publicationFile&v=1",
+        "application": "Vor ERP-Abnahme Erfüllungsanspruch von Mängelrechten unterscheiden; bloße Vorschussforderung begründet noch kein Abrechnungsverhältnis.",
+        "limit": "Fassadenfall mit allgemeinem Werkvertragsmaßstab, keine automatische ERP-Abnahme oder Übertragung baurechtlicher Nachtragsregeln."
+      }
+    ],
+    "remaining_limits": [
+      "Kein Live-Modelltest; technische ERP-Abnahmekriterien, konkrete Nachträge und KI-/Cyber-Spezialrecht nicht umfassend neu verifiziert.",
+      "Desk-/Quellenreview, kein Live-Client- oder Modelltest. Bestehende Auswahl- und Ergebnisfälle unverändert erhalten.",
+      "Workflow-Review 23.09.2026: Paragraf 640 BGB erneut eingesehen. Bestehende KI-, NIS2- und sonstige Regulierungsstände nicht umfassend neu verifiziert; Mini auf 7.474 UTF-8-Bytes begrenzt."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: ERP-Rechnungsabwehr, Cloud-Klausel oder Vorfallmeldung anbieten.",
+      "Dateien ohne Aufgabe: Abnahmeprotokolle, Nachträge und Vorfallsdaten still lesen; nur das Arbeitsziel klären, kein Komplettaudit.",
+      "Klarer Auftrag: konkrete Klausel, Rechnungsantwort oder Meldung direkt bearbeiten; Folgeantworten ohne neue Aufnahme."
+    ],
+    "continuation": "Testdaten waren veraltet -> Fehlerursache, Verantwortungsbereich und Abnahmeargument ändern; nachgereichter Nachtrag -> Freigabe und Vergütungsposition getrennt aktualisieren.",
+    "enrichment": "Testumgebung und Migration, kaufmännische gegenüber technischer Freigabe, Abnahmefiktion und bekannte Mängel, gemessene Cloud-Verfügbarkeit, Exportumfang, Trainingsnutzung sowie Vorfallkenntnis gegenüber bloßer Linksperre.",
+    "limits": "desk review; no live client execution"
   }
 }

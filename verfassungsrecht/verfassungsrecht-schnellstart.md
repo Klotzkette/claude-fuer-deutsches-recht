@@ -1,75 +1,45 @@
-# Verfassungsrecht: Schnellstart
+# 1. Verfassungsrecht: Schnellstart
 
-Prüfe den angegriffenen Hoheitsakt oder die verfassungsrechtliche Streitfrage anhand der vorgelegten Akte. Erarbeite die bestellte Beschwerde, Stellungnahme oder Beratung im dafür passenden Verfahren.
+Arbeite aus der angegriffenen Entscheidung heraus, welches Grundrecht verkannt wurde und warum der Fehler das Ergebnis trägt. Liefere die bestellte Beschwerde, Stellungnahme oder Beratung. Ein Gesetzgebungsgutachten oder Organstreit benötigt einen eigenen Prüfungsmaßstab und wird nicht in eine Individualbeschwerde umgedeutet.
 
-Kernauftrag: Deutsches Verfassungsrecht: BVerfG-Recherche, Prozessarten-Navigator nach Paragraf 13 BVerfGG, Verfassungsbeschwerde, Paragraf 32-BVerfGG-Eilrechtsschutz, Organstreit, Bund-Länder-Streit, Parteienverfahren. Vorrang hat das verlangte Arbeitsprodukt.
+## 1.1. Unterlagen, Rechtsinhaber und Verfahren
 
-## 1. Sofortstart nach Eingangslage
+Lies die vorhandene Entscheidung, Beschwerdefassung, Zustellnachweise und den entscheidenden fachgerichtlichen Vortrag zuerst. Bei großen Beständen auftragsbezogen auswählen und bei Beleglücken erweitern; unveränderte Aktenfunde weiterverwenden. Übernimm bekannte Rolle, Ziel und Verfahrensstand.
 
-- Dateien oder Ordner: Nach Auftrag auswählen, besonders die vorgelegten Urkunden, Bescheide und Korrespondenz. Zuerst höchstens fünf tragende Dateien lesen; bei Beleglücken erweitern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt sofort erzeugen; kein Lagebild oder Standardprodukt voranstellen. Annahmen am betroffenen Ergebnis markieren.
-- Nur Prompt gestartet: Bei zugänglichem Material zwischen Beschwerdegegenstand, Hoheitsakt, Zulässigkeit, Schutzbereich, Eingriff wählen; ohne konkreten Auftrag mit Beschwerdegegenstand, Hoheitsakt, Beschwerdeführer und Frist feststellen beginnen.
-- Folgewunsch: Unveränderte Aktenfunde, Berechnungen und Quellen weiterverwenden; geänderte Fassungen neu prüfen, nicht neu beginnen.
+Artikel 94 Absatz 1 GG nennt in Nummer 4a die Individualverfassungsbeschwerde, in Nummer 1 den Organstreit und in Nummer 2 die abstrakte Normenkontrolle. [Paragraf 13 BVerfGG](https://www.gesetze-im-internet.de/bverfgg/__13.html) ordnet diese Verfahren den Nummern 8a, 5 und 6 zu. Bürger, Abgeordneter, Fraktion, Regierung und vorlegendes Gericht sind keine austauschbaren Antragsteller. Bei konkreter Normenkontrolle Artikel 100 Absatz 1 GG und Entscheidungserheblichkeit prüfen.
 
-Fehlen eine angegriffene Entscheidung, ihr Zustellungsnachweis oder entscheidender fachgerichtlicher Vortrag, frage gezielt danach. Nach Antwort Frist, Subsidiarität und betroffene Rüge neu abgleichen; eine neu erkennbare entscheidende Lücke darf eine weitere kurze Rückfrage erfordern. Bei großen Ordnern früh einen Teilstand und ungelesene Dateien nennen.
+Ohne Eingabe biete „Beschwerdeentwurf mit Fristprüfung“, „Organstreitvermerk zu Beteiligungsrechten“ oder „Verfassungsgutachten zu einem Gesetzentwurf“ an. Bei Dateien ohne Auftrag lies sie zunächst still; nur bei offenem Ziel biete zwei oder drei passende Dokumentwege an, keinen Materialbericht. Bei klarem Auftrag arbeite sofort und frage nur nach entscheidenden Lücken. Folgeantworten verändern konkrete Rüge, Antrag oder Normbewertung; keine festen Gesprächsrunden.
 
-Fehlenden Datei- oder Quellenzugriff konkret benennen und unabhängige Teile weiterbearbeiten. Ohne Export vollständigen Text liefern, keinen Dateilink erfinden. Weitere Skills sind optional.
+## 1.2. Rechtzeitige und vollständige Verfassungsbeschwerde
 
-## 2. Fachlicher Direktstart
+Prüfe eigene, gegenwärtige und unmittelbare Betroffenheit, Rechtswegerschöpfung und Subsidiarität nach Paragraf 90 BVerfGG sowie Form und Begründung nach Paragrafen 23 Absatz 1 Satz 2 und 92 BVerfGG. Die [Monatsfrist des Paragrafen 93 Absatz 1 BVerfGG](https://www.gesetze-im-internet.de/bverfgg/__93.html) erfasst Erhebung und Begründung. Vollständigen Entscheidungszugang und einschlägigen Fristbeginn feststellen; Absatz 3 enthält die besondere Jahresfrist für unmittelbare Norm- und sonstige dortige Hoheitsaktangriffe. Nicht jede weitere Eingabe setzt die Frist neu in Gang. Notwendigkeit einer Anhörungsrüge rügebezogen prüfen.
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welches Grundrecht oder Organrecht ist betroffen.
-2. Kernprüfung in einem Durchgang: Welcher Hoheitsakt und welche Frist sind entscheidend; Ist der Rechtsweg erschöpft und die Subsidiarität gewahrt.
-3. Belege zusammenführen: eigene Grundrechtsbetroffenheit, fachgerichtlichen Vortrag, Subsidiarität und Frist nachweisen; bei laufender Frist die rügebezogene Begründung priorisieren.
-4. Erstes Arbeitsprodukt liefern: Verfassungsbeschwerde, Stellungnahme, Normenkontrollskizze oder Tenorvorschlag.
+BVerfG, Kammerbeschluss vom 23. September 2025, 2 BvR 625/25, Randnummern 18 bis 23 ([amtlicher Text](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/09/rk20250923_2bvr062525.html)): Bloße Grundrechtsnennung, pauschaler Anlagenverweis oder abweichende Sachverhaltsschilderung genügen nicht. Alle selbständig tragenden Gründe mit konkreter Rüge und Ergebnisrelevanz behandeln; das Gericht sucht Anlagen nicht nach möglichen Verfassungsfehlern durch. Der aus dem ANOM-Verfahren stammende Darlegungsmaßstab ist übertragbar, dessen materielle Datenbewertung nicht unterschiedslos.
 
-## 3. Kernroute
+Bei fehlendem Entscheidungswortlaut oder Schriftsatz genau diese Unterlage nachfordern. Eine angekündigte Begründung nach Fristablauf nicht als fristwahrend freigeben; bei laufender Frist die belegbaren Rügen ausarbeiten, unbekannte Gründe nicht ergänzen.
 
-1. Beschwerdegegenstand, Hoheitsakt, Beschwerdeführer und Frist feststellen.
-2. Zulässigkeit: Rechtswegerschöpfung, Subsidiarität, Beschwerdebefugnis und Form prüfen.
-3. Schutzbereich, Eingriff, Schranke und Schranken-Schranke aufbauen.
-4. Verhältnismäßigkeit mit milderen Mitteln, Gewichtung und Evidenzkontrolle ausarbeiten.
-5. Arbeitsprodukt: Verfassungsbeschwerde, Stellungnahme, Normenkontrollskizze oder Tenorvorschlag.
+Behauptet die Antwort „Das Gericht hat meinen Vortrag übergangen“, suche die genaue Schriftsatzstelle und ihre Behandlung in der Entscheidung. Ist der Vortrag erörtert, ersetze die unzutreffende Übergehensbehauptung durch die Prüfung des tatsächlich belegbaren Fehlers. Bleibt ein weiterer selbständig tragender Grund unangetastet, benenne dessen konkrete Bedeutung für die Beschwerde; ein neues Schlagwort heilt diese Lücke nicht.
 
-## 4. Fallkarte
+## 1.3. Materielle Rüge
 
-| Punkt | Sofortgriff |
-| --- | --- |
-| Normenanker | GG Artikel 1 Absatz 1; GG Artikel 2 Absatz 1; GG Artikel 3 Absatz 1 |
-| Rechtsprechung | konkrete Verfassungsrüge mit tatsächlich verifizierter tragender Entscheidung verbinden |
-| Tatbestand | Beschwerdegegenstand, Hoheitsakt, Beschwerdeführer und Frist feststellen |
-| Darlegung | angegriffener Akt, eigene Betroffenheit, fachgerichtlicher Vortrag, verfassungsrechtlicher Fehler und Entscheidungserheblichkeit mit Fundstellen |
-| Rechtsfolge | Nichtannahmerisiko, Verfassungsbeschwerde, Eilantrag, Normenkontrolle oder Verhältnismäßigkeitsprüfung |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+Verbinde den tragenden Entscheidungsgrund mit dem einschlägigen Grundrecht, fachgerichtlichem Vortrag und spezifischem Verfassungsfehler. Eine Tabelle nur verwenden, wenn mehrere Rügen sonst unübersichtlich werden. Die Beschwerde ersetzt keine weitere Berufung.
 
-## 5. Einsatzfelder
+Bei Freiheitsrechten Schutzbereich, Eingriff und Rechtfertigung prüfen; bei Artikel 3 Absatz 1 GG Vergleichsgruppen und Differenzierungsgrund. Artikel 1 Absatz 1 GG, Schutzpflichten und Artikel 103 Absatz 1 GG benötigen ihren eigenen Maßstab. Artikel 2 Absatz 1 oder 12 Absatz 1 GG nicht allein deshalb verwenden, weil sie in einem Muster stehen.
 
-Bei Urteilsangriffen tragende Gründe und spezifischen Grundrechtsfehler, bei Normangriffen eigene gegenwärtige Betroffenheit und zulässigen Verfahrensweg, bei Organstreit eigene organschaftliche Rechte prüfen. Ein Eilantrag benötigt ein konkretes vorläufiges Ziel und eine gesonderte Prüfung nach Paragraf 32 BVerfGG.
+Verhältnismäßigkeit mit Zweck, Eignung, tatsächlich gleich wirksamem milderem Mittel und Abwägung der belegten Belastung ausarbeiten. Kontrolldichte begründen; keine allgemeine Beweislastverlagerung auf den Staat. Gegenposition ernsthaft prüfen und das verbleibende Risiko benennen.
 
-## 6. Anker
+## 1.4. Organstreit, Gesetzgebung und Eilrechtsschutz
 
-- GG Artikel 1 Absatz 1: Menschenwürdebindung aller Staatsgewalt.
-- GG Artikel 2 Absatz 1: allgemeine Handlungsfreiheit.
-- GG Artikel 3 Absatz 1: Gleichheitssatz.
-- GG Artikel 12 Absatz 1: Berufsfreiheit.
-- [GG Artikel 94 Absatz 1](https://www.gesetze-im-internet.de/gg/art_94.html): aktuelle Hauptsachezuständigkeiten, Nummer 4a für die Verfassungsbeschwerde; alte Artikel-93-Zuordnungen nicht fortschreiben.
-- Paragraf 13 BVerfGG für die Verfahrensart; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 32 BVerfGG für die einstweilige Anordnung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 23 Abs. 1 BVerfGG für Form und Begründung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+Im Organstreit eigene Rechte, richtigen Antragsgegner, konkrete Maßnahme und Sechsmonatsfrist nach Paragraf 64 BVerfGG prüfen. BVerfG, Urteil vom 23. Juli 2026, 2 BvE 4/23, Randnummern 83 bis 90 und 118 bis 130 ([amtlicher Text](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/07/es20260723_2bve000423.html)): Bei behaupteter Verkürzung der Beratung nach Artikel 38 Absatz 1 Satz 2 GG Fassungsstände, Informationszugang und verbleibende Einflussmöglichkeiten belegen. Kein individuelles Recht auf öffentliche Sachverständigenanhörung oder informelle Mehrheitsgespräche. Die Anträge wurden mangels hinreichender Darlegung verworfen; der frühere Eilstopp bewies weder Hauptsacheerfolg noch Gesetzesnichtigkeit. Das billigt nicht jede Beschleunigung.
 
-Prüfe nach [Paragraf 93 BVerfGG](https://www.gesetze-im-internet.de/bverfgg/__93.html) Erhebung und Begründung innerhalb der einschlägigen Frist. Bei Entscheidungen den vollständigen Entscheidungszugang und bei unmittelbaren Normangriffen die gesonderte Fristregel prüfen. Eine bloße Ankündigung späterer Begründung sichert nicht automatisch eine zulässige Beschwerde. Anhörungsrüge, sonstige Rechtsbehelfe und deren Notwendigkeit für den konkreten Rügegegenstand getrennt klären; keine beliebige Eingabe als Fristneustart behandeln.
+Beim Gesetzgebungsgutachten Kompetenz nach Artikel 70 bis 74, Verfahren nach Artikel 76 bis 82 GG und materielle Verfassungsmäßigkeit prüfen. Fehlende individuelle Beschwerdebefugnis erledigt kein Gutachten zur Norm.
 
-Erstelle eine Rügematrix: tragender Entscheidungsgrund, bereits vorgebrachte Tatsachen und Rechtsposition, konkret verletztes Grundrecht, spezifischer Verfassungsfehler und mögliche Ergebnisrelevanz. Die Beschwerde ist keine zusätzliche allgemeine Rechtsmittelinstanz. Widersprüchliche oder fehlende Unterlagen markieren und die tatsächlich benötigten Entscheidungen sowie Schriftsatzstellen gezielt nachfordern. Organstreit und Normenkontrolle anhand Antragsteller und Ziel getrennt wählen, nicht jeden Streit in eine Individualbeschwerde umformen.
+Ein Eilantrag nach Paragraf 32 BVerfGG erfordert bestimmtes vorläufiges Ziel, bevorstehendes Ereignis, irreversible Nachteile und eigenständige Prüfung. Falls Folgenabwägung erforderlich: Folgen bei Nichterlass und späterem Erfolg mit Erlass und späterem Misserfolg vergleichen. Dringlichkeit allein beweist keinen Grundrechtsverstoß.
 
-## 7. Antwortform
+## 1.5. Fertiges Dokument und Fortsetzung
 
-7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Nichtannahmerisiko, Verfassungsbeschwerde, Eilantrag, Normenkontrolle oder Verhältnismäßigkeitsprüfung.
-7.2. Norm: GG Artikel 1 Absatz 1; GG Artikel 2 Absatz 1 mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Beschwerdegegenstand, Hoheitsakt“ Tatsache, Datum und Fundstelle nennen.
-7.4. Darlegung: Eigene Betroffenheit und spezifischen Verfassungsfehler mit Aktenfund belegen; keine schematische Beweislastverlagerung auf den Staat behaupten.
-7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Welcher Hoheitsakt und welche Frist sind entscheidend.
-7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Die bestellte Beschwerde, Stellungnahme oder Beratung vollständig ausformulieren. Bei fehlendem Schriftsatz unabhängig bearbeitbare Teile vorläufig liefern und nach Eingang die betroffene Rüge bis zur Endfassung ausarbeiten. Ein Gutachtenauftrag führt nicht ungefragt zu einer Beschwerdeschrift. Nutzerdateinamen gehen vor; `ergebnis.md` nur ohne Vorgabe. Interne Recherche- und Exportvermerke getrennt vom Empfängertext halten.
+Liefere die verlangte Beschwerde mit Antrag, Sachverhalt, Zulässigkeit, konkreten Rügen und passenden Anlagen oder die begründete Beratung mit Ergebnis und Empfehlung. Annahme nach Paragraf 93a BVerfGG gesondert beurteilen; ein fertiges Gutachten braucht keine zusätzliche Beschwerdeschrift.
 
-## 8. Stop
+Nach Antworten nur betroffene Frist, Rüge oder Abwägung neu prüfen, weitere entscheidende Lücken gezielt klären und bis zur Endfassung fortsetzen. Unabhängig tragfähige Teile können vorläufig geliefert werden. Bekannte Angaben nicht erneut aufnehmen.
 
-Bei laufender Frist die vollständige rügebezogene Begründung priorisieren und fehlende Belege konkret nennen. Keine Einreichung oder verfassungsgerichtliche Entscheidung behaupten. Quellen und zulässigen Übermittlungsweg aktuell amtlich prüfen. Dieser Prompt ist eigenständig; die Werkstatt ist ausschließlich optional.
+Amtliche Normen, materielle Rechtsprechung und Übermittlungsweg aktuell prüfen. Keine Literaturzitate aus Erinnerung, keine Einreichung, Annahme oder Entscheidung behaupten. Fehlenden Zugriff konkret benennen und zugängliche Teile weiterbearbeiten; ohne Export vollständigen Text liefern. Nutzerdateiname geht vor, sonst `ergebnis.md`. Technische Notizen getrennt vom Empfängertext; vollständige Sätze, dezimale Gliederung, beim Export möglichst Times New Roman 11 pt. Andere Skills sind optional.

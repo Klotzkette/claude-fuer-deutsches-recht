@@ -1,25 +1,45 @@
 {
   "schema_version": 1,
   "plugin": "informationsfreiheit-presseauskunft",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/ifg/__7.html",
       "checked_on": "2026-09-14",
       "supports": "Amtlicher Volltext: Begründung bei Drittbezug, Teilzugang und Monats-Sollregel mit Drittbeteiligungsvorbehalt."
+    },
+    {
+      "url": "https://www.bverwg.de/100419U7C23.18.0",
+      "checked_on": "2026-09-22",
+      "supports": "BVerwG, Urteil vom 10.04.2019, Az. 7 C 23.18, Randnummern 36 bis 41. Anwendung: Unverhältnismäßigen Verwaltungsaufwand anhand institutioneller Belastung begründen; Teilzugang nicht mit gewöhnlichem Prüfaufwand verweigern. Grenze und Prüfzugang: Identifikation, Rechtsprüfung und Drittanhörung zählen zum Aufwand; Geheimhaltungsgründe entfallen nicht."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/ifg/__7.html",
+      "checked_on": "2026-09-22",
+      "supports": "Teilzugang, Antrag und Bearbeitung nach geltendem IFG."
     }
   ],
   "mini_review": {
-    "verdict": "retained",
-    "reason": "Aktuellen Mini vollständig gelesen. Vorgang und Zeitraum werden gezielt präzisiert; ergänzte Schutzgründe ändern die betroffene Schwärzungsbewertung. Teilzugang, Pressefrage und regimespezifische Bearbeitungsregel bleiben getrennt. Keine weitere Abbruchstelle gefunden; Quellenstand nicht erneut verifiziert, kein Live-Modelltest.",
-    "changes": [],
-    "sha256": "6d3ee5937cdea6c95926bde2e569a5a9413b598989f9d34e9a2e19ef93c6c5b6"
+    "verdict": "revised",
+    "reason": "Teilzugang bleibt bei begrenzten schutzwürdigen Passagen prüfbar; bloßer Verwaltungsaufwand sperrt nicht automatisch die ganze Akte.",
+    "changes": [
+      "BVerwG-Maßstab zur drohenden institutionellen Überlastung auf Teilzugang angewandt",
+      "Rechtsprüfung und Drittanhörung als tatsächlichen Aufwand berücksichtigt",
+      "Konkretes Schwärzungsbeispiel und anschließenden fertigen Antrag erhalten",
+      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt."
+    ],
+    "sha256": "4e3f82536b7fc3ee7bdf791fc68880a6fc1850ef38495a90ea207ffa7317f668"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt vollständig gelesen. Alte Monatsfrist, Gebührenzuordnung und obligatorische Verfahrensprodukte widersprachen dem differenzierten Mini und dem Auftragsvorrang. Diese Stellen angeglichen, ohne die vorhandenen Schutzgründe und Fachrouten neu zu konzipieren. Keine erneute Quellenverifikation und kein Live-Modelltest.",
-    "changes": ["Unbestimmtes Begehren führt zur Präzisierung statt zum pauschalen Stopp.", "Regimespezifische Bearbeitungsregel und gesonderte Gebührenprüfung übernommen.", "Passagenbezogene Schutzprüfung positiv formuliert; interne Übersicht und Gesamtakte nicht mehr als obligatorisches Endprodukt behandelt.", "Nutzerdateiname und Fertigstellung nach Ergänzung ausdrücklich berücksichtigt."],
-    "sha256": "213f23786e4f355053f664a61628f3762fb0e9c9c5d5018210f4bcb887de11f9"
+    "reason": "IFG, UIG, VIG, Archiv und Presseauskunft erhalten eigene Anspruchswege; Drittbeteiligung, Gebühren und Eilbedarf sind keine zwingende Prozesskaskade.",
+    "changes": [
+      "BVerwG-Maßstab zur drohenden institutionellen Überlastung auf Teilzugang angewandt",
+      "Rechtsprüfung und Drittanhörung als tatsächlichen Aufwand berücksichtigt",
+      "Konkretes Schwärzungsbeispiel und anschließenden fertigen Antrag erhalten",
+      "Existenz und Suche, passagebezogene Geheimnisse, gezieltes Schwärzungseinverständnis, institutioneller Aufwand und eigenständige presserechtliche Tatsachenfrage."
+    ],
+    "sha256": "3e27661ae998bb3ff69978ff9c9d7b1097f9ca1d2f4542cc38c93537ebd5dd70"
   },
   "selection": {
     "positive": [
@@ -64,5 +84,45 @@
       ],
       "target_skill": "ifg-bund-schwaerzung-angreifen"
     }
-  ]
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "informationsfreiheit-presseauskunft/informationsfreiheit-presseauskunft-werkstatt.md",
+      "informationsfreiheit-presseauskunft/informationsfreiheit-presseauskunft-schnellstart.md",
+      "informationsfreiheit-presseauskunft/README.md",
+      "quality/evals/informationsfreiheit-presseauskunft.json"
+    ],
+    "opening_change": "Bezeichnete Unterlagen und konkrete Schwärzungen mit Antrag und Ablehnungsbescheid abgleichen.",
+    "norms": [
+      "Paragrafen 3 bis 8 IFG",
+      "Paragraf 7 Absatz 2 IFG",
+      "Paragraf 123 VwGO"
+    ],
+    "decisions": [
+      {
+        "citation": "BVerwG, Urteil vom 10.04.2019, Az. 7 C 23.18, Randnummern 36 bis 41",
+        "url": "https://www.bverwg.de/100419U7C23.18.0",
+        "application": "Unverhältnismäßigen Verwaltungsaufwand anhand institutioneller Belastung begründen; Teilzugang nicht mit gewöhnlichem Prüfaufwand verweigern.",
+        "limit": "Identifikation, Rechtsprüfung und Drittanhörung zählen zum Aufwand; Geheimhaltungsgründe entfallen nicht."
+      }
+    ],
+    "remaining_limits": [
+      "Desk-/Quellenprüfung, kein Live-Ergebnistest.",
+      "Länderrechtliche Presseauskunft und besondere Archivregeln nur als gesonderte Prüfwege, nicht vollständig neu verifiziert.",
+      "Workflow-Ergänzung am 2026-09-23: individuelle Textprüfung, keine erneute Gesamtverifikation der bestehenden Entscheidungsanker; deren dokumentierte Quellen- und Zugriffsgrenzen bleiben bestehen."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Informationsantrag, Schwärzungseinwand oder Pressefrage anbieten.",
+      "Antrag und Bescheid still lesen; Teilzugangsbrief oder Drittstellungnahme anbieten.",
+      "Bestellten Zugangsbrief unmittelbar fertigstellen."
+    ],
+    "continuation": "Aktenzeichen -> Suchgegenstand; veröffentlichte Einzelangabe -> Schutzgrund; Aufwandsschätzung -> begrenzten Antrag; Redaktionsfrist -> Eilbegründung ändern.",
+    "enrichment": "Existenz und Suche, passagebezogene Geheimnisse, gezieltes Schwärzungseinverständnis, institutioneller Aufwand und eigenständige presserechtliche Tatsachenfrage.",
+    "limits": "desk review; no live client execution"
+  }
 }

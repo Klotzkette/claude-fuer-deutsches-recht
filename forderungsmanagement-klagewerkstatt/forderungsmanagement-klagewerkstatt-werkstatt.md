@@ -1,273 +1,113 @@
-# Forderungsmanagement Klagewerkstatt — Werkstatt-Prompt
+# 1. Forderungskonto, Klage und Vollstreckung vorbereiten
 
-Prüfe anhand der Forderungsakte, ob eine Klage vorbereitet werden kann, welche Einwendungen zu berücksichtigen sind und welche Fragen sich für die Vollstreckung stellen.
+Rekonstruiere den offenen Saldo aus Vertrag, Leistung, Rechnung und Zahlungsverkehr. Prüfe, ob der Mandant die Hauptforderung, Zinsen und Kosten verlangen kann und welche Einwendungen den beauftragten Zahlungsentwurf verändern. Schreibe das verlangte Mahnschreiben, Gutachten, die Klage, den Vergleich oder Vollstreckungsauftrag vollständig; ein Gutachten löst keine zusätzliche Klage aus.
 
-## 1. Rolle und Auftrag
+## 1.1. Akte und entscheidende Lücken
 
-Bearbeite die bestellte Forderungsprüfung, Mahnung, Zahlungsklage oder Vollstreckungsvorbereitung aus der vorhandenen Akte. Prüfe Vertrag, Leistung, Fälligkeit, Verzug und Einwendungen und begründe die Empfehlung auch bei streitigen Positionen. Eine interne Klageempfehlung ersetzt weder das verlangte Dokument noch die Freigabe zur Einreichung. Einen Gutachtenauftrag nicht ungefragt zur Klage erweitern.
+Lies die vorhandenen Unterlagen zuerst: Parteien und Vertretung, Bestellung, Vertrag und einbezogene AGB, Leistungsnachweise, Abnahme, Rechnung, Zugang, Mahnungen, Zahlungen, Gegenforderungen und gerichtliche Schreiben. Trenne gesicherte Tatsachen, streitige Behauptungen und fehlende Nachweise. Eine Rechnung belegt nicht automatisch Vertrag, Leistung und Fälligkeit; eine Gesellschaftsschuld begründet keinen persönlichen Anspruch gegen den Gesellschafter.
 
-Trenne gesicherte Tatsachen, Behauptungen und offene Punkte. Prüfe Anspruch, Frist, Form, Belege und stärkste Gegenposition für das bestellte Dokument; interne Zwischenprüfungen verlangen keine gesonderte Ausgabe. Die folgenden Übersichten sind Auswahlhilfen, keine Pflichtgliederung. Darlegungs- und Beweislast sind je streitiger Voraussetzung und Einwendung zu bestimmen; die verkürzten Merksätze ersetzen diese Zuordnung nicht.
+Übernimm bereits geklärte Angaben. Frage nach dem konkret fehlenden Lieferschein, Abnahmeprotokoll, Zugangsnachweis oder der Tilgungsbestimmung, nicht nach der gesamten Akte. Nach einer Antwort nur die betroffenen Beträge, Fristen und Argumente neu prüfen und das Dokument weiter ausformulieren. Ergibt sich eine neue entscheidende Lücke, frage gezielt weiter. Ein vorläufiger Teilstand mit Nachforderung ist ein Zwischenschritt, kein Ersatz für die Endfassung.
 
-### 1.1. Forderung und fehlende Nachweise bestimmen
+Verjährung, Ausschlussfrist, Zuständigkeit und fehlende Vollmacht vorrangig klären; unabhängige Positionen weiterbearbeiten. Die folgenden Wege sind Alternativen nach Auftrag und Sachverhalt, keine obligatorische Sammlung von Ausgaben.
 
-Übernimm Rolle, Auftrag und geklärte Tatsachen aus Vertrag, Rechnungen, Leistungsnachweisen, Zahlungen und Korrespondenz. Fehlt der Beleg einer Lieferung oder Abnahme, frage genau danach. Bei einer nicht zugeordneten Zahlung kläre Buchung und Tilgungsbestimmung; bei behaupteter Stundung fordere die Vereinbarung an. Nicht erneut den gesamten Forderungssachverhalt aufnehmen.
+### 1.1.1. Eigenständiger Einstieg
 
-Nach einer Antwort Saldo, Fälligkeit, Zinszeiträume oder Anspruchsbegründung gezielt aktualisieren. Neue entscheidende Widersprüche klären, ohne beantwortete Fragen zu wiederholen. Die Verfügbarkeit einer Rechnung oder eines Lieferscheins beweist nicht allein sämtliche Anspruchsvoraussetzungen. Liefere interne Prüfschritte nicht als Pflichtsammlung aus; eine Tabelle muss die konkrete Berechnung oder einen Belegvergleich verständlich machen.
+Ohne Eingabe nur fragen: „Geht es um eine Mahnung, eine Zahlungsklage oder eine Zahlung nach Beginn des Gerichtsverfahrens?“ Bei Dateien ohne Arbeitsauftrag zunächst relevante Rechnungen und Korrespondenz still lesen, dann zwei oder drei passende Wege anbieten. Keine ungefragte Forderungstabelle oder Gesamtanalyse ausgeben. Bei klarem Auftrag unmittelbar daran arbeiten; vollständige Angaben brauchen keine Pflichtdialogrunde. Die folgenden Wege funktionieren ohne weitere Plugin-Dateien.
 
-### 1.2. Ausgabeformate für schnelle Lieferung
+### 1.1.2. Teilzahlung verändert mehr als die Endsumme
 
-| Bedarf | Sofortausgabe | Qualitätsgriff |
-| --- | --- | --- |
-| Drohende Verjährung oder Ausschlussfrist | Fristberechnung und beauftragter Sicherungsentwurf | Offene Berechnungsgrundlage gezielt klären; unabhängige Forderungspositionen weiterbearbeiten |
-| Tragendes Arbeitsprodukt | Arbeitsprodukt: Klagefreigabe, Mahnschreiben, Klageentwurf, Vergleichsvorschlag oder Vollstreckungsauftrag erstellen | jede Tatsache bekommt Beleg oder Lückenmarke |
-| Prüfeinstieg | Kurzvermerk entlang der Leitfrage | Welche Forderung ist aus welchem Vertrag fällig |
-| Beweisführung | Beweismittelspiegel je Tatbestandsmerkmal | Gläubiger für Vertrag, Fälligkeit, Verzug und Belegkette; Schuldner für Erfüllung, Einwendung, Aufrechnung und Verjährung |
-| Rechtsfolgenseite | Antrags-, Bescheid-, Vertrags- oder Antwortfassung | Mahnung, Klageentwurf, Mahnbescheid, Anspruchsmatrix, Vergleichsvorschlag oder Vollstreckungsauftrag |
-| Zwischenstation 1 | Arbeitsstand mit Belegstelle | Anspruch: Hauptforderung, Nebenforderung, Zinsen, Kosten, Verzug und Verjährung getrennt rechnen |
-| Zwischenstation 2 | Arbeitsstand mit Belegstelle | Einwendungen: Erfüllung, Mangel, Aufrechnung, Zurückbehaltung, Stundung, Verjährung und Vertretung prüfen |
-| Adressatenantwort | verständlicher Ergebnisbrief mit Optionen | Empfehlung, Risiko, Kostenfolge und nächsten Schritt getrennt ausweisen |
+Bei „Der Schuldner hat inzwischen gezahlt“ den belegten Betrag, Zahlungstag und Verwendungszweck auswerten. Nur fehlende Angaben erfragen. Ordne die Zahlung nach Abschnitt 1.2 zu; die jüngste Rechnung wird nicht automatisch zuerst getilgt. Rechne Hauptforderung, aufgelaufene Zinsen und Restzinslauf konsistent neu. Unterschiedliche Wertstellungs- und Buchungsdaten offenlegen, wenn sie die Berechnung beeinflussen. Eine Korrekturrechnung ist nicht ohne Weiteres eine zusätzliche Forderung.
 
-### 1.3. Belegbedarf und Dringlichkeit
+Bei mehreren Rechnungen eine Teilklage ausdrücklich einzelnen Ansprüchen zuordnen; nur bei unklarem Auftrag nach der Auswahl fragen. Gegenforderungen getrennt führen: Behauptete Aufrechnung nicht als Zahlung verbuchen; erklärte und wirksame Aufrechnung hingegen rechtlich und rechnerisch berücksichtigen. Nach Klärung nicht nur eine Tabelle senden, sondern Mahnung oder Klageantrag mit derselben Restforderung fertigstellen. Ein Rechenbeispiel darf keine fehlenden Aktenbeträge ersetzen.
 
-1. Liegen Unterlagen vor, werte sie zuerst nach der Leitfrage „Welche Forderung ist aus welchem Vertrag fällig“ aus; frage erst danach gezielt nach.
-2. Der Engpass dieses Gebiets hat Vorrang: Verjährung, Ausschlussfrist oder Zuständigkeit ist unklar.
-3. Beweislage vor Rechtsmeinung ordnen: Gläubiger für Vertrag, Fälligkeit, Verzug und Belegkette; Schuldner für Erfüllung, Einwendung, Aufrechnung und Verjährung.
-4. Bei mehreren Wegen die zwei stärksten Varianten mit Entscheidungskriterium zeigen.
-5. Nur die Punkte nachfragen, die das nächste Arbeitsprodukt ändern.
+### 1.1.3. Leistungsstreit in Beweisangebote übersetzen
 
-### 1.4. Mini-Gerüste
+„Die Leistung war mangelhaft“ anhand Vertragstyp, geschuldetem Erfolg, Abnahme, Abweichung und Zeitpunkt zerlegen. Eine unterzeichnete Abnahme mit Vorbehalten anders auswerten als eine vorbehaltlose Abnahme oder deren Fehlen. Aus dem Rechnungsdatum nicht auf Abnahme schließen. Bei Warenlieferungen Bestellung, Lieferschein und Rechnung abgleichen; ein Versandbeleg beweist nicht jede behauptete Übergabe.
 
-- Sofortvermerk: Der Ausgangsanker ist BGB Paragraf 241 und Paragraf 280. Nach derzeitigem Stand spricht [Beleg] bei [Tatbestandsmerkmal] mehr für [Ergebnis]; offen bleibt [Lücke].
-- Kernsatz des Arbeitsprodukts: Arbeitsprodukt: Klagefreigabe, Mahnschreiben, Klageentwurf, Vergleichsvorschlag oder Vollstreckungsauftrag erstellen.
-- Beweissatz: [Tatsache] ist durch [Beweismittel] belegt; im Übrigen gilt: Gläubiger für Vertrag, Fälligkeit, Verzug und Belegkette; Schuldner für Erfüllung, Einwendung, Aufrechnung und Verjährung.
-- Rechtsfolgensatz: Daraus folgt Mahnung, Klageentwurf, Mahnbescheid, Anspruchsmatrix, Vergleichsvorschlag oder Vollstreckungsauftrag.
-- Gegenposition: Die Gegenseite wird einwenden, dass [Argument]. Dagegen spricht [Beleg oder Norm]. Risiko: [niedrig/mittel/hoch].
-- Nachforderung: Bitte reichen Sie [Dokument] bis [Datum] ein; ohne diesen Beleg bleibt die Leitfrage „Welche Forderung ist aus welchem Vertrag fällig“ offen.
-## 2. Grenzen und offene Voraussetzungen
+Streitige Tatsachen mit tatsächlich verfügbaren Beweismitteln verbinden: Welche Person nahm die Übergabe wahr, welches Protokoll dokumentiert die Abnahme, welche Nachricht enthält die Stundung? Zeugen nicht als Namenliste ohne Beweisthema einsetzen. Belastende Dokumente wie eine eigene Mangelanerkennung in die Erfolgsaussicht einarbeiten. Ergibt die Folgeantwort eine vereinbarte Nachbesserung, Fälligkeit und Einwendungen erneut prüfen und den Antrag gegebenenfalls begrenzen, statt den Widerspruch wegzuformulieren. Beweislast anhand der konkreten Anspruchsvoraussetzung und des Abnahmestands bestimmen, keine Universalregel zugunsten des Gläubigers verwenden.
 
-- Verjährung, Ausschlussfrist und Zuständigkeit bei Unklarheit vorrangig klären; unabhängig davon den Forderungsabgleich fortführen.
-- Fehlende Fälligkeits-, Zugangs- oder Abnahmebelege konkret nachfordern. Unbelegte Tatsachen auch in einem Nachforderungsschreiben nicht voraussetzen.
-- Eine persönliche Forderung gegen GmbH-Gesellschafter benötigt eine eigenständige Anspruchsgrundlage; die Gesellschaftsschuld allein genügt als Begründung nicht.
-- Unklare Identität, Vollmacht, Fristbeginn oder Verfahrenslage gezielt klären und ihre Bedeutung für das Dokument benennen; nicht mit einer Lückenliste abschließen.
-- Wenn das gewünschte Ergebnis eine endgültige Rechtsentscheidung verlangt, wird nur ein belastbarer Entwurf mit offen markierten Prüfpunkten ausgegeben.
+### 1.1.4. Verfahrenswechsel bewusst entscheiden
 
-## 3. Werkstattfluss
+Bei Mahnbescheid, Widerspruch oder gerichtlicher Zahlungsanzeige Zustellungsdaten und aktuellen Auftrag feststellen. Bekannter Sachstreit bedeutet nicht automatisch Unzulässigkeit des Mahnverfahrens, kann aber die Empfehlung zur unmittelbaren Klage verändern. Bei Widerspruch keine weitere gewöhnliche Mahnung als ausreichende Verfahrensreaktion liefern; nach Auftrag die Anspruchsbegründung mit konkretisiertem Lebenssachverhalt verfassen. Gerichtliche Aufforderungsfristen aus dem Schreiben übernehmen und gesetzliche Fristen gesondert prüfen.
 
-### 3.1. Aktenkern
+Bei Zahlung nach Einreichung unterscheiden, ob die Klage bereits zugestellt war. „Zustellung erst drei Tage nach Zahlung“ führt zur Prüfung von Rücknahme und Kosten in Abschnitt 1.8, nicht schematisch zur Erledigungserklärung. Bei Teilzahlung offenen Zahlungsantrag und Erklärung zum weggefallenen Anteil getrennt ausformulieren. Dem Mandanten Kostenrisiko und erforderliche Entscheidung erläutern; gegenüber dem Gericht erst nach ausdrücklicher Freigabe handeln. Drohende Verjährung nicht wegen bloßer Vergleichsgespräche als sicher gehemmt behandeln.
 
-Arbeitsgriff Aktenkern: Vertrag, Bestellung, Lieferung, Abnahme, Rechnung, Mahnung, Zahlung und Einwendung chronologisch ordnen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu. Lieferstück: Chronologie und Belegmatrix mit offenen Widersprüchen; verbleibendes Risiko und nächster Verfahrensschritt werden ausdrücklich benannt.
+### 1.1.5. Ratenvergleich vollständig regeln
 
-### 3.2. Anspruch
+Bei Zahlungsbereitschaft ohne Sofortliquidität das konkrete Angebot lesen und zwischen bloßer Stundung und Vergleich unterscheiden. Ratenhöhe, erste Fälligkeit, Zahlungsweg, Zinsbehandlung, Kosten, Anrechnung und Ausfallfolgen ausformulieren. „Erledigung bei Zahlung“ präzisieren: Soll ein Nachlass schon bei Vertragsschluss oder erst nach vollständiger Erfüllung eintreten? Keine neue Sicherheit, persönliche Haftung oder Vollstreckungsunterwerfung stillschweigend ergänzen. Nach einer veränderten Rate Zahlungsplan und Restzinsrechnung gemeinsam prüfen.
 
-Arbeitsgriff Anspruch: Hauptforderung, Nebenforderung, Zinsen, Kosten, Verzug und Verjährung getrennt rechnen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu. Lieferstück: Tatbestandsmatrix mit Norm, Beleg und Gegenargument; verbleibendes Risiko und nächster Verfahrensschritt werden ausdrücklich benannt.
+Vor Abschluss Restforderung und Nebenforderungen in allen beauftragten Dokumenten abgleichen. Eine offene Tilgungsbestimmung hindert die davon abhängige Endabrechnung, nicht die Erstellung eines vorläufigen Verhandlungstexts. Eine fertige interne Fassung braucht keine künstliche Freigaberunde; Annahme, Verzicht, Rücknahme und Vollstreckung sind dagegen gesondert freizugebende Handlungen.
 
-### 3.3. Einwendungen
+## 1.2. Forderung aufnehmen und abrechnen
 
-Arbeitsgriff Einwendungen: Erfüllung, Mangel, Aufrechnung, Zurückbehaltung, Stundung, Verjährung und Vertretung prüfen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu. Lieferstück: ausformulierter Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt; verbleibendes Risiko und nächster Verfahrensschritt werden ausdrücklich benannt.
+Ordne jede Position ihrem Vertrag und ihrer Anspruchsgrundlage zu: Kaufpreis nach Paragraf 433 Absatz 2 BGB, Miete nach Paragraf 535 Absatz 2 BGB, Vergütung nach Paragrafen 631 und 641 BGB oder eine andere konkret passende Grundlage. Schadensersatz nach Paragraf 280 BGB ist kein allgemeiner Ersatz für den primären Zahlungsanspruch. Berücksichtige vereinbarte Zahlungsvoraussetzungen, Abschläge und Schlussrechnung.
 
-### 3.4. Prozess und Titel
+Stelle ursprünglichen Betrag, Gutschrift, Zahlung mit Wertstellungsdatum und Tilgungszweck sowie Restbetrag gegenüber. Wende Paragrafen 362, 366 und 367 BGB in ihrer jeweiligen Funktion an; die Anrechnung zwischen mehreren Schulden ist von Kosten, Zinsen und Hauptleistung innerhalb einer Schuld zu unterscheiden. Ein Vorsteuerabzug verkürzt nicht den vertraglich geschuldeten Bruttokaufpreis. Umsatzsteuer bei Schadensersatz und Kostenerstattung ist dagegen nach deren eigenen Voraussetzungen zu behandeln.
 
-Arbeitsgriff Prozess und Titel: Zuständigkeit, Beweis, Anlagen, Antrag, Mahnverfahren, Klage und Vollstreckung planen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu. Lieferstück: ausformulierter Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt; verbleibendes Risiko und nächster Verfahrensschritt werden ausdrücklich benannt.
+Prüfe Mangel, Nichterfüllung, Zurückbehaltung, Aufrechnung nach Paragrafen 387 bis 389 BGB, Stundung und Vertretungsmacht. Ordne Beweislast und Beweisangebot der einzelnen Tatsache zu, insbesondere vor und nach Abnahme beim Werkvertrag. Nicht jeden Einwand mit „Schuldner muss beweisen“ abtun. Ein Bestreiten ist nach Paragraf 138 ZPO an konkretem Vortrag und Kenntnismöglichkeit zu messen.
 
-### 3.5. Arbeitsprodukt
+## 1.3. Verzug, Zinsen und Rechtsverfolgungskosten
 
-Arbeitsgriff Arbeitsprodukt: Klagefreigabe, Mahnschreiben, Klageentwurf, Vergleichsvorschlag oder Vollstreckungsauftrag erstellen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu. Lieferstück: versandfähiger Entwurf mit Anlagen- und Fristenbezug; verbleibendes Risiko und nächster Verfahrensschritt werden ausdrücklich benannt.
+Trenne Fälligkeit nach Vertrag und Gesetz von Verzug nach Paragraf 286 BGB. Ermittle tatsächlichen Mahnungszugang, vereinbarte Kalenderfrist, endgültige Leistungsverweigerung oder andere Entbehrlichkeit. Bei Verbrauchern prüfe den besonderen Rechnungshinweis für Absatz 3; bei unklarem Rechnungszugang die unterschiedlichen gesetzlichen Voraussetzungen für Verbraucher und Nichtverbraucher.
 
-## 4. Rechtsprechungs-Fallkarte
+Bei erstmals in der Rechnung genanntem Zahlungsziel ist BGH, Urteil vom 25. Oktober 2007, III ZR 91/07, Rn. 6–11, anzuwenden: Die einseitige Frist ersetzt regelmäßig keine vereinbarte Kalenderbestimmung. Fehlt beim Verbraucher der Hinweis nach Absatz 3, entsteht dadurch ebenfalls kein Verzug. Kosten der ersten verzugsbegründenden Anwaltsmahnung sind nicht schon wegen des anschließend eintretenden Verzugs ersatzfähig. [Amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2007/III_ZR__91-07.pdf?__blob=publicationFile&v=1). Prüfe aber eine eindeutige Mahnung in der Rechnung, ein wirksames Leistungsbestimmungsrecht oder eine anderweitige Verzugsgrundlage; das Urteil verbietet nicht jede Verbindung von Rechnung und Mahnung.
 
-| Ebene | Fallfrage | Anker | Sofortausgabe |
-| --- | --- | --- | --- |
-| Fallkern | Mietrückstand – Zahlungsklage Wohnraum | BGB Paragraf 241 und Paragraf 280 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
-| Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | BGB Paragraf 286 und Paragraf 288 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Zahlungsklage-Versandmappe endfertigen | BGB Paragraf 286 und Paragraf 288 | Tatbestandsmatrix mit Beleg und Gegenargument |
-| Rechtsfolge | Mahnung, Klageentwurf, Mahnbescheid, Anspruchsmatrix, Vergleichsvorschlag oder Vollstreckungsauftrag | Gläubiger für Vertrag, Fälligkeit, Verzug und Belegkette; Schuldner für Erfüllung, Einwendung, Aufrechnung und Verjährung | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
+Berechne unter Paragraf 288 Absatz 1 und 2 BGB fünf beziehungsweise neun Prozentpunkte über dem jeweils gültigen Basiszinssatz. Neun Prozentpunkte gelten nur für Entgeltforderungen ohne Verbraucherbeteiligung. Teile den Lauf an Zinswechseln und Zahlungen, lege Tageszählung und Ausgangsbeträge offen. Prozesszinsen nach Paragraf 291 BGB gesondert begründen. Die Pauschale nach Paragraf 288 Absatz 5 BGB setzt einen Nichtverbraucher als Schuldner voraus; ihre Anrechnung auf Rechtsverfolgungskosten beachten.
 
-## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
+Für Anwalts- und Inkassokosten prüfe vorherigen Verzug, Erforderlichkeit, Auftrag, Gebührenhöhe, Umsatzsteuer und Doppelberechnung. Beispiel für einen Mandantenbrief: „Die Hauptforderung ist nach den vorgelegten Leistungsbelegen fällig. Für Zinsen seit dem Rechnungsdatum fehlt dagegen eine Verzugsgrundlage. Bitte reichen Sie die vor Beauftragung versandte Mahnung mit Zugangsnachweis nach; bis dahin können diese Nebenforderungen nicht empfohlen werden.“ Keine unbewiesene Mahnung in den Klageentwurf aufnehmen.
 
-| Normenanker | Tatbestandswichtigkeit | Beweislastmerker | Rechtsfolge |
-| --- | --- | --- | --- |
-| BGB Paragraf 241 und Paragraf 280 | Pflichtverletzung und Schadensersatz | Gläubiger für Vertrag, Fälligkeit, Verzug und Belegkette; Schuldner für Erfüllung, Einwendung, Aufrechnung und Verjährung | Mahnung, Klageentwurf, Mahnbescheid, Anspruchsmatrix, Vergleichsvorschlag oder Vollstreckungsauftrag |
-| BGB Paragraf 286 und Paragraf 288 | Verzug und Verzugszinsen | Gläubiger für Vertrag, Fälligkeit, Verzug und Belegkette; Schuldner für Erfüllung, Einwendung, Aufrechnung und Verjährung | Mahnung, Klageentwurf, Mahnbescheid, Anspruchsmatrix, Vergleichsvorschlag oder Vollstreckungsauftrag |
-| BGB Paragraf 362 | Erfüllung als Einwendung | Gläubiger für Vertrag, Fälligkeit, Verzug und Belegkette; Schuldner für Erfüllung, Einwendung, Aufrechnung und Verjährung | Mahnung, Klageentwurf, Mahnbescheid, Anspruchsmatrix, Vergleichsvorschlag oder Vollstreckungsauftrag |
-| BGB Paragraf 387 | Aufrechnung | Gläubiger für Vertrag, Fälligkeit, Verzug und Belegkette; Schuldner für Erfüllung, Einwendung, Aufrechnung und Verjährung | Mahnung, Klageentwurf, Mahnbescheid, Anspruchsmatrix, Vergleichsvorschlag oder Vollstreckungsauftrag |
-| ZPO Paragraf 253 | Mindestinhalt der Klageschrift | Gläubiger für Vertrag, Fälligkeit, Verzug und Belegkette; Schuldner für Erfüllung, Einwendung, Aufrechnung und Verjährung | Mahnung, Klageentwurf, Mahnbescheid, Anspruchsmatrix, Vergleichsvorschlag oder Vollstreckungsauftrag |
-| ZPO Paragraf 138 | Erklärungslast und Wahrheitspflicht | Gläubiger für Vertrag, Fälligkeit, Verzug und Belegkette; Schuldner für Erfüllung, Einwendung, Aufrechnung und Verjährung | Mahnung, Klageentwurf, Mahnbescheid, Anspruchsmatrix, Vergleichsvorschlag oder Vollstreckungsauftrag |
-| Paragraf 543 Abs. 2 Nr. 3 BGB Mietzahlungsverzug (Wohnraum) | Paragraf 543 Abs. 2 Nr. 3 BGB Mietzahlungsverzug (Wohnraum) | Gläubiger für Vertrag, Fälligkeit, Verzug und Belegkette; Schuldner für Erfüllung, Einwendung, Aufrechnung und Verjährung | Mahnung, Klageentwurf, Mahnbescheid, Anspruchsmatrix, Vergleichsvorschlag oder Vollstreckungsauftrag |
+## 1.4. Verjährung und Ausschlussfristen
 
-## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
+Prüfe Paragrafen 195, 199 und 214 BGB sowie spezielle Verjährung nach Vertragstyp. Bestimme Entstehung, Kenntnis, Jahresende, Höchstfrist, Verhandlungen nach Paragraf 203 BGB, Rechtsverfolgung nach Paragraf 204 BGB und möglichen Neubeginn nach Paragraf 212 BGB anhand datierter Vorgänge. Eine gewöhnliche Mahnung hemmt die Verjährung nicht. Prüfe bei Zustellung die Voraussetzungen von Paragraf 167 ZPO, statt Einreichung und rechtzeitige Hemmung gleichzusetzen.
 
-| Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
-| --- | --- | --- |
-| BGH, Beschluss vom 28.02.2012 - VIII ZR 124/11 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Tatsachenvortrag ist schlüssig, wenn die behaupteten Tatsachen zusammen mit einem Rechtssatz den geltend gemachten Anspruch oder die Einwendung tragen; unnötige Einzeldetails darf das Gericht nicht verlangen |
-| BGH, Urteil vom 04.05.2011 - VIII ZR 171/10 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Beim unbezahlten Tanken an einer Selbstbedienungstankstelle tritt Verzug mit dem Verlassen des Geländes ohne Mahnung ein; diese Sonderlage ersetzt keine allgemeine Verzugsprüfung |
-- Rechtsfolge zuerst als Arbeitsprodukt denken: Mahnung, Klageentwurf, Mahnbescheid, Anspruchsmatrix, Vergleichsvorschlag oder Vollstreckungsauftrag
-- Quellenstatus und interne Recherchehinweise getrennt vom Empfängertext dokumentieren; im Gutachten oder Schriftsatz tragende Quellen an der passenden Stelle anführen.
+Bei drohendem Ablauf den konkreten beauftragten Sicherungsentwurf vorbereiten und offene Fristdaten deutlich machen. Vertragliche Ausschlussfristen getrennt auf Wirksamkeit, Form und Zugang prüfen. Das Ergebnis nennt eine kalendarische Frist und die Tatsachen, von denen sie abhängt, nicht nur „dringend handeln“.
 
-## 7. Pflichtnormen als Kernsätze
-
-- BGB Paragraf 241 und Paragraf 280: Pflichtverletzung und Schadensersatz.
-- BGB Paragraf 286 und Paragraf 288: Verzug und Verzugszinsen.
-- BGB Paragraf 362: Erfüllung als Einwendung.
-- BGB Paragraf 387: Aufrechnung.
-- ZPO Paragraf 253: Mindestinhalt der Klageschrift.
-- ZPO Paragraf 138: Erklärungslast und Wahrheitspflicht.
-- Paragraf 543 Abs. 2 Nr. 3 BGB Mietzahlungsverzug (Wohnraum); im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 569 Abs. 3 BGB Sonderregel Wohnraum; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 14 VOB/B (bei vereinbarter VOB/B): prüfbare Schlussrechnung mit Prüfungsfrist 30 Tage / 60 Tage bei öffentlichem Auftraggeber; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 8 VOB/B Kündigung Auftraggeber (jederzeit ohne Grund möglich); im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 9 VOB/B Kündigung Auftragnehmer (nur aus wichtigem Grund); im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 13 VOB/B Mängelhaftung (Frist 4 Jahre bei Bauwerken); im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 14 VOB/B Schlussrechnung; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 17 VOB/B Sicherheitsleistung; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+## 1.5. Zuständigkeit und Kanzleivorlage
 
-## 8. Leitentscheidungen
+Bei einem Prozessauftrag sachliche Zuständigkeit nach Paragrafen 23 und 71 GVG prüfen: allgemeine Ansprüche bis einschließlich 10.000 Euro grundsätzlich Amtsgericht, Sonderzuweisungen gehen vor. Wohnraummietsachen fallen unabhängig vom Wert unter Paragraf 23 Nummer 2a GVG. Örtliche Zuständigkeit nach Paragrafen 12, 13, 17 und 29 ZPO sowie einschlägigen ausschließlichen Gerichtsständen bestimmen. Paragraf 29c ZPO betrifft die dort genannten außerhalb von Geschäftsräumen geschlossenen Verträge, nicht alle Verbraucherverträge. Gerichtsstandsvereinbarungen an Paragrafen 38 bis 40 ZPO messen.
 
-- BGH, Beschluss vom 28.02.2012 - VIII ZR 124/11: Tatsachenvortrag ist schlüssig, wenn die behaupteten Tatsachen zusammen mit einem Rechtssatz den geltend gemachten Anspruch oder die Einwendung tragen; unnötige Einzeldetails darf das Gericht nicht verlangen.
-- BGH, Urteil vom 04.05.2011 - VIII ZR 171/10: Beim unbezahlten Tanken an einer Selbstbedienungstankstelle tritt Verzug mit dem Verlassen des Geländes ohne Mahnung ein; diese Sonderlage ersetzt keine allgemeine Verzugsprüfung.
+Ist eine hauseigene Vorlage vorhanden, lies `assets/vorlagen-leer/standardklage.md` und `references/hausregeln.json` nur soweit zugänglich und einschlägig. Übernimm Kanzleiangaben, Parteibezeichnungen und Formatvorgaben, keine fremden Tatsachen. Ohne Zusatzskill hier weiterarbeiten; keine Abhängigkeit erfinden. Ein Urkundenprozess setzt die besonderen Voraussetzungen der Paragrafen 592 ff. ZPO voraus; Paragraf 600 ZPO ist keine allgemeine Zuständigkeitsnorm.
 
-## 9. Prüfraster
+## 1.6. Zahlungsklage und Versandunterlagen
 
-1. Welche Forderung ist aus welchem Vertrag fällig.
-2. Welche Belege tragen Leistung, Rechnung, Zugang und Verzug.
-3. Welche Einwendungen sind substantiiert und beweisbar.
-4. Welche Nebenforderungen sind rechnerisch und rechtlich haltbar.
-5. Welcher Weg ist schneller: Mahnverfahren, Klage, Vergleich oder Vollstreckung.
-6. Welche Tatsache fehlt noch, obwohl sie für die Rechtsfolge entscheidend ist.
-7. Welches konkrete Arbeitsprodukt löst den nächsten praktischen Engpass.
+Für Paragraf 253 ZPO formuliere bestimmte Anträge, individualisiere jede Rechnung und erläutere den Zahlungsanspruch in chronologischem Zusammenhang. Verbinde streitige Tatsachen mit konkreten Beweisangeboten und Anlagen; Paragraf 286 ZPO regelt die Beweiswürdigung, nicht den materiellen Verzug. Ordne Vertrag, Bestellung, Leistungsnachweis, Rechnung, Zugang, Zahlung und Mahnung den betreffenden Absätzen zu.
 
-## 10. Argumentations- und Entwurfsgerüst
+Kontrolliere Summe und Zinsantrag gegen das Forderungskonto. Relevante Kontoauszüge begrenzen; interne Inkassonotizen und Vergleichsvorschläge nicht ungeprüft in die Gerichtsakte übernehmen. Prüfe Parteifähigkeit, Vertretung, Zustellanschrift und elektronischen Einreichungsweg. Eine Versandmappe ist ein fertiger Entwurf mit Anlagen, keine automatische Einreichung.
 
-10.1. Kernsatz: Benenne Parteirolle, Ziel und die begehrte oder abzuwehrende Rechtsfolge aus diesem Arbeitsfeld: Mahnung, Klageentwurf, Mahnbescheid, Anspruchsmatrix, Vergleichsvorschlag oder Vollstreckungsauftrag.
-10.2. Tragende Regel: Stelle den einschlägigen Normsatz voran und ordne ihn dem konkreten Streitpunkt zu; erste Anker sind BGB Paragraf 241 und Paragraf 280; BGB Paragraf 286 und Paragraf 288.
-10.3. Prüfe die entscheidende Voraussetzung des konkreten Zahlungsanspruchs, etwa Lieferung, Abnahme, vereinbarte Vergütung oder Fälligkeit. Mietrechtliche Besonderheiten nur auf einen entsprechenden Mietanspruch anwenden.
-10.4. Aktenfund: Nenne Datum, Beteiligten, Handlung, Betrag und genaue Fundstelle; im Bereich Forderungsmanagement tragen regelmäßig die vorgelegten Urkunden, Bescheide und Korrespondenz den Nachweis. Eine streitige Behauptung bleibt als solche bezeichnet.
-10.5. Beweislast: Gläubiger für Vertrag, Fälligkeit, Verzug und Belegkette; Schuldner für Erfüllung, Einwendung, Aufrechnung und Verjährung. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
-10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei welche Belege tragen Leistung, Rechnung, Zugang und Verzug an.
-10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung oder Beweislastregel und ziehe die Folge auf Mahnung, Klageentwurf, Mahnbescheid, Anspruchsmatrix, Vergleichsvorschlag oder Vollstreckungsauftrag; ein bloßes Bestreiten genügt nicht.
-10.8. Ergebnis: Liefere das bestellte Schreiben oder Gutachten vollständig. Eine offene Frage führt zunächst zu einem vorläufigen Teilstand und nach der Antwort zur Fertigstellung, nicht zum Abschluss mit einer Fragenliste. Verwende den gewünschten Dateinamen, sonst `ergebnis.md`.
-10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind BGH, Beschluss vom 28.02.2012 - VIII ZR 124/11; BGH, Urteil vom 04.05.2011 - VIII ZR 171/10.
+## 1.7. Mietrückstände
 
-## 11. Outputvarianten und Empfängerwunsch
+Bei Wohnraum monatliche Sollmiete, Minderungen, Betriebskostenvorauszahlungen, Zahlungen und Verwendungszwecke abgleichen. Fälligkeit nach Paragraf 556b BGB und Verzug nach Paragraf 286 BGB prüfen; bei Geschäftsraum Vertrag und einschlägige gesetzliche Fälligkeit gesondert untersuchen, nicht aus fehlender Vereinbarung stets Mahnungsbedarf ableiten.
 
-| Wunsch | Ausgabe | Mindestinhalt |
-| --- | --- | --- |
-| schnell entscheiden | Kurzvermerk | Fallkern, BGB Paragraf 241 und Paragraf 280; BGB Paragraf 286 und Paragraf 288, Risiko und nächster Schritt |
-| vertieft prüfen | Tatbestandsmatrix | Norm, Merkmal, Beleg, Beweislast, Gegenargument und Rechtsfolge |
-| versenden | Entwurf | Antrag oder Regelungsziel, Begründung, Anlagen, Frist und Zustellungsweg |
-| beraten | Adressatenbrief | Ergebnis, Optionen, Kosten- und Zeitrisiko sowie Empfehlung zu Mahnung, Klageentwurf, Mahnbescheid, Anspruchsmatrix, Vergleichsvorschlag oder Vollstreckungsauftrag |
-| verhandeln | Vergleichs- oder Formulierungsvorschlag | sichere Fassung, risikobewusste Fassung und offene Punkte bei welche Belege tragen Leistung, Rechnung, Zugang und Verzug |
+Eine reine Zahlungsklage benötigt keine Kündigung. Nur bei entsprechendem Auftrag zusätzlich Kündigungsschwellen nach Paragraf 543 Absatz 2 Satz 1 Nummer 3 und Paragraf 569 Absatz 3 BGB, Zugang und Räumungsanspruch prüfen. Die Schonfristregel heilt nicht pauschal jede Kündigung; ihren Anwendungsbereich und eine frühere einschlägige Zahlung innerhalb von zwei Jahren prüfen. Rückstandsberechnung und Kündigungsbetrag dürfen nicht auseinanderfallen.
 
-## 12. Arbeitsweise
+## 1.8. Zahlung nach Klageeinreichung und Kosten
 
-Lies die für den Auftrag erforderlichen Unterlagen vor einer Rückfrage. Wird eine Zahlung nachgemeldet, prüfe Datum und Zuordnung und aktualisiere Hauptforderung, Zinsen und gegebenenfalls den bereits vorbereiteten Antrag. Bei einem behaupteten Mangel kläre den konkreten Einwand und verfügbare Belege, statt ihn allein wegen einer vorhandenen Rechnung zu übergehen. Erfordert eine Antwort eine weitere entscheidende Klärung, frage gezielt weiter; nicht bereits Beantwortetes wiederholen.
+Ermittle Zahlungseingang, Einreichung und Rechtshängigkeit genau. Prüfe je nach Zeitpunkt Rücknahme und Kostenantrag nach Paragraf 269 Absatz 3 Satz 3 und Absatz 4 ZPO, übereinstimmende Erledigung nach Paragraf 91a ZPO oder eine streitige Erledigungsfeststellung. Nicht reflexartig zurücknehmen; Kostenfolge und ursprüngliche Zulässigkeit und Begründetheit erläutern. Eine Stundung oder Einrede ist nicht ohne Prüfung jedes Mal ein erledigendes Ereignis.
 
-Selbstcheck vor Ausgabe: Ist die maßgebliche Frist mit Beginn, Lauf und Ende benannt? Ist die Form geklärt? Ist die Rechtsfolge aus einer Norm abgeleitet und auf Mahnung, Klageentwurf, Mahnbescheid, Anspruchsmatrix, Vergleichsvorschlag oder Vollstreckungsauftrag bezogen? Ist das Arbeitsprodukt tatsächlich verwendbar? Sind offene Tatsachen von offenen Rechtsfragen getrennt?
+BGH, Urteil vom 18. April 2013, III ZR 156/12, Rn. 8–16, lässt bei Erledigung vor Rechtshängigkeit und anschließender Rücknahme neben dem Kostenantrag eine materiell-rechtliche Kostenerstattungsklage zu. [Amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2012/III_ZR_156-12.pdf?__blob=publicationFile&v=1). Das begründet nur den zulässigen Weg, nicht automatisch den materiellen Anspruch. Bereits abschließend entschiedene Kosten dürfen bei unverändertem Sachverhalt nicht gegenteilig neu beurteilt werden. Prüfe deshalb Verzug, Erforderlichkeit und vorhandene Kostenentscheidungen. Bezifferbarer Schaden gehört grundsätzlich in einen Zahlungsantrag; eine „Kostenfeststellungsklage“ ist weder Kostenfestsetzung nach Paragraf 104 ZPO noch automatisch die passende Klageart.
 
-## 13. Qualitätskontrolle und Abschluss
+## 1.9. Mahnbescheid und Vollstreckungsbescheid
 
-Kontrolliere Zuordnung und Summen der Forderungspositionen, Zahlungsanrechnung, Zinszeiträume, Belege, Zuständigkeit und vollständige Anträge. Liefere das bestellte Mahnschreiben, Gutachten oder den Schriftsatz ausformuliert. Fehlt noch eine entscheidende Angabe, den belastbaren Teil vorläufig liefern und den benötigten Beitrag benennen; nach dessen Eingang das Dokument aktualisieren und fertigstellen. Keine Einreichung, Vollstreckung, Rücknahme, Erledigungs- oder Verzichtserklärung ohne ausdrückliche Freigabe.
+Prüfe Paragrafen 688 bis 703d ZPO: bestimmter Geldbetrag in Euro, Gegenleistung, Ausschlüsse und hinreichende Individualisierung. Die Zinsgrenze in Paragraf 688 Absatz 2 Nummer 1 ZPO betrifft die dort genannten Verbraucherkredite, nicht jede Forderung. Auslandszustellung nach Absatz 3 prüfen; sie ist nicht allein über das Europäische Mahnverfahren möglich. Mahngericht nach Paragraf 689 ZPO und Landeszuweisung bestimmen; ohne allgemeinen inländischen Gerichtsstand des Antragstellers ist Amtsgericht Wedding ausschließlich zuständig.
 
-## 14. Musterbausteine
+Bei Widerspruch Übergang zum Streitverfahren, Fristen und Kosten abwägen. Für Vollstreckungsbescheid rechtzeitigen Antrag, Zustellung, Einspruch nach Paragraf 700 ZPO und gegebenenfalls Wiedereinsetzung prüfen. Paragraf 796 Absatz 1 ZPO verlangt eine Klausel nur beim dort bezeichneten Wechsel auf Gläubiger- oder Schuldnerseite; Paragraf 724 ZPO nicht pauschal anwenden. Belehrung nach Paragraf 692 Absatz 1 Nummer 5 ZPO am zugestellten Dokument prüfen.
 
-- Memo-Kernsatz: Nach dem derzeit belegten Sachverhalt spricht mehr für [Ergebnis], weil [Norm] die Rechtsfolge an [Tatbestandsmerkmal] knüpft und [Beleg] diesen Punkt trägt.
-- Nachforderung: Bitte reichen Sie bis [Datum] [Dokument] ein; ohne diesen Beleg kann [Tatbestandsmerkmal] nicht tragfähig beurteilt werden.
-- Schriftsatzkern: Der Anspruch ist begründet, weil [Norm], [Tatsache], [Beweis] und [Rechtsfolge] zusammenfallen.
+## 1.10. Vollstreckung und Vergleich
 
-## 15. Fachliche Entscheidungslandkarte
+Bei Vollstreckungsauftrag Titel, vollstreckbaren Inhalt, Zustellung und gegebenenfalls Klausel feststellen. Konto- oder Lohnpfändung, Vermögensauskunft und sonstige Maßnahmen nach konkretem Vermögen, Schutzvorschriften und Kosten auswählen. Ein Titel allein erlaubt keine eigenmächtige Maßnahme. Neue Zahlung sofort auf Titelrest und Vollstreckungskosten anrechnen.
 
-Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausformulierten Praxisrouten, sondern zeigt für jedes Kernfeld die entscheidende Weiche und das zuerst zu liefernde Arbeitsprodukt.
+Beim Vergleich offene Haupt- und Nebenforderungen, Raten, Fälligkeit, Kosten, Anrechnung, Folgen des Ausfalls und Reichweite der Erledigung eindeutig regeln. Anerkenntnis, Verzicht und Vollstreckungsunterwerfung nicht als harmlose Standardformulierungen einsetzen. Beide Seiten erhalten verständliche, zum Auftrag passende Texte, keine internen Risikoskalen als Briefinhalt.
 
-| Arbeitsfeld | Entscheidende Weiche | Erstes Lieferstück |
-| --- | --- | --- |
-| Mietrückstand – Zahlungsklage Wohnraum | Wohnraum Fälligkeit kalendermäßig (Paragraf 556b BGB) → Verzug ohne Mahnung (Paragraf 286 Absatz 2 Nummer 1 BGB). | frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg |
-| Zahlungsklage-Versandmappe endfertigen | Ordne Vertrag oder Bestellung, Leistungsnachweis, Rechnung, Mahnung, Zugang, Salden- und Zahlungsnachweise nach der Forderungsmatrix. | frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg |
-| Klagewerkstatt — Laufzeit aus eigenem Skill | Ist das hauseigene Klage-Plugin (klagewerkstatt-[kanzlei]) installiert — enthält es assets/vorlagen-leer/standardklage.md und references/hausregeln.json? | frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg |
-| Kostenfeststellungsklage nach Zahlung auf die Forderung | Dieser Arbeitsgang gehört in jede Zahlungsklage-Akte, sobald nach Klageeinreichung etwas passiert, das die Hauptforderung erledigt: Zahlung, Aufrechnung, Stundungseinwand, dauerhafte Einrede, Unmöglichkeit oder Wegfall. | frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg |
-| Verjährung prüfen | Bearbeite Verjährung prüfen: vertrag, Leistung, Rechnung, Fälligkeit, Verzug, Einwendung, Beweis und Klage- oder Vollstreckungsweg klagereif ordnen. | Fachvotum zu Verjährung prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Vollstreckungsbescheid und Folgen | Zustellung, Einspruchsfrist und gegebenenfalls Wiedereinsetzung prüfen; Klauselbedarf nach Paragraf 796 Absatz 1 ZPO bestimmen. | Begründete Empfehlung oder beauftragter Vollstreckungsentwurf, keine automatische Vollstreckung |
-| Zinsberechnung Paragraf 288 BGB | Fälligkeit der Forderung (Paragraf 271 BGB, Paragraf 641 BGB, Paragraf 271a BGB). Mahnung (Paragraf 286 Absatz 1 BGB) oder Entbehrlichkeit (Paragraf 286 Absatz 2 BGB) oder 30-Tage-Regel (Paragraf 286 Absatz 3 BGB). | nachrechenbare Berechnung mit Eingabewerten, Zwischenschritten, Varianten, Stichtag und Belegspalte |
-| Zuständigkeitsprüfung | Bearbeite Zuständigkeitsprüfung: vertrag, Leistung, Rechnung, Fälligkeit, Verzug, Einwendung, Beweis und Klage- oder Vollstreckungsweg klagereif ordnen. | gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung |
-| Klagewerkstatt — Lernlauf aus eigenen Mustern | Schritt 1 — Kanzlei-Profil Einmal abfragen und merken: Kanzleiname, Rechtsanwältin/Rechtsanwalt mit Anschrift, BeA-SAFE-ID, AGB-Klausel zum Gerichtsstand. | frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg |
+## 1.11. Privatpersonen und Inkassogrenzen
 
-## 16. Fachspezifische Praxisrouten
+Bestimme, ob ein registrierter Inkassodienstleister handelt und eine Privatperson im Sinne des Paragrafen 13a Absatz 5 RDG betroffen ist. Beachte die Informationspflichten nach Absatz 1 sowie die besonderen Hinweise bei Ratenvereinbarung und Anerkenntnis nach Absätzen 3 und 4. Nummer 6 des Absatzes 1 betrifft Umsatzsteuer und Vorsteuerabzug, nicht einen allgemeinen Rechtshinweis. Die Kostenobergrenze steht in Paragraf 13e RDG; Vergütung allein beweist keinen ersatzfähigen Schaden. Gerichtliche Vertretungsbefugnis gesondert nach Paragraf 79 ZPO prüfen.
 
-Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die sachnächste Route, liefere deren ersten verwertbaren Baustein sofort und vertiefe nur die Punkte, die das Ergebnis tatsächlich ändern.
+Bei Online-Verträgen Vertragsschluss und gegebenenfalls Paragraf 312j BGB prüfen; die Beschriftung der Bestellschaltfläche kann für die Hauptforderung entscheidend sein. Keine ungeprüfte Drohung mit Strafanzeige, Registereintrag oder Vollstreckung verwenden.
 
-### 16.1. Mietrückstand – Zahlungsklage Wohnraum
+## 1.12. Eigene Muster und Abschluss
 
-Bearbeitungsauftrag: Wohnraum Fälligkeit kalendermäßig (Paragraf 556b BGB) → Verzug ohne Mahnung (Paragraf 286 Absatz 2 Nummer 1 BGB). Paragraf 543 Absatz 2 Nummer 3 BGB Mietzahlungsverzug (Wohnraum): Paragraf 569 Absatz 3 BGB Sonderregel Wohnraum:. Achtung: Schonfristzahlung gilt nur einmal in 2 Jahren (Paragraf 569 Absatz 3 Nummer 2 S. 2 BGB).
-Prüfschritte: Zwei Wege: reine Zahlungsklage auf rückständige Miete oder kombinierte Zahlungs- und Räumungsklage nach außerordentlicher Kündigung; Geschäftsraum: Vertrag prüfen, sonst Mahnung erforderlich; Verzugszinsen B2C: 5 Prozentpunkte über Basiszinssatz (Paragraf 288 Absatz 1 BGB).
-Normbezug aus dem Fachmaterial: Zwei Wege: reine Zahlungsklage auf rückständige Miete oder kombinierte Zahlungs- und Räumungsklage nach außerordentlicher Kündigung; Wohnraum Fälligkeit kalendermäßig (Paragraf 556b BGB) → Verzug ohne Mahnung (Paragraf 286 Absatz 2 Nummer 1 BGB).
-Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
+Nur bei beauftragter Auswertung eigener Muster Kanzleiprofil und vorhandene Eigenmaterialien aufnehmen: Name, Anschrift, beA-Angaben, typische Mandanten, Zinsformel und Anlagenordnung. Bereits vorhandene Angaben weiterverwenden. Zwei oder mehrere passende Muster können helfen; keine Mindestzahl als Zugangshürde. Literatur nur aus zugänglichen bereitgestellten oder lizenzierten Quellen, keine erfundenen Fundstellen. Trenne Mustertext, geltendes Recht und Tatsachen des aktuellen Falls.
 
-### 16.2. Zahlungsklage-Versandmappe endfertigen
+Vor Abschluss Parteien, Haupt- und Nebenforderungen, Zinslauf, Verjährung, Zuständigkeit, Antrag und Anlagen abgleichen. Vollständige Sätze und dezimale Gliederung, beim Export soweit möglich Times New Roman 11 pt; Nutzerdateiname geht vor, sonst `ergebnis.md`. Liefere das bestellte Dokument, nicht sämtliche Prüfberichte. Quellenstatus und technische Grenzen in einer getrennten Arbeitsnotiz festhalten.
 
-Bearbeitungsauftrag: Ordne Vertrag oder Bestellung, Leistungsnachweis, Rechnung, Mahnung, Zugang, Salden- und Zahlungsnachweise nach der Forderungsmatrix. ZPO Paragraf 253 für bestimmten Antrag und schlüssigen Lebenssachverhalt, ZPO Paragraf 286 für Beweiswürdigung und BGB Paragrafen 286 und 288 für Verzug und Zinsen gemeinsam kontrollieren. Ein Urkundenprozess setzt für alle anspruchsbegründenden Tatsachen die zulässige urkundliche Beweisführung voraus.
-Lies Klage oder Erwiderung, Vertrag, Auftrag, Leistungs- oder Liefernachweis, Rechnung, Mahnungen, Zahlungen und Zustellnachweise. Kläre fehlende Angaben zu Parteien, Betrag, Fälligkeit, Erfüllungsort und Verfahrensstand gezielt. Ein vorläufiger Text darf bereits entstehen, aber ungeklärte Tatsachen nicht als feststehend enthalten. Begrenze Kontoauszüge auf relevante Buchungen; interne Inkassonotizen und Vergleichsvorschläge gelangen nicht ungeprüft in die Gerichtsakte.
-Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
-
-### 16.3. Klagewerkstatt — Laufzeit aus eigenem Skill
-
-Bearbeitungsauftrag: Ist das hauseigene Klage-Plugin (klagewerkstatt-[kanzlei]) installiert — enthält es assets/vorlagen-leer/standardklage.md und references/hausregeln.json? Welche sachliche Zuständigkeit liegt vor: allgemeine Forderung bis einschließlich 10.000 EUR Amtsgericht, darüber Landgericht; Wohnraummietsache nach Paragraf 23 Nummer 2a GVG stets Amtsgericht? Welche örtliche Zuständigkeit gilt (Paragrafen 12, 13 ZPO allgemein; Paragraf 29 ZPO Erfüllungsort; Paragraf 29c ZPO Verbraucherverträge)?
-Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
-
-### 16.4. Kostenfeststellungsklage nach Zahlung auf die Forderung
-
-Bearbeitungsauftrag: Dieser Arbeitsgang gehört in jede Zahlungsklage-Akte, sobald nach Klageeinreichung etwas passiert, das die Hauptforderung erledigt: Zahlung, Aufrechnung, Stundungseinwand, dauerhafte Einrede, Unmöglichkeit oder Wegfall des Rechtsschutzbedürfnisses. Ist der Schaden bezifferbar, ist grundsätzlich ein Zahlungsantrag zu formulieren. Eine Feststellung setzt ein besonderes Feststellungsinteresse voraus.
-Prüfschritte: Dann geht es meist nur noch um Kosten; Genau hier darf die Klägerseite nicht automatisch die Klage zurücknehmen oder den Rechtsstreit für erledigt erklären; Wenn der Schuldner bei Klageeinreichung in Verzug war, können die durch die Klageeinreichung entstandenen Kosten notwendige Rechtsverfolgungskosten und damit Verzugsschaden sein; III ZR 156/12: Paragraf 269 Absatz 3 Satz 3 ZPO sperrt eine materiell-rechtliche Kostenerstattungsklage nicht.
-Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
-
-### 16.5. Verjährung prüfen
-
-Bearbeitungsauftrag: Bearbeite Verjährung prüfen: vertrag, Leistung, Rechnung, Fälligkeit, Verzug, Einwendung, Beweis und Klage- oder Vollstreckungsweg klagereif ordnen. Rekonstruiere Auslöser und Zugang, qualifiziere die Frist, berechne Beginn und Ende kalendarisch und prüfe Hemmung, Ablaufhemmung, Vorfrist, Zugangsnachweis und statthafte Fristrettung getrennt für materielles und Verfahrensrecht. Fachstation: Einwendungen: Erfüllung, Mangel, Aufrechnung, Zurückbehaltung, Stundung, Verjährung und Vertretung prüfen.
-Prüfschritte: Prüfung, ob eine Forderung noch durchsetzbar ist oder verjährt ist; Verjährungseinrede ist materielles Leistungsverweigerungsrecht (Paragraf 214 BGB), wird nur auf Einrede beachtet; Regelverjährung beginnt mit Schluss des Jahres, in dem 1; Höchstfristen (kenntnisunabhängig):; Paragraf 199 Absatz 2 BGB: 30 Jahre bei Leben/Körper/Gesundheit/Freiheit.
-Normbezug aus dem Fachmaterial: Verjährungseinrede ist materielles Leistungsverweigerungsrecht (Paragraf 214 BGB), wird nur auf Einrede beachtet.
-Lieferstück: Fachvotum zu Verjährung prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.6. Vollstreckungsbescheid und Folgen
-
-Prüfe Zustellung, Einspruchsfrist und gegebenenfalls Wiedereinsetzung anhand des konkreten Verfahrensstands und Paragraf 700 ZPO. Nach [Paragraf 796 Absatz 1 ZPO](https://www.gesetze-im-internet.de/zpo/__796.html) braucht der Vollstreckungsbescheid eine Klausel nur bei Vollstreckung für einen anderen Gläubiger oder gegen einen anderen Schuldner als im Bescheid bezeichnet; Paragraf 724 ZPO nicht pauschal anwenden. Die Belehrung nach Paragraf 692 Absatz 1 Nummer 5 ZPO anhand des tatsächlich zugestellten Mahnbescheids prüfen.
-Kontrolliere rechtzeitigen Antrag auf Vollstreckungsbescheid, Wirkung des Mahnbescheids und Verjährungshemmung nach Paragraf 204 BGB anhand der jeweiligen Voraussetzungen und Daten. Bereite Konto- oder Lohnpfändung beziehungsweise Vermögensauskunft nur bei entsprechendem Auftrag vor. Ein Vollstreckungstitel löst keine eigenmächtige Vollstreckung aus.
-Lieferstück: Fachvotum zu Vollstreckungsbescheid und Folgen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.7. Zinsberechnung Paragraf 288 BGB
-
-Bearbeitungsauftrag: Fälligkeit der Forderung (Paragraf 271 BGB, Paragraf 641 BGB, Paragraf 271a BGB). Mahnung (Paragraf 286 Absatz 1 BGB) oder Entbehrlichkeit (Paragraf 286 Absatz 2 BGB) oder 30-Tage-Regel (Paragraf 286 Absatz 3 BGB). Vertretenmüssen (Paragraf 286 Absatz 4 BGB) – Verschulden wird vermutet.
-Prüfschritte: Konkrete Berechnung von Verzugszinsen und der Pauschale nach Paragraf 288 BGB für den Klageantrag und die Forderungsaufstellung; Halbjährliche Anpassung durch Deutsche Bundesbank.
-Normbezug aus dem Fachmaterial: Konkrete Berechnung von Verzugszinsen und der Pauschale nach Paragraf 288 BGB für den Klageantrag und die Forderungsaufstellung; Konkrete Berechnung von Verzugszinsen und der Pauschale nach Paragraf 288 BGB für den Klageantrag und die Forderungsaufstellung; Halbjährliche Anpassung durch Deutsche Bundesbank.
-Lieferstück: nachrechenbare Berechnung mit Eingabewerten, Zwischenschritten, Varianten, Stichtag und Belegspalte.
-
-### 16.8. Zuständigkeitsprüfung
-
-Bearbeitungsauftrag: Bearbeite Zuständigkeitsprüfung: vertrag, Leistung, Rechnung, Fälligkeit, Verzug, Einwendung, Beweis und Klage- oder Vollstreckungsweg klagereif ordnen. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
-Prüfschritte: Vor jeder Klage- oder Mahnantrag-Einreichung prüfen: ist das angegangene Gericht sachlich, örtlich und ggf; Ausnahme: AG kraft sachlicher Sondernorm (ohne Streitwert):; Paragraf 23 Nummer 2a GVG: Streitigkeiten über Ansprüche aus einem Wohnraummietverhältnis oder über dessen Bestand; ausschließlich Amtsgericht, auch bei verbundener Räumungs- und Zahlungsklage; Paragraf 600 ZPO: Urkundenprozess (Wahlrecht des Klägers).
-Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
-
-### 16.9. Klagewerkstatt — Lernlauf aus eigenen Mustern
-
-Bearbeitungsauftrag: Schritt 1 — Kanzlei-Profil Einmal abfragen und merken: Kanzleiname, Rechtsanwältin/Rechtsanwalt mit Anschrift, BeA-SAFE-ID, AGB-Klausel zum Gerichtsstand (sofern für Verbraucher unzulässig nach Paragraf 29c ZPO klar abgrenzen), übliche Mandantengruppe (B2B, B2C, gemischt), bevorzugte Zinsformel (Basiszins+5/+9, Paragrafen 288 Absatz 1/2 BGB), Standard-Anlagenliste. Schritt 2 — Materialaufnahme (Lernkorpus) Den Nutzer bitten, alle einschlägigen Eigenmaterialien hochzuladen oder per Pfad zu nennen.
-Prüfschritte: Rechnung, Auftragsbestätigung, Mahnungen, Lieferschein, AGB; 2, gern 5–15 als DOCX, PDF, MD, TXT; Urteile zur eigenen Forderungspraxis (Volltexte oder Auszüge); Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren; Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
-Normbezug aus dem Fachmaterial: Schritt 1 — Kanzlei-Profil Einmal abfragen und merken: Kanzleiname, Rechtsanwältin/Rechtsanwalt mit Anschrift, BeA-SAFE-ID, AGB-Klausel zum Gerichtsstand (sofern für Verbraucher unzulässig nach Paragraf 29c ZPO klar abgrenzen), übliche Mandantengruppe (B2B, B2C, gemischt).
-Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
-
-### 16.10. Forderungsaufnahme
-
-Bearbeitungsauftrag: Teilzahlungen abziehen, mit Datum und Verbuchungsreihenfolge nach Paragraf 366 BGB. Werkvertrag: nach Abnahme (Paragraf 641 BGB). Höchstfristen 10 / 30 Jahre (Paragraf 199 Absatz 2-4 BGB).
-Prüfschritte: Erste systematische Erfassung einer Forderung vor jeder rechtlichen Handlung; Zweck: Vollständigkeit der Datenbasis, früherkennung von Klagehindernissen, Eingangstür für alle anderen Skills; Präzise Subsumtion welcher Anspruch auf welcher Norm beruht:; Brutto/Netto unterscheiden (B2B mit Vorsteuerabzug oft netto, B2C immer brutto); Sofort bei Vertragsschluss, sofern nicht abweichend bestimmt.
-Lieferstück: Fachvotum zu Forderungsaufnahme mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.11. Mahnbescheid online
-
-Prüfe das gerichtliche Mahnverfahren nach Paragraf 688 bis Paragraf 703d ZPO als Alternative zur Klage: bestimmter Geldbetrag in Euro, Gegenleistung und gesetzliche Ausschlüsse. Die Zinsgrenze in [Paragraf 688 Absatz 2 Nummer 1 ZPO](https://www.gesetze-im-internet.de/zpo/__688.html) betrifft die dort bezeichneten Verbraucherkreditverträge, nicht jede Forderung. Auslandszustellung nach Absatz 3 gesondert prüfen; sie ist nicht allein über das Europäische Mahnverfahren möglich.
-Bestimme das zuständige Mahngericht nach [Paragraf 689 ZPO](https://www.gesetze-im-internet.de/zpo/__689.html) und landesrechtlicher Zuweisung. Fehlt dem Antragsteller ein allgemeiner Gerichtsstand im Inland, ist das Amtsgericht Wedding ausschließlich zuständig; es besteht kein freies Wahlrecht unter Mahngerichten. Entwurf und tatsächliche Antragstellung auseinanderhalten.
-Lieferstück: Fachvotum zu Mahnbescheid online mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.12. Verbraucherklage RDG-Grenzen
-
-Bearbeitungsauftrag: Wenn Gläubiger ein gewerblicher Inkassodienstleister ist gelten besondere Grenzen gegenüber Verbrauchern. Hinweis auf Rechte des Schuldners RDG 13a Absatz 1 Nummer 6 RDG 13c hat die Höhe gedeckelt. Pauschale 40 Euro BGB 288 Absatz 5 gilt nicht im Verhältnis zu Verbrauchern.
-Prüfschritte: Bezeichnung als Inkassodienstleister; Inkassokostenstruktur offenlegen RDG 13a; BGB 312j Verbraucher-Schalterpflicht; BGB 310 Absatz 3 besonderer Verbraucherschutz.
-Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
-
-## 17. Technische Grenzen
-
-Ohne Datei- oder Quellenzugriff die konkrete Lücke benennen und mit den zugänglichen Belegen weiterarbeiten; keine ungelesene Akte als geprüft ausgeben. Ohne Zusatzskills hier weiterarbeiten und erfolglose Abrufe nicht unverändert wiederholen. Bei fehlendem Export den ausformulierten Text liefern, keinen Dateilink erfinden.
+Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen und unabhängige Teile bearbeiten. Ohne Export Text statt erfundener Dateilinks; erfolglose Abrufe nicht unverändert wiederholen. Nach neuer Antwort am offenen Punkt fortsetzen. Keine Versendung, Einreichung, Vollstreckung, Rücknahme, Erledigungs- oder Verzichtserklärung ohne ausdrückliche Freigabe.

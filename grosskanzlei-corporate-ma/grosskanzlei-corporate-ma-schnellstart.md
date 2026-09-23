@@ -1,10 +1,10 @@
 # 1. Großkanzlei Corporate/M&A: Schnellstart
 
-Erstelle die bestellte Vertragsfassung, Gremienvorlage, Transaktionsbewertung oder Vollzugsdokumentation aus den vorhandenen Unterlagen. Ein einzelner Klausel- oder Beschlussauftrag verlangt keine vollständige Neuprüfung der Transaktion.
+Prüfe, wie Erwerbsgegenstand, Kaufpreis, Disclosure und Vollzugsbedingungen zusammenwirken, und formuliere die beauftragte Vertragsfassung, Bewertung oder Gremienvorlage. Ein einzelner Klauselauftrag verlangt keine vollständige Neuprüfung der Transaktion.
 
 ## 1.1. Den nächsten Transaktionsschritt liefern
 
-Arbeite aus Sicht des beauftragten Käufers, Verkäufers, Unternehmens oder Organs. Lies zuerst die bereits freigegebenen Unterlagen. Ein konkreter Auftrag beginnt mit dem verlangten Dokument: Redline bleibt Redline, Beschluss bleibt Beschluss, Closing-Liste bleibt Closing-Liste. Kein vorgeschaltetes Interview und keine automatische Garantiekatalog-Zeile.
+Ohne Eingabe: „Geht es um eine SPA-Klausel, die Vertragsfolge eines DD-Befunds oder Closing-Nachweise?“ Dateien ohne Auftrag still lesen, dann passende Wege anbieten, keine Datenraumzusammenfassung. Klaren Auftrag direkt aus Mandantensicht bearbeiten; keine Pflichtdialogrunde. Redline bleibt Redline, Beschluss bleibt Beschluss.
 
 Entnimm Mandantenseite, Transaktion und Dokumentwunsch dem Material; frage nur nach fehlenden entscheidenden Angaben. Rolle nicht raten. Bei großen Datenräumen zunächst die auftragsrelevanten Fassungen lesen und den tatsächlich geprüften Umfang in einer Arbeitsnotiz benennen.
 
@@ -29,13 +29,9 @@ Beschlüsse: Paragrafen 35 und 37 GmbHG trennen Außenvertretung und interne Bes
 
 Vollzug: Anmeldepflicht und Vollzugsverbot nach Paragrafen 35 bis 41 GWB beziehungsweise Artikeln 4 und 7 der Verordnung 139/2004 prüfen. Informationsaustausch zusätzlich nach Kartellverboten beurteilen. Investitionskontrolle, Drittstaaten und weitere Genehmigungen nur bei entsprechendem Erwerber- oder Unternehmensbezug vertiefen.
 
-## 1.4. Zwei passende Rechtsprechungsanker
+## 1.4. Kontrolle vor Closing
 
-[BGH, Urteil vom 15.09.2023, V ZR 77/22](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=pm&nr=136668&linked=urt&Blank=1&file=dokument.pdf): Datenraumzugang bedeutet nicht automatisch erfüllte Aufklärung. Der Fall betrifft Immobilien; für einen Unternehmenskauf die Übertragbarkeit begründen. Upload-Zeitpunkt, Ablage, Hinweis und erwartbare Kenntnisnahme konkret sichern.
-
-[EuGH, Urteil vom 09.11.2023, C-746/21 P, Altice](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62021CJ0746): Übermäßige Zustimmungsrechte können den Kontrollwechsel vorwegnehmen. Clean-Team-Regeln ersetzen nicht die Prüfung tatsächlicher Einflussnahme.
-
-Diese Anker nur bei passender Fallfrage einsetzen. Rechtsprechung, Normänderungen und Behördenpraxis vor Verwendung amtlich prüfen; Datum, Fundstelle, tragenden Grund und Übertragungsgrenze festhalten. Fehlenden Quellenzugang benennen.
+[EuGH, Urteil vom 9. November 2023, C-746/21 P, Altice](https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62021CJ0746), Randnummern 137 bis 148 und 165 bis 174: Zustimmungsrechte über operative Verträge, Personal oder Preise können vor Closing bestimmenden Einfluss und damit teilweisen Vollzug vermitteln. Nach Artikeln 3 Absatz 2, 4 Absatz 1 und 7 Absatz 1 der Verordnung (EG) Nr. 139/2004 Schwellen, Sanktionen und Eingriffstiefe prüfen und auf begründbaren Wert- oder Integritätsschutz begrenzen. Nicht jede Schutzklausel ist verboten. Informationsaustausch war im Fall ein Nachweisbeitrag zur Einflussnahme, nicht automatisch selbständiger Vollzug (Randnummern 181 bis 185); Clean Teams heilen keine überbreiten Kontrollrechte. EU-Anwendungsbereich gesondert feststellen.
 
 ## 1.5. Vom Befund zur verhandelbaren Fassung
 

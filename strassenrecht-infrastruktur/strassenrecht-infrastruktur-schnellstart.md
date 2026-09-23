@@ -1,8 +1,8 @@
 # 1. Straßenrecht und Infrastruktur: Schnellstart
 
-Prüfe Widmung, Straßenbaulast, Sondernutzung, Zufahrt oder Bauvorhaben am konkreten Straßenabschnitt. Verfasse die bestellte Einwendung, den Erlaubnisentwurf oder Kostenvermerk.
+Kläre, ob die Arbeitsbühne, Zufahrt oder Leitungsanlage auf dem betroffenen Straßenabschnitt zugelassen werden kann, wer beteiligt werden muss und wer die dadurch entstehenden Kosten trägt. Bei einem Straßenbauvorhaben formuliere die beauftragten Einwendungen aus der konkreten Grundstücks- oder Betriebsbetroffenheit.
 
-Lies Widmungsakt, Karte, Register, Antrag und Bescheid zuerst. Übernimm bereits geklärte Angaben zu Abschnitt, Rolle und Auftrag.
+Ohne Eingabe frage: „Geht es um einen Flächennutzungsantrag, Einwendungen gegen einen Straßenbauplan oder eine Kreuzungs-/Folgekostenvereinbarung?“ Bei Dateien ohne Auftrag lies Widmung, Plan und Bescheid still; biete nur die zwei oder drei daraus passenden Wege an, wenn das Ziel offen bleibt. Keine große Materialübersicht. Bei klarem Auftrag direkt schreiben und nur entscheidende Lücken klären. Bekannte Angaben zu Abschnitt, Rolle und Auftrag übernehmen; zusätzliche Plugin-Dateien sind nicht erforderlich.
 
 ## 1.1. Straße und zuständige Stelle
 
@@ -14,9 +14,13 @@ Trenne Straßenrecht von Verkehrsregelung nach StVO. Baulast, straßenrechtliche
 
 Ordne Verkehrszweck, Anliegerinteresse, gewerbliche Nutzung, bauliche Veränderung und Leitungsverlegung. Für Bundesfernstraßen Paragraf 8 FStrG zur Sondernutzung prüfen, bei Landes- oder Gemeindestraßen die einschlägige Landesnorm und Satzung. Keine bundesrechtliche Erlaubnisregel ungeprüft auf jede Gemeindestraße übertragen.
 
-Paragraf 8 FStrG trennt Sondernutzung vom Gemeingebrauch und enthält besondere Vorgaben zur Erlaubnis sowie zur Verbindung mit straßenverkehrsrechtlichen Entscheidungen. Prüfe die konkrete Koordination, statt zwingend zwei isolierte Genehmigungen zu verlangen. Quelle: https://www.gesetze-im-internet.de/fstrg/__8.html
+In Ortsdurchfahrten ist nach Paragraf 8 Absatz 1 FStrG grundsätzlich die Gemeinde Erlaubnisbehörde; trägt sie die Baulast nicht, benötigt sie die Zustimmung der Straßenbaubehörde. Bei objektiv erforderlicher Verkehrserlaubnis oder Ausnahme entfällt nach Absatz 6 die zusätzliche Sondernutzungserlaubnis, nicht die Beteiligung oder Gebühr. Quelle: [Paragraf 8 FStrG](https://www.gesetze-im-internet.de/fstrg/__8.html).
+
+BVerwG, Urteil vom 11. Dezember 2014, 3 C 6.13, Rn. 13–19 ([Volltext](https://ssl.bverwg.de/111214U3C6.13.0)), verdeutlicht dies am Bauzaun: Für die Konzentration reicht die erforderliche Ausnahme; ihre vorherige Erteilung ist nicht nötig. Sondernutzungsgebühren bleiben möglich. Der Fall betrifft Paragraf 19 NStrG; für die Bundesstraße die Zuständigkeit aus Paragraf 8 Absatz 6 FStrG selbst ableiten, nicht Landesrecht übertragen.
 
 Bestimme Umfang, Fläche, Dauer, verbleibenden Verkehrsraum, Sicherheitsbelange und Rückbau. Eine Gebühr ist nicht automatisch die gesamte Kostenfolge. Erlaubnis, Folgekosten, Unterhaltung und Haftung jeweils zuordnen.
+
+Bei unterbrochener Zufahrt zu einer Bundesstraße Paragraf 8a Absatz 4 FStrG für dauerhafte Änderung von Absatz 5 für länger dauernde Straßenarbeiten unterscheiden. Anderweitige ausreichende Anbindung und widerrufliche Erlaubnis prüfen. Vorübergehender Umsatzverlust allein erfüllt nicht die Existenzgefährdung des Absatzes 5; Behelfsmaßnahmen, Anpassungsmöglichkeiten und betriebliche Zahlen auswerten.
 
 ## 1.3. Planung und Rechtsschutz
 
@@ -34,6 +38,8 @@ Fehlt die Zuordnung eines Flurstücks zur Widmung, frage nach Widmungsplan oder 
 
 Neue entscheidende Widersprüche gezielt klären, ohne bekannte Angaben erneut aufzunehmen. Bis dahin tragfähige Teile vorläufig liefern und nach Antwort bis zur Endfassung fortsetzen. Ein vollständiger Plansatz belegt nicht die Rechtmäßigkeit des Vorhabens; kein ungefragter Eilantrag statt einer Beratung.
 
+Beispiel: „Die Zufahrt fällt dauerhaft weg, nicht nur während der Bauzeit“ ändert die Prüfung nach Paragraf 8a FStrG und das Schreiben: angemessenen Ersatz konkretisieren, ausreichende andere Verbindung und Widerrufsvorbehalt prüfen; nicht unverändert Betriebsausfall wegen Bauarbeiten verlangen. „Das neue Aufmaß enthält alte Unterhaltung“ führt zur Trennung der Kostenmassen und Korrektur der Zahlungsklausel, nicht nur zu einer neuen Gesamtsumme. Der Antrag nennt Fläche, Planfassung, Zeitraum und gewünschte Entscheidung; die Kostenvereinbarung zusätzlich Zurechnung, Nachweis und Abrechnung. Offene Genehmigungen nicht als erteilt formulieren.
+
 Verwende den gewünschten Dateinamen. Amtliche Bundes- und Landesnormen sowie Satzungen in der maßgeblichen Fassung prüfen; Rechtsprechung nur mit verifiziertem Gericht, Datum, Aktenzeichen und Fundstelle verwenden. Quellenstatus und technische Lücken getrennt vom Empfängertext notieren.
 
-Vollständige Sätze, dezimale Gliederung und Exporthinweis Times New Roman 11 pt. Weitere Werkstatt- oder Skilltexte sind optional. Folgeaufträge am bestätigten Straßenstatus fortführen, neue Pläne und Bescheide jedoch erneut abgleichen.
+Vollständige Sätze, dezimale Gliederung und Exporthinweis Times New Roman 11 pt. Ohne Dateizugriff gezielt Auszüge anfordern, ohne Export fertigen Text liefern. Weitere Werkstatt- oder Skilltexte sind optional. Folgeaufträge am bestätigten Straßenstatus fortführen, neue Pläne und Bescheide jedoch erneut abgleichen.

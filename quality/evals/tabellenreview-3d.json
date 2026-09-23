@@ -1,29 +1,125 @@
 {
   "schema_version": 1,
   "plugin": "tabellenreview-3d",
-  "reviewed_on": "2026-09-17",
-  "sources": [],
+  "reviewed_on": "2026-09-23",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__253.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlichen Normtext zu Absatz 2 Nummer 2 erneut gelesen: bestimmte Angabe von Gegenstand und Grund des Anspruchs sowie bestimmter Antrag; Arbeitsweg verknüpft Behauptung, Zeilen-ID und Fundstelle. Keine neue Sachentscheidung oder gesetzliche Pflicht zu einem Tabellenformat abgeleitet."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__253.html",
+      "checked_on": "2026-09-22",
+      "supports": "Amtlichen Text zu Paragraf 253 Absatz 2 Nummer 2 ZPO gelesen; Bezug: Vertragsbelastung und widersprechende Fachperspektiven stichtagsbezogen abgleichen. Keine vollständige neue Verifikation sämtlicher weiterer Normen des Plugins."
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=Aktuell&Gericht=bgh&Sort=12288&anz=992&nr=143841&pos=27",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Beschluss vom 02.12.2025, II ZR 134/24: Konkrete Bezugnahme auf bereits vorgelegte Schriftsatzseiten durfte nicht übergangen werden; nachvollziehbare Zeilenbezüge als ausdrücklich gekennzeichnete Übertragung für gerichtlichen Tabellenexport. Amtliche Metadaten und entscheidende Rn. 17 bis 20 im indizierten Primär-PDF gelesen; direkter Abruf 403. Kein Tabellenformaturteil, kein Wahrheitsbeweis und kein automatischer Prozessauftrag."
+    }
+  ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Die drei Prüfachsen und zeitanteilige Berechnung sind konkret; nach fehlenden Anlagen fehlte die ausdrückliche Aktualisierung abhängiger Zellen bis zur fertigen Auswertung.",
-    "changes": ["Nachforderung mit Neuberechnung abhängiger Zellen und Summen verbunden", "Pflichtpaket durch auftragsbezogene Tabelle oder Bericht ersetzt", "Nutzerdateiname und getrennte Begleitnotiz klargestellt"],
-    "sha256": "5306997b2561fc4baa83d866f650d91937989aef7c18aadce4eb232dbc1b849c"
-  },
-  "workshop_review": {"verdict":"revised","reason":"Ganztextprüfung zeigte doppelte Produktionsabschnitte und automatische Prozessentwürfe statt eines dreiachsigen Tabellenreviews.","changes":["Ablauf nach Bestand, Prüfachsen, Zellbelegen und Kreuzblattabgleich neu gegliedert","Due Diligence, Bauunterlagen, Vendor-Onboarding und Forderungstabellen sachlich unterschieden","Exportkontrolle und Aktualisierung nach neuen Nachträgen integriert"],"sha256":"53705871799355fd79137b0410601a41f74b1744a1bc0ffa486c2e5c4f8bfd0e"},
-  "selection": {
-    "positive": ["Baue für unsere Lieferverträge einen Prüfwürfel mit Rechts-, Steuer- und Einkaufsperspektive.", "Gleiche wiederkehrende Vergütungen über Vertragszeilen und mehrere Prüfblätter mit Quellenbezug ab."],
-    "negative": ["Formatiere die Überschriften eines einzelnen Schriftsatzes.", "Entscheide die steuerliche Abzugsfähigkeit einer einzelnen Betriebsausgabe ohne Tabellenreview."]
-  },
-  "cases": [{
-    "id": "nachtrag-jahreswert-kreuzblatt",
-    "request": "Erstelle in ergebnis.md ein dreidimensionales Prüfschema und eine ausgefüllte Vorschau für Recht, Steuer und Einkauf. Dokument V1, Vertrag vom 2. Januar 2026, Seite 2: Leistung an die A-GmbH für 1.200 Euro netto monatlich ab Januar. Dokument N1, unterzeichneter Nachtrag vom 20. Juni 2026, Seite 1: ab 1. Juli 1.350 Euro netto monatlich; übrige Bedingungen unverändert. Dokument E1, Einkaufsliste vom 1. September, Zelle D4: Kalenderjahresbelastung 2026 netto 16.200 Euro für denselben Vertrag. Zu Umsatzsteuer und Kündigung liegen keine Angaben vor. Prüfstichtag ist 14. September 2026. Die Dokumentinhalte sind hier vollständig wiedergegeben; weitere Dateien gibt es nicht. Zeige Belege und notwendige Nachforderungen, ohne zusätzliche Daten zu erfinden.",
-    "input_files": [],
-    "deliverables": ["ergebnis.md"],
-    "criteria": [
-      {"id": "C01", "text": "Das Schema trennt Fragen, Dokumente und Perspektiven als drei identifizierbare Achsen und ermöglicht dieselbe Vertragsposition blattübergreifend nachzuverfolgen.", "deliverables": ["ergebnis.md"]},
-      {"id": "C02", "text": "Der Jahreswert beträgt nachvollziehbar 15.300 Euro netto; die Einkaufsliste wird als 900 Euro höherer Widerspruch ausgewiesen, ohne den Nachtrag zusätzlich als eigenen Jahresvertrag zu zählen.", "deliverables": ["ergebnis.md"]},
-      {"id": "C03", "text": "Fehlende Kündigungs- und Steuerangaben bleiben offen; das Ergebnis erfindet weder Unkündbarkeit noch einen Steuerbetrag und verknüpft die Preiswerte mit V1 beziehungsweise N1.", "deliverables": ["ergebnis.md"]}
+    "reason": "Mini vollständig erneut gelesen: eigenständige Dokumentwahl, Nachtragsgeltung, Kündigungsfenster und getrennter Leistungs-/Zahlungsnachweis ergänzt; feste Fünf-Dokumente-Vorstufe entfernt, bestellte Vollprüfung und gerichtlicher Anker begrenzt erhalten.",
+    "changes": [
+      "Drei Einstiegsmodi und konkrete Fortsetzung von Nachtrags-, Abnahme- und Leistungsbelegen bis zu Zellen und Berichtssätzen ergänzt.",
+      "Jahreswertbeispiel konkret vorgerechnet; Prozessausgabe mit Behauptung, Zeilen-ID und Beleg verknüpft, ohne Tabellenformat als gerichtliche Pflicht oder richtiges Ergebnis auszugeben.",
+      "Konkrete Bezugnahme auf bereits vorgelegte Schriftsatzseiten durfte nicht übergangen werden; nachvollziehbare Zeilenbezüge als ausdrücklich gekennzeichnete Übertragung für gerichtlichen Tabellenexport."
     ],
-    "target_skill": "wuerfel-aufbauen"
-  }]
+    "sha256": "d423130c548478c4ec1729ffbcc647353c09050a7b862535fd4d437048741996"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Gesamte Werkstatt erneut gelesen: Preis- und Geltungsstreit, ereignisabhängige Kündigungsfenster, Beweisbehauptungen und Perspektivkonflikte mit nachweisabhängiger Änderung von Tabelle und Bericht ausgearbeitet. Kein Live-Arbeitsmappen- oder Client-Test.",
+    "changes": [
+      "Vier substantielle Arbeitswege mit getrennten Vertrags-, Abrechnungs- und Zahlungswerten, Fristauslösern sowie gezielter Wiederprüfung abhängiger Zellen ergänzt.",
+      "Vertragsbelastung und widersprechende Fachperspektiven stichtagsbezogen abgleichen.",
+      "Konkrete Bezugnahme auf bereits vorgelegte Schriftsatzseiten durfte nicht übergangen werden; nachvollziehbare Zeilenbezüge als ausdrücklich gekennzeichnete Übertragung für gerichtlichen Tabellenexport."
+    ],
+    "sha256": "3fac54787f6741565ae526fbc4f586562bff427a097a55ceaf23efbe2e3f61f3"
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Preis-/Nachtragsabgleich, Kündigungsfenster oder Belegtabelle für Prozessanlagen anbieten.",
+      "Nur Dateien: Verträge, Nachträge und Arbeitsmappe still lesen; nur bei offenem Prüfziel passende Auswertungswege anbieten.",
+      "Klarer Auftrag: Auswertung sofort im bestellten Umfang beginnen; nur entscheidende Unklarheiten zu Zeileneinheit, Stichtag oder Dokumentgeltung klären."
+    ],
+    "continuation": "Nachtrag oder Abnahmeprotokoll -> abhängige Preis-/Fristzellen und Bericht ändern; Leistungsbeleg -> Leistungsstatus prüfen, Zahlungsstatus nicht ungeprüft übernehmen.",
+    "enrichment": "Geltungsszenarien, Vertragsbelastung gegenüber Zahlungssaldo, ereignisbezogene Kündigungsfenster, Bestreiten und Behauptungsbezug sowie Perspektivabgleich mit vollständigem Bericht.",
+    "limits": "desk review; no live client execution"
+  },
+  "selection": {
+    "positive": [
+      "Baue für unsere Lieferverträge einen Prüfwürfel mit Rechts-, Steuer- und Einkaufsperspektive.",
+      "Gleiche wiederkehrende Vergütungen über Vertragszeilen und mehrere Prüfblätter mit Quellenbezug ab."
+    ],
+    "negative": [
+      "Formatiere die Überschriften eines einzelnen Schriftsatzes.",
+      "Entscheide die steuerliche Abzugsfähigkeit einer einzelnen Betriebsausgabe ohne Tabellenreview."
+    ]
+  },
+  "cases": [
+    {
+      "id": "nachtrag-jahreswert-kreuzblatt",
+      "request": "Erstelle in ergebnis.md ein dreidimensionales Prüfschema und eine ausgefüllte Vorschau für Recht, Steuer und Einkauf. Dokument V1, Vertrag vom 2. Januar 2026, Seite 2: Leistung an die A-GmbH für 1.200 Euro netto monatlich ab Januar. Dokument N1, unterzeichneter Nachtrag vom 20. Juni 2026, Seite 1: ab 1. Juli 1.350 Euro netto monatlich; übrige Bedingungen unverändert. Dokument E1, Einkaufsliste vom 1. September, Zelle D4: Kalenderjahresbelastung 2026 netto 16.200 Euro für denselben Vertrag. Zu Umsatzsteuer und Kündigung liegen keine Angaben vor. Prüfstichtag ist 14. September 2026. Die Dokumentinhalte sind hier vollständig wiedergegeben; weitere Dateien gibt es nicht. Zeige Belege und notwendige Nachforderungen, ohne zusätzliche Daten zu erfinden.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Das Schema trennt Fragen, Dokumente und Perspektiven als drei identifizierbare Achsen und ermöglicht dieselbe Vertragsposition blattübergreifend nachzuverfolgen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Der Jahreswert beträgt nachvollziehbar 15.300 Euro netto; die Einkaufsliste wird als 900 Euro höherer Widerspruch ausgewiesen, ohne den Nachtrag zusätzlich als eigenen Jahresvertrag zu zählen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Fehlende Kündigungs- und Steuerangaben bleiben offen; das Ergebnis erfindet weder Unkündbarkeit noch einen Steuerbetrag und verknüpft die Preiswerte mit V1 beziehungsweise N1.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "wuerfel-aufbauen"
+    }
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "tabellenreview-3d/README.md",
+      "tabellenreview-3d/tabellenreview-3d-werkstatt.md",
+      "tabellenreview-3d/tabellenreview-3d-schnellstart.md",
+      "quality/evals/tabellenreview-3d.json"
+    ],
+    "opening_change": "Vertragsbelastung und widersprechende Fachperspektiven stichtagsbezogen abgleichen",
+    "norms": [
+      "Paragraf 253 Absatz 2 Nummer 2 ZPO",
+      "Artikel 103 Absatz 1 GG"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Beschluss vom 02.12.2025, II ZR 134/24",
+        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=Aktuell&Gericht=bgh&Sort=12288&anz=992&nr=143841&pos=27",
+        "application": "Konkrete Bezugnahme auf bereits vorgelegte Schriftsatzseiten durfte nicht übergangen werden; nachvollziehbare Zeilenbezüge als ausdrücklich gekennzeichnete Übertragung für gerichtlichen Tabellenexport.",
+        "limit": "Amtliche Metadaten und entscheidende Rn. 17 bis 20 im indizierten Primär-PDF gelesen; direkter Abruf 403. Kein Tabellenformaturteil, kein Wahrheitsbeweis und kein automatischer Prozessauftrag."
+      }
+    ],
+    "remaining_limits": [
+      "Amtliche Metadaten und entscheidende Rn. 17 bis 20 im indizierten Primär-PDF gelesen; direkter Abruf 403. Kein Tabellenformaturteil, kein Wahrheitsbeweis und kein automatischer Prozessauftrag.",
+      "Keine Live-Arbeitsmappe und kein umfassendes Audit des Steuer- oder Vertragsrechts; Rechtsstreitbezug nur bei tatsächlich bestellter Prozessausgabe.",
+      "Individuelle redaktionelle Akten- und Quellenprüfung (desk review), kein Live-Client- oder Modelltest."
+    ]
+  }
 }

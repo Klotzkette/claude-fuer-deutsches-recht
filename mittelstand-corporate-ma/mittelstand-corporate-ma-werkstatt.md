@@ -1,6 +1,10 @@
 # 1. Mittelstandstransaktion vorbereiten und vollziehen
 
-Bearbeite den beauftragten Unternehmenskauf oder die Beteiligungs- und Finanzierungstransaktion anhand der aktuellen Unterlagen. Führe die Prüfung bis zur verlangten Vertragsfassung, Gremienvorlage oder Vollzugsdokumentation fort.
+Kläre beim Verkauf des mittelständischen Unternehmens, welche Anteile oder Betriebsgrundlagen übergehen, welche Verbindlichkeiten den Kaufpreis mindern und wessen Zustimmung vor Vollzug vorliegen muss. Gleiche insbesondere Familiengesellschafter, Geschäftsführung, Beirat und Hausbank nach ihren tatsächlichen Befugnissen ab. Arbeite aus den aktuellen Unterlagen bis zur beauftragten Vertragsfassung, Gremienvorlage oder Vollzugsdokumentation.
+
+Ohne Eingabe biete kurz drei Wege an: „Möchten Sie Datenraumbefunde in Vertragsklauseln umsetzen, den Kaufpreis prüfen oder den Vollzug vorbereiten?“ Dateien ohne Auftrag zunächst still lesen und danach nur das gewünschte Ergebnis klären. Bei klarem Auftrag direkt arbeiten; lediglich entscheidende Lücken in Kaufgegenstand, Mechanismus oder Nachweis erfragen. Keine Datenraumzusammenfassung oder allgemeine Transaktionscheckliste als Pflichtauftakt.
+
+Folgeantworten ändern das bereits benannte Dokument am Nutzerpfad, etwa `kaufvertrag.md` oder `vollzug.md`: Eine verbindliche Bankzustimmung verändert Bedingungsstatus, verbleibende Voraussetzungen und Vollzugsempfehlung gemeinsam. Bekannte Verhandlungsentscheidungen nicht neu abfragen. Ohne Dateizugriff den vollständigen Ersatztext liefern; keine Speicherung, Datenraumprüfung oder bestimmte Werkzeugausstattung voraussetzen und keine künstlichen Pflichtgesprächsrunden einbauen.
 
 ## 1.1. Struktur und Mandatsseite
 
@@ -10,6 +14,8 @@ Unterscheide Anteilskauf, Vermögenskauf, Beteiligung, Wandeldarlehen, Umwandlun
 
 Prüfe Mandant, Erwerber, Zielgesellschaft, Finanzierer und wirtschaftlich Berechtigte, soweit Konflikt-, GwG- oder Sanktionsprüfung erforderlich sind. Eigentums- und Kontrollkette, Mittelherkunft, PEP- oder Sanktionsbezug müssen belegt sein. Offene Identitäts- oder Trefferfragen können Datenraumzugang, Geldfluss oder Vollzug hindern; sie beenden nicht automatisch die gesamte interne Entwurfsarbeit.
 
+Prüfe bei familiengeprägten Betrieben, ob die wirtschaftlich benötigten Grundlagen tatsächlich der Zielgesellschaft gehören. Betriebsgrundstück, Marke, Gesellschafterdarlehen oder private Bürgschaft können außerhalb des verkauften Anteilsbestands liegen. Ordne jeden solchen Befund dem vorhandenen Miet-, Lizenz-, Darlehens- oder Sicherheitenvertrag zu. Frage gezielt, ob der Gegenstand mitübertragen, abgelöst oder weiter zur Nutzung überlassen werden soll, und passe die betroffene Vertragsanlage an. Die familiäre Verbundenheit ersetzt keinen belegten Nutzungsumfang und keine Zustimmung eines rechtlich selbständigen Eigentümers.
+
 ## 1.2. Vertretung, Register und Beschlüsse
 
 Gleiche Registerauszug, Gesellschafterliste, Satzung, Geschäftsführungs- und Vertretungsstand, Vollmachten und Beschlussbuch ab. Ein fehlender Registereintrag und ein fehlender wirksamer Beschluss sind verschiedene Probleme. Bestimme, welches Dokument vor Unterzeichnung oder Vollzug nachzureichen oder rechtlich zu klären ist.
@@ -17,6 +23,8 @@ Gleiche Registerauszug, Gesellschafterliste, Satzung, Geschäftsführungs- und V
 Bei GmbH-Anteilen die Form von Verpflichtung und Abtretung nach Paragraf 15 GmbHG sowie einschlägige Satzungsvoraussetzungen prüfen. Ein Entwurf beweist keine Beurkundung; eine beurkundete Unterzeichnung beweist nicht den Eintritt sämtlicher Vollzugsbedingungen. Bei streitiger Berechtigung formelle Legitimation und materielle Rechtslage getrennt behandeln.
 
 Fehlt eine Zustimmung des Beirats oder der Gesellschafter, frage nach der konkreten Satzungsregel und dem Beschluss. Nach Eingang prüfe Zuständigkeit, Reichweite und Bedingungen, aktualisiere die Vollzugsliste und vervollständige die bestellte Gremienvorlage. Informelle Zustimmung der Familie, Hausbank oder Geschäftsführung nicht ohne Prüfung als rechtswirksamen Beschluss behandeln.
+
+Veräußert die GmbH ihren gesamten Betrieb oder ihr einziges wesentliches Vermögen, ist die Zustimmung nicht mit „der Geschäftsführer darf allein unterschreiben“ erledigt. BGH, Urteil vom 8. Januar 2019, II ZR 364/18, Randnummern 24 bis 47: Paragraf 179a AktG gilt nicht analog für die GmbH; intern kann dennoch ein Gesellschafterbeschluss nach Paragrafen 37 Absatz 1 und 49 Absatz 2 GmbHG erforderlich sein. Außenvertretung nach Paragraf 37 Absatz 2 und Missbrauch getrennt beurteilen. Weiß der Käufer vom fehlenden erforderlichen Beschluss oder drängt sich der Missbrauch auf, ist die Berufung auf die Vertretungsmacht gefährdet. Frage nach erkennbarer Vermögenskonzentration und Beschlusslage, nicht nur nach Unterschriftsberechtigung. Der Fall rechtfertigt keine automatische Unwirksamkeit jedes Geschäfts ohne interne Freigabe und betrifft nicht den Verkauf der Anteile durch die Gesellschafter.
 
 ## 1.3. Datenraumbefunde in Vertragstext übersetzen
 
@@ -28,6 +36,8 @@ Fehlt zu einem bekannten Steuer-, Kunden- oder Lieferantenrisiko der entscheiden
 
 Für vorvertragliche Pflichten BGB Paragrafen 311 Absatz 2 und 280 nach dem konkreten Informationsvorgang prüfen. Kaufrechtliche Grundlagen nach Paragrafen 433 und 453 BGB ersetzen nicht die Auslegung des vereinbarten Haftungssystems.
 
+Ein Befund zu einem wichtigen Kundenvertrag verlangt eine konkrete Folgeentscheidung: Wird eine Kontrollwechselzustimmung benötigt, droht eine Kündigung oder ist nur eine Informationspflicht vereinbart? Lies die Klausel mit Frist, Form und Ausnahmen. Eine positive Vertriebsprognose heilt keinen offenen Vertragsbefund. Entwickle daraus je nach Auftrag eine Nachforderung, eine Bedingung oder eine begrenzte Absicherung. Bei einer Freistellung benenne auslösendes Risiko, erfasste Kosten, Abwicklung von Drittansprüchen, Mitwirkung und Verhältnis zur allgemeinen Haftungsgrenze; lasse keinen bloßen Satz „Verkäufer stellt Käufer frei“ ohne bestimmbaren Gegenstand stehen.
+
 ## 1.4. Offenlegung und Kenntnis
 
 Lege Garantie, Wissensdefinition, benannten Kenntnisträger, Datenraumfund und Disclosure Letter nebeneinander. Prüfe, welche Offenlegung nach dem Vertrag welche Haftungswirkung auslösen soll. Eine Datei im Datenraum ist nicht allein deshalb hinreichend spezifisch offengelegt oder dem Käufer tatsächlich bekannt.
@@ -35,6 +45,8 @@ Lege Garantie, Wissensdefinition, benannten Kenntnisträger, Datenraumfund und D
 Formuliere Offenlegungen mit konkretem Sachverhalt und belastbarem Dokumentverweis. Wenn sich Datenraumantwort und Vertragsanlage widersprechen, frage nach der maßgeblichen Fassung und ändere die betroffene Anlage nach Klärung. Neue Tatsachen nicht stillschweigend in eine vermeintlich schon vereinbarte Ausnahme umwandeln.
 
 Bei Verhandlungen Zielposition und tatsächlich vertretbare Rückfallfassung mit ihrer wirtschaftlichen Wirkung darstellen. Nicht jede Klausel benötigt zwei Varianten; der Auftrag und der offene Verhandlungspunkt bestimmen den Umfang.
+
+Geht kurz vor Unterzeichnung eine neue Offenlegung ein, prüfe sie gegen die konkrete Garantie und die zuletzt verhandelte Risikoverteilung. Zeige, ob sie einen bisher unbekannten Umstand mitteilt, einen bekannten Befund präzisiert oder nur eine umfassendere Haftungsausnahme verlangt. Übernimm die Ausnahme nicht allein durch Einfügen in die Anlage als akzeptiert. Liefere die beauftragte Verhandlungsfassung mit ausformulierter Annahme, Einschränkung oder Ablehnung der Ausnahme; eine Partei muss die verbleibende wirtschaftliche Wahl treffen können.
 
 ## 1.5. Kaufpreis und Finanzierung
 
@@ -46,6 +58,10 @@ Prüfe Finanzierungszusage, Auszahlungsvoraussetzungen, Sicherheiten und Zahlung
 
 Bei einem Wandeldarlehen Betrag, Zins, Wandlungsauslöser, Bewertung, Verwässerung und Rang aufeinander abstimmen. Eine offene Bewertung oder Finanzierungsrunde verlangt die konkrete wirtschaftliche Entscheidung, nicht eine frei erfundene Standardzahl.
 
+Bei einem Earn-out, also einem erfolgsabhängigen Kaufpreisanteil, bestimme Kennzahl, Messzeitraum, Rechnungslegungsregeln und Umgang mit Sondereffekten. Soll etwa der operative Gewinn maßgeblich sein, kläre die Behandlung von Gesellschaftervergütung, Integrationskosten und konzerninternen Leistungen; keine Branchenformel als vereinbart unterstellen. Formuliere Informations- und Einsichtsrechte, Erstellung der Abrechnung, Einwendungen und Streitlösung passend dazu. Eine spätere Antwort zur Bereinigung einer Position muss sowohl Definition als auch Beispielrechnung verändern. Rechne mindestens den tatsächlich streitigen Grenzfall nach und verhindere, dass dieselbe Größe zugleich Kaufpreisanpassung und Earn-out mindert, sofern dies nicht bewusst vereinbart ist.
+
+Bei Ablösung der Hausbankfinanzierung unterscheide Darlehenssaldo, Ablösebetrag am Vollzugstag, Zahlungsempfänger und Sicherheitenfreigabe. Eine Saldenbestätigung belegt nicht automatisch, unter welchen Bedingungen eine Bürgschaft eines ausscheidenden Familiengesellschafters endet. Stimme den Zahlungsablauf und die dazu vorliegenden Erklärungen ab; kennzeichne offene Ablösezinsen oder Freigabebedingungen im Entwurf. Nimm ungesicherte Bankdaten nicht aus einer beiläufigen E-Mail in eine endgültige Zahlungsanweisung auf.
+
 ## 1.6. Unterzeichnung und Vollzug
 
 Für jede relevante Vollzugsbedingung Wortlaut, verantwortliche Partei, Nachweis, Termin und vertragliche Verzichtsbefugnis bestimmen. Gremienfreigabe, Drittzustimmung, behördliche Freigabe, Finanzierung und Zahlung getrennt abgleichen. „Erledigt“ in einer Liste ersetzt nicht das erforderliche Dokument.
@@ -55,6 +71,10 @@ Bei ungeklärter Bank- oder Vermieterzustimmung frage nach dem unterzeichneten N
 Fusionskontrolle nach GWB Paragrafen 35 ff. und Investitionsprüfung nach AWV Paragrafen 55 ff. nur bei konkretem Anwendungsbezug amtlich prüfen. Ein vertraglicher Verzicht beseitigt kein zwingendes Vollzugshindernis. Umsetzungsmaßnahmen bis zur nötigen Freigabe nicht als zulässig bestätigen.
 
 Bei Fristablauf die vereinbarte Rechtsfolge ermitteln: Verlängerung, Verzicht, Rücktritt oder eine andere Regelung nicht erfinden. Unterzeichnung, Bedingungseintritt, Abtretung, Zahlung und Registervollzug in der tatsächlichen Reihenfolge abbilden. Der Ablaufplan dient der Koordination und ersetzt keinen Erfüllungsnachweis.
+
+Bei der Nachricht „Wir prüfen positiv“ bleibt die Zustimmung offen. Prüfe eine später eingegangene Zustimmung auf Zielgesellschaft, Transaktion, Laufzeit und etwaige Bedingungen; eine Freigabe für eine andere Erwerbergesellschaft erfüllt die vertragliche Bedingung nicht ohne weitere Prüfung. Behauptet der Verkäufer einen Verzicht, gleiche Partei, Form und Reichweite mit der vereinbarten Verzichtsbefugnis ab. Einseitige Erklärung und beiderseitig vereinbarter Verzicht sind unterschiedliche Nachweise. Ändere den Status nur für die tatsächlich erfüllte Bedingung; ein belegter Kaufpreiseingang darf nicht sämtliche anderen Punkte auf erledigt setzen.
+
+Die Vollzugsvorlage enthält die noch ausstehende Handlung mit Verantwortlichem und den konkret erforderlichen Beleg. Sie darf als Dokument fertig sein, obwohl der Vollzug noch nicht freigegeben werden kann. Formuliere dann die begrenzte Entscheidung, beispielsweise dass der Geldeingang belegt, die vereinbarte Bankzustimmung jedoch offen ist. Eine Vollzugsbestätigung darf nur die nachgewiesenen Vorgänge bestätigen; offene Anlagen oder künftige Zahlungen gehören nicht in eine rückdatierte Erledigungserklärung.
 
 ## 1.7. Personal, Integration und Beirat
 
@@ -74,14 +94,9 @@ Zahlungsunfähigkeit, drohende Zahlungsunfähigkeit und Überschuldung nach Para
 
 Wenn Finanzierung oder Stundung fehlt, frage nach der konkreten Zusage, rechne nach Eingang neu und passe die bestellte Entscheidungsvorlage an. Restrukturierungsplan nach StaRUG oder Insolvenzplan nach Paragrafen 217 bis 269 InsO nur bei entsprechendem Auftrag und nach Prüfung von Voraussetzungen, Gläubigergruppen und Verfahren ausarbeiten. Distressed M&A, Planverfahren und Fortbestehensprognose nicht austauschbar behandeln.
 
-## 1.9. Rechtsprechung gezielt verwenden
+## 1.9. Entscheidung und Quelle abgleichen
 
-Formuliere aus dem konkreten Vertrag oder Beschluss eine enge Rechtsfrage. Prüfe Gesetz und amtliche Entscheidung nach Gericht, Datum, Aktenzeichen, Verfahrenslage und tragender Passage; erst danach auf Gesellschaft, Vertragsinhalt und Vollzugsstand übertragen. Die folgenden bestehenden Anker sind Rechercheansätze, keine bereits verifizierten Aussagen für jeden Erwerb:
-
-- BGH, Urteil vom 29.01.2001, II ZR 331/00: Rechts- und Parteifähigkeit der Außen-GbR; bei heutigen Fällen die gesetzliche Neuregelung durch das MoPeG berücksichtigen.
-- BGH, Urteil vom 21.04.1997, II ZR 175/95, ARAG/Garmenbeck: Prüfung und Verfolgung möglicher Ersatzansprüche gegen Vorstandsmitglieder; kein Universalmaßstab für jede Käuferentscheidung.
-- BGH, Urteil vom 16.07.2007, II ZR 3/04, Trihotel: existenzvernichtender Eingriff und Innenhaftung; Bezug zur konkreten Vermögensentziehung prüfen.
-- BGH, Urteil vom 20.11.2018, II ZR 12/17: formelle Legitimationswirkung der Gesellschafterliste im Zusammenhang mit eingezogenen Anteilen; materielle Berechtigung gesondert halten.
+Für den Gesamtvermögensverkauf unter 1.2 den [amtlichen Volltext des BGH, Urteil vom 8. Januar 2019, II ZR 364/18](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2018/II_ZR_364-18.pdf?__blob=publicationFile&v=1) heranziehen. Zustimmungskompetenz, Käuferkenntnis und wirtschaftliche Bedeutung sind eigenständige Tatsachenfragen. Für andere Konflikte eine enge Rechtsfrage aus dem Vertrag ableiten und passende aktuelle Normen sowie amtliche Entscheidungen prüfen; nicht bloß allgemeine gesellschaftsrechtliche Aktenzeichen anhängen.
 
 ## 1.10. Angeforderte Fassung abschließen
 

@@ -1,30 +1,59 @@
 {
   "schema_version": 1,
   "plugin": "richter-arbeitsgericht",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/arbgg/__54.html",
       "checked_on": "2026-09-14",
       "supports": "Güteverhandlung vor dem Vorsitzenden, Erörterung des Streitverhältnisses und Ausschluss eidlicher Vernehmungen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__130.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aktueller amtlicher Normtext zur Prüfung: Paragraf 130 BGB; Paragraf 4 KSchG; Paragraf 46 Absatz 2 ArbGG; Paragraf 139 ZPO. Keine Gesamtverifikation sämtlicher Nebenmaterien."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-68-24/",
+      "checked_on": "2026-09-22",
+      "supports": "BAG, Urteil vom 30.01.2025, 2 AZR 68/24: Fehlender Auslieferungsbeleg begrenzt Anscheinsbeweis des Einwurfs; Parteivortrag, angebotene Zeugen und andere Beweismittel neutral aufklären. Grenze/Prüftiefe: Volltext Rn. 10 bis 20; kein vorweggenommener Beweiswert eines noch nicht vernommenen Zeugen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/arbgg/__54.html",
+      "checked_on": "2026-09-23",
+      "supports": "Zugangsvarianten, Güte versus Beweisaufnahme, Vergleichsinhalt und Monatsentgelt getrennt ausgearbeitet. Prüftiefe: Güte- und Klagefristnorm erneut gelesen; keine tatsächliche Vernehmung oder neue Vollprüfung aller Entgeltmaterien."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/kschg/__4.html",
+      "checked_on": "2026-09-23",
+      "supports": "Zugangsvarianten, Güte versus Beweisaufnahme, Vergleichsinhalt und Monatsentgelt getrennt ausgearbeitet. Prüftiefe: Güte- und Klagefristnorm erneut gelesen; keine tatsächliche Vernehmung oder neue Vollprüfung aller Entgeltmaterien."
     }
   ],
   "mini_review": {
-    "verdict": "retained",
-    "reason": "Mini vollständig gelesen. Neutrale Gerichtsrolle, Kündigungszugang und Zahlungszuordnung werden konkret bearbeitet; ergänzender Vortrag führt zur aktualisierten Frist, Rechnung oder Beweisfrage. Entscheidungsreife und bloße Aktenvollständigkeit bleiben getrennt. Keine neue Quellenverifikation oder Modellprüfung.",
+    "verdict": "revised",
+    "reason": "Kurzprompt individuell auf Einstieg, fachliche Fortsetzung und vollständiges Arbeitsprodukt geprüft. Zugangsvarianten, Güte versus Beweisaufnahme, Vergleichsinhalt und Monatsentgelt getrennt ausgearbeitet.",
     "changes": [
-      "Gerichtliche Hinweise und Fortsetzung zum bestellten Entwurf ohne Rollenwechsel beibehalten."
+      "Neutraler Hinweis bei streitigem Kündigungszugang statt fingierter Beweisaufnahme; pauschale Rechtsprechungsliste durch konkrete Beweisfrage ersetzt.",
+      "Kernfall mit operativem Entscheidungsanker, gezielten Nachfragen und Fortsetzung zum vollständigen angeforderten Dokument.",
+      "Botenvernehmung -> Zugangs- und Fristwürdigung aktualisieren; Monatszahlung -> Rechnung und Zinsen ändern.",
+      "Zugangsvarianten, Güte versus Beweisaufnahme, Vergleichsinhalt und Monatsentgelt getrennt ausgearbeitet."
     ],
-    "sha256": "3f89b2ac7f7acc8af581c6b3ff35a95421c6f3596326dc75538d6131f1842fb7"
+    "sha256": "8bbe18f3b51baf0f24345b54a1a303c5b34888169d30072e16889527edf39dce",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
   },
   "workshop_review": {
-    "verdict": "retained",
-    "reason": "Werkstatt vollständig gelesen. Bereits überarbeiteter Ablauf trennt Urteils- und Beschlussverfahren, Kündigung, Monatsforderungen und Tariffragen. Fehlendes Parteivorbringen führt zum neutralen Hinweisentwurf, dokumentierte Klärung zur Fortsetzung; keine fingierte Beweisaufnahme oder Entscheidung.",
+    "verdict": "revised",
+    "reason": "Werkstatt individuell auf Einstieg, fachliche Fortsetzung und vollständiges Arbeitsprodukt geprüft. Zugangsvarianten, Güte versus Beweisaufnahme, Vergleichsinhalt und Monatsentgelt getrennt ausgearbeitet.",
     "changes": [
-      "Keine weitere Textänderung nötig; auftragsbezogene Ausgabe und Prüfung der Entscheidungsreife erhalten.",
-      "Bestehende Entscheidungsanker und zeitliche Einordnung unverändert, ohne neue Verifikation zu behaupten."
+      "Neutraler Hinweis bei streitigem Kündigungszugang statt fingierter Beweisaufnahme; pauschale Rechtsprechungsliste durch konkrete Beweisfrage ersetzt.",
+      "Vorhandene Fachzweige, Beispiele und Zugriffsalternativen erhalten; schwache Rechtsprechungshinweise entfernt oder auf belegte Reichweite begrenzt.",
+      "Botenvernehmung -> Zugangs- und Fristwürdigung aktualisieren; Monatszahlung -> Rechnung und Zinsen ändern.",
+      "Zugangsvarianten, Güte versus Beweisaufnahme, Vergleichsinhalt und Monatsentgelt getrennt ausgearbeitet."
     ],
-    "sha256": "a35515c33d7647f6e8dcb63b3f29f2dabfd758e62aefd66aeb6b281878b618fe"
+    "sha256": "a87cc60cbf2076ccf46b5dd9f9f96eeec52ba8ecb8fe57c5379ba26ebc384c75",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
   },
   "selection": {
     "positive": [
@@ -69,5 +98,46 @@
       ],
       "target_skill": "02-kuendigungsschutzklage-pruefen"
     }
-  ]
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "gerichtsplugins/richter-arbeitsgericht/README.md",
+      "gerichtsplugins/richter-arbeitsgericht/richter-arbeitsgericht-schnellstart.md",
+      "gerichtsplugins/richter-arbeitsgericht/richter-arbeitsgericht-werkstatt.md",
+      "quality/evals/richter-arbeitsgericht.json"
+    ],
+    "opening_change": "Anträge, Gegenbehauptungen und Entscheidungsreife aus der Prozessakte herausarbeiten",
+    "norms": [
+      "Paragraf 130 BGB",
+      "Paragraf 4 KSchG",
+      "Paragraf 46 Absatz 2 ArbGG",
+      "Paragraf 139 ZPO"
+    ],
+    "decisions": [
+      {
+        "citation": "BAG, Urteil vom 30.01.2025, 2 AZR 68/24",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-68-24/",
+        "application": "Fehlender Auslieferungsbeleg begrenzt Anscheinsbeweis des Einwurfs; Parteivortrag, angebotene Zeugen und andere Beweismittel neutral aufklären.",
+        "limit": "Volltext Rn. 10 bis 20; kein vorweggenommener Beweiswert eines noch nicht vernommenen Zeugen."
+      }
+    ],
+    "remaining_limits": [
+      "Desk- und Quellenprüfung, kein Live-Client- oder Modelltest; übrige Fachzweige nicht vollständig rechtlich neu verifiziert.",
+      "Volltext Rn. 10 bis 20; kein vorweggenommener Beweiswert eines noch nicht vernommenen Zeugen.",
+      "Workflow-Vertiefung 2026-09-23: Güte- und Klagefristnorm erneut gelesen; keine tatsächliche Vernehmung oder neue Vollprüfung aller Entgeltmaterien. Desk review; kein Live-Client-Test."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Gütetermin, Hinweis/Beweis oder Urteil zu Kündigung/Entgelt anbieten.",
+      "Anträge und Personalunterlagen still lesen, keine ungefragte Vorbereitung.",
+      "Bestellten Termins- oder Entscheidungsentwurf ohne neues Interview liefern."
+    ],
+    "continuation": "Botenvernehmung -> Zugangs- und Fristwürdigung aktualisieren; Monatszahlung -> Rechnung und Zinsen ändern.",
+    "enrichment": "Zugangsvarianten, Güte versus Beweisaufnahme, Vergleichsinhalt und Monatsentgelt getrennt ausgearbeitet.",
+    "limits": "desk review; no live client execution"
+  }
 }

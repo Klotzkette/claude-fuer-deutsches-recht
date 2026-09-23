@@ -1,8 +1,10 @@
 # 1. Insolvenzverwaltung: Befugnisse, Masse und nächste Maßnahme
 
-Unterstütze die Verwaltung eines konkreten Insolvenzverfahrens aus meiner ausdrücklich angegebenen Rolle. Arbeite anhand Beschluss und Aktenstand, nicht nach einem allgemeinen Krisenmerkblatt. Dieser Prompt funktioniert ohne weitere Dateien oder installierte Skills.
+Prüfe anhand des Bestellungsbeschlusses, welche Massegegenstände gesichert, welche Forderungen eingezogen und welche Zahlungen vorbereitet werden dürfen. Gleiche dazu Konten, Eigentumsnachweise und offene Verpflichtungen ab und formuliere den beauftragten Bericht, Zahlungsvorschlag oder Brief aus der tatsächlich übertragenen Rolle. Weitere Skills sind nicht erforderlich.
 
 ## 1.1 Beschluss zuerst
+
+Ohne Eingabe biete Sicherungsmaßnahme, Zahlungsvorschlag oder Verwertungsbericht an. Dateien ohne Auftrag still lesen und zwei passende Wege anbieten. Klaren Auftrag direkt ausarbeiten. Neue Einzelermächtigung ändert nur den erfassten Befugniskreis; ein Eigentumsbeleg die bezeichnete Masseposition und Verwertungsrechnung. Bekanntes nicht erneut erfragen.
 
 Übernimm Schuldner, Gericht, Aktenzeichen, Bestellungs- oder Eröffnungszeitpunkt und Rolle aus Auftrag und Beschluss: vorläufige Verwaltung, Insolvenzverwaltung oder Sachwaltung. Lies den Tenor vollständig; halte Verfügungsverbot, Zustimmungsvorbehalt, Einziehungsbefugnisse und besondere Anordnungen getrennt fest. Bei einem Beschluss ohne erkennbaren Auftrag kläre die benötigte Maßnahme, statt vorsorglich sämtliche Übersichten auszugeben.
 
@@ -21,6 +23,8 @@ Erstelle einen Zahlungsplan mit Empfänger, Rechtsgrund, Leistungszeitraum, Fäl
 Wähle nach Auftrag Sicherung, Fortführung, Forderungsprüfung, Anfechtung, Verwertung oder Bericht. Bei Fortführung erfasse tägliche Liquidität, notwendige Lieferungen, Personal und erforderliche Zustimmungen. Bei Anfechtung ordne jede Rechtshandlung ihrem Zeitpunkt, Gegenwert und Kenntnisbeleg zu; bloße Insolvenz genügt nicht als Anspruchsbegründung. Für Bericht und Prüfungstermin gelten die konkreten gerichtlichen Angaben, keine erfundene Standardfrist von vier bis sechs Wochen.
 
 ## 1.4 Direkt nutzbarer Output
+
+Bei Fortführungs- oder Verwertungsentscheidungen beachte BGH, Urteil vom 12.03.2020, IX ZR 125/17, [Rn. 28–39](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2017/IX_ZR_125-17.pdf?__blob=publicationFile&v=1): Nach Paragraf 60 InsO sind Kosten und Risiken aus damaliger Sicht am Masseerhalt und an bestmöglicher gemeinschaftlicher Gläubigerbefriedigung zu messen. Dokumentiere Informationsstand, Finanzierung und Alternative. Paragraf 93 Absatz 1 Satz 2 AktG schafft für den Verwalter keinen entsprechenden Haftungsfreiraum. Umgekehrt beweist ein späterer Verlust allein keine Pflichtverletzung. Das Urteil betrifft unternehmerische Entscheidungen, erweitert nicht die Befugnisse eines vorläufigen Verwalters und ersetzt keine erforderliche Zustimmung.
 
 Liefere den bestellten Tagesplan, Zahlungsvorschlag, Bericht oder Brief; zusätzliche Tabellen nur für erforderliche Bestands- und Zahlungsabgleiche. Benenne bei Maßnahmen Befugnis, Beleg, Frist und zuständige Entscheidung. Entwürfe für Banken oder Drittschuldner dürfen nur tatsächlich bestehende Befugnisse behaupten.
 

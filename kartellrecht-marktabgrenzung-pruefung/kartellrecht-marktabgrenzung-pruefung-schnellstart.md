@@ -1,6 +1,10 @@
 # 1. Kartellrecht: Marktgrenzen und Anteile belastbar prüfen
 
-Prüfe die behauptete Marktabgrenzung anhand tatsächlicher Ausweichmöglichkeiten und nachvollziehbarer Daten. Erstelle das verlangte Memo, die Gegenprüfung oder Berechnung; trenne dabei Markt, Marktmacht und konkretes Verhalten.
+Bestimme, welche Ersatzprodukte die Kunden tatsächlich nutzen können und welche Umsätze in den Marktanteilsnenner gehören. Gleiche die behauptete Marktgrenze mit Kundendaten, Zulassung und Wechselaufwand ab und verfasse das verlangte Memo oder die Berechnung. Markt, Marktmacht und Verhalten getrennt beurteilen.
+
+Ohne Eingabe biete „Ersatzprodukte abgrenzen“, „Marktanteile unter Alternativen berechnen“ oder „behördliches Auskunftsverlangen beantworten“ an. Bei Dateien ohne Aufgabe lies Produkt- und Umsatzdaten still; frage nur nach dem unklaren Prüfzweck, statt Marktstudien zusammenzufassen. Bei klarem Auftrag beginne direkt mit der beauftragten Analyse oder Antwort. Ein nachgereichter Zertifizierungsnachweis ändert die Substitutionsbeurteilung, den Marktanteilsnenner und die betroffene Passage; keine neue Aufnahme. Dieser eigenständige Text verlangt keine lokalen Skills oder Analyseprogramme.
+
+Beispiel: Zur behaupteten Austauschbarkeit fehlt nur das Zulassungsdatum. Frage danach, nicht erneut nach dem gesamten Markt. Antwort „seit Juli, nur für eine Anwendung“ führt zu einer getrennten Zeit- und Kundengruppenbetrachtung und zur Änderung von Nenner und Memobegründung; sie belegt keine Austauschbarkeit im ganzen Vorjahr. Bleibt das Ergebnis unter beiden ernsthaften Grenzen gleich, begründe es ohne unnötige weitere Erhebung.
 
 ## 1.1. Sachverhalt und Prüfzweck
 
@@ -13,6 +17,8 @@ Fehlt beispielsweise der Zeitraum einer Marktstudie oder der Nachweis einer tats
 ## 1.2. Substitution belegen
 
 Prüfe aus Kundensicht Verwendungszweck, Eigenschaften, Preis, Umstellungskosten, Zulassung, Lieferzeit und tatsächlich verfügbare Alternativen. Stelle jedem vorgeschlagenen Ersatzprodukt einen konkreten Beleg für oder gegen kurzfristiges Ausweichen gegenüber. Technische Ähnlichkeit allein reicht nicht. Differenziere Kundengruppen, wenn ihre Ausweichmöglichkeiten wesentlich abweichen.
+
+EuGH, Urteil vom 14.02.1978, 27/76, United Brands, Randnummern 22 bis 35, verbindet besondere Eigenschaften mit geringer tatsächlicher Austauschbarkeit und begrenztem Wettbewerbsdruck. Bei zertifizierten Klinikfiltern deshalb Beschaffungsregeln und kurzfristige Nutzbarkeit anderer Filter prüfen; bloße Ähnlichkeit trägt den weiten Nenner nicht. Das Urteil betraf Bananen und den heutigen Artikel 102 AEUV: Es entscheidet weder den Filtermarkt noch einen festen Substitutionswert. Paragraf 18 Absatz 1 GWB und aktuelle Belege bleiben maßgeblich. [Volltext](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:61976CJ0027).
 
 Die [Bekanntmachung der Kommission C/2024/1645](https://eur-lex.europa.eu/eli/C/2024/1645/oj?locale=de), insbesondere Randnummern 25 und 26 sowie 32 und 33, verbindet Nachfrageausweichmöglichkeiten mit konkreter Evidenz und stellt gesonderte Anforderungen an Angebotssubstitution. Prüfe daher Umstellungsdauer, zusätzliche versunkene Kosten und Anreiz der Anbieter. Langfristig möglicher Marktzutritt ist nicht ohne Weiteres sofortige Angebotssubstitution. Kennzeichne die Bekanntmachung als methodische Verwaltungspraxis, nicht als Gerichtsurteil.
 

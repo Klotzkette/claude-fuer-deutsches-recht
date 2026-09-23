@@ -1,10 +1,10 @@
-# AGB-Recht prüfen und gestalten: Werkstatt
+# 1. AGB-Recht prüfen und gestalten: Werkstatt
 
-Prüfe die vereinbarten oder geplanten Geschäftsbedingungen und liefere das beauftragte Gutachten, die überarbeitete Vertragsfassung oder die begründete Antwort. Lies dafür zunächst die vorhandenen Verträge und bisherigen Absprachen.
+Prüfe, welche Preis-, Haftungs-, Leistungs- oder Kündigungsregel dem Kunden tatsächlich gestellt wurde, ob sie wirksam vereinbart ist und welches Recht nach ihrem Ausfall gilt. Lies Vertrag, Anlagen und Verhandlungsspuren und verfasse das beauftragte Klauselgutachten, die vollständige Ersatzfassung oder die begründete Antwort. Eine verständliche Klausel kann materiell unwirksam sein; eine neue Fassung ändert den Altbestand nicht von selbst.
 
 ## 1. Arbeitsauftrag aus dem Vertrag ableiten
 
-Lies die vorgelegten Vertragsfassungen, Anlagen, Bestellabläufe und Korrespondenz. Bearbeite zuerst das verlangte Produkt: Klauselprüfung, vollständige Ersatzfassung, Redline, Verhandlungsposition oder begründete Antwort. Ohne konkreten Produktwunsch beginne mit dem entscheidenden Klauselbefund, nicht mit einem allgemeinen Verbraucherrechtsüberblick.
+Lies vorgelegte Vertragsfassungen, Anlagen, Bestellabläufe und Korrespondenz zunächst still. Ohne Eingabe frage knapp: „Möchten Sie eine belastende Klausel prüfen, eine verwendbare Ersatzregel entwerfen oder auf eine AGB-Beanstandung antworten?“ Bei Dateien ohne Auftrag biete nach der Lektüre zwei oder drei tatsächlich passende Wege an, etwa Prüfung der Stornopauschale, Neufassung für künftige Bestellungen oder Antwort auf die vorliegende Abmahnung. Noch kein Klauselgutachten und keine Vertragszusammenfassung ausgeben. Bei klarem Auftrag arbeite unmittelbar zum verlangten Produkt; Rückfragen nur bei entscheidenden Lücken. Eine Folgeantwort setzt den bereits gewählten Weg fort und startet keine neue Mandatsaufnahme.
 
 Erfasse Verwender, Vertragspartner und Status, Vertragsart, Vertragsdatum, anwendbares Recht, Klauselfassung, tatsächliche Verwendung und wirtschaftliches Ziel. Trenne gesicherte Tatsachen, Parteibehauptungen und fehlende Unterlagen. Fundstellen enthalten Dokument, Datum und Seite oder Klauselnummer. Verhandlungsspuren prüfen, bevor eine Individualabrede angenommen wird.
 
@@ -98,7 +98,7 @@ Ist die Bestimmung bereits nicht Vertragsbestandteil geworden, kennzeichne eine 
 
 ### 8.3. Den richtigen Transparenzmaßstab anwenden
 
-Die wirtschaftlichen Nachteile müssen für den aufmerksamen typischen Vertragspartner erkennbar sein. Maßgeblich sind Vertragsart und Adressatenkreis; nicht stets derselbe abstrakte Leser. BGH, Urteil vom 13.11.2025, Az. III ZR 165/24, Randnummern 32 bis 35, verlangt weder Erläuterungen zu jeder denkbaren Eventualität noch stets die klarstmögliche Formulierung. Nutze den [amtlichen Beleg und die Vertiefung](skills/klauseltransparenz-pruefen/references/transparenz.md), wenn die konkrete Verständlichkeit streitig ist.
+Die wirtschaftlichen Nachteile müssen für den aufmerksamen typischen Vertragspartner erkennbar sein. Maßgeblich sind Vertragsart und Adressatenkreis. [BGH, Urteil vom 13.11.2025, III ZR 165/24](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2024/III_ZR_165-24.pdf?__blob=publicationFile&v=1), Rn. 32–36, verlangt weder die Erläuterung jeder Eventualität noch stets die klarstmögliche Formulierung. Prüfe aber den Zusammenhang: Widersprüchliche Laufzeit- und Kündigungsregeln des dortigen Vermittlungsvertrags waren gerade intransparent. Eine sprachlich verbesserbare Formulierung ist nicht automatisch unwirksam, ein wesentlicher Widerspruch nicht bloß Stil. Optional: [Transparenzprüfung](skills/klauseltransparenz-pruefen/references/transparenz.md).
 
 Bei Verweisen auf Preislisten, technische Dokumentationen oder Nutzungsregeln prüfen, ob Fassung, Zugang und Rangfolge bestimmbar sind. Trenne einen statischen Verweis auf eine benannte Anlage von der Ermächtigung, deren Inhalt künftig einseitig zu ändern. Eine lesbare und klar formulierte Änderungsermächtigung kann materiell zu weit reichen. Der Transparenzbefund muss deshalb genau bezeichnen, welche Information fehlt; das Inhaltsvotum muss erklären, welche Belastung auch bei vollständiger Information unzulässig bleibt.
 
@@ -158,7 +158,7 @@ Fehlt die Beschreibung der Mehrleistung oder ihrer Kosten, fordere diese an, bev
 
 ### 11.1. Vom Unwirksamkeitsgrund zum verbleibenden Vertrag
 
-Bezeichne exakt die unwirksame Regelung und ihren Zusammenhang mit benachbarten Bestimmungen. Eine rein sprachliche Streichung genügt nicht, wenn der Rest seinen selbständigen Sinn verliert. Umgekehrt ist nicht jede äußerlich verbundene Regel unteilbar. BGH, Urteil vom 13.03.2025, Az. III ZR 426/23, Randnummern 46 und 48 bis 53, veranschaulicht die Abtrennung selbständiger Regelungen. Die [Teilbarkeitsreferenz](skills/klauselausfall-und-vertragsluecke-pruefen/references/teilbarkeit.md) nennt die Grenzen und den amtlichen Text.
+Bezeichne exakt die unwirksame Regelung und ihren Zusammenhang mit benachbarten Bestimmungen. [BGH, Urteil vom 13.03.2025, III ZR 426/23](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2023/III_ZR_426-23.pdf?__blob=publicationFile&v=1), Rn. 46 und 50, lässt selbständige Regelungen bestehen: Die Vertreterregelung konnte aus der Wahlarztvereinbarung gestrichen werden, ohne deren übrigen Sinn zu verändern. Stelle deshalb den verbleibenden Wortlaut dar und prüfe seinen eigenständigen Inhalt. Das Urteil erlaubt keine Neufassung einer einheitlichen unwirksamen Regel und bestätigt nicht die Wirksamkeit der dort offengelassenen Vertreterklausel. Krankenhausrechtliche Besonderheiten nicht übertragen. Die [Teilbarkeitsreferenz](skills/klauselausfall-und-vertragsluecke-pruefen/references/teilbarkeit.md) bleibt optional.
 
 Ersetze nicht einen unzulässigen Betrag, Zeitraum oder Schadensausschluss durch das gerade noch zulässige Maß. Nach [Paragraf 306 BGB](https://www.gesetze-im-internet.de/bgb/__306.html) sind Vertragsfortbestand, gesetzliches Ersatzrecht und unzumutbare Härte getrennte Schritte. Eine salvatorische Klausel schafft keine eigenständige Erlaubnis zur Reparatur. Eine erst für zukünftige Verträge entworfene Ersatzklausel nicht als rückwirkend schon vereinbarte Regel des Altvertrags ausgeben.
 
@@ -166,7 +166,7 @@ Ersetze nicht einen unzulässigen Betrag, Zeitraum oder Schadensausschluss durch
 
 Ermittle zuerst, ob das dispositive Gesetzesrecht die entfallene Bestimmung ersetzt. Eine für den Verwender ungünstigere gesetzliche Verteilung begründet noch keine ergänzungsbedürftige Vertragslücke. Bei langfristigen Preis- oder Zinsmechanismen Vertragsdauer, Kündigungsmöglichkeiten, verbleibende Leistungen und wirtschaftliche Auswirkungen konkret untersuchen. Keine beliebige Indexbindung als vermeintlich sachgerechte Ersatzlösung einführen.
 
-Bei Verbraucherverträgen die unionsrechtliche Grenze aus EuGH, Urteil vom 03.10.2019, Az. C-260/18, Dziubak, Randnummern 48, 51 und 62, beachten: Allgemeine Billigkeit oder Verkehrssitte sind keine beliebige Grundlage zur Rettung missbräuchlicher Klauseln. Auswirkungen einer Gesamtnichtigkeit und tatsächliche Verbraucherinteressen müssen berücksichtigt werden. Die [Lückenfüllungsreferenz](skills/klauselausfall-und-vertragsluecke-pruefen/references/lueckenfuellung.md) erläutert die begrenzte Übertragbarkeit des Kreditfalls.
+Bei Verbraucherverträgen Artikel 6 Absatz 1 Richtlinie 93/13/EWG und [EuGH, Urteil vom 03.10.2019, C-260/18, Dziubak](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62018CJ0260), Rn. 48, 51 und 62, beachten: Allgemeine Billigkeit oder Verkehrssitte erlauben keine beliebige Rettung missbräuchlicher Klauseln. Eine Ersetzung zum Schutz vor besonders nachteiliger Gesamtnichtigkeit verlangt die dort beschriebenen Voraussetzungen und die gegenwärtigen Verbraucherinteressen; keine allgemeine Befugnis zur gerichtlichen Vertragsverbesserung. Der Fremdwährungskreditfall entscheidet nicht sämtliche deutschen Lückenfüllungsfälle. Optional: [Lückenfüllung](skills/klauselausfall-und-vertragsluecke-pruefen/references/lueckenfuellung.md).
 
 ### 11.3. Rückzahlung und Unterlassung benötigen eigene Voraussetzungen
 
@@ -200,3 +200,27 @@ Die abschließende Fassung muss den zuletzt geprüften Wortlaut enthalten. Vergl
 ## 13. Technische Grenzen
 
 Alle Skill- und Referenzlinks sind optionale Vertiefungen; ohne Zugriff anhand der hier beschriebenen Prüfung weiterarbeiten und ohne Exportmöglichkeit den vollständigen Text statt eines erfundenen Dateilinks liefern. Bei Abruffehlern einen geeigneten Alternativweg versuchen, verbleibende Quellenlücken und ungelesene Akten in einer gesonderten Arbeitsnotiz benennen. Große Akten sachlich gruppieren, belegte Fundstellen weiterverwenden und neue Fassungen oder Widersprüche erneut prüfen. Fehlende Werkzeuge begrenzen nur die davon abhängigen Schritte; keine nicht erfolgte Aktenprüfung, Quellenprüfung oder Dateierzeugung behaupten.
+
+## 14. Vom Klauselproblem zum verwendbaren Text
+
+### 14.1. Stornopauschale im Neuvertrag oder Zahlungsstreit
+
+Bei „Unsere Kunden sollen bei Absage 40 Prozent zahlen“ kläre nur die noch offene Weichenstellung: Geht es um künftige Verträge oder eine bereits verlangte Zahlung? Für den Entwurf benötigst du die betroffene Leistung und dokumentierte gewöhnliche Ausfälle nach ersparten Aufwendungen und möglicher anderweitiger Verwendung. Frage nicht nach einem konkreten Kundenschaden, wenn noch gar kein Stornofall besteht. Für den Zahlungsstreit sind dagegen Abschlussfassung, Stornierung, erbrachte Leistung, ersparte Kosten und geltend gemachter Betrag maßgeblich.
+
+Lautet die Antwort „Wir haben keine belastbare Ausfallstatistik“, erfinde keine marktübliche Quote. Entwirf, soweit zum Auftrag passend, eine Regel über konkret nachzuweisenden Schaden und erläutere intern, welche Daten eine spätere Pauschalierung tragen müssten. Werden belastbare Vergleichsfälle nachgereicht, prüfe Vergleichbarkeit von Produkt, Vorlaufzeit und Weiterverkauf und überarbeite nur Höhe, Auslöser und Gegenbeweismöglichkeit. Der nach Paragraf 309 Nummer 5 BGB erforderliche Gegenbeweis gehört in den Klauseltext, nicht nur in die Begleitbegründung. Eine geringere Quote allein heilt die fehlende Gegenbeweismöglichkeit nicht.
+
+Im Altfall trenne unwirksame Pauschale und möglichen gesetzlichen Anspruch. Nach Paragraf 306 BGB nicht die neue Wunschquote einsetzen. Stelle im Antwortschreiben klar, welcher Betrag mit welcher Anspruchsgrundlage verlangt oder bestritten wird. Fehlen Schadensbelege, entwerfe eine konkrete Beleganforderung oder eine ausdrücklich vorläufige Anspruchsantwort statt eines erfundenen Zahlungsbetrags. Prüfe auch ungünstige Tatsachen wie belegte Sonderanfertigung oder dokumentierten gescheiterten Weiterverkauf.
+
+### 14.2. Haftungsdeckel in der Verhandlung
+
+Bei „Bitte auf die Jahresvergütung begrenzen“ lies Leistungsbeschreibung und Schadensszenario mit. Frage etwa: „Welche Wiederherstellungs- und Ausfallkosten sind beim Ausfall der zugesagten Datensicherung typischerweise zu erwarten?“ Nur wenn dies noch unbekannt ist. Die Antwort verändert den Deckel, den Bezugszeitraum oder die Entscheidung, auf einen zusätzlichen Höchstbetrag zu verzichten. Sie rechtfertigt keine versteckte Ausdehnung des Ausschlusses auf geschützte Schäden.
+
+Entwirf die vollständige Haftungsregel mit abgestimmten Ausnahmen, Kernpflichten und Verhältnis von Einzel- zu Gesamthöchstbetrag. Führe intern einen Gegenfall durch: Ein erster kleiner Schaden verbraucht den Jahresdeckel, anschließend fällt die Kernleistung aus. Wenn die Fassung dafür keinen vertretbaren Ersatz lässt, überarbeite sie. Versicherungsdeckung, geringe Marge und Kundenmitverschulden sind getrennte Gesichtspunkte; keinen pauschalen Satz „durch Versicherung gedeckt“ als Zulässigkeitsnachweis verwenden. Im Verhandlungsschreiben nur die freigegebene Position mitteilen, nicht die interne maximale Konzession.
+
+### 14.3. Einwand des Kunden verändert den Umstellungsweg
+
+Kommt nach einem Änderungsentwurf die Antwort „Der Kunde hat widersprochen“, führe diesen Kunden nicht weiter als umgestellt. Prüfe alte Abrede, Änderungsmechanismus und dokumentierte Reaktion. Aus dem Umstellungsanschreiben wird je nach Auftrag ein ausdrückliches Änderungsangebot oder eine Bestätigung des unveränderten Bestands. Eine Kündigung nicht als automatische Folge einsetzen; deren Voraussetzungen und wirtschaftlichen Auftrag gesondert klären. Kommt stattdessen eine ausdrückliche Annahme, prüfe deren Reichweite und Zeitpunkt und passe Wirksamkeitsdatum und betroffene Anlagen an.
+
+### 14.4. Abschluss und Freigabe
+
+Eine Klauselprüfung endet mit begründetem Befund und konkreter Folge; ein Gestaltungsauftrag mit vollständigem Ersatztext einschließlich nötiger Anschlussänderungen. Halte intern fest, welche Tatsachen der Verwender belegen muss und welche Einwendungen die Gegenseite bereits erhoben hat, ohne Beweislasten pauschal umzukehren. Bei Fristen zwischen vertraglichem Antworttermin, gesetzlichem Anspruchsablauf und gerichtlicher Frist unterscheiden; aus einer Abmahnfrist keine automatische gesetzliche Ausschlussfrist machen. Freigabe nur für die konkret geprüfte Fassung und Kundengruppe; Versand, Annahme und Verzicht bleiben gesondert freizugeben. Nach vollständigen Angaben keine zusätzliche Bestätigungsrunde erzwingen.

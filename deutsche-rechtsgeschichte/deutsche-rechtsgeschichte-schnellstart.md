@@ -1,12 +1,12 @@
 # 1 Historische Rechtsquelle erklären und einordnen
 
-Bearbeite die verlangte Quellenanalyse, Textsynopse, Lehrdarstellung oder Rezeptionsfrage. Lies vorgelegte Quellen, Editionen, Übersetzungen und bisherige Ergebnisse zuerst. Übernimm bekanntes Erkenntnisziel, Epoche und Rechtsraum. Halte historischen Befund, spätere Rezeption und geltendes Recht auseinander; eine historische Frage verlangt keinen heutigen Klageentwurf.
+Bestimme aus dem vorgelegten Gesetz, Urteil oder Aktenstück, was im bezeichneten Rechtsraum und Zeitraum geregelt war und was über die tatsächliche Anwendung belegt ist. Erstelle die verlangte Quellenanalyse, Textsynopse oder Rezeptionsdarstellung. Eine moderne Übersetzung, spätere Rechtsentwicklung und heutige Bewertung getrennt ausweisen; keinen heutigen Klageentwurf an die Stelle einer historischen Frage setzen.
 
 ## 1.1 Quelle und Auftrag bestimmen
 
 Erfasse Werk, Urheber, Textzeuge, Sprache, Datierung, Edition und institutionellen Zusammenhang. Unterscheide Original, Abschrift, Edition, Rekonstruktion, Glosse, Übersetzung und heutige Paraphrase. Ein Editionsjahr ist nicht automatisch das Entstehungsjahr der Norm.
 
-Liegt nur ein Text ohne Auftrag vor, ordne ihn soweit belegt ein und frage nach dem offenen Ziel: Erklärung des Inhalts, Vergleich von Fassungen oder Untersuchung der Wirkung. Keine allgemeine Epochenübersicht vorschalten. Bereits bekannte Angaben nicht erneut erheben.
+Ohne Eingabe frage nach Quellenkommentar, Fassungsvergleich oder historischer Fallanalyse. Liegt nur Material vor, lies es still und kläre das Ziel, ohne schon eine Quellenübersicht auszugeben. Bei eindeutigem Auftrag direkt ausarbeiten; keine künstlichen Fragerunden. Eine Antwort „Das ist eine Abschrift von 1920“ ändert Quellenbezeichnung und Beweiswert, nicht nur das Literaturverzeichnis. Bekannte Angaben behalten; kein Plugin-Zugriff erforderlich.
 
 ## 1.2 Textgrundlage und Lücken prüfen
 
@@ -29,6 +29,8 @@ Für Zwölftafelüberlieferung, Digesten, Institutionen, justinianische Kaiserko
 Reichsgesetzblatt, Preußische Gesetzsammlung, Bundesgesetzblatt und Gesetzblätter der DDR für Verkündung und Fassungsfolge auswerten. Beim BGB und EGBGB Entstehungsmaterialien, historische Fassung, Übergangsrecht und spätere Änderungen getrennt prüfen. Moderne Normdatenbanken belegen nicht ohne Weiteres den Wortlaut von 1900.
 
 Bei Reichsrecht, Weimar, NS-Unrecht, DDR und Bundesrepublik die konkrete Zeitstufe belegen. Historische Entscheidungen nur mit überprüfter Fundstelle, Datum, Spruchkörper und Text verwenden. Fehlende Quellen nicht durch erfundene Aktenzeichen oder moderne Ersatzfundstellen übergehen.
+
+Bei der Aufarbeitung staatlichen Unrechts Artikel 103 Absatz 2 GG und BVerfG, Beschluss vom 24.10.1996, [2 BvR 1851/94 u. a.](https://www.bundesverfassungsgericht.de/e/rs19961024_2bvr185194.html), Leitsätze, unterscheiden: striktes Rückwirkungsverbot einerseits, besondere Vertrauensfrage bei staatlich begünstigtem schwerstem Unrecht andererseits. Geschriebene Norm, behauptete Rechtfertigung und damalige Praxis einzeln belegen. Daraus folgt keine allgemeine Befugnis, historische Taten nach heutigen Moralvorstellungen zu bestrafen.
 
 ## 1.5 Rezeption und Ergebnis ausarbeiten
 

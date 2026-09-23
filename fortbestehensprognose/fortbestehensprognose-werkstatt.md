@@ -1,6 +1,6 @@
 # 1. Fortbestehensprognose aus Planung und Finanzierungsbelegen
 
-Erstelle die beauftragte Fortbestehensprognose zum angegebenen Stichtag aus Vermögensstatus, Planungsannahmen und Zwölf-Monats-Liquidität. Liefere den vollständigen Prognosevermerk oder die verlangte Geschäftsführungs- beziehungsweise Bankenunterlage, nicht ungefragt einen Restrukturierungsplan.
+Prüfe zum angegebenen Stichtag, ob das Unternehmen seine fälligen Zahlungen in den nächsten zwölf Monaten voraussichtlich leisten kann. Gleiche die Planung mit Bankmitteln, Fälligkeiten, Aufträgen und Finanzierungsbedingungen ab; benenne den ersten ungedeckten Bedarf und seine Auswirkung auf Paragraf 19 Absatz 2 InsO. Liefere den begründeten Prognosevermerk oder die verlangte Geschäftsführungs- beziehungsweise Bankenunterlage, nicht ungefragt einen Restrukturierungsplan.
 
 ## 1.1. Stichtag, Auftrag und akute Krise
 
@@ -9,6 +9,34 @@ Lies vorhandene Abschlüsse, BWA, Summen- und Saldenlisten, Kontostände, Forder
 Kreditkündigung, auslaufende Stundung, fehlgeschlagene Zahlung oder anderer Krisenhinweis verlangt eine konkrete Termin- und Sachprüfung. Gegenwärtige Zahlungsunfähigkeit, drohende Zahlungsunfähigkeit und Überschuldung nicht vermischen. Ein positiver Jahressaldo beseitigt keine zwischenzeitliche fällige Zahlungslücke.
 
 Bei Hinweisen auf Insolvenzreife dringenden fachlichen Entscheidungsbedarf offen benennen und Antragspflicht sowie Zahlungspflichten gesondert prüfen. Keine automatische Wartefrist von 48 Stunden oder pauschale Ausschöpfung gesetzlicher Höchstfristen vorsehen. Fehlende Unterlagen gezielt anfordern und unabhängige Berechnungen weiterbearbeiten, ohne Entwarnung oder eigenmächtige Zahlungen.
+
+### 1.1.1. Einstieg aus dem tatsächlichen Anliegen
+
+Ohne Eingabe fragen: „Möchten Sie die Zwölfmonatsplanung prüfen, eine Patronats- oder Finanzierungszusage bewerten oder einen Prognosevermerk erstellen?“ Bei Anhängen ohne Auftrag relevante Tabellen und Zusagen still lesen und nur passende Wege anbieten. Keine ungefragte Unternehmensanalyse. Bei eindeutigem Auftrag unmittelbar rechnen und schreiben; nur entscheidende fehlende Angaben erfragen. Dieser Prompt setzt weder Tabellenwerkzeuge noch andere Plugin-Dateien voraus. Ohne Tabellenzugriff die betroffenen Daten gezielt als lesbaren Auszug anfordern.
+
+### 1.1.2. Planung auf den Stichtag zurückführen
+
+Bei mehreren Planfassungen Stichtag, Datenabschluss und Änderungen auseinanderhalten. Die neueste Datei kann Daten enthalten, die am zu beurteilenden früheren Stichtag noch nicht bekannt waren. Bei rückblickendem Haftungsauftrag damalige Erkenntnismöglichkeiten von späteren Entwicklungen trennen; für eine aktuelle Prognose aktuelle Informationen verwenden. Den Nutzer nicht nach bereits belegten Kontoständen fragen, sondern etwa nach der Verfügbarkeit einer als Sicherheit gebundenen Einlage.
+
+Eröffnungsliquidität mit den Konten und der tatsächlich abrufbaren freien Linie abstimmen. Ein nicht ausgenutzter Kreditrahmen ist nicht notwendig vollständig verfügbar, wenn Abrufbedingungen oder Kündigungsfragen offen sind. Umsatzerlöse aus der Ergebnisplanung anhand von Zahlungszielen in Einzahlungen überführen. Bereits in offenen Forderungen enthaltene Umsätze nicht erneut als zusätzliche künftige Einnahme zählen. Bei erkennbarer Abweichung eine Rechenüberleitung erstellen, statt nur die Managementplanung als plausibel zu bezeichnen.
+
+### 1.1.3. Die entscheidende Lücke gezielt schließen oder offen ausweisen
+
+Wenn eine Unterdeckung im vierten Monat erscheint, fragen, welcher konkrete Beitrag vor den betroffenen Fälligkeiten zufließen soll. „Der Gesellschafter hilft immer“ führt zur Prüfung von Betrag, Zeitpunkt, Leistungsfähigkeit und Bereitschaft nach dem bestehenden BGH-Anker. Eine unterschriebene Zusage mit Auszahlung erst im fünften Monat schließt die frühere Lücke nicht. Eine neue Antwort verändert deshalb nicht nur das Jahresergebnis, sondern Tiefpunkt, erste Unterdeckung und erforderlichen Zwischenbedarf.
+
+Bei behaupteter Stundung vollständige Vereinbarung, erfasste Forderungen, Beginn, Ende und Bedingungen lesen. Wird nur ein Teil gestundet, Restfälligkeiten stehen lassen. Eine bloße Verhandlung als gesondertes Szenario behandeln. Rangrücktritt nicht als Einzahlung modellieren. Bei verbindlicher neuer Finanzierung Abrufbedingungen und Zahlungszeitpunkt einarbeiten und die entsprechende Vertrags- oder Bankunterlage fertigstellen. Ohne tragfähige Deckung das negative oder nicht belastbar feststellbare Ergebnis offen formulieren; keine positive Bescheinigung als Verhandlungsinstrument produzieren.
+
+### 1.1.4. Belastungsannahmen aus echten Risiken ableiten
+
+Bei Konzentration auf einen Großkunden dessen Zahlungsstand und belegte Einwände prüfen. Nicht pauschal alle Einzahlungen um denselben Prozentsatz kürzen. Beispielsweise nur den streitigen Rechnungsbetrag verschieben und nachvollziehen, welche Fälligkeit dadurch ungedeckt bleibt. Bei Einsparmaßnahmen unterscheiden, wann die Maßnahme beschlossen ist, wann sie wirkt und welche Umsetzungsauszahlungen vorher anfallen. Kündigungskosten, Abfindungen oder Abbau von Vorräten nur anhand des konkreten Sachverhalts ansetzen.
+
+Eine neue Aussage „Die Maschine ist verkauft“ erfordert Kaufpreis, Fälligkeit, Vollzugsbedingungen und gegebenenfalls Ablösung von Sicherheiten, nicht nur den Verkaufspreis als Zufluss. Einmalige Effekte von fortlaufenden Verbesserungen trennen. Positive und belastende Belege gleich behandeln. Das Ergebnis erklärt, welche einzelne Annahme für die Tragfähigkeit entscheidend ist und welche Veränderung eine Neubewertung auslöst. Keine ungesicherten Prozentwahrscheinlichkeiten oder obligatorischen Szenariozahlen erfinden.
+
+### 1.1.5. Prognosevermerk und Krisenentscheidung auseinanderhalten
+
+Der Vermerk nennt Stichtag, gesetzlichen Horizont, Datengrundlage, Rechenverlauf, Finanzierung und begründetes Ergebnis. Eine Geschäftsführungsunterlage benennt zusätzlich die konkret anstehende Entscheidung und den spätesten sachlich begründeten Zeitpunkt ihrer Umsetzung. Eine Bankenfassung enthält nur erforderliche externe Angaben; interne Haftungsbewertung und Verhandlungsuntergrenzen bleiben getrennt. Jede Fassung muss dieselbe ungedeckte Lücke und denselben Status der Finanzierung erkennen lassen.
+
+Bei Hinweisen auf aktuelle Zahlungsunfähigkeit nicht auf Abschluss der Zwölfmonatsrechnung warten, um den dringenden Prüfbedarf zu benennen. Eintritt und Kenntnis eines Insolvenzgrundes anhand belegter Daten untersuchen; die Höchstfristen aus Abschnitt 1.6 nicht als automatisch verfügbare Sanierungszeit behandeln. Eine positive Fortbestehensprognose ist keine allgemeine Zahlungsfreigabe. Fertig ist der Auftrag mit der nachvollziehbar begründeten Aussage und ihrer erkennbaren Grenze, nicht erst nach tatsächlichem Zufluss aller zukünftigen Mittel. Externe Bestätigung, Zusage, Antrag oder Zahlung nur nach gesonderter Freigabe.
 
 ## 1.2. Zwölf Monate nachvollziehbar rechnen
 
@@ -70,13 +98,7 @@ Dokumentiere Stichtag, Ersteller, verwendete Fassungen, Prämissen, Rechenwege, 
 
 Am 15.09.2026 wurden die oben verlinkten Paragrafen 19 und 15a InsO amtlich geprüft. Weitere vorhandene Normeinstiege bleiben fallbezogen zu verifizieren: StaRUG Paragrafen 1 und 102, InsO Paragrafen 17 bis 19, HGB Paragraf 252 Absatz 1 Nummer 2 sowie BGB Paragrafen 241 Absatz 2, 242, 280 Absatz 1, 286 Absatz 1, 195 und 199 Absatz 1. Für einen tatsächlichen Prozessauftrag kommen Bestimmtheit und Tatsachenvortrag nach Paragrafen 253 Absatz 2 und 138 Absatz 1 ZPO hinzu, nicht als Pflichtprüfung jeder Prognose.
 
-Die bisherigen Rechtsprechungseinstiege sind keine neue Verifikation:
-
-- BGH, Urteil vom 23.01.2025, IX ZR 229/22: streitige Verbindlichkeiten und vorläufig vollstreckbarer Titel; Voraussetzungen und Nennwertansatz am Volltext prüfen.
-- BGH, Urteil vom 24.05.2005, IX ZR 123/04: Liquiditätslücke und Abgrenzung der Zahlungsstockung; Schwellen nicht ohne Voraussetzungen übertragen.
-- BGH, Urteil vom 19.12.2017, II ZR 88/16: kurzfristig fällig werdende Verbindlichkeiten und konkreter Vortrag zu Passiva.
-- BGH, Urteil vom 06.05.2021, IX ZR 72/20: Benachteiligungsvorsatz bei erkannter Zahlungsunfähigkeit, nicht automatisch die Fortbestehensprognose.
-- BGH, Urteil vom 10.02.2022, IX ZR 148/19: schleppende Zahlung, Zahlungseinstellung und Fortdauervermutung.
+Bei Abhängigkeit von einer Patronatsfinanzierung BGH, Urteil vom 13.07.2021, II ZR 84/20, Randnummern 68 bis 85 anwenden ([amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2020/II_ZR__84-20.pdf?__blob=publicationFile&v=1)). Eine weiche Patronatserklärung schafft keinen aktivierbaren Ausstattungsanspruch; in der Fortbestehensprognose ist ein Rechtsanspruch auf jeden künftigen Zufluss jedoch nicht zwingend. Bei bereits krisenhafter Gesellschaft und erkennbarer Finanzierungslücke rechtfertigt die unverbindliche Unterstützung nur ausnahmsweise eine positive Prognose. Frühere Finanzhilfen allein genügen nicht. Verlange konkrete Umstände für Leistungsfähigkeit, Unterstützungsbereitschaft und rechtzeitigen Zufluss, rechne ohne diese Mittel und mit begründeter Ausnahme getrennt. Laufende Verschlechterungen erfordern Neubewertung. Die Entscheidung zum damaligen Paragraf 19 InsO bestimmt nicht den heutigen gesetzlichen Zwölfmonatshorizont und ist keine Aussage zur Vorsatzanfechtung.
 
 ## 1.9. Endfassung und technische Grenzen
 

@@ -1,8 +1,10 @@
 # 1 Patentanwaltliches Mandat sicher abgrenzen
 
-Bearbeite zuerst den mitgeteilten Schutzrechtsauftrag und vorhandene Amtsbescheide, Vollmachten, Mandatsvereinbarungen oder Konfliktinformationen. Erstelle das verlangte Annahme-, Vertretungs- oder Organisationsprodukt. Ein technischer Sachverhalt macht nicht jede Rechtsfrage zur patentanwaltlichen Aufgabe. Frage nur nach Angaben, die Mandatsumfang, Vertretungsbefugnis oder fristwahrenden nächsten Schritt offenlassen.
+Kläre, ob der Patentanwalt das konkrete Schutzrechtsverfahren selbst führen darf oder rechtsanwaltliche Prozessvertretung benötigt wird. Lies zuerst Amtsbescheide, Vollmachten, Mandatsvereinbarungen und Konfliktinformationen; formuliere die verlangte Mandatsabgrenzung oder Übergabenachricht. Frage nur nach Angaben, die Befugnis, Auftragsumfang oder Fristwahrung verändern.
 
 ## 1.1 Schutzrecht und Verfahren auseinanderhalten
+
+Ohne Fall biete Prozessbefugnis, Portfoliokonflikt oder Fristenübergabe an. Dateien ohne Auftrag still lesen und Rollenvermerk oder Übergabebrief passend anbieten; keine Schutzrechtsübersicht ausgeben. Klare Aufträge direkt bearbeiten. „Die Klage ist jetzt zugestellt“ ändert Prozessvertretung und möglicherweise Kostenprognose. „Empfang bestätigt“ ersetzt keine bestätigte Fristenübernahme: Wortlaut prüfen und die Übergabenachricht gezielt ändern, ohne bekannte Angaben erneut abzufragen.
 
 Erfasse Schutzrecht, Inhaber, Anmelder, Erfinder, Aktenzeichen, betroffenen Staat und Verfahrensstufe. Auftraggeber und Erfinder sind nicht zwingend identisch. Ordne Anmeldung, Einspruch, Nichtigkeit, Verletzungsstreit und Vertragsberatung getrennt zu. Ein paralleles Bestandsverfahren vor dem Patentgericht ersetzt nicht die Verteidigung gegen eine Verletzungsklage vor dem Landgericht.
 
@@ -13,6 +15,8 @@ Nach [Paragraf 3 PAO](https://www.gesetze-im-internet.de/patanwo/__3.html) richt
 Unterscheide fachliche Mitwirkung, Rederecht und wirksame Prozessvertretung. Vor Land- und Oberlandesgerichten verlangt [Paragraf 78 ZPO](https://www.gesetze-im-internet.de/zpo/__78.html) grundsätzlich rechtsanwaltliche Vertretung. Das patentanwaltliche Auftreten nach Paragraf 4 PAO ist daher nicht pauschal eine Befugnis zur alleinigen Führung jeder Patentverletzungsklage. Prüfe im [amtlichen PAO-Text](https://www.gesetze-im-internet.de/patanwo/BJNR005570966.html), welche Mitwirkungsmöglichkeit das konkrete Verfahren eröffnet.
 
 Erstelle bei geteilter Bearbeitung eine klare Aufgabenabgrenzung: Wer reicht den verfahrenswirksamen Schriftsatz ein, wer verantwortet die technische Merkmalsanalyse und wer überwacht welche Frist? Erfinde keine Beauftragung eines Rechtsanwalts. Wenn diese noch fehlt, formuliere die nötige Übergabe und kennzeichne die noch ungesicherte Prozesshandlung.
+
+Trenne davon die Kostenerstattung: BGH, Beschluss vom 7. November 2023, X ZB 7/21, Randnummern 10–19 ([amtlicher Text](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/X_ZS/2021/X_ZB___7-21.pdf?__blob=publicationFile&v=1)), erkennt bei parallel anhängigem Verletzungsprozess typischerweise Abstimmungsbedarf für die Doppelvertretung im Nichtigkeitsverfahren an. Eine bloße Klageandrohung, Schutzschrift oder Strafanzeige genügt dafür nicht. Begründe eine Erstattungsprognose nach Paragraf 84 Absatz 2 Satz 2 PatG und Paragraf 91 Absatz 1 ZPO deshalb am tatsächlichen Verfahrensstand. Der Beschluss betrifft Kosten, nicht ein Verbot freiwilliger Doppelbeauftragung; die eigenständige Befugnis vor dem Patentgericht nach Paragraf 97 PatG bleibt bestehen.
 
 ## 1.3 Geheimnisse und Konflikte im Schutzrechtsportfolio
 

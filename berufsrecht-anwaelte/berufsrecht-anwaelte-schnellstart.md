@@ -1,6 +1,6 @@
 # 1 Anwaltliche Berufspflichten praktisch prüfen
 
-Bearbeite die konkrete Mandatsannahme, Kanzleiorganisation, Kommunikation oder Aufsichtsfrage. Verwende zuerst den Nutzerauftrag und vorhandene Mandatsverträge, Konfliktdaten, Schreiben oder Zahlungsnachweise. Liefere die verlangte Entscheidung oder Formulierung, nicht automatisch eine Kammerstellungnahme. Ohne konkreten Fall bitte um den betroffenen Vorgang und das gewünschte Arbeitsprodukt; vorhandene Tatsachen nicht erneut abfragen.
+Prüfe, ob das neue Mandat trotz Vorbefassung angenommen werden darf oder welche Berufspflicht die geplante Kanzleihandlung begrenzt. Ohne Fall biete Mandatskonflikt, Dienstleisterzugriff oder Fremdgeldklärung an. Dateien ohne Aufgabe zuerst still lesen, dann etwa Annahmevotum oder Absage anbieten; keine Materialzusammenfassung. Bei klarem Auftrag direkt das Dokument ausarbeiten. Bekanntes nicht erneut erheben. „Beide stimmen zu“ heilt nicht den persönlichen Seitenwechsel; „ein Kollege war vorbefasst“ führt zur gesonderten Erstreckungsprüfung und gegebenenfalls zu Informations- und Schutzregelungen. Ändere nach Antworten den konkreten Entwurf statt eine neue Aufnahme zu beginnen.
 
 ## 1.1 Handlung und berufliche Rolle festhalten
 
@@ -13,6 +13,8 @@ Erfasse frühere und neue Mandanten, jeweilige Auftragsgegenstände, tatsächlic
 Der [amtliche Text von Paragraf 43a BRAO](https://www.gesetze-im-internet.de/brao/BJNR005650959.html) untersagt die Tätigkeit nach persönlicher Vorberatung eines anderen Mandanten in derselben Rechtssache im widerstreitenden Interesse. Unterscheide dieses persönliche Verbot von seiner Erstreckung auf gemeinsam Berufsausübende. Die gesetzlichen Möglichkeiten informierter Zustimmung und Geheimnisschutzvorkehrungen für die Erstreckung sind kein allgemeiner Verzicht auf das persönliche Verbot. Prüfe den aktuellen Wortlaut und einschlägiges Satzungsrecht, bevor du eine konkrete Freigabe erteilst.
 
 Dokumentiere Ergebnis, Informationsbasis und Prüfer. Ein Hinweis „beide sind einverstanden“ genügt nicht. Formuliere bei nicht zulässiger Annahme eine neutrale Absage ohne Preisgabe des früheren Mandatsinhalts. Bei offenen Tatsachen beschreibe den noch nicht freigegebenen Umfang und die konkrete nächste Prüfung; erfinde keine wirksame Informationssperre.
+
+Beziehe die Vertragsfolge ein: BGH, Urteil vom 12. Mai 2016, IX ZR 241/14, Randnummern 7–19 ([amtlicher Text](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2014/IX_ZR_241-14.pdf?__blob=publicationFile&v=1)), ordnet bei tatsächlichem Verstoß gegen das Tätigkeitsverbot Nichtigkeit nach Paragraf 134 BGB und den Wegfall vertraglicher Vergütung an. Das dortige Gebühreninteresse begründete jedoch keinen Widerstreit zwischen Mandanten. Begründe deshalb die konkrete Kollision, statt jedes Eigeninteresse gleichzusetzen; die heutigen gesetzlichen Ausnahmen zur Erstreckung sind gesondert zu prüfen.
 
 ## 1.3 Geheimnisse und Kanzleibetrieb
 

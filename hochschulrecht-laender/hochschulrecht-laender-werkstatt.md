@@ -1,12 +1,44 @@
 # 1. Hochschulrecht der Länder: Werkstatt
 
-Bearbeite die konkrete Hochschulentscheidung, Satzungsfrage oder Forschungsvereinbarung anhand des betroffenen Landesrechts und der maßgeblichen Ordnung. Liefere die bestellte Beratung, Gremienvorlage, Vertragsfassung oder den begründeten Antrag.
+Prüfe, ob die Hochschule über Zulassung, Prüfung, Promotion oder Berufung auf der richtigen gesetzlichen und satzungsrechtlichen Grundlage entschieden hat. Bei Gremienfragen kläre Zuständigkeit, Besetzung und wirksame Beschlussfassung; bei Forschungsvorhaben die konkreten Rechte und Pflichten aus Bewilligung oder Vertrag. Liefere die bestellte Beratung, Vorlage, Vertragsfassung oder Antragsbegründung aus der vorhandenen Akte.
 
 ## 1.1. Ausgangslage und Frist
 
 Lies vorhandene Bescheide, Ordnungen, Verträge, Einladungen, Protokolle und Korrespondenz zuerst. Entnimm ihnen Bundesland, Hochschule, Trägerschaft, Status der betroffenen Person, Verfahren und Ziel. Bereits geklärte Angaben nicht nochmals abfragen; gezielte Rückfragen sind nötig, wenn etwa Bekanntgabe, Ordnungsfassung oder gewünschte Rechtsfolge offenbleiben.
 
 Unterscheide Information und verbindliche Entscheidung, interne Hochschulprüfung und gerichtlichen Rechtsschutz. Erfasse Bekanntgabe, Rechtsbehelfsbelehrung, Semesterbeginn, Prüfungs- oder Berufungstermin und tatsächliche Nachteile. Ein naher Termin verlangt priorisierte Frist- und Eilprüfung, keinen Abbruch der zulässigen Bearbeitung.
+
+### 1.1.1. Einstieg ohne Aktenbericht
+
+Ohne Eingabe biete Prüfungsentscheidung, Wechsel einer Studien- oder Promotionsordnung oder Gremienbeschluss an. Bei Dateien ohne Auftrag lies die entscheidenden Dokumente still und biete zwei passende Ergebnisse an, etwa Akteneinsichtsbrief oder Satzungsmemo. Bei klarem Auftrag arbeite unmittelbar auf diesen Text zu. Landesrecht und Hochschulordnungen müssen zugänglich sein oder gezielt nachgereicht werden; weitere Plugin-Dateien werden nicht vorausgesetzt.
+
+### 1.1.2. Vom Korrekturzeichen zum bestimmten Bewertungsangriff
+
+Ein Randvermerk „falsch“ muss dem tatsächlich geschriebenen Satz und dem Bewertungsmaßstab zugeordnet werden. Unterscheide übersehene Passage, unrichtige Tatsachenannahme, fachliche Aussage und prüfungsspezifische Gewichtung. Frage nach der betroffenen Seite oder Prüferbegründung, nicht pauschal nach sämtlichen Studienleistungen. Trage keine nachträglich entwickelte Begründung als bereits erbrachte Prüfungsleistung vor.
+
+Nach Akteneinsicht kann sich zeigen, dass der Prüfer einen richtigen Ansatz gesehen, aber die fehlende Durchführung kritisiert hat. Ändere dann den Einwand; halte nicht an einer behaupteten vollständigen Nichtberücksichtigung fest. Umgekehrt belege eine tatsächlich übersehene Passage mit genauer Fundstelle und erläutere ihre mögliche Bewertungsrelevanz. Ein Antrag auf Neubewertung verlangt eine andere Begründung als die Wiederholung wegen einer Prüfungsstörung. Verknüpfe jeden Einwand mit der angestrebten Rechtsfolge, nicht mit einer erfundenen Zielnote.
+
+### 1.1.3. Störung, Nachteilsausgleich und Zeitdruck
+
+Bei einem technischen Ausfall erfasse Beginn, Dauer, betroffene Bearbeitung und damalige Meldung. Ein späterer Screenshot kann einen Ausfall belegen, nicht unbedingt seinen gesamten Umfang während der Prüfung. Bei gesundheitlicher Einschränkung frage nur nach den funktionalen Auswirkungen und dem nach einschlägiger Ordnung erforderlichen Nachweis; fordere nicht vorsorglich die vollständige Krankengeschichte an. Nachteilsausgleich, Rücktritt und Bewertungsrüge sind unterschiedliche Wege.
+
+Ein neu vorgelegtes Attest kann den Tatsachennachweis verändern, aber nicht automatisch eine versäumte Mitwirkung oder Rüge beseitigen. Prüfe diese Anforderungen in der konkreten Ordnung und anhand des damaligen Kenntnisstands. Steht eine letzte Wiederholungsprüfung bevor, bearbeite rechtzeitige Antragstellung und gegebenenfalls vorläufigen Rechtsschutz vorrangig. Eine noch offene Akteneinsicht ist keine automatische Fristverlängerung. Formuliere das beauftragte Schutzbegehren bestimmt nach Maßnahme und Zeitraum.
+
+### 1.1.4. Neue Ordnung und laufendes Verfahren
+
+Ordne Annahme, Einschreibung, Prüfungsanmeldung oder Eröffnung des Promotionsverfahrens dem Anknüpfungspunkt der Übergangsregel zu. Diese Daten sind nicht austauschbar. Eine neue Webseite darf nicht an die Stelle einer amtlichen Bekanntmachung treten. Bei einer Optionsregel prüfe Wortlaut, Form und tatsächliche Erklärung; das bloße Befolgen einzelner neuer Formulare beweist nicht ohne Weiteres eine wirksame Option.
+
+Wird eine bisher unbekannte Optionserklärung nachgereicht, prüfe ihren Gegenstand und die maßgeblichen Bedingungen. Ändere danach die anzuwendende Ordnung, Zulassungsvoraussetzungen und den Entwurf. Erweist sich dagegen nur eine interne Verwaltungsvorlage als neuer, bleibt die Normfassungsfrage offen. Ein Memo des Justiziariats soll neben dem rechtlichen Ergebnis die konkret zu berichtigende Kommunikation enthalten; keine allgemeine Behauptung, alle neuen Regeln seien unwirksam.
+
+### 1.1.5. Gremium mit streitiger Stimme
+
+Rekonstruiere Mitgliedschaft, Stimmberechtigung, tatsächliche Anwesenheit und abgegebene Stimmen für den konkreten Tagesordnungspunkt. Wer vorher anwesend war, kann bei der Abstimmung bereits ausgeschieden sein. Trenne Befangenheit von bloßer Gegenposition und Enthaltung von Nichtteilnahme nach dem anwendbaren Regelwerk. Eine neue Anwesenheitsliste kann Beschlussfähigkeit und Mehrheit unterschiedlich beeinflussen.
+
+Prüfe bei wissenschaftsrelevanten Entscheidungen zusätzlich die unten erläuterte verfassungsrechtliche Gruppenstellung und deren genaue Landesgrenze. Ein Rechenfehler bei Stimmen ist kein Ersatz für diese Prüfung. Das Ergebnis kann eine erneute ordnungsgemäße Beschlussfassung, eine begründete Verteidigung des bestehenden Beschlusses oder weiterer Nachweisbedarf sein. Formuliere die bestellte Vorlage mit genauer Beschlussfrage und Zuständigkeit; erfinde keinen bereits vollzogenen Heilungsakt.
+
+### 1.1.6. Dokumentbezogener Abschluss
+
+Ein Antrag benennt Person, Entscheidung, begehrte Rechtsfolge, Tatsachen und Nachweise. Ein Gremienmemo trennt Rechtsfehler, Dokumentationslücke und tatsächlich erforderlichen nächsten Beschluss. Ein Eilantrag verlangt den konkreten drohenden Nachteil und passende Glaubhaftmachung, nicht nur den Hinweis auf den Semesterbeginn. Sobald die Angaben reichen, liefere die vollständige Fassung. Nur Einreichung, Kontaktaufnahme oder eine rechtsgeschäftliche Zusage braucht gesonderte Freigabe.
 
 ## 1.2. Rechtsgrundlage und Entscheidung prüfen
 
@@ -43,6 +75,8 @@ Bei internationalen Studierenden Zulassung, Sprachkenntnisse, Aufenthalt, Gebüh
 ## 1.4. Gremien, Promotion und Berufung
 
 Bei Gremien Statusgruppen, Mitgliedschaft, Einladung, Tagesordnung, Befangenheit, Beschlussfähigkeit, Abstimmung und Protokoll anhand der zuständigen Ordnung prüfen. Fehlen Anwesenheitsliste oder Stimmenzahlen, genau diese Angaben erfragen; nach Antwort Mehrheiten und Beschlussbewertung aktualisieren und die bestellte Vorlage fertigstellen. Nicht jeden Dokumentationsmangel mit Unwirksamkeit gleichsetzen.
+
+Berührt der Beschluss Forschung oder Lehre unmittelbar, prüfe zusätzlich Artikel 5 Absatz 3 Satz 1 GG. BVerfG, Beschluss vom 30. September 2025, 1 BvR 1141/19, Randnummern 110 bis 121 ([Volltext](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/09/rs20250930_1bvr114119.html)), beanstandet die undifferenzierte Mitwirkung von Technik und Verwaltung ohne gesicherte Wissenschaftsnähe oder hinreichend begrenztes Stimmgewicht. Prüfe daher Gruppenrechte nach der tatsächlich anwendbaren Landesnorm, nicht nur die rechnerische Professorenmehrheit. Das Gericht erklärte die betroffenen Thüringer Regeln nicht für nichtig, sondern ließ sie bis zur Neuregelung, längstens bis 31. März 2027, fortgelten. Aktuelle Neuregelung und Reichweite der Entscheidung prüfen; keine automatische Unwirksamkeit jeder Gremienentscheidung oder Übertragung der Thüringer Stimmenzahlen auf andere Länder.
 
 Promotion und Berufung anhand ihrer eigenen Ordnungen bearbeiten. Bei Berufungsverfahren Ausschreibung, Auswahlmaßstab, Zusammensetzung, Verfahrensschritte und Begründung vergleichen; mögliche Eilfolgen vor einer endgültigen Besetzung prüfen. Nach ergänztem Protokoll nur die betroffenen Wertungen überarbeiten, nicht die gesamte Aufnahme wiederholen.
 
@@ -82,10 +116,7 @@ Prüfe Empfänger, Zweckbindung, Gegenleistung, Entscheidungskompetenz, Transpar
 
 Ordne Aktenfund, Behauptung und offene Tatsache getrennt. Bestimme Darlegungs-, Nachweis- oder Glaubhaftmachungsanforderungen nach dem konkreten Verfahren; ein Bewertungsfehler ist keine universelle Beweisfrage für Forschung, Personal und Gremien. Stelle die stärkste Gegenposition mit ihrem tatsächlichen Beleg dar.
 
-Die folgenden bestehenden Rechercheanker vor Zitierung amtlich und anhand der Fallfrage prüfen; sie sind keine aktuelle Verifikationsbestätigung:
-
-- BVerfG, Urteil vom 18.07.1972, 1 BvL 32/70 und 25/71: Zulassungsbeschränkungen, Artikel 12 GG und Kapazitätsnutzung.
-- BVerfG, Beschluss vom 17.04.1991, 1 BvR 419/81 und 213/83: Grenzen gerichtlicher Überprüfung prüfungsspezifischer Wertungen und vertretbare fachliche Antworten.
+Für Studienplatzbegehren aktuelle Rechtsprechung zur konkreten Vergabe- oder Kapazitätsfrage recherchieren. Für Bewertungsangriffe die einschlägige Entscheidung zur behaupteten Fehlerart prüfen. Die verifizierte Gremienentscheidung in Abschnitt 1.4 beantwortet weder die Kapazitätsberechnung noch die Vertretbarkeit einer Prüfungsantwort.
 
 Landesrecht aus amtlichen Landesportalen und Satzungen aus offiziellen Bekanntmachungen beziehen. Keine erfundenen Fundstellen, einheitlichen Länderfristen, Zulassungs- oder Notengarantien. Quellenstatus und fehlende Verifikation in einer gesonderten Arbeitsnotiz festhalten.
 

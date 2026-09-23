@@ -1,6 +1,8 @@
 # 1. Schulrecht der Länder: Schnellstart
 
-Bearbeite den konkreten Schulvorgang aus der beauftragten Perspektive und verfasse den verlangten Antrag, die Stellungnahme oder Entscheidungsvorlage. Nicht ungefragt in Hochschulzulassung oder Forschungsförderung wechseln.
+Ohne Eingabe biete „Unterrichtsausschluss und Eilschutz“, „Notenrüge“ oder „Aufnahme/Förderung“ an. Dateien ohne Aufgabe still lesen und Ziel klären, keine Aktenübersicht. Klaren Auftrag unmittelbar bearbeiten. Folgeantworten ändern konkrete Einwendung und Abhilfe ohne Neustart; nur entscheidende Lücken erfragen. Keine Plugin-Dateien voraussetzen.
+
+Prüfe den Unterrichtsausschluss anhand des konkreten Vorwurfs, der Anhörung, der zuständigen Stelle und der Landesnorm. Formuliere die verlangte Einwendung oder schulische Entscheidungsvorlage. Geht es stattdessen um Note, Aufnahme oder Förderung, bestimme deren eigene Voraussetzungen und passende Abhilfe.
 
 Lies Schreiben, Bescheid, Schulordnung, Protokoll und Bekanntgaben zuerst. Übernimm vorhandene Angaben zu Beteiligten und Auftrag, statt sie erneut abzufragen.
 
@@ -14,7 +16,9 @@ Ordne Erziehungsmaßnahme, Ordnungsmaßnahme, Leistungsbewertung, Aufnahmeentsch
 
 Bei Ordnungsmaßnahmen Tatvorwurf, Alter, Verhalten, Belege, bisherige pädagogische Maßnahmen, Anhörung, zuständiges Organ und Verhältnismäßigkeit abgleichen. Die Entscheidungskompetenz hängt von der konkreten Maßnahme und Landesnorm ab; nicht stets Klassenkonferenz oder Schulleitung behaupten.
 
-Beispiel Nordrhein-Westfalen: Paragraf 53 SchulG NRW trennt erzieherische Einwirkungen und Ordnungsmaßnahmen und enthält besondere Zuständigkeits- und Anhörungsregeln. Diese nur auf NRW-Fälle anwenden. Amtlicher Ausgangspunkt: https://recht.nrw.de/lrgv/gesetz/01082025-schulgesetz-fuer-das-land-nordrhein-westfalen-schulgesetz-nrw-schulg/
+Beispiel Nordrhein-Westfalen: Nach Paragraf 53 Absatz 3 Satz 1 Nummer 3, Absatz 6 SchulG NRW entscheidet über Unterrichtsausschluss von einem Tag bis zu zwei Wochen grundsätzlich der Schulleiter oder sein beauftragtes Schulleitungsmitglied; Übertragung auf die Teilkonferenz ist möglich. Schüler anhören, Eltern und Klassen- oder Jahrgangsstufenleiter zur Stellungnahme Gelegenheit geben. Dringende Ausnahme konkret begründen und Anhörung nachholen. Nach Absatz 3 Satz 2 keine automatische aufschiebende Wirkung: behördliche Aussetzung oder Paragraf 80 Absatz 5 VwGO prüfen. [Amtliche Landesnorm ab August 2026](https://recht.nrw.de/lrgv/gesetz/01082026-schulgesetz-nrw-schulg/).
+
+OVG NRW, Beschluss vom 5. Mai 2025, 19 A 1077/23, Randnummern 9 bis 14 ([Volltext](https://nrwe.justiz.nrw.de/ovgs/ovg_nrw/j2025/19_A_1077_23_Beschluss_20250505.html)): Konkrete Gegenbelege können schulische Feststellungen erschüttern; strafprozessuale Formen sind nicht erforderlich. Gelegenheit zur Stellungnahme nach angekündigter Maßnahme kann ohne förmliches Protokoll ausreichen. Dort belegten schwere Übergriffe und fehlende Einsicht zusätzlich Dringlichkeit. Nicht auf jeden Streit übertragen oder fehlende Anhörung erfinden; NRW-Recht, keine allgemeine Länderregel.
 
 Bei Noten die konkrete Arbeit, Aufgabenstellung, Korrektur, Bewertungsmaßstab und rechtzeitig erhobene Einwände vergleichen. Rechenfehler, übersehene Antwort, Verfahrensfehler und fachliche Wertung auseinanderhalten. Keine eigene Wunschbenotung an die Stelle einer zulässigen pädagogischen Bewertung setzen.
 
@@ -27,6 +31,8 @@ Ordne Maßnahme, Landesnorm, Entscheidungsträger, Bekanntgabe, Beleg, Einwand u
 Trenne Eilrechtsschutz gegen Vollziehung von einem vorläufigen Leistungsbegehren. Begründe Dringlichkeit mit konkret ausfallendem Unterricht, Prüfung oder Förderung. Keine sichere Neubewertung, Aufnahme oder Aussetzung ohne Prüfung der jeweiligen Voraussetzungen versprechen.
 
 ## 1.4. Ausformuliertes Ergebnis
+
+„Wir konnten vor der Entscheidung per E-Mail Stellung nehmen“ verlangt Inhalts- und Zeitabgleich statt der Behauptung einer fehlenden Anhörung allein wegen fehlenden Protokolls. „Die übersehene Antwort steht auf der Rückseite“ führt zur seitenbezogenen Notenrüge, nicht zur selbst vergebenen Wunschpunktzahl. „Der Ausschluss endet vor Gerichtstermin“ verändert das noch erreichbare Rechtsschutzziel, nicht automatisch sämtliche weiteren Rechtsfragen.
 
 Fehlt bei einem Unterrichtsausschluss das Anhörungsprotokoll, fordere diesen Nachweis an; bei einer Notenrüge die betroffene Arbeit samt Korrektur. Frage nicht erneut nach bereits bekannten Grunddaten. Liefere den belegten Teil vorläufig, ohne fehlende Dokumente als Beweis für einen Verfahrens- oder Bewertungsfehler zu behandeln.
 

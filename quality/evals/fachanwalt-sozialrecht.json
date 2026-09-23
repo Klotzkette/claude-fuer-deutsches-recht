@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "fachanwalt-sozialrecht",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/sgb_6/__43.html",
@@ -22,27 +22,69 @@
       "url": "https://www.bsg.bund.de/SharedDocs/Downloads/DE/Entscheidungen/2019/2019_12_11_B_13_R_07_18_R.pdf?__blob=publicationFile&v=3",
       "checked_on": "2026-09-14",
       "supports": "BSG, Urteil vom 11.12.2019, Az. B 13 R 7/18 R, Randnummern 17 bis 22: qualitative Einschränkungen, übliche Arbeitsbedingungen und Abgrenzung zum Arbeitsmarktrisiko. Amtliches PDF direkt abgerufen und textlich gelesen."
+    },
+    {
+      "url": "https://www.bsg.bund.de/SharedDocs/Downloads/DE/Entscheidungen/2019/2019_12_11_B_13_R_07_18_R.pdf?__blob=publicationFile&v=3",
+      "checked_on": "2026-09-22",
+      "supports": "Erneute Primärquellenprüfung: BSG, Urteil vom 11.12.2019, B 13 R 7/18 R, Randnummern 30 bis 40, 49 bis 50. Anwendung: Bei mindestens sechs Stunden schwere spezifische Leistungsbehinderung oder ungewöhnliche Summierung funktional prüfen; gegebenenfalls konkrete Tätigkeit benennen. Grenze: Diagnosezahl und schlechte Vermittlung genügen nicht; Zurückverweisung ohne Rentenzuspruch."
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2005/05/rk20050512_1bvr056905.html",
+      "checked_on": "2026-09-22",
+      "supports": "Erneute Primärquellenprüfung: BVerfG, Beschluss vom 12.05.2005, 1 BvR 569/05, Randnummern 24 bis 30. Anwendung: Existenzielle Nachteile verlangen abschließende Prüfung oder bei rechtzeitig nicht möglicher Aufklärung Folgenabwägung; heutige Mittel belegen. Grenze: Kein Wegfall der materiellen Voraussetzungen und keine automatische Leistung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/sgb_6/__43.html",
+      "checked_on": "2026-09-22",
+      "supports": "Stundenkategorien, Pflichtbeiträge und mögliche Verlängerungszeiträume."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/sgb_2/__32.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aktuelle Regelung wiederholter Meldeversäumnisse; nicht bloß Reformvorschlag."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/sgb_2/__65a.html",
+      "checked_on": "2026-09-22",
+      "supports": "Übergang für Meldeversäumnisse vor dem 1. Juli 2026."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/sgg/__86b.html",
+      "checked_on": "2026-09-22",
+      "supports": "Vollziehungsregelung und einstweilige Anordnung getrennt."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/sgg/__84.html",
+      "supports": "Erneuter Normabruf: grundsätzlich ein Monat für Widerspruch, bei Bekanntgabe im Ausland drei Monate; Form, Bekanntgabe und Empfänger konkret prüfen.",
+      "checked_on": "2026-09-23"
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Mini und Erwerbsminderungs-Fokuspaar wurden vollständig einschließlich der zeitbezogenen Sanktionspassagen gelesen.",
+    "reason": "Mini vollständig geprüft und qualitativen Erwerbseinschränkungen ein wirklich anwendbarer BSG-Maßstab zugeordnet; die alte unspezifische Randnummernangabe ersetzt. Redaktioneller Desk-Review, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Älterer Befund belegt einen früheren Leistungsfall -> Beitragsfenster und Rentenbegründung neu prüfen; Teilzahlung -> aktuellen Eilbedarf reduzieren.",
     "changes": [
-      "Neue Befunde mit Stundenvermögen und Leistungsfall abgleichen, betroffene Versicherungszeiten neu prüfen und den Brief vervollständigen.",
-      "Abschnittsüberschrift benennt Leistungs- und Beitragsfälle statt einer internen Lieferstück-Bezeichnung."
+      "B 13 R 7/18 R, Randnummern 30 bis 40 und 49 bis 50: konkrete Funktionen und Wechselwirkungen statt Diagnosezahl.",
+      "Rechtsfolge der Tätigkeitsbenennung und Grenze der Zurückverweisung erläutert; andere Sozialleistungswege beibehalten.",
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
     ],
-    "sha256": "b6d4278056684cf229a54ef523843283d9323aaf55c88a88e2d47c7e9a188fbf"
+    "sha256": "ac3fdfeacc663c14ae8ddc43dff362460c76be0177f023a3a012770907468ecf",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
   },
   "focus_review": {
-    "reviewed_on": "2026-09-17",
+    "reviewed_on": "2026-09-23",
     "method": "desk_review",
-    "verdict": "retained",
-    "reason": "Standalone-Prompt und zugeordneter Fokus-Skill vollständig auf fachlichen Umfang, Rückfragen mit Fortsetzung bis zum bestellten Dokument, Ausgabeverhalten, Rollenbegrenzung und Quellendifferenzierung gelesen. Kein Live-Modelltest und keine erneute Vollverifikation der bestehenden Rechtsquellen.",
-    "changes": [],
+    "verdict": "revised",
+    "reason": "Hauptproblem und EM-Fachskill vollständig gelesen und korrespondierend überarbeitet. Die tragenden BSG-Passagen sowie Benennungsfolge, Funktionsprüfung und Grenzen der Zurückverweisung stimmen überein. Desk-Review, kein Live-Test. Workflow-Ergänzung: Älterer Befund belegt einen früheren Leistungsfall -> Beitragsfenster und Rentenbegründung neu prüfen; Teilzahlung -> aktuellen Eilbedarf reduzieren. Zugeordneten Fokus-Skill auf Kohärenz gelesen und unverändert belassen.",
+    "changes": [
+      "Einstieg auf Widerspruch zwischen Reha, Behandler und Gutachten zugespitzt.",
+      "In Prompt und Skill Randnummern korrigiert und konkrete Prüfung üblicher leichter Tätigkeiten ergänzt.",
+      "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten."
+    ],
     "prompt_path": "fachanwalt-sozialrecht/fachanwalt-sozialrecht-hauptproblem.md",
-    "prompt_sha256": "da862698991029e5d6a4b8f2e3723db92370d55b20099d0d145e5b7c2998dcf5",
+    "prompt_sha256": "a0073428150ef2185eed14c4218bb1c2e0b66036a3a1aafadf8c4be9d38cc3f2",
     "skill_path": "fachanwalt-sozialrecht/skills/em-rente-befundwiderspruch-und-leistungsfall/SKILL.md",
-    "skill_sha256": "59c0f909a4f2e7396bd710735341cc9841f77f8be8484a07f0afe929125c31d9"
+    "skill_sha256": "c8c8b7fdab9308309a99b33bd7ffafd8827406046b555bd5cb4e2174c0f38aa9"
   },
   "selection": {
     "positive": [
@@ -98,10 +140,62 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die gesamte Werkstatt wurde auf Leistungs-, Beitrags- und Verfahrenswege geprüft.",
+    "reason": "Werkstatt vollständig bearbeitet: Erwerbsminderung und existenzieller Eilrechtsschutz erhalten eigene operative Primärquellen; zeitbezogene SGB-II-Reform am aktuellen Normtext abgeglichen. Redaktioneller Desk-Review, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Bescheidketten und Leistungsperioden, Aufhebung gegenüber Erstattung, medizinische Leistungszeit und Beitragsfenster, konkrete Tätigkeitsanforderung, aktuelle Notlage und getrennte Auslands-Widerspruchsfrist.",
     "changes": [
-      "Wohngeld-Rechtsweg, Untätigkeit und Wiedereinsetzung differenziert; existenzielle Dringlichkeit führt zur passenden Bearbeitung statt zum Abbruch."
+      "BSG-Anker in die sechsstündige Leistungsprüfung eingebaut; keine Rentengarantie.",
+      "BVerfG 1 BvR 569/05 konkret mit aktuellen Mitteln, Folgenabwägung und Grenzen verbunden.",
+      "Paragrafen 32 und 65a SGB II amtlich geprüft; Wohngeld-Ausschlussnorm von Berechnungsgrundlagen getrennt und ungeprüfte Fallliste entfernt.",
+      "Bescheidketten und Leistungsperioden, Aufhebung gegenüber Erstattung, medizinische Leistungszeit und Beitragsfenster, konkrete Tätigkeitsanforderung, aktuelle Notlage und getrennte Auslands-Widerspruchsfrist."
     ],
-    "sha256": "20aeff218ab96474b9bea5ad7bcbd93aa0da64b20b273a7e41f27aae75011735"
+    "sha256": "961e2901e947b15659a73c3c0e1261f48f0631fb6ec427c5a76ffe564a50ff3b",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-23",
+    "files": [
+      "fachanwalt-sozialrecht/fachanwalt-sozialrecht-schnellstart.md",
+      "fachanwalt-sozialrecht/fachanwalt-sozialrecht-werkstatt.md",
+      "fachanwalt-sozialrecht/fachanwalt-sozialrecht-hauptproblem.md",
+      "fachanwalt-sozialrecht/skills/em-rente-befundwiderspruch-und-leistungsfall/SKILL.md"
+    ],
+    "opening_change": "Angegriffene Bewilligung, Ablehnung, Aufhebung oder Beitragsfestsetzung mit Antrag und zeitbezogenen Nachweisen abgleichen; im Hauptproblem konkrete Befundwidersprüche klären. Workflow-Ergänzung: Leer: Bescheidkorrektur, Erwerbsminderungsbeweis oder akuten Leistungsbedarf anbieten. Dateien ohne Aufgabe: Bescheide, Befunde und Kontoauszüge still lesen; gewünschtes Korrektur- oder Rechtsschutzziel klären, keinen automatischen Bescheidvermerk. Klarer Auftrag: Widerspruch, Eilantrag oder Berechnung unmittelbar erstellen, ohne vollständige Aufnahme zu wiederholen.",
+    "norms": [
+      "Paragraf 43 SGB VI",
+      "Paragraf 86b SGG",
+      "Artikel 19 Absatz 4 GG",
+      "Paragrafen 32 und 65a SGB II"
+    ],
+    "decisions": [
+      {
+        "citation": "BSG, Urteil vom 11.12.2019, B 13 R 7/18 R, Randnummern 30 bis 40, 49 bis 50",
+        "url": "https://www.bsg.bund.de/SharedDocs/Downloads/DE/Entscheidungen/2019/2019_12_11_B_13_R_07_18_R.pdf?__blob=publicationFile&v=3",
+        "application": "Bei mindestens sechs Stunden schwere spezifische Leistungsbehinderung oder ungewöhnliche Summierung funktional prüfen; gegebenenfalls konkrete Tätigkeit benennen.",
+        "limit": "Diagnosezahl und schlechte Vermittlung genügen nicht; Zurückverweisung ohne Rentenzuspruch."
+      },
+      {
+        "citation": "BVerfG, Beschluss vom 12.05.2005, 1 BvR 569/05, Randnummern 24 bis 30",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2005/05/rk20050512_1bvr056905.html",
+        "application": "Existenzielle Nachteile verlangen abschließende Prüfung oder bei rechtzeitig nicht möglicher Aufklärung Folgenabwägung; heutige Mittel belegen.",
+        "limit": "Kein Wegfall der materiellen Voraussetzungen und keine automatische Leistung."
+      }
+    ],
+    "remaining_limits": [
+      "Desk-/Primärquellenprüfung ohne Live-Modelltest.",
+      "Keine Vollprüfung des gesamten Sozialleistungsrechts, sämtlicher Reformfolgen oder medizinischer Befunde.",
+      "Workflow-Review 23.09.2026: Paragraf 84 SGG erneut eingesehen; medizinische Diagnose und Anspruchsbeweis getrennt, keine Live-Sozialleistungsprüfung."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Bescheidkorrektur, Erwerbsminderungsbeweis oder akuten Leistungsbedarf anbieten.",
+      "Dateien ohne Aufgabe: Bescheide, Befunde und Kontoauszüge still lesen; gewünschtes Korrektur- oder Rechtsschutzziel klären, keinen automatischen Bescheidvermerk.",
+      "Klarer Auftrag: Widerspruch, Eilantrag oder Berechnung unmittelbar erstellen, ohne vollständige Aufnahme zu wiederholen."
+    ],
+    "continuation": "Älterer Befund belegt einen früheren Leistungsfall -> Beitragsfenster und Rentenbegründung neu prüfen; Teilzahlung -> aktuellen Eilbedarf reduzieren.",
+    "enrichment": "Bescheidketten und Leistungsperioden, Aufhebung gegenüber Erstattung, medizinische Leistungszeit und Beitragsfenster, konkrete Tätigkeitsanforderung, aktuelle Notlage und getrennte Auslands-Widerspruchsfrist.",
+    "limits": "desk review; no live client execution"
   }
 }

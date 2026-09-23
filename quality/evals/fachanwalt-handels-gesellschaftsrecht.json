@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "fachanwalt-handels-gesellschaftsrecht",
-  "reviewed_on": "2026-09-17",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/gmbhg/__34.html",
@@ -22,28 +22,48 @@
       "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2016-5-10&Gericht=bgh&anz=29&nr=74863&pos=15",
       "checked_on": "2026-09-14",
       "supports": "BGH, Urteil vom 10.05.2016, Az. II ZR 342/14: amtliche Leitsätze im Suchauszug zur persönlichen Haftung erst bei treuwidriger Fortsetzung und zur Insolvenzkonstellation geprüft. Direkter Volltextabruf gesperrt."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2016/II_ZR__65-16.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 26.06.2018 - II ZR 65/16, Rn. 13 bis 17: Steht bei Einziehungsbeschluss fest, dass die Abfindung nicht aus freiem Vermögen gezahlt werden kann, Nichtigkeit analog Paragraf 241 Nummer 3 AktG prüfen; nicht realisierte stille Reserven nicht wie verfügbares freies Vermögen behandeln. Grenze: Beschlusszeitpunkt von später eintretender Auszahlungssperre unterscheiden; aus nichtiger Einziehung folgt keine automatische persönliche Haftung aller Mitgesellschafter."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2014/II_ZR_342-14.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-22",
+      "supports": "BGH, Urteil vom 10.05.2016 - II ZR 342/14, Rn. 21 bis 33: Bei wirksamer Einziehung und späterer Abfindungssperre prüfen, ob verbleibende Gesellschafter die Gesellschaft treuwidrig ohne zumutbare Finanzierungs- oder Auflösungsmaßnahmen fortsetzen. Grenze: Keine automatische Ausfallbürgschaft. Rechtzeitige Insolvenzantragstellung und konkrete Finanzierungsmaßnahmen können eine Treuwidrigkeit ausschließen; Sicherheitsabreden gesondert prüfen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/__377.html",
+      "supports": "Erneuter Normabruf zur Untersuchungs- und Rügeobliegenheit; Ablieferung, Entdeckung und Absendung der konkreten Rüge auseinanderhalten.",
+      "checked_on": "2026-09-23"
     }
   ],
   "mini_review": {
-    "verdict": "retained",
-    "reason": "Vollständige Textprüfung am 18. September: Rügezugang, Provisionsunterlagen und Finanzierungsbedingungen führen zum aktualisierten Schreiben beziehungsweise zur getrennten Vermögens- und Liquiditätsrechnung.",
+    "verdict": "revised",
+    "reason": "Der Kurzprompt unterscheidet jetzt anfänglich nicht finanzierbare Einziehung und spätere Abfindungssperre mit zwei amtlich gelesenen Entscheidungen; die kaufmännische Rüge stellt auf rechtzeitige Absendung ab. Individuelle Text- und Primärquellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Finanzierung ist ein rückzahlbares Darlehen statt Zuschuss -> Liquidität und freies Vermögen unterscheiden; Einziehungsbewertung und Finanzierungsklausel ändern.",
     "changes": [
-      "Keine weitere Änderung an der vollständig gelesenen Mini-Fassung."
+      "II ZR 65/16 und II ZR 342/14 mit unterschiedlichen Zeitpunkten und Rechtsfolgen in beide Prompts, Hauptproblem und Fokus-Skill integriert.",
+      "Rügefrist nach HGB Paragraf 377 Absatz 4 korrigiert; unbestätigten Registerbeschluss entfernt.",
+      "Stille Reserven nicht mit freiem Vermögen gleichgesetzt; kein Automatismus persönlicher Abfindungshaftung.",
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
     ],
-    "sha256": "053c0b2a681697b2ebb1b018a80207a4a5b56e3b28727e1a8a00110258e821b1"
+    "sha256": "77d6f7399dd9f34f49658f4fbcfa59a913add29ed33df663f68b4d7909778360"
   },
   "focus_review": {
-    "reviewed_on": "2026-09-17",
+    "reviewed_on": "2026-09-23",
     "method": "desk_review",
     "verdict": "revised",
-    "reason": "Standalone-Prompt und zugeordneter Fokus-Skill vollständig auf fachlichen Umfang, Rückfragen mit Fortsetzung bis zum bestellten Dokument, Ausgabeverhalten, Rollenbegrenzung und Quellendifferenzierung gelesen. Kein Live-Modelltest und keine erneute Vollverifikation der bestehenden Rechtsquellen.",
+    "reason": "Hauptproblem-Prompt und zugeordneter Fokus-Skill vollständig gelesen und auf freien Vermögensbestand am Beschlusstag, spätere Auszahlungssperre und individuell begründete Treuwidrigkeit abgestimmt. Beide BGH-Entscheidungen im amtlichen Volltext geprüft; kein Live-Modelltest. Workflow-Ergänzung: Finanzierung ist ein rückzahlbares Darlehen statt Zuschuss -> Liquidität und freies Vermögen unterscheiden; Einziehungsbewertung und Finanzierungsklausel ändern. Zugeordneten Fokus-Skill auf Kohärenz gelesen und unverändert belassen.",
     "changes": [
-      "Vollständigen Antworttext bei fehlendem Dateiexport ergänzt; keine erfundenen Downloadlinks."
+      "II ZR 65/16 und II ZR 342/14 mit zeitlicher und haftungsrechtlicher Abgrenzung in beide Texte eingearbeitet.",
+      "Einstieg auf beauftragte Einziehungs- und Abfindungsprüfung konkretisiert; vollständige Entwürfe und Fortsetzung nach Nachweisen erhalten.",
+      "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten."
     ],
     "prompt_path": "fachanwalt-handels-gesellschaftsrecht/fachanwalt-handels-gesellschaftsrecht-hauptproblem.md",
-    "prompt_sha256": "4bc0be282bd3e186e174ae218360cef1a63c9c5f7c50a43b5400c425b45b4daf",
+    "prompt_sha256": "b353d882929f5cdb67739f245fe3b86c464e009f51129517d024c1379cc8da76",
     "skill_path": "fachanwalt-handels-gesellschaftsrecht/skills/gmbh-einziehung-abfindung-finanzierbarkeit/SKILL.md",
-    "skill_sha256": "c29f9ceb71c4833278af5bde3e13496cb0c7e1ab30802e8cce66a636a19f6044"
+    "skill_sha256": "51c01f56b7a25167929ad4099822f7891fe0c5196c069a42ffaeda42ea2452af"
   },
   "selection": {
     "positive": [
@@ -99,12 +119,64 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Textprüfung am 18. September: Gute Arbeitsschritte und Informationsrechtsprüfung blieben erhalten. Wiederholte Beweislast- und Ausgabetabellen sowie der pauschale Beginn mit Versandvorbereitung widersprachen dem konkreten Handels- oder Gesellschaftsauftrag.",
+    "reason": "Der Fachanwaltsüberblick ersetzt pauschale Normreihen durch rechtsformbezogene Prüfung und trennt Nichtigkeit der Einziehung, Zahlungssperre und persönliche Mitgesellschafterhaftung. Individuelle Text- und Primärquellenprüfung, kein Live-Modelltest. Schlusslektüre hat die noch allgemeinen Holding- und Tokenisierungsabschnitte konkretisiert; vollständige Fachwege bleiben erhalten. Workflow-Ergänzung einzeln geprüft: Tatsächliche Stimmen und Protokoll, spätere Wiederholung gegenüber Heilung, Zahlungsrollen bei Abfindung, aktuelle Verluste, Mängelentdeckung und Rügeabsendung sowie Provisionskonto gegenüber Ausgleichsanspruch.",
     "changes": [
-      "Doppelte Tabellen und generische Ausgaberouten entfernt; vorhandene spezifische Abschnitte beibehalten.",
-      "Organhaftung, Vertrag, Register, Kapitalerhaltung und Handelsgeschäft fachbezogen verbunden.",
-      "Registeranmeldung von tatsächlicher Übermittlung und Eintragung getrennt."
+      "II ZR 65/16 und II ZR 342/14 mit unterschiedlichen Zeitpunkten und Rechtsfolgen in beide Prompts, Hauptproblem und Fokus-Skill integriert.",
+      "Rügefrist nach HGB Paragraf 377 Absatz 4 korrigiert; unbestätigten Registerbeschluss entfernt.",
+      "Stille Reserven nicht mit freiem Vermögen gleichgesetzt; kein Automatismus persönlicher Abfindungshaftung.",
+      "Schlusslektüre: Holding- und Tokenisierungsabschnitte mit konkreten Rechts-, Zustimmungs-, Form- und Nachweisfragen statt allgemeiner Bearbeitungsformeln ausgearbeitet.",
+      "Tatsächliche Stimmen und Protokoll, spätere Wiederholung gegenüber Heilung, Zahlungsrollen bei Abfindung, aktuelle Verluste, Mängelentdeckung und Rügeabsendung sowie Provisionskonto gegenüber Ausgleichsanspruch."
     ],
-    "sha256": "fe423c487f8cdc011662189499a938a633627193b7d9101d4d448069eb42451d"
+    "sha256": "73536aa588e8a42c7241eda89d811ed067a21d9d18c40838f771a52e596f3833"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-23",
+    "files": [
+      "fachanwalt-handels-gesellschaftsrecht/README.md",
+      "fachanwalt-handels-gesellschaftsrecht/fachanwalt-handels-gesellschaftsrecht-schnellstart.md",
+      "fachanwalt-handels-gesellschaftsrecht/fachanwalt-handels-gesellschaftsrecht-hauptproblem.md",
+      "fachanwalt-handels-gesellschaftsrecht/fachanwalt-handels-gesellschaftsrecht-werkstatt.md",
+      "fachanwalt-handels-gesellschaftsrecht/skills/gmbh-einziehung-abfindung-finanzierbarkeit/SKILL.md",
+      "quality/evals/fachanwalt-handels-gesellschaftsrecht.json"
+    ],
+    "opening_change": "Beschluss, Abfindungsfinanzierung und konkrete Anspruchsrichtung stehen am Anfang; der Schwerpunkt fragt nach freien Mitteln am Beschlusstag und späteren Zahlungssperren. Workflow-Ergänzung: Leer: Beschlussprüfung, Einziehung oder Handelsforderung anbieten. Dateien ohne Aufgabe: Satzung, Beschluss, Finanzierung und Lieferbelege still lesen; Wirksamkeits-, Abfindungs- oder Zahlungsziel klären. Klarer Auftrag: verlangte Stellungnahme oder Vereinbarung unmittelbar erstellen, keine ungefragte Gesellschaftsübersicht.",
+    "norms": [
+      "GmbHG Paragraf 30",
+      "GmbHG Paragraf 34",
+      "AktG Paragraf 241 Nummer 3 entsprechend",
+      "HGB Paragraf 377 Absatz 4",
+      "HGB Paragraf 166"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 26.06.2018 - II ZR 65/16, Rn. 13 bis 17",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2016/II_ZR__65-16.pdf?__blob=publicationFile&v=1",
+        "application": "Steht bei Einziehungsbeschluss fest, dass die Abfindung nicht aus freiem Vermögen gezahlt werden kann, Nichtigkeit analog Paragraf 241 Nummer 3 AktG prüfen; nicht realisierte stille Reserven nicht wie verfügbares freies Vermögen behandeln.",
+        "limit": "Beschlusszeitpunkt von später eintretender Auszahlungssperre unterscheiden; aus nichtiger Einziehung folgt keine automatische persönliche Haftung aller Mitgesellschafter."
+      },
+      {
+        "citation": "BGH, Urteil vom 10.05.2016 - II ZR 342/14, Rn. 21 bis 33",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2014/II_ZR_342-14.pdf?__blob=publicationFile&v=1",
+        "application": "Bei wirksamer Einziehung und späterer Abfindungssperre prüfen, ob verbleibende Gesellschafter die Gesellschaft treuwidrig ohne zumutbare Finanzierungs- oder Auflösungsmaßnahmen fortsetzen.",
+        "limit": "Keine automatische Ausfallbürgschaft. Rechtzeitige Insolvenzantragstellung und konkrete Finanzierungsmaßnahmen können eine Treuwidrigkeit ausschließen; Sicherheitsabreden gesondert prüfen."
+      }
+    ],
+    "remaining_limits": [
+      "Andere handels- und gesellschaftsrechtliche Spezialrouten nicht vollständig neu judikaturseitig überprüft.",
+      "Desk- und Quellenprüfung; kein Live-Client- oder Live-Modelltest und keine vollständige Neuverifikation sämtlicher vorhandener Quellen.",
+      "Workflow-Review 23.09.2026: Paragraf 377 HGB erneut eingesehen; vorhandene Einziehungsentscheidungen bleiben mit ihren sachlichen Grenzen erhalten."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Beschlussprüfung, Einziehung oder Handelsforderung anbieten.",
+      "Dateien ohne Aufgabe: Satzung, Beschluss, Finanzierung und Lieferbelege still lesen; Wirksamkeits-, Abfindungs- oder Zahlungsziel klären.",
+      "Klarer Auftrag: verlangte Stellungnahme oder Vereinbarung unmittelbar erstellen, keine ungefragte Gesellschaftsübersicht."
+    ],
+    "continuation": "Finanzierung ist ein rückzahlbares Darlehen statt Zuschuss -> Liquidität und freies Vermögen unterscheiden; Einziehungsbewertung und Finanzierungsklausel ändern.",
+    "enrichment": "Tatsächliche Stimmen und Protokoll, spätere Wiederholung gegenüber Heilung, Zahlungsrollen bei Abfindung, aktuelle Verluste, Mängelentdeckung und Rügeabsendung sowie Provisionskonto gegenüber Ausgleichsanspruch.",
+    "limits": "desk review; no live client execution"
   }
 }

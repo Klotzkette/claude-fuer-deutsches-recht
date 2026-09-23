@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "staatsanwaltschaft-amtsanwaltschaft",
-  "reviewed_on": "2026-09-18",
+  "reviewed_on": "2026-09-23",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/stpo/__160.html",
@@ -12,15 +12,62 @@
       "url": "https://www.gesetze-im-internet.de/stpo/__170.html",
       "checked_on": "2026-09-14",
       "supports": "Abschlussentscheidung zwischen öffentlicher Klage bei genügendem Anlass und Einstellung bei dessen Fehlen."
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2023/04/rk20230419_2bvr218020.html",
+      "checked_on": "2026-09-22",
+      "supports": "BVerfG, Beschluss vom 19.04.2023, 2 BvR 2180/20, Randnummern 25 bis 29 und 31 bis 37. Amtliche tragende Entscheidungsgründe gelesen. Anwendung: Durchsuchungsantrag auf konkrete vorherige Verdachtstatsachen stützen und Tat, Zeitraum und gesuchte Beweise begrenzen; keine Durchsuchung erst zur Gewinnung eines Anfangsverdachts. Grenze: Historische Geldwäsche-Vortatenlage nicht in heutiges materielles Recht übertragen; kein automatisches Verwertungsverbot. Fehlende Begrenzung von Tat und Suchgegenstand von bloß ergänzbarer Begründung unterscheiden."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stpo/__152.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aktueller amtlicher Normtext gelesen: Zureichende tatsächliche Anhaltspunkte."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stpo/__160.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aktueller amtlicher Normtext gelesen: Objektive Ermittlungsaufgabe."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stpo/__170.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aktueller amtlicher Normtext gelesen: Abschluss nach Ermittlungsergebnis."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stpo/__102.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aktueller amtlicher Normtext gelesen: Durchsuchung beim Verdächtigen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stpo/__105.html",
+      "checked_on": "2026-09-22",
+      "supports": "Aktueller amtlicher Normtext gelesen: Richterliche Anordnung und gesetzliche Zuständigkeit."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stpo/__160.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlich indexierten Absatz 2 zur Erforschung belastender und entlastender Umstände geprüft; direkter Abruf zeitweise nicht erreichbar."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stpo/__170.html",
+      "checked_on": "2026-09-23",
+      "supports": "Amtlich indexierte Abschlussvoraussetzung geprüft; kein aktuell vollständig gelesener Einzelvolltext behauptet."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Vollständig gelesen: Die objektive Ermittlungsrolle war zutreffend, aber eine einzelne gebündelte Rückfrage und Pflichtmatrix verkürzten die Weiterbearbeitung.",
+    "reason": "Fachliche Startvarianten und konkrete Antwortfortsetzung einzeln geprüft. Anfängliche Täuschung von späterer Leistungsstörung trennen; Bestellung, Zahlung und Lieferung gesondert belegen; digitale Personenzuordnung begrenzen; personen- und tatbezogenen Teilabschluss samt Nebenentscheidungen vorbereiten.",
     "changes": [
-      "Nach Rücklauf werden Belastung, Entlastung und betroffene Rechnung neu gewürdigt und der beauftragte Abschlussentwurf vollendet; Tabellen nur bei Vergleich."
+      "Durchsuchung nicht zur Erzeugung eines erst vermuteten Anfangsverdachts einsetzen.",
+      "Tat, Zeitraum und Suchgegenstand schon in der Anordnung begrenzen; historische Geldwäschelage nicht übertragen.",
+      "Maßnahmerechtmäßigkeit nicht automatisch mit Beweisunverwertbarkeit gleichsetzen.",
+      "Leerstart: Verdachtsprüfung, Ermittlungsauftrag oder Abschlussentwurf wählen.",
+      "Bestätigte auftragsbezogene Materialbeschaffung verändert das Entlastungsgewicht und den nächsten Ermittlungsauftrag; widersprechende Lieferantenauskunft verändert die Abschlusswürdigung.",
+      "Anfängliche Täuschung von späterer Leistungsstörung trennen; Bestellung, Zahlung und Lieferung gesondert belegen; digitale Personenzuordnung begrenzen; personen- und tatbezogenen Teilabschluss samt Nebenentscheidungen vorbereiten."
     ],
-    "sha256": "62fa2c8970a0f74da1518999dd8e831d8a9fb365daf8111fd9406b5c35fbb921"
+    "sha256": "8b3693a97aa45db8ef46890ffb745e9f5d4c2a2a59017dc651bd25a471b821f0",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
   },
   "selection": {
     "positive": [
@@ -68,10 +115,55 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die ganze Werkstatt enthielt Verteidigerformeln, drei feste Eingangsfragen und doppelte Abschlussrouten neben brauchbarer Sachleitung.",
+    "reason": "Vollständige Werkstatt mit zusätzlichen fachlichen Entscheidungs- und Dokumentwegen einzeln geprüft. Anfängliche Täuschung von späterer Leistungsstörung trennen; Bestellung, Zahlung und Lieferung gesondert belegen; digitale Personenzuordnung begrenzen; personen- und tatbezogenen Teilabschluss samt Nebenentscheidungen vorbereiten.",
     "changes": [
-      "Sachleitung, Eingriffe, Schutzrechte, Beweiswürdigung, Abschluss und Sitzung zusammenhängend geordnet; alle konkreten Fachwege erhalten. Rücklauf führt zum bestellten Dokument; Strafbefehlsantrag bleibt Antrag, kein staatsanwaltschaftlich erlassener Strafbefehl."
+      "Durchsuchung nicht zur Erzeugung eines erst vermuteten Anfangsverdachts einsetzen.",
+      "Tat, Zeitraum und Suchgegenstand schon in der Anordnung begrenzen; historische Geldwäschelage nicht übertragen.",
+      "Maßnahmerechtmäßigkeit nicht automatisch mit Beweisunverwertbarkeit gleichsetzen.",
+      "Leerstart: Verdachtsprüfung, Ermittlungsauftrag oder Abschlussentwurf wählen.",
+      "Bestätigte auftragsbezogene Materialbeschaffung verändert das Entlastungsgewicht und den nächsten Ermittlungsauftrag; widersprechende Lieferantenauskunft verändert die Abschlusswürdigung.",
+      "Anfängliche Täuschung von späterer Leistungsstörung trennen; Bestellung, Zahlung und Lieferung gesondert belegen; digitale Personenzuordnung begrenzen; personen- und tatbezogenen Teilabschluss samt Nebenentscheidungen vorbereiten."
     ],
-    "sha256": "b89986678d7755173d8048de47113c20d016bcf4de70ffaae88e0607cf18bd1d"
+    "sha256": "8dc847fd30f03511a0fb197ed6e5d50eccc41b5f303378c122bd914afae7f6bf",
+    "reviewed_on": "2026-09-23",
+    "method": "desk_review"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-22",
+    "files": [
+      "gerichtsplugins/staatsanwaltschaft-amtsanwaltschaft/staatsanwaltschaft-amtsanwaltschaft-schnellstart.md",
+      "gerichtsplugins/staatsanwaltschaft-amtsanwaltschaft/staatsanwaltschaft-amtsanwaltschaft-werkstatt.md"
+    ],
+    "opening_change": "Konkrete Verdachtstatsachen, entlastende Ansätze und Abschlussreife vor Auswahl von Ermittlungsverfügung, Einstellung, Antrag oder Anklage prüfen.",
+    "norms": [
+      "Paragrafen 152 Absatz 2, 160, 170, 102 und 105 StPO",
+      "Artikel 13 GG"
+    ],
+    "decisions": [
+      {
+        "citation": "BVerfG, Beschluss vom 19.04.2023, 2 BvR 2180/20, Randnummern 25 bis 29 und 31 bis 37",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2023/04/rk20230419_2bvr218020.html",
+        "application": "Durchsuchungsantrag auf konkrete vorherige Verdachtstatsachen stützen und Tat, Zeitraum und gesuchte Beweise begrenzen; keine Durchsuchung erst zur Gewinnung eines Anfangsverdachts.",
+        "limit": "Historische Geldwäsche-Vortatenlage nicht in heutiges materielles Recht übertragen; kein automatisches Verwertungsverbot. Fehlende Begrenzung von Tat und Suchgegenstand von bloß ergänzbarer Begründung unterscheiden."
+      }
+    ],
+    "remaining_limits": [
+      "Desk- und Primärquellenreview, kein Live-Client- oder Modelltest.",
+      "Kein Audit landesrechtlicher Geschäftsverteilung oder sämtlicher verdeckter Maßnahmen.",
+      "Entscheidung betrifft Durchsuchung und damaligen Geldwäschevorwurf, nicht jede moderne Geldwäschekonstellation.",
+      "Workflow-Vertiefung 2026-09-23: Vorhandener BVerfG-Durchsuchungsanker bleibt auf Verdacht vor Eingriff und seinen historischen Deliktskontext begrenzt. Keine neue Landesgeschäftsverteilung oder umfassende Eingriffsbefugnisprüfung. Desk review; keine Live-Client-Ausführung."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-23",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leerstart: Verdachtsprüfung, Ermittlungsauftrag oder Abschlussentwurf wählen.",
+      "Dateien: Ermittlungsakte still lesen und Arbeitsziel klären, kein ungefragter Erstdurchsichtsvermerk.",
+      "Klarer Auftrag: objektive Verfügung oder Antragsschrift unmittelbar ausarbeiten und nur entscheidende Tatsachenlücken erfragen."
+    ],
+    "continuation": "Bestätigte auftragsbezogene Materialbeschaffung verändert das Entlastungsgewicht und den nächsten Ermittlungsauftrag; widersprechende Lieferantenauskunft verändert die Abschlusswürdigung.",
+    "enrichment": "Anfängliche Täuschung von späterer Leistungsstörung trennen; Bestellung, Zahlung und Lieferung gesondert belegen; digitale Personenzuordnung begrenzen; personen- und tatbezogenen Teilabschluss samt Nebenentscheidungen vorbereiten.",
+    "limits": "desk review; no live client execution"
   }
 }
