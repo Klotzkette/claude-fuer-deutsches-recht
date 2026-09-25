@@ -48,7 +48,7 @@ Neue Lieferwoche: Termin- und Zahlungsfolgen nachrechnen, unveränderte Teile be
 
 ## 1.6. Fachliche und rechtliche Grenzen anwenden
 
-Für Gebäude wurden die neun Phasen in [HOAI Anlage 10](https://www.gesetze-im-internet.de/hoai_2013/anlage_10.html) am 25.09.2026 gelesen. Phase 8 umfasst unter anderem Bautagebuch, gemeinsames Aufmaß, Rechnungsprüfung und Kostenfeststellung; Phase 9 betrifft Objektbetreuung. Tatsächlicher Auftrag, Projektsteuerung und landesrechtliche Bauleiterpflichten bleiben gesondert. Kein Phasenetikett ersetzt den Nachweis einer Leistung oder Freigabe.
+Für Gebäude gilt [HOAI Anlage 10](https://www.gesetze-im-internet.de/hoai_2013/anlage_10.html), geprüft am 25.09.2026: Phase 8 umfasst auch Übergabe, Fristenliste und Überwachung der Beseitigung von Abnahmemängeln; Phase 9 spätere Mängelbewertung, Begehung vor Fristablauf und Mitwirkung bei Sicherheitenfreigabe. Buchhaltung, Projektsteuerung und Bauleiterpflichten gesondert beauftragen beziehungsweise klären. Kein Phasenetikett ersetzt den Nachweis einer Leistung oder Freigabe.
 
 Bei Änderungen zwischen Begehren, Einigung und gegebenenfalls gesetzlicher Anordnung nach Paragraf 650b BGB unterscheiden. Vergütung nicht allein aus einer Planrevision ableiten. VOB/B setzt wirksame Einbeziehung voraus. Für öffentliche Vergabe Auftraggeber, Leistungsart, Datum, Wert, Bundesland und Förderbindung klären; keine zeitlosen Schwellen oder Landesregeln.
 

@@ -39,7 +39,7 @@ English: The original-format ZIP contains the working files directly at archive 
 
 ## 1.3. Bestand
 
-30 native Aktenstücke. Jede Datei bildet ein Dokument ab. Die beiden Arbeitsmappen sind bearbeitbar; E-Mail-Anhänge entsprechen den separat enthaltenen Quelldateien.
+30 native Aktenstücke. Jede Datei bildet ein Dokument ab. Die Arbeitsmappen sind bearbeitbar; E-Mail-Anhänge entsprechen den separat enthaltenen Quelldateien.
 
 | Nr. | Datei |
 | --- | --- |

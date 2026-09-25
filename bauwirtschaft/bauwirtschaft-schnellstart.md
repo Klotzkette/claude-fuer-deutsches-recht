@@ -51,7 +51,7 @@ Fehlen Maße, Genehmigung oder Zugangstag, kennzeichnen Sie die Auswirkung. Nach
 
 ## 1.5. Quellen und Befugnisse begrenzen
 
-[HOAI Anlage 10](https://www.gesetze-im-internet.de/hoai_2013/anlage_10.html) wurde am 25.09.2026 für alle neun Gebäudephasen gelesen: Phase 8 umfasst unter anderem Bautagebuch, Aufmaß, Rechnungsprüfung und Kostenfeststellung; Phase 9 betrifft Objektbetreuung. HOAI ersetzt weder Beauftragung noch Bauherren- oder Bauleiterpflichten. Keine zeitlose Mindesthonorarregel.
+[HOAI Anlage 10](https://www.gesetze-im-internet.de/hoai_2013/anlage_10.html), geprüft am 25.09.2026: Phase 8 umfasst auch Übergabe, Fristenliste und Überwachung der Beseitigung von Abnahmemängeln; Phase 9 spätere Mängelbewertung, Begehung vor Fristablauf und Mitwirkung bei Sicherheitenfreigabe. Buchhaltung braucht einen eigenen Auftrag. HOAI ersetzt weder Beauftragung noch Bauherren- oder Bauleiterpflichten. Keine zeitlose Mindesthonorarregel.
 
 Paragrafen 650b und 650c BGB: Änderungsbegehren, Einigung und gesetzliche Anordnung unterscheiden; nicht jeder Nachtrag erlaubt 80 Prozent Abschlag. Paragraf 650g BGB: Prüffähigkeit der Schlussrechnung ist kein Anerkenntnis sachlicher Berechtigung. VOB/B nur bei wirksamer Einbeziehung anwenden. Vergabeschwellen und Landesrecht zum Verfahrensdatum prüfen.
 

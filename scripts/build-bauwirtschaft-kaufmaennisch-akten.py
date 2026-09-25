@@ -27,7 +27,7 @@ from pypdf import PdfReader, PdfWriter
 from reportlab.lib import colors
 from reportlab.lib.styles import ParagraphStyle
 from reportlab.lib.pagesizes import A4
-from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, Table, TableStyle
+from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, Table, TableStyle, KeepTogether
 from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
 from reportlab.pdfgen import canvas
@@ -35,6 +35,7 @@ from akten_build_runtime import node_binary, serif_font_path
 from akten_docx_format import separate_section_headings
 from testakte_office_pdf import office_binary
 from readme_decimal_headings import normalize_decimal_headings
+import bauwirtschaft_buchhaltung_ergaenzung as ergaenzung
 
 ROOT = Path(__file__).resolve().parents[1]
 ASSETS = Path(os.environ.get('BAUWIRTSCHAFT_ASSETS', '/tmp/bauwirtschaft-assets'))
@@ -123,7 +124,7 @@ def doc(case, name, issuer, receiver, title, date, body, table=None):
     d.save(path(case, name))
 
 
-def pdf(case, name, issuer, receiver, title, date, body, table=None):
+def pdf(case, name, issuer, receiver, title, date, body, table=None, keep_blocks=False):
     target = path(case, name)
     normal = ParagraphStyle('body', fontName='TNR', fontSize=11, leading=14, spaceAfter=8)
     small = ParagraphStyle('small', parent=normal, fontSize=9, leading=11, spaceAfter=3)
@@ -132,7 +133,8 @@ def pdf(case, name, issuer, receiver, title, date, body, table=None):
             Paragraph(escape(receiver).replace('\n', '<br/>'), normal), Paragraph(escape(date), normal),
             Paragraph(escape(title), heading)]
     for block in body.strip().split('\n\n'):
-        flow.append(Paragraph(escape(block).replace('\n', '<br/>'), normal))
+        paragraph=Paragraph(escape(block).replace('\n', '<br/>'), normal)
+        flow.append(KeepTogether([paragraph]) if keep_blocks else paragraph)
     if table:
         width = A4[0] - 112
         t = Table([[Paragraph(escape(str(v)), small) for v in row] for row in table],
@@ -651,16 +653,44 @@ def office_metadata():
                                 el = ET.SubElement(root, f'{{{uri}}}{name}')
                             el.text = 'de-DE' if name == 'language' else 'Klotzkette'
                         data = ET.tostring(root, encoding='utf-8', xml_declaration=True)
-                    elif not has_core and entry.filename == '[Content_Types].xml':
+                    elif entry.filename == '[Content_Types].xml':
                         root = ET.fromstring(data)
-                        ET.SubElement(root, '{http://schemas.openxmlformats.org/package/2006/content-types}Override',
-                                      PartName='/docProps/core.xml', ContentType='application/vnd.openxmlformats-package.core-properties+xml')
+                        if not has_core:
+                            ET.SubElement(root, '{http://schemas.openxmlformats.org/package/2006/content-types}Override',
+                                          PartName='/docProps/core.xml', ContentType='application/vnd.openxmlformats-package.core-properties+xml')
+                        ET.register_namespace('', 'http://schemas.openxmlformats.org/package/2006/content-types')
                         data = ET.tostring(root, encoding='utf-8', xml_declaration=True)
-                    elif not has_core and entry.filename == '_rels/.rels':
+                    elif entry.filename == '_rels/.rels':
                         root = ET.fromstring(data)
-                        ET.SubElement(root, '{http://schemas.openxmlformats.org/package/2006/relationships}Relationship',
-                                      Id='rIdKlotzketteCore', Type='http://schemas.openxmlformats.org/package/2006/relationships/metadata/core-properties', Target='docProps/core.xml')
+                        if not has_core:
+                            ET.SubElement(root, '{http://schemas.openxmlformats.org/package/2006/relationships}Relationship',
+                                          Id='rIdKlotzketteCore', Type='http://schemas.openxmlformats.org/package/2006/relationships/metadata/core-properties', Target='docProps/core.xml')
+                        ET.register_namespace('', 'http://schemas.openxmlformats.org/package/2006/relationships')
                         data = ET.tostring(root, encoding='utf-8', xml_declaration=True)
+                    elif workbook.name=='55_Ergaenzungsabgleich.xlsx' and entry.filename.startswith('xl/worksheets/sheet') and entry.filename.endswith('.xml'):
+                        # Die Tabellen-API bietet keine Druckeinrichtung. Nur diese native
+                        # OOXML-Eigenschaft ergänzen; Zellen/Formeln unverändert lassen.
+                        uri='http://schemas.openxmlformats.org/spreadsheetml/2006/main'
+                        tag=lambda name:'{'+uri+'}'+name
+                        root=ET.fromstring(data)
+                        props=root.find(tag('sheetPr'))
+                        if props is None:
+                            props=ET.Element(tag('sheetPr'));root.insert(0,props)
+                        fit=props.find(tag('pageSetUpPr'))
+                        if fit is None:fit=ET.SubElement(props,tag('pageSetUpPr'))
+                        fit.set('fitToPage','1')
+                        for name,attrs in [('pageMargins',dict(left='0.3',right='0.3',top='0.35',bottom='0.35',header='0.15',footer='0.15')),
+                                           ('pageSetup',dict(paperSize='9',orientation='landscape',fitToWidth='1',fitToHeight='1'))]:
+                            el=root.find(tag(name))
+                            if el is None:
+                                el=ET.Element(tag(name))
+                                later={'headerFooter','rowBreaks','colBreaks','drawing','legacyDrawing','tableParts','extLst'}
+                                if name=='pageMargins':later.add('pageSetup')
+                                pos=next((n for n,child in enumerate(root) if child.tag.split('}')[-1] in later),len(root))
+                                root.insert(pos,el)
+                            el.attrib.update(attrs)
+                        ET.register_namespace('',uri)
+                        data=ET.tostring(root,encoding='utf-8',xml_declaration=True)
                     target.writestr(entry, data)
                 if not has_core:
                     target.writestr('docProps/core.xml', '<?xml version="1.0" encoding="UTF-8"?><cp:coreProperties xmlns:cp="http://schemas.openxmlformats.org/package/2006/metadata/core-properties" xmlns:dc="http://purl.org/dc/elements/1.1/"><dc:creator>Klotzkette</dc:creator><cp:lastModifiedBy>Klotzkette</cp:lastModifiedBy><dc:language>de-DE</dc:language></cp:coreProperties>')
@@ -716,7 +746,7 @@ def export():
 
 def readmes():
     for case, title, desc in [(WAR, 'Werkhallenbau in Warendorf', 'Privater Werkhallenbau aus Sicht der Bauherrin und des Projektcontrollings. Kostenstand, Bestellungen, Restleistungen und Zahlungsplan treffen auf eine verspätete Trafostation und noch nicht freigegebene Zusatzangebote.'),
-                              (BAD, 'Buchhaltungsprüfung in Bad Salzuflen', 'Begrenzter Rechnungs-, Leistungs- und Zahlungsabgleich eines regionalen Bauunternehmens. Der ausgewählte Stapel umfasst zwei Projekte, eine Lieferantenkorrektur, Skonto, einen Sicherheitseinbehalt und die im September gezahlten Augustlöhne.')]:
+                              (BAD, 'Buchhaltungsprüfung in Bad Salzuflen', 'Rechnungs-, Leistungs- und Zahlungsabgleich eines regionalen Bauunternehmens mit 18 unterschiedlichen Lieferantenrechnungen und drei Rechnungskorrekturen. Der ursprüngliche Stapel enthält Skonto, Sicherheitseinbehalt und Augustlöhne. Der ergänzende Stapel ab Datei 31 bringt weitere Gewerke, Material, Miete, Entsorgung und Planung sowie ein getrenntes Projektkonto, Sammelzahlung, Teilzahlung und prüfbare Buchungsvorschläge.')]:
         directory = ROOT / 'testakten' / case
         files = sorted(p.name for p in directory.iterdir() if p.is_file() and p.name[:2].isdigit())
         text = f'<!-- decimal-headings -->\n\n# {title}\n\n## Vorgang\n\n{desc} Stand: 25. September 2026, 16:00 Uhr.\n\n<!-- BEGIN gesamt-pdf-section (autogen) -->\n## Downloads\n\nDie beiden Archive sind flach; das Originalarchiv enthält zusätzlich die Gesamtlesefassung. Der Formatmix bleibt im Originalarchiv erhalten. Die Einzel-PDF-Fassung enthält jede Unterlage als eigenes Dokument.\n\n'
@@ -726,13 +756,14 @@ def readmes():
         text += f'| Originale | [Akten-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-{case}.zip) |\n'
         text += f'| Einzel-PDFs | [Einzel-PDF-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-{case}-einzelpdfs.zip) |\n\n'
         text += '<!-- END gesamt-pdf-section (autogen) -->\n\n'
-        text += f'## Bestand\n\n{len(files)} native Aktenstücke. Jede Datei bildet ein Dokument ab. Die beiden Arbeitsmappen sind bearbeitbar; E-Mail-Anhänge entsprechen den separat enthaltenen Quelldateien.\n\n| Nr. | Datei |\n| --- | --- |\n'
+        text += f'## Bestand\n\n{len(files)} native Aktenstücke. Jede Datei bildet ein Dokument ab. Die Arbeitsmappen sind bearbeitbar; E-Mail-Anhänge entsprechen den separat enthaltenen Quelldateien.\n\n| Nr. | Datei |\n| --- | --- |\n'
         text += '\n'.join(f'| {int(f[:2])} | `{f}` |' for f in files)
         text += '\n\n## Redaktion\n\nAutor: Klotzkette. Personen und Unternehmen des Sachverhalts sind erfunden. Die PNG-Dateien zeigen fachliche Bildschirmansichten des jeweiligen Falls. Die Prüfkriterien in `rubric.yaml` gehören nicht zum Export.\n'
         text += '\n## Quellenstand\n\nDie steuerlichen Fallannahmen wurden am 25. September 2026 mit den amtlichen Einzelnormen abgeglichen: '
         text += '[Paragraf 12 UStG](https://www.gesetze-im-internet.de/ustg_1980/__12.html) und [Paragraf 13b UStG](https://www.gesetze-im-internet.de/ustg_1980/__13b.html). '
         if case == BAD:
             text += 'Für den davon getrennten Bauabzug wurden [Paragraf 48 EStG](https://www.gesetze-im-internet.de/estg/__48.html) und [Paragraf 48b EStG](https://www.gesetze-im-internet.de/estg/__48b.html) geprüft. Die Bescheinigungsabschriften sind Fallunterlagen, keine tatsächlich erteilten Bescheinigungen. '
+            text += 'Vorsteuer und Rechnungskorrekturen wurden anhand [Paragraf 15 UStG](https://www.gesetze-im-internet.de/ustg_1980/__15.html) und [Paragraf 17 UStG](https://www.gesetze-im-internet.de/ustg_1980/__17.html) abgeglichen. Der Ergänzungsstapel verwendet einen eigenen Übungskontenstamm und keine zugesicherte DATEV-Schnittstelle. '
         else:
             text += 'Die Bauherrin fertigt Präzisionsteile und erbringt selbst keine Bauleistungen. Die Belege unterscheiden Nettoinvestitionen und Bruttozahlungen. '
         text += 'Rechtsprechung wird nicht verwendet.\n'
@@ -742,6 +773,7 @@ def readmes():
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--export-only', action='store_true')
+    parser.add_argument('--extension-only', action='store_true', help='Nur den Ergänzungsstapel neu erzeugen; vorhandene Ursprungsbelege erhalten.')
     parser.add_argument('--check-runtime', action='store_true')
     args = parser.parse_args()
     QA.mkdir(parents=True, exist_ok=True)
@@ -752,10 +784,12 @@ def main():
         print('PDF-, Schrift-, Office- und Tabellenlaufzeiten verfügbar.')
         return
     if not args.export_only:
-        warendorf()
-        bad_salzuflen()
+        if not args.extension_only:
+            warendorf()
+            bad_salzuflen()
+        extra = ergaenzung.build(sys.modules[__name__])
         payload = {'war':WAR, 'bad':BAD, 'root':str(ROOT), 'qa':str(QA), 'trades':TRADES,
-                   'journal':W_JOURNAL, 'invoices':B_INVOICES, 'bank':B_BANK}
+                   'journal':W_JOURNAL, 'invoices':B_INVOICES, 'bank':B_BANK, 'extra':extra, 'extra_only':args.extension_only}
         data = QA / 'model.json'
         data.write_text(json.dumps(payload, ensure_ascii=False), encoding='utf-8')
         subprocess.run([node_binary(), str(ROOT/'scripts/build-bauwirtschaft-kaufmaennisch-workbooks.mjs'), str(data)], check=True)

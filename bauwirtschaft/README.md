@@ -86,7 +86,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->
 
-Version 445.3.2. Autor / Author: Klotzkette.
+Version 445.4.0. Autor / Author: Klotzkette.
 
 Bauherr, Projektentwicklung, Bauleitung und kaufmännisches Team erhalten genau 20 ausführende Skills: Sie führen den Projektstand fort, rechnen Kosten und Zahlungen nach und erstellen die konkret benötigten Tabellen, Schreiben, Verträge oder Entscheidungsvorlagen. Der Hauptskill arbeitet selbst am Ergebnis; er ist kein bloßer Themenrouter.
 
@@ -105,6 +105,10 @@ With a clear task, work starts on the requested document or calculation. Follow-
 <!-- decimal-anchor --> <a id="vier-unterschiedliche-projektaufgaben--four-case-perspectives"></a>
 
 ## 1.7. Vier unterschiedliche Projektaufgaben / Four Case Perspectives
+
+Der [KI-Workshop Bauwirtschaft](../docs/bauwirtschaft-workshop.md) enthält direkt verwendbare Arbeitsaufträge für alle vier Akten, einschließlich einer Buchhaltungsübung mit 18 unterschiedlichen Rechnungen und getrenntem Bankabgleich.
+
+The workshop guide provides ready-to-use German assignments for all four cases, including eighteen distinct invoices and bank reconciliation.
 
 Die Downloadtabelle oben erschließt jede Akte in allen drei Fassungen. Keine Akte wird mit dem Plugin installiert. Die Unterlagen enthalten keine beigefügte Musterlösung; Stellungnahmen und Prüfvermerke einzelner Beteiligter sind Teil des streitigen oder noch offenen Projektgeschehens.
 

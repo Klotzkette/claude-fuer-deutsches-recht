@@ -1,6 +1,6 @@
 name: bauwirtschaft-buchhaltung-bauunternehmen-bad-salzuflen
 plugin: bauwirtschaft
-description: Begrenzter Belegabgleich zweier Bauprojekte mit Rechnungskopie, Skonto, Sicherheit und unzugeordneter Überweisung.
+description: Belegabgleich zweier Bauprojekte mit 18 unterschiedlichen Rechnungen, drei Korrekturen, zwei getrennten Bankkonten und noch nicht freigegebenen Buchungsvorschlägen.
 checks:
   - id: umfang
     check_type: human_review
@@ -43,3 +43,18 @@ checks:
     check_type: file_exists
     path: 25_Projektkosten_und_Bank.xlsx
     description: Bearbeitbare Projektkosten-, Lohn- und Bankmappe liegt vor.
+  - id: ergaenzungsumfang
+    check_type: human_review
+    description: Dateien 31 bis 57 als zusätzlichen Stapel mit 14 neuen Rechnungen und zwei Korrekturen behandeln. Die ursprünglichen vier Rechnungen und die Rechnungskopie bleiben getrennt erkennbar. Keine Beträge des Ergänzungsstapels ein zweites Mal in den ursprünglichen Belegen suchen.
+  - id: ergaenzungskonto
+    check_type: human_review
+    description: Projektkonto 471109 mit zehn Umsätzen und elf Rechnungszuordnungen aus 50000 EUR Anfangsbestand auf 38218,80 EUR abstimmen. Betriebskonto 471108 bleibt bei 79211,80 EUR. Die Sammelzahlung EB-0916A über 2856 EUR verteilt sich auf ST-260902 und ST-260911.
+  - id: ergaenzungsopos
+    check_type: human_review
+    description: OPOS 9999 EUR des Ergänzungsstapels aus 4800 EUR Trockenbau, 3200 EUR Sanitär, 571 EUR Restmiete und 1428 EUR Planung herleiten. Korrekturen über 238 EUR und 59,50 EUR genau einmal berücksichtigen. Unbezahlte Rechnung nicht automatisch als ungebucht oder als mangelhafte Leistung behandeln.
+  - id: buchungsvorschlaege
+    check_type: human_review
+    description: Datei 52 als noch nicht freigegebene Vorschläge mit 72 Kontenzeilen lesen. Soll und Haben je Satz, Kreditoren gegen OPOS, Bankbewegungen und Nettokosten 19580 EUR abstimmen. Fallinterne Konten und Schlüssel nicht als zertifizierten DATEV-Export bezeichnen. Bereits explizite Steuerzeilen dürfen keine weitere automatische Steuerbuchung auslösen.
+  - id: ergaenzungssteuer
+    check_type: human_review
+    description: Für die konkreten ausgeführten Bauleistungen und die dokumentierte Empfängereigenschaft RC-Umsatzsteuer sowie unter den Verwendungsannahmen RC-Vorsteuer von jeweils 1520 EUR trennen. Ausgewiesene Vorsteuer nach Rechnungskorrekturen beträgt 2200,20 EUR. Vor Zahlung an Trockenbau Vogt und Sanitär Ahle Bauabzug prüfen; fehlende Freistellung und unbekannte voraussichtliche Jahresleistungen nicht durch eine Annahme ersetzen.

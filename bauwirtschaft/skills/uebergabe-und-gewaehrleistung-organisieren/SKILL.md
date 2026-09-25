@@ -29,11 +29,13 @@ Erstelle das vollständige Protokoll und das ausgefüllte Register mit Leistung,
 
 ### 3.4. Restpunkte bis zur Erledigung fortführen
 
+Ordne bei Gebäudeplanung Übergabe und Verjährungsfristenliste den Grundleistungen der Phase 8 zu. Unterscheide im Mangelregister, ob der Mangel schon bei Abnahme festgestellt wurde: Die Überwachung seiner Beseitigung gehört ebenfalls zu Phase 8. Phase 9 sieht spätere fachliche Mängelbewertung, Begehung vor Fristablauf und Mitwirkung bei der Sicherheitenfreigabe vor; die Überwachung der Mängelbeseitigung innerhalb der Verjährungsfrist ist dort eine Besondere Leistung. Prüfe jeweils den tatsächlichen Auftrag. Die Fünfjahresgrenze seit Abnahme der Leistung für die Bewertung nach Phase 9 Buchstabe a ist keine einheitliche Anspruchsverjährung; führe beide Zeitbezüge getrennt.
+
 Erhalte Mangel- und Dokumentkennungen über Übergabe hinweg. Neue Revisionsdatei oder Fachbestätigung ersetzt denselben Eintrag mit Änderungsspur. Trenne Eingang, fachliche Prüfung und Erledigung. Sicherheitenfreigabe, Rechteverzicht oder Löschung alter Dokumente benötigen eine gesonderte Entscheidung; keine Gesamterledigung durch Routineprotokoll.
 
 ## 4. Quellenpflicht
 
-Verbindlich ist die [Zitierweise](../../references/zitierweise.md). [Fachquellen](../../references/fachquellen.md): Paragrafen 634a und 640 BGB, vertraglich einschlägige VOB/B sowie HOAI Anlage 10 Phase 9. Objektbetreuung ist keine Garantie für alle Betreiberpflichten; weitergehende Leistungen hängen vom Auftrag ab. Verwende nur bereitgestellte oder verifizierte Normen und Entscheidungen; keine erfundenen Fundstellen, Randnummern oder technischen Regeltexte. Bezeichne Abruflücken präzise.
+Verbindlich ist die [Zitierweise](../../references/zitierweise.md). [Fachquellen](../../references/fachquellen.md): Paragrafen 634a und 640 BGB, vertraglich einschlägige VOB/B sowie HOAI Anlage 10 Nummer 10.1 Phasen 8 und 9, gezielt geprüft am 25.09.2026. Objektbetreuung ist keine Garantie für alle Betreiberpflichten; weitergehende Leistungen hängen vom Auftrag ab. Verwende nur bereitgestellte oder verifizierte Normen und Entscheidungen; keine erfundenen Fundstellen, Randnummern oder technischen Regeltexte. Bezeichne Abruflücken präzise.
 
 ## 5. Ausgabeformat
 
