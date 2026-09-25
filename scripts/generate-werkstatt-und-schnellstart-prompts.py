@@ -18,11 +18,12 @@ from pathlib import Path
 from typing import Iterable
 
 from themen_profile import profile_for, ThemenProfil
+from prompt_limits import MAX_WORKSHOP_BYTES
 
 
 REPO = Path(__file__).resolve().parent.parent
 MAX_FAST = 7400
-MAX_WERKSTATT = 48 * 1024
+MAX_WERKSTATT = MAX_WORKSHOP_BYTES
 PORTABLE_EXECUTION = (
     "Nur verfügbare Werkzeuge nutzen. Ohne Datei- oder Quellenzugriff die konkrete Lücke "
     "nennen; ohne Export Text liefern, keinen Dateilink erfinden. Ohne weitere Skills "
@@ -3717,17 +3718,10 @@ def extract_norm_anchors(skill_material: list[dict[str, str]], max_items: int = 
             continue
         if re.search(r"\b\d[\d.]*\s*(?:EUR|Euro|Mio|ha)\b", line[:140]):
             continue
-        # Ordinalzahlen in ausgeschriebenen Datumsangaben sind keine Satzenden.
-        # Ohne Maskierung wird etwa "seit 1. Juli 2026" zu "seit 1" gekürzt.
-        masked_line = re.sub(
-            r"\b(\d{1,2})\.\s+(?=(?:Januar|Februar|März|April|Mai|Juni|Juli|August|September|Oktober|November|Dezember)\b)",
-            r"\1∶ ",
-            line,
-            flags=re.IGNORECASE,
-        )
-        candidate_source = SENTENCE_BOUNDARY_PATTERN.split(masked_line, maxsplit=1)[0]
-        candidate_source = candidate_source.replace("∶", ".")
-        candidate = clean(candidate_source).rstrip(" .,:;")
+        # Ein zweiter Satz kann Ausnahme, Übergang oder Rechtsfolge begrenzen.
+        # Die komplette Quellenzeile erhalten; weder Datums- noch Satzpunkte
+        # dürfen aus einem eingeschränkten Normanker eine unbedingte Regel machen.
+        candidate = clean(line).rstrip(" .,:;")
         if not candidate or not phrase_is_complete(candidate):
             continue
         key = re.sub(r"\W+", "", candidate.lower())
@@ -7212,19 +7206,18 @@ def trim_bullet_section(text: str, title_part: str, keep: int) -> str:
 
 
 def compact_werkstatt(text: str) -> str:
-    max_size = MAX_WERKSTATT
-    if byte_len(text) <= max_size:
-        return text
-    for title in ("Musterbausteine", "Qualitätskontrolle und Abschluss"):
-        text = remove_h2_section(text, title)
-        if byte_len(text) <= max_size:
-            return renumber_h2_sections(text)
-    for title, keep in (("Leitentscheidungen", 4), ("Pflichtnormen", 12), ("Fachliche Entscheidungslandkarte", 8)):
-        text = trim_bullet_section(text, title, keep)
-        if byte_len(text) <= max_size:
-            return renumber_h2_sections(text)
-    text = remove_h2_section(text, "Arbeitsweise")
-    return renumber_h2_sections(text)
+    """Bewahrt Quellen, Fachrouten und fertige Textmuster vollständig.
+
+    Die Werkstatt ist ein eigenständiger Download, kein kurzer Einstiegsprompt.
+    Ein Dateifehler wird gemeldet, statt dafür fachliche Abschnitte zu löschen.
+    Bestehende individuelle Fassungen bleiben zusätzlich hashgeschützt.
+    """
+    if byte_len(text) > MAX_WERKSTATT:
+        raise ValueError(
+            f"Werkstatt überschreitet den Dateischutz von {MAX_WERKSTATT} Bytes: "
+            f"{byte_len(text)} Bytes; keine Inhalte gekürzt"
+        )
+    return text
 
 
 def build_werkstatt(
@@ -7244,7 +7237,7 @@ def build_werkstatt(
     profile_cases = (
         []
         if profile.key == "default"
-        else list(profile.entscheidungen[:5])
+        else list(profile.entscheidungen)
     )
     extracted_norms = extract_norm_anchors(skill_material, 8)
     extracted_cases = extract_case_anchors(skill_material, 5)
@@ -7486,6 +7479,21 @@ def compact_schnellstart(text: str) -> str:
     )
     if byte_len(text) <= MAX_FAST:
         return text
+
+    # Im Mini darf die Auswahl zusätzlicher Anker enger werden. Die einzelnen
+    # Norm- und Entscheidungsaussagen einschließlich ihrer Einschränkungen
+    # bleiben dabei vollständig; Kernroute und Endprodukt bleiben erhalten.
+    for keep in (6, 5, 4):
+        text = re.sub(
+            r"(\n## 6\. Anker\n)([\s\S]*?)(?=\n## 7\. Antwortform\n)",
+            lambda match: match.group(1) + "\n" + "\n".join(
+                compact_anchor_lines(match.group(2), keep)
+            ) + "\n",
+            text,
+            count=1,
+        )
+        if byte_len(text) <= MAX_FAST:
+            return text
 
     # Kernroute und Zielprodukt sind keine entbehrlichen Kürzungsreserven.
     raise ValueError(

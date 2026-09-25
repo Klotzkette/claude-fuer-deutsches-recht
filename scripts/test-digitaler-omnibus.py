@@ -2,6 +2,7 @@
 """Sichert datierte Reformhinweise, lokale Quellen und eigenständige Prompts."""
 
 from pathlib import Path
+from prompt_limits import MAX_WORKSHOP_BYTES
 import importlib.util
 import re
 import unittest
@@ -59,7 +60,7 @@ class OmnibusTests(unittest.TestCase):
                     if kind == "schnellstart":
                         self.assertLess(len(text.encode("utf-8")), 7500)
                     else:
-                        self.assertLess(len(text.encode("utf-8")), 48 * 1024)
+                        self.assertLessEqual(len(text.encode("utf-8")), MAX_WORKSHOP_BYTES)
 
     def test_individual_review_hashes_remain_required(self):
         for plugin in PLUGINS:

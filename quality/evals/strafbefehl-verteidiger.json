@@ -15,8 +15,8 @@
     },
     {
       "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/07/rk20260715_2bvr135123.html",
-      "checked_on": "2026-09-22",
-      "supports": "BVerfG, Beschluss vom 15.07.2026, 2 BvR 1351/23, Randnummern 41 bis 54. Amtliche tragende Entscheidungsgründe gelesen. Anwendung: Tatsächliches Hindernis bei behaupteter Zwangslage in Auslieferungshaft prüfen, nicht allein Dokumentkenntnis; Verteidigerverzicht erfordert ausdrückliche konkrete Ermächtigung statt bloßer allgemeiner Anfangsvollmacht. Grenze: Zurückverweisung, keine automatische Wiedereinsetzung bei Auslandsinhaftierung; Ermächtigung kann mündlich erteilt werden. Frist, Verschulden, Tatsachenvortrag, Glaubhaftmachung und Nachholung bleiben gesondert."
+      "checked_on": "2026-09-25",
+      "supports": "BVerfG, Beschluss vom 15.07.2026, 2 BvR 1351/23, Randnummern 41 bis 54. Amtliche tragende Entscheidungsgründe gelesen. Anwendung: Tatsächliches Hindernis bei behaupteter Zwangslage in philippinischer Abschiebehaft prüfen, nicht allein Dokumentkenntnis; Verteidigerverzicht erfordert ausdrückliche konkrete Ermächtigung statt bloßer allgemeiner Anfangsvollmacht. Grenze: Zurückverweisung, keine automatische Wiedereinsetzung bei Auslandsinhaftierung; Ermächtigung kann mündlich erteilt werden. Frist, Verschulden, Tatsachenvortrag, Glaubhaftmachung und Nachholung bleiben gesondert."
     },
     {
       "url": "https://www.gesetze-im-internet.de/stpo/__410.html",
@@ -63,9 +63,10 @@
       "Elektronische Pflicht nach Paragraf 32d ausdrücklich auf anwaltlichen Einspruch und Rücknahme bezogen.",
       "Leerstart: fristwahrender Einspruch, Tagessatzhöhe oder Tatverteidigung wählen.",
       "Neue Einkommens- und Unterhaltsbelege verändern Tagessatzbewertung und Begründung; bestrittene Täterschaft bleibt eigener Angriffspunkt. Ein anderer Zustellnachweis verändert Frist und Folgeschritte.",
-      "Zahlungswunsch, bewusste Einspruchsbeschränkung, Tagessatzanzahl und Zahlungserleichterung trennen; zustimmungsabhängigen Beschlussweg von fortbestehender Ladung unterscheiden; Wiedereinsetzung und Nebenfolgen fallbezogen fortschreiben."
+      "Zahlungswunsch, bewusste Einspruchsbeschränkung, Tagessatzanzahl und Zahlungserleichterung trennen; zustimmungsabhängigen Beschlussweg von fortbestehender Ladung unterscheiden; Wiedereinsetzung und Nebenfolgen fallbezogen fortschreiben.",
+      "Quellenabgleich 25.09.2026: Haftart im Fall 2 BvR 1351/23 anhand der Randnummern 42 und 48 als philippinische Abschiebehaft präzisiert. Weitere Workflowbewertungen nicht erneut bestätigt."
     ],
-    "sha256": "3ddd06c3462afa37b6672a35b18bec272a2e8e8e38644803198748b3140c2458",
+    "sha256": "f5cc86755f8c193e12f610dc8c1fdd35b43100dbf39b3f9bada60ee2e9e52754",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -78,9 +79,10 @@
       "Elektronische Pflicht nach Paragraf 32d ausdrücklich auf anwaltlichen Einspruch und Rücknahme bezogen.",
       "Leerstart: fristwahrender Einspruch, Tagessatzhöhe oder Tatverteidigung wählen.",
       "Neue Einkommens- und Unterhaltsbelege verändern Tagessatzbewertung und Begründung; bestrittene Täterschaft bleibt eigener Angriffspunkt. Ein anderer Zustellnachweis verändert Frist und Folgeschritte.",
-      "Zahlungswunsch, bewusste Einspruchsbeschränkung, Tagessatzanzahl und Zahlungserleichterung trennen; zustimmungsabhängigen Beschlussweg von fortbestehender Ladung unterscheiden; Wiedereinsetzung und Nebenfolgen fallbezogen fortschreiben."
+      "Zahlungswunsch, bewusste Einspruchsbeschränkung, Tagessatzanzahl und Zahlungserleichterung trennen; zustimmungsabhängigen Beschlussweg von fortbestehender Ladung unterscheiden; Wiedereinsetzung und Nebenfolgen fallbezogen fortschreiben.",
+      "Quellenabgleich 25.09.2026: Haftart im Fall 2 BvR 1351/23 anhand der Randnummern 42 und 48 als philippinische Abschiebehaft präzisiert. Weitere Workflowbewertungen nicht erneut bestätigt."
     ],
-    "sha256": "9556e02debc57def23ff033addffb8c4ef7ce3d1d54035f77abcbb565ed032c8",
+    "sha256": "674db587d008559cf5430405d72b943b8c49ef2d1afb2fcc6757c6feeb802115",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -142,7 +144,7 @@
       {
         "citation": "BVerfG, Beschluss vom 15.07.2026, 2 BvR 1351/23, Randnummern 41 bis 54",
         "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/07/rk20260715_2bvr135123.html",
-        "application": "Tatsächliches Hindernis bei behaupteter Zwangslage in Auslieferungshaft prüfen, nicht allein Dokumentkenntnis; Verteidigerverzicht erfordert ausdrückliche konkrete Ermächtigung statt bloßer allgemeiner Anfangsvollmacht.",
+        "application": "Tatsächliches Hindernis bei behaupteter Zwangslage in philippinischer Abschiebehaft prüfen, nicht allein Dokumentkenntnis; Verteidigerverzicht erfordert ausdrückliche konkrete Ermächtigung statt bloßer allgemeiner Anfangsvollmacht.",
         "limit": "Zurückverweisung, keine automatische Wiedereinsetzung bei Auslandsinhaftierung; Ermächtigung kann mündlich erteilt werden. Frist, Verschulden, Tatsachenvortrag, Glaubhaftmachung und Nachholung bleiben gesondert."
       }
     ],

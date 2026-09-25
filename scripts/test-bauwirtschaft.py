@@ -7,6 +7,7 @@ import importlib.util
 import json
 import os
 from pathlib import Path
+from prompt_limits import MAX_WORKSHOP_BYTES
 import tempfile
 import unittest
 from unittest.mock import patch
@@ -120,8 +121,8 @@ class BauwirtschaftTests(unittest.TestCase):
             path = directory / f"{PLUGIN}-{kind}.md"
             data = path.read_bytes()
             self.assertGreaterEqual(len(data), 40_000 if kind == "werkstatt" else 3500)
-            self.assertLessEqual(len(data), 128 * 1024 if kind == "werkstatt" else 7500)
-            self.assertLessEqual(len(data.decode("utf-8")), 128 * 1024 if kind == "werkstatt" else 7500)
+            self.assertLessEqual(len(data), MAX_WORKSHOP_BYTES if kind == "werkstatt" else 7500)
+            self.assertLessEqual(len(data.decode("utf-8")), MAX_WORKSHOP_BYTES if kind == "werkstatt" else 7500)
             self.assertNotRegex(data.decode("utf-8"), r"\[[^\]]+\]\(\)")
             link = "download.html?path=" + path.relative_to(ROOT).as_posix()
             self.assertIn(link, (directory / "README.md").read_text())

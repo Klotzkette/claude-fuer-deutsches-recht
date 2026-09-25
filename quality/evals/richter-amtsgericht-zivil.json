@@ -15,8 +15,8 @@
     },
     {
       "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2017/03/rk20170302_2bvr097716.html",
-      "checked_on": "2026-09-22",
-      "supports": "BVerfG, Beschluss vom 02.03.2017, 2 BvR 977/16: Ablehnung der Entscheidung nach Aktenlage als Verhandlungsantrag auslegen; fehlendes Beweisangebot rechtfertigt sein Übergehen nicht. Vollständiger amtlich indizierter Text Rn. 1 bis 13 gelesen; direkter Abruf 403. Kein allgemeiner Verhandlungsanspruch außerhalb der gesetzlichen Regel, heutige Wertgrenze separat geprüft."
+      "checked_on": "2026-09-25",
+      "supports": "BVerfG, Beschluss vom 02.03.2017, 2 BvR 977/16: Ablehnung der Entscheidung nach Aktenlage als Verhandlungsantrag auslegen; fehlendes Beweisangebot rechtfertigt sein Übergehen nicht. Amtlicher Volltext am 25.09.2026 inhaltlich geprüft, Randnummern 1 bis 13 vollständig gelesen. Kein allgemeiner Verhandlungsanspruch außerhalb der gesetzlichen Regel, heutige Wertgrenze separat geprüft."
     },
     {
       "url": "https://www.gesetze-im-internet.de/zpo/__495a.html",
@@ -112,12 +112,12 @@
         "citation": "BVerfG, Beschluss vom 02.03.2017, 2 BvR 977/16",
         "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2017/03/rk20170302_2bvr097716.html",
         "application": "Ablehnung der Entscheidung nach Aktenlage als Verhandlungsantrag auslegen; fehlendes Beweisangebot rechtfertigt sein Übergehen nicht.",
-        "limit": "Vollständiger amtlich indizierter Text Rn. 1 bis 13 gelesen; direkter Abruf 403. Kein allgemeiner Verhandlungsanspruch außerhalb der gesetzlichen Regel, heutige Wertgrenze separat geprüft."
+        "limit": "Amtlicher Volltext am 25.09.2026 inhaltlich geprüft, Randnummern 1 bis 13 vollständig gelesen. Kein allgemeiner Verhandlungsanspruch außerhalb der gesetzlichen Regel, heutige Wertgrenze separat geprüft."
       }
     ],
     "remaining_limits": [
-      "Vollständiger amtlich indizierter Text Rn. 1 bis 13 gelesen; direkter Abruf 403. Kein allgemeiner Verhandlungsanspruch außerhalb der gesetzlichen Regel, heutige Wertgrenze separat geprüft.",
-      "Keine echte Verhandlung und kein Live-Modelltest; Volltext über amtlich indizierten Text, nicht über erfolgreichen Direktabruf gelesen.",
+      "Amtlicher Volltext am 25.09.2026 inhaltlich geprüft, Randnummern 1 bis 13 vollständig gelesen. Kein allgemeiner Verhandlungsanspruch außerhalb der gesetzlichen Regel, heutige Wertgrenze separat geprüft.",
+      "Keine echte Verhandlung und kein Live-Modelltest; amtlicher Volltext, Randnummern 1 bis 13, am 25.09.2026 inhaltlich geprüft.",
       "Individuelle redaktionelle Akten- und Quellenprüfung (desk review), kein Live-Client- oder Modelltest.",
       "Workflow-Vertiefung 2026-09-23: Aktuelle Grenze und Verhandlungsantrag erneut gelesen; keine neue Vollverifikation kaufrechtlicher Beweislastvarianten. Desk review; kein Live-Client-Test."
     ]

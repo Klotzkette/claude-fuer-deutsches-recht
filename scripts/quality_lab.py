@@ -22,6 +22,8 @@ from urllib.request import HTTPRedirectHandler, Request, build_opener
 from xml.etree import ElementTree
 from zipfile import BadZipFile, ZipFile
 
+from prompt_limits import MAX_MINI_BYTES
+
 ROOT = Path(__file__).resolve().parents[1]
 MAX_FILE = 8 * 1024 * 1024
 MAX_CONTEXT = 96000
@@ -332,7 +334,7 @@ def audit(root=ROOT, *, require_editorial=False, require_workflow=False):
                 validate_editorial_review(profile.get("prompt_editorial_review"), profile, name, directory, root)
             mini = directory / f"{name}-schnellstart.md"
             data = bounded_bytes(mini)
-            if not data or len(data) > 7500 or len(data.decode("utf-8")) > 7500:
+            if not data or len(data) > MAX_MINI_BYTES or len(data.decode("utf-8")) > MAX_MINI_BYTES:
                 raise LabError("Mini-Prompt leer oder über 7500 Bytes/Zeichen")
             profiles[name] = profile
         except (KeyError, ValueError, OSError, TypeError) as exc:

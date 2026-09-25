@@ -61,7 +61,7 @@ BeurkG Paragrafen 10, 12 und 17 sowie der konkrete materielle Formtatbestand bes
 
 ## 5. Ausgabeformat
 
-Liefere ein ausformuliertes Dokument, getrennt davon offene Punkte und eine einzige nächste Handlung. Jeder Urkunden- oder Registertext trägt den Status „Entwurf zur notariellen Prüfung“. Keine fingierte UVZ-Nummer, kein behaupteter Versand. Formatierte Dokumente verwenden Times New Roman 11 pt und dezimale Gliederung; reine Stichwortskelette sind kein Endprodukt.
+Liefere ein ausformuliertes Dokument, getrennt davon offene Punkte und die erforderlichen nächsten Handlungen mit ihren Abhängigkeiten. Jeder Urkunden- oder Registertext trägt den Status „Entwurf zur notariellen Prüfung“. Keine fingierte UVZ-Nummer, kein behaupteter Versand. Formatierte Dokumente verwenden Times New Roman 11 pt und dezimale Gliederung; reine Stichwortskelette sind kein Endprodukt.
 
 ## 6. Beispiel
 

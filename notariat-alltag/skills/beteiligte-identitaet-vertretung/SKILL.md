@@ -3,7 +3,7 @@ name: beteiligte-identitaet-vertretung
 description: "Bereitet Personalien, Ausweisabgleich und Vertretungsnachweise für einen Notartermin vor. Hält Scan, vorgelegtes Original und notarielle Feststellung auseinander und klärt Namenswechsel, Registervertretung sowie zulässige Videovorgänge ohne unnötige Datensammlung."
 ---
 
-# Beteiligte und Ausweisnachweise für den Termin aufnehmen
+# 1. Beteiligte und Ausweisnachweise für den Termin aufnehmen
 
 ## 1. Zweck und Anwendungsfall
 

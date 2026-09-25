@@ -3,7 +3,7 @@ name: formweg-beurkundung-beglaubigung
 description: "Ordnet für die Notariatsmitarbeiter jede konkrete Erklärung dem passenden Formweg zu: Beurkundung, Unterschriftsbeglaubigung, Abschriftsbeglaubigung oder einfache Beschlussfassung. Bereitet Termin, Nachweise und getrennte Registerunterlagen vor."
 ---
 
-# Beurkundung und Beglaubigung sicher vorbereiten
+# 1. Beurkundung und Beglaubigung sicher vorbereiten
 
 ## 1. Zweck und Anwendungsfall
 

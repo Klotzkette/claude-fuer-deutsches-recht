@@ -6,6 +6,7 @@ from __future__ import annotations
 import importlib.util
 import json
 from pathlib import Path
+from prompt_limits import MAX_WORKSHOP_BYTES
 import re
 import tempfile
 import unittest
@@ -83,8 +84,8 @@ class CompactPracticeTests(unittest.TestCase):
                 relative = f"{name}/{name}-{kind}.md"
                 raw = (ROOT / relative).read_bytes()
                 self.assertGreater(len(raw), 2500)
-                self.assertLessEqual(len(raw), 128 * 1024 if kind == "werkstatt" else 7500)
-                self.assertLessEqual(len(raw.decode()), 128 * 1024 if kind == "werkstatt" else 7500)
+                self.assertLessEqual(len(raw), MAX_WORKSHOP_BYTES if kind == "werkstatt" else 7500)
+                self.assertLessEqual(len(raw.decode()), MAX_WORKSHOP_BYTES if kind == "werkstatt" else 7500)
                 self.assertIn("download.html?path=" + relative, readme)
                 self.assertIn("download.html?path=" + relative, root_readme)
                 self.assertNotRegex(raw.decode(), r"\[[^\]]+\]\(\)")

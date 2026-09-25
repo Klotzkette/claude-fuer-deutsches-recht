@@ -31,6 +31,10 @@ Anforderungen nach GNotKG Paragraf 19 beachten: Verfahren oder Geschäft, Kosten
 
 Wenn nur der Kaufpreis berichtigt wird, betroffene Wertpositionen nachrechnen; unveränderte Fremdauslagen nicht nochmals erheben. Bei Abbruch den tatsächlichen Bearbeitungsstand und einschlägigen Tatbestand prüfen, nicht ungeprüft die geplante Beurkundung abrechnen. Einwendungen zur konkreten Position beantworten; gerichtliche Überprüfung nach Paragraf 127 gesondert dem Notar vorlegen.
 
+### 3.5. Den zeitlich richtigen Gebührenstand wählen
+
+Bei einer Gesetzesänderung richtet sich die notarielle Kostenberechnung nach [GNotKG Paragraf 134 Absatz 2](https://www.gesetze-im-internet.de/gnotkg/__134.html) grundsätzlich nach bisherigem Recht, wenn der Auftrag vor Inkrafttreten erteilt wurde. Auftragseingang und maßgebliche Änderung belegen; das Rechnungsdatum allein rechtfertigt keine Anwendung der neuesten Tabelle. Nach beantworteter Wertanfrage den Rechenweg mit Geschäftswert, KV-Nummer, Satz, Tabelle, Auslagen und Steuer vollständig neu berechnen und den Rechnungsentwurf ersetzen; alte und neue Beträge nicht vermischen.
+
 ## 4. Quellenpflicht
 
 [GNotKG](https://www.gesetze-im-internet.de/gnotkg/) einschließlich aktueller Anlagen und [Paragraf 19](https://www.gesetze-im-internet.de/gnotkg/__19.html). Quellen und Tabellenstand nach [Zitierweise](../../references/zitierweise.md) dokumentieren. Keine veralteten Pauschalgebühren aus dem Gedächtnis.

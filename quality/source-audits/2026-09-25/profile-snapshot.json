@@ -1,0 +1,1472 @@
+[
+  {
+    "plugin": "agb-recht-pruefer",
+    "profile": "quality/evals/agb-recht-pruefer.json",
+    "sha256": "b7693151b42a9158002c695e431623fd34322e34ade22c63b9c92a5fe5b5cb76",
+    "decision_assignments": 6
+  },
+  {
+    "plugin": "aktenaufbereiter-strafrecht",
+    "profile": "quality/evals/aktenaufbereiter-strafrecht.json",
+    "sha256": "102a1a2bb1da6b9b247f054003fc79028749f039ab4127e99f887ce8da606cfc",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "aktenauszug-gerichtsverfahren",
+    "profile": "quality/evals/aktenauszug-gerichtsverfahren.json",
+    "sha256": "31a9dd3115cc6555912d3043c5fab932ae9e1442d12e5669d1e4f693812ec0af",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "aktienrecht-hauptversammlung-ag-se",
+    "profile": "quality/evals/aktienrecht-hauptversammlung-ag-se.json",
+    "sha256": "c0d97411b366c318b2379f74e88bba86b495497afec7160b16d8a48979061d7d",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "anlagen-zu-schriftsaetzen",
+    "profile": "quality/evals/anlagen-zu-schriftsaetzen.json",
+    "sha256": "38cdeaa6cd8ae2bbc03e0fc845c6012b4257a7a970ffd254914d128dca6b4141",
+    "decision_assignments": 2
+  },
+  {
+    "plugin": "anwaltschaft-generell",
+    "profile": "quality/evals/anwaltschaft-generell.json",
+    "sha256": "54ca3a349f034d76966dafccca2aa405841dfd774eab9974d4054edf0db79b86",
+    "decision_assignments": 2
+  },
+  {
+    "plugin": "apothekenrecht",
+    "profile": "quality/evals/apothekenrecht.json",
+    "sha256": "2fd59dc85057785ab0597b095c8530cc4696c23fc88fecd53d36fc6a3ea2e68b",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "arbeitsrecht",
+    "profile": "quality/evals/arbeitsrecht.json",
+    "sha256": "b11caf1f8f67b4e3d9f942a3e16fba51c9644e6257d3171632a50df8ea6719e5",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "arbeitszeugnis-analyse",
+    "profile": "quality/evals/arbeitszeugnis-analyse.json",
+    "sha256": "f2b330168abeca556a4eb8c50131f9c1eb5f74cd013d729dd0f9cc7ac5ee8e8f",
+    "decision_assignments": 4
+  },
+  {
+    "plugin": "arbeitszeugnisgenerator",
+    "profile": "quality/evals/arbeitszeugnisgenerator.json",
+    "sha256": "d26285d4f1d351561d52ee061dd9b5111a785258602fdd461c3dba9191842a25",
+    "decision_assignments": 2
+  },
+  {
+    "plugin": "arbeitszeugnispruefer",
+    "profile": "quality/evals/arbeitszeugnispruefer.json",
+    "sha256": "dfde499d7dca12641d6e2a5e088e2a2187fb63f5d2a4746bc62dd23871a32287",
+    "decision_assignments": 5
+  },
+  {
+    "plugin": "aufsichtsrat-ag-se-praxis",
+    "profile": "quality/evals/aufsichtsrat-ag-se-praxis.json",
+    "sha256": "7da9d826139d59b7092314ad2efbbe0ebc0fd0d13d0b2904e1d8d229a21118d2",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "aussenwirtschaft-zoll-sanktionen",
+    "profile": "quality/evals/aussenwirtschaft-zoll-sanktionen.json",
+    "sha256": "8e2a72ec7d9e1942c2f6395eb775869de2912f67f41d0e3ac3c9d6f48a7b078b",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "bank-rechtsabteilung",
+    "profile": "quality/evals/bank-rechtsabteilung.json",
+    "sha256": "caefdf7eac682f26051cd6fa1c247f89b09fc9b16abd9caf43a3928bacc7c743",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "barrierefreiheit-web-checker",
+    "profile": "quality/evals/barrierefreiheit-web-checker.json",
+    "sha256": "28626e599263d919df2a604ecada50e49b954bd02226a12d40e96a5acfbfe548",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "bautraegervertrag-pruefer",
+    "profile": "quality/evals/bautraegervertrag-pruefer.json",
+    "sha256": "f83987ddcabe05bf675298e48d4550f4b810fbdc5d6ef200f705f831fbb6c568",
+    "decision_assignments": 2
+  },
+  {
+    "plugin": "bautraegervertragspruefer",
+    "profile": "quality/evals/bautraegervertragspruefer.json",
+    "sha256": "2bbcaff8b277cf6bc3a70fb935458903fa6dc9e4b0f51565034f4763e6eba5b3",
+    "decision_assignments": 2
+  },
+  {
+    "plugin": "bauwirtschaft",
+    "profile": "quality/evals/bauwirtschaft.json",
+    "sha256": "a9be55e094ff9af49784a8a79f4bb6fb0aa188e4277747c08631600f72c104f8",
+    "decision_assignments": 2
+  },
+  {
+    "plugin": "bav-strategie-konzern",
+    "profile": "quality/evals/bav-strategie-konzern.json",
+    "sha256": "ab9aa463385ab52f364ca9635b5ee36f75d036488bbc78887d80496d1eb9f236",
+    "decision_assignments": 2
+  },
+  {
+    "plugin": "beamtenrecht",
+    "profile": "quality/evals/beamtenrecht.json",
+    "sha256": "9da4b6ca0729b39adb153997dd47ead90960fd076ce938bbe823733c0a7ca842",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "bereicherungs-und-anfechtungsrecht-pruefer",
+    "profile": "quality/evals/bereicherungs-und-anfechtungsrecht-pruefer.json",
+    "sha256": "a1c3f3e9cf172b533df43e3796369af303c08c695555cab40333670609d91d3e",
+    "decision_assignments": 2
+  },
+  {
+    "plugin": "berichtspflichten-erlediger",
+    "profile": "quality/evals/berichtspflichten-erlediger.json",
+    "sha256": "d7335230e297fa09d2e8fcb9396c43bf8febc74d3078888d27d25fb312a80ebb",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "berufsgerichtliche-verfahren-freie-berufe",
+    "profile": "quality/evals/berufsgerichtliche-verfahren-freie-berufe.json",
+    "sha256": "dba9d2698d8f34c62b2b9f0385682e9ed614cc768b97d714902f92010ef690bd",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "berufsrecht-anwaelte",
+    "profile": "quality/evals/berufsrecht-anwaelte.json",
+    "sha256": "1fe48c7208a174dccdf741dd984e6b5925ba0aa86ead02c4f815840fe88c5480",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "berufsrecht-ki-vertragspruefung",
+    "profile": "quality/evals/berufsrecht-ki-vertragspruefung.json",
+    "sha256": "9e76a71ff853631fa43fe6af057fa9351cf94e256c8a56d7f3810032ec3c7864",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "berufsrecht-notare",
+    "profile": "quality/evals/berufsrecht-notare.json",
+    "sha256": "726f0658f3b586e518d06f68f5c1f9bcfcc4d3573d9430efabf5148a2b5f1287",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "berufsrecht-patentanwaelte",
+    "profile": "quality/evals/berufsrecht-patentanwaelte.json",
+    "sha256": "a2c8743057f98c9432b918c51b22ea15c20fd2351130b953f99362915254e1d7",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "berufsrecht-steuerberater",
+    "profile": "quality/evals/berufsrecht-steuerberater.json",
+    "sha256": "13b08f2893e15b6ea7bbe7c1ad96310a9d6bedb263c4a15572a380e880698244",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "berufsrecht-wirtschaftspruefer",
+    "profile": "quality/evals/berufsrecht-wirtschaftspruefer.json",
+    "sha256": "6f877f9ff02ebb464c91ad70e01a2021ad5812a9c8c417f0925926d505d6c5bd",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "betaeubungsmittelrecht",
+    "profile": "quality/evals/betaeubungsmittelrecht.json",
+    "sha256": "d3f2fc811c6c8bce420bfd78715a200894d0bd80c780cf1411a44ead65933a4f",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "betreuungsrecht",
+    "profile": "quality/evals/betreuungsrecht.json",
+    "sha256": "9f40e13c63298fd434e44d6726ecdd80c3979d421ae11dadf5c10e1090889d79",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "betriebskosten-hausverwaltung",
+    "profile": "quality/evals/betriebskosten-hausverwaltung.json",
+    "sha256": "2239d85391135c97e105f66517a133a53305a13ea52d0c92d338be767339e6be",
+    "decision_assignments": 6
+  },
+  {
+    "plugin": "bgb-at-pruefer",
+    "profile": "quality/evals/bgb-at-pruefer.json",
+    "sha256": "e1f582ccb5357bc01c44117b824fab7aaea239574c53c5f75c4671bd27e0e225",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "bgb-bt-pruefer",
+    "profile": "quality/evals/bgb-bt-pruefer.json",
+    "sha256": "73b7b79a94265ce8e0e6ae242d3654b31c580bd1dfc8287f0c8129693d91f3ae",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "buerokratieversteher-entbuerokratisierer",
+    "profile": "quality/evals/buerokratieversteher-entbuerokratisierer.json",
+    "sha256": "98756e14661d030f52cac1374ca7f80293f6c42b12b02651b8e8b9ed6f2e5946",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "bundesnetzagentur-verfahren",
+    "profile": "quality/evals/bundesnetzagentur-verfahren.json",
+    "sha256": "b72c017200cbfd08823f4d75ce35abe68187e68575f10cf3ada0a608365bf20f",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "bundeswehrrecht-wehrrecht",
+    "profile": "quality/evals/bundeswehrrecht-wehrrecht.json",
+    "sha256": "ce392a0eab02d15a2c93e359f8d32d9b79008d1c192c70497078d363707feb00",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "commercial-courts-deutschland",
+    "profile": "quality/evals/commercial-courts-deutschland.json",
+    "sha256": "de8a895b3251eb016b00739041b58bf295cd27b1ba5157fa669615db90c98996",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "common-law-kompass",
+    "profile": "quality/evals/common-law-kompass.json",
+    "sha256": "e0f99dc6f8f6a38c6477218869b034bdfd0ddc6550882856f09f6c0934da56bf",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "corporate-contract-law",
+    "profile": "quality/evals/corporate-contract-law.json",
+    "sha256": "a59fc0951b3a152211cee30b36f9820b491a05676a80774a3037130cf13e6bef",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "corporate-kanzlei",
+    "profile": "quality/evals/corporate-kanzlei.json",
+    "sha256": "95688c2d3b6a40d415e5f15bf96470c50bd70fbfab032783ea13f501ce394768",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "datenbankrecht",
+    "profile": "quality/evals/datenbankrecht.json",
+    "sha256": "eaac01d6fbacef0d56796971b84ae29c7718d2f81ff2a18e7b2b6ba877257961",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "datenschutz-sanktionsverfahren-verteidigung",
+    "profile": "quality/evals/datenschutz-sanktionsverfahren-verteidigung.json",
+    "sha256": "2f3d3d9cb2c795e41ed5db3d4d1deaaeb8cf46251fc522119026a49a7487d53a",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "datenschutzrecht",
+    "profile": "quality/evals/datenschutzrecht.json",
+    "sha256": "85d339100a3dc16f37027788db030b8870bd242b886bb9f94c4716c4aa3e62bb",
+    "decision_assignments": 2
+  },
+  {
+    "plugin": "denkmalschutzrecht",
+    "profile": "quality/evals/denkmalschutzrecht.json",
+    "sha256": "2defd6897f557319b62df6668dc39ef51e38bb27b3a43e7b46ef7f435f1feb6c",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "designrecht-geschmacksmusterrecht",
+    "profile": "quality/evals/designrecht-geschmacksmusterrecht.json",
+    "sha256": "87887745f6a2ef50589508776b0b060326c3cbecec01e3220748613dc8528d06",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "deutsche-rechtsgeschichte",
+    "profile": "quality/evals/deutsche-rechtsgeschichte.json",
+    "sha256": "d80cc61fc6f4750ed60902deb612d1d5072a90d7417abdc356b4d3ceb345d79b",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "dfg-foerderantrag",
+    "profile": "quality/evals/dfg-foerderantrag.json",
+    "sha256": "5d2e04715197cd387784343f4e38e291ea0ae105bdf37062663071b8092e8656",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "dsa-dma-digitalregulierung",
+    "profile": "quality/evals/dsa-dma-digitalregulierung.json",
+    "sha256": "4dc8b18eda2400862513b10b965dfba7b0887d543456f6c553ad270d3747e46a",
+    "decision_assignments": 2
+  },
+  {
+    "plugin": "ecommerce-recht",
+    "profile": "quality/evals/ecommerce-recht.json",
+    "sha256": "92def809c7210dc2bcd43e74507ab0a08f4ac443826a606c98e47ec24f3f503f",
+    "decision_assignments": 2
+  },
+  {
+    "plugin": "einfache-leichte-sprache-jura",
+    "profile": "quality/evals/einfache-leichte-sprache-jura.json",
+    "sha256": "f03bf558af10658c268d36b5bd3b6603427a7cd9b0d13f6f6d7d7d0d3434c552",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "einigungsvertrag-vermoegensrecht",
+    "profile": "quality/evals/einigungsvertrag-vermoegensrecht.json",
+    "sha256": "456d6bc1eef520c074ea4447d86fff2a6a5c14de716dfc132cde397c43a9c195",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "email-umformulierer-berufsrecht",
+    "profile": "quality/evals/email-umformulierer-berufsrecht.json",
+    "sha256": "a1693d23338c985538989d6c381c3ff3455a29150be3d181cbd4b93aa9d0910a",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "energierecht",
+    "profile": "quality/evals/energierecht.json",
+    "sha256": "35012b92bf7385dd51a4a9f253ce5126c43ffdbce61d545e821bcef599dd9bcb",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "erbbaurecht-praxis",
+    "profile": "quality/evals/erbbaurecht-praxis.json",
+    "sha256": "af461ea788a44bc0976f8e4a200c806d66cd229ea950556c5630995dad6ed51d",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "europaeisches-prozessrecht",
+    "profile": "quality/evals/europaeisches-prozessrecht.json",
+    "sha256": "e05c97d01485c40dd06bc48b0531d8c17cb0161f8eb04ea05b9c0b87d615a1dc",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "europarecht-kompass",
+    "profile": "quality/evals/europarecht-kompass.json",
+    "sha256": "f4b4210cde41374e7506a1691d6cf02f4ea1f2948cfef40e0e0839cb1f4d7084",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "fachanwalt-agrarrecht",
+    "profile": "quality/evals/fachanwalt-agrarrecht.json",
+    "sha256": "b52403cc30ad92f6cf22a11087bb5f10fedea3533f5962a838cd7fe9e0096505",
+    "decision_assignments": 4
+  },
+  {
+    "plugin": "fachanwalt-arbeitsrecht",
+    "profile": "quality/evals/fachanwalt-arbeitsrecht.json",
+    "sha256": "64d5b960007b2f0b66f2606f53502d520b6b6e995986c20e8d39b187654160b6",
+    "decision_assignments": 11
+  },
+  {
+    "plugin": "fachanwalt-bank-kapitalmarktrecht",
+    "profile": "quality/evals/fachanwalt-bank-kapitalmarktrecht.json",
+    "sha256": "5b86c5e8c2f6320f7758f9ddb5cfb2264e6fb00c77bb77a6dd58d95b098d1755",
+    "decision_assignments": 2
+  },
+  {
+    "plugin": "fachanwalt-bau-architektenrecht",
+    "profile": "quality/evals/fachanwalt-bau-architektenrecht.json",
+    "sha256": "d2133b3118d212bfd6f5ebae02990de076e43c9f23f8a280a104ddb7c0436cd5",
+    "decision_assignments": 2
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "profile": "quality/evals/fachanwalt-erbrecht.json",
+    "sha256": "4cf4e9a24431e38d8e0232f6c32b60f66dff47b6fd5433a3ab613003fe6ebc52",
+    "decision_assignments": 4
+  },
+  {
+    "plugin": "fachanwalt-familienrecht",
+    "profile": "quality/evals/fachanwalt-familienrecht.json",
+    "sha256": "f2e604eb7959ea766a7f63305d00638e3a43f3a7a52cfd7355c19fee19f47503",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "fachanwalt-gewerblicher-rechtsschutz",
+    "profile": "quality/evals/fachanwalt-gewerblicher-rechtsschutz.json",
+    "sha256": "dab39e2c4918c042a63d95f5bf9e7c5ab5a34a7a75d8f528c300dcb4ead661b8",
+    "decision_assignments": 2
+  },
+  {
+    "plugin": "fachanwalt-handels-gesellschaftsrecht",
+    "profile": "quality/evals/fachanwalt-handels-gesellschaftsrecht.json",
+    "sha256": "d971c2a3d93faa69d921910f83a7150e6bbf47e11e4198732fc4bc0974ab4c47",
+    "decision_assignments": 2
+  },
+  {
+    "plugin": "fachanwalt-insolvenz-sanierungsrecht",
+    "profile": "quality/evals/fachanwalt-insolvenz-sanierungsrecht.json",
+    "sha256": "cc6a123e4cb0991887bc1e362135065e454e53dbd8e265b30a54039ee2d21ff3",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "fachanwalt-internationales-wirtschaftsrecht",
+    "profile": "quality/evals/fachanwalt-internationales-wirtschaftsrecht.json",
+    "sha256": "265311a6ceb5866cda9d6c07c3e09fe693b925b6bf3c43bbaea2374596cfaa38",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "fachanwalt-it-recht",
+    "profile": "quality/evals/fachanwalt-it-recht.json",
+    "sha256": "e0bab4b9174eb5f3f1749e818bf7a7412aed27e962bd09dd86d4814bd23c7de8",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "fachanwalt-medizinrecht",
+    "profile": "quality/evals/fachanwalt-medizinrecht.json",
+    "sha256": "e9dc2f77e23213261be75435fcf10051dddb1cba6f41ec4b86a54553c73e16c2",
+    "decision_assignments": 2
+  },
+  {
+    "plugin": "fachanwalt-miet-wohnungseigentumsrecht",
+    "profile": "quality/evals/fachanwalt-miet-wohnungseigentumsrecht.json",
+    "sha256": "e66136e7555f90d4a5fdcb45dfc4e24dea7286e20f1f9f17226377673875e77c",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "fachanwalt-migrationsrecht",
+    "profile": "quality/evals/fachanwalt-migrationsrecht.json",
+    "sha256": "7d32c4eba2ba6955146bc8cbc2068c1c43263fbd03c645301e43e87dedafb6b4",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "fachanwalt-sozialrecht",
+    "profile": "quality/evals/fachanwalt-sozialrecht.json",
+    "sha256": "e05f4522c9bc7f831dbe4ea40d66138d0855209d04116c702c6beda6598ec992",
+    "decision_assignments": 2
+  },
+  {
+    "plugin": "fachanwalt-sportrecht",
+    "profile": "quality/evals/fachanwalt-sportrecht.json",
+    "sha256": "7a0d3737d34398c5c6625fa22f7eacb0f5818317bac195ff127347e3fb40e12d",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "fachanwalt-strafrecht",
+    "profile": "quality/evals/fachanwalt-strafrecht.json",
+    "sha256": "49d20cf5126646c46b3917b48750b2fb20d2ee0d71e3dc263bd0fba9b55d3d18",
+    "decision_assignments": 3
+  },
+  {
+    "plugin": "fachanwalt-transport-speditionsrecht",
+    "profile": "quality/evals/fachanwalt-transport-speditionsrecht.json",
+    "sha256": "8634e2b3cbb6433ddfc506dc43a20b6473b67edc8102df9a31dbe02df77edc27",
+    "decision_assignments": 2
+  },
+  {
+    "plugin": "fachanwalt-urheber-medienrecht",
+    "profile": "quality/evals/fachanwalt-urheber-medienrecht.json",
+    "sha256": "c9050c46058c64cae75d8b98d14ca16dcd7f6c3c45ba0bc2069d385f126aeb55",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "fachanwalt-vergaberecht",
+    "profile": "quality/evals/fachanwalt-vergaberecht.json",
+    "sha256": "0aeb8ac539bbb7a5dc47897662b52169bd38ec7ae8c6e9bdfd71ccbf9dd88dde",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "fachanwalt-verkehrsrecht",
+    "profile": "quality/evals/fachanwalt-verkehrsrecht.json",
+    "sha256": "415695da137e8f961dfb00603a045228b15b818753615821a004c9558f948004",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "fachanwalt-versicherungsrecht",
+    "profile": "quality/evals/fachanwalt-versicherungsrecht.json",
+    "sha256": "013bed20ed70fca1aec321384898fe6d2e2acfb0ec0bd0e68fd78941fc221bec",
+    "decision_assignments": 2
+  },
+  {
+    "plugin": "fachanwalt-verwaltungsrecht",
+    "profile": "quality/evals/fachanwalt-verwaltungsrecht.json",
+    "sha256": "8e56f878373e08f84c2f988235267a6a3f69f52b14d67a6aec100425a22410d8",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "factoring-recht",
+    "profile": "quality/evals/factoring-recht.json",
+    "sha256": "f8158b752153843169cf05ed997f1f2cf2790a86922b1295854109b05612cccb",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "fahrgastrechte",
+    "profile": "quality/evals/fahrgastrechte.json",
+    "sha256": "3fc68811b5ba9f8ee6ac15966ddb3fdf90b66930b0ad560958b9e77045037bb7",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "fashion-law-moderecht",
+    "profile": "quality/evals/fashion-law-moderecht.json",
+    "sha256": "018bd34fc841bfbc4c282ecba9a5eecd78e362e8d90ac91cf94141568b345e36",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "festlandchina-wirtschaftsverkehr",
+    "profile": "quality/evals/festlandchina-wirtschaftsverkehr.json",
+    "sha256": "2126a9be10f28028b59f0a7d8d608106dc108b9ab879d4b39ac9d0e88b5fa465",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "fluggastrechte",
+    "profile": "quality/evals/fluggastrechte.json",
+    "sha256": "08dc846f7ae664e694a6d3ffcb23fcc2cb1499ea4a90afbbab37f9444aae2263",
+    "decision_assignments": 4
+  },
+  {
+    "plugin": "forderungsmanagement-klagewerkstatt",
+    "profile": "quality/evals/forderungsmanagement-klagewerkstatt.json",
+    "sha256": "4f75f6deef4f42b7573b2feb8669ed1d65ed99df0d095636d87fc684428999f1",
+    "decision_assignments": 2
+  },
+  {
+    "plugin": "forschungszulage-antragstellung",
+    "profile": "quality/evals/forschungszulage-antragstellung.json",
+    "sha256": "236ea7cea6a6dcee674fb2d7242c7583d584a64c45aaf738e79c5509ee6f2c52",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "fortbestehensprognose",
+    "profile": "quality/evals/fortbestehensprognose.json",
+    "sha256": "80afe561fe417956cb1d2d2e32f717c443a377e7621b14677fbdbe8e6d8fd7c0",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "franchiserecht-praxis",
+    "profile": "quality/evals/franchiserecht-praxis.json",
+    "sha256": "c2edfd98749ef777558dcd267bab1ed34b2fb63f9987664db052406cc0f482e2",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "gebrauchsmusterrecht",
+    "profile": "quality/evals/gebrauchsmusterrecht.json",
+    "sha256": "57dfeca629963b7533aa08ab575f3bacce1a4b40320df33022483feaa2e3d406",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "geldwaeschepraevention-aml-kyc",
+    "profile": "quality/evals/geldwaeschepraevention-aml-kyc.json",
+    "sha256": "6fb288e733e748092c15ad09f13ec265cc889821e3f9ffd8a474d62732ae7da1",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "gesellschaftsgruender",
+    "profile": "quality/evals/gesellschaftsgruender.json",
+    "sha256": "8682ef73fed1946cc669204fd819b568b6a1975123fd2b048a73d029a5fbd81b",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "gesellschaftsrecht-legal-english",
+    "profile": "quality/evals/gesellschaftsrecht-legal-english.json",
+    "sha256": "b597ebe1e4402ae727dc2328b3b5aa690b04739f975f91b6d864e7a3e5b3d3e8",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "gesellschaftsrecht",
+    "profile": "quality/evals/gesellschaftsrecht.json",
+    "sha256": "ed96ab7536517faa1fe5cdc4a7068b31ed38ae8400fb91138ccf1e9b3ca5ad87",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "gesellschaftsrechtliche-treuepflicht",
+    "profile": "quality/evals/gesellschaftsrechtliche-treuepflicht.json",
+    "sha256": "0e134cbe09891153142aa8454c786967764d24e6569d41bb08ccbe903983d24b",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "gewerblicher-rechtsschutz",
+    "profile": "quality/evals/gewerblicher-rechtsschutz.json",
+    "sha256": "baae7ab757f94e51c284f5c85b42efe8726eef19bfbdfa08e11bf8bf55ae76a2",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "goae-gebuehrenordnung-aerzte",
+    "profile": "quality/evals/goae-gebuehrenordnung-aerzte.json",
+    "sha256": "dfb481c4e559a242fd24d30b31c22eaf7f56a48af8dd4a3d022bb577dfebea6f",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "grosskanzlei-corporate-ma",
+    "profile": "quality/evals/grosskanzlei-corporate-ma.json",
+    "sha256": "67161280bffdc432c054268dd3f4177d5ef138fd0c97a4a9a75ecbda08434bcf",
+    "decision_assignments": 2
+  },
+  {
+    "plugin": "grundbuchamt-praxis",
+    "profile": "quality/evals/grundbuchamt-praxis.json",
+    "sha256": "e7ff21ab2dc00a32422c02814bff451327bc474893ae0b559997d06ddb2a368e",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "grundsteuerrecht",
+    "profile": "quality/evals/grundsteuerrecht.json",
+    "sha256": "b778b69b31ec6f4d4c2d1aa7a234d3dd4e5080be78115a37d445de77a8f253fc",
+    "decision_assignments": 3
+  },
+  {
+    "plugin": "handelsrecht-hgb",
+    "profile": "quality/evals/handelsrecht-hgb.json",
+    "sha256": "d9c55a60ac3b10cef2647b9ba25e9684a89b3f79825d233a1d16cde3ec49595a",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "handelsregister-praxis",
+    "profile": "quality/evals/handelsregister-praxis.json",
+    "sha256": "959b70969108f9279b76266bc04cfb8ca20671ec3dded0b198432dd5137e5c5a",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "handelsvertreterrecht",
+    "profile": "quality/evals/handelsvertreterrecht.json",
+    "sha256": "1a16c614236db939d81f52a0b5b67bad80d330214eafd83e90738748367ab5b3",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "hausarbeitenmacher",
+    "profile": "quality/evals/hausarbeitenmacher.json",
+    "sha256": "dc4042d94964bd0c5b72ec35f92c495579f62e29ba1d8ea1f49498c5c2ac68a8",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "haushaltsrecht-bho-bund-laender",
+    "profile": "quality/evals/haushaltsrecht-bho-bund-laender.json",
+    "sha256": "16adc8a77c59ebd17c681f0af543328dbaf31904da3e94051fa278e712760345",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "hinweisgeberschutz-compliance",
+    "profile": "quality/evals/hinweisgeberschutz-compliance.json",
+    "sha256": "41deb1db73a42db9c3b695be47a7ca9bab2474d81bccc22d658cb34280d760df",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "hoai-leistungsphasen-praxis",
+    "profile": "quality/evals/hoai-leistungsphasen-praxis.json",
+    "sha256": "4909eed31a0ca77a08e0dcf57abb769b3f8f22f443ec06c2256b1fde4e841e5c",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "hochschulrecht-laender",
+    "profile": "quality/evals/hochschulrecht-laender.json",
+    "sha256": "324db7012d24aa1c903dfd17b29f2cfdda64100fd5dee8b2bf178605047c8f20",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "immobilienrechtspraxis",
+    "profile": "quality/evals/immobilienrechtspraxis.json",
+    "sha256": "f3fff447ac4be49564d1758a9b2026132d53bada5edd9a2af0957f9bdc144748",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "influencer-recht",
+    "profile": "quality/evals/influencer-recht.json",
+    "sha256": "0006fd46ce2297ef130191e5f0f588fbdd0fefab448ac5b260a98389e4719458",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "informationsfreiheit-presseauskunft",
+    "profile": "quality/evals/informationsfreiheit-presseauskunft.json",
+    "sha256": "278eaa938bd73c5310030944c163523d1f10ddd14435bcf26079c3e40545ca2a",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "insiderrecht-compliance",
+    "profile": "quality/evals/insiderrecht-compliance.json",
+    "sha256": "f9c8b53c1017b02da24155ed3cdb9d93edbb7d8762a97b98e6a65be33d3c7c33",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "insolvenzforderungsanmeldungspruefung",
+    "profile": "quality/evals/insolvenzforderungsanmeldungspruefung.json",
+    "sha256": "1310594ab467405daa60f1cfe14444603e34a2c5d99309b8ba88b5923c7b6c8c",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "insolvenzplan-starug-planwerkstatt",
+    "profile": "quality/evals/insolvenzplan-starug-planwerkstatt.json",
+    "sha256": "2557f3d683c9ce6fc13b2ca4cb5b37485f463ca93d9dd435643423557d5881b4",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "insolvenzrecht",
+    "profile": "quality/evals/insolvenzrecht.json",
+    "sha256": "4ebd762b3ac726ce86c9f40d57d9bbf72650fd6b1482690f9ea76e54f0e0677e",
+    "decision_assignments": 2
+  },
+  {
+    "plugin": "insolvenzverwaltung",
+    "profile": "quality/evals/insolvenzverwaltung.json",
+    "sha256": "e6364fb5fe3c7a6c6169e52633e87bf3e4eee059958624c6528372979df6df7d",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "internal-investigations-praxis",
+    "profile": "quality/evals/internal-investigations-praxis.json",
+    "sha256": "d066339136e091c682fe9c3c1f5a954d295e75999bb7be0eb4f26395ea4d1d17",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "internationales-handelsrecht-lex-mercatoria",
+    "profile": "quality/evals/internationales-handelsrecht-lex-mercatoria.json",
+    "sha256": "0ccc5fadbea41a35ee1cf90b9f32c93d994bf6fefca9716d3e3580a18bdd335c",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "jurastudium",
+    "profile": "quality/evals/jurastudium.json",
+    "sha256": "ed405a8437f99c04a1c46c50e95eabde5a96f5984140ae39d3f6a70bb7c3d96e",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "juristische-presseberichterstattung",
+    "profile": "quality/evals/juristische-presseberichterstattung.json",
+    "sha256": "ba35b359cfbf8005f2d837c0870f2dfc9003785b3e45d4bbe856a248e827174d",
+    "decision_assignments": 3
+  },
+  {
+    "plugin": "juristische-sprache-deutsch-als-zweitsprache",
+    "profile": "quality/evals/juristische-sprache-deutsch-als-zweitsprache.json",
+    "sha256": "8deaabb603e7051c45b79b1bfb86b99977e20d442830116eb764ee15e08b0456",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "jveg-kostenpruefer",
+    "profile": "quality/evals/jveg-kostenpruefer.json",
+    "sha256": "9178a4b632a6177a37dd28d299ed2e0833cfd5fb7164d4e7a67970ad2411936d",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "kanzlei-allgemein",
+    "profile": "quality/evals/kanzlei-allgemein.json",
+    "sha256": "013f6dab6c969bb56b835d293d69ad8bde79a6730b680682bb016eae54f81ebe",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "kanzlei-builder-hub",
+    "profile": "quality/evals/kanzlei-builder-hub.json",
+    "sha256": "4d24d4a31b53db7312c727ef7aff9bcf0fb42b2f2434a2b598f45ab857d7c3b4",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "kanzlei-management",
+    "profile": "quality/evals/kanzlei-management.json",
+    "sha256": "dfe3db1372ba68bd95f1da32aa2549226d3d7d922a03f73a2e795ca674c19d1b",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "kanzlei-mandant-lifecycle",
+    "profile": "quality/evals/kanzlei-mandant-lifecycle.json",
+    "sha256": "f56dd5863e94534fb871d63891e4b04bcab560e915e39f0b751e86840d8dd49d",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "kartellrecht-marktabgrenzung-pruefung",
+    "profile": "quality/evals/kartellrecht-marktabgrenzung-pruefung.json",
+    "sha256": "155e57b0fe320da2dbf0105bfed9d394181f0cbe2e4da85074434560570ce3ff",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "ki-governance",
+    "profile": "quality/evals/ki-governance.json",
+    "sha256": "567c8bd9149b6b47cce5cc9e13f05fbfb300231fca3ad1e850d5ad00bca14b13",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "ki-richtlinie-kanzleien",
+    "profile": "quality/evals/ki-richtlinie-kanzleien.json",
+    "sha256": "08bae3166e84a201aba1146990046517fb634b07579819f72a903275cd784ea7",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "ki-vo-ai-act-pruefer",
+    "profile": "quality/evals/ki-vo-ai-act-pruefer.json",
+    "sha256": "5b487a4e45abfc02a6455ae3413bb6bac5f0ca86c90e9e0ff49052072040f16d",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "kommunalrecht-laender",
+    "profile": "quality/evals/kommunalrecht-laender.json",
+    "sha256": "466ef0f4c7449801a94524c7656d29ae8cbdb9b0c4fa2f159017607e0247ac89",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "krankenhausrecht",
+    "profile": "quality/evals/krankenhausrecht.json",
+    "sha256": "fac69dc2f91ce2dac0f340b3fb98a1f298d24cd43a7053f21e5475a9b8aaaaee",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "krankenkassenrecht-krankenversicherung",
+    "profile": "quality/evals/krankenkassenrecht-krankenversicherung.json",
+    "sha256": "ff29540ad35442eab122a225f9c451ae65f1836f426126de2a794cc6e70173b9",
+    "decision_assignments": 2
+  },
+  {
+    "plugin": "kriegsdienstverweigerung-wehrdienst",
+    "profile": "quality/evals/kriegsdienstverweigerung-wehrdienst.json",
+    "sha256": "936b1c5543d019c6107cced1b3f6a98983df3da72a2d5739d6f12bb56c57b64c",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "krisenfrueherkennung-starug",
+    "profile": "quality/evals/krisenfrueherkennung-starug.json",
+    "sha256": "2208adec7a06527c70f4ba0bf4d944f84a19cc21866db01ff5be7e6e4576860c",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "leasingrecht-praxis",
+    "profile": "quality/evals/leasingrecht-praxis.json",
+    "sha256": "3e25000dbddf1ba4d56f1e43a1ab67c28d05d4fa826c0b70bd7c24ebf5ef1230",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "legistik-werkstatt",
+    "profile": "quality/evals/legistik-werkstatt.json",
+    "sha256": "65df04d476b5d525d2effa35557da8cffc49cc91c7463ee35aac0bb4fddc4264",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "liquiditaetsplanung",
+    "profile": "quality/evals/liquiditaetsplanung.json",
+    "sha256": "e60438c955976bac82f036832c16e6286f1a935d4e192569639b45b89c2c6018",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "lizenzvertragsersteller",
+    "profile": "quality/evals/lizenzvertragsersteller.json",
+    "sha256": "fc35585a91e719e23b2fc03681d58bc1130a44a6171a80d30b33c4dd7a07ca4a",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "lobbyregister-bundestag",
+    "profile": "quality/evals/lobbyregister-bundestag.json",
+    "sha256": "ebccc613f96ed65a724ec9f90ad5b714124c2e314510409a789842008bf7e27b",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "luftrecht-flughafenrecht",
+    "profile": "quality/evals/luftrecht-flughafenrecht.json",
+    "sha256": "eaf326ba83fabe2ecf1951343dab39ec1513da7951ce99c521339b773629fb49",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "mandantenanfragen-assistent",
+    "profile": "quality/evals/mandantenanfragen-assistent.json",
+    "sha256": "0617a501f63ffdd5f7da73b7fe2bb261115f6b34f9df5ca18b09302cce114dc7",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "markenrecht-fashion-luxus",
+    "profile": "quality/evals/markenrecht-fashion-luxus.json",
+    "sha256": "0cea62c9b7cf33acd72cfde0e734022d2ccc3843a2b9d2596423415c0b8899b8",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "meinungspruefer",
+    "profile": "quality/evals/meinungspruefer.json",
+    "sha256": "a79c908b790b7f51bc8da7647b5234f903ae9f1c18c4def8230d7a7258bc36f9",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "memorandums-ersteller",
+    "profile": "quality/evals/memorandums-ersteller.json",
+    "sha256": "da1784f11e50326c685fbcc42d7c1ce0421b2aaa060ecabb9d170acfd3a5b439",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "methodenlehre-buergerliches-recht",
+    "profile": "quality/evals/methodenlehre-buergerliches-recht.json",
+    "sha256": "30aa85c96b11eca1846ee283c33036516a427b2555dc48437143ffb137fb4205",
+    "decision_assignments": 2
+  },
+  {
+    "plugin": "mietrecht",
+    "profile": "quality/evals/mietrecht.json",
+    "sha256": "738ec0bea0e5865be499c588acc77551c0e67f4feae404e545c18fa546828b59",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "mittelstand-corporate-ma",
+    "profile": "quality/evals/mittelstand-corporate-ma.json",
+    "sha256": "a5f190b936dfa3dca5919781732247fd98d4b99366ae65a32029c4fb1d5cbaa8",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "nachbarschaftsstreit-pruefer",
+    "profile": "quality/evals/nachbarschaftsstreit-pruefer.json",
+    "sha256": "f9ec0b29cc3c0c6d76478830f36583cbc87c9d0391e9c9b27e3893ff3bdc30c8",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "nda-abgleich",
+    "profile": "quality/evals/nda-abgleich.json",
+    "sha256": "bb7c36bf019774da0979980026334a01bbf83888f7e8a1d618a97f7984ed86f6",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "nda-verschwiegenheit-generator-checker",
+    "profile": "quality/evals/nda-verschwiegenheit-generator-checker.json",
+    "sha256": "81b9d6d93ffeb954a76977b32fb0e59e0734fc20a46e70f98ff36dda767f4103",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "nis2-cybersecurity-compliance",
+    "profile": "quality/evals/nis2-cybersecurity-compliance.json",
+    "sha256": "ce6410099422c3a4c8df877c9081d7d95a027748f419c117d82b4854b306e7e0",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "normenkontrolle-bauleitplanung",
+    "profile": "quality/evals/normenkontrolle-bauleitplanung.json",
+    "sha256": "251aae0ca5558a7c83ab47b93bf06387289a361677c966dba84c85f0ad792c3b",
+    "decision_assignments": 2
+  },
+  {
+    "plugin": "normenkontrollrat-nkr",
+    "profile": "quality/evals/normenkontrollrat-nkr.json",
+    "sha256": "7c10b6a32a6c6a368ff9cb800e0bc0ac36ebeaec58cafeca5ee210a148040c9e",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "notariat-alltag",
+    "profile": "quality/evals/notariat-alltag.json",
+    "sha256": "336c81d86c90a289de8c5d47adfabe34cc88e93123305f1825a9a6b633e089b8",
+    "decision_assignments": 4
+  },
+  {
+    "plugin": "oeffentliches-wirtschaftsrecht",
+    "profile": "quality/evals/oeffentliches-wirtschaftsrecht.json",
+    "sha256": "5e44d54114391e821e725fe9c80d51cc2abac4a79cceff44d492408e28bff027",
+    "decision_assignments": 2
+  },
+  {
+    "plugin": "ordnungswidrigkeitenrecht",
+    "profile": "quality/evals/ordnungswidrigkeitenrecht.json",
+    "sha256": "d5756a12f4ed734643e85504827e644a0035896102ba52428b7a556ce3554834",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "parteienrecht-parteiorganisation",
+    "profile": "quality/evals/parteienrecht-parteiorganisation.json",
+    "sha256": "87a3681313dcb73e5e261a0f567234a3a3e134250d9ad85eae402043d4b15fec",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "patentrecherche",
+    "profile": "quality/evals/patentrecherche.json",
+    "sha256": "fc248c0d9f4e8b3bfe7d6e44b1d3ef171fec856c78fd2be505f7eb2b195e38be",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "patentrecht",
+    "profile": "quality/evals/patentrecht.json",
+    "sha256": "e7f44e43b13aff902f9850fbd48ef8c524dbc5fc10e06c7379d48ad94a6b046f",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "phishing-vorfall-pruefer",
+    "profile": "quality/evals/phishing-vorfall-pruefer.json",
+    "sha256": "1e5722e535a7416df2dc6137fb88289422d0b761d5b9287cfc41700d45891202",
+    "decision_assignments": 2
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "profile": "quality/evals/preussisches-allgemeines-landrecht-pralr.json",
+    "sha256": "28c7bd5adff9629381b811fedd9bb1b603385134b4b72a8ebf750ac191c878a7",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "private-equity-praxis",
+    "profile": "quality/evals/private-equity-praxis.json",
+    "sha256": "3eef2c218102155f4a3b06849a3d4aad0a97e367874f0a4a2ef723642e2cdb80",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "produktrecht",
+    "profile": "quality/evals/produktrecht.json",
+    "sha256": "f4759f98bfeb3701607c0a5790913b86aa2be2b8a671072832cdd22fcd58f6b7",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "prozessrecht",
+    "profile": "quality/evals/prozessrecht.json",
+    "sha256": "42af637b0df41bbd6cd69d555169cd4afdb4afbfd1ca68e1b9807dbde6d8f5ae",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "pruefungsrecht-hochschule",
+    "profile": "quality/evals/pruefungsrecht-hochschule.json",
+    "sha256": "8c162a15f6ff7e59306656cb26f9549a75961ecdcf10e91faf90fbca202424cb",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "rechtsberatungsstelle",
+    "profile": "quality/evals/rechtsberatungsstelle.json",
+    "sha256": "19701a866338909d28e46d95f9ac5407eff5c212dcd9720afaea18672e0716e9",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "rechtstheorie-rechtsphilosophie",
+    "profile": "quality/evals/rechtstheorie-rechtsphilosophie.json",
+    "sha256": "47426bef9b95e4046fe4f72f1eaddb55d8eeb22e63392328cf9ca4ec3f43a062",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "regulatorisches-recht",
+    "profile": "quality/evals/regulatorisches-recht.json",
+    "sha256": "43ba49aa154b7b7d4b2b2703095688729b3848e9984b5ea2e649a665cdeae306",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "relationstechnik-zivilrecht",
+    "profile": "quality/evals/relationstechnik-zivilrecht.json",
+    "sha256": "5ab2ac1767f47a295c7c73f04d4b9d13a00e863d342938e8b66d880c2be55733",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "rentenpruefer",
+    "profile": "quality/evals/rentenpruefer.json",
+    "sha256": "7ecfaf7aca5e742c0c19c22ef49e25a0c2a7bf36c774397e65cf09907a93be50",
+    "decision_assignments": 2
+  },
+  {
+    "plugin": "richter-amtsgericht-handelsregister",
+    "profile": "quality/evals/richter-amtsgericht-handelsregister.json",
+    "sha256": "b6bd9c3b2f0273fbd326eb3342b582887d8fde88074fd2e011fbe9df5b207180",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "richter-amtsgericht-insolvenz-restrukturierung",
+    "profile": "quality/evals/richter-amtsgericht-insolvenz-restrukturierung.json",
+    "sha256": "301a339615b0aa83a475082069ae9ac2a2bc8c08107bebe364b326da1b8c3b45",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "richter-amtsgericht-straf",
+    "profile": "quality/evals/richter-amtsgericht-straf.json",
+    "sha256": "a368429b00ecdbbbc283cdf590e0c30f931c4989ce94169cf96d14ddf469563e",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "richter-amtsgericht-zivil",
+    "profile": "quality/evals/richter-amtsgericht-zivil.json",
+    "sha256": "62efcb9fcc1d2c306581d26352a3ce6087ccada20965ac2811a4d915a54a3bf5",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "richter-arbeitsgericht",
+    "profile": "quality/evals/richter-arbeitsgericht.json",
+    "sha256": "b33bfee2a301cb3a7255a2efec8366c2aca9a08ad147da7414e7be7e9ebc5cf8",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "richter-bverfg-verfassungsbeschwerden",
+    "profile": "quality/evals/richter-bverfg-verfassungsbeschwerden.json",
+    "sha256": "f6b975b3dacba437bc3b9c315ead5decdd410daa41a166ee0cc4fba34a261f8d",
+    "decision_assignments": 2
+  },
+  {
+    "plugin": "richter-familiengericht",
+    "profile": "quality/evals/richter-familiengericht.json",
+    "sha256": "0c1d78eb724e6813c39d0436b081fe3d2bb3102e9fcfc011695c52ec4244e797",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "richter-finanzgericht",
+    "profile": "quality/evals/richter-finanzgericht.json",
+    "sha256": "fdba0863151ec4aa5604cfe27da0b8348afc11f89ced2d71cfbe148c11a7b1b9",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "richter-landgericht-strafkammer",
+    "profile": "quality/evals/richter-landgericht-strafkammer.json",
+    "sha256": "4c648cf263385b6210ba42e521aadda7e62e3850418a467e48b542da200ab76c",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "richter-landgericht-zivilkammer",
+    "profile": "quality/evals/richter-landgericht-zivilkammer.json",
+    "sha256": "b68bc794660979cb9a42720a4094dd4c52693e23bdfdbc54f9e82eca55442fea",
+    "decision_assignments": 2
+  },
+  {
+    "plugin": "richter-sozialgericht",
+    "profile": "quality/evals/richter-sozialgericht.json",
+    "sha256": "b0e590e7432a81dad6b1db1f7cd417439030f68ac4aca13503348eaebee92a19",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "richter-verwaltungsgericht",
+    "profile": "quality/evals/richter-verwaltungsgericht.json",
+    "sha256": "6435325eeccaa12102d22456b442d5613100e37f744988f7bb99d906ce4e610e",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "robotik-recht",
+    "profile": "quality/evals/robotik-recht.json",
+    "sha256": "5172ab4a3ef1321693b3470dd1922f958d74492dce5dd09a93607f45f58f5c2e",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "roemisch-katholisches-kirchenrecht",
+    "profile": "quality/evals/roemisch-katholisches-kirchenrecht.json",
+    "sha256": "e4ad51ddddb320a0ba49a28e07935812ee4666f16f5ece5cbb744fea4c433c25",
+    "decision_assignments": 3
+  },
+  {
+    "plugin": "roemisches-recht",
+    "profile": "quality/evals/roemisches-recht.json",
+    "sha256": "132806b3c6238f775cf5653cceb88d03038c8ea9f8a0a95ff7903d2709cba45b",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "schadensregulierung",
+    "profile": "quality/evals/schadensregulierung.json",
+    "sha256": "17e5d102c2f3af2da0d68ccbcb7f163dc80b1f39327283a30bb92de6c93ecade",
+    "decision_assignments": 3
+  },
+  {
+    "plugin": "schoeffen-handelsrichter-praxis",
+    "profile": "quality/evals/schoeffen-handelsrichter-praxis.json",
+    "sha256": "256b07ead5205f8ef72cf97a5b06c25b7a237cb94cf3c2255d605adf7f01751c",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "schriftform-und-textform-bgb",
+    "profile": "quality/evals/schriftform-und-textform-bgb.json",
+    "sha256": "5bfd8c0444016a47cb77cb23d8af184d69540011c72b350c7e104c3d2ff7d6af",
+    "decision_assignments": 2
+  },
+  {
+    "plugin": "schriftsatz-versandwerkstatt",
+    "profile": "quality/evals/schriftsatz-versandwerkstatt.json",
+    "sha256": "5a9f4a953cd955db22bc6a9008bafba241c491b2988aacf57ba20497ef66eb35",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "schulrecht-laender",
+    "profile": "quality/evals/schulrecht-laender.json",
+    "sha256": "81c3678445b85bd8cf43ba9ab8ce0a5d051ee73b51ee5ce5e14fa908eefa5f7b",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "seerecht-schifffahrtsrecht",
+    "profile": "quality/evals/seerecht-schifffahrtsrecht.json",
+    "sha256": "69dd2f2b6874fa9152404d1afb4f190dd88c3d6809a94b8e52bf913993daaa23",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "selbstvertreter-amtsgericht",
+    "profile": "quality/evals/selbstvertreter-amtsgericht.json",
+    "sha256": "5a922c7d539e9522db8b890f234b918b14b1668eb21c46c955ef3d960dfeef23",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "selbstvertreter-sozialgericht",
+    "profile": "quality/evals/selbstvertreter-sozialgericht.json",
+    "sha256": "5ddb4f5d636dbdc04de9e35da74db35cdc84367529dd26a2ad73e1e4dbc952d6",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "softwarerecht-de-eu-us",
+    "profile": "quality/evals/softwarerecht-de-eu-us.json",
+    "sha256": "928c43bf2d4e14a2ee2203f2e32141793fc6e9a27dba0b5a50dc89aa2ba52a49",
+    "decision_assignments": 2
+  },
+  {
+    "plugin": "solo-selbststaendige-praxis",
+    "profile": "quality/evals/solo-selbststaendige-praxis.json",
+    "sha256": "4ee347c237e984a5940422aad02f8d93f101d7b0bba55d6325d2905b37ea398b",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "sozialversicherungsstatus-pruefer",
+    "profile": "quality/evals/sozialversicherungsstatus-pruefer.json",
+    "sha256": "82b645963befa18e83e9af1c0a584ebdf46651d1718345855dc74ee7d5349a46",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "staatsanwaltschaft-amtsanwaltschaft",
+    "profile": "quality/evals/staatsanwaltschaft-amtsanwaltschaft.json",
+    "sha256": "e05f50b36af8850474e60fdcc1f1ffd62be9d593103a40bfd517fe791918fc3a",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "staatsanwaltschaft-praxis-einstieg",
+    "profile": "quality/evals/staatsanwaltschaft-praxis-einstieg.json",
+    "sha256": "cfe43c775991e0d04a98d963fa1c498d51a6ac2126a6bcdfe3c8faa717c25025",
+    "decision_assignments": 2
+  },
+  {
+    "plugin": "startup-hr-personalabteilung-berlin",
+    "profile": "quality/evals/startup-hr-personalabteilung-berlin.json",
+    "sha256": "8d4615a19ff4e2cd63b1f063f6a736eff14cb289745ba0ca8bdb2ab8711b1aef",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "status-navigator-step-plan",
+    "profile": "quality/evals/status-navigator-step-plan.json",
+    "sha256": "22a7e9ce8090995d6628ee63ef71b509dae8111bdaa139c87c4a4b17d9151e7e",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "steuerrecht-anwalt-und-berater",
+    "profile": "quality/evals/steuerrecht-anwalt-und-berater.json",
+    "sha256": "b199a60e60c48e31c8d01523d669bfdc1dc5c115a001e00bbe60ef9121f4cdc8",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "strafanzeige-vorbereiter",
+    "profile": "quality/evals/strafanzeige-vorbereiter.json",
+    "sha256": "3e6589fcfb23e2aab1970ae26ea4aea08d24adac4ab7b8ef5dec65e7478b73ec",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "strafbefehl-verteidiger",
+    "profile": "quality/evals/strafbefehl-verteidiger.json",
+    "sha256": "f80c8b06c6ce71efb4e22ae9d451b5415e28158a536b26a645f8309746fb62e3",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "strafzumessung",
+    "profile": "quality/evals/strafzumessung.json",
+    "sha256": "d1f8224c895e7fcdaa0c939c5b3a2bd91310f6d09b0530059af6b566e7f2709a",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "strassennutzung-genehmigungen",
+    "profile": "quality/evals/strassennutzung-genehmigungen.json",
+    "sha256": "c4dee771bfa980e4c4c0c529da610972240e381470fe36bd19fbcd7e849b84c7",
+    "decision_assignments": 5
+  },
+  {
+    "plugin": "strassenrecht-infrastruktur",
+    "profile": "quality/evals/strassenrecht-infrastruktur.json",
+    "sha256": "f0d471fca4079bddd61209f13e639eccbb28791315d3c16caf8766b3a4016d97",
+    "decision_assignments": 2
+  },
+  {
+    "plugin": "strassenverkehrsrecht-stvo",
+    "profile": "quality/evals/strassenverkehrsrecht-stvo.json",
+    "sha256": "3d88c02a3a873f2382c0ab098d4631d06c67e35ce9ce21dedc3b826ca02a7ec1",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "subsumtions-pruefer",
+    "profile": "quality/evals/subsumtions-pruefer.json",
+    "sha256": "953a5bec6edb252169d89edebbb583a71ce5ecf066aabcea1347f0b703a0d041",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "tabellenreview-3d",
+    "profile": "quality/evals/tabellenreview-3d.json",
+    "sha256": "6da264affca852e9eb41585caecb74eae6c6e23267ae527171b4285e811e86d8",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "telekommunikationsrecht",
+    "profile": "quality/evals/telekommunikationsrecht.json",
+    "sha256": "6ae1f9c951e6e469bdc1e0db08d568a0ee130820df47b1769b08f6e0723d8550",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "tierschutzrecht",
+    "profile": "quality/evals/tierschutzrecht.json",
+    "sha256": "b9d11ab8cbd0879c841ff1a2327b99654b465382d876a9953e868c6d4d98e74c",
+    "decision_assignments": 2
+  },
+  {
+    "plugin": "umweltrecht",
+    "profile": "quality/evals/umweltrecht.json",
+    "sha256": "6b816342d2789e981fbef8781a5a13aa8609bf93b44254d156de325a30da0a23",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "umweltschutzverband-verbandsklage",
+    "profile": "quality/evals/umweltschutzverband-verbandsklage.json",
+    "sha256": "9e33cc6237b71d1fc178eaadc135617c801b21cc891fab2301f05626a8d92d7f",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "urheberrecht-de-eu",
+    "profile": "quality/evals/urheberrecht-de-eu.json",
+    "sha256": "fb0f6e332c11b739f923efc839a8bc39d5e50661cb9bd96b443c998ae5c4c21e",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "urteilsbauer-relationsmacher",
+    "profile": "quality/evals/urteilsbauer-relationsmacher.json",
+    "sha256": "aaed41d5e1d42891b237d18e37b844b30ac0d006eb067bc0765e4f24d6b06ea8",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "us-bankruptcy-code",
+    "profile": "quality/evals/us-bankruptcy-code.json",
+    "sha256": "653ed9981cd888bd81d227c3e1445d5283889e42549b7a65382de251e920856b",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "us-copyright-registrierung-verlag",
+    "profile": "quality/evals/us-copyright-registrierung-verlag.json",
+    "sha256": "0545494d1209abc684e06cfbd8a67915db3e8564ab9b15937196dfda6e261216",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "venture-capital-geber",
+    "profile": "quality/evals/venture-capital-geber.json",
+    "sha256": "e80b993be02333644b58e64672f2d2a5b33668bfc5041a85ceb032fd14a3d194",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "verbraucher-rechtsstaat-alltag",
+    "profile": "quality/evals/verbraucher-rechtsstaat-alltag.json",
+    "sha256": "f2e47ee0cdee2dc3a4614be222df128f47cf2b8143dc32932dab891f5e64f0ec",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "verbraucherinsolvenz-schuldenbereinigung",
+    "profile": "quality/evals/verbraucherinsolvenz-schuldenbereinigung.json",
+    "sha256": "9d7b18986b9e6539566db388ee1896e9f4271621440836255733ceb948f53c02",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "verbraucherschutzrecht-pruefer",
+    "profile": "quality/evals/verbraucherschutzrecht-pruefer.json",
+    "sha256": "aae5f4aa8daaa8261d309b51d50f44c930dfd3e9bc8e2700cafff04006b98605",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "verbraucherschutzverband-durchsetzung",
+    "profile": "quality/evals/verbraucherschutzverband-durchsetzung.json",
+    "sha256": "cad7bed56f904040f4b17d34c4c1ef1b8ba538d5682df3ca171d8f51d9fea9ae",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "vereinsrecht-vereinsmanager",
+    "profile": "quality/evals/vereinsrecht-vereinsmanager.json",
+    "sha256": "2ebc289d4a628f6a97cc054dae41b3814bc686cd752048240a4e2e9eb9ab8913",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "verfassungsrecht",
+    "profile": "quality/evals/verfassungsrecht.json",
+    "sha256": "10c8155d7d1d1e023d6964bcb9745e1306f83279670c252c5a43957a0d312d5c",
+    "decision_assignments": 2
+  },
+  {
+    "plugin": "verhaeltnismaessigkeitspruefer",
+    "profile": "quality/evals/verhaeltnismaessigkeitspruefer.json",
+    "sha256": "836b509649643067686845467c56856d279b7aa0b93e39d239dd17acc42ec8b5",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "verkehr-infrastrukturrecht",
+    "profile": "quality/evals/verkehr-infrastrukturrecht.json",
+    "sha256": "56152d094229ddb95671fe60a72cce812677da6644a201daafe35b310c94a0c2",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "verkehrsowi-verteidiger",
+    "profile": "quality/evals/verkehrsowi-verteidiger.json",
+    "sha256": "0e59552b38f69f8f06fe21946003003ea8c14426d86b432a72d69a9b70d79acb",
+    "decision_assignments": 2
+  },
+  {
+    "plugin": "verlagsrecht-buchpreisbindung",
+    "profile": "quality/evals/verlagsrecht-buchpreisbindung.json",
+    "sha256": "e52a5a27a8fc4b898030e613c963a43fd103d31e5492bd1dcbc7ddcc10afe587",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "verlagsredaktion",
+    "profile": "quality/evals/verlagsredaktion.json",
+    "sha256": "b5eff02508baeb1fa8f05eb6c5466998f530cf3cd64cb5e12e5d237104a5ba3f",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "versammlungsrecht",
+    "profile": "quality/evals/versammlungsrecht.json",
+    "sha256": "dc2a4513b22542061e70f28bf5bd6fac97fcb3345f8cb12c36ad610efcdaf9ec",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "versicherungsrecht",
+    "profile": "quality/evals/versicherungsrecht.json",
+    "sha256": "7ed59f05ecb3be6c672fb288313099de6af9288404deda8557a615f34df31799",
+    "decision_assignments": 2
+  },
+  {
+    "plugin": "vertragsausfueller",
+    "profile": "quality/evals/vertragsausfueller.json",
+    "sha256": "3a9a5a7333a22262432a7ca77e87bff4f0659f65e97753737572bcfa67723c1c",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "vertragserstellung",
+    "profile": "quality/evals/vertragserstellung.json",
+    "sha256": "d317d73189ac0203aef59c8c65b1302655ccd98b86064e182560fb5bcb278322",
+    "decision_assignments": 2
+  },
+  {
+    "plugin": "vertragsrecht",
+    "profile": "quality/evals/vertragsrecht.json",
+    "sha256": "41298472ed89247c772e19fc4259dc9df8b7a10bcfa5fa462803d34b76431cd5",
+    "decision_assignments": 2
+  },
+  {
+    "plugin": "wahlkampfrecht-praxis",
+    "profile": "quality/evals/wahlkampfrecht-praxis.json",
+    "sha256": "aeddd23333a7cd5bbd00f94692b7587239a609574e70de5875bd4e55e062a22b",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "wandeldarlehen-lebenszyklus",
+    "profile": "quality/evals/wandeldarlehen-lebenszyklus.json",
+    "sha256": "78dd3d0a90d3caa7b7b1a130f92a8718f14fbe2bc70c5196dade19d3894a0d23",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "weg-hausverwaltung",
+    "profile": "quality/evals/weg-hausverwaltung.json",
+    "sha256": "7265a3bfdc021d5975fd3dc309862b8c2dfa74cf79906c6975ba4d398cf69dc0",
+    "decision_assignments": 2
+  },
+  {
+    "plugin": "weltraumrecht",
+    "profile": "quality/evals/weltraumrecht.json",
+    "sha256": "7aa25aa437afe66cf60fa32dd4300112c342008421dea4345761fb1329f2482b",
+    "decision_assignments": 2
+  },
+  {
+    "plugin": "wirtschaftsanwalt",
+    "profile": "quality/evals/wirtschaftsanwalt.json",
+    "sha256": "5e436a9804bb9655352e7194640b6ff1d438ce1e58770a12abc56de961bd1c37",
+    "decision_assignments": 2
+  },
+  {
+    "plugin": "word-legal-ai-plugin-and-skill-for-german-lawyers",
+    "profile": "quality/evals/word-legal-ai-plugin-and-skill-for-german-lawyers.json",
+    "sha256": "10c891e23d26d03eb0456a304946304d4505bac12a41dac89a97f38ffd3ef026",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "zitierweise-deutsches-recht",
+    "profile": "quality/evals/zitierweise-deutsches-recht.json",
+    "sha256": "2ac5d8f09e7294ad8e303fd72af01acc7a10972ff6de8d306376bbe9d6c6b2ea",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "zugewinnausgleich",
+    "profile": "quality/evals/zugewinnausgleich.json",
+    "sha256": "49f37695558b1ac1dfe3383ac9d456dfc5c2838ba8394897736771bdd1fe6733",
+    "decision_assignments": 3
+  },
+  {
+    "plugin": "zwangsverwaltung-zvg",
+    "profile": "quality/evals/zwangsverwaltung-zvg.json",
+    "sha256": "0f4f846092480c00b197a6aaac58619992469aa58d0458ff47e4b9faba6f0d03",
+    "decision_assignments": 1
+  },
+  {
+    "plugin": "zwangsvollstreckung",
+    "profile": "quality/evals/zwangsvollstreckung.json",
+    "sha256": "352c1f65d3ae56d831e3705b1fdb973f0ecc68dffabd9314a24f0433113436d5",
+    "decision_assignments": 1
+  }
+]

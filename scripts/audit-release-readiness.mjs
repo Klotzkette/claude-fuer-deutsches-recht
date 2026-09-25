@@ -2,6 +2,8 @@
 import fs from 'node:fs';
 import path from 'node:path';
 
+// Dateischutz für eigenständige Downloads; Skill- und Modellbudgets bleiben getrennt.
+const promptLimits = JSON.parse(fs.readFileSync(new URL('./prompt-limits.json', import.meta.url), 'utf8'));
 const root = process.cwd();
 const errors = [];
 
@@ -91,7 +93,7 @@ for (const entry of marketplace.plugins) {
   assert(fs.existsSync(schnellstart), `${entry.name}: Schnellstart-Markdown fehlt`);
   if (fs.existsSync(werkstatt)) {
     const size = fs.statSync(werkstatt).size;
-    assert(size <= 128 * 1024, `${rel(werkstatt)}: Werkstatt ist größer als 128 KiB (${size} Bytes)`);
+    assert(size <= promptLimits.workshop_max_bytes, `${rel(werkstatt)}: Werkstatt ist größer als ${promptLimits.workshop_max_bytes} Bytes (${size} Bytes)`);
     // Technische Struktur prüfen, nicht Textvolumen als Fachqualität ausgeben.
     const text = readText(werkstatt);
     assert(text.startsWith('# ') && (text.match(/^# /gm) || []).length === 1,
@@ -102,7 +104,7 @@ for (const entry of marketplace.plugins) {
   }
   if (fs.existsSync(schnellstart)) {
     const size = fs.statSync(schnellstart).size;
-    assert(size <= 7500, `${rel(schnellstart)}: Schnellstart ist größer als 7500 Bytes`);
+    assert(size <= promptLimits.mini_max_bytes, `${rel(schnellstart)}: Schnellstart ist größer als 7500 Bytes`);
   }
 
   const readme = path.join(pluginRoot, 'README.md');

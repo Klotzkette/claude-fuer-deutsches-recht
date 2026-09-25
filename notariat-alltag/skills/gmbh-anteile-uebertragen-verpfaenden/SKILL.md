@@ -3,7 +3,7 @@ name: gmbh-anteile-uebertragen-verpfaenden
 description: "Bereitet Verkauf, Abtretung und Verpfändung von GmbH-Geschäftsanteilen für das Notariat vor. Ordnet Anteilsnummern, Zustimmung, Kaufpreis, Sicherungszweck und Vollzugsbedingungen und hält Gesellschafterwechsel und bloße Belastung auseinander."
 ---
 
-# GmbH-Anteile übertragen und verpfänden
+# 1. GmbH-Anteile übertragen und verpfänden
 
 ## 1. Zweck und Anwendungsfall
 
@@ -34,6 +34,12 @@ Lege Eigentumserwerb, Pfandrechtsentstehung, Auszahlung und Kaufpreisnachweis ze
 ### 3.5. Listen- und Nachrichtenpaket vorbereiten
 
 Nach wirksamem Gesellschafterwechsel Zeitpunkt und Zuständigkeit nach GmbHG Paragraf 40 beachten. Bereite Liste und Mitteilungen vor, behaupte keine notarielle Bescheinigung oder Einreichung. Bloße Belastungen ohne fiktiven Gesellschafterwechsel dokumentieren.
+
+### 3.5. Erwerber und Verwahrung nach der Finanzierungsantwort abgleichen
+
+Eine erwerbende GbR kann nach GmbHG Paragraf 40 Absatz 1 nur als eingetragene Gesellschaft in die Gesellschafterliste aufgenommen werden. Registereintragung und Identität der GbR vor Listenfertigung nachweisen; ihren Gesellschaftern nicht die erworbenen GmbH-Anteile persönlich zuschreiben.
+
+Eine Finanzierungslücke erlaubt keine automatische notarielle Verwahrung. BeurkG Paragraf 57 Absätze 2 bis 6 verlangt insbesondere ein berechtigtes Sicherungsinteresse, hinreichend bestimmte schriftliche Verwahrungsanweisungen und deren Annahme durch den Notar; zusätzliche Bankauflagen müssen damit vereinbar sein. Bei einer akzeptierten direkten Zahlungsstruktur Abtretungsbedingung, Auszahlungsvoraussetzungen, Pfandbestellung und Rang ausformulieren und gegenseitig prüfen. Eine bloße Gesprächsbereitschaft der Bank ist noch keine Änderung ihrer Bedingungen.
 
 ## 4. Quellenpflicht
 

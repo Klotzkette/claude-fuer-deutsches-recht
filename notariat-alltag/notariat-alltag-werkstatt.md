@@ -100,7 +100,7 @@ Bei einem Verbrauchervertrag im gesetzlichen Anwendungsbereich von BeurkG Paragr
 
 Ein Kunde darf einen früheren Termin wünschen. Daraus folgt noch keine Freigabe der Verkürzung. Stelle tatsächliche Bereitstellung, Änderungen, Dringlichkeitsangaben und Entscheidung des Notars nebeneinander. Bei Änderungen nach Versand den Umfang konkret benennen; nicht jede Schreibfehlerkorrektur und jede grundlegende Vertragsänderung gleich behandeln.
 
-BGH, Urteil vom 07.02.2013, III ZR 121/12, Randnummern 17 bis 25 ([amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2012/III_ZR_121-12.pdf?__blob=publicationFile&v=1)): Die Zweiwochenfrist steht nicht zur Disposition der Beteiligten. Ohne sachlichen Verkürzungsgrund und anderweitig gewahrten Übereilungsschutz muss der Notar die vorzeitige Beurkundung ablehnen; bloße Belehrung über die Vertragsbindung genügt nicht. Bereite deshalb Bereitstellungsnachweis und konkrete Schutzumstände zur Entscheidung vor. Der Haftungsfall begründet weder automatische Vertragsnichtigkeit noch eine Zweiwochenfrist für sämtliche notariellen Geschäfte. Heute verlangt Paragraf 17 Absatz 2a Satz 2 Nummer 2 BeurkG auch die Angabe der Verkürzungsgründe in der Niederschrift.
+BGH, Urteil vom 07.02.2013, III ZR 121/12, Randnummern 20 bis 22 ([amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2012/III_ZR_121-12.pdf?__blob=publicationFile&v=1)): Die Zweiwochenfrist steht nicht zur Disposition der Beteiligten. Ohne sachlichen Verkürzungsgrund und anderweitig gewahrten Übereilungsschutz muss der Notar die vorzeitige Beurkundung ablehnen; bloße Belehrung über die Vertragsbindung genügt nicht. Bereite deshalb Bereitstellungsnachweis und konkrete Schutzumstände zur Entscheidung vor. Der Haftungsfall begründet weder automatische Vertragsnichtigkeit noch eine Zweiwochenfrist für sämtliche notariellen Geschäfte. Heute verlangt Paragraf 17 Absatz 2a Satz 2 Nummer 2 BeurkG auch die Angabe der Verkürzungsgründe in der Niederschrift.
 
 ### 5.3. Zahlung und Bauleistung absichern
 
@@ -148,6 +148,16 @@ Nach Antwort ergeben sich verschiedene Wege: Bei schriftlich angepasster Vorgabe
 
 Ist der Ablösestichtag überschritten, anhand des Banknachweises nachrechnen oder neue Auskunft anfordern. Tageszinsen nur für den belegten Zeitraum und mit den vereinbarten Bedingungen verwenden. Löschungsbewilligung, Brief und Treuhandauflage gesondert verfolgen. Der Satz „Lasten werden gelöscht“ ersetzt im Vorlagevermerk nicht den noch ausstehenden Freigabenachweis.
 
+### 6.5. Eine verbindliche Bankantwort in den ganzen Entwurf übernehmen
+
+Beispiel mit ausdrücklich angenommenen Falldaten, nicht als Tatsachen einer anderen Akte verwenden: Anna und Paul sind hälftige Eigentümer; nur Paul nimmt das Darlehen auf. Die Bank bestätigt nun schriftlich, dass Anna nur dinglich mitwirkt. Übernimm die Bestätigung mit Datum und Fundstelle. Entferne Annas persönliche Schuldübernahme und persönliche Unterwerfung aus allen Textteilen; ihre dingliche Mitwirkung bleibt bestehen. Betrag, Zinssatz, Nebenleistung, Rang und Gläubiger aus dem wirklichen Bankauftrag einsetzen, nicht aus diesem Beispiel ergänzen.
+
+Die Antwort an die Bank lautet als vollständiger Entwurf: „Vielen Dank für Ihre Bestätigung, dass Anna keine persönliche Haftung übernehmen und sich nicht persönlich der sofortigen Zwangsvollstreckung unterwerfen soll. Wir berücksichtigen dies bei der Vorbereitung. Die dingliche Grundschuldbestellung durch beide Eigentümer bleibt Gegenstand des Entwurfs. Bitte teilen Sie uns noch mit, ob Ihre beigefügte Zweckerklärung diese Beschränkung bereits vollständig abbildet. Die vorhandenen Ablöse- und Rangvorgaben führen wir gesondert fort. Eine Beurkundung oder Auszahlung ist mit dieser Nachricht nicht bestätigt.“ Nur die tatsächlich offene Zweckerklärung nachfragen; liegt eine eindeutige vollständige Fassung bereits vor, diesen Fragesatz streichen.
+
+Ein geeigneter Erklärungsteil zur persönlichen Haftung lautet bei bestätigtem Auftrag: „Die persönliche Zahlungsverpflichtung und die persönliche Unterwerfung übernimmt ausschließlich Paul. Anna übernimmt keine persönliche Zahlungsverpflichtung und erklärt keine persönliche Unterwerfung. Ihre Mitwirkung beschränkt sich auf die in dieser Urkunde ausdrücklich bezeichneten dinglichen Erklärungen.“ Das ist der neu formulierte Abgrenzungsteil, nicht schon eine vollständige Grundschuldbestellung. Liefere anschließend den gesamten konkreten Bestellungsentwurf mit den wirklichen Bankdaten, den einzelnen Erklärungsträgern und den zutreffenden Unterwerfungen; keine bloße Patch-Anweisung als Endergebnis.
+
+Nach Vorlage an den Notar Terminunterlagen und aktuelle Nachweise vorbereiten. Erst nach tatsächlich erfolgter Beurkundung deren Datum und Urkundenbezug nachführen; anschließend Antragsfassung, Zustellungen, Rang- und Ablösebelege sowie verbleibende Wiedervorlagen anhand der Urkunde bearbeiten.
+
 ## 7. GmbH-Gründung vorbereiten
 
 ### 7.1. Musterprotokoll oder individuelle Satzung
@@ -175,6 +185,14 @@ Ein Fremdgeschäftsführer schließt das Musterprotokoll nicht allein aus. Ein i
 Die Satzung regelt Gesellschaft und Vertretung; der Geschäftsführeranstellungsvertrag regelt das Dienstverhältnis. Eine im Auftrag genannte Vergütung nicht ungefragt in das Register schreiben. Bei Ankündigung eines Geschäftsbeginns vor Eintragung die geplante handelnde Person und den Stand offenlegen, ohne automatisch einen bereits geschlossenen Vertrag oder Haftungsbeschränkung zu behaupten.
 
 Nach Einzahlung Bankgutschrift, Anteil und freie Verfügbarkeit zuordnen. Eine Kontoeröffnungsbestätigung ersetzt keine Zahlung. Anschließend die betroffenen Anmeldeunterlagen weiterführen; die Versicherung bleibt eine vom zuständigen Geschäftsführer abzugebende Erklärung. Die Vorlage endet mit den fertigen Texten und den tatsächlich noch ausstehenden Nachweisen, nicht mit einer allgemeinen Liste über GmbH-Gründung.
+
+### 7.5. Vollmacht, GbR und sämtliche Geschäftsführer prüfen
+
+Für den Abschluss des Gesellschaftsvertrags durch Vertreter verlangt GmbHG Paragraf 2 Absatz 2 eine notariell errichtete oder beglaubigte Vollmacht. BGB Paragraf 167 Absatz 2 allein beantwortet diesen Sonderfall nicht. Vollmachttext, Vertretungskette und Vorlageform prüfen und nach Eingang nur die tatsächlich erfüllten Punkte schließen.
+
+Soll eine GbR Gesellschafterin sein, muss sie vor Aufnahme in die Gesellschafterliste nach GmbHG Paragraf 40 Absatz 1 im Gesellschaftsregister eingetragen sein. Bei fehlendem Registerstand lautet die konkrete Nachforderung: „Für die Aufnahme der Gesellschaft bürgerlichen Rechts in die Gesellschafterliste benötigen wir ihre Eintragung im Gesellschaftsregister. Bitte übermitteln Sie nach erfolgter Eintragung Registergericht und Registernummer sowie den aktuellen Registerstand. Wir bereiten die weiteren Gründungsunterlagen mit der vorgesehenen Beteiligung vor; die Gesellschafter der GbR werden nicht ersatzweise als persönliche Inhaber des GmbH-Anteils eingetragen.“ Registerabruf, Namen, Sitz und Vertretung nach Antwort abgleichen und die Liste vollständig neu ausgeben.
+
+GmbHG Paragraf 78 verlangt für die Gründungsanmeldung sämtliche Geschäftsführer. Einzelvertretung ist keine Befreiung von dieser Mitwirkung. Nach Zahlungseingang Einlagenrechnung, freie Verfügbarkeit und Versicherungsentwurf mit den tatsächlichen Erklärenden zusammenführen. Nicht eine von zwei Unterschriften als bereits vollständige Anmeldung behandeln.
 
 ## 8. Kapitalerhöhung und Geschäftsführerwechsel
 
@@ -204,6 +222,12 @@ Ist nur ein Satzungsauszug vorhanden, die vollständige Fassung gezielt anforder
 
 Wird später ein Zahlungseingang bestätigt, Nennbetrag und Aufgeld weiterhin getrennt buchen. Eine Gesamtüberweisung von 50000 Euro kann etwa 10000 Euro Nennkapital und 40000 Euro Aufgeld betreffen; sie erhöht das Stammkapital nicht um 50000 Euro. Die Anmeldung, der vollständige Satzungswortlaut und die Listen müssen denselben beabsichtigten und später tatsächlich wirksamen Stand zeigen.
 
+### 8.5. Eine spätere Einzahlung und einen Organwechsel sauber nachführen
+
+Für die Erhöhungsanmeldung nach GmbHG Paragraf 57 müssen gemäß Paragraf 78 sämtliche Geschäftsführer handeln. Beispiel: Die neue Geschäftsführerin ist ab 10. Oktober wirksam bestellt; die Einzahlung wird am 12. Oktober nachgewiesen. Für eine danach vorbereitete Anmeldung den zu diesem Zeitpunkt bestehenden Geschäftsführerbestand ermitteln; nicht die frühere Unterschriftenseite unverändert verwenden. Die Kapitalerhöhung selbst wird erst mit Eintragung wirksam. Eine Bankgutschrift darf den belegten Zahlungsstand ändern, nicht rückwirkend Beschluss, Bestellung oder Registerwirkung.
+
+Liefere nach einer solchen Antwort die aktualisierte Einlagenberechnung, den vollständigen Anmeldeentwurf mit allen erforderlichen Erklärenden und die betroffenen Anlagen. Offene Tatsachen zur freien Verfügung der Geschäftsführung gezielt klären. Die Formulierung einer Versicherung als Entwurf ist zulässig; eine tatsächlich noch nicht abgegebene Versicherung als erfolgt auszugeben ist es nicht.
+
 ## 9. GmbH-Anteile übertragen oder verpfänden
 
 ### 9.1. Das betroffene Recht bestimmen
@@ -229,6 +253,14 @@ Wenn der Verkäufer Zahlung vor Abtretung und die Bank ein wirksames Pfand am be
 Nach Bankantwort genau fragen, ob die neue Bedingung auch vom Verkäufer und Käufer getragen wird. Vorhandene Eigenmittel belegen nicht ihre Zahlung an den Verkäufer. Ein positives Signal eines Mitgesellschafters ersetzt eine satzungsmäßig erforderliche Zustimmung nicht. Wenn Verkauf und Verpfändung getrennte Zustimmungen verlangen, beide Gegenstände ausdrücklich erfassen.
 
 Bei einem zusätzlich gewünschten Gesellschaftervertrag Stimmabreden, Zustimmungsvorbehalte, Verfügungsbeschränkungen, Erwerbsrechte und Beitritte mit Satzung und Anteilskauf abgleichen. Verpflichtungen zur Anteilsübertragung können selbst formbedürftig sein; Nebenabrede nicht wegen der englischen Bezeichnung „Shareholders Agreement“ als formfrei einstufen. Konfligierende Rangfolgeklauseln und Fassungen gezielt dem Notar vorlegen, statt jedes Dokument mit einer allgemeinen Vollständigkeitsklausel zu versehen.
+
+### 9.5. Finanzierung klären und die vereinbarte Lösung ausformulieren
+
+Eine geeignete Banknachricht bei der beschriebenen Zirkularität lautet: „Der Entwurf sieht den Anteilserwerb erst nach vollständiger Kaufpreiszahlung vor. Ihre derzeitige Auszahlungsvorgabe setzt dagegen bereits wirksamen Erwerb und wirksame Verpfändung voraus. Diese Bedingungen lassen sich in dieser Reihenfolge nicht erfüllen. Bitte teilen Sie uns mit, welche angepasste Auszahlungsvoraussetzung die zuständige Stelle Ihrer Bank verbindlich akzeptiert. Zu prüfen wäre beispielsweise eine abgestimmte direkte Zahlung gegen eine von den Beteiligten akzeptierte Sicherung des Vollzugs. Wir benötigen die konkrete schriftliche Vorgabe zu Zahlungsempfänger, Zeitpunkt, Voraussetzungen und Pfandentstehung, damit der Notar eine dazu passende Vertragsgestaltung prüfen kann. Eine Verwahrung oder Auszahlung sagen wir damit nicht zu.“
+
+Nach einer bloßen Antwort „grundsätzlich denkbar“ bleibt die Abstimmung offen. Nach einer verbindlichen Antwort die tatsächlich gewählte Struktur durch sämtliche Dokumente verfolgen: Kaufpreisfälligkeit, Abtretungsbedingung, Pfandentstehung, Satzungszustimmungen, Zahlungsempfänger und Nachweis des Bedingungseintritts. Alle betroffenen Klauseln vollständig neu ausgeben; insbesondere nicht eine abgeänderte Auszahlungsklausel neben der unveränderten, widersprechenden Erwerbsbedingung stehenlassen. Bei unerledigtem Finanzierungswiderspruch die sonstigen Vertragsbestandteile fertigstellen und genau diese Abhängigkeit zur Entscheidung vorlegen.
+
+Eine notarielle Verwahrung setzt nach BeurkG Paragraf 57 Absätze 2 bis 6 insbesondere berechtigtes Sicherungsinteresse, hinreichend bestimmte schriftliche Verwahrungsanweisungen und deren Annahme durch den Notar voraus. Zusatzauflagen der Bank müssen damit vereinbar sein. Ein Terminwunsch oder ein Finanzierungskreislauf ersetzt diese Prüfung nicht. Wird eine Verwahrung rechtmäßig gewählt, Anweisungen, Empfänger, Betrag, Voraussetzungen, Rückabwicklung und Dokumentationsweg aus der tatsächlich gebilligten Struktur ausformulieren.
 
 ## 10. Entwurfsqualität und Ausgabevarianten
 
@@ -285,6 +317,14 @@ Beim Formwechsel sind Beschlussform nach Paragraf 193 Absatz 3, Anmeldung nach P
 
 Kommt eine korrigierte Schlussbilanz, kontrolliere Stichtag, Registerunterlagen und diejenigen Vertragsstellen, die auf diese Fassung verweisen. Kommt ein neuer Gesellschafter, überprüfe Zustimmung, Teilnahme, Anteilszuordnung und Listen. Die übrigen belegten Daten bleiben bestehen. Lege dem Notar die konkrete Auswirkung vor und liefere die konsolidierten Texte; die bloße Bemerkung „Umwandlungsrecht prüfen“ ist kein fertiges Arbeitsergebnis.
 
+### 14.4. Verspätete Anmeldung und Registerfolge behandeln
+
+Die Schlussbilanz darf nach UmwG Paragraf 17 Absatz 2 höchstens acht Monate vor der Anmeldung liegen. Eine Bilanz zum 31. Dezember 2025 trägt im regulären Fenster keine erst für September 2026 vorgesehene Anmeldung. Formuliere: „Die bisherige Schlussbilanz zum 31. Dezember 2025 reicht für den nun vorgesehenen Anmeldezeitpunkt im September 2026 nicht aus. Bitte stellen Sie eine neuere Schlussbilanz mit tatsächlichem Stichtag bereit. Wir passen danach die Bilanzanlage und den Anmeldeplan an. Vertragsdatum, Umtauschverhältnis und steuerliche Angaben ändern wir nur, soweit die neue Grundlage dies tatsächlich erfordert und der Änderungsauftrag vorliegt.“ Entscheidend ist die tatsächliche Anmeldung einschließlich Zugang beim Registergericht, nicht nur der Versand aus der Kanzlei.
+
+Bei Verschmelzung ist gemäß UmwG Paragraf 19 zunächst in den Registern der übertragenden, danach beim übernehmenden Rechtsträger einzutragen; dort tritt die Wirkung nach Paragraf 20 ein. Bei Spaltung zunächst bei den übernehmenden beziehungsweise neuen, danach beim übertragenden Rechtsträger, Paragrafen 130 und 131. Für jeden Teil Eingang und konkreten Inhalt des Registerbelegs festhalten; eine erste Eintragung nicht als Gesamtvollzug melden.
+
+Der zuständige Betriebsrat erhält den Verschmelzungsvertrag oder Entwurf spätestens einen Monat vor der zustimmenden Versammlung, UmwG Paragraf 5 Absatz 3. Beim Formwechsel den Beschlussentwurf nach Paragraf 194 Absatz 2 prüfen. Gesellschafterverzichte auf Bericht oder Prüfung erledigen diese Zuleitung nicht. Zugang und Versammlungstermin belegen; nach Terminverschiebung den tatsächlichen zeitlichen Abstand neu prüfen.
+
 ## 15. Grundstückskauf, Nachlass und familiäre Übertragung
 
 ### 15.1. Grundstückskauf ohne Bauträgerleistung
@@ -294,6 +334,8 @@ Bei einem Bestandsobjekt nicht automatisch den MaBV-Ratenplan ausgeben. Kaufgege
 Ist eine Immobilie vermietet, frage nach fehlenden Mietunterlagen statt eine geräumte Übergabe einzusetzen. Ist nur eine private Grundbuchabschrift vorhanden, übernimm sie als Informationsstand, nicht als selbst eingeholten aktuellen Registerbeweis. Bei Belastungen Löschung, Übernahme und Rangänderung konkret unterscheiden. Eine Bankauflage wird nicht durch die allgemeine Vertragsformel „lastenfrei“ erledigt. Öffentliche Genehmigungen und Vorkaufsrechtsfragen nach Objekt und Ort zuordnen; nicht für jeden Erwerb dieselben Behördenbescheinigungen verlangen.
 
 Nach einer Antwort zur Übergabe nur die betroffenen Regelungen zu Besitz, Nutzen, Lasten, Versicherung und Abrechnung abgleichen. Eine verschobene Kaufpreisfälligkeit kann andere Folgen haben als ein späterer Auszug. Teile den Beteiligten die wirklich geänderte Vereinbarung in verständlicher Form mit und halte die abschließende rechtliche Gestaltung für die notarielle Prüfung bereit.
+
+Bei der Klausel „Die Auflassung wird mit Kaufpreiszahlung wirksam“ den Fehler ausdrücklich benennen: BGB Paragraf 925 Absatz 2 lässt eine bedingte oder befristete Auflassung nicht zu. Eine Abgrenzung für den Entwurf lautet: „Die dingliche Einigung über den Eigentumsübergang wird unbedingt erklärt. Hiervon getrennt richtet sich die Einreichung des Umschreibungsantrags durch den Notar nach den nachstehenden Vollzugsweisungen.“ Danach die wirklichen Voraussetzungen aus dem konkreten Vertrag vollständig formulieren. Nicht diese zwei Beispielsätze als vollständige Auflassung oder pauschale Einreichungsfreigabe ausgeben. Zahlungsbeleg, Lastenfreistellung und weitere vertragliche beziehungsweise gesetzliche Voraussetzungen bleiben einzeln zu prüfen.
 
 ### 15.2. Erbfolge und Auseinandersetzung
 
@@ -308,6 +350,12 @@ Frage bei einer gewünschten Übertragung nur nach dem fehlenden Gestaltungsents
 Bei Änderungswünschen zu Haus, Darlehen, Unterhalt und Versorgung zunächst deren Zusammenhang erkennen. Den Vermögensstand nicht vollständig erneut erfragen, wenn die Akte bereits Auskünfte enthält. Entscheidend sind die noch unklaren Stichtage, Bewertungen, Interessen und Folgen für den jeweils anderen Vertragsteil. Keine einseitige Vertretung vortäuschen; die notarielle Vorbereitung bleibt der neutralen Amtsführung verpflichtet.
 
 BGB Paragraf 1410 betrifft die notarielle Form des Ehevertrags und die gleichzeitige Anwesenheit beider Teile; Vertretung und persönliche Mitwirkung sind konkret zu prüfen. Für Vereinbarungen zum Versorgungsausgleich gilt VersAusglG Paragraf 7. BGB Paragraf 1585c regelt die Form bestimmter Vereinbarungen über nachehelichen Unterhalt. Nicht jede Abrede zwischen Ehegatten ist allein wegen ihrer Überschrift ein Ehevertrag und nicht jede belastende Klausel automatisch unwirksam. Die abschließende Wirksamkeits- und Ausübungskontrolle dem Notar mit dem entscheidenden Tatsachenbezug vorlegen.
+
+### 15.4. Familienplanung in eine belastbare Vertragsänderung übersetzen
+
+BGH, Urteil vom 11.02.2004, XII ZR 265/02, amtlicher Volltext Seiten 23 bis 26 ([Quelle](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2002/XII_ZR_265-02.pdf?__blob=publicationFile&v=1)): Wirksamkeitskontrolle nach BGB Paragraf 138 bei Vertragsschluss und Ausübungskontrolle nach Paragraf 242 bei späterer Berufung auf den Vertrag unterscheiden. Einkommen, Vermögen, Rollenverteilung, Betreuungsbelastung und Kompensation gehören in die Gesamtwürdigung. Notarielle Belehrung ersetzt diese Inhaltskontrolle nicht. Schwangerschaft oder ungleiche Einkommen führen für sich nicht schematisch zur Gesamtnichtigkeit. Die historischen Versorgungsausgleichsvorschriften des Urteils nicht fortführen; heute VersAusglG Paragrafen 6 bis 8 und für nacheheliche Unterhaltsvereinbarungen BGB Paragraf 1585c prüfen.
+
+Ändert sich die Planung von zwei Vollzeitstellen zu mehrjähriger Kinderbetreuung durch einen Ehegatten, nach vorhandenen Angaben gezielt Betreuungsdauer, Erwerbsreduzierung, Versorgungsausgleich und angebotene Kompensation klären. Ein Beispiel für die konkrete Rückfrage lautet: „Sie haben nun eine dreijährige Erwerbspause mit anschließender Teilzeit mitgeteilt. Der bisherige Entwurf geht von unveränderter Vollzeittätigkeit beider Ehegatten aus. Bitte teilen Sie uns mit, ob für diese Betreuungsphase ein Unterhaltsausgleich und ein Ausgleich der entstehenden Versorgungslücke vereinbart werden sollen und welche Leistungen dafür vorgesehen sind. Wir legen die betroffenen Verzichtsregelungen mit den neuen Angaben erneut zur notariellen Prüfung vor.“ Bekannte Zahlen übernehmen. Nach Antwort die tatsächlich gewählten Ansprüche, Beginn, Dauer und Berechnung ausformulieren; keine Zustimmung zu einem Ausgleichsbetrag erfinden und keinen bloßen allgemeinen Fairnesshinweis liefern.
 
 ## 16. Auslandsnachweise, Vollmachten und Vorsorge
 
@@ -329,9 +377,21 @@ Ein Übersetzungsprogramm ersetzt keinen erforderlichen Dolmetscher und keine be
 
 Die Vollmacht soll Handlungsbefugnisse regeln, die Patientenverfügung Behandlungswünsche und die Betreuungsverfügung Wünsche für einen möglichen Betreuer. Wähle nicht kommentarlos ein einziges Formular für alle drei Zwecke. Frage bei einem unbestimmten Auftrag nach gewünschter Vertrauensperson und den noch offenen Bereichen: Gesundheit, Vermögen, Wohnung, digitale Angelegenheiten und Ersatzvertretung. Keine unbefristete Generalvollmacht oder Befreiung von BGB Paragraf 181 unterstellen.
 
-Besondere Befugnisse nach BGB Paragraf 1820, Anforderungen an die Patientenverfügung nach Paragraf 1827 und Betreuerauswahl nach Paragraf 1816 getrennt behandeln. Nach der amtlichen Erläuterung zum BGH-Beschluss vom 06.07.2016, XII ZB 61/16, reicht eine bloße allgemeine Ablehnung lebensverlängernder Maßnahmen nicht ohne hinreichende Konkretisierung. Daraus folgt keine Pflicht, jede denkbare Behandlung abstrakt aufzuzählen. Erfasse konkrete Behandlungssituationen und gewünschte Maßnahmen, ohne medizinische Entscheidungen für den Beteiligten zu erfinden. Quelle und Reichweite: [amtliche Erläuterung](https://www.bmjv.de/DE/themen/vorsorge_betreuungsrecht/patientenverfuegung/Anmerkungen_Urteil_BGH.html); diese ersetzt nicht die Prüfung des vollständigen Beschlusses bei streitiger Anwendung.
+Besondere Befugnisse nach BGB Paragraf 1820, Patientenverfügung nach Paragraf 1827 und Betreuerauswahl nach Paragraf 1816 getrennt behandeln. BGH, Beschluss vom 06.07.2016, XII ZB 61/16, Randnummern 17 bis 20 und 46 bis 48 ([amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2016/XII_ZB__61-16.pdf?__blob=publicationFile&v=1)): Die besondere Gesundheitsvollmacht muss die qualifizierte Gefahr des Todes oder eines schweren und länger dauernden Gesundheitsschadens klar erfassen; bloßer Normverweis genügt nicht. Die eigene Patientenverfügung benötigt eine konkrete Behandlungsentscheidung. BGH, Beschluss vom 08.02.2017, XII ZB 604/15, Randnummern 17 bis 23 ([amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2015/XII_ZB_604-15.pdf?__blob=publicationFile&v=1)): Den Gesamtzusammenhang der schriftlichen Erklärung auslegen; allgemeine Formulierungen nicht isoliert für unwirksam erklären. Situationen und übrige Festlegungen können konkretisieren. Keine Pflicht, jede denkbare Behandlung aufzuzählen; keine medizinische Auswahl für den Beteiligten erfinden. Historische BGB Paragrafen 1901a und 1904 nicht als aktuelle Nummern zitieren.
 
 Nach Klärung der Wünsche vollständige, widerspruchsfreie Entwürfe herstellen. Vertretungsbefugnis, Innenanweisungen, Ausfertigung und Registerangaben gesondert erklären. Eine bloße Anmeldung im Vorsorgeregister macht eine unzureichende Erklärung nicht wirksam. Keine bereits erfolgte Registrierung oder notarielle Feststellung von Geschäftsfähigkeit behaupten.
+
+### 16.4. Vollmachtsumfang nach einer eindeutigen Antwort formulieren
+
+Nur wenn der Vollmachtgeber nach Klärung gerade diesen Umfang wünscht, ist folgende Gesundheitsklausel ein Ausgangspunkt zur notariellen Prüfung: „Die bevollmächtigte Person darf in Untersuchungen meines Gesundheitszustands, Heilbehandlungen und ärztliche Eingriffe einwilligen, auch wenn die begründete Gefahr besteht, dass ich aufgrund der Maßnahme sterbe oder einen schweren und länger dauernden gesundheitlichen Schaden erleide. Sie darf eine Einwilligung auch verweigern oder widerrufen, wenn die Maßnahme medizinisch angezeigt ist und die begründete Gefahr besteht, dass ich wegen ihres Unterbleibens oder Abbruchs sterbe oder einen schweren und länger dauernden gesundheitlichen Schaden erleide. Dabei hat sie meinen nach den gesetzlichen Regeln festgestellten Willen zu beachten.“
+
+Diese Befugnis entscheidet noch nicht, welche Behandlung der Vollmachtgeber selbst wünscht. Sie erteilt auch keine stillschweigende Ermächtigung zu Freiheitsentziehung oder ärztlichen Zwangsmaßnahmen; BGB Paragraf 1820 Absatz 2 Nummern 2 und 3 sind gesondert zu klären. Für konkrete Behandlungsfestlegungen die beantworteten Situations- und Maßnahmenfragen vollständig in die Patientenverfügung übertragen. Gerichtliche Genehmigung einschließlich der Ausnahme bei Einvernehmen nach BGB Paragraf 1829 Absatz 4 gesondert prüfen. Eine unmittelbar passende eigene Patientenverfügung ist von einer Entscheidung des Vertreters zu unterscheiden.
+
+### 16.5. Genehmigung nach Vertreterhandeln weiterführen
+
+BGB Paragraf 177 Absatz 2 wird nicht durch jede Kanzleierinnerung ausgelöst. Hat der andere Vertragsteil den Vertretenen zur Erklärung aufgefordert, Zugang und Empfänger feststellen: Die Genehmigung kann dann nur gegenüber diesem Vertragsteil erklärt werden, innerhalb von zwei Wochen nach Empfang der Aufforderung. Nach Ablauf gilt sie als verweigert. Einen vorherigen Zugang beim Vertreter oder eine spätere Kanzleinotiz nicht als fristgerechte Erklärung umdeuten. BGB Paragraf 182 Absatz 2 zur Genehmigungsform von der grundbuch- oder registerrechtlichen Nachweisform unterscheiden.
+
+Bei eingehender Urkunde Text, Person, Vertretungsumfang, Echtheitsnachweis und tatsächlichen Zugang zusammen prüfen. Beispiel für den Vorlagevermerk: „Die Genehmigung liegt nun als Dokument vor. Für die Wirksamkeitsprüfung fehlt noch der Nachweis, wann die Erklärung dem nach der Aufforderung maßgeblichen Empfänger zugegangen ist. Die Eigentumsumschreibung ist deshalb noch nicht freigegeben. Die übrigen bereits belegten Vollzugsvoraussetzungen sind im Entwurf berücksichtigt.“ Ist der Zugang bereits belegt, keinen zusätzlichen Beleg ohne Grund fordern, sondern Fristberechnung und Ergebnis nachführen.
 
 ## 17. Entwurfsänderung, Kosten und Registerhindernisse
 
@@ -346,6 +406,8 @@ Wenn „nur der Betrag“ geändert wird, prüfe Kaufpreis, Sicherheit, Einlage,
 Ordne Geschäft, Kostenschuldner, Geschäftswert, Gebührentatbestand, Auslagen und Umsatzsteuer anhand des tatsächlichen Auftrags zu. Gebührenberechnung und voraussichtliche Kosteninformation nicht als dasselbe Dokument ausgeben. GNotKG Paragraf 19 verlangt eine mitgeteilte Berechnung in Textform mit den gesetzlich erforderlichen Angaben; eine erfundene allgemeine Pflicht zur eigenhändigen Unterschrift nicht hinzufügen. Aktuelle Tabelle und Kostenverzeichnis benutzen, keine alten Festbeträge aus einer Vorakte kopieren.
 
 Bei mehreren verbundenen Erklärungen Geschäftswerte und Konkurrenzfragen gesondert prüfen. Nennbetrag, Kaufpreis, Grundstückswert und besicherte Forderung sind nicht beliebig austauschbar. Fehlt ein Wert, eine gezielte Wertrückfrage vorbereiten; nicht aus einer unverbindlichen Schätzung einen bestätigten Gebührenansatz machen. Nach Wertnachweis die Rechnung nachführen und Rechenweg intern belegen.
+
+Bei Gebührenänderung den Auftragseingang prüfen: GNotKG Paragraf 134 Absatz 2 ordnet für zuvor beauftragte notarielle Verfahren oder Geschäfte grundsätzlich das bisherige Recht an. Das heutige Rechnungsdatum allein rechtfertigt nicht die neueste Tabelle. Den maßgeblichen Rechtsstand, Wert, Gebührentatbestand, Satz, Auslagen und Steuer in einem nachvollziehbaren Rechenweg verbinden. Nach nachgereichtem Wertbeleg die vollständige Rechnung neu berechnen und alte Summen in Anlagen und Anschreiben berichtigen.
 
 ### 17.3. Zwischenverfügung und Beschwerde
 

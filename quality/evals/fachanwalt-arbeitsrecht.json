@@ -11,7 +11,7 @@
     {
       "url": "https://www.bundesarbeitsgericht.de/entscheidung/5-azr-347-21/",
       "checked_on": "2026-09-14",
-      "supports": "BAG, Urteil vom 23.02.2022, 5 AZR 347/21, Randnummer 28: grundsätzlich Gesamtberechnung; maßgeblicher Zeitraum durch Anträge und Einwendungen bestimmt."
+      "supports": "BAG, Urteil vom 09.02.2022, 5 AZR 347/21, Randnummer 28: grundsätzlich Gesamtberechnung; maßgeblicher Zeitraum durch Anträge und Einwendungen bestimmt."
     },
     {
       "url": "https://www.gesetze-im-internet.de/sgb_10/__115.html",
@@ -71,7 +71,7 @@
     {
       "url": "https://www.bundesarbeitsgericht.de/entscheidung/5-azr-347-21/",
       "checked_on": "2026-09-22",
-      "supports": "BAG, Urteil vom 23.02.2022, 5 AZR 347/21: Zwischenverdienst in die Gesamtberechnung des maßgeblichen Verzugszeitraums einordnen. Grenze/Prüftiefe: Volltext Rn. 25 bis 29; Grenzen von Anträgen und erhobener Einwendung beachten."
+      "supports": "BAG, Urteil vom 09.02.2022, 5 AZR 347/21: Zwischenverdienst in die Gesamtberechnung des maßgeblichen Verzugszeitraums einordnen. Grenze/Prüftiefe: Volltext Rn. 25 bis 29; Grenzen von Anträgen und erhobener Einwendung beachten."
     },
     {
       "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-130-25/",
@@ -134,12 +134,13 @@
     "changes": [
       "Werkstatt nach konkreten Anspruchs- und Verfahrenslagen neu gefasst; Hauptproblem trennt Freistellung vor Vertragsende von Zwischenverdienst nach Entlassung.",
       "Konkreten Einstieg und Anwendung samt Grenzen des Entscheidungsankers im Hauptproblem ergänzt; zugeordneten Skill unverändert gelassen.",
-      "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten."
+      "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten.",
+      "25.09.2026: Zitierdatum des Fokus-Skills für 5 AZR 347/21 anhand amtlicher Metadaten auf 09.02.2022 korrigiert; Anspruchs- und Berechnungsmethode unverändert."
     ],
     "prompt_path": "fachanwalt-arbeitsrecht/fachanwalt-arbeitsrecht-hauptproblem.md",
     "prompt_sha256": "050dedb1b76e97dce77052749e9d9c1f0e49a551b3153b0d1bbcd1d28693db4e",
     "skill_path": "fachanwalt-arbeitsrecht/skills/annahmeverzugslohn-zeitraeume-und-anrechnung/SKILL.md",
-    "skill_sha256": "8bdc4ae57863ee27f5169906538e202728fdda4e71ea8431cc624a8883ef4a36"
+    "skill_sha256": "d5d857ca9d91a2d19589243edb189b6c3addebacad653d770395138695f4d6a5"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -150,9 +151,10 @@
       "Weiterbeschäftigung vom Lohnanspruch und Paragraf 102 Absatz 5 BetrVG getrennt; aktuelles Instanzurteil, Gegeninteressen und begrenzter Antrag ausdrücklich prüfen.",
       "Gruppenchatprüfung nach 2 AZR 17/23 mit Zusammensetzung, Inhalt, Medium, besonderer Darlegung und gesonderter Interessenabwägung wiederhergestellt.",
       "Ermächtigungsnachweis einzelner GmbH-Aufsichtsratsmitglieder nach 2 AZR 130/25 einschließlich Satzung, Kenntnisgabe und unverzüglicher Zurückweisung konkretisiert.",
-      "Jede weitere Kündigung mit eigener Frist, Beteiligungsnachweise, periodenbezogene Arbeitsfähigkeit und Freistellung, Zwischenverdienst und Sozialleistungsübergang sowie Arbeitszeit- und Bonusklauseln."
+      "Jede weitere Kündigung mit eigener Frist, Beteiligungsnachweise, periodenbezogene Arbeitsfähigkeit und Freistellung, Zwischenverdienst und Sozialleistungsübergang sowie Arbeitszeit- und Bonusklauseln.",
+      "25.09.2026: Vier amtlich nachgelesene Anker zu Abbedingung, Gesamtberechnung, Auskunft und sekundärer Darlegung in die eigenständige Werkstatt aufgenommen; Datum 5 AZR 347/21 auf 09.02.2022 korrigiert. 5 AZR 37/25 bleibt ausdrücklich Pressemitteilung, ohne Randnummern."
     ],
-    "sha256": "9d0aab19b9103a38ce03e512fed28edf4ba45d854e5313580190ada6b2de2845"
+    "sha256": "a24ebadfe30dc20db93e43e6f1a8a1e69bd8ae36850c0e891df80495fe55e1b7"
   },
   "selection": {
     "positive": [
@@ -302,7 +304,7 @@
         "limit": "Volltext Rn. 27 bis 28 und 43 bis 50; sekundäre Darlegung kehrt Beweislast nicht um."
       },
       {
-        "citation": "BAG, Urteil vom 23.02.2022, 5 AZR 347/21",
+        "citation": "BAG, Urteil vom 09.02.2022, 5 AZR 347/21",
         "url": "https://www.bundesarbeitsgericht.de/entscheidung/5-azr-347-21/",
         "application": "Zwischenverdienst in die Gesamtberechnung des maßgeblichen Verzugszeitraums einordnen.",
         "limit": "Volltext Rn. 25 bis 29; Grenzen von Anträgen und erhobener Einwendung beachten."

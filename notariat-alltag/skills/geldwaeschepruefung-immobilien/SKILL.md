@@ -33,6 +33,10 @@ Bei fehlendem schlüssigem Nachweis die Schritte nach Paragraf 16a Absatz 3 prü
 
 Wird eine Teilzahlung nachgewiesen, nur den betreffenden Zahlungsstand ändern. Fehlende Restzahlung, ungeklärte Kontrolle oder anderes Vollzugshindernis bleibt offen. Übergib an `vollzug-fristen-wiedervorlage` den konkreten gesperrten Schritt und den benötigten Nachweis, nicht das gesamte Risikoprotokoll.
 
+### 3.5. Nachweise und eine etwaige Meldung getrennt nachführen
+
+Ein nachgereichter Kontoauszug kann den Zahlungsnachweis vervollständigen, beseitigt aber nicht automatisch einen bereits bestehenden Verdacht. Bei GwG Paragraf 16a Absatz 3 die besonderen Voraussetzungen für den Eintragungsantrag und gegebenenfalls den dort genannten fünften Werktag nach dem Abgangstag einer Meldung beachten; nicht schematisch die allgemeine Dreitagesregel aus Paragraf 46 einsetzen. Samstag gilt nach Paragraf 46 Absatz 1 nicht als Werktag; behördliche Untersagung und zulässige Freigaben gesondert prüfen. Eine Fristübersicht enthält Abgangstag, maßgebliche Arbeitstage und offenen Freigabestatus, keine erfundene Entwarnung. An die Beteiligten gerichtete Nachforderungen dürfen eine beabsichtigte oder erstattete Meldung unter Verstoß gegen Paragraf 47 nicht offenlegen.
+
 ## 4. Quellenpflicht
 
 [GwG](https://www.gesetze-im-internet.de/gwg_2017/), besonders [Paragraf 16a](https://www.gesetze-im-internet.de/gwg_2017/__16a.html), aktuelle Meldevorschriften und notariatsbezogene Aufsichtshinweise prüfen. Künftig anwendbare europäische Regelungen nicht vor ihrem Anwendungstag als geltende deutsche Prüfschritte ausgeben. Quellen nach [Zitierweise](../../references/zitierweise.md) belegen.

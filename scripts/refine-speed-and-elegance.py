@@ -7,10 +7,13 @@ import json
 import re
 from pathlib import Path
 
+from prompt_limits import MAX_WORKSHOP_BYTES
+
 
 REPO = Path(__file__).resolve().parent.parent
 HAND_CURATED_FILE = REPO / "scripts" / "handkuratierte-prompts.txt"
-MAX_WERKSTATT_BYTES = 48 * 1024
+
+MAX_WERKSTATT_BYTES = MAX_WORKSHOP_BYTES
 MAX_SCHNELLSTART_BYTES = 7500
 
 WERKSTATT_BLOCK = """### 1.1. Arbeitsmodus: schnell und belastbar

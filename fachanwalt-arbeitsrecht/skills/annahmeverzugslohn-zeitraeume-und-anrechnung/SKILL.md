@@ -32,7 +32,7 @@ Optional ergänzt die [Zitierweise](../../references/zitierweise.md) die eigenst
 - BAG, Urteil vom 26.08.2026, Az. 5 AZR 37/25, [amtliche Pressemitteilung 29/26 vom 26.08.2026](https://www.bundesarbeitsgericht.de/presse/annahmeverzugsverguetung-kein-auskunftsanspruch-zu-bewerbungen-auf-stellenangebote/): Abgrenzung von Auskunft und sekundärer Darlegung. Prozessuale Zurückverweisung; am 15.09.2026 nur Pressetext, keinen Volltext geprüft. Keine Randnummern daraus zitieren.
 - BAG, Urteil vom 12.02.2025, Az. 5 AZR 127/24, [Volltext](https://www.bundesarbeitsgericht.de/entscheidung/5-azr-127-24/), Randnummern 16 bis 25: regelmäßig kein böswilliges Unterlassen während einseitiger Freistellung in der Kündigungsfrist; Zeitraum danach ausdrücklich nicht entschieden.
 - BAG, Urteil vom 27.05.2020, Az. 5 AZR 387/19, [Volltext](https://www.bundesarbeitsgericht.de/entscheidung/5-azr-387-19/), Randnummern 27 und 28: Auskunft über Vermittlungsvorschläge und keine Umkehr der Beweislast.
-- BAG, Urteil vom 23.02.2022, Az. 5 AZR 347/21, [Volltext](https://www.bundesarbeitsgericht.de/entscheidung/5-azr-347-21/), Randnummer 28: Gesamtberechnung innerhalb des durch Anträge und Einwendungen bestimmten Zeitraums.
+- BAG, Urteil vom 09.02.2022, Az. 5 AZR 347/21, [Volltext](https://www.bundesarbeitsgericht.de/entscheidung/5-azr-347-21/), Randnummer 28: Gesamtberechnung innerhalb des durch Anträge und Einwendungen bestimmten Zeitraums.
 
 ## 1.4. Ausgabeformat
 

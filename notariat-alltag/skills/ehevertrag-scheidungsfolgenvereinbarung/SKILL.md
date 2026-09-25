@@ -33,6 +33,10 @@ Ausgleichsbetrag, Fälligkeit, Sicherung, Vollzugsabhängigkeit und Folgen einer
 
 Nach Bankzustimmung Schuldhaftung und Grundbuchvollzug neu abstimmen; ohne Zustimmung nur das Innenverhältnis regeln, soweit gewollt. Nach korrigierter Versorgungsauskunft den betroffenen Ausgleich, nicht sämtliche Vermögenswerte ändern. Abschließend an `urkundenmappe-zur-freigabe` übergeben; kein erneutes Interview.
 
+### 3.5. Wirksamkeit und spätere Ausübung getrennt begründen
+
+[BGH, Urteil vom 11.02.2004, XII ZR 265/02](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2002/XII_ZR_265-02.pdf?__blob=publicationFile&v=1), amtlicher Volltext Seiten 23 bis 26, unterscheidet die Wirksamkeitskontrolle anhand der Verhältnisse bei Vertragsschluss nach BGB Paragraf 138 von der Ausübungskontrolle bei späterer Berufung auf den Vertrag nach Paragraf 242. Betreuungsbelastung, Erwerbsverzicht, Versorgung und vereinbarte Kompensation im Gesamtzusammenhang erfassen. Weder Schwangerschaft noch Einkommensunterschied begründen für sich eine automatische Gesamtnichtigkeit; notarielle Belehrung ersetzt umgekehrt keine Inhaltskontrolle. Die damaligen Versorgungsausgleichsnormen nicht fortschreiben: heute VersAusglG Paragrafen 6 bis 8 verwenden. Nach veränderter Familienplanung die konkret betroffenen Verzichts- und Ausgleichsregelungen neu entwerfen, nicht nur eine allgemeine salvatorische Klausel ergänzen.
+
 ## 4. Quellenpflicht
 
 [BGB Paragraf 1410](https://www.gesetze-im-internet.de/bgb/__1410.html), [Paragraf 1585c](https://www.gesetze-im-internet.de/bgb/__1585c.html), [VersAusglG](https://www.gesetze-im-internet.de/versausglg/) und [Zitierweise](../../references/zitierweise.md). Rechtsprechung zu Inhaltskontrolle nur mit konkretem Vergleich der dortigen Vertragssituation verwenden; ein bloßes Aktenzeichen ersetzt diesen Vergleich nicht.

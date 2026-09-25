@@ -41,6 +41,10 @@ Führe Vormerkung, Genehmigungen, Lastenfreistellungsunterlagen, Fälligkeitsmit
 
 Ist nur der Preis eines Sonderwunsches bestätigt, aber nicht dessen Plan, frage genau nach der technischen Fassung. Ist eine Übergabeänderung vereinbart, gleiche Besitz, Nutzen, Lasten und Mietabrechnung ab. Bereite zunächst die konkrete Rückfrage und die belegbaren Vertragsteile vor; nach Antwort den vollständigen Entwurf fortführen, nicht erneut alle Käuferdaten abfragen. Zur Grundbuchanmeldung anschließend nur den betroffenen Auftrag an [Grundbuch und Rang](../grundbuchantrag-rangstelle-notarielle/SKILL.md) übergeben.
 
+### 3.5. Vollzug ohne bedingte Auflassung vorbereiten
+
+Die Auflassung selbst darf nach [BGB Paragraf 925 Absatz 2](https://www.gesetze-im-internet.de/bgb/__925.html) nicht von Kaufpreiszahlung oder Bauabnahme abhängig gemacht werden. Unbedingte Einigung und vertragliche Weisung an den Notar, den Umschreibungsantrag erst bei nachgewiesenen Voraussetzungen einzureichen, getrennt ausformulieren. Eine Schlussrate oder Abnahmebestätigung ersetzt weder den Zahlungsnachweis noch die Prüfung weiterer Einreichungsvoraussetzungen.
+
 ## 4. Quellenpflicht
 
 [Amtliche Formwege](../../references/mitarbeiter-formwege.md), BGB Paragrafen 311b, 650u und 650v; BeurkG Paragraf 17; MaBV Paragrafen 3 und 7. [Zitierweise](../../references/zitierweise.md). Konkrete Rechtsprechung etwa zu Abnahmeklauseln nur nach verifizierter Fundstelle einsetzen.

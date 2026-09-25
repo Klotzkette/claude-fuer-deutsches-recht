@@ -3,7 +3,7 @@ name: kapitalerhoehung-beschluss-register
 description: "Bereitet die GmbH-Kapitalerhöhung als zusammenhängenden Vorgang vor: Beschluss, Bar- oder Sacheinlage, Übernahmeerklärungen, Einzahlungsnachweise und Registervollzug. Trennt Beurkundung des Beschlusses von Beglaubigung der Übernahme und Anmeldung."
 ---
 
-# Kapitalerhöhung beschließen und zum Register vorbereiten
+# 1. Kapitalerhöhung beschließen und zum Register vorbereiten
 
 ## 1. Zweck und Anwendungsfall
 
@@ -30,6 +30,10 @@ Bei Barerhöhung gelten Paragraf 56a und die dort bezeichneten Teile von Paragra
 ### 3.4. Reihenfolge für den Vollzug festhalten
 
 Beschluss, vollständige Übernahme, erforderliche Leistung und Geschäftsführer-Versicherung müssen zur Anmeldung passen. Bereite Übernehmerliste und notariell bescheinigten vollständigen Satzungswortlaut nach Paragrafen 54 und 57 vor; verwechsle die Übernehmerliste nicht mit der Gesellschafterliste nach Paragraf 40. Die Satzungsänderung wird erst mit Eintragung wirksam, Paragraf 54 Absatz 3. Einen gleichzeitigen Geschäftsführerwechsel mit eigenem Wirksamkeitsdatum bearbeiten.
+
+### 3.5. Alle erforderlichen Anmeldenden einbeziehen
+
+GmbHG Paragraf 78 verlangt für die Anmeldung nach Paragraf 57 sämtliche Geschäftsführer. Bei einem gleichzeitigen Organwechsel deshalb den tatsächlichen Wirksamkeitszeitpunkt der Bestellung beziehungsweise Abberufung ermitteln und die zu diesem Anmeldezeitpunkt erforderlichen Geschäftsführer einbeziehen. Einzelvertretungsbefugnis verkürzt diesen Kreis nicht. Eine Bankgutschrift korrigiert die Einlagenrechnung; sie belegt für sich weder die freie Verfügung der Geschäftsführung noch eine bereits abgegebene Versicherung. Nach bestätigtem Zahlungseingang den vollständigen Anmeldeentwurf samt Anlagen aktualisieren.
 
 ## 4. Quellenpflicht
 

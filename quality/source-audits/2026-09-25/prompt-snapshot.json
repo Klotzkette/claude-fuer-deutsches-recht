@@ -1,0 +1,4412 @@
+[
+  {
+    "plugin": "agb-recht-pruefer",
+    "kind": "workshop",
+    "path": "agb-recht-pruefer/agb-recht-pruefer-werkstatt.md",
+    "bytes": 39424,
+    "characters": 38814,
+    "sha256": "3f0616ce9f66dd1ddd11c06ba2610605ca2c42d57f468735f12fafef93e03626",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "agb-recht-pruefer",
+    "kind": "mini",
+    "path": "agb-recht-pruefer/agb-recht-pruefer-schnellstart.md",
+    "bytes": 7261,
+    "characters": 7144,
+    "sha256": "aa2b6516bfa0f52a5067421a4cf66d04594421721b13488ab0e0f7081e3a4c6a",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "aktenaufbereiter-strafrecht",
+    "kind": "workshop",
+    "path": "aktenaufbereiter-strafrecht/aktenaufbereiter-strafrecht-werkstatt.md",
+    "bytes": 17758,
+    "characters": 17515,
+    "sha256": "f274e1b4af7ea5aa73d45a13e2e1d7f16d7397e51468e5fb24371a0212d7d2ae",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "aktenaufbereiter-strafrecht",
+    "kind": "mini",
+    "path": "aktenaufbereiter-strafrecht/aktenaufbereiter-strafrecht-schnellstart.md",
+    "bytes": 6783,
+    "characters": 6690,
+    "sha256": "5575f8a039ddf834783ff608f06cd3b75f53103cf9f29951b76fce7c25ea0597",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "aktenauszug-gerichtsverfahren",
+    "kind": "workshop",
+    "path": "aktenauszug-gerichtsverfahren/aktenauszug-gerichtsverfahren-werkstatt.md",
+    "bytes": 14747,
+    "characters": 14536,
+    "sha256": "12d2bd2b61586ad18cf369222b44c869b9778e1379a482b5af98e761f54cedd1",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "aktenauszug-gerichtsverfahren",
+    "kind": "mini",
+    "path": "aktenauszug-gerichtsverfahren/aktenauszug-gerichtsverfahren-schnellstart.md",
+    "bytes": 6702,
+    "characters": 6624,
+    "sha256": "edb6be8db5d0655061be9043ca31cba9ce70f1cafa855c4263e9a5042fda66e3",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "aktienrecht-hauptversammlung-ag-se",
+    "kind": "workshop",
+    "path": "aktienrecht-hauptversammlung-ag-se/aktienrecht-hauptversammlung-ag-se-werkstatt.md",
+    "bytes": 16327,
+    "characters": 16095,
+    "sha256": "f45ff7c9ac92538263b3fe04ffbb3254a5482aa7bb4b9abb6f66b45b8d1a2411",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "aktienrecht-hauptversammlung-ag-se",
+    "kind": "mini",
+    "path": "aktienrecht-hauptversammlung-ag-se/aktienrecht-hauptversammlung-ag-se-schnellstart.md",
+    "bytes": 7269,
+    "characters": 7165,
+    "sha256": "a1cf4eb076dc5993784e49cccc974d7165bf843967ba3c67f991376583e7a4d9",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "anlagen-zu-schriftsaetzen",
+    "kind": "workshop",
+    "path": "anlagen-zu-schriftsaetzen/anlagen-zu-schriftsaetzen-werkstatt.md",
+    "bytes": 23705,
+    "characters": 23394,
+    "sha256": "188741940f30ef2b86ed7adb05c41e1e98ef251bd4b706e55ce1525936dd4023",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "anlagen-zu-schriftsaetzen",
+    "kind": "mini",
+    "path": "anlagen-zu-schriftsaetzen/anlagen-zu-schriftsaetzen-schnellstart.md",
+    "bytes": 7475,
+    "characters": 7378,
+    "sha256": "fc7000a0a9d65861f60ee76f92f0c10f41f639cd0266cd7f6294e45fc7bfb9ec",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "anwaltschaft-generell",
+    "kind": "workshop",
+    "path": "anwaltschaft-generell/anwaltschaft-generell-werkstatt.md",
+    "bytes": 63859,
+    "characters": 62786,
+    "sha256": "0d3beeafee65149dd82ec3c18434f3acaee0de103f4e7e10c188389eeb0af7c4",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "anwaltschaft-generell",
+    "kind": "mini",
+    "path": "anwaltschaft-generell/anwaltschaft-generell-schnellstart.md",
+    "bytes": 7473,
+    "characters": 7381,
+    "sha256": "91218fca77b252acae824d7a276999660b6805b9933c9c7930391351f51d8756",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "apothekenrecht",
+    "kind": "workshop",
+    "path": "apothekenrecht/apothekenrecht-werkstatt.md",
+    "bytes": 20484,
+    "characters": 20157,
+    "sha256": "e72467dfb4dd25170484393f46a5fb027c74aae9fded18ed424aba4c562ff676",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "apothekenrecht",
+    "kind": "mini",
+    "path": "apothekenrecht/apothekenrecht-schnellstart.md",
+    "bytes": 6822,
+    "characters": 6716,
+    "sha256": "937ff7f4e5b5c46bd3c4fa2dcdd5e0b4fcddd0e38eff4cd75097397362b6c840",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "arbeitsrecht",
+    "kind": "workshop",
+    "path": "arbeitsrecht/arbeitsrecht-werkstatt.md",
+    "bytes": 17693,
+    "characters": 17410,
+    "sha256": "26b4379e3781c8135313eafffad1b9c823ab58d4211ac485958182ebfd47be78",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "arbeitsrecht",
+    "kind": "mini",
+    "path": "arbeitsrecht/arbeitsrecht-schnellstart.md",
+    "bytes": 6994,
+    "characters": 6886,
+    "sha256": "3a9ccf1a1a348d9aa74bedbb111b870ff1be7081065c943378a632d4b6f326d9",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "arbeitszeugnis-analyse",
+    "kind": "workshop",
+    "path": "arbeitszeugnis-analyse/arbeitszeugnis-analyse-werkstatt.md",
+    "bytes": 14857,
+    "characters": 14589,
+    "sha256": "c2011062bbb83667f26baf97643780199294bd892c38b07940162170d743d7a2",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "arbeitszeugnis-analyse",
+    "kind": "mini",
+    "path": "arbeitszeugnis-analyse/arbeitszeugnis-analyse-schnellstart.md",
+    "bytes": 6004,
+    "characters": 5905,
+    "sha256": "ea939307690054c3294f043f1c80ebbe74f123db9dbee19fd4dd804c5c68e0f4",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "arbeitszeugnisgenerator",
+    "kind": "workshop",
+    "path": "arbeitszeugnisgenerator/arbeitszeugnisgenerator-werkstatt.md",
+    "bytes": 24115,
+    "characters": 23719,
+    "sha256": "f3e7ce0fa4eab5895ca6ab28609ec71017e843153dc3c7a72e4c556ab781faf7",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "arbeitszeugnisgenerator",
+    "kind": "mini",
+    "path": "arbeitszeugnisgenerator/arbeitszeugnisgenerator-schnellstart.md",
+    "bytes": 7477,
+    "characters": 7354,
+    "sha256": "bdb669bd7b7d68d177584c9d38bc7c755ebebbf558920b125115769e50cd3e6c",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "arbeitszeugnispruefer",
+    "kind": "workshop",
+    "path": "arbeitszeugnispruefer/arbeitszeugnispruefer-werkstatt.md",
+    "bytes": 21491,
+    "characters": 21160,
+    "sha256": "d833caf0340906395a8dd09f53afdcee70178aed2428f07065e465b05f1483aa",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "arbeitszeugnispruefer",
+    "kind": "mini",
+    "path": "arbeitszeugnispruefer/arbeitszeugnispruefer-schnellstart.md",
+    "bytes": 7419,
+    "characters": 7303,
+    "sha256": "3157ed47c4a949a4adc2d05374bc113df1a1b093f921f67448842c5a545e02ff",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "aufsichtsrat-ag-se-praxis",
+    "kind": "workshop",
+    "path": "aufsichtsrat-ag-se-praxis/aufsichtsrat-ag-se-praxis-werkstatt.md",
+    "bytes": 19097,
+    "characters": 18816,
+    "sha256": "14a90f5f2561cb8e88dd6f53d4da30d7ae891efbb6634a5a7d13aab74362fd22",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "aufsichtsrat-ag-se-praxis",
+    "kind": "mini",
+    "path": "aufsichtsrat-ag-se-praxis/aufsichtsrat-ag-se-praxis-schnellstart.md",
+    "bytes": 7022,
+    "characters": 6931,
+    "sha256": "3254a6c8a0a23cf4f89d5f506cf0d1847806741eaf4899cc0aa5e89f83f12fb6",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "aussenwirtschaft-zoll-sanktionen",
+    "kind": "workshop",
+    "path": "aussenwirtschaft-zoll-sanktionen/aussenwirtschaft-zoll-sanktionen-werkstatt.md",
+    "bytes": 16902,
+    "characters": 16666,
+    "sha256": "e674704fbc78e73e21f387018988bbece34c65a21e4e29fd06975859e694b9ea",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "aussenwirtschaft-zoll-sanktionen",
+    "kind": "mini",
+    "path": "aussenwirtschaft-zoll-sanktionen/aussenwirtschaft-zoll-sanktionen-schnellstart.md",
+    "bytes": 6928,
+    "characters": 6831,
+    "sha256": "f09d22dddcb2009abb092c0802691f81113d9445c1309074d6b7f78484a84f35",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "bank-rechtsabteilung",
+    "kind": "workshop",
+    "path": "bank-rechtsabteilung/bank-rechtsabteilung-werkstatt.md",
+    "bytes": 16182,
+    "characters": 15899,
+    "sha256": "e5ffed99c3c3b42ea4e2a5bcf4d3a44cee26f7b9d4cb91ef482f72a79e6ada97",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "bank-rechtsabteilung",
+    "kind": "mini",
+    "path": "bank-rechtsabteilung/bank-rechtsabteilung-schnellstart.md",
+    "bytes": 7231,
+    "characters": 7120,
+    "sha256": "79b29e2a2f80bde5ad7050407c124a567aa3b620c16599dfd6f828e171ef338d",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "barrierefreiheit-web-checker",
+    "kind": "workshop",
+    "path": "barrierefreiheit-web-checker/barrierefreiheit-web-checker-werkstatt.md",
+    "bytes": 17300,
+    "characters": 17008,
+    "sha256": "854399a5263d867a29e06e580d36eefda4aafde1cad1129572dad7bb0828005a",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "barrierefreiheit-web-checker",
+    "kind": "mini",
+    "path": "barrierefreiheit-web-checker/barrierefreiheit-web-checker-schnellstart.md",
+    "bytes": 7366,
+    "characters": 7272,
+    "sha256": "e3ab28f8a550f27c6611676fcec597bf162d19e8b80a4d5e3bc67fe2a1b4e4df",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "bautraegervertrag-pruefer",
+    "kind": "workshop",
+    "path": "bautraegervertrag-pruefer/bautraegervertrag-pruefer-werkstatt.md",
+    "bytes": 18759,
+    "characters": 18430,
+    "sha256": "6453fb868c4fc07f5e37a23bb8a62253469a4948b55a449004477d22a48cc2d0",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "bautraegervertrag-pruefer",
+    "kind": "mini",
+    "path": "bautraegervertrag-pruefer/bautraegervertrag-pruefer-schnellstart.md",
+    "bytes": 5979,
+    "characters": 5876,
+    "sha256": "5813bdbab3d26308dd344347bdb068a457c4114fc0d8b32248360c4d278ead98",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "bautraegervertragspruefer",
+    "kind": "workshop",
+    "path": "bautraegervertragspruefer/bautraegervertragspruefer-werkstatt.md",
+    "bytes": 20712,
+    "characters": 20351,
+    "sha256": "1860ab0211e15d153b558c6b15f3d0ae708721a4b0b72ea69e7574877349b8ed",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "bautraegervertragspruefer",
+    "kind": "mini",
+    "path": "bautraegervertragspruefer/bautraegervertragspruefer-schnellstart.md",
+    "bytes": 5799,
+    "characters": 5685,
+    "sha256": "97917f2f28008a2e8a8f870628ba172679f05fb8ece30fcbff9f0b6af8e17242",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "bauwirtschaft",
+    "kind": "workshop",
+    "path": "bauwirtschaft/bauwirtschaft-werkstatt.md",
+    "bytes": 85873,
+    "characters": 84420,
+    "sha256": "8b3d576b832932dd0bbbdb688893b87efaf2e9c73ab90bbeb24506c86727b60c",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "bauwirtschaft",
+    "kind": "mini",
+    "path": "bauwirtschaft/bauwirtschaft-schnellstart.md",
+    "bytes": 7475,
+    "characters": 7355,
+    "sha256": "45fbbde258f28599a97fe6a75df389a4f60d4e7955b1e8748c9619e845d999ed",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "bav-strategie-konzern",
+    "kind": "workshop",
+    "path": "bav-strategie-konzern/bav-strategie-konzern-werkstatt.md",
+    "bytes": 17422,
+    "characters": 17137,
+    "sha256": "0596345f78f5007dcd757aa0316e9628f68f8fbd737d536231bd8cbd702d4444",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "bav-strategie-konzern",
+    "kind": "mini",
+    "path": "bav-strategie-konzern/bav-strategie-konzern-schnellstart.md",
+    "bytes": 6358,
+    "characters": 6273,
+    "sha256": "13965ebb219348ab2c2cc0abe782e6cac1ec7b5f0bec16ed9919a98057770471",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "beamtenrecht",
+    "kind": "workshop",
+    "path": "beamtenrecht/beamtenrecht-werkstatt.md",
+    "bytes": 15252,
+    "characters": 15034,
+    "sha256": "8678037aef591629d60823c457b71e7b422dc0af4799ffd2c0ff34cddfe58a97",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "beamtenrecht",
+    "kind": "mini",
+    "path": "beamtenrecht/beamtenrecht-schnellstart.md",
+    "bytes": 6113,
+    "characters": 6026,
+    "sha256": "fc5fcadac17c714896a8fcbcde37cbe533d4dfbf4530d42c6fce8d4f166a9d83",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "bereicherungs-und-anfechtungsrecht-pruefer",
+    "kind": "workshop",
+    "path": "bereicherungs-und-anfechtungsrecht-pruefer/bereicherungs-und-anfechtungsrecht-pruefer-werkstatt.md",
+    "bytes": 16482,
+    "characters": 16194,
+    "sha256": "e306c764e0c38fd6c3281f78ee26cd304bd033db97d128ac3a83ec677e4138fc",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "bereicherungs-und-anfechtungsrecht-pruefer",
+    "kind": "mini",
+    "path": "bereicherungs-und-anfechtungsrecht-pruefer/bereicherungs-und-anfechtungsrecht-pruefer-schnellstart.md",
+    "bytes": 7380,
+    "characters": 7251,
+    "sha256": "3d6afdf75d675406e13ac3c30d34287038553ce14289deca704d8e457a58a24a",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "berichtspflichten-erlediger",
+    "kind": "workshop",
+    "path": "berichtspflichten-erlediger/berichtspflichten-erlediger-werkstatt.md",
+    "bytes": 15895,
+    "characters": 15663,
+    "sha256": "e43817aea8312425998e6e8adff8a08e282845b145d4578dd81a73744dcfc0ab",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "berichtspflichten-erlediger",
+    "kind": "mini",
+    "path": "berichtspflichten-erlediger/berichtspflichten-erlediger-schnellstart.md",
+    "bytes": 6350,
+    "characters": 6249,
+    "sha256": "8e3b479161211976bc8ffd714a974c0fd5159236ca870a7f1a36d48a1f75a96d",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "berufsgerichtliche-verfahren-freie-berufe",
+    "kind": "workshop",
+    "path": "berufsgerichtliche-verfahren-freie-berufe/berufsgerichtliche-verfahren-freie-berufe-werkstatt.md",
+    "bytes": 17463,
+    "characters": 17163,
+    "sha256": "96765014e07fb3d93b1088d2bf00cd4f9edc446b5e6d7ca33ad59414567115b9",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "berufsgerichtliche-verfahren-freie-berufe",
+    "kind": "mini",
+    "path": "berufsgerichtliche-verfahren-freie-berufe/berufsgerichtliche-verfahren-freie-berufe-schnellstart.md",
+    "bytes": 6524,
+    "characters": 6422,
+    "sha256": "19eb810c9397d2e276d7502085fe711cf8c5e2f411f83794252fb233aa5e8d6a",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "berufsrecht-anwaelte",
+    "kind": "workshop",
+    "path": "berufsrecht-anwaelte/berufsrecht-anwaelte-werkstatt.md",
+    "bytes": 17100,
+    "characters": 16844,
+    "sha256": "514e7b3c2d3106b12808be03161f389f53555106320e23cdf34f17144475c1b7",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "berufsrecht-anwaelte",
+    "kind": "mini",
+    "path": "berufsrecht-anwaelte/berufsrecht-anwaelte-schnellstart.md",
+    "bytes": 6057,
+    "characters": 5965,
+    "sha256": "5b1453f02d587efa149a5c2819e9d8e51b2e08c8af03407998cce7bc9f3a41ac",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "berufsrecht-ki-vertragspruefung",
+    "kind": "workshop",
+    "path": "berufsrecht-ki-vertragspruefung/berufsrecht-ki-vertragspruefung-werkstatt.md",
+    "bytes": 15890,
+    "characters": 15670,
+    "sha256": "411a3d2c4d4dbec08b26b245975636321c5b95950be8e32e9c3742a7c4270edf",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "berufsrecht-ki-vertragspruefung",
+    "kind": "mini",
+    "path": "berufsrecht-ki-vertragspruefung/berufsrecht-ki-vertragspruefung-schnellstart.md",
+    "bytes": 7393,
+    "characters": 7272,
+    "sha256": "a4580435c4fe874206c6cfa5ad48dd07a3b4862fa54295c22a6b3574501618d5",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "berufsrecht-notare",
+    "kind": "workshop",
+    "path": "berufsrecht-notare/berufsrecht-notare-werkstatt.md",
+    "bytes": 16111,
+    "characters": 15873,
+    "sha256": "9c481e2448d7457579537153357cb5ed7f6170c3b7d56612b3ae841eb772604f",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "berufsrecht-notare",
+    "kind": "mini",
+    "path": "berufsrecht-notare/berufsrecht-notare-schnellstart.md",
+    "bytes": 6569,
+    "characters": 6475,
+    "sha256": "05acba944a2798eaf7d636aa0fe276d3044a740c8652cc345f865000aee2ef43",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "berufsrecht-patentanwaelte",
+    "kind": "workshop",
+    "path": "berufsrecht-patentanwaelte/berufsrecht-patentanwaelte-werkstatt.md",
+    "bytes": 14841,
+    "characters": 14631,
+    "sha256": "9551090746e37d50f9a3515ab49aeb52b0419e0e93fe25222fab3913575dd9f9",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "berufsrecht-patentanwaelte",
+    "kind": "mini",
+    "path": "berufsrecht-patentanwaelte/berufsrecht-patentanwaelte-schnellstart.md",
+    "bytes": 6046,
+    "characters": 5954,
+    "sha256": "db4005cb54fe9fe9cc52be0d1385fc31e6d9bdb1fab69253f6b76b87080778e7",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "berufsrecht-steuerberater",
+    "kind": "workshop",
+    "path": "berufsrecht-steuerberater/berufsrecht-steuerberater-werkstatt.md",
+    "bytes": 19546,
+    "characters": 19216,
+    "sha256": "97343f6beaab43660c313b170c7f6a02614c9997e79783ed1a9d112085e8d7ff",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "berufsrecht-steuerberater",
+    "kind": "mini",
+    "path": "berufsrecht-steuerberater/berufsrecht-steuerberater-schnellstart.md",
+    "bytes": 6421,
+    "characters": 6320,
+    "sha256": "7174315356b20975de7fd9eb0743905e566cd6f5c96f98b740f8ef81ce40d328",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "berufsrecht-wirtschaftspruefer",
+    "kind": "workshop",
+    "path": "berufsrecht-wirtschaftspruefer/berufsrecht-wirtschaftspruefer-werkstatt.md",
+    "bytes": 17785,
+    "characters": 17464,
+    "sha256": "07ec33402b2d82a41c2dd0b5883020b373e2052eb337d833a904f435225c4fac",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "berufsrecht-wirtschaftspruefer",
+    "kind": "mini",
+    "path": "berufsrecht-wirtschaftspruefer/berufsrecht-wirtschaftspruefer-schnellstart.md",
+    "bytes": 6830,
+    "characters": 6704,
+    "sha256": "916ab1e465d6812668517145ecbcb3a0b99c84ad6f6b131b8e5058ade989af08",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "betaeubungsmittelrecht",
+    "kind": "workshop",
+    "path": "betaeubungsmittelrecht/betaeubungsmittelrecht-werkstatt.md",
+    "bytes": 14179,
+    "characters": 13961,
+    "sha256": "a1b8b0bd2bbd3729b46997a6147cd7bbfaeb04c9b56ddf0144b40c9328437318",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "betaeubungsmittelrecht",
+    "kind": "mini",
+    "path": "betaeubungsmittelrecht/betaeubungsmittelrecht-schnellstart.md",
+    "bytes": 6121,
+    "characters": 6035,
+    "sha256": "0834eaa77482b37cd1908980b4219db2d3705097eda07ad223647afd0a390e85",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "betreuungsrecht",
+    "kind": "workshop",
+    "path": "betreuungsrecht/betreuungsrecht-werkstatt.md",
+    "bytes": 16753,
+    "characters": 16449,
+    "sha256": "e5920696d66050fb12dbbf29796512157ba9eceb710b5c3330951cf5582b3b71",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "betreuungsrecht",
+    "kind": "mini",
+    "path": "betreuungsrecht/betreuungsrecht-schnellstart.md",
+    "bytes": 6860,
+    "characters": 6743,
+    "sha256": "32737e5eadec193d28fd203c3335fe64f0983e908ca4ac92386627ed786b0526",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "betriebskosten-hausverwaltung",
+    "kind": "workshop",
+    "path": "betriebskosten-hausverwaltung/betriebskosten-hausverwaltung-werkstatt.md",
+    "bytes": 28787,
+    "characters": 28330,
+    "sha256": "e137cf7cbed108ea499a830bb32b7e54d14c3d5566c55c249eedf64401bc46d5",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "betriebskosten-hausverwaltung",
+    "kind": "mini",
+    "path": "betriebskosten-hausverwaltung/betriebskosten-hausverwaltung-schnellstart.md",
+    "bytes": 7487,
+    "characters": 7380,
+    "sha256": "f96a8d9ae1572dc494dedbebdfa60ccc721e39b9e28a18860daf83d1339f067e",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "bgb-at-pruefer",
+    "kind": "workshop",
+    "path": "bgb-at-pruefer/bgb-at-pruefer-werkstatt.md",
+    "bytes": 15491,
+    "characters": 15217,
+    "sha256": "5cc10d67abd92b7a39692963399b2ddc0992dcb6049ddd5b3948edfc9f3abab3",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "bgb-at-pruefer",
+    "kind": "mini",
+    "path": "bgb-at-pruefer/bgb-at-pruefer-schnellstart.md",
+    "bytes": 6168,
+    "characters": 6062,
+    "sha256": "319a40a62b4e2aec4e5f026702e8ce04bf437f5e6db1ffec0c96a7c286c4d2ce",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "bgb-bt-pruefer",
+    "kind": "workshop",
+    "path": "bgb-bt-pruefer/bgb-bt-pruefer-werkstatt.md",
+    "bytes": 17168,
+    "characters": 16884,
+    "sha256": "0a9a4a2a3be61355b91aab18f521b9d403f2089f71f9f48d6ba8be785045609a",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "bgb-bt-pruefer",
+    "kind": "mini",
+    "path": "bgb-bt-pruefer/bgb-bt-pruefer-schnellstart.md",
+    "bytes": 6154,
+    "characters": 6048,
+    "sha256": "039d1c217764b443e863a197de4629e08b76395a6ed58da65e5ce4f68491741e",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "buerokratieversteher-entbuerokratisierer",
+    "kind": "workshop",
+    "path": "buerokratieversteher-entbuerokratisierer/buerokratieversteher-entbuerokratisierer-werkstatt.md",
+    "bytes": 19198,
+    "characters": 18856,
+    "sha256": "e89496ac77d95d3162093f748d198be2c7e5e6e75613eeda06bd84ac06f27e36",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "buerokratieversteher-entbuerokratisierer",
+    "kind": "mini",
+    "path": "buerokratieversteher-entbuerokratisierer/buerokratieversteher-entbuerokratisierer-schnellstart.md",
+    "bytes": 5892,
+    "characters": 5783,
+    "sha256": "f05efc2de3ce4096fc28b44a31f55f945338a156397a358506bd61a029579c85",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "bundesnetzagentur-verfahren",
+    "kind": "workshop",
+    "path": "bundesnetzagentur-verfahren/bundesnetzagentur-verfahren-werkstatt.md",
+    "bytes": 15973,
+    "characters": 15709,
+    "sha256": "775afc9a63bca895e83a015bcdd9305e6601c97542dbca64d63cc18aa92b5a1c",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "bundesnetzagentur-verfahren",
+    "kind": "mini",
+    "path": "bundesnetzagentur-verfahren/bundesnetzagentur-verfahren-schnellstart.md",
+    "bytes": 6262,
+    "characters": 6157,
+    "sha256": "9261034bd2e25ee54cc9dd9f55fd3061376cbf21f78f1e443e0c3c38b551b129",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "bundeswehrrecht-wehrrecht",
+    "kind": "workshop",
+    "path": "bundeswehrrecht-wehrrecht/bundeswehrrecht-wehrrecht-werkstatt.md",
+    "bytes": 16664,
+    "characters": 16416,
+    "sha256": "23a9b00239261926f839e104f126f216ed506dec59712e96b9745ad6093e4d6c",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "bundeswehrrecht-wehrrecht",
+    "kind": "mini",
+    "path": "bundeswehrrecht-wehrrecht/bundeswehrrecht-wehrrecht-schnellstart.md",
+    "bytes": 6521,
+    "characters": 6439,
+    "sha256": "9065a2c19ab836bb445c90f36d75727be5486f49fd30215941a8ec743c0ad490",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "commercial-courts-deutschland",
+    "kind": "workshop",
+    "path": "commercial-courts-deutschland/commercial-courts-deutschland-werkstatt.md",
+    "bytes": 13889,
+    "characters": 13647,
+    "sha256": "6679722d533e7be224ff961ac55c6e28b7d9662543c0af9e9438e3c927ba49ff",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "commercial-courts-deutschland",
+    "kind": "mini",
+    "path": "commercial-courts-deutschland/commercial-courts-deutschland-schnellstart.md",
+    "bytes": 5987,
+    "characters": 5899,
+    "sha256": "35cafffe21fed99ec35d06c5027adf6eedcdd2b880e56a08db747afdb5311574",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "common-law-kompass",
+    "kind": "workshop",
+    "path": "common-law-kompass/common-law-kompass-werkstatt.md",
+    "bytes": 17265,
+    "characters": 17009,
+    "sha256": "3644ad13eb20d7ad439bbfffb1c9f47a29daf4e9bb1d16bccf9f2b6e9e5f9648",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "common-law-kompass",
+    "kind": "mini",
+    "path": "common-law-kompass/common-law-kompass-schnellstart.md",
+    "bytes": 6681,
+    "characters": 6565,
+    "sha256": "e31f104de0bc2f850c401db35719e980eb58561211e35eb050a027324f39da5a",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "corporate-contract-law",
+    "kind": "workshop",
+    "path": "corporate-contract-law/corporate-contract-law-werkstatt.md",
+    "bytes": 85319,
+    "characters": 83609,
+    "sha256": "81a729559e1277c134c131232af1535ce2a264967f320442204833cabc48a6b5",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "corporate-contract-law",
+    "kind": "mini",
+    "path": "corporate-contract-law/corporate-contract-law-schnellstart.md",
+    "bytes": 7068,
+    "characters": 6954,
+    "sha256": "1d9d0270cd3ee927e07d20d15feb292e911823fb7abeb63bf9563451aeabf090",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "corporate-kanzlei",
+    "kind": "workshop",
+    "path": "corporate-kanzlei/corporate-kanzlei-werkstatt.md",
+    "bytes": 17430,
+    "characters": 17169,
+    "sha256": "5b565a6b39fc8576818a207542abbcad5bd97d9474741923232eba8e00fd930d",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "corporate-kanzlei",
+    "kind": "mini",
+    "path": "corporate-kanzlei/corporate-kanzlei-schnellstart.md",
+    "bytes": 7385,
+    "characters": 7279,
+    "sha256": "92452735e5b57600691d2674d2e185704830b57cab16db8346d258c5ba078eff",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "datenbankrecht",
+    "kind": "workshop",
+    "path": "datenbankrecht/datenbankrecht-werkstatt.md",
+    "bytes": 15891,
+    "characters": 15640,
+    "sha256": "e8f984e98ba7c0e585634da5234f5181a37dfbcbfaee61eb763a6c18199c8570",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "datenbankrecht",
+    "kind": "mini",
+    "path": "datenbankrecht/datenbankrecht-schnellstart.md",
+    "bytes": 6816,
+    "characters": 6711,
+    "sha256": "ae86b5591d0133cc49fe25149800a732f783d1adee5abc949a2bddcaaef788f7",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "datenschutz-sanktionsverfahren-verteidigung",
+    "kind": "workshop",
+    "path": "datenschutz-sanktionsverfahren-verteidigung/datenschutz-sanktionsverfahren-verteidigung-werkstatt.md",
+    "bytes": 18235,
+    "characters": 17939,
+    "sha256": "d159912cfa3a9c8cb2f5c61589b40388331961c37b63505b0b63915aa55469f5",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "datenschutz-sanktionsverfahren-verteidigung",
+    "kind": "mini",
+    "path": "datenschutz-sanktionsverfahren-verteidigung/datenschutz-sanktionsverfahren-verteidigung-schnellstart.md",
+    "bytes": 7480,
+    "characters": 7374,
+    "sha256": "e48d64a889fa140adf09a4b3550da7ac08cafb47612e8db4d906fc16f0fe1e38",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "datenschutzrecht",
+    "kind": "workshop",
+    "path": "datenschutzrecht/datenschutzrecht-werkstatt.md",
+    "bytes": 21038,
+    "characters": 20679,
+    "sha256": "f5e58a7907656b6e6cb9e18033dd864978f25892164c97ad5e317fde5ea7e7ed",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "datenschutzrecht",
+    "kind": "mini",
+    "path": "datenschutzrecht/datenschutzrecht-schnellstart.md",
+    "bytes": 7308,
+    "characters": 7190,
+    "sha256": "217f4734faef639699ad940425eecea563a2769f80e2a2086d8b6cec0f664809",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "denkmalschutzrecht",
+    "kind": "workshop",
+    "path": "denkmalschutzrecht/denkmalschutzrecht-werkstatt.md",
+    "bytes": 18789,
+    "characters": 18480,
+    "sha256": "f645d2e771eac9acd5ec04bf19ac0c9ebd97d85e1dec83b66c6f8532eeeea065",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "denkmalschutzrecht",
+    "kind": "mini",
+    "path": "denkmalschutzrecht/denkmalschutzrecht-schnellstart.md",
+    "bytes": 7199,
+    "characters": 7097,
+    "sha256": "2ce865e232359e34604b5d85e537ba77174bd4010edb5ff365d3144c04aa9f6a",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "designrecht-geschmacksmusterrecht",
+    "kind": "workshop",
+    "path": "designrecht-geschmacksmusterrecht/designrecht-geschmacksmusterrecht-werkstatt.md",
+    "bytes": 16495,
+    "characters": 16255,
+    "sha256": "088945d2a2fd5334be602f1e2ef2d12ed6907d7692d4953cb098b715732cfc8b",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "designrecht-geschmacksmusterrecht",
+    "kind": "mini",
+    "path": "designrecht-geschmacksmusterrecht/designrecht-geschmacksmusterrecht-schnellstart.md",
+    "bytes": 7324,
+    "characters": 7219,
+    "sha256": "ddd009f0ee319682f7035c7e7455a5b10e6ac380a17122c2dfd501ec082a08b8",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "deutsche-rechtsgeschichte",
+    "kind": "workshop",
+    "path": "deutsche-rechtsgeschichte/deutsche-rechtsgeschichte-werkstatt.md",
+    "bytes": 16107,
+    "characters": 15859,
+    "sha256": "b50081d14c51786b9b9c6f6cf8464c91bc98fccea4125b1b3509d53f69b63ef3",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "deutsche-rechtsgeschichte",
+    "kind": "mini",
+    "path": "deutsche-rechtsgeschichte/deutsche-rechtsgeschichte-schnellstart.md",
+    "bytes": 6017,
+    "characters": 5929,
+    "sha256": "fba89d8a732b996848924f9e6e2d822e17bebf35209b36e7c478efa9484ae5b3",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "dfg-foerderantrag",
+    "kind": "workshop",
+    "path": "dfg-foerderantrag/dfg-foerderantrag-werkstatt.md",
+    "bytes": 14644,
+    "characters": 14421,
+    "sha256": "79443e0f1daf48db656abd925a9387cdc260f8e759d323f29c15bc7634823361",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "dfg-foerderantrag",
+    "kind": "mini",
+    "path": "dfg-foerderantrag/dfg-foerderantrag-schnellstart.md",
+    "bytes": 6605,
+    "characters": 6526,
+    "sha256": "c1561b6cb5818b61bf78c462ec0d8aafaf5d4048f3335ee90859a1df3ce641f9",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "dsa-dma-digitalregulierung",
+    "kind": "workshop",
+    "path": "dsa-dma-digitalregulierung/dsa-dma-digitalregulierung-werkstatt.md",
+    "bytes": 19828,
+    "characters": 19518,
+    "sha256": "4ed9353d0cd92f21d9dd8dbe2e3d64d21c7cda3ebc8632692f787b404689c14d",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "dsa-dma-digitalregulierung",
+    "kind": "mini",
+    "path": "dsa-dma-digitalregulierung/dsa-dma-digitalregulierung-schnellstart.md",
+    "bytes": 7291,
+    "characters": 7183,
+    "sha256": "7588c333966e5c6defac29562e7b4d85e1ff8bf899655ad9b8db81a639b2392d",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "ecommerce-recht",
+    "kind": "workshop",
+    "path": "ecommerce-recht/ecommerce-recht-werkstatt.md",
+    "bytes": 15265,
+    "characters": 15041,
+    "sha256": "efa1dc86f9bd90acc6b0cf2ae292f52ec9bdc9d9fe87f391f7a794430aafc0f6",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "ecommerce-recht",
+    "kind": "mini",
+    "path": "ecommerce-recht/ecommerce-recht-schnellstart.md",
+    "bytes": 6897,
+    "characters": 6794,
+    "sha256": "cc94e4dacfa53b9c521dbd34c1d3925016fd1bd80810e0d4ba478ee0e3de4929",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "einfache-leichte-sprache-jura",
+    "kind": "workshop",
+    "path": "einfache-leichte-sprache-jura/einfache-leichte-sprache-jura-werkstatt.md",
+    "bytes": 14209,
+    "characters": 13915,
+    "sha256": "b211ef82ae9af28276c4c47c09d3e67eeee758b14be9f3099a5dfad80f570fa3",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "einfache-leichte-sprache-jura",
+    "kind": "mini",
+    "path": "einfache-leichte-sprache-jura/einfache-leichte-sprache-jura-schnellstart.md",
+    "bytes": 5796,
+    "characters": 5686,
+    "sha256": "582900fc8adf16a81110570b9044d533dab46b7e22ae3567c4176c61c8b8d82f",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "einigungsvertrag-vermoegensrecht",
+    "kind": "workshop",
+    "path": "einigungsvertrag-vermoegensrecht/einigungsvertrag-vermoegensrecht-werkstatt.md",
+    "bytes": 13229,
+    "characters": 12976,
+    "sha256": "65187690d2ae7f4aa7d642c46f6bb2c0ccda75b6b2c719c6d90e0f5c2a7a335c",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "einigungsvertrag-vermoegensrecht",
+    "kind": "mini",
+    "path": "einigungsvertrag-vermoegensrecht/einigungsvertrag-vermoegensrecht-schnellstart.md",
+    "bytes": 6497,
+    "characters": 6379,
+    "sha256": "407a7950ec168f202290c7fbbdd35a52fac3d75fecdb6e5c857d7e52e7ec46c0",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "email-umformulierer-berufsrecht",
+    "kind": "workshop",
+    "path": "email-umformulierer-berufsrecht/email-umformulierer-berufsrecht-werkstatt.md",
+    "bytes": 13379,
+    "characters": 13187,
+    "sha256": "b842447b9d180ee79db7937147c47d02ae47d492d4a3cc21e2d7132bfc169f3a",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "email-umformulierer-berufsrecht",
+    "kind": "mini",
+    "path": "email-umformulierer-berufsrecht/email-umformulierer-berufsrecht-schnellstart.md",
+    "bytes": 6452,
+    "characters": 6360,
+    "sha256": "65a7561f9db4fef70cb3939561884438f1773f1a5d61c1727a9fb1fab4e0a8f4",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "energierecht",
+    "kind": "workshop",
+    "path": "energierecht/energierecht-werkstatt.md",
+    "bytes": 19481,
+    "characters": 19184,
+    "sha256": "f74be33b693672bea0b446b80dfca5ca88cdb6af6ac2e4888b7c56b45d8d8a6d",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "energierecht",
+    "kind": "mini",
+    "path": "energierecht/energierecht-schnellstart.md",
+    "bytes": 6353,
+    "characters": 6267,
+    "sha256": "80d9c379b31448de47be14d7782992b4d3c65cb761ae51fb7ade3ee62493586b",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "erbbaurecht-praxis",
+    "kind": "workshop",
+    "path": "erbbaurecht-praxis/erbbaurecht-praxis-werkstatt.md",
+    "bytes": 15976,
+    "characters": 15750,
+    "sha256": "257d5ed854413fb683bda7edc4b44c7b23e8ba7d32b056cc916a88ca0a86b321",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "erbbaurecht-praxis",
+    "kind": "mini",
+    "path": "erbbaurecht-praxis/erbbaurecht-praxis-schnellstart.md",
+    "bytes": 6431,
+    "characters": 6338,
+    "sha256": "b16bcd34f66ed9c057ec49973f6c4f01911b8f24782e0bebf80cce87a2da77cc",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "europaeisches-prozessrecht",
+    "kind": "workshop",
+    "path": "europaeisches-prozessrecht/europaeisches-prozessrecht-werkstatt.md",
+    "bytes": 16595,
+    "characters": 16330,
+    "sha256": "ddabb9ece04a1df9bcb8cd85d7ef98bd15683fb0c61b7060ef81e175d8cce95e",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "europaeisches-prozessrecht",
+    "kind": "mini",
+    "path": "europaeisches-prozessrecht/europaeisches-prozessrecht-schnellstart.md",
+    "bytes": 7400,
+    "characters": 7295,
+    "sha256": "f36dd01fa6ca8bda00f40bb738b9d2b017637be0f047bc710831babb9176a138",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "europarecht-kompass",
+    "kind": "workshop",
+    "path": "europarecht-kompass/europarecht-kompass-werkstatt.md",
+    "bytes": 14274,
+    "characters": 14031,
+    "sha256": "ae13c050099c2c06b2efd203452a75b1896cab20343793b711ece8c3ae0f67e0",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "europarecht-kompass",
+    "kind": "mini",
+    "path": "europarecht-kompass/europarecht-kompass-schnellstart.md",
+    "bytes": 6201,
+    "characters": 6116,
+    "sha256": "b19811b4669b3e7f9ffc5ffdd3a89604d38615906bd11b6a2e5df494ff7661f6",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "fachanwalt-agrarrecht",
+    "kind": "workshop",
+    "path": "fachanwalt-agrarrecht/fachanwalt-agrarrecht-werkstatt.md",
+    "bytes": 18456,
+    "characters": 18137,
+    "sha256": "d15ea36b5d14f51f906713ad26089420addb0b8f5bf3abf622cb8c6418c6b667",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "fachanwalt-agrarrecht",
+    "kind": "mini",
+    "path": "fachanwalt-agrarrecht/fachanwalt-agrarrecht-schnellstart.md",
+    "bytes": 6933,
+    "characters": 6798,
+    "sha256": "67eba369713594f35c8883ba96b0bcb7a4289e2b79ff170522e05e5bb62d268f",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "fachanwalt-arbeitsrecht",
+    "kind": "workshop",
+    "path": "fachanwalt-arbeitsrecht/fachanwalt-arbeitsrecht-werkstatt.md",
+    "bytes": 26395,
+    "characters": 25953,
+    "sha256": "a24ebadfe30dc20db93e43e6f1a8a1e69bd8ae36850c0e891df80495fe55e1b7",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "fachanwalt-arbeitsrecht",
+    "kind": "mini",
+    "path": "fachanwalt-arbeitsrecht/fachanwalt-arbeitsrecht-schnellstart.md",
+    "bytes": 6738,
+    "characters": 6642,
+    "sha256": "81f27013f50b3a97433c28e0037db780f5e532e5ba158eed67ac4ef804f338f1",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "fachanwalt-bank-kapitalmarktrecht",
+    "kind": "workshop",
+    "path": "fachanwalt-bank-kapitalmarktrecht/fachanwalt-bank-kapitalmarktrecht-werkstatt.md",
+    "bytes": 19341,
+    "characters": 19060,
+    "sha256": "70e64307b08759d41947c00f7bb50c7d952c03101a790488f6b99ab63e956b6b",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "fachanwalt-bank-kapitalmarktrecht",
+    "kind": "mini",
+    "path": "fachanwalt-bank-kapitalmarktrecht/fachanwalt-bank-kapitalmarktrecht-schnellstart.md",
+    "bytes": 6428,
+    "characters": 6337,
+    "sha256": "89aa790de4780764e35582675f0c71cdbe74bf51cf99846b69da8002ee2f2075",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "fachanwalt-bau-architektenrecht",
+    "kind": "workshop",
+    "path": "fachanwalt-bau-architektenrecht/fachanwalt-bau-architektenrecht-werkstatt.md",
+    "bytes": 18168,
+    "characters": 17868,
+    "sha256": "733648fd3f0df0ff6d9094b5c81a9d5b8a0fd3ecd93fdfa05e7bea10b97e5a89",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "fachanwalt-bau-architektenrecht",
+    "kind": "mini",
+    "path": "fachanwalt-bau-architektenrecht/fachanwalt-bau-architektenrecht-schnellstart.md",
+    "bytes": 7054,
+    "characters": 6930,
+    "sha256": "2b330a578504db246cc16b1e044f3347b40b9144a8e13b8a77f1fe6365aff8eb",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "kind": "workshop",
+    "path": "fachanwalt-erbrecht/fachanwalt-erbrecht-werkstatt.md",
+    "bytes": 35846,
+    "characters": 35369,
+    "sha256": "bfcbc736b371190e7e8a457c5eb8d17216f5cc72c4491b845be8109134eaf341",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "kind": "mini",
+    "path": "fachanwalt-erbrecht/fachanwalt-erbrecht-schnellstart.md",
+    "bytes": 7407,
+    "characters": 7299,
+    "sha256": "4ffdb85f5e12261332f972dc7d639584e77921a44776d08119cba13c7d76faef",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "fachanwalt-familienrecht",
+    "kind": "workshop",
+    "path": "fachanwalt-familienrecht/fachanwalt-familienrecht-werkstatt.md",
+    "bytes": 40794,
+    "characters": 40217,
+    "sha256": "2eb5035053258f8f270bdaccb926adbedba06bd2b0416059e33f665abb189043",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "fachanwalt-familienrecht",
+    "kind": "mini",
+    "path": "fachanwalt-familienrecht/fachanwalt-familienrecht-schnellstart.md",
+    "bytes": 7227,
+    "characters": 7131,
+    "sha256": "3dee27a5c520cb8049ea2334a8248a515ecffbfa79c90b613cbf6473e039ea35",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "fachanwalt-gewerblicher-rechtsschutz",
+    "kind": "workshop",
+    "path": "fachanwalt-gewerblicher-rechtsschutz/fachanwalt-gewerblicher-rechtsschutz-werkstatt.md",
+    "bytes": 20126,
+    "characters": 19872,
+    "sha256": "2772e48225425367ccb08c0369780c169bb9538511d09e001a401d7b21c179f9",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "fachanwalt-gewerblicher-rechtsschutz",
+    "kind": "mini",
+    "path": "fachanwalt-gewerblicher-rechtsschutz/fachanwalt-gewerblicher-rechtsschutz-schnellstart.md",
+    "bytes": 5690,
+    "characters": 5629,
+    "sha256": "21b156e6b3ded68f5301b591314de2dfedcf008ca67bfadc5d139b1e05f28a20",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "fachanwalt-handels-gesellschaftsrecht",
+    "kind": "workshop",
+    "path": "fachanwalt-handels-gesellschaftsrecht/fachanwalt-handels-gesellschaftsrecht-werkstatt.md",
+    "bytes": 23984,
+    "characters": 23656,
+    "sha256": "73536aa588e8a42c7241eda89d811ed067a21d9d18c40838f771a52e596f3833",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "fachanwalt-handels-gesellschaftsrecht",
+    "kind": "mini",
+    "path": "fachanwalt-handels-gesellschaftsrecht/fachanwalt-handels-gesellschaftsrecht-schnellstart.md",
+    "bytes": 5871,
+    "characters": 5796,
+    "sha256": "77d6f7399dd9f34f49658f4fbcfa59a913add29ed33df663f68b4d7909778360",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "fachanwalt-insolvenz-sanierungsrecht",
+    "kind": "workshop",
+    "path": "fachanwalt-insolvenz-sanierungsrecht/fachanwalt-insolvenz-sanierungsrecht-werkstatt.md",
+    "bytes": 18133,
+    "characters": 17866,
+    "sha256": "776ce54197fd897c51de5c583bb892c210ed3e8bff6b26d00c70a6a8562a5512",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "fachanwalt-insolvenz-sanierungsrecht",
+    "kind": "mini",
+    "path": "fachanwalt-insolvenz-sanierungsrecht/fachanwalt-insolvenz-sanierungsrecht-schnellstart.md",
+    "bytes": 5839,
+    "characters": 5758,
+    "sha256": "9dbdbafd698d92046e1b3e6f7879414de98ca07a0e06eb04f631f994b63c947b",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "fachanwalt-internationales-wirtschaftsrecht",
+    "kind": "workshop",
+    "path": "fachanwalt-internationales-wirtschaftsrecht/fachanwalt-internationales-wirtschaftsrecht-werkstatt.md",
+    "bytes": 16572,
+    "characters": 16313,
+    "sha256": "d27f050c57062b85719a1a45b9dc187826127a41733d6a883f6164bbf6c5da39",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "fachanwalt-internationales-wirtschaftsrecht",
+    "kind": "mini",
+    "path": "fachanwalt-internationales-wirtschaftsrecht/fachanwalt-internationales-wirtschaftsrecht-schnellstart.md",
+    "bytes": 5439,
+    "characters": 5362,
+    "sha256": "4d97c92acc822eae87530805770451c0eedd9a8d57debe392c954279c1a393ec",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "fachanwalt-it-recht",
+    "kind": "workshop",
+    "path": "fachanwalt-it-recht/fachanwalt-it-recht-werkstatt.md",
+    "bytes": 24077,
+    "characters": 23747,
+    "sha256": "ac3d24f1f2be96bdd077e523b1e1cee19eaa745c9afe592ae38c89358a63467b",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "fachanwalt-it-recht",
+    "kind": "mini",
+    "path": "fachanwalt-it-recht/fachanwalt-it-recht-schnellstart.md",
+    "bytes": 7474,
+    "characters": 7385,
+    "sha256": "d576d1ad7539ef3453264753e6f8f28823df596cbae0125761fe7f1bbc9162cc",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "fachanwalt-medizinrecht",
+    "kind": "workshop",
+    "path": "fachanwalt-medizinrecht/fachanwalt-medizinrecht-werkstatt.md",
+    "bytes": 19978,
+    "characters": 19678,
+    "sha256": "730fa9b8e7ca260e8edc38dac4b68181f13072168f867bf46b2a97678f00c51b",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "fachanwalt-medizinrecht",
+    "kind": "mini",
+    "path": "fachanwalt-medizinrecht/fachanwalt-medizinrecht-schnellstart.md",
+    "bytes": 6092,
+    "characters": 6012,
+    "sha256": "15bb27f164ea9d1d0f80ea1495b90bab4112b028bfa63129a9d5fb31f323ba8d",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "fachanwalt-miet-wohnungseigentumsrecht",
+    "kind": "workshop",
+    "path": "fachanwalt-miet-wohnungseigentumsrecht/fachanwalt-miet-wohnungseigentumsrecht-werkstatt.md",
+    "bytes": 22567,
+    "characters": 22229,
+    "sha256": "0acf9c6508e799ba28d91f39a6862aca4493fd993a366961ed2627ab01e9675c",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "fachanwalt-miet-wohnungseigentumsrecht",
+    "kind": "mini",
+    "path": "fachanwalt-miet-wohnungseigentumsrecht/fachanwalt-miet-wohnungseigentumsrecht-schnellstart.md",
+    "bytes": 5830,
+    "characters": 5743,
+    "sha256": "7600ebd7ef3238379956185aa296f18780463920d3f9c9594c97e83a42adace4",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "fachanwalt-migrationsrecht",
+    "kind": "workshop",
+    "path": "fachanwalt-migrationsrecht/fachanwalt-migrationsrecht-werkstatt.md",
+    "bytes": 18086,
+    "characters": 17782,
+    "sha256": "82f9bcca79341951cc8e6c12c3ee8ee128c48c6af76e83ee891dcc924715faab",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "fachanwalt-migrationsrecht",
+    "kind": "mini",
+    "path": "fachanwalt-migrationsrecht/fachanwalt-migrationsrecht-schnellstart.md",
+    "bytes": 5677,
+    "characters": 5592,
+    "sha256": "2a593433f1545ee1ad467369d3c854704eed07c670247763129f7dc0b77bb6c1",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "fachanwalt-sozialrecht",
+    "kind": "workshop",
+    "path": "fachanwalt-sozialrecht/fachanwalt-sozialrecht-werkstatt.md",
+    "bytes": 21230,
+    "characters": 20923,
+    "sha256": "961e2901e947b15659a73c3c0e1261f48f0631fb6ec427c5a76ffe564a50ff3b",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "fachanwalt-sozialrecht",
+    "kind": "mini",
+    "path": "fachanwalt-sozialrecht/fachanwalt-sozialrecht-schnellstart.md",
+    "bytes": 5273,
+    "characters": 5206,
+    "sha256": "ac3fdfeacc663c14ae8ddc43dff362460c76be0177f023a3a012770907468ecf",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "fachanwalt-sportrecht",
+    "kind": "workshop",
+    "path": "fachanwalt-sportrecht/fachanwalt-sportrecht-werkstatt.md",
+    "bytes": 20608,
+    "characters": 20303,
+    "sha256": "5be5f0d53621df15cfdd5431c69b752012688fbb2257aff61cf80ec146c875b6",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "fachanwalt-sportrecht",
+    "kind": "mini",
+    "path": "fachanwalt-sportrecht/fachanwalt-sportrecht-schnellstart.md",
+    "bytes": 5378,
+    "characters": 5310,
+    "sha256": "d65121c78054962d231432728731446f714dd0e33451ddadbdfc0374273c4808",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "fachanwalt-strafrecht",
+    "kind": "workshop",
+    "path": "fachanwalt-strafrecht/fachanwalt-strafrecht-werkstatt.md",
+    "bytes": 27189,
+    "characters": 26755,
+    "sha256": "38ce0548fe0d35d27acbc820cced718276d3682778b105d743e79ecc367029bf",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "fachanwalt-strafrecht",
+    "kind": "mini",
+    "path": "fachanwalt-strafrecht/fachanwalt-strafrecht-schnellstart.md",
+    "bytes": 5913,
+    "characters": 5842,
+    "sha256": "c9de83f7cdde1c31cb3f76edfe9ec4cb52e672e08a411860d40ab2a7e129a1ef",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "fachanwalt-transport-speditionsrecht",
+    "kind": "workshop",
+    "path": "fachanwalt-transport-speditionsrecht/fachanwalt-transport-speditionsrecht-werkstatt.md",
+    "bytes": 22122,
+    "characters": 21820,
+    "sha256": "bca0b5a93988e25c6c2fe09abb40050b8816c5000d8a4a2af8bf095b27dbd201",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "fachanwalt-transport-speditionsrecht",
+    "kind": "mini",
+    "path": "fachanwalt-transport-speditionsrecht/fachanwalt-transport-speditionsrecht-schnellstart.md",
+    "bytes": 7275,
+    "characters": 7182,
+    "sha256": "f47b3ee7bb99f24b2b9515f42e493b1407f5d83aeb63d34cda93be4cf169659b",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "fachanwalt-urheber-medienrecht",
+    "kind": "workshop",
+    "path": "fachanwalt-urheber-medienrecht/fachanwalt-urheber-medienrecht-werkstatt.md",
+    "bytes": 18100,
+    "characters": 17819,
+    "sha256": "2f8faae2ecdb4b9d9069b3231948945f778984eae5d02dafb63fe8d078892397",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "fachanwalt-urheber-medienrecht",
+    "kind": "mini",
+    "path": "fachanwalt-urheber-medienrecht/fachanwalt-urheber-medienrecht-schnellstart.md",
+    "bytes": 5439,
+    "characters": 5358,
+    "sha256": "74d6c2db07e4bd4621b0786bbba3a2c4ce86a8d8c62413e0702becba5f6a94c7",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "fachanwalt-vergaberecht",
+    "kind": "workshop",
+    "path": "fachanwalt-vergaberecht/fachanwalt-vergaberecht-werkstatt.md",
+    "bytes": 22153,
+    "characters": 21801,
+    "sha256": "1cb6b9adebf7389ef42cbf378cae21d9659ea721bcf27d073c5936bb127c6174",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "fachanwalt-vergaberecht",
+    "kind": "mini",
+    "path": "fachanwalt-vergaberecht/fachanwalt-vergaberecht-schnellstart.md",
+    "bytes": 6216,
+    "characters": 6107,
+    "sha256": "b1ea5ddd4c7f043dac767f67bd93444c17569db13b6e19caec028ac2be85d6a4",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "fachanwalt-verkehrsrecht",
+    "kind": "workshop",
+    "path": "fachanwalt-verkehrsrecht/fachanwalt-verkehrsrecht-werkstatt.md",
+    "bytes": 20818,
+    "characters": 20530,
+    "sha256": "a1ebc16f244dccf40dbc0c7a6286fd847ce7ce6056fcf2c90ef057f299215db5",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "fachanwalt-verkehrsrecht",
+    "kind": "mini",
+    "path": "fachanwalt-verkehrsrecht/fachanwalt-verkehrsrecht-schnellstart.md",
+    "bytes": 5851,
+    "characters": 5772,
+    "sha256": "b1ee8d7a28a8f715bd91a67836735d0422149a735613de17d94c1ca901a2021e",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "fachanwalt-versicherungsrecht",
+    "kind": "workshop",
+    "path": "fachanwalt-versicherungsrecht/fachanwalt-versicherungsrecht-werkstatt.md",
+    "bytes": 20442,
+    "characters": 20116,
+    "sha256": "827988a96f3d7281526ffefd0eaf3f6633fbc78311021478ddabbed7de7cc47b",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "fachanwalt-versicherungsrecht",
+    "kind": "mini",
+    "path": "fachanwalt-versicherungsrecht/fachanwalt-versicherungsrecht-schnellstart.md",
+    "bytes": 5323,
+    "characters": 5256,
+    "sha256": "b63242f74c1996f6a1ae5919d23e7884ccb5f945dbfc97002f9480022657097b",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "fachanwalt-verwaltungsrecht",
+    "kind": "workshop",
+    "path": "fachanwalt-verwaltungsrecht/fachanwalt-verwaltungsrecht-werkstatt.md",
+    "bytes": 21724,
+    "characters": 21357,
+    "sha256": "d3e6f42d29913d03a814f1fa7ce1e61f831e5062ff6d1eb794dcdbeba1e2c47b",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "fachanwalt-verwaltungsrecht",
+    "kind": "mini",
+    "path": "fachanwalt-verwaltungsrecht/fachanwalt-verwaltungsrecht-schnellstart.md",
+    "bytes": 5791,
+    "characters": 5699,
+    "sha256": "b102d1e1716482325fbf3d864f016670e7763108c4c9bdf846ac0a65421aefac",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "factoring-recht",
+    "kind": "workshop",
+    "path": "factoring-recht/factoring-recht-werkstatt.md",
+    "bytes": 16556,
+    "characters": 16296,
+    "sha256": "c9190c2d08ccb75741b9a261e9354fcb6bf1029d565ef31259fcc85965d47693",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "factoring-recht",
+    "kind": "mini",
+    "path": "factoring-recht/factoring-recht-schnellstart.md",
+    "bytes": 7288,
+    "characters": 7188,
+    "sha256": "4dbf9af360a3ce4ed4ecf750bc8cdeaec986e60ec61112b6e8d9a4c8fdb8dcac",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "fahrgastrechte",
+    "kind": "workshop",
+    "path": "fahrgastrechte/fahrgastrechte-werkstatt.md",
+    "bytes": 20410,
+    "characters": 20074,
+    "sha256": "30716c01abe10482166070e22dda7c89b97db93212603f069fd37ba237ee65b3",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "fahrgastrechte",
+    "kind": "mini",
+    "path": "fahrgastrechte/fahrgastrechte-schnellstart.md",
+    "bytes": 6986,
+    "characters": 6860,
+    "sha256": "03bc2579fa8d74c526b72b764468ea9c709d0a874055b2189f3890b82251e63d",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "fashion-law-moderecht",
+    "kind": "workshop",
+    "path": "fashion-law-moderecht/fashion-law-moderecht-werkstatt.md",
+    "bytes": 20395,
+    "characters": 20098,
+    "sha256": "7cb6ceff76e1c5a8d108d9a3a14b40ac7808bf7dac0f5096fe14e7828d2a7bad",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "fashion-law-moderecht",
+    "kind": "mini",
+    "path": "fashion-law-moderecht/fashion-law-moderecht-schnellstart.md",
+    "bytes": 7077,
+    "characters": 6980,
+    "sha256": "30a58c50233db2ee9c4c041ff96c3a29a8fc37b80e3b5bb4d35dc50ea8d1c5d8",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "festlandchina-wirtschaftsverkehr",
+    "kind": "workshop",
+    "path": "festlandchina-wirtschaftsverkehr/festlandchina-wirtschaftsverkehr-werkstatt.md",
+    "bytes": 20538,
+    "characters": 20177,
+    "sha256": "77e59b1d78a79655c40f87529583be1332cd95a8127fee4d7308acedf8dd1bd8",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "festlandchina-wirtschaftsverkehr",
+    "kind": "mini",
+    "path": "festlandchina-wirtschaftsverkehr/festlandchina-wirtschaftsverkehr-schnellstart.md",
+    "bytes": 7393,
+    "characters": 7277,
+    "sha256": "3f4c211fe8a4cc8517c33e7933f7f6377ff895ca0c9926092752a337bf43509e",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "fluggastrechte",
+    "kind": "workshop",
+    "path": "fluggastrechte/fluggastrechte-werkstatt.md",
+    "bytes": 21068,
+    "characters": 20697,
+    "sha256": "db216598c8883d63cebf0394ab7abbfc0211fa4fa0df47a15e0a17cdc6fac95a",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "fluggastrechte",
+    "kind": "mini",
+    "path": "fluggastrechte/fluggastrechte-schnellstart.md",
+    "bytes": 7422,
+    "characters": 7293,
+    "sha256": "3860d88d2c345a78bb2a9d4112746126ff47e17ea5169e85fbbc1e45f5a6daae",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "forderungsmanagement-klagewerkstatt",
+    "kind": "workshop",
+    "path": "forderungsmanagement-klagewerkstatt/forderungsmanagement-klagewerkstatt-werkstatt.md",
+    "bytes": 19274,
+    "characters": 18984,
+    "sha256": "15532f30f85908e42c9b683e4da0915c4404abf1de55fc774077d94637bb3c38",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "forderungsmanagement-klagewerkstatt",
+    "kind": "mini",
+    "path": "forderungsmanagement-klagewerkstatt/forderungsmanagement-klagewerkstatt-schnellstart.md",
+    "bytes": 6691,
+    "characters": 6601,
+    "sha256": "a2209d60489e73448f08a2b61b34475f703ca84f84b44623c9361bf0f6ff9906",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "forschungszulage-antragstellung",
+    "kind": "workshop",
+    "path": "forschungszulage-antragstellung/forschungszulage-antragstellung-werkstatt.md",
+    "bytes": 18478,
+    "characters": 18185,
+    "sha256": "b9d63960b3f13953f697265717aabf1211646c947f2da51dc2b1abca5020e427",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "forschungszulage-antragstellung",
+    "kind": "mini",
+    "path": "forschungszulage-antragstellung/forschungszulage-antragstellung-schnellstart.md",
+    "bytes": 6550,
+    "characters": 6456,
+    "sha256": "d6fa84cf5193dfdfda4f2cc62ad3c933ec8660ec3c6598c5ce7abfc997b0d3b5",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "fortbestehensprognose",
+    "kind": "workshop",
+    "path": "fortbestehensprognose/fortbestehensprognose-werkstatt.md",
+    "bytes": 17415,
+    "characters": 17153,
+    "sha256": "79ab31c4d1cb96ca2273b9b2c592145cdf5e20371475ea3215b98c2a43c58eb3",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "fortbestehensprognose",
+    "kind": "mini",
+    "path": "fortbestehensprognose/fortbestehensprognose-schnellstart.md",
+    "bytes": 6542,
+    "characters": 6429,
+    "sha256": "c65eedb97e482ee6f96d0615f8473b11b821d01557944da5fbce51e8ad819c7a",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "franchiserecht-praxis",
+    "kind": "workshop",
+    "path": "franchiserecht-praxis/franchiserecht-praxis-werkstatt.md",
+    "bytes": 18670,
+    "characters": 18339,
+    "sha256": "86d1fa67233ed2cf3000fc99cc470a0d6f937b697fe531bf0b9abfdbd3983b08",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "franchiserecht-praxis",
+    "kind": "mini",
+    "path": "franchiserecht-praxis/franchiserecht-praxis-schnellstart.md",
+    "bytes": 5997,
+    "characters": 5890,
+    "sha256": "c6d0c3b58f38a90e0d6025bbf38c743d35ba61f12569275da346798ef53b9f7f",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "gebrauchsmusterrecht",
+    "kind": "workshop",
+    "path": "gebrauchsmusterrecht/gebrauchsmusterrecht-werkstatt.md",
+    "bytes": 19386,
+    "characters": 19114,
+    "sha256": "f0c093f878f318976b0d203efd3cf336b4fd03db99ba4abcf8d457de854d916f",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "gebrauchsmusterrecht",
+    "kind": "mini",
+    "path": "gebrauchsmusterrecht/gebrauchsmusterrecht-schnellstart.md",
+    "bytes": 7249,
+    "characters": 7134,
+    "sha256": "ab9a0ae0412fae4d96b8444cc2c7624f70e1bb1d1ea053458bdec82706a265e8",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "geldwaeschepraevention-aml-kyc",
+    "kind": "workshop",
+    "path": "geldwaeschepraevention-aml-kyc/geldwaeschepraevention-aml-kyc-werkstatt.md",
+    "bytes": 35355,
+    "characters": 34790,
+    "sha256": "9a17bacb4a1965b35e96c381b9178780704f78f25507edfad3171533eeff2efd",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "geldwaeschepraevention-aml-kyc",
+    "kind": "mini",
+    "path": "geldwaeschepraevention-aml-kyc/geldwaeschepraevention-aml-kyc-schnellstart.md",
+    "bytes": 7439,
+    "characters": 7335,
+    "sha256": "780fc6a0dea555f5c2ac0516f29cd5a10b5b8ee473bf8a8792fc2b2219b63247",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "gesellschaftsgruender",
+    "kind": "workshop",
+    "path": "gesellschaftsgruender/gesellschaftsgruender-werkstatt.md",
+    "bytes": 16562,
+    "characters": 16234,
+    "sha256": "b5a8150301a3ecb9f42e95f8fe8ca5b0309f86ef318a62af6bb29fdcc89892d9",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "gesellschaftsgruender",
+    "kind": "mini",
+    "path": "gesellschaftsgruender/gesellschaftsgruender-schnellstart.md",
+    "bytes": 6190,
+    "characters": 6082,
+    "sha256": "6507846fafae07279d122d7b88a6aee1724b8ac163559975ce996057e064d7c3",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "gesellschaftsrecht-legal-english",
+    "kind": "workshop",
+    "path": "gesellschaftsrecht-legal-english/gesellschaftsrecht-legal-english-werkstatt.md",
+    "bytes": 18295,
+    "characters": 17952,
+    "sha256": "9cdcfc6c913794e5b03e03dfcef4bccd9ff9ff53da895af271b5ea261babc1fd",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "gesellschaftsrecht-legal-english",
+    "kind": "mini",
+    "path": "gesellschaftsrecht-legal-english/gesellschaftsrecht-legal-english-schnellstart.md",
+    "bytes": 6267,
+    "characters": 6190,
+    "sha256": "a1d43c9e66e45bffd30730c0c0e64c3c6094d5728c59e3c92d673493ff38b889",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "gesellschaftsrecht",
+    "kind": "workshop",
+    "path": "gesellschaftsrecht/gesellschaftsrecht-werkstatt.md",
+    "bytes": 18981,
+    "characters": 18714,
+    "sha256": "162ba5f6b65b28e13bc18d44e0853c4780962b723062036798e507fc47258861",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "gesellschaftsrecht",
+    "kind": "mini",
+    "path": "gesellschaftsrecht/gesellschaftsrecht-schnellstart.md",
+    "bytes": 6644,
+    "characters": 6559,
+    "sha256": "8f651cea81f117bcd5a456a55a5461001144c0a14e7b1335c00c1426a663a004",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "gesellschaftsrechtliche-treuepflicht",
+    "kind": "workshop",
+    "path": "gesellschaftsrechtliche-treuepflicht/gesellschaftsrechtliche-treuepflicht-werkstatt.md",
+    "bytes": 18118,
+    "characters": 17867,
+    "sha256": "74c60e5d51dcfeddf35637eaa51dc0f1204c77ea1ef3ce5b21d7381cc257bab1",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "gesellschaftsrechtliche-treuepflicht",
+    "kind": "mini",
+    "path": "gesellschaftsrechtliche-treuepflicht/gesellschaftsrechtliche-treuepflicht-schnellstart.md",
+    "bytes": 6187,
+    "characters": 6107,
+    "sha256": "220c9ad5dc791e7d5ba0fa0b7258cefcb7d89cdf524382453ad8eff26f582be1",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "gewerblicher-rechtsschutz",
+    "kind": "workshop",
+    "path": "gewerblicher-rechtsschutz/gewerblicher-rechtsschutz-werkstatt.md",
+    "bytes": 19925,
+    "characters": 19665,
+    "sha256": "162e187d7d0694e87fde6effff46a0009dfa600b28ec4a9edcb3fa6c09e9a46c",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "gewerblicher-rechtsschutz",
+    "kind": "mini",
+    "path": "gewerblicher-rechtsschutz/gewerblicher-rechtsschutz-schnellstart.md",
+    "bytes": 6745,
+    "characters": 6664,
+    "sha256": "e59b9965a4e770fe76ad74deae0e3a99039b05d2695390c121e996e58a61215a",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "goae-gebuehrenordnung-aerzte",
+    "kind": "workshop",
+    "path": "goae-gebuehrenordnung-aerzte/goae-gebuehrenordnung-aerzte-werkstatt.md",
+    "bytes": 15697,
+    "characters": 15414,
+    "sha256": "bc888defb267e4044a21f19b5976006cc316b7dfc19bf7ba13ddd4f0e4532971",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "goae-gebuehrenordnung-aerzte",
+    "kind": "mini",
+    "path": "goae-gebuehrenordnung-aerzte/goae-gebuehrenordnung-aerzte-schnellstart.md",
+    "bytes": 6203,
+    "characters": 6092,
+    "sha256": "036e11ec18cdbdad25b0e2c82edaec1685d587d785a9e043e4995f55e8898f39",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "grosskanzlei-corporate-ma",
+    "kind": "workshop",
+    "path": "grosskanzlei-corporate-ma/grosskanzlei-corporate-ma-werkstatt.md",
+    "bytes": 30431,
+    "characters": 29989,
+    "sha256": "24771dcc5ef031010f7e88483a792d40557d7f1e70741651f7510641706413c8",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "grosskanzlei-corporate-ma",
+    "kind": "mini",
+    "path": "grosskanzlei-corporate-ma/grosskanzlei-corporate-ma-schnellstart.md",
+    "bytes": 7312,
+    "characters": 7235,
+    "sha256": "2be80c48e24a9a03c497b286b55707c6a49fd635f46d1f847ec661c86f32758c",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "grundbuchamt-praxis",
+    "kind": "workshop",
+    "path": "grundbuchamt-praxis/grundbuchamt-praxis-werkstatt.md",
+    "bytes": 17865,
+    "characters": 17567,
+    "sha256": "2a22282ec4f370d36a87391c0013b126f08f46656406b47f534eecb2df821b5c",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "grundbuchamt-praxis",
+    "kind": "mini",
+    "path": "grundbuchamt-praxis/grundbuchamt-praxis-schnellstart.md",
+    "bytes": 5892,
+    "characters": 5804,
+    "sha256": "017b6edcddde32c73a7f38754538c9c8301c1e5e479b12c37b455e80fbc59e37",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "grundsteuerrecht",
+    "kind": "workshop",
+    "path": "grundsteuerrecht/grundsteuerrecht-werkstatt.md",
+    "bytes": 37131,
+    "characters": 36569,
+    "sha256": "15c01429aa9f81d91515ee438ebe9dc1926a73a0c5aa66916a609dca38460f33",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "grundsteuerrecht",
+    "kind": "mini",
+    "path": "grundsteuerrecht/grundsteuerrecht-schnellstart.md",
+    "bytes": 7479,
+    "characters": 7377,
+    "sha256": "21726e9b7270872aa82a18f616bd81719d33ecffb2915f48f06ff7647e1f9c3b",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "handelsrecht-hgb",
+    "kind": "workshop",
+    "path": "handelsrecht-hgb/handelsrecht-hgb-werkstatt.md",
+    "bytes": 18528,
+    "characters": 18211,
+    "sha256": "bc0f0f484d1974eef2a12a47a8c69e280c273017b9d684026ab9a9040134aff2",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "handelsrecht-hgb",
+    "kind": "mini",
+    "path": "handelsrecht-hgb/handelsrecht-hgb-schnellstart.md",
+    "bytes": 5498,
+    "characters": 5400,
+    "sha256": "626cd0ab83e7a0b88af43cbadd752c8e7e44ed204196830edb8893fd2f9ed808",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "handelsregister-praxis",
+    "kind": "workshop",
+    "path": "handelsregister-praxis/handelsregister-praxis-werkstatt.md",
+    "bytes": 18657,
+    "characters": 18387,
+    "sha256": "80a32728b87c3411deb83005fad2fb20223ad247bef260a3136f5c6949513419",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "handelsregister-praxis",
+    "kind": "mini",
+    "path": "handelsregister-praxis/handelsregister-praxis-schnellstart.md",
+    "bytes": 5913,
+    "characters": 5834,
+    "sha256": "0df9a75802811c7f665216e95741b5bb7cedaff3087649d1fc6686264b4fbd12",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "handelsvertreterrecht",
+    "kind": "workshop",
+    "path": "handelsvertreterrecht/handelsvertreterrecht-werkstatt.md",
+    "bytes": 18233,
+    "characters": 17926,
+    "sha256": "6d4efed0512272508c77480f701307380119c55ee4135d5c02f0eb420086edb6",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "handelsvertreterrecht",
+    "kind": "mini",
+    "path": "handelsvertreterrecht/handelsvertreterrecht-schnellstart.md",
+    "bytes": 6611,
+    "characters": 6517,
+    "sha256": "5e642a4d321fa0e9346ce067d8637df42eec437dd86164e12da133019c7e229d",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "hausarbeitenmacher",
+    "kind": "workshop",
+    "path": "hausarbeitenmacher/hausarbeitenmacher-werkstatt.md",
+    "bytes": 16473,
+    "characters": 16215,
+    "sha256": "63e10d6c24ec5e2e941dc5ea9e6198e640e61932a657319be41991d8e9bc4f66",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "hausarbeitenmacher",
+    "kind": "mini",
+    "path": "hausarbeitenmacher/hausarbeitenmacher-schnellstart.md",
+    "bytes": 5354,
+    "characters": 5279,
+    "sha256": "45b3e01a8f2584cf5b1083e3f676a8e1a3e4bd21ca187de921fa2cde032894b7",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "haushaltsrecht-bho-bund-laender",
+    "kind": "workshop",
+    "path": "haushaltsrecht-bho-bund-laender/haushaltsrecht-bho-bund-laender-werkstatt.md",
+    "bytes": 17594,
+    "characters": 17345,
+    "sha256": "cbfa40b2672b6589272a07a333b335bd567008292bd44816dfd5c2458b6b2bbc",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "haushaltsrecht-bho-bund-laender",
+    "kind": "mini",
+    "path": "haushaltsrecht-bho-bund-laender/haushaltsrecht-bho-bund-laender-schnellstart.md",
+    "bytes": 6539,
+    "characters": 6452,
+    "sha256": "666ee6404fd1851b85eb8dee05c5b52cc009d758b0b0733f043544ef8204cc13",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "hinweisgeberschutz-compliance",
+    "kind": "workshop",
+    "path": "hinweisgeberschutz-compliance/hinweisgeberschutz-compliance-werkstatt.md",
+    "bytes": 22593,
+    "characters": 22202,
+    "sha256": "b2b20575d198b1358b9053f15b839b2135172bc05ac992fb4541d043c2992f73",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "hinweisgeberschutz-compliance",
+    "kind": "mini",
+    "path": "hinweisgeberschutz-compliance/hinweisgeberschutz-compliance-schnellstart.md",
+    "bytes": 7068,
+    "characters": 6953,
+    "sha256": "304165608d6650e209d2e31c53cb11335075db857750f5d51b9deefcf73459f8",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "hoai-leistungsphasen-praxis",
+    "kind": "workshop",
+    "path": "hoai-leistungsphasen-praxis/hoai-leistungsphasen-praxis-werkstatt.md",
+    "bytes": 19966,
+    "characters": 19632,
+    "sha256": "9bb861034099b8134e633b48410202fa3635dd133eb43dd331f13de1cf08e46e",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "hoai-leistungsphasen-praxis",
+    "kind": "mini",
+    "path": "hoai-leistungsphasen-praxis/hoai-leistungsphasen-praxis-schnellstart.md",
+    "bytes": 7046,
+    "characters": 6953,
+    "sha256": "75aaae3e69ec64088342d3c50a8e5af4bce33c6b73aa9581a03878b0703da4e9",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "hochschulrecht-laender",
+    "kind": "workshop",
+    "path": "hochschulrecht-laender/hochschulrecht-laender-werkstatt.md",
+    "bytes": 17483,
+    "characters": 17235,
+    "sha256": "c27003e11c31e400635801760a273d9904bfe515310b03189b3ef26590430671",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "hochschulrecht-laender",
+    "kind": "mini",
+    "path": "hochschulrecht-laender/hochschulrecht-laender-schnellstart.md",
+    "bytes": 6105,
+    "characters": 6033,
+    "sha256": "442bd25bf8f58a921aa6a507c7dc3fdbb462cdee9eee67b7b9d57dc24273cba3",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "immobilienrechtspraxis",
+    "kind": "workshop",
+    "path": "immobilienrechtspraxis/immobilienrechtspraxis-werkstatt.md",
+    "bytes": 20583,
+    "characters": 20266,
+    "sha256": "d3671a310468362152996813fd5d8f31a91ae932541dbd41b77bb76e37547854",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "immobilienrechtspraxis",
+    "kind": "mini",
+    "path": "immobilienrechtspraxis/immobilienrechtspraxis-schnellstart.md",
+    "bytes": 6237,
+    "characters": 6150,
+    "sha256": "1d1739630312dc119bfac695e2878598963d6a3b849e1296f735740450f344e7",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "influencer-recht",
+    "kind": "workshop",
+    "path": "influencer-recht/influencer-recht-werkstatt.md",
+    "bytes": 21969,
+    "characters": 21680,
+    "sha256": "1aa3afd59f62c1dac0aee80227096d10f5bb81d7b338f29c7cc6dfa924d0e0b6",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "influencer-recht",
+    "kind": "mini",
+    "path": "influencer-recht/influencer-recht-schnellstart.md",
+    "bytes": 7130,
+    "characters": 7034,
+    "sha256": "36afa26b4bcd72c1c797cc7093bbfee2002ebb2f687ca84c92169135c37975a4",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "informationsfreiheit-presseauskunft",
+    "kind": "workshop",
+    "path": "informationsfreiheit-presseauskunft/informationsfreiheit-presseauskunft-werkstatt.md",
+    "bytes": 14820,
+    "characters": 14567,
+    "sha256": "3e27661ae998bb3ff69978ff9c9d7b1097f9ca1d2f4542cc38c93537ebd5dd70",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "informationsfreiheit-presseauskunft",
+    "kind": "mini",
+    "path": "informationsfreiheit-presseauskunft/informationsfreiheit-presseauskunft-schnellstart.md",
+    "bytes": 5650,
+    "characters": 5569,
+    "sha256": "4e3f82536b7fc3ee7bdf791fc68880a6fc1850ef38495a90ea207ffa7317f668",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "insiderrecht-compliance",
+    "kind": "workshop",
+    "path": "insiderrecht-compliance/insiderrecht-compliance-werkstatt.md",
+    "bytes": 21827,
+    "characters": 21475,
+    "sha256": "3a7f14cbea598cc2fa6be4e04c2ec3a4c6c1f95c8145787b563d77915ec17ffd",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "insiderrecht-compliance",
+    "kind": "mini",
+    "path": "insiderrecht-compliance/insiderrecht-compliance-schnellstart.md",
+    "bytes": 7053,
+    "characters": 6947,
+    "sha256": "8794c154c03d351ce14d38f6dddfe61405a9b5b4384327be0af2760e55bda1bc",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "insolvenzforderungsanmeldungspruefung",
+    "kind": "workshop",
+    "path": "insolvenzforderungsanmeldungspruefung/insolvenzforderungsanmeldungspruefung-werkstatt.md",
+    "bytes": 17098,
+    "characters": 16858,
+    "sha256": "fdc920bd74feeaa0f45960ad90802934346edf9e174f6ae73e86dbb62147c32f",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "insolvenzforderungsanmeldungspruefung",
+    "kind": "mini",
+    "path": "insolvenzforderungsanmeldungspruefung/insolvenzforderungsanmeldungspruefung-schnellstart.md",
+    "bytes": 5544,
+    "characters": 5480,
+    "sha256": "c33872eb861582d87fce7186ddbd2564b7c094fb92a94e189e8561f9f5738fad",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "insolvenzplan-starug-planwerkstatt",
+    "kind": "workshop",
+    "path": "insolvenzplan-starug-planwerkstatt/insolvenzplan-starug-planwerkstatt-werkstatt.md",
+    "bytes": 19205,
+    "characters": 18950,
+    "sha256": "343b7cb12be370b0c079320d28bc8aacad766b8490208c30bf721dd9d789db71",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "insolvenzplan-starug-planwerkstatt",
+    "kind": "mini",
+    "path": "insolvenzplan-starug-planwerkstatt/insolvenzplan-starug-planwerkstatt-schnellstart.md",
+    "bytes": 5921,
+    "characters": 5833,
+    "sha256": "515d446962f7fe8cd16b7614c2a906fd3bd1719564fe34999dfc48fe0db43a73",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "insolvenzrecht",
+    "kind": "workshop",
+    "path": "insolvenzrecht/insolvenzrecht-werkstatt.md",
+    "bytes": 22565,
+    "characters": 22232,
+    "sha256": "506d973c85030a6ed0f74540106ebb839fd6a7c118a0454c2b66ebfb8f07d32a",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "insolvenzrecht",
+    "kind": "mini",
+    "path": "insolvenzrecht/insolvenzrecht-schnellstart.md",
+    "bytes": 6445,
+    "characters": 6353,
+    "sha256": "dd6ebb715276941d930a1a60c9f7ba007488b15e21cce3a0b8dbfc41c2a1bbc3",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "insolvenzverwaltung",
+    "kind": "workshop",
+    "path": "insolvenzverwaltung/insolvenzverwaltung-werkstatt.md",
+    "bytes": 19677,
+    "characters": 19381,
+    "sha256": "577f57c28eae2e4e929b7dfca25994bc878307b4930a674a143b92fec16a61be",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "insolvenzverwaltung",
+    "kind": "mini",
+    "path": "insolvenzverwaltung/insolvenzverwaltung-schnellstart.md",
+    "bytes": 5847,
+    "characters": 5762,
+    "sha256": "153db1c75f41c4efe6c237ce21a53a0a9556ba5cbe8852379cfec6149250a914",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "internal-investigations-praxis",
+    "kind": "workshop",
+    "path": "internal-investigations-praxis/internal-investigations-praxis-werkstatt.md",
+    "bytes": 22521,
+    "characters": 22172,
+    "sha256": "b88d8f407b3b7418412ede42b1beeea290ad2e9b4ff7f0e79892d72740a8d8aa",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "internal-investigations-praxis",
+    "kind": "mini",
+    "path": "internal-investigations-praxis/internal-investigations-praxis-schnellstart.md",
+    "bytes": 7081,
+    "characters": 6987,
+    "sha256": "da8640380ff4916674e5ccb693f2c7ec388aecd96f32d74a73df3e4946c582ab",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "internationales-handelsrecht-lex-mercatoria",
+    "kind": "workshop",
+    "path": "internationales-handelsrecht-lex-mercatoria/internationales-handelsrecht-lex-mercatoria-werkstatt.md",
+    "bytes": 20099,
+    "characters": 19805,
+    "sha256": "108f0244b670b6704851b9379939e418e32284c5118a9efac1a36ebac668846c",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "internationales-handelsrecht-lex-mercatoria",
+    "kind": "mini",
+    "path": "internationales-handelsrecht-lex-mercatoria/internationales-handelsrecht-lex-mercatoria-schnellstart.md",
+    "bytes": 5786,
+    "characters": 5693,
+    "sha256": "f9457168774732f06b942003ec6d2a2479c6351dd828943e13fefd5d712e9d36",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "jurastudium",
+    "kind": "workshop",
+    "path": "jurastudium/jurastudium-werkstatt.md",
+    "bytes": 16270,
+    "characters": 16005,
+    "sha256": "1451ef46a4548f988352e9e13cde920a823d0dd47914c344e8840ef76a10c7ff",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "jurastudium",
+    "kind": "mini",
+    "path": "jurastudium/jurastudium-schnellstart.md",
+    "bytes": 5230,
+    "characters": 5144,
+    "sha256": "16377671392d63f095ed6f29252c6003b0a63a752013e6d31aae1c8cbafb746d",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "juristische-presseberichterstattung",
+    "kind": "workshop",
+    "path": "juristische-presseberichterstattung/juristische-presseberichterstattung-werkstatt.md",
+    "bytes": 18031,
+    "characters": 17751,
+    "sha256": "ad22fafd984b6323366f549cf733be8626d6fc14fdb5b68b02433cd8b4a372d5",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "juristische-presseberichterstattung",
+    "kind": "mini",
+    "path": "juristische-presseberichterstattung/juristische-presseberichterstattung-schnellstart.md",
+    "bytes": 6400,
+    "characters": 6318,
+    "sha256": "aa2760b7efc9f303b250ff68a8c67b1a33e9b3e87ad5904b0c3bd3bd421f8db3",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "juristische-sprache-deutsch-als-zweitsprache",
+    "kind": "workshop",
+    "path": "juristische-sprache-deutsch-als-zweitsprache/juristische-sprache-deutsch-als-zweitsprache-werkstatt.md",
+    "bytes": 16733,
+    "characters": 16366,
+    "sha256": "ee5aab56d9772f12ab7cfb5ea35f70e1750e2afe8f167d5386296cce2d0e0fdb",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "juristische-sprache-deutsch-als-zweitsprache",
+    "kind": "mini",
+    "path": "juristische-sprache-deutsch-als-zweitsprache/juristische-sprache-deutsch-als-zweitsprache-schnellstart.md",
+    "bytes": 4802,
+    "characters": 4673,
+    "sha256": "01cd6730162904e1b6f4a235fd698d88701b5145503066a4aa603a0e6fb314a7",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "jveg-kostenpruefer",
+    "kind": "workshop",
+    "path": "jveg-kostenpruefer/jveg-kostenpruefer-werkstatt.md",
+    "bytes": 21023,
+    "characters": 20680,
+    "sha256": "381e23ce59b94ed795289425401d1d4aa7e90ea36005ee6f60d8de89cdca80f8",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "jveg-kostenpruefer",
+    "kind": "mini",
+    "path": "jveg-kostenpruefer/jveg-kostenpruefer-schnellstart.md",
+    "bytes": 7136,
+    "characters": 7023,
+    "sha256": "42cfb09a4bf1a5f507ce9f626a34f8d83e449c58f30280345d4c66aa9665a86f",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "kanzlei-allgemein",
+    "kind": "workshop",
+    "path": "kanzlei-allgemein/kanzlei-allgemein-werkstatt.md",
+    "bytes": 19711,
+    "characters": 19416,
+    "sha256": "35c21aee7fe1481764ade7eae01982c364ad0689d6060caec833bd5c0e3bf6bb",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "kanzlei-allgemein",
+    "kind": "mini",
+    "path": "kanzlei-allgemein/kanzlei-allgemein-schnellstart.md",
+    "bytes": 6871,
+    "characters": 6754,
+    "sha256": "9e8a52bc917bb605b0ee79013653f98e5a5a2b432a650cadaae8d090f8443dd8",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "kanzlei-builder-hub",
+    "kind": "workshop",
+    "path": "kanzlei-builder-hub/kanzlei-builder-hub-werkstatt.md",
+    "bytes": 17453,
+    "characters": 17175,
+    "sha256": "ecf4bf7f8365e68c250f3778fd61ad0fafd3b7a030853391f7d07f6c3a434763",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "kanzlei-builder-hub",
+    "kind": "mini",
+    "path": "kanzlei-builder-hub/kanzlei-builder-hub-schnellstart.md",
+    "bytes": 6833,
+    "characters": 6723,
+    "sha256": "804f2e0fe2c888cb22694e9e87e70ddbfd23f682baa8cc2102a74de670376e21",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "kanzlei-management",
+    "kind": "workshop",
+    "path": "kanzlei-management/kanzlei-management-werkstatt.md",
+    "bytes": 19096,
+    "characters": 18811,
+    "sha256": "4e2f56debd2a7faf0a415e908421d18979d5bd161a655983ff3fac16fdcc04ff",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "kanzlei-management",
+    "kind": "mini",
+    "path": "kanzlei-management/kanzlei-management-schnellstart.md",
+    "bytes": 7084,
+    "characters": 6963,
+    "sha256": "235251a6cf34c7101fbb9dccf0226f00ed0f809f00ce18816a12cc1c22c355d5",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "kanzlei-mandant-lifecycle",
+    "kind": "workshop",
+    "path": "kanzlei-mandant-lifecycle/kanzlei-mandant-lifecycle-werkstatt.md",
+    "bytes": 19494,
+    "characters": 19185,
+    "sha256": "84ea345e5f0b894ca9dc597fc3d66a92a0a15656b22465578caa8b59b2c4ab1a",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "kanzlei-mandant-lifecycle",
+    "kind": "mini",
+    "path": "kanzlei-mandant-lifecycle/kanzlei-mandant-lifecycle-schnellstart.md",
+    "bytes": 6810,
+    "characters": 6720,
+    "sha256": "1a7b6c084269b5d7010622ef976a5f6d47cb7cf7709807786ace025083743847",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "kartellrecht-marktabgrenzung-pruefung",
+    "kind": "workshop",
+    "path": "kartellrecht-marktabgrenzung-pruefung/kartellrecht-marktabgrenzung-pruefung-werkstatt.md",
+    "bytes": 19346,
+    "characters": 19051,
+    "sha256": "7282d4bbecf671eec823abfc16ffd2db497ec9f1e47034a1ce68dc2ad1c59f08",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "kartellrecht-marktabgrenzung-pruefung",
+    "kind": "mini",
+    "path": "kartellrecht-marktabgrenzung-pruefung/kartellrecht-marktabgrenzung-pruefung-schnellstart.md",
+    "bytes": 7071,
+    "characters": 6969,
+    "sha256": "a516cf7cfa45bbba097a96ef5714714fd132ada1f14b7ecb028f504764417c3a",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "ki-governance",
+    "kind": "workshop",
+    "path": "ki-governance/ki-governance-werkstatt.md",
+    "bytes": 19368,
+    "characters": 19075,
+    "sha256": "59945ab8074d2c9ea9349514057bf1a1e24e304c0746e75f496df76d2e99b2a4",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "ki-governance",
+    "kind": "mini",
+    "path": "ki-governance/ki-governance-schnellstart.md",
+    "bytes": 7010,
+    "characters": 6915,
+    "sha256": "0777600e6e46ce27bcd729f657ef1c9a6cf54c2cc7590f25e25a141f12dbb20a",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "ki-richtlinie-kanzleien",
+    "kind": "workshop",
+    "path": "ki-richtlinie-kanzleien/ki-richtlinie-kanzleien-werkstatt.md",
+    "bytes": 21273,
+    "characters": 20930,
+    "sha256": "86aea709351dfa0fcc09faa26f8b951f091c9e690d83a5e8764abdad84fcbd37",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "ki-richtlinie-kanzleien",
+    "kind": "mini",
+    "path": "ki-richtlinie-kanzleien/ki-richtlinie-kanzleien-schnellstart.md",
+    "bytes": 7236,
+    "characters": 7135,
+    "sha256": "1501c960102bc9ce0ce8f2dc23f4863eee2b46d9820ee0361ce6ef9e4b4eb18a",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "ki-vo-ai-act-pruefer",
+    "kind": "workshop",
+    "path": "ki-vo-ai-act-pruefer/ki-vo-ai-act-pruefer-werkstatt.md",
+    "bytes": 20974,
+    "characters": 20641,
+    "sha256": "aaa940d2b312685d92c49c8bb529d1823b752251cbe63c86160971056a926b05",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "ki-vo-ai-act-pruefer",
+    "kind": "mini",
+    "path": "ki-vo-ai-act-pruefer/ki-vo-ai-act-pruefer-schnellstart.md",
+    "bytes": 7385,
+    "characters": 7264,
+    "sha256": "392177a8c0c9bb1e739790d184f85b3b08c691985448fcefbadc4cc9e2c55fd3",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "kommunalrecht-laender",
+    "kind": "workshop",
+    "path": "kommunalrecht-laender/kommunalrecht-laender-werkstatt.md",
+    "bytes": 16848,
+    "characters": 16579,
+    "sha256": "2ffb242ebec69118010d8c41d651c4680e857aa9d6fe572990d9f3b829a06829",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "kommunalrecht-laender",
+    "kind": "mini",
+    "path": "kommunalrecht-laender/kommunalrecht-laender-schnellstart.md",
+    "bytes": 7182,
+    "characters": 7075,
+    "sha256": "143f3b3197fe58561c2f5604fa1e87a452897bb2b83f4897302a7e6401a9d887",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "krankenhausrecht",
+    "kind": "workshop",
+    "path": "krankenhausrecht/krankenhausrecht-werkstatt.md",
+    "bytes": 18054,
+    "characters": 17786,
+    "sha256": "2d03c4903be849b1c8b03692e2e0f18051ffbb2191278929ddec2226b3f773c2",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "krankenhausrecht",
+    "kind": "mini",
+    "path": "krankenhausrecht/krankenhausrecht-schnellstart.md",
+    "bytes": 7143,
+    "characters": 7043,
+    "sha256": "d3526044645ac74d7ed7320e9d7df1fdd3569bd8430c3a094ffd764b0a6f829b",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "krankenkassenrecht-krankenversicherung",
+    "kind": "workshop",
+    "path": "krankenkassenrecht-krankenversicherung/krankenkassenrecht-krankenversicherung-werkstatt.md",
+    "bytes": 20184,
+    "characters": 19890,
+    "sha256": "2ce0a814d95ea0b0d032bf2b90a35f62f8bffb6eb0c031a60b9b391eae89cb57",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "krankenkassenrecht-krankenversicherung",
+    "kind": "mini",
+    "path": "krankenkassenrecht-krankenversicherung/krankenkassenrecht-krankenversicherung-schnellstart.md",
+    "bytes": 7209,
+    "characters": 7127,
+    "sha256": "363ae2c47ad39f57751b6bcc62487b43b171cdcaf45ab17f76b0206a6cbdcc4c",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "kriegsdienstverweigerung-wehrdienst",
+    "kind": "workshop",
+    "path": "kriegsdienstverweigerung-wehrdienst/kriegsdienstverweigerung-wehrdienst-werkstatt.md",
+    "bytes": 17194,
+    "characters": 16898,
+    "sha256": "428957e437772cf21052fe381f4b7ec7c593dbcbbb41588755b38f5aeaa64c71",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "kriegsdienstverweigerung-wehrdienst",
+    "kind": "mini",
+    "path": "kriegsdienstverweigerung-wehrdienst/kriegsdienstverweigerung-wehrdienst-schnellstart.md",
+    "bytes": 6646,
+    "characters": 6512,
+    "sha256": "c43ca62bcbef2fc01884cdf1493b137942694731fe563ac826ff100345c253e0",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "krisenfrueherkennung-starug",
+    "kind": "workshop",
+    "path": "krisenfrueherkennung-starug/krisenfrueherkennung-starug-werkstatt.md",
+    "bytes": 17417,
+    "characters": 17100,
+    "sha256": "d636f7928d15dbb863a0e4f3cff3572672e004fb36854fc0c01ef0fd15d3217c",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "krisenfrueherkennung-starug",
+    "kind": "mini",
+    "path": "krisenfrueherkennung-starug/krisenfrueherkennung-starug-schnellstart.md",
+    "bytes": 5844,
+    "characters": 5743,
+    "sha256": "424229cb70d2d60bb6bd4d7c3f383bf38a5549bd017371a39e1529876bacc747",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "leasingrecht-praxis",
+    "kind": "workshop",
+    "path": "leasingrecht-praxis/leasingrecht-praxis-werkstatt.md",
+    "bytes": 20569,
+    "characters": 20265,
+    "sha256": "4de4bef3b7477d84382147a86ef8c3e10750ab82a9b54d68197ff0438f56893e",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "leasingrecht-praxis",
+    "kind": "mini",
+    "path": "leasingrecht-praxis/leasingrecht-praxis-schnellstart.md",
+    "bytes": 5217,
+    "characters": 5133,
+    "sha256": "42f04ffbdeb602dfc1e3ef36d941e5929a7f9e43b9eb27c8172d94baea881568",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "legistik-werkstatt",
+    "kind": "workshop",
+    "path": "legistik-werkstatt/legistik-werkstatt-werkstatt.md",
+    "bytes": 17867,
+    "characters": 17534,
+    "sha256": "f0fb89d5aebb830d523b970e178b13bfdaad458268303a2ea01c9d9a3651a8d3",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "legistik-werkstatt",
+    "kind": "mini",
+    "path": "legistik-werkstatt/legistik-werkstatt-schnellstart.md",
+    "bytes": 5950,
+    "characters": 5848,
+    "sha256": "83b1b9451faf89bf51d07b1882cf191bd566420e0279d2b4c00ded9c524a4dcf",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "liquiditaetsplanung",
+    "kind": "workshop",
+    "path": "liquiditaetsplanung/liquiditaetsplanung-werkstatt.md",
+    "bytes": 17108,
+    "characters": 16820,
+    "sha256": "f7bb82c022c5c742b79726b9849c90e63e8041d3e85533e8408e1c8e61ece11d",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "liquiditaetsplanung",
+    "kind": "mini",
+    "path": "liquiditaetsplanung/liquiditaetsplanung-schnellstart.md",
+    "bytes": 5855,
+    "characters": 5771,
+    "sha256": "9200c996a361c5ae380fca7be3c0736c720040210815dcca0fbf53993f0b1e15",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "lizenzvertragsersteller",
+    "kind": "workshop",
+    "path": "lizenzvertragsersteller/lizenzvertragsersteller-werkstatt.md",
+    "bytes": 18680,
+    "characters": 18386,
+    "sha256": "be1a6aa9999e4ebe04a0a4eccb90ad5596f007865ddfbc8f12136b5585519149",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "lizenzvertragsersteller",
+    "kind": "mini",
+    "path": "lizenzvertragsersteller/lizenzvertragsersteller-schnellstart.md",
+    "bytes": 5911,
+    "characters": 5811,
+    "sha256": "4e5dc0ccf31c7012f800d6b32c96dcd8054d3bb78ac065ab80ac32ca1054d449",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "lobbyregister-bundestag",
+    "kind": "workshop",
+    "path": "lobbyregister-bundestag/lobbyregister-bundestag-werkstatt.md",
+    "bytes": 17046,
+    "characters": 16793,
+    "sha256": "abb5eb52b20cc277241d901a476f6a2a4af148cd1898a11cb043b784f0ac6d60",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "lobbyregister-bundestag",
+    "kind": "mini",
+    "path": "lobbyregister-bundestag/lobbyregister-bundestag-schnellstart.md",
+    "bytes": 5987,
+    "characters": 5891,
+    "sha256": "1272e1e9f91c75d2f66182cdbf0a7e1652a2d8ce01382f1a64d19a7a402e1643",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "luftrecht-flughafenrecht",
+    "kind": "workshop",
+    "path": "luftrecht-flughafenrecht/luftrecht-flughafenrecht-werkstatt.md",
+    "bytes": 23576,
+    "characters": 23233,
+    "sha256": "9bb9ced78c2376f191094744a1365c042656bd19e795dde408cd342295c63090",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "luftrecht-flughafenrecht",
+    "kind": "mini",
+    "path": "luftrecht-flughafenrecht/luftrecht-flughafenrecht-schnellstart.md",
+    "bytes": 6493,
+    "characters": 6411,
+    "sha256": "27d6769a1d82d2532832be357692e450e1d6bd1e0e44943e100f7820b622f0f3",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "mandantenanfragen-assistent",
+    "kind": "workshop",
+    "path": "mandantenanfragen-assistent/mandantenanfragen-assistent-werkstatt.md",
+    "bytes": 16317,
+    "characters": 16054,
+    "sha256": "5817906168acaa5f9b61784e510074ac4441e5e710129ba53564a7273f038702",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "mandantenanfragen-assistent",
+    "kind": "mini",
+    "path": "mandantenanfragen-assistent/mandantenanfragen-assistent-schnellstart.md",
+    "bytes": 5859,
+    "characters": 5784,
+    "sha256": "f386f9a7458914e3233efac815e3f276d9e29712f319ddf1139a7663ee0ffeb9",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "markenrecht-fashion-luxus",
+    "kind": "workshop",
+    "path": "markenrecht-fashion-luxus/markenrecht-fashion-luxus-werkstatt.md",
+    "bytes": 17506,
+    "characters": 17247,
+    "sha256": "ec6447b28e87a5ddf0e7bc2c572dcd3b3759d43adfa3b58db8a651f4016854ab",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "markenrecht-fashion-luxus",
+    "kind": "mini",
+    "path": "markenrecht-fashion-luxus/markenrecht-fashion-luxus-schnellstart.md",
+    "bytes": 6039,
+    "characters": 5960,
+    "sha256": "594975fc2d26c7e461798e86513dbb7a5bac7a8823c3fe23eec96e10c9215b3c",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "meinungspruefer",
+    "kind": "workshop",
+    "path": "meinungspruefer/meinungspruefer-werkstatt.md",
+    "bytes": 18207,
+    "characters": 17887,
+    "sha256": "5c497b70e93f04a5dd7f761e63bd6b029720b89cd76441053daf746641e426ca",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "meinungspruefer",
+    "kind": "mini",
+    "path": "meinungspruefer/meinungspruefer-schnellstart.md",
+    "bytes": 5017,
+    "characters": 4931,
+    "sha256": "72a37e23aaa1d906985e1731ff4f20edf4ebdce1bd1621007994fa290cdd055b",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "memorandums-ersteller",
+    "kind": "workshop",
+    "path": "memorandums-ersteller/memorandums-ersteller-werkstatt.md",
+    "bytes": 17191,
+    "characters": 16946,
+    "sha256": "6d5a10dc254a31406f25d665dace83bd6c734c7df1dbe88c8ca2a67e271dce11",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "memorandums-ersteller",
+    "kind": "mini",
+    "path": "memorandums-ersteller/memorandums-ersteller-schnellstart.md",
+    "bytes": 5563,
+    "characters": 5477,
+    "sha256": "5479d28274c9bbf79abef61887f179c0a612556a6ffade6f0eef6c7bbcefe045",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "methodenlehre-buergerliches-recht",
+    "kind": "workshop",
+    "path": "methodenlehre-buergerliches-recht/methodenlehre-buergerliches-recht-werkstatt.md",
+    "bytes": 19065,
+    "characters": 18732,
+    "sha256": "0b8f16cce3dd15917211e04f0255d3c9f8fe4d0207437bd5712f72976ba60129",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "methodenlehre-buergerliches-recht",
+    "kind": "mini",
+    "path": "methodenlehre-buergerliches-recht/methodenlehre-buergerliches-recht-schnellstart.md",
+    "bytes": 5646,
+    "characters": 5548,
+    "sha256": "4a021a5e354813ef40a2cec8d427f57b39a1b1b71c449bf6e987dac084c8ae02",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "mietrecht",
+    "kind": "workshop",
+    "path": "mietrecht/mietrecht-werkstatt.md",
+    "bytes": 20054,
+    "characters": 19708,
+    "sha256": "02df9b59098b17b7ef9809689eb8e99e247bf7ba8df88320ecc2f792fae2860f",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "mietrecht",
+    "kind": "mini",
+    "path": "mietrecht/mietrecht-schnellstart.md",
+    "bytes": 6756,
+    "characters": 6622,
+    "sha256": "48c18a419cbc9b289edb968d48292f15323c3e28c3cc9f61acd3b4fa942e37ec",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "mittelstand-corporate-ma",
+    "kind": "workshop",
+    "path": "mittelstand-corporate-ma/mittelstand-corporate-ma-werkstatt.md",
+    "bytes": 18722,
+    "characters": 18474,
+    "sha256": "6f0db3d430c9a11b77e9e7a9e57fc4d094bfb5ad0155d62b7c87ba3f78d0b7a7",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "mittelstand-corporate-ma",
+    "kind": "mini",
+    "path": "mittelstand-corporate-ma/mittelstand-corporate-ma-schnellstart.md",
+    "bytes": 5811,
+    "characters": 5732,
+    "sha256": "752f592bcf6f5ab92d7709df1dae1816ce6b0ffa1166b7a853389a9bd1ef53a9",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "nachbarschaftsstreit-pruefer",
+    "kind": "workshop",
+    "path": "nachbarschaftsstreit-pruefer/nachbarschaftsstreit-pruefer-werkstatt.md",
+    "bytes": 19331,
+    "characters": 18990,
+    "sha256": "241c56159778c323f0b43f06e17ab973959f5431c70cc9839955bb29292fdd77",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "nachbarschaftsstreit-pruefer",
+    "kind": "mini",
+    "path": "nachbarschaftsstreit-pruefer/nachbarschaftsstreit-pruefer-schnellstart.md",
+    "bytes": 6138,
+    "characters": 6040,
+    "sha256": "f08465ad08bc53bc527c247fa1b8325a10605ffe3f315ce8b9e82b34fbe41499",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "nda-abgleich",
+    "kind": "workshop",
+    "path": "nda-abgleich/nda-abgleich-werkstatt.md",
+    "bytes": 16197,
+    "characters": 15948,
+    "sha256": "0411d0e5dab6acf505d20c9d8fe08f5b08680ce87273f059088da18b81c8fdf2",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "nda-abgleich",
+    "kind": "mini",
+    "path": "nda-abgleich/nda-abgleich-schnellstart.md",
+    "bytes": 6203,
+    "characters": 6103,
+    "sha256": "303014cbcab904cf89cde44be7ea77d918260dd261d175f3d8c86975f1dba8e8",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "nda-verschwiegenheit-generator-checker",
+    "kind": "workshop",
+    "path": "nda-verschwiegenheit-generator-checker/nda-verschwiegenheit-generator-checker-werkstatt.md",
+    "bytes": 18701,
+    "characters": 18372,
+    "sha256": "7bf7cecfa11e4120827e5b7b7ee6a043feb91622832f6ebf74b6cc4b76509793",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "nda-verschwiegenheit-generator-checker",
+    "kind": "mini",
+    "path": "nda-verschwiegenheit-generator-checker/nda-verschwiegenheit-generator-checker-schnellstart.md",
+    "bytes": 6441,
+    "characters": 6331,
+    "sha256": "553665f926e6e0ecf50007e2ad0e813f2122b6bfa999b6022722ab2eef8c9ff4",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "nis2-cybersecurity-compliance",
+    "kind": "workshop",
+    "path": "nis2-cybersecurity-compliance/nis2-cybersecurity-compliance-werkstatt.md",
+    "bytes": 18783,
+    "characters": 18473,
+    "sha256": "19f9a2ea670f505d0f09dfa4da31cc8c368a759b32943b501f55872487ce6ce2",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "nis2-cybersecurity-compliance",
+    "kind": "mini",
+    "path": "nis2-cybersecurity-compliance/nis2-cybersecurity-compliance-schnellstart.md",
+    "bytes": 6520,
+    "characters": 6431,
+    "sha256": "689aa5acbaff43cac877c900894f3f3a21cbe864dd8060f0f80e481e7ec4177c",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "normenkontrolle-bauleitplanung",
+    "kind": "workshop",
+    "path": "normenkontrolle-bauleitplanung/normenkontrolle-bauleitplanung-werkstatt.md",
+    "bytes": 20528,
+    "characters": 20174,
+    "sha256": "a018c6c1e7d31e41e0acbe9e372a9ff16c26e82a4ca5c4d73325fcae2d6c7d20",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "normenkontrolle-bauleitplanung",
+    "kind": "mini",
+    "path": "normenkontrolle-bauleitplanung/normenkontrolle-bauleitplanung-schnellstart.md",
+    "bytes": 6180,
+    "characters": 6090,
+    "sha256": "382c8b4c64c95a0ae2ad26debc0c2289a539fa7e67e5ef07009806bc58a05080",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "normenkontrollrat-nkr",
+    "kind": "workshop",
+    "path": "normenkontrollrat-nkr/normenkontrollrat-nkr-werkstatt.md",
+    "bytes": 19797,
+    "characters": 19465,
+    "sha256": "17cc64ade3b53e2a8dd74c6223aa8fb5062f59f736dd90a33a802fd46e0a154d",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "normenkontrollrat-nkr",
+    "kind": "mini",
+    "path": "normenkontrollrat-nkr/normenkontrollrat-nkr-schnellstart.md",
+    "bytes": 5719,
+    "characters": 5639,
+    "sha256": "f1d018ad53f53374ad855d3186fb632a123eb7c6297201bdc129b8969c044c93",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "notariat-alltag",
+    "kind": "workshop",
+    "path": "notariat-alltag/notariat-alltag-werkstatt.md",
+    "bytes": 67140,
+    "characters": 65951,
+    "sha256": "61851ed751a672cc6e67ef046d9f0d5425f362d26d9ac34df2515eb92620f5a4",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "notariat-alltag",
+    "kind": "mini",
+    "path": "notariat-alltag/notariat-alltag-schnellstart.md",
+    "bytes": 7465,
+    "characters": 7362,
+    "sha256": "5a3761cd7bbc7f53210779a7b5ec7399f677f313a758e0911c65f12f050f224e",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "oeffentliches-wirtschaftsrecht",
+    "kind": "workshop",
+    "path": "oeffentliches-wirtschaftsrecht/oeffentliches-wirtschaftsrecht-werkstatt.md",
+    "bytes": 19410,
+    "characters": 19064,
+    "sha256": "02447ea81585364963cd919ba83893d475df25ae59c3ddfe4a06e8e3106a2191",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "oeffentliches-wirtschaftsrecht",
+    "kind": "mini",
+    "path": "oeffentliches-wirtschaftsrecht/oeffentliches-wirtschaftsrecht-schnellstart.md",
+    "bytes": 6934,
+    "characters": 6817,
+    "sha256": "5417d5aa2cc86591e2d63d8d561a737a27dc79fe8bcda37b111dd7f37a3f517b",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "ordnungswidrigkeitenrecht",
+    "kind": "workshop",
+    "path": "ordnungswidrigkeitenrecht/ordnungswidrigkeitenrecht-werkstatt.md",
+    "bytes": 18080,
+    "characters": 17799,
+    "sha256": "83017ce970e0225a1652719e20a3e6c37e1e0867af1c3a6dadbf67ffedacedf0",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "ordnungswidrigkeitenrecht",
+    "kind": "mini",
+    "path": "ordnungswidrigkeitenrecht/ordnungswidrigkeitenrecht-schnellstart.md",
+    "bytes": 6878,
+    "characters": 6779,
+    "sha256": "7a10678a64a96806677596785021fecad88aff8717fd5a0d66af0772eec57c76",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "parteienrecht-parteiorganisation",
+    "kind": "workshop",
+    "path": "parteienrecht-parteiorganisation/parteienrecht-parteiorganisation-werkstatt.md",
+    "bytes": 18189,
+    "characters": 17890,
+    "sha256": "9ac902465d082b3f4ee4b1bdd31cd5aaf13262c6a7851cfd54fd4887de3e2e8c",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "parteienrecht-parteiorganisation",
+    "kind": "mini",
+    "path": "parteienrecht-parteiorganisation/parteienrecht-parteiorganisation-schnellstart.md",
+    "bytes": 7039,
+    "characters": 6923,
+    "sha256": "ac9e46836d55c7b2217ced5985272ffba2cfc47dfde31cd2d63d17da1a017eae",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "patentrecherche",
+    "kind": "workshop",
+    "path": "patentrecherche/patentrecherche-werkstatt.md",
+    "bytes": 21898,
+    "characters": 21512,
+    "sha256": "b6d837003cadf7b52087cca1dd1da7abac65c1a88dd1c2f99009a978dd223a74",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "patentrecherche",
+    "kind": "mini",
+    "path": "patentrecherche/patentrecherche-schnellstart.md",
+    "bytes": 6298,
+    "characters": 6197,
+    "sha256": "421a9cc6ed27cd24eba2b95fb9836499876313bdd4c6114f8fe5c6b421c4a53c",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "patentrecht",
+    "kind": "workshop",
+    "path": "patentrecht/patentrecht-werkstatt.md",
+    "bytes": 18188,
+    "characters": 17894,
+    "sha256": "2a192aef56080f4512140ed15607b395571f512d1b9cd5c578e22231094fc912",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "patentrecht",
+    "kind": "mini",
+    "path": "patentrecht/patentrecht-schnellstart.md",
+    "bytes": 6499,
+    "characters": 6410,
+    "sha256": "5126fc07c2d8b1bdd598299909b4ff95c9dc01801955ebbce804d6b989f3e18a",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "phishing-vorfall-pruefer",
+    "kind": "workshop",
+    "path": "phishing-vorfall-pruefer/phishing-vorfall-pruefer-werkstatt.md",
+    "bytes": 17458,
+    "characters": 17178,
+    "sha256": "fdfd6ab8c7521fee151badd1a9ff82b4dcfa757685beeac78d170a6de9ce4413",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "phishing-vorfall-pruefer",
+    "kind": "mini",
+    "path": "phishing-vorfall-pruefer/phishing-vorfall-pruefer-schnellstart.md",
+    "bytes": 6974,
+    "characters": 6868,
+    "sha256": "b09646b798e4c69321d104ed8165af34f8b29bfc25e166991ea45ab0f301d91b",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "kind": "workshop",
+    "path": "preussisches-allgemeines-landrecht-pralr/preussisches-allgemeines-landrecht-pralr-werkstatt.md",
+    "bytes": 42335,
+    "characters": 41658,
+    "sha256": "dbd4f9b18be7d5bace0f404ee09de86c6c81b007ae09959b3bd90788e5668ff9",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "preussisches-allgemeines-landrecht-pralr",
+    "kind": "mini",
+    "path": "preussisches-allgemeines-landrecht-pralr/preussisches-allgemeines-landrecht-pralr-schnellstart.md",
+    "bytes": 6620,
+    "characters": 6539,
+    "sha256": "ce886c31fabc17902186243550f33c33f2ca4c1bf36c41d923f55f668cffb628",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "private-equity-praxis",
+    "kind": "workshop",
+    "path": "private-equity-praxis/private-equity-praxis-werkstatt.md",
+    "bytes": 18850,
+    "characters": 18586,
+    "sha256": "d4ea24433e84b09d16c4b32b71843232bb4496751487ed6ac094ff368245b5ca",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "private-equity-praxis",
+    "kind": "mini",
+    "path": "private-equity-praxis/private-equity-praxis-schnellstart.md",
+    "bytes": 6618,
+    "characters": 6528,
+    "sha256": "ff1eecc162ae91aa63a29d4f9e372a0371ca9d37da9c3b9fdf91c9f154c6a6ac",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "produktrecht",
+    "kind": "workshop",
+    "path": "produktrecht/produktrecht-werkstatt.md",
+    "bytes": 21685,
+    "characters": 21328,
+    "sha256": "4cfc3ebe17020b71d7e982551c36d4ca72c3840f33881d8e8b877435f873be62",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "produktrecht",
+    "kind": "mini",
+    "path": "produktrecht/produktrecht-schnellstart.md",
+    "bytes": 6708,
+    "characters": 6588,
+    "sha256": "d96ad19740b1e3461d8a5cc457040efe12c70c7fa9a26bbeca660d83efa9854d",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "prozessrecht",
+    "kind": "workshop",
+    "path": "prozessrecht/prozessrecht-werkstatt.md",
+    "bytes": 15269,
+    "characters": 15041,
+    "sha256": "f9689c92a8c6aab012ed2694c93e19fcd28909276a3428635779d73a6b7f6d0d",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "prozessrecht",
+    "kind": "mini",
+    "path": "prozessrecht/prozessrecht-schnellstart.md",
+    "bytes": 6603,
+    "characters": 6504,
+    "sha256": "1607cd8c231273c6255e40eb1413c0219c391dc0fffd098525a07f40e3d2150b",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "pruefungsrecht-hochschule",
+    "kind": "workshop",
+    "path": "pruefungsrecht-hochschule/pruefungsrecht-hochschule-werkstatt.md",
+    "bytes": 14975,
+    "characters": 14697,
+    "sha256": "61fe6fa071ec784a981ced8b2e5d6af66e3af264a04a9008d982b45e7c7e8af0",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "pruefungsrecht-hochschule",
+    "kind": "mini",
+    "path": "pruefungsrecht-hochschule/pruefungsrecht-hochschule-schnellstart.md",
+    "bytes": 5836,
+    "characters": 5730,
+    "sha256": "49190048eb2b36e800f94930ff9a1552947534b2f1461165f2b3644b0b4bec25",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "rechtsberatungsstelle",
+    "kind": "workshop",
+    "path": "rechtsberatungsstelle/rechtsberatungsstelle-werkstatt.md",
+    "bytes": 16462,
+    "characters": 16198,
+    "sha256": "882fc7450b0036d5606280a9a3110bd91320ecaeffa0bfb90e8d5399e14dbe9a",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "rechtsberatungsstelle",
+    "kind": "mini",
+    "path": "rechtsberatungsstelle/rechtsberatungsstelle-schnellstart.md",
+    "bytes": 6824,
+    "characters": 6709,
+    "sha256": "bc530c744655fb0e6fe5326cd0d775968a0855c7ec9e883bdc229d41bc994fa2",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "rechtstheorie-rechtsphilosophie",
+    "kind": "workshop",
+    "path": "rechtstheorie-rechtsphilosophie/rechtstheorie-rechtsphilosophie-werkstatt.md",
+    "bytes": 16114,
+    "characters": 15906,
+    "sha256": "c4883dce0f8dbcea9c72a7d5fabf673d38b25eabd7e51644d8dd6ba445ef0ce9",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "rechtstheorie-rechtsphilosophie",
+    "kind": "mini",
+    "path": "rechtstheorie-rechtsphilosophie/rechtstheorie-rechtsphilosophie-schnellstart.md",
+    "bytes": 6545,
+    "characters": 6447,
+    "sha256": "81d639d0d584ed14e19ead47fe0c8c26b8b18e96e2aa6cfeca13fa11334a542a",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "regulatorisches-recht",
+    "kind": "workshop",
+    "path": "regulatorisches-recht/regulatorisches-recht-werkstatt.md",
+    "bytes": 22066,
+    "characters": 21721,
+    "sha256": "87cee88e2fd728d2a3d3aff8b57bf61b698b86258d396c253d733dbfb1b75a37",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "regulatorisches-recht",
+    "kind": "mini",
+    "path": "regulatorisches-recht/regulatorisches-recht-schnellstart.md",
+    "bytes": 6600,
+    "characters": 6491,
+    "sha256": "4798152d46333cc10358f2ecd269fe2eb61142deecfe0c96bfdf45b9932ae114",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "relationstechnik-zivilrecht",
+    "kind": "workshop",
+    "path": "gerichtsplugins/relationstechnik-zivilrecht/relationstechnik-zivilrecht-werkstatt.md",
+    "bytes": 13706,
+    "characters": 13512,
+    "sha256": "e90c32926777c62824740464245677cc0aa1c277fc9b85d55667a2f60e887520",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "relationstechnik-zivilrecht",
+    "kind": "mini",
+    "path": "gerichtsplugins/relationstechnik-zivilrecht/relationstechnik-zivilrecht-schnellstart.md",
+    "bytes": 6551,
+    "characters": 6440,
+    "sha256": "cef8a070d13573cc8b8ccac968a3800ccdc8801bd361a7019113289ec92818de",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "rentenpruefer",
+    "kind": "workshop",
+    "path": "rentenpruefer/rentenpruefer-werkstatt.md",
+    "bytes": 15663,
+    "characters": 15437,
+    "sha256": "b0e5b45f14fe5a4fb06d81f85f07e429139cb963218a27e465abe9a4497adda9",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "rentenpruefer",
+    "kind": "mini",
+    "path": "rentenpruefer/rentenpruefer-schnellstart.md",
+    "bytes": 6659,
+    "characters": 6562,
+    "sha256": "74eac3c7aa19729180893acca7877d7b03d2340795f628b8328ec36b9ad23798",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "richter-amtsgericht-handelsregister",
+    "kind": "workshop",
+    "path": "gerichtsplugins/richter-amtsgericht-handelsregister/richter-amtsgericht-handelsregister-werkstatt.md",
+    "bytes": 15098,
+    "characters": 14884,
+    "sha256": "5c15db229e37190d3f3995a9972f69bc3dd28d985e33f85043c6f461c956f103",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "richter-amtsgericht-handelsregister",
+    "kind": "mini",
+    "path": "gerichtsplugins/richter-amtsgericht-handelsregister/richter-amtsgericht-handelsregister-schnellstart.md",
+    "bytes": 6286,
+    "characters": 6193,
+    "sha256": "11d9b69b6659495fa2947c0fd1ced21f0d9fab55f9d0e3d32fe23a17983379ed",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "richter-amtsgericht-insolvenz-restrukturierung",
+    "kind": "workshop",
+    "path": "gerichtsplugins/richter-amtsgericht-insolvenz-restrukturierung/richter-amtsgericht-insolvenz-restrukturierung-werkstatt.md",
+    "bytes": 18479,
+    "characters": 18182,
+    "sha256": "998c7f010a051c0d52c49e64d0c48b1f303b334e7e6d93350fa188d9b5b4a078",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "richter-amtsgericht-insolvenz-restrukturierung",
+    "kind": "mini",
+    "path": "gerichtsplugins/richter-amtsgericht-insolvenz-restrukturierung/richter-amtsgericht-insolvenz-restrukturierung-schnellstart.md",
+    "bytes": 6919,
+    "characters": 6787,
+    "sha256": "9d9db9f9d77ee492608fea37a816b8736c379c2adf10192f94217b55567323bd",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "richter-amtsgericht-straf",
+    "kind": "workshop",
+    "path": "gerichtsplugins/richter-amtsgericht-straf/richter-amtsgericht-straf-werkstatt.md",
+    "bytes": 18083,
+    "characters": 17764,
+    "sha256": "de6bb320968238cf2e33923fad0e3ac717e6aa179bcae7f9bef470004c612eb2",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "richter-amtsgericht-straf",
+    "kind": "mini",
+    "path": "gerichtsplugins/richter-amtsgericht-straf/richter-amtsgericht-straf-schnellstart.md",
+    "bytes": 6734,
+    "characters": 6602,
+    "sha256": "1e664b992a7dbc61203f1d51035999d366dc99dd6dc3b6b0f0f0514f43833739",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "richter-amtsgericht-zivil",
+    "kind": "workshop",
+    "path": "gerichtsplugins/richter-amtsgericht-zivil/richter-amtsgericht-zivil-werkstatt.md",
+    "bytes": 13619,
+    "characters": 13419,
+    "sha256": "adfec4089497fe739657c241ae7b024092d6f6c6386d95125662ec38e165ab7c",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "richter-amtsgericht-zivil",
+    "kind": "mini",
+    "path": "gerichtsplugins/richter-amtsgericht-zivil/richter-amtsgericht-zivil-schnellstart.md",
+    "bytes": 5768,
+    "characters": 5691,
+    "sha256": "4cee218762f4e8bee4a8e51946fe5c7ad3c909f1a96a8282e2ddd0a936a8a1a9",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "richter-arbeitsgericht",
+    "kind": "workshop",
+    "path": "gerichtsplugins/richter-arbeitsgericht/richter-arbeitsgericht-werkstatt.md",
+    "bytes": 13957,
+    "characters": 13762,
+    "sha256": "a87cc60cbf2076ccf46b5dd9f9f96eeec52ba8ecb8fe57c5379ba26ebc384c75",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "richter-arbeitsgericht",
+    "kind": "mini",
+    "path": "gerichtsplugins/richter-arbeitsgericht/richter-arbeitsgericht-schnellstart.md",
+    "bytes": 5713,
+    "characters": 5611,
+    "sha256": "8bbe18f3b51baf0f24345b54a1a303c5b34888169d30072e16889527edf39dce",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "richter-bverfg-verfassungsbeschwerden",
+    "kind": "workshop",
+    "path": "gerichtsplugins/richter-bverfg-verfassungsbeschwerden/richter-bverfg-verfassungsbeschwerden-werkstatt.md",
+    "bytes": 13885,
+    "characters": 13658,
+    "sha256": "d6159e51b2f548155867a23697906937b33cd254b5000098536a8c934d2ee293",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "richter-bverfg-verfassungsbeschwerden",
+    "kind": "mini",
+    "path": "gerichtsplugins/richter-bverfg-verfassungsbeschwerden/richter-bverfg-verfassungsbeschwerden-schnellstart.md",
+    "bytes": 6017,
+    "characters": 5936,
+    "sha256": "d90d8efb7f7a543759b6a5d9199688c4da9b043cac864f7444ac98c32a15acdc",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "richter-familiengericht",
+    "kind": "workshop",
+    "path": "gerichtsplugins/richter-familiengericht/richter-familiengericht-werkstatt.md",
+    "bytes": 19682,
+    "characters": 19357,
+    "sha256": "880f5e947598b66bbbba0cb8d75d9563b02daa67e37bcb96112f2a5d2473aca8",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "richter-familiengericht",
+    "kind": "mini",
+    "path": "gerichtsplugins/richter-familiengericht/richter-familiengericht-schnellstart.md",
+    "bytes": 6073,
+    "characters": 5976,
+    "sha256": "98deea6193bbf3ac6cbb7eee180b21522dd4b0081284e3c1b6d2db638ccde834",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "richter-finanzgericht",
+    "kind": "workshop",
+    "path": "gerichtsplugins/richter-finanzgericht/richter-finanzgericht-werkstatt.md",
+    "bytes": 18055,
+    "characters": 17765,
+    "sha256": "15bc4f91f9ef136d8140a38142bbcf0aa3d91d1937630e64ce3cda8e54978242",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "richter-finanzgericht",
+    "kind": "mini",
+    "path": "gerichtsplugins/richter-finanzgericht/richter-finanzgericht-schnellstart.md",
+    "bytes": 6275,
+    "characters": 6170,
+    "sha256": "cc9ca36d1d77e9b27564ccdc516697c580ebc1fb40edf657a39c78f3de59ddbc",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "richter-landgericht-strafkammer",
+    "kind": "workshop",
+    "path": "gerichtsplugins/richter-landgericht-strafkammer/richter-landgericht-strafkammer-werkstatt.md",
+    "bytes": 14298,
+    "characters": 14064,
+    "sha256": "0dff10c3c4703539b66997829f9dac60c9c68d0e8769ed549007ceae7231651d",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "richter-landgericht-strafkammer",
+    "kind": "mini",
+    "path": "gerichtsplugins/richter-landgericht-strafkammer/richter-landgericht-strafkammer-schnellstart.md",
+    "bytes": 6145,
+    "characters": 6033,
+    "sha256": "06d740967d6ca9b7724dbd1c97f6dc2d7608958df8d5c12d879a4b5f4d8f35af",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "richter-landgericht-zivilkammer",
+    "kind": "workshop",
+    "path": "gerichtsplugins/richter-landgericht-zivilkammer/richter-landgericht-zivilkammer-werkstatt.md",
+    "bytes": 17008,
+    "characters": 16729,
+    "sha256": "2392f7887f120ade88b59ac648bcf9e2bfde8487e4d4c8813a12ad2544b86d9c",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "richter-landgericht-zivilkammer",
+    "kind": "mini",
+    "path": "gerichtsplugins/richter-landgericht-zivilkammer/richter-landgericht-zivilkammer-schnellstart.md",
+    "bytes": 5992,
+    "characters": 5890,
+    "sha256": "526ff6a151115f7b1a61a0f6850a1651cc9c0b5b74138be94d499ba69d27d12b",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "richter-sozialgericht",
+    "kind": "workshop",
+    "path": "gerichtsplugins/richter-sozialgericht/richter-sozialgericht-werkstatt.md",
+    "bytes": 15510,
+    "characters": 15254,
+    "sha256": "8c327f44bfd79125695b980a76f2430d62fc33c96d9ba127600e0b90ffd7e45c",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "richter-sozialgericht",
+    "kind": "mini",
+    "path": "gerichtsplugins/richter-sozialgericht/richter-sozialgericht-schnellstart.md",
+    "bytes": 5656,
+    "characters": 5559,
+    "sha256": "48404c8af5cb4c4385ed70665879231e888f140793f0f7f095cec55def0e046a",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "richter-verwaltungsgericht",
+    "kind": "workshop",
+    "path": "gerichtsplugins/richter-verwaltungsgericht/richter-verwaltungsgericht-werkstatt.md",
+    "bytes": 17126,
+    "characters": 16849,
+    "sha256": "8450e4d4f7a58a5ec70e7e855257103336c677af3c6c96d55ec9ec58d8f1e70d",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "richter-verwaltungsgericht",
+    "kind": "mini",
+    "path": "gerichtsplugins/richter-verwaltungsgericht/richter-verwaltungsgericht-schnellstart.md",
+    "bytes": 6039,
+    "characters": 5919,
+    "sha256": "ffb84bca0a156138c203ec182c926fffdc3fad06c3f9b436c0c85326f44995b2",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "robotik-recht",
+    "kind": "workshop",
+    "path": "robotik-recht/robotik-recht-werkstatt.md",
+    "bytes": 23362,
+    "characters": 23014,
+    "sha256": "dd9d72ac70c3711aeeafa733a145112dddaef415e917c6c31386b60683d20529",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "robotik-recht",
+    "kind": "mini",
+    "path": "robotik-recht/robotik-recht-schnellstart.md",
+    "bytes": 6995,
+    "characters": 6885,
+    "sha256": "358d6e1b2a0c635b3f0cbd86a5a93c583702b630f4b547e9e1431ca79bffb5d7",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "roemisch-katholisches-kirchenrecht",
+    "kind": "workshop",
+    "path": "roemisch-katholisches-kirchenrecht/roemisch-katholisches-kirchenrecht-werkstatt.md",
+    "bytes": 19612,
+    "characters": 19288,
+    "sha256": "8373b8681edb0f2ddb969a6b39ed476f90edb8b126ba0b3ae2f5cd4630f97b51",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "roemisch-katholisches-kirchenrecht",
+    "kind": "mini",
+    "path": "roemisch-katholisches-kirchenrecht/roemisch-katholisches-kirchenrecht-schnellstart.md",
+    "bytes": 6828,
+    "characters": 6720,
+    "sha256": "c86d72a0a046253c92daae132dde37cd63bc4b3f4674c7d33df2e3c225a25731",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "roemisches-recht",
+    "kind": "workshop",
+    "path": "roemisches-recht/roemisches-recht-werkstatt.md",
+    "bytes": 15821,
+    "characters": 15570,
+    "sha256": "025d33882c3078ca6c8f285e4232f544c6a44ba48e1cf0eb262b176b52a34c76",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "roemisches-recht",
+    "kind": "mini",
+    "path": "roemisches-recht/roemisches-recht-schnellstart.md",
+    "bytes": 6000,
+    "characters": 5895,
+    "sha256": "391763523fddd251dba10715f5a53d9364cd153291bd681d034135ddf7ab689b",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "schadensregulierung",
+    "kind": "workshop",
+    "path": "schadensregulierung/schadensregulierung-werkstatt.md",
+    "bytes": 49109,
+    "characters": 48298,
+    "sha256": "1d6a0368440c829edd94200132eb43badde2fafd80cef4de038b58c8fd89c510",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "schadensregulierung",
+    "kind": "mini",
+    "path": "schadensregulierung/schadensregulierung-schnellstart.md",
+    "bytes": 7461,
+    "characters": 7333,
+    "sha256": "f4e2808b58bc2f69e0e145b86eb560df794b19991a92ba0365fb6173d617dccc",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "schoeffen-handelsrichter-praxis",
+    "kind": "workshop",
+    "path": "schoeffen-handelsrichter-praxis/schoeffen-handelsrichter-praxis-werkstatt.md",
+    "bytes": 14793,
+    "characters": 14543,
+    "sha256": "e3155a4587122707499e3030cf6b18e155cecd5c41ad94575be1346904557d73",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "schoeffen-handelsrichter-praxis",
+    "kind": "mini",
+    "path": "schoeffen-handelsrichter-praxis/schoeffen-handelsrichter-praxis-schnellstart.md",
+    "bytes": 6118,
+    "characters": 6014,
+    "sha256": "45512776c9dec7a0d3bbabfe8ca58d03de789372710d3d5011e8774ca8ca14bd",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "schriftform-und-textform-bgb",
+    "kind": "workshop",
+    "path": "schriftform-und-textform-bgb/schriftform-und-textform-bgb-werkstatt.md",
+    "bytes": 19564,
+    "characters": 19246,
+    "sha256": "3d761b42f9d8478c95229f4cdd0a40fc9fe38d9e94122b936279a715f1960487",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "schriftform-und-textform-bgb",
+    "kind": "mini",
+    "path": "schriftform-und-textform-bgb/schriftform-und-textform-bgb-schnellstart.md",
+    "bytes": 6739,
+    "characters": 6606,
+    "sha256": "d9c19e044d3eb8f4d0d05025f66e7747ee2d7aff21bd652969e68a0af60bc8a7",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "schriftsatz-versandwerkstatt",
+    "kind": "workshop",
+    "path": "schriftsatz-versandwerkstatt/schriftsatz-versandwerkstatt-werkstatt.md",
+    "bytes": 25312,
+    "characters": 24968,
+    "sha256": "48e064cd95da61dc39d5610d81895a254fda3990c32d09d5988a74ee3c6bf7a7",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "schriftsatz-versandwerkstatt",
+    "kind": "mini",
+    "path": "schriftsatz-versandwerkstatt/schriftsatz-versandwerkstatt-schnellstart.md",
+    "bytes": 7496,
+    "characters": 7387,
+    "sha256": "dc5965d7cc761785d9c4db28f48d326e5cdae9a41010bf6f3e664c8d27111a44",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "schulrecht-laender",
+    "kind": "workshop",
+    "path": "schulrecht-laender/schulrecht-laender-werkstatt.md",
+    "bytes": 15172,
+    "characters": 14893,
+    "sha256": "790fb2d53a214882e7a29485e876f04f5dca3c976c66c9200e8dbb92e468ecbd",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "schulrecht-laender",
+    "kind": "mini",
+    "path": "schulrecht-laender/schulrecht-laender-schnellstart.md",
+    "bytes": 6204,
+    "characters": 6081,
+    "sha256": "b354e3955d17183a65f85beb748bfb859cc15fb113017a7c392ffdf2c5bac754",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "seerecht-schifffahrtsrecht",
+    "kind": "workshop",
+    "path": "seerecht-schifffahrtsrecht/seerecht-schifffahrtsrecht-werkstatt.md",
+    "bytes": 15062,
+    "characters": 14827,
+    "sha256": "3f3e81109d674a33e2b3641ebc671b7e19a4f8735ce744798891cb4479aedec6",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "seerecht-schifffahrtsrecht",
+    "kind": "mini",
+    "path": "seerecht-schifffahrtsrecht/seerecht-schifffahrtsrecht-schnellstart.md",
+    "bytes": 6111,
+    "characters": 6000,
+    "sha256": "d0aef60f2f9e43cd9a39dfb12b12f76c455c5f750279e2d9c71a858102e5fc3b",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "selbstvertreter-amtsgericht",
+    "kind": "workshop",
+    "path": "selbstvertreter-amtsgericht/selbstvertreter-amtsgericht-werkstatt.md",
+    "bytes": 16137,
+    "characters": 15874,
+    "sha256": "12d90ff9365461a5394e8c06b3ab6f48851d2ee07a16eb1769a687b8836b100e",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "selbstvertreter-amtsgericht",
+    "kind": "mini",
+    "path": "selbstvertreter-amtsgericht/selbstvertreter-amtsgericht-schnellstart.md",
+    "bytes": 5662,
+    "characters": 5565,
+    "sha256": "2e574d8b6ae288a7a374ebf86f27b88d7d5bf4d0d45fb96d41b8f9b9f4da53c5",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "selbstvertreter-sozialgericht",
+    "kind": "workshop",
+    "path": "selbstvertreter-sozialgericht/selbstvertreter-sozialgericht-werkstatt.md",
+    "bytes": 17954,
+    "characters": 17665,
+    "sha256": "f0605fc1953b5444c4eebe3d8137b3872746cb91814de6ba6452ee42f8903edf",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "selbstvertreter-sozialgericht",
+    "kind": "mini",
+    "path": "selbstvertreter-sozialgericht/selbstvertreter-sozialgericht-schnellstart.md",
+    "bytes": 5862,
+    "characters": 5748,
+    "sha256": "8bd5c716c14af2ff18cff46a35b988b2de372facdd00082ffe42b8308c7732de",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "softwarerecht-de-eu-us",
+    "kind": "workshop",
+    "path": "softwarerecht-de-eu-us/softwarerecht-de-eu-us-werkstatt.md",
+    "bytes": 17620,
+    "characters": 17351,
+    "sha256": "c7656f1985880ba7ae5834ba138022652bd2decb1f7d2b5bad5f8243a97b2aaf",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "softwarerecht-de-eu-us",
+    "kind": "mini",
+    "path": "softwarerecht-de-eu-us/softwarerecht-de-eu-us-schnellstart.md",
+    "bytes": 6057,
+    "characters": 5957,
+    "sha256": "8df771d98da3e849078ad222de9444990d757c25ab2e05c1dea7ef367ca702ff",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "solo-selbststaendige-praxis",
+    "kind": "workshop",
+    "path": "solo-selbststaendige-praxis/solo-selbststaendige-praxis-werkstatt.md",
+    "bytes": 16683,
+    "characters": 16413,
+    "sha256": "4f19b50828d9d397e983d72d31f935cb7ec287d20bd75a5a4179df90d7798a20",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "solo-selbststaendige-praxis",
+    "kind": "mini",
+    "path": "solo-selbststaendige-praxis/solo-selbststaendige-praxis-schnellstart.md",
+    "bytes": 5892,
+    "characters": 5786,
+    "sha256": "feb2c83e933b806adaf1fad5a63293ccc6a253e90fad5fdb38c0fc685d8e23a8",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "sozialversicherungsstatus-pruefer",
+    "kind": "workshop",
+    "path": "sozialversicherungsstatus-pruefer/sozialversicherungsstatus-pruefer-werkstatt.md",
+    "bytes": 13528,
+    "characters": 13295,
+    "sha256": "04c316a823c48ef9c4a9b9db1e2b591e4f49e9872ae7ed44869cc9248cb82f8e",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "sozialversicherungsstatus-pruefer",
+    "kind": "mini",
+    "path": "sozialversicherungsstatus-pruefer/sozialversicherungsstatus-pruefer-schnellstart.md",
+    "bytes": 6006,
+    "characters": 5900,
+    "sha256": "5d73c5a6e30aadf16a5ce336263ae88d3deb9f92f967c582002b1af731085c58",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "staatsanwaltschaft-amtsanwaltschaft",
+    "kind": "workshop",
+    "path": "gerichtsplugins/staatsanwaltschaft-amtsanwaltschaft/staatsanwaltschaft-amtsanwaltschaft-werkstatt.md",
+    "bytes": 18154,
+    "characters": 17855,
+    "sha256": "8dc847fd30f03511a0fb197ed6e5d50eccc41b5f303378c122bd914afae7f6bf",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "staatsanwaltschaft-amtsanwaltschaft",
+    "kind": "mini",
+    "path": "gerichtsplugins/staatsanwaltschaft-amtsanwaltschaft/staatsanwaltschaft-amtsanwaltschaft-schnellstart.md",
+    "bytes": 5187,
+    "characters": 5105,
+    "sha256": "8b3693a97aa45db8ef46890ffb745e9f5d4c2a2a59017dc651bd25a471b821f0",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "staatsanwaltschaft-praxis-einstieg",
+    "kind": "workshop",
+    "path": "gerichtsplugins/staatsanwaltschaft-praxis-einstieg/staatsanwaltschaft-praxis-einstieg-werkstatt.md",
+    "bytes": 19746,
+    "characters": 19421,
+    "sha256": "e4b5a263c996e08a895a90bcfd9096055d6cc3f5e96e9031b670431930a8c006",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "staatsanwaltschaft-praxis-einstieg",
+    "kind": "mini",
+    "path": "gerichtsplugins/staatsanwaltschaft-praxis-einstieg/staatsanwaltschaft-praxis-einstieg-schnellstart.md",
+    "bytes": 5787,
+    "characters": 5698,
+    "sha256": "9e3d8ac8f440651ff9a5d76e957ffb4bfaba67464f06dbffa4f4edfc3f6a24ee",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "startup-hr-personalabteilung-berlin",
+    "kind": "workshop",
+    "path": "startup-hr-personalabteilung-berlin/startup-hr-personalabteilung-berlin-werkstatt.md",
+    "bytes": 18501,
+    "characters": 18237,
+    "sha256": "2cc9efba6db7c50f41f934f74c9ece468e5ed9912dc5bbb9cc7668416acb98b9",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "startup-hr-personalabteilung-berlin",
+    "kind": "mini",
+    "path": "startup-hr-personalabteilung-berlin/startup-hr-personalabteilung-berlin-schnellstart.md",
+    "bytes": 5805,
+    "characters": 5725,
+    "sha256": "84af1bf6da1e6d242fccf253fef6b90964a49b89bcd69838bd0f701cfc3ddad3",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "status-navigator-step-plan",
+    "kind": "workshop",
+    "path": "status-navigator-step-plan/status-navigator-step-plan-werkstatt.md",
+    "bytes": 15120,
+    "characters": 14892,
+    "sha256": "b14452e345f9d4cee537b54668cffb845127690035e0674d1cd6c81127fa4f82",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "status-navigator-step-plan",
+    "kind": "mini",
+    "path": "status-navigator-step-plan/status-navigator-step-plan-schnellstart.md",
+    "bytes": 5820,
+    "characters": 5727,
+    "sha256": "a76f2cabc6d94ce66766c32102995dedcb9c1066fb192e217c1c0a5de7ff85d2",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "steuerrecht-anwalt-und-berater",
+    "kind": "workshop",
+    "path": "steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-werkstatt.md",
+    "bytes": 29223,
+    "characters": 28784,
+    "sha256": "f44c2536a3a352ef1ea3fb165ac0ad11ddf2f580405679bdd1449db6d9ab09e8",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "steuerrecht-anwalt-und-berater",
+    "kind": "mini",
+    "path": "steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-schnellstart.md",
+    "bytes": 5853,
+    "characters": 5759,
+    "sha256": "0e04fcfdae3d55c5587acefea0b70b79ca863c25c3674a4648230c9baa24f79a",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "strafanzeige-vorbereiter",
+    "kind": "workshop",
+    "path": "strafanzeige-vorbereiter/strafanzeige-vorbereiter-werkstatt.md",
+    "bytes": 16774,
+    "characters": 16547,
+    "sha256": "78712b106ea06917cca2b6f7a402ef5301041604b200b0b97e290366b3a4188d",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "strafanzeige-vorbereiter",
+    "kind": "mini",
+    "path": "strafanzeige-vorbereiter/strafanzeige-vorbereiter-schnellstart.md",
+    "bytes": 5100,
+    "characters": 5041,
+    "sha256": "c502517ce36bbce75c7249fbbe1ee9f01badd132867a6eefbe66dcd87697a988",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "strafbefehl-verteidiger",
+    "kind": "workshop",
+    "path": "strafbefehl-verteidiger/strafbefehl-verteidiger-werkstatt.md",
+    "bytes": 18077,
+    "characters": 17824,
+    "sha256": "674db587d008559cf5430405d72b943b8c49ef2d1afb2fcc6757c6feeb802115",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "strafbefehl-verteidiger",
+    "kind": "mini",
+    "path": "strafbefehl-verteidiger/strafbefehl-verteidiger-schnellstart.md",
+    "bytes": 5643,
+    "characters": 5566,
+    "sha256": "f5cc86755f8c193e12f610dc8c1fdd35b43100dbf39b3f9bada60ee2e9e52754",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "strafzumessung",
+    "kind": "workshop",
+    "path": "strafzumessung/strafzumessung-werkstatt.md",
+    "bytes": 21370,
+    "characters": 20999,
+    "sha256": "c543e2041e1c06291b89b3a6971fd8eb9edf37b1d2cd5f1b490f04c07f8836e3",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "strafzumessung",
+    "kind": "mini",
+    "path": "strafzumessung/strafzumessung-schnellstart.md",
+    "bytes": 6817,
+    "characters": 6685,
+    "sha256": "834b980efed8a884a3280a66608e04ac15d56c992d508daa38f9ee9f4a0cff9d",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "strassennutzung-genehmigungen",
+    "kind": "workshop",
+    "path": "strassennutzung-genehmigungen/strassennutzung-genehmigungen-werkstatt.md",
+    "bytes": 38544,
+    "characters": 37838,
+    "sha256": "46cf587efb51212841639b8520b5da2748764f56d0165b5649087bf22b517711",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "strassennutzung-genehmigungen",
+    "kind": "mini",
+    "path": "strassennutzung-genehmigungen/strassennutzung-genehmigungen-schnellstart.md",
+    "bytes": 7352,
+    "characters": 7231,
+    "sha256": "4f6e852597950b096dc06b442aba49ce730a88061ef056f1437eb38d3725f07e",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "strassenrecht-infrastruktur",
+    "kind": "workshop",
+    "path": "strassenrecht-infrastruktur/strassenrecht-infrastruktur-werkstatt.md",
+    "bytes": 20178,
+    "characters": 19812,
+    "sha256": "cfc562d30be0fde4166e5ecc6d1d28b94637cf82e0e573d0b3ec074caf565c5e",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "strassenrecht-infrastruktur",
+    "kind": "mini",
+    "path": "strassenrecht-infrastruktur/strassenrecht-infrastruktur-schnellstart.md",
+    "bytes": 6561,
+    "characters": 6422,
+    "sha256": "ed1177a42f50424261a034d3871d035fb2a712d3e947eefe452641897123597d",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "strassenverkehrsrecht-stvo",
+    "kind": "workshop",
+    "path": "strassenverkehrsrecht-stvo/strassenverkehrsrecht-stvo-werkstatt.md",
+    "bytes": 13856,
+    "characters": 13631,
+    "sha256": "394854e02dc9f07eb72f4125924ef4017c0650b53da9ddf37b2e77eb8a121642",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "strassenverkehrsrecht-stvo",
+    "kind": "mini",
+    "path": "strassenverkehrsrecht-stvo/strassenverkehrsrecht-stvo-schnellstart.md",
+    "bytes": 6309,
+    "characters": 6205,
+    "sha256": "1c77cbc2b8f2c64d3e66257e568b3f377be01bbb6cddc042676896bc35004196",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "subsumtions-pruefer",
+    "kind": "workshop",
+    "path": "subsumtions-pruefer/subsumtions-pruefer-werkstatt.md",
+    "bytes": 17660,
+    "characters": 17375,
+    "sha256": "5162380c3e79809d6651c1969847d2fc19f016aa494a40e74551d972f76980be",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "subsumtions-pruefer",
+    "kind": "mini",
+    "path": "subsumtions-pruefer/subsumtions-pruefer-schnellstart.md",
+    "bytes": 6213,
+    "characters": 6113,
+    "sha256": "078d06cbec9674513922b498f829a006d1f501029f0c763f3788f6e871e87134",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "tabellenreview-3d",
+    "kind": "workshop",
+    "path": "tabellenreview-3d/tabellenreview-3d-werkstatt.md",
+    "bytes": 15785,
+    "characters": 15567,
+    "sha256": "3fac54787f6741565ae526fbc4f586562bff427a097a55ceaf23efbe2e3f61f3",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "tabellenreview-3d",
+    "kind": "mini",
+    "path": "tabellenreview-3d/tabellenreview-3d-schnellstart.md",
+    "bytes": 7177,
+    "characters": 7062,
+    "sha256": "d423130c548478c4ec1729ffbcc647353c09050a7b862535fd4d437048741996",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "telekommunikationsrecht",
+    "kind": "workshop",
+    "path": "telekommunikationsrecht/telekommunikationsrecht-werkstatt.md",
+    "bytes": 17699,
+    "characters": 17448,
+    "sha256": "59812c8a6ede0eb458d5ffba3802de9b425a195686d2de309eb167d3d06bd469",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "telekommunikationsrecht",
+    "kind": "mini",
+    "path": "telekommunikationsrecht/telekommunikationsrecht-schnellstart.md",
+    "bytes": 7419,
+    "characters": 7315,
+    "sha256": "f253b364556b1f8ec654f0957de945da8de2c54b19d7ff503705d14fc213b22d",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "tierschutzrecht",
+    "kind": "workshop",
+    "path": "tierschutzrecht/tierschutzrecht-werkstatt.md",
+    "bytes": 16924,
+    "characters": 16643,
+    "sha256": "cde7a8bfe086193b8fa06f84b1a8d2b74d057485ac02d9e71e3e01c5523f0cde",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "tierschutzrecht",
+    "kind": "mini",
+    "path": "tierschutzrecht/tierschutzrecht-schnellstart.md",
+    "bytes": 7254,
+    "characters": 7143,
+    "sha256": "10e2bd54753c5cdba35107b3262c3b49fe68bcac8e8382057c457164d616a2ae",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "umweltrecht",
+    "kind": "workshop",
+    "path": "umweltrecht/umweltrecht-werkstatt.md",
+    "bytes": 16398,
+    "characters": 16170,
+    "sha256": "5d6479e0a923f17477af2bde49723c9ce44beb21e3372c6fe173ad9871d0f2d4",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "umweltrecht",
+    "kind": "mini",
+    "path": "umweltrecht/umweltrecht-schnellstart.md",
+    "bytes": 7341,
+    "characters": 7231,
+    "sha256": "94a2491e829b0c1c7f66be6149a44baacbfa301a429bafc34ac757360b096e83",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "umweltschutzverband-verbandsklage",
+    "kind": "workshop",
+    "path": "umweltschutzverband-verbandsklage/umweltschutzverband-verbandsklage-werkstatt.md",
+    "bytes": 16944,
+    "characters": 16691,
+    "sha256": "5a58b3e79f8c49fab60203ec02dbbe80ce1001e0e81e7bb337f290d0d516d158",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "umweltschutzverband-verbandsklage",
+    "kind": "mini",
+    "path": "umweltschutzverband-verbandsklage/umweltschutzverband-verbandsklage-schnellstart.md",
+    "bytes": 7221,
+    "characters": 7117,
+    "sha256": "a5d4333b51ce7792e043f11060ea9a3c229d55da7f69ec2a6118e337b2342656",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "urheberrecht-de-eu",
+    "kind": "workshop",
+    "path": "urheberrecht-de-eu/urheberrecht-de-eu-werkstatt.md",
+    "bytes": 15755,
+    "characters": 15541,
+    "sha256": "8767d075eae808dd3ebc5c59f7594d352c79f2e0868a0b43fade73f44576dc0d",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "urheberrecht-de-eu",
+    "kind": "mini",
+    "path": "urheberrecht-de-eu/urheberrecht-de-eu-schnellstart.md",
+    "bytes": 6912,
+    "characters": 6817,
+    "sha256": "1f69e79b8c088aae96b5b2a4a01001de218a24c02c2be672c7170b647456e062",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "urteilsbauer-relationsmacher",
+    "kind": "workshop",
+    "path": "urteilsbauer-relationsmacher/urteilsbauer-relationsmacher-werkstatt.md",
+    "bytes": 18234,
+    "characters": 17944,
+    "sha256": "7af0b38e46cad8f397e65948f78751559d5c638c10d35a23003310c87e4ebe24",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "urteilsbauer-relationsmacher",
+    "kind": "mini",
+    "path": "urteilsbauer-relationsmacher/urteilsbauer-relationsmacher-schnellstart.md",
+    "bytes": 7279,
+    "characters": 7177,
+    "sha256": "caf355187a5d8878ec2ae3213f0430a9c086548d1651256713d968d85557e14b",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "us-bankruptcy-code",
+    "kind": "workshop",
+    "path": "us-bankruptcy-code/us-bankruptcy-code-werkstatt.md",
+    "bytes": 17574,
+    "characters": 17328,
+    "sha256": "44d41689f1542443d71c9b92de3e1b1c23335bd6d058340c500320a64e9036e9",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "us-bankruptcy-code",
+    "kind": "mini",
+    "path": "us-bankruptcy-code/us-bankruptcy-code-schnellstart.md",
+    "bytes": 7401,
+    "characters": 7304,
+    "sha256": "f30dfdc59e9b0fb36a7aec46614a178cd663be3d11acd9ca7f0952417a91f3b1",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "us-copyright-registrierung-verlag",
+    "kind": "workshop",
+    "path": "us-copyright-registrierung-verlag/us-copyright-registrierung-verlag-werkstatt.md",
+    "bytes": 14514,
+    "characters": 14294,
+    "sha256": "3a3ac5148cd1bf26a655b190ec47f330a9d069ba962f30a6924497fc780d0e2d",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "us-copyright-registrierung-verlag",
+    "kind": "mini",
+    "path": "us-copyright-registrierung-verlag/us-copyright-registrierung-verlag-schnellstart.md",
+    "bytes": 7327,
+    "characters": 7236,
+    "sha256": "916cc1e7d223299ea880b4f22c3298a4150b072244d641c427a81d03738e6431",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "venture-capital-geber",
+    "kind": "workshop",
+    "path": "venture-capital-geber/venture-capital-geber-werkstatt.md",
+    "bytes": 18424,
+    "characters": 18176,
+    "sha256": "e6241384de08bcddf5b2a74196f7f66c66441b42566b5ad430c216668acbe6e8",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "venture-capital-geber",
+    "kind": "mini",
+    "path": "venture-capital-geber/venture-capital-geber-schnellstart.md",
+    "bytes": 6877,
+    "characters": 6787,
+    "sha256": "3304e432ed52b508eca455f27b1407bde981beddcd390763bb6e6e85c92f98e5",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "verbraucher-rechtsstaat-alltag",
+    "kind": "workshop",
+    "path": "verbraucher-rechtsstaat-alltag/verbraucher-rechtsstaat-alltag-werkstatt.md",
+    "bytes": 20198,
+    "characters": 19889,
+    "sha256": "d91d9599d335075811b56093e0af376608a467e811dbdb59d1bade3aa3b9bab4",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "verbraucher-rechtsstaat-alltag",
+    "kind": "mini",
+    "path": "verbraucher-rechtsstaat-alltag/verbraucher-rechtsstaat-alltag-schnellstart.md",
+    "bytes": 7351,
+    "characters": 7236,
+    "sha256": "951b092c5425a480cb8c493aa59989c57f9fb527ef217f4d93412462873cb459",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "verbraucherinsolvenz-schuldenbereinigung",
+    "kind": "workshop",
+    "path": "verbraucherinsolvenz-schuldenbereinigung/verbraucherinsolvenz-schuldenbereinigung-werkstatt.md",
+    "bytes": 18431,
+    "characters": 18142,
+    "sha256": "6481af0eb8ab46e51de8fd99e4cf1efb006f18141a18f10c202709c196b62894",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "verbraucherinsolvenz-schuldenbereinigung",
+    "kind": "mini",
+    "path": "verbraucherinsolvenz-schuldenbereinigung/verbraucherinsolvenz-schuldenbereinigung-schnellstart.md",
+    "bytes": 7252,
+    "characters": 7111,
+    "sha256": "66e8dc90891cbf702c2ec03bfd473af26bcf5fd143c936940da1f227d6ee51f8",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "verbraucherschutzrecht-pruefer",
+    "kind": "workshop",
+    "path": "verbraucherschutzrecht-pruefer/verbraucherschutzrecht-pruefer-werkstatt.md",
+    "bytes": 20304,
+    "characters": 19986,
+    "sha256": "440396bb387bd99695fa2932a2735ba2b9712f9e67a947eca9d3531a028f7cf2",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "verbraucherschutzrecht-pruefer",
+    "kind": "mini",
+    "path": "verbraucherschutzrecht-pruefer/verbraucherschutzrecht-pruefer-schnellstart.md",
+    "bytes": 7339,
+    "characters": 7211,
+    "sha256": "cce19698522ac6bd4aa6bd51b2a4afacef4d6b4ee18e1eab92d425d36468afb1",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "verbraucherschutzverband-durchsetzung",
+    "kind": "workshop",
+    "path": "verbraucherschutzverband-durchsetzung/verbraucherschutzverband-durchsetzung-werkstatt.md",
+    "bytes": 16702,
+    "characters": 16480,
+    "sha256": "fbaa622e5f17a923c4f54418f4fc89a83efbd1231acb50fc2c68f3e8037b7b42",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "verbraucherschutzverband-durchsetzung",
+    "kind": "mini",
+    "path": "verbraucherschutzverband-durchsetzung/verbraucherschutzverband-durchsetzung-schnellstart.md",
+    "bytes": 7292,
+    "characters": 7177,
+    "sha256": "f6366c6311a30e0fc11cccd2d998709896c175f4f47ac8cfaee395612b35af96",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "vereinsrecht-vereinsmanager",
+    "kind": "workshop",
+    "path": "vereinsrecht-vereinsmanager/vereinsrecht-vereinsmanager-werkstatt.md",
+    "bytes": 16852,
+    "characters": 16582,
+    "sha256": "6f9e7dbe6a1ed6036589b7fb29b097d7c12452f591015963e3dff3b280b8429c",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "vereinsrecht-vereinsmanager",
+    "kind": "mini",
+    "path": "vereinsrecht-vereinsmanager/vereinsrecht-vereinsmanager-schnellstart.md",
+    "bytes": 7255,
+    "characters": 7138,
+    "sha256": "a89f56a3157cf1ac827f0efc672f1fb2cd94cef3f288084aa098fd4b08ffe3d0",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "verfassungsrecht",
+    "kind": "workshop",
+    "path": "verfassungsrecht/verfassungsrecht-werkstatt.md",
+    "bytes": 18638,
+    "characters": 18318,
+    "sha256": "4877734fdddbdf18e59354f5225255d85b274d376d54555870ae404055a5d25d",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "verfassungsrecht",
+    "kind": "mini",
+    "path": "verfassungsrecht/verfassungsrecht-schnellstart.md",
+    "bytes": 7173,
+    "characters": 7047,
+    "sha256": "904fb0201dd3c6bd40f93590a756d1cb8a479882e416f3f3769386eb76a28e0a",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "verhaeltnismaessigkeitspruefer",
+    "kind": "workshop",
+    "path": "verhaeltnismaessigkeitspruefer/verhaeltnismaessigkeitspruefer-werkstatt.md",
+    "bytes": 18215,
+    "characters": 17924,
+    "sha256": "6b20939866a274a00951f0cf05536a7aff9b6f1ca96850423ce6d19cfe3cad4a",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "verhaeltnismaessigkeitspruefer",
+    "kind": "mini",
+    "path": "verhaeltnismaessigkeitspruefer/verhaeltnismaessigkeitspruefer-schnellstart.md",
+    "bytes": 7136,
+    "characters": 7003,
+    "sha256": "d671f08005c8e81b0a010d5a4693546a39ff452bb74a99493b555cbcfb0d9b08",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "verkehr-infrastrukturrecht",
+    "kind": "workshop",
+    "path": "verkehr-infrastrukturrecht/verkehr-infrastrukturrecht-werkstatt.md",
+    "bytes": 16897,
+    "characters": 16617,
+    "sha256": "ef99de677e86c9e63e25b1fa290eba7a7075a6d9e908d4aee8b3167f4009cbf1",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "verkehr-infrastrukturrecht",
+    "kind": "mini",
+    "path": "verkehr-infrastrukturrecht/verkehr-infrastrukturrecht-schnellstart.md",
+    "bytes": 7368,
+    "characters": 7266,
+    "sha256": "298a889a40bcb8eec8720ff05ab3488f485eb4730e14cb5ccd9176c930052f30",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "verkehrsowi-verteidiger",
+    "kind": "workshop",
+    "path": "verkehrsowi-verteidiger/verkehrsowi-verteidiger-werkstatt.md",
+    "bytes": 15867,
+    "characters": 15633,
+    "sha256": "e8ede3ddffb3c4825b11f2ba0091c305410cabaab758923b11a5789eb625cc00",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "verkehrsowi-verteidiger",
+    "kind": "mini",
+    "path": "verkehrsowi-verteidiger/verkehrsowi-verteidiger-schnellstart.md",
+    "bytes": 7244,
+    "characters": 7143,
+    "sha256": "e0bcf68a47303946a051905d3ff653c02687a67e7a54468fccb72f3e929d6b97",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "verlagsrecht-buchpreisbindung",
+    "kind": "workshop",
+    "path": "verlagsrecht-buchpreisbindung/verlagsrecht-buchpreisbindung-werkstatt.md",
+    "bytes": 17792,
+    "characters": 17522,
+    "sha256": "e01f6627761c3ad42d86861ace3bc2201552f0e887a7bd2206aa7d6301538f63",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "verlagsrecht-buchpreisbindung",
+    "kind": "mini",
+    "path": "verlagsrecht-buchpreisbindung/verlagsrecht-buchpreisbindung-schnellstart.md",
+    "bytes": 7245,
+    "characters": 7127,
+    "sha256": "000dee288aa184e3ce41694ef1c9ac4f7160770980d2e985493aa74195e049a4",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "verlagsredaktion",
+    "kind": "workshop",
+    "path": "verlagsredaktion/verlagsredaktion-werkstatt.md",
+    "bytes": 16947,
+    "characters": 16723,
+    "sha256": "d38877c1fd6f065362f08a60fda62cc783f33d45624e4f30d30fd267e9db1b10",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "verlagsredaktion",
+    "kind": "mini",
+    "path": "verlagsredaktion/verlagsredaktion-schnellstart.md",
+    "bytes": 7211,
+    "characters": 7108,
+    "sha256": "27a858521b1dc4b8412e70bb284fa972f91c7c96f0ea9ed01cec8dfd6803b4b3",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "versammlungsrecht",
+    "kind": "workshop",
+    "path": "versammlungsrecht/versammlungsrecht-werkstatt.md",
+    "bytes": 16344,
+    "characters": 16116,
+    "sha256": "825314cc504e34c8d5b94759e5bf5b47bea3f4afbd7ccce739d91dc1819b59e9",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "versammlungsrecht",
+    "kind": "mini",
+    "path": "versammlungsrecht/versammlungsrecht-schnellstart.md",
+    "bytes": 7340,
+    "characters": 7241,
+    "sha256": "29126dd1853601bdffebcc57519d58b08179da8391d6f346b2c34fb4e9cd5195",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "versicherungsrecht",
+    "kind": "workshop",
+    "path": "versicherungsrecht/versicherungsrecht-werkstatt.md",
+    "bytes": 18874,
+    "characters": 18571,
+    "sha256": "47d394c24b7239af2be4aa13cae6ddb635383bf7294b5e016ae53d3ce894f610",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "versicherungsrecht",
+    "kind": "mini",
+    "path": "versicherungsrecht/versicherungsrecht-schnellstart.md",
+    "bytes": 7060,
+    "characters": 6961,
+    "sha256": "1ea0f857154593e13bc87d75ef00dc525084bb05b971c32d7c70643e766d03a7",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "vertragsausfueller",
+    "kind": "workshop",
+    "path": "vertragsausfueller/vertragsausfueller-werkstatt.md",
+    "bytes": 18734,
+    "characters": 18420,
+    "sha256": "61296a0b618fea36ed128a09ddae5185b64a43b069d67196190bcd170838c912",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "vertragsausfueller",
+    "kind": "mini",
+    "path": "vertragsausfueller/vertragsausfueller-schnellstart.md",
+    "bytes": 7119,
+    "characters": 7000,
+    "sha256": "7e4ca27c7d7bd8fd5c5b6001cc897e83a7056737fe6eae883efd4017a281787d",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "vertragserstellung",
+    "kind": "workshop",
+    "path": "vertragserstellung/vertragserstellung-werkstatt.md",
+    "bytes": 64753,
+    "characters": 63666,
+    "sha256": "efa55662abb5474a706776e09f63a32fa8d2a1abe056abf0338520ae47b781bc",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "vertragserstellung",
+    "kind": "mini",
+    "path": "vertragserstellung/vertragserstellung-schnellstart.md",
+    "bytes": 7391,
+    "characters": 7281,
+    "sha256": "9af14af22f2fc7afd86a3312034859053e5c13c5695bd40473e0e4f41599ba9b",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "vertragsrecht",
+    "kind": "workshop",
+    "path": "vertragsrecht/vertragsrecht-werkstatt.md",
+    "bytes": 18782,
+    "characters": 18452,
+    "sha256": "d6b395f8a7930b6663e331185aadeb90ee8c4065a26ef55dc34a7919ba91db5c",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "vertragsrecht",
+    "kind": "mini",
+    "path": "vertragsrecht/vertragsrecht-schnellstart.md",
+    "bytes": 7446,
+    "characters": 7328,
+    "sha256": "d2a20d55a40d14e0293ebb6d1fdd30862f6e897ac9d8e035489eb0039023b817",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "wahlkampfrecht-praxis",
+    "kind": "workshop",
+    "path": "wahlkampfrecht-praxis/wahlkampfrecht-praxis-werkstatt.md",
+    "bytes": 17711,
+    "characters": 17421,
+    "sha256": "cabc97f7fdc924fb4dfebd4ec4ffab58006f2f7e236e8efad2e7a1653994297d",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "wahlkampfrecht-praxis",
+    "kind": "mini",
+    "path": "wahlkampfrecht-praxis/wahlkampfrecht-praxis-schnellstart.md",
+    "bytes": 6669,
+    "characters": 6572,
+    "sha256": "3fb5c9c7c9a5ece3e3ec6049352ab1529645abd8de1cd75f2d853a1c1843ba37",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "wandeldarlehen-lebenszyklus",
+    "kind": "workshop",
+    "path": "wandeldarlehen-lebenszyklus/wandeldarlehen-lebenszyklus-werkstatt.md",
+    "bytes": 21368,
+    "characters": 21052,
+    "sha256": "180e4d2f9799dfbb0d8508e95d7a080bb2f0d1d8232f1bf07e2100d24c674d15",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "wandeldarlehen-lebenszyklus",
+    "kind": "mini",
+    "path": "wandeldarlehen-lebenszyklus/wandeldarlehen-lebenszyklus-schnellstart.md",
+    "bytes": 7360,
+    "characters": 7285,
+    "sha256": "2a81dbb4cc50e15f136e5156ae845eadf2f5c42911a1d9ff3bf71f4315fac13b",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "weg-hausverwaltung",
+    "kind": "workshop",
+    "path": "weg-hausverwaltung/weg-hausverwaltung-werkstatt.md",
+    "bytes": 20109,
+    "characters": 19762,
+    "sha256": "356435f0df68e8df26c3251d04f2033eaf5ee92b014091435bafdca620fbe59e",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "weg-hausverwaltung",
+    "kind": "mini",
+    "path": "weg-hausverwaltung/weg-hausverwaltung-schnellstart.md",
+    "bytes": 7324,
+    "characters": 7203,
+    "sha256": "878ce9c312a0f1720afcf5e6901712e1ee66f41c8ab29fdbf879cad32b6deff1",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "weltraumrecht",
+    "kind": "workshop",
+    "path": "weltraumrecht/weltraumrecht-werkstatt.md",
+    "bytes": 26954,
+    "characters": 26529,
+    "sha256": "92375761ce2c8d3da9d68ea5a11aa0b39637222ac3454b2feec41d2eef19644a",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "weltraumrecht",
+    "kind": "mini",
+    "path": "weltraumrecht/weltraumrecht-schnellstart.md",
+    "bytes": 7264,
+    "characters": 7166,
+    "sha256": "5a86866d7c210cd684a39ab968ee23e917189909218d5f3d7d0f6f88f134ba23",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "wirtschaftsanwalt",
+    "kind": "workshop",
+    "path": "wirtschaftsanwalt/wirtschaftsanwalt-werkstatt.md",
+    "bytes": 61283,
+    "characters": 60241,
+    "sha256": "c7e88d2a0c52b93d45aa74bed399f0eaf0ab32ada88aac126df92bc9d9652113",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "wirtschaftsanwalt",
+    "kind": "mini",
+    "path": "wirtschaftsanwalt/wirtschaftsanwalt-schnellstart.md",
+    "bytes": 7448,
+    "characters": 7341,
+    "sha256": "00c120fb39f6f80ff1c3ef4b096c74abcaa0cc32db63a510e26f8391a6004dd6",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "word-legal-ai-plugin-and-skill-for-german-lawyers",
+    "kind": "workshop",
+    "path": "word-legal-ai-plugin-and-skill-for-german-lawyers/word-legal-ai-plugin-and-skill-for-german-lawyers-werkstatt.md",
+    "bytes": 22019,
+    "characters": 21689,
+    "sha256": "d121c630fc78c5d2bbe456263d38af134808fcfe8bf77617e8cfa65bdac4bdca",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "word-legal-ai-plugin-and-skill-for-german-lawyers",
+    "kind": "mini",
+    "path": "word-legal-ai-plugin-and-skill-for-german-lawyers/word-legal-ai-plugin-and-skill-for-german-lawyers-schnellstart.md",
+    "bytes": 7146,
+    "characters": 7049,
+    "sha256": "9dc7214b74c0b0aebda3f6e40798d37d907133827373b4fd591ac265ad54dc21",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "zitierweise-deutsches-recht",
+    "kind": "workshop",
+    "path": "zitierweise-deutsches-recht/zitierweise-deutsches-recht-werkstatt.md",
+    "bytes": 15669,
+    "characters": 15413,
+    "sha256": "3686d078c03225584d116cfd77cee90c2f4434590adb54b50cc135bd907579a3",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "zitierweise-deutsches-recht",
+    "kind": "mini",
+    "path": "zitierweise-deutsches-recht/zitierweise-deutsches-recht-schnellstart.md",
+    "bytes": 6831,
+    "characters": 6737,
+    "sha256": "d10b621db603890c1aa404f8f2852d236bb6767e3513685ddb789c0fc056456f",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "zugewinnausgleich",
+    "kind": "workshop",
+    "path": "zugewinnausgleich/zugewinnausgleich-werkstatt.md",
+    "bytes": 29731,
+    "characters": 29277,
+    "sha256": "0daa56b8c64d819c086de3556000b604942476d3c20c03c12bd749aa081d5e0e",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "zugewinnausgleich",
+    "kind": "mini",
+    "path": "zugewinnausgleich/zugewinnausgleich-schnellstart.md",
+    "bytes": 7435,
+    "characters": 7345,
+    "sha256": "a3a98743f8117eba927d8eb498bcfeff6c137ee952c5f5456d1ac4060d71b75b",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "zwangsverwaltung-zvg",
+    "kind": "workshop",
+    "path": "zwangsverwaltung-zvg/zwangsverwaltung-zvg-werkstatt.md",
+    "bytes": 19873,
+    "characters": 19553,
+    "sha256": "33e22ae6b1775d743c6ed939418a91f39e370043a19a76d2d93b8e671fdaada7",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "zwangsverwaltung-zvg",
+    "kind": "mini",
+    "path": "zwangsverwaltung-zvg/zwangsverwaltung-zvg-schnellstart.md",
+    "bytes": 7122,
+    "characters": 7016,
+    "sha256": "d11ef20cbfbedf6884396e05b1b2c16460646829b8cd6b3b134e495c737c56a3",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "zwangsvollstreckung",
+    "kind": "workshop",
+    "path": "zwangsvollstreckung/zwangsvollstreckung-werkstatt.md",
+    "bytes": 19609,
+    "characters": 19336,
+    "sha256": "8990d511244982cbddabb19b9dda6adc8fd558e3382df0c23cde5517f1b374a0",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  },
+  {
+    "plugin": "zwangsvollstreckung",
+    "kind": "mini",
+    "path": "zwangsvollstreckung/zwangsvollstreckung-schnellstart.md",
+    "bytes": 7144,
+    "characters": 7056,
+    "sha256": "ebdc9fed9c1ca099cfc0eda6a50e74655864641787b2cec45e125f2fb9b3dc89",
+    "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
+  }
+]

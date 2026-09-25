@@ -1,103 +1,222 @@
 {
   "schema_version": 1,
   "plugin": "notariat-alltag",
-  "reviewed_on": "2026-09-23",
+  "reviewed_on": "2026-09-25",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/gmbhg/__53.html",
-      "checked_on": "2026-09-14",
-      "supports": "Absatz 2 regelt die Beschlussmehrheit, Absatz 3 die notarielle Beurkundung der Satzungsänderung."
+      "checked_on": "2026-09-25",
+      "supports": "Absatz 2 regelt die Beschlussmehrheit, Absatz 3 die notarielle Beurkundung der Satzungsänderung.",
+      "source_sha256": "c4c9b5281fac92237c25ae45fda48a0a247bfb62a39280c875fe64555107a82b"
     },
     {
       "url": "https://www.gesetze-im-internet.de/gmbhg/__7.html",
-      "checked_on": "2026-09-14",
-      "supports": "Einzahlungsvoraussetzungen der Anmeldung: Viertel des einzelnen Baranteils und insgesamt Hälfte des gesetzlichen Mindeststammkapitals."
+      "checked_on": "2026-09-25",
+      "supports": "Einzahlungsvoraussetzungen der Anmeldung: Viertel des einzelnen Baranteils und insgesamt Hälfte des gesetzlichen Mindeststammkapitals.",
+      "source_sha256": "b5b1329c8cc35c34d61ee0599130e1a1ce0713a5c3e871d385a744d5bb359b77"
     },
     {
       "url": "https://www.gesetze-im-internet.de/beurkg/__17.html",
-      "checked_on": "2026-09-14",
-      "supports": "Absatz 2a: regelmäßige Zweiwochenzeit und Bereitstellung durch den beurkundenden oder mit ihm verbundenen Notar im erfassten Verbraucherfall."
+      "checked_on": "2026-09-25",
+      "supports": "Absatz 2a: regelmäßige Zweiwochenzeit und Bereitstellung durch den beurkundenden oder mit ihm verbundenen Notar im erfassten Verbraucherfall.",
+      "source_sha256": "c3c087366e3365c0c12c45c925d31b4a0246464dbd6784208c0cb2bea2c0b463"
     },
     {
       "url": "https://www.gesetze-im-internet.de/zpo/__800.html",
-      "checked_on": "2026-09-14",
-      "supports": "Dingliche Unterwerfung gegen den jeweiligen Grundstückseigentümer und Eintragung, keine automatische persönliche Mitschuld."
-    },
-    {
-      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2012/III_ZR_121-12.pdf?__blob=publicationFile&v=1",
-      "checked_on": "2026-09-22",
-      "supports": "BGH, Urteil vom 07.02.2013, III ZR 121/12, Randnummern 17 bis 25: Entscheidende Gründe gelesen: sachlicher Verkürzungsgrund und anderweitiger Übereilungsschutz erforderlich; ohne diese Voraussetzungen vorzeitige Beurkundung ablehnen. Grenze: Haftungsfall, keine automatische Vertragsnichtigkeit; kein allgemeines Zweiwochengebot für jede notarielle Erklärung."
-    },
-    {
-      "url": "https://www.gesetze-im-internet.de/beurkg/__17.html",
-      "checked_on": "2026-09-22",
-      "supports": "Amtlicher Wortlaut geprüft: Absatz 2a Satz 2 Nummer 2: Verbrauchergrundstücksgeschäft, regelmäßige zweiwöchige Vorbereitungszeit und Angabe der Verkürzungsgründe in der Niederschrift."
-    },
-    {
-      "url": "https://www.gesetze-im-internet.de/gmbhg/__53.html",
-      "checked_on": "2026-09-22",
-      "supports": "Amtlicher Wortlaut geprüft: Satzungsänderung durch Gesellschafterbeschluss, gesetzliche Dreiviertelmehrheit und notarielle Beurkundung; Satzungsverschärfungen gesondert prüfen."
+      "checked_on": "2026-09-25",
+      "supports": "Dingliche Unterwerfung gegen den jeweiligen Grundstückseigentümer und Eintragung, keine automatische persönliche Mitschuld.",
+      "source_sha256": "afdef8472a78851a8d0d4a7a31601004333a999c663749aa5b0f9701540ef6fe"
     },
     {
       "url": "https://www.gesetze-im-internet.de/gbo/__72.html",
-      "checked_on": "2026-09-23",
-      "supports": "Amtlicher Wortlaut: Oberlandesgericht entscheidet über die Grundbuchbeschwerde."
+      "checked_on": "2026-09-25",
+      "supports": "Amtlicher Wortlaut: Oberlandesgericht entscheidet über die Grundbuchbeschwerde.",
+      "source_sha256": "e1b98392be9330a403c3fd9cfd9984e264aa60efdd5a0a8e9f2f2e7f87a2465e"
     },
     {
       "url": "https://www.gesetze-im-internet.de/gbo/__18.html",
-      "checked_on": "2026-09-23",
-      "supports": "Amtlicher Wortlaut: Hindernisse und Zwischenverfügung; Absatz 2 ist keine allgemeine Fristverlängerung."
+      "checked_on": "2026-09-25",
+      "supports": "Amtlicher Wortlaut: Hindernisse und Zwischenverfügung; Absatz 2 ist keine allgemeine Fristverlängerung.",
+      "source_sha256": "70a4199060307e8a96eea27801afec4ed97efa1acd58aa80b1dedfd2d557b6dc"
     },
     {
       "url": "https://www.gesetze-im-internet.de/umwg_1995/__17.html",
-      "checked_on": "2026-09-23",
-      "supports": "Amtlicher Wortlaut: Anmeldeunterlagen und Achtmonatsgrenze der Schlussbilanz."
+      "checked_on": "2026-09-25",
+      "supports": "Amtlicher Wortlaut: Anmeldeunterlagen und Achtmonatsgrenze der Schlussbilanz.",
+      "source_sha256": "5cb09642d6e50321190b3a6e8b7a26f9c11091ce2bd97ed4d0550d337386b54f"
     },
     {
       "url": "https://www.gesetze-im-internet.de/gnotkg/__19.html",
-      "checked_on": "2026-09-23",
-      "supports": "Amtlicher Wortlaut: mitgeteilte Kostenberechnung in Textform mit Pflichtangaben."
+      "checked_on": "2026-09-25",
+      "supports": "Amtlicher Wortlaut: mitgeteilte Kostenberechnung in Textform mit Pflichtangaben.",
+      "source_sha256": "4e4626f69182e2404528aacd11851e1276cd79fa5dacec9f3bc16fa7625cd569"
     },
     {
       "url": "https://www.gesetze-im-internet.de/gwg_2017/__16a.html",
-      "checked_on": "2026-09-23",
-      "supports": "Amtlicher Wortlaut: Verbot und Nachweisobliegenheiten nach Absatz und Transaktion differenziert; keine pauschale 10000-Euro-Freigabe."
+      "checked_on": "2026-09-25",
+      "supports": "Amtlicher Wortlaut: Verbot und Nachweisobliegenheiten nach Absatz und Transaktion differenziert; keine pauschale 10000-Euro-Freigabe.",
+      "source_sha256": "f50731c9a5cbd4ec6eeecbb13103a3bba986f02962c0bb3f501b5fa112df5f53"
     },
     {
       "url": "https://www.gesetze-im-internet.de/bgb/__1820.html",
-      "checked_on": "2026-09-23",
-      "supports": "Amtlicher Wortlaut: besondere Anforderungen an Vollmachten für bestimmte Maßnahmen."
-    },
-    {
-      "url": "https://www.bmjv.de/DE/themen/vorsorge_betreuungsrecht/patientenverfuegung/Anmerkungen_Urteil_BGH.html",
-      "checked_on": "2026-09-23",
-      "supports": "Amtliche Erläuterung zu XII ZB 61/16: Konkretisierung der Behandlungssituation und Maßnahmen; kein neu geprüfter Entscheidungsvolltext."
+      "checked_on": "2026-09-25",
+      "supports": "Amtlicher Wortlaut: besondere Anforderungen an Vollmachten für bestimmte Maßnahmen.",
+      "source_sha256": "58e0c0902ea89b929b9a1ecfc609051354e6befcf2181538cb98455ad673f04c"
     },
     {
       "url": "https://www.hcch.net/en/instruments/conventions/specialised-sections/apostille",
       "checked_on": "2026-09-23",
       "supports": "Offizielle Erläuterung: Apostille ersetzt Legalisation; elektronische Apostille nicht allein wegen ihres Formats ablehnen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__2.html",
+      "checked_on": "2026-09-25",
+      "supports": "Gründungsvollmacht nach Absatz 2 in notariell errichteter oder beglaubigter Form.",
+      "source_sha256": "70fe87c948b9728f1f1ada7536823a01a9b8f0f3598cbbcff26a5517d4bd0358"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__40.html",
+      "checked_on": "2026-09-25",
+      "supports": "GbR vor Listenaufnahme im Gesellschaftsregister; Einzel- und Gesamtbeteiligungsprozente.",
+      "source_sha256": "3ca5ad1647e840248aaaf1991b4d32293db7e4a47e3c2e3c971d5a9482a536f2"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__78.html",
+      "checked_on": "2026-09-25",
+      "supports": "Sämtliche Geschäftsführer bei Anmeldung nach Paragrafen 7 und 57.",
+      "source_sha256": "b9e9821340de0a483cb0110a123801e9ed45b8642e18be688cf9a21bd30ff8f8"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/beurkg/__57.html",
+      "checked_on": "2026-09-25",
+      "supports": "Sicherungsinteresse, bestimmte schriftliche Verwahrungsanweisungen und Annahme durch den Notar.",
+      "source_sha256": "5ea9c6b3fbb90f5f7f96ae32369ebad669caf5ddc4b7cdf836cf203bc97979d9"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__925.html",
+      "checked_on": "2026-09-25",
+      "supports": "Bedingte oder befristete Auflassung unwirksam; von Vollzugsweisungen trennen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__177.html",
+      "checked_on": "2026-09-25",
+      "supports": "Aufforderung des anderen Vertragsteils: Zweiwochenfrist ab Empfang und besonderer Erklärungsempfänger.",
+      "source_sha256": "0c86c993cf40c24277943768a2456b4a61d5c7fa1596d90222cbc0e40ac1bafb"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__182.html",
+      "checked_on": "2026-09-25",
+      "supports": "Genehmigung grundsätzlich nicht in der Form des Rechtsgeschäfts; Register-Nachweisform gesondert.",
+      "source_sha256": "9588ab6eee9b46385a368187b711affa16e8f880111dd63f3d89eea1ff332d57"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__1829.html",
+      "checked_on": "2026-09-25",
+      "supports": "Gesundheitsentscheidungen, qualifizierte Gefahren und Ausnahme bei Einvernehmen.",
+      "source_sha256": "8868818e981463e1c5982276bb9ef44ce8dc616893ec4fbeddee798621ea6117"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/umwg_1995/__19.html",
+      "checked_on": "2026-09-25",
+      "supports": "Verschmelzung: erst übertragende, dann übernehmender Rechtsträger."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/umwg_1995/__130.html",
+      "checked_on": "2026-09-25",
+      "supports": "Spaltung: erst übernehmende/neue, dann übertragender Rechtsträger.",
+      "source_sha256": "bee190598d22e1dfe647b27597d784d41939d2eaca3a8778524cd172fed947df"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/umwg_1995/__5.html",
+      "checked_on": "2026-09-25",
+      "supports": "Betriebsratszuleitung spätestens einen Monat vor der zustimmenden Versammlung.",
+      "source_sha256": "ddc38cbf69c2380236d90822b453daa428a13f227c4dce3c60fe168c74a8af1b"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/umwg_1995/__194.html",
+      "checked_on": "2026-09-25",
+      "supports": "Formwechselentwurf spätestens einen Monat vor der beschließenden Versammlung an Betriebsrat.",
+      "source_sha256": "851f02ca331370b48492a1e45d520a0aef0fd6cfc3ae6c2a2ce50eb37fd14e92"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gnotkg/__134.html",
+      "checked_on": "2026-09-25",
+      "supports": "Absatz 2: grundsätzlich altes Gebührenrecht für Auftrag vor Gesetzesänderung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwg_2017/__46.html",
+      "checked_on": "2026-09-25",
+      "supports": "Allgemeine Durchführungsbeschränkung und Samstag nicht als Werktag; Sonderregel16a beachten.",
+      "source_sha256": "a01206cab94bbaf28634bb62f560efdfb5eb5b4020a1fbc206a2c3f02e64a459"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwg_2017/__47.html",
+      "checked_on": "2026-09-25",
+      "supports": "Informationsverbot zu beabsichtigten/erstatteten Meldungen und gesetzliche Ausnahmen.",
+      "source_sha256": "53f763763a2fbfdb1933f9fb65d71bf4cb51870fd6df5be16aa2a5a0142274ca"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/versausglg/__6.html",
+      "checked_on": "2026-09-25",
+      "supports": "Vereinbarungsmöglichkeiten zum Versorgungsausgleich.",
+      "source_sha256": "94923fb43cc1790e554852197f0af42c69d661ddc5c60eefca79a52c1cc4e13e"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/versausglg/__7.html",
+      "checked_on": "2026-09-25",
+      "supports": "Form der Versorgungsausgleichsvereinbarung.",
+      "source_sha256": "fd805f12dc402900f139b1649e2089b5757fd35bb429bb5302911b7de8b40255"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/versausglg/__8.html",
+      "checked_on": "2026-09-25",
+      "supports": "Inhalts- und Ausübungskontrolle der Versorgungsausgleichsvereinbarung.",
+      "source_sha256": "d44b02539a06e49ba27f1eea015b73311533d1b6002effdeba3e13a79a1705c0"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2012/III_ZR_121-12.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-25",
+      "supports": "BGH, Urteil vom 07.02.2013, III ZR 121/12, Randnummern 20 bis 22: Sachlicher Verkürzungsgrund und anderweitiger Übereilungsschutz, sonst vorzeitige Beurkundung ablehnen. Grenze: Amtshaftung; keine automatische Vertragsnichtigkeit und kein allgemeines Zweiwochengebot.",
+      "source_sha256": "71eb74535d13b7e64b4036ed396e9d5c72e06021188f432bd5d3b40fadcc693c"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2016/XII_ZB__61-16.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-25",
+      "supports": "BGH, Beschluss vom 06.07.2016, XII ZB 61/16, Randnummern 17 bis 20 und 46 bis 48: Qualifizierte Gefahr in besonderer Gesundheitsvollmacht; konkretisierte Behandlungsentscheidung bei Patientenverfügung. Grenze: Historische Normen; heute BGB1820/1827/1829 prüfen. Keine pauschale Aussage zur heutigen Kontrollbetreuung.",
+      "source_sha256": "2978810e103ebcabebae165a95fa8bc684f5383f279805ceb574179055c85cf7"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2015/XII_ZB_604-15.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-25",
+      "supports": "BGH, Beschluss vom 08.02.2017, XII ZB 604/15, Randnummern 17 bis 23: Gesamtzusammenhang der schriftlichen Patientenverfügung auslegen; keine isolierte Unwirksamkeitsdiagnose allgemeiner Formeln. Grenze: Keine medizinische Vollständigkeitsforderung und keine eigene Therapieentscheidung des Modells.",
+      "source_sha256": "6dc3d8663bbca5665e32f989f7d266a0975d81ec21397bf1ce39c5bd04f1da53"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2002/XII_ZR_265-02.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-25",
+      "supports": "BGH, Urteil vom 11.02.2004, XII ZR 265/02, amtlicher Volltext Seiten 23 bis 26: Wirksamkeitskontrolle beim Vertragsschluss und spätere Ausübungskontrolle; wirtschaftliche und persönliche Umstände insgesamt. Grenze: Historische Versorgungsausgleichs- und Formnormen nicht übernehmen. Keine schematische Nichtigkeit aufgrund eines einzelnen Umstands.",
+      "source_sha256": "408519e1a43a013a6e94f747f3ecd9e0aa027a00a25e4c4a830e2fb09ff29fe3"
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Fachbezogene Startvarianten, gezielte Rückfragen und Fortsetzung bis zur vollständigen notariellen Vorlage individuell geprüft; kein Live-Modelltest.",
+    "reason": "Individuelle Prüfung aller 20 Arbeitswege; fachliche Form- und Vollzugslücken geschlossen und Fortsetzung bis zum vollständigen Entwurf verbessert. Desk-Review, kein beobachteter Live-Client-Test.",
     "changes": [
-      "Eindeutiger Auftrag beginnt unmittelbar; leerer Start und Ordner ohne Auftrag erhalten konkrete Auswahlfragen.",
-      "Nach Bankantwort, Identitätsnachweis oder Kapitalzahlung nur betroffene Teile aktualisieren.",
-      "Bestandskauf ohne Baupflicht vom Bauträger-Ratenplan abgegrenzt; vollständige Entwürfe statt technischer Ausgabeetiketten verlangt."
+      "Formsonderfälle und Einreichungsfolge konkretisiert.",
+      "Bank-, Register-, Familien- und Vorsorgeantworten in die gesamte betroffene Vorlage weiterführen.",
+      "Mini deckt alle Fachbereiche innerhalb 7500 UTF-8-Bytes und Zeichen ab; Werkstatt enthält vollständige Anschreiben und abgegrenzte Klauselbeispiele."
     ],
-    "sha256": "bb891185a269f3151269198565d0d2e502c10648f885cfbeeabd7aeb47e66790"
+    "sha256": "5a3761cd7bbc7f53210779a7b5ec7399f677f313a758e0911c65f12f050f224e"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Fachbezogene Startvarianten, gezielte Rückfragen und Fortsetzung bis zur vollständigen notariellen Vorlage individuell geprüft; kein Live-Modelltest.",
+    "reason": "Individuelle Prüfung aller 20 Arbeitswege; fachliche Form- und Vollzugslücken geschlossen und Fortsetzung bis zum vollständigen Entwurf verbessert. Desk-Review, kein beobachteter Live-Client-Test.",
     "changes": [
-      "Eindeutiger Auftrag beginnt unmittelbar; leerer Start und Ordner ohne Auftrag erhalten konkrete Auswahlfragen.",
-      "Nach Bankantwort, Identitätsnachweis oder Kapitalzahlung nur betroffene Teile aktualisieren.",
-      "Werkstatt um Umwandlung, familiäre Übertragung, Auslandsurkunden, Vorsorge, Kosten und Registerhindernisse vertieft."
+      "Formsonderfälle und Einreichungsfolge konkretisiert.",
+      "Bank-, Register-, Familien- und Vorsorgeantworten in die gesamte betroffene Vorlage weiterführen.",
+      "Mini deckt alle Fachbereiche innerhalb 7500 UTF-8-Bytes und Zeichen ab; Werkstatt enthält vollständige Anschreiben und abgegrenzte Klauselbeispiele."
     ],
-    "sha256": "d2f45eaefaa9a4e494e0c1d3ec9cb560170eeff4e8bc1981c6c9bdb212e1b5d7"
+    "sha256": "61851ed751a672cc6e67ef046d9f0d5425f362d26d9ac34df2515eb92620f5a4"
   },
   "selection": {
     "positive": [
@@ -438,14 +557,228 @@
         }
       ],
       "target_skill": "kaltstart-triage"
+    },
+    {
+      "id": "bankantwort-dinglich-fertigstellen",
+      "request": "Setze den Entwurf fort: Anna und Paul besitzen je eine Hälfte, nur Paul ist Darlehensnehmer. Die Bank hat jetzt verbindlich bestätigt: Anna haftet nur dinglich, keine persönliche Unterwerfung. Im bisherigen Text stehen beide auch als persönliche Schuldner. Die Ablösebank hat noch keine neuen Löschungsunterlagen geliefert. Liefere den korrigierten Erklärungsteil und den konkreten weiteren Vollzug in ergebnis.md.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Entfernt Annas persönliche Haftung und persönliche Unterwerfung durchgängig; dingliche Mitwirkung bleibt nach Bankauftrag bestehen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Liefert vollständigen aktualisierten Text statt allgemeiner Checkliste; keine erneute Befragung zu geklärter Haftung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Behandelt fehlende Löschungsunterlagen als gesondertes fortbestehendes Hindernis, keine Einreichungs- oder Zahlungsfiktion.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "grundschuld-buchgrundschuld-treuhand"
+    },
+    {
+      "id": "gruendung-egbr-zwei-geschaeftsfuehrer",
+      "request": "Eine GbR soll GmbH-Gesellschafterin werden; ihre Registereintragung ist noch nicht erfolgt. Zwei Geschäftsführer sind bereits vorgesehen, beide einzelvertretungsberechtigt. Ein Gründer schickt dem Vertreter nur eine einfach unterschriebene Gründungsvollmacht. Bereite eine konkrete Nachforderung und die Anmeldefolge in ergebnis.md vor.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Erkennt besondere Vollmachtsform nach GmbHG2Absatz2; allgemeines BGB167Absatz2 reicht nicht.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Verlangt Gesellschaftsregistereintragung vor Aufnahme der GbR in die Liste; trägt GbR-Gesellschafter nicht persönlich als GmbH-Anteilsinhaber ein.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Gründungsanmeldung benötigt sämtliche Geschäftsführer nach GmbHG78 trotz Einzelvertretung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "gmbh-gruendung-gesellschafterliste"
+    },
+    {
+      "id": "auflassung-zahlung-trennen",
+      "request": "Der Kaufvertragsentwurf enthält: Die Auflassung wird mit vollständiger Kaufpreiszahlung wirksam. Beide Beteiligten wollen, dass der Notar den Eigentumsantrag erst nach belegter Zahlung einreicht. Korrigiere diesen Teil vollständig in ergebnis.md und erkläre die notwendige Vollzugsprüfung.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Benennt Unwirksamkeit einer bedingten Auflassung nach BGB925Absatz2.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Formuliert unbedingte dingliche Einigung getrennt von Einreichungsweisungen und setzt fehlende Objekt-/Vertragsdaten nicht eigenmächtig ein.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Zahlungsnachweis und weitere Einreichungsvoraussetzungen bleiben offen; keine Vollzugsfreigabe aufgrund bloßer Klauselkorrektur.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "grundbuchantrag-rangstelle-notarielle"
+    },
+    {
+      "id": "vorsorge-keine-zwangsbefugnis",
+      "request": "Die Vollmachtgeberin wünscht Gesundheitsvertretung auch bei Lebensgefahr und schweren dauerhaften Schäden. Freiheitsentziehung und Zwangsbehandlung will sie ausdrücklich nicht bevollmächtigen. Eine Patientenverfügung liegt noch nicht vor. Formuliere in ergebnis.md die gewünschte Gesundheitsklausel und die sachlich notwendige nächste Frage, ohne Behandlungswünsche zu erfinden.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Erfasst Einwilligung, Verweigerung und Widerruf sowie qualifizierte Gefahr in vollständigem Text.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Ergänzt keine Freiheitsentziehungs- oder Zwangsbefugnis und keine ungefragte Generalvollmacht.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Unterscheidet Vertretungsbefugnis von eigenen Behandlungswünschen, Genehmigung/Einvernehmensausnahme fallbezogen; keine pauschale Gerichtsfreigabe.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "vorsorgevollmacht"
+    },
+    {
+      "id": "verschmelzung-verspaetet-registerfolge",
+      "request": "Die GmbH-Tochter soll auf ihre Mutter verschmolzen werden. Schlussbilanz31.12.2025, Anmeldung nun erst September2026. Der Betriebsrat hat den Entwurf noch nicht erhalten; die Gesellschafter wollen auf Berichte verzichten. Formuliere Nachforderung und Vollzugsplan in ergebnis.md.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Fordert neue echte Schlussbilanz, statt Datum umzuschreiben oder Achtmonatsgrenze als erledigt zu erklären.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Trennt Gesellschafterverzicht von erforderlicher Betriebsratszuleitung mit Monatsabstand.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Erst Registereintragung der übertragenden, danach übernehmenden Gesellschaft; Wirkung nicht schon aus Versand/erstem Registerbeleg.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "umwandlung-verschmelzung-kapitalerhoehung"
+    },
+    {
+      "id": "genehmigung-empfaenger-und-frist",
+      "request": "Ein Käufer hat nach einem vollmachtlos geschlossenen Grundstücksvertrag den Vertretenen selbst zur Genehmigung nach BGB177Absatz2 aufgefordert. Zugang steht fest. Innerhalb von zwei Wochen ging die Erklärung nur beim vollmachtlosen Vertreter ein, beim Käufer erst später. Der Mitarbeiter möchte den Vorgang als fristgerecht schließen. Erstelle den konkreten Vorlagevermerk in ergebnis.md.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Prüft Zweiwochenfrist ab Zugang der konkreten Aufforderung und ausschließlich maßgeblichen Erklärungsempfänger.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Schließt Vorgang nicht aufgrund Zugangs beim Vertreter; Ablauf führt zur Verweigerungsfiktion, weiterer Vertragsweg notariell prüfen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Unterscheidet materiellen Zugang von Dokument-/Grundbuchnachweis und fingiert keine Heilung durch späteren Scan.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "auslandsurkunde-apostille-vollmacht"
     }
   ],
   "prompt_editorial_review": {
-    "date": "2026-09-23",
+    "date": "2026-09-25",
     "files": [
-      "notariat-alltag/notariat-alltag-werkstatt.md",
       "notariat-alltag/notariat-alltag-schnellstart.md",
-      "notariat-alltag/README.md",
+      "notariat-alltag/notariat-alltag-werkstatt.md",
+      "notariat-alltag/references/mitarbeiter-formwege.md",
+      "notariat-alltag/references/rechtsprechung-geprueft.md",
+      "notariat-alltag/references/zitierweise.md",
+      "notariat-alltag/skills/auslandsurkunde-apostille-vollmacht/SKILL.md",
+      "notariat-alltag/skills/bautraegervertrag-mabv-familiengesellschaft/SKILL.md",
+      "notariat-alltag/skills/beteiligte-identitaet-vertretung/SKILL.md",
+      "notariat-alltag/skills/ehevertrag-scheidungsfolgenvereinbarung/SKILL.md",
+      "notariat-alltag/skills/formweg-beurkundung-beglaubigung/SKILL.md",
+      "notariat-alltag/skills/geldwaeschepruefung-immobilien/SKILL.md",
+      "notariat-alltag/skills/geschaeftsfuehrer-bestellung-register/SKILL.md",
+      "notariat-alltag/skills/gmbh-anteile-uebertragen-verpfaenden/SKILL.md",
+      "notariat-alltag/skills/gmbh-gruendung-gesellschafterliste/SKILL.md",
+      "notariat-alltag/skills/grundbuchantrag-rangstelle-notarielle/SKILL.md",
+      "notariat-alltag/skills/grundschuld-buchgrundschuld-treuhand/SKILL.md",
+      "notariat-alltag/skills/kaltstart-triage/SKILL.md",
+      "notariat-alltag/skills/kapitalerhoehung-beschluss-register/SKILL.md",
+      "notariat-alltag/skills/kostenrechnung-gnotkg/SKILL.md",
+      "notariat-alltag/skills/nachlassauseinandersetzung-grundbuch/SKILL.md",
+      "notariat-alltag/skills/umwandlung-verschmelzung-kapitalerhoehung/SKILL.md",
+      "notariat-alltag/skills/urkundenentwurf-aendern-abgleichen/SKILL.md",
+      "notariat-alltag/skills/urkundenmappe-zur-freigabe/SKILL.md",
+      "notariat-alltag/skills/vollzug-fristen-wiedervorlage/SKILL.md",
+      "notariat-alltag/skills/vorsorgevollmacht/SKILL.md",
       "quality/evals/notariat-alltag.json"
     ],
     "opening_change": "Konkrete notarielle Vorlage beginnen oder zwischen fallbezogenen Bearbeitungswegen wählen lassen; keine ungefragte Ordnerzusammenfassung.",
@@ -456,32 +789,211 @@
       "GBO Paragrafen 18, 35, 40 und 72",
       "UmwG Paragrafen 17, 20 und 202",
       "GNotKG Paragraf 19",
-      "BGB Paragrafen 1816, 1820 und 1827"
+      "BGB Paragrafen 1816, 1820 und 1827",
+      "GmbHG Paragrafen 2 Absatz 2, 40 und 78",
+      "BGB Paragrafen 925 Absatz 2, 177 Absatz 2, 182 Absatz 2 und 1829",
+      "BeurkG Paragraf 57",
+      "UmwG Paragrafen 5 Absatz 3, 19, 130 und 194 Absatz 2",
+      "GNotKG Paragraf 134 Absatz 2",
+      "VersAusglG Paragrafen 6 bis 8",
+      "GwG Paragrafen 16a, 46 und 47"
     ],
     "decisions": [
       {
-        "citation": "BGH, Urteil vom 07.02.2013, III ZR 121/12, Randnummern 17 bis 25",
+        "citation": "BGH, Urteil vom 07.02.2013, III ZR 121/12, Randnummern 20 bis 22",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2012/III_ZR_121-12.pdf?__blob=publicationFile&v=1",
-        "application": "Entscheidende Gründe gelesen: sachlicher Verkürzungsgrund und anderweitiger Übereilungsschutz erforderlich; ohne diese Voraussetzungen vorzeitige Beurkundung ablehnen.",
-        "limit": "Haftungsfall, keine automatische Vertragsnichtigkeit; kein allgemeines Zweiwochengebot für jede notarielle Erklärung."
+        "application": "Sachlicher Verkürzungsgrund und anderweitiger Übereilungsschutz, sonst vorzeitige Beurkundung ablehnen.",
+        "limit": "Amtshaftung; keine automatische Vertragsnichtigkeit und kein allgemeines Zweiwochengebot.",
+        "source_sha256": "71eb74535d13b7e64b4036ed396e9d5c72e06021188f432bd5d3b40fadcc693c",
+        "checked_on": "2026-09-25",
+        "verification": "official_pdf_relevant_reasons_read"
+      },
+      {
+        "citation": "BGH, Beschluss vom 06.07.2016, XII ZB 61/16, Randnummern 17 bis 20 und 46 bis 48",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2016/XII_ZB__61-16.pdf?__blob=publicationFile&v=1",
+        "application": "Qualifizierte Gefahr in besonderer Gesundheitsvollmacht; konkretisierte Behandlungsentscheidung bei Patientenverfügung.",
+        "limit": "Historische Normen; heute BGB1820/1827/1829 prüfen. Keine pauschale Aussage zur heutigen Kontrollbetreuung.",
+        "source_sha256": "2978810e103ebcabebae165a95fa8bc684f5383f279805ceb574179055c85cf7",
+        "checked_on": "2026-09-25",
+        "verification": "official_pdf_relevant_reasons_read"
+      },
+      {
+        "citation": "BGH, Beschluss vom 08.02.2017, XII ZB 604/15, Randnummern 17 bis 23",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2015/XII_ZB_604-15.pdf?__blob=publicationFile&v=1",
+        "application": "Gesamtzusammenhang der schriftlichen Patientenverfügung auslegen; keine isolierte Unwirksamkeitsdiagnose allgemeiner Formeln.",
+        "limit": "Keine medizinische Vollständigkeitsforderung und keine eigene Therapieentscheidung des Modells.",
+        "source_sha256": "6dc3d8663bbca5665e32f989f7d266a0975d81ec21397bf1ce39c5bd04f1da53",
+        "checked_on": "2026-09-25",
+        "verification": "official_pdf_relevant_reasons_read"
+      },
+      {
+        "citation": "BGH, Urteil vom 11.02.2004, XII ZR 265/02, amtlicher Volltext Seiten 23 bis 26",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2002/XII_ZR_265-02.pdf?__blob=publicationFile&v=1",
+        "application": "Wirksamkeitskontrolle beim Vertragsschluss und spätere Ausübungskontrolle; wirtschaftliche und persönliche Umstände insgesamt.",
+        "limit": "Historische Versorgungsausgleichs- und Formnormen nicht übernehmen. Keine schematische Nichtigkeit aufgrund eines einzelnen Umstands.",
+        "source_sha256": "408519e1a43a013a6e94f747f3ecd9e0aa027a00a25e4c4a830e2fb09ff29fe3",
+        "checked_on": "2026-09-25",
+        "verification": "official_pdf_relevant_reasons_read"
       }
     ],
     "remaining_limits": [
-      "Desk-/Quellenprüfung, keine beobachtete Ausführung in einem Live-Client.",
-      "III ZR 121/12 am 22. September in den tragenden Gründen geprüft; erneuter Abruf am 23. September gesperrt. XII ZB 61/16 anhand amtlicher Erläuterung, kein neu gelesener Volltext.",
-      "Keine umfassende Neuverifikation sämtlicher notarieller Spezialmaterien; konkrete Verwendung erfordert aktuelle Einzelfallprüfung."
+      "Desk-/Quellenprüfung und technische Regressionstests, kein beobachteter Live-Client-Test.",
+      "Vier amtliche BGH-PDFs abgerufen und jeweils genannte Gründe gelesen, keine pauschale Prüfung aller darin zitierten weiteren Entscheidungen.",
+      "EU-Verordnung2016/1191 konnte im aktuellen Abruf wegen Zugriffsschutz nicht erneut im Volltext geprüft werden; keine neue Verifikationsbehauptung dazu. Konkrete Auslandsfälle erfordern Herkunftsstaat-, Dokument- und Formprüfung."
     ]
   },
   "prompt_workflow_review": {
-    "date": "2026-09-23",
+    "date": "2026-09-25",
     "method": "desk_review",
     "opening_modes": [
       "Ohne Material nach Immobilien-, Gesellschafts- oder Beglaubigungsvorgang und gewünschter Vorlage fragen.",
       "Bei Ordner ohne Auftrag anhand der Korrespondenz zwischen Entwurf, Nachforderung und Vollzug wählen lassen.",
       "Bei klarem Urkunden- oder Anmeldeauftrag ohne erneutes Aufnahmeinterview beginnen."
     ],
-    "continuation": "Bankantwort, Namensnachweis oder Kapitalzahlung nur in den betroffenen Urkunden-, Listen- und Vollzugsteilen nachführen; bis zur vollständigen Vorlage arbeiten.",
-    "enrichment": "Umwandlung, Nachlassgrundstück, familiäre Übertragung, Auslandsnachweise, Vorsorge, Kosten und Zwischenverfügung vertieft; 131 überlappende Skills zu 20 mit zentralem Hauptworkflow zusammengeführt.",
+    "continuation": "Ausformulierte Bank-, Register-, Bilanz- und Familiennachforderungen mit anschließender vollständiger Aktualisierung aller betroffenen Klauseln, Anlagen und Vollzugsschritte.",
+    "enrichment": "Gründungsvollmacht/eGbR/alle Geschäftsführer, unbedingte Auflassung, Verwahrung, Genehmigungszugang, Registerfolge, Familienkontrolle, Gesundheitsvollmacht und Gebührenübergang vertieft.",
     "limits": "Individuelle Text- und Quellenprüfung sowie vorbereitete Ergebnisfälle; kein beobachteter Live-Client-Test und keine Garantie automatischer Skillauswahl."
-  }
+  },
+  "individual_skill_review": [
+    {
+      "path": "notariat-alltag/skills/auslandsurkunde-apostille-vollmacht/SKILL.md",
+      "sha256": "b069bfb2f7b3a7c2f37979756f96f6ffceadbab6d60d811e9784b87eda5fcc49",
+      "verdict": "revised",
+      "method": "desk_review",
+      "reviewed_on": "2026-09-25"
+    },
+    {
+      "path": "notariat-alltag/skills/bautraegervertrag-mabv-familiengesellschaft/SKILL.md",
+      "sha256": "01b1fbbfe86d135c0441c09dbb38d1ce0db20dad89eb9e0897bcb4c54c1e4c34",
+      "verdict": "revised",
+      "method": "desk_review",
+      "reviewed_on": "2026-09-25"
+    },
+    {
+      "path": "notariat-alltag/skills/beteiligte-identitaet-vertretung/SKILL.md",
+      "sha256": "de6e89faee74d9718a8fc089859af7d9ce1e8e3425cd4ac844e7f171ff58b7b6",
+      "verdict": "revised",
+      "method": "desk_review",
+      "reviewed_on": "2026-09-25"
+    },
+    {
+      "path": "notariat-alltag/skills/ehevertrag-scheidungsfolgenvereinbarung/SKILL.md",
+      "sha256": "2869d098732fcfdadf71bbac6ff95269d2e55d360221b3355b8a860590fdc1e1",
+      "verdict": "revised",
+      "method": "desk_review",
+      "reviewed_on": "2026-09-25"
+    },
+    {
+      "path": "notariat-alltag/skills/formweg-beurkundung-beglaubigung/SKILL.md",
+      "sha256": "d04e56aa91346c464b5e5a1e1516d83eb8e9271f003157aa968520b87a649be3",
+      "verdict": "revised",
+      "method": "desk_review",
+      "reviewed_on": "2026-09-25"
+    },
+    {
+      "path": "notariat-alltag/skills/geldwaeschepruefung-immobilien/SKILL.md",
+      "sha256": "4498071912da2661c1b483a3f7d461e8df5e70a4d31455e6cb9da6a7bc95a369",
+      "verdict": "revised",
+      "method": "desk_review",
+      "reviewed_on": "2026-09-25"
+    },
+    {
+      "path": "notariat-alltag/skills/geschaeftsfuehrer-bestellung-register/SKILL.md",
+      "sha256": "29ca8987e81816f2d82d943f5aaf6aaec439f7c8c1399a956879aed00c2225ac",
+      "verdict": "revised",
+      "method": "desk_review",
+      "reviewed_on": "2026-09-25"
+    },
+    {
+      "path": "notariat-alltag/skills/gmbh-anteile-uebertragen-verpfaenden/SKILL.md",
+      "sha256": "caf6e8fb5b11f252217d4385aabfadca34e45b7e8a878b5340a6e991710a5fa1",
+      "verdict": "revised",
+      "method": "desk_review",
+      "reviewed_on": "2026-09-25"
+    },
+    {
+      "path": "notariat-alltag/skills/gmbh-gruendung-gesellschafterliste/SKILL.md",
+      "sha256": "0fc4a90dd03e27989008ad3c9fb8889b082a1f75870d24d45c4ccb6d398f9627",
+      "verdict": "revised",
+      "method": "desk_review",
+      "reviewed_on": "2026-09-25"
+    },
+    {
+      "path": "notariat-alltag/skills/grundbuchantrag-rangstelle-notarielle/SKILL.md",
+      "sha256": "312a488bd18068ee51a1027daeb99107f2e266ca068afc7028917eb06744a924",
+      "verdict": "revised",
+      "method": "desk_review",
+      "reviewed_on": "2026-09-25"
+    },
+    {
+      "path": "notariat-alltag/skills/grundschuld-buchgrundschuld-treuhand/SKILL.md",
+      "sha256": "0465ef81d6457b2ac0463bdd797701c600c21e2bc6253ed6356d04c5f3782df7",
+      "verdict": "revised",
+      "method": "desk_review",
+      "reviewed_on": "2026-09-25"
+    },
+    {
+      "path": "notariat-alltag/skills/kaltstart-triage/SKILL.md",
+      "sha256": "eb7d41abffbc29b9808d104182dec5a340ad6655ef08ce42e1df63bc7b139cb4",
+      "verdict": "revised",
+      "method": "desk_review",
+      "reviewed_on": "2026-09-25"
+    },
+    {
+      "path": "notariat-alltag/skills/kapitalerhoehung-beschluss-register/SKILL.md",
+      "sha256": "7a2ab445b9d55c4fbdb71272f002367e8ba891b91fbce6ade15c110fa4eb1513",
+      "verdict": "revised",
+      "method": "desk_review",
+      "reviewed_on": "2026-09-25"
+    },
+    {
+      "path": "notariat-alltag/skills/kostenrechnung-gnotkg/SKILL.md",
+      "sha256": "917376b04493fe2df485b4897d84b3caa65a069677028f55388766f35e73cd72",
+      "verdict": "revised",
+      "method": "desk_review",
+      "reviewed_on": "2026-09-25"
+    },
+    {
+      "path": "notariat-alltag/skills/nachlassauseinandersetzung-grundbuch/SKILL.md",
+      "sha256": "96b623343d0e0ba56b265ee507293ef7d300d3e7cb2eec725a591628265ee944",
+      "verdict": "retained",
+      "method": "desk_review",
+      "reviewed_on": "2026-09-25"
+    },
+    {
+      "path": "notariat-alltag/skills/umwandlung-verschmelzung-kapitalerhoehung/SKILL.md",
+      "sha256": "ab738d8d4fa53141d1f6282f4f275bdcffdf8235413dd659a480efedeb54d05f",
+      "verdict": "revised",
+      "method": "desk_review",
+      "reviewed_on": "2026-09-25"
+    },
+    {
+      "path": "notariat-alltag/skills/urkundenentwurf-aendern-abgleichen/SKILL.md",
+      "sha256": "3eebad7e1ecad5ae9074e3b156eed8e3021c845e981cd63adb8ee87195ba0bea",
+      "verdict": "retained",
+      "method": "desk_review",
+      "reviewed_on": "2026-09-25"
+    },
+    {
+      "path": "notariat-alltag/skills/urkundenmappe-zur-freigabe/SKILL.md",
+      "sha256": "dff92004ebd1fcb226879a8d0ce69af78d7b505828b4093a9b66e0dd8fae0fe3",
+      "verdict": "revised",
+      "method": "desk_review",
+      "reviewed_on": "2026-09-25"
+    },
+    {
+      "path": "notariat-alltag/skills/vollzug-fristen-wiedervorlage/SKILL.md",
+      "sha256": "f542592f879adb23c949e322c5dc5b1b0be36421db6f18bad21d9d3ce14d7f43",
+      "verdict": "retained",
+      "method": "desk_review",
+      "reviewed_on": "2026-09-25"
+    },
+    {
+      "path": "notariat-alltag/skills/vorsorgevollmacht/SKILL.md",
+      "sha256": "68041177e61bfe93f2230d93135b80132b416f62a3034e52ecba5abaeba01718",
+      "verdict": "revised",
+      "method": "desk_review",
+      "reviewed_on": "2026-09-25"
+    }
+  ]
 }

@@ -9,6 +9,7 @@ import importlib.util
 import io
 import json
 from contextlib import redirect_stdout
+from dataclasses import replace
 from pathlib import Path
 import subprocess
 import sys
@@ -35,6 +36,65 @@ G = module("workflow_generator", "generate-werkstatt-und-schnellstart-prompts.py
 R = module("workflow_refiner", "refine-speed-and-elegance.py")
 A = module("workflow_routing_audit", "audit-prompt-profile-routing.py")
 S = module("workflow_law_sentinels", "validate-current-law-sentinels.py")
+
+
+class LosslessWorkshopTests(unittest.TestCase):
+    def test_long_workshop_keeps_sources_products_and_continuation(self):
+        sections = {
+            "Musterbausteine": "Die Parteien vereinbaren [konkrete Leistung] zu [Bedingung].",
+            "Qualitätskontrolle und Abschluss": "Nach Eingang des Belegs denselben Entwurf fertigstellen.",
+            "Leitentscheidungen": "Belegte Entscheidung mit Fundstelle und enger Reichweite.",
+            "Pflichtnormen": "Norm, Ausnahme und Übergangsrecht gemeinsam prüfen.",
+            "Fachliche Entscheidungslandkarte": "Die Route endet im bestellten Dokument.",
+            "Arbeitsweise": "Nur die betroffenen Belegstellen und Berechnungen fortschreiben.",
+        }
+        text = "# 1. Fachwerkstatt\n\n"
+        for i, (heading, body) in enumerate(sections.items(), 1):
+            text += f"## {i}. {heading}\n\n" + (body + "\n") * 700 + "\n"
+        self.assertGreater(len(text.encode()), 128 * 1024)
+        self.assertEqual(G.compact_werkstatt(text), text)
+        self.assertEqual(G.compact_werkstatt(G.compact_werkstatt(text)), text)
+
+    def test_oversized_workshop_fails_without_returning_a_truncated_document(self):
+        with self.assertRaisesRegex(ValueError, "keine Inhalte gekürzt"):
+            G.compact_werkstatt("x" * (G.MAX_WERKSTATT + 1))
+
+    def test_norm_excerpt_keeps_following_exception_and_date(self):
+        norm = (
+            "BGB Paragraf 312g: Den Anwendungsbereich prüfen. "
+            "Eine Ausnahme darf nicht durch den ersten Prüfsatz verdeckt werden. "
+            "Den im Fall genannten Stand seit 1. Juli 2026 gesondert einordnen."
+        )
+        result = G.extract_norm_anchors([{"desc": norm}])
+        self.assertEqual(result, [norm.rstrip(".")])
+
+    def test_mini_selects_complete_anchors_instead_of_cutting_exceptions(self):
+        anchors = [f"- BGB Paragraf {i}: " + "Sachverhalt und Anwendung prüfen. " * 5 + f"Ausnahme {i} vollständig beachten." for i in range(1, 9)]
+        case = "- BGH, Urteil: Rechtsfolge nur nach verifizierter Fundstelle und begrenzter Aussage."
+        text = (
+            "# 1. Mini\n\n## 3. Kernroute\n\nDen bestellten Entwurf nach neuer Antwort fortschreiben.\n"
+            "\n## 6. Anker\n\n" + "\n".join(anchors + [case]) +
+            "\n\n## 7. Antwortform\n\nDas vollständige bestellte Dokument liefern.\n"
+        )
+        with patch.object(G, "MAX_FAST", 1100):
+            result = G.compact_schnellstart(text)
+        self.assertLessEqual(len(result.encode()), 1100)
+        self.assertIn(case, result)
+        for line in result.splitlines():
+            if line.startswith("- "):
+                self.assertIn(line, anchors + [case])
+        self.assertIn("Den bestellten Entwurf nach neuer Antwort fortschreiben.", result)
+        self.assertIn("Das vollständige bestellte Dokument liefern.", result)
+
+    def test_workshop_keeps_curated_decisions_after_the_fifth(self):
+        decisions = tuple(f"Testquelle {i}: Geltungsbereich und Grenze {i}." for i in range(8))
+        profile = replace(PROFILE_BY_KEY["arbeits"], entscheidungen=decisions)
+        with tempfile.TemporaryDirectory() as tmp:
+            with patch.object(G, "manifest", return_value={"name": "fachgebiet", "description": "Fachliche Prüfung"}), \
+                 patch.object(G, "profile_for", return_value=profile):
+                text = G.build_werkstatt(Path(tmp), [])
+        for decision in decisions:
+            self.assertIn(decision, text)
 
 
 class CitationSentinelTests(unittest.TestCase):
@@ -231,10 +291,10 @@ class WorkflowPreservation(unittest.TestCase):
         self.assertEqual(result, 1)
         self.assertIn("individuelle Prüfung ungültig", output)
         self.paths["schnellstart"].write_bytes(self.before["schnellstart"])
-        self.paths["werkstatt"].write_bytes(self.before["werkstatt"] + b"x" * (128 * 1024))
+        self.paths["werkstatt"].write_bytes(self.before["werkstatt"] + b"x" * G.MAX_WERKSTATT)
         result, output = self.routing_audit()
         self.assertEqual(result, 1)
-        self.assertIn("höchstens 128 KiB", output)
+        self.assertIn(f"höchstens {G.MAX_WERKSTATT} Bytes", output)
 
     def test_workshop_structure_rejects_empty_or_misnumbered_sections(self):
         for text in ("", "# Titel\n", "# Titel\n\n## 1. Auftrag\n\n", 
@@ -317,13 +377,14 @@ class WorkshopValidatorTests(unittest.TestCase):
                 self.validations(False)
 
     def test_workshop_upper_bound_remains(self):
-        self.workshop.write_text(self.valid + "x" * (128 * 1024), encoding="utf-8")
+        self.workshop.write_text(self.valid + "x" * G.MAX_WERKSTATT, encoding="utf-8")
         self.validations(False)
 
     def test_long_standalone_workshop_is_allowed_without_increasing_skill_limits(self):
-        self.workshop.write_text(self.valid + "Fachliche Vertiefung.\n" * 3000, encoding="utf-8")
+        self.workshop.write_text(self.valid + "Fachliche Vertiefung.\n" * 16000, encoding="utf-8")
         self.assertGreater(self.workshop.stat().st_size, 48 * 1024)
-        self.assertLess(self.workshop.stat().st_size, 128 * 1024)
+        self.assertGreater(self.workshop.stat().st_size, 128 * 1024)
+        self.assertLess(self.workshop.stat().st_size, G.MAX_WERKSTATT)
         self.validations(True)
 
     def test_marketplace_workshop_review_keeps_structure_and_hash_checks(self):
@@ -334,7 +395,7 @@ class WorkshopValidatorTests(unittest.TestCase):
             (self.valid, True, True),
             (self.valid, False, False),
             ("# Titel\n", True, False),
-            (self.valid + "x" * (128 * 1024), True, False),
+            (self.valid + "x" * G.MAX_WERKSTATT, True, False),
         ):
             with self.subTest(text_length=len(text), valid_hash=valid_hash):
                 self.workshop.write_text(text, encoding="utf-8")

@@ -6,6 +6,7 @@ from fractions import Fraction
 import importlib.util
 import json
 from pathlib import Path
+from prompt_limits import MAX_WORKSHOP_BYTES
 import re
 import subprocess
 import sys
@@ -135,7 +136,7 @@ class PaketTests(unittest.TestCase):
                 if kind == "schnellstart":
                     self.assertLess(len(text.encode("utf-8")), 7500)
                 else:
-                    self.assertLess(len(text.encode("utf-8")), 48 * 1024)
+                    self.assertLessEqual(len(text.encode("utf-8")), MAX_WORKSHOP_BYTES)
 
     def test_temporal_guard_requires_law_and_case_law_not_a_literal_month(self):
         valid = "Bei historischem Aktenstand dürfen spätere Gesetze und Entscheidungen nicht als damals geltende Grundlage verwendet werden."

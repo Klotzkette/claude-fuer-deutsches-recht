@@ -3,7 +3,7 @@ name: urkundenmappe-zur-freigabe
 description: "Prüft eine vorbereitete Notariatsmappe vor Vorlage an den Notar: Fassungen, Beteiligte, Formwege, Anlagen, Kapital- und Grundstücksdaten, Unterschriftsfelder sowie elektronische Einreichungsunterlagen. Kennzeichnet offene Freigaben statt Amtshandlungen zu fingieren."
 ---
 
-# Entwurfsmappe an den Notar übergeben
+# 1. Entwurfsmappe an den Notar übergeben
 
 ## 1. Zweck und Anwendungsfall
 
