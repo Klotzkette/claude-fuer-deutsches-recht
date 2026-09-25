@@ -1,0 +1,57 @@
+name: bauwirtschaft-hoai-buergerhaus-einbeck
+plugin: bauwirtschaft
+description: Eine Bauakte zum Bürgerhaus in Einbeck mit konkreten Urkunden aus allen neun Leistungsphasen Gebäude und offener Mängelklärung im September 2026.
+checks:
+  - id: einzelurkunden
+    check_type: human_review
+    description: Die 44 nummerierten Originaldateien bleiben jeweils ein eigenständiges Dokument. Keine Phasenanleitung oder Lösungsmatrix in die Originale einfügen.
+  - id: grundlagen-und-vorplanung
+    check_type: human_review
+    description: Bedarfsbeschluss, Ortsbesichtigung und Bestandsaufnahme von der späteren Variantenentscheidung unterscheiden. Die ungeortete Leitung nicht als gesicherten Bestand behandeln.
+  - id: entwurf-und-genehmigung
+    check_type: human_review
+    description: Entwurf, Kostenberechnung und Fachplanerabstimmung mit Bauantrag, Lageplan, Bauzeichnung, Baubeschreibung, Nachforderung und Bescheid verbinden. Die spätere Gymnastikidee nicht in die Genehmigung hineinlesen.
+  - id: freigaben
+    check_type: human_review
+    description: Ausführungsplan und Anschlussdetail von der lediglich zur Koordination eingestellten technischen Fassung trennen. Portalstatus, Planinhalt und tatsächlichen Einbau nicht gleichsetzen.
+  - id: vergabebelege
+    check_type: human_review
+    description: Langtexte, Mengen und zwölf Preispositionen über ungepreistes LV, Planeransatz, beide Angebote, Angebotsprüfung und Zuschlag nachvollziehen. Los 1 ist nicht das vollständige Bauprojekt.
+  - id: bauablauf
+    check_type: human_review
+    description: Behinderungsanzeige, Tagesberichte, Chat und Nachtragsangebot anhand ihres jeweiligen Entstehungsdatums lesen. Eine Gerätevorhaltung nicht ohne Nachweis mit vollständig untätigem Personal gleichsetzen.
+  - id: mengen-und-rechnung
+    check_type: human_review
+    description: Grundauftragsmengen, getrennten Leitungsgraben und zusätzliche Anschlussfläche aus dem Aufmaß abgleichen. Mengenzeichnung ist weder Nachtragsvereinbarung noch Abnahme.
+  - id: kostenabschluss
+    check_type: human_review
+    description: Rechnungsprüfung vom März und Kostenfeststellung vom April auseinanderhalten. Bereits vereinnahmte Abschläge, nicht bestätigte Geräteposition, Gebühren ohne Umsatzsteuer und offene Objektbetreuung getrennt führen.
+  - id: uebergabe
+    check_type: human_review
+    description: Abnahme Los 1, andere Gewerkeabnahmen, Gebäudebetriebsübergabe und mögliche gesonderte Abnahme von Planungsleistungen unterscheiden. Das Archivregister belegt die Existenz weiterer Mappen, ersetzt deren Originale aber nicht.
+  - id: objektbetreuung
+    check_type: human_review
+    description: Mängelmeldung, zugeordnetes Foto, Begehung und fachliche Bewertung zusammenführen. Relative Feuchteanzeigen sind keine Masseprozente. Verursachung und Umfang einer Sanierung bleiben offen.
+  - id: fristen
+    check_type: human_review
+    description: Gewerkeweise Ausgangsdaten verwenden. Die verschiedenen Kontrolltermine im Jahr 2029 sind keine eingetretenen Schäden. Weder die Übergabe noch eine einfache Mängelmeldung als pauschalen Fristbeginn oder automatische Fristverlängerung behandeln.
+  - id: berechnende-kosten
+    check_type: file_exists
+    path: 09_2021-06-14_Kostenberechnung.xlsx
+    description: Native Kostenberechnung mit Formeln und Quellenbezug vorhanden.
+  - id: berechnende-termine
+    check_type: file_exists
+    path: 19_2022-04-25_Rahmenterminplan.xlsx
+    description: Native Terminenden und Abstände werden berechnet.
+  - id: bepreistes-lv
+    check_type: file_exists
+    path: 24_2023-03-08_Bepreistes_LV.xlsx
+    description: Mengen und Planerpreise speisen berechnete Positionssummen.
+  - id: kostenfeststellung
+    check_type: file_exists
+    path: 37_2024-04-08_Kostenfeststellung.xlsx
+    description: Schlussrechnungsprüfung und Kostenabschluss in einem datierten Rechenwerk vorhanden.
+  - id: beweisfoto
+    check_type: file_exists
+    path: 42_2026-09-07_Feuchte_Saalnordwand.png
+    description: Eigene Rasteraufnahme liegt tatsächlich vor und ist in der Mängelmeldung als MIME-Anlage enthalten.

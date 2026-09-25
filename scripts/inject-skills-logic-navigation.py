@@ -120,6 +120,43 @@ EXACT_GROUPS: dict[str, str] = {
     "versandfreigabe-und-eingang-sichern": "7. Kontrolle, Qualität und Gegenprüfung",
 }
 
+PLUGIN_GROUPS = {
+    "bauwirtschaft": [
+        ("1. Projektführung und Entscheidungen", [
+            "bauprojekt-starten-und-arbeitsstand-fortfuehren",
+            "projektziele-und-entscheidungsrahmen-festlegen",
+            "projektbericht-und-entscheidungsvorlage-erstellen",
+        ]),
+        ("2. Planung und Bauablauf", [
+            "hoai-phasen-und-planstaende-abgleichen",
+            "bauablauf-und-terminplan-fortschreiben",
+        ]),
+        ("3. Vergabe und Angebote", [
+            "vergabe-und-losbildung-vorbereiten",
+            "leistungsverzeichnis-erstellen-und-pruefen",
+            "bauangebote-werten-und-vergabevorschlag-erstellen",
+            "bieterfragen-und-ruegen-bearbeiten",
+        ]),
+        ("4. Bauvertrag und Ausführung", [
+            "bauvertrag-und-schnittstellen-ausformulieren",
+            "bautagebuch-und-aufmass-fuehren",
+            "behinderung-und-bauzeitfolgen-dokumentieren",
+            "nachtraege-pruefen-und-vereinbaren",
+        ]),
+        ("5. Kaufmännische Steuerung", [
+            "baubudget-und-kostenprognose-fortschreiben",
+            "projektliquiditaet-und-zahlungsplan-erstellen",
+            "baurechnungen-pruefen-und-zahlung-vorbereiten",
+            "baubuchhaltung-und-belege-abgleichen",
+        ]),
+        ("6. Abnahme, Sicherheiten und Übergabe", [
+            "maengel-und-abnahme-bearbeiten",
+            "nachunternehmer-und-sicherheiten-steuern",
+            "uebergabe-und-gewaehrleistung-organisieren",
+        ]),
+    ],
+}
+
 
 def natural_key(text: str) -> list[object]:
     return [int(part) if part.isdigit() else part for part in re.split(r"(\d+)", text.lower())]
@@ -176,6 +213,13 @@ def build_block(slugs: list[str], source: str) -> str:
     for slug in slugs:
         grouped.setdefault(classify(slug), []).append(slug)
     labels = [label for label, _ in GROUPS] + ["8. Spezialmodule und Schnittstellen"]
+    if source in PLUGIN_GROUPS:
+        assignments = PLUGIN_GROUPS[source]
+        assigned = [slug for _, items in assignments for slug in items]
+        if len(assigned) != len(set(assigned)) or set(assigned) != set(slugs):
+            raise ValueError(f"{source}: Fachnavigation muss jeden Skill genau einmal zuordnen")
+        grouped = dict(assignments)
+        labels = list(grouped)
     lines = [
         BEGIN,
         "",

@@ -1,3 +1,21 @@
+# v445.3.0 - Bauwirtschaft mit zwanzig Skills und vier Projektakten
+
+## 1. Bauwirtschaftlicher Arbeitsablauf statt reiner Rechtsprüfung
+
+Das neue Paket verbindet Projektziele, HOAI-Planstände, Kosten, Termine, Vergabe, Bauausführung und Buchhaltung in zwanzig abgestimmten Skills. Der Hauptskill bearbeitet den beauftragten Vorgang selbst und führt Antworten sowie neue Belege im selben Projektstand fort. Budget, Auftragswert, Kostenprognose, Rechnungsbetrag und Zahlung bleiben unterscheidbar. Planungsleistung, technische Verantwortung und rechtsgeschäftliche Entscheidungsbefugnis werden nicht gleichgesetzt.
+
+Eine individuell geschriebene Werkstatt, der kompakte Bauplan-Schnellstart und ein gesonderter Hauptproblem-Prompt sind als Markdown verfügbar. Die kompakten Fassungen bleiben innerhalb von 7500 Zeichen und UTF-8-Bytes. Der Hauptproblem-Workflow ist außerdem ein installierbarer Skill; die eigenständigen Promptdateien werden nicht mit dem Plugin geladen.
+
+## 2. Vier neue Akten für unterschiedliche Aufgaben
+
+Northeim behandelt eine öffentliche Bauvergabe für ein Feuerwehrhaus einschließlich Angebotsunterlagen und laufendem Nachprüfungsverfahren. Warendorf bildet die kaufmännische Steuerung eines Werkhallenbaus mit Kosten, Terminabhängigkeiten und Zahlungsplanung ab. Einbeck führt ein Bürgerhaus durch alle neun Gebäude-Leistungsphasen der HOAI. Bad Salzuflen verbindet Baubelege und Rechnungen mit Buchhaltung, Bankumsätzen und offenen Posten.
+
+Jede Akte enthält eigenständige Originaldokumente, Korrespondenz, bearbeitbare Tabellen und Bildanlagen. Gesamt-PDF, flaches Einzel-PDF-ZIP und flaches Originalformat-ZIP erschließen denselben Bestand. Die Aktenarchive enthalten keine Lösungsmatrix. Der zweisprachige Warnhinweis steht auf der Downloadseite und in der ZIP-README, nicht in den PDF-Unterlagen.
+
+## 3. Auffindbarkeit und Prüfgrenzen
+
+Marketplace, Haupt-README, Promptliste, Schwerpunkt- und Skillregister sowie die Aktenübersichten werden gemeinsam fortgeschrieben. Neue Prüfungen sichern die zwanzig Skills, die vier Akten, ihre Originalformate, ZIP-Inhalte und die getrennten Promptdateien. Die Fälle unterliegen zusätzlich der allgemeinen Dokumentqualitätsprüfung. Strukturelle Importprüfungen und vorbereitete Ergebnisprüffälle sind keine Zertifizierung von Laufzeit oder Antwortqualität in fremden Benutzerkonten; technische Freigaben bleiben den verantwortlichen Fachleuten vorbehalten.
+
 # v445.2.0 - Vertragserstellung und Wirtschaftsanwalt mit je zehn Skills
 
 ## 1. Zwei zusätzliche kompakte Praxispakete

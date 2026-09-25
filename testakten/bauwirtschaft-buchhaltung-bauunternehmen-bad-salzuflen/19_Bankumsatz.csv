@@ -1,0 +1,9 @@
+﻿Bankreferenz;Valuta;Gegenpartei;Verwendungszweck;Haben_EUR;Soll_EUR
+BK-0901;2026-09-01;Kunde Alte Mühle;AR-260801;60.000,00;0,00
+BK-0914;2026-09-14;Röding Betonbau;RB-260901;0,00;22.800,00
+BK-0918;2026-09-18;Lippe Baustoffhandel;LB-260908 / LB-G260912;0,00;12.828,20
+BK-0922;2026-09-22;Weser Miettechnik;WM-260915;0,00;2.975,00
+BK-0923;2026-09-23;Lohn August;SAM-0826;0,00;15.700,00
+BK-0924A;2026-09-24;Sozialkassen August;SV-0826;0,00;7.700,00
+BK-0924B;2026-09-24;Finanzamt;LSt-0826;0,00;2.000,00
+BK-0924C;2026-09-24;Weser Miettechnik;Mietpark 09;0,00;1.785,00

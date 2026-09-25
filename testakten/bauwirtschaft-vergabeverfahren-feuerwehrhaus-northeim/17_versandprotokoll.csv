@@ -1,0 +1,20 @@
+﻿Kennung,Zeit MESZ,Vorgang,Status,Dateinummer
+NO26-BM01,27.07.2026 09:00:00,Bekanntmachung,abgesendet,02
+NO26-BM01,29.07.2026 08:00:00,Bekanntmachung,veröffentlicht,02
+NO26-F006,12.08.2026 10:18:00,Bieterfrage Leinetal,eingegangen,06
+NO26-F007,14.08.2026 14:00:00,Antwort an alle,bereitgestellt und versandt,07
+NO26-E002,31.08.2026 09:31:40,Angebot Weserklima,gespeichert,10 / 11
+NO26-E003,31.08.2026 09:48:05,Angebot Harzraum,gespeichert,12 / 13
+NO26-E001,31.08.2026 09:54:12,Angebot Leinetal,gespeichert,08 / 09
+NO26-N018,02.09.2026 09:00:00,Nachforderung an Leinetal,abgesendet,18
+NO26-N018,02.09.2026 09:00:03,Nachforderung an Leinetal,Postfachzustellung,18
+NO26-A019,09.09.2026 11:41:02,Antwort Leinetal,gespeichert,19 / 20 / 21
+NO26-I025,14.09.2026 15:00:00,Information Leinetal,elektronisch abgesendet,25
+NO26-I026,14.09.2026 15:00:00,Information Harzraum,elektronisch abgesendet,26
+NO26-I025,14.09.2026 15:00:03,Information Leinetal,Postfachzustellung,25
+NO26-I026,14.09.2026 15:00:04,Information Harzraum,Postfachzustellung,26
+NO26-R027,16.09.2026 09:20:04,Rüge Leinetal,SMTP angenommen,27
+NO26-S028,18.09.2026 11:00:00,Nichtabhilfe an Leinetal,versandt und zugestellt,28
+LT-NO26-NP01,24.09.2026 11:24:08,Nachprüfungsantrag,Empfangseinrichtung gespeichert,29 / 30
+VK26-OUT031,25.09.2026 09:10:05,Mitteilung an Stadt,Behördenpostfachzustellung,31
+VK26-OUT031,25.09.2026 09:13:22,Mitteilung an Stadt,abgerufen,31

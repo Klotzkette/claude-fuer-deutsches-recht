@@ -1,0 +1,45 @@
+name: bauwirtschaft-buchhaltung-bauunternehmen-bad-salzuflen
+plugin: bauwirtschaft
+description: Begrenzter Belegabgleich zweier Bauprojekte mit Rechnungskopie, Skonto, Sicherheit und unzugeordneter Überweisung.
+checks:
+  - id: umfang
+    check_type: human_review
+    description: Den ausgewählten Rechnungsstapel und das abgegrenzte Bankkonto prüfen, ohne eine umfassende Wirtschaftsprüfung oder einen vollständigen Projektabschluss zu behaupten.
+  - id: kopie
+    check_type: human_review
+    description: Dateien 08 und 09 als dieselbe Rechnung LB-260908 erkennen. Datei 09 enthält zusätzlich die im E-Mail-Archiv vermerkte Eingangskennzeichnung. Der Rechnungskern ist unverändert. Eingangsjournal, Zahlungslauf und E-Mail belegen nur eine Buchung und eine Zahlung. Keine zweite Schuld oder tatsächliche Doppelzahlung erfinden.
+  - id: material-und-skonto
+    check_type: human_review
+    description: Von 14280 EUR Rechnung die 1190 EUR Gutschrift abziehen. Zwei Prozent Skonto auf 13090 EUR sind 261,80 EUR brutto, davon 220 EUR netto und 41,80 EUR Steuerkorrektur. Zahlung 12828,20 EUR und einmalige Verrechnung der Gutschrift nachvollziehen.
+  - id: steuerregime
+    check_type: human_review
+    description: Konkrete Betonbauleistung und gültige USt-1-TG-Bescheinigung des Empfängers für die Steuerschuldnerschaft nach Paragraf 13b UStG heranziehen. Die gesonderte Freistellungsbescheinigung des Leistenden betrifft ausschließlich den Bauabzug nach Paragrafen 48 und 48b EStG. Keine pauschale Anwendung auf Materiallieferung, reine Vermietung ohne Bedienpersonal oder Planung.
+  - id: sicherheit
+    check_type: human_review
+    description: Rechnungswert 24000 EUR, Überweisung 22800 EUR und offene vertragliche Sicherheit 1200 EUR trennen. Die Sicherheit ist weder Aufwandminderung noch Skonto oder Bauabzugsteuer. Abnahme und Ablösebürgschaft nicht als vorliegend unterstellen.
+  - id: mietgeraete
+    check_type: human_review
+    description: Mietrechnung 2500 EUR netto anhand des Nachweises mit 1500 EUR auf BS26-01 und 1000 EUR auf BS26-02 verteilen. Die Geräte wurden ohne Personal überlassen; keine Bauausführung durch den Vermieter annehmen.
+  - id: nichtzugeordnet
+    check_type: human_review
+    description: Zahlung BK-0924C von 1785 EUR bleibt auf Konto 1590 ohne Projekt und ohne Rechnungszuordnung. Keine Umsatzsteuer, Anzahlung oder Kostenstelle allein aus Betrag und Zahlungsempfänger ableiten. Rückfrage und Telefonnotiz sind noch keine Klärung.
+  - id: freigabe
+    check_type: human_review
+    description: Gebuchte Seidel-Rechnung 2142 EUR mit fehlender Leistungsfreigabe und Fälligkeit 6. Oktober erkennen. Fehlende Bestätigung nicht mit erwiesener Schlechtleistung verwechseln. Keine Zahlung ohne Freigabe auslösen.
+  - id: lohn
+    check_type: human_review
+    description: Auguststunden, Septemberzahlung, Bruttolohn 21000 EUR, Arbeitgeberbelastung 4400 EUR und Projektkosten 25400 EUR unterscheiden. Nettozahlung 15700 EUR, Sozialkassen 7700 EUR und Lohnsteuer 2000 EUR stimmen zur Gesamtbelastung ab.
+  - id: projektkosten
+    check_type: human_review
+    description: Ausgewählte Nettokosten nach Skonto mit 39080 EUR und Lohn mit 25400 EUR zu 64480 EUR abstimmen. Projektanteile 51520 EUR und 12960 EUR nachvollziehen. Budgetrest weder als Restkostenforecast noch als Vollständigkeitsaussage ausgeben.
+  - id: bank-und-opos
+    check_type: human_review
+    description: Acht Bankumsätze ergeben aus 85000 EUR Anfangsbestand den Schlussbestand 79211,80 EUR. OPOS 3342 EUR enthalten 1200 EUR Sicherheit und 2142 EUR Seidel. Kundenzahlung 60000 EUR betrifft die Augustrechnung des früheren Projekts, nicht neue Septembererlöse.
+  - id: kreditorenmappe
+    check_type: file_exists
+    path: 24_Kreditorenabgleich.xlsx
+    description: Formelbasierter Lieferantenabgleich liegt vor.
+  - id: projektmappe
+    check_type: file_exists
+    path: 25_Projektkosten_und_Bank.xlsx
+    description: Bearbeitbare Projektkosten-, Lohn- und Bankmappe liegt vor.

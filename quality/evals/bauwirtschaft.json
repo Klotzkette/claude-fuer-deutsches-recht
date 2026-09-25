@@ -1,0 +1,1311 @@
+{
+  "schema_version": 1,
+  "plugin": "bauwirtschaft",
+  "author": "Klotzkette",
+  "reviewed_on": "2026-09-25",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/hoai_2013/anlage_10.html",
+      "supports": "Nummer 10.1 mit neun Phasen im amtlich bereitgestellten Text gelesen; Phase 8 umfasst Bauablaufdokumentation, gemeinsames Aufmaß, Rechnungsprüfung und Kostenfeststellung. Kein Nachweis tatsächlicher Beauftragung oder gesonderter Bauleiterpflichten.",
+      "checked_on": "2026-09-25"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hoai_2013/__34.html",
+      "supports": "Einzeltext gelesen: Gebäudeleistungsbild mit neun Phasen, keine Gleichsetzung von Honoraranteil und tatsächlichem Leistungsstand.",
+      "checked_on": "2026-09-25"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hoai_2013/__7.html",
+      "supports": "Nach zunächst erfolglosem Webabruf im direkten HTTP-Einzeltext gelesen. Aktueller Vereinbarungsrahmen, keine zeitlose Mindesthonorarregel oder historische Vollprüfung.",
+      "checked_on": "2026-09-25"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/BJNR001950896.html",
+      "supports": "Gezielt Paragrafen 650a, 650b, 650c, 650g und 650p im Gesamttext gelesen. Gesamtgesetz nicht vollständig geprüft; auf der Seite ausgewiesene Änderung vom 23.07.2026 ist kein Nachweis rückwirkender Anwendbarkeit.",
+      "checked_on": "2026-09-25"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__650b.html",
+      "supports": "Einzeltext und Passage im Gesamttext gelesen: Änderungsbegehren, Einigungsversuch und gesetzliche Anordnung unterscheiden.",
+      "checked_on": "2026-09-25"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__307.html",
+      "supports": "Einzeltext gelesen im Zusammenhang mit ebenfalls gelesenen Paragrafen 305 bis 310 BGB; Unternehmerverkehr bedeutet keine vollständige Freiheit von AGB-Kontrolle.",
+      "checked_on": "2026-09-25"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__641.html",
+      "supports": "Einzeltext gelesen: Fälligkeit und angemessener mängelbezogener Einbehalt nicht mit ungeprüften pauschalen Kürzungen verwechseln.",
+      "checked_on": "2026-09-25"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__640.html",
+      "supports": "Einzeltext gelesen: Abnahme, Bedeutung unwesentlicher Mängel, Voraussetzungen gesetzlicher Fiktion und Vorbehalte.",
+      "checked_on": "2026-09-25"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__634a.html",
+      "supports": "Einzeltext gelesen; Fristbeginn und Vertragsbezug gesondert, nicht pauschal ab Schlüsselübergabe.",
+      "checked_on": "2026-09-25"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__650f.html",
+      "supports": "Einzeltext gelesen; gesetzliche Vergütungssicherung mit Voraussetzungen und Ausnahmen, nicht mit Vertragserfüllungs- oder Mängelsicherheit gleichsetzen.",
+      "checked_on": "2026-09-25"
+    },
+    {
+      "url": "https://www.fib-bund.de/Inhalt/Vergabe/VOB/VOB-B_2016_nichtamtliche_Fassung.pdf",
+      "supports": "Lesbare ausdrücklich nichtamtliche konsolidierte Bundesbau-Fassung; Passagen zu Paragrafen 1 bis 6, 11 bis 13, 16 und 17 gezielt gelesen. Keine Vollprüfung aktueller Klauselwirksamkeit, keine automatische Einbeziehung.",
+      "checked_on": "2026-09-25"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwb/__97.html",
+      "supports": "Webtext und direkter Einzeltext gelesen. Abgerufener Absatz 4 enthielt nicht den früheren ausführlichen Losbildungswortlaut; keine ungeprüfte Übernahme historischen Textes.",
+      "checked_on": "2026-09-25"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vgv_2016/__2.html",
+      "supports": "Nach zunächst erfolglosem Webabruf direkter Einzeltext gelesen. Verweisung mit VOB/A-Änderung vom 22.07.2026, Bekanntmachung 24.08.2026; gesamten Änderungstext nicht geprüft.",
+      "checked_on": "2026-09-25"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vgv_2016/__3.html",
+      "supports": "Einzeltext gelesen: Schätzzeitpunkt, Gesamtwert, Optionen und Umgehungsverbot.",
+      "checked_on": "2026-09-25"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwb/__160.html",
+      "supports": "Einzeltext gelesen: Kenntnis, Erkennbarkeit und Nichtabhilfe als unterschiedliche Fristauslöser; kein pauschales Zehntagesfenster.",
+      "checked_on": "2026-09-25"
+    },
+    {
+      "url": "https://www.verwaltungsvorschriften-im-internet.de/bsvwvbund_16122025_BII17040931.htm",
+      "supports": "Lesbarer Bundeserlass vom 16.12.2025 zu Schwellenwerten ab 01.01.2026 gelesen; für Bauaufträge 5404000 EUR genannt. Datierter Quellenabgleich, keine zeitlose Grenze.",
+      "checked_on": "2026-09-25"
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32025R2152",
+      "supports": "Amtlicher Suchauszug sichtbar; Direktdarstellung ohne lesbaren Verordnungsvolltext. Keine Volltextprüfung; Zahlenabgleich stützt sich auf den datierten Bundeserlass.",
+      "checked_on": "2026-09-25"
+    },
+    {
+      "url": "https://www.mw.niedersachsen.de/startseite/service/servicestelle_zum_niedersachsischen_tariftreue_und_vergabegesetz_ntvergg/aktuelles/aktuelles-120419.html",
+      "supports": "Amtliche Serviceseite geöffnet; Hinweis vom 23.12.2025 zur statischen Verweisung auf VOB/A 2019 gelesen. Keine vollständige Prüfung NTVergG, NWertVO oder sämtlicher Förderauflagen.",
+      "checked_on": "2026-09-25"
+    },
+    {
+      "url": "https://www.vergabe.nrw.de/wirtschaft/ss-75a-go-nrw-loest-vergabegrundsaetze-ab",
+      "supports": "Amtliche Mitteilung vom 04.11.2025 zum kommunalen Wechsel ab 01.01.2026 geöffnet und gelesen. Keine Vollprüfung GO NRW, kommunaler Satzungen oder aller Auftraggeberarten.",
+      "checked_on": "2026-09-25"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/__239.html",
+      "supports": "Einzeltext gelesen: nachvollziehbare Aufzeichnungen und erkennbare Änderungen, kein GoBD-Test eines Gesamtsystems.",
+      "checked_on": "2026-09-25"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/ustg_1980/__13b.html",
+      "supports": "Einzeltext gelesen: Bauleistungs- und Empfängervoraussetzungen; keine pauschale Steuerschuldnerschaft jedes Bauunternehmens oder Bauherrn.",
+      "checked_on": "2026-09-25"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/estg/__48b.html",
+      "supports": "Einzeltext zusammen mit Paragraf 48 EStG gelesen: Freistellungsbescheinigung und Bauabzugsteuer getrennt von Paragraf 13b UStG prüfen.",
+      "checked_on": "2026-09-25"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__15a.html",
+      "supports": "Einzeltext zusammen mit Paragraf 17 InsO gelesen. Höchstfristen keine erlaubte Wartezeit; Projektlücke kein vollständiger Insolvenzstatus.",
+      "checked_on": "2026-09-25"
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2024&Gericht=bgh&Seite=17&Sort=1&anz=3393&nr=136872&pos=520",
+      "supports": "Amtlicher Suchindex: Gericht, Datum, Aktenzeichen und enger Leitsatz zu BGH, Urteil vom 15.02.2024, VII ZR 42/22 verifiziert. Direkter Abruf hier HTTP 403; kein gelesener Volltext und keine Randnummern. Konkrete Vertragsstrafenklausel im Einheitspreisvertrag, kein generelles Vertragsstrafenverbot.",
+      "checked_on": "2026-09-25"
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2019-8-8&Gericht=bgh&anz=10&nr=101195&pos=9",
+      "supports": "Amtlicher Suchindex: Gericht, Datum, Aktenzeichen und Leitsätze zu BGH, Urteil vom 08.08.2019, VII ZR 34/18 verifiziert. Direkter Abruf HTTP 403; kein gelesener Volltext. Enger Mehrmengenanker nach Paragraf 2 Absatz 3 Nummer 2 VOB/B, nicht alle Nachtragsarten.",
+      "checked_on": "2026-09-25"
+    }
+  ],
+  "source_access_limits": [
+    "Quellenbezogener Redaktionsstand 25.09.2026; Abrufdatum, Fassungsstand und zeitliche Anwendbarkeit im einzelnen Projekt sind nicht identisch.",
+    "Keine Volltextprüfung der beiden BGH-Entscheidungen: nur amtlich indexierte Leitsätze; keine verifizierten Randnummern oder übernommenen Parallelfundstellen.",
+    "EUR-Lex-Verordnung 2025/2152 nicht im Volltext lesbar; Schwellenwertabgleich anhand datierten Bundeserlasses.",
+    "VOB/A-Änderungstext 2026, gesamtes Landesbau- und Landesvergaberecht, kommunale Satzungen, Förderbedingungen und technische DIN-/ATV-Volltexte nicht vollständig geprüft.",
+    "Keine vollständige Prüfung historischer Honorarregime, steuerlicher Übergangsregeln oder sämtlicher Rechtsprechung bis zum Stichtag.",
+    "Keine Ausführung der Ergebnisfälle, keine Live-Modelltests, keine beobachtete Skill-Auswahl und keine bestandene Bearbeitung der vier Testakten behauptet."
+  ],
+  "mini_review": {
+    "reviewed_on": "2026-09-25",
+    "method": "desk_review",
+    "verdict": "revised",
+    "reason": "Eigenständigen Bauplan redaktionell auf drei Einstiege, zwanzig getrennte Arbeitsstationen, Fortsetzung und Arbeitsprodukt geprüft. Konkrete BGB-Normen und enger BGH-Leitsatz ergänzt; Meta- und Ausgabehinweise zur Einhaltung der Byteobergrenze gestrafft.",
+    "changes": [
+      "Paragrafen 650b, 650c und 650g BGB mit konkreten Anwendungsgrenzen ergänzt.",
+      "BGH VII ZR 42/22 nur als amtlich indexierten Leitsatz ohne Volltextprüfung aufgenommen.",
+      "Kosten, Liquidität, Rechnungsprüfung und Buchung als unterschiedliche Ergebnisse erhalten."
+    ],
+    "sha256": "453fd35dbfc5794ca0b4f1d73b5f2523c696e218dc46861203aba1e100fb285c"
+  },
+  "workshop_review": {
+    "reviewed_on": "2026-09-25",
+    "method": "desk_review",
+    "verdict": "revised",
+    "reason": "Individuelle Werkstatt auf zwanzig Praxisrouten, nachvollziehbare Rechenbeispiele, vollständige Dokumente und Folgeantworten redaktionell geprüft. Lokaler Strukturtest erkennt einen Haupttitel und zwanzig Routen. Keine Ausführung der Arbeitsabläufe durch ein Modell.",
+    "changes": [
+      "Hierarchie auf einen H1, dezimale Hauptabschnitte und explizite zwanzig Praxisrouten vereinheitlicht.",
+      "HOAI-Phasen 8 und 9, zeitbezogene Vergabe und bedingte technische Entscheidungen konkret abgegrenzt.",
+      "Beide BGH-Anker auf tatsächlich verifizierte Leitsatzreichweite begrenzt; keine Pflichtzitate in jedem Arbeitsprodukt."
+    ],
+    "sha256": "61a3f4cc6559052f58759ba322814ab40fd6b2bbc45ef3e2d9a0f0b0f5ffc516"
+  },
+  "focus_review": {
+    "reviewed_on": "2026-09-25",
+    "method": "desk_review",
+    "verdict": "revised",
+    "reason": "Projektstartprompt am Hauptskill redaktionell gespiegelt: belegt aufbauen, den Engpass bearbeiten, vollständige Entscheidung schreiben und P-014 nach Folgeantwort fortführen. BGH-Klauselanker knapp und mit explizitem Volltextvorbehalt ergänzt.",
+    "changes": [
+      "Drei Startlagen ohne vorgeschaltete Komplettinventur.",
+      "920000 EUR plus bestätigte 18000 EUR Änderung als 938000 EUR Variante, ohne Beauftragung zu erfinden.",
+      "Technische Freigabe, Planrevision und rechtsgeschäftliche Beauftragung getrennt.",
+      "Vertragsstrafenanker nicht als Verbot aller Klauseln oder Freigabe einer anderen Bezugsgröße."
+    ],
+    "prompt_path": "bauwirtschaft/bauwirtschaft-hauptproblem.md",
+    "prompt_sha256": "d25107bfab785f880357849ccc50ae9276aaf889facff5b5b226d0747a679289",
+    "skill_path": "bauwirtschaft/skills/bauprojekt-starten-und-arbeitsstand-fortfuehren/SKILL.md",
+    "skill_sha256": "8508c709fd67a30948bc36293bd9e3fe2ce48edcdb15d11065db2ad43fac1fe0"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-25",
+    "files": [
+      "bauwirtschaft/bauwirtschaft-schnellstart.md",
+      "bauwirtschaft/bauwirtschaft-werkstatt.md",
+      "bauwirtschaft/bauwirtschaft-hauptproblem.md",
+      "bauwirtschaft/skills/bauprojekt-starten-und-arbeitsstand-fortfuehren/SKILL.md"
+    ],
+    "opening_change": "Alle drei Prompts beginnen mit dem konkreten Bauprojektprodukt, unterscheiden leeren Start, Ordner ohne Auftrag und klares Ziel und führen nach Antworten dieselbe Tabelle oder Dokumentfassung fort.",
+    "norms": [
+      "HOAI Anlage 10 Nummer 10.1 und Paragraf 34: neun Gebäudephasen, Phase 8 und Objektbetreuung in Phase 9; kein vollständiger Bauprojektpflichtenkatalog.",
+      "Paragrafen 650b, 650c und 650g BGB: Änderung, Vergütung und Prüffähigkeit jeweils mit eigenen Voraussetzungen.",
+      "Paragrafen 307 und 310 BGB: Vertragsstrafenklausel und VOB/B-Einbeziehung nicht pauschal wirksam.",
+      "Paragrafen 97, 106 und 160 GWB sowie Paragrafen 2 und 3 VgV: zeit- und verfahrensbezogene Vergabe, Gesamtwert und getrennte Fristauslöser.",
+      "Paragrafen 640 und 634a BGB: Abnahmeereignis und vertragsbezogene Frist, keine Gleichsetzung mit Übergabe."
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 15.02.2024, Az. VII ZR 42/22",
+        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2024&Gericht=bgh&Seite=17&Sort=1&anz=3393&nr=136872&pos=520",
+        "application": "Enger Leitsatzanker: Unwirksamkeit der konkret verwendeten Vertragsstrafenklausel im Einheitspreisvertrag nach Paragraf 307 BGB; Klauselwortlaut und Bezugsgröße prüfen.",
+        "limit": "Nur amtlich indexierter Leitsatz verifiziert. Direktabruf HTTP 403, kein geprüfter Volltext und keine Randnummern. Kein allgemeines Verbot jeder Vertragsstrafe."
+      },
+      {
+        "citation": "BGH, Urteil vom 08.08.2019, Az. VII ZR 34/18",
+        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2019-8-8&Gericht=bgh&anz=10&nr=101195&pos=9",
+        "application": "Begrenzter Mehrmengenanker zur Preisbildung nach Paragraf 2 Absatz 3 Nummer 2 VOB/B bei fehlender abweichender Vereinbarung.",
+        "limit": "Nur amtlich indexierte Leitsätze, Direktabruf HTTP 403. Keine Übertragung auf sämtliche Nachträge, keine unüberprüften Randnummern; vor streitentscheidender Nutzung Volltext und Berichtigungen prüfen."
+      }
+    ],
+    "remaining_limits": [
+      "Quellenbezogener Redaktionsstand 25.09.2026; Abrufdatum, Fassungsstand und zeitliche Anwendbarkeit im einzelnen Projekt sind nicht identisch.",
+      "Keine Volltextprüfung der beiden BGH-Entscheidungen: nur amtlich indexierte Leitsätze; keine verifizierten Randnummern oder übernommenen Parallelfundstellen.",
+      "EUR-Lex-Verordnung 2025/2152 nicht im Volltext lesbar; Schwellenwertabgleich anhand datierten Bundeserlasses.",
+      "VOB/A-Änderungstext 2026, gesamtes Landesbau- und Landesvergaberecht, kommunale Satzungen, Förderbedingungen und technische DIN-/ATV-Volltexte nicht vollständig geprüft.",
+      "Keine vollständige Prüfung historischer Honorarregime, steuerlicher Übergangsregeln oder sämtlicher Rechtsprechung bis zum Stichtag.",
+      "Keine Ausführung der Ergebnisfälle, keine Live-Modelltests, keine beobachtete Skill-Auswahl und keine bestandene Bearbeitung der vier Testakten behauptet."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-25",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leer: Projekt, Rolle, Ergebnis und nächste Entscheidung klären.",
+      "Ordner ohne Auftrag: tragende Belege intern lesen und zwei konkrete nächste Arbeitsziele anbieten.",
+      "Klares Ziel: unmittelbar an verlangter Tabelle oder vollständigem Dokument arbeiten."
+    ],
+    "continuation": "Vorgangs- und Belegkennungen behalten; neue Antworten ändern dieselbe Zeile, abhängige Rechnung und Textstelle. Keine erneute Projektaufnahme nach jeder Antwort.",
+    "enrichment": "Fachliche Prüfung ergänzt genau die betroffene Leistung, Kosten-, Termin- oder Zahlungsfolge. Individuelle Fachroute vertieft einen Engpass, nicht einen allgemeinen Analysebericht ohne Arbeitsprodukt.",
+    "limits": "Entwurf und Berechnung sind keine Außenhandlung. Fachfreigaben bleiben befugten Fachleuten vorbehalten. Rückfragen betreffen echte entscheidende Lücken; unabhängige Teile werden fortgesetzt. Desk Review ohne beobachtete Modellausführung."
+  },
+  "selection": {
+    "target_skill": "bauprojekt-starten-und-arbeitsstand-fortfuehren",
+    "positive": [
+      "Starte unser Hallenprojekt aus den vorhandenen Unterlagen und erstelle den Arbeitsstand mit der nächsten entscheidungsreifen Vorlage.",
+      "Führe unsere bestehende Bauprojektliste nach den neuen Plan- und Preisangaben weiter und passe die betroffenen Kosten- und Terminfolgen an."
+    ],
+    "negative": [
+      "Prüfe ausschließlich die Kündigung eines Wohnungsmietvertrags ohne Bezug zu einem Bauprojekt.",
+      "Erkläre allgemein die Geschichte des römischen Rechts ohne konkrete Projektarbeit."
+    ]
+  },
+  "testakten": [
+    {
+      "path": "testakten/bauwirtschaft-vergabeverfahren-feuerwehrhaus-northeim",
+      "status": "Zentral erstellte eigenständige Akte; hier nur Zuordnung, keine ausgeführte Fallprüfung.",
+      "scope": "Kommunale Vergabe, LV, Angebote, Bieterfragen und Rüge"
+    },
+    {
+      "path": "testakten/bauwirtschaft-baumanagement-werkhalle-warendorf",
+      "status": "Zentral erstellte eigenständige Akte; hier nur Zuordnung, keine ausgeführte Fallprüfung.",
+      "scope": "Kostenstand, Terminabhängigkeit, Zahlungsplanung und Trafolieferverzug vor Fertigstellung."
+    },
+    {
+      "path": "testakten/bauwirtschaft-hoai-buergerhaus-einbeck",
+      "status": "Zentral erstellte eigenständige Akte; hier nur Zuordnung, keine ausgeführte Fallprüfung.",
+      "scope": "Neun Gebäudephasen, Planervertrag, Planreife und Objektbetreuung"
+    },
+    {
+      "path": "testakten/bauwirtschaft-buchhaltung-bauunternehmen-bad-salzuflen",
+      "status": "Zentral erstellte eigenständige Akte; hier nur Zuordnung, keine ausgeführte Fallprüfung.",
+      "scope": "Belegabgleich, offene Posten, Zahlungsplanung und Sicherheiten"
+    }
+  ],
+  "cases": [
+    {
+      "id": "projektstart-planrevision-fortsetzen",
+      "target_skill": "bauprojekt-starten-und-arbeitsstand-fortfuehren",
+      "request": "Ich vertrete den Bauherrn. Führe unseren Projektstand mit Vorgang P-014 weiter und schreibe die Entscheidungsvorlage. Bisherige Kostenprognose: 920000 EUR netto ohne Änderung am Tor. Plan C ist fachlich freigegeben. Plan D vom 14.09.2026 ist nur zur Prüfung; Angebot T-17 nennt 18000 EUR netto ohne klare Aussage, ob Mehr- oder Gesamtpreis. Es gibt noch keine Beauftragung und keine Tragwerksfreigabe für D. Stelle höchstens die für diesen Unterschied nötige Rückfrage und bearbeite alles Unabhängige. Folgeantwort des Bauherrn: Die 18000 EUR sind zusätzliche Nettokosten; keine Ausführungsfreigabe erteilt. Aktualisiere danach dieselbe Tabelle und Vorlage. Keine Außenhandlung.",
+      "input_files": [],
+      "deliverables": [
+        "projektstand.csv",
+        "entscheidung.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "P-014 bleibt in derselben Tabelle erhalten; Plan C freigegeben, D zur Prüfung, Angebot T-17 und fehlende Beauftragung werden getrennt dokumentiert.",
+          "deliverables": [
+            "projektstand.csv"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Nach der mitgelieferten Folgeantwort ergibt sich für die Änderungsvariante 938000 EUR netto; die 18000 EUR werden nicht als bereits beauftragter oder technisch freigegebener Nachtrag bezeichnet.",
+          "deliverables": [
+            "projektstand.csv",
+            "entscheidung.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die Vorlage formuliert eine konkrete Wahl und noch nötige Fachprüfung; sie ist ein vollständiger Text und keine bloße Skill- oder Aufgabenliste.",
+          "deliverables": [
+            "entscheidung.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Kein Neustart, keine Nachfrage nach bereits geklärtem Preischarakter und keine behauptete technische Freigabe oder Außenhandlung.",
+          "deliverables": [
+            "projektstand.csv",
+            "entscheidung.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "projektziele-option-flachenerweiterung",
+      "target_skill": "projektziele-und-entscheidungsrahmen-festlegen",
+      "request": "Schreibe den Projektauftrag für einen privaten Bauherrn. Bestätigt sind 600 m² Nutzfläche, 1800000 EUR Bruttobudget einschließlich Reserve und die nutzbare Übergabe zum vereinbarten Eröffnungstermin. 80 m² Erweiterung sind nur Wunsch des Nutzers, weder beauftragt noch genehmigt; dafür liegt eine vorläufige Schätzung über zusätzlich 160000 EUR brutto vor. Der Bauherr priorisiert den Budgetrahmen vor der Zusatzfläche. Termin und technische Zulässigkeit der Erweiterung sind ungeprüft. Lege eine Zieleliste mit Entscheidung über die Option an und formuliere den vollständigen Projektauftrag, nicht nur Rückfragen.",
+      "input_files": [],
+      "deliverables": [
+        "ziele.csv",
+        "projektauftrag.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "600 m² werden als bestätigter Bedarf, 80 m² als offene Option geführt; keine Zusage von 680 m² oder Genehmigungsfähigkeit.",
+          "deliverables": [
+            "ziele.csv",
+            "projektauftrag.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Budgetbasis brutto und Reserveeinschluss bleiben erkennbar; eine Erweiterungsvariante beträgt 1960000 EUR brutto auf vorläufiger Schätzbasis, nicht das bereits freigegebene Budget.",
+          "deliverables": [
+            "ziele.csv"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Projektauftrag enthält Umfang, Priorität, ausgeschlossene Option, Entscheidungskompetenz und klaren Übergabeereignisbezug, ohne technische Garantien.",
+          "deliverables": [
+            "projektauftrag.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hoai-phase-acht-neun-planreife",
+      "target_skill": "hoai-phasen-und-planstaende-abgleichen",
+      "request": "Prüfe für ein Gebäude unseren Planerstand und entwirf die gezielte Rückfrage. Beauftragt sind Gebäudeleistungen der Phasen 1 bis 8; Phase 9 ist nicht abgerufen. Der Planer ordnet Bautagebuch, gemeinsames Aufmaß, Rechnungsprüfung und Kostenfeststellung der Phase 9 zu und verlangt dafür einen neuen Abruf. Für die behauptete vollständige Phase 5 liegen nur Genehmigungspläne und ein ungeprüfter Werkstattplan vor. Eine landesrechtliche Bauleiterbestellung ist nicht dokumentiert. Erstelle einen konkreten Soll-Ist-Abgleich der genannten Leistungen anhand HOAI Anlage 10 und des Auftrags, ohne jede Honorarforderung pauschal zurückzuweisen.",
+      "input_files": [],
+      "deliverables": [
+        "leistungsstand.csv",
+        "klaerung-planer.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die vier genannten Leistungen werden dem Gebäudeleistungsbild Phase 8 zugeordnet; Phase 9 wird als Objektbetreuung abgegrenzt.",
+          "deliverables": [
+            "leistungsstand.csv"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Für Phase 5 werden fehlende Ausführungsbelege konkret benannt; Genehmigungs- oder ungeprüfter Werkstattplan gilt nicht automatisch als vollständige Leistung.",
+          "deliverables": [
+            "leistungsstand.csv",
+            "klaerung-planer.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Kein Schluss von HOAI-Phase auf landesrechtliche Bauleiterbestellung; kein automatischer Honorarabzug ohne Vertrags- und Leistungsprüfung.",
+          "deliverables": [
+            "klaerung-planer.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Die Rückfrage ist adressierter vollständiger Text; Phasenzuordnung und Beauftragung bleiben unterscheidbar.",
+          "deliverables": [
+            "klaerung-planer.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kostenprognose-ohne-doppelzahlungen",
+      "target_skill": "baubudget-und-kostenprognose-fortschreiben",
+      "request": "Führe unsere Kostenprognose fort. Alle Werte netto: Grundaufträge 1000000 EUR, bestätigte zusätzliche Nachträge 50000 EUR, noch nicht vergebene und in den Grundaufträgen nicht enthaltene Restleistungen 120000 EUR, separat einzubeziehendes identifiziertes Risiko 30000 EUR. Bereits gezahlte 400000 EUR betreffen die Grundaufträge. Das freigegebene Nettobudget beträgt 1250000 EUR einschließlich aller Reserven. Ein Nachtragsangebot über 10000 EUR betrifft bereits in den 30000 EUR berücksichtigtes Risiko und ist nicht zusätzlich zu addieren. Erstelle eine rechenbare Prognose und eine kurze Abweichungserläuterung.",
+      "input_files": [],
+      "deliverables": [
+        "kosten.csv",
+        "kostenvermerk.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Prognose ist 1200000 EUR netto und Abstand zum freigegebenen Rahmen 50000 EUR; alle Komponenten werden nachvollziehbar dargestellt.",
+          "deliverables": [
+            "kosten.csv",
+            "kostenvermerk.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "400000 EUR Zahlungen erhöhen die Gesamtkosten nicht nochmals; 10000 EUR Angebot werden als Konkretisierung eines vorhandenen Risikos ohne Doppelzählung eingeordnet.",
+          "deliverables": [
+            "kosten.csv"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Netto- und Reservebasis sowie Status des Angebots bleiben sichtbar; keine Behauptung freier Liquidität aus Budgetabstand.",
+          "deliverables": [
+            "kostenvermerk.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "terminplan-fuenf-tage-zwei-puffer",
+      "target_skill": "bauablauf-und-terminplan-fortschreiben",
+      "request": "Aktualisiere den Terminplan als Tabelle und schreibe die Auswirkung für den Bauherrn. Alle Dauern sind Arbeitstage bei unverändertem bestätigtem Kalender; Feiertagsfragen treten im betrachteten Zeitraum nicht auf. Die Lieferung von Tor T verschiebt sich um fünf Arbeitstage. Der nachfolgende Einbau kann erst nach Lieferung beginnen und hatte genau zwei Arbeitstage nutzbaren Puffer zur unverändert anschließenden Abnahmekette. Keine andere Tätigkeit kann vorgezogen werden; die Ressource ist verfügbar. Ein Vertragsanspruch auf Verlängerung ist nicht geklärt. Halte Basis und Prognose getrennt, keine Beauftragung von Beschleunigung.",
+      "input_files": [],
+      "deliverables": [
+        "terminplan.csv",
+        "terminfolge.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Lieferung, Einbau und Folgekette sind mit ihrer Abhängigkeit und Arbeitstagebasis erkennbar; Basis und neue Prognose werden nicht überschrieben vermischt.",
+          "deliverables": [
+            "terminplan.csv"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Bei den ausdrücklich gegebenen Annahmen wird die Endverschiebung mit drei Arbeitstagen statt fünf berechnet.",
+          "deliverables": [
+            "terminplan.csv",
+            "terminfolge.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Prognose ist kein anerkannter Fristverlängerungsanspruch und kein neuer vertraglicher Endtermin; Annahmen bleiben genannt.",
+          "deliverables": [
+            "terminfolge.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "liquiditaet-foerderung-nicht-zugesagt",
+      "target_skill": "projektliquiditaet-und-zahlungsplan-erstellen",
+      "request": "Stelle für die nächste Woche einen Zahlungsplan auf. Freier Anfangsbestand 80000 EUR, belegte sichere Kundeneingänge vor den Fälligkeiten 45000 EUR, fällige Auszahlungen 150000 EUR. Eine Förderung von 40000 EUR ist lediglich beantragt; die Bank hat eine zusätzlich beantragte Kreditlinie über 20000 EUR noch nicht zugesagt. Alle Beträge sind tatsächliche Geldbeträge nach Steuern. Unterscheide gesicherte Mittel und Szenarien. Schreibe die nötige Entscheidungsvorlage an die Geschäftsleitung, ohne Zahlungen auszuführen und ohne aus diesen Projektdaten einen vollständigen Insolvenzstatus zu behaupten.",
+      "input_files": [],
+      "deliverables": [
+        "zahlungsplan.csv",
+        "liquiditaetsentscheidung.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Gesicherter Endbestand beträgt minus 25000 EUR; Förderung und beantragte Linie schließen diese Lücke im Basisszenario nicht.",
+          "deliverables": [
+            "zahlungsplan.csv"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Szenarien bleiben getrennt: allein zusätzliche 20000 EUR bestätigter Kredit würden noch 5000 EUR Lücke lassen; bloße Anträge werden nicht als verfügbar gebucht.",
+          "deliverables": [
+            "zahlungsplan.csv"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Entscheidungsvorlage benennt zeitgerechte Klärung bei zuständiger Leitung, Fälligkeiten und Maßnahmenbedarf; weder Insolvenzdiagnose noch Entwarnung oder Zahlungsauftrag.",
+          "deliverables": [
+            "liquiditaetsentscheidung.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vergabe-gesamtwert-losbildung",
+      "target_skill": "vergabe-und-losbildung-vorbereiten",
+      "request": "Bereite am 25.09.2026 für eine niedersächsische Kommune die Vergabe eines zusammenhängenden Gebäudevorhabens vor. Vier Baugewerke sind netto mit 1800000, 1600000, 1200000 und 900000 EUR geschätzt, eine noch nicht enthaltene Option mit 250000 EUR. Jemand schlägt vor, jedes Gewerk wegen seines Einzelwerts als selbstständige Direktvergabe zu behandeln. Förderauflagen und konkrete Verfahrensunterlagen fehlen. Erstelle einen Vergabevorbereitungsvermerk und eine Losübersicht. Recherchiere die für den Zeitpunkt maßgeblichen amtlichen Grundlagen und kennzeichne ungeprüfte Landes- oder Änderungsregeln.",
+      "input_files": [],
+      "deliverables": [
+        "lose.csv",
+        "vergabevorbereitung.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Gesamtwert 5750000 EUR netto einschließlich Option wird nachvollziehbar berechnet; Einzelgewerke werden nicht zur Schwellenumgehung isoliert.",
+          "deliverables": [
+            "lose.csv",
+            "vergabevorbereitung.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Schwellenabgleich nennt den datierten Bundeserlass ab 2026 und die Leistungs-/Auftraggebergrundlage; keine zeitlose Zahl oder ungesicherte Direktvergabefreigabe.",
+          "deliverables": [
+            "vergabevorbereitung.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Losbildung wird sachlich begründet; aktueller Paragraf 97 GWB und spezielle Regeln werden geprüft statt ungeprüft alten Wortlaut zu übernehmen.",
+          "deliverables": [
+            "lose.csv",
+            "vergabevorbereitung.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Fehlende Förderauflagen, Verfahrensgrundlage und landesspezifische Texte werden konkret benannt, unabhängige Vorarbeit fertiggestellt.",
+          "deliverables": [
+            "vergabevorbereitung.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lv-wandflaeche-vertragsregel",
+      "target_skill": "leistungsverzeichnis-erstellen-und-pruefen",
+      "request": "Erstelle eine LV-Position für die Beschichtung einer Innenwand und die Mengenherleitung. Bestätigte Maße: Länge 12 m, Höhe 3 m, genau eine Öffnung 2 m mal 2,5 m. Für diese Anfrage ist vertraglich vorgegeben, jede Öffnungsfläche vollständig abzuziehen; eine abweichende DIN-Regel ist nicht vereinbart oder bereitgestellt. Untergrund und gewünschtes Beschichtungssystem müssen noch fachlich bestätigt werden. Die bisherige Position lautet nur 'Wand fertig streichen, pauschal'. Ersetze sie durch eine prüfbare Position mit Menge, Einheit, Ort und sichtbaren technischen Lücken, ohne erfundene Normanforderung.",
+      "input_files": [],
+      "deliverables": [
+        "lv.csv",
+        "mengenherleitung.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "36 m² Bruttofläche minus 5 m² Öffnung ergeben nach der ausdrücklich vorgegebenen Regel 31 m²; Rechenweg und Vertragsbasis sind belegt.",
+          "deliverables": [
+            "lv.csv",
+            "mengenherleitung.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Position hat konkreten Ort, Einheit m² und Leistungsabgrenzung; unbestätigtes System und Untergrund bleiben als technische Klärung sichtbar.",
+          "deliverables": [
+            "lv.csv"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Keine erfundene DIN-Übermessungsregel, keine Bestätigung technischer Eignung und keine unbegründete Pauschalposition.",
+          "deliverables": [
+            "mengenherleitung.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "angebotswertung-fehlende-pflichtleistung",
+      "target_skill": "bauangebote-werten-und-vergabevorschlag-erstellen",
+      "request": "Erstelle die Wertung und einen bedingten Vergabevorschlag für einen privaten Auftraggeber. Vorgegebene Wertung: niedrigster Gesamtpreis unter vollständigen Angeboten, dieselbe beschriebene Leistung. Angebot A: 210000 EUR netto, zwingend verlangte Torsteuerung ausdrücklich nicht enthalten, Nachpreis unbekannt. B: 218000 EUR netto vollständig. C: 222000 EUR netto vollständig. Es ist noch keine zulässige Klarstellung eingeholt und nichts beauftragt. Der Einkauf möchte A den fehlenden Preis mit null ansetzen. Nutze die genannten Kriterien, keine neuen Qualitätsgewichte. Schreibe die konkrete Klärungsfrage und die entscheidungsfähige Empfehlung.",
+      "input_files": [],
+      "deliverables": [
+        "angebotswertung.csv",
+        "vergabevorschlag.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "A wird wegen unvollständiger Vergleichsbasis nicht mit null aufgefüllt oder vorbehaltlos an erste Stelle gesetzt.",
+          "deliverables": [
+            "angebotswertung.csv"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Unter den vollständigen Angeboten liegt B mit 218000 EUR vor C mit 222000 EUR; keine nachträglich erfundenen Kriterien.",
+          "deliverables": [
+            "angebotswertung.csv",
+            "vergabevorschlag.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Vorschlag enthält vollständige Klärung zur fehlenden Steuerung, Status und bedingte Empfehlung; keine öffentliche Verfahrensregel ungeprüft auf privaten Einkauf übertragen.",
+          "deliverables": [
+            "vergabevorschlag.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bieterfrage-erkennbare-vorgabe-frist",
+      "target_skill": "bieterfragen-und-ruegen-bearbeiten",
+      "request": "Ich bin Bieter in einem deutschen EU-Bauvergabeverfahren und brauche heute den Entwurf einer Rüge, nicht deren Versand. Angebotsende ist morgen; ich habe heute die veröffentlichte Vorgabe 'ausschließlich Fabrikat X, keine Alternative' bemerkt. Eine technische Alleinstellungsbegründung und Gleichwertigkeitsregel sind in den bereitgestellten Unterlagen nicht enthalten. Das Portal erlaubt Nachrichten; die tatsächlichen Unterlagen und Zugangsnachweise können bei Bedarf angefordert werden. Formuliere die konkrete Beanstandung mit beantragter Abhilfe und prüfe die verschiedenen Fristauslöser nach Paragraf 160 GWB. Versprich keine zehn Tage Zeit über das Angebotsende hinaus.",
+      "input_files": [],
+      "deliverables": [
+        "ruegeentwurf.md",
+        "fristvermerk.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Rüge beschreibt die konkrete Vorgabe, fehlende Rechtfertigung nach verfügbarem Stand und verlangte Abhilfe; sie ist kein allgemeines Muster ohne Sachbezug.",
+          "deliverables": [
+            "ruegeentwurf.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Fristvermerk trennt Kenntnis und Erkennbarkeit aus Unterlagen sowie Angebotsende; keine automatische Zehntagesfrist über morgen hinaus.",
+          "deliverables": [
+            "fristvermerk.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Bieterrolle und Entwurfsstatus bleiben erkennbar; kein behaupteter Versand, Zugang oder bereits eingetretener Rechtsverlust.",
+          "deliverables": [
+            "ruegeentwurf.md",
+            "fristvermerk.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vertrag-schnittstelle-vertragsstrafenklausel",
+      "target_skill": "bauvertrag-und-schnittstellen-ausformulieren",
+      "request": "Formuliere eine vollständige Nachtrags- und Schnittstellenvereinbarung für einen privaten Einheitspreis-Bauvertrag. Rohbau erstellt Aussparungen, TGA liefert vorher fachlich geprüfte Durchbruchspläne. Die Planlieferfrist ist noch zu vereinbaren. Der Bauleiter darf technisch koordinieren, hat aber keine Preisvollmacht. VOB/B-Einbeziehung ist nicht belegt. Der Auftraggeber will zusätzlich 'immer 5 Prozent der ursprünglichen Auftragssumme bei jeder Verzögerung' als Vertragsstrafe. Prüfe diese vorgeschlagene Klausel vorsichtig am belegbaren Rechtsstand und am begrenzten Anker BGH VII ZR 42/22. Gib keinen ungelesenen Volltext oder pauschalen sicheren Ersatzsatz aus.",
+      "input_files": [],
+      "deliverables": [
+        "schnittstellenvereinbarung.md",
+        "klauselvermerk.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Vereinbarung enthält Leistungsteilung, Planversion, geordneten Änderungsweg, offene Lieferfrist und getrennte Vertretungsbefugnisse.",
+          "deliverables": [
+            "schnittstellenvereinbarung.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Keine automatische VOB/B-Geltung oder Bestellvollmacht aus Bauleitung; fehlende wesentliche Angaben werden sichtbar und gezielt nachgefragt.",
+          "deliverables": [
+            "schnittstellenvereinbarung.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Vertragsstrafenklausel wird nicht wegen der Zahl 5 pauschal freigegeben; Bezugsgröße, Verzögerungstatbestand und Paragraf 307 BGB werden geprüft.",
+          "deliverables": [
+            "klauselvermerk.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "BGH vom 15.02.2024, VII ZR 42/22 wird nur mit enger Leitsatzreichweite und offenem Volltextstatus verwendet; kein generelles Verbot aller Vertragsstrafen.",
+          "deliverables": [
+            "klauselvermerk.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bautagebuch-kumuliertes-aufmass",
+      "target_skill": "bautagebuch-und-aufmass-fuehren",
+      "request": "Führe den Tagesbericht und das Aufmaß fort. Am 24.09.2026 um 10:00 Uhr wurden im nördlichen Hallenabschnitt Randbalkenabschnitte von 18 m und 12 m gemessen; die 30 m sind der heutige kumulierte Stand. Vorher waren 20 m kumuliert bestätigt. Heute hat nur die eigene Bauleitung gemessen, der Unternehmer hat nicht gegengezeichnet. Um 11:00 Uhr wurde ein offener ungesicherter Randbereich fotografiert; die technische Sicherung ist fachlich zu beurteilen. Bereite den Hinweis an den Nutzer und den Kommunikationsentwurf an die zuständige Fachperson vor, nimm nicht selbst Kontakt auf. Keine späteren Tatsachen rückdatieren.",
+      "input_files": [],
+      "deliverables": [
+        "tagesbericht.md",
+        "aufmass.csv"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Kumulierte Menge 30 m und Zuwachs 10 m statt 50 m; Maßabschnitte und Vorstand sind nachvollziehbar.",
+          "deliverables": [
+            "aufmass.csv"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Einseitige Aufnahme und fehlende Gegenzeichnung werden klar bezeichnet; kein behauptetes gemeinsames Aufmaß oder Anerkenntnis.",
+          "deliverables": [
+            "aufmass.csv",
+            "tagesbericht.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Beobachtung 10:00 und Foto 11:00 sind getrennt; keine technische Sicherheitsfreigabe aus dem Bild.",
+          "deliverables": [
+            "tagesbericht.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Hinweis an Nutzer und vorbereitete Kommunikation statt eigenmächtiger Kontaktaufnahme; Zuständigkeit und offener Handlungsbedarf konkret.",
+          "deliverables": [
+            "tagesbericht.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "behinderung-nord-sued-kausalitaet",
+      "target_skill": "behinderung-und-bauzeitfolgen-dokumentieren",
+      "request": "Schreibe aus Unternehmersicht eine Behinderungsanzeige und eine Ereignistabelle als Entwurf. Nordabschnitt: freizugebender Plan fehlte am 22. und 23.09.2026; eine Kolonne mit vier Personen konnte dort täglich sechs geplante Stunden nicht ausführen. Zwei dieser Personen arbeiteten am 23.09. jeweils drei Stunden ersatzweise im Süden. Südabschnitt lief sonst planmäßig. Der Vertrag und eine behauptete VOB/B-Einbeziehung sind noch zu prüfen. Die Gesamtterminwirkung und konkreten Kosten sind nicht belegt. Der Unternehmer fordert pauschal zwei Tage Verlängerung für die ganze Baustelle. Trenne dokumentierte Stunden, Ablaufwirkung und möglichen Anspruch.",
+      "input_files": [],
+      "deliverables": [
+        "behinderungsanzeige.md",
+        "ereignisse.csv"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Nordereignis, Planbedarf, betroffener Vorgang und Zeitraum werden konkret bezeichnet; Südarbeit bleibt erhalten.",
+          "deliverables": [
+            "behinderungsanzeige.md",
+            "ereignisse.csv"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "48 geplante betroffene Personenstunden und 6 Stunden Ersatzarbeit werden getrennt, 42 Stunden nicht ersatzweise genutzt rechnerisch ausgewiesen, nicht als automatisch ersatzfähige Kosten.",
+          "deliverables": [
+            "ereignisse.csv"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Keine automatische Gesamtverlängerung um zwei Tage; Terminpfad, Vertragsgrundlage und Anspruchsvoraussetzungen bleiben prüfbedürftig.",
+          "deliverables": [
+            "behinderungsanzeige.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Vollständiger Anzeigeentwurf verlangt Abhilfe, ohne ungeprüfte VOB/B-Wirkung oder erfundene Schadenssumme.",
+          "deliverables": [
+            "behinderungsanzeige.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nachtrag-altleistung-abziehen",
+      "target_skill": "nachtraege-pruefen-und-vereinbaren",
+      "request": "Prüfe Nachtrag N-04 und schreibe eine vollständige Vereinbarung als Entwurf. Der private Auftraggeber und Unternehmer haben sich nachweislich auf eine geänderte Leistung geeinigt; derselbe Preisstand netto gilt für beide Positionen. Neue Leistung 5000 EUR, dadurch vollständig entfallende bisherige Leistung 1500 EUR. Der Unternehmer verlangt zusätzlich 2000 EUR Bauzeitkosten, hat dafür weder Ablaufnachweis noch Kostenbeleg vorgelegt. Im Vertrag ist eine wirksame VOB/B-Einbeziehung nicht dokumentiert. Keine Raten- oder Abschlagsregel ist neu vereinbart. Arbeite die unstreitige Leistungsänderung aus und halte den gesonderten Bauzeitteil offen.",
+      "input_files": [],
+      "deliverables": [
+        "nachtragspruefung.csv",
+        "nachtragsvereinbarung.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Geänderte Leistung führt zu 3500 EUR Nettomehrvergütung; entfallende Altleistung wird nicht zusätzlich bezahlt.",
+          "deliverables": [
+            "nachtragspruefung.csv",
+            "nachtragsvereinbarung.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "2000 EUR Bauzeitbetrag bleiben getrennt streitig und unbelegt; keine Nullbewertung als endgültiger Verzicht und keine automatische Anerkennung.",
+          "deliverables": [
+            "nachtragspruefung.csv",
+            "nachtragsvereinbarung.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Vereinbarung benennt Leistung, Nettobasis, Abgrenzung und offenen Teil vollständig; keine pauschale 80-Prozent-Freigabe nach Paragraf 650c BGB für jeden Nachtrag.",
+          "deliverables": [
+            "nachtragsvereinbarung.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rechnung-kumuliert-netto-brutto",
+      "target_skill": "baurechnungen-pruefen-und-zahlung-vorbereiten",
+      "request": "Prüfe den Abschlag und bereite die Zahlung intern vor, ohne sie auszuführen. Der bestätigte kumulierte Leistungsstand beträgt 120000 EUR netto. Für diesen Fall sind 19 Prozent Umsatzsteuer und kein Übergang der Steuerschuldnerschaft bestätigt. Frühere tatsächlich geleistete Zahlungen betragen 95200 EUR brutto. Die letzte Abschlagsrechnung über denselben Betrag liegt ebenfalls im Ordner. Es bestehen hier keine weiteren Einbehalte, Sicherheiten oder Minderungen. Der Unternehmer fordert jetzt 142800 EUR brutto. Erstelle die nachvollziehbare Rechnungskorrektur und das vollständige Schreiben zur verbleibenden Differenz.",
+      "input_files": [],
+      "deliverables": [
+        "rechnungspruefung.csv",
+        "rechnungsschreiben.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Kumuliert 142800 EUR brutto minus gezahlte 95200 EUR ergeben 47600 EUR brutto als verbleibender Betrag.",
+          "deliverables": [
+            "rechnungspruefung.csv",
+            "rechnungsschreiben.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Frühere Rechnung und Zahlung werden nicht doppelt abgezogen; Netto- und Bruttobasis bleiben nachvollziehbar.",
+          "deliverables": [
+            "rechnungspruefung.csv"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Schreiben erläutert die kumulative Doppelanforderung konkret und vollständig, ohne pauschale Fiktion sachlicher Richtigkeit oder ausgeführte Bankzahlung.",
+          "deliverables": [
+            "rechnungsschreiben.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maengel-abnahme-brandschutztor-offen",
+      "target_skill": "maengel-und-abnahme-bearbeiten",
+      "request": "Bereite das Abnahmeprotokoll für eine Halle vor. Drei dokumentierte oberflächliche Kratzer sind fachlich als rein optisch und unwesentlich beurteilt. Für das Brandschutztor fehlt die beauftragte Funktionsprüfung; seine tatsächliche Funktion und Mangelbedeutung sind offen. Der Auftraggeber möchte deshalb jede Abnahme pauschal ablehnen. Der bevollmächtigte Vertreter nimmt am Termin teil, hat noch keine Erklärung abgegeben. Eine Vertragsstrafe ist im Vertrag erwähnt, ihr Wortlaut fehlt. Erstelle Protokollentwurf und Entscheidungsvermerk, keine technische Freigabe und keine von dir erklärte Abnahme.",
+      "input_files": [],
+      "deliverables": [
+        "abnahmeprotokoll.md",
+        "abnahmeentscheidung.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Kratzer werden mit vorhandener fachlicher Einordnung, Tor mit fehlender Prüfung und offener Bedeutung dokumentiert; keine pauschale Gleichsetzung.",
+          "deliverables": [
+            "abnahmeprotokoll.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Unwesentliche Mängel allein tragen keine generelle Abnahmeverweigerung; das Tor verlangt konkrete weitere Fachprüfung statt automatischer Abnahme oder Ablehnung.",
+          "deliverables": [
+            "abnahmeentscheidung.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Bekannte Mängel, Vorbehalte, Vertretung und fehlender Vertragsstrafentext werden getrennt behandelt; keine unterstellte wirksame Strafklausel.",
+          "deliverables": [
+            "abnahmeprotokoll.md",
+            "abnahmeentscheidung.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Entwurf enthält keine erfundene Unterschrift, Besichtigung oder bereits abgegebene Abnahmeerklärung.",
+          "deliverables": [
+            "abnahmeprotokoll.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "buchhaltung-sammelzahlung-dublette",
+      "target_skill": "baubuchhaltung-und-belege-abgleichen",
+      "request": "Gleiche die Projektbelege ab. Rechnungen R-101 und R-102 betragen jeweils 11900 EUR brutto. Eine Bankzahlung über 23800 EUR enthält beide Nummern im Verwendungszweck und ist gebucht. R-101 liegt ein zweites Mal als Dateikopie mit gleichem Inhalt vor; sie wurde nicht gesondert bezahlt. Im offenen Postenbestand stehen noch beide Rechnungen. Umsatzsteuerbehandlung und Empfängeridentität sind für diese zwei Rechnungen bereits bestätigt. Erstelle Zuordnungstabelle und konkreten Buchungskorrekturvermerk, ohne Originalbelege zu löschen oder eigenständig endgültige Buchungen vorzunehmen.",
+      "input_files": [],
+      "deliverables": [
+        "belegabgleich.csv",
+        "buchungsvermerk.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "23800 EUR werden einmalig auf beide Rechnungen zu je 11900 EUR verteilt; verbleibender offener Betrag je Rechnung null bei bestätigter Zuordnung.",
+          "deliverables": [
+            "belegabgleich.csv"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Zweite R-101-Datei wird als Kopie, nicht als weiterer Umsatz, Zahlungsanspruch oder Rückzahlungsfall behandelt.",
+          "deliverables": [
+            "belegabgleich.csv",
+            "buchungsvermerk.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Vermerk benennt nachvollziehbare Korrektur des offenen Postenbestands und Prüfpfad, ohne Originale zu löschen oder ausgeführte Buchung vorzutäuschen.",
+          "deliverables": [
+            "buchungsvermerk.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sicherheiten-ablosung-nicht-verdoppeln",
+      "target_skill": "nachunternehmer-und-sicherheiten-steuern",
+      "request": "Erstelle die Sicherheitenübersicht und einen Entscheidungsvermerk zum Nachunternehmer NU-07. Ein Vertragserfüllungseinbehalt über 50000 EUR besteht. Der Vertrag erlaubt seine Ablösung durch eine inhaltlich gleichwertige Bürgschaft. Eine Bürgschaft über ebenfalls 50000 EUR wurde vorgelegt, der Originaltext und die Vertretungsnachweise des Ausstellers fehlen noch. Der Einkauf möchte Einbehalt und Bürgschaft dauerhaft als 100000 EUR Sicherheit führen. Abnahme und Mängelsicherungsphase sind noch nicht erreicht. Prüfe die konkrete Ablösung; kein Auszahlen des Einbehalts, kein Rücksenden der Urkunde und keine automatische Gültigkeitsbescheinigung.",
+      "input_files": [],
+      "deliverables": [
+        "sicherheiten.csv",
+        "abloesungsentscheidung.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Sicherungszweck Vertragserfüllung und beabsichtigte Ablösung werden ausgewiesen; keine pauschal kumulativ berechtigten 100000 EUR.",
+          "deliverables": [
+            "sicherheiten.csv"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Originalwortlaut, Gleichwertigkeit, Ausstellerbefugnis, Laufzeit und Vertragsbedingungen werden konkret als Prüfung vor Ablösung benannt.",
+          "deliverables": [
+            "abloesungsentscheidung.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Vertragserfüllung, Mängelsicherheit und gesetzliche Vergütungssicherung werden nicht vermischt; keine eigenmächtige Auszahlung, Rückgabe oder technische Erfüllungsbestätigung.",
+          "deliverables": [
+            "sicherheiten.csv",
+            "abloesungsentscheidung.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "projektbericht-schichtentscheidung",
+      "target_skill": "projektbericht-und-entscheidungsvorlage-erstellen",
+      "request": "Erstelle eine knappe, vollständige Entscheidungsvorlage für den Bauherrn, keine allgemeine Statussammlung. Der freigegebene Eröffnungstermin gerät laut belegter Terminrechnung um drei Arbeitstage in Gefahr. Eine zusätzliche Schicht könnte nach dieser Rechnung den Termin halten und kostet angeboten 18000 EUR netto. Technische Zulässigkeit, Personalverfügbarkeit und arbeitsbezogene Voraussetzungen der Schicht sind noch nicht bestätigt; eine Ersatzoption ist Verschieben der Eröffnung ohne derzeit bezifferte Folgekosten. Der Bauleiter hat keine Preisvollmacht. Benenne Basis, Abweichung, Optionen, Bedingungen und konkret zu treffende Entscheidung, ohne den Betrieb freizugeben.",
+      "input_files": [],
+      "deliverables": [
+        "entscheidungsvorlage.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Vorlage nennt drei Arbeitstage Abweichung gegenüber freigegebener Basis sowie Angebot über 18000 EUR netto, nicht bereits entstandene Kosten.",
+          "deliverables": [
+            "entscheidungsvorlage.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Schicht und Terminverschiebung werden mit belegten und offenen Folgen verglichen; unbezifferte Folgen werden nicht als null ausgegeben.",
+          "deliverables": [
+            "entscheidungsvorlage.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Beschlussvorschlag bleibt an technische, personelle und weitere nötige Prüfungen gebunden und nennt richtige Entscheidungskompetenz; keine Schicht- oder Preisfreigabe durch bloße Bauleitung.",
+          "deliverables": [
+            "entscheidungsvorlage.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Text ist eine verwendbare adressatengerechte Vorlage mit Anlass, Optionen und Beschluss statt Analysebericht ohne Entscheidung.",
+          "deliverables": [
+            "entscheidungsvorlage.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uebergabe-getrennte-abnahmen-fristen",
+      "target_skill": "uebergabe-und-gewaehrleistung-organisieren",
+      "request": "Erstelle das Übergaberegister und ein vollständiges Übergabeprotokoll. Rohbauvertrag: dokumentierte Abnahme am 01.08.2026. Vertrag technische Anlage: dokumentierte Abnahme am 15.09.2026. Der Aufzug läuft nur probeweise; keine Abnahme oder Nutzungsfreigabe ist belegt. Schlüssel werden am 25.09.2026 übergeben. Beide abgenommenen Verträge betreffen Bauwerksleistungen und vereinbaren ausdrücklich fünf Jahre ab jeweiliger Abnahme; besondere Hemmungs- oder Neubeginnereignisse sind bislang nicht bekannt. Betreiberunterweisung für den Aufzug fehlt. Berechne vorläufige Fristenden anhand dieser Angaben, kennzeichne Prüfbedarf und verschiebe nicht alle Anfänge auf den Schlüsseltag.",
+      "input_files": [],
+      "deliverables": [
+        "uebergaberegister.csv",
+        "uebergabeprotokoll.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Rohbau, technische Anlage und Aufzug werden getrennt geführt; Schlüsselübergabe erzeugt keinen gemeinsamen Abnahme- oder Fristbeginn.",
+          "deliverables": [
+            "uebergaberegister.csv",
+            "uebergabeprotokoll.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Unter den ausdrücklich gegebenen Annahmen stehen vorläufig 01.08.2031 und 15.09.2031 als Fristenden, mit Hinweis auf maßgebliche Regel und mögliche Hemmung oder Neubeginn.",
+          "deliverables": [
+            "uebergaberegister.csv"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Aufzug hat offenen Abnahme-/Freigabestatus und fehlende Einweisung; Probe- oder Schlüsselbetrieb wird nicht als sichere Nutzung bestätigt.",
+          "deliverables": [
+            "uebergabeprotokoll.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Dokumente, Betreiberzuständigkeit, offene Restpunkte und nächste konkrete Klärung sind im vollständigen Protokoll enthalten.",
+          "deliverables": [
+            "uebergabeprotokoll.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "skill_reviews": [
+    {
+      "skill_path": "bauwirtschaft/skills/bauprojekt-starten-und-arbeitsstand-fortfuehren/SKILL.md",
+      "sha256": "8508c709fd67a30948bc36293bd9e3fe2ce48edcdb15d11065db2ad43fac1fe0",
+      "case_id": "projektstart-planrevision-fortsetzen",
+      "reviewed_on": "2026-09-25",
+      "method": "desk_review",
+      "verdict": "retained",
+      "reason": "Am Hauptskill geprüft: Starttabelle, Engpassbearbeitung und verlangtes Dokument werden selbst erstellt. Die Fortsetzung erhält Kennungen; Geschwisterskills sind nur bedarfsweise Hilfe, kein Ersatz für das Ergebnis.",
+      "checked_points": [
+        "Eigenständiges Arbeitsprodukt: Liefere einen nutzbaren Projektarbeitsstand mit den bereits ausgeführten Berechnungen und dem konkret bestellten Dokument. Kein verpflichtendes Gesamtpaket bei einem engen Auftrag. Projektberichte dürfen den angeforderten Vertrags- oder Tabellentext nicht ersetzen.",
+        "Individueller Sachverhalt und beobachtbare Sollkriterien für projektstart-planrevision-fortsetzen angelegt; nicht ausgeführt.",
+        "Quellenpflicht, entscheidende Rückfragen, Fortsetzung und Trennung von Entwurf und Außenhandlung im Text geprüft."
+      ],
+      "runtime_status": "not_run"
+    },
+    {
+      "skill_path": "bauwirtschaft/skills/projektziele-und-entscheidungsrahmen-festlegen/SKILL.md",
+      "sha256": "0eb3ae59ba79c25610dd00ea8b4c227adba1c6d0bbe6d4b126c993a0cb801179",
+      "case_id": "projektziele-option-flachenerweiterung",
+      "reviewed_on": "2026-09-25",
+      "method": "desk_review",
+      "verdict": "retained",
+      "reason": "Bedarfsziel, Option und beauftragter Erfolg sind getrennt. Der Ablauf verlangt den ausgefüllten Projektauftrag und hält Kostenbasis sowie Rangfolge im Zielkonflikt fest.",
+      "checked_points": [
+        "Eigenständiges Arbeitsprodukt: Erstelle den ausformulierten Projektauftrag einschließlich ausgefüllter Zieltabelle und einer konkreten Entscheidungsvorlage für den offenen Zielkonflikt. Eine Zielzeile benennt messbare Anforderung und zuständige Entscheidung, kein Schlagwort.",
+        "Individueller Sachverhalt und beobachtbare Sollkriterien für projektziele-option-flachenerweiterung angelegt; nicht ausgeführt.",
+        "Quellenpflicht, entscheidende Rückfragen, Fortsetzung und Trennung von Entwurf und Außenhandlung im Text geprüft."
+      ],
+      "runtime_status": "not_run"
+    },
+    {
+      "skill_path": "bauwirtschaft/skills/hoai-phasen-und-planstaende-abgleichen/SKILL.md",
+      "sha256": "c45d56cb3572f57a46e2ee317c60b6c811ea82093850b3ac0bfd599ccf4a7846",
+      "case_id": "hoai-phase-acht-neun-planreife",
+      "reviewed_on": "2026-09-25",
+      "method": "desk_review",
+      "verdict": "retained",
+      "reason": "Anlage 10 ist das einschlägige Leistungsbild. Der Skill trennt tatsächlichen Planbeleg, Vertragsabruf, Honorarfrage und Bauleiterverantwortung; Phase 8 und 9 sind richtig abgegrenzt.",
+      "checked_points": [
+        "Eigenständiges Arbeitsprodukt: Liefere die ausgefüllte Leistungs- und Planstandsliste sowie bei Bedarf ein vollständiges Anforderungsschreiben. Kennzeichne die Reichweite einer reinen Dokumentenkontrolle. Keine Phasenbescheinigung, technische Freigabe oder Honorarfälligkeit aus bloßer Dateiexistenz.",
+        "Individueller Sachverhalt und beobachtbare Sollkriterien für hoai-phase-acht-neun-planreife angelegt; nicht ausgeführt.",
+        "Quellenpflicht, entscheidende Rückfragen, Fortsetzung und Trennung von Entwurf und Außenhandlung im Text geprüft."
+      ],
+      "runtime_status": "not_run"
+    },
+    {
+      "skill_path": "bauwirtschaft/skills/baubudget-und-kostenprognose-fortschreiben/SKILL.md",
+      "sha256": "081d4d5169f07ea7eea9859ebac4a3af8c354627a314b50dd6a869a34f792d2f",
+      "case_id": "kostenprognose-ohne-doppelzahlungen",
+      "reviewed_on": "2026-09-25",
+      "method": "desk_review",
+      "verdict": "retained",
+      "reason": "Die geprüften Schritte unterscheiden Grundauftrag, bestätigte Änderung, Restvergabe, Risiko und Zahlungen. Doppelzählung und Verwechslung von Budgetspielraum mit Liquidität werden ausdrücklich verhindert.",
+      "checked_points": [
+        "Eigenständiges Arbeitsprodukt: Liefere die durchgerechnete Kostentabelle mit Budgetvergleich und ausformulierter Entscheidungsempfehlung. Rechenannahmen und offene Werte sind getrennt von bestätigten Vertragsbeträgen auszuweisen.",
+        "Individueller Sachverhalt und beobachtbare Sollkriterien für kostenprognose-ohne-doppelzahlungen angelegt; nicht ausgeführt.",
+        "Quellenpflicht, entscheidende Rückfragen, Fortsetzung und Trennung von Entwurf und Außenhandlung im Text geprüft."
+      ],
+      "runtime_status": "not_run"
+    },
+    {
+      "skill_path": "bauwirtschaft/skills/bauablauf-und-terminplan-fortschreiben/SKILL.md",
+      "sha256": "38d445dd4bbc86347cedc165e71c49be055971d9a01d1ee07ef37303032bce82",
+      "case_id": "terminplan-fuenf-tage-zwei-puffer",
+      "reviewed_on": "2026-09-25",
+      "method": "desk_review",
+      "verdict": "retained",
+      "reason": "Terminfortschreibung arbeitet mit Kalender, Vorgängern, Ressourcen und Puffer. Der Skill trennt berechnete Ablaufwirkung von rechtlicher Fristverlängerung und eigenmächtiger Beschleunigung.",
+      "checked_points": [
+        "Eigenständiges Arbeitsprodukt: Liefere den tatsächlich aktualisierten Vorgangsplan mit Kalender und Abhängigkeiten sowie eine ausformulierte Terminentscheidung, soweit bestellt. Nicht beim beschreibenden Verzögerungsbericht stehenbleiben.",
+        "Individueller Sachverhalt und beobachtbare Sollkriterien für terminplan-fuenf-tage-zwei-puffer angelegt; nicht ausgeführt.",
+        "Quellenpflicht, entscheidende Rückfragen, Fortsetzung und Trennung von Entwurf und Außenhandlung im Text geprüft."
+      ],
+      "runtime_status": "not_run"
+    },
+    {
+      "skill_path": "bauwirtschaft/skills/projektliquiditaet-und-zahlungsplan-erstellen/SKILL.md",
+      "sha256": "f8db3376cdfbb7bb0fa10974fb517cc8d23c636ae81a1e39f12e7723414dfc2c",
+      "case_id": "liquiditaet-foerderung-nicht-zugesagt",
+      "reviewed_on": "2026-09-25",
+      "method": "desk_review",
+      "verdict": "retained",
+      "reason": "Zahlungsplan und Kostenprognose sind getrennte Produkte. Unsichere Finanzierung bleibt Szenario; bei Lücke verlangt der Skill konkrete Leitungsklärung ohne vollständigen Insolvenzstatus aus Teilinformationen.",
+      "checked_points": [
+        "Eigenständiges Arbeitsprodukt: Erstelle die ausgefüllte Zahlungsplanung mit Anfangs- und Endbeständen, belegter Basis und getrenntem Unsicherheitsszenario. Liefere eine vollständige Finanzierungsanfrage oder Entscheidungsnotiz, wenn dies der Auftrag ist.",
+        "Individueller Sachverhalt und beobachtbare Sollkriterien für liquiditaet-foerderung-nicht-zugesagt angelegt; nicht ausgeführt.",
+        "Quellenpflicht, entscheidende Rückfragen, Fortsetzung und Trennung von Entwurf und Außenhandlung im Text geprüft."
+      ],
+      "runtime_status": "not_run"
+    },
+    {
+      "skill_path": "bauwirtschaft/skills/vergabe-und-losbildung-vorbereiten/SKILL.md",
+      "sha256": "d2180b585feee70904007d5bc85c58d58917ed496784f7b06ac3342fba5cfa1c",
+      "case_id": "vergabe-gesamtwert-losbildung",
+      "reviewed_on": "2026-09-25",
+      "method": "desk_review",
+      "verdict": "retained",
+      "reason": "Gesamtwert, Optionen, Leistungsart, Landesbezug und Zeitpunkt sind eigene Prüfschritte. Quellenkarte warnt vor historischen Absatztexten und nicht vollständig geprüften VOB/A-Änderungen.",
+      "checked_points": [
+        "Eigenständiges Arbeitsprodukt: Liefere ausgefüllten Vergabefahrplan, nachvollziehbare Wertschätzung und ausformulierte Losentscheidung. Ungeklärtes Regime wird als konkrete Freigabevoraussetzung kenntlich, nicht als angeblich bereits rechtssicheres Verfahren.",
+        "Individueller Sachverhalt und beobachtbare Sollkriterien für vergabe-gesamtwert-losbildung angelegt; nicht ausgeführt.",
+        "Quellenpflicht, entscheidende Rückfragen, Fortsetzung und Trennung von Entwurf und Außenhandlung im Text geprüft."
+      ],
+      "runtime_status": "not_run"
+    },
+    {
+      "skill_path": "bauwirtschaft/skills/leistungsverzeichnis-erstellen-und-pruefen/SKILL.md",
+      "sha256": "f407f14bc1d008727fa7ca74c32bb4f798348c24a75135b906e0ecabd4801a87",
+      "case_id": "lv-wandflaeche-vertragsregel",
+      "reviewed_on": "2026-09-25",
+      "method": "desk_review",
+      "verdict": "retained",
+      "reason": "Der LV-Ablauf prüft Beschreibung, Einheit, Maßgrundlage und Schnittstellen. Geometrie wird von vertraglicher Abrechnung getrennt; technische Regeltexte werden nicht aus Modellwissen ergänzt.",
+      "checked_points": [
+        "Eigenständiges Arbeitsprodukt: Liefere das vollständige LV oder die vollständig neu gefassten beauftragten Positionen mit ausgefüllten Mengenansätzen. Ein reiner Prüfbericht ist kein Ersatz. Technische Klärpunkte und Exporthinweise stehen außerhalb der ausschreibungsfähigen Positionstexte.",
+        "Individueller Sachverhalt und beobachtbare Sollkriterien für lv-wandflaeche-vertragsregel angelegt; nicht ausgeführt.",
+        "Quellenpflicht, entscheidende Rückfragen, Fortsetzung und Trennung von Entwurf und Außenhandlung im Text geprüft."
+      ],
+      "runtime_status": "not_run"
+    },
+    {
+      "skill_path": "bauwirtschaft/skills/bauangebote-werten-und-vergabevorschlag-erstellen/SKILL.md",
+      "sha256": "fcd99044e41d3730ee151fcbeed43f570631ea9a3e780e2c3e3f6ed90f498161",
+      "case_id": "angebotswertung-fehlende-pflichtleistung",
+      "reviewed_on": "2026-09-25",
+      "method": "desk_review",
+      "verdict": "retained",
+      "reason": "Wertungsmaßstab, Vollständigkeit und Preisvergleich stehen getrennt. Der Skill lässt keine eigenmächtige Angebotsreparatur oder nachträgliche Gewichtung zu und liefert den Vergabevorschlag ausformuliert.",
+      "checked_points": [
+        "Eigenständiges Arbeitsprodukt: Liefere den vollständig gerechneten Preisspiegel und einen ausformulierten Vergabevorschlag mit begründeter Rangfolge oder konkret offener Wertungsentscheidung. Keine bloße Ampeltabelle ohne Entscheidungsgrund.",
+        "Individueller Sachverhalt und beobachtbare Sollkriterien für angebotswertung-fehlende-pflichtleistung angelegt; nicht ausgeführt.",
+        "Quellenpflicht, entscheidende Rückfragen, Fortsetzung und Trennung von Entwurf und Außenhandlung im Text geprüft."
+      ],
+      "runtime_status": "not_run"
+    },
+    {
+      "skill_path": "bauwirtschaft/skills/bieterfragen-und-ruegen-bearbeiten/SKILL.md",
+      "sha256": "d36cb537dec0d4d058e956a513aef5c103fd601eeb5f040418a6694f528a8455",
+      "case_id": "bieterfrage-erkennbare-vorgabe-frist",
+      "reviewed_on": "2026-09-25",
+      "method": "desk_review",
+      "verdict": "retained",
+      "reason": "Bieterfrage, Rüge, Antwort und Nachprüfung werden rollenbezogen abgegrenzt. Der Ablauf prüft Auslöser statt Universalfrist und verlangt Abhilfe sowie vollständigen Entwurf ohne ungefragten Versand.",
+      "checked_points": [
+        "Eigenständiges Arbeitsprodukt: Liefere ein vollständiges Schreiben oder eine veröffentlichungsfähige Antwort. Interner Fristenvermerk, Zugangsunsicherheit und Rechtsquellenprüfung stehen getrennt vom Empfängertext.",
+        "Individueller Sachverhalt und beobachtbare Sollkriterien für bieterfrage-erkennbare-vorgabe-frist angelegt; nicht ausgeführt.",
+        "Quellenpflicht, entscheidende Rückfragen, Fortsetzung und Trennung von Entwurf und Außenhandlung im Text geprüft."
+      ],
+      "runtime_status": "not_run"
+    },
+    {
+      "skill_path": "bauwirtschaft/skills/bauvertrag-und-schnittstellen-ausformulieren/SKILL.md",
+      "sha256": "60ed13838df8c2ea32bbf06d4079f74f29975dfb8dba4274eced9280be4d082f",
+      "case_id": "vertrag-schnittstelle-vertragsstrafenklausel",
+      "reviewed_on": "2026-09-25",
+      "method": "desk_review",
+      "verdict": "retained",
+      "reason": "Schnittstellen werden als vollständige Regelung geschrieben. Technische Koordination, Preisvollmacht, VOB/B-Einbeziehung und AGB-Kontrolle bleiben getrennt; ein Vertragsstrafenprozentsatz ist kein Freigabekriterium.",
+      "checked_points": [
+        "Eigenständiges Arbeitsprodukt: Liefere den vollständigen beauftragten Vertrag oder die vollständig formulierte Schnittstellenvereinbarung. Anlagen eindeutig mit Stand bezeichnen. Interne offene Punkte und Quellenprotokoll getrennt halten.",
+        "Individueller Sachverhalt und beobachtbare Sollkriterien für vertrag-schnittstelle-vertragsstrafenklausel angelegt; nicht ausgeführt.",
+        "Quellenpflicht, entscheidende Rückfragen, Fortsetzung und Trennung von Entwurf und Außenhandlung im Text geprüft."
+      ],
+      "runtime_status": "not_run"
+    },
+    {
+      "skill_path": "bauwirtschaft/skills/bautagebuch-und-aufmass-fuehren/SKILL.md",
+      "sha256": "b86deb09c8b10e71c5e42424a78f9e543a6623970189f19baf8a60d210309cb7",
+      "case_id": "bautagebuch-kumuliertes-aufmass",
+      "reviewed_on": "2026-09-25",
+      "method": "desk_review",
+      "verdict": "revised",
+      "reason": "Aufmaß unterscheidet kumulierten Stand und Zuwachs, Bericht trennt Beobachtung und Behauptung. Sicherheitsabschnitt wurde auf Nutzerhinweis und Kommunikationsvorbereitung ohne eigene Kontaktaktion präzisiert.",
+      "checked_points": [
+        "Eigenständiges Arbeitsprodukt: Liefere je Datei einen vollständigen Tagesbericht oder ein zusammengehöriges Aufmaßdokument, keine Sammlung mehrerer fremder Schreiben. Zahlenfelder sind ausgefüllt und Rechenwege nachvollziehbar; Beobachtungen werden in ganzen Sätzen beschrieben.",
+        "Individueller Sachverhalt und beobachtbare Sollkriterien für bautagebuch-kumuliertes-aufmass angelegt; nicht ausgeführt.",
+        "Kommunikation nur vorbereiten und Nutzer auf Fachzuständigkeit hinweisen; keine eigenmächtige Kontaktaktion."
+      ],
+      "runtime_status": "not_run"
+    },
+    {
+      "skill_path": "bauwirtschaft/skills/behinderung-und-bauzeitfolgen-dokumentieren/SKILL.md",
+      "sha256": "3e34112b887a8028e8429b12a6653799e0171ac54d3f33fa623fac5d9fb40932",
+      "case_id": "behinderung-nord-sued-kausalitaet",
+      "reviewed_on": "2026-09-25",
+      "method": "desk_review",
+      "verdict": "retained",
+      "reason": "Behinderungsdarstellung verknüpft Ursache und konkreten Vorgang statt gesamter Baustelle. Ersatzmaßnahmen, Vertragsregime und verschiedene Anspruchsarten werden getrennt, die Anzeige wird tatsächlich formuliert.",
+      "checked_points": [
+        "Eigenständiges Arbeitsprodukt: Liefere das vollständige Schreiben sowie, soweit benötigt, die ausgefüllte Ereignis- und Bauzeitdarstellung mit Belegen. Ein Tabellenstatus „Anspruch offen“ darf den geforderten Anzeigetext nicht ersetzen.",
+        "Individueller Sachverhalt und beobachtbare Sollkriterien für behinderung-nord-sued-kausalitaet angelegt; nicht ausgeführt.",
+        "Quellenpflicht, entscheidende Rückfragen, Fortsetzung und Trennung von Entwurf und Außenhandlung im Text geprüft."
+      ],
+      "runtime_status": "not_run"
+    },
+    {
+      "skill_path": "bauwirtschaft/skills/nachtraege-pruefen-und-vereinbaren/SKILL.md",
+      "sha256": "873baee79b286221994d77afe6d7ab0acc5d701f72e0f489ec97627fdfd578b2",
+      "case_id": "nachtrag-altleistung-abziehen",
+      "reviewed_on": "2026-09-25",
+      "method": "desk_review",
+      "verdict": "retained",
+      "reason": "Nachtragstyp, Grund, Menge, Preis und Befugnis werden vor Vereinbarung geprüft. Minderleistungen und unbelegte Bauzeitpositionen bleiben getrennt; gesetzliche Abschlagsregeln werden nicht pauschal übertragen.",
+      "checked_points": [
+        "Eigenständiges Arbeitsprodukt: Liefere die nachvollziehbare Nachtragsberechnung und das ausdrücklich bestellte vollständige Prüfblatt oder die vollständige Nachtragsvereinbarung. Tabellenfelder allein ersetzen keine vertragliche Regelung.",
+        "Individueller Sachverhalt und beobachtbare Sollkriterien für nachtrag-altleistung-abziehen angelegt; nicht ausgeführt.",
+        "Quellenpflicht, entscheidende Rückfragen, Fortsetzung und Trennung von Entwurf und Außenhandlung im Text geprüft."
+      ],
+      "runtime_status": "not_run"
+    },
+    {
+      "skill_path": "bauwirtschaft/skills/baurechnungen-pruefen-und-zahlung-vorbereiten/SKILL.md",
+      "sha256": "dffd231bdabdf31393c6ba96612095dd4f5be738b6bd43fcc085dd7c238e12ed",
+      "case_id": "rechnung-kumuliert-netto-brutto",
+      "reviewed_on": "2026-09-25",
+      "method": "desk_review",
+      "verdict": "retained",
+      "reason": "Rechnungsprüfung trennt Leistungsstand, Rechnung, tatsächliche Zahlung und Abzug. Prüffähigkeit wird nicht als sachliches Anerkenntnis behandelt; Zahlungsvorbereitung bleibt interne Arbeit.",
+      "checked_points": [
+        "Eigenständiges Arbeitsprodukt: Liefere die ausgefüllte Rechnungsprüfung und den ausformulierten Prüfvermerk beziehungsweise Einwendungsbrief. Trenne das Zahlungsvotum von technischer Bestätigung, steuerlicher Prüfung und tatsächlicher Bankfreigabe.",
+        "Individueller Sachverhalt und beobachtbare Sollkriterien für rechnung-kumuliert-netto-brutto angelegt; nicht ausgeführt.",
+        "Quellenpflicht, entscheidende Rückfragen, Fortsetzung und Trennung von Entwurf und Außenhandlung im Text geprüft."
+      ],
+      "runtime_status": "not_run"
+    },
+    {
+      "skill_path": "bauwirtschaft/skills/maengel-und-abnahme-bearbeiten/SKILL.md",
+      "sha256": "b7d7951cc164c4bc51093b9b5560d754dc77a0cb4e2e1d01730afb585ab63fce",
+      "case_id": "maengel-abnahme-brandschutztor-offen",
+      "reviewed_on": "2026-09-25",
+      "method": "desk_review",
+      "verdict": "retained",
+      "reason": "Mängelstatus, Bedeutung, Abnahmeentscheidung und Vorbehalte bleiben getrennt. Der Skill verlangt vollständiges Protokoll mit belegter Befugnis und keine technische Schlussfolgerung aus unzureichender Aktenlage.",
+      "checked_points": [
+        "Eigenständiges Arbeitsprodukt: Liefere je Datei das vollständige Mängelschreiben oder Abnahmeprotokoll. Eine Liste von Mängelnummern ergänzt den Text, ersetzt jedoch nicht Status, gewünschte Handlung und nachvollziehbare Erklärung.",
+        "Individueller Sachverhalt und beobachtbare Sollkriterien für maengel-abnahme-brandschutztor-offen angelegt; nicht ausgeführt.",
+        "Quellenpflicht, entscheidende Rückfragen, Fortsetzung und Trennung von Entwurf und Außenhandlung im Text geprüft."
+      ],
+      "runtime_status": "not_run"
+    },
+    {
+      "skill_path": "bauwirtschaft/skills/baubuchhaltung-und-belege-abgleichen/SKILL.md",
+      "sha256": "fef95bc355304b617d2ce5a8361158630ad699b5b309a3c6b69a2b96340912f5",
+      "case_id": "buchhaltung-sammelzahlung-dublette",
+      "reviewed_on": "2026-09-25",
+      "method": "desk_review",
+      "verdict": "retained",
+      "reason": "Beleg, Buchung und Zahlung werden mit Identifikatoren abgeglichen. Dubletten, Sammelzahlungen und Korrekturweg sind individuelle Arbeitsschritte; steuerliche Einordnung ist keine Bauunternehmenspauschale.",
+      "checked_points": [
+        "Eigenständiges Arbeitsprodukt: Liefere eine ausgefüllte Abstimmliste mit eindeutigen Belegbezügen, verbleibenden Differenzen und ausformulierten Korrekturaufträgen. Keine verbuchten Korrekturen oder geprüfte Steuererklärung behaupten.",
+        "Individueller Sachverhalt und beobachtbare Sollkriterien für buchhaltung-sammelzahlung-dublette angelegt; nicht ausgeführt.",
+        "Quellenpflicht, entscheidende Rückfragen, Fortsetzung und Trennung von Entwurf und Außenhandlung im Text geprüft."
+      ],
+      "runtime_status": "not_run"
+    },
+    {
+      "skill_path": "bauwirtschaft/skills/nachunternehmer-und-sicherheiten-steuern/SKILL.md",
+      "sha256": "23fad572475b5b4003ce8224c0c1a705ff7eef807910065ea38823897fa17787",
+      "case_id": "sicherheiten-ablosung-nicht-verdoppeln",
+      "reviewed_on": "2026-09-25",
+      "method": "desk_review",
+      "verdict": "retained",
+      "reason": "Sicherheiten werden nach Zweck, Urkunde, Betrag, Laufzeit und Ablösung geführt. Paralleleinbehalte sind kein Automatismus; Übergang zur Mängelphase und Rückgabe benötigen konkrete Prüfung.",
+      "checked_points": [
+        "Eigenständiges Arbeitsprodukt: Liefere die ausgefüllte Leistungs- und Sicherheitenübersicht und das bestellte ausformulierte Schreiben. Urkundenstatus und Rückgabeentscheidung müssen erkennbar verschieden sein.",
+        "Individueller Sachverhalt und beobachtbare Sollkriterien für sicherheiten-ablosung-nicht-verdoppeln angelegt; nicht ausgeführt.",
+        "Quellenpflicht, entscheidende Rückfragen, Fortsetzung und Trennung von Entwurf und Außenhandlung im Text geprüft."
+      ],
+      "runtime_status": "not_run"
+    },
+    {
+      "skill_path": "bauwirtschaft/skills/projektbericht-und-entscheidungsvorlage-erstellen/SKILL.md",
+      "sha256": "c873a14fcfc42fdc7dcc3522e8a2b06e60a9fd91f7c328c1d7175a8cd25b9836",
+      "case_id": "projektbericht-schichtentscheidung",
+      "reviewed_on": "2026-09-25",
+      "method": "desk_review",
+      "verdict": "revised",
+      "reason": "Bericht und Entscheidung sind ein konkretes Produkt mit Basis, Abweichung und Wahl. Redaktionell wurde die Anweisung zur konkreten Abweichung korrigiert; Bedingungen ersetzen keine fachliche Freigabe.",
+      "checked_points": [
+        "Eigenständiges Arbeitsprodukt: Liefere den vollständigen Projektbericht oder Beschlussentwurf mit entscheidungsrelevanten Tabellen. Interne Quellenkontrolle und fehlende Fachfreigaben getrennt darstellen; keine aufgeblähte Vollakte anhängen.",
+        "Individueller Sachverhalt und beobachtbare Sollkriterien für projektbericht-schichtentscheidung angelegt; nicht ausgeführt.",
+        "Anweisung zur Benennung der konkreten Abweichung sprachlich korrigiert; kein ungeprüfter Freigabeautomatismus."
+      ],
+      "runtime_status": "not_run"
+    },
+    {
+      "skill_path": "bauwirtschaft/skills/uebergabe-und-gewaehrleistung-organisieren/SKILL.md",
+      "sha256": "d2ab6dba3e6e05465ec8680149d4a86f869ba3239f05d1b2487c56967952c6fb",
+      "case_id": "uebergabe-getrennte-abnahmen-fristen",
+      "reviewed_on": "2026-09-25",
+      "method": "desk_review",
+      "verdict": "retained",
+      "reason": "Übergabe wird vom rechtsgeschäftlichen Abnahmeereignis und von Nutzungsfreigaben getrennt. Fristen bleiben vertrags- und ereignisbezogen; eine Mängelmail oder Schlüsselübergabe wird nicht pauschal friständernd behandelt.",
+      "checked_points": [
+        "Eigenständiges Arbeitsprodukt: Liefere je Datei ein vollständiges Übergabeprotokoll oder das zusammengehörige Gewährleistungsregister. Restpunkte dürfen offen sein, müssen aber konkrete Zuständigkeit und nächsten Schritt haben. Kein pauschales Siegel „mängelfrei übergeben“.",
+        "Individueller Sachverhalt und beobachtbare Sollkriterien für uebergabe-getrennte-abnahmen-fristen angelegt; nicht ausgeführt.",
+        "Quellenpflicht, entscheidende Rückfragen, Fortsetzung und Trennung von Entwurf und Außenhandlung im Text geprüft."
+      ],
+      "runtime_status": "not_run"
+    }
+  ]
+}

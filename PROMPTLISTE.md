@@ -32,7 +32,7 @@ Kategorien sind alphabetisch nach Titel sortiert, Einträge innerhalb jeder Kate
 | [Anwaltliches Berufsrecht und Kanzleimanagement](#anwaltliches-berufsrecht-und-kanzleimanagement) | 17 |
 | [Arbeitsrecht](#arbeitsrecht) | 7 |
 | [Bank- und Kapitalmarktrecht](#bank--und-kapitalmarktrecht) | 6 |
-| [Bau- und Architektenrecht](#bau--und-architektenrecht) | 6 |
+| [Bau- und Architektenrecht](#bau--und-architektenrecht) | 7 |
 | [BGB Allgemeiner Teil und Methodenlehre](#bgb-allgemeiner-teil-und-methodenlehre) | 7 |
 | [BGB Besonderer Teil - Allgemeines Schuldrecht und Bereicherungsrecht](#bgb-besonderer-teil---allgemeines-schuldrecht-und-bereicherungsrecht) | 5 |
 | [Erbrecht](#erbrecht) | 1 |
@@ -63,7 +63,7 @@ Kategorien sind alphabetisch nach Titel sortiert, Einträge innerhalb jeder Kate
 | [Versicherungsrecht](#versicherungsrecht) | 3 |
 | [Verwaltungsrecht](#verwaltungsrecht) | 32 |
 
-231 kuratierte Plugins in 34 Kategorien, aus insgesamt 244 Marketplace-Plugins (Abgleich: 23. September 2026). Gezählt werden Plugins, nicht einzelne Skills oder Prompt-Dateien.
+232 kuratierte Plugins in 34 Kategorien, aus insgesamt 245 Marketplace-Plugins (Abgleich: 25. September 2026). Gezählt werden Plugins, nicht einzelne Skills oder Prompt-Dateien.
 
 ## Agrarrecht
 
@@ -112,6 +112,7 @@ Kategorien sind alphabetisch nach Titel sortiert, Einträge innerhalb jeder Kate
 ## Bau- und Architektenrecht
 
 - [bautraegervertrag-pruefer](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bautraegervertrag-pruefer): Bauträgervertrag-Prüfer aus Verbrauchersicht: MaBV, Paragrafen 650u/650v BGB, Paragraf 650m Abs. 2 BGB, AGB, Baubeschreibung, Abnahme, Schlussrate, WEG, Vormerkung, Lastenfreistellung und Drei-Dokumente-Ausgabe. · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bautraegervertrag-pruefer/bautraegervertrag-pruefer-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bautraegervertrag-pruefer/bautraegervertrag-pruefer-werkstatt.md)
+- [bauwirtschaft](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bauwirtschaft): Zwanzig Arbeitsabläufe für Bauunternehmen, Bauherren und Projektsteuerer: HOAI-Planung, Vergabe, Baukosten, Termine, Nachträge, Rechnungsprüfung, Baustellenbelege und Buchhaltung. · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauwirtschaft/bauwirtschaft-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauwirtschaft/bauwirtschaft-werkstatt.md)
 - [erbbaurecht-praxis](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/erbbaurecht-praxis): Praxisplugin für Erbbaurecht und Erbbaugrundbuch: Erbbaurechtsvertrag, Erbbauzins, Wertsicherung, Heimfall, Zustimmung, Belastung, Finanzierung, Veräußerung… · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=erbbaurecht-praxis/erbbaurecht-praxis-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=erbbaurecht-praxis/erbbaurecht-praxis-werkstatt.md)
 - [fachanwalt-bau-architektenrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-bau-architektenrecht): Plugin Fachanwalt für Bau- und Architektenrecht. BGB Werkvertrag VOB-A VOB-B VOB-C HOAI Bauordnungsrecht. Bauvertrag Mängelhaftung Abnahme Vergaberecht · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-bau-architektenrecht/fachanwalt-bau-architektenrecht-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-bau-architektenrecht/fachanwalt-bau-architektenrecht-werkstatt.md)
 - [hoai-leistungsphasen-praxis](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/hoai-leistungsphasen-praxis): Großplugin für HOAI-Leistungsphasen 1 bis 9: Grundlagenermittlung, Vorplanung, Entwurf, Genehmigung, Ausführungsplanung, Vergabe, Bauüberwachung… · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=hoai-leistungsphasen-praxis/hoai-leistungsphasen-praxis-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=hoai-leistungsphasen-praxis/hoai-leistungsphasen-praxis-werkstatt.md)

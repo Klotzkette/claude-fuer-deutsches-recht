@@ -5,7 +5,7 @@
 
 Großplugin für HOAI-Leistungsphasen 1 bis 9: Grundlagenermittlung, Vorplanung, Entwurf, Genehmigung, Ausführungsplanung, Vergabe, Bauüberwachung, Objektbetreuung, Honorar, Vertrag, Haftung, Nachträge und Bauprojektsteuerung.
 
-Dieses Plugin gehört zum Marketplace mit 244 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 245 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -48,9 +48,9 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`hoai-leistungsphasen-praxis.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/hoai-leistungsphasen-praxis.zip) |
 | Kompakter Prompt (Schnellstart) | Markdown | [`hoai-leistungsphasen-praxis-schnellstart.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=hoai-leistungsphasen-praxis/hoai-leistungsphasen-praxis-schnellstart.md) |
 | Großer Prompt (Werkstatt) | Markdown | [`hoai-leistungsphasen-praxis-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=hoai-leistungsphasen-praxis/hoai-leistungsphasen-praxis-werkstatt.md) |
-| Zugeordnete Testakten | PDF / ZIP | [2 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
+| Zugeordnete Testakten | PDF / ZIP | [3 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 244 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 245 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -63,6 +63,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
 | [Der große Baufall - Talbrücke Fuchsbachtal und Tunnel Hirschleite](../testakten/baurecht-grosser-baufall-talbruecke-tunnel-a44/README.md) | [Gesamt-PDF](../testakten/baurecht-grosser-baufall-talbruecke-tunnel-a44/gesamt-pdf/baurecht-grosser-baufall-talbruecke-tunnel-a44_gesamt.pdf) | [`testakte-baurecht-grosser-baufall-talbruecke-tunnel-a44.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-baurecht-grosser-baufall-talbruecke-tunnel-a44.zip) | [`testakte-baurecht-grosser-baufall-talbruecke-tunnel-a44-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-baurecht-grosser-baufall-talbruecke-tunnel-a44-einzelpdfs.zip) |
+| [Bürgerhaus Leinewinkel in Einbeck](../testakten/bauwirtschaft-hoai-buergerhaus-einbeck/README.md) | [Gesamt-PDF](../testakten/bauwirtschaft-hoai-buergerhaus-einbeck/gesamt-pdf/bauwirtschaft-hoai-buergerhaus-einbeck_gesamt.pdf) | [`testakte-bauwirtschaft-hoai-buergerhaus-einbeck.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bauwirtschaft-hoai-buergerhaus-einbeck.zip) | [`testakte-bauwirtschaft-hoai-buergerhaus-einbeck-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bauwirtschaft-hoai-buergerhaus-einbeck-einzelpdfs.zip) |
 | [Kita Mühlenhof Lichtenrade - HOAI-Leistungsphasen und Bauüberwachung 2026](../testakten/hoai-leistungsphasen-kita-muehlenhof-lichtenrade-2026/README.md) | [Gesamt-PDF](../testakten/hoai-leistungsphasen-kita-muehlenhof-lichtenrade-2026/gesamt-pdf/hoai-leistungsphasen-kita-muehlenhof-lichtenrade-2026_gesamt.pdf) | [`testakte-hoai-leistungsphasen-kita-muehlenhof-lichtenrade-2026.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-hoai-leistungsphasen-kita-muehlenhof-lichtenrade-2026.zip) | [`testakte-hoai-leistungsphasen-kita-muehlenhof-lichtenrade-2026-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-hoai-leistungsphasen-kita-muehlenhof-lichtenrade-2026-einzelpdfs.zip) |
 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)

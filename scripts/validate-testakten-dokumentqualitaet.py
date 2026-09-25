@@ -45,6 +45,7 @@ PREFIXES = (
     "versausgleich-",
     "vertragserstellung-",
     "wirtschaftsanwalt-",
+    "bauwirtschaft-",
     "zugewinnausgleich-",
 )
 FORMAL_EXTS = {".docx", ".eml", ".pdf"}

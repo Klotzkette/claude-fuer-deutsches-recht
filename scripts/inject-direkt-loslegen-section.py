@@ -279,6 +279,7 @@ def compact_prompt_fragment(value: str, limit: int = 210) -> str:
 
 
 HANDCURATED_FIRST_PRODUCTS = {
+    "bauwirtschaft": "Erstelle den benötigten Bauprojektstand mit belegten Kosten, Terminen und Zuständigkeiten. Erarbeite daraus den konkreten Vergabevermerk, Kostenbericht, Rechnungsabgleich oder Brief und arbeite Rückantworten in denselben Stand ein",
     "anwaltschaft-generell": "das konkret beauftragte Mandanten- oder Gegnerschreiben, die Vertragsänderung oder den Schriftsatz aus den vorhandenen Belegen; kläre nur die dafür entscheidenden offenen Tatsachen",
     "corporate-contract-law": "einen vollständigen Wirtschaftsvertrag, eine konkrete Gegenfassung oder den vereinbarten Nachtrag; verbinde Leistungsbeschreibung, Vergütung, Risikoverteilung und Anlagen widerspruchsfrei",
     "vertragserstellung": "den bestellten Vertrag oder Nachtrag aus Angebot, Leistungsunterlagen und Verhandlungsstand; kläre nur die noch offene wirtschaftliche Entscheidung und führe denselben Entwurf bis zur Endfassung fort",
@@ -461,6 +462,9 @@ def block(plugin: dict, directory: Path, akten_slugs: list[str], marketplace_cou
     if plugin_name in {"vertragserstellung", "wirtschaftsanwalt"}:
         skill_note = "Alle zehn Skills sind im Plugin unmittelbar enthalten. Der Hauptskill bearbeitet den Auftrag selbst; die übrigen Skills vertiefen konkrete Teilfragen. Bei einem einzelnen Skill-Download müssen seine verlinkten Referenzen zusätzlich verfügbar sein."
         skill_note_en = "All ten skills are included directly in the plugin. The main skill carries out the assignment; the others address specific issues. A downloaded individual skill also needs its linked references."
+    elif plugin_name == "bauwirtschaft":
+        skill_note = "Alle zwanzig Skills sind im Plugin unmittelbar enthalten. Die Projektsteuerung verbindet Kosten, Termine, Vergabe und Bauausführung; ein Fachskill vertieft nur die anstehende Aufgabe. Technische Prüfungen und Freigaben bleiben bei den dafür zuständigen Fachleuten."
+        skill_note_en = "All twenty skills are included directly in the plugin. Project coordination connects costs, schedules, procurement and construction; specialist skills deepen the current task. Technical inspections and approvals remain with the responsible professionals."
     return ensure_download_notices(f"""{BEGIN}
 ## Was ist das hier?
 

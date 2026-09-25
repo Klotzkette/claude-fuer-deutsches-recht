@@ -9,7 +9,7 @@
 
 Grundsteuer von der Immobilie bis zum richtigen Rechtsbehelf: zehn Arbeitswege zu Lage, Landesmodell, Wert, Messbetrag, Hebesatz, Einspruch und Eilrechtsschutz mit nachrechenbaren Ergebnissen.
 
-Dieses Plugin gehört zum Marketplace mit 244 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 245 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 <!-- decimal-anchor --> <a id="welche-datei-wofür--which-file-should-i-use"></a>
 
@@ -60,7 +60,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`grundsteuerrecht-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundsteuerrecht/grundsteuerrecht-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [3 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 244 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 245 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 <!-- decimal-anchor --> <a id="zugeordnete-testakten"></a>
 
