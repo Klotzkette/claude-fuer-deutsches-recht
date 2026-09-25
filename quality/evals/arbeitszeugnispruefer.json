@@ -1,90 +1,95 @@
 {
   "schema_version": 1,
   "plugin": "arbeitszeugnispruefer",
-  "reviewed_on": "2026-09-23",
+  "reviewed_on": "2026-09-25",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/gewo/__109.html",
-      "checked_on": "2026-09-15",
-      "supports": "Zeugnisklarheit und elektronische Form mit Einwilligung."
+      "checked_on": "2026-09-25",
+      "supports": "Zeugnisinhalt, Klarheitsgebot und elektronische Form nur mit Einwilligung."
     },
     {
       "url": "https://www.gesetze-im-internet.de/bgb/__126a.html",
-      "checked_on": "2026-09-15",
+      "checked_on": "2026-09-25",
       "supports": "Qualifizierte elektronische Signatur als Voraussetzung elektronischer Form."
     },
     {
+      "url": "https://www.gesetze-im-internet.de/bgb/__612a.html",
+      "checked_on": "2026-09-25",
+      "supports": "Maßregelungsverbot bei Benachteiligung wegen zulässiger Rechtsausübung."
+    },
+    {
       "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-386-10/",
-      "checked_on": "2026-09-15",
-      "supports": "Die Wendung kennen gelernt ist nicht isoliert als Geheimcode zu behandeln."
+      "checked_on": "2026-09-25",
+      "supports": "Gesamtbetrachtung und objektiver Empfängerhorizont; kennen gelernt nicht isoliert als Geheimcode behandeln."
     },
     {
       "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-584-13/",
-      "checked_on": "2026-09-15",
-      "supports": "Tatsachenlast bei begehrter überdurchschnittlicher Schlussbewertung."
+      "checked_on": "2026-09-25",
+      "supports": "Darlegungs- und Beweislast bei begehrter überdurchschnittlicher Schlussbewertung; keine Übertragung auf objektive Form- oder Stammdatenfehler."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-262-20/",
+      "checked_on": "2026-09-25",
+      "supports": "Schulzeugnisartige Einzelnotentabelle genügt regelmäßig nicht; kein allgemeines Listenverbot und keine automatische bessere Note."
     },
     {
       "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-227-11/",
-      "checked_on": "2026-09-15",
-      "supports": "Kein regelmäßiger Anspruch auf eine bestimmte Dankes- und Wunschformel."
+      "checked_on": "2026-09-25",
+      "supports": "Bloße Unzufriedenheit mit einer freiwilligen Schlussformel begründet keinen Anspruch auf einen Wunschtext; Entfernung kann verlangt werden."
     },
     {
       "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-146-21/",
-      "checked_on": "2026-09-15",
-      "supports": "Bestätigung, dass § 109 GewO regelmäßig keinen Anspruch auf eine Dankes- und Wunschformel vermittelt."
+      "checked_on": "2026-09-25",
+      "supports": "Kein allgemeiner gesetzlicher Anspruch auf erstmalige Dankes-, Bedauerns- und Wunschformel; Zusagen gesondert prüfen."
     },
     {
       "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-272-22/",
-      "checked_on": "2026-09-15",
-      "supports": "Maßregelungsverbot bei nachteiliger Entfernung einer zuvor erteilten Schlussformel."
+      "checked_on": "2026-09-25",
+      "supports": "Entfernung einer erteilten Schlussformel wegen berechtigter Beanstandung am Maßregelungsverbot prüfen; zeitliche Nähe allein genügt nicht."
     },
     {
-      "url": "https://www.gesetze-im-internet.de/bgb/__126a.html",
-      "checked_on": "2026-09-22",
-      "supports": "Aktueller amtlicher Normtext zur Prüfung: Paragraf 109 Absatz 3 GewO; Paragraf 126a BGB; Paragraf 612a BGB. Keine Gesamtverifikation sämtlicher Nebenmaterien."
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azb-49-16/",
+      "checked_on": "2026-09-25",
+      "supports": "Eine bloße Notenstufe im Titel legt regelmäßig keine vollstreckbare konkrete Zeugnisformulierung fest."
     },
     {
-      "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-146-21/",
-      "checked_on": "2026-09-22",
-      "supports": "BAG, Urteil vom 25.01.2022, 9 AZR 146/21: Fehlenden Dank nicht allein als gesetzlichen Berichtigungsanspruch behandeln; vertragliche Zusage oder Maßregelung gesondert prüfen. Grenze/Prüftiefe: Volltext Rn. 11 bis 13; keine Freigabe zur vergeltenden Entfernung nach berechtigter Beanstandung."
+      "url": "https://www.bundesarbeitsgericht.de/entscheidungen/",
+      "checked_on": "2026-09-25",
+      "supports": "Das BAG-Onlinearchiv stellt Einzelentscheidungen erst ab 2010 bereit; ältere Entscheidungen nicht mit erfundenen Direktlinks als amtlich online verfügbar darstellen."
     },
     {
-      "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-272-22/",
-      "checked_on": "2026-09-22",
-      "supports": "BAG, Versäumnisurteil vom 06.06.2023, 9 AZR 272/22: Vergeltende Entfernung einer bereits erteilten Schlussformel nach berechtigter Beanstandung an Paragraf 612a BGB prüfen. Grenze/Prüftiefe: Volltext Rn. 9 bis 25 und 32; Rechtsausübung muss wesentliches Motiv sein, zeitliche Folge allein reicht nicht."
-    },
-    {
-      "url": "https://www.gesetze-im-internet.de/gewo/__109.html",
-      "checked_on": "2026-09-23",
-      "supports": "Formgerechte Erteilung und Einwilligung zur elektronischen Form getrennt vom Streit über die Zeugnisbewertung."
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-585-09/",
+      "checked_on": "2026-09-25",
+      "supports": "Bestätigt in Rn. 58 und 59 Datum, Aktenzeichen und Fundstelle von 9 AZR 248/07 nur für dessen Verwirkungsteil; kein amtlicher Onlinebeleg für die gesamte Zwischenzeugnisbegründung."
     }
   ],
   "mini_review": {
-    "sha256": "b6b9c3d74a1b213648feb1dffc8a2e9b71166d6a2faab6087383563e517300b2",
+    "sha256": "3157ed47c4a949a4adc2d05374bc113df1a1b093f921f67448842c5a545e02ff",
     "verdict": "revised",
-    "reason": "Schnellstart vollständig individuell gelesen und überarbeitet: Konkrete Zeugnisfassung auf belegte Mängel prüfen und erforderliche Berichtigung formulieren. Elektronische Form mit Einwilligung und qualifizierter Signatur aktualisiert; fehlende erstmalige Dankesformel von maßregelnder Entfernung einer vorhandenen Formel getrennt. Redaktionelle Quellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert.",
+    "reason": "Schnellstart individuell überarbeitet: Arbeitnehmerseite ist der Standard; ein kopierter Prompt startet einen echten Dialog, der nach den tatsächlichen Antworten ohne neuen Auftrag bis zu Analyse, kurzem Mandantenschreiben und gegebenenfalls abgestuftem Arbeitgeberschreiben fortgesetzt wird. Mangelfreie Fälle erzeugen keinen künstlichen Konflikt. Rechtliche Kernanker und ihre Grenzen wurden redaktionell gegen amtliche Quellen geprüft.",
     "changes": [
-      "Elektronische Form mit Einwilligung und qualifizierter Signatur aktualisiert; fehlende erstmalige Dankesformel von maßregelnder Entfernung einer vorhandenen Formel getrennt.",
-      "Kernfall mit operativem Entscheidungsanker, gezielten Nachfragen und Fortsetzung zum vollständigen angeforderten Dokument.",
-      "Leerstart: Mängelprüfung, bereinigte Fassung oder Berichtigungsaufforderung anbieten. Dateien: Zeugnis und Zusagen still lesen; kein Prüfbericht ohne geklärten Auftrag. Klarer Auftrag: Bestelltes Dokument liefern, nur entscheidende Beleglücken klären.",
-      "Nachgereichtes Papieroriginal erledigt gegebenenfalls Formpunkt; Schlussformel nur im Entwurf verändert Anspruchsargumentation."
+      "Interaktiver Chat als Standard mit Warten auf echte Antworten und weiteren Fragerunden nur bei neuen entscheidenden Widersprüchen.",
+      "Vollständiger Arbeitnehmerauftrag umfasst ausführliche Analyse, Ersatzsätze, ein Mandantenschreiben mit Zielumfang 120 bis 180 Wörter und das fachlich angezeigte Arbeitgeberschreiben.",
+      "Explizit nichtinteraktive Bearbeitung arbeitet mit Platzhaltern oder bedingten Varianten und erfindet keine Antworten.",
+      "Kein Arbeitgeberschreiben bei mangelfreiem Zeugnis ohne wirklichen Verhandlungswunsch; Arbeitgeber- und Teilaufträge bleiben eigene Zweige."
     ]
   },
   "workshop_review": {
-    "sha256": "5bc2ed04939775a01b7167f17d08dd5cf6723795763f59a0056fc483d73e79dd",
+    "sha256": "d833caf0340906395a8dd09f53afdcee70178aed2428f07065e465b05f1483aa",
     "verdict": "revised",
-    "reason": "Werkstatt vollständig individuell gelesen und überarbeitet: Konkrete Zeugnisfassung auf belegte Mängel prüfen und erforderliche Berichtigung formulieren. Elektronische Form mit Einwilligung und qualifizierter Signatur aktualisiert; fehlende erstmalige Dankesformel von maßregelnder Entfernung einer vorhandenen Formel getrennt. Redaktionelle Quellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen.",
+    "reason": "Werkstatt individuell und fachlich erweitert: vollständiger Arbeitnehmer-Dialogworkflow, getrennte rechtliche Analyse und Mandantenkommunikation, abgestuftes Arbeitgeberschreiben, Beweis- und Gegenpositionsführung sowie direkt eingebundene BAG-Rechtsprechung mit Reichweitengrenzen. Altentscheidungen ohne heutigen BAG-Einzelvolltext werden nicht als amtlich online geöffnet ausgegeben.",
     "changes": [
-      "Elektronische Form mit Einwilligung und qualifizierter Signatur aktualisiert; fehlende erstmalige Dankesformel von maßregelnder Entfernung einer vorhandenen Formel getrennt.",
-      "Vorhandene Fachzweige, Beispiele und Zugriffsalternativen erhalten; schwache Rechtsprechungshinweise entfernt oder auf belegte Reichweite begrenzt.",
-      "Formkorrektur ohne Notenstreit, widersprüchliche Aufwertungsbelege, entfernte Schlussformel und konkrete Titelversion mit begrenzter Freigabe.",
-      "Nachgereichtes Papieroriginal erledigt gegebenenfalls Formpunkt; Schlussformel nur im Entwurf verändert Anspruchsargumentation."
+      "Materielle Rückfragen führen zu echtem Warten; gesicherte Teile dürfen vorläufig bleiben, endgültige Empfängerschreiben folgen nach der Antwort.",
+      "Streitstellenmatrix verbindet Originaltext, Wirkung, Beleg, Rechtsregel, Ersatzfassung, Gegenposition und Risiko.",
+      "Mandantenschreiben in einfacher Sie-Sprache von der ausführlichen Analyse getrennt; Arbeitgeberschreiben nach objektivem Anspruch, Beweisrisiko oder Verhandlungswunsch abgestuft.",
+      "BAG-Anker zu Zwischenzeugnis, Beweislast, Klarheit, Tabellenform, Schlussformel, Maßregelung und Titelbestimmtheit mit ausdrücklichen Grenzen integriert."
     ]
   },
   "selection": {
     "positive": [
-      "Prüfen Sie mein vorhandenes Zeugnis auf belegbare Mängel und formulieren Sie Ersatzsätze.",
-      "Kontrollieren Sie eine PDF-Zeugnisfassung mit Unterschriftsbild auf Form und Inhalt."
+      "Prüfen Sie mein vorhandenes Arbeitszeugnis aus Arbeitnehmersicht und sagen Sie mir, was ich tun soll.",
+      "Kontrollieren Sie die Zeugnisfassung mit Leistungsbelegen und formulieren Sie tragfähige Änderungen."
     ],
     "negative": [
       "Erstellen Sie erstmals ein Zeugnis aus Personalnotizen ohne vorhandene Fassung.",
@@ -93,96 +98,160 @@
   },
   "cases": [
     {
-      "id": "kennengelernt-und-scan",
-      "request": "Erstellen Sie ergebnis.md als Änderungsmatrix zu folgendem vollständigen Kurzzeugnis: Sven Mertens war vom 01.01.2022 bis 31.08.2026 als Lagerleiter beschäftigt. Er koordinierte Wareneingang und Versand und führte sechs Beschäftigte. Wir haben ihn als zuverlässigen Mitarbeiter kennen gelernt. Er erfüllte seine Aufgaben stets zu unserer vollen Zufriedenheit. Sein Verhalten gegenüber Vorgesetzten und Mitarbeitern war stets einwandfrei. Wir wünschen ihm alles Gute. Der Zeitraum, die Aufgaben und die Bewertung sind unstreitig. Sven hat elektronischer Erteilung zugestimmt. Er erhielt nur ein gewöhnliches PDF mit eingescanntem Unterschriftsbild, ohne qualifizierte elektronische Signatur; Papier wurde nicht übergeben. Er hält kennen gelernt für einen sicheren Geheimcode und möchte eine sachliche Prüfung statt einer pauschalen Aufwertung.",
+      "id": "dialogstart-offener-leistungsbeleg",
+      "request": "Ich möchte mein Arbeitszeugnis prüfen lassen. Anna Becker war von 2019 bis August 2026 als Product Managerin beschäftigt. Das Zeugnis nennt Produktplanung und Abstimmung mit Vertrieb, aber nicht die Leitung zweier Produkteinführungen. Es bewertet ihre Leistung mit stets zu unserer vollen Zufriedenheit und ihr Verhalten als stets einwandfrei. Anna meint, sie habe Ziele regelmäßig übertroffen und möchte eine sehr gute Note; konkrete Zielwerte oder Unterlagen hat sie noch nicht benannt. Bitte prüfen Sie das Zeugnis.",
       "input_files": [],
       "deliverables": [
-        "ergebnis.md"
+        "erste-antwort.md"
       ],
       "criteria": [
         {
           "id": "C01",
-          "text": "Verwirft kennen gelernt nicht isoliert als sicheren Geheimcode und würdigt den positiven übrigen Text.",
+          "text": "Behandelt Anna ohne gegenteiligen Hinweis als Arbeitnehmer-Mandantin und beginnt ohne Status-, Rollen-, Datei- oder Metadatenkopf unmittelbar mit fachlich gebündelten Fragen oder dem gesicherten Teil.",
           "deliverables": [
-            "ergebnis.md"
+            "erste-antwort.md"
           ]
         },
         {
           "id": "C02",
-          "text": "Unterscheidet die vorhandene Einwilligung von der fehlenden qualifizierten elektronischen Signatur und hält das Scan-PDF nicht für formgerechte elektronische Erteilung.",
+          "text": "Fragt entscheidungserheblich nach konkreten individuellen Zielwerten, Zeitraum, Belegen sowie Inhalt und Gewicht der Produkteinführungen und erklärt knapp, welche Bewertung davon abhängt.",
           "deliverables": [
-            "ergebnis.md"
+            "erste-antwort.md"
           ]
         },
         {
           "id": "C03",
-          "text": "Priorisiert die Formkorrektur, bewahrt unstreitige Tätigkeits- und Bewertungsangaben und trennt optionale Sprachänderung von rechtlich begründetem Mangel.",
+          "text": "Wartet auf Annas tatsächliche Antwort, erfindet weder Zielwerte noch Belege und gibt ein davon abhängiges Mandanten- oder Arbeitgeberschreiben noch nicht als endgültig aus.",
           "deliverables": [
-            "ergebnis.md"
+            "erste-antwort.md"
           ]
         },
         {
           "id": "C04",
-          "text": "Liefert die verlangte Änderungsmatrix vollständig und endet weder mit einer Fragenliste noch mit einem bloßen Angebot weiterer Bearbeitung.",
+          "text": "Darf gesicherte Punkte vorläufig einordnen und trennt die vorhandene gute Note von der beweisabhängigen sehr guten Bewertung; endet nicht mit einem Auswahlmenü für spätere Leistungen.",
           "deliverables": [
-            "ergebnis.md"
-          ]
-        }
-      ],
-      "target_skill": "zeugnisklarheit-objektiver-empfaengerhorizont"
-    },
-    {
-      "id": "aufwertung-mit-offenem-beleg",
-      "request": "Eine Arbeitnehmerin legt ein qualifiziertes Zeugnis mit der Gesamtformel zur vollen Zufriedenheit vor und verlangt einen vollständigen Prüfbericht sowie eine außergerichtliche Berichtigungsaufforderung mit der Formel stets zur vollen Zufriedenheit. Tätigkeiten, Beschäftigungszeitraum und Verhalten sind unstreitig. Sie erwähnt eine Zielübererfüllung, hat aber noch nicht angegeben, welches Ziel betroffen war oder welcher Beleg existiert. Erstellen Sie pruefbericht.md und aufforderung.md. Klären Sie den entscheidenden Leistungsnachweis, ohne die unstreitige Prüfung oder das Schreiben insgesamt abzubrechen; verwenden Sie für reine Adress- und Datumsangaben eindeutige Platzhalter.",
-      "input_files": [],
-      "deliverables": [
-        "pruefbericht.md",
-        "aufforderung.md"
-      ],
-      "criteria": [
-        {
-          "id": "C01",
-          "text": "Der Prüfbericht trennt die vorhandene durchschnittliche Formulierung vom beweisabhängigen Ziel einer guten Bewertung und benennt eine konkrete, entscheidungserhebliche Belegfrage.",
-          "deliverables": [
-            "pruefbericht.md"
-          ]
-        },
-        {
-          "id": "C02",
-          "text": "Der Prüfbericht enthält bereits die vollständige unstreitige Prüfung, erklärt die Varianten abhängig vom Leistungsbeleg und behandelt die Rückfrage erkennbar nur als Zwischenstufe.",
-          "deliverables": [
-            "pruefbericht.md"
-          ]
-        },
-        {
-          "id": "C03",
-          "text": "Die Aufforderung ist trotz offener Belegfrage als vollständiges, sachliches Schreiben mit klaren Platzhaltern und einer kenntlich gemachten belegabhängigen Bewertungsfassung formuliert.",
-          "deliverables": [
-            "aufforderung.md"
-          ]
-        },
-        {
-          "id": "C04",
-          "text": "Keine Datei endet mit einem bloßen Menü, einer pauschalen Ampelbewertung oder dem Angebot, das bestellte Dokument erst später zu erstellen.",
-          "deliverables": [
-            "pruefbericht.md",
-            "aufforderung.md"
-          ]
-        },
-        {
-          "id": "C05",
-          "text": "Keine Ausgabe beginnt mit einem Status-, Rollen-, Datei- oder Metadatenblock. Die entscheidungserhebliche Rückfrage führt unmittelbar in den gesicherten Berichtsteil und die bedingten Fassungen.",
-          "deliverables": [
-            "pruefbericht.md",
-            "aufforderung.md"
+            "erste-antwort.md"
           ]
         }
       ],
       "target_skill": "einfuehrung-pruefauftrag"
     },
     {
-      "id": "hr-bereinigung-ohne-gegenschreiben",
-      "request": "Die Personalabteilung bittet um Prüfung und Bereinigung eines vorhandenen Zeugnisses. Die Fassung nennt Kollegen vor Vorgesetzten, enthält eine gute Leistungsformel und endet ohne Dankes- oder Wunschformel. Es gibt keine Tatsachen für Verhaltensprobleme, keine Zusage zu einer Schlussformel und keinen Arbeitnehmerauftrag. Erstellen Sie pruefvermerk.md und zeugnis-neu.md. Beurteilen Sie Reihenfolge und Schlussformel im konkreten Gesamtzusammenhang und erstellen Sie eine wahrheitsgemäße, einheitliche Gesamtfassung, ohne ein Forderungsschreiben oder eine Klagedrohung zu erzeugen.",
+      "id": "dialogfortsetzung-vollstaendiger-arbeitnehmerauftrag",
+      "request": "Fortsetzung der Prüfung von Anna Beckers Zeugnis: Die beiden Produkteinführungen leitete sie jeweils neun Monate mit Budget- und fachlicher Teamverantwortung; Projektaufträge und Abschlussberichte liegen vor. Die persönlichen Umsatzziele übertraf sie 2024 um 12 Prozent und 2025 um 15 Prozent, belegt durch die beigefügten Jahresauswertungen. Eine Beurteilung aus 2025 lobt ausdrücklich ihre weit überdurchschnittlichen Ergebnisse. Anna möchte die fehlende Projektleitung und die sehr gute Gesamtformel gegenüber dem Arbeitgeber geltend machen. Setzen Sie die begonnene Prüfung fort.",
+      "input_files": [],
+      "deliverables": [
+        "analyse.md",
+        "mandantenschreiben.md",
+        "arbeitgeberschreiben.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Setzt ohne Neustart fort und liefert ohne neuen Entwurfsauftrag eine ausführliche Analyse mit Originalstellen, Belegen, Ersatzsätzen, Gegenposition und verbleibendem Risiko.",
+          "deliverables": [
+            "analyse.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Das Mandantenschreiben umfasst möglichst 120 bis 180 und regelmäßig höchstens 250 Wörter, verwendet einfache Sie-Sprache und enthält keine Urteilsparade.",
+          "deliverables": [
+            "mandantenschreiben.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Das Arbeitgeberschreiben verlangt die belegte Tätigkeitskorrektur bestimmt, begründet die Aufwertung mit den gesicherten individuellen Leistungen und verwendet genaue Ersatzformulierungen, ohne sicheren Prozesserfolg zu behaupten.",
+          "deliverables": [
+            "arbeitgeberschreiben.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Keine Ausgabe beginnt mit einem Status-, Rollen-, Datei- oder Metadatenblock; Analyse und Empfängerschreiben bleiben sprachlich und funktional getrennt.",
+          "deliverables": [
+            "analyse.md",
+            "mandantenschreiben.md",
+            "arbeitgeberschreiben.md"
+          ]
+        }
+      ],
+      "target_skill": "einfuehrung-pruefauftrag"
+    },
+    {
+      "id": "nichtinteraktiv-mit-platzhaltern",
+      "request": "Bearbeiten Sie diesen Arbeitnehmerfall ausdrücklich nichtinteraktiv und schließen Sie in einer Antwort ab: Der Beschäftigungszeitraum und die gute Leistungsbewertung sind unstreitig. Trotz Einwilligung erhielt der Arbeitnehmer nur ein gewöhnliches PDF mit eingescanntem Unterschriftsbild; die Originaldatei wurde nicht technisch geprüft, Papier nicht übergeben. Absenderanschrift, Arbeitgeberanschrift und Versanddatum fehlen. Prüfen Sie den Formpunkt und erstellen Sie die vollständigen Ergebnisse.",
+      "input_files": [],
+      "deliverables": [
+        "analyse.md",
+        "mandantenschreiben.md",
+        "arbeitgeberschreiben.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Erfindet weder technische Prüfung noch fehlende Adressen oder Datum; unterscheidet das sichtbare Scanbild von der ungeklärten qualifizierten Signatur der Originaldatei.",
+          "deliverables": [
+            "analyse.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Verwendet für Adressen und Datum klare Platzhalter und für die ungeprüfte Originaldatei eine bedingte Fassung statt einer erfundenen Nutzerantwort.",
+          "deliverables": [
+            "arbeitgeberschreiben.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Liefert alle drei Ergebnisse vollständig und stuft die Forderung danach ab, ob das Fehlen der qualifizierten Signatur bestätigt ist.",
+          "deliverables": [
+            "analyse.md",
+            "mandantenschreiben.md",
+            "arbeitgeberschreiben.md"
+          ]
+        }
+      ],
+      "target_skill": "aufforderungsschreiben-berichtigung"
+    },
+    {
+      "id": "mangelfrei-ohne-kuenstlichen-streit",
+      "request": "Prüfen Sie mein qualifiziertes Arbeitszeugnis vollständig: Beschäftigungszeitraum, Position, prägende Aufgaben und Führungsverantwortung sind richtig und belegt. Die Leistungsformel lautet stets zu unserer vollsten Zufriedenheit, das Verhalten gegenüber Vorgesetzten, Kollegen und Kunden war stets einwandfrei. Das Zeugnis endet mit Dank, Bedauern und guten Zukunftswünschen. Form, Unterschrift und Ausstellungsdatum sind unauffällig. Ich wünsche keine rein stilistischen Änderungen und habe keinen weiteren Verhandlungswunsch.",
+      "input_files": [],
+      "deliverables": [
+        "analyse.md",
+        "mandantenschreiben.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die Analyse prüft die wesentlichen Bereiche, bewahrt zutreffende Passagen und stellt ohne künstliche Beanstandung fest, dass kein tragfähiger Änderungsbedarf erkennbar ist.",
+          "deliverables": [
+            "analyse.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Das kurze Mandantenschreiben erklärt in einfacher Sie-Sprache, weshalb kein externes Schreiben an den Arbeitgeber sinnvoll ist.",
+          "deliverables": [
+            "mandantenschreiben.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Erfindet weder einen Anspruch noch einen Verhandlungswunsch, erstellt kein Arbeitgeberschreiben und bietet ein solches nicht als künstlichen nächsten Schritt an.",
+          "deliverables": [
+            "analyse.md",
+            "mandantenschreiben.md"
+          ]
+        }
+      ],
+      "target_skill": "mandantenbericht-erstellen"
+    },
+    {
+      "id": "hr-bereinigung-ohne-arbeitnehmerschreiben",
+      "request": "Die Personalabteilung bittet um Prüfung und Bereinigung eines vorhandenen Zeugnisses. Es enthält eine gute Leistungsformel, nennt Kollegen vor Vorgesetzten und endet ohne Dankes- oder Wunschformel. Tatsachen für Verhaltensprobleme oder eine zugesagte Schlussformel gibt es nicht. Erstellen Sie einen internen Prüfvermerk und eine wahrheitsgemäße, einheitliche Gesamtfassung.",
       "input_files": [],
       "deliverables": [
         "pruefvermerk.md",
@@ -191,81 +260,93 @@
       "criteria": [
         {
           "id": "C01",
-          "text": "Der interne Prüfvermerk behandelt die Personenreihenfolge nicht automatisch als beweisbaren Negativcode oder sicheren Klagegrund.",
+          "text": "Der interne Prüfvermerk behandelt die Personenreihenfolge nicht automatisch als Negativcode und rechnet das Fehlen einer freiwilligen Schlussformel nicht in die Leistungsnote ein.",
           "deliverables": [
             "pruefvermerk.md"
           ]
         },
         {
           "id": "C02",
-          "text": "Der Prüfvermerk rechnet das Fehlen einer freiwilligen Dankes- und Wunschformel nicht in die gute Leistungsnote ein.",
-          "deliverables": [
-            "pruefvermerk.md"
-          ]
-        },
-        {
-          "id": "C03",
-          "text": "Die bereinigte Zeugnisfassung ist als zusammenhängender Text ohne Rechtszitate, interne Prüfbegriffe oder Farbcodes formuliert.",
+          "text": "Die Zeugnisfassung ist ein zusammenhängender Text ohne Rechtszitate, interne Kategorien oder Farbcodes.",
           "deliverables": [
             "zeugnis-neu.md"
           ]
         },
         {
-          "id": "C04",
-          "text": "Beide bestellten Dateien werden vollständig erstellt; weder Aufforderungsschreiben noch Klageandrohung werden der Arbeitgeberrolle untergeschoben.",
+          "id": "C03",
+          "text": "Erzeugt für die Arbeitgeberrolle weder Mandantenschreiben aus Arbeitnehmerperspektive noch Forderungsschreiben oder Klagedrohung.",
           "deliverables": [
             "pruefvermerk.md",
             "zeugnis-neu.md"
           ]
         }
       ],
-      "target_skill": "einfuehrung-pruefauftrag"
+      "target_skill": "rollen-und-modus-wahl"
     }
   ],
   "prompt_workflow_review": {
-    "date": "2026-09-23",
+    "date": "2026-09-25",
     "method": "desk_review",
     "opening_modes": [
-      "Leerstart: Mängelprüfung, bereinigte Fassung oder Berichtigungsaufforderung anbieten.",
-      "Dateien: Zeugnis und Zusagen still lesen; kein Prüfbericht ohne geklärten Auftrag.",
-      "Klarer Auftrag: Bestelltes Dokument liefern, nur entscheidende Beleglücken klären."
+      "Chat oder kopierter Einzelprompt: interaktiver Arbeitnehmer-Dialog; bei entscheidenden Lücken fragen und auf die echte Antwort warten.",
+      "Vollständige Angaben: keine künstliche Fragerunde, sondern vollständige Analyse und geschuldete Empfängerschreiben.",
+      "Ausdrücklich nichtinteraktiv: mit sichtbaren Platzhaltern und bedingten Varianten abschließen, niemals Nutzerantworten erfinden.",
+      "Reine Teilfrage oder Arbeitgeberseite: nur den passenden fachlichen Zweig und dessen Ergebnisse liefern."
     ],
-    "continuation": "Nachgereichtes Papieroriginal erledigt gegebenenfalls Formpunkt; Schlussformel nur im Entwurf verändert Anspruchsargumentation.",
-    "enrichment": "Formkorrektur ohne Notenstreit, widersprüchliche Aufwertungsbelege, entfernte Schlussformel und konkrete Titelversion mit begrenzter Freigabe.",
-    "limits": "desk review; no live client execution"
+    "continuation": "Nach tatsächlichen Antworten am vorhandenen Stand fortsetzen; bei neuen entscheidenden Widersprüchen weiterfragen, danach Analyse und angezeigte Schreiben ohne erneuten Auftrag abschließen.",
+    "enrichment": "Arbeitnehmer-Standardrolle, Streitstellen- und Beweisführung, 120-bis-180-Wörter-Mandantenschreiben, abgestuftes Arbeitgeberschreiben und eng begrenzte BAG-Anker.",
+    "limits": "Redaktionelle und quellenbezogene Prüfung; unabhängiger Forward-Test wird getrennt protokolliert und nicht durch dieses Profil vorweggenommen."
   },
   "prompt_editorial_review": {
-    "date": "2026-09-22",
+    "date": "2026-09-25",
     "files": [
       "arbeitszeugnispruefer/README.md",
       "arbeitszeugnispruefer/arbeitszeugnispruefer-schnellstart.md",
       "arbeitszeugnispruefer/arbeitszeugnispruefer-werkstatt.md",
       "quality/evals/arbeitszeugnispruefer.json"
     ],
-    "opening_change": "Konkrete Zeugnisfassung auf belegte Mängel prüfen und erforderliche Berichtigung formulieren",
+    "opening_change": "Interaktiver vollständiger Arbeitnehmerauftrag statt Auswahlmenü oder automatischem Einmalauftrag",
     "norms": [
-      "Paragraf 109 Absatz 3 GewO",
+      "Paragraf 109 GewO",
       "Paragraf 126a BGB",
       "Paragraf 612a BGB"
     ],
     "decisions": [
       {
+        "citation": "BAG, Urteil vom 11.12.2012, 9 AZR 227/11, Rn. 20",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-227-11/",
+        "application": "Bei beredtem Schweigen zu Einzelmerkmalen Berufsüblichkeit und mögliche Beeinträchtigung des beruflichen Fortkommens prüfen.",
+        "limit": "Nur gesetzlich geschuldeter Zeugnisinhalt, keine Übertragung auf Dank und Zukunftswünsche."
+      },
+      {
+        "citation": "BAG, Urteil vom 27.04.2021, 9 AZR 262/20",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-262-20/",
+        "application": "Individuelle Leistungs- und Verhaltensbeurteilung regelmäßig als gewichteter Text statt schulzeugnisartiger Einzelnotentabelle.",
+        "limit": "Kein allgemeines Listenverbot; übersichtliche Tätigkeitslisten bleiben möglich und das Urteil spricht keine bessere Note zu."
+      },
+      {
         "citation": "BAG, Urteil vom 25.01.2022, 9 AZR 146/21",
         "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-146-21/",
-        "application": "Fehlenden Dank nicht allein als gesetzlichen Berichtigungsanspruch behandeln; vertragliche Zusage oder Maßregelung gesondert prüfen.",
-        "limit": "Volltext Rn. 11 bis 13; keine Freigabe zur vergeltenden Entfernung nach berechtigter Beanstandung."
+        "application": "Fehlenden erstmaligen Dank nicht als allgemeinen gesetzlichen Berichtigungsanspruch behandeln.",
+        "limit": "Zusage, Vereinbarung und Maßregelung wegen berechtigter Beanstandung gesondert prüfen."
       },
       {
         "citation": "BAG, Versäumnisurteil vom 06.06.2023, 9 AZR 272/22",
         "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-272-22/",
-        "application": "Vergeltende Entfernung einer bereits erteilten Schlussformel nach berechtigter Beanstandung an Paragraf 612a BGB prüfen.",
-        "limit": "Volltext Rn. 9 bis 25 und 32; Rechtsausübung muss wesentliches Motiv sein, zeitliche Folge allein reicht nicht."
+        "application": "Nachteilige Entfernung einer erteilten Schlussformel nach berechtigter Beanstandung an Paragraf 612a BGB prüfen.",
+        "limit": "Zulässige Rechtsausübung muss wesentliches Motiv sein; zeitliche Folge allein genügt nicht."
+      },
+      {
+        "citation": "BAG, Beschluss vom 14.02.2017, 9 AZB 49/16",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azb-49-16/",
+        "application": "Für die Vollstreckung die konkrete titulierte Zeugnisformulierung prüfen.",
+        "limit": "Eine bloße Notenstufe legt regelmäßig keine vollstreckbare konkrete Leistungspflicht fest."
       }
     ],
     "remaining_limits": [
-      "Desk- und Quellenprüfung, kein Live-Client- oder Modelltest; übrige Fachzweige nicht vollständig rechtlich neu verifiziert.",
-      "Volltext Rn. 11 bis 13; keine Freigabe zur vergeltenden Entfernung nach berechtigter Beanstandung.",
-      "Workflow-Anschlussprüfung 23.09.2026: individuelle Text- und Quellenprüfung, keine Live-Client-Ausführung. Frühere Entscheidungsprüfungen und ihre Reichweitengrenzen bleiben unverändert; keine erneute vollständige Rechtsprechungsprüfung behauptet."
+      "Die BAG-Seite stellt Entscheidungen erst ab 2010 als Einzelvolltexte bereit; 9 AZR 248/07 wird deshalb nur mit Archivhinweis und Fachdatenbankvorbehalt verwendet.",
+      "Die Promptprüfung ersetzt keine Einzelfallrecherche zu Landesrecht, Tarifvertrag, Ausschlussfrist oder prozessualem Sonderweg.",
+      "Keine Live-Client-Ausführung in diesem redaktionellen Prüfschritt behauptet."
     ]
   }
 }

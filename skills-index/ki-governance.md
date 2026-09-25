@@ -1,6 +1,6 @@
 # ki-governance
 
-**60 Skills** · Stand `v445.4.0`
+**60 Skills** · Stand `v445.4.1`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../ki-governance/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
