@@ -34,7 +34,7 @@ Gleiche neue Angaben mit der bisherigen Reiseabfolge ab, rechne betroffene Posit
 
 ## 1.5. Verfahren und Quellen
 
-Eine Ablehnungsantwort des Unternehmens ist kein Verwaltungsakt mit gesetzlichem Widerspruch. Prüfe Beschwerdefrist nach Artikel 28, Anspruchsverjährung und gegebenenfalls gerichtliche Fristen getrennt; nicht jede Forderung ungeprüft einer dreijährigen BGB-Frist unterstellen. Schlichtung oder Klage nur passend zum Auftrag vorbereiten, nicht als automatische nächste Stufe.
+Eine Ablehnungsantwort des Unternehmens ist kein Verwaltungsakt mit gesetzlichem Widerspruch. Prüfe Artikel 60 CIV und A.9.5 BB DB auf eine mögliche Jahresfrist ab Ablauf der Fahrkartengültigkeit (siehe [Verjährung und Fristen](references/verjaehrung-und-fristen.md)). Behandle Beschwerdefrist nach Artikel 28, Anspruchsverjährung und gegebenenfalls gerichtliche Fristen getrennt; nicht jede Forderung ungeprüft einer dreijährigen BGB-Frist unterstellen. Schlichtung oder Klage nur passend zum Auftrag vorbereiten, nicht als automatische nächste Stufe.
 
 Amtlicher Ausgangspunkt: [VO (EU) 2021/782](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32021R0782), insbesondere Artikel 12 für Durchgangsfahrkarten, Artikel 17 und 18 für Haftungsrahmen und Wahlrechte, Artikel 19 für Entschädigung und Artikel 20 für Hilfeleistung. Nationale Ergänzungen nach EVO in der maßgeblichen Fassung prüfen.
 

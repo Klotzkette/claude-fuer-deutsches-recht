@@ -47,13 +47,13 @@ Die Auflistung muss `.claude-plugin/plugin.json` und einen `skills/`-Ordner zeig
 
 ## 4. Marketplace für eine Organisation
 
-Der Organisations-Marketplace ist für Team und Enterprise vorgesehen und wird von einem Owner unter **Organization settings → Plugins** eingerichtet. Vorher müssen Cowork und Skills für die Organisation aktiviert sein.
+Der Organisations-Marketplace ist für Team und Enterprise vorgesehen und wird von einem Owner unter **Organization settings → Plugins & skills → Marketplaces** eingerichtet. Vorher müssen Cowork und Skills für die Organisation aktiviert sein. Die folgenden Menübezeichnungen wurden am 25. September 2026 mit der unten verlinkten Anbieterdokumentation abgeglichen.
 
-Die GitHub-Synchronisierung akzeptiert derzeit nur private oder interne Repositorys. Deshalb den aktuellen Inhalt dieses öffentlichen Projekts zuerst in ein privates oder internes Spiegelrepository der Organisation übernehmen. Anschließend **Add plugin → GitHub** wählen, das Spiegelrepository als `owner/repo` eintragen und den ersten Sync abwarten. Die relative Plugin-Struktur und die Datei [`marketplace.json`](./.claude-plugin/marketplace.json) bleiben dabei unverändert.
+Die GitHub-Synchronisierung akzeptiert derzeit nur private oder interne Repositorys. Deshalb den aktuellen Inhalt dieses öffentlichen Projekts zuerst in ein privates oder internes Spiegelrepository der Organisation übernehmen. Anschließend **Add → Sync from GitHub** wählen, das Spiegelrepository als `owner/repo` eintragen und den ersten Sync abwarten. Die Claude GitHub App muss auf dieses Repository zugreifen können. Die relative Plugin-Struktur und die Datei [`marketplace.json`](./.claude-plugin/marketplace.json) bleiben dabei unverändert.
 
-Ein manueller Marketplace wird dagegen mit einzelnen Plugin-ZIPs befüllt. `marketplace.json` ist kein Upload für diesen Dialog. Jedes ZIP muss kleiner als 50 MB sein; ein manueller Marketplace nimmt höchstens 100 Plugins auf. Für alle 235 Plugins ist daher das private oder interne Spiegelrepository zweckmäßiger, für eine gezielte Auswahl der manuelle Upload.
+Ein manueller Marketplace wird unter **Add → Upload a plugin** mit einzelnen Plugin-ZIPs befüllt. `marketplace.json` ist kein Upload für diesen Dialog. Jedes ZIP muss kleiner als 50 MB sein; ein manueller Marketplace nimmt höchstens 100 Plugins auf. Für den gesamten [Plugin-Bestand](./README.md#was-ist-drin) ist daher das private oder interne Spiegelrepository zweckmäßiger, für eine gezielte Auswahl der manuelle Upload.
 
-Automatischer Sync setzt einen in den Standardbranch gemergten Pull Request mit Versionsanhebung voraus. Ein direkter Push löst ihn nicht aus; dann in der Marketplace-Verwaltung **Update** wählen. Der Sync kann bis zu 30 Minuten dauern.
+Weitere automatische Updates müssen beim Marketplace über **Sync automatically** aktiviert sein und setzen einen in den Standardbranch gemergten Pull Request mit Versionsanhebung voraus. Ein direkter Push löst sie nicht aus; dann in der Marketplace-Verwaltung **Update** wählen. Der Sync kann bis zu 30 Minuten dauern.
 
 Nur im Kommandozeilen-Client kann das öffentliche Repository unmittelbar verwendet werden:
 
@@ -75,7 +75,7 @@ Jede Plugin-README erklärt zuerst die Bestandteile und verlinkt den Abschnitt �
 3. ein fertiger Startsatz für den Arbeitsordner,
 4. zugeordnete Testakten oder den Verweis auf die zentrale Sammlung.
 
-Der [Plugin-Katalog](./README.md#was-ist-drin) führt zu allen 235 Startseiten. Der [Download-Index](./ASSET_INDEX.md) enthält zusätzlich sämtliche Einzeldateien.
+Der [Plugin-Katalog](./README.md#was-ist-drin) führt zu allen Plugin-Startseiten. Der [Download-Index](./ASSET_INDEX.md) enthält zusätzlich sämtliche Einzeldateien.
 
 ## 6. Nach der Installation prüfen
 
@@ -105,9 +105,28 @@ Bereits gelesene Word- und PDF-Dateien werden nicht erneut geöffnet. Bei Tabell
 | Plugin ist installiert, Skill fehlt | alte Aufgabe oder Plugin nicht aktiv | neue Aufgabe öffnen und Aktivierung prüfen |
 | Öffentliches Repository wird abgelehnt | Organisations-Sync verlangt ein privates oder internes Repository | privaten oder internen Spiegel verbinden |
 | Marketplace zeigt nichts | Repository-Angabe, App-Zugriff oder Sync unvollständig | Spiegelrepository und Zugriff prüfen, dann **Update** wählen |
+| „Marketplace sync failed“ mit „validation errors“ | mindestens ein Paket oder der synchronisierte Stand wird abgelehnt | Abschnitt 8.1 durcharbeiten und den genauen Prüfbericht festhalten |
 | Erster Start dauert zu lange | kompletter Marketplace statt Einzel-Plugin | zunächst Einzel-ZIP oder Schnellstart-Markdown verwenden |
 | Microsoft-365-Suche läuft zu breit | Ablage und Suchziel nicht eingegrenzt | Website, Bibliothek oder Ordner, Zeitraum, Absender, Dateityp und Suchbegriff nennen; zunächst höchstens fünf Kerndokumente öffnen |
 | Spätere Antworten werden langsam | zu langer Aufgabenverlauf oder wiederholte Dateilektüre | neue Aufgabe mit kompaktem Ergebnisstand öffnen; bereits gewonnene Extrakte weiterverwenden |
 | Prompt fragt bekannte Daten erneut ab | Arbeitsordner nicht ausgewählt oder Auftrag zu abstrakt | Dateien bereitstellen und den Funktionstest aus Abschnitt 6 verwenden |
 
-Die kompakte Gesamtanleitung steht in [Schnellstart](./QUICKSTART.md). Fehler können mit Screenshot und gewähltem Dateinamen als [Issue](https://github.com/Klotzkette/claude-fuer-deutsches-recht/issues/new) gemeldet werden.
+### 8.1 Marketplace meldet Validierungsfehler
+
+Zuerst den tatsächlich verbundenen Repository-Stand und die verwendete Oberfläche festhalten. Ein Organisations-Spiegel und ein bereits heruntergeladenes Release-ZIP können unterschiedliche Versionen enthalten. Die Meldung allein nennt weder das betroffene Plugin noch dessen Fehler.
+
+Wer das Repository lokal prüft, führt aus dessen Wurzelverzeichnis aus:
+
+```bash
+node scripts/validate-plugin-structure.mjs
+node scripts/validate-marketplace-import.mjs
+claude plugin validate --strict .claude-plugin/marketplace.json
+```
+
+Die letzte Prüfung benötigt die installierte Claude-Code-CLI. Für einzelne Pakete kann zusätzlich `claude plugin validate --strict ./liquiditaetsplanung` verwendet werden; für alle Pakete steht [validate-with-claude-cli.sh](./scripts/validate-with-claude-cli.sh) bereit. Diese Prüfungen melden Dateifehler, ersetzen aber keinen erfolgreichen Import in der betroffenen Anwendung. Der Unterschied ist auch in der [offiziellen Marketplace-Dokumentation](https://code.claude.com/docs/en/plugin-marketplaces#validate-and-test) beschrieben.
+
+Bei einem Fehler den gemeldeten Pfad korrigieren und den aktualisierten Stand erneut synchronisieren. Sind die Prüfungen erfolgreich, den Sync in der Organisationsverwaltung über **Update** wiederholen oder als Eingrenzung ein einzelnes Plugin-ZIP aus dem aktuellen Release hochladen. Nach erfolgreichem Sync die Installationseinstellungen kontrollieren, weil ein fehlgeschlagener Sync sie zurücksetzen kann.
+
+Bleibt der Fehler bestehen, bitte im [Issue](https://github.com/Klotzkette/claude-fuer-deutsches-recht/issues/new) App-Version, Betriebssystem, persönlichen Upload oder Organisations-Sync, Repository-Commit beziehungsweise Release-Version, Plugin-Dateiname, vollständigen Fehlertext und die Prüfergebnisse nennen. Zugangsschlüssel und Mandatsunterlagen gehören nicht in den Bericht. Ein lokal gültiger Stand belegt nicht, dass der Fehler in einem anderen Benutzerkonto bereits behoben ist.
+
+Die kompakte Gesamtanleitung steht in [Schnellstart](./QUICKSTART.md).

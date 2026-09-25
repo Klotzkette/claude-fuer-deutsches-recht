@@ -78,6 +78,8 @@ Dieses Plugin ist ein experimentelles Arbeits- und Lernwerkzeug. Es soll keine e
 
 Der Allgemein-Skill startet kurz, sortiert Rolle, Verfahrensstand, Frist, Unterlagen und gewünschtes Arbeitsprodukt und routet dann in die passenden Spezial-Skills. Jeder Skill verlangt Quellenhygiene: Normen, Behördenhinweise, Formulare und Rechtsprechung werden vor tragenden Aussagen live aus amtlichen oder frei zugänglichen Quellen geprüft; keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
 
+Normzuordnung geprüft am 25.09.2026: [§ 66 StBerG – Handakten](https://www.gesetze-im-internet.de/stberg/__66.html) regelt Aktenführung, Aufbewahrung, Herausgabe und Zurückbehaltung einschließlich elektronischer Unterlagen. [§ 67 StBerG – Berufshaftpflichtversicherung](https://www.gesetze-im-internet.de/stberg/__67.html) betrifft die Versicherung. Die Handakten-Normenanker der Skills verweisen deshalb auf § 66; vor fallbezogener Verwendung ist der aktuelle Normtext zu prüfen.
+
 ## Typische Outputs
 
 - Kurzvermerk und Risikoampel

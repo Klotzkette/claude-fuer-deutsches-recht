@@ -1,6 +1,6 @@
 # anwaltschaft-generell
 
-**10 Skills** · Stand `v445.3.1`
+**10 Skills** · Stand `v445.3.2`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../anwaltschaft-generell/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

@@ -12,18 +12,18 @@ Diese Unterlagenprüfung für **Word Legal Ai Plugin And Skill For German Lawyer
 ## Fachlandkarte dieses Plugins
 
 - `anspruchsgrundlage-rechtsfolge-b2b-klauseln` — Anspruchsgrundlage Rechtsfolgen B2b Vs
-- `anwaltsschreiben-aussergerichtlich-argumentationsarchitektur` — Anwaltsschreiben Aussergerichtlich Argumentationsarchitektur
+- `anwaltsschreiben-aussergerichtlich` — Anwaltsschreiben aussergerichtlich
 - `bilingual-drafting-cowork-cloud` — Bilingual Drafting Cowork Cloud
 - `bilinguales-writing-englische-vertraege` — Bilinguales Writing Englische Verträge
-- `boilerplate-klauseln-definitionen-klauseln` — Boilerplate Klauseln Definitionen Klauseln
+- `boilerplate-klauseln-definitionen` — Boilerplate-Klauseln: Katalog mit Mustertexten
 - `defensive-drafting-deutscher-kanzleistil` — Defensive Drafting Deutscher Kanzleistil
-- `dokumentarchitektur-vertrag-englischer-vertrag` — Dokumentarchitektur Vertrag Englischer Vertrag
+- `dokumentarchitektur-vertrag-englischer` — Dokumentarchitektur: Vertrag und Schriftsatz
 - `drafting-prinzipien-finaler-writing` — Drafting Prinzipien Finaler Writing
 - `entwurfscheck-aktenabgleich-red-team` — Entwurfscheck Aktenabgleich Red Team
 - `force-majeure-geheimhaltung-nda` — Force Majeure Geheimhaltung Nda
 - `german-agb-konforme` — German Agb Konforme
 - `gutachten-internes-ip-rechteuebertragung` — Gutachten Internes Ip Rechteuebertragung
-- `haftungsausschluss-haftungsbegrenzung-klageerwiderung` — Haftungsausschluss Haftungsbegrenzung Klageerwiderung
+- `haftungsausschluss-haftungsbegrenzung` — 1. Haftungsregelung prüfen und ausformulieren
 - `kaltstart-drafting-kommandocenter` — Kaltstart Drafting Kommandocenter
 
 ## Arbeitsweg

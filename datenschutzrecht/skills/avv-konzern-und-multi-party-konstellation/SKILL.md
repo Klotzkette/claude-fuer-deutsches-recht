@@ -18,6 +18,8 @@ Strukturierung von Auftragsverarbeitungsvertraegen in Konzernverbuenden und Mult
 
 ## Rechtlicher Rahmen
 
+Die Fanpage-Entscheidung erging zur Richtlinie 95/46/EG. Die heutige Verarbeitung ist gesondert anhand von Artikel 4 Nummer 7 und Artikel 26 DSGVO zu prüfen; der Fallname allein begründet keine gemeinsame Verantwortlichkeit für jeden Verarbeitungsschritt.
+
 - Art. 28 DSGVO – auch im Konzern keine Privilegierung; jede juristische Person ist eigenstaendige Verantwortliche.
 - Erwaegungsgrund 48 DSGVO – Berechtigtes Interesse an konzerninternem Datenaustausch für interne Verwaltungszwecke.
 - Erwaegungsgrund 36 DSGVO – Niederlassung und Verantwortlichkeit im Konzern.
@@ -28,6 +30,7 @@ Strukturierung von Auftragsverarbeitungsvertraegen in Konzernverbuenden und Mult
 ## Ablauf / Checkliste
 
 1. **Konzernstruktur erfassen.**
+
  - Mutter, Toechter, Schwestern, Gemeinschaftsunternehmen.
  - Wer ist Vertragspartner des Dienstleisters?
  - Wer ist tatsaechlicher Verantwortlicher für die Daten?
@@ -42,15 +45,18 @@ Strukturierung von Auftragsverarbeitungsvertraegen in Konzernverbuenden und Mult
  | Konzern-AVV (intra-group) | Mutter ist Auftragsverarbeiter für Toechter (Shared Service) | Group-IT, Group-HR, Group-Finance |
 
 3. **Rollenmix klären.**
+
  - Mutter als Auftragsverarbeiterin der Toechter setzt voraus, dass die Mutter weisungsgebunden ist.
  - Wenn die Mutter eigenstaendige Konzernzwecke verfolgt (Konzernsteuerung, Reporting), liegt regelmaessig Art. 26 DSGVO oder eigene Verantwortlichkeit vor.
- - EuGH C-498/16 (Wirtschaftsakademie / Fanpages) – verifiziert: weite Auslegung gemeinsamer Verantwortlichkeit.
+ - EuGH, Urt. v. 05.06.2018 - Az. C-210/16, ECLI:EU:C:2018:388 (Wirtschaftsakademie Schleswig-Holstein / Fanpages); [Quelle und Prüfstand vom 25.09.2026](../../references/fanpage-entscheidung-quellenpruefung.md).
 
 4. **Drittlandbezug prüfen.**
+
  - Konzern weltweit – BCR nach Art. 47 DSGVO oder SCC nach Beschluss (EU) 2021/914 für jede Konzerngesellschaft im Drittland.
  - DPF nur für US-Konzerngesellschaften mit aktiver Selbstzertifizierung.
 
 5. **Beitrittsmechanik (Docking Clause).**
+
  - Vergleichbar dem Mechanismus in den EU-SCC nach Beschluss (EU) 2021/914.
  - Beitritt durch Unterzeichnung einer Beitrittsanlage.
  - Wirkung: Beitretende Gesellschaft wird Vertragspartei mit allen Rechten und Pflichten.
@@ -63,22 +69,27 @@ Konzern-AVV-Klauseln (Auszug):
 >
 > Diese Vereinbarung wird zwischen dem Auftragsverarbeiter und [Muttergesellschaft] als koordinierender Konzerngesellschaft geschlossen. Weitere Konzerngesellschaften im Sinne des § 15 AktG können dieser Vereinbarung durch Unterzeichnung der Beitrittsanlage (Anlage 5) beitreten. Mit Wirkung der Beitrittsanlage ist die beitretende Konzerngesellschaft Verantwortliche im Sinne dieser Vereinbarung; ihre Rechte und Pflichten richten sich nach den Bestimmungen dieser Vereinbarung.
 >
-> § 1 Verarbeitungstaetigkeiten
+> 1 Verarbeitungstaetigkeiten
+>
 >
 > Die Verarbeitung erfolgt für jede Konzerngesellschaft im Umfang der jeweils mit dieser geschlossenen Bestellung. Anlage 1 (Beschreibung der Verarbeitung) wird je Konzerngesellschaft befuellt.
 >
-> § 2 Weisungsrechte und Weisungsregister
+> 2 Weisungsrechte und Weisungsregister
+>
 >
 > Jede Konzerngesellschaft erteilt Weisungen ausschließlich für die sie betreffenden Verarbeitungen. Konzernweit gueltige Weisungen werden vom Konzern-Datenschutzbeauftragten dokumentiert. Der Auftragsverarbeiter fuehrt für jede Konzerngesellschaft ein eigenes Weisungsregister.
 >
-> § 3 Konzerngesamtleitung und Kommunikation
+> 3 Konzerngesamtleitung und Kommunikation
+>
 >
 > Die Muttergesellschaft uebt für die beigetretenen Konzerngesellschaften die Funktion der zentralen Anlaufstelle aus, soweit dies mit der jeweiligen Konzerngesellschaft schriftlich vereinbart ist. Die Pflichten und Rechte aus Art. 28 DSGVO bestehen unabhaengig davon im Verhältnis Auftragsverarbeiter zu jeweiliger Konzerngesellschaft fort.
 >
-> § 4 Beitritt und Austritt von Konzerngesellschaften
+> 4 Beitritt und Austritt von Konzerngesellschaften
 >
-> (1) Beitritt: Die Beitrittsanlage ist von der beitretenden Konzerngesellschaft und dem Auftragsverarbeiter zu unterzeichnen.
-> (2) Austritt: Eine Konzerngesellschaft kann ihre Teilnahme mit einer Frist von drei Monaten zum Quartalsende beenden; die Pflichten aus § 9 (Loeschung/Rueckgabe) gelten entsprechend."
+>
+> 4.1 Beitritt: Die Beitrittsanlage ist von der beitretenden Konzerngesellschaft und dem Auftragsverarbeiter zu unterzeichnen.
+>
+> 4.2 Austritt: Eine Konzerngesellschaft kann ihre Teilnahme mit einer Frist von drei Monaten zum Quartalsende beenden; die in der vollständigen Vereinbarung geregelten Pflichten zur Löschung und Rückgabe gelten entsprechend."
 
 ## Typische Drafting-Fehler
 
@@ -92,7 +103,7 @@ Konzern-AVV-Klauseln (Auszug):
 
 - DSGVO Art. 28, Art. 26, Art. 47 sowie ErwGr. 36 und 48.
 - BDSG § 26.
-- EuGH C-498/16 (Wirtschaftsakademie) – verifiziert; Volltext über curia.europa.eu.
+- EuGH, Urt. v. 05.06.2018 - Az. C-210/16, ECLI:EU:C:2018:388 (Wirtschaftsakademie Schleswig-Holstein / Fanpages); [Quelle und Prüfstand vom 25.09.2026](../../references/fanpage-entscheidung-quellenpruefung.md).
 - EDSA-Leitlinien 07/2020 zur Abgrenzung Verantwortlicher / Auftragsverarbeiter (Final 07.07.2021).
 - EU-Kommission Beschluss (EU) 2021/914 mit Docking Clause (Klausel 7).
 - Zitierweise: `../../../references/zitierweise.md`.

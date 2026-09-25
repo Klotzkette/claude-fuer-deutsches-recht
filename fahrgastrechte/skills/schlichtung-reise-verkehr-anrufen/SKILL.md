@@ -23,7 +23,7 @@ description: "Für Schlichtungsstelle Reise & Verkehr e.V. anrufen: ordnet Norm,
 1. **Vorgerichtliche Geltendmachung** beim EVU. Der Anspruch muss zunächst bei der DB / dem EVU geltend gemacht und mindestens **vier Wochen** lang ohne befriedigende Antwort geblieben oder abgelehnt worden sein.
 2. **Keine anhängige Klage**: Die Schlichtung scheidet aus, wenn der Anspruch bereits gerichtlich anhängig ist.
 3. **Anwendungsbereich:** Personenverkehr (Eisenbahn, Bus, Flug, Schiff). Eisenbahn ist Kerngeschäft.
-4. **Frist:** Es gibt keine gesetzliche allgemeine Ausschlussfrist für den Schlichtungsantrag. Maßgeblich ist die materielle Verjährung des Anspruchs (drei Jahre nach §§ 195, 199 BGB). Die Verfahrensordnung der Schlichtungsstelle Reise & Verkehr e.V. ist vor Antragstellung auf etwaige Spezialfristen zu prüfen.
+4. **Frist:** Es gibt keine gesetzliche allgemeine Ausschlussfrist für den Schlichtungsantrag. Maßgeblich ist die anspruchsbezogene Verjährung; Artikel 60 CIV und A.9.5 BB DB können eine Jahresfrist vorsehen. Anwendbarkeit und Wirksamkeit nach der [Fristenprüfung mit CIV und A.9.5 BB DB](../../references/verjaehrung-und-fristen.md) prüfen. Die Verfahrensordnung der Schlichtungsstelle Reise & Verkehr e.V. ist vor Antragstellung auf etwaige Spezialfristen zu prüfen.
 
 ## Inhalt des Schlichtungsantrags
 
@@ -141,9 +141,9 @@ Mit freundlichen Grüßen
 
 ## Wirkung auf Verjährung
 
-Anrufung der Schlichtungsstelle **hemmt** die Verjährung gem. § 204 Abs. 1 Nr. 4 BGB (Einleitung des Verfahrens vor einer durch das Bundesamt für Justiz nach § 32 VSBG anerkannten Stelle). Hemmung dauert für die Zeit des Verfahrens; nach Beendigung läuft die Frist weiter (mit 6-Monats-Mindest-Restfrist gemäß § 204 Abs. 2 BGB).
+Die Hemmung nach Paragraf 204 Absatz 1 Nummer 4 BGB setzt die Veranlassung der Bekanntgabe eines hinreichend bestimmten Antrags bei der zuständigen staatlichen oder staatlich anerkannten Streitbeilegungsstelle voraus. Sie wirkt auf den Eingang zurück, wenn die Bekanntgabe demnächst erfolgt. Bei einer anderen Streitbeilegungsstelle muss das Verfahren im Einvernehmen mit dem Antragsgegner betrieben werden. Anerkennung, Zuständigkeit, Antragseingang und Bekanntgabe nachweisen; eine bloße Serviceanfrage genügt nicht.
 
-→ Praxisrelevant: Auch wenn die Schlichtung lange dauert, ist der Anspruch verjährungsrechtlich geschützt.
+Nach Paragraf 204 Absatz 2 BGB endet die Hemmung grundsätzlich sechs Monate nach der rechtskräftigen Entscheidung oder anderweitigen Verfahrensbeendigung; erst danach läuft die verbliebene Verjährungsfrist weiter. Stillstand des Verfahrens gesondert prüfen. Ein bereits verjährter Anspruch wird durch den Antrag nicht wieder unverjährt.
 
 ## Wann zur Schlichtung, wann direkt klagen?
 

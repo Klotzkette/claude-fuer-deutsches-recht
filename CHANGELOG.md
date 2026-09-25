@@ -1,3 +1,11 @@
+# v445.3.2 - Fachquellen, Fristen und offene Beiträge
+
+Die Handakten-Norm in 200 Steuerberater-Skills ist auf Paragraf 66 StBerG berichtigt. Die DeFi-Prüfung grenzt das BMF-Schreiben vom 06.03.2025 von offenen Fragen zu Liquidity Mining und Tokenwechseln ab, verwendet die zutreffenden Steueranlagen und entfernt unbelegte Quellenzuschreibungen. Die Fanpage-Entscheidung ist mit C-210/16, Datum und nachprüfbarer amtlicher Quelle zugeordnet.
+
+Die Fahrgastrechte-Workflows unterscheiden Anspruchsgrundlagen, Verjährung und die gesetzliche Haftung bei kombinierten Fahrkarten. In der Pohlmann-Testakte endet die Berufungsfrist am Montag, 06.09.2027; beide Word-Unterlagen und das Gesamt-PDF sind konsistent korrigiert. Eine Regression prüft Quellen und PDF. Die Installationshilfe beschreibt die aktuellen Oberflächen und die Diagnose von Marketplace-Validierungsfehlern. Veraltete Fachverweise werden auf vorhandene Arbeitswege umgestellt und technisch geprüft.
+
+Die Bearbeitungsentscheidungen zu den offenen Issues und Pull Requests sind in [docs/offene-punkte-2026-09-25.md](./docs/offene-punkte-2026-09-25.md) dokumentiert. Die Veröffentlichung übernimmt die bereits integrierten Bauwirtschaftspakete aus v445.3.1.
+
 # v445.3.1 - Dezimale Navigation der Bauakten
 
 Die drei Aktenübersichten zu Warendorf, Bad Salzuflen und Einbeck erhalten eine durchgehende dezimale Gliederung einschließlich ihrer erzeugten Downloadabschnitte. Die Nummerierung bleibt bei erneutem Aufbau erhalten; ein Regressionstest prüft dies für alle vier Bauakten. Originalunterlagen, Skills und Prompts bleiben unverändert. Dieser Release enthält das vollständige Bauwirtschaftspaket aus v445.3.0.

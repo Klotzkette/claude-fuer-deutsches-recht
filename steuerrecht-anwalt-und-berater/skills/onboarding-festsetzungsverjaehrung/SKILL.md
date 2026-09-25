@@ -7,7 +7,7 @@ description: "Für Festsetzungsverjährung — Paragrafen 169 bis 171 AO in der 
 
 ## Fachlicher Anker
 
-- **Normen:** §§ 169, § 6a, § 170 Abs. 2 AO.
+- **Normen:** §§ 169 bis 171 AO, insbesondere § 170 Abs. 2 AO und § 171 Abs. 4, 5 und 10 AO.
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
@@ -25,7 +25,7 @@ description: "Für Festsetzungsverjährung — Paragrafen 169 bis 171 AO in der 
 - **§ 169 AO** — Festsetzungsverjaehrung; Regelfrist vier Jahre.
 - **§ 169 Abs. 2 S. 2 AO** — Verlaengerung auf zehn Jahre bei Hinterziehung; fuenf Jahre bei leichtfertiger Verkuerzung.
 - **§ 170 AO** — Beginn der Festsetzungsfrist; Anlaufhemmung.
-- **§ 171 AO** — Ablaufhemmung; verbreitetste Vorschrift Abs. 4 (Aussenpruefung) Abs. 5 (Strafverfahren) Abs. 14 (Grundlagenbescheid).
+- **§ 171 AO** — Ablaufhemmung; insbesondere Abs. 4 (Außenprüfung), Abs. 5 (Ermittlungen oder bekannt gegebenes Straf-/Bußgeldverfahren) und Abs. 10 (Grundlagenbescheid). Abs. 14 betrifft dagegen zusammenhängende Erstattungsansprüche. [Amtlicher Normtext](https://www.gesetze-im-internet.de/ao_1977/__171.html), geprüft am 25.09.2026; zeitliche Anwendungsbestimmungen im EGAO beachten.
 - **§ 47 AO** — Erloeschen durch Festsetzungsverjaehrung.
 
 ## Aktuelle Rechtsprechung

@@ -98,7 +98,7 @@ Sortierlogik: Plugins, Werkstatt- und Schnellstart-Prompts folgen dem Plugin-Slu
 Plugin-Schnellwahl: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [J](#j) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [R](#r) · [S](#s) · [T](#t) · [U](#u) · [V](#v) · [W](#w) · [Z](#z)
 <!-- END HAUPTVERZEICHNIS (auto-generated) -->
 
-Weitere direkte Wege: [Schnellstart](#schnellstart) · [einfache Installationshilfe](./INSTALLATION_EINFACH.md) · [Kurzanleitung](./QUICKSTART.md) · [kuratierte Promptliste](./PROMPTLISTE.md) · [Rechtsgebietsübersicht](./references/rechtsgebiete-uebersicht.md) · [aktueller Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) · [English quick guide](#english-quick-guide)
+Weitere direkte Wege: [Schnellstart](#schnellstart) · [einfache Installationshilfe](./INSTALLATION_EINFACH.md) · [Kurzanleitung](./QUICKSTART.md) · [kuratierte Promptliste](./PROMPTLISTE.md) · [Fachanwaltsprofile](./_FACHANWALTSCHAFTS-PLUGINS/README.md) · [aktueller Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) · [English quick guide](#english-quick-guide)
 
 ### Bitte mit-testen und Feedback geben
 
@@ -134,7 +134,7 @@ Für diesen Anwendungsfall gibt es eine kuratierte, nach Fachanwaltschaften sort
 | **Skills (SKILL.md)** | 22422: [Gesamtübersicht](./SKILLS.md) |
 | **Testakten** | 353 zentral / 356 gesamt |
 | **Fachanwalts-Profile** | 24 |
-| **Plugin-Version / Arbeitsstand** | `v445.3.1` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
+| **Plugin-Version / Arbeitsstand** | `v445.3.2` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
 | **Marketplace-Definition** | [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json) |
 
 ### Sammel-Downloads
@@ -282,7 +282,9 @@ Die Plugins, Skills und Prompts sind Ausgangspunkte für eigene, fachlich kontro
 
 > **🎁 Goodie – Testakte zum Ausprobieren der Claude Cowork-Funktion:** Die Sonderfall-Akte [ModeFuchs Cowork](./testakten/inkasso-modefuchs-cowork-sonderfall/README.md) simuliert einen unsortierten Desktop-Übergabeordner eines Inkassounternehmens: E-Mails als echte `.eml`-Dateien, Mahnungen als Scans ohne Textebene, ein Beleg-Foto, ein rohes Forderungskonto als Excel und ein Klageentwurf mit Anlagenverzeichnis K 1 bis K 7 – alle Dateinamen absichtlich nichtssagend (`Scan007.pdf`, `mail (2).eml`, `Dokument1.pdf`). Cowork soll in jede Datei hineinschauen, sprechend umbenennen, die Anlagen gestempelt als PDF für beA/eBO zusammenstellen und die Forderungsaufstellung prüfen. Direkt-Download: [`testakte-inkasso-modefuchs-cowork-sonderfall.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-inkasso-modefuchs-cowork-sonderfall.zip)
 
-Die folgende Tabelle enthält alle 235 installierbaren Plugins einzeln und alphabetisch sortiert. Auch Plugins in den Sammelordnern [`gerichtsplugins/`](./gerichtsplugins/) und [`insolvenzrecht-plugins/`](./insolvenzrecht-plugins/) erscheinen mit ihrem eigenen Namen und tatsächlichen Pfad. Thematische Einstiegsknoten stehen zusätzlich unter [`plugin-gruppen/`](./plugin-gruppen/); die vollständigen Downloadwege finden sich im [Asset-Index](./ASSET_INDEX.md).
+Die folgende Tabelle enthält alle installierbaren Plugins einzeln und alphabetisch sortiert. Auch Plugins in den Sammelordnern [`gerichtsplugins/`](./gerichtsplugins/) und [`insolvenzrecht-plugins/`](./insolvenzrecht-plugins/) erscheinen mit ihrem eigenen Namen und tatsächlichen Pfad. Thematische Einstiegsknoten stehen zusätzlich unter [`plugin-gruppen/`](./plugin-gruppen/); die vollständigen Downloadwege finden sich im [Asset-Index](./ASSET_INDEX.md).
+
+Für die Auswahl nach Fachanwaltschaft steht das [Verzeichnis der 24 Fachprofile](./_FACHANWALTSCHAFTS-PLUGINS/README.md) bereit, etwa [Arbeitsrecht mit seinen enthaltenen Skills](./skills-index/fachanwalt-arbeitsrecht.md). Andere Anwendungen können den Bestand aus [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json) einlesen: `plugins[].name` identifiziert das Paket, `source` nennt seinen tatsächlichen relativen Pfad, `description` erklärt den Zuschnitt und `version` den Stand. Unter diesem Pfad liegen die Arbeitsabläufe jeweils in `skills/<skill-name>/SKILL.md` mit `name` und `description` im YAML-Kopf. Die Fachprofile tragen das Präfix `fachanwalt-`; das Steuerrechtsprofil heißt `steuerrecht-anwalt-und-berater`. Eine thematische Navigation kann damit dieselben Dateien nutzen, ohne Plugin-Pfade zu verschieben. Eine fachübergreifende Zuordnung aller ergänzenden Pakete oder ein Normen-Wissensgraph ist damit noch nicht abgebildet.
 
 <!-- BEGIN PLUGIN-KATALOG (auto-generated) -->
 Alphabetisch: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [J](#j) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [R](#r) · [S](#s) · [T](#t) · [U](#u) · [V](#v) · [W](#w) · [Z](#z)
@@ -702,7 +704,7 @@ Dieses Repository ist vollständig auf das deutsche Recht und die Arbeitsweise d
 - **Methode & Lehre** – `jurastudium` (Methodenlehre ZR/StR/ÖR, Subsumtion, Rechtsgeschichte, Lernstrategien, Lösungsschemata, Prüfungsgespräch nach AG-Tradition), `methodenlehre-buergerliches-recht`, `rechtstheorie-rechtsphilosophie`, `preussisches-allgemeines-landrecht-pralr`, `zitierweise-deutsches-recht`, `einfache-leichte-sprache-jura`
 - **Drafting & Sprache** – `word-legal-ai-plugin-and-skill-for-german-lawyers` (39 Skills: Kaltstart-Triage, deutscher Kanzleistil, makrofreies Word-Finish, Verträge, Schriftsätze, Memos, Klauselbibliothek, Defensive Drafting, Entwurfscheck/Red Team, Term Sheet, DE-EN Bilingual, US/UK Legal Writing, englische Verträge nach deutschem Recht), `juristische-sprache-deutsch-als-zweitsprache` (Juristendeutsch, Bescheide, Fristen und Formulare für Nichtmuttersprachler)
 
-Eine vollständige Übersicht aller Plugins und Rechtsgebiete steht in [references/rechtsgebiete-uebersicht.md](./references/rechtsgebiete-uebersicht.md). Die kompakte Plugin-Liste findest du im Abschnitt ["Was ist drin?"](#was-ist-drin) weiter oben.
+Die vollständige, mit dem Marketplace abgeglichene Übersicht steht im [Plugin-Katalog](#was-ist-drin); alle Arbeitsabläufe sind im [Skill-Verzeichnis](./SKILLS.md) aufgeführt. Das [Fachanwaltsverzeichnis](./_FACHANWALTSCHAFTS-PLUGINS/README.md) und die [Plugin-Gruppen](./plugin-gruppen/README.md) bieten thematische Einstiege.
 
 ## Verbindliche Zitierweise
 

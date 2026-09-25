@@ -36,7 +36,7 @@ Dieser Dokumenten-Intake für **Fachanwalt Arbeitsrecht** ordnet Anlagen, Regist
 - `befristung-tzbfg` — Befristung Tzbfg BEM Verfahren Fazugang
 - `beteiligung-betriebsrat-102-betrvg` — Beteiligung Betriebsrat Erstgespraech
 - `betriebsrat-zahlen-schwellen-und-berechnung` — Betriebsrat BETRVG Datum
-- `betriebsratswahl-anfechtung-leiharbeit-bag-7-abr-4-21` — Betriebsratswahl Anfechtung Leiharbeit BAG 7 ABR 4 21
+- `betriebsratswahl-leiharbeit-wahlrecht-anfechtung` — Leiharbeitnehmer bei der Betriebsratswahl prüfen
 - `anschluss-routing` — Anschluss Routing
 - `einstieg-routing` — Einstieg Routing
 

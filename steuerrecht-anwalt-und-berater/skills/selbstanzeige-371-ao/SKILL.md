@@ -7,13 +7,13 @@ description: "Für Selbstanzeige — Paragraf 371 AO Wirksamkeit Sperrgründe un
 
 ## Fachlicher Anker
 
-- **Normen:** § 371 AO, § 6a, § 371 Abs. 1 AO.
+- **Normen:** § 371 Abs. 1 bis 3 AO, § 398a AO und § 153 AO.
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
 ## Triage — kläre vor der Bearbeitung
 
-1. Sind alle Steuerarten und Veranlagungszeitraeume seit den letzten zehn Jahren erfasst (Vollstaendigkeit § 371 Abs. 1 AO)?
+1. Sind zu jeder betroffenen Steuerart sämtliche unverjährten Steuerstraftaten, mindestens aber alle Steuerstraftaten dieser Steuerart innerhalb der letzten zehn Kalenderjahre, vollständig erfasst (§ 371 Abs. 1 AO)? Die Vollständigkeit je Steuerart prüfen; zehn Jahre sind keine allgemeine Obergrenze.
 2. Liegt ein Sperrgrund § 371 Abs. 2 AO vor (Prüfungsanordnung Einleitung Erscheinen des Prüfers Tatentdeckung)?
 3. Kann der Hinterziehungsbetrag innerhalb der gesetzten Frist gezahlt werden (§ 371 Abs. 3 AO)?
 4. Liegt der Hinterziehungsbetrag über 25 000 Euro je Tat — § 398a AO Zuschlag 10 bis 20 Prozent zu beachten?

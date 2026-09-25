@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 import fs from 'node:fs';
 import path from 'node:path';
+import { validateSkillMapReferences } from './skill-map-references.mjs';
 
 const root = process.cwd();
 const textExt = new Set(['.md', '.json', '.yaml', '.yml', '.py', '.sh']);
@@ -144,6 +145,9 @@ function checkSkills() {
   const skills = walk(root, f => path.basename(f) === 'SKILL.md');
   for (const skill of skills) {
     const skillText = read(skill);
+    for (const error of validateSkillMapReferences(skill, skillText)) {
+      errors.push(`${rel(skill)}: ${error}`);
+    }
     const fm = parseFrontmatter(skill);
     if (!fm) continue;
     if (!topLevelField(fm, 'name')) errors.push(`${rel(skill)}: missing name`);

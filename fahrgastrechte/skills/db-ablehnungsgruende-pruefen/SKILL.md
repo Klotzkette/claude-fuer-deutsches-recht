@@ -102,7 +102,11 @@ Drittverschulden (Art. 19 Abs. 10 lit. c VO) — potenziell anerkannt. Dennoch:
 
 #### Gegenargument
 
-> Die VO (EU) 2021/782 sieht in Art. 19 keine Antragsfrist vor, die zum Verlust des Entschädigungsanspruchs führt. Art. 27 VO normiert eine 3-Monats-Beschwerdefrist — diese ist eine reine Verfahrensfrist, keine materielle Ausschlussfrist. Maßgeblich ist die dreijährige Verjährungsfrist gemäß § 195 BGB i.V.m. § 199 Abs. 1 BGB ab Schluss des Jahres, in dem der Anspruch entstand und ich Kenntnis hatte. Mein Antrag vom [Datum] liegt deutlich innerhalb dieser Frist. Ich bitte Sie daher, meinen Antrag ungeachtet einer eventuellen internen Fristenvorgabe erneut zu prüfen.
+Vor dem Antwortschreiben klären, ob sich die Ablehnung auf Artikel 28 Absatz 2, A.9.5 BB DB, Artikel 60 CIV oder eine interne Antragsvorgabe stützt. Fahrkartengültigkeit und Verjährungshemmung belegen; Anwendbarkeit und Wirksamkeit der Jahresfrist prüfen. Die Behauptung, der Antrag sei innerhalb der Verjährungsfrist, erst nach dieser [Fristenprüfung mit CIV und A.9.5 BB DB](../../references/verjaehrung-und-fristen.md) verwenden.
+
+> Bitte konkretisieren Sie, auf welche Frist und welche Fassung Ihrer Beförderungsbedingungen Sie Ihre Ablehnung stützen und wie Sie deren Beginn und Ende berechnen. Die Beschwerdefrist nach Artikel 28 Absatz 2 VO (EU) 2021/782 ist von der Verjährung des geltend gemachten Anspruchs zu unterscheiden. Ich bitte um erneute Prüfung meines Antrags vom [Datum] unter Berücksichtigung der beigefügten Fahrkarte und des nachgewiesenen bisherigen Schriftwechsels.
+
+Bei bereits erhobener Verjährungseinrede die konkret geprüfte Gegenbegründung ergänzen; dieser Klärungsbrief allein hemmt die Verjährung nicht.
 
 ---
 

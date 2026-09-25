@@ -107,15 +107,13 @@ Vertragsbedingungen, die direkt oder indirekt die Rechte aus der VO aufheben ode
 
 ## Beschwerde und Schlichtung
 
-**Art. 27 VO:** Beschwerderecht beim EVU binnen **drei Monaten** (Verfahrensfrist, nicht materielle Ausschlussfrist). EVU antwortet binnen einem Monat, in begründeten Fällen binnen drei Monaten.
+**Art. 28 VO:** Beschwerderecht beim EVU binnen **drei Monaten** (Verfahrensfrist, nicht materielle Ausschlussfrist). EVU antwortet binnen einem Monat, in begründeten Fällen binnen drei Monaten.
 
 **§ 15 EVO:** Schlichtungsstelle. In Deutschland: **Schlichtungsstelle Reise & Verkehr e.V.** (vormals söp), Fasanenstraße 81, 10623 Berlin. Anerkannt nach §§ 4 ff. VSBG. Kostenfrei für Verbraucher. Voraussetzung: vorgerichtlich erfolglose Reklamation; keine anhängige Klage.
 
 ## Verjährung
 
-§ 195 BGB: drei Jahre. § 199 Abs. 1 BGB: Beginn am Schluss des Kalenderjahres, in dem der Anspruch entstand und der Verbraucher Kenntnis hatte.
-
-**Beispiel:** Verspätung am 12.05.2026 → Verjährung mit Ablauf 31.12.2029.
+Die Verjährung hängt von Anspruchsgrundlage und anwendbaren Beförderungsbedingungen ab. Artikel 60 CIV und A.9.5 BB DB können eine einjährige Frist ab Ablauf der Fahrkartengültigkeit vorsehen. Die dreijährige Regelverjährung nach Paragrafen 195 und 199 BGB ist kein pauschaler Ausgangspunkt für alle Fahrgastansprüche. Prüfe Anwendbarkeit und Wirksamkeit der kürzeren Frist und sichere vorsorglich den frühesten vertretbaren Termin; siehe [Fristenprüfung mit CIV und A.9.5 BB DB](../../references/verjaehrung-und-fristen.md).
 
 ## Gerichtsstand
 
@@ -137,8 +135,8 @@ Vertragsbedingungen, die direkt oder indirekt die Rechte aus der VO aufheben ode
 | Wann SPNV-Taxi/Bus (§ 11 EVO)? | Ankunft 0–5 Uhr + ≥ 60 Min, oder letzte Verbindung Tag | § 11 Abs. 1 Nr. 2 EVO |
 | Höchstbetrag SPNV-Ersatzbeförderung? | 120 EUR | § 11 Abs. 2 EVO |
 | Mindestbetrag Entschädigung? | 4 EUR pro Fahrkarte | Art. 19 Abs. 8 VO |
-| Verjährung Anspruch? | 3 Jahre ab Jahresende | §§ 195, 199 Abs. 1 BGB |
-| Beschwerdefrist EVU (Verfahren)? | 3 Monate | Art. 27 VO |
+| Verjährung Anspruch? | Anspruchsbezogen; insbesondere ein Jahr nach Fahrkartengültigkeit prüfen | Artikel 60 CIV; A.9.5 BB DB; subsidiär Paragrafen 195, 199 BGB |
+| Beschwerdefrist EVU (Verfahren)? | 3 Monate | Art. 28 VO |
 | Bearbeitungsfrist Erstattung DB? | 30 Tage | Art. 18 Abs. 5 VO |
 | Bearbeitungsfrist Entschädigung DB? | 1 Monat | Art. 19 Abs. 7 VO |
 | AG-Zuständigkeit Streitwert? | bis 10.000 EUR | § 23 Nr. 1 GVG n.F. |

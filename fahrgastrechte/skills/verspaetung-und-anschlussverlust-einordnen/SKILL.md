@@ -12,8 +12,8 @@ description: "Für Verspätung, Zugausfall oder Anschlussverlust einordnen: ordn
 | **Verspätung am Zielort ≥ 60 Min** | Art. 19 VO + Art. 18 VO | Entschädigung (25/50 %) UND Wahlrecht Erstattung/Weiterreise |
 | **Verspätung am Zielort < 60 Min** | Art. 19 Abs. 9 VO | Kein Entschädigungsanspruch (Mindestschwelle nicht erreicht) |
 | **Zugausfall** | Art. 18 + Art. 19 VO | Wahlrecht Erstattung/Weiterreise; Entschädigung wenn Endziel-Verspätung ≥ 60 Min |
-| **Verpasster Anschluss (Einheits-PNR)** | Art. 12 Abs. 3 VO | Wie Verspätung; Endziel-Maßstab |
-| **Verpasster Anschluss (separate PNRs)** | Art. 12 Abs. 4–5 VO | Anspruch je Vertrag separat; ggf. 75 %-Entschädigung des Fahrkartenverkäufers |
+| **Verpasster Anschluss bei Durchgangsfahrkarte** | Artikel 12 Absätze 3, 5 und 6 VO | Erwerbsvorgang und Information prüfen; Endziel-Maßstab |
+| **Verpasster Anschluss bei Verkäuferkombination** | Artikel 12 Absätze 4 bis 6 VO | Gesamtpreiserstattung zuzüglich 75 Prozent; Informationsausnahme und Beweislast prüfen |
 | **Vorverlegung der Abfahrt** | nicht ausdrücklich in VO 2021/782 — analog Art. 8 | Falls Fahrgast den vorverlegten Zug nicht erreicht: Behandlung wie Ausfall |
 | **Nichtbeförderung (Überbuchung im Eisenbahnverkehr)** | praktisch selten; Art. 18 analog | Wahlrecht; ggf. Schadensersatz nach Art. 26 Abs. 5 Anhang I CIV |
 | **SPNV — 20-Min-Schwelle für Alternativzug** | § 11 EVO | Recht auf Wechsel auf anderen Zug (nicht: Entschädigung — die folgt Art. 19 VO) |
@@ -38,8 +38,9 @@ description: "Für Verspätung, Zugausfall oder Anschlussverlust einordnen: ordn
 
 ### Schritt 3: Durchgangsfahrkarte oder separate Tickets?
 
-- **Einheitliche PNR**: alle Etappen sind Durchgangsfahrkarte → Anspruch bezieht sich auf Endziel-Verspätung (Art. 12 Abs. 3 VO).
-- **Separate PNRs** (z.B. Hin- mit Sparpreis, Anschlussfahrt mit anderem Ticket): jede Strecke einzeln zu bewerten; Anschluss-Garantie greift nicht. Ausnahme Art. 12 Abs. 4 VO: bei Fahrkartenverkäufer / Reiseveranstalter kombiniert + Fehlinformation → 75 %-Entschädigung des Vermittlers.
+- **Erwerb beim Eisenbahnunternehmen:** Eine oder mehrere Fahrkarten in einer einzigen geschäftlichen Transaktion gelten nach Artikel 12 Absatz 3 als Durchgangsfahrkarte; vorbehaltlich Absatz 5 haftet das Unternehmen nach Artikeln 18 bis 20. Eine gemeinsame PNR allein genügt für diese Einordnung nicht.
+- **Eigene Kombination durch Verkäufer oder Veranstalter:** Bei einer einzigen geschäftlichen Transaktion und Anschlussverlust besteht nach Artikel 12 Absatz 4 die gesetzliche Haftung auf Gesamtpreiserstattung zuzüglich 75 Prozent. Weder Garantieversprechen noch eine aktiv falsche Auskunft sind zusätzliche Voraussetzungen.
+- **Informationsausnahme:** Absatz 5 verlangt vor dem Kauf erteilte Information über getrennte Verträge und einen reproduzierbaren Hinweis. Der Anbieter trägt nach Absatz 6 den Informationsnachweis. Erst bei ausgeschlossener Haftung die verbleibenden Verträge separat behandeln; verschiedene PNRs beweisen die Ausnahme nicht.
 
 ### Schritt 4: Tatbestand benennen
 

@@ -27,7 +27,7 @@ Dieser Dokumenten-Intake für **Gesellschaftsrecht** ordnet Anlagen, Registerdat
 - `agio-und-kapitalruecklage` — Agio und Kapitalruecklage
 - `anmeldungen-verhandlung-vergleich-und-eskalation` — Anmeldungen Verhandlung Vergleich und Eskalation
 - `anpassen` — Anpassen
-- `einstieg-schnelltriage-fallrouting` — Anschluss
+- `mandat-triage-gesellschaftsrecht` — 1. Gesellschaftsrechtlichen Auftrag bearbeiten
 - `arbeitsbereich-mandantenentscheidung` — Arbeitsbereich Mandantenentscheidung
 - `aufsichtsrat-protokoll` — Aufsichtsrat Protokoll
 - `beirat-abgrenzung-aufsichtsrat` — Beirat Abgrenzung Aufsichtsrat

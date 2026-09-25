@@ -20,7 +20,7 @@ Diese Output-Weiche für **Memorandums Ersteller** entscheidet, ob Memo, Antrag,
 - `juristisches-questions-fristennotiz` — Juristisches Questions Fristennotiz
 - `laenge-formate-mandantenfreundliche-fassung` — Laenge Formate Mandantenfreundliche Fassung
 - `mandantenanfrage-schnell` — Mandantenanfrage Schnell
-- `workflow-mandantenkommunikation` — Mandantenkommunikation Redteam
+- `mandantenkommunikation-redteam` — Mandantenkommunikation
 - `mandantenunterlagen-tatbestand-beweis-und-belege` — Mandantenunterlagen Tatbestand Beweis und Belege
 - `memo-board-pack-besondere-anlaesse-spezial` — Memo Board Pack Besondere Anlaesse Spezial
 - `memo-compliance-vorfall-intern` — Memo Compliance Vorfall Intern

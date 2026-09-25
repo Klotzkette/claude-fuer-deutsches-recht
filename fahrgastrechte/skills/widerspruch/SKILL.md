@@ -211,7 +211,7 @@ Nicht alle Informationen auf einmal abfragen, sondern nur das, was wirklich fehl
 - **Kein "Keine-Rechtsberatung"-Disclaimer im Brief selbst** — der Brief soll wie ein normaler Widerspruch einer Privatperson aussehen.
 - **Aber dem Nutzer im Chat sagen:** "Das ist keine Rechtsberatung. Im Zweifel einen Anwalt oder eine Verbraucherzentrale konsultieren."
 - **Datum:** Immer das aktuelle Datum verwenden, nicht das Datum des Ablehnungsschreibens.
-- **Beschwerdefrist Art. 27 VO:** Die 3-Monats-Frist ist eine Verfahrensfrist — keine Ausschlussfrist für den materiellen Anspruch. § 195 BGB (3 Jahre) bleibt maßgeblich.
+- **Fristen:** Die dreimonatige Beschwerdefrist nach Artikel 28 Absatz 2 ist von der Anspruchsverjährung zu unterscheiden. Artikel 60 CIV und die Jahresfrist nach A.9.5 BB DB auf Anwendbarkeit und Wirksamkeit prüfen; Paragrafen 195 und 199 BGB nicht pauschal zugrunde legen. Siehe [Fristenprüfung mit CIV und A.9.5 BB DB](../../references/verjaehrung-und-fristen.md).
 - **Bei Anwaltsmandat** zusätzlich den Standardsatz aus CLAUDE.md am Briefende mit aufnehmen: Berufsbezeichnung, Mandatsverhältnis, Kostenhinweis (RVG / Honorarvereinbarung).
 
 ## Anschluss-Skills

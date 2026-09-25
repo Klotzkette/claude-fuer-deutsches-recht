@@ -16,12 +16,12 @@ Diese Output-Weiche für **Fachanwalt Bank Kapitalmarktrecht** entscheidet, ob M
 - `bankaufsicht-erlaubnis-und-vertrieb` — Bankaufsicht Erlaubnis Emissionsprospekt
 - `bankrecht-buergschaft-aval-garantie-routing` — Bankrecht Buergschaft Aval Garantieabruf
 - `bankrecht-privatbuergschaft-sittenwidrigkeit` — Bankrecht Privatbuergschaft Regress BK
-- `bausparvertrag-zinsanpassung-bgh-xi-zr-78-22` — Bausparvertrag Zinsanpassung BGH XI ZR 78 22
+- `praemiensparvertrag-zinsanpassung-bgh-xi-zr-44-23` — Zinsanpassung im Prämiensparvertrag prüfen
 - `beratungshaftung-zahlen-schwellen-und-berechnung` — Beratungshaftung Haftung Beweislast BK CUM
 - `bk-bankenfehlberatung-grundzuege` — BK Bankenfehlberatung Grundzuege Einfuehrung
 - `bk-mifid-suitability-spezial` — BK Mifid BK Prip Erstgespraech Mandatsannahme
 - `cum-ex-beihilfe-bgh-1-str-519-20` — CUM EX Beihilfe BGH 1 STR 519 20
-- `dispokredit-zinsanpassung-bgh-xi-zr-78-08` — Dispokredit Zinsanpassung BGH XI ZR 78 08
+- `variabler-sparzins-zinsanpassung-pruefen` — Variablen Sparzins und Zinsanpassung prüfen
 - `einstieg-schnelltriage-fallrouting` — FA Bank Kapitalmarkt BK Bafin Chronologie
 - `workflow-fristen-und-risikoampel` — FA Bank Kapitalmarkt Fristen Risiko Mandant
 - `anschluss-routing` — Anschluss Routing

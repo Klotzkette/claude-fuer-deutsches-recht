@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "fahrgastrechte",
-  "reviewed_on": "2026-09-23",
+  "reviewed_on": "2026-09-25",
   "sources": [
     {
       "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32021R0782",
@@ -22,18 +22,29 @@
       "url": "https://www.gesetze-im-internet.de/evo_2023/__11.html",
       "checked_on": "2026-09-22",
       "supports": "Geltender Wortlaut zu ergänzenden Nahverkehrsrechten und 120-Euro-Grenze geprüft."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/eli/reg/2021/782/oj?locale=de",
+      "checked_on": "2026-09-25",
+      "supports": "Artikel 12 Absätze 3 bis 7: gesetzliche Verkäuferhaftung auf Gesamtpreiserstattung zuzüglich 75 Prozent, kumulative Informationsausnahme und Beweislast; Artikel 28 Beschwerdefrist; Anhang I Artikel 60 CIV Verjährung."
+    },
+    {
+      "url": "https://assets.static-bahn.de/dam/jcr:41e78667-8704-4597-a5e3-ab9bff890923/Bef%C3%B6rderungsbedingungen%20der%20DB%20AG%20-%20Stand%2024.09.2026.26e14bfb1285d62bfa4d59401622795e.pdf",
+      "checked_on": "2026-09-25",
+      "supports": "DB-Bedingungen vom 24.09.2026, A.9.5, Seite 34: Verweis auf Artikel 60 CIV; Jahresfrist für Ansprüche nach A.9.1 bis A.9.3. Anwendbarkeit und Wirksamkeit bleiben anspruchsbezogene Prüfpunkte."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Kernfall Anschlussverlust um Verkäuferhaftung und die sachliche Grenze des historischen EuGH-Urteils ergänzt. Workflow-Ergänzung einzeln geprüft: Fahrpreis bereits erstattet oder Zielankunft nur 110 statt 130 Minuten verspätet -> Entschädigungsbasis beziehungsweise Stufe und Forderung korrigieren; Hotelkosten eigenständig prüfen.",
+    "reason": "Kernfall Anschlussverlust um Verkäuferhaftung und die sachliche Grenze des historischen EuGH-Urteils ergänzt. Workflow-Ergänzung einzeln geprüft: Fahrpreis bereits erstattet oder Zielankunft nur 110 statt 130 Minuten verspätet -> Entschädigungsbasis beziehungsweise Stufe und Forderung korrigieren; Hotelkosten eigenständig prüfen. Quellenreview 25.09.2026: konkrete Jahresfrist nach Artikel 60 CIV und A.9.5 BB DB in Fristenprüfung ergänzt.",
     "changes": [
       "Artikel 12 Absatz 3 bis 6 nach Erwerbsvorgang, Information und Beweislast konkretisiert.",
       "Historisches Urteil nur zur Anspruchstrennung genutzt, heutige Ausnahme ausdrücklich vorrangig behandelt.",
       "Betreuung, Ersatzbeförderung, gezielte Nachfragen und beauftragte Endfassung erhalten.",
-      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
+      "Pauschale Dreijahresfrist durch anspruchsbezogene Prüfung mit vorsorglich frühestem Termin und verlinkten Primärquellen ersetzt."
     ],
-    "sha256": "4d49dd8024add833fe08d37fae5132bb46519dc72b746670e2e25f765919cb86"
+    "sha256": "03bc2579fa8d74c526b72b764468ea9c709d0a874055b2189f3890b82251e63d"
   },
   "selection": {
     "positive": [
@@ -77,18 +88,115 @@
         }
       ],
       "target_skill": "entschaedigung-berechnen"
+    },
+    {
+      "id": "verkaeuferkombination-ohne-garantie",
+      "request": "Ein Portal hat auf eigene Initiative zwei Bahntickets mit unterschiedlichen Buchungscodes in einem Kaufvorgang für insgesamt 120 Euro kombiniert. Ein Anschluss wurde verpasst. Es gab keine ausdrückliche Anschlussgarantie. Das Portal bestreitet nicht die Kombination, kann aber keine Information vor dem Kauf über getrennte Verträge nachweisen. Prüfe die Verkäuferhaftung in ergebnis.md.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die gesetzliche Verkäuferhaftung nach Artikel 12 Absatz 4 wird unabhängig von einem Garantieversprechen geprüft; verschiedene Buchungscodes schließen sie nicht aus.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Das Ergebnis berechnet 120 Euro Erstattung zuzüglich 90 Euro Entschädigung, insgesamt 210 Euro gegen das Portal.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Artikel 12 Absätze 5 und 6 werden geprüft: Vorabinformation und reproduzierbarer Hinweis sind kumulativ erforderlich, der Anbieter trägt den Informationsnachweis.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "ticket-und-reisedaten-erfassen"
+    },
+    {
+      "id": "verkaeuferkombination-mit-hinweis",
+      "request": "Ein Portal kombiniert in einem Kaufvorgang auf eigene Initiative zwei Bahntickets. Der Anschluss wird verpasst. Vor dem Kauf wurde nachweislich auf getrennte Beförderungsverträge hingewiesen; die Kaufbestätigung enthält denselben dauerhaft reproduzierbaren Hinweis. Eine Zusatzgarantie gibt es nicht. Prüfe in ergebnis.md die Forderung nach Artikel 12 Absatz 4.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die Informationsausnahme nach Artikel 12 Absatz 5 wird aufgrund der nachgewiesenen Vorabinformation und reproduzierbaren Unterlage angewendet.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Das Ergebnis verspricht keine Erstattung zuzüglich 75 Prozent gegen das Portal aus Artikel 12 Absatz 4; Ansprüche aus den einzelnen Beförderungsverträgen werden getrennt behandelt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Der Hinweis wird anhand des belegten Inhalts und Zeitpunkts geprüft; unterschiedliche Buchungscodes allein werden nicht als Nachweis getrennter Verträge oder der Informationsausnahme behandelt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "verspaetung-und-anschlussverlust-einordnen"
+    },
+    {
+      "id": "db-jahresfrist-einrede",
+      "request": "Eine DB-Fahrkarte war bis 12.05.2026 gültig. Die Verspätungsentschädigung wird erstmals am 01.06.2027 beantragt. Die DB beruft sich auf die einjährige Verjährung in A.9.5 ihrer vorgelegten, einbezogenen Bedingungen (Wortlaut wie Fassung 24.09.2026) und Artikel 60 CIV. Eine Hemmung ist nicht belegt. Prüfe in ergebnis.md die Einrede und entwirf eine sachgerechte Antwort, ohne eine gerichtliche Entscheidung zur Wirksamkeit zu erfinden.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die Einrede wird nicht mit der pauschalen Behauptung drei Jahre bis 31.12.2029 verworfen; Jahresfristansatz mit rechnerischem Ablauf am 12.05.2027 wird erkannt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Anwendbarkeit von Artikel 60 CIV sowie Reichweite und Wirksamkeit der Klausel für den konkreten unionsrechtlichen Anspruch werden geprüft; Artikel 7 VO und Paragraf 307 BGB werden als Prüfungsansätze eingeordnet.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Beschwerdefrist nach Artikel 28 Absatz 2 und Anspruchsverjährung bleiben getrennt; eine ungeprüfte Fristwahrung oder automatisch eintretende Hemmung wird nicht behauptet.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "db-ablehnungsgruende-pruefen"
     }
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Verkäuferkombination mit 75-Prozent-Folge und Informationsbeweis von Durchgangsticket beim Beförderer abgegrenzt; Hotelbegrenzung und getrennte Beispielrechnung ergänzt. Workflow-Ergänzung einzeln geprüft: Erwerbsvorgang und vorvertraglicher Hinweis, getrennte Verkäuferhaftung, erwartete gegenüber tatsächlicher Zielverspätung, nutzbare Ersatzangebote, Kosten pro Reisendem und konkrete Entlastungsbegründung.",
+    "reason": "Verkäuferkombination mit 75-Prozent-Folge und Informationsbeweis von Durchgangsticket beim Beförderer abgegrenzt; Hotelbegrenzung und getrennte Beispielrechnung ergänzt. Workflow-Ergänzung einzeln geprüft: Erwerbsvorgang und vorvertraglicher Hinweis, getrennte Verkäuferhaftung, erwartete gegenüber tatsächlicher Zielverspätung, nutzbare Ersatzangebote, Kosten pro Reisendem und konkrete Entlastungsbegründung. Quellenreview 25.09.2026: konkrete Jahresfrist nach Artikel 60 CIV und A.9.5 BB DB in Fristenprüfung ergänzt.",
     "changes": [
       "Artikel 12 Absatz 3 bis 6 nach Erwerbsvorgang, Information und Beweislast konkretisiert.",
       "Historisches Urteil nur zur Anspruchstrennung genutzt, heutige Ausnahme ausdrücklich vorrangig behandelt.",
       "Betreuung, Ersatzbeförderung, gezielte Nachfragen und beauftragte Endfassung erhalten.",
-      "Erwerbsvorgang und vorvertraglicher Hinweis, getrennte Verkäuferhaftung, erwartete gegenüber tatsächlicher Zielverspätung, nutzbare Ersatzangebote, Kosten pro Reisendem und konkrete Entlastungsbegründung."
+      "Erwerbsvorgang und vorvertraglicher Hinweis, getrennte Verkäuferhaftung, erwartete gegenüber tatsächlicher Zielverspätung, nutzbare Ersatzangebote, Kosten pro Reisendem und konkrete Entlastungsbegründung.",
+      "Pauschale Dreijahresfrist durch anspruchsbezogene Prüfung mit vorsorglich frühestem Termin und verlinkten Primärquellen ersetzt."
     ],
-    "sha256": "4a61b9ed58c290550f3a105a040575b5c8f00f99011344dfe35db777ff33f4ab"
+    "sha256": "30716c01abe10482166070e22dda7c89b97db93212603f069fd37ba237ee65b3"
   },
   "prompt_editorial_review": {
     "date": "2026-09-23",

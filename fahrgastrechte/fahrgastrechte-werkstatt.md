@@ -66,7 +66,7 @@ Eine Forderung enthält Reisebezug, Störung, ausgeübtes Wahlrecht, Rechtsgrund
 
 Eine Antwort auf die Ablehnung wird oft als Widerspruch bezeichnet, ist aber kein gesetzliches Widerspruchsverfahren gegen einen Verwaltungsakt. Auf den tatsächlichen Ablehnungsgrund eingehen und den beauftragten Text ausformulieren. Zahlungsfristen aus Artikeln 18 und 19 sowie Verzug nach Paragraf 286 BGB anhand der jeweiligen Voraussetzungen prüfen.
 
-Beschwerdefrist nach Artikel 28, Verjährung des konkreten Anspruchs und Fristen eines laufenden Verfahrens getrennt behandeln. Paragrafen 195 und 199 BGB nicht ohne Prüfung möglicher Sonderregeln auf jede Bahnforderung anwenden. Für eine gewünschte Schlichtung nach Paragraf 15 EVO Zuständigkeit, Teilnahme und aktuelle Verfahrensordnung der Schlichtungsstelle Reise & Verkehr prüfen; keine Bearbeitungsdauer garantieren.
+Artikel 60 CIV und A.9.5 BB DB auf eine mögliche Jahresfrist ab Ablauf der Fahrkartengültigkeit prüfen (siehe [Verjährung und Fristen](references/verjaehrung-und-fristen.md)). Beschwerdefrist nach Artikel 28, Verjährung des konkreten Anspruchs und Fristen eines laufenden Verfahrens getrennt behandeln. Paragrafen 195 und 199 BGB nicht ohne Prüfung möglicher Sonderregeln auf jede Bahnforderung anwenden. Für eine gewünschte Schlichtung nach Paragraf 15 EVO Zuständigkeit, Teilnahme und aktuelle Verfahrensordnung der Schlichtungsstelle Reise & Verkehr prüfen; keine Bearbeitungsdauer garantieren.
 
 ## 1.9. Klage und Anlagen
 

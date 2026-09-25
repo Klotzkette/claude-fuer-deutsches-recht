@@ -15,7 +15,7 @@ Diese Output-Weiche für **Fachanwalt Familienrecht** entscheidet, ob Memo, Antr
 - `versorgungsauskuenfte-und-anrechtswerte-pruefen` — Anrechte Dokumentenintake
 - `beamtenrechtliche-kuerzung-und-rueckausnahme` — Beamtenrechtliche Kuerzung Beamtenversorgung
 - `ehegattenrecht-internationales-art-13-egbgb` — Ehegattenrecht Internationales ART 13 Egbgb
-- `ehevertrag-sittenwidrigkeit-bgh-xii-zr-129-04` — Ehevertrag Sittenwidrigkeit BGH XII ZR 129 04
+- `ehevertrag-inhalts-und-ausuebungskontrolle` — Ehevertrag kontrollieren
 - `familienmandat-aufnehmen-und-sofortmassnahmen-planen` — Erstgespraech Mandatsannahme EU
 - `workflow-fristen-und-risikoampel` — FA Familienrecht Fristen Risiko Mandant
 - `kindeswohlgefaehrdung-eilantrag` — Fachanwalt Familienrecht

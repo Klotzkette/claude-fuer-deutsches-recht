@@ -15,8 +15,8 @@ Dieses Anschluss-Routing für **Fachanwalt Internationales Wirtschaftsrecht** w�
 - `bruessel-risikoampel-und-gegenargumente` — Bruessel CISG Sonderfall Edge
 - `china-shipping-bills-of-lading` — China Shipping Bills OF Lading
 - `embargo-fristennotiz-und-naechster-schritt` — Embargo Fristennotiz Schiedsverfahren
-- `eu-kartellrecht-art-101-aeuv-eugh-c-373-14` — EU Kartellrecht ART 101 Aeuv Eugh C 373 14
-- `eu-kartellrecht-art-102-aeuv-google-eugh-t-612-17` — EU Kartellrecht ART 102 Aeuv Google Eugh T 612 17
+- `eu-kartellrecht-informationsaustausch-c-286-13` — Informationsaustausch nach Artikel 101 AEUV prüfen
+- `eu-kartellrecht-self-preferencing-google-shopping` — 1. Self-Preferencing nach Artikel 102 AEUV
 - `eu-mwst-betrug-mtic` — EU Mwst Betrug Mtic
 - `eugv-zustaendigkeit-art-7-eugvvo` — Eugv Zustaendigkeit ART 7 Eugvvo
 - `einstieg-schnelltriage-fallrouting` — FA INT Wirtschaft Start Chronologie Fristen
