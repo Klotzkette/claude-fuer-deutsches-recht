@@ -5,8 +5,8 @@
   "sources": [
     {
       "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/11/rk20251103_1bvr057325.html",
-      "checked_on": "2026-09-14",
-      "supports": "Amtlicher Entscheidungsauszug, insbesondere Randnummern 36 bis 38 und 50 bis 51: Abwägung bei Verdachtsberichterstattung statt starrer Übertragung strafprozessualer Verdachtsstufen; Volltextabruf nicht durchgängig verfügbar."
+      "checked_on": "2026-09-25",
+      "supports": "BVerfG, Beschluss vom 03.11.2025, 1 BvR 573/25: Entscheidungskopf und Randnummern 51 und 52 am 25.09.2026 im amtlichen Volltext gelesen. Gesamtschau der Recherche, Mindestbestand an Beweistatsachen und Gewicht des öffentlichen Interesses statt schematischer strafprozessualer Verdachtsstufen; keine pauschale Freigabe von Namensnennungen."
     },
     {
       "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2021&Gericht=bgh&Seite=13&anz=3571&nr=125294&pos=408",
@@ -20,8 +20,8 @@
     },
     {
       "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/11/rk20251103_1bvr057325.html",
-      "checked_on": "2026-09-22",
-      "supports": "BVerfG, Beschluss vom 03.11.2025, Az. 1 BvR 573/25, Randnummern 51 und 52. Anwendung: Gesamtschau der Recherche und öffentliches Interesse statt schematischer strafprozessualer Verdachtsstufe. Grenze und Prüfzugang: Kein Freibrief für unbelegte Vorwürfe; amtlich indexierte entscheidende Passagen und amtliche Zusammenfassung gelesen, Direktabruf gesperrt."
+      "checked_on": "2026-09-25",
+      "supports": "BVerfG, Beschluss vom 03.11.2025, 1 BvR 573/25: Entscheidungskopf und Randnummern 51 und 52 am 25.09.2026 im amtlichen Volltext gelesen. Gesamtschau der Recherche, Mindestbestand an Beweistatsachen und Gewicht des öffentlichen Interesses statt schematischer strafprozessualer Verdachtsstufen; keine pauschale Freigabe von Namensnennungen."
     },
     {
       "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=pm&Blank=1&Datum=2014&Gericht=bgh&file=dokument.pdf&linked=urt&nr=69626",
@@ -132,7 +132,7 @@
         "citation": "BVerfG, Beschluss vom 03.11.2025, Az. 1 BvR 573/25, Randnummern 51 und 52",
         "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/11/rk20251103_1bvr057325.html",
         "application": "Gesamtschau der Recherche und öffentliches Interesse statt schematischer strafprozessualer Verdachtsstufe.",
-        "limit": "Kein Freibrief für unbelegte Vorwürfe; amtlich indexierte entscheidende Passagen und amtliche Zusammenfassung gelesen, Direktabruf gesperrt."
+        "limit": "Kein Freibrief für unbelegte Vorwürfe; amtlichen Volltext am 25.09.2026 inhaltlich geprüft, insbesondere Randnummern 51 und 52 vollständig gelesen."
       },
       {
         "citation": "BGH, Urteil vom 18.11.2014, Az. VI ZR 76/14, amtlicher Leitsatz",

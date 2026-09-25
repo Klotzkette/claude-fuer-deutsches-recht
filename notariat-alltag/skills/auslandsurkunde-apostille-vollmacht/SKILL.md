@@ -31,6 +31,12 @@ Für Grundbuchnachweise GBO Paragraf 29, für Registeranmeldungen HGB Paragraf 1
 
 Fordere genau fehlende Seite, Nachweisform oder Übersetzung mit Vorgangsbezug an. Bei Eingang der Papierurkunde sämtliche Anlagen und Einschränkungen gegen den Scan vergleichen. Eine später eingegangene Vollmacht darf nicht rückwirkend als am früheren Termin vorgelegt beschrieben werden. Übergib nur geänderte Beteiligten- und Vertretungsangaben an `beteiligte-identitaet-vertretung`; anschließend im begonnenen Urkundenentwurf fortsetzen.
 
+### 3.5. Genehmigungsanforderung und Rücklauf zuordnen
+
+Bei vollmachtlos geschlossenem Vertrag Genehmigung nach BGB Paragraf 177 und deren Form nach Paragraf 182 Absatz 2 von einem für Grundbuch oder Register erforderlichen Nachweis unterscheiden. Fordert der andere Vertragsteil den Vertretenen zur Erklärung nach Paragraf 177 Absatz 2 auf, läuft die gesetzliche Zweiwochenfrist ab Empfang dieser Aufforderung; die Erklärung kann dann nur ihm gegenüber erfolgen. Ein gewöhnlicher Notariatsreminder löst diese Frist nicht automatisch aus. Absenderrolle, Zugang und Erklärungsempfänger belegen. Nach Ablauf oder Ablehnung keine Erledigung vermerken, sondern Wirksamkeit und weiteren Vertragsweg dem Notar vorlegen.
+
+Nach Eingang der ausländischen Urkunde den bisherigen offenen Punkt nur schließen, wenn Person, konkrete Befugnis, Echtheitsnachweis und erforderliche Vorlageform zusammenpassen. Eine Apostille bestätigt keine ausreichende Vertretungsmacht.
+
 ## 4. Quellenpflicht
 
 [EU-Verordnung 2016/1191](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32016R1191), [Haager Apostille-Übereinkommen](https://www.hcch.net/de/instruments/conventions/full-text/?cid=41), aktuelle staatenbezogene amtliche Hinweise und [Zitierweise](../../references/zitierweise.md). Ohne überprüften Länderstand keine verbindliche Anerkennungszusage.

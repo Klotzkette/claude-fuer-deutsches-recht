@@ -3,7 +3,7 @@ name: geschaeftsfuehrer-bestellung-register
 description: "Bereitet Geschäftsführerbestellung, Abberufung und Handelsregisteranmeldung für GmbH und UG vor. Gleicht Beschlussdatum, Wirksamkeit, Vertretungsregel und Versicherungen ab und stellt die elektronische Registermappe zur notariellen Freigabe zusammen."
 ---
 
-# Geschäftsführerwechsel und Handelsregisteranmeldung vorbereiten
+# 1. Geschäftsführerwechsel und Handelsregisteranmeldung vorbereiten
 
 ## 1. Zweck und Anwendungsfall
 

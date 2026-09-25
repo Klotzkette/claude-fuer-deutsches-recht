@@ -114,6 +114,12 @@ Das Plugin verbindet auswählbare Arbeitswege mit Referenzen. Der Werkstatt-Prom
 
 Die [Formwege für Mitarbeiter als Markdown-Download](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=notariat-alltag/references/mitarbeiter-formwege.md) erklären insbesondere die Unterschiede zwischen Beurkundung, Unterschriftsbeglaubigung, Abschriftsbeglaubigung und Registereinreichung. Ein Kapitalerhöhungsbeschluss wird beurkundet; Übernahmeerklärung und Anmeldung haben jeweils ihren eigenen Formweg. Ein bloßer Geschäftsführerwechsel ist nicht automatisch eine Satzungsänderung.
 
+### 3.1. Vertiefung und geprüfte Rechtsprechung
+
+Die überarbeitete Werkstatt führt beantwortete Rückfragen bis zum vollständigen Entwurf fort: etwa den Bankverzicht auf persönliche Mithaftung, den gesonderten Vollzugsauftrag nach einer unbedingten Auflassung und den gewünschten Umfang einer Gesundheitsvollmacht. Gründungsvollmacht, erforderliche Geschäftsführer, Gesellschafterliste, Umwandlungsfolge, Genehmigungsfrist und Kostenübergang werden jeweils konkret geprüft.
+
+Das [Rechtsprechungsregister](references/rechtsprechung-geprueft.md) nennt vier anhand amtlicher Entscheidungsgründe geprüfte BGH-Entscheidungen mit Fundstelle, Aussage und Anwendungsgrenze. Es trennt historische Normfassungen vom heutigen Recht. Der [Prüfbericht für Werkstätten und Minis](../docs/notariat-promptqualitaet-2026-09-25.md) erläutert Umfang und Grenzen der Überarbeitung.
+
 ## 4. Sieben Vorgänge mit passendem Arbeitsweg
 
 - [Bauträgerkauf Parkhof in Potsdam](../testakten/notariat-bautraegerkauf-parkhof-potsdam/README.md): Julia und Martin König möchten eine Neubauwohnung mit Stellplatz erwerben. Vertriebsunterlagen, ein Küchenänderungswunsch und die Vorbereitung eines Notartermins liegen vor; geänderter Plan, verbindlicher Mehrpreis und notarielle Entwurfsbereitstellung sind noch offen.

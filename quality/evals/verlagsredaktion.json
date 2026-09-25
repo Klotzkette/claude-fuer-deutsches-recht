@@ -10,18 +10,18 @@
     },
     {
       "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/11/rk20251103_1bvr057325.html",
-      "checked_on": "2026-09-23",
-      "supports": "Amtlich indexierte Randnummern 51 und 52 erneut gelesen: tatsächliche Gesamtschau der Recherche und Gewicht des öffentlichen Interesses statt alleiniger Zuordnung zu Verdachtsstufen. Direktabruf mit 403 gesperrt; keine neue Gesamtvolltextprüfung."
+      "checked_on": "2026-09-25",
+      "supports": "BVerfG, Beschluss vom 03.11.2025, 1 BvR 573/25: Entscheidungskopf und Randnummern 51 und 52 am 25.09.2026 im amtlichen Volltext gelesen. Gesamtschau der Recherche, Mindestbestand an Beweistatsachen und Gewicht des öffentlichen Interesses statt schematischer strafprozessualer Verdachtsstufen; keine pauschale Freigabe von Namensnennungen."
     },
     {
       "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/11/rk20251103_1bvr057325.html",
-      "checked_on": "2026-09-14",
-      "supports": "Amtlich indexierter Entscheidungstext vom 3. November 2025, 1 BvR 573/25, insbesondere Randnummer 51: Mindestbestand nicht allein anhand strafprozessualer Verdachtsstufen bestimmen. Direktabruf gesperrt, einschlägigen Text über amtliches Suchergebnis geprüft."
+      "checked_on": "2026-09-25",
+      "supports": "BVerfG, Beschluss vom 03.11.2025, 1 BvR 573/25: Entscheidungskopf und Randnummern 51 und 52 am 25.09.2026 im amtlichen Volltext gelesen. Gesamtschau der Recherche, Mindestbestand an Beweistatsachen und Gewicht des öffentlichen Interesses statt schematischer strafprozessualer Verdachtsstufen; keine pauschale Freigabe von Namensnennungen."
     },
     {
       "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/11/rk20251103_1bvr057325.html",
-      "checked_on": "2026-09-22",
-      "supports": "BVerfG, Beschluss vom 03.11.2025, Az. 1 BvR 573/25, Randnummern 51 und 52. Anwendung: Gesamtschau von Recherche und öffentlichem Interesse statt schematischer strafprozessualer Verurteilungswahrscheinlichkeit. Grenze und Prüfzugang: Mindestbestand an Beweistatsachen und Anhörung bleiben erforderlich; kein Freibrief für Namensnennung. Amtlich indexierte entscheidende Passagen und amtliche Zusammenfassung gelesen, Direktabruf gesperrt."
+      "checked_on": "2026-09-25",
+      "supports": "BVerfG, Beschluss vom 03.11.2025, 1 BvR 573/25: Entscheidungskopf und Randnummern 51 und 52 am 25.09.2026 im amtlichen Volltext gelesen. Gesamtschau der Recherche, Mindestbestand an Beweistatsachen und Gewicht des öffentlichen Interesses statt schematischer strafprozessualer Verdachtsstufen; keine pauschale Freigabe von Namensnennungen."
     },
     {
       "url": "https://www.gesetze-im-internet.de/gg/art_5.html",
@@ -139,13 +139,13 @@
         "citation": "BVerfG, Beschluss vom 03.11.2025, Az. 1 BvR 573/25, Randnummern 51 und 52",
         "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/11/rk20251103_1bvr057325.html",
         "application": "Gesamtschau von Recherche und öffentlichem Interesse statt schematischer strafprozessualer Verurteilungswahrscheinlichkeit.",
-        "limit": "Mindestbestand an Beweistatsachen und Anhörung bleiben erforderlich; kein Freibrief für Namensnennung. Amtlich indexierte entscheidende Passagen und amtliche Zusammenfassung gelesen, Direktabruf gesperrt."
+        "limit": "Mindestbestand an Beweistatsachen und Anhörung bleiben erforderlich; kein Freibrief für Namensnennung. Amtlichen Volltext am 25.09.2026 inhaltlich geprüft, insbesondere Randnummern 51 und 52 vollständig gelesen."
       }
     ],
     "remaining_limits": [
       "Desk-/Quellenprüfung, kein Live-Ergebnistest.",
-      "BVerfG anhand amtlich indexierter entscheidender Passagen; Landesmedienrecht und Honorarsteuerfragen nicht vollständig neu verifiziert.",
-      "Workflow-Erweiterung 23.09.2026: Paragraf 39 UrhG und Randnummern 51/52 des vorhandenen BVerfG-Ankers amtlich indexiert gelesen; gescheiterte Direktabrufe nicht als erfolgreicher Volltextzugriff ausgegeben."
+      "BVerfG am 25.09.2026 anhand des amtlichen Volltexts, insbesondere Randnummern 51 und 52, inhaltlich geprüft; Landesmedienrecht und Honorarsteuerfragen nicht vollständig neu verifiziert.",
+      "Workflow-Erweiterung 23.09.2026: Paragraf 39 UrhG und Randnummern 51/52 des vorhandenen BVerfG-Ankers damals amtlich indexiert gelesen. BVerfG-Randnummern 51/52 am 25.09.2026 im amtlichen Volltext nachgeprüft; keine neue Prüfung von Paragraf 39 UrhG behauptet."
     ]
   }
 }

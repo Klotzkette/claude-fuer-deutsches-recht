@@ -91,7 +91,7 @@ BeurkG Paragrafen 10, 12 und 17 sowie der konkrete materielle Formtatbestand bes
 
 ## 5. Ausgabeformat
 
-Liefere ein ausformuliertes Dokument, getrennt davon offene Punkte und eine einzige nächste Handlung. Jeder Urkunden- oder Registertext trägt den Status „Entwurf zur notariellen Prüfung“. Keine fingierte UVZ-Nummer, kein behaupteter Versand. Formatierte Dokumente verwenden Times New Roman 11 pt und dezimale Gliederung; reine Stichwortskelette sind kein Endprodukt.
+Liefere ein ausformuliertes Dokument, getrennt davon offene Punkte und die erforderlichen nächsten Handlungen mit ihren Abhängigkeiten. Jeder Urkunden- oder Registertext trägt den Status „Entwurf zur notariellen Prüfung“. Keine fingierte UVZ-Nummer, kein behaupteter Versand. Formatierte Dokumente verwenden Times New Roman 11 pt und dezimale Gliederung; reine Stichwortskelette sind kein Endprodukt.
 
 ## 6. Beispiel
 
@@ -133,6 +133,10 @@ Ausgleichsbetrag, Fälligkeit, Sicherung, Vollzugsabhängigkeit und Folgen einer
 
 Nach Bankzustimmung Schuldhaftung und Grundbuchvollzug neu abstimmen; ohne Zustimmung nur das Innenverhältnis regeln, soweit gewollt. Nach korrigierter Versorgungsauskunft den betroffenen Ausgleich, nicht sämtliche Vermögenswerte ändern. Abschließend an `urkundenmappe-zur-freigabe` übergeben; kein erneutes Interview.
 
+### 3.5. Wirksamkeit und spätere Ausübung getrennt begründen
+
+[BGH, Urteil vom 11.02.2004, XII ZR 265/02](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2002/XII_ZR_265-02.pdf?__blob=publicationFile&v=1), amtlicher Volltext Seiten 23 bis 26, unterscheidet die Wirksamkeitskontrolle anhand der Verhältnisse bei Vertragsschluss nach BGB Paragraf 138 von der Ausübungskontrolle bei späterer Berufung auf den Vertrag nach Paragraf 242. Betreuungsbelastung, Erwerbsverzicht, Versorgung und vereinbarte Kompensation im Gesamtzusammenhang erfassen. Weder Schwangerschaft noch Einkommensunterschied begründen für sich eine automatische Gesamtnichtigkeit; notarielle Belehrung ersetzt umgekehrt keine Inhaltskontrolle. Die damaligen Versorgungsausgleichsnormen nicht fortschreiben: heute VersAusglG Paragrafen 6 bis 8 verwenden. Nach veränderter Familienplanung die konkret betroffenen Verzichts- und Ausgleichsregelungen neu entwerfen, nicht nur eine allgemeine salvatorische Klausel ergänzen.
+
 ## 4. Quellenpflicht
 
 [BGB Paragraf 1410](https://www.gesetze-im-internet.de/bgb/__1410.html), [Paragraf 1585c](https://www.gesetze-im-internet.de/bgb/__1585c.html), [VersAusglG](https://www.gesetze-im-internet.de/versausglg/) und [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/notariat-alltag/references/zitierweise.md). Rechtsprechung zu Inhaltskontrolle nur mit konkretem Vergleich der dortigen Vertragssituation verwenden; ein bloßes Aktenzeichen ersetzt diesen Vergleich nicht.
@@ -151,7 +155,7 @@ Ein Ehegatte übernimmt das Haus gegen Ausgleich; die finanzierende Bank hat den
 
 _Prüft eine vorbereitete Notariatsmappe vor Vorlage an den Notar: Fassungen, Beteiligte, Formwege, Anlagen, Kapital- und Grundstücksdaten, Unterschriftsfelder sowie elektronische Einreichungsunterlagen. Kennzeichnet offene Freigaben statt Amtshandlungen zu fingieren._
 
-# Entwurfsmappe an den Notar übergeben
+# 1. Entwurfsmappe an den Notar übergeben
 
 ## 1. Zweck und Anwendungsfall
 
@@ -197,7 +201,7 @@ Die Satzung nennt 35000 Euro Stammkapital, die Anmeldung noch 25000 Euro. Korrig
 
 _Bereitet GmbH- und UG-Gründungen aus Gründerunterlagen vor: individuelle Satzung oder Musterprotokoll, Geschäftsanteile, Geschäftsführerbestellung, Einzahlung, Gesellschafterliste und Registeranmeldung. Trennt Entwurf, Beurkundung und tatsächliche Eintragungsreife._
 
-# GmbH-Gründung und Registermappe vorbereiten
+# 1. GmbH-Gründung und Registermappe vorbereiten
 
 ## 1. Zweck und Anwendungsfall
 
@@ -229,6 +233,12 @@ Entwerfe Satzung, Bestellung, Anmeldung und erforderliche Liste mit eigenem Zwec
 
 Unterscheide Vorgründung, beurkundete Vorgesellschaft und eingetragene Gesellschaft. Paragraf 11 Absatz 2 betrifft die Haftung der Handelnden, nicht unterschiedslos aller Gesellschafter. Besondere Gründerhaftung bei Verlusten vor Eintragung ist davon getrennt dem Notar vorzulegen. Keine pauschalen Gebührenbeträge; Geschäftswert und GNotKG-Tatbestände gesondert prüfen.
 
+### 3.5. Vertretung und abschließende Anmeldung prüfen
+
+Eine Gründungsvollmacht muss nach GmbHG Paragraf 2 Absatz 2 notariell errichtet oder beglaubigt sein; BGB Paragraf 167 Absatz 2 allein genügt hier nicht. Für die Gründungsanmeldung verlangt GmbHG Paragraf 78 sämtliche Geschäftsführer. Eine Einzelvertretungsbefugnis ersetzt diese besondere Mitwirkung nicht. Ordne jeder erforderlichen Person Erklärung und Nachweis zu.
+
+Soll eine GbR Gesellschafterin werden, verlangt GmbHG Paragraf 40 Absatz 1 vor ihrer Aufnahme in die Gesellschafterliste die Eintragung im Gesellschaftsregister. Nach Registereingang Namen, Sitz, Registergericht und Nummer sowie Vertretung abgleichen; die einzelnen GbR-Gesellschafter nicht ersatzweise als Inhaber des GmbH-Anteils eintragen. Anteilsnummern, Nennbeträge sowie einzelne und gesamte prozentuale Beteiligung nachrechnen.
+
 ## 4. Quellenpflicht
 
 GmbHG Paragrafen 2, 3, 5, 5a, 6, 7, 8, 11 und 40; HGB Paragraf 12. [Amtliche Links](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/notariat-alltag/references/mitarbeiter-formwege.md), [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/notariat-alltag/references/zitierweise.md). Gesetzliches Muster in aktueller Fassung verwenden.
@@ -247,7 +257,7 @@ Zwei Gründer wollen 25000 Euro Stammkapital und einen nicht beteiligten Geschä
 
 _Bereitet Personalien, Ausweisabgleich und Vertretungsnachweise für einen Notartermin vor. Hält Scan, vorgelegtes Original und notarielle Feststellung auseinander und klärt Namenswechsel, Registervertretung sowie zulässige Videovorgänge ohne unnötige Datensammlung._
 
-# Beteiligte und Ausweisnachweise für den Termin aufnehmen
+# 1. Beteiligte und Ausweisnachweise für den Termin aufnehmen
 
 ## 1. Zweck und Anwendungsfall
 
@@ -327,9 +337,15 @@ Betreuungswünsche nach BGB Paragraf 1816 Absatz 2 benennen gewünschte oder abg
 
 Will der Auftraggeber die Immobilienbefugnis, aber keine Schenkungen, genau diese Grenze einarbeiten. Widersprechen neue Behandlungswünsche einem alten Text, nur mit eindeutigem Änderungsauftrag bereinigen. Registrierung im Zentralen Vorsorgeregister, Aufbewahrung der Urkunde und Zugang zur Vollmacht getrennt vorbereiten. Die Registereintragung ersetzt weder Vollmacht noch Behandlungserklärung und garantiert nicht, dass niemals eine Betreuung nötig wird.
 
+### 3.5. Besondere Gesundheitsbefugnis und eigene Behandlungserklärung ausarbeiten
+
+BGH, Beschluss vom 06.07.2016, XII ZB 61/16, Randnummern 17 bis 20: Die Vollmacht muss die qualifizierte Gefahr des Todes oder eines schweren und länger dauernden Gesundheitsschadens hinreichend klar erfassen; bloßer Verweis auf eine Paragrafennummer reicht nicht. Heute BGB Paragraf 1820 Absatz 2 Nummer 1 mit Paragraf 1829 prüfen. Freiheitsentziehung und ärztliche Zwangsmaßnahmen nach Paragraf 1820 Absatz 2 Nummern 2 und 3 bleiben gesonderte Entscheidungen; aus Zustimmung zur Gesundheitsvertretung keine solche Befugnis ergänzen.
+
+BGH, Beschluss vom 08.02.2017, XII ZB 604/15, Randnummern 17 bis 23: Für die Bestimmtheit der Patientenverfügung ist die schriftliche Erklärung insgesamt auszulegen; allgemeine Wendungen nicht isoliert für unwirksam erklären. Konkretisierung kann sich aus hinreichend beschriebenen Situationen und dem übrigen Text ergeben. Nach Klärung Situation, gewünschte beziehungsweise abgelehnte Maßnahmen und die zugehörige Vertretungsbefugnis in zusammenpassende vollständige Texte überführen. Eine Vertreterentscheidung und eine unmittelbar anwendbare eigene Patientenverfügung sind verschiedene Grundlagen; gerichtliche Genehmigung einschließlich der Ausnahme bei Einvernehmen nach BGB Paragraf 1829 Absatz 4 fallbezogen prüfen.
+
 ## 4. Quellenpflicht
 
-[BGB Paragraf 1820](https://www.gesetze-im-internet.de/bgb/__1820.html), [1827](https://www.gesetze-im-internet.de/bgb/__1827.html), [1816](https://www.gesetze-im-internet.de/bgb/__1816.html). Die [amtliche Erläuterung der Patientenverfügungsrechtsprechung](https://www.bmjv.de/DE/themen/vorsorge_betreuungsrecht/patientenverfuegung/Anmerkungen_Urteil_BGH.html) bestätigt den genannten Konkretisierungsmaßstab; sie ist kein hier vollständig neu geprüfter Urteilstext. [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/notariat-alltag/references/zitierweise.md) beachten.
+[BGB Paragraf 1820](https://www.gesetze-im-internet.de/bgb/__1820.html), [1827](https://www.gesetze-im-internet.de/bgb/__1827.html), [1816](https://www.gesetze-im-internet.de/bgb/__1816.html). Die beiden [volltextgeprüften BGH-Entscheidungen mit Fundstellen und Anwendungsgrenzen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/notariat-alltag/references/rechtsprechung-geprueft.md) heranziehen; alte Normnummern nicht als geltendes Recht behandeln. [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/notariat-alltag/references/zitierweise.md) beachten.
 
 ## 5. Ausgabeformat
 
@@ -419,6 +435,12 @@ Für Grundbuchnachweise GBO Paragraf 29, für Registeranmeldungen HGB Paragraf 1
 
 Fordere genau fehlende Seite, Nachweisform oder Übersetzung mit Vorgangsbezug an. Bei Eingang der Papierurkunde sämtliche Anlagen und Einschränkungen gegen den Scan vergleichen. Eine später eingegangene Vollmacht darf nicht rückwirkend als am früheren Termin vorgelegt beschrieben werden. Übergib nur geänderte Beteiligten- und Vertretungsangaben an `beteiligte-identitaet-vertretung`; anschließend im begonnenen Urkundenentwurf fortsetzen.
 
+### 3.5. Genehmigungsanforderung und Rücklauf zuordnen
+
+Bei vollmachtlos geschlossenem Vertrag Genehmigung nach BGB Paragraf 177 und deren Form nach Paragraf 182 Absatz 2 von einem für Grundbuch oder Register erforderlichen Nachweis unterscheiden. Fordert der andere Vertragsteil den Vertretenen zur Erklärung nach Paragraf 177 Absatz 2 auf, läuft die gesetzliche Zweiwochenfrist ab Empfang dieser Aufforderung; die Erklärung kann dann nur ihm gegenüber erfolgen. Ein gewöhnlicher Notariatsreminder löst diese Frist nicht automatisch aus. Absenderrolle, Zugang und Erklärungsempfänger belegen. Nach Ablauf oder Ablehnung keine Erledigung vermerken, sondern Wirksamkeit und weiteren Vertragsweg dem Notar vorlegen.
+
+Nach Eingang der ausländischen Urkunde den bisherigen offenen Punkt nur schließen, wenn Person, konkrete Befugnis, Echtheitsnachweis und erforderliche Vorlageform zusammenpassen. Eine Apostille bestätigt keine ausreichende Vertretungsmacht.
+
 ## 4. Quellenpflicht
 
 [EU-Verordnung 2016/1191](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32016R1191), [Haager Apostille-Übereinkommen](https://www.hcch.net/de/instruments/conventions/full-text/?cid=41), aktuelle staatenbezogene amtliche Hinweise und [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/notariat-alltag/references/zitierweise.md). Ohne überprüften Länderstand keine verbindliche Anerkennungszusage.
@@ -437,7 +459,7 @@ Die Vollmacht aus Portugal liegt als Farbscan vor, das Papier soll unterwegs sei
 
 _Bereitet Grundschuldbestellungen aus Bankauftrag und Grundbuch vor. Trennt dingliche Sicherheit, persönliche Haftung, Vollstreckungsunterwerfung, Sicherungszweck und Treuhandauflagen und führt Rang sowie Lastenfreistellung zur notariellen Prüfung zusammen._
 
-# Grundschuld und Bankauftrag abstimmen
+# 1. Grundschuld und Bankauftrag abstimmen
 
 ## 1. Zweck und Anwendungsfall
 
@@ -468,6 +490,12 @@ Buchgrundschuld und Briefgrundschuld unterscheiden; bei bestehendem Briefrecht d
 ### 3.5. Ausfertigung und Vollzug vorbereiten
 
 Unterschrift, notarielle Freigabe, Einreichung, Eintragung und Ausfertigung haben eigene Status. Vollstreckbare Ausfertigungen nach ZPO Paragraf 797 und gegebenenfalls weitere Ausfertigungen nach Paragraf 733 nur nach zuständiger Prüfung vorbereiten. Keine automatische Titelausgabe und keine ungeprüften Fixgebühren.
+
+### 3.5. Eine bestätigte Bankänderung vollständig übernehmen
+
+Bestätigt die Bank, dass nur der Darlehensnehmer persönlich haften soll, entferne die persönliche Schuldübernahme und die persönliche Unterwerfung der anderen Eigentümerin aus sämtlichen Entwurfsstellen. Ihre Mitwirkung an dinglicher Bestellung und gegebenenfalls dinglicher Unterwerfung bleibt nach dem tatsächlichen Auftrag bestehen. Gleiche Erschienenenrubrum, Erklärungsträger, Beträge, Anlagen und Unterschriftsfelder ab; liefere den gesamten korrigierten Entwurf und die verbleibenden Vollzugsvoraussetzungen. Bestehende Löschungs- und Treuhandauflagen werden durch diese Antwort nicht erledigt.
+
+Bei vorgeschlagener Verwahrung [BeurkG Paragraf 57](https://www.gesetze-im-internet.de/beurkg/__57.html) prüfen: berechtigtes Sicherungsinteresse, vollständige schriftliche Anweisungen, Vereinbarkeit der Bankauflagen und Annahme durch den Notar. Eine bevorstehende Ablösefrist ist allein keine Verwahrungsfreigabe.
 
 ## 4. Quellenpflicht
 
@@ -525,6 +553,10 @@ Führe Vormerkung, Genehmigungen, Lastenfreistellungsunterlagen, Fälligkeitsmit
 
 Ist nur der Preis eines Sonderwunsches bestätigt, aber nicht dessen Plan, frage genau nach der technischen Fassung. Ist eine Übergabeänderung vereinbart, gleiche Besitz, Nutzen, Lasten und Mietabrechnung ab. Bereite zunächst die konkrete Rückfrage und die belegbaren Vertragsteile vor; nach Antwort den vollständigen Entwurf fortführen, nicht erneut alle Käuferdaten abfragen. Zur Grundbuchanmeldung anschließend nur den betroffenen Auftrag an [Grundbuch und Rang](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/notariat-alltag/skills/grundbuchantrag-rangstelle-notarielle/SKILL.md) übergeben.
 
+### 3.5. Vollzug ohne bedingte Auflassung vorbereiten
+
+Die Auflassung selbst darf nach [BGB Paragraf 925 Absatz 2](https://www.gesetze-im-internet.de/bgb/__925.html) nicht von Kaufpreiszahlung oder Bauabnahme abhängig gemacht werden. Unbedingte Einigung und vertragliche Weisung an den Notar, den Umschreibungsantrag erst bei nachgewiesenen Voraussetzungen einzureichen, getrennt ausformulieren. Eine Schlussrate oder Abnahmebestätigung ersetzt weder den Zahlungsnachweis noch die Prüfung weiterer Einreichungsvoraussetzungen.
+
 ## 4. Quellenpflicht
 
 [Amtliche Formwege](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/notariat-alltag/references/mitarbeiter-formwege.md), BGB Paragrafen 311b, 650u und 650v; BeurkG Paragraf 17; MaBV Paragrafen 3 und 7. [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/notariat-alltag/references/zitierweise.md). Konkrete Rechtsprechung etwa zu Abnahmeklauseln nur nach verifizierter Fundstelle einsetzen.
@@ -543,7 +575,7 @@ Die Käufer erhalten vom Vertrieb am 2. September Erwerbsunterlagen, die vollst�
 
 _Bereitet Geschäftsführerbestellung, Abberufung und Handelsregisteranmeldung für GmbH und UG vor. Gleicht Beschlussdatum, Wirksamkeit, Vertretungsregel und Versicherungen ab und stellt die elektronische Registermappe zur notariellen Freigabe zusammen._
 
-# Geschäftsführerwechsel und Handelsregisteranmeldung vorbereiten
+# 1. Geschäftsführerwechsel und Handelsregisteranmeldung vorbereiten
 
 ## 1. Zweck und Anwendungsfall
 
@@ -617,6 +649,10 @@ Anforderungen nach GNotKG Paragraf 19 beachten: Verfahren oder Geschäft, Kosten
 
 Wenn nur der Kaufpreis berichtigt wird, betroffene Wertpositionen nachrechnen; unveränderte Fremdauslagen nicht nochmals erheben. Bei Abbruch den tatsächlichen Bearbeitungsstand und einschlägigen Tatbestand prüfen, nicht ungeprüft die geplante Beurkundung abrechnen. Einwendungen zur konkreten Position beantworten; gerichtliche Überprüfung nach Paragraf 127 gesondert dem Notar vorlegen.
 
+### 3.5. Den zeitlich richtigen Gebührenstand wählen
+
+Bei einer Gesetzesänderung richtet sich die notarielle Kostenberechnung nach [GNotKG Paragraf 134 Absatz 2](https://www.gesetze-im-internet.de/gnotkg/__134.html) grundsätzlich nach bisherigem Recht, wenn der Auftrag vor Inkrafttreten erteilt wurde. Auftragseingang und maßgebliche Änderung belegen; das Rechnungsdatum allein rechtfertigt keine Anwendung der neuesten Tabelle. Nach beantworteter Wertanfrage den Rechenweg mit Geschäftswert, KV-Nummer, Satz, Tabelle, Auslagen und Steuer vollständig neu berechnen und den Rechnungsentwurf ersetzen; alte und neue Beträge nicht vermischen.
+
 ## 4. Quellenpflicht
 
 [GNotKG](https://www.gesetze-im-internet.de/gnotkg/) einschließlich aktueller Anlagen und [Paragraf 19](https://www.gesetze-im-internet.de/gnotkg/__19.html). Quellen und Tabellenstand nach [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/notariat-alltag/references/zitierweise.md) dokumentieren. Keine veralteten Pauschalgebühren aus dem Gedächtnis.
@@ -635,7 +671,7 @@ Zum Anteilskauf kommt eine gesonderte Verpfändung hinzu. Prüfe die tatsächlic
 
 _Bereitet die GmbH-Kapitalerhöhung als zusammenhängenden Vorgang vor: Beschluss, Bar- oder Sacheinlage, Übernahmeerklärungen, Einzahlungsnachweise und Registervollzug. Trennt Beurkundung des Beschlusses von Beglaubigung der Übernahme und Anmeldung._
 
-# Kapitalerhöhung beschließen und zum Register vorbereiten
+# 1. Kapitalerhöhung beschließen und zum Register vorbereiten
 
 ## 1. Zweck und Anwendungsfall
 
@@ -663,6 +699,10 @@ Bei Barerhöhung gelten Paragraf 56a und die dort bezeichneten Teile von Paragra
 
 Beschluss, vollständige Übernahme, erforderliche Leistung und Geschäftsführer-Versicherung müssen zur Anmeldung passen. Bereite Übernehmerliste und notariell bescheinigten vollständigen Satzungswortlaut nach Paragrafen 54 und 57 vor; verwechsle die Übernehmerliste nicht mit der Gesellschafterliste nach Paragraf 40. Die Satzungsänderung wird erst mit Eintragung wirksam, Paragraf 54 Absatz 3. Einen gleichzeitigen Geschäftsführerwechsel mit eigenem Wirksamkeitsdatum bearbeiten.
 
+### 3.5. Alle erforderlichen Anmeldenden einbeziehen
+
+GmbHG Paragraf 78 verlangt für die Anmeldung nach Paragraf 57 sämtliche Geschäftsführer. Bei einem gleichzeitigen Organwechsel deshalb den tatsächlichen Wirksamkeitszeitpunkt der Bestellung beziehungsweise Abberufung ermitteln und die zu diesem Anmeldezeitpunkt erforderlichen Geschäftsführer einbeziehen. Einzelvertretungsbefugnis verkürzt diesen Kreis nicht. Eine Bankgutschrift korrigiert die Einlagenrechnung; sie belegt für sich weder die freie Verfügung der Geschäftsführung noch eine bereits abgegebene Versicherung. Nach bestätigtem Zahlungseingang den vollständigen Anmeldeentwurf samt Anlagen aktualisieren.
+
 ## 4. Quellenpflicht
 
 GmbHG Paragrafen 53 bis 57 sowie 40; HGB Paragraf 12. [Mitarbeiter-Formwege](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/notariat-alltag/references/mitarbeiter-formwege.md), [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/notariat-alltag/references/zitierweise.md). Weitere Quellen zur konkreten Sacheinlage oder Bezugsrechtsmaßnahme gezielt verifizieren.
@@ -681,7 +721,7 @@ Ein Investor zahlt 50000 Euro für einen neuen Anteil von 10000 Euro. Weise 1000
 
 _Ordnet für die Notariatsmitarbeiter jede konkrete Erklärung dem passenden Formweg zu: Beurkundung, Unterschriftsbeglaubigung, Abschriftsbeglaubigung oder einfache Beschlussfassung. Bereitet Termin, Nachweise und getrennte Registerunterlagen vor._
 
-# Beurkundung und Beglaubigung sicher vorbereiten
+# 1. Beurkundung und Beglaubigung sicher vorbereiten
 
 ## 1. Zweck und Anwendungsfall
 
@@ -780,7 +820,7 @@ Die Baubeschreibung enthält eine noch nicht bestätigte Küchenverlegung. Der V
 
 _Bereitet Verkauf, Abtretung und Verpfändung von GmbH-Geschäftsanteilen für das Notariat vor. Ordnet Anteilsnummern, Zustimmung, Kaufpreis, Sicherungszweck und Vollzugsbedingungen und hält Gesellschafterwechsel und bloße Belastung auseinander._
 
-# GmbH-Anteile übertragen und verpfänden
+# 1. GmbH-Anteile übertragen und verpfänden
 
 ## 1. Zweck und Anwendungsfall
 
@@ -811,6 +851,12 @@ Lege Eigentumserwerb, Pfandrechtsentstehung, Auszahlung und Kaufpreisnachweis ze
 ### 3.5. Listen- und Nachrichtenpaket vorbereiten
 
 Nach wirksamem Gesellschafterwechsel Zeitpunkt und Zuständigkeit nach GmbHG Paragraf 40 beachten. Bereite Liste und Mitteilungen vor, behaupte keine notarielle Bescheinigung oder Einreichung. Bloße Belastungen ohne fiktiven Gesellschafterwechsel dokumentieren.
+
+### 3.5. Erwerber und Verwahrung nach der Finanzierungsantwort abgleichen
+
+Eine erwerbende GbR kann nach GmbHG Paragraf 40 Absatz 1 nur als eingetragene Gesellschaft in die Gesellschafterliste aufgenommen werden. Registereintragung und Identität der GbR vor Listenfertigung nachweisen; ihren Gesellschaftern nicht die erworbenen GmbH-Anteile persönlich zuschreiben.
+
+Eine Finanzierungslücke erlaubt keine automatische notarielle Verwahrung. BeurkG Paragraf 57 Absätze 2 bis 6 verlangt insbesondere ein berechtigtes Sicherungsinteresse, hinreichend bestimmte schriftliche Verwahrungsanweisungen und deren Annahme durch den Notar; zusätzliche Bankauflagen müssen damit vereinbar sein. Bei einer akzeptierten direkten Zahlungsstruktur Abtretungsbedingung, Auszahlungsvoraussetzungen, Pfandbestellung und Rang ausformulieren und gegenseitig prüfen. Eine bloße Gesprächsbereitschaft der Bank ist noch keine Änderung ihrer Bedingungen.
 
 ## 4. Quellenpflicht
 
@@ -857,6 +903,12 @@ Bei Verschmelzung regelt Paragraf 16 die Anmeldung, Paragraf 17 die Anlagen eins
 ### 3.4. Nach einer Antwort fortsetzen
 
 Kommt eine neuere Schlussbilanz, aktualisiere Bilanzanlage und Anmeldeplanung, nicht ungefragt Umtauschverhältnis und Vertragsdatum. Ändert sich die Beteiligungsstruktur, prüfe dagegen genau die betroffenen Mehrheiten, Verzichtsmöglichkeiten und Kapitalmaßnahmen erneut. Fehlende Steuerfreigabe als offene Abstimmung führen, nicht steuerliche Neutralität zusichern. Bei Auslandsbezug zunächst die besonderen grenzüberschreitenden Vorschriften bestimmen.
+
+### 3.5. Fristen und Registerfolge konkret berechnen
+
+Bei Verschmelzung nach [UmwG Paragraf 19 Absatz 1](https://www.gesetze-im-internet.de/umwg_1995/__19.html) erst Eintragung bei den übertragenden, dann beim übernehmenden Rechtsträger; die Wirkung folgt aus Paragraf 20. Bei Spaltung ist die Reihenfolge nach Paragraf 130 umgekehrt: zunächst bei den übernehmenden oder neuen Rechtsträgern, danach beim übertragenden; Paragraf 131 knüpft die Wirkung an dessen Eintragung. Registerbelege für jede Stufe zuordnen.
+
+Beispiel: Schlussbilanz zum 31.12.2025 trägt im regulären Achtmonatsfenster keine erst für September 2026 vorgesehene Verschmelzungsanmeldung. Neuere Bilanz mit tatsächlichem Stichtag anfordern; nicht das alte Deckblatt umdatieren. Den tatsächlichen Anmeldezeitpunkt einschließlich Zugang beim Registergericht prüfen. Der zuständige Betriebsrat muss nach Paragraf 5 Absatz 3 den Verschmelzungsvertrag oder Entwurf spätestens einen Monat vor der beschließenden Versammlung erhalten; beim Formwechsel gilt Paragraf 194 Absatz 2. Ein Gesellschafterverzicht auf Bericht oder Prüfung erledigt diese Zuleitung nicht.
 
 ## 4. Quellenpflicht
 
@@ -954,6 +1006,10 @@ Bei fehlendem schlüssigem Nachweis die Schritte nach Paragraf 16a Absatz 3 prü
 
 Wird eine Teilzahlung nachgewiesen, nur den betreffenden Zahlungsstand ändern. Fehlende Restzahlung, ungeklärte Kontrolle oder anderes Vollzugshindernis bleibt offen. Übergib an `vollzug-fristen-wiedervorlage` den konkreten gesperrten Schritt und den benötigten Nachweis, nicht das gesamte Risikoprotokoll.
 
+### 3.5. Nachweise und eine etwaige Meldung getrennt nachführen
+
+Ein nachgereichter Kontoauszug kann den Zahlungsnachweis vervollständigen, beseitigt aber nicht automatisch einen bereits bestehenden Verdacht. Bei GwG Paragraf 16a Absatz 3 die besonderen Voraussetzungen für den Eintragungsantrag und gegebenenfalls den dort genannten fünften Werktag nach dem Abgangstag einer Meldung beachten; nicht schematisch die allgemeine Dreitagesregel aus Paragraf 46 einsetzen. Samstag gilt nach Paragraf 46 Absatz 1 nicht als Werktag; behördliche Untersagung und zulässige Freigaben gesondert prüfen. Eine Fristübersicht enthält Abgangstag, maßgebliche Arbeitstage und offenen Freigabestatus, keine erfundene Entwarnung. An die Beteiligten gerichtete Nachforderungen dürfen eine beabsichtigte oder erstattete Meldung unter Verstoß gegen Paragraf 47 nicht offenlegen.
+
 ## 4. Quellenpflicht
 
 [GwG](https://www.gesetze-im-internet.de/gwg_2017/), besonders [Paragraf 16a](https://www.gesetze-im-internet.de/gwg_2017/__16a.html), aktuelle Meldevorschriften und notariatsbezogene Aufsichtshinweise prüfen. Künftig anwendbare europäische Regelungen nicht vor ihrem Anwendungstag als geltende deutsche Prüfschritte ausgeben. Quellen nach [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/notariat-alltag/references/zitierweise.md) belegen.
@@ -1001,6 +1057,10 @@ Beschwerde nach GBO Paragrafen 71 ff. gesondert prüfen. Nach Paragraf 72 entsch
 ### 3.4. Nachreichung bis zur Rückmeldung verfolgen
 
 Nach Eingang einer Bewilligung Person, Recht, Betrag und erfasste Teilfläche gegen Antrag und Verfügung vergleichen. Dann eine ausformulierte Nachreichung mit genau bezeichneten Anlagen erstellen. Eine Übermittlungsbestätigung ist noch kein Eintragungsnachweis. Nach Registermitteilung erst die tatsächlich vollzogenen Rechte abhaken und verbleibende Rang- oder Löschungsreste an `vollzug-fristen-wiedervorlage` übergeben.
+
+### 3.5. Zahlungsbedingung von der Auflassung trennen
+
+Nach [BGB Paragraf 925 Absatz 2](https://www.gesetze-im-internet.de/bgb/__925.html) ist eine bedingte oder befristete Auflassung unwirksam. „Die Auflassung gilt erst nach Kaufpreiszahlung“ deshalb nicht als Sicherung übernehmen. Stattdessen die unbedingte dingliche Einigung und die gesonderten Weisungen zur Einreichung des Umschreibungsantrags nach dem beurkundeten Vertrag unterscheiden. Zahlungseingang, Lastenfreistellung und sonstige Voraussetzungen belegen; die Vorbereitung eines Antrags ist keine Einreichung.
 
 ## 4. Quellenpflicht
 

@@ -1,11 +1,18 @@
 {
   "name": "vertragserstellung",
-  "version": "445.4.0",
+  "version": "445.5.0",
   "description": "Kompakte Vertragswerkstatt fuer einzelne Geschaefte zwischen Unternehmen. Zehn Skills erstellen Vertraege, Klauseln und Nachtraege bis zur abgestimmten Endfassung.",
   "author": {
     "name": "Klotzkette",
     "email": "39582916+Klotzkette@users.noreply.github.com"
   },
   "license": "Apache-2.0 OR MIT",
-  "keywords": ["vertragserstellung", "b2b", "mittelstand", "vertragsgestaltung", "nachtrag", "verhandlung"]
+  "keywords": [
+    "vertragserstellung",
+    "b2b",
+    "mittelstand",
+    "vertragsgestaltung",
+    "nachtrag",
+    "verhandlung"
+  ]
 }

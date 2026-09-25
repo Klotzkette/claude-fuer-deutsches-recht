@@ -1,3 +1,11 @@
+# v445.5.0 - Notariatsabläufe und vollständige Werkstatt-Prompts
+
+Das Notariats-Plugin führt Rückfragen zu vollständigen Folgeentwürfen weiter. Zwölf Fachskills sind vertieft, insbesondere Gründungsvollmacht, Geschäftsführeranmeldung, Gesellschafterliste, Auflassung, Genehmigung, Umwandlung, Verwahrung, Kostenübergang und Vorsorge. Vier BGH-Entscheidungen sind mit amtlicher Quelle und präziser Anwendungsgrenze dokumentiert. Der Mini deckt die zentralen Arbeitsgebiete innerhalb von 7500 Bytes ab; sechs neue Evaluationsfälle beschreiben die erwarteten Ergebnisse.
+
+Der Generator entfernt bei langen Werkstätten keine Muster, Rechtsquellen oder Abschlussprüfung mehr. Er erhält auch Einschränkungen nach dem ersten Satz eines Normankers sowie sämtliche kuratierten Entscheidungen. Ein gemeinsamer Dateischutz erlaubt umfangreiche eigenständige Werkstätten; kurze Minis und die Laufzeitbudgets installierter Skills bleiben getrennt. Regressionen prüfen insbesondere die vollständige Erhaltung langer Texte und begrenzter Quellenauszüge.
+
+Alle 245 Werkstätten und 245 Minis sind strukturell geprüft; 340 Quellenzuordnungen in sämtlichen 245 Qualitätsprofilen sind mit den einschlägigen Quellenaussagen abgeglichen. Das neue Register dokumentiert den geprüften Dateistand, Anwendung und Grenzen je Rechtsgebiet. Das Datum von BAG 5 AZR 347/21 ist auf den 09.02.2022 berichtigt. Fehlende Arbeitsrechtsanker und der begrenzte Bankrechtsanker XI ZR 71/25 sind in die Werkstätten aufgenommen. Einzelne weitere Quellenbezeichnungen sind präzisiert. Der [Prüfbericht](./docs/notariat-promptqualitaet-2026-09-25.md) dokumentiert den erreichten Prüfstand und die verbleibenden fachlichen Grenzen.
+
 # v445.4.0 - Bauwirtschaft für den KI-Workshop
 
 Die Bauwirtschaft bleibt ein Plugin mit 20 ausführenden Skills sowie eigenständigen Werkstatt-, Mini- und Schwerpunkt-Prompts. Die Zuordnung der Gebäude-Leistungsphasen 8 und 9 wird präzisiert. Ein neuer [Workshop-Leitfaden](./docs/bauwirtschaft-workshop.md) enthält direkt verwendbare Aufträge für HOAI, Bauvergabe, Buchhaltung und Projektsteuerung.

@@ -3,6 +3,8 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { createHash } from 'node:crypto';
 
+// Dateischutz für eigenständige Downloads; Skill- und Modellbudgets bleiben getrennt.
+const promptLimits = JSON.parse(fs.readFileSync(new URL('./prompt-limits.json', import.meta.url), 'utf8'));
 const root = process.cwd();
 const errors = [];
 const warnings = [];
@@ -158,7 +160,7 @@ for (const entry of marketplace.plugins || []) {
   const schnellstart = path.join(pluginRoot, `${entry.name}-schnellstart.md`);
   if (!fs.existsSync(werkstatt)) errors.push(`${entry.name}: Werkstatt-Markdown fehlt`);
   if (!fs.existsSync(schnellstart)) errors.push(`${entry.name}: Schnellstart-Markdown fehlt`);
-  if (fs.existsSync(schnellstart) && fs.statSync(schnellstart).size > 7500) {
+  if (fs.existsSync(schnellstart) && fs.statSync(schnellstart).size > promptLimits.mini_max_bytes) {
     errors.push(`${rel(schnellstart)}: Schnellstart ist größer als 7500 Bytes`);
   }
   if (fs.existsSync(werkstatt)) {
@@ -178,7 +180,7 @@ for (const entry of marketplace.plugins || []) {
       }
     }
     const size = fs.statSync(werkstatt).size;
-    if (size > 128 * 1024) errors.push(`${rel(werkstatt)}: Werkstatt ist größer als 128 KiB (${size} Bytes)`);
+    if (size > promptLimits.workshop_max_bytes) errors.push(`${rel(werkstatt)}: Werkstatt ist größer als ${promptLimits.workshop_max_bytes} Bytes (${size} Bytes)`);
     // Umfang ist kein Nachweis fachlicher Substanz; keine Mindestlänge erzwingen.
     const text = readText(werkstatt);
     if (!text.startsWith('# ') || (text.match(/^# /gm) || []).length !== 1) {

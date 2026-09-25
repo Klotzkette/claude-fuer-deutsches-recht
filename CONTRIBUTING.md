@@ -7,7 +7,7 @@ Beiträge sind willkommen – insbesondere zu neuen Rechtsgebieten, aktuelleren 
 - [ ] Sprache deutsch.
 - [ ] Zitierweise nach [`references/zitierweise.md`](./references/zitierweise.md).
 - [ ] Methodik nach [`references/methodik-buergerliches-recht.md`](./references/methodik-buergerliches-recht.md).
-- [ ] Skill-Frontmatter vollständig und validatorfest (`name`, `description`, optional `allowed-tools`).
+- [ ] Skill-Frontmatter vollständig und validatorfest (ausschließlich `name` und `description`).
 - [ ] Skills sind kanzleitauglich (reproduzierbar, mit Quellenpflicht, mit Fristlogik wo relevant).
 - [ ] Keine Mandantendaten / personenbezogene Daten im Beispiel.
 - [ ] `node scripts/validate-plugin-structure.mjs` läuft fehlerfrei.

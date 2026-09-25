@@ -9,6 +9,7 @@ from email.parser import BytesParser
 import importlib.util
 import os
 from pathlib import Path
+from prompt_limits import MAX_WORKSHOP_BYTES
 import re
 import shutil
 import subprocess
@@ -215,7 +216,7 @@ class PracticePackageTests(unittest.TestCase):
                     self.assertGreater(size, 3000)
                     if kind == "werkstatt":
                         self.assertGreater(size, 35000)
-                        self.assertLessEqual(size, 128 * 1024)
+                        self.assertLessEqual(size, MAX_WORKSHOP_BYTES)
                     else:
                         self.assertLessEqual(size, 7500)
                     self.assertIn("BGB", text)

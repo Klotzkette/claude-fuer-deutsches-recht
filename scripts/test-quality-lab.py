@@ -719,6 +719,18 @@ class QualityLabTests(unittest.TestCase):
                     self.assertEqual(result["status"], "unreviewed")
                     caller.assert_not_called()
 
+    def test_long_workshop_preparation_does_not_increase_judge_context(self):
+        workshop = self.plugin / "fachgebiet-werkstatt.md"
+        text = "# 1. Werkstatt\n\n## 1.1. Arbeitsgänge\n\n" + "Fachliche Einzelschritte gezielt lesen.\n" * 7000
+        self.assertGreater(len(text), lab.MAX_CONTEXT)
+        workshop.write_text(text, encoding="utf-8")
+        self.write_profile()
+        run = self.base / "long-workshop-run"
+        lab.prepare("fachgebiet", self.profile["cases"][0]["id"], "werkstatt", run, self.root)
+        self.assertEqual((run / "input/instructions.md").read_text(encoding="utf-8"), text)
+        with self.assertRaisesRegex(lab.LabError, "Prüfkontext; keine stille Kürzung"):
+            lab.read_artifact(workshop)
+
     def test_context_limit_is_checked_while_reading(self):
         with self.assertRaises(lab.LabError):
             lab.bounded_text(iter(["a" * lab.MAX_CONTEXT, "b"]))

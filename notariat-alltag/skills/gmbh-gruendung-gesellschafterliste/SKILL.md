@@ -3,7 +3,7 @@ name: gmbh-gruendung-gesellschafterliste
 description: "Bereitet GmbH- und UG-Gründungen aus Gründerunterlagen vor: individuelle Satzung oder Musterprotokoll, Geschäftsanteile, Geschäftsführerbestellung, Einzahlung, Gesellschafterliste und Registeranmeldung. Trennt Entwurf, Beurkundung und tatsächliche Eintragungsreife."
 ---
 
-# GmbH-Gründung und Registermappe vorbereiten
+# 1. GmbH-Gründung und Registermappe vorbereiten
 
 ## 1. Zweck und Anwendungsfall
 
@@ -34,6 +34,12 @@ Entwerfe Satzung, Bestellung, Anmeldung und erforderliche Liste mit eigenem Zwec
 ### 3.5. Vorphase nicht beschönigen
 
 Unterscheide Vorgründung, beurkundete Vorgesellschaft und eingetragene Gesellschaft. Paragraf 11 Absatz 2 betrifft die Haftung der Handelnden, nicht unterschiedslos aller Gesellschafter. Besondere Gründerhaftung bei Verlusten vor Eintragung ist davon getrennt dem Notar vorzulegen. Keine pauschalen Gebührenbeträge; Geschäftswert und GNotKG-Tatbestände gesondert prüfen.
+
+### 3.5. Vertretung und abschließende Anmeldung prüfen
+
+Eine Gründungsvollmacht muss nach GmbHG Paragraf 2 Absatz 2 notariell errichtet oder beglaubigt sein; BGB Paragraf 167 Absatz 2 allein genügt hier nicht. Für die Gründungsanmeldung verlangt GmbHG Paragraf 78 sämtliche Geschäftsführer. Eine Einzelvertretungsbefugnis ersetzt diese besondere Mitwirkung nicht. Ordne jeder erforderlichen Person Erklärung und Nachweis zu.
+
+Soll eine GbR Gesellschafterin werden, verlangt GmbHG Paragraf 40 Absatz 1 vor ihrer Aufnahme in die Gesellschafterliste die Eintragung im Gesellschaftsregister. Nach Registereingang Namen, Sitz, Registergericht und Nummer sowie Vertretung abgleichen; die einzelnen GbR-Gesellschafter nicht ersatzweise als Inhaber des GmbH-Anteils eintragen. Anteilsnummern, Nennbeträge sowie einzelne und gesamte prozentuale Beteiligung nachrechnen.
 
 ## 4. Quellenpflicht
 

@@ -33,6 +33,10 @@ Beschwerde nach GBO Paragrafen 71 ff. gesondert prüfen. Nach Paragraf 72 entsch
 
 Nach Eingang einer Bewilligung Person, Recht, Betrag und erfasste Teilfläche gegen Antrag und Verfügung vergleichen. Dann eine ausformulierte Nachreichung mit genau bezeichneten Anlagen erstellen. Eine Übermittlungsbestätigung ist noch kein Eintragungsnachweis. Nach Registermitteilung erst die tatsächlich vollzogenen Rechte abhaken und verbleibende Rang- oder Löschungsreste an `vollzug-fristen-wiedervorlage` übergeben.
 
+### 3.5. Zahlungsbedingung von der Auflassung trennen
+
+Nach [BGB Paragraf 925 Absatz 2](https://www.gesetze-im-internet.de/bgb/__925.html) ist eine bedingte oder befristete Auflassung unwirksam. „Die Auflassung gilt erst nach Kaufpreiszahlung“ deshalb nicht als Sicherung übernehmen. Stattdessen die unbedingte dingliche Einigung und die gesonderten Weisungen zur Einreichung des Umschreibungsantrags nach dem beurkundeten Vertrag unterscheiden. Zahlungseingang, Lastenfreistellung und sonstige Voraussetzungen belegen; die Vorbereitung eines Antrags ist keine Einreichung.
+
 ## 4. Quellenpflicht
 
 [GBO](https://www.gesetze-im-internet.de/gbo/) und [BGB Paragraf 879](https://www.gesetze-im-internet.de/bgb/__879.html) anhand des Vorgangs prüfen. Für die konkrete Vollzugshandlung benötigte Quelle nach [Zitierweise](../../references/zitierweise.md) dokumentieren. Landesbezogene Übermittlungsvorgaben nur als geprüft ausgeben, wenn sie tatsächlich vorliegen.

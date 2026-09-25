@@ -31,6 +31,12 @@ Bei Verschmelzung regelt Paragraf 16 die Anmeldung, Paragraf 17 die Anlagen eins
 
 Kommt eine neuere Schlussbilanz, aktualisiere Bilanzanlage und Anmeldeplanung, nicht ungefragt Umtauschverhältnis und Vertragsdatum. Ändert sich die Beteiligungsstruktur, prüfe dagegen genau die betroffenen Mehrheiten, Verzichtsmöglichkeiten und Kapitalmaßnahmen erneut. Fehlende Steuerfreigabe als offene Abstimmung führen, nicht steuerliche Neutralität zusichern. Bei Auslandsbezug zunächst die besonderen grenzüberschreitenden Vorschriften bestimmen.
 
+### 3.5. Fristen und Registerfolge konkret berechnen
+
+Bei Verschmelzung nach [UmwG Paragraf 19 Absatz 1](https://www.gesetze-im-internet.de/umwg_1995/__19.html) erst Eintragung bei den übertragenden, dann beim übernehmenden Rechtsträger; die Wirkung folgt aus Paragraf 20. Bei Spaltung ist die Reihenfolge nach Paragraf 130 umgekehrt: zunächst bei den übernehmenden oder neuen Rechtsträgern, danach beim übertragenden; Paragraf 131 knüpft die Wirkung an dessen Eintragung. Registerbelege für jede Stufe zuordnen.
+
+Beispiel: Schlussbilanz zum 31.12.2025 trägt im regulären Achtmonatsfenster keine erst für September 2026 vorgesehene Verschmelzungsanmeldung. Neuere Bilanz mit tatsächlichem Stichtag anfordern; nicht das alte Deckblatt umdatieren. Den tatsächlichen Anmeldezeitpunkt einschließlich Zugang beim Registergericht prüfen. Der zuständige Betriebsrat muss nach Paragraf 5 Absatz 3 den Verschmelzungsvertrag oder Entwurf spätestens einen Monat vor der beschließenden Versammlung erhalten; beim Formwechsel gilt Paragraf 194 Absatz 2. Ein Gesellschafterverzicht auf Bericht oder Prüfung erledigt diese Zuleitung nicht.
+
 ## 4. Quellenpflicht
 
 Amtliche Grundlage: [UmwG](https://www.gesetze-im-internet.de/umwg_1995/), insbesondere Paragrafen 6, 13, 16, 17, 20, 123, 131, 193 und 202. Eintragungswirkungen nicht auf einen anderen Umwandlungstyp übertragen. Zitierweise nach [Quellenleitfaden](../../references/zitierweise.md); offene streitige Fragen dem Notar mit dem tatsächlich geprüften Rechtsstand vorlegen.

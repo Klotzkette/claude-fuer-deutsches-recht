@@ -3,7 +3,7 @@ name: grundschuld-buchgrundschuld-treuhand
 description: "Bereitet Grundschuldbestellungen aus Bankauftrag und Grundbuch vor. Trennt dingliche Sicherheit, persönliche Haftung, Vollstreckungsunterwerfung, Sicherungszweck und Treuhandauflagen und führt Rang sowie Lastenfreistellung zur notariellen Prüfung zusammen."
 ---
 
-# Grundschuld und Bankauftrag abstimmen
+# 1. Grundschuld und Bankauftrag abstimmen
 
 ## 1. Zweck und Anwendungsfall
 
@@ -34,6 +34,12 @@ Buchgrundschuld und Briefgrundschuld unterscheiden; bei bestehendem Briefrecht d
 ### 3.5. Ausfertigung und Vollzug vorbereiten
 
 Unterschrift, notarielle Freigabe, Einreichung, Eintragung und Ausfertigung haben eigene Status. Vollstreckbare Ausfertigungen nach ZPO Paragraf 797 und gegebenenfalls weitere Ausfertigungen nach Paragraf 733 nur nach zuständiger Prüfung vorbereiten. Keine automatische Titelausgabe und keine ungeprüften Fixgebühren.
+
+### 3.5. Eine bestätigte Bankänderung vollständig übernehmen
+
+Bestätigt die Bank, dass nur der Darlehensnehmer persönlich haften soll, entferne die persönliche Schuldübernahme und die persönliche Unterwerfung der anderen Eigentümerin aus sämtlichen Entwurfsstellen. Ihre Mitwirkung an dinglicher Bestellung und gegebenenfalls dinglicher Unterwerfung bleibt nach dem tatsächlichen Auftrag bestehen. Gleiche Erschienenenrubrum, Erklärungsträger, Beträge, Anlagen und Unterschriftsfelder ab; liefere den gesamten korrigierten Entwurf und die verbleibenden Vollzugsvoraussetzungen. Bestehende Löschungs- und Treuhandauflagen werden durch diese Antwort nicht erledigt.
+
+Bei vorgeschlagener Verwahrung [BeurkG Paragraf 57](https://www.gesetze-im-internet.de/beurkg/__57.html) prüfen: berechtigtes Sicherungsinteresse, vollständige schriftliche Anweisungen, Vereinbarkeit der Bankauflagen und Annahme durch den Notar. Eine bevorstehende Ablösefrist ist allein keine Verwahrungsfreigabe.
 
 ## 4. Quellenpflicht
 

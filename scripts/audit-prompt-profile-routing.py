@@ -14,6 +14,7 @@ sys.path.insert(0, str(REPO / "scripts"))
 
 from themen_profile import EXACT_PROFILE_KEYS, profile_for  # noqa: E402
 from quality_lab import load, validate_profile
+from prompt_limits import MAX_WORKSHOP_BYTES, MAX_MINI_BYTES
 
 
 CRITICAL_ROUTES = dict(EXACT_PROFILE_KEYS)
@@ -515,11 +516,11 @@ def main() -> int:
                 problems.append(
                     f"{path.relative_to(REPO)}: wiederholt angehängtes scharfes S"
                 )
-            if kind == "schnellstart" and size > 7500:
+            if kind == "schnellstart" and size > MAX_MINI_BYTES:
                 problems.append(f"{path.relative_to(REPO)}: {size} Bytes statt höchstens 7500")
-            if kind == "werkstatt" and size > 128 * 1024:
+            if kind == "werkstatt" and size > MAX_WORKSHOP_BYTES:
                 problems.append(
-                    f"{path.relative_to(REPO)}: {size} Bytes statt höchstens 128 KiB"
+                    f"{path.relative_to(REPO)}: {size} Bytes statt höchstens {MAX_WORKSHOP_BYTES} Bytes für einen eigenständigen Werkstatt-Download"
                 )
             if kind == "werkstatt":
                 for issue in individual_workshop_structure_problems(text):

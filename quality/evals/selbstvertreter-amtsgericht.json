@@ -15,8 +15,8 @@
     },
     {
       "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2017/03/rk20170302_2bvr097716.html",
-      "checked_on": "2026-09-22",
-      "supports": "BVerfG, Beschluss vom 02.03.2017, 2 BvR 977/16: Erkennbare Ablehnung schriftlicher Entscheidung kann Verhandlungsantrag sein, fehlendes Beweisangebot rechtfertigt Übergehen nicht. Amtlich indizierter vollständiger Text gelesen, direkter Zugriff 403. Verhandlungsantrag ersetzt weder fristgebundene Erklärung noch Sachbeweis; kein allgemeiner Anspruch außerhalb des gesetzlichen Verfahrens."
+      "checked_on": "2026-09-25",
+      "supports": "BVerfG, Beschluss vom 02.03.2017, 2 BvR 977/16: Erkennbare Ablehnung schriftlicher Entscheidung kann Verhandlungsantrag sein, fehlendes Beweisangebot rechtfertigt Übergehen nicht. Amtlicher Volltext am 25.09.2026 inhaltlich geprüft, Randnummern 1 bis 13 vollständig gelesen. Verhandlungsantrag ersetzt weder fristgebundene Erklärung noch Sachbeweis; kein allgemeiner Anspruch außerhalb des gesetzlichen Verfahrens."
     },
     {
       "url": "https://www.gesetze-im-internet.de/zpo/__276.html",
@@ -116,14 +116,14 @@
         "citation": "BVerfG, Beschluss vom 02.03.2017, 2 BvR 977/16",
         "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2017/03/rk20170302_2bvr097716.html",
         "application": "Erkennbare Ablehnung schriftlicher Entscheidung kann Verhandlungsantrag sein, fehlendes Beweisangebot rechtfertigt Übergehen nicht.",
-        "limit": "Amtlich indizierter vollständiger Text gelesen, direkter Zugriff 403. Verhandlungsantrag ersetzt weder fristgebundene Erklärung noch Sachbeweis; kein allgemeiner Anspruch außerhalb des gesetzlichen Verfahrens."
+        "limit": "Amtlicher Volltext am 25.09.2026 inhaltlich geprüft, Randnummern 1 bis 13 vollständig gelesen. Verhandlungsantrag ersetzt weder fristgebundene Erklärung noch Sachbeweis; kein allgemeiner Anspruch außerhalb des gesetzlichen Verfahrens."
       }
     ],
     "remaining_limits": [
-      "Amtlich indizierter vollständiger Text gelesen, direkter Zugriff 403. Verhandlungsantrag ersetzt weder fristgebundene Erklärung noch Sachbeweis; kein allgemeiner Anspruch außerhalb des gesetzlichen Verfahrens.",
+      "Amtlicher Volltext am 25.09.2026 inhaltlich geprüft, Randnummern 1 bis 13 vollständig gelesen. Verhandlungsantrag ersetzt weder fristgebundene Erklärung noch Sachbeweis; kein allgemeiner Anspruch außerhalb des gesetzlichen Verfahrens.",
       "Keine Live-Beratung oder Einreichung; der Verhandlungsfall ersetzt keine Prüfung der materiellen Klageforderung.",
       "Individuelle redaktionelle Akten- und Quellenprüfung (desk review), kein Live-Client- oder Modelltest.",
-      "Workflow-Vertiefung 2026-09-23: BVerfG 2 BvR 977/16 bleibt nach der bestehenden amtlich indexierten Quellenprüfung verwendet; direkter Zugriff beeinträchtigt. Bestehende Wertgrenzen und Übergangsfragen erhalten, keine erneute vollständige Reformprüfung. Desk review; keine Live-Client-Ausführung."
+      "Workflow-Vertiefung 2026-09-23: BVerfG 2 BvR 977/16 verwendet. Nachprüfung am 25.09.2026: Amtlichen Volltext mit Randnummern 1 bis 13 vollständig gelesen. Bestehende Wertgrenzen und Übergangsfragen erhalten, keine erneute vollständige Reformprüfung. Desk review; keine Live-Client-Ausführung."
     ]
   },
   "prompt_workflow_review": {

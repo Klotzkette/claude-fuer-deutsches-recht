@@ -2,7 +2,7 @@
 
 ## 1. Arbeitsstand und Zuständigkeit
 
-Amtliche Normtexte abgeglichen am 8. September 2026. Diese Übersicht dient der Vorbereitung durch Mitarbeiter. Identitätsfeststellung, Belehrung, Beurkundung, Beglaubigung, Zeugnisse und Freigabe bleiben beim Notar. Vor Verwendung den aktuellen Text und die konkrete Satzung beziehungsweise Urkunde prüfen. Ein Gesetzentwurf ist keine geltende Formvorschrift.
+Die nachstehend verlinkten Kernnormen wurden am 25. September 2026 erneut abgeglichen. Diese Übersicht dient der Vorbereitung durch Mitarbeiter. Identitätsfeststellung, Belehrung, Beurkundung, Beglaubigung, Zeugnisse und Freigabe bleiben beim Notar. Vor Verwendung den aktuellen Text und die konkrete Satzung beziehungsweise Urkunde prüfen. Ein Gesetzentwurf ist keine geltende Formvorschrift.
 
 ## 2. Grundstück und Beglaubigung
 
@@ -45,12 +45,18 @@ Für eine streitige Sonderfrage wird eine konkret einschlägige Entscheidung mit
 
 ## 5. Entscheidungsanker und konkrete Grenzen
 
-BGH, Urteil vom 07.02.2013, III ZR 121/12, Randnummern 17 bis 25 ([amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2012/III_ZR_121-12.pdf?__blob=publicationFile&v=1)): Die Verbraucherüberlegungsfrist steht nicht zur freien Disposition der Beteiligten. Bei Verkürzung sind sachlicher Grund und anderweitiger Übereilungsschutz zur notariellen Entscheidung aufzuklären. Ein bloßer früher Terminwunsch reicht nicht. Grenze: keine Aussage, dass jeder Notartermin zwei Wochen warten müsse oder der Vertrag bei Fristverletzung automatisch unwirksam werde. Die aktuelle Pflicht, Verkürzungsgründe in der Niederschrift anzugeben, folgt aus dem heutigen BeurkG Paragraf 17 Absatz 2a.
+BGH, Urteil vom 07.02.2013, III ZR 121/12, Randnummern 20 bis 22 ([amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2012/III_ZR_121-12.pdf?__blob=publicationFile&v=1)): Die Verbraucherüberlegungsfrist steht nicht zur freien Disposition der Beteiligten. Bei Verkürzung sind sachlicher Grund und anderweitiger Übereilungsschutz zur notariellen Entscheidung aufzuklären. Ein bloßer früher Terminwunsch reicht nicht. Grenze: keine Aussage, dass jeder Notartermin zwei Wochen warten müsse oder der Vertrag bei Fristverletzung automatisch unwirksam werde. Die aktuelle Pflicht, Verkürzungsgründe in der Niederschrift anzugeben, folgt aus dem heutigen BeurkG Paragraf 17 Absatz 2a.
 
-BGH, Beschluss vom 06.07.2016, XII ZB 61/16: Konkrete Behandlungssituation und Maßnahme sind bei der Patientenverfügung entscheidend. Der frühere Normstand ist auf die heutigen BGB Paragrafen 1820 und 1827 zu beziehen, nicht unverändert zu zitieren. Quellenstatus: [amtliche Erläuterung](https://www.bmjv.de/DE/themen/vorsorge_betreuungsrecht/patientenverfuegung/Anmerkungen_Urteil_BGH.html), kein in dieser Runde vollständig neu gelesener Entscheidungstext. Die Aussage ersetzt keine medizinische Auswahlentscheidung des Vollmachtgebers.
+Die Gesundheitsvollmacht und Patientenverfügung sind durch BGH, Beschlüsse vom 06.07.2016, XII ZB 61/16, und vom 08.02.2017, XII ZB 604/15, mit unterschiedlichen Prüfgegenständen erläutert. Für die ehevertragliche Inhaltskontrolle ist BGH, Urteil vom 11.02.2004, XII ZR 265/02, einschlägig. Die [geprüften Volltexte, genauen Fundstellen und Grenzen](rechtsprechung-geprueft.md) sind dokumentiert; historische Normnummern nicht ungeprüft übernehmen.
 
 ## 6. Zuständigkeit und Fortsetzung
 
 Grundbuchbeschwerden gehören nach [GBO Paragraf 72](https://www.gesetze-im-internet.de/gbo/__72.html) zum Oberlandesgericht. [Paragraf 18](https://www.gesetze-im-internet.de/gbo/__18.html) regelt die Behandlung von Eintragungshindernissen, nicht einen automatischen Anspruch auf Fristverlängerung. Bei Erbfolge [Paragrafen 35](https://www.gesetze-im-internet.de/gbo/__35.html) und [40](https://www.gesetze-im-internet.de/gbo/__40.html) getrennt auf Nachweis und Voreintragung prüfen.
 
 Bei Verschmelzung regelt [UmwG Paragraf 16](https://www.gesetze-im-internet.de/umwg_1995/__16.html) die Anmeldung, [Paragraf 17](https://www.gesetze-im-internet.de/umwg_1995/__17.html) deren Anlagen und [Paragraf 20](https://www.gesetze-im-internet.de/umwg_1995/__20.html) die Eintragungswirkungen. Beim Formwechsel bleiben Rechtsträgeridentität und Wirkung nach [Paragraf 202](https://www.gesetze-im-internet.de/umwg_1995/__202.html) maßgeblich. Eine Registeranmeldung beweist keinen bereits eingetretenen Vollzug.
+
+## 7. Besondere Vollzugsanforderungen
+
+Gründungsvollmacht nach [GmbHG Paragraf 2 Absatz 2](https://www.gesetze-im-internet.de/gmbhg/__2.html) in der besonderen Form; Gründungs- und Erhöhungsanmeldung durch sämtliche Geschäftsführer nach [Paragraf 78](https://www.gesetze-im-internet.de/gmbhg/__78.html). Eine GbR benötigt vor Aufnahme in die Gesellschafterliste die Gesellschaftsregistereintragung nach [Paragraf 40](https://www.gesetze-im-internet.de/gmbhg/__40.html).
+
+Die Auflassung ist nach [BGB Paragraf 925 Absatz 2](https://www.gesetze-im-internet.de/bgb/__925.html) bedingungsfeindlich; davon sind Vollzugsweisungen zu trennen. [BeurkG Paragraf 57](https://www.gesetze-im-internet.de/beurkg/__57.html) verlangt für Verwahrung insbesondere Sicherungsinteresse, bestimmte schriftliche Anweisungen und notarielle Annahme. Gebührenstand nach Auftragseingang und [GNotKG Paragraf 134 Absatz 2](https://www.gesetze-im-internet.de/gnotkg/__134.html) bestimmen.

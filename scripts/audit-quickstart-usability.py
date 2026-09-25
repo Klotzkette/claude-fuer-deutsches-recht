@@ -8,12 +8,14 @@ import re
 from pathlib import Path
 
 from quality_lab import load, validate_profile
+from prompt_limits import MAX_MINI_BYTES
 
 
 REPO = Path(__file__).resolve().parent.parent
 MARKETPLACE = REPO / ".claude-plugin" / "marketplace.json"
 PROTECTED = REPO / "scripts" / "handkuratierte-prompts.txt"
-MAX_BYTES = 7500
+
+MAX_BYTES = MAX_MINI_BYTES
 
 
 def protected_slugs() -> set[str]:
@@ -52,8 +54,8 @@ def main() -> int:
             continue
         raw = path.read_bytes()
         text = raw.decode("utf-8")
-        if len(raw) >= MAX_BYTES:
-            problems.append(f"{rel}: {len(raw)} Bytes, Grenze ist kleiner als {MAX_BYTES}")
+        if len(raw) > MAX_BYTES:
+            problems.append(f"{rel}: {len(raw)} Bytes, Grenze ist höchstens {MAX_BYTES}")
         if len(raw) < 2500:
             problems.append(f"{rel}: nur {len(raw)} Bytes, fachlicher Schnellstart zu dünn")
         if not text.startswith("# "):

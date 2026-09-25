@@ -1,0 +1,732 @@
+[
+  {
+    "number": 29,
+    "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2007/07/es20070704_2bve000106.html",
+    "http": 200,
+    "final_url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2007/07/es20070704_2bve000106.html",
+    "chars": 275656,
+    "sha256": "12f7f5fca56d9f67e3972980ff98d9c53b862a2469a422e4e9bf9d057d08ad69",
+    "status": "cited_passages_reviewed",
+    "reviewed_on": "2026-09-25",
+    "prompt_paths": [
+      "lobbyregister-bundestag/lobbyregister-bundestag-werkstatt.md"
+    ],
+    "review": {
+      "status": "supported",
+      "checked": "Amtlichen Kopf, Tenor, Rn. 1 und Fundstelle im amtlichen Zitiervorschlag gelesen: Urteil 04.07.2007, 2 BvE 1/06 u.a., BVerfGE 118, 277–401.",
+      "finding": "Prompt beschränkt sich zutreffend auf Entscheidung über Nebentätigkeiten und Einkünfte von Abgeordneten; kein LobbyRG-Registrierungsnachweis.",
+      "limit": "Keine umfassende Bewertung sämtlicher Gründe oder heutiger Abgeordnetenpflichten. Für den ausdrücklich begrenzten Hinweis genügt die geprüfte Gegenstandsabgrenzung; keine Rn. vorgetäuscht."
+    }
+  },
+  {
+    "number": 30,
+    "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/09/rs20250929_2bvr093419.html",
+    "http": 200,
+    "final_url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/09/rs20250929_2bvr093419.html",
+    "chars": 244982,
+    "sha256": "4f92f6af907c8386b12e46b947c9bb19b6414d5eca76661cdb148fdb0c4a9f15",
+    "status": "cited_passages_reviewed",
+    "reviewed_on": "2026-09-25",
+    "prompt_paths": [
+      "roemisch-katholisches-kirchenrecht/roemisch-katholisches-kirchenrecht-werkstatt.md"
+    ],
+    "review": {
+      "status": "supported",
+      "checked": "Amtliche Leitsätze, Kopf/Tenor und Rn. 1 gelesen: Beschluss 29.09.2025, 2 BvR 934/19.",
+      "finding": "Leitsatz 3 enthält genau die behauptete geschärfte Zweistufenprüfung: plausibler Tätigkeitsbezug, wirksame Kontrolle, Verhältnismäßigkeit und Grundrechtsabwägung.",
+      "limit": "BAG-Urteil aufgehoben/zurückverwiesen; kein pauschales Verbot von Kirchenmitgliedschaftsvoraussetzungen und keine theologische Bewertung. Älteren Maßstab nicht isoliert verwenden ist sachgerecht."
+    }
+  },
+  {
+    "number": 31,
+    "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2021/07/rs20210708_1bvr223714.html",
+    "http": 200,
+    "final_url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2021/07/rs20210708_1bvr223714.html",
+    "chars": 234933,
+    "sha256": "ab5dc3d00b47c794a4a17d4733e5bf31f6265b57398c5335757a011fb47f4531",
+    "status": "cited_passages_reviewed",
+    "reviewed_on": "2026-09-25",
+    "prompt_paths": [
+      "steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-werkstatt.md"
+    ],
+    "review": {
+      "status": "supported",
+      "checked": "Amtliche Leitsätze, Kopf/Tenor und Rn. 242–247, 249, 253–254 vollständig gelesen: Beschluss 08.07.2021, 1 BvR 2237/14 und 2422/17.",
+      "finding": "Unvereinbarkeit Vollverzinsung ab 2014, Fortgeltung bis einschließlich 2018, Neuregelung ab2019; Rn.242/243 erstrecken Entscheidung ausdrücklich nicht auf andere Zinsen.",
+      "limit": "Heutige Neuregelung muss separat geprüft werden; aus altem Beschluss keine heutige Zinsberechnung freigegeben. Präzisierende Fundstellen optional ergänzbar."
+    }
+  },
+  {
+    "plugin": "corporate-contract-law",
+    "file": "corporate-contract-law/corporate-contract-law-werkstatt.md",
+    "line": 243,
+    "source_id": "BGH-013",
+    "citation": {
+      "court": "BGH",
+      "court_name": "Bundesgerichtshof",
+      "decision_type": "Urteil",
+      "decision_date": "2024-02-15",
+      "docket": "VII ZR 42/22",
+      "qualification": null
+    },
+    "url": null,
+    "registered_source_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2024&Gericht=bgh&Seite=17&Sort=1&anz=3393&nr=136872&pos=520",
+    "verified_source_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2022/VII_ZR__42-22.pdf?__blob=publicationFile&v=1",
+    "reviewed_on": "2026-09-25",
+    "status": "inhaltlich abgeglichen",
+    "application": "BGH, Urteil vom 15.02.2024, Az. VII ZR 42/22, ist ein Rechercheanker zur konkreten Vertragsstrafenbasis im Einheitspreisbauvertrag. Der amtlich indexierte Leitsatz betrifft eine Klausel mit täglichem Satz und einer Grenze von fünf Prozent der im Auftragsschreiben genannten Nettosumme. Das Original war gesperrt. Leiten Sie daraus weder eine für alle Verträge sichere Fünf-Prozent-Grenze noch ungeprüfte Einzelheiten der Begründung ab. Ein sinkender tatsächlicher Auftragsumfang gibt jedenfalls Anlass, die gewählte Basis und Gesamtbelastung gesondert zu prüfen.",
+    "pinpoint": "Amtlicher Leitsatz; Rn.29–31",
+    "limit": "Konkrete AGB-Vertragsstrafe im Einheitspreisvertrag, Obergrenze an ursprünglicher Netto-Auftragssumme; enger Leitsatzanker korrekt. Volltext inzwischen SharedDocs zugänglich.",
+    "evidence_sha256": "381f7fdaa60f5b63ee91435cfe1b8a87072f71240114878033509bec460abecb",
+    "prompt_sha256": "81a729559e1277c134c131232af1535ce2a264967f320442204833cabc48a6b5",
+    "notes": "Quellenbezug durch Aktenzeichen im Text",
+    "prompt_uses": [
+      {
+        "file": "corporate-contract-law/corporate-contract-law-werkstatt.md",
+        "line": 243
+      }
+    ]
+  },
+  {
+    "plugin": "bautraegervertrag-pruefer",
+    "file": "bautraegervertrag-pruefer/bautraegervertrag-pruefer-werkstatt.md",
+    "line": 81,
+    "source_id": "BGH-030",
+    "citation": {
+      "court": "BGH",
+      "court_name": "Bundesgerichtshof",
+      "decision_type": "Urteil",
+      "decision_date": "2018-02-22",
+      "docket": "VII ZR 46/17",
+      "qualification": null
+    },
+    "url": null,
+    "registered_source_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2017/VII_ZR__46-17A.pdf?__blob=publicationFile&v=1",
+    "verified_source_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2017/VII_ZR__46-17A.pdf?__blob=publicationFile&v=1",
+    "reviewed_on": "2026-09-25",
+    "status": "inhaltlich abgeglichen",
+    "application": "Tragende Normen und Rechtsfolgen amtlich verifizieren. Die oben erläuterte Ratenentscheidung ist nur innerhalb ihrer zeitlichen und sachlichen Grenzen anzuwenden. Weitere, hier nicht bestätigte Rechercheausgangspunkte sind BGH, Urteile vom 25.02.2016, VII ZR 49/15, und vom 12.05.2016, VII ZR 171/15, zu Nachzüglern und Gemeinschaftseigentum sowie Urteile vom 09.11.2023, VII ZR 241/22, vom 22.02.2018, VII ZR 46/17, und vom 08.11.2007, VII ZR 183/05. Vor Verwendung Volltext, genaue Aussage und Fundstelle sichern; ungeprüfte Hinweise nicht als Beleg ausgeben.",
+    "pinpoint": "Rn.31–37,48–54",
+    "limit": "Keine fiktiven Beseitigungskosten bei behaltenem nicht saniertem Werk; bei Beseitigungsabsicht Vorschuss grundsätzlich auch nach kleiner Schadensersatzwahl, zweckgebunden und abzurechnen. Werkvertragsgrenze stimmt.",
+    "evidence_sha256": "71b431aa6d7828abd11505b6e8c761de6ab68c371a217e4aec66e85f811e0036",
+    "prompt_sha256": "6453fb868c4fc07f5e37a23bb8a62253469a4948b55a449004477d22a48cc2d0",
+    "notes": "Quellenbezug durch Aktenzeichen im Text",
+    "prompt_uses": [
+      {
+        "file": "bautraegervertrag-pruefer/bautraegervertrag-pruefer-werkstatt.md",
+        "line": 81
+      }
+    ]
+  },
+  {
+    "plugin": "bautraegervertragspruefer",
+    "file": "bautraegervertragspruefer/bautraegervertragspruefer-werkstatt.md",
+    "line": 91,
+    "source_id": "BGH-030",
+    "citation": {
+      "court": "BGH",
+      "court_name": "Bundesgerichtshof",
+      "decision_type": "Urteil",
+      "decision_date": "2018-02-22",
+      "docket": "VII ZR 46/17",
+      "qualification": null
+    },
+    "url": null,
+    "registered_source_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2017/VII_ZR__46-17A.pdf?__blob=publicationFile&v=1",
+    "verified_source_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2017/VII_ZR__46-17A.pdf?__blob=publicationFile&v=1",
+    "reviewed_on": "2026-09-25",
+    "status": "inhaltlich abgeglichen",
+    "application": "Die oben ausgewerteten Entscheidungen zur Ratenvereinbarung und Erstverwalterabnahme tragen nur die dort bezeichneten Aussagen. Weitere, hier nicht verifizierte Suchansätze sind BGH, Urteil vom 09.11.2023, VII ZR 241/22; Urteil vom 08.11.2007, VII ZR 183/05; Urteil vom 22.02.2018, VII ZR 46/17; Urteil vom 12.05.2016, VII ZR 171/15; und Urteil vom 25.02.2016, VII ZR 49/15. Sie dürfen ohne eigene Volltextprüfung nicht als Belege in das Ergebnis gelangen.",
+    "pinpoint": "Rn.31–37,48–54",
+    "limit": "Keine fiktiven Beseitigungskosten bei behaltenem nicht saniertem Werk; bei Beseitigungsabsicht Vorschuss grundsätzlich auch nach kleiner Schadensersatzwahl, zweckgebunden und abzurechnen. Werkvertragsgrenze stimmt.",
+    "evidence_sha256": "71b431aa6d7828abd11505b6e8c761de6ab68c371a217e4aec66e85f811e0036",
+    "prompt_sha256": "1860ab0211e15d153b558c6b15f3d0ae708721a4b0b72ea69e7574877349b8ed",
+    "notes": "Quellenbezug durch Aktenzeichen im Text",
+    "prompt_uses": [
+      {
+        "file": "bautraegervertragspruefer/bautraegervertragspruefer-werkstatt.md",
+        "line": 91
+      }
+    ]
+  },
+  {
+    "plugin": "corporate-contract-law",
+    "file": "corporate-contract-law/corporate-contract-law-schnellstart.md",
+    "line": 25,
+    "source_id": "BGH-049",
+    "citation": {
+      "court": "BGH",
+      "court_name": "Bundesgerichtshof",
+      "decision_type": "Urteil",
+      "decision_date": "2017-01-19",
+      "docket": "VII ZR 301/13",
+      "qualification": null
+    },
+    "url": null,
+    "registered_source_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2013/VII_ZR_301-13.pdf?__blob=publicationFile&v=1",
+    "verified_source_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2013/VII_ZR_301-13.pdf?__blob=publicationFile&v=1",
+    "reviewed_on": "2026-09-25",
+    "status": "inhaltlich abgeglichen",
+    "application": "Rechercheanker: BGH, Urteil vom 19.01.2017, Az. VII ZR 301/13, zur Abnahme und zum Abrechnungsverhältnis; amtlich indexierter Leitsatz, Volltextabruf gesperrt.",
+    "pinpoint": "Rn. 31–48",
+    "limit": "Abnahme ist grundsätzlich Zäsur; vor Abnahme bestehen Erfüllungs- und allgemeine Leistungsstörungsrechte. Bloßer Vorschuss begründet kein Abrechnungsverhältnis, endgültige Ablehnung weiterer Zusammenarbeit kann es begründen. ERP-Übertragung ausdrücklich begrenzt.",
+    "evidence_sha256": "0b725d4cf5a062d1dbc7b66ffc2229963aecd8dec68da59fa323b1380b53b345",
+    "prompt_sha256": "1d9d0270cd3ee927e07d20d15feb292e911823fb7abeb63bf9563451aeabf090",
+    "notes": "Quellenbezug durch Aktenzeichen im Text",
+    "prompt_uses": [
+      {
+        "file": "corporate-contract-law/corporate-contract-law-schnellstart.md",
+        "line": 25
+      },
+      {
+        "file": "corporate-contract-law/corporate-contract-law-werkstatt.md",
+        "line": 125
+      }
+    ]
+  },
+  {
+    "plugin": "fachanwalt-medizinrecht",
+    "file": "fachanwalt-medizinrecht/fachanwalt-medizinrecht-schnellstart.md",
+    "line": 29,
+    "source_id": "BGH-051",
+    "citation": {
+      "court": "BGH",
+      "court_name": "Bundesgerichtshof",
+      "decision_type": "Urteil",
+      "decision_date": "2009-02-03",
+      "docket": "VI ZR 183/08",
+      "qualification": null
+    },
+    "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=47069",
+    "registered_source_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2009-2&Gericht=bgh&Sort=1&anz=282&nr=47069&pos=10",
+    "verified_source_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2008/VI_ZR_183-08.pdf?__blob=publicationFile&v=1",
+    "reviewed_on": "2026-09-25",
+    "status": "inhaltlich abgeglichen",
+    "application": "[Paragraf 843 BGB](https://www.gesetze-im-internet.de/bgb/__843.html), [Paragraf 287 ZPO](https://www.gesetze-im-internet.de/zpo/__287.html) und [Paragraf 116 SGB X](https://www.gesetze-im-internet.de/sgb_10/__116.html) verbinden Mehrbedarf, Schätzung und Anspruchsübergang. [BGH, Urteil vom 03.02.2009, Az. VI ZR 183/08](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=47069), amtlicher Leitsatz, erlaubt Tabellenorientierung ohne abweichende konkrete Gesichtspunkte. Kein aktueller Stundensatz und keine spezielle Arzthaftungsentscheidung. Am 14.09.2026 amtlichen Suchauszug geprüft; Volltextabruf gesperrt. Weitergehende Aussagen und fallbezogene Normfassungen live prüfen.",
+    "pinpoint": "Amtlicher Leitsatz",
+    "limit": "Tabellenorientierung für Haushaltsführungsschaden nur bei fehlenden abweichenden konkreten Umständen. Kein automatischer Stundenpreis oder Nachweis der Kausalität; Volltext nun gesichert.",
+    "evidence_sha256": "f2f94c7fd09eb06b9a89269b0ee5cd8432d704ed39f5b813258b50f17fc20ee4",
+    "prompt_sha256": "15bb27f164ea9d1d0f80ea1495b90bab4112b028bfa63129a9d5fb31f323ba8d",
+    "notes": "Quellenlink im Text",
+    "prompt_uses": [
+      {
+        "file": "fachanwalt-medizinrecht/fachanwalt-medizinrecht-schnellstart.md",
+        "line": 29
+      }
+    ]
+  },
+  {
+    "plugin": "fachanwalt-insolvenz-sanierungsrecht",
+    "file": "fachanwalt-insolvenz-sanierungsrecht/fachanwalt-insolvenz-sanierungsrecht-werkstatt.md",
+    "line": 81,
+    "source_id": "BGH-067",
+    "citation": {
+      "court": "BGH",
+      "court_name": "Bundesgerichtshof",
+      "decision_type": "Urteil",
+      "decision_date": "2021-07-13",
+      "docket": "II ZR 84/20",
+      "qualification": null
+    },
+    "url": null,
+    "registered_source_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2020/II_ZR__84-20.pdf?__blob=publicationFile&v=1",
+    "verified_source_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2020/II_ZR__84-20.pdf?__blob=publicationFile&v=1",
+    "reviewed_on": "2026-09-25",
+    "status": "inhaltlich abgeglichen",
+    "application": "Weitere im Altmaterial genannte Aktenzeichen sind II ZR 84/20 zur Abgrenzung handelsbilanzieller und insolvenzrechtlicher Prognose, IX ZR 285/14 zu Fortführungswerten und Beraterpflichten, IX ZB 47/22 zum Versagungsantrag, IX ZB 5/24 zur Nachtragsverteilung und IX ZB 49/17 zum zulässigen Planinhalt. Ohne amtliche Identifizierung und Prüfung bleiben diese Angaben Recherchehinweise; ergänze fehlende Entscheidungsdaten nicht aus Vermutung.",
+    "pinpoint": "Rn. 65–87",
+    "limit": "Weicher Patronatsbrief ersetzt kein bilanzierbares Recht. Bei Krise und Liquiditätslücken trägt vergangene Hilfe keine positive Prognose ohne konkrete Umstände; Rechtsanspruch für jeden Zufluss aber nicht zwingend. Laufende Überwachung und HGB-Abgrenzung stimmen.",
+    "evidence_sha256": "b075c3993a1ede7cb47bf21df9e1d003b222d390e55ebbb63a120081120cb154",
+    "prompt_sha256": "776ce54197fd897c51de5c583bb892c210ed3e8bff6b26d00c70a6a8562a5512",
+    "notes": "Quellenbezug durch Aktenzeichen im Text",
+    "prompt_uses": [
+      {
+        "file": "fachanwalt-insolvenz-sanierungsrecht/fachanwalt-insolvenz-sanierungsrecht-werkstatt.md",
+        "line": 81
+      }
+    ]
+  },
+  {
+    "plugin": "richter-amtsgericht-insolvenz-restrukturierung",
+    "file": "gerichtsplugins/richter-amtsgericht-insolvenz-restrukturierung/richter-amtsgericht-insolvenz-restrukturierung-werkstatt.md",
+    "line": 67,
+    "source_id": "BGH-082",
+    "citation": {
+      "court": "BGH",
+      "court_name": "Bundesgerichtshof",
+      "decision_type": "Beschluss",
+      "decision_date": "2017-07-20",
+      "docket": "IX ZB 13/16",
+      "qualification": null
+    },
+    "url": null,
+    "registered_source_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2016/IX_ZB__13-16.pdf?__blob=publicationFile&v=1",
+    "verified_source_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2016/IX_ZB__13-16.pdf?__blob=publicationFile&v=1",
+    "reviewed_on": "2026-09-25",
+    "status": "inhaltlich abgeglichen",
+    "application": "Die bisherigen Hinweise BGH IX ZB 13/16, IX ZB 49/17 und IX ZB 6/21 betreffen Minderheitenschutz, Verfahrensmängel und Vergleichsgrundlagen. Vor Zitierung Datum, Volltext und konkrete Aussage prüfen; die Kurznummern allein sind keine vollständigen Entscheidungsnachweise.",
+    "pinpoint": "Rn. 9–16",
+    "limit": "Drittkompensation muss volle und gesicherte Deckung bieten; Bonität, Rang und Verwertungswert relevant. Historisches InsO-Verfahren und offensichtliche Minderheitenschutzversagung nicht unmittelbar auf StaRUG übertragen. In der Mini wurde das nachfolgende Wort Urteil zutreffend zu Beschluss berichtigt; die Hauptzitierung war bereits richtig.",
+    "evidence_sha256": "c6c8b6dea2f0d9ca824a8fdeed3094206fc4d9f3582ca222d82abbf891f6062c",
+    "prompt_sha256": "998c7f010a051c0d52c49e64d0c48b1f303b334e7e6d93350fa188d9b5b4a078",
+    "notes": "Quellenbezug durch Aktenzeichen im Text",
+    "prompt_uses": [
+      {
+        "file": "gerichtsplugins/richter-amtsgericht-insolvenz-restrukturierung/richter-amtsgericht-insolvenz-restrukturierung-werkstatt.md",
+        "line": 67
+      }
+    ]
+  },
+  {
+    "plugin": "fachanwalt-insolvenz-sanierungsrecht",
+    "file": "fachanwalt-insolvenz-sanierungsrecht/fachanwalt-insolvenz-sanierungsrecht-werkstatt.md",
+    "line": 75,
+    "source_id": "BGH-083",
+    "citation": {
+      "court": "BGH",
+      "court_name": "Bundesgerichtshof",
+      "decision_type": "Urteil",
+      "decision_date": "2025-01-23",
+      "docket": "IX ZR 229/22",
+      "qualification": null
+    },
+    "url": null,
+    "registered_source_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2022/IX_ZR_229-22.pdf?__blob=publicationFile&v=1",
+    "verified_source_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2022/IX_ZR_229-22.pdf?__blob=publicationFile&v=1",
+    "reviewed_on": "2026-09-25",
+    "status": "inhaltlich abgeglichen",
+    "application": "- BGH, Urteil vom 23.01.2025, IX ZR 229/22: Behandlung streitiger Verbindlichkeiten und vorläufig vollstreckbarer Titel im Liquiditätsstatus; Vollstreckungsvoraussetzungen und eingeleitete Vollstreckung konkret prüfen.",
+    "pinpoint": "Rn. 34–45; ergänzend Rn. 11–12",
+    "limit": "Vorläufiger Titel bei Vollstreckungsvoraussetzungen und eingeleiteter Vollstreckung im Schuldnerstatus voll anzusetzen. Gerichtlicher Gläubigerantrag und materielle Gegenbeweise differenziert; kein Prozesschancenabschlag. Zusätzlich bestätigt: umfassende widerspruchsfreie Indizienwürdigung zum Benachteiligungsvorsatz.",
+    "evidence_sha256": "39352de9ac761163984568c54228ef895b3a37c2f43c096f00a338a08c74bf30",
+    "prompt_sha256": "776ce54197fd897c51de5c583bb892c210ed3e8bff6b26d00c70a6a8562a5512",
+    "notes": "Quellenbezug durch Aktenzeichen im Text",
+    "prompt_uses": [
+      {
+        "file": "fachanwalt-insolvenz-sanierungsrecht/fachanwalt-insolvenz-sanierungsrecht-werkstatt.md",
+        "line": 75
+      }
+    ]
+  },
+  {
+    "plugin": "insolvenzrecht",
+    "file": "insolvenzrecht/insolvenzrecht-werkstatt.md",
+    "line": 125,
+    "source_id": "BGH-083",
+    "citation": {
+      "court": "BGH",
+      "court_name": "Bundesgerichtshof",
+      "decision_type": "Urteil",
+      "decision_date": "2025-01-23",
+      "docket": "IX ZR 229/22",
+      "qualification": null
+    },
+    "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=Aktuell&Gericht=bgh&Sort=12288&anz=1152&nr=140413&pos=16",
+    "registered_source_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2022/IX_ZR_229-22.pdf?__blob=publicationFile&v=1",
+    "verified_source_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2022/IX_ZR_229-22.pdf?__blob=publicationFile&v=1",
+    "reviewed_on": "2026-09-25",
+    "status": "inhaltlich abgeglichen",
+    "application": "Für IX ZR 229/22 steht ein [amtlicher Entscheidungsnachweis](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=Aktuell&Gericht=bgh&Sort=12288&anz=1152&nr=140413&pos=16), für II ZR 88/16 die [amtliche Entscheidung](https://juris.bundesgerichtshof.de/cgi-bin/bgh_notp/document.py?Art=en&Blank=1&Datum=2017-12-19&Gericht=bgh&Sort=6&anz=26&nr=43965&pos=13) zur Verfügung. Vor der konkreten Zitierung die Aussage im Volltext und ihren Fallbezug prüfen. Fehlenden Quellenzugriff offenlegen, keine Fundstelle erfinden.",
+    "pinpoint": "Rn. 34–45; ergänzend Rn. 11–12",
+    "limit": "Vorläufiger Titel bei Vollstreckungsvoraussetzungen und eingeleiteter Vollstreckung im Schuldnerstatus voll anzusetzen. Gerichtlicher Gläubigerantrag und materielle Gegenbeweise differenziert; kein Prozesschancenabschlag. Zusätzlich bestätigt: umfassende widerspruchsfreie Indizienwürdigung zum Benachteiligungsvorsatz.",
+    "evidence_sha256": "39352de9ac761163984568c54228ef895b3a37c2f43c096f00a338a08c74bf30",
+    "prompt_sha256": "506d973c85030a6ed0f74540106ebb839fd6a7c118a0454c2b66ebfb8f07d32a",
+    "notes": "Quellenlink im Text",
+    "prompt_uses": [
+      {
+        "file": "insolvenzrecht/insolvenzrecht-werkstatt.md",
+        "line": 125
+      }
+    ]
+  },
+  {
+    "plugin": "wirtschaftsanwalt",
+    "file": "wirtschaftsanwalt/wirtschaftsanwalt-werkstatt.md",
+    "line": 221,
+    "source_id": "BGH-083",
+    "citation": {
+      "court": "BGH",
+      "court_name": "Bundesgerichtshof",
+      "decision_type": "Urteil",
+      "decision_date": "2025-01-23",
+      "docket": "IX ZR 229/22",
+      "qualification": null
+    },
+    "url": null,
+    "registered_source_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2022/IX_ZR_229-22.pdf?__blob=publicationFile&v=1",
+    "verified_source_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2022/IX_ZR_229-22.pdf?__blob=publicationFile&v=1",
+    "reviewed_on": "2026-09-25",
+    "status": "inhaltlich abgeglichen",
+    "application": "Der BGH, Urteil vom 28.06.2022, Az. II ZR 112/21, betrifft unter anderem die Darlegung der Zahlungsunfähigkeit mittels aussagekräftiger Liquiditätsstatus. Die Entscheidung behandelt außerdem Zahlungen nach altem Paragraf 64 GmbHG. Daraus darf keine pauschale heutige Haftungsfreigabe nach Paragraf 15b InsO gewonnen werden. BGH, Urteil vom 23.01.2025, Az. IX ZR 229/22, aus einem Anfechtungsprozess ist hier kein Beleg für eine allgemeine Beweislastumkehr gegenüber Geschäftsführern. Ohne passende verifizierte Entscheidungsgründe keine solche Aussage verwenden.",
+    "pinpoint": "Rn. 34–45; ergänzend Rn. 11–12",
+    "limit": "Vorläufiger Titel bei Vollstreckungsvoraussetzungen und eingeleiteter Vollstreckung im Schuldnerstatus voll anzusetzen. Gerichtlicher Gläubigerantrag und materielle Gegenbeweise differenziert; kein Prozesschancenabschlag. Zusätzlich bestätigt: umfassende widerspruchsfreie Indizienwürdigung zum Benachteiligungsvorsatz.",
+    "evidence_sha256": "39352de9ac761163984568c54228ef895b3a37c2f43c096f00a338a08c74bf30",
+    "prompt_sha256": "c7e88d2a0c52b93d45aa74bed399f0eaf0ab32ada88aac126df92bc9d9652113",
+    "notes": "Quellenbezug durch Aktenzeichen im Text",
+    "prompt_uses": [
+      {
+        "file": "wirtschaftsanwalt/wirtschaftsanwalt-werkstatt.md",
+        "line": 221
+      }
+    ]
+  },
+  {
+    "plugin": "fachanwalt-insolvenz-sanierungsrecht",
+    "file": "fachanwalt-insolvenz-sanierungsrecht/fachanwalt-insolvenz-sanierungsrecht-werkstatt.md",
+    "line": 77,
+    "source_id": "BGH-084",
+    "citation": {
+      "court": "BGH",
+      "court_name": "Bundesgerichtshof",
+      "decision_type": "Urteil",
+      "decision_date": "2017-12-19",
+      "docket": "II ZR 88/16",
+      "qualification": null
+    },
+    "url": null,
+    "registered_source_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2016/II_ZR__88-16.pdf?__blob=publicationFile&v=1",
+    "verified_source_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2016/II_ZR__88-16.pdf?__blob=publicationFile&v=1",
+    "reviewed_on": "2026-09-25",
+    "status": "inhaltlich abgeglichen",
+    "application": "- BGH, Urteil vom 19.12.2017, II ZR 88/16: im Betrachtungszeitraum fällig werdende Verbindlichkeiten und Anforderungen an das Bestreiten von Passiva.",
+    "pinpoint": "Rn. 50–70",
+    "limit": "Dreiwochenbetrachtung umfasst Aktiva II und Passiva II; Konzernforderung nur bei rechtzeitiger Zahlungsfähigkeit und -bereitschaft. Budgetplanung ersetzt Status nicht, historische Organhaftung abgegrenzt.",
+    "evidence_sha256": "77f0e8e8b9be3fd09305f393befc515b4bcb262310ceb5313dc1613b0fb46732",
+    "prompt_sha256": "776ce54197fd897c51de5c583bb892c210ed3e8bff6b26d00c70a6a8562a5512",
+    "notes": "Quellenbezug durch Aktenzeichen im Text",
+    "prompt_uses": [
+      {
+        "file": "fachanwalt-insolvenz-sanierungsrecht/fachanwalt-insolvenz-sanierungsrecht-werkstatt.md",
+        "line": 77
+      }
+    ]
+  },
+  {
+    "plugin": "richter-amtsgericht-insolvenz-restrukturierung",
+    "file": "gerichtsplugins/richter-amtsgericht-insolvenz-restrukturierung/richter-amtsgericht-insolvenz-restrukturierung-werkstatt.md",
+    "line": 84,
+    "source_id": "BGH-084",
+    "citation": {
+      "court": "BGH",
+      "court_name": "Bundesgerichtshof",
+      "decision_type": "Urteil",
+      "decision_date": "2017-12-19",
+      "docket": "II ZR 88/16",
+      "qualification": null
+    },
+    "url": null,
+    "registered_source_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2016/II_ZR__88-16.pdf?__blob=publicationFile&v=1",
+    "verified_source_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2016/II_ZR__88-16.pdf?__blob=publicationFile&v=1",
+    "reviewed_on": "2026-09-25",
+    "status": "inhaltlich abgeglichen",
+    "application": "- BGH, Urteil vom 19.12.2017, II ZR 88/16: innerhalb des Betrachtungszeitraums fällig werdende Verbindlichkeiten und Bestreiten von Passiva.",
+    "pinpoint": "Rn. 50–70",
+    "limit": "Dreiwochenbetrachtung umfasst Aktiva II und Passiva II; Konzernforderung nur bei rechtzeitiger Zahlungsfähigkeit und -bereitschaft. Budgetplanung ersetzt Status nicht, historische Organhaftung abgegrenzt.",
+    "evidence_sha256": "77f0e8e8b9be3fd09305f393befc515b4bcb262310ceb5313dc1613b0fb46732",
+    "prompt_sha256": "998c7f010a051c0d52c49e64d0c48b1f303b334e7e6d93350fa188d9b5b4a078",
+    "notes": "Quellenbezug durch Aktenzeichen im Text",
+    "prompt_uses": [
+      {
+        "file": "gerichtsplugins/richter-amtsgericht-insolvenz-restrukturierung/richter-amtsgericht-insolvenz-restrukturierung-werkstatt.md",
+        "line": 84
+      }
+    ]
+  },
+  {
+    "plugin": "insolvenzrecht",
+    "file": "insolvenzrecht/insolvenzrecht-werkstatt.md",
+    "line": 125,
+    "source_id": "BGH-084",
+    "citation": {
+      "court": "BGH",
+      "court_name": "Bundesgerichtshof",
+      "decision_type": "Urteil",
+      "decision_date": "2017-12-19",
+      "docket": "II ZR 88/16",
+      "qualification": null
+    },
+    "url": "https://juris.bundesgerichtshof.de/cgi-bin/bgh_notp/document.py?Art=en&Blank=1&Datum=2017-12-19&Gericht=bgh&Sort=6&anz=26&nr=43965&pos=13",
+    "registered_source_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2016/II_ZR__88-16.pdf?__blob=publicationFile&v=1",
+    "verified_source_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2016/II_ZR__88-16.pdf?__blob=publicationFile&v=1",
+    "reviewed_on": "2026-09-25",
+    "status": "inhaltlich abgeglichen",
+    "application": "Für IX ZR 229/22 steht ein [amtlicher Entscheidungsnachweis](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=Aktuell&Gericht=bgh&Sort=12288&anz=1152&nr=140413&pos=16), für II ZR 88/16 die [amtliche Entscheidung](https://juris.bundesgerichtshof.de/cgi-bin/bgh_notp/document.py?Art=en&Blank=1&Datum=2017-12-19&Gericht=bgh&Sort=6&anz=26&nr=43965&pos=13) zur Verfügung. Vor der konkreten Zitierung die Aussage im Volltext und ihren Fallbezug prüfen. Fehlenden Quellenzugriff offenlegen, keine Fundstelle erfinden.",
+    "pinpoint": "Rn. 50–70",
+    "limit": "Dreiwochenbetrachtung umfasst Aktiva II und Passiva II; Konzernforderung nur bei rechtzeitiger Zahlungsfähigkeit und -bereitschaft. Budgetplanung ersetzt Status nicht, historische Organhaftung abgegrenzt.",
+    "evidence_sha256": "77f0e8e8b9be3fd09305f393befc515b4bcb262310ceb5313dc1613b0fb46732",
+    "prompt_sha256": "506d973c85030a6ed0f74540106ebb839fd6a7c118a0454c2b66ebfb8f07d32a",
+    "notes": "Quellenlink im Text",
+    "prompt_uses": [
+      {
+        "file": "insolvenzrecht/insolvenzrecht-werkstatt.md",
+        "line": 125
+      }
+    ]
+  },
+  {
+    "plugin": "mandantenanfragen-assistent",
+    "file": "mandantenanfragen-assistent/mandantenanfragen-assistent-schnellstart.md",
+    "line": 21,
+    "source_id": "BGH-093",
+    "citation": {
+      "court": "BGH",
+      "court_name": "Bundesgerichtshof",
+      "decision_type": "Beschluss",
+      "decision_date": "2011-11-03",
+      "docket": "IX ZR 49/09",
+      "qualification": null
+    },
+    "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=58234&Blank=1.pdf",
+    "registered_source_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2011-11-3&Gericht=bgh&anz=22&nr=58234&pos=16",
+    "verified_source_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2009/IX_ZR__49-09.pdf?__blob=publicationFile&v=1",
+    "reviewed_on": "2026-09-25",
+    "status": "inhaltlich abgeglichen",
+    "application": "Beachte intern Paragraf 44 BRAO: Ist die Nichtannahme entschieden, muss die Ablehnung unverzüglich erklärt werden; eine bloße Eingangsbestätigung darf diese Entscheidung nicht verdecken. Bei ausdrücklich erfragten Kosten gilt [BGH, Beschluss vom 03.11.2011, IX ZR 49/09, Randnummer 3](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=58234&Blank=1.pdf): Ein erkennbares Bedürfnis nach Honorarauskunft vor Beauftragung ist vor Mandatsübernahme zu beantworten. Leite eine offene Kostenfrage zur Entscheidung weiter, statt einen Preis zu erfinden oder die Antwort auf später zu verschieben. Diese internen Maßstäbe gehören nicht als Rechtsprechungsblock in die organisatorische E-Mail.",
+    "pinpoint": "Rn. 3",
+    "limit": "Erkennbares Verlangen nach Kosteninformation vor Mandatsannahme muss vor Vertragsschluss beantwortet werden. Mandatszustandekommen im Fall unterstellt, keine allgemeine Unwirksamkeit ohne Gebührenvereinbarung.",
+    "evidence_sha256": "cc502da074d57fe21949c3ef4ffffb0f6740e8a99895a63c6a1a8c081b217bf4",
+    "prompt_sha256": "f386f9a7458914e3233efac815e3f276d9e29712f319ddf1139a7663ee0ffeb9",
+    "notes": "Quellenlink im Text",
+    "prompt_uses": [
+      {
+        "file": "mandantenanfragen-assistent/mandantenanfragen-assistent-schnellstart.md",
+        "line": 21
+      },
+      {
+        "file": "mandantenanfragen-assistent/mandantenanfragen-assistent-werkstatt.md",
+        "line": 59
+      }
+    ]
+  },
+  {
+    "plugin": "methodenlehre-buergerliches-recht",
+    "file": "methodenlehre-buergerliches-recht/methodenlehre-buergerliches-recht-schnellstart.md",
+    "line": 17,
+    "source_id": "BGH-095",
+    "citation": {
+      "court": "BGH",
+      "court_name": "Bundesgerichtshof",
+      "decision_type": "Urteil",
+      "decision_date": "2023-06-23",
+      "docket": "V ZR 89/22",
+      "qualification": null
+    },
+    "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=136183&Blank=1.pdf",
+    "registered_source_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2023-6-23&Gericht=bgh&anz=3&client=13&nr=136183&pos=2",
+    "verified_source_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2022/V_ZR__89-22.pdf?__blob=publicationFile&v=1",
+    "reviewed_on": "2026-09-25",
+    "status": "inhaltlich abgeglichen",
+    "application": "[BGH, Urteil vom 23.06.2023, V ZR 89/22, amtliche Leitsätze](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=136183&Blank=1.pdf): Ein bewiesenes gemeinsames Verständnis kann trotz falscher Grundstücksbezeichnung maßgeblich sein; die Besichtigung einer scheinbar einheitlichen Fläche beweist aber regelmäßig noch keinen Mitverkauf fremden Grunds. Nutze die Entscheidung zur Trennung von gemeinsamem Willen und einseitiger Fehlvorstellung, nicht als Freibrief zur Übergehung von Form und Eigentumsgrenzen. Bei Paragrafen 133 und 157 BGB daher stets die konkrete Verständigung belegen.",
+    "pinpoint": "Amtliche Leitsätze a–c",
+    "limit": "Gemeinsame Falschbezeichnung von Grundstücksgegenstand von einseitigem Grenzirrtum unterscheiden. Besichtigung erweitert regelmäßig nicht Grundstückskauf auf Nachbargrundstück; vorvertragliche Haftung separat.",
+    "evidence_sha256": "a4c0979dde92aede870a405ea9fcb5b7182348586bef068f0219efd543c1d1c3",
+    "prompt_sha256": "4a021a5e354813ef40a2cec8d427f57b39a1b1b71c449bf6e987dac084c8ae02",
+    "notes": "Quellenlink im Text",
+    "prompt_uses": [
+      {
+        "file": "methodenlehre-buergerliches-recht/methodenlehre-buergerliches-recht-schnellstart.md",
+        "line": 17
+      },
+      {
+        "file": "methodenlehre-buergerliches-recht/methodenlehre-buergerliches-recht-werkstatt.md",
+        "line": 35
+      }
+    ]
+  },
+  {
+    "plugin": "corporate-contract-law",
+    "file": "corporate-contract-law/corporate-contract-law-werkstatt.md",
+    "line": 273,
+    "source_id": "BGH-121",
+    "citation": {
+      "court": "BGH",
+      "court_name": "Bundesgerichtshof",
+      "decision_type": "Urteil",
+      "decision_date": "2014-03-20",
+      "docket": "VII ZR 248/13",
+      "qualification": null
+    },
+    "url": null,
+    "registered_source_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2014-3-20&Gericht=bgh&anz=30&nr=67527&pos=21",
+    "verified_source_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2013/VII_ZR_248-13.pdf?__blob=publicationFile&v=1",
+    "reviewed_on": "2026-09-25",
+    "status": "inhaltlich abgeglichen",
+    "application": "Definieren Sie Höchstbetrag, gesicherte Forderungen, Abrufvoraussetzungen und Laufzeit. Ein Anspruch „auf erstes Anfordern“ ist kein neutraler Zusatz, sondern verschiebt das Auszahlungs- und Rückforderungsrisiko. Prüfen Sie, ob dies tatsächlich gewollt und im jeweiligen AGB-Kontext zulässig ist. Mehrere Sicherheiten und Einbehalte müssen auf ihre Gesamtbelastung abgestimmt werden. Der Rechercheanker BGH VII ZR 248/13 betrifft eine konkrete Sicherheitenregelung im Generalunternehmervertrag und ist keine allgemeine Bestätigung beliebiger Prozentwerte.",
+    "pinpoint": "Leitsätze a–c",
+    "limit": "Verhandlungsbestätigung allein beweist kein Aushandeln. AGB-Recht nicht unabhängig von Voraussetzungen abwählbar; konkrete Sicherheitsklausel, keine universelle Quote.",
+    "evidence_sha256": "4a835c89d9a72df07140c77a24c5e2c95cdee5192b781edb9fdbe669c17144fb",
+    "prompt_sha256": "81a729559e1277c134c131232af1535ce2a264967f320442204833cabc48a6b5",
+    "notes": "Quellenbezug durch Aktenzeichen im Text",
+    "prompt_uses": [
+      {
+        "file": "corporate-contract-law/corporate-contract-law-werkstatt.md",
+        "line": 273
+      },
+      {
+        "file": "corporate-contract-law/corporate-contract-law-werkstatt.md",
+        "line": 315
+      }
+    ]
+  },
+  {
+    "plugin": "patentrecherche",
+    "file": "patentrecherche/patentrecherche-werkstatt.md",
+    "line": 112,
+    "source_id": "BGH-132",
+    "citation": {
+      "court": "BGH",
+      "court_name": "Bundesgerichtshof",
+      "decision_type": "Urteil",
+      "decision_date": "2002-03-12",
+      "docket": "X ZR 168/00",
+      "qualification": null
+    },
+    "url": null,
+    "registered_source_url": "https://www.wipo.int/wipolex/en/text/597230",
+    "verified_source_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/X_ZS/2000/X_ZR_168-00.pdf?__blob=publicationFile&v=1",
+    "reviewed_on": "2026-09-25",
+    "status": "inhaltlich abgeglichen",
+    "application": "Vorhandene Rechtsprechungseinstiege sind BGH, Urteil vom 12.03.2002, X ZR 168/00 (Schneidmesser I), zur Anspruchsauslegung und Äquivalenz sowie EuGH, Urteil vom 16.07.2015, C-170/13 (Huawei gegen ZTE), zu Schritten bei standardessenziellen Patenten und FRAND. Prüfe Originalentscheidung, einschlägige Aussage und Übertragbarkeit vor Zitierung; diese Liste ist kein Nachweis einer bereits erfolgten Quellenprüfung.",
+    "pinpoint": "Gründe II.3.a–d; PDF S. 9–15 (zweimal d im Original)",
+    "limit": "Äquivalenz verlangt Gleichwirkung, fachmännische Auffindbarkeit und anspruchsorientierte Gleichwertigkeit. Zahlen-/Maßangaben begrenzen Schutz, sind jedoch auslegungsfähig. Keine abstrakte Toleranz oder Erfindungsgedanke anstelle Anspruch.",
+    "evidence_sha256": "5a5bee6d476a59c889343f4fc7c1d8c812dd9d44430644ba9d9ca6fbade87c49",
+    "prompt_sha256": "b6d837003cadf7b52087cca1dd1da7abac65c1a88dd1c2f99009a978dd223a74",
+    "notes": "Quellenbezug durch Aktenzeichen im Text",
+    "prompt_uses": [
+      {
+        "file": "patentrecherche/patentrecherche-werkstatt.md",
+        "line": 112
+      }
+    ]
+  },
+  {
+    "plugin": "anwaltschaft-generell",
+    "file": "anwaltschaft-generell/anwaltschaft-generell-schnellstart.md",
+    "line": 37,
+    "source_id": "BGH-133",
+    "citation": {
+      "court": "BGH",
+      "court_name": "Bundesgerichtshof",
+      "decision_type": "Urteil",
+      "decision_date": "2016-07-13",
+      "docket": "VIII ZR 49/15",
+      "qualification": null
+    },
+    "url": null,
+    "registered_source_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=pm&Blank=1&Datum=2016-6&Gericht=bgh&file=dokument.pdf&linked=urt&nr=75498",
+    "verified_source_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2015/VIII_ZR__49-15.pdf?__blob=publicationFile&v=1",
+    "reviewed_on": "2026-09-25",
+    "status": "inhaltlich abgeglichen",
+    "application": "Prüfstand 23.09.2026: BGH, Urteil vom 13.07.2016, Az. VIII ZR 49/15, zur Nacherfüllungsfrist nur als amtlicher Suchtreffer; EuGH, Urteil vom 04.05.2023, Az. C-487/21, zur Datenkopie nur über amtliche Pressemitteilung erschlossen. Keine Volltextzitate oder Randnummern dazu behaupten. Auch der DSGVO-Direktabruf war gesperrt. Vor Verwendung zugängliche Normfassung beziehungsweise Volltext prüfen; keine erfundenen Entscheidungen aus 2026.",
+    "pinpoint": "Amtliche Leitsätze a–b und zu § 440 BGB",
+    "limit": "Zusätzlicher Suchanker betrifft tatsächlich Nacherfüllungsfrist und Unzumutbarkeit. Prompt behauptet bewusst keine weitergehende gelesene Begründung. Amtliches Volltextdokument nun gesichert; kein uneingeschränkter Transfer auf aktuellen Verbrauchsgüterkauf.",
+    "evidence_sha256": "e185745579364c19a60c51f9015383a35c533e6f45f08bb2d166aca63df5eb9a",
+    "prompt_sha256": "91218fca77b252acae824d7a276999660b6805b9933c9c7930391351f51d8756",
+    "notes": "Quellenbezug durch Aktenzeichen im Text",
+    "prompt_uses": [
+      {
+        "file": "anwaltschaft-generell/anwaltschaft-generell-schnellstart.md",
+        "line": 37
+      },
+      {
+        "file": "anwaltschaft-generell/anwaltschaft-generell-werkstatt.md",
+        "line": 147
+      }
+    ]
+  },
+  {
+    "plugin": "anwaltschaft-generell",
+    "file": "anwaltschaft-generell/anwaltschaft-generell-werkstatt.md",
+    "line": 367,
+    "source_id": "BGH-133",
+    "citation": {
+      "court": "BGH",
+      "court_name": "Bundesgerichtshof",
+      "decision_type": "Urteil",
+      "decision_date": "2016-07-13",
+      "docket": "VIII ZR 49/15",
+      "qualification": null
+    },
+    "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=pm&Blank=1&Datum=2016-6&Gericht=bgh&file=dokument.pdf&linked=urt&nr=75498",
+    "registered_source_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=pm&Blank=1&Datum=2016-6&Gericht=bgh&file=dokument.pdf&linked=urt&nr=75498",
+    "verified_source_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2015/VIII_ZR__49-15.pdf?__blob=publicationFile&v=1",
+    "reviewed_on": "2026-09-25",
+    "status": "inhaltlich abgeglichen",
+    "application": "[BGH, Urteil vom 13.07.2016, Az. VIII ZR 49/15](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=pm&Blank=1&Datum=2016-6&Gericht=bgh&file=dokument.pdf&linked=urt&nr=75498) bleibt ein amtlicher Suchanker zur Nacherfüllungsfrist, kein hier gelesener Volltext. [EuGH, Urteil vom 04.05.2023, Az. C-487/21](https://curia.europa.eu/site/upload/docs/application/pdf/2023-05/cp230071de.pdf) ist hier nur über Pressemitteilung erschlossen. Vor tragendem Zitat Entscheidungsgründe prüfen; keine erfundenen Randnummern oder Entscheidungen aus 2026.",
+    "pinpoint": "Amtliche Leitsätze a–b und zu § 440 BGB",
+    "limit": "Zusätzlicher Suchanker betrifft tatsächlich Nacherfüllungsfrist und Unzumutbarkeit. Prompt behauptet bewusst keine weitergehende gelesene Begründung. Amtliches Volltextdokument nun gesichert; kein uneingeschränkter Transfer auf aktuellen Verbrauchsgüterkauf.",
+    "evidence_sha256": "e185745579364c19a60c51f9015383a35c533e6f45f08bb2d166aca63df5eb9a",
+    "prompt_sha256": "0d3beeafee65149dd82ec3c18434f3acaee0de103f4e7e10c188389eeb0af7c4",
+    "notes": "Quellenlink im Text",
+    "prompt_uses": [
+      {
+        "file": "anwaltschaft-generell/anwaltschaft-generell-werkstatt.md",
+        "line": 367
+      }
+    ]
+  },
+  {
+    "plugin": "anwaltschaft-generell",
+    "url": "https://curia.europa.eu/site/upload/docs/application/pdf/2023-05/cp230071de.pdf",
+    "citation": "EuGH, Urteil vom 04.05.2023, C-487/21; Pressemitteilung Nr. 71/23",
+    "application": "Im Werkstatttext nur als Pressemitteilung erschlossener Quellenanker bezeichnet.",
+    "limit": "Pressemitteilung ersetzt keine Entscheidungsgründe.",
+    "reviewed_on": "2026-09-25",
+    "status": "verified",
+    "verification": "press_release_identity_and_scope_read; corresponding_fulltext_relevant_reasons_read",
+    "evidence_sha256": "5e453cc31018154b0a1f00ecf6b6b92616fded159adfaea01cb37afd368f6ea9",
+    "evidence_url": "https://curia.europa.eu/site/upload/docs/application/pdf/2023-05/cp230071de.pdf",
+    "alternate_official_url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=273286&doclang=DE",
+    "review": "Pressemitteilung auf allen drei Seiten gelesen, richtige Zuordnung zu C-487/21 (CRIF), Datum 04.05.2023. Zusätzlich Gründe 28–45 im amtlichen Volltext geprüft.",
+    "notes": "Keine Verwechslung mit C-300/21. Bestehende konservative Quellenkennzeichnung korrekt; keine Änderung erforderlich."
+  },
+  {
+    "plugin": "strassennutzung-genehmigungen",
+    "citation": "BVerwG, Urteile vom 11. Dezember 2014, 3 C 6.13 und 3 C 7.13, Rn. 13–30",
+    "url": "https://www.bverwg.de/de/111214U3C6.13.0",
+    "application": "Bauzaun als mögliches Hindernis und Konzentration bei objektiv erforderlicher Verkehrsausnahme.",
+    "limit": "Landesrechtliche Zuständigkeit und fortbestehende Gebühren; nicht jede Sondernutzung ist Hindernis.",
+    "index": 150,
+    "reviewed_on": "2026-09-25",
+    "status": "cited_passages_reviewed",
+    "evidence_sha256": "19ac18a5b9493f4f1833c7117449b65ed85580f2d143baa8edfe1dfc2bbdc663",
+    "evidence_kind": "official_fulltext_extract",
+    "note": "Alternative URL derselben bereits im Profil geprüften Entscheidung; zitierte Passagen anhand des amtlichen Volltextes abgeglichen.",
+    "alternate_official_url": "https://ssl.bverwg.de/111214U3C6.13.0",
+    "prompt_paths": [
+      "strassennutzung-genehmigungen/strassennutzung-genehmigungen-werkstatt.md"
+    ]
+  },
+  {
+    "plugin": "strassennutzung-genehmigungen",
+    "citation": "BVerwG, Urteil vom 6. Juni 2024, 3 C 5.23, Rn. 39–63",
+    "url": "https://www.bverwg.de/060624U3C5.23.0",
+    "application": "Eigene erhebliche Gehwegbeeinträchtigung begründet begrenzten Bescheidungsanspruch.",
+    "limit": "Keine feste Restbreite, kein automatisches Abschleppen im Stadtgebiet.",
+    "index": 149,
+    "reviewed_on": "2026-09-25",
+    "status": "cited_passages_reviewed",
+    "evidence_sha256": "0bc7a8c99c4a352947fee8ffb5b244d7fcdd6bb451c6ef4f9017fc75a09869c2",
+    "evidence_kind": "official_fulltext_extract",
+    "note": "Alternative URL derselben bereits im Profil geprüften Entscheidung; zitierte Passagen anhand des amtlichen Volltextes abgeglichen.",
+    "alternate_official_url": "https://ssl.bverwg.de/060624U3C5.23.0",
+    "prompt_paths": [
+      "strassennutzung-genehmigungen/strassennutzung-genehmigungen-werkstatt.md"
+    ]
+  },
+  {
+    "plugin": "strassennutzung-genehmigungen",
+    "citation": "BVerwG, Urteil vom 11.12.2014, 3 C 7.13, Randnummern 13–19 und 21–30",
+    "url": "https://www.bverwg.de/de/111214U3C7.13.0",
+    "alternate_official_url": "https://www.bverwg.de/111214U3C7.13.0",
+    "application": "Sondernutzung, Verkehrshindernis und landesrechtliche Verfahrenskonzentration getrennt prüfen.",
+    "limit": "Niedersächsisches Landesrecht; Randnummer 30 schafft keine für alle Länder einheitliche Zuständigkeit.",
+    "reviewed_on": "2026-09-25",
+    "status": "cited_passages_reviewed",
+    "evidence_sha256": null,
+    "note": "Amtliche Identität und Gründe 13–19 sowie 21–30 gelesen. Konzentration knüpft an objektives Erfordernis an; Schutzfunktion eines Gegenstands schließt Hindernis nicht aus, sondern betrifft Ausnahme. Adressat kann auch Nichtverkehrsteilnehmer sein. Der breite Anwendungsbereich bleibt vom konkreten Behinderungstatbestand und der autonomen Landesregelung begrenzt.",
+    "prompt_paths": [
+      "strassennutzung-genehmigungen/strassennutzung-genehmigungen-werkstatt.md"
+    ]
+  }
+]
