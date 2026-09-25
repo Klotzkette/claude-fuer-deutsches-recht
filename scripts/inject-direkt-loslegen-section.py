@@ -300,7 +300,7 @@ HANDCURATED_FIRST_PRODUCTS = {
     "urteilsbauer-relationsmacher": "eine Zergliederung, Relation oder einen Entscheidungsentwurf",
     "anlagen-zu-schriftsaetzen": "eine Produktionsmatrix und kontrollierte Gerichtsmappe",
     "schriftsatz-versandwerkstatt": "eine Produktionsmatrix und kontrollierte Versandmappe",
-    "arbeitszeugnispruefer": "die vollständige Prüfung des vorhandenen Zeugnisses mit konkreten Ersatzsätzen und dem ausdrücklich verlangten Entwurf",
+    "arbeitszeugnispruefer": "die vollständige Arbeitnehmerprüfung mit ausführlicher Analyse, konkreten Ersatzsätzen, kurzem Mandantenschreiben und – bei tragfähiger Änderung oder wirklichem Verhandlungswunsch – abgestuftem Arbeitgeberschreiben",
     "zugewinnausgleich": "die Vermögensrechnung beider Ehegatten mit belegten Stichtagen, Erbschaften, Eigentumsanteilen und Schulden bis zum beauftragten Gutachten oder Schreiben",
     "strassennutzung-genehmigungen": "die konkrete Zufahrt, Ladefläche oder Pollerregelung nach Widmung, Landesrecht und Verkehrszeichen prüfen; daraus den beauftragten Erlaubnisantrag, die Stellungnahme oder den Rechtsbehelf ausformulieren",
 }
@@ -335,19 +335,32 @@ def quickstart_section(plugin_name: str, directory: Path) -> str:
         "Lies die für den Auftrag tragenden Unterlagen; ergänze die Lektüre gezielt bei offenen "
         "Belegfragen. Stelle der sichtbaren Ausgabe weder einen Statuskopf noch einen Datei-, "
         "Metadaten-, Rollen-, Aktenstands- oder Bearbeitungsblock voran. Beginne unmittelbar mit "
-        f"folgendem Arbeitsschritt: {product}."
+        f"folgendem Arbeitsschritt: {product}. Fehlt ein klarer Gegenhinweis, arbeite auf "
+        "Arbeitnehmerseite. Ein in den Chat kopierter Prompt wird interaktiv bearbeitet und ist "
+        "kein automatischer Einmalauftrag."
         if plugin_name == "arbeitszeugnispruefer"
         else "Sichte den ausgewählten Ordner intern, ohne seine Inhalte ungefragt aufzulisten. Lies die für "
         "den Auftrag tragenden Unterlagen; ergänze die Lektüre gezielt bei offenen Belegfragen. "
         f"Beginne mit folgendem Arbeitsschritt: {product}."
     )
     question_rule = (
-        "Stelle nur entscheidungserhebliche Rückfragen gebündelt und nenne ihre Folgen. "
-        "Bearbeite zugleich alle davon unabhängigen Teile; wenn sich später ein neuer entscheidender "
-        "Widerspruch ergibt, kläre nur diesen und setze den Auftrag ohne Neustart fort."
+        "Stelle nur entscheidungserhebliche Rückfragen zusammengehörig, nenne ihre Folgen und warte "
+        "auf die tatsächliche Antwort; gesicherte Teile dürfen vorläufig weiterbearbeitet werden. "
+        "Setze danach am bestehenden Stand fort und liefere die vollständige Analyse sowie die "
+        "angezeigten Schreiben ohne neuen Auftrag. Weitere Fragen sind nur bei einem neuen "
+        "entscheidenden Widerspruch nötig. Bei ausdrücklich nichtinteraktiver Bearbeitung verwende "
+        "Platzhalter oder bedingte Varianten, nie erfundene Antworten. Ist keine Änderung vertretbar "
+        "und keine Verhandlung gewünscht, erläutere dies im Mandantenschreiben und erzeuge kein "
+        "künstliches Arbeitgeberschreiben."
         if plugin_name == "arbeitszeugnispruefer"
         else "Frage gezielt nach entscheidenden offenen Punkten und arbeite an den unabhängigen Teilen weiter. "
         "Verarbeite die Antwort im bestehenden Entwurf; weitere Rückfragen nur bei neuen entscheidenden Lücken."
+    )
+    document_rule = (
+        "Bei vollständigen Angaben beginne unmittelbar mit den Ergebnissen. Fehlt eine "
+        "entscheidungserhebliche Tatsache, beginne mit der Rückfrage."
+        if plugin_name == "arbeitszeugnispruefer"
+        else "Wenn bereits ein konkretes Dokument verlangt ist, beginne unmittelbar damit."
     )
     return f"""## In 30 Sekunden starten
 
@@ -359,7 +372,7 @@ def quickstart_section(plugin_name: str, directory: Path) -> str:
 
 Startsatz für {title}:
 
-> {start_rule} Wenn bereits ein konkretes Dokument verlangt ist, beginne unmittelbar damit. {question_rule}
+> {start_rule} {document_rule} {question_rule}
 
 Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestellte Tatsachen, Berechnungen und Quellen nicht erneut abfragen oder ohne Anlass neu aufbauen."""
 

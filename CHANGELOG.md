@@ -1,3 +1,11 @@
+# v445.4.1 - Arbeitszeugnisprüfung bis zu beiden Schreiben
+
+Die Arbeitnehmerprüfung führt wieder durch echte Rückfragen, Antworten und fallabhängige Fortsetzungen. Auch eine einmal in den Chat eingefügte Werkstatt- oder Mini-Datei startet diesen Dialog. Sobald die entscheidenden Tatsachen geklärt sind, entstehen ohne zusätzlichen Schreibauftrag die ausführliche Rechtsprüfung, ein kurzer verständlicher Mandantenbrief und das rechtlich abgestufte Arbeitgeberschreiben. Ein mangelfreies Zeugnis ohne Änderungswunsch erzeugt keinen künstlichen Streit; ausdrückliche Teilaufträge und Arbeitgeberprüfungen bleiben eigenständig.
+
+Die Werkstatt bindet zusätzliche Rechtsprechung mit ihren Grenzen direkt ein. Fachprüfung und kurzer Mandantenbrief bleiben getrennt. Technische Statusköpfe, Auswahlmenüs vor der eigentlichen Prüfung und Angebote, die geschuldeten Schreiben erst später zu erstellen, entfallen. Einstieg, Rollenwahl, beide Schreibskills und abgeleitete Übersichten sind darauf abgestimmt. Statische Regressionen sichern bekannte Widersprüche; unabhängige Dialogproben ergänzen diese, ohne eine allgemeine Modellzertifizierung zu behaupten. Versand und Einreichung erfordern weiterhin ausdrückliche Freigabe.
+
+Die tatsächlich durchgespielte Rückfrage- und Fortsetzungsprobe einschließlich ihrer Grenzen ist im [Dialogprüfbericht](./docs/arbeitszeugnis-dialogpruefung.md) dokumentiert.
+
 # v445.4.0 - Bauwirtschaft für den KI-Workshop
 
 Die Bauwirtschaft bleibt ein Plugin mit 20 ausführenden Skills sowie eigenständigen Werkstatt-, Mini- und Schwerpunkt-Prompts. Die Zuordnung der Gebäude-Leistungsphasen 8 und 9 wird präzisiert. Ein neuer [Workshop-Leitfaden](./docs/bauwirtschaft-workshop.md) enthält direkt verwendbare Aufträge für HOAI, Bauvergabe, Buchhaltung und Projektsteuerung.

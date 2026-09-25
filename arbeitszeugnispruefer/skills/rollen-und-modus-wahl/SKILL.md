@@ -13,25 +13,27 @@ Leite die Rolle zuerst aus Auftrag, Unterlagen und Sprachgebrauch ab. Fehlt ein 
 
 | Rolle | Ergebnis |
 | --- | --- |
-| Arbeitnehmerin oder Arbeitnehmer | verständliche rechtliche Einordnung, konkrete Ersatzsätze, Belegbedarf und Handlungsempfehlung |
-| Kanzlei auf Arbeitnehmerseite | anwaltlicher Prüfvermerk, Änderungsvergleich und der vom Mandat umfasste Entwurf |
+| Arbeitnehmerin oder Arbeitnehmer | ausführliche Prüfung, konkrete Ersatzsätze, kurzes Mandantenschreiben und bei tragfähigem Änderungsansatz oder wirklichem Verhandlungswunsch ein abgestuftes Arbeitgeberschreiben |
+| Kanzlei auf Arbeitnehmerseite | anwaltlicher Prüfvermerk, Änderungsvergleich, kurzes Mandantenschreiben und das fachlich angezeigte Arbeitgeberschreiben |
 | Arbeitgeber oder Personalabteilung | interner Korrekturvermerk und wahrheitsgemäße, widerspruchsfreie Zeugnisfassung |
 | Betriebsrat oder neutrale Beratung | sachliche Einordnung der Streitpunkte und des weiteren Vorgehens |
 | Vergleichs- oder Vollstreckungslage | Abgleich von Titel und erteilter Fassung sowie nur bei Auftrag der passende Verfahrensentwurf |
 
 ## 3. Zielbezogene Verzweigung
 
-Eine Prüfung endet mit einem vollständigen Prüfbericht. Eine verlangte Neufassung endet zusätzlich mit einem zusammenhängenden Zeugnistext. Eine Berichtigungsaufforderung endet mit einem versandfertigen Schreiben. Klage, Vergleich und Vollstreckung werden nur bearbeitet, wenn der Auftrag sie umfasst; ein negativer Befund löst sie nicht automatisch aus.
+Bei Selbstprüfung ist das kurze Schreiben eine direkte Erklärung an die betroffene Person und der Arbeitgeberbrief ein Entwurf in deren eigenem Namen. Behaupte ein anwaltliches Mandat oder eine Vertretung nur bei tatsächlich mitgeteilter Kanzleirolle.
+
+Ein allgemeiner Prüfauftrag auf Arbeitnehmerseite endet nach den nötigen Antworten mit ausführlicher Analyse, konkreten Ersatzsätzen, kurzem Mandantenschreiben und – wenn eine vertretbare Änderung verlangt werden kann oder tatsächlich verhandelt werden soll – einem vollständigen Arbeitgeberschreiben. Diese beiden Schreiben werden nicht erst angeboten und brauchen keinen weiteren Entwurfsauftrag. Ist das Zeugnis mangelfrei und fehlt ein wirklicher Verhandlungswunsch, entsteht kein künstliches Forderungsschreiben; das Mandantenschreiben erklärt stattdessen, warum von einem externen Schreiben abzuraten ist. Eine ausdrücklich isolierte Teilfrage bleibt auf ihren Gegenstand beschränkt. Klage, Vergleich und Vollstreckung werden nur bearbeitet, wenn der Auftrag sie umfasst.
 
 Ein Erstentwurf ohne vorhandene Zeugnisfassung gehört zum `arbeitszeugnisgenerator`. Eine aus einer geprüften Fassung entwickelte Gesamtkorrektur bleibt Teil dieses Plugins.
 
 ## 4. Rückfrage und Fortsetzung
 
-Ist die Rolle unklar und entscheidend, stelle eine gebündelte Frage zu Empfänger und gewünschtem Enddokument. Bearbeite gleichzeitig alle rollenunabhängigen Punkte. Zeige bei Bedarf die Folgen beider vertretbaren Antworten. Nach der Antwort setzt du am bestehenden Stand fort und fertigst das gewählte Ergebnis aus; du beginnst die Prüfung nicht erneut.
+Das Einfügen des Skills oder Megaprompts in einen Chat ist interaktiver Standard. Ist die Rolle unklar und entscheidend, stelle die zusammengehörige Frage zu Empfänger und Ziel und warte auf die tatsächliche Antwort. Bearbeite rollenunabhängige Punkte bei Bedarf vorläufig weiter. Nach der Antwort setzt du am bestehenden Stand fort und fertigst die nach Abschnitt 3 geschuldeten Ergebnisse ohne erneute Beauftragung aus. Entsteht ein neuer entscheidender Widerspruch, ist eine weitere Rückfrage zulässig; ihre Zahl richtet sich nach dem Fall. Nur bei ausdrücklich nichtinteraktiver Bearbeitung verwendest du Platzhalter oder bedingte Varianten, ohne eine Nutzerantwort zu erfinden.
 
 ## 5. Grenzen
 
-Übernimm keine Parteiperspektive als Tatsache und unterstelle keinen Klageauftrag. Die Rollenwahl bleibt intern und wird weder als Statuskopf noch als Rollen- oder Metadatenblock ausgegeben. Interne Auswahlbegriffe erscheinen nicht im fertigen Dokument. Verwende die für den tatsächlichen Empfänger übliche anwaltliche Sprache.
+Übernimm keine streitige Parteibehauptung als Tatsache und unterstelle keinen Klageauftrag. Fehlt ein klarer Gegenhinweis, ist die Arbeitnehmerseite gleichwohl die Arbeitsrolle. Die Rollenwahl bleibt intern und wird weder als Statuskopf noch als Rollen- oder Metadatenblock ausgegeben. Interne Auswahlbegriffe erscheinen nicht im fertigen Dokument. Verwende die für den tatsächlichen Empfänger übliche anwaltliche Sprache.
 
 ## 6. Abschluss
 
