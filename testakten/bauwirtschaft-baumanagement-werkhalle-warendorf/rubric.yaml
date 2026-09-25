@@ -1,0 +1,42 @@
+name: bauwirtschaft-baumanagement-werkhalle-warendorf
+plugin: bauwirtschaft
+description: Wirtschaftliche Steuerung einer privaten Werkhalle mit später Trafostation und offenem Bauablaufentscheid.
+checks:
+  - id: rolle-und-auftrag
+    check_type: human_review
+    description: Bauherrin, Projektcontrolling und ausführende Unternehmen auseinanderhalten. Eine wirtschaftliche Entscheidungsvorlage bearbeiten, ohne den Vorgang ungefragt in eine juristische Lösungsakte zu verwandeln.
+  - id: kostenbegriffe
+    check_type: human_review
+    description: Budget von 2300000 EUR einschließlich Reserve, Ist von 1200000 EUR, Bestellungen von 2073000 EUR, Obligo von 873000 EUR und unbestellte Restleistungen von 133000 EUR trennen. Bereits gebuchte Leistungen nicht nochmals als offenes Obligo zählen.
+  - id: forecast
+    check_type: human_review
+    description: Basisforecast von 2206000 EUR aus Ist plus Obligo plus unbestellten Restleistungen nachvollziehen. Die unvergebene Reserve nicht als Ausgabe behandeln. Kranforderung und mobile Versorgung sind im Basisforecast nicht enthalten und nicht bestellt.
+  - id: leistungsstand
+    check_type: human_review
+    description: Kumulierten Hallenleistungsstand von 680000 EUR, bisher berechnete und bezahlte 520000 EUR sowie neuen Abschlag von 160000 EUR netto unterscheiden. Mengenbestätigung nicht als Schlussabnahme behandeln.
+  - id: liquiditaet
+    check_type: human_review
+    description: Nettoaufwand von Bruttozahlungen trennen. Baukontostand 512400 EUR, zusätzliche Abrufe 1000000 EUR und geplante Restzahlungen 1387540 EUR ergeben 124860 EUR Planendbestand. Dies ist kein freies Kostenbudget.
+  - id: zahlungszeitpunkt
+    check_type: human_review
+    description: Der Septemberplan zieht den offenen Abschlag vorsorglich früher ab als die Fälligkeit 8. Oktober. Keine rückwirkend bereits erfolgte Zahlung behaupten und Vorsteuererstattungen nicht ohne Beleg hinzurechnen.
+  - id: energietermin
+    check_type: human_review
+    description: Lieferung 9. November, geplanter dauerhafter Anschluss 16. November und anschließende Versuche und Einweisung unterscheiden. Ein Anlauf am 7. Dezember ist eine bedingte Ablaufannahme, keine gesicherte Lieferantenzusage.
+  - id: provisorium
+    check_type: human_review
+    description: Angebot 36000 EUR netto mit sechs Wochen Laufzeit, maximal 250 kVA und fehlender Netzfreigabe erfassen. Eine Linie mit Nebenverbrauchern ist möglich; Vollbetrieb mit beiden Linien nicht. Entscheidung und Beauftragung offenlassen.
+  - id: kran
+    check_type: human_review
+    description: Zwölf angebotene Mietwerktage, acht Tage mit Hubbedarf und vier Standtage sowie den gesonderten Umsetzvorgang nachvollziehen. Tatsächliche und erst disponierte Einsätze unterscheiden; Angebot von Auftrag und Rechnung trennen.
+  - id: abgrenzung-betrieb
+    check_type: human_review
+    description: Mietverlängerung der bisherigen Produktion als Betriebsaufwand außerhalb des Bauinvestitionsbudgets erfassen. Novemberoption und nicht bestätigte Dezemberoption nicht zu einem gesicherten Preis zusammenziehen.
+  - id: kostenmappe
+    check_type: file_exists
+    path: 10_Kostenfortschreibung.xlsx
+    description: Bearbeitbare Kostenfortschreibung mit Quellenbezug und Formeln liegt vor.
+  - id: ablaufmappe
+    check_type: file_exists
+    path: 09_Ablauf_und_Zahlungen.xlsx
+    description: Termin- und Zahlungsmappe mit veränderbaren Eingaben liegt vor.

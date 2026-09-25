@@ -1,0 +1,34 @@
+{
+  "name": "bauwirtschaft",
+  "version": "445.3.0",
+  "description": "Zwanzig ausführende Arbeitsabläufe für Bauherren, Projektentwicklung, Bauleitung und kaufmännische Teams: vom Projektstart über Planung, Vergabe und Ausführung bis zu Buchhaltung, Übergabe und Gewährleistung.",
+  "author": {
+    "name": "Klotzkette",
+    "email": "39582916+Klotzkette@users.noreply.github.com"
+  },
+  "license": "Apache-2.0 OR MIT",
+  "keywords": [
+    "bauwirtschaft",
+    "bauherr",
+    "projektentwicklung",
+    "bauleitung",
+    "vergabe",
+    "hoai",
+    "baubuchhaltung"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Bauwirtschaft",
+    "shortDescription": "Bauprojekte bis zum konkreten Arbeitsprodukt bearbeiten",
+    "longDescription": "Zwanzig abgegrenzte Arbeitsabläufe verbinden Projektsteuerung, Planung, Vergabe, Bauausführung und kaufmännischen Abschluss.",
+    "developerName": "Klotzkette",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive",
+      "Write"
+    ],
+    "defaultPrompt": [
+      "Führen Sie unseren Bauprojektstand bis zur benötigten Tabelle oder zum vollständigen Dokument fort."
+    ]
+  }
+}

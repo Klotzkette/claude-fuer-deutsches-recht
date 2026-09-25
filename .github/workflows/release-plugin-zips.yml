@@ -90,6 +90,10 @@ jobs:
           python3 scripts/test-kompakte-wirtschaftspakete.py
           python3 scripts/test-vertragserstellung-kassel-akte.py
           python3 scripts/test-wirtschaftsanwalt-hannover-akte.py
+          python3 scripts/test-bauwirtschaft.py
+          python3 scripts/test-bauwirtschaft-einbeck.py
+          python3 scripts/test-bauwirtschaft-northeim.py
+          python3 scripts/test-bauwirtschaft-kaufmaennisch.py
 
       - name: Skill-Aktivierungssignale prüfen
         run: |
@@ -241,6 +245,12 @@ jobs:
 
       - name: Einzel-PDF-ZIPs validieren
         run: python3 scripts/validate-testakten-einzelpdf-zips.py dist/testakten-einzelpdfs
+
+      - name: Bauwirtschaftliche Originale und veröffentlichbare Akten abgleichen
+        run: |
+          python3 scripts/test-bauwirtschaft-einbeck.py --assets dist
+          python3 scripts/test-bauwirtschaft-northeim.py --assets dist
+          python3 scripts/test-bauwirtschaft-kaufmaennisch.py --assets dist
 
       - name: Skill-Markdown-Bundles bauen (echte Downloads pro Plugin)
         run: |

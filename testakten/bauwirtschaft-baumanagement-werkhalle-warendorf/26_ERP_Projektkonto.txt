@@ -1,0 +1,14 @@
+Hagedorn Präzisionsteile GmbH
+ERP Projektkonto WH26 | Export 25.09.2026 16:00
+Währung EUR | Werte netto | Kostenbelege bis 25.09.2026
+Gebuchte Leistungen: 1.200.000,00
+Verbindlich bestellt einschließlich bereits gebuchter Leistungen: 2.073.000,00
+Bis 25.09.2026 bezahlte Leistungen netto: 1.040.000,00
+Zahlungen einschließlich 19 Prozent Umsatzsteuer: 1.237.600,00
+Offene gebuchte Verbindlichkeiten netto: 160.000,00
+Offene gebuchte Verbindlichkeiten brutto: 190.400,00
+Ausstehende Leistungen in Bestellungen sind keine gebuchten Verbindlichkeiten.
+Die aktuelle Septemberrechnung wurde am 25.09. nacherfasst. Die frühere Augustlieferung ist im Bestandsjournal enthalten; die Kostenbelegliste wurde entsprechend datiert.
+Sachbearbeitung: Jana Feldkamp
+Exportumfang: gesamte Kostenstelle WH26, ohne Grundstück und Maschinen.
+Ende des Auszugs.

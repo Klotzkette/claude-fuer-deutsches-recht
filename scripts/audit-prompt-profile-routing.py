@@ -18,7 +18,7 @@ from quality_lab import load, validate_profile
 
 CRITICAL_ROUTES = dict(EXACT_PROFILE_KEYS)
 # Fachlich begrenzte Routensätze ohne zusätzliche Füllrouten.
-EXPECTED_ROUTE_COUNTS = {"arbeitszeugnisgenerator": 9, "notariat-alltag": 10, "schadensregulierung": 10, "grundsteuerrecht": 10, "zugewinnausgleich": 10, "strassennutzung-genehmigungen": 10, "vertragserstellung": 10, "wirtschaftsanwalt": 10}
+EXPECTED_ROUTE_COUNTS = {"arbeitszeugnisgenerator": 9, "notariat-alltag": 10, "schadensregulierung": 10, "grundsteuerrecht": 10, "zugewinnausgleich": 10, "strassennutzung-genehmigungen": 10, "vertragserstellung": 10, "wirtschaftsanwalt": 10, "bauwirtschaft": 20}
 
 PROMPT_ASSERTIONS: dict[str, dict[str, tuple[str, ...]]] = {
     "grosskanzlei-corporate-ma": {

@@ -5993,10 +5993,67 @@ PROFILE += (
     ),
 )
 
+PROFILE += (
+    ThemenProfil(
+        key="bauwirtschaft",
+        label="Bauwirtschaft und Projektabwicklung",
+        rolle="Bauherr, Projektsteuerer, Bauleitung oder kaufmännisches Team mit konkret bestimmter Entscheidungsbefugnis",
+        oeffnungssatz="Bearbeite das Bauprojekt anhand von Planständen, Leistungsverzeichnissen, Verträgen und Belegen bis zum benötigten Kostenbericht, Terminplan, Vergabevorschlag oder Rechnungsabgleich.",
+        normen=(
+            "HOAI Paragraf 34 und Anlage 10: Die neun Gebäude-Leistungsphasen dem tatsächlich vereinbarten Planungsumfang zuordnen; Objektüberwachung, technische Freigabe und Vertretungsbefugnis unterscheiden.",
+            "BGB Paragrafen 632a, 640, 641 und 650g: Abschlag, Abnahme, Schlussrechnung und Fälligkeit getrennt anhand Vertrag, Leistung und Zugang prüfen.",
+            "BGB Paragrafen 650b und 650c: Änderungsbegehren, Vereinbarung und gesetzliche Anordnung auseinanderhalten; Preisforderung und bestätigter Nachtrag sind nicht dasselbe.",
+            "GWB Paragrafen 97, 127, 134 und 160 sowie VgV Paragraf 2: Öffentliches Vergaberegime, Wertung, Wartepflicht und Nachprüfung anhand Verfahren und zeitlich passendem Rechtsstand bestimmen.",
+            "HGB Paragrafen 238 und 239, UStG Paragrafen 13b und 14 sowie EStG Paragrafen 48 und 48b: Leistungsnachweis, Rechnung, Buchung und Zahlung verbinden; Umsatzsteuer und Bauabzugsteuer gesondert prüfen.",
+        ),
+        entscheidungen=(
+            "BGH, Urteil vom 15.02.2024 - VII ZR 42/22: Der amtliche Leitsatz betrifft die Unwirksamkeit der konkret verwendeten Vertragsstrafenklausel im Einheitspreisvertrag nach Paragraf 307 BGB. Kein pauschales Verbot jeder Vertragsstrafe; Klauselwortlaut, Bezugsgröße und Quellenstatus prüfen.",
+        ),
+        stationen=(
+            "Projektstand -> skills/bauprojekt-starten-und-arbeitsstand-fortfuehren/SKILL.md: Das konkrete Projektergebnis selbst bearbeiten und Kosten, Termine und Entscheidungen im selben Stand fortführen.",
+            "Auftrag -> skills/projektziele-und-entscheidungsrahmen-festlegen/SKILL.md: Objekt, Rolle, Projektziel und tatsächlich delegierte Entscheidungsbefugnis festhalten.",
+            "Planung -> skills/hoai-phasen-und-planstaende-abgleichen/SKILL.md: Geschuldete Planungsleistungen, Planrevision und Freigaben dem benötigten Ausführungsstand zuordnen.",
+            "Kosten -> skills/baubudget-und-kostenprognose-fortschreiben/SKILL.md: Budget, gebundenen Umfang, Restleistung und Risiken ohne doppelte Nachträge oder Abschläge rechnen.",
+            "Bauablauf -> skills/bauablauf-und-terminplan-fortschreiben/SKILL.md: Vorgänger, Kalender, Ressourcen und belastbare Terminwirkung einer Störung fortschreiben.",
+            "Zahlungsplan -> skills/projektliquiditaet-und-zahlungsplan-erstellen/SKILL.md: Fällige Ausgaben, tatsächliche Verfügbarkeit und gesonderte Eingangsszenarien periodenbezogen rechnen.",
+            "Beschaffung -> skills/vergabe-und-losbildung-vorbereiten/SKILL.md: Auftraggeber, Gesamtauftragswert, Verfahren und Loszuschnitt vor Ausschreibung bestimmen.",
+            "Leistungsverzeichnis -> skills/leistungsverzeichnis-erstellen-und-pruefen/SKILL.md: Leistung, Menge, Einheit und Schnittstelle mit dem freigegebenen Plan abgleichen.",
+            "Angebotswertung -> skills/bauangebote-werten-und-vergabevorschlag-erstellen/SKILL.md: Preisvergleich und begründeten Vorschlag nach unveränderten Kriterien ausarbeiten.",
+            "Bieterkommunikation -> skills/bieterfragen-und-ruegen-bearbeiten/SKILL.md: Zulässige Antwort oder Rügebearbeitung mit Zugangsnachweis und getrennten Fristen vorbereiten.",
+            "Bauvertrag -> skills/bauvertrag-und-schnittstellen-ausformulieren/SKILL.md: Leistungsumfang, Verantwortung, Abrechnung und tatsächliche Vertragseinbeziehung ausformulieren.",
+            "Baustellenbelege -> skills/bautagebuch-und-aufmass-fuehren/SKILL.md: Tagesgeschehen und gemessene Leistung mit Plan-, Mengen- und Belegbezug dokumentieren.",
+            "Behinderung -> skills/behinderung-und-bauzeitfolgen-dokumentieren/SKILL.md: Störung, betroffenen Vorgang, eigene Maßnahmen und belegte Auswirkungen festhalten.",
+            "Nachtrag -> skills/nachtraege-pruefen-und-vereinbaren/SKILL.md: Mehr- und Minderleistung samt Preisweg bis zum Prüfblatt oder vollständigen Vereinbarungstext bearbeiten.",
+            "Rechnung -> skills/baurechnungen-pruefen-und-zahlung-vorbereiten/SKILL.md: Aufmaß, kumulative Abrechnung, Einbehalt und Vorzahlungen zur konkreten Prüfentscheidung verbinden.",
+            "Abnahme -> skills/maengel-und-abnahme-bearbeiten/SKILL.md: Mangelbeleg, Abnahmeerklärung, Vorbehalt und technische Zuständigkeit getrennt bearbeiten.",
+            "Buchhaltung -> skills/baubuchhaltung-und-belege-abgleichen/SKILL.md: Rechnung, Gutschrift, Buchung und Bankumsatz mit nachvollziehbaren Korrekturvorschlägen abstimmen.",
+            "Nachunternehmer -> skills/nachunternehmer-und-sicherheiten-steuern/SKILL.md: Leistung, Schnittstelle, Sicherheitszweck und Rückgabevoraussetzung im konkreten Auftrag führen.",
+            "Entscheidung -> skills/projektbericht-und-entscheidungsvorlage-erstellen/SKILL.md: Den anstehenden Beschluss mit belegtem Kosten- und Terminstand ausformulieren.",
+            "Übergabe -> skills/uebergabe-und-gewaehrleistung-organisieren/SKILL.md: Übergabeunterlagen, Wartungszuständigkeit und jeweils belegte Mängelfristen fortführen.",
+        ),
+        pruefraster=(
+            "Welches konkrete Ergebnis wird benötigt, und wer darf die dazugehörige Entscheidung tatsächlich treffen?",
+            "Welche Planversion ist freigegeben, welche lediglich hochgeladen und welche bereits ausgeführt?",
+            "Stecken Nachtrag, Abschlag oder Zahlung bereits in einer anderen verwendeten Summe?",
+            "Welche Abhängigkeit macht aus einer Lieferverzögerung eine belegbare Projektverzögerung?",
+            "Welche neue Antwort verändert denselben Kostenansatz, Termin oder Vertragsentwurf?",
+            "Welche technische, steuerliche oder rechtliche Freigabe fehlt noch vor der externen Handlung?",
+        ),
+        stop=(
+            "Eine Kostenprognose soll ohne Zustimmung als Bestellung, Preisanerkenntnis oder Zahlungsauftrag gelten.",
+            "Bauleitung oder ein freigegebener Plan soll ohne Prüfung unbeschränkte rechtsgeschäftliche Vollmacht begründen.",
+            "Einzelne Lose sollen ohne Prüfung des Gesamtauftragswerts einem anderen Vergaberegime zugeordnet werden.",
+            "Die Freistellungsbescheinigung zur Bauabzugsteuer soll die Prüfung des Paragrafen 13b UStG ersetzen.",
+            "Ein Zahlungsplan für ein Bauprojekt soll eine vollständige Insolvenzprüfung des Unternehmens ersetzen.",
+        ),
+    ),
+)
+
 PROFILE_BY_KEY = {p.key: p for p in PROFILE}
 
 
 EXACT_PROFILE_KEYS: dict[str, str] = {
+    "bauwirtschaft": "bauwirtschaft",
     "anwaltschaft-generell": "anwaltschaft-generell",
     "corporate-contract-law": "corporate-contract-law",
     "vertragserstellung": "vertragserstellung",

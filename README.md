@@ -14,7 +14,7 @@ Für den ersten Vorgang: Rechtsgebiet öffnen, einen Einstieg wählen und die Un
 
 Weniger konkurrierende Einstiege, klarere Aufgaben: [Skills nach Ergebnis auswählen und bisherige Aufrufe umstellen](./docs/skill-auswahl-und-umstellungen.md). Dort steht auch, welche Fachvertiefungen erhalten bleiben und erst bei Bedarf gelesen werden.
 
-Für besonders arbeitsintensive Mandate gibt es [fachliche Schwerpunktaufträge](./SCHWERPUNKTE.md): konkrete Hauptskills und eigenständige Markdown-Prompts mit höchstens 7500 Zeichen und UTF-8-Bytes. Neben den Fachanwalts-, Steuer-, Insolvenz- und Zugewinnpaketen sind auch allgemeine Mandatsbearbeitung und wirtschaftliche Vertragsgestaltung erfasst. Die Auswahl betrifft zum Beispiel einen vollständigen Beleg- und Stichtagsabgleich statt einer allgemeinen Rechtsgebietsübersicht.
+Für besonders arbeitsintensive Vorgänge gibt es [fachliche Schwerpunktaufträge](./SCHWERPUNKTE.md): konkrete Hauptskills und eigenständige Markdown-Prompts mit höchstens 7500 Zeichen und UTF-8-Bytes. Neben den Fachanwalts-, Steuer-, Insolvenz- und Zugewinnpaketen sind auch allgemeine Mandatsbearbeitung, wirtschaftliche Vertragsgestaltung und bauwirtschaftliche Projektsteuerung erfasst. Die Auswahl betrifft zum Beispiel einen vollständigen Beleg- und Stichtagsabgleich statt einer allgemeinen Rechtsgebietsübersicht.
 
 Zwei neue deutsch benannte Pakete haben jeweils genau zehn Skills: [Vertragserstellung](./vertragserstellung/README.md) für den konkreten B2B-Vertrag vom Geschäftsauftrag bis zur Endfassung und [Wirtschaftsanwalt](./wirtschaftsanwalt/README.md) für zusammenhängende Rechtsfragen eines laufenden Unternehmens. Die Hauptskills bearbeiten selbst; Fachskills vertiefen nur den aktuellen Engpass. Je drei gesonderte Übungsakten verbinden zwei vorhandene Fälle mit einer neuen Akte aus Kassel beziehungsweise Hannover.
 
@@ -24,6 +24,17 @@ Zwei neue deutsch benannte Pakete haben jeweils genau zehn Skills: [Vertragserst
 | [Wirtschaftsanwalt: 10 Skills](./wirtschaftsanwalt/README.md) | [Werkstatt als MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=wirtschaftsanwalt/wirtschaftsanwalt-werkstatt.md) | [Mini als MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=wirtschaftsanwalt/wirtschaftsanwalt-schnellstart.md) | [Hauptproblem als MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=wirtschaftsanwalt/wirtschaftsanwalt-hauptproblem.md) |
 
 Die bisherigen Pakete bleiben erhalten: [Anwaltschaft generell](./anwaltschaft-generell/README.md) verbindet zehn Skills für allgemeine Einzelmandate. [Corporate Contract Law](./corporate-contract-law/README.md) bietet zwanzig stärker aufgegliederte Arbeitswege der wirtschaftlichen Vertragsgestaltung. Für denselben Vorgang einen passenden Einstieg wählen, nicht alle ähnlichen Pakete gleichzeitig laden. Werkstatt und Mini sind separate Downloads außerhalb der installierbaren Plugin-ZIPs; der jeweilige Hauptproblem-Workflow ist zusätzlich als echter Skill enthalten.
+
+Das Paket [Bauwirtschaft](./bauwirtschaft/README.md) richtet sich mit genau zwanzig Skills auch an Bauunternehmen, Bauherren und Projektsteuerer: Kosten, Termine, Vergabe, Bauausführung und Buchhaltung werden anhand derselben Projektbelege bearbeitet. Vier neue Akten behandeln eine öffentliche Vergabe in Northeim, das Baumanagement einer Werkhalle in Warendorf, ein Bürgerhaus in Einbeck durch alle neun HOAI-Leistungsphasen und die Buchhaltung eines Bauunternehmens in Bad Salzuflen. Technische Nachweise, Abnahmen und Freigaben bleiben bei den jeweils verantwortlichen Fachleuten.
+
+| Bauwirtschaft: Einstieg | Download und Verwendung |
+| --- | --- |
+| Ausführliche Werkstatt | [Werkstatt als MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauwirtschaft/bauwirtschaft-werkstatt.md): vollständiger Projektworkflow mit Vergabe, Kosten, Terminen und Bauausführung. |
+| Bauplan-Mini | [Mini als MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauwirtschaft/bauwirtschaft-schnellstart.md): kompakter Einstieg aus den vorhandenen Unterlagen in das benötigte Arbeitsdokument. |
+| Hauptproblem | [Hauptproblem als MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauwirtschaft/bauwirtschaft-hauptproblem.md): zusammenhängende Projektsteuerung, zusätzlich als ausführender Skill im Plugin. |
+| Vier vollständige Akten | [Akten und drei Downloadformen je Fall](./bauwirtschaft/README.md): Gesamt-PDF, Einzel-PDF-ZIP und ZIP mit Originalformaten. |
+
+English: [Bauwirtschaft](./bauwirtschaft/README.md) provides twenty construction-industry workflows, not just legal analysis. Four separate case files cover public procurement, commercial project management, all nine HOAI building-design phases and construction-company bookkeeping. The three standalone prompts above are separate downloads; qualified professionals remain responsible for technical assessment and approval.
 
 Das [Qualitätslabor für alle Plugins](./QUALITY.md) trennt Dateiprüfung, tatsächliche Skill-Auswahl und Bewertung erzeugter Arbeitsergebnisse. Fachlich geprüfte Mini-Prompts und vorbereitete Prüffälle sind keine bereits bestandenen Modelltests. [Durchführung, zwei unabhängige Prüfer und Fehlerdiagnose](./quality/README.md) erklären, wie konkrete Client-Läufe bewertet werden; ungeprüfte Quellen und fehlende Zugänge bleiben sichtbar. Diese Entwicklungsprüfungen laufen nicht zusätzlich bei jedem Mandatsaufruf.
 
@@ -76,13 +87,13 @@ Die fünf vollständigen Register sind alphabetisch sortiert und werden bei jede
 
 | Bestand | Umfang | Kurzbeschreibung | Vollständige alphabetische Liste |
 | --- | ---: | --- | --- |
-| **Plugins** | 244 | Installierbare Pakete für Rechtsgebiete und Arbeitsbereiche; jede Zeile beschreibt Zweck und fachlichen Zuschnitt. | [Plugin-Katalog mit Kurzbeschreibungen](#was-ist-drin) · [ZIPs und Einzeldateien](./ASSET_INDEX.md) |
-| **Skills** | 22402 | Eng abgegrenzte Arbeitsabläufe; die Detailseiten führen jeden Skill mit Kurzbeschreibung und einzelnem Markdown-Download auf. | [Skill-Gesamtübersicht](./SKILLS.md) · [Detailseiten je Plugin](./skills-index/) |
-| **Werkstatt-Prompts** | 244 | Ausführliche eigenständige Arbeitsmodi für komplexe Vorgänge; je Plugin mit Kurzbeschreibung und direktem Markdown-Download. | [Werkstatt-Prompts von A bis Z](./docs/werkstatt-und-schnellstart-coverage.md#werkstatt-prompts) |
-| **Schnellstart-/Mini-Prompts** | 244 | Kompakte eigenständige Einstiege für den Kernworkflow und ein erstes belastbares Arbeitsprodukt. | [Schnellstart-Prompts von A bis Z](./docs/werkstatt-und-schnellstart-coverage.md#schnellstart-prompts) |
-| **Testakten** | 349 zentral / 352 gesamt | Praxisnahe Dokumentensammlungen; jede Zeile skizziert den Fall, nennt passende Plugins und bietet drei Downloadformen. Drei weitere Akten liegen unmittelbar bei ihren Plugins. | [Zentrale Testakten mit Kurzbeschreibungen von A bis Z](./testakten/README.md#verfügbare-akten) · [pluginlokale Akten über den Plugin-Katalog](#was-ist-drin) |
+| **Plugins** | 245 | Installierbare Pakete für Rechtsgebiete und Arbeitsbereiche; jede Zeile beschreibt Zweck und fachlichen Zuschnitt. | [Plugin-Katalog mit Kurzbeschreibungen](#was-ist-drin) · [ZIPs und Einzeldateien](./ASSET_INDEX.md) |
+| **Skills** | 22422 | Eng abgegrenzte Arbeitsabläufe; die Detailseiten führen jeden Skill mit Kurzbeschreibung und einzelnem Markdown-Download auf. | [Skill-Gesamtübersicht](./SKILLS.md) · [Detailseiten je Plugin](./skills-index/) |
+| **Werkstatt-Prompts** | 245 | Ausführliche eigenständige Arbeitsmodi für komplexe Vorgänge; je Plugin mit Kurzbeschreibung und direktem Markdown-Download. | [Werkstatt-Prompts von A bis Z](./docs/werkstatt-und-schnellstart-coverage.md#werkstatt-prompts) |
+| **Schnellstart-/Mini-Prompts** | 245 | Kompakte eigenständige Einstiege für den Kernworkflow und ein erstes belastbares Arbeitsprodukt. | [Schnellstart-Prompts von A bis Z](./docs/werkstatt-und-schnellstart-coverage.md#schnellstart-prompts) |
+| **Testakten** | 353 zentral / 356 gesamt | Praxisnahe Dokumentensammlungen; jede Zeile skizziert den Fall, nennt passende Plugins und bietet drei Downloadformen. Drei weitere Akten liegen unmittelbar bei ihren Plugins. | [Zentrale Testakten mit Kurzbeschreibungen von A bis Z](./testakten/README.md#verfügbare-akten) · [pluginlokale Akten über den Plugin-Katalog](#was-ist-drin) |
 
-Sortierlogik: Plugins, Werkstatt- und Schnellstart-Prompts folgen dem Plugin-Slug; Skills sind zuerst nach Plugin und dort nach Skill-Slug sortiert; Testakten folgen dem Aktenordner. Die großen Bestände bleiben auf eigenen, schnell ladenden Registerseiten, damit der Haupt-README trotz 22402 Skills benutzbar bleibt.
+Sortierlogik: Plugins, Werkstatt- und Schnellstart-Prompts folgen dem Plugin-Slug; Skills sind zuerst nach Plugin und dort nach Skill-Slug sortiert; Testakten folgen dem Aktenordner. Die großen Bestände bleiben auf eigenen, schnell ladenden Registerseiten, damit der Haupt-README trotz 22422 Skills benutzbar bleibt.
 
 Plugin-Schnellwahl: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [J](#j) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [R](#r) · [S](#s) · [T](#t) · [U](#u) · [V](#v) · [W](#w) · [Z](#z)
 <!-- END HAUPTVERZEICHNIS (auto-generated) -->
@@ -119,11 +130,11 @@ Für diesen Anwendungsfall gibt es eine kuratierte, nach Fachanwaltschaften sort
 
 | Kennzahl | Wert |
 |---|---|
-| **Plugins** | 244 (inkl. 15 Gerichts- und Staatsanwalts-Plugins im Sammelordner [`gerichtsplugins/`](./gerichtsplugins/) und 11 Insolvenz-Plugins im Sammelordner [`insolvenzrecht-plugins/`](./insolvenzrecht-plugins/)) |
-| **Skills (SKILL.md)** | 22402: [Gesamtübersicht](./SKILLS.md) |
-| **Testakten** | 349 zentral / 352 gesamt |
+| **Plugins** | 245 (inkl. 15 Gerichts- und Staatsanwalts-Plugins im Sammelordner [`gerichtsplugins/`](./gerichtsplugins/) und 11 Insolvenz-Plugins im Sammelordner [`insolvenzrecht-plugins/`](./insolvenzrecht-plugins/)) |
+| **Skills (SKILL.md)** | 22422: [Gesamtübersicht](./SKILLS.md) |
+| **Testakten** | 353 zentral / 356 gesamt |
 | **Fachanwalts-Profile** | 24 |
-| **Plugin-Version / Arbeitsstand** | `v445.2.0` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
+| **Plugin-Version / Arbeitsstand** | `v445.3.0` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
 | **Marketplace-Definition** | [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json) |
 
 ### Sammel-Downloads
@@ -302,6 +313,7 @@ Alphabetisch: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · 
 | [`barrierefreiheit-web-checker`](./barrierefreiheit-web-checker) | Web-Barrierefreiheits-Checker für BFSG, BFSGV, BITV 2.0, EN 301 549 und WCAG: Scope, Audit, Tastatur, Screenreader, Formulare, PDFs, Erklärung, Roadmap und Abnahme. |
 | [`bautraegervertrag-pruefer`](./bautraegervertrag-pruefer) | Bauträgervertrag-Prüfer aus Verbrauchersicht: MaBV, Paragrafen 650u/650v BGB, Paragraf 650m Abs. 2 BGB, AGB, Baubeschreibung, Abnahme, Schlussrate, WEG, Vormerkung, Lastenfreistellung und Drei-Dokumente-Ausgabe. |
 | [`bautraegervertragspruefer`](./bautraegervertragspruefer) | Prüft deutsche Bauträgerverträge: MaBV-Ratenplan und Sicherheiten, Paragrafen 650u und 650v BGB, AGB-Kontrolle, Baubeschreibung, Abnahme Gemeinschaftseigentum, Bauzeit, Preisanpassung, Teilungserklärung. Liefert Mandantengutachten und Aufforderungsschreiben an Bauträger und Notar. |
+| [`bauwirtschaft`](./bauwirtschaft) | Zwanzig ausführende Arbeitsabläufe für Bauherren, Projektentwicklung, Bauleitung und kaufmännische Teams: vom Projektstart über Planung, Vergabe und Ausführung bis zu Buchhaltung, Übergabe und Gewährleistung. |
 | [`bav-strategie-konzern`](./bav-strategie-konzern) | Strategische Beratung zur betrieblichen Altersversorgung in Konzernen: Pensionsmodelle alle fünf Durchführungswege CTA Pension Buyouts Drei-Stufen-Theorie Versorgungssystem-Harmonisierung internationale Benefits Restrukturierung DB-zu-DC im Düsseldorfer Boutique-Stil. |
 | [`beamtenrecht`](./beamtenrecht) | Beamtenrecht für Bund, Länder und Richterdienst: Status, Laufbahn, Besoldung, Versorgung, Konkurrentenstreit, Disziplinarrecht, Dienstunfähigkeit, Richterlaufbahn, Landesrecht und verständliche Mandatsführung. |
 | [`bereicherungs-und-anfechtungsrecht-pruefer`](./bereicherungs-und-anfechtungsrecht-pruefer) | Mechanisches Durchprüfen von Bereicherungsrecht Paragrafen 812 ff. BGB, AnfG und Insolvenzanfechtung Paragrafen 129-147 InsO. Mit KI-Screening von Schuldnerakten, Paragraf 135 Gesellschafterdarlehen, Bargeschäft Paragraf 142 und Verteidigung des Anfechtungsgegners. Keine Rechtsberatung. |

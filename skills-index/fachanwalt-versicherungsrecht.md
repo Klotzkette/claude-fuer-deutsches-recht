@@ -1,6 +1,6 @@
 # fachanwalt-versicherungsrecht
 
-**92 Skills** · Stand `v445.2.0`
+**92 Skills** · Stand `v445.3.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../fachanwalt-versicherungsrecht/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

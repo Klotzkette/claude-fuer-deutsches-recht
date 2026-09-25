@@ -1,0 +1,32 @@
+name: bauwirtschaft-vergabeverfahren-feuerwehrhaus-northeim
+plugin: bauwirtschaft
+related_plugins:
+  - fachanwalt-vergaberecht
+author: Klotzkette
+description: Kommunales Feuerwehrhaus mit drei Lüftungsangeboten und offenem Nachprüfungsverfahren am 25. September 2026.
+checks:
+  - id: gesamtwert-und-bekanntmachung
+    check_type: file_exists
+    path: 02_bekanntmachung.pdf
+    description: Gesamtvorhaben und ausgeschriebenes Los sind getrennt dokumentiert.
+  - id: lv-und-preise
+    check_type: file_exists
+    path: 04_lv_lueftung.xlsx
+    description: Zwanzig reale Positionen mit identischen Mengen in den drei Angeboten und nachvollziehbaren Quellen.
+  - id: eigenstaendige-antwort
+    check_type: file_exists
+    path: 19_antwort.docx
+    description: Die Antwort bezieht sich auf die konkrete Nachforderung und steht neben eigenständigen Drittbelegen.
+  - id: offenes-verfahren
+    check_type: file_exists
+    path: 31_vk_mitteilung.eml
+    description: Der tatsächliche Bearbeitungsstand wird nicht durch einen erfundenen Abschlussbeschluss ersetzt.
+  - id: belegbezogene-bearbeitung
+    check_type: human_review
+    description: Aussagen den jeweiligen Absendern und Daten zuordnen, offene Tatsachen sichtbar halten und angeforderte Arbeitsprodukte vollständig ausformulieren.
+  - id: quellen-und-zeitbezug
+    check_type: human_review
+    description: Nur verifizierte Normen verwenden und bei ergänzender Rechtsprüfung den einschlägigen zeitlichen Normstand selbst prüfen.
+  - id: technische-pruefung
+    check_type: human_review
+    description: Formeln, Originalformate, MIME-Nachrichten, Seitenbilder und unveränderte Sendebelege anhand des fallbezogenen Tests prüfen.
