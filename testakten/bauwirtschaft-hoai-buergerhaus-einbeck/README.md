@@ -1,6 +1,12 @@
-# Bürgerhaus Leinewinkel in Einbeck
+<!-- decimal-headings -->
 
-## 1 Umfang
+<!-- decimal-anchor --> <a id="bürgerhaus-leinewinkel-in-einbeck"></a>
+
+# 1. Bürgerhaus Leinewinkel in Einbeck
+
+<!-- decimal-anchor --> <a id="umfang"></a>
+
+## 1.1. Umfang
 
 Autor: Klotzkette. Fallkennung: `bauwirtschaft-hoai-buergerhaus-einbeck`.
 
@@ -11,7 +17,9 @@ Die Akte gehört zu den anhand ihrer Plugin-Manifeste geprüften Slugs [bauwirts
 Personen, Firmen, Grundstücksangaben, Bauvorlagen und Verwaltungsvorgänge sind erfunden. Einbeck und die amtlichen Quellen sind real. Der Bescheid ist kein tatsächlich erteilter Verwaltungsakt; die Zeichnungen sind keine zur Bauausführung verwendbaren Unterlagen eines realen Gebäudes. Die drei Bildbelege sind eigens für diese Akte hergestellt. Die Originaldateien enthalten weder eine Lösungsmatrix noch Ausbildungsaufträge oder Herkunftshinweise.
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
-## Akte komplett herunterladen
+<!-- decimal-anchor --> <a id="akte-komplett-herunterladen"></a>
+
+## 1.2. Akte komplett herunterladen
 
 [Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
 
@@ -33,7 +41,9 @@ English: The original-format ZIP contains the working files directly at archive 
 
 <!-- END gesamt-pdf-section (autogen) -->
 
-## 3 Konkrete Belege
+<!-- decimal-anchor --> <a id="konkrete-belege"></a>
+
+## 1.3. Konkrete Belege
 
 | Leistungsphase Gebäude | Originalbelege | Inhalt |
 | --- | --- | --- |
@@ -49,7 +59,9 @@ English: The original-format ZIP contains the working files directly at archive 
 
 Die Zuordnung beschreibt vorhandene Urkunden, keine ausgehändigte Phasenanleitung. Der Bestand wird nicht als lückenloses Archiv aller Beteiligten ausgegeben: Die Schlussunterlagen anderer Gewerke sind über das tatsächlich enthaltene Archivregister erschlossen; ihre unterschriebenen Einzelabnahmeblätter liegen beim Verein. Ungeklärte Leitungen, Sockelfeuchte, unterschiedliche Höhenangaben und der nicht freigegebene Nutzungswunsch bleiben aktenimmanente Reibungen.
 
-## 4 Formate und Verknüpfungen
+<!-- decimal-anchor --> <a id="formate-und-verknüpfungen"></a>
+
+## 1.4. Formate und Verknüpfungen
 
 Die Originale verwenden PDF, DOCX, EML, XLSX, CSV, PNG und TXT. Die Dokumentgattungen umfassen unter anderem Beschluss, Vertrag, Gesprächsprotokoll, Aufmaßplan, Variantenuntersuchung, Entwurf, Bauantrag, Lageplan, Baubeschreibung, Behördennachforderung, Bescheid, Ausführungsdetail, Leistungsverzeichnis, Angebot, Preisspiegel, Bautagebuch, Behinderungsanzeige, Nachtragsangebot, Rechnung, Abnahmeprotokoll, Übergabeprotokoll, Archivregister, Mängelmeldung und Begehungsniederschrift.
 
@@ -59,7 +71,9 @@ Die vier Arbeitsmappen 09, 19, 24 und 37 wurden mit Artifact Tool erstellt. Meng
 
 Bildbelege sind das Planstandportal 22, die Bauleiterkommunikation 32 und die Saalwandaufnahme 42. Die Screenshots wurden als Rasteransichten gerendert. Das Feuchtebild entstand mit dem eingebauten Bildgenerator. Bildauftrag: sachliche Tageslichtaufnahme einer alten Bürgerhaus-Innenwand mit niedrigem Feuchterand, abblätternder Beschichtung, dunklem Steinsockel und Fliesenboden, ohne Menschen, Schrift oder behauptete Schadensursache.
 
-## 5 Quellenstand
+<!-- decimal-anchor --> <a id="quellenstand"></a>
+
+## 1.5. Quellenstand
 
 Amtliche Quellen wurden am 25.09.2026 aktuell abgerufen. Die Urkunden zitieren keine Rechtsprechung oder unzugängliche technische Normtexte. Technische Maße sind konkrete Projektvorgaben, keine behaupteten wörtlichen Wiedergaben einer technischen Norm.
 
@@ -72,7 +86,9 @@ Amtliche Quellen wurden am 25.09.2026 aktuell abgerufen. Die Urkunden zitieren k
 
 Die Aufzählung ist ein Quellenprotokoll außerhalb der Originale. Ein heutiger Abruf wird nicht mit einer unverändert geltenden historischen Gesamtfassung gleichgesetzt. Es werden keine Rechtsprechungsfundstellen erfunden und keine gegenwärtigen Verwaltungshinweise als historische Einreichungsbestätigung ausgegeben.
 
-## 6 Reproduktion und Prüfgrenzen
+<!-- decimal-anchor --> <a id="reproduktion-und-prüfgrenzen"></a>
+
+## 1.6. Reproduktion und Prüfgrenzen
 
 Die fallbezogenen Builder heißen `scripts/build-bauwirtschaft-einbeck-akte.py`, `scripts/build-bauwirtschaft-einbeck-tabellen.mjs` und `scripts/build-bauwirtschaft-einbeck-pakete.py`. Sie schreiben keine zentralen Dateien. Die Schriftwahl nutzt `serif_font_path` und `screen_font` aus dem gemeinsamen Laufzeitmodul; Times New Roman wird andernfalls durch verfügbare freie Schriften ersetzt. `AKTEN_FONT_DIR`, `AKTEN_NODE_MODULES`, `SOFFICE`, `DOCX_RENDERER` und `EINBECK_ASSETS` konfigurieren die lokale Laufzeit ohne persönliche Pfade im Quellcode. Das Bild 42 ist ein eingechecktes Ausgangsasset und wird beim reproduzierbaren Bau unverändert übernommen.
 

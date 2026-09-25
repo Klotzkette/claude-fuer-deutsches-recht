@@ -34,6 +34,7 @@ from reportlab.pdfgen import canvas
 from akten_build_runtime import node_binary, serif_font_path
 from akten_docx_format import separate_section_headings
 from testakte_office_pdf import office_binary
+from readme_decimal_headings import normalize_decimal_headings
 
 ROOT = Path(__file__).resolve().parents[1]
 ASSETS = Path(os.environ.get('BAUWIRTSCHAFT_ASSETS', '/tmp/bauwirtschaft-assets'))
@@ -718,24 +719,24 @@ def readmes():
                               (BAD, 'Buchhaltungsprüfung in Bad Salzuflen', 'Begrenzter Rechnungs-, Leistungs- und Zahlungsabgleich eines regionalen Bauunternehmens. Der ausgewählte Stapel umfasst zwei Projekte, eine Lieferantenkorrektur, Skonto, einen Sicherheitseinbehalt und die im September gezahlten Augustlöhne.')]:
         directory = ROOT / 'testakten' / case
         files = sorted(p.name for p in directory.iterdir() if p.is_file() and p.name[:2].isdigit())
-        text = f'# {title}\n\n## 1 Vorgang\n\n{desc} Stand: 25. September 2026, 16:00 Uhr.\n\n<!-- BEGIN gesamt-pdf-section (autogen) -->\n## 2 Downloads\n\nDie beiden Archive sind flach; das Originalarchiv enthält zusätzlich die Gesamtlesefassung. Der Formatmix bleibt im Originalarchiv erhalten. Die Einzel-PDF-Fassung enthält jede Unterlage als eigenes Dokument.\n\n'
+        text = f'<!-- decimal-headings -->\n\n# {title}\n\n## Vorgang\n\n{desc} Stand: 25. September 2026, 16:00 Uhr.\n\n<!-- BEGIN gesamt-pdf-section (autogen) -->\n## Downloads\n\nDie beiden Archive sind flach; das Originalarchiv enthält zusätzlich die Gesamtlesefassung. Der Formatmix bleibt im Originalarchiv erhalten. Die Einzel-PDF-Fassung enthält jede Unterlage als eigenes Dokument.\n\n'
         text += '> ' + NOTICE.replace('\n\n','\n>\n> ') + '\n\n'
         text += '| Fassung | Datei |\n| --- | --- |\n'
         text += f'| Gesamt-PDF | [Gesamtlesefassung](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/{case}/gesamt-pdf/{case}_gesamt.pdf) |\n'
         text += f'| Originale | [Akten-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-{case}.zip) |\n'
         text += f'| Einzel-PDFs | [Einzel-PDF-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-{case}-einzelpdfs.zip) |\n\n'
         text += '<!-- END gesamt-pdf-section (autogen) -->\n\n'
-        text += f'## 3 Bestand\n\n{len(files)} native Aktenstücke. Jede Datei bildet ein Dokument ab. Die beiden Arbeitsmappen sind bearbeitbar; E-Mail-Anhänge entsprechen den separat enthaltenen Quelldateien.\n\n| Nr. | Datei |\n| --- | --- |\n'
+        text += f'## Bestand\n\n{len(files)} native Aktenstücke. Jede Datei bildet ein Dokument ab. Die beiden Arbeitsmappen sind bearbeitbar; E-Mail-Anhänge entsprechen den separat enthaltenen Quelldateien.\n\n| Nr. | Datei |\n| --- | --- |\n'
         text += '\n'.join(f'| {int(f[:2])} | `{f}` |' for f in files)
-        text += '\n\n## 4 Redaktion\n\nAutor: Klotzkette. Personen und Unternehmen des Sachverhalts sind erfunden. Die PNG-Dateien zeigen fachliche Bildschirmansichten des jeweiligen Falls. Die Prüfkriterien in `rubric.yaml` gehören nicht zum Export.\n'
-        text += '\n## 5 Quellenstand\n\nDie steuerlichen Fallannahmen wurden am 25. September 2026 mit den amtlichen Einzelnormen abgeglichen: '
+        text += '\n\n## Redaktion\n\nAutor: Klotzkette. Personen und Unternehmen des Sachverhalts sind erfunden. Die PNG-Dateien zeigen fachliche Bildschirmansichten des jeweiligen Falls. Die Prüfkriterien in `rubric.yaml` gehören nicht zum Export.\n'
+        text += '\n## Quellenstand\n\nDie steuerlichen Fallannahmen wurden am 25. September 2026 mit den amtlichen Einzelnormen abgeglichen: '
         text += '[Paragraf 12 UStG](https://www.gesetze-im-internet.de/ustg_1980/__12.html) und [Paragraf 13b UStG](https://www.gesetze-im-internet.de/ustg_1980/__13b.html). '
         if case == BAD:
             text += 'Für den davon getrennten Bauabzug wurden [Paragraf 48 EStG](https://www.gesetze-im-internet.de/estg/__48.html) und [Paragraf 48b EStG](https://www.gesetze-im-internet.de/estg/__48b.html) geprüft. Die Bescheinigungsabschriften sind Fallunterlagen, keine tatsächlich erteilten Bescheinigungen. '
         else:
             text += 'Die Bauherrin fertigt Präzisionsteile und erbringt selbst keine Bauleistungen. Die Belege unterscheiden Nettoinvestitionen und Bruttozahlungen. '
         text += 'Rechtsprechung wird nicht verwendet.\n'
-        (directory/'README.md').write_text(text, encoding='utf-8')
+        (directory/'README.md').write_text(normalize_decimal_headings(text), encoding='utf-8')
 
 
 def main():

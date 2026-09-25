@@ -1,11 +1,19 @@
-# Werkhallenbau in Warendorf
+<!-- decimal-headings -->
 
-## 1 Vorgang
+<!-- decimal-anchor --> <a id="werkhallenbau-in-warendorf"></a>
+
+# 1. Werkhallenbau in Warendorf
+
+<!-- decimal-anchor --> <a id="vorgang"></a>
+
+## 1.1. Vorgang
 
 Privater Werkhallenbau aus Sicht der Bauherrin und des Projektcontrollings. Kostenstand, Bestellungen, Restleistungen und Zahlungsplan treffen auf eine verspätete Trafostation und noch nicht freigegebene Zusatzangebote. Stand: 25. September 2026, 16:00 Uhr.
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
-## Akte komplett herunterladen
+<!-- decimal-anchor --> <a id="akte-komplett-herunterladen"></a>
+
+## 1.2. Akte komplett herunterladen
 
 [Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
 
@@ -27,7 +35,9 @@ English: The original-format ZIP contains the working files directly at archive 
 
 <!-- END gesamt-pdf-section (autogen) -->
 
-## 3 Bestand
+<!-- decimal-anchor --> <a id="bestand"></a>
+
+## 1.3. Bestand
 
 30 native Aktenstücke. Jede Datei bildet ein Dokument ab. Die beiden Arbeitsmappen sind bearbeitbar; E-Mail-Anhänge entsprechen den separat enthaltenen Quelldateien.
 
@@ -64,10 +74,14 @@ English: The original-format ZIP contains the working files directly at archive 
 | 29 | `29_Bautagebuch_24_09.txt` |
 | 30 | `30_Finanzierung.eml` |
 
-## 4 Redaktion
+<!-- decimal-anchor --> <a id="redaktion"></a>
+
+## 1.4. Redaktion
 
 Autor: Klotzkette. Personen und Unternehmen des Sachverhalts sind erfunden. Die PNG-Dateien zeigen fachliche Bildschirmansichten des jeweiligen Falls. Die Prüfkriterien in `rubric.yaml` gehören nicht zum Export.
 
-## 5 Quellenstand
+<!-- decimal-anchor --> <a id="quellenstand"></a>
+
+## 1.5. Quellenstand
 
 Die steuerlichen Fallannahmen wurden am 25. September 2026 mit den amtlichen Einzelnormen abgeglichen: [Paragraf 12 UStG](https://www.gesetze-im-internet.de/ustg_1980/__12.html) und [Paragraf 13b UStG](https://www.gesetze-im-internet.de/ustg_1980/__13b.html). Die Bauherrin fertigt Präzisionsteile und erbringt selbst keine Bauleistungen. Die Belege unterscheiden Nettoinvestitionen und Bruttozahlungen. Rechtsprechung wird nicht verwendet.
