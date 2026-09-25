@@ -112,7 +112,11 @@ Bei Planänderungen erfassen Sie, welche Fachbeiträge betroffen sind. Ein geän
 
 #### 2.3.3. Phase 8 und Phase 9 nicht verwechseln
 
-Anlage 10 ordnet Phase 8 unter anderem Bautagebuch beziehungsweise Bauablaufdokumentation, gemeinsames Aufmaß, Rechnungsprüfung und Kostenfeststellung zu. Phase 9 betrifft Objektbetreuung. Ob die benannte Person diese Leistungen schuldet und in welchem Umfang, folgt aus dem konkreten Vertrag.
+Anlage 10 ordnet Phase 8 unter anderem Bautagebuch beziehungsweise Bauablaufdokumentation, gemeinsames Aufmaß, Rechnungsprüfung und Kostenfeststellung zu. Auch Objektübergabe, Liste der Verjährungsfristen und Überwachung der Beseitigung bei Abnahme festgestellter Mängel sind dort Grundleistungen. Ordnen Sie diese Aufgaben nicht allein wegen eines späten Bearbeitungstermins der Phase 9 zu.
+
+Phase 9 umfasst fachliche Bewertung innerhalb der Verjährungsfristen festgestellter Mängel einschließlich notwendiger Begehungen, eine Mängelbegehung vor Fristablauf gegenüber ausführenden Unternehmen sowie Mitwirkung bei der Freigabe von Sicherheiten. Die Bewertung nach Buchstabe a reicht längstens bis fünf Jahre seit Abnahme der Leistung. Diese Leistungsgrenze ist keine pauschale Verjährungsfrist sämtlicher Mängelansprüche und kein automatisches Ende jeder anders vereinbarten Betreuung. Die Überwachung der Mängelbeseitigung innerhalb der Verjährungsfrist ist in Phase 9 eine Besondere Leistung. Erfassen Sie deshalb im Mangelregister Feststellungszeitpunkt, Abnahmebezug, Aufgabe und Vertragsgrundlage getrennt.
+
+Ob die benannte Person diese Leistungen schuldet und in welchem Umfang, folgt aus dem konkreten Vertrag. Ein Zahlungsplan ist in Phase 8 als Besondere Leistung aufgeführt. Betriebliche Buchhaltung mit Kontierung, offenen Posten und Bankabgleich ist von der Rechnungsprüfung und Kostenkontrolle der Objektüberwachung zu trennen und benötigt einen entsprechenden Auftrag.
 
 Die Tätigkeit als verantwortlicher Bauleiter ist nicht automatisch mit der gesamten Phase 8 identisch. Soweit die landesrechtliche Verantwortung über die Grundleistungen hinausgeht, ist die ausdrückliche Differenzierung der Anlage zu beachten. Erfragen Sie Bestellung und Verantwortungsumfang bei der konkret betroffenen Rolle.
 
@@ -548,6 +552,10 @@ Kumulative Bauabrechnungen sind besonders fehleranfällig. Der neue Gesamtleistu
 
 Unzuordenbare Bankbewegungen bleiben als Klärposten sichtbar. Formulieren Sie die konkrete Nachfrage nach Verwendungszweck oder Zahlungsaufteilung. Ein nicht erklärter Differenzbetrag wird nicht als Skonto oder Rundung ausgebucht.
 
+Kontrollieren Sie auch die Gesamtheit je Rechtsträger, Geschäftspartner, Währung und Stichtag. Auf einheitlicher Betragsbasis gilt: Anfangsbestand offener Posten zuzüglich neuer Forderungs- oder Verbindlichkeitsbeträge abzüglich Gutschriften, zugeordneter Zahlungen und belegter weiterer Ausgleiche ergibt den Endbestand. Erklären Sie die Vorzeichenkonvention des Exports. Übernehmen Sie aus kumulativen Rechnungen nur den noch nicht erfassten Zugang. Die Summe jeder Zahlungsaufteilung muss zur betreffenden Bankbewegung passen; Gegenposten anderer Unternehmen werden nicht ohne belegte Grundlage verrechnet.
+
+Ein Sicherheits- oder Mängeleinbehalt ist keine Zahlung und allein kein Grund, eine bestehende Forderung auszubuchen. Weisen Sie im verbleibenden offenen Posten den einbehaltenen, streitigen und fälligen Anteil getrennt aus. Eine spätere Freigabe ändert die Zahlungsplanung, ohne dieselben Kosten ein zweites Mal zu erzeugen.
+
 #### 2.17.3. Umsatzsteuer und Bauabzugsteuer getrennt prüfen
 
 Paragraf 13b UStG hängt von Leistung und Empfängermerkmalen ab. Der Name „Bau GmbH“ genügt nicht für jede Schlussfolgerung. Planungs- und Überwachungsleistungen sind im gelesenen Tatbestand für Bauleistungen ausdrücklich anders behandelt; der konkrete Umsatz bleibt zu prüfen.
@@ -632,7 +640,7 @@ Die Fristenberechnung benötigt einen belastbaren Anfang. Fehlt die Abnahme, wir
 
 #### 2.20.3. Restpunkte über die Übergabe hinweg erhalten
 
-Führen Sie bestehende Mangel-, Dokument- und Planidentifikationen weiter. Eine neu eingegangene Revisionszeichnung ersetzt die betreffende Datei im Arbeitsstand mit nachvollziehbarer Änderungsspur; sie löscht nicht die Geschichte fehlender oder widersprüchlicher Unterlagen.
+Führen Sie bestehende Mangel-, Dokument- und Planidentifikationen weiter. Halten Sie die Aufgabenabgrenzung aus Abschnitt 2.3.3 fest: Abnahmemängel und später festgestellte Mängel können unterschiedliche Betreuungsleistungen auslösen. Eine neu eingegangene Revisionszeichnung ersetzt die betreffende Datei im Arbeitsstand mit nachvollziehbarer Änderungsspur; sie löscht nicht die Geschichte fehlender oder widersprüchlicher Unterlagen.
 
 Das Übergabeprotokoll enthält vollständige Sätze zum tatsächlichen Umfang. Restpunkte werden konkret bezeichnet, nicht durch „Unterlagen vollständig“ pauschal überspielt. Eine Empfangsbestätigung darf keine ungewollte Mangelfreiheit oder Erledigung sämtlicher Rechte erklären.
 

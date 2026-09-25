@@ -8,7 +8,7 @@
 
 ## 1.1. Vorgang
 
-Begrenzter Rechnungs-, Leistungs- und Zahlungsabgleich eines regionalen Bauunternehmens. Der ausgewählte Stapel umfasst zwei Projekte, eine Lieferantenkorrektur, Skonto, einen Sicherheitseinbehalt und die im September gezahlten Augustlöhne. Stand: 25. September 2026, 16:00 Uhr.
+Rechnungs-, Leistungs- und Zahlungsabgleich eines regionalen Bauunternehmens mit 18 unterschiedlichen Lieferantenrechnungen und drei Rechnungskorrekturen. Der ursprüngliche Stapel enthält Skonto, Sicherheitseinbehalt und Augustlöhne. Der ergänzende Stapel ab Datei 31 bringt weitere Gewerke, Material, Miete, Entsorgung und Planung sowie ein getrenntes Projektkonto, Sammelzahlung, Teilzahlung und prüfbare Buchungsvorschläge. Stand: 25. September 2026, 16:00 Uhr.
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
 <!-- decimal-anchor --> <a id="akte-komplett-herunterladen"></a>
@@ -39,7 +39,7 @@ English: The original-format ZIP contains the working files directly at archive 
 
 ## 1.3. Bestand
 
-30 native Aktenstücke. Jede Datei bildet ein Dokument ab. Die beiden Arbeitsmappen sind bearbeitbar; E-Mail-Anhänge entsprechen den separat enthaltenen Quelldateien.
+57 native Aktenstücke. Jede Datei bildet ein Dokument ab. Die Arbeitsmappen sind bearbeitbar; E-Mail-Anhänge entsprechen den separat enthaltenen Quelldateien.
 
 | Nr. | Datei |
 | --- | --- |
@@ -73,6 +73,33 @@ English: The original-format ZIP contains the working files directly at archive 
 | 28 | `28_Kontoauszug_September.pdf` |
 | 29 | `29_Telefonnotiz_Miettechnik.txt` |
 | 30 | `30_Kundenkonto_Alte_Muehle.pdf` |
+| 31 | `31_Rechnung_ST_260902.pdf` |
+| 32 | `32_Rechnung_HB_260903.pdf` |
+| 33 | `33_Rechnung_EL_260904.pdf` |
+| 34 | `34_Rechnung_TB_260905.pdf` |
+| 35 | `35_Rechnung_SA_260906.pdf` |
+| 36 | `36_Rechnung_MR_260907.pdf` |
+| 37 | `37_Rechnung_GE_260908.pdf` |
+| 38 | `38_Rechnung_EN_260909.pdf` |
+| 39 | `39_Rechnung_TP_260910.pdf` |
+| 40 | `40_Rechnung_ST_260911.pdf` |
+| 41 | `41_Rechnung_TR_260912.pdf` |
+| 42 | `42_Rechnung_VW_260913.pdf` |
+| 43 | `43_Rechnung_MT_260914.pdf` |
+| 44 | `44_Rechnung_DZ_260915.pdf` |
+| 45 | `45_Rechnungskorrektur_HB_G260916.pdf` |
+| 46 | `46_Rechnungskorrektur_VW_G260919.pdf` |
+| 47 | `47_Liefer_und_Leistungsregister.pdf` |
+| 48 | `48_Projektkonto_Bank.csv` |
+| 49 | `49_Projektkonto_Kontoauszug.pdf` |
+| 50 | `50_Ergaenzungsjournal.csv` |
+| 51 | `51_Ergaenzungs_OPOS.csv` |
+| 52 | `52_Buchungsvorschlaege.csv` |
+| 53 | `53_Kontenstamm.csv` |
+| 54 | `54_Uebergabe_Ergaenzungsstapel.docx` |
+| 55 | `55_Ergaenzungsabgleich.xlsx` |
+| 56 | `56_Steuerliche_Bearbeitungsnotiz.pdf` |
+| 57 | `57_Zahlungszuordnung.csv` |
 
 <!-- decimal-anchor --> <a id="redaktion"></a>
 
@@ -84,4 +111,4 @@ Autor: Klotzkette. Personen und Unternehmen des Sachverhalts sind erfunden. Die 
 
 ## 1.5. Quellenstand
 
-Die steuerlichen Fallannahmen wurden am 25. September 2026 mit den amtlichen Einzelnormen abgeglichen: [Paragraf 12 UStG](https://www.gesetze-im-internet.de/ustg_1980/__12.html) und [Paragraf 13b UStG](https://www.gesetze-im-internet.de/ustg_1980/__13b.html). Für den davon getrennten Bauabzug wurden [Paragraf 48 EStG](https://www.gesetze-im-internet.de/estg/__48.html) und [Paragraf 48b EStG](https://www.gesetze-im-internet.de/estg/__48b.html) geprüft. Die Bescheinigungsabschriften sind Fallunterlagen, keine tatsächlich erteilten Bescheinigungen. Rechtsprechung wird nicht verwendet.
+Die steuerlichen Fallannahmen wurden am 25. September 2026 mit den amtlichen Einzelnormen abgeglichen: [Paragraf 12 UStG](https://www.gesetze-im-internet.de/ustg_1980/__12.html) und [Paragraf 13b UStG](https://www.gesetze-im-internet.de/ustg_1980/__13b.html). Für den davon getrennten Bauabzug wurden [Paragraf 48 EStG](https://www.gesetze-im-internet.de/estg/__48.html) und [Paragraf 48b EStG](https://www.gesetze-im-internet.de/estg/__48b.html) geprüft. Die Bescheinigungsabschriften sind Fallunterlagen, keine tatsächlich erteilten Bescheinigungen. Vorsteuer und Rechnungskorrekturen wurden anhand [Paragraf 15 UStG](https://www.gesetze-im-internet.de/ustg_1980/__15.html) und [Paragraf 17 UStG](https://www.gesetze-im-internet.de/ustg_1980/__17.html) abgeglichen. Der Ergänzungsstapel verwendet einen eigenen Übungskontenstamm und keine zugesicherte DATEV-Schnittstelle. Rechtsprechung wird nicht verwendet.

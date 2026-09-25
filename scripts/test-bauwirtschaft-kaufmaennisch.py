@@ -109,6 +109,9 @@ def exported_content(reader,source,label):
         if source.suffix=='.xlsx':
             check('8500000' in content,label+' Bankanfangsbestand 85.000,00 EUR')
             check('7921180' in content,label+' Bankendsaldo 79.211,80 EUR')
+    if source.name=='55_Ergaenzungsabgleich.xlsx':
+        for value in ('9.999,00','19.580,00','1.520,00','38.218,80','11.781,20'):
+            check(normalized(value) in content,label+' Ergänzungsbetrag '+value)
 
 
 def exported_pdf(reader,label):
@@ -161,9 +164,10 @@ def sources_and_exports():
     for case in CASES:
         directory=ROOT/'testakten'/case
         sources=sorted(p for p in directory.iterdir() if p.is_file() and p.name[:2].isdigit())
-        check(len(sources)==30,case+' 30 Originale')
+        expected_count=57 if case==CASES[1] else 30
+        check(len(sources)==expected_count,case+f' {expected_count} Originale')
         check({p.suffix for p in sources}=={'.pdf','.docx','.xlsx','.csv','.txt','.eml','.png'},case+' vollständiger Formatmix')
-        check(len(list(directory.glob('*.xlsx')))==2 and len(list(directory.glob('*.png')))==2,case+' zwei Mappen und zwei PNGs')
+        check(len(list(directory.glob('*.xlsx')))==(3 if case==CASES[1] else 2) and len(list(directory.glob('*.png')))==2,case+' Mappen und zwei PNGs vollständig')
         for p in sources:
             if p.suffix=='.png':
                 im=Image.open(p);check(im.format=='PNG' and min(im.size)>=900,p.name+' echte hochauflösende PNG-Datei')
@@ -221,7 +225,9 @@ def formulas():
     anchors=[(0,'10_Kostenfortschreibung.xlsx','Kostenstand','F14',2206000),
              (0,'09_Ablauf_und_Zahlungen.xlsx','Zahlungen','G9',124860),
              (1,'24_Kreditorenabgleich.xlsx','Kreditoren','E10',3342),
-             (1,'25_Projektkosten_und_Bank.xlsx','Projektkosten','D8',64480)]
+             (1,'25_Projektkosten_und_Bank.xlsx','Projektkosten','D8',64480),
+             (1,'55_Ergaenzungsabgleich.xlsx','Offene Posten','F20',9999),
+             (1,'55_Ergaenzungsabgleich.xlsx','Bank','F15',38218.8)]
     for ci,filename,sheet,coordinate,expected in anchors:
         check(near(cell(ROOT/'testakten'/CASES[ci]/filename,sheet,coordinate),expected),filename+' fachliche Ergebniskontrolle')
     for case in CASES:
@@ -327,6 +333,9 @@ def office():
         (1,'25_Projektkosten_und_Bank.xlsx','Lohn August','D6',31,'Projektkosten','D8',64550),
         (1,'25_Projektkosten_und_Bank.xlsx','Bank','E13',0,'Bank','F13',80996.8),
         (1,'25_Projektkosten_und_Bank.xlsx','Fremdleistungen','D7',220.005,'Projektkosten','D8',64479.995),
+        (1,'55_Ergaenzungsabgleich.xlsx','Zuordnung','D10',600,'Offene Posten','F20',9899),
+        (1,'55_Ergaenzungsabgleich.xlsx','Bank','C6',2956,'Bank','E6',100),
+        (1,'55_Ergaenzungsabgleich.xlsx','Belege','C20',-300,'Offene Posten','F20',9880),
     ]
     scratch=QA/'mutations';scratch.mkdir(exist_ok=True)
     for i,(ci,filename,sh,co,val,osh,oco,expected) in enumerate(mutations):
@@ -354,6 +363,59 @@ def quality():
     print(log)
     RESULTS['central_quality_exit']=result
     check(result==0,'Zentrale Dokumentqualität ohne Ausnahme bestanden')
+
+
+def extra_integrity():
+    case=CASES[1]
+    journal=csvrows(case,'50_Ergaenzungsjournal.csv')
+    invoices=[r for r in journal if amount(r['Netto_EUR'])>0]
+    corrections=[r for r in journal if amount(r['Netto_EUR'])<0]
+    check(len(invoices)==14 and len(corrections)==2,'Ergänzungsstapel 14 Rechnungen und zwei Korrekturen')
+    check(len({r['Beleg'] for r in journal})==16,'Ergänzungsbelege eindeutig')
+    check(sum(amount(r['Netto_EUR']) for r in journal)==19580,'Ergänzungsnetto 19.580 EUR')
+    check(sum(amount(r['USt_EUR']) for r in journal)==Decimal('2200.20'),'Ausgewiesene Steuer 2.200,20 EUR')
+    issuers={}
+    for row in journal:
+        source=ROOT/'testakten'/case/row['Datei']
+        check(source.is_file() and row['Beleg'] in pdftext(source),'Einzelbeleg zu '+row['Beleg'])
+        check(amount(row['Netto_EUR'])+amount(row['USt_EUR'])==amount(row['Belegbetrag_EUR']),'Belegrechnung '+row['Beleg'])
+        if amount(row['Netto_EUR'])>0:
+            text=pdftext(source)
+            address=re.search(r'Gewerbestraße \d+, 32105 Bad Salzuflen',text).group()
+            tax_number=re.search(r'Steuernummer [0-9/]+',text).group()
+            issuer=(address,tax_number)
+            check(issuers.setdefault(row['Kreditor'],issuer)==issuer,'Konstante Lieferantenstammdaten '+row['Kreditor'])
+    bank=csvrows(case,'48_Projektkonto_Bank.csv')
+    allocations=csvrows(case,'57_Zahlungszuordnung.csv')
+    check(len(bank)==10 and len(allocations)==11,'Zehn Bankumsätze mit elf Rechnungszuordnungen')
+    check(Decimal(50000)-sum(amount(r['Soll_EUR']) for r in bank)==Decimal('38218.80'),'Projektkonto 471109 Schluss 38.218,80 EUR')
+    for row in bank:
+        check(sum(amount(a['Zugeordnet_EUR']) for a in allocations if a['Bankreferenz']==row['Referenz'])==amount(row['Soll_EUR']),'Bankzuordnung '+row['Referenz'])
+    opos=csvrows(case,'51_Ergaenzungs_OPOS.csv')
+    for row in opos:
+        check(amount(row['Rechnung_EUR'])-amount(row['Korrektur_EUR'])-amount(row['Zahlung_EUR'])==amount(row['Offen_EUR']),'Ergänzungs-OPOS '+row['Beleg'])
+        check(sum(amount(a['Zugeordnet_EUR']) for a in allocations if a['Rechnung']==row['Beleg'])==amount(row['Zahlung_EUR']),'Zahlungsbezug '+row['Beleg'])
+    check(sum(amount(r['Offen_EUR']) for r in opos)==9999,'Ergänzungs-OPOS 9.999 EUR')
+    ledger=csvrows(case,'52_Buchungsvorschlaege.csv')
+    accounts={r['Konto'] for r in csvrows(case,'53_Kontenstamm.csv')}
+    for batch in {r['Satz'] for r in ledger}:
+        check(sum(amount(r['Soll_EUR'])-amount(r['Haben_EUR']) for r in ledger if r['Satz']==batch)==0,'Ausgeglichener Buchungssatz '+batch)
+    check(all(r['Konto'] in accounts for r in ledger),'Alle Vorschlagskonten im Übungsstamm')
+    def balance(account):
+        return sum(amount(r['Soll_EUR'])-amount(r['Haben_EUR']) for r in ledger if r['Konto']==account)
+    check(balance('1401')==1520 and balance('1771')==-1520,'Paragraf-13b-Steuer und Vorsteuer je 1.520 EUR getrennt')
+    check(balance('1400')==Decimal('2200.20'),'Vorsteuerberichtigung in Vorschlägen enthalten')
+    check(balance('1201')==-Decimal('11781.20'),'Bankvorschläge entsprechen dem Projektkonto')
+    check(sum(balance(a) for a in accounts if a.startswith('51'))==-9999,'Kreditorenkonten stimmen zum OPOS')
+    check(sum(balance(a) for a in accounts if a.startswith('50'))==19580,'Aufwandskonten stimmen zum Nettostapel')
+
+
+def workbook_imports():
+    from akten_build_runtime import node_binary
+    files=[str(p) for case in CASES for p in sorted((ROOT/'testakten'/case).glob('*.xlsx'))]
+    result=subprocess.run([node_binary(),str(ROOT/'scripts/build-bauwirtschaft-kaufmaennisch-workbooks.mjs'),'--verify-imports',*files],capture_output=True,text=True,timeout=120)
+    (QA/'xlsx-imports.txt').write_text(result.stdout+result.stderr,encoding='utf-8')
+    check(result.returncode==0,'Alle ausgelieferten XLSX direkt mit Artifact Tool importierbar')
 
 
 def readmes():
@@ -401,6 +463,7 @@ def main():
     parser.add_argument('--assets',type=Path,help='ZIP-Abgleich ausdrücklich aktivieren; unterstützt Release-Unterordner.')
     parser.add_argument('--qa',type=Path,help='Verzeichnis für Prüfprotokolle; standardmäßig ein neues temporäres Verzeichnis.')
     parser.add_argument('--office',action='store_true')
+    parser.add_argument('--imports',action='store_true',help='Direkten OOXML-Rückimport mit Artifact Tool prüfen.')
     parser.add_argument('--quality',action='store_true')
     parser.add_argument('--render-docx',metavar='RENDERER')
     parser.add_argument('--render-pdfs',action='store_true')
@@ -408,8 +471,9 @@ def main():
     ASSETS=args.assets.resolve() if args.assets else None
     QA=args.qa.resolve() if args.qa else Path(tempfile.mkdtemp(prefix='bauwirtschaft-kaufmaennisch-qa-'))
     QA.mkdir(parents=True,exist_ok=True)
-    integrity();sources_and_exports();formulas();readmes()
+    integrity();extra_integrity();sources_and_exports();formulas();readmes()
     if args.office:office()
+    if args.imports:workbook_imports()
     if args.quality:quality()
     if args.render_docx:render(args.render_docx)
     if args.render_pdfs:render_pdfs()

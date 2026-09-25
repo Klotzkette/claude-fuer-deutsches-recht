@@ -21,7 +21,11 @@ Nutze für Gebäude Paragraf 34 und Anlage 10 HOAI, nicht Tabellen anderer Leist
 
 ### 3.2. Neun Phasen mit Ergebnissen verbinden
 
-Ordne Grundlagenermittlung, Vorplanung, Entwurfsplanung, Genehmigungsplanung, Ausführungsplanung, Vorbereitung der Vergabe, Mitwirkung bei der Vergabe, Objektüberwachung und Dokumentation sowie Objektbetreuung zu. Unterscheide in jeder betroffenen Phase Grundleistung und Besondere Leistung. In Phase 8 liegen unter anderem Bautagebuch, gemeinsames Aufmaß, Rechnungsprüfung und Kostenfeststellung; Phase 9 ist Objektbetreuung, kein bloßes Umbenennen der Baustellenüberwachung.
+Ordne Grundlagenermittlung, Vorplanung, Entwurfsplanung, Genehmigungsplanung, Ausführungsplanung, Vorbereitung der Vergabe, Mitwirkung bei der Vergabe, Objektüberwachung und Dokumentation sowie Objektbetreuung zu. Unterscheide in jeder betroffenen Phase Grundleistung und Besondere Leistung. In Phase 8 liegen unter anderem Bautagebuch, gemeinsames Aufmaß, Rechnungsprüfung und Kostenfeststellung. Auch Objektübergabe, Verjährungsfristenliste und Überwachung der Beseitigung bereits bei Abnahme festgestellter Mängel gehören dort zu den Grundleistungen.
+
+Phase 9 umfasst die fachliche Bewertung innerhalb der Verjährungsfristen festgestellter Mängel einschließlich notwendiger Begehungen, die Mängelbegehung vor Fristablauf gegenüber ausführenden Unternehmen und die Mitwirkung bei der Sicherheitenfreigabe. Die Bewertung nach Buchstabe a ist auf längstens fünf Jahre seit Abnahme der Leistung begrenzt; das ist keine pauschale Verjährungsfrist aller Ansprüche. Überwachung der Beseitigung später festgestellter Mängel ist in Phase 9 als Besondere Leistung aufgeführt. Ordne jeden Mangel nach Feststellungszeitpunkt, Abnahmebezug und vereinbartem Auftrag zu.
+
+Ein Zahlungsplan ist in Phase 8 als Besondere Leistung aufgeführt. Betriebliche Buchhaltung, offene Posten und Bankabgleich werden nicht mit der dortigen Rechnungsprüfung oder Kostenkontrolle gleichgesetzt; kläre den dafür bestehenden Auftrag.
 
 ### 3.3. Beauftragtes Soll gegen Belege prüfen
 

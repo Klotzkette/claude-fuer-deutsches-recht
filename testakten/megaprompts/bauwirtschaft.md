@@ -329,7 +329,7 @@ _Gleicht Rechnungen, Gutschriften, Buchungen, offene Posten und Bankbewegungen i
 
 ## 1. Zweck und Anwendungsfall
 
-Führe jeden relevanten Geschäftsvorfall zu Beleg, Projektzuordnung und Zahlungsstand zusammen. Der Abgleich ist weder ein Jahresabschluss noch eine automatische Steuer- oder Zahlungsfreigabe.
+Führe jeden relevanten Geschäftsvorfall zu Beleg, Projektzuordnung und Zahlungsstand zusammen. Der Abgleich ist weder ein Jahresabschluss noch eine automatische Steuer- oder Zahlungsfreigabe. Betriebliche Buchhaltung und Bankabgleich sind gesondert vom Planerauftrag zu bestimmen; die Rechnungsprüfung und Kostenkontrolle in HOAI Phase 8 ersetzen sie nicht.
 
 ## 2. Eingaben
 
@@ -345,6 +345,8 @@ Nutze Lieferant, Rechnungsnummer, Datum, Betrag, Projekt und Bankreferenz gemein
 
 Verbinde Leistungsbeleg, Rechnung, Buchung und Zahlung. Teilzahlungen, Sammelzahlungen, Gutschriften, Skonto und Einbehalt nachvollziehbar aufteilen. Kumulative Bauabrechnung nicht als erneuten Gesamtumsatz oder vollständige neue Verbindlichkeit verdoppeln. Unzuordenbare Zahlung offen lassen und den fehlenden Bezug gezielt erfragen.
 
+Prüfe zusätzlich je Rechtsträger, Geschäftspartner, Währung und Stichtag die Summenbrücke: Anfangsbestand offener Posten plus neue Forderungs- oder Verbindlichkeitsbeträge minus Gutschriften, zugeordnete Zahlungen und belegte weitere Ausgleiche ergibt den Endbestand. Verwende dieselbe Betragsbasis und eine erklärte Vorzeichenkonvention; kumulative Vorbeträge nicht erneut zuführen. Jede Zahlungsaufteilung muss auf die Bankbewegung zurückführen. Einbehalt oder bestrittene Fälligkeit ist keine Zahlung und allein kein Grund zur Ausbuchung. Bestehende Restforderungen nach offen, einbehalten oder streitig kennzeichnen; ungeklärte Differenzen nicht durch erfundenes Skonto schließen.
+
 ### 3.3. Steuerfälle getrennt prüfen
 
 Paragraf 13b UStG hängt von Leistung und Empfänger ab, nicht allein vom Firmennamen. Bauabzugsteuer nach Paragrafen 48 und 48b EStG ist eine andere Prüfung mit eigener Freistellungsbescheinigung. Nicht aus einer Bescheinigung für den einen Bereich die Freistellung im anderen ableiten. Bei ungeklärter steuerlicher Einordnung konkrete fachliche Rückfrage erstellen.
@@ -355,7 +357,7 @@ Erstelle pro Differenz den belegten Iststand, Korrekturvorschlag, Begründung un
 
 ## 4. Quellenpflicht
 
-Verbindlich ist die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bauwirtschaft/references/zitierweise.md). [Fachquellen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bauwirtschaft/references/fachquellen.md): Paragrafen 238 und 239 HGB, Paragrafen 13b und 14 UStG sowie Paragrafen 48 und 48b EStG. E-Rechnungsübergänge, Aufbewahrung und Steueranmeldungen bei Bedarf aktuell zusätzlich verifizieren; kein ungeprüftes GoBD-Gesamturteil. Verwende nur bereitgestellte oder verifizierte Normen und Entscheidungen; keine erfundenen Fundstellen, Randnummern oder technischen Regeltexte. Bezeichne Abruflücken präzise.
+Verbindlich ist die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bauwirtschaft/references/zitierweise.md). [Fachquellen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bauwirtschaft/references/fachquellen.md): Paragrafen 238 und 239 HGB, Paragrafen 13b und 14 UStG sowie Paragrafen 48 und 48b EStG sowie HOAI Anlage 10 Nummer 10.1 Phase 8 zur Leistungsabgrenzung. E-Rechnungsübergänge, Aufbewahrung und Steueranmeldungen bei Bedarf aktuell zusätzlich verifizieren; kein ungeprüftes GoBD-Gesamturteil. Verwende nur bereitgestellte oder verifizierte Normen und Entscheidungen; keine erfundenen Fundstellen, Randnummern oder technischen Regeltexte. Bezeichne Abruflücken präzise.
 
 ## 5. Ausgabeformat
 
@@ -439,7 +441,11 @@ Nutze für Gebäude Paragraf 34 und Anlage 10 HOAI, nicht Tabellen anderer Leist
 
 ### 3.2. Neun Phasen mit Ergebnissen verbinden
 
-Ordne Grundlagenermittlung, Vorplanung, Entwurfsplanung, Genehmigungsplanung, Ausführungsplanung, Vorbereitung der Vergabe, Mitwirkung bei der Vergabe, Objektüberwachung und Dokumentation sowie Objektbetreuung zu. Unterscheide in jeder betroffenen Phase Grundleistung und Besondere Leistung. In Phase 8 liegen unter anderem Bautagebuch, gemeinsames Aufmaß, Rechnungsprüfung und Kostenfeststellung; Phase 9 ist Objektbetreuung, kein bloßes Umbenennen der Baustellenüberwachung.
+Ordne Grundlagenermittlung, Vorplanung, Entwurfsplanung, Genehmigungsplanung, Ausführungsplanung, Vorbereitung der Vergabe, Mitwirkung bei der Vergabe, Objektüberwachung und Dokumentation sowie Objektbetreuung zu. Unterscheide in jeder betroffenen Phase Grundleistung und Besondere Leistung. In Phase 8 liegen unter anderem Bautagebuch, gemeinsames Aufmaß, Rechnungsprüfung und Kostenfeststellung. Auch Objektübergabe, Verjährungsfristenliste und Überwachung der Beseitigung bereits bei Abnahme festgestellter Mängel gehören dort zu den Grundleistungen.
+
+Phase 9 umfasst die fachliche Bewertung innerhalb der Verjährungsfristen festgestellter Mängel einschließlich notwendiger Begehungen, die Mängelbegehung vor Fristablauf gegenüber ausführenden Unternehmen und die Mitwirkung bei der Sicherheitenfreigabe. Die Bewertung nach Buchstabe a ist auf längstens fünf Jahre seit Abnahme der Leistung begrenzt; das ist keine pauschale Verjährungsfrist aller Ansprüche. Überwachung der Beseitigung später festgestellter Mängel ist in Phase 9 als Besondere Leistung aufgeführt. Ordne jeden Mangel nach Feststellungszeitpunkt, Abnahmebezug und vereinbartem Auftrag zu.
+
+Ein Zahlungsplan ist in Phase 8 als Besondere Leistung aufgeführt. Betriebliche Buchhaltung, offene Posten und Bankabgleich werden nicht mit der dortigen Rechnungsprüfung oder Kostenkontrolle gleichgesetzt; kläre den dafür bestehenden Auftrag.
 
 ### 3.3. Beauftragtes Soll gegen Belege prüfen
 
@@ -495,11 +501,13 @@ Erstelle das vollständige Protokoll und das ausgefüllte Register mit Leistung,
 
 ### 3.4. Restpunkte bis zur Erledigung fortführen
 
+Ordne bei Gebäudeplanung Übergabe und Verjährungsfristenliste den Grundleistungen der Phase 8 zu. Unterscheide im Mangelregister, ob der Mangel schon bei Abnahme festgestellt wurde: Die Überwachung seiner Beseitigung gehört ebenfalls zu Phase 8. Phase 9 sieht spätere fachliche Mängelbewertung, Begehung vor Fristablauf und Mitwirkung bei der Sicherheitenfreigabe vor; die Überwachung der Mängelbeseitigung innerhalb der Verjährungsfrist ist dort eine Besondere Leistung. Prüfe jeweils den tatsächlichen Auftrag. Die Fünfjahresgrenze seit Abnahme der Leistung für die Bewertung nach Phase 9 Buchstabe a ist keine einheitliche Anspruchsverjährung; führe beide Zeitbezüge getrennt.
+
 Erhalte Mangel- und Dokumentkennungen über Übergabe hinweg. Neue Revisionsdatei oder Fachbestätigung ersetzt denselben Eintrag mit Änderungsspur. Trenne Eingang, fachliche Prüfung und Erledigung. Sicherheitenfreigabe, Rechteverzicht oder Löschung alter Dokumente benötigen eine gesonderte Entscheidung; keine Gesamterledigung durch Routineprotokoll.
 
 ## 4. Quellenpflicht
 
-Verbindlich ist die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bauwirtschaft/references/zitierweise.md). [Fachquellen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bauwirtschaft/references/fachquellen.md): Paragrafen 634a und 640 BGB, vertraglich einschlägige VOB/B sowie HOAI Anlage 10 Phase 9. Objektbetreuung ist keine Garantie für alle Betreiberpflichten; weitergehende Leistungen hängen vom Auftrag ab. Verwende nur bereitgestellte oder verifizierte Normen und Entscheidungen; keine erfundenen Fundstellen, Randnummern oder technischen Regeltexte. Bezeichne Abruflücken präzise.
+Verbindlich ist die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bauwirtschaft/references/zitierweise.md). [Fachquellen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bauwirtschaft/references/fachquellen.md): Paragrafen 634a und 640 BGB, vertraglich einschlägige VOB/B sowie HOAI Anlage 10 Nummer 10.1 Phasen 8 und 9, gezielt geprüft am 25.09.2026. Objektbetreuung ist keine Garantie für alle Betreiberpflichten; weitergehende Leistungen hängen vom Auftrag ab. Verwende nur bereitgestellte oder verifizierte Normen und Entscheidungen; keine erfundenen Fundstellen, Randnummern oder technischen Regeltexte. Bezeichne Abruflücken präzise.
 
 ## 5. Ausgabeformat
 

@@ -1,3 +1,11 @@
+# v445.4.0 - Bauwirtschaft für den KI-Workshop
+
+Die Bauwirtschaft bleibt ein Plugin mit 20 ausführenden Skills sowie eigenständigen Werkstatt-, Mini- und Schwerpunkt-Prompts. Die Zuordnung der Gebäude-Leistungsphasen 8 und 9 wird präzisiert. Ein neuer [Workshop-Leitfaden](./docs/bauwirtschaft-workshop.md) enthält direkt verwendbare Aufträge für HOAI, Bauvergabe, Buchhaltung und Projektsteuerung.
+
+Die Buchhaltungsakte Bad Salzuflen wird von vier auf 18 unterschiedliche Rechnungen erweitert. Ein zusätzlicher Belegstapel mit Korrekturen, Leistungsnachweisen, Bankbestand, offenen Posten und Buchungsvorschlägen ergänzt die bisherigen Abgleichsfälle. Der fallinterne Konten- und Steuerschlüsselstamm macht die Kontierung nachvollziehbar; die beiden Bankbestände bleiben getrennt. Die Excel-Pakete erhalten eine kompatible OOXML-Namensraumdarstellung.
+
+In der Northeimer Vergabeakte werden VOB/B und VOB/C als Vertragsbestandteile einbezogen und die zugehörigen Vertragsregelungen angeglichen. Geänderte Originale, Übermittlungsnachweis und PDF-Fassungen werden gemeinsam neu aufgebaut. Die HOAI-Akte Einbeck und die zusätzliche Projektsteuerungsakte Warendorf bleiben Bestandteil des Pakets.
+
 # v445.3.2 - Fachquellen, Fristen und offene Beiträge
 
 Die Handakten-Norm in 200 Steuerberater-Skills ist auf Paragraf 66 StBerG berichtigt. Die DeFi-Prüfung grenzt das BMF-Schreiben vom 06.03.2025 von offenen Fragen zu Liquidity Mining und Tokenwechseln ab, verwendet die zutreffenden Steueranlagen und entfernt unbelegte Quellenzuschreibungen. Die Fanpage-Entscheidung ist mit C-210/16, Datum und nachprüfbarer amtlicher Quelle zugeordnet.

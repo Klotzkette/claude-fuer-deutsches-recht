@@ -7,7 +7,7 @@ description: Gleicht Rechnungen, Gutschriften, Buchungen, offene Posten und Bank
 
 ## 1. Zweck und Anwendungsfall
 
-Führe jeden relevanten Geschäftsvorfall zu Beleg, Projektzuordnung und Zahlungsstand zusammen. Der Abgleich ist weder ein Jahresabschluss noch eine automatische Steuer- oder Zahlungsfreigabe.
+Führe jeden relevanten Geschäftsvorfall zu Beleg, Projektzuordnung und Zahlungsstand zusammen. Der Abgleich ist weder ein Jahresabschluss noch eine automatische Steuer- oder Zahlungsfreigabe. Betriebliche Buchhaltung und Bankabgleich sind gesondert vom Planerauftrag zu bestimmen; die Rechnungsprüfung und Kostenkontrolle in HOAI Phase 8 ersetzen sie nicht.
 
 ## 2. Eingaben
 
@@ -23,6 +23,8 @@ Nutze Lieferant, Rechnungsnummer, Datum, Betrag, Projekt und Bankreferenz gemein
 
 Verbinde Leistungsbeleg, Rechnung, Buchung und Zahlung. Teilzahlungen, Sammelzahlungen, Gutschriften, Skonto und Einbehalt nachvollziehbar aufteilen. Kumulative Bauabrechnung nicht als erneuten Gesamtumsatz oder vollständige neue Verbindlichkeit verdoppeln. Unzuordenbare Zahlung offen lassen und den fehlenden Bezug gezielt erfragen.
 
+Prüfe zusätzlich je Rechtsträger, Geschäftspartner, Währung und Stichtag die Summenbrücke: Anfangsbestand offener Posten plus neue Forderungs- oder Verbindlichkeitsbeträge minus Gutschriften, zugeordnete Zahlungen und belegte weitere Ausgleiche ergibt den Endbestand. Verwende dieselbe Betragsbasis und eine erklärte Vorzeichenkonvention; kumulative Vorbeträge nicht erneut zuführen. Jede Zahlungsaufteilung muss auf die Bankbewegung zurückführen. Einbehalt oder bestrittene Fälligkeit ist keine Zahlung und allein kein Grund zur Ausbuchung. Bestehende Restforderungen nach offen, einbehalten oder streitig kennzeichnen; ungeklärte Differenzen nicht durch erfundenes Skonto schließen.
+
 ### 3.3. Steuerfälle getrennt prüfen
 
 Paragraf 13b UStG hängt von Leistung und Empfänger ab, nicht allein vom Firmennamen. Bauabzugsteuer nach Paragrafen 48 und 48b EStG ist eine andere Prüfung mit eigener Freistellungsbescheinigung. Nicht aus einer Bescheinigung für den einen Bereich die Freistellung im anderen ableiten. Bei ungeklärter steuerlicher Einordnung konkrete fachliche Rückfrage erstellen.
@@ -33,7 +35,7 @@ Erstelle pro Differenz den belegten Iststand, Korrekturvorschlag, Begründung un
 
 ## 4. Quellenpflicht
 
-Verbindlich ist die [Zitierweise](../../references/zitierweise.md). [Fachquellen](../../references/fachquellen.md): Paragrafen 238 und 239 HGB, Paragrafen 13b und 14 UStG sowie Paragrafen 48 und 48b EStG. E-Rechnungsübergänge, Aufbewahrung und Steueranmeldungen bei Bedarf aktuell zusätzlich verifizieren; kein ungeprüftes GoBD-Gesamturteil. Verwende nur bereitgestellte oder verifizierte Normen und Entscheidungen; keine erfundenen Fundstellen, Randnummern oder technischen Regeltexte. Bezeichne Abruflücken präzise.
+Verbindlich ist die [Zitierweise](../../references/zitierweise.md). [Fachquellen](../../references/fachquellen.md): Paragrafen 238 und 239 HGB, Paragrafen 13b und 14 UStG sowie Paragrafen 48 und 48b EStG sowie HOAI Anlage 10 Nummer 10.1 Phase 8 zur Leistungsabgrenzung. E-Rechnungsübergänge, Aufbewahrung und Steueranmeldungen bei Bedarf aktuell zusätzlich verifizieren; kein ungeprüftes GoBD-Gesamturteil. Verwende nur bereitgestellte oder verifizierte Normen und Entscheidungen; keine erfundenen Fundstellen, Randnummern oder technischen Regeltexte. Bezeichne Abruflücken präzise.
 
 ## 5. Ausgabeformat
 

@@ -140,6 +140,32 @@ class CaseTests(unittest.TestCase):
         self.assertGreaterEqual(len(PdfReader(file).pages),32)
         self.assertFalse(pdf_content_errors(file.read_bytes()))
 
+    def test_09_contracts_agree_across_notice_terms_and_exports(self):
+        documents=[CASE/'02_bekanntmachung.pdf',CASE/'03_vergabeunterlagen.docx']
+        clauses=[]
+        for file in documents:
+            content=' '.join(text(file).split())
+            basis=re.search(r'Vertragsbestandteile sind (.*?)\. ',content)
+            payment=re.search(r'Monatliche Abschlagszahlungen (.*?)im Übrigen gilt Paragraf 16 VOB/B\.',content)
+            self.assertIsNotNone(basis,file.name);self.assertIsNotNone(payment,file.name)
+            self.assertIn('VOB/B Ausgabe 2016',basis[1])
+            self.assertIn('VOB/C Ausgabe 2019 einschließlich Ergänzungsband 2023',basis[1])
+            self.assertEqual(re.findall(r'(\d+) Kalendertagen',payment[1]),['21','30'])
+            for date in ('02.11.2026','30.04.2027'):self.assertIn(date,content)
+            self.assertNotIn('VOB/B nicht',content)
+            clauses.append((basis[0],payment[0]))
+        self.assertEqual(clauses[0],clauses[1],'Bekanntmachung und Vertragsbedingungen divergieren')
+        total=' '.join(text(CASE/'gesamt-pdf'/f'{SLUG}_gesamt.pdf').split())
+        for clause in clauses[0]:self.assertEqual(total.count(clause),2)
+        if ASSETS:
+            filename=f'testakte-{SLUG}-einzelpdfs.zip'
+            single=next(p for p in (ASSETS/filename,ASSETS/'testakten-einzelpdfs'/filename) if p.is_file())
+            with zipfile.ZipFile(single) as archive:
+                for file in documents:
+                    reader=PdfReader(io.BytesIO(archive.read(file.stem+'.pdf')))
+                    exported=' '.join(' '.join(p.extract_text() or '' for p in reader.pages).split())
+                    for clause in clauses[0]:self.assertIn(clause,exported,file.name)
+
     def test_08_archives(self):
         if ASSETS is None:self.skipTest('Exportprüfung nur mit --assets DIR')
         rz=module('northeim_rz','validate-testakten-release-zips.py')

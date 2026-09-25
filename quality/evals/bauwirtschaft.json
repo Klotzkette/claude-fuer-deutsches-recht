@@ -6,7 +6,7 @@
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/hoai_2013/anlage_10.html",
-      "supports": "Nummer 10.1 mit neun Phasen im amtlich bereitgestellten Text gelesen; Phase 8 umfasst Bauablaufdokumentation, gemeinsames Aufmaß, Rechnungsprüfung und Kostenfeststellung. Kein Nachweis tatsächlicher Beauftragung oder gesonderter Bauleiterpflichten.",
+      "supports": "Nummer 10.1 mit neun Phasen im amtlich bereitgestellten Text gelesen. HOAI Anlage 10 Nummer 10.1 gezielt nachgelesen: Übergabe, Fristenliste und Überwachung bei Abnahme festgestellter Mängel in Phase 8; spätere fachliche Bewertung und Vorfristbegehung in Phase 9. Deren Buchstabe a enthält eine eigene Fünfjahresgrenze, keine pauschale Anspruchsverjährung. Vertragliche Beauftragung und Besondere Leistungen bleiben gesondert. Zahlungsplan in Phase 8 als Besondere Leistung; betriebliche Buchhaltung nicht mit deren Rechnungsprüfung oder Kostenkontrolle gleichgesetzt.",
       "checked_on": "2026-09-25"
     },
     {
@@ -142,39 +142,43 @@
     "reviewed_on": "2026-09-25",
     "method": "desk_review",
     "verdict": "revised",
-    "reason": "Eigenständigen Bauplan redaktionell auf drei Einstiege, zwanzig getrennte Arbeitsstationen, Fortsetzung und Arbeitsprodukt geprüft. Konkrete BGB-Normen und enger BGH-Leitsatz ergänzt; Meta- und Ausgabehinweise zur Einhaltung der Byteobergrenze gestrafft.",
+    "reason": "Eigenständigen Bauplan mit drei Einstiegen, zwanzig konkreten Arbeitsstationen, Fortsetzung und Arbeitsprodukt erneut redaktionell gelesen. Die HOAI-Kurzabgrenzung präzisiert; die vorhandenen übrigen Quellenlimits erhalten. UTF-8-Byte- und Zeichenobergrenze lokal geprüft; kein Live-Modelltest.",
     "changes": [
       "Paragrafen 650b, 650c und 650g BGB mit konkreten Anwendungsgrenzen ergänzt.",
       "BGH VII ZR 42/22 nur als amtlich indexierten Leitsatz ohne Volltextprüfung aufgenommen.",
-      "Kosten, Liquidität, Rechnungsprüfung und Buchung als unterschiedliche Ergebnisse erhalten."
+      "Kosten, Liquidität, Rechnungsprüfung und Buchung als unterschiedliche Ergebnisse erhalten.",
+      "Übergabe, Fristenliste und Abnahmemängel der Phase 8 zugeordnet; Phase 9 und eigener Buchhaltungsauftrag in der Kurzfassung abgegrenzt."
     ],
-    "sha256": "453fd35dbfc5794ca0b4f1d73b5f2523c696e218dc46861203aba1e100fb285c"
+    "sha256": "45fbbde258f28599a97fe6a75df389a4f60d4e7955b1e8748c9619e845d999ed"
   },
   "workshop_review": {
     "reviewed_on": "2026-09-25",
     "method": "desk_review",
     "verdict": "revised",
-    "reason": "Individuelle Werkstatt auf zwanzig Praxisrouten, nachvollziehbare Rechenbeispiele, vollständige Dokumente und Folgeantworten redaktionell geprüft. Lokaler Strukturtest erkennt einen Haupttitel und zwanzig Routen. Keine Ausführung der Arbeitsabläufe durch ein Modell.",
+    "reason": "Zwanzig eigenständige Praxisrouten auf konkrete Rechnungen, Dokumente, Entscheidungsschritte und Fortschreibung erneut redaktionell gelesen. Gezielte Nachbesserung bei LPH 8/9 und betrieblichen offenen Posten; keine Ausführung der Arbeitsabläufe durch ein Modell.",
     "changes": [
       "Hierarchie auf einen H1, dezimale Hauptabschnitte und explizite zwanzig Praxisrouten vereinheitlicht.",
       "HOAI-Phasen 8 und 9, zeitbezogene Vergabe und bedingte technische Entscheidungen konkret abgegrenzt.",
-      "Beide BGH-Anker auf tatsächlich verifizierte Leitsatzreichweite begrenzt; keine Pflichtzitate in jedem Arbeitsprodukt."
+      "Beide BGH-Anker auf tatsächlich verifizierte Leitsatzreichweite begrenzt; keine Pflichtzitate in jedem Arbeitsprodukt.",
+      "Übergabe und Fristenliste der Phase 8 zugeordnet; Abnahmemängel und später festgestellte Mängel nach Aufgabe und Vertrag getrennt. Die Fünfjahresgrenze aus Phase 9 Buchstabe a von der Anspruchsverjährung unterschieden.",
+      "Buchhaltung um eine OP-Summenbrücke und Rückführung jeder Zahlungsaufteilung auf die Bankbewegung ergänzt; bloßer Einbehalt wird nicht zur Ausbuchung."
     ],
-    "sha256": "61a3f4cc6559052f58759ba322814ab40fd6b2bbc45ef3e2d9a0f0b0f5ffc516"
+    "sha256": "8b3d576b832932dd0bbbdb688893b87efaf2e9c73ab90bbeb24506c86727b60c"
   },
   "focus_review": {
     "reviewed_on": "2026-09-25",
     "method": "desk_review",
     "verdict": "revised",
-    "reason": "Projektstartprompt am Hauptskill redaktionell gespiegelt: belegt aufbauen, den Engpass bearbeiten, vollständige Entscheidung schreiben und P-014 nach Folgeantwort fortführen. BGH-Klauselanker knapp und mit explizitem Volltextvorbehalt ergänzt.",
+    "reason": "Projektstartprompt am unveränderten Hauptskill redaktionell gespiegelt: konkretes Produkt, drei Einstiege, belegte Fortschreibung und Entscheidung bleiben erhalten. HOAI-Kurzabgrenzung um Übergabe, Fristenliste, Abnahmemängel und eigene Buchhaltung ergänzt; keine Modellausführung.",
     "changes": [
       "Drei Startlagen ohne vorgeschaltete Komplettinventur.",
       "920000 EUR plus bestätigte 18000 EUR Änderung als 938000 EUR Variante, ohne Beauftragung zu erfinden.",
       "Technische Freigabe, Planrevision und rechtsgeschäftliche Beauftragung getrennt.",
-      "Vertragsstrafenanker nicht als Verbot aller Klauseln oder Freigabe einer anderen Bezugsgröße."
+      "Vertragsstrafenanker nicht als Verbot aller Klauseln oder Freigabe einer anderen Bezugsgröße.",
+      "Phase 8 und 9 anhand der tatsächlich gelesenen Anlage 10 in der Kurzfassung konkretisiert; fachlich eigenständige Aufgaben nicht aus einem Phasenetikett abgeleitet."
     ],
     "prompt_path": "bauwirtschaft/bauwirtschaft-hauptproblem.md",
-    "prompt_sha256": "d25107bfab785f880357849ccc50ae9276aaf889facff5b5b226d0747a679289",
+    "prompt_sha256": "9561f1f576fde268130f8bc4f198c330b72ccb82abe5d7f12a179e84243b879c",
     "skill_path": "bauwirtschaft/skills/bauprojekt-starten-und-arbeitsstand-fortfuehren/SKILL.md",
     "skill_sha256": "8508c709fd67a30948bc36293bd9e3fe2ce48edcdb15d11065db2ad43fac1fe0"
   },
@@ -188,7 +192,7 @@
     ],
     "opening_change": "Alle drei Prompts beginnen mit dem konkreten Bauprojektprodukt, unterscheiden leeren Start, Ordner ohne Auftrag und klares Ziel und führen nach Antworten dieselbe Tabelle oder Dokumentfassung fort.",
     "norms": [
-      "HOAI Anlage 10 Nummer 10.1 und Paragraf 34: neun Gebäudephasen, Phase 8 und Objektbetreuung in Phase 9; kein vollständiger Bauprojektpflichtenkatalog.",
+      "HOAI Anlage 10 Nummer 10.1 gezielt nachgelesen: Übergabe, Fristenliste und Überwachung bei Abnahme festgestellter Mängel in Phase 8; spätere fachliche Bewertung und Vorfristbegehung in Phase 9. Deren Buchstabe a enthält eine eigene Fünfjahresgrenze, keine pauschale Anspruchsverjährung. Vertragliche Beauftragung und Besondere Leistungen bleiben gesondert.",
       "Paragrafen 650b, 650c und 650g BGB: Änderung, Vergütung und Prüffähigkeit jeweils mit eigenen Voraussetzungen.",
       "Paragrafen 307 und 310 BGB: Vertragsstrafenklausel und VOB/B-Einbeziehung nicht pauschal wirksam.",
       "Paragrafen 97, 106 und 160 GWB sowie Paragrafen 2 und 3 VgV: zeit- und verfahrensbezogene Vergabe, Gesamtwert und getrennte Fristauslöser.",
@@ -226,7 +230,7 @@
       "Klares Ziel: unmittelbar an verlangter Tabelle oder vollständigem Dokument arbeiten."
     ],
     "continuation": "Vorgangs- und Belegkennungen behalten; neue Antworten ändern dieselbe Zeile, abhängige Rechnung und Textstelle. Keine erneute Projektaufnahme nach jeder Antwort.",
-    "enrichment": "Fachliche Prüfung ergänzt genau die betroffene Leistung, Kosten-, Termin- oder Zahlungsfolge. Individuelle Fachroute vertieft einen Engpass, nicht einen allgemeinen Analysebericht ohne Arbeitsprodukt.",
+    "enrichment": "Fachliche Prüfung ergänzt genau die betroffene Leistung, Kosten-, Termin- oder Zahlungsfolge. Individuelle Fachroute vertieft einen Engpass, nicht einen allgemeinen Analysebericht ohne Arbeitsprodukt. Für die Buchhaltung zusätzlich Einzelbeleg, Zahlungsaufteilung und OP-Endsumme gegeneinander geprüft; für Mängel Feststellungszeitpunkt und konkreten Betreuungsauftrag verlangt.",
     "limits": "Entwurf und Berechnung sind keine Außenhandlung. Fachfreigaben bleiben befugten Fachleuten vorbehalten. Rückfragen betreffen echte entscheidende Lücken; unabhängige Teile werden fortgesetzt. Desk Review ohne beobachtete Modellausführung."
   },
   "selection": {
@@ -342,7 +346,7 @@
     {
       "id": "hoai-phase-acht-neun-planreife",
       "target_skill": "hoai-phasen-und-planstaende-abgleichen",
-      "request": "Prüfe für ein Gebäude unseren Planerstand und entwirf die gezielte Rückfrage. Beauftragt sind Gebäudeleistungen der Phasen 1 bis 8; Phase 9 ist nicht abgerufen. Der Planer ordnet Bautagebuch, gemeinsames Aufmaß, Rechnungsprüfung und Kostenfeststellung der Phase 9 zu und verlangt dafür einen neuen Abruf. Für die behauptete vollständige Phase 5 liegen nur Genehmigungspläne und ein ungeprüfter Werkstattplan vor. Eine landesrechtliche Bauleiterbestellung ist nicht dokumentiert. Erstelle einen konkreten Soll-Ist-Abgleich der genannten Leistungen anhand HOAI Anlage 10 und des Auftrags, ohne jede Honorarforderung pauschal zurückzuweisen.",
+      "request": "Prüfe für ein Gebäude unseren Planerstand und entwirf die gezielte Rückfrage. Beauftragt sind Gebäudeleistungen der Phasen 1 bis 8; Phase 9 ist nicht abgerufen. Der Planer ordnet Bautagebuch, gemeinsames Aufmaß, Rechnungsprüfung und Kostenfeststellung der Phase 9 zu und verlangt dafür einen neuen Abruf. Für die behauptete vollständige Phase 5 liegen nur Genehmigungspläne und ein ungeprüfter Werkstattplan vor. Eine landesrechtliche Bauleiterbestellung ist nicht dokumentiert. Erstelle einen konkreten Soll-Ist-Abgleich der genannten Leistungen anhand HOAI Anlage 10 und des Auftrags, ohne jede Honorarforderung pauschal zurückzuweisen. Der Planer möchte außerdem Übergabe, Verjährungsfristenliste und die Überwachung der Beseitigung eines im Abnahmeprotokoll festgehaltenen Mangels erst nach Abruf von Phase 9 bearbeiten. Ordne auch diese Aufgaben zu; unterscheide sie von einem später neu festgestellten Mangel.",
       "input_files": [],
       "deliverables": [
         "leistungsstand.csv",
@@ -375,6 +379,14 @@
           "id": "C04",
           "text": "Die Rückfrage ist adressierter vollständiger Text; Phasenzuordnung und Beauftragung bleiben unterscheidbar.",
           "deliverables": [
+            "klaerung-planer.md"
+          ]
+        },
+        {
+          "id": "C05",
+          "text": "Übergabe, Fristenliste und Überwachung der Beseitigung des bereits bei Abnahme festgestellten Mangels werden Phase 8 zugeordnet. Bei einem später neu festgestellten Mangel werden fachliche Bewertung und zusätzliche Überwachung der Mängelbeseitigung unterschieden; keine automatische Beauftragung von Phase 9.",
+          "deliverables": [
+            "leistungsstand.csv",
             "klaerung-planer.md"
           ]
         }
@@ -888,6 +900,14 @@
           "deliverables": [
             "buchungsvermerk.md"
           ]
+        },
+        {
+          "id": "C04",
+          "text": "Die beiden anfänglich offenen Posten von zusammen 23800 EUR werden mit der einmaligen Zahlung von 23800 EUR zu einem Endbestand von null übergeleitet. Zahlungsaufteilung und OP-Summe stimmen überein; die Dateikopie erhöht keinen Betrag.",
+          "deliverables": [
+            "belegabgleich.csv",
+            "buchungsvermerk.md"
+          ]
         }
       ]
     },
@@ -1039,16 +1059,19 @@
     },
     {
       "skill_path": "bauwirtschaft/skills/hoai-phasen-und-planstaende-abgleichen/SKILL.md",
-      "sha256": "c45d56cb3572f57a46e2ee317c60b6c811ea82093850b3ac0bfd599ccf4a7846",
+      "sha256": "661c223a673d71d7009bd9d92aaa77455ea442434cec4e119023b53a85cb7057",
       "case_id": "hoai-phase-acht-neun-planreife",
       "reviewed_on": "2026-09-25",
       "method": "desk_review",
-      "verdict": "retained",
-      "reason": "Anlage 10 ist das einschlägige Leistungsbild. Der Skill trennt tatsächlichen Planbeleg, Vertragsabruf, Honorarfrage und Bauleiterverantwortung; Phase 8 und 9 sind richtig abgegrenzt.",
+      "verdict": "revised",
+      "reason": "Planstand, Vertrag und neun Phasen bleiben als eigenständiger Soll-Ist-Abgleich erhalten. Die bislang zu knappe LPH-8/9-Abgrenzung anhand des amtlich bereitgestellten Anlagentexts präzisiert.",
       "checked_points": [
         "Eigenständiges Arbeitsprodukt: Liefere die ausgefüllte Leistungs- und Planstandsliste sowie bei Bedarf ein vollständiges Anforderungsschreiben. Kennzeichne die Reichweite einer reinen Dokumentenkontrolle. Keine Phasenbescheinigung, technische Freigabe oder Honorarfälligkeit aus bloßer Dateiexistenz.",
         "Individueller Sachverhalt und beobachtbare Sollkriterien für hoai-phase-acht-neun-planreife angelegt; nicht ausgeführt.",
-        "Quellenpflicht, entscheidende Rückfragen, Fortsetzung und Trennung von Entwurf und Außenhandlung im Text geprüft."
+        "Quellenpflicht, entscheidende Rückfragen, Fortsetzung und Trennung von Entwurf und Außenhandlung im Text geprüft.",
+        "Übergabe, Verjährungsfristenliste und Überwachung der Beseitigung bei Abnahme festgestellter Mängel unter Phase 8 eingeordnet.",
+        "Spätere Bewertung, Vorfristbegehung und Mitwirkung bei Sicherheitenfreigabe von der Besonderen Leistung der Mängelbeseitigungsüberwachung abgegrenzt; Fünfjahresgrenze nur auf Bewertung nach Buchstabe a bezogen.",
+        "Betriebliche Buchhaltung und Zahlungsplan nicht als automatische Grundleistung der Objektüberwachung behandelt."
       ],
       "runtime_status": "not_run"
     },
@@ -1249,16 +1272,19 @@
     },
     {
       "skill_path": "bauwirtschaft/skills/baubuchhaltung-und-belege-abgleichen/SKILL.md",
-      "sha256": "fef95bc355304b617d2ce5a8361158630ad699b5b309a3c6b69a2b96340912f5",
+      "sha256": "6407536b96dd8b48ddd16cefcc9951470db406f70dcea6e26918b6842fd98666",
       "case_id": "buchhaltung-sammelzahlung-dublette",
       "reviewed_on": "2026-09-25",
       "method": "desk_review",
-      "verdict": "retained",
-      "reason": "Beleg, Buchung und Zahlung werden mit Identifikatoren abgeglichen. Dubletten, Sammelzahlungen und Korrekturweg sind individuelle Arbeitsschritte; steuerliche Einordnung ist keine Bauunternehmenspauschale.",
+      "verdict": "revised",
+      "reason": "Die bestehende belegbezogene Abstimmung bleibt erhalten. Für viele Rechnungen um OP-Summenbrücke und Kontrolle der Zahlungsaufteilungen ergänzt; Einbehalte und Streitigstellungen führen allein nicht zur Ausbuchung. Buchhaltung vom HOAI-Planerauftrag abgegrenzt.",
       "checked_points": [
         "Eigenständiges Arbeitsprodukt: Liefere eine ausgefüllte Abstimmliste mit eindeutigen Belegbezügen, verbleibenden Differenzen und ausformulierten Korrekturaufträgen. Keine verbuchten Korrekturen oder geprüfte Steuererklärung behaupten.",
         "Individueller Sachverhalt und beobachtbare Sollkriterien für buchhaltung-sammelzahlung-dublette angelegt; nicht ausgeführt.",
-        "Quellenpflicht, entscheidende Rückfragen, Fortsetzung und Trennung von Entwurf und Außenhandlung im Text geprüft."
+        "Quellenpflicht, entscheidende Rückfragen, Fortsetzung und Trennung von Entwurf und Außenhandlung im Text geprüft.",
+        "Rechtsträger, Geschäftspartner, Währung, Betragsbasis und Stichtag müssen zur Summenbrücke passen; kumulative Vorbeträge nicht erneut zuführen.",
+        "Bankbewegung muss mit ihrer vollständigen Aufteilung übereinstimmen; ungeklärte Differenzen bleiben sichtbar.",
+        "Einbehalt und bestrittene Fälligkeit sind keine Zahlung; keine erfundenen Skontoausgleiche. Bestehende Steuerquellenlimits unverändert."
       ],
       "runtime_status": "not_run"
     },
@@ -1294,16 +1320,19 @@
     },
     {
       "skill_path": "bauwirtschaft/skills/uebergabe-und-gewaehrleistung-organisieren/SKILL.md",
-      "sha256": "d2ab6dba3e6e05465ec8680149d4a86f869ba3239f05d1b2487c56967952c6fb",
+      "sha256": "6f935b8a715238005ab81fe0edd7211f3cbc8d2a7e8f95473723428f15ec0eca",
       "case_id": "uebergabe-getrennte-abnahmen-fristen",
       "reviewed_on": "2026-09-25",
       "method": "desk_review",
-      "verdict": "retained",
-      "reason": "Übergabe wird vom rechtsgeschäftlichen Abnahmeereignis und von Nutzungsfreigaben getrennt. Fristen bleiben vertrags- und ereignisbezogen; eine Mängelmail oder Schlüsselübergabe wird nicht pauschal friständernd behandelt.",
+      "verdict": "revised",
+      "reason": "Der vorhandene Übergabe- und Fristenworkflow bleibt erhalten. Den bisher allein auf Phase 9 gerichteten HOAI-Verweis korrigiert: Übergabe, Fristenliste und Abnahmemängel gehören zu Phase 8; weitere Betreuung hängt von Aufgabe und Vertrag ab.",
       "checked_points": [
         "Eigenständiges Arbeitsprodukt: Liefere je Datei ein vollständiges Übergabeprotokoll oder das zusammengehörige Gewährleistungsregister. Restpunkte dürfen offen sein, müssen aber konkrete Zuständigkeit und nächsten Schritt haben. Kein pauschales Siegel „mängelfrei übergeben“.",
         "Individueller Sachverhalt und beobachtbare Sollkriterien für uebergabe-getrennte-abnahmen-fristen angelegt; nicht ausgeführt.",
-        "Quellenpflicht, entscheidende Rückfragen, Fortsetzung und Trennung von Entwurf und Außenhandlung im Text geprüft."
+        "Quellenpflicht, entscheidende Rückfragen, Fortsetzung und Trennung von Entwurf und Außenhandlung im Text geprüft.",
+        "Abnahmebezug und Feststellungszeitpunkt im bestehenden Mangelregister ergänzen die konkrete Aufgaben- und Vertragszuordnung.",
+        "Fünfjahresgrenze seit Abnahme für Bewertung nach Phase 9 Buchstabe a ausdrücklich von der Anspruchsverjährung getrennt.",
+        "Keine automatische Sicherheitenfreigabe oder Erledigung allein durch Übergabeprotokoll; vorhandene Unterscheidung von Abnahme und Nutzung erhalten."
       ],
       "runtime_status": "not_run"
     }

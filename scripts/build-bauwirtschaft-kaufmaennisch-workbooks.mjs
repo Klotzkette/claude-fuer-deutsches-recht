@@ -5,6 +5,15 @@ import { loadWorkbookRuntime } from './akten-workbook-runtime.mjs';
 const { Workbook, SpreadsheetFile, requireRuntime } = await loadWorkbookRuntime(['playwright']);
 const { chromium } = requireRuntime('playwright');
 
+if(process.argv[2]==='--verify-imports') {
+  for(const file of process.argv.slice(3)) {
+    const wb=await SpreadsheetFile.importXlsx(await fs.readFile(file));
+    const result=await wb.inspect({kind:'sheet',include:'name',maxChars:1200});
+    console.log(path.basename(file)+': '+result.ndjson);
+  }
+  process.exit(0);
+}
+
 const m = JSON.parse(await fs.readFile(process.argv[2], 'utf8'));
 const qa = m.qa;
 const outputs = [];
@@ -57,6 +66,56 @@ async function save(wb, caseName, filename, ranges) {
   catch(e) {if(e.code!=='ENOENT') throw e;}
   outputs.push(file);
   console.log('Arbeitsmappe erzeugt: '+filename);
+}
+
+async function badExtra() {
+  const w=Workbook.create(), e=m.extra;
+  const o=sheet(w,'Offene Posten','Ergänzungsstapel Lieferanten',['Rechnung','Kreditor','Rechnung EUR','Korrektur EUR','Zahlung EUR','Offen EUR','Bearbeitung'],[20,13,17,17,17,17,29]);
+  const b=sheet(w,'Belege','Ergänzungsstapel Rechnungseingang',['Beleg','Projekt','Netto EUR','Schlüssel','USt im Beleg','Belegbetrag','Bezug'],[21,16,18,12,18,18,22]);
+  const z=sheet(w,'Zuordnung','Projektkonto Zahlungszuordnung',['Bankreferenz','Valuta','Rechnung','Zugeordnet EUR'],[24,18,23,23]);
+  const bank=sheet(w,'Bank','Projektkonto 471109',['Referenz','Valuta','Soll EUR','Zugeordnet EUR','Differenz EUR','Saldo EUR'],[24,18,20,22,20,22]);
+  for(const s of [o,b,z,bank])s.getRange('A3').values=[['Stand 25.09.2026 | Ergänzungsstapel | Beträge in EUR']];
+  const all=[...e.invoices,...e.credits];
+  rows(b,all.map(i=>[i.id,i.project,i.net,i.rc?'RC19':'V19',null,null,i.invoice||i.id]));
+  all.forEach((i,n)=>{const r=n+6;formula(b,`E${r}`,`=IF(D${r}="V19",ROUND(C${r}*0.19,2),0)`);formula(b,`F${r}`,`=SUM(C${r},E${r})`);});
+  b.getRange('C6:C21').setNumberFormat(money);b.getRange('E6:F21').setNumberFormat(money);
+  b.getRange('D6:D21').dataValidation={rule:{type:'list',values:['V19','RC19']}};
+  b.tables.add('A5:G21',true,'Ergaenzungsbelege').style='TableStyleLight1';
+  totals(b,22,4,5);formula(b,'C22','=SUM(C6:C21)');b.getRange('C22').setNumberFormat(money);
+  b.getRange('A25').values=[['Quelle: 50 Ergänzungsjournal. RC19 enthält keine an den Lieferanten gezahlte Steuer.']];
+  rows(z,e.allocations.map(r=>[r[0],date(r[1]),r[2],r[3]]));
+  z.getRange('B6:B16').setNumberFormat('yyyy-mm-dd');z.getRange('D6:D17').setNumberFormat(money);
+  z.tables.add('A5:D16',true,'Zahlungszuordnungen').style='TableStyleLight1';totals(z,17,3,3);
+  z.getRange('A20').values=[['Quelle: 57 Zahlungszuordnung. EB-0916A verteilt sich auf zwei Rechnungen.']];
+  rows(o,e.invoices.map(i=>[i.id,i.creditor,i.gross,null,null,null,i.status]));
+  e.invoices.forEach((i,n)=>{const r=n+6;
+    formula(o,`D${r}`,`=-SUMIFS('Belege'!$F$20:$F$21,'Belege'!$G$20:$G$21,A${r})`);
+    formula(o,`E${r}`,`=SUMIFS('Zuordnung'!$D$6:$D$16,'Zuordnung'!$C$6:$C$16,A${r})`);
+    formula(o,`F${r}`,`=C${r}-SUM(D${r}:E${r})`);
+    formula(o,`C${r}`,`=SUMIFS('Belege'!$F$6:$F$21,'Belege'!$A$6:$A$21,A${r})`);
+  });
+  o.getRange('C6:F20').setNumberFormat(money);totals(o,20,2,5);
+  o.tables.add('A5:G19',true,'ErgaenzungsOPOS').style='TableStyleLight1';
+  o.getRange('G6:G19').dataValidation={rule:{type:'list',values:['ausgeglichen','Restzahlung offen','Bauabzug prüfen','Leistungsfreigabe fehlt','zur Prüfung']}};
+  o.getRange('F6:F19').conditionalFormats.add('cellIs',{operator:'greaterThan',formula:0,format:{fill:'#FFF2CC'}});
+  o.getRange('A22:C22').values=[['Nettokosten EUR','RC-Steuer EUR','RC-Vorsteuer EUR']];
+  o.getRange('A22:C22').format={font:{name:'Arial',size:10,bold:true},wrapText:true,rowHeight:28};
+  formula(o,'A23',"='Belege'!C22");
+  formula(o,'B23',"=SUMIFS('Belege'!$C$6:$C$21,'Belege'!$D$6:$D$21,\"RC19\")*0.19");
+  formula(o,'C23','=B23');o.getRange('A23:C23').setNumberFormat(money);
+  o.getRange('A25').values=[['Fachliche Freigabe bleibt erforderlich. Steueransätze unter den Verwendungsannahmen in Datei 56.']];
+  rows(bank,e.bank.map(r=>[r.reference,date(r.date),r.amount,null,null,null]));
+  bank.getRange('B6:B15').setNumberFormat('yyyy-mm-dd');bank.getRange('C6:F15').setNumberFormat(money);
+  bank.getRange('A18:B20').values=[['Anfangssaldo',e.opening],['Schluss laut Auszug',e.opening-e.bank.reduce((a,r)=>a+r.amount,0)],['Abweichung zum Auszug',null]];
+  e.bank.forEach((i,n)=>{const r=n+6;formula(bank,`D${r}`,`=SUMIFS('Zuordnung'!$D$6:$D$16,'Zuordnung'!$A$6:$A$16,A${r})`);formula(bank,`E${r}`,`=C${r}-D${r}`);formula(bank,`F${r}`,r===6?'=$B$18-C6':`=F${r-1}-C${r}`);});
+  formula(bank,'B20','=F15-B19');bank.getRange('B18:B20').setNumberFormat(money);
+  bank.getRange('A23').values=[['Quelle: 48 Projektkonto Bank und 49 Kontoauszug. Keine Umsätze des Betriebskontos 471108.']];
+  bank.tables.add('A5:F15',true,'ProjektkontoUmsaetze').style='TableStyleLight1';
+  o.getRange('A6:G20').format.rowHeight=23;
+  b.getRange('A6:G22').format.rowHeight=23;
+  z.getRange('A6:D17').format.rowHeight=23;
+  bank.getRange('A6:F15').format.rowHeight=23;
+  await save(w,m.bad,'55_Ergaenzungsabgleich.xlsx',[['Offene Posten','A1:G25'],['Belege','A1:G25'],['Zuordnung','A1:D20'],['Bank','A1:F23']]);
 }
 
 async function warCost() {
@@ -202,9 +261,12 @@ async function screenshots() {
   await browser.close();
 }
 
-await warCost();
-await warSchedule();
-await badCredit();
-await badProjects();
-await screenshots();
+if(!m.extra_only) {
+  await warCost();
+  await warSchedule();
+  await badCredit();
+  await badProjects();
+  await screenshots();
+}
+await badExtra();
 await fs.writeFile(path.join(qa,'workbooks.json'),JSON.stringify(outputs,null,2));
