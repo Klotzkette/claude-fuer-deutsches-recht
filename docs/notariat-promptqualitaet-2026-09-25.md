@@ -39,7 +39,7 @@ Der Fehlermechanismus wurde an langen Testtexten reproduziert. Bei der Rekonstru
 
 ## 1.4. Quellenbefunde und ihre Grenzen
 
-Der Abgleich umfasst 340 Quellenzuordnungen in 245 Profilen mit 286 verschiedenen URLs. Mehrere URLs können dieselbe Entscheidung bezeichnen; diese Zahl wird deshalb nicht als Anzahl verschiedener Urteile ausgegeben. Das Register hält die Aussage und Grenze jeder Zuordnung sowie den tatsächlich verwendeten Nachweis fest.
+Der Abgleich umfasst 343 Quellenzuordnungen in 245 Profilen mit 288 verschiedenen URLs. Mehrere URLs können dieselbe Entscheidung bezeichnen; diese Zahl wird deshalb nicht als Anzahl verschiedener Urteile ausgegeben. Das Register hält die Aussage und Grenze jeder Zuordnung sowie den tatsächlich verwendeten Nachweis fest.
 
 Das Datum von BAG, Urteil, 5 AZR 347/21 wurde von 23.02.2022 auf **09.02.2022** berichtigt. Die [amtlichen Gründe](https://www.bundesarbeitsgericht.de/entscheidung/5-azr-347-21/) tragen die Gesamtberechnung des Annahmeverzugs. Vier zuvor nur im Qualitätsprofil erfasste Arbeitsrechtsanker stehen jetzt auch in der Werkstatt, jeweils mit Aussage und Grenze. Bei BAG 5 AZR 37/25 bleibt ausdrücklich erkennbar, dass der hier geprüfte Nachweis eine Pressemitteilung ist.
 
@@ -52,3 +52,5 @@ Im Strafbefehls-Prompt wurde bei BVerfG 2 BvR 1351/23 „Auslieferungshaft“ du
 Die Regressionen prüfen insbesondere die vollständige Erhaltung einer Werkstatt oberhalb von 128 KiB, die ausdrückliche Ablehnung oberhalb von 1 MiB, vollständige Normeinschränkungen, die Entscheidungsliste, individuelle Hashkontrolle sowie begrenzte Minis. Die isolierte Renderprobe erzeugte alle 490 Texte im Speicher ohne Fehler. Sie schrieb keine Handfassung um.
 
 Die abschließenden Repositoryprüfungen erfassen Plugin- und Marketplace-Struktur, YAML-Frontmatter, Laufzeitbudgets, Auswahlbeschreibungen, Qualitätsprofile, Prompt-Hygiene und Navigation. Die Veröffentlichung enthält die konsistent neu erzeugten Übersichten. Prüfsummen beziehen sich jeweils auf den dokumentierten Arbeitsstand; spätere Änderungen erfordern eine neue Prüfung der betroffenen Inhalte.
+
+Die parallel auf `main` ergänzte Arbeitszeugnisprüfung ist vollständig übernommen. Ihre fünf aktuellen Quellenzuordnungen sind ebenfalls abgeglichen. Ein erneuter Generatorlauf verändert keine erzeugte Markdown-Datei. Die 27 erfolgreichen technischen Prüfaufrufe am integrierten Stand sind im [Prüfprotokoll](../quality/source-audits/2026-09-25/technical-checks.json) aufgeführt. Das Auswahl-Audit meldet außerdem 1.162 Gruppen gleichnamiger Skilltitel als fachliche Prüfanlässe; diese sind weder als bestätigte Doppelungen noch als vollständig bereinigt ausgewiesen.

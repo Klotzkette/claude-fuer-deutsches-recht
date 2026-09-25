@@ -183,18 +183,18 @@
     "plugin": "arbeitszeugnispruefer",
     "kind": "workshop",
     "path": "arbeitszeugnispruefer/arbeitszeugnispruefer-werkstatt.md",
-    "bytes": 17111,
-    "characters": 16795,
-    "sha256": "5bc2ed04939775a01b7167f17d08dd5cf6723795763f59a0056fc483d73e79dd",
+    "bytes": 21491,
+    "characters": 21160,
+    "sha256": "d833caf0340906395a8dd09f53afdcee70178aed2428f07065e465b05f1483aa",
     "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
   },
   {
     "plugin": "arbeitszeugnispruefer",
     "kind": "mini",
     "path": "arbeitszeugnispruefer/arbeitszeugnispruefer-schnellstart.md",
-    "bytes": 6534,
-    "characters": 6426,
-    "sha256": "b6b9c3d74a1b213648feb1dffc8a2e9b71166d6a2faab6087383563e517300b2",
+    "bytes": 7419,
+    "characters": 7303,
+    "sha256": "3157ed47c4a949a4adc2d05374bc113df1a1b093f921f67448842c5a545e02ff",
     "review_method": "automated_inventory_and_profile_hash_check; targeted_passage_review_reported_separately"
   },
   {

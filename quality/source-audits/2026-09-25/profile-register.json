@@ -413,26 +413,234 @@
   },
   {
     "plugin": "arbeitszeugnispruefer",
+    "citation": "BAG, Urteil vom 11.12.2012, 9 AZR 227/11, Rn. 20",
+    "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-227-11/",
+    "application": "Bei beredtem Schweigen zu Einzelmerkmalen Berufsüblichkeit und mögliche Beeinträchtigung des beruflichen Fortkommens prüfen.",
+    "limit": "Nur gesetzlich geschuldeter Zeugnisinhalt, keine Übertragung auf Dank und Zukunftswünsche.",
+    "reviewed_on": "2026-09-25",
+    "status": "cited_passages_reviewed",
+    "evidence_sha256": "c397006ae9bb59f9716123590b0ff6a4a5a4aaf1e32a85224cd796a837e1828e",
+    "evidence_kind": "official_full_text",
+    "original_url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-227-11/",
+    "final_url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-227-11/",
+    "review": {
+      "status": "supported",
+      "metadata_checked": [
+        "court",
+        "decision_type",
+        "date",
+        "docket"
+      ],
+      "checked_paragraphs": [
+        "9–14",
+        "17–22"
+      ],
+      "application_paragraphs": [
+        "20"
+      ],
+      "limit_paragraphs": [
+        "9–14",
+        "17–22"
+      ],
+      "finding": "Kein sachlicher Fehler. Rn. 20 nennt Berufsüblichkeit und eine mögliche Behinderung des beruflichen Fortkommens als Voraussetzungen einer gebotenen ausdrücklichen Merkmalsbescheinigung. Dieselbe Randnummer grenzt den gesetzlich geschuldeten Zeugnisinhalt von Schlussformeln ab.",
+      "scope_note": "Rn. 20 referiert dazu frühere Rechtsprechung; sie ist eine amtliche Volltextfundstelle für die hier verwendete Regel, ohne den Volltext von 9 AZR 632/07 zu ersetzen."
+    },
+    "upstream_comparison": {
+      "plugin_mapping_new": true,
+      "official_url_new_to_previous_bag_register": true,
+      "previous_plugins": [],
+      "changed_fields": []
+    },
+    "profile": "quality/evals/arbeitszeugnispruefer.json"
+  },
+  {
+    "plugin": "arbeitszeugnispruefer",
+    "citation": "BAG, Urteil vom 27.04.2021, 9 AZR 262/20",
+    "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-262-20/",
+    "application": "Individuelle Leistungs- und Verhaltensbeurteilung regelmäßig als gewichteter Text statt schulzeugnisartiger Einzelnotentabelle.",
+    "limit": "Kein allgemeines Listenverbot; übersichtliche Tätigkeitslisten bleiben möglich und das Urteil spricht keine bessere Note zu.",
+    "reviewed_on": "2026-09-25",
+    "status": "cited_passages_reviewed",
+    "evidence_sha256": "03ee5d0a0265981d21ee5aeaf84511c1ec8634ffbff5311070a4ced373ac5219",
+    "evidence_kind": "official_full_text",
+    "original_url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-262-20/",
+    "final_url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-262-20/",
+    "review": {
+      "status": "supported",
+      "metadata_checked": [
+        "court",
+        "decision_type",
+        "date",
+        "docket"
+      ],
+      "checked_paragraphs": [
+        "10–31"
+      ],
+      "application_paragraphs": [
+        "15–20"
+      ],
+      "limit_paragraphs": [
+        "22",
+        "26",
+        "29–31"
+      ],
+      "finding": "Kein sachlicher Fehler. Die gleichrangige Schulnotentabelle verfehlt die erforderliche individuelle Gewichtung. Rn. 22 erlaubt ausdrücklich eine übersichtliche stichwortartige Tätigkeitsbeschreibung. Die Sache wurde zur Tatsachenfeststellung zurückverwiesen; eine bessere Note wurde nicht zuerkannt.",
+      "scope_note": "Die Zuordnung für diesen Prüfer ist neu; im bisherigen BAG-Register war dieselbe Quelle bereits beim Arbeitszeugnisgenerator enthalten. Die neu formulierten Anwendungsgrenzen wurden eigenständig nachgelesen."
+    },
+    "upstream_comparison": {
+      "plugin_mapping_new": true,
+      "official_url_new_to_previous_bag_register": false,
+      "previous_plugins": [
+        "arbeitszeugnisgenerator"
+      ],
+      "changed_fields": []
+    },
+    "profile": "quality/evals/arbeitszeugnispruefer.json"
+  },
+  {
+    "plugin": "arbeitszeugnispruefer",
     "citation": "BAG, Urteil vom 25.01.2022, 9 AZR 146/21",
     "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-146-21/",
-    "application": "Fehlenden Dank nicht allein als gesetzlichen Berichtigungsanspruch behandeln; vertragliche Zusage oder Maßregelung gesondert prüfen.",
-    "limit": "Volltext Rn. 11 bis 13; keine Freigabe zur vergeltenden Entfernung nach berechtigter Beanstandung.",
+    "application": "Fehlenden erstmaligen Dank nicht als allgemeinen gesetzlichen Berichtigungsanspruch behandeln.",
+    "limit": "Zusage, Vereinbarung und Maßregelung wegen berechtigter Beanstandung gesondert prüfen.",
     "reviewed_on": "2026-09-25",
     "status": "cited_passages_reviewed",
     "evidence_sha256": "63bc3f1aa09b054cd4f353b23fd057637328290057f85e00964bee5ecfcb3286",
-    "note": "Gericht, Entscheidungsart, Datum und Aktenzeichen mit amtlichen Metadaten; tragende Passagen mit Anwendung und Grenze abgeglichen.",
+    "evidence_kind": "official_full_text",
+    "original_url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-146-21/",
+    "final_url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-146-21/",
+    "review": {
+      "status": "supported",
+      "metadata_checked": [
+        "court",
+        "decision_type",
+        "date",
+        "docket"
+      ],
+      "checked_paragraphs": [
+        "11–14",
+        "21–25"
+      ],
+      "application_paragraphs": [
+        "11–12",
+        "21–24"
+      ],
+      "limit_paragraphs": [
+        "21–24"
+      ],
+      "finding": "Kein sachlicher Fehler. Ein allgemeiner Anspruch auf eine Dankes- und Wunschformel folgt weder aus § 109 GewO noch aus dem Rücksichtnahmegebot. Die Aufforderung, andere Anspruchsgrundlagen gesondert zu prüfen, verleiht solche Ansprüche nicht pauschal.",
+      "scope_note": "Vertragliche Zusagen werden nicht durch dieses Urteil abschließend entschieden. Zur gesonderten Prüfung einer vertraglichen Verpflichtung ergänzend 9 AZR 227/11 Rn. 14; zur Maßregelung 9 AZR 272/22 Rn. 13–23 und 30–34."
+    },
+    "upstream_comparison": {
+      "plugin_mapping_new": false,
+      "official_url_new_to_previous_bag_register": false,
+      "previous_plugins": [
+        "arbeitszeugnispruefer"
+      ],
+      "changed_fields": [
+        "application",
+        "limit"
+      ]
+    },
+    "baseline": {
+      "citation": "BAG, Urteil vom 25.01.2022, 9 AZR 146/21",
+      "application": "Fehlenden Dank nicht allein als gesetzlichen Berichtigungsanspruch behandeln; vertragliche Zusage oder Maßregelung gesondert prüfen.",
+      "limit": "Volltext Rn. 11 bis 13; keine Freigabe zur vergeltenden Entfernung nach berechtigter Beanstandung."
+    },
     "profile": "quality/evals/arbeitszeugnispruefer.json"
   },
   {
     "plugin": "arbeitszeugnispruefer",
     "citation": "BAG, Versäumnisurteil vom 06.06.2023, 9 AZR 272/22",
     "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-272-22/",
-    "application": "Vergeltende Entfernung einer bereits erteilten Schlussformel nach berechtigter Beanstandung an Paragraf 612a BGB prüfen.",
-    "limit": "Volltext Rn. 9 bis 25 und 32; Rechtsausübung muss wesentliches Motiv sein, zeitliche Folge allein reicht nicht.",
+    "application": "Nachteilige Entfernung einer erteilten Schlussformel nach berechtigter Beanstandung an Paragraf 612a BGB prüfen.",
+    "limit": "Zulässige Rechtsausübung muss wesentliches Motiv sein; zeitliche Folge allein genügt nicht.",
     "reviewed_on": "2026-09-25",
     "status": "cited_passages_reviewed",
     "evidence_sha256": "e0b7c15ed90622f34b1e887008f6fe4bfb412f015eb18eb3f0993f9d4f0d7093",
-    "note": "Gericht, Entscheidungsart, Datum und Aktenzeichen mit amtlichen Metadaten; tragende Passagen mit Anwendung und Grenze abgeglichen.",
+    "evidence_kind": "official_full_text",
+    "original_url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-272-22/",
+    "final_url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-272-22/",
+    "review": {
+      "status": "supported",
+      "metadata_checked": [
+        "court",
+        "decision_type",
+        "date",
+        "docket"
+      ],
+      "checked_paragraphs": [
+        "9–25",
+        "30–34"
+      ],
+      "application_paragraphs": [
+        "9",
+        "13",
+        "16–24"
+      ],
+      "limit_paragraphs": [
+        "21",
+        "30–34"
+      ],
+      "finding": "Kein sachlicher Fehler. § 612a BGB kann die Wiederaufnahme einer als Reaktion auf berechtigte Beanstandung entfernten Schlussformel verlangen. Rn. 31 verlangt die Rechtsausübung als wesentliches Motiv; Rn. 32–34 behandeln Darlegung, Beweis und die konkrete Kausalitätswürdigung.",
+      "scope_note": "Kein zeitlicher Automatismus und keine allgemeine Unabänderlichkeit aller Schlussformeln. Rn. 21 lässt sachliche Gründe für ein Abweichen zu. Die Entscheidung ist korrekt als Versäumnisurteil bezeichnet; sie beruht laut Rn. 12 auf einer Sachprüfung."
+    },
+    "upstream_comparison": {
+      "plugin_mapping_new": false,
+      "official_url_new_to_previous_bag_register": false,
+      "previous_plugins": [
+        "arbeitszeugnispruefer"
+      ],
+      "changed_fields": [
+        "application",
+        "limit"
+      ]
+    },
+    "baseline": {
+      "citation": "BAG, Versäumnisurteil vom 06.06.2023, 9 AZR 272/22",
+      "application": "Vergeltende Entfernung einer bereits erteilten Schlussformel nach berechtigter Beanstandung an Paragraf 612a BGB prüfen.",
+      "limit": "Volltext Rn. 9 bis 25 und 32; Rechtsausübung muss wesentliches Motiv sein, zeitliche Folge allein reicht nicht."
+    },
+    "profile": "quality/evals/arbeitszeugnispruefer.json"
+  },
+  {
+    "plugin": "arbeitszeugnispruefer",
+    "citation": "BAG, Beschluss vom 14.02.2017, 9 AZB 49/16",
+    "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azb-49-16/",
+    "application": "Für die Vollstreckung die konkrete titulierte Zeugnisformulierung prüfen.",
+    "limit": "Eine bloße Notenstufe legt regelmäßig keine vollstreckbare konkrete Leistungspflicht fest.",
+    "reviewed_on": "2026-09-25",
+    "status": "cited_passages_reviewed",
+    "evidence_sha256": "35f7a4e1ab41fe59f6a50350a8d5ce4da9537920ae564b15cb2d35062573d688",
+    "evidence_kind": "official_full_text",
+    "original_url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azb-49-16/",
+    "final_url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azb-49-16/",
+    "review": {
+      "status": "supported",
+      "metadata_checked": [
+        "court",
+        "decision_type",
+        "date",
+        "docket"
+      ],
+      "checked_paragraphs": [
+        "1–14"
+      ],
+      "application_paragraphs": [
+        "8–12"
+      ],
+      "limit_paragraphs": [
+        "10–12"
+      ],
+      "finding": "Kein sachlicher Fehler. Ein bloß auf eine bestimmte Notenstufe lautender Titel genügt wegen des verbleibenden Gestaltungsspielraums nicht der vollstreckungsrechtlichen Bestimmtheit. Rn. 10–11 unterscheiden konkret bestimmte Zeugnisformulierungen beziehungsweise einen in Bezug genommenen Arbeitnehmerentwurf.",
+      "scope_note": "Die Aussage betrifft die Vollstreckbarkeit des konkreten Inhalts, nicht einen generellen Wegfall des materiellen Zeugnisanspruchs; Rn. 12 nennt ein erneutes Erkenntnisverfahren."
+    },
+    "upstream_comparison": {
+      "plugin_mapping_new": true,
+      "official_url_new_to_previous_bag_register": true,
+      "previous_plugins": [],
+      "changed_fields": []
+    },
     "profile": "quality/evals/arbeitszeugnispruefer.json"
   },
   {

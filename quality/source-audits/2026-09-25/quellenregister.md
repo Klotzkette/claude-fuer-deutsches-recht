@@ -298,27 +298,63 @@ Dieser Bericht ergänzt den [Umfang und die Grenzen der Prüfung](README.md). Di
 
 [Plugin-README](../../../arbeitszeugnispruefer/README.md) · [Qualitätsprofil](../../evals/arbeitszeugnispruefer.json)
 
-### 1.11.1. BAG, Urteil vom 25.01.2022, 9 AZR 146/21
+### 1.11.1. BAG, Urteil vom 11.12.2012, 9 AZR 227/11, Rn. 20
 
-[Quellennachweis](https://www.bundesarbeitsgericht.de/entscheidung/9-azr-146-21/)
+[Quellennachweis](https://www.bundesarbeitsgericht.de/entscheidung/9-azr-227-11/)
 
-**Anwendung:** Fehlenden Dank nicht allein als gesetzlichen Berichtigungsanspruch behandeln; vertragliche Zusage oder Maßregelung gesondert prüfen.
+**Anwendung:** Bei beredtem Schweigen zu Einzelmerkmalen Berufsüblichkeit und mögliche Beeinträchtigung des beruflichen Fortkommens prüfen.
 
-**Grenze:** Volltext Rn. 11 bis 13; keine Freigabe zur vergeltenden Entfernung nach berechtigter Beanstandung.
+**Grenze:** Nur gesetzlich geschuldeter Zeugnisinhalt, keine Übertragung auf Dank und Zukunftswünsche.
 
-**Abgleich:** Gericht, Entscheidungsart, Datum und Aktenzeichen mit amtlichen Metadaten; tragende Passagen mit Anwendung und Grenze abgeglichen.
+**Abgleich:** Kein sachlicher Fehler. Rn. 20 nennt Berufsüblichkeit und eine mögliche Behinderung des beruflichen Fortkommens als Voraussetzungen einer gebotenen ausdrücklichen Merkmalsbescheinigung. Dieselbe Randnummer grenzt den gesetzlich geschuldeten Zeugnisinhalt von Schlussformeln ab.
 
 **Dokumentierter Prüfstatus:** `cited_passages_reviewed`. Weitere Abruf- und Prüfdaten im [Register](profile-register.json).
 
-### 1.11.2. BAG, Versäumnisurteil vom 06.06.2023, 9 AZR 272/22
+### 1.11.2. BAG, Urteil vom 27.04.2021, 9 AZR 262/20
+
+[Quellennachweis](https://www.bundesarbeitsgericht.de/entscheidung/9-azr-262-20/)
+
+**Anwendung:** Individuelle Leistungs- und Verhaltensbeurteilung regelmäßig als gewichteter Text statt schulzeugnisartiger Einzelnotentabelle.
+
+**Grenze:** Kein allgemeines Listenverbot; übersichtliche Tätigkeitslisten bleiben möglich und das Urteil spricht keine bessere Note zu.
+
+**Abgleich:** Kein sachlicher Fehler. Die gleichrangige Schulnotentabelle verfehlt die erforderliche individuelle Gewichtung. Rn. 22 erlaubt ausdrücklich eine übersichtliche stichwortartige Tätigkeitsbeschreibung. Die Sache wurde zur Tatsachenfeststellung zurückverwiesen; eine bessere Note wurde nicht zuerkannt.
+
+**Dokumentierter Prüfstatus:** `cited_passages_reviewed`. Weitere Abruf- und Prüfdaten im [Register](profile-register.json).
+
+### 1.11.3. BAG, Urteil vom 25.01.2022, 9 AZR 146/21
+
+[Quellennachweis](https://www.bundesarbeitsgericht.de/entscheidung/9-azr-146-21/)
+
+**Anwendung:** Fehlenden erstmaligen Dank nicht als allgemeinen gesetzlichen Berichtigungsanspruch behandeln.
+
+**Grenze:** Zusage, Vereinbarung und Maßregelung wegen berechtigter Beanstandung gesondert prüfen.
+
+**Abgleich:** Kein sachlicher Fehler. Ein allgemeiner Anspruch auf eine Dankes- und Wunschformel folgt weder aus § 109 GewO noch aus dem Rücksichtnahmegebot. Die Aufforderung, andere Anspruchsgrundlagen gesondert zu prüfen, verleiht solche Ansprüche nicht pauschal.
+
+**Dokumentierter Prüfstatus:** `cited_passages_reviewed`. Weitere Abruf- und Prüfdaten im [Register](profile-register.json).
+
+### 1.11.4. BAG, Versäumnisurteil vom 06.06.2023, 9 AZR 272/22
 
 [Quellennachweis](https://www.bundesarbeitsgericht.de/entscheidung/9-azr-272-22/)
 
-**Anwendung:** Vergeltende Entfernung einer bereits erteilten Schlussformel nach berechtigter Beanstandung an Paragraf 612a BGB prüfen.
+**Anwendung:** Nachteilige Entfernung einer erteilten Schlussformel nach berechtigter Beanstandung an Paragraf 612a BGB prüfen.
 
-**Grenze:** Volltext Rn. 9 bis 25 und 32; Rechtsausübung muss wesentliches Motiv sein, zeitliche Folge allein reicht nicht.
+**Grenze:** Zulässige Rechtsausübung muss wesentliches Motiv sein; zeitliche Folge allein genügt nicht.
 
-**Abgleich:** Gericht, Entscheidungsart, Datum und Aktenzeichen mit amtlichen Metadaten; tragende Passagen mit Anwendung und Grenze abgeglichen.
+**Abgleich:** Kein sachlicher Fehler. § 612a BGB kann die Wiederaufnahme einer als Reaktion auf berechtigte Beanstandung entfernten Schlussformel verlangen. Rn. 31 verlangt die Rechtsausübung als wesentliches Motiv; Rn. 32–34 behandeln Darlegung, Beweis und die konkrete Kausalitätswürdigung.
+
+**Dokumentierter Prüfstatus:** `cited_passages_reviewed`. Weitere Abruf- und Prüfdaten im [Register](profile-register.json).
+
+### 1.11.5. BAG, Beschluss vom 14.02.2017, 9 AZB 49/16
+
+[Quellennachweis](https://www.bundesarbeitsgericht.de/entscheidung/9-azb-49-16/)
+
+**Anwendung:** Für die Vollstreckung die konkrete titulierte Zeugnisformulierung prüfen.
+
+**Grenze:** Eine bloße Notenstufe legt regelmäßig keine vollstreckbare konkrete Leistungspflicht fest.
+
+**Abgleich:** Kein sachlicher Fehler. Ein bloß auf eine bestimmte Notenstufe lautender Titel genügt wegen des verbleibenden Gestaltungsspielraums nicht der vollstreckungsrechtlichen Bestimmtheit. Rn. 10–11 unterscheiden konkret bestimmte Zeugnisformulierungen beziehungsweise einen in Bezug genommenen Arbeitnehmerentwurf.
 
 **Dokumentierter Prüfstatus:** `cited_passages_reviewed`. Weitere Abruf- und Prüfdaten im [Register](profile-register.json).
 

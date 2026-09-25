@@ -2,7 +2,7 @@
 
 ## 1.1. Umfang und Leseweg
 
-Der Abgleich erfasst 340 Quellenzuordnungen in allen 245 redaktionellen Plugin-Profilen. Sie verweisen auf 286 unterschiedliche URLs; mehrere URLs können dieselbe Entscheidung bezeichnen. Nicht jeder Anker ist ein Urteil: Beschlüsse, Pressemitteilungen und ein historischer Juristentext bleiben in den Einzelvermerken ausdrücklich unterscheidbar.
+Der Abgleich erfasst 343 Quellenzuordnungen in allen 245 redaktionellen Plugin-Profilen. Sie verweisen auf 288 unterschiedliche URLs; mehrere URLs können dieselbe Entscheidung bezeichnen. Nicht jeder Anker ist ein Urteil: Beschlüsse, Pressemitteilungen und ein historischer Juristentext bleiben in den Einzelvermerken ausdrücklich unterscheidbar.
 
 Jede Zuordnung wurde mit der tatsächlich belegten Aussage und ihrer Grenze abgeglichen. Gelesen wurden die für den jeweiligen Anker einschlägigen Passagen und die Entscheidungsidentität. Das bedeutet keine vollständige Neubewertung sämtlicher Gründe, späterer Rechtsprechung oder aller Aussagen jedes Spezialskills. Das Abrufdatum allein ist kein Inhaltsnachweis.
 
@@ -14,7 +14,7 @@ Der [Einzelnachweis je Rechtsgebiet](quellenregister.md) nennt Fundstelle, Anwen
 - [490 Werkstatt- und Mini-Dateien mit Größe und Datei-Prüfsumme](prompt-snapshot.json).
 - [Zusätzliche tatsächlich verwendete Promptquellen](extra-prompt-register.json), soweit sie über die Profilanker hinausgehen.
 - [Änderungs- und Prüfbericht](../../../docs/notariat-promptqualitaet-2026-09-25.md).
-- [26 erfolgreiche technische Prüfaufrufe](technical-checks.json).
+- [Erfolgreiche technische Prüfaufrufe](technical-checks.json).
 
 Der Promptbestand wurde automatisiert erfasst und mit den geschützten Redaktionshashes abgeglichen. Überarbeitete Fachpassagen und Auffälligkeiten wurden gezielt nachgelesen; das Notariat wurde vollständig auf Ebene seiner zwanzig Skills und beiden Prompts gelesen. Diese Prüfung enthält keine ausgeführten Live-Modelltests. Die Prüfsummen markieren den hier untersuchten Dateistand, keine Gültigkeitsgarantie für spätere Änderungen.
 
@@ -32,7 +32,7 @@ Der Promptbestand wurde automatisiert erfasst und mit den geschützten Redaktion
 | [arbeitsrecht](../../../arbeitsrecht/README.md) | 1 | [Quellen](quellenregister.md#18-arbeitsrecht) |
 | [arbeitszeugnis-analyse](../../../arbeitszeugnis-analyse/README.md) | 4 | [Quellen](quellenregister.md#19-arbeitszeugnis-analyse) |
 | [arbeitszeugnisgenerator](../../../arbeitszeugnisgenerator/README.md) | 2 | [Quellen](quellenregister.md#110-arbeitszeugnisgenerator) |
-| [arbeitszeugnispruefer](../../../arbeitszeugnispruefer/README.md) | 2 | [Quellen](quellenregister.md#111-arbeitszeugnispruefer) |
+| [arbeitszeugnispruefer](../../../arbeitszeugnispruefer/README.md) | 5 | [Quellen](quellenregister.md#111-arbeitszeugnispruefer) |
 | [aufsichtsrat-ag-se-praxis](../../../aufsichtsrat-ag-se-praxis/README.md) | 1 | [Quellen](quellenregister.md#112-aufsichtsrat-ag-se-praxis) |
 | [aussenwirtschaft-zoll-sanktionen](../../../aussenwirtschaft-zoll-sanktionen/README.md) | 1 | [Quellen](quellenregister.md#113-aussenwirtschaft-zoll-sanktionen) |
 | [bank-rechtsabteilung](../../../bank-rechtsabteilung/README.md) | 1 | [Quellen](quellenregister.md#114-bank-rechtsabteilung) |

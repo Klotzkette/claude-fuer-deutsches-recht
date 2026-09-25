@@ -62,8 +62,8 @@
   {
     "plugin": "arbeitszeugnispruefer",
     "profile": "quality/evals/arbeitszeugnispruefer.json",
-    "sha256": "6c0f6f851e1bd6cccb722c4174573b3438c5efd8893418537caef2e0ccebdf17",
-    "decision_assignments": 2
+    "sha256": "dfde499d7dca12641d6e2a5e088e2a2187fb63f5d2a4746bc62dd23871a32287",
+    "decision_assignments": 5
   },
   {
     "plugin": "aufsichtsrat-ag-se-praxis",

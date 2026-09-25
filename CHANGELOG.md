@@ -4,7 +4,17 @@ Das Notariats-Plugin führt Rückfragen zu vollständigen Folgeentwürfen weiter
 
 Der Generator entfernt bei langen Werkstätten keine Muster, Rechtsquellen oder Abschlussprüfung mehr. Er erhält auch Einschränkungen nach dem ersten Satz eines Normankers sowie sämtliche kuratierten Entscheidungen. Ein gemeinsamer Dateischutz erlaubt umfangreiche eigenständige Werkstätten; kurze Minis und die Laufzeitbudgets installierter Skills bleiben getrennt. Regressionen prüfen insbesondere die vollständige Erhaltung langer Texte und begrenzter Quellenauszüge.
 
-Alle 245 Werkstätten und 245 Minis sind strukturell geprüft; 340 Quellenzuordnungen in sämtlichen 245 Qualitätsprofilen sind mit den einschlägigen Quellenaussagen abgeglichen. Das neue Register dokumentiert den geprüften Dateistand, Anwendung und Grenzen je Rechtsgebiet. Das Datum von BAG 5 AZR 347/21 ist auf den 09.02.2022 berichtigt. Fehlende Arbeitsrechtsanker und der begrenzte Bankrechtsanker XI ZR 71/25 sind in die Werkstätten aufgenommen. Einzelne weitere Quellenbezeichnungen sind präzisiert. Der [Prüfbericht](./docs/notariat-promptqualitaet-2026-09-25.md) dokumentiert den erreichten Prüfstand und die verbleibenden fachlichen Grenzen.
+Alle 245 Werkstätten und 245 Minis sind strukturell geprüft; 343 Quellenzuordnungen in sämtlichen 245 Qualitätsprofilen sind mit den einschlägigen Quellenaussagen abgeglichen. Das neue Register dokumentiert den geprüften Dateistand, Anwendung und Grenzen je Rechtsgebiet. Das Datum von BAG 5 AZR 347/21 ist auf den 09.02.2022 berichtigt. Fehlende Arbeitsrechtsanker und der begrenzte Bankrechtsanker XI ZR 71/25 sind in die Werkstätten aufgenommen. Einzelne weitere Quellenbezeichnungen sind präzisiert. Der [Prüfbericht](./docs/notariat-promptqualitaet-2026-09-25.md) dokumentiert den erreichten Prüfstand und die verbleibenden fachlichen Grenzen.
+
+Der Release-Upload verwendet die bereits bekannte Release-ID und vermeidet die erneute Suche nach dem Tag für jede Datei. Nach einer unklaren Uploadantwort wird der tatsächliche Remotezustand geprüft; ein vollständiger, hashgleicher Upload bleibt erhalten. Unvollständige Startdatensätze können gezielt erneut hochgeladen werden, abweichende fertige Dateien werden während der Wiederholung nicht still überschrieben.
+
+# v445.4.1 - Arbeitszeugnisprüfung bis zu beiden Schreiben
+
+Die Arbeitnehmerprüfung führt wieder durch echte Rückfragen, Antworten und fallabhängige Fortsetzungen. Auch eine einmal in den Chat eingefügte Werkstatt- oder Mini-Datei startet diesen Dialog. Sobald die entscheidenden Tatsachen geklärt sind, entstehen ohne zusätzlichen Schreibauftrag die ausführliche Rechtsprüfung, ein kurzer verständlicher Mandantenbrief und das rechtlich abgestufte Arbeitgeberschreiben. Ein mangelfreies Zeugnis ohne Änderungswunsch erzeugt keinen künstlichen Streit; ausdrückliche Teilaufträge und Arbeitgeberprüfungen bleiben eigenständig.
+
+Die Werkstatt bindet zusätzliche Rechtsprechung mit ihren Grenzen direkt ein. Fachprüfung und kurzer Mandantenbrief bleiben getrennt. Technische Statusköpfe, Auswahlmenüs vor der eigentlichen Prüfung und Angebote, die geschuldeten Schreiben erst später zu erstellen, entfallen. Einstieg, Rollenwahl, beide Schreibskills und abgeleitete Übersichten sind darauf abgestimmt. Statische Regressionen sichern bekannte Widersprüche; unabhängige Dialogproben ergänzen diese, ohne eine allgemeine Modellzertifizierung zu behaupten. Versand und Einreichung erfordern weiterhin ausdrückliche Freigabe.
+
+Die tatsächlich durchgespielte Rückfrage- und Fortsetzungsprobe einschließlich ihrer Grenzen ist im [Dialogprüfbericht](./docs/arbeitszeugnis-dialogpruefung.md) dokumentiert.
 
 # v445.4.0 - Bauwirtschaft für den KI-Workshop
 

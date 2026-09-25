@@ -1,7 +1,7 @@
 {
   "checked_on": "2026-09-25",
   "version": "445.5.0",
-  "scope": "Lokale technische Prüfungen; kein Live-Modelltest und kein Nachweis abgeschlossener GitHub-Release-Uploads.",
+  "scope": "Lokale technische Prüfungen am integrierten Stand mit Arbeitszeugnisdialog; kein Live-Modelltest und kein Nachweis abgeschlossener GitHub-Release-Uploads.",
   "checks": [
     {
       "command": [
@@ -21,6 +21,13 @@
       "command": [
         "python3",
         "scripts/test-readme-navigation.py"
+      ],
+      "exit_code": 0
+    },
+    {
+      "command": [
+        "python3",
+        "scripts/test-arbeitszeugnispruefer.py"
       ],
       "exit_code": 0
     },
@@ -191,5 +198,6 @@
       ],
       "exit_code": 0
     }
-  ]
+  ],
+  "text_regeneration": "Wiederholter Generatorlauf ohne Änderung erzeugter Markdown-Dateien."
 }

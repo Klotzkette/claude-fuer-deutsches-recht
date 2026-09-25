@@ -4,11 +4,13 @@
 from __future__ import annotations
 
 import importlib.util
+import json
 import os
 import subprocess
 import sys
 import tempfile
 from pathlib import Path
+from unittest.mock import patch
 import zipfile
 
 from release_asset_common import expected_asset_metadata, read_checksums, release_assets, sha256_file
@@ -91,6 +93,68 @@ def main() -> int:
             U.run = original_run
         require(release["id"] == 12345, "Entwurfsrelease muss über databaseId auffindbar sein")
         require(release["isDraft"] is True, "Entwurfsstatus muss erhalten bleiben")
+
+        uploaded = {"id": 91, "name": "plugin.zip", "state": "uploaded", **local}
+        success = subprocess.CompletedProcess([], 0, json.dumps(uploaded), "")
+        with patch.object(U, "run", return_value=success) as api, patch.object(
+            U, "fetch_remote_assets"
+        ) as fetch:
+            U.upload_one("example/repo", 12345, dist / "plugin.zip", local, 1)
+        command = api.call_args.args[0]
+        require(command[:4] == ["gh", "api", "--method", "POST"], "Upload muss die REST-API nutzen")
+        require(
+            command[4] == "https://uploads.github.com/repos/example/repo/releases/12345/assets?name=plugin.zip",
+            "Upload muss die bereits bekannte Release-ID ohne erneuten Tag-Lookup nutzen",
+        )
+        require(command[-2:] == ["--input", str(dist / "plugin.zip")], "Binärdatei muss als Requestbody übergeben werden")
+        require("--clobber" not in command, "Wiederholung darf korrekte Assets nicht löschen")
+        fetch.assert_not_called()
+
+        # Auch eine beim letzten Versuch verlorene Antwort kann einen fertigen
+        # Upload bedeuten. Nur Name, Zustand, Größe und Hash zusammen genügen.
+        with patch.object(U, "run", side_effect=subprocess.TimeoutExpired("gh", 300)) as api, patch.object(
+            U, "fetch_remote_assets", return_value={"plugin.zip": uploaded}
+        ) as fetch, patch.object(U, "delete_asset") as delete:
+            U.upload_one("example/repo", 12345, dist / "plugin.zip", local, 1)
+        api.assert_called_once()
+        fetch.assert_called_once_with("example/repo", 12345)
+        delete.assert_not_called()
+
+        # GitHub kann nach einem fehlgeschlagenen POST ein leeres starter-Asset
+        # behalten. Genau dieses darf vor dem nächsten Versuch entfernt werden.
+        starter = {"id": 92, "name": "plugin.zip", "state": "starter", "size": 0}
+        with patch.object(
+            U, "run", side_effect=[subprocess.CompletedProcess([], 1, "", "HTTP 502"), success]
+        ) as api, patch.object(
+            U, "fetch_remote_assets", return_value={"plugin.zip": starter}
+        ), patch.object(U, "delete_asset") as delete, patch.object(U.time, "sleep"):
+            U.upload_one("example/repo", 12345, dist / "plugin.zip", local, 2)
+        require(api.call_count == 2, "starter-Fehler muss wiederaufnehmbar sein")
+        delete.assert_called_once_with("example/repo", starter)
+
+        conflicting = {**uploaded, "digest": "sha256:" + "0" * 64}
+        with patch.object(
+            U, "run", return_value=subprocess.CompletedProcess([], 1, "", "HTTP 422")
+        ), patch.object(
+            U, "fetch_remote_assets", return_value={"plugin.zip": conflicting}
+        ), patch.object(U, "delete_asset") as delete:
+            try:
+                U.upload_one("example/repo", 12345, dist / "plugin.zip", local, 2)
+            except RuntimeError as exc:
+                require("kein automatisches Ersetzen" in str(exc), "fremder Inhalt braucht eindeutigen Fehler")
+            else:
+                raise AssertionError("abweichender Inhalt darf nicht als erfolgreicher Upload gelten")
+        delete.assert_not_called()
+
+        with patch.object(
+            U, "run", return_value=subprocess.CompletedProcess([], 1, "", "HTTP 503")
+        ), patch.object(U, "fetch_remote_assets", return_value={}):
+            try:
+                U.upload_one("example/repo", 12345, dist / "plugin.zip", local, 1)
+            except RuntimeError as exc:
+                require("HTTP 503" in str(exc), "endgültiger Uploadfehler muss den API-Befund erhalten")
+            else:
+                raise AssertionError("fehlendes Asset darf nach letztem Fehlversuch nicht als Erfolg gelten")
 
         original_subprocess_run = V.subprocess.run
         V.subprocess.run = lambda *args, **kwargs: subprocess.CompletedProcess(
