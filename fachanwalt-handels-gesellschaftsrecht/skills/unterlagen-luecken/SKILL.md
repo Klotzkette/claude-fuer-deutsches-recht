@@ -13,7 +13,7 @@ Diese Unterlagenprüfung für **Fachanwalt Handels Gesellschaftsrecht** benennt 
 
 - `ag-vorstandsvertrag-vorbereiten` — AG Vorstandsvertrag HGR
 - `aktionaersklage-anfechtung-paragraf-243-aktg` — Aktionaersklage Anfechtung Paragraf 243 AKTG
-- `anfechtungsklage-bgb-gesellschaft-bgh-ii-zr-66-20` — Anfechtungsklage BGB Gesellschaft BGH II ZR 66 20
+- `beschlussmaengel-personengesellschaft-pruefen` — Beschlussmängel in Personengesellschaften prüfen
 - `einstieg-schnelltriage-fallrouting` — FA Handels Gesellschaft Start Chronologie Fristen
 - `erstpruefung-und-mandatsziel` — Fachanwalt FAO Gesellschafterstreit
 - `geschaeftsfuehrerhaftung-zahlen-schwellen-und-berechnung` — Geschäftsführerhaftung Holding
@@ -23,7 +23,7 @@ Diese Unterlagenprüfung für **Fachanwalt Handels Gesellschaftsrecht** benennt 
 - `gmbh-gf-haftung-paragraf-43-gmbhg` — Gmbh GF Haftung Paragraf 43 GMBHG
 - `gmbhg-schriftsatz-brief-und-memo-bausteine` — GMBHG Handels Handelsvertreterausgleich
 - `workflow-mandantenkommunikation` — Handels Gesellschaftsrecht Mandantenkommunikation Redteam
-- `hgb-einsichtsrecht-kommanditist-paragraf-166-hgb-bgh-ii-zr-31-21` — HGB Einsichtsrecht Kommanditist Paragraf 166 HGB BGH II ZR 31 21
+- `hgb-informationsrecht-kommanditist-paragraf-166` — Informationsrecht des Kommanditisten prüfen
 - `anschluss-routing` — Anschluss Routing
 - `dokumente-intake` — Dokumente Intake
 

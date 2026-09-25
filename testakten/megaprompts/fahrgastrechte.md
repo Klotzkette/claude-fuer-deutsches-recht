@@ -471,15 +471,13 @@ Vertragsbedingungen, die direkt oder indirekt die Rechte aus der VO aufheben ode
 
 ## Beschwerde und Schlichtung
 
-**Art. 27 VO:** Beschwerderecht beim EVU binnen **drei Monaten** (Verfahrensfrist, nicht materielle Ausschlussfrist). EVU antwortet binnen einem Monat, in begründeten Fällen binnen drei Monaten.
+**Art. 28 VO:** Beschwerderecht beim EVU binnen **drei Monaten** (Verfahrensfrist, nicht materielle Ausschlussfrist). EVU antwortet binnen einem Monat, in begründeten Fällen binnen drei Monaten.
 
 **§ 15 EVO:** Schlichtungsstelle. In Deutschland: **Schlichtungsstelle Reise & Verkehr e.V.** (vormals söp), Fasanenstraße 81, 10623 Berlin. Anerkannt nach §§ 4 ff. VSBG. Kostenfrei für Verbraucher. Voraussetzung: vorgerichtlich erfolglose Reklamation; keine anhängige Klage.
 
 ## Verjährung
 
-§ 195 BGB: drei Jahre. § 199 Abs. 1 BGB: Beginn am Schluss des Kalenderjahres, in dem der Anspruch entstand und der Verbraucher Kenntnis hatte.
-
-**Beispiel:** Verspätung am 12.05.2026 → Verjährung mit Ablauf 31.12.2029.
+Die Verjährung hängt von Anspruchsgrundlage und anwendbaren Beförderungsbedingungen ab. Artikel 60 CIV und A.9.5 BB DB können eine einjährige Frist ab Ablauf der Fahrkartengültigkeit vorsehen. Die dreijährige Regelverjährung nach Paragrafen 195 und 199 BGB ist kein pauschaler Ausgangspunkt für alle Fahrgastansprüche. Prüfe Anwendbarkeit und Wirksamkeit der kürzeren Frist und sichere vorsorglich den frühesten vertretbaren Termin; siehe [Fristenprüfung mit CIV und A.9.5 BB DB](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fahrgastrechte/references/verjaehrung-und-fristen.md).
 
 ## Gerichtsstand
 
@@ -501,8 +499,8 @@ Vertragsbedingungen, die direkt oder indirekt die Rechte aus der VO aufheben ode
 | Wann SPNV-Taxi/Bus (§ 11 EVO)? | Ankunft 0–5 Uhr + ≥ 60 Min, oder letzte Verbindung Tag | § 11 Abs. 1 Nr. 2 EVO |
 | Höchstbetrag SPNV-Ersatzbeförderung? | 120 EUR | § 11 Abs. 2 EVO |
 | Mindestbetrag Entschädigung? | 4 EUR pro Fahrkarte | Art. 19 Abs. 8 VO |
-| Verjährung Anspruch? | 3 Jahre ab Jahresende | §§ 195, 199 Abs. 1 BGB |
-| Beschwerdefrist EVU (Verfahren)? | 3 Monate | Art. 27 VO |
+| Verjährung Anspruch? | Anspruchsbezogen; insbesondere ein Jahr nach Fahrkartengültigkeit prüfen | Artikel 60 CIV; A.9.5 BB DB; subsidiär Paragrafen 195, 199 BGB |
+| Beschwerdefrist EVU (Verfahren)? | 3 Monate | Art. 28 VO |
 | Bearbeitungsfrist Erstattung DB? | 30 Tage | Art. 18 Abs. 5 VO |
 | Bearbeitungsfrist Entschädigung DB? | 1 Monat | Art. 19 Abs. 7 VO |
 | AG-Zuständigkeit Streitwert? | bis 10.000 EUR | § 23 Nr. 1 GVG n.F. |
@@ -532,8 +530,8 @@ _Für Verspätung, Zugausfall oder Anschlussverlust einordnen: ordnet Norm, Bewe
 | **Verspätung am Zielort ≥ 60 Min** | Art. 19 VO + Art. 18 VO | Entschädigung (25/50 %) UND Wahlrecht Erstattung/Weiterreise |
 | **Verspätung am Zielort < 60 Min** | Art. 19 Abs. 9 VO | Kein Entschädigungsanspruch (Mindestschwelle nicht erreicht) |
 | **Zugausfall** | Art. 18 + Art. 19 VO | Wahlrecht Erstattung/Weiterreise; Entschädigung wenn Endziel-Verspätung ≥ 60 Min |
-| **Verpasster Anschluss (Einheits-PNR)** | Art. 12 Abs. 3 VO | Wie Verspätung; Endziel-Maßstab |
-| **Verpasster Anschluss (separate PNRs)** | Art. 12 Abs. 4–5 VO | Anspruch je Vertrag separat; ggf. 75 %-Entschädigung des Fahrkartenverkäufers |
+| **Verpasster Anschluss bei Durchgangsfahrkarte** | Artikel 12 Absätze 3, 5 und 6 VO | Erwerbsvorgang und Information prüfen; Endziel-Maßstab |
+| **Verpasster Anschluss bei Verkäuferkombination** | Artikel 12 Absätze 4 bis 6 VO | Gesamtpreiserstattung zuzüglich 75 Prozent; Informationsausnahme und Beweislast prüfen |
 | **Vorverlegung der Abfahrt** | nicht ausdrücklich in VO 2021/782 — analog Art. 8 | Falls Fahrgast den vorverlegten Zug nicht erreicht: Behandlung wie Ausfall |
 | **Nichtbeförderung (Überbuchung im Eisenbahnverkehr)** | praktisch selten; Art. 18 analog | Wahlrecht; ggf. Schadensersatz nach Art. 26 Abs. 5 Anhang I CIV |
 | **SPNV — 20-Min-Schwelle für Alternativzug** | § 11 EVO | Recht auf Wechsel auf anderen Zug (nicht: Entschädigung — die folgt Art. 19 VO) |
@@ -558,8 +556,9 @@ _Für Verspätung, Zugausfall oder Anschlussverlust einordnen: ordnet Norm, Bewe
 
 ### Schritt 3: Durchgangsfahrkarte oder separate Tickets?
 
-- **Einheitliche PNR**: alle Etappen sind Durchgangsfahrkarte → Anspruch bezieht sich auf Endziel-Verspätung (Art. 12 Abs. 3 VO).
-- **Separate PNRs** (z.B. Hin- mit Sparpreis, Anschlussfahrt mit anderem Ticket): jede Strecke einzeln zu bewerten; Anschluss-Garantie greift nicht. Ausnahme Art. 12 Abs. 4 VO: bei Fahrkartenverkäufer / Reiseveranstalter kombiniert + Fehlinformation → 75 %-Entschädigung des Vermittlers.
+- **Erwerb beim Eisenbahnunternehmen:** Eine oder mehrere Fahrkarten in einer einzigen geschäftlichen Transaktion gelten nach Artikel 12 Absatz 3 als Durchgangsfahrkarte; vorbehaltlich Absatz 5 haftet das Unternehmen nach Artikeln 18 bis 20. Eine gemeinsame PNR allein genügt für diese Einordnung nicht.
+- **Eigene Kombination durch Verkäufer oder Veranstalter:** Bei einer einzigen geschäftlichen Transaktion und Anschlussverlust besteht nach Artikel 12 Absatz 4 die gesetzliche Haftung auf Gesamtpreiserstattung zuzüglich 75 Prozent. Weder Garantieversprechen noch eine aktiv falsche Auskunft sind zusätzliche Voraussetzungen.
+- **Informationsausnahme:** Absatz 5 verlangt vor dem Kauf erteilte Information über getrennte Verträge und einen reproduzierbaren Hinweis. Der Anbieter trägt nach Absatz 6 den Informationsnachweis. Erst bei ausgeschlossener Haftung die verbleibenden Verträge separat behandeln; verschiedene PNRs beweisen die Ausnahme nicht.
 
 ### Schritt 4: Tatbestand benennen
 
@@ -752,7 +751,11 @@ Drittverschulden (Art. 19 Abs. 10 lit. c VO) — potenziell anerkannt. Dennoch:
 
 #### Gegenargument
 
-> Die VO (EU) 2021/782 sieht in Art. 19 keine Antragsfrist vor, die zum Verlust des Entschädigungsanspruchs führt. Art. 27 VO normiert eine 3-Monats-Beschwerdefrist — diese ist eine reine Verfahrensfrist, keine materielle Ausschlussfrist. Maßgeblich ist die dreijährige Verjährungsfrist gemäß § 195 BGB i.V.m. § 199 Abs. 1 BGB ab Schluss des Jahres, in dem der Anspruch entstand und ich Kenntnis hatte. Mein Antrag vom [Datum] liegt deutlich innerhalb dieser Frist. Ich bitte Sie daher, meinen Antrag ungeachtet einer eventuellen internen Fristenvorgabe erneut zu prüfen.
+Vor dem Antwortschreiben klären, ob sich die Ablehnung auf Artikel 28 Absatz 2, A.9.5 BB DB, Artikel 60 CIV oder eine interne Antragsvorgabe stützt. Fahrkartengültigkeit und Verjährungshemmung belegen; Anwendbarkeit und Wirksamkeit der Jahresfrist prüfen. Die Behauptung, der Antrag sei innerhalb der Verjährungsfrist, erst nach dieser [Fristenprüfung mit CIV und A.9.5 BB DB](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fahrgastrechte/references/verjaehrung-und-fristen.md) verwenden.
+
+> Bitte konkretisieren Sie, auf welche Frist und welche Fassung Ihrer Beförderungsbedingungen Sie Ihre Ablehnung stützen und wie Sie deren Beginn und Ende berechnen. Die Beschwerdefrist nach Artikel 28 Absatz 2 VO (EU) 2021/782 ist von der Verjährung des geltend gemachten Anspruchs zu unterscheiden. Ich bitte um erneute Prüfung meines Antrags vom [Datum] unter Berücksichtigung der beigefügten Fahrkarte und des nachgewiesenen bisherigen Schriftwechsels.
+
+Bei bereits erhobener Verjährungseinrede die konkret geprüfte Gegenbegründung ergänzen; dieser Klärungsbrief allein hemmt die Verjährung nicht.
 
 ---
 
@@ -892,7 +895,7 @@ _Für Schlichtungsstelle Reise & Verkehr e.V. anrufen: ordnet Norm, Beweislast u
 1. **Vorgerichtliche Geltendmachung** beim EVU. Der Anspruch muss zunächst bei der DB / dem EVU geltend gemacht und mindestens **vier Wochen** lang ohne befriedigende Antwort geblieben oder abgelehnt worden sein.
 2. **Keine anhängige Klage**: Die Schlichtung scheidet aus, wenn der Anspruch bereits gerichtlich anhängig ist.
 3. **Anwendungsbereich:** Personenverkehr (Eisenbahn, Bus, Flug, Schiff). Eisenbahn ist Kerngeschäft.
-4. **Frist:** Es gibt keine gesetzliche allgemeine Ausschlussfrist für den Schlichtungsantrag. Maßgeblich ist die materielle Verjährung des Anspruchs (drei Jahre nach §§ 195, 199 BGB). Die Verfahrensordnung der Schlichtungsstelle Reise & Verkehr e.V. ist vor Antragstellung auf etwaige Spezialfristen zu prüfen.
+4. **Frist:** Es gibt keine gesetzliche allgemeine Ausschlussfrist für den Schlichtungsantrag. Maßgeblich ist die anspruchsbezogene Verjährung; Artikel 60 CIV und A.9.5 BB DB können eine Jahresfrist vorsehen. Anwendbarkeit und Wirksamkeit nach der [Fristenprüfung mit CIV und A.9.5 BB DB](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fahrgastrechte/references/verjaehrung-und-fristen.md) prüfen. Die Verfahrensordnung der Schlichtungsstelle Reise & Verkehr e.V. ist vor Antragstellung auf etwaige Spezialfristen zu prüfen.
 
 ## Inhalt des Schlichtungsantrags
 
@@ -1010,9 +1013,9 @@ Mit freundlichen Grüßen
 
 ## Wirkung auf Verjährung
 
-Anrufung der Schlichtungsstelle **hemmt** die Verjährung gem. § 204 Abs. 1 Nr. 4 BGB (Einleitung des Verfahrens vor einer durch das Bundesamt für Justiz nach § 32 VSBG anerkannten Stelle). Hemmung dauert für die Zeit des Verfahrens; nach Beendigung läuft die Frist weiter (mit 6-Monats-Mindest-Restfrist gemäß § 204 Abs. 2 BGB).
+Die Hemmung nach Paragraf 204 Absatz 1 Nummer 4 BGB setzt die Veranlassung der Bekanntgabe eines hinreichend bestimmten Antrags bei der zuständigen staatlichen oder staatlich anerkannten Streitbeilegungsstelle voraus. Sie wirkt auf den Eingang zurück, wenn die Bekanntgabe demnächst erfolgt. Bei einer anderen Streitbeilegungsstelle muss das Verfahren im Einvernehmen mit dem Antragsgegner betrieben werden. Anerkennung, Zuständigkeit, Antragseingang und Bekanntgabe nachweisen; eine bloße Serviceanfrage genügt nicht.
 
-→ Praxisrelevant: Auch wenn die Schlichtung lange dauert, ist der Anspruch verjährungsrechtlich geschützt.
+Nach Paragraf 204 Absatz 2 BGB endet die Hemmung grundsätzlich sechs Monate nach der rechtskräftigen Entscheidung oder anderweitigen Verfahrensbeendigung; erst danach läuft die verbliebene Verjährungsfrist weiter. Stillstand des Verfahrens gesondert prüfen. Ein bereits verjährter Anspruch wird durch den Antrag nicht wieder unverjährt.
 
 ## Wann zur Schlichtung, wann direkt klagen?
 
@@ -1345,7 +1348,7 @@ beA-Konvention:
 
 ## Hinweise
 
-- **Verjährung** drei Jahre nach §§ 195, 199 Abs. 1 BGB ab Jahresende der Verspätung.
+- **Verjährung:** Anspruchsgrundlage, Artikel 60 CIV und A.9.5 BB DB einschließlich deren Anwendbarkeit und Wirksamkeit prüfen; den frühesten vertretbaren Termin sichern. Siehe [Fristenprüfung mit CIV und A.9.5 BB DB](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fahrgastrechte/references/verjaehrung-und-fristen.md).
 - Anrufung der **Schlichtungsstelle Reise & Verkehr** hemmt die Verjährung (§ 204 Abs. 1 Nr. 4 BGB) — bei Klage nach Schlichtung Stichtage prüfen.
 - **Beweislast Türöffnung am Zielbahnhof:** Klagepartei kann durch Foto Anzeigetafel oder Zeugen darlegen; bei Bestreiten DB-interne Daten erforderlich (§§ 421 ff. ZPO).
 
@@ -1363,14 +1366,14 @@ beA-Konvention:
 - § 253 ZPO — Klagemindestinhalt
 - § 60 ZPO — Streitgenossenschaft
 - §§ 286, 288 BGB — Verzug und Verzugszinsen
-- § 195, § 199 Abs. 1 BGB — Verjährung
+- Artikel 60 CIV; A.9.5 BB DB; subsidiär Paragrafen 195, 199 Absatz 1 BGB — anspruchsbezogene Verjährung; [Fristenprüfung mit CIV und A.9.5 BB DB](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fahrgastrechte/references/verjaehrung-und-fristen.md)
 - § 204 Abs. 1 Nr. 4 BGB — Verjährungshemmung durch Schlichtung
 - § 709 ZPO — vorläufige Vollstreckbarkeit gegen Sicherheitsleistung; bei geringen Streitwerten alternativ § 708 Nr. 11 i.V.m. § 711 ZPO erwägen (Prüfung im Einzelfall)
 
 ## Triage vor Klageerhebung
 
 1. Schlichtung versucht? → Schlichtungsstelle Reise & Verkehr e.V. erst aus­schöpfen (kostenfrei); danach Klage.
-2. Verjährung geprüft? → 3 Jahre ab Jahresende des Verspätungsjahres (§ 195 i.V.m. § 199 BGB).
+2. Verjährung anspruchsbezogen geprüft? Artikel 60 CIV und A.9.5 BB DB (insbesondere ein Jahr ab Ablauf der Fahrkartengültigkeit), subsidiär Paragrafen 195 und 199 BGB; Hemmung und Einrede berücksichtigen.
 3. Streitwert berechnet? → bei > 10 000 EUR Landgericht (§ 71 GVG) + Anwaltszwang § 78 ZPO.
 4. Beweismittel vollständig? → Buchung, E-Tickets, Verspätungs-Bestätigung, Mahnschreiben.
 5. Richtige Beklagte? → ausführendes EVU (nicht Reiseveranstalter, nicht DB AG-Konzern bei Tochter-Strecke), Art. 19 Abs. 1 VO 2021/782 i.V.m. Art. 3 Nr. 1 VO.
@@ -1595,7 +1598,7 @@ Nicht alle Informationen auf einmal abfragen, sondern nur das, was wirklich fehl
 - **Kein "Keine-Rechtsberatung"-Disclaimer im Brief selbst** — der Brief soll wie ein normaler Widerspruch einer Privatperson aussehen.
 - **Aber dem Nutzer im Chat sagen:** "Das ist keine Rechtsberatung. Im Zweifel einen Anwalt oder eine Verbraucherzentrale konsultieren."
 - **Datum:** Immer das aktuelle Datum verwenden, nicht das Datum des Ablehnungsschreibens.
-- **Beschwerdefrist Art. 27 VO:** Die 3-Monats-Frist ist eine Verfahrensfrist — keine Ausschlussfrist für den materiellen Anspruch. § 195 BGB (3 Jahre) bleibt maßgeblich.
+- **Fristen:** Die dreimonatige Beschwerdefrist nach Artikel 28 Absatz 2 ist von der Anspruchsverjährung zu unterscheiden. Artikel 60 CIV und die Jahresfrist nach A.9.5 BB DB auf Anwendbarkeit und Wirksamkeit prüfen; Paragrafen 195 und 199 BGB nicht pauschal zugrunde legen. Siehe [Fristenprüfung mit CIV und A.9.5 BB DB](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fahrgastrechte/references/verjaehrung-und-fristen.md).
 - **Bei Anwaltsmandat** zusätzlich den Standardsatz aus CLAUDE.md am Briefende mit aufnehmen: Berufsbezeichnung, Mandatsverhältnis, Kostenhinweis (RVG / Honorarvereinbarung).
 
 ## Anschluss-Skills
@@ -1794,7 +1797,7 @@ Mit freundlichen Grüßen
 
 - **Erstattung** (Art. 18 Abs. 5 VO): 30 Tage.
 - **Entschädigung** (Art. 19 Abs. 7 VO): 1 Monat.
-- **Beschwerdeantwort** (Art. 27 Abs. 2 VO): 1 Monat (in begründeten Fällen bis 3 Monate).
+- **Beschwerdeantwort** (Art. 28 Abs. 2 VO): 1 Monat (in begründeten Fällen bis 3 Monate).
 
 ## Praxis-Hinweise
 
@@ -1831,7 +1834,7 @@ bezeichnung: "Anlage K"
 - Art. 20 VO (EU) 2021/782 — Hilfeleistung
 - Art. 7 VO (EU) 2021/782 — Verzichtsverbot
 - § 11 EVO — SPNV-Zusatzrechte
-- § 195, § 199 Abs. 1 BGB — Verjährung
+- Artikel 60 CIV; A.9.5 BB DB; subsidiär Paragrafen 195, 199 Absatz 1 BGB — anspruchsbezogene Verjährung; [Fristenprüfung mit CIV und A.9.5 BB DB](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fahrgastrechte/references/verjaehrung-und-fristen.md)
 - § 286 Abs. 1, § 288 Abs. 1 BGB — Verzug und Verzugszinsen
 
 ## Rechtsprechung
@@ -1899,7 +1902,12 @@ verbindung-gebucht:
     - nr: ICE 503
       operating-evu: DB Fernverkehr AG
       abschnitt: Berlin Hbf - Muenchen Hbf
-  einheitliche-pnr: ja        # → Durchgangsfahrkarte nach Art. 12 VO
+  einheitliche-pnr: ja        # Beweisanzeichen; Kaufvorgang und Vorabinformation prüfen
+  einzige-transaktion: ja
+  verkauft-durch: eisenbahnunternehmen
+  kombination-durch-verkaeufer: nein
+  hinweis-getrennte-vertraege-vor-kauf: nicht-belegt
+  hinweis-reproduzierbar: nicht-belegt
 
 verbindung-tatsaechlich:
   abfahrt-ist: 2026-05-12T08:45:00+02:00   # +20 Min
@@ -1966,14 +1974,16 @@ Pro Reise wird **ein** Anspruchsfall mit mehreren Reisenden erfasst. **Jeder Rei
 
 ## Anschlussverlust unter Durchgangsfahrkarte
 
-Wenn die Buchung mehrere Züge mit **einer PNR** enthält (Art. 12 Abs. 3 VO 2021/782), ist die **Gesamtverspätung am Endziel** maßgeblich — nicht die Verspätung eines einzelnen Etappenzuges. Der Anschlussverlust ist im Yaml unter `umsteige-bahnhoefe` zu erfassen.
+Buchungscodes entscheiden nicht allein über eine Durchgangsfahrkarte. Beim Erwerb einer oder mehrerer Fahrkarten in einer einzigen geschäftlichen Transaktion bei einem Eisenbahnunternehmen gilt Artikel 12 Absatz 3 VO (EU) 2021/782; vorbehaltlich Absatz 5 haftet es bei Anschlussverlust nach Artikeln 18 bis 20. Bei einer Durchgangsfahrkarte zählt die Gesamtverspätung am Endziel. Den Anschlussverlust unter `umsteige-bahnhoefe` erfassen.
 
-Bei **mehreren separat gebuchten Tickets** (eigenständige PNRs) ist jeder Vertrag getrennt zu betrachten — Anschluss-Garantie greift nicht, außer Fahrkartenverkäufer / Reiseveranstalter hat sie ausdrücklich versprochen (Art. 12 Abs. 4 VO).
+Kombiniert ein Fahrkartenverkäufer oder Reiseveranstalter die Tickets auf eigene Initiative in einer einzigen geschäftlichen Transaktion, schuldet er bei Anschlussverlust nach Artikel 12 Absatz 4 die Erstattung des gesamten Transaktionspreises zuzüglich 75 Prozent dieses Betrags. Eine ausdrücklich versprochene Anschlussgarantie ist dafür nicht erforderlich. Nach Absatz 5 entfällt die Haftung aus Absatz 3 oder 4 nur bei Information vor dem Kauf über getrennte Beförderungsverträge und einem zur späteren Verwendung reproduzierbaren Hinweis. Den Informationsnachweis trägt nach Absatz 6 der jeweilige Anbieter. Bestellansicht, Bestätigung, Zahlbeleg und damaligen Hinweis sichern.
+
+Erst wenn diese Tatbestände ausgeschlossen oder die Ausnahme nachgewiesen sind, die getrennten Verträge jeweils für sich bewerten; zusätzliche vertragliche Garantien gesondert prüfen. Die Verkäuferhaftung und die Fahrpreisentschädigung gegen das Eisenbahnunternehmen sind unterschiedliche Ansprüche.
 
 ## Operating EVU prüfen
 
 - DB-Vertrieb verkauft auch Konkurrenz-Tickets. Bei NWB-, ÖBB-, FlixTrain-Strecken im DB-Vertriebssystem: **Operating EVU ist das tatsächlich fahrende Unternehmen** — nicht DB Fernverkehr.
-- Anspruchsgegner ist immer das **ausführende EVU** (Art. 19 Abs. 1 VO).
+- Den Anspruchsgegner anhand der Anspruchsgrundlage bestimmen: Artikel 19 betrifft das haftende Eisenbahnunternehmen; Artikel 12 Absatz 4 kann den Verkäufer oder Reiseveranstalter verpflichten. Vertrieb und tatsächliche Beförderung nicht gleichsetzen.
 - Bei DB Regio: häufig Auftrag durch Bundesländer; passivlegitimiert bleibt DB Regio.
 - Bei FlixTrain: FlixTrain GmbH, Friedenheimer Brücke 16, 80639 München.
 

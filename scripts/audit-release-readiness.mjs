@@ -57,7 +57,7 @@ const oldReadmePhrases = [
 function hasObsoleteLengthInstruction(text) {
   // Dateigrößen beschreiben den Prompt, nicht die Länge seiner Fachantwort.
   const withoutArtifactLimits = text.replace(
-    /\b(?:Hauptproblem-Prompt|Markdown-Prompt|Markdown-Download|Schnellstart-Prompt)\s+mit\s+h(?:ö|oe)chstens 7500 Zeichen(?: und Bytes)?/gu,
+    /\b(?:Hauptproblem-Prompts?|Markdown-Prompts?|Markdown-Downloads?|Schnellstart-Prompts?)\s+mit\s+h(?:ö|oe)chstens 7500 Zeichen(?: und Bytes)?/gu,
     '',
   );
   return /h(?:ö|oe)chstens 7500 Zeichen/u.test(withoutArtifactLimits);

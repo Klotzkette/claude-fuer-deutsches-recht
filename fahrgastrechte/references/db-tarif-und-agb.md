@@ -65,7 +65,7 @@ DB-Tarif TBP § 7 (Fahrgastrechte) regelt:
 
 ### Bahnhofs-Anschluss-Regel
 
-Bei verpasstem Anschluss innerhalb einer Durchgangsfahrkarte (PNR) zählt die **Verspätung am Endziel**, nicht des einzelnen Anschlusszuges. Art. 12 Abs. 3 VO 2021/782 verankert dies; in DB-AGB übernommen.
+Bei verpasstem Anschluss innerhalb einer Durchgangsfahrkarte (nicht allein anhand der PNR festzustellen) zählt die **Verspätung am Endziel**, nicht des einzelnen Anschlusszuges. Art. 12 Abs. 3 VO 2021/782 verankert dies; in DB-AGB übernommen.
 
 ## Servicecenter Fahrgastrechte
 
@@ -80,9 +80,9 @@ Bei verpasstem Anschluss innerhalb einer Durchgangsfahrkarte (PNR) zählt die **
 
 ## Frist-Konvention
 
-- **Antragsfrist gegenüber DB-Servicecenter:** keine VO-rechtliche Ausschlussfrist; § 195 BGB (3 Jahre) ist materielle Frist.
+- **Anspruchsverjährung:** A.9.5 BB DB verweist auf Artikel 60 CIV und nennt für Ansprüche nach A.9.1 bis A.9.3 ein Jahr nach Ablauf der Fahrkartengültigkeit. Fassung bei Vertragsschluss, Einbeziehung, Anspruchsgrundlage und Wirksamkeit prüfen; eine mögliche Einrede nicht mit dem pauschalen Hinweis auf drei Jahre übergehen. Siehe [Verjährung und Fristen](verjaehrung-und-fristen.md).
 - **Bearbeitungsfrist DB:** Art. 18 Abs. 5 / 19 Abs. 7 VO 2021/782 — 30 Tage / 1 Monat.
-- **Beschwerde nach Art. 27 VO:** binnen 3 Monaten nach Vorfall (Verfahrensfrist, keine Ausschlussfrist für materiellen Anspruch).
+- **Beschwerde nach Art. 28 VO:** binnen 3 Monaten nach Vorfall (Verfahrensfrist, keine Ausschlussfrist für materiellen Anspruch).
 
 ## Wichtige Adressen
 

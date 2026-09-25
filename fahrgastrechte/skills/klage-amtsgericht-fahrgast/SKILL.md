@@ -295,7 +295,7 @@ beA-Konvention:
 
 ## Hinweise
 
-- **Verjährung** drei Jahre nach §§ 195, 199 Abs. 1 BGB ab Jahresende der Verspätung.
+- **Verjährung:** Anspruchsgrundlage, Artikel 60 CIV und A.9.5 BB DB einschließlich deren Anwendbarkeit und Wirksamkeit prüfen; den frühesten vertretbaren Termin sichern. Siehe [Fristenprüfung mit CIV und A.9.5 BB DB](../../references/verjaehrung-und-fristen.md).
 - Anrufung der **Schlichtungsstelle Reise & Verkehr** hemmt die Verjährung (§ 204 Abs. 1 Nr. 4 BGB) — bei Klage nach Schlichtung Stichtage prüfen.
 - **Beweislast Türöffnung am Zielbahnhof:** Klagepartei kann durch Foto Anzeigetafel oder Zeugen darlegen; bei Bestreiten DB-interne Daten erforderlich (§§ 421 ff. ZPO).
 
@@ -313,14 +313,14 @@ beA-Konvention:
 - § 253 ZPO — Klagemindestinhalt
 - § 60 ZPO — Streitgenossenschaft
 - §§ 286, 288 BGB — Verzug und Verzugszinsen
-- § 195, § 199 Abs. 1 BGB — Verjährung
+- Artikel 60 CIV; A.9.5 BB DB; subsidiär Paragrafen 195, 199 Absatz 1 BGB — anspruchsbezogene Verjährung; [Fristenprüfung mit CIV und A.9.5 BB DB](../../references/verjaehrung-und-fristen.md)
 - § 204 Abs. 1 Nr. 4 BGB — Verjährungshemmung durch Schlichtung
 - § 709 ZPO — vorläufige Vollstreckbarkeit gegen Sicherheitsleistung; bei geringen Streitwerten alternativ § 708 Nr. 11 i.V.m. § 711 ZPO erwägen (Prüfung im Einzelfall)
 
 ## Triage vor Klageerhebung
 
 1. Schlichtung versucht? → Schlichtungsstelle Reise & Verkehr e.V. erst aus­schöpfen (kostenfrei); danach Klage.
-2. Verjährung geprüft? → 3 Jahre ab Jahresende des Verspätungsjahres (§ 195 i.V.m. § 199 BGB).
+2. Verjährung anspruchsbezogen geprüft? Artikel 60 CIV und A.9.5 BB DB (insbesondere ein Jahr ab Ablauf der Fahrkartengültigkeit), subsidiär Paragrafen 195 und 199 BGB; Hemmung und Einrede berücksichtigen.
 3. Streitwert berechnet? → bei > 10 000 EUR Landgericht (§ 71 GVG) + Anwaltszwang § 78 ZPO.
 4. Beweismittel vollständig? → Buchung, E-Tickets, Verspätungs-Bestätigung, Mahnschreiben.
 5. Richtige Beklagte? → ausführendes EVU (nicht Reiseveranstalter, nicht DB AG-Konzern bei Tochter-Strecke), Art. 19 Abs. 1 VO 2021/782 i.V.m. Art. 3 Nr. 1 VO.

@@ -58,7 +58,12 @@ verbindung-gebucht:
     - nr: ICE 503
       operating-evu: DB Fernverkehr AG
       abschnitt: Berlin Hbf - Muenchen Hbf
-  einheitliche-pnr: ja        # → Durchgangsfahrkarte nach Art. 12 VO
+  einheitliche-pnr: ja        # Beweisanzeichen; Kaufvorgang und Vorabinformation prüfen
+  einzige-transaktion: ja
+  verkauft-durch: eisenbahnunternehmen
+  kombination-durch-verkaeufer: nein
+  hinweis-getrennte-vertraege-vor-kauf: nicht-belegt
+  hinweis-reproduzierbar: nicht-belegt
 
 verbindung-tatsaechlich:
   abfahrt-ist: 2026-05-12T08:45:00+02:00   # +20 Min
@@ -125,14 +130,16 @@ Pro Reise wird **ein** Anspruchsfall mit mehreren Reisenden erfasst. **Jeder Rei
 
 ## Anschlussverlust unter Durchgangsfahrkarte
 
-Wenn die Buchung mehrere Züge mit **einer PNR** enthält (Art. 12 Abs. 3 VO 2021/782), ist die **Gesamtverspätung am Endziel** maßgeblich — nicht die Verspätung eines einzelnen Etappenzuges. Der Anschlussverlust ist im Yaml unter `umsteige-bahnhoefe` zu erfassen.
+Buchungscodes entscheiden nicht allein über eine Durchgangsfahrkarte. Beim Erwerb einer oder mehrerer Fahrkarten in einer einzigen geschäftlichen Transaktion bei einem Eisenbahnunternehmen gilt Artikel 12 Absatz 3 VO (EU) 2021/782; vorbehaltlich Absatz 5 haftet es bei Anschlussverlust nach Artikeln 18 bis 20. Bei einer Durchgangsfahrkarte zählt die Gesamtverspätung am Endziel. Den Anschlussverlust unter `umsteige-bahnhoefe` erfassen.
 
-Bei **mehreren separat gebuchten Tickets** (eigenständige PNRs) ist jeder Vertrag getrennt zu betrachten — Anschluss-Garantie greift nicht, außer Fahrkartenverkäufer / Reiseveranstalter hat sie ausdrücklich versprochen (Art. 12 Abs. 4 VO).
+Kombiniert ein Fahrkartenverkäufer oder Reiseveranstalter die Tickets auf eigene Initiative in einer einzigen geschäftlichen Transaktion, schuldet er bei Anschlussverlust nach Artikel 12 Absatz 4 die Erstattung des gesamten Transaktionspreises zuzüglich 75 Prozent dieses Betrags. Eine ausdrücklich versprochene Anschlussgarantie ist dafür nicht erforderlich. Nach Absatz 5 entfällt die Haftung aus Absatz 3 oder 4 nur bei Information vor dem Kauf über getrennte Beförderungsverträge und einem zur späteren Verwendung reproduzierbaren Hinweis. Den Informationsnachweis trägt nach Absatz 6 der jeweilige Anbieter. Bestellansicht, Bestätigung, Zahlbeleg und damaligen Hinweis sichern.
+
+Erst wenn diese Tatbestände ausgeschlossen oder die Ausnahme nachgewiesen sind, die getrennten Verträge jeweils für sich bewerten; zusätzliche vertragliche Garantien gesondert prüfen. Die Verkäuferhaftung und die Fahrpreisentschädigung gegen das Eisenbahnunternehmen sind unterschiedliche Ansprüche.
 
 ## Operating EVU prüfen
 
 - DB-Vertrieb verkauft auch Konkurrenz-Tickets. Bei NWB-, ÖBB-, FlixTrain-Strecken im DB-Vertriebssystem: **Operating EVU ist das tatsächlich fahrende Unternehmen** — nicht DB Fernverkehr.
-- Anspruchsgegner ist immer das **ausführende EVU** (Art. 19 Abs. 1 VO).
+- Den Anspruchsgegner anhand der Anspruchsgrundlage bestimmen: Artikel 19 betrifft das haftende Eisenbahnunternehmen; Artikel 12 Absatz 4 kann den Verkäufer oder Reiseveranstalter verpflichten. Vertrieb und tatsächliche Beförderung nicht gleichsetzen.
 - Bei DB Regio: häufig Auftrag durch Bundesländer; passivlegitimiert bleibt DB Regio.
 - Bei FlixTrain: FlixTrain GmbH, Friedenheimer Brücke 16, 80639 München.
 

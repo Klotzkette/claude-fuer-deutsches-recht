@@ -167,7 +167,7 @@ Wenn Fristdruck besteht, zuerst Kenntniszeitpunkt, Monatsfrist, 72-Stunden-Frist
 - `datenschutz-loeschpflicht-art-17-und-aufbewahrung` — Löschung, Sperrung und Aufbewahrung trennen
 - `datenschutz-beschwerde-art-77-aufsichtsbehoerde` — Beschwerde- und Behördenpfad
 - `datenpanne-meldung` — Meldeentscheidung und 72-Stunden-Timeline
-- `dsv-meldung-art-33-pflichtangaben` — Pflichtangaben für Vorfallmeldung
+- `meldung-art-33-pflichtangaben` — Meldung nach Art. 33 DSGVO — Pflichtangaben generisch
 - `avv-art-28-mindestinhalte-checkliste` — Auftragsverarbeitungsvertrag prüfen
 - `avv-art-26-joint-controllership-deutsch` — AVV ART 26 Joint Controllership Deutsch
 - `drittlandstransfer-tia-scc` — Transfer Impact Assessment und Standardklauseln

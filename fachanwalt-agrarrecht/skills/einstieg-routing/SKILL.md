@@ -17,8 +17,8 @@ Dieser Einstieg routet **Fachanwalt Agrarrecht** vom ersten Sachverhalt zu Rolle
 - `agrar-wolfsschaden-spezial` — Agrar Wolfsschaden Cross Glozez Foerderung
 - `agrarerbe-pflichtteil-paragraf-2316-bgb-hoefeordnung` — Agrarerbe Pflichtteil Paragraf 2316 BGB Hoefeordnung
 - `agrarflaeche-erwerbsbeschraenkung-paragraf-9-grdstvg-hofstelle` — Agrarflaeche Erwerbsbeschraenkung Paragraf 9 Grdstvg Hofstelle
-- `agrarfoerderung-fid-ablehnung-paragraf-9-invekos` — Agrarfoerderung FID Ablehnung Paragraf 9 Invekos
-- `agrarinvest-bonusverwirkung-paragraf-49-vwvfg-grw` — Agrarinvest Bonusverwirkung Paragraf 49 Vwvfg GRW
+- `direktzahlung-flaechenabweichung-gapinvekos` — Flächenabweichung bei Direktzahlungen prüfen
+- `agrarinvestitionsfoerderung-widerruf-rueckforderung` — Agrarinvestitionsförderung verteidigen oder zurückfordern
 - `workflow-mandantenkommunikation` — Agrarrecht Mandantenkommunikation Redteam Qualitygate Hoeferecht
 - `anerbenrecht-risikoampel-und-gegenargumente` — Anerbenrecht BGB Spezial Compliance
 - `cross-zahlen-schwellen-und-berechnung` — Cross Duengeverordnung Interessen Erbrecht

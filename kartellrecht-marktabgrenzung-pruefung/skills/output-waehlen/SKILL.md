@@ -21,7 +21,7 @@ Diese Output-Weiche für **Kartellrecht Marktabgrenzung Prüfung** entscheidet, 
 - `alternative-marktdefinition-weit` — Alternative Marktdefinition Weit
 - `angebotsumstellung-evidenz-flags-red-team-korrektur` — Angebotsumstellung Evidenz Flags RED Team Korrektur
 - `anmeldepflicht-joint-venture` — Anmeldepflicht Joint Venture
-- `einstieg-schnelltriage-fallrouting` — Anschluss
+- `einstieg-routing` — 1. Kartellrechtlichen Prüfauftrag bearbeiten
 - `art-101-aeuv-kooperationspruefung-einstieg` — ART 101 Aeuv Kooperationspruefung Einstieg
 - `art-101-aeuv-tatbestand-vereinbarung-beschluss-abgestimmte-verha` — ART 101 Aeuv Tatbestand Vereinbarung Beschluss Abgestimmte Verha
 - `dokumente-intake` — Dokumente Intake

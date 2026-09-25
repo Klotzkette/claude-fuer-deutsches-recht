@@ -178,7 +178,7 @@ Mit freundlichen Grüßen
 
 - **Erstattung** (Art. 18 Abs. 5 VO): 30 Tage.
 - **Entschädigung** (Art. 19 Abs. 7 VO): 1 Monat.
-- **Beschwerdeantwort** (Art. 27 Abs. 2 VO): 1 Monat (in begründeten Fällen bis 3 Monate).
+- **Beschwerdeantwort** (Art. 28 Abs. 2 VO): 1 Monat (in begründeten Fällen bis 3 Monate).
 
 ## Praxis-Hinweise
 
@@ -215,7 +215,7 @@ bezeichnung: "Anlage K"
 - Art. 20 VO (EU) 2021/782 — Hilfeleistung
 - Art. 7 VO (EU) 2021/782 — Verzichtsverbot
 - § 11 EVO — SPNV-Zusatzrechte
-- § 195, § 199 Abs. 1 BGB — Verjährung
+- Artikel 60 CIV; A.9.5 BB DB; subsidiär Paragrafen 195, 199 Absatz 1 BGB — anspruchsbezogene Verjährung; [Fristenprüfung mit CIV und A.9.5 BB DB](../../references/verjaehrung-und-fristen.md)
 - § 286 Abs. 1, § 288 Abs. 1 BGB — Verzug und Verzugszinsen
 
 ## Rechtsprechung

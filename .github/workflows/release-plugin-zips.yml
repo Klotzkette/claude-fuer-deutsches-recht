@@ -29,7 +29,9 @@ jobs:
           fetch-depth: 0
 
       - name: Validator
-        run: node scripts/validate-plugin-structure.mjs
+        run: |
+          node --test scripts/test-skill-map-references.mjs
+          node scripts/validate-plugin-structure.mjs
 
       - name: Python-Abhängigkeiten installieren
         run: python3 -m pip install -r requirements.txt
@@ -74,6 +76,8 @@ jobs:
           python3 scripts/test-testakten-ohne-loesungen.py
           python3 scripts/validate-testakten-ohne-loesungen.py
           python3 scripts/test-testakte-bwa-abstimmung.py
+          python3 scripts/test-testakte-pohlmann-fristen.py
+          python3 scripts/test-datenschutz-fanpage-quellen.py
           python3 scripts/validate-testakte-bwa-abstimmung.py
           python3 scripts/test-grundsteuer-wolkenfels.py
           python3 scripts/test-grundsteuerrecht.py

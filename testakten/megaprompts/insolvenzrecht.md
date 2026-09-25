@@ -182,7 +182,7 @@ Dieser Einstieg routet **Insolvenzrecht** vom ersten Sachverhalt zu Rollen, Fris
 ## Fachlandkarte dieses Plugins
 
 - `anfechtungsrechte-antragspflicht-15a` — Anfechtungsrechte Antragspflicht 15A
-- `einstieg-schnelltriage-fallrouting` — Anschluss
+- `mandat-triage-insolvenzrecht` — Mandat-Triage Insolvenzrecht
 - `antragspflicht-15a-17-19` — Antragspflicht 15A 17 19
 - `antragspflicht-15a-inso` — Antragspflicht 15A Inso
 - `auslaendischer-insolvenzverwalter-register-und-grundbuch` — Ausländischer Insolvenzverwalter Register und Grundbuch

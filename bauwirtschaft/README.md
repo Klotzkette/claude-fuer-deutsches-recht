@@ -86,7 +86,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->
 
-Version 445.3.1. Autor / Author: Klotzkette.
+Version 445.3.2. Autor / Author: Klotzkette.
 
 Bauherr, Projektentwicklung, Bauleitung und kaufmännisches Team erhalten genau 20 ausführende Skills: Sie führen den Projektstand fort, rechnen Kosten und Zahlungen nach und erstellen die konkret benötigten Tabellen, Schreiben, Verträge oder Entscheidungsvorlagen. Der Hauptskill arbeitet selbst am Ergebnis; er ist kein bloßer Themenrouter.
 

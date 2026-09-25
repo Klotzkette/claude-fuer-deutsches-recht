@@ -11,12 +11,12 @@ Diese Output-Weiche für **Fachanwalt Bau Architektenrecht** entscheidet, ob Mem
 
 ## Fachlandkarte dieses Plugins
 
-- `abnahme-fiktion-paragraf-640-bgb-bgh-vii-zr-301-13` — Abnahme Fiktion Paragraf 640 BGB BGH VII ZR 301 13
+- `abnahmefiktion-paragraf-640-bgb-pruefen` — Abnahmefiktion nach Paragraf 640 Absatz 2 BGB prüfen
 - `abnahme-quellenkarte` — Abnahme Quellenkarte
 - `architektenhonorar-hoai-mindestsatz-eugh-c-377-17` — Architektenhonorar HOAI Mindestsatz Eugh C 377 17
 - `einstieg-schnelltriage-fallrouting` — BAU Abnahme Nachtrag
 - `abnahme-verweigerung` — Bauablauf VBG
-- `baugenehmigung-nachbarklage-paragraf-58-vwgo-bverwg-4-c-1-19` — Baugenehmigung Nachbarklage Paragraf 58 Vwgo Bverwg 4 C 1 19
+- `nachbarklage-baugenehmigung-frist-und-drittschutz` — Nachbarklage gegen eine Baugenehmigung prüfen
 - `bauordnungsrecht-behoerden-gericht-und-registerweg` — Bauordnungsrecht Einfuehrung Fachanwalt HOAI
 - `bautraeger-abnahme-formgerecht-640-bgb` — Bautraeger Abnahme Formgerecht Abnahmefiktion
 - `bautraeger-belehrungspflicht-17-beurkg` — Bautraeger Belehrungspflicht

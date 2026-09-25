@@ -114,11 +114,11 @@ EVU bietet dem Fahrgast auf dessen Antrag eine **Bescheinigung der Verspätung o
 
 Anhang I plus eigene VO-Bestimmungen — barrierefreier Zugang, Vorrang bei Hilfe.
 
-## Art. 27 — Beschwerden
+## Art. 28 — Beschwerden
 
 Recht des Fahrgasts, beim EVU innerhalb von **drei Monaten** nach dem Vorfall Beschwerde einzureichen. EVU antwortet binnen einem Monat (begründet bei Verzögerung bis drei Monate).
 
-## Art. 28 — Dienstqualitätsstandards
+## Art. 29 — Dienstqualitätsstandards
 
 EVUs erstellen, veröffentlichen, wenden Standards an und überwachen sie. Mindeststandards in Anhang III.
 
@@ -128,9 +128,9 @@ Mitgliedstaaten benennen unabhängige Durchsetzungsstelle. In Deutschland: **Eis
 
 ## Verjährung
 
-- **§ 195 BGB** drei Jahre, Beginn am Schluss des Kalenderjahres, in dem der Anspruch entstand und der Fahrgast Kenntnis hatte (§ 199 Abs. 1 BGB).
-- Beispiel: Verspätung am 12.05.2026 — Verjährung mit Ablauf 31.12.2029.
-- **Achtung Art. 27 VO:** Beschwerdefrist drei Monate ist eine VERFAHRENSFRIST gegenüber dem EVU für die Beschwerdebearbeitung; sie ist **keine Ausschlussfrist** für den materiellen Anspruch. Die DB lehnt manchmal Anträge wegen "Fristversäumnis" ab — das ist nach Art. 19 VO unzulässig.
+Die Frist ist anspruchsbezogen zu bestimmen. Artikel 60 CIV und A.9.5 BB DB sehen für die dort erfassten Ansprüche insbesondere eine einjährige Verjährung nach Ablauf der Fahrkartengültigkeit vor. Paragrafen 195 und 199 BGB gelten nur, soweit keine vorrangige wirksame Sonderregel eingreift. Für unmittelbar unionsrechtliche Erstattungs- und Entschädigungsansprüche Reichweite und Wirksamkeit einer Verkürzung prüfen; die DB-Klausel weder übergehen noch ungeprüft für abschließend erklären.
+
+Die dreimonatige Beschwerdefrist nach Artikel 28 Absatz 2 ist gesondert zu erfassen. Sie ersetzt weder die Anspruchsverjährung noch deren Prüfung. Einzelheiten und geprüfte Quellen: [Verjährung und Fristen](verjaehrung-und-fristen.md).
 
 ## Gerichtsstand
 

@@ -12,7 +12,7 @@ Diese Unterlagenprüfung für **Energierecht** benennt fehlende Dokumente, strei
 ## Fachlandkarte dieses Plugins
 
 - `anfrage-mehrparteien-konflikt-und-interessen` — Anfrage Mehrparteien Konflikt und Interessen
-- `einstieg-schnelltriage-fallrouting` — Anschluss
+- `energierecht-erstpruefung-und-mandatsziel` — Energierecht: Erstprüfung, Rollenklärung und Mandatsziel
 - `bess-abfall-recycling-rueckbau` — Bess Abfall Recycling Rueckbau
 - `bess-abstandsflaechen-baurecht-brandenburg` — Bess Abstandsflaechen Baurecht Brandenburg
 - `bess-baurecht-brandenburg` — Bess Baurecht Brandenburg
