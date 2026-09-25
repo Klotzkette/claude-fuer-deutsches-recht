@@ -15,6 +15,7 @@ from zipfile import ZipFile
 import yaml
 
 from akten_build_runtime import serif_font_path
+from readme_decimal_headings import normalize_decimal_headings
 from quality_lab import load, marketplace, validate_profile
 from testakte_disclaimer import NOTICE_BYTES, NOTICE_FILENAME
 from testakte_zip_common import working_dump_flat_pairs
@@ -39,6 +40,23 @@ def script_module(name):
 
 
 class BauwirtschaftTests(unittest.TestCase):
+    def test_case_download_headings_stay_decimal_after_regeneration(self):
+        injector = script_module("inject-gesamt-pdf-section")
+        for slug in sorted(CASES):
+            with self.subTest(case=slug), tempfile.TemporaryDirectory() as temporary:
+                text = (ROOT / "testakten" / slug / "README.md").read_text()
+                self.assertIn("<!-- decimal-headings -->", text)
+                self.assertEqual(normalize_decimal_headings(text), text)
+                for line in text.splitlines():
+                    if line.startswith("#"):
+                        self.assertRegex(line, r"^#{1,6} \d+(?:\.\d+)*\. \D")
+                readme = Path(temporary) / "README.md"
+                readme.write_text(text)
+                injector.inject(readme, slug)
+                generated = readme.read_text()
+                self.assertRegex(generated, r"## 1\.\d+\. Akte komplett herunterladen")
+                self.assertEqual(injector.inject(readme, slug), "unchanged")
+
     def test_navigation_matches_construction_work_instead_of_generic_law_groups(self):
         navigation = script_module("inject-skills-logic-navigation")
         slugs = navigation.skill_slugs(ROOT / PLUGIN)

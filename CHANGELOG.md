@@ -1,3 +1,7 @@
+# v445.3.1 - Dezimale Navigation der Bauakten
+
+Die drei Aktenübersichten zu Warendorf, Bad Salzuflen und Einbeck erhalten eine durchgehende dezimale Gliederung einschließlich ihrer erzeugten Downloadabschnitte. Die Nummerierung bleibt bei erneutem Aufbau erhalten; ein Regressionstest prüft dies für alle vier Bauakten. Originalunterlagen, Skills und Prompts bleiben unverändert. Dieser Release enthält das vollständige Bauwirtschaftspaket aus v445.3.0.
+
 # v445.3.0 - Bauwirtschaft mit zwanzig Skills und vier Projektakten
 
 ## 1. Bauwirtschaftlicher Arbeitsablauf statt reiner Rechtsprüfung

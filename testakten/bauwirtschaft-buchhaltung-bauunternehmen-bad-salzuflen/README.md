@@ -1,11 +1,19 @@
-# Buchhaltungsprüfung in Bad Salzuflen
+<!-- decimal-headings -->
 
-## 1 Vorgang
+<!-- decimal-anchor --> <a id="buchhaltungsprüfung-in-bad-salzuflen"></a>
+
+# 1. Buchhaltungsprüfung in Bad Salzuflen
+
+<!-- decimal-anchor --> <a id="vorgang"></a>
+
+## 1.1. Vorgang
 
 Begrenzter Rechnungs-, Leistungs- und Zahlungsabgleich eines regionalen Bauunternehmens. Der ausgewählte Stapel umfasst zwei Projekte, eine Lieferantenkorrektur, Skonto, einen Sicherheitseinbehalt und die im September gezahlten Augustlöhne. Stand: 25. September 2026, 16:00 Uhr.
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
-## Akte komplett herunterladen
+<!-- decimal-anchor --> <a id="akte-komplett-herunterladen"></a>
+
+## 1.2. Akte komplett herunterladen
 
 [Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
 
@@ -27,7 +35,9 @@ English: The original-format ZIP contains the working files directly at archive 
 
 <!-- END gesamt-pdf-section (autogen) -->
 
-## 3 Bestand
+<!-- decimal-anchor --> <a id="bestand"></a>
+
+## 1.3. Bestand
 
 30 native Aktenstücke. Jede Datei bildet ein Dokument ab. Die beiden Arbeitsmappen sind bearbeitbar; E-Mail-Anhänge entsprechen den separat enthaltenen Quelldateien.
 
@@ -64,10 +74,14 @@ English: The original-format ZIP contains the working files directly at archive 
 | 29 | `29_Telefonnotiz_Miettechnik.txt` |
 | 30 | `30_Kundenkonto_Alte_Muehle.pdf` |
 
-## 4 Redaktion
+<!-- decimal-anchor --> <a id="redaktion"></a>
+
+## 1.4. Redaktion
 
 Autor: Klotzkette. Personen und Unternehmen des Sachverhalts sind erfunden. Die PNG-Dateien zeigen fachliche Bildschirmansichten des jeweiligen Falls. Die Prüfkriterien in `rubric.yaml` gehören nicht zum Export.
 
-## 5 Quellenstand
+<!-- decimal-anchor --> <a id="quellenstand"></a>
+
+## 1.5. Quellenstand
 
 Die steuerlichen Fallannahmen wurden am 25. September 2026 mit den amtlichen Einzelnormen abgeglichen: [Paragraf 12 UStG](https://www.gesetze-im-internet.de/ustg_1980/__12.html) und [Paragraf 13b UStG](https://www.gesetze-im-internet.de/ustg_1980/__13b.html). Für den davon getrennten Bauabzug wurden [Paragraf 48 EStG](https://www.gesetze-im-internet.de/estg/__48.html) und [Paragraf 48b EStG](https://www.gesetze-im-internet.de/estg/__48b.html) geprüft. Die Bescheinigungsabschriften sind Fallunterlagen, keine tatsächlich erteilten Bescheinigungen. Rechtsprechung wird nicht verwendet.
