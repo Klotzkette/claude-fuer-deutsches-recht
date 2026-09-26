@@ -1,0 +1,30 @@
+name: bauwirtschaft-hoai-4-genehmigung-werkhof-celle
+plugin: bauwirtschaft
+author: Klotzkette
+description: Gebäude-Leistungsphase 4 im eigenständigen Projekt Werkhof Uhlenried.
+checks:
+  - id: vertrag
+    check_type: file_exists
+    path: 01_Planervertrag.pdf
+    description: Stufenauftrag, begrenzte Vollmacht und offene Abweichungsentscheidung.
+  - id: bildplan
+    check_type: file_exists
+    path: 14_Nordvariante_G03.png
+    description: Echte gezeichnete Varianten mit geometrischem Bezug.
+  - id: berechnung
+    check_type: file_exists
+    path: 06_Flaechen.xlsx
+    description: Formelbasierte Flächen und separate Stellplatzansätze.
+  - id: nachforderung
+    check_type: file_exists
+    path: 11_Nachforderung.pdf
+    description: Antragseingang und Genehmigung sind nicht gleichgesetzt.
+  - id: belegbezogenes-endprodukt
+    check_type: human_review
+    description: Beauftragtes Dokument vollständig ausformulieren und Aussagen konkreten Planständen und Absendern zuordnen.
+  - id: fortsetzung-und-befugnis
+    check_type: human_review
+    description: Folgeantworten im selben Stand einarbeiten, Fachfreigaben und Außenhandlungen nicht erfinden.
+  - id: norm-und-vertrag
+    check_type: human_review
+    description: Auftrag, Grundleistung und Besondere Leistung trennen und tragende Normen zeitbezogen verifizieren.

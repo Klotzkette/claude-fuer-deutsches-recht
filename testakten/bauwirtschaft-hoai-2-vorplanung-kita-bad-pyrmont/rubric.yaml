@@ -1,0 +1,31 @@
+name: bauwirtschaft-hoai-2-vorplanung-kita-bad-pyrmont
+plugin: bauwirtschaft
+description: Zwei gezeichnete Kita-Vorplanungen mit gleichem Kapazitätsprogramm, unterschiedlicher Kostenabgrenzung und offener Auswahlentscheidung.
+checks:
+  - id: originale
+    check_type: working_file_count
+    min: 16
+    description: Sechzehn eigenständige Originale liegen vor.
+  - id: kostendatei
+    check_type: file_exists
+    path: 10_2026-03-19_Kostenschaetzung.xlsx
+    description: Rechnende Kostenschätzung beider Varianten vorhanden.
+  - id: variantenplaene
+    check_type: file_exists
+    path: 05_2026-03-12_V2_Erdgeschoss_Obergeschoss.pdf
+    description: Beide Geschosse der kompakten Variante tatsächlich gezeichnet.
+  - id: vergleichbarkeit
+    check_type: human_review
+    description: Beide Varianten haben 864 m² BGF und 75 Plätze. Rasterzonen nicht als Nutzflächen ausgeben. Geräteübernahme bei V2 nach Betreiberantwort korrigieren, ohne eine neue Entscheidung zu erfinden.
+  - id: kostenbruecke
+    check_type: human_review
+    description: V2 einschließlich Küchenansatz und Reserve ergibt 3190351 EUR brutto, V1 3167645.80 EUR. Offene Gebühren und gegebenenfalls Anschlussabgrenzung verhindern eine vorbehaltlose Vollbudgetzusage.
+  - id: verhandlung
+    check_type: human_review
+    description: Bürovermerk über Vorverhandlung ist weder Bauvoranfrage noch Vorbescheid oder Genehmigung. Gespräch über Teilfragen nicht zur Gesamtzulässigkeit erweitern.
+  - id: zielkonflikt
+    check_type: human_review
+    description: Gartenfläche, Geschosswechsel und Anlieferung konkret abwägen. Keine erfundene Punktegewichtung und keine eigenmächtige Varianteauswahl.
+  - id: fortsetzung
+    check_type: human_review
+    description: Ausformulierte Auswahlvorlage und nachvollziehbare Kostenüberleitung liefern. Antworten in V1 und V2 fortschreiben; geändertes Programm gesondert abgrenzen, keine technische Freigabe.

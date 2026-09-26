@@ -1,0 +1,30 @@
+name: bauwirtschaft-hoai-6-lv-sporthalle-peine
+plugin: bauwirtschaft
+author: Klotzkette
+description: Gebäude-Leistungsphase 6 im eigenständigen Projekt Sporthalle Okerbogen.
+checks:
+  - id: vertrag
+    check_type: file_exists
+    path: 01_Planungsauftrag.pdf
+    description: Privater Auftrag und interne Einholungsregeln.
+  - id: bildplan
+    check_type: file_exists
+    path: 05_Wandabwicklung_A602B.png
+    description: Tatsächliche Öffnungen und Prallwandband dargestellt.
+  - id: berechnung
+    check_type: file_exists
+    path: 06_Mengenermittlung.xlsx
+    description: Geometrische Mengen mit Formeln und Planbezug.
+  - id: langtext
+    check_type: file_exists
+    path: 07_LV_Ausbau_ungepreist.docx
+    description: Individuelle vollständige Leistungsbeschreibungen.
+  - id: belegbezogenes-endprodukt
+    check_type: human_review
+    description: Beauftragtes Dokument vollständig ausformulieren und Aussagen konkreten Planständen und Absendern zuordnen.
+  - id: fortsetzung-und-befugnis
+    check_type: human_review
+    description: Folgeantworten im selben Stand einarbeiten, Fachfreigaben und Außenhandlungen nicht erfinden.
+  - id: norm-und-vertrag
+    check_type: human_review
+    description: Auftrag, Grundleistung und Besondere Leistung trennen und tragende Normen zeitbezogen verifizieren.

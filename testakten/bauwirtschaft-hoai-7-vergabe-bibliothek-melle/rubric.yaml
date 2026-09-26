@@ -1,0 +1,91 @@
+name: bauwirtschaft-hoai-7-vergabe-bibliothek-melle
+plugin: bauwirtschaft
+description: 'Ein privates Stiftungsprojekt mit drei vollständigen Fensterangeboten,
+  verbindlicher Antwort zur Elementleistung, bedingtem Skonto, abweichender Montagezeit
+  und noch offener Förderentscheidung. Präzises Übungsgebiet: positionsbezogene Angebotswertung,
+  zulässige Aufklärung, Auftraggeber- und Förderbindung sowie Zusammenstellung des
+  Vertragssatzes ohne eigenen Zuschlag.'
+checks:
+- id: angebote
+  check_type: human_review
+  description: Alle acht Positionen aus drei vollständigen Angeboten vergleichen;
+    Skonto nicht als unbedingten Nachlass behandeln. Die Erfüllung von Uw und Montagezeit
+    bleibt gesondert zu prüfen.
+- id: verfahren
+  check_type: human_review
+  description: Stiftungsorganisation und noch nicht bewilligte Förderung aus den Originalen
+    würdigen. Weder automatisch kommunale EU-Vergabe noch vollständige Verhandlungsfreiheit
+    behaupten.
+- id: aufklaerung
+  check_type: human_review
+  description: BG-78-Antwort klärt die angebotene Beschaffenheit noch nicht vollständig.
+    Neue warme Kante nicht heimlich als unverändertes Angebot übernehmen. Kein selbst
+    ausgeführter Zuschlag.
+- id: vertrag
+  check_type: human_review
+  description: Vertragsunterlagen nach exaktem Stand mit Antwort vom 07.09. zusammenstellen.
+    Budget, Nettosumme, Bindefrist und Wiedereröffnung voneinander unterscheiden.
+- id: original-01
+  check_type: file_exists
+  path: 01_Planervertrag.docx
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-02
+  check_type: file_exists
+  path: 02_Stiftungsbeschluss.pdf
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-03
+  check_type: file_exists
+  path: 03_Angebotsaufforderung.docx
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-04
+  check_type: file_exists
+  path: 04_Leistungsverzeichnis.pdf
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-05
+  check_type: file_exists
+  path: 05_Fensterplan_F04_B.png
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-06
+  check_type: file_exists
+  path: 06_Planerpreise.xlsx
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-07
+  check_type: file_exists
+  path: 07_Angebot_klee.pdf
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-08
+  check_type: file_exists
+  path: 08_Angebot_breden.pdf
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-09
+  check_type: file_exists
+  path: 09_Angebot_fenn.pdf
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-10
+  check_type: file_exists
+  path: 10_Eingangsniederschrift.docx
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-11
+  check_type: file_exists
+  path: 11_Bieterfrage_Raffstores.eml
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-12
+  check_type: file_exists
+  path: 12_Gleichlautende_Antwort.eml
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-13
+  check_type: file_exists
+  path: 13_Breden_Erlaeuterung.eml
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-14
+  check_type: file_exists
+  path: 14_Foerderstand.eml
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-15
+  check_type: file_exists
+  path: 15_Termine_Schnittstellen.csv
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-16
+  check_type: file_exists
+  path: 16_Vorstand_Kostenrahmen.eml
+  description: Eigenständige Originalunterlage vorhanden.

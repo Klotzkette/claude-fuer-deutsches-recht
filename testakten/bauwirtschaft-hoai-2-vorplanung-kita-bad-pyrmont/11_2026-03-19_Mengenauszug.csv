@@ -1,0 +1,17 @@
+﻿Stand;Plan;Bezug;Menge;Einheit;Herkunft
+19.03.2026;V1-01;Gebäudelänge;36;m;Zeichnung 12.03.
+19.03.2026;V1-01;Gebäudebreite;24;m;Zeichnung 12.03.
+19.03.2026;V1-01;Geschosse;1;St;Zeichnung 12.03.
+19.03.2026;V1-01;BGF;864;m²;36 mal 24
+19.03.2026;V1-01;Gruppen;3;St;Betreiberprogramm
+19.03.2026;V1-01;Plätze;75;St;Betreiberprogramm
+19.03.2026;V2-01;Gebäudelänge;24;m;Zeichnung 12.03.
+19.03.2026;V2-01;Gebäudebreite;18;m;Zeichnung 12.03.
+19.03.2026;V2-01;Geschosse;2;St;Zeichnung 12.03.
+19.03.2026;V2-01;BGF;864;m²;24 mal 18 mal 2
+19.03.2026;V2-01;Gruppen;3;St;Betreiberprogramm
+19.03.2026;V2-01;Plätze;75;St;Betreiberprogramm
+19.03.2026;Beide;Außenfläche bearbeitet;1500;m²;Ansatz Sander
+19.03.2026;Beide;Grundstück;3224;m²;62 mal 52 schematisch
+19.03.2026;Beide;Mahlzeiten täglich;75;St;Betreiberprogramm
+19.03.2026;Beide;Bearbeitung;Levin Sander;;An Wiesenbogen Bildung gGmbH

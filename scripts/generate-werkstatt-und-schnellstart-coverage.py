@@ -9,6 +9,7 @@ from pathlib import Path
 from urllib.parse import quote
 
 from readme_display import display_prose
+from bauwirtschaft_hoai import PHASEN, werkstatt_path
 
 
 REPO = Path(__file__).resolve().parent.parent
@@ -82,7 +83,7 @@ def main() -> int:
         "",
         "[Repository-Start](../README.md) · [Download-Index](../ASSET_INDEX.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Testakten](../testakten/README.md)",
         "",
-        "[Werkstatt-Prompts](#werkstatt-prompts) · [Schnellstart-Prompts](#schnellstart-prompts)",
+        "[Werkstatt-Prompts](#werkstatt-prompts) · [HOAI-Phasen-Werkstätten](#hoai-phasen-werkstätten) · [Schnellstart-Prompts](#schnellstart-prompts)",
         "",
     ]
     for plugin in plugins:
@@ -98,6 +99,17 @@ def main() -> int:
         "",
     ]
     lines.extend(prompt_table(plugins, "werkstatt"))
+    lines.extend([
+        "## HOAI-Phasen-Werkstätten", "",
+        "Neun zusätzliche eigenständige Werkstätten für das Leistungsbild Gebäude und Innenräume. Jeweils eine Datei für den konkreten Phasenauftrag wählen; die Dateien sind nicht Teil des installierten Plugins. [Skills, Schulungsakten und fachliche Abgrenzung](bauwirtschaft-hoai-phasen.md).", "",
+        "| Phase | Arbeitsbereich | Markdown-Download |", "| --- | --- | --- |",
+    ])
+    for phase, title, _, _, purpose in PHASEN:
+        path = werkstatt_path(phase)
+        if not (REPO / path).is_file():
+            raise FileNotFoundError(path)
+        lines.append(f"| {phase}: {title} | {purpose} | {direct_download(path, Path(path).name)} |")
+    lines.append("")
     lines.extend(prompt_table(plugins, "schnellstart"))
     (DOCS / "werkstatt-und-schnellstart-coverage.md").write_text("\n".join(lines), encoding="utf-8")
     print(f"Coverage geschrieben: {ok}/{len(plugins)} Plugins")

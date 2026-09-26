@@ -259,6 +259,10 @@ def plugin_detail_page(name: str, skills: list[str], version: str) -> str:
         "- **Volle Skill-Tiefe:** das Sammel-ZIP `alle-skills-markdown.zip` herunterladen und entpacken. Es enthält neben jeder `SKILL.md` auch deren Markdown-Referenzen; beim manuellen Einsatz die benötigten Dateien gemeinsam bereitstellen.",
         "- **Einzelnen Skill laden:** in der Tabelle auf den Skillnamen oder auf `MD herunterladen` klicken. Beide Wege speichern dieselbe Markdown-Datei.",
         "",
+        *([
+            "Für Bauwirtschaft sind alle 29 Skills unmittelbar installiert. Die [HOAI-Phasenübersicht](../docs/bauwirtschaft-hoai-phasen.md) ordnet neun zusätzliche große Markdown-Werkstätten und neun eigene Schulungsakten den Leistungsphasen zu. Für eine Einzelrechnung genügt weiterhin der Rechnungs-Skill; für einen vollständigen Phasenauftrag den jeweiligen HOAI-Skill wählen.",
+            "",
+        ] if name == "bauwirtschaft" else []),
         "## Skills in diesem Plugin",
         "",
         "| Skill | Beschreibung | Markdown-Datei |",

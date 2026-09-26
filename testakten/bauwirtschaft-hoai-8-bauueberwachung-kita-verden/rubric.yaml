@@ -1,0 +1,113 @@
+name: bauwirtschaft-hoai-8-bauueberwachung-kita-verden
+plugin: bauwirtschaft
+description: 'Erweiterung einer Kita mit verspätem Detailversand, konkret protokollierter
+  Ortskontrolle, verdecktem Türanschluss, gemeinsamem geometrischem Aufmaß, kumulativer
+  Schlussrechnung und nur teilweise bestätigtem Nachtrag. Präzises Übungsgebiet: tatsächliche
+  Bauüberwachung mit Erkenntnisgrenzen, Mengen-/Kostenabgleich, Abnahmevorbehalte,
+  Übergabe und Nachkontrolle der Abnahmemängel.'
+checks:
+- id: vorort
+  check_type: human_review
+  description: Tatsächliche Beobachter, Planversand und verdeckte Bereiche unterscheiden.
+    Aus dem nachgereichten Plan oder der Fertigmeldung keine eigene Ortskontrolle
+    oder vollständige Anschlussfreigabe erzeugen.
+- id: mengen
+  check_type: human_review
+  description: 216 m² aus 18 mal 12 geometrisch prüfen; sechs Meter Zusatzanschluss
+    nicht als zusätzliche Fläche übernehmen. Vertragsbasis 36986 EUR netto, bestätigtes
+    N1 900 EUR netto und nicht bestätigtes N2 980 EUR auseinanderhalten.
+- id: rechnung
+  check_type: human_review
+  description: Unternehmerforderung 39640 EUR netto mit geometrischer Basis abgleichen.
+    Tatsächlich gezahlte 29750 EUR brutto nur einmal abziehen; Rechnungskorrektur
+    und mangelsbezogenen Einbehalt getrennt prüfen.
+- id: abnahme
+  check_type: human_review
+  description: Abnahme 30.07. mit M-01/M-02 von Übergabe 14.08. trennen. Nachkontrolle
+    bestätigt nur M-02; M-01 bleibt hinter dem Türfuß ungeprüft. Abnahmemängel bleiben
+    LPH-8-Beseitigungsüberwachung.
+- id: kosten
+  check_type: human_review
+  description: Projektjournal enthält Eingangsrechnungen und Vertragswerte, keine
+    fertige Kostenfeststellung. Gebäudeabschluss nicht allein aus Dachrechnung erklären;
+    Planerleistung, Gebühren und andere Gewerke getrennt führen.
+- id: original-01
+  check_type: file_exists
+  path: 01_Objektueberwachungsvertrag.docx
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-02
+  check_type: file_exists
+  path: 02_Dachbauvertrag.docx
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-03
+  check_type: file_exists
+  path: 03_Detail_D21_C.png
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-04
+  check_type: file_exists
+  path: 04_Planversand.eml
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-05
+  check_type: file_exists
+  path: 05_Bautagebuch.csv
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-06
+  check_type: file_exists
+  path: 06_Kontrollprotokoll.docx
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-07
+  check_type: file_exists
+  path: 07_Gemeinsames_Aufmass.pdf
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-08
+  check_type: file_exists
+  path: 08_Schlussrechnung_AD26081.pdf
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-09
+  check_type: file_exists
+  path: 09_Nachtragsangebot_N1_N2.pdf
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-10
+  check_type: file_exists
+  path: 10_Teilbeauftragung.eml
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-11
+  check_type: file_exists
+  path: 11_Zahlungsjournal.csv
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-12
+  check_type: file_exists
+  path: 12_Kostenjournal.xlsx
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-13
+  check_type: file_exists
+  path: 13_Balkenterminplan.png
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-14
+  check_type: file_exists
+  path: 14_Abnahme_Dach.pdf
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-15
+  check_type: file_exists
+  path: 15_Fertigmeldung.eml
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-16
+  check_type: file_exists
+  path: 16_Nachkontrolle.pdf
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-17
+  check_type: file_exists
+  path: 17_Objektuebergabe.docx
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-18
+  check_type: file_exists
+  path: 18_Fristenuebernahme.txt
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-19
+  check_type: file_exists
+  path: 19_Fachbeitrag_Pruefung.pdf
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-20
+  check_type: file_exists
+  path: 20_Bauherrin_Schlussstand.eml
+  description: Eigenständige Originalunterlage vorhanden.

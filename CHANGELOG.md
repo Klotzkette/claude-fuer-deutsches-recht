@@ -1,3 +1,17 @@
+# v445.6.0 - Neun eigenständige HOAI-Phasenpakete
+
+## 1. Phasenbezogene Bearbeitung im Bauwirtschaft-Plugin
+
+Die bisherigen zwanzig Arbeitswege bleiben erhalten. Neun zusätzliche Skills bearbeiten die Leistungsphasen 1 bis 9 für Gebäude und Innenräume jeweils eigenständig: vom Planungsauftrag über Entwurf, Genehmigung und Leistungsverzeichnis bis zu Vergabe, Objektüberwachung und Objektbetreuung. Ein gezielter Einzelauftrag bleibt beim passenden bisherigen Skill; ein Phasenauftrag lädt nicht sämtliche großen Werkstätten.
+
+Neun individuell geschriebene Werkstatt-Prompts stehen daneben als einzelne Markdown-Downloads bereit. Sie verbinden vorhandene Belege, erforderliche Rückfragen, Entscheidungszweige, konkrete Arbeitsprodukte und deren Fortschreibung. Vertraglicher Auftrag, Grundleistungen, Besondere Leistungen, technische Fachprüfung und Entscheidungsbefugnisse bleiben getrennt. Die Grenzen zwischen den Phasen 8 und 9 sowie zwischen Gebäude- und Innenraum-Honoraransätzen sind ausdrücklich erläutert.
+
+## 2. Neun eigene Projektakten und klare Downloads
+
+Kulturhof Detmold, Kita Bad Pyrmont, Ärztehaus Stadthagen, Werkhof Celle, Schule Hameln, Sporthalle Peine, Bibliothek Melle, Kita Verden und Rathaus Uelzen bilden jeweils eine andere Phase ab. Ihre Übersichten benennen die Leistungsphase und erschließen die Originalunterlagen, das Gesamt-PDF und das flache Einzel-PDF-ZIP. Bearbeitbare Tabellen, Korrespondenz, Planausschnitte und förmliche Schreiben liefern Projektbelege ohne vorgegebene Musterlösung. Die vier bisherigen Bauwirtschaftsakten bleiben zusätzlich verfügbar.
+
+Plugin-README, Phasenübersicht, Skillregister, Promptverzeichnis, Aktenkatalog und Download-Index werden gemeinsam fortgeschrieben. Die zusätzlichen Werkstätten sind keine versteckten Wrapper-Skills und gehören nicht in das installierbare Plugin-ZIP. Regressionsprüfungen sichern die 29 Skills, neun Phasenzuordnungen und dreizehn Akten sowie die Konsistenz der veröffentlichten Varianten. Strukturprüfung und redaktionelle Prüffälle ersetzen keine Live-Zertifizierung fremder Clients oder technische Freigaben am Bau.
+
 # v445.5.0 - Notariatsabläufe und vollständige Werkstatt-Prompts
 
 Das Notariats-Plugin führt Rückfragen zu vollständigen Folgeentwürfen weiter. Zwölf Fachskills sind vertieft, insbesondere Gründungsvollmacht, Geschäftsführeranmeldung, Gesellschafterliste, Auflassung, Genehmigung, Umwandlung, Verwahrung, Kostenübergang und Vorsorge. Vier BGH-Entscheidungen sind mit amtlicher Quelle und präziser Anwendungsgrenze dokumentiert. Der Mini deckt die zentralen Arbeitsgebiete innerhalb von 7500 Bytes ab; sechs neue Evaluationsfälle beschreiben die erwarteten Ergebnisse.
