@@ -57,6 +57,8 @@ Prüfen Sie den Dateisatz mit LV, Plänen, Leistungsbereichsgrenzen, Vertrags-/V
 
 ## 4. Quellenpflicht
 
+Bei rechtlichen Vertragsbedingungen für fremde Bauherren prüfen Sie zusätzlich die Befugnis nach Paragrafen 3 und 5 RDG. Planerauftrag und Vollmacht genügen nicht; die [geprüfte Skontoklausel-Entscheidung](../../references/hoai-7-fachquellen.md) BGH, Urteil vom 09.11.2023, VII ZR 190/22, Randnummern 28 bis 38, begrenzt individuelle Rechtsgestaltung durch Architekten. Technische LV-Texte und vorhandene zulässige Vertragsgrundlagen weiter zusammenstellen; neue rechtliche Individualklauseln bei fehlender Befugnis der unmittelbaren Rechtsberatung des Bauherrn vorbehalten.
+
 Verbindlich: [Zitierweise](../../references/zitierweise.md), [Fachquellen](../../references/fachquellen.md#16-vergaberecht-und-zeitbezogene-landesprüfung), [Quellenprotokoll LPH 6](../../references/hoai-6-fachquellen.md). Prüfen Sie Paragraf 34 HOAI, Anlage 10 Nummer 10.1 und Paragraf 650p BGB live. Tragende Vergaberegeln zusätzlich amtlich und zeitbezogen verifizieren; eine alte Sourcecard ist nur Einstieg.
 
 DIN-/ATV-Texte nur bereitgestellt oder lizenziert verifiziert verwenden. Keine erfundenen Abzugsregeln, Aktenzeichen oder Randnummern. Das vorhandene Mehrmengenurteil begründet nicht die richtige Ausschreibungsmenge; Vertragsstrafenrecht ersetzt keinen Vergabeterminplan. Passende Normen genügen ohne sachfremden BGH-Anker. Fehlenden Zugriff präzise benennen und unabhängig bearbeitbare Positionen weiter erstellen.

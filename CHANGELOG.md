@@ -1,3 +1,15 @@
+# v445.6.1 - Vertragsgestaltung und Vergabemitwirkung sauber abgrenzen
+
+## 1. Rechtsdienstleistungsbefugnis vor individuellen Klauseln
+
+Die Bauwirtschaft trennt eigene Angelegenheiten, anwaltliche Mandate und Planungsleistungen für fremde Bauherren. Eine Planervollmacht oder HOAI-Beauftragung ersetzt keine Befugnis nach Paragrafen 3 und 5 RDG. BGH, Urteil vom 09.11.2023, VII ZR 190/22, ist anhand der amtlichen Entscheidung gezielt ausgewertet: Die interessengerecht entworfene Skontoklausel des Architekten war keine erlaubte Nebenleistung. Ein lediglich als Erfüllungsgehilfe eingeschalteter Anwalt heilt die unerlaubte Verpflichtung nicht.
+
+Die Korrektur erfasst den Projektstart, den Bauvertragsworkflow, die Phasen 6 und 7 sowie ihre Werkstatt-, Mini- und Schwerpunkt-Prompts. Technische und wirtschaftliche Arbeiten werden weitergeführt. Bei fehlender Befugnis entsteht die konkrete Gestaltungsfrage für die unmittelbare Rechtsberatung des Bauherrn, nicht eine vermeintlich freigabefertige Individualklausel. Kein pauschales Verbot der Vergabemitwirkung.
+
+## 2. Prüfung und Veröffentlichung
+
+Ein gezielter Regressionstest und ein ergänzter Vergabe-Prüffall sichern die Rollenabgrenzung. Quellenstatus und Dateiprüfsummen sind nachgeführt. Die neun Phasenpakete mit 29 Skills und dreizehn Bauwirtschaftsakten bleiben vollständig erhalten. Das Tag v445.6.0 bleibt unverändert; dessen Veröffentlichung wurde vor Bereitstellung der Release-Dateien angehalten. v445.6.1 liefert den korrigierten Gesamtstand aus.
+
 # v445.6.0 - Neun eigenständige HOAI-Phasenpakete
 
 ## 1. Phasenbezogene Bearbeitung im Bauwirtschaft-Plugin

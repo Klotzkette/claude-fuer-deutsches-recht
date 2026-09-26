@@ -47,6 +47,39 @@ def script_module(name):
 
 
 class BauwirtschaftTests(unittest.TestCase):
+    def test_contract_work_checks_legal_authority_without_stopping_technical_work(self):
+        paths = (
+            "bauwirtschaft-werkstatt.md",
+            "bauwirtschaft-hoai-6-werkstatt.md",
+            "bauwirtschaft-hoai-7-werkstatt.md",
+            "skills/bauvertrag-und-schnittstellen-ausformulieren/SKILL.md",
+            "skills/hoai-6-leistungsverzeichnis-und-vergabeunterlagen-erstellen/SKILL.md",
+            "skills/hoai-7-angebote-werten-und-vergabe-vorbereiten/SKILL.md",
+        )
+        for name in paths:
+            with self.subTest(path=name):
+                text = (ROOT / PLUGIN / name).read_text()
+                self.assertIn("Paragrafen 3 und 5 RDG", text)
+                self.assertIn("VII ZR 190/22", text)
+                self.assertIn("Befugnis", text)
+                self.assertRegex(text, r"[Tt]echnische")
+                if not name.startswith("skills/hoai-6-"):
+                    self.assertRegex(text, r"Erfüllungsgehilfe[ns]?")
+        source = (ROOT / PLUGIN / "references/hoai-7-fachquellen.md").read_text()
+        self.assertIn("09.11.2023", source)
+        self.assertIn("VII_ZR_190-22.pdf", source)
+        self.assertIn("Keine pauschale Untersagung", source)
+        for name in ("bauwirtschaft-schnellstart.md", "bauwirtschaft-hauptproblem.md"):
+            text = (ROOT / PLUGIN / name).read_text()
+            self.assertIn("Paragrafen 3 und 5 RDG", text)
+            self.assertIn("fremde Bauherren", text)
+        profile = load(ROOT / "quality/evals/bauwirtschaft.json")
+        case = next(case for case in profile["cases"]
+                    if case["id"] == "hoai-7-preisspiegel-nicht-automatisch-zuschlag")
+        self.assertIn("Skontoklausel", case["request"])
+        self.assertEqual(case["criteria"][-1]["id"], "C05")
+        self.assertIn("Erfüllungsgehilfe", case["criteria"][-1]["text"])
+
     def test_case_download_headings_stay_decimal_after_regeneration(self):
         injector = script_module("inject-gesamt-pdf-section")
         for slug in sorted(CASES):

@@ -1,6 +1,6 @@
 # fachanwalt-verwaltungsrecht
 
-**80 Skills** · Stand `v445.6.0`
+**80 Skills** · Stand `v445.6.1`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../fachanwalt-verwaltungsrecht/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

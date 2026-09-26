@@ -15,6 +15,12 @@ Autor: Klotzkette. Gezielter Abruf am 25.09.2026. Diese Datei ergänzt die unver
 
 ## 1.2. Offene Grenzen
 
-Auftraggeberstatus, Gesamtwert, historische Fassung, Landesrecht, Satzung und Förderbindung müssen fallbezogen geprüft werden. Keine vollständige VOB/A-2026- oder Landesrechtsprüfung behauptet. Keine neue Gerichtsentscheidung aufgenommen; die Leistungsabgrenzung trägt der verifizierte Normtext. Die allgemeinen Fachquellen sind Rechercheeinstiege, keine automatische Übernahme ihrer Rechtsprechungsanker. DIN-/ATV-Volltexte nicht frei rekonstruieren.
+Auftraggeberstatus, Gesamtwert, historische Fassung, Landesrecht, Satzung und Förderbindung müssen fallbezogen geprüft werden. Keine vollständige VOB/A-2026- oder Landesrechtsprüfung behauptet. Die allgemeinen Fachquellen sind Rechercheeinstiege, keine automatische Übernahme ihrer Rechtsprechungsanker. DIN-/ATV-Volltexte nicht frei rekonstruieren.
 
 Die Meller Akte enthält erfundene Vertrags- und Verfahrensunterlagen. Deren Aussagen sind Falltatsachen zur Prüfung, keine amtlichen Quellen zum geltenden Recht.
+
+## 1.3. Ergänzung zur Vertragsgestaltung am 26.09.2026
+
+[Paragraf 3 RDG](https://www.gesetze-im-internet.de/rdg/__3.html) und [Paragraf 5 RDG](https://www.gesetze-im-internet.de/rdg/__5.html) wurden im amtlichen Einzeltext gelesen. Eine Rechtsdienstleistung für fremde Bauherren benötigt eine gesetzliche Erlaubnis; die Nebenleistungsbefugnis ist nach Inhalt, Umfang, Sachzusammenhang und erforderlichen Rechtskenntnissen zu prüfen. Auftrag und Vollmacht sind davon zu unterscheiden.
+
+[BGH, Urteil vom 09.11.2023, VII ZR 190/22, ECLI:DE:BGH:2023:091123UVIIZR190.22.0](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2022/VII_ZR_190-22.pdf?__blob=publicationFile&v=1): Nach fehlgeschlagenem Webwerkzeug-Abruf direktes amtliches PDF mit 16 Seiten abgerufen; Rubrum, Leitsatz und Randnummern 25 bis 40 gelesen. Die Verpflichtung zur interessengerechten selbst entworfenen Skontoklausel war wegen Paragraf 3 RDG in Verbindung mit Paragraf 134 BGB nichtig. Randnummern 28 bis 31 begrenzen die Nebenleistung, 32 bis 37 verneinen einen Erlaubnistatbestand aus der damaligen HOAI, 38 behandelt den Rechtsanwalt als Erfüllungsgehilfen. Keine pauschale Untersagung jeder Vertragszusammenstellung oder baubegleitenden Rechtsfrage; rechtliche Individualgestaltung und technische Vergabemitwirkung unterscheiden. Gilt als gezielter Anker für LPH 6, LPH 7 und den Bauvertragsworkflow, nicht als Ersatz für eine aktuelle Einzelfallprüfung.
