@@ -1,0 +1,31 @@
+name: bauwirtschaft-hoai-1-grundlagen-kulturhof-detmold
+plugin: bauwirtschaft
+description: Gebäude-Grundlagenermittlung mit widersprüchlichen Nutzungsangaben, begrenzter Ortsbesichtigung und noch nicht beauftragten Untersuchungen.
+checks:
+  - id: originale
+    check_type: working_file_count
+    min: 16
+    description: Sechzehn eigenständige Originalunterlagen liegen vor.
+  - id: budgetdatei
+    check_type: file_exists
+    path: 12_2026-02-17_Untersuchungsbudget.xlsx
+    description: Rechnendes Untersuchungsbudget vorhanden.
+  - id: ortsbild
+    check_type: file_exists
+    path: 08_2026-02-12_Begehungsskizze.png
+    description: Tatsächliche räumliche Bilddarstellung vorhanden.
+  - id: auftragsabgrenzung
+    check_type: human_review
+    description: Den Abruf der Gebäude-Grundlagenermittlung von Raumprogramm, Bestandsaufnahme, Substanzerkundung und Folgephasen unterscheiden, ohne notwendige Beratung schematisch abzulehnen.
+  - id: bedarfsentscheidung
+    check_type: human_review
+    description: Bestätigte 120 Sitzplätze von unbestätigten 160 Stehplätzen trennen. Tageszählung des Wintermarkts nicht als gleichzeitige Belegung oder genehmigte Kapazität behandeln.
+  - id: ortsgrenzen
+    check_type: human_review
+    description: Später gefundener Schlüssel beweist keine erfolgte Dachbodenbesichtigung. Altplan, Erinnerungen und Beobachtungen sind unterschiedliche Belege; Ursache der Sockelverfärbung bleibt offen.
+  - id: untersuchungsentscheidung
+    check_type: human_review
+    description: Sichtungsangebot nicht zur Bestandsstatik erweitern, Materialangebot mit sechs Proben und Zugangsgrenzen lesen. 8068.20 EUR brutto sind zusammengestellte Angebote und Ansätze, keine Bestellung.
+  - id: arbeitsprodukt
+    check_type: human_review
+    description: Vollständige Planungsgrundlage und konkrete Fachplanerentscheidungshilfe liefern, entscheidende Rückfragen stellen und nach Antwort denselben Stand fortführen. Keine technische Freigabe oder Außenhandlung behaupten.

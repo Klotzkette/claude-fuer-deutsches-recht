@@ -17,6 +17,7 @@ from openpyxl import load_workbook
 from pypdf import PdfReader
 
 from testakte_file_filter import META_EXACT_NAMES, include_in_working_dump
+from testakte_disclaimer import NOTICE_DE, NOTICE_EN
 
 
 REPO = Path(__file__).resolve().parent.parent
@@ -127,6 +128,11 @@ SYNTHETIC_EMAIL_PATTERN = re.compile(
     re.IGNORECASE,
 )
 BROKEN_ENCODING_MARKERS = ("\ufffd", "Ã", "Â", "â€", "ðŸ")
+RESERVED_CONTACT_MARKER = "<!-- reserved-example-contacts -->"
+RESERVED_DOMAIN = re.compile(
+    r"(?<![a-z0-9.-])(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?[.])+example"
+    r"(?![a-z0-9.-])", re.IGNORECASE,
+)
 REMOVED_AGGREGATES = {
     "arbeitsrecht-kuendigungsdrama-koerber-werk/03_arbeitsvertrag_at_koerber_2012.docx",
     "arbeitsrecht-kuendigungsdrama-koerber-werk/04_organigramm_und_stellenbeschreibung.docx",
@@ -326,6 +332,43 @@ def pdf_is_a4(path: Path) -> bool:
     return True
 
 
+def is_technical_drawing(path: Path) -> bool:
+    """Eine Typangabe allein darf kurze Briefe nicht von der Prüfung ausnehmen."""
+    reader = PdfReader(path)
+    if not reader.metadata or reader.metadata.get("/Subject") != "Technische Bauzeichnung":
+        return False
+    if not reader.pages:
+        return False
+    for page in reader.pages:
+        width, height = sorted((float(page.mediabox.width), float(page.mediabox.height)))
+        if not any(abs(width - w) < 8 and abs(height - h) < 8
+                   for w, h in ((595.28, 841.89), (841.89, 1190.55))):
+            return False
+        content = page.get_contents()
+        if content is None:
+            return False
+        paths = sum(op in {b"m", b"l", b"re", b"c"} for _, op in content.operations)
+        painted = sum(op in {b"S", b"s", b"f", b"f*", b"B", b"B*", b"b", b"b*"}
+                      for _, op in content.operations)
+        if paths < 20 or painted < 10 or len((page.extract_text() or "").strip()) < 250:
+            return False
+    return True
+
+
+def has_unexplained_synthetic_contact(text: str, path: Path) -> bool:
+    """Reservierte Kontakte nur in ausdrücklich gekennzeichneten Akten zulassen."""
+    if not SYNTHETIC_EMAIL_PATTERN.search(text):
+        return False
+    if path.is_relative_to(TESTAKTEN):
+        relative = path.relative_to(TESTAKTEN)
+        readme = TESTAKTEN / relative.parts[0] / "README.md"
+        if readme.is_file():
+            notice = readme.read_text(encoding="utf-8")
+            if all(item in notice for item in (RESERVED_CONTACT_MARKER, NOTICE_DE, NOTICE_EN)):
+                text = RESERVED_DOMAIN.sub("kontakt.invalidiert", text)
+    return bool(SYNTHETIC_EMAIL_PATTERN.search(text))
+
+
 def export_text(path: Path) -> str:
     suffix = path.suffix.lower()
     if suffix == ".docx":
@@ -376,7 +419,7 @@ def eml_quality_errors(path: Path) -> list[str]:
     for header in ("From", "To", "Date", "Subject", "Message-ID"):
         if not message.get(header):
             errors.append(f"{label}: E-Mail-Header {header} fehlt")
-    if SYNTHETIC_EMAIL_PATTERN.search(decoded_raw):
+    if has_unexplained_synthetic_contact(decoded_raw, path):
         errors.append(f"{label}: künstliche E-Mail-Domain vorhanden")
     if re.search(r"[^\x00-\x7f]", decoded_raw):
         if not message.get("MIME-Version"):
@@ -435,7 +478,7 @@ def main() -> int:
             except Exception as exc:
                 errors.append(f"{path.relative_to(REPO)}: Exportquelle nicht lesbar: {exc}")
                 continue
-            if SYNTHETIC_EMAIL_PATTERN.search(text):
+            if has_unexplained_synthetic_contact(text, path):
                 errors.append(
                     f"{path.relative_to(REPO)}: künstliche E-Mail-Domain vorhanden"
                 )
@@ -534,6 +577,7 @@ def main() -> int:
                 continue
             checked_files += 1
             language = ""
+            technical_drawing = False
             try:
                 if path.suffix.lower() == ".docx":
                     document = Document(path)
@@ -547,14 +591,15 @@ def main() -> int:
                     text = eml_text(path)
                 else:
                     text = pdf_text(path)
-                    if not pdf_is_a4(path):
+                    technical_drawing = is_technical_drawing(path)
+                    if not technical_drawing and not pdf_is_a4(path):
                         errors.append(f"{path.relative_to(REPO)}: kein A4-Format")
             except Exception as exc:
                 errors.append(f"{path.relative_to(REPO)}: nicht lesbar: {exc}")
                 continue
 
             cleaned = text.strip()
-            if len(cleaned) < MIN_FORMAL_TEXT:
+            if len(cleaned) < (250 if technical_drawing else MIN_FORMAL_TEXT):
                 errors.append(
                     f"{path.relative_to(REPO)}: nur {len(cleaned)} Textzeichen"
                 )

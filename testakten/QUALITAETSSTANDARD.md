@@ -46,6 +46,8 @@ Im Akten-ZIP und im Einzel-PDF-ZIP beginnt die UTF-8-kodierte `README.txt` mit d
 
 ## Technische Qualität
 
+- Technische Bauzeichnungen dürfen A3 verwenden. Die PDF-Metadaten nennen als Betreff `Technische Bauzeichnung`; die Dokumentprüfung verlangt zusätzlich beschriftete, tatsächlich gezeichnete Geometrie. Die A4- und Umfangsprüfung für Briefe bleibt unverändert. Die zeichnerische Richtigkeit und Lesbarkeit werden zusätzlich visuell geprüft.
+- Neu erfundene Kontaktadressen dürfen reservierte `.example`-Domains verwenden, damit Nachrichten nicht versehentlich an wirkliche Dritte gehen. Die Akten-README erklärt dies neben dem Herkunftshinweis und setzt den Prüfmarker `<!-- reserved-example-contacts -->`. Der Marker ersetzt weder den zweisprachigen Warntext noch die Prüfung von Inhalt, Zeichensatz und E-Mail-Headern; andere künstliche Domains werden dadurch nicht freigegeben.
 - Gesamt-PDF ohne offensichtlichen Textüberlauf, mit lesbarem Cover und Dateiabschnitten.
 - Umlaute und ß in menschlichem Text verwenden.
 - Einzeldateien sinnvoll benennen, aber nicht steril. Ein Aktenstück bildet genau ein Dokument ab; mehrere Schreiben dürfen nicht als Sammeldokument in einer Einzel-PDF zusammengezogen werden.

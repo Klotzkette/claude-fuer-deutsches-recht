@@ -1,0 +1,31 @@
+name: bauwirtschaft-hoai-3-entwurf-aerztehaus-stadthagen
+plugin: bauwirtschaft
+description: Integrierter Gebäudeentwurf mit konkret gezeichnetem Schachtkonflikt, zwei rechnenden Dateien und späterem unbestätigtem Betreiberwunsch.
+checks:
+  - id: originale
+    check_type: working_file_count
+    min: 16
+    description: Sechzehn Originalunterlagen liegen vor.
+  - id: kostenberechnung
+    check_type: file_exists
+    path: 11_2026-06-08_Kostenberechnung.xlsx
+    description: Mengen- und ansatzbezogene Kostenberechnung mit Formeln vorhanden.
+  - id: terminrechnung
+    check_type: file_exists
+    path: 14_2026-06-10_Terminfortschreibung.xlsx
+    description: Abhängige Datumsformeln und Zielterminabstand vorhanden.
+  - id: planintegration
+    check_type: human_review
+    description: E-03, T-02 und L-04 anhand ihrer tatsächlichen Geometrie abgleichen. K-07 ist keine bestätigte Durchdringung. Versand und Dateiexistenz beweisen keine Integration oder Freigabe.
+  - id: kostenscope
+    check_type: human_review
+    description: 2806800 EUR netto gegenüber 2780000 EUR netto überleiten. TGA 690000 und Aufzug 48000 nicht doppelt zählen. Unbekannte Tragwerksfolge und Gebühren nicht als Null oder pauschal gedeckt ausgeben.
+  - id: termine
+    check_type: human_review
+    description: Kalenderdauer und exklusives Ende lesen. Ausgangsstand ergibt sechs Tage nach Zieltermin; offene Fachbearbeitung und angenommene Behördenzeit nicht als zugesicherte Dauer behandeln.
+  - id: betreiberzweig
+    check_type: human_review
+    description: Eingriffsbereich aus Nachricht 15 ist eine neue unbestätigte Möglichkeit. Keine medizinische Eignung und keinen Zusatzauftrag aus der Bitte um Prüfung ableiten.
+  - id: endprodukt
+    check_type: human_review
+    description: Vollständige Entwurfsentscheidung mit konkreter Fachanfrage und Kosten-/Terminfolgen liefern. Nach Antworten K-07 und denselben Planstand fortführen, keine technische oder externe Freigabe ohne Befugnis.

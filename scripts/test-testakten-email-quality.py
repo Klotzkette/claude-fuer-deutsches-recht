@@ -7,6 +7,10 @@ import importlib.util
 import sys
 import tempfile
 from pathlib import Path
+from unittest.mock import patch
+
+from reportlab.pdfgen import canvas
+from reportlab.lib.pagesizes import A3, A4, A5
 
 
 SCRIPT = Path(__file__).resolve().parent / "validate-testakten-dokumentqualitaet.py"
@@ -141,6 +145,44 @@ def main() -> int:
             ),
             "offensichtliche Example-Adresse muss auffallen",
         )
+
+        case = root / "akten" / "bauvorhaben"
+        case.mkdir(parents=True)
+        contact = case / "rueckfrage.eml"
+        contact.write_text(valid.read_text(encoding="utf-8").replace(
+            "falkenried-recht.de", "planungsbuero.example"), encoding="utf-8")
+        readme = case / "README.md"
+        with patch.object(V, "TESTAKTEN", case.parent):
+            require(bool(V.eml_quality_errors(contact)), "ohne Herkunftsnachweis bleibt die Domain gesperrt")
+            readme.write_text(V.RESERVED_CONTACT_MARKER, encoding="utf-8")
+            require(bool(V.eml_quality_errors(contact)), "Marker allein genügt nicht")
+            readme.write_text("\n".join((V.RESERVED_CONTACT_MARKER, V.NOTICE_DE, V.NOTICE_EN)), encoding="utf-8")
+            require(not V.eml_quality_errors(contact), "deklarierte reservierte Kontakte müssen bestehen")
+            for domain in ("example.de", "planungsbuero.local", "buero.example.de"):
+                require(V.has_unexplained_synthetic_contact("an info@" + domain, contact), "keine pauschale Domain-Freigabe")
+            require(not V.has_unexplained_synthetic_contact("https://portal.planung.example/akten", contact), "echte reservierte Subdomain")
+            contact.write_text(contact.read_text(encoding="utf-8").replace("MIME-Version: 1.0\n", ""), encoding="utf-8")
+            require(any("MIME-Version" in error for error in V.eml_quality_errors(contact)), "Herkunftsmarker darf MIME-Prüfung nicht abschalten")
+
+        for name, size, subject, draw, text_count, expected in (
+            ("plan", A3, "Technische Bauzeichnung", True, 12, True),
+            ("plan-a4", A4, "Technische Bauzeichnung", True, 12, True),
+            ("brief", A3, "Brief", True, 12, False),
+            ("falsch-deklariert", A3, "Technische Bauzeichnung", False, 12, False),
+            ("unbeschriftet", A3, "Technische Bauzeichnung", True, 0, False),
+            ("falsches-format", A5, "Technische Bauzeichnung", True, 12, False),
+        ):
+            pdf = root / (name + ".pdf")
+            document = canvas.Canvas(str(pdf), pagesize=size)
+            document.setSubject(subject)
+            if draw:
+                for index in range(25):
+                    document.rect(25 + index * 5, 40 + index * 5, 100, 100)
+            for index in range(text_count):
+                document.drawString(25, 200 + index * 12, f"Achse {index}: lichte Breite 2400 mm, Planstand 12.09.2026")
+            document.showPage()
+            document.save()
+            require(V.is_technical_drawing(pdf) == expected, f"Zeichnungsprüfung: {name}")
 
     english = "The gross salary includes no compensation for gross negligence."
     path = Path("employment.docx")

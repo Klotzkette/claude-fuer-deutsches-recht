@@ -15,11 +15,25 @@ sys.path.insert(0, str(REPO / "scripts"))
 from themen_profile import EXACT_PROFILE_KEYS, profile_for  # noqa: E402
 from quality_lab import load, validate_profile
 from prompt_limits import MAX_WORKSHOP_BYTES, MAX_MINI_BYTES
+from bauwirtschaft_hoai import PHASEN, werkstatt_path
+
+
+def expected_prompt_files(slug: str, plugin_dir: Path) -> dict[str, Path]:
+    expected = {
+        "werkstatt": plugin_dir / f"{slug}-werkstatt.md",
+        "schnellstart": plugin_dir / f"{slug}-schnellstart.md",
+    }
+    if slug == "bauwirtschaft":
+        expected.update({
+            f"werkstatt-{phase}": plugin_dir / Path(werkstatt_path(phase)).name
+            for phase, *_ in PHASEN
+        })
+    return expected
 
 
 CRITICAL_ROUTES = dict(EXACT_PROFILE_KEYS)
 # Fachlich begrenzte Routensätze ohne zusätzliche Füllrouten.
-EXPECTED_ROUTE_COUNTS = {"arbeitszeugnisgenerator": 9, "notariat-alltag": 10, "schadensregulierung": 10, "grundsteuerrecht": 10, "zugewinnausgleich": 10, "strassennutzung-genehmigungen": 10, "vertragserstellung": 10, "wirtschaftsanwalt": 10, "bauwirtschaft": 20}
+EXPECTED_ROUTE_COUNTS = {"arbeitszeugnisgenerator": 9, "notariat-alltag": 10, "schadensregulierung": 10, "grundsteuerrecht": 10, "zugewinnausgleich": 10, "strassennutzung-genehmigungen": 10, "vertragserstellung": 10, "wirtschaftsanwalt": 10, "bauwirtschaft": 29}
 
 PROMPT_ASSERTIONS: dict[str, dict[str, tuple[str, ...]]] = {
     "grosskanzlei-corporate-ma": {
@@ -480,10 +494,7 @@ def main() -> int:
                 f"{slug}: Fachroute {profile.key!r}, erwartet {expected_route!r}"
             )
 
-        expected = {
-            "werkstatt": plugin_dir / f"{slug}-werkstatt.md",
-            "schnellstart": plugin_dir / f"{slug}-schnellstart.md",
-        }
+        expected = expected_prompt_files(slug, plugin_dir)
         actual = set(plugin_dir.glob("*-werkstatt.md")) | set(
             plugin_dir.glob("*-schnellstart.md")
         )
@@ -492,7 +503,8 @@ def main() -> int:
             for path in sorted(extras):
                 problems.append(f"{path.relative_to(REPO)}: verwaister Prompt-Dateiname")
 
-        for kind, path in expected.items():
+        for label, path in expected.items():
+            kind = "werkstatt" if label.startswith("werkstatt") else label
             checked_files += 1
             if not path.exists():
                 problems.append(f"{path.relative_to(REPO)}: fehlt")
@@ -779,7 +791,8 @@ def main() -> int:
 
     problems.extend(source_anchor_problems())
 
-    expected_file_count = len(plugins) * 2
+    expected_file_count = sum(len(expected_prompt_files(slug, directory))
+                              for slug, directory, _ in plugins)
     if checked_files != expected_file_count:
         problems.append(
             f"Prompt-Zählung abweichend: {checked_files} statt {expected_file_count}"

@@ -1,6 +1,6 @@
 # 1. KI-Workshop Bauwirtschaft
 
-Vier Akten verbinden Planung, Bauausführung, Vergabe und kaufmännische Arbeit. Das Plugin **Bauwirtschaft** enthält 20 ausführende Skills. Die Werkstatt und der kompakte Mini-/Schnellstart-Prompt sind eigenständige Markdown-Dateien. Die Testakten werden separat bereitgestellt.
+Vier übergreifende Akten verbinden Planung, Bauausführung, Vergabe und kaufmännische Arbeit. Hinzu kommen [neun eigenständige Phasenakten](bauwirtschaft-hoai-phasen.md), jeweils mit einem HOAI-Phasenskill und einer eigenen großen Werkstatt. Das Plugin Bauwirtschaft enthält 29 ausführende Skills. Werkstatt, Schwerpunkt, Mini-/Schnellstart-Prompt und die neun Phasen-Werkstätten sind eigenständige Markdown-Dateien. Die Testakten werden separat bereitgestellt.
 
 ## 1.1. Vorbereitung
 

@@ -127,29 +127,40 @@ PLUGIN_GROUPS = {
             "projektziele-und-entscheidungsrahmen-festlegen",
             "projektbericht-und-entscheidungsvorlage-erstellen",
         ]),
-        ("2. Planung und Bauablauf", [
+        ("2. HOAI-Leistungsphasen für Gebäude und Innenräume", [
+            "hoai-1-grundlagen-und-planungsauftrag-klaeren",
+            "hoai-2-vorplanung-und-varianten-entwickeln",
+            "hoai-3-entwurf-und-kostenberechnung-abstimmen",
+            "hoai-4-genehmigungsplanung-und-nachforderungen-bearbeiten",
+            "hoai-5-ausfuehrungsplanung-und-details-koordinieren",
+            "hoai-6-leistungsverzeichnis-und-vergabeunterlagen-erstellen",
+            "hoai-7-angebote-werten-und-vergabe-vorbereiten",
+            "hoai-8-bauueberwachung-und-dokumentation-fuehren",
+            "hoai-9-objektbetreuung-und-maengelverfolgung-organisieren",
+        ]),
+        ("3. Phasenübergreifende Planung und Bauablauf", [
             "hoai-phasen-und-planstaende-abgleichen",
             "bauablauf-und-terminplan-fortschreiben",
         ]),
-        ("3. Vergabe und Angebote", [
+        ("4. Vergabe und Angebote", [
             "vergabe-und-losbildung-vorbereiten",
             "leistungsverzeichnis-erstellen-und-pruefen",
             "bauangebote-werten-und-vergabevorschlag-erstellen",
             "bieterfragen-und-ruegen-bearbeiten",
         ]),
-        ("4. Bauvertrag und Ausführung", [
+        ("5. Bauvertrag und Ausführung", [
             "bauvertrag-und-schnittstellen-ausformulieren",
             "bautagebuch-und-aufmass-fuehren",
             "behinderung-und-bauzeitfolgen-dokumentieren",
             "nachtraege-pruefen-und-vereinbaren",
         ]),
-        ("5. Kaufmännische Steuerung", [
+        ("6. Kaufmännische Steuerung", [
             "baubudget-und-kostenprognose-fortschreiben",
             "projektliquiditaet-und-zahlungsplan-erstellen",
             "baurechnungen-pruefen-und-zahlung-vorbereiten",
             "baubuchhaltung-und-belege-abgleichen",
         ]),
-        ("6. Abnahme, Sicherheiten und Übergabe", [
+        ("7. Abnahme, Sicherheiten und Übergabe", [
             "maengel-und-abnahme-bearbeiten",
             "nachunternehmer-und-sicherheiten-steuern",
             "uebergabe-und-gewaehrleistung-organisieren",

@@ -29,6 +29,8 @@ Ermittle die nächste tatsächlich benötigte Entscheidung und erledige sie hier
 
 ### 3.4. Widerspruch gezielt klären und weiterarbeiten
 
+Ist ausdrücklich ein vollständiger HOAI-Phasenauftrag für Gebäude oder Innenräume bestellt, wähle genau den zugehörigen [Phasenskill](../../references/hoai-phasenpakete.md). Ein enger Rechnungs-, Nachtrags- oder Terminauftrag bleibt beim jeweiligen Fachskill. Übernimm geklärte Angaben und das bisherige Dokument; lade weder sämtliche Phasen noch deren große Werkstätten vorsorglich.
+
 Formuliere die eine Entscheidung, die den nächsten Schritt verändert: etwa ob die geänderte Hallenöffnung tatsächlich freigegeben wurde. Arbeite unabhängige Tabellenzeilen und Textteile fertig. Nach Antwort ändere denselben Stand, verknüpfe betroffene Kosten und Termine und erhalte die alte Grundlage in der Änderungsspur. Keine erneute Bestandsaufnahme und kein Neustart nach jedem Beleg. Lade einen passenden Geschwisterskill nur für einen konkreten Engpass; seine Bearbeitung fließt in dieses Ergebnis ein.
 
 ### 3.5. Arbeitsprodukt abschließen

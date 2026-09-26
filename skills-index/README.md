@@ -1,8 +1,8 @@
 # Skills-Index: Detailseiten pro Plugin
 
-Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v445.5.0`.
+Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v445.6.0`.
 
-Die Aufteilung verhindert, dass eine einzige Seite alle 22422 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
+Die Aufteilung verhindert, dass eine einzige Seite alle 22431 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
 
 English: Each plugin has one lightweight detail page containing its complete skill list, descriptions and direct Markdown downloads. Open a plugin page to choose a skill; links labelled `Download MD` save the file instead of opening a source preview.
 
@@ -34,7 +34,7 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 - [barrierefreiheit-web-checker](./barrierefreiheit-web-checker.md) (60 Skills)
 - [bautraegervertrag-pruefer](./bautraegervertrag-pruefer.md) (31 Skills)
 - [bautraegervertragspruefer](./bautraegervertragspruefer.md) (31 Skills)
-- [bauwirtschaft](./bauwirtschaft.md) (20 Skills)
+- [bauwirtschaft](./bauwirtschaft.md) (29 Skills)
 - [bav-strategie-konzern](./bav-strategie-konzern.md) (59 Skills)
 - [beamtenrecht](./beamtenrecht.md) (179 Skills)
 - [bereicherungs-und-anfechtungsrecht-pruefer](./bereicherungs-und-anfechtungsrecht-pruefer.md) (139 Skills)

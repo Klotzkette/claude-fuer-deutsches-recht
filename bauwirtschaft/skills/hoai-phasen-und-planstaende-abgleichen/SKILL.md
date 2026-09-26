@@ -11,6 +11,8 @@ Erstelle den vertraglichen Soll-Ist-Abgleich für Gebäudeplanung und den nutzba
 
 ## 2. Eingaben
 
+Dieser Skill gleicht Leistungen und Planstände phasenübergreifend ab. Soll stattdessen eine bestimmte Leistungsphase vollständig bearbeitet werden, nutze den passenden [Phasenskill für Gebäude und Innenräume](../../references/hoai-phasenpakete.md) und übernimm den bereits geklärten Auftrag. Lade nur diese Phase; ein einzelner Rechnungs- oder Vergabeschritt erfordert keinen vollständigen Phasendurchlauf.
+
 Ohne Material frage nach Objektart, Planungsvertrag, beauftragten Phasen und benötigter Entscheidung. Bei Planordner ohne Auftrag prüfe Index, Vertrag und Protokolle intern und biete Planfreigabeliste oder Leistungsabgleich an. Bei klarer Frage zu einer Phase arbeite direkt daran. Benötigt werden Planidentifikation, Revision, Ersteller, Empfänger, Versand und Freigabestatus, nicht nur Dateienamen.
 
 ## 3. Ablauf / Checkliste

@@ -1,0 +1,5 @@
+﻿Buchungstag,Beleg,Kreditor,Soll_brutto_EUR,Ist_Zahlung_EUR,Status,Verwendungszweck
+2026-06-19,AD-26042,AD-12,17850.00,17850.00,ausgeführt,Abschlag 1 Dach
+2026-07-17,AD-26066,AD-12,11900.00,11900.00,ausgeführt,Abschlag 2 Dach
+2026-08-03,AD-26081,AD-12,17421.60,0.00,zur Prüfung,Schlussrechnung Dach
+2026-08-17,SR-Plan-06,RA-08,8330.00,8330.00,ausgeführt,Planung Abschlag; nicht Dachvertrag

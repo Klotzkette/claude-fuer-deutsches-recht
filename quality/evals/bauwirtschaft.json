@@ -11,7 +11,7 @@
     },
     {
       "url": "https://www.gesetze-im-internet.de/hoai_2013/__34.html",
-      "supports": "Einzeltext gelesen: Gebäudeleistungsbild mit neun Phasen, keine Gleichsetzung von Honoraranteil und tatsächlichem Leistungsstand.",
+      "supports": "Einzeltext gelesen: gemeinsames Leistungsbild Gebäude und Innenräume mit neun Phasen und teilweise unterschiedlichen Honoraranteilen. Die Phasenbewertung ist weder tatsächlicher Baufortschritt noch automatisch geschuldeter Leistungsumfang.",
       "checked_on": "2026-09-25"
     },
     {
@@ -128,6 +128,11 @@
       "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2019-8-8&Gericht=bgh&anz=10&nr=101195&pos=9",
       "supports": "Amtlicher Suchindex: Gericht, Datum, Aktenzeichen und Leitsätze zu BGH, Urteil vom 08.08.2019, VII ZR 34/18 verifiziert. Direkter Abruf HTTP 403; kein gelesener Volltext. Enger Mehrmengenanker nach Paragraf 2 Absatz 3 Nummer 2 VOB/B, nicht alle Nachtragsarten.",
       "checked_on": "2026-09-25"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__650p.html",
+      "supports": "Nach fehlgeschlagener Webdarstellung amtlichen Einzeltext direkt per HTTP gelesen: vereinbarte Planungs- und Überwachungsziele sowie Grundlagen- und Kosteneinschätzung bei noch offenen wesentlichen Zielen. Kein automatischer Auftrag allein durch Nennung einer HOAI-Phase.",
+      "checked_on": "2026-09-25"
     }
   ],
   "source_access_limits": [
@@ -136,7 +141,7 @@
     "EUR-Lex-Verordnung 2025/2152 nicht im Volltext lesbar; Schwellenwertabgleich anhand datierten Bundeserlasses.",
     "VOB/A-Änderungstext 2026, gesamtes Landesbau- und Landesvergaberecht, kommunale Satzungen, Förderbedingungen und technische DIN-/ATV-Volltexte nicht vollständig geprüft.",
     "Keine vollständige Prüfung historischer Honorarregime, steuerlicher Übergangsregeln oder sämtlicher Rechtsprechung bis zum Stichtag.",
-    "Keine Ausführung der Ergebnisfälle, keine Live-Modelltests, keine beobachtete Skill-Auswahl und keine bestandene Bearbeitung der vier Testakten behauptet."
+    "Keine Ausführung der Ergebnisfälle, keine Live-Modelltests, keine beobachtete Skill-Auswahl und keine bestandene Bearbeitung der dreizehn Testakten behauptet."
   ],
   "mini_review": {
     "reviewed_on": "2026-09-25",
@@ -169,7 +174,7 @@
     "reviewed_on": "2026-09-25",
     "method": "desk_review",
     "verdict": "revised",
-    "reason": "Projektstartprompt am unveränderten Hauptskill redaktionell gespiegelt: konkretes Produkt, drei Einstiege, belegte Fortschreibung und Entscheidung bleiben erhalten. HOAI-Kurzabgrenzung um Übergabe, Fristenliste, Abnahmemängel und eigene Buchhaltung ergänzt; keine Modellausführung.",
+    "reason": "Projektstartprompt am Hauptskill redaktionell gespiegelt: konkretes Produkt, drei Einstiege, belegte Fortschreibung und Entscheidung bleiben erhalten. Der Hauptskill übergibt vollständige Phasenaufträge gezielt an einen der neun neuen Phasenskills, ohne dessen große Werkstatt vorauszusetzen. Der eigenständige Schwerpunkt-Prompt bleibt unabhängig nutzbar; keine Modellausführung.",
     "changes": [
       "Drei Startlagen ohne vorgeschaltete Komplettinventur.",
       "920000 EUR plus bestätigte 18000 EUR Änderung als 938000 EUR Variante, ohne Beauftragung zu erfinden.",
@@ -180,7 +185,7 @@
     "prompt_path": "bauwirtschaft/bauwirtschaft-hauptproblem.md",
     "prompt_sha256": "9561f1f576fde268130f8bc4f198c330b72ccb82abe5d7f12a179e84243b879c",
     "skill_path": "bauwirtschaft/skills/bauprojekt-starten-und-arbeitsstand-fortfuehren/SKILL.md",
-    "skill_sha256": "8508c709fd67a30948bc36293bd9e3fe2ce48edcdb15d11065db2ad43fac1fe0"
+    "skill_sha256": "1d85a95104d223c9e2c94c820d472598a0af2167ff807778f5344a9c679307bf"
   },
   "prompt_editorial_review": {
     "date": "2026-09-25",
@@ -218,7 +223,7 @@
       "EUR-Lex-Verordnung 2025/2152 nicht im Volltext lesbar; Schwellenwertabgleich anhand datierten Bundeserlasses.",
       "VOB/A-Änderungstext 2026, gesamtes Landesbau- und Landesvergaberecht, kommunale Satzungen, Förderbedingungen und technische DIN-/ATV-Volltexte nicht vollständig geprüft.",
       "Keine vollständige Prüfung historischer Honorarregime, steuerlicher Übergangsregeln oder sämtlicher Rechtsprechung bis zum Stichtag.",
-      "Keine Ausführung der Ergebnisfälle, keine Live-Modelltests, keine beobachtete Skill-Auswahl und keine bestandene Bearbeitung der vier Testakten behauptet."
+      "Keine Ausführung der Ergebnisfälle, keine Live-Modelltests, keine beobachtete Skill-Auswahl und keine bestandene Bearbeitung der dreizehn Testakten behauptet."
     ]
   },
   "prompt_workflow_review": {
@@ -264,6 +269,51 @@
       "path": "testakten/bauwirtschaft-buchhaltung-bauunternehmen-bad-salzuflen",
       "status": "Zentral erstellte eigenständige Akte; hier nur Zuordnung, keine ausgeführte Fallprüfung.",
       "scope": "Belegabgleich, offene Posten, Zahlungsplanung und Sicherheiten"
+    },
+    {
+      "path": "testakten/bauwirtschaft-hoai-1-grundlagen-kulturhof-detmold",
+      "status": "Eigenständige phasenbezogene Akte; Zuordnung und technische Prüfungen sind keine ausgeführte fachliche Modellbewertung.",
+      "scope": "Leistungsphase 1: Aufgabenklärung, Ortsbesichtigung und Untersuchungsbedarf für einen Kulturhof."
+    },
+    {
+      "path": "testakten/bauwirtschaft-hoai-2-vorplanung-kita-bad-pyrmont",
+      "status": "Eigenständige phasenbezogene Akte; Zuordnung und technische Prüfungen sind keine ausgeführte fachliche Modellbewertung.",
+      "scope": "Leistungsphase 2: Vergleichbare Kita-Varianten, Kostenschätzung und Entscheidung des Bauherrn."
+    },
+    {
+      "path": "testakten/bauwirtschaft-hoai-3-entwurf-aerztehaus-stadthagen",
+      "status": "Eigenständige phasenbezogene Akte; Zuordnung und technische Prüfungen sind keine ausgeführte fachliche Modellbewertung.",
+      "scope": "Leistungsphase 3: Abgestimmter Entwurf, Fachplanerbeiträge und Kostenberechnung für ein Ärztehaus."
+    },
+    {
+      "path": "testakten/bauwirtschaft-hoai-4-genehmigung-werkhof-celle",
+      "status": "Eigenständige phasenbezogene Akte; Zuordnung und technische Prüfungen sind keine ausgeführte fachliche Modellbewertung.",
+      "scope": "Leistungsphase 4: Bauantragsunterlagen, Nachforderungen und Einreichungsstand eines Werkhofs."
+    },
+    {
+      "path": "testakten/bauwirtschaft-hoai-5-ausfuehrung-schule-hameln",
+      "status": "Eigenständige phasenbezogene Akte; Zuordnung und technische Prüfungen sind keine ausgeführte fachliche Modellbewertung.",
+      "scope": "Leistungsphase 5: Ausführungsreife Details, Planrevisionen und Schnittstellen beim Schulumbau."
+    },
+    {
+      "path": "testakten/bauwirtschaft-hoai-6-lv-sporthalle-peine",
+      "status": "Eigenständige phasenbezogene Akte; Zuordnung und technische Prüfungen sind keine ausgeführte fachliche Modellbewertung.",
+      "scope": "Leistungsphase 6: Mengen, Leistungsbeschreibungen und Ausschreibungsunterlagen einer Sporthalle."
+    },
+    {
+      "path": "testakten/bauwirtschaft-hoai-7-vergabe-bibliothek-melle",
+      "status": "Eigenständige phasenbezogene Akte; Zuordnung und technische Prüfungen sind keine ausgeführte fachliche Modellbewertung.",
+      "scope": "Leistungsphase 7: Angebotsprüfung, Preisspiegel und begründeter Vergabevorschlag für eine Bibliothek."
+    },
+    {
+      "path": "testakten/bauwirtschaft-hoai-8-bauueberwachung-kita-verden",
+      "status": "Eigenständige phasenbezogene Akte; Zuordnung und technische Prüfungen sind keine ausgeführte fachliche Modellbewertung.",
+      "scope": "Leistungsphase 8: Baustellenstand, Aufmaß, Rechnungen und Abnahmeunterlagen beim Kita-Neubau."
+    },
+    {
+      "path": "testakten/bauwirtschaft-hoai-9-objektbetreuung-rathaus-uelzen",
+      "status": "Eigenständige phasenbezogene Akte; Zuordnung und technische Prüfungen sind keine ausgeführte fachliche Modellbewertung.",
+      "scope": "Leistungsphase 9: Spätere Mängel, Begehung vor Fristablauf und Sicherheiten am Rathaus."
     }
   ],
   "cases": [
@@ -1024,17 +1074,413 @@
           ]
         }
       ]
+    },
+    {
+      "id": "hoai-1-nutzung-und-untersuchungsauftrag",
+      "target_skill": "hoai-1-grundlagen-und-planungsauftrag-klaeren",
+      "request": "Die Stiftung hat nur Grundlagenermittlung für den Umbau eines Packhauses beauftragt. Bestätigt sind 120 Sitzplätze und 1450000 EUR brutto Gesamtbudget einschließlich Reserve. Der Betreiber verlangt jetzt 160 Stehplätze und Lagerung im verschlossenen Dachraum. Es gibt weder eine aktuelle Bestandsvermessung noch einen Tragfähigkeitsnachweis. Zwei orientierende Untersuchungen kosten 1970 EUR und 2540 EUR netto zuzüglich 19 Prozent Umsatzsteuer. Für Untersuchungen sind 12000 EUR brutto vorgesehen, aber noch keine Aufträge erteilt. Schreiben Sie den Grundlagenbericht und die konkrete Rückfrage zur Nutzung. Folgeantwort: Die Stiftung bestätigt weiter nur 120 Sitzplätze, die 160 bleiben eine Option. Führen Sie denselben Bericht fort; beauftragen Sie nichts.",
+      "input_files": [],
+      "deliverables": [
+        "grundlagenbericht.md",
+        "rueckfrage-nutzung.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Bestätigte Nutzung mit 120 Sitzplätzen, offene Option mit 160 Stehplätzen und ungeklärte Dachraumnutzung bleiben getrennt; die Folgeantwort wird in denselben Grundlagenbericht eingearbeitet.",
+          "deliverables": [
+            "grundlagenbericht.md",
+            "rueckfrage-nutzung.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Beide Angebote zusammen ergeben 4510 EUR netto und 5366.90 EUR brutto; weder Budgetreserve noch Auftrag werden daraus automatisch abgeleitet. Die verbleibende Untersuchungsreserve beträgt rechnerisch 6633.10 EUR, ohne Vergabeentscheidung.",
+          "deliverables": [
+            "grundlagenbericht.md",
+            "rueckfrage-nutzung.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Fehlende Ortszugänglichkeit und Tragwerkskenntnis werden konkret benannt; der Bericht enthält keine erfundene Bestandsaufnahme, Tragfähigkeit oder Kostenschätzung des gesamten Umbaus.",
+          "deliverables": [
+            "grundlagenbericht.md",
+            "rueckfrage-nutzung.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Die Rückfrage betrifft den tatsächlichen Nutzungs- und Entscheidungsbedarf; der Bericht endet mit einem konkreten nächsten Beschlussbedarf, nicht mit einer bloßen Aufgabenliste.",
+          "deliverables": [
+            "grundlagenbericht.md",
+            "rueckfrage-nutzung.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hoai-2-varianten-gleiche-anforderung",
+      "target_skill": "hoai-2-vorplanung-und-varianten-entwickeln",
+      "request": "Erstellen Sie eine Vorplanungsentscheidung für eine Kita mit verbindlich vier Gruppen. Variante A kostet vorläufig 2100000 EUR netto, Variante B 1980000 EUR netto. Nur bei A sind Außenanlagen mit 120000 EUR netto und Ausstattung mit 90000 EUR netto enthalten. B hat denselben Gebäudebedarf, diese beiden Positionen fehlen dort. Beide Werte beruhen auf Kostenschätzungen, nicht auf Unternehmerangeboten. Eine zusätzliche fünfte Gruppe kostet laut gesonderter grober Annahme 240000 EUR netto. Das Bauamt hat die Zweigeschossigkeit telefonisch grundsätzlich für prüfbar gehalten, aber weder Bauvorbescheid noch Genehmigung erteilt. Bereiten Sie die Variantenbesprechung vor. Folgeantwort: Die fünfte Gruppe wird nicht weiterverfolgt. Aktualisieren Sie die Entscheidung auf derselben Anforderungsbasis.",
+      "input_files": [],
+      "deliverables": [
+        "variantenvergleich.csv",
+        "vorplanungsentscheidung.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Auf gleicher Kostenabgrenzung stehen A mit 2100000 EUR und B mit 2190000 EUR netto gegenüber; die fehlenden 210000 EUR werden nicht als Einsparung von B dargestellt.",
+          "deliverables": [
+            "variantenvergleich.csv",
+            "vorplanungsentscheidung.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die aufgegebene fünfte Gruppe bleibt als verworfene Programmoption dokumentiert und wird nicht als gleichwertige Variante in die Empfehlung eingerechnet.",
+          "deliverables": [
+            "variantenvergleich.csv",
+            "vorplanungsentscheidung.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Telefonische Vorverhandlung, Bauvoranfrage, Vorbescheid und Genehmigung werden unterschieden. Aus der Äußerung des Bauamts entsteht keine Bauzulässigkeitsbestätigung.",
+          "deliverables": [
+            "variantenvergleich.csv",
+            "vorplanungsentscheidung.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Der Bericht formuliert eine bedingte konkrete Variantenentscheidung mit Kosten-, Termin- und Fachprüfgrenzen; nach der Folgeantwort erfolgt kein neues allgemeines Projektinterview.",
+          "deliverables": [
+            "variantenvergleich.csv",
+            "vorplanungsentscheidung.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hoai-3-kostenberechnung-und-fachkollision",
+      "target_skill": "hoai-3-entwurf-und-kostenberechnung-abstimmen",
+      "request": "Führen Sie die Entwurfsabstimmung für ein Ärztehaus fort. Die Kostenschätzung betrug 3600000 EUR netto; die neue Kostenberechnung beträgt 3860000 EUR netto. Davon betreffen 170000 EUR einen bereits darin enthaltenen größeren Technikbereich. Der Tragwerksplan S-03 Revision B ist abgestimmt. Die TGA hat danach eine Lüftungsführung T-12 Revision C vorgelegt, die einen Unterzug kreuzt; ihre Tragwerksverträglichkeit ist noch nicht geprüft. Der Bauherr fragt nach einer Kostenerklärung und einer Freigabevorlage für den Entwurf. Folgeantwort: Der größere Technikbereich ist funktional erforderlich; keine Erhöhung des genehmigten Budgets und keine technische Freigabe der Kollision. Erstellen Sie den konkreten Abstimmungsvermerk und aktualisieren Sie Kostenvergleich sowie Planbezüge.",
+      "input_files": [],
+      "deliverables": [
+        "entwurfsabstimmung.md",
+        "kostenvergleich.csv"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Der Kostenvergleich weist 260000 EUR Mehrbetrag aus; die bereits enthaltenen 170000 EUR werden nicht erneut zugeschlagen. Funktionaler Bedarf wird nicht mit Budgetbewilligung gleichgesetzt.",
+          "deliverables": [
+            "entwurfsabstimmung.md",
+            "kostenvergleich.csv"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "S-03/B und T-12/C werden mit Bearbeitungsstand und konkreter Kollision bezeichnet. Koordination ersetzt keine Statikfreigabe und kein eigenständig bemessenes Durchbruchdetail.",
+          "deliverables": [
+            "entwurfsabstimmung.md",
+            "kostenvergleich.csv"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die Entscheidungsvorlage trennt den abstimmbaren Entwurfsstand vom offenen technischen Punkt und enthält eine gezielte Klärungsanforderung an die Fachplaner.",
+          "deliverables": [
+            "entwurfsabstimmung.md",
+            "kostenvergleich.csv"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Die Folgeantwort wird im bestehenden Vermerk verarbeitet; weder Genehmigung noch Ausführungsreife noch bereits erteilte Bauherrenfreigabe werden behauptet.",
+          "deliverables": [
+            "entwurfsabstimmung.md",
+            "kostenvergleich.csv"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hoai-4-nachforderung-planrevision-eingang",
+      "target_skill": "hoai-4-genehmigungsplanung-und-nachforderungen-bearbeiten",
+      "request": "Ein Bauantrag zum Werkhof wurde am 01.09.2026 mit Plan A-04/B eingereicht. Die Bauaufsicht verlangt mit zugestelltem Schreiben vom 18.09.2026 bis zum 02.10.2026 einen korrigierten Lageplan und einen abgestimmten Brandschutznachweis. Ihr Schreiben enthält keine Aussage zu einer Genehmigungsfiktion. Der Vermesser liefert A-04/C am 23.09.2026; der Brandschutzplaner kündigt seinen Nachweis für den 30.09.2026 an. Der Nachbar hat nur einem Ortstermin zugestimmt. Entwerfen Sie die konkrete Antwort und ein Nachreichungsverzeichnis. Folgeantwort: A-04/C wurde am 24.09.2026 über das Portal eingereicht; es gibt eine Eingangsbestätigung nur für diese Datei. Der Brandschutznachweis fehlt weiterhin. Nichts selbst einreichen.",
+      "input_files": [],
+      "deliverables": [
+        "antwort-bauaufsicht.md",
+        "nachreichungen.csv"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die nachgereichte Revision C wird mit tatsächlichem Eingang belegt, der Brandschutznachweis bleibt offen. Eine angekündigte Lieferung wird weder zum Eingang noch zur Vollständigkeitserklärung.",
+          "deliverables": [
+            "antwort-bauaufsicht.md",
+            "nachreichungen.csv"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Der vorgegebene behördliche Termin 02.10.2026 bleibt sichtbar. Keine erfundene landesrechtliche Fiktions- oder Rechtsbehelfsfrist ohne Prüfung von Bundesland, Norm und Zugang.",
+          "deliverables": [
+            "antwort-bauaufsicht.md",
+            "nachreichungen.csv"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die Zustimmung zu einem Ortstermin wird nicht zur Nachbarzustimmung zum Vorhaben oder zum Verzicht auf Rechte umgedeutet.",
+          "deliverables": [
+            "antwort-bauaufsicht.md",
+            "nachreichungen.csv"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Der Antwortentwurf nennt vorhandene Anlage und offene Nachreichung konkret, enthält keine unzutreffende Erklärung vollständiger Unterlagen und wird nach der Folgeantwort ohne Neueinstieg fortgeschrieben.",
+          "deliverables": [
+            "antwort-bauaufsicht.md",
+            "nachreichungen.csv"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hoai-5-detail-versand-und-montageplan",
+      "target_skill": "hoai-5-ausfuehrungsplanung-und-details-koordinieren",
+      "request": "Für eine Schule ist das Türdetail D-21/B zur Ausführung freigegeben. D-21/C berücksichtigt einen geänderten Bodenaufbau, trägt aber den Status zur Prüfung. Der Metallbauer hat auf Grundlage von B den Montageplan M-08 erstellt; die TGA hat eine Kabeltrasse im selben Anschlussraum eingezeichnet. In zwei Tagen soll montiert werden. Erstellen Sie den koordinierten Planvermerk und die konkrete Klärungsnachricht. Folgeantwort: Der Bodenaufbau von C wurde fachlich bestätigt; der Brandschutzanschluss und die Kabeltrasse sind noch offen. Der Versandnachweis zeigt, dass C bislang nur intern an die Planung ging. Sie sollen keine eigene technische Freigabe erteilen und keine Baustellenanweisung versenden.",
+      "input_files": [],
+      "deliverables": [
+        "detailkoordination.md",
+        "klaerung-metallbau.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "B, C und M-08 sind mit Status, Bezug und tatsächlichem Empfängerkreis unterscheidbar. C wird trotz Teilbestätigung nicht insgesamt ausführungsreif genannt.",
+          "deliverables": [
+            "detailkoordination.md",
+            "klaerung-metallbau.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Bodenaufbau, Brandschutzanschluss und Kabeltrasse erhalten jeweils einen konkreten Fachklärungsbedarf; eine Freigabe für einen Punkt erledigt nicht die anderen.",
+          "deliverables": [
+            "detailkoordination.md",
+            "klaerung-metallbau.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die ausformulierte Nachricht benennt benötigte Angaben und Montagebezug, ohne selbst eine technische Dimensionierung oder eine erteilte Anweisung zu behaupten.",
+          "deliverables": [
+            "detailkoordination.md",
+            "klaerung-metallbau.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Montageplanvergleich und erforderliche Fachnachweise werden getrennt; der Antwortstand wird in derselben Detailkennung fortgeführt statt alle Planungsphasen neu zu öffnen.",
+          "deliverables": [
+            "detailkoordination.md",
+            "klaerung-metallbau.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hoai-6-lv-mengenbasis-und-kostengrenze",
+      "target_skill": "hoai-6-leistungsverzeichnis-und-vergabeunterlagen-erstellen",
+      "request": "Bereiten Sie für die Sporthalle eines privaten Vereins das Tür-LV und die Kostenunterlage vor. Bestätigt sind zwölf Innentüren mit einem Planeransatz von 1800 EUR netto je Stück und vier Außentüren zu 4200 EUR netto. Zwei zusätzliche Innentüren stehen nur in einem späteren Nutzerwunsch. Schließanlagen sind in diesen Preisen ausdrücklich nicht enthalten; dazu liegt bisher nur ein Planeransatz über 9500 EUR netto vor. Ausführung und Brandschutzklassifikation sind den bereitgestellten Planangaben zu entnehmen, nicht frei festzulegen. Der Verein möchte drei Unternehmen nach internen Regeln anfragen; öffentliche Auftraggebereigenschaft und Förderbindung sind nicht geklärt. Folgeantwort: Die zwei Zusatztüren werden nicht bestellt. Erstellen Sie das konkrete LV und eine abgrenzbare Kostenunterlage, keine Angebotswertung.",
+      "input_files": [],
+      "deliverables": [
+        "tueren-lv.md",
+        "lv-kosten.csv"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Das bestätigte Türpaket beträgt 38400 EUR netto. Die separat ausgewiesene Schließanlage ergibt zusammen 47900 EUR netto, ohne die beiden verworfenen Zusatztüren einzurechnen.",
+          "deliverables": [
+            "tueren-lv.md",
+            "lv-kosten.csv"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Positionsbeschreibung, Menge, Einheit und technische offene Angaben sind nachvollziehbar. Fehlende Brandschutzvorgaben werden gezielt angefordert statt als beliebige Klassifikation ergänzt.",
+          "deliverables": [
+            "tueren-lv.md",
+            "lv-kosten.csv"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Planerpreise bleiben interne Kostenansätze; ein leeres Unternehmer-Preisfeld wird weder zu einem Nullpreisangebot noch zum fehlenden Leistungsumfang.",
+          "deliverables": [
+            "tueren-lv.md",
+            "lv-kosten.csv"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Die drei internen Anfragen begründen nicht automatisch die Zulässigkeit eines bestimmten öffentlichen Vergabeverfahrens; Phase 6 wird nicht mit Angebotswertung der Phase 7 vermischt.",
+          "deliverables": [
+            "tueren-lv.md",
+            "lv-kosten.csv"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hoai-7-preisspiegel-nicht-automatisch-zuschlag",
+      "target_skill": "hoai-7-angebote-werten-und-vergabe-vorbereiten",
+      "request": "Erstellen Sie für ein Bibliothekslos einen Preisspiegel und Vergabevorschlag anhand der bekanntgemachten Kriterien. Angebot A nennt 125000 EUR netto. Angebot B nennt 121000 EUR netto, nimmt jedoch die im LV verlangte Wartung heraus. Angebot C nennt 127000 EUR netto. Alle Preise sind rechnerisch nachgeprüft; die ausgeschriebene Wartung ist nicht optional. Eine Nachforderung oder Verhandlung ist noch nicht rechtlich geprüft. Der Projektleiter möchte B allein wegen der niedrigsten Zahl empfehlen. Folgeantwort: B bestätigt schriftlich, dass die Wartung nicht enthalten ist; kein geändertes Angebot liegt vor. Arbeiten Sie die Antwort ein. Entwurf für die Vergabestelle, keine Zuschlagserklärung und kein automatischer Ausschluss ohne Verfahrensprüfung.",
+      "input_files": [],
+      "deliverables": [
+        "preisspiegel.csv",
+        "vergabevermerk.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die drei unveränderten Angebotssummen werden richtig verglichen; bei B wird die ausdrücklich fehlende Pflichtleistung ausgewiesen, ohne einen frei geschätzten Aufpreis als angebotenen Preis hinzuzufügen.",
+          "deliverables": [
+            "preisspiegel.csv",
+            "vergabevermerk.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Wertbarkeit, Aufklärung, Nachforderung und zulässige Verhandlung werden als unterschiedliche rechtliche Fragen behandelt; die niedrigste Zahl führt nicht automatisch zum Zuschlag.",
+          "deliverables": [
+            "preisspiegel.csv",
+            "vergabevermerk.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Der Vergabevermerk begründet einen bedingten weiteren Entscheidungsschritt anhand der vorgegebenen Kriterien und benennt die konkret nötige Verfahrensprüfung.",
+          "deliverables": [
+            "preisspiegel.csv",
+            "vergabevermerk.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Die Folgeantwort bleibt demselben Angebot zugeordnet; keine neue Ausschreibung, keine geänderte Wertungsmatrix, keine behauptete Bindung durch einen schon erteilten Zuschlag.",
+          "deliverables": [
+            "preisspiegel.csv",
+            "vergabevermerk.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hoai-8-aufmass-vorzahlung-und-verdeckung",
+      "target_skill": "hoai-8-bauueberwachung-und-dokumentation-fuehren",
+      "request": "Führen Sie die Objektüberwachung einer Kita fort. Der Vertrag sieht 100 m² Belag zu 80 EUR netto je m² vor. Der Unternehmer rechnet kumuliert 120 m² ab; das gemeinsame Aufmaß bestätigt bislang 112 m², acht weitere sind ungeklärt. Tatsächlich bezahlt wurden 4000 EUR netto, obwohl der frühere Abschlag 5000 EUR netto lautete. Die Umsatzsteuer beträgt 19 Prozent. Morgen soll ein Türanschluss verdeckt werden. Detail C gilt laut Planindex, der Tagesbericht nennt B; ein Foto zeigt nur die Abdeckung. Erstellen Sie den Mengen-/Rechnungsprüfvermerk und die konkrete Anforderung zur Anschlusskontrolle. Folgeantwort: Vier weitere Quadratmeter sind durch gemeinsames Ergänzungsaufmaß belegt, vier bleiben offen. Keine eigene Ortsprüfung oder Zahlungsfreigabe behaupten.",
+      "input_files": [],
+      "deliverables": [
+        "rechnungspruefung.csv",
+        "kontrollanforderung.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Nach der Folgeantwort sind 116 m² und damit 9280 EUR netto beziehungsweise 11043.20 EUR brutto bestätigt; vier Quadratmeter bleiben gesondert offen.",
+          "deliverables": [
+            "rechnungspruefung.csv",
+            "kontrollanforderung.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Nur die tatsächlich bezahlten 4000 EUR netto beziehungsweise 4760 EUR brutto werden abgezogen. Der bestätigte rechnerische Rest beträgt 5280 EUR netto beziehungsweise 6283.20 EUR brutto vor sonstigen gesondert zu prüfenden Einbehalten.",
+          "deliverables": [
+            "rechnungspruefung.csv",
+            "kontrollanforderung.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die Anforderung benennt Detail C, abweichenden Tagesbericht B, unzureichenden Fotobefund und Kontrolle vor Verdeckung. Sie behauptet keine selbst beobachtete Mängelfreiheit und keinen eigenmächtig angeordneten Baustopp.",
+          "deliverables": [
+            "rechnungspruefung.csv",
+            "kontrollanforderung.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Gemeinsames Aufmaß, Rechnungsprüfung und Zahlungsentscheidung bleiben getrennt; der neue Mengenbeleg wird im vorhandenen Vorgang fortgeschrieben.",
+          "deliverables": [
+            "rechnungspruefung.csv",
+            "kontrollanforderung.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hoai-9-spaetmangel-und-sicherheit",
+      "target_skill": "hoai-9-objektbetreuung-und-maengelverfolgung-organisieren",
+      "request": "Bereiten Sie für ein Rathaus die Objektbetreuung vor. Im Abnahmeprotokoll vom 15.10.2021 ist eine klemmende Tür verzeichnet; ein Beseitigungsnachweis fehlt. Am 10.09.2026 wurde erstmals ein Feuchtefleck am Dach gemeldet. Der Gebäudeplanervertrag enthält die Grundleistungen der LPH 9, aber keine gesonderte Überwachung späterer Mängelbeseitigung. Die Dachfirma bietet eine Besichtigung aus Kulanz an, ohne Anerkennung einer Rechtspflicht. Eine Mängelsicherheit über 18000 EUR soll freigegeben werden. Der Projektleiter hält die bloße Nutzung seit 01.09.2021 für den Beginn jeder Frist. Schreiben Sie den Betreuungsvermerk und eine konkrete Begehungsanforderung. Folgeantwort: Am 24.09.2026 wurde nur von unten fotografiert, keine Dachöffnung und keine Ursachenfeststellung. Fortsetzen, keine Freigabe oder Fristhemmung behaupten.",
+      "input_files": [],
+      "deliverables": [
+        "objektbetreuung.md",
+        "begehungsanforderung.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Der offene Abnahmemangel an der Tür wird vom später gemeldeten Dachbefund getrennt; die Phasenzuordnung folgt Feststellungszeitpunkt, Aufgabe und Vertrag statt einer pauschalen Zuordnung aller Mängel zur LPH 9.",
+          "deliverables": [
+            "objektbetreuung.md",
+            "begehungsanforderung.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die Fünfjahresgrenze der Bewertungsleistung aus Anlage 10 wird von konkreten Anspruchsfristen getrennt. Der Vermerk setzt weder Nutzung gleich Abnahme noch behauptet er ohne Prüfung sämtlicher Vertrags- und Änderungsereignisse einen gesicherten Fristablauf.",
+          "deliverables": [
+            "objektbetreuung.md",
+            "begehungsanforderung.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Das Kulanzangebot wird nicht ohne Prüfung zum Anerkenntnis, Neubeginn oder zur Hemmung. Zeitkritischer fachlicher und rechtlicher Klärungsbedarf wird konkret benannt.",
+          "deliverables": [
+            "objektbetreuung.md",
+            "begehungsanforderung.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Die Aufnahme von unten beendet weder Ursachenklärung noch Mängelvorgang. Keine automatische Freigabe der 18000 EUR und keine unbeauftragte Überwachung späterer Sanierungsarbeiten; beide Schreiben sind ausformuliert.",
+          "deliverables": [
+            "objektbetreuung.md",
+            "begehungsanforderung.md"
+          ]
+        }
+      ]
     }
   ],
   "skill_reviews": [
     {
       "skill_path": "bauwirtschaft/skills/bauprojekt-starten-und-arbeitsstand-fortfuehren/SKILL.md",
-      "sha256": "8508c709fd67a30948bc36293bd9e3fe2ce48edcdb15d11065db2ad43fac1fe0",
+      "sha256": "1d85a95104d223c9e2c94c820d472598a0af2167ff807778f5344a9c679307bf",
       "case_id": "projektstart-planrevision-fortsetzen",
       "reviewed_on": "2026-09-25",
       "method": "desk_review",
-      "verdict": "retained",
-      "reason": "Am Hauptskill geprüft: Starttabelle, Engpassbearbeitung und verlangtes Dokument werden selbst erstellt. Die Fortsetzung erhält Kennungen; Geschwisterskills sind nur bedarfsweise Hilfe, kein Ersatz für das Ergebnis.",
+      "verdict": "revised",
+      "reason": "Am Hauptskill geprüft: Starttabelle, Engpassbearbeitung und verlangtes Dokument werden selbst erstellt. Bei vollständigem Phasenauftrag wird gezielt ein Phasenskill gewählt; Einzelaufträge bleiben kurz. Nur relevante Unterlagen werden übernommen, nicht alle neun großen Werkstätten geladen.",
       "checked_points": [
         "Eigenständiges Arbeitsprodukt: Liefere einen nutzbaren Projektarbeitsstand mit den bereits ausgeführten Berechnungen und dem konkret bestellten Dokument. Kein verpflichtendes Gesamtpaket bei einem engen Auftrag. Projektberichte dürfen den angeforderten Vertrags- oder Tabellentext nicht ersetzen.",
         "Individueller Sachverhalt und beobachtbare Sollkriterien für projektstart-planrevision-fortsetzen angelegt; nicht ausgeführt.",
@@ -1059,12 +1505,12 @@
     },
     {
       "skill_path": "bauwirtschaft/skills/hoai-phasen-und-planstaende-abgleichen/SKILL.md",
-      "sha256": "661c223a673d71d7009bd9d92aaa77455ea442434cec4e119023b53a85cb7057",
+      "sha256": "372d1178d9dfdfe74322a319c3bb54f70f5cf916bea3ab36e41ecf35f2d1e751",
       "case_id": "hoai-phase-acht-neun-planreife",
       "reviewed_on": "2026-09-25",
       "method": "desk_review",
       "verdict": "revised",
-      "reason": "Planstand, Vertrag und neun Phasen bleiben als eigenständiger Soll-Ist-Abgleich erhalten. Die bislang zu knappe LPH-8/9-Abgrenzung anhand des amtlich bereitgestellten Anlagentexts präzisiert.",
+      "reason": "Planstand, Vertrag und neun Phasen bleiben als eigenständiger Soll-Ist-Abgleich erhalten. Ein ausdrücklich vollständiger Phasenauftrag wird vom reinen Planstandsvergleich unterschieden und an genau den sachnächsten Phasenskill übergeben. LPH-8/9-Abgrenzung unverändert erhalten.",
       "checked_points": [
         "Eigenständiges Arbeitsprodukt: Liefere die ausgefüllte Leistungs- und Planstandsliste sowie bei Bedarf ein vollständiges Anforderungsschreiben. Kennzeichne die Reichweite einer reinen Dokumentenkontrolle. Keine Phasenbescheinigung, technische Freigabe oder Honorarfälligkeit aus bloßer Dateiexistenz.",
         "Individueller Sachverhalt und beobachtbare Sollkriterien für hoai-phase-acht-neun-planreife angelegt; nicht ausgeführt.",
@@ -1334,6 +1780,233 @@
         "Fünfjahresgrenze seit Abnahme für Bewertung nach Phase 9 Buchstabe a ausdrücklich von der Anspruchsverjährung getrennt.",
         "Keine automatische Sicherheitenfreigabe oder Erledigung allein durch Übergabeprotokoll; vorhandene Unterscheidung von Abnahme und Nutzung erhalten."
       ],
+      "runtime_status": "not_run"
+    },
+    {
+      "skill_path": "bauwirtschaft/skills/hoai-1-grundlagen-und-planungsauftrag-klaeren/SKILL.md",
+      "sha256": "64da76eae4a77e89407e006756255ba4e18bac1fb561d6cde2850b817d0cbb83",
+      "case_id": "hoai-1-nutzung-und-untersuchungsauftrag",
+      "reviewed_on": "2026-09-25",
+      "method": "desk_review",
+      "verdict": "revised",
+      "reason": "Grundlagenauftrag, Betreiberwunsch, Ortsbefund und noch nicht beauftragte Untersuchung fachlich getrennt. Das Ergebnis ist ein fortschreibbarer Grundlagenbericht mit gezieltem Nutzungszweig, nicht eine vorgezogene Entwurfsplanung.",
+      "checked_points": [
+        "Bestätigte Nutzung mit 120 Sitzplätzen, offene Option mit 160 Stehplätzen und ungeklärte Dachraumnutzung bleiben getrennt; die Folgeantwort wird in denselben Grundlagenbericht eingearbeitet.",
+        "Beide Angebote zusammen ergeben 4510 EUR netto und 5366.90 EUR brutto; weder Budgetreserve noch Auftrag werden daraus automatisch abgeleitet. Die verbleibende Untersuchungsreserve beträgt rechnerisch 6633.10 EUR, ohne Vergabeentscheidung.",
+        "Fehlende Ortszugänglichkeit und Tragwerkskenntnis werden konkret benannt; der Bericht enthält keine erfundene Bestandsaufnahme, Tragfähigkeit oder Kostenschätzung des gesamten Umbaus.",
+        "Die Rückfrage betrifft den tatsächlichen Nutzungs- und Entscheidungsbedarf; der Bericht endet mit einem konkreten nächsten Beschlussbedarf, nicht mit einer bloßen Aufgabenliste."
+      ],
+      "runtime_status": "not_run"
+    },
+    {
+      "skill_path": "bauwirtschaft/skills/hoai-2-vorplanung-und-varianten-entwickeln/SKILL.md",
+      "sha256": "adc27073412376d857dadf36ba63c3edf35088028188583d7ad6dba0166675e4",
+      "case_id": "hoai-2-varianten-gleiche-anforderung",
+      "reviewed_on": "2026-09-25",
+      "method": "desk_review",
+      "verdict": "revised",
+      "reason": "Vergleichbare Anforderungsbasis und identische Kostengrenze als Voraussetzung der Vorplanungsentscheidung geprüft. Die besondere Bauvoranfrage bleibt von der bloßen Vorverhandlung unterschieden.",
+      "checked_points": [
+        "Auf gleicher Kostenabgrenzung stehen A mit 2100000 EUR und B mit 2190000 EUR netto gegenüber; die fehlenden 210000 EUR werden nicht als Einsparung von B dargestellt.",
+        "Die aufgegebene fünfte Gruppe bleibt als verworfene Programmoption dokumentiert und wird nicht als gleichwertige Variante in die Empfehlung eingerechnet.",
+        "Telefonische Vorverhandlung, Bauvoranfrage, Vorbescheid und Genehmigung werden unterschieden. Aus der Äußerung des Bauamts entsteht keine Bauzulässigkeitsbestätigung.",
+        "Der Bericht formuliert eine bedingte konkrete Variantenentscheidung mit Kosten-, Termin- und Fachprüfgrenzen; nach der Folgeantwort erfolgt kein neues allgemeines Projektinterview."
+      ],
+      "runtime_status": "not_run"
+    },
+    {
+      "skill_path": "bauwirtschaft/skills/hoai-3-entwurf-und-kostenberechnung-abstimmen/SKILL.md",
+      "sha256": "f1a8d03ddd0f84ae75c862806a75d904f979527927c1a9dff44867acc467c06d",
+      "case_id": "hoai-3-kostenberechnung-und-fachkollision",
+      "reviewed_on": "2026-09-25",
+      "method": "desk_review",
+      "verdict": "revised",
+      "reason": "Entwurfsreife, integrierte Fachbeiträge, Kostenberechnung und Ausführungsfreigabe getrennt. Die Mengen- und Kostenfortschreibung muss bereits enthaltene Änderungen erkennen.",
+      "checked_points": [
+        "Der Kostenvergleich weist 260000 EUR Mehrbetrag aus; die bereits enthaltenen 170000 EUR werden nicht erneut zugeschlagen. Funktionaler Bedarf wird nicht mit Budgetbewilligung gleichgesetzt.",
+        "S-03/B und T-12/C werden mit Bearbeitungsstand und konkreter Kollision bezeichnet. Koordination ersetzt keine Statikfreigabe und kein eigenständig bemessenes Durchbruchdetail.",
+        "Die Entscheidungsvorlage trennt den abstimmbaren Entwurfsstand vom offenen technischen Punkt und enthält eine gezielte Klärungsanforderung an die Fachplaner.",
+        "Die Folgeantwort wird im bestehenden Vermerk verarbeitet; weder Genehmigung noch Ausführungsreife noch bereits erteilte Bauherrenfreigabe werden behauptet."
+      ],
+      "runtime_status": "not_run"
+    },
+    {
+      "skill_path": "bauwirtschaft/skills/hoai-4-genehmigungsplanung-und-nachforderungen-bearbeiten/SKILL.md",
+      "sha256": "967c18742245ed8602ed98cf51161172e121b986ce9ecee52e5379979818e292",
+      "case_id": "hoai-4-nachforderung-planrevision-eingang",
+      "reviewed_on": "2026-09-25",
+      "method": "desk_review",
+      "verdict": "revised",
+      "reason": "Nachforderungsziffer, Planrevision, Übermittlung und tatsächlicher Eingang werden getrennt geführt. Kein automatischer Genehmigungs- oder Nachbarzustimmungszweig aus bloßer Korrespondenz.",
+      "checked_points": [
+        "Die nachgereichte Revision C wird mit tatsächlichem Eingang belegt, der Brandschutznachweis bleibt offen. Eine angekündigte Lieferung wird weder zum Eingang noch zur Vollständigkeitserklärung.",
+        "Der vorgegebene behördliche Termin 02.10.2026 bleibt sichtbar. Keine erfundene landesrechtliche Fiktions- oder Rechtsbehelfsfrist ohne Prüfung von Bundesland, Norm und Zugang.",
+        "Die Zustimmung zu einem Ortstermin wird nicht zur Nachbarzustimmung zum Vorhaben oder zum Verzicht auf Rechte umgedeutet.",
+        "Der Antwortentwurf nennt vorhandene Anlage und offene Nachreichung konkret, enthält keine unzutreffende Erklärung vollständiger Unterlagen und wird nach der Folgeantwort ohne Neueinstieg fortgeschrieben."
+      ],
+      "runtime_status": "not_run"
+    },
+    {
+      "skill_path": "bauwirtschaft/skills/hoai-5-ausfuehrungsplanung-und-details-koordinieren/SKILL.md",
+      "sha256": "7ae41cd3adcb4eab5c3a14e9fa4b32de4da7a33aafe8cc9bcddf5ebd01f828e3",
+      "case_id": "hoai-5-detail-versand-und-montageplan",
+      "reviewed_on": "2026-09-25",
+      "method": "desk_review",
+      "verdict": "revised",
+      "reason": "Detailstand, technischer Teilbefund und Versand sind getrennte Tatsachen. Die Ausführungsplanung endet nicht mit einer Dateiliste, sondern führt zur konkreten Klärung und kontrollierten Fortschreibung.",
+      "checked_points": [
+        "B, C und M-08 sind mit Status, Bezug und tatsächlichem Empfängerkreis unterscheidbar. C wird trotz Teilbestätigung nicht insgesamt ausführungsreif genannt.",
+        "Bodenaufbau, Brandschutzanschluss und Kabeltrasse erhalten jeweils einen konkreten Fachklärungsbedarf; eine Freigabe für einen Punkt erledigt nicht die anderen.",
+        "Die ausformulierte Nachricht benennt benötigte Angaben und Montagebezug, ohne selbst eine technische Dimensionierung oder eine erteilte Anweisung zu behaupten.",
+        "Montageplanvergleich und erforderliche Fachnachweise werden getrennt; der Antwortstand wird in derselben Detailkennung fortgeführt statt alle Planungsphasen neu zu öffnen."
+      ],
+      "runtime_status": "not_run"
+    },
+    {
+      "skill_path": "bauwirtschaft/skills/hoai-6-leistungsverzeichnis-und-vergabeunterlagen-erstellen/SKILL.md",
+      "sha256": "5b8c7235e83c73fa9684c4bc3f60980a9fd8cdbffef0a8a38c7e2ed3f10ba3ba",
+      "case_id": "hoai-6-lv-mengenbasis-und-kostengrenze",
+      "reviewed_on": "2026-09-25",
+      "method": "desk_review",
+      "verdict": "revised",
+      "reason": "Ausführungsplanung, Menge, Langtext und Planerpreis sind als eigene Ausgangsdaten definiert. Leistungsgrenzen und besondere Verfahrensfragen bleiben sichtbar, während das LV konkret weiterbearbeitet wird.",
+      "checked_points": [
+        "Das bestätigte Türpaket beträgt 38400 EUR netto. Die separat ausgewiesene Schließanlage ergibt zusammen 47900 EUR netto, ohne die beiden verworfenen Zusatztüren einzurechnen.",
+        "Positionsbeschreibung, Menge, Einheit und technische offene Angaben sind nachvollziehbar. Fehlende Brandschutzvorgaben werden gezielt angefordert statt als beliebige Klassifikation ergänzt.",
+        "Planerpreise bleiben interne Kostenansätze; ein leeres Unternehmer-Preisfeld wird weder zu einem Nullpreisangebot noch zum fehlenden Leistungsumfang.",
+        "Die drei internen Anfragen begründen nicht automatisch die Zulässigkeit eines bestimmten öffentlichen Vergabeverfahrens; Phase 6 wird nicht mit Angebotswertung der Phase 7 vermischt."
+      ],
+      "runtime_status": "not_run"
+    },
+    {
+      "skill_path": "bauwirtschaft/skills/hoai-7-angebote-werten-und-vergabe-vorbereiten/SKILL.md",
+      "sha256": "8c77d2c96f1afa46fd7c7f95d9d7ddc48a11ea2d14dbadaaa3c8c3e290b29033",
+      "case_id": "hoai-7-preisspiegel-nicht-automatisch-zuschlag",
+      "reviewed_on": "2026-09-25",
+      "method": "desk_review",
+      "verdict": "revised",
+      "reason": "Preisspiegel, Wertbarkeit und Entscheidung werden getrennt; der Skill bearbeitet den Vergabevorschlag selbst. Angebotsergänzung wird nicht als allgemeines Reparaturrecht dargestellt.",
+      "checked_points": [
+        "Die drei unveränderten Angebotssummen werden richtig verglichen; bei B wird die ausdrücklich fehlende Pflichtleistung ausgewiesen, ohne einen frei geschätzten Aufpreis als angebotenen Preis hinzuzufügen.",
+        "Wertbarkeit, Aufklärung, Nachforderung und zulässige Verhandlung werden als unterschiedliche rechtliche Fragen behandelt; die niedrigste Zahl führt nicht automatisch zum Zuschlag.",
+        "Der Vergabevermerk begründet einen bedingten weiteren Entscheidungsschritt anhand der vorgegebenen Kriterien und benennt die konkret nötige Verfahrensprüfung.",
+        "Die Folgeantwort bleibt demselben Angebot zugeordnet; keine neue Ausschreibung, keine geänderte Wertungsmatrix, keine behauptete Bindung durch einen schon erteilten Zuschlag."
+      ],
+      "runtime_status": "not_run"
+    },
+    {
+      "skill_path": "bauwirtschaft/skills/hoai-8-bauueberwachung-und-dokumentation-fuehren/SKILL.md",
+      "sha256": "55fafd368f53f4a7c73940b75a587100eefd6a4d653e8b434160bf75f6379970",
+      "case_id": "hoai-8-aufmass-vorzahlung-und-verdeckung",
+      "reviewed_on": "2026-09-25",
+      "method": "desk_review",
+      "verdict": "revised",
+      "reason": "Tatsächlich bestätigte Mengen und tatsächliche Vorzahlungen werden nachgerechnet. Dokumentensichtung ersetzt keine Ortskontrolle; unabhängige Rechnungsteile können trotz offener Anschlussprüfung fortgeführt werden.",
+      "checked_points": [
+        "Nach der Folgeantwort sind 116 m² und damit 9280 EUR netto beziehungsweise 11043.20 EUR brutto bestätigt; vier Quadratmeter bleiben gesondert offen.",
+        "Nur die tatsächlich bezahlten 4000 EUR netto beziehungsweise 4760 EUR brutto werden abgezogen. Der bestätigte rechnerische Rest beträgt 5280 EUR netto beziehungsweise 6283.20 EUR brutto vor sonstigen gesondert zu prüfenden Einbehalten.",
+        "Die Anforderung benennt Detail C, abweichenden Tagesbericht B, unzureichenden Fotobefund und Kontrolle vor Verdeckung. Sie behauptet keine selbst beobachtete Mängelfreiheit und keinen eigenmächtig angeordneten Baustopp.",
+        "Gemeinsames Aufmaß, Rechnungsprüfung und Zahlungsentscheidung bleiben getrennt; der neue Mengenbeleg wird im vorhandenen Vorgang fortgeschrieben."
+      ],
+      "runtime_status": "not_run"
+    },
+    {
+      "skill_path": "bauwirtschaft/skills/hoai-9-objektbetreuung-und-maengelverfolgung-organisieren/SKILL.md",
+      "sha256": "a8b97dec42887effab4b291420c55208cb4b0de3375562428cfd126f4194cef6",
+      "case_id": "hoai-9-spaetmangel-und-sicherheit",
+      "reviewed_on": "2026-09-25",
+      "method": "desk_review",
+      "verdict": "revised",
+      "reason": "Abnahmemangel, späterer Befund, Bewertungszeitraum, Anspruchsfrist und besondere Sanierungsüberwachung fachlich getrennt. Sicherheitenfreigabe bleibt eine belegabhängige Mitwirkung, keine automatische Erledigung.",
+      "checked_points": [
+        "Der offene Abnahmemangel an der Tür wird vom später gemeldeten Dachbefund getrennt; die Phasenzuordnung folgt Feststellungszeitpunkt, Aufgabe und Vertrag statt einer pauschalen Zuordnung aller Mängel zur LPH 9.",
+        "Die Fünfjahresgrenze der Bewertungsleistung aus Anlage 10 wird von konkreten Anspruchsfristen getrennt. Der Vermerk setzt weder Nutzung gleich Abnahme noch behauptet er ohne Prüfung sämtlicher Vertrags- und Änderungsereignisse einen gesicherten Fristablauf.",
+        "Das Kulanzangebot wird nicht ohne Prüfung zum Anerkenntnis, Neubeginn oder zur Hemmung. Zeitkritischer fachlicher und rechtlicher Klärungsbedarf wird konkret benannt.",
+        "Die Aufnahme von unten beendet weder Ursachenklärung noch Mängelvorgang. Keine automatische Freigabe der 18000 EUR und keine unbeauftragte Überwachung späterer Sanierungsarbeiten; beide Schreiben sind ausformuliert."
+      ],
+      "runtime_status": "not_run"
+    }
+  ],
+  "phase_workshop_reviews": [
+    {
+      "phase": 1,
+      "path": "bauwirtschaft/bauwirtschaft-hoai-1-werkstatt.md",
+      "sha256": "9be926eb143d3066b5951bd74493777b9423ccc1ddec2daec048c9c513a5e101",
+      "reviewed_on": "2026-09-25",
+      "method": "desk_review",
+      "reason": "Grundlagenauftrag, Betreiberwunsch, Ortsbefund und noch nicht beauftragte Untersuchung fachlich getrennt. Das Ergebnis ist ein fortschreibbarer Grundlagenbericht mit gezieltem Nutzungszweig, nicht eine vorgezogene Entwurfsplanung.",
+      "runtime_status": "not_run"
+    },
+    {
+      "phase": 2,
+      "path": "bauwirtschaft/bauwirtschaft-hoai-2-werkstatt.md",
+      "sha256": "8b4af684dd5399b45b78a4d318efc4c168ab737a6bf26e30561f538ab014ba0e",
+      "reviewed_on": "2026-09-25",
+      "method": "desk_review",
+      "reason": "Vergleichbare Anforderungsbasis und identische Kostengrenze als Voraussetzung der Vorplanungsentscheidung geprüft. Die besondere Bauvoranfrage bleibt von der bloßen Vorverhandlung unterschieden.",
+      "runtime_status": "not_run"
+    },
+    {
+      "phase": 3,
+      "path": "bauwirtschaft/bauwirtschaft-hoai-3-werkstatt.md",
+      "sha256": "354b9303770f9760c6de81796cc487205d99eacdb8b0d5bf73d20391d399b8ce",
+      "reviewed_on": "2026-09-25",
+      "method": "desk_review",
+      "reason": "Entwurfsreife, integrierte Fachbeiträge, Kostenberechnung und Ausführungsfreigabe getrennt. Die Mengen- und Kostenfortschreibung muss bereits enthaltene Änderungen erkennen.",
+      "runtime_status": "not_run"
+    },
+    {
+      "phase": 4,
+      "path": "bauwirtschaft/bauwirtschaft-hoai-4-werkstatt.md",
+      "sha256": "5b085ebd5c3793ed828a228b5922827ae5e780ec717c2780e87ba8458209acf4",
+      "reviewed_on": "2026-09-25",
+      "method": "desk_review",
+      "reason": "Nachforderungsziffer, Planrevision, Übermittlung und tatsächlicher Eingang werden getrennt geführt. Kein automatischer Genehmigungs- oder Nachbarzustimmungszweig aus bloßer Korrespondenz.",
+      "runtime_status": "not_run"
+    },
+    {
+      "phase": 5,
+      "path": "bauwirtschaft/bauwirtschaft-hoai-5-werkstatt.md",
+      "sha256": "6b76d9e01152b9299781bde3cf3b56c9dfd620954c67b6e4a69f913414d4829a",
+      "reviewed_on": "2026-09-25",
+      "method": "desk_review",
+      "reason": "Detailstand, technischer Teilbefund und Versand sind getrennte Tatsachen. Die Ausführungsplanung endet nicht mit einer Dateiliste, sondern führt zur konkreten Klärung und kontrollierten Fortschreibung.",
+      "runtime_status": "not_run"
+    },
+    {
+      "phase": 6,
+      "path": "bauwirtschaft/bauwirtschaft-hoai-6-werkstatt.md",
+      "sha256": "7721488a118d0a674ce89ffc52fe3652d8db4406fdbe7f61fc4733324754816b",
+      "reviewed_on": "2026-09-25",
+      "method": "desk_review",
+      "reason": "Ausführungsplanung, Menge, Langtext und Planerpreis sind als eigene Ausgangsdaten definiert. Leistungsgrenzen und besondere Verfahrensfragen bleiben sichtbar, während das LV konkret weiterbearbeitet wird.",
+      "runtime_status": "not_run"
+    },
+    {
+      "phase": 7,
+      "path": "bauwirtschaft/bauwirtschaft-hoai-7-werkstatt.md",
+      "sha256": "e7d5a362c5bd67cadf5abb4d17b6ab8b371333da3671802ce67e9f59472041f1",
+      "reviewed_on": "2026-09-25",
+      "method": "desk_review",
+      "reason": "Preisspiegel, Wertbarkeit und Entscheidung werden getrennt; der Skill bearbeitet den Vergabevorschlag selbst. Angebotsergänzung wird nicht als allgemeines Reparaturrecht dargestellt.",
+      "runtime_status": "not_run"
+    },
+    {
+      "phase": 8,
+      "path": "bauwirtschaft/bauwirtschaft-hoai-8-werkstatt.md",
+      "sha256": "b15bd840ad87aca56ec39516b4cdfb9045bef6a055503d138d7e370ceff32cce",
+      "reviewed_on": "2026-09-25",
+      "method": "desk_review",
+      "reason": "Tatsächlich bestätigte Mengen und tatsächliche Vorzahlungen werden nachgerechnet. Dokumentensichtung ersetzt keine Ortskontrolle; unabhängige Rechnungsteile können trotz offener Anschlussprüfung fortgeführt werden.",
+      "runtime_status": "not_run"
+    },
+    {
+      "phase": 9,
+      "path": "bauwirtschaft/bauwirtschaft-hoai-9-werkstatt.md",
+      "sha256": "f997dee4d25b4f1e64c58d071437fd042c44f4b14430a7c11bc1fea3c7c8df0f",
+      "reviewed_on": "2026-09-25",
+      "method": "desk_review",
+      "reason": "Abnahmemangel, späterer Befund, Bewertungszeitraum, Anspruchsfrist und besondere Sanierungsüberwachung fachlich getrennt. Sicherheitenfreigabe bleibt eine belegabhängige Mitwirkung, keine automatische Erledigung.",
       "runtime_status": "not_run"
     }
   ]

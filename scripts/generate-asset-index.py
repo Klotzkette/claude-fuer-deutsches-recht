@@ -57,7 +57,7 @@ def main() -> int:
         "",
         f"Stand: {version}, automatisch aktualisierte Asset-Übersicht",
         "",
-        "[Repository-Start](README.md) · [Plugin-Katalog](README.md#was-ist-drin) · [Skill-Gesamtübersicht](SKILLS.md) · [Schwerpunkt-Prompts](SCHWERPUNKTE.md) · [Qualitätslabor](QUALITY.md) · [Testakten](testakten/README.md) · [Aktueller Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest)",
+        "[Repository-Start](README.md) · [Plugin-Katalog](README.md#was-ist-drin) · [Skill-Gesamtübersicht](SKILLS.md) · [Schwerpunkt-Prompts](SCHWERPUNKTE.md) · [HOAI-Phasen-Werkstätten](docs/bauwirtschaft-hoai-phasen.md) · [Qualitätslabor](QUALITY.md) · [Testakten](testakten/README.md) · [Aktueller Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest)",
         "",
         "## Sammel-Assets",
         "| Asset | Verwendung |",

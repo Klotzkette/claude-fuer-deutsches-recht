@@ -2,30 +2,687 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält alle 20 Skills des Plugins `bauwirtschaft`.
+Diese Vollprüfung enthält top-15 von 29 Skills des Plugins `bauwirtschaft`.
 
 ## Inhaltsverzeichnis
 
-1. **bauprojekt-starten-und-arbeitsstand-fortfuehren** — Startet und bearbeitet ein Bauprojekt für Bauherr, Projektentwickler, Bauleitung oder kaufmännisches Team bis zur konkre…
-2. **projektziele-und-entscheidungsrahmen-festlegen** — Erstellt Projektauftrag, Zielkatalog und Entscheidungsrahmen für Bauherren und Projektentwickler mit messbaren Nutzungs-…
-3. **leistungsverzeichnis-erstellen-und-pruefen** — Erstellt oder bereinigt ein Bauleistungsverzeichnis mit positionsbezogenen Mengen, Einheiten, Planbezug, Leistungsgrenze…
-4. **bauangebote-werten-und-vergabevorschlag-erstellen** — Erstellt Preisspiegel und begründeten Vergabevorschlag aus Bauangeboten, festgelegten Kriterien und zulässigen Aufklärun…
-5. **maengel-und-abnahme-bearbeiten** — Erstellt Mängelanzeige, Abnahmeprotokoll oder begründete Abnahmeentscheidung aus Vertrag und dokumentierter Prüfung. Tre…
-6. **bieterfragen-und-ruegen-bearbeiten** — Erstellt Bieterfrage, Antwort oder vergaberechtliche Rüge mit belegtem Sachverhalt, gewünschter Abhilfe und zeitbezogene…
-7. **baubuchhaltung-und-belege-abgleichen** — Gleicht Rechnungen, Gutschriften, Buchungen, offene Posten und Bankbewegungen im Bauunternehmen ab und erstellt nachvoll…
-8. **projektliquiditaet-und-zahlungsplan-erstellen** — Erstellt einen fortgeschriebenen Zahlungs- und Liquiditätsplan für Bauvorhaben oder Bauunternehmen mit Fälligkeiten, Zah…
-9. **hoai-phasen-und-planstaende-abgleichen** — Ordnet Gebäudeplanung den neun Leistungsphasen nach HOAI Anlage 10 zu und erstellt eine belegte Leistungs- und Planstand…
-10. **uebergabe-und-gewaehrleistung-organisieren** — Erstellt Übergabeunterlagen, Restpunkteliste und belegtes Gewährleistungsregister für Bauherren und Betreiber. Trennt Be…
-11. **nachunternehmer-und-sicherheiten-steuern** — Erstellt einen nachunternehmerbezogenen Leistungs-, Nachweis- und Sicherheitenstand mit konkreter Anforderung oder Rückg…
-12. **baurechnungen-pruefen-und-zahlung-vorbereiten** — Erstellt einen positionsbezogenen Rechnungsprüfvermerk und begründeten Zahlungsvorschlag aus Vertrag, Aufmaß, Nachträgen…
-13. **bautagebuch-und-aufmass-fuehren** — Erstellt oder ergänzt Bautagesberichte und positionsbezogene Aufmaße aus tatsächlichen Beobachtungen, Fotos und Messdate…
-14. **bauvertrag-und-schnittstellen-ausformulieren** — Erstellt einen vollständigen Bauvertragsentwurf oder eine beauftragte Schnittstellenvereinbarung aus Angebot, LV, Planst…
-15. **projektbericht-und-entscheidungsvorlage-erstellen** — Erstellt einen adressatengerechten Bauprojektbericht oder eine Beschlussvorlage mit abgeglichenem Kosten-, Termin-, Plan…
-16. **vergabe-und-losbildung-vorbereiten** — Erstellt Vergabefahrplan, Auftragswertschätzung und Loskonzept für Bauherren und Vergabeteams. Prüft Auftraggeber, Leist…
-17. **nachtraege-pruefen-und-vereinbaren** — Prüft Bauleistungsänderungen und Nachtragsangebote nach Ursache, Beauftragung, Mengen, Preis und Bauzeit und erstellt Pr…
-18. **bauablauf-und-terminplan-fortschreiben** — Erstellt oder korrigiert Bauablauf- und Terminpläne anhand von Planlieferungen, Vergabe, Ressourcen, Ausführung und Inbe…
-19. **behinderung-und-bauzeitfolgen-dokumentieren** — Erstellt Behinderungsanzeige, Antwort und ereignisbezogenen Bauzeitnachweis aus Sollablauf, tatsächlicher Störung und Re…
-20. **baubudget-und-kostenprognose-fortschreiben** — Erstellt und aktualisiert Baubudget, Vergabestand und Kostenprognose mit Aufträgen, Nachträgen, Restleistungen und geson…
+1. **hoai-4-genehmigungsplanung-und-nachforderungen-bearbeiten** — Bearbeitet die Gebäude-Genehmigungsplanung der HOAI-Leistungsphase 4 vom Antragsstand bis zur begründeten Nachreichung. …
+2. **hoai-3-entwurf-und-kostenberechnung-abstimmen** — Führt die Gebäude-Entwurfsplanung nach HOAI-Leistungsphase 3 mit abgestimmter Objekt- und Fachplanung, Objektbeschreibun…
+3. **hoai-5-ausfuehrungsplanung-und-details-koordinieren** — Koordiniert die Gebäude-Ausführungsplanung nach HOAI-Leistungsphase 5 mit vermaßten Details, Fachplanerkollisionen, Revi…
+4. **hoai-8-bauueberwachung-und-dokumentation-fuehren** — Bearbeitet die Gebäude-Objektüberwachung nach HOAI-Leistungsphase 8 mit Planabgleich, Bautagebuch, Mengenprüfung, Kosten…
+5. **hoai-2-vorplanung-und-varianten-entwickeln** — Erarbeitet die Gebäude-Vorplanung nach HOAI-Leistungsphase 2 mit vergleichbaren Varianten, Kostenschätzung, Terminen und…
+6. **hoai-6-leistungsverzeichnis-und-vergabeunterlagen-erstellen** — Erstellt die Vergabeunterlagen für Gebäude nach HOAI-Leistungsphase 6 mit Mengennachweis, Langtext-LV, getrennten ungepr…
+7. **hoai-9-objektbetreuung-und-maengelverfolgung-organisieren** — Bearbeitet die Gebäude-Objektbetreuung nach HOAI-Leistungsphase 9 mit Bewertung späterer Mängel, Begehung vor Fristablau…
+8. **hoai-1-grundlagen-und-planungsauftrag-klaeren** — Erarbeitet die Grundlagenermittlung für Gebäude nach HOAI-Leistungsphase 1 mit Bedarfsangaben, Ortsbesichtigungsbefunden…
+9. **hoai-7-angebote-werten-und-vergabe-vorbereiten** — Bereitet die Gebäudevergabe nach HOAI-Leistungsphase 7 vor, von Angeboten über positionsbezogene Wertung und zulässige A…
+10. **bauprojekt-starten-und-arbeitsstand-fortfuehren** — Startet und bearbeitet ein Bauprojekt für Bauherr, Projektentwickler, Bauleitung oder kaufmännisches Team bis zur konkre…
+11. **projektziele-und-entscheidungsrahmen-festlegen** — Erstellt Projektauftrag, Zielkatalog und Entscheidungsrahmen für Bauherren und Projektentwickler mit messbaren Nutzungs-…
+12. **leistungsverzeichnis-erstellen-und-pruefen** — Erstellt oder bereinigt ein Bauleistungsverzeichnis mit positionsbezogenen Mengen, Einheiten, Planbezug, Leistungsgrenze…
+13. **bauangebote-werten-und-vergabevorschlag-erstellen** — Erstellt Preisspiegel und begründeten Vergabevorschlag aus Bauangeboten, festgelegten Kriterien und zulässigen Aufklärun…
+14. **maengel-und-abnahme-bearbeiten** — Erstellt Mängelanzeige, Abnahmeprotokoll oder begründete Abnahmeentscheidung aus Vertrag und dokumentierter Prüfung. Tre…
+15. **bieterfragen-und-ruegen-bearbeiten** — Erstellt Bieterfrage, Antwort oder vergaberechtliche Rüge mit belegtem Sachverhalt, gewünschter Abhilfe und zeitbezogene…
+
+---
+
+## Skill: `hoai-4-genehmigungsplanung-und-nachforderungen-bearbeiten`
+
+_Bearbeitet die Gebäude-Genehmigungsplanung der HOAI-Leistungsphase 4 vom Antragsstand bis zur begründeten Nachreichung. Erstellt ein zusammenhängendes Genehmigungspaket mit Planbezug, Abweichungsbegründung und fortgeschriebenem Nachforderungsstand. Aktiviert bei phasenweiter Bearbeitung, nicht für eine isolierte Rechnung, Honorarfrage oder bloße Fristnotiz._
+
+# 1. Gebäudeantrag und Nachreichung zur Entscheidung vorbereiten
+
+## 1. Zweck und Anwendungsfall
+
+Erstellen Sie aus Entwurfsplanung, Fachbeiträgen und Behördenpost die benötigten Genehmigungsunterlagen. Bei klarem Auftrag beginnen Sie mit Antwortschreiben oder Antragsentwurf und bearbeitbaren Anlagen. Eine Unterlagenliste ersetzt das Ergebnis nicht.
+
+Gebäude und Innenräume gehören zum gemeinsamen Leistungsbild nach Paragraf 34 HOAI und Anlage 10. Prüfen Sie bei Innenräumen Vertragsumfang und abweichende Bewertungen; die Beispiele betreffen Gebäude. Freianlagen, Verkehrsanlagen, Ingenieurbauwerke, Tragwerk und TGA bleiben andere Leistungsbilder. Koordination ersetzt keine Fachnachweise. Einzelne Rechnungen oder reine Planstandsvergleiche bleiben im passenden Querschnittsskill.
+
+## 2. Eingaben
+
+Lesen Sie Auftrag, Abruf, Entwurfsentscheidung, Pläne, Nutzung, Nachweise, Vollmacht und Behördenpost. Erfassen Sie Grundstück, Bundesland, Datum, Verfahren, Bauherrschaft und Entwurfsverfassung. Eine Mail „bitte fertig machen“ erweitert nicht automatisch Vollmacht oder Planungsziel.
+
+Ohne Material fragen Sie nach Ort, Vorhaben, Rolle und Produkt. Bei einem Ordner ohne Ziel bieten Sie Antragszusammenstellung oder Nachforderungsantwort an. Bei Fristen benötigen Sie Schreiben und Zugang; ein offener Verfahrenspfad verhindert keine mögliche Fristsicherungsanfrage. Bündeln Sie entscheidungswirksame Rückfragen und benennen Sie die davon abhängige Textstelle oder Variante.
+
+## 3. Ablauf / Checkliste
+
+### 3.1. Auftrag und Verfahren eingrenzen
+
+Erfassen Sie vereinbartes Planungsziel, beauftragte Grundleistungen, Besondere Leistungen, Termine und Vertretungsgrenzen. Der Leistungsbeschrieb der HOAI ist kein automatischer Vertragsauftrag. Die 3 Prozent für Gebäude-LPH 4 sind ein Honoraranteil, weder Genehmigungswahrscheinlichkeit noch Baufortschrittsanteil. Paragraf 650p BGB knüpft an vereinbarte Ziele an.
+
+Prüfen Sie das zum Vorgang geltende Landesrecht, Übergangsrecht, Bauvorlagenrecht und die zuständige Stelle. Unterscheiden Sie Bauantrag, Vorbescheid, Änderungsantrag, Abweichung, Ausnahme/Befreiung und ein besonderes Zustimmungsverfahren. Eine kommunale Bauherrschaft macht das Vorhaben nicht automatisch zum Zustimmungsfall. „Zustimmung“ kann auch Nachbareinverständnis, Bauherrenentscheidung oder eine produktbezogene Zustimmung im Einzelfall meinen. Ermitteln Sie stets Gegenstand, Zuständigkeit und Rechtswirkung.
+
+### 3.2. Einreichungsstand rekonstruieren
+
+Führen Sie je Vorlage Kennung, Revision, Datum, Verfasser, Inhalt, Versandbeleg und Status. Gezeichnet, hochgeladen, übermittelt, eingegangen, vollständig und genehmigt sind verschiedene Zustände. Vergleichen Sie den quittierten Dateisatz mit Anlagenverzeichnis und lesbaren Plänen. Alte Revisionen bleiben erhalten; Dateinamen beweisen keine vorhandenen Anlagen.
+
+Gleichen Sie Lageplan, Grundriss, Schnitt, Höhen, Flächen und Nutzungsangaben gegeneinander ab. Rechnen Sie nachweisbare Flächen und Abstände mit Einheiten und Quellen nach. Pixelmessung ohne gesicherte Skalierung ersetzt kein vermaßtes Planmaß. Prüfen Sie Fachnachweise nur innerhalb des belegbaren Auftrags; keine eigene Statik-, Brandschutz- oder Barrierefreiheitsfreigabe.
+
+### 3.3. Nachforderungen konkret bearbeiten
+
+Übernehmen Sie jede tatsächlich gestellte Forderung mit Bezug auf Schreiben, Ziffer und Frist in denselben Arbeitsstand. Unterscheiden Sie fehlende Datei, widersprüchliche Planung, nachzureichenden Fachnachweis und materielle Genehmigungsfrage. Bestimmen Sie die passende Zuarbeit, verantwortliche Person, benötigte Entscheidung und betroffene Planrevision. Schreiben Sie die Antwort bereits für geklärte Punkte aus. Bei fehlender Fachbestätigung formulieren Sie genau die benötigte Anfrage, statt eine Bestätigung vorzutäuschen.
+
+Beantragen Sie bei Bedarf eine bestimmte, begründete Fristverlängerung als Entwurf. Eine beantragte Verlängerung gilt nicht als gewährt. Prüfen Sie Zugang, Normstand und mögliche Verfahrensfolgen separat; keine automatische Genehmigungsfiktion aus verstrichener Zeit oder Schweigen. Tragen Sie nach Eingang einer Antwort nur belegte Statusänderungen ein.
+
+### 3.4. Abweichung und Planänderung ausarbeiten
+
+Benennen Sie die konkrete Anforderung mit verifizierter Fundstelle, das betroffene Bauteil und die Abweichung in nachvollziehbaren Maßen. Stellen Sie Schutzzweck, tatsächliche Randbedingungen, nachbarliche Belange, nachgewiesene Kompensation und noch offene Fachprüfung dar. Trennen Sie eine bauordnungsrechtliche Abweichung von einer planungsrechtlichen Ausnahme oder Befreiung. Nachbarliche Zustimmung ersetzt weder behördliche Entscheidung noch technische Nachweise.
+
+Vergleichen Sie bei einer realen Wahl Plananpassung und begründeten Antrag hinsichtlich Nutzung, belegten Kosten, Terminen und offenen Voraussetzungen. Keine Genehmigungszusage. Ändert die Bauherrschaft Nutzung oder Kubatur, prüfen Sie die Folgen für Entwurf, Berechnungen, Fachplanung und Auftrag; deklarieren Sie das nicht pauschal als kostenfreie Nachreichung oder automatisch vergütungspflichtige Besondere Leistung.
+
+### 3.5. Leistungsgrenze und Fortsetzung sichern
+
+Anlage 10 nennt in LPH 4 die Erarbeitung/Zusammenstellung, Einreichung sowie Ergänzung/Anpassung. Die Mitwirkung bei nachbarlicher Zustimmung, bestimmte Nachweise für behördliche Zustimmungen im Einzelfall und Unterstützung im Widerspruchs- oder Klageverfahren sind dort als Besondere Leistungen aufgeführt. Prüfen Sie den konkreten Inhalt und Vertrag; nicht jeder technische Beitrag und nicht jede Nachforderung ist allein wegen ihres Namens zusätzlich zu vergüten.
+
+Führen Sie nach Antworten dieselben Vorgangskennungen und Fassungen weiter. Bei einer neuen Variante legen Sie einen kenntlichen Zweig mit eigener Annahme an; bei einem anderen Projekt trennen Sie Grundstück, Normstand und Akte vollständig. Nach Bescheid ordnen Sie jede Nebenbestimmung dem betroffenen Plan/Fachbeitrag zu und schreiben die Übergabe an LPH 5. Entwurf, behördliche Entscheidung, technische Freigabe, Bauleiterbestellung und Ausführungsbeginn bleiben getrennt. Ohne Befugnis keine Einreichung, Erklärung gegenüber Nachbarn, Anerkennung oder technische Freigabe.
+
+## 4. Quellenpflicht
+
+Verbindlich sind [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bauwirtschaft/references/zitierweise.md), die vorhandenen [Fachquellen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bauwirtschaft/references/fachquellen.md#12-gebäudeplanung-und-hoai) und das gezielte [Quellenprotokoll LPH 4](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bauwirtschaft/references/hoai-4-fachquellen.md). Verifizieren Sie HOAI Anlage 10, Paragraf 34 HOAI, Paragraf 650p BGB sowie die konkret tragende Landesnorm live anhand amtlicher Quellen. Abrufdatum ist nicht der zeitliche Anwendungsnachweis. Bei Zugriffsproblemen benennen Sie die fehlende Passage und liefern unabhängig bearbeitbare Teile weiter.
+
+Keine erfundenen Entscheidungen oder Randnummern. Die vorhandenen BGH-Anker zu Vertragsstrafe und Mehrmengen tragen keine pauschale Genehmigungsargumentation. Normgestützte Arbeit darf ohne Urteilszitat auskommen. DIN- und sonstige nicht frei zugängliche technische Texte nur aus bereitgestellten oder lizenziert verifizierten Quellen anwenden, nicht als frei rekonstruierte Normbibliothek ausgeben.
+
+## 5. Ausgabeformat
+
+Liefern Sie das bestellte, vollständig ausformulierte Anschreiben oder Antragspaket, ein konkretes Anlagenverzeichnis und den fortgeschriebenen Nachforderungsstand mit belegten Planrevisionen. Nur erforderliche Rechenblätter und Entscheidungsvarianten ergänzen. Der Empfängertext enthält keine internen Prüfaufträge, Quellenabrufprobleme oder Chat-Anweisungen; diese stehen in einer getrennten Übergabenotiz.
+
+Ausformulierungspflicht: Vollständige, grammatikalisch saubere Sätze statt Skelette, Halbsätze oder bloßer Aufzählungs-Auswürfe. Tabellen dürfen fachübliche Datenfelder enthalten, ersetzen aber nicht das beauftragte Dokument. Formatstandard: soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen nach Überschriften. Deutsch mit Umlauten und ß, Paragraf ausschreiben. Nicht erzeugte Dateien, Unterschriften, Prüfungen oder Außenhandlungen niemals behaupten.
+
+## 6. Beispiele
+
+Ein Werkhofantrag enthält Plan G-02, die Nachforderung verlangt den Schnitt zur nördlichen Außenwand und eine Erläuterung des Grenzabstands. Schreiben Sie eine punktgenaue Nachreichungsantwort, rechnen Sie die belegte Geometrie nach und arbeiten Sie eine begründete Variante aus. Die Nachbar-Mail „für uns in Ordnung“ wird nicht zur behördlich zugelassenen Abweichung.
+
+Die Bauherrschaft wählt später die eingerückte Wand. Aktualisieren Sie dieselbe Nachforderung, Flächen und Anlagen; erhalten Sie die historische Fassung. Ein Portalbeleg schließt nur den nachweislich übermittelten Teil, nicht das Verfahren.
+
+---
+
+## Skill: `hoai-3-entwurf-und-kostenberechnung-abstimmen`
+
+_Führt die Gebäude-Entwurfsplanung nach HOAI-Leistungsphase 3 mit abgestimmter Objekt- und Fachplanung, Objektbeschreibung, Kostenberechnung und Terminen fort. Liefert den Entwurfsstand mit Vergleich zur Kostenschätzung. Für phasenweite Entwurfsarbeit, nicht für einzelne Rechnungen, Planindizes oder Honorarprüfungen._
+
+# 1. Entwurf, Fachbeiträge und Kosten auf einen Stand bringen
+
+## 1. Zweck und Anwendungsfall
+
+Erarbeiten Sie den Gebäudeentwurf aus gewählter Vorplanung und Fachbeiträgen: tatsächliche Zeichnungen, Objektbeschreibung, Kostenberechnung und Termine. Liefern Sie diese Produkte oder den enger bestellten Teil selbst. Eine Planerverweisung, Skillkette oder ein Bericht ohne bestellte Entwurfsunterlage reicht nicht.
+
+Dieser Skill ist für phasenweite Entwurfsarbeit bestimmt. Isolierte Rechnungsprüfung, Liquiditätsplanung oder ein einzelner Planstandabgleich bleiben beim passenden Querschnittsskill. Andere Leistungsbilder wie Tragwerksplanung, Technische Ausrüstung, Freianlagen, Verkehrsanlagen und Ingenieurbauwerke werden nicht als Gebäude-Grundleistungen mitbearbeitet. Gebäude und Innenräume gehören zum gemeinsamen Leistungsbild; Verträge und teilweise unterschiedliche Bewertungen nicht pauschal übertragen. Die hier genannten 15 Prozent betreffen Gebäude. Fachbeiträge integrieren bedeutet nicht, deren fachliche Autorenschaft und Prüfung zu übernehmen.
+
+## 2. Eingaben
+
+Lesen Sie Vertrag, Abruf, Vorplanungsentscheidung, Planindex, Zeichnungen, Fachbeiträge, Kostenschätzung, Budget und Termine. Bei klarem Auftrag direkt am Produkt arbeiten. Ohne Material nach Objekt, Rolle und Ergebnis fragen; danach nur entscheidende Lücken klären, etwa bestätigte oder nur vorgeschlagene Technikfläche.
+
+Pläne brauchen Kennung, Revision, Datum und Zweck. Widersprechende Fassungen nicht still zusammenführen. Kosten benötigen Mengen-, Preis- und Steuerbasis, Termine Vorgänger und Dauerbasis. Fehlende Nachweise bleiben konkrete Abhängigkeiten statt erfundener technischer Bestätigung.
+
+## 3. Ablauf / Checkliste
+
+### 3.1. Entwurfsauftrag und Ausgangsentscheidung sichern
+
+Prüfen Sie Gebäudeauftrag, Grenzen, Änderungen und Befugnisse. Das Leistungsbild beauftragt nicht automatisch alle Leistungen oder Folgephasen. Notwendige Integration nicht schematisch als Zusatz ablehnen: vereinbarte Ziele nach Paragraf 650p BGB und Vertragsauslegung bleiben maßgeblich. Festhalten, welche Vorplanung mit welchen Bedingungen beschlossen wurde.
+
+Nutzungs-, Flächen- und Ausstattungsänderungen einer Entscheidung zuordnen; Vorzustand erhalten. Vertiefte Variantenoptimierung mit Kostenuntersuchung und vertiefte Kostenberechnung sind Besondere Leistungen. Übliche Entwurfsanpassung ist deshalb nicht automatisch vergütungspflichtiger Zusatzauftrag.
+
+### 3.2. Fachbeiträge im Entwurf integrieren
+
+Gleichen Sie Achsen, Höhen, Räume, Tragwerk, Erschließung, Schächte und Anlagenflächen ab. Lokalisieren Sie Konflikte mit Planbezug. Koordiniert, vorgeschlagen und ungeprüft unterscheiden; ein Portalstatus beweist keine inhaltliche Integration.
+
+Bei Schachtkonflikten Alternativen zeichnen, Raum- und Kostenfolgen beschreiben und Fachbestätigung anfordern. Keine Statik-, Brandschutz-, Hygiene- oder Betriebsfreigabe erteilen. Landesbauleiter und Prüfsachverständige bleiben gesondert zuständig; medizinische Eignung nicht ungeprüft zusichern.
+
+### 3.3. Zeichnung und Objektbeschreibung tatsächlich herstellen
+
+Erstellen Sie beauftragte Grundrisse, Schnitte und Ansichten. Anlage 10 nennt für Gebäude beispielsweise 1:100, keinen stets ausreichenden Universalmaßstab. Zeichnungen brauchen Maße, erforderlichen Lagebezug, Höhen, Räume, Revision und Zweck. Zeichnung, Flächen und Beschreibung müssen dieselbe Variante betreffen.
+
+Tatsächliche Plandateien erzeugen und prüfen. Textliche Änderungsanweisungen sind nur bei entsprechendem Auftrag Endprodukt; sonst technische Grenze und nutzbaren Zwischenstand liefern. Keine nicht durchgeführte CAD-Prüfung oder Fachberechnung behaupten.
+
+Die Objektbeschreibung erläutert belegte Nutzung, Konstruktion, Hülle, Erschließung und Technik. Unsichere Merkmale als Vorschlag kennzeichnen. Entwurf ist weder Genehmigung noch ausführungsreife Planung.
+
+### 3.4. Kostenberechnung mit Überleitung aufstellen
+
+Bauen Sie die Kostenberechnung aus aktuellem Entwurf und Fachansätzen auf. DIN-276-Gliederung und Ausgabe rechtmäßig prüfen. Mengen, Ansätze, Pauschalenherkunft, Steuer, Preisstand und Ausschlüsse offenlegen. Eine hochgerechnete Kennzahl allein ist keine vollständige Kostenberechnung.
+
+Vergleichen Sie mit der Kostenschätzung auf gleicher Basis. Zerlegen Sie die Abweichung in Mengenänderung, Qualitäts- oder Umfangsänderung, Preisänderung und Korrektur früherer Lücken, soweit die Unterlagen das tragen. Grundstück, Ausstattung, Außenanlagen, Baunebenkosten und Reserve konsistent behandeln. Eine neue Reserve ist keine bereits entstandene Baukostenposition. Vermeiden Sie Doppelansätze für Fachplanerleistungen oder Anlagenkosten.
+
+Rechnen Sie Summen und Budgetabstände tatsächlich nach. Bei fehlender Preisangabe liefern Sie belastbaren Teilbetrag und benannte offene Position, keine scheinpräzise Vollsumme. Die 15 Prozent aus Paragraf 34 sind Honorargewichtung, nicht Baufortschritt oder pauschaler Planungskostenzuschlag. Honorarberechnung nicht ungefragt mit Kostenberechnung vermischen.
+
+### 3.5. Genehmigungsfähigkeit und Termine abstimmen
+
+Verhandlungen über Genehmigungsfähigkeit mit Planstand, Datum, Beteiligten und Vorbehalten dokumentieren. Eine Gesprächsnotiz ersetzt keine Genehmigung. Anträge benötigen den entsprechenden Auftrag, Versand und rechtsgeschäftliche Zusagen Befugnis.
+
+Schreiben Sie Termine anhand verbleibender Koordination, Entscheidungen und Folgeschritte fort. Ausgangstermin, Daueränderung, Vorgänger und Folgeeffekt zeigen. Unbestätigte Behörden- oder Lieferdauern als Annahme führen; ein Wunschtermin beweist keine Erreichbarkeit.
+
+### 3.6. Entscheidung und Fortsetzung liefern
+
+Verfassen Sie das beauftragte Entwurfsdokument mit konkreter Empfehlung, Kostenfolge und noch nötiger Entscheidung. Bei engem Auftrag kein unnötiges Gesamtpaket erzwingen. Nach einer Antwort dieselbe Konfliktkennung, Planrevision und Kostenüberleitung weiterführen. Prüfen Sie alle betroffenen Fachbeiträge und Termine, nicht nur die zuletzt erwähnte Zahl.
+
+Eine verworfene Option bleibt als verworfen nachvollziehbar; sie darf nicht weiter in der Kostenbasis stehen. Ein neuer Betreiberwunsch bildet einen getrennten Zweig, bis die Änderung bestätigt ist. Bei Fallwechsel einen neuen Objektstand eröffnen. Technische Bestätigung, Bauherrenentscheidung und vertraglicher Zusatzauftrag jeweils getrennt dokumentieren.
+
+## 4. Quellenpflicht
+
+Verbindlich ist die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bauwirtschaft/references/zitierweise.md). Nutzen Sie das [Quellenprotokoll Phase 3](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bauwirtschaft/references/hoai-3-fachquellen.md) und die unveränderten [allgemeinen Fachquellen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bauwirtschaft/references/fachquellen.md). Anlage 10 Nummer 10.1 Phase 3, Paragrafen 3 und 34 HOAI sowie Paragraf 650p BGB live amtlich und zeitbezogen prüfen. Quellenstand beweist keine vertragliche Beauftragung und keine tatsächliche Planreife.
+
+Keine erfundenen BGH-Anker, Fundstellen oder Normgrenzwerte. Nur einschlägige verifizierte Entscheidungen ergänzen; wenn Normen die Frage tragen, keine fachfremde Einzelentscheidung einfügen. DIN-Volltexte und Literatur nur bei bereitgestelltem oder lizenziertem, tatsächlich gelesenem Zugang nutzen. Eine nicht geprüfte Normausgabe ausdrücklich benennen, statt eine frei nachgebaute Bibliothek auszugeben.
+
+## 5. Ausgabeformat
+
+Liefern Sie tatsächliche Entwurfsunterlagen und das bestellte Dokument mit benötigten ausgefüllten Anlagen zu Konflikten, Kosten oder Terminen. Interne Prüfung vom Empfängertext trennen. Keine nicht vorhandene Datei, Freigabe oder Außenhandlung behaupten.
+
+Ausformulierungspflicht: Operative Textteile werden in vollständigen, ausformulierten Sätzen geliefert. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Tabellen dürfen Daten enthalten, ersetzen aber nicht die bestellte Erklärung. Formatierte Dokumente verwenden soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen nach Überschriften. Bei Markdown den Exporthinweis getrennt ausgeben. Echte Umlaute und ß verwenden, Paragraf ausschreiben. Technische Freigaben bleiben den befugten Fachleuten vorbehalten.
+
+## 6. Beispiele
+
+Im Ärztehaus schneidet der Lüftungsschacht einen Träger; die Fachpläne haben verschiedene Daten. Lokalisieren Sie den Konflikt, zeichnen Sie den Abstimmungsvorschlag und verfassen Sie die Fachanfrage. Bestätigten Raumtausch in dieselbe Kosten- und Terminfortschreibung übernehmen, ohne Statikfreigabe zu erfinden.
+
+Die Kostenberechnung enthält mehr Technikfläche, während der Vergleich noch die alte Nutzfläche verwendet. Stellen Sie die gleiche Vergleichsbasis her und erklären Sie die Abweichung.
+
+---
+
+## Skill: `hoai-5-ausfuehrungsplanung-und-details-koordinieren`
+
+_Koordiniert die Gebäude-Ausführungsplanung nach HOAI-Leistungsphase 5 mit vermaßten Details, Fachplanerkollisionen, Revisionen und Montageplanabgleichen bis zum abgestimmten Planpaket mit offenen Fachprüfungen. Für phasenweite Planungsarbeit, nicht für einzelne Rechnungen, Mängelanzeigen oder bloße Dateisortierung._
+
+# 1. Ausführungsdetails koordinieren und den gültigen Planstand herstellen
+
+## 1. Zweck und Anwendungsfall
+
+Erarbeiten Sie das Ausführungs- und Detailpaket aus vereinbartem Entwurf, Genehmigung und Fachbeiträgen. Bei klarem Auftrag liefern Sie zuerst die bearbeitbare Detailbeschreibung, Zeichnung oder Koordinationsantwort mit Revisionsstand, nicht nur eine Unterlagenliste.
+
+Aktivierung bei phasenweiter Ausführungsplanung; einzelne Aufmaße, Rechnungen oder Mängelanzeigen bleiben im Querschnittsskill. Gebäude und Innenräume bilden gemeinsam das Leistungsbild nach Paragraf 34 HOAI; für Innenräume Vertragsumfang und abweichende Bewertungen prüfen. Die Beispiele betreffen Gebäude. Tragwerk, TGA, Freianlagen, Ingenieurbauwerke und Verkehrsanlagen bleiben andere Leistungsbilder. Ein Koordinationsdetail ersetzt keinen Fachnachweis.
+
+## 2. Eingaben
+
+Lesen Sie Vertrag/Abruf, Entwurf, Genehmigung samt Auflagen, Bezugssystem, Pläne, Fachbeiträge und Termine. Erfassen Sie je Plan Kennung, Revision, Datum, Urheber, Zweck, Maßstab, Höhenbezug, Versand und Freigabeumfang. „Geprüft“ ohne Prüfgegenstand beweist keine Ausführungsfreigabe.
+
+Ohne Material fragen Sie nach Objekt, Rolle, Planungspaket und dringendstem Detail. Bei einem Ordner ohne Ziel bieten Sie anhand des sichtbaren Konflikts Koordinationsblatt oder Revisionspaket an. Erfragen Sie nur entscheidende Maße, Fachvorgaben oder Bestätigungen. Unabhängige Teile weiterbearbeiten; kein pauschaler Abbruch wegen unvollständiger Gesamtakte.
+
+## 3. Ablauf / Checkliste
+
+### 3.1. Soll und Planbasis festlegen
+
+Ermitteln Sie den vereinbarten Planungsumfang, besondere Detailpflichten und die Aufgaben der Fachplaner. Anlage 10 Nummer 10.1 ist der Zuordnungsrahmen, kein automatischer Vertragsauftrag. Paragraf 650p BGB verlangt die am vereinbarten Ziel ausgerichteten Leistungen. Der 25-prozentige Honoraranteil für Gebäude-LPH 5 ist keine Aussage über Baufortschritt oder mängelfreie Planung.
+
+Fixieren Sie den belegten Ausgangsstand einschließlich Auflagen, maßgeblicher Schnitte und Bezugsniveaus. Trennen Sie genehmigt, fachlich bestätigt, zur Koordination, zur Ausführung und ersetzt. Ein späteres Datum hebt einen alten Plan nicht ohne Prüfung von Inhalt und Autorisierung auf. Prüfen Sie, ob eine Detailänderung genehmigungsrelevante Merkmale berührt; gegebenenfalls Rückkopplung zu LPH 4 statt stiller Abweichung auf der Baustelle.
+
+### 3.2. Detail wirklich ausarbeiten
+
+Zeigen Sie beim beauftragten Detail Geometrie, Bezugskanten, Schichten, Materialien, Anschlüsse, Befestigungsprinzip, Toleranz-/Bewegungsraum und Gewerkeübergänge, soweit belegt und im Auftrag. Liefern Sie eine echte Darstellung mit nachvollziehbaren Maßen oder eine prüfbare textliche Ergänzung zum konkret benannten Plan. Eine Liste „Detail noch erstellen“ ist kein Detailprodukt.
+
+Rechnen Sie Höhenketten, Öffnungsmaße oder Schichtdicken mit Einheiten nach. Benennen Sie Sollmaß, belegtes Ist-/Planmaß, Differenz und fachliche Bedeutung getrennt. Markieren Sie Annahmen unmittelbar am betroffenen Detail; aus einer rechnerisch passenden Höhe folgt keine Tragfähigkeit, Brandschutz- oder Gebrauchstauglichkeitsfreigabe. Ohne belastbare Bildskalierung keine Genauigkeit aus Bildschirm-Pixeln behaupten.
+
+### 3.3. Fachplanerkollision bearbeiten
+
+Ordnen Sie jede Kollision räumlich nach Geschoss, Achse, Raum und Bauteil. Vergleichen Sie die tatsächlich betroffenen Revisionen und Höhenbezüge. Beispiel: Unterzugunterkante, gedämmter Kanal einschließlich Aufhängung und benötigte lichte Raumhöhe müssen in einer Höhenkette zusammenpassen. Eine bloße Modellüberschneidung und ein realer Einbaukonflikt sind nicht gleichbedeutend.
+
+Entwerfen Sie realistische Varianten mit Auswirkungen auf Nutzung, Tragwerk, TGA, Brandschutz, Wartung und Termin. Erstellen Sie die konkrete Koordinationsanfrage an die richtige Fachplanung. Keine eigenmächtige Trägerbohrung, reduzierte Dämmung oder verschobene Brandschutzklappe. Nach Antwort aktualisieren Sie dieselbe Konfliktkennung und alle betroffenen Details; eine Zustimmung zu einer Route beantwortet nicht automatisch die Befestigungs- oder Abschottungsfrage.
+
+### 3.4. Montagepläne in ihrer Reichweite prüfen
+
+Anlage 10 nennt als Grundleistung das Überprüfen erforderlicher Montagepläne der vom Objektplaner geplanten Baukonstruktionen und baukonstruktiven Einbauten auf Übereinstimmung mit der Ausführungsplanung. Prüfen Sie deshalb zunächst Gegenstand und eigenen Planungsanteil. Vergleichen Sie Maße, Anschlüsse und Schnittstellen mit eindeutigem Planbezug; unterscheiden Sie Übereinstimmung, Abweichung und nicht prüfbaren Fachinhalt.
+
+Nicht jeden Werkstattplan pauschal als Besondere Leistung behandeln. Umgekehrt ist die Prüfung und Anerkennung bestimmter Pläne Dritter für nicht in den anrechenbaren Kosten erfasste Anlagen gesondert aufgeführt. Bei Leistungsbeschreibung mit Leistungsprogramm beachten Sie die spezielle Fußnote zum Wechsel von Grund- und Besonderen Leistungen und entfallenden Grundleistungen. Unternehmerplanung ersetzt nicht ohne Vertrag sämtliche Objektplanung; die Objektplanung übernimmt durch einen Prüfvermerk nicht sämtliche Fertigungs- und Fachverantwortung.
+
+### 3.5. Revision, Freigabe und Termin fortschreiben
+
+Erstellen Sie einen Änderungsnachweis mit altem/neuem Inhalt, Anlass, betroffenen Plan- und LV-Kennungen, Prüfer, Reichweite und Versandkreis. Revisionswolken ergänzen, aber ersetzen diesen Text nicht. Geben Sie den konkreten Verwendungszweck an; „freigegeben“ ohne Person, Datum, Gegenstand und Vorbehalt reicht nicht. Sie dürfen einen Freigabeentwurf formulieren, nicht selbst die fachliche Befugnis übernehmen.
+
+Führen Sie den Terminplan über echte Abhängigkeiten fort: Fachantwort, Detailabschluss, Bauherrenentscheidung, Übergabe an LPH 6 und erforderlicher Vorlauf des Unternehmens. Der Wunschbaubeginn ist keine Ausführungsreife. Unabhängige Bereiche dürfen separat weiterarbeiten, wenn ihre Grenzen und Schnittstellen eindeutig sind. Keine pauschale Sperre der ganzen Baustelle und keine erfundene Teilfreigabe.
+
+### 3.6. Im selben Stand weiterarbeiten
+
+Bei Folgeantworten ändern Sie nur betroffene Details, Mengen, Planrevisionen und Termine; erhalten Sie die Entscheidungshistorie. Ein verworfener Lösungszweig bleibt als verworfen erkennbar. Für ein alternatives Material oder eine andere Leitungsroute bilden Sie eine gekennzeichnete Variante mit eigenen Voraussetzungen. Bei Fallwechsel eröffnen Sie eine getrennte Projektbasis. Landesrechtlicher Bauleiter, Prüfingenieur/Prüfsachverständiger, Fachplaner und Objektplaner behalten ihre unterschiedlichen Rollen. Externe Planverteilung, Bestellungen und technische Freigaben nur mit entsprechender Befugnis.
+
+## 4. Quellenpflicht
+
+Nutzen Sie [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bauwirtschaft/references/zitierweise.md), die [Fachquellen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bauwirtschaft/references/fachquellen.md#12-gebäudeplanung-und-hoai) und [Quellenprotokoll LPH 5](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bauwirtschaft/references/hoai-5-fachquellen.md). Prüfen Sie Paragraf 34 und Anlage 10 HOAI sowie Paragraf 650p BGB live. Für konkrete Landes- und technische Anforderungen gilt der projektbezogene Zeitpunkt; die Genehmigung und bereitgestellte Nachweise sind eigenständige Belege.
+
+Keine DIN-Anforderungen, Tabellen oder Bemessungsregeln aus Erinnerung rekonstruieren. Fordern Sie benötigte lizenzierte Auszüge oder Fachbestätigungen gezielt an. Keine erfundenen BGH-Anker; Mehrmengen- oder Vertragsstrafenurteile lösen keine Detailkollision. Nur zusätzlich verifizierte, sachlich passende Entscheidungen mit genauer Reichweite einsetzen. Abruflücken und ungeprüfte Fachfragen getrennt von festgestellten Planwidersprüchen dokumentieren.
+
+## 5. Ausgabeformat
+
+Liefern Sie das ausgearbeitete Detail-/Koordinationspaket mit konkreter Zeichnung oder Planergänzung, nachvollziehbarer Maßrechnung, beantworteter Koordinationskorrespondenz sowie revidiertem Plan- und Versandindex. Die Reichweite der Bearbeitung und noch benötigte Fachentscheidung stehen in einer knappen Übergabe, nicht als versteckte pauschale Ausführungsfreigabe im Plankopf.
+
+Ausformulierungspflicht: Bestellte Schreiben, Detailbeschreibungen und Vermerke bestehen aus vollständigen, ausformulierten Sätzen; Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind kein Endprodukt. Technische Maßfelder bleiben fachübliche Daten. Formatstandard: Times New Roman 11 pt, soweit technisch möglich, dezimale Gliederung mit Leerzeilen, echte Umlaute und ß, Paragraf ausgeschrieben. Pläne verwenden lesbare technische Beschriftung und nennen Darstellungsmaßstab; keine nicht erzeugte CAD-Datei, Berechnung oder Freigabe behaupten.
+
+## 6. Beispiele
+
+Bei einem Schulumbau kollidiert ein Lüftungskanal mit einem Unterzug. Die Genehmigung verlangt die belegte lichte Höhe des Flurs. Zeichnen Sie die Höhenkette, stellen Sie die technisch zu bestätigenden Routen gegenüber und formulieren Sie die genaue Fachanfrage. Eine neuere Montagezeichnung mit kleinerem Kanalquerschnitt gilt nicht als bestätigte TGA-Auslegung.
+
+Der Fachplaner bestätigt später eine seitliche Route, jedoch keine Durchdringung des Trägers. Führen Sie denselben Konflikt fort, aktualisieren Sie Durchbruch- und Deckenplan und belassen Sie Befestigung und Abschottung bei der zuständigen Prüfung. Keine erneute vollständige Projektaufnahme und keine Umdeutung zur bereits erteilten Gesamtfreigabe.
+
+---
+
+## Skill: `hoai-8-bauueberwachung-und-dokumentation-fuehren`
+
+_Bearbeitet die Gebäude-Objektüberwachung nach HOAI-Leistungsphase 8 mit Planabgleich, Bautagebuch, Mengenprüfung, Kostenfeststellung, Abnahme, Übergabe und Abnahmemängeln. Für phasenweite Überwachung, nicht für einzelne Rechnungen oder Mängelanzeigen. Wertet Vor-Ort-Befunde aus, ersetzt aber keine Ortskontrolle._
+
+# 1. Gebäudeausführung belegt überwachen und bis zur Übergabe dokumentieren
+
+## 1. Zweck und Anwendungsfall
+
+Erarbeiten Sie den belastbaren Überwachungsstand und die konkret bestellten Dokumente für ein Gebäude: Planabgleich, Bautagebuchfortschreibung, Mengen-/Rechnungsprüfung, Kostenabschluss oder Abnahme- und Übergabeunterlagen. Die LPH 8 ist tatsächliche Objektüberwachung, nicht bloß Rechnungsverwaltung. Digitale Bearbeitung kann Befunde auswerten und Kontrollen vorbereiten, aber fehlende Beobachtungen vor Ort nicht ersetzen.
+
+Nutzen Sie diesen Skill für phasenweite Arbeit; einzelne Rechnungen, Nachträge oder Behinderungsanzeigen bleiben bei passenden Querschnittsskills. Erstellen Sie das Phasenprodukt selbst. Koordinieren Sie fremde Fachbeiträge ohne deren Prüfverantwortung zu übernehmen.
+
+## 2. Eingaben
+
+Lesen Sie vor Rückfragen den Planervertrag mit Abruf, Bauverträge und Änderungen, Genehmigungsunterlagen, Planrevisionen und Versand, Fachprüfberichte, Terminplan, Tagesberichte, Aufmaße, Rechnungen, Zahlungen und vorhandene Abnahmeunterlagen. Erfassen Sie Rollen, Befugnisse, räumliche Bereiche und Stichtag. Fragen Sie nicht nach erneutem Upload bereits lesbarer Angaben.
+
+Ohne Material klären Sie Objekt, Rolle, nächste Entscheidung und Ausführungsbelege. Bei ungerichtetem Ordner schlagen Sie nach Belegsichtung ein Arbeitsziel vor, bei klarem Auftrag beginnen Sie direkt. Fragen Sie nur nach entscheidenden Lücken wie Detailversand, Mengenbestätigung oder Abnahmevollmacht; übrige Teile bleiben bearbeitbar.
+
+## 3. Ablauf / Checkliste
+
+### 3.1. Geschuldetes Soll und Zuständigkeit bestimmen
+
+Leiten Sie den Überwachungsauftrag aus Vertrag und vereinbarten Zielen ab, nicht automatisch aus dem HOAI-Katalog. Stellen Sie je Bauteil Genehmigungsanforderung, Vertragsleistung, Ausführungsplan, Revision, Fachbeitrag und tatsächlich belegten Zustand gegenüber. Der Gebäudehonoraranteil von 32 Prozent ist weder Baufortschritt noch Rechnungsquote.
+
+Öffentlich-rechtlicher Landesbauleiter, Tragwerksüberwachung, Prüfingenieur/Prüfsachverständiger, Fachbauleitung, Sicherheitskoordination und Objektüberwachung bleiben getrennt. Die in Anlage 10 genannte begrenzte Tragwerksüberwachung nicht auf beliebige Tragwerke ausdehnen. Landesrecht und jeweilige Bestellung verifizieren. Öffentlich-rechtliche Abnahmen nicht als privatrechtliche Abnahme oder Nutzungsfreigabe ausgeben.
+
+### 3.2. Ausführung und verdeckte Leistungen konkret bearbeiten
+
+Kennzeichnen Sie pro Befund Beobachter, Datum, Ort/Achse, Methode, Messwert, Bild oder Protokoll, Planbezug und Erkenntnisgrenze. Trennen Sie eigene Dokumentenauswertung von Berichten Dritter. Bei bevorstehender Verdeckung oder sicherheitsrelevantem Widerspruch erstellen Sie sofort die konkrete Prüf-/Klärungsanforderung an die zuständige Fachperson und weisen auf den Entscheidungsbedarf vor Fortsetzung hin. Kein erfundener Baustopp oder eigenmächtiger Eingriff.
+
+Ein freigegebener Plan beweist nicht seinen Einbau; ein Foto beweist keine unsichtbare Anschlusslage. Zeichnen Sie erkennbare Geometrie nach, wenn beauftragt, und beschriften Sie Annahmen. Fordern Sie fehlende Messung oder Öffnung durch Befugte an. Aus einem Dokumentenvergleich darf kein Satz wie „vor Ort mängelfrei geprüft“ entstehen.
+
+### 3.3. Bauablauf und Koordination fortschreiben
+
+Erstellen beziehungsweise ergänzen Sie Tagesberichte mit Wetterquelle, Anwesenheit, Tätigkeiten, Kontrollen, Lieferungen, Störungen, Weisungsgeber und Anlagen. Nachgetragene Information erhält Erfassungsdatum und Herkunft. Unterschrift, gemeinsame Anwesenheit oder damalige Kenntnis nicht nacherfinden.
+
+Fortschreiben des Balkenterminplans erfolgt aus belegten Dauern, Abhängigkeiten und Kalendern. Behalten Sie Basis, Ist und Prognose getrennt; eine Unternehmermeldung allein belegt weder kritischen Pfad noch Haftung. Führen Sie Schnittstellen zwischen Dach, Fassade und Ausbau mit konkreter benötigter Zuarbeit und Entscheidung. Differenzierte Kapazitätsplanung und Zahlungsplan sind nicht pauschal Grundleistung.
+
+### 3.4. Aufmaß, Rechnung und Nachträge verbinden
+
+Rechnen Sie Mengen aus prüfbaren Geometrien und Vertragsregeln nach. Halten Sie Auftrag, Unternehmeraufmaß, gemeinsames Aufmaß und offene Menge getrennt. Prüfvermerk ist keine Mengenvereinbarung. Verwenden Sie vertraglich belegte Abzugs-/Übermessungsregeln, keine erfundene DIN-Regel. Rechnen Sie kumulierte Leistung, genehmigte Änderungen, streitige Forderung, Netto/Steuer/Brutto, tatsächliche Vorzahlungen und verbleibenden Saldo nachvollziehbar.
+
+Trennen Sie Leistungswertkorrektur, vertragliche Sicherheit, Mängeleinbehalt und Zahlungsfreigabe. Einen nicht bezahlten früheren Abschlag nicht als Vorzahlung abziehen. Ein Nachtragsangebot belegt weder Anordnung noch Vergütungsvereinbarung. Prüfen Sie Nachtragsgrund, Umfang, Befugnis, Preis und Terminfolge; LPH-7-Angebotswertung kann ergänzen. Kein pauschaler Anspruch auf 80 Prozent jeder Forderung.
+
+### 3.5. Kostenfeststellung und Abnahme vorbereiten
+
+Vergleichen Sie Rechnungsergebnisse mit Vertrag einschließlich wirksamer Änderungen und bauen Sie die Kostenfeststellung aus den tatsächlichen Kostenbelegen auf. Projektkosten und Rechnungsstand eines einzelnen Loses auseinanderhalten; offene Forderungen und fehlende Schlussbelege gesondert ausweisen. Kostenfeststellung ist keine Liquiditätsrechnung, DIN-276-Zuordnung benötigt eine belegte Ausgabe und keine frei rekonstruierte Normtabelle.
+
+Organisieren Sie die Abnahme mit Fachbeteiligten, dokumentierten Befunden und konkreter Empfehlung an den Auftraggeber. Prüfen Sie wesentliche/unwesentliche Mängel, bekannte Mängelrechte und gegebenenfalls Vertragsstrafenvorbehalt anhand Vertragslage. Entwerfen Sie ein vollständiges Protokoll mit Objektteil, Beteiligten, Erklärung, Vorbehalten, Fristen und offenen Anlagen. Die rechtsgeschäftliche Erklärung bleibt bei Befugten. Weder Nutzung, Rechnungskürzung noch technische Teilprüfung wird ungeprüft zur Abnahme.
+
+### 3.6. Übergabe, Fristen und Abnahmemängel schließen
+
+Ordnen Sie Revisionszeichnungen, Prüfberichte, Bedien-/Wartungsunterlagen, Einweisungen und Schlüssel nach tatsächlichem Empfang. Fehlende Unterlage bleibt offen. Stellen Sie gewerkeweise Anspruchsfristen mit Vertragsbasis, Abnahmeereignis, vorläufigem Ende und geprüften Änderungsereignissen zusammen. Übergabetag ist kein pauschaler Fristbeginn.
+
+Verfolgen Sie bei Abnahme festgestellte Mängel mit derselben Kennung bis zum belegten Beseitigungsbefund; bloße Fertigmeldung genügt nicht. Diese Überwachung gehört zum Katalog der LPH 8. Später festgestellte Mängel unterscheiden: fachliche Bewertung in LPH 9, Überwachung ihrer Beseitigung dort als Besondere Leistung; der konkrete Vertrag entscheidet. Nach Antwort aktualisieren Sie nur betroffene Befunde, Mengen, Kosten, Fristen und Dokumentversionen. Bei neuer Bauetappe eigenen Zweig mit Ausgangsstand anlegen.
+
+## 4. Quellenpflicht
+
+Nutzen Sie [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bauwirtschaft/references/zitierweise.md), [Quellenprotokoll LPH 8](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bauwirtschaft/references/hoai-8-fachquellen.md) und [allgemeine Fachquellen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bauwirtschaft/references/fachquellen.md). HOAI Anlage 10 Nummer 10.1, Paragraf 34 HOAI und Paragraf 650p BGB live prüfen. Für Abnahme/Zahlung insbesondere Paragrafen 632a, 640, 641, 650g und 634a BGB zeitbezogen prüfen. VOB/B nur bei belegter Einbeziehung und Ausgabe. Keine erfundenen Normtexte, Messungen, Rechtsprechungsanker oder Randnummern; Abruflücken und fachliche Prüfgrenzen benennen.
+
+## 5. Ausgabeformat
+
+Liefern Sie das bestellte vollständige Dokument mit ausgefüllten Anlagen, Belegbezug und entscheidenden Restpunkten, keine ungefragte Bestandsübersicht. Ausformulierungspflicht: volle Sätze; Skelette, Halbsätze und reine Aufzählungs-Auswürfe als Endprodukt sind verboten. Unvollständige Entwürfe neu ausformulieren. Tabellen ersetzen keinen bestellten Brief oder Vermerk.
+
+Formatstandard: Times New Roman 11 pt soweit technisch möglich, ausschließlich dezimale Gliederung und Leerzeilen nach Überschriften. Echte Umlaute/ß, Paragraf ausgeschrieben. Exporthinweise und interne Prüfgrenzen getrennt vom Empfängertext. Keine nicht erfolgte Begehung, Zahlung, Abnahme, Fristsicherung oder technische Freigabe behaupten.
+
+## 6. Beispiele
+
+Bei einer Kita soll eine bodengleiche Tür morgen geschlossen werden. Plan D-21 Revision C zeigt den Anschluss; der Tagesbericht nennt B, ein Unternehmerfoto zeigt nur die Abdeckung. Erstellen Sie den konkreten Plan-Soll-Ist-Befund und die Prüfanforderung vor Verdeckung. Die Rechnung kann hinsichtlich anderer bestätigter Mengen bereits weiterbearbeitet werden.
+
+Nach gemeinsamem Aufmaß korrigieren Sie Rechnung und Kostenstand. Abnahmemängel bleiben bis zur belegten Kontrolle LPH-8-Vorgänge; ein späterer Feuchtefleck erweitert den Auftrag nicht stillschweigend zur Sanierungsüberwachung.
+
+---
+
+## Skill: `hoai-2-vorplanung-und-varianten-entwickeln`
+
+_Erarbeitet die Gebäude-Vorplanung nach HOAI-Leistungsphase 2 mit vergleichbaren Varianten, Kostenschätzung, Terminen und Fachbeiträgen bis zur Variantenentscheidung. Trennt Vorverhandlung, Bauvoranfrage und Genehmigung. Für phasenweite Vorplanung, nicht für einzelne Rechnungen oder reine Budgetfortschreibung._
+
+# 1. Vergleichbare Vorplanung zur Entscheidung bringen
+
+## 1. Zweck und Anwendungsfall
+
+Erarbeiten Sie eine begründete Gebäude-Vorplanungsentscheidung mit vergleichbaren Varianten, Kostenbasis und offenen Fachfragen. Erstellen Sie Variantenunterlagen, Kostenvergleich und Entscheidungsdokument selbst. Eine Skillverweisung oder Aufgabenliste ist kein Endprodukt.
+
+Nutzen Sie diesen Skill für eine zusammenhängende Phase 2. Ein einzelner Kostenbericht, Zahlungsplan oder Vertragsstreit bleibt sinnvoll beim einschlägigen Querschnittsskill. Die Planung von Freianlagen, Verkehrsanlagen, Ingenieurbauwerken, Tragwerken oder Technischer Ausrüstung ist nicht vom Gebäudeauftrag umfasst, nur weil deren Beiträge in die Vorplanung eingehen. Gebäude und Innenräume gehören zum gemeinsamen Leistungsbild. Verträge und teilweise unterschiedliche Bewertungen nicht pauschal übertragen; die hier genannten sieben Prozent betreffen Gebäude.
+
+## 2. Eingaben
+
+Lesen Sie Grundlagen, Vertrag, Abruf, Nutzungsangaben, Grundstücksunterlagen, Zeichnungen, Kosten und Gesprächsvermerke. Bei klarem Auftrag unmittelbar am Produkt arbeiten. Ohne Material nach Gebäude, Rolle und Entscheidung fragen, nicht nach einem kompletten Datenraum.
+
+Klären Sie gemeinsame Anforderungen, Prioritäten, Preisstand, Kostenumfang und Termine. Fragen Sie nur entscheidende Lücken, etwa gleiche Gruppenzahl und Küchenleistung oder Bruttobudget einschließlich Reserve. Unbekannt ist nicht kostenlos. Planrevisionen nach Datum und Verwendungsstatus lesen, nicht nach höchster Dateinummer auswählen.
+
+## 3. Ablauf / Checkliste
+
+### 3.1. Gemeinsame Ausgangsbasis sichern
+
+Bestimmen Sie Auftrag, Rolle, Abruf und Ziele. Halten Sie Änderungen gegenüber der Grundlagenermittlung fest. Muss-Anforderungen, wählbare Qualitäten und Wünsche trennen; Fachbeiträge auf denselben Planstand beziehen. Ein Nutzerwunsch ersetzt keine Bauherrenentscheidung.
+
+Prüfen Sie für die Vertragsauslegung Paragraf 650p BGB neben Paragrafen 3 und 34 sowie Anlage 10 HOAI. Ein Grundleistungsbeschrieb ist kein automatischer Vollauftrag. Notwendige Koordinations- und Hinweispflichten nicht allein wegen fehlender Einzelpositionen abweisen. Offene wesentliche Ziele können zunächst eine belastbare Planungsgrundlage verlangen, ohne alle bereits bearbeitbaren Varianten einzustellen.
+
+### 3.2. Varianten auf gleiche Anforderungen beziehen
+
+Erarbeiten Sie unterschiedliche Lösungen mit Gebäudekörper, Erschließung, Nutzungszuordnung und Funktionsbeziehungen. Bei bestellter Zeichnung die tatsächliche Datei mit Beschriftung, Maßbezug, Legende und Revision erzeugen und prüfen. Ein Fließtext ist kein fertiger Grundriss; Plananweisungen nur als solche ausgeben.
+
+Vergleichen Sie gleiche Kapazität, gleiches Raumprogramm, denselben Funktionsumfang und dieselben Kostenabgrenzungen. Ein kleineres Raumprogramm ist ein eigener Programmfall. Die Untersuchung alternativer Lösungsansätze nach verschiedenen Anforderungen ist in Anlage 10 als Besondere Leistung genannt; prüfen Sie deren gesonderten Auftrag. Dies rechtfertigt keine starre Ablehnung normaler Variantenarbeit nach gleichen Anforderungen.
+
+### 3.3. Zielkonflikte und Fachbeiträge konkret bearbeiten
+
+Zeigen Sie erfüllte, gefährdete und ungeprüfte Anforderungen. Wägen Sie konkrete Konflikte wie Wege gegen Geschossigkeit ab. Kriterien und Gewichtung aus dem Auftrag ableiten oder als Vorschlag kennzeichnen. Keine nachträglich passenden Punktwerte für einen scheinobjektiven Sieger.
+
+Integrieren Sie Fachbeiträge mit Planbezug und lokalisieren Sie Widersprüche. Koordination ersetzt keine Statik-, Brandschutz- oder Bauphysikbestätigung. Landesbauleiter und Prüfsachverständige bleiben gesonderte Rollen. Kein unbestätigtes Konzept als technisch sicher oder genehmigungsfähig ausgeben.
+
+### 3.4. Kostenschätzung und Terminplan herstellen
+
+Erstellen oder prüfen Sie die Kostenschätzung nach der für den Auftrag zu verifizierenden DIN-276-Basis, ohne unzugängliche Normtexte zu erfinden. Erfassen Sie Mengen, Kennwerte, Herkunft, Preisstand, Umsatzsteuer und Unsicherheiten. Gleichartige Positionen einheitlich ein- oder ausschließen. Grundstück, Ausstattung, Außenanlagen, Baunebenkosten, Reserve und Finanzierung nicht stillschweigend vermischen. Kennwerte sind keine Angebote.
+
+Rechnen Sie jede Variante nachvollziehbar bis zum Vergleich mit dem bestätigten Finanzrahmen. Zeigen Sie Basiskosten, ergänzte vergleichbare Bestandteile und gesonderte Risiken. Eine Reserve weder verstecken noch doppelt addieren. Die sieben Prozent nach Paragraf 34 sind kein Baufortschrittsanteil und kein Zuschlag auf Baukosten. Kostenschätzung, Finanzierungsplan und Wirtschaftlichkeitsuntersuchung nicht gleichsetzen; die letzteren können einen besonderen Auftrag erfordern.
+
+Erstellen Sie einen Terminplan mit wesentlichen Planungs- und Bauvorgängen, Abhängigkeiten und Entscheidungsdaten. Ein Behördenzieltermin ist keine zugesicherte Bearbeitungsdauer. Prüfen Sie, ob spätere Entscheidung, zusätzliches Gutachten oder geänderte Variante den Pfad verschiebt. Kalendertage und Arbeitstage ausdrücklich unterscheiden.
+
+### 3.5. Vorverhandlung und Auswahl abschließen
+
+Dokumentieren Sie Behörde, Beteiligte, Datum, Fassung, Bedingungen und offene Fragen. Vorverhandlung, förmliche Bauvoranfrage, Vorbescheid und Baugenehmigung unterscheiden. Durchführung einer Voranfrage ist als Besondere Leistung aufgeführt; Auftrag und Landesverfahren eigens prüfen. Kein Versand ohne Befugnis.
+
+Liefern Sie die ausformulierte Auswahlvorlage mit vergleichbarer Kostenbasis, Empfehlung und konkreter Entscheidung. Bei Lücken eine bedingte Empfehlung oder Teilentscheidung erstellen, keine pauschale Ablehnung. Verfassen Sie bei Auftrag die nötige Anfrage.
+
+### 3.6. Antworten ohne Neustart einarbeiten
+
+Erhalten Sie Variantenkennungen, Ausgangsannahmen und Revisionshistorie. Nach einer Antwort ändern Sie nur betroffene Zeichnungen, Kosten und Termine; führen Sie deren Auswirkungen jedoch vollständig nach. Neue Programmwünsche als getrennten Zweig darstellen. Bei Wechsel zu einem anderen Grundstück prüfen Sie die bisherige Vergleichsbasis neu und übertragen keine behördlichen Aussagen ungeprüft. Ein anderes Projekt erhält einen getrennten Arbeitsstand.
+
+## 4. Quellenpflicht
+
+Verbindlich ist die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bauwirtschaft/references/zitierweise.md). Lesen Sie gezielt das [Quellenprotokoll Phase 2](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bauwirtschaft/references/hoai-2-fachquellen.md) und die unveränderten [allgemeinen Fachquellen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bauwirtschaft/references/fachquellen.md). Anlage 10 Nummer 10.1 Phase 2, Paragrafen 3 und 34 HOAI sowie Paragraf 650p BGB fallbezogen live anhand amtlicher Texte verifizieren. Abruf, Normfassung, Projektzeitpunkt und Vertragsstand trennen. Landesrecht nur so weit als geprüft bezeichnen, wie der konkrete Text tatsächlich gelesen wurde.
+
+Keine erfundenen Entscheidungen, Randnummern oder DIN-Anforderungen. Ohne einschlägige verifizierte Rechtsprechung genügt die zutreffende Normgrundlage. Geschützte DIN-Inhalte nicht zu einer frei reproduzierten Normbibliothek ausbauen. Verfügbare Projektparameter als Projektparameter bezeichnen, nicht als allgemeine Normwerte.
+
+## 5. Ausgabeformat
+
+Liefern Sie das beauftragte, ausgefüllte Vorplanungspaket oder das enger bestellte Dokument: tatsächliche Variantenzeichnung, nachvollziehbare Kostenschätzung, wesentlicher Terminplan und ausformulierte Auswahlvorlage. Zusätzliche Anlagen nur, wenn sie gebraucht werden. Ein interner Abgleich darf tabellarisch sein; der Empfänger erhält eine klare Entscheidung, Begründung und nächste notwendige Zuarbeit.
+
+Ausformulierungspflicht: Operative Texte bestehen aus vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Formatierte Dokumente verwenden soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen nach Überschriften. Bei Markdown den Exporthinweis getrennt ausgeben. Echte Umlaute und ß verwenden, Paragraf ausschreiben. Keine nicht erzeugte Datei, technische Freigabe, Auswahlentscheidung des Bauherrn oder externe Handlung behaupten.
+
+## 6. Beispiele
+
+Zwei Kita-Vorschläge haben 75 Plätze, aber nur einer eine Küche. Klären Sie deren Umfang, berechnen Sie den vergleichbaren Stand und bearbeiten Sie übrige Kriterien schon jetzt. Die Antwort wird in derselben Variante ergänzt, nicht als neues Projekt behandelt.
+
+Eine Behörde bezeichnet die Zweigeschossigkeit telefonisch als grundsätzlich vorstellbar. Erfassen Sie Aussage und Vorbehalte, nicht den Status genehmigt.
+
+---
+
+## Skill: `hoai-6-leistungsverzeichnis-und-vergabeunterlagen-erstellen`
+
+_Erstellt die Vergabeunterlagen für Gebäude nach HOAI-Leistungsphase 6 mit Mengennachweis, Langtext-LV, getrennten ungepreisten und bepreisten Fassungen, Kostenabgleich und Vergabeterminplan. Für zusammenhängende Vergabevorbereitung, nicht für einzelne Rechnungen, Bieterfragen oder isolierte LV-Korrekturen._
+
+# 1. Aus der Ausführungsplanung ein vollständiges Vergabepaket erstellen
+
+## 1. Zweck und Anwendungsfall
+
+Erstellen Sie die beauftragten Leistungsbeschreibungen, Mengen und Vergabeunterlagen. Bei klarem Auftrag beginnen Sie mit Langtext-LV und Mengennachweisen, nicht mit einem Vortrag über neun Leistungsphasen.
+
+Aktivierung bei phasenweiter Vorbereitung der Vergabe; isolierte LV-Korrekturen, Bieterfragen und Rechnungen bleiben im Querschnittsskill. Gebäude und Innenräume bilden das gemeinsame Leistungsbild nach Paragraf 34 HOAI. Bei Innenräumen Vertragsumfang und abweichende Bewertungen prüfen; die Fälle betreffen Gebäude. TGA, Tragwerk, Freianlagen, Verkehrsanlagen und Ingenieurbauwerke bleiben andere Leistungsbilder und Aufträge.
+
+## 2. Eingaben
+
+Lesen Sie Vertrag/Abruf, Ausführungspläne, Fachbeiträge, Mengen, Kostenberechnung und Vergabevorgaben. Erfassen Sie je Bereich Abgrenzung, Planrevision, Maß, Abzugsregel, Einheit, Preisquelle, Steuerbasis und Termin. Fehlende Planreife an der betroffenen Position kennzeichnen.
+
+Ohne Material fragen Sie nach Objekt, Rolle, Umfang und Planbasis. Bei einem Ordner ohne Auftrag bieten Sie LV-Erstellung oder Paketprüfung an. Fragen Sie nur nach Angaben, die Positionen, Mengen, Verfahren oder Termine verändern. Geklärte Lose weiterbearbeiten; keine Ablehnung des gesamten LV wegen einer offenen Türqualität.
+
+## 3. Ablauf / Checkliste
+
+### 3.1. Auftrag, Leistungsgrenzen und Verfahren bestimmen
+
+Ermitteln Sie die vereinbarten Planungsziele und den Umfang der beauftragten Grundleistungen/Besonderen Leistungen. Der HOAI-Leistungsbeschrieb ist kein automatischer Auftrag. Die 10 Prozent für Gebäude-LPH 6 sind Honoraranteil und weder Baufortschrittsmaß noch Kostenreserve. Paragraf 650p BGB und der konkrete Vertrag bleiben maßgeblich.
+
+Trennen Sie technischen Vergabereifegrad vom anwendbaren Vergaberecht. Prüfen Sie Auftraggeber, Gesamtauftragswert, Zeitpunkt, Förderbindung, Losbildung und zuständige Vergabestelle. Keine zeitlose Schwelle oder pauschale Übernahme der neuesten VOB/A-Fassung in jedes Bundesland. VOB/A, VOB/B und VOB/C regeln verschiedene Gegenstände; ihre Anwendung und Ausgabe müssen jeweils belegt sein. Keine Bekanntmachung, Angebotsaufforderung oder Auftragserteilung ohne Befugnis.
+
+### 3.2. Mengen prüfbar herleiten
+
+Leiten Sie Mengen aus bezeichneten Plänen, Achsen, Räumen und Revisionen ab. Speichern Sie Einzelansatz, Anzahl, Maße, Bruttomenge, Abzug/Zuschlag, Einheit, Rechenregel und Zuordnung zur Position. Unterschiedliche Aufmaß-/Abrechnungsregeln nicht vermischen. Rechenwert null ist kein Ersatz für fehlende Eingabe. Ein Bild ohne verlässlichen Maßstab liefert keine belastbare Bestellmenge.
+
+Rechnen Sie repräsentative Ansätze und Summen unabhängig nach. Bei Revisionen ändern Sie nur betroffene Ansätze und verknüpfte Positionen. Prüfen Sie Öffnungen, beidseitige Bekleidungen, Randlängen, Bauteilwechsel und Doppelerfassungen zwischen Gewerken. Beschreiben Sie projektspezifische Abzugsregeln als solche; behaupten Sie keine DIN-/ATV-Regel ohne gelesenen Text.
+
+### 3.3. Langtexte und Schnittstellen ausformulieren
+
+Jede Position erhält stabile Ordnungszahl, eindeutigen Leistungsgegenstand, Einbauort, belegte Qualität/Abmessungen, erforderliche Nebenbestandteile, Schnittstellen und Abrechnungseinheit. Vermeiden Sie unverbindliche Texte wie „nach Erfordernis komplett“ für unklaren Umfang. Beschreiben Sie Leistungen funktional und hinreichend bestimmt; Produktbindungen nur mit fallbezogener rechtlicher Prüfung. Keine ungeprüften Fabrikatsangaben aus einer Hersteller-Mail zur Ausschreibungsanforderung machen.
+
+Ordnen Sie beispielsweise Rohbauöffnung, Zarge, Abschottung, Kabelzuführung, Steuerung und Funktionsprüfung jeweils einem verantwortlichen Leistungsbereich zu. Eine Leistung darf nicht zugleich in zwei Preispositionen enthalten und an dritter Stelle ausgeschlossen sein. Fragen Sie nur die konkret fehlende Fachvorgabe nach und liefern Sie den übrigen Langtext bereits aus. Generische Vorbemerkungen ersetzen keine positionsbezogene Leistungsbeschreibung.
+
+### 3.4. Ungepreistes LV und Planer-Bepreisung trennen
+
+Erzeugen Sie zwei konsistente Fassungen mit identischen Kennungen, Langtexten, Mengen und Einheiten. Die externe ungepreiste Fassung enthält keine internen Einheitspreise, Gesamtkosten, Preisnotizen, ausgeblendeten Preisblätter oder verräterischen Formeln/Caches. Die Planerfassung rechnet Menge mal Einheitspreis, Abschnitts- und Nettosummen sowie gegebenenfalls Umsatzsteuer und Bruttosumme. Preisquellen, Preisstand, Unsicherheit und Reserve separat dokumentieren.
+
+Keine Beispielpreise als Angebote oder Marktbeweis ausgeben. Unbekannte Preise sichtbar offen lassen; keine stillen Nullen. Bei Tabellenlieferung Formeln und Neuberechnung prüfen. Ein formelhaltiger Export ohne kontrollierte Werte und Eingabemutation ist noch kein Rechenfunktionsnachweis. Wenn eine Datei nicht erzeugt wurde, liefern Sie den tatsächlichen Text-/Tabellenstand und behaupten keinen GAEB-Export.
+
+### 3.5. Kostenberechnung sachgerecht abgleichen
+
+Vergleichen Sie die vom Planer bepreisten LV mit der Kostenberechnung auf gleicher Leistungs-, Mengen-, Preisstands- und Steuerbasis. Bilden Sie eine Zuordnung von LV-Bereichen zu den projektseitigen Kostengruppen, ohne eine vollständige DIN-Systematik zu erfinden. Erklären Sie Differenzen nach Mengenänderung, Qualität, Preisfortschreibung, Lücke/Doppelung und noch nicht ausgeschriebenem Rest. Budget und Kostenberechnung sind verschiedene Vergleichsgrößen.
+
+Ein günstigeres Teillos beweist keine Einhaltung des Gesamtbudgets. Führen Sie Restleistungen, Risiken und Reserven außerhalb der Vergleichssumme nachvollziehbar weiter. Erarbeiten Sie bei Überschreitung eine konkrete Bauherrenentscheidung mit belastbarem Umfang und Folgen; keine Qualitätsreduzierung oder Beauftragung durch bloße Tabellenkorrektur.
+
+### 3.6. Termin und Paket abschließen
+
+Erstellen Sie den Vergabeterminplan mit technischen Voraussetzungen, interner Freigabe, rechtlich zu prüfenden Verfahrenszeiten, Angebotsphase, Prüfung/Entscheidung und benötigtem Ausführungsbeginn. Rechnen Sie Rückwärtstermine mit offen gelegtem Kalender und Abhängigkeiten, nicht mit erfundenen gesetzlichen Mindestfristen. Terminpuffer und verbindliche Frist getrennt ausweisen.
+
+Prüfen Sie den Dateisatz mit LV, Plänen, Leistungsbereichsgrenzen, Vertrags-/Verfahrensunterlagen und Anlagenverzeichnis. Ein freigegebener Kostenrahmen ersetzt keine Vergabefreigabe. Nach Antworten führen Sie dieselben Positionen, Rechenansätze und Paketversionen weiter. Alternative Ausführung als eigener Zweig; neues Projekt mit eigener Basis. Angebotswertung und Zuschlagsvorschlag gehören grundsätzlich in LPH 7. Beim Leistungsprogramm die Fußnote der Anlage 10 zu teilweise ersetzten Grundleistungen beachten, nicht sämtliche Alternativtexte automatisch als Grundleistung ausgeben.
+
+## 4. Quellenpflicht
+
+Verbindlich: [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bauwirtschaft/references/zitierweise.md), [Fachquellen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bauwirtschaft/references/fachquellen.md#16-vergaberecht-und-zeitbezogene-landesprüfung), [Quellenprotokoll LPH 6](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bauwirtschaft/references/hoai-6-fachquellen.md). Prüfen Sie Paragraf 34 HOAI, Anlage 10 Nummer 10.1 und Paragraf 650p BGB live. Tragende Vergaberegeln zusätzlich amtlich und zeitbezogen verifizieren; eine alte Sourcecard ist nur Einstieg.
+
+DIN-/ATV-Texte nur bereitgestellt oder lizenziert verifiziert verwenden. Keine erfundenen Abzugsregeln, Aktenzeichen oder Randnummern. Das vorhandene Mehrmengenurteil begründet nicht die richtige Ausschreibungsmenge; Vertragsstrafenrecht ersetzt keinen Vergabeterminplan. Passende Normen genügen ohne sachfremden BGH-Anker. Fehlenden Zugriff präzise benennen und unabhängig bearbeitbare Positionen weiter erstellen.
+
+## 5. Ausgabeformat
+
+Liefern Sie ein vollständiges ungepreistes Langtext-LV, die getrennte Planer-Bepreisung, belegte Mengenermittlung, Kostenüberleitung, Vergabeterminplan und ein verwendbares Anlagenverzeichnis im beauftragten Umfang. Begleitbrief und Entscheidungsvorlage sind ausformuliert. Interne Preisquellen, Rechtsrecherche und verbleibende Freigabepunkte gehören in die interne Übergabe, nicht ungeprüft in den Bieterdatensatz.
+
+Ausformulierungspflicht: Keine Skelette, Halbsätze oder reine Aufzählungs-Auswürfe als bestelltes Endprodukt. Fachübliche Mengenfelder sind zulässig; Langtexte müssen den Gegenstand tatsächlich beschreiben. Formatstandard: Times New Roman 11 pt soweit technisch möglich, ausschließlich dezimale Gliederung mit Leerzeilen, echte Umlaute/ß, Paragraf ausgeschrieben. Keine behauptete technische Freigabe, Veröffentlichung oder externe Handlung.
+
+## 6. Beispiele
+
+Für eine Sporthalle fehlen im Trockenbau-LV zwei Wartungsöffnungen; eine Tür wird sowohl im Metallbau als auch im Ausbau geführt. Ermitteln Sie die Mengen anhand der bezeichneten Pläne, bereinigen Sie die Schnittstelle begründet und erstellen Sie beide LV-Fassungen samt Kostenbrücke. Ein Nullpreis macht eine unklare Leistung nicht vollständig.
+
+Die Bauherrschaft bestätigt später die entfallene Prallwand im Geräteraum, nicht jedoch eine geringere Qualität in der Halle. Aktualisieren Sie nur betroffene Ansätze, Positionen und Summen; erhalten Sie Planbezug und Revisionshistorie. Keine neue Projektaufnahme und keine Rücknahme aller übrigen Anforderungen.
+
+---
+
+## Skill: `hoai-9-objektbetreuung-und-maengelverfolgung-organisieren`
+
+_Bearbeitet die Gebäude-Objektbetreuung nach HOAI-Leistungsphase 9 mit Bewertung späterer Mängel, Begehung vor Fristablauf und Sicherheitenfreigabe. Für phasenweite Betreuung, nicht für isolierte Fristfragen. Trennt Anspruchsverjährung, Leistungszeitraum und gesondert zu beauftragende Sanierungsüberwachung._
+
+# 1. Spätere Gebäudemängel, Vorfristbegehung und Sicherheiten zusammenführen
+
+## 1. Zweck und Anwendungsfall
+
+Erarbeiten Sie die angeforderte fachliche Mängelbewertung, das konkrete Begehungspaket oder die begründete Freigabeempfehlung mit den dazu nötigen Fristen- und Belegdaten. Objektbetreuung ist kein pauschales Gebäudemanagement und keine unbegrenzte Sanierungsüberwachung. Eine digitale Aktenprüfung ersetzt weder die notwendige Begehung noch eine fachtechnische Untersuchung.
+
+Dieser Skill führt phasenweite Gebäude-LPH-9-Arbeit selbst aus. Einzelne Schreiben können bei den Querschnittsskills Mängel/Abnahme oder Sicherheiten bleiben. Andere HOAI-Leistungsbilder nur als Schnittstellen erfassen, nicht in Gebäude-LPH 9 umetikettieren.
+
+## 2. Eingaben
+
+Lesen Sie Planervertrag, Abruf und Ergänzungen, Bauverträge mit Fristenregelungen, Abnahmen und Vorbehalte, Übergabe- und Revisionsunterlagen, Mängelmeldungen, Fotos, Begehungsberichte, Wartungsbelege, Unternehmerantworten und Sicherungsabreden/Urkunden. Erfassen Sie Auftraggeber, Rolle, betroffenes Bauteil, Stichtag, benötigte Entscheidung und Vollmacht.
+
+Ohne Unterlagen fragen Sie nach Objekt, Auftrag, Abnahme-/Fristlage und dringendstem Ereignis. Bei ungerichtetem Ordner bieten Sie nach Belegsichtung Vorfristbegehung oder Freigabeempfehlung an; bei klarem Auftrag beginnen Sie direkt. Fragen Sie gezielt nach entscheidenden Lücken wie Abnahme, Sicherungswortlaut oder Zugang, statt eine ungefragte Bestandsübersicht zu verlangen.
+
+## 3. Ablauf / Checkliste
+
+### 3.1. Leistungsauftrag und Zeitachsen auseinanderhalten
+
+Bestimmen Sie Betreuungsziel nach Paragraf 650p BGB, Abruf und zusätzliche Zusagen. Anlage 10 beschreibt Leistungen, erteilt aber keinen Auftrag. Der Honoraransatz von zwei Prozent für Gebäude-LPH 9 ist kein Baufortschritt und kein Betreuungsnachweis.
+
+Trennen Sie mindestens Bauvertragsanspruch, Planervertrag, Sicherungsabrede und betriebliche Wartung. Die Begrenzung in LPH 9 Buchstabe a auf längstens fünf Jahre seit Abnahme der Leistung ist eine Grenze dieser Leistungsbeschreibung, keine generelle Verjährung aller Ansprüche und keine pauschale Fünfjahresbegrenzung sämtlicher dort genannter Leistungen. Abnahmebezug und abweichender Vertragsinhalt konkret klären; einen unbekannten Beginn nicht automatisch mit Schlüsselübergabe gleichsetzen.
+
+### 3.2. Befund und Ursache fachlich bewerten
+
+Legen Sie jeden Mangel mit stabiler Kennung, Ort, Erstfeststellung, Meldung/Zugang, Erscheinungsbild, Messmethode und Originalbeleg an. Trennen Sie festgestelltes Symptom, bestrittene Ursache, vertragliches Soll und erforderliche Untersuchung. Prüfen Sie die Kette über Plan, Ausführung, Abnahmebefund, Betrieb, Wartung und spätere Eingriffe. Ein Feuchtefleck belegt nicht automatisch ein Dachleck oder Architektenverschulden.
+
+Schreiben Sie die fachliche Bewertung mit begründeter Reichweite und konkreter nächster Untersuchung aus. Notwendige Begehungen zur Bewertung sind im Katalog der Grundleistung genannt; eine regelmäßige Objektbeobachtung oder allgemeine Gebäudeverwaltung daraus nicht ableiten. Bei möglicher Gefahr verantwortliche Fachleute und Betreiber unverzüglich auf konkreten Handlungsbedarf hinweisen, ohne Nutzungsfreigabe oder selbst ausgeführte Sicherung zu behaupten.
+
+### 3.3. Begehung vor Anspruchsfristablauf vorbereiten
+
+Ermitteln Sie je ausführendem Unternehmen Vertragsgrundlage, relevante Abnahme und vorläufiges Anspruchsfristende. Prüfen Sie Hemmung, Neubeginn, abweichende Vereinbarungen und gesonderte Ansprüche anhand der tatsächlichen Ereignisse und Quellen. Eine Mängelanzeige hemmt nach BGB nicht allein durch Versand automatisch die Verjährung; VOB/B-Regeln nur bei geprüfter Einbeziehung und konkreter Reichweite heranziehen.
+
+Planen Sie den Begehungstermin mit ausreichendem Vorlauf für Zugang, Untersuchung, Bewertung und nötige Anspruchssicherung. Datum, Räume/Bauteile, Zugang, Teilnehmer, Fachprüfungen und vorhandene Befunde in der Einladung konkret benennen. Bei bereits abgelaufener oder akut naher Frist nicht auf den regulären Termin warten: erstellen Sie den präzisen Eskalationsvermerk an den Auftraggeber. Rechtswahrende Außenhandlungen nur nach Mandat und Befugnis.
+
+Ein vorhandenes Begehungsprotokoll auswerten, keine eigene Teilnahme erfinden. Nicht zugängliche Dachflächen bleiben ungeprüft. Bei bestätigter Folgebegehung denselben Vorgang aktualisieren und den tatsächlichen neuen Befund von älteren Feststellungen trennen.
+
+### 3.4. Beseitigungsüberwachung abgrenzen und fortführen
+
+Bei Abnahme festgestellte Mängel gehören hinsichtlich Beseitigungsüberwachung zum Grundleistungskatalog der LPH 8. Bei später festgestellten Mängeln nennt LPH 9 die Beseitigungsüberwachung als Besondere Leistung. Die bloße Bezeichnung „Gewährleistungsbetreuung“ klärt den Vertragsumfang nicht; lesen Sie die Vereinbarung einschließlich zusätzlicher Zusagen.
+
+Ist nur Bewertung beauftragt, liefern Sie diese und den erforderlichen Vorschlag für Untersuchung, Beseitigung oder Zusatzauftrag. Ist die Überwachung wirksam zusätzlich beauftragt, organisieren und dokumentieren Sie die konkreten Kontrollen mit qualifizierten Beobachtern, Sollzustand, Mess-/Prüfbelegen und Restpunkten. Eine Unternehmer-Fertigmeldung schließt den Vorgang nicht automatisch. Kein Anerkenntnis, Verzicht oder neues Fristdatum allein aus einem Kalenderstatus.
+
+### 3.5. Sicherheitenfreigabe begründet vorbereiten
+
+Lesen Sie Sicherungszweck, Betrag, Begünstigten, gesicherten Vertrag, Laufzeit, Rückgabe-/Reduktionsbedingungen, Originalverwahrung und bereits erfolgte Freigaben. Vertragserfüllungssicherheit, Mängelsicherheit, Gewährleistungseinbehalt und gesetzliche Vergütungssicherung nicht vermischen. Eine tabellarische Endsumme ist keine Bürgschaftsurkunde.
+
+Gleichen Sie die konkrete Sicherheit mit gesicherten offenen Ansprüchen und Nachweisen ab. Stellen Sie Freigabe, begründete Teilfreigabe oder Zurückstellung mit Betrag und betroffener Bedingung dar, ohne pauschal jede Sicherheit wegen irgendeines Gebäudemangels zu sperren. Unbezifferte Kosten nicht als null setzen; Schätzbasis und Unsicherheit benennen. Stellen Sie ein vollständiges Entscheidungsschreiben und gegebenenfalls den Freigabeentwurf her. Über Rückgabe, Auszahlung oder Bürgschaftsinanspruchnahme entscheidet die befugte Stelle.
+
+### 3.6. Fortsetzung und Fallwechsel
+
+Nach Antworten bearbeiten Sie dieselben Mängel-, Vertrags- und Sicherheitenkennungen weiter. Neue Beweise ändern nur die dadurch betroffenen Bewertungen und Fristannahmen. Halten Sie alte Fassung, Änderung und verbleibende Lücke nachvollziehbar. Ein neues Objekt, eine andere Anspruchsgrundlage oder ein erweiterter Auftrag wird als eigener Zweig mit übernommenen Ausgangsbelegen kenntlich. Beenden Sie nicht mit „Unterlagen fehlen“, wenn das angeforderte Schreiben bereits belastbar entworfen werden kann.
+
+## 4. Quellenpflicht
+
+Es gelten [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bauwirtschaft/references/zitierweise.md), [Phasenquellen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bauwirtschaft/references/hoai-9-fachquellen.md) und [allgemeine Fachquellen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bauwirtschaft/references/fachquellen.md). HOAI Anlage 10 Nummer 10.1, Paragraf 34 HOAI, Paragrafen 650p, 634a, 203 und 212 BGB sowie benötigte Fristen-/Sicherungsnormen live amtlich prüfen. Fassung, Vertragszeitpunkt und Abrufdatum unterscheiden. Keine pauschale Fünfjahresregel aus dem Katalog. Technische Normen und Literatur nur mit belegtem Zugriff, keine erfundenen Volltexte oder sachfremden Entscheidungen.
+
+## 5. Ausgabeformat
+
+Ergebnis ist das vollständig ausformulierte bestellte Dokument samt ausgefüllten Befund-, Fristen- oder Sicherheitenanlagen. Trennen Sie Empfängertext von interner Beleg- und Quellenprüfung. Keine Fristenampel ohne Rechtsgrundlage, keine allgemeine Checkliste anstelle der konkreten Empfehlung.
+
+Ausformulierungspflicht: vollständige Sätze, keine Skelette, Halbsätze oder reinen Aufzählungs-Auswürfe als Endprodukt. Vor Ausgabe Vollständigkeit prüfen und nötigenfalls neu schreiben. Formatstandard: soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen nach Überschriften. Echte Umlaute/ß, Paragraf ausschreiben. Bei Markdown Exporthinweis getrennt nennen; keine nicht erzeugte Datei, nicht erfolgte Begehung oder wirksame Fristsicherung behaupten.
+
+## 6. Beispiele
+
+Ein Rathaus meldet vier Jahre nach Dachabnahme Wasserflecken; im alten Abnahmeprotokoll steht zusätzlich ein bis heute ungeklärter Türmangel. Trennen Sie die Vorgänge nach Entdeckung, Vertrag und Befund. Prüfen Sie Wartung und Dachzugang, ohne aus der zeitlichen Nähe die Ursache abzuleiten; planen Sie die Vorfristbegehung gewerkeweise.
+
+Bei verlangter Sicherheitenfreigabe und Prüfangebot „ohne Anerkennung einer Rechtspflicht“ erstellen Sie die Empfehlung aus Abrede und belegten Ansprüchen. Keine automatische Hemmung oder Neubeginn; neue Erklärungen werden in denselben Stand eingearbeitet.
+
+---
+
+## Skill: `hoai-1-grundlagen-und-planungsauftrag-klaeren`
+
+_Erarbeitet die Grundlagenermittlung für Gebäude nach HOAI-Leistungsphase 1 mit Bedarfsangaben, Ortsbesichtigungsbefunden, Untersuchungsbedarf und Fachplanerauswahl. Liefert Planungsgrundlage und abgegrenzten Auftrag. Für phasenweite Grundlagenarbeit, nicht für einzelne Honorarfragen oder Vertragsklauseln._
+
+# 1. Vom Nutzungswunsch zum geklärten Planungsauftrag
+
+## 1. Zweck und Anwendungsfall
+
+Erarbeiten Sie eine verwendbare Gebäude-Planungsgrundlage mit bestätigten Vorgaben, tatsächlichem Ortsbefund und begründetem Untersuchungsbedarf. Liefern Sie das bestellte Dokument selbst, nicht eine Skillverweisung, Fragenliste oder Abschrift des Leistungsbilds.
+
+Dieser Skill passt zur phasenweiten Grundlagenermittlung, auch bei einem bereits laufenden Projekt mit widersprüchlichen Grundlagen. Einzelne Rechnungen, ein bestimmter Nachtrag oder ein reiner Honorarstreit bleiben bei den einschlägigen Querschnittsskills. Freianlagen, Verkehrsanlagen, Ingenieurbauwerke, Tragwerksplanung und Technische Ausrüstung sind keine zusätzlichen Gebäudeleistungen dieses Skills. Bei gemischten Aufträgen deren Schnittstellen benennen, nicht fremde Leistungsbilder übertragen.
+
+## 2. Eingaben
+
+Lesen Sie Auftrag, Bedarfsangaben, Bestandsunterlagen, Ortsprotokoll und Entscheidungsnachweise zuerst. Bei klarer Aufgabe beginnen Sie mit dem Arbeitsprodukt. Ohne Unterlagen fragen Sie nach Objekt, Rolle und Ergebnis, danach nur nach entscheidenden Lücken, etwa Nutzerwunsch oder verbindlicher Bauherrenvorgabe.
+
+Erheben Sie Nutzung, Kapazität, Raumvorgaben, Budget samt Steuerbasis und Reserve, Terminpriorität und Grundstücksbeschränkungen. Herkunft und Verlässlichkeit festhalten. Nicht besichtigt bedeutet nicht mängelfrei; Altplan bedeutet nicht aktuelles Aufmaß. Fehlende Daten bleiben offen statt Null oder Zusicherung.
+
+## 3. Ablauf / Checkliste
+
+### 3.1. Auftrag und Entscheidungsbefugnis bestimmen
+
+Trennen Sie Auftraggeber, Nutzer, Eigentümer, Objektplaner und Fachbeteiligte. Lesen Sie Vertrag, Anlagen, Abrufe und Änderungen zusammen. Bestimmen Sie, wer Ziele bestätigen, Untersuchungen beauftragen und Kosten freigeben darf. Kostenobergrenze, Finanzierungsrahmen und Förderwunsch unterscheiden. Der Grundleistungsbeschrieb begründet keinen automatischen Vollauftrag; notwendige Beratung nicht schematisch wegen fehlender Einzelzeilen verweigern. Maßgeblich bleiben vereinbarte Ziele, Vertragsauslegung und Leistungsbedarf.
+
+Wenn wesentliche Ziele noch offen sind, prüfen Sie Paragraf 650p Absatz 2 BGB: Planungsgrundlage und Kosteneinschätzung zur Zustimmung vorbereiten. Diese Kosteneinschätzung nicht als bereits erstellte Kostenschätzung nach DIN 276 oder als beauftragte Vorplanung ausgeben. Ein Textentwurf benötigt keine Versandvollmacht; sein Versand oder eine rechtsgeschäftliche Beauftragung schon.
+
+### 3.2. Vorgaben klären, statt einen fremden Bedarf zu erfinden
+
+Führen Sie Anforderungen mit Kennung, Inhalt, Herkunft und Bestätigungsstand. Trennen Sie Muss, Wunsch und Option. Klären Sie Gleichzeitigkeit von Nutzungen; eine Belegungszahl ist keine zugelassene Personenzahl. Formulieren Sie bei Zielkonflikten die konkrete Entscheidungsfrage und eine bearbeitbare Alternative.
+
+Eine eigene Bedarfsplanung, Bedarfsermittlung, ein Funktions- oder Raumprogramm, eine Standortanalyse oder Machbarkeitsstudie ist nicht allein durch das Etikett Phase 1 zusätzlich vereinbart. Prüfen Sie deren Auftrag und erforderliche Abgrenzung. Vorhandene Angaben zu lesen und die Aufgabenstellung zu klären bleibt etwas anderes als das fehlende Programm vollständig neu zu entwickeln.
+
+### 3.3. Ortsbesichtigung und Bestandsrisiken auswerten
+
+Dokumentieren Sie Datum, Teilnehmende, besichtigte Bereiche, Befunde und Zugangsgrenzen. Fotos und Skizzen örtlich zuordnen. Wahrnehmung, Fremdaussage und technische Hypothese trennen. Aus Akten lässt sich ein Besichtigungsvermerk auswerten oder vorbereiten, kein physischer Termin durchführen.
+
+Ortsbesichtigung ist nicht gleich vollständige Bestandsaufnahme oder technische Substanzerkundung. Bei Feuchte, Rissen, unklaren Leitungen oder geplanter Nutzungsänderung erstellen Sie einen konkreten Untersuchungsvorschlag mit Anlass, Frage, benötigtem Fachgebiet, Zugangsbedarf, Entscheidung und Abhängigkeit der weiteren Planung. Keine statische Unbedenklichkeit, Schadstofffreiheit oder Nutzungsfreigabe aus Bildern bescheinigen.
+
+### 3.4. Fachplanungs- und Untersuchungsbedarf entscheiden helfen
+
+Begründen Sie Fachgebiet, Untersuchungsfrage und benötigtes Ergebnis. Vergleichen Sie Angebote nach Umfang und Ausschlüssen, nicht nur Preis. Eine Sichtung ersetzt keine Tragwerksberechnung. Erstellen Sie Auswahlhilfe und gegebenenfalls Anforderungsschreiben; vergeben Sie keinen Auftrag selbst.
+
+Koordination der Objektplanung ersetzt weder Fachplanung noch Prüfung durch Prüfsachverständige. Eine landesrechtliche Bauleiterfunktion wird hier nicht übernommen. Falls Landesrecht die Entscheidung trägt, prüfen Sie dessen einschlägige aktuelle oder historische Fassung gesondert. Bei fehlendem Volltext keine technischen Grenzwerte behaupten.
+
+### 3.5. Ergebnis vorlegen und am selben Stand weiterarbeiten
+
+Fassen Sie Ziele, Entscheidungen, Ortsbefund und Untersuchungsbedarf in der Planungsgrundlage zusammen. Erstellen Sie den bestellten Auftragstext, Brief oder Entscheidungsvorschlag vollständig. Benennen Sie Voraussetzungen der Weiterplanung. Fehlende Angaben sperren nur betroffene Aussagen, nicht das gesamte Dokument.
+
+Nach Antworten aktualisieren Sie dieselben Anforderungs- und Vorgangskennungen. Ändert sich die Nutzerzahl, prüfen Sie deren Folgen für Fläche, Erschließung, Fachbeiträge, Kostenbasis und Termin; übernehmen Sie keine alte Freigabe ungeprüft. Bei einem neuen Objekt einen getrennten Fall anlegen. Bei zwei Nutzungsoptionen einen gemeinsamen Ausgangsstand mit getrennten Annahmen fortführen. Alte Aussagen und Gründe der Änderung bleiben nachvollziehbar.
+
+## 4. Quellenpflicht
+
+Verbindlich ist die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bauwirtschaft/references/zitierweise.md). Verwenden Sie gezielt das [Quellenprotokoll Phase 1](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bauwirtschaft/references/hoai-1-fachquellen.md) und die unveränderten [allgemeinen Fachquellen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bauwirtschaft/references/fachquellen.md). Tragend sind Anlage 10 Nummer 10.1 Phase 1, Paragrafen 3 und 34 HOAI sowie Paragraf 650p BGB. Normtexte fallbezogen live und amtlich prüfen, Abrufdatum und zeitliche Anwendbarkeit trennen. Bei Zugriffsproblemen den genauen ungeprüften Punkt nennen.
+
+Die zwei Prozent für Gebäude nach Paragraf 34 sind eine Honorargewichtung, kein Baufortschritt, keine Fertigstellungsbescheinigung und kein automatischer Honoraranspruch. Gebäude und Innenräume gehören zum gemeinsamen Leistungsbild; Verträge und teilweise unterschiedliche Bewertungen nicht pauschal übertragen. Keine ungeprüften BGH-Anker einfügen; passende Normen genügen ohne Entscheidung. Literatur und DIN-Volltexte nur bei rechtmäßig verfügbarem, tatsächlich gelesenem Text verwenden. Keine geschützte Normbibliothek nachbauen.
+
+## 5. Ausgabeformat
+
+Lieferschwerpunkt ist die ausformulierte Planungsgrundlage beziehungsweise das ausdrücklich bestellte Dokument. Hinzu kommen nur nützliche ausgefüllte Anlagen: Anforderungsliste, Besichtigungsvermerk, Untersuchungsentscheidung oder Auftragserklärung. Trennen Sie internen Quellen- und Unsicherheitsvermerk vom Empfängertext. Nicht erzeugte Zeichnungen, Anlagen oder Dateiexporte nicht als beigefügt bezeichnen.
+
+Ausformulierungspflicht: Alle operativen Textteile werden in vollständigen, ausformulierten Sätzen geliefert. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Tabellen dürfen Daten enthalten, ersetzen aber keine bestellte Erklärung. Formatierte Dokumente verwenden soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen nach Überschriften. Bei Markdown steht der Exporthinweis getrennt. Schreiben Sie Deutsch mit echten Umlauten und ß sowie ausgeschriebenem Paragraf. Keine Außenhandlung oder technische Freigabe ohne Befugnis.
+
+## 6. Beispiele
+
+Ein Kulturverein nennt 120 Sitzplätze, die Betreiberin 160 Stehplätze; abgerufen ist nur Phase 1. Erstellen Sie die Planungsgrundlage mit gezielter Rückfrage zur Betriebsentscheidung, ohne genehmigte Kapazität zu erfinden. Nach Bestätigung von 120 Sitzplätzen bleiben 160 Stehplätze eine unbestätigte Option.
+
+Nach einer Ortsbesichtigung liegt ein Angebot zur bloßen Sichtprüfung des Dachstuhls vor. Schreiben Sie die Entscheidungshilfe einschließlich seiner Untersuchungsgrenze. Ein günstiger Preis begründet weder ausreichende Erkundung noch automatische Beauftragung.
+
+---
+
+## Skill: `hoai-7-angebote-werten-und-vergabe-vorbereiten`
+
+_Bereitet die Gebäudevergabe nach HOAI-Leistungsphase 7 vor, von Angeboten über positionsbezogene Wertung und zulässige Aufklärung bis zum Vergabevorschlag mit Vertragsunterlagen. Für zusammenhängende Vergabemitwirkung, nicht für einzelne Bieterfragen oder Rechnungen. Erteilt keinen Zuschlag._
+
+# 1. Gebäudeangebote bis zur unterschriftsreifen Vergabeentscheidung bearbeiten
+
+## 1. Zweck und Anwendungsfall
+
+Erstellen Sie aus den tatsächlich eingegangenen Angeboten den belastbaren Preisspiegel, die erforderliche Aufklärung und einen ausformulierten Vergabevorschlag mit eindeutig zusammengestellten Vertragsunterlagen. Beginnen Sie bei klarem Auftrag mit diesem Produkt, nicht mit einer Vorlesung über neun Phasen. Die Phasenbezeichnung erweitert weder Vertrag noch Vollmacht.
+
+Dieser Skill führt die LPH 7 für Gebäude zusammen. Einzelprüfungen bleiben bei den passenden Querschnittsskills für Angebote, Rügen, Nachträge oder Vertragsgestaltung. Erstellen Sie das bestellte Phasenprodukt selbst, statt bloß weiterzuleiten.
+
+## 2. Eingaben
+
+Lesen Sie Auftrag, Planervertrag/Stufenabruf, Vergabeunterlagen mit Änderungen, Planindex, vollständige Angebote, Eingangsbelege und Kostenbasis. Erfassen Sie Bauherr, Objekt, Los, Rolle, Stichtag und Entscheidungstermin. Gebäude und Innenräume gehören zum selben Leistungsbild nach Paragraf 34 HOAI und Anlage 10; Vertragsumfang und teilweise unterschiedliche Phasengewichte beachten. Technische Ausrüstung, Ingenieurbauwerke und Freianlagen bleiben getrennt.
+
+Ohne Unterlagen fragen Sie nach Objekt, Rolle, gewünschtem Ergebnis und Vergabestatus. Bei einem Ordner ohne Auftrag bieten Sie nach kurzem Belegblick etwa eine Wertung mit Aufklärungsentwurf oder eine Vertragszusammenstellung an. Fehlt nur der Förderbescheid, bearbeiten Sie den rechnerischen Vergleich bereits und fragen gezielt nach Bindungen, statt eine vollständige Mandatsaufnahme zu wiederholen.
+
+## 3. Ablauf / Checkliste
+
+### 3.1. Vertrag und Verfahrensweg festhalten
+
+Trennen Sie die vereinbarten Planungsziele nach Paragraf 650p BGB von der Leistungsbeschreibung in Anlage 10 Nummer 10.1 HOAI. Dokumentieren Sie, welche Leistungen tatsächlich abgerufen sind und wer externe Erklärungen abgeben darf. Die vier Honorarprozent der Gebäude-LPH 7 messen weder Baufortschritt noch den Anteil fertig geprüfter Angebote.
+
+Stellen Sie vor einer verfahrensrechtlichen Empfehlung Auftraggeberstatus, Gesamtauftragswert netto, Zeitpunkt, Vergabeart, Bekanntmachung, Landesrecht und Förderbedingungen fest. Bei öffentlicher Bauvergabe nicht automatisch die Verhandlungsfreiheit eines privaten Bestellers oder pauschal die VgV-Regeln für Lieferleistungen anwenden. Ober- und Unterschwellenrecht einschließlich jeweils einschlägiger VOB/A-Fassung live prüfen. Eine private Stiftung ist nicht allein aufgrund ihrer Rechtsform vergaberechtsfrei.
+
+### 3.2. Originalangebote erhalten und vergleichbar rechnen
+
+Legen Sie je Angebot Absender, Eingang, Bindung, Unterschrifts-/Formstatus, Anlagen, Preisblätter, Nachlassbedingungen, Nebenangebote und Abweichungen offen. Fehlendes Preisblatt ist nicht Preis null. Vergleichen Sie Original-LV, Bietertext, Bieterfragen und verbindliche Antworten. Nachträgliche Portalstände überschreiben das eingegangene Angebot nicht.
+
+Rechnen Sie je Position Menge mal Einheitspreis mit belegter Rundungsregel; zeigen Sie angebotene und nachgerechnete Summe getrennt. Führen Sie Netto, Umsatzsteuer, Brutto, bedingungslosen Nachlass und bedingtes Skonto auseinander. Zeigen Sie echte Alternativen in eigenen Vergleichszeilen, nicht als heimlichen Austausch einer Position. Rangfolgen nur für fachlich und rechtlich vergleichbare Angebote bilden; unbekannte Werte bleiben unbekannt. Beziehen Sie Fachplanerbeiträge und Schnittstellen zu anderen Losen konkret ein.
+
+### 3.3. Aufklärung und Wertung ausführen
+
+Unterscheiden Sie Rechenberichtigung, Eignungsnachweis, fehlende Unterlage, Aufklärung eines bestehenden Inhalts und Änderung des Angebots. Prüfen Sie die Zulässigkeit im festgestellten Verfahren, bevor Sie ein vollständiges Schreiben mit konkreter Frage, unveränderter Bezugsfassung und angemessener Antwortfrist entwerfen. Verlangen Sie nicht unter dem Etikett Aufklärung einen neuen Preis oder ein nachträglich besseres Produkt. Bietergespräche nach HOAI schaffen keine vergaberechtliche Nachverhandlungserlaubnis.
+
+Bewerten Sie auffällige Preise anhand Leistungsumfang, Mengen, Einzelpositionen, Schnittstellen und erforderlicher Bietererklärung. Ein niedriger Gesamtpreis beweist keine Unauskömmlichkeit; ein hoher Einzelpreis nicht automatisch ein Ausschlussgrund. Werten Sie nur bekanntgemachte Kriterien mit deren Gewichtung. Falls Nachweise fehlen, nennen Sie die betroffene Entscheidungsbedingung und liefern die bereits mögliche Teilwertung.
+
+### 3.4. Kostenabgleich und Vertragspaket fertigstellen
+
+Vergleichen Sie das prüfbare Ausschreibungsergebnis mit dem bepreisten Planer-LV oder der Kostenberechnung auf gleicher Leistungs-, Mengen- und Preisbasis. Erklären Sie die Differenz; eine Budgetüberschreitung wird nicht durch Herausrechnen notwendiger Leistungen beseitigt. Halten Sie Zusatzausgaben, Alternativen und noch nicht beauftragte Nachträge getrennt.
+
+Schreiben Sie den Vergabevorschlag mit Gegenstand, maßgeblichen Angeboten, Wertungsweg, verbleibenden Bedingungen, Preis, Terminfolgen und konkreter Entscheidung. Stellen Sie Angebot, LV-Langtexte, Antwortschreiben, Pläne mit Revision, vereinbarte Termine und sonstige Bedingungen tatsächlich zusammen. Benennen Sie Widersprüche der Vertragsrangfolge, statt Anlagen nur pauschal aufzuzählen. Entwerfen Sie das Auftragsschreiben nur im beauftragten Umfang; Versand und Zuschlag erfolgen erst durch Befugte und nach erforderlichen Warte-/Informationsschritten.
+
+### 3.5. Leistungsgrenzen und Fortsetzung
+
+Grundsätzlich erfasst LPH 7 auch Prüfung zusätzlicher/geänderter Leistungsangebote. Davon unterscheiden sich insbesondere bauwirtschaftlich begründete Nachtragsangebote, planungsändernde Nebenangebote, besondere Preisspiegel und Nachprüfungsunterstützung als in Anlage 10 genannte Besondere Leistungen. Bei Leistungsprogramm die Fußnotenregel prüfen, nicht schematisch doppelt bepreisen. Honorierung und tatsächliche Beauftragung getrennt klären.
+
+Nach einer Antwort aktualisieren Sie dieselbe Positionskennung, den dokumentierten Befund, die Rangfolge und den betroffenen Vertragsteil. Original und Antwort bleiben sichtbar. Bei Wechsel zu privater Vergabe oder anderem Los legen Sie einen klar bezeichneten Zweig an, ohne die alte Rechtsgrundlage zu überschreiben. Abschluss heißt vollständiges bestelltes Dokument; ein offener entscheidender Punkt bleibt als präzise Bedingung mit nächstem Beitrag benannt.
+
+## 4. Quellenpflicht
+
+Es gilt die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bauwirtschaft/references/zitierweise.md). Nutzen Sie die [phasebezogenen Quellen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bauwirtschaft/references/hoai-7-fachquellen.md) und gezielt die [allgemeinen Fachquellen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bauwirtschaft/references/fachquellen.md). HOAI Anlage 10 Nummer 10.1, Paragraf 34 HOAI und Paragraf 650p BGB sind Ausgangspunkte, keine Vollmacht. Tragende Normen, historische Fassung und Vergaberegeln live amtlich prüfen; Abrufdatum und Anwendbarkeit unterscheiden. Keine DIN-/ATV-Texte rekonstruieren, keine sachfremden oder erfundenen BGH-Anker. Abruflücken konkret offenlegen.
+
+## 5. Ausgabeformat
+
+Liefern Sie den ausgefüllten, nachrechenbaren Preisspiegel und das angeforderte Schreiben beziehungsweise die Entscheidungsvorlage samt Vertragszusammenstellung. Kein verpflichtendes Mammutpaket bei engem Teilauftrag. Empfängertext und internen Prüfvermerk trennen. Nachvollziehbare Tabellen ergänzen die ausformulierte Empfehlung.
+
+Ausformulierungspflicht: Endprodukte enthalten vollständige, ausformulierte Sätze; Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind keine Endfassung. Prüfen Sie dies vor Ausgabe und schreiben Sie unvollständige Teile neu. Formatstandard: soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung, Leerzeilen nach Überschriften, echte Umlaute und ß, Paragraf ausgeschrieben. Bei Markdown den Exporthinweis außerhalb des versandfertigen Textes geben. Keine erfundene Angebotsöffnung, Außenhandlung oder fachliche Freigabe behaupten.
+
+## 6. Beispiele
+
+Eine Bibliothek erhält drei Fensterangebote. Eines rechnet einen bedingten Zahlungsnachlass in die Endsumme ein, eines nennt im Anschreiben ein anderes Glas als im LV. Rechnen Sie die Angebote positionsweise, halten Sie die Abweichung offen und schreiben Sie die im konkreten Verfahren zulässige Aufklärung. Empfehlen Sie keinen Zuschlag allein nach der günstigsten Deckblattsumme.
+
+Nach Bestätigung der LV-Fassung und zulässiger Erläuterung des angebotenen Glases aktualisieren Sie Wertung, Kostenabgleich und Vertragspaket. Kein ungeprüftes Ersatzangebot heimlich übernehmen.
 
 ---
 
@@ -58,6 +715,8 @@ Lege die beauftragte Tabelle mit stabilen Vorgangskennungen an oder führe die v
 Ermittle die nächste tatsächlich benötigte Entscheidung und erledige sie hier. Für eine Freigabe bereite den vollständigen Entscheidungstext mit Voraussetzungen vor; für Kosten rechne Aufträge, Restleistung und Risiken ohne Doppelzählung; für einen Ablaufplan verbinde Vorgänger, Kalender und Ressource; für Zahlungen ordne Fälligkeit und verfügbare Mittel zu. Prüfe dabei Vertragseinbeziehung der VOB/B, Vergaberegime und fachliche Zuständigkeit. Die neun Gebäudephasen nach HOAI Anlage 10 sind eine Zuordnungshilfe, keine Vollbeauftragung aller Projektaufgaben.
 
 ### 3.4. Widerspruch gezielt klären und weiterarbeiten
+
+Ist ausdrücklich ein vollständiger HOAI-Phasenauftrag für Gebäude oder Innenräume bestellt, wähle genau den zugehörigen [Phasenskill](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bauwirtschaft/references/hoai-phasenpakete.md). Ein enger Rechnungs-, Nachtrags- oder Terminauftrag bleibt beim jeweiligen Fachskill. Übernimm geklärte Angaben und das bisherige Dokument; lade weder sämtliche Phasen noch deren große Werkstätten vorsorglich.
 
 Formuliere die eine Entscheidung, die den nächsten Schritt verändert: etwa ob die geänderte Hallenöffnung tatsächlich freigegeben wurde. Arbeite unabhängige Tabellenzeilen und Textteile fertig. Nach Antwort ändere denselben Stand, verknüpfe betroffene Kosten und Termine und erhalte die alte Grundlage in der Änderungsspur. Keine erneute Bestandsaufnahme und kein Neustart nach jedem Beleg. Lade einen passenden Geschwisterskill nur für einen konkreten Engpass; seine Bearbeitung fließt in dieses Ergebnis ein.
 
@@ -318,686 +977,6 @@ Ausformulierungspflicht: Operative Textteile werden in vollständigen, ausformul
 ## 6. Beispiele
 
 „Die Plattform bezeichnet eine Herstelleranlage ohne erkennbare Gleichwertigkeitskriterien; Angebotsende ist morgen.“ Prüfe zuerst den konkreten Text und das Verfahren, schreibe die benötigte Beanstandung mit Abhilfe und benenne die tatsächliche Fristdringlichkeit. Keine automatische zehntägige Schonfrist versprechen.
-
----
-
-## Skill: `baubuchhaltung-und-belege-abgleichen`
-
-_Gleicht Rechnungen, Gutschriften, Buchungen, offene Posten und Bankbewegungen im Bauunternehmen ab und erstellt nachvollziehbare Korrekturvorschläge. Trennt Leistungsprüfung, Umsatzsteuer und Bauabzugsteuer; keine stille Änderung des Hauptbuchs._
-
-# 1. Bauprojektbelege mit Buchhaltung und Bank abgleichen
-
-## 1. Zweck und Anwendungsfall
-
-Führe jeden relevanten Geschäftsvorfall zu Beleg, Projektzuordnung und Zahlungsstand zusammen. Der Abgleich ist weder ein Jahresabschluss noch eine automatische Steuer- oder Zahlungsfreigabe. Betriebliche Buchhaltung und Bankabgleich sind gesondert vom Planerauftrag zu bestimmen; die Rechnungsprüfung und Kostenkontrolle in HOAI Phase 8 ersetzen sie nicht.
-
-## 2. Eingaben
-
-Ohne Material frage nach Rechtsträger, Zeitraum, Buchhaltungsexport und gewünschtem Abgleich. Bei Ordner ohne Auftrag lies Rechnungen, Bank und offene Posten intern und biete Differenzbereinigung oder Projektbelegübersicht an. Bei klarem Ziel führe die bestehende Liste weiter. Kontenrahmen, Steuerschlüssel und Projektkennungen nur aus bestätigtem Bestand übernehmen.
-
-## 3. Ablauf / Checkliste
-
-### 3.1. Belege eindeutig zuordnen
-
-Nutze Lieferant, Rechnungsnummer, Datum, Betrag, Projekt und Bankreferenz gemeinsam. Gleicher Betrag allein beweist keine Dublette. Original, Kopie, Storno und korrigierte Rechnung unterscheiden. E-Rechnungsdaten und sichtbare PDF-Darstellung nicht als zwei Forderungen erfassen; Originalstruktur erhalten.
-
-### 3.2. Vier Ebenen abstimmen
-
-Verbinde Leistungsbeleg, Rechnung, Buchung und Zahlung. Teilzahlungen, Sammelzahlungen, Gutschriften, Skonto und Einbehalt nachvollziehbar aufteilen. Kumulative Bauabrechnung nicht als erneuten Gesamtumsatz oder vollständige neue Verbindlichkeit verdoppeln. Unzuordenbare Zahlung offen lassen und den fehlenden Bezug gezielt erfragen.
-
-Prüfe zusätzlich je Rechtsträger, Geschäftspartner, Währung und Stichtag die Summenbrücke: Anfangsbestand offener Posten plus neue Forderungs- oder Verbindlichkeitsbeträge minus Gutschriften, zugeordnete Zahlungen und belegte weitere Ausgleiche ergibt den Endbestand. Verwende dieselbe Betragsbasis und eine erklärte Vorzeichenkonvention; kumulative Vorbeträge nicht erneut zuführen. Jede Zahlungsaufteilung muss auf die Bankbewegung zurückführen. Einbehalt oder bestrittene Fälligkeit ist keine Zahlung und allein kein Grund zur Ausbuchung. Bestehende Restforderungen nach offen, einbehalten oder streitig kennzeichnen; ungeklärte Differenzen nicht durch erfundenes Skonto schließen.
-
-### 3.3. Steuerfälle getrennt prüfen
-
-Paragraf 13b UStG hängt von Leistung und Empfänger ab, nicht allein vom Firmennamen. Bauabzugsteuer nach Paragrafen 48 und 48b EStG ist eine andere Prüfung mit eigener Freistellungsbescheinigung. Nicht aus einer Bescheinigung für den einen Bereich die Freistellung im anderen ableiten. Bei ungeklärter steuerlicher Einordnung konkrete fachliche Rückfrage erstellen.
-
-### 3.4. Differenzen bereinigen und fortsetzen
-
-Erstelle pro Differenz den belegten Iststand, Korrekturvorschlag, Begründung und zuständige Freigabe. Keine Originalbuchung löschen oder rückdatieren; Nachvollziehbarkeit erhalten. Eine neu bestätigte Sammelzahlungsaufteilung wird in denselben Belegzeilen und offenen Posten verarbeitet. Buchungsexport oder Bankaktion nur bei ausdrücklich beauftragter und geprüfter Durchführung.
-
-## 4. Quellenpflicht
-
-Verbindlich ist die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bauwirtschaft/references/zitierweise.md). [Fachquellen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bauwirtschaft/references/fachquellen.md): Paragrafen 238 und 239 HGB, Paragrafen 13b und 14 UStG sowie Paragrafen 48 und 48b EStG sowie HOAI Anlage 10 Nummer 10.1 Phase 8 zur Leistungsabgrenzung. E-Rechnungsübergänge, Aufbewahrung und Steueranmeldungen bei Bedarf aktuell zusätzlich verifizieren; kein ungeprüftes GoBD-Gesamturteil. Verwende nur bereitgestellte oder verifizierte Normen und Entscheidungen; keine erfundenen Fundstellen, Randnummern oder technischen Regeltexte. Bezeichne Abruflücken präzise.
-
-## 5. Ausgabeformat
-
-Liefere eine ausgefüllte Abstimmliste mit eindeutigen Belegbezügen, verbleibenden Differenzen und ausformulierten Korrekturaufträgen. Keine verbuchten Korrekturen oder geprüfte Steuererklärung behaupten.
-
-Ausformulierungspflicht: Operative Textteile werden in vollständigen, ausformulierten Sätzen geliefert; Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Tabellen dürfen fachübliche Datenfelder enthalten, ersetzen aber keinen bestellten Text. Formatierte Dokumente verwenden soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen nach Überschriften. Bei Markdown den Exporthinweis getrennt geben. Deutsch mit echten Umlauten und ß; Paragraf ausschreiben. Keine nicht erzeugte Datei oder externe Handlung behaupten.
-
-## 6. Beispiele
-
-Eine Sammelzahlung über 23800 EUR betrifft zwei Rechnungen über je 11900 EUR brutto. Nach belegter Aufteilung werden beide offenen Posten ausgeglichen, nicht nur die erste Rechnung doppelt bezahlt oder die zweite gelöscht.
-
----
-
-## Skill: `projektliquiditaet-und-zahlungsplan-erstellen`
-
-_Erstellt einen fortgeschriebenen Zahlungs- und Liquiditätsplan für Bauvorhaben oder Bauunternehmen mit Fälligkeiten, Zahlungseingängen und Finanzierungsvoraussetzungen. Zeigt Liquiditätslücken; ersetzt weder Kostenprognose noch Insolvenzprüfung._
-
-# 1. Projektzahlungen und verfügbare Liquidität planen
-
-## 1. Zweck und Anwendungsfall
-
-Berechne, wann welche Zahlungsmittel tatsächlich verfügbar sind und welche fälligen Auszahlungen sie decken. Ein positiver Projektertrag oder eine bewilligte Förderung ist kein sofort verfügbares Guthaben.
-
-## 2. Eingaben
-
-Ohne Unterlagen frage nach Planungszeitraum, Rechtsträger, Anfangsbestand und nächster großer Fälligkeit. Bei Ordner ohne Auftrag lies Kontostand, offene Posten, Finanzierungszusagen und Rechnungen intern; biete Wochenplan oder Finanzierungslückenentscheidung an. Bei klarem Auftrag setze denselben Zahlungsplan fort. Projektkonto und Gesamtunternehmen nicht vermischen.
-
-## 3. Ablauf / Checkliste
-
-### 3.1. Verfügbare Mittel bestimmen
-
-Gleiche Stichtagsbestand mit Bankauszug ab. Kreditlinie nur im tatsächlich freien, zugesagten und abrufbaren Umfang berücksichtigen; Bürgschaftslinie und Förderzusage ohne erfüllte Auszahlungsvoraussetzung nicht als Geld zählen. Reservierte oder gesperrte Beträge separat behandeln.
-
-### 3.2. Zahlungsereignisse statt Kosten verteilen
-
-Ordne jeder Zahlung einen Beleg, Fälligkeitsgrund, Betrag, Steuerbehandlung und realistischen Zeitpunkt zu. Abschlags- und Schlussrechnungen kumulativ bereinigen. Erwartete Kundenzahlung nicht schon am Rechnungsdatum einplanen. Vertraglichen Einbehalt, Skonto und streitigen Abzug nur mit Grundlage erfassen.
-
-### 3.3. Perioden und Szenarien rechnen
-
-Endbestand ist Anfangsbestand zuzüglich Einzahlungen abzüglich Auszahlungen; er wird zum Folgeanfangsbestand. Zeige Tages- oder Wochenlücken auch bei positivem Monatsende. Verschobene Zahlung darf nicht in zwei Perioden enthalten sein. Unsichere Einzahlungen gehören in ein klar bezeichnetes Szenario, nicht verdeckt in die Basis.
-
-### 3.4. Finanzierungslücke handlungsfähig machen
-
-Formuliere eine konkrete Vorlage an die kaufmännische Leitung: Betrag, Eintrittszeitpunkt, fehlender Nachweis und praktikable Maßnahme. Eigenmächtiges Verschieben fälliger Zahlungen unterbleibt. Bei Anzeichen einer Unternehmenskrise warne konkret und veranlasse fachliche Prüfung durch zuständige Personen; aus der Projektplanung weder Insolvenzreife noch Entwarnung bescheinigen. Neue Zahlungsbestätigung in derselben Zeile und allen Folgebeständen fortführen.
-
-## 4. Quellenpflicht
-
-Verbindlich ist die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bauwirtschaft/references/zitierweise.md). [Fachquellen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bauwirtschaft/references/fachquellen.md): Paragrafen 632a, 641 und 650g BGB betreffen Zahlungsgrundlagen; Paragrafen 17 und 15a InsO bei konkreten Krisenanzeichen. Gesetzliche Höchstfristen sind keine Freifristen. Ein Projektplan ersetzt keinen vollständigen Liquiditätsstatus des Rechtsträgers. Verwende nur bereitgestellte oder verifizierte Normen und Entscheidungen; keine erfundenen Fundstellen, Randnummern oder technischen Regeltexte. Bezeichne Abruflücken präzise.
-
-## 5. Ausgabeformat
-
-Erstelle die ausgefüllte Zahlungsplanung mit Anfangs- und Endbeständen, belegter Basis und getrenntem Unsicherheitsszenario. Liefere eine vollständige Finanzierungsanfrage oder Entscheidungsnotiz, wenn dies der Auftrag ist.
-
-Ausformulierungspflicht: Operative Textteile werden in vollständigen, ausformulierten Sätzen geliefert; Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Tabellen dürfen fachübliche Datenfelder enthalten, ersetzen aber keinen bestellten Text. Formatierte Dokumente verwenden soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen nach Überschriften. Bei Markdown den Exporthinweis getrennt geben. Deutsch mit echten Umlauten und ß; Paragraf ausschreiben. Keine nicht erzeugte Datei oder externe Handlung behaupten.
-
-## 6. Beispiele
-
-80000 EUR freie Mittel, 45000 EUR sichere Eingänge und 150000 EUR fällige Auszahlungen ergeben eine Lücke von 25000 EUR. Eine nur beantragte Förderung über 40000 EUR schließt sie nicht.
-
----
-
-## Skill: `hoai-phasen-und-planstaende-abgleichen`
-
-_Ordnet Gebäudeplanung den neun Leistungsphasen nach HOAI Anlage 10 zu und erstellt eine belegte Leistungs- und Planstandsliste. Prüft Beauftragung, fehlende Ergebnisse und Freigaben; ersetzt weder Honorarberechnung noch technische Planprüfung._
-
-# 1. HOAI-Leistungen und tatsächlich vorliegenden Planstand abgleichen
-
-## 1. Zweck und Anwendungsfall
-
-Erstelle den vertraglichen Soll-Ist-Abgleich für Gebäudeplanung und den nutzbaren Planindex. Nicht jede vorhandene Zeichnung erfüllt eine ganze Leistungsphase; Honoraranteile sind keine Baufortschrittsprozente.
-
-## 2. Eingaben
-
-Ohne Material frage nach Objektart, Planungsvertrag, beauftragten Phasen und benötigter Entscheidung. Bei Planordner ohne Auftrag prüfe Index, Vertrag und Protokolle intern und biete Planfreigabeliste oder Leistungsabgleich an. Bei klarer Frage zu einer Phase arbeite direkt daran. Benötigt werden Planidentifikation, Revision, Ersteller, Empfänger, Versand und Freigabestatus, nicht nur Dateienamen.
-
-## 3. Ablauf / Checkliste
-
-### 3.1. Leistungsbild und Vertrag feststellen
-
-Nutze für Gebäude Paragraf 34 und Anlage 10 HOAI, nicht Tabellen anderer Leistungsbilder. Erfasse nur beauftragte Leistungen, Stufenabrufe und gesonderte Zusagen. Neun Phasen bedeuten keine automatische Beauftragung von neun Phasen. Honorarvereinbarung, Leistungsumfang und öffentlich-rechtliche Bauleiterfunktion getrennt behandeln.
-
-### 3.2. Neun Phasen mit Ergebnissen verbinden
-
-Ordne Grundlagenermittlung, Vorplanung, Entwurfsplanung, Genehmigungsplanung, Ausführungsplanung, Vorbereitung der Vergabe, Mitwirkung bei der Vergabe, Objektüberwachung und Dokumentation sowie Objektbetreuung zu. Unterscheide in jeder betroffenen Phase Grundleistung und Besondere Leistung. In Phase 8 liegen unter anderem Bautagebuch, gemeinsames Aufmaß, Rechnungsprüfung und Kostenfeststellung. Auch Objektübergabe, Verjährungsfristenliste und Überwachung der Beseitigung bereits bei Abnahme festgestellter Mängel gehören dort zu den Grundleistungen.
-
-Phase 9 umfasst die fachliche Bewertung innerhalb der Verjährungsfristen festgestellter Mängel einschließlich notwendiger Begehungen, die Mängelbegehung vor Fristablauf gegenüber ausführenden Unternehmen und die Mitwirkung bei der Sicherheitenfreigabe. Die Bewertung nach Buchstabe a ist auf längstens fünf Jahre seit Abnahme der Leistung begrenzt; das ist keine pauschale Verjährungsfrist aller Ansprüche. Überwachung der Beseitigung später festgestellter Mängel ist in Phase 9 als Besondere Leistung aufgeführt. Ordne jeden Mangel nach Feststellungszeitpunkt, Abnahmebezug und vereinbartem Auftrag zu.
-
-Ein Zahlungsplan ist in Phase 8 als Besondere Leistung aufgeführt. Betriebliche Buchhaltung, offene Posten und Bankabgleich werden nicht mit der dortigen Rechnungsprüfung oder Kostenkontrolle gleichgesetzt; kläre den dafür bestehenden Auftrag.
-
-### 3.3. Beauftragtes Soll gegen Belege prüfen
-
-Lege je Leistung Vertragspunkt, geschuldetes Ergebnis, vorhandenen Beleg, Reifegrad und offene Zuarbeit nebeneinander. Ein Bauantrag beweist keine erteilte Genehmigung; Genehmigungsplanung ist keine Ausführungsfreigabe. Prüfe, ob Fachplanungsbeiträge koordiniert sind. Fehlende Statik- oder Brandschutzbestätigung als fachlichen Blocker kennzeichnen, keine Berechnungsfreigabe selbst erteilen.
-
-### 3.4. Planindex und Anforderung fertigstellen
-
-Kennzeichne gültig zur jeweiligen Verwendung, zur Prüfung, ersetzt oder unklar. Frage bei widersprechenden Revisionen nach der maßgeblichen Freigabe und schreibe die konkrete Unterlagenanforderung bereits vollständig. Nach neuer Revision aktualisiere dieselben Plan- und Leistungszeilen, einschließlich der betroffenen Vergabe- oder Ausführungsvorgänge. Für Honorarfragen keine zeitlose Mindest- oder Höchstsatzbindung behaupten.
-
-## 4. Quellenpflicht
-
-Verbindlich ist die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bauwirtschaft/references/zitierweise.md). [Fachquellen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bauwirtschaft/references/fachquellen.md): HOAI Anlage 10 Nummer 10.1 und Paragrafen 3, 7 und 34 sowie Paragraf 650p BGB. Quellenabruf 25.09.2026; historisches Vertragsdatum und Übergangsrecht bei Honorarfragen gesondert verifizieren. Normzuordnung ist kein Nachweis tatsächlich erbrachter Leistungen. Verwende nur bereitgestellte oder verifizierte Normen und Entscheidungen; keine erfundenen Fundstellen, Randnummern oder technischen Regeltexte. Bezeichne Abruflücken präzise.
-
-## 5. Ausgabeformat
-
-Liefere die ausgefüllte Leistungs- und Planstandsliste sowie bei Bedarf ein vollständiges Anforderungsschreiben. Kennzeichne die Reichweite einer reinen Dokumentenkontrolle. Keine Phasenbescheinigung, technische Freigabe oder Honorarfälligkeit aus bloßer Dateiexistenz.
-
-Ausformulierungspflicht: Operative Textteile werden in vollständigen, ausformulierten Sätzen geliefert; Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Tabellen dürfen fachübliche Datenfelder enthalten, ersetzen aber keinen bestellten Text. Formatierte Dokumente verwenden soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen nach Überschriften. Bei Markdown den Exporthinweis getrennt geben. Deutsch mit echten Umlauten und ß; Paragraf ausschreiben. Keine nicht erzeugte Datei oder externe Handlung behaupten.
-
-## 6. Beispiele
-
-Eine Rechnung behauptet Phase 5 vollständig; vorhanden sind Genehmigungspläne und ein ungeprüfter Werkstattplan. Ordne die Belege richtig zu und fordere konkret die fehlenden Ausführungsangaben an. Nicht pauschal die gesamte Rechnung streichen oder Phase 5 als erbracht markieren.
-
----
-
-## Skill: `uebergabe-und-gewaehrleistung-organisieren`
-
-_Erstellt Übergabeunterlagen, Restpunkteliste und belegtes Gewährleistungsregister für Bauherren und Betreiber. Trennt Besitzübergabe, Inbetriebnahme, Abnahme und Verjährung; organisiert die Fortsetzung ohne pauschale Fünfjahresfrist für alles._
-
-# 1. Übergabe, Restleistungen und Gewährleistung geordnet fortführen
-
-## 1. Zweck und Anwendungsfall
-
-Mache das Bauwerk und seine Dokumentation geordnet an den Betreiber übergabefähig und sichere die weitere Bearbeitung offener Leistungen. Eine Schlüsselübergabe allein erledigt keine Mängelrechte oder Fachprüfungen.
-
-## 2. Eingaben
-
-Ohne Material frage nach Objekt, Übergabeumfang, Betreiber und Abnahmestand je Gewerk. Bei Ordner ohne Auftrag lies Protokolle, Revisionsunterlagen und Wartungsinformationen intern und biete Übergabeprotokoll oder Gewährleistungsregister an. Bei klarem Ziel vervollständige das vorhandene Dokument. Fehlende Fachnachweise nicht durch bloße Empfangsbestätigung ersetzen.
-
-## 3. Ablauf / Checkliste
-
-### 3.1. Übergabeumfang und Betriebsbereitschaft prüfen
-
-Ordne Schlüssel, Zugänge, Bestandspläne, Prüfunterlagen, Einweisungen und Wartungsunterlagen jeweils einem Bauteil und Empfänger zu. Sensible Zugangsdaten nicht in allgemein verteilte Berichte schreiben. Inbetriebnahme und sichere Nutzung benötigen die zuständigen Fachfreigaben; keine Betriebsfreigabe aus vollständigem Papierbestand ableiten.
-
-### 3.2. Rechtliche Ereignisse je Vertrag erfassen
-
-Bestimme dokumentierte Abnahme, Teilabnahme, Besitzüberlassung und Schlusszahlung getrennt. Verjährung nach Anspruch, Vertrag und anwendbarer Norm prüfen; Paragraf 634a BGB enthält unterschiedliche Tatbestände. VOB/B-Fristen nur bei wirksamer Einbeziehung und tatsächlichem Wortlaut verwenden. Hemmung oder Neubeginn nicht aus jeder Mängelmail ableiten.
-
-### 3.3. Übergabe und Fristenregister fertigstellen
-
-Erstelle das vollständige Protokoll und das ausgefüllte Register mit Leistung, Schuldner, Abnahmebeleg, Fristgrundlage, berechnetem Ende, Vorprüfungstermin und Zuständigkeit. Unklarer Beginn wird nicht mit dem heutigen Datum gefüllt. Lege Prüf- und Wiedervorlagetermine als Vorschlag an; keine tatsächlich eingerichtete Erinnerung behaupten.
-
-### 3.4. Restpunkte bis zur Erledigung fortführen
-
-Ordne bei Gebäudeplanung Übergabe und Verjährungsfristenliste den Grundleistungen der Phase 8 zu. Unterscheide im Mangelregister, ob der Mangel schon bei Abnahme festgestellt wurde: Die Überwachung seiner Beseitigung gehört ebenfalls zu Phase 8. Phase 9 sieht spätere fachliche Mängelbewertung, Begehung vor Fristablauf und Mitwirkung bei der Sicherheitenfreigabe vor; die Überwachung der Mängelbeseitigung innerhalb der Verjährungsfrist ist dort eine Besondere Leistung. Prüfe jeweils den tatsächlichen Auftrag. Die Fünfjahresgrenze seit Abnahme der Leistung für die Bewertung nach Phase 9 Buchstabe a ist keine einheitliche Anspruchsverjährung; führe beide Zeitbezüge getrennt.
-
-Erhalte Mangel- und Dokumentkennungen über Übergabe hinweg. Neue Revisionsdatei oder Fachbestätigung ersetzt denselben Eintrag mit Änderungsspur. Trenne Eingang, fachliche Prüfung und Erledigung. Sicherheitenfreigabe, Rechteverzicht oder Löschung alter Dokumente benötigen eine gesonderte Entscheidung; keine Gesamterledigung durch Routineprotokoll.
-
-## 4. Quellenpflicht
-
-Verbindlich ist die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bauwirtschaft/references/zitierweise.md). [Fachquellen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bauwirtschaft/references/fachquellen.md): Paragrafen 634a und 640 BGB, vertraglich einschlägige VOB/B sowie HOAI Anlage 10 Nummer 10.1 Phasen 8 und 9, gezielt geprüft am 25.09.2026. Objektbetreuung ist keine Garantie für alle Betreiberpflichten; weitergehende Leistungen hängen vom Auftrag ab. Verwende nur bereitgestellte oder verifizierte Normen und Entscheidungen; keine erfundenen Fundstellen, Randnummern oder technischen Regeltexte. Bezeichne Abruflücken präzise.
-
-## 5. Ausgabeformat
-
-Liefere je Datei ein vollständiges Übergabeprotokoll oder das zusammengehörige Gewährleistungsregister. Restpunkte dürfen offen sein, müssen aber konkrete Zuständigkeit und nächsten Schritt haben. Kein pauschales Siegel „mängelfrei übergeben“.
-
-Ausformulierungspflicht: Operative Textteile werden in vollständigen, ausformulierten Sätzen geliefert; Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Tabellen dürfen fachübliche Datenfelder enthalten, ersetzen aber keinen bestellten Text. Formatierte Dokumente verwenden soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen nach Überschriften. Bei Markdown den Exporthinweis getrennt geben. Deutsch mit echten Umlauten und ß; Paragraf ausschreiben. Keine nicht erzeugte Datei oder externe Handlung behaupten.
-
-## 6. Beispiele
-
-Rohbau und technische Anlage wurden an unterschiedlichen Tagen abgenommen; ein Aufzug ist nur probeweise betrieben. Führe getrennte Vertrags- und Fristzeilen. Der Schlüsseltermin setzt nicht sämtliche Gewährleistungsfristen neu in Gang.
-
----
-
-## Skill: `nachunternehmer-und-sicherheiten-steuern`
-
-_Erstellt einen nachunternehmerbezogenen Leistungs-, Nachweis- und Sicherheitenstand mit konkreter Anforderung oder Rückgabeentscheidung. Trennt Vertragserfüllung, Mängelsicherheit und Bauhandwerkersicherung; keine pauschale Sicherheitsquote._
-
-# 1. Nachunternehmerleistung und Sicherheiten nachvollziehbar steuern
-
-## 1. Zweck und Anwendungsfall
-
-Sichere die konkret benötigte Leistungskette und eine vertragsgerechte Behandlung der Sicherheiten. Nachunternehmervertrag und Hauptvertrag bilden keine automatisch deckungsgleichen Pflichten.
-
-## 2. Eingaben
-
-Ohne Material frage nach Haupt- oder Nachunternehmerrolle, betroffenem Gewerk und anstehender Sicherungsentscheidung. Bei Ordner ohne Auftrag lies Vertrag, Nachweise und Urkunden intern und biete Nachweisanforderung oder Sicherheitenabgleich an. Bei klarem Ziel bearbeite direkt. Auftragssumme, Nachtragsstand, Zahlungen und Urkundeninhalt benötigen getrennte Belege.
-
-## 3. Ablauf / Checkliste
-
-### 3.1. Leistungskette und Zuständigkeit erfassen
-
-Bestimme, wer welche Leistung schuldet und welche Vorleistungen, Planfreigaben oder Zustimmung zur Weitervergabe relevant sind. Im Hauptvertrag genannte Pflichten nicht ohne Einbeziehungsprüfung in den Nachvertrag kopieren. Qualifikation, Versicherungsnachweis und steuerliche Bescheinigungen nicht gegenseitig ersetzen.
-
-### 3.2. Jede Sicherheit nach ihrem Zweck prüfen
-
-Erfasse Sicherungsgeber, Begünstigten, gesicherte Forderung, Betrag, Form, Laufzeit, Abrufvoraussetzungen und Rückgabe. Vertragserfüllungs- und Mängelsicherheit, Einbehalt und Vergütungssicherung nach Paragraf 650f BGB unterscheiden. Keine frei gewählte Quote als marktüblich oder rechtssicher ausgeben.
-
-### 3.3. Überlagerung und Ausnahmen bearbeiten
-
-Prüfe Ablösung eines Einbehalts, gleichzeitig gehaltene Urkunden und sachlich noch gesicherte Ansprüche. Bauhandwerkersicherung hat eigene Voraussetzungen und Ausnahmen, insbesondere nach Paragraf 650f Absatz 6 BGB. Fehlender Zahlungseingang beim Hauptunternehmer schiebt Nachunternehmerfälligkeit nicht automatisch auf. AGB-Prüfung bleibt neben Urkundenprüfung erforderlich.
-
-### 3.4. Anforderung oder Entscheidung fertigstellen
-
-Formuliere das konkrete Nachweisschreiben oder eine begründete Rückgabe- beziehungsweise Austauschentscheidung. Fehlende Originalurkunde gezielt benennen. Nach neuer Sicherheit denselben Sicherheitenstand ändern und Doppelabsicherung kenntlich auflösen, soweit rechtlich bestätigt. Keine Bürgschaft ziehen, Originale zurückgeben oder Kündigung auslösen ohne Auftrag zur konkreten Handlung.
-
-## 4. Quellenpflicht
-
-Verbindlich ist die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bauwirtschaft/references/zitierweise.md). Paragrafen 650f, 641 Absatz 2 und 310 BGB sowie gegebenenfalls einbezogene VOB/B Paragraf 17 nach [Fachquellen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bauwirtschaft/references/fachquellen.md). Bürgschaftsform und konkrete Urkundenauslegung fallbezogen verifizieren; keine allgemeine Freigabe einer Klausel durch einen bloßen Prozentsatz. Verwende nur bereitgestellte oder verifizierte Normen und Entscheidungen; keine erfundenen Fundstellen, Randnummern oder technischen Regeltexte. Bezeichne Abruflücken präzise.
-
-## 5. Ausgabeformat
-
-Liefere die ausgefüllte Leistungs- und Sicherheitenübersicht und das bestellte ausformulierte Schreiben. Urkundenstatus und Rückgabeentscheidung müssen erkennbar verschieden sein.
-
-Ausformulierungspflicht: Operative Textteile werden in vollständigen, ausformulierten Sätzen geliefert; Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Tabellen dürfen fachübliche Datenfelder enthalten, ersetzen aber keinen bestellten Text. Formatierte Dokumente verwenden soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen nach Überschriften. Bei Markdown den Exporthinweis getrennt geben. Deutsch mit echten Umlauten und ß; Paragraf ausschreiben. Keine nicht erzeugte Datei oder externe Handlung behaupten.
-
-## 6. Beispiele
-
-50000 EUR Vertragserfüllungseinbehalt und eine zur Ablösung übergebene Bürgschaft über 50000 EUR dürfen nicht ohne Prüfung als dauerhaft nebeneinander berechtigte 100000 EUR Sicherheit behandelt werden. Bereite die konkrete Ablösungsprüfung vor.
-
----
-
-## Skill: `baurechnungen-pruefen-und-zahlung-vorbereiten`
-
-_Erstellt einen positionsbezogenen Rechnungsprüfvermerk und begründeten Zahlungsvorschlag aus Vertrag, Aufmaß, Nachträgen und bisherigen Zahlungen. Trennt Prüffähigkeit, Berechtigung, Fälligkeit und Steuerprüfung; keine automatische Zahlung._
-
-# 1. Baurechnung rechnerisch und sachlich prüfen
-
-## 1. Zweck und Anwendungsfall
-
-Ermittle den tatsächlich zur Entscheidung stehenden Zahlbetrag. Eine steuerlich ordentliche Rechnung ist nicht automatisch sachlich richtig, und Prüffähigkeit ist kein Anerkenntnis des Gesamtbetrags.
-
-## 2. Eingaben
-
-Ohne Unterlagen frage nach Rechnungsart, Vertragsgrundlage, Stichtag und vorhandenen Vorzahlungen. Bei Ordner ohne Auftrag lies Rechnung, Aufmaß und Zahlungsübersicht intern und biete Prüfung oder konkrete Einwendungsantwort an. Bei klarem Auftrag prüfe in der bestehenden Tabelle weiter. Originalrechnung und bestätigte Kontodaten unverändert erhalten.
-
-## 3. Ablauf / Checkliste
-
-### 3.1. Rechnungsbasis und Zugang sichern
-
-Erfasse Rechnungsteller, Empfänger, Projekt, Rechnungsnummer, Leistungszeitraum und Zugang. Abschlag, kumulative Abschlagsrechnung, Teilschluss- und Schlussrechnung unterscheiden. Für Fälligkeit Vertrag und gesetzliche Voraussetzungen prüfen, nicht allein ein aufgedrucktes Zahlungsziel übernehmen.
-
-### 3.2. Positionen und kumulierten Stand rechnen
-
-Vergleiche Leistung, Menge, Einheitspreis, Nachtragsstatus und Aufmaß. Bereits bestätigte kumulierte Mengen nicht erneut addieren. Rechne den geprüften Leistungswert auf konsistenter Steuerbasis und ziehe tatsächlich geleistete, passende Zahlungen ab. Noch unbezahlte frühere Rechnungen nicht zusätzlich wie Zahlungen behandeln.
-
-### 3.3. Einwendungen getrennt begründen
-
-Unterscheide fehlende Nachvollziehbarkeit, sachlich nicht geschuldete Leistung, Mangel und vertraglichen Sicherungseinbehalt. Einwendungen gegen Prüffähigkeit der Schlussrechnung nach Paragraf 650g Absatz 4 BGB sind zeitkritisch; die 30-Tage-Regel bedeutet keine automatische Anerkennung aller Positionen. Einbehalte nicht frei kumulieren oder als endgültige Minderung verbuchen.
-
-### 3.4. Zahlungsvorschlag fertigstellen
-
-Stelle beantragt, geprüft, bereits gezahlt, begründet zurückgehalten und zur Zahlung vorgeschlagen getrennt dar. Steuerliche Fragen einschließlich Paragraf 13b UStG und Bauabzugsteuer nicht durch gewöhnliche Mehrwertsteuer ersetzen. Verifiziere geänderte Bankverbindung über einen bekannten Kanal als offene Kontrollaufgabe. Neue Aufmaßbestätigung in derselben Rechnungszeile verarbeiten; keine Überweisung ausführen.
-
-## 4. Quellenpflicht
-
-Verbindlich ist die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bauwirtschaft/references/zitierweise.md). [Fachquellen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bauwirtschaft/references/fachquellen.md): Paragrafen 632a, 641 und 650g BGB, Paragrafen 13b und 14 UStG sowie Paragrafen 48 und 48b EStG. Vertragsfristen und wirksam einbezogene VOB/B gesondert; keine Gleichsetzung von Buchungsbeleg und Zahlungsfreigabe. Verwende nur bereitgestellte oder verifizierte Normen und Entscheidungen; keine erfundenen Fundstellen, Randnummern oder technischen Regeltexte. Bezeichne Abruflücken präzise.
-
-## 5. Ausgabeformat
-
-Liefere die ausgefüllte Rechnungsprüfung und den ausformulierten Prüfvermerk beziehungsweise Einwendungsbrief. Trenne das Zahlungsvotum von technischer Bestätigung, steuerlicher Prüfung und tatsächlicher Bankfreigabe.
-
-Ausformulierungspflicht: Operative Textteile werden in vollständigen, ausformulierten Sätzen geliefert; Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Tabellen dürfen fachübliche Datenfelder enthalten, ersetzen aber keinen bestellten Text. Formatierte Dokumente verwenden soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen nach Überschriften. Bei Markdown den Exporthinweis getrennt geben. Deutsch mit echten Umlauten und ß; Paragraf ausschreiben. Keine nicht erzeugte Datei oder externe Handlung behaupten.
-
-## 6. Beispiele
-
-Geprüfter kumulierter Nettowert 120000 EUR, bestätigte 19 Prozent Umsatzsteuer und bereits gezahlte 95200 EUR brutto ergeben vor sonstigen begründeten Abzügen 47600 EUR brutto. Die frühere Abschlagsrechnung darf nicht zusätzlich zur bereits berücksichtigten Zahlung abgezogen werden.
-
----
-
-## Skill: `bautagebuch-und-aufmass-fuehren`
-
-_Erstellt oder ergänzt Bautagesberichte und positionsbezogene Aufmaße aus tatsächlichen Beobachtungen, Fotos und Messdaten. Trennt Messwert, Schätzung und nachträglichen Eintrag; keine fingierte Baustellenbegehung oder technische Freigabe._
-
-# 1. Bautagebuch und prüffähiges Aufmaß führen
-
-## 1. Zweck und Anwendungsfall
-
-Sichere den tatsächlichen Bauablauf und die nachvollziehbare Mengenermittlung. Ein Bautagebuch dokumentiert Beobachtungen, während das Aufmaß Mengen für bestimmte Leistungspositionen ermittelt; beides ist weder automatisch Abnahme noch Vergütungsanerkenntnis.
-
-## 2. Eingaben
-
-Ohne Material frage nach Baustelle, Berichtsdatum, Gewerk und vorhandenen Beobachtungen oder Messungen. Bei Ordner ohne Auftrag lies Tagesnotizen, Fotos und Aufmaßblätter intern und biete Tagesbericht oder Mengenabgleich an. Bei klarem Ziel fülle die vorhandene Vorlage weiter. Unbekanntes Wetter, Personal und Einsatzzeiten nicht ergänzen.
-
-## 3. Ablauf / Checkliste
-
-### 3.1. Tagesbericht aus Belegen schreiben
-
-Erfasse Arbeitsort und Zeitfenster, Beteiligte, ausgeführte Tätigkeiten, beobachteten Fortschritt und tatsächlich dokumentierte Ereignisse. Fremdmitteilung als solche kennzeichnen. Fotoaufnahmezeit, Empfangsdatum und Berichtstag unterscheiden; keine Standort- oder Maßgenauigkeit aus einem ungeeichten Bild ableiten.
-
-### 3.2. Aufmaß positionsbezogen rechnen
-
-Verbinde jede Menge mit LV-Position, Bauteil, Maßkette, Einheit, Planrevision und Messdatum. Kumulierten Stand, früher abgerechnete Menge und aktuellen Zuwachs trennen. Bei Flächen oder Volumen Einheiten prüfen; Abzugs- und Übermessungsregeln nur aus der einschlägigen zugänglichen Vertrags- oder Normgrundlage übernehmen.
-
-### 3.3. Beweiswert und Lücken kenntlich machen
-
-Kennzeichne gemeinsame Messung, einseitige Aufnahme und Schätzung. Eine Unterschrift über Maße bestätigt nicht ohne weitere Grundlage Auftrag, Preis oder Mangelfreiheit. Verdeckte Leistungen benötigen rechtzeitige dokumentierte Feststellung; bei fehlendem Nachweis gezielte Nachforderung schreiben, nicht nachträglich eine Teilnahme erfinden.
-
-### 3.4. Korrektur nachvollziehbar fortführen
-
-Neue Messung als datierte Korrektur oder Ergänzung derselben Position eintragen; Ursprungswert und Grund erhalten. Nachtrag zum Tagesbericht nicht rückdatieren. Schreibe die verlangte Dokumentation vollständig und übergib Mengen nur mit ihrem Prüfstatus an die Rechnungsprüfung. Bei Anzeichen einer Sicherheitsgefahr den Nutzer konkret auf die zuständige Fachperson hinweisen und die erforderliche Kommunikation vorbereiten. Keine eigenmächtige Kontaktaufnahme oder eigenständige Freigabe.
-
-## 4. Quellenpflicht
-
-Verbindlich ist die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bauwirtschaft/references/zitierweise.md). HOAI Anlage 10 Phase 8 nennt Bauablaufdokumentation, gemeinsames Aufmaß und Rechnungsprüfung. Ob und wer diese schuldet, ergibt sich aus Vertrag und Rollenbestellung. VOB/B-Abrechnungsregeln und VOB/C nur nach Einbeziehungs- und Fassungsprüfung; siehe [Fachquellen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bauwirtschaft/references/fachquellen.md). Verwende nur bereitgestellte oder verifizierte Normen und Entscheidungen; keine erfundenen Fundstellen, Randnummern oder technischen Regeltexte. Bezeichne Abruflücken präzise.
-
-## 5. Ausgabeformat
-
-Liefere je Datei einen vollständigen Tagesbericht oder ein zusammengehöriges Aufmaßdokument, keine Sammlung mehrerer fremder Schreiben. Zahlenfelder sind ausgefüllt und Rechenwege nachvollziehbar; Beobachtungen werden in ganzen Sätzen beschrieben.
-
-Ausformulierungspflicht: Operative Textteile werden in vollständigen, ausformulierten Sätzen geliefert; Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Tabellen dürfen fachübliche Datenfelder enthalten, ersetzen aber keinen bestellten Text. Formatierte Dokumente verwenden soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen nach Überschriften. Bei Markdown den Exporthinweis getrennt geben. Deutsch mit echten Umlauten und ß; Paragraf ausschreiben. Keine nicht erzeugte Datei oder externe Handlung behaupten.
-
-## 6. Beispiele
-
-Gemessen wurden 18 m und 12 m Randbalken, zuvor bestätigt waren 20 m kumuliert. Der neue kumulierte Stand beträgt 30 m und der Zuwachs 10 m, nicht 50 m. Ein späteres Foto ändert den ursprünglichen Beobachtungszeitpunkt nicht.
-
----
-
-## Skill: `bauvertrag-und-schnittstellen-ausformulieren`
-
-_Erstellt einen vollständigen Bauvertragsentwurf oder eine beauftragte Schnittstellenvereinbarung aus Angebot, LV, Planstand und Verhandlung. Trennt Leistungsumfang, Planung, Mitwirkung und Vollmacht; keine ungeprüfte Übernahme der VOB/B._
-
-# 1. Bauvertrag und gewerkeübergreifende Schnittstellen ausformulieren
-
-## 1. Zweck und Anwendungsfall
-
-Formuliere die konkrete Vertragsbeziehung zwischen Bauherr und Unternehmen oder zwischen Haupt- und Nachunternehmer. Ein vollständig verlangter Vertrag wird nicht durch eine Risikoliste oder einzelne Klauselvorschläge ersetzt.
-
-## 2. Eingaben
-
-Ohne Material frage nach Parteien, eigener Seite, Leistung, Preisgrundlage und gewünschter Vertragsfassung. Bei Ordner ohne Auftrag lies Angebot, Bestellung und Anlagen intern und biete Neuvertrag oder Bereinigung der Schnittstellen an. Bei klarem Auftrag schreibe unmittelbar. Prüfe Verbraucher-, Bauträger- oder Grundstücksbezug als eigenen fachlichen Bedarf, statt eine B2B-Fassung ungeprüft zu verwenden.
-
-## 3. Ablauf / Checkliste
-
-### 3.1. Bindung und Vertragsgrundlage bestimmen
-
-Erfasse bestehende Erklärungen, Rangfolge, Anlagenstand und Zeichnungsbefugnis. Angebot, Protokoll und Ausführungsbeginn können unterschiedliche Bedeutung haben. VOB/B gilt nicht allein wegen Bauleistung, öffentlicher Vergabe oder branchenüblicher Verwendung; Einbeziehung, Ausgabe, Abweichungen und Inhaltskontrolle gesondert prüfen.
-
-### 3.2. Leistung und Schnittstelle verbindlich schreiben
-
-Bestimme Erfolg, Planungsverantwortung, Unternehmerleistung, Vorleistung des Auftraggebers und Übergabepunkt zwischen Gewerken. Benenne erforderliche Daten, Toleranzen oder Prüfnachweise nur anhand fachlich bestätigter Grundlagen. Schreibe Mitwirkungs- und Klärungsverfahren so, dass eine technische Freigabe nicht unbemerkt eine Preisbeauftragung wird.
-
-### 3.3. Wirtschaftliche und rechtliche Folgen abstimmen
-
-Regle bestätigte Vergütungsart, Mengenbasis, Abrechnung, Fälligkeit, Termine, Änderungen, Mängel, Abnahme und tatsächlich vereinbarte Sicherheiten. Vertragsstrafe, Haftungsausschluss oder Sicherungsquote nicht aus einem Muster ergänzen. Für jede neue Belastung Zweck, Verhandelbarkeit und AGB-Risiko prüfen. Gesetzliche Formfragen und Verbraucherrechte nur mit einschlägiger Verifikation behandeln.
-
-### 3.4. Denselben Vertrag fertigstellen
-
-Stelle gezielt die noch textentscheidende Frage, etwa wer die Tragwerksplanung schuldet. Unabhängige Teile vollständig formulieren. Nach Antwort Leistung, Preis, Termin und Anlagen derselben Fassung konsistent ändern. Unterschriftsfelder und Beschlussstatus nicht als vollzogenen Vertrag darstellen; keine Erklärung oder Bestellung ohne konkreten Auftrag abgeben.
-
-## 4. Quellenpflicht
-
-Verbindlich ist die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bauwirtschaft/references/zitierweise.md). [Fachquellen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bauwirtschaft/references/fachquellen.md): Paragrafen 650a bis 650c, 650g und 650p BGB sowie für AGB Paragrafen 305 bis 310 BGB nach verifiziertem Text. Die besondere Behandlung unverändert insgesamt einbezogener VOB/B nach Paragraf 310 Absatz 1 BGB ist keine pauschale Freigabe sämtlicher Zusatzbedingungen. Verwende nur bereitgestellte oder verifizierte Normen und Entscheidungen; keine erfundenen Fundstellen, Randnummern oder technischen Regeltexte. Bezeichne Abruflücken präzise.
-
-## 5. Ausgabeformat
-
-Liefere den vollständigen beauftragten Vertrag oder die vollständig formulierte Schnittstellenvereinbarung. Anlagen eindeutig mit Stand bezeichnen. Interne offene Punkte und Quellenprotokoll getrennt halten.
-
-Ausformulierungspflicht: Operative Textteile werden in vollständigen, ausformulierten Sätzen geliefert; Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Tabellen dürfen fachübliche Datenfelder enthalten, ersetzen aber keinen bestellten Text. Formatierte Dokumente verwenden soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen nach Überschriften. Bei Markdown den Exporthinweis getrennt geben. Deutsch mit echten Umlauten und ß; Paragraf ausschreiben. Keine nicht erzeugte Datei oder externe Handlung behaupten.
-
-## 6. Beispiele
-
-Rohbau stellt Aussparungen her, technische Ausrüstung liefert rechtzeitig geprüfte Durchbruchspläne. Regle Liefertermin, Planversion und Bearbeitung von Änderungen. Ein Prüfvermerk des Bauleiters wird nicht zur pauschalen Vollmacht für kostenpflichtige Zusatzleistungen.
-
----
-
-## Skill: `projektbericht-und-entscheidungsvorlage-erstellen`
-
-_Erstellt einen adressatengerechten Bauprojektbericht oder eine Beschlussvorlage mit abgeglichenem Kosten-, Termin-, Plan- und Risikostand. Führt zur konkreten Entscheidung statt zur bloßen Ampelübersicht; keine erfundene Freigabe._
-
-# 1. Projektlage in eine entscheidungsfähige Vorlage überführen
-
-## 1. Zweck und Anwendungsfall
-
-Verbinde die bestätigten Teilstände zu einer tatsächlich benötigten Führungsentscheidung. Dieser Skill verdichtet bestehende Fachstände; er ersetzt bei fehlender Grundlage keine technische Fachprüfung oder vollständige Buchhaltung.
-
-## 2. Eingaben
-
-Ohne Material frage nach Empfänger, Berichtsdatum, Entscheidung und Termin. Bei Ordner ohne Auftrag lies letzte Berichte, Beschlüsse und veränderte Teilstände intern und biete Lagebericht oder konkrete Investitionsvorlage an. Bei klarem Ziel schreibe unmittelbar. Vorhandene Zahlen und Rollen nicht durch allgemeine Projektfragen erneut erheben.
-
-## 3. Ablauf / Checkliste
-
-### 3.1. Einheitlichen Stichtag herstellen
-
-Gleiche Budget, Prognose, Verpflichtung und Liquidität sowie Basis- und Prognosetermin ab. Unterschiedliche Datenstände sichtbar machen. Ein bezahlter Auftrag ist keine Kostenersparnis, ein intern freigegebener Plan nicht zwingend behördlich genehmigt.
-
-### 3.2. Entscheidungsbedarf ausarbeiten
-
-Benenne die konkrete Abweichung, Ursache und Handlungszeitpunkt. Vergleiche nur tatsächlich verfügbare Alternativen mit Leistung, Kosten, Zeit, Risiko und notwendigen Freigaben. Keine rechnerische Exaktheit aus ungesicherten Eingangswerten herstellen. Ampeln erhalten nachvollziehbare Kriterien, nicht bloße Einschätzung.
-
-### 3.3. Vorlage vollständig formulieren
-
-Schreibe Beschlussgegenstand, Umfang, Betrag und Preisbasis, Bedingungen, Zuständigkeit und weitere Umsetzung aus. „Mehrkosten freigeben“ ohne Betrag oder Gegenstand reicht nicht. Eine Vorlage darf Alternativen enthalten, aber keine bereits erfolgte Zustimmung oder Außenbindung behaupten.
-
-### 3.4. Neue Entscheidung in denselben Stand übernehmen
-
-Nach Nutzerentscheidung Empfehlung in den bestehenden Bericht einarbeiten, betroffene Tabellen und Maßnahmen aktualisieren und offene Restbedingungen erhalten. Bei nicht bestätigter Finanzierungszusage konkrete Rückfrage stellen. Ein Bericht schließt den Auftrag nur ab, wenn Bericht oder Entscheidungsvorlage tatsächlich bestellt war; bei bestelltem Nachtrag den Vertrag liefern.
-
-## 4. Quellenpflicht
-
-Verbindlich ist die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bauwirtschaft/references/zitierweise.md). Nutze nur die für die konkrete Entscheidung tragenden [Fachquellen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bauwirtschaft/references/fachquellen.md) und verifizierten Ausgangsdokumente. HOAI, Budgetbeschluss und Vertretung sind unterschiedliche Grundlagen. Keine rechtliche Freigabe allein aus einem positiven Projektbericht. Verwende nur bereitgestellte oder verifizierte Normen und Entscheidungen; keine erfundenen Fundstellen, Randnummern oder technischen Regeltexte. Bezeichne Abruflücken präzise.
-
-## 5. Ausgabeformat
-
-Liefere den vollständigen Projektbericht oder Beschlussentwurf mit entscheidungsrelevanten Tabellen. Interne Quellenkontrolle und fehlende Fachfreigaben getrennt darstellen; keine aufgeblähte Vollakte anhängen.
-
-Ausformulierungspflicht: Operative Textteile werden in vollständigen, ausformulierten Sätzen geliefert; Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Tabellen dürfen fachübliche Datenfelder enthalten, ersetzen aber keinen bestellten Text. Formatierte Dokumente verwenden soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen nach Überschriften. Bei Markdown den Exporthinweis getrennt geben. Deutsch mit echten Umlauten und ß; Paragraf ausschreiben. Keine nicht erzeugte Datei oder externe Handlung behaupten.
-
-## 6. Beispiele
-
-Ein Termin lässt sich durch zusätzliche Schicht für 18000 EUR halten, die technische Zulässigkeit ist noch offen. Formuliere eine bedingte Entscheidung über genau diese Maßnahme; weder pauschale Mehrkostenfreigabe noch bereits bestätigten Schichtbetrieb behaupten.
-
----
-
-## Skill: `vergabe-und-losbildung-vorbereiten`
-
-_Erstellt Vergabefahrplan, Auftragswertschätzung und Loskonzept für Bauherren und Vergabeteams. Prüft Auftraggeber, Leistung, Zeitpunkt, Landesrecht und Förderbindung; keine pauschale Verfahrenswahl aus einer zeitlosen Wertgrenze._
-
-# 1. Vergabeverfahren und fachlich begründete Lose vorbereiten
-
-## 1. Zweck und Anwendungsfall
-
-Bereite die konkrete Beschaffungsentscheidung einschließlich Loszuschnitt, Verfahrensweg und Terminfolge vor. Private Beschaffung, öffentliche Bauvergabe, Planungsauftrag und gefördertes Projekt werden nicht gleichbehandelt.
-
-## 2. Eingaben
-
-Ohne Material frage nach Auftraggebertyp, Bundesland, Leistung, geschätztem Gesamtwert und geplantem Verfahrensbeginn. Bei Ordner ohne Auftrag lies Bedarf, Förderbescheid und Vergabeplan intern; frage nach Losentscheidung oder vollständigem Verfahrensfahrplan. Bei klarem Ziel arbeite direkt. Bereits belegte Daten nicht erneut abfragen.
-
-## 3. Ablauf / Checkliste
-
-### 3.1. Regime datiert feststellen
-
-Prüfe Rechtsträger und Auftraggebereigenschaft, Bau- oder Planungsleistung, gemischten Auftrag, Förderbedingungen sowie Verfahrensbeginn. Bestimme den einschlägigen EU- oder Unterschwellenweg anhand aktueller und gegebenenfalls historischer Quellen. Paragraf 2 VgV verweist für Bauaufträge auf die maßgebliche VOB/A-EU; Planungsleistungen nicht ohne Prüfung in dieselben Regeln pressen.
-
-### 3.2. Auftragswert und Lose rechnen
-
-Dokumentiere Schätzzeitpunkt, Mengen, Optionen, Laufzeit und erforderliche Zusammenrechnung. Nettoauftragswert ist nicht Haushaltsbruttobudget. Plane fachlich sinnvolle Gewerke und Teilmengen mit Schnittstellen, Wettbewerb und Koordinationsaufwand. Zerlegung zur Umgehung des anwendbaren Rechts ist keine zulässige Begründung.
-
-### 3.3. Losentscheidung konkret begründen
-
-Stelle getrennte Vergabe und Zusammenfassung mit technischen sowie wirtschaftlichen Folgen gegenüber. Verifiziere die tatsächlich geltende Losvorschrift im einschlägigen Regelwerk; kopiere keinen historischen Wortlaut des Paragrafen 97 Absatz 4 GWB als zeitlos geltendes Recht. In Niedersachsen insbesondere statische Verweisung auf VOB/A und NWertVO prüfen, in Nordrhein-Westfalen kommunale Sonderregeln von Landesvergaben trennen.
-
-### 3.4. Vergabefahrplan fertigstellen
-
-Lege Leistungsreife, Veröffentlichung, Rückfragen, Angebote, Prüfung, Entscheidung und gegebenenfalls Informations- und Wartepflichten mit Zuständigkeit fest. Fehlt ein entscheidender Förderbescheid, frage genau danach und bearbeite den übrigen Fahrplan. Nach Antwort denselben Wertansatz und Verfahrensplan aktualisieren. Kein Start der Ausschreibung, Bieterkontakt oder Zuschlag ohne Auftrag zur konkreten Außenhandlung.
-
-## 4. Quellenpflicht
-
-Verbindlich ist die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bauwirtschaft/references/zitierweise.md). [Fachquellen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bauwirtschaft/references/fachquellen.md): Paragrafen 97, 106 und 134 GWB, Paragrafen 2 und 3 VgV sowie Landesquellen. Abrufstand 25.09.2026; Schwellenwerte, VOB/A-Fassung und Übergangsregeln je Ereignisdatum bestätigen. Die 2016er VOB/B ist Vertragsrecht, keine Verfahrensordnung. Verwende nur bereitgestellte oder verifizierte Normen und Entscheidungen; keine erfundenen Fundstellen, Randnummern oder technischen Regeltexte. Bezeichne Abruflücken präzise.
-
-## 5. Ausgabeformat
-
-Liefere ausgefüllten Vergabefahrplan, nachvollziehbare Wertschätzung und ausformulierte Losentscheidung. Ungeklärtes Regime wird als konkrete Freigabevoraussetzung kenntlich, nicht als angeblich bereits rechtssicheres Verfahren.
-
-Ausformulierungspflicht: Operative Textteile werden in vollständigen, ausformulierten Sätzen geliefert; Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Tabellen dürfen fachübliche Datenfelder enthalten, ersetzen aber keinen bestellten Text. Formatierte Dokumente verwenden soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen nach Überschriften. Bei Markdown den Exporthinweis getrennt geben. Deutsch mit echten Umlauten und ß; Paragraf ausschreiben. Keine nicht erzeugte Datei oder externe Handlung behaupten.
-
-## 6. Beispiele
-
-Vier Baugewerke mit gemeinsamem funktionalem Vorhaben werden nicht allein deshalb vier unterschwellige Beschaffungen, weil jedes Gewerk kleiner ist. Erstelle die Gesamtwertprüfung und eine belegte Losbegründung; erfinde keine zulässige Direktvergabe.
-
----
-
-## Skill: `nachtraege-pruefen-und-vereinbaren`
-
-_Prüft Bauleistungsänderungen und Nachtragsangebote nach Ursache, Beauftragung, Mengen, Preis und Bauzeit und erstellt Prüfblatt oder Nachtragsvereinbarung. Trennt Angebotsbetrag, Prognose und verbindlich vereinbarte Vergütung._
-
-# 1. Nachtrag sachlich prüfen, rechnen und vollständig vereinbaren
-
-## 1. Zweck und Anwendungsfall
-
-Bearbeite die konkrete Leistungsänderung bis zur geforderten Prüfentscheidung oder unterschriftsfähigen Vereinbarung. Eine technische Notwendigkeit ist weder automatische Beauftragung noch Freigabe des geforderten Preises.
-
-## 2. Eingaben
-
-Ohne Material frage nach Änderungsleistung, Vertragsseite, Ursprungsumfang und Auftrag zum Prüfen oder Vereinbaren. Bei Ordner ohne Auftrag lies Vertrag, Änderungsbegehren, Planstand und Kalkulation intern und biete Prüfblatt oder Nachtrag an. Bei klarem Ziel beginne unmittelbar. VOB/B-Ausgabe und tatsächliche Einbeziehung nicht aus dem Wort „Nachtrag“ ableiten.
-
-## 3. Ablauf / Checkliste
-
-### 3.1. Leistungsdelta und Grundlage feststellen
-
-Vergleiche alte und neue Leistung positions- und planbezogen. Unterscheide Mengenabweichung, geänderte Leistung, zusätzliche Leistung, beseitigten Mangel und bereits geschuldeten Umfang. Erfasse wer wann was verlangt oder angeordnet hat und welche Vertretungsbefugnis belegt ist.
-
-### 3.2. Preisweg richtig wählen
-
-Bei gesetzlicher Anordnung Paragrafen 650b und 650c BGB mit ihren Voraussetzungen prüfen; vereinbarter Preis und einseitige Preisforderung sind verschieden. Bei VOB/B den einschlägigen Vergütungstatbestand und die konkrete Fassung gesondert prüfen. Urkalkulation, erforderliche Kosten und Zuschläge nicht beliebig mischen; keine frei erfundenen üblichen Prozentsätze.
-
-### 3.3. Mehr- und Minderkosten rechnen
-
-Stelle Menge, Einheit, Lohn, Material, Gerät, Nachunternehmer und begründete Zuschläge nachvollziehbar dar. Entfallende Leistung abziehen. Doppelte Baustellengemeinkosten, Preisbestandteile und bereits berechnete Leistungen kontrollieren. Bauzeit- oder Beschleunigungskosten nur mit eigenem Kausalitäts- und Kostenbeleg erfassen.
-
-### 3.4. Prüfergebnis in den Nachtrag überführen
-
-Formuliere bestätigten Umfang, Preis, Abrechnung, Terminwirkung und Fortgeltung des übrigen Vertrags. Offene Teile gezielt ausnehmen statt pauschale Gesamterledigung zu erfinden. Frage nach genau der fehlenden Entscheidung, etwa Teilvereinbarung ohne Bauzeitabgeltung. Nach Antwort denselben Nachtrag, Auftragsstand und Prognose aktualisieren. Kein Preisanerkenntnis oder Bestellen durch bloße Prüfnotiz.
-
-## 4. Quellenpflicht
-
-Verbindlich ist die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bauwirtschaft/references/zitierweise.md). Paragrafen 650b und 650c BGB sowie, nur bei entsprechender Grundlage, VOB/B Paragraf 2 anhand der [Fachquellen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bauwirtschaft/references/fachquellen.md). Die 80-Prozent-Regel des Paragrafen 650c Absatz 3 ist keine allgemeine Nachtragsfreigabe; Anspruch, Abschlag und endgültiger Preis bleiben getrennt. Verwende nur bereitgestellte oder verifizierte Normen und Entscheidungen; keine erfundenen Fundstellen, Randnummern oder technischen Regeltexte. Bezeichne Abruflücken präzise.
-
-## 5. Ausgabeformat
-
-Liefere die nachvollziehbare Nachtragsberechnung und das ausdrücklich bestellte vollständige Prüfblatt oder die vollständige Nachtragsvereinbarung. Tabellenfelder allein ersetzen keine vertragliche Regelung.
-
-Ausformulierungspflicht: Operative Textteile werden in vollständigen, ausformulierten Sätzen geliefert; Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Tabellen dürfen fachübliche Datenfelder enthalten, ersetzen aber keinen bestellten Text. Formatierte Dokumente verwenden soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen nach Überschriften. Bei Markdown den Exporthinweis getrennt geben. Deutsch mit echten Umlauten und ß; Paragraf ausschreiben. Keine nicht erzeugte Datei oder externe Handlung behaupten.
-
-## 6. Beispiele
-
-5000 EUR neue Leistung und 1500 EUR entfallende Altleistung ergeben bei bestätigter gleicher Preisbasis 3500 EUR Mehrvergütung. Ein daneben behaupteter Bauzeitbetrag bleibt getrennt offen, wenn weder Ursache noch Kosten belegt sind.
-
----
-
-## Skill: `bauablauf-und-terminplan-fortschreiben`
-
-_Erstellt oder korrigiert Bauablauf- und Terminpläne anhand von Planlieferungen, Vergabe, Ressourcen, Ausführung und Inbetriebnahme. Trennt vertragliche Termine von Prognosen und Puffern; keine rechtliche Bauzeitentschädigung._
-
-# 1. Bauablauf mit Abhängigkeiten und realistischen Terminen fortschreiben
-
-## 1. Zweck und Anwendungsfall
-
-Mache den nächsten Bauablauf ausführbar und den Terminstand nachvollziehbar. Ein neuer Balkenplan ersetzt keine erforderliche Vertragsänderung oder Fachfreigabe.
-
-## 2. Eingaben
-
-Ohne Material frage nach Zielereignis, Stichtag, Kalender und kritischer Vorleistung. Bei Ordner ohne Auftrag lies Basisplan, Fortschritt und Protokolle und biete einen aktualisierten Ablaufplan oder eine Terminentscheidung an. Bei klarem Ziel ändere den vorhandenen Plan. Vorhandene Arbeitszeiten, Sperrzeiten und Ferien nicht ungeprüft durch Montag bis Freitag ersetzen.
-
-## 3. Ablauf / Checkliste
-
-### 3.1. Basis und Bindung feststellen
-
-Sichere Ursprungsversion, Statusdatum, vertragliche Meilensteine und aktuelle Prognose. Unterscheide Planlieferung, behördliche Freigabe, Materiallieferung, Ausführungsabschluss und Betriebsaufnahme. Ein Fertigmeldedatum ist nicht zwingend Abnahme oder Nutzungsfreigabe.
-
-### 3.2. Abhängigkeiten und Kalender rechnen
-
-Erfasse Vorgang, Dauer, Vorgänger, Beziehung, Ressource und Freigabevoraussetzung. Rechne mit dem bestätigten Arbeitskalender; Kalender- und Arbeitstage kennzeichnen. Prüfe Engpässe bei Kran, Personal, Trocknung oder Prüftermin, ohne physikalische Dauern zu erfinden. Technisch notwendige Wartezeit nur anhand fachlich bestätigter Angaben verkürzen.
-
-### 3.3. Fortschritt und Puffer transparent ändern
-
-Trage tatsächlichen Beginn und Ende ein, Restdauer nicht aus einem bloßen Prozentwert ableiten. Prüfe den jeweils maßgeblichen Pfad, freie Verschiebungsmöglichkeit und parallel wirkende Ereignisse. Nicht jeden Verzug vollständig auf den Endtermin addieren. Bei fehlender Abhängigkeit gezielt nachfragen und die gesicherten Vorgänge fortführen.
-
-### 3.4. Gegenmaßnahmen und Entscheidung liefern
-
-Vergleiche belegbare Reihenfolgeänderung, Teilfreigabe oder zusätzliche Kapazität mit Aufwand und Genehmigungsbedarf. Erstelle den aktualisierten Plan und eine konkrete Entscheidung zu den verbleibenden Abweichungen. Eine bestätigte Ressource wird in derselben Vorgangszeile verarbeitet; Vertragsfrist, Prognose und neue Vereinbarung bleiben getrennte Spalten.
-
-## 4. Quellenpflicht
-
-Verbindlich ist die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bauwirtschaft/references/zitierweise.md). Für vertragliche Fristen gelten die verifizierten Vertragsgrundlagen; VOB/B nicht automatisch anwenden. HOAI Anlage 10 enthält Terminplanleistungen in mehreren Phasen, ohne alle Beteiligten zu denselben Pflichten zu verpflichten. Siehe [Fachquellen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bauwirtschaft/references/fachquellen.md). Verwende nur bereitgestellte oder verifizierte Normen und Entscheidungen; keine erfundenen Fundstellen, Randnummern oder technischen Regeltexte. Bezeichne Abruflücken präzise.
-
-## 5. Ausgabeformat
-
-Liefere den tatsächlich aktualisierten Vorgangsplan mit Kalender und Abhängigkeiten sowie eine ausformulierte Terminentscheidung, soweit bestellt. Nicht beim beschreibenden Verzögerungsbericht stehenbleiben.
-
-Ausformulierungspflicht: Operative Textteile werden in vollständigen, ausformulierten Sätzen geliefert; Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Tabellen dürfen fachübliche Datenfelder enthalten, ersetzen aber keinen bestellten Text. Formatierte Dokumente verwenden soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen nach Überschriften. Bei Markdown den Exporthinweis getrennt geben. Deutsch mit echten Umlauten und ß; Paragraf ausschreiben. Keine nicht erzeugte Datei oder externe Handlung behaupten.
-
-## 6. Beispiele
-
-Eine Lieferverzögerung von fünf Arbeitstagen trifft einen Vorgang mit zwei Arbeitstagen nutzbarem Puffer. Bei sonst unverändert belegter Kette beträgt die Endverschiebung drei Arbeitstage. Kennzeichne die Annahme statt pauschal fünf Tage zu verlangen.
-
----
-
-## Skill: `behinderung-und-bauzeitfolgen-dokumentieren`
-
-_Erstellt Behinderungsanzeige, Antwort und ereignisbezogenen Bauzeitnachweis aus Sollablauf, tatsächlicher Störung und Ressourcen. Trennt Ursache, Fristfolge und Geldanspruch; keine pauschale Addition aller Verzögerungstage._
-
-# 1. Behinderung mit konkreter Bauablaufwirkung dokumentieren
-
-## 1. Zweck und Anwendungsfall
-
-Mache die konkrete Störung und ihre Folgen prüfbar und formuliere die bestellte Anzeige oder Erwiderung. Die Dokumentation ersetzt keine technische Feststellung oder abgeschlossene Anspruchsprüfung.
-
-## 2. Eingaben
-
-Ohne Material frage nach Vertragsseite, betroffenem Vorgang, Beginn der Störung und benötigtem Schreiben. Bei Ordner ohne Auftrag lies Basisplan, Tagesberichte und Kommunikation intern und biete Anzeige oder Bauzeitabgleich an. Bei klarem Ziel entwirf direkt. Entscheidend sind VOB/B-Einbeziehung, erforderliche Vorleistung und belegte Leistungsbereitschaft.
-
-## 3. Ablauf / Checkliste
-
-### 3.1. Störung konkret beschreiben
-
-Bestimme Ort, Leistung, Zeit, Hindernis, fehlende Mitwirkung und vorhandene Arbeitsbereitschaft. Trenne eigene Wahrnehmung, Nachricht Dritter und behauptete Ursache. Normales Wetter, außergewöhnliches Ereignis und vertraglich übernommenes Risiko nicht ohne Belege gleichsetzen. Keine pauschale Anzeige „Baustelle behindert“.
-
-### 3.2. Soll-Ist-Kausalität prüfen
-
-Verbinde das Ereignis mit dem damals maßgeblichen Ablauf und tatsächlich betroffenen Personal- oder Geräteeinsätzen. Prüfe Puffer, parallele Störungen, alternative Arbeiten und Maßnahmen zur Begrenzung. Mehrere Ursachen am selben Tag nicht mehrfach auf den Endtermin addieren. Fehlende Daten als konkrete Nachweisfrage benennen.
-
-### 3.3. Vertragliche und gesetzliche Wege trennen
-
-Bei wirksam vereinbarter VOB/B die einschlägigen Anzeige- und Fristregeln anhand der konkreten Fassung prüfen. BGB-Ansprüche etwa aus Paragraf 642 BGB brauchen ihre eigenen Voraussetzungen; Behinderung, Verschulden und Annahmeverzug sind nicht dasselbe. Ein nachgewiesener Zeitverlust beweist noch nicht jeden geforderten Geldbetrag.
-
-### 3.4. Anzeige oder Antwort fertigstellen und fortsetzen
-
-Formuliere Ereignis, betroffenes Arbeitspaket, erkennbare Folgen, erforderliche Abhilfe und Stand der Bezifferung. Keine unbelegte Anerkennung fremder Verantwortlichkeit. Neue Freigabe oder Wiederaufnahme in dieselbe Ereigniskette eintragen und Endprognose aktualisieren. Unabhängige Dokumentation weiterführen; Versand und Kündigungs- oder Stilllegungserklärung nicht eigenmächtig auslösen.
-
-## 4. Quellenpflicht
-
-Verbindlich ist die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bauwirtschaft/references/zitierweise.md). [Fachquellen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bauwirtschaft/references/fachquellen.md): Paragraf 642 BGB, vertraglich einschlägige VOB/B insbesondere Paragraf 6 nur nach Einbeziehung. Schadensersatzgrundlagen und Rechtsprechung für den konkreten Anspruch zusätzlich verifizieren; keine erfundenen Leitentscheidungen oder pauschalen Vorhaltekostensätze. Verwende nur bereitgestellte oder verifizierte Normen und Entscheidungen; keine erfundenen Fundstellen, Randnummern oder technischen Regeltexte. Bezeichne Abruflücken präzise.
-
-## 5. Ausgabeformat
-
-Liefere das vollständige Schreiben sowie, soweit benötigt, die ausgefüllte Ereignis- und Bauzeitdarstellung mit Belegen. Ein Tabellenstatus „Anspruch offen“ darf den geforderten Anzeigetext nicht ersetzen.
-
-Ausformulierungspflicht: Operative Textteile werden in vollständigen, ausformulierten Sätzen geliefert; Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Tabellen dürfen fachübliche Datenfelder enthalten, ersetzen aber keinen bestellten Text. Formatierte Dokumente verwenden soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen nach Überschriften. Bei Markdown den Exporthinweis getrennt geben. Deutsch mit echten Umlauten und ß; Paragraf ausschreiben. Keine nicht erzeugte Datei oder externe Handlung behaupten.
-
-## 6. Beispiele
-
-Eine fehlende Planfreigabe blockiert nur den nördlichen Abschnitt; im südlichen Abschnitt wurde weitergearbeitet. Dokumentiere die betroffene Kolonne und tatsächliche Unterbrechung. Nicht sämtliche Baustellenkosten oder die gesamte Bauzeit automatisch zurechnen.
-
----
-
-## Skill: `baubudget-und-kostenprognose-fortschreiben`
-
-_Erstellt und aktualisiert Baubudget, Vergabestand und Kostenprognose mit Aufträgen, Nachträgen, Restleistungen und gesonderten Risiken. Bereinigt Doppelzählungen und Bezugsgrößen; kein Zahlungsplan und keine Buchung._
-
-# 1. Baubudget und erwartete Gesamtkosten fortschreiben
-
-## 1. Zweck und Anwendungsfall
-
-Berechne die erwarteten Projektgesamtkosten und den Abstand zur freigegebenen Budgetbasis. Unterscheide Budget, Verpflichtung, Prognose und bereits erfolgte Zahlung.
-
-## 2. Eingaben
-
-Ohne Unterlagen frage nach Kostenumfang, Stichtag, freigegebenem Budget und Netto- oder Bruttobasis. Bei Ordner ohne Auftrag gleiche Budget, Auftragsliste und Nachträge intern ab und biete Kostenprognose oder Budgetentscheidung an. Bei klarem Auftrag rechne in der bestehenden Tabelle weiter. Benötigt werden Preisstand, Mengen, erfasste Gewerke, beauftragte Nachträge und offene Restvergaben.
-
-## 3. Ablauf / Checkliste
-
-### 3.1. Vergleichsbasis bereinigen
-
-Prüfe enthaltene Grundstücks-, Bau-, Planungs-, Finanzierungs- und Nebenkosten sowie Steuern. Ein Nettobudget wird nicht gegen eine Bruttosumme geprüft. Übernimm Kostengliederung aus dem Projekt; DIN-Nummern oder Normkonformität nur bei bereitgestellter beziehungsweise verifizierter Ausgabe zusagen.
-
-### 3.2. Prognose ohne Doppelzählung rechnen
-
-Baue die Prognose aus vertraglich gebundenem Umfang, erwarteten Mehr- oder Minderkosten und noch nicht beauftragten Restleistungen. Bereits bezahlte Abschläge sind Bestandteil des Auftragswerts, keine zusätzlichen Projektkosten. Bestätigte Nachträge dürfen nicht zugleich im Vertragswert und in einer Risikoreserve stecken. Trenne einzelne bekannte Risiken von allgemeiner Reserve.
-
-### 3.3. Unsicherheit sichtbar quantifizieren
-
-Führe offene Nachträge nach beantragt, sachlich geprüft, vereinbart und verworfen. Zeige einen nachvollziehbaren Basiswert und gegebenenfalls eine begründete Bandbreite; keine frei erfundenen Eintrittswahrscheinlichkeiten. Fehlende Mengen als konkrete Rechenlücke markieren und einen belastbaren Teilstand liefern.
-
-### 3.4. Budgetentscheidung vorbereiten
-
-Errechne Abweichung in EUR und, bei positiver Bezugsbasis, Prozent. Schreibe einen konkreten Beschlussentwurf zu Nachfinanzierung, Leistungsänderung oder weiterer Klärung mit Auswirkungen. Neue Preisbestätigung ersetzt denselben Ansatz und löst die zugehörige Reserve nachvollziehbar auf. Liquiditätswirkung an den Zahlungsplan übergeben, nicht mit Kostenersparnis verwechseln.
-
-## 4. Quellenpflicht
-
-Verbindlich ist die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bauwirtschaft/references/zitierweise.md). Die [Fachquellen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bauwirtschaft/references/fachquellen.md) belegen die Kostenbezüge in HOAI Anlage 10; diese ersetzen keine konkrete Beauftragung und keine lizenzierte DIN-Ausgabe. Für Nachtragsansprüche Vertrag und verifizierte Normen gesondert prüfen, nicht aus einer Prognose eine Zahlungsverpflichtung ableiten. Verwende nur bereitgestellte oder verifizierte Normen und Entscheidungen; keine erfundenen Fundstellen, Randnummern oder technischen Regeltexte. Bezeichne Abruflücken präzise.
-
-## 5. Ausgabeformat
-
-Liefere die durchgerechnete Kostentabelle mit Budgetvergleich und ausformulierter Entscheidungsempfehlung. Rechenannahmen und offene Werte sind getrennt von bestätigten Vertragsbeträgen auszuweisen.
-
-Ausformulierungspflicht: Operative Textteile werden in vollständigen, ausformulierten Sätzen geliefert; Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Tabellen dürfen fachübliche Datenfelder enthalten, ersetzen aber keinen bestellten Text. Formatierte Dokumente verwenden soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen nach Überschriften. Bei Markdown den Exporthinweis getrennt geben. Deutsch mit echten Umlauten und ß; Paragraf ausschreiben. Keine nicht erzeugte Datei oder externe Handlung behaupten.
-
-## 6. Beispiele
-
-Bei 1000000 EUR Grundaufträgen, 50000 EUR bestätigten Nachträgen, 120000 EUR Restvergaben und 30000 EUR gesondertem Risiko beträgt die Prognose 1200000 EUR. Bereits gezahlte 400000 EUR kommen nicht nochmals hinzu.
 
 ---
 

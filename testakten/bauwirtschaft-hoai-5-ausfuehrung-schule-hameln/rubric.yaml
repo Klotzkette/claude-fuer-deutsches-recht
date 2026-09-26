@@ -1,0 +1,30 @@
+name: bauwirtschaft-hoai-5-ausfuehrung-schule-hameln
+plugin: bauwirtschaft
+author: Klotzkette
+description: Gebäude-Leistungsphase 5 im eigenständigen Projekt Schule Brückenanger.
+checks:
+  - id: vertrag
+    check_type: file_exists
+    path: 01_Planungsauftrag.pdf
+    description: Begrenzter Planungsabruf und getrennte Fachverantwortung.
+  - id: bildplan
+    check_type: file_exists
+    path: 05_Koordinationsschnitt_K07.png
+    description: Kanalhülle und Unterzug räumlich sichtbar.
+  - id: berechnung
+    check_type: file_exists
+    path: 08_Hoehenketten.xlsx
+    description: Nachvollziehbare Höhenkette statt behaupteter Ausführungsreife.
+  - id: montage
+    check_type: file_exists
+    path: 11_Montageplan_M17.pdf
+    description: Eigenständiger Unternehmerplan mit älterem Bezugsstand.
+  - id: belegbezogenes-endprodukt
+    check_type: human_review
+    description: Beauftragtes Dokument vollständig ausformulieren und Aussagen konkreten Planständen und Absendern zuordnen.
+  - id: fortsetzung-und-befugnis
+    check_type: human_review
+    description: Folgeantworten im selben Stand einarbeiten, Fachfreigaben und Außenhandlungen nicht erfinden.
+  - id: norm-und-vertrag
+    check_type: human_review
+    description: Auftrag, Grundleistung und Besondere Leistung trennen und tragende Normen zeitbezogen verifizieren.

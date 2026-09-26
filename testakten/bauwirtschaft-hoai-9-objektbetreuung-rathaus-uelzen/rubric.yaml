@@ -1,0 +1,96 @@
+name: bauwirtschaft-hoai-9-objektbetreuung-rathaus-uelzen
+plugin: bauwirtschaft
+description: 'Rathaussanierung mit Dach- und Metallbauabnahmen aus 2021, späteren
+  Feuchtebefunden, Wartungsnachweisen, fremdem Eingriff und fehlendem Dachzugang.
+  Präzises Übungsgebiet: fachliche Bewertung späterer Mängel, Begehung vor gewerkeweiser
+  Anspruchsfrist, Sicherungseinbehalte und Abgrenzung einer zusätzlichen Beseitigungsüberwachung.'
+checks:
+- id: fristen
+  check_type: human_review
+  description: Dachabnahme 15.10.2021 und Metallbauabnahme 12.11.2021 unterscheiden.
+    Betriebsübergabe 10.01.2022 nicht als gemeinsamer Beginn. Vorgesehener 18.10.2026
+    liegt nach vorläufigem Dachfristende.
+- id: ursache
+  check_type: human_review
+  description: U-11/U-12 nicht allein Dachunternehmer zuweisen; Wartung, L2-Arbeiten
+    und unzugänglicher Bereich bleiben relevante Tatsachen. Gerätewerte 78/32 sind
+    keine Masseprozente.
+- id: leistung
+  check_type: human_review
+  description: Alten Abnahmemangel M-04 und späteren Feuchtebefund getrennt bearbeiten.
+    Überwachung späterer Beseitigung ist nicht automatisch vom Grundauftrag umfasst;
+    Angebot vom 25.09. noch nicht angenommen.
+- id: sicherung
+  check_type: human_review
+  description: 4641 EUR Dach und 2844.10 EUR Metallbaueinbehalt vertragsbezogen beurteilen.
+    Keine pauschale Sperre aller Sicherheiten und keine automatische Freigabe wegen
+    Zeitablaufs.
+- id: hemmung
+  check_type: human_review
+  description: Prüfangebot ohne Anerkennung ist weder automatisch Hemmung noch Neubeginn;
+    tatsächliches Verhalten und Vertragslage prüfen. HOAI-Fünfjahresgrenze nicht als
+    allgemeine Verjährungsregel nutzen.
+- id: original-01
+  check_type: file_exists
+  path: 01_Planervertrag.docx
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-02
+  check_type: file_exists
+  path: 02_Dachvertrag.pdf
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-03
+  check_type: file_exists
+  path: 03_Abnahme_Dach.pdf
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-04
+  check_type: file_exists
+  path: 04_Abnahme_Metallbau.pdf
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-05
+  check_type: file_exists
+  path: 05_Betriebsuebergabe.docx
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-06
+  check_type: file_exists
+  path: 06_Dachplan_Befundorte.png
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-07
+  check_type: file_exists
+  path: 07_Wartung_2025.pdf
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-08
+  check_type: file_exists
+  path: 08_Maengelmeldung.eml
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-09
+  check_type: file_exists
+  path: 09_Befundblatt_Hausverwaltung.pdf
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-10
+  check_type: file_exists
+  path: 10_Unternehmerantwort.eml
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-11
+  check_type: file_exists
+  path: 11_Begehung_September.pdf
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-12
+  check_type: file_exists
+  path: 12_Sicherungen.xlsx
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-13
+  check_type: file_exists
+  path: 13_Sicherungskonto.csv
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-14
+  check_type: file_exists
+  path: 14_Terminabstimmung.eml
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-15
+  check_type: file_exists
+  path: 15_Telefonnotiz.txt
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-16
+  check_type: file_exists
+  path: 16_Angebot_Zusatzbetreuung.docx
+  description: Eigenständige Originalunterlage vorhanden.
