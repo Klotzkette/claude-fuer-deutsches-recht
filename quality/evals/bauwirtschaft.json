@@ -2,8 +2,23 @@
   "schema_version": 1,
   "plugin": "bauwirtschaft",
   "author": "Klotzkette",
-  "reviewed_on": "2026-09-25",
+  "reviewed_on": "2026-09-26",
   "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/rdg/__3.html",
+      "supports": "Amtlichen Einzeltext gelesen: selbstständige außergerichtliche Rechtsdienstleistungen benötigen eine gesetzliche Erlaubnis. Planerauftrag und Vollmacht ersetzen sie nicht.",
+      "checked_on": "2026-09-26"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/rdg/__5.html",
+      "supports": "Amtlichen Einzeltext gelesen: Nebenleistung nach Inhalt, Umfang, Sachzusammenhang und erforderlichen Rechtskenntnissen prüfen. Kein pauschales Verbot aller baubegleitenden Rechtsfragen.",
+      "checked_on": "2026-09-26"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2022/VII_ZR_190-22.pdf?__blob=publicationFile&v=1",
+      "supports": "BGH, Urteil vom 09.11.2023, VII ZR 190/22: amtliches PDF direkt abgerufen; Rubrum, Leitsatz und Randnummern 25 bis 40 gelesen. Interessengerecht entworfene Skontoklausel des Architekten keine erlaubte Nebenleistung. HOAI begründet keine Erlaubnis; ein Anwalt als Erfüllungsgehilfe heilt die unerlaubte Verpflichtung nicht. Technische Vertragszusammenstellung und befugte rechtliche Individualgestaltung getrennt, keine pauschale Untersagung jeder Vergabemitwirkung.",
+      "checked_on": "2026-09-26"
+    },
     {
       "url": "https://www.gesetze-im-internet.de/hoai_2013/anlage_10.html",
       "supports": "Nummer 10.1 mit neun Phasen im amtlich bereitgestellten Text gelesen. HOAI Anlage 10 Nummer 10.1 gezielt nachgelesen: Übergabe, Fristenliste und Überwachung bei Abnahme festgestellter Mängel in Phase 8; spätere fachliche Bewertung und Vorfristbegehung in Phase 9. Deren Buchstabe a enthält eine eigene Fünfjahresgrenze, keine pauschale Anspruchsverjährung. Vertragliche Beauftragung und Besondere Leistungen bleiben gesondert. Zahlungsplan in Phase 8 als Besondere Leistung; betriebliche Buchhaltung nicht mit deren Rechnungsprüfung oder Kostenkontrolle gleichgesetzt.",
@@ -136,59 +151,62 @@
     }
   ],
   "source_access_limits": [
-    "Quellenbezogener Redaktionsstand 25.09.2026; Abrufdatum, Fassungsstand und zeitliche Anwendbarkeit im einzelnen Projekt sind nicht identisch.",
-    "Keine Volltextprüfung der beiden BGH-Entscheidungen: nur amtlich indexierte Leitsätze; keine verifizierten Randnummern oder übernommenen Parallelfundstellen.",
+    "Quellenbezogener Redaktionsstand 25.09.2026 mit gezielter RDG-Ergänzung am 26.09.2026; Abrufdatum, Fassungsstand und zeitliche Anwendbarkeit im einzelnen Projekt sind nicht identisch.",
+    "Keine Volltextprüfung der älteren Anker VII ZR 42/22 und VII ZR 34/18: nur amtlich indexierte Leitsätze. Bei VII ZR 190/22 wurden Rubrum, Leitsatz und Randnummern 25 bis 40 im amtlichen PDF gelesen.",
     "EUR-Lex-Verordnung 2025/2152 nicht im Volltext lesbar; Schwellenwertabgleich anhand datierten Bundeserlasses.",
     "VOB/A-Änderungstext 2026, gesamtes Landesbau- und Landesvergaberecht, kommunale Satzungen, Förderbedingungen und technische DIN-/ATV-Volltexte nicht vollständig geprüft.",
     "Keine vollständige Prüfung historischer Honorarregime, steuerlicher Übergangsregeln oder sämtlicher Rechtsprechung bis zum Stichtag.",
     "Keine Ausführung der Ergebnisfälle, keine Live-Modelltests, keine beobachtete Skill-Auswahl und keine bestandene Bearbeitung der dreizehn Testakten behauptet."
   ],
   "mini_review": {
-    "reviewed_on": "2026-09-25",
+    "reviewed_on": "2026-09-26",
     "method": "desk_review",
     "verdict": "revised",
-    "reason": "Eigenständigen Bauplan mit drei Einstiegen, zwanzig konkreten Arbeitsstationen, Fortsetzung und Arbeitsprodukt erneut redaktionell gelesen. Die HOAI-Kurzabgrenzung präzisiert; die vorhandenen übrigen Quellenlimits erhalten. UTF-8-Byte- und Zeichenobergrenze lokal geprüft; kein Live-Modelltest.",
+    "reason": "Eigenständigen Bauplan mit drei Einstiegen, zwanzig konkreten Arbeitsstationen, Fortsetzung und Arbeitsprodukt erneut redaktionell gelesen. Die HOAI-Kurzabgrenzung präzisiert; die vorhandenen übrigen Quellenlimits erhalten. UTF-8-Byte- und Zeichenobergrenze lokal geprüft; kein Live-Modelltest. Die ergänzte Rollenprüfung nach Paragrafen 3 und 5 RDG und der gezielt geprüfte Skontoklausel-Anker wurden am 26.09.2026 redaktionell abgeglichen; keine Modellausführung.",
     "changes": [
       "Paragrafen 650b, 650c und 650g BGB mit konkreten Anwendungsgrenzen ergänzt.",
       "BGH VII ZR 42/22 nur als amtlich indexierten Leitsatz ohne Volltextprüfung aufgenommen.",
       "Kosten, Liquidität, Rechnungsprüfung und Buchung als unterschiedliche Ergebnisse erhalten.",
-      "Übergabe, Fristenliste und Abnahmemängel der Phase 8 zugeordnet; Phase 9 und eigener Buchhaltungsauftrag in der Kurzfassung abgegrenzt."
+      "Übergabe, Fristenliste und Abnahmemängel der Phase 8 zugeordnet; Phase 9 und eigener Buchhaltungsauftrag in der Kurzfassung abgegrenzt.",
+      "Vertragsstation um die eigenständige RDG-Befugnisprüfung bei Individualklauseln für fremde Bauherren ergänzt; 7500-Byte-Grenze weiterhin eingehalten."
     ],
-    "sha256": "45fbbde258f28599a97fe6a75df389a4f60d4e7955b1e8748c9619e845d999ed"
+    "sha256": "47bd6e9a4e0f209dbad65dba371e23dbc7cf3179206f3bf632a7da2374622bc1"
   },
   "workshop_review": {
-    "reviewed_on": "2026-09-25",
+    "reviewed_on": "2026-09-26",
     "method": "desk_review",
     "verdict": "revised",
-    "reason": "Zwanzig eigenständige Praxisrouten auf konkrete Rechnungen, Dokumente, Entscheidungsschritte und Fortschreibung erneut redaktionell gelesen. Gezielte Nachbesserung bei LPH 8/9 und betrieblichen offenen Posten; keine Ausführung der Arbeitsabläufe durch ein Modell.",
+    "reason": "Zwanzig eigenständige Praxisrouten auf konkrete Rechnungen, Dokumente, Entscheidungsschritte und Fortschreibung erneut redaktionell gelesen. Gezielte Nachbesserung bei LPH 8/9 und betrieblichen offenen Posten; keine Ausführung der Arbeitsabläufe durch ein Modell. Die ergänzte Rollenprüfung nach Paragrafen 3 und 5 RDG und der gezielt geprüfte Skontoklausel-Anker wurden am 26.09.2026 redaktionell abgeglichen; keine Modellausführung.",
     "changes": [
       "Hierarchie auf einen H1, dezimale Hauptabschnitte und explizite zwanzig Praxisrouten vereinheitlicht.",
       "HOAI-Phasen 8 und 9, zeitbezogene Vergabe und bedingte technische Entscheidungen konkret abgegrenzt.",
       "Beide BGH-Anker auf tatsächlich verifizierte Leitsatzreichweite begrenzt; keine Pflichtzitate in jedem Arbeitsprodukt.",
       "Übergabe und Fristenliste der Phase 8 zugeordnet; Abnahmemängel und später festgestellte Mängel nach Aufgabe und Vertrag getrennt. Die Fünfjahresgrenze aus Phase 9 Buchstabe a von der Anspruchsverjährung unterschieden.",
-      "Buchhaltung um eine OP-Summenbrücke und Rückführung jeder Zahlungsaufteilung auf die Bankbewegung ergänzt; bloßer Einbehalt wird nicht zur Ausbuchung."
+      "Buchhaltung um eine OP-Summenbrücke und Rückführung jeder Zahlungsaufteilung auf die Bankbewegung ergänzt; bloßer Einbehalt wird nicht zur Ausbuchung.",
+      "Rollenprüfung und begrenzten Skontoklausel-Anker VII ZR 190/22 ergänzt. Fehlende Befugnis führt zur konkreten Anfrage an die unmittelbare Rechtsberatung des Bauherrn; unabhängige technische Bearbeitung läuft weiter."
     ],
-    "sha256": "8b3d576b832932dd0bbbdb688893b87efaf2e9c73ab90bbeb24506c86727b60c"
+    "sha256": "fbe1b213f54554990b0d78ebdc041790bef881bb6b46c17f08fc41d709bb1569"
   },
   "focus_review": {
-    "reviewed_on": "2026-09-25",
+    "reviewed_on": "2026-09-26",
     "method": "desk_review",
     "verdict": "revised",
-    "reason": "Projektstartprompt am Hauptskill redaktionell gespiegelt: konkretes Produkt, drei Einstiege, belegte Fortschreibung und Entscheidung bleiben erhalten. Der Hauptskill übergibt vollständige Phasenaufträge gezielt an einen der neun neuen Phasenskills, ohne dessen große Werkstatt vorauszusetzen. Der eigenständige Schwerpunkt-Prompt bleibt unabhängig nutzbar; keine Modellausführung.",
+    "reason": "Projektstartprompt am Hauptskill redaktionell gespiegelt: konkretes Produkt, drei Einstiege, belegte Fortschreibung und Entscheidung bleiben erhalten. Der Hauptskill übergibt vollständige Phasenaufträge gezielt an einen der neun neuen Phasenskills, ohne dessen große Werkstatt vorauszusetzen. Der eigenständige Schwerpunkt-Prompt bleibt unabhängig nutzbar; keine Modellausführung. Die ergänzte Rollenprüfung nach Paragrafen 3 und 5 RDG und der gezielt geprüfte Skontoklausel-Anker wurden am 26.09.2026 redaktionell abgeglichen; keine Modellausführung.",
     "changes": [
       "Drei Startlagen ohne vorgeschaltete Komplettinventur.",
       "920000 EUR plus bestätigte 18000 EUR Änderung als 938000 EUR Variante, ohne Beauftragung zu erfinden.",
       "Technische Freigabe, Planrevision und rechtsgeschäftliche Beauftragung getrennt.",
       "Vertragsstrafenanker nicht als Verbot aller Klauseln oder Freigabe einer anderen Bezugsgröße.",
-      "Phase 8 und 9 anhand der tatsächlich gelesenen Anlage 10 in der Kurzfassung konkretisiert; fachlich eigenständige Aufgaben nicht aus einem Phasenetikett abgeleitet."
+      "Phase 8 und 9 anhand der tatsächlich gelesenen Anlage 10 in der Kurzfassung konkretisiert; fachlich eigenständige Aufgaben nicht aus einem Phasenetikett abgeleitet.",
+      "Hauptprompt und Hauptskill prüfen bei fremden Rechtsangelegenheiten die Beratungsbefugnis, getrennt von Planervertrag und Vollmacht."
     ],
     "prompt_path": "bauwirtschaft/bauwirtschaft-hauptproblem.md",
-    "prompt_sha256": "9561f1f576fde268130f8bc4f198c330b72ccb82abe5d7f12a179e84243b879c",
+    "prompt_sha256": "acb0c01e883219e3a0a228bae0a0b6b37d6f804a6b2b761142cb9396d703be1c",
     "skill_path": "bauwirtschaft/skills/bauprojekt-starten-und-arbeitsstand-fortfuehren/SKILL.md",
-    "skill_sha256": "1d85a95104d223c9e2c94c820d472598a0af2167ff807778f5344a9c679307bf"
+    "skill_sha256": "efb053c79ae4b955450d2c9234cd7b22a9e5af0fb93d14a20604133ae551e09b"
   },
   "prompt_editorial_review": {
-    "date": "2026-09-25",
+    "date": "2026-09-26",
     "files": [
       "bauwirtschaft/bauwirtschaft-schnellstart.md",
       "bauwirtschaft/bauwirtschaft-werkstatt.md",
@@ -205,6 +223,12 @@
     ],
     "decisions": [
       {
+        "citation": "BGH, Urteil vom 09.11.2023, Az. VII ZR 190/22",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2022/VII_ZR_190-22.pdf?__blob=publicationFile&v=1",
+        "application": "Individuelle Skontoklausel des Architekten für den Bauherrn: keine erlaubte Nebenleistung nach Paragraf 5 RDG. HOAI und Planervollmacht ersetzen keine Befugnis; Randnummern 28 bis 38.",
+        "limit": "Rubrum, Leitsatz und Randnummern 25 bis 40 am 26.09.2026 im amtlichen PDF gelesen. Kein Verbot sämtlicher Vergabemitwirkung. Eigene Angelegenheit, anwaltliches Mandat und technische Zusammenstellung getrennt; Erfüllungsgehilfe heilt unbefugte Verpflichtung nicht."
+      },
+      {
         "citation": "BGH, Urteil vom 15.02.2024, Az. VII ZR 42/22",
         "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2024&Gericht=bgh&Seite=17&Sort=1&anz=3393&nr=136872&pos=520",
         "application": "Enger Leitsatzanker: Unwirksamkeit der konkret verwendeten Vertragsstrafenklausel im Einheitspreisvertrag nach Paragraf 307 BGB; Klauselwortlaut und Bezugsgröße prüfen.",
@@ -218,8 +242,8 @@
       }
     ],
     "remaining_limits": [
-      "Quellenbezogener Redaktionsstand 25.09.2026; Abrufdatum, Fassungsstand und zeitliche Anwendbarkeit im einzelnen Projekt sind nicht identisch.",
-      "Keine Volltextprüfung der beiden BGH-Entscheidungen: nur amtlich indexierte Leitsätze; keine verifizierten Randnummern oder übernommenen Parallelfundstellen.",
+      "Quellenbezogener Redaktionsstand 25.09.2026 mit gezielter RDG-Ergänzung am 26.09.2026; Abrufdatum, Fassungsstand und zeitliche Anwendbarkeit im einzelnen Projekt sind nicht identisch.",
+      "Keine Volltextprüfung der älteren Anker VII ZR 42/22 und VII ZR 34/18: nur amtlich indexierte Leitsätze. Bei VII ZR 190/22 wurden Rubrum, Leitsatz und Randnummern 25 bis 40 im amtlichen PDF gelesen.",
       "EUR-Lex-Verordnung 2025/2152 nicht im Volltext lesbar; Schwellenwertabgleich anhand datierten Bundeserlasses.",
       "VOB/A-Änderungstext 2026, gesamtes Landesbau- und Landesvergaberecht, kommunale Satzungen, Förderbedingungen und technische DIN-/ATV-Volltexte nicht vollständig geprüft.",
       "Keine vollständige Prüfung historischer Honorarregime, steuerlicher Übergangsregeln oder sämtlicher Rechtsprechung bis zum Stichtag.",
@@ -227,7 +251,7 @@
     ]
   },
   "prompt_workflow_review": {
-    "date": "2026-09-25",
+    "date": "2026-09-26",
     "method": "desk_review",
     "opening_modes": [
       "Leer: Projekt, Rolle, Ergebnis und nächste Entscheidung klären.",
@@ -1342,7 +1366,7 @@
     {
       "id": "hoai-7-preisspiegel-nicht-automatisch-zuschlag",
       "target_skill": "hoai-7-angebote-werten-und-vergabe-vorbereiten",
-      "request": "Erstellen Sie für ein Bibliothekslos einen Preisspiegel und Vergabevorschlag anhand der bekanntgemachten Kriterien. Angebot A nennt 125000 EUR netto. Angebot B nennt 121000 EUR netto, nimmt jedoch die im LV verlangte Wartung heraus. Angebot C nennt 127000 EUR netto. Alle Preise sind rechnerisch nachgeprüft; die ausgeschriebene Wartung ist nicht optional. Eine Nachforderung oder Verhandlung ist noch nicht rechtlich geprüft. Der Projektleiter möchte B allein wegen der niedrigsten Zahl empfehlen. Folgeantwort: B bestätigt schriftlich, dass die Wartung nicht enthalten ist; kein geändertes Angebot liegt vor. Arbeiten Sie die Antwort ein. Entwurf für die Vergabestelle, keine Zuschlagserklärung und kein automatischer Ausschluss ohne Verfahrensprüfung.",
+      "request": "Erstellen Sie für ein Bibliothekslos einen Preisspiegel und Vergabevorschlag anhand der bekanntgemachten Kriterien. Angebot A nennt 125000 EUR netto. Angebot B nennt 121000 EUR netto, nimmt jedoch die im LV verlangte Wartung heraus. Angebot C nennt 127000 EUR netto. Alle Preise sind rechnerisch nachgeprüft; die ausgeschriebene Wartung ist nicht optional. Eine Nachforderung oder Verhandlung ist noch nicht rechtlich geprüft. Der Projektleiter möchte B allein wegen der niedrigsten Zahl empfehlen. Folgeantwort: B bestätigt schriftlich, dass die Wartung nicht enthalten ist; kein geändertes Angebot liegt vor. Arbeiten Sie die Antwort ein. Entwurf für die Vergabestelle, keine Zuschlagserklärung und kein automatischer Ausschluss ohne Verfahrensprüfung. Zusatzauftrag an das Planungsbüro für einen fremden Bauherrn: Entwerfen Sie eine neue, möglichst bauherrengünstige Skontoklausel. Eine Rechtsdienstleistungsbefugnis ist nicht belegt; der Projektleiter hält den Planervertrag für ausreichend und will allenfalls einen Anwalt als Erfüllungsgehilfen des Büros einschalten. Halten Sie die nötige Abgrenzung im Vergabevermerk fest und führen Sie die unabhängige technische und wirtschaftliche Bearbeitung fort.",
       "input_files": [],
       "deliverables": [
         "preisspiegel.csv",
@@ -1378,6 +1402,13 @@
           "text": "Die Folgeantwort bleibt demselben Angebot zugeordnet; keine neue Ausschreibung, keine geänderte Wertungsmatrix, keine behauptete Bindung durch einen schon erteilten Zuschlag.",
           "deliverables": [
             "preisspiegel.csv",
+            "vergabevermerk.md"
+          ]
+        },
+        {
+          "id": "C05",
+          "text": "Planervertrag und Vollmacht ersetzen die Befugnis nach Paragrafen 3 und 5 RDG nicht. Keine freigabefertige Individualklausel ohne festgestellte Befugnis; Gestaltungsfrage für die unmittelbare Rechtsberatung des Bauherrn vorbereiten. Ein Anwalt als bloßer Erfüllungsgehilfe heilt den Verstoß nach BGH VII ZR 190/22 nicht. Technische und wirtschaftliche Vergabearbeit wird nicht pauschal abgebrochen.",
+          "deliverables": [
             "vergabevermerk.md"
           ]
         }
@@ -1475,12 +1506,12 @@
   "skill_reviews": [
     {
       "skill_path": "bauwirtschaft/skills/bauprojekt-starten-und-arbeitsstand-fortfuehren/SKILL.md",
-      "sha256": "1d85a95104d223c9e2c94c820d472598a0af2167ff807778f5344a9c679307bf",
+      "sha256": "efb053c79ae4b955450d2c9234cd7b22a9e5af0fb93d14a20604133ae551e09b",
       "case_id": "projektstart-planrevision-fortsetzen",
-      "reviewed_on": "2026-09-25",
+      "reviewed_on": "2026-09-26",
       "method": "desk_review",
       "verdict": "revised",
-      "reason": "Am Hauptskill geprüft: Starttabelle, Engpassbearbeitung und verlangtes Dokument werden selbst erstellt. Bei vollständigem Phasenauftrag wird gezielt ein Phasenskill gewählt; Einzelaufträge bleiben kurz. Nur relevante Unterlagen werden übernommen, nicht alle neun großen Werkstätten geladen.",
+      "reason": "Am Hauptskill geprüft: Starttabelle, Engpassbearbeitung und verlangtes Dokument werden selbst erstellt. Bei vollständigem Phasenauftrag wird gezielt ein Phasenskill gewählt; Einzelaufträge bleiben kurz. Nur relevante Unterlagen werden übernommen, nicht alle neun großen Werkstätten geladen. Die ergänzte Rollenprüfung nach Paragrafen 3 und 5 RDG und der gezielt geprüfte Skontoklausel-Anker wurden am 26.09.2026 redaktionell abgeglichen; keine Modellausführung.",
       "checked_points": [
         "Eigenständiges Arbeitsprodukt: Liefere einen nutzbaren Projektarbeitsstand mit den bereits ausgeführten Berechnungen und dem konkret bestellten Dokument. Kein verpflichtendes Gesamtpaket bei einem engen Auftrag. Projektberichte dürfen den angeforderten Vertrags- oder Tabellentext nicht ersetzen.",
         "Individueller Sachverhalt und beobachtbare Sollkriterien für projektstart-planrevision-fortsetzen angelegt; nicht ausgeführt.",
@@ -1628,12 +1659,12 @@
     },
     {
       "skill_path": "bauwirtschaft/skills/bauvertrag-und-schnittstellen-ausformulieren/SKILL.md",
-      "sha256": "60ed13838df8c2ea32bbf06d4079f74f29975dfb8dba4274eced9280be4d082f",
+      "sha256": "ac3552543a0807beda2fda91705340f2d9a6e456d4308176e3a74273c99313cd",
       "case_id": "vertrag-schnittstelle-vertragsstrafenklausel",
-      "reviewed_on": "2026-09-25",
+      "reviewed_on": "2026-09-26",
       "method": "desk_review",
-      "verdict": "retained",
-      "reason": "Schnittstellen werden als vollständige Regelung geschrieben. Technische Koordination, Preisvollmacht, VOB/B-Einbeziehung und AGB-Kontrolle bleiben getrennt; ein Vertragsstrafenprozentsatz ist kein Freigabekriterium.",
+      "verdict": "revised",
+      "reason": "Schnittstellen werden als vollständige Regelung geschrieben. Technische Koordination, Preisvollmacht, VOB/B-Einbeziehung und AGB-Kontrolle bleiben getrennt; ein Vertragsstrafenprozentsatz ist kein Freigabekriterium. Die ergänzte Rollenprüfung nach Paragrafen 3 und 5 RDG und der gezielt geprüfte Skontoklausel-Anker wurden am 26.09.2026 redaktionell abgeglichen; keine Modellausführung.",
       "checked_points": [
         "Eigenständiges Arbeitsprodukt: Liefere den vollständigen beauftragten Vertrag oder die vollständig formulierte Schnittstellenvereinbarung. Anlagen eindeutig mit Stand bezeichnen. Interne offene Punkte und Quellenprotokoll getrennt halten.",
         "Individueller Sachverhalt und beobachtbare Sollkriterien für vertrag-schnittstelle-vertragsstrafenklausel angelegt; nicht ausgeführt.",
@@ -1864,12 +1895,12 @@
     },
     {
       "skill_path": "bauwirtschaft/skills/hoai-6-leistungsverzeichnis-und-vergabeunterlagen-erstellen/SKILL.md",
-      "sha256": "5b8c7235e83c73fa9684c4bc3f60980a9fd8cdbffef0a8a38c7e2ed3f10ba3ba",
+      "sha256": "f296cf7b1be681846ff8b968ae0437883ed34a108d5138ebbb19d96cb685955e",
       "case_id": "hoai-6-lv-mengenbasis-und-kostengrenze",
-      "reviewed_on": "2026-09-25",
+      "reviewed_on": "2026-09-26",
       "method": "desk_review",
       "verdict": "revised",
-      "reason": "Ausführungsplanung, Menge, Langtext und Planerpreis sind als eigene Ausgangsdaten definiert. Leistungsgrenzen und besondere Verfahrensfragen bleiben sichtbar, während das LV konkret weiterbearbeitet wird.",
+      "reason": "Ausführungsplanung, Menge, Langtext und Planerpreis sind als eigene Ausgangsdaten definiert. Leistungsgrenzen und besondere Verfahrensfragen bleiben sichtbar, während das LV konkret weiterbearbeitet wird. Die ergänzte Rollenprüfung nach Paragrafen 3 und 5 RDG und der gezielt geprüfte Skontoklausel-Anker wurden am 26.09.2026 redaktionell abgeglichen; keine Modellausführung.",
       "checked_points": [
         "Das bestätigte Türpaket beträgt 38400 EUR netto. Die separat ausgewiesene Schließanlage ergibt zusammen 47900 EUR netto, ohne die beiden verworfenen Zusatztüren einzurechnen.",
         "Positionsbeschreibung, Menge, Einheit und technische offene Angaben sind nachvollziehbar. Fehlende Brandschutzvorgaben werden gezielt angefordert statt als beliebige Klassifikation ergänzt.",
@@ -1880,17 +1911,18 @@
     },
     {
       "skill_path": "bauwirtschaft/skills/hoai-7-angebote-werten-und-vergabe-vorbereiten/SKILL.md",
-      "sha256": "8c77d2c96f1afa46fd7c7f95d9d7ddc48a11ea2d14dbadaaa3c8c3e290b29033",
+      "sha256": "e7f098cf57794f815d53c51623f4e79332b96b973ee86e97049c760354f823d5",
       "case_id": "hoai-7-preisspiegel-nicht-automatisch-zuschlag",
-      "reviewed_on": "2026-09-25",
+      "reviewed_on": "2026-09-26",
       "method": "desk_review",
       "verdict": "revised",
-      "reason": "Preisspiegel, Wertbarkeit und Entscheidung werden getrennt; der Skill bearbeitet den Vergabevorschlag selbst. Angebotsergänzung wird nicht als allgemeines Reparaturrecht dargestellt.",
+      "reason": "Preisspiegel, Wertbarkeit und Entscheidung werden getrennt; der Skill bearbeitet den Vergabevorschlag selbst. Angebotsergänzung wird nicht als allgemeines Reparaturrecht dargestellt. Die ergänzte Rollenprüfung nach Paragrafen 3 und 5 RDG und der gezielt geprüfte Skontoklausel-Anker wurden am 26.09.2026 redaktionell abgeglichen; keine Modellausführung.",
       "checked_points": [
         "Die drei unveränderten Angebotssummen werden richtig verglichen; bei B wird die ausdrücklich fehlende Pflichtleistung ausgewiesen, ohne einen frei geschätzten Aufpreis als angebotenen Preis hinzuzufügen.",
         "Wertbarkeit, Aufklärung, Nachforderung und zulässige Verhandlung werden als unterschiedliche rechtliche Fragen behandelt; die niedrigste Zahl führt nicht automatisch zum Zuschlag.",
         "Der Vergabevermerk begründet einen bedingten weiteren Entscheidungsschritt anhand der vorgegebenen Kriterien und benennt die konkret nötige Verfahrensprüfung.",
-        "Die Folgeantwort bleibt demselben Angebot zugeordnet; keine neue Ausschreibung, keine geänderte Wertungsmatrix, keine behauptete Bindung durch einen schon erteilten Zuschlag."
+        "Die Folgeantwort bleibt demselben Angebot zugeordnet; keine neue Ausschreibung, keine geänderte Wertungsmatrix, keine behauptete Bindung durch einen schon erteilten Zuschlag.",
+        "Planervertrag und Vollmacht ersetzen die Befugnis nach Paragrafen 3 und 5 RDG nicht. Keine freigabefertige Individualklausel ohne festgestellte Befugnis; Gestaltungsfrage für die unmittelbare Rechtsberatung des Bauherrn vorbereiten. Ein Anwalt als bloßer Erfüllungsgehilfe heilt den Verstoß nach BGH VII ZR 190/22 nicht. Technische und wirtschaftliche Vergabearbeit wird nicht pauschal abgebrochen."
       ],
       "runtime_status": "not_run"
     },
@@ -1976,19 +2008,19 @@
     {
       "phase": 6,
       "path": "bauwirtschaft/bauwirtschaft-hoai-6-werkstatt.md",
-      "sha256": "7721488a118d0a674ce89ffc52fe3652d8db4406fdbe7f61fc4733324754816b",
-      "reviewed_on": "2026-09-25",
+      "sha256": "8c43d5bec522fe85fd6276ab7a3150234d2db8bd0c287e7570f7ed88f9cabef7",
+      "reviewed_on": "2026-09-26",
       "method": "desk_review",
-      "reason": "Ausführungsplanung, Menge, Langtext und Planerpreis sind als eigene Ausgangsdaten definiert. Leistungsgrenzen und besondere Verfahrensfragen bleiben sichtbar, während das LV konkret weiterbearbeitet wird.",
+      "reason": "Ausführungsplanung, Menge, Langtext und Planerpreis sind als eigene Ausgangsdaten definiert. Leistungsgrenzen und besondere Verfahrensfragen bleiben sichtbar, während das LV konkret weiterbearbeitet wird. Die ergänzte Rollenprüfung nach Paragrafen 3 und 5 RDG und der gezielt geprüfte Skontoklausel-Anker wurden am 26.09.2026 redaktionell abgeglichen; keine Modellausführung.",
       "runtime_status": "not_run"
     },
     {
       "phase": 7,
       "path": "bauwirtschaft/bauwirtschaft-hoai-7-werkstatt.md",
-      "sha256": "e7d5a362c5bd67cadf5abb4d17b6ab8b371333da3671802ce67e9f59472041f1",
-      "reviewed_on": "2026-09-25",
+      "sha256": "ef29d629a180d8bfb2bf922322793696c4396c367c6257ed6f08084ee9c2b13f",
+      "reviewed_on": "2026-09-26",
       "method": "desk_review",
-      "reason": "Preisspiegel, Wertbarkeit und Entscheidung werden getrennt; der Skill bearbeitet den Vergabevorschlag selbst. Angebotsergänzung wird nicht als allgemeines Reparaturrecht dargestellt.",
+      "reason": "Preisspiegel, Wertbarkeit und Entscheidung werden getrennt; der Skill bearbeitet den Vergabevorschlag selbst. Angebotsergänzung wird nicht als allgemeines Reparaturrecht dargestellt. Die ergänzte Rollenprüfung nach Paragrafen 3 und 5 RDG und der gezielt geprüfte Skontoklausel-Anker wurden am 26.09.2026 redaktionell abgeglichen; keine Modellausführung.",
       "runtime_status": "not_run"
     },
     {

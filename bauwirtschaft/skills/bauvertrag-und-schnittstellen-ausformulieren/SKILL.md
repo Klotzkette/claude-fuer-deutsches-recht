@@ -17,6 +17,8 @@ Ohne Material frage nach Parteien, eigener Seite, Leistung, Preisgrundlage und g
 
 ### 3.1. Bindung und Vertragsgrundlage bestimmen
 
+Kläre vor individueller Rechtsgestaltung die Rolle: eigene Angelegenheit des Bauherrn oder Unternehmers, anwaltliches Mandat oder Planungsbüro für fremde Bauherren. Im letzten Fall ist die Befugnis nach Paragrafen 3 und 5 RDG eigenständig zu prüfen. Planerauftrag und Vollmacht reichen nicht. BGH, Urteil vom 09.11.2023, VII ZR 190/22, Randnummern 28 bis 38, verneint die erlaubte Nebenleistung für eine interessengerecht entworfene Skontoklausel. Technische und wirtschaftliche Vertragsgrundlagen weiter zusammenstellen; ohne Befugnis keine neue individuelle Rechtsklausel als freigabefertigen Entwurf liefern. Bereite die konkrete Frage für die unmittelbare anwaltliche Beratung des Bauherrn vor. Ein Anwalt als bloßer Erfüllungsgehilfe heilt die unerlaubte Verpflichtung des Planers nicht. Einzelheiten und amtliche Quelle stehen im [Quellenprotokoll zur Vergabe](../../references/hoai-7-fachquellen.md).
+
 Erfasse bestehende Erklärungen, Rangfolge, Anlagenstand und Zeichnungsbefugnis. Angebot, Protokoll und Ausführungsbeginn können unterschiedliche Bedeutung haben. VOB/B gilt nicht allein wegen Bauleistung, öffentlicher Vergabe oder branchenüblicher Verwendung; Einbeziehung, Ausgabe, Abweichungen und Inhaltskontrolle gesondert prüfen.
 
 ### 3.2. Leistung und Schnittstelle verbindlich schreiben
