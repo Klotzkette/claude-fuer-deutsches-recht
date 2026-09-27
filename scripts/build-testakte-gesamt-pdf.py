@@ -1058,6 +1058,21 @@ def append_pdf_bytes_with_separator(
 def build_gesamt_pdf(testakte_dir: Path) -> tuple[str, str]:
     """Gibt (status, info) zurueck. status in {ok, skip, error}."""
     name = testakte_dir.name
+    if name == "bauwirtschaft-neubau-achtfamilienhaus-hildesheim":
+        # Diese durchgehende Projektakte benötigt die Aktennummern-Reihenfolge
+        # und ein Lesezeichen je Original statt einer Gruppierung nach Dateityp.
+        import importlib.util
+        try:
+            builder_path = Path(__file__).with_name("build-bauwirtschaft-hildesheim-pakete.py")
+            spec = importlib.util.spec_from_file_location("hildesheim_release_pdf", builder_path)
+            builder = importlib.util.module_from_spec(spec)
+            spec.loader.exec_module(builder)
+            out_path = builder.build_release_pdf(testakte_dir)
+            count = len(builder.sources(testakte_dir))
+            size_kb = out_path.stat().st_size / 1024
+            return "ok", f"{out_path.relative_to(REPO_ROOT)} ({size_kb:.0f} KB, {count} Quelldateien mit Lesezeichen)"
+        except Exception as exc:
+            return "error", str(exc)
     out_dir = testakte_dir / "gesamt-pdf"
     out_dir.mkdir(exist_ok=True)
     out_path = out_dir / f"{name}_gesamt.pdf"

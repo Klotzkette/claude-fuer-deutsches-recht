@@ -121,3 +121,16 @@ Die acht Prüfgruppen der Hildesheim-Regression bestanden sowohl für die lokal 
 Drei absichtlich verfälschte Datenstände wurden erwartungsgemäß abgewiesen: eine um 1 EUR erhöhte Kostensumme, ein um 1 EUR veränderter Bankumsatz und eine E-Mail mit zwei Absenderadressen. Diese Prüfkopien wurden nicht in die Akte übernommen.
 
 Das sechsseitige Gesamtregister und die vierseitige Lesefassung des fallinternen Dokumentenregisters wurden vollständig visuell kontrolliert. Eine zuvor nahezu leere fünfte Registerseite wurde durch einen kürzeren Kopf vermieden. Nach der Änderung bestanden beide Archivprüfungen erneut mit acht von acht Prüfgruppen.
+
+## 1.9. Sichtprüfung der XML-PDF-Lesefassungen
+
+Alle 28 zusätzlich aus den strukturierten Rechnungen erzeugten PDF-Lesefassungen wurden vollständig als Rasteransichten geprüft: 57 Seiten der Belege 080–093 und 54 Seiten der Belege 094–106 sowie 119, insgesamt **111 Seiten**. Es wurden keine abgeschnittenen Tags, Überlagerungen oder Randüberschreitungen festgestellt. Überlange XML-Zeilen werden vollständig auf Folgezeilen fortgesetzt; auch kurze Schlussseiten enthalten die End-Tags. Diese Sichtprüfung erfolgte zusätzlich zur XML-Schemavalidierung, ohne Originale zu verändern.
+
+Ein vollständiger Textabgleich ergab für alle 28 PDF-Dateien eine exakte Übereinstimmung mit dem serialisierten Quell-XML, nachdem ausschließlich Seitenkopf, Seitenfuß und Layout-Leerzeichen entfernt wurden. Die Exportprüfung hat somit keinen verlorenen XML-Tag oder Rechnungswert gefunden. Raster, Seitenmanifeste und der Textabgleich liegen unter `/tmp/hildesheim/finanz/xml-pdf-qa`.
+
+
+## 1.10. Zentraler Release-Build der Gesamtakte
+
+Der allgemeine Gesamt-PDF-Builder ruft für diese Akte den geordneten Hildesheim-Builder auf. Der Release-Einstieg verwendet die bereits bereitgestellte native Office-Konvertierung und benötigt keinen gesonderten DOCX-Skill-Renderer. Er erzeugt atomar nur die Gesamtakte; die üblichen Release-Builder erstellen danach die beiden ZIPs.
+
+Der tatsächliche zentrale CLI-Aufruf ohne `DOCX_RENDERER` wurde ausgeführt. Ergebnis: 353 Seiten und ein Lesezeichen für jede der 198 Originaldateien. Gegenüber der zuvor vollständig geprüften Fassung waren auf allen 353 Seiten der extrahierte Text, die Seitengeometrie und die dekodierten PDF-Inhaltsstreams identisch. Die Originale blieben unverändert. Beide erneuerten Archive bestanden die acht Regressionen erneut; die allgemeine PDF-Builder-Regression bestand ebenfalls. Die erzeugten Textverzeichnisse wurden mit der Release-Generatorfolge neu aufgebaut und blieben unverändert.
