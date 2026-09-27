@@ -338,6 +338,11 @@
       "path": "testakten/bauwirtschaft-hoai-9-objektbetreuung-rathaus-uelzen",
       "status": "Eigenständige phasenbezogene Akte; Zuordnung und technische Prüfungen sind keine ausgeführte fachliche Modellbewertung.",
       "scope": "Leistungsphase 9: Spätere Mängel, Begehung vor Fristablauf und Sicherheiten am Rathaus."
+    },
+    {
+      "path": "testakten/bauwirtschaft-neubau-achtfamilienhaus-hildesheim",
+      "status": "Redaktionell und technisch geprüfte Originalakte; keine ausgeführte fachliche Modellbewertung.",
+      "scope": "Durchgehender Achtfamilienhaus-Neubau in Hildesheim, HOAI 1 bis 9, NBauO, Erwerb, sieben Bauverträge, E-Rechnungen, Zahlungen und acht Mietverhältnisse."
     }
   ],
   "cases": [

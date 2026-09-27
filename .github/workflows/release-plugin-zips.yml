@@ -101,6 +101,7 @@ jobs:
           python3 scripts/test-bauwirtschaft-hoai-1-3.py
           python3 scripts/test-bauwirtschaft-hoai-4-6.py
           python3 scripts/test-bauwirtschaft-hoai-7-9.py
+          python3 scripts/test-bauwirtschaft-hildesheim.py
 
       - name: Skill-Aktivierungssignale prüfen
         run: |
@@ -261,6 +262,7 @@ jobs:
           python3 scripts/test-bauwirtschaft-hoai-1-3.py --assets dist
           python3 scripts/test-bauwirtschaft-hoai-4-6.py --assets dist
           python3 scripts/test-bauwirtschaft-hoai-7-9.py --assets dist
+          python3 scripts/test-bauwirtschaft-hildesheim.py --assets dist
 
       - name: Skill-Markdown-Bundles bauen (echte Downloads pro Plugin)
         run: |

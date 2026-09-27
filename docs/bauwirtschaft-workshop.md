@@ -1,6 +1,6 @@
 # 1. KI-Workshop Bauwirtschaft
 
-Vier übergreifende Akten verbinden Planung, Bauausführung, Vergabe und kaufmännische Arbeit. Hinzu kommen [neun eigenständige Phasenakten](bauwirtschaft-hoai-phasen.md), jeweils mit einem HOAI-Phasenskill und einer eigenen großen Werkstatt. Das Plugin Bauwirtschaft enthält 29 ausführende Skills. Werkstatt, Schwerpunkt, Mini-/Schnellstart-Prompt und die neun Phasen-Werkstätten sind eigenständige Markdown-Dateien. Die Testakten werden separat bereitgestellt.
+Fünf übergreifende Akten verbinden Planung, Bauausführung, Vergabe und kaufmännische Arbeit. Hinzu kommen [neun eigenständige Phasenakten](bauwirtschaft-hoai-phasen.md), jeweils mit einem HOAI-Phasenskill und einer eigenen großen Werkstatt. Das Plugin Bauwirtschaft enthält 29 ausführende Skills. Werkstatt, Schwerpunkt, Mini-/Schnellstart-Prompt und die neun Phasen-Werkstätten sind eigenständige Markdown-Dateien. Die Testakten werden separat bereitgestellt.
 
 ## 1.1. Vorbereitung
 
@@ -14,6 +14,7 @@ Arbeite für jede Übung in einer Kopie des Aktenordners. Lade entweder den pass
 | Bauvergabe | Feuerwehrhaus Northeim | 45 Minuten | Angebotsvergleich, Vergabevermerk und begründeter nächster Verfahrensschritt. |
 | Baubuchhaltung | Bauunternehmen Bad Salzuflen | 60–90 Minuten | Belegregister, Buchungsvorschläge, OPOS-/Bankabgleich und Zahlungsvorschlag. |
 | Projektsteuerung | Werkhalle Warendorf | 30 Minuten | Kostenprognose, Zahlungsplanung und Entscheidungsvorlage. |
+| Neubau zur Vermietung | Achtfamilienhaus Hildesheim | 90–120 Minuten | Eine gewählte HOAI-Phase bearbeiten und ihre Planungs-, Vertrags- und Finanzbelege fortführen. |
 
 Die Übungen sind einzeln verwendbar. Für einen Workshop mit drei Stunden wähle HOAI, Vergabe und Buchhaltung und plane kurze gemeinsame Besprechungen ein.
 
@@ -25,6 +26,7 @@ This test case file was generated with AI and is an experiment. Use at your own 
 
 | Akte | Unterlagen und Downloads |
 | --- | --- |
+| Achtfamilienhaus Hildesheim | [Alle neun Phasen, Erwerb, Bau, Vermietung, Rechnungen und Excel-Arbeitsmappen](../testakten/bauwirtschaft-neubau-achtfamilienhaus-hildesheim/README.md). |
 | Bürgerhaus Leinewinkel in Einbeck | [44 Originalunterlagen, Gesamt-PDF und beide ZIP-Varianten](../testakten/bauwirtschaft-hoai-buergerhaus-einbeck/README.md). |
 | Lüftungslos Feuerwehrhaus Northeim | [32 Originalunterlagen, Gesamt-PDF und beide ZIP-Varianten](../testakten/bauwirtschaft-vergabeverfahren-feuerwehrhaus-northeim/README.md). |
 | Bauunternehmen Bad Salzuflen | [18 unterschiedliche Rechnungen, weitere Belege und Tabellen](../testakten/bauwirtschaft-buchhaltung-bauunternehmen-bad-salzuflen/README.md). |
@@ -95,3 +97,11 @@ Prüfe für jedes Ergebnis, ob die tragenden Aussagen auf konkreten Originalbele
 Bei der Buchhaltung müssen Anfangsbestand, Umsätze und Schlussbestand je Bankkonto aufgehen. Offene Posten müssen sich aus Rechnungen, Korrekturen, Zahlungen und berechtigten weiteren Abzügen erklären lassen. Bei der HOAI-Übung müssen alle neun Phasen nachvollziehbar zugeordnet sein, ohne fehlende Leistungen als erbracht auszugeben. Bei der Vergabe müssen Preise, Anforderungen und Kommunikationszeitpunkte aus dem Aktenstand stammen.
 
 Vergleiche einen ersten Modelllauf mit einer zweiten Runde, in der du nur einen konkreten neuen Beleg oder eine berechtigte Korrektur nachreichst. Das Ergebnis soll im bestehenden Arbeitsstand fortgeführt werden. Die Akten und vorbereiteten Prüffälle sind Übungsmaterial; automatisierte Datei- und Rechentests belegen keine allgemeine fachliche Fehlerfreiheit eines Modells.
+
+## 1.8. Achtfamilienhaus Hildesheim: ein Projekt von Anfang bis Ende
+
+Wähle auf der Aktenseite eine Leistungsphase anhand ihrer Unterlagenzuordnung. Der Fall bleibt über alle Phasen derselbe; frühere Vertrags- und Planstände liefern den Kontext. Grundstückserwerb, Vermietung und Buchhaltung ergänzen die Gebäudeplanung.
+
+> Bearbeite das Achtfamilienhaus in Hildesheim aus Sicht der Bauherrin. Beginne mit Leistungsphase [Nummer]. Ordne den maßgeblichen Planstand, Auftrag und Belegbestand zu. Erstelle das konkrete Phasenergebnis und führe die Kosten- und Terminübersicht fort. Zeige, welche Freigabe für den Übergang in die nächste Phase erforderlich ist.
+
+> Gleiche danach sämtliche Kostenbelege mit den Zahlungen ab. Behandle XML und PDF derselben Rechnung als einen Geschäftsvorfall. Verfolge Abschläge, Schlussrechnungen, Nachtrag, Doppelzahlung und Erstattungen bis zum Projektkonto. Trenne Investition, Mietbetrieb, Kautionen und Finanzierung. Prüfe die Rechenformeln anhand veränderter Eingaben in einer Arbeitskopie.

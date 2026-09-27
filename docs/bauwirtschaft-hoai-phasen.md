@@ -44,7 +44,7 @@ Jede Aktenseite bezeichnet die passende Leistungsphase und bietet Gesamt-PDF, fl
 | 8 | Kita in Verden | [Bauüberwachung und Abnahme](../testakten/bauwirtschaft-hoai-8-bauueberwachung-kita-verden/README.md) |
 | 9 | Rathaus in Uelzen | [Objektbetreuung und spätere Mängel](../testakten/bauwirtschaft-hoai-9-objektbetreuung-rathaus-uelzen/README.md) |
 
-Für einen durchgehenden Fall über sämtliche Phasen bleibt zusätzlich das [Bürgerhaus Einbeck](../testakten/bauwirtschaft-hoai-buergerhaus-einbeck/README.md) erhalten. Die neun Einzelakten sind voneinander unabhängige Projekte und dürfen nicht zu einer gemeinsamen Projektgeschichte vermischt werden.
+Für einen durchgehenden Fall über sämtliche Phasen bleibt zusätzlich das [Bürgerhaus Einbeck](../testakten/bauwirtschaft-hoai-buergerhaus-einbeck/README.md) erhalten. Der zusätzliche [Achtfamilienhaus-Neubau Hildesheim](../testakten/bauwirtschaft-neubau-achtfamilienhaus-hildesheim/README.md) verbindet ebenfalls alle neun Phasen und ergänzt Grundstückserwerb, acht Mietverhältnisse und durchgehende Finanzbelege. Die neun Einzelakten sind voneinander unabhängige Projekte und dürfen nicht zu einer gemeinsamen Projektgeschichte vermischt werden.
 
 ## 1.4. Fachliche Abgrenzung
 

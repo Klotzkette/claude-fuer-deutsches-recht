@@ -1,0 +1,46 @@
+name: bauwirtschaft-neubau-achtfamilienhaus-hildesheim
+plugin: bauwirtschaft
+description: Durchgehender Neubau eines Achtfamilienhauses in Hildesheim mit allen neun Gebäude-Leistungsphasen, Vermietung und kaufmännischem Abschluss.
+checks:
+  - id: phasenfolge
+    check_type: human_review
+    description: Auftrag, Variante, Entwurf, Genehmigung und Ausführungsstand datiert unterscheiden. Den gemeinsamen Projektstand fortführen.
+  - id: nbauo
+    check_type: human_review
+    description: Gebäudeklasse, Barrierefreiheit, R-Wohnung, freiwilliger Aufzug, Stellplätze, Spielbereich und genehmigten Prüfungsumfang abgrenzen.
+  - id: rechtsstaende
+    check_type: human_review
+    description: Den simulierten Projektzeitraum von Recherchezeitpunkt und bereits verkündeten späteren Rechtsänderungen unterscheiden.
+  - id: vergabe
+    check_type: human_review
+    description: Angebote und Leistungsumfang bis zur privaten Vergabeentscheidung verfolgen. Direktes Anwaltsmandat und technischen Architektenauftrag trennen.
+  - id: nachtrag
+    check_type: human_review
+    description: Bodenbefund, Behinderungsanzeige, Nachtragsangebot, Bauherrnauftrag, Aufmaß und Rechnung belegscharf abgleichen.
+  - id: steuer
+    check_type: human_review
+    description: Steuerfreie Wohnungsvermietung, Vorsteuer, PV-Nullsteuersatz, übrige Elektroarbeiten und Bauabzug getrennt prüfen.
+  - id: zahlungen
+    check_type: human_review
+    description: Schlussrechnung, Abschläge, Doppelzahlung und Erstattungen anhand der Belegnummern trennen. PDF und XML derselben Rechnung nicht doppelt buchen.
+  - id: abnahme
+    check_type: human_review
+    description: Bauabnahmen, Wohnungsübergaben und gesonderte Abnahme der Architektenleistungen unterscheiden.
+  - id: vermietung
+    check_type: human_review
+    description: Acht Wohnflächen, Mietverträge, vorvertragliche Informationen, Kautionen und Zählerstände zusammenführen.
+  - id: fristen
+    check_type: human_review
+    description: Ausgangsfristen und spätere Nachbesserung gesondert beurteilen. Keine automatische Hemmung aus einfacher E-Mail ableiten.
+  - id: kostenmappe
+    check_type: file_exists
+    path: 120_Kostenentwicklung.xlsx
+    description: Berechnende Kostenentwicklung vorhanden.
+  - id: zahlungsmappe
+    check_type: file_exists
+    path: 121_Rechnungen_und_Zahlungen.xlsx
+    description: Rechnungs- und Zahlungsabgleich mit Formeln vorhanden.
+  - id: vermietungsmappe
+    check_type: file_exists
+    path: 122_Finanzierung_und_Vermietung.xlsx
+    description: Finanzierungs- und Vermietungsannahmen sind bearbeitbar.

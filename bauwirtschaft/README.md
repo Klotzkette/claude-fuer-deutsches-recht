@@ -62,7 +62,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Kompakter Prompt (Schnellstart) | Markdown | [`bauwirtschaft-schnellstart.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauwirtschaft/bauwirtschaft-schnellstart.md) |
 | Großer Prompt (Werkstatt) | Markdown | [`bauwirtschaft-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauwirtschaft/bauwirtschaft-werkstatt.md) |
 | Schwerpunkt-Prompt (Hauptproblem) | Markdown | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauwirtschaft/bauwirtschaft-hauptproblem.md" download>bauwirtschaft-hauptproblem.md</a> |
-| Zugeordnete Testakten | PDF / ZIP | [13 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
+| Zugeordnete Testakten | PDF / ZIP | [14 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
 > Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 245 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
@@ -90,12 +90,13 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 | [Leistungsphase 8: Bauüberwachung, Aufmaß und Abnahmemängel der Kita Mühlenwiese in Verden](../testakten/bauwirtschaft-hoai-8-bauueberwachung-kita-verden/README.md) | [Gesamt-PDF](../testakten/bauwirtschaft-hoai-8-bauueberwachung-kita-verden/gesamt-pdf/bauwirtschaft-hoai-8-bauueberwachung-kita-verden_gesamt.pdf) | [`testakte-bauwirtschaft-hoai-8-bauueberwachung-kita-verden.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bauwirtschaft-hoai-8-bauueberwachung-kita-verden.zip) | [`testakte-bauwirtschaft-hoai-8-bauueberwachung-kita-verden-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bauwirtschaft-hoai-8-bauueberwachung-kita-verden-einzelpdfs.zip) |
 | [Leistungsphase 9: Spätere Mängel, Vorfristbegehung und Sicherheiten am Rathaus Uelzen](../testakten/bauwirtschaft-hoai-9-objektbetreuung-rathaus-uelzen/README.md) | [Gesamt-PDF](../testakten/bauwirtschaft-hoai-9-objektbetreuung-rathaus-uelzen/gesamt-pdf/bauwirtschaft-hoai-9-objektbetreuung-rathaus-uelzen_gesamt.pdf) | [`testakte-bauwirtschaft-hoai-9-objektbetreuung-rathaus-uelzen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bauwirtschaft-hoai-9-objektbetreuung-rathaus-uelzen.zip) | [`testakte-bauwirtschaft-hoai-9-objektbetreuung-rathaus-uelzen-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bauwirtschaft-hoai-9-objektbetreuung-rathaus-uelzen-einzelpdfs.zip) |
 | [Bürgerhaus Leinewinkel in Einbeck](../testakten/bauwirtschaft-hoai-buergerhaus-einbeck/README.md) | [Gesamt-PDF](../testakten/bauwirtschaft-hoai-buergerhaus-einbeck/gesamt-pdf/bauwirtschaft-hoai-buergerhaus-einbeck_gesamt.pdf) | [`testakte-bauwirtschaft-hoai-buergerhaus-einbeck.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bauwirtschaft-hoai-buergerhaus-einbeck.zip) | [`testakte-bauwirtschaft-hoai-buergerhaus-einbeck-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bauwirtschaft-hoai-buergerhaus-einbeck-einzelpdfs.zip) |
+| [Achtfamilienhaus zur Vermietung in Hildesheim](../testakten/bauwirtschaft-neubau-achtfamilienhaus-hildesheim/README.md) | [Gesamt-PDF](../testakten/bauwirtschaft-neubau-achtfamilienhaus-hildesheim/gesamt-pdf/bauwirtschaft-neubau-achtfamilienhaus-hildesheim_gesamt.pdf) | [`testakte-bauwirtschaft-neubau-achtfamilienhaus-hildesheim.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bauwirtschaft-neubau-achtfamilienhaus-hildesheim.zip) | [`testakte-bauwirtschaft-neubau-achtfamilienhaus-hildesheim-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bauwirtschaft-neubau-achtfamilienhaus-hildesheim-einzelpdfs.zip) |
 | [Vergabe des Lüftungsloses für das Feuerwehrhaus Northeim](../testakten/bauwirtschaft-vergabeverfahren-feuerwehrhaus-northeim/README.md) | [Gesamt-PDF](../testakten/bauwirtschaft-vergabeverfahren-feuerwehrhaus-northeim/gesamt-pdf/bauwirtschaft-vergabeverfahren-feuerwehrhaus-northeim_gesamt.pdf) | [`testakte-bauwirtschaft-vergabeverfahren-feuerwehrhaus-northeim.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bauwirtschaft-vergabeverfahren-feuerwehrhaus-northeim.zip) | [`testakte-bauwirtschaft-vergabeverfahren-feuerwehrhaus-northeim-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bauwirtschaft-vergabeverfahren-feuerwehrhaus-northeim-einzelpdfs.zip) |
 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->
 
-Version 445.6.1. Autor / Author: Klotzkette.
+Version 445.7.0. Autor / Author: Klotzkette.
 
 Bauherr, Projektentwicklung, Bauleitung und kaufmännisches Team erhalten 29 ausführende Skills: zwanzig für konkrete Projektaufgaben und neun für die einzelnen HOAI-Leistungsphasen. Sie führen den Projektstand fort, rechnen Kosten und Zahlungen nach und erstellen die konkret benötigten Tabellen, Schreiben, Verträge oder Entscheidungsvorlagen. Der Hauptskill arbeitet selbst am Ergebnis; er ist kein bloßer Themenrouter.
 
@@ -111,22 +112,25 @@ Der Hauptskill führt vorhandene Tabellen, Kennungen und Dokumentfassungen fort.
 
 With a clear task, work starts on the requested document or calculation. Follow-up answers update the same record. The main skill carries out the work; specialist skills address the current bottleneck without restarting the project. Technical approval, budget approval and authority to place an order remain distinct.
 
-<!-- decimal-anchor --> <a id="vier-unterschiedliche-projektaufgaben--four-case-perspectives"></a>
+<!-- decimal-anchor --> <a id="fünf-unterschiedliche-projektaufgaben--five-case-perspectives"></a>
 
-## 1.7. Vier unterschiedliche Projektaufgaben / Four Case Perspectives
+## 1.7. Fünf unterschiedliche Projektaufgaben / Five Case Perspectives
 
-Zusätzlich zu den folgenden vier Gesamtfällen gibt es [neun eigenständige Phasenpakete](../docs/bauwirtschaft-hoai-phasen.md): Für jede Leistungsphase 1 bis 9 stehen ein ausführender Skill, eine große Werkstatt und eine eigene Akte bereit. Die Aktenseiten nennen ausdrücklich die jeweilige Phase. Bei einem engen Einzelauftrag weiterhin den passenden Fachskill verwenden, statt alle Phasen zu durchlaufen.
+Der neue [Achtfamilienhaus-Fall Hildesheim](../testakten/bauwirtschaft-neubau-achtfamilienhaus-hildesheim/README.md) führt ein vermietetes Wohnhaus vom Grundstückserwerb durch alle neun Gebäude-Leistungsphasen bis zum Abschluss der Objektbetreuung. Eigene Planungen, Erwerbs- und Bauverträge, technische Übergaben, acht Mietverhältnisse, strukturierte Rechnungen und drei berechnende Excel-Arbeitsmappen gehören zur Akte. Der simulierte Projektverlauf ist ausdrücklich vom geprüften Quellenstand getrennt.
 
-In addition to the four broader cases below, the phase index provides nine separate case files, nine standalone workshops and nine phase-specific skills. Each case page identifies its phase. A narrow assignment still uses the corresponding task skill, without running through every phase.
+Zusätzlich zu den folgenden fünf Gesamtfällen gibt es [neun eigenständige Phasenpakete](../docs/bauwirtschaft-hoai-phasen.md): Für jede Leistungsphase 1 bis 9 stehen ein ausführender Skill, eine große Werkstatt und eine eigene Akte bereit. Die Aktenseiten nennen ausdrücklich die jeweilige Phase. Bei einem engen Einzelauftrag weiterhin den passenden Fachskill verwenden, statt alle Phasen zu durchlaufen.
 
-Der [KI-Workshop Bauwirtschaft](../docs/bauwirtschaft-workshop.md) enthält direkt verwendbare Arbeitsaufträge für die vier projektübergreifenden Akten, einschließlich einer Buchhaltungsübung mit 18 unterschiedlichen Rechnungen und getrenntem Bankabgleich. Die neun phasenbezogenen Akten stehen daneben in der [HOAI-Phasenübersicht](../docs/bauwirtschaft-hoai-phasen.md).
+In addition to the five broader cases below, the phase index provides nine separate case files, nine standalone workshops and nine phase-specific skills. Each case page identifies its phase. A narrow assignment still uses the corresponding task skill, without running through every phase.
 
-The workshop guide provides ready-to-use German assignments for the four broader project cases, including eighteen distinct invoices and bank reconciliation. The nine additional phase-specific cases are listed in the HOAI phase overview.
+Der [KI-Workshop Bauwirtschaft](../docs/bauwirtschaft-workshop.md) enthält direkt verwendbare Arbeitsaufträge für die fünf projektübergreifenden Akten, einschließlich einer Buchhaltungsübung mit 18 unterschiedlichen Rechnungen und getrenntem Bankabgleich. Die neun phasenbezogenen Akten stehen daneben in der [HOAI-Phasenübersicht](../docs/bauwirtschaft-hoai-phasen.md).
+
+The workshop guide provides ready-to-use German assignments for the five broader project cases, including eighteen distinct invoices and bank reconciliation. The nine additional phase-specific cases are listed in the HOAI phase overview.
 
 Die Downloadtabelle oben erschließt jede Akte in allen drei Fassungen. Keine Akte wird mit dem Plugin installiert. Die Unterlagen enthalten keine beigefügte Musterlösung; Stellungnahmen und Prüfvermerke einzelner Beteiligter sind Teil des streitigen oder noch offenen Projektgeschehens.
 
 | Akte / Case | Aufgabe und Belege / Task and Evidence |
 | --- | --- |
+| [Achtfamilienhaus Hildesheim](../testakten/bauwirtschaft-neubau-achtfamilienhaus-hildesheim/README.md) | Alle neun Phasen, Grundstückserwerb, Bau, acht Mietverhältnisse und kaufmännischer Abschluss. One rental housing project from acquisition through construction and later care. |
 | [Bauunternehmen Bad Salzuflen](../testakten/bauwirtschaft-buchhaltung-bauunternehmen-bad-salzuflen/README.md) | Buchhaltung mit Rechnungseingang, Gutschrift, Einbehalt, Bankumsätzen und offenen Posten. Accounting reconciliation from source documents to bank transactions. |
 | [Bürgerhaus Einbeck](../testakten/bauwirtschaft-hoai-buergerhaus-einbeck/README.md) | Alle neun Gebäude-Leistungsphasen: Planung, Genehmigung, Vergabe, Ausführung und Objektbetreuung. Nine HOAI phases with drawings, correspondence and calculation workbooks. |
 | [Feuerwehrhaus Northeim](../testakten/bauwirtschaft-vergabeverfahren-feuerwehrhaus-northeim/README.md) | Öffentliche Bauvergabe mit LV, drei Angeboten, Bieterkommunikation und laufender Nachprüfung. Public procurement through a contested award proposal. |

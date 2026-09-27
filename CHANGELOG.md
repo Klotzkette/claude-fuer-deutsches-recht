@@ -1,3 +1,11 @@
+# v445.7.0 - Achtfamilienhaus Hildesheim vom Grundstück bis zur Vermietung
+
+Die neue Bauwirtschaftsakte führt ein Achtfamilienhaus mit 600 m² Wohnfläche durch alle neun Gebäude-Leistungsphasen. Eigene Pläne, Erwerbs- und Grundschuldurkunden, sieben Bauverträge, Bauablauf, Nachtrag, Abnahmen und spätere Mängelbetreuung bilden einen gemeinsamen Projektstand. Acht Mietverträge haben eigene vorvertragliche Informationen und Übergabeprotokolle. Jede Phase ist auf der Aktenseite den passenden Unterlagen zugeordnet.
+
+Die kaufmännische Dokumentation verbindet 38 Kostenbelege, 28 strukturierte XRechnungen, Projektkontoauszüge und drei berechnende Excel-Arbeitsmappen. Doppelzahlung, Erstattung und Rechnungskorrektur lassen sich anhand der Originale nachvollziehen. PDF und XML derselben Rechnung sind ein Geschäftsvorfall. Projektmittelkontrolle und steuerliche Aktivierung bleiben getrennt.
+
+Amtliche Quellen sichern den Redaktionsstand vom 27.09.2026 einschließlich bereits verkündeter Übergangsregeln. Der Projektverlauf bis Oktober 2033 ist eine ausdrücklich gekennzeichnete Simulation. Native Office-Neuberechnung, Eingabemutationen, offizielle XRechnung-Validierung und visuelle Dokumentprüfung ergänzen die Regressionen; sie ersetzen keine technische Freigabe eines tatsächlichen Bauvorhabens. Das Plugin behält seine 29 Skills und neun separaten Phasen-Werkstätten. Die Akte wird separat als Original-ZIP, Einzel-PDF-ZIP und Gesamt-PDF bereitgestellt.
+
 # v445.6.1 - Vertragsgestaltung und Vergabemitwirkung sauber abgrenzen
 
 ## 1. Rechtsdienstleistungsbefugnis vor individuellen Klauseln

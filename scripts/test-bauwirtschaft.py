@@ -30,6 +30,7 @@ from themen_profile import EXACT_PROFILE_KEYS
 ROOT = Path(__file__).resolve().parent.parent
 PLUGIN = "bauwirtschaft"
 PROJECT_CASES = {
+    "bauwirtschaft-neubau-achtfamilienhaus-hildesheim",
     "bauwirtschaft-vergabeverfahren-feuerwehrhaus-northeim",
     "bauwirtschaft-baumanagement-werkhalle-warendorf",
     "bauwirtschaft-hoai-buergerhaus-einbeck",
@@ -179,7 +180,7 @@ class BauwirtschaftTests(unittest.TestCase):
             (ROOT / "references/zitierweise.md").read_bytes(),
         )
 
-    def test_thirteen_distinct_cases_and_native_documents(self):
+    def test_fourteen_distinct_cases_and_native_documents(self):
         injector = script_module("inject-direkt-loslegen-section")
         entries = json.loads((ROOT / ".claude-plugin/marketplace.json").read_text())["plugins"]
         self.assertEqual(set(injector.discover_testakten_mapping(entries)[PLUGIN]), CASES)

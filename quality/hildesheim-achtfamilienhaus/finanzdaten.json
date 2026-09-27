@@ -1,0 +1,5573 @@
+{
+  "root": ".",
+  "case": "testakten/bauwirtschaft-neubau-achtfamilienhaus-hildesheim",
+  "qa": "/tmp/hildesheim/finanz",
+  "ref": "SW-HI-26-08",
+  "records": [
+    {
+      "number": 70,
+      "filename": "070_Kaufpreisfaelligkeit_Grundstueck.pdf",
+      "date": "2026-11-16",
+      "issuer": "notar",
+      "recipient": "bauherr",
+      "title": "Kaufpreisfälligkeit Grundstück",
+      "sections": [
+        "Zur Urkunde vom 03.11.2026, UVZ 118/2026, teile ich mit, dass die vereinbarten Fälligkeitsvoraussetzungen für den Kaufpreis eingetreten sind. Die Auflassungsvormerkung ist eingetragen und das kommunale Negativzeugnis liegt vor. Nicht übernommene Altbelastungen bestehen nicht; eine Löschung von Verkäufergrundpfandrechten ist nicht erforderlich. Das Grundstück ist das im Kaufvertrag bezeichnete Baugrundstück Wohnhof Am Steinbogen 18 in Hildesheim.",
+        [
+          "h",
+          "1. Kaufpreis und Zahlung"
+        ],
+        "Der Kaufpreis beträgt 450.000,00 EUR. Bitte überweisen Sie den Betrag bis 30.11.2026 unmittelbar an die Verkäuferin. Zahlungsempfängerin ist die Leinequartier Grundstücksverwaltung GmbH; es handelt sich nicht um eine Einzahlung auf ein Notaranderkonto. Die Bankverbindung ist unverändert die in der Urkunde angegebene Verbindung.",
+        "Eine Umsatzsteueroption wurde im Grundstückskaufvertrag nicht erklärt. Neben dem Kaufpreis sind keine weiteren Kaufpreisbestandteile, Vermittlungsvergütungen oder beweglichen Gegenstände vereinbart. Die gesondert anfallenden Erwerbsnebenkosten werden von den jeweils zuständigen Stellen erhoben.",
+        "Bitte übersenden Sie den Zahlungsbeleg an die Verkäuferin und an mein Büro. Die Eigentumsumschreibung wird nach Eingang der steuerlichen Unbedenklichkeitsbescheinigung und Nachweis der vollständigen Kaufpreiszahlung weiterbetrieben. Diese Mitteilung betrifft nur die vertraglich vereinbarten Fälligkeitsvoraussetzungen."
+      ],
+      "attachments": []
+    },
+    {
+      "number": 71,
+      "filename": "071_Grunderwerbsteuerbescheid.pdf",
+      "date": "2026-11-20",
+      "issuer": "steuer",
+      "recipient": "bauherr",
+      "title": "Grunderwerbsteuerbescheid",
+      "sections": [
+        "Für den Erwerb aufgrund des notariellen Kaufvertrags vom 03.11.2026, UVZ 118/2026, wird gegenüber der Steinbogen Wohnen GmbH Grunderwerbsteuer in Höhe von 22.500,00 EUR festgesetzt. Gegenstand ist das Baugrundstück Wohnhof Am Steinbogen 18 in Hildesheim. Der Erwerbsvorgang wird unter der Steuernummer 30/145/60816 geführt.",
+        [
+          "h",
+          "1. Festsetzung und Fälligkeit"
+        ],
+        [
+          "t",
+          [
+            [
+              "Berechnungsgrundlage",
+              "EUR"
+            ],
+            [
+              "Gegenleistung laut Kaufvertrag",
+              "450.000,00"
+            ],
+            [
+              "Steuersatz Niedersachsen 5 %",
+              "22.500,00"
+            ],
+            [
+              "Festgesetzte Steuer",
+              "22.500,00"
+            ]
+          ],
+          [
+            355,
+            140
+          ]
+        ],
+        "Der festgesetzte Betrag ist am 20.12.2026 fällig. Bitte verwenden Sie für die Zahlung das Kassenzeichen GRE-26-816 und die Ihnen bekannte Bankverbindung der Finanzkasse. Umsatzsteuer wird auf diese Steuerfestsetzung nicht erhoben.",
+        "Die Festsetzung beruht auf der vorgelegten Erwerbsanzeige und dem Kaufvertrag. Weitere Gegenleistungen wurden nicht mitgeteilt. Die Unbedenklichkeitsbescheinigung wird nach Zahlung der Steuer an die beurkundende Notarin übersandt.",
+        [
+          "h",
+          "2. Rechtsbehelfsbelehrung"
+        ],
+        "Gegen diesen Bescheid kann innerhalb eines Monats nach Bekanntgabe Einspruch beim Finanzamt Hildesheim eingelegt werden. Der Einspruch ist schriftlich, elektronisch oder zur Niederschrift zu erklären. Die Einlegung eines Einspruchs hemmt die Fälligkeit nicht."
+      ],
+      "attachments": []
+    },
+    {
+      "number": 72,
+      "filename": "072_Notarkosten_Schlussberechnung.pdf",
+      "date": "2026-12-22",
+      "issuer": "notar",
+      "recipient": "bauherr",
+      "title": "Notarkostenberechnung Grundstückskauf und Grundschuld",
+      "sections": [
+        "Kostenberechnung zu UVZ 118/2026 vom 03.11.2026 und UVZ 139/2026 vom 19.12.2026. Kostenschuldnerin: Steinbogen Wohnen GmbH, Wohnhof Am Steinbogen 18, 31134 Hildesheim. Steuernummer der Notarin: 30/145/13705. Leistungszeitraum 03.11.2026 bis 22.12.2026.",
+        "Der Geschäftswert des Kaufvertrags beträgt 450.000 EUR; die einfache Gebühr nach Tabelle B beträgt 885 EUR. Der Geschäftswert der Grundschuldbestellung mit Vollstreckungsunterwerfung beträgt 1.600.000 EUR; die einfache Gebühr beträgt 2.695 EUR. Eine Altbelastung der Verkäuferin war nicht zu löschen. Ein Anderkonto und zusätzliche Treuhandauflagen bestanden nicht.",
+        [
+          "t",
+          [
+            [
+              "KV GNotKG / Tätigkeit",
+              "Ansatz",
+              "Betrag EUR"
+            ],
+            [
+              "21100 Kaufvertrag",
+              "2,0 × 885",
+              "1.770,00"
+            ],
+            [
+              "22110 / 22112 Vollzug: Anforderung und Prüfung des kommunalen Negativzeugnisses",
+              "begrenzt",
+              "50,00"
+            ],
+            [
+              "22200 Nr. 2 Prüfung und Mitteilung der Kaufpreisfälligkeit",
+              "0,5 × 885",
+              "442,50"
+            ],
+            [
+              "22115 strukturierte Daten Kaufvertrag",
+              "0,1 × 885",
+              "88,50"
+            ],
+            [
+              "21200 Grundschuldbestellung",
+              "1,0 × 2.695",
+              "2.695,00"
+            ],
+            [
+              "22200 Nr. 7 Herbeiführung der Bindung für die Gläubigerin durch gesonderte Entgegennahme",
+              "0,5 × 2.695",
+              "1.347,50"
+            ],
+            [
+              "22114 strukturierte Daten Grundschuld",
+              "Höchstbetrag",
+              "125,00"
+            ],
+            [
+              "32001 abgegebene S/W-Seiten: Kauf 60 Seiten / Grundschuld 40 Seiten",
+              "9 + 6",
+              "15,00"
+            ],
+            [
+              "32005 Post- und Telekommunikationspauschalen für beide Urkunden",
+              "2 × 20",
+              "40,00"
+            ],
+            [
+              "32011 zwei Grundbuchabrufe, JVKostG KV 1151",
+              "2 × 8",
+              "16,00"
+            ],
+            [
+              "Steuerpflichtige Gebühren und Auslagen",
+              "",
+              "6.589,50"
+            ],
+            [
+              "32014 Umsatzsteuer 19 %",
+              "",
+              "1.252,01"
+            ],
+            [
+              "32015 zwei Gebühren Urkundenarchiv gemäß § 2 UA-GebS als durchlaufende Beträge",
+              "2 × 4,50",
+              "9,00"
+            ],
+            [
+              "Zahlbetrag",
+              "",
+              "7.850,51"
+            ]
+          ],
+          [
+            305,
+            85,
+            105
+          ]
+        ],
+        [
+          "page"
+        ],
+        "Die Bindungsherbeiführung zur Grundschuld erfolgte durch gesonderte Entgegennahme für die Gläubigerin am 22.12.2026. Die Kosten für das Urkundenarchiv wurden für Rechnung der Kostenschuldnerin verauslagt und sind nicht Teil der umsatzsteuerpflichtigen Bemessungsgrundlage. Vorschüsse wurden nicht vereinnahmt.",
+        "Bitte zahlen Sie 7.850,51 EUR bis 05.01.2027 unter der Rechnungsnummer NF-26-118-139 auf das Kanzleikonto. Gerichtskosten werden gesondert von der Gerichtskasse erhoben. Gegen diese Kostenberechnung kann die Entscheidung des zuständigen Landgerichts nach § 127 GNotKG beantragt werden."
+      ],
+      "attachments": []
+    },
+    {
+      "number": 73,
+      "filename": "073_Grundbuch_Kostenrechnung.pdf",
+      "date": "2026-12-23",
+      "issuer": "grundbuch",
+      "recipient": "bauherr",
+      "title": "Gerichtskostenrechnung Grundbuch",
+      "sections": [
+        "In der Grundbuchsache Steinbogen Wohnen GmbH, Erwerb Wohnhof Am Steinbogen 18, Hildesheim, werden die nachstehenden Gerichtskosten angesetzt. Die Anträge sind unter dem Geschäftszeichen HI-GB-2026-778 erfasst. Kostenschuldnerin ist die Erwerberin nach den eingereichten Anträgen.",
+        [
+          "t",
+          [
+            [
+              "KV GNotKG / Eintragung",
+              "Geschäftswert EUR",
+              "Betrag EUR"
+            ],
+            [
+              "14110 Eigentumsumschreibung, 1,0",
+              "450.000,00",
+              "885,00"
+            ],
+            [
+              "14121 Buchgrundschuld, 1,0",
+              "1.600.000,00",
+              "2.695,00"
+            ],
+            [
+              "14150 Auflassungsvormerkung, 0,5",
+              "450.000,00",
+              "442,50"
+            ],
+            [
+              "14152 Löschung der Auflassungsvormerkung",
+              "Festgebühr",
+              "25,00"
+            ],
+            [
+              "Gesamtbetrag",
+              "",
+              "4.047,50"
+            ]
+          ],
+          [
+            290,
+            110,
+            95
+          ]
+        ],
+        "Die Zahlung ist unter dem Kassenzeichen GB-26-778 bis 06.01.2027 an die Gerichtskasse zu leisten. Die mitgeteilte Bankverbindung der Gerichtskasse gilt unverändert. Es wurden keine Vorschüsse angerechnet. Umsatzsteuer wird auf die Gerichtsgebühren nicht erhoben.",
+        "Der Ansatz enthält die Eigentumsumschreibung, die eingetragene Buchgrundschuld, die zuvor eingetragene Erwerbsvormerkung und deren Löschung. Gebühren einer Löschung fremder Altbelastungen sind nicht entstanden. Die Geschäftswerte wurden den Urkunden UVZ 118/2026 und 139/2026 entnommen.",
+        "Gegen den Kostenansatz ist die Erinnerung nach § 81 GNotKG zulässig. Sie kann beim Amtsgericht Hildesheim schriftlich oder zur Niederschrift der Geschäftsstelle eingelegt werden. Bitte geben Sie bei Rückfragen Geschäfts- und Kassenzeichen an."
+      ],
+      "attachments": []
+    },
+    {
+      "number": 74,
+      "filename": "074_Maklerrechnung.pdf",
+      "date": "2026-11-04",
+      "issuer": "makler",
+      "recipient": "bauherr",
+      "title": "Rechnung WG-26-104 – Grundstücksvermittlung",
+      "sections": [
+        "Rechnung Nr. WG-26-104. Rechnungsempfänger ist die Steinbogen Wohnen GmbH, Wohnhof Am Steinbogen 18, 31134 Hildesheim. Bauvorhaben: Neubau mit acht Mietwohnungen am selben Ort. Projektkennung SW-HI-26-08.",
+        "Leistungszeitraum: 05.10.2026 bis 03.11.2026. Steuernummer des leistenden Unternehmens: 30/145/13808.",
+        [
+          "h",
+          "1. Abgerechnete Leistungen"
+        ],
+        [
+          "t",
+          [
+            [
+              "Position / Leistung",
+              "Menge",
+              "Einheit",
+              "Einzel EUR",
+              "Netto EUR"
+            ],
+            [
+              "Nachweis und Vermittlung Baugrundstück gemäß Maklerauftrag vom 05.10.2026: 3 % des Kaufpreises von 450.000 EUR",
+              "1,00",
+              "Auftrag",
+              "13.500,00",
+              "13.500,00"
+            ]
+          ],
+          [
+            213,
+            49,
+            48,
+            86,
+            99
+          ]
+        ],
+        [
+          "t",
+          [
+            [
+              "Abrechnung",
+              "Betrag EUR"
+            ],
+            [
+              "Entgelt netto",
+              "13.500,00"
+            ],
+            [
+              "Umsatzsteuer 19,00 %",
+              "2.565,00"
+            ],
+            [
+              "Rechnungsbetrag brutto",
+              "16.065,00"
+            ]
+          ],
+          [
+            360,
+            135
+          ]
+        ],
+        "Zahlbar ohne Skonto bis 18.11.2026. Bitte geben Sie bei der Überweisung ausschließlich die Rechnungsnummer WG-26-104 und SW-HI-26-08 an. Zahlungsempfänger ist das im Briefkopf bezeichnete Unternehmen; die hinterlegte Bankverbindung bleibt unverändert. Die Leistung wurde für das Bauvorhaben und den angegebenen Zeitraum erbracht. Rückfragen zur Mengenaufstellung beantwortet die zeichnende Projektleitung."
+      ],
+      "attachments": []
+    },
+    {
+      "number": 75,
+      "filename": "075_Baugenehmigung_Kostenbescheid.pdf",
+      "date": "2027-09-21",
+      "issuer": "bauamt",
+      "recipient": "bauherr",
+      "title": "Kostenbescheid zum Bauantrag",
+      "sections": [
+        "Für das vereinfachte Baugenehmigungsverfahren zum Bauantrag SW-HI-26-08 für den Neubau eines Wohngebäudes mit acht Wohnungen, Wohnhof Am Steinbogen 18, werden Gebühren von 4.957,40 EUR festgesetzt. Die Genehmigungsentscheidung wurde gesondert bekannt gegeben. Rechtsgrundlage sind die Niedersächsische Baugebührenordnung (NBauGO) und die nachstehend genannten Gebührenpositionen.",
+        [
+          "h",
+          "1. Gebührenübersicht"
+        ],
+        "Der Brutto-Rauminhalt beträgt nach den Bauvorlagen 2.710,00 m³. Bei einem Rohbauwert von 208,00 EUR je m³ beträgt der rechnerische Rohbauwert 563.680,00 EUR. Er wird gemäß § 3 Absatz 4 NBauGO auf 564.000,00 EUR aufgerundet. Der zugrunde gelegte Rohbauwert je m³ entspricht der zum 01.10.2026 veröffentlichten Festsetzung.",
+        [
+          "t",
+          [
+            [
+              "Leistung und Berechnung",
+              "Gebühr EUR"
+            ],
+            [
+              "Anlage 1 Nr. 1.1 Buchstabe a NBauGO: 1.128 angefangene Einheiten zu 500 EUR × 4,30 EUR",
+              "4.850,40"
+            ],
+            [
+              "Anlage 1 Nr. 12.7 NBauGO: Nachforderung vom 02.06.2027, 60 Minuten",
+              "107,00"
+            ],
+            [
+              "Gesamtbetrag",
+              "4.957,40"
+            ]
+          ],
+          [
+            375,
+            120
+          ]
+        ],
+        "Für die Prüfung der unvollständigen Bauvorlagen und das Erstellen der Nachforderung vom 02.06.2027 wurden 60 Minuten einer Sachbearbeiterin der Laufbahngruppe 2 unterhalb des zweiten Einstiegsamts erfasst. Nach § 6 Absatz 2 NBauGO in Verbindung mit § 4 Absatz 3 Nummer 2 KOVerm werden zwei angefangene halbe Stunden zu je 53,50 EUR berechnet.",
+        "Zahlen Sie den Gesamtbetrag bis 21.10.2027 unter Angabe des Kassenzeichens BA-27-328-K an die Stadtkasse. Es handelt sich um öffentlich-rechtliche Gebühren; Umsatzsteuer wird nicht ausgewiesen. Der Kostenbescheid enthält keine Entgelte privater Prüfingenieure oder Fachplaner.",
+        "Gegen diesen Kostenbescheid kann innerhalb eines Monats nach Bekanntgabe Widerspruch bei der Stadt Hildesheim erhoben werden. Bei öffentlichen Kosten hat der Widerspruch gemäß § 80 Absatz 2 Satz 1 Nummer 1 VwGO keine automatische aufschiebende Wirkung. Für Rückfragen sind Aktenzeichen und Kassenzeichen anzugeben. Dieser Kostenbescheid ersetzt nicht die Genehmigungsunterlagen."
+      ],
+      "attachments": []
+    },
+    {
+      "number": 76,
+      "filename": "076_Bauversicherung_Beitragsrechnung.pdf",
+      "date": "2027-11-22",
+      "issuer": "versicherung",
+      "recipient": "bauherr",
+      "title": "Beitragsrechnung Bauleistungs- und Bauherrenhaftpflichtversicherung",
+      "sections": [
+        "Versicherungsschein BV-SW-2027-180: Versicherungsnehmerin Steinbogen Wohnen GmbH; versichertes Bauvorhaben Wohnhof Am Steinbogen 18, Hildesheim, acht Wohneinheiten. Der vereinbarte Schutz besteht vom 01.12.2027 bis 30.11.2028 für die im Versicherungsschein bezeichnete Bauleistung und die Bauherrenhaftpflicht.",
+        [
+          "h",
+          "1. Einmalbeitrag"
+        ],
+        [
+          "t",
+          [
+            [
+              "Bestandteil",
+              "EUR"
+            ],
+            [
+              "Beitrag ohne Versicherungsteuer",
+              "7.563,03"
+            ],
+            [
+              "Versicherungsteuer 19 %",
+              "1.436,97"
+            ],
+            [
+              "Zahlbetrag",
+              "9.000,00"
+            ]
+          ],
+          [
+            355,
+            140
+          ]
+        ],
+        "Der Gesamtbeitrag von 9.000,00 EUR wird am 06.12.2027 fällig. Diese Beitragsrechnung weist Versicherungsteuer und keine Umsatzsteuer aus. Bitte verwenden Sie bei der Zahlung die Vertragsnummer BV-SW-2027-180. Der Beitrag umfasst die im Antrag vereinbarte Versicherungssumme; Erweiterungen des Bauumfangs sind dem Versicherer mitzuteilen.",
+        "Der Versicherungsschutz richtet sich nach dem Versicherungsschein und den vereinbarten Bedingungen. Schäden sind unter Angabe des Schadentags und der ergriffenen Maßnahmen unverzüglich dem Vertragsservice anzuzeigen. Die Beitragserhebung ersetzt keine Deckungsentscheidung zu einem konkreten Schaden."
+      ],
+      "attachments": []
+    },
+    {
+      "number": 77,
+      "filename": "077_Bank_Finanzierungsentgelt.pdf",
+      "date": "2027-01-02",
+      "issuer": "bank",
+      "recipient": "bauherr",
+      "title": "Rechnung LB-27-010 – Vereinbartes Finanzierungsentgelt",
+      "sections": [
+        "Rechnung Nr. LB-27-010. Rechnungsempfänger ist die Steinbogen Wohnen GmbH, Wohnhof Am Steinbogen 18, 31134 Hildesheim. Bauvorhaben: Neubau mit acht Mietwohnungen am selben Ort. Projektkennung SW-HI-26-08.",
+        "Leistungszeitraum: 02.01.2027. Steuernummer des leistenden Unternehmens: 30/145/13582.",
+        [
+          "h",
+          "1. Abgerechnete Leistungen"
+        ],
+        [
+          "t",
+          [
+            [
+              "Position / Leistung",
+              "Menge",
+              "Einheit",
+              "Einzel EUR",
+              "Netto EUR"
+            ],
+            [
+              "Individuell vereinbartes Entgelt für die Bereitstellung der Projektfinanzierung gemäß Darlehensvertrag Ziffer 3",
+              "1,00",
+              "Vereinbarung",
+              "10.000,00",
+              "10.000,00"
+            ]
+          ],
+          [
+            213,
+            49,
+            48,
+            86,
+            99
+          ]
+        ],
+        [
+          "t",
+          [
+            [
+              "Abrechnung",
+              "Betrag EUR"
+            ],
+            [
+              "Entgelt netto",
+              "10.000,00"
+            ],
+            [
+              "Umsatzsteuer: steuerfreie Leistung",
+              "0,00"
+            ],
+            [
+              "Rechnungsbetrag brutto",
+              "10.000,00"
+            ]
+          ],
+          [
+            360,
+            135
+          ]
+        ],
+        "Die Kreditgewährung und das ihr zugeordnete Finanzierungsentgelt werden umsatzsteuerfrei gemäß § 4 Nr. 8 Buchstabe a UStG abgerechnet. Es wird keine Umsatzsteuer geschuldet oder ausgewiesen.",
+        "Zahlbar ohne Skonto bis 16.01.2027. Bitte geben Sie bei der Überweisung ausschließlich die Rechnungsnummer LB-27-010 und SW-HI-26-08 an. Zahlungsempfänger ist das im Briefkopf bezeichnete Unternehmen; die hinterlegte Bankverbindung bleibt unverändert. Die Leistung wurde für das Bauvorhaben und den angegebenen Zeitraum erbracht. Rückfragen zur Mengenaufstellung beantwortet die zeichnende Projektleitung."
+      ],
+      "attachments": []
+    },
+    {
+      "number": 78,
+      "filename": "078_Bank_Zinsabrechnung_2027.pdf",
+      "date": "2027-12-31",
+      "issuer": "bank",
+      "recipient": "bauherr",
+      "title": "Rechnung LB-Z-2027 – Darlehenszinsen 2027",
+      "sections": [
+        "Rechnung Nr. LB-Z-2027. Rechnungsempfänger ist die Steinbogen Wohnen GmbH, Wohnhof Am Steinbogen 18, 31134 Hildesheim. Bauvorhaben: Neubau mit acht Mietwohnungen am selben Ort. Projektkennung SW-HI-26-08.",
+        "Leistungszeitraum: 01.01.2027 bis 31.12.2027. Steuernummer des leistenden Unternehmens: 30/145/13582.",
+        [
+          "h",
+          "1. Abgerechnete Leistungen"
+        ],
+        [
+          "t",
+          [
+            [
+              "Position / Leistung",
+              "Menge",
+              "Einheit",
+              "Einzel EUR",
+              "Netto EUR"
+            ],
+            [
+              "Tranche 400.000 EUR vom 01.01. bis 31.12.2027 zu 3,6 % jährlich; 360/360 Tage",
+              "1,00",
+              "Zeitraum",
+              "14.400,00",
+              "14.400,00"
+            ],
+            [
+              "Tranche 400.000 EUR vom 01.07. bis 31.12.2027 zu 3,6 % jährlich; 180/360 Tage",
+              "1,00",
+              "Zeitraum",
+              "7.200,00",
+              "7.200,00"
+            ],
+            [
+              "Tranche 800.000 EUR vom 01.10. bis 31.12.2027 zu 3,6 % jährlich; 90/360 Tage",
+              "1,00",
+              "Zeitraum",
+              "7.200,00",
+              "7.200,00"
+            ]
+          ],
+          [
+            213,
+            49,
+            48,
+            86,
+            99
+          ]
+        ],
+        [
+          "t",
+          [
+            [
+              "Abrechnung",
+              "Betrag EUR"
+            ],
+            [
+              "Entgelt netto",
+              "28.800,00"
+            ],
+            [
+              "Umsatzsteuer: steuerfreie Leistung",
+              "0,00"
+            ],
+            [
+              "Rechnungsbetrag brutto",
+              "28.800,00"
+            ]
+          ],
+          [
+            360,
+            135
+          ]
+        ],
+        "Zinsen für die Kreditgewährung; steuerfrei gemäß § 4 Nr. 8 Buchstabe a UStG. Die Zinsen werden gesondert belastet und dem Darlehenskapital nicht zugeschlagen.",
+        "Zahlbar ohne Skonto bis 14.01.2028. Bitte geben Sie bei der Überweisung ausschließlich die Rechnungsnummer LB-Z-2027 und SW-HI-26-08 an. Zahlungsempfänger ist das im Briefkopf bezeichnete Unternehmen; die hinterlegte Bankverbindung bleibt unverändert. Die Leistung wurde für das Bauvorhaben und den angegebenen Zeitraum erbracht. Rückfragen zur Mengenaufstellung beantwortet die zeichnende Projektleitung."
+      ],
+      "attachments": []
+    },
+    {
+      "number": 79,
+      "filename": "079_Bank_Zinsabrechnung_2028.pdf",
+      "date": "2028-12-31",
+      "issuer": "bank",
+      "recipient": "bauherr",
+      "title": "Rechnung LB-Z-2028 – Darlehenszinsen 2028",
+      "sections": [
+        "Rechnung Nr. LB-Z-2028. Rechnungsempfänger ist die Steinbogen Wohnen GmbH, Wohnhof Am Steinbogen 18, 31134 Hildesheim. Bauvorhaben: Neubau mit acht Mietwohnungen am selben Ort. Projektkennung SW-HI-26-08.",
+        "Leistungszeitraum: 01.01.2028 bis 31.12.2028. Steuernummer des leistenden Unternehmens: 30/145/13582.",
+        [
+          "h",
+          "1. Abgerechnete Leistungen"
+        ],
+        [
+          "t",
+          [
+            [
+              "Position / Leistung",
+              "Menge",
+              "Einheit",
+              "Einzel EUR",
+              "Netto EUR"
+            ],
+            [
+              "Darlehenssaldo 1.600.000 EUR vom 01.01. bis 31.12.2028 zu 3,6 % jährlich; 360/360 Tage",
+              "1,00",
+              "Zeitraum",
+              "57.600,00",
+              "57.600,00"
+            ],
+            [
+              "Vertragliche einmalige Zinsvergütung aus Darlehensvertrag Ziffer 3",
+              "1,00",
+              "Vergütung",
+              "-6.400,00",
+              "-6.400,00"
+            ]
+          ],
+          [
+            213,
+            49,
+            48,
+            86,
+            99
+          ]
+        ],
+        [
+          "t",
+          [
+            [
+              "Abrechnung",
+              "Betrag EUR"
+            ],
+            [
+              "Entgelt netto",
+              "51.200,00"
+            ],
+            [
+              "Umsatzsteuer: steuerfreie Leistung",
+              "0,00"
+            ],
+            [
+              "Rechnungsbetrag brutto",
+              "51.200,00"
+            ]
+          ],
+          [
+            360,
+            135
+          ]
+        ],
+        "Zinsen für die Kreditgewährung; steuerfrei gemäß § 4 Nr. 8 Buchstabe a UStG. Die Zinsvergütung von 6.400 EUR ist eine Leistung der Bank aus der individuellen Finanzierungsvereinbarung und kein öffentlicher Zuschuss. Die Abrechnung umfasst auch die Zeit nach Bezugsbeginn; sie trifft keine Aussage über eine bilanzielle Aktivierung.",
+        "Zahlbar ohne Skonto bis 14.01.2029. Bitte geben Sie bei der Überweisung ausschließlich die Rechnungsnummer LB-Z-2028 und SW-HI-26-08 an. Zahlungsempfänger ist das im Briefkopf bezeichnete Unternehmen; die hinterlegte Bankverbindung bleibt unverändert. Die Leistung wurde für das Bauvorhaben und den angegebenen Zeitraum erbracht. Rückfragen zur Mengenaufstellung beantwortet die zeichnende Projektleitung."
+      ],
+      "attachments": []
+    },
+    {
+      "number": 80,
+      "filename": "080_Architekt_Rechnung_LPH1_4.pdf",
+      "date": "2027-09-24",
+      "issuer": "architekt",
+      "recipient": "bauherr",
+      "title": "Rechnung KF-27-091 – Objektplanung LPH 1 bis 4",
+      "sections": [
+        "Rechnung Nr. KF-27-091. Rechnungsempfänger ist die Steinbogen Wohnen GmbH, Wohnhof Am Steinbogen 18, 31134 Hildesheim. Bauvorhaben: Neubau mit acht Mietwohnungen am selben Ort. Projektkennung SW-HI-26-08.",
+        "Leistungszeitraum: 10.10.2026 bis 21.09.2027. Steuernummer des leistenden Unternehmens: 30/145/12113.",
+        [
+          "h",
+          "1. Abgerechnete Leistungen"
+        ],
+        [
+          "t",
+          [
+            [
+              "Position / Leistung",
+              "Menge",
+              "Einheit",
+              "Einzel EUR",
+              "Netto EUR"
+            ],
+            [
+              "LPH 1 Grundlagenermittlung, vereinbarter Teilbetrag",
+              "1,00",
+              "Phase",
+              "2.900,00",
+              "2.900,00"
+            ],
+            [
+              "LPH 2 Vorplanung, vereinbarter Teilbetrag",
+              "1,00",
+              "Phase",
+              "10.150,00",
+              "10.150,00"
+            ],
+            [
+              "LPH 3 Entwurfsplanung, vereinbarter Teilbetrag",
+              "1,00",
+              "Phase",
+              "21.750,00",
+              "21.750,00"
+            ],
+            [
+              "LPH 4 Genehmigungsplanung, vereinbarter Teilbetrag",
+              "1,00",
+              "Phase",
+              "4.350,00",
+              "4.350,00"
+            ]
+          ],
+          [
+            213,
+            49,
+            48,
+            86,
+            99
+          ]
+        ],
+        [
+          "t",
+          [
+            [
+              "Abrechnung",
+              "Betrag EUR"
+            ],
+            [
+              "Entgelt netto",
+              "39.150,00"
+            ],
+            [
+              "Umsatzsteuer 19,00 %",
+              "7.438,50"
+            ],
+            [
+              "Rechnungsbetrag brutto",
+              "46.588,50"
+            ]
+          ],
+          [
+            360,
+            135
+          ]
+        ],
+        "Pauschalhonorar Objektplanung 145.000 EUR netto für die vereinbarten LPH 1 bis 9. Abgerechnet werden hier 27 % nach dem vertraglichen Zahlungsplan. Weitere Leistungsbilder und Nebenkosten werden nicht zusätzlich berechnet.",
+        "Zahlbar ohne Skonto bis 08.10.2027. Bitte geben Sie bei der Überweisung ausschließlich die Rechnungsnummer KF-27-091 und SW-HI-26-08 an. Zahlungsempfänger ist das im Briefkopf bezeichnete Unternehmen; die hinterlegte Bankverbindung bleibt unverändert. Die Leistung wurde für das Bauvorhaben und den angegebenen Zeitraum erbracht. Rückfragen zur Mengenaufstellung beantwortet die zeichnende Projektleitung."
+      ],
+      "attachments": []
+    },
+    {
+      "number": 81,
+      "filename": "081_Architekt_Rechnung_LPH5_7.pdf",
+      "date": "2027-11-26",
+      "issuer": "architekt",
+      "recipient": "bauherr",
+      "title": "Rechnung KF-27-116 – Objektplanung LPH 5 bis 7",
+      "sections": [
+        "Rechnung Nr. KF-27-116. Rechnungsempfänger ist die Steinbogen Wohnen GmbH, Wohnhof Am Steinbogen 18, 31134 Hildesheim. Bauvorhaben: Neubau mit acht Mietwohnungen am selben Ort. Projektkennung SW-HI-26-08.",
+        "Leistungszeitraum: 01.06.2027 bis 24.11.2027. Steuernummer des leistenden Unternehmens: 30/145/12113.",
+        [
+          "h",
+          "1. Abgerechnete Leistungen"
+        ],
+        [
+          "t",
+          [
+            [
+              "Position / Leistung",
+              "Menge",
+              "Einheit",
+              "Einzel EUR",
+              "Netto EUR"
+            ],
+            [
+              "LPH 5 Ausführungsplanung",
+              "1,00",
+              "Phase",
+              "36.250,00",
+              "36.250,00"
+            ],
+            [
+              "LPH 6 Vorbereitung der Vergabe",
+              "1,00",
+              "Phase",
+              "14.500,00",
+              "14.500,00"
+            ],
+            [
+              "LPH 7 Mitwirkung bei der Vergabe",
+              "1,00",
+              "Phase",
+              "5.800,00",
+              "5.800,00"
+            ]
+          ],
+          [
+            213,
+            49,
+            48,
+            86,
+            99
+          ]
+        ],
+        [
+          "t",
+          [
+            [
+              "Abrechnung",
+              "Betrag EUR"
+            ],
+            [
+              "Entgelt netto",
+              "56.550,00"
+            ],
+            [
+              "Umsatzsteuer 19,00 %",
+              "10.744,50"
+            ],
+            [
+              "Rechnungsbetrag brutto",
+              "67.294,50"
+            ]
+          ],
+          [
+            360,
+            135
+          ]
+        ],
+        "Abgerechnet werden 39 % des vereinbarten Pauschalhonorars von 145.000 EUR netto. Die Teilbeträge für LPH 1 bis 4 wurden mit KF-27-091 abgerechnet; sie sind nicht erneut Bestandteil dieser Rechnung.",
+        "Zahlbar ohne Skonto bis 10.12.2027. Bitte geben Sie bei der Überweisung ausschließlich die Rechnungsnummer KF-27-116 und SW-HI-26-08 an. Zahlungsempfänger ist das im Briefkopf bezeichnete Unternehmen; die hinterlegte Bankverbindung bleibt unverändert. Die Leistung wurde für das Bauvorhaben und den angegebenen Zeitraum erbracht. Rückfragen zur Mengenaufstellung beantwortet die zeichnende Projektleitung."
+      ],
+      "attachments": []
+    },
+    {
+      "number": 82,
+      "filename": "082_Architekt_Rechnung_LPH8.pdf",
+      "date": "2028-10-20",
+      "issuer": "architekt",
+      "recipient": "bauherr",
+      "title": "Rechnung KF-28-104 – Objektplanung LPH 8",
+      "sections": [
+        "Rechnung Nr. KF-28-104. Rechnungsempfänger ist die Steinbogen Wohnen GmbH, Wohnhof Am Steinbogen 18, 31134 Hildesheim. Bauvorhaben: Neubau mit acht Mietwohnungen am selben Ort. Projektkennung SW-HI-26-08.",
+        "Leistungszeitraum: 01.12.2027 bis 15.10.2028. Steuernummer des leistenden Unternehmens: 30/145/12113.",
+        [
+          "h",
+          "1. Abgerechnete Leistungen"
+        ],
+        [
+          "t",
+          [
+            [
+              "Position / Leistung",
+              "Menge",
+              "Einheit",
+              "Einzel EUR",
+              "Netto EUR"
+            ],
+            [
+              "Objektüberwachung und Dokumentation gemäß vereinbartem Leistungsumfang",
+              "1,00",
+              "Phase",
+              "46.400,00",
+              "46.400,00"
+            ]
+          ],
+          [
+            213,
+            49,
+            48,
+            86,
+            99
+          ]
+        ],
+        [
+          "t",
+          [
+            [
+              "Abrechnung",
+              "Betrag EUR"
+            ],
+            [
+              "Entgelt netto",
+              "46.400,00"
+            ],
+            [
+              "Umsatzsteuer 19,00 %",
+              "8.816,00"
+            ],
+            [
+              "Rechnungsbetrag brutto",
+              "55.216,00"
+            ]
+          ],
+          [
+            360,
+            135
+          ]
+        ],
+        "Abgerechnet werden 32 % des Pauschalhonorars von 145.000 EUR netto. Die Leistungen der Objektbetreuung in LPH 9 und deren Teilhonorar von 2.900 EUR netto bleiben außerhalb dieser Rechnung.",
+        "Zahlbar ohne Skonto bis 03.11.2028. Bitte geben Sie bei der Überweisung ausschließlich die Rechnungsnummer KF-28-104 und SW-HI-26-08 an. Zahlungsempfänger ist das im Briefkopf bezeichnete Unternehmen; die hinterlegte Bankverbindung bleibt unverändert. Die Leistung wurde für das Bauvorhaben und den angegebenen Zeitraum erbracht. Rückfragen zur Mengenaufstellung beantwortet die zeichnende Projektleitung."
+      ],
+      "attachments": []
+    },
+    {
+      "number": 83,
+      "filename": "083_Architekt_Schlussrechnung_LPH9.pdf",
+      "date": "2033-09-26",
+      "issuer": "architekt",
+      "recipient": "bauherr",
+      "title": "Rechnung KF-33-092 – Objektplanung LPH 9 und Schlussabrechnung",
+      "sections": [
+        "Rechnung Nr. KF-33-092. Rechnungsempfänger ist die Steinbogen Wohnen GmbH, Wohnhof Am Steinbogen 18, 31134 Hildesheim. Bauvorhaben: Neubau mit acht Mietwohnungen am selben Ort. Projektkennung SW-HI-26-08.",
+        "Leistungszeitraum: 16.09.2028 bis 25.09.2033. Steuernummer des leistenden Unternehmens: 30/145/12113.",
+        [
+          "h",
+          "1. Abgerechnete Leistungen"
+        ],
+        [
+          "t",
+          [
+            [
+              "Position / Leistung",
+              "Menge",
+              "Einheit",
+              "Einzel EUR",
+              "Netto EUR"
+            ],
+            [
+              "Objektbetreuung gemäß Leistungsvereinbarung einschließlich Vorfristbegehung und Dokumentation",
+              "1,00",
+              "Phase",
+              "2.900,00",
+              "2.900,00"
+            ]
+          ],
+          [
+            213,
+            49,
+            48,
+            86,
+            99
+          ]
+        ],
+        "Die folgenden Beträge bilden die kumulierte Schlussabrechnung. Die vorstehende Positionsliste enthält nur die noch nicht in den Abschlagsrechnungen abgerechneten Mengen. Die bereits abgerechneten Leistungen aus KF-27-091, KF-27-116, KF-28-104 bleiben Bestandteil der Gesamtleistung.",
+        [
+          "t",
+          [
+            [
+              "Abrechnung",
+              "Netto EUR",
+              "USt EUR",
+              "Brutto EUR"
+            ],
+            [
+              "Gesamtleistung einschließlich Abschlägen",
+              "145.000,00",
+              "27.550,00",
+              "172.550,00"
+            ],
+            [
+              "Bereits berechnete und vereinnahmte Abschläge",
+              "142.100,00",
+              "26.999,00",
+              "169.099,00"
+            ],
+            [
+              "Verbleibende Forderung dieser Rechnung",
+              "2.900,00",
+              "551,00",
+              "3.451,00"
+            ]
+          ],
+          [
+            215,
+            90,
+            90,
+            100
+          ]
+        ],
+        "Das vereinbarte Pauschalhonorar beträgt abschließend 145.000 EUR netto. Die bereits vereinnahmten Abschläge werden mit ihren Nettobeträgen und der darauf entfallenden Umsatzsteuer abgesetzt. Zusätzliche Mangelbeseitigungsüberwachung wird nicht mit dieser Rechnung abgerechnet.",
+        "Zahlbar ohne Skonto bis 10.10.2033. Bitte geben Sie bei der Überweisung ausschließlich die Rechnungsnummer KF-33-092 und SW-HI-26-08 an. Zahlungsempfänger ist das im Briefkopf bezeichnete Unternehmen; die hinterlegte Bankverbindung bleibt unverändert. Die Leistung wurde für das Bauvorhaben und den angegebenen Zeitraum erbracht. Rückfragen zur Mengenaufstellung beantwortet die zeichnende Projektleitung."
+      ],
+      "attachments": []
+    },
+    {
+      "number": 84,
+      "filename": "084_TGA_Planungsrechnung.pdf",
+      "date": "2027-09-27",
+      "issuer": "tga",
+      "recipient": "bauherr",
+      "title": "Rechnung PT-27-092 – TGA Planung",
+      "sections": [
+        "Rechnung Nr. PT-27-092. Rechnungsempfänger ist die Steinbogen Wohnen GmbH, Wohnhof Am Steinbogen 18, 31134 Hildesheim. Bauvorhaben: Neubau mit acht Mietwohnungen am selben Ort. Projektkennung SW-HI-26-08.",
+        "Leistungszeitraum: 01.12.2026 bis 21.09.2027. Steuernummer des leistenden Unternehmens: 30/145/12452.",
+        [
+          "h",
+          "1. Abgerechnete Leistungen"
+        ],
+        [
+          "t",
+          [
+            [
+              "Position / Leistung",
+              "Menge",
+              "Einheit",
+              "Einzel EUR",
+              "Netto EUR"
+            ],
+            [
+              "Planung Wärmeversorgung und Wohnungsstationen",
+              "1,00",
+              "Leistung",
+              "14.000,00",
+              "14.000,00"
+            ],
+            [
+              "Planung Trinkwasser, Abwasser und Lüftung",
+              "1,00",
+              "Leistung",
+              "10.000,00",
+              "10.000,00"
+            ],
+            [
+              "Koordination Elektro, PV und Ladeinfrastruktur",
+              "1,00",
+              "Leistung",
+              "6.000,00",
+              "6.000,00"
+            ]
+          ],
+          [
+            213,
+            49,
+            48,
+            86,
+            99
+          ]
+        ],
+        [
+          "t",
+          [
+            [
+              "Abrechnung",
+              "Betrag EUR"
+            ],
+            [
+              "Entgelt netto",
+              "30.000,00"
+            ],
+            [
+              "Umsatzsteuer 19,00 %",
+              "5.700,00"
+            ],
+            [
+              "Rechnungsbetrag brutto",
+              "35.700,00"
+            ]
+          ],
+          [
+            360,
+            135
+          ]
+        ],
+        "Zahlbar ohne Skonto bis 11.10.2027. Bitte geben Sie bei der Überweisung ausschließlich die Rechnungsnummer PT-27-092 und SW-HI-26-08 an. Zahlungsempfänger ist das im Briefkopf bezeichnete Unternehmen; die hinterlegte Bankverbindung bleibt unverändert. Die Leistung wurde für das Bauvorhaben und den angegebenen Zeitraum erbracht. Rückfragen zur Mengenaufstellung beantwortet die zeichnende Projektleitung."
+      ],
+      "attachments": []
+    },
+    {
+      "number": 85,
+      "filename": "085_TGA_Schlussrechnung.pdf",
+      "date": "2028-10-22",
+      "issuer": "tga",
+      "recipient": "bauherr",
+      "title": "Rechnung PT-28-104 – TGA Ausführungsbegleitung und Abschluss",
+      "sections": [
+        "Rechnung Nr. PT-28-104. Rechnungsempfänger ist die Steinbogen Wohnen GmbH, Wohnhof Am Steinbogen 18, 31134 Hildesheim. Bauvorhaben: Neubau mit acht Mietwohnungen am selben Ort. Projektkennung SW-HI-26-08.",
+        "Leistungszeitraum: 22.09.2027 bis 15.10.2028. Steuernummer des leistenden Unternehmens: 30/145/12452.",
+        [
+          "h",
+          "1. Abgerechnete Leistungen"
+        ],
+        [
+          "t",
+          [
+            [
+              "Position / Leistung",
+              "Menge",
+              "Einheit",
+              "Einzel EUR",
+              "Netto EUR"
+            ],
+            [
+              "Ausführungsdetails und gewerkeübergreifende Koordination",
+              "1,00",
+              "Leistung",
+              "12.000,00",
+              "12.000,00"
+            ],
+            [
+              "Mitwirkung Ausschreibung und Angebotsprüfung",
+              "1,00",
+              "Leistung",
+              "8.000,00",
+              "8.000,00"
+            ],
+            [
+              "Fachbauüberwachung, Prüfprotokolle und Übergabe",
+              "1,00",
+              "Leistung",
+              "15.000,00",
+              "15.000,00"
+            ]
+          ],
+          [
+            213,
+            49,
+            48,
+            86,
+            99
+          ]
+        ],
+        "Die folgenden Beträge bilden die kumulierte Schlussabrechnung. Die vorstehende Positionsliste enthält nur die noch nicht in den Abschlagsrechnungen abgerechneten Mengen. Die bereits abgerechneten Leistungen aus PT-27-092 bleiben Bestandteil der Gesamtleistung.",
+        [
+          "t",
+          [
+            [
+              "Abrechnung",
+              "Netto EUR",
+              "USt EUR",
+              "Brutto EUR"
+            ],
+            [
+              "Gesamtleistung einschließlich Abschlägen",
+              "65.000,00",
+              "12.350,00",
+              "77.350,00"
+            ],
+            [
+              "Bereits berechnete und vereinnahmte Abschläge",
+              "30.000,00",
+              "5.700,00",
+              "35.700,00"
+            ],
+            [
+              "Verbleibende Forderung dieser Rechnung",
+              "35.000,00",
+              "6.650,00",
+              "41.650,00"
+            ]
+          ],
+          [
+            215,
+            90,
+            90,
+            100
+          ]
+        ],
+        "Zahlbar ohne Skonto bis 05.11.2028. Bitte geben Sie bei der Überweisung ausschließlich die Rechnungsnummer PT-28-104 und SW-HI-26-08 an. Zahlungsempfänger ist das im Briefkopf bezeichnete Unternehmen; die hinterlegte Bankverbindung bleibt unverändert. Die Leistung wurde für das Bauvorhaben und den angegebenen Zeitraum erbracht. Rückfragen zur Mengenaufstellung beantwortet die zeichnende Projektleitung."
+      ],
+      "attachments": []
+    },
+    {
+      "number": 86,
+      "filename": "086_Tragwerk_Schlussrechnung.pdf",
+      "date": "2028-09-22",
+      "issuer": "tragwerk",
+      "recipient": "bauherr",
+      "title": "Rechnung BW-28-093 – Tragwerksplanung",
+      "sections": [
+        "Rechnung Nr. BW-28-093. Rechnungsempfänger ist die Steinbogen Wohnen GmbH, Wohnhof Am Steinbogen 18, 31134 Hildesheim. Bauvorhaben: Neubau mit acht Mietwohnungen am selben Ort. Projektkennung SW-HI-26-08.",
+        "Leistungszeitraum: 01.12.2026 bis 15.09.2028. Steuernummer des leistenden Unternehmens: 30/145/12339.",
+        [
+          "h",
+          "1. Abgerechnete Leistungen"
+        ],
+        [
+          "t",
+          [
+            [
+              "Position / Leistung",
+              "Menge",
+              "Einheit",
+              "Einzel EUR",
+              "Netto EUR"
+            ],
+            [
+              "Statische Berechnungen einschließlich Nachweisen",
+              "1,00",
+              "Auftrag",
+              "18.000,00",
+              "18.000,00"
+            ],
+            [
+              "Schal- und Bewehrungsplanung",
+              "1,00",
+              "Auftrag",
+              "17.000,00",
+              "17.000,00"
+            ],
+            [
+              "Bewehrungsabnahmen und Abschlussdokumentation",
+              "1,00",
+              "Auftrag",
+              "5.000,00",
+              "5.000,00"
+            ]
+          ],
+          [
+            213,
+            49,
+            48,
+            86,
+            99
+          ]
+        ],
+        [
+          "t",
+          [
+            [
+              "Abrechnung",
+              "Betrag EUR"
+            ],
+            [
+              "Entgelt netto",
+              "40.000,00"
+            ],
+            [
+              "Umsatzsteuer 19,00 %",
+              "7.600,00"
+            ],
+            [
+              "Rechnungsbetrag brutto",
+              "47.600,00"
+            ]
+          ],
+          [
+            360,
+            135
+          ]
+        ],
+        "Zahlbar ohne Skonto bis 06.10.2028. Bitte geben Sie bei der Überweisung ausschließlich die Rechnungsnummer BW-28-093 und SW-HI-26-08 an. Zahlungsempfänger ist das im Briefkopf bezeichnete Unternehmen; die hinterlegte Bankverbindung bleibt unverändert. Die Leistung wurde für das Bauvorhaben und den angegebenen Zeitraum erbracht. Rückfragen zur Mengenaufstellung beantwortet die zeichnende Projektleitung."
+      ],
+      "attachments": []
+    },
+    {
+      "number": 87,
+      "filename": "087_Vermessung_Schlussrechnung.pdf",
+      "date": "2028-09-24",
+      "issuer": "vermessung",
+      "recipient": "bauherr",
+      "title": "Rechnung LP-28-094 – Vermessungsleistungen",
+      "sections": [
+        "Rechnung Nr. LP-28-094. Rechnungsempfänger ist die Steinbogen Wohnen GmbH, Wohnhof Am Steinbogen 18, 31134 Hildesheim. Bauvorhaben: Neubau mit acht Mietwohnungen am selben Ort. Projektkennung SW-HI-26-08.",
+        "Leistungszeitraum: 15.10.2026 bis 20.09.2028. Steuernummer des leistenden Unternehmens: 30/145/12678.",
+        [
+          "h",
+          "1. Abgerechnete Leistungen"
+        ],
+        [
+          "t",
+          [
+            [
+              "Position / Leistung",
+              "Menge",
+              "Einheit",
+              "Einzel EUR",
+              "Netto EUR"
+            ],
+            [
+              "Lage- und Höhenaufnahme",
+              "1,00",
+              "Auftrag",
+              "6.000,00",
+              "6.000,00"
+            ],
+            [
+              "Gebäudeabsteckung und Kontrollmessungen",
+              "1,00",
+              "Auftrag",
+              "5.000,00",
+              "5.000,00"
+            ],
+            [
+              "Schlussvermessung und Bestandsunterlagen",
+              "1,00",
+              "Auftrag",
+              "4.000,00",
+              "4.000,00"
+            ]
+          ],
+          [
+            213,
+            49,
+            48,
+            86,
+            99
+          ]
+        ],
+        [
+          "t",
+          [
+            [
+              "Abrechnung",
+              "Betrag EUR"
+            ],
+            [
+              "Entgelt netto",
+              "15.000,00"
+            ],
+            [
+              "Umsatzsteuer 19,00 %",
+              "2.850,00"
+            ],
+            [
+              "Rechnungsbetrag brutto",
+              "17.850,00"
+            ]
+          ],
+          [
+            360,
+            135
+          ]
+        ],
+        "Zahlbar ohne Skonto bis 08.10.2028. Bitte geben Sie bei der Überweisung ausschließlich die Rechnungsnummer LP-28-094 und SW-HI-26-08 an. Zahlungsempfänger ist das im Briefkopf bezeichnete Unternehmen; die hinterlegte Bankverbindung bleibt unverändert. Die Leistung wurde für das Bauvorhaben und den angegebenen Zeitraum erbracht. Rückfragen zur Mengenaufstellung beantwortet die zeichnende Projektleitung."
+      ],
+      "attachments": []
+    },
+    {
+      "number": 88,
+      "filename": "088_Baugrund_Rechnung.pdf",
+      "date": "2027-01-18",
+      "issuer": "geo",
+      "recipient": "bauherr",
+      "title": "Rechnung BP-27-018 – Baugrunduntersuchung",
+      "sections": [
+        "Rechnung Nr. BP-27-018. Rechnungsempfänger ist die Steinbogen Wohnen GmbH, Wohnhof Am Steinbogen 18, 31134 Hildesheim. Bauvorhaben: Neubau mit acht Mietwohnungen am selben Ort. Projektkennung SW-HI-26-08.",
+        "Leistungszeitraum: 02.11.2026 bis 13.01.2027. Steuernummer des leistenden Unternehmens: 30/145/12565.",
+        [
+          "h",
+          "1. Abgerechnete Leistungen"
+        ],
+        [
+          "t",
+          [
+            [
+              "Position / Leistung",
+              "Menge",
+              "Einheit",
+              "Einzel EUR",
+              "Netto EUR"
+            ],
+            [
+              "Feldarbeiten mit sechs Sondierungen und Probenentnahmen",
+              "6,00",
+              "Punkt",
+              "1.100,00",
+              "6.600,00"
+            ],
+            [
+              "Laboruntersuchungen und Gründungsgutachten",
+              "1,00",
+              "Auftrag",
+              "5.400,00",
+              "5.400,00"
+            ]
+          ],
+          [
+            213,
+            49,
+            48,
+            86,
+            99
+          ]
+        ],
+        [
+          "t",
+          [
+            [
+              "Abrechnung",
+              "Betrag EUR"
+            ],
+            [
+              "Entgelt netto",
+              "12.000,00"
+            ],
+            [
+              "Umsatzsteuer 19,00 %",
+              "2.280,00"
+            ],
+            [
+              "Rechnungsbetrag brutto",
+              "14.280,00"
+            ]
+          ],
+          [
+            360,
+            135
+          ]
+        ],
+        "Zahlbar ohne Skonto bis 01.02.2027. Bitte geben Sie bei der Überweisung ausschließlich die Rechnungsnummer BP-27-018 und SW-HI-26-08 an. Zahlungsempfänger ist das im Briefkopf bezeichnete Unternehmen; die hinterlegte Bankverbindung bleibt unverändert. Die Leistung wurde für das Bauvorhaben und den angegebenen Zeitraum erbracht. Rückfragen zur Mengenaufstellung beantwortet die zeichnende Projektleitung."
+      ],
+      "attachments": []
+    },
+    {
+      "number": 89,
+      "filename": "089_Energie_Rechnung.pdf",
+      "date": "2028-09-25",
+      "issuer": "energie",
+      "recipient": "bauherr",
+      "title": "Rechnung EP-28-096 – Energieplanung und Fertigstellungsnachweis",
+      "sections": [
+        "Rechnung Nr. EP-28-096. Rechnungsempfänger ist die Steinbogen Wohnen GmbH, Wohnhof Am Steinbogen 18, 31134 Hildesheim. Bauvorhaben: Neubau mit acht Mietwohnungen am selben Ort. Projektkennung SW-HI-26-08.",
+        "Leistungszeitraum: 15.11.2026 bis 20.09.2028. Steuernummer des leistenden Unternehmens: 30/145/14034.",
+        [
+          "h",
+          "1. Abgerechnete Leistungen"
+        ],
+        [
+          "t",
+          [
+            [
+              "Position / Leistung",
+              "Menge",
+              "Einheit",
+              "Einzel EUR",
+              "Netto EUR"
+            ],
+            [
+              "Energiebilanz und Wärmebrückennachweise",
+              "1,00",
+              "Auftrag",
+              "6.500,00",
+              "6.500,00"
+            ],
+            [
+              "Baubegleitung und energetische Abschlussdokumentation",
+              "1,00",
+              "Auftrag",
+              "3.500,00",
+              "3.500,00"
+            ]
+          ],
+          [
+            213,
+            49,
+            48,
+            86,
+            99
+          ]
+        ],
+        [
+          "t",
+          [
+            [
+              "Abrechnung",
+              "Betrag EUR"
+            ],
+            [
+              "Entgelt netto",
+              "10.000,00"
+            ],
+            [
+              "Umsatzsteuer 19,00 %",
+              "1.900,00"
+            ],
+            [
+              "Rechnungsbetrag brutto",
+              "11.900,00"
+            ]
+          ],
+          [
+            360,
+            135
+          ]
+        ],
+        "Zahlbar ohne Skonto bis 09.10.2028. Bitte geben Sie bei der Überweisung ausschließlich die Rechnungsnummer EP-28-096 und SW-HI-26-08 an. Zahlungsempfänger ist das im Briefkopf bezeichnete Unternehmen; die hinterlegte Bankverbindung bleibt unverändert. Die Leistung wurde für das Bauvorhaben und den angegebenen Zeitraum erbracht. Rückfragen zur Mengenaufstellung beantwortet die zeichnende Projektleitung."
+      ],
+      "attachments": []
+    },
+    {
+      "number": 90,
+      "filename": "090_Brandschutz_Rechnung.pdf",
+      "date": "2028-09-25",
+      "issuer": "brand",
+      "recipient": "bauherr",
+      "title": "Rechnung RW-28-095 – Brandschutzplanung",
+      "sections": [
+        "Rechnung Nr. RW-28-095. Rechnungsempfänger ist die Steinbogen Wohnen GmbH, Wohnhof Am Steinbogen 18, 31134 Hildesheim. Bauvorhaben: Neubau mit acht Mietwohnungen am selben Ort. Projektkennung SW-HI-26-08.",
+        "Leistungszeitraum: 15.11.2026 bis 20.09.2028. Steuernummer des leistenden Unternehmens: 30/145/14147.",
+        [
+          "h",
+          "1. Abgerechnete Leistungen"
+        ],
+        [
+          "t",
+          [
+            [
+              "Position / Leistung",
+              "Menge",
+              "Einheit",
+              "Einzel EUR",
+              "Netto EUR"
+            ],
+            [
+              "Brandschutznachweis und Planabstimmung",
+              "1,00",
+              "Auftrag",
+              "5.500,00",
+              "5.500,00"
+            ],
+            [
+              "Baubegleitende Begehung und Schlussdokumentation",
+              "1,00",
+              "Auftrag",
+              "2.500,00",
+              "2.500,00"
+            ]
+          ],
+          [
+            213,
+            49,
+            48,
+            86,
+            99
+          ]
+        ],
+        [
+          "t",
+          [
+            [
+              "Abrechnung",
+              "Betrag EUR"
+            ],
+            [
+              "Entgelt netto",
+              "8.000,00"
+            ],
+            [
+              "Umsatzsteuer 19,00 %",
+              "1.520,00"
+            ],
+            [
+              "Rechnungsbetrag brutto",
+              "9.520,00"
+            ]
+          ],
+          [
+            360,
+            135
+          ]
+        ],
+        "Zahlbar ohne Skonto bis 09.10.2028. Bitte geben Sie bei der Überweisung ausschließlich die Rechnungsnummer RW-28-095 und SW-HI-26-08 an. Zahlungsempfänger ist das im Briefkopf bezeichnete Unternehmen; die hinterlegte Bankverbindung bleibt unverändert. Die Leistung wurde für das Bauvorhaben und den angegebenen Zeitraum erbracht. Rückfragen zur Mengenaufstellung beantwortet die zeichnende Projektleitung."
+      ],
+      "attachments": []
+    },
+    {
+      "number": 91,
+      "filename": "091_Rohbau_Abschlag1.pdf",
+      "date": "2028-02-15",
+      "issuer": "rohbau",
+      "recipient": "bauherr",
+      "title": "Rechnung SH-28-021 – Rohbau 1. Abschlag",
+      "sections": [
+        "Rechnung Nr. SH-28-021. Rechnungsempfänger ist die Steinbogen Wohnen GmbH, Wohnhof Am Steinbogen 18, 31134 Hildesheim. Bauvorhaben: Neubau mit acht Mietwohnungen am selben Ort. Projektkennung SW-HI-26-08.",
+        "Leistungszeitraum: 01.12.2027 bis 12.02.2028. Steuernummer des leistenden Unternehmens: 30/145/12791.",
+        [
+          "h",
+          "1. Abgerechnete Leistungen"
+        ],
+        [
+          "t",
+          [
+            [
+              "Position / Leistung",
+              "Menge",
+              "Einheit",
+              "Einzel EUR",
+              "Netto EUR"
+            ],
+            [
+              "Baustelleneinrichtung und Vorhaltung gemäß Auftrag",
+              "1,00",
+              "psch",
+              "20.000,00",
+              "20.000,00"
+            ],
+            [
+              "Baugrubenaushub einschließlich vereinbarter Entsorgung",
+              "1.000,00",
+              "m³",
+              "45,00",
+              "45.000,00"
+            ],
+            [
+              "Gründung und Bodenplatte, Beton einschließlich Bewehrung",
+              "225,00",
+              "m³",
+              "600,00",
+              "135.000,00"
+            ]
+          ],
+          [
+            213,
+            49,
+            48,
+            86,
+            99
+          ]
+        ],
+        [
+          "t",
+          [
+            [
+              "Abrechnung",
+              "Betrag EUR"
+            ],
+            [
+              "Entgelt netto",
+              "200.000,00"
+            ],
+            [
+              "Umsatzsteuer 19,00 %",
+              "38.000,00"
+            ],
+            [
+              "Rechnungsbetrag brutto",
+              "238.000,00"
+            ]
+          ],
+          [
+            360,
+            135
+          ]
+        ],
+        "Zahlbar ohne Skonto bis 29.02.2028. Bitte geben Sie bei der Überweisung ausschließlich die Rechnungsnummer SH-28-021 und SW-HI-26-08 an. Zahlungsempfänger ist das im Briefkopf bezeichnete Unternehmen; die hinterlegte Bankverbindung bleibt unverändert. Die Leistung wurde für das Bauvorhaben und den angegebenen Zeitraum erbracht. Rückfragen zur Mengenaufstellung beantwortet die zeichnende Projektleitung."
+      ],
+      "attachments": []
+    },
+    {
+      "number": 92,
+      "filename": "092_Rohbau_Abschlag2.pdf",
+      "date": "2028-04-15",
+      "issuer": "rohbau",
+      "recipient": "bauherr",
+      "title": "Rechnung SH-28-046 – Rohbau 2. Abschlag",
+      "sections": [
+        "Rechnung Nr. SH-28-046. Rechnungsempfänger ist die Steinbogen Wohnen GmbH, Wohnhof Am Steinbogen 18, 31134 Hildesheim. Bauvorhaben: Neubau mit acht Mietwohnungen am selben Ort. Projektkennung SW-HI-26-08.",
+        "Leistungszeitraum: 13.02.2028 bis 12.04.2028. Steuernummer des leistenden Unternehmens: 30/145/12791.",
+        [
+          "h",
+          "1. Abgerechnete Leistungen"
+        ],
+        [
+          "t",
+          [
+            [
+              "Position / Leistung",
+              "Menge",
+              "Einheit",
+              "Einzel EUR",
+              "Netto EUR"
+            ],
+            [
+              "Gründung, verbleibender Beton einschließlich Bewehrung",
+              "25,00",
+              "m³",
+              "600,00",
+              "15.000,00"
+            ],
+            [
+              "Tragende Wandkonstruktionen",
+              "1.000,00",
+              "m²",
+              "180,00",
+              "180.000,00"
+            ],
+            [
+              "Geschossdecken einschließlich Schalung und Bewehrung",
+              "262,50",
+              "m²",
+              "400,00",
+              "105.000,00"
+            ]
+          ],
+          [
+            213,
+            49,
+            48,
+            86,
+            99
+          ]
+        ],
+        [
+          "t",
+          [
+            [
+              "Abrechnung",
+              "Betrag EUR"
+            ],
+            [
+              "Entgelt netto",
+              "300.000,00"
+            ],
+            [
+              "Umsatzsteuer 19,00 %",
+              "57.000,00"
+            ],
+            [
+              "Rechnungsbetrag brutto",
+              "357.000,00"
+            ]
+          ],
+          [
+            360,
+            135
+          ]
+        ],
+        "Der Abschlag erfasst ausschließlich die seit SH-28-021 hinzugekommenen und gemeinsam aufgemessenen Leistungen. Die Gründungsmengen aus beiden Abschlägen ergeben zusammen 250 m³. Der gesonderte Drännachtrag wird nicht in diese Grundvertragsabrechnung einbezogen.",
+        "Zahlbar ohne Skonto bis 29.04.2028. Bitte geben Sie bei der Überweisung ausschließlich die Rechnungsnummer SH-28-046 und SW-HI-26-08 an. Zahlungsempfänger ist das im Briefkopf bezeichnete Unternehmen; die hinterlegte Bankverbindung bleibt unverändert. Die Leistung wurde für das Bauvorhaben und den angegebenen Zeitraum erbracht. Rückfragen zur Mengenaufstellung beantwortet die zeichnende Projektleitung."
+      ],
+      "attachments": []
+    },
+    {
+      "number": 93,
+      "filename": "093_Rohbau_Schlussrechnung.pdf",
+      "date": "2028-09-30",
+      "issuer": "rohbau",
+      "recipient": "bauherr",
+      "title": "Rechnung SH-28-093 – Rohbau Schlussrechnung",
+      "sections": [
+        "Rechnung Nr. SH-28-093. Rechnungsempfänger ist die Steinbogen Wohnen GmbH, Wohnhof Am Steinbogen 18, 31134 Hildesheim. Bauvorhaben: Neubau mit acht Mietwohnungen am selben Ort. Projektkennung SW-HI-26-08.",
+        "Leistungszeitraum: 13.04.2028 bis 15.09.2028. Steuernummer des leistenden Unternehmens: 30/145/12791.",
+        [
+          "h",
+          "1. Abgerechnete Leistungen"
+        ],
+        [
+          "t",
+          [
+            [
+              "Position / Leistung",
+              "Menge",
+              "Einheit",
+              "Einzel EUR",
+              "Netto EUR"
+            ],
+            [
+              "Geschossdecken, Restmenge",
+              "187,50",
+              "m²",
+              "400,00",
+              "75.000,00"
+            ],
+            [
+              "Treppenläufe einschließlich Podesten",
+              "3,00",
+              "Einheit",
+              "25.000,00",
+              "75.000,00"
+            ]
+          ],
+          [
+            213,
+            49,
+            48,
+            86,
+            99
+          ]
+        ],
+        "Die folgenden Beträge bilden die kumulierte Schlussabrechnung. Die vorstehende Positionsliste enthält nur die noch nicht in den Abschlagsrechnungen abgerechneten Mengen. Die bereits abgerechneten Leistungen aus SH-28-021, SH-28-046 bleiben Bestandteil der Gesamtleistung.",
+        [
+          "t",
+          [
+            [
+              "Abrechnung",
+              "Netto EUR",
+              "USt EUR",
+              "Brutto EUR"
+            ],
+            [
+              "Gesamtleistung einschließlich Abschlägen",
+              "650.000,00",
+              "123.500,00",
+              "773.500,00"
+            ],
+            [
+              "Bereits berechnete und vereinnahmte Abschläge",
+              "500.000,00",
+              "95.000,00",
+              "595.000,00"
+            ],
+            [
+              "Verbleibende Forderung dieser Rechnung",
+              "150.000,00",
+              "28.500,00",
+              "178.500,00"
+            ]
+          ],
+          [
+            215,
+            90,
+            90,
+            100
+          ]
+        ],
+        "Grundvertrag 650.000 EUR netto. Der gesondert beauftragte Nachtrag SH-N01 ist zusätzlich in SH-28-N01 abgerechnet und wird hier weder angesetzt noch abgesetzt.",
+        "Zahlbar ohne Skonto bis 14.10.2028. Bitte geben Sie bei der Überweisung ausschließlich die Rechnungsnummer SH-28-093 und SW-HI-26-08 an. Zahlungsempfänger ist das im Briefkopf bezeichnete Unternehmen; die hinterlegte Bankverbindung bleibt unverändert. Die Leistung wurde für das Bauvorhaben und den angegebenen Zeitraum erbracht. Rückfragen zur Mengenaufstellung beantwortet die zeichnende Projektleitung."
+      ],
+      "attachments": []
+    },
+    {
+      "number": 94,
+      "filename": "094_Gebaeudehuelle_Abschlag.pdf",
+      "date": "2028-05-15",
+      "issuer": "huelle",
+      "recipient": "bauherr",
+      "title": "Rechnung DG-28-052 – Gebäudehülle Abschlag",
+      "sections": [
+        "Rechnung Nr. DG-28-052. Rechnungsempfänger ist die Steinbogen Wohnen GmbH, Wohnhof Am Steinbogen 18, 31134 Hildesheim. Bauvorhaben: Neubau mit acht Mietwohnungen am selben Ort. Projektkennung SW-HI-26-08.",
+        "Leistungszeitraum: 01.04.2028 bis 12.05.2028. Steuernummer des leistenden Unternehmens: 30/145/12904.",
+        [
+          "h",
+          "1. Abgerechnete Leistungen"
+        ],
+        [
+          "t",
+          [
+            [
+              "Position / Leistung",
+              "Menge",
+              "Einheit",
+              "Einzel EUR",
+              "Netto EUR"
+            ],
+            [
+              "Dachaufbau einschließlich Abdichtung und Wärmedämmung",
+              "400,00",
+              "m²",
+              "300,00",
+              "120.000,00"
+            ],
+            [
+              "Fenstereinheiten gemäß Fensterliste, erster Abschnitt",
+              "50,00",
+              "Stück",
+              "2.000,00",
+              "100.000,00"
+            ]
+          ],
+          [
+            213,
+            49,
+            48,
+            86,
+            99
+          ]
+        ],
+        [
+          "t",
+          [
+            [
+              "Abrechnung",
+              "Betrag EUR"
+            ],
+            [
+              "Entgelt netto",
+              "220.000,00"
+            ],
+            [
+              "Umsatzsteuer 19,00 %",
+              "41.800,00"
+            ],
+            [
+              "Rechnungsbetrag brutto",
+              "261.800,00"
+            ]
+          ],
+          [
+            360,
+            135
+          ]
+        ],
+        "Zahlbar ohne Skonto bis 29.05.2028. Bitte geben Sie bei der Überweisung ausschließlich die Rechnungsnummer DG-28-052 und SW-HI-26-08 an. Zahlungsempfänger ist das im Briefkopf bezeichnete Unternehmen; die hinterlegte Bankverbindung bleibt unverändert. Die Leistung wurde für das Bauvorhaben und den angegebenen Zeitraum erbracht. Rückfragen zur Mengenaufstellung beantwortet die zeichnende Projektleitung."
+      ],
+      "attachments": []
+    },
+    {
+      "number": 95,
+      "filename": "095_Gebaeudehuelle_Schlussrechnung.pdf",
+      "date": "2028-09-30",
+      "issuer": "huelle",
+      "recipient": "bauherr",
+      "title": "Rechnung DG-28-098 – Gebäudehülle Schlussrechnung",
+      "sections": [
+        "Rechnung Nr. DG-28-098. Rechnungsempfänger ist die Steinbogen Wohnen GmbH, Wohnhof Am Steinbogen 18, 31134 Hildesheim. Bauvorhaben: Neubau mit acht Mietwohnungen am selben Ort. Projektkennung SW-HI-26-08.",
+        "Leistungszeitraum: 13.05.2028 bis 15.09.2028. Steuernummer des leistenden Unternehmens: 30/145/12904.",
+        [
+          "h",
+          "1. Abgerechnete Leistungen"
+        ],
+        [
+          "t",
+          [
+            [
+              "Position / Leistung",
+              "Menge",
+              "Einheit",
+              "Einzel EUR",
+              "Netto EUR"
+            ],
+            [
+              "Fenstereinheiten gemäß Fensterliste, zweiter Abschnitt",
+              "50,00",
+              "Stück",
+              "2.000,00",
+              "100.000,00"
+            ],
+            [
+              "Fassadenbekleidung einschließlich Unterkonstruktion und Dämmung",
+              "800,00",
+              "m²",
+              "150,00",
+              "120.000,00"
+            ]
+          ],
+          [
+            213,
+            49,
+            48,
+            86,
+            99
+          ]
+        ],
+        "Die folgenden Beträge bilden die kumulierte Schlussabrechnung. Die vorstehende Positionsliste enthält nur die noch nicht in den Abschlagsrechnungen abgerechneten Mengen. Die bereits abgerechneten Leistungen aus DG-28-052 bleiben Bestandteil der Gesamtleistung.",
+        [
+          "t",
+          [
+            [
+              "Abrechnung",
+              "Netto EUR",
+              "USt EUR",
+              "Brutto EUR"
+            ],
+            [
+              "Gesamtleistung einschließlich Abschlägen",
+              "440.000,00",
+              "83.600,00",
+              "523.600,00"
+            ],
+            [
+              "Bereits berechnete und vereinnahmte Abschläge",
+              "220.000,00",
+              "41.800,00",
+              "261.800,00"
+            ],
+            [
+              "Verbleibende Forderung dieser Rechnung",
+              "220.000,00",
+              "41.800,00",
+              "261.800,00"
+            ]
+          ],
+          [
+            215,
+            90,
+            90,
+            100
+          ]
+        ],
+        "Zahlbar ohne Skonto bis 14.10.2028. Bitte geben Sie bei der Überweisung ausschließlich die Rechnungsnummer DG-28-098 und SW-HI-26-08 an. Zahlungsempfänger ist das im Briefkopf bezeichnete Unternehmen; die hinterlegte Bankverbindung bleibt unverändert. Die Leistung wurde für das Bauvorhaben und den angegebenen Zeitraum erbracht. Rückfragen zur Mengenaufstellung beantwortet die zeichnende Projektleitung."
+      ],
+      "attachments": []
+    },
+    {
+      "number": 96,
+      "filename": "096_HLS_Abschlag.pdf",
+      "date": "2028-06-15",
+      "issuer": "hls",
+      "recipient": "bauherr",
+      "title": "Rechnung WH-28-063 – Heizung Lüftung Sanitär Abschlag",
+      "sections": [
+        "Rechnung Nr. WH-28-063. Rechnungsempfänger ist die Steinbogen Wohnen GmbH, Wohnhof Am Steinbogen 18, 31134 Hildesheim. Bauvorhaben: Neubau mit acht Mietwohnungen am selben Ort. Projektkennung SW-HI-26-08.",
+        "Leistungszeitraum: 01.05.2028 bis 12.06.2028. Steuernummer des leistenden Unternehmens: 30/145/13017.",
+        [
+          "h",
+          "1. Abgerechnete Leistungen"
+        ],
+        [
+          "t",
+          [
+            [
+              "Position / Leistung",
+              "Menge",
+              "Einheit",
+              "Einzel EUR",
+              "Netto EUR"
+            ],
+            [
+              "Wärmepumpenanlage einschließlich Speicher und Regelung",
+              "1,00",
+              "Anlage",
+              "80.000,00",
+              "80.000,00"
+            ],
+            [
+              "Rohrleitungen einschließlich Dämmung und Befestigung",
+              "1.000,00",
+              "m",
+              "60,00",
+              "60.000,00"
+            ],
+            [
+              "Fußbodenheizung beheizte Flächen",
+              "500,00",
+              "m²",
+              "80,00",
+              "40.000,00"
+            ]
+          ],
+          [
+            213,
+            49,
+            48,
+            86,
+            99
+          ]
+        ],
+        [
+          "t",
+          [
+            [
+              "Abrechnung",
+              "Betrag EUR"
+            ],
+            [
+              "Entgelt netto",
+              "180.000,00"
+            ],
+            [
+              "Umsatzsteuer 19,00 %",
+              "34.200,00"
+            ],
+            [
+              "Rechnungsbetrag brutto",
+              "214.200,00"
+            ]
+          ],
+          [
+            360,
+            135
+          ]
+        ],
+        "Zahlbar ohne Skonto bis 29.06.2028. Bitte geben Sie bei der Überweisung ausschließlich die Rechnungsnummer WH-28-063 und SW-HI-26-08 an. Zahlungsempfänger ist das im Briefkopf bezeichnete Unternehmen; die hinterlegte Bankverbindung bleibt unverändert. Die Leistung wurde für das Bauvorhaben und den angegebenen Zeitraum erbracht. Rückfragen zur Mengenaufstellung beantwortet die zeichnende Projektleitung."
+      ],
+      "attachments": []
+    },
+    {
+      "number": 97,
+      "filename": "097_HLS_Schlussrechnung.pdf",
+      "date": "2028-09-30",
+      "issuer": "hls",
+      "recipient": "bauherr",
+      "title": "Rechnung WH-28-094 – Heizung Lüftung Sanitär Schlussrechnung",
+      "sections": [
+        "Rechnung Nr. WH-28-094. Rechnungsempfänger ist die Steinbogen Wohnen GmbH, Wohnhof Am Steinbogen 18, 31134 Hildesheim. Bauvorhaben: Neubau mit acht Mietwohnungen am selben Ort. Projektkennung SW-HI-26-08.",
+        "Leistungszeitraum: 13.06.2028 bis 15.09.2028. Steuernummer des leistenden Unternehmens: 30/145/13017.",
+        [
+          "h",
+          "1. Abgerechnete Leistungen"
+        ],
+        [
+          "t",
+          [
+            [
+              "Position / Leistung",
+              "Menge",
+              "Einheit",
+              "Einzel EUR",
+              "Netto EUR"
+            ],
+            [
+              "Sanitärausstattung und Wohnungsanschlüsse",
+              "8,00",
+              "Wohnung",
+              "12.000,00",
+              "96.000,00"
+            ],
+            [
+              "Lüftungseinheiten und Verteilung",
+              "8,00",
+              "Wohnung",
+              "8.000,00",
+              "64.000,00"
+            ],
+            [
+              "Inbetriebnahme, Abgleich und Dokumentation",
+              "1,00",
+              "Auftrag",
+              "20.000,00",
+              "20.000,00"
+            ]
+          ],
+          [
+            213,
+            49,
+            48,
+            86,
+            99
+          ]
+        ],
+        "Die folgenden Beträge bilden die kumulierte Schlussabrechnung. Die vorstehende Positionsliste enthält nur die noch nicht in den Abschlagsrechnungen abgerechneten Mengen. Die bereits abgerechneten Leistungen aus WH-28-063 bleiben Bestandteil der Gesamtleistung.",
+        [
+          "t",
+          [
+            [
+              "Abrechnung",
+              "Netto EUR",
+              "USt EUR",
+              "Brutto EUR"
+            ],
+            [
+              "Gesamtleistung einschließlich Abschlägen",
+              "360.000,00",
+              "68.400,00",
+              "428.400,00"
+            ],
+            [
+              "Bereits berechnete und vereinnahmte Abschläge",
+              "180.000,00",
+              "34.200,00",
+              "214.200,00"
+            ],
+            [
+              "Verbleibende Forderung dieser Rechnung",
+              "180.000,00",
+              "34.200,00",
+              "214.200,00"
+            ]
+          ],
+          [
+            215,
+            90,
+            90,
+            100
+          ]
+        ],
+        "Zahlbar ohne Skonto bis 14.10.2028. Bitte geben Sie bei der Überweisung ausschließlich die Rechnungsnummer WH-28-094 und SW-HI-26-08 an. Zahlungsempfänger ist das im Briefkopf bezeichnete Unternehmen; die hinterlegte Bankverbindung bleibt unverändert. Die Leistung wurde für das Bauvorhaben und den angegebenen Zeitraum erbracht. Rückfragen zur Mengenaufstellung beantwortet die zeichnende Projektleitung."
+      ],
+      "attachments": []
+    },
+    {
+      "number": 98,
+      "filename": "098_Elektro_Abschlag.pdf",
+      "date": "2028-06-01",
+      "issuer": "elektro",
+      "recipient": "bauherr",
+      "title": "Rechnung LE-28-061 – Elektro Abschlag",
+      "sections": [
+        "Rechnung Nr. LE-28-061. Rechnungsempfänger ist die Steinbogen Wohnen GmbH, Wohnhof Am Steinbogen 18, 31134 Hildesheim. Bauvorhaben: Neubau mit acht Mietwohnungen am selben Ort. Projektkennung SW-HI-26-08.",
+        "Leistungszeitraum: 01.05.2028 bis 30.05.2028. Steuernummer des leistenden Unternehmens: 30/145/13130.",
+        [
+          "h",
+          "1. Abgerechnete Leistungen"
+        ],
+        [
+          "t",
+          [
+            [
+              "Position / Leistung",
+              "Menge",
+              "Einheit",
+              "Einzel EUR",
+              "Netto EUR"
+            ],
+            [
+              "Wohnungsinstallationen gemäß Raumbuch",
+              "8,00",
+              "Wohnung",
+              "6.500,00",
+              "52.000,00"
+            ],
+            [
+              "Hauptverteilung und Messkonzept",
+              "1,00",
+              "Anlage",
+              "23.000,00",
+              "23.000,00"
+            ]
+          ],
+          [
+            213,
+            49,
+            48,
+            86,
+            99
+          ]
+        ],
+        [
+          "t",
+          [
+            [
+              "Abrechnung",
+              "Betrag EUR"
+            ],
+            [
+              "Entgelt netto",
+              "75.000,00"
+            ],
+            [
+              "Umsatzsteuer 19,00 %",
+              "14.250,00"
+            ],
+            [
+              "Rechnungsbetrag brutto",
+              "89.250,00"
+            ]
+          ],
+          [
+            360,
+            135
+          ]
+        ],
+        "Zahlbar ohne Skonto bis 15.06.2028. Bitte geben Sie bei der Überweisung ausschließlich die Rechnungsnummer LE-28-061 und SW-HI-26-08 an. Zahlungsempfänger ist das im Briefkopf bezeichnete Unternehmen; die hinterlegte Bankverbindung bleibt unverändert. Die Leistung wurde für das Bauvorhaben und den angegebenen Zeitraum erbracht. Rückfragen zur Mengenaufstellung beantwortet die zeichnende Projektleitung."
+      ],
+      "attachments": []
+    },
+    {
+      "number": 99,
+      "filename": "099_Elektro_PV_Schlussrechnung.pdf",
+      "date": "2028-09-30",
+      "issuer": "elektro",
+      "recipient": "bauherr",
+      "title": "Rechnung LE-28-098 – Elektro und Ladeinfrastruktur Schlussrechnung",
+      "sections": [
+        "Rechnung Nr. LE-28-098. Rechnungsempfänger ist die Steinbogen Wohnen GmbH, Wohnhof Am Steinbogen 18, 31134 Hildesheim. Bauvorhaben: Neubau mit acht Mietwohnungen am selben Ort. Projektkennung SW-HI-26-08.",
+        "Leistungszeitraum: 31.05.2028 bis 15.09.2028. Steuernummer des leistenden Unternehmens: 30/145/13130.",
+        [
+          "h",
+          "1. Abgerechnete Leistungen"
+        ],
+        [
+          "t",
+          [
+            [
+              "Position / Leistung",
+              "Menge",
+              "Einheit",
+              "Einzel EUR",
+              "Netto EUR"
+            ],
+            [
+              "Vorverkabelung für acht Stellplätze und zwei Ladepunkte gemäß Ausführungsplan",
+              "1,00",
+              "Auftrag",
+              "18.000,00",
+              "18.000,00"
+            ],
+            [
+              "Allgemeinbeleuchtung und Außeninstallation",
+              "1,00",
+              "Auftrag",
+              "6.000,00",
+              "6.000,00"
+            ],
+            [
+              "Aufzugszuleitung, Prüfungen und Dokumentation",
+              "1,00",
+              "Auftrag",
+              "6.000,00",
+              "6.000,00"
+            ]
+          ],
+          [
+            213,
+            49,
+            48,
+            86,
+            99
+          ]
+        ],
+        "Die folgenden Beträge bilden die kumulierte Schlussabrechnung. Die vorstehende Positionsliste enthält nur die noch nicht in den Abschlagsrechnungen abgerechneten Mengen. Die bereits abgerechneten Leistungen aus LE-28-061 bleiben Bestandteil der Gesamtleistung.",
+        [
+          "t",
+          [
+            [
+              "Abrechnung",
+              "Netto EUR",
+              "USt EUR",
+              "Brutto EUR"
+            ],
+            [
+              "Gesamtleistung einschließlich Abschlägen",
+              "105.000,00",
+              "19.950,00",
+              "124.950,00"
+            ],
+            [
+              "Bereits berechnete und vereinnahmte Abschläge",
+              "75.000,00",
+              "14.250,00",
+              "89.250,00"
+            ],
+            [
+              "Verbleibende Forderung dieser Rechnung",
+              "30.000,00",
+              "5.700,00",
+              "35.700,00"
+            ]
+          ],
+          [
+            215,
+            90,
+            90,
+            100
+          ]
+        ],
+        "Der Elektroauftrag ohne die separat gelieferte PV-Anlage beträgt 105.000 EUR netto. Die eigenständige PV-Lieferung und Montage über 45.000 EUR wird ausschließlich mit LE-PV-28-099 abgerechnet. Ein Mieterstromliefermodell ist nicht Gegenstand dieses Auftrags. Die Zahlungseingänge zur Abschlagsrechnung werden außerhalb der Schlussabrechnung in der Debitorenbuchhaltung zugeordnet.",
+        "Zahlbar ohne Skonto bis 14.10.2028. Bitte geben Sie bei der Überweisung ausschließlich die Rechnungsnummer LE-28-098 und SW-HI-26-08 an. Zahlungsempfänger ist das im Briefkopf bezeichnete Unternehmen; die hinterlegte Bankverbindung bleibt unverändert. Die Leistung wurde für das Bauvorhaben und den angegebenen Zeitraum erbracht. Rückfragen zur Mengenaufstellung beantwortet die zeichnende Projektleitung."
+      ],
+      "attachments": []
+    },
+    {
+      "number": 100,
+      "filename": "100_Innenausbau_Abschlag.pdf",
+      "date": "2028-07-15",
+      "issuer": "ausbau",
+      "recipient": "bauherr",
+      "title": "Rechnung IA-28-074 – Innenausbau Abschlag",
+      "sections": [
+        "Rechnung Nr. IA-28-074. Rechnungsempfänger ist die Steinbogen Wohnen GmbH, Wohnhof Am Steinbogen 18, 31134 Hildesheim. Bauvorhaben: Neubau mit acht Mietwohnungen am selben Ort. Projektkennung SW-HI-26-08.",
+        "Leistungszeitraum: 01.06.2028 bis 12.07.2028. Steuernummer des leistenden Unternehmens: 30/145/13243.",
+        [
+          "h",
+          "1. Abgerechnete Leistungen"
+        ],
+        [
+          "t",
+          [
+            [
+              "Position / Leistung",
+              "Menge",
+              "Einheit",
+              "Einzel EUR",
+              "Netto EUR"
+            ],
+            [
+              "Estrich einschließlich Vorbereitung und Randstreifen",
+              "1.000,00",
+              "m²",
+              "40,00",
+              "40.000,00"
+            ],
+            [
+              "Innenputz und Spachtelarbeiten",
+              "2.200,00",
+              "m²",
+              "50,00",
+              "110.000,00"
+            ]
+          ],
+          [
+            213,
+            49,
+            48,
+            86,
+            99
+          ]
+        ],
+        [
+          "t",
+          [
+            [
+              "Abrechnung",
+              "Betrag EUR"
+            ],
+            [
+              "Entgelt netto",
+              "150.000,00"
+            ],
+            [
+              "Umsatzsteuer 19,00 %",
+              "28.500,00"
+            ],
+            [
+              "Rechnungsbetrag brutto",
+              "178.500,00"
+            ]
+          ],
+          [
+            360,
+            135
+          ]
+        ],
+        "Zahlbar ohne Skonto bis 29.07.2028. Bitte geben Sie bei der Überweisung ausschließlich die Rechnungsnummer IA-28-074 und SW-HI-26-08 an. Zahlungsempfänger ist das im Briefkopf bezeichnete Unternehmen; die hinterlegte Bankverbindung bleibt unverändert. Die Leistung wurde für das Bauvorhaben und den angegebenen Zeitraum erbracht. Rückfragen zur Mengenaufstellung beantwortet die zeichnende Projektleitung."
+      ],
+      "attachments": []
+    },
+    {
+      "number": 101,
+      "filename": "101_Innenausbau_Schlussrechnung.pdf",
+      "date": "2028-09-30",
+      "issuer": "ausbau",
+      "recipient": "bauherr",
+      "title": "Rechnung IA-28-095 – Innenausbau Schlussrechnung",
+      "sections": [
+        "Rechnung Nr. IA-28-095. Rechnungsempfänger ist die Steinbogen Wohnen GmbH, Wohnhof Am Steinbogen 18, 31134 Hildesheim. Bauvorhaben: Neubau mit acht Mietwohnungen am selben Ort. Projektkennung SW-HI-26-08.",
+        "Leistungszeitraum: 13.07.2028 bis 15.09.2028. Steuernummer des leistenden Unternehmens: 30/145/13243.",
+        [
+          "h",
+          "1. Abgerechnete Leistungen"
+        ],
+        [
+          "t",
+          [
+            [
+              "Position / Leistung",
+              "Menge",
+              "Einheit",
+              "Einzel EUR",
+              "Netto EUR"
+            ],
+            [
+              "Bodenbeläge gemäß Raumbuch",
+              "600,00",
+              "m²",
+              "100,00",
+              "60.000,00"
+            ],
+            [
+              "Innentüren einschließlich Zargen und Beschlägen",
+              "80,00",
+              "Stück",
+              "500,00",
+              "40.000,00"
+            ],
+            [
+              "Malerarbeiten einschließlich Untergrundbehandlung",
+              "2.500,00",
+              "m²",
+              "20,00",
+              "50.000,00"
+            ]
+          ],
+          [
+            213,
+            49,
+            48,
+            86,
+            99
+          ]
+        ],
+        "Die folgenden Beträge bilden die kumulierte Schlussabrechnung. Die vorstehende Positionsliste enthält nur die noch nicht in den Abschlagsrechnungen abgerechneten Mengen. Die bereits abgerechneten Leistungen aus IA-28-074 bleiben Bestandteil der Gesamtleistung.",
+        [
+          "t",
+          [
+            [
+              "Abrechnung",
+              "Netto EUR",
+              "USt EUR",
+              "Brutto EUR"
+            ],
+            [
+              "Gesamtleistung einschließlich Abschlägen",
+              "300.000,00",
+              "57.000,00",
+              "357.000,00"
+            ],
+            [
+              "Bereits berechnete und vereinnahmte Abschläge",
+              "150.000,00",
+              "28.500,00",
+              "178.500,00"
+            ],
+            [
+              "Verbleibende Forderung dieser Rechnung",
+              "150.000,00",
+              "28.500,00",
+              "178.500,00"
+            ]
+          ],
+          [
+            215,
+            90,
+            90,
+            100
+          ]
+        ],
+        "Zahlbar ohne Skonto bis 14.10.2028. Bitte geben Sie bei der Überweisung ausschließlich die Rechnungsnummer IA-28-095 und SW-HI-26-08 an. Zahlungsempfänger ist das im Briefkopf bezeichnete Unternehmen; die hinterlegte Bankverbindung bleibt unverändert. Die Leistung wurde für das Bauvorhaben und den angegebenen Zeitraum erbracht. Rückfragen zur Mengenaufstellung beantwortet die zeichnende Projektleitung."
+      ],
+      "attachments": []
+    },
+    {
+      "number": 102,
+      "filename": "102_Aufzug_Schlussrechnung.pdf",
+      "date": "2028-09-30",
+      "issuer": "aufzug",
+      "recipient": "bauherr",
+      "title": "Rechnung HA-28-093 – Aufzugsanlage",
+      "sections": [
+        "Rechnung Nr. HA-28-093. Rechnungsempfänger ist die Steinbogen Wohnen GmbH, Wohnhof Am Steinbogen 18, 31134 Hildesheim. Bauvorhaben: Neubau mit acht Mietwohnungen am selben Ort. Projektkennung SW-HI-26-08.",
+        "Leistungszeitraum: 01.07.2028 bis 15.09.2028. Steuernummer des leistenden Unternehmens: 30/145/13356.",
+        [
+          "h",
+          "1. Abgerechnete Leistungen"
+        ],
+        [
+          "t",
+          [
+            [
+              "Position / Leistung",
+              "Menge",
+              "Einheit",
+              "Einzel EUR",
+              "Netto EUR"
+            ],
+            [
+              "Aufzugsanlage einschließlich Steuerung und Kabine",
+              "1,00",
+              "Anlage",
+              "42.000,00",
+              "42.000,00"
+            ],
+            [
+              "Montage und Anschlussarbeiten",
+              "1,00",
+              "Auftrag",
+              "12.000,00",
+              "12.000,00"
+            ],
+            [
+              "Prüfungen, Inbetriebnahme und Betreiberunterlagen",
+              "1,00",
+              "Auftrag",
+              "6.000,00",
+              "6.000,00"
+            ]
+          ],
+          [
+            213,
+            49,
+            48,
+            86,
+            99
+          ]
+        ],
+        [
+          "t",
+          [
+            [
+              "Abrechnung",
+              "Betrag EUR"
+            ],
+            [
+              "Entgelt netto",
+              "60.000,00"
+            ],
+            [
+              "Umsatzsteuer 19,00 %",
+              "11.400,00"
+            ],
+            [
+              "Rechnungsbetrag brutto",
+              "71.400,00"
+            ]
+          ],
+          [
+            360,
+            135
+          ]
+        ],
+        "Zahlbar ohne Skonto bis 14.10.2028. Bitte geben Sie bei der Überweisung ausschließlich die Rechnungsnummer HA-28-093 und SW-HI-26-08 an. Zahlungsempfänger ist das im Briefkopf bezeichnete Unternehmen; die hinterlegte Bankverbindung bleibt unverändert. Die Leistung wurde für das Bauvorhaben und den angegebenen Zeitraum erbracht. Rückfragen zur Mengenaufstellung beantwortet die zeichnende Projektleitung."
+      ],
+      "attachments": []
+    },
+    {
+      "number": 103,
+      "filename": "103_Aussenanlagen_Schlussrechnung.pdf",
+      "date": "2028-11-15",
+      "issuer": "aussen",
+      "recipient": "bauherr",
+      "title": "Rechnung GG-28-115 – Außenanlagen und Entwässerung",
+      "sections": [
+        "Rechnung Nr. GG-28-115. Rechnungsempfänger ist die Steinbogen Wohnen GmbH, Wohnhof Am Steinbogen 18, 31134 Hildesheim. Bauvorhaben: Neubau mit acht Mietwohnungen am selben Ort. Projektkennung SW-HI-26-08.",
+        "Leistungszeitraum: 01.08.2028 bis 10.11.2028. Steuernummer des leistenden Unternehmens: 30/145/13469.",
+        [
+          "h",
+          "1. Abgerechnete Leistungen"
+        ],
+        [
+          "t",
+          [
+            [
+              "Position / Leistung",
+              "Menge",
+              "Einheit",
+              "Einzel EUR",
+              "Netto EUR"
+            ],
+            [
+              "Befestigte Flächen einschließlich Unterbau",
+              "500,00",
+              "m²",
+              "100,00",
+              "50.000,00"
+            ],
+            [
+              "Außenentwässerung einschließlich Schächten",
+              "200,00",
+              "m",
+              "200,00",
+              "40.000,00"
+            ],
+            [
+              "Pflanzflächen einschließlich Bodenvorbereitung",
+              "300,00",
+              "m²",
+              "60,00",
+              "18.000,00"
+            ],
+            [
+              "Fahrradabstellanlage und Einfriedung",
+              "1,00",
+              "Auftrag",
+              "12.000,00",
+              "12.000,00"
+            ]
+          ],
+          [
+            213,
+            49,
+            48,
+            86,
+            99
+          ]
+        ],
+        [
+          "t",
+          [
+            [
+              "Abrechnung",
+              "Betrag EUR"
+            ],
+            [
+              "Entgelt netto",
+              "120.000,00"
+            ],
+            [
+              "Umsatzsteuer 19,00 %",
+              "22.800,00"
+            ],
+            [
+              "Rechnungsbetrag brutto",
+              "142.800,00"
+            ]
+          ],
+          [
+            360,
+            135
+          ]
+        ],
+        "Zahlbar ohne Skonto bis 29.11.2028. Bitte geben Sie bei der Überweisung ausschließlich die Rechnungsnummer GG-28-115 und SW-HI-26-08 an. Zahlungsempfänger ist das im Briefkopf bezeichnete Unternehmen; die hinterlegte Bankverbindung bleibt unverändert. Die Leistung wurde für das Bauvorhaben und den angegebenen Zeitraum erbracht. Rückfragen zur Mengenaufstellung beantwortet die zeichnende Projektleitung."
+      ],
+      "attachments": []
+    },
+    {
+      "number": 104,
+      "filename": "104_Hausanschluesse_Rechnung.pdf",
+      "date": "2028-08-20",
+      "issuer": "versorger",
+      "recipient": "bauherr",
+      "title": "Rechnung LN-28-081 – Hausanschlüsse",
+      "sections": [
+        "Rechnung Nr. LN-28-081. Rechnungsempfänger ist die Steinbogen Wohnen GmbH, Wohnhof Am Steinbogen 18, 31134 Hildesheim. Bauvorhaben: Neubau mit acht Mietwohnungen am selben Ort. Projektkennung SW-HI-26-08.",
+        "Leistungszeitraum: 01.07.2028 bis 15.08.2028. Steuernummer des leistenden Unternehmens: 30/145/14373.",
+        [
+          "h",
+          "1. Abgerechnete Leistungen"
+        ],
+        [
+          "t",
+          [
+            [
+              "Position / Leistung",
+              "Menge",
+              "Einheit",
+              "Einzel EUR",
+              "Netto EUR"
+            ],
+            [
+              "Trinkwasseranschluss Grundstück bis Übergabestelle",
+              "1,00",
+              "Anschluss",
+              "8.500,00",
+              "8.500,00"
+            ],
+            [
+              "Schmutzwasseranschluss und Übergabeschacht",
+              "1,00",
+              "Anschluss",
+              "12.000,00",
+              "12.000,00"
+            ],
+            [
+              "Stromanschluss einschließlich Netzanschlussschrank",
+              "1,00",
+              "Anschluss",
+              "14.500,00",
+              "14.500,00"
+            ]
+          ],
+          [
+            213,
+            49,
+            48,
+            86,
+            99
+          ]
+        ],
+        [
+          "t",
+          [
+            [
+              "Abrechnung",
+              "Betrag EUR"
+            ],
+            [
+              "Entgelt netto",
+              "35.000,00"
+            ],
+            [
+              "Umsatzsteuer 19,00 %",
+              "6.650,00"
+            ],
+            [
+              "Rechnungsbetrag brutto",
+              "41.650,00"
+            ]
+          ],
+          [
+            360,
+            135
+          ]
+        ],
+        "Zahlbar ohne Skonto bis 03.09.2028. Bitte geben Sie bei der Überweisung ausschließlich die Rechnungsnummer LN-28-081 und SW-HI-26-08 an. Zahlungsempfänger ist das im Briefkopf bezeichnete Unternehmen; die hinterlegte Bankverbindung bleibt unverändert. Die Leistung wurde für das Bauvorhaben und den angegebenen Zeitraum erbracht. Rückfragen zur Mengenaufstellung beantwortet die zeichnende Projektleitung."
+      ],
+      "attachments": []
+    },
+    {
+      "number": 105,
+      "filename": "105_Rohbau_Nachtrag_Draenpackung.pdf",
+      "date": "2028-03-05",
+      "issuer": "rohbau",
+      "recipient": "bauherr",
+      "title": "Rechnung SH-28-N01 – Nachtrag Drän- und Filterpackung",
+      "sections": [
+        "Rechnung Nr. SH-28-N01. Rechnungsempfänger ist die Steinbogen Wohnen GmbH, Wohnhof Am Steinbogen 18, 31134 Hildesheim. Bauvorhaben: Neubau mit acht Mietwohnungen am selben Ort. Projektkennung SW-HI-26-08.",
+        "Leistungszeitraum: 07.02.2028 bis 11.02.2028. Steuernummer des leistenden Unternehmens: 30/145/12791.",
+        [
+          "h",
+          "1. Abgerechnete Leistungen"
+        ],
+        [
+          "t",
+          [
+            [
+              "Position / Leistung",
+              "Menge",
+              "Einheit",
+              "Einzel EUR",
+              "Netto EUR"
+            ],
+            [
+              "Zusätzlicher Aushub gemäß Freigabe vom 05.02.2028",
+              "60,00",
+              "m³",
+              "85,00",
+              "5.100,00"
+            ],
+            [
+              "Filtermaterial liefern und einbauen",
+              "45,00",
+              "m³",
+              "160,00",
+              "7.200,00"
+            ],
+            [
+              "Zusätzliche Dränleitung mit Filtervlies",
+              "30,00",
+              "m",
+              "95,00",
+              "2.850,00"
+            ],
+            [
+              "Zusätzliche Arbeitsstunden gemäß bestätigtem Stundenbericht",
+              "57,00",
+              "Stunde",
+              "50,00",
+              "2.850,00"
+            ]
+          ],
+          [
+            213,
+            49,
+            48,
+            86,
+            99
+          ]
+        ],
+        [
+          "t",
+          [
+            [
+              "Abrechnung",
+              "Betrag EUR"
+            ],
+            [
+              "Entgelt netto",
+              "18.000,00"
+            ],
+            [
+              "Umsatzsteuer 19,00 %",
+              "3.420,00"
+            ],
+            [
+              "Rechnungsbetrag brutto",
+              "21.420,00"
+            ]
+          ],
+          [
+            360,
+            135
+          ]
+        ],
+        "Grundlage ist die schriftliche Beauftragung SH-N01 vom 05.02.2028 nach dem Ortstermin zur abweichenden Bodenschicht. Der Preis von 18.000 EUR netto ergänzt den Grundvertrag. Die Mengen und Stunden wurden im gemeinsamen Aufmaß vom 11.02.2028 bestätigt.",
+        "Zahlbar ohne Skonto bis 19.03.2028. Bitte geben Sie bei der Überweisung ausschließlich die Rechnungsnummer SH-28-N01 und SW-HI-26-08 an. Zahlungsempfänger ist das im Briefkopf bezeichnete Unternehmen; die hinterlegte Bankverbindung bleibt unverändert. Die Leistung wurde für das Bauvorhaben und den angegebenen Zeitraum erbracht. Rückfragen zur Mengenaufstellung beantwortet die zeichnende Projektleitung."
+      ],
+      "attachments": []
+    },
+    {
+      "number": 106,
+      "filename": "106_Innenausbau_Rechnungskorrektur.pdf",
+      "date": "2028-10-15",
+      "issuer": "ausbau",
+      "recipient": "bauherr",
+      "title": "Rechnungskorrektur IA-G-28-017 – Rechnungskorrektur zu IA-28-095",
+      "sections": [
+        "Rechnungskorrektur Nr. IA-G-28-017. Rechnungsempfänger ist die Steinbogen Wohnen GmbH, Wohnhof Am Steinbogen 18, 31134 Hildesheim. Bauvorhaben: Neubau mit acht Mietwohnungen am selben Ort. Projektkennung SW-HI-26-08.",
+        "Leistungszeitraum: 15.10.2028. Steuernummer des leistenden Unternehmens: 30/145/13243.",
+        [
+          "h",
+          "1. Abgerechnete Leistungen"
+        ],
+        [
+          "t",
+          [
+            [
+              "Position / Leistung",
+              "Menge",
+              "Einheit",
+              "Einzel EUR",
+              "Netto EUR"
+            ],
+            [
+              "Vereinbarte Entgeltminderung für die abweichende Belagsausführung in Wohnung 07 gemäß Vereinbarung vom 15.10.2028",
+              "1,00",
+              "Vereinbarung",
+              "-2.500,00",
+              "-2.500,00"
+            ]
+          ],
+          [
+            213,
+            49,
+            48,
+            86,
+            99
+          ]
+        ],
+        [
+          "t",
+          [
+            [
+              "Abrechnung",
+              "Betrag EUR"
+            ],
+            [
+              "Entgelt netto",
+              "-2.500,00"
+            ],
+            [
+              "Umsatzsteuer 19,00 %",
+              "-475,00"
+            ],
+            [
+              "Rechnungsbetrag brutto",
+              "-2.975,00"
+            ]
+          ],
+          [
+            360,
+            135
+          ]
+        ],
+        "Diese Korrektur bezieht sich ausschließlich auf IA-28-095 vom 30.09.2028. Sie ist eine Entgeltminderung des leistenden Unternehmers und keine Abrechnungsgutschrift des Auftraggebers.",
+        "Der Betrag wird auf das bekannte Projektkonto der Auftraggeberin zurückgezahlt. Die Rechnungskorrektur ändert nur den vorstehend bezeichneten Leistungsumfang; die übrigen Positionen der ursprünglichen Rechnung bleiben bestehen."
+      ],
+      "attachments": []
+    },
+    {
+      "number": 119,
+      "filename": "119_PV_Lieferung_Montage_Nullsteuersatz.pdf",
+      "date": "2028-09-30",
+      "issuer": "elektro",
+      "recipient": "bauherr",
+      "title": "Rechnung LE-PV-28-099 – PV-Anlage Lieferung und Montage",
+      "sections": [
+        "Rechnung Nr. LE-PV-28-099. Rechnungsempfänger ist die Steinbogen Wohnen GmbH, Wohnhof Am Steinbogen 18, 31134 Hildesheim. Bauvorhaben: Neubau mit acht Mietwohnungen am selben Ort. Projektkennung SW-HI-26-08.",
+        "Leistungszeitraum: 01.08.2028 bis 15.09.2028. Steuernummer des leistenden Unternehmens: 30/145/13130.",
+        [
+          "h",
+          "1. Abgerechnete Leistungen"
+        ],
+        [
+          "t",
+          [
+            [
+              "Position / Leistung",
+              "Menge",
+              "Einheit",
+              "Einzel EUR",
+              "Netto EUR"
+            ],
+            [
+              "Solarmodule mit je 450 W Nennleistung einschließlich Unterkonstruktion",
+              "80,00",
+              "Modul",
+              "400,00",
+              "32.000,00"
+            ],
+            [
+              "Wechselrichter, Anlagenverkabelung und Inbetriebnahme",
+              "1,00",
+              "Anlage",
+              "13.000,00",
+              "13.000,00"
+            ]
+          ],
+          [
+            213,
+            49,
+            48,
+            86,
+            99
+          ]
+        ],
+        [
+          "t",
+          [
+            [
+              "Abrechnung",
+              "Betrag EUR"
+            ],
+            [
+              "Entgelt netto",
+              "45.000,00"
+            ],
+            [
+              "Umsatzsteuer 0,00 %",
+              "0,00"
+            ],
+            [
+              "Rechnungsbetrag brutto",
+              "45.000,00"
+            ]
+          ],
+          [
+            360,
+            135
+          ]
+        ],
+        "Umsatzsteuersatz 0 % gemäß § 12 Absatz 3 Nummern 1 und 4 UStG. Lieferung und Installation erfolgen an die Steinbogen Wohnen GmbH als Betreiberin der 36-kWp-Anlage auf dem Dach ihres Wohngebäudes mit acht Wohnungen. Gebäudeart und Betreiberstellung sind im Auftrag und in den Übergabeunterlagen dokumentiert. Die Leistung betrifft die PV-Anlage; allgemeine Elektroinstallation und Ladepunkte sind nicht in dieser Rechnung enthalten.",
+        "Zahlbar ohne Skonto bis 14.10.2028. Bitte geben Sie bei der Überweisung ausschließlich die Rechnungsnummer LE-PV-28-099 und SW-HI-26-08 an. Zahlungsempfänger ist das im Briefkopf bezeichnete Unternehmen; die hinterlegte Bankverbindung bleibt unverändert. Die Leistung wurde für das Bauvorhaben und den angegebenen Zeitraum erbracht. Rückfragen zur Mengenaufstellung beantwortet die zeichnende Projektleitung."
+      ],
+      "attachments": []
+    },
+    {
+      "number": 107,
+      "filename": "107_Darlehensvereinbarung.docx",
+      "date": "2026-12-19",
+      "issuer": "bank",
+      "recipient": "bauherr",
+      "title": "Projektfinanzierung SW-HI-26-08",
+      "sections": [
+        [
+          "h",
+          "1. Vertragsparteien und Kredit"
+        ],
+        "Die Leinebogen Projektbank AG gewährt der Steinbogen Wohnen GmbH zur Finanzierung des Neubaus Wohnhof Am Steinbogen 18 in Hildesheim ein Darlehen von 1.600.000,00 EUR. Die Geschäftsführerin Maren Birk handelt für die Darlehensnehmerin. Das Darlehen wird auf das ausschließlich für die Bauinvestition geführte Projektkonto ausgezahlt.",
+        [
+          "h",
+          "2. Auszahlung und Besicherung"
+        ],
+        "Die Bank zahlt 400.000,00 EUR zum 01.01.2027, 400.000,00 EUR zum 01.07.2027 und 800.000,00 EUR zum 01.10.2027 aus. Voraussetzung sind der Nachweis des Grundstückserwerbs und die vereinbarte erstrangige Grundschuld von 1.600.000,00 EUR. Die Sicherungszweckerklärung wird gesondert beurkundet beziehungsweise vereinbart. Eine weitergehende Sicherheit für fremde Verbindlichkeiten wird mit diesem Vertrag nicht bestellt.",
+        [
+          "h",
+          "3. Zinsen und Entgelt"
+        ],
+        "Der feste Sollzinssatz beträgt 3,60 % jährlich. Für die Bauphase bis 31.12.2028 werden die Zinsen nach der kaufmännischen Methode 30/360 berechnet und jeweils zum Jahresende dem Projektkonto belastet. Zusätzlich ist ein zwischen den Parteien individuell ausgehandeltes Finanzierungsentgelt von 10.000,00 EUR bei der ersten Auszahlung fällig. Die Bank gewährt für das Projekt einmalig eine Zinsvergütung von 6.400,00 EUR, die in der Zinsabrechnung 2028 verrechnet wird. Sie ist von keiner öffentlichen Förderzusage abhängig.",
+        [
+          "page"
+        ],
+        [
+          "h",
+          "4. Tilgung und Zahlungsweg"
+        ],
+        "Bis 31.12.2028 ist das Darlehen tilgungsfrei. Ab 01.01.2029 beträgt die anfängliche jährliche Tilgung 1,50 % des ursprünglichen Darlehensbetrags. Zusammen mit dem Sollzins ergibt sich eine jährliche Annuität von 81.600,00 EUR, zahlbar in zwölf gleichen Monatsraten von 6.800,00 EUR vom gesonderten Mietbetriebskonto. Innerhalb der gleichbleibenden Rate wächst der Tilgungsanteil, soweit der Zinsanteil durch die Tilgung sinkt. Der Sollzinssatz ist bis 31.12.2038 gebunden. Die Anschlussregelung und die dann verbleibende Restschuld werden vor Ablauf gesondert vereinbart.",
+        [
+          "h",
+          "5. Projektkonto und Unterlagen"
+        ],
+        "Das Projektkonto wird bis zum Ausgleich der letzten Architektenforderung ohne Habenzins und ohne weitere Kontoführungsentgelte geführt. Mieten, Mietkautionen und laufende Bewirtschaftungsvorgänge werden über andere Konten abgewickelt. Die Darlehensnehmerin übersendet der Bank die Kostenfortschreibung und wesentliche Änderungen des Bauvorhabens. Die Bank darf Auszahlungen nur bei Fehlen einer vereinbarten Auszahlungsvoraussetzung zurückhalten.",
+        [
+          "h",
+          "6. Abschluss"
+        ],
+        "Die Parteien haben die Bestimmungen gemeinsam am 19.12.2026 besprochen. Vertragsänderungen werden in Textform festgehalten. Gesetzliche Kündigungsrechte bleiben unberührt. Beide Parteien erhalten eine gleichlautende Ausfertigung. Für die Bank: Petra West. Für die Darlehensnehmerin: Maren Birk. Beide haben die Vereinbarung am 19.12.2026 unterzeichnet."
+      ],
+      "attachments": []
+    },
+    {
+      "number": 108,
+      "filename": "108_Eigenkapital_und_Vermietungsannahmen.docx",
+      "date": "2026-12-20",
+      "issuer": "bauherr",
+      "recipient": "bauherr",
+      "title": "Gesellschafterbeschluss zur Projektfinanzierung und Vermietungsplanung",
+      "sections": [
+        [
+          "h",
+          "1. Eigenkapital"
+        ],
+        "Die Alleingesellschafterin Steinbogen Beteiligungen GmbH beschließt, der Steinbogen Wohnen GmbH für das Projekt SW-HI-26-08 insgesamt 2.100.000,00 EUR als freiwillige Zuzahlung in die Kapitalrücklage zur Verfügung zu stellen. Die Einzahlung erfolgt in drei Teilbeträgen von 800.000,00 EUR zum 15.11.2026, 700.000,00 EUR zum 15.01.2027 und 600.000,00 EUR zum 15.01.2028. Der erste Teilbetrag ist bereits auf dem Projektkonto eingegangen. Eine laufende Verzinsung oder Rückzahlungsfälligkeit wird nicht vereinbart.",
+        [
+          "h",
+          "2. Freigegebener Kostenrahmen"
+        ],
+        "Der freigegebene Kostenrahmen beträgt 3.650.000,00 EUR einschließlich nicht abziehbarer Umsatzsteuer, Grundstück und Erwerbsnebenkosten sowie der gesondert vereinbarten Finanzierungskosten bis Ende 2028. Die Ausgangskalkulation beträgt 3.463.770,41 EUR. Aus Eigenkapital und Darlehen stehen 3.700.000,00 EUR zur Verfügung. Nicht verbrauchte Mittel bleiben zunächst zur Deckung ausstehender Projektabrechnungen auf dem Projektkonto.",
+        [
+          "page"
+        ],
+        [
+          "h",
+          "3. Vermietungsannahmen"
+        ],
+        "Geplant ist die langfristige Vermietung sämtlicher acht Wohnungen zu Wohnzwecken ab 01.10.2028. Die Wohnflächen betragen in der Reihenfolge WE 01 bis WE 08 jeweils 68, 75, 82, 68, 75, 82, 75 und 75 m², zusammen 600 m². Für die Wirtschaftlichkeitsrechnung setzt die Geschäftsführung eine Nettokaltmiete von 13,50 EUR je m² und Monat an. Acht Stellplätze werden ausschließlich zusammen mit den Wohnungen mit jeweils 50,00 EUR monatlich kalkuliert. Diese Werte sind interne Planannahmen und keine Feststellung einer ortsüblichen oder rechtlich zulässigen Miethöhe.",
+        [
+          "h",
+          "4. Betrieb und Rücklagenplanung"
+        ],
+        "Für nicht umlagefähige Bewirtschaftungsaufwendungen und laufende Instandhaltung werden in einem stabilisierten vollen Vermietungsjahr zunächst 18.000,00 EUR veranschlagt. Diese Planannahme ist vor der Vermietung anhand von Angeboten und den tatsächlichen Verträgen zu aktualisieren. Mietausfall wird zunächst mit null angesetzt; die Arbeitsmappe soll abweichende Leerstands- und Kostenannahmen rechnen können. Kautionen stehen nicht zur Finanzierung der Baukosten zur Verfügung.",
+        [
+          "h",
+          "5. Nutzung und Verantwortlichkeit"
+        ],
+        "Die Gesellschaft erbringt keine Bauleistungen für Dritte. Sie baut und hält das Haus ausschließlich zur eigenen Wohnraumvermietung. Der PV-Ertrag wird im vereinbarten Allgemeinstromkonzept genutzt; gesonderte Stromlieferverträge mit Mietern werden nicht abgeschlossen. Die steuerliche Zuordnung und die Feststellung der Anschaffungs- und Herstellungskosten werden anhand der Belege mit der steuerlichen Beratung abgestimmt. Die kaufmännische Projektkostenrechnung stellt dafür die Zahlungen und Leistungsabrechnungen getrennt bereit."
+      ],
+      "attachments": []
+    },
+    {
+      "number": 109,
+      "filename": "109_Projektkonto_2026.pdf",
+      "date": "2026-12-31",
+      "issuer": "bank",
+      "recipient": "bauherr",
+      "title": "Projektkonto 882608 – Auszug bis 31.12.2026",
+      "sections": [
+        "Kontoinhaberin: Steinbogen Wohnen GmbH. Kontonummer 882608, Buchungskreis SW-HI-26-08. Auszugszeitraum 01.01.2026 bis 31.12.2026. Anfangssaldo 0,00 EUR. Es werden sämtliche Umsätze dieses Projektkontos für den Auszugszeitraum aufgeführt.",
+        [
+          "t",
+          [
+            [
+              "Valuta / Referenz",
+              "Buchungstext",
+              "Eingang EUR",
+              "Ausgang EUR",
+              "Saldo EUR"
+            ],
+            [
+              "2026-11-15\nEK-20261115",
+              "Steinbogen Beteiligungen GmbH\nEK",
+              "800.000,00",
+              "–",
+              "800.000,00"
+            ],
+            [
+              "2026-11-18\nSW-74-20261118",
+              "Wohnfeld Grundstücke GmbH\nWG-26-104",
+              "–",
+              "16.065,00",
+              "783.935,00"
+            ],
+            [
+              "2026-11-27\nSW-70-20261127",
+              "Leinequartier Grundstücksverwaltung GmbH\nKP-2026-118",
+              "–",
+              "450.000,00",
+              "333.935,00"
+            ],
+            [
+              "2026-12-08\nSW-71-20261208",
+              "Finanzamt Hildesheim\nGRE-26-816",
+              "–",
+              "22.500,00",
+              "311.435,00"
+            ]
+          ],
+          [
+            111,
+            165,
+            73,
+            73,
+            73
+          ]
+        ],
+        "Schlusssaldo 311.435,00 EUR. Eingänge und Ausgänge sind mit ihrem jeweiligen Vorzeichen in den getrennten Spalten dargestellt. Der Saldo enthält ausschließlich Bewegungen des Projektkontos. Mietbetrieb, laufende Darlehenstilgung ab 2029 und Kautionskonten sind nicht Bestandteil dieses Kontoauszugs.",
+        "Bitte reichen Sie Rückfragen zur Zuordnung einer Buchung unter Angabe von Auszugsjahr, Valuta und Bankreferenz ein. Eine auf dem Kontoauszug sichtbare Zahlung bestätigt keine fachliche Prüfung der zugrunde liegenden Rechnung."
+      ],
+      "attachments": []
+    },
+    {
+      "number": 110,
+      "filename": "110_Projektkonto_2027.pdf",
+      "date": "2027-12-31",
+      "issuer": "bank",
+      "recipient": "bauherr",
+      "title": "Projektkonto 882608 – Auszug bis 31.12.2027",
+      "sections": [
+        "Kontoinhaberin: Steinbogen Wohnen GmbH. Kontonummer 882608, Buchungskreis SW-HI-26-08. Auszugszeitraum 01.01.2027 bis 31.12.2027. Anfangssaldo 311.435,00 EUR. Es werden sämtliche Umsätze dieses Projektkontos für den Auszugszeitraum aufgeführt.",
+        [
+          "t",
+          [
+            [
+              "Valuta / Referenz",
+              "Buchungstext",
+              "Eingang EUR",
+              "Ausgang EUR",
+              "Saldo EUR"
+            ],
+            [
+              "2027-01-01\nDL-20270101",
+              "Leinebogen Projektbank AG\nDarlehen",
+              "400.000,00",
+              "–",
+              "711.435,00"
+            ],
+            [
+              "2027-01-05\nSW-72-20270105",
+              "Notarin Dr. Carla Fink\nNF-26-118-139",
+              "–",
+              "7.850,51",
+              "703.584,49"
+            ],
+            [
+              "2027-01-06\nSW-73-20270106",
+              "Amtsgericht Hildesheim, Grundbuchamt\nGB-26-778",
+              "–",
+              "4.047,50",
+              "699.536,99"
+            ],
+            [
+              "2027-01-15\nEK-20270115",
+              "Steinbogen Beteiligungen GmbH\nEK",
+              "700.000,00",
+              "–",
+              "1.399.536,99"
+            ],
+            [
+              "2027-01-16\nSW-77-20270116",
+              "Leinebogen Projektbank AG\nLB-27-010",
+              "–",
+              "10.000,00",
+              "1.389.536,99"
+            ],
+            [
+              "2027-02-01\nSW-88-20270201",
+              "Bodenprofil Ingenieure GmbH\nBP-27-018",
+              "–",
+              "14.280,00",
+              "1.375.256,99"
+            ],
+            [
+              "2027-07-01\nDL-20270701",
+              "Leinebogen Projektbank AG\nDarlehen",
+              "400.000,00",
+              "–",
+              "1.775.256,99"
+            ],
+            [
+              "2027-10-01\nDL-20271001",
+              "Leinebogen Projektbank AG\nDarlehen",
+              "800.000,00",
+              "–",
+              "2.575.256,99"
+            ]
+          ],
+          [
+            111,
+            165,
+            73,
+            73,
+            73
+          ]
+        ],
+        "Übertrag: 2.575.256,99 EUR. Fortsetzung des Auszugs auf der nächsten Seite.",
+        [
+          "page"
+        ],
+        [
+          "h",
+          "Projektkonto 882608 – Fortsetzung 2027"
+        ],
+        [
+          "t",
+          [
+            [
+              "Valuta / Referenz",
+              "Buchungstext",
+              "Eingang EUR",
+              "Ausgang EUR",
+              "Saldo EUR"
+            ],
+            [
+              "2027-10-05\nSW-75-20271005",
+              "Stadt Hildesheim, Bauaufsicht\nBA-27-328-K",
+              "–",
+              "4.957,40",
+              "2.570.299,59"
+            ],
+            [
+              "2027-10-08\nSW-80-20271008",
+              "Konturfeld Architektur PartG mbB\nKF-27-091",
+              "–",
+              "46.588,50",
+              "2.523.711,09"
+            ],
+            [
+              "2027-10-11\nSW-84-20271011",
+              "Planwerk Haustechnik GmbH\nPT-27-092",
+              "–",
+              "35.700,00",
+              "2.488.011,09"
+            ],
+            [
+              "2027-12-06\nSW-76-20271206",
+              "Bauwert Versicherung AG\nBV-27-180",
+              "–",
+              "9.000,00",
+              "2.479.011,09"
+            ],
+            [
+              "2027-12-10\nSW-81-20271210",
+              "Konturfeld Architektur PartG mbB\nKF-27-116",
+              "–",
+              "67.294,50",
+              "2.411.716,59"
+            ],
+            [
+              "2027-12-31\nSW-78-20271231",
+              "Leinebogen Projektbank AG\nLB-Z-2027",
+              "–",
+              "28.800,00",
+              "2.382.916,59"
+            ]
+          ],
+          [
+            111,
+            165,
+            73,
+            73,
+            73
+          ]
+        ],
+        "Schlusssaldo 2.382.916,59 EUR. Eingänge und Ausgänge sind mit ihrem jeweiligen Vorzeichen in den getrennten Spalten dargestellt. Der Saldo enthält ausschließlich Bewegungen des Projektkontos. Mietbetrieb, laufende Darlehenstilgung ab 2029 und Kautionskonten sind nicht Bestandteil dieses Kontoauszugs.",
+        "Bitte reichen Sie Rückfragen zur Zuordnung einer Buchung unter Angabe von Auszugsjahr, Valuta und Bankreferenz ein. Eine auf dem Kontoauszug sichtbare Zahlung bestätigt keine fachliche Prüfung der zugrunde liegenden Rechnung."
+      ],
+      "attachments": []
+    },
+    {
+      "number": 111,
+      "filename": "111_Projektkonto_2028.pdf",
+      "date": "2028-12-31",
+      "issuer": "bank",
+      "recipient": "bauherr",
+      "title": "Projektkonto 882608 – Auszug bis 31.12.2028",
+      "sections": [
+        "Kontoinhaberin: Steinbogen Wohnen GmbH. Kontonummer 882608, Buchungskreis SW-HI-26-08. Auszugszeitraum 01.01.2028 bis 31.12.2028. Anfangssaldo 2.382.916,59 EUR. Es werden sämtliche Umsätze dieses Projektkontos für den Auszugszeitraum aufgeführt.",
+        [
+          "t",
+          [
+            [
+              "Valuta / Referenz",
+              "Buchungstext",
+              "Eingang EUR",
+              "Ausgang EUR",
+              "Saldo EUR"
+            ],
+            [
+              "2028-01-15\nEK-20280115",
+              "Steinbogen Beteiligungen GmbH\nEK",
+              "600.000,00",
+              "–",
+              "2.982.916,59"
+            ],
+            [
+              "2028-02-29\nSW-91-20280229",
+              "Steinwerk Hochbau GmbH\nSH-28-021",
+              "–",
+              "238.000,00",
+              "2.744.916,59"
+            ],
+            [
+              "2028-03-19\nSW-105-20280319",
+              "Steinwerk Hochbau GmbH\nSH-28-N01",
+              "–",
+              "21.420,00",
+              "2.723.496,59"
+            ],
+            [
+              "2028-04-29\nSW-92-20280429",
+              "Steinwerk Hochbau GmbH\nSH-28-046",
+              "–",
+              "357.000,00",
+              "2.366.496,59"
+            ],
+            [
+              "2028-05-29\nSW-94-20280529",
+              "Dachraum Gebäudehülle GmbH\nDG-28-052",
+              "–",
+              "261.800,00",
+              "2.104.696,59"
+            ],
+            [
+              "2028-06-15\nSW-98-20280615",
+              "Lichtkreis Elektro GmbH\nLE-28-061",
+              "–",
+              "89.250,00",
+              "2.015.446,59"
+            ],
+            [
+              "2028-06-19\nSW-98-20280619",
+              "Lichtkreis Elektro GmbH\nLE-28-061",
+              "–",
+              "89.250,00",
+              "1.926.196,59"
+            ],
+            [
+              "2028-06-29\nSW-96-20280629",
+              "Wärmefluss Haustechnik GmbH\nWH-28-063",
+              "–",
+              "214.200,00",
+              "1.711.996,59"
+            ],
+            [
+              "2028-07-29\nSW-100-20280729",
+              "Innenraum Ausbau GmbH\nIA-28-074",
+              "–",
+              "178.500,00",
+              "1.533.496,59"
+            ],
+            [
+              "2028-09-03\nSW-104-20280903",
+              "Leineanschluss Netzdienste GmbH\nLN-28-081",
+              "–",
+              "41.650,00",
+              "1.491.846,59"
+            ],
+            [
+              "2028-10-06\nSW-86-20281006",
+              "Ingenieurbüro Bogenwerk\nBW-28-093",
+              "–",
+              "47.600,00",
+              "1.444.246,59"
+            ],
+            [
+              "2028-10-08\nSW-87-20281008",
+              "Vermessungsbüro Leinepunkt\nLP-28-094",
+              "–",
+              "17.850,00",
+              "1.426.396,59"
+            ],
+            [
+              "2028-10-09\nSW-89-20281009",
+              "Energiepfad Ingenieurbüro\nEP-28-096",
+              "–",
+              "11.900,00",
+              "1.414.496,59"
+            ],
+            [
+              "2028-10-09\nSW-90-20281009",
+              "Brandschutzbüro Rettungsweg\nRW-28-095",
+              "–",
+              "9.520,00",
+              "1.404.976,59"
+            ],
+            [
+              "2028-10-14\nSW-101-20281014",
+              "Innenraum Ausbau GmbH\nIA-28-095",
+              "–",
+              "178.500,00",
+              "1.226.476,59"
+            ],
+            [
+              "2028-10-14\nSW-102-20281014",
+              "Hubpunkt Aufzüge GmbH\nHA-28-093",
+              "–",
+              "71.400,00",
+              "1.155.076,59"
+            ],
+            [
+              "2028-10-14\nSW-119-20281014",
+              "Lichtkreis Elektro GmbH\nLE-PV-28-099",
+              "–",
+              "45.000,00",
+              "1.110.076,59"
+            ],
+            [
+              "2028-10-14\nSW-93-20281014",
+              "Steinwerk Hochbau GmbH\nSH-28-093",
+              "–",
+              "178.500,00",
+              "931.576,59"
+            ],
+            [
+              "2028-10-14\nSW-95-20281014",
+              "Dachraum Gebäudehülle GmbH\nDG-28-098",
+              "–",
+              "261.800,00",
+              "669.776,59"
+            ],
+            [
+              "2028-10-14\nSW-97-20281014",
+              "Wärmefluss Haustechnik GmbH\nWH-28-094",
+              "–",
+              "214.200,00",
+              "455.576,59"
+            ],
+            [
+              "2028-10-14\nSW-99-20281014",
+              "Lichtkreis Elektro GmbH\nLE-28-098",
+              "–",
+              "35.700,00",
+              "419.876,59"
+            ],
+            [
+              "2028-11-03\nSW-82-20281103",
+              "Konturfeld Architektur PartG mbB\nKF-28-104",
+              "–",
+              "55.216,00",
+              "364.660,59"
+            ],
+            [
+              "2028-11-05\nSW-85-20281105",
+              "Planwerk Haustechnik GmbH\nPT-28-104",
+              "–",
+              "41.650,00",
+              "323.010,59"
+            ],
+            [
+              "2028-11-15\nSW-106-20281115",
+              "Innenraum Ausbau GmbH\nIA-G-28-017",
+              "2.975,00",
+              "–",
+              "325.985,59"
+            ],
+            [
+              "2028-11-29\nSW-103-20281129",
+              "Grünkante Garten und Tiefbau GmbH\nGG-28-115",
+              "–",
+              "142.800,00",
+              "183.185,59"
+            ],
+            [
+              "2028-12-15\nLE-RET-20281215",
+              "Lichtkreis Elektro GmbH\nLE-28-061",
+              "89.250,00",
+              "–",
+              "272.435,59"
+            ],
+            [
+              "2028-12-31\nSW-79-20281231",
+              "Leinebogen Projektbank AG\nLB-Z-2028",
+              "–",
+              "51.200,00",
+              "221.235,59"
+            ]
+          ],
+          [
+            111,
+            165,
+            73,
+            73,
+            73
+          ]
+        ],
+        "Schlusssaldo 221.235,59 EUR. Eingänge und Ausgänge sind mit ihrem jeweiligen Vorzeichen in den getrennten Spalten dargestellt. Der Saldo enthält ausschließlich Bewegungen des Projektkontos. Mietbetrieb, laufende Darlehenstilgung ab 2029 und Kautionskonten sind nicht Bestandteil dieses Kontoauszugs.",
+        "Bitte reichen Sie Rückfragen zur Zuordnung einer Buchung unter Angabe von Auszugsjahr, Valuta und Bankreferenz ein. Eine auf dem Kontoauszug sichtbare Zahlung bestätigt keine fachliche Prüfung der zugrunde liegenden Rechnung."
+      ],
+      "attachments": []
+    },
+    {
+      "number": 112,
+      "filename": "112_Projektkonto_2033.pdf",
+      "date": "2033-09-30",
+      "issuer": "bank",
+      "recipient": "bauherr",
+      "title": "Projektkonto 882608 – Auszug bis 30.09.2033",
+      "sections": [
+        "Kontoinhaberin: Steinbogen Wohnen GmbH. Kontonummer 882608, Buchungskreis SW-HI-26-08. Auszugszeitraum 01.01.2033 bis 30.09.2033. Anfangssaldo 221.235,59 EUR. Es werden sämtliche Umsätze dieses Projektkontos für den Auszugszeitraum aufgeführt.",
+        [
+          "t",
+          [
+            [
+              "Valuta / Referenz",
+              "Buchungstext",
+              "Eingang EUR",
+              "Ausgang EUR",
+              "Saldo EUR"
+            ],
+            [
+              "2033-09-30\nSW-83-20330930",
+              "Konturfeld Architektur PartG mbB\nKF-33-092",
+              "–",
+              "3.451,00",
+              "217.784,59"
+            ]
+          ],
+          [
+            111,
+            165,
+            73,
+            73,
+            73
+          ]
+        ],
+        "Schlusssaldo 217.784,59 EUR. Eingänge und Ausgänge sind mit ihrem jeweiligen Vorzeichen in den getrennten Spalten dargestellt. Der Saldo enthält ausschließlich Bewegungen des Projektkontos. Mietbetrieb, laufende Darlehenstilgung ab 2029 und Kautionskonten sind nicht Bestandteil dieses Kontoauszugs.",
+        "Für 2029 bis 2032 bestanden auf diesem Projektkonto keine Umsätze. Die Mietbewirtschaftung wird seit Vermietungsbeginn auf dem gesonderten Betriebskonto geführt."
+      ],
+      "attachments": []
+    },
+    {
+      "number": 113,
+      "filename": "113_Rueckfrage_Elektrozahlung.eml",
+      "date": "2028-09-26",
+      "issuer": "bauherr",
+      "recipient": "elektro",
+      "title": "Zahlungszuordnung LE-28-061",
+      "sections": [
+        "Bei der Vorbereitung der Schlusszahlungen sehe ich im Projektkonto zwei Überweisungen mit dem Verwendungszweck LE-28-061, am 15.06. und am 19.06.2028, jeweils über 89.250 EUR. In meiner Liste steht nur die Rechnung vom 01.06.2028. Bitte senden Sie mir Ihr Debitorenkonto für das Bauvorhaben, damit wir die Zuordnung vor der Schlusszahlung abstimmen können.",
+        "Die Schlussrechnungsunterlagen gehen parallel an Frau Feld zur technischen Prüfung. Bitte verrechnen Sie ohne kurze Abstimmung keine Beträge mit anderen Bauvorhaben. Die Überweisungsfreigabe am 19.06. wurde während meiner Abwesenheit durch die Vertretung vorgenommen; auf dem Freigabebeleg steht ebenfalls LE-28-061.",
+        "Für die Bankbesprechung am 05.10. brauche ich eine belastbare Übersicht über den noch zu zahlenden Betrag. Ich sende Ihnen die Abschlagsrechnung nochmals mit. Bitte antworten Sie an die Projektadresse und setzen Sie die Buchhaltung in Ihrem Haus hinzu."
+      ],
+      "attachments": [
+        "098_Elektro_Abschlag.pdf"
+      ]
+    },
+    {
+      "number": 114,
+      "filename": "114_Elektro_Rueckzahlung.eml",
+      "date": "2028-12-13",
+      "issuer": "elektro",
+      "recipient": "bauherr",
+      "title": "Debitorenkonto SW-HI-26-08 und Auszahlung",
+      "sections": [
+        "Wir haben die beiden Zahlungseingänge vom 15.06. und 19.06.2028 zu LE-28-061 nun auf demselben Debitorenkonto zusammengeführt. Der zweite Eingang war zunächst ohne Rechnungszuordnung verbucht. Die Schlussrechnung LE-28-098 wurde am 14.10.2028 in voller Höhe ausgeglichen.",
+        "Auf dem Debitorenkonto verbleibt deshalb ein Guthaben von 89.250 EUR. Wir haben die Rückzahlung auf das Projektkonto 882608 für den 15.12.2028 angewiesen. Der Zahlungstext lautet LE-RET-20281215. Unsere Leistungsabrechnung und die ausgewiesene Umsatzsteuer ändern sich dadurch nicht; es handelt sich um die Rückzahlung einer zusätzlich eingegangenen Zahlung.",
+        "Bitte teilen Sie uns mit, falls die Bankverbindung inzwischen geändert wurde. Andernfalls ist keine weitere Mitwirkung erforderlich. Die Abrechnung der Ladeinfrastruktur und der beiden Ladepunkte bleibt Bestandteil der bereits übersandten Schlussrechnung."
+      ],
+      "attachments": [
+        "099_Elektro_PV_Schlussrechnung.pdf"
+      ]
+    },
+    {
+      "number": 115,
+      "filename": "115_Innenausbau_Belagsvereinbarung.eml",
+      "date": "2028-10-15",
+      "issuer": "ausbau",
+      "recipient": "bauherr",
+      "title": "Wohnung 07 – Entgeltminderung Bodenbelag",
+      "sections": [
+        "Wir bestätigen die heute mit Frau Birk vereinbarte Entgeltminderung von 2.500 EUR netto für die abweichende Belagsausführung in Wohnung 07. Die Auftraggeberin behält den eingebauten Belag; ein Austausch wird insoweit nicht mehr verlangt. Die sonstigen Ansprüche aus den übrigen Gewerkeleistungen werden durch diese Vereinbarung nicht geregelt.",
+        "Die beigefügte Rechnungskorrektur IA-G-28-017 bezieht sich auf die Schlussrechnung IA-28-095. Da deren Betrag am 14.10. eingegangen ist, zahlen wir 2.975 EUR einschließlich Umsatzsteuer am 15.11.2028 auf das Projektkonto zurück. Eine Verrechnung mit anderen Objekten ist nicht vorgesehen.",
+        "Bitte nehmen Sie diese Nachricht zusammen mit der Rechnungskorrektur zur Kostenfortschreibung. Wir übersenden keine neue Schlussrechnung, damit die ursprüngliche Rechnung und die einzelne Änderung anhand ihrer Nummern nachvollziehbar bleiben."
+      ],
+      "attachments": [
+        "106_Innenausbau_Rechnungskorrektur.pdf"
+      ]
+    },
+    {
+      "number": 116,
+      "filename": "116_Projektabschluss_Zahlungsstand.eml",
+      "date": "2033-10-05",
+      "issuer": "bauherr",
+      "recipient": "bauherr",
+      "title": "Letzte Architektenzahlung und Unterlagen für die Jahresarbeit",
+      "sections": [
+        "Die Schlussrechnung KF-33-092 wurde am 30.09.2033 mit 3.451 EUR vom Projektkonto bezahlt. Bitte ordnen Sie die Rechnung der Objektbetreuung zu und geben Sie die Informationen an die steuerliche Beratung weiter. Die älteren Abschläge sind in der kumulierten Schlussrechnung abgesetzt; sie wurden nicht nochmals überwiesen.",
+        "Die drei Projektarbeitsmappen enthalten die Belegbeträge, die Zahlungsliste des Projektkontos und die ursprünglichen Vermietungsannahmen. Bitte trennen Sie bei der Jahresarbeit die Investitionsabrechnung von den laufenden Ergebnissen der Vermietung. Das Betriebskonto für die Mietzahlungen, Nebenkosten und Annuitäten wird in der laufenden Buchhaltung geführt und gehört nicht zum Projektkonto.",
+        "Die Notar- und Gerichtskosten liegen mit den Kostenberechnungen und den jeweiligen Zahlungen vor. Bitte berücksichtigen Sie bei der Belegzuordnung die gesondert ausgewiesenen durchlaufenden Archivkosten und die vom Grundstück getrennten Finanzierungsleistungen. Die beigefügte Architektenrechnung kann nun ebenfalls dem Zahlbeleg zugeordnet werden."
+      ],
+      "attachments": [
+        "083_Architekt_Schlussrechnung_LPH9.pdf"
+      ]
+    },
+    {
+      "number": 120,
+      "filename": "120_Kostenentwicklung.xlsx",
+      "date": "2033-10-05",
+      "issuer": "bauherr",
+      "recipient": "bauherr",
+      "title": "Kostenentwicklung",
+      "sections": [],
+      "attachments": []
+    },
+    {
+      "number": 121,
+      "filename": "121_Rechnungen_und_Zahlungen.xlsx",
+      "date": "2033-10-05",
+      "issuer": "bauherr",
+      "recipient": "bauherr",
+      "title": "Rechnungen und Zahlungen",
+      "sections": [],
+      "attachments": []
+    },
+    {
+      "number": 122,
+      "filename": "122_Finanzierung_und_Vermietung.xlsx",
+      "date": "2033-10-05",
+      "issuer": "bauherr",
+      "recipient": "bauherr",
+      "title": "Finanzierung und Vermietung",
+      "sections": [],
+      "attachments": []
+    },
+    {
+      "number": 80,
+      "filename": "080_Architekt_Rechnung_LPH1_4_XRechnung.xml",
+      "date": "2027-09-24",
+      "issuer": "architekt",
+      "recipient": "bauherr",
+      "title": "Objektplanung LPH 1 bis 4 – XRechnung",
+      "sections": [],
+      "attachments": []
+    },
+    {
+      "number": 81,
+      "filename": "081_Architekt_Rechnung_LPH5_7_XRechnung.xml",
+      "date": "2027-11-26",
+      "issuer": "architekt",
+      "recipient": "bauherr",
+      "title": "Objektplanung LPH 5 bis 7 – XRechnung",
+      "sections": [],
+      "attachments": []
+    },
+    {
+      "number": 82,
+      "filename": "082_Architekt_Rechnung_LPH8_XRechnung.xml",
+      "date": "2028-10-20",
+      "issuer": "architekt",
+      "recipient": "bauherr",
+      "title": "Objektplanung LPH 8 – XRechnung",
+      "sections": [],
+      "attachments": []
+    },
+    {
+      "number": 83,
+      "filename": "083_Architekt_Schlussrechnung_LPH9_XRechnung.xml",
+      "date": "2033-09-26",
+      "issuer": "architekt",
+      "recipient": "bauherr",
+      "title": "Objektplanung LPH 9 und Schlussabrechnung – XRechnung",
+      "sections": [],
+      "attachments": []
+    },
+    {
+      "number": 84,
+      "filename": "084_TGA_Planungsrechnung_XRechnung.xml",
+      "date": "2027-09-27",
+      "issuer": "tga",
+      "recipient": "bauherr",
+      "title": "TGA Planung – XRechnung",
+      "sections": [],
+      "attachments": []
+    },
+    {
+      "number": 85,
+      "filename": "085_TGA_Schlussrechnung_XRechnung.xml",
+      "date": "2028-10-22",
+      "issuer": "tga",
+      "recipient": "bauherr",
+      "title": "TGA Ausführungsbegleitung und Abschluss – XRechnung",
+      "sections": [],
+      "attachments": []
+    },
+    {
+      "number": 86,
+      "filename": "086_Tragwerk_Schlussrechnung_XRechnung.xml",
+      "date": "2028-09-22",
+      "issuer": "tragwerk",
+      "recipient": "bauherr",
+      "title": "Tragwerksplanung – XRechnung",
+      "sections": [],
+      "attachments": []
+    },
+    {
+      "number": 87,
+      "filename": "087_Vermessung_Schlussrechnung_XRechnung.xml",
+      "date": "2028-09-24",
+      "issuer": "vermessung",
+      "recipient": "bauherr",
+      "title": "Vermessungsleistungen – XRechnung",
+      "sections": [],
+      "attachments": []
+    },
+    {
+      "number": 88,
+      "filename": "088_Baugrund_Rechnung_XRechnung.xml",
+      "date": "2027-01-18",
+      "issuer": "geo",
+      "recipient": "bauherr",
+      "title": "Baugrunduntersuchung – XRechnung",
+      "sections": [],
+      "attachments": []
+    },
+    {
+      "number": 89,
+      "filename": "089_Energie_Rechnung_XRechnung.xml",
+      "date": "2028-09-25",
+      "issuer": "energie",
+      "recipient": "bauherr",
+      "title": "Energieplanung und Fertigstellungsnachweis – XRechnung",
+      "sections": [],
+      "attachments": []
+    },
+    {
+      "number": 90,
+      "filename": "090_Brandschutz_Rechnung_XRechnung.xml",
+      "date": "2028-09-25",
+      "issuer": "brand",
+      "recipient": "bauherr",
+      "title": "Brandschutzplanung – XRechnung",
+      "sections": [],
+      "attachments": []
+    },
+    {
+      "number": 91,
+      "filename": "091_Rohbau_Abschlag1_XRechnung.xml",
+      "date": "2028-02-15",
+      "issuer": "rohbau",
+      "recipient": "bauherr",
+      "title": "Rohbau 1. Abschlag – XRechnung",
+      "sections": [],
+      "attachments": []
+    },
+    {
+      "number": 92,
+      "filename": "092_Rohbau_Abschlag2_XRechnung.xml",
+      "date": "2028-04-15",
+      "issuer": "rohbau",
+      "recipient": "bauherr",
+      "title": "Rohbau 2. Abschlag – XRechnung",
+      "sections": [],
+      "attachments": []
+    },
+    {
+      "number": 93,
+      "filename": "093_Rohbau_Schlussrechnung_XRechnung.xml",
+      "date": "2028-09-30",
+      "issuer": "rohbau",
+      "recipient": "bauherr",
+      "title": "Rohbau Schlussrechnung – XRechnung",
+      "sections": [],
+      "attachments": []
+    },
+    {
+      "number": 94,
+      "filename": "094_Gebaeudehuelle_Abschlag_XRechnung.xml",
+      "date": "2028-05-15",
+      "issuer": "huelle",
+      "recipient": "bauherr",
+      "title": "Gebäudehülle Abschlag – XRechnung",
+      "sections": [],
+      "attachments": []
+    },
+    {
+      "number": 95,
+      "filename": "095_Gebaeudehuelle_Schlussrechnung_XRechnung.xml",
+      "date": "2028-09-30",
+      "issuer": "huelle",
+      "recipient": "bauherr",
+      "title": "Gebäudehülle Schlussrechnung – XRechnung",
+      "sections": [],
+      "attachments": []
+    },
+    {
+      "number": 96,
+      "filename": "096_HLS_Abschlag_XRechnung.xml",
+      "date": "2028-06-15",
+      "issuer": "hls",
+      "recipient": "bauherr",
+      "title": "Heizung Lüftung Sanitär Abschlag – XRechnung",
+      "sections": [],
+      "attachments": []
+    },
+    {
+      "number": 97,
+      "filename": "097_HLS_Schlussrechnung_XRechnung.xml",
+      "date": "2028-09-30",
+      "issuer": "hls",
+      "recipient": "bauherr",
+      "title": "Heizung Lüftung Sanitär Schlussrechnung – XRechnung",
+      "sections": [],
+      "attachments": []
+    },
+    {
+      "number": 98,
+      "filename": "098_Elektro_Abschlag_XRechnung.xml",
+      "date": "2028-06-01",
+      "issuer": "elektro",
+      "recipient": "bauherr",
+      "title": "Elektro Abschlag – XRechnung",
+      "sections": [],
+      "attachments": []
+    },
+    {
+      "number": 99,
+      "filename": "099_Elektro_PV_Schlussrechnung_XRechnung.xml",
+      "date": "2028-09-30",
+      "issuer": "elektro",
+      "recipient": "bauherr",
+      "title": "Elektro und Ladeinfrastruktur Schlussrechnung – XRechnung",
+      "sections": [],
+      "attachments": []
+    },
+    {
+      "number": 100,
+      "filename": "100_Innenausbau_Abschlag_XRechnung.xml",
+      "date": "2028-07-15",
+      "issuer": "ausbau",
+      "recipient": "bauherr",
+      "title": "Innenausbau Abschlag – XRechnung",
+      "sections": [],
+      "attachments": []
+    },
+    {
+      "number": 101,
+      "filename": "101_Innenausbau_Schlussrechnung_XRechnung.xml",
+      "date": "2028-09-30",
+      "issuer": "ausbau",
+      "recipient": "bauherr",
+      "title": "Innenausbau Schlussrechnung – XRechnung",
+      "sections": [],
+      "attachments": []
+    },
+    {
+      "number": 102,
+      "filename": "102_Aufzug_Schlussrechnung_XRechnung.xml",
+      "date": "2028-09-30",
+      "issuer": "aufzug",
+      "recipient": "bauherr",
+      "title": "Aufzugsanlage – XRechnung",
+      "sections": [],
+      "attachments": []
+    },
+    {
+      "number": 103,
+      "filename": "103_Aussenanlagen_Schlussrechnung_XRechnung.xml",
+      "date": "2028-11-15",
+      "issuer": "aussen",
+      "recipient": "bauherr",
+      "title": "Außenanlagen und Entwässerung – XRechnung",
+      "sections": [],
+      "attachments": []
+    },
+    {
+      "number": 104,
+      "filename": "104_Hausanschluesse_Rechnung_XRechnung.xml",
+      "date": "2028-08-20",
+      "issuer": "versorger",
+      "recipient": "bauherr",
+      "title": "Hausanschlüsse – XRechnung",
+      "sections": [],
+      "attachments": []
+    },
+    {
+      "number": 105,
+      "filename": "105_Rohbau_Nachtrag_Draenpackung_XRechnung.xml",
+      "date": "2028-03-05",
+      "issuer": "rohbau",
+      "recipient": "bauherr",
+      "title": "Nachtrag Drän- und Filterpackung – XRechnung",
+      "sections": [],
+      "attachments": []
+    },
+    {
+      "number": 106,
+      "filename": "106_Innenausbau_Rechnungskorrektur_XRechnung.xml",
+      "date": "2028-10-15",
+      "issuer": "ausbau",
+      "recipient": "bauherr",
+      "title": "Rechnungskorrektur zu IA-28-095 – XRechnung",
+      "sections": [],
+      "attachments": []
+    },
+    {
+      "number": 119,
+      "filename": "119_PV_Lieferung_Montage_Nullsteuersatz_XRechnung.xml",
+      "date": "2028-09-30",
+      "issuer": "elektro",
+      "recipient": "bauherr",
+      "title": "PV-Anlage Lieferung und Montage – XRechnung",
+      "sections": [],
+      "attachments": []
+    }
+  ],
+  "invoices": [
+    {
+      "number": 70,
+      "filename": "070_Kaufpreisfaelligkeit_Grundstueck.pdf",
+      "date": "2026-11-16",
+      "issuer": "notar",
+      "id": "KP-2026-118",
+      "label": "Kaufpreisfälligkeit Grundstück",
+      "kg": "100",
+      "net": 450000,
+      "vat": 0,
+      "gross": 450000,
+      "rate": 0,
+      "period": "2026-11-16",
+      "kind": "Kaufpreis",
+      "items": [],
+      "prior": null,
+      "payment": "2026-11-27"
+    },
+    {
+      "number": 71,
+      "filename": "071_Grunderwerbsteuerbescheid.pdf",
+      "date": "2026-11-20",
+      "issuer": "steuer",
+      "id": "GRE-26-816",
+      "label": "Grunderwerbsteuerbescheid",
+      "kg": "100",
+      "net": 22500,
+      "vat": 0,
+      "gross": 22500,
+      "rate": 0,
+      "period": "2026-11-20",
+      "kind": "Bescheid",
+      "items": [],
+      "prior": null,
+      "payment": "2026-12-08"
+    },
+    {
+      "number": 72,
+      "filename": "072_Notarkosten_Schlussberechnung.pdf",
+      "date": "2026-12-22",
+      "issuer": "notar",
+      "id": "NF-26-118-139",
+      "label": "Notarkostenberechnung Grundstückskauf und Grundschuld",
+      "kg": "100",
+      "net": 6598.5,
+      "vat": 1252.01,
+      "gross": 7850.51,
+      "rate": 0.19,
+      "period": "2026-12-22",
+      "kind": "Kostenberechnung",
+      "items": [],
+      "prior": null,
+      "payment": "2027-01-05",
+      "taxable_base": 6589.5
+    },
+    {
+      "number": 73,
+      "filename": "073_Grundbuch_Kostenrechnung.pdf",
+      "date": "2026-12-23",
+      "issuer": "grundbuch",
+      "id": "GB-26-778",
+      "label": "Gerichtskostenrechnung Grundbuch",
+      "kg": "100",
+      "net": 4047.5,
+      "vat": 0,
+      "gross": 4047.5,
+      "rate": 0,
+      "period": "2026-12-23",
+      "kind": "Bescheid",
+      "items": [],
+      "prior": null,
+      "payment": "2027-01-06"
+    },
+    {
+      "number": 74,
+      "filename": "074_Maklerrechnung.pdf",
+      "date": "2026-11-04",
+      "issuer": "makler",
+      "id": "WG-26-104",
+      "label": "Grundstücksvermittlung",
+      "kg": "100",
+      "net": 13500,
+      "vat": 2565.0,
+      "gross": 16065.0,
+      "rate": 0.19,
+      "period": "05.10.2026 bis 03.11.2026",
+      "kind": "Rechnung",
+      "items": [
+        [
+          "Nachweis und Vermittlung Baugrundstück gemäß Maklerauftrag vom 05.10.2026: 3 % des Kaufpreises von 450.000 EUR",
+          1,
+          "Auftrag",
+          13500
+        ]
+      ],
+      "prior": null,
+      "payment": "2026-11-18"
+    },
+    {
+      "number": 75,
+      "filename": "075_Baugenehmigung_Kostenbescheid.pdf",
+      "date": "2027-09-21",
+      "issuer": "bauamt",
+      "id": "BA-27-328-K",
+      "label": "Kostenbescheid zum Bauantrag",
+      "kg": "700",
+      "net": 4957.4,
+      "vat": 0,
+      "gross": 4957.4,
+      "rate": 0,
+      "period": "2027-09-21",
+      "kind": "Bescheid",
+      "items": [],
+      "prior": null,
+      "payment": "2027-10-05"
+    },
+    {
+      "number": 76,
+      "filename": "076_Bauversicherung_Beitragsrechnung.pdf",
+      "date": "2027-11-22",
+      "issuer": "versicherung",
+      "id": "BV-27-180",
+      "label": "Beitragsrechnung Bauleistungs- und Bauherrenhaftpflichtversicherung",
+      "kg": "700",
+      "net": 9000,
+      "vat": 0,
+      "gross": 9000,
+      "rate": 0,
+      "period": "2027-11-22",
+      "kind": "Bescheid",
+      "items": [],
+      "prior": null,
+      "payment": "2027-12-06"
+    },
+    {
+      "number": 77,
+      "filename": "077_Bank_Finanzierungsentgelt.pdf",
+      "date": "2027-01-02",
+      "issuer": "bank",
+      "id": "LB-27-010",
+      "label": "Vereinbartes Finanzierungsentgelt",
+      "kg": "800",
+      "net": 10000,
+      "vat": 0,
+      "gross": 10000,
+      "rate": 0,
+      "period": "02.01.2027",
+      "kind": "Rechnung",
+      "items": [
+        [
+          "Individuell vereinbartes Entgelt für die Bereitstellung der Projektfinanzierung gemäß Darlehensvertrag Ziffer 3",
+          1,
+          "Vereinbarung",
+          10000
+        ]
+      ],
+      "prior": null,
+      "payment": "2027-01-16"
+    },
+    {
+      "number": 78,
+      "filename": "078_Bank_Zinsabrechnung_2027.pdf",
+      "date": "2027-12-31",
+      "issuer": "bank",
+      "id": "LB-Z-2027",
+      "label": "Darlehenszinsen 2027",
+      "kg": "800",
+      "net": 28800,
+      "vat": 0,
+      "gross": 28800,
+      "rate": 0,
+      "period": "01.01.2027 bis 31.12.2027",
+      "kind": "Rechnung",
+      "items": [
+        [
+          "Tranche 400.000 EUR vom 01.01. bis 31.12.2027 zu 3,6 % jährlich; 360/360 Tage",
+          1,
+          "Zeitraum",
+          14400
+        ],
+        [
+          "Tranche 400.000 EUR vom 01.07. bis 31.12.2027 zu 3,6 % jährlich; 180/360 Tage",
+          1,
+          "Zeitraum",
+          7200
+        ],
+        [
+          "Tranche 800.000 EUR vom 01.10. bis 31.12.2027 zu 3,6 % jährlich; 90/360 Tage",
+          1,
+          "Zeitraum",
+          7200
+        ]
+      ],
+      "prior": null,
+      "payment": "2027-12-31"
+    },
+    {
+      "number": 79,
+      "filename": "079_Bank_Zinsabrechnung_2028.pdf",
+      "date": "2028-12-31",
+      "issuer": "bank",
+      "id": "LB-Z-2028",
+      "label": "Darlehenszinsen 2028",
+      "kg": "800",
+      "net": 51200,
+      "vat": 0,
+      "gross": 51200,
+      "rate": 0,
+      "period": "01.01.2028 bis 31.12.2028",
+      "kind": "Rechnung",
+      "items": [
+        [
+          "Darlehenssaldo 1.600.000 EUR vom 01.01. bis 31.12.2028 zu 3,6 % jährlich; 360/360 Tage",
+          1,
+          "Zeitraum",
+          57600
+        ],
+        [
+          "Vertragliche einmalige Zinsvergütung aus Darlehensvertrag Ziffer 3",
+          1,
+          "Vergütung",
+          -6400
+        ]
+      ],
+      "prior": null,
+      "payment": "2028-12-31"
+    },
+    {
+      "number": 80,
+      "filename": "080_Architekt_Rechnung_LPH1_4.pdf",
+      "date": "2027-09-24",
+      "issuer": "architekt",
+      "id": "KF-27-091",
+      "label": "Objektplanung LPH 1 bis 4",
+      "kg": "700",
+      "net": 39150,
+      "vat": 7438.5,
+      "gross": 46588.5,
+      "rate": 0.19,
+      "period": "10.10.2026 bis 21.09.2027",
+      "kind": "Rechnung",
+      "items": [
+        [
+          "LPH 1 Grundlagenermittlung, vereinbarter Teilbetrag",
+          1,
+          "Phase",
+          2900
+        ],
+        [
+          "LPH 2 Vorplanung, vereinbarter Teilbetrag",
+          1,
+          "Phase",
+          10150
+        ],
+        [
+          "LPH 3 Entwurfsplanung, vereinbarter Teilbetrag",
+          1,
+          "Phase",
+          21750
+        ],
+        [
+          "LPH 4 Genehmigungsplanung, vereinbarter Teilbetrag",
+          1,
+          "Phase",
+          4350
+        ]
+      ],
+      "prior": null,
+      "payment": "2027-10-08"
+    },
+    {
+      "number": 81,
+      "filename": "081_Architekt_Rechnung_LPH5_7.pdf",
+      "date": "2027-11-26",
+      "issuer": "architekt",
+      "id": "KF-27-116",
+      "label": "Objektplanung LPH 5 bis 7",
+      "kg": "700",
+      "net": 56550,
+      "vat": 10744.5,
+      "gross": 67294.5,
+      "rate": 0.19,
+      "period": "01.06.2027 bis 24.11.2027",
+      "kind": "Rechnung",
+      "items": [
+        [
+          "LPH 5 Ausführungsplanung",
+          1,
+          "Phase",
+          36250
+        ],
+        [
+          "LPH 6 Vorbereitung der Vergabe",
+          1,
+          "Phase",
+          14500
+        ],
+        [
+          "LPH 7 Mitwirkung bei der Vergabe",
+          1,
+          "Phase",
+          5800
+        ]
+      ],
+      "prior": null,
+      "payment": "2027-12-10"
+    },
+    {
+      "number": 82,
+      "filename": "082_Architekt_Rechnung_LPH8.pdf",
+      "date": "2028-10-20",
+      "issuer": "architekt",
+      "id": "KF-28-104",
+      "label": "Objektplanung LPH 8",
+      "kg": "700",
+      "net": 46400,
+      "vat": 8816.0,
+      "gross": 55216.0,
+      "rate": 0.19,
+      "period": "01.12.2027 bis 15.10.2028",
+      "kind": "Rechnung",
+      "items": [
+        [
+          "Objektüberwachung und Dokumentation gemäß vereinbartem Leistungsumfang",
+          1,
+          "Phase",
+          46400
+        ]
+      ],
+      "prior": null,
+      "payment": "2028-11-03"
+    },
+    {
+      "number": 83,
+      "filename": "083_Architekt_Schlussrechnung_LPH9.pdf",
+      "date": "2033-09-26",
+      "issuer": "architekt",
+      "id": "KF-33-092",
+      "label": "Objektplanung LPH 9 und Schlussabrechnung",
+      "kg": "700",
+      "net": 2900,
+      "vat": 551.0,
+      "gross": 3451.0,
+      "rate": 0.19,
+      "period": "16.09.2028 bis 25.09.2033",
+      "kind": "Rechnung",
+      "items": [
+        [
+          "Objektbetreuung gemäß Leistungsvereinbarung einschließlich Vorfristbegehung und Dokumentation",
+          1,
+          "Phase",
+          2900
+        ]
+      ],
+      "prior": [
+        "KF-27-091",
+        "KF-27-116",
+        "KF-28-104"
+      ],
+      "payment": "2033-09-30"
+    },
+    {
+      "number": 84,
+      "filename": "084_TGA_Planungsrechnung.pdf",
+      "date": "2027-09-27",
+      "issuer": "tga",
+      "id": "PT-27-092",
+      "label": "TGA Planung",
+      "kg": "700",
+      "net": 30000,
+      "vat": 5700.0,
+      "gross": 35700.0,
+      "rate": 0.19,
+      "period": "01.12.2026 bis 21.09.2027",
+      "kind": "Rechnung",
+      "items": [
+        [
+          "Planung Wärmeversorgung und Wohnungsstationen",
+          1,
+          "Leistung",
+          14000
+        ],
+        [
+          "Planung Trinkwasser, Abwasser und Lüftung",
+          1,
+          "Leistung",
+          10000
+        ],
+        [
+          "Koordination Elektro, PV und Ladeinfrastruktur",
+          1,
+          "Leistung",
+          6000
+        ]
+      ],
+      "prior": null,
+      "payment": "2027-10-11"
+    },
+    {
+      "number": 85,
+      "filename": "085_TGA_Schlussrechnung.pdf",
+      "date": "2028-10-22",
+      "issuer": "tga",
+      "id": "PT-28-104",
+      "label": "TGA Ausführungsbegleitung und Abschluss",
+      "kg": "700",
+      "net": 35000,
+      "vat": 6650.0,
+      "gross": 41650.0,
+      "rate": 0.19,
+      "period": "22.09.2027 bis 15.10.2028",
+      "kind": "Rechnung",
+      "items": [
+        [
+          "Ausführungsdetails und gewerkeübergreifende Koordination",
+          1,
+          "Leistung",
+          12000
+        ],
+        [
+          "Mitwirkung Ausschreibung und Angebotsprüfung",
+          1,
+          "Leistung",
+          8000
+        ],
+        [
+          "Fachbauüberwachung, Prüfprotokolle und Übergabe",
+          1,
+          "Leistung",
+          15000
+        ]
+      ],
+      "prior": [
+        "PT-27-092"
+      ],
+      "payment": "2028-11-05"
+    },
+    {
+      "number": 86,
+      "filename": "086_Tragwerk_Schlussrechnung.pdf",
+      "date": "2028-09-22",
+      "issuer": "tragwerk",
+      "id": "BW-28-093",
+      "label": "Tragwerksplanung",
+      "kg": "700",
+      "net": 40000,
+      "vat": 7600.0,
+      "gross": 47600.0,
+      "rate": 0.19,
+      "period": "01.12.2026 bis 15.09.2028",
+      "kind": "Rechnung",
+      "items": [
+        [
+          "Statische Berechnungen einschließlich Nachweisen",
+          1,
+          "Auftrag",
+          18000
+        ],
+        [
+          "Schal- und Bewehrungsplanung",
+          1,
+          "Auftrag",
+          17000
+        ],
+        [
+          "Bewehrungsabnahmen und Abschlussdokumentation",
+          1,
+          "Auftrag",
+          5000
+        ]
+      ],
+      "prior": null,
+      "payment": "2028-10-06"
+    },
+    {
+      "number": 87,
+      "filename": "087_Vermessung_Schlussrechnung.pdf",
+      "date": "2028-09-24",
+      "issuer": "vermessung",
+      "id": "LP-28-094",
+      "label": "Vermessungsleistungen",
+      "kg": "700",
+      "net": 15000,
+      "vat": 2850.0,
+      "gross": 17850.0,
+      "rate": 0.19,
+      "period": "15.10.2026 bis 20.09.2028",
+      "kind": "Rechnung",
+      "items": [
+        [
+          "Lage- und Höhenaufnahme",
+          1,
+          "Auftrag",
+          6000
+        ],
+        [
+          "Gebäudeabsteckung und Kontrollmessungen",
+          1,
+          "Auftrag",
+          5000
+        ],
+        [
+          "Schlussvermessung und Bestandsunterlagen",
+          1,
+          "Auftrag",
+          4000
+        ]
+      ],
+      "prior": null,
+      "payment": "2028-10-08"
+    },
+    {
+      "number": 88,
+      "filename": "088_Baugrund_Rechnung.pdf",
+      "date": "2027-01-18",
+      "issuer": "geo",
+      "id": "BP-27-018",
+      "label": "Baugrunduntersuchung",
+      "kg": "700",
+      "net": 12000,
+      "vat": 2280.0,
+      "gross": 14280.0,
+      "rate": 0.19,
+      "period": "02.11.2026 bis 13.01.2027",
+      "kind": "Rechnung",
+      "items": [
+        [
+          "Feldarbeiten mit sechs Sondierungen und Probenentnahmen",
+          6,
+          "Punkt",
+          1100
+        ],
+        [
+          "Laboruntersuchungen und Gründungsgutachten",
+          1,
+          "Auftrag",
+          5400
+        ]
+      ],
+      "prior": null,
+      "payment": "2027-02-01"
+    },
+    {
+      "number": 89,
+      "filename": "089_Energie_Rechnung.pdf",
+      "date": "2028-09-25",
+      "issuer": "energie",
+      "id": "EP-28-096",
+      "label": "Energieplanung und Fertigstellungsnachweis",
+      "kg": "700",
+      "net": 10000,
+      "vat": 1900.0,
+      "gross": 11900.0,
+      "rate": 0.19,
+      "period": "15.11.2026 bis 20.09.2028",
+      "kind": "Rechnung",
+      "items": [
+        [
+          "Energiebilanz und Wärmebrückennachweise",
+          1,
+          "Auftrag",
+          6500
+        ],
+        [
+          "Baubegleitung und energetische Abschlussdokumentation",
+          1,
+          "Auftrag",
+          3500
+        ]
+      ],
+      "prior": null,
+      "payment": "2028-10-09"
+    },
+    {
+      "number": 90,
+      "filename": "090_Brandschutz_Rechnung.pdf",
+      "date": "2028-09-25",
+      "issuer": "brand",
+      "id": "RW-28-095",
+      "label": "Brandschutzplanung",
+      "kg": "700",
+      "net": 8000,
+      "vat": 1520.0,
+      "gross": 9520.0,
+      "rate": 0.19,
+      "period": "15.11.2026 bis 20.09.2028",
+      "kind": "Rechnung",
+      "items": [
+        [
+          "Brandschutznachweis und Planabstimmung",
+          1,
+          "Auftrag",
+          5500
+        ],
+        [
+          "Baubegleitende Begehung und Schlussdokumentation",
+          1,
+          "Auftrag",
+          2500
+        ]
+      ],
+      "prior": null,
+      "payment": "2028-10-09"
+    },
+    {
+      "number": 91,
+      "filename": "091_Rohbau_Abschlag1.pdf",
+      "date": "2028-02-15",
+      "issuer": "rohbau",
+      "id": "SH-28-021",
+      "label": "Rohbau 1. Abschlag",
+      "kg": "300",
+      "net": 200000,
+      "vat": 38000.0,
+      "gross": 238000.0,
+      "rate": 0.19,
+      "period": "01.12.2027 bis 12.02.2028",
+      "kind": "Rechnung",
+      "items": [
+        [
+          "Baustelleneinrichtung und Vorhaltung gemäß Auftrag",
+          1,
+          "psch",
+          20000
+        ],
+        [
+          "Baugrubenaushub einschließlich vereinbarter Entsorgung",
+          1000,
+          "m³",
+          45
+        ],
+        [
+          "Gründung und Bodenplatte, Beton einschließlich Bewehrung",
+          225,
+          "m³",
+          600
+        ]
+      ],
+      "prior": null,
+      "payment": "2028-02-29"
+    },
+    {
+      "number": 92,
+      "filename": "092_Rohbau_Abschlag2.pdf",
+      "date": "2028-04-15",
+      "issuer": "rohbau",
+      "id": "SH-28-046",
+      "label": "Rohbau 2. Abschlag",
+      "kg": "300",
+      "net": 300000.0,
+      "vat": 57000.0,
+      "gross": 357000.0,
+      "rate": 0.19,
+      "period": "13.02.2028 bis 12.04.2028",
+      "kind": "Rechnung",
+      "items": [
+        [
+          "Gründung, verbleibender Beton einschließlich Bewehrung",
+          25,
+          "m³",
+          600
+        ],
+        [
+          "Tragende Wandkonstruktionen",
+          1000,
+          "m²",
+          180
+        ],
+        [
+          "Geschossdecken einschließlich Schalung und Bewehrung",
+          262.5,
+          "m²",
+          400
+        ]
+      ],
+      "prior": null,
+      "payment": "2028-04-29"
+    },
+    {
+      "number": 93,
+      "filename": "093_Rohbau_Schlussrechnung.pdf",
+      "date": "2028-09-30",
+      "issuer": "rohbau",
+      "id": "SH-28-093",
+      "label": "Rohbau Schlussrechnung",
+      "kg": "300",
+      "net": 150000.0,
+      "vat": 28500.0,
+      "gross": 178500.0,
+      "rate": 0.19,
+      "period": "13.04.2028 bis 15.09.2028",
+      "kind": "Rechnung",
+      "items": [
+        [
+          "Geschossdecken, Restmenge",
+          187.5,
+          "m²",
+          400
+        ],
+        [
+          "Treppenläufe einschließlich Podesten",
+          3,
+          "Einheit",
+          25000
+        ]
+      ],
+      "prior": [
+        "SH-28-021",
+        "SH-28-046"
+      ],
+      "payment": "2028-10-14"
+    },
+    {
+      "number": 94,
+      "filename": "094_Gebaeudehuelle_Abschlag.pdf",
+      "date": "2028-05-15",
+      "issuer": "huelle",
+      "id": "DG-28-052",
+      "label": "Gebäudehülle Abschlag",
+      "kg": "300",
+      "net": 220000,
+      "vat": 41800.0,
+      "gross": 261800.0,
+      "rate": 0.19,
+      "period": "01.04.2028 bis 12.05.2028",
+      "kind": "Rechnung",
+      "items": [
+        [
+          "Dachaufbau einschließlich Abdichtung und Wärmedämmung",
+          400,
+          "m²",
+          300
+        ],
+        [
+          "Fenstereinheiten gemäß Fensterliste, erster Abschnitt",
+          50,
+          "Stück",
+          2000
+        ]
+      ],
+      "prior": null,
+      "payment": "2028-05-29"
+    },
+    {
+      "number": 95,
+      "filename": "095_Gebaeudehuelle_Schlussrechnung.pdf",
+      "date": "2028-09-30",
+      "issuer": "huelle",
+      "id": "DG-28-098",
+      "label": "Gebäudehülle Schlussrechnung",
+      "kg": "300",
+      "net": 220000,
+      "vat": 41800.0,
+      "gross": 261800.0,
+      "rate": 0.19,
+      "period": "13.05.2028 bis 15.09.2028",
+      "kind": "Rechnung",
+      "items": [
+        [
+          "Fenstereinheiten gemäß Fensterliste, zweiter Abschnitt",
+          50,
+          "Stück",
+          2000
+        ],
+        [
+          "Fassadenbekleidung einschließlich Unterkonstruktion und Dämmung",
+          800,
+          "m²",
+          150
+        ]
+      ],
+      "prior": [
+        "DG-28-052"
+      ],
+      "payment": "2028-10-14"
+    },
+    {
+      "number": 96,
+      "filename": "096_HLS_Abschlag.pdf",
+      "date": "2028-06-15",
+      "issuer": "hls",
+      "id": "WH-28-063",
+      "label": "Heizung Lüftung Sanitär Abschlag",
+      "kg": "400",
+      "net": 180000,
+      "vat": 34200.0,
+      "gross": 214200.0,
+      "rate": 0.19,
+      "period": "01.05.2028 bis 12.06.2028",
+      "kind": "Rechnung",
+      "items": [
+        [
+          "Wärmepumpenanlage einschließlich Speicher und Regelung",
+          1,
+          "Anlage",
+          80000
+        ],
+        [
+          "Rohrleitungen einschließlich Dämmung und Befestigung",
+          1000,
+          "m",
+          60
+        ],
+        [
+          "Fußbodenheizung beheizte Flächen",
+          500,
+          "m²",
+          80
+        ]
+      ],
+      "prior": null,
+      "payment": "2028-06-29"
+    },
+    {
+      "number": 97,
+      "filename": "097_HLS_Schlussrechnung.pdf",
+      "date": "2028-09-30",
+      "issuer": "hls",
+      "id": "WH-28-094",
+      "label": "Heizung Lüftung Sanitär Schlussrechnung",
+      "kg": "400",
+      "net": 180000,
+      "vat": 34200.0,
+      "gross": 214200.0,
+      "rate": 0.19,
+      "period": "13.06.2028 bis 15.09.2028",
+      "kind": "Rechnung",
+      "items": [
+        [
+          "Sanitärausstattung und Wohnungsanschlüsse",
+          8,
+          "Wohnung",
+          12000
+        ],
+        [
+          "Lüftungseinheiten und Verteilung",
+          8,
+          "Wohnung",
+          8000
+        ],
+        [
+          "Inbetriebnahme, Abgleich und Dokumentation",
+          1,
+          "Auftrag",
+          20000
+        ]
+      ],
+      "prior": [
+        "WH-28-063"
+      ],
+      "payment": "2028-10-14"
+    },
+    {
+      "number": 98,
+      "filename": "098_Elektro_Abschlag.pdf",
+      "date": "2028-06-01",
+      "issuer": "elektro",
+      "id": "LE-28-061",
+      "label": "Elektro Abschlag",
+      "kg": "400",
+      "net": 75000,
+      "vat": 14250.0,
+      "gross": 89250.0,
+      "rate": 0.19,
+      "period": "01.05.2028 bis 30.05.2028",
+      "kind": "Rechnung",
+      "items": [
+        [
+          "Wohnungsinstallationen gemäß Raumbuch",
+          8,
+          "Wohnung",
+          6500
+        ],
+        [
+          "Hauptverteilung und Messkonzept",
+          1,
+          "Anlage",
+          23000
+        ]
+      ],
+      "prior": null,
+      "payment": "2028-06-15"
+    },
+    {
+      "number": 99,
+      "filename": "099_Elektro_PV_Schlussrechnung.pdf",
+      "date": "2028-09-30",
+      "issuer": "elektro",
+      "id": "LE-28-098",
+      "label": "Elektro und Ladeinfrastruktur Schlussrechnung",
+      "kg": "400",
+      "net": 30000,
+      "vat": 5700.0,
+      "gross": 35700.0,
+      "rate": 0.19,
+      "period": "31.05.2028 bis 15.09.2028",
+      "kind": "Rechnung",
+      "items": [
+        [
+          "Vorverkabelung für acht Stellplätze und zwei Ladepunkte gemäß Ausführungsplan",
+          1,
+          "Auftrag",
+          18000
+        ],
+        [
+          "Allgemeinbeleuchtung und Außeninstallation",
+          1,
+          "Auftrag",
+          6000
+        ],
+        [
+          "Aufzugszuleitung, Prüfungen und Dokumentation",
+          1,
+          "Auftrag",
+          6000
+        ]
+      ],
+      "prior": [
+        "LE-28-061"
+      ],
+      "payment": "2028-10-14"
+    },
+    {
+      "number": 100,
+      "filename": "100_Innenausbau_Abschlag.pdf",
+      "date": "2028-07-15",
+      "issuer": "ausbau",
+      "id": "IA-28-074",
+      "label": "Innenausbau Abschlag",
+      "kg": "300",
+      "net": 150000,
+      "vat": 28500.0,
+      "gross": 178500.0,
+      "rate": 0.19,
+      "period": "01.06.2028 bis 12.07.2028",
+      "kind": "Rechnung",
+      "items": [
+        [
+          "Estrich einschließlich Vorbereitung und Randstreifen",
+          1000,
+          "m²",
+          40
+        ],
+        [
+          "Innenputz und Spachtelarbeiten",
+          2200,
+          "m²",
+          50
+        ]
+      ],
+      "prior": null,
+      "payment": "2028-07-29"
+    },
+    {
+      "number": 101,
+      "filename": "101_Innenausbau_Schlussrechnung.pdf",
+      "date": "2028-09-30",
+      "issuer": "ausbau",
+      "id": "IA-28-095",
+      "label": "Innenausbau Schlussrechnung",
+      "kg": "300",
+      "net": 150000,
+      "vat": 28500.0,
+      "gross": 178500.0,
+      "rate": 0.19,
+      "period": "13.07.2028 bis 15.09.2028",
+      "kind": "Rechnung",
+      "items": [
+        [
+          "Bodenbeläge gemäß Raumbuch",
+          600,
+          "m²",
+          100
+        ],
+        [
+          "Innentüren einschließlich Zargen und Beschlägen",
+          80,
+          "Stück",
+          500
+        ],
+        [
+          "Malerarbeiten einschließlich Untergrundbehandlung",
+          2500,
+          "m²",
+          20
+        ]
+      ],
+      "prior": [
+        "IA-28-074"
+      ],
+      "payment": "2028-10-14"
+    },
+    {
+      "number": 102,
+      "filename": "102_Aufzug_Schlussrechnung.pdf",
+      "date": "2028-09-30",
+      "issuer": "aufzug",
+      "id": "HA-28-093",
+      "label": "Aufzugsanlage",
+      "kg": "400",
+      "net": 60000,
+      "vat": 11400.0,
+      "gross": 71400.0,
+      "rate": 0.19,
+      "period": "01.07.2028 bis 15.09.2028",
+      "kind": "Rechnung",
+      "items": [
+        [
+          "Aufzugsanlage einschließlich Steuerung und Kabine",
+          1,
+          "Anlage",
+          42000
+        ],
+        [
+          "Montage und Anschlussarbeiten",
+          1,
+          "Auftrag",
+          12000
+        ],
+        [
+          "Prüfungen, Inbetriebnahme und Betreiberunterlagen",
+          1,
+          "Auftrag",
+          6000
+        ]
+      ],
+      "prior": null,
+      "payment": "2028-10-14"
+    },
+    {
+      "number": 103,
+      "filename": "103_Aussenanlagen_Schlussrechnung.pdf",
+      "date": "2028-11-15",
+      "issuer": "aussen",
+      "id": "GG-28-115",
+      "label": "Außenanlagen und Entwässerung",
+      "kg": "500",
+      "net": 120000,
+      "vat": 22800.0,
+      "gross": 142800.0,
+      "rate": 0.19,
+      "period": "01.08.2028 bis 10.11.2028",
+      "kind": "Rechnung",
+      "items": [
+        [
+          "Befestigte Flächen einschließlich Unterbau",
+          500,
+          "m²",
+          100
+        ],
+        [
+          "Außenentwässerung einschließlich Schächten",
+          200,
+          "m",
+          200
+        ],
+        [
+          "Pflanzflächen einschließlich Bodenvorbereitung",
+          300,
+          "m²",
+          60
+        ],
+        [
+          "Fahrradabstellanlage und Einfriedung",
+          1,
+          "Auftrag",
+          12000
+        ]
+      ],
+      "prior": null,
+      "payment": "2028-11-29"
+    },
+    {
+      "number": 104,
+      "filename": "104_Hausanschluesse_Rechnung.pdf",
+      "date": "2028-08-20",
+      "issuer": "versorger",
+      "id": "LN-28-081",
+      "label": "Hausanschlüsse",
+      "kg": "200",
+      "net": 35000,
+      "vat": 6650.0,
+      "gross": 41650.0,
+      "rate": 0.19,
+      "period": "01.07.2028 bis 15.08.2028",
+      "kind": "Rechnung",
+      "items": [
+        [
+          "Trinkwasseranschluss Grundstück bis Übergabestelle",
+          1,
+          "Anschluss",
+          8500
+        ],
+        [
+          "Schmutzwasseranschluss und Übergabeschacht",
+          1,
+          "Anschluss",
+          12000
+        ],
+        [
+          "Stromanschluss einschließlich Netzanschlussschrank",
+          1,
+          "Anschluss",
+          14500
+        ]
+      ],
+      "prior": null,
+      "payment": "2028-09-03"
+    },
+    {
+      "number": 105,
+      "filename": "105_Rohbau_Nachtrag_Draenpackung.pdf",
+      "date": "2028-03-05",
+      "issuer": "rohbau",
+      "id": "SH-28-N01",
+      "label": "Nachtrag Drän- und Filterpackung",
+      "kg": "300",
+      "net": 18000,
+      "vat": 3420.0,
+      "gross": 21420.0,
+      "rate": 0.19,
+      "period": "07.02.2028 bis 11.02.2028",
+      "kind": "Rechnung",
+      "items": [
+        [
+          "Zusätzlicher Aushub gemäß Freigabe vom 05.02.2028",
+          60,
+          "m³",
+          85
+        ],
+        [
+          "Filtermaterial liefern und einbauen",
+          45,
+          "m³",
+          160
+        ],
+        [
+          "Zusätzliche Dränleitung mit Filtervlies",
+          30,
+          "m",
+          95
+        ],
+        [
+          "Zusätzliche Arbeitsstunden gemäß bestätigtem Stundenbericht",
+          57,
+          "Stunde",
+          50
+        ]
+      ],
+      "prior": null,
+      "payment": "2028-03-19"
+    },
+    {
+      "number": 106,
+      "filename": "106_Innenausbau_Rechnungskorrektur.pdf",
+      "date": "2028-10-15",
+      "issuer": "ausbau",
+      "id": "IA-G-28-017",
+      "label": "Rechnungskorrektur zu IA-28-095",
+      "kg": "300",
+      "net": -2500,
+      "vat": -475.0,
+      "gross": -2975.0,
+      "rate": 0.19,
+      "period": "15.10.2028",
+      "kind": "Rechnungskorrektur",
+      "items": [
+        [
+          "Vereinbarte Entgeltminderung für die abweichende Belagsausführung in Wohnung 07 gemäß Vereinbarung vom 15.10.2028",
+          1,
+          "Vereinbarung",
+          -2500
+        ]
+      ],
+      "prior": null,
+      "payment": "2028-11-15"
+    },
+    {
+      "number": 119,
+      "filename": "119_PV_Lieferung_Montage_Nullsteuersatz.pdf",
+      "date": "2028-09-30",
+      "issuer": "elektro",
+      "id": "LE-PV-28-099",
+      "label": "PV-Anlage Lieferung und Montage",
+      "kg": "400",
+      "net": 45000,
+      "vat": 0,
+      "gross": 45000,
+      "rate": 0,
+      "period": "01.08.2028 bis 15.09.2028",
+      "kind": "Rechnung",
+      "items": [
+        [
+          "Solarmodule mit je 450 W Nennleistung einschließlich Unterkonstruktion",
+          80,
+          "Modul",
+          400
+        ],
+        [
+          "Wechselrichter, Anlagenverkabelung und Inbetriebnahme",
+          1,
+          "Anlage",
+          13000
+        ]
+      ],
+      "prior": null,
+      "payment": "2028-10-14"
+    }
+  ],
+  "transactions": [
+    {
+      "date": "2026-11-15",
+      "reference": "EK-20261115",
+      "counterparty": "Steinbogen Beteiligungen GmbH",
+      "invoice": "EK",
+      "amount": 800000,
+      "direction": "Zufluss",
+      "balance": 800000
+    },
+    {
+      "date": "2026-11-18",
+      "reference": "SW-74-20261118",
+      "counterparty": "Wohnfeld Grundstücke GmbH",
+      "invoice": "WG-26-104",
+      "amount": 16065.0,
+      "direction": "Abfluss",
+      "balance": 783935.0
+    },
+    {
+      "date": "2026-11-27",
+      "reference": "SW-70-20261127",
+      "counterparty": "Leinequartier Grundstücksverwaltung GmbH",
+      "invoice": "KP-2026-118",
+      "amount": 450000,
+      "direction": "Abfluss",
+      "balance": 333935.0
+    },
+    {
+      "date": "2026-12-08",
+      "reference": "SW-71-20261208",
+      "counterparty": "Finanzamt Hildesheim",
+      "invoice": "GRE-26-816",
+      "amount": 22500,
+      "direction": "Abfluss",
+      "balance": 311435.0
+    },
+    {
+      "date": "2027-01-01",
+      "reference": "DL-20270101",
+      "counterparty": "Leinebogen Projektbank AG",
+      "invoice": "Darlehen",
+      "amount": 400000,
+      "direction": "Zufluss",
+      "balance": 711435.0
+    },
+    {
+      "date": "2027-01-05",
+      "reference": "SW-72-20270105",
+      "counterparty": "Notarin Dr. Carla Fink",
+      "invoice": "NF-26-118-139",
+      "amount": 7850.51,
+      "direction": "Abfluss",
+      "balance": 703584.49
+    },
+    {
+      "date": "2027-01-06",
+      "reference": "SW-73-20270106",
+      "counterparty": "Amtsgericht Hildesheim, Grundbuchamt",
+      "invoice": "GB-26-778",
+      "amount": 4047.5,
+      "direction": "Abfluss",
+      "balance": 699536.99
+    },
+    {
+      "date": "2027-01-15",
+      "reference": "EK-20270115",
+      "counterparty": "Steinbogen Beteiligungen GmbH",
+      "invoice": "EK",
+      "amount": 700000,
+      "direction": "Zufluss",
+      "balance": 1399536.99
+    },
+    {
+      "date": "2027-01-16",
+      "reference": "SW-77-20270116",
+      "counterparty": "Leinebogen Projektbank AG",
+      "invoice": "LB-27-010",
+      "amount": 10000,
+      "direction": "Abfluss",
+      "balance": 1389536.99
+    },
+    {
+      "date": "2027-02-01",
+      "reference": "SW-88-20270201",
+      "counterparty": "Bodenprofil Ingenieure GmbH",
+      "invoice": "BP-27-018",
+      "amount": 14280.0,
+      "direction": "Abfluss",
+      "balance": 1375256.99
+    },
+    {
+      "date": "2027-07-01",
+      "reference": "DL-20270701",
+      "counterparty": "Leinebogen Projektbank AG",
+      "invoice": "Darlehen",
+      "amount": 400000,
+      "direction": "Zufluss",
+      "balance": 1775256.99
+    },
+    {
+      "date": "2027-10-01",
+      "reference": "DL-20271001",
+      "counterparty": "Leinebogen Projektbank AG",
+      "invoice": "Darlehen",
+      "amount": 800000,
+      "direction": "Zufluss",
+      "balance": 2575256.99
+    },
+    {
+      "date": "2027-10-05",
+      "reference": "SW-75-20271005",
+      "counterparty": "Stadt Hildesheim, Bauaufsicht",
+      "invoice": "BA-27-328-K",
+      "amount": 4957.4,
+      "direction": "Abfluss",
+      "balance": 2570299.59
+    },
+    {
+      "date": "2027-10-08",
+      "reference": "SW-80-20271008",
+      "counterparty": "Konturfeld Architektur PartG mbB",
+      "invoice": "KF-27-091",
+      "amount": 46588.5,
+      "direction": "Abfluss",
+      "balance": 2523711.09
+    },
+    {
+      "date": "2027-10-11",
+      "reference": "SW-84-20271011",
+      "counterparty": "Planwerk Haustechnik GmbH",
+      "invoice": "PT-27-092",
+      "amount": 35700.0,
+      "direction": "Abfluss",
+      "balance": 2488011.09
+    },
+    {
+      "date": "2027-12-06",
+      "reference": "SW-76-20271206",
+      "counterparty": "Bauwert Versicherung AG",
+      "invoice": "BV-27-180",
+      "amount": 9000,
+      "direction": "Abfluss",
+      "balance": 2479011.09
+    },
+    {
+      "date": "2027-12-10",
+      "reference": "SW-81-20271210",
+      "counterparty": "Konturfeld Architektur PartG mbB",
+      "invoice": "KF-27-116",
+      "amount": 67294.5,
+      "direction": "Abfluss",
+      "balance": 2411716.59
+    },
+    {
+      "date": "2027-12-31",
+      "reference": "SW-78-20271231",
+      "counterparty": "Leinebogen Projektbank AG",
+      "invoice": "LB-Z-2027",
+      "amount": 28800,
+      "direction": "Abfluss",
+      "balance": 2382916.59
+    },
+    {
+      "date": "2028-01-15",
+      "reference": "EK-20280115",
+      "counterparty": "Steinbogen Beteiligungen GmbH",
+      "invoice": "EK",
+      "amount": 600000,
+      "direction": "Zufluss",
+      "balance": 2982916.59
+    },
+    {
+      "date": "2028-02-29",
+      "reference": "SW-91-20280229",
+      "counterparty": "Steinwerk Hochbau GmbH",
+      "invoice": "SH-28-021",
+      "amount": 238000.0,
+      "direction": "Abfluss",
+      "balance": 2744916.59
+    },
+    {
+      "date": "2028-03-19",
+      "reference": "SW-105-20280319",
+      "counterparty": "Steinwerk Hochbau GmbH",
+      "invoice": "SH-28-N01",
+      "amount": 21420.0,
+      "direction": "Abfluss",
+      "balance": 2723496.59
+    },
+    {
+      "date": "2028-04-29",
+      "reference": "SW-92-20280429",
+      "counterparty": "Steinwerk Hochbau GmbH",
+      "invoice": "SH-28-046",
+      "amount": 357000.0,
+      "direction": "Abfluss",
+      "balance": 2366496.59
+    },
+    {
+      "date": "2028-05-29",
+      "reference": "SW-94-20280529",
+      "counterparty": "Dachraum Gebäudehülle GmbH",
+      "invoice": "DG-28-052",
+      "amount": 261800.0,
+      "direction": "Abfluss",
+      "balance": 2104696.59
+    },
+    {
+      "date": "2028-06-15",
+      "reference": "SW-98-20280615",
+      "counterparty": "Lichtkreis Elektro GmbH",
+      "invoice": "LE-28-061",
+      "amount": 89250.0,
+      "direction": "Abfluss",
+      "balance": 2015446.59
+    },
+    {
+      "date": "2028-06-19",
+      "reference": "SW-98-20280619",
+      "counterparty": "Lichtkreis Elektro GmbH",
+      "invoice": "LE-28-061",
+      "amount": 89250,
+      "direction": "Abfluss",
+      "balance": 1926196.59
+    },
+    {
+      "date": "2028-06-29",
+      "reference": "SW-96-20280629",
+      "counterparty": "Wärmefluss Haustechnik GmbH",
+      "invoice": "WH-28-063",
+      "amount": 214200.0,
+      "direction": "Abfluss",
+      "balance": 1711996.59
+    },
+    {
+      "date": "2028-07-29",
+      "reference": "SW-100-20280729",
+      "counterparty": "Innenraum Ausbau GmbH",
+      "invoice": "IA-28-074",
+      "amount": 178500.0,
+      "direction": "Abfluss",
+      "balance": 1533496.59
+    },
+    {
+      "date": "2028-09-03",
+      "reference": "SW-104-20280903",
+      "counterparty": "Leineanschluss Netzdienste GmbH",
+      "invoice": "LN-28-081",
+      "amount": 41650.0,
+      "direction": "Abfluss",
+      "balance": 1491846.59
+    },
+    {
+      "date": "2028-10-06",
+      "reference": "SW-86-20281006",
+      "counterparty": "Ingenieurbüro Bogenwerk",
+      "invoice": "BW-28-093",
+      "amount": 47600.0,
+      "direction": "Abfluss",
+      "balance": 1444246.59
+    },
+    {
+      "date": "2028-10-08",
+      "reference": "SW-87-20281008",
+      "counterparty": "Vermessungsbüro Leinepunkt",
+      "invoice": "LP-28-094",
+      "amount": 17850.0,
+      "direction": "Abfluss",
+      "balance": 1426396.59
+    },
+    {
+      "date": "2028-10-09",
+      "reference": "SW-89-20281009",
+      "counterparty": "Energiepfad Ingenieurbüro",
+      "invoice": "EP-28-096",
+      "amount": 11900.0,
+      "direction": "Abfluss",
+      "balance": 1414496.59
+    },
+    {
+      "date": "2028-10-09",
+      "reference": "SW-90-20281009",
+      "counterparty": "Brandschutzbüro Rettungsweg",
+      "invoice": "RW-28-095",
+      "amount": 9520.0,
+      "direction": "Abfluss",
+      "balance": 1404976.59
+    },
+    {
+      "date": "2028-10-14",
+      "reference": "SW-101-20281014",
+      "counterparty": "Innenraum Ausbau GmbH",
+      "invoice": "IA-28-095",
+      "amount": 178500.0,
+      "direction": "Abfluss",
+      "balance": 1226476.59
+    },
+    {
+      "date": "2028-10-14",
+      "reference": "SW-102-20281014",
+      "counterparty": "Hubpunkt Aufzüge GmbH",
+      "invoice": "HA-28-093",
+      "amount": 71400.0,
+      "direction": "Abfluss",
+      "balance": 1155076.59
+    },
+    {
+      "date": "2028-10-14",
+      "reference": "SW-119-20281014",
+      "counterparty": "Lichtkreis Elektro GmbH",
+      "invoice": "LE-PV-28-099",
+      "amount": 45000,
+      "direction": "Abfluss",
+      "balance": 1110076.59
+    },
+    {
+      "date": "2028-10-14",
+      "reference": "SW-93-20281014",
+      "counterparty": "Steinwerk Hochbau GmbH",
+      "invoice": "SH-28-093",
+      "amount": 178500.0,
+      "direction": "Abfluss",
+      "balance": 931576.59
+    },
+    {
+      "date": "2028-10-14",
+      "reference": "SW-95-20281014",
+      "counterparty": "Dachraum Gebäudehülle GmbH",
+      "invoice": "DG-28-098",
+      "amount": 261800.0,
+      "direction": "Abfluss",
+      "balance": 669776.59
+    },
+    {
+      "date": "2028-10-14",
+      "reference": "SW-97-20281014",
+      "counterparty": "Wärmefluss Haustechnik GmbH",
+      "invoice": "WH-28-094",
+      "amount": 214200.0,
+      "direction": "Abfluss",
+      "balance": 455576.59
+    },
+    {
+      "date": "2028-10-14",
+      "reference": "SW-99-20281014",
+      "counterparty": "Lichtkreis Elektro GmbH",
+      "invoice": "LE-28-098",
+      "amount": 35700.0,
+      "direction": "Abfluss",
+      "balance": 419876.59
+    },
+    {
+      "date": "2028-11-03",
+      "reference": "SW-82-20281103",
+      "counterparty": "Konturfeld Architektur PartG mbB",
+      "invoice": "KF-28-104",
+      "amount": 55216.0,
+      "direction": "Abfluss",
+      "balance": 364660.59
+    },
+    {
+      "date": "2028-11-05",
+      "reference": "SW-85-20281105",
+      "counterparty": "Planwerk Haustechnik GmbH",
+      "invoice": "PT-28-104",
+      "amount": 41650.0,
+      "direction": "Abfluss",
+      "balance": 323010.59
+    },
+    {
+      "date": "2028-11-15",
+      "reference": "SW-106-20281115",
+      "counterparty": "Innenraum Ausbau GmbH",
+      "invoice": "IA-G-28-017",
+      "amount": 2975.0,
+      "direction": "Erstattung",
+      "balance": 325985.59
+    },
+    {
+      "date": "2028-11-29",
+      "reference": "SW-103-20281129",
+      "counterparty": "Grünkante Garten und Tiefbau GmbH",
+      "invoice": "GG-28-115",
+      "amount": 142800.0,
+      "direction": "Abfluss",
+      "balance": 183185.59
+    },
+    {
+      "date": "2028-12-15",
+      "reference": "LE-RET-20281215",
+      "counterparty": "Lichtkreis Elektro GmbH",
+      "invoice": "LE-28-061",
+      "amount": 89250,
+      "direction": "Erstattung",
+      "balance": 272435.59
+    },
+    {
+      "date": "2028-12-31",
+      "reference": "SW-79-20281231",
+      "counterparty": "Leinebogen Projektbank AG",
+      "invoice": "LB-Z-2028",
+      "amount": 51200,
+      "direction": "Abfluss",
+      "balance": 221235.59
+    },
+    {
+      "date": "2033-09-30",
+      "reference": "SW-83-20330930",
+      "counterparty": "Konturfeld Architektur PartG mbB",
+      "invoice": "KF-33-092",
+      "amount": 3451.0,
+      "direction": "Abfluss",
+      "balance": 217784.59
+    }
+  ],
+  "budget": 3650000,
+  "base": 3463770.41,
+  "total": 3482215.41,
+  "groups": [
+    [
+      "100",
+      "Grundstück und Erwerbsnebenkosten",
+      500463.01
+    ],
+    [
+      "200",
+      "Hausanschlüsse",
+      41650
+    ],
+    [
+      "300",
+      "Baukonstruktion",
+      1654100
+    ],
+    [
+      "400",
+      "Technische Anlagen",
+      669750
+    ],
+    [
+      "500",
+      "Außenanlagen",
+      142800
+    ],
+    [
+      "700",
+      "Planung, Versicherung, Gebühren",
+      365007.4
+    ],
+    [
+      "800",
+      "Finanzierung bis Ende 2028",
+      90000
+    ]
+  ],
+  "equity": 2100000,
+  "loan": 1600000,
+  "interest": 0.036,
+  "repayment": 0.015,
+  "areas": [
+    68,
+    75,
+    82,
+    68,
+    75,
+    82,
+    75,
+    75
+  ],
+  "rent_sqm": 13.5,
+  "parking_count": 8,
+  "parking_rent": 50,
+  "operating_cost": 18000,
+  "asof": "2033-10-05",
+  "vat_deductible": 0,
+  "accounting_note": "Projektmittelrechnung. Keine abschließende Feststellung handels- oder steuerrechtlicher Herstellungskosten."
+}
