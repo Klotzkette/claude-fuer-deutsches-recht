@@ -17,6 +17,8 @@ Die ERVB 2025 erlaubt höchstens 90 Zeichen einschließlich Dateiendung, höchst
 
 ## 2. Transliteration
 
+Das beA-Handbuch nennt für gewöhnliche Anhänge eine engere Anwendungsgrenze von 84 Zeichen, für Signaturdateien 90 Zeichen einschließlich aller Endungen. Das interne 80-Zeichen-Profil bleibt für PDFs darunter. Eine anschließende Signaturendung ebenfalls mitzählen; nicht auf eine automatische Umbenennung im Versanddialog vertrauen.
+
 `ä` wird `ae`, `ö` wird `oe`, `ü` wird `ue`, `ß` wird `ss`. Mehrere Trennzeichen werden zu einem Unterstrich. Kürze zuerst Füllwörter und erst danach die Sachbezeichnung. Anlagenkennung und Dateiendung dürfen nie abgeschnitten werden.
 
 ## 3. Muster
@@ -30,6 +32,8 @@ Die ERVB 2025 erlaubt höchstens 90 Zeichen einschließlich Dateiendung, höchst
 ## 4. Paketierung
 
 Berechne Anzahl und Bytes aus den finalen Dateien, nicht aus Quellen oder Schätzungen. Wird eine Grenze erreicht, bilde Teilnachrichten mit Sicherheitsreserve. Teile keine mehrseitige Anlage. Halte Hauptdokument, Anlagenverzeichnis und den zuerst benötigten Anlagenbereich logisch zusammen.
+
+Strukturdaten, Nachrichtentext und Signaturdateien zählen mit. Die Ordnergröße allein prüft daher noch nicht die fertige Nachricht. Das Werkzeug rechnet vorsorglich mit 200 Millionen Bytes und warnt ab 190 Millionen Bytes oder 950 Dateien; diese Reserve ist eine Kanzleiregel, keine zusätzliche gesetzliche Grenze. Eine darüber hinaus nötige Aufteilung im Versanddialog kontrollieren.
 
 | Teil | Dateien | Anlagenbereich | Bytes | Begleittext | Eingangsbestätigung |
 | --- | --- | --- | --- | --- | --- |

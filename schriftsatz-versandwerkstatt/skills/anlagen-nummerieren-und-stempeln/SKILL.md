@@ -28,6 +28,8 @@ Eine Datei, die nur im Ordner liegt, wird nicht automatisch versandt. Eine im Sc
 
 ## 3. Stempel
 
+Vor jeder Stempelung vorhandene elektronische Signaturen prüfen. Signierte oder zertifizierte Originale nicht bearbeiten; unverändert sichern und einen gesonderten Einreichungsweg abstimmen. Ein neuer Stempel darf nicht unbemerkt den Bezug einer bestehenden Signatur zur Datei verändern.
+
 Stemple `Anlage K 1`, `Anlage B 3`, `Anlage AST 2` oder `Anlage AG 4` rechts oben auf jede Seite. Prüfe danach jede Seite auf:
 
 - sichtbaren, richtigen Stempel,
@@ -36,6 +38,8 @@ Stemple `Anlage K 1`, `Anlage B 3`, `Anlage AST 2` oder `Anlage AG 4` rechts obe
 - unveränderte Seitenzahl.
 
 Wenn rechts oben kein freier Bereich besteht, verwende nach ausdrücklicher Festlegung einen gleichbleibenden anderen Randbereich oder ein vorgeschaltetes Deckblatt. Nicht still über Inhalt stempeln.
+
+Das mitgelieferte Werkzeug erkennt keinen freien Rand automatisch. Sein Stempelergebnis deshalb immer sichtbar prüfen. Bei doppelter Kennung keine Version bevorzugen und keine Datei überschreiben; Buchstabenzusätze wie `B 7a` und `B 7b` auch im Dateinamen erhalten.
 
 ## 4. Ergebnis
 

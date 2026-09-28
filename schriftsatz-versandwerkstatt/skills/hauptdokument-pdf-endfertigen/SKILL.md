@@ -27,7 +27,7 @@ Prüfe jede Seite, mindestens aber systematisch:
 | Seiten | richtige Reihenfolge, keine Leer- oder Doppelseite |
 | Fußzeile | Seitenzahl und Kanzleiangaben nicht überlagert |
 | Tabellen/Bilder | vollständig, lesbar und nicht über den Rand verschoben |
-| einfache Signatur | Name der verantwortenden Person am Dokumentende sichtbar |
+| Formroute | bei einfacher Signatur Name der verantwortenden Person am Dokumentende; bei qES gesonderter Prüfnachweis für die finale Datei |
 | PDF | unverschlüsselt, druckbar, ohne eingebettete Dateien oder ausführbare Inhalte |
 
 ## 4. Benennung

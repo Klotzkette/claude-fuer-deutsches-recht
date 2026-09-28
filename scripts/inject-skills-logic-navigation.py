@@ -121,6 +121,22 @@ EXACT_GROUPS: dict[str, str] = {
 }
 
 PLUGIN_GROUPS = {
+    "schriftsatz-versandwerkstatt": [
+        ("1. Auftrag, Fassung und Anlagenzuordnung", [
+            "versandmappe-endfertigen", "ordneraufnahme-und-produktionsmatrix",
+        ]),
+        ("2. PDF-Produktion und Anlagenkennzeichnung", [
+            "hauptdokument-pdf-endfertigen", "anlagen-konvertieren-und-sichtpruefen",
+            "anlagen-nummerieren-und-stempeln",
+        ]),
+        ("3. Dateinamen, Grenzen und Signaturroute", [
+            "dateinamen-und-paketgrenzen-pruefen", "signaturweg-und-absender-pruefen",
+        ]),
+        ("4. Freigabe und Eingangskontrolle", ["versandfreigabe-und-eingang-sichern"]),
+        ("5. Formhindernisse und Störungen", [
+            "juristischer-argumentationskern", "stoerung-und-nachreichung-dokumentieren",
+        ]),
+    ],
     "bauwirtschaft": [
         ("1. Projektführung und Entscheidungen", [
             "bauprojekt-starten-und-arbeitsstand-fortfuehren",

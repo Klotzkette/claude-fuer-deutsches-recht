@@ -10,7 +10,7 @@ description: "Führt die letzte technische und organisatorische Freigabe der Ver
 Öffne die finalen Dateien aus `versandfertig/`, nicht die Quellen. Prüfe:
 
 1. richtiges Gericht und richtiges Aktenzeichen oder eindeutig `Neueingang`,
-2. finale Schriftsatzfassung und sichtbare einfache Signatur,
+2. finale Schriftsatzfassung und die für die gewählte Route erforderliche einfache Signatur oder geprüfte qES,
 3. lückenlose Anlagenfolge und Übereinstimmung mit dem Schriftsatz,
 4. jede PDF lesbar, unverschlüsselt, druckbar und ohne aktive Inhalte,
 5. Dateinamen, Anzahl und Gesamtbytes,
@@ -27,6 +27,8 @@ description: "Führt die letzte technische und organisatorische Freigabe der Ver
 ## 3. Freigabevermerk
 
 Erzeuge aus `assets/freigabevermerk.md` einen konkreten Vermerk. Keine Kästchen als erledigt markieren, wenn der Prüfschritt nicht tatsächlich erfolgt ist. Nenne Hauptdokument, Anlagenbereich, Dateien, Bytes, Hash des Hauptdokuments, Frist, Signaturroute, Verantwortlichen und Versender.
+
+Die erste Produktion darf mit offener Sichtkontrolle enden. Später erledigte Befunde mit Prüfer, Zeitpunkt und Hash der unveränderten Ausgaben ergänzen und den ursprünglichen Prüfbericht erhalten. Keinen Neu-Export allein für einen grünen Status auslösen. Nach tatsächlicher Änderung die betroffenen Dateien erneut prüfen; weder alte Sichtfreigabe noch Signaturprüfung ungeprüft übertragen.
 
 ## 4. Eingangskontrolle
 

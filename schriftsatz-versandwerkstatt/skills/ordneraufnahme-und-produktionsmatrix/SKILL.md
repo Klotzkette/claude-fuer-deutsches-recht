@@ -22,11 +22,11 @@ Nutze diesen Skill bei einem Ordner, ZIP-Inhalt oder Dateisatz, dessen Rollen no
 
 Bei mehreren Schriftsatzfassungen nicht nach jedem Dokument fragen. Lege eine Rangfolge vor:
 
-1. ausdrücklich als final oder unterschriftsreif bezeichnete Fassung,
-2. jüngste Fassung mit vollständigem Rubrum und Anträgen,
+1. durch die verantwortende Person ausdrücklich freigegebene Fassung,
+2. inhaltlich passende Fassung; „final“ im Namen und jüngstes Änderungsdatum sind lediglich Suchhinweise,
 3. versandte oder signierte Fassung nur als Vergleich, niemals stillschweigend überschreiben.
 
-Frage einmal: `Soll [Dateiname, Stand] als Hauptdokument endgefertigt werden?` Nur bei gleichwertigen Kandidaten ist diese Rückfrage zwingend.
+Ist die Freigabe nicht belegt oder stehen sich Fassungen inhaltlich entgegen, frage: `Soll [Dateiname, Stand] als Hauptdokument endgefertigt werden?` Eine eindeutige Freigabe nicht erneut abfragen.
 
 ## 4. Produktionsmatrix
 
@@ -37,6 +37,8 @@ Frage einmal: `Soll [Dateiname, Stand] als Hauptdokument endgefertigt werden?` N
 
 ## 5. Lückenlogik
 
+Ordne beliebige Originalnamen anhand des Schriftsatzes mit dem [Anlagenplan](../../references/ANLAGENPLAN-UND-PRODUKTION.md) zu. Originale nicht umbenennen. Sichtbare Dateien ohne Anlagenbezug benötigen einen dokumentierten Auslassungsgrund; auch E-Mail-Anhänge vollständig erfassen.
+
 - Im Schriftsatz genannt, aber keine Datei vorhanden: `stop`.
 - Datei mit Anlagenkennung, aber nicht im Schriftsatz genannt: `prüfen`, nicht automatisch versenden.
 - Nummernlücke: `stop`, bis Fortsetzung oder bewusste Lücke bestätigt ist.
@@ -45,4 +47,4 @@ Frage einmal: `Soll [Dateiname, Stand] als Hauptdokument endgefertigt werden?` N
 
 ## 6. Übergabe
 
-Liefere Produktionsmatrix, Konfliktliste und höchstens zwei gebündelte Rückfragen. Übergib anschließend ohne erneute Inventur an `hauptdokument-pdf-endfertigen` und `anlagen-konvertieren-und-sichtpruefen`.
+Führe die Produktionsmatrix intern. Nenne im Gespräch nur offene Konflikte und die dazu nötigen gebündelten Rückfragen, sofern keine Inventarliste verlangt wurde. Übergib ohne erneute Inventur an die benötigte Produktionsroute; nach Klärung gezielt fortsetzen.

@@ -20,6 +20,7 @@ import sys
 import tempfile
 import textwrap
 import unicodedata
+from collections import Counter
 from dataclasses import dataclass, field
 from datetime import date, datetime
 from email import policy
@@ -57,9 +58,10 @@ BILD_ENDUNGEN = {".jpg", ".jpeg", ".png", ".bmp", ".tif", ".tiff"}
 TEXT_ENDUNGEN = {".txt", ".csv", ".tsv", ".md", ".log"}
 HTML_ENDUNGEN = {".htm", ".html"}
 EMAIL_ENDUNGEN = {".eml"}
+KENNUNG_REGEX = re.compile(r"(?:Anlage\s+)?(?P<praefix>AST|AG|K|B)[ _-]*(?P<nummer>[0-9]{1,3})(?P<suffix>[a-z]?)", re.IGNORECASE)
 AKTIVE_PDF_MARKER = (b"/JavaScript", b"/JS", b"/EmbeddedFiles", b"/Launch")
 MAX_DATEIEN_PRO_NACHRICHT = 1000
-MAX_BYTES_PRO_NACHRICHT = 200 * 1024 * 1024
+MAX_BYTES_PRO_NACHRICHT = 200_000_000
 OFFICE_TIMEOUT = 120
 
 
@@ -170,12 +172,12 @@ def ausgabe_name_anlage(
     seq = f"{reihenfolge:0{stellen}d}"
     label = f"Anlage{anlage.praefix}{anlage.nummer}{anlage.suffix}"
     if profil == "nrw":
-        prefix = f"Anlage_{anlage.nummer:0{stellen}d}_"
+        prefix = f"Anlage_{anlage.nummer:0{stellen}d}{anlage.suffix}_"
     elif profil == "bund":
         prefix = f"{seq}_{label}_"
     else:
         prefix = f"{seq}_{datum}_{label}_"
-    max_laenge = 90 if profil == "bund" else 80 if profil == "kanzlei-ascii" else 60
+    max_laenge = 84 if profil == "bund" else 80 if profil == "kanzlei-ascii" else 60
     return begrenze_dateiname(prefix, anlage.beschreibung, max_laenge)
 
 
@@ -185,12 +187,16 @@ def ausgabe_name_hauptdokument(profil: str, datum: str, praefix: str, dokumentar
         prefix = f"{ascii_segment(praefix)}_"
         return begrenze_dateiname(prefix, dokumentart, 60)
     if profil == "bund":
-        return begrenze_dateiname("00_", dokumentart, 90)
+        return begrenze_dateiname("00_", dokumentart, 84)
     max_laenge = 80 if profil == "kanzlei-ascii" else 60
     return begrenze_dateiname(f"00_{datum}_", dokumentart, max_laenge)
 
 
 def schreibe_text_pdf(ziel: Path, titel: str, kopf: list[tuple[str, str]], inhalt: str) -> None:
+    try:
+        "\n".join([titel, inhalt, *(wert for _, wert in kopf)]).encode("cp1252")
+    except UnicodeEncodeError as exc:
+        raise ValueError("Text enthält Zeichen außerhalb der verfügbaren PDF-Schrift; mit geeigneten Schriften exportieren, nicht durch Fragezeichen ersetzen") from exc
     breite, hoehe = A4
     links = 1.8 * cm
     oben = hoehe - 1.8 * cm
@@ -262,6 +268,16 @@ def konvertiere_html(quelle: Path, ziel: Path) -> None:
     schreibe_text_pdf(ziel, quelle.name, [("Quelle", quelle.name)], parser.text())
 
 
+def email_anhaenge(nachricht):
+    """Auch Bilder im ausgewählten HTML-/Related-Nachrichtenteil erfassen."""
+    direkt = list(nachricht.iter_attachments())
+    yield from direkt
+    direkte_ids = {id(part) for part in direkt}
+    for part in nachricht.iter_parts():
+        if id(part) not in direkte_ids and part.is_multipart():
+            yield from email_anhaenge(part)
+
+
 def konvertiere_email(quelle: Path, ziel: Path) -> None:
     nachricht = BytesParser(policy=policy.default).parsebytes(quelle.read_bytes())
     teil = nachricht.get_body(preferencelist=("plain", "html"))
@@ -272,36 +288,36 @@ def konvertiere_email(quelle: Path, ziel: Path) -> None:
             parser = TextAusHtml()
             parser.feed(str(inhalt))
             inhalt = parser.text()
-    anhaenge = [part.get_filename() or "[ohne Dateiname]" for part in nachricht.iter_attachments()]
+    anhaenge = [part.get_filename() or "[ohne Dateiname]" for part in email_anhaenge(nachricht)]
     kopf = [
         ("Von", str(nachricht.get("From", ""))),
         ("An", str(nachricht.get("To", ""))),
         ("Cc", str(nachricht.get("Cc", ""))),
         ("Datum", str(nachricht.get("Date", ""))),
         ("Betreff", str(nachricht.get("Subject", ""))),
-        ("Anhaenge", ", ".join(anhaenge) if anhaenge else "keine eingebetteten Anhaenge"),
+        ("Anhänge", ", ".join(anhaenge) if anhaenge else "keine eingebetteten Anhänge"),
     ]
     schreibe_text_pdf(ziel, "E-Mail", kopf, str(inhalt))
 
 
 def konvertiere_bild(quelle: Path, ziel: Path) -> None:
-    bild = ImageReader(str(quelle))
-    breite, hoehe = bild.getSize()
+    from PIL import Image, ImageOps, ImageSequence
+
     seiten_breite, seiten_hoehe = A4
     rand = 1.5 * cm
-    faktor = min((seiten_breite - 2 * rand) / breite, (seiten_hoehe - 2 * rand) / hoehe)
-    zeich_breite = breite * faktor
-    zeich_hoehe = hoehe * faktor
     c = canvas.Canvas(str(ziel), pagesize=A4)
-    c.drawImage(
-        bild,
-        (seiten_breite - zeich_breite) / 2,
-        (seiten_hoehe - zeich_hoehe) / 2,
-        width=zeich_breite,
-        height=zeich_hoehe,
-        preserveAspectRatio=True,
-        mask="auto",
-    )
+    with Image.open(quelle) as original:
+        for frame in ImageSequence.Iterator(original):
+            frame = ImageOps.exif_transpose(frame.copy()).convert("RGBA")
+            bild = Image.new("RGB", frame.size, "white")
+            bild.paste(frame, mask=frame.getchannel("A"))
+            breite, hoehe = bild.size
+            faktor = min((seiten_breite - 2 * rand) / breite, (seiten_hoehe - 2 * rand) / hoehe)
+            zeich_breite, zeich_hoehe = breite * faktor, hoehe * faktor
+            c.drawImage(ImageReader(bild), (seiten_breite - zeich_breite) / 2,
+                        (seiten_hoehe - zeich_hoehe) / 2, width=zeich_breite,
+                        height=zeich_hoehe, preserveAspectRatio=True, mask="auto")
+            c.showPage()
     c.save()
 
 
@@ -364,18 +380,62 @@ def als_pdf(quelle: Path, temp: Path, konvertieren: bool) -> Path:
     raise RuntimeError(f"Dateityp {quelle.suffix or '[ohne Endung]'} wird nicht automatisch konvertiert")
 
 
+def lese_anlagenplan(pfad: Path, eingang: Path, hauptdokument: Optional[Path]) -> dict[str, dict[str, str]]:
+    """Der Plan ordnet Originalpfade zu; ausgelassene Dateien benötigen einen Grund."""
+    plan: dict[str, dict[str, str]] = {}
+    with pfad.open(encoding="utf-8-sig", newline="") as stream:
+        reader = csv.DictReader(stream, delimiter=";")
+        felder = ["quelle", "anlage", "beschreibung", "auslassen_grund"]
+        if reader.fieldnames != felder:
+            raise ValueError("Anlagenplan benötigt genau: quelle;anlage;beschreibung;auslassen_grund")
+        for nummer, row in enumerate(reader, start=2):
+            if None in row or any(value is None for value in row.values()):
+                raise ValueError(f"Anlagenplan Zeile {nummer}: falsche Spaltenzahl")
+            row = {key: value.strip() for key, value in row.items()}
+            rel = Path(row["quelle"])
+            quelle = eingang / rel
+            if not row["quelle"] or rel.is_absolute() or ".." in rel.parts or "\\" in row["quelle"]:
+                raise ValueError(f"Anlagenplan Zeile {nummer}: relativen Originalpfad verwenden")
+            if (not quelle.resolve().is_relative_to(eingang) or not quelle.is_file()
+                    or any((eingang / Path(*rel.parts[:i])).is_symlink() for i in range(1, len(rel.parts) + 1))):
+                raise ValueError(f"Anlagenplan Zeile {nummer}: Quelle fehlt oder liegt außerhalb des Eingangs")
+            if any(part.startswith(".") for part in rel.parts) or quelle.resolve() == pfad.resolve():
+                raise ValueError(f"Anlagenplan Zeile {nummer}: keine verborgene Datei oder den Plan selbst zuordnen")
+            if hauptdokument and quelle.resolve() == hauptdokument.resolve():
+                raise ValueError("Das Hauptdokument wird separat übergeben, nicht als Anlage zugeordnet")
+            key = rel.as_posix()
+            if key in plan:
+                raise ValueError(f"Anlagenplan: Quelle doppelt zugeordnet: {key}")
+            if bool(row["anlage"]) == bool(row["auslassen_grund"]):
+                raise ValueError(f"Anlagenplan Zeile {nummer}: entweder Kennung oder Auslassungsgrund angeben")
+            if row["anlage"]:
+                match = KENNUNG_REGEX.fullmatch(row["anlage"])
+                if not match or int(match.group("nummer")) < 1:
+                    raise ValueError(f"Anlagenplan Zeile {nummer}: ungültige Anlagenkennung")
+                row.update(match.groupdict())
+            plan[key] = row
+    if not plan:
+        raise ValueError("Anlagenplan ist leer")
+    return plan
+
+
 def lese_anlagen(
     eingang: Path,
     praefix: str,
     temp: Path,
     konvertieren: bool,
     hauptdokument: Optional[Path],
+    plan: Optional[dict[str, dict[str, str]]] = None,
+    plan_pfad: Optional[Path] = None,
 ) -> tuple[list[Anlage], list[Befund]]:
     anlagen: list[Anlage] = []
     befunde: list[Befund] = []
     haupt_resolved = hauptdokument.resolve() if hauptdokument else None
 
     for quelle in sorted(eingang.rglob("*"), key=lambda p: p.relative_to(eingang).as_posix().lower()):
+        if quelle.is_symlink():
+            befunde.append(Befund("STOP", quelle.relative_to(eingang).as_posix(), "Symbolische Verknüpfung nicht verarbeitet; Original ausdrücklich bereitstellen"))
+            continue
         if not quelle.is_file():
             continue
         quelle_relativ = quelle.relative_to(eingang)
@@ -383,12 +443,25 @@ def lese_anlagen(
             continue
         if haupt_resolved and quelle.resolve() == haupt_resolved:
             continue
-        match = ANLAGEN_REGEX.match(quelle.stem)
-        if not match:
-            befunde.append(Befund("HINWEIS", quelle_relativ.as_posix(), "Dateiname enthält keine erkennbare Anlagenkennung; Datei nicht verarbeitet"))
+        if plan_pfad and quelle.resolve() == plan_pfad.resolve():
             continue
-        if match.group("praefix").upper() != praefix.upper():
-            befunde.append(Befund("STOP", quelle_relativ.as_posix(), f"Nummernkreis {match.group('praefix').upper()} passt nicht zu {praefix.upper()}"))
+        if plan is not None:
+            zuordnung = plan.get(quelle_relativ.as_posix())
+            if zuordnung is None:
+                befunde.append(Befund("STOP", quelle_relativ.as_posix(), "Datei fehlt im Anlagenplan; zuordnen oder begründet auslassen"))
+                continue
+            if zuordnung["auslassen_grund"]:
+                befunde.append(Befund("HINWEIS", quelle_relativ.as_posix(), "Bewusst nicht eingereicht: " + zuordnung["auslassen_grund"]))
+                continue
+            daten = zuordnung
+        else:
+            match = ANLAGEN_REGEX.match(quelle.stem)
+            if not match:
+                befunde.append(Befund("STOP", quelle_relativ.as_posix(), "Keine Anlagenkennung; im Anlagenplan zuordnen oder begründet auslassen"))
+                continue
+            daten = match.groupdict()
+        if daten["praefix"].upper() != praefix.upper() or int(daten["nummer"]) < 1:
+            befunde.append(Befund("STOP", quelle_relativ.as_posix(), f"Anlagenkennung passt nicht zum Kreis {praefix.upper()} ab Nummer 1"))
             continue
         try:
             pdf = als_pdf(quelle, temp, konvertieren)
@@ -400,15 +473,32 @@ def lese_anlagen(
                 quelle=quelle,
                 quelle_relativ=quelle_relativ.as_posix(),
                 arbeits_pdf=pdf,
-                praefix=match.group("praefix").upper(),
-                nummer=int(match.group("nummer")),
-                suffix=match.group("suffix").lower(),
-                beschreibung=match.group("beschreibung").replace("-", " ").replace("_", " "),
+                praefix=daten["praefix"].upper(),
+                nummer=int(daten["nummer"]),
+                suffix=daten["suffix"].lower(),
+                beschreibung=(daten["beschreibung"] or quelle.stem).replace("-", " ").replace("_", " "),
                 quell_hash=sha256(quelle),
             )
         )
 
     anlagen.sort(key=lambda a: a.sortier_schluessel)
+    quell_hashes = {a.quell_hash for a in anlagen}
+    ausgelassen = {sha256(eingang / key): row["auslassen_grund"]
+                   for key, row in (plan or {}).items() if row["auslassen_grund"]}
+    for anlage in anlagen:
+        if anlage.quelle.suffix.lower() != ".eml":
+            continue
+        nachricht = BytesParser(policy=policy.default).parsebytes(anlage.quelle.read_bytes())
+        for part in email_anhaenge(nachricht):
+            name = part.get_filename() or "ohne Dateiname"
+            payload = part.get_payload(decode=True)
+            if part.get_content_disposition() != "attachment":
+                befunde.append(Befund("WARNUNG", anlage.quelle_relativ, f"Eingebetteter E-Mail-Inhalt {name}: Textausgabe ersetzt keine visuelle Wiedergabe"))
+            digest = hashlib.sha256(payload).hexdigest() if payload is not None else ""
+            if digest in ausgelassen:
+                befunde.append(Befund("HINWEIS", anlage.quelle_relativ, f"E-Mail-Anhang {name} ausdrücklich ausgeschlossen: {ausgelassen[digest]}"))
+            elif digest not in quell_hashes:
+                befunde.append(Befund("STOP", anlage.quelle_relativ, f"E-Mail-Anhang {name} ist nicht als eigene unveränderte Anlagenquelle zugeordnet oder begründet ausgeschlossen"))
     return anlagen, befunde
 
 
@@ -454,6 +544,27 @@ def pruefe_pdf(quelle: Path, anzeigename: str) -> tuple[PdfReader, int, int, lis
 
 def anlage_stempeln(quelle: Path, ziel: Path, bezeichnung: str, alle_seiten: bool) -> tuple[int, int, list[Befund]]:
     reader, seiten, textzeichen, befunde = pruefe_pdf(quelle, quelle.name)
+    if any(b.stufe == "STOP" for b in befunde):
+        raise RuntimeError("PDF enthält unzulässige aktive oder eingebettete Inhalte; keine Versandausgabe erzeugt")
+    fields = reader.get_fields() or {}
+    if any(field.get("/FT") == "/Sig" and field.get("/V") for field in fields.values()) or reader.trailer["/Root"].get("/Perms"):
+        raise RuntimeError("Signierte oder zertifizierte PDF nicht stempeln; Original erhalten und gesonderte Zuordnung abstimmen")
+    # Signaturfelder können in fehlerhaften Dateien nur als Seiten-Widgets vorhanden sein.
+    for page in reader.pages:
+        for ref in page.get("/Annots", []):
+            widget = ref.get_object()
+            field = widget
+            art, wert = field.get("/FT"), field.get("/V")
+            seen = {id(field)}
+            while field.get("/Parent"):
+                field = field["/Parent"].get_object()
+                if id(field) in seen:
+                    raise RuntimeError("Zyklische PDF-Feldstruktur; manuell prüfen")
+                seen.add(id(field))
+                art = art or field.get("/FT")
+                wert = wert or field.get("/V")
+            if art == "/Sig" and wert:
+                raise RuntimeError("PDF mit Signaturfeld nicht verändern; Signaturstatus manuell prüfen")
     writer = PdfWriter()
     for index, page in enumerate(reader.pages):
         if alle_seiten or index == 0:
@@ -477,6 +588,8 @@ def kopiere_hauptdokument(
 ) -> tuple[int, int, list[Befund]]:
     pdf = als_pdf(quelle, temp, konvertieren)
     _, seiten, textzeichen, befunde = pruefe_pdf(pdf, quelle.name)
+    if any(b.stufe == "STOP" for b in befunde):
+        raise RuntimeError("Hauptdokument enthält aktive oder eingebettete Inhalte; keine Versandausgabe erzeugt")
     shutil.copy2(pdf, ziel)
     PdfReader(str(ziel), strict=True)
     return seiten, textzeichen, befunde
@@ -647,7 +760,7 @@ def schreibe_preflight(
     if befunde:
         zeilen.extend(["| Stufe | Datei | Befund |", "| --- | --- | --- |"])
         for b in befunde:
-            zeilen.append(f"| {b.stufe} | {b.datei} | {b.text} |")
+            zeilen.append(f"| {b.stufe} | {markdown_zelle(b.datei)} | {markdown_zelle(b.text)} |")
     else:
         zeilen.append("Keine maschinell erkannten Stop- oder Warnbefunde. Die anwaltliche Sicht- und Formkontrolle bleibt erforderlich.")
     zeilen.extend(
@@ -753,6 +866,8 @@ def parse_args(argv: Optional[list[str]] = None) -> argparse.Namespace:
     parser.add_argument("--ausgang", required=True, type=Path, help="Neuer Zielordner")
     parser.add_argument("--praefix", default="K", help="Nummernkreis K, B, AST oder AG")
     parser.add_argument("--hauptdokument", type=Path, help="Finaler Schriftsatz als PDF oder konvertierbare Office-Datei")
+    parser.add_argument("--anlagenplan", type=Path, help="UTF-8-CSV: quelle;anlage;beschreibung;auslassen_grund; Originalnamen bleiben unverändert")
+    parser.add_argument("--ohne-anlagen", action="store_true", help="Bestätigter Schriftsatz ohne Anlagen; ersetzt keine Klärung unbekannter Dateien")
     parser.add_argument("--dokumentart", default="Schriftsatz_mit_Antraegen", help="Sprechende Art des Hauptdokuments")
     parser.add_argument("--schriftsatz", help="Abwärtskompatibler Titel für Anlagenverzeichnis")
     parser.add_argument("--profil", choices=["kanzlei-ascii", "gericht-sicher", "berlin", "nrw", "bund"], default="kanzlei-ascii")
@@ -790,6 +905,19 @@ def main(argv: Optional[list[str]] = None) -> int:
         return 2
     if args.hauptdokument and not args.hauptdokument.is_file():
         print(f"FEHLER: Hauptdokument fehlt: {args.hauptdokument}", file=sys.stderr)
+        return 2
+    if (ausgang == eingang or ausgang.is_relative_to(eingang) or eingang.is_relative_to(ausgang)
+            or (args.hauptdokument and args.hauptdokument.resolve().is_relative_to(ausgang))
+            or (args.anlagenplan and args.anlagenplan.resolve().is_relative_to(ausgang))):
+        print("FEHLER: Eingangs-, Ausgangs- und Originalpfade müssen getrennt sein; nichts verändert", file=sys.stderr)
+        return 2
+    if ausgang.exists() and not ausgang.is_dir():
+        print("FEHLER: Ausgabeziel ist kein Verzeichnis", file=sys.stderr)
+        return 2
+    try:
+        plan = lese_anlagenplan(args.anlagenplan, eingang, args.hauptdokument) if args.anlagenplan else None
+    except (OSError, ValueError, csv.Error) as exc:
+        print(f"FEHLER: {exc}", file=sys.stderr)
         return 2
     if ausgang.exists() and any(ausgang.iterdir()):
         if not args.ueberschreiben:
@@ -835,15 +963,25 @@ def main(argv: Optional[list[str]] = None) -> int:
             temp,
             not args.keine_konvertierung,
             args.hauptdokument,
+            plan,
+            args.anlagenplan,
         )
         alle_befunde.extend(befunde)
         alle_befunde.extend(pruefe_nummernfolge(anlagen))
-        if not anlagen:
+        if not anlagen and not args.ohne_anlagen:
             alle_befunde.append(Befund("STOP", "Anlagen", "keine verarbeitbare Anlage gefunden"))
+        if anlagen and args.ohne_anlagen:
+            alle_befunde.append(Befund("STOP", "Anlagen", "Anlagen vorhanden, obwohl ein Schriftsatz ohne Anlagen bestätigt wurde"))
 
         stellen = 3 if len(anlagen) >= 100 else 2
         for index, anlage in enumerate(anlagen, start=1):
             anlage.ausgabe_name = ausgabe_name_anlage(anlage, index, stellen, args.profil, args.datum)
+        namen = Counter(a.ausgabe_name.casefold() for a in anlagen)
+        kennungen = Counter(a.sortier_schluessel for a in anlagen)
+        for anlage in anlagen:
+            if kennungen[anlage.sortier_schluessel] > 1 or namen[anlage.ausgabe_name.casefold()] > 1:
+                alle_befunde.append(Befund("STOP", anlage.quelle_relativ, "Mehrdeutige Kennung oder kollidierender Versandname; keine Fassung ausgewählt"))
+                continue
             ziel = versand / anlage.ausgabe_name
             try:
                 anlage.seiten, anlage.textzeichen, anlage.befunde = anlage_stempeln(
@@ -855,6 +993,7 @@ def main(argv: Optional[list[str]] = None) -> int:
                 anlage.ausgabe_hash = sha256(ziel)
                 anlage.bytes = ziel.stat().st_size
             except Exception as exc:  # noqa: BLE001
+                ziel.unlink(missing_ok=True)
                 anlage.befunde.append(Befund("STOP", anlage.quelle_relativ, str(exc)))
             alle_befunde.extend(anlage.befunde)
 
@@ -870,6 +1009,7 @@ def main(argv: Optional[list[str]] = None) -> int:
                 )
                 alle_befunde.extend(haupt_befunde)
             except Exception as exc:  # noqa: BLE001
+                (versand / haupt_name).unlink(missing_ok=True)
                 alle_befunde.append(Befund("STOP", args.hauptdokument.name, str(exc)))
         else:
             alle_befunde.append(Befund(fehlstufe, "Hauptdokument", "kein Hauptdokument übergeben; Versandmappe ist nicht vollständig"))
@@ -887,6 +1027,8 @@ def main(argv: Optional[list[str]] = None) -> int:
         alle_befunde.append(Befund("STOP", "Versandpaket", f"mehr als {MAX_DATEIEN_PRO_NACHRICHT} Dateien"))
     if bytes_gesamt > MAX_BYTES_PRO_NACHRICHT:
         alle_befunde.append(Befund("STOP", "Versandpaket", "Gesamtgröße überschreitet 200 MB"))
+    if len(versand_dateien) >= 950 or bytes_gesamt >= 190_000_000:
+        alle_befunde.append(Befund("WARNUNG", "Versandpaket", "Geringe Versandreserve: automatisch erzeugte Nachrichten-, Struktur- und Signaturdateien mitzählen; fertige Nachricht im Versanddialog prüfen"))
     if args.stempel_seiten != "alle":
         alle_befunde.append(Befund("WARNUNG", "Anlagenstempel", "nur die erste Seite wurde gestempelt; Berliner Gerichtshinweis empfiehlt sämtliche Seiten"))
 
@@ -900,6 +1042,10 @@ def main(argv: Optional[list[str]] = None) -> int:
         "praefix": praefix,
         "dokumentart": args.dokumentart,
         "hauptdokument": haupt_name,
+        "sha256_hauptdokument": haupt_hash,
+        "sha256_hauptquelle": sha256(args.hauptdokument) if args.hauptdokument else "",
+        "anlagenplan": str(args.anlagenplan) if args.anlagenplan else "",
+        "ohne_anlagen": args.ohne_anlagen,
         "stempel_alle_seiten": args.stempel_seiten == "alle",
         "dateien": len(versand_dateien),
         "bytes_gesamt": bytes_gesamt,
@@ -908,6 +1054,8 @@ def main(argv: Optional[list[str]] = None) -> int:
         "signaturweg": args.signaturweg,
         "qes_geprueft": args.qes_geprueft,
         "sichtpruefung_bestaetigt": args.sichtpruefung_bestaetigt,
+        "befunde": [b.__dict__ for b in alle_befunde],
+        "status": "STOP" if any(b.stufe == "STOP" for b in alle_befunde) else "TECHNISCH_VORBEREITET",
     }
     schreibe_manifest(
         vorhandene_anlagen,

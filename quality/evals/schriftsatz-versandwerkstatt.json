@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "schriftsatz-versandwerkstatt",
-  "reviewed_on": "2026-09-23",
+  "reviewed_on": "2026-09-28",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/zpo/__130a.html",
@@ -32,40 +32,63 @@
       "url": "https://www.gesetze-im-internet.de/zpo/__130d.html",
       "checked_on": "2026-09-23",
       "supports": "Amtlichen Normtext zu elektronischer Einreichungspflicht und vorübergehender technischer Unmöglichkeit gelesen."
+    },
+    {
+      "url": "https://handbuch.bea-brak.de/arbeiten-mit-ihrem-bea/nachrichten/erstellen-und-senden/anhaenge-hochladen",
+      "checked_on": "2026-09-28",
+      "supports": "Betriebsinformationen zu 84 Zeichen für gewöhnliche Anhänge, 90 für Signaturdateien und Mitzählung automatisch erzeugter Struktur-, Nachrichten- und Signaturdateien gelesen; nicht als gesetzliche Zusatzgrenze ausgegeben."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__130a.html",
+      "checked_on": "2026-09-28",
+      "supports": "Amtlichen Normtext gelesen: alternative Signaturwege und beschränkte Ausnahme für Anlagen zu vorbereitenden Schriftsätzen; Eingangsbestätigung nicht mit vollständiger Formprüfung gleichgesetzt."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/ravpv/__23.html",
+      "checked_on": "2026-09-28",
+      "supports": "Zugangsberechtigung für andere Personen und besondere Regelung für Gesellschaftspostfächer gelesen; kein pauschales Verbot des Personalversands bei geprüfter qES."
+    },
+    {
+      "url": "https://justiz.de/laender-bund-europa/elektronische_kommunikation/bundesanzeiger_29_07_2025.pdf",
+      "checked_on": "2026-09-28",
+      "supports": "Beide Seiten der amtlichen ERVB 2025 in gesonderter Quellenprüfung gelesen: Dateiformate, logische Nummerierung, 90 Zeichen sowie 1000 Dateien und 200 MB."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Fachliche Startvarianten und konkrete Antwortfortsetzung einzeln geprüft. Freigegebene, signierte und nachträglich geänderte Fassungen trennen; Ersatzeinreichung nach Paragraf 130d und Nachreichung nach Paragraf 130a Absatz 6 ZPO nicht vermengen; Eingangsbelege jeder tatsächlich gesendeten Teilsendung zuordnen.",
+    "reason": "Versandvorbereitung aus gemischten Originaldateien einzeln nachgeprüft: eindeutige Anlagenzuordnung, Schutz signierter Quellen, berechtigter Personalversand, nachträgliche Freigabe derselben Dateifassung und Rückkehr in die Produktion nach Klärung.",
     "changes": [
       "Pauschales Rechtsprechungsverbot durch begrenzten Form- und Eingangsmaßstab ersetzt; konkrete Endfassung statt bloßem Nachrichtenstatus zuordnen, Inhaltsprüfung außerhalb des Auftrags belassen.",
       "Eingangsbestätigung der tatsächlich freigegebenen Endfassung über sinnvollen Dateinamen und Inhaltsvergleich zuordnen.",
       "Leerstart: Versandmappe herstellen, Fassung abgleichen oder Eingang kontrollieren wählen.",
       "Eine ersetzte Anlage B3 verändert Fassungsbezug, Verweise und erneute Prüfungen; ein Teil-Eingangsbeleg lässt die übrigen Teile ausdrücklich offen.",
-      "Freigegebene, signierte und nachträglich geänderte Fassungen trennen; Ersatzeinreichung nach Paragraf 130d und Nachreichung nach Paragraf 130a Absatz 6 ZPO nicht vermengen; Eingangsbelege jeder tatsächlich gesendeten Teilsendung zuordnen."
+      "Freigegebene, signierte und nachträglich geänderte Fassungen trennen; Ersatzeinreichung nach Paragraf 130d und Nachreichung nach Paragraf 130a Absatz 6 ZPO nicht vermengen; Eingangsbelege jeder tatsächlich gesendeten Teilsendung zuordnen.",
+      "Anlagenplan statt Umbenennung; E-Mail-Anhänge und mehrseitige Scans vollständig zuordnen. Signaturausnahme eingrenzen, persönliche und qualifiziert signierte Route trennen. Keine Neuproduktion allein zur Bestätigung einer Sichtprüfung."
     ],
-    "sha256": "dc5965d7cc761785d9c4db28f48d326e5cdae9a41010bf6f3e664c8d27111a44",
-    "reviewed_on": "2026-09-23",
+    "sha256": "588633c2756fdba21c05478718f2f0648920bed07173fa135054051237273ee2",
+    "reviewed_on": "2026-09-28",
     "method": "desk_review"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Vollständige Werkstatt mit zusätzlichen fachlichen Entscheidungs- und Dokumentwegen einzeln geprüft. Freigegebene, signierte und nachträglich geänderte Fassungen trennen; Ersatzeinreichung nach Paragraf 130d und Nachreichung nach Paragraf 130a Absatz 6 ZPO nicht vermengen; Eingangsbelege jeder tatsächlich gesendeten Teilsendung zuordnen.",
+    "reason": "Versandvorbereitung aus gemischten Originaldateien einzeln nachgeprüft: eindeutige Anlagenzuordnung, Schutz signierter Quellen, berechtigter Personalversand, nachträgliche Freigabe derselben Dateifassung und Rückkehr in die Produktion nach Klärung.",
     "changes": [
       "Bestätigte Fassung technisch herstellen und ihren tatsächlichen Eingang kontrollieren.",
       "Eingangsbestätigung der tatsächlich freigegebenen Endfassung über sinnvollen Dateinamen und Inhaltsvergleich zuordnen.",
       "Leerstart: Versandmappe herstellen, Fassung abgleichen oder Eingang kontrollieren wählen.",
       "Eine ersetzte Anlage B3 verändert Fassungsbezug, Verweise und erneute Prüfungen; ein Teil-Eingangsbeleg lässt die übrigen Teile ausdrücklich offen.",
-      "Freigegebene, signierte und nachträglich geänderte Fassungen trennen; Ersatzeinreichung nach Paragraf 130d und Nachreichung nach Paragraf 130a Absatz 6 ZPO nicht vermengen; Eingangsbelege jeder tatsächlich gesendeten Teilsendung zuordnen."
+      "Freigegebene, signierte und nachträglich geänderte Fassungen trennen; Ersatzeinreichung nach Paragraf 130d und Nachreichung nach Paragraf 130a Absatz 6 ZPO nicht vermengen; Eingangsbelege jeder tatsächlich gesendeten Teilsendung zuordnen.",
+      "Anlagenplan statt Umbenennung; E-Mail-Anhänge und mehrseitige Scans vollständig zuordnen. Signaturausnahme eingrenzen, persönliche und qualifiziert signierte Route trennen. Keine Neuproduktion allein zur Bestätigung einer Sichtprüfung."
     ],
-    "sha256": "48e064cd95da61dc39d5610d81895a254fda3990c32d09d5988a74ee3c6bf7a7",
-    "reviewed_on": "2026-09-23",
+    "sha256": "dfed353152de9c9c861cef3c35becf4e811431285865dfffa66f834aeeeebb69",
+    "reviewed_on": "2026-09-28",
     "method": "desk_review"
   },
   "selection": {
     "positive": [
       "Prüfen Sie vor dem heutigen Fristablauf, ob unsere freigegebene Klageerwiderung tatsächlich beim richtigen Gericht eingegangen ist.",
-      "Gleichen Sie Versanddateien, Signatur und Rückmeldungen ab und erstellen Sie einen Versandfreigabevermerk."
+      "Gleichen Sie Versanddateien, Signatur und Rückmeldungen ab und erstellen Sie einen Versandfreigabevermerk.",
+      "Bereiten Sie den freigegebenen Schriftsatz und die uneinheitlich benannten Scans und E-Mails aus diesem Ordner für den beA-Versand vor; Originale nicht umbenennen."
     ],
     "negative": [
       "Entwerfen Sie die materielle Argumentation einer Klage wegen Baumängeln.",
@@ -104,20 +127,53 @@
         }
       ],
       "target_skill": "versandfreigabe-und-eingang-sichern"
+    },
+    {
+      "id": "originalnamen-signierte-anlage-und-sichtfreigabe",
+      "target_skill": "versandmappe-endfertigen",
+      "request": "Erstellen Sie ergebnis.md als konkrete Produktionsanweisung. Die Klageerwiderung ist ausdrücklich freigegeben; Gericht und Frist stehen fest. Darin sind B 7 (Kaufvertrag), B 8 (Mail zur Abnahme) und B 9 (Kostenberechnung) genannt. Im Eingangsordner liegen Scan_004.pdf mit dem Kaufvertrag, Mail vom Bauleiter.eml samt noch nicht exportiertem PDF-Anhang, Berechnung Müller.xlsx und eine interne Telefonnotiz. Der Vertrag trägt eine elektronische Signatur. Originalnamen sollen unverändert bleiben. Es wurde noch keine PDF-Ausgabe angesehen. Ein berechtigter Kanzleimitarbeiter wird versenden; eine qES des Hauptdokuments ist noch nicht geprüft. Keine Erlaubnis zur Versendung.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Ordnet Quellen nach belegtem Inhalt den Schriftsatzkennungen zu und dokumentiert einen konkreten Auslassungsgrund für die interne Notiz; verlangt weder Umbenennung aller Originale noch einen neuen allgemeinen Aufnahmekatalog.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Erhält den signierten Vertrag unverändert, hält seinen Einreichungsweg offen und fordert den E-Mail-Anhang als eigene Quelle an; ein bloßer Anhängehinweis gilt nicht als vollständige Anlage.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Bereitet unabhängige Dateien weiter vor, bestätigt keine noch nicht erfolgte Sicht- oder qES-Prüfung und behandelt berechtigten Personalversand mit qES als mögliche Route; löst keinen Versand aus.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
     }
   ],
   "prompt_editorial_review": {
-    "date": "2026-09-22",
+    "date": "2026-09-28",
     "files": [
       "schriftsatz-versandwerkstatt/README.md",
       "schriftsatz-versandwerkstatt/schriftsatz-versandwerkstatt-werkstatt.md",
       "schriftsatz-versandwerkstatt/schriftsatz-versandwerkstatt-schnellstart.md",
       "quality/evals/schriftsatz-versandwerkstatt.json"
     ],
-    "opening_change": "Bestätigte Fassung technisch herstellen und ihren tatsächlichen Eingang kontrollieren",
+    "opening_change": "Aus freigegebenem Hauptdokument und eindeutig zugeordneten Originaldateien produzieren; nur wirkliche Hindernisse klären, keine neue Anspruchsprüfung.",
     "norms": [
       "Paragraf 130a Absatz 3 und 5 ZPO",
-      "Paragraf 130d ZPO"
+      "Paragraf 130d ZPO",
+      "RAVPV Paragraf 23 Absatz 2 und 3"
     ],
     "decisions": [
       {
@@ -131,11 +187,12 @@
       "Amtlicher Leitsatz gelesen, Volltextzugriff gestört. Kein materieller Schriftsatzcheck; Dateiname und Status ersetzen Freigabe oder Signatur nicht.",
       "Kein beA-Versand einer Mandantenakte und keine technische Live-Signaturvalidierung; lokaler Regressionstest mit synthetischen Dateien einschließlich Office-Konvertierung bestanden. Regionale Vorgaben vor konkretem Versand erneut prüfen.",
       "Individuelle redaktionelle Akten- und Quellenprüfung (desk review), kein Live-Client- oder Modelltest.",
-      "Workflow-Vertiefung 2026-09-23: BGH VIII ZB 80/22 bleibt auf den zuvor zugänglichen amtlichen Leitsatz begrenzt. In diesem Workflow-Durchgang keine beA-, Konverter-, Signatur- oder Clientausführung; ältere dokumentierte lokale Regressionen werden nicht als neue Tests ausgegeben. Desk review; keine Live-Client-Ausführung."
+      "Workflow-Vertiefung 2026-09-23: BGH VIII ZB 80/22 bleibt auf den zuvor zugänglichen amtlichen Leitsatz begrenzt. In diesem Workflow-Durchgang keine beA-, Konverter-, Signatur- oder Clientausführung; ältere dokumentierte lokale Regressionen werden nicht als neue Tests ausgegeben. Desk review; keine Live-Client-Ausführung.",
+      "Prüfung 2026-09-28: lokale Verhaltenstests, Office-E2E und Ausfalltests ausgeführt. Kein echter Versand, keine kryptografische Signaturvalidierung und kein Nachweis vollständiger ERVV-Konformität. Anweisungen redaktionell geprüft, nicht als Live-Modellbenchmark bewertet."
     ]
   },
   "prompt_workflow_review": {
-    "date": "2026-09-23",
+    "date": "2026-09-28",
     "method": "desk_review",
     "opening_modes": [
       "Leerstart: Versandmappe herstellen, Fassung abgleichen oder Eingang kontrollieren wählen.",
@@ -143,7 +200,7 @@
       "Klarer Auftrag: bestellte Dateifassung und Versandvorbereitung herstellen, ohne eigenmächtige Inhaltsänderung oder behaupteten Versand."
     ],
     "continuation": "Eine ersetzte Anlage B3 verändert Fassungsbezug, Verweise und erneute Prüfungen; ein Teil-Eingangsbeleg lässt die übrigen Teile ausdrücklich offen.",
-    "enrichment": "Freigegebene, signierte und nachträglich geänderte Fassungen trennen; Ersatzeinreichung nach Paragraf 130d und Nachreichung nach Paragraf 130a Absatz 6 ZPO nicht vermengen; Eingangsbelege jeder tatsächlich gesendeten Teilsendung zuordnen.",
+    "enrichment": "Anlagenzuordnung ohne Umbenennung, begründete Ausschlüsse, vollständige E-Mail-Anhänge und TIFF-Seiten; signierte Originale schützen, qES-Personalroute korrekt unterscheiden und Freigabe an unveränderte Ausgabebytes binden.",
     "limits": "desk review; no live client execution"
   }
 }
