@@ -15,13 +15,33 @@ Lies den bereitgestellten Sachverhalt, bisherigen Vortrag oder Themenauftrag. Ü
 
 ## 3. Ablauf und Checkliste
 
-1. Eine lebensnahe Ausgangsfrage aus dem Auftrag formulieren: Welche Entscheidung oder Unsicherheit führt die Zuhörer hierher? Mit dieser Situation beginnen, nicht mit Gesetzgebungsgeschichte oder einer Liste von Abkürzungen.
-2. Die tragende Rechtsregel intern vollständig prüfen. Anschließend die notwendige Voraussetzung in Alltagssprache erklären und den Fachbegriff dort einführen, wo er hilft. „Frist“ nicht beliebig mit „Termin“, „Eigentum“ nicht mit „Besitz“ und „unwirksam“ nicht mit „verboten“ gleichsetzen.
-3. Einen Ausgangsfall und einen abweichenden Fall gegenüberstellen. Den Unterschied auf eine relevante Tatsache begrenzen, etwa den Zugang einer Erklärung oder die Person des Vertragspartners. Keine Zahlen, Anspruchshöhen oder Fristen als gültig darstellen, bevor die tatsächliche Normgrundlage geprüft ist.
-4. Pro Abschnitt eine verständliche Frage und eine begründete Antwort ausarbeiten. Bei Kindern altersgerechte Situationen und kurze Denkpausen verwenden; keine persönlichen Konflikte vor dem Publikum abfragen. Bei Unternehmern wirtschaftliche Folge und benötigten Beleg nennen, ohne juristische Unsicherheit in Prozentzahlen zu erfinden.
-5. Kläre missverständliche Zuspitzungen durch einen verständlichen Vorbehalt auf derselben Folie. Die Ausnahme nicht nur in unsichtbaren Notizen verstecken, wenn die sichtbare Aussage dadurch falsch würde. Eine eigene didaktische Vereinfachung nicht als wörtliches Gesetzeszitat präsentieren.
-6. Mit passenden nächsten Schritten enden: Unterlage sichern, zuständige Stelle klären, konkrete Beratung anfordern oder eine Entscheidung treffen. Für eine beauftragte konkrete Beratung die Antwort soweit möglich ausarbeiten; nicht jeden Folieninhalt durch einen allgemeinen Beratungsvorbehalt ersetzen.
-7. Eine Verständnisfrage oder einen Rückfragepfad anbieten. Ändert der Nutzer Beispiel, Publikum oder Sprache, die Folien und Erläuterungen gezielt anpassen. Danach die verlangte Datei oder vollständige Textfassung liefern.
+### 3.1. Mit der konkreten Alltagssituation beginnen
+
+Eine lebensnahe Ausgangsfrage aus dem Auftrag formulieren: Welche Entscheidung oder Unsicherheit führt die Zuhörer hierher? Mit dieser Situation beginnen, nicht mit Gesetzgebungsgeschichte oder einer Liste von Abkürzungen.
+
+### 3.2. Die geprüfte Rechtsregel verständlich erklären
+
+Die tragende Rechtsregel intern vollständig prüfen. Anschließend die notwendige Voraussetzung in Alltagssprache erklären und den Fachbegriff dort einführen, wo er hilft. „Frist“ nicht beliebig mit „Termin“, „Eigentum“ nicht mit „Besitz“ und „unwirksam“ nicht mit „verboten“ gleichsetzen.
+
+### 3.3. Ausgangsfall und abweichende Tatsache vergleichen
+
+Einen Ausgangsfall und einen abweichenden Fall gegenüberstellen. Den Unterschied auf eine relevante Tatsache begrenzen, etwa den Zugang einer Erklärung oder die Person des Vertragspartners. Keine Zahlen, Anspruchshöhen oder Fristen als gültig darstellen, bevor die tatsächliche Normgrundlage geprüft ist.
+
+### 3.4. Fragen und Antworten am Publikum ausrichten
+
+Pro Abschnitt eine verständliche Frage und eine begründete Antwort ausarbeiten. Bei Kindern altersgerechte Situationen und kurze Denkpausen verwenden; keine persönlichen Konflikte vor dem Publikum abfragen. Bei Unternehmern wirtschaftliche Folge und benötigten Beleg nennen, ohne juristische Unsicherheit in Prozentzahlen zu erfinden.
+
+### 3.5. Notwendige Vorbehalte sichtbar halten
+
+Kläre missverständliche Zuspitzungen durch einen verständlichen Vorbehalt auf derselben Folie. Die Ausnahme nicht nur in unsichtbaren Notizen verstecken, wenn die sichtbare Aussage dadurch falsch würde. Eine eigene didaktische Vereinfachung nicht als wörtliches Gesetzeszitat präsentieren.
+
+### 3.6. Passende Handlungsmöglichkeiten erläutern
+
+Mit passenden nächsten Schritten enden: Unterlage sichern, zuständige Stelle klären, konkrete Beratung anfordern oder eine Entscheidung treffen. Für eine beauftragte konkrete Beratung die Antwort soweit möglich ausarbeiten; nicht jeden Folieninhalt durch einen allgemeinen Beratungsvorbehalt ersetzen.
+
+### 3.7. Verständnis prüfen und die fertige Fassung liefern
+
+Eine Verständnisfrage oder einen Rückfragepfad anbieten. Ändert der Nutzer Beispiel, Publikum oder Sprache, die Folien und Erläuterungen gezielt anpassen. Danach die verlangte Datei oder vollständige Textfassung liefern.
 
 ## 4. Quellenpflicht
 

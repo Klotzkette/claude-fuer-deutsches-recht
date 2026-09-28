@@ -15,13 +15,33 @@ Vortragstitel, Einladung, Ausgangstext und genannte Rechtsquellen lesen. Nur feh
 
 ## 3. Ablauf und Checkliste
 
-1. Ein juristisches Problem auswählen, das die angekündigte Veranstaltung trägt, etwa eine zweifelhafte Anspruchsvoraussetzung, Vertragsgestaltung oder prozessuale Hürde. Nicht mit einer abstrakten Definition aller Begriffe des Fachgebiets beginnen.
-2. Die benötigte Normkette aufbauen: Anspruch oder Befugnis, zentrale Voraussetzungen, Einwendung und Rechtsfolge. Materielles Recht, Beweisfrage und Verfahren nicht in einer scheinbar einheitlichen Prüfliste vermischen.
-3. Für Spezialisten den streitigen Punkt früh öffnen. Für fachfremde Juristen zunächst einen kurzen Fall und die nötige Systemstelle erklären. Ein identischer Foliensatz mit bloß ausgetauschten Fachwörtern erfüllt diese Unterscheidung nicht.
-4. Rechtsprechung nach Argument und Reichweite auswählen. Bei gegenläufigen Entscheidungen erklären, ob Normfassung, Sachverhalt, Verfahrensstand oder Rechtsauffassung voneinander abweichen. Ein Streitstand braucht einen tatsächlichen Streit, nicht künstlich zwei gleichrangige Meinungen.
-5. Einen Praxisfall mit veränderbarer Tatsache ausarbeiten: Ausgangslage, entscheidender Unterschied und begründete Folge. Trainingsannahmen ausdrücklich benennen. Bei ausreichender Zeit eine Publikumsfrage einfügen und ihre Auflösung im Sprechtext vorbereiten, ohne das Ergebnis schon in der Frage zu verraten.
-6. Nach [Vortragspraxis](../../references/vortragspraxis.md) Hauptteil, Fragen und Vertiefung aufteilen. Detailnachweise in einen lesbaren Anhang verlegen. Zu viele eigenständige Problemkreise konkret benennen und mit dem Nutzer priorisieren, statt sie im Schnelldurchlauf zu überladen.
-7. Schlussfolgerungen in umsetzbare Fachhinweise übersetzen: Welche Klausel, Beweissicherung, Zuständigkeitsprüfung oder Mandantenfrage ändert sich? Nur Folgerungen ziehen, die die Quellen tragen. Anschließend Folien und Notizen vollständig ausarbeiten und auf Wunsch als Datei herstellen.
+### 3.1. Die beratungsrelevante Streitfrage bestimmen
+
+Ein juristisches Problem auswählen, das die angekündigte Veranstaltung trägt, etwa eine zweifelhafte Anspruchsvoraussetzung, Vertragsgestaltung oder prozessuale Hürde. Nicht mit einer abstrakten Definition aller Begriffe des Fachgebiets beginnen.
+
+### 3.2. Anspruch, Voraussetzungen und Rechtsfolge ordnen
+
+Die benötigte Normkette aufbauen: Anspruch oder Befugnis, zentrale Voraussetzungen, Einwendung und Rechtsfolge. Materielles Recht, Beweisfrage und Verfahren nicht in einer scheinbar einheitlichen Prüfliste vermischen.
+
+### 3.3. Spezialisten und fachfremde Juristen unterscheiden
+
+Für Spezialisten den streitigen Punkt früh öffnen. Für fachfremde Juristen zunächst einen kurzen Fall und die nötige Systemstelle erklären. Ein identischer Foliensatz mit bloß ausgetauschten Fachwörtern erfüllt diese Unterscheidung nicht.
+
+### 3.4. Gegenläufige Rechtsprechung einordnen
+
+Rechtsprechung nach Argument und Reichweite auswählen. Bei gegenläufigen Entscheidungen erklären, ob Normfassung, Sachverhalt, Verfahrensstand oder Rechtsauffassung voneinander abweichen. Ein Streitstand braucht einen tatsächlichen Streit, nicht künstlich zwei gleichrangige Meinungen.
+
+### 3.5. Einen Praxisfall mit Variante ausarbeiten
+
+Einen Praxisfall mit veränderbarer Tatsache ausarbeiten: Ausgangslage, entscheidender Unterschied und begründete Folge. Trainingsannahmen ausdrücklich benennen. Bei ausreichender Zeit eine Publikumsfrage einfügen und ihre Auflösung im Sprechtext vorbereiten, ohne das Ergebnis schon in der Frage zu verraten.
+
+### 3.6. Redezeit und fachliche Vertiefung aufteilen
+
+Nach [Vortragspraxis](../../references/vortragspraxis.md) Hauptteil, Fragen und Vertiefung aufteilen. Detailnachweise in einen lesbaren Anhang verlegen. Zu viele eigenständige Problemkreise konkret benennen und mit dem Nutzer priorisieren, statt sie im Schnelldurchlauf zu überladen.
+
+### 3.7. Folgen für Beratung und Prozess ableiten
+
+Schlussfolgerungen in umsetzbare Fachhinweise übersetzen: Welche Klausel, Beweissicherung, Zuständigkeitsprüfung oder Mandantenfrage ändert sich? Nur Folgerungen ziehen, die die Quellen tragen. Anschließend Folien und Notizen vollständig ausarbeiten und auf Wunsch als Datei herstellen.
 
 ## 4. Quellenpflicht
 

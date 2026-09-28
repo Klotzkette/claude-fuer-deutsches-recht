@@ -15,13 +15,33 @@ Lies den fachlich geprüften Vortrag und den Änderungswunsch. Übernimm bekannt
 
 ## 3. Ablauf und Checkliste
 
-1. Die unveränderlichen Inhalte festhalten: Normvoraussetzungen, Rechtsfolgen, Fristen, Namen, Zahlen, Quellen und wörtliche Zitate. Nicht durch den Sprachwechsel eine neue rechtliche Aussage einführen. Ein bereits fachlich zweifelhafter Ausgangstext muss zuerst geklärt werden.
-2. Den gewünschten Grad der Lockerung bestimmen. Verständliche kurze Sätze und ein passendes Beispiel genügen oft. Wendungen wie „krass“ oder eine gewünschte persönliche Anrede nur gezielt einsetzen, nicht jede Folie mit vermeintlichem Jugendwortschatz ausstatten.
-3. Einen kurzen Ausschnitt im gewählten Ton ausarbeiten. Bei klarer Vorgabe im selben Stil weiterarbeiten; nur bei tatsächlich unklarer Präferenz eine Rückmeldung dazu einholen. Keine endlose Stilabstimmung an die Stelle des fertigen Vortrags setzen.
-4. Begriffe erklären statt unbemerkt ersetzen. „Anspruch“ ist nicht bloß „Wunsch“, „widerrufen“ nicht immer „stornieren“, „Straftat“ nicht jeder Regelverstoß. Einen umgangssprachlichen Vergleich ausdrücklich als Erklärung gestalten, nicht als Gesetzesdefinition.
-5. Alltagssituationen so wählen, dass sie dem Alter und Anlass entsprechen. Keine herabsetzenden Anspielungen, bloßstellenden Beispiele oder verniedlichenden Formulierungen bei Gewalt, Krankheit oder persönlicher Not. Der Humor darf nicht zulasten realer Beteiligter oder der Richtigkeit gehen.
-6. Sichtbare Texte und Sprechernotizen gemeinsam anpassen. Originalzitate und Quellen im sachlichen Wortlaut erhalten; nötigenfalls daneben eine erkennbare Erläuterung stellen. Entscheidend ist, dass ein Zuhörer denselben rechtlichen Unterschied versteht wie in der seriösen Ausgangsfassung.
-7. Die umformulierte Version Satz für Satz auf Rechtsverlust prüfen. Bleibt eine Wendung missverständlich, verständliches Standarddeutsch verwenden. Rückmeldungen gezielt einarbeiten und die bestellte alternative Fassung liefern, ohne die sachliche Ausgangsdatei zu überschreiben.
+### 3.1. Unveränderliche Rechtsaussagen festhalten
+
+Die unveränderlichen Inhalte festhalten: Normvoraussetzungen, Rechtsfolgen, Fristen, Namen, Zahlen, Quellen und wörtliche Zitate. Nicht durch den Sprachwechsel eine neue rechtliche Aussage einführen. Ein bereits fachlich zweifelhafter Ausgangstext muss zuerst geklärt werden.
+
+### 3.2. Den gewünschten Grad der Lockerung bestimmen
+
+Den gewünschten Grad der Lockerung bestimmen. Verständliche kurze Sätze und ein passendes Beispiel genügen oft. Wendungen wie „krass“ oder eine gewünschte persönliche Anrede nur gezielt einsetzen, nicht jede Folie mit vermeintlichem Jugendwortschatz ausstatten.
+
+### 3.3. Eine kurze Sprachprobe ausarbeiten
+
+Einen kurzen Ausschnitt im gewählten Ton ausarbeiten. Bei klarer Vorgabe im selben Stil weiterarbeiten; nur bei tatsächlich unklarer Präferenz eine Rückmeldung dazu einholen. Keine endlose Stilabstimmung an die Stelle des fertigen Vortrags setzen.
+
+### 3.4. Fachbegriffe erklären statt ersetzen
+
+Begriffe erklären statt unbemerkt ersetzen. „Anspruch“ ist nicht bloß „Wunsch“, „widerrufen“ nicht immer „stornieren“, „Straftat“ nicht jeder Regelverstoß. Einen umgangssprachlichen Vergleich ausdrücklich als Erklärung gestalten, nicht als Gesetzesdefinition.
+
+### 3.5. Altersgerechte Beispiele ohne Herabsetzung wählen
+
+Alltagssituationen so wählen, dass sie dem Alter und Anlass entsprechen. Keine herabsetzenden Anspielungen, bloßstellenden Beispiele oder verniedlichenden Formulierungen bei Gewalt, Krankheit oder persönlicher Not. Der Humor darf nicht zulasten realer Beteiligter oder der Richtigkeit gehen.
+
+### 3.6. Folientext und Sprechernotizen gemeinsam anpassen
+
+Sichtbare Texte und Sprechernotizen gemeinsam anpassen. Originalzitate und Quellen im sachlichen Wortlaut erhalten; nötigenfalls daneben eine erkennbare Erläuterung stellen. Entscheidend ist, dass ein Zuhörer denselben rechtlichen Unterschied versteht wie in der seriösen Ausgangsfassung.
+
+### 3.7. Die Sprachfassung auf Rechtsverlust prüfen
+
+Die umformulierte Version Satz für Satz auf Rechtsverlust prüfen. Bleibt eine Wendung missverständlich, verständliches Standarddeutsch verwenden. Rückmeldungen gezielt einarbeiten und die bestellte alternative Fassung liefern, ohne die sachliche Ausgangsdatei zu überschreiben.
 
 ## 4. Quellenpflicht
 

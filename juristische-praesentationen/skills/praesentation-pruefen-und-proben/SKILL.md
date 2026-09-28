@@ -15,14 +15,37 @@ Lies die finale PPTX oder vollständige Textfassung einschließlich Notizen, Que
 
 ## 3. Ablauf und Checkliste
 
-1. Den roten Faden prüfen: Wird die angekündigte Frage beantwortet und der gewünschte Abschluss erreicht? Eine Entscheidungsvorlage braucht eine Entscheidung oder einen klaren Klärungsbedarf, ein Vortrag eine verständliche fachliche Schlussfolgerung. Wiederholte Vorreden entfernen, notwendige Einschränkungen erhalten.
-2. Jede tragende Rechtsaussage mit Normfassung und tatsächlich gelesener Fundstelle abgleichen. Stimmen Tenor, Entscheidungsart, Datum, Aktenzeichen und Reichweite? Eigene Folgerungen nicht als Gerichtsposition ausgeben. Widersprüche zwischen Titel, Notiz und Quellenblatt gezielt korrigieren.
-3. Zahlen und Belege prüfen: Einheit, Zeitraum, Rundung, Summen, Seitenbezug und Kennzeichnung von Ausschnitten. Unleserliche Screenshots durch eine besser lesbare Originalansicht oder getrennte Erläuterung ersetzen; fehlende Belegteile nicht rekonstruieren.
-4. Sämtliche Folien in der tatsächlichen Ausgabe sichten. Überlauf, Überdeckung, kleine Quellenzeilen, abweichende Schrift, verzerrte Bilder und schwer lesbare Farben beheben. Lesereihenfolge, Alternativtexte und aussagekräftige Titel prüfen. Ein automatischer Bericht ergänzt die Sichtprüfung, ersetzt sie nicht.
-5. Für die Weitergabe Kommentare, Notizen, ausgeblendete Folien, eingebettete Tabellen und Eigenschaften kontrollieren. Eine öffentliche Fassung bei Bedarf getrennt speichern. Nicht sämtliche Notizen löschen, wenn sie das bestellte Vortragsmanuskript enthalten; sensible und zugehörige fachliche Inhalte unterscheiden.
-6. Echte Vortragsprobe nur mit Wiedergabe und Zeitmessung durchführen oder durch den Vortragenden durchführen lassen. Eine aus Notizen abgeleitete Dauer als Schätzung kennzeichnen. Bei Überschreitung konkrete Folien kürzen, verschieben oder streichen und die Übergänge nachziehen. Fragen und Pausen nicht heimlich aus dem Zeitbudget entfernen.
-7. Bei Animationen Klickfolge, jeden Zwischenstand, Rücksprung und statische Ausweichfassung prüfen. Nach einer aufgezeichneten Zeitprobe den gewünschten manuellen Folienwechsel kontrollieren. Ohne Wiedergabewerkzeug eine genaue Prüfanleitung liefern, nicht „Animation funktioniert“ behaupten.
-8. Korrekturen erneut an den betroffenen Folien und abhängigen Verweisen prüfen. Keine unveränderte Gesamtproduktion wiederholen. Abschließend korrigierte Dateien und eine kurze, priorisierte Übergabe mit tatsächlich verbliebenen Hindernissen liefern.
+### 3.1. Vortragsfrage und Schlussfolgerung abgleichen
+
+Den roten Faden prüfen: Wird die angekündigte Frage beantwortet und der gewünschte Abschluss erreicht? Eine Entscheidungsvorlage braucht eine Entscheidung oder einen klaren Klärungsbedarf, ein Vortrag eine verständliche fachliche Schlussfolgerung. Wiederholte Vorreden entfernen, notwendige Einschränkungen erhalten.
+
+### 3.2. Rechtsaussagen an den Quellen prüfen
+
+Jede tragende Rechtsaussage mit Normfassung und tatsächlich gelesener Fundstelle abgleichen. Stimmen Tenor, Entscheidungsart, Datum, Aktenzeichen und Reichweite? Eigene Folgerungen nicht als Gerichtsposition ausgeben. Widersprüche zwischen Titel, Notiz und Quellenblatt gezielt korrigieren.
+
+### 3.3. Zahlen und Belegausschnitte kontrollieren
+
+Zahlen und Belege prüfen: Einheit, Zeitraum, Rundung, Summen, Seitenbezug und Kennzeichnung von Ausschnitten. Unleserliche Screenshots durch eine besser lesbare Originalansicht oder getrennte Erläuterung ersetzen; fehlende Belegteile nicht rekonstruieren.
+
+### 3.4. Jede ausgegebene Folie sichten
+
+Sämtliche Folien in der tatsächlichen Ausgabe sichten. Überlauf, Überdeckung, kleine Quellenzeilen, abweichende Schrift, verzerrte Bilder und schwer lesbare Farben beheben. Lesereihenfolge, Alternativtexte und aussagekräftige Titel prüfen. Ein automatischer Bericht ergänzt die Sichtprüfung, ersetzt sie nicht.
+
+### 3.5. Eine geeignete Weitergabefassung herstellen
+
+Für die Weitergabe Kommentare, Notizen, ausgeblendete Folien, eingebettete Tabellen und Eigenschaften kontrollieren. Eine öffentliche Fassung bei Bedarf getrennt speichern. Nicht sämtliche Notizen löschen, wenn sie das bestellte Vortragsmanuskript enthalten; sensible und zugehörige fachliche Inhalte unterscheiden.
+
+### 3.6. Redezeit proben und Überlastung beheben
+
+Echte Vortragsprobe nur mit Wiedergabe und Zeitmessung durchführen oder durch den Vortragenden durchführen lassen. Eine aus Notizen abgeleitete Dauer als Schätzung kennzeichnen. Bei Überschreitung konkrete Folien kürzen, verschieben oder streichen und die Übergänge nachziehen. Fragen und Pausen nicht heimlich aus dem Zeitbudget entfernen.
+
+### 3.7. Klickfolge und statische Ausweichfassung prüfen
+
+Bei Animationen Klickfolge, jeden Zwischenstand, Rücksprung und statische Ausweichfassung prüfen. Nach einer aufgezeichneten Zeitprobe den gewünschten manuellen Folienwechsel kontrollieren. Ohne Wiedergabewerkzeug eine genaue Prüfanleitung liefern, nicht „Animation funktioniert“ behaupten.
+
+### 3.8. Korrekturen nachprüfen und Dateien übergeben
+
+Korrekturen erneut an den betroffenen Folien und abhängigen Verweisen prüfen. Keine unveränderte Gesamtproduktion wiederholen. Abschließend korrigierte Dateien und eine kurze, priorisierte Übergabe mit tatsächlich verbliebenen Hindernissen liefern.
 
 Für die technische Paketkontrolle bei verfügbarem Python den [lokalen Prüfer](../../scripts/pptx_pruefen.py) mit `python3 scripts/pptx_pruefen.py DATEI.pptx` aus dem Plugin-Verzeichnis ausführen. Auf der Endfassung nicht `--template` setzen. Fehler blockieren die technische Freigabe; Warnungen einzeln klären. Eine Suche mit wiederholtem `--forbid-term` ergänzt die Prüfung konkret unerwünschter Angaben, erfasst aber keine Bildschrift. Ein erfolgreicher Rückgabewert bescheinigt keine Lesbarkeit, Barrierefreiheit, Rechtsrichtigkeit oder abgespielte Animation.
 

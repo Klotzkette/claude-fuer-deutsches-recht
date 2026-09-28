@@ -15,13 +15,33 @@ Nutze die vorhandene Struktur, Rechtsquellen, Zielgruppe, Zeitplanung und Vorlag
 
 ## 3. Ablauf und Checkliste
 
-1. Jede Folie auf einen fachlichen Beitrag prüfen: Welche Frage beantwortet sie, welche Unterscheidung erklärt sie oder welche Entscheidung bereitet sie vor? Wiederholungen entfernen, notwendige Übergänge erhalten. Quellen-, Titel- und Pausenfolien haben andere Aufgaben als Inhaltsfolien.
-2. Einen präzisen Titel schreiben. Wenn das Ergebnis streitig ist, eine Frage oder entsprechend eingeschränkte Aussage verwenden. „Die Rechtslage“ sagt zu wenig; „Der Zugang entscheidet über den Beginn der Frist“ ist nur passend, wenn genau diese Aussage für die behandelte Norm belegt ist.
-3. Sichtbaren Text knapp, aber vollständig verständlich formulieren. Fachbegriffe dort erklären, wo das Publikum sie erstmals braucht. Einschränkungen nicht aus Platzgründen streichen; nötigenfalls Aussage teilen oder Detail in eine Vertiefungsfolie verschieben.
-4. Sprechernotizen in vollständigen Sätzen ausarbeiten: Einstieg in die Folie, juristische Erklärung, maßgeblicher Vorbehalt und Übergang. Keine ausformulierte Fassung des gesamten Schriftsatzes unter jede Folie kopieren. Der Umfang richtet sich nach der vorgesehenen Redezeit und der bestellten Tiefe.
-5. Rückfragen dort vorsehen, wo eine Entscheidung oder ein Lernschritt davon profitiert. Für eine Publikumsfrage eine verständliche Auflösung und einen Fortsetzungsweg vorbereiten; nicht jede Folie durch ein künstliches Quiz unterbrechen. Bei Gerichtsvortrag Zwischenfragen ermöglichen, aber keine Antworten eines Zeugen vorgeben.
-6. Vortrag und reine Lesefassung unterscheiden. Sollen Empfänger nur ein PDF erhalten, entscheidende Informationen nicht ausschließlich in Notizen verstecken. Gegebenenfalls ein getrenntes Begleitblatt statt überfüllter Projektionsfolien erstellen.
-7. Übergänge, Zeitbedarf, Quellen und Abschluss gemeinsam prüfen. Bei Änderungswunsch nicht nur den sichtbaren Text, sondern auch Notizen, Quelle und gegebenenfalls Folgefolie korrigieren. Den vollständigen beauftragten Foliensatz liefern oder anschließend die echte PPTX erzeugen.
+### 3.1. Den fachlichen Beitrag jeder Folie bestimmen
+
+Jede Folie auf einen fachlichen Beitrag prüfen: Welche Frage beantwortet sie, welche Unterscheidung erklärt sie oder welche Entscheidung bereitet sie vor? Wiederholungen entfernen, notwendige Übergänge erhalten. Quellen-, Titel- und Pausenfolien haben andere Aufgaben als Inhaltsfolien.
+
+### 3.2. Einen präzisen Folientitel formulieren
+
+Einen präzisen Titel schreiben. Wenn das Ergebnis streitig ist, eine Frage oder entsprechend eingeschränkte Aussage verwenden. „Die Rechtslage“ sagt zu wenig; „Der Zugang entscheidet über den Beginn der Frist“ ist nur passend, wenn genau diese Aussage für die behandelte Norm belegt ist.
+
+### 3.3. Sichtbare Aussagen verständlich verdichten
+
+Sichtbaren Text knapp, aber vollständig verständlich formulieren. Fachbegriffe dort erklären, wo das Publikum sie erstmals braucht. Einschränkungen nicht aus Platzgründen streichen; nötigenfalls Aussage teilen oder Detail in eine Vertiefungsfolie verschieben.
+
+### 3.4. Sprechernotizen vollständig ausarbeiten
+
+Sprechernotizen in vollständigen Sätzen ausarbeiten: Einstieg in die Folie, juristische Erklärung, maßgeblicher Vorbehalt und Übergang. Keine ausformulierte Fassung des gesamten Schriftsatzes unter jede Folie kopieren. Der Umfang richtet sich nach der vorgesehenen Redezeit und der bestellten Tiefe.
+
+### 3.5. Publikumsfragen und Fortsetzung vorbereiten
+
+Rückfragen dort vorsehen, wo eine Entscheidung oder ein Lernschritt davon profitiert. Für eine Publikumsfrage eine verständliche Auflösung und einen Fortsetzungsweg vorbereiten; nicht jede Folie durch ein künstliches Quiz unterbrechen. Bei Gerichtsvortrag Zwischenfragen ermöglichen, aber keine Antworten eines Zeugen vorgeben.
+
+### 3.6. Vortragsfassung und Lesefassung unterscheiden
+
+Vortrag und reine Lesefassung unterscheiden. Sollen Empfänger nur ein PDF erhalten, entscheidende Informationen nicht ausschließlich in Notizen verstecken. Gegebenenfalls ein getrenntes Begleitblatt statt überfüllter Projektionsfolien erstellen.
+
+### 3.7. Übergänge, Nachweise und Abschluss abstimmen
+
+Übergänge, Zeitbedarf, Quellen und Abschluss gemeinsam prüfen. Bei Änderungswunsch nicht nur den sichtbaren Text, sondern auch Notizen, Quelle und gegebenenfalls Folgefolie korrigieren. Den vollständigen beauftragten Foliensatz liefern oder anschließend die echte PPTX erzeugen.
 
 ## 4. Quellenpflicht
 

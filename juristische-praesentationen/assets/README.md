@@ -11,11 +11,25 @@ Die Schriftdefinitionen der Vorlage bleiben erhalten: Franklin Gothic Book und C
 
 ## 1.2. Vorbereiten und weitergeben
 
-1. Auf einer Kopie arbeiten. Anlass, Publikum, Redezeit und gewünschte Entscheidung bestimmen.
-2. Nur benötigte Musterfolien übernehmen. Platzhalter durch den konkreten Inhalt ersetzen, entbehrliche Folien und Agenda-Felder entfernen.
-3. Vollständige Erläuterungen, überprüfte Nachweise und Redezeiten in die Sprechernotizen eintragen. Sichtbare Einschränkungen einer Rechtsaussage dürfen nicht ausschließlich in den Notizen stehen.
-4. PPTX erneut öffnen, sämtliche Folien prüfen und eine statische PDF-Fassung vergleichen. Animationen sind in der Vorlage nicht vorgegeben; der Bonus-Skill setzt sie auf Wunsch gezielt ein.
-5. Vor externer Weitergabe Kommentare, Notizen, unsichtbare Objekte, Bildausschnitte, Verknüpfungen und Dokumenteigenschaften prüfen. Die interne Referentenfassung und die freigegebene Empfängerfassung getrennt halten.
+### 1.2.1. Arbeitskopie und Vortragsauftrag vorbereiten
+
+Auf einer Kopie arbeiten. Anlass, Publikum, Redezeit und gewünschte Entscheidung bestimmen.
+
+### 1.2.2. Musterfolien auswählen und Platzhalter ersetzen
+
+Nur benötigte Musterfolien übernehmen. Platzhalter durch den konkreten Inhalt ersetzen, entbehrliche Folien und Agenda-Felder entfernen.
+
+### 1.2.3. Sprechernotizen und Nachweise ergänzen
+
+Vollständige Erläuterungen, überprüfte Nachweise und Redezeiten in die Sprechernotizen eintragen. Sichtbare Einschränkungen einer Rechtsaussage dürfen nicht ausschließlich in den Notizen stehen.
+
+### 1.2.4. PPTX und statische PDF-Fassung prüfen
+
+PPTX erneut öffnen, sämtliche Folien prüfen und eine statische PDF-Fassung vergleichen. Animationen sind in der Vorlage nicht vorgegeben; der Bonus-Skill setzt sie auf Wunsch gezielt ein.
+
+### 1.2.5. Referentenfassung und Empfängerfassung trennen
+
+Vor externer Weitergabe Kommentare, Notizen, unsichtbare Objekte, Bildausschnitte, Verknüpfungen und Dokumenteigenschaften prüfen. Die interne Referentenfassung und die freigegebene Empfängerfassung getrennt halten.
 
 ## 1.3. Bereinigung und Grenzen
 
@@ -23,6 +37,10 @@ Kanzleiwortmarken, Standortadressen, Kontaktdaten, externe Kontaktlinks und alte
 
 Die technische Paketprüfung des Plugins erkennt unter anderem fehlende Paketbestandteile, unsichere Archivpfade, aktive Altobjekte und auf Wunsch vorgegebene Suchbegriffe. Sie ersetzt weder die Sichtprüfung noch eine Wiedergabeprobe im tatsächlich verwendeten Präsentationsprogramm. Bei später eingefügten Bildern oder Dateien muss die Bereinigung erneut erfolgen.
 
+Eingebettete `.xlsx`-, `.docx`- und `.pptx`-Dateien werden nicht rekursiv inhaltlich geprüft; auch eine zulässige Diagramm-Datentabelle benötigt vollständige manuelle Kontrolle. Vor Weitergabe insbesondere verborgene Blätter und andere unsichtbare Inhalte prüfen und nicht freigegebene Inhalte oder die betreffende Einbettung entfernen. Ein technischer Rückgabewert von null ist allein keine Freigabe.
+
 ## 1.4. English
 
 The editable template retains the supplied visual style, with six sample slides and 23 layouts. Firm names, contact information and old embedded objects have been removed. Replace the sample content and check fonts, hidden information, notes and every rendered slide before sharing. The template itself is static; animation is an optional, separately checked workflow. Native PowerPoint creation depends on the tools available in the client.
+
+Embedded Office files are not recursively inspected. Review their full contents, including hidden worksheets, and remove unapproved content or the embedding before sharing. A zero exit code alone is not approval to release the presentation.

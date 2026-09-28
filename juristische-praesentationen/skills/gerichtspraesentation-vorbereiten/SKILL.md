@@ -15,13 +15,33 @@ Lies die maßgeblichen Schriftsätze, gerichtlichen Hinweise und bezeichneten An
 
 ## 3. Ablauf und Checkliste
 
-1. Den Anlass abgrenzen: Parteivortrag, Erörterung eines Gutachtens, Erläuterung eines Belegs oder möglicher Einsatz in einer Vernehmung. Verfahrensart und Prozessleitung bestimmen den weiteren Weg; Zivilprozessregeln nicht ungeprüft auf Straf- oder Verwaltungsverfahren übertragen.
-2. Für jeden benötigten Sachverhaltspunkt Quelle und Status festhalten. Unstreitig, behauptet, bestritten und festgestellt im sichtbaren Zusammenhang korrekt unterscheiden. Den gegnerischen Vortrag nicht durch eine neutrale Formulierung zur gerichtlichen Tatsache aufwerten.
-3. Nur entscheidungserhebliche Ausschnitte zeigen, aber den nötigen Kontext erhalten. Originalname, Fassung, Seitenzahl und Anlagenkennung zuordnen. Markierungen als eigene Erläuterung erkennbar halten; einen Ausschnitt nicht als vollständigen Beleg bezeichnen.
-4. Bei Widersprüchen die beiden Originalstellen gegenüberstellen. Datum, Betrag oder Zitat nicht zur besseren Dramaturgie vereinheitlichen. Ergänzende Rechnungen mit Eingabewerten und Rechenweg kennzeichnen; keine scheinbar exakten Werte aus unklarer Quelle gewinnen.
-5. Bei Zeugen zwischen eigener Wahrnehmung, Hörensagen und später gelesenen Unterlagen unterscheiden. Keine Antworttexte, taktischen Erinnerungshilfen oder durch Animation suggerierten Abläufe erstellen. Eine rein organisatorische oder belegbezogene Darstellung nur im zulässigen, abgestimmten Rahmen vorbereiten.
-6. Eine kurze statische Fassung mit gut lesbaren Belegen bevorzugen. Bei ausdrücklich gewünschtem Aufbau jeden Zwischenstand auf Belegtreue prüfen. Gerichtliche Zwischenfragen müssen beantwortbar bleiben; keine selbsttätig ablaufende Vorführung voraussetzen.
-7. Die fertigen Folien mit Schriftsatz und Anlagen abgleichen. Bei geändertem Vortrag die betroffenen Folien, Quellenverweise und Notizen aktualisieren. Vorführfassung und etwaige Einreichungsfassung unterscheiden; externe Vorlage oder Versand nicht selbst veranlassen.
+### 3.1. Verfahrensart und Vorführzweck abgrenzen
+
+Den Anlass abgrenzen: Parteivortrag, Erörterung eines Gutachtens, Erläuterung eines Belegs oder möglicher Einsatz in einer Vernehmung. Verfahrensart und Prozessleitung bestimmen den weiteren Weg; Zivilprozessregeln nicht ungeprüft auf Straf- oder Verwaltungsverfahren übertragen.
+
+### 3.2. Tatsachenstatus und Quelle festhalten
+
+Für jeden benötigten Sachverhaltspunkt Quelle und Status festhalten. Unstreitig, behauptet, bestritten und festgestellt im sichtbaren Zusammenhang korrekt unterscheiden. Den gegnerischen Vortrag nicht durch eine neutrale Formulierung zur gerichtlichen Tatsache aufwerten.
+
+### 3.3. Belegausschnitte mit Kontext zeigen
+
+Nur entscheidungserhebliche Ausschnitte zeigen, aber den nötigen Kontext erhalten. Originalname, Fassung, Seitenzahl und Anlagenkennung zuordnen. Markierungen als eigene Erläuterung erkennbar halten; einen Ausschnitt nicht als vollständigen Beleg bezeichnen.
+
+### 3.4. Widersprüchliche Originalstellen gegenüberstellen
+
+Bei Widersprüchen die beiden Originalstellen gegenüberstellen. Datum, Betrag oder Zitat nicht zur besseren Dramaturgie vereinheitlichen. Ergänzende Rechnungen mit Eingabewerten und Rechenweg kennzeichnen; keine scheinbar exakten Werte aus unklarer Quelle gewinnen.
+
+### 3.5. Zeugenerinnerung und Aktenwissen trennen
+
+Bei Zeugen zwischen eigener Wahrnehmung, Hörensagen und später gelesenen Unterlagen unterscheiden. Keine Antworttexte, taktischen Erinnerungshilfen oder durch Animation suggerierten Abläufe erstellen. Eine rein organisatorische oder belegbezogene Darstellung nur im zulässigen, abgestimmten Rahmen vorbereiten.
+
+### 3.6. Eine statische Vorführfassung vorbereiten
+
+Eine kurze statische Fassung mit gut lesbaren Belegen bevorzugen. Bei ausdrücklich gewünschtem Aufbau jeden Zwischenstand auf Belegtreue prüfen. Gerichtliche Zwischenfragen müssen beantwortbar bleiben; keine selbsttätig ablaufende Vorführung voraussetzen.
+
+### 3.7. Folien mit Schriftsatz und Anlagen abgleichen
+
+Die fertigen Folien mit Schriftsatz und Anlagen abgleichen. Bei geändertem Vortrag die betroffenen Folien, Quellenverweise und Notizen aktualisieren. Vorführfassung und etwaige Einreichungsfassung unterscheiden; externe Vorlage oder Versand nicht selbst veranlassen.
 
 ## 4. Quellenpflicht
 

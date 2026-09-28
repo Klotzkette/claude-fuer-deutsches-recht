@@ -15,13 +15,33 @@ Lies die für den Zusammenhang bezeichneten Originalunterlagen. Bei Tabellen Dat
 
 ## 3. Ablauf und Checkliste
 
-1. Die grafisch zu beantwortende Frage festlegen. Für zeitliche Abfolge eine Zeitachse, für unterschiedliche Rollen ein Beteiligtenbild, für Zahlungen einen gerichteten Zahlungsweg und für Textwidersprüche eine Gegenüberstellung wählen. Nicht dieselbe Darstellungsform für alle Fälle erzwingen.
-2. Intern jeden dargestellten Punkt mit Quelle, Seite oder Tabellenzelle und Status verbinden. Ein Dokumentdatum, Versanddatum und Zugang sind getrennte Ereignisse. Konzernzugehörigkeit macht zwei Rechtsträger nicht zu derselben Person.
-3. Maßstab und Ausschnitt bestimmen. Bei nicht maßstabsgetreuer Zeitachse oder gekürztem Zeitraum dies kenntlich machen. Eine Lücke nicht mit erfundenen Zwischenereignissen füllen. Unbekannte Daten als offen markieren; gerundete Werte nicht als Originalbeträge ausgeben.
-4. In Zahlungsbildern Zahler, Empfänger, Betrag, Datum und Richtung ausweisen. Forderungsabtretung, Vertragsübernahme, Zahlungsfluss und wirtschaftliches Interesse durch Text unterscheiden; Pfeile allein erklären deren Rechtsnatur nicht. Gegenläufige Zahlungswege nicht saldieren, wenn gerade die Einzelbewegung wesentlich ist.
-5. Ein Originaldokument vollständig zuordenbar lassen. Vergrößerungen als Ausschnitt kennzeichnen; Kontext und entscheidende Einschränkung nicht abschneiden. Rekonstruierte Chatoberflächen oder ergänzte Signaturen nicht wie Originalbelege gestalten. Erläuternde Zeichnungen ausdrücklich als solche bezeichnen.
-6. Aussage und Grafik gegenseitig prüfen: Entsteht durch Farbe, Flächenverhältnis oder Reihenfolge ein unbelegter Eindruck? Streitig und festgestellt auch sprachlich unterscheiden. Beschriftungen, Legende und Alternativbeschreibung so schreiben, dass die Darstellung ohne Farbe und ohne Animation verständlich bleibt.
-7. Die benötigten Folien oder editierbaren Grafiken erzeugen, sofern Werkzeuge vorhanden sind. Andernfalls Objekte, Beziehungen, Texte und Quellen vollständig als Bauanweisung ausgeben. Bei neuen Belegen die betroffenen Punkte aktualisieren, danach Reihenfolge, Summen und Folienaussage erneut prüfen.
+### 3.1. Die geeignete Darstellungsform wählen
+
+Die grafisch zu beantwortende Frage festlegen. Für zeitliche Abfolge eine Zeitachse, für unterschiedliche Rollen ein Beteiligtenbild, für Zahlungen einen gerichteten Zahlungsweg und für Textwidersprüche eine Gegenüberstellung wählen. Nicht dieselbe Darstellungsform für alle Fälle erzwingen.
+
+### 3.2. Jeden dargestellten Punkt belegen
+
+Intern jeden dargestellten Punkt mit Quelle, Seite oder Tabellenzelle und Status verbinden. Ein Dokumentdatum, Versanddatum und Zugang sind getrennte Ereignisse. Konzernzugehörigkeit macht zwei Rechtsträger nicht zu derselben Person.
+
+### 3.3. Maßstab, Ausschnitt und Lücken kennzeichnen
+
+Maßstab und Ausschnitt bestimmen. Bei nicht maßstabsgetreuer Zeitachse oder gekürztem Zeitraum dies kenntlich machen. Eine Lücke nicht mit erfundenen Zwischenereignissen füllen. Unbekannte Daten als offen markieren; gerundete Werte nicht als Originalbeträge ausgeben.
+
+### 3.4. Zahlungswege und Rechtsbeziehungen unterscheiden
+
+In Zahlungsbildern Zahler, Empfänger, Betrag, Datum und Richtung ausweisen. Forderungsabtretung, Vertragsübernahme, Zahlungsfluss und wirtschaftliches Interesse durch Text unterscheiden; Pfeile allein erklären deren Rechtsnatur nicht. Gegenläufige Zahlungswege nicht saldieren, wenn gerade die Einzelbewegung wesentlich ist.
+
+### 3.5. Originalbelege zuordenbar erhalten
+
+Ein Originaldokument vollständig zuordenbar lassen. Vergrößerungen als Ausschnitt kennzeichnen; Kontext und entscheidende Einschränkung nicht abschneiden. Rekonstruierte Chatoberflächen oder ergänzte Signaturen nicht wie Originalbelege gestalten. Erläuternde Zeichnungen ausdrücklich als solche bezeichnen.
+
+### 3.6. Die Aussagewirkung der Grafik prüfen
+
+Aussage und Grafik gegenseitig prüfen: Entsteht durch Farbe, Flächenverhältnis oder Reihenfolge ein unbelegter Eindruck? Streitig und festgestellt auch sprachlich unterscheiden. Beschriftungen, Legende und Alternativbeschreibung so schreiben, dass die Darstellung ohne Farbe und ohne Animation verständlich bleibt.
+
+### 3.7. Grafiken erstellen und bei neuen Belegen fortführen
+
+Die benötigten Folien oder editierbaren Grafiken erzeugen, sofern Werkzeuge vorhanden sind. Andernfalls Objekte, Beziehungen, Texte und Quellen vollständig als Bauanweisung ausgeben. Bei neuen Belegen die betroffenen Punkte aktualisieren, danach Reihenfolge, Summen und Folienaussage erneut prüfen.
 
 ## 4. Quellenpflicht
 

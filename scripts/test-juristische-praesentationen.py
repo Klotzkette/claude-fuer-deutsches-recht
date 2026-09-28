@@ -80,6 +80,63 @@ class PresentationTests(unittest.TestCase):
                 report = CHECK.inspect(self.mutated({name: ET.tostring(root)}), template=True)
                 self.assertTrue(any('Wurzelelement' in e for e in report['errors']))
 
+    def test_duplicate_slide_targets_and_orphans_are_reported(self):
+        name = 'ppt/presentation.xml'
+        rel_name = 'ppt/_rels/presentation.xml.rels'
+        for distinct_relations in (False, True):
+            with self.subTest(distinct_relations=distinct_relations):
+                root = ET.fromstring(self.parts[name])
+                entries = root.findall('p:sldIdLst/p:sldId', NS)
+                relationships = ET.fromstring(self.parts[rel_name])
+                ids = [entry.get(f'{{{CHECK.R}}}id') for entry in entries[:2]]
+                if distinct_relations:
+                    by_id = {rel.get('Id'): rel for rel in relationships}
+                    by_id[ids[1]].set('Target', by_id[ids[0]].get('Target'))
+                else:
+                    entries[1].set(f'{{{CHECK.R}}}id', ids[0])
+                report = CHECK.inspect(self.mutated({
+                    name: ET.tostring(root), rel_name: ET.tostring(relationships)}))
+                self.assertTrue(any('mehrfach' in e for e in report['errors']))
+                self.assertTrue(any('außerhalb der Folienfolge' in w for w in report['warnings']))
+
+    def test_reordered_slides_keep_exact_coverage(self):
+        name = 'ppt/presentation.xml'
+        root = ET.fromstring(self.parts[name])
+        entries = root.find('p:sldIdLst', NS)
+        entries[:] = list(reversed(entries))
+        report = CHECK.inspect(self.mutated({name: ET.tostring(root)}), template=True)
+        self.assertEqual(report['errors'], [])
+        self.assertFalse(any('Folienfolge' in w for w in report['warnings']))
+
+    def test_slide_relationship_cannot_target_an_existing_theme(self):
+        name = 'ppt/_rels/presentation.xml.rels'
+        root = ET.fromstring(self.parts[name])
+        rel = next(rel for rel in root if rel.get('Type') == f'{CHECK.R}/slide')
+        rel.set('Target', 'theme/theme1.xml')
+        report = CHECK.inspect(self.mutated({name: ET.tostring(root)}))
+        self.assertTrue(any('gültigen Folienbestandteil' in e for e in report['errors']))
+
+    def test_every_embedded_payload_requires_review_or_rejection(self):
+        for suffix in ('.xlsx', '.docx', '.pptx', '.xlsm', '.docm', '.pptm', '.bin', '.exe', '.zip', '.dat'):
+            with self.subTest(suffix=suffix):
+                name = f'ppt/embeddings/attachment{suffix}'
+                report = CHECK.inspect(self.mutated({name: b'not examined'}), template=True)
+                findings = report['errors'] + report['warnings']
+                self.assertTrue(any(name in finding for finding in findings))
+                if suffix in ('.xlsx', '.docx', '.pptx'):
+                    self.assertTrue(any('Inhalt nicht untersucht' in w for w in report['warnings']))
+                else:
+                    self.assertTrue(any(name in e for e in report['errors']))
+
+    def test_embedded_payload_outside_standard_folder_is_reported(self):
+        name = 'ppt/_rels/presentation.xml.rels'
+        root = ET.fromstring(self.parts[name])
+        ET.SubElement(root, f'{{{CHECK.PACKAGE_R}}}Relationship', {
+            'Id': 'packageFile', 'Type': f'{CHECK.R}/package', 'Target': 'assets/data.xlsx'})
+        report = CHECK.inspect(self.mutated({
+            name: ET.tostring(root), 'ppt/assets/data.xlsx': b'not examined'}))
+        self.assertTrue(any('ppt/assets/data.xlsx' in w for w in report['warnings']))
+
     def test_slide_ids_must_be_present_and_nonempty(self):
         name = 'ppt/presentation.xml'
         for value in (None, '', '   '):
@@ -214,8 +271,11 @@ class PresentationTests(unittest.TestCase):
         for path in skills:
             text = path.read_text(encoding='utf-8')
             self.assertNotIn(chr(167), text)
+            self.assertNotRegex(text, r'(?m)^\d+\.\s')
             for heading in range(1, 7):
                 self.assertRegex(text, rf'(?m)^## {heading}\. ')
+            self.assertIn('### 3.1.', text)
+        self.assertIn('### 1.2.1.', (PLUGIN / 'assets/README.md').read_text(encoding='utf-8'))
 
     def test_local_runtime_links_stay_inside_installed_plugin(self):
         from markdown_it import MarkdownIt

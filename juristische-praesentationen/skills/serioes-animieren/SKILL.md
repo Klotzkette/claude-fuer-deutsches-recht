@@ -15,13 +15,33 @@ Lies die tatsächlichen Folien, Notizen und den geplanten Vortrag. Stelle fest, 
 
 ## 3. Ablauf und Checkliste
 
-1. Zuerst eine vollständig verständliche statische Fassung sichern. Rechtsaussage, Beleg, Einschränkung und Quelle dürfen nicht von einer einzigen erfolgreichen Animation abhängen. Keine automatische Animation der gesamten Vorlage vornehmen.
-2. Geeignete Stellen auswählen: nacheinander erscheinende Prüfungsvoraussetzungen, Vergleich zweier Vertragsfassungen, Stufen einer Fristberechnung oder getrennte Zahlungswege. Ein bereits kurzes Zitat oder eine Belegseite benötigt häufig keine Bewegung.
-3. Für jeden Aufbau Foliennummer, eindeutig benanntes Zielobjekt oder Textabsatz, Effekt, Auslöser, Reihenfolge, Dauer und statische Endansicht festlegen. Ruhiges Erscheinen, Verblassen oder ein kurzer gerichteter Textaufbau kann passen. Drehungen, Sprünge, Buchstabenfeuerwerk, Dauerschleifen und Töne weglassen.
-4. Als veränderbaren Gestaltungsvorschlag kurze Übergänge von etwa 300 bis 500 Millisekunden verwenden, sofern keine Vorlage oder Vorgabe entgegensteht. Dies ist keine Norm und kein Kompatibilitätsversprechen. Der Vortragende steuert die inhaltlichen Schritte grundsätzlich bewusst per Klick; automatische Abfolgen nur dort, wo sie tatsächlich beauftragt und sinnvoll sind.
-5. Jeden Zwischenstand rechtlich prüfen. Eine Ausnahme darf nicht erst später erscheinen, wenn die zuvor sichtbare Aussage ohne sie falsch ist. Farben und Bewegung dürfen bestrittene Vorgänge nicht als bewiesene Kausalfolge erscheinen lassen. Bei Gerichtsmaterial die belegtreue statische Ansicht vorziehen.
-6. Animationen nur mit geeigneten Funktionen in einer Kopie umsetzen. Nach Umgruppieren, Löschen oder Einfügen von Objekten Reihenfolge und Zielzuordnung erneut prüfen. Ein Folienübergang ersetzt keine Objektanimation; ein Video ist keine editierbare PowerPoint-Animation.
-7. Im Zielprogramm vorwärts, rückwärts und durch Direktansprung prüfen. Werden Folien per PDF ausgegeben, die statische Fassung gesondert erzeugen und sichten. Bei fehlender oder fehlerhafter Wiedergabe die nicht getestete Funktion benennen und den brauchbaren statischen Stand erhalten; kein endloses Exportieren versuchen.
+### 3.1. Die verständliche statische Fassung sichern
+
+Zuerst eine vollständig verständliche statische Fassung sichern. Rechtsaussage, Beleg, Einschränkung und Quelle dürfen nicht von einer einzigen erfolgreichen Animation abhängen. Keine automatische Animation der gesamten Vorlage vornehmen.
+
+### 3.2. Geeignete Stellen für einen schrittweisen Aufbau wählen
+
+Geeignete Stellen auswählen: nacheinander erscheinende Prüfungsvoraussetzungen, Vergleich zweier Vertragsfassungen, Stufen einer Fristberechnung oder getrennte Zahlungswege. Ein bereits kurzes Zitat oder eine Belegseite benötigt häufig keine Bewegung.
+
+### 3.3. Zielobjekte und Animationsfolge festlegen
+
+Für jeden Aufbau Foliennummer, eindeutig benanntes Zielobjekt oder Textabsatz, Effekt, Auslöser, Reihenfolge, Dauer und statische Endansicht festlegen. Ruhiges Erscheinen, Verblassen oder ein kurzer gerichteter Textaufbau kann passen. Drehungen, Sprünge, Buchstabenfeuerwerk, Dauerschleifen und Töne weglassen.
+
+### 3.4. Übergangsdauer und Klicksteuerung bestimmen
+
+Als veränderbaren Gestaltungsvorschlag kurze Übergänge von etwa 300 bis 500 Millisekunden verwenden, sofern keine Vorlage oder Vorgabe entgegensteht. Dies ist keine Norm und kein Kompatibilitätsversprechen. Der Vortragende steuert die inhaltlichen Schritte grundsätzlich bewusst per Klick; automatische Abfolgen nur dort, wo sie tatsächlich beauftragt und sinnvoll sind.
+
+### 3.5. Jeden Zwischenstand auf rechtliche Richtigkeit prüfen
+
+Jeden Zwischenstand rechtlich prüfen. Eine Ausnahme darf nicht erst später erscheinen, wenn die zuvor sichtbare Aussage ohne sie falsch ist. Farben und Bewegung dürfen bestrittene Vorgänge nicht als bewiesene Kausalfolge erscheinen lassen. Bei Gerichtsmaterial die belegtreue statische Ansicht vorziehen.
+
+### 3.6. Animationen in einer Arbeitskopie umsetzen
+
+Animationen nur mit geeigneten Funktionen in einer Kopie umsetzen. Nach Umgruppieren, Löschen oder Einfügen von Objekten Reihenfolge und Zielzuordnung erneut prüfen. Ein Folienübergang ersetzt keine Objektanimation; ein Video ist keine editierbare PowerPoint-Animation.
+
+### 3.7. Wiedergabe und statischen Ersatz prüfen
+
+Im Zielprogramm vorwärts, rückwärts und durch Direktansprung prüfen. Werden Folien per PDF ausgegeben, die statische Fassung gesondert erzeugen und sichten. Bei fehlender oder fehlerhafter Wiedergabe die nicht getestete Funktion benennen und den brauchbaren statischen Stand erhalten; kein endloses Exportieren versuchen.
 
 ## 4. Quellenpflicht
 

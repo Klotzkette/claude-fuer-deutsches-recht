@@ -15,13 +15,33 @@ Entscheidung und Anlagen zuerst lesen. Gericht, Datum, Entscheidungsform und Akt
 
 ## 3. Ablauf und Checkliste
 
-1. Die entscheidungserhebliche Frage in einem Satz formulieren. Tatsachen auf die für diese Frage nötigen Umstände reduzieren, ohne ausschlaggebende Ausnahmen oder streitige Angaben wegzulassen.
-2. Verfahrensstand und Prüfungsumfang erfassen: Wer verlangt was, welche Instanz entscheidet, woran ist das Gericht gebunden, was bleibt nach der Entscheidung offen? Kostenentscheidung nicht mit dem Erfolg jedes materiellen Begehrens gleichsetzen.
-3. Tenor und Gründe nebeneinander lesen. Für jeden tragenden Gedankenschritt Voraussetzung, festgestellte Tatsache und Folge aus der Entscheidung zuordnen. Parteivortrag nicht als gerichtliche Feststellung wiedergeben. Ein Leitsatz allein ersetzt diesen Abgleich nicht.
-4. Den Vortrag als Folge einer Ausgangssituation, einer Rechtsfrage, der gerichtlichen Antwort und ihrer Grenze ausarbeiten. Die Norm an der Stelle erklären, an der das Publikum sie benötigt. Eine Abgrenzungsfolie zeigt, welche andere Tatsache die Übertragung auf einen weiteren Fall verhindern würde.
-5. Bei Rechtsprechungsänderung den Vergleich nur auf verifizierte Vorgängerentscheidungen stützen. Bei gleichbleibender Linie nicht künstlich eine Wende behaupten. Neue Folgeentscheidungen gezielt auf denselben Streitpunkt prüfen; der neueste Jahrgang ist kein eigenes Relevanzkriterium.
-6. Praxisfolgen adressatengerecht formulieren: Vertragsgestaltung, Fristenkontrolle, Prozessvortrag oder offene Beratungsfrage, soweit tatsächlich betroffen. Einen hypothetischen Anwendungsfall als solchen benennen. In den Notizen die stärkste Einwendung gegen eine zu weite Anwendung erläutern.
-7. Bei Rückfragen des Nutzers zum Ergebnis in die konkrete Passage zurückgehen, anschließend Folientitel, Erläuterung und Schlussfolie gemeinsam berichtigen. Mit vollständigen Folien und Sprechernotizen abschließen; bei gewünschter Datei `powerpoint-aus-vorlage-erstellen` und danach die Schlussprüfung anschließen.
+### 3.1. Die entscheidungserhebliche Frage herausarbeiten
+
+Die entscheidungserhebliche Frage in einem Satz formulieren. Tatsachen auf die für diese Frage nötigen Umstände reduzieren, ohne ausschlaggebende Ausnahmen oder streitige Angaben wegzulassen.
+
+### 3.2. Verfahrensstand und Prüfungsumfang erfassen
+
+Verfahrensstand und Prüfungsumfang erfassen: Wer verlangt was, welche Instanz entscheidet, woran ist das Gericht gebunden, was bleibt nach der Entscheidung offen? Kostenentscheidung nicht mit dem Erfolg jedes materiellen Begehrens gleichsetzen.
+
+### 3.3. Tenor und tragende Gründe abgleichen
+
+Tenor und Gründe nebeneinander lesen. Für jeden tragenden Gedankenschritt Voraussetzung, festgestellte Tatsache und Folge aus der Entscheidung zuordnen. Parteivortrag nicht als gerichtliche Feststellung wiedergeben. Ein Leitsatz allein ersetzt diesen Abgleich nicht.
+
+### 3.4. Antwort und Übertragungsgrenze erläutern
+
+Den Vortrag als Folge einer Ausgangssituation, einer Rechtsfrage, der gerichtlichen Antwort und ihrer Grenze ausarbeiten. Die Norm an der Stelle erklären, an der das Publikum sie benötigt. Eine Abgrenzungsfolie zeigt, welche andere Tatsache die Übertragung auf einen weiteren Fall verhindern würde.
+
+### 3.5. Rechtsprechungsentwicklung verifizieren
+
+Bei Rechtsprechungsänderung den Vergleich nur auf verifizierte Vorgängerentscheidungen stützen. Bei gleichbleibender Linie nicht künstlich eine Wende behaupten. Neue Folgeentscheidungen gezielt auf denselben Streitpunkt prüfen; der neueste Jahrgang ist kein eigenes Relevanzkriterium.
+
+### 3.6. Praxisfolgen adressatengerecht ableiten
+
+Praxisfolgen adressatengerecht formulieren: Vertragsgestaltung, Fristenkontrolle, Prozessvortrag oder offene Beratungsfrage, soweit tatsächlich betroffen. Einen hypothetischen Anwendungsfall als solchen benennen. In den Notizen die stärkste Einwendung gegen eine zu weite Anwendung erläutern.
+
+### 3.7. Rückfragen einarbeiten und den Vortrag fertigstellen
+
+Bei Rückfragen des Nutzers zum Ergebnis in die konkrete Passage zurückgehen, anschließend Folientitel, Erläuterung und Schlussfolie gemeinsam berichtigen. Mit vollständigen Folien und Sprechernotizen abschließen; bei gewünschter Datei `powerpoint-aus-vorlage-erstellen` und danach die Schlussprüfung anschließen.
 
 ## 4. Quellenpflicht
 

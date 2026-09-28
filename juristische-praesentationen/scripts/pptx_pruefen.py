@@ -83,8 +83,11 @@ def inspect(path: Path, forbidden: tuple[str, ...] = (), template: bool = False)
                 errors.append(f"Pflichtbestandteil fehlt: {required}")
         if errors:
             return result
+        embedded = {name for name in parts if name.lower().startswith('ppt/embeddings/')}
+        resolved_relations = {}
+        slide_parts = {name for name, root in xml.items() if root.tag == f'{{{P}}}sld'}
         for name in parts:
-            if re.search(r'(?:vbaProject|/activeX/|/embeddings/.*\.(?:bin|exe))', name, re.I):
+            if re.search(r'(?:vbaProject|/activeX/)', name, re.I):
                 errors.append(f"Aktiver oder nicht transparent prüfbarer Altbestand: {name}")
         for name, root in xml.items():
             combined = ' '.join(root.itertext()) + ' ' + ' '.join(v for n in root.iter() for v in n.attrib.values())
@@ -124,7 +127,11 @@ def inspect(path: Path, forbidden: tuple[str, ...] = (), template: bool = False)
                     resolved = posixpath.normpath(raw.lstrip('/') if raw.startswith('/') else posixpath.join(posixpath.dirname(owner), raw))
                     if not raw or resolved not in parts:
                         errors.append(f"Internes Verknüpfungsziel fehlt: {name} -> {target}")
-            if re.fullmatch(r'ppt/slides/slide\d+\.xml', name):
+                    else:
+                        resolved_relations[(owner, rel.get('Id'))] = resolved
+                        if rel.get('Type') in (f'{R}/oleObject', f'{R}/package'):
+                            embedded.add(resolved)
+            if name in slide_parts:
                 result['slides'] += 1
                 if root.get('show') == '0':
                     warnings.append(f"Ausgeblendete Folie: {name}")
@@ -150,13 +157,29 @@ def inspect(path: Path, forbidden: tuple[str, ...] = (), template: bool = False)
         if (not entries or any(not value or not value.strip() for value in slide_ids)
                 or len(slide_ids) != len(set(slide_ids))):
             errors.append("Folienfolge fehlt oder enthält leere oder doppelte IDs.")
+        targets = []
         for entry in entries:
-            rel = rels.get(entry.get(f'{{{R}}}id'))
+            relation_id = entry.get(f'{{{R}}}id')
+            rel = rels.get(relation_id)
             if (rel is None or rel.get('Type') != f'{R}/slide'
                     or rel.get('TargetMode', 'Internal') != 'Internal'):
                 errors.append("Folienfolge enthält einen ungültigen Folienverweis.")
-        if len(entries) != result['slides']:
-            warnings.append("Nicht jede Folien-Datei ist genau einmal in der Folienfolge enthalten.")
+                continue
+            target = resolved_relations.get(('ppt/presentation.xml', relation_id))
+            if target not in slide_parts:
+                errors.append("Folienverweis zeigt nicht auf einen gültigen Folienbestandteil.")
+                continue
+            targets.append(target)
+        if len(targets) != len(set(targets)):
+            errors.append("Ein Folienbestandteil wird mehrfach in der Folienfolge verwendet.")
+        for name in sorted(slide_parts - set(targets)):
+            warnings.append(f"Folien-Datei außerhalb der Folienfolge: {name}")
+        for name in sorted(embedded):
+            # Auch reguläre Diagrammtabellen können nicht sichtbare Daten enthalten.
+            if Path(name).suffix.lower() in {'.xlsx', '.docx', '.pptx'}:
+                warnings.append(f"Eingebettete Office-Datei vollständig manuell prüfen; Inhalt nicht untersucht: {name}")
+            else:
+                errors.append(f"Aktiver oder nicht transparent prüfbarer Altbestand: {name}")
     except (OSError, ValueError, BadZipFile, ET.ParseError, RuntimeError,
             NotImplementedError, EOFError, CompressionError) as exc:
         errors.append(str(exc))

@@ -15,13 +15,33 @@ Lies Tagesordnung, aktuelle Aktennotiz, vorhandene Freigaben und die maßgeblich
 
 ## 3. Ablauf und Checkliste
 
-1. Zwischen Information, Abstimmung und Entscheidung unterscheiden. Den Einstieg entsprechend formulieren: Was hat sich geändert, welche Frage benötigt eine Entscheidung oder welche Information fehlt? Keine allgemeine Einführung in das Rechtsgebiet voranstellen.
-2. Den Stand auf die für die Besprechung notwendigen Tatsachen begrenzen. Bei wiederkehrendem Jour fixe Veränderungen seit der letzten Fassung zeigen; unveränderte Vorgeschichte in der Reserve belassen. Überholte Zahlen und erledigte Fragen entfernen.
-3. Rechtlich tragfähige Handlungsalternativen entwickeln. Für jede Alternative Voraussetzung, rechtliche Wirkung, zeitliche Bindung, belegte Kosten und offenen Punkt erläutern. „Nichts tun“ nur als echte Alternative aufnehmen, einschließlich der dann eintretenden Folgen.
-4. Zahlen aus ihrer Quelle ableiten und Schätzungen sichtbar abgrenzen. Keine Prozesschance oder Kostenquote erfinden. Wenn ein fehlender Vertrag oder eine ungesicherte Frist die Empfehlung verändert, genau diesen Beleg nachfordern und die übrigen Teile ausarbeiten.
-5. Empfehlung, Bedingung und Entscheidungskompetenz nebeneinanderstellen. Bei fehlender materieller Grundlage eine konkrete Nachermittlung empfehlen, nicht durch entschlossene Gestaltung Sicherheit vortäuschen. Eine Präsentation über eine Vertragsfreigabe bewirkt noch keinen Vertragsschluss.
-6. Mit ausformuliertem Beschlussvorschlag oder konkretem nächsten Schritt schließen. Zuständigen und Termin aus dem Auftrag entnehmen oder zur Festlegung offen benennen. Nicht eigenmächtig Anerkenntnis, Verzicht oder externe Kommunikation auslösen.
-7. Rückmeldungen in den Entwurf übernehmen. Wird eine Alternative verworfen, Hauptteil und Schlussfolgerung ändern; den verworfenen Entwurf nicht als beschlossene Fassung verteilen. Danach Folien, Notizen und erforderlichenfalls ein getrenntes Kurzmemorandum liefern.
+### 3.1. Information, Abstimmung und Entscheidung unterscheiden
+
+Zwischen Information, Abstimmung und Entscheidung unterscheiden. Den Einstieg entsprechend formulieren: Was hat sich geändert, welche Frage benötigt eine Entscheidung oder welche Information fehlt? Keine allgemeine Einführung in das Rechtsgebiet voranstellen.
+
+### 3.2. Veränderungen seit der letzten Besprechung zeigen
+
+Den Stand auf die für die Besprechung notwendigen Tatsachen begrenzen. Bei wiederkehrendem Jour fixe Veränderungen seit der letzten Fassung zeigen; unveränderte Vorgeschichte in der Reserve belassen. Überholte Zahlen und erledigte Fragen entfernen.
+
+### 3.3. Handlungsalternativen mit ihren Folgen erläutern
+
+Rechtlich tragfähige Handlungsalternativen entwickeln. Für jede Alternative Voraussetzung, rechtliche Wirkung, zeitliche Bindung, belegte Kosten und offenen Punkt erläutern. „Nichts tun“ nur als echte Alternative aufnehmen, einschließlich der dann eintretenden Folgen.
+
+### 3.4. Zahlen belegen und entscheidende Lücken klären
+
+Zahlen aus ihrer Quelle ableiten und Schätzungen sichtbar abgrenzen. Keine Prozesschance oder Kostenquote erfinden. Wenn ein fehlender Vertrag oder eine ungesicherte Frist die Empfehlung verändert, genau diesen Beleg nachfordern und die übrigen Teile ausarbeiten.
+
+### 3.5. Empfehlung und Entscheidungskompetenz zuordnen
+
+Empfehlung, Bedingung und Entscheidungskompetenz nebeneinanderstellen. Bei fehlender materieller Grundlage eine konkrete Nachermittlung empfehlen, nicht durch entschlossene Gestaltung Sicherheit vortäuschen. Eine Präsentation über eine Vertragsfreigabe bewirkt noch keinen Vertragsschluss.
+
+### 3.6. Den Beschlussvorschlag ausformulieren
+
+Mit ausformuliertem Beschlussvorschlag oder konkretem nächsten Schritt schließen. Zuständigen und Termin aus dem Auftrag entnehmen oder zur Festlegung offen benennen. Nicht eigenmächtig Anerkenntnis, Verzicht oder externe Kommunikation auslösen.
+
+### 3.7. Rückmeldungen in die Besprechungsfassung übernehmen
+
+Rückmeldungen in den Entwurf übernehmen. Wird eine Alternative verworfen, Hauptteil und Schlussfolgerung ändern; den verworfenen Entwurf nicht als beschlossene Fassung verteilen. Danach Folien, Notizen und erforderlichenfalls ein getrenntes Kurzmemorandum liefern.
 
 ## 4. Quellenpflicht
 

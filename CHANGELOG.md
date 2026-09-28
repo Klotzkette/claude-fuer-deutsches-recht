@@ -1,3 +1,13 @@
+# v445.14.1 - Präsentationspaket mit vollständiger Schlussprüfung
+
+## 1. Juristische Präsentationen
+
+Erste vollständige Veröffentlichung des neuen Pakets mit zehn Kernskills, zwei optionalen Zusatzskills, neutraler PowerPoint-Vorlage, ausführlicher Werkstatt und kompaktem Schnellstart. Quellenführung, Publikum, Zeit und Sprechtext bestimmen den konkreten Vortrag. Die Prüfrunde ergänzt die vollständige Meldung eingebetteter Office-Dateien und erkennt mehrfach verwendete sowie nicht eingebundene Folienbestandteile. Ungeprüfte eingebettete Inhalte erfordern eine gesonderte Kontrolle vor der Weitergabe; aktive und unbekannte Binärformate werden abgewiesen.
+
+## 2. Gliederung und Regressionen
+
+Die einzelnen Arbeitsschritte der neuen Skills sind als lesbare dezimale Unterabschnitte gegliedert. Zusätzliche Mutationsprüfungen sichern Folienreihenfolge, Beziehungen und eingebettete Inhalte. Verzeichnisse und Versionsstände sind nachgeführt. Der vorangehende Tag bleibt unverändert; sein noch unveröffentlichter Build wurde zugunsten dieser korrigierten Fassung beendet.
+
 # v445.14.0 - Juristische Präsentationen mit neutraler PowerPoint-Vorlage
 
 ## 1. Neues Präsentationspaket
