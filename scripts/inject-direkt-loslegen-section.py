@@ -12,6 +12,7 @@ import json
 import re
 from os.path import relpath
 from pathlib import Path
+from release_routing import case_asset_url, rewrite_case_asset_urls
 
 from prompt_profiles import enabled, formats
 from urllib.parse import quote
@@ -447,8 +448,8 @@ def testakten_section(plugin_name: str, directory: Path, akten_slugs: list[str])
         lines.append(
             f"| [{title}]({relative_link(directory, TESTAKTEN_DIR / slug / 'README.md')}) | "
             f"[Gesamt-PDF]({pdf_rel}) | "
-            f"[`testakte-{slug}.zip`]({RELEASE_BASE}/testakte-{slug}.zip) | "
-            f"[`testakte-{slug}-einzelpdfs.zip`]({RELEASE_BASE}/testakte-{slug}-einzelpdfs.zip) |"
+            f"[`testakte-{slug}.zip`]({case_asset_url(slug, root=REPO)}) | "
+            f"[`testakte-{slug}-einzelpdfs.zip`]({case_asset_url(slug, '-einzelpdfs', root=REPO)}) |"
         )
     testakten_overview = relative_link(directory, TESTAKTEN_DIR / "README.md")
     lines.extend(["", f"[Alle Testakten und Fachzuordnungen]({testakten_overview})"])
@@ -593,6 +594,7 @@ def inject(plugin: dict, akten_slugs: list[str], marketplace_count: int) -> str:
         + stripped[pos:].lstrip()
     )
     new_text = normalize_decimal_headings(ensure_download_notices(new_text))
+    new_text = rewrite_case_asset_urls(new_text, root=REPO)
     if new_text == text:
         return "UNCHANGED"
     readme.write_text(new_text, encoding="utf-8")

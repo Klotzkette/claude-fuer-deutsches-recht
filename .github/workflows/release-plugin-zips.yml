@@ -19,6 +19,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: release-plugin-zips-${{ github.event.inputs.tag || github.ref_name }}
+  cancel-in-progress: false
+
 jobs:
   build-and-release:
     runs-on: ubuntu-latest
@@ -27,6 +31,7 @@ jobs:
         uses: actions/checkout@v5
         with:
           fetch-depth: 0
+          ref: ${{ github.event.inputs.tag || github.ref }}
 
       - name: Validator
         run: |
@@ -70,6 +75,7 @@ jobs:
       - name: Release- und PDF-Helfer testen
         run: |
           python3 scripts/test-release-assets.py
+          python3 scripts/test-release-routing.py
           python3 scripts/test-testakte-pdf-build.py
           python3 scripts/test-testakte-projektordner.py
           python3 scripts/test-fintech-bremen.py
@@ -126,10 +132,9 @@ jobs:
       - name: CSV-Aktenstücke validieren
         run: python3 scripts/validate-testakten-csv.py
 
-      - name: Downloadhinweise der Testakten validieren
+      - name: Downloadhinweise der Testakten erzeugen
         run: |
           python3 scripts/inject-gesamt-pdf-section.py
-          python3 scripts/validate-testakten-readme-downloads.py
 
       - name: Werkstatt- und Schnellstart-Prompts erzeugen
         run: |
@@ -178,6 +183,7 @@ jobs:
 
       - name: Root- und Index-Übersichten gegen Marketplace validieren
         run: |
+          python3 scripts/validate-testakten-readme-downloads.py
           python3 scripts/validate-root-readme-overview.py
           python3 scripts/validate-readme-navigation.py
           python3 scripts/test-readme-navigation.py
@@ -392,35 +398,28 @@ jobs:
       - name: Checksums erzeugen
         run: python3 scripts/build-release-checksums.py dist
 
+      - name: Fertige Assets nach Haupt- und Begleitrelease aufteilen
+        run: python3 scripts/stage-release-assets.py dist release-staging
+
       - name: Tag bestimmen
         id: tagref
+        env:
+          REQUESTED_TAG: ${{ github.event.inputs.tag }}
         run: |
           if [ "${{ github.event_name }}" = "push" ]; then
             echo "tag=${GITHUB_REF_NAME}" >> "$GITHUB_OUTPUT"
           else
-            echo "tag=${{ github.event.inputs.tag }}" >> "$GITHUB_OUTPUT"
+            echo "tag=${REQUESTED_TAG}" >> "$GITHUB_OUTPUT"
           fi
 
-      - name: Release-Dateien parallel und wiederaufnehmbar hochladen
+      - name: Beide Releases hochladen, verifizieren und geordnet veröffentlichen
         if: steps.tagref.outputs.tag != ''
         env:
           GH_TOKEN: ${{ github.token }}
           RELEASE_TAG: ${{ steps.tagref.outputs.tag }}
         run: |
-          python3 scripts/upload-release-assets.py dist "$RELEASE_TAG" \
-            --repo "${{ github.repository }}" --workers 4 --attempts 6
-
-      - name: Release-Assets remote verifizieren
-        if: steps.tagref.outputs.tag != ''
-        env:
-          GH_TOKEN: ${{ github.token }}
-        run: python3 scripts/validate-release-assets.py dist "${{ steps.tagref.outputs.tag }}" --repo "${{ github.repository }}" --timeout-seconds 900 --poll-seconds 10
-
-      - name: Vollständigen Release veröffentlichen
-        if: steps.tagref.outputs.tag != ''
-        env:
-          GH_TOKEN: ${{ github.token }}
-        run: gh release edit "${{ steps.tagref.outputs.tag }}" --draft=false --repo "${{ github.repository }}"
+          python3 scripts/publish-release-assets.py release-staging "$RELEASE_TAG" \
+            --repo "${{ github.repository }}"
 
       - name: Artefakte hochladen (immer)
         if: always()
@@ -432,4 +431,5 @@ jobs:
             dist/*.md
             dist/marketplace.json
             dist/checksums-sha256.txt
+            release-staging/*/checksums-sha256.txt
           retention-days: 30

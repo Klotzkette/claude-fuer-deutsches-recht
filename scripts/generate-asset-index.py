@@ -11,6 +11,7 @@ from __future__ import annotations
 import html
 import json
 from pathlib import Path
+from release_routing import RELEASE_BASE, case_asset_url, companion_cases, companion_tag
 
 from prompt_profiles import enabled, formats
 from urllib.parse import quote
@@ -48,6 +49,36 @@ def plugin_groups(plugins: list[dict]) -> list[tuple[str, list[dict]]]:
     return [(label, groups[label]) for label in labels]
 
 
+def companion_section(version: str) -> list[str]:
+    slugs = companion_cases()
+    if not slugs:
+        return []
+    tag = companion_tag(version)
+    lines = [
+        "## Akten-Begleitrelease",
+        "",
+        f"Die folgenden Akten-ZIPs liegen im versionsgleichen [Begleitrelease `{tag}`]({RELEASE_BASE}/tag/{tag}). "
+        "Die vollständigen Akten-Sammelpakete und `alles-komplettpaket.zip` bleiben im Hauptrelease. "
+        "Bestehende Downloads bleiben unverändert.",
+        "",
+        "| Akte | Originaldateien | Einzel-PDFs |",
+        "| --- | --- | --- |",
+    ]
+    for slug in slugs:
+        lines.append(
+            f"| [{slug}](testakten/{slug}/README.md) | "
+            f"[Akten-ZIP]({case_asset_url(slug, version=version)}) | "
+            f"[Einzel-PDF-ZIP]({case_asset_url(slug, '-einzelpdfs', version=version)}) |"
+        )
+    lines.extend([
+        "",
+        f"[SHA-256-Prüfsummen des Begleitreleases]({RELEASE_BASE}/download/{tag}/checksums-sha256.txt). "
+        "Jede Prüfsummenliste gilt ausschließlich für die Dateien ihres eigenen Releases.",
+        "",
+    ])
+    return lines
+
+
 def main() -> int:
     marketplace = json.loads((REPO / ".claude-plugin" / "marketplace.json").read_text(encoding="utf-8"))
     version = f"v{marketplace['version']}"
@@ -70,8 +101,9 @@ def main() -> int:
         f"| [`alle-testakten.zip`]({RELEASE}/alle-testakten.zip) | Sammelpaket der Akten-ZIPs mit Originalformaten und zugehörigem Gesamt-PDF. Ausdrücklich strukturierte Projektakten behalten ihre Unterordner. |",
         f"| [`alle-testakten-einzelpdfs.zip`]({RELEASE}/alle-testakten-einzelpdfs.zip) | Sammelpaket der Einzel-PDF-ZIPs; jede auswertbare Unterlage liegt als eigene A4-PDF vor. Strukturierte Projektakten behalten ihre Unterordner. |",
         f"| [`alles-komplettpaket.zip`]({RELEASE}/alles-komplettpaket.zip) | Plugins, Skills, Testakten, Marketplace und Übersichten. Werkstatt und Schnellstart bleiben außerhalb der Archive als Markdown-Direktdownloads. |",
-        f"| [`checksums-sha256.txt`]({RELEASE}/checksums-sha256.txt) | SHA-256-Prüfsummen für Release-Assets. |",
+        f"| [`checksums-sha256.txt`]({RELEASE}/checksums-sha256.txt) | SHA-256-Prüfsummen für die Assets des Hauptreleases. |",
         "",
+        *companion_section(marketplace["version"]),
         "## Kanzleianleitungen",
         "| Dokument | Verwendung |",
         "| --- | --- |",

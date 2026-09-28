@@ -244,6 +244,8 @@ def main() -> int:
     parser.add_argument("--repo", required=True)
     parser.add_argument("--workers", type=int, default=4)
     parser.add_argument("--attempts", type=int, default=6)
+    parser.add_argument("--require-existing", action="store_true")
+    parser.add_argument("--protect-published", action="store_true")
     args = parser.parse_args()
     if not 1 <= args.workers <= 8:
         parser.error("--workers muss zwischen 1 und 8 liegen")
@@ -253,13 +255,19 @@ def main() -> int:
     try:
         metadata = expected_asset_metadata(args.dist)
         paths = {path.name: path for path in release_assets(args.dist)}
-        release = ensure_release(args.repo, args.tag)
+        release = view_release(args.repo, args.tag) if args.require_existing else ensure_release(args.repo, args.tag)
+        if release is None:
+            raise RuntimeError(f"Release {args.tag} muss bereits existieren")
         remote = fetch_remote_assets(args.repo, int(release["id"]))
 
         stale_names = sorted(set(remote) - set(metadata))
         changed_names = sorted(
             name for name in set(remote) & set(metadata) if not same_asset(metadata[name], remote[name])
         )
+        if args.protect_published and release.get("isDraft") is not True and (
+            stale_names or changed_names or set(metadata) - set(remote)
+        ):
+            raise RuntimeError(f"Release {args.tag} ist veröffentlicht; abweichende Assets werden nicht verändert")
         for name in stale_names + changed_names:
             delete_asset(args.repo, remote[name])
         pending = sorted((set(metadata) - set(remote)) | set(changed_names))

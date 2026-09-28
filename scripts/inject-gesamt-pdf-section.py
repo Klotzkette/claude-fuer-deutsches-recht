@@ -20,6 +20,7 @@ import re
 import sys
 from pathlib import Path
 
+from release_routing import case_asset_url, companion_cases, rewrite_case_asset_urls
 from testakte_einzelpdf_common import expected_arcnames
 from testakte_disclaimer import NOTICE_MARKDOWN
 from testakte_download_notices import ensure_download_notices, update_download_readmes
@@ -39,14 +40,10 @@ SKIP_DIRS = {
 MARKER_BEGIN = "<!-- BEGIN gesamt-pdf-section (autogen) -->"
 MARKER_END = "<!-- END gesamt-pdf-section (autogen) -->"
 
-RELEASE_BASE = (
-    "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download"
-)
-
 
 def section_block(slug: str, pdf_rel: str | None, has_einzelpdf: bool = False) -> str:
-    zip_url = f"{RELEASE_BASE}/testakte-{slug}.zip"
-    einzel_url = f"{RELEASE_BASE}/testakte-{slug}-einzelpdfs.zip"
+    zip_url = case_asset_url(slug, root=REPO_ROOT)
+    einzel_url = case_asset_url(slug, "-einzelpdfs", root=REPO_ROOT)
     einzel_row = (
         f"\n| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-{slug}-einzelpdfs.zip]({einzel_url}) |"
         if has_einzelpdf
@@ -102,6 +99,15 @@ def section_block(slug: str, pdf_rel: str | None, has_einzelpdf: bool = False) -
     if has_einzelpdf:
         english += " Choose the individual-PDF ZIP to review each document separately."
     english += " These are practice documents, not an installable plugin. ZIP links refer to the latest published release."
+    if slug in companion_cases():
+        trailer = trailer.replace(
+            "Die ZIP-Links laden den zuletzt veröffentlichten Release.",
+            "Die ZIP-Links laden den zur angegebenen Marketplace-Version gehörenden Akten-Begleitrelease.",
+        )
+        english = english.replace(
+            "ZIP links refer to the latest published release.",
+            "ZIP links refer to the case companion release for the stated marketplace version.",
+        )
     return f"""{MARKER_BEGIN}
 ## Akte komplett herunterladen
 
@@ -156,7 +162,7 @@ def inject(readme: Path, slug: str) -> str:
         new_text = ensure_download_notices(
             normalize_marker_spacing(pat.sub(new_section, text, count=1)), case_readme=True
         )
-        new_text = normalize_decimal_headings(new_text)
+        new_text = rewrite_case_asset_urls(normalize_decimal_headings(new_text), root=REPO_ROOT)
         if new_text == text:
             return "unchanged"
         readme.write_text(new_text, encoding="utf-8")
@@ -180,6 +186,7 @@ def inject(readme: Path, slug: str) -> str:
             insert_at = end
         new_text = text[:insert_at] + "\n" + new_section + "\n" + text[insert_at:]
     new_text = normalize_decimal_headings(ensure_download_notices(normalize_marker_spacing(new_text), case_readme=True))
+    new_text = rewrite_case_asset_urls(new_text, root=REPO_ROOT)
     readme.write_text(new_text, encoding="utf-8")
     return "inserted"
 

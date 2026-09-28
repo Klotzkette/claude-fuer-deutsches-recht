@@ -14,6 +14,7 @@ from __future__ import annotations
 import re
 import sys
 from pathlib import Path
+from release_routing import case_asset_url, rewrite_case_asset_urls
 
 from testakte_download_notices import (
     download_group_starts,
@@ -25,7 +26,6 @@ from testakte_download_notices import (
 ROOT = Path(__file__).resolve().parent.parent
 TESTAKTEN = ROOT / "testakten"
 OVERVIEW = TESTAKTEN / "README.md"
-REPO_SLUG = "Klotzkette/" + "cla" + "ude-fuer-deutsches-recht"
 
 BEGIN_MARKER = "<!-- BEGIN gesamt-pdf-section (autogen) -->"
 END_MARKER = "<!-- END gesamt-pdf-section (autogen) -->"
@@ -78,10 +78,14 @@ def read_text(path: Path) -> str:
 
 
 def release_url(slug: str, suffix: str = "") -> str:
-    return (
-        f"https://github.com/{REPO_SLUG}/"
-        f"releases/latest/download/testakte-{slug}{suffix}.zip"
-    )
+    return case_asset_url(slug, suffix, root=ROOT)
+
+
+def validate_release_routes(label: str, text: str, errors: list[str]) -> None:
+    rewritten = rewrite_case_asset_urls(text, root=ROOT)
+    for number, (actual, expected) in enumerate(zip(text.splitlines(), rewritten.splitlines()), start=1):
+        if actual != expected:
+            errors.append(f"{label}:{number}: Akten-ZIP verweist nicht auf den versionsgleichen Begleitrelease")
 
 
 def expected_targets(slug: str) -> tuple[str, str, str]:
@@ -231,6 +235,7 @@ def main() -> int:
     central_readmes = {directory / "README.md" for directory in dirs}
     checked_groups = 0
     for readme in download_readmes(ROOT):
+        validate_release_routes(readme.relative_to(ROOT).as_posix(), read_text(readme), errors)
         if readme in central_readmes:
             continue
         checked_groups += validate_download_notices(

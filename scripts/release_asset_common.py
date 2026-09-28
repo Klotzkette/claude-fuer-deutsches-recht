@@ -7,6 +7,8 @@ import hashlib
 import re
 from pathlib import Path
 
+from release_routing import check_asset_limit
+
 
 SPECIAL_ASSETS = {"marketplace.json", "checksums-sha256.txt"}
 ASSET_SUFFIXES = {".zip", ".md"}
@@ -39,6 +41,19 @@ def sha256_file(path: Path, *, chunk_size: int = 1024 * 1024) -> str:
     return digest.hexdigest()
 
 
+def write_checksums(dist: Path) -> int:
+    assets = release_assets(dist, include_checksums=False)
+    if not assets:
+        raise ValueError(f"No release assets in {dist}")
+    target = dist / "checksums-sha256.txt"
+    temporary = target.with_name(f".{target.name}.tmp")
+    with temporary.open("w", encoding="utf-8", newline="\n") as handle:
+        for path in assets:
+            handle.write(f"{sha256_file(path)}  {path.name}\n")
+    temporary.replace(target)
+    return len(assets)
+
+
 def read_checksums(path: Path) -> dict[str, str]:
     checksums: dict[str, str] = {}
     for line_number, raw_line in enumerate(path.read_text(encoding="utf-8").splitlines(), start=1):
@@ -60,6 +75,7 @@ def expected_asset_metadata(dist: Path) -> dict[str, dict[str, int | str]]:
     checksums = read_checksums(checksum_path)
     assets = release_assets(dist)
     names = {path.name for path in assets}
+    check_asset_limit(names)
     expected_checksum_names = names - {checksum_path.name}
     missing = expected_checksum_names - set(checksums)
     extra = set(checksums) - expected_checksum_names

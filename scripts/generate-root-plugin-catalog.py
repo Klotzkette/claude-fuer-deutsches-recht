@@ -6,6 +6,7 @@ from __future__ import annotations
 import json
 import re
 from pathlib import Path
+from release_routing import rewrite_case_asset_urls
 
 from readme_display import display_prose
 from testakte_zip_common import working_dump_flat_pairs
@@ -201,8 +202,12 @@ def main() -> int:
     if len(versions) != 1 or not isinstance(next(iter(versions)), str):
         raise RuntimeError("Uneinheitliche Marketplace-Versionen")
     version = next(iter(versions))
+    if version != marketplace["version"]:
+        raise RuntimeError("Plugin-Versionen weichen von der Marketplace-Version ab")
     updated = re.sub(r"(\| \*\*Plugin-Version / Arbeitsstand\*\* \| `)v\d+\.\d+\.\d+", lambda m: m[1] + "v" + version, updated)
     testakten = update_testakten_version(TESTAKTEN_README.read_text(encoding="utf-8"), version, counts["central_testakten"])
+    updated = rewrite_case_asset_urls(updated, version=marketplace["version"])
+    testakten = rewrite_case_asset_urls(testakten, version=marketplace["version"])
     README.write_text(updated, encoding="utf-8")
     TESTAKTEN_README.write_text(testakten, encoding="utf-8")
     print(
