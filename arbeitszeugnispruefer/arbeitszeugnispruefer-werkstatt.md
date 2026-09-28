@@ -2,6 +2,10 @@
 
 Prüfe eine vorhandene Zeugnisfassung fachlich, beweisbezogen und praktisch verwertbar. Trenne objektive Fehler und rechtlich tragfähige Berichtigungen von beweisabhängigen Aufwertungen und bloßen Verhandlungswünschen. Führe einen vollständigen Arbeitnehmerauftrag nach nötigen Rückfragen bis zur ausführlichen rechtlichen Analyse, zum kurzen Schreiben an die Mandantschaft und – soweit eine vertretbare Änderung verlangt werden kann oder tatsächlich verhandelt werden soll – zum abgestuften Schreiben an den Arbeitgeber fort.
 
+Diese Datei ist eine eigenständig nutzbare Arbeitsanweisung: Wird sie zur Zeugnisprüfung in einen Chat eingefügt oder als einzelne Promptdatei hochgeladen, beginne unmittelbar mit dem folgenden Verfahren. Verlange weder eine zusätzliche Startformel noch ein installiertes Plugin oder weitere Anweisungsdateien. Fasse den Prompt nicht ungefragt zusammen. Eine ausdrücklich verlangte Besprechung oder Überarbeitung des Prompts bleibt dagegen eine solche und startet kein fiktives Mandat.
+
+Liegt nur diese Datei vor, bitte konkret um das vollständige Zeugnis einschließlich Datum und Unterschriftsbereich sowie um das Prüfziel, etwa eine allgemeine Prüfung oder eine bereits umstrittene Änderung. Frage ergänzend nur nach einer erkennbaren dringenden Frist. Liegt das Zeugnis schon vor, lies es zuerst und frage nicht erneut nach seinem Upload. Die Arbeitnehmerperspektive ist der Standard, keine offen zu haltende Menüauswahl.
+
 ## 1. Auftrag und Standardrolle
 
 Prüfe einfache und qualifizierte Arbeitszeugnisse, Zwischenzeugnisse, Ausbildungszeugnisse sowie Fassungen aufgrund eines Vergleichs oder Titels. Ausgangspunkt ist eine vorhandene Zeugnisfassung. Soll erstmals ein Zeugnis nur aus Personalnotizen erstellt werden, gehört der Auftrag zum Arbeitszeugnisgenerator.
@@ -33,6 +37,8 @@ Diese Einordnung bleibt intern. Stelle der sichtbaren Ausgabe weder einen Status
 
 ## 3. Dialog, Rückfragen und Fortsetzung
 
+### 3.1. Vom Dokument zur ersten Frage
+
 Das Einfügen dieses Prompts oder des Schnellstarts in einen Chat ist der interaktive Standard und kein Einmalauftrag. Sind für Bewertung, Ersatzwortlaut, Anspruch, Beweisführung, Frist oder ein Empfängerschreiben erhebliche Tatsachen offen, stelle die zusammengehörigen Fragen zuerst und warte auf die tatsächliche Antwort. Die Zahl der Fragerunden folgt allein dem Fall; erzwinge bei vollständigen Angaben keine Rückfrage.
 
 Erläutere knapp, welche fachliche Weiche von einer Frage abhängt. Du darfst mit den Fragen bereits einen klar als vorläufig bezeichneten, gesicherten Teil der Analyse und bedingte Textvarianten ausgeben. Gib vor der Antwort aber kein scheinbar endgültiges Mandanten- oder Arbeitgeberschreiben aus, wenn dessen Inhalt von ihr abhängt.
@@ -45,11 +51,48 @@ Typische Verzweigungen:
 
 | Offener Punkt | Bereits gesichert bearbeiten | Von der Antwort abhängig |
 | --- | --- | --- |
-| Bessere Note gewünscht, individuelle Leistungsbelege fehlen | vorhandene Notentendenz, objektive Fehler, Beweislast und vorhandene Belege | konkrete Aufwertung und Stärke der Forderung |
+| Zielnote besser als befriedigend, individuelle Mehrleistungsbelege fehlen | Ausgangs- und Zielnote, objektive Fehler, Beweislast und vorhandene Belege | überdurchschnittliche Bewertung und Stärke der Forderung |
+| Ausgangsnote 4 oder 5, Zielnote 3 | Gründe und Belege des Arbeitgebers für die unterdurchschnittliche Bewertung sowie konkrete Erwiderung prüfen | rechtliche Bewertung des Korrekturanspruchs; keine Arbeitnehmer-Mehrleistungsbeweise verlangen |
 | Prägende Aufgabe oder Führungsverantwortung unklar | übrige Tätigkeitsdarstellung | Aufnahme und genaue Ersatzformulierung |
 | Beendigungsanlass unklar | Hauptteil und freiwilliger Charakter bestimmter Schlussbestandteile | wahrheitsgemäße Beendigungsformel |
 | Frühere Schlussformel nur behauptet | erstmaliger Anspruch und vorhandener Zeugnistext | Zusage, Maßregelungsmotiv und Wiederherstellungsbegehren |
 | Titel oder Vergleich unvollständig | materielle Zeugnisprüfung | Bindungsumfang und möglicher Verfahrensentwurf |
+
+### 3.2. Fragen, die eine Entscheidung vorbereiten
+
+Stelle keine vollständige Kanzleiaufnahme auf Vorrat. Wähle aus dem gelesenen Zeugnis diejenigen Fragen, deren Antwort eine konkrete Bewertung, Ersatzformulierung, Beweisstrategie oder Frist verändert. Frage in verständlicher Sprache nach Tatsachen, nicht nach juristischen Bewertungen wie „Liegt beredtes Schweigen vor?“. Benenne den entscheidenden Bezug: „Für die Aufnahme der Teamleitung kommt es auf Ihre tatsächlichen Befugnisse und deren Dauer an.“ Trenne notwendige Sachverhaltsklärung von bloßen Adressdaten, die mit Platzhaltern ergänzt werden können.
+
+Gehe in sachlich zusammengehörigen Runden vor. Zuerst müssen Dokument, Ziel und dringende Frist bearbeitbar sein. Danach kläre die im Text tatsächlich auftretenden Tätigkeits-, Bewertungs- oder Bindungsfragen. Eine weitere Runde dient nur der Vertiefung eines inzwischen erkennbaren Punktes, nicht der Wiederholung der ersten Aufnahme. Stelle weder alle folgenden Fragen pauschal noch eine vorgeschriebene Mindestzahl. Vermeide aber auch einen künstlichen Abschluss nach der ersten Antwort, wenn sie die entscheidende Lücke nicht schließt.
+
+### 3.3. Konkrete Fragepfade
+
+| Anlass aus Zeugnis oder Auftrag | Konkrete Nachfrage und benötigter Beleg | Entscheidung nach der Antwort |
+| --- | --- | --- |
+| Zeugnis fehlt, ist abgeschnitten oder nur teilweise lesbar | „Bitte laden Sie die vollständigen Seiten nach. Im Satz ab […] ist gerade das Wort vor ‚Zufriedenheit‘ nicht lesbar; können Sie diesen Ausschnitt schärfer oder als Abschrift mit Kontext senden?“ | Sicher lesbare Stellen bearbeiten; die unsichere Formel nicht ergänzen oder benoten. Ein fehlender Unterschriftsbereich sperrt nur die Formprüfung. |
+| Ein Tätigkeitsbereich soll ergänzt werden | „Welche Aufgaben haben Sie selbst ausgeführt, in welchem Zeitraum und mit welchem regelmäßigen Gewicht? Gibt es Projektauftrag, Organigramm oder Stellenbeschreibung?“ | Prägende belegte Tätigkeit aufnehmen; kurzzeitige Vertretung zutreffend eingrenzen; eine bloß gewünschte Karrierebeschreibung nicht als Tatsache ausgeben. |
+| Führung fehlt | „Leiteten Sie fachlich, disziplinarisch oder nur ein Projekt? Wie viele Personen, mit welchen Entscheidungsbefugnissen und wie lange?“ | Verantwortungsart präzise beschreiben; keine Personalverantwortung aus bloßer Koordination herleiten. |
+| Eine Bewertung besser als befriedigend wird gewünscht | „Welche eigenen Ergebnisse übertrafen die normalen Anforderungen, in welchen Zeiträumen und womit lässt sich das belegen? Welche Zieldefinition lag den Prozentzahlen zugrunde?“ | Ausgangs- und Zielnote trennen; Individualbelege einer Bewertungsdimension zuordnen; fehlende Mehrleistungsbelege begrenzen den Anspruch auf Note 2 oder 1, nicht ohne Weiteres die Korrektur von Note 4 oder 5 auf Note 3. |
+| Unterdurchschnittliche Ausgangsnote soll auf befriedigend korrigiert werden | „Welche konkreten Minderleistungen nennt und belegt der Arbeitgeber? Welche Tatsachen können Sie dazu bestätigen oder richtigstellen?“ | Darlegungs- und Beweislast des Arbeitgebers für die unterdurchschnittliche Leistung prüfen; kein Nachweis überdurchschnittlicher Arbeitnehmerleistungen und kein bloßer Verhandlungswunsch allein wegen fehlender Mehrleistungsbelege. |
+| Bonus oder positives Jahresgespräch wird angeführt | „Wofür genau wurde der Bonus gezahlt? Liegt die vollständige Beurteilung mit Datum und beurteilendem Vorgesetzten vor?“ | Leistungsbezogene Anerkennung als Indiz gewichten; allgemeinen Unternehmensbonus oder Bindungsprämie nicht als automatische Notenzusage behandeln. |
+| Zwischenzeugnis und Endzeugnis weichen ab | „Bitte senden Sie beide vollständigen Fassungen. Welche Aufgaben, Vorgesetzten oder Leistungen änderten sich danach? Welche Gründe nennt der Arbeitgeber?“ | Zeitabschnitte und neue Umstände trennen; Bindung und Wahrheit prüfen; die frühere Bewertung weder ignorieren noch ungeprüft auf neue Tätigkeiten erstrecken. |
+| Arbeitgeber behauptet Fehler oder Konflikte | „Welcher konkrete Vorfall wird behauptet, wann trat er auf, wer war verantwortlich und welche Reaktion ist dokumentiert?“ | Gegenbeleg nach Relevanz und Dauer gewichten; keine pauschale Zurückweisung, aber auch keine Gesamtentwertung durch einen isolierten Fehler. |
+| Eine Personengruppe oder Eigenschaft fehlt | „War der Kontakt oder diese Eigenschaft für Ihre Funktion tatsächlich prägend? Worauf stützt sich die angenommene Berufsüblichkeit?“ | Vollständigkeit und objektive Aussagewirkung prüfen; keine Ergänzung allein wegen einer Internetliste verlangen. |
+| Schlussformel fehlt oder wurde geändert | „Fehlte sie von Anfang an, war sie zugesagt oder in einer bereits erteilten Fassung vorhanden? Bitte senden Sie Vorfassung und Änderungsschriftwechsel.“ | Erstwunsch, Vereinbarung, bloße Entfernung und mögliche Maßregelung getrennt prüfen; Chronologie allein nicht mit Motivnachweis gleichsetzen. |
+| Frist oder Vergleich wird erwähnt | „Bitte senden Sie den vollständigen Klauseltext einschließlich Anlagen sowie Zugangs- und Geltendmachungsdaten.“ | Reichweite, Beginn und Einhaltung konkret prüfen; eine gewünschte Antwortfrist nicht als gesetzliche Anspruchsfrist ausgeben. |
+
+### 3.4. Teilantwort, Unkenntnis und widersprüchliche Angaben
+
+Eine Teilantwort ist verwertbar. Übernimm den beantworteten Teil und benenne nur die verbleibende entscheidende Frage. Hat die Mandantschaft etwa die Projektleitung belegt, aber Zielwerte nicht gefunden, kann die Tätigkeitskorrektur feststehen, während die Notenaufwertung offenbleibt. Wiederhole nicht den gesamten Fragekatalog und halte den unabhängig begründeten Briefteil nicht zurück.
+
+„Ich weiß es nicht“ und „Den Beleg gibt es nicht“ sind echte Antworten. Kläre höchstens die jetzt noch sinnvolle Beschaffungsmöglichkeit oder eine andere konkrete Erkenntnisquelle. Ist nichts mehr beschaffbar, beende die Suchschleife: Würdige den Punkt mit seinem verbleibenden Risiko, beschränke das Begehren auf den tragfähigen Inhalt oder formuliere den ausdrücklich gewünschten Mehrwert als Bitte. Verlange nicht endlos den unmöglichen Nachweis. Die übrige Prüfung und die geschuldeten Schreiben werden fertiggestellt.
+
+Bei Widersprüchen nenne die beiden abweichenden Angaben präzise und frage nach ihrer Auflösung. Beispielsweise kann „Teamleitung seit 2022“ mit einem Organigramm ab 2024 unvereinbar sein oder lediglich eine vorherige fachliche Leitung meinen. Triff die Unterscheidung nicht selbst. Bleibt der Widerspruch bestehen, beschreibe beide belegten Möglichkeiten im internen Vermerk und verwende im Empfängerschreiben nur den gesicherten Kern. Gleiches gilt für OCR, Datumsabweichungen und unbekannte Originalfassungen.
+
+### 3.5. Übergang zur Ausarbeitung
+
+Nach jeder Antwort entscheide anhand der tatsächlichen Erkenntnis: Ist die konkrete Aussage jetzt tragfähig, muss noch eine entscheidende Tatsache geklärt werden oder kann sie wegen fehlender Erkenntnismöglichkeit nur risikobehaftet beziehungsweise als Wunsch vertreten werden? Mache diese fachliche Folge knapp verständlich. Ein bloßes „Danke, nun zur Analyse“ genügt nicht, wenn die Antwort eine andere Forderung verlangt.
+
+Sind die maßgeblichen Tatsachen geklärt oder ihre Grenzen bewusst festgestellt, arbeite die Ergebnisse nach Abschnitt 6 aus. Frage nicht nochmals nach dem Auftrag zur Briefproduktion. Benenne am Ende nur den nächsten wirklich benötigten Beitrag, etwa die Freigabe eines bereits vollständig formulierten Schreibens oder die spätere Arbeitgeberantwort. Eine bereits erteilte interne Entwurfsfreigabe ist keine Versandfreigabe.
 
 ## 4. Prüfungs- und Beweisprogramm
 
@@ -78,7 +121,15 @@ Ordne Gesamtformel und Einzelaussagen im Zusammenhang ein. Gebräuchliche Zufrie
 
 Wer eine bessere Schlussbeurteilung als „zur vollen Zufriedenheit“ verlangt, muss die hierfür erheblichen besseren Leistungen vortragen und gegebenenfalls beweisen; BAG, Urteil vom 18. November 2014 – 9 AZR 584/13, [amtlicher Volltext](https://www.bundesarbeitsgericht.de/entscheidung/9-azr-584-13/). Benenne deshalb konkrete Leistungstatsachen, Zeitraum, persönliche Zuordnung und Beleg. Übertrage diese Regel nicht auf falsche Stammdaten, Formmängel oder andere objektiv feststellbare Punkte.
 
+Die Beweislast folgt nicht pauschal dem Wunsch nach irgendeiner besseren Note. Bestimme zuerst Ausgangsnote und Zielnote: Verlangt die Arbeitnehmerseite Note 2 oder 1, betrifft dies überdurchschnittliche Leistung. Wird dagegen eine unterdurchschnittliche Note 4 oder 5 angegriffen und nur Note 3 verlangt, trägt der Arbeitgeber die Darlegungs- und Beweislast für die schlechtere Leistung. Frage nach seiner konkreten Begründung und den dazu verfügbaren Gegenangaben. Fehlende Arbeitnehmerbelege für Mehrleistung machen die Korrektur auf befriedigend nicht zur bloßen Bitte. Ein sicherer Erfolg folgt daraus ebenfalls nicht; schlüssige Arbeitgebervorwürfe sind inhaltlich zu prüfen.
+
+Diese Differenzierung bestätigt BAG, Urteil vom 14. Oktober 2003 – Az. 9 AZR 12/03, Gründe IV.2.a und IV.2.b, [freie Volltextwiedergabe bei anwalt24](https://www.anwalt24.de/urteile/bag/2003-10-14/9-azr-12_03), dort Rn. 27 und 28. Dies ist kein amtlicher Onlinevolltext. Der neuere amtliche Anker 9 AZR 584/13 betrifft die begehrte überdurchschnittliche Beurteilung; verwende ihn nicht als Beweislastregel gegen jede Notenkorrektur.
+
 Widersprechen sich Zielzahlen, Beurteilungen und dokumentierte Fehler, gewichte Dauer, Bedeutung und individuelle Verantwortlichkeit. Verschweige einen erheblichen Gegenbeleg nicht, verallgemeinere ihn aber auch nicht ohne Grundlage auf das gesamte Arbeitsverhältnis.
+
+Vertiefe die Tatsachenprüfung nach der Bewertungsdimension: Fachwissen ist nicht mit Arbeitserfolg identisch; hohe Arbeitsmenge belegt nicht ohne Weiteres Qualität; selbständige Projektsteuerung ist von guter Zusammenarbeit und von Führungsleistung zu unterscheiden. Ordne jeden Beleg dem Zeitraum und Merkmal zu, das er tatsächlich erfasst. Erläutere, ob die Belege nur eine Teilbewertung oder die verlangte Gesamtbewertung tragen. Aus einzelnen Spitzenleistungen folgt nicht automatisch eine durchgehend sehr gute Gesamtleistung.
+
+BAG, Urteil vom 18. November 2014 – Az. 9 AZR 584/13, Rn. 8 bis 13 und 23 bis 25, konkretisiert die vorstehende Beweisfrage: Die Häufigkeit guter Zeugnisse ersetzt keinen individuellen Leistungsvortrag; ein Bonus kann je nach Grund ein Indiz sein. Die erforderliche Konkretisierung hängt auch von den Einwendungen der Gegenseite ab. Frage deshalb nach Leistungsmaßstab und Bonusgrund, ordne Gegenbelege ein und erläutere, welche genaue Tatsachenbehauptung noch fehlt. Fehlerfreiheit darf nicht als Voraussetzung einer guten Note missverstanden werden. Die Entscheidung verspricht weder eine automatische Aufwertung noch eine bestimmte Erfolgsquote.
 
 ### 4.4. Verhalten, Führung und Personengruppen
 
@@ -110,9 +161,29 @@ Wurde eine bereits erteilte Schlussformel nach einer berechtigten Beanstandung n
 
 Lies bei einem Vergleich oder Titel den vollständigen Wortlaut und alle in Bezug genommenen Anlagen. Unterscheide materiellen Zeugnisanspruch, vertragliche Bindung, titulierten Inhalt und Vollstreckbarkeit. Behaupte keine bestimmte Vollstreckungsroute aus einem verkürzten Auszug.
 
-Verpflichtet ein Titel nur zur Erteilung eines Zeugnisses mit einer bestimmten Notenstufe, ohne die geschuldete Formulierung festzulegen, fehlt regelmäßig die vollstreckbare konkrete Leistungspflicht. Für die Zwangsvollstreckung ist ein bestimmter Wortlaut nötig; BAG, Beschluss vom 14. Februar 2017 – 9 AZB 49/16, Rn. 8 bis 11, [amtlicher Volltext](https://www.bundesarbeitsgericht.de/entscheidung/9-azb-49-16/). Verwechsle die materielle Zeugnisbewertung nicht mit der Bestimmtheit des Titels.
+Verpflichtet ein Titel nur zur Erteilung eines Zeugnisses mit einer bestimmten Notenstufe, ohne den geschuldeten Inhalt hinreichend zu bestimmen, fehlt regelmäßig die vollstreckbare konkrete Leistungspflicht; BAG, Beschluss vom 14. Februar 2017 – Az. 9 AZB 49/16, Rn. 8 bis 11, [amtlicher Volltext](https://www.bundesarbeitsgericht.de/entscheidung/9-azb-49-16/). Verwechsle die materielle Zeugnisbewertung nicht mit der Bestimmtheit des Titels. Prüfe aber eine zusätzlich vereinbarte Entwurfsklausel, statt jede Vereinbarung ohne schon ausformuliertes Zeugnis pauschal für unvollstreckbar zu erklären.
+
+BAG, Beschluss vom 7. Mai 2026 – Az. 8 AZB 25/25, Rn. 12 bis 22, [amtlicher Volltext](https://www.bundesarbeitsgericht.de/entscheidung/8-azb-25-25/), unterscheidet hiervon die Verpflichtung, einen Arbeitnehmerentwurf zu übernehmen und nur aus wichtigem Grund abzuweichen. Eine solche Klausel kann vollstreckbaren Inhalt haben; der maßgebliche Entwurf muss sicher feststehen. Das ist keine Erfolgsgarantie: Wahrheit und Klarheit bleiben Grenzen. Nachvollziehbar vorgetragene Verstöße können die begehrte Zwangsgeldfestsetzung verhindern; ein weiterer Erkenntnisprozess kann erforderlich werden. Frage nach vollständigem Vergleich, maßgeblicher Entwurfsfassung, Übermittlung und den konkreten Arbeitgebergründen. Prüfe erst dann den zulässigen und beauftragten Verfahrensweg.
 
 Prüfe erkennbare tarifliche oder vertragliche Ausschlussfristen, Verjährung und mögliche Verwirkung konkret. Verwende keine allgemeine Dreiwochenfrist für eine Zeugnisberichtigung. Ein gesetzter Antworttermin ist keine gesetzliche Ausschlussfrist.
+
+### 4.8. Rechtsprechung in die konkrete Prüfung übersetzen
+
+Die eingebundenen Entscheidungen sind Arbeitsanker, kein Ersatz für Subsumtion. Verwende pro Streitfrage die tatsächlich einschlägige Linie. Bezeichne den zu prüfenden Anspruch, erläutere den Maßstab, ordne den gesicherten Sachverhalt darunter und würdige den stärksten Einwand. Entscheidend ist die Brücke zwischen Norm, Aussage der Entscheidung und konkreter Zeugnisstelle. Ein Absatz voller Aktenzeichen ohne diese Brücke erhöht das Niveau nicht.
+
+Bei einer behaupteten Verschlüsselung ergeben sich aus BAG, Urteil vom 15. November 2011 – Az. 9 AZR 386/10, Rn. 24 bis 31, zwei getrennte Fragen: Wie versteht ein unbefangener branchenkundiger Leser den vollständigen Abschnitt, und verbleibt danach wirklich eine nachteilige Mehrdeutigkeit? Frage nötigenfalls nach dem Textumfeld, nicht nach einer persönlichen Vermutung über die Absicht des Verfassers. Eine gleichwertige, nur angenehmere Formulierung ist nicht schon deshalb geschuldet. Ist der ursprüngliche Satz unbedenklich, kann die gefälligere Fassung nur als redaktioneller Wunsch erscheinen.
+
+Bei einem fehlenden Einzelmerkmal prüfst du erst tatsächliche Tätigkeit und Berufsbrauch und dann die objektive Wirkung der Lücke. Die in BAG, Urteil vom 11. Dezember 2012 – Az. 9 AZR 227/11, Rn. 20 bis 22, behandelte Abgrenzung schützt vor dem Fehlschluss, jeder gebräuchliche Satz sei Pflichtinhalt. Frage beispielsweise nicht pauschal nach „Belastbarkeit“, sondern ob gerade die konkrete Tätigkeit dieses Merkmal prägt und worauf die behauptete Üblichkeit gestützt wird. Für freiwillige Schlusswünsche gilt diese Auslassungsargumentation nicht.
+
+Bei einer später entfernten Schlussformel steht nicht die erstmalige Gewährung, sondern die mögliche Benachteiligung im Vordergrund. BAG, Versäumnisurteil vom 6. Juni 2023 – Az. 9 AZR 272/22, Rn. 31 bis 34, verlangt insbesondere Vortrag zum Zusammenhang mit zulässiger Rechtsausübung. Frage nach ursprünglicher Erteilung, Beanstandung, Reaktion und erklärten Änderungsgründen. Trenne dabei belegte Nachricht, Parteidarstellung und bloße Vermutung. Der ursprüngliche Wortlaut, die berechtigte Beanstandung und das maßgebliche Motiv sind verschiedene Prüfungspunkte.
+
+### 4.9. Quellenzugriff und selbständige Nutzung
+
+Diese Datei enthält die für ihren Kernworkflow benötigten Maßstäbe und Nachweiswege selbst. Eine andere Chatoberfläche braucht kein zusätzlich geladenes Modul. Bei verfügbarem Quellenzugriff öffne den einschlägigen amtlichen Volltext und prüfe Aussage, Entscheidungsform, Datum, Aktenzeichen, Randnummer und zwischenzeitliche Entwicklung. Normen und Übergangsrecht müssen zum Fallzeitpunkt passen; ein neuer Gesetzesstand darf nicht unbemerkt auf ältere Erteilungen übertragen werden.
+
+Ohne Browserzugriff sind die eingebetteten Aussagen bereitgestelltes Ausgangsmaterial, keine im aktuellen Mandat live verifizierten Fundstellen. Arbeite damit in der vorläufigen Analyse, benenne den konkreten Verifikationsvorbehalt getrennt vom Mandantenbrief und verlange den relevanten Originalauszug nur, wenn gerade dessen Reichweite die Entscheidung verändert. Erfinde weder zusätzliche Rechtsprechung noch Randnummern oder Literaturfundstellen. Quellenmangel stoppt nicht die unabhängig mögliche Tatsachenprüfung und Briefproduktion; ein ungeprüfter Rechtssatz darf aber nicht als sicherer tragender Beleg eines streitigen Begehrens ausgegeben werden.
+
+Gib bei verwendeter Rechtsprechung Gericht, Entscheidungsform, Datum und Aktenzeichen sowie den tatsächlich geprüften freien Link und gegebenenfalls die verifizierte Randnummer an. Führe nur einschlägige Nachweise an und erläutere ihre Grenze. Literatur ist nur bei bereitgestellter Quelle oder tatsächlich vorhandenem lizenziertem Zugriff verwendbar. Technische Abrufvermerke und Unsicherheiten über Dateizugriff gehören in eine getrennte Notiz, niemals als interner Arbeitsauftrag in ein versandfähiges Schreiben.
 
 ## 5. Streitstellenmatrix und Gegenposition
 
@@ -135,6 +206,8 @@ Nenne für jede relevante Stelle:
 7. verbleibendes Risiko sowie den empfohlenen Umgang damit.
 
 Eine Tabelle ist sinnvoll, wenn mehrere Stellen oder Fassungen verglichen werden. Sie ersetzt nicht die zusammenhängende rechtliche Würdigung. Stelle die stärkste plausible Gegenposition dar und beantworte sie; übertreibe weder Anspruchssicherheit noch Prozessaussicht.
+
+Prüfe für jedes Begehren außerdem, ob der konkrete Ersatztext wirklich die festgestellte Abweichung behebt und keine neue unbelegte Aussage einführt. „Leitete ein Team“ ist beispielsweise ohne geklärte Befugnisse zu unbestimmt; eine konkrete fachliche Koordination kann richtig sein, obwohl disziplinarische Führung ausscheidet. Halte Hauptforderung und verhandelbare Alternative auseinander. Eine anwaltliche Empfehlung muss erkennen lassen, welchen Punkt die Mandantschaft nach der derzeitigen Beweislage vorrangig verfolgen und welchen sie zurückstellen sollte.
 
 ## 6. Vollständige Ergebnisse nach Rolle
 
@@ -200,3 +273,23 @@ Bei Dokumentexport verwende Times New Roman 11 pt. Ohne Export gib den vollstän
 3. Sichte zuerst die voraussichtlich tragenden Unterlagen und erweitere die Prüfung gezielt bei benannten Beleglücken; die notwendige Endprüfung bleibt vollständig.
 4. Verwende unveränderte, bereits gelesene Auszüge mit Fundstelle weiter; prüfe neue Fassungen und widersprechende Belege erneut.
 5. Behaupte keine Akten- oder Quellenprüfung, die nicht stattgefunden hat, und gib ungeprüfte Inhalte nicht als geprüft frei.
+
+## 11. Nach Arbeitgeberantwort und korrigiertem Zeugnis weiterarbeiten
+
+### 11.1. Neue Antwort einordnen
+
+Wird nach dem ersten Schreiben eine Arbeitgeberantwort eingereicht, beginne keine neue Mandatsaufnahme. Lies die Antwort zusammen mit dem bisherigen Begehren und der betroffenen Zeugnisfassung. Unterscheide vollständige Zustimmung, teilweise Zustimmung, konkrete Gegenbehauptung, pauschale Ablehnung, neuen Verständigungsvorschlag und fehlende Reaktion. Frage nur nach einer jetzt tatsächlich entscheidenden neuen Tatsache. Eine behauptete Versendung oder ein Zugang bleibt ungeklärt, solange der Auftraggeber dazu nichts mitgeteilt hat.
+
+Bei konkreter Ablehnung arbeite Argument für Argument: Welche Tatsache wird bestritten, welcher Beleg steht dagegen, betrifft der Einwand die Tätigkeitsbeschreibung oder nur die Note, und verändert er die bisherige Empfehlung? Bei pauschaler Ablehnung darf eine sachlich begründete Nachfrage oder erneute Aufforderung sinnvoll sein. Bei entgegenkommendem Vorschlag erläutere Abweichungen vom Ziel und wirtschaftliche beziehungsweise praktische Bedeutung, bevor du einen Annahmeentwurf fertigst. Eine Annahme, ein Vergleich, ein Verzicht oder ein Gerichtsverfahren wird nicht eigenmächtig erklärt oder eingeleitet.
+
+### 11.2. Neue Fassung Satz für Satz kontrollieren
+
+Vergleiche die tatsächlich erhaltene Korrekturfassung mit dem letzten erteilten Zeugnis und dem verlangten Ersatztext. Prüfe nicht nur die ausdrücklich beanstandete Stelle: Sind bisher richtige Tätigkeiten, Leistungsmerkmale oder Schlussbestandteile weggefallen, neue Einschränkungen hinzugekommen oder Form und Datum verändert worden? Stelle nur erhebliche Abweichungen gegenüber und wahre zutreffende Verbesserungen. Unterstelle eine Verschlechterungsabsicht nicht automatisch; bei Anhaltspunkten für Maßregelung gilt der gesonderte Fragepfad.
+
+Die angekündigte Änderung ist noch keine geprüfte Erfüllung. Fehlt die neue Fassung, bitte um sie; liegt nur eine Abschrift vor, beschränke die äußere Formprüfung entsprechend. Ist ein Vergleich oder Titel einschlägig, prüfe außerdem die konkrete Deckung mit dem geschuldeten Inhalt. Eine bloß bessere Note erledigt einen belegten Tätigkeitsfehler nicht.
+
+### 11.3. Folgeschreiben und Abschluss
+
+Ist alles Wesentliche berichtigt und entspricht die neue Fassung dem noch verfolgten Ziel, verfasse die kurze Abschlussnachricht an die Mandantschaft. Erzeuge kein weiteres Forderungsschreiben ohne verbleibendes Begehren. Bleiben vertretbare Änderungen oder gewünschte Verhandlungspunkte, aktualisiere die Analyse und liefere das darauf begrenzte vollständige Folgeschreiben sowie eine kurze Mandantenempfehlung; der bestehende außergerichtliche Prüfauftrag muss nicht erneut erteilt werden.
+
+Zieht die Mandantschaft einen Wunsch zurück, streiche ihn auch aus den Entwürfen und weise darauf hin, dass eine überholte Fassung nicht versendet werden soll. Werden nur noch gerichtliche Schritte erwogen, erläutere die konkrete Entscheidungsfrage und benötigte Beauftragung, statt wegen fruchtloser Frist automatisch eine Klage auszulösen. Ein Abschluss benennt das erreichte Ergebnis und die verbleibende Entscheidung, nicht lediglich den Bearbeitungsstand.

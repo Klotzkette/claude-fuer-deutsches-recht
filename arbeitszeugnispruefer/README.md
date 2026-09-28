@@ -37,7 +37,7 @@ Direktnavigation: [30-Sekunden-Start](#in-30-sekunden-starten) · [Startseite](.
 
 Startsatz für Arbeitszeugnisprüfer:
 
-> Lies die für den Auftrag tragenden Unterlagen; ergänze die Lektüre gezielt bei offenen Belegfragen. Stelle der sichtbaren Ausgabe weder einen Statuskopf noch einen Datei-, Metadaten-, Rollen-, Aktenstands- oder Bearbeitungsblock voran. Beginne unmittelbar mit folgendem Arbeitsschritt: die vollständige Arbeitnehmerprüfung mit ausführlicher Analyse, konkreten Ersatzsätzen, kurzem Mandantenschreiben und – bei tragfähiger Änderung oder wirklichem Verhandlungswunsch – abgestuftem Arbeitgeberschreiben. Fehlt ein klarer Gegenhinweis, arbeite auf Arbeitnehmerseite. Ein in den Chat kopierter Prompt wird interaktiv bearbeitet und ist kein automatischer Einmalauftrag. Bei vollständigen Angaben beginne unmittelbar mit den Ergebnissen. Fehlt eine entscheidungserhebliche Tatsache, beginne mit der Rückfrage. Stelle nur entscheidungserhebliche Rückfragen zusammengehörig, nenne ihre Folgen und warte auf die tatsächliche Antwort; gesicherte Teile dürfen vorläufig weiterbearbeitet werden. Setze danach am bestehenden Stand fort und liefere die vollständige Analyse sowie die angezeigten Schreiben ohne neuen Auftrag. Weitere Fragen sind nur bei einem neuen entscheidenden Widerspruch nötig. Bei ausdrücklich nichtinteraktiver Bearbeitung verwende Platzhalter oder bedingte Varianten, nie erfundene Antworten. Ist keine Änderung vertretbar und keine Verhandlung gewünscht, erläutere dies im Mandantenschreiben und erzeuge kein künstliches Arbeitgeberschreiben.
+> Lies die für den Auftrag tragenden Unterlagen; ergänze die Lektüre gezielt bei offenen Belegfragen. Stelle der sichtbaren Ausgabe weder einen Statuskopf noch einen Datei-, Metadaten-, Rollen-, Aktenstands- oder Bearbeitungsblock voran. Beginne unmittelbar mit folgendem Arbeitsschritt: die vollständige Arbeitnehmerprüfung mit ausführlicher Analyse, konkreten Ersatzsätzen, kurzem Mandantenschreiben und – bei tragfähiger Änderung oder wirklichem Verhandlungswunsch – abgestuftem Arbeitgeberschreiben. Fehlt ein klarer Gegenhinweis, arbeite auf Arbeitnehmerseite. Ein in den Chat kopierter Prompt wird interaktiv bearbeitet und ist kein automatischer Einmalauftrag. Auch eine einzelne hochgeladene Promptdatei startet ohne Plugin oder zusätzliche Startformel; fasse sie nicht ungefragt zusammen. Fehlt das Zeugnis, bitte um die vollständige Fassung, das Prüfziel und eine erkennbare dringende Frist. Bei vollständigen Angaben beginne unmittelbar mit den Ergebnissen. Fehlt eine entscheidungserhebliche Tatsache, beginne mit der Rückfrage. Stelle nur entscheidungserhebliche Rückfragen zusammengehörig, nenne ihre Folgen und warte auf die tatsächliche Antwort; gesicherte Teile dürfen vorläufig weiterbearbeitet werden. Setze danach am bestehenden Stand fort und liefere die vollständige Analyse sowie die angezeigten Schreiben ohne neuen Auftrag. Übernimm Teilantworten und kläre nur entscheidende Restlücken oder Widersprüche. Ist ein Beleg endgültig nicht beschaffbar, begrenze das Begehren und beende die Suchschleife. Neue Arbeitgeberantworten und Korrekturfassungen führen zur gezielten Nachprüfung und zu den nötigen Folgeschreiben. Bei ausdrücklich nichtinteraktiver Bearbeitung verwende Platzhalter oder bedingte Varianten, nie erfundene Antworten. Ist keine Änderung vertretbar und keine Verhandlung gewünscht, erläutere dies im Mandantenschreiben und erzeuge kein künstliches Arbeitgeberschreiben.
 
 Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestellte Tatsachen, Berechnungen und Quellen nicht erneut abfragen oder ohne Anlass neu aufbauen.
 
@@ -72,23 +72,25 @@ Wenn du das hier öffnest, willst du ein bereits vorliegendes deutsches Arbeitsz
 ## Wenn du das brauchst
 
 - **Arbeitnehmerinnen und Arbeitnehmer** wollen eine verständliche Prüfung, konkrete Ersatzsätze und eine realistische Empfehlung.
-- **Kanzleien** benötigen einen anwaltlichen Prüfvermerk, eine genaue Änderungsfassung und gegebenenfalls einen vollständigen Entwurf zur Geltendmachung.
+- **Kanzleien** erhalten einen ausführlichen Prüfvermerk, genaue Ersatzformulierungen, einen kurzen Mandantenbrief und bei tragfähiger Änderung oder tatsächlichem Verhandlungswunsch das passende Arbeitgeberanschreiben.
 - **Arbeitgeber und Personalabteilungen** wollen vor Erteilung oder Berichtigung eine wahrheitsgemäße, klare und widerspruchsfreie Gesamtfassung.
 - **Beratungsstellen** benötigen eine sachliche Einordnung, ohne eine nicht beauftragte Parteimaßnahme zu erzeugen.
 
 ## Was du am Ende in der Hand hast
 
-Je nach Auftrag erhältst du einen vollständigen Prüfbericht, eine zusammenhängende bereinigte Zeugnisfassung, eine versandfertige Berichtigungsaufforderung oder einen ausformulierten Klage-, Vergleichs- oder Vollstreckungsentwurf. Der Prüfer unterscheidet belegbare Tatsachenfehler, rechtlich begründete Mängel, beweisabhängige Bewertungsfragen und bloße Gestaltungswünsche.
+Der allgemeine Arbeitnehmer-Prüfauftrag umfasst die ausführliche Analyse, genaue Ersatzsätze, den kurzen verständlichen Mandantenbrief und das fachlich angezeigte Arbeitgeberanschreiben. Beide Schreiben werden nach Klärung der erheblichen Tatsachen ohne weiteren Entwurfsauftrag fertiggestellt. Nur ohne tragfähigen Änderungspunkt und ohne Verhandlungswunsch entfällt das Arbeitgeberanschreiben. Klage, Vergleich und Vollstreckung bleiben ausdrücklich beauftragte Folgearbeit.
 
 ## Der Weg dorthin
 
-Unterlagen lesen → Rolle und Enddokument bestimmen → Form und Stammdaten prüfen → Tätigkeiten abgleichen → Leistung und Verhalten im Gesamtzusammenhang würdigen → Klarheit, Widersprüche, Beendigung und Schluss prüfen → genaue Ersatzfassungen formulieren → bestelltes Dokument fertigstellen.
+Zeugnis lesen → konkrete Fragen und Belege klären → tatsächliche Antworten auswerten → erforderlichenfalls gezielt nachfragen → ausführliche Prüfung und beide passenden Schreiben erstellen → Arbeitgeberantwort und vollständige neue Zeugnisfassung kontrollieren → Restpunkte weiterbearbeiten oder abschließen.
 
 ## Rückfragen und Verzweigungen
 
 Gefragt wird nur, wenn die Antwort Bewertung, Ersatzwortlaut, Frist, Beweisführung oder Enddokument verändert. Die Rückfrage ist stets ein Zwischenschritt: Der gesicherte Teil wird schon ausgearbeitet, die möglichen Antworten werden als Varianten abgebildet und nur der abhängige Teil bleibt vorläufig. Nach der Antwort geht es am bestehenden Bearbeitungsstand weiter.
 
-Ein allgemeiner Prüfauftrag endet mit einem vollständigen Bericht und genauen Ersatzsätzen. Wer eine Neufassung, ein Anschreiben oder einen gerichtlichen Entwurf bestellt, erhält dieses Dokument vollständig; es wird nicht lediglich als spätere Option angeboten. Ein Schreiben oder eine Klage entsteht umgekehrt nicht automatisch aus einem festgestellten Mangel.
+Teilantworten, unbekannte Informationen und widersprüchliche Belege erhalten eigene Folgeschritte. Ist ein Beleg nicht beschaffbar, wird der Fall nach der richtigen Beweislast eingeordnet und nicht endlos weiterbefragt. Bei ausreichenden Angaben folgen unmittelbar die Analyse und die geschuldeten Schreiben. Ein bloßer Dateianhang startet denselben Dialog ohne zusätzlichen Starter; Versand und gerichtliche Schritte bleiben freigabepflichtig.
+
+Die unabhängigen [Dialogproben](../docs/arbeitszeugnis-dialogpruefung.md) dokumentieren tatsächlich erzeugte Antworten und ihre Grenzen. Sie sind keine pauschale Funktionsgarantie für fremde Chatbots.
 
 ## Fachliche Leitlinien
 

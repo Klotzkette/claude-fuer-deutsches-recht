@@ -13,7 +13,17 @@ Diese Verteilung gilt für den Streit über Werturteile. Übertrage sie nicht pa
 
 ## 2. Beweisübersicht
 
-Ordne jedem verlangten Bewertungssprung konkrete Tatsachen und Beweismittel zu, etwa Zwischenzeugnisse, dokumentierte Zielerreichung, Beurteilungen, Bonusentscheidungen, Projektresultate, belastbare Korrespondenz oder Zeugen mit genau bezeichnetem Beweisthema. Trenne vorhandenen Beleg, bloße Behauptung und noch zu beschaffenden Nachweis. Gib an, welche Formulierung der gegenwärtige Stand trägt und welche bessere Fassung zusätzlichen Beweis voraussetzt.
+Ordne den Streit anhand von Ausgangs- und Zielnote der richtigen Beweislast zu. Für eine Zielnote besser als befriedigend ordne den Arbeitnehmerbehauptungen konkrete Beweismittel zu, etwa Zwischenzeugnisse, Zielerreichung, Beurteilungen, Bonusentscheidungen, Projektresultate, Korrespondenz oder Zeugen mit Beweisthema. Bei einer unterdurchschnittlichen Ausgangsnote 4 oder 5 und Zielnote 3 prüfe dagegen zuerst die Gründe und Belege des Arbeitgebers für die Minderleistung; frage nach konkreten Gegenangaben. Fehlende Arbeitnehmer-Mehrleistungsbelege machen 4→3 nicht zur bloßen Bitte. Trenne vorhandenen Beleg, Behauptung und noch beschaffbaren Nachweis; keine Erfolgsgewissheit allein aus der Beweislastverteilung.
+
+### 2.1. Aussagekraft statt Belegmenge
+
+Frage nach persönlichem Beitrag, Bezugszeitraum, normalen Anforderungen und Bewertungsdimension. Hoher Umsatz beweist ohne Vergleichsmaßstab weder durchgehend sehr gute Qualität noch Führung; ein Unternehmensbonus ist nicht automatisch eine individuelle Leistungsanerkennung. Dokumentierte Spitzenleistungen und Fehler müssen nach Dauer, Bedeutung und individueller Verantwortlichkeit gewichtet werden. Eine Jahresbeurteilung kann einen Abschnitt gut belegen, ohne die gesamte Beschäftigungsdauer abzudecken. Zeugen werden mit konkreter eigener Wahrnehmung und Beweisthema bezeichnet, nicht mit der pauschalen Erwartung, sie würden die Wunschbewertung bestätigen.
+
+BAG, Urteil vom 18. November 2014 – Az. 9 AZR 584/13, Rn. 8 bis 13 und 23 bis 25, [amtlicher Volltext](https://www.bundesarbeitsgericht.de/entscheidung/9-azr-584-13/), verlangt individuellen Leistungsvortrag statt Notenstatistik. Der Bonusgrund kann indizielle Bedeutung haben; die notwendige Konkretisierung hängt auch von der Gegeneinlassung ab. Frage entsprechend nach dem tatsächlichen Grund einer Zahlung und nach konkreten Einwendungen. Fehlerfreiheit ist keine Voraussetzung einer guten Note. Der Anker ersetzt weder Subsumtion noch eine gesicherte Beweisprognose.
+
+### 2.2. Antwortabhängige Empfehlung
+
+Bei Teilantworten aktualisiere nur die belegte Dimension. Widersprechen Unterlagen der Darstellung, benenne beide Angaben und frage nach dem Grund. Ist ein Nachweis endgültig nicht beschaffbar, verlange ihn nicht erneut: Beurteile den vorhandenen Stand, lege die Beweisgrenze im internen Vermerk offen und beschränke die Forderung entsprechend. Ein tatsächlich gewünschter weitergehender Text kann als Verständigungsvorschlag statt als sicherer Anspruch formuliert werden.
 
 ## 3. Fortführung des Auftrags
 

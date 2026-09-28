@@ -1,6 +1,6 @@
 # Skills-Index: Detailseiten pro Plugin
 
-Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v445.10.1`.
+Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v445.11.0`.
 
 Die Aufteilung verhindert, dass eine einzige Seite alle 22432 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
 

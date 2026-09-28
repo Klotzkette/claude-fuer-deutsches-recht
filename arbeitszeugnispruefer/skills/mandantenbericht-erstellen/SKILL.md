@@ -17,6 +17,8 @@ Stelle erhebliche Streitstellen mit Originalwortlaut, genauer Ersatzfassung, ver
 
 Erläutere konkret, welche Unterlagen oder Personen welchen Änderungspunkt tragen können. Bei einer verlangten überdurchschnittlichen Gesamtbewertung benenne die hierfür benötigten Leistungstatsachen und vorhandenen Belege. Übertrage diese Beweislastfrage nicht pauschal auf Form, Auslassungen oder Schlussformeln.
 
+Trenne Ausgangs- und Zielnote: Bei unterdurchschnittlicher Note 4 oder 5 muss der Arbeitgeber die Minderleistung darlegen und beweisen. Fehlende Arbeitnehmer-Mehrleistungsbelege machen 4→3 nicht zur bloßen Bitte. Erläutere die konkrete Arbeitgeberbegründung und mögliche Gegenangaben; die Beweislast allein garantiert noch keinen Prozesserfolg.
+
 ## 4. Empfehlung und vollständiger Arbeitnehmerauftrag
 
 Empfiehl anhand von Ziel, Beweisen, Fristen und praktischer Bedeutung einen konkreten nächsten Schritt. Prüfen, nachverhandeln, außergerichtlich geltend machen, vergleichen oder klagen sind keine automatische Stufenfolge. Bei einem allgemeinen Arbeitnehmer-Prüfauftrag gehören jedoch das kurze Mandantenschreiben und – wenn eine vertretbare Änderung verlangt werden kann oder tatsächlich verhandelt werden soll – das abgestufte Arbeitgeberschreiben ohne erneuten Entwurfsauftrag zum Ergebnis. Klage und Vollstreckung bleiben gesondert beauftragte Schritte.

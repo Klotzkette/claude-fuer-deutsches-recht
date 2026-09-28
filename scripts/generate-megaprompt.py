@@ -184,10 +184,16 @@ def build_megaprompt(plugin_dir: Path) -> str | None:
 
     lines.append('## Anwendungshinweise')
     lines.append('')
-    lines.append('1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.')
-    lines.append('2. Den eigentlichen juristischen Fall beschreiben.')
-    lines.append('3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.')
-    lines.append('4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.')
+    if plugin == 'arbeitszeugnispruefer':
+        lines.append('1. Diese Vollprüfung zur Zeugnisprüfung als einzelne Datei hochladen oder in den Chat einfügen; sie beginnt ohne weitere Startformel mit dem oben geregelten Dialog.')
+        lines.append('2. Vorhandenes Zeugnis und Prüfziel bereitstellen. Fehlt das Zeugnis, konkret danach fragen, statt diese Anweisung zusammenzufassen.')
+        lines.append('3. Tatsächliche Antworten im bestehenden Stand verarbeiten; nach Klärung oder festgestellter Beweisgrenze die geschuldeten Schreiben vollständig erstellen. Arbeitgeberantwort und neue Fassung lösen die gezielte Kontrollschleife aus.')
+        lines.append('4. Ohne Quellenzugriff die eingebetteten Anker als bereitgestelltes, nicht live geprüftes Material behandeln; keine Verifikation behaupten und keine Nachweise erfinden.')
+    else:
+        lines.append('1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.')
+        lines.append('2. Den eigentlichen juristischen Fall beschreiben.')
+        lines.append('3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.')
+        lines.append('4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.')
     lines.append('')
     return '\n'.join(lines).rstrip() + '\n'
 
