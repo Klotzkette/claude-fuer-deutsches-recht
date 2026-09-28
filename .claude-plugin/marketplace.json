@@ -2008,6 +2008,16 @@
       }
     },
     {
+      "name": "startup-gruender",
+      "description": "Startup-Gründer: 18 Skills für eine zügige UG- oder GmbH-Gründung mit Satzung und Gesellschaftervereinbarung DE/EN. Cap Table, Geschäftsführung, Statusprüfung, Beirat, Geldwäsche und Vollzug; Seed bis Serie B als Folgerouten. Mit Werkstatt und Schnittflug-Testakte.",
+      "version": "445.10.1",
+      "author": {
+        "name": "Klotzkette",
+        "email": "39582916+Klotzkette@users.noreply.github.com"
+      },
+      "source": "./startup-gruender"
+    },
+    {
       "name": "startup-hr-personalabteilung-berlin",
       "source": "./startup-hr-personalabteilung-berlin",
       "description": "Personalabteilungs- und HR-Operations-Plugin für ein Berliner Start-up mit ca. 100 Beschäftigten: Arbeitsverträge, Payroll/DATEV-Schnittstelle, Personalakten, Datenschutz, AGG-Vorfälle, Betriebsrat, Benefits, Fehlzeiten, Kündigungen, Happiness-Management und Chef-Briefings.",

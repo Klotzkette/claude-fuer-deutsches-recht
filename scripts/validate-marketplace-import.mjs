@@ -5,7 +5,7 @@ import { promptEnabled, promptKinds, promptFormats, promptProfileErrors } from '
 import { createHash } from 'node:crypto';
 
 // Dateischutz für eigenständige Downloads; Skill- und Modellbudgets bleiben getrennt.
-const promptLimits = JSON.parse(fs.readFileSync(new URL('./prompt-limits.json', import.meta.url), 'utf8'));
+import { promptLimits, miniWithinLimits } from './prompt-limits.mjs';
 const root = process.cwd();
 const errors = [];
 const warnings = [];
@@ -162,8 +162,8 @@ for (const entry of marketplace.plugins || []) {
   const schnellstart = path.join(pluginRoot, `${entry.name}-schnellstart.md`);
   if (!fs.existsSync(werkstatt)) errors.push(`${entry.name}: Werkstatt-Markdown fehlt`);
   if (promptEnabled(entry.name, "schnellstart") && !fs.existsSync(schnellstart)) errors.push(`${entry.name}: Schnellstart-Markdown fehlt`);
-  if (fs.existsSync(schnellstart) && fs.statSync(schnellstart).size > promptLimits.mini_max_bytes) {
-    errors.push(`${rel(schnellstart)}: Schnellstart ist größer als 7500 Bytes`);
+  if (fs.existsSync(schnellstart) && !miniWithinLimits(entry.name, fs.readFileSync(schnellstart))) {
+    errors.push(`${rel(schnellstart)}: Schnellstart überschreitet Byte-/Zeichengrenze`);
   }
   if (fs.existsSync(werkstatt)) {
     const reviewPath = path.join(root, 'quality', 'evals', `${entry.name}.json`);

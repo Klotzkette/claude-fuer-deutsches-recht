@@ -16,7 +16,7 @@ sys.path.insert(0, str(REPO / "scripts"))
 
 from themen_profile import EXACT_PROFILE_KEYS, profile_for  # noqa: E402
 from quality_lab import load, validate_profile
-from prompt_limits import MAX_WORKSHOP_BYTES, MAX_MINI_BYTES
+from prompt_limits import mini_within_limits, MAX_WORKSHOP_BYTES, MAX_MINI_BYTES
 from bauwirtschaft_hoai import PHASEN, werkstatt_path
 
 
@@ -527,8 +527,8 @@ def main() -> int:
                 problems.append(
                     f"{path.relative_to(REPO)}: wiederholt angehängtes scharfes S"
                 )
-            if kind == "schnellstart" and size > MAX_MINI_BYTES:
-                problems.append(f"{path.relative_to(REPO)}: {size} Bytes statt höchstens 7500")
+            if kind == "schnellstart" and not mini_within_limits(slug, text.encode("utf-8")):
+                problems.append(f"{path.relative_to(REPO)}: außerhalb der konfigurierten Byte-/Zeichengrenze")
             if kind == "werkstatt" and size > MAX_WORKSHOP_BYTES:
                 problems.append(
                     f"{path.relative_to(REPO)}: {size} Bytes statt höchstens {MAX_WORKSHOP_BYTES} Bytes für einen eigenständigen Werkstatt-Download"

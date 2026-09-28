@@ -1,0 +1,625 @@
+{
+  "schema_version": 1,
+  "case_slug": "startup-gruender-schnittflug-berlin",
+  "pruefdatum": "2026-09-28",
+  "quellen": [
+    {
+      "path": "scripts/data/startup-gruender/fallstamm.json",
+      "sha256": "e649e15273de5739ae1b43c07c3ea615857880c46f3e02b6e637dcb99c1fdb7a"
+    },
+    {
+      "path": "scripts/data/startup-gruender/finanz.json",
+      "sha256": "df854f9d9cb87452d2bc9c468f7624cdb805b751dfdecf8044f0265d4bdcc208"
+    },
+    {
+      "path": "scripts/data/startup-gruender/kommunikation.json",
+      "sha256": "0964f034ec6437c69038afccb6c83cdbec3b9009b9d63829ab0057e79731c9e7"
+    },
+    {
+      "path": "scripts/data/startup-gruender/vertraege.json",
+      "sha256": "3fd05e79dd1b52d2b96fb73b9c5896510defc5148450b06c575394800a1dd2e0"
+    },
+    {
+      "path": "scripts/build-startup-gruender-lebensakte.py",
+      "sha256": "56ad1dad73c5967551403e24a3dc3080406cb532b098fd8f19d36ce299bd5ca2"
+    },
+    {
+      "path": "scripts/build-startup-gruender-vertraege.py",
+      "sha256": "077ebad168f205621728a42fa41ad9feed0465750e6d8ae6d43b5fcc2e548780"
+    },
+    {
+      "path": "scripts/build-startup-gruender-finanz.mjs",
+      "sha256": "aef8970e29b8644c8e545c4ee3a1fa1b5200a5ec7829fd877f3ebba886fa20a1"
+    }
+  ],
+  "herstellung": {
+    "native_dateien": 68,
+    "byteidentisch_neu_gebaut": 65,
+    "docx": 21,
+    "vollstaendige_docx_pdf_textuebernahme": 21,
+    "docx_seiten_gerendert_und_visuell_geprueft": 36,
+    "beleg_pdf": 13,
+    "belegseiten_visuell_geprueft": 13,
+    "eml_mit_header_und_threads": 24,
+    "mime_anhaenge_bytegleich": 4,
+    "chat_txt": 3,
+    "ui_png_visuell_geprueft": 4,
+    "xlsx_nur_inventarisiert": 3
+  },
+  "grenzen": [
+    "Keine reale Beurkundung, Registeranmeldung, Einzahlung, Investition oder Behördenfreigabe wird bestätigt.",
+    "Die Vertragsentwürfe wurden vollständig gegen die Quelldaten und die Aktenkommunikation abgeglichen; dies ersetzt keine rechtliche Prüfung im konkreten Mandat.",
+    "Es wurden keine Steuer-, Pass-, Register- oder Bankkennungen hinzugefügt.",
+    "Nur die eigenen 65 Dateien wurden separat byteidentisch neu erzeugt; die drei XLSX wurden hier inventarisiert."
+  ],
+  "mime_anhaenge": [
+    {
+      "eml": "04_20260828_Produktnotiz.eml",
+      "attachment": "72_Produktnotiz_Drohnenfriseur_20260828.docx",
+      "sha256": "939cb2a60db9cbdedaaa296bc0625d6ff2e29e97cb5b0132cb9ce70956321b0b"
+    },
+    {
+      "eml": "06_20260905_Werkraum.eml",
+      "attachment": "76_Werkraum_Nutzungsvertrag_Entwurf_20260905.docx",
+      "sha256": "4fa0f5ecda5187233e63c4268ffa458c2316b04a3f2705f79d571e966b68b94d"
+    },
+    {
+      "eml": "13_20260918_KYC_Antwort.eml",
+      "attachment": "75_Bank_KYC_Unterlagenliste_20260918.docx",
+      "sha256": "afc93d1d1c2cb877e56f6deadd821d31415f6ae13885a863b1fa0c2f78d8d264"
+    },
+    {
+      "eml": "15_20260921_Seed_Eckpunkte.eml",
+      "attachment": "77_Wolkenwickel_Seed_Termsheet_20260921.docx",
+      "sha256": "853e1c5f1cf67cca82d8ca87ad221512bd7f39d909f150130b5b38311c055a6b"
+    }
+  ],
+  "ausgaben": [
+    {
+      "path": "testakten/startup-gruender-schnittflug-berlin/01_20260817_Erste_Quoten.eml",
+      "bytes": 1182,
+      "sha256": "902fcc61acb1fa9978f4f2e01c4e3b6aec95a7759c9dbd77495b9a9c635568d4",
+      "reproduzierbar_geprueft": true
+    },
+    {
+      "path": "testakten/startup-gruender-schnittflug-berlin/02_20260818_Designarbeit.eml",
+      "bytes": 1668,
+      "sha256": "c0dd26e37ad5c25e615976095a5cf5c8f6b8c774681d6054ee65c8ee0cc99105",
+      "reproduzierbar_geprueft": true
+    },
+    {
+      "path": "testakten/startup-gruender-schnittflug-berlin/03_20260821_Kostenablage.eml",
+      "bytes": 1259,
+      "sha256": "506a0faba9c4ea724307015ab42e26794b3aeb1c2e37393732fc4263fa65c9f9",
+      "reproduzierbar_geprueft": true
+    },
+    {
+      "path": "testakten/startup-gruender-schnittflug-berlin/04_20260828_Produktnotiz.eml",
+      "bytes": 54889,
+      "sha256": "33bcd5c28fcb526c972984183e413761ca591e19f88ffb79206b6633fa6be8ce",
+      "reproduzierbar_geprueft": true
+    },
+    {
+      "path": "testakten/startup-gruender-schnittflug-berlin/05_20260902_Hochschulprojekt.eml",
+      "bytes": 1153,
+      "sha256": "6598a9d43fdef16ad6afa5bcb4f5a9ca800e220ea5c4f1c3ee26f3c68388fcd1",
+      "reproduzierbar_geprueft": true
+    },
+    {
+      "path": "testakten/startup-gruender-schnittflug-berlin/06_20260905_Werkraum.eml",
+      "bytes": 55885,
+      "sha256": "3c0e63acbe064687b5be31f4a5d443428b2b8402c33ec669e5130fdf52c1a57e",
+      "reproduzierbar_geprueft": true
+    },
+    {
+      "path": "testakten/startup-gruender-schnittflug-berlin/07_20260907_Aufenthalt_und_Mittel.eml",
+      "bytes": 1207,
+      "sha256": "f36da4f47ebcb21ad74ea2167aabb781b1e1be18fa2b7b29064bda079ff8469e",
+      "reproduzierbar_geprueft": true
+    },
+    {
+      "path": "testakten/startup-gruender-schnittflug-berlin/08_20260910_Neue_Quoten.eml",
+      "bytes": 1837,
+      "sha256": "866a7e92928f6f1a6696171850917ad0d907eee97c4a4118ca7169f407c0bf22",
+      "reproduzierbar_geprueft": true
+    },
+    {
+      "path": "testakten/startup-gruender-schnittflug-berlin/09_20260911_Musterprotokoll.eml",
+      "bytes": 1135,
+      "sha256": "36b8fa48bea40c2dba24aa51e38ae8f8526a6a4872fa5e5ecccdf84c655e4d4e",
+      "reproduzierbar_geprueft": true
+    },
+    {
+      "path": "testakten/startup-gruender-schnittflug-berlin/10_20260913_Krankheit.eml",
+      "bytes": 1120,
+      "sha256": "74dcfa7da1e8c0f516c59afae9e5de01316e6a56c7e05b91451b899f37977774",
+      "reproduzierbar_geprueft": true
+    },
+    {
+      "path": "testakten/startup-gruender-schnittflug-berlin/11_20260914_Anwaltsauftrag.eml",
+      "bytes": 1464,
+      "sha256": "85529044983abfa38a07eff82b9dc3600d833d1aa91fb140fe4a0241dbc9fe3f",
+      "reproduzierbar_geprueft": true
+    },
+    {
+      "path": "testakten/startup-gruender-schnittflug-berlin/12_20260916_Kontoanfrage.eml",
+      "bytes": 1436,
+      "sha256": "6841310f28e26211865cb7bff993e9269512fcfd86e977d5349509f1b7b93988",
+      "reproduzierbar_geprueft": true
+    },
+    {
+      "path": "testakten/startup-gruender-schnittflug-berlin/13_20260918_KYC_Antwort.eml",
+      "bytes": 55587,
+      "sha256": "c580fd6efb063e9ac300221d37d070377f110b3b553b2d594f08557ec39a228c",
+      "reproduzierbar_geprueft": true
+    },
+    {
+      "path": "testakten/startup-gruender-schnittflug-berlin/14_20260919_Entwicklungsauftrag.eml",
+      "bytes": 1255,
+      "sha256": "310f49b7b2f250b23b2a51e6a9e8c8ad574eb00ed23e7c7068c93c36dd3acc5b",
+      "reproduzierbar_geprueft": true
+    },
+    {
+      "path": "testakten/startup-gruender-schnittflug-berlin/15_20260921_Seed_Eckpunkte.eml",
+      "bytes": 55399,
+      "sha256": "e35ada64954ab03a5c9c8d3a91d880ed735475b28ce03c6c452fec459c157292",
+      "reproduzierbar_geprueft": true
+    },
+    {
+      "path": "testakten/startup-gruender-schnittflug-berlin/16_20260921_Beirat.eml",
+      "bytes": 1642,
+      "sha256": "3befaad59530757b6524aac62599b679f181f498612f0c5b63f4352fa15d8d92",
+      "reproduzierbar_geprueft": true
+    },
+    {
+      "path": "testakten/startup-gruender-schnittflug-berlin/17_20260922_Handwerk_Versicherung.eml",
+      "bytes": 1130,
+      "sha256": "86d78607b3b39f4827e43014b59ea50fcf3a6569ac18533809db02362d6bcbb1",
+      "reproduzierbar_geprueft": true
+    },
+    {
+      "path": "testakten/startup-gruender-schnittflug-berlin/18_20260923_IP_Unterlagen.eml",
+      "bytes": 1751,
+      "sha256": "2eaf9c20a14a82a8e8f3be6c38d3d4c3019469eb8e9f8783a022a9e9a8dcda9f",
+      "reproduzierbar_geprueft": true
+    },
+    {
+      "path": "testakten/startup-gruender-schnittflug-berlin/19_20260924_Spaetere_Runden.eml",
+      "bytes": 1222,
+      "sha256": "92c61e577e6daad1c2773b1bdbffb8082f4c30b70fa6d2f6905005918bb4d830",
+      "reproduzierbar_geprueft": true
+    },
+    {
+      "path": "testakten/startup-gruender-schnittflug-berlin/20_20260924_Bezugsrecht.eml",
+      "bytes": 1718,
+      "sha256": "39be24d67534b1cbc5a5edd5f0212f183273171ee4d27a867880f685ed4b7f4f",
+      "reproduzierbar_geprueft": true
+    },
+    {
+      "path": "testakten/startup-gruender-schnittflug-berlin/21_20260925_Ottilie_Status.eml",
+      "bytes": 2067,
+      "sha256": "4cb1c326df7e3a26963099be7ee2cfa316988d101232fc3133b8769556b84a2a",
+      "reproduzierbar_geprueft": true
+    },
+    {
+      "path": "testakten/startup-gruender-schnittflug-berlin/22_20260926_Notartermin.eml",
+      "bytes": 1305,
+      "sha256": "190640dc46a02cc19b3db8629bf1c8867c82aef743f4dedb532ff4294c4eabce",
+      "reproduzierbar_geprueft": true
+    },
+    {
+      "path": "testakten/startup-gruender-schnittflug-berlin/23_20260927_Englisch_und_Zusatzblatt.eml",
+      "bytes": 1670,
+      "sha256": "2f99b1c44ddeda34eb4c9d55707a58224353c5cd16b4738abdb05775bdd002e7",
+      "reproduzierbar_geprueft": true
+    },
+    {
+      "path": "testakten/startup-gruender-schnittflug-berlin/24_20260928_Entwurfsauftrag.eml",
+      "bytes": 2698,
+      "sha256": "800094767569df13e1419a03b273c32999f223eaa033e8f41296d288c03f7d83",
+      "reproduzierbar_geprueft": true
+    },
+    {
+      "path": "testakten/startup-gruender-schnittflug-berlin/25_Chat_Gruendung_20260912.txt",
+      "bytes": 1144,
+      "sha256": "443bcde1cd19cd327b73f33029e895da045f862295daed3f3ecabd47f002d77e",
+      "reproduzierbar_geprueft": true
+    },
+    {
+      "path": "testakten/startup-gruender-schnittflug-berlin/26_Chat_Produkt_20260922.txt",
+      "bytes": 1220,
+      "sha256": "34bf1b9f7ba117a2dacf6a49469df147eae9959cda7de28179e7254844514511",
+      "reproduzierbar_geprueft": true
+    },
+    {
+      "path": "testakten/startup-gruender-schnittflug-berlin/27_Chat_Finanzierung_20260924.txt",
+      "bytes": 1299,
+      "sha256": "44ed7aa4d6fdd3831b66a53ea877537e12a1574a39575912268056d27e29c658",
+      "reproduzierbar_geprueft": true
+    },
+    {
+      "path": "testakten/startup-gruender-schnittflug-berlin/28_Projektboard_Stand_20260928.png",
+      "bytes": 86451,
+      "sha256": "d6a9f3e8d1ba523b3094197474cc67a2282602cd12078b1a07855450202c57a3",
+      "reproduzierbar_geprueft": true,
+      "sichtpruefung": "Vollständige UI-Fläche geprüft"
+    },
+    {
+      "path": "testakten/startup-gruender-schnittflug-berlin/29_Chat_Ausschnitt_Budget_20260921.png",
+      "bytes": 83418,
+      "sha256": "11fa409353e1294715738e3cc237fdb66f9ec2298e88a307d58d107130c4511f",
+      "reproduzierbar_geprueft": true,
+      "sichtpruefung": "Vollständige UI-Fläche geprüft"
+    },
+    {
+      "path": "testakten/startup-gruender-schnittflug-berlin/30_Satzung_Arbeitsentwurf_20260925.docx",
+      "bytes": 41189,
+      "sha256": "8a8e494ae0f3272bbd650287bcebb52a3bb1c678adb3c7e2060359e9c1de6fb3",
+      "reproduzierbar_geprueft": true,
+      "renderpruefung": {
+        "pages": 3,
+        "visual_review": "Alle Seiten geprüft; keine Überläufe oder abgeschnittenen Inhalte.",
+        "rendered_pdf_sha256": "1e7c86d9b188872d8a92786cf1cb5f2f27477e07679c36c8f73034d0e8f22a5c"
+      }
+    },
+    {
+      "path": "testakten/startup-gruender-schnittflug-berlin/31_Gesellschaftervereinbarung_DE_20260926.docx",
+      "bytes": 41979,
+      "sha256": "3975730cce854c1e30ef530fb342a3a2fef0ac2aaf817e362ad49598ca8fef22",
+      "reproduzierbar_geprueft": true,
+      "renderpruefung": {
+        "pages": 3,
+        "visual_review": "Alle Seiten geprüft; keine Überläufe oder abgeschnittenen Inhalte.",
+        "rendered_pdf_sha256": "7c196225a6bb74f70791e07a4ef10acecec7d6105b497c0c4936be651f98f570"
+      }
+    },
+    {
+      "path": "testakten/startup-gruender-schnittflug-berlin/32_Shareholders_Agreement_EN_20260926.docx",
+      "bytes": 41413,
+      "sha256": "390137299ed570abb9f689d1bd7ccda0e79ea753ff1bb636d671695bf3b6bbad",
+      "reproduzierbar_geprueft": true,
+      "renderpruefung": {
+        "pages": 3,
+        "visual_review": "Alle Seiten geprüft; keine Überläufe oder abgeschnittenen Inhalte.",
+        "rendered_pdf_sha256": "7397098fa51639a2646d6ca87d1350d6dd54eb9f37d7a5e4ab54b3ed1704ddd4"
+      }
+    },
+    {
+      "path": "testakten/startup-gruender-schnittflug-berlin/33_Geschaeftsfuehrerordnung_Entwurf.docx",
+      "bytes": 39276,
+      "sha256": "16a8a904148012f3a39db45c1b64e2f5267491a6496c1c5f6db02274be8ebf91",
+      "reproduzierbar_geprueft": true,
+      "renderpruefung": {
+        "pages": 2,
+        "visual_review": "Alle Seiten geprüft; keine Überläufe oder abgeschnittenen Inhalte.",
+        "rendered_pdf_sha256": "6d16dfc3304de6d9366c8e1f71df4e3c4a7210ca31b2742268243046b3966e6a"
+      }
+    },
+    {
+      "path": "testakten/startup-gruender-schnittflug-berlin/34_Dienstvertrag_Ottilie_Entwurf.docx",
+      "bytes": 39771,
+      "sha256": "f167fbf02da5435269c84348f79f19b632b358fb8aa5763cc7f3c1c30d26c0ba",
+      "reproduzierbar_geprueft": true,
+      "renderpruefung": {
+        "pages": 2,
+        "visual_review": "Alle Seiten geprüft; keine Überläufe oder abgeschnittenen Inhalte.",
+        "rendered_pdf_sha256": "8c95def4ca21a37a762f2b9d5a41eb2b10007178575f0fc5237adcf1b04c9a74"
+      }
+    },
+    {
+      "path": "testakten/startup-gruender-schnittflug-berlin/35_Geschaeftsfuehrerbestellung_Entwurf.docx",
+      "bytes": 38421,
+      "sha256": "a56f999d51ba4000dc8ff3b1812582c52eb153b665fc90e3a4c74455c5e797f0",
+      "reproduzierbar_geprueft": true,
+      "renderpruefung": {
+        "pages": 1,
+        "visual_review": "Alle Seiten geprüft; keine Überläufe oder abgeschnittenen Inhalte.",
+        "rendered_pdf_sha256": "d8217a4bcf6c53c108521d7c8c9528197f7d0779a1fb4b95d65ade71d1190c2c"
+      }
+    },
+    {
+      "path": "testakten/startup-gruender-schnittflug-berlin/36_Beiratsordnung_Beratungsmodell.docx",
+      "bytes": 38942,
+      "sha256": "d39dfb24f400daef293b48e75b02e0c9aed3752e123d2c9613595a6e1b9f399e",
+      "reproduzierbar_geprueft": true,
+      "renderpruefung": {
+        "pages": 2,
+        "visual_review": "Alle Seiten geprüft; keine Überläufe oder abgeschnittenen Inhalte.",
+        "rendered_pdf_sha256": "9743bc7810524874f175809f3c4aeda3bc671681855f40dc196a7c2b919235aa"
+      }
+    },
+    {
+      "path": "testakten/startup-gruender-schnittflug-berlin/37_IP_Nutzungsrechte_Kunigunde_Entwurf.docx",
+      "bytes": 39142,
+      "sha256": "5697c8493ba58017f55eaeb8b81149a41d32933b4ebec59bb05d1b506a3d2207",
+      "reproduzierbar_geprueft": true,
+      "renderpruefung": {
+        "pages": 2,
+        "visual_review": "Alle Seiten geprüft; keine Überläufe oder abgeschnittenen Inhalte.",
+        "rendered_pdf_sha256": "e2294ed88fbe33c11ac425da9871a35965590da38314b6a02e16599dfb0765b9"
+      }
+    },
+    {
+      "path": "testakten/startup-gruender-schnittflug-berlin/38_Vorgruendervereinbarung_Entwurf.docx",
+      "bytes": 39085,
+      "sha256": "e674db6af3f49ccfeba4663c0d4a7d4a7110dbadd4c5ccaa0ac7c3e6bb321f7f",
+      "reproduzierbar_geprueft": true,
+      "renderpruefung": {
+        "pages": 2,
+        "visual_review": "Alle Seiten geprüft; keine Überläufe oder abgeschnittenen Inhalte.",
+        "rendered_pdf_sha256": "81eb22e171bd212368964c018bec541a90570b20af6be1b81a7d4666a9dfed5a"
+      }
+    },
+    {
+      "path": "testakten/startup-gruender-schnittflug-berlin/39_Serie_B_Verhandlungspapier_Kapitalerhoehung.docx",
+      "bytes": 39031,
+      "sha256": "dfd0e9524dc1e76d23733f1c21ab62273ee7c5a279d18f6afc36abab1f548a90",
+      "reproduzierbar_geprueft": true,
+      "renderpruefung": {
+        "pages": 1,
+        "visual_review": "Alle Seiten geprüft; keine Überläufe oder abgeschnittenen Inhalte.",
+        "rendered_pdf_sha256": "24b2c98d83f7655b030b779aa6116275b6ddfd96848ffcc9cb1431db169cb603"
+      }
+    },
+    {
+      "path": "testakten/startup-gruender-schnittflug-berlin/50_CapTable_Gruendung_und_Finanzierungsoptionen.xlsx",
+      "bytes": 14178,
+      "sha256": "511caa57ac54096ef24b4bf9bdf46b68ad05fb0420035008ecbf046605e42a93",
+      "reproduzierbar_geprueft": false,
+      "pruefumfang": "Hier inventarisiert; Inhalts- und Formelprüfung durch Finanzakte-Agenten."
+    },
+    {
+      "path": "testakten/startup-gruender-schnittflug-berlin/51_Auslagen_und_Liquiditaetsplanung.xlsx",
+      "bytes": 14029,
+      "sha256": "c3096b331cc56ff7e7558a75140da9bdc43a628740c067231a5b988c475fa32e",
+      "reproduzierbar_geprueft": false,
+      "pruefumfang": "Hier inventarisiert; Inhalts- und Formelprüfung durch Finanzakte-Agenten."
+    },
+    {
+      "path": "testakten/startup-gruender-schnittflug-berlin/52_Mehrheiten_und_Bezugsrechte.xlsx",
+      "bytes": 12633,
+      "sha256": "71c1010083a9d23ca6586c2f183bd3ae3a69b20d70ae78e748c0dc7ac6134b24",
+      "reproduzierbar_geprueft": false,
+      "pruefumfang": "Hier inventarisiert; Inhalts- und Formelprüfung durch Finanzakte-Agenten."
+    },
+    {
+      "path": "testakten/startup-gruender-schnittflug-berlin/60_01_Rechnung_SF-A001.pdf",
+      "bytes": 84136,
+      "sha256": "4f1e22714d9f34bdf2a55820a5c459abc2c5d213a887e35390a3979d17a0e19b",
+      "reproduzierbar_geprueft": true,
+      "seiten": 1,
+      "sichtpruefung": "Vollständig geprüft"
+    },
+    {
+      "path": "testakten/startup-gruender-schnittflug-berlin/60_02_Rechnung_SF-A002.pdf",
+      "bytes": 84582,
+      "sha256": "07b2d12ea8d5a97a69a9727ceac4ad5b0784ec99206fffcc04b39964f75f1c4f",
+      "reproduzierbar_geprueft": true,
+      "seiten": 1,
+      "sichtpruefung": "Vollständig geprüft"
+    },
+    {
+      "path": "testakten/startup-gruender-schnittflug-berlin/60_03_Rechnung_SF-A003.pdf",
+      "bytes": 84194,
+      "sha256": "4ab32728865c4bbefc626ad725b3c3d5e025486d4434980aa2cf8e2ef5d84cb8",
+      "reproduzierbar_geprueft": true,
+      "seiten": 1,
+      "sichtpruefung": "Vollständig geprüft"
+    },
+    {
+      "path": "testakten/startup-gruender-schnittflug-berlin/60_04_Rechnung_SF-A004.pdf",
+      "bytes": 84254,
+      "sha256": "115dae094aa348cd230b4906fb5664f10c98186c533f223f966b2b52f10c6971",
+      "reproduzierbar_geprueft": true,
+      "seiten": 1,
+      "sichtpruefung": "Vollständig geprüft"
+    },
+    {
+      "path": "testakten/startup-gruender-schnittflug-berlin/60_05_Rechnung_SF-A005.pdf",
+      "bytes": 83857,
+      "sha256": "5d991cdec103fd0e8210ae3b8dbf0d01932572f84bc58193c5387b1ee84105c6",
+      "reproduzierbar_geprueft": true,
+      "seiten": 1,
+      "sichtpruefung": "Vollständig geprüft"
+    },
+    {
+      "path": "testakten/startup-gruender-schnittflug-berlin/60_06_Rechnung_SF-A006.pdf",
+      "bytes": 83826,
+      "sha256": "c978f1206ff1a7f5c71548609fd9df0bbad7d766acc5def40b09cb52e06752c7",
+      "reproduzierbar_geprueft": true,
+      "seiten": 1,
+      "sichtpruefung": "Vollständig geprüft"
+    },
+    {
+      "path": "testakten/startup-gruender-schnittflug-berlin/60_07_Rechnung_SF-A007.pdf",
+      "bytes": 84254,
+      "sha256": "17820444233c87b61eac92b32f55ecdc51a4d37b37905a9ed60fc738b7806e22",
+      "reproduzierbar_geprueft": true,
+      "seiten": 1,
+      "sichtpruefung": "Vollständig geprüft"
+    },
+    {
+      "path": "testakten/startup-gruender-schnittflug-berlin/60_08_Rechnung_SF-A008.pdf",
+      "bytes": 83847,
+      "sha256": "09a436c72ba8f33b163d1821de8fb9e44e542e60fb24b8c1f87e5fb93991bc5e",
+      "reproduzierbar_geprueft": true,
+      "seiten": 1,
+      "sichtpruefung": "Vollständig geprüft"
+    },
+    {
+      "path": "testakten/startup-gruender-schnittflug-berlin/60_09_Rechnung_SF-A009.pdf",
+      "bytes": 84206,
+      "sha256": "1e22338e7829488aa6617fb82cf9a8e9898e7ba1c0cc38c468a5460331d0ff87",
+      "reproduzierbar_geprueft": true,
+      "seiten": 1,
+      "sichtpruefung": "Vollständig geprüft"
+    },
+    {
+      "path": "testakten/startup-gruender-schnittflug-berlin/60_10_Rechnung_SF-A010.pdf",
+      "bytes": 83820,
+      "sha256": "2e1e5d30a256371dc2dc82a6f10bfedd0578712387a681808233d875ed22970f",
+      "reproduzierbar_geprueft": true,
+      "seiten": 1,
+      "sichtpruefung": "Vollständig geprüft"
+    },
+    {
+      "path": "testakten/startup-gruender-schnittflug-berlin/60_11_Rechnung_SF-A012.pdf",
+      "bytes": 84424,
+      "sha256": "a3aad3526655b265c4114bc952d89a24ef9e956f2d90273ec2165e0b1830ccf2",
+      "reproduzierbar_geprueft": true,
+      "seiten": 1,
+      "sichtpruefung": "Vollständig geprüft"
+    },
+    {
+      "path": "testakten/startup-gruender-schnittflug-berlin/60_12_Rechnung_SF-A013.pdf",
+      "bytes": 83793,
+      "sha256": "103feb5e9b0a7fc423fc8ae4c35e370c8c8a2ed3ba92b9b78f1fd9f1aa5a382c",
+      "reproduzierbar_geprueft": true,
+      "seiten": 1,
+      "sichtpruefung": "Vollständig geprüft"
+    },
+    {
+      "path": "testakten/startup-gruender-schnittflug-berlin/61_01_Gutschrift_SF-A011.pdf",
+      "bytes": 83800,
+      "sha256": "7b2a744bdddc9dca4a08c3d73bb9292ff1913e3a249f9f4a9c41ad063dfbc5eb",
+      "reproduzierbar_geprueft": true,
+      "seiten": 1,
+      "sichtpruefung": "Vollständig geprüft"
+    },
+    {
+      "path": "testakten/startup-gruender-schnittflug-berlin/70_Kontoanfrage_Status_20260928.png",
+      "bytes": 86796,
+      "sha256": "d44a7ffd9f2915f5f10135b227020caf7b1d7241f7273d0113627047ef86c022",
+      "reproduzierbar_geprueft": true,
+      "sichtpruefung": "Vollständige UI-Fläche geprüft"
+    },
+    {
+      "path": "testakten/startup-gruender-schnittflug-berlin/71_Produktboard_20260922.png",
+      "bytes": 91822,
+      "sha256": "a963a8d3a1ba85f6da14abd9f3184433ef03bd3a0eca414b10638a3d199ea40e",
+      "reproduzierbar_geprueft": true,
+      "sichtpruefung": "Vollständige UI-Fläche geprüft"
+    },
+    {
+      "path": "testakten/startup-gruender-schnittflug-berlin/72_Produktnotiz_Drohnenfriseur_20260828.docx",
+      "bytes": 38993,
+      "sha256": "939cb2a60db9cbdedaaa296bc0625d6ff2e29e97cb5b0132cb9ce70956321b0b",
+      "reproduzierbar_geprueft": true,
+      "renderpruefung": {
+        "pages": 1,
+        "visual_review": "Alle Seiten geprüft; keine Überläufe oder abgeschnittenen Inhalte.",
+        "rendered_pdf_sha256": "f7a9ea17ea80b93251dd2f9582d0dc1d707df1b0b96ac592cb6553a766f75663"
+      }
+    },
+    {
+      "path": "testakten/startup-gruender-schnittflug-berlin/73_Sieben_Gruender_Antworten_20260910.docx",
+      "bytes": 39936,
+      "sha256": "1802ed46abda299b756cabba2ec3ba55286a513ebe5e1d65aca64188261d6888",
+      "reproduzierbar_geprueft": true,
+      "renderpruefung": {
+        "pages": 2,
+        "visual_review": "Alle Seiten geprüft; keine Überläufe oder abgeschnittenen Inhalte.",
+        "rendered_pdf_sha256": "5634311205cfa07e8aaad5124691ad8ee6578f4506d602a7dada63acc5765e03"
+      }
+    },
+    {
+      "path": "testakten/startup-gruender-schnittflug-berlin/74_Gruenderabend_Notizen_20260912.docx",
+      "bytes": 39253,
+      "sha256": "17a38a8bc66bcd0740761af275cd4a0555aefca259645ac8aa03be2464efb321",
+      "reproduzierbar_geprueft": true,
+      "renderpruefung": {
+        "pages": 2,
+        "visual_review": "Alle Seiten geprüft; keine Überläufe oder abgeschnittenen Inhalte.",
+        "rendered_pdf_sha256": "6c8584e690d572e82eb8400f41761f8d75e342c2a031d17cefe2dae2a78487ee"
+      }
+    },
+    {
+      "path": "testakten/startup-gruender-schnittflug-berlin/75_Bank_KYC_Unterlagenliste_20260918.docx",
+      "bytes": 38979,
+      "sha256": "afc93d1d1c2cb877e56f6deadd821d31415f6ae13885a863b1fa0c2f78d8d264",
+      "reproduzierbar_geprueft": true,
+      "renderpruefung": {
+        "pages": 1,
+        "visual_review": "Alle Seiten geprüft; keine Überläufe oder abgeschnittenen Inhalte.",
+        "rendered_pdf_sha256": "9c168a201968541efbe329fd52eb5039223b1d00565790fdb12cf7c48cf95ba0"
+      }
+    },
+    {
+      "path": "testakten/startup-gruender-schnittflug-berlin/76_Werkraum_Nutzungsvertrag_Entwurf_20260905.docx",
+      "bytes": 39341,
+      "sha256": "4fa0f5ecda5187233e63c4268ffa458c2316b04a3f2705f79d571e966b68b94d",
+      "reproduzierbar_geprueft": true,
+      "renderpruefung": {
+        "pages": 2,
+        "visual_review": "Alle Seiten geprüft; keine Überläufe oder abgeschnittenen Inhalte.",
+        "rendered_pdf_sha256": "2eb587a1fb4d009344857c9d8b38497a24123feb1335f4eb19b35a053f5174b3"
+      }
+    },
+    {
+      "path": "testakten/startup-gruender-schnittflug-berlin/77_Wolkenwickel_Seed_Termsheet_20260921.docx",
+      "bytes": 39211,
+      "sha256": "853e1c5f1cf67cca82d8ca87ad221512bd7f39d909f150130b5b38311c055a6b",
+      "reproduzierbar_geprueft": true,
+      "renderpruefung": {
+        "pages": 2,
+        "visual_review": "Alle Seiten geprüft; keine Überläufe oder abgeschnittenen Inhalte.",
+        "rendered_pdf_sha256": "5d4e41d0d96d39ee945975455d039e8cc407fc57d28b28ec96d38ebc41f3eee3"
+      }
+    },
+    {
+      "path": "testakten/startup-gruender-schnittflug-berlin/78_Spaetere_Runden_Verhandlungsnotiz_20260924.docx",
+      "bytes": 38895,
+      "sha256": "0c1df83e74e5cecea3a7212fe00db3381c1728ffaea48bd2ef17604695549d08",
+      "reproduzierbar_geprueft": true,
+      "renderpruefung": {
+        "pages": 1,
+        "visual_review": "Alle Seiten geprüft; keine Überläufe oder abgeschnittenen Inhalte.",
+        "rendered_pdf_sha256": "8e0809373fcdbc303f8a9507c90ea7ee263ab10b5bcf3f4d1f56a0de8b6561b5"
+      }
+    },
+    {
+      "path": "testakten/startup-gruender-schnittflug-berlin/79_Ottilie_Taetigkeit_Statusfragebogen_20260925.docx",
+      "bytes": 38918,
+      "sha256": "ba8a7658ceabb845f9f4830a1d828a6d5131a141b0befa3f5674cbb256a70f3f",
+      "reproduzierbar_geprueft": true,
+      "renderpruefung": {
+        "pages": 1,
+        "visual_review": "Alle Seiten geprüft; keine Überläufe oder abgeschnittenen Inhalte.",
+        "rendered_pdf_sha256": "eed013f98955c96c1150b48216eedcb8d070fddb7a895bf41201d2b7bd308c64"
+      }
+    },
+    {
+      "path": "testakten/startup-gruender-schnittflug-berlin/80_Software_und_Rechte_Herkunft_20260923.docx",
+      "bytes": 38790,
+      "sha256": "a0348c0a9196f95cb7d32d45bd3810d00771bbbca729cbe83ec9a6b9915b35b7",
+      "reproduzierbar_geprueft": true,
+      "renderpruefung": {
+        "pages": 1,
+        "visual_review": "Alle Seiten geprüft; keine Überläufe oder abgeschnittenen Inhalte.",
+        "rendered_pdf_sha256": "1b25f6b53a283b9dfa310542c3f43fdf879d267f7495d51ffb0d171a8caea302"
+      }
+    },
+    {
+      "path": "testakten/startup-gruender-schnittflug-berlin/81_Telefonnotiz_Handwerk_Versicherung_20260922.docx",
+      "bytes": 38488,
+      "sha256": "77aae2666a492a9fda7b7ba65eabed1c918ca5bbaebce96550aac7ec15e09271",
+      "reproduzierbar_geprueft": true,
+      "renderpruefung": {
+        "pages": 1,
+        "visual_review": "Alle Seiten geprüft; keine Überläufe oder abgeschnittenen Inhalte.",
+        "rendered_pdf_sha256": "cb74dd56a739dd650c8663e47bd2bc19b02036ec21482f5809d0adce529190de"
+      }
+    },
+    {
+      "path": "testakten/startup-gruender-schnittflug-berlin/82_Notar_Datenaufnahme_20260928.docx",
+      "bytes": 38863,
+      "sha256": "9bc88707abd5866905d7d8d155811f276345117cd82bc23c6470fb3ef60c14bb",
+      "reproduzierbar_geprueft": true,
+      "renderpruefung": {
+        "pages": 1,
+        "visual_review": "Alle Seiten geprüft; keine Überläufe oder abgeschnittenen Inhalte.",
+        "rendered_pdf_sha256": "6cc6d1308211e0c87b00bcd093939345255f34246d593eddabeb55a0aa8fd578"
+      }
+    }
+  ]
+}

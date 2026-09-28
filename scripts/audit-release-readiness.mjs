@@ -4,7 +4,7 @@ import path from 'node:path';
 import { promptEnabled, promptKinds, promptFormats, promptProfileErrors } from './prompt-profiles.mjs';
 
 // Dateischutz für eigenständige Downloads; Skill- und Modellbudgets bleiben getrennt.
-const promptLimits = JSON.parse(fs.readFileSync(new URL('./prompt-limits.json', import.meta.url), 'utf8'));
+import { promptLimits, miniWithinLimits } from './prompt-limits.mjs';
 const root = process.cwd();
 const errors = [];
 
@@ -106,7 +106,7 @@ for (const entry of marketplace.plugins) {
   }
   if (fs.existsSync(schnellstart)) {
     const size = fs.statSync(schnellstart).size;
-    assert(size <= promptLimits.mini_max_bytes, `${rel(schnellstart)}: Schnellstart ist größer als 7500 Bytes`);
+    assert(miniWithinLimits(entry.name, fs.readFileSync(schnellstart)), `${rel(schnellstart)}: Schnellstart überschreitet Byte-/Zeichengrenze`);
   }
 
   const readme = path.join(pluginRoot, 'README.md');

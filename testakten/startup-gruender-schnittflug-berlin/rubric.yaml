@@ -1,0 +1,15 @@
+name: Startup Gründer Schnittflug Berlin
+plugin: startup-gruender
+checks:
+- id: r01-readme-vorhanden
+  check_type: file_exists
+  description: README vorhanden
+  path: README.md
+- id: r02-gesamt-pdf-vorhanden
+  check_type: file_exists
+  description: Gesamt-PDF gebaut
+  path: gesamt-pdf/startup-gruender-schnittflug-berlin_gesamt.pdf
+- id: r03-native-arbeitsunterlagen
+  check_type: working_file_count
+  description: Vollständiger nativer Aktenbestand
+  min: 68

@@ -10,7 +10,7 @@ from pathlib import Path
 from prompt_profiles import enabled
 
 from quality_lab import load, validate_profile
-from prompt_limits import MAX_MINI_BYTES
+from prompt_limits import MAX_MINI_BYTES, mini_within_limits
 
 
 REPO = Path(__file__).resolve().parent.parent
@@ -57,8 +57,8 @@ def main() -> int:
             continue
         raw = path.read_bytes()
         text = raw.decode("utf-8")
-        if len(raw) > MAX_BYTES:
-            problems.append(f"{rel}: {len(raw)} Bytes, Grenze ist höchstens {MAX_BYTES}")
+        if not mini_within_limits(slug, raw):
+            problems.append(f"{rel}: außerhalb der konfigurierten Byte-/Zeichengrenze")
         if len(raw) < 2500:
             problems.append(f"{rel}: nur {len(raw)} Bytes, fachlicher Schnellstart zu dünn")
         if not text.startswith("# "):

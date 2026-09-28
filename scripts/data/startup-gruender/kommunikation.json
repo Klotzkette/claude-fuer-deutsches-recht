@@ -1,0 +1,1052 @@
+{
+  "schema_version": 1,
+  "case_slug": "startup-gruender-schnittflug-berlin",
+  "people": {
+    "otti": "Ottilie Kühnle <otti@schnittflug.example>",
+    "ebo": "Eberhard Demir <ebo@schnittflug.example>",
+    "kuni": "Kunigunde Nguyen <kuni@schnittflug.example>",
+    "nepo": "Nepomuk Huber <nepo@schnittflug.example>",
+    "mina": "Wilhelmine Okafor <mina@schnittflug.example>",
+    "lo": "Alois Rossi <lo@schnittflug.example>",
+    "tess": "Thekla Ben-Ami <tess@schnittflug.example>",
+    "team": "Gründungsteam <team@schnittflug.example>",
+    "law": "Dr. Frida Wolfram <frida@wolfram-gesellschaftsrecht.example>",
+    "bank": "Emilia Wanner <emilia.wanner@kontowerk-bank.example>",
+    "notar": "Notariat Rosa von Kleist <aufnahme@notariat-kleist.example>",
+    "invest": "Anneliese Stern <anneliese@wolkenwickel.example>"
+  },
+  "documents": [
+    {
+      "file": "72_Produktnotiz_Drohnenfriseur_20260828.docx",
+      "title": "Drohnenfriseur vom Wunschbild zum ersten Kunden",
+      "author": "Nepomuk Huber und Wilhelmine Okafor",
+      "date": "28. August 2026",
+      "intro": "Wir möchten vor dem nächsten Gespräch festhalten, was wir tatsächlich zeigen können. Unser derzeitiger Aufbau arbeitet auf einem Tisch mit einem Schaumstoffkopf. Der Film für den Gründerabend zeigt weder einen Flug zum Kunden noch einen Haarschnitt an einem Menschen.",
+      "sections": [
+        {
+          "title": "1 Die Besuchsidee",
+          "paragraphs": [
+            "Die Kundin nimmt zu Hause mit der Handykamera eine Rundumansicht ihres Kopfes auf und wählt eine Frisur. Unser Konzept soll daraus einen Vorschlag entwickeln, der vor der Buchung bestätigt wird. Eine Drohne soll anschließend zum Haushalt kommen und mit einem Arbeitsmodul schneiden. Eine aufsetzbare Waschhaube soll Haare waschen und eine Massage ermöglichen. Das ist das Zielbild, kein buchbares Angebot.",
+            "Nepo hält die Frisurenberatung für den Kern. Zwei ähnliche Kopfformen führen nicht zum selben Schnitt, wenn Haarwirbel, empfindliche Haut oder der Alltag der Kundin anders sind. Mina möchte deshalb keine Aussage wie „passt immer“ in der Präsentation. Ebo möchte den Buchungsablauf trotzdem bereits mit freiwilligen Testpersonen durchspielen. Dabei würden ausschließlich bestehende Videos angesehen; körpernahe Arbeiten sollen nicht stattfinden."
+          ]
+        },
+        {
+          "title": "2 Was am Tisch funktioniert",
+          "paragraphs": [
+            "Die Kameraaufnahme von unserem Schaumstoffkopf kann gespeichert und einem Frisurenwunsch zugeordnet werden. Eine Bildschirmgrafik zeigt eine geplante Kontur. Der Waschteil wurde bislang mit kaltem Wasser ohne Person darunter betrachtet. Bei einer Vorführung am 26. August lief Wasser über die Werkbank; die Mehrfachsteckdose wurde danach entfernt. Alois hat den Vorgang in der Werkstattliste notiert.",
+            "Es gibt bislang keinen vollständig autonomen Ablauf. Die Produktpräsentation muss zwischen dem stationären Demonstrator, einer Animation und einem zukünftigen Besuch unterscheiden. Wir haben noch keine behördliche Betriebserlaubnis und keinen Nachweis einer Freigabe für das Schneiden an Menschen erhalten."
+          ]
+        },
+        {
+          "title": "3 Kundengespräche ohne Buchungsversprechen",
+          "paragraphs": [
+            "Thekla hat mit drei Berliner Salons gesprochen. Zwei möchten den Aufwand für Waschen und Föhnen senken; niemand hat einen Vertrag für Drohnenbesuche bestellt. Eine Saloninhaberin sagte wörtlich: „Wenn das Ding meine Lockenkundin erschreckt, darfst du es wieder mitnehmen.“ Das ist ein nützlicher Einwand, kein abgelehnter Pilotvertrag.",
+            "Mina möchte Kopfaufnahmen nur nach einem abgestimmten Ablauf und mit nachvollziehbarer Löschung annehmen. Kunigunde hat bisher lokal gespeicherte Beispielaufnahmen aus dem eigenen Umfeld benutzt. Ob die Zustimmung auch Entwicklung und Präsentation abdeckt, ist nicht dokumentiert. Wir legen vorläufig keine neue Aufnahme in einen gemeinsamen Cloudordner."
+          ]
+        },
+        {
+          "title": "4 Nächste Entscheidung",
+          "paragraphs": [
+            "Wir benötigen zunächst eine Entscheidung über Gesellschaft, Verantwortung und Geld für externe Prüfung. Die Marktfolie enthält 89 EUR pro Besuch als Diskussionspreis. Sie enthält noch keine verlässliche Versicherung, keine Steuern und keinen bewerteten Wartungsaufwand. Nepo möchte für das nächste Treffen eine Kostenrechnung für einen beaufsichtigten stationären Salonversuch sehen. Ebo möchte an der späteren Flugidee festhalten."
+          ]
+        }
+      ]
+    },
+    {
+      "file": "73_Sieben_Gruender_Antworten_20260910.docx",
+      "title": "Sieben Gründer und ihre Zusagen",
+      "author": "Zusammengestellt von Ottilie Kühnle aus Rückmeldungen",
+      "date": "10. September 2026",
+      "intro": "Die folgenden Antworten stammen aus unserem gemeinsamen Formular und den Nachfragen vom 8. September. Niemand hat damit eine Satzung oder eine Beteiligungsquote unterschrieben. Die Nennbeträge entsprechen der Verhandlungstabelle vom 10. September.",
+      "sections": [
+        {
+          "title": "1 Ottilie Kühnle",
+          "paragraphs": [
+            "Ich komme aus Stuttgart und lebe in Berlin. Ich bin deutsche Staatsangehörige. Im Team heißen die meisten Dinge einfach „Otti macht das“; genau das möchte ich vor der Gründung aufschreiben. Ich soll Betrieb und Finanzen verantworten und neben Ebo Geschäftsführerin werden. Für mich stehen 5.250 EUR und 21 Prozent in der Tabelle.",
+            "Ich kann den Betrag aus Erspartem aufbringen. Bisher habe ich nichts auf ein Gründungskonto überwiesen. Ich arbeite derzeit 30 Stunden pro Woche bei einem anderen Unternehmen und möchte dort erst kündigen, wenn Finanzierung und mein Gehalt geklärt sind. Ich brauche feste freie Nachmittage für meine Mutter. Mein Wunschgehalt beträgt 4.200 EUR brutto im Monat ab dem ersten finanzierten Monat. Einen Beginn vor Januar 2027 plane ich derzeit nicht."
+          ]
+        },
+        {
+          "title": "2 Eberhard Demir",
+          "paragraphs": [
+            "Ich bin Berliner, deutsche Staatsangehörigkeit, aufgewachsen in Neukölln. Ebo passt besser als Eberhard auf die Visitenkarte. Ich baue die Robotik auf und soll Geschäftsführer werden. In der neuen Tabelle stehen 5.500 EUR und 22 Prozent. Meine Augustmail enthielt 30 Prozent, weil ich dort noch mit vier Vollzeitgründern gerechnet habe.",
+            "Ich möchte für alltägliche Werkstattkäufe allein unterschreiben können. Das Budget soll aber nicht aus meinem Privatkonto verschwinden. Einen Entwicklungsauftrag über 18.000 EUR würde ich gern im Oktober vergeben. Die Gegenpartei erwartet einen Vertragspartner; ich habe noch keine Bestellung verschickt. Meine bisherige Arbeit beim Robotik-Arbeitgeber ist nicht vollständig von unserem Projekt getrennt dokumentiert."
+          ]
+        },
+        {
+          "title": "3 Kunigunde Nguyen",
+          "paragraphs": [
+            "Ich bin deutsche Staatsangehörige, in Leipzig aufgewachsen und mit Familie in Hanoi verbunden. Ich lebe in Berlin und entwickle Bildverarbeitung und maschinelles Lernen. Die 4.500 EUR beziehungsweise 18 Prozent sind mein aktueller Verhandlungsstand. Ich möchte nicht im ersten Jahr Geschäftsführerin sein.",
+            "Ich habe eigene Abendstunden investiert und das Modell zunächst auf meinem privaten Rechner ausgeführt. Eine frühere studentische Tätigkeit im Labor endete im Frühjahr; die Unterlagen dazu liegen noch in meinem alten Hochschulpostfach. Ich kann bis Jahresende etwa drei Tage pro Woche beitragen. Ob daraus Vollzeit wird, hängt von meinem Lebensunterhalt ab."
+          ]
+        },
+        {
+          "title": "4 Nepomuk Huber",
+          "paragraphs": [
+            "Ich bin Friseurmeister aus Tübingen, deutscher Staatsangehöriger und wohne seit vier Jahren in Berlin. Meine Kunden nennen mich Nepo. Ich bringe fachliche Anwendung und Kontakte zu Salons ein. 3.750 EUR und 15 Prozent sind in der letzten Runde besprochen worden. Einen Nachweis meiner Qualifikation kann ich zur Verfügung stellen; eine Eintragung des neuen Unternehmens habe ich nicht veranlasst.",
+            "Ich betreue dienstags und donnerstags noch Kunden im bisherigen Salon. Ich will nicht als bloßer Namensgeber dienen. Wenn ich für die handwerkliche Seite Verantwortung übernehmen soll, müssen Zeit, Weisungsrechte und Vertretung während meines Urlaubs geklärt werden. Meine Scheren bleiben vorerst mein Eigentum."
+          ],
+          "page_break_before": true
+        },
+        {
+          "title": "5 Wilhelmine Okafor",
+          "paragraphs": [
+            "Ich heiße im Team Mina, komme aus Köln, meine Familie lebt teilweise in Lagos. Ich bin deutsche Staatsangehörige und wohne in Berlin. Produktgestaltung und die Abstimmung zum Datenschutz liegen bei mir. Die Tabelle enthält 2.500 EUR und 10 Prozent. Damit bin ich einverstanden, wenn frühere unbezahlte Designarbeit bei einem späteren Ausscheiden fair berücksichtigt wird.",
+            "Ich möchte keine formelle Datenschutzbeauftragtenrolle allein aufgrund dieser Bezeichnung bekommen. Ich kann Fragen sammeln und Abläufe entwerfen, brauche aber für die Bewertung Unterstützung. Die ersten Bildschirmansichten sind von mir. Zwei verwendete Schriftdateien stammen aus einem privaten Design-Abonnement; deren Weitergabe muss ich noch klären."
+          ]
+        },
+        {
+          "title": "6 Alois Rossi",
+          "paragraphs": [
+            "Ich bin italienischer Staatsangehöriger, komme aus Bozen und lebe in Berlin. Ich werde Lo gerufen. Für Mechatronik und Fertigung stehen 2.000 EUR und 8 Prozent in der Tabelle. Ich möchte die Einlage aus meinem Berliner Privatkonto zahlen und keine Maschinen als Kapitaleinlage versprechen.",
+            "Mein bisheriger Auftraggeber hat mir eine kleine Werkbank zur Nutzung überlassen. Sie gehört mir nicht. Für Schnittflug habe ich davon noch nichts weitergegeben. Ich kann zunächst zwei Tage pro Woche arbeiten. Bei Krankheit möchte ich nicht sofort meine gesamte Beteiligung verlieren. Ein Neuanfang ist aufregend genug, ohne dass ein gebrochener Arm alles beendet."
+          ]
+        },
+        {
+          "title": "7 Thekla Ben Ami",
+          "paragraphs": [
+            "Im Team bin ich Tess; mein Name wird in Dokumenten als Thekla Ben-Ami geschrieben. Ich komme aus Haifa, bin israelische Staatsangehörige und lebe in Berlin. Ich kümmere mich um Vertrieb und Partnerschaften. 1.500 EUR und 6 Prozent stehen in der Tabelle. Ich soll zunächst keine Geschäftsführerin werden.",
+            "Meinen Aufenthaltstitel habe ich nur persönlich gezeigt. Das Zusatzblatt liegt im Umzugskarton; ich werde es nachreichen. Bitte nicht aus meiner Arbeitserlaubnis beim bisherigen Arbeitgeber folgern, dass jede Tätigkeit für das neue Unternehmen bereits geklärt ist. Ein Cousin würde mir 1.500 EUR schenken; ich möchte vor der Überweisung wissen, welche Herkunftsnachweise die Bank dazu braucht."
+          ]
+        }
+      ]
+    },
+    {
+      "file": "74_Gruenderabend_Notizen_20260912.docx",
+      "title": "Notizen vom Gründerabend im Werkraum",
+      "author": "Ottilie Kühnle",
+      "date": "12. September 2026",
+      "intro": "Wir saßen von 18.30 bis 21.10 Uhr am großen Tisch im Werkraum. Anwesend waren alle sieben. Es war kein beurkundeter Termin und keine Gesellschafterversammlung einer bereits gegründeten GmbH. Ich habe die unterschiedlichen Vorstellungen festgehalten, damit wir sie nicht beim nächsten Mal wieder von vorn erzählen.",
+      "sections": [
+        {
+          "title": "1 Name und Gründungsweg",
+          "paragraphs": [
+            "Schnittflug Robotics GmbH soll der Firmenname werden; Drohnenfriseur bleibt die Marke für die Produktidee. Eine Rückmeldung zur Firma liegt noch nicht vor. Ebo würde lieber morgen mit einer günstigen UG anfangen und später „GmbH drüberschreiben“. Nepo findet eine GmbH bei Salongesprächen verständlicher. Wir haben uns auf eine Beratung zu beiden Wegen verständigt, nicht auf eine Beurkundung.",
+            "Ebo brachte ein heruntergeladenes Musterprotokoll mit und sagte, die sieben Namen könne man doch in die leeren Zeilen eintragen. Mina fragte, wo darin ihr Schutz bei Krankheit und Ottis Budgetrecht stehen würden. Wir haben das Formular nicht ausgefüllt."
+          ]
+        },
+        {
+          "title": "2 Geld und Quoten",
+          "paragraphs": [
+            "Die Tabelle vom 10. September mit 25.000 EUR Nennkapital ist die Gesprächsgrundlage. Die Summe ist besprochen, das Gründungskonto noch nicht eröffnet. Ebo erkennt an, dass seine alte Augustmail nicht die heute diskutierte Verteilung enthält. Kuni möchte die Investorenrechnung getrennt sehen: „Ich will wissen, wie viel mir nach einer Runde bleibt, und nicht nur den Wert der Firma.“",
+            "Nepo hat privat Kleinteile bezahlt und möchte die Quittung erstattet bekommen. Otti will diese Auslagen nicht stillschweigend als Stammeinlage behandeln. Wir haben keine Erstattung beschlossen und kein Geld aus einer künftigen Gesellschaft ausgegeben."
+          ]
+        },
+        {
+          "title": "3 Wer darf was entscheiden",
+          "paragraphs": [
+            "Für größere Entscheidungen wurden 75 Prozent genannt. Keiner konnte sagen, ob damit das gesamte Kapital oder nur die im Raum abgegebenen Stimmen gemeint sind. Ebo wäre bei seinem dringenden Einkauf gern allein vertretungsberechtigt. Otti möchte größere Verpflichtungen mitzeichnen. Für Reisebuchungen und laufendes Material soll es eine praktikable Grenze geben.",
+            "Otti meinte, sie könne mit 21 Prozent alles Wesentliche stoppen, wenn 75 Prozent gebraucht würden. Thekla erwiderte: „Rechnet das bitte noch einmal mit allen sieben und mit zwei Abwesenden.“ Das Thema blieb offen. Ein Beirat mit drei Sitzen könnte bei der ersten Finanzierung kommen. Ob er nur berät oder Ausgaben stoppen darf, ist noch nicht entschieden."
+          ],
+          "page_break_before": true
+        },
+        {
+          "title": "4 Bleiben und gehen",
+          "paragraphs": [
+            "Vier Jahre Vesting mit einem Jahr Cliff fanden fünf von uns grundsätzlich vernünftig. Lo fragte, was bei längerer Krankheit passiert. Mina will bereits erstellte Designs nicht so behandeln, als hätte ihre Mitarbeit erst mit dem Notartermin begonnen. Ebo wünscht eine harte Regel, wenn jemand nach drei Monaten zur Konkurrenz geht. Niemand hat einer konkreten Abfindungsformel zugestimmt.",
+            "Wir baten um deutsche und englische Texte, damit internationale Beteiligte und spätere Geldgeber dieselbe Grundlage lesen können. Die deutsche Fassung soll maßgeblich sein. Thekla möchte trotzdem eine gut lesbare englische Fassung und keine Wort-für-Wort-Übersetzung aus dem Wörterbuch."
+          ]
+        },
+        {
+          "title": "5 Aufgaben bis zum Beratungstermin",
+          "paragraphs": [
+            "Otti sammelt Gründerdaten und Bankfragen. Kuni und Ebo klären die Herkunft der Software und früherer Arbeitsergebnisse. Mina sortiert Einwilligungen und Gestaltungslizenzen. Nepo fragt nach den Anforderungen an den handwerklichen Betrieb. Thekla organisiert das Zusatzblatt zum Aufenthaltstitel. Lo prüft, welches Werkzeug tatsächlich uns gehört. Eine gemeinsame Unterschrift unter einen Gründungsvertrag liegt bisher nicht vor."
+          ]
+        }
+      ]
+    },
+    {
+      "file": "75_Bank_KYC_Unterlagenliste_20260918.docx",
+      "title": "Unterlagen für die Prüfung Ihres Gründungsvorhabens",
+      "author": "Emilia Wanner · Firmenkundenservice · Kontowerk Bank",
+      "date": "18. September 2026",
+      "intro": "Sehr geehrte Frau Kühnle, vielen Dank für Ihre Anfrage zur geplanten Schnittflug Robotics GmbH. Wir haben noch kein Konto eröffnet und keine Kontonummer vergeben. Bitte übermitteln Sie uns zunächst die nachfolgend beschriebenen Unterlagen über den gesondert vereinbarten sicheren Zugang.",
+      "sections": [
+        {
+          "title": "1 Personen und Beteiligungen",
+          "paragraphs": [
+            "Wir benötigen eine vollständige Liste der sieben vorgesehenen unmittelbaren Anteilseigner einschließlich Staatsangehörigkeit, Wohnsitz und geplanter Beteiligung. Bitte nennen Sie außerdem Personen, die aufgrund von Stimmrechtsvereinbarungen, Vetorechten oder anderen Absprachen Kontrolle ausüben könnten. Eine Tabelle mit Prozentwerten allein beantwortet diese Frage nicht.",
+            "Die vorgesehenen Geschäftsführer müssen sich gesondert identifizieren. Für die anderen Personen teilen wir nach Prüfung der Beteiligungs- und Kontrollstruktur mit, welche Nachweise erforderlich sind. Bitte senden Sie keine Ausweiskopien unverschlüsselt per E-Mail. In unserem vorliegenden Vorgang befinden sich bisher weder verifizierte Ausweise noch Registerunterlagen."
+          ]
+        },
+        {
+          "title": "2 Gründungsunterlagen und wirtschaftlicher Zweck",
+          "paragraphs": [
+            "Bitte reichen Sie den jeweils aktuellen Satzungsentwurf und gegebenenfalls weitere Vereinbarungen über Stimmen oder Kontrolle ein. Nach einer Beurkundung benötigen wir die entsprechenden Urkunden und die Unterlagen zum weiteren Registerverfahren. Bitte unterscheiden Sie geplante Unterlagen von bereits errichteten Dokumenten.",
+            "Beschreiben Sie das Produkt, den zunächst vorgesehenen tatsächlichen Geschäftsbetrieb, die erwarteten Herkunftsländer von Zahlungen und die geplanten Umsätze. In Ihrer Präsentation wechseln die Begriffe stationärer Demonstrator und autonomer Drohnenbesuch. Für unsere Prüfung benötigen wir eine Beschreibung dessen, was unmittelbar nach der Gründung wirklich stattfinden soll."
+          ]
+        },
+        {
+          "title": "3 Herkunft der Mittel",
+          "paragraphs": [
+            "Bitte erläutern Sie für jeden vorgesehenen Einzahlenden, ob Eigenmittel, Darlehen oder Zuwendungen Dritter eingesetzt werden. Bei einer Zuwendung an Frau Ben-Ami benötigen wir Angaben zur zuwendenden Person, zur Beziehung und zum wirtschaftlichen Hintergrund; der Umfang weiterer Nachweise hängt von unserer Prüfung ab.",
+            "Bitte veranlassen Sie noch keine Überweisung an eine vorläufig genannte fremde oder private Kontoverbindung. Eine Einzahlung auf ein auf die Gründung ausgerichtetes Konto setzt unsere Rückmeldung mit konkreten Zahlungsangaben voraus. Private Werkstattauslagen werden durch diese Anfrage nicht als Einzahlung auf das Stammkapital bestätigt."
+          ]
+        },
+        {
+          "title": "4 Ablauf und Erreichbarkeit",
+          "paragraphs": [
+            "Nach Eingang der vollständigen Unterlagen melden wir uns mit Rückfragen oder dem nächsten Identifizierungsschritt. Diese Nachricht ist keine Kontoeröffnungszusage und enthält keine Bestätigung über eine gesetzliche Registrierung. Für die wirtschaftlich Berechtigten erwarten wir eine begründete Darstellung der Kontrolle, auch wenn keine einzelne Beteiligung oberhalb eines Viertels geplant ist.",
+            "Bitte nennen Sie eine Person, die Änderungen an den Entwürfen bündelt. Eine Änderung von Vertretung, Beteiligung oder Vetorechten während der Prüfung kann zusätzliche Rückfragen auslösen. Sie erreichen mich unter emilia.wanner@kontowerk-bank.example. Mit freundlichen Grüßen, Emilia Wanner."
+          ]
+        }
+      ]
+    },
+    {
+      "file": "76_Werkraum_Nutzungsvertrag_Entwurf_20260905.docx",
+      "title": "Nutzung von Werkraum 4 vor der Gründung",
+      "author": "Flugfeld Werkhöfe · Vertragsangebot an Ottilie Kühnle und Eberhard Demir",
+      "date": "5. September 2026",
+      "intro": "Dieser Vertragsvorschlag betrifft die vorübergehende Nutzung einer Arbeitsfläche durch Ottilie Kühnle und Eberhard Demir persönlich. Die Parteien haben den Entwurf noch nicht unterzeichnet. Eine künftige Schnittflug Robotics GmbH wird dadurch weder als bestehend bezeichnet noch als Vertragspartner eingesetzt.",
+      "sections": [
+        {
+          "title": "1 Raum und Laufzeit",
+          "paragraphs": [
+            "Flugfeld Werkhöfe stellt Ottilie Kühnle und Eberhard Demir gemeinsam Werkraum 4, Am Flugfeld 17, 12099 Berlin, für die Zeit vom 1. Oktober bis zum 31. Dezember 2026 zur Verfügung. Die Nutzung umfasst zwei Arbeitstische und einen abschließbaren Schrank. Die Fläche wird mit anderen Nutzern des Gebäudes erschlossen; ein ausschließlicher Zugang zum Gesamtgebäude wird nicht eingeräumt. Flugfeld Werkhöfe bietet den eigenen Raum als Vermieter an. Die am selben Standort angebotenen Tageswerkplätze und Besprechungsräume der Amboß Werkraum GmbH beruhen auf gesonderten Buchungen bei diesem Anbieter; deren Nutzung ersetzt diesen Vertrag nicht.",
+            "Die Nutzenden dürfen dort Büroarbeit und die Besprechung stationärer Produktmodelle ausführen. Die Nutzung für Flugbetrieb, körpernahe Versuche an Personen, gewerbliche Friseurdienstleistungen oder einen öffentlichen Kundenverkehr ist nicht vereinbart. Eine Erweiterung bedarf einer vorherigen schriftlichen Einigung."
+          ]
+        },
+        {
+          "title": "2 Entgelt und Zugang",
+          "paragraphs": [
+            "Das monatliche Gesamtentgelt beträgt 595 EUR einschließlich der im Angebot kalkulierten Umsatzsteuer. Es ist zum dritten Werktag des jeweiligen Monats nach gesonderter Rechnungsstellung fällig. Eine Kaution in Höhe von 600 EUR ist vor Schlüsselübergabe zu leisten. Ein Zahlungsnachweis liegt bei Erstellung dieses Entwurfs noch nicht vor. Zusätzliche Test- oder Lagerflächen sind in diesem Angebot nicht enthalten und bislang nicht angemietet.",
+            "Die Nutzenden erhalten zwei Schlüssel und dürfen die fünf weiteren namentlich benannten Mitglieder ihres Gründungsteams zu gemeinsamen Terminen mitbringen. Eine dauerhafte Überlassung von Schlüsseln an Dritte oder eine Untervermietung ist nicht gestattet. Aus Sicherheitsgründen muss beim Verlassen die Stromversorgung der Arbeitsmodelle abgeschaltet werden."
+          ]
+        },
+        {
+          "title": "3 Persönliche Bindung und späterer Wechsel",
+          "paragraphs": [
+            "Ottilie Kühnle und Eberhard Demir sollen für das Entgelt gemeinsam einstehen. Sie möchten die Klausel zur persönlichen Einstandspflicht vor Unterzeichnung prüfen lassen. Dieser Entwurf enthält noch keine Erklärung, dass die fünf anderen Teammitglieder Vertragsparteien oder Zahlungsschuldner werden.",
+            "Soll später eine Gesellschaft die Nutzung übernehmen, ist eine gesonderte Vereinbarung mit Flugfeld Werkhöfe erforderlich. Die Übersendung einer Gründungsurkunde allein ersetzt diese Vereinbarung nicht. Eine Entlassung der bisherigen Vertragsparteien muss in der Übernahmevereinbarung ausdrücklich festgehalten werden."
+          ],
+          "page_break_before": true
+        },
+        {
+          "title": "4 Geschäftsanschrift und Post",
+          "paragraphs": [
+            "Die Erlaubnis, die Anschrift als Geschäftsanschrift bei Behörden oder im Register zu verwenden, ist in dem hier angebotenen Entgelt noch nicht enthalten. Flugfeld Werkhöfe kann dazu nach Klärung des Nutzungsumfangs eine ergänzende Vereinbarung anbieten. Eine dauerhafte Postannahme wird bis dahin nicht zugesagt.",
+            "Pakete dürfen nach vorheriger Ankündigung während der Öffnungszeiten abgeholt werden. Gefahrstoffe, größere Akkus und Wasseraufbauten sind vor ihrer Anlieferung mit der Verwaltung abzustimmen. Für einen konkreten Versuch können zusätzliche Vorgaben vereinbart werden."
+          ]
+        },
+        {
+          "title": "5 Ende der Nutzung",
+          "paragraphs": [
+            "Die vereinbarte Nutzung endet am 31. Dezember 2026 ohne automatische Verlängerung. Jede Seite kann mit einer Frist von vier Wochen zum Monatsende vorher kündigen. Das Recht zur außerordentlichen Beendigung aus wichtigem Grund bleibt unberührt. Die Nutzenden geben den Raum geräumt, die Schlüssel vollständig und die Arbeitsflächen besenrein zurück.",
+            "Die Parteien dokumentieren bei Übergabe den Zustand und vorhandene Beschädigungen gemeinsam. Ansprechpartnerin von Flugfeld Werkhöfe ist Hildegard Krause, verwaltung@flugfeld-werkhoefe.example. Eine Unterschrift oder Schlüsselübergabe ist bislang nicht erfolgt."
+          ]
+        }
+      ]
+    },
+    {
+      "file": "77_Wolkenwickel_Seed_Termsheet_20260921.docx",
+      "title": "Diskussionsvorschlag für eine Seed Beteiligung",
+      "author": "Wolkenwickel Ventures GmbH · Anneliese Stern",
+      "date": "21. September 2026",
+      "intro": "Wir können uns eine Beteiligung nach wirksamer Gründung der Schnittflug Robotics GmbH vorstellen. Dieses Papier bündelt unsere wirtschaftlichen Vorstellungen für die nächste Verhandlung. Es ist kein Zeichnungsschein, kein Kapitalerhöhungsbeschluss und keine Zusage einer Auszahlung.",
+      "sections": [
+        {
+          "title": "1 Kapital und Bewertung",
+          "paragraphs": [
+            "Wolkenwickel Ventures GmbH schlägt eine Bareinzahlung von insgesamt 600.000 EUR vor. Bei einem vorherigen Stammkapital von 25.000 EUR sollen neue Geschäftsanteile im Nennbetrag von 5.000 EUR übernommen werden. Von der Einzahlung entfallen danach 595.000 EUR auf das zusätzliche Aufgeld. Die wirtschaftliche Bewertungsannahme beträgt 3.000.000 EUR vor und 3.600.000 EUR nach der Runde.",
+            "Diese Zahlen setzen voraus, dass bis dahin keine weiteren echten Geschäftsanteile ausgegeben werden. Ein virtuelles Beteiligungsprogramm wird gesondert gerechnet. Unser Vorschlag einer wirtschaftlichen Zehn-Prozent-Reserve muss noch mit dem Team abgeglichen werden; er begründet keine zusätzlichen gesetzlichen Stimmen."
+          ]
+        },
+        {
+          "title": "2 Voraussetzungen vor einer Bindung",
+          "paragraphs": [
+            "Vor einer endgültigen Entscheidung möchten wir die beurkundeten Gründungsunterlagen, die wirksame Geschäftsführungsbestellung, die Rechte an der wesentlichen Software und die Abgrenzung zu früheren Arbeitgebern sehen. Die Finanzierung soll nicht davon abhängen, dass bereits ein unbegleiteter Drohnenbesuch bei Privatkunden stattgefunden hat. Wir benötigen jedoch eine nachvollziehbare Planung für Produktprüfung, Versicherung und den rechtlich zulässigen ersten Marktversuch.",
+            "Die Prüfung des Vorhabens ersetzt weder eine behördliche Produktzulassung noch eine rechtliche Freigabe. Das Team soll erforderliche Prüfungen und Kosten in den Finanzplan aufnehmen. Wir erwarten eine Darstellung, welche Verpflichtungen bereits persönlich eingegangen wurden und welche erst später von der Gesellschaft übernommen werden sollen."
+          ]
+        },
+        {
+          "title": "3 Information und Beirat",
+          "paragraphs": [
+            "Wir wünschen monatliche Zahlen über Liquidität, Ausgaben und technische Meilensteine. Ein freiwilliger Beirat mit drei Sitzen soll eingerichtet werden; einen Sitz soll Wolkenwickel benennen können. Nach unserem ersten Vorschlag benötigt das Jahresbudget die Zustimmung des Beirats. Ob daraus ein Vetorecht über einzelne Ausgaben folgen soll, ist noch offen.",
+            "Ottilie hat uns auf ihren Wunsch nach einem persönlichen Budgetrecht aufmerksam gemacht. Wir möchten vermeiden, dass widersprüchliche Zustimmungserfordernisse den laufenden Betrieb blockieren. Die Verteilung zwischen Satzung, Gesellschaftervereinbarung und Geschäftsordnung ist gemeinsam zu entwickeln."
+          ],
+          "page_break_before": true
+        },
+        {
+          "title": "4 Ausscheiden und Veräußerung",
+          "paragraphs": [
+            "Wir schlagen vor, dass Gründerbeteiligungen über 48 Monate an fortdauernde Mitarbeit anknüpfen und eine Anfangszeit von zwölf Monaten berücksichtigt wird. Bereits erbrachte Leistungen, Krankheit, familiäre Auszeiten und die Rechtsfolgen eines Ausscheidens sind ausdrücklich noch zu verhandeln. Eine pauschale Rückübertragung zum Nennwert ist durch dieses Papier nicht vereinbart.",
+            "Wir erwarten übliche Mitverkaufs- und Mitnahmeregeln mit angemessenen Schwellen. Der konkrete Preis, die Behandlung unterschiedlicher Anteilsklassen und das Verhältnis zu etwaigen Liquidationspräferenzen müssen in den Vertragsentwürfen erläutert werden."
+          ]
+        },
+        {
+          "title": "5 Prozess und Geltung",
+          "paragraphs": [
+            "Wir möchten bis zum 12. Oktober einen ersten abgestimmten Gründungsentwurf und danach einen realistischen Zeitplan sehen. Jede Investitionsentscheidung bleibt unserer internen Freigabe und den endgültigen Verträgen vorbehalten. Keine Seite ist verpflichtet, die Runde durchzuführen. Vertraulichkeit und Kosten sollen bei Bedarf gesondert vereinbart werden; dieses Papier schafft dazu keine selbständigen Zahlungspflichten."
+          ]
+        }
+      ]
+    },
+    {
+      "file": "78_Spaetere_Runden_Verhandlungsnotiz_20260924.docx",
+      "title": "Gedanken zu Serie A und einer möglichen Downround",
+      "author": "Thekla Ben-Ami nach Gesprächen mit zwei Kapitalgebern",
+      "date": "24. September 2026",
+      "intro": "Die folgenden Zahlen sollen zeigen, welche Verhandlungen nach einer ersten Seed-Runde entstehen könnten. Niemand hat Anteile gezeichnet oder Geld zugesagt. Die geplante Gründung bleibt unser erster Auftrag; ich möchte spätere Probleme nur nicht vollständig übersehen.",
+      "sections": [
+        {
+          "title": "1 Gedankenspiel einer Serie A",
+          "paragraphs": [
+            "Spree Horizon Capital S.à r.l. hat für eine spätere Modellrechnung eine Zahlung von 2.400.000 EUR genannt. Ausgehend von 30.000 EUR Stammkapital nach dem Seed-Szenario wären neue Nennbeträge von 10.000 EUR und ein Aufgeld von 2.390.000 EUR denkbar. Die Bewertungsannahmen wären 7.200.000 EUR vor und 9.600.000 EUR nach der Runde. Das ist eine Rechengröße, kein heutiger Unternehmenswert.",
+            "Der Ansprechpartner fragte nach einer einfachen englischen Erklärung der Kontrollrechte. Er möchte die deutsche Satzung mit der englischen Gesellschaftervereinbarung abgleichen können. Er hat noch keine Dokumentenprüfung begonnen und keine Bereitschaft zur Übernahme alter privater Verbindlichkeiten erklärt."
+          ]
+        },
+        {
+          "title": "2 Gedankenspiel einer Serie B",
+          "paragraphs": [
+            "Für einen späteren Liquiditätsengpass haben wir eine zweite Variante gerechnet. Scherenwolke Growth Fund GmbH & Co. KG würde darin 1.800.000 EUR gegen 20.000 EUR neue Nennbeträge investieren. Ausgangspunkt wären 40.000 EUR Stammkapital; das Aufgeld betrüge 1.780.000 EUR. Die Bewertungsannahme läge mit 3.600.000 EUR vor der Runde unter der vorangegangenen Serie A.",
+            "Das Team hat diese Variante nicht gebilligt. Kuni möchte bei einer so niedrigen Bewertung ein Bezugsrecht behalten und zumindest anteilig teilnehmen dürfen. Ebo hält dagegen, im Notfall müsse man einen Investor ohne neue Verhandlungen mit allen sieben hineinlassen können. Der Gesprächspartner von Scherenwolke wünscht Planungssicherheit, hat aber keine fertige Ausschlussklausel geschickt."
+          ]
+        },
+        {
+          "title": "3 Was wir unter Bestandsschutz verstehen",
+          "paragraphs": [
+            "Mit „Bestandsschutz“ meinen wir bislang verschiedene Dinge. Mina meint Schutz davor, während einer Krankheit zum kleinen Preis herausgedrängt zu werden. Kuni meint die Möglichkeit, ihre Quote durch Mitzeichnung zu halten. Ebo meint eine Zusage, dass die ursprünglichen Geschäftsführer nicht nach der ersten Runde abgesetzt werden. Diese Wünsche stehen derzeit nebeneinander.",
+            "Ottilie möchte für jede Variante die Zahl der Stimmen sehen. Sie möchte außerdem wissen, ob ihr heute diskutiertes Budgetrecht nach Aufnahme eines Investors fortbestehen würde. Unsere aktuelle Tabelle kann die Verwässerung rechnen; sie beantwortet die Vertragsfrage nicht."
+          ]
+        },
+        {
+          "title": "4 Gesprächsauftrag",
+          "paragraphs": [
+            "Für das nächste Gespräch wünschen wir eine Gegenüberstellung von Bezugsrechten, einem konkret begründeten Ausschluss und freiwilligen Verzichtserklärungen. Dabei soll erkennbar sein, welche Entscheidungen später neu getroffen werden müssen. Bitte formulieren Sie keine pauschale Zustimmung zu jeder künftigen Kapitalmaßnahme in unseren heutigen Gründungsunterlagen."
+          ]
+        }
+      ]
+    },
+    {
+      "file": "79_Ottilie_Taetigkeit_Statusfragebogen_20260925.docx",
+      "title": "Meine vorgesehene Tätigkeit in der Geschäftsführung",
+      "author": "Ottilie Kühnle",
+      "date": "25. September 2026",
+      "intro": "Ich habe die Fragen zur tatsächlichen Arbeit beantwortet, weil die Bezeichnung Mitgründerin meine Situation nicht vollständig beschreibt. Einen Geschäftsführerdienstvertrag habe ich noch nicht unterschrieben. Meine Angaben beziehen sich auf die Planung nach einer Gründung.",
+      "sections": [
+        {
+          "title": "1 Beteiligung und Entscheidungen",
+          "paragraphs": [
+            "Ich soll 21 Prozent beziehungsweise 5.250 EUR am Stammkapital von 25.000 EUR halten. Ich habe weder die Anteile übernommen noch eine Einzahlung vorgenommen. In unserer Besprechung war häufig von einer 75-Prozent-Mehrheit die Rede. Ich hatte daraus geschlossen, dass gegen mich nichts Wichtiges geht. Thekla hat mich darauf hingewiesen, dass diese Rechnung überprüft werden sollte.",
+            "Das Budget über 50.000 EUR soll nach meinem Wunsch meine Zustimmung benötigen. Mir ist dafür bislang nur eine Klausel in der Gesellschaftervereinbarung vorgeschlagen worden. Ein umfassendes persönliches Vetorecht in einer unterschriebenen Satzung gibt es nicht. Bei Ebo könnte ich nicht allein bestimmen, wie er seine Technikaufgaben erledigt."
+          ]
+        },
+        {
+          "title": "2 Alltag und Weisungen",
+          "paragraphs": [
+            "Ich soll Rechnungen freigeben, Personalfragen koordinieren, die Bankbeziehung führen und wöchentlich über Liquidität berichten. Die anderen möchten jeden Montag um 9 Uhr eine gemeinsame Runde. Ich würde meine Tagesarbeit gern selbst organisieren. Für Urlaub wünschen Ebo und ich gegenseitige Abstimmung, damit jemand erreichbar bleibt.",
+            "Das Team soll ein Jahresbudget beschließen. Ob der spätere Beirat mir konkrete Entscheidungen vorschreiben kann, ist noch offen. Ich möchte eine klare Grenze für Materialbestellungen und laufende Verträge. Bisher habe ich für das Projekt keine Mitarbeiter eingestellt und keine Weisungen an Beschäftigte erteilt."
+          ]
+        },
+        {
+          "title": "3 Vergütung und persönliches Risiko",
+          "paragraphs": [
+            "Ich hatte mir 4.200 EUR brutto monatlich gewünscht. Im aktuellen Vertragsentwurf stehen für Ebo und mich jeweils 3.500 EUR brutto ab einem geplanten Tätigkeitsbeginn im Januar 2027. Dem habe ich noch nicht abschließend zugestimmt. Vor diesem Beginn soll keine Vergütung aus diesem Vertrag entstehen. Die Liquiditätsplanung muss ihren Ansatz daher als vorläufig kennzeichnen. Meine private Miete soll nicht davon abhängen, ob ein einzelner Kunde später bezahlt.",
+            "Außer meinem vorgesehenen Kapitalbetrag habe ich kleine Fahrt- und Bürokosten privat getragen. Ich habe keine persönliche Bürgschaft für einen Investor oder eine Bank übernommen. Den Werkraumentwurf soll ich gemeinsam mit Ebo persönlich unterschreiben; das habe ich noch nicht getan."
+          ]
+        },
+        {
+          "title": "4 Andere Tätigkeit und gewünschte Klärung",
+          "paragraphs": [
+            "Bei meinem bisherigen Arbeitgeber arbeite ich derzeit 30 Stunden pro Woche. Eine schriftliche Freigabe der Nebentätigkeit liegt mir nicht vor. Ich habe meinen Vorgesetzten mündlich über eine Gründungsidee informiert; er hat keine Zusage für eine spätere Geschäftsführung erteilt.",
+            "Ich benötige vor einer festen Vergütungsabrede eine Einschätzung zur Sozialversicherung und zum geeigneten Verfahren. Ich möchte keine Abrechnung beginnen und erst später erfahren, dass die gewählte Behandlung unzutreffend war. Einen Bescheid zu meinem Status habe ich weder beantragt noch erhalten."
+          ]
+        }
+      ]
+    },
+    {
+      "file": "80_Software_und_Rechte_Herkunft_20260923.docx",
+      "title": "Herkunft unserer bisherigen Arbeitsergebnisse",
+      "author": "Kunigunde Nguyen und Eberhard Demir",
+      "date": "23. September 2026",
+      "intro": "Wir haben den derzeitigen Stand zusammengestellt, damit niemand die pauschale Aussage „alles gehört Schnittflug“ ungeprüft in einen Vertrag übernimmt. Eine Gesellschaft ist noch nicht beurkundet. Dieses Blatt dokumentiert die Herkunft; es überträgt keine Rechte.",
+      "sections": [
+        {
+          "title": "1 Bildverarbeitung",
+          "paragraphs": [
+            "Kunigunde hat die erste Auswertung auf ihrem privaten Rechner begonnen. Das Verzeichnis kopfscan enthält selbst geschriebenen Programmcode und eingebundene Bibliotheken. Für die Bibliotheken liegt noch keine vollständige Liste mit Lizenzfassungen vor. Die Beispieldaten stammen aus privaten Aufnahmen und einem öffentlich zugänglichen Datensatz; die jeweiligen Nutzungsbedingungen sind noch zu sichern.",
+            "Ein früheres Hochschulprojekt hatte ebenfalls räumliche Erkennung zum Gegenstand. Kunigunde erinnert sich, keinen Quelltext kopiert zu haben. Ihr alter Arbeitsvertrag und die Vereinbarung über das Projekt wurden bislang nicht gemeinsam geprüft. Im privaten Git-Verlauf befinden sich erste Commits vor dem Ende der Hochschultätigkeit."
+          ]
+        },
+        {
+          "title": "2 Robotik und Werkstatt",
+          "paragraphs": [
+            "Eberhard hat einen Teil des Steuerungskonzepts während seines bisherigen Arbeitsverhältnisses entwickelt. Er sagt, die Idee sei ihm auf dem Heimweg gekommen. Zwei frühe Dateien wurden auf einem Arbeitslaptop gespeichert und später privat neu angelegt. Eine Freigabe des Arbeitgebers liegt nicht vor.",
+            "Alois hat eine vorhandene Werkbank und Messgeräte für Gespräche gezeigt. Die Werkbank gehört seinem Auftraggeber. Es gibt keinen Kaufbeleg zugunsten des Teams und keine Erlaubnis, sie auf eine Gesellschaft zu übertragen. Die privat gekauften Kleinteile müssen anhand der einzelnen Belege zugeordnet werden."
+          ]
+        },
+        {
+          "title": "3 Gestaltung und Name",
+          "paragraphs": [
+            "Wilhelmine hat Bildschirmentwürfe für die App selbst gezeichnet. Eine verwendete Schrift stammt aus ihrem privaten Design-Abonnement. Sie prüft, ob Dateien und Nutzungsrechte an ein Unternehmen weitergegeben werden dürfen. Das Logo mit der stilisierten Haartolle ist noch nicht als Marke angemeldet.",
+            "Die Domain schnittflug.example ist die gemeinsame Kontaktadresse im vorliegenden Projektbestand. Ein Nachweis für Rechte an einer extern registrierten Produktdomain liegt dieser Sammlung nicht bei. Den Namen Drohnenfriseur haben wir bei Gesprächen benutzt; eine Kollisionsrecherche haben wir noch nicht abgeschlossen."
+          ]
+        },
+        {
+          "title": "4 Übergabe und offene Nachweise",
+          "paragraphs": [
+            "Für jeden Beitrag möchten wir Urheber, Entstehungszeit, verwendete fremde Bestandteile und bestehende Bindungen nachtragen. Die Übergabe soll später konkret benannte Dateien und die passenden Nutzungsrechte erfassen. Eine Unterschrift unter eine pauschale Erklärung möchten Kunigunde und Eberhard erst leisten, wenn die früheren Bindungen geprüft sind."
+          ]
+        }
+      ]
+    },
+    {
+      "file": "81_Telefonnotiz_Handwerk_Versicherung_20260922.docx",
+      "title": "Rückfragen zum ersten Marktversuch",
+      "author": "Nepomuk Huber",
+      "date": "22. September 2026",
+      "intro": "Ich habe am Vormittag mit einer Ansprechpartnerin für Betriebsgründungen und danach mit unserem Versicherungsmakler gesprochen. Beide Gespräche dienten der Vorbereitung. Es gab weder eine Zulassung noch ein verbindliches Versicherungsangebot.",
+      "sections": [
+        {
+          "title": "1 Was ich zur Tätigkeit gesagt habe",
+          "paragraphs": [
+            "Ich habe zwischen einem stationären Versuchsaufbau und einem späteren mobilen Friseurbesuch unterschieden. Beim Wort Drohne wollte die erste Gesprächspartnerin zunächst wissen, ob tatsächlich geflogen werden soll oder nur ein beweglicher Roboter im Salon gemeint ist. Ich konnte dazu noch keinen Zeitplan nennen.",
+            "Für den handwerklichen Teil wurde nach meiner Qualifikation, meiner tatsächlichen Mitarbeit und der vorgesehenen Betriebsleitung gefragt. Ich habe gesagt, dass ich an zwei Tagen noch im bisherigen Salon arbeite. Eine bloße Angabe meines Namens auf einem Formular soll keine Lösung sein; meine Verfügbarkeit und Verantwortung müssen wir erst intern beschließen."
+          ]
+        },
+        {
+          "title": "2 Fragen des Versicherungsmaklers",
+          "paragraphs": [
+            "Der Makler wollte eine schriftliche Beschreibung des ersten Angebots, der verwendeten Arbeitsmodule und der Aufsicht. Eine allgemeine Betriebshaftpflicht aus seinem Standardangebot könne er nicht ohne Prüfung als passend bestätigen. Insbesondere solle ich nicht im Pitch schreiben, das autonome Schneiden sei schon versichert.",
+            "Für das geplante Waschen und Massieren fragte er nach Wasser, Reinigung und Kontakt mit Personen. Für die Flugidee brauche er weitere Informationen zur Betriebsart und zu den Beteiligten. Ich habe keine technische Betriebsanleitung geschickt und keine Zusage erhalten. Er wartet auf eine abgestimmte Beschreibung des tatsächlichen Startbetriebs."
+          ]
+        },
+        {
+          "title": "3 Was wir vor einer Zusage klären müssen",
+          "paragraphs": [
+            "Thekla möchte Ende Oktober eine Warteliste öffnen. Ich kann mir eine unverbindliche Interessentenliste vorstellen, aber keine vorausbezahlten Hausbesuche mit einem festen Termin. Wir müssen auch sagen können, wer bei einer Reklamation erreichbar ist und wer einen Versuch sofort beendet.",
+            "Bitte nehmt Prüfkosten, eine geeignete Versicherung und meine verfügbare Arbeitszeit in die Gründungsplanung auf. Ich möchte an dem Produkt arbeiten, aber nicht mit meinem Meisterbrief einen Betrieb abdecken, dessen Ablauf ich nicht bestimmen kann."
+          ]
+        }
+      ]
+    },
+    {
+      "file": "82_Notar_Datenaufnahme_20260928.docx",
+      "title": "Datenstand für die angefragte Gründungsbeurkundung",
+      "author": "Ottilie Kühnle an Notariat Rosa von Kleist",
+      "date": "28. September 2026",
+      "intro": "Wir bitten um Vorbereitung der Beratung zur Gründung der Schnittflug Robotics GmbH mit Sitz in Berlin. Den 15. Oktober 2026 haben wir als möglichen Termin angefragt. Eine Terminbestätigung und ein abschließender Entwurf liegen uns noch nicht vor.",
+      "sections": [
+        {
+          "title": "1 Gesellschaft und Anschrift",
+          "paragraphs": [
+            "Geplant ist ein Unternehmen für die Entwicklung robotischer Systeme zur Haarpflege und damit zusammenhängende Dienstleistungen. Der tatsächliche Beginn soll auf Entwicklung und einen stationären Demonstrator beschränkt sein. Eine Produkt- oder Betriebserlaubnis für autonome Hausbesuche können wir nicht vorlegen.",
+            "Als Geschäftsanschrift wurde Werkraum 4, Am Flugfeld 17, 12099 Berlin vorgeschlagen. Der Nutzungsvertrag ist noch nicht unterzeichnet. Der Anbieter hat die Registeranschrift in seinem Entwurf ausdrücklich ausgenommen. Wir bitten deshalb, diese Anschrift noch nicht als abschließend bestätigt zu behandeln."
+          ]
+        },
+        {
+          "title": "2 Personen und Kapital",
+          "paragraphs": [
+            "Sieben natürliche Personen sollen gründen. Die beigefügte Übersicht nennt Ottilie Kühnle mit 5.250 EUR, Eberhard Demir mit 5.500 EUR, Kunigunde Nguyen mit 4.500 EUR, Nepomuk Huber mit 3.750 EUR, Wilhelmine Okafor mit 2.500 EUR, Alois Rossi mit 2.000 EUR und Thekla Ben-Ami mit 1.500 EUR. Das ergibt den Verhandlungsstand von 25.000 EUR.",
+            "Alle sieben leben in Berlin. Alois Rossi ist italienischer Staatsangehöriger; Thekla Ben-Ami ist israelische Staatsangehörige. Die übrigen fünf besitzen die deutsche Staatsangehörigkeit. Identitätsunterlagen sollen gesondert über einen abgestimmten sicheren Weg übermittelt werden. Es wurde noch keine Einzahlung auf ein Gründungskonto geleistet."
+          ]
+        },
+        {
+          "title": "3 Leitung und Abstimmungen",
+          "paragraphs": [
+            "Ottilie Kühnle und Eberhard Demir sind als erste Geschäftsführer vorgesehen. Der Entwurf enthält gemeinschaftliche Vertretung durch zwei Geschäftsführer oder einen Geschäftsführer mit Prokurist. Eberhard wünscht Einzelvertretung für sich. Diese Abweichung ist noch nicht abgestimmt.",
+            "Bei besonderen Beschlüssen haben wir über 75 Prozent gesprochen. Der Bezug auf abgegebene Stimmen oder das gesamte stimmberechtigte Stammkapital ist umstritten. Ottilies gewünschte Zustimmung bei einem Budget über 50.000 EUR steht bislang nur in der Gesellschaftervereinbarung zur Diskussion. Ein freiwilliger Beirat soll frühestens im Zusammenhang mit einer Seed-Finanzierung eingerichtet werden."
+          ]
+        },
+        {
+          "title": "4 Entwürfe und Termin",
+          "paragraphs": [
+            "Wir wünschen eine deutsche Satzung und eine deutsche sowie englische Gesellschaftervereinbarung, wobei die deutsche Fassung maßgeblich sein soll. Die Mitwirkungs- und Ausscheidensregeln sind noch nicht abgestimmt. Alle sieben möchten den Inhalt vor einem Termin verständlich erläutert bekommen.",
+            "Bitte teilen Sie uns mit, welche Daten und Unterlagen für Ihren Entwurf noch fehlen und ob für einzelne Beteiligte sprachliche Unterstützung erforderlich ist. Wir bitten außerdem um einen Kostenrahmen. Diese Anfrage erteilt keine Vollmacht für eine Handelsregisteranmeldung und bestätigt keine bereits erfolgte Beurkundung."
+          ]
+        }
+      ]
+    }
+  ],
+  "mails": [
+    {
+      "file": "01_20260817_Erste_Quoten.eml",
+      "date": "2026-08-17T22:18:00+02:00",
+      "sender": "ebo",
+      "to": "team",
+      "subject": "Die Haartolle fliegt – erste Aufteilung",
+      "body": "Hallo zusammen,\n\nich habe nach dem Essen einmal aufgeschrieben, wie ich die Anteile sehe: Ebo 30, Otti 20, Kuni 20, Nepo 15, Mina 5, Lo 5, Tess 5 Prozent. Das ist mein erster Vorschlag, weil bislang vier von uns mit mehr Zeit rechnen. Bitte noch nicht in eine Investorenfolie kleben.\n\nIch möchte die Sache nicht totbesprechen. Mein Nachbar hat eine UG für kleines Geld gegründet. Können wir nicht erst einmal so anfangen und den Rest nachziehen? Wenn die Drohne bei meiner Tante in Neukölln landen könnte, hätten wir sofort die erste Kundin. Natürlich noch nicht mit dem jetzigen Tischmodell.\n\nOtti, kannst du uns für Samstag einen Raum besorgen? Ich bringe Brezeln mit, damit die Schwaben mitmachen.\nEbo",
+      "reply": null,
+      "attachments": [],
+      "cc": []
+    },
+    {
+      "file": "02_20260818_Designarbeit.eml",
+      "date": "2026-08-18T08:42:00+02:00",
+      "sender": "mina",
+      "to": "ebo",
+      "subject": "Re: Die Haartolle fliegt – erste Aufteilung",
+      "body": "Guten Morgen Ebo,\n\ndie Brezeln sind kein Stimmrecht. Ernsthaft: Ich habe seit Juni die Bedienoberfläche gezeichnet und drei Wochenenden Kundengespräche vorbereitet. Fünf Prozent mit vier Jahren neuer Wartezeit passen für mich nicht. Tess organisiert ebenfalls mehr als gelegentliche Kontakte.\n\nBitte trenne Vollzeit ab nächstem Monat von dem, was schon vorliegt. Wir brauchen auch eine Regel für Krankheit und für Leute mit laufender Arbeit. Ich möchte keinen Vertrag unterschreiben, nach dem ein Ausfall im ersten Winter alles auf null setzt.\n\nUnd bitte nehmt „schneidet garantiert sicher“ aus der Folie. Wir haben einen Schaumstoffkopf auf einer Werkbank.\nMina",
+      "reply": 1,
+      "attachments": [],
+      "cc": [
+        "team"
+      ]
+    },
+    {
+      "file": "03_20260821_Kostenablage.eml",
+      "date": "2026-08-21T17:05:00+02:00",
+      "sender": "otti",
+      "to": "team",
+      "subject": "Konten, Kosten und erst einmal ein Ordner",
+      "body": "Ihr Lieben,\n\nich habe den Ordner „Gründung“ angelegt. Bitte jede Ausgabe mit Beleg und Namen des Zahlenden dort ablegen. Das ist noch keine Erstattungszusage und kein Gesellschaftskonto. Nepo: Der Kassenbon mit dem Kaffeefleck ist lesbar genug, bitte trotzdem das Original aufheben.\n\nFür den Namen habe ich Schnittflug Robotics GmbH notiert. Ob das so geht, müssen wir prüfen lassen. „Drohnenfriseur“ gefällt mir als Produktname, aber auf der Bankanfrage möchte ich kein Wortspiel erklären müssen.\n\nIch kann 5.250 EUR aus Erspartem einbringen, aber nicht allein alle laufenden Rechnungen vorfinanzieren. Bitte bestellt nichts auf „GmbH i.G.“. Wir waren noch bei keinem Notar.\n\nViele Grüße\nOtti",
+      "reply": null,
+      "attachments": [],
+      "cc": []
+    },
+    {
+      "file": "04_20260828_Produktnotiz.eml",
+      "date": "2026-08-28T10:12:00+02:00",
+      "sender": "nepo",
+      "to": "team",
+      "subject": "Produktnotiz – bitte den Anfang vor der Demo lesen",
+      "body": "Grüß euch,\n\nMina und ich haben die Produktnotiz angehängt. Ich habe das Video vom Wasseraufbau nicht geschnitten; man sieht die nasse Werkbank. Das gehört intern dazu. In die Präsentation für Salons darf es nicht so hinein, als wäre das ein fertiger Waschservice.\n\nIch glaube weiter an die Zeitersparnis. Aber Frisieren heißt auch, dass jemand mit einer Strähne unzufrieden ist und eine Person ansprechen können muss. Die App darf nicht einfach „abgeschlossen“ sagen und davonfliegen.\n\nBeim Gründerabend sprechen wir bitte zuerst über den tatsächlichen Startbetrieb. Danach gern über die großen Flügel.\nNepo",
+      "reply": null,
+      "attachments": [
+        "72_Produktnotiz_Drohnenfriseur_20260828.docx"
+      ],
+      "cc": []
+    },
+    {
+      "file": "05_20260902_Hochschulprojekt.eml",
+      "date": "2026-09-02T19:34:00+02:00",
+      "sender": "kuni",
+      "to": "otti",
+      "subject": "Altes Hochschulprojekt und die Bildauswertung",
+      "body": "Liebe Otti,\n\nich habe nach deiner Nachfrage die alten Verzeichnisse angesehen. Mein Hochschulprojekt betraf räumliche Erkennung, aber nicht Haare. Ich erinnere mich nicht, Code kopiert zu haben. Die ersten privaten Commits sind allerdings noch aus der Zeit, als mein Vertrag lief. Ich suche den Vertrag und das Projektblatt.\n\nBitte schreibt nicht in die Satzung oder in eine Zusicherung, dass alle Rechte schon einer neuen Gesellschaft gehören. Die gibt es noch nicht, und meine Erinnerung ersetzt die Unterlagen nicht. Ich kann bis Freitag eine Liste der verwendeten Bibliotheken beginnen.\n\nNebenbei: Der Screenshot in der Folie zeigt einen gespeicherten Durchlauf, keine Live-Erkennung. Bitte so beschriften.\nKuni",
+      "reply": null,
+      "attachments": [],
+      "cc": []
+    },
+    {
+      "file": "06_20260905_Werkraum.eml",
+      "date": "2026-09-05T11:08:00+02:00",
+      "sender": "Hildegard Krause <verwaltung@flugfeld-werkhoefe.example>",
+      "to": "otti",
+      "subject": "Werkraum 4 – Entwurf und Frage zur Post",
+      "body": "Sehr geehrte Frau Kühnle,\n\nanbei der besprochene Vertragsvorschlag für Sie und Herrn Demir persönlich. Eine noch zu gründende Gesellschaft können wir derzeit nicht als Vertragspartner eintragen. Bitte bestätigen Sie, ob die Nutzung auf Büro und stationäre Besprechungsmodelle beschränkt bleibt.\n\nZu den älteren Belegen: Amboß Werkraum GmbH rechnet die gesondert gebuchten Tageswerkplätze und Besprechungsräume am selben Standort ab. Flugfeld Werkhöfe bietet Ihnen dagegen den eigenen Raum als Vermieter an. Aus einer Tagesbuchung folgt weder eine Untervermietungsbefugnis noch ein Recht zur Registeranschrift.\n\nDie Verwendung unserer Anschrift als Registeranschrift ist in diesem Angebot nicht enthalten. Dazu benötigen wir eine gesonderte Vereinbarung, insbesondere wegen Postannahme und Erreichbarkeit. Die automatische Zeile „Geschäftssitz“ in Ihrem Onlineformular habe ich deshalb nicht bestätigt.\n\nSchlüssel können wir nach Unterzeichnung und Kautionszahlung übergeben. Beides steht noch aus.\n\nMit freundlichen Grüßen\nHildegard Krause",
+      "reply": null,
+      "attachments": [
+        "76_Werkraum_Nutzungsvertrag_Entwurf_20260905.docx"
+      ],
+      "cc": []
+    },
+    {
+      "file": "07_20260907_Aufenthalt_und_Mittel.eml",
+      "date": "2026-09-07T07:58:00+02:00",
+      "sender": "tess",
+      "to": "otti",
+      "subject": "Ausweis, Zusatzblatt und mein Beitrag",
+      "body": "Guten Morgen Otti,\n\nmeinen Pass zeige ich gern persönlich oder über den sicheren Weg des Notariats. Bitte nicht in unseren Teamchat laden. Beim Aufenthaltstitel fehlt mir gerade das Zusatzblatt; es liegt vermutlich noch bei den Umzugssachen. Ich darf bei meinem jetzigen Arbeitgeber arbeiten, aber ich weiß nicht, ob das meine neue Rolle vollständig abdeckt.\n\nMein Cousin würde mir die 1.500 EUR für die Einlage schenken. Es soll kein stiller Anteil für ihn sein. Bevor er überweist, möchte ich wissen, welche Unterlagen die Bank braucht. Es ist noch nichts überwiesen.\n\nFür die Texte fände ich Deutsch und Englisch gut. Ich kann beide lesen, aber bei „Einziehung“ möchte ich keine Bedeutungen raten.\nTess",
+      "reply": null,
+      "attachments": [],
+      "cc": []
+    },
+    {
+      "file": "08_20260910_Neue_Quoten.eml",
+      "date": "2026-09-10T20:16:00+02:00",
+      "sender": "otti",
+      "to": "team",
+      "subject": "Neue Quoten nach unserem Gespräch",
+      "body": "Hallo zusammen,\n\nmein aktueller Stand lautet: Ebo 22, Otti 21, Kuni 18, Nepo 15, Mina 10, Lo 8 und Tess 6 Prozent. Bei 25.000 EUR wären das 5.500, 5.250, 4.500, 3.750, 2.500, 2.000 und 1.500 EUR. Ich habe die Reihenfolge hier aus dem Gespräch übernommen, nicht aus einer Rangliste.\n\nDas ersetzt nicht eure Zustimmung zu einem fertigen Vertrag. Bitte sagt bis Samstag, wenn ich etwas falsch verstanden habe. Ebo: Deine Augustmail liegt weiter im Ordner, damit wir den Verlauf nachvollziehen können. Sie ist nicht mehr mein Tabellenstand.\n\nIn meiner frühen Notiz steht noch „21 Prozent bleiben 21 Prozent“. Ich meinte damit Schutz bei späteren Runden. Bitte erklärt mir an den Zahlen, ob das überhaupt die passende Vorstellung ist.\n\nDen virtuellen Mitarbeiterpool habe ich noch nicht als echte Anteile hineingerechnet. Sonst reden wir wieder aneinander vorbei.\nOtti",
+      "reply": 1,
+      "attachments": [],
+      "cc": []
+    },
+    {
+      "file": "09_20260911_Musterprotokoll.eml",
+      "date": "2026-09-11T23:09:00+02:00",
+      "sender": "ebo",
+      "to": "team",
+      "subject": "Musterprotokoll spart doch den halben Aufwand?",
+      "body": "Hallo Leute,\n\nich habe mir ein Musterprotokoll angeschaut. Da müsste man doch einfach unsere sieben Namen und Beträge eintragen können. Warum ein eigener Roman, bevor wir das erste Produkt verkauft haben?\n\nBei den Beschlüssen nehmen wir 75 Prozent für alles Wichtige, dann ist niemand überfahren. Otti hat 21 Prozent und damit nach meinem Gefühl schon eine Sperre. Die alltäglichen Sachen möchte ich allein unterschreiben dürfen, vor allem für Werkstatt und Entwicklungsaufträge.\n\nIch weiß, ihr wollt das prüfen lassen. Bitte aber mit einem Entwurf zurückkommen, den wir tatsächlich lesen können.\nEbo",
+      "reply": null,
+      "attachments": [],
+      "cc": []
+    },
+    {
+      "file": "10_20260913_Krankheit.eml",
+      "date": "2026-09-13T09:21:00+02:00",
+      "sender": "lo",
+      "to": "team",
+      "subject": "Nach gestern – Krankheit ist für mich keine Konkurrenz",
+      "body": "Guten Morgen,\n\nich habe noch einmal über die vier Jahre nachgedacht. Wenn jemand einfach verschwindet, verstehe ich eure Sorge. Aber ein gebrochener Arm darf bei mir nicht dieselbe Folge haben wie die Mitnahme von Plänen zu einem Wettbewerber. Auch das erste Jahr kann im Leben anders laufen als im Kalender.\n\nMeine Werkbank gehört übrigens meinem Auftraggeber. Ich kann sie nicht als meine Einlage einbringen. Für den Anfang kann ich Werkzeug mitbringen, soweit das erlaubt ist; bitte daraus keinen Eigentumsübergang machen.\n\nUnd Nepo, die Brezeln waren gut. In Tübingen diskutiert man wahrscheinlich auch erst nach der dritten.\nLo",
+      "reply": null,
+      "attachments": [],
+      "cc": []
+    },
+    {
+      "file": "11_20260914_Anwaltsauftrag.eml",
+      "date": "2026-09-14T12:03:00+02:00",
+      "sender": "otti",
+      "to": "law",
+      "subject": "Gründung Schnittflug – wir brauchen einen ersten belastbaren Entwurf",
+      "body": "Sehr geehrte Frau Dr. Wolfram,\n\nwir möchten mit sieben Personen in Berlin gründen. Zur Diskussion stehen UG und GmbH; aktuell rechnen wir mit 25.000 EUR Kapital. Unser Produkt soll irgendwann eine KI-gestützte Friseurdrohne sein. Tatsächlich haben wir erst einen stationären Demonstrator.\n\nWir benötigen zügig einen lesbaren Satzungsentwurf und eine Gesellschaftervereinbarung, möglichst auch auf Englisch. Bitte helfen Sie uns, die wirklich entscheidenden Fragen vorab zu beantworten. Wir verlieren uns gerade zwischen Musterprotokoll, Beirat und drei künftigen Finanzierungsrunden.\n\nVorgesehen sind Eberhard Demir und ich als Geschäftsführer. Ich soll 21 Prozent halten. Mich beschäftigt auch, wie meine spätere Tätigkeit sozialversicherungsrechtlich behandelt werden müsste. Es ist nichts beurkundet und kein Kapital eingezahlt.\n\nMit freundlichen Grüßen\nOttilie Kühnle",
+      "reply": null,
+      "attachments": [],
+      "cc": []
+    },
+    {
+      "file": "12_20260916_Kontoanfrage.eml",
+      "date": "2026-09-16T16:31:00+02:00",
+      "sender": "otti",
+      "to": "bank",
+      "subject": "Konto für geplante Gründung – sieben natürliche Personen",
+      "body": "Sehr geehrte Frau Wanner,\n\nwir planen die Schnittflug Robotics GmbH mit sieben natürlichen Personen, sämtlich in Berlin wohnhaft. Die größte geplante Quote beträgt 22 Prozent. Ich hatte deshalb zunächst „keine wirtschaftlich berechtigte Person“ in mein Notizfeld geschrieben; bitte sagen Sie mir, welche weiteren Angaben Sie tatsächlich benötigen.\n\nWir besprechen besondere Mehrheiten, ein persönliches Budgetrecht und später einen Beirat. Es gibt noch keine abschließenden Verträge. Zwei Personen sollen Geschäftsführer werden. Eine Gründerin möchte ihre Einlage aus einer familiären Zuwendung finanzieren.\n\nKönnen wir das Konto vorbereiten, bevor der Notartermin bestätigt ist? Bitte senden Sie uns keine Zahlungsaufforderung auf ein Privatkonto.\n\nFreundliche Grüße\nOttilie Kühnle",
+      "reply": null,
+      "attachments": [],
+      "cc": []
+    },
+    {
+      "file": "13_20260918_KYC_Antwort.eml",
+      "date": "2026-09-18T09:06:00+02:00",
+      "sender": "bank",
+      "to": "otti",
+      "subject": "Re: Konto für geplante Gründung – Unterlagen und Kontrollstruktur",
+      "body": "Sehr geehrte Frau Kühnle,\n\nvielen Dank. Die Unterlagenliste ist beigefügt. Bitte betrachten Sie die Beteiligungsprozente und etwaige Kontrolle aufgrund anderer Absprachen gemeinsam. Wir prüfen den konkreten Sachverhalt und werden erforderlichenfalls nachfragen.\n\nEin Konto ist bislang nicht eröffnet. Bitte übermitteln Sie Identitätsunterlagen ausschließlich über den gesondert abgestimmten sicheren Weg. Ihre normale E-Mail-Antwort kann zunächst die geplanten Funktionen und den Stand der Verträge beschreiben.\n\nFür die Herkunft der 1.500 EUR benötigen wir erst eine nachvollziehbare Darstellung. Bitte veranlassen Sie noch keine Zahlung, bis der Eröffnungsablauf geklärt ist.\n\nMit freundlichen Grüßen\nEmilia Wanner",
+      "reply": 12,
+      "attachments": [
+        "75_Bank_KYC_Unterlagenliste_20260918.docx"
+      ],
+      "cc": []
+    },
+    {
+      "file": "14_20260919_Entwicklungsauftrag.eml",
+      "date": "2026-09-19T14:14:00+02:00",
+      "sender": "ebo",
+      "to": "otti",
+      "subject": "Angebot Entwicklungsauftrag – wer unterschreibt eigentlich?",
+      "body": "Otti,\n\nder Anbieter für die Gehäuseentwicklung möchte wissen, wer sein Vertragspartner wird. Ich hatte am Telefon „Schnittflug“ gesagt, aber keinen Vertrag geschickt. Der Auftrag läge bei 18.000 EUR. Kannst du bis Montag sagen, ob wir dafür beide persönlich unterschreiben müssten? Ich möchte das nicht aus Versehen allein am Hals haben.\n\nDie Einzelvertretung hätte ich später trotzdem gern. Wenn jede Bestellung zwei Unterschriften braucht, stehen wir ständig. Wir könnten doch intern 10.000 EUR als Grenze nehmen? Ob das im Verhältnis zum Anbieter funktioniert, weiß ich nicht.\n\nIch habe seine Reservierung noch nicht bestätigt. Bitte nicht als bestehende Bestellung in die Kostenliste übernehmen.\nEbo",
+      "reply": null,
+      "attachments": [],
+      "cc": []
+    },
+    {
+      "file": "15_20260921_Seed_Eckpunkte.eml",
+      "date": "2026-09-21T10:27:00+02:00",
+      "sender": "invest",
+      "to": "otti",
+      "subject": "Schnittflug – erste Eckpunkte für eine mögliche Seed-Runde",
+      "body": "Liebe Frau Kühnle,\n\nwie besprochen übersende ich unsere Diskussionsfassung. 600.000 EUR gegen 5.000 EUR neue Nennbeträge wäre ein Ausgangspunkt nach der Gründung, bei dann 30.000 EUR Stammkapital. Die Zahl setzt die gemeinsam besprochenen Bewertungsannahmen voraus.\n\nWir würden gern einen Sitz in einem dreiköpfigen Beirat besetzen. Ob dieser nur berät oder dem Jahresbudget zustimmen muss, sollten wir mit den Gründerinteressen zusammen betrachten. Ich möchte ungern drei unterschiedliche Stellen für dieselbe Freigabe haben.\n\nDies ist keine Investitionszusage. Die Rechte an der Software und der tatsächliche Startbetrieb sind für uns wesentliche Fragen. Bitte schicken Sie uns keine ungesicherten Kundenvideos zur Demonstration.\n\nBeste Grüße\nAnneliese Stern",
+      "reply": null,
+      "attachments": [
+        "77_Wolkenwickel_Seed_Termsheet_20260921.docx"
+      ],
+      "cc": []
+    },
+    {
+      "file": "16_20260921_Beirat.eml",
+      "date": "2026-09-21T18:46:00+02:00",
+      "sender": "mina",
+      "to": "team",
+      "subject": "Beirat ja, aber bitte nicht mit jeder Materialrechnung dorthin",
+      "body": "Hallo zusammen,\n\nich finde einen fachlichen Beirat sinnvoll. Nepo könnte jemanden mit echter Erfahrung im Salonbetrieb vorschlagen. Ein Investorensitz ist verständlich. Ich möchte nur wissen, ob wir dann bei jeder Änderung der App erst eine dritte Sitzung brauchen.\n\nOtti soll beim großen Budget mitreden können. Das ist etwas anderes als ein Vetorecht über jede Entscheidung. Bitte lasst uns die Ebenen auseinanderhalten, sonst steht in der Satzung etwas, im SHA etwas anderes und im Alltag macht Ebo trotzdem alles per Sprachnachricht.\n\nDie 75 Prozent sind ebenfalls nicht fertig. „Von allen“ und „von denen, die abgestimmt haben“ ist nicht dasselbe.\nMina",
+      "reply": 15,
+      "attachments": [],
+      "cc": []
+    },
+    {
+      "file": "17_20260922_Handwerk_Versicherung.eml",
+      "date": "2026-09-22T13:42:00+02:00",
+      "sender": "nepo",
+      "to": "team",
+      "subject": "Handwerk und Versicherung – noch keine grüne Ampel",
+      "body": "Servus,\n\nich habe die beiden Telefonate notiert. Es gibt noch keine Eintragung für unser neues Unternehmen und keine Deckungsbestätigung für die Produktidee. Ich soll zunächst beschreiben, was wir wirklich anbieten werden.\n\nDer Makler hat mehrfach gefragt, ob die Kundin allein zu Hause ist und ob das Gerät fliegt. Ich habe keine Antwort erfunden. Mein Meisterbrief ist kein Ersatz für ein sauberes Betriebskonzept. Wenn ich verantwortlich mitwirken soll, müssen meine Zeit und meine Möglichkeiten dazu passen.\n\nTess: Eine Interessentenliste kann ich mir vorstellen. Bitte noch keine 89-EUR-Hausbesuche mit festem Termin verkaufen.\nNepo",
+      "reply": null,
+      "attachments": [],
+      "cc": []
+    },
+    {
+      "file": "18_20260923_IP_Unterlagen.eml",
+      "date": "2026-09-23T08:17:00+02:00",
+      "sender": "kuni",
+      "to": "team",
+      "subject": "IP-Liste – zwei frühere Verträge fehlen noch",
+      "body": "Hallo,\n\ndie Herkunftsliste liegt im Ordner. Mein alter Hochschulvertrag fehlt noch, bei Ebo die vollständige Anlage zu seinem Arbeitsvertrag. Es wäre gut, wenn jeder seine eigenen Unterlagen besorgt und wir nicht auf „war bestimmt privat“ vertrauen.\n\nIch habe beim Modell die verwendeten Bibliotheken notiert, aber noch nicht jede Lizenzfassung gesichert. Die Aufnahme von Minas Freundin muss bis zur Klärung draußen bleiben; wir wissen nicht, ob sie nur den Frisurentest oder auch unsere Investorendemo erlaubt hat.\n\nBitte formuliert eine spätere Rechteübertragung so, dass ich erkennen kann, was ich tatsächlich zusage. Eine Garantie für alles auf meinem Rechner werde ich nicht abgeben.\nKuni",
+      "reply": 5,
+      "attachments": [],
+      "cc": []
+    },
+    {
+      "file": "19_20260924_Spaetere_Runden.eml",
+      "date": "2026-09-24T12:51:00+02:00",
+      "sender": "tess",
+      "to": "team",
+      "subject": "Serie A und der unangenehme Fall danach",
+      "body": "Hallo zusammen,\n\nich habe die späteren Rechenvarianten notiert. Serie A wären in unserem Modell 2,4 Mio. EUR gegen 10.000 EUR neue Nennbeträge nach dem Seed. Der zweite Gesprächspartner hat für eine spätere schwierigere Runde 1,8 Mio. EUR gegen 20.000 EUR genannt. Das sind keine Angebote, die wir heute annehmen könnten.\n\nKuni fragt zu Recht nach Mitzeichnung und Verwässerung. Ebo möchte in einer Krise schnell handeln können. Bitte schreibt nicht einfach „alle verzichten für immer auf Bezugsrechte“ in die jetzige Vereinbarung. Ich habe niemandem einen solchen Verzicht versprochen.\n\nIch möchte zuerst gründen, aber den Begriff Bestandsschutz einmal übersetzen: Wer soll eigentlich wovor geschützt sein?\nTess",
+      "reply": null,
+      "attachments": [],
+      "cc": []
+    },
+    {
+      "file": "20_20260924_Bezugsrecht.eml",
+      "date": "2026-09-24T21:22:00+02:00",
+      "sender": "kuni",
+      "to": "tess",
+      "subject": "Re: Serie A und der unangenehme Fall danach",
+      "body": "Liebe Tess,\n\ngenau das ist mein Punkt. Ich weiß nicht, ob ich später viel Geld nachlegen kann. Trotzdem möchte ich sehen, was mir angeboten wird und warum man mich ausschließen will. Wenn der neue Investor einfach die Hälfte zum Krisenpreis bekommt, ist mein heutiger Prozentwert wenig wert.\n\nIch verlange keine unveränderliche Quote für alle Zeiten. Ich will einen nachvollziehbaren Ablauf, Unterlagen und eine echte Entscheidung. Die alten Gründer dürfen dabei auch nicht so tun, als seien alle anderen bloß ein Hindernis.\n\nBitte rechne den virtuellen Pool separat. In der letzten Folie sah es so aus, als hätte der Pool bereits eigene Stimmen.\nKuni",
+      "reply": 19,
+      "attachments": [],
+      "cc": [
+        "team"
+      ]
+    },
+    {
+      "file": "21_20260925_Ottilie_Status.eml",
+      "date": "2026-09-25T07:49:00+02:00",
+      "sender": "otti",
+      "to": "law",
+      "subject": "Meine 21 Prozent und der geplante Dienstvertrag",
+      "body": "Sehr geehrte Frau Dr. Wolfram,\n\nich habe die Fragen zu meiner Tätigkeit schriftlich beantwortet. Ich soll 21 Prozent halten und neben Herrn Demir Geschäftsführerin sein. Unterschrieben ist kein Dienstvertrag, und eine Gehaltsabrechnung gibt es noch nicht. Der aktuelle Entwurf nennt jeweils 3.500 EUR für Herrn Demir und mich ab Januar 2027; mein ursprünglicher Wunsch war höher. Das müssen wir noch abstimmen.\n\nIm Team wurde gesagt, dass 75-Prozent-Beschlüsse mich automatisch absichern. Ich bin mir nach erneutem Rechnen nicht mehr sicher. Mein persönliches Budgetrecht steht bisher nur im Entwurf einer Gesellschaftervereinbarung. Ich möchte die Sozialversicherungsfrage anhand der tatsächlichen Rechte klären lassen.\n\nBei meinem bisherigen Arbeitgeber bin ich noch mit 30 Wochenstunden beschäftigt. Eine schriftliche Freigabe der neuen Tätigkeit habe ich nicht. Bitte sagen Sie mir auch, welche weiteren Angaben für eine sinnvolle Statusklärung fehlen.\n\nMit freundlichen Grüßen\nOttilie Kühnle",
+      "reply": 11,
+      "attachments": [],
+      "cc": []
+    },
+    {
+      "file": "22_20260926_Notartermin.eml",
+      "date": "2026-09-26T15:38:00+02:00",
+      "sender": "notar",
+      "to": "otti",
+      "subject": "Ihre Terminanfrage für den 15. Oktober",
+      "body": "Sehr geehrte Frau Kühnle,\n\nwir haben Ihre Anfrage vorgemerkt. Der 15. Oktober ist noch nicht verbindlich bestätigt. Bitte übersenden Sie zunächst den abgestimmten Datenstand und benennen Sie die Punkte, zu denen die Gründer unterschiedliche Vorstellungen haben.\n\nBitte unterscheiden Sie die geplante Geschäftsanschrift von einer bereits gestatteten Registeranschrift. Für die sieben Beteiligten stimmen wir die sichere Übermittlung der Identitätsangaben gesondert ab. Teilen Sie uns mit, in welchen Sprachen die Beteiligten den Inhalt sicher verstehen.\n\nEin Entwurf kann erst nach Klärung der erforderlichen Angaben fertiggestellt werden. Mit dieser E-Mail ist keine Beurkundung erfolgt und keine Registeranmeldung veranlasst.\n\nMit freundlichen Grüßen\nFrieda Lenz\nNotariat Rosa von Kleist",
+      "reply": null,
+      "attachments": [],
+      "cc": []
+    },
+    {
+      "file": "23_20260927_Englisch_und_Zusatzblatt.eml",
+      "date": "2026-09-27T18:03:00+02:00",
+      "sender": "tess",
+      "to": "team",
+      "subject": "Englisch, Zusatzblatt und der Name",
+      "body": "Guten Abend,\n\nich habe das Zusatzblatt noch nicht gefunden. Morgen frage ich nach einer Ersatzkopie. Bitte behandelt das Thema weiter als offen und plant mich nicht ohne Rückfrage als Geschäftsführerin ein; das war ohnehin nicht unser Vorschlag.\n\nDie englische Gesellschaftervereinbarung möchte ich gern neben die deutsche legen. Bei vesting, leaver und pre-emption rights müssen wir denselben Inhalt meinen. Dass Deutsch maßgeblich sein soll, finde ich okay. Dann muss die Erklärung aber vor der Unterschrift stimmen.\n\nUnd eine kleine Bitte: In den Dokumenten heißt es Thekla Ben-Ami, mit Bindestrich. „Tess“ ist für unseren Chat.\nTess",
+      "reply": 7,
+      "attachments": [],
+      "cc": []
+    },
+    {
+      "file": "24_20260928_Entwurfsauftrag.eml",
+      "date": "2026-09-28T09:18:00+02:00",
+      "sender": "otti",
+      "to": "law",
+      "subject": "Stand heute – bitte jetzt zum ersten Entwurf",
+      "body": "Sehr geehrte Frau Dr. Wolfram,\n\nanbei in unserem gemeinsamen Ordner der aktuelle Datenstand. Wir möchten jetzt den ersten belastbaren Satzungsentwurf und eine abgestimmte Gesellschaftervereinbarung in deutscher und englischer Fassung. Die offenen Punkte sollen bitte sichtbar bleiben, damit wir dazu gezielt entscheiden können.\n\nHeute gilt: sieben Gründer, 25.000 EUR nur geplant, keine Einzahlung, kein bestätigter Notartermin. Otti und Ebo sind vorgesehen, aber noch nicht zu Geschäftsführern einer GmbH bestellt. Die alte Quotenmail ist überholt; die neue Tabelle ist unser Verhandlungsstand. Die Anschrift und die IP-Unterlagen sind nicht abschließend geklärt.\n\nDie Raumplanung habe ich außerdem aufgeschlüsselt: 1.428 EUR pro Monat bedeuten 595 EUR für den angebotenen Raum und 833 EUR Reserve für zusätzliche Test- oder Lagerfläche und Nebenkosten. Diese Zusatzfläche ist bisher nicht angemietet. Die Kaution von 600 EUR muss im Oktober einmalig daneben stehen; auch das ist nur eine Planannahme für den Fall der Unterzeichnung. Die bisherigen Tagesbelege von Amboß und der Raumvorschlag von Flugfeld Werkhöfe dürfen nicht als ein schon laufender Gesellschaftsmietvertrag zusammengezogen werden.\n\nBitte beginnen Sie mit den Dokumenten, die daraus bereits sinnvoll vorbereitet werden können. Für die fehlenden Entscheidungen organisieren wir einen gemeinsamen Termin. Es muss kein zweistündiger Vortrag werden; wir möchten verstehen, worüber wir abstimmen und was danach tatsächlich zu erledigen ist.\n\nMit freundlichen Grüßen\nOttilie Kühnle",
+      "reply": 11,
+      "attachments": [],
+      "cc": []
+    }
+  ],
+  "chats": [
+    {
+      "file": "25_Chat_Gruendung_20260912.txt",
+      "title": "Gruppe Gründung ohne Gedöns",
+      "date": "Export am 12.09.2026 um 22:06",
+      "messages": [
+        [
+          "12.09.2026 17:51",
+          "Ebo",
+          "Bin im Werkraum. Hat jemand den Beameradapter?"
+        ],
+        [
+          "12.09.2026 17:53",
+          "Mina",
+          "Lo hat ihn. Bitte noch keine Folie mit „zugelassen“ zeigen."
+        ],
+        [
+          "12.09.2026 17:54",
+          "Lo",
+          "Adapter ja. Zulassung nein."
+        ],
+        [
+          "12.09.2026 18:02",
+          "Otti",
+          "Die Quotenliste ist jetzt 22/21/18/15/10/8/6. Die Mail vom August bleibt im Archiv."
+        ],
+        [
+          "12.09.2026 18:05",
+          "Nepo",
+          "Und die 15 sind kein Preis für meinen Meisterbrief. Wir müssen über meine tatsächliche Arbeit reden."
+        ],
+        [
+          "12.09.2026 20:41",
+          "Otti",
+          "Bei 75 Prozent kann ich mit meinen 21 doch immer stoppen, oder?"
+        ],
+        [
+          "12.09.2026 20:42",
+          "Tess",
+          "Warte. 100 minus 21 ist 79. Und wenn nicht alle abstimmen?"
+        ],
+        [
+          "12.09.2026 20:44",
+          "Otti",
+          "Stimmt. Bitte als Frage an Frida, nicht als fertige Regel."
+        ],
+        [
+          "12.09.2026 20:46",
+          "Ebo",
+          "Trotzdem für große Sachen 75. Ich will nur nicht jedes Kabel abstimmen."
+        ],
+        [
+          "12.09.2026 21:18",
+          "Kuni",
+          "Meine Zustimmung zum heutigen Zahlenblatt ist keine Zustimmung zu jeder Leaver-Klausel."
+        ],
+        [
+          "12.09.2026 21:23",
+          "Lo",
+          "Gilt bei mir auch. Krankheit bitte vernünftig regeln."
+        ],
+        [
+          "12.09.2026 21:25",
+          "Mina",
+          "Danke. Ich stelle morgen die Designliste zusammen."
+        ]
+      ]
+    },
+    {
+      "file": "26_Chat_Produkt_20260922.txt",
+      "title": "Gruppe Schnittflug Produkt",
+      "date": "Export am 22.09.2026 um 19:15",
+      "messages": [
+        [
+          "21.09.2026 08:12",
+          "Tess",
+          "Salon Süd würde sich einen Termin Ende Oktober ansehen. Darf ich „Pilotkunde“ schreiben?"
+        ],
+        [
+          "21.09.2026 08:14",
+          "Nepo",
+          "Interesse, ja. Kein zugesagter Haarschnitt. Bitte keine Anzahlung."
+        ],
+        [
+          "21.09.2026 08:16",
+          "Ebo",
+          "Wir könnten wenigstens die App live zeigen."
+        ],
+        [
+          "21.09.2026 08:18",
+          "Kuni",
+          "Die Grafik läuft. Das Video in der Folie ist gespeichert, nicht live."
+        ],
+        [
+          "21.09.2026 08:23",
+          "Mina",
+          "Ich entferne Minas Freundin aus dem Vorführordner, bis ihre Freigabe geklärt ist."
+        ],
+        [
+          "22.09.2026 11:04",
+          "Nepo",
+          "Versicherung fragt: Fliegt es? Wer beaufsichtigt? Wer trägt Verantwortung? Ich habe noch keine Zusage."
+        ],
+        [
+          "22.09.2026 11:07",
+          "Ebo",
+          "Start also stationär. Die Flugidee streichen wir langfristig nicht."
+        ],
+        [
+          "22.09.2026 11:08",
+          "Lo",
+          "Stationär heißt nicht automatisch fertig. Wasseraufbau bleibt vom Strom getrennt, bis geprüft."
+        ],
+        [
+          "22.09.2026 11:12",
+          "Otti",
+          "Ich brauche einen Prüfkostenposten. „Wird schon“ kann ich nicht in Excel schreiben."
+        ],
+        [
+          "22.09.2026 18:39",
+          "Tess",
+          "Salon bekommt eine Einladung zum Gespräch, kein Angebot für einen Hausbesuch."
+        ],
+        [
+          "22.09.2026 18:43",
+          "Nepo",
+          "So passt es. Und bringt bitte Handtücher zurück, die waren aus meinem Salon."
+        ]
+      ]
+    },
+    {
+      "file": "27_Chat_Finanzierung_20260924.txt",
+      "title": "Gruppe Zahlen und schlechte Laune",
+      "date": "Export am 24.09.2026 um 22:24",
+      "messages": [
+        [
+          "24.09.2026 20:02",
+          "Tess",
+          "Serie B ist nur ein Stressszenario. Noch gibt es nicht einmal die GmbH."
+        ],
+        [
+          "24.09.2026 20:04",
+          "Kuni",
+          "Trotzdem: 20.000 neue Nennbeträge auf 40.000 alte sind viel."
+        ],
+        [
+          "24.09.2026 20:05",
+          "Ebo",
+          "Wenn ohne Geld Schluss ist, muss es schnell gehen. Nicht sieben Einzelverhandlungen."
+        ],
+        [
+          "24.09.2026 20:08",
+          "Mina",
+          "Schnell ist nicht dasselbe wie vorher pauschal alles erlauben."
+        ],
+        [
+          "24.09.2026 20:09",
+          "Otti",
+          "Kann jemand „Bestandsschutz“ ohne das Wort Bestandsschutz erklären?"
+        ],
+        [
+          "24.09.2026 20:10",
+          "Kuni",
+          "Für mich: Unterlagen sehen und anteilig mitzeichnen dürfen, soweit möglich."
+        ],
+        [
+          "24.09.2026 20:12",
+          "Ebo",
+          "Für mich: Nicht nach dem ersten Investor aus dem eigenen Laden fliegen."
+        ],
+        [
+          "24.09.2026 20:14",
+          "Lo",
+          "Für mich: Krankheit nicht als schlechter Ausstieg."
+        ],
+        [
+          "24.09.2026 20:17",
+          "Otti",
+          "Meine alte Notiz „21 Prozent bleiben 21 Prozent“ war offenbar eher ein Wunsch. Bitte die spätere Quote daneben zeigen."
+        ],
+        [
+          "24.09.2026 20:16",
+          "Tess",
+          "Drei verschiedene Themen. Ich schreibe sie getrennt auf."
+        ],
+        [
+          "24.09.2026 20:19",
+          "Otti",
+          "Und die virtuellen zehn Prozent bitte nicht in die echten Stimmen addieren."
+        ],
+        [
+          "24.09.2026 21:07",
+          "Nepo",
+          "Kann mir morgen jemand die Tabelle am großen Bildschirm zeigen? Auf dem Handy sind die Prozentzahlen Ameisen."
+        ]
+      ]
+    }
+  ],
+  "screenshots": [
+    {
+      "file": "28_Projektboard_Stand_20260928.png",
+      "title": "Schnittflug / Gründung",
+      "subtitle": "Projektboard · 28. September 2026, 08:55",
+      "cards": [
+        [
+          "IN ARBEIT",
+          "Satzung und SHA",
+          "Otti · Erster Entwurf angefragt\nSieben Gründer · Deutsch und Englisch\n75 Prozent: Bezugsgröße noch offen"
+        ],
+        [
+          "WARTET AUF ANTWORT",
+          "Notartermin",
+          "15. Oktober angefragt\nKeine Bestätigung · keine Beurkundung\nIdentitätsdaten über sicheren Kanal"
+        ],
+        [
+          "BLOCKIERT",
+          "Geschäftsanschrift",
+          "Werkraum erlaubt noch keine Registerpost\nZusatzvereinbarung von Hildegard fehlt\nKein Registerantrag versandt"
+        ],
+        [
+          "OFFEN",
+          "Rechte an Software",
+          "Kuni: Hochschulvertrag suchen\nEbo: Arbeitgeberunterlagen ergänzen\nKeine pauschale Rechtegarantie"
+        ]
+      ]
+    },
+    {
+      "file": "29_Chat_Ausschnitt_Budget_20260921.png",
+      "title": "Schnittflug Chat / Budget",
+      "subtitle": "Ausschnitt · Montag, 21. September 2026",
+      "messages": [
+        [
+          "18:46",
+          "Mina",
+          "Ein Beirat soll uns helfen. Muss er dann jede neue App-Version genehmigen?"
+        ],
+        [
+          "18:49",
+          "Otti",
+          "Ich möchte beim Budget über 50.000 EUR zustimmen. Die Klausel steht bisher nur im SHA-Entwurf."
+        ],
+        [
+          "18:52",
+          "Ebo",
+          "Ich brauche bei Alltagssachen Einzelvertretung. Intern können wir doch Grenzen setzen."
+        ],
+        [
+          "18:56",
+          "Tess",
+          "Bitte trennen: Wer entscheidet intern, und wer darf gegenüber anderen unterschreiben?"
+        ],
+        [
+          "19:01",
+          "Nepo",
+          "Und wer ist fachlich wirklich verfügbar? Ein Name auf Papier bedient keinen Kunden."
+        ]
+      ]
+    },
+    {
+      "file": "70_Kontoanfrage_Status_20260928.png",
+      "title": "Kontowerk / Firmenkunden",
+      "subtitle": "Anfrage Schnittflug · Vorgang angelegt am 16. September 2026",
+      "cards": [
+        [
+          "IN PRÜFUNG",
+          "Gründungskonto",
+          "Kontonummer: noch nicht vergeben\nEröffnung: noch nicht abgeschlossen\nEinzahlung: noch nicht erfolgt"
+        ],
+        [
+          "NACHREICHEN",
+          "Kontrollstruktur",
+          "Beteiligungsübersicht erhalten\nStimmrechts- und Budgetabsprachen fehlen\nRückfrage vom 18. September"
+        ],
+        [
+          "SICHERER KANAL",
+          "Identifizierung",
+          "Geschäftsführer noch zu identifizieren\nKeine Ausweise per normaler E-Mail\nTermin wird gesondert abgestimmt"
+        ],
+        [
+          "OFFEN",
+          "Herkunft der Mittel",
+          "Zuwendung für Thekla erläutern\nNoch keine Überweisung veranlassen\nAnsprechpartnerin: Emilia Wanner"
+        ]
+      ]
+    },
+    {
+      "file": "71_Produktboard_20260922.png",
+      "title": "Schnittflug / Produktstand",
+      "subtitle": "Teamboard · 22. September 2026, 18:50",
+      "cards": [
+        [
+          "VORFÜHRBAR",
+          "Bildschirmablauf",
+          "Frisurenwunsch auswählen\nGespeicherten Durchlauf zeigen\nKein Live-Nachweis aus dem Video"
+        ],
+        [
+          "IN ENTWICKLUNG",
+          "Stationärer Demonstrator",
+          "Schaumstoffkopf auf Werkbank\nKeine Versuche an Kunden\nWaschteil noch getrennt prüfen"
+        ],
+        [
+          "NICHT FREIGEGEBEN",
+          "Besuch beim Kunden",
+          "Keine Termine verkaufen\nKein autonomer Hausbesuch\nKeine Deckungsbestätigung vorhanden"
+        ],
+        [
+          "ZU KLÄREN",
+          "Aufnahmen und Rechte",
+          "Private Beispielvideos sichten\nEinwilligungsumfang unklar\nFrühere Arbeitgeberverträge fehlen"
+        ]
+      ]
+    }
+  ]
+}

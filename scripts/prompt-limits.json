@@ -1,5 +1,11 @@
 {
   "schema_version": 1,
   "workshop_max_bytes": 1048576,
-  "mini_max_bytes": 7500
+  "mini_max_bytes": 7500,
+  "mini_by_plugin": {
+    "startup-gruender": {
+      "max_bytes": 10000,
+      "max_characters": 7500
+    }
+  }
 }

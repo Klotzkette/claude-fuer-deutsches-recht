@@ -14,6 +14,7 @@ import tempfile
 import unittest
 from pathlib import Path
 
+from prompt_limits import mini_within_limits
 from prompt_profiles import standalone_kinds
 from unittest.mock import patch
 
@@ -147,7 +148,7 @@ class PortableStarts(unittest.TestCase):
                     if not reviewed:
                         self.assertFalse(skill_names & set(re.findall(r"`([a-z0-9-]+)`", text)), "Eigenständiger Prompt verweist auf installierten Skill")
                     if kind == "schnellstart":
-                        self.assertLess(len(text.encode("utf-8")), 7500)
+                        self.assertTrue(mini_within_limits(plugin["name"], text.encode("utf-8")))
                     elif not reviewed:
                         self.assertIn(G.WORKSHOP_EXECUTION, text)
                     else:

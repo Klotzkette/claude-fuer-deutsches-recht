@@ -1,0 +1,41 @@
+{
+  "case_slug": "startup-gruender-schnittflug-berlin",
+  "company": "Schnittflug Robotics GmbH",
+  "brand": "Drohnenfriseur",
+  "seat": "Berlin",
+  "contact_domain": "schnittflug.example",
+  "case_date": "2026-09-28",
+  "formation_status": "Vor Beurkundung; Notartermin für 15. Oktober 2026 angefragt; noch keine eingetragene GmbH",
+  "planned_capital_eur": 25000,
+  "cash_paid_status": "Noch keine Einzahlung auf ein Gründungskonto; private Auslagen getrennt erfassen",
+  "founders": [
+    {"id":"F01","name":"Ottilie Kühnle","nickname":"Otti","origin":"Stuttgart","residence":"Berlin","citizenship":"deutsch","role":"Betrieb und Finanzen; vorgesehene Geschäftsführerin","nominal_eur":5250,"percent":21},
+    {"id":"F02","name":"Eberhard Demir","nickname":"Ebo","origin":"Berlin-Neukölln","residence":"Berlin","citizenship":"deutsch","role":"Robotik; vorgesehener Geschäftsführer","nominal_eur":5500,"percent":22},
+    {"id":"F03","name":"Kunigunde Nguyen","nickname":"Kuni","origin":"Leipzig und Hanoi","residence":"Berlin","citizenship":"deutsch","role":"Bildverarbeitung und maschinelles Lernen","nominal_eur":4500,"percent":18},
+    {"id":"F04","name":"Nepomuk Huber","nickname":"Nepo","origin":"Tübingen","residence":"Berlin","citizenship":"deutsch","role":"Friseurmeister und Produktanwendung","nominal_eur":3750,"percent":15},
+    {"id":"F05","name":"Wilhelmine Okafor","nickname":"Mina","origin":"Köln und Lagos","residence":"Berlin","citizenship":"deutsch","role":"Produktgestaltung und Datenschutzkoordination","nominal_eur":2500,"percent":10},
+    {"id":"F06","name":"Alois Rossi","nickname":"Lo","origin":"Bozen","residence":"Berlin","citizenship":"italienisch","role":"Mechatronik und Fertigung","nominal_eur":2000,"percent":8},
+    {"id":"F07","name":"Thekla Ben-Ami","nickname":"Tess","origin":"Haifa","residence":"Berlin","citizenship":"israelisch","role":"Vertrieb und Partnerschaften; Aufenthaltstitel zur Prüfung vorgelegt","nominal_eur":1500,"percent":6}
+  ],
+  "formation_preferences": {
+    "fiscal_year":"Kalenderjahr",
+    "registered_office_address":"Werkraum 4, Am Flugfeld 17, 12099 Berlin",
+    "address_note":"Fiktive Geschäftsanschrift innerhalb der fiktiven Akte; Nutzungsberechtigung noch nicht nachgewiesen",
+    "management_representation":"Entwurf: zwei Geschäftsführer gemeinsam oder ein Geschäftsführer mit Prokurist; Einzelvertretung wird von Eberhard verlangt",
+    "initial_managers":["F01","F02"],
+    "qualified_votes_percent":75,
+    "qualified_votes_basis":"Entwurf: abgegebene gültige Stimmen; Gegenentwurf verlangt gesamtes stimmberechtigtes Stammkapital",
+    "ottile_veto":"Nur im Gesellschaftervereinbarungsentwurf für Budget über 50000 EUR; kein umfassendes satzungsmäßiges Vetorecht vereinbart",
+    "vesting":"Verhandlungsstand: 48 Monate mit 12 Monaten Cliff; Altleistungen und Krankheit streitig",
+    "advisory_board":"Freiwilliger Beirat mit drei Sitzen vorgeschlagen; erst nach Seed, Kompetenzen offen",
+    "language":"Deutsche Satzung; Gesellschaftervereinbarung deutsch und englisch gewünscht; deutsche Fassung soll maßgeblich sein"
+  },
+  "funding_scenarios": [
+    {"id":"gruendung","status":"Planung","nominal_before_eur":0,"nominal_new_eur":25000,"investment_cash_eur":25000,"premium_eur":0},
+    {"id":"seed","status":"Unverbindliche Planungsvariante nach Gründung, keine vollzogene Kapitalerhöhung","investor":"Wolkenwickel Ventures GmbH","nominal_before_eur":25000,"nominal_new_eur":5000,"investment_cash_eur":600000,"premium_eur":595000,"pre_money_eur":3000000,"post_money_eur":3600000},
+    {"id":"serie-a","status":"Option nach Seed, keine Zeichnung oder Einzahlung","investor":"Spree Horizon Capital S.à r.l.","nominal_before_eur":30000,"nominal_new_eur":10000,"investment_cash_eur":2400000,"premium_eur":2390000,"pre_money_eur":7200000,"post_money_eur":9600000},
+    {"id":"serie-b","status":"Streitige Downround-Variante nach Serie A, kein wirksamer Beschluss behauptet","investor":"Scherenwolke Growth Fund GmbH & Co. KG","nominal_before_eur":40000,"nominal_new_eur":20000,"investment_cash_eur":1800000,"premium_eur":1780000,"pre_money_eur":3600000,"post_money_eur":5400000}
+  ],
+  "option_pool": {"instrument":"Nur diskutiertes virtuelles Beteiligungsprogramm; keine ausgegebenen Geschäftsanteile oder Stimmrechte","post_pool_fd_percent":10,"rounding":"Virtuelle Rechengrößen getrennt von echten EUR-Geschäftsanteilen ausweisen"},
+  "product": {"concept":"Kundinnen und Kunden filmen ihren Kopf mit dem Handy rundum. Eine KI plant den Haarschnitt. Eine Drohne soll zum Haushalt fliegen, schneiden, eine Waschhaube aufsetzen, Haare waschen und massieren.","technical_status":"Früher stationärer Prüfstand mit Schaumstoffkopf; kein autonomer Kundenbetrieb und keine behördliche Produkt- oder Betriebserlaubnis nachgewiesen","scope_note":"Produktidee und Prüfaufträge; keine Anleitung zum Bau oder Betrieb einer körpernahen Schneidedrohne"}
+}
