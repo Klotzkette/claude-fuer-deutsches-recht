@@ -17,7 +17,7 @@
     },
     {
       "path": "scripts/data/startup-gruender/vertraege.json",
-      "sha256": "3fd05e79dd1b52d2b96fb73b9c5896510defc5148450b06c575394800a1dd2e0"
+      "sha256": "0bd256dfca84e96c93e409f84c00a493a413c6724ab6a425c0e05b00be10135f"
     },
     {
       "path": "scripts/build-startup-gruender-lebensakte.py",
@@ -25,11 +25,11 @@
     },
     {
       "path": "scripts/build-startup-gruender-vertraege.py",
-      "sha256": "077ebad168f205621728a42fa41ad9feed0465750e6d8ae6d43b5fcc2e548780"
+      "sha256": "4ed05afa1e7be0f144c3575f503e39720884f7369d3b46a353c854574759daf9"
     },
     {
       "path": "scripts/build-startup-gruender-finanz.mjs",
-      "sha256": "aef8970e29b8644c8e545c4ee3a1fa1b5200a5ec7829fd877f3ebba886fa20a1"
+      "sha256": "b936754033f852ee77dfdcb2f7771d0c38bc80252750b1abf860f25d6a9ec03c"
     }
   ],
   "herstellung": {
@@ -37,7 +37,7 @@
     "byteidentisch_neu_gebaut": 65,
     "docx": 21,
     "vollstaendige_docx_pdf_textuebernahme": 21,
-    "docx_seiten_gerendert_und_visuell_geprueft": 36,
+    "docx_seiten_gerendert_und_visuell_geprueft": 37,
     "beleg_pdf": 13,
     "belegseiten_visuell_geprueft": 13,
     "eml_mit_header_und_threads": 24,
@@ -264,24 +264,24 @@
     },
     {
       "path": "testakten/startup-gruender-schnittflug-berlin/31_Gesellschaftervereinbarung_DE_20260926.docx",
-      "bytes": 41979,
-      "sha256": "3975730cce854c1e30ef530fb342a3a2fef0ac2aaf817e362ad49598ca8fef22",
+      "bytes": 42234,
+      "sha256": "add50813bdd113990e8d911786233c236970a2d8bdf94c10bab027d44d5efc82",
       "reproduzierbar_geprueft": true,
       "renderpruefung": {
-        "pages": 3,
-        "visual_review": "Alle Seiten geprüft; keine Überläufe oder abgeschnittenen Inhalte.",
-        "rendered_pdf_sha256": "7c196225a6bb74f70791e07a4ef10acecec7d6105b497c0c4936be651f98f570"
+        "pages": 4,
+        "visual_review": "Alle Seiten nach der Klauselkorrektur erneut geprüft; keine Überläufe, abgeschnittenen Inhalte oder isolierte Schlussklausel.",
+        "rendered_pdf_sha256": "fc66b756a1adac24b8fefdbe222b52fd6f41a636a250dd388c9ca93cf170c777"
       }
     },
     {
       "path": "testakten/startup-gruender-schnittflug-berlin/32_Shareholders_Agreement_EN_20260926.docx",
-      "bytes": 41413,
-      "sha256": "390137299ed570abb9f689d1bd7ccda0e79ea753ff1bb636d671695bf3b6bbad",
+      "bytes": 41635,
+      "sha256": "42d752cdd68768049359ee6c85d84673e579d8eb946e58d2ee3731981561bc6b",
       "reproduzierbar_geprueft": true,
       "renderpruefung": {
         "pages": 3,
-        "visual_review": "Alle Seiten geprüft; keine Überläufe oder abgeschnittenen Inhalte.",
-        "rendered_pdf_sha256": "7397098fa51639a2646d6ca87d1350d6dd54eb9f37d7a5e4ab54b3ed1704ddd4"
+        "visual_review": "Alle Seiten nach der Klauselkorrektur erneut geprüft; keine Überläufe, abgeschnittenen Inhalte oder isolierte Schlussklausel.",
+        "rendered_pdf_sha256": "4d5b8ca820cb296a857924531996e88d6b46b7cf0a5cb80933b64a0026631471"
       }
     },
     {
@@ -363,22 +363,22 @@
     },
     {
       "path": "testakten/startup-gruender-schnittflug-berlin/50_CapTable_Gruendung_und_Finanzierungsoptionen.xlsx",
-      "bytes": 14178,
-      "sha256": "511caa57ac54096ef24b4bf9bdf46b68ad05fb0420035008ecbf046605e42a93",
+      "bytes": 14263,
+      "sha256": "b54d2e1dcd280a9d14b2de662ad362dff22f1842e7e511dabb1415a99df67b68",
       "reproduzierbar_geprueft": false,
       "pruefumfang": "Hier inventarisiert; Inhalts- und Formelprüfung durch Finanzakte-Agenten."
     },
     {
       "path": "testakten/startup-gruender-schnittflug-berlin/51_Auslagen_und_Liquiditaetsplanung.xlsx",
-      "bytes": 14029,
-      "sha256": "c3096b331cc56ff7e7558a75140da9bdc43a628740c067231a5b988c475fa32e",
+      "bytes": 14055,
+      "sha256": "57bd8241521388309fea9bb56bad9b802bd272ea10e4f2ecb2d2180c9655cf21",
       "reproduzierbar_geprueft": false,
       "pruefumfang": "Hier inventarisiert; Inhalts- und Formelprüfung durch Finanzakte-Agenten."
     },
     {
       "path": "testakten/startup-gruender-schnittflug-berlin/52_Mehrheiten_und_Bezugsrechte.xlsx",
-      "bytes": 12633,
-      "sha256": "71c1010083a9d23ca6586c2f183bd3ae3a69b20d70ae78e748c0dc7ac6134b24",
+      "bytes": 12791,
+      "sha256": "bed82af2120c63a9031819698d79bcb99cb80a7a1037a8b68dcdb94aff0fae67",
       "reproduzierbar_geprueft": false,
       "pruefumfang": "Hier inventarisiert; Inhalts- und Formelprüfung durch Finanzakte-Agenten."
     },
@@ -621,5 +621,16 @@
         "rendered_pdf_sha256": "6cc6d1308211e0c87b00bcd093939345255f34246d593eddabeb55a0aa8fd578"
       }
     }
-  ]
+  ],
+  "nachpruefung": {
+    "anlass": "Korrektur des Vorerwerbsmechanismus und Klarstellung der gesetzlichen Verjährungshemmung in DE/EN",
+    "gezielt_neu_gebaut": [
+      "31_Gesellschaftervereinbarung_DE_20260926.docx",
+      "32_Shareholders_Agreement_EN_20260926.docx"
+    ],
+    "seiten_erneut_visuell_geprueft": 7,
+    "vollstaendige_textuebernahme": true,
+    "byteidentisch_zweitgebaut": 2,
+    "layout": "Deutsche SHA mit 1,15 Zeilenabstand und 6 pt Absatzabstand auf vier natürlichen Seiten; sämtliche Schriftgrößen unverändert."
+  }
 }

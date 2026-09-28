@@ -2,15 +2,17 @@
 
 **Prüfstand: 28. September 2026.** 14 ausgewählte Gerichtsanker und aktuelle Normanker. Alle BGH-Originale wurden von der neuen amtlichen Website heruntergeladen; die unten angegebenen Passagen wurden am Volltext geprüft. Die alten `juris.bundesgerichtshof.de`-Adressen leiten im Liveabruf häufig nur auf eine Suche um. Die neuen direkten PDF-Links sind deshalb vorzuziehen. Keine erfundenen Randnummern; ältere PDFs werden mit Leitsatz/Seite zitiert.
 
-## 1. Entscheidende Konsequenzen für das Plugin
+## 1. Allgemeine Konsequenzen für die Bearbeitung
 
-1. **Sieben Gründer verlangen eine individuelle Satzung.** Das vereinfachte Musterprotokoll passt nicht. Das ist keine Aussage gegen die zulässige individuelle Videobeurkundung; deren Voraussetzungen sind gesondert zu prüfen. Die Entwurfsarbeit darf nach den notwendigen Stammdaten schnell beginnen, offene Punkte werden sichtbar als Varianten geführt.
-2. **21 % sind keine Sperrminorität gegen eine 75-%-Mehrheit.** Stimmen alle ab, erreichen die anderen 79 %. Exakt 25 % blockieren eine Schwelle von mindestens 75 % ebenfalls nicht, wenn die übrigen 75 % zustimmen. Abgegebene Stimmen, Kapitalbezugsgröße, Beschlussfähigkeit, Stimmverbote, Sonderrechte und Enthaltungen separat rechnen. Ein satzungsmäßiges Vetorecht für einen Katalog ist keine pauschale Aussage über Sozialversicherungsfreiheit.
-3. **Normale Beteiligung, fully diluted und Liquidationspräferenzen sind getrennte Ansichten.** In der Akte sollen Anteile auf volle Euro lauten, Summe exakt Stammkapital, Agio separat und Finanzierungsstände datiert sein. Nicht eingetragene Series-A/B-Varianten dürfen die echte Ausgangslage nicht stillschweigend ersetzen.
+1. **Das Satzungsverfahren richtet sich nach der tatsächlichen Gründungskonstellation.** Die Voraussetzungen des vereinfachten Musterprotokolls sind anhand der Gründerzahl, Geschäftsführerzahl und gewünschten Regelungen zu prüfen. Werden sie nicht erfüllt, ist eine individuelle Satzung zu entwerfen. Die Zulässigkeit einer individuellen Videobeurkundung ist gesondert zu prüfen. Die Entwurfsarbeit darf nach den notwendigen Stammdaten schnell beginnen, offene Punkte werden sichtbar als Varianten geführt.
+2. **Eine Sperrminorität folgt aus den konkreten Stimmrechten und Beschlussregeln.** Abgegebene Stimmen, Kapitalbezugsgröße, Beschlussfähigkeit, Stimmverbote, Sonderrechte und Enthaltungen separat rechnen. Eine Beteiligungsquote allein beweist keine Blockademöglichkeit. Ein satzungsmäßiges Vetorecht für einen Katalog ist keine pauschale Aussage über Sozialversicherungsfreiheit.
+3. **Normale Beteiligung, fully diluted und Liquidationspräferenzen sind getrennte Ansichten.** In jeder Beteiligungsdarstellung müssen echte Geschäftsanteile auf volle Euro lauten und ihre Nennbeträge zusammen dem Stammkapital entsprechen. Agio und datierte Finanzierungsstände sind getrennt auszuweisen. Geplante oder noch nicht eingetragene Veränderungen dürfen die geltende Ausgangslage nicht stillschweigend ersetzen.
 4. **Vesting ist keine Textbausteinautomatik.** Die brandaktuelle Entscheidung SG01 verlangt Gesamtwürdigung; die gesellschaftsrechtliche Mitgliedschaft echter Gründer kann eigenständige Bedeutung haben. Auch „marktüblich“ erspart die Prüfung nicht. Keine starre Behauptung, ein erhebliches Investment mache ein Managermodell immer unwirksam.
 5. **Satzung, SHA, Geschäftsordnung und Beiratsordnung bekommen klar unterschiedliche Funktionen.** Öffentlich/registerrelevant, schuldrechtliche Bindung, interne Leitung und Gremienverfahren lassen sich nicht durch eine Rangfolgeklausel beliebig austauschen. Gesellschaftsrechtlich notwendige Satzungsregelungen nicht bloß in ein vertrauliches SHA verschieben.
 6. **„Bestandsschutz“ muss in überprüfbare Rechte übersetzt werden.** Prozentgarantie, Bezugsrecht, Verwässerungsausgleich, Sonderzustimmung und Liquidationspräferenz sind verschieden. Ausreichende Mehrheit allein rechtfertigt nicht jede verdrängende Kapitalerhöhung; umgekehrt besteht keine allgemeine Pflicht, jeder Finanzierungsrunde zuzustimmen.
-7. **Gründungsphase und produktiver Drohnenbetrieb trennen.** Ein beurkundeter Unternehmensgegenstand oder die Registereintragung ist keine Zulassung für autonome Friseurdrohnen. Produkt-, Luftfahrt-, Handwerks-, Datenschutz- und Versicherungsfragen separat abprüfen; dieser gesellschaftsrechtliche Quellenblock liefert dafür keine Betriebsfreigabe.
+7. **Gesellschaftsgründung und Voraussetzungen des tatsächlichen Geschäftsbetriebs trennen.** Ein beurkundeter Unternehmensgegenstand oder die Registereintragung ersetzt keine nach dem konkreten Geschäftsmodell erforderliche Erlaubnis. Produkt-, Handwerks-, Datenschutz-, Versicherungs- und gegebenenfalls weitere Branchenfragen separat abprüfen; dieser gesellschaftsrechtliche Quellenblock liefert dafür keine Betriebsfreigabe.
+
+**Beispiele, keine allgemeinen Fallvorgaben:** Bei sieben Gründern scheidet das vereinfachte Musterprotokoll aus. Hält eine Person 21 % und stimmen die übrigen 79 % zu, verhindert sie bei vollständiger Teilnahme eine Mehrheit von mindestens 75 % nicht. Exakt 25 % blockieren diese Schwelle ebenfalls nicht, wenn die übrigen 75 % zustimmen. Bei einem Drohnenunternehmen sind zusätzlich konkrete luftfahrtrechtliche Voraussetzungen zu prüfen. Gründerzahl, Quoten und Branche des bearbeiteten Mandats sind jeweils aus dessen eigenen Unterlagen zu bestimmen.
 
 ## 2. Gerichtliche Anker
 
@@ -30,7 +32,7 @@
 
 **Aussage:** Grundsätzlich unzulässige freie Hinauskündigung kann bei einer wegen der Geschäftsführerstellung eingeräumten Minderheitsbeteiligung sachlich gerechtfertigt sein; der konkrete Fall betraf eine zum Nennwert erworbene Beteiligung mit begrenzter Rückabfindung.
 
-**Grenze:** Keine pauschale Übertragbarkeit auf sieben echte Gründer. Die Kriterien dürfen nach SG01 nicht mehr als starre kumulative Voraussetzungen behandelt werden. Schreibfehlerberichtigung vom 17.11.2005 betrifft eine Literaturangabe, nicht den materiellen Maßstab.
+**Grenze:** Keine pauschale Übertragbarkeit auf echte Gründer mit eigenständiger unternehmerischer Beteiligung. Die Kriterien dürfen nach SG01 nicht mehr als starre kumulative Voraussetzungen behandelt werden. Schreibfehlerberichtigung vom 17.11.2005 betrifft eine Literaturangabe, nicht den materiellen Maßstab.
 
 **Workflow-Folge:** Klassiker neben SG01 erklären, nicht isoliert als Rechtfertigung einer beliebigen Bad-Leaver-Klausel einsetzen.
 
@@ -52,7 +54,7 @@
 
 **Grenze:** Ob eine solche Ausnahme vereinbart wurde, folgt aus konkreter Auslegung. Der bloße Zusatz „i. G.“ erzeugt keine Haftungsbefreiung. Stiftungsrechtliche weitere Aussagen des Urteils sind für die Gründung nicht zu übertragen. Amtlicher PDF-Text enthält Berichtigung vom 27.05.2021.
 
-**Workflow-Folge:** Jeden Altvertrag nach Datum, Rechtsträger, Zeichner, Verpflichtung und Überleitungs-/Genehmigungsbedarf erfassen; bereits privat bestellte Drohnenteile und IP-Verträge gesondert übertragen.
+**Workflow-Folge:** Jeden Altvertrag nach Datum, Rechtsträger, Zeichner, Verpflichtung und Überleitungs-/Genehmigungsbedarf erfassen; erforderliche Übernahmen privater Bestellungen und Rechteverträge gesondert vollziehen.
 
 ### 2.5. SG05 – UG: spätere Sachkapitalerhöhung auf GmbH-Niveau
 
@@ -156,7 +158,7 @@
 
 ## 3. Aktuelle Normanker
 
-- **N01 – [§ 2 GmbHG](https://www.gesetze-im-internet.de/gmbhg/__2.html):** Notarielle Satzung; vereinfachtes Verfahren nach Abs. 1a höchstens drei Gesellschafter und ein Geschäftsführer, ohne zusätzliche Abweichungen. Videogründung nach Abs. 3 gesondert prüfen; individuelle Onlinegründung ist nicht schon wegen sieben Gründern ausgeschlossen.
+- **N01 – [§ 2 GmbHG](https://www.gesetze-im-internet.de/gmbhg/__2.html):** Notarielle Satzung; vereinfachtes Verfahren nach Abs. 1a höchstens drei Gesellschafter und ein Geschäftsführer, ohne zusätzliche Abweichungen. Videogründung nach Abs. 3 gesondert prüfen; die für das Musterprotokoll geltende Gründerzahlgrenze ist nicht auf jede individuelle Onlinegründung zu übertragen.
 - **N02 – [§ 3 GmbHG](https://www.gesetze-im-internet.de/gmbhg/__3.html):** Pflichtinhalt: Firma/Sitz, Unternehmensgegenstand, Stammkapital, Zahl/Nennbeträge der übernommenen Anteile. Zusätzliche gesellschaftsvertragliche Leistungspflichten gehören nach Abs. 2 in die Satzung.
 - **N03 – [§§ 5, 5a GmbHG](https://www.gesetze-im-internet.de/gmbhg/__5a.html):** GmbH-Mindeststammkapital 25.000 EUR; UG unterhalb davon, vor Anmeldung volle Geldeinzahlung und keine Sacheinlagen. Rücklage: ein Viertel des um Verlustvortrag geminderten Jahresüberschusses, nicht ein Viertel des Umsatzes. Kein automatischer Wechsel allein durch Ansparen.
 - **N04 – [§ 5 GmbHG](https://www.gesetze-im-internet.de/gmbhg/__5.html):** Jeder Geschäftsanteil in vollen Euro; Summe der Nennbeträge gleich Stammkapital. Prozentangaben, Agio und Unternehmensbewertung ersetzen keine konkreten Nennbeträge.
@@ -177,19 +179,21 @@
 - **N19 – [§ 55a GmbHG](https://www.gesetze-im-internet.de/gmbhg/__55a.html):** Genehmigtes Kapital: Ermächtigung höchstens fünf Jahre, höchstens Hälfte des bei Ermächtigung vorhandenen Stammkapitals. Sacheinlagen nur bei Ermächtigung; kein unbegrenzter Vorratsfreibrief für Series A/B.
 - **N20 – [§ 310 Abs. 4 BGB](https://www.gesetze-im-internet.de/bgb/__310.html):** Verträge auf dem Gebiet des Gesellschaftsrechts sind aus der AGB-Kontrolle dieses Abschnitts ausgenommen. Trotzdem §§ 138, 242 BGB, zwingendes Gesellschaftsrecht und die konkrete Vertragsqualifikation prüfen. Arbeitsvertrag/VSOP nicht pauschal gleichbehandeln.
 
-## 4. Konkrete Arbeitslogik für die Gründung und die Akte
+## 4. Allgemeine Arbeitslogik für den konkreten Gründungsauftrag
 
 ### 4.1. Intake und schneller Erstentwurf
 
 Zuerst die bereits vorliegenden Personen-, Rollen-, Kapital- und Vertragsdaten lesen. Für das gewünschte Dokument nur die noch fehlenden entscheidenden Angaben gezielt erfragen; Identität, Anschrift, Vertretung und wirtschaftliche Berechtigung im jeweils erforderlichen Umfang erfassen. Firma, Sitz, Geschäftsanschrift, Gegenstand, Stammkapital, Geschäftsanteile, Geschäftsführer und Vertretung bilden die Grundlage des Satzungsentwurfs. Rollen, Zeitbindung, IP-Herkunft, Zustimmungskatalog und frühere Verträge werden dort vertieft, wo sie das beauftragte Paket ändern. Keine umfassende Mandatsaufnahme oder abgeschlossene Gesamtprüfung als Vorbedingung missverstehen: Erstelle früh eine vollständige konsistente Satzungs- und SHA-Fassung mit bewusst gekennzeichneten offenen Entscheidungen. Personen- und Kapitaldaten niemals improvisieren. Bei DE/EN-Ausgabe abschnittsweise korrespondierende Begriffe und eine bewusst vereinbarte maßgebliche Sprachfassung verwenden.
 
-### 4.2. Aktenmechanik aus dem Leben
+### 4.2. Unterlagen und belegten Stand abgleichen
 
-Die vereinbarte Gründerquote soll in notarieller Satzung, Gesellschafterliste, Zahlungsjournal, Cap Table und Abstimmungsmatrix nachvollziehbar sein. Ein Excel-Fehler oder widersprüchlicher Chat darf als Übungsstörung existieren, die Musterlösung muss ihn aufdecken. Je Person eine belegte Einzahlung und Zuordnung zu konkreten Anteilsnummern; Einnahme des Stammkapitals nicht mit freiem Umsatz verwechseln. Vor Notar bestellte Hardware, privat bezahlte Domains, Code aus Beschäftigung und Freunde als „Treuhänder“ eignen sich als realistische Prüfprobleme. Keine vermeintliche Vertretungsmacht allein aus einem Chat-Titel ableiten.
+Die vereinbarte Beteiligung soll in Satzung, Gesellschafterliste, Zahlungsjournal, Cap Table und Abstimmungsmatrix nach dem jeweiligen Rechts- und Vollzugsstand nachvollziehbar sein. Widersprüchliche Tabellen oder Nachrichten sind aufzuklären. Bereits erfolgte Einzahlungen anhand der Belege den Verpflichteten und konkreten Anteilsnummern zuordnen; geplante Zahlungen bleiben als solche erkennbar. Einnahme des Stammkapitals nicht mit Umsatz verwechseln. Keine vermeintliche Vertretungsmacht allein aus einem Chat-Titel ableiten.
+
+**Beispiele für die Aktenprüfung:** Vor der Beurkundung bestellte Hardware, privat bezahlte Domains, Code aus Beschäftigung oder eine behauptete Treuhand können Überleitungs-, Rechte- und Formfragen auslösen. In einer ausdrücklich fiktiven Übungsakte dürfen Tabellenfehler und widersprüchliche Chats als Prüfaufgaben vorkommen; die Musterlösung muss sie aufdecken. In einem realen Mandat werden solche Umstände nur bei tatsächlichen Anhaltspunkten zugrunde gelegt.
 
 ### 4.3. Finanzierungs- und Streitvariante
 
-Series A und B als getrennte Zukunftszweige mit Stichtag, pre/post-money, Primär-/Sekundäranteilen, Agio, Pool vor/nach Runde und tatsächlichen Registerbedingungen anlegen. Eine behauptete 75-%-Zustimmung muss numerisch und nach Satzung überprüft werden. Für Bezugsrechtsausschluss: konkrete Investitionsnotwendigkeit, Finanzierungsmöglichkeiten mit Bezugsrecht, Bewertung/Ausgabepreis, Gleichbehandlung, Interessenkonflikte, Nachteile und mildere Gestaltung dokumentieren. Die Rechtsherleitung des GmbH-Bezugsrechts ist nicht mit einem ausdrücklichen § 186 GmbHG zu erfinden; es gibt diesen Paragraphen nicht. AktG-spezifische Berichts-/Fristregeln nur nach begründeter Übertragbarkeitsprüfung einsetzen. Eine freiwillige schriftliche Begründung ist guter Workflow, aber nicht automatisch in jedem GmbH-Fall als unstreitige gesetzliche Pflicht auszugeben.
+Jede beauftragte Finanzierungsrunde nach ihrem tatsächlichen Stand mit Stichtag, pre/post-money, Primär-/Sekundäranteilen, Agio, Pool vor/nach Runde und Registerbedingungen bearbeiten. Reine Zukunftsszenarien getrennt vom bestehenden Beteiligungsstand führen. Jede behauptete Beschlussmehrheit muss numerisch und nach der geltenden Satzung überprüft werden. Für Bezugsrechtsausschluss: konkrete Investitionsnotwendigkeit, Finanzierungsmöglichkeiten mit Bezugsrecht, Bewertung/Ausgabepreis, Gleichbehandlung, Interessenkonflikte, Nachteile und mildere Gestaltung dokumentieren. Die Rechtsherleitung des GmbH-Bezugsrechts ist nicht mit einem ausdrücklichen § 186 GmbHG zu erfinden; es gibt diesen Paragraphen nicht. AktG-spezifische Berichts-/Fristregeln nur nach begründeter Übertragbarkeitsprüfung einsetzen. Eine freiwillige schriftliche Begründung ist guter Workflow, aber nicht automatisch in jedem GmbH-Fall als unstreitige gesetzliche Pflicht auszugeben.
 
 ### 4.4. Abschlusskontrolle
 
@@ -200,7 +204,7 @@ Das Ergebnis enthält Vertragsstand, Annahmen, offene Entscheidungen, notarielle
 - Kein allgemeines Präjudiz für Founder-Reverse-Vesting gefunden oder behauptet. SG01/SG02/SG03 liefern Maßstäbe und Grenzen.
 - Keine AG- oder österreichische GmbH-Entscheidung als unmittelbar deutsches GmbH-Recht umetikettiert.
 - Keine BAG-VSOP-Rechtsprechung ungeprüft als Maßstab echter GmbH-Geschäftsanteile verwendet.
-- Die Sozialversicherung der Geschäftsführerin mit 21 % benötigt aktuelle BSG-/DRV-Prüfung außerhalb dieses Memos. Genaue Rechtsmacht aus der Satzung zählt; ein schuldrechtlicher Wunsch oder harmonische Praxis ist kein Ersatz.
+- Der Sozialstatus einer Gesellschafter-Geschäftsführung benötigt eine aktuelle BSG-/DRV-Prüfung anhand ihrer tatsächlichen Beteiligungs- und Rechtsmachtverhältnisse außerhalb dieses Memos. Genaue Rechtsmacht aus der Satzung zählt; ein schuldrechtlicher Wunsch oder harmonische Praxis ist kein Ersatz.
 - Geldwäsche-/Transparenzregister-Schwellen und konkrete Register-/Steuerfristen sind vor Übernahme aus einem anderen Modul anhand der jeweils geltenden Primärquellen zu bestätigen.
 - SG10 darf nicht als Heilung sämtlicher Formfehler nach Closing gelesen werden.
 - Das Plugin soll aktuelle Primärquellen bei echter Bearbeitung erneut prüfen und Rechtsstand/Entscheidungsfundstelle pro zentraler Aussage ausgeben; dieses Memo ist eine dokumentierte Auswahl, keine Vollständigkeitsgarantie.

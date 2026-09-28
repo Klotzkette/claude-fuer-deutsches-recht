@@ -6062,6 +6062,7 @@ PROFILE_BY_KEY = {p.key: p for p in PROFILE}
 
 
 EXACT_PROFILE_KEYS: dict[str, str] = {
+    "startup-gruender": "gesellschaft",
     "bauwirtschaft": "bauwirtschaft",
     "anwaltschaft-generell": "anwaltschaft-generell",
     "corporate-contract-law": "corporate-contract-law",

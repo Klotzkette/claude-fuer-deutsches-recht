@@ -148,6 +148,8 @@ def main():
     for row in rows:
         # Layout only: keep final clauses off nearly empty continuation pages.
         row['layout'] = {'vertical_margin_cm': 1.9, 'paragraph_space_after_pt': 4, 'line_spacing': 1.06}
+        if row['file'].startswith('31_'):
+            row['layout'].update({'paragraph_space_after_pt': 6, 'line_spacing': 1.15})
         break_before = {'33': [4], '34': [5], '36': [4], '37': [3], '38': [3]}
         for section_number in break_before.get(row['file'][:2], []):
             row['sections'][section_number - 1]['page_break_before'] = True

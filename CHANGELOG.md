@@ -1,3 +1,11 @@
+# v445.12.0 – Startup-Gründer mit vollständiger Gründungsakte
+
+Das neue Plugin begleitet die UG- oder GmbH-Gründung mit 18 gezielten Skills. Es erstellt aus vorhandenen Unterlagen früh vollständige Satzungs- und Vertragsentwürfe auf Deutsch und Englisch und klärt entscheidende Lücken im weiteren Dialog. Geschäftsführungsstatus, Beteiligung, Mehrheiten, Geldwäscheprüfung und Vollzug sowie optionale Seed-, Serie-A- und Serie-B-Runden bleiben nachvollziehbar getrennt.
+
+Die handkuratierte Werkstatt enthält 40 Kapitel mit überprüften Rechtsankern, insbesondere zur Gesamtbetrachtung von Leaver-Regeln und zur Rechtsmacht von Minderheitsgeschäftsführern. Sie steht identisch als Markdown und TXT sowie als Word- und PDF-Lesefassung bereit. Der Mini-Prompt umfasst exakt 7.500 Unicode-Zeichen. Die dafür nötige Trennung von Zeichen- und Bytebudget gilt ausschließlich für dieses Plugin.
+
+Die neue Testakte Schnittflug Robotics aus Berlin umfasst 68 native Arbeitsdateien mit sieben Gründern, ausformulierten Vertragsentwürfen, drei berechnenden Excel-Arbeitsmappen, Nachrichten samt echten Anhängen, Chatverläufen, Bildschirmabbildungen und 13 Rechnungsbelegen. Originale, Gesamt-PDF und einzelne PDFs werden separat angeboten. Ein tatsächlicher Praxistest erzeugte fünf Arbeitsprodukte und führte zu präziseren Prüfaufträgen für Budgetgrenzen, Anlagen und Liquidität. Die technische, visuelle und rechtliche Prüfung ist getrennt dokumentiert; ein erfolgreicher Test ersetzt keine konkrete notarielle oder behördliche Entscheidung.
+
 # v445.10.1 - Eine vollständige ModeFuchs-Akte und gemeinsame FinTech-Zuordnung
 
 Die bisher getrennten ModeFuchs-Fassungen sind in einer Arbeitsakte zusammengeführt. Die 28 Original-PDFs der ausführlichen Fassung bleiben unverändert. Elf native E-Mails enthalten tatsächlich eingebettete PDF- und Bildanhänge; dazu kommen drei konsistente Scanableitungen, das Einlieferungsfoto, zwei Bildschirmansichten, eine bearbeitbare Klagefassung und ein belegbezogenes Excel-Forderungskonto. Zahlungsanweisung, Eingang beim Händler und Weiterleitung an das Inkassounternehmen werden nicht als mehrere Kundenzahlungen gezählt.

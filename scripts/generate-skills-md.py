@@ -210,7 +210,7 @@ def plugin_overview_table(plugins: list[tuple[str, list[str]]]) -> str:
             werkstatt_url = markdown_download_url(f"{source_rel}/{name}-werkstatt.md")
             schnellstart_url = markdown_download_url(f"{source_rel}/{name}-schnellstart.md")
             workshop_download = " · ".join(f"[Werkstatt-{ext.upper()} herunterladen]({markdown_download_url(f'{source_rel}/{name}-werkstatt.{ext}')})" for ext in formats(name))
-            quickstart_download = f"[Schnellstart-MD herunterladen]({schnellstart_url})" if enabled(name, "schnellstart") else "Nicht vorgesehen"
+            quickstart_download = " · ".join(f"[Schnellstart-{ext.upper()} herunterladen]({markdown_download_url(f'{source_rel}/{name}-schnellstart.{ext}')})" for ext in formats(name)) if enabled(name, "schnellstart") else "Nicht vorgesehen"
             detail = f"skills-index/{name}.md"
             lines.append(
                 f"| **{name}** | {len(skills)} | [Skills ansehen]({detail}) | {workshop_download} | {quickstart_download} | [Plugin]({zip_url}) |"
@@ -284,6 +284,10 @@ def plugin_detail_page(name: str, skills: list[str], version: str) -> str:
         index = next(i for i, line in enumerate(lines) if line.startswith("| **Großer Prompt")) + 1
         txt_url = markdown_download_url(f"{_source_rel}/{name}-werkstatt.txt")
         lines.insert(index, f"| **Derselbe Werkstatt-Prompt als Text** | TXT | [`{name}-werkstatt.txt` herunterladen]({txt_url}) |")
+        if enabled(name, "schnellstart"):
+            mini_txt_url = markdown_download_url(f"{_source_rel}/{name}-schnellstart.txt")
+            mini_index = next(i for i, line in enumerate(lines) if line.startswith("| **Kleiner Prompt (Schnellstart)**")) + 1
+            lines.insert(mini_index, f"| **Derselbe Schnellstart-Prompt als Text** | TXT | [`{name}-schnellstart.txt` herunterladen]({mini_txt_url}) |")
     for s in skills:
         skill_md = skills_dir / s / "SKILL.md"
         desc = read_description(skill_md)

@@ -121,6 +121,14 @@ EXACT_GROUPS: dict[str, str] = {
 }
 
 PLUGIN_GROUPS = {
+    "startup-gruender": [
+        ("1. Einstieg und Gründungsentscheidung", ["gruendung-begleiten", "gruender-und-rollen-klaeren", "rechtsform-und-kapital-waehlen"]),
+        ("2. Beteiligung und Gründungsverträge", ["cap-table-planen", "satzung-entwerfen", "gesellschaftervereinbarung-entwerfen", "vesting-und-ausstieg-regeln", "gruender-ip-sichern"]),
+        ("3. Geschäftsführung und Kontrolle", ["geschaeftsfuehrung-regeln", "geschaeftsfuehrer-status-pruefen", "beirat-einrichten", "mehrheiten-und-minderheiten-sichern"]),
+        ("4. Konto Anmeldung und Vollzug", ["bankkonto-und-geldwaesche-vorbereiten", "gruendung-und-register-vollziehen", "produktstart-und-anmeldungen-planen"]),
+        ("5. Finanzierung und weitere Kapitalmaßnahmen", ["finanzierungsrunde-vorbereiten", "kapitalerhoehung-und-bezugsrechte-pruefen"]),
+        ("6. Abgleich und Endfassungen", ["gruendungsunterlagen-abgleichen"]),
+    ],
     "schriftsatz-versandwerkstatt": [
         ("1. Auftrag, Fassung und Anlagenzuordnung", [
             "versandmappe-endfertigen", "ordneraufnahme-und-produktionsmatrix",

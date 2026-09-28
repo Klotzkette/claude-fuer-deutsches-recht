@@ -1,0 +1,245 @@
+{
+  "checks": [
+    {
+      "kind": "native-base",
+      "file": "50_CapTable_Gruendung_und_Finanzierungsoptionen.xlsx",
+      "sheet": "Cap Table",
+      "cell": "C18",
+      "actual": 25000,
+      "expected": 25000
+    },
+    {
+      "kind": "native-base",
+      "file": "50_CapTable_Gruendung_und_Finanzierungsoptionen.xlsx",
+      "sheet": "Cap Table",
+      "cell": "F18",
+      "actual": 60000,
+      "expected": 60000
+    },
+    {
+      "kind": "native-base",
+      "file": "50_CapTable_Gruendung_und_Finanzierungsoptionen.xlsx",
+      "sheet": "Cap Table",
+      "cell": "G7",
+      "actual": 0.21,
+      "expected": 0.21
+    },
+    {
+      "kind": "native-base",
+      "file": "50_CapTable_Gruendung_und_Finanzierungsoptionen.xlsx",
+      "sheet": "Runden",
+      "cell": "E16",
+      "actual": 3600000,
+      "expected": 3600000
+    },
+    {
+      "kind": "native-base",
+      "file": "50_CapTable_Gruendung_und_Finanzierungsoptionen.xlsx",
+      "sheet": "Runden",
+      "cell": "E17",
+      "actual": 5400000,
+      "expected": 5400000
+    },
+    {
+      "kind": "native-base",
+      "file": "50_CapTable_Gruendung_und_Finanzierungsoptionen.xlsx",
+      "sheet": "Virtueller Pool",
+      "cell": "F12",
+      "actual": 0.1,
+      "expected": 0.1
+    },
+    {
+      "kind": "native-base",
+      "file": "51_Auslagen_und_Liquiditaetsplanung.xlsx",
+      "sheet": "Auslagen",
+      "cell": "H21",
+      "actual": 3109.23,
+      "expected": 3109.23
+    },
+    {
+      "kind": "native-base",
+      "file": "51_Auslagen_und_Liquiditaetsplanung.xlsx",
+      "sheet": "Auslagen",
+      "cell": "I21",
+      "actual": 2395.23,
+      "expected": 2395.23
+    },
+    {
+      "kind": "native-base",
+      "file": "51_Auslagen_und_Liquiditaetsplanung.xlsx",
+      "sheet": "Liquidität",
+      "cell": "H27",
+      "actual": -55170,
+      "expected": -55170
+    },
+    {
+      "kind": "native-base",
+      "file": "52_Mehrheiten_und_Bezugsrechte.xlsx",
+      "sheet": "Abstimmung",
+      "cell": "C29",
+      "actual": 0.21,
+      "expected": 0.21
+    },
+    {
+      "kind": "native-base",
+      "file": "52_Mehrheiten_und_Bezugsrechte.xlsx",
+      "sheet": "Bezugsrechte",
+      "cell": "H14",
+      "actual": 0.0875,
+      "expected": 0.0875
+    },
+    {
+      "kind": "native-mutants",
+      "file": "50_CapTable_Gruendung_und_Finanzierungsoptionen.xlsx",
+      "sheet": "Cap Table",
+      "cell": "D18",
+      "actual": 31000,
+      "expected": 31000
+    },
+    {
+      "kind": "native-mutants",
+      "file": "50_CapTable_Gruendung_und_Finanzierungsoptionen.xlsx",
+      "sheet": "Cap Table",
+      "cell": "F18",
+      "actual": 61000,
+      "expected": 61000
+    },
+    {
+      "kind": "native-mutants",
+      "file": "50_CapTable_Gruendung_und_Finanzierungsoptionen.xlsx",
+      "sheet": "Runden",
+      "cell": "C16",
+      "actual": 2500000,
+      "expected": 2500000
+    },
+    {
+      "kind": "native-mutants",
+      "file": "50_CapTable_Gruendung_und_Finanzierungsoptionen.xlsx",
+      "sheet": "Virtueller Pool",
+      "cell": "C10",
+      "actual": 0,
+      "expected": 0
+    },
+    {
+      "kind": "native-mutants",
+      "file": "51_Auslagen_und_Liquiditaetsplanung.xlsx",
+      "sheet": "Liquidität",
+      "cell": "C27",
+      "actual": 6270.77,
+      "expected": 6270.77
+    },
+    {
+      "kind": "native-mutants",
+      "file": "51_Auslagen_und_Liquiditaetsplanung.xlsx",
+      "sheet": "Liquidität",
+      "cell": "H27",
+      "actual": 42434.77,
+      "expected": 42434.77
+    },
+    {
+      "kind": "native-mutants",
+      "file": "52_Mehrheiten_und_Bezugsrechte.xlsx",
+      "sheet": "Abstimmung",
+      "cell": "C24",
+      "actual": 0.771739130434783,
+      "expected": 0.7717391304347826
+    },
+    {
+      "kind": "native-mutants",
+      "file": "52_Mehrheiten_und_Bezugsrechte.xlsx",
+      "sheet": "Abstimmung",
+      "cell": "D24",
+      "actual": 0.71,
+      "expected": 0.71
+    },
+    {
+      "kind": "native-mutants",
+      "file": "52_Mehrheiten_und_Bezugsrechte.xlsx",
+      "sheet": "Abstimmung",
+      "cell": "C26",
+      "actual": "Ja",
+      "expected": "Ja"
+    },
+    {
+      "kind": "native-mutants",
+      "file": "52_Mehrheiten_und_Bezugsrechte.xlsx",
+      "sheet": "Abstimmung",
+      "cell": "D26",
+      "actual": "Nein",
+      "expected": "Nein"
+    },
+    {
+      "kind": "native-mutants",
+      "file": "52_Mehrheiten_und_Bezugsrechte.xlsx",
+      "sheet": "Bezugsrechte",
+      "cell": "E14",
+      "actual": 2625,
+      "expected": 2625
+    },
+    {
+      "kind": "native-mutants",
+      "file": "52_Mehrheiten_und_Bezugsrechte.xlsx",
+      "sheet": "Bezugsrechte",
+      "cell": "E23",
+      "actual": 17376,
+      "expected": 17376
+    },
+    {
+      "kind": "native-mutants",
+      "file": "52_Mehrheiten_und_Bezugsrechte.xlsx",
+      "sheet": "Bezugsrechte",
+      "cell": "G25",
+      "actual": 60001,
+      "expected": 60001
+    },
+    {
+      "kind": "native-mutants",
+      "file": "52_Mehrheiten_und_Bezugsrechte.xlsx",
+      "sheet": "Bezugsrechte",
+      "cell": "I25",
+      "actual": 1800000,
+      "expected": 1800000
+    }
+  ],
+  "pdfs": [
+    {
+      "file": "50_CapTable_Gruendung_und_Finanzierungsoptionen.pdf",
+      "pages": 8,
+      "page_text_chars": [
+        922,
+        722,
+        755,
+        467,
+        758,
+        429,
+        351,
+        700
+      ]
+    },
+    {
+      "file": "51_Auslagen_und_Liquiditaetsplanung.pdf",
+      "pages": 7,
+      "page_text_chars": [
+        1006,
+        875,
+        1837,
+        924,
+        907,
+        891,
+        730
+      ]
+    },
+    {
+      "file": "52_Mehrheiten_und_Bezugsrechte.pdf",
+      "pages": 6,
+      "page_text_chars": [
+        518,
+        807,
+        779,
+        1186,
+        336,
+        749
+      ]
+    }
+  ]
+}

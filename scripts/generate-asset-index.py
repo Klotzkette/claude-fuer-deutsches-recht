@@ -112,7 +112,7 @@ def main() -> int:
             focus_path = f"{rel}/{name}-hauptproblem.md"
             focus_download = markdown_download(focus_path, f"{name}-hauptproblem.md") if (REPO / focus_path).is_file() else "Nicht vorgesehen"
             workshop_download = " · ".join(markdown_download(f"{rel}/{name}-werkstatt.{ext}", f"{name}-werkstatt.{ext}") for ext in formats(name)) if enabled(name, "werkstatt") else "Nicht vorgesehen"
-            quickstart_download = markdown_download(schnellstart_path, schnellstart_file) if enabled(name, "schnellstart") else "Nicht vorgesehen"
+            quickstart_download = " · ".join(markdown_download(f"{rel}/{name}-schnellstart.{ext}", f"{name}-schnellstart.{ext}") for ext in formats(name)) if enabled(name, "schnellstart") else "Nicht vorgesehen"
             zip_url = f"{RELEASE}/{name}.zip"
             navigation = f"[README]({rel}/README.md) · [Skills](skills-index/{name}.md)"
             lines.append(

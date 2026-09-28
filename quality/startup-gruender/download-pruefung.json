@@ -1,0 +1,1450 @@
+{
+  "aggregate": {
+    "file": "testakten/startup-gruender-schnittflug-berlin/gesamt-pdf/startup-gruender-schnittflug-berlin_gesamt.pdf",
+    "sha256": "36b12a656f177233250e2eb00db1a0bf4a2d6a7657e72bfa0f701f6973e9511d",
+    "pages": 139,
+    "source_files": 68,
+    "source_formats": {
+      ".eml": 24,
+      ".txt": 3,
+      ".png": 4,
+      ".docx": 21,
+      ".xlsx": 3,
+      ".pdf": 13
+    },
+    "source_content_pages": 102,
+    "separator_pages": 37,
+    "covered_page_numbers": 139,
+    "all_single_pdf_text_matches": true,
+    "warning_present_in_pdf": false
+  },
+  "archives": {
+    "testakte-startup-gruender-schnittflug-berlin.zip": {
+      "sha256": "cd08168ff799258cd24b85dbacf5a155ab0636ac111054df65c184bcacbadaec",
+      "entry_count": 70,
+      "crc_error": null,
+      "flat": true,
+      "first_entry": "README.txt",
+      "exact_expected_member_set": true,
+      "missing": [],
+      "extra": [],
+      "readme_text": "HINWEIS / NOTICE\n=================\n\nDiese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.\n\nThis test case file was generated with AI and is an experiment. Use at your own responsibility and risk.\n",
+      "readme_warning_first_content_block": true,
+      "source_bytes_match": true,
+      "aggregate_bytes_match": true
+    },
+    "testakte-startup-gruender-schnittflug-berlin-einzelpdfs.zip": {
+      "sha256": "4fa2968e047ccf54b306657deaf830dc66057241fb1f2b7a823bc8ac9872ca33",
+      "entry_count": 69,
+      "crc_error": null,
+      "flat": true,
+      "first_entry": "README.txt",
+      "exact_expected_member_set": true,
+      "missing": [],
+      "extra": [],
+      "readme_text": "HINWEIS / NOTICE\n=================\n\nDiese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.\n\nThis test case file was generated with AI and is an experiment. Use at your own responsibility and risk.\n",
+      "readme_warning_first_content_block": true,
+      "source_bytes_match": null,
+      "aggregate_bytes_match": null
+    }
+  },
+  "native_manifest": [
+    {
+      "file": "01_20260817_Erste_Quoten.eml",
+      "sha256": "902fcc61acb1fa9978f4f2e01c4e3b6aec95a7759c9dbd77495b9a9c635568d4",
+      "separator_page": null,
+      "content_pages": [
+        4
+      ],
+      "single_pdf_pages": 1,
+      "aggregate_text_matches_single_pdf": true,
+      "mismatched_pages": []
+    },
+    {
+      "file": "02_20260818_Designarbeit.eml",
+      "sha256": "c0dd26e37ad5c25e615976095a5cf5c8f6b8c774681d6054ee65c8ee0cc99105",
+      "separator_page": null,
+      "content_pages": [
+        5
+      ],
+      "single_pdf_pages": 1,
+      "aggregate_text_matches_single_pdf": true,
+      "mismatched_pages": []
+    },
+    {
+      "file": "03_20260821_Kostenablage.eml",
+      "sha256": "506a0faba9c4ea724307015ab42e26794b3aeb1c2e37393732fc4263fa65c9f9",
+      "separator_page": null,
+      "content_pages": [
+        6
+      ],
+      "single_pdf_pages": 1,
+      "aggregate_text_matches_single_pdf": true,
+      "mismatched_pages": []
+    },
+    {
+      "file": "04_20260828_Produktnotiz.eml",
+      "sha256": "33bcd5c28fcb526c972984183e413761ca591e19f88ffb79206b6633fa6be8ce",
+      "separator_page": null,
+      "content_pages": [
+        7
+      ],
+      "single_pdf_pages": 1,
+      "aggregate_text_matches_single_pdf": true,
+      "mismatched_pages": []
+    },
+    {
+      "file": "05_20260902_Hochschulprojekt.eml",
+      "sha256": "6598a9d43fdef16ad6afa5bcb4f5a9ca800e220ea5c4f1c3ee26f3c68388fcd1",
+      "separator_page": null,
+      "content_pages": [
+        8
+      ],
+      "single_pdf_pages": 1,
+      "aggregate_text_matches_single_pdf": true,
+      "mismatched_pages": []
+    },
+    {
+      "file": "06_20260905_Werkraum.eml",
+      "sha256": "3c0e63acbe064687b5be31f4a5d443428b2b8402c33ec669e5130fdf52c1a57e",
+      "separator_page": null,
+      "content_pages": [
+        9
+      ],
+      "single_pdf_pages": 1,
+      "aggregate_text_matches_single_pdf": true,
+      "mismatched_pages": []
+    },
+    {
+      "file": "07_20260907_Aufenthalt_und_Mittel.eml",
+      "sha256": "f36da4f47ebcb21ad74ea2167aabb781b1e1be18fa2b7b29064bda079ff8469e",
+      "separator_page": null,
+      "content_pages": [
+        10
+      ],
+      "single_pdf_pages": 1,
+      "aggregate_text_matches_single_pdf": true,
+      "mismatched_pages": []
+    },
+    {
+      "file": "08_20260910_Neue_Quoten.eml",
+      "sha256": "866a7e92928f6f1a6696171850917ad0d907eee97c4a4118ca7169f407c0bf22",
+      "separator_page": null,
+      "content_pages": [
+        11
+      ],
+      "single_pdf_pages": 1,
+      "aggregate_text_matches_single_pdf": true,
+      "mismatched_pages": []
+    },
+    {
+      "file": "09_20260911_Musterprotokoll.eml",
+      "sha256": "36b8fa48bea40c2dba24aa51e38ae8f8526a6a4872fa5e5ecccdf84c655e4d4e",
+      "separator_page": null,
+      "content_pages": [
+        12
+      ],
+      "single_pdf_pages": 1,
+      "aggregate_text_matches_single_pdf": true,
+      "mismatched_pages": []
+    },
+    {
+      "file": "10_20260913_Krankheit.eml",
+      "sha256": "74dcfa7da1e8c0f516c59afae9e5de01316e6a56c7e05b91451b899f37977774",
+      "separator_page": null,
+      "content_pages": [
+        13
+      ],
+      "single_pdf_pages": 1,
+      "aggregate_text_matches_single_pdf": true,
+      "mismatched_pages": []
+    },
+    {
+      "file": "11_20260914_Anwaltsauftrag.eml",
+      "sha256": "85529044983abfa38a07eff82b9dc3600d833d1aa91fb140fe4a0241dbc9fe3f",
+      "separator_page": null,
+      "content_pages": [
+        14
+      ],
+      "single_pdf_pages": 1,
+      "aggregate_text_matches_single_pdf": true,
+      "mismatched_pages": []
+    },
+    {
+      "file": "12_20260916_Kontoanfrage.eml",
+      "sha256": "6841310f28e26211865cb7bff993e9269512fcfd86e977d5349509f1b7b93988",
+      "separator_page": null,
+      "content_pages": [
+        15
+      ],
+      "single_pdf_pages": 1,
+      "aggregate_text_matches_single_pdf": true,
+      "mismatched_pages": []
+    },
+    {
+      "file": "13_20260918_KYC_Antwort.eml",
+      "sha256": "c580fd6efb063e9ac300221d37d070377f110b3b553b2d594f08557ec39a228c",
+      "separator_page": null,
+      "content_pages": [
+        16
+      ],
+      "single_pdf_pages": 1,
+      "aggregate_text_matches_single_pdf": true,
+      "mismatched_pages": []
+    },
+    {
+      "file": "14_20260919_Entwicklungsauftrag.eml",
+      "sha256": "310f49b7b2f250b23b2a51e6a9e8c8ad574eb00ed23e7c7068c93c36dd3acc5b",
+      "separator_page": null,
+      "content_pages": [
+        17
+      ],
+      "single_pdf_pages": 1,
+      "aggregate_text_matches_single_pdf": true,
+      "mismatched_pages": []
+    },
+    {
+      "file": "15_20260921_Seed_Eckpunkte.eml",
+      "sha256": "e35ada64954ab03a5c9c8d3a91d880ed735475b28ce03c6c452fec459c157292",
+      "separator_page": null,
+      "content_pages": [
+        18
+      ],
+      "single_pdf_pages": 1,
+      "aggregate_text_matches_single_pdf": true,
+      "mismatched_pages": []
+    },
+    {
+      "file": "16_20260921_Beirat.eml",
+      "sha256": "3befaad59530757b6524aac62599b679f181f498612f0c5b63f4352fa15d8d92",
+      "separator_page": null,
+      "content_pages": [
+        19
+      ],
+      "single_pdf_pages": 1,
+      "aggregate_text_matches_single_pdf": true,
+      "mismatched_pages": []
+    },
+    {
+      "file": "17_20260922_Handwerk_Versicherung.eml",
+      "sha256": "86d78607b3b39f4827e43014b59ea50fcf3a6569ac18533809db02362d6bcbb1",
+      "separator_page": null,
+      "content_pages": [
+        20
+      ],
+      "single_pdf_pages": 1,
+      "aggregate_text_matches_single_pdf": true,
+      "mismatched_pages": []
+    },
+    {
+      "file": "18_20260923_IP_Unterlagen.eml",
+      "sha256": "2eaf9c20a14a82a8e8f3be6c38d3d4c3019469eb8e9f8783a022a9e9a8dcda9f",
+      "separator_page": null,
+      "content_pages": [
+        21
+      ],
+      "single_pdf_pages": 1,
+      "aggregate_text_matches_single_pdf": true,
+      "mismatched_pages": []
+    },
+    {
+      "file": "19_20260924_Spaetere_Runden.eml",
+      "sha256": "92c61e577e6daad1c2773b1bdbffb8082f4c30b70fa6d2f6905005918bb4d830",
+      "separator_page": null,
+      "content_pages": [
+        22
+      ],
+      "single_pdf_pages": 1,
+      "aggregate_text_matches_single_pdf": true,
+      "mismatched_pages": []
+    },
+    {
+      "file": "20_20260924_Bezugsrecht.eml",
+      "sha256": "39be24d67534b1cbc5a5edd5f0212f183273171ee4d27a867880f685ed4b7f4f",
+      "separator_page": null,
+      "content_pages": [
+        23
+      ],
+      "single_pdf_pages": 1,
+      "aggregate_text_matches_single_pdf": true,
+      "mismatched_pages": []
+    },
+    {
+      "file": "21_20260925_Ottilie_Status.eml",
+      "sha256": "4cb1c326df7e3a26963099be7ee2cfa316988d101232fc3133b8769556b84a2a",
+      "separator_page": null,
+      "content_pages": [
+        24
+      ],
+      "single_pdf_pages": 1,
+      "aggregate_text_matches_single_pdf": true,
+      "mismatched_pages": []
+    },
+    {
+      "file": "22_20260926_Notartermin.eml",
+      "sha256": "190640dc46a02cc19b3db8629bf1c8867c82aef743f4dedb532ff4294c4eabce",
+      "separator_page": null,
+      "content_pages": [
+        25
+      ],
+      "single_pdf_pages": 1,
+      "aggregate_text_matches_single_pdf": true,
+      "mismatched_pages": []
+    },
+    {
+      "file": "23_20260927_Englisch_und_Zusatzblatt.eml",
+      "sha256": "2f99b1c44ddeda34eb4c9d55707a58224353c5cd16b4738abdb05775bdd002e7",
+      "separator_page": null,
+      "content_pages": [
+        26
+      ],
+      "single_pdf_pages": 1,
+      "aggregate_text_matches_single_pdf": true,
+      "mismatched_pages": []
+    },
+    {
+      "file": "24_20260928_Entwurfsauftrag.eml",
+      "sha256": "800094767569df13e1419a03b273c32999f223eaa033e8f41296d288c03f7d83",
+      "separator_page": null,
+      "content_pages": [
+        27
+      ],
+      "single_pdf_pages": 1,
+      "aggregate_text_matches_single_pdf": true,
+      "mismatched_pages": []
+    },
+    {
+      "file": "25_Chat_Gruendung_20260912.txt",
+      "sha256": "443bcde1cd19cd327b73f33029e895da045f862295daed3f3ecabd47f002d77e",
+      "separator_page": null,
+      "content_pages": [
+        1
+      ],
+      "single_pdf_pages": 1,
+      "aggregate_text_matches_single_pdf": true,
+      "mismatched_pages": []
+    },
+    {
+      "file": "26_Chat_Produkt_20260922.txt",
+      "sha256": "34bf1b9f7ba117a2dacf6a49469df147eae9959cda7de28179e7254844514511",
+      "separator_page": null,
+      "content_pages": [
+        2
+      ],
+      "single_pdf_pages": 1,
+      "aggregate_text_matches_single_pdf": true,
+      "mismatched_pages": []
+    },
+    {
+      "file": "27_Chat_Finanzierung_20260924.txt",
+      "sha256": "44ed7aa4d6fdd3831b66a53ea877537e12a1574a39575912268056d27e29c658",
+      "separator_page": null,
+      "content_pages": [
+        3
+      ],
+      "single_pdf_pages": 1,
+      "aggregate_text_matches_single_pdf": true,
+      "mismatched_pages": []
+    },
+    {
+      "file": "28_Projektboard_Stand_20260928.png",
+      "sha256": "d6a9f3e8d1ba523b3094197474cc67a2282602cd12078b1a07855450202c57a3",
+      "separator_page": null,
+      "content_pages": [
+        28
+      ],
+      "single_pdf_pages": 1,
+      "aggregate_text_matches_single_pdf": true,
+      "mismatched_pages": []
+    },
+    {
+      "file": "29_Chat_Ausschnitt_Budget_20260921.png",
+      "sha256": "11fa409353e1294715738e3cc237fdb66f9ec2298e88a307d58d107130c4511f",
+      "separator_page": null,
+      "content_pages": [
+        29
+      ],
+      "single_pdf_pages": 1,
+      "aggregate_text_matches_single_pdf": true,
+      "mismatched_pages": []
+    },
+    {
+      "file": "30_Satzung_Arbeitsentwurf_20260925.docx",
+      "sha256": "8a8e494ae0f3272bbd650287bcebb52a3bb1c678adb3c7e2060359e9c1de6fb3",
+      "separator_page": 56,
+      "content_pages": [
+        57,
+        58,
+        59
+      ],
+      "single_pdf_pages": 3,
+      "aggregate_text_matches_single_pdf": true,
+      "mismatched_pages": []
+    },
+    {
+      "file": "31_Gesellschaftervereinbarung_DE_20260926.docx",
+      "sha256": "add50813bdd113990e8d911786233c236970a2d8bdf94c10bab027d44d5efc82",
+      "separator_page": 60,
+      "content_pages": [
+        61,
+        62,
+        63,
+        64
+      ],
+      "single_pdf_pages": 4,
+      "aggregate_text_matches_single_pdf": true,
+      "mismatched_pages": []
+    },
+    {
+      "file": "32_Shareholders_Agreement_EN_20260926.docx",
+      "sha256": "42d752cdd68768049359ee6c85d84673e579d8eb946e58d2ee3731981561bc6b",
+      "separator_page": 65,
+      "content_pages": [
+        66,
+        67,
+        68
+      ],
+      "single_pdf_pages": 3,
+      "aggregate_text_matches_single_pdf": true,
+      "mismatched_pages": []
+    },
+    {
+      "file": "33_Geschaeftsfuehrerordnung_Entwurf.docx",
+      "sha256": "16a8a904148012f3a39db45c1b64e2f5267491a6496c1c5f6db02274be8ebf91",
+      "separator_page": 69,
+      "content_pages": [
+        70,
+        71
+      ],
+      "single_pdf_pages": 2,
+      "aggregate_text_matches_single_pdf": true,
+      "mismatched_pages": []
+    },
+    {
+      "file": "34_Dienstvertrag_Ottilie_Entwurf.docx",
+      "sha256": "f167fbf02da5435269c84348f79f19b632b358fb8aa5763cc7f3c1c30d26c0ba",
+      "separator_page": 72,
+      "content_pages": [
+        73,
+        74
+      ],
+      "single_pdf_pages": 2,
+      "aggregate_text_matches_single_pdf": true,
+      "mismatched_pages": []
+    },
+    {
+      "file": "35_Geschaeftsfuehrerbestellung_Entwurf.docx",
+      "sha256": "a56f999d51ba4000dc8ff3b1812582c52eb153b665fc90e3a4c74455c5e797f0",
+      "separator_page": 75,
+      "content_pages": [
+        76
+      ],
+      "single_pdf_pages": 1,
+      "aggregate_text_matches_single_pdf": true,
+      "mismatched_pages": []
+    },
+    {
+      "file": "36_Beiratsordnung_Beratungsmodell.docx",
+      "sha256": "d39dfb24f400daef293b48e75b02e0c9aed3752e123d2c9613595a6e1b9f399e",
+      "separator_page": 77,
+      "content_pages": [
+        78,
+        79
+      ],
+      "single_pdf_pages": 2,
+      "aggregate_text_matches_single_pdf": true,
+      "mismatched_pages": []
+    },
+    {
+      "file": "37_IP_Nutzungsrechte_Kunigunde_Entwurf.docx",
+      "sha256": "5697c8493ba58017f55eaeb8b81149a41d32933b4ebec59bb05d1b506a3d2207",
+      "separator_page": 80,
+      "content_pages": [
+        81,
+        82
+      ],
+      "single_pdf_pages": 2,
+      "aggregate_text_matches_single_pdf": true,
+      "mismatched_pages": []
+    },
+    {
+      "file": "38_Vorgruendervereinbarung_Entwurf.docx",
+      "sha256": "e674db6af3f49ccfeba4663c0d4a7d4a7110dbadd4c5ccaa0ac7c3e6bb321f7f",
+      "separator_page": 83,
+      "content_pages": [
+        84,
+        85
+      ],
+      "single_pdf_pages": 2,
+      "aggregate_text_matches_single_pdf": true,
+      "mismatched_pages": []
+    },
+    {
+      "file": "39_Serie_B_Verhandlungspapier_Kapitalerhoehung.docx",
+      "sha256": "dfd0e9524dc1e76d23733f1c21ab62273ee7c5a279d18f6afc36abab1f548a90",
+      "separator_page": 86,
+      "content_pages": [
+        87
+      ],
+      "single_pdf_pages": 1,
+      "aggregate_text_matches_single_pdf": true,
+      "mismatched_pages": []
+    },
+    {
+      "file": "50_CapTable_Gruendung_und_Finanzierungsoptionen.xlsx",
+      "sha256": "b54d2e1dcd280a9d14b2de662ad362dff22f1842e7e511dabb1415a99df67b68",
+      "separator_page": 32,
+      "content_pages": [
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40
+      ],
+      "single_pdf_pages": 8,
+      "aggregate_text_matches_single_pdf": true,
+      "mismatched_pages": []
+    },
+    {
+      "file": "51_Auslagen_und_Liquiditaetsplanung.xlsx",
+      "sha256": "57bd8241521388309fea9bb56bad9b802bd272ea10e4f2ecb2d2180c9655cf21",
+      "separator_page": 41,
+      "content_pages": [
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48
+      ],
+      "single_pdf_pages": 7,
+      "aggregate_text_matches_single_pdf": true,
+      "mismatched_pages": []
+    },
+    {
+      "file": "52_Mehrheiten_und_Bezugsrechte.xlsx",
+      "sha256": "bed82af2120c63a9031819698d79bcb99cb80a7a1037a8b68dcdb94aff0fae67",
+      "separator_page": 49,
+      "content_pages": [
+        50,
+        51,
+        52,
+        53,
+        54,
+        55
+      ],
+      "single_pdf_pages": 6,
+      "aggregate_text_matches_single_pdf": true,
+      "mismatched_pages": []
+    },
+    {
+      "file": "60_01_Rechnung_SF-A001.pdf",
+      "sha256": "4f1e22714d9f34bdf2a55820a5c459abc2c5d213a887e35390a3979d17a0e19b",
+      "separator_page": 114,
+      "content_pages": [
+        115
+      ],
+      "single_pdf_pages": 1,
+      "aggregate_text_matches_single_pdf": true,
+      "mismatched_pages": []
+    },
+    {
+      "file": "60_02_Rechnung_SF-A002.pdf",
+      "sha256": "07b2d12ea8d5a97a69a9727ceac4ad5b0784ec99206fffcc04b39964f75f1c4f",
+      "separator_page": 116,
+      "content_pages": [
+        117
+      ],
+      "single_pdf_pages": 1,
+      "aggregate_text_matches_single_pdf": true,
+      "mismatched_pages": []
+    },
+    {
+      "file": "60_03_Rechnung_SF-A003.pdf",
+      "sha256": "4ab32728865c4bbefc626ad725b3c3d5e025486d4434980aa2cf8e2ef5d84cb8",
+      "separator_page": 118,
+      "content_pages": [
+        119
+      ],
+      "single_pdf_pages": 1,
+      "aggregate_text_matches_single_pdf": true,
+      "mismatched_pages": []
+    },
+    {
+      "file": "60_04_Rechnung_SF-A004.pdf",
+      "sha256": "115dae094aa348cd230b4906fb5664f10c98186c533f223f966b2b52f10c6971",
+      "separator_page": 120,
+      "content_pages": [
+        121
+      ],
+      "single_pdf_pages": 1,
+      "aggregate_text_matches_single_pdf": true,
+      "mismatched_pages": []
+    },
+    {
+      "file": "60_05_Rechnung_SF-A005.pdf",
+      "sha256": "5d991cdec103fd0e8210ae3b8dbf0d01932572f84bc58193c5387b1ee84105c6",
+      "separator_page": 122,
+      "content_pages": [
+        123
+      ],
+      "single_pdf_pages": 1,
+      "aggregate_text_matches_single_pdf": true,
+      "mismatched_pages": []
+    },
+    {
+      "file": "60_06_Rechnung_SF-A006.pdf",
+      "sha256": "c978f1206ff1a7f5c71548609fd9df0bbad7d766acc5def40b09cb52e06752c7",
+      "separator_page": 124,
+      "content_pages": [
+        125
+      ],
+      "single_pdf_pages": 1,
+      "aggregate_text_matches_single_pdf": true,
+      "mismatched_pages": []
+    },
+    {
+      "file": "60_07_Rechnung_SF-A007.pdf",
+      "sha256": "17820444233c87b61eac92b32f55ecdc51a4d37b37905a9ed60fc738b7806e22",
+      "separator_page": 126,
+      "content_pages": [
+        127
+      ],
+      "single_pdf_pages": 1,
+      "aggregate_text_matches_single_pdf": true,
+      "mismatched_pages": []
+    },
+    {
+      "file": "60_08_Rechnung_SF-A008.pdf",
+      "sha256": "09a436c72ba8f33b163d1821de8fb9e44e542e60fb24b8c1f87e5fb93991bc5e",
+      "separator_page": 128,
+      "content_pages": [
+        129
+      ],
+      "single_pdf_pages": 1,
+      "aggregate_text_matches_single_pdf": true,
+      "mismatched_pages": []
+    },
+    {
+      "file": "60_09_Rechnung_SF-A009.pdf",
+      "sha256": "1e22338e7829488aa6617fb82cf9a8e9898e7ba1c0cc38c468a5460331d0ff87",
+      "separator_page": 130,
+      "content_pages": [
+        131
+      ],
+      "single_pdf_pages": 1,
+      "aggregate_text_matches_single_pdf": true,
+      "mismatched_pages": []
+    },
+    {
+      "file": "60_10_Rechnung_SF-A010.pdf",
+      "sha256": "2e1e5d30a256371dc2dc82a6f10bfedd0578712387a681808233d875ed22970f",
+      "separator_page": 132,
+      "content_pages": [
+        133
+      ],
+      "single_pdf_pages": 1,
+      "aggregate_text_matches_single_pdf": true,
+      "mismatched_pages": []
+    },
+    {
+      "file": "60_11_Rechnung_SF-A012.pdf",
+      "sha256": "a3aad3526655b265c4114bc952d89a24ef9e956f2d90273ec2165e0b1830ccf2",
+      "separator_page": 134,
+      "content_pages": [
+        135
+      ],
+      "single_pdf_pages": 1,
+      "aggregate_text_matches_single_pdf": true,
+      "mismatched_pages": []
+    },
+    {
+      "file": "60_12_Rechnung_SF-A013.pdf",
+      "sha256": "103feb5e9b0a7fc423fc8ae4c35e370c8c8a2ed3ba92b9b78f1fd9f1aa5a382c",
+      "separator_page": 136,
+      "content_pages": [
+        137
+      ],
+      "single_pdf_pages": 1,
+      "aggregate_text_matches_single_pdf": true,
+      "mismatched_pages": []
+    },
+    {
+      "file": "61_01_Gutschrift_SF-A011.pdf",
+      "sha256": "7b2a744bdddc9dca4a08c3d73bb9292ff1913e3a249f9f4a9c41ad063dfbc5eb",
+      "separator_page": 138,
+      "content_pages": [
+        139
+      ],
+      "single_pdf_pages": 1,
+      "aggregate_text_matches_single_pdf": true,
+      "mismatched_pages": []
+    },
+    {
+      "file": "70_Kontoanfrage_Status_20260928.png",
+      "sha256": "d44a7ffd9f2915f5f10135b227020caf7b1d7241f7273d0113627047ef86c022",
+      "separator_page": null,
+      "content_pages": [
+        30
+      ],
+      "single_pdf_pages": 1,
+      "aggregate_text_matches_single_pdf": true,
+      "mismatched_pages": []
+    },
+    {
+      "file": "71_Produktboard_20260922.png",
+      "sha256": "a963a8d3a1ba85f6da14abd9f3184433ef03bd3a0eca414b10638a3d199ea40e",
+      "separator_page": null,
+      "content_pages": [
+        31
+      ],
+      "single_pdf_pages": 1,
+      "aggregate_text_matches_single_pdf": true,
+      "mismatched_pages": []
+    },
+    {
+      "file": "72_Produktnotiz_Drohnenfriseur_20260828.docx",
+      "sha256": "939cb2a60db9cbdedaaa296bc0625d6ff2e29e97cb5b0132cb9ce70956321b0b",
+      "separator_page": 88,
+      "content_pages": [
+        89
+      ],
+      "single_pdf_pages": 1,
+      "aggregate_text_matches_single_pdf": true,
+      "mismatched_pages": []
+    },
+    {
+      "file": "73_Sieben_Gruender_Antworten_20260910.docx",
+      "sha256": "1802ed46abda299b756cabba2ec3ba55286a513ebe5e1d65aca64188261d6888",
+      "separator_page": 90,
+      "content_pages": [
+        91,
+        92
+      ],
+      "single_pdf_pages": 2,
+      "aggregate_text_matches_single_pdf": true,
+      "mismatched_pages": []
+    },
+    {
+      "file": "74_Gruenderabend_Notizen_20260912.docx",
+      "sha256": "17a38a8bc66bcd0740761af275cd4a0555aefca259645ac8aa03be2464efb321",
+      "separator_page": 93,
+      "content_pages": [
+        94,
+        95
+      ],
+      "single_pdf_pages": 2,
+      "aggregate_text_matches_single_pdf": true,
+      "mismatched_pages": []
+    },
+    {
+      "file": "75_Bank_KYC_Unterlagenliste_20260918.docx",
+      "sha256": "afc93d1d1c2cb877e56f6deadd821d31415f6ae13885a863b1fa0c2f78d8d264",
+      "separator_page": 96,
+      "content_pages": [
+        97
+      ],
+      "single_pdf_pages": 1,
+      "aggregate_text_matches_single_pdf": true,
+      "mismatched_pages": []
+    },
+    {
+      "file": "76_Werkraum_Nutzungsvertrag_Entwurf_20260905.docx",
+      "sha256": "4fa0f5ecda5187233e63c4268ffa458c2316b04a3f2705f79d571e966b68b94d",
+      "separator_page": 98,
+      "content_pages": [
+        99,
+        100
+      ],
+      "single_pdf_pages": 2,
+      "aggregate_text_matches_single_pdf": true,
+      "mismatched_pages": []
+    },
+    {
+      "file": "77_Wolkenwickel_Seed_Termsheet_20260921.docx",
+      "sha256": "853e1c5f1cf67cca82d8ca87ad221512bd7f39d909f150130b5b38311c055a6b",
+      "separator_page": 101,
+      "content_pages": [
+        102,
+        103
+      ],
+      "single_pdf_pages": 2,
+      "aggregate_text_matches_single_pdf": true,
+      "mismatched_pages": []
+    },
+    {
+      "file": "78_Spaetere_Runden_Verhandlungsnotiz_20260924.docx",
+      "sha256": "0c1df83e74e5cecea3a7212fe00db3381c1728ffaea48bd2ef17604695549d08",
+      "separator_page": 104,
+      "content_pages": [
+        105
+      ],
+      "single_pdf_pages": 1,
+      "aggregate_text_matches_single_pdf": true,
+      "mismatched_pages": []
+    },
+    {
+      "file": "79_Ottilie_Taetigkeit_Statusfragebogen_20260925.docx",
+      "sha256": "ba8a7658ceabb845f9f4830a1d828a6d5131a141b0befa3f5674cbb256a70f3f",
+      "separator_page": 106,
+      "content_pages": [
+        107
+      ],
+      "single_pdf_pages": 1,
+      "aggregate_text_matches_single_pdf": true,
+      "mismatched_pages": []
+    },
+    {
+      "file": "80_Software_und_Rechte_Herkunft_20260923.docx",
+      "sha256": "a0348c0a9196f95cb7d32d45bd3810d00771bbbca729cbe83ec9a6b9915b35b7",
+      "separator_page": 108,
+      "content_pages": [
+        109
+      ],
+      "single_pdf_pages": 1,
+      "aggregate_text_matches_single_pdf": true,
+      "mismatched_pages": []
+    },
+    {
+      "file": "81_Telefonnotiz_Handwerk_Versicherung_20260922.docx",
+      "sha256": "77aae2666a492a9fda7b7ba65eabed1c918ca5bbaebce96550aac7ec15e09271",
+      "separator_page": 110,
+      "content_pages": [
+        111
+      ],
+      "single_pdf_pages": 1,
+      "aggregate_text_matches_single_pdf": true,
+      "mismatched_pages": []
+    },
+    {
+      "file": "82_Notar_Datenaufnahme_20260928.docx",
+      "sha256": "9bc88707abd5866905d7d8d155811f276345117cd82bc23c6470fb3ef60c14bb",
+      "separator_page": 112,
+      "content_pages": [
+        113
+      ],
+      "single_pdf_pages": 1,
+      "aggregate_text_matches_single_pdf": true,
+      "mismatched_pages": []
+    }
+  ],
+  "email_attachments": [
+    {
+      "email": "04_20260828_Produktnotiz.eml",
+      "attachment": "72_Produktnotiz_Drohnenfriseur_20260828.docx",
+      "present_as_native": true,
+      "bytes_match_native": true
+    },
+    {
+      "email": "06_20260905_Werkraum.eml",
+      "attachment": "76_Werkraum_Nutzungsvertrag_Entwurf_20260905.docx",
+      "present_as_native": true,
+      "bytes_match_native": true
+    },
+    {
+      "email": "13_20260918_KYC_Antwort.eml",
+      "attachment": "75_Bank_KYC_Unterlagenliste_20260918.docx",
+      "present_as_native": true,
+      "bytes_match_native": true
+    },
+    {
+      "email": "15_20260921_Seed_Eckpunkte.eml",
+      "attachment": "77_Wolkenwickel_Seed_Termsheet_20260921.docx",
+      "present_as_native": true,
+      "bytes_match_native": true
+    }
+  ],
+  "label_check": [
+    [
+      "52_Mehrheiten_und_Bezugsrechte.xlsx",
+      "Bezugsrechte",
+      "D8",
+      "Preis / EUR nominal"
+    ]
+  ],
+  "schema_version": 1,
+  "checked_at_utc": "2026-09-28T13:39:19.228102+00:00",
+  "status": "bestanden",
+  "scope": "Begrenzter unabhängiger Download-/PDF-Ausführungstest nach Fertigmarker und gezielte Nachprüfung der korrigierten finalen Exporte. Keine juristische Neuabnahme.",
+  "runtime": {
+    "python": "/Users/klotzkette/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3",
+    "skill": "/Users/klotzkette/.codex/plugins/cache/openai-primary-runtime/pdf/26.905.11957/skills/pdf/SKILL.md",
+    "renderer": "pdftoppm, 110 dpi",
+    "libraries": [
+      "pypdf",
+      "Pillow",
+      "lxml",
+      "openpyxl"
+    ]
+  },
+  "method": [
+    "ZIP-CRC, flache Struktur, exakte Dateimengen und Reihenfolge des ersten Eintrags geprüft. Original-ZIP bytegenau gegen alle 68 nativen Dateien und finales Gesamt-PDF geprüft.",
+    "Alle 68 Einzel-PDFs aus dem ZIP geöffnet. Sämtliche 102 Inhaltsseiten im Gesamt-PDF mit den Einzel-PDF-Seiten textlich abgeglichen; nur Umbruchs-Whitespace, Akten-/Seitenfuß und unterschiedliche Datei-/Kategorieüberschriften normalisiert.",
+    "Alle 139 Seiten vollständig und überschneidungsfrei als 102 Inhaltsseiten plus 37 Dateitrennseiten zugeordnet.",
+    "Alle 24 EML-Körper und 3 TXT vollständig gegen PDF-Text geprüft; alle 4 PNG-Bilder gegen die Pixel der eingebetteten PDF-Bilder geprüft. Vier MIME-DOCX-Anlagen mit separaten nativen Dateien bytegenau abgeglichen.",
+    "Alle 466 nichtleeren Haupttext-/Tabellenabsätze der 21 DOCX gegen Gesamt-PDF-Text geprüft; laufende Seitenköpfe und Whitespace normalisiert. Text aller 13 nativen PDFs vollständig abgeglichen.",
+    "21 XLSX-Inhaltsseiten im Erstlauf tatsächlich visuell geprüft. Nach Druckkorrektur zehn gezielt betroffene Seiten des finalen Gesamt-PDFs erneut gerendert und visuell geprüft. Officeoriginale waren laut Auftrag zusätzlich vom zuständigen Agenten vollständig geprüft."
+  ],
+  "native_content_checks": [
+    {
+      "file": "01_20260817_Erste_Quoten.eml",
+      "check": "native_email_body_in_pdf",
+      "pass": true
+    },
+    {
+      "file": "02_20260818_Designarbeit.eml",
+      "check": "native_email_body_in_pdf",
+      "pass": true
+    },
+    {
+      "file": "03_20260821_Kostenablage.eml",
+      "check": "native_email_body_in_pdf",
+      "pass": true
+    },
+    {
+      "file": "04_20260828_Produktnotiz.eml",
+      "check": "native_email_body_in_pdf",
+      "pass": true
+    },
+    {
+      "file": "05_20260902_Hochschulprojekt.eml",
+      "check": "native_email_body_in_pdf",
+      "pass": true
+    },
+    {
+      "file": "06_20260905_Werkraum.eml",
+      "check": "native_email_body_in_pdf",
+      "pass": true
+    },
+    {
+      "file": "07_20260907_Aufenthalt_und_Mittel.eml",
+      "check": "native_email_body_in_pdf",
+      "pass": true
+    },
+    {
+      "file": "08_20260910_Neue_Quoten.eml",
+      "check": "native_email_body_in_pdf",
+      "pass": true
+    },
+    {
+      "file": "09_20260911_Musterprotokoll.eml",
+      "check": "native_email_body_in_pdf",
+      "pass": true
+    },
+    {
+      "file": "10_20260913_Krankheit.eml",
+      "check": "native_email_body_in_pdf",
+      "pass": true
+    },
+    {
+      "file": "11_20260914_Anwaltsauftrag.eml",
+      "check": "native_email_body_in_pdf",
+      "pass": true
+    },
+    {
+      "file": "12_20260916_Kontoanfrage.eml",
+      "check": "native_email_body_in_pdf",
+      "pass": true
+    },
+    {
+      "file": "13_20260918_KYC_Antwort.eml",
+      "check": "native_email_body_in_pdf",
+      "pass": true
+    },
+    {
+      "file": "14_20260919_Entwicklungsauftrag.eml",
+      "check": "native_email_body_in_pdf",
+      "pass": true
+    },
+    {
+      "file": "15_20260921_Seed_Eckpunkte.eml",
+      "check": "native_email_body_in_pdf",
+      "pass": true
+    },
+    {
+      "file": "16_20260921_Beirat.eml",
+      "check": "native_email_body_in_pdf",
+      "pass": true
+    },
+    {
+      "file": "17_20260922_Handwerk_Versicherung.eml",
+      "check": "native_email_body_in_pdf",
+      "pass": true
+    },
+    {
+      "file": "18_20260923_IP_Unterlagen.eml",
+      "check": "native_email_body_in_pdf",
+      "pass": true
+    },
+    {
+      "file": "19_20260924_Spaetere_Runden.eml",
+      "check": "native_email_body_in_pdf",
+      "pass": true
+    },
+    {
+      "file": "20_20260924_Bezugsrecht.eml",
+      "check": "native_email_body_in_pdf",
+      "pass": true
+    },
+    {
+      "file": "21_20260925_Ottilie_Status.eml",
+      "check": "native_email_body_in_pdf",
+      "pass": true
+    },
+    {
+      "file": "22_20260926_Notartermin.eml",
+      "check": "native_email_body_in_pdf",
+      "pass": true
+    },
+    {
+      "file": "23_20260927_Englisch_und_Zusatzblatt.eml",
+      "check": "native_email_body_in_pdf",
+      "pass": true
+    },
+    {
+      "file": "24_20260928_Entwurfsauftrag.eml",
+      "check": "native_email_body_in_pdf",
+      "pass": true
+    },
+    {
+      "file": "25_Chat_Gruendung_20260912.txt",
+      "check": "native_text_in_pdf",
+      "pass": true
+    },
+    {
+      "file": "26_Chat_Produkt_20260922.txt",
+      "check": "native_text_in_pdf",
+      "pass": true
+    },
+    {
+      "file": "27_Chat_Finanzierung_20260924.txt",
+      "check": "native_text_in_pdf",
+      "pass": true
+    },
+    {
+      "file": "28_Projektboard_Stand_20260928.png",
+      "check": "native_png_pixels_in_pdf",
+      "pass": true,
+      "embedded_images": 1
+    },
+    {
+      "file": "29_Chat_Ausschnitt_Budget_20260921.png",
+      "check": "native_png_pixels_in_pdf",
+      "pass": true,
+      "embedded_images": 1
+    },
+    {
+      "file": "30_Satzung_Arbeitsentwurf_20260925.docx",
+      "check": "native_docx_body_paragraphs_in_pdf",
+      "native_paragraphs": 45,
+      "missing_paragraphs": [],
+      "pass": true
+    },
+    {
+      "file": "31_Gesellschaftervereinbarung_DE_20260926.docx",
+      "check": "native_docx_body_paragraphs_in_pdf",
+      "native_paragraphs": 46,
+      "missing_paragraphs": [],
+      "pass": true
+    },
+    {
+      "file": "32_Shareholders_Agreement_EN_20260926.docx",
+      "check": "native_docx_body_paragraphs_in_pdf",
+      "native_paragraphs": 46,
+      "missing_paragraphs": [],
+      "pass": true
+    },
+    {
+      "file": "33_Geschaeftsfuehrerordnung_Entwurf.docx",
+      "check": "native_docx_body_paragraphs_in_pdf",
+      "native_paragraphs": 23,
+      "missing_paragraphs": [],
+      "pass": true
+    },
+    {
+      "file": "34_Dienstvertrag_Ottilie_Entwurf.docx",
+      "check": "native_docx_body_paragraphs_in_pdf",
+      "native_paragraphs": 29,
+      "missing_paragraphs": [],
+      "pass": true
+    },
+    {
+      "file": "35_Geschaeftsfuehrerbestellung_Entwurf.docx",
+      "check": "native_docx_body_paragraphs_in_pdf",
+      "native_paragraphs": 14,
+      "missing_paragraphs": [],
+      "pass": true
+    },
+    {
+      "file": "36_Beiratsordnung_Beratungsmodell.docx",
+      "check": "native_docx_body_paragraphs_in_pdf",
+      "native_paragraphs": 21,
+      "missing_paragraphs": [],
+      "pass": true
+    },
+    {
+      "file": "37_IP_Nutzungsrechte_Kunigunde_Entwurf.docx",
+      "check": "native_docx_body_paragraphs_in_pdf",
+      "native_paragraphs": 19,
+      "missing_paragraphs": [],
+      "pass": true
+    },
+    {
+      "file": "38_Vorgruendervereinbarung_Entwurf.docx",
+      "check": "native_docx_body_paragraphs_in_pdf",
+      "native_paragraphs": 20,
+      "missing_paragraphs": [],
+      "pass": true
+    },
+    {
+      "file": "39_Serie_B_Verhandlungspapier_Kapitalerhoehung.docx",
+      "check": "native_docx_body_paragraphs_in_pdf",
+      "native_paragraphs": 17,
+      "missing_paragraphs": [],
+      "pass": true
+    },
+    {
+      "file": "60_01_Rechnung_SF-A001.pdf",
+      "check": "native_pdf_text_in_aggregate",
+      "native_pages": 1,
+      "aggregate_pages": 1,
+      "pass": true
+    },
+    {
+      "file": "60_02_Rechnung_SF-A002.pdf",
+      "check": "native_pdf_text_in_aggregate",
+      "native_pages": 1,
+      "aggregate_pages": 1,
+      "pass": true
+    },
+    {
+      "file": "60_03_Rechnung_SF-A003.pdf",
+      "check": "native_pdf_text_in_aggregate",
+      "native_pages": 1,
+      "aggregate_pages": 1,
+      "pass": true
+    },
+    {
+      "file": "60_04_Rechnung_SF-A004.pdf",
+      "check": "native_pdf_text_in_aggregate",
+      "native_pages": 1,
+      "aggregate_pages": 1,
+      "pass": true
+    },
+    {
+      "file": "60_05_Rechnung_SF-A005.pdf",
+      "check": "native_pdf_text_in_aggregate",
+      "native_pages": 1,
+      "aggregate_pages": 1,
+      "pass": true
+    },
+    {
+      "file": "60_06_Rechnung_SF-A006.pdf",
+      "check": "native_pdf_text_in_aggregate",
+      "native_pages": 1,
+      "aggregate_pages": 1,
+      "pass": true
+    },
+    {
+      "file": "60_07_Rechnung_SF-A007.pdf",
+      "check": "native_pdf_text_in_aggregate",
+      "native_pages": 1,
+      "aggregate_pages": 1,
+      "pass": true
+    },
+    {
+      "file": "60_08_Rechnung_SF-A008.pdf",
+      "check": "native_pdf_text_in_aggregate",
+      "native_pages": 1,
+      "aggregate_pages": 1,
+      "pass": true
+    },
+    {
+      "file": "60_09_Rechnung_SF-A009.pdf",
+      "check": "native_pdf_text_in_aggregate",
+      "native_pages": 1,
+      "aggregate_pages": 1,
+      "pass": true
+    },
+    {
+      "file": "60_10_Rechnung_SF-A010.pdf",
+      "check": "native_pdf_text_in_aggregate",
+      "native_pages": 1,
+      "aggregate_pages": 1,
+      "pass": true
+    },
+    {
+      "file": "60_11_Rechnung_SF-A012.pdf",
+      "check": "native_pdf_text_in_aggregate",
+      "native_pages": 1,
+      "aggregate_pages": 1,
+      "pass": true
+    },
+    {
+      "file": "60_12_Rechnung_SF-A013.pdf",
+      "check": "native_pdf_text_in_aggregate",
+      "native_pages": 1,
+      "aggregate_pages": 1,
+      "pass": true
+    },
+    {
+      "file": "61_01_Gutschrift_SF-A011.pdf",
+      "check": "native_pdf_text_in_aggregate",
+      "native_pages": 1,
+      "aggregate_pages": 1,
+      "pass": true
+    },
+    {
+      "file": "70_Kontoanfrage_Status_20260928.png",
+      "check": "native_png_pixels_in_pdf",
+      "pass": true,
+      "embedded_images": 1
+    },
+    {
+      "file": "71_Produktboard_20260922.png",
+      "check": "native_png_pixels_in_pdf",
+      "pass": true,
+      "embedded_images": 1
+    },
+    {
+      "file": "72_Produktnotiz_Drohnenfriseur_20260828.docx",
+      "check": "native_docx_body_paragraphs_in_pdf",
+      "native_paragraphs": 15,
+      "missing_paragraphs": [],
+      "pass": true
+    },
+    {
+      "file": "73_Sieben_Gruender_Antworten_20260910.docx",
+      "check": "native_docx_body_paragraphs_in_pdf",
+      "native_paragraphs": 25,
+      "missing_paragraphs": [],
+      "pass": true
+    },
+    {
+      "file": "74_Gruenderabend_Notizen_20260912.docx",
+      "check": "native_docx_body_paragraphs_in_pdf",
+      "native_paragraphs": 18,
+      "missing_paragraphs": [],
+      "pass": true
+    },
+    {
+      "file": "75_Bank_KYC_Unterlagenliste_20260918.docx",
+      "check": "native_docx_body_paragraphs_in_pdf",
+      "native_paragraphs": 16,
+      "missing_paragraphs": [],
+      "pass": true
+    },
+    {
+      "file": "76_Werkraum_Nutzungsvertrag_Entwurf_20260905.docx",
+      "check": "native_docx_body_paragraphs_in_pdf",
+      "native_paragraphs": 19,
+      "missing_paragraphs": [],
+      "pass": true
+    },
+    {
+      "file": "77_Wolkenwickel_Seed_Termsheet_20260921.docx",
+      "check": "native_docx_body_paragraphs_in_pdf",
+      "native_paragraphs": 18,
+      "missing_paragraphs": [],
+      "pass": true
+    },
+    {
+      "file": "78_Spaetere_Runden_Verhandlungsnotiz_20260924.docx",
+      "check": "native_docx_body_paragraphs_in_pdf",
+      "native_paragraphs": 15,
+      "missing_paragraphs": [],
+      "pass": true
+    },
+    {
+      "file": "79_Ottilie_Taetigkeit_Statusfragebogen_20260925.docx",
+      "check": "native_docx_body_paragraphs_in_pdf",
+      "native_paragraphs": 16,
+      "missing_paragraphs": [],
+      "pass": true
+    },
+    {
+      "file": "80_Software_und_Rechte_Herkunft_20260923.docx",
+      "check": "native_docx_body_paragraphs_in_pdf",
+      "native_paragraphs": 15,
+      "missing_paragraphs": [],
+      "pass": true
+    },
+    {
+      "file": "81_Telefonnotiz_Handwerk_Versicherung_20260922.docx",
+      "check": "native_docx_body_paragraphs_in_pdf",
+      "native_paragraphs": 13,
+      "missing_paragraphs": [],
+      "pass": true
+    },
+    {
+      "file": "82_Notar_Datenaufnahme_20260928.docx",
+      "check": "native_docx_body_paragraphs_in_pdf",
+      "native_paragraphs": 16,
+      "missing_paragraphs": [],
+      "pass": true
+    }
+  ],
+  "native_content_checks_all_pass": true,
+  "native_changes_since_initial_check": [
+    "50_CapTable_Gruendung_und_Finanzierungsoptionen.xlsx",
+    "51_Auslagen_und_Liquiditaetsplanung.xlsx",
+    "52_Mehrheiten_und_Bezugsrechte.xlsx"
+  ],
+  "visual_initial": {
+    "aggregate_sha256": "c2ecb3855902ce6c7d2e7c1f9a9babeaf36a160ad03ef73072ebea3c1228b240",
+    "render_dpi": 110,
+    "actually_inspected_aggregate_pages": [
+      1,
+      3,
+      7,
+      9,
+      16,
+      18,
+      27,
+      28,
+      29,
+      30,
+      31,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55
+    ],
+    "count": 32,
+    "scope": "TXT Stichprobe, EML Stichprobe einschließlich aktualisierter Mails und Anlagenverweise, alle 4 PNG-Seiten und alle 21 XLSX-Inhaltsseiten",
+    "findings": [
+      {
+        "page": 52,
+        "source": "52_Mehrheiten_und_Bezugsrechte.xlsx",
+        "sheet": "Bezugsrechte",
+        "cell": "D8",
+        "kind": "abgeschnittene Feldbezeichnung",
+        "description": "Preis / EUR nominal wird rechts verkürzt. Wert 90.00 vollständig.",
+        "status": "behoben; im finalen Gesamt-PDF visuell bestätigt"
+      },
+      {
+        "page": 37,
+        "source": "50_CapTable_Gruendung_und_Finanzierungsoptionen.xlsx",
+        "kind": "Spaltenabstand",
+        "description": "Seed- und Serie-A-Zahlen im virtuellen Pool stehen sehr dicht zusammen.",
+        "status": "behoben; im finalen Gesamt-PDF visuell bestätigt"
+      },
+      {
+        "pages": [
+          43,
+          45,
+          53,
+          55
+        ],
+        "kind": "Tabellenfortsetzung",
+        "description": "Fortsetzungen ohne wiederholte Spaltenköpfe erfordern Rückgriff auf die vorherige Seite.",
+        "status": "behoben; im finalen Gesamt-PDF visuell bestätigt"
+      },
+      {
+        "page": 50,
+        "kind": "Spaltenabstand",
+        "description": "Nominal EUR und Stimme stehen dicht zusammen, z. B. 5,250 Nein.",
+        "status": "behoben; im finalen Gesamt-PDF visuell bestätigt"
+      }
+    ],
+    "unaffected_visual_result": "Keine Clipping-, Überlagerungs- oder Umbruchsfehler in den gesichteten TXT/EML/PNG-Seiten; keine abgeschnittenen Zahlen auf den gesichteten XLSX-Seiten."
+  },
+  "visual_final": {
+    "aggregate_sha256": "36b12a656f177233250e2eb00db1a0bf4a2d6a7657e72bfa0f701f6973e9511d",
+    "render_dpi": 110,
+    "actually_inspected_aggregate_pages": [
+      37,
+      39,
+      40,
+      43,
+      45,
+      50,
+      52,
+      53,
+      54,
+      55
+    ],
+    "count": 10,
+    "result": "Alle zuvor festgestellten Mängel behoben. Preis / EUR nominal vollständig; Pool-Zahlenspalten mit ausreichendem Abstand; Stimmtexte getrennt; Fortsetzungsköpfe vorhanden; zweite Eingabetabellen vollständig auf eigener Seite. Keine Abschneide-, Überlagerungs- oder fehlerhaften Umbrüche auf den erneut geprüften Seiten festgestellt.",
+    "render_evidence": [
+      {
+        "page": 37,
+        "path": "/tmp/startup-download-qa/final/table-037.png",
+        "sha256": "fe8e0f44532630d71fd5cbd32d2bf7430020d84648d256eee46bbbada9657a36"
+      },
+      {
+        "page": 39,
+        "path": "/tmp/startup-download-qa/final/table-039.png",
+        "sha256": "dbc8ae20e885105c107861c506669553cf72aacd418b0c65456be442ec4a347d"
+      },
+      {
+        "page": 40,
+        "path": "/tmp/startup-download-qa/final/table-040.png",
+        "sha256": "33f9033a00f4c7f82b2a0d661ad537232922a5bc051485d815edbf8dddf8c045"
+      },
+      {
+        "page": 43,
+        "path": "/tmp/startup-download-qa/final/table-043.png",
+        "sha256": "e0b59b0817dbd0ce7de002d8840f34f9c38f13949e1f19f11d39a03b5021ce1b"
+      },
+      {
+        "page": 45,
+        "path": "/tmp/startup-download-qa/final/table-045.png",
+        "sha256": "c9f847a537d77e63906253e60f956a6f01a0d8ccba252be528eaa642d196a6ab"
+      },
+      {
+        "page": 50,
+        "path": "/tmp/startup-download-qa/final/table-050.png",
+        "sha256": "4aec2da98f77b4bdc404307c851b5bb9c968d9b6c249b85365c00695dcca7d4a"
+      },
+      {
+        "page": 52,
+        "path": "/tmp/startup-download-qa/final/table-052.png",
+        "sha256": "81d97ae973eba71d5c3fd9025d55ad76a8f785f1aa4c41de347dc5c7756ea0ef"
+      },
+      {
+        "page": 53,
+        "path": "/tmp/startup-download-qa/final/table-053.png",
+        "sha256": "f3f29e1ed6a6a0888dca5a96dd7b464694de049c040e1ee40ea16747014b3148"
+      },
+      {
+        "page": 54,
+        "path": "/tmp/startup-download-qa/final/table-054.png",
+        "sha256": "e32e0bea7175e009d0630a23022904ea6c4877961f7dba22185b2a67e0687436"
+      },
+      {
+        "page": 55,
+        "path": "/tmp/startup-download-qa/final/table-055.png",
+        "sha256": "221e4e6ad6c0d75f01cf16b63736afe6b0fad4dcba9d0b474c2c05be18a6ed7b"
+      }
+    ]
+  },
+  "warning_position_note": "README.txt ist in beiden ZIPs erster Eintrag. Der vollständige zweisprachige Warntext ist der erste Inhaltsblock; nur Überschrift HINWEIS / NOTICE und Unterstreichung stehen davor. Er ist daher kein wörtlicher Byte-Präfix. Kein Warntext im Gesamt-PDF.",
+  "no_model_solutions_in_archives": true,
+  "limitations": [
+    "Keine Behauptung einer eigenen Sichtprüfung aller 139 Seiten: eigener Erstlauf 32 Seiten, Nachlauf 10 betroffene Seiten; die tatsächlichen Seitenzahlen sind oben einzeln aufgeführt.",
+    "Bei XLSX dient der PDF-Inhaltsabgleich gegen die finalen Einzel-PDFs der Exportvollständigkeit. Die Rechen-/Formelprüfung und vollständige native Sichtprüfung erfolgten gesondert durch den Finanzakten-Agenten; dieser Downloadtest verändert oder berechnet keine Arbeitsmappen.",
+    "Renderbilder und Hilfsskripte liegen ausschließlich im temporären Prüfverzeichnis. Dieser JSON-Beleg enthält finale Datei- und Bildhashes sowie die 68-Dateien-/Seitenzuordnung."
+  ]
+}

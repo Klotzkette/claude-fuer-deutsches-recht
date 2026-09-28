@@ -16,6 +16,8 @@ Weniger konkurrierende Einstiege, klarere Aufgaben: [Skills nach Ergebnis auswä
 
 Für besonders arbeitsintensive Vorgänge gibt es [fachliche Schwerpunktaufträge](./SCHWERPUNKTE.md): konkrete Hauptskills und eigenständige Markdown-Prompts mit höchstens 7500 Zeichen und UTF-8-Bytes. Neben den Fachanwalts-, Steuer-, Insolvenz- und Zugewinnpaketen sind auch allgemeine Mandatsbearbeitung, wirtschaftliche Vertragsgestaltung und bauwirtschaftliche Projektsteuerung erfasst. Die Auswahl betrifft zum Beispiel einen vollständigen Beleg- und Stichtagsabgleich statt einer allgemeinen Rechtsgebietsübersicht.
 
+Neu: [Startup-Gründer](./startup-gruender/README.md) führt mit 18 Skills zügig zu Satzung und Gesellschaftervereinbarung auf Deutsch und Englisch. Eine Werkstatt mit 40 Kapiteln, ein Mini mit exakt 7.500 Zeichen und die [Berliner Schnittflug-Akte](./testakten/startup-gruender-schnittflug-berlin/README.md) verbinden Gründung, Beteiligungsrechnung und spätere Investorenoptionen.
+
 Zwei neue deutsch benannte Pakete haben jeweils genau zehn Skills: [Vertragserstellung](./vertragserstellung/README.md) für den konkreten B2B-Vertrag vom Geschäftsauftrag bis zur Endfassung und [Wirtschaftsanwalt](./wirtschaftsanwalt/README.md) für zusammenhängende Rechtsfragen eines laufenden Unternehmens. Die Hauptskills bearbeiten selbst; Fachskills vertiefen nur den aktuellen Engpass. Je drei gesonderte Übungsakten verbinden zwei vorhandene Fälle mit einer neuen Akte aus Kassel beziehungsweise Hannover.
 
 | Paket | Ausführliche Werkstatt | Kompakter Einstieg | Hauptproblem als Einzeldatei |
@@ -88,14 +90,14 @@ Die fünf vollständigen Register sind alphabetisch sortiert und werden bei jede
 
 | Bestand | Umfang | Kurzbeschreibung | Vollständige alphabetische Liste |
 | --- | ---: | --- | --- |
-| **Plugins** | 246 | Installierbare Pakete für Rechtsgebiete und Arbeitsbereiche; jede Zeile beschreibt Zweck und fachlichen Zuschnitt. | [Plugin-Katalog mit Kurzbeschreibungen](#was-ist-drin) · [ZIPs und Einzeldateien](./ASSET_INDEX.md) |
-| **Skills** | 22432 | Eng abgegrenzte Arbeitsabläufe; die Detailseiten führen jeden Skill mit Kurzbeschreibung und einzelnem Markdown-Download auf. | [Skill-Gesamtübersicht](./SKILLS.md) · [Detailseiten je Plugin](./skills-index/) |
-| **Werkstatt-Prompts** | 246 | Ausführliche eigenständige Arbeitsmodi für komplexe Vorgänge; je Plugin mit Kurzbeschreibung und direktem Markdown-Download. | [Werkstatt-Prompts von A bis Z](./docs/werkstatt-und-schnellstart-coverage.md#werkstatt-prompts) |
+| **Plugins** | 247 | Installierbare Pakete für Rechtsgebiete und Arbeitsbereiche; jede Zeile beschreibt Zweck und fachlichen Zuschnitt. | [Plugin-Katalog mit Kurzbeschreibungen](#was-ist-drin) · [ZIPs und Einzeldateien](./ASSET_INDEX.md) |
+| **Skills** | 22450 | Eng abgegrenzte Arbeitsabläufe; die Detailseiten führen jeden Skill mit Kurzbeschreibung und einzelnem Markdown-Download auf. | [Skill-Gesamtübersicht](./SKILLS.md) · [Detailseiten je Plugin](./skills-index/) |
+| **Werkstatt-Prompts** | 247 | Ausführliche eigenständige Arbeitsmodi für komplexe Vorgänge; je Plugin mit Kurzbeschreibung und direktem Markdown-Download. | [Werkstatt-Prompts von A bis Z](./docs/werkstatt-und-schnellstart-coverage.md#werkstatt-prompts) |
 | HOAI-Phasen-Werkstätten | 9 zusätzlich | Je ein eigener Phasenauftrag für Gebäude und Innenräume mit passendem Skill und eigener Akte. | [Leistungsphasen 1 bis 9](./docs/bauwirtschaft-hoai-phasen.md) |
-| **Schnellstart-/Mini-Prompts** | 245 | Kompakte eigenständige Einstiege für den Kernworkflow und ein erstes belastbares Arbeitsprodukt. | [Schnellstart-Prompts von A bis Z](./docs/werkstatt-und-schnellstart-coverage.md#schnellstart-prompts) |
-| **Testakten** | 364 zentral / 367 gesamt | Praxisnahe Dokumentensammlungen; jede Zeile skizziert den Fall, nennt passende Plugins und bietet drei Downloadformen. Drei weitere Akten liegen unmittelbar bei ihren Plugins. | [Zentrale Testakten mit Kurzbeschreibungen von A bis Z](./testakten/README.md#verfügbare-akten) · [pluginlokale Akten über den Plugin-Katalog](#was-ist-drin) |
+| **Schnellstart-/Mini-Prompts** | 246 | Kompakte eigenständige Einstiege für den Kernworkflow und ein erstes belastbares Arbeitsprodukt. | [Schnellstart-Prompts von A bis Z](./docs/werkstatt-und-schnellstart-coverage.md#schnellstart-prompts) |
+| **Testakten** | 365 zentral / 368 gesamt | Praxisnahe Dokumentensammlungen; jede Zeile skizziert den Fall, nennt passende Plugins und bietet drei Downloadformen. Drei weitere Akten liegen unmittelbar bei ihren Plugins. | [Zentrale Testakten mit Kurzbeschreibungen von A bis Z](./testakten/README.md#verfügbare-akten) · [pluginlokale Akten über den Plugin-Katalog](#was-ist-drin) |
 
-Sortierlogik: Plugins, Werkstatt- und Schnellstart-Prompts folgen dem Plugin-Slug; Skills sind zuerst nach Plugin und dort nach Skill-Slug sortiert; Testakten folgen dem Aktenordner. Die großen Bestände bleiben auf eigenen, schnell ladenden Registerseiten, damit der Haupt-README trotz 22432 Skills benutzbar bleibt.
+Sortierlogik: Plugins, Werkstatt- und Schnellstart-Prompts folgen dem Plugin-Slug; Skills sind zuerst nach Plugin und dort nach Skill-Slug sortiert; Testakten folgen dem Aktenordner. Die großen Bestände bleiben auf eigenen, schnell ladenden Registerseiten, damit der Haupt-README trotz 22450 Skills benutzbar bleibt.
 
 Plugin-Schnellwahl: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [J](#j) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [R](#r) · [S](#s) · [T](#t) · [U](#u) · [V](#v) · [W](#w) · [Z](#z)
 <!-- END HAUPTVERZEICHNIS (auto-generated) -->
@@ -120,7 +122,7 @@ Vor einem produktiven Einsatz sind Berufsrecht, Mandatsgeheimnis, Datenschutz, t
 
 Viele Skills in diesem Repo sind strukturierte Markdown-Arbeitsabläufe. Sie können einzeln heruntergeladen und in einer geeigneten Arbeitsoberfläche als Datei verwendet oder aus der Datei kopiert werden. Werkstatt und Schnellstart sind davon getrennte Ein-Datei-Prompts: Die Werkstatt bietet die ausführliche Fachroute, der Schnellstart den kompakten Einstieg.
 
-Für den Einsatz ohne Plugin-Installation gibt es pro Plugin zwei reine Markdown-Dateien: einen ausführlichen Werkstatt-Prompt und einen kompakten Schnellstart-Prompt mit höchstens 7500 Zeichen und 7500 UTF-8-Bytes. Individuell bearbeitete Werkstätten dürfen bis zu 128 KiB umfassen; sie werden nicht automatisch mit einem installierten Plugin geladen. Die Grenze ist kein Mindestumfang und keine Garantie für das Kontextfenster eines anderen Anbieters. Beide werden als einzelne Markdown-Dateien angeboten, nicht als ZIP. Die Downloadlinks stehen oben in jeder Plugin-README und auf jeder Plugin-Detailseite; sie führen über die statische Downloadseite, weil GitHub das HTML-Attribut `download` in gerenderten README-Dateien entfernt.
+Für den Einsatz ohne Plugin-Installation gibt es pro Plugin zwei reine Markdown-Dateien: einen ausführlichen Werkstatt-Prompt und einen kompakten Schnellstart-Prompt. Die Standardgrenze beträgt 7500 Zeichen und 7500 UTF-8-Bytes; Startup-Gründer verwendet ausdrücklich 7500 Unicode-Zeichen mit gesondertem Bytebudget. Individuell bearbeitete Werkstätten dürfen bis zu 1 MiB umfassen; sie werden nicht automatisch mit einem installierten Plugin geladen. Die Grenze ist kein Mindestumfang und keine Garantie für das Kontextfenster eines anderen Anbieters. Beide werden als einzelne Markdown-Dateien angeboten, nicht als ZIP. Die Downloadlinks stehen oben in jeder Plugin-README und auf jeder Plugin-Detailseite; sie führen über die statische Downloadseite, weil GitHub das HTML-Attribut `download` in gerenderten README-Dateien entfernt.
 
 ### Formatstandard für erzeugte Dokumente
 
@@ -132,11 +134,11 @@ Für diesen Anwendungsfall gibt es eine kuratierte, nach Fachanwaltschaften sort
 
 | Kennzahl | Wert |
 |---|---|
-| **Plugins** | 246 (inkl. 15 Gerichts- und Staatsanwalts-Plugins im Sammelordner [`gerichtsplugins/`](./gerichtsplugins/) und 11 Insolvenz-Plugins im Sammelordner [`insolvenzrecht-plugins/`](./insolvenzrecht-plugins/)) |
-| **Skills (SKILL.md)** | 22432: [Gesamtübersicht](./SKILLS.md) |
-| **Testakten** | 364 zentral / 367 gesamt |
+| **Plugins** | 247 (inkl. 15 Gerichts- und Staatsanwalts-Plugins im Sammelordner [`gerichtsplugins/`](./gerichtsplugins/) und 11 Insolvenz-Plugins im Sammelordner [`insolvenzrecht-plugins/`](./insolvenzrecht-plugins/)) |
+| **Skills (SKILL.md)** | 22450: [Gesamtübersicht](./SKILLS.md) |
+| **Testakten** | 365 zentral / 368 gesamt |
 | **Fachanwalts-Profile** | 24 |
-| **Plugin-Version / Arbeitsstand** | `v445.11.0` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
+| **Plugin-Version / Arbeitsstand** | `v445.12.0` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
 | **Marketplace-Definition** | [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json) |
 
 ### Sammel-Downloads
@@ -580,6 +582,7 @@ Alphabetisch: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · 
 | [`sozialversicherungsstatus-pruefer`](./sozialversicherungsstatus-pruefer) | Sozialversicherungsstatus und DRV-Statusfeststellung: Geschäftsführer, Freelancer, Anwälte, Lehrkräfte, Musikschulen, Plattformarbeit und Scheinselbständigkeit. |
 | [`staatsanwaltschaft-amtsanwaltschaft`](./gerichtsplugins/staatsanwaltschaft-amtsanwaltschaft) | Staatsanwaltschaft und Amtsanwaltschaft: Ermittlungsführung, Durchsuchung, Haft, Einstellung, Strafbefehl, Anklage, Einziehung, Plädoyer, Rechtsmittel und Vollstreckung. |
 | [`staatsanwaltschaft-praxis-einstieg`](./gerichtsplugins/staatsanwaltschaft-praxis-einstieg) | Praxisplugin für neue Staatsanwälte: Aktenstart, Anfangsverdacht, Ermittlungsauftrag, Eingriffe, Anklage, Strafbefehl, Einstellung, Sitzungsdienst, Rechtsmittel und OWiG. |
+| [`startup-gruender`](./startup-gruender) | Startup-Gründer: 18 Skills für eine zügige UG- oder GmbH-Gründung mit Satzung und Gesellschaftervereinbarung DE/EN. Cap Table, Geschäftsführung, Statusprüfung, Beirat, Geldwäsche und Vollzug; Seed bis Serie B als Folgerouten. Mit Werkstatt und Schnittflug-Testakte. |
 | [`startup-hr-personalabteilung-berlin`](./startup-hr-personalabteilung-berlin) | Personalabteilungs- und HR-Operations-Plugin für ein Berliner Start-up mit ca. 100 Beschäftigten: Arbeitsverträge, Payroll/DATEV-Schnittstelle, Personalakten, Datenschutz, AGG-Vorfälle, Betriebsrat, Benefits, Fehlzeiten, Kündigungen, Happiness-Management und Chef-Briefings. |
 | [`status-navigator-step-plan`](./status-navigator-step-plan) | Status-Navigator und Step-Plan-Macher. Reine Dokumentenverarbeitung mit 35 Skills. Strukturiert disparate Dokumentenlagen in eine mehrseitige Excel-Arbeitsmappe und optional ein Padlet-Shelf mit Reitern Überblick, Vorhanden, Fehlend und Workflow. Keine rechtliche Bewertung. |
 | [`steuerrecht-anwalt-und-berater`](./steuerrecht-anwalt-und-berater) | Steuerrecht für Anwalt (anw- FAO Paragraf 9) und Steuerberater (stb-): Einspruch Klage FG Außenprüfung Selbstanzeige, Grundsteuer, Grunderwerbsteuer, Share Deals, Signing Closing, BWA SuSa Lohnbuchhaltung Jahresabschluss. |
@@ -867,7 +870,7 @@ Start with one legal field, not the entire collection. Open its plugin README, c
 
 The skill indexes show the complete source collection. In installed packages, some specialist series are reached through topic routers rather than separate menu entries. Automatic skill selection is not guaranteed. A Markdown file does not install tools or grant file access; provide any required references when using a skill manually.
 
-Use a standalone prompt as an instruction, not merely as another document to search. With no task, it asks which relevant legal work is needed; with a clear task, it starts drafting without an unsolicited folder summary. Answers should update the existing draft rather than restart the intake. Individually reviewed workshops may reach 128 KiB and are not loaded with the installed plugin. Mini and focus prompts stay within 7500 characters and UTF-8 bytes; a provider's actual context limit still applies. Missing access, unavailable sources and failed export tools should lead to supported text and a precise unresolved step instead of indefinite retries or an invented download. Reuse unchanged findings, but recheck updated files. Repository checks do not certify runtime speed or compatibility in third-party accounts; use the [workplace checks](./QUICKSTART.md#9-portabilität-im-eigenen-arbeitsplatz-prüfen) with your actual tools.
+Use a standalone prompt as an instruction, not merely as another document to search. With no task, it asks which relevant legal work is needed; with a clear task, it starts drafting without an unsolicited folder summary. Answers should update the existing draft rather than restart the intake. Individually reviewed workshops may reach 1 MiB and are not loaded with the installed plugin. Mini and focus prompts normally stay within 7500 characters and UTF-8 bytes; Startup-Gründer explicitly uses 7500 Unicode characters with a separate byte allowance; a provider's actual context limit still applies. Missing access, unavailable sources and failed export tools should lead to supported text and a precise unresolved step instead of indefinite retries or an invented download. Reuse unchanged findings, but recheck updated files. Repository checks do not certify runtime speed or compatibility in third-party accounts; use the [workplace checks](./QUICKSTART.md#9-portabilität-im-eigenen-arbeitsplatz-prüfen) with your actual tools.
 
 For a practice case, choose one format: the combined PDF for reading, the individual-PDF ZIP for document-by-document review, or the original-format ZIP for working with spreadsheets, emails and other files. Case archives are separate from plugin installation. Their bilingual warning identifies them as generated experimental material, not real client files.
 

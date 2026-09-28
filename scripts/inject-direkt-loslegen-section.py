@@ -282,6 +282,7 @@ def compact_prompt_fragment(value: str, limit: int = 210) -> str:
 
 
 HANDCURATED_FIRST_PRODUCTS = {
+    "startup-gruender": "eine vollständig formulierte Satzung und die beauftragte Gesellschaftervereinbarung auf Deutsch und Englisch aus den vorhandenen Gründerangaben; kläre nur die dafür entscheidenden offenen Tatsachen und führe die Entwürfe nach Rückantwort fort",
     "bauwirtschaft": "Erstelle den benötigten Bauprojektstand mit belegten Kosten, Terminen und Zuständigkeiten. Erarbeite daraus den konkreten Vergabevermerk, Kostenbericht, Rechnungsabgleich oder Brief und arbeite Rückantworten in denselben Stand ein",
     "anwaltschaft-generell": "das konkret beauftragte Mandanten- oder Gegnerschreiben, die Vertragsänderung oder den Schriftsatz aus den vorhandenen Belegen; kläre nur die dafür entscheidenden offenen Tatsachen",
     "corporate-contract-law": "einen vollständigen Wirtschaftsvertrag, eine konkrete Gegenfassung oder den vereinbarten Nachtrag; verbinde Leistungsbeschreibung, Vergütung, Risikoverteilung und Anlagen widerspruchsfrei",
@@ -545,6 +546,11 @@ Links labelled “MD herunterladen / Download MD” start a file download. Navig
         txt_url = markdown_download_url(f"{plugin_rel}/{txt_file}")
         result = result.replace(f"[MD herunterladen / Download MD]({werkstatt_url}) |", f"[MD herunterladen / Download MD]({werkstatt_url}) · [TXT herunterladen / Download TXT]({txt_url}) |", 1)
         result = result.replace(f"| Großer Prompt (Werkstatt) | Markdown | [`{werkstatt_file}`]({werkstatt_url}) |", f"| Großer Prompt (Werkstatt) | Markdown / identisches TXT | [`{werkstatt_file}`]({werkstatt_url}) · [`{txt_file}`]({txt_url}) |")
+        if enabled(plugin_name, "schnellstart"):
+            mini_txt_file = f"{stem}-schnellstart.txt"
+            mini_txt_url = markdown_download_url(f"{plugin_rel}/{mini_txt_file}")
+            result = result.replace(f"[MD herunterladen / Download MD]({schnellstart_url}) |", f"[MD herunterladen / Download MD]({schnellstart_url}) · [TXT herunterladen / Download TXT]({mini_txt_url}) |", 1)
+            result = result.replace(f"| Kompakter Prompt (Schnellstart) | Markdown | [`{schnellstart_file}`]({schnellstart_url}) |", f"| Kompakter Prompt (Schnellstart) | Markdown / identisches TXT | [`{schnellstart_file}`]({schnellstart_url}) · [`{mini_txt_file}`]({mini_txt_url}) |")
     return result
 
 

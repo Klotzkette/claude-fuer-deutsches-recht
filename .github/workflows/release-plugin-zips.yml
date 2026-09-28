@@ -164,6 +164,7 @@ jobs:
           python3 scripts/validate-current-law-sentinels.py
           python3 scripts/test-legal-calculators.py
           python3 scripts/test-bea-versandmappe.py
+          python3 scripts/test-startup-gruender.py
           python3 scripts/test-schriftsatz-versandwerkstatt.py
 
       - name: Skill-Indizes neu erzeugen (SKILLS.md + skills-index, Stand = marketplace-Version)
@@ -226,7 +227,8 @@ jobs:
             (cd "$source" && zip -rq "${GITHUB_WORKSPACE}/dist/${plugin}.zip" . \
               -x '*.DS_Store' '*__pycache__*' '*.pyc' 'CLAUDE.md' \
                  '*-werkstatt.md' '*-schnellstart.md' '*-hauptproblem.md' \
-                 '*-werkstatt.txt' '*-schnellstart.txt' '*-hauptproblem.txt')
+                 '*-werkstatt.txt' '*-schnellstart.txt' '*-hauptproblem.txt' \
+                 '*-werkstatt.docx' '*-werkstatt.pdf')
             ls -la "dist/${plugin}.zip"
           done < dist/plugin-map.tsv
           # Manifest fuer Marketplace-Komfort

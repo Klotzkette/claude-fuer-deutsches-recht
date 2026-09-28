@@ -184,6 +184,18 @@ class PromptPublicationProfiles(unittest.TestCase):
         with patch.object(RELEASE, 'fail', side_effect=ValueError), self.assertRaises(ValueError):
             RELEASE.validate_plugin_zip(self.root, self.slug, '1.0.0')
 
+    def test_two_prompt_profile_links_both_text_downloads(self):
+        slug = 'startup-gruender'
+        plugin = self.root / slug
+        plugin.mkdir()
+        entry = {'name': slug, 'source': f'./{slug}', 'description': 'Eine Gründung begleiten.'}
+        with patch.object(DIRECT, 'REPO', self.root), patch.object(DIRECT, 'testakten_section', return_value=''):
+            readme = DIRECT.block(entry, plugin, [], 1)
+        for kind in ('werkstatt', 'schnellstart'):
+            for suffix in ('md', 'txt'):
+                self.assertIn(f'download.html?path={slug}/{slug}-{kind}.{suffix}', readme)
+        self.assertNotIn(f'{slug}-hauptproblem', readme)
+
 
 if __name__ == '__main__':
     unittest.main()

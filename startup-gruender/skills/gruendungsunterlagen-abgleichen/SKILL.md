@@ -19,6 +19,8 @@ Nutze alle benannten Fassungen, Satzung, SHA, Cap Table, Geschäftsführer-/Beir
 
 Inventarisiere Dateien und relevante Fassungen; lasse Originale unverändert und bearbeite Kopien. Trenne unterschriebene, beurkundete, eingetragene, vorgeschlagene und nur rechnerische Stände. Erfasse dokumentierte Gründerentscheidungen und erkennbare Widersprüche zwischen Mail, Vertrag und Tabelle. Eine simulierte Testakte darf absichtliche Unstimmigkeiten enthalten; sie werden erkannt, nicht stillschweigend als Wahrheit normalisiert.
 
+Prüfe vorhandene Originalformate einschließlich EML-Anlagen; ein Mailtext oder PDF-Export ersetzt nicht die relevante Anlage oder Quelldatei. Vergleiche bei mehrfach abgelegten Anlagen die tatsächlich gelesenen Fassungen. Lies bei Excel die entscheidenden Formeln, Zellbezüge und gespeicherten Ergebniswerte und rechne tragende Ergebnisse unabhängig nach; ein gespeicherter Wert allein belegt keine aktuelle Neuberechnung. Ändern sich Quellen während der Bearbeitung, lies vor Übergabe die betroffenen Stellen erneut und kennzeichne nicht auflösbare Abweichungen oder Zugriffsgrenzen.
+
 ### 3.2. Identität und Kapital unabhängig prüfen
 
 Gleiche Namen, Gesellschaft, Sitz, Anschrift, Anteile, laufende Nummern, volle Euro-Nennbeträge, Einlagen, Zahlungsstatus und Quoten ab. Rechne Summen und Finanzierungsänderungen eigenständig nach. Prüfe, ob ein VSOP-Pool unzutreffend als eingetragenes Kapital oder Stimmrecht behandelt wird. Ordne jede Einzahlung ihrer tatsächlichen Verpflichtung zu.

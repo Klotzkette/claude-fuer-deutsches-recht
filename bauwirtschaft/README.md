@@ -11,7 +11,7 @@
 
 29 Arbeitsabläufe für Bauherren, Projektentwicklung, Bauleitung und kaufmännische Teams: neun eigene HOAI-Phasen für Gebäude und Innenräume sowie Projektsteuerung, Vergabe, Bauausführung und Buchhaltung.
 
-Dieses Plugin gehört zum Marketplace mit 246 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 247 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 <!-- decimal-anchor --> <a id="welche-datei-wofür--which-file-should-i-use"></a>
 
@@ -64,7 +64,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Schwerpunkt-Prompt (Hauptproblem) | Markdown | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauwirtschaft/bauwirtschaft-hauptproblem.md" download>bauwirtschaft-hauptproblem.md</a> |
 | Zugeordnete Testakten | PDF / ZIP | [15 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 246 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 247 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 <!-- decimal-anchor --> <a id="zugeordnete-testakten"></a>
 

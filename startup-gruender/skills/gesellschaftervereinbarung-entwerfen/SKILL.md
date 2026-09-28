@@ -27,6 +27,8 @@ Formuliere konkret zugesagte Beiträge, zeitliche Bindungen, Informationsrechte,
 
 Regle Abstimmungsbindungen, Zustimmungskatalog, Finanzierung, Geschäftsführung und Beirat ohne unzutreffende Außenwirkung. Zeige, welche Rechte zusätzlich eine Satzungsgrundlage benötigen. Ein SHA-Verstoß macht nicht pauschal jeden Beschluss unwirksam; umgekehrt sind Besonderheiten einer Bindung aller Gesellschafter zu berücksichtigen. Für einen Deadlock braucht es auslösende Sachverhalte, Fristen, Eskalation und einen finanziell tragfähigen Lösungsweg; keine ruinöse Kaufzwangmechanik als beiläufigen Standard einsetzen.
 
+Unterscheide bei Budgetrechten ausdrücklich eine Obergrenze des Gesamtbudgets von einer Schwelle für dessen Erhöhung oder für ein einzelnes Geschäft. Bestimme Zeitraum, Bezugsgröße und gegebenenfalls Brutto-/Nettobetrag; prüfe auch Erstgenehmigung, spätere Änderungen und Zahlungen innerhalb eines genehmigten Budgets. Gleiche diese Auslöser mit dem dokumentierten Gründerwillen ab, auch wenn beide Sprachfassungen dieselbe Zahl enthalten.
+
 ### 3.4. Übertragung, Leaver und Exit präzise gestalten
 
 Koordiniere Vesting, Vorerwerb, Tag-along und Drag-along, Zustimmung, Abfindung und Liquidationspräferenzen. Bestimme Adressaten, Preis-/Bewertungsmechanik, Fristen, Gleichbehandlung, Mindestbedingungen und Vollzugsakte. Prüfe notarielle Form bei Verpflichtungen zur Anteilsübertragung einschließlich Optionen und Anlagen sowie rechtliche Einheit des Vertragspakets. Ein separater Sideletter umgeht diese Prüfung nicht.

@@ -145,9 +145,9 @@
       {
         "title": "6 Verkaufsangebot und Vorerwerb",
         "paragraphs": [
-          "6.1 Beabsichtigt ein Gesellschafter nach der Gründung die Veräußerung eines Geschäftsanteils an einen Dritten, teilt er den anderen Parteien den Anteil, den vorgesehenen Erwerber, den Preis und sämtliche wesentlichen Nebenbedingungen in Textform mit. Er räumt ihnen ein Vorerwerbsrecht zu wirtschaftlich gleichen Bedingungen im Verhältnis ihrer Beteiligungen ein.",
-          "6.2 Das Vorerwerbsrecht ist innerhalb von vier Wochen nach Zugang einer vollständigen Mitteilung auszuüben. Erklären mehrere Berechtigte die Ausübung, werden nicht auf volle Euro teilbare Restbeträge einvernehmlich zugeteilt; ohne Einigung erfolgt eine notarielle Abstimmung vor jeder Übertragung. Eine bloße Absichtserklärung ersetzt keinen formgerechten Anteilskauf.",
-          "6.3 Nach fruchtlosem Fristablauf darf der angebotene Anteil innerhalb von drei Monaten zu keinen günstigeren Bedingungen an den benannten Dritten verkauft werden. Andernfalls ist erneut anzubieten. Die nach der Satzung erforderliche Zustimmung bleibt notwendig."
+          "6.1 Beabsichtigt ein Gesellschafter nach der Gründung die Veräußerung eines Geschäftsanteils an einen Dritten, teilt er den anderen Parteien den Anteil, den vorgesehenen Erwerber, den Preis und sämtliche wesentlichen Nebenbedingungen in Textform mit. Er räumt ihnen ein Vorerwerbsrecht für den gesamten angebotenen Geschäftsanteil zu wirtschaftlich gleichen Bedingungen ein. Der Verkäufer muss eine bloße Teilübernahme nicht hinnehmen.",
+          "6.2 Ein oder mehrere Berechtigte können das Recht innerhalb von vier Wochen nach Zugang einer vollständigen Mitteilung ausüben. Bis zum Fristablauf müssen verbindliche, miteinander übereinstimmende Erklärungen vorliegen, die den gesamten angebotenen Nennbetrag bestimmten Erwerbern in vollen Euro-Nennbeträgen zuordnen. Die Erwerber können diese Zuteilung untereinander frei vereinbaren. Niemand ist verpflichtet, sich an der Übernahme zu beteiligen oder einen höheren als den von ihm erklärten Nennbetrag zu übernehmen. Fehlt eine vollständige und widerspruchsfreie Zuordnung, gilt das Vorerwerbsrecht insgesamt als nicht ausgeübt. Die formgerechte Durchführung einschließlich einer nötigen Anteilsteilung bleibt erforderlich.",
+          "6.3 Wird das Vorerwerbsrecht nach Nummer 6.2 nicht wirksam ausgeübt, darf der angebotene Anteil innerhalb von drei Monaten nach Fristablauf zu keinen günstigeren Bedingungen an den benannten Dritten verkauft werden. Andernfalls ist erneut anzubieten. Die nach der Satzung erforderliche Zustimmung bleibt notwendig. Eine bloße Ausübungserklärung ersetzt keinen Anteilskauf in der gesetzlich erforderlichen Form."
         ]
       },
       {
@@ -177,7 +177,7 @@
         "title": "10 Konflikte und Vertraulichkeit",
         "paragraphs": [
           "10.1 Bei Meinungsverschiedenheiten benennen die Parteien zunächst schriftlich den Streitgegenstand, die verfügbaren Entscheidungsunterlagen und einen konkreten Lösungsvorschlag. Innerhalb von zehn Werktagen soll ein Gespräch stattfinden. Stimmen alle Betroffenen zu, wird anschließend ein neutraler Moderator hinzugezogen.",
-          "10.2 Gesetzliche Fristen und eiliger gerichtlicher Rechtsschutz werden durch das Gesprächsverfahren nicht gehemmt. Weder Schweigen noch Nichtteilnahme gelten als Zustimmung. Eine zwangsweise Anteilsübertragung als automatische Folge des Scheiterns wird nicht vereinbart.",
+          "10.2 Beschlussanfechtungs- und Ausschlussfristen werden durch das Gesprächsverfahren nicht verlängert. Gesetzliche Vorschriften über die Hemmung der Verjährung, insbesondere § 203 BGB, bleiben unberührt. Eiliger gerichtlicher Rechtsschutz bleibt jederzeit zulässig. Weder Schweigen noch Nichtteilnahme gelten als Zustimmung. Eine zwangsweise Anteilsübertragung als automatische Folge des Scheiterns wird nicht vereinbart.",
           "10.3 Vertrauliche Unterlagen des Projekts werden nur für die Zusammenarbeit verwendet und gegen unbefugten Zugriff geschützt. Ausgenommen sind rechtmäßig öffentlich bekannte Informationen, gesetzlich gebotene Mitteilungen und erforderliche Offenlegungen gegenüber zur Verschwiegenheit verpflichteten Beratern."
         ]
       },
@@ -240,9 +240,9 @@
       {
         "title": "6 Proposed sale and pre-emption",
         "paragraphs": [
-          "6.1 A shareholder intending to sell a share to a third party after incorporation must notify the other parties in text form of the share, intended buyer, price and all material ancillary terms. The other parties have a right to acquire the offered interest on economically identical terms in proportion to their holdings.",
-          "6.2 That right must be exercised within four weeks after receipt of a complete notice. Where several parties exercise it, any remainder that cannot be divided into whole euros of nominal share capital is allocated by agreement. Without agreement, allocation must be coordinated with the notary before any transfer. A statement of intention does not replace a share purchase satisfying the required form.",
-          "6.3 If the period expires without exercise, the offered interest may be sold to the named buyer within three months on terms no more favourable to the buyer. Otherwise it must be offered again. Consent required by the articles remains necessary."
+          "6.1 A shareholder intending to sell a share to a third party after incorporation must notify the other parties in text form of the share, intended buyer, price and all material ancillary terms. The other parties have a pre-emption right over the entire offered share on economically identical terms. The seller is not required to accept acquisition of only part of the offered interest.",
+          "6.2 One or more entitled parties may exercise the right within four weeks after receipt of a complete notice. By expiry, binding and mutually consistent declarations must allocate the entire offered nominal amount to identified buyers in whole euros of nominal share capital. The buyers may agree that allocation freely among themselves. No party must participate or acquire more than the nominal amount it has declared. If there is no complete and consistent allocation, the pre-emption right is deemed not to have been exercised in its entirety. Completion in the required form, including any necessary division of the share, remains necessary.",
+          "6.3 If the right is not validly exercised under clause 6.2, the offered share may be sold to the named third party within three months after expiry on terms no more favourable to that buyer. Otherwise it must be offered again. Consent required by the articles remains necessary. An exercise declaration does not replace a share purchase satisfying the legally required form."
         ]
       },
       {
@@ -272,7 +272,7 @@
         "title": "10 Disputes and confidentiality",
         "paragraphs": [
           "10.1 A party raising a dispute must first identify in writing the issue, available decision materials and a specific proposed solution. A discussion should take place within ten business days. A neutral facilitator may then be engaged if all affected parties agree.",
-          "10.2 The discussion procedure does not suspend statutory time limits or urgent judicial relief. Silence and non-attendance do not count as consent. Failure to resolve the dispute does not automatically trigger a compulsory transfer of shares.",
+          "10.2 The discussion procedure does not extend time limits for challenging shareholder resolutions or other exclusion periods. Statutory provisions on suspension of limitation periods, in particular section 203 of the German Civil Code, remain unaffected. Urgent judicial relief remains available at any time. Silence and non-attendance do not count as consent. Failure to resolve the dispute does not automatically trigger a compulsory transfer of shares.",
           "10.3 Confidential project materials may be used only for the cooperation and must be protected against unauthorised access. Information lawfully in the public domain, legally required disclosures and necessary disclosures to advisers bound by confidentiality are excluded."
         ]
       },

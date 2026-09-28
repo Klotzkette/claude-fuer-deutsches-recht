@@ -23,7 +23,9 @@ Lies die vorgelegten Unterlagen einschließlich Tabellen, Nachrichten und Vertra
 
 ### 3.2. Gründungsentscheidungen zügig übersetzen
 
-Vergleiche UG und GmbH anhand Kapitalbedarf, Haftungsphase, Sacheinlagen, laufender Finanzierung und Investorenplan. Bei sieben Gründern passt das vereinfachte Musterprotokoll nicht. Berechne konkrete volle Euro-Nennbeträge, Zahlungsbedarf und Stimmrechte. Prüfe die Herkunft von Code, Geräten, Domains und bestehenden Verträgen. Stelle nur die für den konkreten Fall entscheidenden Alternativen gegenüber; liefere eine begründete Ausgangslösung und kennzeichne offene Mandantenentscheidungen.
+Vergleiche UG und GmbH anhand Kapitalbedarf, Haftungsphase, Sacheinlagen, laufender Finanzierung und Investorenplan. Bei mehr als drei Gesellschaftern oder mehr als einem Geschäftsführer scheidet das vereinfachte Musterprotokoll aus; auch sonst müssen dessen gesetzliche Voraussetzungen erfüllt sein. Berechne konkrete volle Euro-Nennbeträge, Zahlungsbedarf und Stimmrechte. Prüfe die Herkunft von Code, Geräten, Domains und bestehenden Verträgen. Stelle nur die für den konkreten Fall entscheidenden Alternativen gegenüber; liefere eine begründete Ausgangslösung und kennzeichne offene Mandantenentscheidungen.
+
+Gleiche eine vorhandene Liquiditätsplanung mit Zahlungszeitpunkten und Belegen ab. Erfasse separat fällige Kautionen und andere Einmalzahlungen zusätzlich zu laufenden Kosten, ohne sie doppelt zu zählen; trenne private Verpflichtungen, angenommene Übernahmen und Gesellschaftszahlungen. Prüfe Einzahlungsannahmen, Vergütungsbeginn und auslaufende Verträge und benenne den Zeitpunkt der ersten Unterdeckung sowie den ungedeckten Bedarf im betrachteten Zeitraum. Unverbindliche Investorengespräche oder erwartete Kautionsrückzahlungen sind keine gesicherten Zuflüsse; bei einer nur monatlichen Planung bleibt die Deckung früherer Einzelfälligkeiten gesondert zu prüfen.
 
 ### 3.3. Das erste vollständige Dokumentenpaket erstellen
 
@@ -31,7 +33,7 @@ Erstelle die beauftragte Satzung und Gesellschaftervereinbarung in vollständige
 
 ### 3.4. Nur passende Spezialprüfungen anschließen
 
-Nutze bei Bedarf die Fachskills dieses Plugins: `gruender-und-rollen-klaeren`, `rechtsform-und-kapital-waehlen` und `cap-table-planen` für die Grundlagen; `satzung-entwerfen`, `gesellschaftervereinbarung-entwerfen`, `vesting-und-ausstieg-regeln` und `gruender-ip-sichern` für Verträge; `geschaeftsfuehrung-regeln`, `geschaeftsfuehrer-status-pruefen`, `beirat-einrichten` und `mehrheiten-und-minderheiten-sichern` für Governance. Ziehe nur die jeweils erforderliche Anleitung heran. Ein Minderheitsanteil von 21 % wird nicht durch einen 75-%-Katalog automatisch zu umfassender Rechtsmacht; ein dienstvertragliches oder schuldrechtliches Vetorecht ersetzt keine passende Satzungsregelung.
+Nutze bei Bedarf die Fachskills dieses Plugins: `gruender-und-rollen-klaeren`, `rechtsform-und-kapital-waehlen` und `cap-table-planen` für die Grundlagen; `satzung-entwerfen`, `gesellschaftervereinbarung-entwerfen`, `vesting-und-ausstieg-regeln` und `gruender-ip-sichern` für Verträge; `geschaeftsfuehrung-regeln`, `geschaeftsfuehrer-status-pruefen`, `beirat-einrichten` und `mehrheiten-und-minderheiten-sichern` für Governance. Ziehe nur die jeweils erforderliche Anleitung heran. Ein Minderheitsanteil vermittelt durch einen Katalog qualifizierter Mehrheiten nicht automatisch umfassende Rechtsmacht; rechne die konkrete Quote gegen die maßgebliche Bezugsgröße. Ein dienstvertragliches oder schuldrechtliches Vetorecht ersetzt keine passende Satzungsregelung.
 
 ### 3.5. Vollzug und spätere Finanzierung abgrenzen
 

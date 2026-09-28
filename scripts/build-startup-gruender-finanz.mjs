@@ -49,6 +49,15 @@ function total(s,range){s.getRange(range).format={fill:C.pale,font:{name:'Arial'
 function note(s,row,text,end='H',height=34){put(s,`B${row}`,text);s.mergeCells(`B${row}:${end}${row}`);s.getRange(`B${row}:${end}${row}`).format={wrapText:true,rowHeight:height,font:{name:'Arial',size:11,color:C.ink}};}
 function numeric(s,range,fmt=EUR){s.getRange(range).setNumberFormat(fmt);s.getRange(range).format.horizontalAlignment='right';}
 const reports=[];
+// Drucktitel und Abschnittsumbrüche halten Fortsetzungen ohne Inhaltsänderung lesbar.
+const printLayout={
+ '50_CapTable_Gruendung_und_Finanzierungsoptionen.xlsx':[
+  {titles:'$6:$6'},{titles:'$6:$6'},{titles:'$6:$6'},{titles:'$18:$18',breaks:[17]}],
+ '51_Auslagen_und_Liquiditaetsplanung.xlsx':[
+  {titles:'$6:$6'},{titles:'$6:$6'},{titles:'$6:$6'}],
+ '52_Mehrheiten_und_Bezugsrechte.xlsx':[
+  {titles:'$2:$5',breaks:[22]},{titles:'$13:$13'},{titles:'$21:$21',breaks:[20]}]
+};
 
 function capTable(){
  const w=book(['Cap Table','Runden','Virtueller Pool','Eingaben']);
@@ -89,7 +98,7 @@ function capTable(){
  r.getRange('C25:E26').setNumberFormat('0.00');r.getRange('C25:E27').conditionalFormats.add('cellIs',{operator:'notEqual',formula:0,format:{fill:'#FBE3E3',font:{color:C.red,bold:true}}});
  note(r,30,'Serie B setzt 90 EUR je 1 EUR Nominal an, gegenüber 240 EUR in Serie A. Liquidationspräferenzen und wirtschaftlicher Verwässerungsschutz sind nicht modelliert.','G',38);
 
- const v=base(w,'Virtueller Pool',[18,330,160,160,160,160,90],29,'Schnittflug: virtueller Pool');
+ const v=base(w,'Virtueller Pool',[18,330,185,185,185,185,90],29,'Schnittflug: virtueller Pool');
  v.getRange('B6:F6').values=[['Rechengröße','Gründung','Nach Seed','Nach Serie A','Nach Serie B']];header(v,'B6:F6');
  const vl={7:'Echte Nominale (EUR)',8:'Poolziel nach virtueller Erweiterung',10:'Virtuelle Recheneinheiten, ungerundet',11:'Recheneinheiten gesamt, ungerundet',12:'Poolquote rechnerisch',14:'Gründerteam vor virtuellem Pool',15:'Gründerteam wirtschaftlich nach Pool',17:'Ottilie vor virtuellem Pool',18:'Ottilie wirtschaftlich nach Pool',20:'Zusätzliche Stimmrechte durch VSOP'};
  Object.entries(vl).forEach(([rr,t])=>put(v,`B${rr}`,t));
@@ -144,7 +153,7 @@ function votes(){
  const a=base(w,'Abstimmung',[18,330,150,170,160,160,150,160],39,'Schnittflug: 75 % und die Bezugsgröße');
  put(a,'B5','Abstimmungsfall (1 bis 5)');put(a,'C5',1);input(a,'C5',NOM);a.dataValidations.add({range:'C5',rule:{type:'whole',operator:'between',formula1:1,formula2:5}});
  a.getRange('B7:E7').values=[['Person','Nominal EUR','Stimme','Ja-Nominal EUR']];header(a,'B7:E7');
- fall.founders.forEach((f,i)=>{const rr=i+8;fx(a,`B${rr}`,`='Eingaben'!B${i+7}`);fx(a,`C${rr}`,`='Eingaben'!C${i+7}`);fx(a,`D${rr}`,`=INDEX('Eingaben'!$C$22:$G$28,${i+1},$C$5)`);fx(a,`E${rr}`,`=IF(D${rr}="Ja",C${rr},0)`);});numeric(a,'C8:C14',NOM);numeric(a,'E8:E14',NOM);
+ fall.founders.forEach((f,i)=>{const rr=i+8;fx(a,`B${rr}`,`='Eingaben'!B${i+7}`);fx(a,`C${rr}`,`='Eingaben'!C${i+7}`);fx(a,`D${rr}`,`=INDEX('Eingaben'!$C$22:$G$28,${i+1},$C$5)`);fx(a,`E${rr}`,`=IF(D${rr}="Ja",C${rr},0)`);});numeric(a,'C8:C14',NOM);numeric(a,'E8:E14',NOM);a.getRange('D8:D14').format.horizontalAlignment='center';
  put(a,'B17','Ja-Stimmen (Nominal EUR)');fx(a,'C17','=SUM(E8:E14)');put(a,'B18','Nein-Stimmen (Nominal EUR)');fx(a,'C18','=SUMIFS(C8:C14,D8:D14,"Nein")');put(a,'B19','Gültig abgegebene Stimmen (EUR)');fx(a,'C19','=SUM(C17:C18)');put(a,'B20','Stimmberechtigtes Kapital (EUR)');fx(a,'C20',"='Eingaben'!C15");numeric(a,'C17:C20',NOM);total(a,'B19:E19');
  a.getRange('B23:D23').values=[['Rechenregel','Abgegebene Stimmen','Gesamtes Kapital']];header(a,'B23:D23');
  put(a,'B24','Ja-Anteil am jeweiligen Nenner');fx(a,'C24','=IF(C19=0,"n.a.",C17/C19)');fx(a,'D24','=C17/C20');numeric(a,'C24:D24',PCT);
@@ -155,10 +164,10 @@ function votes(){
  note(a,34,'Das Vertragsveto zu Budgetfragen ist hier nicht als allgemeine Sperrminorität eingerechnet. Die Matrix trifft keine Entscheidung über Ottilies Sozialversicherungspflicht.','G',42);
  note(a,36,'Bei Enthaltung oder Abwesenheit werden keine gültigen Ja- oder Nein-Stimmen abgegeben. Stimmverbote und sonstige Sonderlagen sind vor Anwendung gesondert einzutragen.','G',42);
 
- const b=base(w,'Bezugsrechte',[18,390,145,145,145,145,155,155,155],39,'Schnittflug: Serie B und Bezugsrechte');
+ const b=base(w,'Bezugsrechte',[18,390,145,185,145,145,155,155,155],39,'Schnittflug: Serie B und Bezugsrechte');
  put(b,'B5','Variante (1 bis 3)');put(b,'C5',2);input(b,'C5',NOM);b.dataValidations.add({range:'C5',rule:{type:'whole',operator:'between',formula1:1,formula2:3}});
  put(b,'B7','Kapital vor Serie B (EUR)');fx(b,'C7',"=SUM('Eingaben'!C7:C13)+C9+C10");put(b,'D7','Neu nominal EUR');put(b,'E7',20000);input(b,'E7',NOM);
- put(b,'B8','Zufluss Serie B (EUR)');put(b,'C8',1800000);input(b,'C8',EUR);put(b,'D8','Preis / EUR nominal');fx(b,'E8','=C8/E7');numeric(b,'E8',EUR);
+ put(b,'B8','Zufluss Serie B (EUR)');put(b,'C8',1800000);input(b,'C8',EUR);put(b,'D8','Preis / EUR nominal');fx(b,'E8','=C8/E7');numeric(b,'E8',EUR);b.getRange('D7:D8').format.horizontalAlignment='center';
  put(b,'B9','Seed-Nominale (EUR)');put(b,'C9',5000);input(b,'C9',NOM);put(b,'B10','Serie-A-Nominale (EUR)');put(b,'C10',10000);input(b,'C10',NOM);numeric(b,'C7',NOM);
  b.getRange('B13:I13').values=[['Person / Investor','Vor B EUR','Rechnerisch pro rata EUR','Gewählte Zeichnung EUR','Rundungsrest EUR','Kapital nach B EUR','Anteil nach B','Zahlung bei Zeichnung EUR']];header(b,'B13:I13');b.getRange('B13:I13').format.rowHeight=55;
  const names=[...fall.founders.map(f=>f.name),fall.funding_scenarios[1].investor,fall.funding_scenarios[2].investor,fall.funding_scenarios[3].investor];
@@ -192,6 +201,8 @@ for(const build of [capTable,liquidity,votes]){
  // Nur standardisierte OOXML-Druckmetadaten ergänzen, keine Zellen oder Formeln ändern.
  const zip=await JSZip.loadAsync(await fs.readFile(path.join(qa,pack.filename)));
  for(const name of Object.keys(zip.files).filter(x=>/^xl\/worksheets\/sheet\d+\.xml$/.test(x))){
+  const sheetIndex=Number(name.match(/sheet(\d+)\.xml$/)[1])-1;
+  const layout=printLayout[pack.filename][sheetIndex];
   let text=await zip.file(name).async('string');
   const prefix=text.match(/<((?:\w+:)?)worksheet\b/)[1];
   text=text.replace(/<(?:\w+:)?pageMargins\b[^>]*\/>/g,'').replace(/<(?:\w+:)?pageSetup\b[^>]*\/>/g,'');
@@ -199,11 +210,15 @@ for(const build of [capTable,liquidity,votes]){
   text=text.replace(/<(?:\w+:)?pageSetUpPr\b[^>]*\/>/g,'');
   if(text.includes(`</${prefix}sheetPr>`)) text=text.replace(`</${prefix}sheetPr>`,`<${prefix}pageSetUpPr fitToPage="1"/></${prefix}sheetPr>`);
   else text=text.replace(new RegExp(`<${prefix}sheetPr\\s*/>`),`<${prefix}sheetPr><${prefix}pageSetUpPr fitToPage="1"/></${prefix}sheetPr>`);
+  if(layout.breaks?.length){
+   const br=layout.breaks.map(id=>`<${prefix}brk id="${id}" min="0" max="16383" man="1"/>`).join('');
+   text=text.replace(`</${prefix}worksheet>`,`<${prefix}rowBreaks count="${layout.breaks.length}" manualBreakCount="${layout.breaks.length}">${br}</${prefix}rowBreaks></${prefix}worksheet>`);
+  }
   zip.file(name,text);
  }
  let bookXml=await zip.file('xl/workbook.xml').async('string');
  const prefix=bookXml.match(/<((?:\w+:)?)workbook\b/)[1];
- const printNames=pack.views.map(([name,range],i)=>`<${prefix}definedName name="_xlnm.Print_Area" localSheetId="${i}">'${name}'!${range.replace(/([A-Z]+)(\d+)/g,'$$$1$$$2')}</${prefix}definedName>`).join('');
+ const printNames=pack.views.map(([name,range],i)=>`<${prefix}definedName name="_xlnm.Print_Area" localSheetId="${i}">'${name}'!${range.replace(/([A-Z]+)(\d+)/g,'$$$1$$$2')}</${prefix}definedName><${prefix}definedName name="_xlnm.Print_Titles" localSheetId="${i}">'${name}'!${printLayout[pack.filename][i].titles}</${prefix}definedName>`).join('');
  bookXml=bookXml.replace(`</${prefix}workbook>`,`<${prefix}definedNames>${printNames}</${prefix}definedNames></${prefix}workbook>`);
  zip.file('xl/workbook.xml',bookXml);
  const final=await zip.generateAsync({type:'nodebuffer',compression:'DEFLATE'});await fs.writeFile(path.join(dest,pack.filename),final);

@@ -1,6 +1,6 @@
 # versicherungsrecht
 
-**65 Skills** · Stand `v445.11.0`
+**65 Skills** · Stand `v445.12.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../versicherungsrecht/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

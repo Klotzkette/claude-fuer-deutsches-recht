@@ -1,6 +1,6 @@
 # bea-versand
 
-**1 Skills** · Stand `v445.11.0`
+**1 Skills** · Stand `v445.12.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../bea-versand/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

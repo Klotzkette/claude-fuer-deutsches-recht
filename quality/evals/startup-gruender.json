@@ -1,0 +1,393 @@
+{
+  "schema_version": 1,
+  "plugin": "startup-gruender",
+  "reviewed_on": "2026-09-28",
+  "sources": [
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2024/II_ZR__71-24.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-28",
+      "supports": "Freie Hinauskündigungsklauseln sind grundsätzlich nach § 138 Abs. 1 BGB unwirksam, können aber nach Gesamtwürdigung sachlich gerechtfertigt sein. Bei Managementbeteiligungen zählt, ob die Beteiligung gegenüber der Geschäftsführerstellung eigenständige Bedeutung hat. Fehlendes oder nur geringes wirtschaftliches Risiko ist keine zwingende Voraussetzung der Rechtfertigung. Ausschlussklausel, Abfindungsregelung und konkrete Ausübung sind getrennt zu prüfen. Grenze: Entschieden wurde eine mittelbare Managementbeteiligung über eine KG; keine allgemeine Freigabe von Founder-Vesting oder Nennwertabfindungen. Zurückverweisung, insbesondere zur Ausübungskontrolle nach § 242 BGB. Nicht mit II ZR 71/23 verwechseln. Auch Startup-Gestaltungen bleiben einzelfallabhängig (Rn. 40)."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2013/II_ZR_216-13.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-28",
+      "supports": "Der satzungsmäßige vollständige Abfindungsausschluss wegen grober Interessen- oder Pflichtverletzung war sittenwidrig. Das Abfindungsrecht gehört zu den Grundmitgliedsrechten; der Totalentzug wird nicht allgemein als Vertragsstrafe zulässig. Grenze: Kein Verbot jeder differenzierten Abfindungsklausel oder angemessenen Vertragsstrafe. Konkrete Schäden, Bewertungsmaßstab, Einziehungsgrund und Kaufpreisregelung unterscheiden. Sonderfälle können anders liegen; SG01 trennt ebenfalls Ausschluss und Abfindung."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2020/III_ZR_139-20.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-28",
+      "supports": "Vor der notariellen Gründung besteht regelmäßig eine eigenständige Vorgründungsgesellschaft. Deren Verträge gehen nicht automatisch auf Vor-GmbH oder GmbH über. Die Vor-GmbH ab Beurkundung geht hingegen bei Eintragung mit Rechten und Pflichten auf. Ausnahmsweise kann ein vorheriges Geschäft ausschließlich für die künftige GmbH unter Entstehungsbedingung geschlossen sein; es bedarf dann Genehmigung nach § 177 BGB. Grenze: Ob eine solche Ausnahme vereinbart wurde, folgt aus konkreter Auslegung. Der bloße Zusatz „i. G.“ erzeugt keine Haftungsbefreiung. Stiftungsrechtliche weitere Aussagen des Urteils sind für die Gründung nicht zu übertragen. Amtlicher PDF-Text enthält Berichtigung vom 27.05.2021."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2023/II_ZR__71-23A.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-28",
+      "supports": "Stimmbindungsverträge wirken grundsätzlich zwischen den Parteien und sind von der gesellschaftsrechtlichen Beschlussebene zu trennen. Die Verletzung nicht zwingender satzungsmäßiger Kompetenzverteilung führt grundsätzlich zur Anfechtbarkeit. Die Geschäftsführerabberufung durch das satzungsmäßig unzuständige Organ war keine zustandsbegründende Satzungsdurchbrechung. Grenze: Nicht behaupten, ein SHA-Verstoß könne niemals Beschlussfolgen haben: Rn. 23 nennt die Ausnahme der von allen Gesellschaftern untereinander eingegangenen Bindung. Dauerhafte Satzungsdurchbrechungen unterliegen Form-/Registeranforderungen. Entscheidung ist kein Ersatz für saubere Kompetenzverteilung."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2014/II_ZR_275-14.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-28",
+      "supports": "Dass eine Maßnahme wirtschaftlich sinnvoll und zumutbar ist, genügt nicht für eine Zustimmungspflicht. Diese setzt besondere, objektiv zwingende Erforderlichkeit zur Werterhaltung oder Verlustvermeidung, Zumutbarkeit und Verweigerung ohne vertretbaren Grund voraus. Die Stimmabgabe bleibt grundsätzlich frei. Grenze: Urteil zu Geschäftsführungsmaßnahmen, nicht speziell zu einer Series-B-Kapitalerhöhung. Die strengen Leitlinien sind als Grenze einer behaupteten Zustimmungspflicht nutzbar; keine pauschale Pflicht, frisches Geld einzuzahlen oder jede Investorenrunde zu akzeptieren."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2003/II_ZR_151-03.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-28",
+      "supports": "Bei einer personalistisch geprägten GmbH und einem Kapitalschnitt auf null begründete die Treuepflicht nach angebotener proportionaler Beteiligung nicht ohne Weiteres einen Anspruch auf die gewünschte Kleinstbeteiligung. Treupflichtverletzungen bei Bezugsrechtsgestaltung führen regelmäßig nur zur Anfechtbarkeit. Für zügige Beschlussanfechtung dient die aktienrechtliche Monatsfrist als Maßstab. Grenze: Kein Freibrief für Bezugsrechtsausschluss bei normaler Startup-Finanzierung. Sonderfall Kapitalschnitt; keine gesetzliche starre Monatsfrist im GmbHG behaupten. Aktuelles Satzungsrecht, Fristbeginn, Bekanntgabe und Rechtsschutz separat prüfen."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2015/III_ZR_427-15.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-28",
+      "supports": "Eine Treuhandabrede über einen bestehenden GmbH-Anteil mit Rückübertragungspflicht bedarf notarieller Form. Ob ihre Formnichtigkeit ein weiteres Geschäft erfasst, richtet sich nach rechtlicher Einheit und erkennbarem Parteiwillen; wirtschaftliche Verknüpfung allein reicht nicht. Grenze: Besonderer Treuhandfall, kein allgemeiner Satz, alle SHA seien formfrei oder stets vollständig beurkundungsbedürftig. § 15 Abs. 4 GmbHG unmittelbar auf Übertragungspflichten, Optionen, Drag/Tag und Vestingmechanik prüfen; Paket und Anlagen notariell abstimmen."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/KartS/2015/KZR__24-15.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-28",
+      "supports": "Neue Geschäftsanteile entstehen durch Eintragung der Kapitalerhöhung. Formmängel der Übernahmevereinbarung konnten nach Eintragung nicht mehr erfolgreich geltend gemacht werden. Die Entscheidung unterscheidet Kapitalerhöhungsbeschluss, Übernahmeerklärung und Registervollzug. Grenze: Die Frage, ob wegen der Vertragsverknüpfung notarielle Beurkundung statt bloßer Beglaubigung erforderlich war, blieb ausdrücklich offen (Rn. 34). Keine Universalheilung des SHA, fehlender Vollmachten oder Geschäftsfähigkeit. Alte Verweisung auf § 53 Abs. 2 betrifft damalige Normfassung; heute Beurkundung in Abs. 3."
+    },
+    {
+      "url": "https://www.bsg.bund.de/SharedDocs/Downloads/DE/Entscheidungen/2022/2022_06_28_B_12_R_04_20_R.pdf?__blob=publicationFile&v=2",
+      "checked_on": "2026-09-28",
+      "supports": "Amtliches Original heruntergeladen und Rn.17–20 gelesen: umfassende gesellschaftsvertragliche Rechtsmacht bei Minderheitsgeschäftsführern; vergangene Versicherungsentscheidung von heutigem §7a-Verfahren trennen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/sgb_4/__7a.html",
+      "checked_on": "2026-09-28",
+      "supports": "Aktueller amtlicher Text: Erwerbsstatus, obligatorisches Verfahren nach Meldung, Prognose und Befristung in Absatz7 bis30.06.2027."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwg_2017/__3.html",
+      "checked_on": "2026-09-28",
+      "supports": "Mehr als25Prozent Kapital/Stimmen oder vergleichbare Kontrolle; fiktive Berechtigte erst unter den gesetzlichen Voraussetzungen nach umfassender Prüfung."
+    },
+    {
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+      "checked_on": "2026-09-28",
+      "supports": "Aktuelle Kommissionsübersicht gelesen; AI-Omnibus-Fristen und direkter EUR-Lex-Abrufvorbehalt im Referenztext offengelegt. Keine Volltextprüfung der technisch blockierten Änderungsverordnung behauptet."
+    }
+  ],
+  "selection": {
+    "target_skill": "gruendung-begleiten",
+    "positive": [
+      "Wir gründen zu siebt eine GmbH. Erstellen Sie aus unserem Ordner Satzung und Gesellschaftervereinbarung und begleiten Sie die offenen Vollzugsschritte.",
+      "Prüfen Sie unsere UG-/GmbH-Gründung mit Cap Table, Geschäftsführung, Bank/KYC und ersten Investorenoptionen."
+    ],
+    "negative": [
+      "Schreiben Sie die Softwaresteuerung für einen autonomen Friseurroboter.",
+      "Erstellen Sie eine Bauabrechnung und prüfen Sie alle Leistungsphasen eines Architekten."
+    ]
+  },
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Neu erstellter, eigenständig ausführbarer Gründungsworkflow mit früher Dokumentenproduktion und fallabhängigen Rückfragen.",
+    "changes": [
+      "Satzung und SHA DE/EN aus vorhandenen Fakten erstellen; nur entscheidende Lücken gezielt abfragen.",
+      "Gesellschaftsphase, nominelle Beteiligung, rechtliche Kontrolle und Finanzierungspläne strikt nach Belegen bearbeiten.",
+      "Formpflichten, Minderheitsstatus, Leaver-Rechtsprechung und Vollzugsnachweise mit konkreten Grenzen verwenden."
+    ],
+    "sha256": "719085f5ac4a6c20a0b4d29086ec63c1b98a4052f8390e81790b283693d8c526"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Neu erstellter, eigenständig ausführbarer Gründungsworkflow mit früher Dokumentenproduktion und fallabhängigen Rückfragen.",
+    "changes": [
+      "Satzung und SHA DE/EN aus vorhandenen Fakten erstellen; nur entscheidende Lücken gezielt abfragen.",
+      "Gesellschaftsphase, nominelle Beteiligung, rechtliche Kontrolle und Finanzierungspläne strikt nach Belegen bearbeiten.",
+      "Formpflichten, Minderheitsstatus, Leaver-Rechtsprechung und Vollzugsnachweise mit konkreten Grenzen verwenden."
+    ],
+    "sha256": "82a407d98a29dca372847848b9f05d8faab9d88a98b3b1e9c3cce76b8b7e819a"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-28",
+    "files": [
+      "startup-gruender/startup-gruender-werkstatt.md",
+      "startup-gruender/startup-gruender-schnellstart.md",
+      "startup-gruender/README.md",
+      "startup-gruender/skills/bankkonto-und-geldwaesche-vorbereiten/SKILL.md",
+      "startup-gruender/skills/beirat-einrichten/SKILL.md",
+      "startup-gruender/skills/cap-table-planen/SKILL.md",
+      "startup-gruender/skills/finanzierungsrunde-vorbereiten/SKILL.md",
+      "startup-gruender/skills/geschaeftsfuehrer-status-pruefen/SKILL.md",
+      "startup-gruender/skills/geschaeftsfuehrung-regeln/SKILL.md",
+      "startup-gruender/skills/gesellschaftervereinbarung-entwerfen/SKILL.md",
+      "startup-gruender/skills/gruender-ip-sichern/SKILL.md",
+      "startup-gruender/skills/gruender-und-rollen-klaeren/SKILL.md",
+      "startup-gruender/skills/gruendung-begleiten/SKILL.md",
+      "startup-gruender/skills/gruendung-und-register-vollziehen/SKILL.md",
+      "startup-gruender/skills/gruendungsunterlagen-abgleichen/SKILL.md",
+      "startup-gruender/skills/kapitalerhoehung-und-bezugsrechte-pruefen/SKILL.md",
+      "startup-gruender/skills/mehrheiten-und-minderheiten-sichern/SKILL.md",
+      "startup-gruender/skills/produktstart-und-anmeldungen-planen/SKILL.md",
+      "startup-gruender/skills/rechtsform-und-kapital-waehlen/SKILL.md",
+      "startup-gruender/skills/satzung-entwerfen/SKILL.md",
+      "startup-gruender/skills/vesting-und-ausstieg-regeln/SKILL.md"
+    ],
+    "opening_change": "Aus einer Gründungsakte direkt zur vollständigen Satzung und Gesellschaftervereinbarung arbeiten, mit getrennten offenen Entscheidungen und ohne erneut beantwortete Intake-Fragen.",
+    "norms": [
+      "§§2,3,5,5a,7,8,11,15,19,47,53–57 GmbHG",
+      "§§7,7a SGBIV",
+      "§§2,3,20 GwG"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 2026-02-10 – II ZR 71/24, Rn. 18–21, 31, 40, 47, 55, 58, 67–68",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2024/II_ZR__71-24.pdf?__blob=publicationFile&v=1",
+        "application": "Vesting-/Leaver-Matrix: Erwerbsmotiv, Kaufpreis, Risiko, Mitarbeit, eigenständige Gründerstellung, Auslöser, vested/unvested, Abfindung und Missbrauchsschutz getrennt begründen.",
+        "limit": "Entschieden wurde eine mittelbare Managementbeteiligung über eine KG; keine allgemeine Freigabe von Founder-Vesting oder Nennwertabfindungen. Zurückverweisung, insbesondere zur Ausübungskontrolle nach § 242 BGB. Nicht mit II ZR 71/23 verwechseln. Auch Startup-Gestaltungen bleiben einzelfallabhängig (Rn. 40)."
+      },
+      {
+        "citation": "BGH, Urteil vom 2014-04-29 – II ZR 216/13, Rn. 9–18, insbesondere 11–12",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2013/II_ZR_216-13.pdf?__blob=publicationFile&v=1",
+        "application": "Kein Standardtext „Bad Leaver verliert alles“. Verschulden, wesentliche Pflichtverletzung, Heilungsfrist, sachliche Rechtfertigung, Gutachterverfahren und Finanzierbarkeit getrennt bearbeiten.",
+        "limit": "Kein Verbot jeder differenzierten Abfindungsklausel oder angemessenen Vertragsstrafe. Konkrete Schäden, Bewertungsmaßstab, Einziehungsgrund und Kaufpreisregelung unterscheiden. Sonderfälle können anders liegen; SG01 trennt ebenfalls Ausschluss und Abfindung."
+      },
+      {
+        "citation": "BGH, Urteil vom 2021-04-15 – III ZR 139/20, Rn. 24–25; amtlicher Leitsatz a",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2020/III_ZR_139-20.pdf?__blob=publicationFile&v=1",
+        "application": "Jeden Altvertrag nach Datum, Rechtsträger, Zeichner, Verpflichtung und Überleitungs-/Genehmigungsbedarf erfassen; bereits privat bestellte Drohnenteile und IP-Verträge gesondert übertragen.",
+        "limit": "Ob eine solche Ausnahme vereinbart wurde, folgt aus konkreter Auslegung. Der bloße Zusatz „i. G.“ erzeugt keine Haftungsbefreiung. Stiftungsrechtliche weitere Aussagen des Urteils sind für die Gründung nicht zu übertragen. Amtlicher PDF-Text enthält Berichtigung vom 27.05.2021."
+      },
+      {
+        "citation": "BGH, Urteil vom 2024-07-16 – II ZR 71/23, Rn. 20–24 sowie 43–45; amtliche Leitsätze",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2023/II_ZR__71-23A.pdf?__blob=publicationFile&v=1",
+        "application": "Jede Regel bekommt Ebene, Bindungsadressaten, Mehrheit, Durchsetzung und Änderungspfad: Satzung, SHA, Geschäftsordnung, Beiratsordnung oder Dienstvertrag.",
+        "limit": "Nicht behaupten, ein SHA-Verstoß könne niemals Beschlussfolgen haben: Rn. 23 nennt die Ausnahme der von allen Gesellschaftern untereinander eingegangenen Bindung. Dauerhafte Satzungsdurchbrechungen unterliegen Form-/Registeranforderungen. Entscheidung ist kein Ersatz für saubere Kompetenzverteilung."
+      },
+      {
+        "citation": "BGH, Urteil vom 2016-04-12 – II ZR 275/14, Rn. 13–15",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2014/II_ZR_275-14.pdf?__blob=publicationFile&v=1",
+        "application": "Streitige Finanzierungsrunde: Positionen beider Seiten, echte Alternativen, Finanzbedarf, Bewertung, Fristen und erforderliche Mehrheit dokumentieren. Ablehnung nicht allein wegen wirtschaftlicher Unvernunft als unwirksam buchen.",
+        "limit": "Urteil zu Geschäftsführungsmaßnahmen, nicht speziell zu einer Series-B-Kapitalerhöhung. Die strengen Leitlinien sind als Grenze einer behaupteten Zustimmungspflicht nutzbar; keine pauschale Pflicht, frisches Geld einzuzahlen oder jede Investorenrunde zu akzeptieren."
+      },
+      {
+        "citation": "BGH, Urteil vom 2005-04-18 – II ZR 151/03, Amtliche Leitsätze a–c; PDF S. 8–10 (keine Randnummern im amtlichen PDF)",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2003/II_ZR_151-03.pdf?__blob=publicationFile&v=1",
+        "application": "Bestandsschutz unterscheiden: proportionale Teilnahmechance, Verwässerung, Präferenzen, Sonderrechte, Zustimmungsvorbehalte. Kapitalmaßnahme nicht allein wegen Registereintragung als unanfechtbar markieren.",
+        "limit": "Kein Freibrief für Bezugsrechtsausschluss bei normaler Startup-Finanzierung. Sonderfall Kapitalschnitt; keine gesetzliche starre Monatsfrist im GmbHG behaupten. Aktuelles Satzungsrecht, Fristbeginn, Bekanntgabe und Rechtsschutz separat prüfen."
+      },
+      {
+        "citation": "BGH, Urteil vom 2016-09-22 – III ZR 427/15, Rn. 14–19",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2015/III_ZR_427-15.pdf?__blob=publicationFile&v=1",
+        "application": "Vor Unterschrift eine Formmatrix über Satzung, Investment Agreement, SHA, Optionsvereinbarung, Anlagen und Sideletters erstellen; keine bloße PDF-Unterschrift als Formersatz.",
+        "limit": "Besonderer Treuhandfall, kein allgemeiner Satz, alle SHA seien formfrei oder stets vollständig beurkundungsbedürftig. § 15 Abs. 4 GmbHG unmittelbar auf Übertragungspflichten, Optionen, Drag/Tag und Vestingmechanik prüfen; Paket und Anlagen notariell abstimmen."
+      },
+      {
+        "citation": "BGH, Urteil vom 2017-10-17 – KZR 24/15, Rn. 27–35, insbesondere 32–35; amtlicher GmbHG-Leitsatz",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/KartS/2015/KZR__24-15.pdf?__blob=publicationFile&v=1",
+        "application": "Drei Cap-Table-Stände führen: vereinbart, übernommen/eingezahlt, eingetragen. Signing, Closing, Registervollzug und Gesellschafterliste mit Bedingungen/Belegen verbinden.",
+        "limit": "Die Frage, ob wegen der Vertragsverknüpfung notarielle Beurkundung statt bloßer Beglaubigung erforderlich war, blieb ausdrücklich offen (Rn. 34). Keine Universalheilung des SHA, fehlender Vollmachten oder Geschäftsfähigkeit. Alte Verweisung auf § 53 Abs. 2 betrifft damalige Normfassung; heute Beurkundung in Abs. 3."
+      }
+    ],
+    "remaining_limits": [
+      "Redaktionelle Prüfung ist keine Garantie für jede konkrete Rechtsgestaltung. Der tatsächliche Praxistest und technische Prüfungen sind gesondert dokumentiert.",
+      "Der Produktstart benötigt eine eigene konkrete Zulassungsprüfung; beim AI-Omnibus wurde die aktuelle Behördenübersicht, nicht der technisch blockierte Änderungsverordnungsvolltext geprüft."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-28",
+    "method": "desk_review",
+    "opening_modes": [
+      "Klare Satzungsbestellung mit vollständigen Stammdaten: sofortiger ausformulierter Erstentwurf.",
+      "Großer gemischter Ordner mit widersprüchlichen Vorschlägen: gezielte Beleglektüre und präzise Anschlussfrage.",
+      "Bestehende Gründung mit späterem Investor: auf Kapitalmaßnahme und nötige Dokumentänderungen beschränken."
+    ],
+    "continuation": "Nachgereichte Belege ändern nur den betroffenen Personen-, Zahlen- oder Vertragsstand; bereits geklärte Informationen bleiben erhalten.",
+    "enrichment": "Native EML-Anhänge, drei Formelarbeitsmappen, frühere Quotenwünsche, abweichende Budgetvorstellungen, Arbeitgeberrechte und noch nicht vollzogene Finanzierungsoptionen ergeben konkrete Folgeschritte.",
+    "limits": "Desk-Review ist kein Modelltest. Im getrennten Praxistest werden tatsächlich erzeugte Vertragsfassungen und erkannte Belegkonflikte bewertet."
+  },
+  "cases": [
+    {
+      "id": "schnittflug-gruendung-und-status",
+      "request": "Wir sieben Gründer wollen die Gesellschaft ordentlich gründen. Lesen Sie unsere nativen Unterlagen samt Mailanhängen und Tabellen. Erstellen Sie Satzung und Gesellschaftervereinbarung auf Deutsch und Englisch als vollständige Arbeitsentwürfe sowie einen Gründungsvermerk mit den noch entscheidenden Fragen. Prüfen Sie Ottilies Geschäftsführungsstatus, die tatsächlichen Mehrheiten, Vorgründung und Finanzierungsannahmen. Behaupten Sie keine bereits erfolgte Beurkundung oder Einzahlung.",
+      "target_skill": "gruendung-begleiten",
+      "input_files": [
+        "testakten/startup-gruender-schnittflug-berlin/01_20260817_Erste_Quoten.eml",
+        "testakten/startup-gruender-schnittflug-berlin/02_20260818_Designarbeit.eml",
+        "testakten/startup-gruender-schnittflug-berlin/03_20260821_Kostenablage.eml",
+        "testakten/startup-gruender-schnittflug-berlin/04_20260828_Produktnotiz.eml",
+        "testakten/startup-gruender-schnittflug-berlin/05_20260902_Hochschulprojekt.eml",
+        "testakten/startup-gruender-schnittflug-berlin/06_20260905_Werkraum.eml",
+        "testakten/startup-gruender-schnittflug-berlin/07_20260907_Aufenthalt_und_Mittel.eml",
+        "testakten/startup-gruender-schnittflug-berlin/08_20260910_Neue_Quoten.eml",
+        "testakten/startup-gruender-schnittflug-berlin/09_20260911_Musterprotokoll.eml",
+        "testakten/startup-gruender-schnittflug-berlin/10_20260913_Krankheit.eml",
+        "testakten/startup-gruender-schnittflug-berlin/11_20260914_Anwaltsauftrag.eml",
+        "testakten/startup-gruender-schnittflug-berlin/12_20260916_Kontoanfrage.eml",
+        "testakten/startup-gruender-schnittflug-berlin/13_20260918_KYC_Antwort.eml",
+        "testakten/startup-gruender-schnittflug-berlin/14_20260919_Entwicklungsauftrag.eml",
+        "testakten/startup-gruender-schnittflug-berlin/15_20260921_Seed_Eckpunkte.eml",
+        "testakten/startup-gruender-schnittflug-berlin/16_20260921_Beirat.eml",
+        "testakten/startup-gruender-schnittflug-berlin/17_20260922_Handwerk_Versicherung.eml",
+        "testakten/startup-gruender-schnittflug-berlin/18_20260923_IP_Unterlagen.eml",
+        "testakten/startup-gruender-schnittflug-berlin/19_20260924_Spaetere_Runden.eml",
+        "testakten/startup-gruender-schnittflug-berlin/20_20260924_Bezugsrecht.eml",
+        "testakten/startup-gruender-schnittflug-berlin/21_20260925_Ottilie_Status.eml",
+        "testakten/startup-gruender-schnittflug-berlin/22_20260926_Notartermin.eml",
+        "testakten/startup-gruender-schnittflug-berlin/23_20260927_Englisch_und_Zusatzblatt.eml",
+        "testakten/startup-gruender-schnittflug-berlin/24_20260928_Entwurfsauftrag.eml",
+        "testakten/startup-gruender-schnittflug-berlin/25_Chat_Gruendung_20260912.txt",
+        "testakten/startup-gruender-schnittflug-berlin/26_Chat_Produkt_20260922.txt",
+        "testakten/startup-gruender-schnittflug-berlin/27_Chat_Finanzierung_20260924.txt",
+        "testakten/startup-gruender-schnittflug-berlin/28_Projektboard_Stand_20260928.png",
+        "testakten/startup-gruender-schnittflug-berlin/29_Chat_Ausschnitt_Budget_20260921.png",
+        "testakten/startup-gruender-schnittflug-berlin/30_Satzung_Arbeitsentwurf_20260925.docx",
+        "testakten/startup-gruender-schnittflug-berlin/31_Gesellschaftervereinbarung_DE_20260926.docx",
+        "testakten/startup-gruender-schnittflug-berlin/32_Shareholders_Agreement_EN_20260926.docx",
+        "testakten/startup-gruender-schnittflug-berlin/33_Geschaeftsfuehrerordnung_Entwurf.docx",
+        "testakten/startup-gruender-schnittflug-berlin/34_Dienstvertrag_Ottilie_Entwurf.docx",
+        "testakten/startup-gruender-schnittflug-berlin/35_Geschaeftsfuehrerbestellung_Entwurf.docx",
+        "testakten/startup-gruender-schnittflug-berlin/36_Beiratsordnung_Beratungsmodell.docx",
+        "testakten/startup-gruender-schnittflug-berlin/37_IP_Nutzungsrechte_Kunigunde_Entwurf.docx",
+        "testakten/startup-gruender-schnittflug-berlin/38_Vorgruendervereinbarung_Entwurf.docx",
+        "testakten/startup-gruender-schnittflug-berlin/39_Serie_B_Verhandlungspapier_Kapitalerhoehung.docx",
+        "testakten/startup-gruender-schnittflug-berlin/50_CapTable_Gruendung_und_Finanzierungsoptionen.xlsx",
+        "testakten/startup-gruender-schnittflug-berlin/51_Auslagen_und_Liquiditaetsplanung.xlsx",
+        "testakten/startup-gruender-schnittflug-berlin/52_Mehrheiten_und_Bezugsrechte.xlsx",
+        "testakten/startup-gruender-schnittflug-berlin/60_01_Rechnung_SF-A001.pdf",
+        "testakten/startup-gruender-schnittflug-berlin/60_02_Rechnung_SF-A002.pdf",
+        "testakten/startup-gruender-schnittflug-berlin/60_03_Rechnung_SF-A003.pdf",
+        "testakten/startup-gruender-schnittflug-berlin/60_04_Rechnung_SF-A004.pdf",
+        "testakten/startup-gruender-schnittflug-berlin/60_05_Rechnung_SF-A005.pdf",
+        "testakten/startup-gruender-schnittflug-berlin/60_06_Rechnung_SF-A006.pdf",
+        "testakten/startup-gruender-schnittflug-berlin/60_07_Rechnung_SF-A007.pdf",
+        "testakten/startup-gruender-schnittflug-berlin/60_08_Rechnung_SF-A008.pdf",
+        "testakten/startup-gruender-schnittflug-berlin/60_09_Rechnung_SF-A009.pdf",
+        "testakten/startup-gruender-schnittflug-berlin/60_10_Rechnung_SF-A010.pdf",
+        "testakten/startup-gruender-schnittflug-berlin/60_11_Rechnung_SF-A012.pdf",
+        "testakten/startup-gruender-schnittflug-berlin/60_12_Rechnung_SF-A013.pdf",
+        "testakten/startup-gruender-schnittflug-berlin/61_01_Gutschrift_SF-A011.pdf",
+        "testakten/startup-gruender-schnittflug-berlin/70_Kontoanfrage_Status_20260928.png",
+        "testakten/startup-gruender-schnittflug-berlin/71_Produktboard_20260922.png",
+        "testakten/startup-gruender-schnittflug-berlin/72_Produktnotiz_Drohnenfriseur_20260828.docx",
+        "testakten/startup-gruender-schnittflug-berlin/73_Sieben_Gruender_Antworten_20260910.docx",
+        "testakten/startup-gruender-schnittflug-berlin/74_Gruenderabend_Notizen_20260912.docx",
+        "testakten/startup-gruender-schnittflug-berlin/75_Bank_KYC_Unterlagenliste_20260918.docx",
+        "testakten/startup-gruender-schnittflug-berlin/76_Werkraum_Nutzungsvertrag_Entwurf_20260905.docx",
+        "testakten/startup-gruender-schnittflug-berlin/77_Wolkenwickel_Seed_Termsheet_20260921.docx",
+        "testakten/startup-gruender-schnittflug-berlin/78_Spaetere_Runden_Verhandlungsnotiz_20260924.docx",
+        "testakten/startup-gruender-schnittflug-berlin/79_Ottilie_Taetigkeit_Statusfragebogen_20260925.docx",
+        "testakten/startup-gruender-schnittflug-berlin/80_Software_und_Rechte_Herkunft_20260923.docx",
+        "testakten/startup-gruender-schnittflug-berlin/81_Telefonnotiz_Handwerk_Versicherung_20260922.docx",
+        "testakten/startup-gruender-schnittflug-berlin/82_Notar_Datenaufnahme_20260928.docx"
+      ],
+      "deliverables": [
+        "satzung.md",
+        "sha-de.md",
+        "sha-en.md",
+        "gruendungsvermerk.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Sieben benannte Gründer mit Nennbeträgen 5.250 / 5.500 / 4.500 / 3.750 / 2.500 / 2.000 / 1.500 EUR ergeben 25.000 EUR. Ältere Quoten sind kein stiller Ersatz. Individuelle Satzung statt vereinfachtem Musterprotokoll; zwei vorgesehene Geschäftsführer, keine erfundene Gründung, Einzahlung oder Registernummer.",
+          "deliverables": [
+            "satzung.md",
+            "sha-de.md",
+            "sha-en.md",
+            "gruendungsvermerk.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Vollständige sinnvolle Satzung und SHA DE/EN statt Gliederung. Sprachfassungen, Übertragungsmechanik, Form, Personen und Zahlen sind abgestimmt. Die noch offene Basis des Budgetvetos (Gesamtbudget gegenüber bloßer Erhöhung) wird anhand der Kommunikation erkannt und gezielt geklärt. Keine fiktive Einigung.",
+          "deliverables": [
+            "satzung.md",
+            "sha-de.md",
+            "sha-en.md",
+            "gruendungsvermerk.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "21 Prozent blockieren 79 Prozent nicht bei einer Schwelle von 75 Prozent. Ein nur schuldrechtliches Budgetveto ist keine umfassende Satzungsrechtsmacht. Beschäftigungsrisiko begründen und das Verfahren nach § 7a SGB IV korrekt vom einzelnen Versicherungszweig unterscheiden; keine DRV-Freigabe behaupten. BSG-Fallreichweite und aktuelle Norm berücksichtigen.",
+          "deliverables": [
+            "gruendungsvermerk.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Auslagen nach Gutschrift insgesamt 3.109,23 EUR, davon 2.395,23 EUR privat finanziert und 714 EUR unbezahlt. Die negative Gutschrift nicht doppelt positiv erfassen. Zusätzliche Kaution von 600 EUR berücksichtigen; Raumkosten 595 EUR plus 833 EUR Reserve ergeben 1.428 EUR. Im vollständigen Plan erster Fehlbestand im November und Finanzierungsbedarf bis März von 55.170 EUR. Vorsteuerberechtigung und unvollständige Belege nicht automatisch bejahen. 25.000 EUR Kapital sind nur angenommen; Zuflüsse aus Seed, Serie A und B sind nicht gesichert.",
+          "deliverables": [
+            "gruendungsvermerk.md"
+          ]
+        },
+        {
+          "id": "C05",
+          "text": "Nennkapital nach Seed 30.000 EUR, nach Serie A 40.000 EUR und nach Serie B 60.000 EUR als Pläne getrennt darstellen. Ottilie hält ohne eigene Teilnahme 21 / 17,5 / 13,125 / 8,75 Prozent. VSOP vermittelt keine Stimmen. Minderheits- und Bezugsrechte nicht durch 75 Prozent oder eine pauschale Treuepflicht beseitigen; Ausschlussbegründung, Alternativen und Bewertung prüfen.",
+          "deliverables": [
+            "gruendungsvermerk.md"
+          ]
+        },
+        {
+          "id": "C06",
+          "text": "Vorgründungsverträge und Rechte nicht automatisch überleiten. Fehlende Arbeitgeberfreigabe und offene IP-Rechte berücksichtigen sowie bei KYC vergleichbare Kontrolle prüfen. Bank, Notariat, Steuer, Gewerbe/Handwerk, Transparenzregister, Aufenthalt und Produktbetrieb konkret trennen. Keine rechtmäßigen autonomen Kundenflüge behaupten.",
+          "deliverables": [
+            "gruendungsvermerk.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kurzauftrag-sofortige-satzung",
+      "request": "Drei Personen wollen eine bar gegründete GmbH mit 25.000 EUR Stammkapital in Hamburg gründen. Sie übernehmen Anteile von 10.000, 10.000 und 5.000 EUR. Die Firma soll Flusenlabor GmbH heißen; Gegenstand ist Softwareentwicklung. Zwei Geschäftsführer sollen gemeinsam vertreten. Die Gruppe braucht jetzt eine Satzung, keinen Beirat und keine Finanzierungsrunde. Persönliche Identifikationsdaten werden nachgereicht. Nennen Sie die fehlenden entscheidenden Gestaltungsdaten und liefern Sie bereits eine vollständig formulierte Arbeitsfassung mit klaren Platzhaltern, ohne langen Fragenkatalog.",
+      "target_skill": "satzung-entwerfen",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Zwei Geschäftsführer verhindern das vereinfachte Musterprotokoll auch bei drei Gründern. Individuelle Gründung nicht mit einem generellen Verbot der Onlinebeurkundung verwechseln.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die verlangte Satzung vollständig produzieren. Fehlende persönliche Daten als gezielte Lücke oder klaren Platzhalter behandeln; keine Namen aus der Schnittflug-Akte übernehmen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Keine ungefragte Serie B, Vestingpflicht oder Beiratsarchitektur. Einzahlungsvoraussetzungen korrekt darstellen; keine Einlage als bereits bezahlt behaupten.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "streitige-finanzierung",
+      "request": "Eine bereits eingetragene GmbH mit 40.000 EUR Stammkapital plant neue Anteile von 20.000 EUR für einen Investor, der 1.800.000 EUR zahlen soll. Eine Minderheit will selbst teilnehmen. Die Mehrheit behauptet, 75 Prozent genügten für jeden Bezugsrechtsausschluss und alle müssten wegen der Treuepflicht zustimmen. Eine konkrete Bewertung oder Alternativenprüfung liegt nicht vor. Schreiben Sie einen begründeten Verhandlungsvermerk mit den benötigten Unterlagen und dem nächsten Arbeitsschritt, keinen als gefasst bezeichneten Beschluss.",
+      "target_skill": "kapitalerhoehung-und-bezugsrechte-pruefen",
+      "input_files": [],
+      "deliverables": [
+        "vermerk.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Nennkapital von 60.000 EUR, Agio von 1.780.000 EUR und Verwässerung getrennt darstellen. Die vorgegebene Zahlung nicht zu einer unabhängig geprüften Unternehmensbewertung oder bereits entstandenen Anteilen umdeuten.",
+          "deliverables": [
+            "vermerk.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die Mehrheit allein liefert keine materielle Rechtfertigung. Interessen, Alternativen, Gleichbehandlung und Ausgabepreis prüfen; keine pauschale Zustimmungspflicht behaupten.",
+          "deliverables": [
+            "vermerk.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "§ 186 AktG nicht unmittelbar als GmbH-Vorschrift ausgeben. Rechtsschutzfristen konkret prüfen; keine allgemeine starre gesetzliche Monatsfrist behaupten.",
+          "deliverables": [
+            "vermerk.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

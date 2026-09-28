@@ -1,8 +1,8 @@
 # Skills-Index: Detailseiten pro Plugin
 
-Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v445.11.0`.
+Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v445.12.0`.
 
-Die Aufteilung verhindert, dass eine einzige Seite alle 22432 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
+Die Aufteilung verhindert, dass eine einzige Seite alle 22450 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
 
 English: Each plugin has one lightweight detail page containing its complete skill list, descriptions and direct Markdown downloads. Open a plugin page to choose a skill; links labelled `Download MD` save the file instead of opening a source preview.
 
@@ -265,6 +265,7 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 - [sozialversicherungsstatus-pruefer](./sozialversicherungsstatus-pruefer.md) (102 Skills)
 - [staatsanwaltschaft-amtsanwaltschaft](./staatsanwaltschaft-amtsanwaltschaft.md) (32 Skills)
 - [staatsanwaltschaft-praxis-einstieg](./staatsanwaltschaft-praxis-einstieg.md) (146 Skills)
+- [startup-gruender](./startup-gruender.md) (18 Skills)
 - [startup-hr-personalabteilung-berlin](./startup-hr-personalabteilung-berlin.md) (112 Skills)
 - [status-navigator-step-plan](./status-navigator-step-plan.md) (36 Skills)
 - [steuerrecht-anwalt-und-berater](./steuerrecht-anwalt-und-berater.md) (238 Skills)
