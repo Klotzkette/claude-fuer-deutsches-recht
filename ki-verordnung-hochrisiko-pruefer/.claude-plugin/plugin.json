@@ -1,0 +1,19 @@
+{
+  "name": "ki-verordnung-hochrisiko-pruefer",
+  "version": "445.11.0",
+  "description": "Prüft Software nach Artikel 6 KI-Verordnung: Produktpfad, sämtliche Anhang-III-Bereiche, Ausnahmen, Profiling und Rollenwechsel. Erstellt Einstufungen, Anbieternachforderungen und Umsetzungsdokumente. Recruiting und eigenmächtige Chatbot-Nutzung bilden den vertieften Praxisfall.",
+  "keywords": [
+    "ki-verordnung",
+    "hochrisiko",
+    "bewerbungsauswahl",
+    "profiling",
+    "betreiber",
+    "shadow-ai"
+  ],
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Klotzkette",
+    "email": "39582916+Klotzkette@users.noreply.github.com"
+  },
+  "homepage": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
+}

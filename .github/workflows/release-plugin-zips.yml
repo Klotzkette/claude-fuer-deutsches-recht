@@ -94,6 +94,11 @@ jobs:
           python3 scripts/test-schadensregulierung.py
           python3 scripts/test-notariatswerkstatt.py
           python3 scripts/test-arbeitszeugnispruefer.py
+          python3 scripts/test-ki-verordnung-hochrisiko-pruefer.py
+          python3 scripts/test-ki-verordnung-transparenzpruefer.py
+          python3 scripts/test-enteignung-artikel-14.py
+          python3 scripts/test-vergesellschaftung-artikel-15.py
+          python3 scripts/test-fachpruefer-integration.py
           python3 scripts/test-geldwaeschepraevention.py
           python3 scripts/test-arbeitsrecht-asset-deal.py
           python3 scripts/test-betriebskosten-hausverwaltung.py

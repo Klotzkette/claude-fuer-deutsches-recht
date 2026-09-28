@@ -6063,6 +6063,10 @@ PROFILE_BY_KEY = {p.key: p for p in PROFILE}
 
 EXACT_PROFILE_KEYS: dict[str, str] = {
     "startup-gruender": "gesellschaft",
+    "ki-verordnung-hochrisiko-pruefer": "technikregulierung",
+    "ki-verordnung-transparenzpruefer": "technikregulierung",
+    "enteignung-artikel-14": "verfass",
+    "vergesellschaftung-artikel-15": "verfass",
     "bauwirtschaft": "bauwirtschaft",
     "anwaltschaft-generell": "anwaltschaft-generell",
     "corporate-contract-law": "corporate-contract-law",

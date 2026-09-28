@@ -1,0 +1,16 @@
+﻿gruppe;position;betrag_eur;stichtag;status;bezug;bemerkung
+Bewertung;Unternehmensgesamtwert;410000000.00;2026-08-31;Indikation Eigentümer;Gesamte Hessenbogen Netz GmbH;Kein gesonderter Wert des hessischen Anlagenpakets
+Bewertung;Finanzverbindlichkeiten;140000000.00;2026-08-31;Auskunft Finanzabteilung;Gesamte Gesellschaft;Ablösebedingungen noch nicht angefordert
+Bewertung;Liquide Mittel;14000000.00;2026-08-31;Auskunft Finanzabteilung;Gesamte Gesellschaft;Nicht als freie Mittel des neuen Trägers zugesagt
+Bewertung;Nettoverschuldung;126000000.00;2026-08-31;Überleitung Finanzabteilung;Gesamte Gesellschaft;140 Millionen abzüglich 14 Millionen
+Bewertung;Eigenkapitalwert;284000000.00;2026-08-31;Indikation Eigentümer;Alle Geschäftsanteile;410 Millionen abzüglich Nettoverschuldung
+Bewertung;Buchwert Anlagenweg;288000000.00;2026-08-31;Anlagenexport;N-01 bis N-05 und N-09;Kein Verkehrswertgutachten
+Verwendung;Ausgleich Anlagenweg;210000000.00;2026-09-23;Politischer Arbeitsansatz;N-01 bis N-05 und N-09;Nicht mit Eigentümerin vereinbart
+Verwendung;Investitionen bis 2032;52000000.00;2026-09-23;Betriebskonzept;Netzerneuerung;Noch keine Einzelaufträge
+Verwendung;Übergangskosten;8000000.00;2026-09-23;Betriebskonzept;Technik Personal Verträge;Dienstleisterangebot noch abzugleichen
+Verwendung;Betriebsmittel und Reserve;10000000.00;2026-09-23;Betriebskonzept;Liquidität neuer Träger;Nicht im Investitionsprogramm enthalten
+Mittel;Eigenmittel Land;60000000.00;2026-09-23;Angefragt;Neuer Träger;Kein Haushaltsbeschluss vorgelegt
+Mittel;Bankdarlehen;180000000.00;2026-09-23;Angebot angekündigt;Neuer Träger;Landesgarantie und weitere Bedingungen erwartet
+Mittel;Infrastrukturanleihe;40000000.00;2026-09-23;Interessenbekundung;Neuer Träger;Keine Zeichnungsvereinbarung
+Laufend;Haushaltsabführung ab Jahr 3;8000000.00;2026-09-23;Politischer Vorschlag;Jährliche Auszahlung;"Vom Netzservice abgelehnt; keine Finanzierung der Übernahme"
+Laufend;Vergütung Leitwerk;1800000.00;2026-08-31;Bestehender Vertrag Hessenbogen;Jährliche Betriebsleistung;Im bisherigen laufenden Aufwand enthalten

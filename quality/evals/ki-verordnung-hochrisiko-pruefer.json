@@ -1,0 +1,189 @@
+{
+  "schema_version": 1,
+  "plugin": "ki-verordnung-hochrisiko-pruefer",
+  "reviewed_on": "2026-09-28",
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Individuell verfasster Kurzworkflow mit beiden Artikel-6-Pfaden, Profiling-Sperre, Rollenwechsel, Zeitrecht und nutzbaren Dokumenten. Negativkontrolle zur arbeitnehmerseitigen Zeugnisrechtsberatung ergänzt. Redaktioneller Durchgang, kein ausgeführter Modelltest.",
+    "changes": ["Ordner zuerst, Fortsetzung am bestellten Dokument und konkrete Ergebnisformate aufgenommen.", "Anhang III vollständig über portable Prüfreferenz erschlossen; Recruiting nur Vertiefung.", "Geltendes Änderungsrecht und unverbindlicher Leitlinienentwurf getrennt."],
+    "sha256": "e1b5d3c03bf1046f0fa397a6a429eda8e12d69ec87a0975be2aba0d68b5ededd"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Handverfasste Werkstatt mit funktionsbezogener Subsumtion, belastender Gegenposition, konkreten Formulierungsbeispielen und Fortsetzung nach ergänzenden Belegen. Keine automatische Arbeitgeberentlastung durch Privatkonto und kein pauschaler Hochrisikoschluss aus Sortierung.",
+    "changes": ["Zweck, tatsächlichen Einfluss und Rolle getrennt bearbeitet.", "Artikel 43, 49 und 73 weder als ein Verfahren noch als pauschal verschoben behandelt.", "Native Ergebnisdokumente und gesonderte interne Quellenprüfung vorgesehen."],
+    "sha256": "49c99c10c89af35c8c2efb3fd69da8620ffee3a00ebe0bba3ce3078ecae71bee"
+  },
+  "selection": {
+    "target_skill": "artikel-6-software-einstufen",
+    "positive": [
+      "Prüfen Sie, ob diese Eignungsreihung nach Artikel 6 hochriskant ist, und verfassen Sie den Einstufungsvermerk.",
+      "Ordnen Sie eine KI-gestützte Prüfungsbewertung und eine Sicherheitsfunktion unseres Produkts den richtigen Hochrisikopfaden zu.",
+      "Ein Beschäftigter nutzt einen privaten Chatbot zur Vorauswahl; prüfen Sie unsere Rolle und schreiben Sie die interne Anweisung."
+    ],
+    "negative": [
+      "Berichtigen Sie ausschließlich die Grammatik dieses Arbeitszeugnisses ohne Frage zur KI-Regulierung.",
+      "Erstellen Sie ausschließlich eine technische Installationsanleitung für eine nicht näher rechtlich zu prüfende Anwendung."
+    ]
+  },
+  "sources": [
+    {"url": "https://eur-lex.europa.eu/eli/reg/2024/1689/oj", "checked_on": "2026-09-28", "supports": "Ausgangsrechtsakt; unveränderte Tatbestände zusätzlich über amtlichen Service Desk gelesen. Nicht ohne Änderung 2026/1744 als aktueller Gesamtstand verwenden."},
+    {"url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A32026R1744", "checked_on": "2026-09-28", "supports": "Amtlicher EUR-Lex-Index liefert verfügenden Wortlaut insbesondere Artikel 1 Nummern 5, 6, 8, 12, 19, 39 bis 42: Artikel 4a Bias, Produktpfad, Rollenkooperation, zeitliche Anwendung, Registrierung nicht aufgehoben."},
+    {"url": "https://digital-strategy.ec.europa.eu/en/news/ai-omnibus-enters-force", "checked_on": "2026-09-28", "supports": "Kommission bestätigt Inkrafttreten am 27. Juli 2026; kein Ersatz für den begrenzten Wortlaut der einzelnen Änderungsnormen."},
+    {"url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-6", "checked_on": "2026-09-28", "supports": "Absätze 2 bis 4: Anhang-III-Pfad, zweistufige Ausnahme, Profiling-Sperre, Dokumentation. Warnhinweis zur noch nicht eingearbeiteten Änderung berücksichtigt."},
+    {"url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/annex-3", "checked_on": "2026-09-28", "supports": "Alle acht Anwendungsbereiche und deren Untertatbestände einschließlich Recruiting, Arbeitnehmermanagement und Grenzen der Verifikation, Betrugserkennung und Kampagnenverwaltung."},
+    {"url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-25", "checked_on": "2026-09-28", "supports": "Rollenwechsel nach Absatz 1; Absätze 2 und 4 nur mit geänderter Kooperation lesen."},
+    {"url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-26", "checked_on": "2026-09-28", "supports": "Betreiberpflichten zu Aufsicht, kontrollierten Eingaben, Protokollen, Information und Unterbrechung; eigene Informationspflicht getrennt von Artikel 73."},
+    {"url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-43", "checked_on": "2026-09-28", "supports": "Absatz 2: interne Kontrolle für Anhang III Nummern 2 bis 8 ohne notifizierte Stelle; Absatz 1 Biometrie und geänderter Absatz 3 Produktverfahren eigenständig."},
+    {"url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-49", "checked_on": "2026-09-28", "supports": "Registrierung von Anbietern, Ausnahme-Anbietern und besonderen öffentlichen Betreibern; Sonderpfade nicht auf jeden privaten Arbeitgeber übertragen."},
+    {"url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-73", "checked_on": "2026-09-28", "supports": "Anbieterbericht und unverzügliche Meldung mit allgemeinen und besonderen äußeren Fristen; keine pauschale Wartefrist."},
+    {"url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-3", "checked_on": "2026-09-28", "supports": "Zweckbestimmung, Betreiberrolle, Profilingverweis und schwerwiegender Vorfall einschließlich unionsrechtlichem Grundrechtsschutz."},
+    {"url": "https://digital-strategy.ec.europa.eu/en/library/draft-commission-guidelines-classification-high-risk-ai-systems", "checked_on": "2026-09-28", "supports": "Veröffentlichung der Hochrisiko-Leitlinien weiterhin als Entwurf; kein verbindliches Beschäftigten-Privatkonto-Privileg aus ungelesenem PDF behauptet."},
+    {"url": "https://digital-strategy.ec.europa.eu/en/consultations/targeted-consultation-draft-guidelines-classification-high-risk-artificial-intelligence-systems", "checked_on": "2026-09-28", "supports": "Konsultationsstatus und angekündigte endgültige Annahme bis Ende 2026."},
+    {"url": "https://www.gesetze-im-internet.de/ki-mig/BJNR0DF0B0026.html", "checked_on": "2026-09-28", "supports": "KI-MIG als geltendes Recht, Auffang- und Sonderzuständigkeiten nach Paragraf 2, Abgrenzung zu Anlaufstelle, Beschwerdestelle und Notifizierung."},
+    {"url": "https://www.gesetze-im-internet.de/bdsg_2018/__26.html", "checked_on": "2026-09-28", "supports": "Bewerberdaten und eigenständige Beteiligungsrechte; keine datenschutzrechtliche Gesamtfreigabe aus der KI-Einstufung."},
+    {"url": "https://eur-lex.europa.eu/legal-content/EN-SK/TXT/?uri=CELEX%3A32016R0679", "checked_on": "2026-09-28", "supports": "Artikel 4 Nummer 4 DSGVO als Profilingdefinition; Artikel 22 als gesonderter Prüfpfad."},
+    {"url": "https://eur-lex.europa.eu/legal-content/DE/ALL/?uri=celex%3A62021CJ0634", "checked_on": "2026-09-28", "supports": "EuGH C-634/21 zum maßgeblichen Scoreeinfluss unter Artikel 22 DSGVO, keine KI-VO-Klassifikation."}
+  ],
+  "cases": [
+    {
+      "id": "kassel-ordner-zum-dokument",
+      "request": "Bearbeiten Sie den Auftrag der FuldaForm-Geschäftsführung vom 28. September 2026 anhand des vollständigen Ordners. Ich behaupte, jede Sortierung sei hochriskant. Prüfen Sie die beiden Werkzeuge und die tatsächlichen Abläufe, erstellen Sie eine begründete Entscheidungsvorlage und ein passendes Anbieteranschreiben. Nichts versenden. Bereits beantwortete Fragen nicht erneut stellen; fehlende entscheidende Tatsachen gezielt bezeichnen.",
+      "target_skill": "hochrisiko-einstufung-recruiting",
+      "input_files": [
+        "testakten/ki-hochrisiko-bewerbungsauswahl-kassel/01_Pruefauftrag_20260928.eml",
+        "testakten/ki-hochrisiko-bewerbungsauswahl-kassel/02_Leistungsbeschreibung_Talentspur_20260820.docx",
+        "testakten/ki-hochrisiko-bewerbungsauswahl-kassel/03_Gebrauchsanleitung_Talentspur_24.pdf",
+        "testakten/ki-hochrisiko-bewerbungsauswahl-kassel/04_Freigabeprotokoll_20260908.txt",
+        "testakten/ki-hochrisiko-bewerbungsauswahl-kassel/05_Bewerberlauf_20260917.csv",
+        "testakten/ki-hochrisiko-bewerbungsauswahl-kassel/06_Dialogexport_20260918.txt",
+        "testakten/ki-hochrisiko-bewerbungsauswahl-kassel/07_Teamleitung_20260921.eml",
+        "testakten/ki-hochrisiko-bewerbungsauswahl-kassel/08_Anbieterantwort_20260924.eml",
+        "testakten/ki-hochrisiko-bewerbungsauswahl-kassel/09_Bewerbernachfrage_20260925.eml",
+        "testakten/ki-hochrisiko-bewerbungsauswahl-kassel/10_Besprechungsnotiz_20260928.docx"
+      ],
+      "deliverables": ["Entscheidungsvorlage.docx", "Anbieteranschreiben.docx"],
+      "criteria": [
+        {"id": "zweck", "text": "Widerspricht der Pauschale aller Sortierung begründet; unterscheidet Extraktion, deterministische Ansicht, Eignungsranking und konkreten Chatgebrauch anhand der Belege.", "deliverables": ["Entscheidungsvorlage.docx"]},
+        {"id": "profiling", "text": "Prüft Anhang III Nummer 4 Buchstabe a, tatsächlichen Einfluss und Profiling-Sperre; bloßes menschliches Versandklicken trägt keine pauschale Ausnahme.", "deliverables": ["Entscheidungsvorlage.docx"]},
+        {"id": "zeit", "text": "Ordnet die Inbetriebnahme 8. September 2026 und eine mögliche spätere Änderung dem aktuellen Übergangsrecht zu, ohne Artikel 43/49/73 pauschal mitzuverschieben.", "deliverables": ["Entscheidungsvorlage.docx"]},
+        {"id": "nachforderung", "text": "Fordert versions- und funktionsbezogene Unterlagen an, behandelt die Vertriebsbehauptung nur als auf Dokumentenaufnahme bezogen und erfindet weder Zertifikatspflicht noch Registereintrag.", "deliverables": ["Anbieteranschreiben.docx"]},
+        {"id": "fertig", "text": "Liefert beide bestellten Dokumente in vollständiger Sprache; Beleglücken, Rechtsauslegung und Empfängertext werden getrennt, ohne Versand.", "deliverables": ["Entscheidungsvorlage.docx", "Anbieteranschreiben.docx"]}
+      ]
+    },
+    {
+      "id": "shadow-ai-spaetere-uebernahme",
+      "request": "Die bisherigen Unterlagen liegen bei. Ergänzend bestätigt Julia Kern heute schriftlich, sie habe die Chatvorlage am 22. September für drei weitere Stellen zur verbindlichen Vorsichtung angeordnet; diese neue Angabe ersetzt die frühere Unsicherheit nur für diesen Zeitpunkt. Schreiben Sie einen fortgeschriebenen Rollenvermerk und eine interne Sicherungsanweisung. Das Privatkonto soll nicht als automatische Entlastung dienen, der gesamte Chatbotanbieter aber auch nicht ungeprüft als Recruiting-Anbieter gelten.",
+      "target_skill": "rollenwechsel-und-shadow-ai",
+      "input_files": ["testakten/ki-hochrisiko-bewerbungsauswahl-kassel/04_Freigabeprotokoll_20260908.txt", "testakten/ki-hochrisiko-bewerbungsauswahl-kassel/06_Dialogexport_20260918.txt", "testakten/ki-hochrisiko-bewerbungsauswahl-kassel/07_Teamleitung_20260921.eml"],
+      "deliverables": ["Rollenvermerk.docx", "Sicherungsanweisung.docx"],
+      "criteria": [
+        {"id": "zeitabschnitte", "text": "Trennt ursprüngliche Eigenmächtigkeit und neu belegte bewusste Integration zeitlich; keine rückwirkende Erfindung einer Erstfreigabe.", "deliverables": ["Rollenvermerk.docx"]},
+        {"id": "rolle", "text": "Prüft tatsächliche Kontrolle und Artikel 25 Absatz 1 anhand des konkreten Systems, keine automatische Arbeitgeberfreiheit und keine pauschale globale Umwidmung des Universalprodukts.", "deliverables": ["Rollenvermerk.docx"]},
+        {"id": "handlung", "text": "Ordnet begrenzte Sicherung, Stopp weiterer Uploads und unabhängige Sichtung konkret und datensparsam an; keine allgemeine Herausgabe des privaten Kontos oder bloße Schlagwortliste.", "deliverables": ["Sicherungsanweisung.docx"]}
+      ]
+    },
+    {
+      "id": "extraktion-und-ausnahme",
+      "request": "Für ein gesondertes künftiges Modul bestätigt der Anbieter, dass nur unveränderte Kontaktdaten aus Unterlagen übertragen werden, alle Datensätze sichtbar bleiben und weder Bewertung noch Profiling stattfindet. Nutzer prüfen die Übertragung vor jeder Verwendung. Er möchte eine Ausnahme nach Artikel 6 Absatz 3 dokumentieren und behauptet, damit entfalle jede Registrierung. Erstellen Sie eine begründete Dokumentation mit kenntlichen Voraussetzungen, nicht die ungeprüfte gewünschte Freistellung.",
+      "target_skill": "ausnahmebegruendung-artikel-6",
+      "input_files": ["testakten/ki-hochrisiko-bewerbungsauswahl-kassel/02_Leistungsbeschreibung_Talentspur_20260820.docx"],
+      "deliverables": ["Ausnahmebegruendung.docx"],
+      "criteria": [
+        {"id": "zweistufig", "text": "Prüft zunächst Anhang-III-Bezug, dann fehlendes erhebliches Risiko beziehungsweise Entscheidungseinfluss und konkrete Fallgruppe. Kein Ausnahmeautomatismus durch Modulnamen.", "deliverables": ["Ausnahmebegruendung.docx"]},
+        {"id": "abgrenzung", "text": "Beschränkt die mögliche Ausnahme auf die neu beschriebenen Funktionen und Tatsachen, nicht auf das vorhandene Rankingmodul. Profiling-Sperre ausdrücklich berücksichtigt.", "deliverables": ["Ausnahmebegruendung.docx"]},
+        {"id": "register", "text": "Erhält Artikel 6 Absatz 4 und Artikel 49 Absatz 2 trotz Vereinfachung durch 2026/1744; dokumentiert Anbieterrolle, Version und zeitliche Voraussetzungen ohne erfundene Registrierung.", "deliverables": ["Ausnahmebegruendung.docx"]}
+      ]
+    },
+    {
+      "id": "konformitaet-keine-universalzulassung",
+      "request": "Formulieren Sie für FuldaForm ein vollständiges Anbieteranschreiben zum Rankingmodul. Der Einkauf verlangt pauschal eine Bescheinigung einer notifizierten Stelle, eine eigene Betreiberregistrierung und eine Vorfallmeldung als drei Zulassungsschritte. Prüfen und berichtigen Sie diese Vorgabe anhand der gelieferten Anbieterantwort. Eine vorhandene Rechenzentrumsprüfung soll nicht als produktspezifischer Konformitätsnachweis ausgegeben werden.",
+      "target_skill": "konformitaet-und-registrierung",
+      "input_files": ["testakten/ki-hochrisiko-bewerbungsauswahl-kassel/08_Anbieterantwort_20260924.eml"],
+      "deliverables": ["Anbieternachforderung.docx"],
+      "criteria": [
+        {"id": "verfahren", "text": "Nennt Artikel 43 Absatz 2 und interne Kontrolle nach Anhang VI ohne automatische notifizierte Stelle; daraus folgt keine Prüfungsfreiheit.", "deliverables": ["Anbieternachforderung.docx"]},
+        {"id": "registerrolle", "text": "Trennt Anbieterregister und besondere öffentliche Betreiber von privatem Arbeitgeber; fordert konkrete Nachweise ohne fiktive Kennungen.", "deliverables": ["Anbieternachforderung.docx"]},
+        {"id": "meldung", "text": "Behandelt Artikel 73 nicht als Zulassungsschritt; formuliert nur sachlich passende, versionsbezogene Anforderungen mit einer geschäftlichen Frist und korrekt abgegrenzter zeitlicher Anwendung.", "deliverables": ["Anbieternachforderung.docx"]}
+      ]
+    },
+    {
+      "id": "betreiber-tatsaechliche-aufsicht",
+      "request": "Erstellen Sie auf Grundlage von Anleitung, Freigabe und Bewerberlauf eine unmittelbar verständliche interne Betriebsanweisung. Die Geschäftsführung möchte bereits jetzt nachvollziehbare Schutzmaßnahmen, unabhängig davon, welche gesetzlichen Pflichten erst später gelten. Regeln Sie die Prüfung auch nicht angezeigter Bewerbungen, Korrekturen und den Umgang mit Protokollen. Keine pauschale Erklärung, ein Mensch entscheide am Schluss, und keine unbegrenzte Aufbewahrung aller Unterlagen.",
+      "target_skill": "betreiberkonzept-bewerbungsauswahl",
+      "input_files": ["testakten/ki-hochrisiko-bewerbungsauswahl-kassel/03_Gebrauchsanleitung_Talentspur_24.pdf", "testakten/ki-hochrisiko-bewerbungsauswahl-kassel/04_Freigabeprotokoll_20260908.txt", "testakten/ki-hochrisiko-bewerbungsauswahl-kassel/05_Bewerberlauf_20260917.csv"],
+      "deliverables": ["Betriebsanweisung.docx"],
+      "criteria": [
+        {"id": "aufsicht", "text": "Benannte Verantwortung und Befugnis, alle Originalunterlagen zu prüfen, Felder zu korrigieren und Ergebnisübernahme zu unterbrechen; protokollierte Öffnung nicht mit vollständigem Lesen gleichgesetzt.", "deliverables": ["Betriebsanweisung.docx"]},
+        {"id": "protokolle", "text": "Unterscheidet kontrollierte automatische Protokolle von Bewerbungsakten und formuliert begrenzte Zugriffe sowie überprüfbare Aufbewahrungsregeln.", "deliverables": ["Betriebsanweisung.docx"]},
+        {"id": "anwendung", "text": "Trennt freiwillig sofort vorgesehene Maßnahmen von zeitlich anwendbaren gesetzlichen Pflichten sowie Informationen nach Artikel 26 Absätze 7 und 11.", "deliverables": ["Betriebsanweisung.docx"]}
+      ]
+    },
+    {
+      "id": "vorfall-keine-automatische-frist",
+      "request": "Erstellen Sie einen internen Vorfallvermerk zur Nachfrage von A07 und zur Besprechungsnotiz. Die Leitung meint, ohne Körperverletzung könne es keinen schwerwiegenden Vorfall geben und man dürfe jedenfalls fünfzehn Tage warten. Prüfen Sie diese Aussagen, unterscheiden Sie die Informationswege und halten Sie offene Kausalitäts- und Zeitfragen fest. Keine Meldung versenden und aus der Beschwerde keinen bereits bewiesenen Diskriminierungsverstoß machen.",
+      "target_skill": "vorfallbewertung-und-meldeentwurf",
+      "input_files": ["testakten/ki-hochrisiko-bewerbungsauswahl-kassel/09_Bewerbernachfrage_20260925.eml", "testakten/ki-hochrisiko-bewerbungsauswahl-kassel/10_Besprechungsnotiz_20260928.docx"],
+      "deliverables": ["Vorfallvermerk.docx"],
+      "criteria": [
+        {"id": "grundrechte", "text": "Berücksichtigt Artikel 3 Nummer 49 einschließlich unionsrechtlichem Grundrechtsschutz und trennt Anhaltspunkt, Tatbestand und Beweis.", "deliverables": ["Vorfallvermerk.docx"]},
+        {"id": "fristen", "text": "Ordnet Kenntniszeiten 25. September zu, erläutert Unverzüglichkeit und äußere Grenzen statt allgemeiner fünfzehntägiger Wartefreiheit; Sonderfristen nicht pauschal anwenden.", "deliverables": ["Vorfallvermerk.docx"]},
+        {"id": "rollenzeit", "text": "Trennt Artikel 26 Absatz 5 von Artikel 73, prüft Anwendbarkeit und Artikel 111 sowie Zuständigkeit nach KI-MIG. Keine Behauptung bereits versandter Meldungen.", "deliverables": ["Vorfallvermerk.docx"]}
+      ]
+    },
+    {
+      "id": "bestand-und-neues-modul",
+      "request": "Schreiben Sie eine Entscheidungsvorlage für die angekündigte Interviewauswertung. Der Einkauf meint, der Vertrag aus August 2026 und der unveränderte Produktname schützten jedes Update dauerhaft. Die Geschäftsführung verweist außerdem auf Digital Omnibus als noch unverbindlichen Vorschlag. Prüfen Sie dies zum Stand 28. September 2026 und beschreiben Sie, welche Angaben vor der Einführung im Dezember 2027 erforderlich sind, ohne einen noch unbekannten Funktionsumfang zu erfinden.",
+      "target_skill": "rechtsstand-und-einfuehrungsentscheidung",
+      "input_files": ["testakten/ki-hochrisiko-bewerbungsauswahl-kassel/02_Leistungsbeschreibung_Talentspur_20260820.docx", "testakten/ki-hochrisiko-bewerbungsauswahl-kassel/10_Besprechungsnotiz_20260928.docx"],
+      "deliverables": ["Einfuehrungsentscheidung.docx"],
+      "criteria": [
+        {"id": "recht", "text": "Behandelt 2026/1744 als verkündetes Änderungsrecht seit Juli 2026, grenzt COM(2025) 836 und andere Omnibusverfahren sowie Leitlinienentwurf ab.", "deliverables": ["Einfuehrungsentscheidung.docx"]},
+        {"id": "bestand", "text": "Prüft Artikel 111 Absatz 2, konkret belegte Inbetriebnahme und erhebliche spätere Gestaltungsänderung; Altvertrag und Produktname sind keine dauerhafte Befreiung.", "deliverables": ["Einfuehrungsentscheidung.docx"]},
+        {"id": "begrenzung", "text": "Nennt begrenzte Verschiebung nach Artikel 113 Buchstabe c, unterscheidet Anhang III und I, und erfindet weder Zukunftsfreigabe noch noch unbekannte Modellfunktionen.", "deliverables": ["Einfuehrungsentscheidung.docx"]}
+      ]
+    },
+    {
+      "id": "zeugnisrechtsberatung-negativkontrolle",
+      "request": "Eine Arbeitnehmerkanzlei nutzt ein Sprachsystem ausschließlich zur rechtlichen Prüfung eines bereits erteilten Arbeitszeugnisses und zur Vorbereitung eines Berichtigungsverlangens. Es trifft oder unterstützt keine Arbeitgeberentscheidung über Einstellung, Beförderung, Aufgaben oder Beendigung und bewertet keine Beschäftigten für den Arbeitgeber. Jemand behauptet, Zeugnisnoten seien genau die Bewertungsdimension des Anhangs III Nummer 4 Buchstabe b. Erstellen Sie einen begründeten Einstufungsvermerk; keine Zeugnisberichtigung selbst.",
+      "target_skill": "artikel-6-software-einstufen",
+      "input_files": [],
+      "deliverables": ["Zeugniswerkzeug_Einstufung.docx"],
+      "criteria": [
+        {"id": "kein-automatismus", "text": "Verneint eine automatische Zuordnung zu Nummer 4 Buchstabe b allein aus Zeugnisnote oder Berichtigung und subsumiert den vorgegebenen arbeitnehmerseitigen Zweck.", "deliverables": ["Zeugniswerkzeug_Einstufung.docx"]},
+        {"id": "kein-berufsprivileg", "text": "Erfindet weder eine allgemeine Kanzleiausnahme noch ordnet jede anwaltliche Tätigkeit der Justizkategorie zu; anderer tatsächlicher Einsatz wäre gesondert zu prüfen.", "deliverables": ["Zeugniswerkzeug_Einstufung.docx"]},
+        {"id": "reichweite", "text": "Liefert den angeforderten ausformulierten Vermerk und trennt fehlenden Hochrisikotatbestand von Datenschutz und sonstiger Rechtmäßigkeit.", "deliverables": ["Zeugniswerkzeug_Einstufung.docx"]}
+      ]
+    },
+    {
+      "id": "produktpfad-und-bereichsgrenzen",
+      "request": "Erstellen Sie einen Einstufungsvermerk für vier voneinander getrennte Funktionen: KI-Sicherheitsbauteil eines von Anhang I Abschnitt A erfassten Produkts mit vorgeschriebener sicherheitsbezogener Drittbewertung; KI-Auswertung universitärer Prüfungsleistungen; reine deterministische alphabetische Personalliste eines Stromversorgers; und KI zur Bonitätsbewertung natürlicher Personen, nicht Betrugserkennung. Die Technikangaben gelten als bestätigt. Begründen Sie die jeweiligen Pfade und Grenzen; eine allgemeine Branchenübersicht genügt nicht.",
+      "target_skill": "artikel-6-software-einstufen",
+      "input_files": [],
+      "deliverables": ["Software_Einstufungen.docx"],
+      "criteria": [
+        {"id": "produkt", "text": "Prüft kumulative Voraussetzungen nach Artikel 6 Absatz 1 und neue Sicherheitspräzisierungen; überträgt die Ausnahme aus Absatz 3 nicht auf diesen Produktpfad.", "deliverables": ["Software_Einstufungen.docx"]},
+        {"id": "katalog", "text": "Ordnet Prüfungsleistung Nummer 3 und natürliche Bonität Nummer 5 zu, prüft jeweils Einfluss und Profiling statt nur Kategorien zu nennen.", "deliverables": ["Software_Einstufungen.docx"]},
+        {"id": "negativ", "text": "Erklärt die deterministische alphabetische Liste nicht allein wegen Versorgerbranche zur KI-Sicherheitskomponente nach Nummer 2; verbleibende Pfade nicht erfunden.", "deliverables": ["Software_Einstufungen.docx"]},
+        {"id": "folgen", "text": "Trennt Produktverfahren, interne Kontrolle und Registrierung sowie Anwendungsdaten; behauptet keine universelle notifizierte Stelle oder Meldung jedes Systems.", "deliverables": ["Software_Einstufungen.docx"]}
+      ]
+    }
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-28",
+    "method": "desk_review",
+    "files": ["ki-verordnung-hochrisiko-pruefer/README.md", "ki-verordnung-hochrisiko-pruefer/ki-verordnung-hochrisiko-pruefer-schnellstart.md", "ki-verordnung-hochrisiko-pruefer/ki-verordnung-hochrisiko-pruefer-werkstatt.md", "ki-verordnung-hochrisiko-pruefer/references/rechtsstand-und-quellen.md", "ki-verordnung-hochrisiko-pruefer/references/artikel-6-und-anhang-iii.md", "quality/evals/ki-verordnung-hochrisiko-pruefer.json"],
+    "opening_change": "Vom konkreten Ordner und bestellten Dokument ausgehen; beide Artikel-6-Pfade prüfen, HR als Vertiefung statt ausschließlichem Anwendungsbereich. Keine Zustimmung zur Pauschale aller Sortierung.",
+    "norms": ["Artikel 3 und 6 sowie Anhang I und III KI-Verordnung", "Artikel 25, 26, 43, 49, 73, 111 und 113 in Fassung 2026/1744", "Artikel 4 Nummer 4 und Artikel 22 DSGVO", "Paragraf 2 KI-MIG"],
+    "decisions": [{"citation": "EuGH, Urteil vom 7. Dezember 2023, C-634/21, SCHUFA Holding, Randnummern 43 bis 55 und 60 bis 73", "url": "https://eur-lex.europa.eu/legal-content/DE/ALL/?uri=celex%3A62021CJ0634", "application": "Die tatsächliche maßgebliche Wirkung eines Scores ist bei der eigenständigen Prüfung nach Artikel 22 DSGVO relevant; bloßes Schlussklicken nicht mit unabhängiger Entscheidung gleichsetzen.", "limit": "Kein Urteil zu Artikel 6 KI-Verordnung, keine automatische Übertragung von Kreditscoring auf jede Recruiting-Funktion und keine Entscheidung zu 2026/1744."}],
+    "remaining_limits": ["Desk-Review und technische Regressionen, keine Live-Modell- oder Client-Ausführung.", "Direkte EUR-Lex-Abrufe teilweise botgeschützt; konkrete Änderungsstellen über den amtlichen Suchindex, keine vollständig konsolidierte deutsche Ausgabe als gelesen behauptet.", "Zeitliche Verzahnung der außerhalb der verschobenen Kapitel-III-Abschnitte stehenden Pflichten und Artikel 111 verlangt im Einzelfall begründete Auslegung.", "Die Hochrisiko-Leitlinien sind am Prüfstand Entwurf; das verlinkte Entwurfs-PDF wurde nicht vollständig gelesen und kein bestimmtes Beschäftigtenbeispiel daraus behauptet.", "Zentrale Marketplace-Registrierung, globale Promptprofile sowie Aggregate und ZIP-Pakete sind gesonderte Integration, nicht Bestandteil dieses lokalen Builds."]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-28",
+    "method": "desk_review",
+    "opening_modes": ["Leere Eingabe: System, Rolle, Einsatzdatum und benötigtes Dokument knapp klären.", "Nur Ordner: Unterlagen zuerst lesen und ausschließlich das noch unklare Ergebnisziel erfragen.", "Klarer Auftrag: direkt am Einstufungsvermerk, Anbieteranschreiben oder der Betriebsanweisung arbeiten.", "Bestehender Entwurf mit neuen Belegen: betroffene Subsumtion und Dokumente gezielt fortschreiben."],
+    "continuation": "Belegte spätere Leitungsübernahme des privaten Prompts verändert zeitbezogen Rollenvermerk und Sicherungsanweisung; neue Modulbeschreibung verändert nur deren Einstufung, nicht automatisch alle Produktteile.",
+    "enrichment": "Konkrete Belegwidersprüche, tatsächliche Entscheidungsmacht, Profiling-Sperre, erhaltene Ausnahme-Registrierung und normbezogenes Zeitrecht führen zu fertig ausformulierten Dokumenten statt Informationssammlung.",
+    "limits": "desk_review; keine Live-Client-Ausführung, keine autonome Meldung, Registrierung oder Freigabe"
+  }
+}

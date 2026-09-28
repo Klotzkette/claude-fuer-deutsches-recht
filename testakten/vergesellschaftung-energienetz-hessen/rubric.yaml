@@ -1,0 +1,15 @@
+name: Vergesellschaftung Energienetz Hessen
+plugin: vergesellschaftung-artikel-15
+checks:
+- id: r01-readme-vorhanden
+  check_type: file_exists
+  description: Aktenübersicht vorhanden
+  path: README.md
+- id: r02-gesamt-pdf-vorhanden
+  check_type: file_exists
+  description: Gesamt-PDF nach zentraler Integration vorhanden
+  path: gesamt-pdf/vergesellschaftung-energienetz-hessen_gesamt.pdf
+- id: r03-elf-arbeitsunterlagen
+  check_type: working_file_count
+  description: Elf individuelle Originalunterlagen vorhanden
+  min: 11

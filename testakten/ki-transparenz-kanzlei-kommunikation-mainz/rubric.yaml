@@ -1,0 +1,28 @@
+name: ki-transparenz-kanzlei-kommunikation-mainz
+plugin: ki-verordnung-transparenzpruefer
+description: Kommunikationsprojekt einer Mainzer Kanzlei mit internem Gerichtsentwurf, öffentlichem Artikel, redaktionellen Fassungen, Telefon und Chat sowie Bildproduktion.
+checks:
+  - id: auftrag-vorhanden
+    check_type: file_exists
+    description: Der vollständige Auftrag ist vorhanden.
+    path: 01_Auftrag_20260928.eml
+  - id: artikel-vorhanden
+    check_type: file_exists
+    description: Die zu bearbeitende Artikelfassung ist vorhanden.
+    path: 05_Artikel_Schulstrasse_v4_20260924.docx
+  - id: bildunterlage-vorhanden
+    check_type: file_exists
+    description: Produktionsauftrag und Vergleichsansicht sind vorhanden.
+    path: 10_Bildauftrag_Schulweg_20260922.pdf
+  - id: aktenbezug
+    check_type: human_review
+    description: Die Bearbeitung verknüpft Aussagen mit den jeweiligen Originalunterlagen und unterscheidet belegte Tatsachen von offenen Fragen.
+  - id: fassungsbezug
+    check_type: human_review
+    description: Die zeitliche Reihenfolge und die verschiedenen Textfassungen werden anhand der Unterlagen nachvollziehbar verarbeitet.
+  - id: kanalausgabe
+    check_type: human_review
+    description: Die bestellten Kommunikationsfassungen werden verwendbar ausgearbeitet und nicht durch eine bloße Materialübersicht ersetzt.
+  - id: quellenstand
+    check_type: human_review
+    description: Die tragenden Rechtsaussagen sind am maßgeblichen amtlichen Stand belegt und ihre Reichweite wird offengelegt.

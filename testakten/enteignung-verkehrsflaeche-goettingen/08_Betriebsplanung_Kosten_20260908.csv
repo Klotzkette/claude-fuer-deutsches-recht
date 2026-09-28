@@ -1,0 +1,16 @@
+﻿Position;Bearbeiter;Stand;Gegenstand;Menge;Einheit;Einzelpreis_EUR_netto;Betrag_EUR_netto;Beleg_oder_Grundlage;Status;Zuordnung
+01;Enno Rehberg;2026-09-08;Mobiler Zaun für Kundenbereich;6;Wochen;145,00;870,00;Telefonpreis Hofbedarf am 02.09.;nicht bestellt;Mieterin
+02;Enno Rehberg;2026-09-08;Zusätzlicher Transporter Stellplatz;3;Monate;120,00;360,00;Angebot Parkplatz Nord am 01.09.;nicht angemietet;Mieterin
+03;Enno Rehberg;2026-09-08;Rädertransport zum Ersatzlager;4;Fahrten;185,00;740,00;Angebot Radlogistik am 04.09.;nicht beauftragt;Mieterin
+04;Enno Rehberg;2026-09-08;Ersatzlager;3;Monate;480,00;1440,00;Mietangebot Halle Ost am 03.09.;nicht angemietet;Mieterin
+05;Enno Rehberg;2026-09-08;Montagestunden Umräumen;24;Stunden;38,00;912,00;betrieblicher Vollkostensatz;Planwert;Mieterin
+06;Enno Rehberg;2026-09-08;Beschilderung neue Kundenzufahrt;2;Schilder;95,00;190,00;Katalog Beschriftung am 02.09.;nicht bestellt;Mieterin
+07;Enno Rehberg;2026-09-08;Abnehmbare Rampe Osttor;1;Stück;680,00;680,00;Werkstattkalkulation;Planwert;Mieterin
+08;Enno Rehberg;2026-09-08;Anpassung Tor auf 3,80 m;1;Anlage;5400,00;5400,00;Richtangebot Torbau am 05.09.;Eigentümerfreigabe fehlt;Zuordnung noch offen
+09;Enno Rehberg;2026-09-08;Pflasterergänzung Osttor;22;m²;92,00;2024,00;Richtangebot Hofbau am 06.09.;Umfang noch offen;Zuordnung noch offen
+10;Enno Rehberg;2026-09-08;Lieferumleitung Paketdienst;30;Tage;12,00;360,00;Anbieterinformation am 07.09.;nur bei Umleitung;Mieterin
+11;Enno Rehberg;2026-09-08;Reinigung nach Rückverlagerung;12;Stunden;31,00;372,00;interne Planung;Planwert;Mieterin
+12;Enno Rehberg;2026-09-08;Miete zusätzlicher Lagerwagen;6;Wochen;76,00;456,00;Mietkatalog vom 01.09.;Alternative zu Position 04;Mieterin
+13;Enno Rehberg;2026-09-08;Historischer Wochenumsatz August;4;Wochen;8250,00;33000,00;Kassenberichte August 2026;historischer Umsatz;Mieterin
+14;Enno Rehberg;2026-09-08;Variable Warenkosten August;4;Wochen;3540,00;14160,00;Warenbuch August 2026;historische Kosten;Mieterin
+15;Enno Rehberg;2026-09-08;Kundenanschreiben Druck;240;Stück;0,45;108,00;Hausdruckkalkulation;nicht gedruckt;Mieterin

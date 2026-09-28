@@ -1,0 +1,31 @@
+name: enteignung-verkehrsflaeche-goettingen
+plugin: enteignung-artikel-14
+author: Klotzkette
+description: Native Quellenakte zu einem kommunalen Verkehrsanschluss in Göttingen mit Grundstücks-, Verhandlungs-, Bewertungs- und Behördenunterlagen.
+checks:
+  - id: eingang
+    check_type: file_exists
+    path: 01_Eingang_Kersting_20260928.eml
+    description: Eingangsmail mit auslesbaren Originalanhängen vorhanden.
+  - id: plan
+    check_type: file_exists
+    path: 03_Planblatt_Weidenrain_20260218.pdf
+    description: Individuelles Planblatt vorhanden.
+  - id: technik
+    check_type: file_exists
+    path: 04_Technischer_Vermerk_20260818.docx
+    description: Technischer Vermerk im nativen Format vorhanden.
+  - id: betriebsdaten
+    check_type: file_exists
+    path: 08_Betriebsplanung_Kosten_20260908.csv
+    description: Betriebliche Einzelpositionen vorhanden.
+  - id: korrespondenz
+    check_type: file_exists
+    path: 10_Ladung_20260914.pdf
+    description: Behördenunterlage mit Datumsangaben vorhanden.
+  - id: aktenarbeit
+    check_type: human_review
+    description: Bearbeitung gibt die jeweiligen Sprecher, Dokumentfassungen und Fundstellen zutreffend wieder und verarbeitet nachgereichte Belege ohne Veränderung der Originale.
+  - id: endprodukt
+    check_type: human_review
+    description: Das beauftragte Dokument ist vollständig ausformuliert; nicht belegte Tatsachen, tatsächliche Einreichungen oder Freigaben werden nicht erfunden.

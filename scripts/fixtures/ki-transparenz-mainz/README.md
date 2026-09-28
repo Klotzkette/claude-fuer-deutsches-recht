@@ -1,0 +1,7 @@
+# Mainzer Originalunterlagen
+
+`documents.json` ist die redaktionelle Quelle für drei DOCX- und drei PDF-Unterlagen. Der Builder `scripts/build-ki-transparenz-mainz.py` bearbeitet ausschließlich diese Akte. Die übrigen Originale sind unmittelbar als EML, CSV und TXT in der Akte gepflegt. Die Vergleichsansicht wird in Unterlage 10 eingebettet.
+
+`bildvergleich.png` wurde mit dem integrierten Bildgenerator erzeugt. Bildauftrag: eine vertikale Vergleichsansicht mit zwei fotorealistischen Aufnahmen desselben schlichten Mainzer Besprechungsraums; oben leerer Tisch mit zwei Mappen und Wasserkaraffe, unten derselbe Raum mit vier erfundenen Erwachsenen und Lageplan, eine Person zeigt auf den Plan; identische Fenster, Möbel, Licht und Wandbild, keine Texte, Logos oder Stempel. Die Personen sollen keinen öffentlichen Personen ähneln. Die Ansicht dient als Originalmaterial der Bildproduktion innerhalb des Falls, nicht als rechtliche Bewertung. Das Bild wurde vor Einbettung visuell geprüft.
+
+QA-Aufruf mit gebündeltem Python: `python3 -B scripts/build-ki-transparenz-mainz.py --qa-dir /tmp/ki-transparenz-mainz-qa`. DOCX werden mit dem Documents-Skill-Renderer und dem gebündelten LibreOffice gerendert. EML, TXT und CSV erhalten ausschließlich unter dem QA-Verzeichnis lesbare Kontrollansichten; sie werden nicht als zusätzliche Aktenunterlagen gespeichert. Keine Archive oder globalen Verzeichnisse werden erzeugt.

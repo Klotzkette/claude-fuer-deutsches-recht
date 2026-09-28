@@ -1,0 +1,49 @@
+From: Mara Henning <mara.henning@dialogufer.example>
+To: Jonas Bär <jonas.baer@seidel-kuehn.example>
+Cc: Dr. Miriam Seidel <miriam.seidel@seidel-kuehn.example>
+Date: Fri, 25 Sep 2026 15:17:00 +0200
+Message-ID: <202609251517.mz184@dialogufer.example>
+Subject: Ihre Fragen zu Markierung und Resonanz
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Sehr geehrter Herr Bär,
+
+zu Ihren beiden Fragen möchte ich die Produktstände auseinanderhalten.
+Dialogufer Empfang 2.1 wurde nach unseren Vertriebsunterlagen erstmals am
+15. Juli 2026 an Kunden abgegeben. Die im September für Sie konfigurierte
+Instanz verwendet diesen Stand. Eine Kopie des damaligen Auslieferungsbelegs
+habe ich heute angefordert; beigefügt ist sie dieser Nachricht noch nicht.
+Unser Basismodell ist kein von Ihrer Kanzlei entwickeltes Modell.
+
+Für die synthetische Sprachausgabe arbeitet die Entwicklung an einem
+aktualisierten Markierungsverfahren. Die Produktplanung nennt dafür Ende
+November. Im Vertrieb wird insoweit auf die Übergangsregel bis Dezember
+verwiesen. Ich kann Ihnen daraus keine Aussage zu Ihrer eigenen Website,
+Ihrem Artikel oder den dort verwendeten Bildern ableiten. Für das Bildprodukt
+eines anderen Anbieters haben wir auch keine technischen Nachweise.
+
+Im derzeitigen Telefonexport werden die Audiodatei und eine Sitzungskennung
+ausgegeben. Welche Merkmale ein Empfänger zur Erkennung verwenden kann, soll
+uns die Entwicklung in einem gesonderten Blatt erläutern. Das Verschwinden
+eines Metadatenfelds aus einem umgewandelten PDF erlaubt mir deshalb noch
+keinen Rückschluss auf den ursprünglichen Audioexport. Bitte senden Sie uns
+keine Mandatsinhalte, sondern zunächst Dateiformat und die verwendeten
+Umwandlungsschritte.
+
+Zur Resonanz-Funktion habe ich Ihre Frage nach dem Übergabekanal weitergegeben.
+Die Beschränkung auf externe Anrufende steht im Eingangskanal, muss aber im
+Übergabekonnektor ebenfalls gesetzt sein. Ich kann aus der Kundensicht nicht
+bestätigen, dass das bereits geschehen ist. Das Modul wertet in der aktiven
+akustischen Einstellung auch Stimmspannung und Tonhöhenverlauf aus. Eine reine
+Wortlautanalyse wäre eine andere Einstellung.
+
+Die Anfangsbegrüßung können Sie unabhängig davon ändern. Schicken Sie uns bitte
+den gewünschten Wortlaut und nennen Sie, ob er im Telefon, im Chat oder in
+beiden Kanälen erscheinen soll. Wir setzen nichts ohne Ihre Bestätigung um.
+
+Mit freundlichen Grüßen
+Mara Henning
+Produktbetreuung
+Dialogufer Systeme GmbH

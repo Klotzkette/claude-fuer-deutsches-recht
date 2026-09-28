@@ -1,0 +1,59 @@
+Dialogufer Empfang 2.1
+Export durch Jonas Bär am 25.09.2026 um 09:31 Uhr
+Kundenkennung MZ-184, Zeitzone Europe/Berlin
+
+1. Telefonprobelauf am 25.09.2026
+
+08:42:03 Verbindung hergestellt.
+08:42:04 Lena: Guten Tag, hier ist Lena vom Empfang Seidel und Kühn.
+Wie kann ich Ihnen helfen?
+08:42:09 Jonas Bär: Ich möchte wissen, ob ich heute noch einen Rückruf
+bekommen kann. Sind Sie gerade in der Kanzlei?
+08:42:15 Lena: Ich nehme Ihren Wunsch gern auf. Zu welchem Anliegen
+möchten Sie einen Rückruf?
+08:42:22 Jonas Bär: Bevor ich Ihnen etwas erzähle: Sind Sie eine Mitarbeiterin?
+08:42:28 Lena: Ich bin ein automatisierter Assistent für die Aufnahme
+von Rückrufwünschen. Ein Mensch aus der Kanzlei kann sich später melden.
+08:42:39 Jonas Bär: Es geht nur um einen Termin. Bitte vermerken Sie
+Jonas Bär. Ich brauche für diesen Anruf keinen echten Rückruf.
+08:42:46 Lena: Ich habe Ihren Terminwunsch aufgenommen. Unter welcher
+Telefonnummer sind Sie erreichbar?
+08:42:54 Jonas Bär: Den Vorgang bitte nicht weiterleiten.
+08:43:02 Lena: Verstanden. Ich beende die Aufnahme.
+08:43:04 Verbindung beendet. Keine weitere Nachricht ausgegeben.
+
+2. Websitechat am 25.09.2026
+
+09:02:11 Chat geöffnet, Browserfenster 390 Pixel breit.
+09:02:12 Lena: Willkommen bei Seidel und Kühn. Ich bin Lena. Worum geht es?
+09:02:19 Jonas Bär: Ich komme über den Artikel zur Schulstraße. Kann ich
+hier eine Frage zur Lieferzufahrt stellen?
+09:02:25 Lena: Sie können mir Ihr Anliegen schildern. Ich helfe Ihnen gern.
+09:02:32 Jonas Bär: Wer liest das gerade?
+09:02:40 Lena: Ich bin ein KI-gestützter Assistent. Die Kanzlei erhält
+eine Zusammenfassung, wenn Sie einen Rückruf wünschen.
+09:02:53 Jonas Bär: Bitte vorerst keine Zusammenfassung weitergeben.
+09:03:00 Lena: Sie können das Fenster schließen, ohne einen Rückruf
+zu beauftragen.
+09:03:15 Fenster geschlossen.
+
+3. Beobachtungen zur Anzeige
+
+Jonas Bär: Auf dem geöffneten Chatfenster erschien vor dem ersten Satz kein
+zusätzlicher Hinweis. Das runde Profilbild war eine gezeichnete Person mit
+dunklen Haaren. Eine Produktbezeichnung stand nicht direkt daneben. Der Link
+Digitaler Service befand sich in der Fußzeile der Website. Er war ohne
+Scrollen auf meinem Telefon nicht zu sehen. Ich habe den Link erst nach dem
+Gespräch geöffnet; dort stand eine allgemeine Beschreibung automatisierter
+Unterstützung bei Rückrufwünschen.
+
+Im Administrationsfenster war für beide Gespräche die Sitzung gespeichert.
+Beim Telefonprobelauf zeigte die Resonanz-Spalte ruhig und später angespannt.
+Die Ansicht erklärte nicht, ob diese Kategorien aus dem Transkript oder aus
+akustischen Merkmalen stammten. Die Chatliste zeigte keine Resonanz-Spalte.
+Ich habe nur den Bildschirm abgelesen und keine Auswertung der Rohdaten
+vorgenommen. Der Systemstatus blieb während des Probelaufs unverändert.
+
+Die protokollierten Antworten wurden nicht nachträglich sprachlich geglättet.
+Zeilenumbrüche wurden für den Export ergänzt. Das System hat keine
+Aufzeichnung eines echten Beratungsgesprächs in diesen Export übernommen.

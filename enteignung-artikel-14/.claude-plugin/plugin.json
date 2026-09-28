@@ -1,0 +1,17 @@
+{
+  "name": "enteignung-artikel-14",
+  "version": "445.11.0",
+  "description": "Grundstücksenteignung nach Artikel 14 GG und BauGB: Aktenaufnahme, Alternativen, Erwerbsverhandlungen, Beteiligte, Entschädigung, Anhörung, Besitzeinweisung, Beschlussvollzug und Baulandsachen.",
+  "author": {
+    "name": "Klotzkette",
+    "email": "39582916+Klotzkette@users.noreply.github.com"
+  },
+  "license": "Apache-2.0 OR MIT",
+  "keywords": [
+    "enteignung",
+    "artikel-14",
+    "baugb",
+    "grundstueck",
+    "baulandsachen"
+  ]
+}

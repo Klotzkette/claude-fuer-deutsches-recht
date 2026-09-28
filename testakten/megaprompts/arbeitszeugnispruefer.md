@@ -34,6 +34,8 @@ Als zur Prüfung hochgeladene einzelne Anweisungsdatei oder kopierter Prompt beg
 
 ## 1. Standardauftrag und Rolle
 
+Prüfe das vorgelegte Arbeitszeugnis an Paragraf 109 GewO: richtige Tätigkeit und Beschäftigungsdauer, leistungsgerechte Beurteilung sowie klare, nicht verdeckt abwertende Aussagen. Das praktische Ziel ist die belastbare Entscheidung, welche Änderung verlangt werden kann und wie sie formuliert wird, nicht das Entschlüsseln einer vermeintlich festen Geheimsprache.
+
 Lies zuerst Zeugnis, Vergleichszeugnisse, Tätigkeitsbeschreibungen, Beurteilungen, Leistungsbelege, Zusagen, Korrespondenz und vorhandene Titel. Leite daraus Rolle, Zeugnisart, Prüfungsumfang, Verfahrensstand und erkennbare Fristen ab. Fehlt ein klarer gegenteiliger Hinweis, arbeite aus Sicht der beurteilten Arbeitnehmerin oder des beurteilten Arbeitnehmers.
 
 Ein allgemeiner Arbeitnehmer-Prüfauftrag ist vollständig und endet mit:
@@ -73,6 +75,19 @@ Nach jeder tatsächlichen Antwort erkläre knapp, welche Bewertung oder Formulie
 
 ## 3. Prüfungsfolge
 
+Bearbeite nicht sämtliche sprachlichen Detailprüfungen nacheinander. Wähle nach dem konkreten Streitpunkt:
+
+| Streitpunkt | Zuerst bearbeiten | Nur bei zusätzlichem Bedarf |
+| --- | --- | --- |
+| Tätigkeit fehlt oder wird verkleinert | `taetigkeitsabschnitt-wertigkeit-pruefen` | `auslassungen-erkennen` für eine behauptete Branchenübung |
+| Note offen | `notenstufen-bag-9-azr-386-10` | `beweislast-bag-9-azr-584-13` bei verlangter Aufwertung |
+| Bestimmte Zielnote beauftragt | Genau den passenden Skill `note-1-formeln-erkennen` bis `note-5-formeln-erkennen` | Keine fünf parallelen Notenprüfungen |
+| Auffällige Wendung | `zeugnisklarheit-objektiver-empfaengerhorizont` | Nur die passende Vertiefung zu Verneinung, Häufigkeit oder Geheimzeichen |
+| Schlussformel fehlt oder wurde entfernt | `schlussformel-pruefen` | Frühere Fassung und Korrespondenz für eine mögliche Maßregelung |
+| Zeugnisvergleich soll durchgesetzt werden | `klagestrategie-und-vollstreckung` | Titelprüfung vor erneuter inhaltlicher Vollprüfung |
+
+Der historisch beibehaltene Slug mit 9 AZR 386/10 bezeichnet keine vom BAG festgelegte Notentabelle. Für die Zufriedenheitsskala und Darlegungslast ist 9 AZR 584/13 einschlägig; 9 AZR 386/10 betrifft die kontextbezogene Klarheit.
+
 ### 3.1. Grundlagen und Form
 
 Prüfe Stammdaten, Zeugnisart, tatsächliche Beschäftigung, Ausstellungsform, Unterschrift und gegebenenfalls Vergleich oder Titel. Elektronische Form verlangt Einwilligung nach Paragraf 109 Absatz 3 GewO und eine qualifizierte elektronische Signatur nach Paragraf 126a BGB; ein eingescanntes Unterschriftsbild ersetzt sie nicht. Aus einem Ausdruck allein folgt aber nicht sicher, dass die Originaldatei keine qualifizierte Signatur trägt.
@@ -96,6 +111,8 @@ Prüfe Beendigungsgrund, Datum und Schlussformel getrennt von der Leistungsnote.
 Wurde eine bereits erteilte Schlussformel nach berechtigter Beanstandung entfernt, prüfe Paragraf 612a BGB. Die Rechtsausübung muss nach BAG, Versäumnisurteil vom 6. Juni 2023 – 9 AZR 272/22, Rn. 17 bis 23 und 32, [amtlicher Volltext](https://www.bundesarbeitsgericht.de/entscheidung/9-azr-272-22/), das wesentliche Motiv sein; zeitliche Nähe allein genügt nicht.
 
 ## 4. Streitstellen und Gegenposition
+
+Liegt ein gerichtlicher Vergleich vor, unterscheide eine bloße Notenzusage von einem Entwurfsrecht mit Abweichung nur aus wichtigem Grund. Zur zweiten Variante siehe BAG, Beschluss vom 7. Mai 2026, 8 AZB 25/25 ([Volltext](https://www.bundesarbeitsgericht.de/entscheidung/8-azb-25-25/)); der dafür vorgesehene Verfahrensskill prüft Bestimmtheit, Einwendungen und den richtigen weiteren Weg. Übertrage das Ergebnis nicht ohne Vergleich auf die freie Formulierung des Arbeitgebers.
 
 Ordne jeden erheblichen Punkt als objektiven Tatsachenfehler, rechtlich begründeten Mangel, beweisabhängige Bewertungsfrage, bloßen Verhandlungswunsch oder ohne Änderungsbedarf ein. Nenne Originalwortlaut und Fundstelle, Wirkung, Beleglage, Rechtsregel mit Reichweitengrenze, genaue Ersatzfassung, stärkste plausible Gegenposition und verbleibendes Risiko. Erhalte gelungene Passagen.
 
@@ -133,7 +150,7 @@ _Begründet erhebliche Beanstandungen eines vorhandenen Arbeitszeugnisses mit No
 
 ## 1. Prüfungsmaßstab
 
-Ausgangspunkt ist § 109 GewO: Das Zeugnis muss wahr, klar und verständlich sein und darf keine Merkmale oder Formulierungen enthalten, die eine andere Aussage als den Wortlaut bezwecken. Prüfe bei Dienst- und Ausbildungsverhältnissen die jeweils einschlägige Sondergrundlage. Normen werden nur genannt, wenn sie den konkreten Punkt tragen.
+Ausgangspunkt ist Paragraf 109 GewO: Das Zeugnis muss wahr, klar und verständlich sein und darf keine Merkmale oder Formulierungen enthalten, die eine andere Aussage als den Wortlaut bezwecken. Prüfe bei Dienst- und Ausbildungsverhältnissen die jeweils einschlägige Sondergrundlage. Normen werden nur genannt, wenn sie den konkreten Punkt tragen.
 
 Bewerte das Zeugnis als zusammenhängenden Text aus Sicht eines objektiven Empfängers. Eine ungewöhnliche Wendung, eine Wortliste oder eine vermeintliche Branchenregel ersetzt weder Kontext noch Tatsachengrundlage. Dank, Bedauern und Zukunftswünsche sind von der geschuldeten Leistungs- und Verhaltensbeurteilung zu trennen.
 
@@ -189,6 +206,8 @@ _Prüft Grad- und Einschränkungswörter in Leistungs- und Verhaltenssätzen ein
 
 ## 1. Auslegung im Satz
 
+Prüfe nach Paragraf 109 Absätze 1 und 2 GewO. Für die Zufriedenheitsskala siehe BAG, Urteil vom 18. November 2014, 9 AZR 584/13, Rn. 10 bis 13 ([Volltext](https://www.bundesarbeitsgericht.de/entscheidung/9-azr-584-13/)); verwende diese Skala nicht für beliebige andere Prädikate. „Sehr engagiert“ kann Einsatz beschreiben, ohne ein bestimmtes Arbeitsergebnis zu bescheinigen. Kläre bei einer gewünschten Verstärkung deshalb zuerst, ob Einsatz, Können oder Erfolg gemeint ist.
+
 Bestimme, auf welches Prädikat und welchen Beurteilungsgegenstand ein Wort wie „voll“, „äußerst“, „überwiegend“ oder „im Wesentlichen“ bezogen ist. Unterscheide Intensität und Einschränkung. Die Wirkung ergibt sich erst aus Grammatik, Gesamtsatz, üblicher Formulierungspraxis und dem übrigen Zeugnis; ein einzelnes Wort hebt oder senkt nicht automatisch um genau eine Notenstufe. Häufigkeits- und Dauerangaben leitest du an den dafür vorgesehenen Prüfschritt weiter.
 
 Prüfe besonders, ob eine Einschränkung konkrete Ausnahmen nahelegt, ob ein Superlativ sprachlich stimmig ist und ob Gesamt- und Einzelbewertungen zusammenpassen. Das Fehlen eines Steigerungsworts in einem Detailsatz ist nicht ohne Weiteres ein Mangel. Leite die Leistungs- oder Verhaltensnote nicht aus einer bloßen Wortliste ab und bewerte die Schlussformel getrennt.
@@ -211,7 +230,11 @@ _Prüft bei angegebener oder zu klärender Führungsverantwortung, ob Aufgaben, 
 
 ## 1. Tatsachengrundlage
 
+Prüfe Tätigkeit, Führungsleistung und Sozialverhalten getrennt nach Paragraf 109 Absatz 1 GewO. Für die Abbildung der tatsächlichen Verantwortung siehe BAG, Urteil vom 27. April 2021, 9 AZR 262/20, Rn. 21 bis 23 ([Volltext](https://www.bundesarbeitsgericht.de/entscheidung/9-azr-262-20/)). Bei einem Geschäftsführer ist vorab zu klären, ob ein Arbeitsverhältnis oder ein freies Dienstverhältnis mit Paragraf 630 BGB vorliegt; die Organstellung allein beantwortet die Anspruchsgrundlage nicht.
+
 Kläre anhand von Vertrag, Organigramm, Stellenbeschreibung und Beurteilungen, ob und in welchem Umfang Personal- oder Ergebnisverantwortung bestand. Erst danach ist zu prüfen, ob der Tätigkeitsabschnitt Mitarbeiterzahl, Verantwortungsbereich und wesentliche Führungsaufgaben zutreffend abbildet und ob die Beurteilung die tatsächlich ausgeübte Führungsleistung erfasst.
+
+Unterscheide disziplinarische Führung, fachliche Anleitung und bloße Projektkoordination. „Leitete zwölf Mitarbeiter“ ist nicht durch die Teilnahme an einem zwölfköpfigen Projektteam belegt. Ermittle Einstellungs-, Budget- und Beurteilungsbefugnisse; formuliere eine nur fachliche Leitung auch als solche.
 
 Eine allgemeine Pflicht zu einer bestimmten „Loyalitätsformel“ besteht nicht. Das Fehlen eines solchen Wortes beweist kein Loyalitätsproblem. Ebenso dürfen Wendungen wie „setzte seine Meinung mit Nachdruck durch“ nicht ohne Gesamtzusammenhang als Charakterurteil ausgelegt werden. Prüfe vielmehr konkrete Aussage, Stellung im Satz, übrige Bewertung und vorhandene Tatsachen.
 
@@ -231,7 +254,7 @@ _Prüft als Auffangprüfung sonstige konkrete Klarheits- oder Mehrdeutigkeitsfra
 
 ## 1. Rechtlicher Maßstab
 
-Prüfe den vollständigen Satz zusammen mit seinem näheren Textumfeld und dem Zeugnis als Ganzem. § 109 Abs. 2 GewO verlangt eine klare und verständliche Formulierung und verbietet Merkmale oder Formulierungen, die bezwecken, eine andere als die äußerlich oder wörtlich erkennbare Aussage zu treffen. Maßgeblich ist die objektive Wirkung für einen verständigen Zeugnisleser, nicht eine lediglich behauptete Absicht des Arbeitgebers.
+Prüfe den vollständigen Satz zusammen mit seinem näheren Textumfeld und dem Zeugnis als Ganzem. Paragraf 109 Abs. 2 GewO verlangt eine klare und verständliche Formulierung und verbietet Merkmale oder Formulierungen, die bezwecken, eine andere als die äußerlich oder wörtlich erkennbare Aussage zu treffen. Maßgeblich ist die objektive Wirkung für einen verständigen Zeugnisleser, nicht eine lediglich behauptete Absicht des Arbeitgebers.
 
 Der Arbeitgeber behält einen Formulierungsspielraum. Nicht jede ungewöhnliche Wendung ist mehrdeutig oder ein Geheimcode. BAG, Urteil vom 15. November 2011 – 9 AZR 386/10, zeigt, dass insbesondere die Formulierung „kennen gelernt“ nicht isoliert negativ umgedeutet werden darf. Beziehe für die Auslegung Wortlaut, Satzbau, unmittelbaren Kontext und übrige Bewertungen ein. Schlussformeln und ihre regelmäßig fehlende Erzwingbarkeit sind getrennt zu behandeln.
 
@@ -253,7 +276,7 @@ _Prüft eine konkret behauptete verdeckte Aussage im Arbeitszeugnis auf einen Ve
 
 ## 1. Rechtlicher Maßstab
 
-Prüfe den genauen Wortlaut im vollständigen Satz und im Zusammenhang des gesamten Zeugnisses. § 109 Abs. 2 Satz 2 GewO verbietet Merkmale oder Formulierungen, die dem Zweck nach eine andere Aussage über den Arbeitnehmer treffen als die aus äußerer Form oder Wortlaut ersichtliche. Nicht jede ungewöhnliche oder knappe Wendung ist deshalb ein Geheimzeichen. Nach BAG, Urteil vom 15. November 2011 – 9 AZR 386/10, darf etwa die Wendung „kennen gelernt“ nicht isoliert aus dem Kontext als versteckte Abwertung behandelt werden.
+Prüfe den genauen Wortlaut im vollständigen Satz und im Zusammenhang des gesamten Zeugnisses. Paragraf 109 Abs. 2 Satz 2 GewO verbietet Merkmale oder Formulierungen, die dem Zweck nach eine andere Aussage über den Arbeitnehmer treffen als die aus äußerer Form oder Wortlaut ersichtliche. Nicht jede ungewöhnliche oder knappe Wendung ist deshalb ein Geheimzeichen. Nach BAG, Urteil vom 15. November 2011 – 9 AZR 386/10, darf etwa die Wendung „kennen gelernt“ nicht isoliert aus dem Kontext als versteckte Abwertung behandelt werden.
 
 Verwende keine tradierten Listen, um Alkohol, Krankheit, Belästigung, Konfliktneigung, Eigentumsdelikte oder Betriebsratstätigkeit zu behaupten. Eine solche Nebenbedeutung darf nur als mögliche Textwirkung benannt werden, wenn Wortlaut, Zusammenhang und eine belastbare Verkehrsauffassung sie konkret tragen. Die tatsächliche Eigenschaft der Person bleibt davon getrennt.
 
@@ -273,7 +296,7 @@ _Prüft bei einem vorhandenen deutschen Arbeitszeugnis Ausfertigung, Geschäftsp
 
 ## 1. Prüfungsmaßstab
 
-Stelle zunächst fest, ob eine Papierausfertigung oder ein elektronisches Zeugnis vorliegt. Bei elektronischer Erteilung sind die Einwilligung des Arbeitnehmers, § 109 Abs. 3 GewO und die Anforderungen des § 126a BGB getrennt zu prüfen. Ein eingescanntes Unterschriftsbild ist für sich genommen keine qualifizierte elektronische Signatur. Behaupte ohne technische Prüfung weder Echtheit noch Unechtheit.
+Stelle zunächst fest, ob eine Papierausfertigung oder ein elektronisches Zeugnis vorliegt. Bei elektronischer Erteilung sind die Einwilligung des Arbeitnehmers, Paragraf 109 Abs. 3 GewO und die Anforderungen des Paragraf 126a BGB getrennt zu prüfen. Ein eingescanntes Unterschriftsbild ist für sich genommen keine qualifizierte elektronische Signatur. Behaupte ohne technische Prüfung weder Echtheit noch Unechtheit.
 
 Prüfe sodann Geschäftspapier, Lesbarkeit, Seitenfolge, Beschädigungen, Ausstellungsort und -datum sowie Name, Funktion und Vertretungsbefugnis der unterzeichnenden Person. Maßgeblich ist, ob die Ausfertigung im konkreten Betrieb üblich und als Zeugnis des Arbeitgebers erkennbar ist. Ein abweichendes Datum oder eine ungewöhnliche Unterschrift ist nicht automatisch ein Mangel; kläre Bedeutung und Entstehungskontext. Eine tabellarische Leistungs- und Verhaltensbeurteilung erfüllt den Anspruch regelmäßig nicht (BAG, Urteil vom 27. April 2021 – 9 AZR 262/20).
 
@@ -295,6 +318,8 @@ _Prüft gezielt, ob die zusammenfassende Leistungsbewertung eines Arbeitszeugnis
 
 ## 1. Einordnung
 
+Ausgangspunkt für die gute Schlussbewertung ist BAG, Urteil vom 18. November 2014, 9 AZR 584/13, Rn. 8 bis 13 ([Volltext](https://www.bundesarbeitsgericht.de/entscheidung/9-azr-584-13/)), zu Paragraf 109 GewO. Prüfe deshalb zuerst, ob lediglich das beständige Leistungsniveau sprachlich falsch wiedergegeben wird oder ob tatsächlich eine bessere Bewertung als bisher beansprucht wird. Der zweite Weg verlangt mehr als die Behauptung, gute Zeugnisse seien branchenüblich.
+
 Identifiziere die zusammenfassende Leistungsbeurteilung. Die Formel „stets zur vollen Zufriedenheit“ ist ein verbreiteter Anhaltspunkt für eine gute Gesamtleistung. Prüfe jedoch den vollständigen Wortlaut, die bewertete Funktion, die Einzelleistungen und mögliche Widersprüche. Wörter wie „stets“, „sehr“ oder „hervorragend“ haben nur in Verbindung mit dem jeweiligen Prädikat Aussagekraft; sie heben nicht automatisch das gesamte Zeugnis auf eine bestimmte Note.
 
 Bewerte die Schlussformel getrennt. Anzahl und Wärme von Dankes-, Bedauerns- oder Wunschbestandteilen bestimmen nicht die Leistungsnote. Für eine verlangte Aufwertung von einer durchschnittlichen zu einer guten Bewertung sind konkrete überdurchschnittliche Leistungstatsachen und geeignete Nachweise zu benennen.
@@ -314,6 +339,8 @@ _Prüft ein Arbeitszeugnis auf innere Widersprüche zwischen Tätigkeitsbeschrei
 # Innere Widersprüche im Zeugnis prüfen
 
 ## 1. Vergleich der Aussageebenen
+
+Leite die Prüfung aus Paragraf 109 Absatz 2 GewO und dem Gesamtzusammenhang nach BAG, Urteil vom 15. November 2011, 9 AZR 386/10 ([Volltext](https://www.bundesarbeitsgericht.de/entscheidung/9-azr-386-10/)), ab. Ersetzt ein neuer Text ein früher erteiltes Zeugnis, sichere beide Fassungen und die Gründe der Abweichung. Bezeichne unterschiedliche Gewichtungen nicht schon als unzulässige Verschlechterung; bei Reaktion auf eine berechtigte Beanstandung prüfe zusätzlich Paragraf 612a BGB.
 
 Vergleiche Tätigkeitsbeschreibung, Leistungsdetails, Verhaltensbeurteilung und zusammenfassende Bewertung. Prüfe, ob ausdrückliche Aussagen einander widersprechen oder ob eine prägende Aufgabe zwar beschrieben, bei der Bewertung aber sachwidrig ausgeblendet wird. Unterschiedliche Länge oder sprachliche Intensität einzelner Abschnitte ist nur ein Prüfhinweis und kein selbständiger Mangel.
 
@@ -337,6 +364,8 @@ _Ordnet Gesamt- und Teilbewertungen eines Arbeitszeugnisses ein, wenn die Bewert
 
 ## 1. Maßstab
 
+Ausgangspunkt ist der Anspruch auf eine leistungsgerechte Bewertung nach Paragraf 109 Absatz 1 Satz 3 GewO. Für die Zufriedenheitsskala und den Nachweis einer besseren Bewertung verwende BAG, Urteil vom 18. November 2014, 9 AZR 584/13, Rn. 8 bis 13 ([Volltext](https://www.bundesarbeitsgericht.de/entscheidung/9-azr-584-13/)). Die im historischen Skillnamen enthaltene Entscheidung 9 AZR 386/10 ist dagegen der Klarheitsanker, nicht der Ursprung einer verbindlichen Notenmatrix.
+
 Bestimme getrennt die zusammenfassende Leistungsbewertung, wesentliche Einzelbewertungen und die Verhaltensbewertung. Gebräuchliche Zufriedenheitsformeln sind wichtige Auslegungshinweise, aber kein abschließender Sprachcode. Maßgeblich sind Wortlaut, Satzbau, Steigerungen, Einschränkungen und der Zusammenhang des gesamten Zeugnisses. BAG, Urteil vom 15. November 2011 – 9 AZR 386/10, schützt die Formulierungsfreiheit innerhalb der Grenzen von Zeugniswahrheit und Zeugnisklarheit; die Entscheidung begründet keine starre Notenmatrix.
 
 Die Schlussformel ist nicht Teil der Leistungs- oder Verhaltensnote. Weise Abweichungen zwischen Gesamt- und Einzelbewertungen aus, ohne aus bloßer Textlänge oder einem einzelnen Wort zwingend eine Notenstufe abzuleiten. Für eine verlangte überdurchschnittliche Bewertung ordnest du konkrete Leistungstatsachen und Beweismittel zu; für unterdurchschnittliche Bewertungen berücksichtigst du die Darlegungs- und Beweislast des Arbeitgebers.
@@ -359,6 +388,8 @@ _Prüft ein qualifiziertes Arbeitszeugnis auf konkret nachweisbare Lücken bei A
 
 ## 1. Ausgangspunkt
 
+Prüfe zunächst den gesetzlich verlangten Inhalt nach Paragraf 109 Absatz 1 GewO, erst danach eine behauptete Branchenübung. BAG, Urteil vom 27. April 2021, 9 AZR 262/20, Rn. 21 bis 23 ([Volltext](https://www.bundesarbeitsgericht.de/entscheidung/9-azr-262-20/)), trägt die Prüfung einer vollständigen und verständlichen Tätigkeitsdarstellung. Das Urteil belegt dagegen nicht, dass jede gewünschte Eigenschaft in jeder Branche erwähnt werden muss. Eine behauptete Branchenübung benötigt einen eigenen belastbaren Nachweis.
+
 Ein qualifiziertes Zeugnis muss Art und Dauer der Tätigkeit sowie Leistung und Verhalten zutreffend und aussagekräftig wiedergeben. Der Arbeitgeber darf einzelne Eigenschaften gewichten. Eine Auslassung ist deshalb nicht schon nach einer allgemeinen Checkliste negativ, sondern nur im Zusammenhang mit der tatsächlich ausgeübten Tätigkeit, dem übrigen Zeugnis und der berechtigten Erwartung eines verständigen Lesers zu beurteilen. Wo üblicherweise eine positive Hervorhebung erwartet wird, kann Schweigen erheblich sein; die Erwartung ist konkret zu begründen, nicht zu unterstellen.
 
 ## 2. Prüfung und Formulierung
@@ -371,6 +402,8 @@ Ermittle aus Tätigkeitsbeschreibung, Vertrag, Beurteilungen und sonstigen Beleg
 4. einen bloßen Wunsch nach ausführlicherer oder werblicher Darstellung.
 
 Unterstelle aus dem Fehlen von Aussagen zu Loyalität, Belastbarkeit, Ehrlichkeit oder Kundenkontakt keine persönliche Schwäche. Benenne eine solche Lücke nur, wenn Funktion, Branchenübung und Aktenlage die Erwartung tragen. Formuliere für jede erhebliche Lücke einen belegbaren Ergänzungssatz.
+
+Fehlt etwa bei einem Vertriebsleiter die Führung des dokumentierten Außendienstteams, frage nach Zeitraum, Teamgröße und Weisungsbefugnis. Fehlt dagegen bei einem Entwickler das Wort „ehrlich“, verlange nicht ohne konkreten Branchenbeleg dessen Aufnahme. Halte Tatsachenergänzung und wertende Aufwertung auseinander.
 
 ## 3. Fortführung des Auftrags
 
@@ -385,6 +418,8 @@ _Prüft im Verhaltensabschnitt eines Arbeitszeugnisses, ob die genannten Bezugsg
 # Bezugsgruppen und Personenreihenfolge prüfen
 
 ## 1. Kontextbezogene Prüfung
+
+Maßstab ist Paragraf 109 Absatz 2 GewO, nicht eine feste Reihenfolgenliste. Der objektive Empfängerhorizont aus BAG, Urteil vom 15. November 2011, 9 AZR 386/10 ([Volltext](https://www.bundesarbeitsgericht.de/entscheidung/9-azr-386-10/)), ist auf die konkrete Aussage anzuwenden; die Entscheidung ist kein Spezialurteil über die Reihenfolge von Vorgesetzten und Kollegen.
 
 Ermittle zunächst, zu welchen Gruppen tatsächlich beruflicher Kontakt bestand, etwa Vorgesetzten, Mitarbeitern, Kollegen, Kunden oder Geschäftspartnern. Die verbreitete Folge „Vorgesetzte, Kollegen und Kunden“ ist eine sprachliche Konvention, aber keine ausnahmslos verbindliche gesetzliche Reihenfolge. Funktion, Führungsverantwortung, Außenkontakt und der übrige Zeugnistext bestimmen, welche Gruppen zu nennen sind und welche Reihenfolge sachgerecht wirkt.
 
@@ -440,9 +475,11 @@ _Prüft gezielt, ob die zusammenfassende Leistungsbewertung eines Arbeitszeugnis
 
 ## 1. Einordnung
 
+Prüfe bei einer stark negativen Fassung zwei getrennte Wege: Ist eine schlechte Leistung tatsächlich bewertet, oder fehlt die geschuldete Beurteilung ganz? Paragraf 109 Absatz 1 Satz 3 und Absatz 2 GewO sowie BAG, Urteil vom 27. April 2021, 9 AZR 262/20, Rn. 10 bis 20 ([Volltext](https://www.bundesarbeitsgericht.de/entscheidung/9-azr-262-20/)), tragen die Prüfung des individuellen Zeugnisinhalts. Die Entscheidung liefert keine feste Übersetzung jedes abschwächenden Satzes in „mangelhaft“.
+
 Identifiziere die zusammenfassende Leistungsbeurteilung. Prüfe bei stark einschränkenden oder ausdrücklich negativen Aussagen, ob sie die Gesamtleistung oder nur einen einzelnen, sachlich begründeten Aspekt betreffen. Mehrere Abschwächungen können eine schlechte Gesamtwirkung erzeugen; eine feste Note folgt daraus erst nach Würdigung des vollständigen Leistungsabschnitts.
 
-Das Fehlen einer Leistungsbeurteilung in einem qualifizierten Zeugnis ist vorrangig ein Erfüllungsmangel nach § 109 Abs. 1 Satz 3 GewO. Es darf nicht ohne Weiteres als „Note 6 durch Auslassung“ umgedeutet werden. Ironisch überzogenes Lob ist nach Wortlaut, Zusammenhang und objektiver Wirkung als möglicher Klarheitsmangel zu prüfen, nicht nach der Zahl der Superlative.
+Das Fehlen einer Leistungsbeurteilung in einem qualifizierten Zeugnis ist vorrangig ein Erfüllungsmangel nach Paragraf 109 Abs. 1 Satz 3 GewO. Es darf nicht ohne Weiteres als „Note 6 durch Auslassung“ umgedeutet werden. Ironisch überzogenes Lob ist nach Wortlaut, Zusammenhang und objektiver Wirkung als möglicher Klarheitsmangel zu prüfen, nicht nach der Zahl der Superlative.
 
 ## 2. Ergebnis und Fortführung
 

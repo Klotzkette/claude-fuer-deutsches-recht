@@ -558,6 +558,16 @@
       }
     },
     {
+      "name": "enteignung-artikel-14",
+      "source": "./enteignung-artikel-14",
+      "description": "Grundstücksenteignung nach Artikel 14 GG und BauGB: Aktenaufnahme, Alternativen, Erwerbsverhandlungen, Beteiligte, Entschädigung, Anhörung, Besitzeinweisung, Beschlussvollzug und Baulandsachen.",
+      "version": "445.11.0",
+      "author": {
+        "name": "Klotzkette",
+        "email": "39582916+Klotzkette@users.noreply.github.com"
+      }
+    },
+    {
       "name": "erbbaurecht-praxis",
       "source": "./erbbaurecht-praxis",
       "description": "Praxisplugin für Erbbaurecht und Erbbaugrundbuch: Erbbaurechtsvertrag, Erbbauzins, Wertsicherung, Heimfall, Zustimmung, Belastung, Finanzierung, Veräußerung, Laufzeit, Entschädigung, Zwangsversteigerung, Rang und Grundbuchvollzug.",
@@ -1302,6 +1312,26 @@
       "source": "./ki-richtlinie-kanzleien",
       "description": "Erstellt und pflegt eine berufsrechtskonforme KI-Nutzungsrichtlinie für Kanzleien und Rechtsabteilungen mit Anwaelten und Syndikus-Anwaelten. Beruht auf BRAO, BORA, DSGVO, KI-Verordnung sowie BRAK- und DAV-Hinweisen.",
       "version": "445.12.0",
+      "author": {
+        "name": "Klotzkette",
+        "email": "39582916+Klotzkette@users.noreply.github.com"
+      }
+    },
+    {
+      "name": "ki-verordnung-hochrisiko-pruefer",
+      "source": "./ki-verordnung-hochrisiko-pruefer",
+      "description": "Prüft Software nach Artikel 6 KI-Verordnung: Produktpfad, sämtliche Anhang-III-Bereiche, Ausnahmen, Profiling und Rollenwechsel. Erstellt Einstufungen, Anbieternachforderungen und Umsetzungsdokumente. Recruiting und eigenmächtige Chatbot-Nutzung bilden den vertieften Praxisfall.",
+      "version": "445.11.0",
+      "author": {
+        "name": "Klotzkette",
+        "email": "39582916+Klotzkette@users.noreply.github.com"
+      }
+    },
+    {
+      "name": "ki-verordnung-transparenzpruefer",
+      "source": "./ki-verordnung-transparenzpruefer",
+      "description": "Artikel 50 KI-Verordnung praktisch prüfen: Rollen, Kanzleientwürfe, öffentliche Texte, redaktionelle Kontrolle, KI-Chat und Telefon, Deepfakes, technische Markierung und Biometrie. Mit verwendbaren Hinweisen, Anbieteranfragen und Freigabevermerken.",
+      "version": "445.11.0",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -2272,6 +2302,16 @@
       "source": "./verfassungsrecht",
       "description": "Deutsches Verfassungsrecht: BVerfG-Recherche, Prozessarten-Navigator nach § 13 BVerfGG, Verfassungsbeschwerde, § 32-BVerfGG-Eilrechtsschutz, Organstreit, Bund-Länder-Streit, Parteienverfahren, Normenkontrolle, Grundrechte, EU-Grundrechte und Gesetzgebungskompetenz.",
       "version": "445.12.0",
+      "author": {
+        "name": "Klotzkette",
+        "email": "39582916+Klotzkette@users.noreply.github.com"
+      }
+    },
+    {
+      "name": "vergesellschaftung-artikel-15",
+      "source": "./vergesellschaftung-artikel-15",
+      "description": "Vergesellschaftung nach Artikel 15 GG: Gegenstände und Anteile, Landeskompetenz und Hessenrecht, gemeinwirtschaftliche Trägerschaft, Gesetzesentwurf, Entschädigung, Energienetze, Unionsrecht und Rechtsschutz aus der konkreten Akte bearbeiten.",
+      "version": "445.11.0",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"

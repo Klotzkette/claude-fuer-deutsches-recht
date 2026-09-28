@@ -1,0 +1,167 @@
+{
+  "schema_version": 1,
+  "plugin": "ki-verordnung-transparenzpruefer",
+  "case": "ki-transparenz-kanzlei-kommunikation-mainz",
+  "reviewed_on": "2026-09-28",
+  "method": "Alle 17 endgültigen PNG-Seiten einzeln mit view_image geöffnet und visuell geprüft; keine alleinige Textprüfung.",
+  "rendering": {
+    "docx": "Documents-Skill render_docx.py mit gebündeltem LibreOfficeDev und Times New Roman",
+    "pdf": "Poppler pdftoppm, 130 dpi",
+    "eml_txt_csv": "Lesbare Kontrollansichten mit ReportLab; EML-Kopfzeilen und dekodierter Inhalt, TXT mit Zeilenumbrüchen, CSV als vollständige Datensatzansicht. Keine Prüfung eines bestimmten Mailclients oder Tabellenprogramms."
+  },
+  "checked": [
+    "Lesbarkeit und Glyphen",
+    "schwarze Titel und Überschriften",
+    "Seitenränder",
+    "Clipping und Überlagerung",
+    "Leer- und Schlussseiten",
+    "Abstand zur Fußzeile und Seitenzahlen",
+    "vollständig sichtbare Bildvergleichsansicht"
+  ],
+  "result": "Keine offenen visuellen Mängel. Artikelschluss und Dialogbeobachtungen nach Umbruchkorrektur vollständig erneut geprüft. CSV-Datensätze laufen teilweise über Seitenwechsel; keine fehlenden oder abgeschnittenen Felder.",
+  "document_count": 12,
+  "page_count": 17,
+  "limits": "Diese Sichtprüfung betrifft die Originale und ihre Kontrollansichten, nicht später vom Parent erzeugte Sammel-PDFs oder Archive. Statische Regressionen ersetzen keine Bewertung ausgeführter Skill-Antworten.",
+  "documents": [
+    {
+      "file": "01_Auftrag_20260928.eml",
+      "sha256": "a3ef74c02030221c70002f8ea339f67942ca50a2993f9134943a513012ab80ce",
+      "pages": [
+        {
+          "page": 1,
+          "png_sha256": "24e32843b22db8e11513ec17098b25edd425719b3efaaea65763f37a7bbcfc26"
+        }
+      ]
+    },
+    {
+      "file": "02_Betriebsorganisation_20260910.docx",
+      "sha256": "fd72de0bc6b1b02199834717321613c5a3e3405a57b350d5ef5088dc7aa148e4",
+      "pages": [
+        {
+          "page": 1,
+          "png_sha256": "930c40f50df9ba3a299b3609fdf6ed0891d15cc560173d18e0ace1cf7f43da00"
+        }
+      ]
+    },
+    {
+      "file": "03_Systeminventar_20260925.csv",
+      "sha256": "7b0a4a7dba86ad8f4b3a3c354bb85042c200f64ce8b39ec23e98b6df34cde2e8",
+      "pages": [
+        {
+          "page": 1,
+          "png_sha256": "95214e8cf8fd695f8c74d1f918224a5b3a5a861dd201ea0d25f15cbada425cdb"
+        },
+        {
+          "page": 2,
+          "png_sha256": "364a4eb91faa47e40bdcbb746301b75f2581b94ceb530c85f7c8364498afe76a"
+        },
+        {
+          "page": 3,
+          "png_sha256": "3db9a4ba1769324bc52fcbd60eab4f9b3702a16f7ad40cdbf88dd81f2a7841d6"
+        }
+      ]
+    },
+    {
+      "file": "04_Gerichtsentwurf_Schulstrasse_20260915.docx",
+      "sha256": "c00e3442308fcc0380e3ea9adfde70219e6870d1d0d33de4401d8861596a7c5c",
+      "pages": [
+        {
+          "page": 1,
+          "png_sha256": "82fbc506e6f7005a68e02a1a8956af05b9350379567a424bb13c1a981af38807"
+        }
+      ]
+    },
+    {
+      "file": "05_Artikel_Schulstrasse_v4_20260924.docx",
+      "sha256": "f4ca0f09bb71555a7f1d9437dee18ba8ab3a80e2fb648ce6507539a0d17faafe",
+      "pages": [
+        {
+          "page": 1,
+          "png_sha256": "3502787b349e12d38d5c14fcc35770dcaf5f170a02327a8dccdd9017b893d1a2"
+        },
+        {
+          "page": 2,
+          "png_sha256": "a0a5c7ab6782ad152c7be02b19993d6d5a233782a5bdadd1320431f04cbdf514"
+        }
+      ]
+    },
+    {
+      "file": "06_Redaktionsverlauf_20260924.eml",
+      "sha256": "e7452c75087a9f9d0bf56bf1687afe3280c050d679e4345af5428470aae7ca1b",
+      "pages": [
+        {
+          "page": 1,
+          "png_sha256": "15e6fb78ae9c9ad409f1df2b17da843b0146a1bf4ed4befe98e09e8adb19329d"
+        }
+      ]
+    },
+    {
+      "file": "07_Produktblatt_Dialogufer_20260911.pdf",
+      "sha256": "3422deb3c10bb65e32aa371252537e9922ac321b90fe251e4f22ecb862dd1382",
+      "pages": [
+        {
+          "page": 1,
+          "png_sha256": "1d8d20bb11d47d74b1f8e2e5bfd6596d83d4dc18c9d9cfcaf71bd26f53bc0512"
+        }
+      ]
+    },
+    {
+      "file": "08_Dialogprotokolle_20260925.txt",
+      "sha256": "2397523a32123197e864c04fce0075d75f0388afbadbca7d5766fb2e6c10099e",
+      "pages": [
+        {
+          "page": 1,
+          "png_sha256": "a64630a24cc9487f57691b2ee2c46dc9f78c0224f050c92897b4135edb2c149c"
+        },
+        {
+          "page": 2,
+          "png_sha256": "327e60b35b46da020e0386a3dc443a34a5d1b116e8c7e237318764eda02e31b4"
+        }
+      ]
+    },
+    {
+      "file": "09_Anbieterantwort_20260925.eml",
+      "sha256": "eeb0c0dde0849e58a9d61620741993c83c9adf674d14a28655e792497c624450",
+      "pages": [
+        {
+          "page": 1,
+          "png_sha256": "a7b4c6f740b137a7f9a0f9f3da1742ac4302bb201b1e397c04c38680c5b5515b"
+        }
+      ]
+    },
+    {
+      "file": "10_Bildauftrag_Schulweg_20260922.pdf",
+      "sha256": "245b9cf678e403cd7ab53b949d96dc6c4f084d2d278c8f06d77fbab0cd947d21",
+      "pages": [
+        {
+          "page": 1,
+          "png_sha256": "7a44a0ddeb191cbda04bbc6b980f1561eaf19748d02af4e6884a5234636cdbd3"
+        },
+        {
+          "page": 2,
+          "png_sha256": "80af4a9088971e7f08a413923e3c4196ece729b06166f66aea19e3ce9789128f"
+        }
+      ]
+    },
+    {
+      "file": "11_Bildlieferung_20260924.eml",
+      "sha256": "858c6e51abf55a872ca15c9fe13a705fd95d6187c56bab6927baf0f8e15ebaaa",
+      "pages": [
+        {
+          "page": 1,
+          "png_sha256": "e5c2f9a5b2831f24a5c59715858428a76522f4e2469fd78662b76e403f50ed45"
+        }
+      ]
+    },
+    {
+      "file": "12_Konfigurationsprotokoll_20260925.pdf",
+      "sha256": "830ab1ac286d3be1b503ccb3347bcd3ae36f752a258315ce077d267d39f352f2",
+      "pages": [
+        {
+          "page": 1,
+          "png_sha256": "dc7d37967fc462db621bfe484abd806398fedfa2ea754b70c4ebce41055d5654"
+        }
+      ]
+    }
+  ]
+}

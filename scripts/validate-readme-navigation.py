@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import json
+import os
 import re
 import sys
 import unicodedata
@@ -117,8 +118,17 @@ def heading_anchors(path: Path) -> set[str]:
     return anchors
 
 
+def repository_markdown_files() -> list[Path]:
+    excluded = {".git", ".venv", "venv", "node_modules", "__pycache__", ".cache", "dist", "release-staging"}
+    files = []
+    for directory, children, names in os.walk(REPO):
+        children[:] = [name for name in children if name not in excluded]
+        files.extend(Path(directory) / name for name in names if name.endswith(".md"))
+    return sorted(files)
+
+
 def validate_markdown_links(errors: list[str]) -> tuple[int, int]:
-    markdown_files = sorted(REPO.rglob("*.md"))
+    markdown_files = repository_markdown_files()
     anchor_cache: dict[Path, set[str]] = {}
     checked_links = 0
     checked_anchors = 0

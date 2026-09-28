@@ -1,0 +1,654 @@
+{
+  "schema_version": 1,
+  "plugin": "enteignung-artikel-14",
+  "reviewed_on": "2026-09-28",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/bbaug/__85.html",
+      "checked_on": "2026-09-28",
+      "supports": "Gesetzliche Enteignungszwecke und Grenze zu anderem Fachrecht."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bbaug/__87.html",
+      "checked_on": "2026-09-28",
+      "supports": "Gemeinwohl, Alternativen, Erwerbsbemühungen und zeitnahe Verwendung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bbaug/__92.html",
+      "checked_on": "2026-09-28",
+      "supports": "Begrenzung, Rechtsbelastung und Ausdehnungsverlangen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bbaug/__93.html",
+      "checked_on": "2026-09-28",
+      "supports": "Rechtsverlust, weitere Nachteile, Vorteile und Grundstückszustand."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bbaug/__95.html",
+      "checked_on": "2026-09-28",
+      "supports": "Verkehrswertzeitpunkt und ausgeschlossene Wertänderungen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bbaug/__96.html",
+      "checked_on": "2026-09-28",
+      "supports": "Andere Vermögensnachteile und Vermeidung doppelter Entschädigung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bbaug/__97.html",
+      "checked_on": "2026-09-28",
+      "supports": "Aufrechterhaltung und Entschädigung von Nebenrechten."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bbaug/__104.html",
+      "checked_on": "2026-09-28",
+      "supports": "Zuständige Enteignungsbehörde, keine selbständige materielle Grundlage."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bbaug/__105.html",
+      "checked_on": "2026-09-28",
+      "supports": "Antrag über die Belegenheitsgemeinde."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bbaug/__106.html",
+      "checked_on": "2026-09-28",
+      "supports": "Beteiligte, Anmeldung nicht eingetragener Rechte und Glaubhaftmachung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bbaug/__108.html",
+      "checked_on": "2026-09-28",
+      "supports": "Einleitung, Ladung, Monatsfrist und Enteignungsvermerk."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bbaug/__110.html",
+      "checked_on": "2026-09-28",
+      "supports": "Behördliche Einigung, Form und Bindungswirkung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bbaug/__112.html",
+      "checked_on": "2026-09-28",
+      "supports": "Entscheidung, Vorabentscheidung und Vorauszahlung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bbaug/__113.html",
+      "checked_on": "2026-09-28",
+      "supports": "Beschlussinhalt, Zustellung und Grundstücksbezeichnung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bbaug/__115.html",
+      "checked_on": "2026-09-28",
+      "supports": "Sonderverfahren bei Entschädigung durch andere Rechte."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bbaug/__116.html",
+      "checked_on": "2026-09-28",
+      "supports": "Eigenständige Besitzeinweisung, Schutzanträge, Sicherheit und Nachteile."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bbaug/__117.html",
+      "checked_on": "2026-09-28",
+      "supports": "Ausführung und Zeitpunkt der Rechtsänderung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bbaug/__121.html",
+      "checked_on": "2026-09-28",
+      "supports": "Behördliche Kosten und notwendige Aufwendungen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bbaug/__217.html",
+      "checked_on": "2026-09-28",
+      "supports": "Antrag auf gerichtliche Entscheidung, Einreichungsstelle und Frist."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bbaug/__221.html",
+      "checked_on": "2026-09-28",
+      "supports": "Zivilprozessuale Verfahrensregeln mit Sonderregelungen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bbaug/__224.html",
+      "checked_on": "2026-09-28",
+      "supports": "Keine aufschiebende Wirkung insbesondere bei Besitzeinweisung; Eilschutz."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gg/art_14.html",
+      "checked_on": "2026-09-28",
+      "supports": "Inhaltsbestimmung, Enteignung, gesetzliche Grundlage und Entschädigung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gg/art_15.html",
+      "checked_on": "2026-09-28",
+      "supports": "Vergesellschaftungsgegenstände, Ziel und begrenzte Verweisung auf Artikel14 Absatz3 Sätze3/4."
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2013/12/rs20131217_1bvr313908.html",
+      "checked_on": "2026-09-28",
+      "supports": "Garzweiler, Leitsätze1–4 sowie Rn.166/183: Gemeinwohl, konkrete Erforderlichkeit und effektiver Schutz."
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2016/12/rs20161206_1bvr282111.html",
+      "checked_on": "2026-09-28",
+      "supports": "Atomausstieg: Enteignungsbegriff; ergänzende Volltextprüfung anhand amtlicher RLP-Kopie."
+    },
+    {
+      "url": "https://mkuem.rlp.de/fileadmin/14/Themen/Umweltschutz/Strahlenschutz/Urteil_BVG_zum_Verfassungsbeschwerdeverfahren.pdf",
+      "checked_on": "2026-09-28",
+      "supports": "Amtlich bereitgestellter BVerfG-Volltext, Rn.243–246."
+    },
+    {
+      "url": "https://www.mi.niedersachsen.de/startseite/themen/allgemeine_angelegenheiten_des_inneren/enteignungen/enteignungsverfahren-93777.html",
+      "checked_on": "2026-09-28",
+      "supports": "Niedersächsische Behördenzuständigkeit und Landgericht Hannover; ältere Behördenbezeichnung nicht übernehmen."
+    },
+    {
+      "url": "https://www.mi.niedersachsen.de/startseite/das_ministerium/organisationsplan/organisationsplan-des-niedersachsischen-ministeriums-fur-inneres-sport-und-digitalisierung-63126.html",
+      "checked_on": "2026-09-28",
+      "supports": "Aktueller Ministeriumsname und Organisationsstand."
+    },
+    {
+      "url": "https://www.niedersachsen.de/download/196252/Nds._GVBl._Nr._10_2023_vom_16.06.2023_S._93-103.pdf",
+      "checked_on": "2026-09-28",
+      "supports": "ZustVO-Justiz Paragraf2, Seite96: landesweite Konzentration Hannover."
+    },
+    {
+      "url": "https://www.landgericht-hannover.niedersachsen.de/download/224504/GVP_LG_Hannover_2026.pdf",
+      "checked_on": "2026-09-28",
+      "supports": "Abgleich Baulandsachenkammer im Geschäftsverteilungsplan2026."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bbaug/BauGB.pdf",
+      "checked_on": "2026-09-28",
+      "supports": "Amtlicher Gesamttext als Ersatzabruf insbesondere für Beteiligung nach106."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Eigenständiger kurzer Ordnerworkflow mit getrennten Eingriffs-, Besitz- und Rechtsschutzstufen.",
+    "changes": [
+      "Behördennorm104 von Eingriffsgrundlage getrennt.",
+      "Hannover-Konzentration und unterschiedliche Einreichungsstellen ausdrücklich aufgenommen.",
+      "Nur enteignungsbezogene Inhalte; kein fachfremder Gesetzgebungsabschnitt."
+    ],
+    "sha256": "6fa0b7d691d35a2a5b034bda94599e0d88e4326e50682a3a1ed286abbf1def58",
+    "reviewed_on": "2026-09-28",
+    "method": "desk_review"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Individuell ausgearbeitete Werkstatt vom vorhandenen Ordner bis zum fertig formulierten Rechtsprodukt.",
+    "changes": [
+      "Leerer Einstieg, Ordner ohne Auftrag und klare Aufträge unterschiedlich behandelt.",
+      "Rechtsverlust, andere Nachteile, Nebenrechte und Kosten getrennt.",
+      "112/113/117 sowie eigenständigen Besitzschutz präzisiert."
+    ],
+    "sha256": "db1dc04970b596871cbfdb82969d014ec74d433d64ff4c74f9db581dbc34ca3b",
+    "reviewed_on": "2026-09-28",
+    "method": "desk_review"
+  },
+  "selection": {
+    "target_skill": "eingriff-und-verfahrensstand-einordnen",
+    "positive": [
+      "Die Stadt will einen Streifen meines Grundstücks für eine Straße. Hier sind Angebot und Ladung; erklären Sie mir die nächsten Schritte.",
+      "Ordnen Sie die angekündigte Entziehung meiner Hoffläche ein und schreiben Sie mir einen konkreten Mandantenbrief."
+    ],
+    "negative": [
+      "Entwerfen Sie ein Landesgesetz zur Vergesellschaftung sämtlicher Energienetze nach Artikel15 GG.",
+      "Prüfen Sie ausschließlich den Kaufvertrag zwischen zwei Privaten ohne angekündigten hoheitlichen Zugriff."
+    ]
+  },
+  "cases": [
+    {
+      "id": "leerer-einstieg",
+      "target_skill": "eingriff-und-verfahrensstand-einordnen",
+      "request": "Ich starte die Enteignungswerkstatt ohne Unterlagen. Ich habe noch keinen konkreten Arbeitsauftrag gewählt und möchte zunächst einen passenden Einstieg, bevor ich einen Ordner bereitstelle.",
+      "input_files": [],
+      "deliverables": [
+        "aufnahme.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Fragt knapp nach Rolle und betroffenem Schreiben statt eine umfassende Sachverhaltsabfrage zu stellen.",
+          "deliverables": [
+            "aufnahme.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Bietet passende nächste Arbeiten an und erfindet weder Grundstück noch Behörde noch Frist.",
+          "deliverables": [
+            "aufnahme.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Erstellt ohne Akte keine angeblich fertige Einwendung oder sichere rechtliche Fallentscheidung.",
+          "deliverables": [
+            "aufnahme.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ordner-einstieg",
+      "target_skill": "eingriff-und-verfahrensstand-einordnen",
+      "request": "Hier ist mein Ordner zur Fläche Am Weidenrain. Einen bestimmten Auftrag habe ich noch nicht formuliert. Bitte sehen Sie zuerst die vorhandenen Unterlagen durch und sagen Sie mir, womit wir konkret weiterarbeiten können.",
+      "input_files": [
+        "testakten/enteignung-verkehrsflaeche-goettingen/01_Eingang_Kersting_20260928.eml",
+        "testakten/enteignung-verkehrsflaeche-goettingen/10_Ladung_20260914.pdf"
+      ],
+      "deliverables": [
+        "aufnahme.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Liest Dateien und eingebettete Anhänge; doppelt vorliegende Ladung zählt nicht als unabhängige Bestätigung.",
+          "deliverables": [
+            "aufnahme.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Erkennt die konkrete Ladung und den Besitzantrag; bietet zwei aktenbezogene Wege an statt bekannte Parteien erneut zu erfragen.",
+          "deliverables": [
+            "aufnahme.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Unterscheidet beantragte von bereits angeordneter Besitzeinweisung und behauptet keinen laufenden gerichtlichen Antrag.",
+          "deliverables": [
+            "aufnahme.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "alternativtrassen",
+      "target_skill": "enteignungszweck-und-alternativen-pruefen",
+      "request": "Wir vertreten Helene Kersting. Bitte verfassen Sie anhand des Planblatts und technischen Vermerks eine vollständige Stellungnahme an die Behörde zum Umfang des beanspruchten Grundstückszugriffs und zu den realen Alternativen.",
+      "input_files": [
+        "testakten/enteignung-verkehrsflaeche-goettingen/03_Planblatt_Weidenrain_20260218.pdf",
+        "testakten/enteignung-verkehrsflaeche-goettingen/04_Technischer_Vermerk_20260818.docx",
+        "testakten/enteignung-verkehrsflaeche-goettingen/10_Ladung_20260914.pdf"
+      ],
+      "deliverables": [
+        "stellungnahme.docx"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Trennt gesetzlichen Zweck, konkrete Verkehrsfunktion und Zugriff; wendet BauGB 85,87,92 an, nicht 104 als Eingriffsgrundlage.",
+          "deliverables": [
+            "stellungnahme.docx"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Vergleicht Nordkorridor, Westkorridor und schmaleres Wegerecht; weder 180.000 Euro Mehrkosten noch öffentliches Eigentum entscheiden allein.",
+          "deliverables": [
+            "stellungnahme.docx"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Berücksichtigt fehlende Brückenbemessung, Fahrkurven und Förderbedingungen ohne ihre Inhalte zu erfinden.",
+          "deliverables": [
+            "stellungnahme.docx"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Liefert einen vollständigen Brief mit bestimmtem Begehren und Quellenbezug, keine bloße Vergleichstabelle.",
+          "deliverables": [
+            "stellungnahme.docx"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "erwerbsantwort",
+      "target_skill": "freihandankauf-und-verhandlungen-fuehren",
+      "request": "Die Eigentümerin möchte auf das Erwerbsangebot antworten, ohne eine Besitzgestattung oder einen Verzicht zu erklären. Fertigen Sie das versandfähige Schreiben; der Gutachteransatz und die bisherige Verhandlungsforderung sollen richtig zugeordnet werden.",
+      "input_files": [
+        "testakten/enteignung-verkehrsflaeche-goettingen/05_Kaufangebot_20260612.pdf",
+        "testakten/enteignung-verkehrsflaeche-goettingen/06_Antwort_und_Rueckmeldung_20260805.eml",
+        "testakten/enteignung-verkehrsflaeche-goettingen/07_Wertstellungnahme_20260630.pdf",
+        "testakten/enteignung-verkehrsflaeche-goettingen/09_Ortstermin_20260701.txt"
+      ],
+      "deliverables": [
+        "antwort.docx"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Unterscheidet 85 Euro Angebot,112 Euro Gutachteransatz und135 Euro Eigentümerforderung mit jeweils zutreffenden Gesamtbeträgen.",
+          "deliverables": [
+            "antwort.docx"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Behandelt 7.800 Euro Nebenanlagen und unbezifferte Nutzung von B getrennt; behauptet keine Einigung.",
+          "deliverables": [
+            "antwort.docx"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Prüft ernsthafte angemessene Erwerbsbemühungen anhand des Verlaufs und erklärt sie nicht allein wegen Ablehnung als nachgewiesen.",
+          "deliverables": [
+            "antwort.docx"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Schreibt vollständig, ohne interne Preisuntergrenzen, Grundstücksübertragung oder vorzeitige Besitzfreigabe zu erfinden.",
+          "deliverables": [
+            "antwort.docx"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rechteanmeldung",
+      "target_skill": "grundstueck-rechte-und-beteiligte-klaeren",
+      "request": "Bitte prüfen Sie für die Werkstattmieterin die Grundstücksunterlagen und entwerfen Sie ihre konkrete Rechtsanmeldung zur anstehenden Verhandlung. Die Eigentümerin bleibt unsere Ansprechpartnerin, ist aber nicht zugleich die betreibende Gesellschaft.",
+      "input_files": [
+        "testakten/enteignung-verkehrsflaeche-goettingen/02_Grundstuecksunterlagen_20260909.txt",
+        "testakten/enteignung-verkehrsflaeche-goettingen/10_Ladung_20260914.pdf"
+      ],
+      "deliverables": [
+        "rechtsanmeldung.docx"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Unterscheidet Kersting als Eigentümerin, Gesellschaft als Besitzerin sowie Bank und Leitungsberechtigte.",
+          "deliverables": [
+            "rechtsanmeldung.docx"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Berücksichtigt BauGB106 Absatz2 mit Zugang der Anmeldung und spätester Anmeldung bis Schluss der mündlichen Verhandlung; fordert fehlenden Nutzungsvertrag konkret an.",
+          "deliverables": [
+            "rechtsanmeldung.docx"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Rechnet 2.480 minus620 gleich1.860 Quadratmeter;180 Quadratmeter B sind kein weiterer Eigentumsentzug.",
+          "deliverables": [
+            "rechtsanmeldung.docx"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Setzt Grundschuld160.000 Euro nicht mit Darlehenssaldo94.600 Euro gleich und behandelt private Abschrift nicht als neue amtliche Auskunft.",
+          "deliverables": [
+            "rechtsanmeldung.docx"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wert-und-betrieb",
+      "target_skill": "entschaedigung-und-folgeschaeden-pruefen",
+      "request": "Erstellen Sie eine vollständige bezifferte Stellungnahme für die Eigentümerin zur Wertstellungnahme und zur Kostenliste der Werkstatt. Bitte legen Sie nur belegte Rechenschritte zugrunde; offene oder anderen Personen zugehörige Positionen sind gesondert auszuweisen.",
+      "input_files": [
+        "testakten/enteignung-verkehrsflaeche-goettingen/07_Wertstellungnahme_20260630.pdf",
+        "testakten/enteignung-verkehrsflaeche-goettingen/08_Betriebsplanung_Kosten_20260908.csv",
+        "testakten/enteignung-verkehrsflaeche-goettingen/05_Kaufangebot_20260612.pdf"
+      ],
+      "deliverables": [
+        "entschaedigung.docx"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Trennt Rechtsverlust, weitere Nachteile, Nebenberechtigte und Kosten; Grundstückszustand und Bewertungszeitpunkt bleiben verschieden.",
+          "deliverables": [
+            "entschaedigung.docx"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Berechnet 69.440 Euro bei112 Euro je Quadratmeter, ohne diesen Privatansatz als festgesetzte Entschädigung auszugeben.",
+          "deliverables": [
+            "entschaedigung.docx"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Addiert historische Umsätze und alternative Lagerkosten nicht als pauschalen Gesamtschaden; Mieterpositionen nicht der Eigentümerin zurechnen.",
+          "deliverables": [
+            "entschaedigung.docx"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Wertet Schätzungen nicht als Rechnungen und setzt unbelegte Restwertminderung oder Nutzung von B nicht gleich null.",
+          "deliverables": [
+            "entschaedigung.docx"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "anhoerung-fortsetzung",
+      "target_skill": "enteignungsverfahren-und-anhoerung-bearbeiten",
+      "request": "Wir hatten zunächst nur die Ladung. Nun liegen der technische Vermerk und die Gesprächsnotiz vor. Bitte arbeiten Sie diese nachträglichen Belege in die Einwendung der Eigentümerin ein und verfassen Sie den vollständigen Brief an die Enteignungsbehörde.",
+      "input_files": [
+        "testakten/enteignung-verkehrsflaeche-goettingen/10_Ladung_20260914.pdf",
+        "testakten/enteignung-verkehrsflaeche-goettingen/04_Technischer_Vermerk_20260818.docx",
+        "testakten/enteignung-verkehrsflaeche-goettingen/09_Ortstermin_20260701.txt"
+      ],
+      "deliverables": [
+        "einwendung.docx"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Verarbeitet die neuen Belege konkret, ohne bekannte Parteien oder Termine erneut abzufragen.",
+          "deliverables": [
+            "einwendung.docx"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Trennt Zustellung16.September, Verhandlung20.Oktober und erbetene Vorabantwort6.Oktober; keine erfundene gesetzliche Ausschlussfrist.",
+          "deliverables": [
+            "einwendung.docx"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Adressiert die zuständige Enteignungsbehörde und fordert fehlenden Förderbescheid sowie relevante technische Nachweise konkret an.",
+          "deliverables": [
+            "einwendung.docx"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Formuliert begründete Anträge und lässt nicht freigegebene Einigung oder Verzicht weg.",
+          "deliverables": [
+            "einwendung.docx"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "besitzantrag-offen",
+      "target_skill": "vorzeitige-besitzeinweisung-pruefen",
+      "request": "Bitte verfassen Sie aus Sicht der unmittelbaren Besitzerin, der Leinebogen Fahrradwerkstatt GmbH, eine eigenständige Erwiderung auf den Besitzantrag der Stadt. Bewerten Sie den gewünschten Beginn am 2. November anhand der tatsächlich vorhandenen Unterlagen.",
+      "input_files": [
+        "testakten/enteignung-verkehrsflaeche-goettingen/11_Antrag_Besitz_20260922.pdf",
+        "testakten/enteignung-verkehrsflaeche-goettingen/04_Technischer_Vermerk_20260818.docx",
+        "testakten/enteignung-verkehrsflaeche-goettingen/02_Grundstuecksunterlagen_20260909.txt"
+      ],
+      "deliverables": [
+        "besitzerwiderung.docx"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Prüft BauGB116 eigenständig und unterscheidet angekündigten von bereits angeordnetem Zugriff.",
+          "deliverables": [
+            "besitzerwiderung.docx"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Wertet Förderfrist, technische Verschiebbarkeit und Verkehrsbelastung differenziert; erfindet keinen Förderbescheid.",
+          "deliverables": [
+            "besitzerwiderung.docx"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Beantragt rollenbezogen Sicherheit, Zustandserfassung und gegebenenfalls Beginn mindestens zwei Wochen nach Zustellung; stellt letztere Regel nicht als automatisch geltend dar.",
+          "deliverables": [
+            "besitzerwiderung.docx"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Behauptet keinen gerichtlichen Vollzugsstopp und kein bereits vorhandenes Datum eines Besitzeinweisungsbeschlusses.",
+          "deliverables": [
+            "besitzerwiderung.docx"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "beschlussvollzug",
+      "target_skill": "enteignungsbeschluss-und-vollzug-pruefen",
+      "request": "In einem von der Göttinger Quellenakte getrennten Prüfauftrag liegt nur ein Enteignungsbeschluss vor. Die Behörde behauptet, mit Zustellung sei Eigentum übergegangen; eine Ausführungsanordnung und Zahlungsbelege wurden nicht vorgelegt. Entwerfen Sie eine konkrete Nachfrage ohne einen Rechtsbehelfsverzicht.",
+      "input_files": [],
+      "deliverables": [
+        "vollzugsnachfrage.docx"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Trennt BauGB112 Entscheidung,113 Beschluss und117 Ausführung; weist keine allgemeine Sachentscheidungsfunktion117 zu.",
+          "deliverables": [
+            "vollzugsnachfrage.docx"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Verlangt Ausführungsanordnung und Zahlungs- oder Hinterlegungsbelege und erklärt Beschlusszustellung nicht zum Eigentumswechsel.",
+          "deliverables": [
+            "vollzugsnachfrage.docx"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Berücksichtigt unterschiedliche117-Varianten und unterstellt weder Unanfechtbarkeit noch bereits eingegangene Zahlung.",
+          "deliverables": [
+            "vollzugsnachfrage.docx"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Schreibt eine fertige Nachfrage; fehlende Bescheiddaten werden gezielt geklärt, Fristsicherung nicht durch bloße Nachfrage ersetzt.",
+          "deliverables": [
+            "vollzugsnachfrage.docx"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "baulandsache-eil",
+      "target_skill": "baulandsachen-und-eilrechtsschutz-bearbeiten",
+      "request": "Gesonderter Anschlussauftrag, nicht Akteninhalt am 28. September: Ein BauGB-Besitzeinweisungsbeschluss des niedersächsischen Innenministeriums wurde der Eigentümerin und Besitzerin gestern zugestellt. Der Zugriff soll in wenigen Tagen beginnen. Erstellen Sie eine konkrete fristwahrende Hauptsache und einen getrennten Eilantrag; tatsächliches Zustelldatum und Beschluss sind noch anzufordern.",
+      "input_files": [],
+      "deliverables": [
+        "hauptsache.docx",
+        "eilantrag.docx"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Ordnet BauGB217 zu: Hauptsache bei der erlassenden Stelle, entscheidendes Landgericht Hannover aufgrund niedersächsischer Konzentration.",
+          "deliverables": [
+            "hauptsache.docx",
+            "eilantrag.docx"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Benennt grundsätzlich Monatsfrist ab Zustellung, fragt Datum und Beschluss an und erfindet kein Fristende.",
+          "deliverables": [
+            "hauptsache.docx",
+            "eilantrag.docx"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Berücksichtigt fehlende aufschiebende Wirkung224 und beantragt Eilschutz beim Baulandgericht, nicht beim Verwaltungsgericht.",
+          "deliverables": [
+            "hauptsache.docx",
+            "eilantrag.docx"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Erstellt getrennte vollständige Entwurfsfassungen im belegbaren Umfang; weder Zustellungsdatum noch konkreter Verfügungssatz werden erfunden.",
+          "deliverables": [
+            "hauptsache.docx",
+            "eilantrag.docx"
+          ]
+        }
+      ]
+    }
+  ],
+  "prompt_workflow_review": {
+    "date": "2026-09-28",
+    "method": "desk_review",
+    "opening_modes": [
+      "Ohne Unterlagen: knappe Frage nach Rolle und jüngstem Schreiben.",
+      "Ordner ohne Auftrag: erst lesen, dann zwei aktenbezogene Produkte anbieten.",
+      "Klarer Auftrag: unmittelbare Bearbeitung mit gezielten Lückenfragen."
+    ],
+    "continuation": "Nachgereichte technische Unterlagen, Zustellungsnachweise und neue Angebote ändern betroffene Zahlen, Fristen und Entwürfe ohne erneute Vollaufnahme.",
+    "enrichment": "Gesicherte Aktenfakten mit konkret verifizierten Normen und begrenzten BVerfG-Ankern verbinden; vollständige Briefe und Anträge ausarbeiten.",
+    "limits": "Redaktionelle und deterministische Prüfung, kein Live-Modelllauf; fachrechtliche Sonderregime und spätere Rechtsänderungen benötigen eigene aktuelle Verifikation."
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-28",
+    "files": [
+      "enteignung-artikel-14/README.md",
+      "enteignung-artikel-14/enteignung-artikel-14-schnellstart.md",
+      "enteignung-artikel-14/enteignung-artikel-14-werkstatt.md",
+      "enteignung-artikel-14/references/rechtsgrundlagen.md",
+      "quality/evals/enteignung-artikel-14.json"
+    ],
+    "opening_change": "Ordner, aktuelles Zugriffsschreiben und Rolle bestimmen das Produkt; keine vorgeschaltete allgemeine Eigentumsrechtsvorlesung.",
+    "norms": [
+      "Artikel14 Absatz1 Satz2 und Absatz3 GG; Artikel15 GG als Grenze.",
+      "BauGB85,87,92,93,95,96,97,104–108,110,112,113,115–117,121.",
+      "BauGB217,221,224; niedersächsische ZustVO-Justiz2."
+    ],
+    "decisions": [
+      {
+        "citation": "BVerfG, Urteil vom17.12.2013, Az.1 BvR3139/08 und1 BvR3386/08, Rn.166,183.",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2013/12/rs20131217_1bvr313908.html",
+        "application": "Gemeinwohlziel, Projekt und konkrete Flächenerforderlichkeit getrennt prüfen.",
+        "limit": "Bergrechtlicher Ausgangsfall, kein BauGB-Rechtswegbeleg und kein vorweggenommener Ausgang der Göttinger Akte."
+      },
+      {
+        "citation": "BVerfG, Urteil vom06.12.2016, Az.1 BvR2821/11,1 BvR321/12 und1 BvR1456/12, Rn.243–246.",
+        "url": "https://mkuem.rlp.de/fileadmin/14/Themen/Umweltschutz/Strahlenschutz/Urteil_BVG_zum_Verfassungsbeschwerdeverfahren.pdf",
+        "application": "Zuordnungsänderung und Güterbeschaffung statt bloßer Belastungsintensität.",
+        "limit": "Atomrechtlicher Sachverhalt; keine pauschale Entschädigungsaussage für kommunale Verkehrsflächen."
+      }
+    ],
+    "remaining_limits": [
+      "Keine unabhängige amtliche Verifikation der erfundenen Grundstücks- und Planungsdaten beabsichtigt.",
+      "Globale Veröffentlichung, Profile, Aggregate und Downloadpakete sind gesonderte Integration.",
+      "Keine dokumentierte Live-Ausführung der zehn Evaluationsaufträge."
+    ]
+  }
+}

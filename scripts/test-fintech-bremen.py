@@ -4,6 +4,7 @@
 import argparse
 import csv
 import hashlib
+import importlib.util
 from datetime import date, timedelta
 from decimal import Decimal
 from email import policy
@@ -30,6 +31,18 @@ ASSETS = None
 
 
 class FintechCase(unittest.TestCase):
+    def test_supplement_inventory_is_one_table_and_idempotent(self):
+        spec = importlib.util.spec_from_file_location('fintech_builder', ROOT/'scripts/build-fintech-bremen-akte.py')
+        builder = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(builder)
+        original = '| Datei | Inhalt |\n| --- | --- |\n| alt.pdf | Alt |\n\n\n<!-- END fintech-inventory -->\n'
+        rows = [('41.docx', '| [zusatz/41.docx](zusatz/41.docx) | Ergänzung |')]
+        updated = builder.supplement_inventory(original, 'zusatz', rows)
+        self.assertIn('| alt.pdf | Alt |\n| [zusatz/', updated)
+        self.assertEqual(builder.supplement_inventory(updated, 'zusatz', rows), updated)
+        with self.assertRaises(ValueError):
+            builder.supplement_inventory('Kein Verzeichnis', 'zusatz', rows)
+
     def test_original_35_files_are_byte_identical(self):
         baseline = json.loads((FIXTURES/'original-sha256.json').read_text())
         self.assertEqual(len(baseline), 35)

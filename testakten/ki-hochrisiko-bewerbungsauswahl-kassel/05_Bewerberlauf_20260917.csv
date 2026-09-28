@@ -1,0 +1,13 @@
+﻿Vorgang;Bewerbung_ID;Eingang;Modellstand;Bewertung_am;Rang;Passungswert;Erkannter_Abschluss;Dateihinweis;Startansicht;Personenansicht_geoeffnet_am;Geoeffnet_durch;Status_am_20260917;Statuszeit;Protokollvermerk
+FF-REC-2026-09;A01;2026-09-10;2.4.17;2026-09-17T08:15:00+02:00;1;91;Techniker;Text erkannt;ja;2026-09-17T09:03:00+02:00;Leonie Brandt;Einladung versandt;2026-09-17T11:10:00+02:00;Versandfreigabe Julia Kern
+FF-REC-2026-09;A02;2026-09-11;2.4.17;2026-09-17T08:15:00+02:00;5;76;Industriemechaniker;Text erkannt;nein;;;offen;;Keine Öffnung der Personenansicht im Exportzeitraum
+FF-REC-2026-09;A03;2026-09-11;2.4.17;2026-09-17T08:15:00+02:00;3;85;Meister;Text erkannt;ja;2026-09-17T09:18:00+02:00;Leonie Brandt;Einladung versandt;2026-09-17T11:12:00+02:00;Versandfreigabe Julia Kern
+FF-REC-2026-09;A04;2026-09-12;2.4.17;2026-09-17T08:15:00+02:00;8;63;Technische Zeichnerin;Text erkannt;nein;;;offen;;Keine Öffnung der Personenansicht im Exportzeitraum
+FF-REC-2026-09;A05;2026-09-12;2.4.17;2026-09-17T08:15:00+02:00;2;88;Meister;Text erkannt;ja;2026-09-17T09:11:00+02:00;Leonie Brandt;Einladung versandt;2026-09-17T11:11:00+02:00;Versandfreigabe Julia Kern
+FF-REC-2026-09;A06;2026-09-13;2.4.17;2026-09-17T08:15:00+02:00;6;73;Industriekaufmann;Text erkannt;nein;;;offen;;Keine Öffnung der Personenansicht im Exportzeitraum
+FF-REC-2026-09;A07;2026-09-13;2.4.17;2026-09-17T08:15:00+02:00;10;52;Industriemechanikerin;"Zusatzdatei Zeugnis_Meister_scan.pdf vorhanden; Textschicht fehlt";nein;;;offen;;Warnhinweis nur in Personenansicht sichtbar
+FF-REC-2026-09;A08;2026-09-14;2.4.17;2026-09-17T08:15:00+02:00;4;82;Techniker;Text erkannt;ja;2026-09-17T09:29:00+02:00;Leonie Brandt;Einladung versandt;2026-09-17T11:13:00+02:00;Versandfreigabe Julia Kern
+FF-REC-2026-09;A09;2026-09-14;2.4.17;2026-09-17T08:15:00+02:00;7;69;Mechatronikerin;Text erkannt;nein;;;offen;;Keine Öffnung der Personenansicht im Exportzeitraum
+FF-REC-2026-09;A10;2026-09-15;2.4.17;2026-09-17T08:15:00+02:00;9;60;Industriekaufmann;Text erkannt;nein;;;offen;;Keine Öffnung der Personenansicht im Exportzeitraum
+FF-REC-2026-09;A11;2026-09-15;2.4.17;2026-09-17T08:15:00+02:00;11;49;Fachlagerist;Text erkannt;nein;;;offen;;Keine Öffnung der Personenansicht im Exportzeitraum
+FF-REC-2026-09;A12;2026-09-16;2.4.17;2026-09-17T08:15:00+02:00;12;45;Kauffrau Büromanagement;Text erkannt;nein;;;offen;;Keine Öffnung der Personenansicht im Exportzeitraum

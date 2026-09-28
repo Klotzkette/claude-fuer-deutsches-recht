@@ -1,0 +1,181 @@
+{
+  "schema_version": 1,
+  "plugin": "ki-verordnung-transparenzpruefer",
+  "reviewed_on": "2026-09-28",
+  "sources": [
+    {"url": "https://eur-lex.europa.eu/eli/reg/2024/1689/oj", "checked_on": "2026-09-28", "supports": "Artikel 3 Nummern 3, 4, 34, 39, 40 und 60; Artikel 5; unveränderte Artikel-50-Absätze 1 bis 5, getrennte Anbieter- und Betreiberpflichten. Mit amtlicher Anzeige und Änderungsakt abgeglichen, nicht isoliert als aktueller Gesamtstand verwendet."},
+    {"url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A32026R1744", "checked_on": "2026-09-28", "supports": "Amtlich indexierter Normtext: Inkrafttreten 27.07.2026, Artikel 1 Nummer 39 Buchstabe b und Artikel 111 Absatz 4, Übergang bis 02.12.2026 nur für Anbieterpflicht 50 Absatz 2 und einschlägige vor 02.08.2026 vermarktete Systeme; Nummer 6 Artikel 4a Bias-Daten, keine Deepfake-Ausnahme."},
+    {"url": "https://ec.europa.eu/newsroom/dae/redirection/document/131215", "checked_on": "2026-09-28", "supports": "Amtlicher PDF-Text C(2026) 5054 final, Anhang: Randnummer 5 unverbindlich, 10 bis 14 Rollen und Beschäftigte, 130 bis 138 Veröffentlichung und Textkontrolle, 141 bis 144 Erstinformation und Zugänglichkeit, 146 bis 150 Kodex."},
+    {"url": "https://digital-strategy.ec.europa.eu/en/policies/code-practice-ai-generated-content", "checked_on": "2026-09-28", "supports": "Finaler freiwilliger Transparenzkodex vom 10.06.2026 zu Artikel 50 Absätzen 2, 4 und 5, nicht GPAI-Kodex und nicht verpflichtendes Gesetz."},
+    {"url": "https://digital-strategy.ec.europa.eu/en/library/commission-opinion-assessment-code-practice-transparency-ai-generated-content", "checked_on": "2026-09-28", "supports": "Positive Kommissionsbewertung 08.07. und AI-Board-Bewertung 09.07.2026, Beitritt kein abschließender Konformitätsnachweis."},
+    {"url": "https://eur-lex.europa.eu/procedure/DE/2025_360?sortOrder=asc", "checked_on": "2026-09-28", "supports": "Getrenntes allgemeines Digital-Omnibus-Verfahren COM(2025) 837 weiterhin laufend, keine bereits geltende Datenschutzänderung daraus ableiten."},
+    {"url": "https://www.gesetze-im-internet.de/ki-mig/BJNR0DF0B0026.html", "checked_on": "2026-09-28", "supports": "KI-MIG als geltender Gesetzestext; Paragraf 2 Zuständigkeitsstaffel, Paragrafen 6 und 8 keine ausschließliche Sachzuständigkeit der zentralen Stelle."}
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Eigenständig handverfasster Mini mit fünf getrennten Absatzwegen, präziser Rollen- und Datumsprüfung und konkreten Antwortfortsetzungen; redaktioneller Quellenreview, kein Live-Modelltest.",
+    "changes": ["Beschäftigtenkonto von eigenständigem Betrieb getrennt.", "Textausnahme nicht auf Deepfakes oder technische Kennzeichnung übertragen.", "Klarer Auftrag, Ordner ohne Auftrag und leere Eingabe mit unterschiedlichen Starts; neue Antworten ändern das bestellte Dokument."],
+    "sha256": "ea3cf005e5c5c5db5b0c3138e4e80b1000696d66f06c40a62abbdb95584fe0b4"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Handverfasster Kanzleiablauf mit tatsächlichen Endprodukten, amtlicher Rollenklärung, Publikationswechsel und versionsbezogener Redaktion. Durchgang anhand der Mainzer Originale; keine behauptete Live-Ausführung durch ein Modell.",
+    "changes": ["Gerichtsfassung und öffentliche Artikelfassung als unterschiedliche Verwendungen bearbeitet.", "Nachträglicher KI-Absatz löst erneute Endfassungsprüfung aus.", "Erstinformation in Chat und Telefon sowie eigene Bild- und Biometrieprüfung operationalisiert.", "Verabschiedete Änderung, Vorschlag, Leitlinien und freiwilliger Kodex getrennt."],
+    "sha256": "7f446e3728be37025b760333387d97ac89fb8710f62bfea7f0129f4e2c00481b"
+  },
+  "selection": {
+    "positive": [
+      "Muss unsere Kanzlei diesen KI-unterstützten Artikel und das manipulierte Bild kennzeichnen?",
+      "Schreibe einen Anfangshinweis für unseren KI-Telefonempfang und kläre die Anbieterrolle.",
+      "Prüfe, ob die menschliche Freigabe vor einem neuen KI-Absatz noch für die Websitefassung trägt."
+    ],
+    "negative": [
+      "Berechne allein die Vergütung eines Rechtsanwalts für einen Zivilprozess.",
+      "Prüfe nur die Zuständigkeit für eine Baugenehmigung ohne KI-Bezug.",
+      "Erstelle eine vollständige Hochrisiko-Konformitätsbewertung eines Medizinprodukts ohne Kommunikationsfrage."
+    ]
+  },
+  "cases": [
+    {
+      "id": "beschaeftigter-und-altprodukt",
+      "target_skill": "rollen-und-anwendungsdatum",
+      "request": "Erstelle rollen.docx für den Einsatz am 30. September 2026. Felix ist angestellter Rechtsanwalt; Vertrag, Weisung und Veröffentlichung liegen bei der Kanzleigesellschaft. Der Anbieter beruft sich auf einen Produktstart im Juli. Prüfe anhand der beigefügten Unterlagen, wessen Pflichten betroffen sind und welche Aussage zum Zeitpunkt belastbar ist. Versende nichts.",
+      "input_files": ["testakten/ki-transparenz-kanzlei-kommunikation-mainz/02_Betriebsorganisation_20260910.docx", "testakten/ki-transparenz-kanzlei-kommunikation-mainz/09_Anbieterantwort_20260925.eml"],
+      "deliverables": ["rollen.docx"],
+      "criteria": [
+        {"id": "R1", "text": "Kein Automatismus von angestelltem Anwalt oder Benutzerkonto zur persönlichen Betreiberstellung; Kontrolle und Verantwortung werden konkret gewürdigt.", "deliverables": ["rollen.docx"]},
+        {"id": "R2", "text": "Artikel 111 Absatz 4 wird nur auf Absatz 2 und belegte einschlägige Bestandsprodukte bezogen, nicht auf sämtliche Kanzleihinweise.", "deliverables": ["rollen.docx"]},
+        {"id": "R3", "text": "Fehlender Auslieferungsbeleg bleibt offen; 2026/1744 wird als geltend, COM(2025)837 getrennt behandelt.", "deliverables": ["rollen.docx"]}
+      ]
+    },
+    {
+      "id": "gerichtstext-spaeter-oeffentlich",
+      "target_skill": "schriftsatz-und-publikation",
+      "request": "Bitte erstelle verwendung.docx. Prüfe die interne Gerichtsfassung und die gesonderte Artikelfassung aus dem Ordner auf Transparenzpflichten für Text. Der Schriftsatz geht nur an Mandantin, Gericht und Parteien; der Artikel soll frei auf der Website erscheinen. Ändere nicht den Sachvortrag und beurteile nicht die Erfolgsaussichten der Schulstraßensache.",
+      "input_files": ["testakten/ki-transparenz-kanzlei-kommunikation-mainz/04_Gerichtsentwurf_Schulstrasse_20260915.docx", "testakten/ki-transparenz-kanzlei-kommunikation-mainz/05_Artikel_Schulstrasse_v4_20260924.docx", "testakten/ki-transparenz-kanzlei-kommunikation-mainz/06_Redaktionsverlauf_20260924.eml"],
+      "deliverables": ["verwendung.docx"],
+      "criteria": [
+        {"id": "T1", "text": "Gewöhnlicher nichtöffentlicher Schriftsatz wird nicht allein wegen rechtlichen Inhalts als öffentliche Information behandelt; kein pauschales Kanzleiprivileg.", "deliverables": ["verwendung.docx"]},
+        {"id": "T2", "text": "Für den öffentlichen Artikel werden Publikation, Informationszweck und öffentliches Interesse sowie die gesonderte Textausnahme geprüft.", "deliverables": ["verwendung.docx"]},
+        {"id": "T3", "text": "Es entsteht eine begründete Entscheidung für beide Verwendungen ohne ungefragte Prozessbewertung und ohne Freigabe des Bildes über die Textregel.", "deliverables": ["verwendung.docx"]}
+      ]
+    },
+    {
+      "id": "redaktion-nachgereichte-antwort",
+      "target_skill": "redaktionelle-textkontrolle",
+      "request": "Fortsetzung des Freigabeauftrags: Die Rückfrage zum Prüfumfang ist beantwortet. Lea hat beim nachträglich erzeugten Absatz nur Kommas und Sprache geprüft, Miriam hat v4 noch nicht gesehen. Nutze die beigefügten Fassungen und aktualisiere freigabe.docx vollständig mit konkreten nächsten Texten. Behaupte keine bereits erteilte neue Freigabe.",
+      "input_files": ["testakten/ki-transparenz-kanzlei-kommunikation-mainz/05_Artikel_Schulstrasse_v4_20260924.docx", "testakten/ki-transparenz-kanzlei-kommunikation-mainz/06_Redaktionsverlauf_20260924.eml"],
+      "deliverables": ["freigabe.docx"],
+      "criteria": [
+        {"id": "E1", "text": "Antwort wird in den Schluss zur Version 4 eingearbeitet; die Freigabe von v3 wird nicht einfach fortgeschrieben.", "deliverables": ["freigabe.docx"]},
+        {"id": "E2", "text": "Substanzprüfung oder redaktionelle Kontrolle und Verantwortung werden korrekt getrennt; keine gesetzliche Unterschriften- oder Vieraugenform erfunden.", "deliverables": ["freigabe.docx"]},
+        {"id": "E3", "text": "Konkrete Nachforderung oder vollständiger Kennzeichnungsvorschlag wird geliefert; Tatsachenlücke zum Termin wird nicht durch erfundene Prüfung geheilt.", "deliverables": ["freigabe.docx"]}
+      ]
+    },
+    {
+      "id": "lena-erste-interaktion",
+      "target_skill": "chat-und-telefonhinweise",
+      "request": "Schreibe empfang.docx mit konkreten Eröffnungstexten für Telefon und Chat anhand von Produktblatt und Protokoll. Die Kanzlei will die Eröffnung selbst konfigurieren, aber keine neue Software entwickeln. Eine sofortige Verbindung mit Menschen ist nicht gewährleistet. Beschränke Dich auf die Transparenzfrage und die dazugehörige Abnahme.",
+      "input_files": ["testakten/ki-transparenz-kanzlei-kommunikation-mainz/07_Produktblatt_Dialogufer_20260911.pdf", "testakten/ki-transparenz-kanzlei-kommunikation-mainz/08_Dialogprotokolle_20260925.txt"],
+      "deliverables": ["empfang.docx"],
+      "criteria": [
+        {"id": "C1", "text": "Absatz 1 als Anbieter-Gestaltungspflicht und Kanzleikonfiguration werden unterschieden.", "deliverables": ["empfang.docx"]},
+        {"id": "C2", "text": "Beide Eröffnungen nennen KI spätestens zu Beginn; menschlicher Vorname und Fußzeilenlink werden nicht ohne Begründung als Offensichtlichkeit behandelt.", "deliverables": ["empfang.docx"]},
+        {"id": "C3", "text": "Keine sofortige menschliche Erreichbarkeit erfunden; konkrete Prüfung von Zeitpunkt und zugänglicher Wahrnehmung, keine vorgetäuschte Live-Abnahme.", "deliverables": ["empfang.docx"]}
+      ]
+    },
+    {
+      "id": "bild-keine-textausnahme",
+      "target_skill": "deepfake-offenlegung",
+      "request": "Erstelle bildhinweis.docx. Die Redaktion möchte die untere Bildfassung als Aufnahme einer Besprechung auf Website und Startseitenkarte zeigen. Sie meint, eine Textfreigabe reiche auch für das Bild. Prüfe die tatsächliche Vergleichsansicht und Produktionsunterlagen und schreibe eine passende Beschriftung mit Platzierung. Veröffentliche nichts.",
+      "input_files": ["testakten/ki-transparenz-kanzlei-kommunikation-mainz/10_Bildauftrag_Schulweg_20260922.pdf", "testakten/ki-transparenz-kanzlei-kommunikation-mainz/11_Bildlieferung_20260924.eml"],
+      "deliverables": ["bildhinweis.docx"],
+      "criteria": [
+        {"id": "D1", "text": "Deepfake-Eigenschaft wird am dargestellten Raum, an der eingefügten Situation und ihrem Echtheitseindruck begründet, nicht nur an KI-Nutzung.", "deliverables": ["bildhinweis.docx"]},
+        {"id": "D2", "text": "Textkontrolle wird nicht als Deepfake-Ausnahme behandelt; auch Kunst/Satire wäre nur nach tatsächlichem Kontext und mit angepasster Offenlegung relevant.", "deliverables": ["bildhinweis.docx"]},
+        {"id": "D3", "text": "Wahrnehmbarer zutreffender Hinweis für Erstexposition auf beiden Kanälen; Metadaten nicht als Ersatz und keine ungeprüfte Rechtefreigabe.", "deliverables": ["bildhinweis.docx"]}
+      ]
+    },
+    {
+      "id": "technische-markierung-nachfordern",
+      "target_skill": "anbieterkennzeichnung-pruefen",
+      "request": "Verfasse anbieteranfrage.docx als versandfertige Nachricht an Dialogufer. Wir haben nur die beigefügte Antwort, keinen Auslieferungsbeleg und keinen Bericht zum Detektionsweg. Frage zielgenau nach, ohne aus einem fehlenden sichtbaren Wasserzeichen automatisch einen Verstoß zu machen oder dem Anbieter eine erfundene gesetzliche Antwortfrist zu nennen.",
+      "input_files": ["testakten/ki-transparenz-kanzlei-kommunikation-mainz/09_Anbieterantwort_20260925.eml"],
+      "deliverables": ["anbieteranfrage.docx"],
+      "criteria": [
+        {"id": "A1", "text": "Anfrage benennt Systemversion, Vermarktungsbeleg, ursprüngliche Ausgabe, Exportkette und geeigneten Detektionsnachweis.", "deliverables": ["anbieteranfrage.docx"]},
+        {"id": "A2", "text": "Technische Anbieterpflicht bleibt von sichtbarer Betreiberinformation und menschlicher Textkontrolle getrennt.", "deliverables": ["anbieteranfrage.docx"]},
+        {"id": "A3", "text": "Freiwilliger Kodex und technische Belege werden nicht als abschließendes Konformitätszertifikat behandelt; kein Versand ohne Freigabe.", "deliverables": ["anbieteranfrage.docx"]}
+      ]
+    },
+    {
+      "id": "resonanz-und-beschaeftigtenkanal",
+      "target_skill": "biometrie-und-emotionshinweise",
+      "request": "Erstelle resonanz.docx für die Geschäftsführerin. Prüfe das Zusatzmodul anhand des Leistungsblatts und des Konfigurationsprotokolls. Der Anbieter spricht von Gesprächsqualität; möglicherweise läuft die akustische Auswertung nach Übergabe an Beschäftigte weiter. Die Kamerafunktion wurde nur vorgeführt. Brauchen wir bloß einen Zusatzhinweis oder zunächst weitere Klärung?",
+      "input_files": ["testakten/ki-transparenz-kanzlei-kommunikation-mainz/07_Produktblatt_Dialogufer_20260911.pdf", "testakten/ki-transparenz-kanzlei-kommunikation-mainz/12_Konfigurationsprotokoll_20260925.pdf"],
+      "deliverables": ["resonanz.docx"],
+      "criteria": [
+        {"id": "B1", "text": "Akustische Merkmale und Textsentiment sowie tatsächlicher Betrieb und reine Vorführung werden unterschieden; keine erfundenen betroffenen Kamerapersonen.", "deliverables": ["resonanz.docx"]},
+        {"id": "B2", "text": "Mögliche Beschäftigtenemotionserkennung wird vor einem bloßen Absatz-3-Hinweis auf Artikel 5 geprüft; Zustimmung oder Hinweis heilt kein Verbot.", "deliverables": ["resonanz.docx"]},
+        {"id": "B3", "text": "Gezielte Frage zu Übergabekanal und Datenbasis, verwendbare Empfehlung; keine automatische Anwendung von Artikel 4a als Erlaubnis.", "deliverables": ["resonanz.docx"]}
+      ]
+    },
+    {
+      "id": "ordnerauftrag-bis-enddokument",
+      "target_skill": "transparenzfreigabe-dokumentieren",
+      "request": "Lies zuerst den vollständigen Mainzer Projektordner. Erledige den Auftrag der Geschäftsführerin vom 28. September als entscheidung.docx mit den benötigten konkreten Hinweistexten und der Anbieteranfrage. Stelle keine Rückfragen zu bereits dokumentierten Rollen und Terminen. Keine Veröffentlichung, keine Änderung der Originale und keine neue Bewertung der Schulstraßensache.",
+      "input_files": [
+        "testakten/ki-transparenz-kanzlei-kommunikation-mainz/01_Auftrag_20260928.eml",
+        "testakten/ki-transparenz-kanzlei-kommunikation-mainz/02_Betriebsorganisation_20260910.docx",
+        "testakten/ki-transparenz-kanzlei-kommunikation-mainz/03_Systeminventar_20260925.csv",
+        "testakten/ki-transparenz-kanzlei-kommunikation-mainz/04_Gerichtsentwurf_Schulstrasse_20260915.docx",
+        "testakten/ki-transparenz-kanzlei-kommunikation-mainz/05_Artikel_Schulstrasse_v4_20260924.docx",
+        "testakten/ki-transparenz-kanzlei-kommunikation-mainz/06_Redaktionsverlauf_20260924.eml",
+        "testakten/ki-transparenz-kanzlei-kommunikation-mainz/07_Produktblatt_Dialogufer_20260911.pdf",
+        "testakten/ki-transparenz-kanzlei-kommunikation-mainz/08_Dialogprotokolle_20260925.txt",
+        "testakten/ki-transparenz-kanzlei-kommunikation-mainz/09_Anbieterantwort_20260925.eml",
+        "testakten/ki-transparenz-kanzlei-kommunikation-mainz/10_Bildauftrag_Schulweg_20260922.pdf",
+        "testakten/ki-transparenz-kanzlei-kommunikation-mainz/11_Bildlieferung_20260924.eml",
+        "testakten/ki-transparenz-kanzlei-kommunikation-mainz/12_Konfigurationsprotokoll_20260925.pdf"
+      ],
+      "deliverables": ["entscheidung.docx"],
+      "criteria": [
+        {"id": "F1", "text": "Ordnerbelege werden vor Rückfragen verarbeitet; nur entscheidende offene technische oder redaktionelle Punkte werden nachgefordert.", "deliverables": ["entscheidung.docx"]},
+        {"id": "F2", "text": "Vollständige begründete Entscheidung mit fertigen Kanaltexten und Anbieteranfrage, nicht nur Checkliste, Routing oder Aktenzusammenfassung.", "deliverables": ["entscheidung.docx"]},
+        {"id": "F3", "text": "Fassungs- und kanalbezogene Bedingungen; Erstinformation, Deepfake/Text-Trennung und Anbieter/Betreiber-Trennung bleiben erhalten.", "deliverables": ["entscheidung.docx"]},
+        {"id": "F4", "text": "Bearbeitbare DOCX in Times New Roman 11 pt und dezimaler Gliederung; nur tatsächlich ausgeführte Render-/Sichtprüfung behauptet; keine Scheinunterschrift oder externe Aktion.", "deliverables": ["entscheidung.docx"]}
+      ]
+    },
+    {
+      "id": "leerer-start-kein-faktendump",
+      "target_skill": "transparenzfreigabe-dokumentieren",
+      "request": "Ich möchte mit der KI-Transparenzprüfung für unsere Kanzlei anfangen. Einen Ordner habe ich noch nicht bereitgestellt und weiß noch nicht, welches Ergebnis ich brauche. Formuliere nur den passenden kurzen Gesprächseinstieg in einstieg.txt. Erstelle noch kein umfassendes Gutachten und unterstelle keine Systeme oder Veröffentlichungen.",
+      "input_files": [],
+      "deliverables": ["einstieg.txt"],
+      "criteria": [
+        {"id": "W1", "text": "Kurze verständliche Auswahl zwischen Entscheidung, Hinweistexten und Anbieteranfrage statt umfassendem Faktenkatalog.", "deliverables": ["einstieg.txt"]},
+        {"id": "W2", "text": "Gezielte Frage nach Kanal beziehungsweise Einsatztermin und Einladung zur Ordnerbereitstellung; keine erfundenen Aktenbefunde.", "deliverables": ["einstieg.txt"]},
+        {"id": "W3", "text": "Kein ungefragtes Rechtsgutachten und keine behauptete Freigabe oder technische Prüfung.", "deliverables": ["einstieg.txt"]}
+      ]
+    }
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-28",
+    "method": "desk_review",
+    "files": ["ki-verordnung-transparenzpruefer/README.md", "ki-verordnung-transparenzpruefer/ki-verordnung-transparenzpruefer-werkstatt.md", "ki-verordnung-transparenzpruefer/ki-verordnung-transparenzpruefer-schnellstart.md", "ki-verordnung-transparenzpruefer/references/rechtsstand-artikel-50.md", "quality/evals/ki-verordnung-transparenzpruefer.json"],
+    "opening_change": "Fassung, Kanal, verantwortliche Organisation und gewünschtes Enddokument entscheiden den Einstieg; Ordnerlektüre vor Rückfragen.",
+    "norms": ["Artikel 3 Nummern 3, 4 und 60 KI-Verordnung", "Artikel 50 Absätze 1 bis 5 KI-Verordnung", "Artikel 111 Absatz 4 in der Fassung 2026/1744", "Paragraf 2 KI-MIG"],
+    "decisions": [
+      {"citation": "Europäische Kommission, Bewertung des Transparenzkodex vom 8. Juli 2026; AI Board, Angemessenheitsbewertung vom 9. Juli 2026, amtliche Veröffentlichung vom 9. Juli 2026", "url": "https://digital-strategy.ec.europa.eu/en/library/commission-opinion-assessment-code-practice-transparency-ai-generated-content", "application": "Konkreter nichtgerichtlicher Verwaltungsanker zur freiwilligen Nachweisroute für Artikel 50 Absätze 2, 4 und 5.", "limit": "Keine Gerichtsentscheidung, keine verbindliche Änderung der Verordnung, kein abschließender Nachweis für ein bestimmtes System. Kein KI-Verordnungsurteil erfunden, um das Fallankerfeld zu füllen."}
+    ],
+    "remaining_limits": ["Desk- und Quellenreview; keine Live-Modellbewertung und kein produktiver Kanzleieinsatz.", "Einzelne EUR-Lex-Direktabrufe durch Bot-Prüfung blockiert; einschlägige Änderungsstellen anhand amtlich indexierter Normtexte abgeglichen.", "Kein vollständiges Datenschutz-, Berufsrechts- oder Medienrechtegutachten; Transparenzentscheidung bleibt begrenzt."]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-28",
+    "method": "desk_review",
+    "opening_modes": ["Klarer Ordnerauftrag: direkt das bestellte Enddokument aus den Originalen erarbeiten.", "Dateien ohne Auftrag: Ergebnisart gezielt klären, keine vollständige Aktenwiedergabe.", "Leerer Start: Kanal und Ergebniswahl, keine erfundenen Daten.", "Fortsetzung: beantwortete Freigabefrage im bestehenden Ergebnis verarbeiten."],
+    "continuation": "Nachgereichte Antwort zur bloßen Kommakontrolle ändert die Entscheidung für v4; Produktdatum ändert nur den belegten Anbieterzeitpfad; fehlendes Medium begrenzt allein die visuelle Schlussfreigabe.",
+    "enrichment": "Fertige Telefon-/Chattexte, Bildhinweis, konkrete Anbieteranfrage und versionsbezogene Freigabebedingungen statt Wrapper oder Faktendump.",
+    "limits": "desk_review; die neun Ergebnisfälle sind ausführbare Bewertungsaufträge, keine behaupteten bestandenen Modellläufe"
+  }
+}

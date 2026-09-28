@@ -1,0 +1,17 @@
+{
+  "name": "ki-verordnung-transparenzpruefer",
+  "version": "445.11.0",
+  "description": "Artikel 50 KI-Verordnung praktisch prüfen: Rollen, Kanzleientwürfe, öffentliche Texte, redaktionelle Kontrolle, KI-Chat und Telefon, Deepfakes, technische Markierung und Biometrie. Mit verwendbaren Hinweisen, Anbieteranfragen und Freigabevermerken.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Klotzkette",
+    "email": "39582916+Klotzkette@users.noreply.github.com"
+  },
+  "keywords": [
+    "ki-verordnung",
+    "artikel-50",
+    "transparenz",
+    "kanzlei",
+    "deepfake"
+  ]
+}

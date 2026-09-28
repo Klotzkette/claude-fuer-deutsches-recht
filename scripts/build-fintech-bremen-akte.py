@@ -33,7 +33,7 @@ from reportlab.pdfbase.ttfonts import TTFont
 from reportlab.pdfgen.canvas import Canvas
 from reportlab.platypus import Paragraph, Table, TableStyle
 
-from akten_build_runtime import serif_font_path
+from akten_build_runtime import node_binary, serif_font_path
 from testakte_disclaimer import NOTICE_MARKDOWN
 
 
@@ -374,6 +374,15 @@ def workbook_print_settings(path, metadata):
             target.writestr(info, data)
 
 
+def supplement_inventory(text, folder, rows):
+    marker = '<!-- END fintech-inventory -->'
+    if text.count(marker) != 1:
+        raise ValueError('Aktenverzeichnis benötigt genau einen Endmarker')
+    text = '\n'.join(line for line in text.splitlines() if not line.startswith(f'| [{folder}/'))+'\n'
+    before, after = text.split(marker, 1)
+    return before.rstrip()+'\n'+'\n'.join(row for _, row in sorted(rows))+'\n\n'+marker+after
+
+
 def build_supplements(qa_dir=None):
     data = json.loads((FIXTURES/'supplements.json').read_text())
     folder = data['folder']
@@ -381,10 +390,10 @@ def build_supplements(qa_dir=None):
     destination.mkdir(parents=True, exist_ok=True)
     for document in data['documents']:
         docx_document({**document, 'folder': folder})
-    runtime = Path.home()/'.cache/codex-runtimes/codex-primary-runtime/dependencies/node'
-    node = os.environ.get('AKTEN_NODE') or str(runtime/'bin/node')
-    modules = Path(os.environ.get('AKTEN_NODE_MODULES', str(runtime/'node_modules')))
-    if not modules.is_dir():
+    node = node_binary()
+    configured_modules = os.environ.get('AKTEN_NODE_MODULES', '').strip()
+    modules = Path(configured_modules).expanduser()
+    if not configured_modules or not modules.is_dir():
         raise RuntimeError('AKTEN_NODE_MODULES muss auf den bereitgestellten Artifact-tool-Modulordner zeigen')
     with tempfile.TemporaryDirectory(prefix='fintech-native-') as tmp:
         work = Path(tmp)
@@ -422,8 +431,7 @@ def build_supplements(qa_dir=None):
             rows.append((name, f'| [{folder}/{name}]({folder}/{name}) | {title} |'))
     readme = OUT/'README.md'
     text = readme.read_text(encoding='utf-8')
-    text = '\n'.join(line for line in text.splitlines() if not line.startswith(f'| [{folder}/'))+'\n'
-    text = text.replace('<!-- END fintech-inventory -->', '\n'.join(row for _, row in sorted(rows))+'\n\n<!-- END fintech-inventory -->')
+    text = supplement_inventory(text, folder, rows)
     readme.write_text(text, encoding='utf-8')
     print('7 Ergänzungen: 2 DOCX, 2 XLSX, 3 EML; drei eingebettete Originalanlagen')
 

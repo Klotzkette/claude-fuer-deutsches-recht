@@ -1,0 +1,11 @@
+﻿id;stand;gegenstand;umfang;land;eigentuemer;buchwert_eur;nutzung;vertrag_oder_beleg;vermerk
+N-01;2026-08-31;Mittelspannungsleitungen;1180 km;Hessen;Hessenbogen Netz GmbH;96000000.00;Stromnetz;Anlagenbuch 3100;"Einzelsegmente im GIS; kommunale Wege nicht Eigentum der Gesellschaft"
+N-02;2026-08-31;Niederspannungsleitungen;2960 km;Hessen;Hessenbogen Netz GmbH;84000000.00;Stromnetz;Anlagenbuch 3200;Dienstbarkeitsverträge nicht mit exportiert
+N-03;2026-08-31;Umspannwerke;12 Anlagen;Hessen;Hessenbogen Netz GmbH;52000000.00;Stromnetz;Anlagenbuch 3300;Grundstücke getrennt unter N-05 oder gepachtet
+N-04;2026-08-31;Ortsnetzstationen;846 Stationen;Hessen;Hessenbogen Netz GmbH;38000000.00;Stromnetz;Anlagenbuch 3400;Fremde Grundstücke überwiegend durch Verträge gesichert
+N-05;2026-08-31;Betriebsgrundstücke;8 Grundstücke;Hessen;Hessenbogen Netz GmbH;12000000.00;Stromnetz;Anlagenbuch 1100;"Katasterabgleich angefordert; Flächen nicht Bestandteil dieses Exports"
+N-06;2026-08-31;Leittechnik einschließlich Server;1 Systemverbund;Hessen;Leitwerk Systems GmbH;0.00;Stromnetz;LS-2023-44;"Geleast; Restlaufzeit 31.12.2030; jährliche Vergütung 1800000 EUR"
+N-07;2026-08-31;Glasfaserring;214 km;Hessen;Hessenbogen Netz GmbH;9000000.00;Separat vermarktete Telekommunikation;Anlagenbuch 4100;"Mitnutzung einzelner Trassen; Umsatz getrennt erfasst"
+N-08;2026-08-31;Schaltanlage Werraaue;1 Anlage;Thüringen;Hessenbogen Netz GmbH;7000000.00;Stromnetz an Landesgrenze;Erwerbsvertrag 2014-17;"Wartung durch Hessenbogen; Einspeisung auch nach Hessen"
+N-09;2026-08-31;Fahrzeuge und Werkzeuge;38 Fahrzeuge und Werkzeugsätze;Hessen;Hessenbogen Netz GmbH;6000000.00;Stromnetz;Anlagenbuch 5100;"Fahrzeuglisten im Fuhrpark; zwei Fahrzeuge auch für Glasfaser eingesetzt"
+N-10;2026-08-31;Vermietetes Betriebsgebäude;1 Gebäude;Hessen;Hessenbogen Netz GmbH;3000000.00;Vermietung an Dritte;Mietvertrag 2019-06;Seit 2019 nicht mehr für Netzbetrieb verwendet

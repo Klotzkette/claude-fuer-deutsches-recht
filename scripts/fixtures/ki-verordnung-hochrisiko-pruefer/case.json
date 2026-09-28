@@ -1,0 +1,191 @@
+{
+  "case": "ki-hochrisiko-bewerbungsauswahl-kassel",
+  "reference": "FF-REC-2026-09",
+  "employer": "FuldaForm Antriebstechnik GmbH",
+  "location": "Kassel",
+  "employees": 112,
+  "documents": [
+    {
+      "file": "01_Pruefauftrag_20260928.eml",
+      "from": "Thomas Reuter <thomas.reuter@fuldaform.example>",
+      "to": "Dr. Eva Dorn <eva.dorn@kanzlei-dorn.example>",
+      "date": "2026-09-28T10:20:00+02:00",
+      "subject": "FF-REC-2026-09: Bitte Entscheidung zu unseren beiden Auswahlwerkzeugen",
+      "paragraphs": [
+        "Sehr geehrte Frau Dr. Dorn, wir benötigen bis zum 30. September eine begründete Entscheidungsvorlage für die weitere Bearbeitung unserer zwölf Bewerbungen auf die Stelle Technische Auftragskoordination in Kassel. Ich gehe bisher davon aus, dass jede KI-Sortierung von Bewerbungen ein Hochrisikosystem ist. Bitte prüfen Sie das und sagen Sie uns konkret, welche Nutzung wir fortsetzen können, welche Unterlagen wir vom Anbieter brauchen und was mit den bereits bearbeiteten Bewerbungen geschehen soll.",
+        "Wir beschäftigen 112 Personen. Julia Kern leitet Personal, Leonie Brandt betreut das Bewerberpostfach und Murat Seidel verantwortet die IT. Für Talentspur haben wir einen Firmenvertrag und eine dokumentierte Freigabe. Daneben hat Frau Brandt ein eigenes DialogWort-Konto benutzt. Ich habe davon erst am 25. September durch Frau Kern erfahren. Frau Kern hatte eine Liste daraus bereits einige Tage vorher gesehen. Die beiden Abläufe bitte nicht allein wegen des unterschiedlichen Kontoinhabers gleich oder unterschiedlich behandeln.",
+        "Die Bestellunterlagen, Anleitung und internen Aufzeichnungen liegen im freigegebenen Fallordner, nicht als Anlagen dieser Nachricht. Für die Rangliste wurden zwölf Bewerbungen verarbeitet. Vier Personen haben wir eingeladen. Noch keine der übrigen acht Personen hat eine endgültige Absage erhalten. Frau Özdemir hat inzwischen nachgefragt, weil ihr Meisterzeugnis in einer telefonischen Auskunft als fehlend bezeichnet wurde. Ob dies nur die Auskunft oder bereits die Vorauswahl beeinflusst hat, soll geklärt werden.",
+        "Bitte formulieren Sie auch das erforderliche Anbieteranschreiben und eine kurze interne Anweisung, soweit dies schon möglich ist. Ein bloßer Überblick über das Gesetz reicht uns nicht. Externe Meldungen oder Nachrichten an Bewerber senden Sie bitte noch nicht. Die Vorstandsnotiz soll zwischen den heute notwendigen Schritten und Vorbereitungen für spätere Anwendungstermine unterscheiden. Den Anbieter wollen wir nicht um eine Bescheinigung bitten, die für das Produkt gar nicht vorgesehen ist.",
+        "Mit freundlichen Grüßen\nThomas Reuter\nGeschäftsführer\nFuldaForm Antriebstechnik GmbH, Kassel"
+      ]
+    },
+    {
+      "file": "02_Leistungsbeschreibung_Talentspur_20260820.docx",
+      "title": "Talentspur Leistungsbeschreibung",
+      "author": "BewerbWerk Systeme GmbH",
+      "recipient": "FuldaForm Antriebstechnik GmbH, Julia Kern",
+      "date_label": "20. August 2026",
+      "pages": [
+        {
+          "heading": "1 Leistungsumfang und Bereitstellung",
+          "paragraphs": [
+            "BewerbWerk Systeme GmbH stellt FuldaForm Antriebstechnik GmbH die Anwendung Talentspur 2.4 im Mandanten FF-KS-112 bereit. Ansprechpartnerin für die Einführung ist Nora Feld, nora.feld@bewerbwerk.example. Die Bereitstellung umfasst zwölf benannte Nutzerkonten für Personal und Fachvorgesetzte. Die monatliche Vergütung beträgt 840 EUR zuzüglich Umsatzsteuer. Die Einrichtung kostet einmalig 1.200 EUR zuzüglich Umsatzsteuer. Der vereinbarte Nutzungsbeginn ist der 8. September 2026, die Mindestlaufzeit zwölf Monate. Die Abrechnung erfolgt monatlich im Voraus.",
+            "Das Modul Dokumentenaufnahme liest Bewerbungsunterlagen ein und überträgt erkannte Namen, Kontaktdaten, Ausbildungsabschlüsse und Beschäftigungsstationen in strukturierte Felder. Die Originaldatei bleibt neben jedem erkannten Feld erreichbar. Eine Ansicht ohne Bewertung zeigt die Datensätze nach Eingang oder alphabetisch. Diese Ansichten berechnen keine Eignungswerte. Nutzer können Erkennungsfehler berichtigen; Korrektur und ursprünglicher Feldwert werden im Vorgangsprotokoll gespeichert.",
+            "Das gesondert aktivierbare Modul Passungsreihung analysiert die eingegebenen Stellenanforderungen und die erkannten Angaben zu jeder Person. Ein Sprachmodell erzeugt eine begründete Einschätzung zur fachlichen Passung und zur erwarteten Kontinuität der Berufstätigkeit. Die Anwendung bildet daraus einen Wert von null bis hundert und eine Rangfolge. Fehlende Angaben werden nicht als bestätigte Qualifikation behandelt. Die ausführliche Begründung wird in der jeweiligen Personenansicht angezeigt. Die Rangfolge soll die Auswahl für Vorstellungsgespräche unterstützen.",
+            "Die Lieferung für FuldaForm enthält beide Module. Als Ausgangsansicht ist die Passungsreihung mit vier sichtbaren Treffern vorgesehen. Der vollständige Bestand ist über Alle Bewerbungen erreichbar. Eine automatische Absagefunktion wird nicht eingerichtet. Versand und Änderung des Bewerbungsstatus bleiben den berechtigten Nutzerkonten vorbehalten. Die Auswahl der sichtbaren Treffer kann durch einen Administrator geändert werden."
+          ]
+        },
+        {
+          "heading": "2 Konfiguration und Zusammenarbeit",
+          "paragraphs": [
+            "Der für den Start vorgesehene Stand lautet 2.4.17. Die Einrichtung umfasst eine zweistündige Einweisung für Julia Kern, Leonie Brandt und Murat Seidel. Bewertungsanforderungen und Pflichtqualifikationen werden gemeinsam im Stellenprofil hinterlegt. Für die Stelle Technische Auftragskoordination nennt FuldaForm eine technische Ausbildung, Erfahrung mit Auftragssteuerung und sichere schriftliche Kundenkommunikation. Ein Meisterabschluss ist erwünscht, jedoch keine zwingende Bewerbungsvoraussetzung.",
+            "BewerbWerk empfiehlt, die Rangfolge nicht ohne Einsicht in die Unterlagen zu übernehmen. Hinweise zu nicht erkannten Abschlüssen sind in der Personenansicht sichtbar. Die Anwendung unterscheidet nicht zuverlässig zwischen einer tatsächlich fehlenden Qualifikation und einem nicht auslesbaren Nachweis. Gescannten Zeugnissen ohne Textschicht muss deshalb besondere Aufmerksamkeit gelten. Eine örtliche Fachentscheidung über die Eignung eines Bewerbers wird von BewerbWerk nicht getroffen.",
+            "Nutzungsprotokolle mit Datensatzkennung, Modellstand, Erstellungszeit, geöffneten Ansichten und Statusänderungen sind im Administrationsbereich als CSV exportierbar. Der Standardzeitraum beträgt 180 Tage. Eine längere Aufbewahrung kann technisch eingerichtet werden, bedarf aber einer gesonderten Festlegung durch FuldaForm. Inhalt und Zugriff auf Bewerbungsunterlagen werden davon unabhängig administriert. Für Supportfälle können einzelne Vorgangskennungen übermittelt werden; vollständige Bewerbungsakten sind nicht Voraussetzung jeder Anfrage.",
+            "Eine Änderung des eingesetzten Modellstands oder der verfügbaren Bewertungsmerkmale wird im Änderungsprotokoll ausgewiesen. Für Dezember 2027 ist eine zusätzliche Auswertung strukturierter Interviewnotizen angekündigt. Sie gehört nicht zu diesem Leistungsumfang und wird nicht automatisch aktiviert. Vor einer Bestellung werden Funktionsbeschreibung, Testzugang und Preis gesondert angeboten. Der Produktname kann bei einer späteren Erweiterung unverändert bleiben.",
+            "Für die Einführung ist Frau Kern auf Kundenseite zuständig. Technische Zugriffsfragen gehen an Herrn Seidel. Diese Leistungsbeschreibung konkretisiert das Angebot BW-260820-FF und liegt der Bestellung vom 24. August 2026 zugrunde. Ausgestellt durch Nora Feld, Kundenbetreuung BewerbWerk Systeme GmbH."
+          ]
+        }
+      ]
+    },
+    {
+      "file": "03_Gebrauchsanleitung_Talentspur_24.pdf",
+      "title": "Talentspur 2.4 Gebrauchsanleitung",
+      "author": "BewerbWerk Systeme GmbH",
+      "recipient": "Administration und Personalbearbeitung",
+      "date_label": "26. August 2026",
+      "pages": [
+        {
+          "heading": "1 Aufnahme und Passungsreihung",
+          "paragraphs": [
+            "Diese Ausgabe beschreibt den Stand 2.4.17 für die Bewerbungsauswahl. Die Dokumentenaufnahme verarbeitet PDF- und Textdateien. Nach dem Import zeigt die Personenansicht Originaldateien, erkannte Felder und Hinweise auf unvollständige Erkennung. Eine gescannte Anlage ohne auswertbare Textschicht kann als Datei vorhanden sein, während die zugehörige Qualifikation im strukturierten Feld fehlt. Vor der Übernahme eines solchen Feldes ist die Originaldatei zu öffnen.",
+            "Die Ansichten Eingang und Alphabet verwenden die bereits erfassten Werte ohne eigene Eignungsbewertung. Die Passungsreihung ist davon getrennt. Sie verarbeitet Stellenprofil, Ausbildung, Tätigkeitsbeschreibungen und zeitliche Abfolge der Beschäftigung. Das Sprachmodell erstellt eine personenbezogene Passungsbegründung. Ein Wert von null bis hundert fasst die Auswertung zusammen. Er ist keine Wahrscheinlichkeit einer erfolgreichen Einstellung und lässt sich nicht zwischen verschiedenen Stellen vergleichen.",
+            "Mit der Voreinstellung Vier Treffer zeigt die Startansicht nur die ersten vier Datensätze. Über Alle Bewerbungen bleiben sämtliche importierten Personen erreichbar. Die Anzahl in der Startansicht ist eine Anzeigeeinstellung und darf nicht mit der Gesamtzahl der eingegangenen Bewerbungen verwechselt werden. Ein Datensatz außerhalb der Startansicht ist weder gelöscht noch automatisch abgelehnt. Die Auswahl der Gesprächsteilnehmer und jede Nachricht sind gesonderte Handlungen der Nutzer.",
+            "Vor einer Einladung oder Absage sind die Anforderungen der Stelle mit den Unterlagen abzugleichen. Besonders kurze oder lückenhafte Einträge können zu einer niedrigen Reihung führen. Nachgetragene Qualifikationen verändern die Bewertung erst nach einer erneuten Berechnung. Eine manuelle Korrektur ohne Neuberechnung verändert den vorhandenen Wert nicht. Die Personenansicht zeigt daher getrennte Zeitstempel für Datenänderung und Bewertung."
+          ]
+        },
+        {
+          "heading": "2 Kontrolle und Störungsbearbeitung",
+          "paragraphs": [
+            "Personalbearbeiter müssen die vollständige Ansicht erreichen können. Administratoren vergeben diese Berechtigung im Mandantenprofil. Wird nur die Startansicht angezeigt, ist zunächst die Berechtigung zu prüfen. Entscheidungen dürfen nicht mit einem Zugriffskonto vorbereitet werden, das die zugehörigen Originalunterlagen nicht öffnen kann. Für neue Nutzer ist eine Einweisung anhand eines vollständigen Beispielvorgangs vorgesehen, einschließlich Korrektur eines falsch erkannten Abschlusses.",
+            "Die Protokollansicht zeigt für jeden Vorgang Erstellung und Änderung des Stellenprofils, Modellstand, Bewertungszeit, geöffneten Datensatz sowie Statusänderungen. Ein Protokolleintrag beweist die Öffnung einer Ansicht, nicht das vollständige Lesen einer Bewerbung. Tätigkeiten außerhalb der Anwendung werden nicht erfasst. Die Exportdatei enthält Zeitzonenangaben. Bei einem Supportfall sind Vorgangskennung und Zeitfenster an support@bewerbwerk.example zu senden. Bitte keine unangeforderten vollständigen Bewerbungsakten mitschicken.",
+            "Bei unplausiblen Ergebnissen ist die Übernahme der betreffenden Reihung auszusetzen, bis Eingabe und Originalunterlagen abgeglichen sind. Der Administrator kann das Rankingmodul deaktivieren, ohne die Dokumentenaufnahme zu löschen. Die manuelle Bearbeitung bleibt dann möglich. Für dringende technische Störungen ist im Kundenportal eine Prioritätsmeldung verfügbar; die Eingangsbestätigung ersetzt keine fachliche Prüfung des Ergebnisses.",
+            "Protokolle werden im Standard 180 Tage vorgehalten. Die Organisation legt fest, wer Exporte erhalten darf und ob eine abweichende Dauer erforderlich ist. Eine Versionserhöhung wird mit ihrem Umfang im Änderungsprotokoll dokumentiert. Die spätere Interviewauswertung ist in dieser Version nicht enthalten. Rückfragen zu Bewertungsmerkmalen richten Sie unter Angabe der Version an Nora Feld. Herausgegeben von der Produktbetreuung der BewerbWerk Systeme GmbH am 26. August 2026."
+          ]
+        }
+      ]
+    },
+    {
+      "file": "04_Freigabeprotokoll_20260908.txt",
+      "title": "Freigabeprotokoll Talentspur",
+      "author": "Murat Seidel, IT; Julia Kern, Personal",
+      "date_label": "8. September 2026, 15:40 Uhr CEST",
+      "paragraphs": [
+        "1 Anlass und Umfang\n\nDer Firmenmandant FF-KS-112 wurde heute um 14:10 Uhr mit dem Stand 2.4.17 für die produktive Bearbeitung geöffnet. Die Einweisung mit Nora Feld fand von 12:00 bis 14:00 Uhr statt. Julia Kern, Leonie Brandt und Murat Seidel nahmen teil. Gezeigt wurden Import, vollständige Bewerberansicht, Korrektur von Feldern und Export der Nutzungsprotokolle. Die Stelle Technische Auftragskoordination wird als erster Vorgang FF-REC-2026-09 angelegt.",
+        "2 Einstellungen\n\nDokumentenaufnahme und Passungsreihung sind aktiviert. Die Startansicht enthält vier Treffer; Alle Bewerbungen ist für die beiden Personalkonten erreichbar. Eine automatische Absage ist nicht eingerichtet. Frau Kern legt fest, dass vor dem Abschluss der Gesprächsauswahl sämtliche Originalbewerbungen gelesen werden sollen. Die hierfür vorgesehene gegenseitige Vertretung wurde besprochen, aber noch nicht im Kalender eingetragen. Beide Personalkonten dürfen Einladungen entwerfen; Frau Kern gibt den Versand frei.",
+        "3 Weitere Werkzeuge\n\nPrivate DialogWort-Konten und sonstige nicht freigegebene Textdienste dürfen keine Bewerbungsunterlagen erhalten. Es gibt keinen Firmenvertrag für DialogWort und keine technische Verbindung zu Talentspur. Frau Brandt fragt nach einer Möglichkeit, uneinheitliche Tätigkeitsbeschreibungen schneller zusammenzufassen. Frau Kern verweist für den ersten Durchlauf auf die vorhandene Produktfunktion. Eine weitere Anwendung wird heute nicht freigegeben.",
+        "4 Offene Einrichtungspunkte\n\nDer automatische Protokollzeitraum beträgt 180 Tage. Herr Seidel kann Exporte erstellen. Ein regelmäßiger Exporttermin und eine eigene Aufbewahrungsregel sind noch nicht festgelegt. Das bisherige Bewerberhinweisblatt erwähnt elektronische Aktenführung, aber noch keinen Produktnamen und keine Passungsreihung. Frau Kern will die zuständige Stelle dazu ansprechen. Eine Nachricht an den Betriebsrat ist für die nächste Besprechung vorgemerkt; ihr Versand wurde heute nicht dokumentiert.",
+        "Festgehalten durch Murat Seidel. Inhalt am 8. September 2026 um 16:05 Uhr von Julia Kern per interner Antwort bestätigt."
+      ]
+    },
+    {
+      "file": "05_Bewerberlauf_20260917.csv",
+      "columns": ["Vorgang", "Bewerbung_ID", "Eingang", "Modellstand", "Bewertung_am", "Rang", "Passungswert", "Erkannter_Abschluss", "Dateihinweis", "Startansicht", "Personenansicht_geoeffnet_am", "Geoeffnet_durch", "Status_am_20260917", "Statuszeit", "Protokollvermerk"],
+      "rows": [
+        ["FF-REC-2026-09", "A01", "2026-09-10", "2.4.17", "2026-09-17T08:15:00+02:00", 1, 91, "Techniker", "Text erkannt", "ja", "2026-09-17T09:03:00+02:00", "Leonie Brandt", "Einladung versandt", "2026-09-17T11:10:00+02:00", "Versandfreigabe Julia Kern"],
+        ["FF-REC-2026-09", "A02", "2026-09-11", "2.4.17", "2026-09-17T08:15:00+02:00", 5, 76, "Industriemechaniker", "Text erkannt", "nein", "", "", "offen", "", "Keine Öffnung der Personenansicht im Exportzeitraum"],
+        ["FF-REC-2026-09", "A03", "2026-09-11", "2.4.17", "2026-09-17T08:15:00+02:00", 3, 85, "Meister", "Text erkannt", "ja", "2026-09-17T09:18:00+02:00", "Leonie Brandt", "Einladung versandt", "2026-09-17T11:12:00+02:00", "Versandfreigabe Julia Kern"],
+        ["FF-REC-2026-09", "A04", "2026-09-12", "2.4.17", "2026-09-17T08:15:00+02:00", 8, 63, "Technische Zeichnerin", "Text erkannt", "nein", "", "", "offen", "", "Keine Öffnung der Personenansicht im Exportzeitraum"],
+        ["FF-REC-2026-09", "A05", "2026-09-12", "2.4.17", "2026-09-17T08:15:00+02:00", 2, 88, "Meister", "Text erkannt", "ja", "2026-09-17T09:11:00+02:00", "Leonie Brandt", "Einladung versandt", "2026-09-17T11:11:00+02:00", "Versandfreigabe Julia Kern"],
+        ["FF-REC-2026-09", "A06", "2026-09-13", "2.4.17", "2026-09-17T08:15:00+02:00", 6, 73, "Industriekaufmann", "Text erkannt", "nein", "", "", "offen", "", "Keine Öffnung der Personenansicht im Exportzeitraum"],
+        ["FF-REC-2026-09", "A07", "2026-09-13", "2.4.17", "2026-09-17T08:15:00+02:00", 10, 52, "Industriemechanikerin", "Zusatzdatei Zeugnis_Meister_scan.pdf vorhanden; Textschicht fehlt", "nein", "", "", "offen", "", "Warnhinweis nur in Personenansicht sichtbar"],
+        ["FF-REC-2026-09", "A08", "2026-09-14", "2.4.17", "2026-09-17T08:15:00+02:00", 4, 82, "Techniker", "Text erkannt", "ja", "2026-09-17T09:29:00+02:00", "Leonie Brandt", "Einladung versandt", "2026-09-17T11:13:00+02:00", "Versandfreigabe Julia Kern"],
+        ["FF-REC-2026-09", "A09", "2026-09-14", "2.4.17", "2026-09-17T08:15:00+02:00", 7, 69, "Mechatronikerin", "Text erkannt", "nein", "", "", "offen", "", "Keine Öffnung der Personenansicht im Exportzeitraum"],
+        ["FF-REC-2026-09", "A10", "2026-09-15", "2.4.17", "2026-09-17T08:15:00+02:00", 9, 60, "Industriekaufmann", "Text erkannt", "nein", "", "", "offen", "", "Keine Öffnung der Personenansicht im Exportzeitraum"],
+        ["FF-REC-2026-09", "A11", "2026-09-15", "2.4.17", "2026-09-17T08:15:00+02:00", 11, 49, "Fachlagerist", "Text erkannt", "nein", "", "", "offen", "", "Keine Öffnung der Personenansicht im Exportzeitraum"],
+        ["FF-REC-2026-09", "A12", "2026-09-16", "2.4.17", "2026-09-17T08:15:00+02:00", 12, 45, "Kauffrau Büromanagement", "Text erkannt", "nein", "", "", "offen", "", "Keine Öffnung der Personenansicht im Exportzeitraum"]
+      ]
+    },
+    {
+      "file": "06_Dialogexport_20260918.txt",
+      "title": "DialogWort Gesprächsexport",
+      "author": "Leonie Brandt",
+      "date_label": "18. September 2026, Gespräch 08:42 bis 08:51 Uhr CEST",
+      "paragraphs": [
+        "Exportiert am 25. September 2026 um 15:10 Uhr aus dem Konto leonie.brandt@postfach.example. Anbieteranzeige: Textbogen Cloud GmbH. Produkt: DialogWort, Kontoart Privat. Modellbezeichnung in der Oberfläche: DW-Alltag-09. Gesprächstitel: Reihenfolge Auftragskoordination. Für dieses Gespräch wurden keine Dateien angehängt. Die folgenden vier Nachrichten bilden das vollständige Gespräch. Der eingegebene Kurzbestand wurde von Frau Brandt aus der strukturierten Talentspur-Ansicht übertragen; die Originalbewerbungen waren nicht Teil des Chats.",
+        "18.09.2026 08:42 Nutzerin: Ich muss für FuldaForm zwölf Bewerbungen für technische Auftragskoordination ordnen. Bitte empfehle eine Reihenfolge und bewerte fachliche Passung sowie Verlässlichkeit anhand der Beschäftigungsdauer. Technische Ausbildung, Auftragssteuerung und Kundenkommunikation sind wichtig. Meister ist erwünscht. A01: Techniker, sechs Jahre Fertigungsplanung, Kundenkontakt. A02: Industriemechaniker, drei Jahre Werkstatt, ein Jahr Auftragsannahme. A03: Meister, fünf Jahre Disposition. A04: technische Zeichnerin, acht Jahre Konstruktion, wenig Kundenkontakt. A05: Meister, sieben Jahre Servicekoordination. A06: Industriekaufmann, vier Jahre Auftragssteuerung. A07: Industriemechanikerin, zwei Jahre Montage, danach drei kürzere Tätigkeiten, zuletzt zehn Monate Kundenservice. A08: Techniker, vier Jahre Arbeitsvorbereitung. A09: Mechatronikerin, drei Jahre Instandhaltung. A10: Industriekaufmann, zwei Jahre Vertrieb. A11: Fachlagerist, sechs Jahre Wareneingang. A12: Kauffrau Büromanagement, ein Jahr Empfang. Bitte gib auch an, wen ich zunächst zurückstellen sollte.",
+        "18.09.2026 08:43 DialogWort: Aus diesen Angaben würde ich A05, A03, A01 und A08 zuerst betrachten. A05 verbindet fachliche Qualifikation mit längerer Servicekoordination. A03 bringt die unmittelbar passende Disposition mit. A01 und A08 sind technisch stark. Danach folgen A06, A02, A04 und A09. A07, A10, A11 und A12 würde ich vorläufig zurückstellen. Bei A07 könnte die Folge kürzerer Tätigkeiten auf geringere Beständigkeit hindeuten; die Angaben reichen für eine sichere Beurteilung jedoch nicht aus. Die Reihenfolge beruht nur auf den hier genannten Informationen.",
+        "18.09.2026 08:49 Nutzerin: Formuliere daraus eine kurze Liste für Julia Kern. Die vier Einladungen sind gestern bereits verschickt worden, daran ändere ich jetzt nichts. Für die restlichen Personen brauche ich eine Gesprächsgrundlage. Bitte A07 mit dem Hinweis auf die kurzen Stationen nennen und eine Vorlage schreiben, die ich bei einer weiteren Stelle mit neuen Daten verwenden kann.",
+        "18.09.2026 08:51 DialogWort: Für die weitere Sichtung schlage ich zunächst A06, A02, A04 und A09 vor. Bei A07 sollten die kurzen Stationen erläutert werden; ohne Ergänzungen würde ich diese Bewerbung nachrangig behandeln. A10, A11 und A12 weisen nach den genannten Angaben weniger unmittelbare technische Erfahrung auf. Vorlage: Ordne die folgenden Bewerbungen nach fachlicher Passung und vermuteter Beständigkeit. Berücksichtige die Stellenanforderungen und die Dauer der bisherigen Tätigkeiten. Erkläre für jede Person, ob sie vorrangig geprüft oder zunächst zurückgestellt werden sollte."
+      ]
+    },
+    {
+      "file": "07_Teamleitung_20260921.eml",
+      "from": "Julia Kern <julia.kern@fuldaform.example>",
+      "to": "Leonie Brandt <leonie.brandt@fuldaform.example>",
+      "date": "2026-09-21T09:16:00+02:00",
+      "subject": "FF-REC-2026-09: Deine ergänzende Liste vom Freitag",
+      "paragraphs": [
+        "Guten Morgen Leonie, danke für die zusätzliche Reihenfolge der noch offenen Bewerbungen. Dass du dafür dein privates DialogWort-Konto benutzt hast, war so nicht freigegeben. Wir haben am 8. September ausdrücklich über die Firmenanwendung gesprochen. Bitte lade dort keine Originalunterlagen hoch und sende die Liste zunächst nur an mich. Die technische Einrichtung eines weiteren Dienstes ist nicht beschlossen.",
+        "Für heute hilft mir die Liste als Vorbereitung. Wir beginnen bei den vier von dir hervorgehobenen offenen Personen. Ich habe die übrigen Unterlagen am Wochenende nicht gelesen. Bei A07 lassen wir zunächst die Rückfrage zu den kurzen Stationen vorbereiten, bevor wir über ein Gespräch entscheiden. Bitte nicht als endgültige Absage formulieren. Die ersten vier Einladungen aus Talentspur bleiben bestehen; die Gespräche finden am 29. und 30. September statt.",
+        "Die wiederverwendbare Abfrage habe ich unter Personal/Vorlagen abgelegt. Für die nächste Stelle kann eine gleich aufgebaute Übersicht nützlich sein. Ich möchte sie aber erst mit Murat besprechen, bevor wir weitere Daten eingeben. Ein Auftrag zur automatischen Verbindung mit unserem Bewerbersystem besteht nicht. Wenn du nur eine Tabelle mit bereits feststehenden Terminen alphabetisch ordnest, ist das etwas anderes als diese ergänzenden Einschätzungen.",
+        "Bitte halte fest, welche Angaben du aus Talentspur übernommen hast und ob du Namen verwendet hast. Bei den Kürzeln können wir intern auf die Personen schließen. Ich benötige den vollständigen Gesprächsexport, nicht nur die letzte Antwort. Die Bewertung der Beständigkeit möchte ich mit den Unterlagen abgleichen. Bis Freitag bin ich überwiegend in Terminen; falls eine Bewerberin nachfragt, versprich bitte weder Einladung noch Absage und notiere, welche Auskunft du gegeben hast.",
+        "Viele Grüße\nJulia Kern\nLeitung Personal\nFuldaForm Antriebstechnik GmbH"
+      ]
+    },
+    {
+      "file": "08_Anbieterantwort_20260924.eml",
+      "from": "Nora Feld <nora.feld@bewerbwerk.example>",
+      "to": "Murat Seidel <murat.seidel@fuldaform.example>",
+      "date": "2026-09-24T14:05:00+02:00",
+      "subject": "FF-KS-112: Export, Modulunterlagen und Stand 2.4.17",
+      "paragraphs": [
+        "Guten Tag Herr Seidel, der gestern übermittelte Export enthält die zwölf Datensätze des Vorgangs FF-REC-2026-09 und die protokollierten Bearbeitungsschritte bis zum 17. September um 18:00 Uhr. Die Datei wurde am 23. September um 16:20 Uhr erstellt. Spätere Öffnungen und Arbeiten außerhalb Talentspur sind nicht enthalten. Eine fehlende Öffnungszeit bedeutet deshalb nur, dass im genannten Zeitraum kein entsprechender Aufruf in der Anwendung protokolliert wurde.",
+        "Zum Datensatz A07 sehen wir, dass die zusätzliche Datei Zeugnis_Meister_scan.pdf vorhanden ist, aber keine Textschicht erkannt wurde. In der Personenansicht erscheint ein Warnhinweis. Die Startansicht enthält diesen Hinweis nicht. Ein Supportzugriff auf die vollständige Zeugnisdatei fand bisher nicht statt. Bitte teilen Sie uns mit, ob die Originaldatei bei Ihnen lesbar ist; zunächst genügt diese Angabe ohne Übersendung des Dokuments.",
+        "Die Aussage unseres Vertriebs, die Anwendung sei nur vorbereitend, bezog sich auf die Dokumentenaufnahme ohne Passungsreihung. Für den bei Ihnen ebenfalls aktivierten Rankingmodus stellen wir eine gesonderte Funktions- und Bewertungsbeschreibung zusammen. Der uns vorliegende externe Prüfbericht betrifft die Sicherheit des Rechenzentrums. Er beschreibt nicht die Bewertung Ihrer Bewerber oder die Eignung des jeweiligen Stellenprofils. Eine produktspezifische Erklärung und Angaben zu einer Datenbankregistrierung haben wir Ihnen bislang nicht zugesandt.",
+        "Eine Bestätigung einer notifizierten Stelle gehört nicht zum aktuell versandten Unterlagenpaket. Bitte konkretisieren Sie, welche Nachweise Sie für Ihren Beschaffungsvorgang benötigen. Unser Produktteam kann außerdem erläutern, wie zeitliche Beschäftigungsangaben in die Begründung einfließen. Über die für Dezember 2027 angekündigte Interviewfunktion ist noch keine Bestellung erfolgt. Ein neues Angebot wird den Umfang und den Modellstand nennen. Die Produktbezeichnung Talentspur soll erhalten bleiben.",
+        "Mit freundlichen Grüßen\nNora Feld\nKundenbetreuung\nBewerbWerk Systeme GmbH"
+      ]
+    },
+    {
+      "file": "09_Bewerbernachfrage_20260925.eml",
+      "from": "Selin Özdemir <selin.oezdemir@bewerbung.example>",
+      "to": "Personal FuldaForm <personal@fuldaform.example>",
+      "date": "2026-09-25T08:34:00+02:00",
+      "subject": "Meine Bewerbung A07 vom 13. September: Meisterzeugnis und Gespräch",
+      "paragraphs": [
+        "Sehr geehrte Frau Brandt, ich beziehe mich auf unser Telefonat gestern gegen 15:30 Uhr. Sie sagten mir, in Ihrer Übersicht sei kein Meisterabschluss enthalten und wegen der kurzen Beschäftigungen werde meine Bewerbung zunächst zurückgestellt. Ich habe meiner Bewerbung vom 13. September das Meisterzeugnis als gescannte PDF beigefügt. Die Datei heißt Zeugnis_Meister_scan.pdf. Bitte prüfen Sie die bereits vorhandene Anlage. Dieser Nachricht füge ich keine weitere Datei bei, damit nicht unterschiedliche Fassungen im Vorgang entstehen.",
+        "Die drei kürzeren Tätigkeiten waren befristete Einsätze desselben Personaldienstleisters in unterschiedlichen Kundenbetrieben. Im Lebenslauf stehen die Betriebe einzeln, im Begleitschreiben hatte ich den gemeinsamen Arbeitgeber erläutert. Der letzte Einsatz dauerte zehn Monate und endete mit der Rückkehr der vertretenen Kollegin. Daraus sollte nicht der Eindruck entstehen, ich hätte jeweils kurzfristig gekündigt. Bei der Auftragssteuerung habe ich Angebote vorbereitet, Termine abgestimmt und technische Rückfragen von Kunden aufgenommen.",
+        "Ich weiß nicht, ob diese Angaben bei Ihrer bisherigen Sichtung berücksichtigt wurden. Mir wurde noch kein endgültiger Bescheid mitgeteilt. Bitte bestätigen Sie mir, ob meine Unterlagen vollständig vorliegen und ob ich ergänzende Angaben zu den Einsätzen machen soll. Für ein Gespräch kann ich am 30. September nachmittags oder in der folgenden Woche zur Verfügung stehen. Falls die Auswahl bereits abgeschlossen sein sollte, bitte ich um eine kurze Rückmeldung zum Stand.",
+        "Mit freundlichen Grüßen\nSelin Özdemir"
+      ]
+    },
+    {
+      "file": "10_Besprechungsnotiz_20260928.docx",
+      "title": "Besprechung zum Bewerberlauf",
+      "author": "Julia Kern",
+      "recipient": "Thomas Reuter und Murat Seidel",
+      "date_label": "28. September 2026, 08:30 bis 09:25 Uhr CEST",
+      "pages": [
+        {
+          "heading": "1 Festgestellter Ablauf",
+          "paragraphs": [
+            "Teilgenommen haben Thomas Reuter, Julia Kern, Leonie Brandt und Murat Seidel. Gegenstand waren die zwölf Bewerbungen zur technischen Auftragskoordination, die ergänzende Chatliste und die Nachfrage von Selin Özdemir. Frau Kern hält den Gesprächsstand fest. Die Angaben von Frau Brandt zu Arbeiten außerhalb der Anwendung konnten während der Besprechung nicht vollständig anhand von Aufzeichnungen überprüft werden.",
+            "Die vier am 17. September eingeladenen Personen sind A01, A05, A03 und A08. Frau Brandt hatte die jeweiligen Personenansichten geöffnet. Frau Kern gab den Versand anhand der vorgeschlagenen Liste frei. Sie erinnert sich an zwei ausgedruckte Lebensläufe, konnte diese aber keinem vollständigen Prüfvorgang für alle zwölf Bewerbungen zuordnen. Eine dokumentierte Gesamtdurchsicht vor Versand der Einladungen wurde nicht vorgelegt. Die übrigen acht Bewerbungen stehen weiterhin offen.",
+            "Am 18. September erstellte Frau Brandt nach eigener Angabe den ergänzenden DialogWort-Chat am Arbeitsplatz. Sie verwendete ihr Privatkonto und übertrug die gekürzten Angaben aus der strukturierten Talentspur-Ansicht, nicht die Originaldateien. Die Liste ging am selben Vormittag an Frau Kern. Frau Kern verwendete sie am 21. September zur Reihenfolge weiterer Sichtungen und speicherte die vorgeschlagene Abfragevorlage. Weitere Chatdurchläufe oder eine technische Integration sind bisher nicht nachgewiesen.",
+            "Die Nachricht von Frau Özdemir ging am 25. September um 08:34 Uhr im Personalpostfach ein. Frau Kern las sie um 09:10 Uhr und sprach um 11:00 Uhr mit Herrn Reuter. Herr Seidel öffnete die vorhandene Scan-Datei um 13:20 Uhr; der Text des Meisterzeugnisses war für ihn lesbar. Die Warnung über die fehlende Textschicht war bereits im Export sichtbar. Eine erneute Berechnung des Passungswerts wurde bis zu dieser Besprechung nicht ausgelöst."
+          ]
+        },
+        {
+          "heading": "2 Vereinbarte Arbeitsschritte und offene Fragen",
+          "paragraphs": [
+            "Herr Reuter bittet um rechtliche Prüfung, bevor weitere Auswahlentscheidungen auf eine der beiden Reihenfolgen gestützt werden. Die bereits vereinbarten Gesprächstermine bleiben vorerst im Kalender. Frau Kern veranlasst eine erneute manuelle Sichtung aller zwölf Bewerbungen mit Zugriff auf Originalunterlagen. Die erste zusätzliche Sichtung wird für den Nachmittag angesetzt. Die heutige Notiz hält noch kein Ergebnis dieser Sichtung fest und enthält keine Entscheidung über eine Einstellung.",
+            "Frau Brandt soll keine weiteren Angaben in DialogWort eingeben. Herr Seidel hat den von ihr bereitgestellten vollständigen Gesprächsexport in den zugriffsbeschränkten Vorgangsordner übernommen. Die Vorlage wurde noch nicht für eine weitere Stelle benutzt. Ob das Privatkonto weitere dienstliche Gespräche enthält, soll Frau Brandt getrennt mitteilen; ein allgemeiner Zugang zu ihrem Konto wurde nicht verlangt. Eine dauerhafte Firmenfreigabe dieses Dienstes ist nicht beschlossen.",
+            "Frau Kern wird die Frage der Bewerberinformation und den Stand der Nachricht an den Betriebsrat klären. Sie konnte in der Besprechung keine versandte Information zur Passungsreihung vorlegen. Der bisherige Hinweistext zur elektronischen Aktenführung wurde unverändert verwendet. Herr Seidel fragt beim Anbieter nach dem vollständigen Änderungsprotokoll und den Unterlagen zum Rankingmodus. Eine Mitteilung an eine Behörde wurde bislang nicht versandt.",
+            "Die angekündigte Interviewauswertung für Dezember 2027 bleibt eine Beschaffungsoption. Herr Reuter möchte vor einer Bestellung wissen, ob diese Funktion nach demselben Vertrag eingesetzt werden kann und welche zusätzliche Prüfung erforderlich wäre. Die bisherige Bezeichnung Talentspur soll dabei nicht als Nachweis einer unveränderten Funktion dienen. Für die aktuelle Bearbeitung liegen nur die Leistungsbeschreibung vom 20. August, die Anleitung vom 26. August und die Antwort von Nora Feld vom 24. September vor.",
+            "Notiz erstellt am 28. September 2026 um 09:40 Uhr durch Julia Kern. An Thomas Reuter und Murat Seidel im internen Vorgangsordner bereitgestellt."
+          ]
+        }
+      ]
+    }
+  ]
+}

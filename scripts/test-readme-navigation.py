@@ -40,6 +40,19 @@ CATALOG = load_script("generate-root-plugin-catalog.py")
 
 
 class CatalogVersionTests(unittest.TestCase):
+    def test_navigation_scans_sources_but_not_local_dependencies_or_builds(self):
+        with tempfile.TemporaryDirectory() as temp:
+            root = Path(temp)
+            paths = ("README.md", "plugin/skills/einstieg/SKILL.md", ".venv/lib/LICENSE.md",
+                     "node_modules/pkg/README.md", "dist/README.md", "release-staging/README.md")
+            for name in paths:
+                target = root / name
+                target.parent.mkdir(parents=True, exist_ok=True)
+                target.write_text("# Dokument\n")
+            with patch.object(NAV, "REPO", root):
+                actual = {p.relative_to(root).as_posix() for p in NAV.repository_markdown_files()}
+            self.assertEqual(actual, {"README.md", "plugin/skills/einstieg/SKILL.md"})
+
     def test_case_index_count_follows_inventory(self):
         source = "Stand v444.8.0: 340 zentrale Testakten.\n"
         expected = "Stand v444.9.0: 341 zentrale Testakten.\n"

@@ -11,7 +11,7 @@
 
 [Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
 
-Die Verfahrensakte gibt es in drei Formaten. Beide ZIPs erhalten die getrennten Ordner für Eingang, Klageerwiderung und Korrespondenz einschließlich des Unterordners `03_korrespondenz/04_vertiefung`. Das Originalformat-ZIP enthält PDF, Word, Excel, E-Mail, Text und CSV, aber kein Markdown. Das Einzel-PDF-ZIP enthält jede Unterlage als eigenes PDF. Das Gesamt-PDF enthält auch die Klageerwiderung; sein Register und seine Lesezeichen führen zu den getrennten Arbeitsbereichen.
+Die Verfahrensakte gibt es in drei Formaten. Beide ZIPs erhalten die getrennten Ordner für Eingang, Klageerwiderung und Korrespondenz. Das Originalformat-ZIP enthält PDF, Word, E-Mail, Text und CSV, aber kein Markdown. Das Einzel-PDF-ZIP enthält jede Unterlage als eigenes PDF. Das Gesamt-PDF enthält auch die Klageerwiderung; sein Register und seine Lesezeichen führen zu den getrennten Arbeitsbereichen.
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
@@ -121,10 +121,6 @@ Mit `scripts/build-fintech-bremen-akte.py --supplements-only --qa-dir /tmp/finte
 | [03_korrespondenz/20_Telefonnotiz_20240410_Terminabstimmung.txt](03_korrespondenz/20_Telefonnotiz_20240410_Terminabstimmung.txt) | Telefonnotiz vom 10. April 2024 - Gespräch mit Martin Grothe |
 | [03_korrespondenz/21_Telefonnotiz_20260710_Unterlagen_Streitstand.txt](03_korrespondenz/21_Telefonnotiz_20260710_Unterlagen_Streitstand.txt) | Telefonnotiz vom 10. Juli 2026 - Gespräch mit Dr. Falk Neubauer |
 | [30_Buchungsdaten_Geschaeftskonto.csv](03_korrespondenz/30_Buchungsdaten_Geschaeftskonto.csv) | Kontobuchungen mit Salden und Belegbezug |
-
-
-
-
 | [03_korrespondenz/04_vertiefung/41_Completion_Confirmation_20221014.docx](03_korrespondenz/04_vertiefung/41_Completion_Confirmation_20221014.docx) | Completion Confirmation |
 | [03_korrespondenz/04_vertiefung/42_Zahlungszuordnung_20260713.xlsx](03_korrespondenz/04_vertiefung/42_Zahlungszuordnung_20260713.xlsx) | Zahlungszuordnung und Abschlussabgleich |
 | [03_korrespondenz/04_vertiefung/43_Kontoabgleich_20260611.xlsx](03_korrespondenz/04_vertiefung/43_Kontoabgleich_20260611.xlsx) | Kontoabgleich März und April 2024 |

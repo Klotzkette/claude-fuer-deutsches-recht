@@ -1,3 +1,25 @@
+# v445.13.0 - Vier Fachprüfer, präzisere Zeugnisprüfung und vertiefte FinTech-Akte
+
+## 1. Einstufung und Transparenz getrennt bearbeiten
+
+Die neuen Plugins `ki-verordnung-hochrisiko-pruefer` und `ki-verordnung-transparenzpruefer` führen von technischen Unterlagen und tatsächlicher Verwendung zu begründeten Einstufungen, Anbieteranfragen, Hinweisen und Freigabevermerken. Der Hochrisikoprüfer erfasst den Produktpfad und sämtliche Bereiche des Anhangs III; Bewerbungsauswahl und eigenmächtige Chatbot-Nutzung bilden den vertieften Personalpraxisfall. Registrierung, Konformitätsbewertung, Notifizierung und Vorfallmeldung werden nicht gleichgesetzt. Die Transparenzprüfung trennt Anbieter und Betreiber, technische Markierung und Offenlegung, private Schriftsätze und öffentliche Texte sowie menschliche Textkontrolle und Deepfakes.
+
+Die Quellenkarten unterscheiden geltende Änderungsnormen, Übergangsfristen, unverbindliche Leitlinien und noch offene Auslegungsfragen. Beide Plugins enthalten eigene Werkstatt- und Schnellstart-Prompts sowie jeweils eine neue native Fallakte mit drei Downloadformen.
+
+## 2. Eigentumseingriffe mit dem passenden Verfahren prüfen
+
+`vergesellschaftung-artikel-15` behandelt Gegenstände, Landeskompetenz, Landesverfassungsrecht, gemeinwirtschaftliche Trägerschaft, Entschädigung und Unionsrecht. Die Energieinfrastrukturakte spielt in Hessen; historische Verfassungsbestimmungen werden nicht als pauschale Erlaubnis für ein neues Gesetz ausgegeben. `enteignung-artikel-14` führt durch Grundstücksprüfung, Alternativen, Erwerbsverhandlungen, Beteiligung, Entschädigung und Rechtsschutz. Paragraf 104 BauGB bestimmt die Behörde und ersetzt keine Enteignungsvoraussetzung. Die niedersächsische Fallakte berücksichtigt die besondere Zuständigkeit für Baulandsachen.
+
+## 3. Zeugnisansprüche und ihre Durchsetzung schärfen
+
+Der Arbeitszeugnisprüfer verbindet die konkrete Beanstandung gezielter mit Aufgabenbild, Tatsachenbelegen, Notenbeweislast, Schlussformel oder Vergleichsvollstreckung. BAG vom 7. Mai 2026, 8 AZB 25/25, wird für den hinreichend bestimmten Vergleich mit späterem Arbeitnehmerentwurf und die Grenzen der Vollstreckung bei plausiblen Wahrheitseinwendungen eingeordnet. BAG vom 18. Juni 2025, 2 AZR 96/24 (B), betrifft den vorzeitigen Verzicht auf den künftigen Zeugnisanspruch; daraus folgt kein uneingeschränktes Verzichtsverbot nach Vertragsende. Gestaltungswünsche, Rechtsmängel und beweisabhängige Aufwertungen bleiben getrennt.
+
+## 4. FinTech-Belege und verlässliche Auslieferung
+
+Die Bremer FinTech-Akte erhält sieben zusätzliche Vertragsvollzugsunterlagen, Zahlungsabgleiche, interne Rückfragen und Korrespondenz mit nativen Anhängen. Alle 35 bisherigen Originale bleiben bytegleich erhalten; die nun 42 Quellen ergeben 215 Seiten im Gesamt-PDF. Vorhandene Parteibehauptungen bleiben als solche erkennbar und ersetzen keine eigene Prüfung.
+
+Vier neue Plugin-ZIPs und die zusätzlichen Akten überschreiten zusammen mit dem Bestand die Plattformgrenze von 1000 Assets je Release. Deshalb liegen nur die acht Einzel-ZIPs der vier neuen Akten im versionsgleichen Begleitrelease `akten-v445.13.0`; die vollständigen Sammelpakete bleiben im Hauptrelease. Beide Releases erhalten eigene Prüfsummen und denselben Commitbezug. Die Veröffentlichung erfolgt erst nach Uploadprüfung, das Begleitrelease wird nicht zur neuesten Hauptversion. Bestehende Downloadadressen bleiben erhalten.
+
 # v445.12.0 – Startup-Gründer mit vollständiger Gründungsakte
 
 Das neue Plugin begleitet die UG- oder GmbH-Gründung mit 18 gezielten Skills. Es erstellt aus vorhandenen Unterlagen früh vollständige Satzungs- und Vertragsentwürfe auf Deutsch und Englisch und klärt entscheidende Lücken im weiteren Dialog. Geschäftsführungsstatus, Beteiligung, Mehrheiten, Geldwäscheprüfung und Vollzug sowie optionale Seed-, Serie-A- und Serie-B-Runden bleiben nachvollziehbar getrennt.

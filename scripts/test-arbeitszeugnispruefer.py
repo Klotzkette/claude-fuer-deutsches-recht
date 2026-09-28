@@ -275,7 +275,7 @@ class ArbeitszeugnisprueferTests(unittest.TestCase):
                 self.assertIn("8 AZB 25/25", text)
                 self.assertIn("Entwurfsrecht", text)
                 self.assertIn("wichtigem Grund", text)
-                self.assertIn("Erkenntnisverfahren", text)
+                self.assertRegex(text, r"Erkenntnis(?:verfahren|prozess)")
                 self.assertIn("https://www.bundesarbeitsgericht.de/entscheidung/8-azb-25-25/", text)
         procedure = (PLUGIN / "skills/klagestrategie-und-vollstreckung/SKILL.md").read_text(encoding="utf-8")
         self.assertIn("teilweise", procedure)

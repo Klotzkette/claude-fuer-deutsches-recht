@@ -43,3 +43,7 @@ corporate-contract-law
 vertragserstellung
 wirtschaftsanwalt
 bauwirtschaft
+enteignung-artikel-14
+ki-verordnung-hochrisiko-pruefer
+ki-verordnung-transparenzpruefer
+vergesellschaftung-artikel-15

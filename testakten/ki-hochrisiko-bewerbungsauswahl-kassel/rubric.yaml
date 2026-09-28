@@ -1,0 +1,33 @@
+name: ki-hochrisiko-bewerbungsauswahl-kassel
+plugin: ki-verordnung-hochrisiko-pruefer
+description: Prüfung zweier Werkzeuge im Auswahlvorgang eines Kasseler Industriebetriebs anhand von Herstellerunterlagen, Nutzungsdaten und Korrespondenz.
+checks:
+  - id: auftrag
+    check_type: file_exists
+    description: Der Auftrag der Geschäftsführung liegt als E-Mail vor.
+    path: 01_Pruefauftrag_20260928.eml
+  - id: produkt
+    check_type: file_exists
+    description: Die Leistungsbeschreibung liegt im nativen Format vor.
+    path: 02_Leistungsbeschreibung_Talentspur_20260820.docx
+  - id: anleitung
+    check_type: file_exists
+    description: Die Anleitung zum eingesetzten Produktstand ist vorhanden.
+    path: 03_Gebrauchsanleitung_Talentspur_24.pdf
+  - id: lauf
+    check_type: file_exists
+    description: Der zeitlich abgegrenzte Bewerberexport ist vorhanden.
+    path: 05_Bewerberlauf_20260917.csv
+  - id: gespraech
+    check_type: file_exists
+    description: Der Dialogexport ist als lesbarer Text vorhanden.
+    path: 06_Dialogexport_20260918.txt
+  - id: dokumentenauftrag
+    check_type: human_review
+    description: Werden die bestellten Dokumente ausformuliert und entscheidende offene Angaben gezielt behandelt?
+  - id: belegabgleich
+    check_type: human_review
+    description: Werden Produktangaben, Freigabe, Nutzungsdaten und spätere Nachrichten mit ihren jeweiligen Aussagegrenzen abgeglichen?
+  - id: rechtzeit
+    check_type: human_review
+    description: Werden Rechtsstand, Einsatzzeitpunkt, Rollen und tatsächliche Verwendung nachvollziehbar aufeinander bezogen?

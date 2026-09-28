@@ -1,0 +1,296 @@
+{
+  "case_id": "vergesellschaftung-energienetz-hessen",
+  "as_of": "2026-09-28",
+  "client": "Kommunaler Netzverbund Lahn-Werra GmbH",
+  "company": "Hessenbogen Netz GmbH",
+  "company_formed": "1998-04-06",
+  "customers": 142600,
+  "proposal_date": "2026-09-14",
+  "planned_transfer": "2028-01-01",
+  "response_requested": "2026-10-09",
+  "shareholders": [
+    {"name": "Rheinstroom Infrastructuur B.V.", "percent": 65},
+    {"name": "Kommunaler Netzverbund Lahn-Werra GmbH", "percent": 25},
+    {"name": "Mitarbeiterbeteiligung Hessenbogen eG", "percent": 10}
+  ],
+  "documents": [
+    {
+      "file": "01_Mandat_Netzverbund_20260928.eml",
+      "format": "eml",
+      "from": "Dr. Meike Winter <meike.winter@netzverbund-lahn-werra.example>",
+      "to": "Dr. Nora Seidel <nora.seidel@seidel-ahrens.example>",
+      "date": "2026-09-28T09:12:00+02:00",
+      "message_id": "mandat-20260928-0912@netzverbund-lahn-werra.example",
+      "subject": "Hessenbogen / Vorlage für unsere Gesellschafterversammlung am 7. Oktober",
+      "paragraphs": [
+        "Sehr geehrte Frau Dr. Seidel,",
+        "wir beauftragen Sie für die Kommunaler Netzverbund Lahn-Werra GmbH mit einer schriftlichen Entscheidungsvorlage zur geplanten Neuordnung des Hessenbogen-Netzes. Auftraggeberin ist unsere Beteiligungsgesellschaft, nicht die Hessenbogen Netz GmbH und nicht die niederländische Mehrheitsgesellschafterin. Die Bürgermeisterinnen haben sich auf gemeinsame Beratung verständigt. Eine gerichtliche Vertretung oder öffentliche Erklärung ist damit noch nicht beauftragt.",
+        "Wir halten seit 2006 unverändert 25 Prozent der Geschäftsanteile. Hinter uns stehen die Gemeinden Auenbrück, Hohenquell und Lindenried zu gleichen Teilen. Der kommunale Anteil soll nach unserem Willen nicht aus der Region verschwinden. Zugleich unterstützen wir eine verlässlichere Investitionsplanung. Im Ortsteil Steinbach wurde der Anschluss der neuen Bäckerei erneut verschoben; der Betreiber verweist auf das bestellte Schaltfeld. Diese Alltagserfahrung prägt die politische Diskussion stärker als die Unternehmensbewertung.",
+        "Die parlamentarische Arbeitsgruppe hat uns ihre Arbeitsfassung vom 14. September samt Begründung geschickt. Sie ist nach Auskunft ihrer Geschäftsstelle noch keiner Fraktion zur förmlichen Einbringung zugeordnet. Für Stellungnahmen nennt die Geschäftsstelle den 9. Oktober. Unsere Gesellschafterversammlung findet bereits am 7. Oktober um 16 Uhr statt. Bitte liefern Sie uns bis zum 5. Oktober eine vorlagefähige Empfehlung und einen gesonderten Entwurf unserer Stellungnahme. Wir möchten wissen, welche Bedingungen wir stellen sollten, nicht nur, ob die politische Idee abstrakt möglich ist.",
+        "Die Anlagenvariante ist in den Gesprächen führend. Herr Riemer aus der Arbeitsgruppe hält aber eine Übernahme sämtlicher Anteile für einfacher. Unsere Kämmerer verstehen die Zahl von 210 Millionen Euro bislang als vollständige Obergrenze. Frau Brandt von Hessenbogen nennt dagegen 410 Millionen Euro, wobei nach ihrem Schreiben noch Schulden zu berücksichtigen seien. Bitte prüfen Sie die verschiedenen Bezugsgrößen, bevor wir eine Zahl nach außen tragen. Eine zusätzliche Verlustgarantie unserer Gemeinden ist nicht beschlossen.",
+        "Der geplante Träger wird in den Papieren bereits als EnergieNetz Hessen AöR bezeichnet. Nach meinem Verständnis ist er noch nicht errichtet. Unser kommunaler Betrieb Lahn-Werra Netzservice GmbH könnte Wartung übernehmen, ist aber kein Ersatz für die vorhandene Leitstelle. Die technischen Unterlagen und die Nachricht des Dienstleisters liegen im Ordner. Bitte fragen Sie die Beteiligten nicht ohne vorherige Abstimmung unmittelbar an; erforderliche Nachforderungen können Sie für mich formulieren.",
+        "Mit freundlichen Grüßen\nDr. Meike Winter\nGeschäftsführerin\nKommunaler Netzverbund Lahn-Werra GmbH\nUferstraße 18, 35037 Marburg\nmeike.winter@netzverbund-lahn-werra.example"
+      ]
+    },
+    {
+      "file": "02_Arbeitsfassung_Netzgesetz_20260914.docx",
+      "format": "docx",
+      "title": "Arbeitsfassung zur Neuordnung der regionalen Elektrizitätsnetze",
+      "sender": "Parlamentarische Arbeitsgruppe Energienetze | Geschäftsstelle",
+      "recipient": "Verteiler Fachgespräch Netze in Gemeinwirtschaft",
+      "date": "14.09.2026",
+      "reference": "AG-EN 26/14 | Arbeitsfassung 0.4 | nicht eingebracht",
+      "pages": [
+        {
+          "heading": "1. Zweck und Anwendungsbereich",
+          "paragraphs": [
+            "Die Arbeitsgruppe legt den nachstehenden Regelungsvorschlag zur Beratung mit Kommunen, Beschäftigten und Unternehmen vor. Über die Einbringung in den Landtag ist noch nicht entschieden. Die Anlage zur genauen Bezeichnung der Grundstücke wird aus den Unternehmensunterlagen vorbereitet. Die vorliegende Fassung enthält den diskutierten Anlagenweg; die in Abschnitt 3 beschriebene Anteilsvariante wird weiter geprüft.",
+            "Paragraf 1. Das Gesetz dient der dauerhaften gemeinwirtschaftlichen Bewirtschaftung regionaler Elektrizitätsverteilernetze in Hessen. Versorgungssicherheit, Erneuerung der Anlagen und nachvollziehbare Investitionsentscheidungen sollen gegenüber kurzfristigen Ausschüttungsinteressen Vorrang erhalten. Erfasst werden wirtschaftlich zusammenhängende Verteilernetze mit mindestens 100.000 unmittelbar oder mittelbar angeschlossenen Kunden, deren Eigentümergesellschaft am 31. August 2026 zu mehr als der Hälfte im privaten Eigentum steht.",
+            "Paragraf 2. Zum 1. Januar 2028 gehen die in der gesetzlichen Anlage bezeichneten, in Hessen belegenen Netzanlagen und Betriebsgrundstücke auf die durch dieses Gesetz zu errichtende EnergieNetz Hessen AöR über. Nach der derzeitigen Datenerhebung betrifft dies bei der Hessenbogen Netz GmbH die Anlagenkomplexe N-01 bis N-05 sowie N-09. Die Anlage bezeichnet Leitungsabschnitte, Umspannwerke, Ortsnetzstationen, Betriebsgrundstücke und betriebsnotwendige Fahrzeuge. Die bisherige Eigentümerin hat die zur Fortführung erforderlichen technischen Unterlagen am Übergangstag bereitzustellen.",
+            "Die wirtschaftliche Funktion eines Gegenstands für den Netzbetrieb ist bei der Aufnahme in die Anlage darzustellen. Nicht für den Stromnetzbetrieb genutzte Mietflächen und das gesondert vermarktete Glasfasernetz sollen nicht übergehen. Über die Einbeziehung der Schaltanlage in Thüringen besteht keine Einigung. Die Geschäftsstelle wird bis Ende Oktober eine katasterbezogene Fassung der Grundstücksliste vorlegen. Der Betreiber hat bisher nur seine kaufmännischen Anlagenkennungen übermittelt.",
+            "Paragraf 3. Die EnergieNetz Hessen AöR bewirtschaftet die übernommenen Anlagen zur Versorgung der Allgemeinheit. Der Verwaltungsrat beschließt einen rollierenden Investitionsplan über fünf Jahre. Von seinen neun Mitgliedern werden drei vom Land, drei von den beteiligten Kommunen und drei von den Beschäftigten bestimmt. Die Einzelheiten der Bestellung werden im Errichtungsteil des Gesetzes geregelt. Nutzervertretungen erhalten ein Anhörungsrecht bei der Fortschreibung des Investitionsplans."
+          ]
+        },
+        {
+          "heading": "2. Finanzen und Übergang",
+          "paragraphs": [
+            "Paragraf 4. Die bisherige Eigentümerin erhält für die übergehenden Gegenstände eine Entschädigung in Geld. Der Berechnung sollen die nachhaltig erzielbaren Erträge des übernommenen Netzbestands zugrunde liegen; betriebsnotwendige Aufwendungen und der dokumentierte Erneuerungsbedarf sind zu berücksichtigen. Die Arbeitsgruppe strebt für den gegenwärtig diskutierten Bestand einen Finanzrahmen von 210 Millionen Euro an. Ob dieser Betrag im Gesetz als Höchstbetrag oder lediglich in der Finanzplanung ausgewiesen wird, soll nach Eingang der Stellungnahmen entschieden werden.",
+            "Die Entschädigung soll grundsätzlich am Übergangstag fällig sein. Auf Antrag der bisherigen Eigentümerin sollen Teilzahlungen vereinbart werden können. Die für die Berechnung verwendeten Unterlagen werden dieser vor der Festsetzung zugänglich gemacht. Die Arbeitsgruppe bittet um Vorschläge für eine nachvollziehbare Behandlung bestehender Kredite und Sicherheiten. Im Anlagenmodell soll nicht das gesamte sonstige Unternehmen auf die Anstalt übergehen.",
+            "Paragraf 5. Die Anstalt führt die laufende Instandhaltung während einer Übergangszeit gemeinsam mit der bisherigen Betreiberorganisation fort. Sie schließt hierzu vor dem Übergangstag die erforderlichen Betriebsführungs- und Dienstleistungsvereinbarungen. Beschäftigten soll eine Fortsetzung ihrer Tätigkeit zu vergleichbaren Bedingungen angeboten werden. Die Verhandlungen mit den zuständigen Vertretungen sind im Jahr 2027 zu führen. Das Papier enthält noch keine mit diesen abgestimmte Personalregelung.",
+            "Die Arbeitsgruppe erwartet, dass die Kommunen die bestehenden Wegenutzungsverträge für den verbleibenden Zeitraum mit dem gemeinwirtschaftlichen Träger fortsetzen. Die Vertragslaufzeiten sollen durch das Vorhaben nicht verkürzt werden. Der kommunale Netzservice soll die Wartung übernehmen können, ohne dass die örtlichen Versorgungsaufgaben unterbrochen werden. Im Fachgespräch ist zu klären, welche Vertragsänderungen hierfür erforderlich sind.",
+            "Nach Abzug laufender Kosten und der im Investitionsplan vorgesehenen Mittel sollen Überschüsse zunächst der Rücklage zugeführt werden. Ab dem dritten Betriebsjahr wird eine jährliche Abführung von acht Millionen Euro an den Landeshaushalt angestrebt. Der Arbeitsgruppe ist bekannt, dass die kommunalen Betreibervertreter eine feste Abführung vor Abschluss des Erneuerungsprogramms ablehnen. Die Finanzierungsgruppe soll hierzu eine überarbeitete Fassung vorlegen."
+          ]
+        },
+        {
+          "heading": "3. Alternative und Beratungsbedarf",
+          "paragraphs": [
+            "Als Alternative zum Anlagenübergang wird die gesetzliche Übernahme sämtlicher Geschäftsanteile der Hessenbogen Netz GmbH durch die EnergieNetz Hessen AöR erörtert. Herr Riemer befürwortet diese Lösung, weil Arbeitgeber, Kreditnehmer und Vertragspartner auf Ebene der Netzgesellschaft unverändert bleiben könnten. Die kommunalen Vertreter haben erklärt, dass sie dem Verlust ihrer unmittelbaren Beteiligung bislang nicht zugestimmt haben. Die Mitarbeiterbeteiligung verlangt zunächst eine gesonderte Bewertung ihrer Position.",
+            "Die Anteilsvariante würde nach derzeitigem Unternehmensbild auch das Glasfasernetz, die Thüringer Anlage und das vermietete Betriebsgebäude in der Gesellschaft belassen. Eine vorherige Abspaltung dieser Tätigkeiten ist nicht vereinbart. Die Geschäftsführung weist auf laufende gemeinsame IT- und Finanzierungsverträge hin. Die Arbeitsgruppe bittet deshalb um eine Gegenüberstellung des organisatorischen Aufwands beider Varianten. Die Anlage soll vor einer politischen Entscheidung nicht so behandelt werden, als sei der Umfang bereits endgültig festgelegt.",
+            "Für den Anlagenweg stehen derzeit sechs Anlagenkomplexe im Vordergrund. N-01 bezeichnet die hessischen Mittelspannungsleitungen mit 1.180 Kilometern Länge; N-02 die Niederspannungsleitungen mit 2.960 Kilometern. N-03 umfasst zwölf Umspannwerke und N-04 die 846 Ortsnetzstationen. N-05 betrifft acht Betriebsgrundstücke. N-09 umfasst den überwiegend im Netzbetrieb verwendeten Fahrzeug- und Werkzeugbestand. Einzelfahrzeuglisten und Grundstücksurkunden sind noch nicht Bestandteil dieser Arbeitsfassung.",
+            "Die Geschäftsstelle hat die Unternehmensdaten mit Stand 31. August 2026 angefordert. Sollten darin fremde oder nur gemietete Gegenstände enthalten sein, bittet sie um deren eindeutige Kennzeichnung mit Vertragspartner und Laufzeit. Eine Eigentumsübertragung fremder Anlagen ist mit dieser Arbeitsfassung noch nicht beschlossen. Für die Leittechnik wurde ein gesondertes Gespräch mit dem Dienstleister vereinbart.",
+            "Stellungnahmen werden bis zum 9. Oktober 2026 an geschaeftsstelle@ag-energienetze.example erbeten. Die nächste interne Beratung ist für den 14. Oktober vorgesehen. Das geplante Übergangsdatum 1. Januar 2028 soll nach Auffassung der Arbeitsgruppe genügend Zeit für die technischen Vorbereitungen lassen. Die Netzgesellschaft hält diesen Zeitplan bislang für zu knapp. Ein parlamentarischer Beschluss, eine Verkündung oder eine verbindliche Übertragungsanordnung liegen dieser Arbeitsfassung nicht zugrunde."
+          ]
+        }
+      ]
+    },
+    {
+      "file": "03_Begruendung_Arbeitsgruppe_20260915.docx",
+      "format": "docx",
+      "title": "Begründung der Arbeitsfassung vom 14 September 2026",
+      "sender": "Parlamentarische Arbeitsgruppe Energienetze | Martin Riemer",
+      "recipient": "Teilnehmende des Fachgesprächs",
+      "date": "15.09.2026",
+      "reference": "AG-EN 26/15 | Erläuterungen zur Arbeitsfassung",
+      "pages": [
+        {
+          "heading": "1. Anlass und politische Entscheidung",
+          "paragraphs": [
+            "Die Arbeitsgruppe verfolgt das Ziel, die regionalen Stromnetze dauerhaft nach den Versorgungsbedürfnissen der Bevölkerung zu bewirtschaften. Die Diskussion ist durch verzögerte Gewerbeanschlüsse und unterschiedliche Angaben zum Erneuerungsbedarf ausgelöst worden. Die bisherige Geschäftsführung verweist auf Lieferengpässe und Fachkräftemangel; kommunale Vertreter sehen zusätzlich einen Konflikt zwischen Ausschüttung und Investition. Über die Ursachen besteht noch kein gemeinsamer Befund.",
+            "Die vorgeschlagene Regelung soll nicht lediglich einen anderen Anteilseigner einsetzen. Die Investitionsplanung soll öffentlich nachvollziehbar werden, und Beschäftigte sowie Kommunen sollen die Prioritäten mitbestimmen. Die Arbeitsgruppe hält die Form einer Anstalt für geeignet, diesen Wechsel sichtbar und organisatorisch dauerhaft zu gestalten. Ein privatwirtschaftlicher Konzernverbund mit unveränderten Renditevorgaben entspricht nicht ihrem Ziel.",
+            "Als verfassungsrechtlichen Ausgangspunkt nennt die Arbeitsgruppe Artikel 15 GG. Sie sieht in den Leitungen, Stationen und betriebsnotwendigen Grundstücken einen zusammengehörenden Produktions- und Versorgungsbestand. Die Schwelle von 100.000 Kunden soll kleine örtliche Unternehmen nicht in das Verfahren einbeziehen und eine Betriebsgröße erfassen, die eine eigenständige Leitstelle und längerfristige Investitionsplanung trägt. Die Geschäftsstelle verfügt bislang über keine vollständige landesweite Vergleichstabelle; diese wird für die weitere Beratung angefordert.",
+            "In der hessischen politischen Tradition verweist die Arbeitsgruppe außerdem auf Artikel 41 der Landesverfassung. Martin Riemer hat im Fachgespräch erklärt, die ausdrückliche Nennung der Energiewirtschaft sei ein starkes Argument dafür, die heutige Neuordnung als Fortsetzung einer schon angelegten gemeinwirtschaftlichen Entscheidung zu verstehen. Die Unternehmensseite hält diesen Rückgriff für nicht aussagekräftig, weil Hessenbogen erst 1998 gegründet worden sei. Unterlagen zur Geschichte der zuvor kommunal betriebenen Teilnetze sind bisher nur auszugsweise vorhanden.",
+            "Eine freihändige Übernahme zu dem von der Eigentümerseite genannten Preis ist bisher nicht verhandelt worden. Die Mehrheitsgesellschafterin verlangt zunächst die Aufgabe der gesetzlichen Übertragungsplanung. Die kommunalen Vertreter möchten gleichwohl ein Gespräch über eine einvernehmliche Lösung offenhalten. Die Arbeitsgruppe wird diese Möglichkeit in der nächsten Sitzung erneut aufrufen; ein entsprechendes Angebot liegt nicht vor."
+          ]
+        },
+        {
+          "heading": "2. Wirtschaftliche und örtliche Folgen",
+          "paragraphs": [
+            "Der Ansatz von 210 Millionen Euro ist aus den ersten Gesprächen mit der Finanzierungsgruppe entstanden. Er soll eine Übernahme ermöglichen, ohne das Erneuerungsprogramm von 52 Millionen Euro bis Ende 2032 zu verdrängen. Die Arbeitsgruppe hat noch kein eigenes Unternehmenswertgutachten beauftragt. Sie erwartet, dass die Stellungnahmen die Bewertung des übertragenen Bestands und die Behandlung der Schulden konkretisieren. Die Zahl soll nicht als bereits mit der bisherigen Eigentümerin vereinbarter Kaufpreis veröffentlicht werden.",
+            "Die Länder- und Kommunalvertreter beurteilen die Finanzierung unterschiedlich. Das Land wird um 60 Millionen Euro Eigenmittel und eine Garantie für Fremdmittel gebeten. Eine haushaltsrechtliche Zusage liegt der Arbeitsgruppe nicht vor. Die kommunale Seite bietet Werkstattkapazität und Personal an, lehnt aber eine offene Nachschusspflicht ab. Die angesprochene Bank hat ein Angebot unter mehreren Bedingungen angekündigt.",
+            "Der geplante jährliche Betrag von acht Millionen Euro an den Landeshaushalt soll nach Auffassung eines Teils der Finanzierungsgruppe die Übernahme politisch absichern. Andere Mitglieder möchten jede Ausschüttung an die Erfüllung des Investitionsplans binden. Die bisherige Fassung enthält daher noch keine abgestimmte Rangfolge zwischen Rücklage und Haushaltsabführung. Der Betriebsvorschlag des kommunalen Netzservice wird hierfür nachgereicht.",
+            "Die Eigentümerseite hebt hervor, dass die Gesellschaft eine Anlage in Thüringen und ein separat vermarktetes Glasfasernetz besitzt. Beim Anlagenweg sollen diese Tätigkeiten grundsätzlich außerhalb des Übergangs bleiben. Für die Anteilsvariante wurde noch keine Trennung dieser Vermögensbereiche ausgearbeitet. Die Arbeitsgruppe bittet die Beteiligten um Einschätzung, ob eine organisatorische Trennung vor dem 1. Januar 2028 tatsächlich leistbar wäre.",
+            "Die Begründung soll nach Eingang der Stellungnahmen fortgeschrieben werden. Die Geschäftsstelle bittet insbesondere um konkrete Vertrags- und Betriebsangaben. Allgemeine Zustimmungserklärungen ersetzen die Beschreibung nicht, wie Leitstelle, Wartung, Finanzierung und örtliche Ansprechpartner am ersten Tag nach dem vorgesehenen Übergang funktionieren sollen. Die Arbeitsgruppe hat die Netzgesellschaft um Teilnahme am technischen Gespräch gebeten, ohne deren Zustimmung zu einer Übertragung vorauszusetzen."
+          ]
+        }
+      ]
+    },
+    {
+      "file": "04_Anlagenexport_20260831.csv",
+      "format": "csv",
+      "columns": ["id", "stand", "gegenstand", "umfang", "land", "eigentuemer", "buchwert_eur", "nutzung", "vertrag_oder_beleg", "vermerk"],
+      "rows": [
+        ["N-01", "2026-08-31", "Mittelspannungsleitungen", "1180 km", "Hessen", "Hessenbogen Netz GmbH", "96000000.00", "Stromnetz", "Anlagenbuch 3100", "Einzelsegmente im GIS; kommunale Wege nicht Eigentum der Gesellschaft"],
+        ["N-02", "2026-08-31", "Niederspannungsleitungen", "2960 km", "Hessen", "Hessenbogen Netz GmbH", "84000000.00", "Stromnetz", "Anlagenbuch 3200", "Dienstbarkeitsverträge nicht mit exportiert"],
+        ["N-03", "2026-08-31", "Umspannwerke", "12 Anlagen", "Hessen", "Hessenbogen Netz GmbH", "52000000.00", "Stromnetz", "Anlagenbuch 3300", "Grundstücke getrennt unter N-05 oder gepachtet"],
+        ["N-04", "2026-08-31", "Ortsnetzstationen", "846 Stationen", "Hessen", "Hessenbogen Netz GmbH", "38000000.00", "Stromnetz", "Anlagenbuch 3400", "Fremde Grundstücke überwiegend durch Verträge gesichert"],
+        ["N-05", "2026-08-31", "Betriebsgrundstücke", "8 Grundstücke", "Hessen", "Hessenbogen Netz GmbH", "12000000.00", "Stromnetz", "Anlagenbuch 1100", "Katasterabgleich angefordert; Flächen nicht Bestandteil dieses Exports"],
+        ["N-06", "2026-08-31", "Leittechnik einschließlich Server", "1 Systemverbund", "Hessen", "Leitwerk Systems GmbH", "0.00", "Stromnetz", "LS-2023-44", "Geleast; Restlaufzeit 31.12.2030; jährliche Vergütung 1800000 EUR"],
+        ["N-07", "2026-08-31", "Glasfaserring", "214 km", "Hessen", "Hessenbogen Netz GmbH", "9000000.00", "Separat vermarktete Telekommunikation", "Anlagenbuch 4100", "Mitnutzung einzelner Trassen; Umsatz getrennt erfasst"],
+        ["N-08", "2026-08-31", "Schaltanlage Werraaue", "1 Anlage", "Thüringen", "Hessenbogen Netz GmbH", "7000000.00", "Stromnetz an Landesgrenze", "Erwerbsvertrag 2014-17", "Wartung durch Hessenbogen; Einspeisung auch nach Hessen"],
+        ["N-09", "2026-08-31", "Fahrzeuge und Werkzeuge", "38 Fahrzeuge und Werkzeugsätze", "Hessen", "Hessenbogen Netz GmbH", "6000000.00", "Stromnetz", "Anlagenbuch 5100", "Fahrzeuglisten im Fuhrpark; zwei Fahrzeuge auch für Glasfaser eingesetzt"],
+        ["N-10", "2026-08-31", "Vermietetes Betriebsgebäude", "1 Gebäude", "Hessen", "Hessenbogen Netz GmbH", "3000000.00", "Vermietung an Dritte", "Mietvertrag 2019-06", "Seit 2019 nicht mehr für Netzbetrieb verwendet"]
+      ]
+    },
+    {
+      "file": "05_Beteiligungen_und_Titelangaben_20260917.pdf",
+      "format": "pdf",
+      "title": "Beteiligungen und Angaben zum Anlagenbestand",
+      "sender": "Hessenbogen Netz GmbH | Hafenweg 6, 35037 Marburg",
+      "recipient": "Dr. Meike Winter | Kommunaler Netzverbund Lahn-Werra GmbH",
+      "date": "17.09.2026",
+      "reference": "HB-N / GF 26-91 | Auskunft der Geschäftsführung",
+      "pages": [
+        {
+          "heading": "1. Gesellschaft und Beteiligungen",
+          "paragraphs": [
+            "Sehr geehrte Frau Dr. Winter, wir bestätigen für die Vorbereitung Ihrer Beratungen den bei uns geführten Beteiligungsstand. Die Hessenbogen Netz GmbH wurde am 6. April 1998 gegründet. Die Rheinstroom Infrastructuur B.V., Kanaalstraat 18, 3511 Utrecht, hält 65 Prozent; die Kommunaler Netzverbund Lahn-Werra GmbH hält 25 Prozent; die Mitarbeiterbeteiligung Hessenbogen eG, Hafenweg 6, 35037 Marburg, hält 10 Prozent. Seit dem Erwerb des kommunalen Pakets im Jahr 2006 hat sich diese Verteilung nicht verändert. Unsere Übersicht ersetzt keine aktuelle notarielle Gesellschafterliste.",
+            "Die niederländische Mehrheitsgesellschafterin hält über eine andere Tochtergesellschaft außerdem Beteiligungen am Energievertrieb. Die Hessenbogen Netz GmbH selbst betreibt das regionale Elektrizitätsverteilernetz mit 142.600 angeschlossenen Kunden. Daneben vermarktet sie den im Anlagenexport bezeichneten Glasfaserring und vermietet ein früheres Betriebsgebäude. Die Erträge dieser Tätigkeiten werden in unserer Buchhaltung getrennt geführt; sie sind jedoch in der Gesellschaft verblieben.",
+            "Die drei Gemeinden Auenbrück, Hohenquell und Lindenried haben uns mitgeteilt, dass ihre Beteiligung am kommunalen Netzverbund jeweils ein Drittel beträgt. Vertragliche Zustimmungserfordernisse bei Änderungen auf Ebene des Netzverbunds ergeben sich nicht aus dieser Auskunft. Für eine Übernahme unserer eigenen Geschäftsanteile wären die Anteilsrechte und die bestehenden gesellschaftsvertraglichen Vereinbarungen gesondert heranzuziehen. Eine Zustimmung der Gesellschafter zu einer solchen Transaktion liegt der Geschäftsführung nicht vor.",
+            "Die Anlagen N-01 bis N-05 und N-09 werden in unserem Anlagenbuch mit zusammen 288 Millionen Euro geführt. Der gesamte exportierte eigene Sachanlagenbestand beträgt 307 Millionen Euro. Die Leittechnik N-06 wird lediglich zur Vollständigkeit des Betriebsbildes aufgeführt; ihr Eigentümer ist Leitwerk Systems GmbH. Der Buchwert von null bedeutet hier nicht, dass das System ohne wirtschaftliche Gegenleistung verfügbar wäre. Die jährliche Vertragsvergütung beträgt 1,8 Millionen Euro."
+          ]
+        },
+        {
+          "heading": "2. Erwerbsgeschichte und Verträge",
+          "paragraphs": [
+            "Ein Teil der Leitungen wurde 1998 aus kommunalen Betrieben erworben. Die damaligen Verträge wurden in mehreren Nachträgen ergänzt. Wir haben die Verwaltungsarchive um Kopien der Grundstücks- und Dienstbarkeitsanlagen gebeten. Für acht im Anlagenbuch enthaltene Betriebsgrundstücke wird gegenwärtig ein Abgleich mit den Grundbuchunterlagen vorgenommen. Bei den übrigen Stationen bestehen überwiegend Nutzungsverträge auf fremden Flächen. Der kaufmännische Export lässt daraus keine vollständige dingliche Rechtslage erkennen.",
+            "Die Schaltanlage Werraaue N-08 liegt in Thüringen und wurde 2014 gesondert erworben. Sie unterstützt auch die Versorgung des hessischen Netzgebiets. Der Glasfaserring N-07 nutzt einzelne gemeinsame Trassen, wird aber als eigenes Produkt vermarktet. Das Gebäude N-10 ist seit 2019 vollständig an einen regionalen Logistikdienstleister vermietet. Eine bereits durchgeführte rechtliche Abtrennung dieser Vermögenspositionen können wir nicht bestätigen.",
+            "Mit den drei Gemeinden bestehen nach unserer Vertragsübersicht Wegenutzungsverträge bis zum 31. Dezember 2034. Die Verträge sind mit Hessenbogen geschlossen, nicht mit Rheinstroom oder dem kommunalen Netzverbund. Die vollständigen Vertragstexte werden von den jeweiligen Gemeindeämtern und unserer Rechtsabteilung verwahrt. Diese Übersicht enthält weder eine Zustimmung zu einem Betreiberwechsel noch eine Vereinbarung über die Fortführung durch eine neue Anstalt.",
+            "Die Finanzabteilung weist zum 31. August 2026 Finanzverbindlichkeiten von 140 Millionen Euro und liquide Mittel von 14 Millionen Euro aus. Daraus errechnet sie eine Nettoverschuldung von 126 Millionen Euro. Ob und zu welchen Kosten Kredite vorzeitig abgelöst werden könnten, ist dieser Übersicht nicht zu entnehmen. Die Kreditgeber wurden um Benennung ihrer Zustimmungsvorbehalte bei Anlagenveräußerung und Kontrollwechsel gebeten. Bisher wurde keine Schuldübernahme erklärt.",
+            "Mit freundlichen Grüßen\nSabine Brandt\nGeschäftsführerin\nsabine.brandt@hessenbogen-netz.example"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "06_Stellungnahme_Eigentuemer_20260921.pdf",
+      "format": "pdf",
+      "title": "Stellungnahme zur Arbeitsfassung Energienetze",
+      "sender": "Hessenbogen Netz GmbH | Geschäftsführung",
+      "recipient": "Parlamentarische Arbeitsgruppe Energienetze | Geschäftsstelle",
+      "date": "21.09.2026",
+      "reference": "HB-N / GF 26-95 | Ihre Fassung vom 14.09.2026",
+      "pages": [
+        {
+          "heading": "1. Position der Gesellschaft",
+          "paragraphs": [
+            "Die Hessenbogen Netz GmbH lehnt die vorgesehene Übertragung ihrer Anlagen in der vorliegenden Form ab. Die Arbeitsfassung benennt wirtschaftliche Erwartungen, erklärt aber nicht hinreichend, weshalb gerade unser Unternehmen die behaupteten strukturellen Probleme verursachen soll. Die Lieferzeit der neuen Schaltfelder beträgt inzwischen bis zu 22 Monate. Ein anderer Eigentümer beseitigt diese Engpässe nicht. Wir erwarten, dass die tatsächlichen Ursachen der verzögerten Anschlüsse erhoben werden, bevor unsere Investitionstätigkeit pauschal als renditebedingt unzureichend bezeichnet wird.",
+            "Unsere Geschäftsführung hat für die Jahre 2027 bis 2032 ein Erneuerungsprogramm von 52 Millionen Euro vorbereitet. Darüber haben die Gesellschafter noch nicht abschließend beschlossen. Wir erkennen die Notwendigkeit dieser Maßnahmen an. Die kommunalen Vertreter haben jedoch ebenfalls verlangt, dass die Durchführung auf die verfügbaren Fachkräfte abgestimmt wird. Die jetzige Debatte darf diese gemeinsamen Beratungen nicht so darstellen, als hätten allein private Eigentümer notwendige Maßnahmen verhindert.",
+            "Die Gesellschaft wurde 1998 gegründet. Ihre Vermögenswerte stammen aus kommunalen Übertragungen, späteren Zukäufen und eigenen Investitionen. Die Aussage aus dem Fachgespräch, unsere heutigen Netze seien wegen Artikel 41 der Hessischen Verfassung schon immer öffentlich gewesen, weisen wir zurück. Eine solche Behauptung beeinträchtigt unsere laufenden Finanzierungsgespräche. Wir bitten die Arbeitsgruppe, die Aussage nicht erneut ohne konkrete Unterlagen zu verbreiten.",
+            "Die Auswahlgrenze von 100.000 Kunden erscheint uns auf das bekannte Unternehmensbild zugeschnitten. Eine landesweite Bestandsaufnahme liegt uns nicht vor. Zudem betrifft die geplante Umgestaltung nicht nur die niederländische Mehrheit, sondern mittelbar auch die kommunale Beteiligung und die Mitarbeitergenossenschaft. Die Geschäftsführung spricht in diesem Schreiben für die Gesellschaft. Individuelle Erklärungen der Gesellschafter zu einem möglichen Anteilseingriff bleiben diesen vorbehalten."
+          ]
+        },
+        {
+          "heading": "2. Bewertung und Fortführung",
+          "paragraphs": [
+            "Für die Diskussion einer vollständigen Anteilsübernahme hat unsere Finanzabteilung einen indikativ ermittelten Unternehmensgesamtwert von 410 Millionen Euro vorgelegt. Nach Abzug der Nettoverschuldung von 126 Millionen Euro ergibt sich daraus ein Eigenkapitalwert von 284 Millionen Euro. Diese Überleitung betrifft sämtliche Tätigkeiten der Gesellschaft. Sie ist kein gesondertes Wertgutachten über allein die hessischen Anlagen N-01 bis N-05 und N-09. Für deren Übertragung haben wir noch kein verbindliches Preisangebot abgegeben.",
+            "Wir verlangen für einen erzwungenen Rechtsverlust einen vollständigen wirtschaftlichen Ausgleich. Die von der Arbeitsgruppe genannten 210 Millionen Euro sind weder verhandelt noch von uns anerkannt. Dieser Betrag darf nicht als Unternehmenswert oder vereinbarte Abgeltung in der Öffentlichkeit verwendet werden. Bei einer Übertragung wesentlicher Anlagen blieben Kreditverträge zunächst bei der Gesellschaft, solange die Kreditgeber keiner anderen Lösung zustimmen. Der hierfür erforderliche Aufwand ist in der vorliegenden Arbeitsfassung nicht abgebildet.",
+            "Die Leittechnik gehört Leitwerk Systems GmbH. Der laufende Vertrag sieht Leistungen für Hessenbogen vor und endet regulär am 31. Dezember 2030. Eine neue Anstalt kann nicht allein mit unserer bisherigen Nutzerkennung arbeiten. Aus Sicht der Geschäftsführung ist eine Übergangsplanung ohne diesen Dienstleister nicht belastbar. Wir werden die vertraglich geschuldeten Auskünfte erteilen, stimmen aber keinem unbeschränkten Zugriff auf sämtliche Unternehmensdaten zu.",
+            "Unsere Gesellschafterin Rheinstroom hat auf ihre grenzüberschreitende Investition hingewiesen. Die Beteiligung wurde nicht als zeitlich befristetes Engagement vereinbart. Eine pauschale Erklärung, europäisches Recht berühre die Eigentumsfrage nicht, genügt uns daher nicht. Wir erwarten, dass die Arbeitsgruppe den Umfang eines möglichen Anteilseingriffs und die Behandlung der nicht ausschließlich hessischen Tätigkeiten konkretisiert.",
+            "Wir bieten ein technisches Gespräch zur Versorgungssicherheit an, ohne damit der Übertragung zuzustimmen. Eine verbindliche Bewertung benötigt zunächst einen feststehenden Gegenstand und einen Stichtag. Bitte teilen Sie mit, welche Unterlagen hierzu noch benötigt werden und wer Zugang erhalten soll.\nSabine Brandt, Geschäftsführerin\nsabine.brandt@hessenbogen-netz.example"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "07_Betriebskonzept_Netzservice_20260922.docx",
+      "format": "docx",
+      "title": "Betriebskonzept für einen gemeinwirtschaftlichen Netzverbund",
+      "sender": "Lahn-Werra Netzservice GmbH | Werkstraße 4, 35041 Marburg",
+      "recipient": "Kommunaler Netzverbund Lahn-Werra GmbH",
+      "date": "22.09.2026",
+      "reference": "NS-26-18 | Karin Voigt, technische Geschäftsführung",
+      "pages": [
+        {
+          "heading": "1. Betriebsumfang und Personal",
+          "paragraphs": [
+            "Wir können im Auftrag eines künftigen Trägers Wartung, Entstörung und Baukoordination im vorhandenen hessischen Netzgebiet übernehmen. Unser Unternehmen ist eine hundertprozentige Tochter des kommunalen Netzverbunds. Es beschäftigt 48 Personen und betreibt Werkstatt und Bereitschaftsdienst, aber keine eigene zentrale Netzleitstelle. Der Auftrag würde daher eine klare Schnittstelle zur bisherigen Leitstelle und zu deren Dienstleister voraussetzen.",
+            "Im ersten Betriebsjahr sollen zwei Bereitschaftsteams parallel fahren. Die vorhandenen 38 Fahrzeuge können nach technischer Prüfung eingesetzt werden; zwei davon werden bislang zugleich im Glasfaserbereich genutzt. Eine vollständige Trennung der Fahrzeugdisposition ist mit den bisherigen Verantwortlichen abzustimmen. Im Werkstattbereich fehlen derzeit sechs Monteurstellen. Wir rechnen nicht damit, diese allein durch einen Eigentümerwechsel sofort besetzen zu können.",
+            "Für die Erneuerung der Umspannwerke und Ortsnetzstationen übernehmen wir zunächst den von Hessenbogen beschriebenen Programmumfang von 52 Millionen Euro bis Ende 2032 als Arbeitsannahme. Wir haben diese Summe noch nicht durch eigene Einzelkalkulation bestätigt. Vorrang haben die Stationen mit dokumentierten Ersatzteilproblemen. Eine öffentliche Rangfolge der Maßnahmen sollte jährlich erläutert werden; Sicherheitsdetails und einzelne Zugangsdaten gehören nicht in eine allgemein zugängliche Veröffentlichung.",
+            "Der Betrieb muss am Übergangstag ohne Unterbrechung weitergeführt werden. Wir schlagen vor, mindestens sechs Monate zuvor einen gemeinsamen Bereitschaftsplan zu erproben. Die Verantwortung für Schalthandlungen bleibt bis zum vereinbarten Wechsel bei Hessenbogen. Eine bloße Übernahme von Benutzerkennungen lehnen wir ab. Der Dienstleister soll einen getrennten Mandantenbereich und eine technische Abnahme vorbereiten.",
+            "Die Arbeitsgruppe nennt für den Verwaltungsrat neun Sitze. Wir halten eigene kommunale Vorschlagsrechte für erforderlich. Die Gemeinden müssen bei örtlichen Prioritäten mitwirken können, dürfen aber keine Einzelanweisungen zu sicherheitsrelevanten Schalthandlungen erteilen. Die Beschäftigtenvertretung soll an der langfristigen Personalplanung beteiligt werden. Die operative technische Verantwortung muss eindeutig bei der Betriebsführung bleiben."
+          ]
+        },
+        {
+          "heading": "2. Investitionen und wirtschaftliche Bedingungen",
+          "paragraphs": [
+            "Eine feste jährliche Abführung von acht Millionen Euro an den Landeshaushalt ab dem dritten Jahr tragen wir in der jetzigen Form nicht mit. Solange Ersatzinvestitionen und eine angemessene Störungsreserve nicht gedeckt sind, würden solche Abführungen dieselben Prioritätskonflikte erzeugen, die mit der Neuordnung gerade beendet werden sollen. Wir schlagen eine Entscheidung über die Verwendung verbleibender Überschüsse erst nach dem jährlichen Investitionsbericht vor.",
+            "Für die Vorbereitung kalkulieren wir insgesamt acht Millionen Euro Übergangskosten. Darin sind drei Millionen Euro für die technische und organisatorische Trennung, zwei Millionen Euro für Personalqualifikation und Bereitschaftserprobung sowie drei Millionen Euro für Vertragsumstellung, Inventur und externe Begleitung angesetzt. Die Beträge sind Planansätze und keine beauftragten Leistungen. Die IT-Nachricht vom Dienstleister muss mit diesem Ansatz abgeglichen werden, sobald sie vorliegt.",
+            "Zusätzlich sollen zehn Millionen Euro Betriebsmittel und Störungsreserve bereitstehen. Diese Summe ist nicht Teil des Investitionsprogramms von 52 Millionen Euro. Unser Unternehmen kann eine solche Liquidität nicht aus dem laufenden Wartungsgeschäft bereitstellen. Der Netzverbund hat noch keinen Kapitalzuführungsbeschluss gefasst. Eine unbegrenzte Verlustabdeckung der drei Gemeinden ist in den Gesprächen ausdrücklich abgelehnt worden.",
+            "Die in der Arbeitsfassung angesprochene Fortsetzung der Wegenutzungsverträge muss mit jeder Gemeinde und dem bisherigen Vertragspartner abgestimmt werden. Unser Konzept enthält keine Zusage, dass ein Wechsel ohne weiteres Vertragsverfahren möglich ist. Wir möchten zudem nicht den Stromvertrieb der Rheinstroom-Gruppe übernehmen. Netzbetrieb und Verkauf von Strom sollen organisatorisch getrennt bleiben; die künftige Aufgabenverteilung muss vor einer Beauftragung schriftlich feststehen.",
+            "Ein Start zum 1. Januar 2028 ist technisch nur dann erreichbar, wenn die grundlegende Variante spätestens im ersten Quartal 2027 feststeht und Leitwerk bis dahin eingebunden ist. Andernfalls verschieben sich Ausschreibungen, Personalplanung und Probebetrieb. Wir bitten den Netzverbund, unsere Beteiligung an weiteren Gesprächen nicht als vorbehaltlose Übernahmezusage zu behandeln.\nKarin Voigt\nkarin.voigt@lahn-werra-netzservice.example"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "08_Finanzplanung_20260923.csv",
+      "format": "csv",
+      "columns": ["gruppe", "position", "betrag_eur", "stichtag", "status", "bezug", "bemerkung"],
+      "rows": [
+        ["Bewertung", "Unternehmensgesamtwert", "410000000.00", "2026-08-31", "Indikation Eigentümer", "Gesamte Hessenbogen Netz GmbH", "Kein gesonderter Wert des hessischen Anlagenpakets"],
+        ["Bewertung", "Finanzverbindlichkeiten", "140000000.00", "2026-08-31", "Auskunft Finanzabteilung", "Gesamte Gesellschaft", "Ablösebedingungen noch nicht angefordert"],
+        ["Bewertung", "Liquide Mittel", "14000000.00", "2026-08-31", "Auskunft Finanzabteilung", "Gesamte Gesellschaft", "Nicht als freie Mittel des neuen Trägers zugesagt"],
+        ["Bewertung", "Nettoverschuldung", "126000000.00", "2026-08-31", "Überleitung Finanzabteilung", "Gesamte Gesellschaft", "140 Millionen abzüglich 14 Millionen"],
+        ["Bewertung", "Eigenkapitalwert", "284000000.00", "2026-08-31", "Indikation Eigentümer", "Alle Geschäftsanteile", "410 Millionen abzüglich Nettoverschuldung"],
+        ["Bewertung", "Buchwert Anlagenweg", "288000000.00", "2026-08-31", "Anlagenexport", "N-01 bis N-05 und N-09", "Kein Verkehrswertgutachten"],
+        ["Verwendung", "Ausgleich Anlagenweg", "210000000.00", "2026-09-23", "Politischer Arbeitsansatz", "N-01 bis N-05 und N-09", "Nicht mit Eigentümerin vereinbart"],
+        ["Verwendung", "Investitionen bis 2032", "52000000.00", "2026-09-23", "Betriebskonzept", "Netzerneuerung", "Noch keine Einzelaufträge"],
+        ["Verwendung", "Übergangskosten", "8000000.00", "2026-09-23", "Betriebskonzept", "Technik Personal Verträge", "Dienstleisterangebot noch abzugleichen"],
+        ["Verwendung", "Betriebsmittel und Reserve", "10000000.00", "2026-09-23", "Betriebskonzept", "Liquidität neuer Träger", "Nicht im Investitionsprogramm enthalten"],
+        ["Mittel", "Eigenmittel Land", "60000000.00", "2026-09-23", "Angefragt", "Neuer Träger", "Kein Haushaltsbeschluss vorgelegt"],
+        ["Mittel", "Bankdarlehen", "180000000.00", "2026-09-23", "Angebot angekündigt", "Neuer Träger", "Landesgarantie und weitere Bedingungen erwartet"],
+        ["Mittel", "Infrastrukturanleihe", "40000000.00", "2026-09-23", "Interessenbekundung", "Neuer Träger", "Keine Zeichnungsvereinbarung"],
+        ["Laufend", "Haushaltsabführung ab Jahr 3", "8000000.00", "2026-09-23", "Politischer Vorschlag", "Jährliche Auszahlung", "Vom Netzservice abgelehnt; keine Finanzierung der Übernahme"],
+        ["Laufend", "Vergütung Leitwerk", "1800000.00", "2026-08-31", "Bestehender Vertrag Hessenbogen", "Jährliche Betriebsleistung", "Im bisherigen laufenden Aufwand enthalten"]
+      ]
+    },
+    {
+      "file": "09_Finanzierungsindikation_20260924.pdf",
+      "format": "pdf",
+      "title": "Finanzierungsindikation für das regionale Netzvorhaben",
+      "sender": "Werratal Infrastrukturfinanzierung AG | Bankstraße 12, 60311 Frankfurt am Main",
+      "recipient": "Dr. Meike Winter | Kommunaler Netzverbund Lahn-Werra GmbH",
+      "date": "24.09.2026",
+      "reference": "WIF / Infrastruktur 26-204 | unverbindliche Indikation",
+      "pages": [
+        {
+          "heading": "1. Angefragter Finanzierungsrahmen",
+          "paragraphs": [
+            "Sehr geehrte Frau Dr. Winter, auf Grundlage Ihres Gesprächs mit unserer Infrastrukturabteilung stellen wir ein mögliches Darlehen von bis zu 180 Millionen Euro für den noch zu errichtenden Netzträger in Aussicht. Diese Indikation ist kein Kreditvertrag und keine verbindliche Zusage. Sie steht unter Gremien-, Dokumentations- und Prüfungsvorbehalt. Als Kreditnehmer kommt nur ein handlungsfähiger Träger mit nachgewiesenen Rechten an den zu finanzierenden Anlagen in Betracht.",
+            "Unsere vorläufige Kalkulation geht von einer Laufzeit von 25 Jahren und einer vollständigen Garantie des Landes Hessen für Kapital und vertragliche Zinsen aus. Als unverbindlichen Rechenzins verwenden wir 4,2 Prozent jährlich. Konditionen können erst nach Festlegung von Auszahlung, Sicherheiten, Tilgung und Garantieentgelt verbindlich angeboten werden. Ein verbindliches Garantieangebot des Landes liegt uns nicht vor.",
+            "Vor einer Auszahlung sind 60 Millionen Euro Eigenmittel nachzuweisen. Die ebenfalls angesprochenen 40 Millionen Euro aus einer Infrastrukturanleihe müssen verbindlich gezeichnet oder durch andere gesicherte Mittel ersetzt sein. Die Beträge dienen in unserer Betrachtung der gesamten Mittelverwendung, nicht allein einer Zahlung an die bisherige Eigentümerin. Wir haben bislang nur die Variante mit 210 Millionen Euro Ausgleich für das hessische Anlagenpaket betrachtet.",
+            "Eine Finanzierung des Erwerbs sämtlicher Geschäftsanteile ist nicht Gegenstand dieser Indikation. Für diese Variante wären Unternehmensbewertung, vorhandene Finanzverbindlichkeiten, Kontrollwechselklauseln und mögliche Ablösungen neu zu prüfen. Ebenso setzen wir nicht voraus, dass bestehende Verbindlichkeiten der Hessenbogen Netz GmbH durch eine gesetzliche Anlagenübertragung automatisch auf unseren späteren Kreditnehmer übergehen.",
+            "Wir erwarten vor Abschluss einen belastbaren Investitions- und Liquiditätsplan sowie die Nachweise über Betriebsführung und Wegenutzung. Der technische Dienstleister muss die Fortführung der Leitstelle für den vorgesehenen Zeitraum vertraglich absichern. Sollten öffentliche Zusagen vor Auszahlung weitere rechtliche Voraussetzungen erfüllen müssen, sind diese in den Kreditunterlagen als Auszahlungsvoraussetzungen abzubilden. Diese Indikation enthält hierzu keine rechtliche Freigabe.",
+            "Für die weitere Bearbeitung bitten wir bis zum 16. Oktober um die abgestimmte Übertragungsvariante und eine Benennung der Verhandlungspartner auf Landesebene. Wir werden erst danach über eine Vorlage an unser Kreditgremium entscheiden.\nMit freundlichen Grüßen\nJohannes Falk\nLeiter Infrastrukturfinanzierung\njohannes.falk@werratal-finanzierung.example"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "10_Gespraechsnotiz_20260903.txt",
+      "format": "txt",
+      "title": "Gesprächsnotiz zur regionalen Netzbewirtschaftung",
+      "date": "03.09.2026",
+      "paragraphs": [
+        "Kommunaler Netzverbund Lahn-Werra GmbH\nUferstraße 18, 35037 Marburg\nAufzeichnung: Dr. Meike Winter\nGespräch am 03.09.2026, 14:00 bis 16:10 Uhr\nTeilnehmende: Meike Winter, Martin Riemer, Sabine Brandt, Karin Voigt, Elena Berg (Mitarbeiterbeteiligung Hessenbogen eG)",
+        "1. Anlass\nHerr Riemer erläutert die Absicht, bis Mitte September eine Arbeitsfassung zur gemeinwirtschaftlichen Organisation der regionalen Stromnetze vorzulegen. Ein Beschluss über die Einbringung liegt noch nicht vor. Frau Winter bittet darum, die kommunalen Gesellschafter vor öffentlichen Aussagen zu ihrer Beteiligung zu informieren. Die Presseanfrage vom Vortag soll nur mit dem Hinweis auf laufende Gespräche beantwortet werden.",
+        "2. Betriebsalltag\nFrau Voigt berichtet, dass der für die Bäckerei in Steinbach vorgesehene Anschluss wegen eines nicht gelieferten Schaltfelds erneut verschoben wurde. Frau Brandt nennt eine Lieferzeit von bis zu 22 Monaten und verweist auf vergleichbare Schwierigkeiten anderer Netzbetreiber. Herr Riemer fragt, ob höhere Investitionsmittel den Rückstand verhindern könnten. Frau Brandt bejaht zusätzlichen Bedarf, bestreitet aber, dass mehr Geld allein die Lieferzeiten und unbesetzten Stellen beseitigt.",
+        "3. Gegenstand\nHerr Riemer bevorzugt zunächst den Übergang der hessischen Anlagen. Er hält alternativ den Erwerb sämtlicher Gesellschaftsanteile für administrativ leichter, weil Verträge dann nicht einzeln neu gefasst werden müssten. Frau Winter erklärt, dass die Gemeinden ihre 25-Prozent-Beteiligung nicht ohne gesonderte Entscheidung aufgeben werden. Frau Berg weist auf die private Finanzierung der Mitarbeiteranteile hin. Ihre Genossenschaft habe weder einem Verkauf zugestimmt noch eine Preisvorstellung beschlossen.",
+        "4. Hessenbezug\nHerr Riemer verweist auf die Nennung der Energiewirtschaft in Artikel 41 der Hessischen Verfassung. Er bezeichnet die Neuordnung als Anknüpfung an einen alten politischen Auftrag. Frau Brandt entgegnet, die Gesellschaft existiere erst seit 1998 und habe ihre Anlagen bezahlt. Herr Riemer antwortet, die kommunalen Vorgängerbetriebe müssten gleichwohl betrachtet werden. Frau Winter übernimmt es, nach den Erwerbsverträgen aus dem Jahr 1998 zu fragen. Eine rechtliche Einigung wird nicht festgehalten.",
+        "5. Geld und Verantwortung\nAls erste Größenordnung nennt Herr Riemer 210 Millionen Euro für den Anlagenübergang. Frau Brandt lehnt es ab, daraus einen vereinbarten Preis abzuleiten. Sie kündigt eine schriftliche Überleitung von Unternehmenswert zu Eigenkapitalwert an. Frau Voigt beziffert den bekannten Erneuerungsbedarf vorläufig mit 52 Millionen Euro bis 2032. Ein zusätzlicher Liquiditätspuffer sei nötig. Frau Winter betont, dass die Gemeinden keine unbeschränkte Verlustübernahme anbieten.",
+        "6. Organisation\nEs wird ein Verwaltungsrat mit je drei Sitzen für Land, Kommunen und Beschäftigte diskutiert. Herr Riemer hält eine spätere Abführung an den Landeshaushalt für politisch hilfreich. Frau Voigt widerspricht einer festen jährlichen Zahlung unabhängig vom Zustand des Netzes. Frau Berg verlangt ein Mitspracherecht bei Personalplanung und Arbeitsbedingungen, möchte aber keine Verantwortung für einzelne Schalthandlungen auf den Verwaltungsrat verlagern.",
+        "7. Vereinbarte Beiträge\nDie Arbeitsgruppe sendet ihre Fassung bis zum 15. September. Hessenbogen liefert einen Anlagenexport und eine Beteiligungsübersicht. Der Netzservice beschreibt mögliche Wartungs- und Übergangsleistungen. Frau Winter lässt eine erste Finanzierungstabelle erstellen und fragt eine Bank an. Frau Brandt spricht den Leittechnik-Dienstleister auf die Bedingungen eines Betreiberwechsels an. Keiner der Teilnehmenden erklärt eine verbindliche Zustimmung zur Übertragung; die Beiträge dienen der Vorbereitung weiterer Beratungen.",
+        "8. Versand\nDie Notiz wurde am 04.09.2026 an die Teilnehmenden zur Kenntnis gesendet. Frau Brandt bat am selben Tag telefonisch, die Aussage zu den 210 Millionen ausdrücklich nicht als Verhandlungsangebot zu verstehen. Dieser Hinweis ist in Abschnitt 5 berücksichtigt. Weitere Korrekturen wurden bis zum 08.09.2026 nicht übermittelt.\nMeike Winter\nmeike.winter@netzverbund-lahn-werra.example"
+      ]
+    },
+    {
+      "file": "11_Leitwerk_Uebergang_20260925.eml",
+      "format": "eml",
+      "from": "Daniel Körner <daniel.koerner@leitwerk-systems.example>",
+      "to": "Karin Voigt <karin.voigt@lahn-werra-netzservice.example>",
+      "cc": "Sabine Brandt <sabine.brandt@hessenbogen-netz.example>",
+      "date": "2026-09-25T15:46:00+02:00",
+      "message_id": "ls-2023-44-20260925@leitwerk-systems.example",
+      "subject": "LS-2023-44 / Vorbereitung eines getrennten Betreiberzugangs",
+      "paragraphs": [
+        "Sehr geehrte Frau Voigt,",
+        "Frau Brandt hat uns erlaubt, mit Ihnen über eine mögliche technische Übergangsplanung zu sprechen. Unser laufender Vertrag LS-2023-44 besteht weiterhin ausschließlich mit der Hessenbogen Netz GmbH. Er endet regulär am 31. Dezember 2030. Die jährliche Vergütung von 1,8 Millionen Euro umfasst die bereitgestellte Leittechnik, Wartung, vereinbarte Systemupdates und den technischen Bereitschaftsdienst. Sie ist keine Kaufpreisrate für die Server.",
+        "Die Hardware steht an den Betriebsstandorten von Hessenbogen, verbleibt aber bis zu einer gesonderten Vereinbarung in unserem Eigentum. Für einen neuen Betreiber benötigen wir eine vertragliche Grundlage und einen eigenständigen Berechtigungsbereich. Wir werden nicht allein aufgrund eines neuen Briefkopfs die bisherigen Administratorkennungen umschreiben. Insbesondere muss feststehen, wer bis zu welchem Zeitpunkt Schalthandlungen freigibt und wer bei einer Störung weisungsbefugt ist.",
+        "Technisch können wir Anlagenkennungen, Topologie und protokollierte Störungsmeldungen in einen gesonderten Bereich überführen. Ein vollständiger Export des gesamten Unternehmensarchivs ist dafür nicht erforderlich. Personalakten, Entgeltunterlagen und Vertriebsdaten werden von unserem Leitsystem nicht für die Betriebsübergabe benötigt. Die Liste der erforderlichen Nutzer und Rollen ist von beiden Betreiberorganisationen gemeinsam freizugeben. Eine Zustimmung hierzu liegt uns bisher nicht vor.",
+        "Für Trennung, Probebetrieb und Abnahme veranschlagen wir vorläufig 2,4 Millionen Euro einmalig. Nach unserem Verständnis gehört dieser Betrag in den technischen Teil des von Ihnen genannten Übergangsbudgets, nicht zusätzlich in die jährliche Vertragsvergütung. Die Schätzung beruht auf einem unveränderten Anlagenumfang in Hessen. Bei Einbeziehung der Thüringer Schaltanlage oder bei einer vorherigen Trennung des Glasfasernetzes müssten wir den Aufwand neu kalkulieren.",
+        "Wir benötigen ab verbindlicher Beauftragung neun Monate bis zur gemeinsamen Abnahme. Damit ein Start zum 1. Januar 2028 erreichbar bleibt, erwarten wir bis spätestens Ende März 2027 eine Entscheidung über Betreiber, Umfang und Vertragspartner. Das ist unser technischer Planungstermin, keine gesetzliche Frist. Wir haben noch keine Kapazitäten verbindlich reserviert. Bitte behandeln Sie diese Nachricht als Planungsbeitrag und nicht als Bereitschaft zur sofortigen Freischaltung.",
+        "Mit freundlichen Grüßen\nDaniel Körner\nProjektleitung Netzsysteme\nLeitwerk Systems GmbH\nTechnikstraße 21, 34123 Kassel\ndaniel.koerner@leitwerk-systems.example"
+      ]
+    }
+  ]
+}

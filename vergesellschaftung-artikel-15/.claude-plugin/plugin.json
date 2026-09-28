@@ -1,0 +1,18 @@
+{
+  "name": "vergesellschaftung-artikel-15",
+  "version": "445.11.0",
+  "description": "Vergesellschaftung nach Artikel 15 GG: Gegenstände und Anteile, Landeskompetenz und Hessenrecht, gemeinwirtschaftliche Trägerschaft, Gesetzesentwurf, Entschädigung, Energienetze, Unionsrecht und Rechtsschutz aus der konkreten Akte bearbeiten.",
+  "author": {
+    "name": "Klotzkette",
+    "email": "39582916+Klotzkette@users.noreply.github.com"
+  },
+  "license": "Apache-2.0 OR MIT",
+  "keywords": [
+    "vergesellschaftung",
+    "artikel-15",
+    "hessen",
+    "energienetze",
+    "gemeinwirtschaft",
+    "entschaedigung"
+  ]
+}
