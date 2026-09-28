@@ -1,3 +1,7 @@
+# v445.9.1 - Reproduzierbarer Release-Abgleich
+
+Die automatisch erzeugte Vollprüfung der Versandwerkstatt ist mit den zehn überarbeiteten Skills abgeglichen. Damit stimmen Einzel-Skills, eigenständige Prompts und Sammelfassung bei Originalschutz, Formroute und Anlagenzuordnung überein. Der vorgelagerte Tag v445.9.0 bleibt erhalten; sein Entwurfsrelease wurde vor Veröffentlichung angehalten. Diese Fassung veröffentlicht die nachfolgend beschriebenen Neuerungen mit vollständig nachgezogenen Ausgabedateien.
+
 # v445.9.0 - FinTech-Verfahrensakte und sichere Versandproduktion
 
 ## 1. Grenzüberschreitender Darlehensprozess

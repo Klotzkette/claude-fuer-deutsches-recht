@@ -1,6 +1,6 @@
 # arbeitsrecht
 
-**100 Skills** · Stand `v445.9.0`
+**100 Skills** · Stand `v445.9.1`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../arbeitsrecht/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

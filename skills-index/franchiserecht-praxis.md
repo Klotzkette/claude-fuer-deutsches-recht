@@ -1,6 +1,6 @@
 # franchiserecht-praxis
 
-**123 Skills** · Stand `v445.9.0`
+**123 Skills** · Stand `v445.9.1`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../franchiserecht-praxis/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
