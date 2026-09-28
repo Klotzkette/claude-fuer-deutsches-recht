@@ -1,6 +1,6 @@
 {
   "name": "wirtschaftsanwalt",
-  "version": "445.4.0",
+  "version": "445.10.1",
   "description": "Laufende Unternehmensberatung im Mittelstand: zehn ausfuehrende Skills verbinden Vertrags-, Personal-, Gesellschafts-, Daten- und Liquiditaetsfragen mit konkreten Geschaeftsentscheidungen und fertigen Dokumenten.",
   "author": {
     "name": "Klotzkette",
@@ -14,8 +14,13 @@
     "longDescription": "Zehn Arbeitswege verbinden Vertrags-, Personal-, Gesellschafts-, Daten- und Liquiditaetsfragen im laufenden Unternehmensmandat.",
     "developerName": "Klotzkette",
     "category": "Productivity",
-    "capabilities": ["Interactive", "Write"],
-    "defaultPrompt": ["Bearbeiten Sie unsere Unternehmensentscheidung bis zum benoetigten Dokument."]
+    "capabilities": [
+      "Interactive",
+      "Write"
+    ],
+    "defaultPrompt": [
+      "Bearbeiten Sie unsere Unternehmensentscheidung bis zum benoetigten Dokument."
+    ]
   },
   "keywords": [
     "wirtschaftsanwalt",

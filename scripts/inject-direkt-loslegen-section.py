@@ -12,6 +12,8 @@ import json
 import re
 from os.path import relpath
 from pathlib import Path
+
+from prompt_profiles import enabled, formats
 from urllib.parse import quote
 
 from testakte_zip_common import working_dump_flat_pairs
@@ -256,9 +258,10 @@ def navigation(plugin_name: str, directory: Path) -> str:
     detail = relative_link(directory, REPO / "skills-index" / f"{plugin_name}.md")
     assets = relative_link(directory, REPO / "ASSET_INDEX.md")
     testakten = relative_link(directory, TESTAKTEN_DIR / "README.md")
+    entry_link = "[30-Sekunden-Start](#in-30-sekunden-starten)" if enabled(plugin_name, "schnellstart") else "[Werkstatt verwenden](#werkstatt-verwenden)"
     return (
         "Direktnavigation: "
-        "[30-Sekunden-Start](#in-30-sekunden-starten) · "
+        f"{entry_link} · "
         f"[Startseite]({root}) · "
         f"[Plugin-Katalog]({root}#was-ist-drin) · "
         f"[Skill-Gesamtübersicht]({skills}) · "
@@ -328,6 +331,13 @@ def first_product(directory: Path, plugin_name: str) -> str:
 
 
 def quickstart_section(plugin_name: str, directory: Path) -> str:
+    if not enabled(plugin_name, "schnellstart"):
+        detail = relative_link(directory, REPO / "skills-index" / f"{plugin_name}.md")
+        return f"""## Werkstatt verwenden
+
+Bei installiertem Plugin den Skill aus der [Skill-Liste]({detail}) mit dem konkreten Auftrag und den zugehörigen Unterlagen verwenden.
+
+Ohne Installation den vollständigen Werkstatt-Prompt unten als MD oder TXT herunterladen und mit den benötigten Unterlagen bereitstellen. Beide Dateien enthalten denselben Arbeitsablauf; eine davon genügt. Die Bedienung und Fortsetzung richten sich nach diesem Werkstatt-Prompt."""
     title = readme_title(directory, plugin_name)
     product = first_product(directory, plugin_name)
     detail = relative_link(directory, REPO / "skills-index" / f"{plugin_name}.md")
@@ -472,13 +482,16 @@ def block(plugin: dict, directory: Path, akten_slugs: list[str], marketplace_cou
     quickstart = quickstart_section(plugin_name, directory)
     skill_note = "Die Skill-Liste bildet den Quellbestand ab. Im installierten Paket werden umfangreiche Spezialserien teilweise über einen Fachrouter bei Bedarf geladen und erscheinen dann nicht als eigene auswählbare Skills. Beim manuellen Einsatz eines einzelnen Skills müssen zusätzlich benötigte Referenzen oder Werkzeuge verfügbar sein."
     skill_note_en = "The skill index lists the source collection. In the installed package, some specialist series are accessed through a topic router rather than separate menu entries. A standalone skill may need additional reference files or tools. Choose one entry point, then add only what the matter requires."
+    if not enabled(plugin_name, "schnellstart") and len(list((directory / "skills").glob("*/SKILL.md"))) == 1:
+        skill_note = "Das Plugin enthält genau einen unmittelbar installierten Skill. Der Werkstatt-Prompt ist derselbe eigenständig nutzbare Arbeitsablauf als separater Download; MD und TXT enthalten denselben Text. Benötigte Referenzen oder Werkzeuge müssen beim manuellen Einsatz zusätzlich verfügbar sein."
+        skill_note_en = "The plugin contains exactly one directly installed skill. The separate workshop download provides the same standalone workflow; MD and TXT contain identical text. Required references or tools must also be available when used manually."
     if plugin_name in {"vertragserstellung", "wirtschaftsanwalt"}:
         skill_note = "Alle zehn Skills sind im Plugin unmittelbar enthalten. Der Hauptskill bearbeitet den Auftrag selbst; die übrigen Skills vertiefen konkrete Teilfragen. Bei einem einzelnen Skill-Download müssen seine verlinkten Referenzen zusätzlich verfügbar sein."
         skill_note_en = "All ten skills are included directly in the plugin. The main skill carries out the assignment; the others address specific issues. A downloaded individual skill also needs its linked references."
     elif plugin_name == "bauwirtschaft":
         skill_note = "Alle 29 Skills sind im Plugin unmittelbar enthalten: zwanzig für konkrete Projektaufgaben und neun für die HOAI-Leistungsphasen bei Gebäuden und Innenräumen. Für einen Einzelauftrag genügt der passende Fachskill; eine vollständige Phase bearbeitet der Phasenskill. Die neun zusätzlichen Phasen-Werkstätten und ihre eigenen Schulungsakten stehen in der [Phasenübersicht](../docs/bauwirtschaft-hoai-phasen.md). Technische Prüfungen und Freigaben bleiben bei den dafür zuständigen Fachleuten."
         skill_note_en = "All 29 skills are included directly: twenty project-task skills and nine building-planning phase workflows. Use a task skill for a specific assignment or a phase skill for the complete phase. The [phase index](../docs/bauwirtschaft-hoai-phasen.md) links nine additional standalone workshops and nine separate practice files. Technical inspections and approvals remain with the responsible professionals."
-    return ensure_download_notices(f"""{BEGIN}
+    result = ensure_download_notices(f"""{BEGIN}
 ## Was ist das hier?
 
 {description}
@@ -518,6 +531,17 @@ Links labelled “MD herunterladen / Download MD” start a file download. Navig
 
 > Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit {marketplace_count} Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`]({RELEASE_BASE}/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index]({assets}); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.{testakten_block}
 {END}""")
+    if not enabled(plugin_name, "schnellstart"):
+        result = "\n".join(line for line in result.split("\n") if not line.startswith(("| Schnellstart / Mini-Prompt |", "| Kompakter Prompt (Schnellstart) |")))
+        result = result.replace("einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung", "der eigenständige Werkstatt-Prompt für die vollständige Bearbeitung")
+        result = result.replace("Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.", "Verknüpfte Hilfsdateien müssen beim eigenständigen Einsatz zusätzlich bereitstehen.")
+        result = result.replace("Werkstatt und Schnellstart bleiben direkte Markdown-Downloads", "der Werkstatt-Prompt bleibt ein direkter Download")
+    if "txt" in formats(plugin_name):
+        txt_file = f"{stem}-werkstatt.txt"
+        txt_url = markdown_download_url(f"{plugin_rel}/{txt_file}")
+        result = result.replace(f"[MD herunterladen / Download MD]({werkstatt_url}) |", f"[MD herunterladen / Download MD]({werkstatt_url}) · [TXT herunterladen / Download TXT]({txt_url}) |", 1)
+        result = result.replace(f"| Großer Prompt (Werkstatt) | Markdown | [`{werkstatt_file}`]({werkstatt_url}) |", f"| Großer Prompt (Werkstatt) | Markdown / identisches TXT | [`{werkstatt_file}`]({werkstatt_url}) · [`{txt_file}`]({txt_url}) |")
+    return result
 
 
 def strip_old_blocks(text: str) -> str:

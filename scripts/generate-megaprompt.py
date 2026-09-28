@@ -25,6 +25,8 @@ Pro Vollprüfung:
 from __future__ import annotations
 import re
 from pathlib import Path
+
+from prompt_profiles import enabled
 from urllib.parse import quote
 
 REPO = Path(__file__).resolve().parent.parent
@@ -128,6 +130,8 @@ def rewrite_relative_links(body: str, skill_path: Path) -> str:
 
 def build_megaprompt(plugin_dir: Path) -> str | None:
     """Erzeugt Vollprüfung-Markdown fuer ein Plugin. None bei skip."""
+    if not enabled(plugin_dir.name, "megaprompt"):
+        return None
     plugin = plugin_dir.name
     if plugin in EXCLUDE_PLUGINS:
         return None
@@ -204,7 +208,7 @@ def main() -> int:
         # nur echte Plugin-Verzeichnisse (mit .claude-plugin/plugin.json)
         if not (plugin_dir / '.claude-plugin' / 'plugin.json').is_file():
             continue
-        if plugin_dir.name in EXCLUDE_PLUGINS:
+        if plugin_dir.name in EXCLUDE_PLUGINS or not enabled(plugin_dir.name, 'megaprompt'):
             skipped += 1
             continue
         mp = build_megaprompt(plugin_dir)

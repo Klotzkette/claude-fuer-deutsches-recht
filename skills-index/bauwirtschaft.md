@@ -1,6 +1,6 @@
 # bauwirtschaft
 
-**29 Skills** · Stand `v445.9.3`
+**29 Skills** · Stand `v445.10.1`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../bauwirtschaft/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

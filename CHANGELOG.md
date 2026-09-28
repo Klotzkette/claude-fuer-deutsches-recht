@@ -1,10 +1,18 @@
-# v445.9.3 - Eine vollständige ModeFuchs-Akte und gemeinsame FinTech-Zuordnung
+# v445.10.1 - Eine vollständige ModeFuchs-Akte und gemeinsame FinTech-Zuordnung
 
 Die bisher getrennten ModeFuchs-Fassungen sind in einer Arbeitsakte zusammengeführt. Die 28 Original-PDFs der ausführlichen Fassung bleiben unverändert. Elf native E-Mails enthalten tatsächlich eingebettete PDF- und Bildanhänge; dazu kommen drei konsistente Scanableitungen, das Einlieferungsfoto, zwei Bildschirmansichten, eine bearbeitbare Klagefassung und ein belegbezogenes Excel-Forderungskonto. Zahlungsanweisung, Eingang beim Händler und Weiterleitung an das Inkassounternehmen werden nicht als mehrere Kundenzahlungen gezählt.
 
 Der abweichende Nebenfall entfällt aus den Übersichten. Redaktionelle Lösungsmatrizen und technische Prüfdaten liegen außerhalb der Arbeitsakte. Gesamt-PDF, flaches Originalformat-ZIP und flaches Einzel-PDF-ZIP werden aus demselben Bestand gebaut. Regressionen sichern Originalprüfsummen, wortgleiche Nachrichtenüberlieferungen, eingebettete Anhänge und den Archivbestand.
 
 Die FinTech-Verfahrensakte ist zusätzlich beim Forderungsmanagement erschlossen. Beide Plugins verweisen auf denselben zentralen Bestand; die getrennte technische Versandproduktion bleibt ausdrücklich erkennbar. Die vorhandenen Parteischriftsätze sind Arbeitsunterlagen, keine bestätigten Rechtsauskünfte oder Versandfreigaben.
+
+# v445.10.0 – beA-Versand als Ein-Skill-Plugin
+
+- Neues Plugin `bea-versand` mit genau einem Skill `bea-anlagen-versand`, abgeleitet aus der bereitgestellten Nutzervorlage. Beliebige Hauptdokumente, verstreute Anlagenverweise und eindeutiger Gesprächskontext werden unterstützt. Originale, dokumentierte Bezeichnungen und fachlicher Inhalt bleiben erhalten.
+- Anlagen werden inhaltlich zugeordnet, benötigte Mailanhänge und Konvolute berücksichtigt, PDF-Kopien auf der ersten Seite gestempelt und eindeutig für den beA-Upload benannt. Signaturintegrität, freie Stempelbereiche, Namenskollisionen und gezielte Rückfragen sind Teil des Ablaufs.
+- Genau ein handkuratierter Werkstatt-Prompt, identisch als MD und TXT. Das explizite Promptprofil verhindert Schnellstart-, Mini-, Mega- und Schwerpunktdateien auch bei erneuter Generierung. Bestehende Pluginprofile behalten ihren Umfang.
+- Die vorhandene Modefuchs-Cowork-Sonderfallakte aus dem Forderungsmanagement ist als Testakte angebunden; deren Originale werden weder kopiert noch verändert.
+- Offizielle technische Quellen am 28.09.2026 geprüft: 84 Zeichen für normale beA-Anhänge gegenüber 90 für Signaturdateien, erlaubte Umlaute, keine allgemeine PDF/A-Pflicht und klare Trennung zwischen Dateivorbereitung und tatsächlicher Einreichung.
 
 # v445.9.2 - Vollständige Zuordnung angehängter Schriftsätze und Nachrichten
 

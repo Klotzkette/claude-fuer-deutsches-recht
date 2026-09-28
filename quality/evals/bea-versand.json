@@ -1,0 +1,254 @@
+{
+  "schema_version": 1,
+  "plugin": "bea-versand",
+  "reviewed_on": "2026-09-28",
+  "sources": [
+    {
+      "url": "https://handbuch.bea-brak.de/arbeiten-mit-ihrem-bea/nachrichten/erstellen-und-senden/anhaenge-hochladen",
+      "checked_on": "2026-09-28",
+      "supports": "Primärquelle geprüft: normale beA-Anhänge höchstens 84 Zeichen einschließlich Endung, Signaturdateien 90; zulässige Zeichen und 1000 Dateien/200 MB einschließlich Systemdateien."
+    },
+    {
+      "url": "https://justiz.de/laender-bund-europa/elektronische_kommunikation/bundesanzeiger_29_07_2025.pdf",
+      "checked_on": "2026-09-28",
+      "supports": "Amtliche ERVB 2025 Nr. 1 und 6 sowie Präambel gelesen: geltend seit 30.07.2025, PDF einschließlich PDF 2.0/PDF-A/PDF-UA, keine allgemeine PDF-A-Pflicht, Druckbarkeit und technische Dateinamenregeln."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/ervv/__2.html",
+      "checked_on": "2026-09-28",
+      "supports": "Amtlicher Normtext: PDF-Anforderung und Sollregel für den Dateinamen; keine pauschale Unwirksamkeitsbehauptung wegen einer Namensabweichung."
+    },
+    {
+      "url": "https://handbuch.bea-brak.de/arbeiten-mit-ihrem-bea/nachrichten/oeffnen-und-anzeigen/pruefen-einer-qualifizierten-elektronischen-signatur-qes",
+      "checked_on": "2026-09-28",
+      "supports": "Primärquelle zur Signaturprüfung und Integrität. Daraus technische Schutzregel für den PDF-Neuschreibvorgang abgeleitet: signierte Originale bytegleich erhalten; Ansichtskopie nicht als unverändert signiert behandeln."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__130a.html",
+      "checked_on": "2026-09-28",
+      "supports": "Absätze 3 und 5: Signatur-/Übermittlungswege und gerichtlicher Eingang sind von lokaler Dateivorbereitung zu trennen; Norm nur für einschlägige Verfahrensordnung verwenden."
+    }
+  ],
+  "selection": {
+    "target_skill": "bea-anlagen-versand",
+    "positive": [
+      "Bereite diesen Bericht mit seinen Anlagen für den beA-Upload vor; finde die passenden Belege im Ordner.",
+      "Finde die im Anschreiben verstreut genannten Anlagen, stemple ihre ersten Seiten und benenne PDF-Kopien für beA."
+    ],
+    "negative": [
+      "Entwirf aus diesen Notizen erstmals eine Zahlungsklage und berechne den Verzugsschaden.",
+      "Sende die bereits fertige Nachricht jetzt über mein beA an das Gericht."
+    ]
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Nutzervorlage zu einem einzigen Workflow für beliebige Hauptdokumente erweitert; konkrete Zuordnung, Dateiproduktion und Quellenprüfung redaktionell geprüft.",
+    "changes": [
+      "Dokumentart und Bezeichnung aus Kontext statt pauschaler K-Anlagen übernehmen.",
+      "Ohne Verzeichnis über konkrete Merkmale zuordnen; Mehrdeutigkeiten und Konvolute nachvollziehbar bearbeiten.",
+      "Signierte Originale, tatsächliche 84-Zeichen-Uploadgrenze und jede gestempelte Seite berücksichtigen.",
+      "Aus tatsächlich geprüftem Modefuchs-Entwurf: interne Arbeitsvermerke, offene Angaben und Entwurfsstatus ausdrücklich kontrollieren; keine stille Finalisierung."
+    ],
+    "sha256": "0a81d18737994e2adab57916fb21ec40f36309c40f856602c65c47231fbfc8b7"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-28",
+    "files": [
+      "bea-versand/skills/bea-anlagen-versand/SKILL.md",
+      "bea-versand/bea-versand-werkstatt.md",
+      "bea-versand/bea-versand-werkstatt.txt",
+      "bea-versand/README.md",
+      "quality/evals/bea-versand.json"
+    ],
+    "opening_change": "Zuerst das vorhandene Hauptdokument und die benötigten Dateien lesen; eindeutige Zuordnungen unmittelbar in tatsächliche PDF-Kopien überführen.",
+    "norms": [
+      "§ 2 ERVV",
+      "ERVB 2025 Nr. 1 und 6",
+      "§ 130a ZPO bei entsprechendem Verfahrensbezug"
+    ],
+    "decisions": [
+      {
+        "citation": "ERVB 2025 vom 16.07.2025, BAnz AT 29.07.2025 B2, Nr. 1 und 6 (technischer Normanker)",
+        "url": "https://justiz.de/laender-bund-europa/elektronische_kommunikation/bundesanzeiger_29_07_2025.pdf",
+        "application": "PDF und Dateinamen nach technischen Standards behandeln; 90-Zeichen-Obergrenze von der engeren 84-Zeichen-Grenze für normale beA-Anhänge unterscheiden.",
+        "limit": "Keine Gerichtsentscheidung und keine pauschale Aussage zur Wirksamkeit einer konkreten Einreichung; weitere technische und verfahrensbezogene Anforderungen bleiben zu prüfen."
+      }
+    ],
+    "remaining_limits": [
+      "Redaktionelle und Quellenprüfung; kein Versand über ein beA-Postfach und keine Bestätigung eines gerichtlichen Eingangs.",
+      "Die separat dokumentierten lokalen Praxistests ersetzen keine Konformitätszertifizierung für beliebige Eingabedateien."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-28",
+    "method": "desk_review",
+    "opening_modes": [
+      "Hauptdokument mit ausdrücklichem Anlagenverzeichnis.",
+      "Anschreiben oder Bericht mit verstreuten Verweisen ohne Verzeichnis.",
+      "Eindeutig beauftragte Belege nur aus Gesprächskontext mit neu zu dokumentierender Nummerierung."
+    ],
+    "continuation": "Eine nachgereichte Datei oder geklärte Fassung ergänzt dieselbe Arbeitszuordnung; betroffene Kopien im neuen Ausgabelauf erstellen und bisherige Ergebnisse erhalten.",
+    "enrichment": "MIME-Anhänge und Konvolute, reale Dokumentdaten, Rotation/CropBox und freier Stempelbereich, Signaturintegrität und Namenskollisionen werden konkret behandelt.",
+    "limits": "Workflow redaktionell geprüft. Dateisichtung und PDF-Sichtkontrolle müssen im jeweiligen Lauf tatsächlich erfolgen; Dateiproduktion ist keine Übermittlung."
+  },
+  "cases": [
+    {
+      "id": "modefuchs-inhalt-statt-dateiname",
+      "request": "Prüfe anhand der 47 Arbeitsdateien der vereinheitlichten ModeFuchs-Akte die Anlagenzuordnung des Hauptdokuments 30_Klage_Arbeitsfassung_20250725.docx. Die 28 erhaltenen Original-PDFs sind Quellen, keine neu zu formulierenden Dokumente. Erstelle ergebnis.md als internen Zuordnungs- und Produktionsbericht für die beA-Vorbereitung. Lies jeden Beleg und die echten Mailanhänge. Benenne, welche Dateien zusammengehören, welche nicht beigelegt werden, welche Hauptdokumentangaben fehlen und welche Prüfungen vor der Übergabe der PDF-Kopien noch erforderlich sind. Finalisiere den Klageinhalt nicht.",
+      "target_skill": "bea-anlagen-versand",
+      "input_files": [
+        "testakten/inkasso-zahlungsklage-modefuchs/10_email_zahlungseingang_modefuchs_inkasso.eml",
+        "testakten/inkasso-zahlungsklage-modefuchs/30_Klage_Arbeitsfassung_20250725.docx",
+        "testakten/inkasso-zahlungsklage-modefuchs/31_Forderungskonto_Arbeitsstand_20250705.xlsx",
+        "testakten/inkasso-zahlungsklage-modefuchs/AW_Zahlungsnachweis_ModeFuchs.eml",
+        "testakten/inkasso-zahlungsklage-modefuchs/Bildschirmfoto_2025-06-27_1817.png",
+        "testakten/inkasso-zahlungsklage-modefuchs/Bildschirmfoto_Postausgang_20250701.png",
+        "testakten/inkasso-zahlungsklage-modefuchs/Dokument1.pdf",
+        "testakten/inkasso-zahlungsklage-modefuchs/DRINGEND_Rechnung_3098.eml",
+        "testakten/inkasso-zahlungsklage-modefuchs/Forderungsuebergabe_1749.eml",
+        "testakten/inkasso-zahlungsklage-modefuchs/IMG_2047.jpg",
+        "testakten/inkasso-zahlungsklage-modefuchs/mail_Bestellung_1749.eml",
+        "testakten/inkasso-zahlungsklage-modefuchs/Noch_das_Bild_vom_Postfach.eml",
+        "testakten/inkasso-zahlungsklage-modefuchs/originale/00_Aktenverzeichnis_ModeFuchs.pdf",
+        "testakten/inkasso-zahlungsklage-modefuchs/originale/01_Bestellbestaetigung_03-04-2025.pdf",
+        "testakten/inkasso-zahlungsklage-modefuchs/originale/02_Versandbestaetigung_06-04-2025.pdf",
+        "testakten/inkasso-zahlungsklage-modefuchs/originale/03_Zustellbestaetigung_08-04-2025.pdf",
+        "testakten/inkasso-zahlungsklage-modefuchs/originale/04_Rechnung_R-20250406-3098.pdf",
+        "testakten/inkasso-zahlungsklage-modefuchs/originale/05_Erste_Zahlungserinnerung_20-04-2025.pdf",
+        "testakten/inkasso-zahlungsklage-modefuchs/originale/06_Zweite_Mahnung_E-Mail_04-05-2025.pdf",
+        "testakten/inkasso-zahlungsklage-modefuchs/originale/07_Erste_Mahnung_Post_05-05-2025.pdf",
+        "testakten/inkasso-zahlungsklage-modefuchs/originale/08_Zweite_Mahnung_Post_22-05-2025.pdf",
+        "testakten/inkasso-zahlungsklage-modefuchs/originale/09_Abtretungserklaerung_08-06-2025.pdf",
+        "testakten/inkasso-zahlungsklage-modefuchs/originale/10_Inkassoschreiben_10-06-2025.pdf",
+        "testakten/inkasso-zahlungsklage-modefuchs/originale/11_Letzte_Inkassoaufforderung_25-06-2025.pdf",
+        "testakten/inkasso-zahlungsklage-modefuchs/originale/12_Gebuehrenrechnung_Inkasso_10-06-2025.pdf",
+        "testakten/inkasso-zahlungsklage-modefuchs/originale/13_Interner_Eingangsvermerk_Inkasso_08-06-2025.pdf",
+        "testakten/inkasso-zahlungsklage-modefuchs/originale/14_Sachstandsvermerk_Inkasso_18-06-2025.pdf",
+        "testakten/inkasso-zahlungsklage-modefuchs/originale/15_Zahlungsnotiz_Inkasso_01-07-2025.pdf",
+        "testakten/inkasso-zahlungsklage-modefuchs/originale/16_Aktenvermerk_RA_Brezelmann_27-06-2025.pdf",
+        "testakten/inkasso-zahlungsklage-modefuchs/originale/17_Mandatsblatt_BRZ-2025-447-MF.pdf",
+        "testakten/inkasso-zahlungsklage-modefuchs/originale/18_E-Mail_Altenhausen_an_RA_Brezelmann_27-06-2025.pdf",
+        "testakten/inkasso-zahlungsklage-modefuchs/originale/19_Kontoauszug_Altenhausen_26-06-2025.pdf",
+        "testakten/inkasso-zahlungsklage-modefuchs/originale/20_Anwaltsschreiben_RA_Brezelmann_an_InkassoZentrale_30-06-2025.pdf",
+        "testakten/inkasso-zahlungsklage-modefuchs/originale/21_Mahnbescheid_Antrag_InkassoZentrale_05-07-2025.pdf",
+        "testakten/inkasso-zahlungsklage-modefuchs/originale/22_Widerspruch_Mahnbescheid_RA_Brezelmann_18-07-2025.pdf",
+        "testakten/inkasso-zahlungsklage-modefuchs/originale/23_Klageschrift_InkassoZentrale_25-07-2025.pdf",
+        "testakten/inkasso-zahlungsklage-modefuchs/originale/24_Klageerwiderung_RA_Brezelmann_15-08-2025.pdf",
+        "testakten/inkasso-zahlungsklage-modefuchs/originale/25_E-Mail_Zahlungserinnerung_ModeFuchs_20-04-2025.pdf",
+        "testakten/inkasso-zahlungsklage-modefuchs/originale/26_E-Mail_Zweite_Mahnung_ModeFuchs_04-05-2025.pdf",
+        "testakten/inkasso-zahlungsklage-modefuchs/originale/27_Zahlungsbestaetigung_ModeFuchs_30-06-2025.pdf",
+        "testakten/inkasso-zahlungsklage-modefuchs/Rechnung_April.eml",
+        "testakten/inkasso-zahlungsklage-modefuchs/Scan007.pdf",
+        "testakten/inkasso-zahlungsklage-modefuchs/Scan_20250610_113247.pdf",
+        "testakten/inkasso-zahlungsklage-modefuchs/Weiterleitung_Direktzahlung_1749.eml",
+        "testakten/inkasso-zahlungsklage-modefuchs/WG_Postbeleg_von_heute.eml",
+        "testakten/inkasso-zahlungsklage-modefuchs/Zahlungsbestaetigung_3098.eml",
+        "testakten/inkasso-zahlungsklage-modefuchs/Zahlungserinnerung_20_04.eml"
+      ],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Maßgeblich ist das Anlagenverzeichnis K1 bis K12 der 30_Klage_Arbeitsfassung_20250725.docx: K1 Abtretung vom 08.06.2025 (Original 09, Scan Dokument1.pdf), K2 Bestellbestätigung vom 03.04.2025 (Original 01, auch in mail_Bestellung_1749.eml). Dokumentinhalt entscheidet; Original und Scan/MIME-Kopie werden nicht doppelt beigelegt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "K3 ist die Versandbestätigung (Original 02), K4 die Zustellbestätigung (Original 03), K5 die Rechnung (Original 04). Rechnung_April.eml enthält echte PDF-Anhänge zu K3 und K5; sie werden gelesen und den vorhandenen Belegen zugeordnet. Die gesamte E-Mail wird nicht automatisch zur Anlage K3 erklärt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "K6 ist die Erinnerung vom 20.04.2025 (Original 05), K7 die E-Mail-Mahnung vom 04.05.2025 (Original 06), K8 die Postmahnung vom 05.05.2025 (Original 07, Scan_20250610_113247.pdf), K9 die Postmahnung vom 22.05.2025 (Original 08, Scan007.pdf). K10/K11 sind die Inkassoschreiben vom 10.06./25.06.2025 (Originale 10/11), K12 die Gebührenrechnung (Original 12). Der Scan-Dateiname legt kein abweichendes Dokumentdatum fest.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Das Hauptdokument ist auf den 25.07.2025 datiert; offene Datumsfelder oder Bearbeitungsvermerke aus der früheren Variante werden nicht unterstellt. Tatsächliche offene Angaben und Widersprüche zu Zahlungsunterlagen werden vor Freigabe benannt, nicht stillschweigend berichtigt oder materiellrechtlich finalisiert. Nur erste Anlagenseiten stempeln, die 28 Original-PDFs bytegleich sichern und visuelle Prüfung vorsehen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C05",
+          "text": "47 Arbeitsdateien bedeuten nicht 47 Anlagen. Forderungskonto 31_Forderungskonto_Arbeitsstand_20250705.xlsx, Schuldner-/Zahlungsmails, Bildschirmfotos und IMG_2047.jpg werden nicht ohne Bezug im Hauptdokument oder ergänzenden Auftrag angehängt oder neu nummeriert. Das Einlieferungsfoto belegt keine Zustellung; das Filterbild vom 27.06.2025 keine historischen April-Einstellungen. Gesamt-PDF, README und Bewertungsdateien gehören nicht in die Versandmappe.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bericht-ohne-verzeichnis",
+      "request": "Erstelle ergebnis.md als begründeten Arbeitsentscheid für diese Versandvorbereitung: Ein Prüfbericht nennt im Fließtext Anlage 1 als Rechnung R-17 vom 05.08.2026 und Anlage 2 als Lageplan Stand 02.08.2026. Es gibt kein Anlagenverzeichnis und keine Prozessparteien. Im Ordner liegen die passende Rechnung, zwei inhaltlich unterschiedliche Lagepläne desselben Stands und eine nicht erwähnte Kostenliste. Das Hauptdokument hat kein Datum. Es sind nur diese Angaben vorhanden; erfinde keine tatsächlichen Dateien oder Sichtprüfungen.",
+      "target_skill": "bea-anlagen-versand",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Anlage 1 kann nach Inhalt zugeordnet werden; es werden keine K-/B-Präfixe oder ein Hauptdokumentdatum erfunden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Für Anlage 2 wird die konkrete Fassungsfrage gestellt; kein Raten anhand gleicher Datumsangabe und keine unbelegte Vollständigkeit.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die Kostenliste wird nicht automatisch mitgesandt. Unabhängige Teile bleiben bearbeitbar, bei Klärung wird die vorhandene Zuordnung fortgesetzt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "signatur-und-namenskollision",
+      "request": "Erstelle ergebnis.md als internen Produktionsentscheid: Ein beauftragtes Anschreiben verweist auf Anlage A1 und A2. A1 liegt als digital signierte PDF nebst .pdf.pkcs7 vor; der Signaturstatus ist ungeprüft. A2 ist ein unsignierter Scan ohne freien oberen rechten Rand. Zwei geplante PDF-Namen wären nach Kürzung gleich und jeweils 88 Zeichen lang. Es sind nur diese Angaben vorhanden. Beschreibe die konkrete Fortsetzung ohne Dateien oder Signaturprüfungen zu behaupten.",
+      "target_skill": "bea-anlagen-versand",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Signierte Fassung und Begleitsignatur werden unverändert gesichert; kein stillschweigender Overlay-Neuschreibvorgang. Unveränderte Beifügung oder zusätzliche klar bezeichnete Ansichtskopie gezielt klären.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Der Stempel darf den Scaninhalt nicht verdecken; freien Bereich prüfen oder geeigneten Rand schaffen und jeden gestempelten Anfang visuell kontrollieren.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Normale PDF-Namen werden auf höchstens 84 Zeichen gekürzt und kollisionsfrei gehalten. Die mehrteilige Signaturendung wird nicht durch die PDF-Regex verworfen; 90/84 und reine Vorbereitung werden getrennt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

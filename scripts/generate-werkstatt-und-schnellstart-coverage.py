@@ -6,6 +6,8 @@ from __future__ import annotations
 import html
 import json
 from pathlib import Path
+
+from prompt_profiles import enabled, formats, standalone_kinds
 from urllib.parse import quote
 
 from readme_display import display_prose
@@ -51,6 +53,8 @@ def prompt_table(plugins: list[dict], kind: str) -> list[str]:
     ]
     for plugin in plugins:
         name = plugin["name"]
+        if not enabled(name, kind):
+            continue
         directory = plugin_dir(plugin)
         prompt = directory / f"{name}-{kind}.md"
         rel = prompt.relative_to(REPO).as_posix()
@@ -58,9 +62,10 @@ def prompt_table(plugins: list[dict], kind: str) -> list[str]:
             display_prose(str(plugin.get("description", ""))).replace("|", "\\|")
         )
         plugin_rel = directory.relative_to(REPO).as_posix()
+        downloads = " · ".join(direct_download(f"{plugin_rel}/{name}-{kind}.{ext}", f"{name}-{kind}.{ext}") for ext in formats(name))
         lines.append(
             f"| `{name}` | {description} | `{prompt.name}` | "
-            f"{direct_download(rel, prompt.name)} | "
+            f"{downloads} | "
             f"[README](../{plugin_rel}/README.md) · [Skills](../skills-index/{name}.md) |"
         )
     lines.append("")
@@ -89,9 +94,8 @@ def main() -> int:
     for plugin in plugins:
         directory = plugin_dir(plugin)
         stem = prompt_stem(plugin["name"])
-        werkstatt = directory / f"{stem}-werkstatt.md"
-        schnellstart = directory / f"{stem}-schnellstart.md"
-        if werkstatt.is_file() and schnellstart.is_file():
+        if all((directory / f"{stem}-{kind}.{ext}").is_file()
+               for kind in standalone_kinds(stem) for ext in formats(stem)):
             ok += 1
     percent = 100 if not plugins else round(ok * 100 / len(plugins), 2)
     lines += [

@@ -10,7 +10,7 @@ Beachte vor der Nutzung die [Vorsichtsmaßnahmen im Hauptverzeichnis](./README.m
 
 1. Wähle eine Kategorie und ein Plugin. Der Plugin-Name öffnet das Verzeichnis mit Beschreibung und weiteren Dateien.
 
-2. Wähle „Schnellstart: MD herunterladen“ für einen kompakten Einstieg oder „Werkstatt: MD herunterladen“ für den ausführlichen Arbeitsmodus. Beide Links führen zur Download-Seite für die jeweilige Markdown-Datei, nicht zur Dateivorschau.
+2. Wähle „Schnellstart: MD herunterladen“ für einen kompakten Einstieg oder „Werkstatt: MD herunterladen“ für den ausführlichen Arbeitsmodus. Die Links führen zur Download-Seite für die jeweilige Datei, nicht zur Dateivorschau. `bea-versand` bietet ausschließlich den Werkstatt-Prompt, identisch als MD und TXT.
 
 3. Falls der Browser den automatischen Download blockiert, nutze dort „MD herunterladen“. Für den Download muss JavaScript aktiviert sein.
 
@@ -48,7 +48,7 @@ Kategorien sind alphabetisch nach Titel sortiert, Einträge innerhalb jeder Kate
 | [Medizinrecht](#medizinrecht) | 6 |
 | [Miet- und Wohnungseigentumsrecht](#miet--und-wohnungseigentumsrecht) | 5 |
 | [Migrationsrecht](#migrationsrecht) | 1 |
-| [Prozess- und Verfahrenspraxis](#prozess--und-verfahrenspraxis) | 14 |
+| [Prozess- und Verfahrenspraxis](#prozess--und-verfahrenspraxis) | 15 |
 | [Rechtsgeschichte und Vermögensrecht der Wiedervereinigung](#rechtsgeschichte-und-vermögensrecht-der-wiedervereinigung) | 2 |
 | [Sozialrecht](#sozialrecht) | 3 |
 | [Sportrecht](#sportrecht) | 1 |
@@ -63,7 +63,7 @@ Kategorien sind alphabetisch nach Titel sortiert, Einträge innerhalb jeder Kate
 | [Versicherungsrecht](#versicherungsrecht) | 3 |
 | [Verwaltungsrecht](#verwaltungsrecht) | 32 |
 
-232 kuratierte Plugins in 34 Kategorien, aus insgesamt 245 Marketplace-Plugins (Abgleich: 25. September 2026). Gezählt werden Plugins, nicht einzelne Skills oder Prompt-Dateien.
+233 kuratierte Plugins in 34 Kategorien, aus insgesamt 246 Marketplace-Plugins (Abgleich: 28. September 2026). Gezählt werden Plugins, nicht einzelne Skills oder Prompt-Dateien.
 
 ## Agrarrecht
 
@@ -274,6 +274,7 @@ Kategorien sind alphabetisch nach Titel sortiert, Einträge innerhalb jeder Kate
 
 - [aktenauszug-gerichtsverfahren](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aktenauszug-gerichtsverfahren): Strukturierter Aktenauszug für deutsche Gerichtsverfahren: Verfahrensidentifikation Einleitungssatz Verfahrenszusammenfassung Sachverhaltschronologie… · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=aktenauszug-gerichtsverfahren/aktenauszug-gerichtsverfahren-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=aktenauszug-gerichtsverfahren/aktenauszug-gerichtsverfahren-werkstatt.md)
 - [anlagen-zu-schriftsaetzen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/anlagen-zu-schriftsaetzen): Anlagenmanagement für gerichtliche Schriftsätze: sortiert chaotische Mandantenordner, E-Mails, Scans… · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=anlagen-zu-schriftsaetzen/anlagen-zu-schriftsaetzen-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=anlagen-zu-schriftsaetzen/anlagen-zu-schriftsaetzen-werkstatt.md)
+- [bea-versand](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bea-versand): Ein Skill für beliebige Hauptdokumente mit Anlagen: Belege aus Inhalt und Kontext zuordnen, PDF-Kopien erzeugen, erste Anlagenseiten stempeln und Dateien für beA benennen. Ein Werkstatt-Prompt, mit Modefuchs-Testakte. · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bea-versand/bea-versand-werkstatt.md) · [Derselbe Werkstatt-Prompt: TXT herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bea-versand/bea-versand-werkstatt.txt)
 - [berichtspflichten-erlediger](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/berichtspflichten-erlediger): Berichtspflichten-Erlediger für mittelständische Unternehmen: amtliche Statistik, Portale, Umwelt-, Produkt-, Steuer-, Sozial-, Lieferketten… · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=berichtspflichten-erlediger/berichtspflichten-erlediger-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=berichtspflichten-erlediger/berichtspflichten-erlediger-werkstatt.md)
 - [forderungsmanagement-klagewerkstatt](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/forderungsmanagement-klagewerkstatt): Klagewerkstatt für Forderungsmanagement mit Zuständigkeitsprüfung, Mahnvorlauf, Inkasso-Zahlungsklage und Anspruchs-Gatekeeper: Nur klare… · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=forderungsmanagement-klagewerkstatt/forderungsmanagement-klagewerkstatt-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=forderungsmanagement-klagewerkstatt/forderungsmanagement-klagewerkstatt-werkstatt.md)
 - [jveg-kostenpruefer](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jveg-kostenpruefer): Freistehender JVEG-Kostenprüfer für Zeugenentschädigung, Vorschuss, Fahrtkosten, Übernachtung, Verdienstausfall, Sachverständigen- und Dolmetscherkosten… · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=jveg-kostenpruefer/jveg-kostenpruefer-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=jveg-kostenpruefer/jveg-kostenpruefer-werkstatt.md)

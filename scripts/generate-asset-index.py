@@ -11,6 +11,8 @@ from __future__ import annotations
 import html
 import json
 from pathlib import Path
+
+from prompt_profiles import enabled, formats
 from urllib.parse import quote
 
 from readme_display import display_prose
@@ -109,14 +111,16 @@ def main() -> int:
             schnellstart_path = f"{rel}/{schnellstart_file}"
             focus_path = f"{rel}/{name}-hauptproblem.md"
             focus_download = markdown_download(focus_path, f"{name}-hauptproblem.md") if (REPO / focus_path).is_file() else "Nicht vorgesehen"
+            workshop_download = " · ".join(markdown_download(f"{rel}/{name}-werkstatt.{ext}", f"{name}-werkstatt.{ext}") for ext in formats(name)) if enabled(name, "werkstatt") else "Nicht vorgesehen"
+            quickstart_download = markdown_download(schnellstart_path, schnellstart_file) if enabled(name, "schnellstart") else "Nicht vorgesehen"
             zip_url = f"{RELEASE}/{name}.zip"
             navigation = f"[README]({rel}/README.md) · [Skills](skills-index/{name}.md)"
             lines.append(
                 "| "
                 f"[`{name}`]({rel}/README.md) | "
                 f"{description} | "
-                f"{markdown_download(werkstatt_path, werkstatt_file)} | "
-                f"{markdown_download(schnellstart_path, schnellstart_file)} | "
+                f"{workshop_download} | "
+                f"{quickstart_download} | "
                 f"{focus_download} | "
                 f"[`{name}.zip`]({zip_url}) | "
                 f"{navigation} |"

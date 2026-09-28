@@ -3,6 +3,7 @@
 
 from __future__ import annotations
 
+import hashlib
 import importlib.util
 import json
 import sys
@@ -13,6 +14,8 @@ from types import ModuleType
 from pypdf import PdfReader
 from reportlab.lib.pagesizes import A4
 from reportlab.pdfgen import canvas
+
+from testakte_zip_common import working_dump_archive_pairs
 
 
 REPO = Path(__file__).resolve().parent.parent
@@ -54,7 +57,43 @@ def write_pdf(path: Path, title: str, pages: int) -> None:
     pdf.save()
 
 
+def check_modefuchs_eval_inputs() -> None:
+    case_dir = REPO / "testakten" / "inkasso-zahlungsklage-modefuchs"
+    profile = json.loads(
+        (REPO / "quality" / "evals" / "bea-versand.json").read_text(encoding="utf-8")
+    )
+    cases = [
+        case for case in profile["cases"]
+        if case["id"] == "modefuchs-inhalt-statt-dateiname"
+    ]
+    if len(cases) != 1:
+        raise AssertionError("Genau ein ModeFuchs-beA-Testfall erwartet")
+    inputs = cases[0]["input_files"]
+    expected = {
+        path.relative_to(REPO).as_posix()
+        for path, _ in working_dump_archive_pairs(case_dir, include_gesamt_pdf=False)
+    }
+    if len(expected) != 47 or len(inputs) != 47 or set(inputs) != expected:
+        raise AssertionError(
+            "beA-Eval muss genau die 47 kanonischen ModeFuchs-Arbeitsdateien nutzen; "
+            f"Arbeitsbestand={len(expected)}, Eingaben={len(inputs)}, "
+            f"fehlend={sorted(expected - set(inputs))}, "
+            f"unerwartet={sorted(set(inputs) - expected)}"
+        )
+    hashes = json.loads(
+        (REPO / "scripts" / "fixtures" / "modefuchs" / "originale-sha256.json")
+        .read_text(encoding="utf-8")
+    )
+    originals = set((case_dir / "originale").glob("*.pdf"))
+    if len(hashes) != 28 or {path.name for path in originals} != set(hashes):
+        raise AssertionError("Genau die 28 erhaltenen ModeFuchs-Original-PDFs erwartet")
+    for path in originals:
+        if hashlib.sha256(path.read_bytes()).hexdigest() != hashes[path.name]:
+            raise AssertionError(f"ModeFuchs-Original veraendert: {path.name}")
+
+
 def main() -> int:
+    check_modefuchs_eval_inputs()
     tool = load_tool()
     with tempfile.TemporaryDirectory(prefix="bea-versandmappe-test-") as tmp:
         root = Path(tmp)
@@ -127,7 +166,10 @@ def main() -> int:
         if "| STOP |" in preflight or "| WARNUNG |" in preflight:
             raise AssertionError("Preflight enthält unerwartete Stop- oder Warnbefunde")
 
-    print("test-bea-versandmappe OK (3 Versanddateien, 4 gestempelte Anlagenseiten)")
+    print(
+        "test-bea-versandmappe OK (47 ModeFuchs-Arbeitsdateien, 28 Original-Hashes; "
+        "3 Versanddateien, 4 gestempelte Anlagenseiten)"
+    )
     return 0
 
 

@@ -35,6 +35,8 @@ English: The original-format ZIP contains the working files directly at archive 
 
 Arbeitsakte für das Plugin `forderungsmanagement-klagewerkstatt`, insbesondere für `aktenordner-erstlekture` und `inkasso-zahlungsklage-ersteller`.
 
+Dieselbe Akte ist zusätzlich dem Plugin `bea-versand` mit dem Skill `bea-anlagen-versand` zugeordnet. Für die technische Anlagenaufbereitung dient `30_Klage_Arbeitsfassung_20250725.docx` als Hauptdokument. Die Zuordnung verwendet den gemeinsamen Fallbestand und erzeugt keine gesonderte Nebenfallakte.
+
 ModeFuchs GmbH verkauft Ware für 698,00 EUR an Gottlieb von Altenhausen. Die Unterlagen umfassen Bestellung, Lieferung, Rechnung, elektronische und postalische Mahnungen, Abtretung an die InkassoZentrale GmbH sowie das anschließende Verfahren. Kontoauszüge, Zahlungsbestätigungen, Buchungsunterlagen und Korrespondenz ergänzen den Verfahrensbestand. Weitere Themen sind Nebenforderungen, ein Anschriftenwechsel und der Zugang von Rechnungen und Mahnungen.
 
 Diese Akte verbindet die ausführliche PDF-Akte mit nativen E-Mails, Anhängen, Bildern und bearbeitbaren Unterlagen. Es gibt einen gemeinsamen Fallbestand, keinen gesonderten Cowork-Nebenfall. Die 28 ursprünglichen PDF-Dateien bleiben unverändert, einschließlich der darin enthaltenen Parteibehauptungen. Die Klagearbeitsfassung ist ein zu bearbeitender Parteischriftsatz, keine Musterlösung oder Versandfreigabe.
@@ -53,8 +55,8 @@ Diese Akte verbindet die ausführliche PDF-Akte mit nativen E-Mails, Anhängen, 
 | Native E-Mails | Elf EML mit vollständigen Nachrichtenköpfen und eingebetteten Anhängen; Einzelübersicht unten. |
 | `Bildschirmfoto_2025-06-27_1817.png` | Aufnahme der Postfach- und Filtereinstellungen vom 27.06.2025. |
 | `Bildschirmfoto_Postausgang_20250701.png` | Aufnahme der Ausgangsliste bei ModeFuchs vom 01.07.2025. |
-| `30_Klage_Arbeitsfassung_20250725.docx` | Bearbeitbare Klagearbeitsfassung mit Anlagenverzeichnis. |
-| `31_Forderungskonto_Arbeitsstand_20250705.xlsx` | Native Excel-Arbeitsmappe mit Buchungen und Forderungspositionen. |
+| `30_Klage_Arbeitsfassung_20250725.docx` | Bearbeitbare Klagearbeitsfassung mit Anlagen K1 bis K12, entsprechend `originale/23_Klageschrift_InkassoZentrale_25-07-2025.pdf`. |
+| `31_Forderungskonto_Arbeitsstand_20250705.xlsx` | Native Excel-Arbeitsmappe mit Vorbestand und Gutschrift; keine Zinsneuberechnung. |
 
 Die drei Scan-PDFs bilden die genannten Hauptoriginale ab; sie übernehmen nicht die abweichenden Scans des früheren Nebenfalls. Die ursprünglichen PDF-Unterlagen und die bildbasierten Fassungen bleiben als unterschiedliche Darstellungen derselben Belege nachvollziehbar.
 

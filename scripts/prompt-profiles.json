@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "plugins": {
+    "bea-versand": {
+      "standalone": ["werkstatt"],
+      "formats": ["md", "txt"],
+      "megaprompt": false,
+      "hand_curated": true
+    }
+  }
+}

@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 import fs from 'node:fs';
 import path from 'node:path';
+import { promptEnabled, promptKinds, promptFormats, promptProfileErrors } from './prompt-profiles.mjs';
 import { createHash } from 'node:crypto';
 
 // Dateischutz für eigenständige Downloads; Skill- und Modellbudgets bleiben getrennt.
@@ -156,10 +157,11 @@ for (const entry of marketplace.plugins || []) {
   for (const suspicious of suspiciousSkillPaths) {
     errors.push(`${rel(suspicious)}: Schnellstart- oder Prompt-Datei liegt unter skills/`);
   }
+  errors.push(...promptProfileErrors(pluginRoot, entry.name, root));
   const werkstatt = path.join(pluginRoot, `${entry.name}-werkstatt.md`);
   const schnellstart = path.join(pluginRoot, `${entry.name}-schnellstart.md`);
   if (!fs.existsSync(werkstatt)) errors.push(`${entry.name}: Werkstatt-Markdown fehlt`);
-  if (!fs.existsSync(schnellstart)) errors.push(`${entry.name}: Schnellstart-Markdown fehlt`);
+  if (promptEnabled(entry.name, "schnellstart") && !fs.existsSync(schnellstart)) errors.push(`${entry.name}: Schnellstart-Markdown fehlt`);
   if (fs.existsSync(schnellstart) && fs.statSync(schnellstart).size > promptLimits.mini_max_bytes) {
     errors.push(`${rel(schnellstart)}: Schnellstart ist größer als 7500 Bytes`);
   }
@@ -208,8 +210,13 @@ for (const entry of marketplace.plugins || []) {
     if (!text.includes(werkstattDownload)) {
       errors.push(`${rel(readme)}: Werkstatt-Direktdownload fehlt`);
     }
-    if (!text.includes(schnellstartDownload)) {
+    if (promptEnabled(entry.name, "schnellstart") && !text.includes(schnellstartDownload)) {
       errors.push(`${rel(readme)}: Schnellstart-Direktdownload fehlt`);
+    }
+    for (const kind of promptKinds(entry.name)) {
+      for (const ext of promptFormats(entry.name)) {
+        if (!text.includes(`${downloadBase}${sourceRel}/${entry.name}-${kind}.${ext}`)) errors.push(`${rel(readme)}: ${kind}-${ext}-Direktdownload fehlt`);
+      }
     }
     for (const line of text.split(/\r?\n/)) {
       const cells = line.startsWith('|') ? line.split('|').slice(1, -1).map((cell) => cell.trim()) : [];

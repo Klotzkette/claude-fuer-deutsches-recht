@@ -15,6 +15,8 @@ import json
 import re
 from functools import lru_cache
 from pathlib import Path
+
+from prompt_profiles import hand_curated, standalone_kinds, sync_text_copies
 from typing import Iterable
 
 from themen_profile import profile_for, ThemenProfil
@@ -8026,7 +8028,9 @@ def main() -> int:
     for plugin_dir in dirs:
         mf = manifest(plugin_dir)
         slug = mf.get("name") or plugin_dir.name
-        if has_individual_review(plugin_dir, slug):
+        if hand_curated(slug):
+            sync_text_copies(plugin_dir, slug)
+        if has_individual_review(plugin_dir, slug) or hand_curated(slug):
             skipped += 1
             skipped_slugs.append(slug)
             continue
@@ -8036,16 +8040,18 @@ def main() -> int:
             continue
         skill_material = collect_skill_material(plugin_dir)
         werkstatt = build_werkstatt(plugin_dir, skill_material)
-        schnell = build_schnellstart(plugin_dir, skill_material)
+        schnell = build_schnellstart(plugin_dir, skill_material) if "schnellstart" in standalone_kinds(slug) else ""
         if byte_len(schnell) > MAX_FAST:
             problems.append(f"{slug}: Schnellstart {byte_len(schnell)} Bytes")
             continue
         if byte_len(werkstatt) > MAX_WERKSTATT:
             problems.append(f"{slug}: Werkstatt {byte_len(werkstatt)} Bytes")
             continue
-        (plugin_dir / f"{slug}-werkstatt.md").write_text(werkstatt, encoding="utf-8")
-        (plugin_dir / f"{slug}-schnellstart.md").write_text(schnell, encoding="utf-8")
-        written += 2
+        for kind, content in (("werkstatt", werkstatt), ("schnellstart", schnell)):
+            if kind in standalone_kinds(slug):
+                (plugin_dir / f"{slug}-{kind}.md").write_text(content, encoding="utf-8")
+                written += 1
+        sync_text_copies(plugin_dir, slug)
     if problems:
         print("Probleme:")
         for p in problems:
