@@ -64,7 +64,8 @@ class ArbeitszeugnisprueferTests(unittest.TestCase):
                 ):
                     self.assertIn(anchor, text)
                 self.assertRegex(text, r"nichtinteraktive[r]? Bearbeitung")
-                self.assertRegex(text, r"(?i)(?:mangelfrei|keine Änderung).*(?:kein|entfällt|ohne).*?(?:Forderungs|Arbeitgeber|extern)")
+                self.assertIn("mangelfrei", text)
+                self.assertIn("Verhandlungswunsch", text)
                 self.assertRegex(text, r"(?i)Arbeitgeber- oder Personalabteilung")
                 self.assertNotIn("skills/", text)
                 self.assertNotIn("noch keinen Prüfbericht", text)
@@ -77,6 +78,20 @@ class ArbeitszeugnisprueferTests(unittest.TestCase):
                 self.assertTrue(all(re.match(r"##+ \d+(?:\.\d+)*\. ", line) for line in text.splitlines() if line.startswith("##")))
                 if kind == "schnellstart":
                     self.assertLess(len(text.encode("utf-8")), 7500)
+                    self.assertLess(len(text), 7500)
+
+    def test_portable_prompts_cover_answer_states_and_followup(self):
+        # This is an editorial regression guard, not a model-performance test.
+        for kind in ("werkstatt", "schnellstart"):
+            text = (PLUGIN / f"arbeitszeugnispruefer-{kind}.md").read_text(encoding="utf-8")
+            with self.subTest(prompt=kind):
+                for anchor in ("Promptdatei", "Startformel", "Prüfziel", "Teilantwort", "Suchschleife", "Arbeitgeberantwort", "Vorfassung", "Folgeschreiben"):
+                    self.assertIn(anchor, text)
+                self.assertRegex(text, r"(?i)(?:unlesbar|OCR)")
+                self.assertRegex(text, r"(?i)widerspr[üu]")
+                self.assertRegex(text, r"(?i)(?:nicht live geprüft|keine.*live verifizierten)")
+                self.assertNotIn("höchstens eine Rückfrage", text)
+                self.assertNotIn("nur einmal gebündelt", text)
 
     def test_gateway_and_recipient_skills_define_the_same_completion(self):
         entry = (PLUGIN / "skills/einfuehrung-pruefauftrag/SKILL.md").read_text(encoding="utf-8")
@@ -175,12 +190,32 @@ class ArbeitszeugnisprueferTests(unittest.TestCase):
             "9 AZR 146/21",
             "9 AZR 272/22",
             "9 AZB 49/16",
+            "8 AZB 25/25",
         ):
             self.assertIn(citation, workshop)
         self.assertIn("Altvolltext ist im heutigen BAG-Onlinearchiv", workshop)
         self.assertIn("kein allgemeines Tabellen- oder Listenverbot", workshop)
         self.assertIn("die bloße zeitliche Abfolge genügt nicht", workshop)
         self.assertIn("Verwechsle die materielle Zeugnisbewertung nicht", workshop)
+        self.assertIn("Wahrheit und Klarheit bleiben Grenzen", workshop)
+        self.assertIn("Eine angekündigte Korrektur ist noch keine", (PLUGIN / "skills/einfuehrung-pruefauftrag/SKILL.md").read_text(encoding="utf-8"))
+
+    def test_grade_correction_does_not_reverse_burden_of_proof(self):
+        # Guard the note-4/5-to-3 branch independently of above-average targets.
+        paths = [PLUGIN / f"arbeitszeugnispruefer-{kind}.md" for kind in ("werkstatt", "schnellstart")]
+        paths += [PLUGIN / "skills" / slug / "SKILL.md" for slug in (
+            "einfuehrung-pruefauftrag", "beweislast-bag-9-azr-584-13",
+            "aufforderungsschreiben-berichtigung", "mandantenbericht-erstellen",
+            "klagestrategie-und-vollstreckung",
+        )]
+        for path in paths:
+            text = path.read_text(encoding="utf-8")
+            with self.subTest(path=path.relative_to(ROOT)):
+                self.assertRegex(text, r"(?i)(?:ausgangs- und zielnote|ausgangsnote 4 oder 5 und zielnote 3)")
+                self.assertIn("Arbeitgeber", text)
+                self.assertIn("Beweislast", text)
+                self.assertRegex(text, r"(?i)fehlende.*(?:Mehrleistungsbelege|Belege für Mehrleistung).*nicht.*(?:bloße[nr]? Bitte)")
+                self.assertNotIn("Ein Streit über eine bessere Gesamtbewertung verlangt", text)
 
     def test_every_skill_has_specific_routing_and_a_continuation_rule(self):
         paths = sorted((PLUGIN / "skills").glob("*/SKILL.md"))

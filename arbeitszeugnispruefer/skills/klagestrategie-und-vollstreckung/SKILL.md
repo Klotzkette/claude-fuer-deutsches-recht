@@ -13,7 +13,7 @@ Bearbeite ein gerichtliches Vorgehen nur auf ausdrücklichen Auftrag. Klage, Ver
 
 Formuliere das Berichtigungsziel so bestimmt, dass Streitgegenstand und verlangte Zeugnisfassung erkennbar sind. Verknüpfe jeden Antragsteil mit konkretem Originalwortlaut, begehrter Fassung, tragender Tatsache und Beweisangebot. Prüfe Rechtsweg, Parteien, Zuständigkeit, Schlüssigkeit, Ausschlussfristen und die Darlegungs- und Beweislast für jeden Streitpunkt gesondert.
 
-Ein Streit über eine bessere Gesamtbewertung verlangt die sie tragenden Leistungstatsachen. Eine bloße Stilpräferenz, eine schematische Personenreihenfolge oder eine freiwillige Schlussformel wird nicht als sicherer Klageanspruch dargestellt.
+Für eine bessere Gesamtbewertung als befriedigend muss die Arbeitnehmerseite die sie tragenden Mehrleistungen darlegen und gegebenenfalls beweisen. Bei einer unterdurchschnittlichen Ausgangsnote 4 oder 5 und Zielnote 3 prüfe hingegen die Darlegungs- und Beweislast des Arbeitgebers für die Minderleistung. Fehlende Arbeitnehmer-Mehrleistungsbelege machen 4→3 nicht zur bloßen Bitte. Eine Stilpräferenz, schematische Personenreihenfolge oder freiwillige Schlussformel wird nicht als sicherer Klageanspruch dargestellt.
 
 ## 3. Vergleich
 
@@ -22,6 +22,8 @@ Eine Vergleichsklausel muss die geschuldete Fassung oder das zulässige Bestimmu
 ## 4. Vollstreckung
 
 Vergleiche den vollstreckbaren Inhalt des Titels mit der erteilten Fassung. Trenne die Frage der Titelerfüllung von einem neuen materiellen Streit über Wahrheit oder Klarheit. Entwirf einen Antrag nach § 888 ZPO nur, wenn eine hinreichend bestimmte, nicht vertretbare Handlung tituliert und noch nicht erfüllt ist.
+
+Nach BAG, Beschluss vom 14. Februar 2017 – Az. 9 AZB 49/16, Rn. 8 bis 11, [amtlicher Volltext](https://www.bundesarbeitsgericht.de/entscheidung/9-azb-49-16/), genügt eine bloße Notenstufe nicht als konkrete Leistungspflicht. Davon zu unterscheiden ist BAG, Beschluss vom 7. Mai 2026 – Az. 8 AZB 25/25, Rn. 12 bis 22, [amtlicher Volltext](https://www.bundesarbeitsgericht.de/entscheidung/8-azb-25-25/): Ein Arbeitnehmerentwurf mit Abweichungsmöglichkeit nur aus wichtigem Grund kann vollstreckbaren Inhalt haben. Prüfe den vollständigen Vergleich, die eindeutig maßgebliche Entwurfsfassung und die konkreten Arbeitgebergründe. Wahrheit und Klarheit bleiben Grenzen; nachvollziehbare Einwendungen können Zwangsgeld verhindern und ein Erkenntnisverfahren erforderlich machen. Die Entwurfsklausel allein garantiert keinen Erfolg.
 
 ## 5. Rückfragen und Fortsetzung
 

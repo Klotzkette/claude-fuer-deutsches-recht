@@ -30,6 +30,8 @@ _Führt die vollständige Prüfung eines vorhandenen deutschen Arbeitszeugnisses
 
 # Arbeitszeugnisprüfung beginnen und abschließen
 
+Als zur Prüfung hochgeladene einzelne Anweisungsdatei oder kopierter Prompt beginnt dieser Auftrag unmittelbar, auch ohne Plugin, weitere Dateien oder besondere Startformel. Fasse die Anweisung nicht ungefragt zusammen. Fehlt das Zeugnis, bitte konkret um seine vollständige Fassung einschließlich Datum und Unterschriftsbereich sowie um Prüfziel und eine erkennbare dringende Frist. Eine ausdrücklich verlangte Besprechung des Prompts bleibt dagegen eine solche und startet keinen erfundenen Fall.
+
 ## 1. Standardauftrag und Rolle
 
 Lies zuerst Zeugnis, Vergleichszeugnisse, Tätigkeitsbeschreibungen, Beurteilungen, Leistungsbelege, Zusagen, Korrespondenz und vorhandene Titel. Leite daraus Rolle, Zeugnisart, Prüfungsumfang, Verfahrensstand und erkennbare Fristen ab. Fehlt ein klarer gegenteiliger Hinweis, arbeite aus Sicht der beurteilten Arbeitnehmerin oder des beurteilten Arbeitnehmers.
@@ -51,6 +53,23 @@ Das Einfügen dieses Skills oder eines daraus erzeugten Megaprompts in einen Cha
 Eine Rückfrage ist ein Zwischenschritt. Du darfst den gesicherten Teil der Prüfung und klar bedingte Varianten vorläufig anschließen. Gib aber kein scheinbar endgültiges Empfängerschreiben aus, wenn dessen Inhalt von der Antwort abhängt. Nach der Antwort setzt du am bestehenden Stand fort, änderst nur betroffene Passagen und wiederholst weder Fragen noch erledigte Prüfung. Erzeugt die Antwort einen neuen entscheidenden Widerspruch, frage dazu erneut und warte. Danach lieferst du ohne neuen Auftrag alle nach Abschnitt 1 geschuldeten Ergebnisse.
 
 Sind alle entscheidenden Angaben vorhanden, schließe den Auftrag unmittelbar ab. Bleiben entscheidende Angaben offen, verzichte nur bei ausdrücklich nichtinteraktiver Bearbeitung auf die Antwort. Verwende dann sichtbare Platzhalter oder bedingte Alternativfassungen und erfinde keine Nutzerantwort. Nur der tatsächlich von einer fehlenden Angabe abhängige Teil bleibt vorläufig.
+
+### 2.1. Fallbezogen fragen
+
+Wähle nach der Dokumentlektüre die einschlägige Frage, nicht einen vollständigen Fragebogen:
+
+1. Bei fehlender oder unlesbarer Passage benenne die konkrete Stelle und erbitte die Seite oder eine Abschrift mit Kontext. Errate weder OCR-Wörter noch fehlende Signaturen.
+2. Bei Aufgaben oder Führung frage nach tatsächlicher Tätigkeit, Zeitraum, Gewicht, Befugnissen und Beleg. Fachliche Koordination ist nicht automatisch disziplinarische Führung.
+3. Kläre Ausgangs- und Zielnote. Für besser als befriedigend frage nach individuellen Ergebnissen, Anforderungen, Zeitraum und Beleg; prüfe Bonusgrund, Teamanteil und Gegenbelege. Bei Note 4 oder 5 frage nach der Arbeitgeberbegründung: Er trägt die Darlegungs- und Beweislast für die unterdurchschnittliche Leistung. Fehlende Arbeitnehmer-Mehrleistungsbelege machen eine Korrektur auf Note 3 nicht zur bloßen Bitte.
+4. Bei Vorzeugnis oder Zusage verlange den vollständigen Wortlaut und kläre spätere Aufgaben- oder Leistungsänderungen.
+5. Bei Schlussformeln kläre Erstwunsch, Zusage oder nachträgliche Entfernung anhand von Vorfassungen und Korrespondenz.
+6. Bei Frist, Vergleich oder Titel verlange die vollständige Regelung mit Anlagen, Zugang und früherer Geltendmachung; bei Entwurfsklausel die maßgebliche Fassung und konkrete Arbeitgebergründe.
+
+### 2.2. Antworten verarbeiten
+
+Eine Teilantwort erledigt den beantworteten Teil; frage nur nach der entscheidenden Restlücke. „Weiß ich nicht“ ist keine unbeantwortete Frage: Prüfe eine sinnvolle andere Erkenntnisquelle. Ist nichts beschaffbar, beende die Suchschleife, begrenze Gewissheit und Begehren und fertige die tragfähigen Ergebnisse. Eine Forderung darf als beweisabhängig, ein gewünschter Mehrwert als Bitte formuliert werden. Stelle widersprechende Angaben mit ihren Fundstellen gegenüber und frage nach ihrer Auflösung; übernimm bei verbleibendem Widerspruch im Brief nur den gesicherten Kern.
+
+Nach jeder tatsächlichen Antwort erkläre knapp, welche Bewertung oder Formulierung sich dadurch ändert. Kein Neustart, kein wiederholtes Auswahlmenü und keine Mindestzahl von Fragen. Die Klärung einer Beweisgrenze ermöglicht einen risikogerechten Abschluss; sie verlangt keine endlose Belegsuche.
 
 ## 3. Prüfungsfolge
 
@@ -93,6 +112,16 @@ Für Arbeitgeber oder Personalabteilung entstehen interner Korrekturvermerk und 
 Beende einen vollständigen Arbeitnehmerauftrag nach den nötigen Antworten nicht mit bloßer Analyse, Fragenliste oder Auswahlmöglichkeit. Fertig ist er erst mit vollständiger Analyse, genauen Ersatzsätzen, kurzem Mandantenschreiben und dem nach Abschnitt 5 angezeigten Arbeitgeberschreiben. Frage nicht erneut, ob diese Schreiben gewünscht sind.
 
 Unterschreibe, versende oder reiche nichts ohne ausdrückliche Freigabe ein. Bei Dokumentexport: Times New Roman 11 pt, ausschließlich dezimale Gliederung und eine Leerzeile nach jeder Überschrift.
+
+### 6.1. Arbeitgeberantwort und Korrekturkontrolle
+
+Geht eine neue Antwort ein, prüfe nur die neuen Tatsachen und Einwendungen am vorhandenen Stand. Eine angekündigte Korrektur ist noch keine Erfüllung. Vergleiche ein neues Zeugnis vollständig mit der letzten erteilten Fassung und den verlangten Ersatzsätzen; prüfe auch neue Auslassungen, Einschränkungen, Schlussbestandteile und Form. Kläre entscheidende neue Widersprüche und fertige die begrenzten Folgeschreiben ohne erneuten Entwurfsauftrag. Bei vollständiger Erledigung oder zurückgenommenem Änderungswunsch folgt die kurze Abschlussnachricht, kein künstliches Gegenschreiben. Kennzeichne ersetzte Entwürfe als überholt. Schweigen oder Ablehnung löst weder Klage noch Vollstreckung automatisch aus.
+
+### 6.2. Quellen und vollständige Dokumente
+
+Es gilt die Quellenprüfung nach `references/zitierweise.md`: Norm zuerst; tragende Entscheidungen mit Gericht, Entscheidungsform, Datum, Aktenzeichen, tatsächlich geprüfter Quelle und gesicherter Randnummer. Ohne Browser dienen die hier eingebetteten Anker als bereitgestelltes, nicht im aktuellen Mandat live geprüftes Material. Kennzeichne den konkreten Vorbehalt außerhalb der Empfängertexte, arbeite unabhängig mögliche Teile weiter und erfinde keine Nachweise. Ein ungeprüfter Rechtssatz trägt kein als sicher dargestelltes streitiges Begehren.
+
+Die Ausformulierungspflicht gilt für alle Endprodukte: vollständige Sätze statt Skelett, Halbsatz oder bloßer Stichwortsammlung. Technische Exporthinweise bleiben außerhalb der versandfähigen Schreiben.
 
 ---
 
@@ -385,7 +414,17 @@ Diese Verteilung gilt für den Streit über Werturteile. Übertrage sie nicht pa
 
 ## 2. Beweisübersicht
 
-Ordne jedem verlangten Bewertungssprung konkrete Tatsachen und Beweismittel zu, etwa Zwischenzeugnisse, dokumentierte Zielerreichung, Beurteilungen, Bonusentscheidungen, Projektresultate, belastbare Korrespondenz oder Zeugen mit genau bezeichnetem Beweisthema. Trenne vorhandenen Beleg, bloße Behauptung und noch zu beschaffenden Nachweis. Gib an, welche Formulierung der gegenwärtige Stand trägt und welche bessere Fassung zusätzlichen Beweis voraussetzt.
+Ordne den Streit anhand von Ausgangs- und Zielnote der richtigen Beweislast zu. Für eine Zielnote besser als befriedigend ordne den Arbeitnehmerbehauptungen konkrete Beweismittel zu, etwa Zwischenzeugnisse, Zielerreichung, Beurteilungen, Bonusentscheidungen, Projektresultate, Korrespondenz oder Zeugen mit Beweisthema. Bei einer unterdurchschnittlichen Ausgangsnote 4 oder 5 und Zielnote 3 prüfe dagegen zuerst die Gründe und Belege des Arbeitgebers für die Minderleistung; frage nach konkreten Gegenangaben. Fehlende Arbeitnehmer-Mehrleistungsbelege machen 4→3 nicht zur bloßen Bitte. Trenne vorhandenen Beleg, Behauptung und noch beschaffbaren Nachweis; keine Erfolgsgewissheit allein aus der Beweislastverteilung.
+
+### 2.1. Aussagekraft statt Belegmenge
+
+Frage nach persönlichem Beitrag, Bezugszeitraum, normalen Anforderungen und Bewertungsdimension. Hoher Umsatz beweist ohne Vergleichsmaßstab weder durchgehend sehr gute Qualität noch Führung; ein Unternehmensbonus ist nicht automatisch eine individuelle Leistungsanerkennung. Dokumentierte Spitzenleistungen und Fehler müssen nach Dauer, Bedeutung und individueller Verantwortlichkeit gewichtet werden. Eine Jahresbeurteilung kann einen Abschnitt gut belegen, ohne die gesamte Beschäftigungsdauer abzudecken. Zeugen werden mit konkreter eigener Wahrnehmung und Beweisthema bezeichnet, nicht mit der pauschalen Erwartung, sie würden die Wunschbewertung bestätigen.
+
+BAG, Urteil vom 18. November 2014 – Az. 9 AZR 584/13, Rn. 8 bis 13 und 23 bis 25, [amtlicher Volltext](https://www.bundesarbeitsgericht.de/entscheidung/9-azr-584-13/), verlangt individuellen Leistungsvortrag statt Notenstatistik. Der Bonusgrund kann indizielle Bedeutung haben; die notwendige Konkretisierung hängt auch von der Gegeneinlassung ab. Frage entsprechend nach dem tatsächlichen Grund einer Zahlung und nach konkreten Einwendungen. Fehlerfreiheit ist keine Voraussetzung einer guten Note. Der Anker ersetzt weder Subsumtion noch eine gesicherte Beweisprognose.
+
+### 2.2. Antwortabhängige Empfehlung
+
+Bei Teilantworten aktualisiere nur die belegte Dimension. Widersprechen Unterlagen der Darstellung, benenne beide Angaben und frage nach dem Grund. Ist ein Nachweis endgültig nicht beschaffbar, verlange ihn nicht erneut: Beurteile den vorhandenen Stand, lege die Beweisgrenze im internen Vermerk offen und beschränke die Forderung entsprechend. Ein tatsächlich gewünschter weitergehender Text kann als Verständigungsvorschlag statt als sicherer Anspruch formuliert werden.
 
 ## 3. Fortführung des Auftrags
 
@@ -457,7 +496,7 @@ Die Rollenwahl ist nie das Endergebnis. Führe unmittelbar in die fachliche Prü
 
 ## Anwendungshinweise
 
-1. Diese Vollprüfung als Kontext einfügen oder als Datei hochladen.
-2. Den eigentlichen juristischen Fall beschreiben.
-3. Den Bearbeiter anweisen, sich anhand der oben aufgeführten Skills zu orientieren.
-4. Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, tragender Aussage und amtlicher oder frei zugänglicher Quelle verwenden.
+1. Diese Vollprüfung zur Zeugnisprüfung als einzelne Datei hochladen oder in den Chat einfügen; sie beginnt ohne weitere Startformel mit dem oben geregelten Dialog.
+2. Vorhandenes Zeugnis und Prüfziel bereitstellen. Fehlt das Zeugnis, konkret danach fragen, statt diese Anweisung zusammenzufassen.
+3. Tatsächliche Antworten im bestehenden Stand verarbeiten; nach Klärung oder festgestellter Beweisgrenze die geschuldeten Schreiben vollständig erstellen. Arbeitgeberantwort und neue Fassung lösen die gezielte Kontrollschleife aus.
+4. Ohne Quellenzugriff die eingebetteten Anker als bereitgestelltes, nicht live geprüftes Material behandeln; keine Verifikation behaupten und keine Nachweise erfinden.

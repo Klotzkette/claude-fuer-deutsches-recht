@@ -1,6 +1,6 @@
 # fachanwalt-arbeitsrecht
 
-**107 Skills** · Stand `v445.10.1`
+**107 Skills** · Stand `v445.11.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../fachanwalt-arbeitsrecht/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
