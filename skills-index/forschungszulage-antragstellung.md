@@ -1,6 +1,6 @@
 # forschungszulage-antragstellung
 
-**85 Skills** · Stand `v445.13.1`
+**85 Skills** · Stand `v445.13.2`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../forschungszulage-antragstellung/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

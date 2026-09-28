@@ -1,3 +1,9 @@
+# v445.13.2 - Abgeleitete Aktenverweise vollständig abgeglichen
+
+Die beiden Pluginverzeichnisse zur Göttinger Akte übernehmen nun auch den nach der dezimalen Gliederung normalisierten Dokumenttitel. Wiederholte vollständige Generatorläufe sichern den identischen Katalogstand. Die Inhalte, Originalunterlagen und fachlichen Prüfungen bleiben unverändert.
+
+Diese Version veröffentlicht den nachfolgend beschriebenen Gesamtumfang. Die Entwürfe v445.13.0 und v445.13.1 wurden vor dem Asset-Upload angehalten; ihre Tags bleiben unangetastet. Das Akten-Begleitrelease heißt `akten-v445.13.2`.
+
 # v445.13.1 - Plattformübergreifender Abgleich der E-Mail-Anlagen
 
 Die Prüfung der FinTech-Nachrichten berücksichtigt äußere Faltungsleerzeichen in beschreibenden E-Mail-Headern. Python-Versionen dürfen diese unterschiedlich entfalten; Dateinamen, MIME-Anlagen und Originalbytes werden unverändert streng geprüft. Die neuen Fachprüfer und Akten bestehen ihre zusätzlichen Regressionen unter Python 3.12; der Göttinger PDF-Builder ist auch mit Liberation Serif statt Times New Roman geprüft. Alle Überschriften der vier neuen Akten-READMEs werden einschließlich des Downloadabschnitts dauerhaft dezimal erzeugt und gesondert geprüft.

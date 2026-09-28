@@ -1,6 +1,6 @@
 # schoeffen-handelsrichter-praxis
 
-**82 Skills** · Stand `v445.13.1`
+**82 Skills** · Stand `v445.13.2`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../schoeffen-handelsrichter-praxis/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
