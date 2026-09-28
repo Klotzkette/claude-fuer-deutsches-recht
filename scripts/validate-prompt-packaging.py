@@ -9,8 +9,9 @@ import sys
 import zipfile
 from pathlib import Path
 
+from prompt_profiles import PROMPT_SUFFIXES, formats, standalone_kinds, validate_files
 
-PROMPT_SUFFIXES = ("-werkstatt.md", "-schnellstart.md", "-hauptproblem.md")
+
 
 
 def fail(message: str) -> None:
@@ -67,10 +68,14 @@ def main() -> None:
         name = plugin["name"]
         source = str(plugin.get("source") or f"./{name}").removeprefix("./")
         plugin_dir = repo_root / source
-        for suffix in ("-werkstatt.md", "-schnellstart.md"):
-            prompt = plugin_dir / f"{name}{suffix}"
-            if not prompt.is_file():
-                fail(f"Direkter Markdown-Download fehlt: {prompt}")
+        errors = validate_files(plugin_dir, name, repo_root)
+        if errors:
+            fail("; ".join(errors))
+        for kind in standalone_kinds(name):
+            for ext in formats(name):
+                prompt = plugin_dir / f"{name}-{kind}.{ext}"
+                if not prompt.is_file():
+                    fail(f"Direkter Prompt-Download fehlt: {prompt}")
 
         assert_archive_clean(dist_dir / f"{name}.zip")
         skill_bundle = dist_dir / "skills-markdown" / f"{name}-skills-markdown.zip"

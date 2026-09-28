@@ -7,6 +7,8 @@ import json
 import re
 from pathlib import Path
 
+from prompt_profiles import enabled
+
 from testakte_zip_common import working_dump_flat_pairs
 
 
@@ -137,8 +139,8 @@ def check_sorted_inventories(marketplace: dict) -> list[str]:
         werkstatt = werkstatt.split("## Werkstatt-Prompts", 1)[1]
         werkstatt_names = re.findall(r"^\| `([^`]+)` \|", werkstatt, re.MULTILINE)
         schnellstart_names = re.findall(r"^\| `([^`]+)` \|", schnellstart, re.MULTILINE)
-        errors += sequence_error("Werkstatt-Prompt-Liste", werkstatt_names, expected_names)
-        errors += sequence_error("Schnellstart-Prompt-Liste", schnellstart_names, expected_names)
+        errors += sequence_error("Werkstatt-Prompt-Liste", werkstatt_names, [name for name in expected_names if enabled(name, "werkstatt")])
+        errors += sequence_error("Schnellstart-Prompt-Liste", schnellstart_names, [name for name in expected_names if enabled(name, "schnellstart")])
 
     testakten_root = REPO / "testakten"
     expected_akten = sorted(

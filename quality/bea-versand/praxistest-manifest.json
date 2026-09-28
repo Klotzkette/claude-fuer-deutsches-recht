@@ -1,0 +1,236 @@
+{
+  "reviewed_on": "2026-09-28",
+  "method": "manueller agentischer Praxistest mit tatsächlich erzeugten und visuell geprüften PDFs",
+  "final_skill_sha256": "b5ae389012491f5ab6957043d030e1505e247189c7bc6efbdf9df48ef83bf93c",
+  "final_workshop_sha256": "0a81d18737994e2adab57916fb21ec40f36309c40f856602c65c47231fbfc8b7",
+  "originals": [
+    {
+      "name": "AW Re dringend Ihre Zahlungsaufforderung.eml",
+      "format": ".eml",
+      "bytes": 1961,
+      "sha256": "40ea15788376d124ae1f529b2b4a7f8c0aa958c3f52030bc4190bf1e6e1ef710"
+    },
+    {
+      "name": "Dokument1.pdf",
+      "format": ".pdf",
+      "bytes": 258259,
+      "sha256": "6450b5a44847152c7488912fded912def203558a2a14b590d8518bd8f2f97383"
+    },
+    {
+      "name": "Entwurf Klage MODEFUCHS FINAL v3 (2).docx",
+      "format": ".docx",
+      "bytes": 13374,
+      "sha256": "ccfa04c50a3757bb9ef270759c2feb331781a5962283bafe43c5f8d3b2d569b1"
+    },
+    {
+      "name": "IMG_2047.jpg",
+      "format": ".jpg",
+      "bytes": 267034,
+      "sha256": "347a00c061f44c186e9631958db873bd6ec762fccba0275079823afe663d2983"
+    },
+    {
+      "name": "Scan007.pdf",
+      "format": ".pdf",
+      "bytes": 251194,
+      "sha256": "5a908d97c3244a685eb72551e84b87809e3aa2339146c45b6d254807c9a8d51e"
+    },
+    {
+      "name": "Scan_20250610_113247.pdf",
+      "format": ".pdf",
+      "bytes": 236803,
+      "sha256": "1e5f38424b7615334b4b4473cf737495d8df286a08205523433a58d6eb98b7d9"
+    },
+    {
+      "name": "mail (2).eml",
+      "format": ".eml",
+      "bytes": 5844,
+      "sha256": "37df753470b287aeba2acf6599996a47f75152a18f309a525dbcfdb94fd8a9bb"
+    },
+    {
+      "name": "mail (3).eml",
+      "format": ".eml",
+      "bytes": 1256,
+      "sha256": "00de21f8b6ef9caf463debe96ea476f42705ab987cfe99062cf321d503421c23"
+    },
+    {
+      "name": "mail.eml",
+      "format": ".eml",
+      "bytes": 1544,
+      "sha256": "232aaf881e68c80f73570944ed8c9842847dae0201cf581298b5b1fed2ec43ac"
+    },
+    {
+      "name": "unbenannt.xlsx",
+      "format": ".xlsx",
+      "bytes": 6353,
+      "sha256": "153d0a4ef765e3ba48fde5d993997ed8a801542d445d600b17e965cc22a95e65"
+    }
+  ],
+  "modefuchs_outputs": [
+    {
+      "kennzeichen": "Hauptdokument",
+      "file": "Klage_InkassoZentrale-GmbH.pdf",
+      "sources": [
+        "Entwurf Klage MODEFUCHS FINAL v3 (2).docx"
+      ],
+      "pages": 4,
+      "stamp": null,
+      "bytes": 68451,
+      "sha256": "f3e5a7111ee61cc7ab31ba0bad47e4ae519f4e341430d8d3c60652d87a9ab749",
+      "filename_characters": 30
+    },
+    {
+      "kennzeichen": "K1",
+      "file": "Anlage_K1_Abtretungserklärung_20250608.pdf",
+      "sources": [
+        "Dokument1.pdf"
+      ],
+      "pages": 1,
+      "stamp": "Anlage K 1",
+      "stamp_font": "Arial Bold",
+      "font_points": 30,
+      "stamp_position": "oben rechts; 28 pt Randabstand rechts und oberhalb der Schriftfläche",
+      "stamp_bbox_points": [
+        418.40093750000005,
+        789.605703125,
+        573.44,
+        817.76
+      ],
+      "bytes": 288446,
+      "sha256": "e3e0420c8ab601bcdfcfbfa3d118663188a40d73154b1145073cb5005eebb8fa",
+      "filename_characters": 42
+    },
+    {
+      "kennzeichen": "K2",
+      "file": "Anlage_K2_Bestellbestätigung_20250403.pdf",
+      "sources": [
+        "mail.eml"
+      ],
+      "pages": 1,
+      "stamp": "Anlage K 2",
+      "stamp_font": "Arial Bold",
+      "font_points": 30,
+      "stamp_position": "oben rechts; 28 pt Randabstand rechts und oberhalb der Schriftfläche",
+      "stamp_bbox_points": [
+        412.23653750000005,
+        785.735503125,
+        567.2756,
+        813.8898
+      ],
+      "bytes": 111429,
+      "sha256": "38317c7ce875f9cb0afc14ec972c17775e3b0143b98b0fc82ca58f5af98269b9",
+      "filename_characters": 41
+    },
+    {
+      "kennzeichen": "K3",
+      "file": "Anlage_K3_Rechnung-und-Übersendungsmail_20250406.pdf",
+      "sources": [
+        "mail (2).eml: Rechnung_R-20250406-3098.pdf",
+        "mail (2).eml: Nachricht"
+      ],
+      "pages": 2,
+      "stamp": "Anlage K 3",
+      "stamp_font": "Arial Bold",
+      "font_points": 30,
+      "stamp_position": "oben rechts; 28 pt Randabstand rechts und oberhalb der Schriftfläche",
+      "stamp_bbox_points": [
+        412.23653750000005,
+        785.735503125,
+        567.2756,
+        813.8898
+      ],
+      "bytes": 117159,
+      "sha256": "261eddeefcfe2571e9ab6dcbd78d05f1e302c21ab6d53db61722dc2336b2d0c8",
+      "filename_characters": 52
+    },
+    {
+      "kennzeichen": "K4",
+      "file": "Anlage_K4_Zahlungserinnerung_20250420.pdf",
+      "sources": [
+        "mail (3).eml"
+      ],
+      "pages": 1,
+      "stamp": "Anlage K 4",
+      "stamp_font": "Arial Bold",
+      "font_points": 30,
+      "stamp_position": "oben rechts; 28 pt Randabstand rechts und oberhalb der Schriftfläche",
+      "stamp_bbox_points": [
+        412.23653750000005,
+        785.735503125,
+        567.2756,
+        813.8898
+      ],
+      "bytes": 110601,
+      "sha256": "66f1cc0970e209c64000797618f443d3316afddb7f2eb3841bc171fe8b89f2a3",
+      "filename_characters": 41
+    },
+    {
+      "kennzeichen": "K5",
+      "file": "Anlage_K5_Mahnung_20250505.pdf",
+      "sources": [
+        "Scan_20250610_113247.pdf"
+      ],
+      "pages": 1,
+      "stamp": "Anlage K 5",
+      "stamp_font": "Arial Bold",
+      "font_points": 30,
+      "stamp_position": "oben rechts; 28 pt Randabstand rechts und oberhalb der Schriftfläche",
+      "stamp_bbox_points": [
+        425.12093749999997,
+        794.405703125,
+        580.16,
+        822.56
+      ],
+      "bytes": 266968,
+      "sha256": "d5ca8284f9ab0df99bde27da97634847c935426f4a3417f4366bcfbb08293046",
+      "filename_characters": 30
+    },
+    {
+      "kennzeichen": "K6",
+      "file": "Anlage_K6_Zweite-Mahnung-und-Einlieferungsbeleg_20250522.pdf",
+      "sources": [
+        "Scan007.pdf",
+        "IMG_2047.jpg"
+      ],
+      "pages": 2,
+      "stamp": "Anlage K 6",
+      "stamp_font": "Arial Bold",
+      "font_points": 30,
+      "stamp_position": "oben rechts; 28 pt Randabstand rechts und oberhalb der Schriftfläche",
+      "stamp_bbox_points": [
+        422.2409375,
+        792.485703125,
+        577.28,
+        820.64
+      ],
+      "bytes": 2396666,
+      "sha256": "4588cc569e5a8eb8e450681a60983e190a008824f05f637152a37a8d1d3e936d",
+      "filename_characters": 60
+    },
+    {
+      "kennzeichen": "K7",
+      "file": "Anlage_K7_E-Mail-des-Beklagten_20250627.pdf",
+      "sources": [
+        "AW Re dringend Ihre Zahlungsaufforderung.eml"
+      ],
+      "pages": 1,
+      "stamp": "Anlage K 7",
+      "stamp_font": "Arial Bold",
+      "font_points": 30,
+      "stamp_position": "oben rechts; 28 pt Randabstand rechts und oberhalb der Schriftfläche",
+      "stamp_bbox_points": [
+        412.23653750000005,
+        785.735503125,
+        567.2756,
+        813.8898
+      ],
+      "bytes": 111515,
+      "sha256": "b0800dd36934c4aafbcb3cd4a127dd3500ef964c1c50a9b229029246e78affe8",
+      "filename_characters": 43
+    }
+  ],
+  "limits": [
+    "Lokale Dateiproduktion, keine beA-Übermittlung und keine qeS-Vertrauensprüfung.",
+    "Kein allgemeiner semantischer Parser oder automatischer Aktivierungsbenchmark.",
+    "Die ausdrückliche Prüfung auf interne Vermerke und Platzhalter wurde nach dem Modefuchs-Befund redaktionell ergänzt."
+  ]
+}

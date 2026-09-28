@@ -1,6 +1,6 @@
 # aktenaufbereiter-strafrecht
 
-**60 Skills** · Stand `v445.9.2`
+**60 Skills** · Stand `v445.10.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../aktenaufbereiter-strafrecht/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

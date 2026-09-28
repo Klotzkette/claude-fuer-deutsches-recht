@@ -6182,6 +6182,7 @@ EXACT_PROFILE_KEYS: dict[str, str] = {
     "grundsteuerrecht": "grundsteuerrecht",
     "schoeffen-handelsrichter-praxis": "ehrenamtliche_richter",
     "schriftsatz-versandwerkstatt": "dokumentenworkflow",
+    "bea-versand": "dokumentenworkflow",
     "schulrecht-laender": "bildung",
     "seerecht-schifffahrtsrecht": "transport_handel",
     "solo-selbststaendige-praxis": "selbststaendige",

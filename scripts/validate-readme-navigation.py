@@ -10,6 +10,8 @@ import unicodedata
 from html.parser import HTMLParser
 from os.path import relpath
 from pathlib import Path
+
+from prompt_profiles import formats, standalone_kinds
 from urllib.parse import quote, unquote, urlsplit
 
 from markdown_it import MarkdownIt
@@ -171,12 +173,24 @@ def is_markdown_work_file(destination: str) -> bool:
 
 
 def is_markdown_download_target(repo_path: str) -> bool:
-    """Entspricht dem Pfadformat der Downloadseite, auch für Quellenhilfen."""
-    return (
-        re.fullmatch(r"[A-Za-z0-9._/ -]+\.md", repo_path) is not None
-        and not repo_path.startswith("/")
-        and not {"..", ".git"}.intersection(repo_path.split("/"))
-    )
+    """Markdown-Quellen und ausdrücklich konfigurierte TXT-Promptkopien."""
+    if (re.fullmatch(r"[A-Za-z0-9._/ -]+\.(?:md|txt)", repo_path) is None
+            or repo_path.startswith("/")
+            or {"..", ".git"}.intersection(repo_path.split("/"))):
+        return False
+    if repo_path.endswith(".md"):
+        return True
+    # TXT ist nur für die im Marketplace registrierte Pluginquelle und die
+    # konkreten Varianten seines Publikationsprofils freigegeben.
+    marketplace = json.loads(MARKETPLACE.read_text(encoding="utf-8"))
+    for plugin in marketplace.get("plugins", []):
+        name = plugin["name"]
+        if "txt" not in formats(name):
+            continue
+        source = str(plugin.get("source") or f"./{name}").removeprefix("./")
+        if repo_path in {f"{source}/{name}-{kind}.txt" for kind in standalone_kinds(name)}:
+            return True
+    return False
 
 
 def user_facing_download_docs() -> list[Path]:
@@ -288,10 +302,8 @@ def validate_generated_navigation(errors: list[str]) -> tuple[int, int]:
 
         skills = sorted((directory / "skills").glob("*/SKILL.md"))
         detail_text = detail.read_text(encoding="utf-8")
-        prompt_paths = [
-            f"{source}/{name}-werkstatt.md",
-            f"{source}/{name}-schnellstart.md",
-        ]
+        prompt_paths = [f"{source}/{name}-{kind}.{ext}"
+                        for kind in standalone_kinds(name) for ext in formats(name)]
         for prompt_path in prompt_paths:
             direct = markdown_download_url(prompt_path)
             if direct not in readme_text or direct not in detail_text or direct not in asset_index:

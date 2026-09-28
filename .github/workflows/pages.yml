@@ -5,6 +5,7 @@ on:
     branches: [main]
     paths:
       - '**/*.md'
+      - '**/*-werkstatt.txt'
       - 'uebersicht-fachanwaltschaften/**'
       - '.github/workflows/pages.yml'
   workflow_dispatch:
@@ -29,7 +30,7 @@ jobs:
         uses: actions/checkout@v5
       - name: Setup Pages
         uses: actions/configure-pages@v6
-      - name: Prepare site and Markdown downloads
+      - name: Prepare site and prompt downloads
         shell: bash
         run: |
           mkdir -p _site/downloads
@@ -38,7 +39,7 @@ jobs:
             target="_site/downloads/${file#./}"
             mkdir -p "$(dirname "$target")"
             cp "$file" "$target"
-          done < <(find . -type f -name '*.md' -not -path './.git/*' -not -path './_site/*' -print0)
+          done < <(find . -type f \( -name '*.md' -o -name '*-werkstatt.txt' \) -not -path './.git/*' -not -path './_site/*' -print0)
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v5
         with:

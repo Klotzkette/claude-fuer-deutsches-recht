@@ -142,6 +142,7 @@ jobs:
           # direkte Markdown-Downloads im Repository erreichbar. Sie gehören
           # weder in die Skill-Logik noch in die installierbaren Plugin-ZIPs.
           python3 scripts/generate-werkstatt-und-schnellstart-prompts.py
+          python3 scripts/test-prompt-publication-profiles.py
           python3 scripts/test-prompt-generator-excerpts.py
           python3 scripts/test-prompt-routing-scope.py
           python3 scripts/test-prompt-workflow-preservation.py
@@ -223,7 +224,8 @@ jobs:
             echo "Baue $plugin.zip"
             (cd "$source" && zip -rq "${GITHUB_WORKSPACE}/dist/${plugin}.zip" . \
               -x '*.DS_Store' '*__pycache__*' '*.pyc' 'CLAUDE.md' \
-                 '*-werkstatt.md' '*-schnellstart.md' '*-hauptproblem.md')
+                 '*-werkstatt.md' '*-schnellstart.md' '*-hauptproblem.md' \
+                 '*-werkstatt.txt' '*-schnellstart.txt' '*-hauptproblem.txt')
             ls -la "dist/${plugin}.zip"
           done < dist/plugin-map.tsv
           # Manifest fuer Marketplace-Komfort

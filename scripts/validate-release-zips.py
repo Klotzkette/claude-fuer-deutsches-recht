@@ -8,6 +8,8 @@ import sys
 import zipfile
 from pathlib import Path
 
+from prompt_profiles import PROMPT_SUFFIXES
+
 
 def fail(message: str) -> None:
     print(f"validate-release-zips failed: {message}", file=sys.stderr)
@@ -51,7 +53,7 @@ def validate_plugin_zip(dist_dir: Path, plugin_name: str, expected_version: str)
     if "CLAUDE.md" in names:
         fail(f"{zip_path}: root CLAUDE.md must not be shipped; the upload validation may reject it")
     auxiliary_prompts = sorted(
-        name for name in names if name.endswith(("-werkstatt.md", "-schnellstart.md", "-hauptproblem.md"))
+        name for name in names if name.endswith(PROMPT_SUFFIXES)
     )
     if auxiliary_prompts:
         fail(

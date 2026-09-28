@@ -7,6 +7,8 @@ import json
 import re
 from pathlib import Path
 
+from prompt_profiles import hand_curated
+
 from prompt_limits import MAX_WORKSHOP_BYTES
 
 
@@ -141,7 +143,7 @@ def prompt_is_protected(directory: Path) -> bool:
         from quality_lab import load, validate_profile
         validate_profile(load(profile_path), slug, directory, REPO)
         return True
-    return slug in hand_curated_slugs()
+    return hand_curated(slug) or slug in hand_curated_slugs()
 
 
 def skill_files() -> list[Path]:

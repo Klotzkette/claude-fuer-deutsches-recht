@@ -1,0 +1,21 @@
+{
+  "name": "bea-versand",
+  "version": "445.10.0",
+  "description": "Ein Skill für die beA-Versandvorbereitung beliebiger Dokumente: Anlagen aus Inhalt und Kontext zuordnen, PDF-Kopien erzeugen, erste Anlagenseiten stempeln und Dateien passend benennen. Mit einem Werkstatt-Prompt und der Modefuchs-Testakte.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Klotzkette",
+    "email": "39582916+Klotzkette@users.noreply.github.com"
+  },
+  "homepage": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bea-versand",
+  "keywords": [
+    "bea",
+    "anlagen",
+    "versandvorbereitung",
+    "pdf",
+    "stempel",
+    "dateinamen",
+    "dokumente",
+    "modefuchs"
+  ]
+}

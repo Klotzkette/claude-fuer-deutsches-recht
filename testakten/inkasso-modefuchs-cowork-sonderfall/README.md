@@ -25,7 +25,7 @@ English: The original-format ZIP contains the working files directly at archive 
 
 Sonderfall-Goodie zum Ausprobieren der Claude Cowork-Funktion. Diese Akte simuliert einen typischen Übergabeordner auf dem Desktop eines Inkasso-Sachbearbeiters: E-Mails als echte `.eml`-Dateien, Mahnungen als Scans ohne Textebene, ein Handyfoto des Einlieferungsbelegs, ein rohes Forderungskonto als Excel und ein Klageentwurf als Word-Datei – alles mit absichtlich nichtssagenden Dateinamen wie `Scan007.pdf`, `mail (2).eml` oder `Dokument1.pdf`.
 
-Zugeordnetes Plugin: `forderungsmanagement-klagewerkstatt` (die Akte funktioniert aber auch ganz ohne Plugin als reine Cowork-Demo).
+Zugeordnete Plugins: [Forderungsmanagement-Klagewerkstatt](../../forderungsmanagement-klagewerkstatt/README.md) (`forderungsmanagement-klagewerkstatt`) und [beA-Versand](../../bea-versand/README.md) (`bea-versand`). Die Akte funktioniert auch ohne Plugin als Cowork-Demo. Für die reine Anlagenvorbereitung bietet beA-Versand genau einen Skill und einen Werkstatt-Prompt; dieser Auftrag verändert oder finalisiert den Klageinhalt nicht.
 
 ## Kernfall
 
@@ -65,8 +65,10 @@ Beispiel-Prompt:
 
 - Alle zehn Dateien sind inhaltlich korrekt erkannt und sprechend umbenannt.
 - Die Anlagen K 1 bis K 7 sind vollständig und richtig zugeordnet: K 1 Abtretung (`Dokument1.pdf`), K 2 Bestellbestätigung (`mail.eml`), K 3 Rechnung nebst E-Mail (`mail (2).eml`), K 4 Zahlungserinnerung (`mail (3).eml`), K 5 erste Mahnung (`Scan_20250610_113247.pdf`), K 6 zweite Mahnung nebst Einlieferungsbeleg (`Scan007.pdf` + `IMG_2047.jpg`), K 7 Schuldner-E-Mail (`AW Re dringend….eml`).
-- Jede Anlage liegt als PDF mit Stempel „Anlage K n" vor; E-Mails sind als lesbare PDF gerendert, der Rechnungsanhang aus `mail (2).eml` ist extrahiert.
-- Die Forderungsaufstellung stimmt mit dem Klageentwurf überein: 698,00 EUR Hauptforderung, 5,50 EUR Mahngebühren, 10,80 EUR Verzugszinsen, 83,54 EUR Inkassokosten.
+- Jede Anlage liegt als PDF vor; für den beA-Versand-Skill erhält nur die erste Seite der jeweiligen Anlage beziehungsweise des Konvoluts den Stempel „Anlage K n“. E-Mails sind vollständig lesbar gerendert, der echte Rechnungsanhang aus `mail (2).eml` ist Bestandteil von K 3.
+- Der Klageentwurf nennt 698,00 EUR Hauptforderung, 5,50 EUR Mahngebühren, 10,80 EUR Verzugszinsen und 83,54 EUR Inkassokosten. Die Arbeitsmappe bestätigt dies nicht widerspruchsfrei: Ihre Zinstage ergeben 79 statt des angegebenen Summenwerts 78; die Teilformeln ergeben zusammen 10,99 EUR statt des fest eingetragenen Betrags 10,80 EUR. Die Inkassokosten sind nicht Bestandteil des dortigen Saldos. Diese Abweichungen sind zu erkennen und gesondert zu klären; reine Versandvorbereitung berichtigt keine Forderungen.
+- Datum und Unterschrift des Hauptdokuments sind offen; der Entwurf enthält interne Hinweise und einen ungeklärten Wechsel zwischen Klage und Anspruchsbegründung nach Mahnverfahren. Technisch vorbereitete Kopien sind deshalb keine inhaltliche Freigabe des Entwurfs.
+- Das Excel-Forderungskonto ist im Entwurf nicht als Anlage bezeichnet und wird nicht automatisch als K 8 beigefügt. Einlieferung, Zugang und tatsächlicher Zahlungseingang sind zu unterscheiden.
 - Bonus: Das Spannungsfeld um den Zugang der E-Mail-Rechnung (Spamfilter, § 130 BGB, Verzugsbeginn § 286 Abs. 3 BGB) wird als offener Streitpunkt erkannt und nicht stillschweigend zugunsten einer Seite aufgelöst.
 
 ## Bezug zur Hauptakte

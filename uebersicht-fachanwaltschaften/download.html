@@ -108,12 +108,12 @@
 </head>
 <body>
   <main>
-    <h1>Markdown-Datei herunterladen</h1>
+    <h1>Prompt oder Skill herunterladen</h1>
     <p id="status" role="status" aria-live="polite">Der Download wird gestartet.</p>
     <p class="english">The download is starting. If the browser blocks it, use the download button below.</p>
     <p class="file" id="file"></p>
     <div class="actions">
-      <a class="button" id="download" download>MD herunterladen</a>
+      <a class="button" id="download" download>Datei herunterladen</a>
       <a class="button secondary" href="https://github.com/Klotzkette/claude-fuer-deutsches-recht">Zum Repository / Repository</a>
     </div>
     <noscript>
@@ -131,7 +131,7 @@
       const download = document.getElementById("download");
 
       const isAllowedPath = (value) => {
-        if (!/^[A-Za-z0-9._/ -]+\.md$/.test(value)) return false;
+        if (!/^[A-Za-z0-9._/ -]+\.(md|txt)$/.test(value)) return false;
         if (value.startsWith("/") || value.includes("\\")) return false;
         return !value.split("/").includes("..");
       };
@@ -164,7 +164,8 @@
       file.textContent = filename;
       download.href = href;
       download.download = filename;
-      status.textContent = "Der Download wurde gestartet. Falls nichts passiert, klicke auf „MD herunterladen“.";
+      download.textContent = path.endsWith(".txt") ? "TXT herunterladen" : "MD herunterladen";
+      status.textContent = `Der Download wurde gestartet. Falls nichts passiert, klicke auf „${download.textContent}“.`;
       download.click();
     })();
   </script>

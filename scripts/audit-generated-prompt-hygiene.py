@@ -7,6 +7,8 @@ import json
 import re
 from pathlib import Path
 
+from prompt_profiles import standalone_kinds
+
 from markdown_it import MarkdownIt
 
 REPO = Path(__file__).resolve().parent.parent
@@ -137,12 +139,7 @@ def prompt_files() -> list[Path]:
             continue
         manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
         slug = manifest.get("name") or plugin_dir.name
-        files.extend(
-            (
-                plugin_dir / f"{slug}-werkstatt.md",
-                plugin_dir / f"{slug}-schnellstart.md",
-            )
-        )
+        files.extend(plugin_dir / f"{slug}-{kind}.md" for kind in standalone_kinds(slug))
         focus = plugin_dir / f"{slug}-hauptproblem.md"
         if focus.is_file():
             files.append(focus)

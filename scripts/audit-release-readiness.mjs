@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 import fs from 'node:fs';
 import path from 'node:path';
+import { promptEnabled, promptKinds, promptFormats, promptProfileErrors } from './prompt-profiles.mjs';
 
 // Dateischutz für eigenständige Downloads; Skill- und Modellbudgets bleiben getrennt.
 const promptLimits = JSON.parse(fs.readFileSync(new URL('./prompt-limits.json', import.meta.url), 'utf8'));
@@ -87,10 +88,11 @@ for (const entry of marketplace.plugins) {
     assert(typeof manifest.description === 'string' && manifest.description.length <= 300, `${rel(manifestPath)}: description zu lang`);
   }
 
+  errors.push(...promptProfileErrors(pluginRoot, entry.name, root));
   const werkstatt = path.join(pluginRoot, `${entry.name}-werkstatt.md`);
   const schnellstart = path.join(pluginRoot, `${entry.name}-schnellstart.md`);
   assert(fs.existsSync(werkstatt), `${entry.name}: Werkstatt-Markdown fehlt`);
-  assert(fs.existsSync(schnellstart), `${entry.name}: Schnellstart-Markdown fehlt`);
+  if (promptEnabled(entry.name, "schnellstart")) assert(fs.existsSync(schnellstart), `${entry.name}: Schnellstart-Markdown fehlt`);
   if (fs.existsSync(werkstatt)) {
     const size = fs.statSync(werkstatt).size;
     assert(size <= promptLimits.workshop_max_bytes, `${rel(werkstatt)}: Werkstatt ist größer als ${promptLimits.workshop_max_bytes} Bytes (${size} Bytes)`);
@@ -130,7 +132,12 @@ for (const entry of marketplace.plugins) {
     const schnellstartUrl = `${downloadBase}${relSource}/${entry.name}-schnellstart.md`;
     assert(text.includes(pluginZip), `${rel(readme)}: Plugin-ZIP-Link fehlt`);
     assert(text.includes(werkstattUrl), `${rel(readme)}: Werkstatt-Direktdownload fehlt`);
-    assert(text.includes(schnellstartUrl), `${rel(readme)}: Schnellstart-Direktdownload fehlt`);
+    if (promptEnabled(entry.name, "schnellstart")) assert(text.includes(schnellstartUrl), `${rel(readme)}: Schnellstart-Direktdownload fehlt`);
+    for (const kind of promptKinds(entry.name)) {
+      for (const ext of promptFormats(entry.name)) {
+        assert(text.includes(`${downloadBase}${relSource}/${entry.name}-${kind}.${ext}`), `${rel(readme)}: ${kind}-${ext}-Direktdownload fehlt`);
+      }
+    }
     for (const match of text.matchAll(/<code>(.*?)<\/code>/g)) {
       assert(!/[^\x00-\x7F]/.test(match[1]), `${rel(readme)}: <code>-Tag enthält Nicht-ASCII-Text`);
     }

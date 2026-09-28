@@ -9,6 +9,8 @@ import sys
 from collections import Counter
 from pathlib import Path
 
+from prompt_profiles import standalone_kinds
+
 REPO = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(REPO / "scripts"))
 
@@ -19,10 +21,7 @@ from bauwirtschaft_hoai import PHASEN, werkstatt_path
 
 
 def expected_prompt_files(slug: str, plugin_dir: Path) -> dict[str, Path]:
-    expected = {
-        "werkstatt": plugin_dir / f"{slug}-werkstatt.md",
-        "schnellstart": plugin_dir / f"{slug}-schnellstart.md",
-    }
+    expected = {kind: plugin_dir / f"{slug}-{kind}.md" for kind in standalone_kinds(slug)}
     if slug == "bauwirtschaft":
         expected.update({
             f"werkstatt-{phase}": plugin_dir / Path(werkstatt_path(phase)).name

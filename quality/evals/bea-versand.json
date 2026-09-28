@@ -1,0 +1,210 @@
+{
+  "schema_version": 1,
+  "plugin": "bea-versand",
+  "reviewed_on": "2026-09-28",
+  "sources": [
+    {
+      "url": "https://handbuch.bea-brak.de/arbeiten-mit-ihrem-bea/nachrichten/erstellen-und-senden/anhaenge-hochladen",
+      "checked_on": "2026-09-28",
+      "supports": "Primärquelle geprüft: normale beA-Anhänge höchstens 84 Zeichen einschließlich Endung, Signaturdateien 90; zulässige Zeichen und 1000 Dateien/200 MB einschließlich Systemdateien."
+    },
+    {
+      "url": "https://justiz.de/laender-bund-europa/elektronische_kommunikation/bundesanzeiger_29_07_2025.pdf",
+      "checked_on": "2026-09-28",
+      "supports": "Amtliche ERVB 2025 Nr. 1 und 6 sowie Präambel gelesen: geltend seit 30.07.2025, PDF einschließlich PDF 2.0/PDF-A/PDF-UA, keine allgemeine PDF-A-Pflicht, Druckbarkeit und technische Dateinamenregeln."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/ervv/__2.html",
+      "checked_on": "2026-09-28",
+      "supports": "Amtlicher Normtext: PDF-Anforderung und Sollregel für den Dateinamen; keine pauschale Unwirksamkeitsbehauptung wegen einer Namensabweichung."
+    },
+    {
+      "url": "https://handbuch.bea-brak.de/arbeiten-mit-ihrem-bea/nachrichten/oeffnen-und-anzeigen/pruefen-einer-qualifizierten-elektronischen-signatur-qes",
+      "checked_on": "2026-09-28",
+      "supports": "Primärquelle zur Signaturprüfung und Integrität. Daraus technische Schutzregel für den PDF-Neuschreibvorgang abgeleitet: signierte Originale bytegleich erhalten; Ansichtskopie nicht als unverändert signiert behandeln."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__130a.html",
+      "checked_on": "2026-09-28",
+      "supports": "Absätze 3 und 5: Signatur-/Übermittlungswege und gerichtlicher Eingang sind von lokaler Dateivorbereitung zu trennen; Norm nur für einschlägige Verfahrensordnung verwenden."
+    }
+  ],
+  "selection": {
+    "target_skill": "bea-anlagen-versand",
+    "positive": [
+      "Bereite diesen Bericht mit seinen Anlagen für den beA-Upload vor; finde die passenden Belege im Ordner.",
+      "Finde die im Anschreiben verstreut genannten Anlagen, stemple ihre ersten Seiten und benenne PDF-Kopien für beA."
+    ],
+    "negative": [
+      "Entwirf aus diesen Notizen erstmals eine Zahlungsklage und berechne den Verzugsschaden.",
+      "Sende die bereits fertige Nachricht jetzt über mein beA an das Gericht."
+    ]
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Nutzervorlage zu einem einzigen Workflow für beliebige Hauptdokumente erweitert; konkrete Zuordnung, Dateiproduktion und Quellenprüfung redaktionell geprüft.",
+    "changes": [
+      "Dokumentart und Bezeichnung aus Kontext statt pauschaler K-Anlagen übernehmen.",
+      "Ohne Verzeichnis über konkrete Merkmale zuordnen; Mehrdeutigkeiten und Konvolute nachvollziehbar bearbeiten.",
+      "Signierte Originale, tatsächliche 84-Zeichen-Uploadgrenze und jede gestempelte Seite berücksichtigen.",
+      "Aus tatsächlich geprüftem Modefuchs-Entwurf: interne Arbeitsvermerke, offene Angaben und Entwurfsstatus ausdrücklich kontrollieren; keine stille Finalisierung."
+    ],
+    "sha256": "0a81d18737994e2adab57916fb21ec40f36309c40f856602c65c47231fbfc8b7"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-09-28",
+    "files": [
+      "bea-versand/skills/bea-anlagen-versand/SKILL.md",
+      "bea-versand/bea-versand-werkstatt.md",
+      "bea-versand/bea-versand-werkstatt.txt",
+      "bea-versand/README.md",
+      "quality/evals/bea-versand.json"
+    ],
+    "opening_change": "Zuerst das vorhandene Hauptdokument und die benötigten Dateien lesen; eindeutige Zuordnungen unmittelbar in tatsächliche PDF-Kopien überführen.",
+    "norms": [
+      "§ 2 ERVV",
+      "ERVB 2025 Nr. 1 und 6",
+      "§ 130a ZPO bei entsprechendem Verfahrensbezug"
+    ],
+    "decisions": [
+      {
+        "citation": "ERVB 2025 vom 16.07.2025, BAnz AT 29.07.2025 B2, Nr. 1 und 6 (technischer Normanker)",
+        "url": "https://justiz.de/laender-bund-europa/elektronische_kommunikation/bundesanzeiger_29_07_2025.pdf",
+        "application": "PDF und Dateinamen nach technischen Standards behandeln; 90-Zeichen-Obergrenze von der engeren 84-Zeichen-Grenze für normale beA-Anhänge unterscheiden.",
+        "limit": "Keine Gerichtsentscheidung und keine pauschale Aussage zur Wirksamkeit einer konkreten Einreichung; weitere technische und verfahrensbezogene Anforderungen bleiben zu prüfen."
+      }
+    ],
+    "remaining_limits": [
+      "Redaktionelle und Quellenprüfung; kein Versand über ein beA-Postfach und keine Bestätigung eines gerichtlichen Eingangs.",
+      "Die separat dokumentierten lokalen Praxistests ersetzen keine Konformitätszertifizierung für beliebige Eingabedateien."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-28",
+    "method": "desk_review",
+    "opening_modes": [
+      "Hauptdokument mit ausdrücklichem Anlagenverzeichnis.",
+      "Anschreiben oder Bericht mit verstreuten Verweisen ohne Verzeichnis.",
+      "Eindeutig beauftragte Belege nur aus Gesprächskontext mit neu zu dokumentierender Nummerierung."
+    ],
+    "continuation": "Eine nachgereichte Datei oder geklärte Fassung ergänzt dieselbe Arbeitszuordnung; betroffene Kopien im neuen Ausgabelauf erstellen und bisherige Ergebnisse erhalten.",
+    "enrichment": "MIME-Anhänge und Konvolute, reale Dokumentdaten, Rotation/CropBox und freier Stempelbereich, Signaturintegrität und Namenskollisionen werden konkret behandelt.",
+    "limits": "Workflow redaktionell geprüft. Dateisichtung und PDF-Sichtkontrolle müssen im jeweiligen Lauf tatsächlich erfolgen; Dateiproduktion ist keine Übermittlung."
+  },
+  "cases": [
+    {
+      "id": "modefuchs-inhalt-statt-dateiname",
+      "request": "Prüfe anhand der beigefügten Originale die Anlagenzuordnung des vorhandenen Hauptdokuments. Erstelle ergebnis.md als internen Zuordnungs- und Produktionsbericht für die beA-Vorbereitung. Lies jeden Beleg und die echten Mailanhänge. Benenne, welche Dateien zusammengehören, welche nicht beigelegt werden, welche Hauptdokumentangaben fehlen und welche Prüfungen vor der Übergabe der PDF-Kopien noch erforderlich sind. Finalisiere den Klageinhalt nicht.",
+      "target_skill": "bea-anlagen-versand",
+      "input_files": [
+        "testakten/inkasso-modefuchs-cowork-sonderfall/AW Re dringend Ihre Zahlungsaufforderung.eml",
+        "testakten/inkasso-modefuchs-cowork-sonderfall/Dokument1.pdf",
+        "testakten/inkasso-modefuchs-cowork-sonderfall/Entwurf Klage MODEFUCHS FINAL v3 (2).docx",
+        "testakten/inkasso-modefuchs-cowork-sonderfall/IMG_2047.jpg",
+        "testakten/inkasso-modefuchs-cowork-sonderfall/Scan007.pdf",
+        "testakten/inkasso-modefuchs-cowork-sonderfall/Scan_20250610_113247.pdf",
+        "testakten/inkasso-modefuchs-cowork-sonderfall/mail (2).eml",
+        "testakten/inkasso-modefuchs-cowork-sonderfall/mail (3).eml",
+        "testakten/inkasso-modefuchs-cowork-sonderfall/mail.eml",
+        "testakten/inkasso-modefuchs-cowork-sonderfall/unbenannt.xlsx"
+      ],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "K1 ist die Abtretung aus Dokument1.pdf; K2 ist die Bestellbestätigung aus mail.eml. Nicht Dateinamen oder zeitliche Sortierung entscheiden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "K3 umfasst die Rechnungs-E-Mail samt tatsächlich enthaltenem PDF-Anhang; K4 die Zahlungserinnerung, K5 die inhaltlich vom 05.05.2025 stammende Mahnung trotz Scan-Dateiname 10.06.2025.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "K6 verbindet Scan007.pdf mit dem Einlieferungsfoto, K7 enthält die Schuldner-E-Mail. Die XLSX wird nicht automatisch K8; Gesamt-PDF/README und Bewertungsdateien sind keine Anlagen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Offene Datums-/Unterschriftsfelder und interne Hinweise im Hauptdokument werden nicht erfunden oder stillschweigend berichtigt. Nur erste Anlagenseiten stempeln, Originalsicherung und visuelle Prüfung vorsehen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bericht-ohne-verzeichnis",
+      "request": "Erstelle ergebnis.md als begründeten Arbeitsentscheid für diese Versandvorbereitung: Ein Prüfbericht nennt im Fließtext Anlage 1 als Rechnung R-17 vom 05.08.2026 und Anlage 2 als Lageplan Stand 02.08.2026. Es gibt kein Anlagenverzeichnis und keine Prozessparteien. Im Ordner liegen die passende Rechnung, zwei inhaltlich unterschiedliche Lagepläne desselben Stands und eine nicht erwähnte Kostenliste. Das Hauptdokument hat kein Datum. Es sind nur diese Angaben vorhanden; erfinde keine tatsächlichen Dateien oder Sichtprüfungen.",
+      "target_skill": "bea-anlagen-versand",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Anlage 1 kann nach Inhalt zugeordnet werden; es werden keine K-/B-Präfixe oder ein Hauptdokumentdatum erfunden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Für Anlage 2 wird die konkrete Fassungsfrage gestellt; kein Raten anhand gleicher Datumsangabe und keine unbelegte Vollständigkeit.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die Kostenliste wird nicht automatisch mitgesandt. Unabhängige Teile bleiben bearbeitbar, bei Klärung wird die vorhandene Zuordnung fortgesetzt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "signatur-und-namenskollision",
+      "request": "Erstelle ergebnis.md als internen Produktionsentscheid: Ein beauftragtes Anschreiben verweist auf Anlage A1 und A2. A1 liegt als digital signierte PDF nebst .pdf.pkcs7 vor; der Signaturstatus ist ungeprüft. A2 ist ein unsignierter Scan ohne freien oberen rechten Rand. Zwei geplante PDF-Namen wären nach Kürzung gleich und jeweils 88 Zeichen lang. Es sind nur diese Angaben vorhanden. Beschreibe die konkrete Fortsetzung ohne Dateien oder Signaturprüfungen zu behaupten.",
+      "target_skill": "bea-anlagen-versand",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Signierte Fassung und Begleitsignatur werden unverändert gesichert; kein stillschweigender Overlay-Neuschreibvorgang. Unveränderte Beifügung oder zusätzliche klar bezeichnete Ansichtskopie gezielt klären.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Der Stempel darf den Scaninhalt nicht verdecken; freien Bereich prüfen oder geeigneten Rand schaffen und jeden gestempelten Anfang visuell kontrollieren.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Normale PDF-Namen werden auf höchstens 84 Zeichen gekürzt und kollisionsfrei gehalten. Die mehrteilige Signaturendung wird nicht durch die PDF-Regex verworfen; 90/84 und reine Vorbereitung werden getrennt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

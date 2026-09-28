@@ -7,6 +7,8 @@ import json
 import re
 from pathlib import Path
 
+from prompt_profiles import enabled
+
 from quality_lab import load, validate_profile
 from prompt_limits import MAX_MINI_BYTES
 
@@ -34,7 +36,8 @@ def plugin_entries() -> list[tuple[str, Path]]:
         source = plugin.get("source", "")
         if not slug or not isinstance(source, str) or not source.startswith("./"):
             continue
-        entries.append((slug, REPO / source[2:] / f"{slug}-schnellstart.md"))
+        if enabled(slug, "schnellstart"):
+            entries.append((slug, REPO / source[2:] / f"{slug}-schnellstart.md"))
     return entries
 
 

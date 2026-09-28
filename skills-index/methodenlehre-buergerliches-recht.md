@@ -1,6 +1,6 @@
 # methodenlehre-buergerliches-recht
 
-**141 Skills** · Stand `v445.9.2`
+**141 Skills** · Stand `v445.10.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../methodenlehre-buergerliches-recht/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

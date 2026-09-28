@@ -1,6 +1,6 @@
 # email-umformulierer-berufsrecht
 
-**83 Skills** · Stand `v445.9.2`
+**83 Skills** · Stand `v445.10.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../email-umformulierer-berufsrecht/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

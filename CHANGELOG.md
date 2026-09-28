@@ -1,5 +1,13 @@
 # v445.9.2 - Vollständige Zuordnung angehängter Schriftsätze und Nachrichten
 
+## v445.10.0 – beA-Versand als Ein-Skill-Plugin
+
+- Neues Plugin `bea-versand` mit genau einem Skill `bea-anlagen-versand`, abgeleitet aus der bereitgestellten Nutzervorlage. Beliebige Hauptdokumente, verstreute Anlagenverweise und eindeutiger Gesprächskontext werden unterstützt. Originale, dokumentierte Bezeichnungen und fachlicher Inhalt bleiben erhalten.
+- Anlagen werden inhaltlich zugeordnet, benötigte Mailanhänge und Konvolute berücksichtigt, PDF-Kopien auf der ersten Seite gestempelt und eindeutig für den beA-Upload benannt. Signaturintegrität, freie Stempelbereiche, Namenskollisionen und gezielte Rückfragen sind Teil des Ablaufs.
+- Genau ein handkuratierter Werkstatt-Prompt, identisch als MD und TXT. Das explizite Promptprofil verhindert Schnellstart-, Mini-, Mega- und Schwerpunktdateien auch bei erneuter Generierung. Bestehende Pluginprofile behalten ihren Umfang.
+- Die vorhandene Modefuchs-Cowork-Sonderfallakte aus dem Forderungsmanagement ist als Testakte angebunden; deren Originale werden weder kopiert noch verändert.
+- Offizielle technische Quellen am 28.09.2026 geprüft: 84 Zeichen für normale beA-Anhänge gegenüber 90 für Signaturdateien, erlaubte Umlaute, keine allgemeine PDF/A-Pflicht und klare Trennung zwischen Dateivorbereitung und tatsächlicher Einreichung.
+
 Die Anhangskontrolle erkennt das ausdrücklich ausgewählte Hauptdokument als bereits erfasste Quelle. Weitergeleitete Nachrichten im Format message/rfc822 werden einschließlich ihrer Header und ihres vollständigen MIME-Inhalts abgeglichen; nur unterschiedliche CRLF-/LF-Zeilenenden werden für diesen Vergleich normalisiert. Geänderte, fehlende oder nicht eindeutig auslesbare Anhänge sperren weiterhin die Freigabe. Die Rohquellhashes bleiben unverändert dokumentiert.
 
 Zusätzliche Regressionen sichern diese Fälle. Die Begründungsschritte für Formhindernisse erhalten dezimale Unterabschnitte mit getrennten Absätzen; ihre Sammelfassung ist neu erzeugt. Diese Version veröffentlicht zugleich die nachfolgend beschriebene FinTech-Akte. Die vorgelagerten Entwurfsreleases wurden vor Veröffentlichung angehalten; ihre Tags bleiben unangetastet.

@@ -9,6 +9,8 @@ import json
 import math
 import os
 from pathlib import Path
+
+from prompt_profiles import PROFILES, enabled, validate_files
 import re
 import statistics
 import subprocess
@@ -186,6 +188,8 @@ def validate_editorial_review(review, profile, plugin, directory, root):
     if any(not path.is_file() for path in reviewed):
         raise LabError("Redaktionell geprüfte Datei fehlt")
     for kind, key in (("schnellstart", "mini_review"), ("werkstatt", "workshop_review")):
+        if not enabled(plugin, kind):
+            continue
         path = directory / f"{plugin}-{kind}.md"
         if path.resolve() not in reviewed:
             raise LabError(f"Prompt-Redaktion erfasst {kind} nicht")
@@ -227,13 +231,20 @@ def validate_profile(profile, plugin, directory, root=ROOT):
     if profile.get("schema_version") != 1 or profile.get("plugin") != plugin:
         raise LabError("Profilversion oder Plugin-Zuordnung falsch")
     iso_day(profile.get("reviewed_on"))
-    validate_prompt_review(
-        profile.get("mini_review", {}),
-        "Mini-Prüfung",
-        directory / f"{plugin}-schnellstart.md",
-    )
+    publication_errors = validate_files(directory, plugin, root)
+    if publication_errors:
+        raise LabError("; ".join(publication_errors))
+    for kind, key in (("schnellstart", "mini_review"), ("hauptproblem", "focus_review")):
+        if not enabled(plugin, kind) and key in profile:
+            raise LabError(f"{kind}: Prüfung für nicht vorgesehenen Prompt")
+    if enabled(plugin, "schnellstart"):
+        validate_prompt_review(
+            profile.get("mini_review", {}),
+            "Mini-Prüfung",
+            directory / f"{plugin}-schnellstart.md",
+        )
     workshop_review = profile.get("workshop_review")
-    if workshop_review is not None:
+    if workshop_review is not None or (plugin in PROFILES and enabled(plugin, "werkstatt")):
         validate_prompt_review(
             workshop_review,
             "Werkstatt-Prüfung",
@@ -332,10 +343,11 @@ def audit(root=ROOT, *, require_editorial=False, require_workflow=False):
                 if "prompt_workflow_review" not in profile:
                     raise LabError("Fachbezogene Workflow-Prüfung fehlt")
                 validate_editorial_review(profile.get("prompt_editorial_review"), profile, name, directory, root)
-            mini = directory / f"{name}-schnellstart.md"
-            data = bounded_bytes(mini)
-            if not data or len(data) > MAX_MINI_BYTES or len(data.decode("utf-8")) > MAX_MINI_BYTES:
-                raise LabError("Mini-Prompt leer oder über 7500 Bytes/Zeichen")
+            if enabled(name, "schnellstart"):
+                mini = directory / f"{name}-schnellstart.md"
+                data = bounded_bytes(mini)
+                if not data or len(data) > MAX_MINI_BYTES or len(data.decode("utf-8")) > MAX_MINI_BYTES:
+                    raise LabError("Mini-Prompt leer oder über 7500 Bytes/Zeichen")
             profiles[name] = profile
         except (KeyError, ValueError, OSError, TypeError) as exc:
             errors.append(f"{name}: {exc}")
@@ -417,6 +429,8 @@ def prepare(plugin, case_id, mode, destination, root=ROOT):
     case = next((c for c in profile["cases"] if c["id"] == case_id), None)
     if case is None or mode not in MODES:
         raise LabError("Fall oder Variante unbekannt")
+    if mode not in {"plugin", "baseline"} and not enabled(plugin, mode):
+        raise LabError("Prompt-Variante laut Publikationsprofil nicht vorgesehen")
     run = Path(destination).resolve()
     if run.exists() or run.is_relative_to(root.resolve()):
         raise LabError("Neuen Laufordner außerhalb des Repositorys wählen")
@@ -748,8 +762,10 @@ def catalog(profiles, root=ROOT):
         if profile is None:
             lines.append(f"| [{name}]({directories[name].relative_to(root).as_posix()}/README.md) | Offen | 0 | Individuelle Prüfung fehlt oder ist ungültig | Nicht ausgeführt |")
             continue
-        reason = profile["mini_review"]["reason"].replace("|", " / ").replace("\n", " ")
-        lines.append(f"| [{name}]({directories[name].relative_to(root).as_posix()}/README.md) | {profile['mini_review']['verdict']} | {len(profile['cases'])} | {reason} | Nicht ausgeführt |")
+        review = profile["mini_review"] if enabled(name, "schnellstart") else profile["workshop_review"]
+        reason = review["reason"].replace("|", " / ").replace("\n", " ")
+        verdict = review["verdict"] if enabled(name, "schnellstart") else f"Nicht vorgesehen; Werkstatt: {review['verdict']}"
+        lines.append(f"| [{name}]({directories[name].relative_to(root).as_posix()}/README.md) | {verdict} | {len(profile['cases'])} | {reason} | Nicht ausgeführt |")
     return "\n".join(lines) + "\n"
 
 

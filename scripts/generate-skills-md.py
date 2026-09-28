@@ -20,6 +20,8 @@ import json
 import re
 import sys
 from pathlib import Path
+
+from prompt_profiles import enabled, formats
 from urllib.parse import quote
 
 from readme_display import display_prose
@@ -207,9 +209,11 @@ def plugin_overview_table(plugins: list[tuple[str, list[str]]]) -> str:
             zip_url = f"{GH_RELEASE}/{name}.zip"
             werkstatt_url = markdown_download_url(f"{source_rel}/{name}-werkstatt.md")
             schnellstart_url = markdown_download_url(f"{source_rel}/{name}-schnellstart.md")
+            workshop_download = " · ".join(f"[Werkstatt-{ext.upper()} herunterladen]({markdown_download_url(f'{source_rel}/{name}-werkstatt.{ext}')})" for ext in formats(name))
+            quickstart_download = f"[Schnellstart-MD herunterladen]({schnellstart_url})" if enabled(name, "schnellstart") else "Nicht vorgesehen"
             detail = f"skills-index/{name}.md"
             lines.append(
-                f"| **{name}** | {len(skills)} | [Skills ansehen]({detail}) | [Werkstatt-MD herunterladen]({werkstatt_url}) | [Schnellstart-MD herunterladen]({schnellstart_url}) | [Plugin]({zip_url}) |"
+                f"| **{name}** | {len(skills)} | [Skills ansehen]({detail}) | {workshop_download} | {quickstart_download} | [Plugin]({zip_url}) |"
             )
         lines.append("")
     return "\n".join(lines)
@@ -268,6 +272,18 @@ def plugin_detail_page(name: str, skills: list[str], version: str) -> str:
         "| Skill | Beschreibung | Markdown-Datei |",
         "| --- | --- | --- |",
     ]
+    if not enabled(name, "schnellstart"):
+        lines = [line for line in lines if not line.startswith(("| **Kleiner Prompt", "- **Schnelltest mit einer Datei:"))]
+        lines = [line.replace("Werkstatt und Schnellstart sind eigenständige Ein-Datei-Prompts", "Der Werkstatt-Prompt ist ein eigenständiger Ein-Datei-Prompt").replace("Workshop and quick-start files are separate standalone prompts.", "The workshop is a separate standalone prompt.") for line in lines]
+        if len(skills) == 1:
+            lines = ["Das Plugin enthält genau einen unmittelbar installierten Skill. Der Werkstatt-Prompt ist ein eigenständiger Download außerhalb des Plugin-ZIPs; MD und TXT enthalten denselben Text."
+                     if line.startswith("Diese alphabetische Liste zeigt alle Skills") else
+                     "English: This plugin contains one directly installed skill. The workshop is a separate standalone download with identical Markdown and TXT content. Required references or tools must also be available when used manually."
+                     if line.startswith("English: This index lists source skills") else line for line in lines]
+    if "txt" in formats(name):
+        index = next(i for i, line in enumerate(lines) if line.startswith("| **Großer Prompt")) + 1
+        txt_url = markdown_download_url(f"{_source_rel}/{name}-werkstatt.txt")
+        lines.insert(index, f"| **Derselbe Werkstatt-Prompt als Text** | TXT | [`{name}-werkstatt.txt` herunterladen]({txt_url}) |")
     for s in skills:
         skill_md = skills_dir / s / "SKILL.md"
         desc = read_description(skill_md)

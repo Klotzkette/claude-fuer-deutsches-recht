@@ -13,6 +13,8 @@ import sys
 import tempfile
 import unittest
 from pathlib import Path
+
+from prompt_profiles import standalone_kinds
 from unittest.mock import patch
 
 from themen_profile import PROFILE_BY_KEY
@@ -131,7 +133,7 @@ class PortableStarts(unittest.TestCase):
         for plugin in plugins:
             root = REPO / plugin["source"]
             skill_names = {path.parent.name for path in (root / "skills").glob("*/SKILL.md")}
-            for kind in ("schnellstart", "werkstatt"):
+            for kind in standalone_kinds(plugin["name"]):
                 path = root / f"{plugin['name']}-{kind}.md"
                 with self.subTest(path=path.relative_to(REPO)):
                     text = path.read_text(encoding="utf-8")
