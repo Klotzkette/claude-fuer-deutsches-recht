@@ -3,13 +3,21 @@ name: liquiditaetsstatus-quellenbelege
 description: "Für Liquiditätsstatus nur aus belastbaren Quellenbelegen: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
-# Liquiditätsstatus nur aus belastbaren Quellenbelegen
+<!-- decimal-anchor --> <a id="liquiditätsstatus-nur-aus-belastbaren-quellenbelegen"></a>
 
-## Fachkern: Liquiditätsstatus nur aus belastbaren Quellenbelegen
+# 1. Liquiditätsstatus nur aus belastbaren Quellenbelegen
+
+Bei einer Aussage zu Insolvenzgründen die [Prüfregeln für §§ 17–19 InsO](../../references/insolvenzpruefung.md) und die [amtliche Entscheidungskarte](../../references/rechtsprechung/INDEX.md) heranziehen. Operative Warnfarben sind keine rechtliche Freigabe; Status, Prognose, Belege und rechtliche Schlussfolgerung getrennt halten.
+
+<!-- decimal-anchor --> <a id="fachkern-liquiditätsstatus-nur-aus-belastbaren-quellenbelegen"></a>
+
+## 1.1. Fachkern: Liquiditätsstatus nur aus belastbaren Quellenbelegen
 - **Normen-/Quellenanker:** InsO §§ 17, 18, 19, 15a, StaRUG-Früherkennung, IDW-S-6-/Planungslogik, 3-Wochen- und 13-Wochen-Forecast, Zahlungsstatus und Fortbestehensprognose.
 - **Entscheidende Weiche:** Trenne fällige Verbindlichkeiten, liquide Mittel, harte Zahlungszusagen, Planannahmen, Quote/Lücke, Organpflicht und Dokumentationsspur.
 
-## Einstieg
+<!-- decimal-anchor --> <a id="einstieg"></a>
+
+## 1.2. Einstieg
 Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste Entscheidung fehlt:
 
 1. Wer handelt in welcher Rolle und gegen wen?
@@ -18,20 +26,26 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 4. Welche Unterlagen, Daten, Registerauszüge, Bescheide, Verträge, Screenshots oder sonstigen Belege liegen vor?
 5. Soll der Output intern, für Mandantschaft, Behörde, Gericht, Gegnerseite oder Gremium formuliert werden?
 
-## Arbeitsworkflow
+<!-- decimal-anchor --> <a id="arbeitsworkflow"></a>
+
+## 1.3. Arbeitsworkflow
 1. **Sortieren:** Sachverhalt, Dokumente und offene Punkte in eine knappe Fallmatrix bringen.
 2. **Rechtsrahmen:** Einschlägige Normen, Zuständigkeiten, Verfahren, Fristen und formelle Anforderungen live prüfen, soweit Aktualität tragend ist.
 3. **Materielle Weichen:** Die Kernfragen zu **Liquiditätsstatus nur aus belastbaren Quellenbelegen** mit Tatbestandsmerkmalen, Belegen, Gegenargumenten und typischen Praxisfehlern abarbeiten.
 4. **Risikoampel:** Ergebnis in Grün/Gelb/Rot mit Begründung, Unsicherheiten und Beweisbedarf einordnen.
 5. **Anschluss:** Passende weitere Skills desselben Plugins vorschlagen, wenn Spezialprüfung, Schriftsatz, Tabelle, Brief oder Verhandlungsstrategie sinnvoll ist.
 
-## Belegpflicht bei Liquiditätsstatus
+<!-- decimal-anchor --> <a id="belegpflicht-bei-liquiditätsstatus"></a>
+
+## 1.4. Belegpflicht bei Liquiditätsstatus
 
 Jede Zahl wird auf die Einzelpostenebene heruntergebrochen. Für Passiva sind Gläubiger, Rechtsgrund, Betrag, Fälligkeit, Mahn- oder Vollstreckungsstand, Titel, Einwendung und Beleg zu führen. Für Aktiva sind Bankverfügbarkeit, Zahlungszusage, Zahlungshistorie und Realisierbarkeit im Drei-Wochen-Fenster zu belegen. BGH IX ZR 129/22 vom 18.04.2024 wird als Warnanker genutzt: Eine bloße Summenliste ohne Rechnungen, Kontoauszüge oder sonstige Unterlagen ist gegenüber außenstehenden Dritten angreifbar.
 
 Bei nicht titulierten streitigen Verbindlichkeiten gilt nach BGH IX ZR 229/22 vom 23.01.2025 die objektive Rechtslage. Eine Position wird nur herausgenommen, wenn Nichtbestehen, Nichtfälligkeit, Stundung, Aufrechnung oder Durchsetzungssperre belegbar sind. Ein finales Rechtsgutachten wird als Beleg zum Kenntnisstand geführt, aber mit Restrisiko markiert.
 
-## Ausgabe
+<!-- decimal-anchor --> <a id="ausgabe"></a>
+
+## 1.5. Ausgabe
 
 Erstelle eine Quellenmatrix:
 

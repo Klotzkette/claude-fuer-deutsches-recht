@@ -1,0 +1,18 @@
+{
+  "Liquiditaetsplan": {
+    "native_print_metadata_preserved": true,
+    "freeze_panes_preserved": true
+  },
+  "BGH-Schema": {
+    "native_print_metadata_preserved": true,
+    "freeze_panes_preserved": true
+  },
+  "weekly_grid": {
+    "changed_cells": [
+      "A1",
+      "A3"
+    ],
+    "all_formulas_and_input_values_preserved": true
+  },
+  "empty_source_inputs": "true blank cells, no empty formulas"
+}

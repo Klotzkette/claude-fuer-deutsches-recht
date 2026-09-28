@@ -39,13 +39,19 @@ Layout der Klotzkette-Vorlage `vorlage-liquiditaetsplan.xlsx`:
 
 Erweitert um:
     fällige Verbindlichkeiten Folgewoche
-    3-Wochen-Lücke (kumuliert)
-    Lücken-Quote (%)
-    Ampel § 17 InsO  (bedingte Formatierung GRÜN/GELB/ROT)
+    Finanzierungsbedarf nächste 3 Wochen
+    Bedarf / Planauszahlungen (%)
+    Rechenhinweis (kein automatischer Insolvenztest)
 
 Sheets: 13-Wochen, 26-Wochen, 52-Wochen, Fortfuehrungsprognose, Annahmen.
 
 Eingabe: YAML- oder JSON-Datei. Beispiel-YAML siehe Beispielakte.
+Jede Planwoche benötigt ein Objekt mit einnahmen und ausgaben. Nullbeträge
+sind zulässig; fehlende Wochen bleiben unvollständig. daten_bestaetigt: true
+bestätigt den Abgleich aller vorhandenen Planwochen mit den Belegen.
+Der Wochenplan enthält tatsächliche Zahlungsannahmen, nicht automatisch
+alle rechtlich fälligen Schulden. Der Rechenhinweis ersetzt keinen Status,
+keine Zahlungseinstellungsprüfung und keine Entscheidung nach §§ 17–19 InsO.
 
 Verwendung:
     python build_liquiditaetsplan.py --eingabe mandant.yaml \\
@@ -768,11 +774,12 @@ R_AUS_ENTNAHME = 34
 R_AUS_SUMME = 35
 R_CASHFLOW = 37
 R_LIQUI_END = 39
-# Klotzkette-Ergänzung: § 17 InsO-Block
+# Operative Planungsindikatoren; kein rechtlicher Status
 R_FAELLIG = 41
 R_LUECKE_3W = 42
 R_QUOTE = 43
 R_AMPEL = 44
+R_DATEN = 45
 
 EIN_KEYS = {
     "umsatz": R_EIN_UMSATZ,
@@ -867,17 +874,20 @@ def build_skeleton(wb: XlsxWorkbook, ws: XlsxSheet, styles: dict, daten: dict, n
     ws.set(R_CASHFLOW, LABEL_COL, "Cash Flow Woche", style_id=styles["bold_num"])
     ws.set(R_LIQUI_END, LABEL_COL, "Liquidität Woche Ende", style_id=styles["liqui_bold_num"])
 
-    # Ampel-Block (Klotzkette-Erweiterung)
+    # Getrennte operative Warnsignale aus dem Zahlungsplan
     ws.set(R_FAELLIG, LABEL_COL, "fällige Verb. Folgewoche", style_id=styles["bold_num"])
-    ws.set(R_LUECKE_3W, LABEL_COL, "3-Wochen-Lücke (kumuliert)", style_id=styles["bold_num"])
-    ws.set(R_QUOTE, LABEL_COL, "Lücken-Quote (%)", style_id=styles["bold_pct"])
-    ws.set(R_AMPEL, LABEL_COL, "Ampel § 17 InsO", style_id=styles["bold"])
+    ws.set(R_LUECKE_3W, LABEL_COL, "Bedarf nächste 3 Wochen", style_id=styles["bold_num"])
+    ws.set(R_QUOTE, LABEL_COL, "Bedarf / Auszahlungen (%)", style_id=styles["bold_pct"])
+    ws.set(R_AMPEL, LABEL_COL, "Rechenhinweis", style_id=styles["bold"])
+    ws.set(R_DATEN, LABEL_COL, "Belegabgleich: 1 = ja", style_id=styles["bold"])
+    ws.set(47, LABEL_COL, "Drei vollständige Planwochen erforderlich. OFFEN = Daten/Belegabgleich fehlen; PLAN GEDECKT = nur operativ. Kein §-17-Status.", style_id=styles["default"])
+    ws.set(48, LABEL_COL, "Fällige Rückstände, freie Kreditlinien, genaue Zahlungstage und Zahlungseinstellung gesondert prüfen.", style_id=styles["default"])
 
 
 def fill_sheet(ws: XlsxSheet, styles: dict, daten: dict, n_weeks: int):
     """Werte und Formeln in die Spalten B (Start) und C..(C+n) eintragen."""
-    kasse_start = float(daten.get("kassenbestand_start", 0))
-    konto_start = float(daten.get("kontostand_start", 0))
+    kasse_start = daten.get("kassenbestand_start")
+    konto_start = daten.get("kontostand_start")
     ws.set(R_KASSE, START_COL, kasse_start, style_id=styles["num"])
     ws.set(R_KONTO, START_COL, konto_start, style_id=styles["num"])
     ws.set(
@@ -930,45 +940,49 @@ def fill_sheet(ws: XlsxSheet, styles: dict, daten: dict, n_weeks: int):
                formula=f"{L}{R_LIQUI_START}+{L}{R_CASHFLOW}",
                style_id=styles["liqui_bold_num"])
 
+        complete = (
+            daten.get("daten_bestaetigt") is True
+            and isinstance(kw_data, dict)
+            and isinstance(kw_data.get("einnahmen"), dict)
+            and isinstance(kw_data.get("ausgaben"), dict)
+        )
+        ws.set(R_DATEN, col, 1 if complete else 0, style_id=styles["num"])
         faellig = float(kw_data.get("faellig_folgewoche", 0))
         ws.set(R_FAELLIG, col, faellig, style_id=styles["num"])
 
-    # 3-Wochen-Lücke und Quote/Ampel
+    # Operativer Finanzierungsbedarf: frühester negativer Wochenendbestand
+    # innerhalb exakt derselben drei Planwochen. Keine Fälligkeits-/Statusheuristik.
     for i in range(n_weeks):
         col = PLAN_COL_START + i
         L = col_letter(col)
         if i + 2 < n_weeks:
-            L1 = col_letter(col + 1)
             L2 = col_letter(col + 2)
-            faellig_sum = f"{L}{R_FAELLIG}+{L1}{R_FAELLIG}+{L2}{R_FAELLIG}"
-            mittel = f"{L}{R_LIQUI_END}+{L1}{R_EIN_SUMME}+{L2}{R_EIN_SUMME}"
+            # Auch der Anfangsbestand dieses Fensters hängt von sämtlichen
+            # vorangegangenen Planwochen ab. Eine ältere Datenlücke darf nicht
+            # verschwinden, sobald sie außerhalb des Dreiwochenfensters liegt.
+            data_range = f'${col_letter(PLAN_COL_START)}${R_DATEN}:{L2}{R_DATEN}'
+            incomplete = (f'OR(COUNT($B$7:$B$8)<>2,'
+                          f'COUNT({data_range})<>{i + 3},'
+                          f'MIN({data_range})<>1)')
             ws.set(R_LUECKE_3W, col,
-                   formula=f"MAX(0,({faellig_sum})-({mittel}))",
+                   formula=f'IF({incomplete},"offen",MAX(0,-MIN({L}{R_LIQUI_END}:{L2}{R_LIQUI_END})))',
                    style_id=styles["bold_num"])
             ws.set(R_QUOTE, col,
-                   formula=f"IFERROR({L}{R_LUECKE_3W}/({faellig_sum}),0)",
+                   formula=f'IF(NOT(ISNUMBER({L}{R_LUECKE_3W})),"offen",IF(SUM({L}{R_AUS_SUMME}:{L2}{R_AUS_SUMME})=0,"n.a.",{L}{R_LUECKE_3W}/SUM({L}{R_AUS_SUMME}:{L2}{R_AUS_SUMME})))',
                    style_id=styles["bold_pct"])
+            ws.set(R_AMPEL, col,
+                   formula=f'IF(NOT(ISNUMBER({L}{R_LUECKE_3W})),"OFFEN",IF({L}{R_LUECKE_3W}>0,"BEDARF","PLAN GEDECKT"))',
+                   style_id=styles["bold_center"])
         else:
-            ws.set(R_LUECKE_3W, col,
-                   formula=f"MAX(0,{L}{R_FAELLIG}-{L}{R_LIQUI_END})",
-                   style_id=styles["bold_num"])
-            ws.set(R_QUOTE, col,
-                   formula=f"IFERROR({L}{R_LUECKE_3W}/{L}{R_FAELLIG},0)",
-                   style_id=styles["bold_pct"])
-        ws.set(R_AMPEL, col,
-               formula=(
-                   f'IF({L}{R_QUOTE}>=0.1,"ROT",'
-                   f'IF({L}{R_QUOTE}>0,"GELB","GRÜN"))'
-               ),
-               style_id=styles["bold_center"])
+            ws.set(R_LUECKE_3W, col, "Horizont fehlt", style_id=styles["bold_num"])
+            ws.set(R_QUOTE, col, "n.a.", style_id=styles["bold_pct"])
+            ws.set(R_AMPEL, col, "OFFEN", style_id=styles["bold_center"])
 
-    # bedingte Formatierung Ampel
     first_col = col_letter(PLAN_COL_START)
     last_col = col_letter(PLAN_COL_START + n_weeks - 1)
     rng = f"{first_col}{R_AMPEL}:{last_col}{R_AMPEL}"
-    ws.cf_rules.append((rng, "ROT", styles["dxf_rot"]))
-    ws.cf_rules.append((rng, "GELB", styles["dxf_gelb"]))
-    ws.cf_rules.append((rng, "GRÜN", styles["dxf_gruen"]))
+    ws.cf_rules.append((rng, "BEDARF", styles["dxf_rot"]))
+    ws.cf_rules.append((rng, "OFFEN", styles["dxf_gelb"]))
 
     ws.freeze_panes(R_BESTAND_HEADER + 1, PLAN_COL_START)
 
@@ -1009,7 +1023,7 @@ def build_prognose_sheet(wb: XlsxWorkbook, styles: dict, daten: dict):
     ws.set(r, 1, "Quellen und Methodenhinweise:", style_id=styles["bold"])
     quellen = [
         "Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle verwenden.",
-        "Für § 17 InsO: Liquiditätsbilanz mit fälligen Verbindlichkeiten, 3-Wochen-Fenster und 10-%-Schwelle; konkrete BGH-Fundstelle vor Ausgabe verifizieren.",
+        "Für § 17 InsO: gesonderter taggenauer Status, aussagekräftige Statusfolge oder Nachweis der Zahlungseinstellung. Operativer Wochenbedarf ist keine Insolvenzdiagnose.",
         "Für § 19 InsO: Fortbestehensprognose von nachhaltiger Sanierungsfähigkeit trennen.",
         "Für Sanierungskonzepte: Liquidität, GuV, Planbilanz, Krisenursachen, Leitbild, Maßnahmen, Szenarien und Dokumentation verzahnen.",
         "Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.",

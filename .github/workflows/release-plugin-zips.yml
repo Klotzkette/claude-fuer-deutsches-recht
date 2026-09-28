@@ -173,6 +173,8 @@ jobs:
           python3 scripts/audit-quickstart-usability.py
           python3 scripts/validate-current-law-sentinels.py
           python3 scripts/test-legal-calculators.py
+          node scripts/test-liquiditaetsplanung-rechenlogik.mjs
+          python3 scripts/test-liquiditaetsplanung-excel.py
           python3 scripts/test-bea-versandmappe.py
           python3 scripts/test-startup-gruender.py
           python3 scripts/test-schriftsatz-versandwerkstatt.py

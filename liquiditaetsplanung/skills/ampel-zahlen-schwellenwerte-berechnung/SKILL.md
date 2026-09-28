@@ -1,68 +1,36 @@
 ---
 name: ampel-zahlen-schwellenwerte-berechnung
-description: "Für Ampel: Zahlen, Schwellenwerte und Berechnung: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
+description: "Berechnet Status, Bilanzlücke und operativen Finanzierungsbedarf. Verhindert die Gleichsetzung von Tabellenfarben und Insolvenzgründen."
 ---
 
-# Ampel: Zahlen, Schwellenwerte und Berechnung
+# 1. Liquiditätskennzahlen berechnen und rechtlich einordnen
 
-## Fachkern: Ampel: Zahlen, Schwellenwerte und Berechnung
-- **Normen-/Quellenanker:** InsO §§ 17, 18, 19, 15a, StaRUG-Früherkennung, IDW-S-6-/Planungslogik, 3-Wochen- und 13-Wochen-Forecast, Zahlungsstatus und Fortbestehensprognose.
-- **Entscheidende Weiche:** Trenne fällige Verbindlichkeiten, liquide Mittel, harte Zahlungszusagen, Planannahmen, Quote/Lücke, Organpflicht und Dokumentationsspur.
+## 1.1. Zweck und Anwendungsfall
 
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+Berechne die beauftragten Kennzahlen aus belegten Zahlungsdaten und erkläre ihre Aussagegrenzen. Eine Ampel darf operativen Handlungsbedarf oder Prüfstatus anzeigen; sie stellt keine Insolvenzreife fest. Den tatsächlichen Auftrag und vorhandene Zahlen zuerst bearbeiten.
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+## 1.2. Eingaben
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Ampel** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+Erforderlich sind Gesellschaft, Stichtag, betrachteter Zeitraum, freie Mittel, Kreditverfügbarkeit und einzeln belegte Verpflichtungen/Zuflüsse mit Fälligkeits- und Zahlungstag. Fehlende Werte bleiben unbekannt. Leere Eingaben liefern weder eine Nullquote noch Entwarnung. Eine bestätigte Null ausdrücklich von einem leeren Feld unterscheiden. Bei OCR Vorzeichen, Dezimalstellen, Salden und Belegstelle prüfen.
 
-## Berechnungsschemata Liquiditätsstatus / -planung
+## 1.3. Berechnung und Einordnung
 
-### Liquiditätsstatus zum Stichtag (§ 17 InsO)
-| Position | Anmerkung |
-|---|---|
-| Liquide Mittel (Kasse, Bank, Tagesgeld) | Saldo zum Stichtag |
-| + Innerhalb 3 Wochen eingehende Forderungen | OPOS Debitoren mit Fälligkeit |
-| + Frei verfügbare Kreditlinien | nur ungekündigt und nicht ausgeschöpft |
-| **= Aktiva I** | „Verfügbare Mittel" |
-| Fällige Verbindlichkeiten zum Stichtag | OPOS Kreditoren |
-| + Innerhalb 3 Wochen fällig (Lohn, USt, KSt, SV) | streng |
-| **= Passiva I** | „Fällige Verbindlichkeiten" |
-| **Liquiditätslücke = P1 − A1** | wenn ≥ 10 Prozent und 3 Wochen: § 17 InsO |
+Ein reiner Stichtagsstatus vergleicht AI mit PI. Die zeitraumbezogene Dreiwochenbilanz vergleicht AI+AII mit PI+PII. Das gesamte kalendergenaue Fenster berücksichtigen, einschließlich neuer Fälligkeiten der ersten Woche. Zahlungen auf alte PI nicht nochmals als neue PII erfassen. Für die Bilanzmethode gilt `Lücke=max(0,PI+PII−AI−AII)` und `Quote=Lücke/(PI+PII)` bei positivem Nenner. Bei null keine Quote berechnen. Die eigene Forderung wird nicht durch Titulierung zur verfügbaren Liquidität; auf der Passivseite Titel und Vollstreckung getrennt prüfen.
 
-### 13-Wochen-Liquidität (operativ Krisensteuerung)
-- Granularität: wöchentlich.
-- Cash-Inflows: Debitoren-Eingänge (Aging), Vorauszahlungen, Erstattungen.
-- Cash-Outflows: Lohn/Gehalt mit Auszahlungstag, Lohnsteuer/SV-Abgaben (§ 266a StGB nicht stunden), USt-Vorauszahlung, Miete, Tilgung/Zinsen, Lieferanten nach Fälligkeit, sonstige Betriebsausgaben.
-- Endbestand pro Woche: Anfang + Inflow − Outflow.
+Die operative Wochenrechnung lautet `Endbestand=Anfangsbestand+Einzahlungen−Auszahlungen`. Endbestand in die nächste Periode übernehmen, unterwöchige Engpässe sichtbar machen. Finanzierung und operativen Cashflow trennen. Ein negativer Bestand bezeichnet Bedarf. Freie Linien nicht doppelt zählen, geplante Stundungen nicht als bereits wirksam behandeln. Eine nur teilweise vorhandene Folgeperiode nicht als vollständigen Dreiwochentest ausgeben.
 
-### 24-Monats-Liquiditätsplan nach Paragraf 18 Absatz 2 InsO
-- Granularität: monatlich, integriert mit GuV-Forecast und Bilanzplanung.
-- Sensitivität: Base/Best/Worst.
+Wende die [Prüfregeln](../../references/insolvenzpruefung.md) an: Unter zehn Prozent regelmäßig Zahlungsfähigkeit, aber keine Entwarnung bei absehbarer erheblicher Vergrößerung; ab zehn Prozent regelmäßig Zahlungsunfähigkeit mit der eng begrenzten Ausnahme baldiger fast vollständiger Schließung und zumutbaren Zuwartens. Die Dreiwochenbetrachtung ist keine Warteerlaubnis. Ein einziges starkes Indiz kann Zahlungseinstellung tragen; die Anzahl angekreuzter Hinweise entscheidet nicht. Gegenindizien würdigen.
 
-## Schwellenwerte und Ampel
+Für § 18 InsO in aller Regel 24 Monate, für § 19 InsO zwölf Kalendermonate und gegebenenfalls einen eigenständigen Überschuldungsstatus prüfen. Weder ein 110-Prozent-Puffer noch ein hypothetischer Worst Case entscheidet den Tatbestand. Positive Fortbestehensprognose, operative Deckung und nachhaltige Sanierungsfähigkeit nicht gleichsetzen. Sofortige Krisenprüfung bei konkreten Signalen, ohne eine vollständige idealtypische Tabelle abzuwarten.
 
-- **GRÜN:** Liquiditätsdeckung > 110 Prozent in jeder Periode des 24-Monats-Horizonts; 13-Wochen-Cash-Reichweite > 6 Wochen Puffer.
-- **GELB:** Liquiditätsdeckung 100–110 Prozent oder Worst-Case unter 100 Prozent — bestandsgefährdende Entwicklung nach Paragraf 1 StaRUG prüfen, Maßnahmen- und Organbericht vorbereiten.
-- **ROT:**
- - Liquiditätslücke ≥ 10 Prozent über 3 Wochen → § 17 InsO Zahlungsunfähigkeit, Antragsfrist § 15a InsO.
- - 24-Monats-Plan zeigt Lücke → § 18 InsO drohende ZU, StaRUG-Tor offen.
+## 1.4. Quellenpflicht
 
-## Berechnungs-Plausibilitäten
-- Anfangsbestand Periode n+1 = Endbestand Periode n (Saldenkonsistenz).
-- Working Capital (Debitoren/Kreditoren/Vorräte) realistisch zur Vergangenheit (DSO, DPO, DIO)?
-- Kreditlinien-Inanspruchnahme realistisch? Kündigungsrisiko bei Krise eingerechnet?
-- Steuern und SV: keine Stundungen ohne schriftliche Zusage Finanzamt / SV-Träger einplanen.
+[Entscheidungskarte](../../references/rechtsprechung/INDEX.md): BGH IX ZR 123/04, Leitsätze b/c; II ZR 88/16, Rn. 50–62; IX ZR 48/21, Rn. 27–33; II ZR 112/21, Rn. 12–16. Für Prognose/Rangrücktritt II ZR 84/20 und IX ZR 133/14; Grenzen und heutige Normen beachten. Keine Literatur- oder IDW-Fundstellen aus Modellwissen.
 
-## Anti-Halluzinations-Hinweis
-- 10-Prozent / 3-Wochen-Schwelle ist BGH-Linie zu § 17 InsO — keine erfundenen Az.
-- Prognosezeitraum § 18 InsO: **24 Monate**; § 19 InsO Fortbestehensprognose: **12 Monate**.
+## 1.5. Ausgabeformat
+
+Zeige Formel, Einzelwerte, Nenner, Zeitraum, Annahmen, fehlende Daten und Ergebnis getrennt. Liefere einen vollständig ausformulierten Rechen-/Prüfvermerk, wenn beauftragt; keine Stichwortskelette. Times New Roman 11 pt für formatierte Texte, dezimale Gliederung. Keine Insolvenzfreigabe aus einem grünen Rechenfeld. Bei Datenlücken konkrete Rückfrage und belastbaren Zwischenstand liefern; nach Antwort aktualisieren.
+
+## 1.6. Kontrollbeispiel
+
+Bank 0 EUR, innerhalb eines belegten Fensters rechtzeitiger Eingang 100 EUR und danach neue Fälligkeit 100 EUR, keine Altschulden: AI0+AII100 gegen PI0+PII100 ergibt keine Bilanzlücke. Fällt die Zahlung erst nach der Fälligkeit an, ist der vorherige Engpass zusätzlich zu untersuchen. Sind die Angaben lediglich in derselben KW zusammengefasst, darf rechtzeitige Deckung nicht behauptet werden.

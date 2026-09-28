@@ -1,13 +1,21 @@
-# Liquiditätsplanung — Power-Plugin
+<!-- decimal-headings -->
+
+<!-- decimal-anchor --> <a id="liquiditätsplanung--power-plugin"></a>
+
+# 1. Liquiditätsplanung — Power-Plugin
 
 <!-- BEGIN direkt-loslegen (autogen) -->
-## Was ist das hier?
+<!-- decimal-anchor --> <a id="was-ist-das-hier"></a>
+
+## 1.1. Was ist das hier?
 
 Liquiditätsplanung nach deutschem Recht: 3-Wochen-Vorschau, 13/26/52-Wochen-Forecast, Excel-Export, Quote/Lücken-Ampel, Dokumentationspaket und Schnittstellen zu Fortbestehensprognose und Insolvenzrecht. Rechtsprechung nur nach Live-Verifikation.
 
 Dieses Plugin gehört zum Marketplace mit 251 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
-## Welche Datei wofür? / Which file should I use?
+<!-- decimal-anchor --> <a id="welche-datei-wofür--which-file-should-i-use"></a>
+
+## 1.2. Welche Datei wofür? / Which file should I use?
 
 | Bestandteil | Deutsch | English | Wo? / Where? |
 | --- | --- | --- | --- |
@@ -27,7 +35,9 @@ The skill index lists the source collection. In the installed package, some spec
 
 Direktnavigation: [30-Sekunden-Start](#in-30-sekunden-starten) · [Startseite](../README.md) · [Plugin-Katalog](../README.md#was-ist-drin) · [Skill-Gesamtübersicht](../SKILLS.md) · [Skills dieses Plugins](../skills-index/liquiditaetsplanung.md) · [Plugin-Dateien](.) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
-## In 30 Sekunden starten
+<!-- decimal-anchor --> <a id="in-30-sekunden-starten"></a>
+
+## 1.3. In 30 Sekunden starten
 
 | Ausgangslage | Schnellster Weg |
 | --- | --- |
@@ -41,7 +51,9 @@ Startsatz für Liquiditätsplanung — Power-Plugin:
 
 Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestellte Tatsachen, Berechnungen und Quellen nicht erneut abfragen oder ohne Anlass neu aufbauen.
 
-## Downloads
+<!-- decimal-anchor --> <a id="downloads"></a>
+
+## 1.4. Downloads
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
@@ -52,7 +64,9 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 
 > Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 251 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
-## Zugeordnete Testakten
+<!-- decimal-anchor --> <a id="zugeordnete-testakten"></a>
+
+## 1.5. Zugeordnete Testakten
 
 Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP mit einzelnen PDFs erreichbar.
 
@@ -74,74 +88,74 @@ Wenn du das hier öffnest, willst du eine belastbare Liquiditätsplanung aufstel
 
 ---
 
-## Was ist drin
+<!-- decimal-anchor --> <a id="was-ist-drin"></a>
 
-Vier Fachskills plus Allgemein-Skill, alle fachlich autark:
+## 1.6. Was ist drin
 
-| Skill | Zweck | Horizont |
+Die wichtigsten Fachrouten innerhalb der unverändert 74 Skills:
+
+| Skill | Arbeitsprodukt | Maßgeblicher Zeitraum |
 | --- | --- | --- |
-| `idw-s6-integrierte-sanierungsplanung` | Brücke von Liquiditätsvorschau zu Sanierungskonzept: GuV, Planbilanz, Maßnahmenlog, Annahmenregister, Sensitivitäten und Sanierungsfähigkeits-Ampel. | 12-24 Monate |
-| `liquiditaetsvorschau-3wochen` | Wochenaktuelle Vorprüfung § 17 InsO (Freitag-Stichtag), Verhältnis zu offenen Forderungen, Ampel. | 3 Wochen |
-| `liquiditaetsvorschau-3-6-12-monate` | Rollierende Planung mit Sensitivität (Best/Base/Worst), Fortbestehensprognose nach § 19 InsO und Übergabe in die Sanierungsplanung. | 13 / 26 / 52 Wochen |
-| `liquiditaetsvorschau-insolvenzrechtlich` | Gerichtsfeste Liquiditätsbilanz nach BGH-Schema (Passiva II zwingend, Volumeneffekt der Quote, titulierte Forderungen mit Nennwert). | Stichtagsbezogen |
+| `liquiditaetsvorschau-3wochen` | Belegte Planung mit getrenntem Stichtagsstatus und rechtlicher Einordnung. | Tatsächlicher Stichtag und kalendergenaues Dreiwochenfenster. |
+| `liquiditaetsvorschau-insolvenzrechtlich` | Status/Bilanz, Nachweismethode, Indizien und begründete Subsumtion. | Stichtags- und verfahrensbezogen. |
+| `liquiditaetsvorschau-3-6-12-monate` | Rollierende Vorschau mit Fortbestehens- und Sanierungsprüfung im beauftragten Umfang. | Operativ 13/26/52 Wochen; § 19 zwölf Kalendermonate; § 18 in aller Regel 24 Monate. |
+| `idw-s6-integrierte-sanierungsplanung` | Verbindung zu GuV, Planbilanz, Maßnahmen und nachhaltiger Sanierungsfähigkeit. | Dem konkreten Sanierungsauftrag entsprechend. |
 
-## Ergebnisformate
+<!-- decimal-anchor --> <a id="ergebnisse-und-datenquellen"></a>
 
-Jeder Skill liefert standardmäßig eine **Excel-Tabelle** nach der hinterlegten Vorlage (`assets/excel/Liquiditaetsplan-Wochenbasis.xlsx`, KW-Spalten × Kategorien-Zeilen, Freitag als Wochenstichtag). Zusätzlich auf Wahl:
+## 1.7. Ergebnisse und Datenquellen
 
-- **Interaktives HTML-Padlet** (`assets/padlet/liquiditaets-padlet.html`) — single-file, autark, rechnet die Ampel live nach BGH-Schema, speichert in `localStorage`, exportiert/importiert JSON.
-- **Markdown-Artefakt** (`assets/markdown/liquiditaets-artefakt-vorlage.md`) — Tabellen, Indizienliste, Kurzfazit; wird bei jeder Folgemeldung neu geschrieben.
-- **Memo** im Gutachtenstil (DOCX oder Markdown) — **nur auf ausdrückliche Anfrage**.
+Das beauftragte Format geht vor. Für eine bearbeitbare Planung steht die [Excel-Vorlage](assets/excel/Liquiditaetsplan-Wochenbasis.xlsx) bereit. Das [HTML-Rechenblatt](assets/padlet/liquiditaets-padlet.html) und die [Markdown-Vorlage](assets/markdown/liquiditaets-artefakt-vorlage.md) unterstützen bei Bedarf weitere Arbeitsweisen. Ohne Tabellenexport wird eine nachvollziehbare Tabelle geliefert; eine nicht erzeugte Datei wird nicht behauptet.
 
-Die Skills fragen einmal am Anfang nach Format und merken sich die Antwort.
+Vorliegende Bankauszüge, OPOS, Kredit- und Stundungsunterlagen zuerst auswerten. Betrag, Fälligkeit, Zahlungstag, Verfügbarkeit und Belegstelle verbinden; OCR-Zahlen und Salden kontrollieren. Nur entscheidende Lücken erfragen und Antworten in Rechnung und beauftragtem Dokument verarbeiten. Bankzugänge nur verwenden, wenn verfügbar und entsprechend autorisiert.
 
-## Banking
+<!-- decimal-anchor --> <a id="insolvenzrechtliche-prüfung"></a>
 
-Jeder Skill fragt einmal nach der Datenquelle:
+## 1.8. Insolvenzrechtliche Prüfung
 
-1. **Manuell** im Padlet/Artefakt/Chat.
-2. **Datei-Import** — CAMT.053, MT940, CSV-Bankexport, DATEV-OPOS.
-3. **Connector** — PSD2/FinTS oder verfügbare Anbieter (per `list_external_tools`).
+Die operative Wochenrechnung bleibt Anfangsbestand plus Einzahlungen minus Auszahlungen. Daneben stehen vier getrennte Statusfelder für Aktiva I/II und Passiva I/II. Passiva I werden nicht aus sämtlichen Ausgaben der ersten Kalenderwoche abgeleitet; Zahlungen auf Altschulden dürfen nicht nochmals als neue Passiva II erscheinen.
 
-Mandatsgeheimnis (§§ 203/204 StGB, § 43e BRAO) und Drittlandtransfer (DSGVO Art. 44 ff.) werden adressiert.
+Bei der zeitraumbezogenen Bilanzmethode gilt `Lücke = max(0, PI + PII − AI − AII)` und `Quote = Lücke / (PI + PII)`, sofern der Nenner positiv ist. Das vollständige Dreiwochenfenster und unterwöchige Fälligkeiten müssen stimmen. Tabellen und Rechenfarben ersetzen keine rechtliche Entscheidung. Unbekannte Eingaben sind nicht null; ein leeres Rechenblatt bedeutet keine Entwarnung.
 
-## BGH-Schema (Passiva II)
+Die [Prüfregeln zu §§ 17–19 InsO](references/insolvenzpruefung.md) behandeln insbesondere:
 
-```
-Aktiva I   = Bank + Kasse + freier zugesagter Kontokorrent (Stichtag)
-Aktiva II  = Σ Einzahlungen KW t..t+2
-Passiva I  = am Stichtag fällig, eingefordert, nicht echt gestundet
-Passiva II = binnen 3 Wochen fällig (KW t+1 + KW t+2)
+- Zehnprozentregel mit beiden Ausnahmen und Zahlungseinstellung als eigenständigen Nachweisweg; keine automatische Entscheidung aus der Zahl von Warnzeichen.
+- Unterschied zwischen Wochenplan, Stichtagsstatus, Liquiditätsbilanz und anderen zulässigen Darlegungswegen.
+- Streitige Verbindlichkeiten und Vollstreckungstitel; eigene Forderungen werden nicht durch einen Titel sofort zu Liquidität.
+- Zwölfmonats-Fortbestehensprognose, eigenständigen Überschuldungsstatus und in aller Regel 24 Monate für drohende Zahlungsunfähigkeit.
+- Rangrücktritt nach konkretem Wortlaut und Finanzierung ohne pauschale Gleichsetzung von weichem Patronat, einklagbarem Anspruch und tatsächlichem Zufluss.
+- Objektiven Eintritt, Antragsfristen und Aktualisierung nach neuen Belegen.
 
-Lücke abs. = max(0, (Passiva I + Passiva II) − (Aktiva I + Aktiva II))
-Quote      = Lücke abs. ÷ (Passiva I + Passiva II)
-```
+<!-- decimal-anchor --> <a id="geprüfte-rechtsprechung-und-abgleich"></a>
 
-**Ampel**: 🟢 Quote < 10 % und Liquidität KW t+2 ≥ 0 und < 2 Indizien. 🟡 Quote ≥ 10 %, KW t+2 ≥ 0, < 2 Indizien (schließbar). 🔴 sonst — § 17 InsO indiziert.
+## 1.9. Geprüfte Rechtsprechung und Abgleich
 
-## Leitentscheidungen und Livecheck
+**Prüfstand 28.09.2026:** Die fünf im überlassenen Fachkapitel genannten Urteile – IX ZR 123/04, IX ZR 228/03, II ZR 88/16, IX ZR 133/14 und II ZR 84/20 – sind in Datum, Aktenzeichen und Themenzuordnung bestätigt. Hinzu kommen sechs bereits relevante neuere Entscheidungen zu Nachweismethoden, Indizien, Darlegung und Titeln. Die [Entscheidungskarte](references/rechtsprechung/INDEX.md) führt **elf Entscheidungen**, ihre amtlichen Volltexte und genaue Anwendungsgrenzen sowie den ergänzenden Berichtigungsbeschluss auf.
 
-Diese Entscheidungen sind als frei prüfbare Arbeitsanker gedacht; vor einer Mandatsausgabe immer Gericht, Datum, Aktenzeichen, Randnummer/Sachverhalt und Aussage anhand einer amtlichen oder frei zugänglichen Quelle nachziehen.
+Die Überlegungen zu Belegen, rollierender Planung, gezielten Rückfragen, Szenarien und Weiterarbeit waren weitgehend vorhanden. Präzisiert wurden insbesondere die Insolvenzmethodik, die Behandlung von Rangrücktritt und Drittmitteln sowie die Rechenhilfen. Werkstatt und Mini wurden entsprechend aktualisiert; die Skillzahl bleibt unverändert. Der Mini bleibt unter 7.500 UTF-8-Bytes.
 
-1. **BGH, Urteil vom 24.05.2005 - IX ZR 123/04**: Abgrenzung Zahlungsstockung/Zahlungsunfähigkeit; Liquiditätslücke von 10 Prozent oder mehr regelmäßig kritisch, wenn sie nicht kurzfristig nahezu vollständig geschlossen werden kann.
-2. **BGH, Urteil vom 19.12.2017 - II ZR 88/16**: Liquiditätsstatus und Liquiditätsbilanz; Einbeziehung der innerhalb von drei Wochen fällig werdenden Verbindlichkeiten (Passiva II) in die Prüfung des § 17 InsO.
-3. **BGH, Urteil vom 28.06.2022 - II ZR 112/21**: Zahlungsunfähigkeit kann mit geordneter Liquiditätsgegenüberstellung und Buchhaltungsunterlagen dargelegt werden; keine mechanische Scheingenauigkeit, sondern belegbare Zahlenbasis.
-4. **Aktualitätsregel**: Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen. Wenn weitere Rechtsprechung gebraucht wird, erst live über `bundesgerichtshof.de`, `dejure.org` oder eine vom Nutzer bereitgestellte Quelle verifizieren.
+Der [Prüfbericht mit drei ausgearbeiteten Grenzfällen und Rechentests](../quality/liquiditaetsplanung/abgleich-2026-09-28/README.md) trennt Quellenabgleich, redaktionelle Prüfung und tatsächlich ausgeführte Tests.
 
-Berufsständischer Hintergrund: Methodenrahmen zu Insolvenzeröffnungsgründen und Sanierungskonzepten; nicht als Ersatz für Gesetz, Rechtsprechung und konkrete Subsumtion zitieren.
+Ein Wochenetikett wie „KW 22“ legt allein keinen taggenauen Eintritt fest. Negatives handelsbilanzielles Eigenkapital, verrechnet mit einem Darlehen, ist kein vollständiger Überschuldungsstatus. Das Fachkapitel wird nicht als Arbeitsakte oder Originaldatei mitveröffentlicht.
 
-## Lizenz
+<!-- decimal-anchor --> <a id="lizenz"></a>
+
+## 1.10. Lizenz
 
 Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
-## Quellen-Disclaimer
+<!-- decimal-anchor --> <a id="quellen-disclaimer"></a>
+
+## 1.11. Quellen-Disclaimer
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
 
 <!-- BEGIN SKILLS-LOGIC (auto-generated) -->
 
-## Orientierung nach Arbeitslogik
+<!-- decimal-anchor --> <a id="orientierung-nach-arbeitslogik"></a>
+
+## 1.12. Orientierung nach Arbeitslogik
 
 Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Ein Klick auf einen Skill lädt seine Markdown-Datei; die alphabetische Komplettliste bleibt darunter erhalten.
 
@@ -162,7 +176,9 @@ English: Skills are grouped by typical work phase. Clicking a skill downloads it
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Überblick
+<!-- decimal-anchor --> <a id="alle-skills-im-überblick"></a>
+
+## 1.13. Alle Skills im Überblick
 
 Automatisch generierte Komplett-Liste aller 74 Skills in diesem Plugin. Jeder Skillname und der Downloadlink laden den unveränderten Inhalt der zugehörigen `SKILL.md` als Markdown-Datei. Der eindeutige Dateiname enthält Plugin und Skill; Beschreibungen stammen aus dem jeweiligen `description`-Feld.
 
@@ -170,7 +186,7 @@ English: Complete list of all 74 skills in this plugin. Both links in each row d
 
 | Skill | Beschreibung | Markdown-Download |
 | --- | --- | --- |
-| [`ampel-zahlen-schwellenwerte-berechnung`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=liquiditaetsplanung/skills/ampel-zahlen-schwellenwerte-berechnung/SKILL.md) | Für Ampel: Zahlen, Schwellenwerte und Berechnung: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=liquiditaetsplanung/skills/ampel-zahlen-schwellenwerte-berechnung/SKILL.md) |
+| [`ampel-zahlen-schwellenwerte-berechnung`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=liquiditaetsplanung/skills/ampel-zahlen-schwellenwerte-berechnung/SKILL.md) | Berechnet Status, Bilanzlücke und operativen Finanzierungsbedarf. Verhindert die Gleichsetzung von Tabellenfarben und Insolvenzgründen. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=liquiditaetsplanung/skills/ampel-zahlen-schwellenwerte-berechnung/SKILL.md) |
 | [`anschluss-routing`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=liquiditaetsplanung/skills/anschluss-routing/SKILL.md) | Für Anschluss-Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Liquiditätsplanung — Power. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=liquiditaetsplanung/skills/anschluss-routing/SKILL.md) |
 | [`ausgabengruppen-fristennotiz-naechster`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=liquiditaetsplanung/skills/ausgabengruppen-fristennotiz-naechster/SKILL.md) | Für Ausgabengruppen: Fristennotiz und nächster Schritt: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=liquiditaetsplanung/skills/ausgabengruppen-fristennotiz-naechster/SKILL.md) |
 | [`ausgabengruppen-systematik`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=liquiditaetsplanung/skills/ausgabengruppen-systematik/SKILL.md) | Für Liqui: Ausgabengruppen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=liquiditaetsplanung/skills/ausgabengruppen-systematik/SKILL.md) |
@@ -212,9 +228,9 @@ English: Complete list of all 74 skills in this plugin. Both links in each row d
 | [`liqui-fuer-bankgespraech`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=liquiditaetsplanung/skills/liqui-fuer-bankgespraech/SKILL.md) | Für Liqui für Bankgespräch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Liquiditätsplanung — Power. Route: liqui-für-bankgespräch. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=liquiditaetsplanung/skills/liqui-fuer-bankgespraech/SKILL.md) |
 | [`liquiditaetsstatus-quellenbelege`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=liquiditaetsplanung/skills/liquiditaetsstatus-quellenbelege/SKILL.md) | Für Liquiditätsstatus nur aus belastbaren Quellenbelegen: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=liquiditaetsplanung/skills/liquiditaetsstatus-quellenbelege/SKILL.md) |
 | [`liquiditaetsstatus-quellenbelege-live-quote`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=liquiditaetsplanung/skills/liquiditaetsstatus-quellenbelege-live-quote/SKILL.md) | Für Liquiditätsstatus Quellenbelege Live Quote: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=liquiditaetsplanung/skills/liquiditaetsstatus-quellenbelege-live-quote/SKILL.md) |
-| [`liquiditaetsvorschau-3-6-12-monate`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=liquiditaetsplanung/skills/liquiditaetsvorschau-3-6-12-monate/SKILL.md) | Für Rollierende Liquiditätsvorschau 3/6/12 Monate mit Fortführungsprognose (Paragrafen 17. 19 InsO): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Liquiditätsplanung — Power. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=liquiditaetsplanung/skills/liquiditaetsvorschau-3-6-12-monate/SKILL.md) |
-| [`liquiditaetsvorschau-3wochen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=liquiditaetsplanung/skills/liquiditaetsvorschau-3wochen/SKILL.md) | Für Drei-Wochen-Liquiditätsvorschau (Paragraf 17 InsO, wochenaktuell): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=liquiditaetsplanung/skills/liquiditaetsvorschau-3wochen/SKILL.md) |
-| [`liquiditaetsvorschau-insolvenzrechtlich`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=liquiditaetsplanung/skills/liquiditaetsvorschau-insolvenzrechtlich/SKILL.md) | Für Insolvenzrechtliche Liquiditätsbilanz und Liquiditätsvorschau: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=liquiditaetsplanung/skills/liquiditaetsvorschau-insolvenzrechtlich/SKILL.md) |
+| [`liquiditaetsvorschau-3-6-12-monate`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=liquiditaetsplanung/skills/liquiditaetsvorschau-3-6-12-monate/SKILL.md) | Erstellt rollierende Liquiditätspläne über 13 bis 52 Wochen und grenzt die Fortbestehensprognose nach Paragraf 19 InsO von der Prognose nach Paragraf 18 InsO ab. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=liquiditaetsplanung/skills/liquiditaetsvorschau-3-6-12-monate/SKILL.md) |
+| [`liquiditaetsvorschau-3wochen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=liquiditaetsplanung/skills/liquiditaetsvorschau-3wochen/SKILL.md) | Erstellt eine Dreiwochenplanung und einen belegten Status zur Prüfung der Zahlungsunfähigkeit. Trennt Zahlungsbedarf, Datenlücken, Indizien und rechtliche Bewertung. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=liquiditaetsplanung/skills/liquiditaetsvorschau-3wochen/SKILL.md) |
+| [`liquiditaetsvorschau-insolvenzrechtlich`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=liquiditaetsplanung/skills/liquiditaetsvorschau-insolvenzrechtlich/SKILL.md) | Prüft Zahlungsunfähigkeit aus Status, Liquiditätsbilanz oder Zahlungseinstellung mit Belegen und Gegenargumenten. Grenzt Überschuldung, Prognose und Antragspflichten ab. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=liquiditaetsplanung/skills/liquiditaetsvorschau-insolvenzrechtlich/SKILL.md) |
 | [`live-mandantenkommunikation`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=liquiditaetsplanung/skills/live-mandantenkommunikation/SKILL.md) | Für Live: Mandantenkommunikation und Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Mandantennachricht oder Entscheidungsvorlage. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=liquiditaetsplanung/skills/live-mandantenkommunikation/SKILL.md) |
 | [`luecken-quellenkarte`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=liquiditaetsplanung/skills/luecken-quellenkarte/SKILL.md) | Für Lücken Quellenkarte: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=liquiditaetsplanung/skills/luecken-quellenkarte/SKILL.md) |
 | [`mahnstufen-debitoren`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=liquiditaetsplanung/skills/mahnstufen-debitoren/SKILL.md) | Für Liqui: Debitorenseite: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=liquiditaetsplanung/skills/mahnstufen-debitoren/SKILL.md) |
@@ -224,7 +240,7 @@ English: Complete list of all 74 skills in this plugin. Both links in each row d
 | [`output-waehlen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=liquiditaetsplanung/skills/output-waehlen/SKILL.md) | Für Output wählen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Liquiditätsplanung — Power. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=liquiditaetsplanung/skills/output-waehlen/SKILL.md) |
 | [`quellen-livecheck`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=liquiditaetsplanung/skills/quellen-livecheck/SKILL.md) | Für Rechtsquellen-Livecheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Liquiditätsplanung — Power. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=liquiditaetsplanung/skills/quellen-livecheck/SKILL.md) |
 | [`quote-verhandlung-vergleich-eskalation`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=liquiditaetsplanung/skills/quote-verhandlung-vergleich-eskalation/SKILL.md) | Für Quote: Verhandlung, Vergleich und Eskalation: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=liquiditaetsplanung/skills/quote-verhandlung-vergleich-eskalation/SKILL.md) |
-| [`rechtsprechung-fehlerkatalog`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=liquiditaetsplanung/skills/rechtsprechung-fehlerkatalog/SKILL.md) | Für Rechtsprechung Fehlerkatalog: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=liquiditaetsplanung/skills/rechtsprechung-fehlerkatalog/SKILL.md) |
+| [`rechtsprechung-fehlerkatalog`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=liquiditaetsplanung/skills/rechtsprechung-fehlerkatalog/SKILL.md) | Kontrolliert Liquiditätsstatus und Prognose auf Methodenfehler, unzutreffende Rechtsprechungsübertragung und fehlende Belege; liefert konkrete Berichtigungen. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=liquiditaetsplanung/skills/rechtsprechung-fehlerkatalog/SKILL.md) |
 | [`redteam-qualitygate`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=liquiditaetsplanung/skills/redteam-qualitygate/SKILL.md) | Für Red-Team Qualitygate: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck. Fachgebiet: Liquiditätsplanung — Power. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=liquiditaetsplanung/skills/redteam-qualitygate/SKILL.md) |
 | [`restrukturierungsplan-starug`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=liquiditaetsplanung/skills/restrukturierungsplan-starug/SKILL.md) | Für Liqui im StaRUG-Plan: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=liquiditaetsplanung/skills/restrukturierungsplan-starug/SKILL.md) |
 | [`saisonalitaet-erkennen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=liquiditaetsplanung/skills/saisonalitaet-erkennen/SKILL.md) | Für Liqui: Saisonalität: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=liquiditaetsplanung/skills/saisonalitaet-erkennen/SKILL.md) |

@@ -1,38 +1,104 @@
 {
   "schema_version": 1,
   "plugin": "liquiditaetsplanung",
-  "reviewed_on": "2026-09-23",
+  "reviewed_on": "2026-09-28",
   "sources": [
     {
-      "url": "https://www.gesetze-im-internet.de/inso/__17.html",
-      "checked_on": "2026-09-14",
-      "supports": "Aktuelle Zahlungsfähigkeit anhand fälliger Pflichten."
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2024/IX_ZB__38-24A.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-28",
+      "supports": "Bei allein titelabhängigem Eröffnungsgrund kann die wirksam erreichte Vollstreckungseinstellung die Beweiswirkung des Endurteils beseitigen. Das ist kein Erlass der materiellen Schuld. Fundstelle: Rn. 10–18"
     },
     {
-      "url": "https://www.gesetze-im-internet.de/inso/__18.html",
-      "checked_on": "2026-09-14",
-      "supports": "Abgrenzung kurzer Planung zur regelmäßig 24-monatigen Prognose."
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2023/II_ZR_139-23.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-28",
+      "supports": "Nichtzulassungsbeschwerde: objektiver materieller Bestand der Verbindlichkeit; keine Bewertung nur nach Prozessrisiko. Kein eigenständiges Grundsatzurteil. Fundstelle: S. 2–3 (ohne Randnummern)"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2022/IX_ZR_229-22.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-28",
+      "supports": "Objektiver Bestand und Fälligkeit; Nennwert des vorläufig vollstreckbaren Titels bei Vollstreckungsvoraussetzungen und eingeleiteter Vollstreckung. Betrifft Passiva, nicht eigene Aktivforderungen. Fundstelle: Rn. 34–43"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2022/IX_ZR_129-22.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-28",
+      "supports": "Ein außenstehender Dritter muss pauschalen, nicht näher belegten Liquiditätsvortrag nicht ohne Weiteres im Einzelnen bestreiten. Parteirolle und Wissensnähe unterscheiden. Fundstelle: Leitsatz; Rn. 22–27"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2021/II_ZR_112-21.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-28",
+      "supports": "Darlegung auch mit Stichtagsstatus und tagesgenauem Finanzplan oder aussagekräftiger Folge tagesgenauer Status. Keine starre Zahl von Stichproben und keine Abschaffung der Passiva II bei Bilanzmethode. Fundstelle: Rn. 12–16"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2021/IX_ZR__48-21.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-28",
+      "supports": "Quantitative Prüfung und eigenständige Zahlungseinstellung; ein starkes Indiz kann genügen. Gleichbleibend jeweils vollständige SV-Zahlung mit ein bis unter zwei Monaten Verspätung reicht für sich nicht. Fundstelle: Rn. 18, 24, 27–33"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2020/II_ZR__84-20.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-28",
+      "supports": "Schlüssige ex-ante-Prognose, laufende Aktualisierung; kein zwingender Rechtsanspruch auf sämtliche prognostizierten Drittmittel, aber enge Grenzen weicher Patronate. Kein Aktivwert aus weicher Erklärung. Alter § 19; heutiger Horizont aus aktuellem Gesetz. Fundstelle: Rn. 68–71, 74–85, 87"
     },
     {
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2016/II_ZR__88-16.pdf?__blob=publicationFile&v=1",
-      "checked_on": "2026-09-22",
-      "supports": "BGH, Urteil vom 19.12.2017, II ZR 88/16, insbesondere Rn. 50–70: In der Dreiwochenbetrachtung künftige Zuflüsse und neue Fälligkeiten gemeinsam erfassen. Konzernansprüche nur bei rechtzeitiger Leistungsfähigkeit und Zahlungsbereitschaft als verfügbar behandeln. Grenze: Eine 13-Wochen-Budgetplanung ersetzt nicht den Status; die Entscheidung zu Paragraf 64 GmbHG begründet keine automatische heutige Organhaftung."
+      "checked_on": "2026-09-28",
+      "supports": "Passiva II in der zeitraumbezogenen Liquiditätsbilanz berücksichtigen; Konzernforderung nur bei belegtem rechtzeitigem Zufluss. Nicht die bloße Kündbarkeit als Liquidität ansetzen. Fundstelle: Rn. 50–62, 68–70"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2014/IX_ZR_133-14.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-28",
+      "supports": "Rangtiefe und vorinsolvenzliche Durchsetzungssperre am Vertrag prüfen. Forderung bleibt bestehen; kein Zufluss und keine automatische handelsbilanzielle Ausbuchung. Aufhebung nach beseitigter Insolvenzreife differenzieren. Fundstelle: Rn. 15–24, 32, 35–42"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2003/IX_ZR_228-03.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-28",
+      "supports": "Zahlungseinstellung, SV-/Lohnrückstände, Stundungsbitten und Teilzahlungen im Kontext; Einzelzahlungen widerlegen Zahlungseinstellung nicht automatisch. Anfechtungsfall, kein Indizienautomat. Fundstelle: Rn. 12–24, 27–28"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2004/IX_ZR_123-04.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-28",
+      "supports": "Dreiwochen-/Zehnprozentregel mit Ausnahmen in beide Richtungen. Amtlicher Volltext ohne Randnummern. Selbst 9,2 Prozent waren im konkreten Fall bei schlechten Zukunftsaussichten kein Schutz. Fundstelle: Leitsätze a–c; PDF-S. 7–10, 13–18"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2014/IX_ZR_133-14A.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-28",
+      "supports": "Kläger statt Beklagter; keine Änderung der Rangrücktrittsaussagen. Fundstelle: S. 2: Berichtigung von Rn. 53"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__17.html",
+      "checked_on": "2026-09-28",
+      "supports": "Aktuelle Normfassung § 17 InsO für getrennte Prüfung von Insolvenzgrund, Prognose, Frist und Nachrang."
     },
     {
       "url": "https://www.gesetze-im-internet.de/inso/__18.html",
-      "checked_on": "2026-09-22",
-      "supports": "Regelmäßiger Prognosezeitraum von 24 Monaten für drohende Zahlungsunfähigkeit, nicht für jeden Liquiditätsstatus."
+      "checked_on": "2026-09-28",
+      "supports": "Aktuelle Normfassung § 18 InsO für getrennte Prüfung von Insolvenzgrund, Prognose, Frist und Nachrang."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__19.html",
+      "checked_on": "2026-09-28",
+      "supports": "Aktuelle Normfassung § 19 InsO für getrennte Prüfung von Insolvenzgrund, Prognose, Frist und Nachrang."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__15a.html",
+      "checked_on": "2026-09-28",
+      "supports": "Aktuelle Normfassung § 15a InsO für getrennte Prüfung von Insolvenzgrund, Prognose, Frist und Nachrang."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__39.html",
+      "checked_on": "2026-09-28",
+      "supports": "Aktuelle Normfassung § 39 InsO für getrennte Prüfung von Insolvenzgrund, Prognose, Frist und Nachrang."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Mini individuell um Einstiegswahl, unterwöchige Kontrollrechnung und konkrete Planfortschreibung erweitert; Dreiwochenstatus und Konzernhilfe weiterhin abgegrenzt. Desk-Review ohne Live-Ausführung.",
+    "reason": "Amtlicher Volltextabgleich und individuelle redaktionelle Prüfung mit gezielter Korrektur der Insolvenzmethodik; Rechen- und Praxistests werden außerhalb dieses Desk-Review-Profils gesondert dokumentiert.",
     "changes": [
-      "II ZR 88/16 an beide Seiten der Dreiwochenrechnung und Leistungsfähigkeit/-bereitschaft von Konzerngesellschaften geknüpft.",
-      "13-Wochen-Steuerung nicht als gesetzlicher Ersatz des Insolvenzstatus bezeichnet; keine automatische Organhaftung.",
-      "Drei Einstiegsmodi und bankbedingte Antwortänderung in Plan und Vermerk; Factoring und unterwöchige Restlücke erläutert."
+      "Alle fünf Kapitelzitate am amtlichen Volltext bestätigt; elf Entscheidungen mit Fundstelle, Reichweite, Original-PDF und SHA-256 dokumentiert.",
+      "Zehnprozentregel, taggenaue Zeitfenster, getrennte AI/II/PI/II und eigenständige Indizienwürdigung statt automatischer Insolvenzampel.",
+      "Rangrücktritt, Fortbestehensprognose mit Drittmitteln und eigenständigen Überschuldungsstatus differenziert; 12/24-Monatshorizonte abgegrenzt.",
+      "Vorhandene Rückfragen-/Beleg-/Fortschreibungslogik erhalten; OCR-Saldenkontrolle ergänzt."
     ],
-    "sha256": "9200c996a361c5ae380fca7be3c0736c720040210815dcca0fbf53993f0b1e15"
+    "sha256": "e6755398788d1fadd253133e77f15c5e94a1dcd6f955145c831fdd2d769a7d73"
   },
   "selection": {
     "positive": [
@@ -76,22 +142,117 @@
         }
       ],
       "target_skill": "forecast-wochenplanung"
+    },
+    {
+      "id": "achtprozent-und-neue-faelligkeiten",
+      "request": "Erstellen Sie ergebnis.md als Kurzvermerk: Stichtag Mittwoch 28.10.2026, freie Mittel 92000 EUR, alle fälligen Verbindlichkeiten 100000 EUR, keine Zuflüsse bis 18.11.2026; am 05.11. werden weitere 30000 EUR fällig. Stundungen, Kreditlinien und andere Deckung fehlen. Die Geschäftsführung fragt, ob acht Prozent eine grüne Freigabe und drei Wochen Abwarten erlauben.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Stichtagslücke 8000 EUR; vollständige Bilanzlücke 38000 / 130000 EUR = rund 29.23 Prozent, neue Fälligkeiten nur einmal erfasst.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Keine Entwarnung allein wegen anfänglicher acht Prozent; keine allgemeine Wartefrist. 18.11.2026 ist nur die äußerste Antragsgrenze, wenn der objektive Eintritt tatsächlich erst am 28.10. lag; früheren Eintritt aufklären.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Den bestellten Vermerk ausformulieren und taggenau prüfen, nicht nur einen Wochenendbestand oder eine abstrakte Checkliste liefern.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "liquiditaetsvorschau-3wochen"
+    },
+    {
+      "id": "rangruecktritt-investor-horizonte",
+      "request": "Erstellen Sie ergebnis.md: Stichtag 01.10.2026, HGB-Eigenkapital minus 135706 EUR; Gesellschafterdarlehen 70000 EUR mit Klausel nur „im Insolvenzverfahren hinter Banken“, ohne vorinsolvenzliche Sperre. Planung vom 01.10.2026 bis 29.09.2027. Investor hat keinen einklagbaren Beitrag zugesagt, aber konkrete Finanzierungsprüfung und belegte Mittelreservierung vorgelegt; Betrag, Termin, Bedingungen und Gesamtdeckung sind noch unklar. Darf das Darlehen herausgerechnet und allein wegen fehlenden Anspruchs eine negative Prognose bescheinigt werden? Sind §§ 17–19 vollständig geprüft?",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Kein automatisches Herausrechnen aufgrund der unzureichenden Klausel; HGB-Eigenkapital ist kein insolvenzrechtlicher Überschuldungsstatus und Rangrücktritt kein Zufluss.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Kein zwingender einklagbarer Anspruch auf jeden prognostizierten Beitrag; konkrete positive Investorbelege würdigen, verbleibende Deckungs-, Zeit- und Bedingungslücken gezielt abfragen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "30.09.2027 fehlt zur Zwölfmonatsplanung; § 18 reicht regelmäßig bis 30.09.2028. § 17 bleibt eigenständig. Weder vollständige Entwarnung noch negative Prognose allein aus der fehlenden Einklagbarkeit.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "liquiditaetsvorschau-3-6-12-monate"
+    },
+    {
+      "id": "titel-einstellung-indizien",
+      "request": "Erstellen Sie ergebnis.md: Eigener Kundentitel 50000 EUR bei ungewisser Realisierung. Lieferantentitel über 40000 EUR ist vorläufig vollstreckbar, die Voraussetzungen liegen vor, Vollstreckung war eingeleitet; anschließend wurde sie wirksam gegen geleistete Sicherheit eingestellt. Materieller Forderungsbestand bleibt streitig. SV-Beiträge werden gleichbleibend jeweils 45 Tage verspätet, aber vollständig gezahlt; zusätzlich gibt es bloße Stundungsanfragen. Geschäftsführung möchte Aktivtitel voll ansetzen, Lieferantenverbindlichkeit auf null setzen und Zahlungseinstellung durch zwei angekreuzte Hinweise feststellen.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Kundentitel ohne belegten rechtzeitigen Zufluss nicht als sichere Aktivliquidität erfassen; Passivnennwertregel nicht auf Aktivtitel übertragen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Vorher-/Nachherwirkung der wirksamen Einstellung und materiellen Bestand unterscheiden; keine automatische Null. Durch Sicherheit gebundene Eigenmittel mit freier Liquidität abstimmen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Keine automatische Zahlungseinstellung aus zwei Hinweisen; Verlauf vollständiger SV-Zahlungen, Art der Stundungsanfragen und bekannten Vollstreckungsdruck insgesamt würdigen. Keine fehlenden Beträge erfinden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "liquiditaetsvorschau-insolvenzrechtlich"
     }
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt vollständig gelesen und um Bank-/OP-Abgleich, Factoring, Tagesengpass, Kreditrückführung, zusammenhängende Stressannahmen und rückblickenden Kenntnisstand vertieft. Kein Live-Modell- oder Tabellenlauf.",
+    "reason": "Amtlicher Volltextabgleich und individuelle redaktionelle Prüfung mit gezielter Korrektur der Insolvenzmethodik; Rechen- und Praxistests werden außerhalb dieses Desk-Review-Profils gesondert dokumentiert.",
     "changes": [
-      "II ZR 88/16 an beide Seiten der Dreiwochenrechnung und Leistungsfähigkeit/-bereitschaft von Konzerngesellschaften geknüpft.",
-      "13-Wochen-Steuerung nicht als gesetzlicher Ersatz des Insolvenzstatus bezeichnet; keine automatische Organhaftung.",
-      "Zahlungsavis, Wertstellung, interne Umbuchung und Factoringvorschuss gegen Doppelzählung abgrenzen.",
-      "6.000-EUR-Tagesbedarf bei positivem Wochenabschluss und 1.000-EUR-Restlücke nach Linie nachvollziehbar durchrechnen.",
-      "Bedingte Bankzusage ändert Planpfad und Finanzierungsvermerk; spätere Belege im rückblickenden Status nicht mit früherer Verfügbarkeit gleichsetzen."
+      "Alle fünf Kapitelzitate am amtlichen Volltext bestätigt; elf Entscheidungen mit Fundstelle, Reichweite, Original-PDF und SHA-256 dokumentiert.",
+      "Zehnprozentregel, taggenaue Zeitfenster, getrennte AI/II/PI/II und eigenständige Indizienwürdigung statt automatischer Insolvenzampel.",
+      "Rangrücktritt, Fortbestehensprognose mit Drittmitteln und eigenständigen Überschuldungsstatus differenziert; 12/24-Monatshorizonte abgegrenzt.",
+      "Vorhandene Rückfragen-/Beleg-/Fortschreibungslogik erhalten; OCR-Saldenkontrolle ergänzt."
     ],
-    "sha256": "f7bb82c022c5c742b79726b9849c90e63e8041d3e85533e8408e1c8e61ece11d"
+    "sha256": "c549d0eeb423f6f5c7fea397901f564dafa609f99b9d5ce05caee2b38a0a4dbd"
   },
   "prompt_editorial_review": {
-    "date": "2026-09-22",
+    "date": "2026-09-28",
     "files": [
       "liquiditaetsplanung/liquiditaetsplanung-schnellstart.md",
       "liquiditaetsplanung/liquiditaetsplanung-werkstatt.md",
@@ -105,20 +266,80 @@
     ],
     "decisions": [
       {
-        "citation": "BGH, Urteil vom 19.12.2017, II ZR 88/16, insbesondere Rn. 50–70",
+        "citation": "BGH, Beschluss vom 22.05.2025 – IX ZB 38/24, Rn. 10–18",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2024/IX_ZB__38-24A.pdf?__blob=publicationFile&v=1",
+        "application": "Bei allein titelabhängigem Eröffnungsgrund kann die wirksam erreichte Vollstreckungseinstellung die Beweiswirkung des Endurteils beseitigen. Das ist kein Erlass der materiellen Schuld.",
+        "limit": "Konkreten Tatsachen- und Verfahrenskontext sowie Normfassung beachten; siehe Entscheidungskarte."
+      },
+      {
+        "citation": "BGH, Beschluss vom 11.03.2025 – II ZR 139/23, S. 2–3 (ohne Randnummern)",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2023/II_ZR_139-23.pdf?__blob=publicationFile&v=1",
+        "application": "Nichtzulassungsbeschwerde: objektiver materieller Bestand der Verbindlichkeit; keine Bewertung nur nach Prozessrisiko. Kein eigenständiges Grundsatzurteil.",
+        "limit": "Konkreten Tatsachen- und Verfahrenskontext sowie Normfassung beachten; siehe Entscheidungskarte."
+      },
+      {
+        "citation": "BGH, Urteil vom 23.01.2025 – IX ZR 229/22, Rn. 34–43",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2022/IX_ZR_229-22.pdf?__blob=publicationFile&v=1",
+        "application": "Objektiver Bestand und Fälligkeit; Nennwert des vorläufig vollstreckbaren Titels bei Vollstreckungsvoraussetzungen und eingeleiteter Vollstreckung. Betrifft Passiva, nicht eigene Aktivforderungen.",
+        "limit": "Konkreten Tatsachen- und Verfahrenskontext sowie Normfassung beachten; siehe Entscheidungskarte."
+      },
+      {
+        "citation": "BGH, Urteil vom 18.04.2024 – IX ZR 129/22, Leitsatz; Rn. 22–27",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2022/IX_ZR_129-22.pdf?__blob=publicationFile&v=1",
+        "application": "Ein außenstehender Dritter muss pauschalen, nicht näher belegten Liquiditätsvortrag nicht ohne Weiteres im Einzelnen bestreiten. Parteirolle und Wissensnähe unterscheiden.",
+        "limit": "Konkreten Tatsachen- und Verfahrenskontext sowie Normfassung beachten; siehe Entscheidungskarte."
+      },
+      {
+        "citation": "BGH, Urteil vom 28.06.2022 – II ZR 112/21, Rn. 12–16",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2021/II_ZR_112-21.pdf?__blob=publicationFile&v=1",
+        "application": "Darlegung auch mit Stichtagsstatus und tagesgenauem Finanzplan oder aussagekräftiger Folge tagesgenauer Status. Keine starre Zahl von Stichproben und keine Abschaffung der Passiva II bei Bilanzmethode.",
+        "limit": "Konkreten Tatsachen- und Verfahrenskontext sowie Normfassung beachten; siehe Entscheidungskarte."
+      },
+      {
+        "citation": "BGH, Urteil vom 28.04.2022 – IX ZR 48/21, Rn. 18, 24, 27–33",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2021/IX_ZR__48-21.pdf?__blob=publicationFile&v=1",
+        "application": "Quantitative Prüfung und eigenständige Zahlungseinstellung; ein starkes Indiz kann genügen. Gleichbleibend jeweils vollständige SV-Zahlung mit ein bis unter zwei Monaten Verspätung reicht für sich nicht.",
+        "limit": "Konkreten Tatsachen- und Verfahrenskontext sowie Normfassung beachten; siehe Entscheidungskarte."
+      },
+      {
+        "citation": "BGH, Urteil vom 13.07.2021 – II ZR 84/20, Rn. 68–71, 74–85, 87",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2020/II_ZR__84-20.pdf?__blob=publicationFile&v=1",
+        "application": "Schlüssige ex-ante-Prognose, laufende Aktualisierung; kein zwingender Rechtsanspruch auf sämtliche prognostizierten Drittmittel, aber enge Grenzen weicher Patronate. Kein Aktivwert aus weicher Erklärung. Alter § 19; heutiger Horizont aus aktuellem Gesetz.",
+        "limit": "Konkreten Tatsachen- und Verfahrenskontext sowie Normfassung beachten; siehe Entscheidungskarte."
+      },
+      {
+        "citation": "BGH, Urteil vom 19.12.2017 – II ZR 88/16, Rn. 50–62, 68–70",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2016/II_ZR__88-16.pdf?__blob=publicationFile&v=1",
-        "application": "In der Dreiwochenbetrachtung künftige Zuflüsse und neue Fälligkeiten gemeinsam erfassen. Konzernansprüche nur bei rechtzeitiger Leistungsfähigkeit und Zahlungsbereitschaft als verfügbar behandeln.",
-        "limit": "Eine 13-Wochen-Budgetplanung ersetzt nicht den Status; die Entscheidung zu Paragraf 64 GmbHG begründet keine automatische heutige Organhaftung."
+        "application": "Passiva II in der zeitraumbezogenen Liquiditätsbilanz berücksichtigen; Konzernforderung nur bei belegtem rechtzeitigem Zufluss. Nicht die bloße Kündbarkeit als Liquidität ansetzen.",
+        "limit": "Konkreten Tatsachen- und Verfahrenskontext sowie Normfassung beachten; siehe Entscheidungskarte."
+      },
+      {
+        "citation": "BGH, Urteil vom 05.03.2015 – IX ZR 133/14, Rn. 15–24, 32, 35–42",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2014/IX_ZR_133-14.pdf?__blob=publicationFile&v=1",
+        "application": "Rangtiefe und vorinsolvenzliche Durchsetzungssperre am Vertrag prüfen. Forderung bleibt bestehen; kein Zufluss und keine automatische handelsbilanzielle Ausbuchung. Aufhebung nach beseitigter Insolvenzreife differenzieren.",
+        "limit": "Konkreten Tatsachen- und Verfahrenskontext sowie Normfassung beachten; siehe Entscheidungskarte."
+      },
+      {
+        "citation": "BGH, Urteil vom 12.10.2006 – IX ZR 228/03, Rn. 12–24, 27–28",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2003/IX_ZR_228-03.pdf?__blob=publicationFile&v=1",
+        "application": "Zahlungseinstellung, SV-/Lohnrückstände, Stundungsbitten und Teilzahlungen im Kontext; Einzelzahlungen widerlegen Zahlungseinstellung nicht automatisch. Anfechtungsfall, kein Indizienautomat.",
+        "limit": "Konkreten Tatsachen- und Verfahrenskontext sowie Normfassung beachten; siehe Entscheidungskarte."
+      },
+      {
+        "citation": "BGH, Urteil vom 24.05.2005 – IX ZR 123/04, Leitsätze a–c; PDF-S. 7–10, 13–18",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2004/IX_ZR_123-04.pdf?__blob=publicationFile&v=1",
+        "application": "Dreiwochen-/Zehnprozentregel mit Ausnahmen in beide Richtungen. Amtlicher Volltext ohne Randnummern. Selbst 9,2 Prozent waren im konkreten Fall bei schlechten Zukunftsaussichten kein Schutz.",
+        "limit": "Konkreten Tatsachen- und Verfahrenskontext sowie Normfassung beachten; siehe Entscheidungskarte."
       }
     ],
     "remaining_limits": [
-      "Redaktionelle Akten- und Quellenprüfung, kein Live-Client- oder Modelltest.",
-      "Weitere Schwellenentscheidungen und berufsständische Standards nicht erneut vollständig verifiziert; keine Live-Prüfung von Excel, Importen oder Bankzugängen.",
-      "Nachprüfung am 2026-09-23: Profilquellen erneut geöffnet; Paragrafen 17 und 18 InsO vollständig lesbar, amtlicher PDF-Link zu II ZR 88/16 technisch nicht zugänglich. Dessen früherer Quellenstand bleibt historisch erhalten, keine erneute Volltextverifikation behauptet. Ergänzt wurden Rechen- und Belegabläufe ohne neue Schwellenentscheidung."
+      "Die redaktionelle Profilprüfung ist kein statistischer Modellbenchmark und keine Mandatsentscheidung.",
+      "Keine neue Volltextprüfung lizenzpflichtiger IDW-Standards oder Literatur. Keine Verbindung mit echten Bankkonten.",
+      "Getrennte tatsächlich ausgeführte Rechen-, Browser-, Tabellen- und Praxistests sind im ergänzenden Prüfbericht dokumentiert."
     ]
   },
   "prompt_workflow_review": {
-    "date": "2026-09-23",
+    "date": "2026-09-28",
     "method": "desk_review",
     "opening_modes": [
       "Leer: Wochenplanung, Bankfinanzierungsbedarf oder Krisensignalprüfung zur kurzen Auswahl.",
@@ -126,7 +347,7 @@
       "Klarer Auftrag: direkt rechnen, nur entscheidende Betrags-, Termin- oder Verfügbarkeitslücken fragen."
     ],
     "continuation": "Späterer oder bedingter Bankzufluss ändert im vereinbarten Pfad, beispielsweise planung/liquiditaet.xlsx, Zufluss und Folgebestände sowie in planung/finanzierungsvermerk.md Bereitstellungstag und Zwischenbedarf; ohne Dateizugriff aktualisierte Tabelle und Text.",
-    "enrichment": "OP-/Bankabstimmung, Factoring, Währungen, Tagesengpässe, Kreditrahmen nach Rückführung, realistische gekoppelte Stressfälle und zeitbezogene Belege für rückblickende Insolvenzprüfung.",
-    "limits": "desk review; no live client execution"
+    "enrichment": "Beleg-/OCR-Kontrolle, taggenaues Dreiwochenfenster, getrennte operative und rechtliche Bewertung, 12/24-Monatsprognose, Rangrücktritt und belastbare Drittmittel; konkrete Antworten ändern Rechnung, Vermerk und Fristbewertung.",
+    "limits": "Dieses Feld dokumentiert desk_review; gesonderte Verhaltenstests ersetzen keinen umfassenden statistischen Benchmark."
   }
 }

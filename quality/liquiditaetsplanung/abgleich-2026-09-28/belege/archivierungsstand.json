@@ -1,0 +1,106 @@
+{
+  "stand": "2026-09-28",
+  "umfang": "Hashes der aufgeführten relevanten finalen Dateien bei Archivierung; kein vollständiger Git- oder Modelllauf-Snapshot. Die juristischen Kurzvermerke stammen aus dem zuvor ausgeführten qualitativen Lauf.",
+  "dateien": [
+    {
+      "datei": "liquiditaetsplanung/liquiditaetsplanung-werkstatt.md",
+      "sha256": "c549d0eeb423f6f5c7fea397901f564dafa609f99b9d5ce05caee2b38a0a4dbd"
+    },
+    {
+      "datei": "liquiditaetsplanung/liquiditaetsplanung-schnellstart.md",
+      "sha256": "e6755398788d1fadd253133e77f15c5e94a1dcd6f955145c831fdd2d769a7d73"
+    },
+    {
+      "datei": "liquiditaetsplanung/references/insolvenzpruefung.md",
+      "sha256": "2f965992619e5bf8b6b71c7ac553f49f3ba210ca36fc0203380e33f36ce19acd"
+    },
+    {
+      "datei": "liquiditaetsplanung/references/rechtsprechung/INDEX.md",
+      "sha256": "88d99a91c1146e804447f12f41662691e78b91f21fc98ee932dfbfa202358950"
+    },
+    {
+      "datei": "liquiditaetsplanung/references/rechtsprechung/quellenpruefung.json",
+      "sha256": "5fc874505888ad0a6c31ca01ccb22951ce8da396816852454a86892172c9a19d"
+    },
+    {
+      "datei": "liquiditaetsplanung/skills/liquiditaetsvorschau-3wochen/SKILL.md",
+      "sha256": "f5fb592c4c03f832165bedad34b37389f9f2c6661ce5131e035a420c16a18159"
+    },
+    {
+      "datei": "liquiditaetsplanung/skills/liquiditaetsvorschau-insolvenzrechtlich/SKILL.md",
+      "sha256": "c7f9d8754b083d22451f449ac06ec53309b6ae883e2e65949888fb4d0fe79b80"
+    },
+    {
+      "datei": "liquiditaetsplanung/skills/liquiditaetsvorschau-3-6-12-monate/SKILL.md",
+      "sha256": "5b62413b12427aee9365cda8495893fa56dae9b035304617425a7fa11323f56f"
+    },
+    {
+      "datei": "liquiditaetsplanung/skills/liquiditaetsvorschau-3-6-12-monate/werkzeuge/build_liquiditaetsplan.py",
+      "sha256": "5d19c79e665e6ea25380a345fa92d59ea579b53c27051ec8e3bf23be110db53c"
+    },
+    {
+      "datei": "liquiditaetsplanung/assets/excel/Liquiditaetsplan-Wochenbasis.xlsx",
+      "sha256": "984dcc0c26e9bf97fc035dd855624ce00e1dd4af33cf9b16c58c57a884457e38"
+    },
+    {
+      "datei": "liquiditaetsplanung/assets/padlet/liquiditaets-padlet.html",
+      "sha256": "c21193953d3055c47e684b53bf2b698b0473016fde18d1b2404c16589f75791f"
+    },
+    {
+      "datei": "scripts/test-liquiditaetsplanung-rechenlogik.mjs",
+      "sha256": "80cdad6b242afb420c98d06043176b4c20a0d5bd8cbde16283a8e964e89749ac"
+    },
+    {
+      "datei": "scripts/test-liquiditaetsplanung-excel.py",
+      "sha256": "e26f543975603cb52c4da6c3ba79e1dc048487f51d662822b9589cb5b1a7f470"
+    },
+    {
+      "datei": "liquiditaetsplanung/references/rechtsprechung/BGH_II_ZR_112-21_vom_2022-06-28.pdf",
+      "sha256": "2e3f08881c8c219a731407da50067af06681c8e9c4e4180fc35f3b114fa62de2"
+    },
+    {
+      "datei": "liquiditaetsplanung/references/rechtsprechung/BGH_II_ZR_139-23_vom_2025-03-11.pdf",
+      "sha256": "64ca7c3b2e2b0bad4d29aef541da94fdac6de1762b742c8583ca46f3487d2fdc"
+    },
+    {
+      "datei": "liquiditaetsplanung/references/rechtsprechung/BGH_II_ZR_84-20_vom_2021-07-13.pdf",
+      "sha256": "b075c3993a1ede7cb47bf21df9e1d003b222d390e55ebbb63a120081120cb154"
+    },
+    {
+      "datei": "liquiditaetsplanung/references/rechtsprechung/BGH_II_ZR_88-16_vom_2017-12-19.pdf",
+      "sha256": "77f0e8e8b9be3fd09305f393befc515b4bcb262310ceb5313dc1613b0fb46732"
+    },
+    {
+      "datei": "liquiditaetsplanung/references/rechtsprechung/BGH_IX_ZB_38-24_vom_2025-05-22.pdf",
+      "sha256": "a6a87cf5fa2a112cb44365588db6ec50487199dd40d6957f33fd261bb84d9cff"
+    },
+    {
+      "datei": "liquiditaetsplanung/references/rechtsprechung/BGH_IX_ZR_123-04_vom_2005-05-24.pdf",
+      "sha256": "1e02ed1900730130b41d75304cba7df608a75ae9261764cba07c8e3e06171993"
+    },
+    {
+      "datei": "liquiditaetsplanung/references/rechtsprechung/BGH_IX_ZR_129-22_vom_2024-04-18.pdf",
+      "sha256": "7b3e361ce59118fdbe57360da61fc342684ff44c2f6cb63e88f37a9765f157ec"
+    },
+    {
+      "datei": "liquiditaetsplanung/references/rechtsprechung/BGH_IX_ZR_133-14_Berichtigung_vom_2015-03-24.pdf",
+      "sha256": "2a316a673f6fcad5c6e0f6be1e09fca6aaba9e73b6759a0db34c338b0127613e"
+    },
+    {
+      "datei": "liquiditaetsplanung/references/rechtsprechung/BGH_IX_ZR_133-14_vom_2015-03-05.pdf",
+      "sha256": "ba222db3d6c4360899a48c81775c5f57505dfda884224dbc3227f47f2bb75259"
+    },
+    {
+      "datei": "liquiditaetsplanung/references/rechtsprechung/BGH_IX_ZR_228-03_vom_2006-10-12.pdf",
+      "sha256": "ca66115e9dd6f39624d269757451c9969187c2b344f5c201f3bf1a44989f0899"
+    },
+    {
+      "datei": "liquiditaetsplanung/references/rechtsprechung/BGH_IX_ZR_229-22_vom_2025-01-23.pdf",
+      "sha256": "39352de9ac761163984568c54228ef895b3a37c2f43c096f00a338a08c74bf30"
+    },
+    {
+      "datei": "liquiditaetsplanung/references/rechtsprechung/BGH_IX_ZR_48-21_vom_2022-04-28.pdf",
+      "sha256": "98ca11cf9c853a514001c76abad79cf60e149a77a7b440e1daf942cdbe725adb"
+    }
+  ]
+}

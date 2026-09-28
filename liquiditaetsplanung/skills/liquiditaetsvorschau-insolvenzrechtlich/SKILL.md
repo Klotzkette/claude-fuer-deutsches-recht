@@ -1,199 +1,60 @@
 ---
 name: liquiditaetsvorschau-insolvenzrechtlich
-description: "Für Insolvenzrechtliche Liquiditätsbilanz und Liquiditätsvorschau: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Prüft Zahlungsunfähigkeit aus Status, Liquiditätsbilanz oder Zahlungseinstellung mit Belegen und Gegenargumenten. Grenzt Überschuldung, Prognose und Antragspflichten ab."
 ---
 
-# Insolvenzrechtliche Liquiditätsbilanz und Liquiditätsvorschau
+# 1. Insolvenzrechtlichen Liquiditätsstatus und Nachweis erstellen
 
-## Fachkern: Insolvenzrechtliche Liquiditätsbilanz und Liquiditätsvorschau
-- **Normen-/Quellenanker:** InsO §§ 17, 18, 19, 15a, StaRUG-Früherkennung, IDW-S-6-/Planungslogik, 3-Wochen- und 13-Wochen-Forecast, Zahlungsstatus und Fortbestehensprognose.
-- **Entscheidende Weiche:** Trenne fällige Verbindlichkeiten, liquide Mittel, harte Zahlungszusagen, Planannahmen, Quote/Lücke, Organpflicht und Dokumentationsspur.
+## 1.1. Zweck und Anwendungsfall
 
-## Zweck
+Bearbeite die beauftragte insolvenzrechtliche Prüfung: Beratung der Geschäftsleitung, Prozessvortrag, Anfechtungsabwehr oder Gläubigerantrag. Kläre die Rolle, soweit sie nicht feststeht. Gegenwartsdiagnose, Rückschau und Prognose benötigen unterschiedliche Belege. Keine pauschale Zusage „gerichtsfest“ aufgrund einer bestimmten Tabellenform.
 
-Dieser Skill erstellt eine **gerichtsfähig dokumentierte Liquiditätsbilanz** auf einen Stichtag und eine zugehörige **wochenaktuelle Liquiditätsvorschau** über mindestens drei Wochen, regelmäßig bis 13 Wochen, in der für § 17 InsO benötigten Form. Das Standardergebnis ist eine Excel-Tabelle auf Wochenbasis nach hinterlegter Vorlage (`assets/excel/Liquiditaetsplan-Wochenbasis.xlsx`). Auf Nutzerwunsch wird zusätzlich ein interaktives HTML-Padlet oder ein Markdown-Artefakt geliefert; ein Memo wird nur auf ausdrückliche Anfrage erstellt.
+## 1.2. Eingaben
 
-Anwendungsfälle:
+Erfasse Stichtag, Rechtsform, verfügbares Geld, Kreditabrufrechte, fällige Verpflichtungen, künftige Zuflüsse/Fälligkeiten und Indizien. Je Posten Betrag, Rechtsgrund, Gläubiger, Fälligkeit, Zahlung, Beleg, Einwendung und Titel-/Vollstreckungsstand dokumentieren. Quellen über Kontoauszüge, OPOS und Originalbelege abstimmen; OCR-Zahlen kontrollieren. Unbekanntes nicht als null oder ungünstige Tatsache einsetzen. Bereits geklärte Angaben nicht erneut erfragen.
 
-- Geschäftsführerhaftung nach § 15b InsO; Insolvenzanfechtung nach §§ 129 ff. InsO.
-- Gläubigerantrag § 14 InsO (Substantiierung der Forderung und Zahlungsunfähigkeit).
-- Insolvenzverwaltermandat, Anfechtungsabwehr und Gläubigerantrag, insbesondere nach BGH IX ZR 129/22 vom 18.04.2024 zur konkreten Darlegung von Liquiditätsstatus, Einzelposten und Belegen.
-- Berater im Sanierungs- oder StaRUG-Kontext (Fortbestehensprognose § 19 InsO).
-- Sanierungskonzept-Vorarbeit, wenn aus der kurzfristigen Liquiditätsbilanz eine integrierte Sanierungsplanung werden soll.
+## 1.3. Ablauf und Prüfung
 
-## Eingaben
+### 1.3.1. Methode und Zeitachse
 
-Der Skill fragt strukturiert die folgenden Felder ab. Was fehlt, wird im Worst Case angesetzt und im Padlet/Artefakt als Annahme protokolliert.
+Lies die [Prüfregeln für Insolvenzgründe](../../references/insolvenzpruefung.md). Wähle die zur Aktenlage passende, nachvollziehbare Methode: Stichtagsstatus mit tagesgenauem Finanzplan, Liquiditätsbilanz oder aussagekräftige Folge tagesgenauer Status. BGH II ZR 112/21, Rn. 12–16, lässt andere Darlegungswege zu; eine bestimmte Tabelle ist kein zwingendes Beweismittel. Zahlungseinstellung nach § 17 Abs. 2 Satz 2 InsO zusätzlich und eigenständig würdigen.
 
-- **Stichtag** (z. B. Tag der Antragstellung, frühester Eintritt § 17 InsO für Anfechtungszwecke).
-- **Aktiva I**: Bankguthaben, Kasse, ungenutzter und zugesagter Kontokorrent, sofort verwertbares Vermögen.
-- **Aktiva II**: konkret zu erwartende Zahlungseingänge KW *t* bis *t+2* (bzw. *t+12* bei 13-Wochen-Plan), freie Kreditzusagen, schnell verwertbares Umlaufvermögen, mit realistischer Ausfallquote.
-- **Passiva I**: alle am Stichtag fälligen und ernsthaft eingeforderten Verbindlichkeiten; Stundungen nur, wenn echt vereinbart und dokumentiert.
-- **Passiva II**: binnen drei Wochen fällig werdende Verbindlichkeiten, einzeln aufgeführt nach Gläubiger und Fälligkeitsdatum.
-- **Echte Stundung** (mit beiderseitigem Einvernehmen und Fälligkeitsverschiebung) beseitigt Passiva I; faktische Duldung des Zahlungsverzugs nicht. Konkrete BGH-Linie über offene Quellen verifizieren.
-- **Streitige oder titulierte Forderungen**: materieller Bestand, Fälligkeit, Titel, Vollstreckungsbeginn, Einstellung der Vollstreckung und Beleg getrennt erfassen; keine Prozentquote nach Prozessrisiko. Summen-OPOS ohne Einzelposten, Rechtsgrund und Beleg wird als Darlegungslücke markiert.
-- **Indizien** nach § 17 Abs. 2 S. 2 InsO (Lohnsteuer-Rückstände, SV-Rückstände, Lastschriftrückläufer, Stundungsbitten, eingestellte Zahlungen FA/KK, Pfändungen, Insolvenzanträge anderer Gläubiger, Wechselproteste).
+Bei der Liquiditätsbilanz Aktiva I/II und Passiva I/II sauber trennen und das volle Dreiwochenfenster verwenden. `Lücke = max(0, PI + PII − AI − AII)`; `Quote = Lücke / (PI + PII)` bei positivem Nenner. Keine Doppelzählung von Altschuldenzahlungen, Linien oder Kundeneingängen. Für einen reinen Stichtagsstatus nur AI und PI verwenden und die notwendige Folgeprüfung anschließen. Keine der beiden Rechnungen als die andere ausgeben.
 
-## Bezugsquellen der Eingabedaten
+### 1.3.2. Materieller Ansatz und Prozesslage
 
-Vor der Aufstellung folgende Frage stellen:
+Nicht titulierte streitige Verpflichtungen nach objektivem Bestand und Fälligkeit prüfen. BGH IX ZR 229/22, Rn. 34–43, verlangt bei vorläufig vollstreckbarem Titel, erfüllten Vollstreckungsvoraussetzungen und eingeleiteter Vollstreckung den Nennwert. Eigene Aktivforderungen bleiben vom belastbaren Zufluss abhängig. Keine Prozessrisikoquoten als halbe Verbindlichkeiten behandeln.
 
-> Wie sollen die Daten einfließen — manuell, per Datei-Import (CAMT.053, MT940, CSV-Bankexport, DATEV-OPOS-Export), oder über einen verbundenen Bankzugang (PSD2 / FinTS / vorhandener Connector)?
+Erfasse für eine Herausnahme die konkrete Rechtsgrundlage und den Beleg, etwa Nichtbestehen, Nichtfälligkeit, wirksame Stundung oder wirksame Durchsetzungssperre. Formanforderungen nach der jeweiligen Abrede und Norm prüfen; nicht jede zivilrechtliche Stundung ist zwingend schriftlich. Eine bloße Bitte oder faktische Verzögerung reicht nicht. Steuerliche AdV, Vollstreckungsaufschub und Stundung nicht gleichsetzen, sondern Reichweite und insolvenzrechtliche Wirkung der Entscheidung untersuchen.
 
-Detailregeln siehe Schwester-Skill `liquiditaetsvorschau-3wochen`, Abschnitt "Bezugsquellen der Eingabedaten" — der Skill selbst baut keinen Open-Banking-Client.
+Eine Einstellung der Zwangsvollstreckung kann die Beweiswirkung des Titels im Gläubigerantragsverfahren betreffen. Sie beseitigt nicht schon für sich eine objektiv bestehende fällige Schuld. Beweiswirkung, rechtliche Durchsetzbarkeit, materiellen Bestand und tatsächlichen Zahlungsabfluss getrennt begründen. Keine automatische Herausnahme in ein folgenloses „Szenario“.
 
-## Ablauf
+Stelle den Ansatz vor und nach Wirksamwerden der Einstellung gegenüber. Gleiche eine dafür erbrachte Sicherheitsleistung mit dem frei verfügbaren Bankbestand ab; gebundene Eigenmittel bleiben nicht gleichzeitig liquide. Art, Wirksamkeit und Bedingungen einer anderweitigen Sicherheit gesondert prüfen.
 
-**Schritt 1 — Format- und Padlet-Wahl**: identisch zum Schwester-Skill. Standard: Excel-Tabelle + HTML-Padlet, sofern nicht anders gewünscht.
+BGH IX ZR 129/22 betrifft die Erklärungslast eines außenstehenden Dritten bei pauschalem, nicht belegtem Liquiditätsvortrag. Nicht die für einen Geschäftsführer mit Buchhaltungszugriff geltenden Anforderungen ungeprüft auf Außenstehende übertragen. Parteirolle, Schlüssigkeit, Bestreiten und Beweisangebot einzeln bearbeiten. Vermutungen und Beweislast nach der konkret geprüften Anspruchsgrundlage bestimmen.
 
-**Schritt 2 — Stichtagsbestimmung**: konkretes Datum festlegen. Im Haftungs- und Anfechtungskontext ist nicht der Antragstag, sondern der tatsächliche Eintritt der Zahlungsunfähigkeit maßgeblich. Stichtag dokumentieren.
+### 1.3.3. Rechtliche Schlussfolgerung
 
-**Schritt 3 — Aufstellung der Liquiditätsbilanz**
+Die Zehnprozentregel aus IX ZR 123/04 mit beiden Ausnahmen vollständig anwenden. Unter zehn Prozent eine absehbare Vergrößerung mitprüfen; ab zehn Prozent genügt bloße Hoffnung auf Finanzierung nicht. Ein starkes Einzelindiz kann nach IX ZR 48/21 Zahlungseinstellung tragen; eine Anzahl von Checkboxen kann die Gesamtwürdigung nicht ersetzen. Zeitraum, Ursache, Höhe und Verlauf von SV-Rückständen sowie Gegenindizien prüfen. Objektive Lage, Erkennbarkeit, Verschulden und Anfechtungsvorsatz auseinanderhalten.
 
-```
-Aktiva I (am Stichtag sofort verfügbar) €
-+ Aktiva II (binnen 3 Wochen flüssig) €
-= Σ Liquide Mittel €
+Historische Mittelverfügbarkeit aus damaligen Umständen rekonstruieren. Eine spätere Kreditgewährung ist keine damalige Zusage. Spätere Ist-Zahlungen können Beweis für frühere Tatsachen sein; ihre rückblickende Beweisfunktion von damaligen Prognoseannahmen unterscheiden.
 
-Passiva I (am Stichtag fällig & eingefordert) €
-+ Passiva II (binnen 3 Wochen fällig) €
-= Σ Fällige Verbindlichkeiten €
+### 1.3.4. Überschuldung und Rechtsfolgen
 
-Liquiditätslücke (absolut) = Σ Fällig − Σ Liquide
-Liquiditätsquote = Liquiditätslücke ÷ Σ Fällig
-```
+Bei § 19 InsO Fortbestehensprognose und gegebenenfalls Überschuldungsstatus eigenständig ausarbeiten. Zwölfmonatsprognose, belastbare Finanzierung und Verwertungswerte nach den Prüfregeln; negatives Eigenkapital, Rangrücktritt und weiche Patronatserklärung nicht pauschal verrechnen. Bei § 18 InsO regelmäßig 24 Monate prüfen. Ein negativer Stressfall allein beweist keine überwiegend wahrscheinliche künftige Zahlungsunfähigkeit.
 
-Maßstab: BGH-Linie zur Liquiditätsbilanz; konkrete Aktenzeichen und Randnummern vor Ausgabe über dejure.org / openjur.de verifizieren.
+Bei § 15a InsO Verpflichtetenstellung und objektiven Eintritt ermitteln; ohne schuldhaftes Zögern handeln, höchstens drei Wochen bei Zahlungsunfähigkeit beziehungsweise sechs Wochen bei Überschuldung. Keine Frist ab Planerstellung oder bloßer Kenntnis rechnen. § 15b InsO und besondere Zahlungspflichten gesondert prüfen. Einen Hinweis nach § 102 StaRUG nur bei dessen tatsächlichem Anwendungsbereich begründen. Nach jeder neuen entscheidenden Information Status, Prognose und davon abhängige Pflichten fortschreiben.
 
-Sonderlogik für streitige Posten: Eine streitige Verbindlichkeit wird nicht geschätzt. Wenn sie materiell besteht und fällig ist, gehört sie mit Nennwert in Passiva I oder Passiva II. Wenn sie materiell nicht besteht, nicht fällig ist oder wirksam gestundet wurde, gehört sie nicht in die Passiva. Bei nicht titulierten streitigen Verbindlichkeiten entscheidet allein die objektive Rechtslage, nicht die Prozessrisikowahrscheinlichkeit. Wenn ein vorläufig vollstreckbarer Titel vorliegt und die Vollstreckung eingeleitet ist, wird der Nennwert angesetzt. Wenn eine Einstellung der Zwangsvollstreckung erreicht wurde, wird die Beweiswirkung des Titels gesondert bewertet und die Forderung in einem Szenarioblock geführt. Aktivseitig werden eigene Forderungen nur angesetzt, wenn der Zahlungseingang binnen drei Wochen realistisch belegt ist. Für die gerichtliche Darlegung wird jeder Posten einzeln mit Gläubiger, Fälligkeit, Rechtsgrund, Beleg, Bestreitensstand und Vollstreckungsstand geführt; pauschale Summenlisten sind nach BGH IX ZR 129/22 angreifbar.
+## 1.4. Quellenpflicht
 
-**Schritt 4 — Subsumtion nach BGH-Schema**
+Zitiere die [amtlichen Volltexte](../../references/rechtsprechung/INDEX.md) mit Entscheidungsart, Datum, Aktenzeichen und genauer Fundstelle. Die Quellenkarte erläutert insbesondere II ZR 88/16, II ZR 112/21, IX ZR 48/21, IX ZR 129/22, IX ZR 229/22, II ZR 139/23, IX ZR 133/14 und II ZR 84/20. Beschluss und Urteil nicht verwechseln. IDW S 6/S 11 nur in überprüfter Fassung, nicht als Gesetz oder als aus dem Gedächtnis zitierte Textziffer verwenden.
 
-- **Liquiditätsquote < 10 % und Lücke binnen drei Wochen schließbar**: nur Zahlungsstockung.
-- **Liquiditätsquote ≥ 10 % und Lücke nicht binnen drei Wochen schließbar**: regelmäßig Zahlungsunfähigkeit.
-- Konkretes Az. der grundlegenden BGH-Entscheidung zum 10-%-/3-Wochen-Schema vor Ausgabe verifizieren.
+## 1.5. Ausgabeformat
 
-**Schritt 5 — Würdigung der Indizien § 17 Abs. 2 S. 2 InsO**
+Liefere den beauftragten Status oder die Bilanz mit Einzelposten-/Beleganlage und ausformulierter Subsumtion: Ergebnis, Methode, Tatsachen, Gegenargumente, offene Punkte und konkrete Folgerung. Tabelle und optionales Padlet dienen der Rechnung; die operative Ampel ist keine rechtliche Entscheidung. Für einen gerichtlichen Auftrag vollständigen Vortrag und passende Beweisangebote erstellen; für Beratung einen verständlichen Vermerk. Kein Memo ungefragt anstelle des verlangten Plans liefern.
 
-Indizienkatalog für die Zahlungseinstellung umfasst insb. verspätete Lohnzahlungen, offene SV-Beiträge, erfolglose Stundungsbitten, Pfändungsmaßnahmen anderer Gläubiger, Wechselproteste und eigenen Insolvenzantrag. Konkrete BGH-Linie über offene Quellen verifizieren.
+Vollständige Sätze statt Skelette, Times New Roman 11 pt für formatierte Texte, ausschließlich dezimale Gliederung. Ungeklärte Tatsachen kenntlich machen, nicht mit Platzhalterrechnungen als erwiesen behandeln. Externe Einreichung und Zahlung nicht ohne Auftrag ausführen.
 
-**Schritt 6 — Titulierte Forderungen**
+## 1.6. Beispiele
 
-Bei titulierten Forderungen nicht bei "streitig" stehen bleiben. Das Prüfraster lautet:
-
-1. Besteht die Forderung materiell und ist sie fällig? Dann mit Nennwert passivieren, auch wenn sie bestritten wird.
-2. Besteht die Forderung materiell nicht oder ist sie aus Rechtsgründen nicht fällig? Dann nicht passivieren, auch wenn sie behauptet wird.
-3. Gibt es einen vorläufig vollstreckbaren Titel, liegen die Vollstreckungsvoraussetzungen vor und hat der Gläubiger Vollstreckung eingeleitet? Dann Nennwert passivieren; kein Abschlag nach Prozessrisiko.
-4. Ist die Zwangsvollstreckung aus dem Titel einstweilen eingestellt? Dann Beweiswirkung für den Gläubigerantrag und Liquiditätsabfluss gesondert würdigen.
-5. Ist der Titel nur ein Indiz in einer breiteren Liquiditätslage? Dann den titulierten Betrag und die sonstigen fälligen Verbindlichkeiten getrennt ausweisen.
-
-**Schritt 6a — Herausgenommene Forderungen verteidigen**
-
-Jede nicht berücksichtigte streitige Verbindlichkeit erhält einen Haftungsvermerk:
-
-| Feld | Inhalt |
-| --- | --- |
-| Rechtsgrund des Herausnehmens | Nichtbestehen, Nichtfälligkeit, Stundung, Aufrechnung, Durchsetzungssperre oder Vollstreckungseinstellung |
-| Gegenbeweis | Vertrag, Schriftwechsel, Gutachten, Beschluss, Vergleich, Titelstand |
-| Prozesslage | Kann ein Verwalter aus Aktenlage schlüssig zum Bestand vortragen? |
-| Geschäftsleiterstandpunkt | finales Gutachten vorhanden, Annahmen vollständig, Aktualisierungspflicht notiert |
-| Restrisiko | Übertragung der engen Irrtumsrechtsprechung aus dem Anfechtungsrecht auf Haftungsprozess offen |
-
-**Schritt 7 — Objektivität**
-
-Maßstab der Zahlungsunfähigkeit ist objektiv; das Bewusstsein des Schuldners ist nur für die Verschuldensfrage relevant (§ 15a InsO). Konkrete BGH-Linie zur "Erkennbarkeit der Insolvenzreife" vor Ausgabe über offene Quellen prüfen.
-
-**Schritt 8 — Ausgabe und Eskalation**
-
-- Excel-Datei aus der Vorlage befüllen (zwingend).
-- HTML-Padlet oder Markdown-Artefakt nur, wenn so gewählt.
-- Bei einer erheblichen, nicht kurzfristig schließbaren Lücke an `antragspflicht-15a-inso` übergeben. Paragraf 102 StaRUG nur bei Jahresabschlussauftrag, offenkundigen Anhaltspunkten und vermuteter Unkenntnis des Mandanten anwenden; andere Mandatspflichten getrennt prüfen.
-- Wenn die Vorschau für Bank, StaRUG, Schutzschirm, Eigenverwaltung oder Insolvenzplan genutzt werden soll: ausdrücklich festhalten, dass die Liquiditätsbilanz nur die Cash-Seite liefert. Danach an `idw-s6-integrierte-sanierungsplanung` übergeben, um GuV, Planbilanz, Maßnahmenwirkung, Leitbild und nachhaltige Sanierungsfähigkeit zu prüfen.
-- Memo nur auf Anfrage.
-
-## Rechtlicher Rahmen
-
-### Primärnormen
-
-§ 17 InsO, § 15a InsO, § 18 InsO, § 19 InsO, § 102 StaRUG.
-
-### Leitentscheidungen (Stand Juni 2026; vor Ausgabe konkrete Aktenzeichen über dejure.org / openjur.de / bundesgerichtshof.de prüfen)
-
-1. **BGH IX ZR 229/22 vom 23.01.2025** — Randnummer 34 und 35: Zahlungsunfähigkeit objektiv; nicht titulierte streitige Forderung nach objektiver Rechtslage; vorläufig vollstreckbar titulierte streitige Forderung bei eingeleiteter Vollstreckung mit Nennwert; keine anteilige Bewertung nach Prozessrisiko. Randnummer 27: Irrtum nur bei seit langem ungeklärter Rechtsfrage, nicht bei eigener Vertragsauslegung.
-2. **BGH, Beschluss vom 11.03.2025 - II ZR 139/23** — bestätigt im Nichtzulassungsbeschwerdeverfahren den materiellen Bestand als Maßstab; nicht als eigenständiges Grundsatzurteil verwenden.
-3. **BGH IX ZB 38/24 vom 22.05.2025** — bei allein auf einen Titel gestütztem Gläubigerantrag kann die Beweiswirkung entfallen, wenn die Zwangsvollstreckung aus dem Urteil eingestellt ist.
-- BGH, Urteil vom 18.04.2024 - IX ZR 129/22: Ein außenstehender Dritter darf einen nur pauschal aufgestellten und nicht mit Einzelpositionen oder Belegen unterlegten Liquiditätsstatus grundsätzlich einfach bestreiten. Die Entscheidung ist ein Darlegungsanker zu Paragraf 17 InsO, kein pauschaler Beleg für geringere Anfechtungsrisiken.
-5. **BGH IX ZR 122/23 vom 05.12.2024** — Unlauterkeit beim Bargeschäft nach Paragraf 142 Absatz 1 Halbsatz 2 InsO. Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=05.12.2024&Aktenzeichen=IX+ZR+122/23
-6. **BGH II ZR 206/22 vom 23.07.2024** — Fortwirkende Haftung des ausgeschiedenen Geschäftsführers nach Paragraf 823 Absatz 2 BGB in Verbindung mit Paragraf 15a InsO. Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=23.07.2024&Aktenzeichen=II+ZR+206/22
-7. Grundlegende ältere BGH-Linie zum 10-%-/3-Wochen-Schema und zur Zahlungseinstellung: konkrete Az. zur Liquiditätsbilanz, zu Stundungen, zu titulierten Forderungen und zur Erkennbarkeit der Insolvenzreife vor Ausgabe in offener Quelle prüfen.
-
-### Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-### Berufsständischer Hintergrund
-
-- **IDW S 11** (Stand 12.08.2021), Tz. 16 f., 31–37 — Beurteilung des Eröffnungsgrundes der Zahlungsunfähigkeit.
-- **IDW S 6** — Anforderungen an Sanierungskonzepte und integrierte Planung.
-
-## Ausgabeformat
-
-1. **Excel** auf Basis von `assets/excel/Liquiditaetsplan-Wochenbasis.xlsx` — Wochenraster, BGH-Block, Block "Offene Forderungen", Hinweise zur BGH-Rechtsprechung.
-2. **HTML-Padlet** (auf Wunsch).
-3. **Markdown-Artefakt** (auf Wunsch).
-4. **Memo** (nur auf Anfrage) im Gutachtenstil: Sachverhalt, Rechtliche Grundlagen, Liquiditätsbilanz, Subsumtion BGH-Schema, Indizienanalyse, Ergebnis, Quellennachweis.
-
-## Beispiel
-
-Siehe Schwester-Skill `liquiditaetsvorschau-3wochen` (Beispielfall Edelholz Manufaktur Berlin GmbH). Für gerichtsfeste Verwendung wird zusätzlich die Buchhaltungsherkunft (SuSa-/OPOS-Stand) protokolliert und die Indizienliste belegt.
-
-## Typische Fehler
-
-- **Faktische Duldung als Stundung behandeln**: nur echte schriftliche Stundungsvereinbarung mit Fälligkeitsverschiebung beseitigt Passiva I. Konkrete BGH-Linie über offene Quellen verifizieren.
-- **Aussetzung der Vollziehung (§ 361 AO / § 69 FGO) als Stundung behandeln**: AdV hemmt nur die Vollziehung; die Fälligkeit der Steuerforderung bleibt unberührt. AdV-Beträge sind weiter **Passiva I**, soweit nicht zusätzlich eine schriftliche § 222 AO-Stundung mit Fälligkeitsverschiebung über den Stichtag hinaus vorliegt.
-- **Titulierte Forderung nur anteilig nach Prozessrisiko ansetzen**: bei eingeleiteter Vollstreckung aus vorläufig vollstreckbarem Titel Nennwert, nicht Wahrscheinlichkeitswert.
-- **Liquiditätsstatus nur als Summenblock übernehmen**: nach BGH IX ZR 129/22 braucht die beweissichere Fassung Einzelposten, Fälligkeit, Rechtsgrund und Beleg; sonst kann ein außenstehender Gegner einfach bestreiten.
-- **SV-Beiträge oder Lohnsteuer übersehen**: gesetzlich sofort fällig, zugleich Indizien.
-- **Künftige Verträge / hypothetische Verwertungserlöse einbeziehen**: nicht zulässig in Aktiva I/II.
-- **Stichtag im Haftungskontext zu spät ansetzen**: tatsächlicher Eintritt maßgeblich.
-- BGH, Urteil vom 18.04.2024 - IX ZR 129/22: Ein außenstehender Dritter darf einen nur pauschal aufgestellten und nicht mit Einzelpositionen oder Belegen unterlegten Liquiditätsstatus grundsätzlich einfach bestreiten. Die Entscheidung ist ein Darlegungsanker zu Paragraf 17 InsO, kein pauschaler Beleg für geringere Anfechtungsrisiken.
-- **Liquiditätsbilanz mit Sanierungskonzept verwechselt**: Für Sanierungsfähigkeit reicht die insolvenzrechtliche Cash-Prüfung nicht. Es braucht zusätzlich Krisenursachenanalyse, Leitbild, Maßnahmenprogramm, GuV-/Bilanzplanung, Szenarien und Dokumentation.
-
-## Quellenpflicht
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-
-## Übergabe
-
-Bei 🔴: `antragspflicht-15a-inso` und `zahlungsunfaehigkeit-pruefung-17-inso` (Plugin `insolvenzrecht`). Für mittel- und langfristige Sicht: `liquiditaetsvorschau-3-6-12-monate` (dieses Plugin). Für Sanierungskonzept-/Bankfähigkeit: `idw-s6-integrierte-sanierungsplanung` (dieses Plugin).
-
-## Triage — Liquiditaetsvorschau Einordnung
-
-Bevor losgelegt wird, klaere:
-
-1. **Zweck der Vorschau?** ZU-Prüfung § 17 InsO (3-Wochen-Fenster) → insolvenzrechtliche Vorschau; Fortbestehensprognose § 19 InsO (12 Monate); Gläubigernachweis (13-Wochen-Vorschau); Bankverhandlung (24 Monate)?
-2. **Methode?** Direkte Methode (Cash-In / Cash-Out) für insolvenzrechtliche Zwecke; indirekte Methode (EBIT-Ableitung) für langfristige Unternehmensplanung.
-3. **Datenbasis?** OPOS (offene Posten), Kontoauszuege, Steuer- und SV-Verbindlichkeiten — alle aktuell?
-4. **Stichtag?** Für InsO-Beurteilung tag-genau festlegen; für Prognose ab aktuellem Tag.
-5. **Sanierungsmassnahmen einbeziehen?** Stundungen, Zuschuss, neue Kreditlinie — nur wenn verbindlich zugesagt.
-
-## Output-Template 13-Wochen-Liquiditaetsvorschau
-
-**Adressat:** Insolvenzgericht / Gläubigerausschuss / Bank — Tonfall: sachlich-betriebswirtschaftlich
-
-```
-13-WOCHEN-LIQUIDITAETSVORSCHAU (direkte Methode)
-Gesellschaft: [FIRMA] Erstellt: [DATUM] Ersteller: [NAME]
-
-Woche | Anfangsbestand | Einzahlungen | Auszahlungen | Endbestand | Kreditlinie | Freie Liqui
- 1 | EUR [XXX] | EUR [YYY] | EUR [ZZZ] | EUR [AAA] | EUR [BBB] | EUR [CCC]
- 2 | ... | ... | ... | ... | ... | ...
- 13 | ... | ... | ... | ... | ... | ...
-
-AMPEL-STATUS:
-Wochen 1-4 (kurzfristig): [GRUEN / GELB / ROT]
-Wochen 5-9 (mittelfristig): [...]
-Wochen 10-13 (langfristig): [...]
-
-ENGPAESSE: [Beschreibung kritischer Wochen und Gegenmassnahmen]
-ANNAHMEN: [Auflistung der Schluesselannahmen]
-```
+Ein fremder Gläubiger bestreitet eine unaufgeschlüsselte OPOS-Summe: zunächst Einzelpositionen und Herkunft belegen, statt pauschal umfassendes Gegenbeweiswissen zu verlangen. Bei einem eingestellten Vollstreckungsverfahren materiellen Forderungsbestand trotzdem prüfen. Bei scheinbar gedecktem Wochenabschluss einen früheren ungedeckten Fälligkeitstag untersuchen. Diese Fälle erfordern unterschiedliche Begründungen, obwohl dieselbe Tabellenmappe verwendet werden kann.

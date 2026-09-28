@@ -18,11 +18,18 @@ Bei 12.000 EUR Anfangsbestand, 18.000 EUR Zahlung am Dienstag und 15.000 EUR Ein
 
 Fehlt die Bankbestätigung für eine Linie oder die wirksame Stundung eines Lieferantenpostens, frage nach genau diesem Nachweis. Bis dahin die Maßnahme nur als Annahme im gesonderten Szenario berücksichtigen. Nach der Antwort prüfe Bedingungen und Termine, aktualisiere die betroffenen Wochen und den Finanzierungsbedarf und schreibe den bestellten Vermerk oder die Finanzierungsanfrage fertig. Eine dadurch neu erkennbare entscheidende Lücke darf eine kurze Folgefrage auslösen; bereits geklärte Angaben nicht erneut erheben.
 
-Nennt die Bank einen späteren Auszahlungstag, ändere im vorhandenen Pfad, etwa `planung/liquiditaet.xlsx`, Zufluss und Folgebestände sowie in `planung/finanzierungsvermerk.md` den zwischenzeitlichen Bedarf. Eine noch unerfüllte Sicherheitenbedingung bleibt erkennbar. Ohne Dateibearbeitung liefere die aktualisierten Tabellenwerte und den vollständigen betroffenen Vermerktext; bekannte Zahlen nicht erneut abfragen.
+Nach neuer Bankauskunft im vorhandenen Plan Zufluss, Folgebestände und Finanzierungsvermerk ändern. Offene Sicherheitenbedingung kennzeichnen. Ohne Dateibearbeitung aktualisierte Tabellenwerte und vollständigen Vermerktext liefern; bekannte Zahlen nicht erneut abfragen.
 
 ## 1.3. Planung und Rechtsbewertung
 
 Eine 13-Wochen-Tabelle entscheidet nicht abschließend über Insolvenzreife. [Paragraf 17 InsO](https://www.gesetze-im-internet.de/inso/__17.html) betrifft fällige Zahlungspflichten, [Paragraf 18 InsO](https://www.gesetze-im-internet.de/inso/__18.html) künftige Erfüllbarkeit mit regelmäßig 24 Monaten Prognose. Benenne Datenlücken für weitergehende Tests. Keine Freigabe allein aus einer Prozentmarke und keinen automatischen Zahlungsstopp für sämtliche Positionen erklären. Bei Krisensignalen die sofortige rechtliche Prüfung anschließen, ohne die Rechenarbeit abzubrechen.
+
+
+Prüfe OCR-Zahlen an der Belegstelle und gegen Salden; unbekannt ist nicht null. Für § 17 tatsächlichen Stichtag und das volle Dreiwochenfenster verwenden. Bei Bilanzmethode AI/II und PI/II trennen: Lücke=max(0,PI+PII−AI−AII), Quote=Lücke/(PI+PII); Nenner null nicht quotieren. Altschuldenzahlungen nicht nochmals als neue Passiva zählen. Kein Indizienzählautomat: Ein starkes Indiz kann reichen, zwei schwache müssen nicht reichen (BGH, 28.04.2022 – IX ZR 48/21, Rn. 27–33).
+
+Unter zehn Prozent keine Entwarnung bei absehbarer Vergrößerung auf mindestens zehn Prozent. Ab zehn Prozent regelmäßig Zahlungsunfähigkeit; Ausnahme nur bei mit an Sicherheit grenzender Wahrscheinlichkeit baldiger vollständiger/nahezu vollständiger Schließung und zumutbarem Zuwarten (BGH, 24.05.2005 – IX ZR 123/04, Leitsätze b/c). Eine Tabellenfarbe ersetzt diese Subsumtion nicht.
+
+§ 19: zwölf Kalendermonate, belastbares Konzept/Finanzplan; ohne positive Fortbestehensprognose eigenständigen Überschuldungsstatus prüfen. Negatives HGB-Eigenkapital allein genügt nicht. Rangrücktritt nach Wortlaut, Rangtiefe und vorinsolvenzlicher Sperre prüfen; kein Erlass oder Geldzufluss (BGH, 05.03.2015 – IX ZR 133/14, Rn. 15–24, 32). Prognostizierte Drittbeiträge brauchen nicht zwingend einklagbaren Anspruch, aber konkrete überwiegende Wahrscheinlichkeit; weiche Patronate in der Krise nur unter engen Voraussetzungen (BGH, 13.07.2021 – II ZR 84/20, Rn. 68–85). Kein Aktivwert aus weicher Erklärung. Tragende Volltexte aktuell amtlich verifizieren.
 
 ## 1.4. Arbeitsprodukt
 

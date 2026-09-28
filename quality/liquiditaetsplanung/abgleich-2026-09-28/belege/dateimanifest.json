@@ -1,0 +1,66 @@
+{
+  "stand": "2026-09-28",
+  "hinweis": "Dateihashes des abschließend archivierten Qualitätsordners, ohne dieses Manifest selbst. Die drei Kurzvermerke wurden gegenüber den tatsächlich erzeugten Agentenausgaben nicht verändert.",
+  "dateien": [
+    {
+      "datei": "README.md",
+      "sha256": "51e9d5e6f8caaadd62feae1ff1fb18517034fe6709f589e21eb256609cbfd060"
+    },
+    {
+      "datei": "belege/archivierungsstand.json",
+      "sha256": "06d5217136ffdff7e1393e8d4faee9f142b178212639145d3f25cf8c495a674a"
+    },
+    {
+      "datei": "belege/builder-native-regression.log",
+      "sha256": "97103983421cc55e6fbeed35f14c7e3949821aa15d6fb2185b14e0f3f049e11e"
+    },
+    {
+      "datei": "belege/final-native-proof.json",
+      "sha256": "f3043d1f8c224e8ef934d779fee5c5c79356d216b4d53816a8451bc1aa90f358"
+    },
+    {
+      "datei": "belege/padlet-regression.log",
+      "sha256": "562e1967afa0cefdf765f5fa425667f4df6577a62fe2f733e9b94ac94b2d8ee7"
+    },
+    {
+      "datei": "belege/template-native-proof.json",
+      "sha256": "70998715719b789426fd93e4092c4f77e8bd6fca4329787f64c97a6c77351ad1"
+    },
+    {
+      "datei": "belege/xlsx-preservation.json",
+      "sha256": "866eec7e6a0895caf3bffbaf0ec2e84f96af064a5da357e6b4b98558d97d99bc"
+    },
+    {
+      "datei": "faelle/01-auftrag.md",
+      "sha256": "4ca9abf93c1b90b518e696dcd46f3efe4c3307ccdfd5fa46b84445bca80b9938"
+    },
+    {
+      "datei": "faelle/01-ergebnis.md",
+      "sha256": "1f5762f478e894c34b0f0c41930b44c5f1740661a68bfad79e48de773619fea2"
+    },
+    {
+      "datei": "faelle/02-auftrag.md",
+      "sha256": "b9f7e4e36f783b0c09402df8c38e0f07ce107d85d4d39e1cc9e1d63c43a413f8"
+    },
+    {
+      "datei": "faelle/02-ergebnis.md",
+      "sha256": "25d49e3654f201783924b87208e0dbb8127d3386d77bcde78ffde2bbb3b9810f"
+    },
+    {
+      "datei": "faelle/03-auftrag.md",
+      "sha256": "2e73fa7a62dea963eb934ed575cc6d5c62b572b8b0ea05223bd6c331a799d42d"
+    },
+    {
+      "datei": "faelle/03-ergebnis.md",
+      "sha256": "986d0a09a6ffd408693d89ff9d41e38faf8c8f7d83a7609d29d39f4d64cbad40"
+    },
+    {
+      "datei": "pruefbericht.md",
+      "sha256": "29968f4e6a00965cc877110642b3cf09731c26e2d5287a6aa3ed7a9d611f4c91"
+    },
+    {
+      "datei": "rechenkern-pruefung.md",
+      "sha256": "a2a5cdcd2ffe8a81df2166f891ea164b034b81d625849168e785a4462b944c15"
+    }
+  ]
+}

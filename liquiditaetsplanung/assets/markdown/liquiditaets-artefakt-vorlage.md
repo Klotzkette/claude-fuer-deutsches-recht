@@ -1,13 +1,16 @@
 # Liquiditätsvorschau — {Firma}
 
-**Stichtag:** {Stichtag, Montag KW {KW_t}}
+**Stichtag:** {taggenaues Datum; Zeitpunkt des Bestands}
+**Drei-Wochen-Zeitraum:** {Beginn} bis {Ende; 21 Kalendertage; keine Verkürzung auf drei Kalenderwochen}
+**Datenstand:** {vollständig belegt / offene Datenlücken mit Position, Betrag und Auswirkung}
 **Erstellt am:** {Erstellungsdatum}
 
 ---
 
 ## Status
 
-**Ampel:** {🟢 GRÜN | 🟡 GELB | 🔴 ROT}
+**Rechenhinweis:** {nicht auswertbar / rechnerische Unterdeckung / rechnerisch gedeckt}
+**Rechtliche Beurteilung:** {gesonderte Gesamtwürdigung; kein automatisches Ergebnis aus Quote oder Indizienzahl}
 **Liquiditätslücke:** {Lücke_abs €} ({Lücke_% }%)
 
 | Position | Wert |
@@ -19,35 +22,39 @@
 | Passiva II (binnen 3 Wochen fällig) | {PII €} |
 | **Σ Fällige Verbindlichkeiten** | **{PI+PII €}** |
 | **Liquiditätslücke (absolut)** | **{Lücke_abs €}** |
-| **Lücke (BGH-Volumeneffekt)** | **{Lücke_% }%** |
+| **Unterdeckung / gesamte Passiva** | **{Lücke_% }%** |
 
 ---
 
-## Wochenraster
+## Zahlungsplan
 
-| Position | KW {t} | KW {t+1} | KW {t+2} |
+Die drei Abschnitte beginnen nach dem festgelegten Stichtagsbestand und umfassen je sieben Kalendertage. Passiva I sind keine Wochenausgaben. Passiva II enthalten nur neu fällige Verpflichtungen, keine nochmalige Erfassung der Zahlungen auf alte Schulden. Auch ungezahlte Verpflichtungen müssen im Status erscheinen. Aktiva II enthalten nur belegte, im exakt gleichen Zeitraum realisierbare Zuflüsse. Ein Wochenendbestand beweist keine unterwöchige Zahlungsfähigkeit.
+
+| Position | {Tag 1–7: Datum–Datum} | {Tag 8–14: Datum–Datum} | {Tag 15–21: Datum–Datum} |
 |---|---:|---:|---:|
 | Liquidität Wochenanfang | {liqA_0 €} | {liqA_1 €} | {liqA_2 €} |
 | Σ Einnahmen (Aktiva II) | {E_0 €} | {E_1 €} | {E_2 €} |
-| Σ Ausgaben (Passiva II) | {A_0 €} | {A_1 €} | {A_2 €} |
+| Σ Auszahlungen (alte und neue Schulden) | {A_0 €} | {A_1 €} | {A_2 €} |
 | Cashflow Woche | {CF_0 €} | {CF_1 €} | {CF_2 €} |
 | **Liquidität Wochenende** | **{liqE_0 €}** | **{liqE_1 €}** | **{liqE_2 €}** |
 
 ### Einnahmen-Details
 
-| Bezeichnung | KW {t} | KW {t+1} | KW {t+2} |
+| Bezeichnung | {Tag 1–7: Datum–Datum} | {Tag 8–14: Datum–Datum} | {Tag 15–21: Datum–Datum} |
 |---|---:|---:|---:|
 {Einnahmen-Zeilen}
 
 ### Ausgaben-Details
 
-| Bezeichnung | KW {t} | KW {t+1} | KW {t+2} |
+| Bezeichnung | {Tag 1–7: Datum–Datum} | {Tag 8–14: Datum–Datum} | {Tag 15–21: Datum–Datum} |
 |---|---:|---:|---:|
 {Ausgaben-Zeilen}
 
 ---
 
-## Offene Forderungen
+## Eigene Forderungen als Zusatzinformation
+
+Nominalwert und Titel ersetzen keinen belegten rechtzeitigen Zufluss. Die Nennwertregel für titulierte streitige Verbindlichkeiten betrifft die Passivseite. Bereits in Aktiva II enthaltene Zuflüsse nicht doppelt zählen.
 
 | Position | Wert |
 |---|---:|
@@ -71,7 +78,7 @@
 - [ ] Eigene oder fremde Insolvenzanträge
 - [ ] Wechselproteste
 
-Ab zwei aktiv gesetzten Indizien wird auf 🔴 eskaliert, auch wenn die Quote rechnerisch unter 10 % liegt.
+Jedes Indiz nach Betrag, Dauer, Aussagekraft, Erklärung und Gegenbelegen würdigen. Ein besonders aussagekräftiges Indiz kann Zahlungseinstellung belegen; die Anzahl angekreuzter Umstände entscheidet nichts. Regelmäßig vollständig, aber ein bis knapp zwei Monate verspätet gezahlte Sozialbeiträge genügen für sich allein nicht (BGH, Urteil vom 28.04.2022 – IX ZR 48/21). Die bereits festgestellte Zahlungseinstellung und ihre etwaige Beseitigung gesondert prüfen.
 
 ---
 
@@ -83,10 +90,12 @@ Ab zwei aktiv gesetzten Indizien wird auf 🔴 eskaliert, auch wenn die Quote re
 
 ## Gutachtenstil-Kurzfazit
 
+{Prüfweg benennen: Liquiditätsbilanz, aussagekräftige Statusfolge oder Zahlungseinstellung. Bezogen auf den konkreten Stichtag subsumieren; Zehnprozentregel und beide Ausnahmegruppen prüfen. Datenlücken und Annahmen dürfen keinen festgestellten Insolvenzgrund vortäuschen. § 18 InsO regelmäßig 24 Monate; § 19 InsO zwölf Monate und bei negativer Fortbestehensprognose zusätzlicher Überschuldungsstatus.}
+
 
 ## Handlungsempfehlung
 
-{Bei Grün Routine fortsetzen; bei Gelb Engpassmaßnahmen benennen; bei Rot die Antragspflicht nach Paragraf 15a InsO unverzüglich prüfen. Einen Hinweis nach Paragraf 102 StaRUG nur bei Jahresabschlusserstellung und erfüllten weiteren Tatbestandsmerkmalen dokumentieren. Soll die Vorschau als Grundlage für Bank, StaRUG, Schutzschirm, Eigenverwaltung, Insolvenzplan oder Sanierungskonzept dienen, zusätzlich Gewinn-und-Verlust-Rechnung, Planbilanz, Maßnahmenlog, Leitbild, Szenarien und Dokumentation nachziehen.}
+{Konkrete ungedeckte Zahlungen und nächste Maßnahmen benennen; bei Krisensignalen die Antragspflicht nach Paragraf 15a InsO unverzüglich prüfen. Keine Freigabe allein aus rechnerischer Deckung und keine Warteerlaubnis aus Höchstfristen ableiten. Einen Hinweis nach Paragraf 102 StaRUG nur bei Jahresabschlusserstellung und erfüllten weiteren Tatbestandsmerkmalen dokumentieren. Soll die Vorschau als Grundlage für Bank, StaRUG, Schutzschirm, Eigenverwaltung, Insolvenzplan oder Sanierungskonzept dienen, zusätzlich Gewinn-und-Verlust-Rechnung, Planbilanz, Maßnahmenlog, Leitbild, Szenarien und Dokumentation nachziehen.}
 
 ---
 

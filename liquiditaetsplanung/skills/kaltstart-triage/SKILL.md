@@ -5,6 +5,8 @@ description: "Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachsch
 
 # 1. Liquiditätsunterlagen in eine belastbare Planung überführen
 
+Bei einer Aussage zu Insolvenzgründen die [Prüfregeln für §§ 17–19 InsO](../../references/insolvenzpruefung.md) und die [amtliche Entscheidungskarte](../../references/rechtsprechung/INDEX.md) heranziehen. Operative Warnfarben sind keine rechtliche Freigabe; Status, Prognose, Belege und rechtliche Schlussfolgerung getrennt halten.
+
 ## 1.1. Anlass und vorhandene Daten
 
 Erstelle aus den vorliegenden Unterlagen die verlangte Liquiditätsvorschau oder prüfe den vorhandenen Plan. Beginne mit Bankauszügen, Zahlungsterminen und Kreditverträgen, nicht mit einem allgemeinen Fragenkatalog.

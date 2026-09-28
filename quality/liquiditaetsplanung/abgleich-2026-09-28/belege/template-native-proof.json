@@ -1,0 +1,128 @@
+[
+  {
+    "name": "leer",
+    "expected": [
+      "offen",
+      "offen",
+      "UNVOLLST\u00c4NDIG"
+    ],
+    "actual": [
+      "offen",
+      "offen",
+      "UNVOLLST\u00c4NDIG"
+    ],
+    "native_actual": [
+      "offen",
+      "offen",
+      "UNVOLLST\u00c4NDIG"
+    ]
+  },
+  {
+    "name": "gedeckt",
+    "expected": [
+      0,
+      0,
+      "RECHNERISCH GEDECKT"
+    ],
+    "actual": [
+      0,
+      0,
+      "RECHNERISCH GEDECKT"
+    ],
+    "native_actual": [
+      0.0,
+      0.0,
+      "RECHNERISCH GEDECKT"
+    ]
+  },
+  {
+    "name": "unterdeckung",
+    "expected": [
+      5,
+      0.05,
+      "RECHNERISCHE L\u00dcCKE"
+    ],
+    "actual": [
+      5,
+      0.05,
+      "RECHNERISCHE L\u00dcCKE"
+    ],
+    "native_actual": [
+      5.0,
+      0.05,
+      "RECHNERISCHE L\u00dcCKE"
+    ]
+  },
+  {
+    "name": "null",
+    "expected": [
+      0,
+      "n.a.",
+      "RECHNERISCH GEDECKT"
+    ],
+    "actual": [
+      0,
+      "n.a.",
+      "RECHNERISCH GEDECKT"
+    ],
+    "native_actual": [
+      0.0,
+      "n.a.",
+      "RECHNERISCH GEDECKT"
+    ]
+  },
+  {
+    "name": "fehlender-post",
+    "expected": [
+      "offen",
+      "offen",
+      "UNVOLLST\u00c4NDIG"
+    ],
+    "actual": [
+      "offen",
+      "offen",
+      "UNVOLLST\u00c4NDIG"
+    ],
+    "native_actual": [
+      "offen",
+      "offen",
+      "UNVOLLST\u00c4NDIG"
+    ]
+  },
+  {
+    "name": "negativ",
+    "expected": [
+      "offen",
+      "offen",
+      "UNVOLLST\u00c4NDIG"
+    ],
+    "actual": [
+      "offen",
+      "offen",
+      "UNVOLLST\u00c4NDIG"
+    ],
+    "native_actual": [
+      "offen",
+      "offen",
+      "UNVOLLST\u00c4NDIG"
+    ]
+  },
+  {
+    "name": "altzahlung",
+    "expected": [
+      0,
+      0,
+      "RECHNERISCH GEDECKT"
+    ],
+    "actual": [
+      0,
+      0,
+      "RECHNERISCH GEDECKT"
+    ],
+    "native_actual": [
+      0.0,
+      0.0,
+      "RECHNERISCH GEDECKT"
+    ]
+  }
+]

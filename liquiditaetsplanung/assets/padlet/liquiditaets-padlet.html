@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width,initial-scale=1" />
-<title>Liquiditäts-Padlet — 3-Wochen-Vorschau nach § 17 InsO</title>
+<title>Liquiditäts-Padlet — Wochenplanung und Statusrechnung</title>
 <style>
   :root {
     --bg:#F7F6F2; --surf:#F9F8F5; --surf2:#FBFBF9; --border:#D4D1CA;
@@ -28,10 +28,14 @@
   .wrap { padding:20px 24px 60px; max-width:1280px; margin:0 auto; }
   .grid { display:grid; grid-template-columns: 1fr; gap:20px; }
   @media (min-width: 980px) { .grid { grid-template-columns: 1fr 1fr; } }
-  .card { background:var(--surf); border:1px solid var(--border); border-radius:10px; padding:16px 18px; }
+  .card { min-width:0; background:var(--surf); border:1px solid var(--border); border-radius:10px; padding:16px 18px; }
   .card h2 { margin:0 0 12px; font-size:15px; font-weight:700; color:var(--primary); letter-spacing:.02em; text-transform:uppercase; }
   .row { display:grid; grid-template-columns: 1fr 110px; gap:10px; align-items:center; margin:6px 0; }
   .row.full { grid-template-columns: 1fr; }
+  .row:has(input[type="date"]) { grid-template-columns: 1fr 150px; }
+  .table-scroll { overflow-x:auto; }
+  #planTab { min-width:720px; }
+  @media print { header { position:static; } .toolbar { display:none; } }
   label { color:var(--muted); font-size:13px; }
   input[type="text"], input[type="number"], input[type="date"], textarea, select {
     font: inherit; padding:6px 8px; border:1px solid var(--border); border-radius:6px;
@@ -49,6 +53,7 @@
   .dot { width:14px; height:14px; border-radius:50%; display:inline-block; }
   .dot.ok { background:var(--ok); } .dot.warn { background:var(--warn); } .dot.err { background:var(--err); }
   .kpi { display:grid; grid-template-columns: repeat(3, 1fr); gap:10px; margin:8px 0 4px; }
+  @media (max-width: 600px) { .kpi { grid-template-columns: repeat(2, minmax(0,1fr)); } }
   .kpi .v { font-size:22px; font-weight:700; }
   .kpi .l { color:var(--muted); font-size:12px; text-transform:uppercase; letter-spacing:.04em; }
   .kpi .b { background:var(--surf2); border:1px solid var(--border); border-radius:8px; padding:10px 12px; }
@@ -71,8 +76,8 @@
 </head>
 <body>
 <header>
-  <h1>Liquiditäts-Padlet — Drei-Wochen-Vorschau nach § 17 InsO</h1>
-  <p>Wochenraster KW <strong>t</strong>, <strong>t+1</strong>, <strong>t+2</strong>. Liquiditätslücke und Ampel rechnen live. Maßstab: BGH BGHZ 217, 129 (Passiva II) und BGHZ 163, 134 (10-%-Schwelle).</p>
+  <h1>Liquiditäts-Padlet — Wochenplanung und Statusrechnung</h1>
+  <p>Drei Zeitabschnitte zu je sieben Tagen nach dem frei gewählten Stichtag. Statusrechnung, Zahlungsplan und rechtliche Gesamtwürdigung bleiben getrennt.</p>
 </header>
 
 <div class="wrap">
@@ -90,17 +95,21 @@
     <section class="card" id="stammCard">
       <h2>Stammdaten</h2>
       <div class="row"><label>Unternehmen</label><input id="firma" type="text" placeholder="z. B. Edelholz Manufaktur Berlin GmbH" /></div>
-      <div class="row"><label>Stichtag (Montag KW t)</label><input id="stichtag" type="date" /></div>
-      <div class="row"><label>KW t (Nummer)</label><input id="kw" type="number" min="1" max="53" /></div>
+      <div class="row"><label>Stichtag (Bestand am Tagesende)</label><input id="stichtag" type="date" /></div>
+      <p class="help" id="zeitraum">Bitte einen taggenauen Stichtag eintragen.</p>
       <div class="row"><label>Bankguthaben (verfügbar)</label><input id="bank" type="number" step="0.01" /></div>
       <div class="row"><label>Kassenbestand</label><input id="kasse" type="number" step="0.01" /></div>
       <div class="row"><label>Freier Kontokorrent (ungenutzt, zugesagt)</label><input id="kkfrei" type="number" step="0.01" /></div>
       <p class="help">Nur ungenutzte und zugesagte Kreditlinien zählen als Aktiva I. Gekündigte Linien und voll ausgeschöpfte Kontokorrents nicht ansetzen.</p>
+    <div class="row"><label>Passiva I: am Stichtag fällige Schulden</label><input id="passivaI" type="number" min="0" step="0.01" /></div>
+      <div class="row"><label>Passiva II: neu fällige Schulden, Tag 1 bis 21</label><input id="passivaII" type="number" min="0" step="0.01" /></div>
+      <p class="help">Passiva II separat aus Fälligkeiten ermitteln. Zahlungen auf bereits in Passiva I enthaltene Schulden nicht nochmals als Passiva II zählen. Auch fällige Schulden aufnehmen, deren Zahlung im Plan noch fehlt. Posten und Rechtsgrund im Belegregister nachweisen.</p>
+      <label style="display:flex;gap:8px"><input id="vollstaendig" type="checkbox" /> Anfangsmittel, Fälligkeiten und Zuflüsse für das ganze Zeitfenster anhand der Belege abgestimmt; Nullbeträge sind ausdrücklich geprüft.</label>
     </section>
 
     <section class="card" id="ampelCard">
       <h2>Status</h2>
-      <div id="ampel" class="ampel ok"><span class="dot ok"></span><span id="ampelText">Noch keine Daten</span></div>
+      <div id="ampel" class="ampel warn"><span class="dot warn"></span><span id="ampelText">Noch keine Daten</span></div>
       <div class="kpi">
         <div class="b"><div class="l">Aktiva I</div><div class="v" id="kAI">0,00 €</div></div>
         <div class="b"><div class="l">Aktiva II (3 W.)</div><div class="v" id="kAII">0,00 €</div></div>
@@ -111,16 +120,16 @@
       </div>
       <div class="kpi" style="grid-template-columns: repeat(2,1fr);">
         <div class="b"><div class="l">Liquiditätslücke (absolut)</div><div class="v" id="kLA">0,00 €</div></div>
-        <div class="b"><div class="l">Lücke in % (BGH-Volumeneffekt)</div><div class="v" id="kLP">0,0 %</div></div>
+        <div class="b"><div class="l">Rechnerische Unterdeckung in %</div><div class="v" id="kLP">0,0 %</div></div>
       </div>
-      <p class="help" id="ampelHelp">Maßstab: BGH BGHZ 163, 134 (10-%-Schwelle); BGHZ 217, 129 (Passiva II einbezogen); II ZR 112/21 (alternative Darlegung).</p>
+      <p class="help" id="ampelHelp">Noch nicht beurteilt: Datenvollständigkeit, Zahlungseinstellung, Ausnahmen zur Zehnprozentregel und gesetzliche Pflichten. Eine rechnerische Deckung ist keine rechtliche Freigabe.</p>
     </section>
 
     <section class="card" style="grid-column:1/-1;">
-      <h2>Liquiditätsplan — Wochen KW t, t+1, t+2</h2>
-      <table id="planTab">
+      <h2>Zahlungsplan — Tag 1 bis 21 nach dem Stichtag</h2>
+      <div class="table-scroll"><table id="planTab">
         <thead>
-          <tr><th>Position</th><th id="hKW0">KW t</th><th id="hKW1">KW t+1</th><th id="hKW2">KW t+2</th></tr>
+          <tr><th>Position</th><th id="hKW0">Tag 1–7</th><th id="hKW1">Tag 8–14</th><th id="hKW2">Tag 15–21</th></tr>
         </thead>
         <tbody>
           <tr><td>Liquidität Wochenanfang</td><td id="liqA0">—</td><td id="liqA1">—</td><td id="liqA2">—</td></tr>
@@ -151,8 +160,8 @@
               <td id="liqE1"><strong>0,00 €</strong></td>
               <td id="liqE2"><strong>0,00 €</strong></td></tr>
         </tbody>
-      </table>
-      <p class="help">Die Einnahmen sind Aktiva II (binnen 3 Wochen flüssig), die Ausgaben sind Passiva II (binnen 3 Wochen fällig). Stundungen, die echt vereinbart und dokumentiert sind, gehören nicht in Passiva I/II; faktische Duldung dagegen schon — BGH, Urt. v. 12.10.2006 – IX ZR 228/03, NZI 2007, 36.</p>
+      </table></div>
+      <p class="help">Alle belegten Zuflüsse der drei Zeitabschnitte ergeben Aktiva II. Nur rechtzeitig realisierbare, noch nicht in den Anfangsmitteln enthaltene Beträge ansetzen. Auszahlungen können alte und neue Schulden betreffen und werden deshalb nicht automatisch zu Passiva II. Innerhalb der Abschnitte bleiben genaue Zahlungstage zu prüfen. Bereits am Stichtag erfolgte Zahlungen gehören in den Anfangsbestand.</p>
     </section>
 
     <section class="card">
@@ -164,13 +173,13 @@
       <div class="kpi">
         <div class="b"><div class="l">Deckungsgrad Forderungen vs. Lücke</div><div class="v" id="kDeck">—</div></div>
       </div>
-      <p class="help">Titulierte Forderungen sind bei laufender Vollstreckung in Höhe des Nennwerts zu berücksichtigen — BGH, Urt. v. 23.01.2025 – IX ZR 229/22.</p>
+      <p class="help">Eigene Forderungen zählen nur mit dem im Zeitfenster belastbar realisierbaren Zufluss zu Aktiva II. Titel und Vollstreckung allein garantieren keinen Eingang. Die Nennwertregel aus BGH IX ZR 229/22 betrifft streitige Verbindlichkeiten auf der Passivseite. Der nominale Deckungsgrad unten ist nur eine Zusatzinformation; er erhöht die verfügbaren Mittel nicht.</p>
     </section>
 
     <section class="card">
       <h2>Indizien § 17 Abs. 2 S. 2 InsO</h2>
       <div id="indizien"></div>
-      <p class="help">Indizienkatalog BGH, Urt. v. 19.07.2007 – IX ZR 81/06. Ab zwei aktiv gesetzten Indizien wird automatisch auf 🔴 eskaliert, auch wenn die Quote rechnerisch unter 10 % liegt.</p>
+      <p class="help">Jedes Indiz nach Stärke, Dauer, Betrag, Erklärung und Gegenbelegen würdigen. Ein starkes Indiz kann genügen; mehrere schwache Umstände ergeben nicht automatisch Zahlungseinstellung. BGH, Urteil vom 28.04.2022 – IX ZR 48/21 verlangt eine Gesamtwürdigung. Stets vollständig, aber ein bis knapp zwei Monate verspätet gezahlte Sozialbeiträge genügen für sich allein nicht.</p>
     </section>
 
     <section class="card" style="grid-column:1/-1;">
@@ -184,18 +193,18 @@
         <p>In die Liquiditätsbilanz sind <strong>auch die binnen 3 Wochen fällig werdenden und eingeforderten Verbindlichkeiten (Passiva II)</strong> einzubeziehen; Absage an die Bugwellentheorie.</p>
       </details>
       <details><summary>BGH, Urt. v. 28.04.2022 – IX ZR 48/21</summary>
-        <p>Die <strong>10-%-Schwelle</strong> bleibt; die Zahlungsunfähigkeit verlangt eine geordnete Gegenüberstellung der fälligen Verbindlichkeiten und liquiden Mittel.</p>
+        <p>Zahlungseinstellung kann eigenständig auf ein besonders aussagekräftiges Indiz oder auf eine Gesamtwürdigung gestützt werden. Eine starre Anzahl von Rückständen ersetzt diese Würdigung nicht.</p>
       </details>
       <details><summary>BGH, Urt. v. 28.06.2022 – II ZR 112/21</summary>
-        <p>Darlegung der Zahlungsunfähigkeit auch durch <strong>tagesgenaue Liquiditätsstatus in aussagekräftiger Anzahl</strong> möglich; Liquiditätsbilanz keine Pflicht (sog. Bugwellenrechtsprechung).</p>
+        <p>Darlegung der Zahlungsunfähigkeit auch durch <strong>Liquiditätsstatus an mehreren aussagekräftigen Stichtagen</strong> möglich; eine Liquiditätsbilanz ist kein ausschließlich zulässiger Nachweisweg. Stichtagsfolge, jeweilige erhebliche Unterdeckung und Aussagekraft konkret belegen.</p>
       </details>
       <details><summary>BGH, Urt. v. 23.01.2025 – IX ZR 229/22</summary>
-        <p>Ein vorläufig vollstreckbarer Titel ist bei laufender Vollstreckung <strong>in Höhe des Nennwerts</strong> in der Liquiditätsbilanz zu berücksichtigen.</p>
+        <p>Eine <strong>Verbindlichkeit</strong> aus einem vorläufig vollstreckbaren Titel ist bei eingeleiteter Vollstreckung mit Nennwert zu berücksichtigen. Eigene Aktivforderungen erfordern dagegen einen belegten rechtzeitigen Zufluss.</p>
       </details>
       <details><summary>BGH, Beschl. v. 11.03.2025 – II ZR 139/23</summary>
         <p>Im Verfahren über die Nichtzulassungsbeschwerde verweist der Senat auf den <strong>materiellen Bestand der Verbindlichkeit</strong> als Maßstab. Der Beschluss bestätigt die bestehende Rechtsprechung, ist aber kein eigenständiges Grundsatzurteil.</p>
       </details>
-      <p class="quelle">Hinweis: Dieses Padlet ist ein Arbeitswerkzeug, keine anwaltliche Beratung. Bei roter Ampel ist die Antragspflicht nach Paragraf 15a InsO unverzüglich zu prüfen. Paragraf 102 StaRUG ist nur bei Jahresabschlusserstellung und erfüllten weiteren Tatbestandsmerkmalen einschlägig.</p>
+      <p class="quelle">Hinweis: Dieses Padlet ist ein Arbeitswerkzeug, keine anwaltliche Beratung. Bei konkreten Krisensignalen ist die Antragspflicht nach Paragraf 15a InsO unverzüglich zu prüfen. Paragraf 102 StaRUG ist nur bei Jahresabschlusserstellung und erfüllten weiteren Tatbestandsmerkmalen einschlägig.</p>
     </section>
   </div>
 </div>
@@ -221,8 +230,8 @@ const INDIZIEN = [
 ];
 
 const state = {
-  firma:'', stichtag:'', kw:'',
-  bank:0, kasse:0, kkfrei:0,
+  schemaVersion:2, firma:'', stichtag:'',
+  bank:null, kasse:null, kkfrei:null, passivaI:null, passivaII:null, vollstaendig:false,
   ein: DEFAULT_EIN.map(l => ({label:l, w:[0,0,0]})),
   aus: DEFAULT_AUS.map(l => ({label:l, w:[0,0,0]})),
   ofGesamt:0, ofErwartet:0, ofTituliert:0, ofZweifel:0,
@@ -230,12 +239,12 @@ const state = {
   notes:''
 };
 
-function num(el){ return parseFloat(el.value.replace(',', '.')) || 0; }
+function num(el){ return el.value.trim() === '' ? null : Number(el.value.replace(',', '.')); }
 
 function renderEinAus(){
   const ebody = $('einBody'); const abody = $('ausBody');
   ebody.innerHTML = '<tr><th colspan="4" style="text-align:left;background:var(--surf2);">Einnahmen (Aktiva II)</th></tr>';
-  abody.innerHTML = '<tr><th colspan="4" style="text-align:left;background:var(--surf2);">Ausgaben (Passiva II)</th></tr>';
+  abody.innerHTML = '<tr><th colspan="4" style="text-align:left;background:var(--surf2);">Auszahlungen (alte und neue Schulden)</th></tr>';
   state.ein.forEach((r, idx) => {
     const tr = document.createElement('tr');
     tr.innerHTML = `<td><input data-kind="ein" data-idx="${idx}" data-field="label" type="text" value="${r.label.replace(/"/g,'&quot;')}"/></td>` +
@@ -261,34 +270,45 @@ function renderIndizien(){
   });
 }
 
-function computeAndRender(){
-  const aI = state.bank + state.kasse + state.kkfrei;
-  const sumE = [0,0,0]; state.ein.forEach(r => r.w.forEach((v,i)=>sumE[i]+=(+v||0)));
-  const sumA = [0,0,0]; state.aus.forEach(r => r.w.forEach((v,i)=>sumA[i]+=(+v||0)));
-  const cf = sumE.map((e,i)=>e-sumA[i]);
+function calculateLiquidity(input){
+  const sum = kind => [0,1,2].map(i => input[kind].reduce((n,r) => n + (Number(r.w[i]) || 0), 0));
+  const sumE = sum('ein'), sumA = sum('aus');
+  const aI = ['bank','kasse','kkfrei'].reduce((n,k) => n + (Number(input[k]) || 0),0);
   const aII = sumE.reduce((a,b)=>a+b,0);
-  const pII = sumA.reduce((a,b)=>a+b,0);
-  // Passiva I = sumA[0]: am Stichtag fällige Verbindlichkeiten der KW t (vereinfachte Annahme; KW t enthält die Stichtagsfälligkeiten)
-  const pI = sumA[0];
-  // Liquiditätsverlauf
-  const liqA = [aI, 0, 0]; const liqE = [0,0,0];
-  for (let i=0;i<3;i++){ if (i>0) liqA[i] = liqE[i-1]; liqE[i] = liqA[i] + cf[i]; }
+  const pI = Number(input.passivaI) || 0, pII = Number(input.passivaII) || 0;
+  const sumP = pI + pII, sumAk = aI + aII;
+  const luecke = Math.max(0,sumP-sumAk), quote = sumP > 0 ? luecke/sumP : null;
+  const cf = sumE.map((e,i)=>e-sumA[i]), liqA=[], liqE=[];
+  for(let i=0;i<3;i++){ liqA[i]=i ? liqE[i-1] : aI; liqE[i]=liqA[i]+cf[i]; }
+  const missing=[];
+  const day = new Date(`${input.stichtag}T00:00:00Z`);
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(input.stichtag) || !Number.isFinite(day.valueOf()) || day.toISOString().slice(0,10)!==input.stichtag) missing.push('gültiger Stichtag');
+  for(const k of ['bank','kasse','kkfrei','passivaI','passivaII']){
+    if(typeof input[k] !== 'number' || !Number.isFinite(input[k]) || input[k]<0) missing.push(k);
+  }
+  if (['ein','aus'].some(k => input[k].some(r => !Array.isArray(r.w) || r.w.length!==3 || r.w.some(v => typeof v!=='number' || !Number.isFinite(v) || v<0)))) missing.push('gültige Zahlungsbeträge');
+  if(input.vollstaendig!==true) missing.push('Abgleich mit Belegen');
+  const hasIndiz = input.indizien.some(Boolean);
+  let result;
+  if(missing.length) result=['warn','PRÜFUNG OFFEN — Daten oder Belegabgleich fehlen'];
+  else if(hasIndiz) result=['warn','INDIZIEN PRÜFEN — rechtliche Gesamtwürdigung erforderlich'];
+  else if(luecke>0) result=['err','RECHNERISCHE UNTERDECKUNG — unverzüglich rechtlich prüfen'];
+  else result=['warn','RECHNERISCH GEDECKT — rechtliche Prüfung bleibt offen'];
+  return {aI,aII,pI,pII,sumP,sumAk,luecke,quote,sumE,sumA,cf,liqA,liqE,missing,result};
+}
 
-  // Lücke nach BGH-Schema: Σ(P I + P II) - Σ(A I + A II), Bezugsgröße Σ(P I + P II)
-  const sumP = pI + (sumA[1] + sumA[2]); // P I aus KW t, P II aus KW t+1..t+2
-  const sumAk = aI + (sumE[1] + sumE[2]);
-  const luecke = Math.max(0, sumP - sumAk);
-  const quote = sumP > 0 ? luecke / sumP : 0;
-
+function computeAndRender(){
+  const {aI,aII,pI,pII,sumP,sumAk,luecke,quote,sumE,sumA,cf,liqA,liqE,missing,result}=calculateLiquidity(state);
   // Render KPIs
   $('kAI').textContent = fmt.format(aI);
-  $('kAII').textContent = fmt.format(sumE[1]+sumE[2]);
+  $('kAII').textContent = fmt.format(aII);
   $('kAS').textContent = fmt.format(sumAk);
   $('kPI').textContent = fmt.format(pI);
-  $('kPII').textContent = fmt.format(sumA[1]+sumA[2]);
+  $('kPII').textContent = fmt.format(pII);
   $('kPS').textContent = fmt.format(sumP);
-  $('kLA').textContent = fmt.format(luecke);
-  $('kLP').textContent = pct.format(quote);
+  $('kLA').textContent = missing.length ? 'offen' : fmt.format(luecke);
+  $('kLP').textContent = missing.length ? 'offen' : quote===null ? 'nicht anwendbar' : pct.format(quote);
+  $('ampelHelp').textContent = missing.length ? 'Fehlt: '+missing.join(', ')+'.' : 'Rechenindikator. Zahlungseinstellung, Schwellen-Ausnahmen, taggenaue Engpässe und gesetzliche Pflichten gesondert prüfen.';
 
   // Plan-Zeilen
   for (let i=0;i<3;i++){
@@ -299,34 +319,24 @@ function computeAndRender(){
     $(`liqE${i}`).innerHTML = `<strong>${fmt.format(liqE[i])}</strong>`;
   }
 
-  // KW-Header dynamisch
-  const kw = parseInt(state.kw,10);
-  if (!isNaN(kw)) {
-    $('hKW0').textContent = `KW ${kw}`;
-    $('hKW1').textContent = `KW ${kw+1}`;
-    $('hKW2').textContent = `KW ${kw+2}`;
+  // Exakte 21 Tage: Stichtagsbestand am Tagesende, danach drei Siebentageintervalle.
+  const start=new Date(`${state.stichtag}T00:00:00Z`);
+  const dateAt=days=>{const d=new Date(start);d.setUTCDate(d.getUTCDate()+days);return d.toLocaleDateString('de-DE',{timeZone:'UTC'});};
+  if(Number.isFinite(start.valueOf())) {
+    for(let i=0;i<3;i++) $(`hKW${i}`).textContent=`${dateAt(1+i*7)}–${dateAt(7+i*7)}`;
+    $('zeitraum').textContent=`Vorschau: ${dateAt(1)} bis einschließlich ${dateAt(21)}. Frühere Stichtagsprüfung bei früherem Kriseneintritt bleibt erforderlich.`;
   } else {
-    $('hKW0').textContent = 'KW t';
-    $('hKW1').textContent = 'KW t+1';
-    $('hKW2').textContent = 'KW t+2';
+    for(let i=0;i<3;i++) $(`hKW${i}`).textContent=`Tag ${1+i*7}–${7+i*7}`;
+    $('zeitraum').textContent='Bitte einen taggenauen Stichtag eintragen.';
   }
 
   // Deckungsgrad
-  const deck = (luecke>0) ? state.ofGesamt/luecke : null;
-  $('kDeck').textContent = deck===null ? 'keine Lücke' : pct.format(deck);
+  const deck = (!missing.length && luecke>0) ? state.ofGesamt/luecke : null;
+  $('kDeck').textContent = deck===null ? 'nicht anwendbar' : pct.format(deck);
 
   // Ampel
-  const indSet = state.indizien.filter(Boolean).length;
   const ampEl = $('ampel'); const dotEl = ampEl.querySelector('.dot'); const txt = $('ampelText');
   ampEl.classList.remove('ok','warn','err'); dotEl.classList.remove('ok','warn','err');
-  let result;
-  if (quote < 0.1 && indSet < 2) {
-    result = ['ok', '🟢 GRÜN — § 17 InsO nicht indiziert'];
-  } else if (quote >= 0.1 && liqE[2] >= 0 && indSet < 2) {
-    result = ['warn', '🟡 GELB — Zahlungsstockung, binnen 3 Wochen schließbar'];
-  } else {
-    result = ['err', '🔴 ROT — Zahlungsunfähigkeit § 17 InsO indiziert'];
-  }
   ampEl.classList.add(result[0]); dotEl.classList.add(result[0]); txt.textContent = result[1];
   // Speichern
   localStorage.setItem('liqPadlet', JSON.stringify(state));
@@ -334,13 +344,14 @@ function computeAndRender(){
 
 function bind(){
   // Stamm
-  for (const k of ['firma','stichtag','kw','bank','kasse','kkfrei','ofGesamt','ofErwartet','ofTituliert','ofZweifel','notes']) {
+  for (const k of ['firma','stichtag','bank','kasse','kkfrei','passivaI','passivaII','ofGesamt','ofErwartet','ofTituliert','ofZweifel','notes']) {
     const el = $(k);
     el.addEventListener('input', () => {
       state[k] = (el.type==='number') ? num(el) : el.value;
       computeAndRender();
     });
   }
+  $('vollstaendig').addEventListener('change',()=>{state.vollstaendig=$('vollstaendig').checked;computeAndRender();});
   // Plan-Inputs (delegated)
   document.addEventListener('input', (e) => {
     const t = e.target;
@@ -350,7 +361,7 @@ function bind(){
     if (t.dataset.field==='label') {
       state[kind][idx].label = t.value;
     } else if (t.dataset.w !== undefined) {
-      state[kind][idx].w[+t.dataset.w] = num(t);
+      state[kind][idx].w[+t.dataset.w] = num(t) ?? 0;
     }
     computeAndRender();
   });
@@ -374,15 +385,24 @@ function bind(){
   $('fileJson').onchange = (e) => {
     const f = e.target.files[0]; if (!f) return;
     const r = new FileReader();
-    r.onload = () => { try { Object.assign(state, JSON.parse(r.result)); applyState(); } catch(_){} };
+    r.onload = () => { try { loadState(JSON.parse(r.result)); applyState(); } catch(_){} };
     r.readAsText(f);
   };
   $('resetAll').onclick = () => { if (confirm('Alle Daten zurücksetzen?')) { localStorage.removeItem('liqPadlet'); location.reload(); } };
   $('print').onclick = () => window.print();
 }
 
+function loadState(saved){
+  if(!saved || !Array.isArray(saved.ein) || !Array.isArray(saved.aus) || !Array.isArray(saved.indizien)) throw new Error('Ungültiger Datenstand');
+  Object.assign(state,saved);
+  // Altstände enthielten keinen getrennten Status; niemals stillschweigend freigeben.
+  if(saved.schemaVersion!==2){state.passivaI=null;state.passivaII=null;state.vollstaendig=false;}
+  state.schemaVersion=2;
+}
+
 function applyState(){
-  for (const k of ['firma','stichtag','kw','bank','kasse','kkfrei','ofGesamt','ofErwartet','ofTituliert','ofZweifel','notes']) {
+  $('vollstaendig').checked=state.vollstaendig===true;
+  for (const k of ['firma','stichtag','bank','kasse','kkfrei','passivaI','passivaII','ofGesamt','ofErwartet','ofTituliert','ofZweifel','notes']) {
     if ($(k)) $(k).value = state[k] ?? '';
   }
   renderEinAus(); renderIndizien(); computeAndRender();
@@ -390,7 +410,7 @@ function applyState(){
 
 function init(){
   const saved = localStorage.getItem('liqPadlet');
-  if (saved) { try { Object.assign(state, JSON.parse(saved)); } catch(_){} }
+  if (saved) { try { loadState(JSON.parse(saved)); } catch(_){} }
   bind(); applyState();
 }
 init();

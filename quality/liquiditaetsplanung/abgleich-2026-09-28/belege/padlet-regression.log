@@ -1,0 +1,12 @@
+OK fehlende Angaben ergeben keine Freigabe
+OK belegter Nullbetrag bleibt Null; Nenner null ist nicht anwendbar
+OK Zufluss in erstem Siebentageabschnitt wird berücksichtigt
+OK Zahlung auf Altschuld wird nicht nochmals Passiva II
+OK nicht eingeplante fällige Schuld bleibt im Status
+OK neue Fälligkeiten und Eingang in dritter Periode werden symmetrisch erfasst
+OK 5-Prozent-Lücke führt nicht zu automatischer Entwarnung
+OK ein einziges Indiz erhält dieselbe offene Gesamtwürdigung wie mehrere
+OK ungültige und negative Eingaben werden offengelegt
+OK späterer Zufluss verdeckt negativen früheren Wochenbestand nicht
+OK unbestätigter Altdatenimport darf keine geprüfte Statusrechnung vortäuschen
+11 Verhaltenstests bestanden.
