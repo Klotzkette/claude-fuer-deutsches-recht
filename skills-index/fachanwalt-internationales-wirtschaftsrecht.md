@@ -1,6 +1,6 @@
 # fachanwalt-internationales-wirtschaftsrecht
 
-**79 Skills** · Stand `v445.8.0`
+**79 Skills** · Stand `v445.8.1`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../fachanwalt-internationales-wirtschaftsrecht/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

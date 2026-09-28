@@ -1,0 +1,402 @@
+[
+  {
+    "id": "BAU01",
+    "thread": "B-01",
+    "date": "2028-05-04T15:42:00",
+    "format": "eml",
+    "folder": "08_Bauausfuehrung/05_Alltagskorrespondenz",
+    "title": "Fenster für WE 07 und 08: Anlieferung am Montag abstimmen",
+    "from_key": "huelle",
+    "to_key": "objektueberwachung",
+    "cc_keys": [
+      "elektro",
+      "hls"
+    ],
+    "reply_to": null,
+    "paragraphs": [
+      "Guten Tag Herr Müller, für Montag, den 8. Mai, ist die letzte Fensterlieferung mit zwölf Elementen für die beiden Wohnungen im zweiten Obergeschoss vorgesehen. Die Disposition hat zunächst 8:30 Uhr angeboten. Heinrich Bauer wird die Elementnummern am Fahrzeug mit der Fensterliste abgleichen. Bitte geben Sie uns vor dem Wochenende eine Rückmeldung, ob dieses Zeitfenster mit den Arbeiten von Lichtkreis zusammenpasst.",
+      "Mir geht es vor allem um den Weg vom Zugang bis zu den vorgesehenen Abstellstellen. Wir können die Gestelle nicht einfach im Treppenbereich stehen lassen, während oben noch Material bewegt wird. Herr Fischer bereitet dort nach unserem heutigen Gespräch die Leitungswege vor. Es wäre hilfreich, wenn beide Vorarbeiter vor der Ankunft denselben Ablauf kennen und nicht erst der Fahrer zwischen den Gewerken vermittelt.",
+      "Die Elemente des ersten Obergeschosses aus der Lieferung vom 24. April sind davon getrennt zu führen. Bitte im Wochenstand nicht schon alle 48 Fenster als montiert eintragen: Die zwölf angekündigten Stück sind zunächst eine Lieferung. Der tägliche Einbau wird weiter einzeln gemeldet, die Anschlussfugen bleiben bis zur vereinbarten Stichprobe zugänglich.",
+      "Können wir 8:30 Uhr festhalten, oder brauchen Sie eine spätere Anfahrt? Wenn die Antwort erst am Montag kommt, erreicht sie vermutlich nur den Fahrer. Ich möchte die Information deshalb am Freitag an die Disposition weitergeben. Freundliche Grüße, Ina Mertens."
+    ],
+    "references": [
+      "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/LB-016_2028-04-24.docx"
+    ]
+  },
+  {
+    "id": "BAU02",
+    "thread": "B-01",
+    "date": "2028-05-05T09:18:00",
+    "format": "eml",
+    "folder": "08_Bauausfuehrung/05_Alltagskorrespondenz",
+    "title": "AW: Fenster für WE 07 und 08 – bitte erst ab 9 Uhr",
+    "from_key": "elektro",
+    "to_key": "huelle",
+    "cc_keys": [
+      "objektueberwachung",
+      "hls"
+    ],
+    "reply_to": "BAU01",
+    "paragraphs": [
+      "Guten Morgen Frau Mertens, 8:30 Uhr ist für uns ungünstig. Wilhelm Fischer möchte die für Montag vorgesehenen Materialien zunächst an die Arbeitsstellen in WE 07 und 08 bringen. Wenn gleichzeitig die Fenster durch denselben Bereich kommen, stehen sich die Leute mit sperrigen Teilen gegenüber. Bitte lassen Sie die Anfahrt auf 9 Uhr legen. Dann können wir das Material zuerst an die Arbeitsstellen bringen und den Durchgang wieder freimachen.",
+      "Wir verlangen nicht, dass das ganze Obergeschoss für uns freigehalten wird. Uns reicht ein freier Transportweg. Herr Bauer sollte die Engstelle am Montag direkt mit Herrn Fischer durchgehen. Auf den Gestellen müssen die Wohnungsnummern von außen lesbar sein; sonst wird unnötig hin- und hergeschoben. Offene Rohrenden von Wärmefluss sind dabei keine Ablage. Herr Thiel ist deshalb in Kopie.",
+      "Herr Müller, können Sie die Reihenfolge heute mit Herrn Bauer bestätigen? Ich gebe sie dann an unsere Mannschaft weiter. Bis zu Ihrer Rückmeldung ist 9 Uhr unser Vorschlag und keine bereits mit dem Fahrer vereinbarte Zeit. Viele Grüße, Selin Voß."
+    ],
+    "references": [
+      "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/LB-016_2028-04-24.docx"
+    ]
+  },
+  {
+    "id": "BAU03",
+    "thread": "B-01",
+    "date": "2028-05-05T14:35:00",
+    "format": "docx",
+    "folder": "08_Bauausfuehrung/05_Alltagskorrespondenz",
+    "title": "Telefonvermerk: Reihenfolge der Fensteranlieferung am 8. Mai",
+    "from_key": "objektueberwachung",
+    "to_key": "huelle",
+    "cc_keys": [
+      "elektro",
+      "hls"
+    ],
+    "reply_to": "BAU02",
+    "paragraphs": [
+      "Hans Müller telefonierte heute um 14:20 Uhr mit Ina Mertens und anschließend mit Selin Voß. Frau Mertens bestätigte, dass die Disposition die Anfahrt für Montag auf 9 Uhr umstellen kann. Der Fahrer soll vor Erreichen der Baustelle Heinrich Bauer anrufen. Ein früher eintreffendes Fahrzeug erhält damit noch keine Zusage, sofort entladen zu werden.",
+      "Frau Voß stellte klar, dass ihre Nachricht keine Sperrung des gesamten zweiten Obergeschosses verlangt. Die vorgesehenen Arbeiten in WE 07 und 08 können weiterlaufen. Vor Beginn des Fenstertransports stimmen Heinrich Bauer und Wilhelm Fischer nur den jeweils benötigten Durchgang ab. Die Gestelle werden nach Wohnungszuordnung bereitgestellt; die Treppenläufe bleiben frei.",
+      "Frau Mertens fragte, ob der Fahrer die Empfangsbestätigung zugleich als Bestätigung des Einbaufortschritts mitnehmen könne. Ich habe die Unterscheidung erläutert: Der Lieferbeleg erfasst die zwölf angelieferten Elemente, der Tagesbericht den tatsächlich erreichten Montagezustand. Herr Bauer soll beide Angaben nicht in einem Sammelvermerk vermischen.",
+      "Vereinbart wurde folgende Rückmeldung: Frau Mertens gibt die geänderte Uhrzeit heute an die Disposition, Frau Voß den Ablauf an Herrn Fischer. Herr Bauer meldet nach Anlieferung Menge und Zuordnung. Sollte die Anfahrt abweichen, wird zuerst telefonisch abgestimmt; der freie Zugang wird nicht durch eine spontane Zwischenlagerung ersetzt. Vermerk erstellt von Hans Müller zur Ablage und Weitergabe an die drei beteiligten Gewerke."
+    ],
+    "references": [
+      "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/LB-016_2028-04-24.docx"
+    ]
+  },
+  {
+    "id": "BAU04",
+    "thread": "B-01",
+    "date": "2028-05-08T16:24:00",
+    "format": "eml",
+    "folder": "08_Bauausfuehrung/05_Alltagskorrespondenz",
+    "title": "AW: Fensterlieferung eingegangen – Menge und Tagesstand getrennt",
+    "from_key": "huelle",
+    "to_key": "objektueberwachung",
+    "cc_keys": [
+      "elektro",
+      "hls"
+    ],
+    "reply_to": "BAU03",
+    "paragraphs": [
+      "Guten Tag Herr Müller, die zwölf Fensterelemente für WE 07 und 08 sind heute eingegangen. Heinrich Bauer hat den Empfang unter LB-017 dokumentiert. Zusammen mit den beiden früheren Lieferungen sind damit 48 Fensterelemente angeliefert. Das Hauseingangselement gehört weiterhin nicht in diese Zahl; bitte lassen Sie das auch in der Zusammenstellung so stehen.",
+      "Die am Freitag abgestimmte Reihenfolge hat funktioniert. Herr Bauer hat den Transport mit Herrn Fischer vor Ort durchgesprochen, sodass die Gestelle nicht im Treppenlauf zwischengeparkt werden mussten. Für die nächsten Elemente bleibt die Zuordnung zu WE 07 beziehungsweise WE 08 am Lagergut erkennbar. Der Fahrer hatte zunächst nach einer Unterschrift für die komplette Fensterleistung gefragt; er hat die Empfangsbestätigung für seine Lieferung erhalten.",
+      "Heute wurden zwei weitere Fenster montiert. Der Montagearbeitsstand beträgt damit 38 Stück, ausgehend von 36 am Freitag. Die übrigen heute gelieferten Elemente sind nicht stillschweigend als eingebaut mitgezählt. Auch die Anschlussfugen sind nicht pauschal freigegeben; sie bleiben an den vorgesehenen Stellen für Ihre Stichproben erreichbar.",
+      "Damit ist die Abstimmung zur Anfahrt erledigt. Wenn bei Ihrer nächsten Kontrolle eine konkrete Elementnummer fehlt, rufen Sie bitte Herrn Bauer an, bevor aus der Lagerzuordnung ein vermeintlicher Fehlbestand wird. Den täglichen Fortschritt führen wir wie besprochen getrennt weiter. Freundliche Grüße, Ina Mertens."
+    ],
+    "references": [
+      "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/LB-017_2028-05-08.docx",
+      "08_Bauausfuehrung/01_Bautagebuch/2028/BTB_2028-05.docx"
+    ]
+  },
+  {
+    "id": "BAU05",
+    "thread": "B-02",
+    "date": "2028-06-28T13:16:00",
+    "format": "eml",
+    "folder": "08_Bauausfuehrung/05_Alltagskorrespondenz",
+    "title": "WE 04: Revisionsöffnung vor Beplankung gemeinsam ansehen",
+    "from_key": "objektueberwachung",
+    "to_key": "ausbau",
+    "cc_keys": [
+      "tga",
+      "hls"
+    ],
+    "reply_to": null,
+    "paragraphs": [
+      "Guten Tag Herr Merz, an der Revisionsöffnung des Installationsschachts in WE 04 sitzt ein Unterkonstruktionsprofil im vorgesehenen Zugang. Die Armatur lässt sich in diesem Zustand nicht wie vorgesehen erreichen. Ich habe den Befund als M-005 aufgenommen und mit Walter Schneider am offenen Schacht besprochen. Bitte diesen Abschnitt noch nicht beplanken.",
+      "Herr Schneider hat zu Recht gefragt, ob wir nur die Öffnung anders einteilen oder auch an der Installation etwas ändern wollen. Letzteres ist mit dieser Nachricht nicht angeordnet. Frau Sand und Herr Thiel müssen mit Ihnen am vorhandenen Zustand klären, wo das Profil stehen kann, ohne den nutzbaren Zugang wieder einzuengen. Eine Öffnung sieht auf dem Papier schnell ausreichend aus; entscheidend ist hier, ob man die Armatur tatsächlich bedienen kann.",
+      "Die übrigen Ausbauarbeiten müssen deshalb nicht warten. Bitte halten Sie aber genau diesen Schachtabschnitt offen und sagen Sie mir, wann Herr Schneider ihn mit der Fachplanung durchgehen kann. Ein kurzes Zeitfenster morgen wäre sinnvoll, damit wir am Freitag vor dem Schließen nachsehen können.",
+      "Ich möchte keine Zuständigkeitsrunde mit vier getrennten Besichtigungen daraus machen. Wenn Frau Sand die technische Zuordnung bestätigt und Herr Schneider die Ausführung daran abgleicht, können wir den Befund am selben Ort nachvollziehbar nachkontrollieren. Bitte antworten Sie mit dem möglichen Termin und nicht nur mit dem allgemeinen Hinweis, die Arbeiten liefen weiter. Grüße, Hans Müller."
+    ],
+    "references": [
+      "08_Bauausfuehrung/03_Maengel/M-005_Befund_2028-06-28.docx"
+    ]
+  },
+  {
+    "id": "BAU06",
+    "thread": "B-02",
+    "date": "2028-06-29T08:47:00",
+    "format": "eml",
+    "folder": "08_Bauausfuehrung/05_Alltagskorrespondenz",
+    "title": "AW: WE 04 – Profil versetzen, Zugang vorher eindeutig festlegen",
+    "from_key": "ausbau",
+    "to_key": "tga",
+    "cc_keys": [
+      "objektueberwachung",
+      "hls"
+    ],
+    "reply_to": "BAU05",
+    "paragraphs": [
+      "Guten Morgen Frau Sand, Herr Schneider kann den offenen Abschnitt heute mit Ihnen abstimmen. Mir reicht dafür eine telefonische Verständigung mit ihm am Bauteil, sofern Sie die Armaturenlage eindeutig zuordnen können. Den Schacht schließen wir bis zu dieser Klärung nicht. Unsere laufenden Arbeiten in den anderen Wohnungen gehen weiter.",
+      "Mit der Formulierung, das Profil müsse nur etwas zur Seite, tue ich mich allerdings schwer. Nachher liegt die Öffnung zwar frei, die Klappe oder die Unterkonstruktion passt aber nicht mehr zum vorgesehenen Ausbau. Bitte sagen Sie Herrn Schneider, welcher Bedienweg benötigt wird und welche Teile dabei zugänglich bleiben müssen. Er kann anschließend prüfen, wie das mit der vorhandenen Konstruktion zusammengeht. Eine Rohrverlegung allein aus Platzgründen möchten wir nicht veranlassen.",
+      "Herr Schneider hat gestern direkt vor der Öffnung gestanden und mir die Stelle beschrieben. Vom Flur aus wirkt der Zugang offenbar großzügiger, als er bei der tatsächlichen Bedienung ist. Deshalb bitte ich um die konkrete Zuordnung am Bauteil und nicht um einen weiteren Ausdruck, auf dem nur allgemein Revisionsöffnung steht. Sonst besprechen wir morgen dieselbe Frage noch einmal.",
+      "Mir ist außerdem wichtig, dass die Nachkontrolle vor dem Schließen stattfindet. Wenn die Objektüberwachung erst nach der Beplankung kommt, sieht niemand mehr, weshalb das Profil versetzt wurde. Herr Müller, halten Sie sich dafür bitte Freitag ein Zeitfenster frei; Herr Schneider meldet Ihnen den erreichten Zustand, bevor er weiterarbeitet.",
+      "Wir behandeln das zunächst als die konkrete Ausführungsabstimmung zu M-005. Über die anderen Schächte sagt diese einzelne Abstimmung noch nichts aus. Bitte bestätigen Sie die technische Abstimmung im Rücklauf, damit auf der Baustelle nicht drei verschiedene Fassungen kursieren. Viele Grüße, Jan Merz."
+    ],
+    "references": [
+      "08_Bauausfuehrung/03_Maengel/M-005_Befund_2028-06-28.docx"
+    ]
+  },
+  {
+    "id": "BAU07",
+    "thread": "B-02",
+    "date": "2028-06-29T14:08:00",
+    "format": "docx",
+    "folder": "08_Bauausfuehrung/05_Alltagskorrespondenz",
+    "title": "Telefonvermerk: Armaturenzugang WE 04 und Kontrolle vor dem Schließen",
+    "from_key": "tga",
+    "to_key": "objektueberwachung",
+    "cc_keys": [
+      "ausbau",
+      "hls"
+    ],
+    "reply_to": "BAU06",
+    "paragraphs": [
+      "Elif Sand führte heute um 13:40 Uhr ein gemeinsames Telefonat mit Jan Merz und Arne Thiel. Walter Schneider war über Herrn Merz am geöffneten Schacht in WE 04 beteiligt. Gegenstand war ausschließlich die durch ein Unterkonstruktionsprofil eingeengte Revisionsöffnung aus dem Befund M-005.",
+      "Herr Thiel bestätigte die bezeichnete Armatur und erläuterte den dafür vorgesehenen Bedienzugang. Herr Merz wandte ein, dass die Öffnung nicht unabhängig von der Unterkonstruktion vergrößert oder verschoben werden dürfe. Die Beteiligten verständigten sich deshalb darauf, das störende Profil innerhalb der abgestimmten Ausbaukonstruktion so zu versetzen, dass der Zugang frei wird. Die Lage der Armatur und der Leitungsverlauf bleiben dabei unverändert. Unklare Anschlüsse der Unterkonstruktion sollen vor der Ausführung nochmals mit der Ausbauleitung geklärt werden.",
+      "Für die Prüfung reicht der Blick durch eine nur angelehnte Revisionsklappe nicht aus. Der Zugang muss am noch offenen Ausbauzustand erkennbar sein. Herr Schneider meldet Herrn Müller deshalb vor dem Schließen, sobald der abgeglichene Zustand zur Nachkontrolle bereitsteht. Als gemeinsamer Zieltermin wurde der morgige Freitag festgehalten; ein positives Prüfergebnis wurde heute noch nicht festgestellt.",
+      "Herr Merz bat darum, die Rückmeldung nicht nur in einem Telefonnotizbuch zu belassen. Dieser Vermerk geht deshalb an Herrn Müller sowie an Ausbau und Wärmefluss. Er dient als gemeinsame Grundlage für die örtliche Nachkontrolle zu M-005. Die spätere Meldung zur fertigen TGA-Rohinstallation soll getrennt davon erfolgen, damit die lokale Zugangsfrage darin nicht verschwindet. Aufgezeichnet von Elif Sand."
+    ],
+    "references": [
+      "08_Bauausfuehrung/03_Maengel/M-005_Befund_2028-06-28.docx"
+    ]
+  },
+  {
+    "id": "BAU08",
+    "thread": "B-02",
+    "date": "2028-06-30T16:18:00",
+    "format": "eml",
+    "folder": "08_Bauausfuehrung/05_Alltagskorrespondenz",
+    "title": "AW: WE 04 – Nachkontrolle M-005 heute dokumentiert",
+    "from_key": "objektueberwachung",
+    "to_key": "ausbau",
+    "cc_keys": [
+      "tga",
+      "hls"
+    ],
+    "reply_to": "BAU07",
+    "paragraphs": [
+      "Guten Tag Herr Merz, die Nachkontrolle an der Revisionsöffnung in WE 04 ist heute erfolgt. Die Öffnung war frei, die Armatur für die vorgesehene Bedienung zugänglich. Den abgeglichenen Ausbauzustand haben wir vor dem Schließen des Schachts aufgenommen. Das Nachkontrollblatt vom 30. Juni gehört zum ursprünglichen Befund M-005; der erste Bericht bleibt daneben erhalten.",
+      "Danke an Herrn Schneider, dass er vor dem Weiterarbeiten Bescheid gegeben hat. Gerade bei dieser Stelle hätte ein Foto von der fertigen Wand nicht gezeigt, was gestern noch im Weg stand. Die Rückmeldung betrifft den kontrollierten Zugang. Bitte im Tageszettel daher nicht verkürzt schreiben, sämtliche Schächte seien damit geprüft. Für diese weitergehende Aussage haben wir heute keine gemeinsame Grundlage erhoben.",
+      "Herr Thiel hat daneben die fertige TGA-Rohinstallation gemeldet. Das sind zwei unterschiedliche Vorgänge. Die Rohrnetzprüfung vor dem Estrich wird gesondert vorbereitet, und die spätere Schlussprüfung bleibt im vorgesehenen Ablauf. Aus der freien Revisionsöffnung soll niemand eine bereits bestandene Anlagenprüfung ableiten.",
+      "Für die Ablage ist die Zugangsfrage damit anhand von Befund und Nachkontrolle nachvollziehbar. Bitte lassen Sie die Zuordnung WE 04 auch auf Ihrer Ausfertigung stehen; die gleichartigen Bauteile in anderen Wohnungen sollten nicht unter derselben Meldung abgelegt werden. Wenn beim weiteren Ausbau die Öffnung wieder eingeengt wird, benötige ich eine neue Rückmeldung. Freundliche Grüße, Hans Müller."
+    ],
+    "references": [
+      "08_Bauausfuehrung/03_Maengel/M-005_Befund_2028-06-28.docx",
+      "08_Bauausfuehrung/03_Maengel/M-005_Nachkontrolle_2028-06-30.docx",
+      "08_Bauausfuehrung/01_Bautagebuch/2028/BTB_2028-06.docx"
+    ]
+  },
+  {
+    "id": "BAU09",
+    "thread": "B-03",
+    "date": "2028-08-09T11:26:00",
+    "format": "eml",
+    "folder": "08_Bauausfuehrung/05_Alltagskorrespondenz",
+    "title": "PV-Anlieferung am 14. August: Platz und Reihenfolge mit Wärmefluss klären",
+    "from_key": "elektro",
+    "to_key": "objektueberwachung",
+    "cc_keys": [
+      "hls",
+      "aussen"
+    ],
+    "reply_to": null,
+    "paragraphs": [
+      "Guten Tag Herr Müller, die 80 PV-Module sind für Montag, den 14. August, disponiert. Wilhelm Fischer übernimmt die Zuordnung zur Dachmontage. Von Herrn Thiel habe ich gehört, dass die beiden Wärmepumpen ebenfalls am Montag kommen sollen. Bevor beide Fahrzeuge gleichzeitig vor dem Zugang stehen, sollten wir die Reihenfolge jetzt abstimmen.",
+      "Wir brauchen keine zusätzliche Lagerfläche im Garten. Die Module sollen der gesicherten Dachanlieferung zugeordnet bleiben. Auf dem Dach sind die Wartungswege und Abläufe freizuhalten; aus der freien Stelle zwischen zwei Feldern wird deshalb nicht automatisch ein Palettenplatz. Bitte keine Dachfläche allein nach Augenmaß als Lagerpunkt zusagen. Herr Fischer stimmt die vorgesehenen Abstellpunkte und den Transport mit der Bauleitung ab.",
+      "Frau Roth, können Sie uns sagen, welche Wege am Montag für die Anlieferung verfügbar bleiben? Ich möchte Ihrer Mannschaft nicht morgens mit einem fertigen Fahrplan erklären, wo sie Platz machen soll. Uns hilft eine eindeutige Reihenfolge mehr als die allgemeine Zusage, es werde schon gehen.",
+      "Mein Vorschlag ist, die Wärmepumpen zuerst und die Module anschließend anzunehmen. Die genaue Uhrzeit gebe ich erst nach Ihrer Rückmeldung an die Disposition. Bitte beachten Sie für die Tagesmeldung auch: 80 gelieferte Module sind noch keine 80 montierten Module. Der erste Montageabschnitt wird wie sonst gesondert erfasst. Grüße, Selin Voß."
+    ],
+    "references": [
+      "05_Ausfuehrungsplanung/027_Koordinierter_Planstand_R01.pdf",
+      "05_Ausfuehrungsplanung/028_Flaechen_Abstaende_Aussenanlagen.pdf"
+    ]
+  },
+  {
+    "id": "BAU10",
+    "thread": "B-03",
+    "date": "2028-08-10T15:07:00",
+    "format": "eml",
+    "folder": "08_Bauausfuehrung/05_Alltagskorrespondenz",
+    "title": "AW: Montag kein Ausweichen über die Gartenfläche",
+    "from_key": "aussen",
+    "to_key": "objektueberwachung",
+    "cc_keys": [
+      "elektro",
+      "hls"
+    ],
+    "reply_to": "BAU09",
+    "paragraphs": [
+      "Herr Müller, die Reihenfolge von Frau Voß ist vernünftig. Der zweite Fahrer darf aber nicht neben dem ersten über die Gartenfläche ausweichen. Ernst Hoffmann arbeitet derzeit an Wegen und Stellplätzen; ab Montag sind die Rasen- und Pflanzflächen im westlichen Garten vorgesehen. Dort können wir keine Geräte oder Modulgestelle zwischenlagern.",
+      "Der Weg vom barrierefreien Stellplatz zum Haus muss frei bleiben. Bitte die Anlieferer bei der Einfahrt an ihren Empfänger verweisen. Herr Hoffmann kann den Bereich zeigen, er soll aber nicht für beide Firmen den Wareneingang übernehmen. Eine pauschale Sperrung des ganzen Vormittags brauchen wir nicht. Wenn die Wärmepumpen zuerst angenommen werden und das zweite Fahrzeug erst nach Rückruf einfährt, können wir den vorhandenen Ablauf darum herum organisieren.",
+      "Ob 8:30 Uhr und 10 Uhr passen, müssen Herr Thiel und Frau Voß mit ihren Fahrern bestätigen. Bitte am Freitag eine gemeinsame Fassung festhalten. Zwei verschiedene Uhrzeiten auf zwei ausgedruckten E-Mails helfen Herrn Hoffmann am Montag nicht weiter. Die vorgesehenen Flächen und unsere bisherige Tagesplanung bleiben ansonsten bestehen. Freundliche Grüße, Mira Roth."
+    ],
+    "references": [
+      "05_Ausfuehrungsplanung/028_Flaechen_Abstaende_Aussenanlagen.pdf"
+    ]
+  },
+  {
+    "id": "BAU11",
+    "thread": "B-03",
+    "date": "2028-08-11T13:52:00",
+    "format": "docx",
+    "folder": "08_Bauausfuehrung/05_Alltagskorrespondenz",
+    "title": "Besprechungsnotiz: Anlieferfolge am Montag und Schutz der Außenflächen",
+    "from_key": "objektueberwachung",
+    "to_key": "elektro",
+    "cc_keys": [
+      "hls",
+      "aussen"
+    ],
+    "reply_to": "BAU10",
+    "paragraphs": [
+      "Hans Müller hielt heute nach telefonischer Abstimmung mit Arne Thiel, Selin Voß und Mira Roth die gemeinsame Anlieferfolge für Montag, den 14. August, fest. Wärmefluss plant die Ankunft der beiden Wärmepumpen um 8:30 Uhr. Lichtkreis legt die Modulanfahrt auf 10 Uhr. Beide Uhrzeiten sind Anfahrziele; sie gestatten keine gleichzeitige Einfahrt, falls die erste Lieferung noch im Zugang steht.",
+      "Arne Thiel benennt Alfred Müller für den Empfang der Wärmepumpen. Selin Voß benennt Wilhelm Fischer für die PV-Lieferung. Die Empfänger stimmen den tatsächlich freien Weg miteinander ab. Ernst Hoffmann zeigt für Grünkante die Grenze der Arbeits- und Vegetationsflächen; er zeichnet keine fremden Liefermengen ab. Frau Roth bestätigte, dass sie mit dieser Rollenverteilung arbeiten kann.",
+      "Auf die Nachfrage, ob bei Verzögerung kurz über den westlichen Garten ausgewichen werden dürfe, blieb es bei der vereinbarten Zuführung. Dort sind die Rasen- und Pflanzarbeiten vorgesehen. Der Weg vom barrierefreien Stellplatz zum Eingang bleibt frei von Gestellen und Verpackung. Die Dachabläufe und Wartungswege sind ebenfalls keine Ausweichlager. Die Schutz- und Lagerabstimmung der Dachmontage bleibt bei der zuständigen Bauleitung.",
+      "Die Beteiligten geben diese Fassung heute an ihre Vorarbeiter und Dispositionen weiter. Am Montag sollen die Empfangsbelege getrennt geführt und die tatsächlich montierten Teile im Tagesbericht gemeldet werden. Ein telefonischer Rückruf zwischen den beiden Empfängern geht einer improvisierten Änderung des Fahrwegs vor. Notiert von Hans Müller."
+    ],
+    "references": [
+      "05_Ausfuehrungsplanung/027_Koordinierter_Planstand_R01.pdf",
+      "05_Ausfuehrungsplanung/028_Flaechen_Abstaende_Aussenanlagen.pdf"
+    ]
+  },
+  {
+    "id": "BAU12",
+    "thread": "B-03",
+    "date": "2028-08-14T16:36:00",
+    "format": "eml",
+    "folder": "08_Bauausfuehrung/05_Alltagskorrespondenz",
+    "title": "AW: Anlieferungen heute erfolgt – Belege LB-026 und LB-027",
+    "from_key": "hls",
+    "to_key": "objektueberwachung",
+    "cc_keys": [
+      "elektro",
+      "aussen"
+    ],
+    "reply_to": "BAU11",
+    "paragraphs": [
+      "Guten Tag Herr Müller, Alfred Müller hat heute beide Wärmepumpen angenommen. Der Empfang steht in LB-026. Die Typenbezeichnungen wurden mit der freigegebenen Auswahl und Schallplanung abgeglichen; es bleibt bei zwei Geräten mit jeweils 18 kW nominaler Leistung. Die Anlieferung ist damit dokumentiert, die spätere Inbetriebnahme folgt im vorgesehenen Ablauf.",
+      "Die Abstimmung mit Wilhelm Fischer hat geklappt. Wir haben ihm den Zugang nach unserer Annahme zurückgemeldet, bevor die PV-Lieferung weitergeführt wurde. Ein Ausweichen in die westliche Gartenfläche war dafür nicht nötig. Herr Hoffmann konnte seine dort vorgesehenen Arbeiten fortsetzen, ohne fremde Lieferpapiere unterschreiben zu müssen. Die klare Zuordnung der Empfänger war heute hilfreicher als eine gemeinsame Sammelliste.",
+      "Herr Fischer hat mir für diese Rückmeldung bestätigt, dass Lichtkreis die 80 Module unter LB-027 übernommen hat. Im heutigen Montagebericht stehen acht montierte Module. Bitte die beiden Zahlen nicht zusammenziehen; die angelieferte Gesamtmenge und der erste Montageabschnitt beantworten unterschiedliche Fragen. Die PV-Annahme bleibt in seinem Verantwortungsbereich, deshalb steht Lichtkreis in Kopie.",
+      "Wir führen die HLS-Endmontage parallel wie geplant weiter. Für den morgigen Tagesablauf ist aus dieser Anlieferung kein offener Transportpunkt mehr gemeldet. Falls bei Ihrer Ablage ein Beleg fehlt, bitte konkret LB-026 oder LB-027 nennen; sonst suchen wieder beide Firmen nach derselben vermeintlichen Lücke. Freundliche Grüße, Arne Thiel."
+    ],
+    "references": [
+      "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/LB-026_2028-08-14.docx",
+      "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/LB-027_2028-08-14.docx",
+      "08_Bauausfuehrung/01_Bautagebuch/2028/BTB_2028-08.docx"
+    ]
+  },
+  {
+    "id": "BAU13",
+    "thread": "B-04",
+    "date": "2028-09-04T08:22:00",
+    "format": "eml",
+    "folder": "08_Bauausfuehrung/05_Alltagskorrespondenz",
+    "title": "Prüfwoche: Zugänge, Unterlagen und Einweisung auseinanderhalten",
+    "from_key": "tga",
+    "to_key": "hls",
+    "cc_keys": [
+      "elektro",
+      "objektueberwachung",
+      "verwaltung"
+    ],
+    "reply_to": null,
+    "paragraphs": [
+      "Guten Morgen Herr Thiel, wir gehen in die letzte gemeinsame Vorbereitungsrunde für die technischen Prüfungen. Nach dem abgestimmten Ablauf stehen Ihre HLS- und Lüftungsmessungen am Mittwoch, dem 6. September, und die Elektroprüfung am Donnerstag, dem 7. September, an. Am Freitag sollen die Unterlagen zusammengeführt und die Verwaltung eingewiesen werden. Bitte diese drei Schritte in Ihren Rückmeldungen getrennt benennen.",
+      "Für heute und morgen brauchen wir vor allem eindeutig zugängliche Messstellen und eine Zuordnung zu den Wohnungen. Wenn eine Verteilerbezeichnung oder eine Armatur unklar ist, bitte die konkrete Stelle melden. Eine allgemeine Nachricht, alles sei fertig, hilft Frau Fricke bei der späteren Ablage wenig. Sie muss erkennen können, welche Werte zu welcher Wohnung und zu welchem Prüfzustand gehören.",
+      "Frau Voß, bitte stimmen Sie mit Herrn Thiel ab, wann Verbraucher für die elektrische Prüfung getrennt werden müssen. Die HLS-Messungen sollen nicht versehentlich durch eine parallel veranlasste Abschaltung unterbrochen werden. Wenn die Arbeitsfolge noch hakt, brauche ich dazu eine kurze Rückmeldung, bevor die Mannschaften aneinander vorbeiarbeiten.",
+      "Bitte bringen Sie am Freitag die Unterlagen so mit, dass Frau Fricke sie ohne Ihre Anwesenheit wieder zuordnen kann. Ein loses Messblatt zwischen Bedienungsanleitungen hilft ihr wenig, selbst wenn jeder Wert stimmt. Auf dem jeweiligen Blatt sollten das Anlagenkennzeichen, der Prüftag und die verantwortliche Person auffindbar sein. Wenn noch eine Unterschrift fehlt, benennen Sie das bitte offen, statt eine unfertige Fassung ohne Erklärung in die Mappe zu legen.",
+      "Für Frau Fricke benötigen wir außerdem den Weg vom Prüfblatt zum Betriebsbuch: Wer erklärt ihr die Einstellwerte, den Wasserwechsel bis zum Einzug und die richtigen Störungskontakte? Bitte heute die Zuständigkeit bestätigen. Die Messwerte selbst gehören in die ausgefüllten Fachprotokolle; ich möchte sie nicht aus mehreren E-Mail-Fassungen zusammensetzen müssen. Viele Grüße, Elif Sand."
+    ],
+    "references": [
+      "06_Leistungsverzeichnisse/Detail-LV/LV_03_hls_Detail.docx",
+      "06_Leistungsverzeichnisse/Detail-LV/LV_04_elektro_Detail.docx"
+    ]
+  },
+  {
+    "id": "BAU14",
+    "thread": "B-04",
+    "date": "2028-09-05T11:14:00",
+    "format": "eml",
+    "folder": "08_Bauausfuehrung/05_Alltagskorrespondenz",
+    "title": "AW: Prüfwoche – Elektrobericht erst nach der Prüfung am Donnerstag",
+    "from_key": "elektro",
+    "to_key": "tga",
+    "cc_keys": [
+      "hls",
+      "objektueberwachung",
+      "verwaltung"
+    ],
+    "reply_to": "BAU13",
+    "paragraphs": [
+      "Guten Tag Frau Sand, den Donnerstag halten wir für die elektrische Abschlussprüfung fest. Heute werden die Zuordnungen und Zugänge der Wohnungsverteilungen vorbereitet, morgen folgt der verbleibende Vorbereitungsstand einschließlich Allgemeinverteilung. Einen unterschriebenen Abschlussbericht kann ich Ihnen deshalb heute noch nicht geben. Auch ein Entwurf mit bereits eingesetztem Ergebnis wäre aus meiner Sicht die falsche Unterlage für die gemeinsame Mappe.",
+      "Mit Herrn Thiel stimme ich die erforderlichen Trennungen so ab, dass seine morgigen Messungen nicht durch eine eigenmächtige Schalthandlung unserer Mannschaft durcheinandergeraten. Wilhelm Fischer kennt den Ablauf. Die eigentliche Messung wird von der Vorbereitung unterschieden und mit den tatsächlich vorliegenden Bedingungen dokumentiert.",
+      "Frau Fricke hatte nachgefragt, ob die Zahl der Verteilungen mit der Zahl der Wohnungen identisch sei. Für unsere Zusammenstellung sind die acht Wohnungsverteilungen und die Allgemeinverteilung getrennt zu führen. Die anlagenspezifischen Unterlagen zur PV-Anlage und zu den Ladepunkten kommen ergänzend hinzu. Bitte legen Sie nicht alles unter einer einzigen Rubrik mit der Aufschrift Hausstrom ab; bei einer späteren Rückfrage findet sonst niemand den passenden Bericht.",
+      "Am Freitag erläutere ich die Kennzeichnung und die Zuordnung der Prüfunterlagen. Die Terminbestätigung ist damit gegeben. Über das Prüfergebnis berichte ich nach der Messung, und etwaige offene Punkte werden konkret bezeichnet. Einweisung und Unterlagenübergabe sollen nicht zu einem zweiten, nur auf dem Papier vorgezogenen Prüftag werden. Freundliche Grüße, Selin Voß."
+    ],
+    "references": [
+      "06_Leistungsverzeichnisse/Detail-LV/LV_04_elektro_Detail.docx"
+    ]
+  },
+  {
+    "id": "BAU15",
+    "thread": "B-04",
+    "date": "2028-09-06T16:42:00",
+    "format": "docx",
+    "folder": "08_Bauausfuehrung/05_Alltagskorrespondenz",
+    "title": "Telefonvermerk: HLS-Prüfstand und Betriebsorganisation bis zum Einzug",
+    "from_key": "tga",
+    "to_key": "verwaltung",
+    "cc_keys": [
+      "hls",
+      "elektro",
+      "objektueberwachung"
+    ],
+    "reply_to": "BAU14",
+    "paragraphs": [
+      "Elif Sand telefonierte heute um 16:15 Uhr mit Lea Fricke und Arne Thiel über den erreichten HLS-Prüfstand. Herr Thiel bestätigte den Abschluss der heutigen hydraulischen Einstellungen, Druck- und Spülprüfungen sowie der dokumentierten Lüftungsmessungen. Maßgeblich sind die ausgefüllten Unterlagen 163 und 164 mit den wohnungsbezogenen Werten. Dieser Vermerk überträgt keine einzelnen Messwerte aus dem Gedächtnis.",
+      "Frau Fricke fragte, ob sie mit der Betriebsorganisation bis zur gemeinsamen Runde am Freitag warten solle. Herr Thiel verneinte dies: Der dokumentierte Wasserwechsel bis zum Einzug wird bereits ab heute von der Verwaltung übernommen. Die Übergabe des Betriebsbuchs und die Erläuterung der Einträge werden morgen fortgeführt. Frau Fricke soll bei unklarer Armaturen- oder Wohnungszuordnung bei Wärmefluss nachfragen, statt eine vermeintlich passende Einstellung selbst zu verändern.",
+      "Zum Umfang der heutigen Aussage wurde festgehalten, dass eine Temperaturmessung keine mikrobiologische Untersuchung belegt. Ebenso lässt sich das spätere Verhalten der Heizung bei Wintertemperaturen nicht aus der heutigen sommerlichen Inbetriebnahme vollständig ablesen. Frau Fricke bat darum, diese Grenzen bei der Einweisung verständlich zu erläutern und nicht nur in der technischen Mappe stehen zu lassen.",
+      "Die elektrische Abschlussprüfung ist weiterhin für morgen vorgesehen. Frau Voß wird das Ergebnis nach ihrer Messung mitteilen. Am Freitag werden die dann vorliegenden Unterlagen geordnet und die Bedien- und Störungskontakte gemeinsam durchgegangen. Frau Fricke führt offene organisatorische Rückfragen bis dahin gesammelt mit. Vermerk erstellt von Elif Sand."
+    ],
+    "references": [
+      "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/Bestandsnachweise/163_HLS_Einstellung_und_Pruefung.pdf",
+      "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/Bestandsnachweise/164_Lueftung_Messblatt.pdf"
+    ]
+  },
+  {
+    "id": "BAU16",
+    "thread": "B-04",
+    "date": "2028-09-08T16:48:00",
+    "format": "eml",
+    "folder": "08_Bauausfuehrung/05_Alltagskorrespondenz",
+    "title": "AW: Technische Unterlagen heute gemeinsam geordnet",
+    "from_key": "verwaltung",
+    "to_key": "tga",
+    "cc_keys": [
+      "hls",
+      "elektro",
+      "objektueberwachung"
+    ],
+    "reply_to": "BAU15",
+    "paragraphs": [
+      "Guten Tag Frau Sand, nach der heutigen gemeinsamen Runde ist für mich die Zuordnung der technischen Unterlagen deutlich. Die HLS- und Lüftungsunterlagen tragen den 6. September, der Elektroprüfbericht den 7. September. Der heutige 8. September bezeichnet die gemeinsame Inbetriebnahmerunde und Einweisung. Ich werde die drei Daten nicht unter einem einheitlichen Fertigmeldedatum zusammenziehen.",
+      "Mit Herrn Thiel habe ich den Weg vom Einstellblatt zum Betriebsbuch durchgesprochen. Den seit Mittwoch übernommenen Wasserwechsel führen wir weiter; die gestrige Erläuterung des Betriebsbuchs und die heutige Einweisung schließen daran an. Störungen und spätere Änderungen an Einstellungen sollen mit Datum und betroffenem Anlagenteil erfasst werden. Für Rückfragen zur HLS-Technik ist Wärmefluss zuständig, für die elektrische Zuordnung Lichtkreis.",
+      "Frau Voß hat mir die acht Wohnungsverteilungen und die Allgemeinverteilung in der Ablage erklärt. Damit kann ich eine Rückfrage aus einer Wohnung dem richtigen Bericht zuordnen, ohne nur auf die Sammelüberschrift Elektro zu verweisen. Die ergänzenden Unterlagen zu PV und Ladepunkten bleiben daneben auffindbar. Die Lüftungsfilter und die Bedienung der Betriebsstufen wurden ebenfalls besprochen.",
+      "Für die weiteren Übergaben bleibt mein offener Arbeitspunkt, die tatsächlichen Zählerstände bei der jeweiligen Wohnungsübergabe aufzunehmen. Heutige Technikwerte werden dafür nicht vorab eingesetzt. Auch die noch bevorstehenden förmlichen Bauabnahmen werden durch meine Bestätigung der Einweisung nicht ersetzt. Vielen Dank für die verständliche Runde; mit einer unsortierten Mappe allein hätte ich die Zuständigkeiten nicht sicher zuordnen können. Freundliche Grüße, Lea Fricke."
+    ],
+    "references": [
+      "08_Bauausfuehrung/Bestandsunterlagen/056_Gesamtinbetriebnahme_Technik.pdf",
+      "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/Bestandsnachweise/163_HLS_Einstellung_und_Pruefung.pdf",
+      "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/Bestandsnachweise/164_Lueftung_Messblatt.pdf",
+      "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/Bestandsnachweise/165_Elektro_Pruefbericht.pdf"
+    ]
+  }
+]

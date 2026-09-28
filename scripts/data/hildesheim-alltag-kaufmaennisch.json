@@ -1,0 +1,332 @@
+[
+  {
+    "id": "KAUF01",
+    "thread": "K-01",
+    "date": "2028-09-27T09:12:00",
+    "format": "eml",
+    "folder": "10_Rechnungen_und_Buchhaltung/Alltagskorrespondenz",
+    "title": "LE-28-061: Ich bekomme die beiden Juni-Zahlungen nicht zusammen",
+    "from_key": "buchhaltung",
+    "to_key": "elektro",
+    "cc_keys": [
+      "bauherr"
+    ],
+    "reply_to": null,
+    "paragraphs": [
+      "Guten Morgen Frau Voß,",
+      "Frau Birk hat Ihnen gestern wegen der zwei Überweisungen geschrieben. Ich ziehe die Sache für unsere Buchhaltung nach, weil ich dieselbe Rechnungsnummer jetzt auf zwei Zahlungszeilen und nur auf einer Rechnung finde. Es geht um LE-28-061 vom 1. Juni über 89.250,00 EUR, mit den Überweisungen vom 15. und 19. Juni. Der zweite Betrag sieht auf unserer Seite gerade nicht nach einer weiteren Abschlagsrechnung aus.",
+      "Bitte suchen Sie nicht nur nach dem Betrag. In der Rechnung stehen die acht Wohnungsinstallationen mit 52.000,00 EUR netto und die Hauptverteilung mit 23.000,00 EUR netto. Diese beiden Positionen sind bei uns einmal erfasst. Ich möchte vermeiden, dass wir bei der Suche versehentlich die kommende Schlussabrechnung oder die PV-Anlage dazunehmen und am Ende drei verschiedene Vorgänge in einer Antwort haben.",
+      "Können Sie mir sagen, wer bei Ihnen die Zahlungseingänge zuordnet? Sie müssen sich dafür nicht zwischen zwei Baustellenterminen durch die ganze Buchhaltung arbeiten. Ein Name und eine Antwort auf diese Nachricht würden schon helfen. Frau Birk hat das Debitorenkonto angefordert; sobald es da ist, können wir die Zeilen nebeneinanderlegen.",
+      "Bis dahin lasse ich die zweite Überweisung in meiner Abstimmung offen. Auf meinem Ausdruck steht schon ein gelber Zettel, aber der erklärt leider noch nichts. Die Rechnung selbst möchte ich nicht durch eine zweite Erfassung passend machen.",
+      "Freundliche Grüße\nErna Wagner"
+    ],
+    "references": [
+      "10_Rechnungen_und_Buchhaltung/Belege/098_Elektro_Abschlag.pdf",
+      "10_Rechnungen_und_Buchhaltung/Belege/113_Rueckfrage_Elektrozahlung.eml",
+      "10_Rechnungen_und_Buchhaltung/Rechnungseingang/2028-06-01_LE-28-061_Belegzugang.eml"
+    ]
+  },
+  {
+    "id": "KAUF02",
+    "thread": "K-01",
+    "date": "2028-09-28T16:38:00",
+    "format": "eml",
+    "folder": "10_Rechnungen_und_Buchhaltung/Alltagskorrespondenz",
+    "title": "AW: LE-28-061: Die Suche läuft bei uns über das Debitorenkonto",
+    "from_key": "elektro",
+    "to_key": "buchhaltung",
+    "cc_keys": [
+      "bauherr"
+    ],
+    "reply_to": "KAUF01",
+    "paragraphs": [
+      "Guten Tag Frau Wagner,",
+      "Ihre Beschreibung hilft mir mehr als die bloße Frage nach einem offenen Betrag. Ich habe die Rechnung LE-28-061 vor mir; die von Ihnen genannten beiden Positionen stimmen damit überein. Für diese Rechnung habe ich Ihnen keine zweite Fassung mit einem zusätzlichen Zahlbetrag geschickt. Die E-Mail vom 1. Juni enthält die XML-Datei und die PDF-Lesefassung desselben Belegs.",
+      "Den zweiten Zahlungseingang kann ich Ihnen aus meinen Baustellenunterlagen noch nicht zuordnen. Ich habe Ihre Nachricht deshalb mit den beiden Überweisungsdaten an unsere Buchhaltung weitergegeben. Dort muss im Debitorenkonto gesucht werden. Meine eigene Projektliste enthält die Rechnungen, aber nicht jede einzelne Bankbewegung; daraus möchte ich Ihnen keine scheinbar fertige Erklärung basteln.",
+      "Bitte lassen Sie mir die Rechnungsnummer im Betreff stehen. Bei uns kommen derzeit mehrere Rückfragen nur mit „Schlussrechnung Hildesheim“ an, und dann landet schnell die falsche Unterlage auf meinem Tisch. Die Leistungsabrechnung und die Suche nach der zweiten Juni-Zahlung laufen bei mir als getrennte Rückfragen weiter.",
+      "Dass Frau Birk die Unterlagen für ihre Bankbesprechung braucht, habe ich mitgegeben. Einen abgestimmten Kontostand habe ich heute trotzdem noch nicht. Sobald unsere Buchhaltung die Zuordnung geklärt hat, melde ich mich über diese Adresse. Es tut mir leid, dass Sie dafür hinterhertelefonieren müssen; mit einer Vermutung wäre Ihnen aber auch nicht geholfen.",
+      "Viele Grüße\nSelin Voß"
+    ],
+    "references": [
+      "10_Rechnungen_und_Buchhaltung/Belege/098_Elektro_Abschlag.pdf",
+      "10_Rechnungen_und_Buchhaltung/Belege/113_Rueckfrage_Elektrozahlung.eml",
+      "10_Rechnungen_und_Buchhaltung/Rechnungseingang/2028-06-01_LE-28-061_Belegzugang.eml"
+    ]
+  },
+  {
+    "id": "KAUF03",
+    "thread": "K-01",
+    "date": "2028-12-14T11:05:00",
+    "format": "docx",
+    "folder": "10_Rechnungen_und_Buchhaltung/Alltagskorrespondenz",
+    "title": "Telefonnotiz: Rückzahlung Lichtkreis ist angekündigt, Kontoeingang noch nicht abgehakt",
+    "from_key": "buchhaltung",
+    "to_key": "projektsteuerung",
+    "cc_keys": [
+      "bauherr"
+    ],
+    "reply_to": "KAUF02",
+    "paragraphs": [
+      "Erna Wagner hielt das Telefonat mit Selin Voß am 14. Dezember 2028 von 10:52 bis 11:00 Uhr fest. Anlass war die E-Mail von Lichtkreis vom Vortag. Friedrich Weber hatte für seine Unterlagen gefragt, ob die seit September offene Zuordnung nun erledigt sei.",
+      "Frau Voß verwies auf ihre Nachricht vom 13. Dezember. Nach dem dort mitgeteilten Abgleich wurden beide Juni-Zahlungseingänge auf demselben Debitorenkonto zusammengeführt. Die zweite Zahlung war zunächst ohne Rechnungszuordnung geführt worden. Lichtkreis nennt ein Guthaben von 89.250,00 EUR und eine für den 15. Dezember angewiesene Rückzahlung mit dem Text LE-RET-20281215. Frau Wagner las den Zahlungstext im Gespräch nochmals vor; Frau Voß bestätigte, dass genau diese Angabe in ihrer E-Mail gemeint sei.",
+      "Frau Wagner erläuterte, weshalb sie den Vorgang noch nicht vollständig abhakt: Die Nachricht dokumentiert die Anweisung bei Lichtkreis. Für den Eingang auf dem Projektkonto wird zusätzlich der Banknachweis benötigt. Sie hat im Gespräch keinen Zahlungseingang bestätigt und keinen neuen Auszahlungstermin mit Frau Voß vereinbart.",
+      "Die Schlussrechnung LE-28-098 über den verbleibenden Betrag von 35.700,00 EUR bleibt in der Ablage gesondert auffindbar. Frau Voß hatte deren Ausgleich am 14. Oktober bereits in ihrer E-Mail vom 13. Dezember bestätigt. Der Rückzahlungsbetrag ist deshalb nicht noch einmal von dieser Rechnung abzuziehen.",
+      "Für Herrn Weber lautet der Stand: Die Erklärung von Lichtkreis liegt jetzt vor, die Erstattung ist angekündigt. Der gelbe Rückfragezettel bleibt bis zum Abgleich mit dem Bankbeleg im Ordner. Frau Birk erhält diese Notiz zur Kenntnis."
+    ],
+    "references": [
+      "10_Rechnungen_und_Buchhaltung/Belege/114_Elektro_Rueckzahlung.eml",
+      "10_Rechnungen_und_Buchhaltung/Belege/099_Elektro_PV_Schlussrechnung.pdf",
+      "10_Rechnungen_und_Buchhaltung/Belege/113_Rueckfrage_Elektrozahlung.eml"
+    ]
+  },
+  {
+    "id": "KAUF04",
+    "thread": "K-01",
+    "date": "2029-01-03T10:17:00",
+    "format": "eml",
+    "folder": "10_Rechnungen_und_Buchhaltung/Alltagskorrespondenz",
+    "title": "LE-28-061: Rückfluss im Jahresauszug gefunden und zugeordnet",
+    "from_key": "buchhaltung",
+    "to_key": "elektro",
+    "cc_keys": [
+      "bauherr",
+      "projektsteuerung"
+    ],
+    "reply_to": "KAUF02",
+    "paragraphs": [
+      "Guten Morgen Frau Voß,",
+      "beim Durcharbeiten des jetzt vorliegenden Jahresauszugs kann ich Ihnen auch die Kontoseite unserer längeren Rückfrage bestätigen: Auf dem Projektkonto 882608 steht der Eingang von 89.250,00 EUR mit Valuta 15. Dezember 2028 und der Referenz LE-RET-20281215. Damit passt die Bankzeile zu Ihrer Ankündigung vom 13. Dezember. Der Auszug ist auf den 31. Dezember datiert; ich habe ihn heute mit den Unterlagen im Elektroordner abgeglichen.",
+      "Die zwei Ausgänge vom 15. und 19. Juni bleiben als tatsächlich erfolgte Zahlungen in der Liste stehen. Daneben ist nun der Rückfluss zugeordnet. Ich habe also nicht die zweite Juni-Zeile gelöscht. Sonst würde beim nächsten Blick auf den Kontoauszug wieder dieselbe Frage entstehen, und wir könnten die sechs Monate zwischen Auszahlung und Erstattung nicht mehr erklären.",
+      "Auch die Schlussrechnung LE-28-098 ist davon getrennt: Die Zahlung über 35.700,00 EUR steht mit Valuta 14. Oktober im Auszug. Die PV-Rechnung LE-PV-28-099 hat ihre eigene Zuordnung. Für diese Rückfrage brauchen wir keine weitere Rechnung und keine geänderte Leistungsaufstellung von Ihnen.",
+      "Der gelbe Zettel kommt jetzt aus dem laufenden Stapel in die abgeschlossene Korrespondenz. Danke, dass Sie die Suche bis zur Auflösung begleitet haben. Bei einer künftigen Rückfrage wäre uns eine frühe Nachricht aus Ihrer Buchhaltung lieb; dann müssen Sie nicht zwischen Montage und Büro als Briefträgerin einspringen.",
+      "Freundliche Grüße und einen guten Start ins neue Jahr\nErna Wagner"
+    ],
+    "references": [
+      "10_Rechnungen_und_Buchhaltung/Belege/111_Projektkonto_2028.pdf",
+      "10_Rechnungen_und_Buchhaltung/Belege/114_Elektro_Rueckzahlung.eml",
+      "10_Rechnungen_und_Buchhaltung/Belege/099_Elektro_PV_Schlussrechnung.pdf",
+      "10_Rechnungen_und_Buchhaltung/Belege/119_PV_Lieferung_Montage_Nullsteuersatz.pdf"
+    ]
+  },
+  {
+    "id": "KAUF05",
+    "thread": "K-02",
+    "date": "2028-10-16T08:46:00",
+    "format": "eml",
+    "folder": "10_Rechnungen_und_Buchhaltung/Alltagskorrespondenz",
+    "title": "Wohnung 07: Bitte IA-G-28-017 und die Schlussrechnung zusammenlassen",
+    "from_key": "buchhaltung",
+    "to_key": "ausbau",
+    "cc_keys": [
+      "bauherr"
+    ],
+    "reply_to": null,
+    "paragraphs": [
+      "Guten Morgen Herr Merz,",
+      "Ihre Unterlagen vom Sonntag sind angekommen. Ich habe die Rechnungskorrektur IA-G-28-017 zur Schlussrechnung IA-28-095 gelegt und außerdem die Vereinbarung zum Belag der Wohnung 07 daneben. Auf den ersten Blick sah die neue Datei in meinem Eingang wie eine weitere Rechnung aus. Beim Öffnen ist es eindeutig: Es geht um die Minderung von 2.500,00 EUR netto und 475,00 EUR Umsatzsteuer, zusammen 2.975,00 EUR.",
+      "Bitte stellen Sie uns wegen dieser Änderung keine vollständig neu nummerierte Schlussrechnung aus. In Ihrer Nachricht vom 15. Oktober haben Sie bereits beschrieben, dass die ursprüngliche Schlussrechnung bestehen bleibt und die Änderung gesondert nachvollzogen werden soll. Genau so lässt sich das hier ordentlich ablegen. Die E-Mail mit PDF und XML bekommt bei mir einen gemeinsamen Vorgang; zwei Dateiformate sind keine zwei Erstattungen.",
+      "Eine praktische Bitte habe ich noch: Falls Ihre Buchhaltung uns dazu schreibt, sollte sie IA-G-28-017 und Wohnung 07 nennen. Der kurze Betreff „Gutschrift Boden“ wäre bei den vielen Nachfragen aus den Wohnungen zu wenig. Die Vereinbarung betrifft die abweichende Belagsausführung in dieser einen Wohnung, und ich möchte sie nicht versehentlich beim gesamten Bodenbelagsauftrag einordnen.",
+      "Den in Ihrer Nachricht angekündigten Rückzahlungstermin 15. November habe ich als Wiedervorlage notiert. Einen Eingang auf unserem Konto bestätigt die Rechnungskorrektur natürlich noch nicht. Es wäre schön, wenn wir diese kleine Akte mit genau den vorhandenen Unterlagen abschließen könnten und sie nicht noch einmal in drei Versionen durch das Haus wandert.",
+      "Freundliche Grüße\nErna Wagner"
+    ],
+    "references": [
+      "10_Rechnungen_und_Buchhaltung/Belege/101_Innenausbau_Schlussrechnung.pdf",
+      "10_Rechnungen_und_Buchhaltung/Belege/106_Innenausbau_Rechnungskorrektur.pdf",
+      "10_Rechnungen_und_Buchhaltung/Belege/115_Innenausbau_Belagsvereinbarung.eml",
+      "08_Bauausfuehrung/Bestandsunterlagen/147_Belagsvereinbarung_Wohnung07.docx",
+      "10_Rechnungen_und_Buchhaltung/Rechnungseingang/2028-10-15_IA-G-28-017_Belegzugang.eml"
+    ]
+  },
+  {
+    "id": "KAUF06",
+    "thread": "K-02",
+    "date": "2028-10-17T17:22:00",
+    "format": "eml",
+    "folder": "10_Rechnungen_und_Buchhaltung/Alltagskorrespondenz",
+    "title": "AW: Wohnung 07: Es bleibt bei der einen Rechnungskorrektur",
+    "from_key": "ausbau",
+    "to_key": "buchhaltung",
+    "cc_keys": [
+      "bauherr"
+    ],
+    "reply_to": "KAUF05",
+    "paragraphs": [
+      "Guten Abend Frau Wagner,",
+      "ja, bitte lassen Sie die Unterlagen genau so zusammen. Von uns kommt dafür keine neue Schlussrechnung. IA-28-095 bleibt die Rechnung vom 30. September; IA-G-28-017 ist die einzelne Korrektur vom 15. Oktober dazu. Ich hatte auf meinem Ausdruck selbst nur „Belag 07“ an den Rand geschrieben. Für die Ablage bei Ihnen ist die volle Nummer natürlich besser als meine Baustellenkurzschrift.",
+      "Der Betrag von 2.975,00 EUR gehört zur Vereinbarung mit Frau Birk über das Material in Wohnung 07. In der Rechnungskorrektur sind die 2.500,00 EUR und die 475,00 EUR getrennt ausgewiesen. Es geht nicht um eine weitere Ausführung oder um eine zusätzliche Bestellung. Für die Zuordnung braucht Ihre Buchhaltung daher keine neue Mengenliste von mir.",
+      "Unsere Nachricht vom 15. Oktober nennt die Rückzahlung am 15. November auf das Projektkonto. Daran habe ich mit dieser Antwort nichts geändert. Wenn Sie vor diesem Datum wieder in den Vorgang sehen, finden Sie zunächst die Vereinbarung und den Korrekturbeleg, noch keinen von mir belegten Eingang bei Ihrer Bank.",
+      "Ich habe Ihren Hinweis zur Rechnungsnummer für unsere Rückfragen übernommen. Das Wort „Gutschrift“ benutze ich im Gespräch manchmal etwas locker; auf dem eigentlichen Beleg steht Rechnungskorrektur. Bitte nehmen Sie dessen Nummer, damit wir beide dieselbe Unterlage aufrufen. Die Sache soll nicht daran hängen bleiben, dass ich auf der Baustelle knapper schreibe als Sie im Büro ablegen können.",
+      "Viele Grüße\nJan Merz"
+    ],
+    "references": [
+      "10_Rechnungen_und_Buchhaltung/Belege/101_Innenausbau_Schlussrechnung.pdf",
+      "10_Rechnungen_und_Buchhaltung/Belege/106_Innenausbau_Rechnungskorrektur.pdf",
+      "10_Rechnungen_und_Buchhaltung/Belege/115_Innenausbau_Belagsvereinbarung.eml",
+      "08_Bauausfuehrung/Bestandsunterlagen/147_Belagsvereinbarung_Wohnung07.docx"
+    ]
+  },
+  {
+    "id": "KAUF07",
+    "thread": "K-02",
+    "date": "2028-11-06T14:35:00",
+    "format": "docx",
+    "folder": "10_Rechnungen_und_Buchhaltung/Alltagskorrespondenz",
+    "title": "Telefonnotiz: Herr Merz zur Wiedervorlage für die Belagskorrektur",
+    "from_key": "buchhaltung",
+    "to_key": "projektsteuerung",
+    "cc_keys": [],
+    "reply_to": "KAUF06",
+    "paragraphs": [
+      "Erna Wagner notierte das Telefonat mit Jan Merz am 6. November 2028 von 14:21 bis 14:29 Uhr. Sie hatte beim Sortieren der offenen Rückfragen den Vorgang Wohnung 07 erneut auf dem Tisch und wollte vermeiden, die Rechnungskorrektur mit einer gewöhnlichen Eingangsrechnung in den nächsten Stapel zu legen.",
+      "Herr Merz verwies auf IA-G-28-017 und seine E-Mail vom 15. Oktober. Die dort genannte Rückzahlung von 2.975,00 EUR für den 15. November bleibe die Auskunft, auf die er sich beziehe. Er erklärte keinen bereits erfolgten Eingang auf dem Konto der Steinbogen Wohnen GmbH. Frau Wagner vermerkte deshalb keinen Zahlungseingang, sondern ließ die bisherige Wiedervorlage stehen.",
+      "Im Gespräch wurden die beiden Unterlagen nochmals sprachlich getrennt. Die Rechnung IA-28-095 über die in der Rechnung ausgewiesene restliche Schlussforderung und die spätere Rechnungskorrektur haben unterschiedliche Nummern. Herr Merz nannte die Korrektur zunächst wieder kurz „die Gutschrift“. Auf Rückfrage bestätigte er, dass damit das bereits übersandte Dokument IA-G-28-017 gemeint sei. Es wurde kein weiterer Beleg angekündigt.",
+      "Frau Wagner bat darum, bei einer Rückfrage aus dem Büro des Unternehmens dieselbe Nummer zu verwenden. Sie erklärte, dass der Vorgang sonst zwischen den Unterlagen zur Wohnung 07 und dem allgemeinen Innenausbauordner hin und her wandere. Herr Merz konnte während des Gesprächs nicht in die Bankunterlagen seines Unternehmens sehen; aus seiner telefonischen Auskunft wird daher kein Zahlungsnachweis abgeleitet.",
+      "Die Notiz dient Herrn Weber zur Information über den Bearbeitungsstand. An Betrag, Vereinbarung und genanntem Termin wurde im Telefonat nichts geändert."
+    ],
+    "references": [
+      "10_Rechnungen_und_Buchhaltung/Belege/106_Innenausbau_Rechnungskorrektur.pdf",
+      "10_Rechnungen_und_Buchhaltung/Belege/115_Innenausbau_Belagsvereinbarung.eml",
+      "10_Rechnungen_und_Buchhaltung/Belege/101_Innenausbau_Schlussrechnung.pdf"
+    ]
+  },
+  {
+    "id": "KAUF08",
+    "thread": "K-02",
+    "date": "2029-01-04T11:08:00",
+    "format": "eml",
+    "folder": "10_Rechnungen_und_Buchhaltung/Alltagskorrespondenz",
+    "title": "IA-G-28-017: Erstattung der Wohnung 07 im Projektkonto abgeglichen",
+    "from_key": "buchhaltung",
+    "to_key": "ausbau",
+    "cc_keys": [
+      "bauherr"
+    ],
+    "reply_to": "KAUF06",
+    "paragraphs": [
+      "Guten Tag Herr Merz,",
+      "ich habe die Unterlagen zur Wohnung 07 heute mit dem Jahresauszug des Projektkontos abgeglichen. Darin steht die Erstattung über 2.975,00 EUR mit Valuta 15. November 2028 und der Referenz SW-106-20281115. Als Absender ist Innenraum Ausbau GmbH genannt, als Beleg IA-G-28-017. Damit kann ich den tatsächlich ausgewiesenen Eingang Ihrer Ankündigung vom 15. Oktober zuordnen.",
+      "Die Schlusszahlung zu IA-28-095 ist im selben Auszug mit 178.500,00 EUR und Valuta 14. Oktober enthalten. Beide Bewegungen bleiben in der Zahlungsliste sichtbar. Die spätere Erstattung verschwindet also nicht als handschriftlicher Abzug auf der alten Rechnung. Das ist beim ersten Durchblättern etwas mehr Papier, erspart uns aber die Frage, weshalb der ursprüngliche Rechnungsbetrag nicht zum Bankausgang passen sollte.",
+      "Zur Korrektur habe ich die Vereinbarung vom 15. Oktober und Ihre beiden Nachrichten genommen. Die Rechnungskorrektur betrifft weiterhin den dort bezeichneten Bodenbelag der Wohnung 07. Bei Rückfragen zum Material ist Frau Birk weiterhin die richtige Ansprechpartnerin. Bei mir ist jetzt der Zahlungsweg vollständig, und genau danach hatte Herr Weber zuletzt gefragt.",
+      "Sie brauchen uns wegen des Zahlungseingangs nichts mehr nachzusenden. Der Auszug vom 31. Dezember liegt nun in der Jahresablage, und meine Wiedervorlage ist geschlossen. Danke für Ihre Geduld mit den Nummern. „Belag 07“ hätte ich vermutlich auch noch gefunden, aber bei der nächsten Vertretung soll der Vorgang ohne telefonisches Rätselraten verständlich sein.",
+      "Freundliche Grüße\nErna Wagner"
+    ],
+    "references": [
+      "10_Rechnungen_und_Buchhaltung/Belege/111_Projektkonto_2028.pdf",
+      "10_Rechnungen_und_Buchhaltung/Belege/106_Innenausbau_Rechnungskorrektur.pdf",
+      "10_Rechnungen_und_Buchhaltung/Belege/101_Innenausbau_Schlussrechnung.pdf",
+      "10_Rechnungen_und_Buchhaltung/Belege/115_Innenausbau_Belagsvereinbarung.eml",
+      "08_Bauausfuehrung/Bestandsunterlagen/147_Belagsvereinbarung_Wohnung07.docx"
+    ]
+  },
+  {
+    "id": "KAUF09",
+    "thread": "K-03",
+    "date": "2028-03-06T10:03:00",
+    "format": "eml",
+    "folder": "10_Rechnungen_und_Buchhaltung/Alltagskorrespondenz",
+    "title": "SH-28-N01: Welche Unterlagen gehören in unseren Freigabeumlauf?",
+    "from_key": "buchhaltung",
+    "to_key": "rohbau",
+    "cc_keys": [
+      "projektsteuerung"
+    ],
+    "reply_to": null,
+    "paragraphs": [
+      "Guten Morgen Herr Wendt,",
+      "die Rechnung SH-28-N01 vom 5. März ist mit PDF und XML bei mir eingegangen. Beim Ablegen habe ich drei Bezeichnungen vor mir: Nachtrag 01, SH-N01 im Rechnungstext und SH-28-N01 als Rechnungsnummer. Auf meinem eigenen Arbeitszettel steht bisher nur „Filterpackung“, und das ist für die Weitergabe an die Vertretung zu dünn. Ich finde mich noch darin zurecht, aber Frau Birk möchte die Unterlagen auch ohne meine Randnotizen durchsehen können.",
+      "Bitte bestätigen Sie mir kurz, dass Ihre Rechnung über 21.420,00 EUR zu dem Angebot vom 4. Februar und der Beauftragung durch Frau Birk vom 5. Februar gehört. Das gemeinsame Aufmaß vom 11. Februar habe ich im Baustellenordner gefunden. Ich möchte diese vorhandenen Unterlagen miteinander verbinden, nicht noch einmal eine neue Aufstellung von Ihnen anfordern.",
+      "Beim Durchsehen ist mir außerdem die Zeile mit 57 Stunden aufgefallen. Im Aufmaß steht dazu „3 Mitarbeiter × 19 Stunden“, in der Rechnung nur die Gesamtstundenzahl. Ich kann das rechnerisch zusammenbringen; mir fehlt lediglich die eindeutige Zuordnung, damit niemand die Stunden später für einen weiteren, neben dem Nachtrag abzurechnenden Zettel hält.",
+      "Das ist eine Ablagefrage aus unserer Buchhaltung. Eine technische Bewertung der Arbeiten nehme ich damit nicht vor. Bitte antworten Sie möglichst in dieser Nachricht, statt eine weitere Datei „Nachtrag neu“ zu schicken. Sonst gewinnt unser Ordner wieder eine Version und meine Rückfrage bleibt trotzdem offen.",
+      "Freundliche Grüße\nErna Wagner"
+    ],
+    "references": [
+      "10_Rechnungen_und_Buchhaltung/Belege/105_Rohbau_Nachtrag_Draenpackung.pdf",
+      "10_Rechnungen_und_Buchhaltung/Rechnungseingang/2028-03-05_SH-28-N01_Belegzugang.eml",
+      "08_Bauausfuehrung/Bestandsunterlagen/053_Nachtragsangebot_Filterpackung.pdf",
+      "08_Bauausfuehrung/Bestandsunterlagen/054_Nachtragsauftrag_01.eml",
+      "08_Bauausfuehrung/Bestandsunterlagen/055_Gemeinsames_Aufmass_Nachtrag.pdf"
+    ]
+  },
+  {
+    "id": "KAUF10",
+    "thread": "K-03",
+    "date": "2028-03-07T16:11:00",
+    "format": "eml",
+    "folder": "10_Rechnungen_und_Buchhaltung/Alltagskorrespondenz",
+    "title": "AW: SH-28-N01: Angebot, Auftrag und Aufmaß gehören zusammen",
+    "from_key": "rohbau",
+    "to_key": "buchhaltung",
+    "cc_keys": [
+      "projektsteuerung"
+    ],
+    "reply_to": "KAUF09",
+    "paragraphs": [
+      "Guten Tag Frau Wagner,",
+      "Sie haben die richtigen Unterlagen herausgesucht. Unsere Rechnung SH-28-N01 gehört zu dem Angebot vom 4. Februar, zum Auftrag von Frau Birk vom 5. Februar und zum gemeinsamen Aufmaß vom 11. Februar. „Nachtrag 01“ bezeichnet den Vorgang auf der Baustelle; SH-28-N01 ist die Nummer der Rechnung vom 5. März. Daraus werden keine zwei Nachträge.",
+      "Die 57 Stunden sind bereits in den 18.000,00 EUR netto enthalten. In unserer Rechnung stehen dafür 57 Stunden zu 50,00 EUR, also 2.850,00 EUR netto. Das Aufmaß führt denselben Gesamtansatz als drei Mitarbeiter mit jeweils 19 Stunden auf. Ich habe für diese Stunden keine zusätzliche Rechnung angekündigt. Es wäre auch für meine Ablage ungünstig, wenn dieselbe Leistung einmal mit dem Mengenblatt und ein zweites Mal als eigener Stundenposten herumgereicht würde.",
+      "Die weiteren Ansätze sind der zusätzliche Aushub, die Filterpackung und die Dränleitung. Maßgeblich bleibt der beschriebene Pauschalumfang des Auftrags; die im Aufmaß festgehaltenen Mengen erklären die ausgeführten Arbeiten. Die Rechnung endet bei 21.420,00 EUR einschließlich der dort ausgewiesenen Umsatzsteuer.",
+      "Eine neue Datei sende ich Ihnen deshalb nicht. Nehmen Sie bitte die vorhandene Rechnung und das vorhandene Aufmaß. In meiner Mappe heißen solche Dinge auch schon einmal nur „Filter“, solange ich selbst davor sitze. Sobald jemand anderes suchen muss, ist Ihre längere Bezeichnung deutlich brauchbarer.",
+      "Viele Grüße\nTimo Wendt"
+    ],
+    "references": [
+      "10_Rechnungen_und_Buchhaltung/Belege/105_Rohbau_Nachtrag_Draenpackung.pdf",
+      "08_Bauausfuehrung/Bestandsunterlagen/053_Nachtragsangebot_Filterpackung.pdf",
+      "08_Bauausfuehrung/Bestandsunterlagen/054_Nachtragsauftrag_01.eml",
+      "08_Bauausfuehrung/Bestandsunterlagen/055_Gemeinsames_Aufmass_Nachtrag.pdf"
+    ]
+  },
+  {
+    "id": "KAUF11",
+    "thread": "K-03",
+    "date": "2028-03-08T09:48:00",
+    "format": "docx",
+    "folder": "10_Rechnungen_und_Buchhaltung/Alltagskorrespondenz",
+    "title": "Telefonnotiz: Fundstellen für Rechnung SH-28-N01 mit Hans Müller abgeglichen",
+    "from_key": "buchhaltung",
+    "to_key": "projektsteuerung",
+    "cc_keys": [],
+    "reply_to": "KAUF10",
+    "paragraphs": [
+      "Erna Wagner hielt das Telefonat mit Hans Müller am 8. März 2028 von 09:31 bis 09:40 Uhr fest. Nach der Antwort von Herrn Wendt sollte geklärt werden, wo die Unterlagen zum Nachtrag in der Projektablage auffindbar sind. Frau Wagner hatte die Rechnung im kaufmännischen Eingang, das gemeinsame Aufmaß aber im Ordner der Bauausführung gefunden.",
+      "Beide sahen die bereits vorhandenen Dateien durch. Die Rechnung SH-28-N01 vom 5. März verweist auf die Beauftragung vom 5. Februar und das Aufmaß vom 11. Februar. Das Aufmaß ist von Nora Feld und Timo Wendt gezeichnet; der technische Befund ist Dr. Ute Venn zugeordnet. Herr Müller nannte Frau Feld als Ansprechpartnerin, falls bei der weiteren Bearbeitung Fragen zum Inhalt des Aufmaßes entstehen sollten.",
+      "Frau Wagner las die vier Ansätze vor: 60 Kubikmeter Aushub, 45 Kubikmeter Filtermaterial, 30 Meter Dränleitung und 57 Stunden. Für die Stunden enthält das Aufmaß die Rechnung drei Mitarbeiter mal 19 Stunden. Die Antwort von Herrn Wendt vom Vortag ordnet diesen Ansatz ausdrücklich der vorhandenen Nachtragsrechnung zu. Ein zusätzliches Stundenblatt mit einem weiteren Zahlbetrag wurde im Gespräch weder vorgelegt noch angefordert.",
+      "Frau Wagner ergänzt auf ihrem Arbeitszettel die volle Rechnungsnummer und die Fundstelle des Aufmaßes. Herr Weber erhält die Notiz, damit er bei einer Rückfrage dieselben Unterlagen aufruft. Eine weitere Rechnungskopie soll dafür nicht angefordert werden; die vorhandene Datei ist lesbar und lässt sich anhand ihrer Nummer wiederfinden.",
+      "Das Gespräch betraf die Zusammenstellung der vorhandenen Belege. Es enthielt weder eine neue Beauftragung noch eine erneute technische Prüfung der verdeckten Arbeiten."
+    ],
+    "references": [
+      "10_Rechnungen_und_Buchhaltung/Belege/105_Rohbau_Nachtrag_Draenpackung.pdf",
+      "08_Bauausfuehrung/Bestandsunterlagen/053_Nachtragsangebot_Filterpackung.pdf",
+      "08_Bauausfuehrung/Bestandsunterlagen/054_Nachtragsauftrag_01.eml",
+      "08_Bauausfuehrung/Bestandsunterlagen/055_Gemeinsames_Aufmass_Nachtrag.pdf"
+    ]
+  },
+  {
+    "id": "KAUF12",
+    "thread": "K-03",
+    "date": "2028-03-09T12:06:00",
+    "format": "eml",
+    "folder": "10_Rechnungen_und_Buchhaltung/Alltagskorrespondenz",
+    "title": "SH-28-N01 ist jetzt eindeutig abgelegt – keine weitere Fassung nötig",
+    "from_key": "buchhaltung",
+    "to_key": "rohbau",
+    "cc_keys": [
+      "projektsteuerung"
+    ],
+    "reply_to": "KAUF10",
+    "paragraphs": [
+      "Guten Tag Herr Wendt,",
+      "danke für Ihre Antwort. Ich habe den Vorgang jetzt so zusammengelegt, dass auch jemand ohne Baustellengedächtnis damit arbeiten kann: Die Rechnung heißt SH-28-N01, das zugehörige Angebot stammt vom 4. Februar, der Auftrag von Frau Birk vom 5. Februar und das gemeinsame Aufmaß vom 11. Februar. Auf meinem Zettel steht inzwischen mehr als nur „Filterpackung“.",
+      "Mit Herrn Müller habe ich gestern die Fundstellen in unserer Ablage durchgesehen. Das Aufmaß bleibt bei den Bauunterlagen erhalten; in der kaufmännischen Ablage steht der Verweis darauf. Ich habe es nicht unter einem neuen Datum noch einmal abgelegt. Sonst sähe die jüngere Kopie beim nächsten Durchgang womöglich wie eine neue Feststellung aus, obwohl nur ich später danach gesucht habe.",
+      "Die Rechnung erfasse ich als einen Beleg über 21.420,00 EUR. Die 57 Stunden zu 50,00 EUR sind eine der dort aufgeführten Positionen und kein weiterer Zahlbetrag neben dieser Summe. PDF und XML aus Ihrer Nachricht vom 5. März gehören ebenfalls zusammen. Eine zusätzliche Fassung oder eine neue Nummer benötigen wir für die geklärte Zuordnung nicht.",
+      "Damit ist meine Rückfrage zur Ablage erledigt. Einen Zahlungseingang bei Ihnen kann ich mit dieser Nachricht nicht bestätigen; es ging hier zunächst um die Unterlagen, die vor uns liegen. Wenn Ihre Buchhaltung nachfragt, kann sie sich auf SH-28-N01 beziehen. Ich finde den Vorgang jetzt auch dann, wenn der gelbe Zettel irgendwann abfällt.",
+      "Freundliche Grüße\nErna Wagner"
+    ],
+    "references": [
+      "10_Rechnungen_und_Buchhaltung/Belege/105_Rohbau_Nachtrag_Draenpackung.pdf",
+      "10_Rechnungen_und_Buchhaltung/Rechnungseingang/2028-03-05_SH-28-N01_Belegzugang.eml",
+      "08_Bauausfuehrung/Bestandsunterlagen/053_Nachtragsangebot_Filterpackung.pdf",
+      "08_Bauausfuehrung/Bestandsunterlagen/054_Nachtragsauftrag_01.eml",
+      "08_Bauausfuehrung/Bestandsunterlagen/055_Gemeinsames_Aufmass_Nachtrag.pdf"
+    ]
+  }
+]

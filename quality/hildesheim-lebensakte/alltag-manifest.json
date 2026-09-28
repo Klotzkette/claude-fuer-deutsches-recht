@@ -1,0 +1,548 @@
+[
+  {
+    "id": "KAUF09",
+    "thread": "K-03",
+    "date": "2028-03-06T10:03:00",
+    "source": "10_Rechnungen_und_Buchhaltung/Alltagskorrespondenz/2028-03-06_KAUF09_SH_28_N01_Welche_Unterlagen_gehoeren_in_unseren_Freigabeumlauf.eml",
+    "sha256": "ee5e122b3fdf890de690423a1e5b023561162c3bb515b444d45f0939cafdd857",
+    "reply_to": null,
+    "references": [
+      "10_Rechnungen_und_Buchhaltung/Belege/105_Rohbau_Nachtrag_Draenpackung.pdf",
+      "10_Rechnungen_und_Buchhaltung/Rechnungseingang/2028-03-05_SH-28-N01_Belegzugang.eml",
+      "08_Bauausfuehrung/Bestandsunterlagen/053_Nachtragsangebot_Filterpackung.pdf",
+      "08_Bauausfuehrung/Bestandsunterlagen/054_Nachtragsauftrag_01.eml",
+      "08_Bauausfuehrung/Bestandsunterlagen/055_Gemeinsames_Aufmass_Nachtrag.pdf"
+    ]
+  },
+  {
+    "id": "KAUF10",
+    "thread": "K-03",
+    "date": "2028-03-07T16:11:00",
+    "source": "10_Rechnungen_und_Buchhaltung/Alltagskorrespondenz/2028-03-07_KAUF10_AW_SH_28_N01_Angebot_Auftrag_und_Aufmass_gehoeren_zusammen.eml",
+    "sha256": "a1e6c2154997919f716b2bc0e8a74c94374a8b22f57502d25e06ec714b3cee25",
+    "reply_to": "KAUF09",
+    "references": [
+      "10_Rechnungen_und_Buchhaltung/Belege/105_Rohbau_Nachtrag_Draenpackung.pdf",
+      "08_Bauausfuehrung/Bestandsunterlagen/053_Nachtragsangebot_Filterpackung.pdf",
+      "08_Bauausfuehrung/Bestandsunterlagen/054_Nachtragsauftrag_01.eml",
+      "08_Bauausfuehrung/Bestandsunterlagen/055_Gemeinsames_Aufmass_Nachtrag.pdf"
+    ]
+  },
+  {
+    "id": "KAUF11",
+    "thread": "K-03",
+    "date": "2028-03-08T09:48:00",
+    "source": "10_Rechnungen_und_Buchhaltung/Alltagskorrespondenz/2028-03-08_KAUF11_Telefonnotiz_Fundstellen_fuer_Rechnung_SH_28_N01_mit_Hans_Mueller_abgegl.docx",
+    "sha256": "5052f9e55271f1ef0e05283ab5a0a001173a4dae787d37f789ede50782aaaa31",
+    "reply_to": "KAUF10",
+    "references": [
+      "10_Rechnungen_und_Buchhaltung/Belege/105_Rohbau_Nachtrag_Draenpackung.pdf",
+      "08_Bauausfuehrung/Bestandsunterlagen/053_Nachtragsangebot_Filterpackung.pdf",
+      "08_Bauausfuehrung/Bestandsunterlagen/054_Nachtragsauftrag_01.eml",
+      "08_Bauausfuehrung/Bestandsunterlagen/055_Gemeinsames_Aufmass_Nachtrag.pdf"
+    ]
+  },
+  {
+    "id": "KAUF12",
+    "thread": "K-03",
+    "date": "2028-03-09T12:06:00",
+    "source": "10_Rechnungen_und_Buchhaltung/Alltagskorrespondenz/2028-03-09_KAUF12_SH_28_N01_ist_jetzt_eindeutig_abgelegt_keine_weitere_Fassung_noetig.eml",
+    "sha256": "736bf6cb1294ba0dc2e373bbccd4484e0b95c4d04920fe0b66e62f1b615ce95f",
+    "reply_to": "KAUF10",
+    "references": [
+      "10_Rechnungen_und_Buchhaltung/Belege/105_Rohbau_Nachtrag_Draenpackung.pdf",
+      "10_Rechnungen_und_Buchhaltung/Rechnungseingang/2028-03-05_SH-28-N01_Belegzugang.eml",
+      "08_Bauausfuehrung/Bestandsunterlagen/053_Nachtragsangebot_Filterpackung.pdf",
+      "08_Bauausfuehrung/Bestandsunterlagen/054_Nachtragsauftrag_01.eml",
+      "08_Bauausfuehrung/Bestandsunterlagen/055_Gemeinsames_Aufmass_Nachtrag.pdf"
+    ]
+  },
+  {
+    "id": "BAU01",
+    "thread": "B-01",
+    "date": "2028-05-04T15:42:00",
+    "source": "08_Bauausfuehrung/05_Alltagskorrespondenz/2028-05-04_BAU01_Fenster_fuer_WE_07_und_08_Anlieferung_am_Montag_abstimmen.eml",
+    "sha256": "79cf4a9edf35316bcc09d6f0ef49c0d1f0ca31b69025c29c79e03d033242ce4c",
+    "reply_to": null,
+    "references": [
+      "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/LB-016_2028-04-24.docx"
+    ]
+  },
+  {
+    "id": "BAU02",
+    "thread": "B-01",
+    "date": "2028-05-05T09:18:00",
+    "source": "08_Bauausfuehrung/05_Alltagskorrespondenz/2028-05-05_BAU02_AW_Fenster_fuer_WE_07_und_08_bitte_erst_ab_9_Uhr.eml",
+    "sha256": "c1d993c0472c8b1638f1d9024932da2dc50b5eb5e13c91dad0f8bb2c289a17be",
+    "reply_to": "BAU01",
+    "references": [
+      "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/LB-016_2028-04-24.docx"
+    ]
+  },
+  {
+    "id": "BAU03",
+    "thread": "B-01",
+    "date": "2028-05-05T14:35:00",
+    "source": "08_Bauausfuehrung/05_Alltagskorrespondenz/2028-05-05_BAU03_Telefonvermerk_Reihenfolge_der_Fensteranlieferung_am_8_Mai.docx",
+    "sha256": "0c022f6be32656ffc68488a46301736adbb643e5dfdc17482ba271ec14b62e40",
+    "reply_to": "BAU02",
+    "references": [
+      "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/LB-016_2028-04-24.docx"
+    ]
+  },
+  {
+    "id": "BAU04",
+    "thread": "B-01",
+    "date": "2028-05-08T16:24:00",
+    "source": "08_Bauausfuehrung/05_Alltagskorrespondenz/2028-05-08_BAU04_AW_Fensterlieferung_eingegangen_Menge_und_Tagesstand_getrennt.eml",
+    "sha256": "77485dfcf139190d11ddbd5080472faec4e9b884b0daeee9b2ffb48aa47fb99d",
+    "reply_to": "BAU03",
+    "references": [
+      "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/LB-017_2028-05-08.docx",
+      "08_Bauausfuehrung/01_Bautagebuch/2028/BTB_2028-05.docx"
+    ]
+  },
+  {
+    "id": "BAU05",
+    "thread": "B-02",
+    "date": "2028-06-28T13:16:00",
+    "source": "08_Bauausfuehrung/05_Alltagskorrespondenz/2028-06-28_BAU05_WE_04_Revisionsoeffnung_vor_Beplankung_gemeinsam_ansehen.eml",
+    "sha256": "d1b8e890849a726583042079d46a49523d0a56f07998b033dbcc9a27a37c1b5d",
+    "reply_to": null,
+    "references": [
+      "08_Bauausfuehrung/03_Maengel/M-005_Befund_2028-06-28.docx"
+    ]
+  },
+  {
+    "id": "BAU06",
+    "thread": "B-02",
+    "date": "2028-06-29T08:47:00",
+    "source": "08_Bauausfuehrung/05_Alltagskorrespondenz/2028-06-29_BAU06_AW_WE_04_Profil_versetzen_Zugang_vorher_eindeutig_festlegen.eml",
+    "sha256": "20b178ca807e3dc7eca1282046a9d22f103126729015c7f47445a86531510cfe",
+    "reply_to": "BAU05",
+    "references": [
+      "08_Bauausfuehrung/03_Maengel/M-005_Befund_2028-06-28.docx"
+    ]
+  },
+  {
+    "id": "BAU07",
+    "thread": "B-02",
+    "date": "2028-06-29T14:08:00",
+    "source": "08_Bauausfuehrung/05_Alltagskorrespondenz/2028-06-29_BAU07_Telefonvermerk_Armaturenzugang_WE_04_und_Kontrolle_vor_dem_Schliessen.docx",
+    "sha256": "e5cf229032ff0a22f863cd57b520e9be15f59cef6f5cac5bcaa0aa2ab6866f3f",
+    "reply_to": "BAU06",
+    "references": [
+      "08_Bauausfuehrung/03_Maengel/M-005_Befund_2028-06-28.docx"
+    ]
+  },
+  {
+    "id": "BAU08",
+    "thread": "B-02",
+    "date": "2028-06-30T16:18:00",
+    "source": "08_Bauausfuehrung/05_Alltagskorrespondenz/2028-06-30_BAU08_AW_WE_04_Nachkontrolle_M_005_heute_dokumentiert.eml",
+    "sha256": "fbda92be2551cf698c9daf4c1445e6ab941e40abdef433fde8fe25d196cdd1b1",
+    "reply_to": "BAU07",
+    "references": [
+      "08_Bauausfuehrung/03_Maengel/M-005_Befund_2028-06-28.docx",
+      "08_Bauausfuehrung/03_Maengel/M-005_Nachkontrolle_2028-06-30.docx",
+      "08_Bauausfuehrung/01_Bautagebuch/2028/BTB_2028-06.docx"
+    ]
+  },
+  {
+    "id": "BAU09",
+    "thread": "B-03",
+    "date": "2028-08-09T11:26:00",
+    "source": "08_Bauausfuehrung/05_Alltagskorrespondenz/2028-08-09_BAU09_PV_Anlieferung_am_14_August_Platz_und_Reihenfolge_mit_Waermefluss_klaere.eml",
+    "sha256": "2f009543bbf5a0054bef32ec6909ba451667fdb2aa11559ed412ef37874a0488",
+    "reply_to": null,
+    "references": [
+      "05_Ausfuehrungsplanung/027_Koordinierter_Planstand_R01.pdf",
+      "05_Ausfuehrungsplanung/028_Flaechen_Abstaende_Aussenanlagen.pdf"
+    ]
+  },
+  {
+    "id": "BAU10",
+    "thread": "B-03",
+    "date": "2028-08-10T15:07:00",
+    "source": "08_Bauausfuehrung/05_Alltagskorrespondenz/2028-08-10_BAU10_AW_Montag_kein_Ausweichen_ueber_die_Gartenflaeche.eml",
+    "sha256": "b208f56e45968178996d8b220f21a56585d26359da946ce19909cdc5c23268dc",
+    "reply_to": "BAU09",
+    "references": [
+      "05_Ausfuehrungsplanung/028_Flaechen_Abstaende_Aussenanlagen.pdf"
+    ]
+  },
+  {
+    "id": "BAU11",
+    "thread": "B-03",
+    "date": "2028-08-11T13:52:00",
+    "source": "08_Bauausfuehrung/05_Alltagskorrespondenz/2028-08-11_BAU11_Besprechungsnotiz_Anlieferfolge_am_Montag_und_Schutz_der_Aussenflaechen.docx",
+    "sha256": "9720ea73e3ed23bf54ebbc128a9886fe32ac9890a7f3c183eb12114d25d2ba45",
+    "reply_to": "BAU10",
+    "references": [
+      "05_Ausfuehrungsplanung/027_Koordinierter_Planstand_R01.pdf",
+      "05_Ausfuehrungsplanung/028_Flaechen_Abstaende_Aussenanlagen.pdf"
+    ]
+  },
+  {
+    "id": "BAU12",
+    "thread": "B-03",
+    "date": "2028-08-14T16:36:00",
+    "source": "08_Bauausfuehrung/05_Alltagskorrespondenz/2028-08-14_BAU12_AW_Anlieferungen_heute_erfolgt_Belege_LB_026_und_LB_027.eml",
+    "sha256": "a2550b38387528109f69f6fb614a0c9949344c47903897e3004db8d5155998ad",
+    "reply_to": "BAU11",
+    "references": [
+      "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/LB-026_2028-08-14.docx",
+      "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/LB-027_2028-08-14.docx",
+      "08_Bauausfuehrung/01_Bautagebuch/2028/BTB_2028-08.docx"
+    ]
+  },
+  {
+    "id": "BAU13",
+    "thread": "B-04",
+    "date": "2028-09-04T08:22:00",
+    "source": "08_Bauausfuehrung/05_Alltagskorrespondenz/2028-09-04_BAU13_Pruefwoche_Zugaenge_Unterlagen_und_Einweisung_auseinanderhalten.eml",
+    "sha256": "829deec56c549c0665f373f87f2573fe91ab3597c5725553f6ed575c90c98173",
+    "reply_to": null,
+    "references": [
+      "06_Leistungsverzeichnisse/Detail-LV/LV_03_hls_Detail.docx",
+      "06_Leistungsverzeichnisse/Detail-LV/LV_04_elektro_Detail.docx"
+    ]
+  },
+  {
+    "id": "BAU14",
+    "thread": "B-04",
+    "date": "2028-09-05T11:14:00",
+    "source": "08_Bauausfuehrung/05_Alltagskorrespondenz/2028-09-05_BAU14_AW_Pruefwoche_Elektrobericht_erst_nach_der_Pruefung_am_Donnerstag.eml",
+    "sha256": "1cbdf8bb64d14ba4c2a790fe92a71e5409e703a7f373216f4ac7980b7d575b2c",
+    "reply_to": "BAU13",
+    "references": [
+      "06_Leistungsverzeichnisse/Detail-LV/LV_04_elektro_Detail.docx"
+    ]
+  },
+  {
+    "id": "BAU15",
+    "thread": "B-04",
+    "date": "2028-09-06T16:42:00",
+    "source": "08_Bauausfuehrung/05_Alltagskorrespondenz/2028-09-06_BAU15_Telefonvermerk_HLS_Pruefstand_und_Betriebsorganisation_bis_zum_Einzug.docx",
+    "sha256": "bda25a60c9cf27eac2a8035e3881bda2885f88013f3e8461d76ee46f37067b86",
+    "reply_to": "BAU14",
+    "references": [
+      "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/Bestandsnachweise/163_HLS_Einstellung_und_Pruefung.pdf",
+      "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/Bestandsnachweise/164_Lueftung_Messblatt.pdf"
+    ]
+  },
+  {
+    "id": "BAU16",
+    "thread": "B-04",
+    "date": "2028-09-08T16:48:00",
+    "source": "08_Bauausfuehrung/05_Alltagskorrespondenz/2028-09-08_BAU16_AW_Technische_Unterlagen_heute_gemeinsam_geordnet.eml",
+    "sha256": "85072e950a28a4bf1c46516c4322d6f89cda7e7a693c5ddb633f3933ecfb446d",
+    "reply_to": "BAU15",
+    "references": [
+      "08_Bauausfuehrung/Bestandsunterlagen/056_Gesamtinbetriebnahme_Technik.pdf",
+      "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/Bestandsnachweise/163_HLS_Einstellung_und_Pruefung.pdf",
+      "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/Bestandsnachweise/164_Lueftung_Messblatt.pdf",
+      "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/Bestandsnachweise/165_Elektro_Pruefbericht.pdf"
+    ]
+  },
+  {
+    "id": "MENSCH05",
+    "thread": "M-02",
+    "date": "2028-09-14T09:12:00",
+    "source": "11_Vermietung/Alltagskorrespondenz/2028-09-14_MENSCH05_Wohnung_02_Welche_Beschriftung_wuenschen_Sie_an_Klingel_und_Briefkasten.eml",
+    "sha256": "4a200b539a9f4eb630fe2370bdb981fea31d11b9d35d2ce18fb7fb0c55045140",
+    "reply_to": null,
+    "references": [
+      "11_Vermietung/131_Mietvertrag_WE02.docx"
+    ]
+  },
+  {
+    "id": "MENSCH06",
+    "thread": "M-02",
+    "date": "2028-09-15T13:48:00",
+    "source": "11_Vermietung/Alltagskorrespondenz/2028-09-15_MENSCH06_AW_Bitte_Aydin_und_danke_fuer_die_Erklaerung_zur_02.eml",
+    "sha256": "04309bda5b23463c636da6b9a4d4a635b792d5a72385931e22f9457540d8da6d",
+    "reply_to": "MENSCH05",
+    "references": [
+      "11_Vermietung/131_Mietvertrag_WE02.docx"
+    ]
+  },
+  {
+    "id": "MENSCH01",
+    "thread": "M-01",
+    "date": "2028-09-18T08:42:00",
+    "source": "00_Projektsteuerung/Alltagskorrespondenz/2028-09-18_MENSCH01_Unsere_Einfahrt_neben_dem_Neubau_wen_sprechen_wir_beim_Einzug_an.eml",
+    "sha256": "75f73a679cdbdd80b37104d3953a44c5cb7e46bb78656adf7c7a77ae46001e29",
+    "reply_to": null,
+    "references": [
+      "01_Grundlagen_und_Erwerb/005_Lageplan_LP01.pdf"
+    ]
+  },
+  {
+    "id": "MENSCH07",
+    "thread": "M-02",
+    "date": "2028-09-18T15:06:00",
+    "source": "11_Vermietung/Alltagskorrespondenz/2028-09-18_MENSCH07_Beschriftung_Aydin_ist_notiert_Klingelprobe_bei_der_Uebergabe.eml",
+    "sha256": "438576b1b342569a998b42f245c63d1a1884dc923874f1e1dfb26b8848c8596b",
+    "reply_to": "MENSCH06",
+    "references": [
+      "11_Vermietung/131_Mietvertrag_WE02.docx"
+    ]
+  },
+  {
+    "id": "MENSCH09",
+    "thread": "M-03",
+    "date": "2028-09-18T20:17:00",
+    "source": "11_Vermietung/Alltagskorrespondenz/2028-09-18_MENSCH09_Wohnung_08_Uebergabe_am_Freitag_Moebel_erst_am_Montag.eml",
+    "sha256": "7e0229989aa7608954e8b70863126a378096f6842d821d71e4698f058c023a7b",
+    "reply_to": null,
+    "references": [
+      "11_Vermietung/137_Mietvertrag_WE08.docx"
+    ]
+  },
+  {
+    "id": "MENSCH10",
+    "thread": "M-03",
+    "date": "2028-09-19T10:34:00",
+    "source": "11_Vermietung/Alltagskorrespondenz/2028-09-19_MENSCH10_AW_Wohnung_08_Freitag_16_Uhr_ist_vorgemerkt.eml",
+    "sha256": "17e905ba491555d024144cc7070a21eaf135a14d2f1b10e81fbed94d7d389269",
+    "reply_to": "MENSCH09",
+    "references": [
+      "11_Vermietung/137_Mietvertrag_WE08.docx",
+      "01_Grundlagen_und_Erwerb/005_Lageplan_LP01.pdf"
+    ]
+  },
+  {
+    "id": "MENSCH02",
+    "thread": "M-01",
+    "date": "2028-09-19T11:18:00",
+    "source": "00_Projektsteuerung/Alltagskorrespondenz/2028-09-19_MENSCH02_AW_Einfahrt_neben_Nummer_18_und_Ansprechpartner_zum_Einzug.eml",
+    "sha256": "3284cc877465837f99c3fcd30b445663739779dc339aa4ffe207050095435316",
+    "reply_to": "MENSCH01",
+    "references": [
+      "01_Grundlagen_und_Erwerb/005_Lageplan_LP01.pdf",
+      "11_Vermietung/137_Mietvertrag_WE08.docx"
+    ]
+  },
+  {
+    "id": "MENSCH03",
+    "thread": "M-01",
+    "date": "2028-09-20T17:26:00",
+    "source": "00_Projektsteuerung/Alltagskorrespondenz/2028-09-20_MENSCH03_Nach_unserem_Gespraech_am_Tor_Nummer_16_und_Montagvormittag.eml",
+    "sha256": "44d68a5c080635b8992763a35221538d8f3c9a87d2d7071348d82b2f2b1b9358",
+    "reply_to": "MENSCH02",
+    "references": [
+      "01_Grundlagen_und_Erwerb/005_Lageplan_LP01.pdf"
+    ]
+  },
+  {
+    "id": "KAUF01",
+    "thread": "K-01",
+    "date": "2028-09-27T09:12:00",
+    "source": "10_Rechnungen_und_Buchhaltung/Alltagskorrespondenz/2028-09-27_KAUF01_LE_28_061_Ich_bekomme_die_beiden_Juni_Zahlungen_nicht_zusammen.eml",
+    "sha256": "1060bad5939cb224aed6fc660dc6a8ccc32402b319c0aa715d0e18280bb9ec57",
+    "reply_to": null,
+    "references": [
+      "10_Rechnungen_und_Buchhaltung/Belege/098_Elektro_Abschlag.pdf",
+      "10_Rechnungen_und_Buchhaltung/Belege/113_Rueckfrage_Elektrozahlung.eml",
+      "10_Rechnungen_und_Buchhaltung/Rechnungseingang/2028-06-01_LE-28-061_Belegzugang.eml"
+    ]
+  },
+  {
+    "id": "KAUF02",
+    "thread": "K-01",
+    "date": "2028-09-28T16:38:00",
+    "source": "10_Rechnungen_und_Buchhaltung/Alltagskorrespondenz/2028-09-28_KAUF02_AW_LE_28_061_Die_Suche_laeuft_bei_uns_ueber_das_Debitorenkonto.eml",
+    "sha256": "18fd7143c9fe704bda9e1d2f86ea5b34733b7ba3f72887b11e872c5221abe9f2",
+    "reply_to": "KAUF01",
+    "references": [
+      "10_Rechnungen_und_Buchhaltung/Belege/098_Elektro_Abschlag.pdf",
+      "10_Rechnungen_und_Buchhaltung/Belege/113_Rueckfrage_Elektrozahlung.eml",
+      "10_Rechnungen_und_Buchhaltung/Rechnungseingang/2028-06-01_LE-28-061_Belegzugang.eml"
+    ]
+  },
+  {
+    "id": "MENSCH08",
+    "thread": "M-02",
+    "date": "2028-09-29T18:14:00",
+    "source": "11_Vermietung/Alltagskorrespondenz/2028-09-29_MENSCH08_Wohnung_02_Namen_und_Briefkastenschluessel_heute_geprueft.eml",
+    "sha256": "827c45c15529e32bf72d0036b221d84cbf1e2e34ce01a8fce78f3d8971d355d3",
+    "reply_to": "MENSCH07",
+    "references": [
+      "11_Vermietung/131_Mietvertrag_WE02.docx",
+      "11_Vermietung/139_Uebergabe_WE02.pdf"
+    ]
+  },
+  {
+    "id": "MENSCH11",
+    "thread": "M-03",
+    "date": "2028-09-29T19:08:00",
+    "source": "11_Vermietung/Alltagskorrespondenz/2028-09-29_MENSCH11_Danke_fuer_die_Uebergabe_Montag_bleibt_es_bei_etwa_neun_Uhr.eml",
+    "sha256": "103177f1e6c7e73e4c33438e10611533a66e94760e96c912bc0d1de4803086b3",
+    "reply_to": "MENSCH10",
+    "references": [
+      "11_Vermietung/145_Uebergabe_WE08.pdf",
+      "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/Bestandsnachweise/169_Zaehlerregister_Bezug.csv"
+    ]
+  },
+  {
+    "id": "MENSCH04",
+    "thread": "M-01",
+    "date": "2028-10-02T14:35:00",
+    "source": "00_Projektsteuerung/Alltagskorrespondenz/2028-10-02_MENSCH04_Rueckmeldung_zum_Einzugsmontag_und_zur_Nachbarzufahrt.docx",
+    "sha256": "d9ce46b60066346add0bda448739effdb74f73d006080888f233647af90cb17a",
+    "reply_to": "MENSCH03",
+    "references": [
+      "01_Grundlagen_und_Erwerb/005_Lageplan_LP01.pdf",
+      "11_Vermietung/145_Uebergabe_WE08.pdf"
+    ]
+  },
+  {
+    "id": "MENSCH12",
+    "thread": "M-03",
+    "date": "2028-10-02T15:12:00",
+    "source": "11_Vermietung/Alltagskorrespondenz/2028-10-02_MENSCH12_Wohnung_08_Uebergabeunterlagen_und_Rueckmeldung_nach_dem_Moebeltransport.docx",
+    "sha256": "67c394bb2e34eefb89b9a59ee76d9d40cfc93fe130897f3db76f521c9ee7cda5",
+    "reply_to": "MENSCH11",
+    "references": [
+      "11_Vermietung/137_Mietvertrag_WE08.docx",
+      "11_Vermietung/145_Uebergabe_WE08.pdf",
+      "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/Bestandsnachweise/169_Zaehlerregister_Bezug.csv"
+    ]
+  },
+  {
+    "id": "MENSCH13",
+    "thread": "M-04",
+    "date": "2028-10-04T19:43:00",
+    "source": "11_Vermietung/Alltagskorrespondenz/2028-10-04_MENSCH13_Wohnung_04_Stromanmeldung_trotz_Solaranlage_auf_dem_Dach.eml",
+    "sha256": "48edb070fefce95f2cb6dcb029d3132b147cb03ef344c8edf203aac71221327a",
+    "reply_to": null,
+    "references": [
+      "11_Vermietung/133_Mietvertrag_WE04.docx",
+      "11_Vermietung/141_Uebergabe_WE04.pdf"
+    ]
+  },
+  {
+    "id": "MENSCH14",
+    "thread": "M-04",
+    "date": "2028-10-05T10:21:00",
+    "source": "11_Vermietung/Alltagskorrespondenz/2028-10-05_MENSCH14_AW_Wohnung_04_eigener_Wohnungsstrom_und_Ablesedatum.eml",
+    "sha256": "8c36da790a1481b7b3bc9073dca3eee15fd1d4269f69b2a73230bd036b8a150e",
+    "reply_to": "MENSCH13",
+    "references": [
+      "11_Vermietung/133_Mietvertrag_WE04.docx",
+      "11_Vermietung/141_Uebergabe_WE04.pdf",
+      "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/Bestandsnachweise/166_PV_Ladepunkte_Inbetriebnahme.pdf"
+    ]
+  },
+  {
+    "id": "MENSCH15",
+    "thread": "M-04",
+    "date": "2028-10-06T17:52:00",
+    "source": "11_Vermietung/Alltagskorrespondenz/2028-10-06_MENSCH15_AW_Jetzt_verstanden_noch_eine_Frage_zum_Zaehlerfeld.eml",
+    "sha256": "0009f15696014e93efc9a8546d8a7bc6eaab9edc11de76e129963d79e88cb20b",
+    "reply_to": "MENSCH14",
+    "references": [
+      "11_Vermietung/133_Mietvertrag_WE04.docx",
+      "11_Vermietung/141_Uebergabe_WE04.pdf",
+      "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/Bestandsnachweise/169_Zaehlerregister_Bezug.csv"
+    ]
+  },
+  {
+    "id": "MENSCH16",
+    "thread": "M-04",
+    "date": "2028-10-09T10:46:00",
+    "source": "11_Vermietung/Alltagskorrespondenz/2028-10-09_MENSCH16_Unser_Telefonat_zur_Stromanmeldung_Wohnung_04_eindeutig_zugeordnet.eml",
+    "sha256": "45d21da069efbbaffaa14289e1c658202f20e9fd6977e507e2a4f9a0ecc6ceca",
+    "reply_to": "MENSCH15",
+    "references": [
+      "11_Vermietung/133_Mietvertrag_WE04.docx",
+      "11_Vermietung/141_Uebergabe_WE04.pdf",
+      "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/Bestandsnachweise/169_Zaehlerregister_Bezug.csv"
+    ]
+  },
+  {
+    "id": "KAUF05",
+    "thread": "K-02",
+    "date": "2028-10-16T08:46:00",
+    "source": "10_Rechnungen_und_Buchhaltung/Alltagskorrespondenz/2028-10-16_KAUF05_Wohnung_07_Bitte_IA_G_28_017_und_die_Schlussrechnung_zusammenlassen.eml",
+    "sha256": "600a8c470d449ad74e06fe3e6221d1cf232080b700295c6e5c12f86d85915e0e",
+    "reply_to": null,
+    "references": [
+      "10_Rechnungen_und_Buchhaltung/Belege/101_Innenausbau_Schlussrechnung.pdf",
+      "10_Rechnungen_und_Buchhaltung/Belege/106_Innenausbau_Rechnungskorrektur.pdf",
+      "10_Rechnungen_und_Buchhaltung/Belege/115_Innenausbau_Belagsvereinbarung.eml",
+      "08_Bauausfuehrung/Bestandsunterlagen/147_Belagsvereinbarung_Wohnung07.docx",
+      "10_Rechnungen_und_Buchhaltung/Rechnungseingang/2028-10-15_IA-G-28-017_Belegzugang.eml"
+    ]
+  },
+  {
+    "id": "KAUF06",
+    "thread": "K-02",
+    "date": "2028-10-17T17:22:00",
+    "source": "10_Rechnungen_und_Buchhaltung/Alltagskorrespondenz/2028-10-17_KAUF06_AW_Wohnung_07_Es_bleibt_bei_der_einen_Rechnungskorrektur.eml",
+    "sha256": "cac39ed7f37ad02b7857fbf29b58b5034e2a5c29c3f8db8fe65e1bf5ea09f0eb",
+    "reply_to": "KAUF05",
+    "references": [
+      "10_Rechnungen_und_Buchhaltung/Belege/101_Innenausbau_Schlussrechnung.pdf",
+      "10_Rechnungen_und_Buchhaltung/Belege/106_Innenausbau_Rechnungskorrektur.pdf",
+      "10_Rechnungen_und_Buchhaltung/Belege/115_Innenausbau_Belagsvereinbarung.eml",
+      "08_Bauausfuehrung/Bestandsunterlagen/147_Belagsvereinbarung_Wohnung07.docx"
+    ]
+  },
+  {
+    "id": "KAUF07",
+    "thread": "K-02",
+    "date": "2028-11-06T14:35:00",
+    "source": "10_Rechnungen_und_Buchhaltung/Alltagskorrespondenz/2028-11-06_KAUF07_Telefonnotiz_Herr_Merz_zur_Wiedervorlage_fuer_die_Belagskorrektur.docx",
+    "sha256": "d916b02ecb9983c7c66167e13dcdcc166e2041bfb4f5d3db4a8701eed15c7cbe",
+    "reply_to": "KAUF06",
+    "references": [
+      "10_Rechnungen_und_Buchhaltung/Belege/106_Innenausbau_Rechnungskorrektur.pdf",
+      "10_Rechnungen_und_Buchhaltung/Belege/115_Innenausbau_Belagsvereinbarung.eml",
+      "10_Rechnungen_und_Buchhaltung/Belege/101_Innenausbau_Schlussrechnung.pdf"
+    ]
+  },
+  {
+    "id": "KAUF03",
+    "thread": "K-01",
+    "date": "2028-12-14T11:05:00",
+    "source": "10_Rechnungen_und_Buchhaltung/Alltagskorrespondenz/2028-12-14_KAUF03_Telefonnotiz_Rueckzahlung_Lichtkreis_ist_angekuendigt_Kontoeingang_noch.docx",
+    "sha256": "d744217474ca565c9bc04a2cc8f1f1e9eeca1fb60479f65c39011c09d5541220",
+    "reply_to": "KAUF02",
+    "references": [
+      "10_Rechnungen_und_Buchhaltung/Belege/114_Elektro_Rueckzahlung.eml",
+      "10_Rechnungen_und_Buchhaltung/Belege/099_Elektro_PV_Schlussrechnung.pdf",
+      "10_Rechnungen_und_Buchhaltung/Belege/113_Rueckfrage_Elektrozahlung.eml"
+    ]
+  },
+  {
+    "id": "KAUF04",
+    "thread": "K-01",
+    "date": "2029-01-03T10:17:00",
+    "source": "10_Rechnungen_und_Buchhaltung/Alltagskorrespondenz/2029-01-03_KAUF04_LE_28_061_Rueckfluss_im_Jahresauszug_gefunden_und_zugeordnet.eml",
+    "sha256": "f7ec4e9073dd97a0fc1a23b8ac2358d0881741964ba15173342c9ec5515411a0",
+    "reply_to": "KAUF02",
+    "references": [
+      "10_Rechnungen_und_Buchhaltung/Belege/111_Projektkonto_2028.pdf",
+      "10_Rechnungen_und_Buchhaltung/Belege/114_Elektro_Rueckzahlung.eml",
+      "10_Rechnungen_und_Buchhaltung/Belege/099_Elektro_PV_Schlussrechnung.pdf",
+      "10_Rechnungen_und_Buchhaltung/Belege/119_PV_Lieferung_Montage_Nullsteuersatz.pdf"
+    ]
+  },
+  {
+    "id": "KAUF08",
+    "thread": "K-02",
+    "date": "2029-01-04T11:08:00",
+    "source": "10_Rechnungen_und_Buchhaltung/Alltagskorrespondenz/2029-01-04_KAUF08_IA_G_28_017_Erstattung_der_Wohnung_07_im_Projektkonto_abgeglichen.eml",
+    "sha256": "8e797b430cb2c6f39d40d0c8d714bfc95e2968b4cefb5cd39103d7229e57f8ab",
+    "reply_to": "KAUF06",
+    "references": [
+      "10_Rechnungen_und_Buchhaltung/Belege/111_Projektkonto_2028.pdf",
+      "10_Rechnungen_und_Buchhaltung/Belege/106_Innenausbau_Rechnungskorrektur.pdf",
+      "10_Rechnungen_und_Buchhaltung/Belege/101_Innenausbau_Schlussrechnung.pdf",
+      "10_Rechnungen_und_Buchhaltung/Belege/115_Innenausbau_Belagsvereinbarung.eml",
+      "08_Bauausfuehrung/Bestandsunterlagen/147_Belagsvereinbarung_Wohnung07.docx"
+    ]
+  }
+]

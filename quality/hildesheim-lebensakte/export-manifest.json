@@ -1,13 +1,13 @@
 {
   "date": "2026-09-28",
-  "originals": 366,
+  "originals": 410,
   "skills": 29,
   "local_reviewed_artifacts": [
     {
       "path": "testakten/bauwirtschaft-hildesheim-lebensakte/gesamt-pdf/bauwirtschaft-hildesheim-lebensakte_gesamt.pdf",
-      "bytes": 19637367,
-      "pages": 1171,
-      "sha256": "fabf8520e552868ce0e5b6bc40099e709f28deb3a32e3b2e924535e42cddd990"
+      "bytes": 20062967,
+      "pages": 1217,
+      "sha256": "620cbb7cfb7514c5120260483af06bafc03536d840ace590fde12d800d0c5a7c"
     },
     {
       "path": "testakten/bauwirtschaft-hildesheim-lebensakte/gesamt-pdf/bauwirtschaft-hildesheim-lebensakte_bautagebuch.pdf",
@@ -23,8 +23,17 @@
     {
       "path": "bauwirtschaft/materialien/bauwirtschaft-werkstatt-100-seiten.pdf",
       "bytes": 806534,
-      "sha256": "ecfe194b000d2ca4a4ef41dcc90f96fdc011789842060a9d02c355896bfc7cbe"
+      "sha256": "ecfe194b000d2ca4a4ef41dcc90f96fdc011789842060a9d02c355896bfc7cbe",
+      "pages": 100
     }
   ],
-  "scope": "Lokale geprüfte Repository-Artefakte vor Veröffentlichung; CI-Ausgaben und öffentliche Archive sind separat zu prüfen."
+  "scope": "Lokale geprüfte Repository-Artefakte vor Veröffentlichung; CI-Ausgaben und öffentliche Archive sind separat zu prüfen.",
+  "version": "445.8.1",
+  "correspondence": {
+    "new_originals": 44,
+    "eml": 35,
+    "docx": 9,
+    "threads": 11,
+    "previous_originals_unchanged": 366
+  }
 }

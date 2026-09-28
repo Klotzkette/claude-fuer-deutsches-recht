@@ -1,3 +1,9 @@
+# v445.8.1 - Mehr Alltag in der Hildesheimer Projektakte
+
+Die Hildesheimer Lebensakte erhält 44 zusätzliche Originalunterlagen in elf zusammenhängenden Vorgängen: Lieferabsprachen und technische Schnittstellen, Rückfragen von Mietern und Nachbarn sowie die Klärung bereits belegter Rechnungen, Doppelzahlungen und Erstattungen. Unterschiedliche Stimmen, Telefonnotizen, konkrete Antworten und spätere Vollzugsnachrichten machen den damaligen Kenntnisstand nachvollziehbar. E-Mails besitzen echte Antwortbezüge; Wordvermerke bleiben bearbeitbar.
+
+Die bisherigen 366 Originale bleiben bytegleich. Die Ergänzung verändert weder die Baukosten noch die Mietverträge, das 304-tägige Bautagebuch oder den bloßen Optionsstatus der Bauträgerentwürfe. Gesamt-PDF und beide ZIP-Fassungen enthalten die neuen Unterlagen; das Plugin behält seine 29 Skills.
+
 # v445.8.0 - Hildesheimer Projektordner und 100-seitige Bauwerkstatt
 
 Die erweiterte Lebensakte enthält 366 Originaldateien in nachvollziehbaren Projektordnern: den unveränderten Ausgangsbestand, 304 tägliche Bauaufzeichnungen in zehn Monatsbänden, sieben detaillierte Leistungsverzeichnisse mit 134 Unterpositionen, Lieferungen, Begehungen, Mängelaufnahmen und Nachkontrollen. Belegbezogene E-Mails enthalten die originalen PDF-/XML-Anlagen; 18 ausformulierte Wordvorlagen unterstützen die weitere Bearbeitung. Beide ZIP-Fassungen erhalten für diese ausdrücklich bestellte Akte die Unterordner. Die bisherigen Akten bleiben flach.

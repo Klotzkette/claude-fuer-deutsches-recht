@@ -36,7 +36,7 @@ English: This project-file edition preserves its subfolders in both ZIP formats.
 
 Diese erweiterte Fassung des [Achtfamilienhauses Hildesheim](../bauwirtschaft-neubau-achtfamilienhaus-hildesheim/README.md) enthält dessen 198 Originaldateien unverändert und ergänzt eine gegliederte Projektablage, tägliche Bauaufzeichnungen, ausführliche Leistungsverzeichnisse, Lieferungen, Begehungen, Mängelverfolgung, Rechnungseingänge und bearbeitbare Wordvorlagen. Autor: Klotzkette. Projektkennung: **SW-HI-26-08**.
 
-Die Fassung enthält **366 Originaldateien**: 175 DOCX, 101 PDF, 49 EML, 28 XML, sieben CSV, drei XLSX, zwei PNG und eine TXT-Datei. Das Gesamt-PDF umfasst **1.171 Seiten** einschließlich des Dokumentenregisters.
+Die Fassung enthält **410 Originaldateien**: 184 DOCX, 101 PDF, 84 EML, 28 XML, sieben CSV, drei XLSX, zwei PNG und eine TXT-Datei. Das Gesamt-PDF umfasst **1.217 Seiten** einschließlich des Dokumentenregisters. Gegenüber v445.8.0 kommen 44 Unterlagen hinzu; sämtliche bisherigen 366 Originale bleiben unverändert.
 
 Das Hauptprojekt bleibt der **Neubau von acht Wohnungen zur Vermietung**: 1.300 m² Grundstück, 600 m² Wohnfläche, drei Geschosse ohne Keller, Aufzug, acht Pkw-Stellplätze, Fahrrad- und Spielflächen, Wärmepumpen und Photovoltaik. Erwerb und Projektbeginn liegen 2026, Planung und Genehmigung 2027, Bau und Übergaben 2027–2028, Erstvermietung am 1. Oktober 2028 und spätere Objektbetreuung bis 2033. Sämtliche neun HOAI-Leistungsphasen für Gebäude sind bearbeitbar.
 
@@ -95,9 +95,33 @@ Rechnung, Abschlag, Nachtrag, Zahlung, Doppelzahlung, Korrektur und Erstattung l
 
 Die Arbeitsmappen unterscheiden Kosten und Liquidität. Sie ersetzen keine vollständige handels- oder steuerrechtliche Aktivierungs-, AfA- oder Veranlagungsrechnung der GmbH. PV-Anlage, steuerfreie Wohnungsvermietung, Bauabzug und spätere Mietbewirtschaftung sind gesondert zuzuordnen.
 
+<!-- decimal-anchor --> <a id="elf-vorgänge-aus-dem-projektalltag"></a>
+
+## 1.6. Elf Vorgänge aus dem Projektalltag
+
+**35 zusätzliche E-Mails und neun bearbeitbare Wordvermerke** erzählen zusammenhängende Vorgänge vom ersten Anliegen über Rückfragen und Absprachen bis zur späteren Rückmeldung. Erna Wagner sucht Rechnungen über ihre Belegnummern, die Gewerke verhandeln über nutzbare Lieferwege, ein Nachbar präzisiert seinen Besuchstermin, und die Mietparteien fragen nach Klingelschild, Möbeltransport und Stromanmeldung. Die Personen sprechen unterschiedlich; Missverständnisse werden im Verlauf berichtigt.
+
+| Unterlagenkennung | Zeitraum | Vorgang und Ablage |
+| --- | --- | --- |
+| BAU01–04 | 4.–8. Mai 2028 | Fensterlieferung, verschobene Anfahrt und Trennung von Liefermenge und Montagefortschritt; `08_Bauausfuehrung/05_Alltagskorrespondenz` |
+| BAU05–08 | 28.–30. Juni 2028 | Erreichbarkeit einer Armatur in Wohnung 04, Gewerkeabstimmung und Kontrolle vor dem Schließen; gleicher Bauordner |
+| BAU09–12 | 9.–14. August 2028 | Anlieferfolge für Wärmepumpen und PV-Module, freie Wege und Schutz der Außenflächen; gleicher Bauordner |
+| BAU13–16 | 4.–8. September 2028 | Vorbereitung, technische Prüfungen, Betriebsbuch und Einweisung der Verwaltung; gleicher Bauordner |
+| MENSCH01–04 | 18. September–2. Oktober 2028 | Nachbarn Heinrich und Ursula Schulze, verwechselte Zufahrten und Einzugsmontag; `00_Projektsteuerung/Alltagskorrespondenz` |
+| MENSCH05–08 | 14.–29. September 2028 | Derya Aydin, Wohnung 02: Klingel, Briefkasten und Schlüssel; `11_Vermietung/Alltagskorrespondenz` |
+| MENSCH09–12 | 18. September–2. Oktober 2028 | Leon und Amira Winter, Wohnung 08: Übergabetermin, Möbeltransport und gemeinsam geklärte Ablesung; gleicher Vermietungsordner |
+| MENSCH13–16 | 4.–9. Oktober 2028 | Mika Petersen, Wohnung 04: eigener Wohnungsstrom, PV-Anlage und Zuordnung des Ablesedatums; gleicher Vermietungsordner |
+| KAUF01–04 | 27. September 2028–3. Januar 2029 | Nachfragen zur doppelten Elektrozahlung, Rückzahlungsankündigung und Abgleich mit dem Jahresauszug; `10_Rechnungen_und_Buchhaltung/Alltagskorrespondenz` |
+| KAUF05–08 | 16. Oktober 2028–4. Januar 2029 | Belagskorrektur der Wohnung 07, Wiedervorlage und tatsächliche Erstattung; gleicher Buchhaltungsordner |
+| KAUF09–12 | 6.–9. März 2028 | Angebot, Beauftragung, Aufmaß und Rechnung zur Filterpackung im Freigabeumlauf zusammenführen; gleicher Buchhaltungsordner |
+
+Die Dateinamen verbinden Datum und Unterlagenkennung. Die E-Mails enthalten eindeutige Nachrichten-IDs und technisch auswertbare Antwortbezüge. Die Worddateien halten Telefonate und interne Rückmeldungen fest. Bestandsbelege, spätere Kontoauszüge und Abschlussnachrichten lassen sich dadurch zeitlich unterscheiden. Die Ergänzungen erzeugen keine weiteren Rechnungen oder Zahlungen.
+
+Für einen schrittweisen Workshop kann zunächst nur der bis zum gewählten Stichtag bekannte Teil eines Vorgangs vorgelegt werden. Die nächste Nachricht kommt anschließend hinzu. So lässt sich prüfen, ob eine Rückfrage tatsächlich beantwortet wurde und ob der Entwurf den neuen Stand übernimmt, ohne spätere Ereignisse vorwegzunehmen.
+
 <!-- decimal-anchor --> <a id="optionale-bauträgerverträge"></a>
 
-## 1.6. Optionale Bauträgerverträge
+## 1.7. Optionale Bauträgerverträge
 
 Der Stichtag der Verkaufsoption ist der 1. November 2027. Acht individuell ausgearbeitete Entwürfe verwenden herkömmliche fiktive Namen und eine notarielle Urkundengliederung. Sie werden durch Teilungs- und Gemeinschaftsregelungen, Baubeschreibung, Bemusterung, Sonderwünsche, Wohnungsanlagen und Zahlungspläne ergänzt. Die Entwürfe tragen ihren Entwurfsstatus; es wird keine tatsächlich erfolgte Beurkundung behauptet.
 
@@ -105,7 +129,7 @@ Die Verkäuferposition wird durch klare Leistungsgrenzen, einen geregelten Sonde
 
 <!-- decimal-anchor --> <a id="werkstatt-und-arbeitsbeginn"></a>
 
-## 1.7. Werkstatt und Arbeitsbeginn
+## 1.8. Werkstatt und Arbeitsbeginn
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
@@ -117,7 +141,7 @@ Die [Bauwirtschaft-Werkstatt](../../bauwirtschaft/bauwirtschaft-werkstatt.md) f�
 
 <!-- decimal-anchor --> <a id="simulation-und-quellenstand"></a>
 
-## 1.8. Simulation und Quellenstand
+## 1.9. Simulation und Quellenstand
 
 **Redaktions- und Quellenstand: 28. September 2026. Der Projektverlauf 2026–2033 ist simuliert.** Unbekanntes künftiges Recht wird nicht als feststehend dargestellt. Personen, Firmen, Grundstück, Adresse, Registerdaten, Bescheide, Prüfbescheinigungen, technische Werte und Bauereignisse sind fiktiv. Hildesheim und die amtlichen Rechtsquellen sind real. Reservierte `.example`-Adressen verhindern versehentliche Nachrichten an tatsächliche Ansprechpartner. Es fanden keine echten Register-, Behörden- oder Baustellenprüfungen statt.
 

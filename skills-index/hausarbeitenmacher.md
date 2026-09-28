@@ -1,6 +1,6 @@
 # hausarbeitenmacher
 
-**59 Skills** · Stand `v445.8.0`
+**59 Skills** · Stand `v445.8.1`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../hausarbeitenmacher/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

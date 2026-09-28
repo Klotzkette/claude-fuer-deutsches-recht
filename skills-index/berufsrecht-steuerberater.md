@@ -1,6 +1,6 @@
 # berufsrecht-steuerberater
 
-**205 Skills** · Stand `v445.8.0`
+**205 Skills** · Stand `v445.8.1`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../berufsrecht-steuerberater/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

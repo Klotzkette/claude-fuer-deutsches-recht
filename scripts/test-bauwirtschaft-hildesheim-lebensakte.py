@@ -9,7 +9,7 @@ import argparse
 from bisect import bisect_left
 from collections import Counter, defaultdict
 import csv
-from datetime import date, timedelta
+from datetime import date, datetime, timedelta
 from decimal import Decimal as D
 from email import policy
 from email.parser import BytesParser
@@ -122,9 +122,9 @@ class ProjectFile(unittest.TestCase):
         physical = {p for p in CASE.rglob('*') if p.is_file() and p.suffix not in {'.md', '.yaml'}
                     and 'gesamt-pdf' not in p.relative_to(CASE).parts}
         self.assertEqual({p for p, _ in self.pairs}, physical)
-        self.assertEqual(len(physical), 366)
+        self.assertEqual(len(physical), 410)
         self.assertEqual(Counter(p.suffix for p in physical),
-                         {'.docx': 175, '.pdf': 101, '.eml': 49, '.xml': 28,
+                         {'.docx': 184, '.pdf': 101, '.eml': 84, '.xml': 28,
                           '.csv': 7, '.xlsx': 3, '.png': 2, '.txt': 1})
         mapping = json.loads((QA/'basisdateien.json').read_text())
         self.assertEqual(len(mapping), 198)
@@ -243,6 +243,58 @@ class ProjectFile(unittest.TestCase):
             fields = xml.findall('.//w:sdt', NS)
             self.assertGreaterEqual(len(fields), 10)
             self.assertTrue(all(f.find('w:sdtPr/w:tag', NS) is not None for f in fields))
+
+    def test_everyday_correspondence_has_traceable_threads(self):
+        prior = json.loads((QA/'alltag-bestand-v445.8.0.json').read_text())['originals']
+        self.assertEqual(len(prior), 366)
+        for item in prior:
+            self.assertEqual(hashlib.sha256(self.by_relative[item['source']].read_bytes()).hexdigest(), item['sha256'])
+        rows = json.loads((QA/'alltag-manifest.json').read_text())
+        by_id = {row['id']: row for row in rows}
+        self.assertEqual(len(rows), 44)
+        self.assertEqual(len(by_id), len(rows))
+        self.assertEqual(sorted(Counter(row['thread'] for row in rows).values()), [4]*11)
+        mails = {}
+        for row in rows:
+            path = self.by_relative[row['source']]
+            self.assertEqual(hashlib.sha256(path.read_bytes()).hexdigest(), row['sha256'])
+            for reference in row['references']:
+                self.assertIn(reference, self.by_relative)
+            if row['reply_to']:
+                previous = by_id[row['reply_to']]
+                self.assertEqual(row['thread'], previous['thread'])
+                self.assertLess(datetime.fromisoformat(previous['date']), datetime.fromisoformat(row['date']))
+            if path.suffix != '.eml':
+                self.assertIn(datetime.fromisoformat(row['date']).strftime('%d.%m.%Y'), word_text(path))
+                continue
+            mail = BytesParser(policy=policy.default).parsebytes(path.read_bytes())
+            mails[row['id']] = mail
+            self.assertFalse(mail.defects)
+            stamp = parsedate_to_datetime(mail['Date'])
+            self.assertIsNotNone(stamp.utcoffset())
+            self.assertEqual(stamp.replace(tzinfo=None).isoformat(), row['date'])
+            for header in ('From', 'To'):
+                self.assertEqual(len(mail[header].addresses), 1)
+                self.assertTrue(mail[header].addresses[0].addr_spec.endswith('.example'))
+            self.assertEqual(list(mail.iter_attachments()), [])
+            self.assertNotIn('X-Attachments', mail)
+        self.assertEqual(len({m['Message-ID'] for m in mails.values()}), len(mails))
+        for row in rows:
+            if row['id'] not in mails:
+                continue
+            chain = []
+            previous = row['reply_to']
+            while previous:
+                if previous in mails:
+                    chain.insert(0, str(mails[previous]['Message-ID']))
+                previous = by_id[previous]['reply_to']
+            mail = mails[row['id']]
+            if chain:
+                self.assertEqual(str(mail['In-Reply-To']), chain[-1])
+                self.assertEqual(str(mail['References']).split(), chain)
+            else:
+                self.assertIsNone(mail['In-Reply-To'])
+                self.assertIsNone(mail['References'])
 
     def test_archive_paths_original_bytes_and_pdf_contents(self):
         if ASSETS is None:

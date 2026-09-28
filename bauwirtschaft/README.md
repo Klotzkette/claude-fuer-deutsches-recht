@@ -97,7 +97,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->
 
-Version 445.8.0. Autor / Author: Klotzkette.
+Version 445.8.1. Autor / Author: Klotzkette.
 
 Bauherr, Projektentwicklung, Bauleitung und kaufmännisches Team erhalten 29 ausführende Skills: zwanzig für konkrete Projektaufgaben und neun für die einzelnen HOAI-Leistungsphasen. Sie führen den Projektstand fort, rechnen Kosten und Zahlungen nach und erstellen die konkret benötigten Tabellen, Schreiben, Verträge oder Entscheidungsvorlagen. Der Hauptskill arbeitet selbst am Ergebnis; er ist kein bloßer Themenrouter.
 
@@ -120,6 +120,8 @@ With a clear task, work starts on the requested document or calculation. Follow-
 Der [Achtfamilienhaus-Fall Hildesheim](../testakten/bauwirtschaft-neubau-achtfamilienhaus-hildesheim/README.md) führt ein vermietetes Wohnhaus vom Grundstückserwerb durch alle neun Gebäude-Leistungsphasen bis zum Abschluss der Objektbetreuung. Eigene Planungen, Erwerbs- und Bauverträge, technische Übergaben, acht Mietverhältnisse, strukturierte Rechnungen und drei berechnende Excel-Arbeitsmappen gehören zur Akte. Der simulierte Projektverlauf ist ausdrücklich vom geprüften Quellenstand getrennt.
 
 Die [erweiterte Hildesheimer Lebensakte](../testakten/bauwirtschaft-hildesheim-lebensakte/README.md) führt denselben Vermietungsfall in vollständigen Projektordnern mit 304 täglichen Bauaufzeichnungen, 134 LV-Unterpositionen, Lieferungen, Begehungen, Mängelverfolgung und Wordvorlagen weiter. Acht Bauträgervertragsentwürfe bilden nur eine noch unbeschlossene Verkaufsoption. Die 100-stationige [Werkstatt als Word](materialien/bauwirtschaft-werkstatt-100-seiten.docx) und [Werkstatt als PDF](materialien/bauwirtschaft-werkstatt-100-seiten.pdf) umfasst 100 Seiten mit auftragsabhängigen Wegen, gezielten Rückfragen und geprüften Rechtsprechungsankern. Die Word- und PDF-Handbuchfassungen liegen im Plugin unter `materialien`; der eigenständige Markdown-Prompt bleibt ein separater Download. Die 29 vorhandenen Skills laden passende Vertiefungen; ihre Anzahl bleibt unverändert.
+
+Die Lebensakte enthält jetzt 410 Originale. Elf zusätzliche Alltagsvorgänge führen durch Lieferabsprachen, Nachbarrückfragen, Klingelschilder, Umzugstermine und Rechnungszuordnungen. 35 E-Mails und neun Wordvermerke bilden konkrete Rückfragen und ihre Fortsetzung ab; ein Workshop kann die Nachrichten nacheinander freigeben und den jeweiligen Kenntnisstand bearbeiten.
 
 Zusätzlich zu den folgenden fünf Gesamtfällen gibt es [neun eigenständige Phasenpakete](../docs/bauwirtschaft-hoai-phasen.md): Für jede Leistungsphase 1 bis 9 stehen ein ausführender Skill, eine große Werkstatt und eine eigene Akte bereit. Die Aktenseiten nennen ausdrücklich die jeweilige Phase. Bei einem engen Einzelauftrag weiterhin den passenden Fachskill verwenden, statt alle Phasen zu durchlaufen.
 

@@ -1,0 +1,1470 @@
+{
+  "release": "v445.8.0",
+  "commit": "aede75149b8ab96906ce173b566c6e69c99da3e0",
+  "originals": [
+    {
+      "source": "00_Projektsteuerung/2027-11-29_Projektorganisation.docx",
+      "sha256": "83efed9d93dd3a313a7ed47ecd3a21b2ed42751a8d43762d7c834263536eb29c"
+    },
+    {
+      "source": "01_Grundlagen_und_Erwerb/001_Projektauftrag_Wohnhof.pdf",
+      "sha256": "8db22323e06a72406ca28fcdf556c39da078408bcf691756b2f2c8cee3e0f823"
+    },
+    {
+      "source": "01_Grundlagen_und_Erwerb/002_Bedarfsprogramm_und_Planungsziele.docx",
+      "sha256": "18f97bf98d6a47386f22785ef55d54195f7cb448a6f8797721a7ffa5ba08ed76"
+    },
+    {
+      "source": "01_Grundlagen_und_Erwerb/003_Architektenvertrag_mit_Stufenabruf.docx",
+      "sha256": "dfe2c0134e2aeb461f87641d8a797279c6b9057c7bfcb6e6165a50f22562cd39"
+    },
+    {
+      "source": "01_Grundlagen_und_Erwerb/004_Ortsbesichtigung_Grundlagen.pdf",
+      "sha256": "2740975430ae401609dfa0a697ba8ec99ffe351271f5919eb5a55659131bab63"
+    },
+    {
+      "source": "01_Grundlagen_und_Erwerb/005_Lageplan_LP01.pdf",
+      "sha256": "e19d9f9f956547a7d54ad453b4f08df15e685243c0edbaa01091788b0da873af"
+    },
+    {
+      "source": "01_Grundlagen_und_Erwerb/006_Baugrund_und_Versickerungsbefund.pdf",
+      "sha256": "f4e71ccceabfbe4d3323cac0646d0d8dadb7a6e22e0be14e0a7509609a7b7a95"
+    },
+    {
+      "source": "01_Grundlagen_und_Erwerb/149_Grundstueckskaufvertrag_UVZ_118_2026.pdf",
+      "sha256": "aee888373f9cc42676ed76ee222ac23f81ad66ec8c40657f86cb5a4239aab9b4"
+    },
+    {
+      "source": "01_Grundlagen_und_Erwerb/170_Grundschuldbestellung_UVZ_139_2026.pdf",
+      "sha256": "f27c9d0f66a727bc7697bff2e87281c1709e56ae4b50030bac2bdb394c88d439"
+    },
+    {
+      "source": "02_Vorplanung/007_Variantenvergleich_Vorplanung.docx",
+      "sha256": "904010a9e1d631dc739882a0106c88731b984dd8073e498bda7ee48178f3a14a"
+    },
+    {
+      "source": "02_Vorplanung/008_Variantenfreigabe_und_Abruf.eml",
+      "sha256": "ad794690e4a5432d5dfb289b2c5ba1bc3ea276fbeaf21ea94e90e72973f5a768"
+    },
+    {
+      "source": "03_Entwurfsplanung/009_Besprechung_Bauaufsicht_Entwurfsstand.pdf",
+      "sha256": "fbd7501d0c97668f57e6cdc6acd215cbabcea6664fe540be4fe07e16b2cd6bbd"
+    },
+    {
+      "source": "03_Entwurfsplanung/010_Entwurfsbeschreibung_Stand_Maerz.docx",
+      "sha256": "8d16161e51fb93a07dd7196dd3dd8dfbc5c72791f69cfe58a5c0396c20e7d0cd"
+    },
+    {
+      "source": "03_Entwurfsplanung/011_Grundrisse_EG_1OG_GP01.pdf",
+      "sha256": "f9420c183f7729cfbc4045239c4399df3522f075e5020c55f72416fe7a39858c"
+    },
+    {
+      "source": "03_Entwurfsplanung/012_Grundriss_2OG_GP02.pdf",
+      "sha256": "7f27c6b5ec844353d1c70d9238ca46c7b3c6de50207e6753b4ab8b33667e8fe5"
+    },
+    {
+      "source": "03_Entwurfsplanung/013_Schnitt_Ansichten_SP01.pdf",
+      "sha256": "c741ac94a27a2c59823b153a7763c37549dff3f20c62f548961c51f0f72f5a2d"
+    },
+    {
+      "source": "03_Entwurfsplanung/014_Wohnflaechenberechnung_acht_Wohnungen.docx",
+      "sha256": "a51454ffe67f56f4d752b06920aa20788644d66bb49b78410b4e0d2b5a520b7b"
+    },
+    {
+      "source": "03_Entwurfsplanung/015_Fachplanerkoordination_Entwurf.docx",
+      "sha256": "022ccad9be0f743998ee0043ff6e20f61a3b1d19249f1d908966168ca584c63a"
+    },
+    {
+      "source": "03_Entwurfsplanung/016_Energie_und_Entwaesserungskonzept.pdf",
+      "sha256": "b3a52249bd1e1d59f5ca1ba5fc44df85db265e62bb27083513ae8eccf9252344"
+    },
+    {
+      "source": "03_Entwurfsplanung/017_Brandschutz_Barrierefreiheit_Konzept.docx",
+      "sha256": "7180b8d53d043ac92ba4ded1940f1f425351efe9233bb08a9b02befd006f3a90"
+    },
+    {
+      "source": "04_Genehmigung/018_Bauantrag_Begleitschreiben.docx",
+      "sha256": "af488f75e810cc467b9048b1daef5390b7ccb1ed1ee8f1a7a36f70c70721eba6"
+    },
+    {
+      "source": "04_Genehmigung/019_Baubeschreibung.docx",
+      "sha256": "b30e4925cf78ea3d8ed250965d03a5d5ad3ff4d98e0153ed7aa321e022d9e389"
+    },
+    {
+      "source": "04_Genehmigung/020_Nachforderung_Bauaufsicht.pdf",
+      "sha256": "93b8d93270db9624bd3485dc600f9896147902822734eb3b6fbe47f2eac0b1a2"
+    },
+    {
+      "source": "04_Genehmigung/021_Antwort_Nachforderung.docx",
+      "sha256": "0a6f4b50aba9268f9a4ef682ca8fc6ea8ba8a82543d51f5ccaf8d5329b1153b4"
+    },
+    {
+      "source": "04_Genehmigung/022_Baugenehmigung_BA20270618.pdf",
+      "sha256": "1f215b03a87d6f2a12402fe8247906e71a594d95ca6b8c53475f2e9e255c0014"
+    },
+    {
+      "source": "05_Ausfuehrungsplanung/023_Abruf_LPH5_bis7.eml",
+      "sha256": "33a95071b685e22d9c6f3ca8b5776a1428b54a2d81204f78e3569fd5081875a8"
+    },
+    {
+      "source": "05_Ausfuehrungsplanung/024_Ausfuehrungsdetails_AP01.pdf",
+      "sha256": "9e6bd413256b4305e59a9c8e90553d6221c8a4b043f4f4c1daccc2c5260c6969"
+    },
+    {
+      "source": "05_Ausfuehrungsplanung/025_Koordinierung_Ausfuehrungsplanung.docx",
+      "sha256": "895681133683f357dff60afcaba21f53e488efbffd568494fefde57f1b383738"
+    },
+    {
+      "source": "05_Ausfuehrungsplanung/026_Freigabe_Details_mit_Rueckfrage.eml",
+      "sha256": "205edc13dc27681f64670072bd53aa90a534be67fb2061d60a65c2102a8f4423"
+    },
+    {
+      "source": "05_Ausfuehrungsplanung/027_Koordinierter_Planstand_R01.pdf",
+      "sha256": "5dd8690b146f08f704a6d01a9baf438e697c73e36bada985c8dd739785cfd0c7"
+    },
+    {
+      "source": "05_Ausfuehrungsplanung/028_Flaechen_Abstaende_Aussenanlagen.pdf",
+      "sha256": "9f38dff95f358bf9b1e443e20c854b6f09bc63db5bbcf66a0ebc05bbbd8dee88"
+    },
+    {
+      "source": "05_Ausfuehrungsplanung/029_Abschluss_Ausfuehrungsplanung.docx",
+      "sha256": "f2d550bbd5a06b94e9cc1ae58230f37611760916b42319e134d992908d46d8c1"
+    },
+    {
+      "source": "05_Ausfuehrungsplanung/150_Detailplanung_Schwelle_und_Deckendurchbruch.pdf",
+      "sha256": "64b131bdf4e5f1bab3b1ad716fec887c49260d1a6946f24814969350216b4373"
+    },
+    {
+      "source": "05_Ausfuehrungsplanung/151_Planstandportal_2027-09-24.png",
+      "sha256": "59aa5d0d6c2ab8e41df84f96d8f9421f169fcf6f35cd904f21b23c7a225aebb7"
+    },
+    {
+      "source": "06_Leistungsverzeichnisse/Bestands-LV/030_Vergabeterminplan.docx",
+      "sha256": "0186504dbe137bcb755e093394ef644ab0451f688143b5d2f1130178b471028c"
+    },
+    {
+      "source": "06_Leistungsverzeichnisse/Bestands-LV/031_Leistungsverzeichnis_sieben_Lose.docx",
+      "sha256": "0d2b933cdcd68471efa246778afb4f10e1cf9a62eae28c5190545fa977a6a7de"
+    },
+    {
+      "source": "06_Leistungsverzeichnisse/Detail-LV/LV_01_rohbau_Detail.docx",
+      "sha256": "07a79c704047455332d3a63fdaf60ead3fdefde5d3280a73f9625a9b28daa2b8"
+    },
+    {
+      "source": "06_Leistungsverzeichnisse/Detail-LV/LV_02_huelle_Detail.docx",
+      "sha256": "a38de93e80865b41c784751bd55fcadb2d0dffdfe3878d1b822ebbd09c914089"
+    },
+    {
+      "source": "06_Leistungsverzeichnisse/Detail-LV/LV_03_hls_Detail.docx",
+      "sha256": "4f749c4010a4c97cd952f52860e511e557b899a1e87fa07a4112a96cd2f9ec8a"
+    },
+    {
+      "source": "06_Leistungsverzeichnisse/Detail-LV/LV_04_elektro_Detail.docx",
+      "sha256": "5fc13fcbda4cc5c7a191e7324937ea5903cd7038ff7c8fa337ef31f0eb860b9a"
+    },
+    {
+      "source": "06_Leistungsverzeichnisse/Detail-LV/LV_05_ausbau_Detail.docx",
+      "sha256": "a0c37b40951ae804efb65e984c227289b61b416fbb304f1930f76b28f8a7f6cd"
+    },
+    {
+      "source": "06_Leistungsverzeichnisse/Detail-LV/LV_06_aufzug_Detail.docx",
+      "sha256": "95948fc525a2d5f1c329f41bc33a6e7ff14ced27a8129f5cde3ef7f57a52e1b4"
+    },
+    {
+      "source": "06_Leistungsverzeichnisse/Detail-LV/LV_07_aussen_Detail.docx",
+      "sha256": "19daab97b7db22052320ff07710fefc2e69239238a1646386bd739b514b8774e"
+    },
+    {
+      "source": "06_Leistungsverzeichnisse/Detail-LV/LV_Kalkulationsregister.csv",
+      "sha256": "44b9724462a3238b18bf264790e4622897a0db321585e7309e0cffa3edf8b9d0"
+    },
+    {
+      "source": "07_Vergabe_und_Bauvertraege/032_Angebot_rohbau.pdf",
+      "sha256": "311abda9e683303ecbd7260b16d714cbcc88929058f1416e102dfa42850eefb7"
+    },
+    {
+      "source": "07_Vergabe_und_Bauvertraege/033_Vergleichsangebot_Rohbau.pdf",
+      "sha256": "aa0f120f470b5ceb7870b2600da6fa0b3bd6c28024af24aca8754d5a4acf87ae"
+    },
+    {
+      "source": "07_Vergabe_und_Bauvertraege/034_Angebot_huelle.pdf",
+      "sha256": "bc8cf1bfb622db8c0717a8c5bb8e7c065bcd761fd07a06ac42086384fe3f0edc"
+    },
+    {
+      "source": "07_Vergabe_und_Bauvertraege/035_Angebot_hls.pdf",
+      "sha256": "5843bb02998a1cfbf4ff8ed4a3e04ed99a6790bc31ecc6acf35bb0e2a65c8d7a"
+    },
+    {
+      "source": "07_Vergabe_und_Bauvertraege/036_Angebot_elektro.pdf",
+      "sha256": "6d319043d37b49bfaa4ecd4f1875914519434d04af152781558f0c32d0bb3de2"
+    },
+    {
+      "source": "07_Vergabe_und_Bauvertraege/037_Angebot_ausbau.pdf",
+      "sha256": "9c2e39022a10cf156d0141f2c8bb544fe907fdad46e61da859b06022d6e6978f"
+    },
+    {
+      "source": "07_Vergabe_und_Bauvertraege/038_Angebot_aufzug.pdf",
+      "sha256": "6b9008ecfeaf31714ef38263a412438da2c0a24db69e1cbf622b590fb6db8a11"
+    },
+    {
+      "source": "07_Vergabe_und_Bauvertraege/039_Angebot_aussen.pdf",
+      "sha256": "b492031210de3702b268b0c53269ef1de8d0e3f1c32840b6edfe656b15aeaa73"
+    },
+    {
+      "source": "07_Vergabe_und_Bauvertraege/040_Vergabevermerk.docx",
+      "sha256": "3d56c94d234d8a495e4dfa0871f4f6f581464b402149405097633c05c24e857f"
+    },
+    {
+      "source": "07_Vergabe_und_Bauvertraege/041_Direktmandat_Vertragsgestaltung.eml",
+      "sha256": "d6aa21c09e3e2ea14a36564ced505a62bf65f1c184d6cf13d002eb3783714733"
+    },
+    {
+      "source": "07_Vergabe_und_Bauvertraege/042_Bauvertrag_rohbau.docx",
+      "sha256": "659985a590d9e3796cc1cdee319bab7a60e2d55565e56a35427c38cc849b97c8"
+    },
+    {
+      "source": "07_Vergabe_und_Bauvertraege/043_Bauvertrag_huelle.docx",
+      "sha256": "18c9356e4a4f848fa90dd145d3185d7d413ee42eb5299e110501bdeb96321450"
+    },
+    {
+      "source": "07_Vergabe_und_Bauvertraege/044_Bauvertrag_hls.docx",
+      "sha256": "ca4296743702c2a9b4082ab53462f94ffc90c3444bb5855896d8ccb4e1b1a1f9"
+    },
+    {
+      "source": "07_Vergabe_und_Bauvertraege/045_Bauvertrag_elektro.docx",
+      "sha256": "c0223b2e87bf7ec5d4abad52271da557fd5ef6e4819e023c67d06d6ffdff4930"
+    },
+    {
+      "source": "07_Vergabe_und_Bauvertraege/046_Bauvertrag_ausbau.docx",
+      "sha256": "7e2d44706f85522ac1bba387106b97c746e1c3c5ce4d8502e0e8a6cc329429cf"
+    },
+    {
+      "source": "07_Vergabe_und_Bauvertraege/047_Bauvertrag_aufzug.docx",
+      "sha256": "84f46c2b314d33de11a2e51dff20e0a7d54bcfa65286fc721c34d5b1246733bd"
+    },
+    {
+      "source": "07_Vergabe_und_Bauvertraege/048_Bauvertrag_aussen.docx",
+      "sha256": "5fda359e7e60f9b4c6ddefc1e8fa13ec6c72e86c30ef156807f13bd0520346fd"
+    },
+    {
+      "source": "08_Bauausfuehrung/01_Bautagebuch/2027/BTB_2027-12.docx",
+      "sha256": "602ee4a9a531bffb1dd7fad4bfe44a5e8236722e93b1ef59545ab4a788e15521"
+    },
+    {
+      "source": "08_Bauausfuehrung/01_Bautagebuch/2028/BTB_2028-01.docx",
+      "sha256": "f7d8301d5592c730a7dcee496c21be7012b1510bfa091edc6c9f6652b576e6c5"
+    },
+    {
+      "source": "08_Bauausfuehrung/01_Bautagebuch/2028/BTB_2028-02.docx",
+      "sha256": "4ab083755242526c38ccff6b7b7e7ca4265aec05552a135063dac4483d5c65f2"
+    },
+    {
+      "source": "08_Bauausfuehrung/01_Bautagebuch/2028/BTB_2028-03.docx",
+      "sha256": "ab80e039ca5ff42628bfe52e12e2a0d9c2da7c4219154c3a65f3969dfb75c0d9"
+    },
+    {
+      "source": "08_Bauausfuehrung/01_Bautagebuch/2028/BTB_2028-04.docx",
+      "sha256": "76a8d5e8b5a157d5ff42448acc0cce9ef8798dacf1b617448f1696e739c23766"
+    },
+    {
+      "source": "08_Bauausfuehrung/01_Bautagebuch/2028/BTB_2028-05.docx",
+      "sha256": "51c03514869f2c0caef36592ece45e69f29f106c42f474375eac2f0fa76d1f55"
+    },
+    {
+      "source": "08_Bauausfuehrung/01_Bautagebuch/2028/BTB_2028-06.docx",
+      "sha256": "afc40b617bc17b2bfb54fe78ce85b2caf19e97934c3109d8804f15fcb5cb409f"
+    },
+    {
+      "source": "08_Bauausfuehrung/01_Bautagebuch/2028/BTB_2028-07.docx",
+      "sha256": "c84484339f39723d55c520416d773bc3273979814b15babfd7abbeae33047f9b"
+    },
+    {
+      "source": "08_Bauausfuehrung/01_Bautagebuch/2028/BTB_2028-08.docx",
+      "sha256": "506bd6a849f1c1ddabbef5f80b3e978c19ab224899f3c3003e54ac32b2641fc3"
+    },
+    {
+      "source": "08_Bauausfuehrung/01_Bautagebuch/2028/BTB_2028-09.docx",
+      "sha256": "4be67c8e651a6f6d6a93fa9b2a49a80cf436012536b46c7c5053b262d2d788e4"
+    },
+    {
+      "source": "08_Bauausfuehrung/01_Bautagebuch/Bautagebuch_Kalenderregister.csv",
+      "sha256": "c4d3773b5bf13687c3278b4995306b11bdb7d74740796446448f6db502601fb0"
+    },
+    {
+      "source": "08_Bauausfuehrung/01_Bautagebuch/Ergaenzung_Kurzauszug_Pfingstmontag.docx",
+      "sha256": "f16de827a0f53ba306957fe9c6e2530297b79968a3bb95b159f002313746d295"
+    },
+    {
+      "source": "08_Bauausfuehrung/01_Bautagebuch/Ergaenzung_Personalabgleich_2028-09-29.docx",
+      "sha256": "56089303df93dee41da2083127fed9554bb9e1340c0e31ced4214b0152653a4b"
+    },
+    {
+      "source": "08_Bauausfuehrung/02_Begehungen/BG_01_2027-12-03.docx",
+      "sha256": "d0037de7918986d49ea4cb5803bd4e606dbfbeeb82efda188da833c3e3df46fc"
+    },
+    {
+      "source": "08_Bauausfuehrung/02_Begehungen/BG_02_2028-01-12.docx",
+      "sha256": "52d004ab6e257c2584c37030eeb948bc9c7959e173222808caa75425bd66d193"
+    },
+    {
+      "source": "08_Bauausfuehrung/02_Begehungen/BG_03_2028-02-11.docx",
+      "sha256": "c3a6fc94e07725a8d0fcd79172c9a19da8de4d631a86e23a6cc53d696f3bdb9a"
+    },
+    {
+      "source": "08_Bauausfuehrung/02_Begehungen/BG_04_2028-03-08.docx",
+      "sha256": "726a7e76a136c01b3e37f4daf28f805472890c93971dcfc70352a3c6b03291ca"
+    },
+    {
+      "source": "08_Bauausfuehrung/02_Begehungen/BG_05_2028-03-23.docx",
+      "sha256": "0215a10dcfa8f7153c1cf20bf500ced86d399b5f081748ce826538a7f21d7133"
+    },
+    {
+      "source": "08_Bauausfuehrung/02_Begehungen/BG_06_2028-04-28.docx",
+      "sha256": "940c439c166fb4a68fe7d8427e3b003e31151415e6ad288abf33af96634dfd81"
+    },
+    {
+      "source": "08_Bauausfuehrung/02_Begehungen/BG_07_2028-05-12.docx",
+      "sha256": "f795457dc6a74eec88a39e8f35ead35c56d7dd88e0bb275d08aeffaccfb16de2"
+    },
+    {
+      "source": "08_Bauausfuehrung/02_Begehungen/BG_08_2028-06-16.docx",
+      "sha256": "9af6f2139cb837de95aa4612fe23746976a68f60a82a8c83d95ff8c87de1c11a"
+    },
+    {
+      "source": "08_Bauausfuehrung/02_Begehungen/BG_09_2028-06-30.docx",
+      "sha256": "c994bbf78b69b6aba7e3b280703e9495d01b59fc95cf583c7e7bd7c1d8eb5263"
+    },
+    {
+      "source": "08_Bauausfuehrung/02_Begehungen/BG_10_2028-07-07.docx",
+      "sha256": "b63f71a32b048ca84828bcf5e8ee916babf9dde1dd23a5bd39c9f6c75236034b"
+    },
+    {
+      "source": "08_Bauausfuehrung/02_Begehungen/BG_11_2028-08-04.docx",
+      "sha256": "c5da710291d7716822129558df07c81e488531a115308017df3eeedef960aac6"
+    },
+    {
+      "source": "08_Bauausfuehrung/02_Begehungen/BG_12_2028-08-25.docx",
+      "sha256": "155394695cf57488d646d64881d970ad7cd6713d77f91607c39de3e33eed0f50"
+    },
+    {
+      "source": "08_Bauausfuehrung/02_Begehungen/BG_13_2028-09-10.docx",
+      "sha256": "95dc4964c2d9764701c10fc3b90046e0bef5985dbc03943ecf42d3dc034629fd"
+    },
+    {
+      "source": "08_Bauausfuehrung/02_Begehungen/BG_14_2028-09-14.docx",
+      "sha256": "77d0f2d7a15dd3f733c520bb4b05a67cff943c39b38486344cabb9d9de5ac996"
+    },
+    {
+      "source": "08_Bauausfuehrung/02_Begehungen/BG_15_2028-09-22.docx",
+      "sha256": "741039f7ae41f463d75310ee77aaf338afa6663d3072238a9a83e4462fd7a694"
+    },
+    {
+      "source": "08_Bauausfuehrung/02_Begehungen/BG_16_2030-11-08.docx",
+      "sha256": "329d4e65e91b0476ca9e43105aec46883c784522e6a6b058ad2a139c122e2dd0"
+    },
+    {
+      "source": "08_Bauausfuehrung/03_Maengel/M-001_Befund_2028-01-11.docx",
+      "sha256": "c910cfeb4edc315a4580d0f3ea0f26373db4f05045837c39f6e5f0c4f901efc6"
+    },
+    {
+      "source": "08_Bauausfuehrung/03_Maengel/M-001_Nachkontrolle_2028-01-12.docx",
+      "sha256": "33f840829a28bbe7aa71a7dad9606ae9099684b0c84bf81b5784b6d44b7fd8f8"
+    },
+    {
+      "source": "08_Bauausfuehrung/03_Maengel/M-002_Befund_2028-02-14.docx",
+      "sha256": "d42603c2b2251f6441c41caa7339a11d6b2e08cff013fb6c6bc20b0ecdd879f4"
+    },
+    {
+      "source": "08_Bauausfuehrung/03_Maengel/M-002_Nachkontrolle_2028-02-14.docx",
+      "sha256": "91c11a4b300facbd697915734db070d6e8d8659fce010261ec4472473cc70286"
+    },
+    {
+      "source": "08_Bauausfuehrung/03_Maengel/M-003_Befund_2028-05-10.docx",
+      "sha256": "88727ab10081b97473695dbb8302c561e13b81c3115409c743537ab913113138"
+    },
+    {
+      "source": "08_Bauausfuehrung/03_Maengel/M-003_Nachkontrolle_2028-05-12.docx",
+      "sha256": "0cb57e03fe79ca7e8c75c8c666c116961742b82611d816320fcfddefc1ea05d3"
+    },
+    {
+      "source": "08_Bauausfuehrung/03_Maengel/M-004_Befund_2028-06-21.docx",
+      "sha256": "06cf5f19b07402529587ba917fdf20012c5f39761eea53198f5b0c1c65c06da0"
+    },
+    {
+      "source": "08_Bauausfuehrung/03_Maengel/M-004_Nachkontrolle_2028-06-23.docx",
+      "sha256": "19fca02af7f751b1a5bae8202bdfe5a278c662d180851ed34be49e25d8412b9f"
+    },
+    {
+      "source": "08_Bauausfuehrung/03_Maengel/M-005_Befund_2028-06-28.docx",
+      "sha256": "8fb65bead15bdc1ca65b251e736578f13fecc775edc58cb0de1a47fac31e540b"
+    },
+    {
+      "source": "08_Bauausfuehrung/03_Maengel/M-005_Nachkontrolle_2028-06-30.docx",
+      "sha256": "aa8fe6dc279b2f793fa349e741d40c87d5ac057b56df897632dc26a94f4ac325"
+    },
+    {
+      "source": "08_Bauausfuehrung/03_Maengel/M-006_Befund_2028-07-03.docx",
+      "sha256": "1e015d43005352ec128e88b749f5df405675a795096856b49c7ecfb341f40096"
+    },
+    {
+      "source": "08_Bauausfuehrung/03_Maengel/M-006_Nachkontrolle_2028-07-04.docx",
+      "sha256": "18d95644194002f83b9ad05c9e7ad892e7fc83bea9bc43425b3fd598c17a8438"
+    },
+    {
+      "source": "08_Bauausfuehrung/03_Maengel/M-007_Befund_2028-08-03.docx",
+      "sha256": "908706eae924c6addda1046e1ed2a5877fc32b1b1f67d732197606e80ee51f23"
+    },
+    {
+      "source": "08_Bauausfuehrung/03_Maengel/M-007_Nachkontrolle_2028-08-04.docx",
+      "sha256": "c688600b88c155074c27a6750c56583062434bcd1e7719c4d71065afe5c19bc7"
+    },
+    {
+      "source": "08_Bauausfuehrung/03_Maengel/M-008_Befund_2028-08-17.docx",
+      "sha256": "213a0b9e64a70eccd2a96b08e4c866120bb660ea1c07686e4b16b6d296114062"
+    },
+    {
+      "source": "08_Bauausfuehrung/03_Maengel/M-008_Nachkontrolle_2028-08-18.docx",
+      "sha256": "eb45f1b0e36655b7561bd5e621d159453b6b739e74d02591d41d11a092944f01"
+    },
+    {
+      "source": "08_Bauausfuehrung/03_Maengel/M-009_Befund_2028-09-11.docx",
+      "sha256": "fb21964aa1174bad4f60863fcb2b6647b20e6e7469a59f3de55104108b65b306"
+    },
+    {
+      "source": "08_Bauausfuehrung/03_Maengel/M-009_Nachkontrolle_2028-09-14.docx",
+      "sha256": "dbc1d1400391d45b0cfb6022b80a0ab1a52408d7c83017d7cdaafbb132b889b0"
+    },
+    {
+      "source": "08_Bauausfuehrung/03_Maengel/M-010_Befund_2028-09-11.docx",
+      "sha256": "c341c12875fe55c2d2c02ebcb6d46380f3a1549736822343f9d33d69c4a94ff7"
+    },
+    {
+      "source": "08_Bauausfuehrung/03_Maengel/M-010_Nachkontrolle_2028-09-14.docx",
+      "sha256": "c9fd292532c0f6c77921e3f498af709029aa424f968132df542372811ba28fc7"
+    },
+    {
+      "source": "08_Bauausfuehrung/03_Maengel/M-011_Befund_2028-09-11.docx",
+      "sha256": "2332d524789605069a954fd4c8fa69fa888c15989a9802c5843c8f5c942e4ace"
+    },
+    {
+      "source": "08_Bauausfuehrung/03_Maengel/M-011_Nachkontrolle_2028-10-15.docx",
+      "sha256": "20d0a9b7408087dc6d248937af305632cfe770c6f176f9ffdacbf990ca44eadc"
+    },
+    {
+      "source": "08_Bauausfuehrung/03_Maengel/M-012_Befund_2030-11-08.docx",
+      "sha256": "bb20ecaa00f3037dfc897c4d1ee3e469b5738acf8f0f103c7b6c6b2d1ebb298d"
+    },
+    {
+      "source": "08_Bauausfuehrung/03_Maengel/M-012_Nachkontrolle_2030-12-16.docx",
+      "sha256": "86566fc645f535f325db49e2c7ab4e848a8de92eea30b55c2eccfcf0c2bb102a"
+    },
+    {
+      "source": "08_Bauausfuehrung/03_Maengel/Maengelregister.csv",
+      "sha256": "f8a9d3f1d782af697e2d2cd85591399c39873d077c970a5e934dd94312850484"
+    },
+    {
+      "source": "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/Bestandsnachweise/162_Energie_Ergebnisbericht.pdf",
+      "sha256": "64158a97ac180744b46843928205ccc1a1bfe0b2d3c7ded75f827dd5ac102e8c"
+    },
+    {
+      "source": "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/Bestandsnachweise/163_HLS_Einstellung_und_Pruefung.pdf",
+      "sha256": "a432d4997538ba64db936b32bad15afc889424d491635d5311e034c283a0e792"
+    },
+    {
+      "source": "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/Bestandsnachweise/164_Lueftung_Messblatt.pdf",
+      "sha256": "e9fc74c3dab1b4eb6f1078155a9eea583991efcaa729dcb3902092090e0560cb"
+    },
+    {
+      "source": "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/Bestandsnachweise/165_Elektro_Pruefbericht.pdf",
+      "sha256": "eb6433c1802d3156717dc174ab3c6243bf34ac40d4793be030111fe639acffe9"
+    },
+    {
+      "source": "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/Bestandsnachweise/166_PV_Ladepunkte_Inbetriebnahme.pdf",
+      "sha256": "7fd587ac55e2d166cc2690c02d45a8a35104df10f0cd650f106595e8de46aa5a"
+    },
+    {
+      "source": "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/Bestandsnachweise/167_Aufzug_Pruefbescheinigung.pdf",
+      "sha256": "f4b2e96a632370eed996093bcff3b405ca44eb23aa050be96f180b833deb0dc6"
+    },
+    {
+      "source": "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/Bestandsnachweise/168_Wartungsvereinbarung_Technik.pdf",
+      "sha256": "f2342ab032b073a1ec56b8f100a13bf061011a33bab67f32084eaa053a419128"
+    },
+    {
+      "source": "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/Bestandsnachweise/169_Zaehlerregister_Bezug.csv",
+      "sha256": "08934727bd3305a0276a020b969ae5f335414613f0182d2fc221c7c548323fde"
+    },
+    {
+      "source": "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/LB-001_2027-12-01.docx",
+      "sha256": "13d41b4a7feec3fd1de4602b44ce7be9e8b3fae9434528085251a9b0690b0838"
+    },
+    {
+      "source": "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/LB-002_2027-12-01.docx",
+      "sha256": "f0ca7c52efc2c2f8cf1181b385948484e7eb716ed43040a0b4d6f9d810760948"
+    },
+    {
+      "source": "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/LB-003_2028-01-03.docx",
+      "sha256": "8ff6c88f94a01326ba65159f0d1bb0b444d07b9853173ab67a617ddcb10b1061"
+    },
+    {
+      "source": "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/LB-004_2028-01-06.docx",
+      "sha256": "f0d50d53ca4eb9ac5ae2f7a2548977efbec34226330c0a8605d7e44e2542b944"
+    },
+    {
+      "source": "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/LB-005_2028-01-24.docx",
+      "sha256": "90215a5ef258352d58a21efa6cba26d4a10327011df22406c5ccf962ac9a3e9d"
+    },
+    {
+      "source": "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/LB-006_2028-02-08.docx",
+      "sha256": "a07240678615a68bf0772eee2770c15ff0401d86d05487969f45ef40b507f196"
+    },
+    {
+      "source": "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/LB-007_2028-02-09.docx",
+      "sha256": "34d8e8070a00291472a25bd400f37d55fa99242b0359e0b1657f78a321f568bf"
+    },
+    {
+      "source": "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/LB-008_2028-02-14.docx",
+      "sha256": "eb12dba217ea200b77c5b22357b2e9c0598ddc11c0eb948658cb15a2596146e9"
+    },
+    {
+      "source": "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/LB-009_2028-02-18.docx",
+      "sha256": "9431d3333d359a3889be5167c887d73c228918a8c2aa0a23bdf625e8a19c5636"
+    },
+    {
+      "source": "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/LB-010_2028-03-09.docx",
+      "sha256": "4a04f965f2fbfe1ac63bd94e1fd9aed60847596e86b41aa8b4ec3e5eff6d712e"
+    },
+    {
+      "source": "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/LB-011_2028-03-29.docx",
+      "sha256": "af9b0be28ff1dca2d53afd6aba15fa6bafb8cbeccc2c26fdfffa31a2faf65db0"
+    },
+    {
+      "source": "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/LB-012_2028-04-18.docx",
+      "sha256": "fff3233c9df48a7ac06f4e8abc318d2c3f1670eac294dae388655365473c3435"
+    },
+    {
+      "source": "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/LB-013_2028-04-03.docx",
+      "sha256": "c51f7a9f18f8a5c9557896fccc6c9f29c87d36fec7e8af203120c6b1c8b4811c"
+    },
+    {
+      "source": "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/LB-014_2028-04-24.docx",
+      "sha256": "da93d2f47216259cb32fc4f951972d0ec436da166810cfb421f7e04681cffdc9"
+    },
+    {
+      "source": "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/LB-015_2028-04-10.docx",
+      "sha256": "e7af095104cd6507881189b1a25519a19d1d6f304c13bf4e632e8834f2623762"
+    },
+    {
+      "source": "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/LB-016_2028-04-24.docx",
+      "sha256": "7e89c2c164887528b2af8ce6b884cacd713d266df1146cc1acc2ff02f6db5d0a"
+    },
+    {
+      "source": "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/LB-017_2028-05-08.docx",
+      "sha256": "a8a876b40b381d716608e5f5bea885e0d3d34987a51da7b677ce31135e36e370"
+    },
+    {
+      "source": "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/LB-018_2028-05-02.docx",
+      "sha256": "98920830c25f69876af6ae2c6cff10b0b729e705f5239fd19c73a54e6460aac4"
+    },
+    {
+      "source": "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/LB-019_2028-06-19.docx",
+      "sha256": "8f5767449808e9674b50b303cdcdbe88d1cfac49697310b1f6384ddb9df1049f"
+    },
+    {
+      "source": "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/LB-020_2028-06-19.docx",
+      "sha256": "6d29b44d0dfd95686ba374a9e61b2fa7c0ae19ac0dea548ec4aab550bae22cf9"
+    },
+    {
+      "source": "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/LB-021_2028-07-03.docx",
+      "sha256": "bfad175852adafda443a933ad34e902ba261e36a77cd3703f97c7d9b61c8d325"
+    },
+    {
+      "source": "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/LB-022_2028-07-03.docx",
+      "sha256": "1e68b87b8cb38e81ebf6cc88a12526fb9ab1c5569b5898996bb8fe69c295ea11"
+    },
+    {
+      "source": "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/LB-023_2028-07-17.docx",
+      "sha256": "9294bf38610957bf9ed0ed9a42663ab593797f50da65dcb5c7d1280628a0407a"
+    },
+    {
+      "source": "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/LB-024_2028-07-17.docx",
+      "sha256": "94bc2b172425aed24d3a5f6ad10ec5ded3329a0333cd949ea268fca60009d4db"
+    },
+    {
+      "source": "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/LB-025_2028-07-31.docx",
+      "sha256": "0804cf5362ccf010b9721c7a2b03847e85021e61638698831d357f1b3bfe344d"
+    },
+    {
+      "source": "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/LB-026_2028-08-14.docx",
+      "sha256": "5c12af1a7bfdf8ce8bddb4ffe4c6d6d6b5669fdc1ff202475b94fb263d31c51b"
+    },
+    {
+      "source": "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/LB-027_2028-08-14.docx",
+      "sha256": "2e0e3f4849657366f19cbb4e67a426be5a970a0492e684270745128e58860d6a"
+    },
+    {
+      "source": "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/LB-028_2028-08-28.docx",
+      "sha256": "8774a1a489cff0bc306e163dad329688a2e16ace3e92f037541df9137608fcf5"
+    },
+    {
+      "source": "08_Bauausfuehrung/Bestandsunterlagen/049_Bauzeitenplan.csv",
+      "sha256": "1795caf2efd26fda1456b9dfc7331793bc2c7545082503b5852c68aef5485889"
+    },
+    {
+      "source": "08_Bauausfuehrung/Bestandsunterlagen/050_Bautagebuch.csv",
+      "sha256": "817d1838246e43a404d8b55c7fa8b68abc0608d988e163fc88123c298fdce8fe"
+    },
+    {
+      "source": "08_Bauausfuehrung/Bestandsunterlagen/051_Baubesprechung_Bodenbefund.docx",
+      "sha256": "73bdca6ed47b1168f0a2cac4de565f9dcfe7cc97a569666e6212e41c78dc8927"
+    },
+    {
+      "source": "08_Bauausfuehrung/Bestandsunterlagen/052_Behinderungsanzeige_Rohbau.eml",
+      "sha256": "8b5274151cada737248829dd30f83043e58ce3784d7d199aed33451718be8026"
+    },
+    {
+      "source": "08_Bauausfuehrung/Bestandsunterlagen/053_Nachtragsangebot_Filterpackung.pdf",
+      "sha256": "896b24a1bf18becf74b8de217d5f2b4bdedb913a4548352ad24a90b35c20d306"
+    },
+    {
+      "source": "08_Bauausfuehrung/Bestandsunterlagen/054_Nachtragsauftrag_01.eml",
+      "sha256": "b5caa8800e65720758e22a81d359a86ba9e548983320b010bcede9c4d754f6c5"
+    },
+    {
+      "source": "08_Bauausfuehrung/Bestandsunterlagen/055_Gemeinsames_Aufmass_Nachtrag.pdf",
+      "sha256": "6f1663c3b935568590f0d20b617fcb0ef6119bdf21f1de8499cb72101b822fa9"
+    },
+    {
+      "source": "08_Bauausfuehrung/Bestandsunterlagen/056_Gesamtinbetriebnahme_Technik.pdf",
+      "sha256": "51933677273624138e599e54c5c1fc9928f257721a8beb3342706b944df2dc87"
+    },
+    {
+      "source": "08_Bauausfuehrung/Bestandsunterlagen/057_Maengelanzeige_vor_Abnahme.pdf",
+      "sha256": "d5f9f1243d0a4b1ee916305f962e26ca22b6b0731d7f9361d0323a67920ef03b"
+    },
+    {
+      "source": "08_Bauausfuehrung/Bestandsunterlagen/058_Nachbesserungsstand.eml",
+      "sha256": "029e372cff4269b41d6301161b05ed14b181a6f911b09e7d8e0b01ca10822d4c"
+    },
+    {
+      "source": "08_Bauausfuehrung/Bestandsunterlagen/059_Foermliche_Abnahmen.docx",
+      "sha256": "08f76c17aa6a6fe0df1fbea0804a796198cbddc8db9678ddab16f31c27c478ec"
+    },
+    {
+      "source": "08_Bauausfuehrung/Bestandsunterlagen/060_Uebergabe_Gebaeudeunterlagen.pdf",
+      "sha256": "aa54a09243346c368312ac7ed7f2298dc1e6ac5a9b536f80e485e306a662f823"
+    },
+    {
+      "source": "08_Bauausfuehrung/Bestandsunterlagen/061_Auflagen_und_Schlussunterlagen.pdf",
+      "sha256": "0dbb3be1754e8167d5b890ef958c98e7a3183f4096c7093ad954e515f21538ae"
+    },
+    {
+      "source": "08_Bauausfuehrung/Bestandsunterlagen/062_Betrieb_und_Wartungsplan.pdf",
+      "sha256": "b359d50e2f52ae3eb2fa1920358305d9272ad7a878d09578f517700cb8476078"
+    },
+    {
+      "source": "08_Bauausfuehrung/Bestandsunterlagen/069_Dokumentenregister.txt",
+      "sha256": "e56784870e4a6e28b5bc5d1fffe3c9056f01c4e03d427cd849740c9a8f0db046"
+    },
+    {
+      "source": "08_Bauausfuehrung/Bestandsunterlagen/146_Maengelbuergschaft_Rohbau.pdf",
+      "sha256": "07926632f73e6826ed1591e762aa1382ba2d4dd56e8f5ac0b1a2f91c737716ce"
+    },
+    {
+      "source": "08_Bauausfuehrung/Bestandsunterlagen/147_Belagsvereinbarung_Wohnung07.docx",
+      "sha256": "018270cc9bd96ff85e3362738ae3324c2466ab01e5adf9eaf2b12272bf24410b"
+    },
+    {
+      "source": "08_Bauausfuehrung/Bestandsunterlagen/148_Fertigstellungsmitteilung.docx",
+      "sha256": "d200736a9e9761504b70999985aeee8d770ec579cabf760ca482645c0ab9cf48"
+    },
+    {
+      "source": "08_Bauausfuehrung/Bestandsunterlagen/152_Bauleiterchat_2028-02-02.png",
+      "sha256": "b23cbd005e86c2c180f622de4930e68caa8f21bd978007aeae2145bd5c426f98"
+    },
+    {
+      "source": "09_Abnahme_und_Objektbetreuung/063_Feuchtemeldung_Wohnung05.eml",
+      "sha256": "dcb9a35c0b98e7884bf7e694edf8eee8280a92a946ef6ffa2969260b6e10e600"
+    },
+    {
+      "source": "09_Abnahme_und_Objektbetreuung/064_Objektbegehung_Feuchte.docx",
+      "sha256": "1f9fe82ab4b5d88561a1821c8b2f90463938a4ec5859d7a916a64b5086fb64c8"
+    },
+    {
+      "source": "09_Abnahme_und_Objektbetreuung/065_Rueckmeldung_Fensteranschluss.eml",
+      "sha256": "e744ed9894e878781fee28b2f4d31d39a5b56e140fd81917f9166e48eb910ac6"
+    },
+    {
+      "source": "09_Abnahme_und_Objektbetreuung/066_Vorfristbegehung_2033.pdf",
+      "sha256": "a5da2956f648f32fb58d160aacb11e15db07bbf94fcb8b5b429ca46171382187"
+    },
+    {
+      "source": "09_Abnahme_und_Objektbetreuung/067_Rueckgabe_Rohbausicherheit.docx",
+      "sha256": "5f5f20a56e1de157bac2edfa3c91c0851c623bc9c569e46ecc8447f42aa4770a"
+    },
+    {
+      "source": "09_Abnahme_und_Objektbetreuung/068_Abschluss_Objektbetreuung.pdf",
+      "sha256": "32f83d1fef59f70fa92a007b16e2e8700e9d4400e4186b5d5d950f34a5880583"
+    },
+    {
+      "source": "09_Abnahme_und_Objektbetreuung/153_Abnahme_Architektenleistungen.docx",
+      "sha256": "54b9d24aaef7142651e7cecca7c96c909426a35dbc5fda498486e71d35f87916"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Arbeitsmappen/120_Kostenentwicklung.xlsx",
+      "sha256": "a82430e597edbf39f5b3946e33274ba525ffb2bb2465fe2b5006a2823ad18eab"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Arbeitsmappen/121_Rechnungen_und_Zahlungen.xlsx",
+      "sha256": "4c559b6f1e306a2789d0f18d0edd161a61b1a1d5d8a2abf3f10c0bb8df4dd966"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Arbeitsmappen/122_Finanzierung_und_Vermietung.xlsx",
+      "sha256": "65bb5ff332ca6bf4ec1be1660bb4ba0e4f25c3b88ac15704fc5a623b453ee8fa"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Bauabzug/171_Freistellung_48b_rohbau.pdf",
+      "sha256": "2e9017bfd0fdda376892fd41787f13992c440130e4788ed2f3b70ba54583a0cb"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Bauabzug/172_Freistellung_48b_huelle.pdf",
+      "sha256": "7ae77ac1c26e2170d47aa21e4edd168118379bb29007bb18ca55469948f99408"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Bauabzug/173_Freistellung_48b_hls.pdf",
+      "sha256": "6ba2b30ad009520e6aebed7295e02ce116e1ead4f01eee48d0dffb551f123d01"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Bauabzug/174_Freistellung_48b_elektro.pdf",
+      "sha256": "b54d263aff180eb446499f5f2a4f0d4a50088be04f762fe2b6fc3e670c86138b"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Bauabzug/175_Freistellung_48b_ausbau.pdf",
+      "sha256": "c89d004c96a8515e4301435d66e93946a7443f95426e4ba4b54567a892ba1203"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Bauabzug/176_Freistellung_48b_aufzug.pdf",
+      "sha256": "e8b881ded67c8061164f329b1a0f396d663a62b103b626232455ccd9396a2289"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Bauabzug/177_Freistellung_48b_aussen.pdf",
+      "sha256": "348c0e4ef14dd6820344a83de4acac95598e413c786d5c311f98b1945b7892dd"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Bauabzug/178_Freistellung_48b_versorger.pdf",
+      "sha256": "2b623ae25e2c33ca442fa081f8501cb8de687af5f48f81b4dc66b93f6c414473"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Bauabzug/179_Freistellung_Abfrage_und_Gueltigkeitsprotokoll.pdf",
+      "sha256": "f6890469d74322c52bb414756af30129dbf9c3761edf410fa69a512295ade9ba"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Belege/070_Kaufpreisfaelligkeit_Grundstueck.pdf",
+      "sha256": "74d4104be177c4c306f001741137efd766c4f1344c3252e95052d4a77c1f666e"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Belege/071_Grunderwerbsteuerbescheid.pdf",
+      "sha256": "6094481cb227810a4a0d7431a314fbf84e5f7f247df7c83117c753a72bbb2e94"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Belege/072_Notarkosten_Schlussberechnung.pdf",
+      "sha256": "44ded7e97d704d19b90df9cbc59800171998f41964ee4cac3e969db88f355f91"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Belege/073_Grundbuch_Kostenrechnung.pdf",
+      "sha256": "7e71c459702a6ae58038dd235a6035f2d81933eea0c8fa85d781a301f346e0be"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Belege/074_Maklerrechnung.pdf",
+      "sha256": "a1cf9eb3171f58deda57f8c7c38b337dd10f42040a5e3697971a9bc453adeaa2"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Belege/075_Baugenehmigung_Kostenbescheid.pdf",
+      "sha256": "34ec6d2c425f3fe8665ab4bbb5cbdd01a741a2f476966b0a2a79d1f9bb33f15d"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Belege/076_Bauversicherung_Beitragsrechnung.pdf",
+      "sha256": "b88c79d0a2cfaaef922658beb2357ca50513067292d5f74e6caf82ab0fee40f5"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Belege/077_Bank_Finanzierungsentgelt.pdf",
+      "sha256": "4a2b2683cf0caad326fd3203140902b8370fb3b6a07b3a736fda813559f1503f"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Belege/078_Bank_Zinsabrechnung_2027.pdf",
+      "sha256": "2b71eefbe77356697b14009d66958f47f628cb07b9c4c0a763bb811b177ec722"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Belege/079_Bank_Zinsabrechnung_2028.pdf",
+      "sha256": "60cc2522bca107c88f9c4a4908367924b1543c7b03ff6f37f24f95e1c632b827"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Belege/080_Architekt_Rechnung_LPH1_4.pdf",
+      "sha256": "405b8e540dd4b8e59011f3d933178d83e87f8fc8dd97de03e652c7472cf46265"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Belege/081_Architekt_Rechnung_LPH5_7.pdf",
+      "sha256": "4df9c69d1f080d2a4bed6a984152d257054f94ad67f4a947e93c854e04a54553"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Belege/082_Architekt_Rechnung_LPH8.pdf",
+      "sha256": "a42a2f7982d7da79be0a2ac2484ccc5af9acaec0a233f6c2dbddf02a37486127"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Belege/083_Architekt_Schlussrechnung_LPH9.pdf",
+      "sha256": "d72e44f10d53ea96399b23206fb0b430c7b800d549620c4e0eccdae03ce23e87"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Belege/084_TGA_Planungsrechnung.pdf",
+      "sha256": "7c55c9c02347ad6fed818f18d64bee9151bb404cd2538a8e5edca586f1dacab0"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Belege/085_TGA_Schlussrechnung.pdf",
+      "sha256": "57304e2679b17b8f10a4147b0b8cc4ca3b7c62ea197554580eb68ff2cee5e571"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Belege/086_Tragwerk_Schlussrechnung.pdf",
+      "sha256": "ea6f066cb762316c2365f9f5016f541f286084b3fcac16667c9d21617e51072b"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Belege/087_Vermessung_Schlussrechnung.pdf",
+      "sha256": "2600003603e32fafe27c95671ffd126e8ea795b596bf9736ba01e6f54494f328"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Belege/088_Baugrund_Rechnung.pdf",
+      "sha256": "ae46bf21d624c7fbf03a2337d1628060a6c0bb9badc148799b89398134d97b45"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Belege/089_Energie_Rechnung.pdf",
+      "sha256": "898bf8e93ff43781f5ebb58b270a1480ee59ac5b1b19e28ce21ea466ffd76fb0"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Belege/090_Brandschutz_Rechnung.pdf",
+      "sha256": "e5e2743b49e8a97e13aad07d645acd89f4c687f69c8f1f7b734d826a75bb2968"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Belege/091_Rohbau_Abschlag1.pdf",
+      "sha256": "a7d293d6a5ccd4e341dc6a2c6b9e7a21b55fd58c34f3bdaabecd7fe6134da723"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Belege/092_Rohbau_Abschlag2.pdf",
+      "sha256": "c2bc9b716e30939b1ce93e0760719af36dcfd025f195cf05731a13a61e39a59f"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Belege/093_Rohbau_Schlussrechnung.pdf",
+      "sha256": "7495e7f3c996349dfa76db5a02a53e08b4abed8fe30d4f165f97e275cacdc7eb"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Belege/094_Gebaeudehuelle_Abschlag.pdf",
+      "sha256": "3b869c79a3d53a20a544a151e53a7a8d6a865a2cf96a872e7322133ba373f58d"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Belege/095_Gebaeudehuelle_Schlussrechnung.pdf",
+      "sha256": "70a9d0957767c808e21a5ec91a7a5850aa5736a13421ca329766353ccfb3d158"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Belege/096_HLS_Abschlag.pdf",
+      "sha256": "d77b627a6a9201de41431e74e56727e4fcb01dc3c1e9981276c4938aff9a749e"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Belege/097_HLS_Schlussrechnung.pdf",
+      "sha256": "83490823c5254b2622f115ced0790941766f5f1e788532edd4d1397c79be3814"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Belege/098_Elektro_Abschlag.pdf",
+      "sha256": "765bffa6763f75f07df243c91cc7f94af96f7664cd7e1821a13f334557b3398c"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Belege/099_Elektro_PV_Schlussrechnung.pdf",
+      "sha256": "2d81df7a4085db0cd5f3d18964511facce8ba54851c6e83a4324f7625b5f92d5"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Belege/100_Innenausbau_Abschlag.pdf",
+      "sha256": "b07535a96cdcdbfaf19fc267c37024ceae0687270b6345bf49cd0560c2f9c927"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Belege/101_Innenausbau_Schlussrechnung.pdf",
+      "sha256": "2937a72f0922a2fa673572e592f1a4f4e47468f788259f29a21c5d680bd78d5e"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Belege/102_Aufzug_Schlussrechnung.pdf",
+      "sha256": "4f57b07ecae4479d30783692d34478299ac1342cdbce8f17177e00041a21d195"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Belege/103_Aussenanlagen_Schlussrechnung.pdf",
+      "sha256": "c6b5adfde25c31d18e133d84166d0720995bd2eb73c575affc9903b152be5039"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Belege/104_Hausanschluesse_Rechnung.pdf",
+      "sha256": "d0f8c2c5e5a2902b5678c171a1058721ee9b15fdbeb07d2f765c406fcc3024b4"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Belege/105_Rohbau_Nachtrag_Draenpackung.pdf",
+      "sha256": "7090b82a5bd9a7b66161b68b68b6d396a28abea21813438918c94dd284762cd1"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Belege/106_Innenausbau_Rechnungskorrektur.pdf",
+      "sha256": "b8d847091f4a356e56f90708969c24e612364d7a40eb228c84ae8e3042c505a9"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Belege/107_Darlehensvereinbarung.docx",
+      "sha256": "6516c08c38a899d30e14217b8b21e4fa83a6d2c3f5de5be03a6ad216a04c270d"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Belege/108_Eigenkapital_und_Vermietungsannahmen.docx",
+      "sha256": "b7f2fe6101a6f582b0989654c5491267fe268dc72fc617cce5adfdfdb63d8b24"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Belege/109_Projektkonto_2026.pdf",
+      "sha256": "4162a0b81b540160ba9bda85829fd3292856de8c267ba54bf110e1da8a2a2b88"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Belege/110_Projektkonto_2027.pdf",
+      "sha256": "5faa1f7de5674c6cb54f40f54cc82c9d17ca39ff42c98a5c0dd2cf79276fbe22"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Belege/111_Projektkonto_2028.pdf",
+      "sha256": "d4a724286eac53cfd3f5ef3d50776209f936984923d15750a04e745069485b9d"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Belege/112_Projektkonto_2033.pdf",
+      "sha256": "222d8a9af3cd892ec0d9316fb57d340551690c8aefad020ce5b0d5bb6038eed1"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Belege/113_Rueckfrage_Elektrozahlung.eml",
+      "sha256": "a4e9d7c5bf6b61952b8fa823276578fc2ea8dfdc2e990c877c52d4188bab9771"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Belege/114_Elektro_Rueckzahlung.eml",
+      "sha256": "00294647f5b7940f1b9f9041ceb9ea51138f1f3b02392b690f2499ee82ae077c"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Belege/115_Innenausbau_Belagsvereinbarung.eml",
+      "sha256": "fec5ddb4eb2d359f24c2ab416f8c4c25474b04014b12842f9bd025189bf0a61b"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Belege/116_Projektabschluss_Zahlungsstand.eml",
+      "sha256": "e721f0028de3b07d325019d49b1e90546a2f24b54507a5a82544eae1a65edc98"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Belege/119_PV_Lieferung_Montage_Nullsteuersatz.pdf",
+      "sha256": "4a4824596380d6b54eee4c07260cdb81d3e8b177ecc1104e084788c8f54ac441"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Rechnungseingang/2027-01-18_BP-27-018_Belegzugang.eml",
+      "sha256": "fab4868b3bda5bbee728fffcec2a7e65dde2736aaaeaedbf639fc5e3440393d4"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Rechnungseingang/2027-09-24_KF-27-091_Belegzugang.eml",
+      "sha256": "1e731d83cea0fda59d2e9b03251c164db10b9ad4ff7bcf9d7c0ab8335276c075"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Rechnungseingang/2027-09-27_PT-27-092_Belegzugang.eml",
+      "sha256": "96bb1bdeb3303f24e3cad72070873898e570bdab956394c6704080204650af67"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Rechnungseingang/2027-11-26_KF-27-116_Belegzugang.eml",
+      "sha256": "ab590bb71899dbbec506865df0078191c32929f01ca176a689aa616d84fb90cb"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Rechnungseingang/2028-02-15_SH-28-021_Belegzugang.eml",
+      "sha256": "3b9f890965ff80f5791f6e6788bdd80b61926f224ef7e6699bab1fd390a37442"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Rechnungseingang/2028-03-05_SH-28-N01_Belegzugang.eml",
+      "sha256": "9b7b745c45ee9e5242e779c17d7199a7b4f487424385183b778658a622bf1562"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Rechnungseingang/2028-04-15_SH-28-046_Belegzugang.eml",
+      "sha256": "24dda407d04b8fedafce84a9aa49efeb0bd680455c01107af68aa9b0929502c4"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Rechnungseingang/2028-05-15_DG-28-052_Belegzugang.eml",
+      "sha256": "71d64a984e44da4bf588b87c9e459aef8ebf01461b10639ba492b5e77ef50514"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Rechnungseingang/2028-06-01_LE-28-061_Belegzugang.eml",
+      "sha256": "6e38fdabce4be47a1153f258ef62eee4df23e8be14e3695a951fcb8004c63278"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Rechnungseingang/2028-06-15_WH-28-063_Belegzugang.eml",
+      "sha256": "46857f299cf03cadd1a945a075ab1cae774ee47bd70bd7dfb21c3c4f47135185"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Rechnungseingang/2028-07-15_IA-28-074_Belegzugang.eml",
+      "sha256": "670208aa939168c0c19bf8862e18be77237d706d690446d167c2f0986ff441e7"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Rechnungseingang/2028-08-20_LN-28-081_Belegzugang.eml",
+      "sha256": "3c7b2153464ad6b4cf1d22ddac78eeabde490fe56df8b464715fd717c5a6aeb1"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Rechnungseingang/2028-09-22_BW-28-093_Belegzugang.eml",
+      "sha256": "9c911ba71a8ecac5e5751f5b2acc92b629ae8f140c9d5cd2892e8877eccbd44d"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Rechnungseingang/2028-09-24_LP-28-094_Belegzugang.eml",
+      "sha256": "d5719eaca0cbff96649ff6d6a7c3811751b38998d3034180d17626f08bf344f2"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Rechnungseingang/2028-09-25_EP-28-096_Belegzugang.eml",
+      "sha256": "e1f1d680b251a2b38049ed73515d9dcedbc6a93880a5a133f02649a50167dd5b"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Rechnungseingang/2028-09-25_RW-28-095_Belegzugang.eml",
+      "sha256": "5453e42553f5a75c8ae61ba70621d0f99897946857efd85d702e05b1079d90fe"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Rechnungseingang/2028-09-30_DG-28-098_Belegzugang.eml",
+      "sha256": "831e4eeeb8582de6e85c050c70e82bf49b5eef2f8d2f140b761754e5190dcc50"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Rechnungseingang/2028-09-30_HA-28-093_Belegzugang.eml",
+      "sha256": "7a1cd5c35423ce2f0b95892104714fab8e780c0a09681934d1fe2058c57e26e3"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Rechnungseingang/2028-09-30_IA-28-095_Belegzugang.eml",
+      "sha256": "ab1e262e07228e36f1ef15328bff9ddcedb432d9fdbe14e46b80d0158c0abfea"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Rechnungseingang/2028-09-30_LE-28-098_Belegzugang.eml",
+      "sha256": "2ce0699b1d2133421f49a752a2e6485f8144af9e3c1c41d295257f3bdf8b8e33"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Rechnungseingang/2028-09-30_LE-PV-28-099_Belegzugang.eml",
+      "sha256": "a637442de6adcbb0380dccb62a8bc9839d3b7e94b0879aaa367b49fc904669b0"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Rechnungseingang/2028-09-30_SH-28-093_Belegzugang.eml",
+      "sha256": "4a2f22f0b087e68dd53819d2fa10516668f37993c38849d157332d0e20967692"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Rechnungseingang/2028-09-30_WH-28-094_Belegzugang.eml",
+      "sha256": "5c2143c43307abb647821e6319ca63ab44e41e764824e645c81759b06efb747f"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Rechnungseingang/2028-10-15_IA-G-28-017_Belegzugang.eml",
+      "sha256": "fb70469f90b9574b00df58e0ec391772c15b9e43c7fba2f03f5c85abf1808979"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Rechnungseingang/2028-10-20_KF-28-104_Belegzugang.eml",
+      "sha256": "cc835055104d3c1f9d695be2c227958c1335914741c41bebfb2ae39ab8aff918"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Rechnungseingang/2028-10-22_PT-28-104_Belegzugang.eml",
+      "sha256": "64e91a586fa83e4a8f093dcf3ecbe369530ecf783debd62e5484593f9e1498ee"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Rechnungseingang/2028-11-15_GG-28-115_Belegzugang.eml",
+      "sha256": "ec49f55a111acddc8694c4d1bc051bf907e711f74db5c592fe6fa4da19c1a786"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/Rechnungseingang/2033-09-26_KF-33-092_Belegzugang.eml",
+      "sha256": "2c54d9ea1897a3e17921820eede7c08499f7154c47a0b8e250a494876a47388f"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/XRechnungen/080_Architekt_Rechnung_LPH1_4_XRechnung.xml",
+      "sha256": "e420c0584b3ea66d8a056bc2167747516d1bc11d80db4874bf69cbaaa855365e"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/XRechnungen/081_Architekt_Rechnung_LPH5_7_XRechnung.xml",
+      "sha256": "889914a85581da90fc36ef27ffc6104225f74d2ca2f1c1c5640312fbb90b5318"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/XRechnungen/082_Architekt_Rechnung_LPH8_XRechnung.xml",
+      "sha256": "89aeaafd54f5f55c1f47bbf8f9b6810437d53d81eefc66e8c8480fe0ce442118"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/XRechnungen/083_Architekt_Schlussrechnung_LPH9_XRechnung.xml",
+      "sha256": "7a000db7807be2608c276773e17c2598ab75bee16a90183b514cfe6eda4b897d"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/XRechnungen/084_TGA_Planungsrechnung_XRechnung.xml",
+      "sha256": "c8300f531580965de6108b6aef093c17029eca892da6506322781fca19ff4435"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/XRechnungen/085_TGA_Schlussrechnung_XRechnung.xml",
+      "sha256": "3077f6d72817be06411dec282bba0a4d4b0bc8be22d60e946adc1bc06e552104"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/XRechnungen/086_Tragwerk_Schlussrechnung_XRechnung.xml",
+      "sha256": "3c24c7ea88066ec629ea3ae41730d9ce24694a10ea16c31e44dde5aa7dc02a67"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/XRechnungen/087_Vermessung_Schlussrechnung_XRechnung.xml",
+      "sha256": "6f4cecf13f169f93ac81c652cffb0e93da1b0df784b041f8ba83b678391e729e"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/XRechnungen/088_Baugrund_Rechnung_XRechnung.xml",
+      "sha256": "5a7c0763183023fc98e262bc42b93b72989652645d1155c6ee33b41e8390fd2a"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/XRechnungen/089_Energie_Rechnung_XRechnung.xml",
+      "sha256": "f5d45d9dbe72a81c1e994ddfdb2258c2a1c1e702281107b311d72d0aae95e003"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/XRechnungen/090_Brandschutz_Rechnung_XRechnung.xml",
+      "sha256": "7c40bec36893942197450390f3f005d403a12d6a6a9d83038b03154ff3956c94"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/XRechnungen/091_Rohbau_Abschlag1_XRechnung.xml",
+      "sha256": "17e46ee2d9ebc1ff8649e9a3f4b708c3989ea7247697091aaab7f4704f4024ea"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/XRechnungen/092_Rohbau_Abschlag2_XRechnung.xml",
+      "sha256": "f30b952d4f7e9c26d1006488e26bb6f06f443398a5f92f5b16072b2ea152677a"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/XRechnungen/093_Rohbau_Schlussrechnung_XRechnung.xml",
+      "sha256": "96c3f4ea9f30dcfe19ac8f55434c897728492ee62beaed317ac0e17e2ca1129c"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/XRechnungen/094_Gebaeudehuelle_Abschlag_XRechnung.xml",
+      "sha256": "56f6fd29633eaa7baf142a51aadee069984f12c76dd7e393ad043128253741ad"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/XRechnungen/095_Gebaeudehuelle_Schlussrechnung_XRechnung.xml",
+      "sha256": "8d09311cce0adae4ed191a93f2fa18be1ded79228e3e027041b4ac934d43b3e9"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/XRechnungen/096_HLS_Abschlag_XRechnung.xml",
+      "sha256": "981cf4ecfa4252c9ccce3fb81c3bb5c90f590aa94b8ea8c261a7e96d8eed04f7"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/XRechnungen/097_HLS_Schlussrechnung_XRechnung.xml",
+      "sha256": "a1e92709c4762052f7f0736572e90880ea57011b0e7d6f7b8b4896bbc5b08096"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/XRechnungen/098_Elektro_Abschlag_XRechnung.xml",
+      "sha256": "3bbd36b54f8c5ca81fbc7d4a660877644d357c0334e93a1f6747176b74d1a719"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/XRechnungen/099_Elektro_PV_Schlussrechnung_XRechnung.xml",
+      "sha256": "e502518ba9498ff5a5fdbce8aba8e2a445fba282f7612d718189918e60ea2082"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/XRechnungen/100_Innenausbau_Abschlag_XRechnung.xml",
+      "sha256": "4d740f5d5d6311f445b8a0cfc10a447ca69f0a95e2a649963d11cac2e3ab3adf"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/XRechnungen/101_Innenausbau_Schlussrechnung_XRechnung.xml",
+      "sha256": "62666dd8e85d2c9302b35fdccb1612becd46695636c9c78c4fd95106ce376e20"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/XRechnungen/102_Aufzug_Schlussrechnung_XRechnung.xml",
+      "sha256": "45da7f498275e2ef39c6dedf7d9abc60ffdc6c0d3361dcf5f6f27e29c00a9328"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/XRechnungen/103_Aussenanlagen_Schlussrechnung_XRechnung.xml",
+      "sha256": "238ae98229216416d4e97c3ddc15966024d3692f4af32107d6a09def37b1b611"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/XRechnungen/104_Hausanschluesse_Rechnung_XRechnung.xml",
+      "sha256": "f5a4cffadfb0bc91f96040e6172d5a2cd32780dc9a44200fe0159f065a063bf2"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/XRechnungen/105_Rohbau_Nachtrag_Draenpackung_XRechnung.xml",
+      "sha256": "bd69c5e46558c30cce06936f7ca72665eef73f8212cced6e214aae1700a6505f"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/XRechnungen/106_Innenausbau_Rechnungskorrektur_XRechnung.xml",
+      "sha256": "60bc2ca5e57acd697efc2ce8ada8ece3ffa3b356a5608bd22dfc6182d82179d5"
+    },
+    {
+      "source": "10_Rechnungen_und_Buchhaltung/XRechnungen/119_PV_Lieferung_Montage_Nullsteuersatz_XRechnung.xml",
+      "sha256": "c210cb0abba387808b2733960a3f06bb71fee32df193d50601c65139efd80240"
+    },
+    {
+      "source": "11_Vermietung/130_Mietvertrag_WE01.docx",
+      "sha256": "ef9a236f03f5aae58508fc492117d3f8b38b3b2d14e5eb7fef26e761c4599742"
+    },
+    {
+      "source": "11_Vermietung/131_Mietvertrag_WE02.docx",
+      "sha256": "06906df2ba7907c5e916889522bf3b577a330deda894ca3f8de9b91879e0af35"
+    },
+    {
+      "source": "11_Vermietung/132_Mietvertrag_WE03.docx",
+      "sha256": "1f42482c1f7d27d8756654654fb45d3488896bd62e93a34be7c74e5505d8f1c1"
+    },
+    {
+      "source": "11_Vermietung/133_Mietvertrag_WE04.docx",
+      "sha256": "7195b04e271035f0496b3b7c3054748d0c03df0a493745821d3cbc4f2fea7829"
+    },
+    {
+      "source": "11_Vermietung/134_Mietvertrag_WE05.docx",
+      "sha256": "0eaf2d505846ebcc7ee1144d09ec5a9104c017678459ec50756f89f36eec34cf"
+    },
+    {
+      "source": "11_Vermietung/135_Mietvertrag_WE06.docx",
+      "sha256": "910bb27913befd13a0af81204b58e92e97746400d17877d598b07e1839bf2d72"
+    },
+    {
+      "source": "11_Vermietung/136_Mietvertrag_WE07.docx",
+      "sha256": "9027c76c7004186eb661601e20d854903f7dbdbf2880429d1eb24d8bc96d16cd"
+    },
+    {
+      "source": "11_Vermietung/137_Mietvertrag_WE08.docx",
+      "sha256": "eb9537d6aec8fdec4a76d55d387a29693c021f031e863bb423a3bedea1bbb781"
+    },
+    {
+      "source": "11_Vermietung/138_Uebergabe_WE01.pdf",
+      "sha256": "6a3918438c06247f5efeb39fcd4cf5b628e9a554163260cf1b32711f792a4852"
+    },
+    {
+      "source": "11_Vermietung/139_Uebergabe_WE02.pdf",
+      "sha256": "586cbd7d901a9952b041edac5193cc3953384cdd6217410ff1ea61df64cc8eef"
+    },
+    {
+      "source": "11_Vermietung/140_Uebergabe_WE03.pdf",
+      "sha256": "844bddb58e02089991f4c7f21318314c193af130e6e0d1a06c7126fc78f1a3e1"
+    },
+    {
+      "source": "11_Vermietung/141_Uebergabe_WE04.pdf",
+      "sha256": "69350e3db29a8f4945bcd7b40da62312cf8494e0078ae8426dcf4189bc63b5fc"
+    },
+    {
+      "source": "11_Vermietung/142_Uebergabe_WE05.pdf",
+      "sha256": "0fc316ba169c100c2234485d6a6ac5373158b460ac13551c1c7c84bfd780283e"
+    },
+    {
+      "source": "11_Vermietung/143_Uebergabe_WE06.pdf",
+      "sha256": "c3c0f76362cc7018890322def3ecdc731ea7a918eda2d085fad23a5a928f9506"
+    },
+    {
+      "source": "11_Vermietung/144_Uebergabe_WE07.pdf",
+      "sha256": "c92e21b374493c699d534e83e78a2aa686aad5d788fd0115f744e519df1979a5"
+    },
+    {
+      "source": "11_Vermietung/145_Uebergabe_WE08.pdf",
+      "sha256": "de51186506fe27b604ff5a59832163571f8e28312ab1f5f4dac95e18c96f4abb"
+    },
+    {
+      "source": "11_Vermietung/154_Vorvertragliche_Auskunft_WE01.eml",
+      "sha256": "277a8c42fd21a98d76690414501990ea562ea9054db0744b56a81859a44cf005"
+    },
+    {
+      "source": "11_Vermietung/155_Vorvertragliche_Auskunft_WE02.eml",
+      "sha256": "29c297a2a1a63c5f459d23eba3e4a62936187af7ec35b00dbc93d11db7a083a3"
+    },
+    {
+      "source": "11_Vermietung/156_Vorvertragliche_Auskunft_WE03.eml",
+      "sha256": "d77eaf9567810ee18a0371ccec91ee89f0d2e68d083a2b71b2aa4da83847ad66"
+    },
+    {
+      "source": "11_Vermietung/157_Vorvertragliche_Auskunft_WE04.eml",
+      "sha256": "8af39a50b9fbec2c13516691662898f882686a3bfd524be9d9239badf6111255"
+    },
+    {
+      "source": "11_Vermietung/158_Vorvertragliche_Auskunft_WE05.eml",
+      "sha256": "20f932fcc39d00ac8876c49e97ba438e58e4e4ed94ce4ab5e7bce5eb105f453d"
+    },
+    {
+      "source": "11_Vermietung/159_Vorvertragliche_Auskunft_WE06.eml",
+      "sha256": "495b532b66e78724995f9f8fb7ac96ccdce98e92e709c20f492d122f73254682"
+    },
+    {
+      "source": "11_Vermietung/160_Vorvertragliche_Auskunft_WE07.eml",
+      "sha256": "5379b6aaf4c4cfbc4a179f5c81aac3c74ad258b56aadbd72c26b5841bdaac594"
+    },
+    {
+      "source": "11_Vermietung/161_Vorvertragliche_Auskunft_WE08.eml",
+      "sha256": "b02e5d976ae0748a452e8b0bc9cdace9cc760c07990a48a76b404c81bbd793cf"
+    },
+    {
+      "source": "12_Wordvorlagen/Bau/VB_01_Tagesbericht.docx",
+      "sha256": "4183762bb1f31aded2f22fe6fd7fb88eb218a9a61f25b7c15d8959f9afaa2a58"
+    },
+    {
+      "source": "12_Wordvorlagen/Bau/VB_02_Baubegehung.docx",
+      "sha256": "9da1b30d95c33c84786532e3a49efb38c0975f7438db646f1d700cea642660e2"
+    },
+    {
+      "source": "12_Wordvorlagen/Bau/VB_03_Maengelanzeige.docx",
+      "sha256": "67dc3f0c66b67125a441ad115904ebb16abae366d51fa5f0d1346b8c66074228"
+    },
+    {
+      "source": "12_Wordvorlagen/Bau/VB_04_Nachkontrolle.docx",
+      "sha256": "68b5c533d32ff1c166b763f6382957b06a1d5c5f3e9decce95e57cf6d0531601"
+    },
+    {
+      "source": "12_Wordvorlagen/Bau/VB_05_Bedenkenhinweis.docx",
+      "sha256": "791bfade9a1866feab2a818f4fad63aeba8da3dad1100f30a7a87159e40378fb"
+    },
+    {
+      "source": "12_Wordvorlagen/Bau/VB_06_Nachtragspruefung.docx",
+      "sha256": "00ad4d4217ee2cdea7d505711ce73303c80ce1b0e4c20bac0c2c38b7d073d2e0"
+    },
+    {
+      "source": "12_Wordvorlagen/Bau/VB_07_Bauteilfreigabe.docx",
+      "sha256": "284386a91710bbaa9f378bba2a567e5b625d03fc4771e759beb5903a8fd08c62"
+    },
+    {
+      "source": "12_Wordvorlagen/Bau/VB_08_Abnahmeprotokoll.docx",
+      "sha256": "95a912f7df189267aa88d297085344772350c5e9adfe6d6444b69a4d3f2b7522"
+    },
+    {
+      "source": "12_Wordvorlagen/Bautraeger/V01_Bautraegerkaufvertrag_ausformulierte_Wordvorlage.docx",
+      "sha256": "b8182b5b2db88359ec761b3afdade2070b79c11831662cbe314758b54551a4b3"
+    },
+    {
+      "source": "12_Wordvorlagen/Bautraeger/V02_Abnahmeprotokoll_Sondereigentum.docx",
+      "sha256": "2b1b07deccd65b9d4cb98cb707c169954b3a20fcc6d10ade806bb6e430f93318"
+    },
+    {
+      "source": "12_Wordvorlagen/Bautraeger/V03_Abnahmeprotokoll_Gemeinschaftseigentum.docx",
+      "sha256": "819681da5b8f97d59dba4c137e8f0fa2b846b001537280df6bfc2d7198ccf002"
+    },
+    {
+      "source": "12_Wordvorlagen/Bautraeger/V04_Sonderwunschvereinbarung.docx",
+      "sha256": "b0e6e0b5a526255dd4188b4c5c2d6bc4fd9f616b60b36bacf13174da9720e31b"
+    },
+    {
+      "source": "12_Wordvorlagen/Bautraeger/V05_MaBV_Ratenabruf.docx",
+      "sha256": "0105edd25207d6a1f310c72b5a4c8e971aa0f3558a3b831830c8d61b2bbb61c1"
+    },
+    {
+      "source": "12_Wordvorlagen/Bautraeger/V06_Maengelanzeige_und_Terminabstimmung.docx",
+      "sha256": "a874f833a7c2dfa20a9392511156e20038ab57984a226be3033f6da93006a7b2"
+    },
+    {
+      "source": "12_Wordvorlagen/Kaufmaennisch/Doppelzahlung_Rueckforderung.docx",
+      "sha256": "371b770aa0f3ca610e70065d81d2cb914075bec33e20295d07e273e6c2158057"
+    },
+    {
+      "source": "12_Wordvorlagen/Kaufmaennisch/Rechnungseingang_und_Nachforderung.docx",
+      "sha256": "8aa87e498969a7dba57ae479c0056a70dff8131fba3caa1569f7678687355cd0"
+    },
+    {
+      "source": "12_Wordvorlagen/Kaufmaennisch/Rechnungseinwendung.docx",
+      "sha256": "5383dd6ca6a51e990ba6286a56c33cd39a5f03df6a3b4e54448a0d8e9a867128"
+    },
+    {
+      "source": "12_Wordvorlagen/Kaufmaennisch/Zahlungsfreigabe.docx",
+      "sha256": "7c33dfe193bf2ea90930eee8f5eeb003e838da13464ef43ed27e7d6bbc93edd2"
+    },
+    {
+      "source": "13_Option_Bautraegerverkauf/00_Entscheidungsvorbereitung/OP01_Beschlussvorlage_Einzelverkauf.docx",
+      "sha256": "4ec29abb6e626146d9c0ef5005761c2f810e2e9153a247e3beccd011d18efaba"
+    },
+    {
+      "source": "13_Option_Bautraegerverkauf/00_Entscheidungsvorbereitung/OP02_Aufteilungsplan_Vorbereitungsauftrag.docx",
+      "sha256": "8a81d9bcc8b79282d9ee280dc984f15d126e3d3cd9c3d16d6fe46d61bc58f4ee"
+    },
+    {
+      "source": "13_Option_Bautraegerverkauf/00_Entscheidungsvorbereitung/OP03_Bankanfrage_Pfandfreistellung_Entwurf.docx",
+      "sha256": "b88ef2921ad7e6395484c42ad742a928d35f5f3798c48ffd1ea8ef359fae6301"
+    },
+    {
+      "source": "13_Option_Bautraegerverkauf/00_Entscheidungsvorbereitung/OP04_Preisansatz_und_Ratenkontrolle.csv",
+      "sha256": "69d22d01aad588706f4a02b8b53289bc9cbfd81b50af5d8601fbbcd88c16ca62"
+    },
+    {
+      "source": "13_Option_Bautraegerverkauf/01_Vertragsentwuerfe/BT01_Bautraegerkaufvertrag_WE01.docx",
+      "sha256": "cbd822d11e2b73fb0a267c634c5550b337f9b630eadae7914e4a55454a69a58e"
+    },
+    {
+      "source": "13_Option_Bautraegerverkauf/01_Vertragsentwuerfe/BT02_Bautraegerkaufvertrag_WE02.docx",
+      "sha256": "f1cc7767fe2c0dcedb5e8a37071f5f060b88de34959e97fd2406f699acfc94e5"
+    },
+    {
+      "source": "13_Option_Bautraegerverkauf/01_Vertragsentwuerfe/BT03_Bautraegerkaufvertrag_WE03.docx",
+      "sha256": "ba65b2bd09829dc0424c94be3a854500d26729bfb24532b7125761fb54db8ed7"
+    },
+    {
+      "source": "13_Option_Bautraegerverkauf/01_Vertragsentwuerfe/BT04_Bautraegerkaufvertrag_WE04.docx",
+      "sha256": "daa1e6a7e1be4c5c85c98302eb26e211751eba3d6bfa1425682911136d11f4d7"
+    },
+    {
+      "source": "13_Option_Bautraegerverkauf/01_Vertragsentwuerfe/BT05_Bautraegerkaufvertrag_WE05.docx",
+      "sha256": "40e6f91b70eb0a94dd947ffb1878f934cfcaeba87904cf885886ea2821ee6618"
+    },
+    {
+      "source": "13_Option_Bautraegerverkauf/01_Vertragsentwuerfe/BT06_Bautraegerkaufvertrag_WE06.docx",
+      "sha256": "ec458847dcb44746e91b572d7b2173e988165d053673eb4a902b4ecbd5aab811"
+    },
+    {
+      "source": "13_Option_Bautraegerverkauf/01_Vertragsentwuerfe/BT07_Bautraegerkaufvertrag_WE07.docx",
+      "sha256": "c45a257b075e7309a12750727e13dd155bb0d471afa0bf1d359da27bf39b415a"
+    },
+    {
+      "source": "13_Option_Bautraegerverkauf/01_Vertragsentwuerfe/BT08_Bautraegerkaufvertrag_WE08.docx",
+      "sha256": "0a71c265d907374e93d16d2cc7ba3f529db09a4c2e7f185182a649718c51cfa0"
+    },
+    {
+      "source": "13_Option_Bautraegerverkauf/02_Gemeinsame_Anlagen/AN01_Teilungserklaerung_Gemeinschaftsordnung_Entwurf.docx",
+      "sha256": "006677147fdc54ffa1d55d7468aa5dcf246eef6211407275693ded750680ac38"
+    },
+    {
+      "source": "13_Option_Bautraegerverkauf/02_Gemeinsame_Anlagen/AN02_Baubeschreibung_BT_BB_01.docx",
+      "sha256": "9430ed7ae4b2ec830dac70842e9b0242a55b0de6543676fe828bb07c1ad96045"
+    },
+    {
+      "source": "13_Option_Bautraegerverkauf/02_Gemeinsame_Anlagen/AN03_Bemusterung_Sonderwunschordnung.docx",
+      "sha256": "9289f3fa7a63b307d50576171ff00d4679ad39ec087de7a45ceb2a98bee7fd55"
+    },
+    {
+      "source": "13_Option_Bautraegerverkauf/03_Wohnungsanlagen/WE01_Raten_und_Sicherungsplan.docx",
+      "sha256": "75de6639811fcafffbf57b803ce2423e9af1c28678ea872bb8dc912b7fb1a7e4"
+    },
+    {
+      "source": "13_Option_Bautraegerverkauf/03_Wohnungsanlagen/WE01_Raumliste_und_Zuordnung.docx",
+      "sha256": "e4eb01b2c54f929bd7a28359cf45b0fea851c6cb63bcf11de926bc86ba8002c2"
+    },
+    {
+      "source": "13_Option_Bautraegerverkauf/03_Wohnungsanlagen/WE02_Raten_und_Sicherungsplan.docx",
+      "sha256": "9223c1255e055a8979bd4dd37ec5417e5b12dd0c69fb691bcbde55251a52f379"
+    },
+    {
+      "source": "13_Option_Bautraegerverkauf/03_Wohnungsanlagen/WE02_Raumliste_und_Zuordnung.docx",
+      "sha256": "e9f46017187edc2af221d24841cbbb5168425653b1ea7db6c27489a89033a136"
+    },
+    {
+      "source": "13_Option_Bautraegerverkauf/03_Wohnungsanlagen/WE03_Raten_und_Sicherungsplan.docx",
+      "sha256": "f263342773a518a28a310f512214c7aa508b0f20989d9bd36e66f896df45167b"
+    },
+    {
+      "source": "13_Option_Bautraegerverkauf/03_Wohnungsanlagen/WE03_Raumliste_und_Zuordnung.docx",
+      "sha256": "d8f7343abc0693aa1289d1cee7cb0004f105b6fab277d508702f8d43dde21335"
+    },
+    {
+      "source": "13_Option_Bautraegerverkauf/03_Wohnungsanlagen/WE04_Raten_und_Sicherungsplan.docx",
+      "sha256": "64890b359f9971e01eda0a6e61f1486feeebe6bc939fa570b6979724abf97b60"
+    },
+    {
+      "source": "13_Option_Bautraegerverkauf/03_Wohnungsanlagen/WE04_Raumliste_und_Zuordnung.docx",
+      "sha256": "cc745eb60ac29257f3077d44ebf5394db374407dc14de5dcb91b28779a4dd33c"
+    },
+    {
+      "source": "13_Option_Bautraegerverkauf/03_Wohnungsanlagen/WE05_Raten_und_Sicherungsplan.docx",
+      "sha256": "ba352fde94fcf4a1304861329b09cbb66e48bfff750dc4956a0e65601ac62c21"
+    },
+    {
+      "source": "13_Option_Bautraegerverkauf/03_Wohnungsanlagen/WE05_Raumliste_und_Zuordnung.docx",
+      "sha256": "84a24380e809824db82ffc23a8e4d2184ac4d82d3d4d99baf6826a4da4c0ea1a"
+    },
+    {
+      "source": "13_Option_Bautraegerverkauf/03_Wohnungsanlagen/WE06_Raten_und_Sicherungsplan.docx",
+      "sha256": "f700ef21fc6499717266b4ae49628c6a534dbc0a95c16b62ce15dec0b7f05650"
+    },
+    {
+      "source": "13_Option_Bautraegerverkauf/03_Wohnungsanlagen/WE06_Raumliste_und_Zuordnung.docx",
+      "sha256": "bd532c251c0619c95be9950c869fc6f022fe4a2c651ca0279a3b908234cbf46c"
+    },
+    {
+      "source": "13_Option_Bautraegerverkauf/03_Wohnungsanlagen/WE07_Raten_und_Sicherungsplan.docx",
+      "sha256": "d7a42f8d8246e6d2a424f49325bc1bff9792c1556334b3c219a1394eb3981ffb"
+    },
+    {
+      "source": "13_Option_Bautraegerverkauf/03_Wohnungsanlagen/WE07_Raumliste_und_Zuordnung.docx",
+      "sha256": "a4050aecdccf10b4fcb2b74d4870bf8db59aaba05152b2bf25f20965326fbbbb"
+    },
+    {
+      "source": "13_Option_Bautraegerverkauf/03_Wohnungsanlagen/WE08_Raten_und_Sicherungsplan.docx",
+      "sha256": "efdd1aacb73742d5fd4ba010a2926975c96699e1526469fd115b1006184410c8"
+    },
+    {
+      "source": "13_Option_Bautraegerverkauf/03_Wohnungsanlagen/WE08_Raumliste_und_Zuordnung.docx",
+      "sha256": "b2487fb4e3de2921daf41893c31f8288feade6c41c02c2d6a89e1c97f1538b84"
+    }
+  ]
+}
