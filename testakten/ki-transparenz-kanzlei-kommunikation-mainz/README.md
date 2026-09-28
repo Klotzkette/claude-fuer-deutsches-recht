@@ -1,7 +1,13 @@
-# KI Kommunikation einer Mainzer Kanzlei
+<!-- decimal-anchor --> <a id="ki-kommunikation-einer-mainzer-kanzlei"></a>
+
+# 1. KI Kommunikation einer Mainzer Kanzlei
+
+<!-- decimal-headings -->
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
-## Akte komplett herunterladen
+<!-- decimal-anchor --> <a id="akte-komplett-herunterladen"></a>
+
+## 1.1. Akte komplett herunterladen
 
 [Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
 
@@ -14,8 +20,8 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/ki-transparenz-kanzlei-kommunikation-mainz_gesamt.pdf`](gesamt-pdf/ki-transparenz-kanzlei-kommunikation-mainz_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-ki-transparenz-kanzlei-kommunikation-mainz.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.13.0/testakte-ki-transparenz-kanzlei-kommunikation-mainz.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-ki-transparenz-kanzlei-kommunikation-mainz-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.13.0/testakte-ki-transparenz-kanzlei-kommunikation-mainz-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-ki-transparenz-kanzlei-kommunikation-mainz.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.13.1/testakte-ki-transparenz-kanzlei-kommunikation-mainz.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-ki-transparenz-kanzlei-kommunikation-mainz-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.13.1/testakte-ki-transparenz-kanzlei-kommunikation-mainz-einzelpdfs.zip) |
 
 Die ZIP-Links laden den zur angegebenen Marketplace-Version gehörenden Akten-Begleitrelease. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
@@ -23,13 +29,17 @@ English: The original-format ZIP contains the working files directly at archive 
 
 <!-- END gesamt-pdf-section (autogen) -->
 
-## 1. Aktenkontext
+<!-- decimal-anchor --> <a id="aktenkontext"></a>
+
+## 1.2. Aktenkontext
 
 Die Seidel und Kühn Rechtsanwaltsgesellschaft mbH bereitet im September 2026 einen Websitebeitrag zur Schulstraße vor. Daneben nutzt sie KI-Unterstützung bei internen Entwürfen sowie einen Telefon- und Chatempfang. Die Geschäftsführerin bittet um eine Entscheidungsvorlage vor dem geplanten Veröffentlichungstermin am 30. September. Maßgeblicher Bearbeitungsstand der Akte ist der 28. September 2026.
 
 Die Unterlagen enthalten unterschiedliche Fassungen, interne Beobachtungen und Erklärungen von Dienstleistern. Personen, Unternehmen, Kontakte, Aktenzeichen und Vorgänge sind für diese Akte gestaltet; `.example`-Adressen sind keine erreichbaren Ansprechpartner. Die Bildvergleichsansicht wurde ebenfalls erzeugt und dokumentiert innerhalb des Fallgeschehens zwei Produktionsstände. Keine Unterlage ist eine tatsächliche gerichtliche Entscheidung oder amtliche Freigabe.
 
-## 2. Originalunterlagen
+<!-- decimal-anchor --> <a id="originalunterlagen"></a>
+
+## 1.3. Originalunterlagen
 
 Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 
@@ -56,7 +66,9 @@ This test case file was generated with AI and is an experiment. Use at your own 
 
 Die E-Mails sind einzeln lesbare Nachrichten mit Absender, Empfängern und vollständigem Zeitstempel. Die CSV verwendet UTF-8 und Semikolon als Trennzeichen. Worddateien bleiben bearbeitbar. Die Vergleichsansicht ist Bestandteil der Bildunterlage, keine gesonderte dreizehnte Unterlage. Die Akte enthält keine Musterlösung.
 
-## 3. Verwendung
+<!-- decimal-anchor --> <a id="verwendung"></a>
+
+## 1.4. Verwendung
 
 <!-- reserved-example-contacts -->
 Die Kontaktadressen mit `.example` sind reservierte synthetische Adressen. Personen, Kanzlei, Anbieter und Vorgänge sind für diese Akte gestaltet.

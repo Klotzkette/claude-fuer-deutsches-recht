@@ -9,6 +9,7 @@ import unittest
 from urllib.parse import unquote, urlsplit
 
 from markdown_it import MarkdownIt
+from readme_decimal_headings import normalize_decimal_headings
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -34,6 +35,19 @@ def local_links(text: str):
 
 
 class FachprueferIntegrationTests(unittest.TestCase):
+    def test_case_headings_remain_decimal_after_generation(self):
+        for case in PACKAGES.values():
+            with self.subTest(case=case):
+                text = (ROOT / "testakten" / case / "README.md").read_text(encoding="utf-8")
+                self.assertIn("<!-- decimal-headings -->", text)
+                self.assertEqual(normalize_decimal_headings(text), text)
+                tokens = MarkdownIt().parse(text)
+                headings = [tokens[i + 1].content for i, token in enumerate(tokens) if token.type == "heading_open"]
+                self.assertEqual(len(headings), 5)
+                for title in headings:
+                    self.assertRegex(title, r"^\d+(?:\.\d+)*\. ")
+                self.assertEqual(headings[1], "1.1. Akte komplett herunterladen")
+
     def test_marketplace_metadata_matches_installable_manifest(self):
         marketplace = json.loads((ROOT / ".claude-plugin/marketplace.json").read_text())
         entries = {entry["name"]: entry for entry in marketplace["plugins"]}

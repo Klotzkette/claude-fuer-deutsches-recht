@@ -1,3 +1,9 @@
+# v445.13.1 - Plattformübergreifender Abgleich der E-Mail-Anlagen
+
+Die Prüfung der FinTech-Nachrichten berücksichtigt äußere Faltungsleerzeichen in beschreibenden E-Mail-Headern. Python-Versionen dürfen diese unterschiedlich entfalten; Dateinamen, MIME-Anlagen und Originalbytes werden unverändert streng geprüft. Die neuen Fachprüfer und Akten bestehen ihre zusätzlichen Regressionen unter Python 3.12; der Göttinger PDF-Builder ist auch mit Liberation Serif statt Times New Roman geprüft. Alle Überschriften der vier neuen Akten-READMEs werden einschließlich des Downloadabschnitts dauerhaft dezimal erzeugt und gesondert geprüft.
+
+Diese Version veröffentlicht auch den nachfolgenden Lieferumfang. Der Build zu v445.13.0 wurde vor dem Asset-Upload angehalten; sein Tag bleibt unverändert. Das versionsgleiche Akten-Begleitrelease heißt `akten-v445.13.1`.
+
 # v445.13.0 - Vier Fachprüfer, präzisere Zeugnisprüfung und vertiefte FinTech-Akte
 
 ## 1. Einstufung und Transparenz getrennt bearbeiten

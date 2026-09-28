@@ -1,7 +1,13 @@
-# Energienetz Hessen
+<!-- decimal-anchor --> <a id="energienetz-hessen"></a>
+
+# 1. Energienetz Hessen
+
+<!-- decimal-headings -->
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
-## Akte komplett herunterladen
+<!-- decimal-anchor --> <a id="akte-komplett-herunterladen"></a>
+
+## 1.1. Akte komplett herunterladen
 
 [Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
 
@@ -14,8 +20,8 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/vergesellschaftung-energienetz-hessen_gesamt.pdf`](gesamt-pdf/vergesellschaftung-energienetz-hessen_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-vergesellschaftung-energienetz-hessen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.13.0/testakte-vergesellschaftung-energienetz-hessen.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-vergesellschaftung-energienetz-hessen-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.13.0/testakte-vergesellschaftung-energienetz-hessen-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-vergesellschaftung-energienetz-hessen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.13.1/testakte-vergesellschaftung-energienetz-hessen.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-vergesellschaftung-energienetz-hessen-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.13.1/testakte-vergesellschaftung-energienetz-hessen-einzelpdfs.zip) |
 
 Die ZIP-Links laden den zur angegebenen Marketplace-Version gehörenden Akten-Begleitrelease. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
@@ -23,11 +29,15 @@ English: The original-format ZIP contains the working files directly at archive 
 
 <!-- END gesamt-pdf-section (autogen) -->
 
-## 1. Aktenstand
+<!-- decimal-anchor --> <a id="aktenstand"></a>
+
+## 1.2. Aktenstand
 
 Stand: 28.09.2026. Die Kommunaler Netzverbund Lahn-Werra GmbH bereitet ihre Beratung über eine geplante Neuordnung der regionalen Stromnetze vor. Der Ordner enthält die Unterlagen, die der Geschäftsführung für die Gesellschafterversammlung und eine angefragte Stellungnahme vorliegen. Die Arbeitsfassung ist noch nicht als Gesetz eingebracht. Angaben und Positionen stammen jeweils von den bezeichneten Beteiligten.
 
-## 2. Originalunterlagen
+<!-- decimal-anchor --> <a id="originalunterlagen"></a>
+
+## 1.3. Originalunterlagen
 
 <!-- reserved-example-contacts -->
 Die Kontaktadressen mit `.example` sind reservierte synthetische Adressen. Personen, Unternehmen, Gemeinden, Arbeitsgruppe und Vorgang sind für diese Akte gestaltet.
@@ -54,7 +64,9 @@ This test case file was generated with AI and is an experiment. Use at your own 
 | 10 | 03.09.2026 | [Gesprächsnotiz](10_Gespraechsnotiz_20260903.txt) |
 | 11 | 25.09.2026 | [Nachricht zur Leittechnik](11_Leitwerk_Uebergang_20260925.eml) |
 
-## 3. Verwendung
+<!-- decimal-anchor --> <a id="verwendung"></a>
+
+## 1.4. Verwendung
 
 Die E-Mails enthalten eigenständige Nachrichtentexte ohne eingebettete Anlagen; die zugehörigen Unterlagen liegen einzeln im Ordner. Die CSV-Dateien sind mit Semikolon getrennte UTF-8-Exporte; Beträge sind in Euro angegeben. Die Dateinummerierung dient der Ablage, nicht einer rechtlichen Rangfolge.
 

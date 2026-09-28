@@ -1,7 +1,13 @@
-# Kasseler Bewerbungsauswahl
+<!-- decimal-anchor --> <a id="kasseler-bewerbungsauswahl"></a>
+
+# 1. Kasseler Bewerbungsauswahl
+
+<!-- decimal-headings -->
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
-## Akte komplett herunterladen
+<!-- decimal-anchor --> <a id="akte-komplett-herunterladen"></a>
+
+## 1.1. Akte komplett herunterladen
 
 [Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
 
@@ -14,8 +20,8 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/ki-hochrisiko-bewerbungsauswahl-kassel_gesamt.pdf`](gesamt-pdf/ki-hochrisiko-bewerbungsauswahl-kassel_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-ki-hochrisiko-bewerbungsauswahl-kassel.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.13.0/testakte-ki-hochrisiko-bewerbungsauswahl-kassel.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-ki-hochrisiko-bewerbungsauswahl-kassel-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.13.0/testakte-ki-hochrisiko-bewerbungsauswahl-kassel-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-ki-hochrisiko-bewerbungsauswahl-kassel.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.13.1/testakte-ki-hochrisiko-bewerbungsauswahl-kassel.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-ki-hochrisiko-bewerbungsauswahl-kassel-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.13.1/testakte-ki-hochrisiko-bewerbungsauswahl-kassel-einzelpdfs.zip) |
 
 Die ZIP-Links laden den zur angegebenen Marketplace-Version gehörenden Akten-Begleitrelease. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
@@ -23,11 +29,15 @@ English: The original-format ZIP contains the working files directly at archive 
 
 <!-- END gesamt-pdf-section (autogen) -->
 
-## 1 Fallordner
+<!-- decimal-anchor --> <a id="fallordner"></a>
+
+## 1.2. Fallordner
 
 Die FuldaForm Antriebstechnik GmbH lässt zwei bei ihrer Bewerbungsauswahl verwendete Werkzeuge prüfen. Der Auftrag und das gewünschte Ergebnis stehen in der Nachricht vom 28. September 2026. Die Unterlagen enthalten Herstellerangaben, interne Aufzeichnungen, einen abgegrenzten Export und Korrespondenz. Aussagen einzelner Verfasser sind nicht bereits festgestellte rechtliche Ergebnisse.
 
-## 2 Originalbelege
+<!-- decimal-anchor --> <a id="originalbelege"></a>
+
+## 1.3. Originalbelege
 
 <!-- reserved-example-contacts -->
 Die Kontaktadressen mit `.example` sind reservierte synthetische Adressen. Personen, Unternehmen und Vorgänge sind für diese Akte gestaltet.
@@ -53,7 +63,9 @@ This test case file was generated with AI and is an experiment. Use at your own 
 | [09 Bewerbernachfrage](09_Bewerbernachfrage_20260925.eml) | Nachricht zum bereits eingereichten Nachweis |
 | [10 Besprechungsnotiz](10_Besprechungsnotiz_20260928.docx) | Gesprächsstand und weitere Arbeitsschritte |
 
-## 3 Bearbeitung
+<!-- decimal-anchor --> <a id="bearbeitung"></a>
+
+## 1.4. Bearbeitung
 
 Die zehn Dateien gemeinsam als Ordner bereitstellen und den Auftrag in Datei 01 bearbeiten. Der CSV-Export enthält keine Tätigkeiten außerhalb der Anwendung und keine späteren Bearbeitungsschritte. Die E-Mails verweisen auf den Fallordner oder bereits eingereichte Unterlagen; sie enthalten keine eingebetteten Anlagen. Vollständige Bewerbungsakten sind nicht Bestandteil dieses Ordners. Zusätzliche entscheidende Tatsachen sind beim Auftraggeber zu erfragen, nicht zu ergänzen.
 

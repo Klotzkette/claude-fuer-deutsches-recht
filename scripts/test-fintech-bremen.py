@@ -81,7 +81,8 @@ class FintechCase(unittest.TestCase):
             self.assertEqual(mail['Date'].datetime.isoformat(), item['date'])
             parts = list(mail.iter_attachments())
             self.assertEqual([part.get_filename() for part in parts], item.get('attachments', []))
-            self.assertEqual(mail.get('X-Attachments', ''), '; '.join(item.get('attachments', [])))
+            # Headerfaltung kann je nach Parserstand äußeres Leerzeichen erhalten.
+            self.assertEqual(str(mail.get('X-Attachments', '')).strip(), '; '.join(item.get('attachments', [])))
             for part in parts:
                 count += 1
                 self.assertEqual(part.get_payload(decode=True), (folder/part.get_filename()).read_bytes())

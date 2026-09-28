@@ -1,7 +1,13 @@
+<!-- decimal-anchor --> <a id="verkehrsfläche-am-weidenrain-in-göttingen"></a>
+
 # 1. Verkehrsfläche Am Weidenrain in Göttingen
 
+<!-- decimal-headings -->
+
 <!-- BEGIN gesamt-pdf-section (autogen) -->
-## Akte komplett herunterladen
+<!-- decimal-anchor --> <a id="akte-komplett-herunterladen"></a>
+
+## 1.1. Akte komplett herunterladen
 
 [Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
 
@@ -14,8 +20,8 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/enteignung-verkehrsflaeche-goettingen_gesamt.pdf`](gesamt-pdf/enteignung-verkehrsflaeche-goettingen_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-enteignung-verkehrsflaeche-goettingen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.13.0/testakte-enteignung-verkehrsflaeche-goettingen.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-enteignung-verkehrsflaeche-goettingen-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.13.0/testakte-enteignung-verkehrsflaeche-goettingen-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-enteignung-verkehrsflaeche-goettingen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.13.1/testakte-enteignung-verkehrsflaeche-goettingen.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-enteignung-verkehrsflaeche-goettingen-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.13.1/testakte-enteignung-verkehrsflaeche-goettingen-einzelpdfs.zip) |
 
 Die ZIP-Links laden den zur angegebenen Marketplace-Version gehörenden Akten-Begleitrelease. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
@@ -27,12 +33,16 @@ English: The original-format ZIP contains the working files directly at archive 
 >
 > This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
-## 1.1. Aktenbestand
+<!-- decimal-anchor --> <a id="aktenbestand"></a>
+
+## 1.2. Aktenbestand
 
 <!-- reserved-example-contacts -->
 Die Unterlagen betreffen einen geplanten kommunalen Verkehrsanschluss, ein teilweise gewerblich genutztes Grundstück und den Schriftwechsel zwischen Eigentümerin, Nutzerin, Stadt und Enteignungsbehörde. Aktenstand ist der 28.09.2026. Personen, Unternehmen, Grundstücksangaben, Plan und Vorgänge sind für diese Akte erfunden; die Nennung Göttingens und der Behörden bildet keinen realen Vorgang ab. Kontakte verwenden ausschließlich `.example`.
 
-## 1.2. Originaldateien
+<!-- decimal-anchor --> <a id="originaldateien"></a>
+
+## 1.3. Originaldateien
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
@@ -54,6 +64,8 @@ Die Unterlagen betreffen einen geplanten kommunalen Verkehrsanschluss, ein teilw
 
 Die elf Einzeldateien bilden die Quellenakte. In EML eingebettete PDF-Dateien entsprechen den separat vorhandenen Originalen; sie sind keine weiteren unabhängigen Dokumente. Die Lageskizze ist schematisch und ersetzt keine Vermessung. Das Inventar enthält keine Bewertung der vorgetragenen Positionen.
 
-## 1.3. Zuordnung
+<!-- decimal-anchor --> <a id="zuordnung"></a>
+
+## 1.4. Zuordnung
 
 Zugeordnetes Plugin: [enteignung-artikel-14](../../enteignung-artikel-14/README.md). Ergebnisse einer Bearbeitung außerhalb dieses Quellenordners speichern. Das technische Prüfraster `rubric.yaml` ist kein Beweismittel und gehört nicht in Quellenexporte. Die zentralen Downloadpakete werden gesondert gebaut; der zweisprachige Hinweis gehört unmittelbar zu ihren Links und in die `README.txt` an der ZIP-Wurzel, nicht in die Beleg-PDFs.
