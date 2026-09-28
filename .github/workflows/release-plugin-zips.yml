@@ -178,6 +178,8 @@ jobs:
           python3 scripts/test-liquiditaetsplanung-excel.py
           python3 scripts/test-bea-versandmappe.py
           python3 scripts/test-startup-gruender.py
+          python3 scripts/test-schnittflug-erweiterung.py
+          python3 scripts/test-schnittflug-finanz-native.py
           python3 scripts/test-schriftsatz-versandwerkstatt.py
 
       - name: Skill-Indizes neu erzeugen (SKILLS.md + skills-index, Stand = marketplace-Version)

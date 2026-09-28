@@ -1,0 +1,933 @@
+{
+  "case_slug": "startup-gruender-schnittflug-berlin",
+  "revision": "Nachreichung am 28.09.2026 bis 18:55; frühere Arbeitsstände bleiben erhalten",
+  "documents": [
+    {
+      "file": "120_Entwicklungsangebot_Dornbusch_20260914.docx",
+      "title": "Angebot für den stationären Demonstrator",
+      "author": "Dornbusch Entwicklungsatelier · Gundula Dornbusch",
+      "date": "14. September 2026 · Angebot DE 26 0914",
+      "intro": "An Eberhard Demir persönlich. Auf Ihre Anfrage vom 11. September bieten wir die folgenden Entwicklungsleistungen an. Auftraggeber und Rechnungsanschrift sind vor einer Bestellung abschließend zu benennen. Die Bezeichnung Schnittflug Robotics GmbH wird auf Ihren Hinweis vorerst nur als Projektname geführt.",
+      "sections": [
+        {
+          "title": "1 Leistungsgegenstand und Abgrenzung",
+          "paragraphs": [
+            "Wir untersuchen die Schnittstellen des vorhandenen stationären Anschauungsmodells, beschreiben Anforderungen und dokumentieren drei Entwurfsvarianten. Übergeben werden ein Anforderungskatalog, ein Bericht zum Aufbauzustand und eine Liste offener Prüffragen. Die Besprechungen finden am Tisch mit einem unbelebten Modell statt. Körpernahe Versuche, Flugversuche und Dienstleistungen an Kundinnen oder Kunden gehören nicht zum Angebot.",
+            "Unser Bericht enthält keine Produktzulassung und ersetzt weder eine Versicherung noch eine unabhängige technische Prüfung. Wir versprechen keine Eignung eines späteren Systems zum selbsttätigen Schneiden, Waschen oder Massieren. Software fremder Rechteinhaber wird nur nach gesonderter Klärung zugänglich gemacht."
+          ]
+        },
+        {
+          "title": "2 Honorar und Zahlungsfolge",
+          "paragraphs": [
+            "Das Pauschalhonorar beträgt 18.000,00 EUR netto. Hinzu kommen 3.420,00 EUR Umsatzsteuer; die angebotene Gesamtvergütung beträgt 21.420,00 EUR. Reiseleistungen außerhalb Berlins und später beauftragte Prüflabore sind nicht enthalten. Eine Teilbeauftragung bedarf eines neuen Angebots.",
+            "Bei Bestellung bis 30. September sieht unser Kalkulationsplan eine erste Rechnung über 8.568,00 EUR mit Zahlung am 5. Oktober, eine zweite über 8.568,00 EUR nach dem Zwischenbericht am 2. November und eine Schlussrate über 4.284,00 EUR nach Übergabe am 30. November vor. Diese Daten sind keine bereits entstandenen Forderungen. Bei späterer Bestellung vereinbaren wir den gesamten Ablauf neu."
+          ]
+        },
+        {
+          "title": "3 Mitwirkung und Nutzungsrechte",
+          "paragraphs": [
+            "Sie benennen eine entscheidungsbefugte Ansprechperson und stellen die freigegebenen Bestandsunterlagen zusammen. Widersprüchliche Änderungswünsche verschiedener Teammitglieder bündeln Sie vor jeder Freigabe. Zusätzliche Varianten werden erst nach einer schriftlichen Einigung über Mehrkosten bearbeitet.",
+            "Die für das bezeichnete Projekt erforderlichen einfachen Nutzungsrechte an unseren Berichten sollen nach vollständiger Zahlung eingeräumt werden. Vorbestehende Methoden, Arbeitsvorlagen und fremde Bestandteile bleiben davon ausgenommen. Eine weitergehende oder ausschließliche Rechteposition ist in diesem Preis nicht angeboten."
+          ]
+        },
+        {
+          "title": "4 Annahme und Kapazität",
+          "paragraphs": [
+            "Das Angebot ist bis 30. September offen. Eine E-Mail, dass Sie den Termin interessant finden, gilt uns noch nicht als Bestellung. Wir benötigen die benannte Vertragspartei, den abgestimmten Leistungsumfang und eine ausdrückliche Annahme. Eine Buchung unter einer erst künftig entstehenden Gesellschaft übernehmen wir nicht ohne gesonderte Vereinbarung.",
+            "Nachtrag von Gundula Dornbusch, 28. September, 12:55 Uhr: Bis jetzt ist kein Auftrag eingegangen. Die Reservierung des ersten Besprechungstermins kann deshalb verfallen. Ansprechpartnerin bleibt Gundula Dornbusch unter gundula@dornbusch-entwicklung.example."
+          ]
+        }
+      ]
+    },
+    {
+      "file": "121_Werkstattbuch_Vorfall_20260826.docx",
+      "title": "Auszug aus dem Werkstattbuch",
+      "author": "Alois Rossi und Nepomuk Huber",
+      "date": "26. August 2026 · Ergänzung 28. September 2026",
+      "intro": "Eintrag WB 0826 aus der privaten Projektablage. Alois hat seine kurze Notiz vom Versuchstag auf Bitte von Ottilie am 28. September ausgeschrieben. Die Ergänzung ist als spätere Erinnerung kenntlich gemacht.",
+      "sections": [
+        {
+          "title": "1 Beobachtung am Versuchstag",
+          "paragraphs": [
+            "Anwesend waren Eberhard, Alois und Nepomuk. Auf dem Tisch stand ein Schaumstoffkopf. Es wurde niemand frisiert, gewaschen oder massiert. Die Vorführung betraf ausschließlich die Anschauung eines Waschaufsatzes mit kaltem Wasser. Währenddessen lief Wasser auf die Arbeitsfläche und unter die Ablageschale.",
+            "Alois unterbrach die Vorführung. Die in Tischnähe liegende Mehrfachsteckdose wurde anschließend entfernt. Es gab nach unserer Wahrnehmung keine verletzte Person. Der Tisch wurde getrocknet und blieb an diesem Abend für weitere Vorführungen gesperrt. Eine elektrische Untersuchung ist damit nicht dokumentiert."
+          ]
+        },
+        {
+          "title": "2 Abweichende Erinnerungen",
+          "paragraphs": [
+            "Die ursprüngliche Handyzeile von Alois lautet: Wasser am Rand, Schlauch oder Haube, Ende 18:20. Eberhard erinnert sich an einen gelösten Schlauch. Nepomuk konnte den Ursprung nicht sehen und möchte deshalb nicht, dass in einer Präsentation bereits eine behobene Ursache angegeben wird. Ein aussagekräftiges Foto vom Austrittsort haben wir nicht.",
+            "Ein Tuch und die untergelegte Pappe wurden weggeworfen. Das leere Auffanggefäß wurde am nächsten Tag versetzt. Damit lässt sich die damalige Lage aus dem heutigen Aufbau nicht zuverlässig rekonstruieren. Die Produktnotiz vom 28. August beschreibt den Vorgang verkürzt."
+          ]
+        },
+        {
+          "title": "3 Material und weiterer Umgang",
+          "paragraphs": [
+            "Der Werkbankaufkleber WB 17 nennt Birkhahn Feinmechanik als Eigentümer. Alois hatte die Bank für eigene Auftragsarbeiten zur Nutzung erhalten. Ob der Auftraggeber diese konkrete Verwendung kannte, ist nicht festgehalten. Die Unterlagen dazu werden getrennt nachgereicht.",
+            "Bis zu einer geklärten Beschreibung des Vorfalls sollen keine Personenversuche stattfinden. Nepomuk hält die Unterscheidung zwischen Demonstration, Prüfung und späterem Kundenbetrieb in jedem Bericht fest. Diese Notiz bestätigt weder eine Freigabe des Aufbaus noch einen Versicherungsfall."
+          ]
+        }
+      ]
+    },
+    {
+      "file": "122_Saloninteresse_Klette_20260917.docx",
+      "title": "Interesse an einem begleiteten Salongespräch",
+      "author": "Adelheid Klette · Salon Locke und Kragen",
+      "date": "17. September 2026",
+      "intro": "An Thekla Ben-Ami. Ich fasse unser Telefonat zusammen, damit aus meinem Interesse keine Bestellung für acht Drohnenbesuche wird. Meine Mitarbeiterinnen möchten zunächst den Ablauf auf dem Bildschirm verstehen.",
+      "sections": [
+        {
+          "title": "1 Gegenstand des Gesprächs",
+          "paragraphs": [
+            "Ich könnte an einem Montag im November den hinteren Beratungsplatz für einen zweistündigen Gesprächstermin anbieten. Ein Termin ist noch nicht reserviert. Es soll um Frisurenberatung, Zeitbedarf und eine Animation gehen. Für Versuche mit Schneidwerkzeugen, Wasser oder fliegenden Geräten an Menschen stelle ich keine Fläche zur Verfügung.",
+            "Bei Kundinnen mit Locken liegt viel Zeit im Beratungsgespräch. Eine eingesparte Minute beim Waschen hilft wenig, wenn anschließend zehn Minuten für Korrekturen nötig sind. Ich möchte deshalb den vorgesehenen gesamten Terminablauf sehen und nicht nur die Dauer eines einzelnen Handgriffs."
+          ]
+        },
+        {
+          "title": "2 Bilder und Außenauftritt",
+          "paragraphs": [
+            "Unsere Kundenkartei und Fotos aus dem Salon dürfen für Ihr Projekt nicht übernommen werden. Wenn Beschäftigte freiwillig an einem später abgestimmten Gespräch teilnehmen, möchte ich vorher ein verständliches Informationsblatt sehen. Eine Unterschrift von mir ersetzt keine Erklärung der einzelnen Person.",
+            "Den Namen meines Salons oder ein Foto unseres Ladens verwenden Sie bitte nicht im Investorenmaterial. Der Satz drei Partnerbetriebe wäre nach unserem Gespräch unzutreffend. Wir haben bislang weder einen Pilotvertrag noch einen Rabatt, eine Exklusivität oder eine Vergütung vereinbart."
+          ]
+        },
+        {
+          "title": "3 Wirtschaftliche Fragen",
+          "paragraphs": [
+            "Der genannte Preis von 89 EUR pro Hausbesuch ist für mich noch nicht mit einem Salonpreis vergleichbar. Wer trägt Anfahrt, Terminabbruch, Nacharbeit und Reinigung? Wer ist erreichbar, wenn eine Kundin mit dem Ergebnis unzufrieden ist? Bitte erläutern Sie diese Punkte, bevor Sie eine Vorbestellung ansprechen.",
+            "Ich bleibe unter adelheid@locke-und-kragen.example erreichbar. Meine Antwort ist eine unverbindliche Gesprächsbereitschaft. Wenn die Gesellschaft gegründet ist und der vorgesehene Startbetrieb feststeht, können wir über einen konkreten Termin sprechen."
+          ]
+        }
+      ]
+    },
+    {
+      "file": "123_Designauftrag_zu_SF-A008_20260908.docx",
+      "title": "Auftragsbestätigung für den Markenworkshop",
+      "author": "Hildegard Tusch Design GmbH · Hildegard Tusch",
+      "date": "8. September 2026 · Auftragsbezug HT-0914-06",
+      "intro": "An Wilhelmine Okafor persönlich. Wir bestätigen den von Ihnen am 7. September per E-Mail erteilten Auftrag für die nachstehenden Gestaltungsarbeiten. Eine künftige Gesellschaft ist nicht Auftraggeberin dieser Bestätigung.",
+      "sections": [
+        {
+          "title": "1 Umfang und Übergabe",
+          "paragraphs": [
+            "Wir führen mit Ihnen einen dreistündigen Markenworkshop zur Bezeichnung Drohnenfriseur und zum Schriftzug Schnittflug durch. Besprochen werden Benennung, Schriftwirkung und zwei einfache Gestaltungsrichtungen. Sie erhalten anschließend die besprochenen Entwurfsskizzen als PDF. Drei funktionsfähige Bildschirmansichten, ein App-Build und Programmcode sind nicht Gegenstand dieses Auftrags.",
+            "Der Workshop ist für den 11. September vereinbart. Die Bezeichnung Drohnenfriseur übernehmen wir aus Ihrem Briefing. Eine Recherche nach kollidierenden Kennzeichenrechten, eine rechtliche Markenprüfung und die Anmeldung einer Marke gehören nicht zum Auftrag."
+          ]
+        },
+        {
+          "title": "2 Preis und Fremdmaterial",
+          "paragraphs": [
+            "Das Pauschalhonorar beträgt 189,00 EUR netto zuzüglich 35,91 EUR Umsatzsteuer, insgesamt 224,91 EUR. Abgerechnet wird an Wilhelmine Okafor persönlich unter der Rechnungsnummer HT-0914-06. Zusätzliche Leistungen dürfen nur nach Ihrer ausdrücklichen Zustimmung entstehen. Eine Rechnung an die erst geplante Gesellschaft ist nicht vereinbart.",
+            "Sie haben in Ihrem Briefing die Schriften Linden Sans und Salbei Script mitgesandt. Die Schriftdateien bleiben Fremdmaterial. Wir beschaffen im Rahmen des Workshops keine Unternehmens-, App- oder Weitergabelizenz. Die Skizzen können auf Wunsch mit einer gesondert bezeichneten Ersatzschrift ausgegeben werden."
+          ]
+        },
+        {
+          "title": "3 Nutzung und spätere Gesellschaft",
+          "paragraphs": [
+            "Nach vollständiger Zahlung erhalten Sie das einfache Recht, die gelieferten Entwurfsskizzen für Ihre Projektbesprechungen zu verwenden. Rechte Dritter an zugelieferten Bestandteilen werden damit nicht eingeräumt. Die Nutzung des Schriftzugs im öffentlichen Auftritt und die Übernahme durch eine später gegründete Gesellschaft sollen in einer ergänzenden Vereinbarung konkret benannt werden.",
+            "Ein Wechsel der Auftraggeberin wird nicht allein durch Änderung der Rechnungsanschrift vorgenommen. Bitte teilen Sie uns mit, welche Gesellschaft später eintreten soll. Bis dahin bleibt Wilhelmine unsere Ansprechpartnerin für Freigaben und Nachträge."
+          ]
+        }
+      ]
+    },
+    {
+      "file": "124_Datenablage_und_Loeschvermerk_20260928.docx",
+      "title": "Bestand der Beispielaufnahmen und Löschvermerk",
+      "author": "Wilhelmine Okafor und Kunigunde Nguyen",
+      "date": "28. September 2026 · 12:10 Uhr",
+      "intro": "Wir haben die bislang verwendeten Aufnahmen auf Kunigundes Rechner mit der gemeinsamen Ablage abgeglichen. Der Vermerk beschreibt die vorgefundenen Speicherorte. Er enthält keine personenbezogenen Bilddateien.",
+      "sections": [
+        {
+          "title": "1 Herkunft und Nutzung",
+          "paragraphs": [
+            "Der Schaumstoffkopf ist in acht Dateien vom 20. bis 28. August zu sehen. Diese Dateien sind nach Kunigundes Auskunft vollständig im Projekt erstellt. Daneben gab es drei kurze Kopfvideos aus dem privaten Umfeld mit den internen Kennungen V01 bis V03. Es existiert keine gemeinsame Liste, die für jede Person Entwicklung, Investorenpräsentation und Veröffentlichung gesondert festhält.",
+            "Kunigunde hatte V03 auf mündliche Bitte der aufgenommenen Person am 19. September aus ihrem aktuellen Arbeitsverzeichnis entfernt. Mina fand am 23. September dennoch ein Vorschaubild im Export für die Präsentation. Die Aussage im Chat, das Video sei weg, bezog sich nach Kunigundes Erklärung nur auf die Arbeitsdatei."
+          ]
+        },
+        {
+          "title": "2 Am heutigen Tag dokumentierte Schritte",
+          "paragraphs": [
+            "Das Vorschaubild V03 wurde um 11:32 aus dem Präsentationsentwurf entfernt; der Export vom 24. September wurde um 11:44 ersetzt. Der gemeinsame Link auf die alte Vorschau wurde um 11:51 deaktiviert. Die neue Vorschau zeigt ausschließlich den Schaumstoffkopf. Mina hat dies auf dem Teamkonto kontrolliert.",
+            "Ein lokal gespeicherter Altstand auf Eberhards Gerät war während des Abgleichs nicht erreichbar. Er hat zugesagt, die dortige Kopie zu suchen. Wir bestätigen deshalb nicht, dass jede Kopie gelöscht ist. Die automatische Sicherung des lokalen Arbeitsordners muss getrennt geprüft werden; ihre Laufzeit kennen wir noch nicht."
+          ]
+        },
+        {
+          "title": "3 Bestand für die nächste Besprechung",
+          "paragraphs": [
+            "In die Unterlagen für den 28. September nehmen wir nur die acht Modellaufnahmen und die bereinigte Bildschirmansicht auf. Neue Aufnahmen von Personen werden bis zur abgestimmten Information und Ablageorganisation nicht gesammelt. Die frühere Weitergabe soll anhand der versandten Dateinamen rekonstruiert werden.",
+            "V01 und V02 bleiben bis zur Klärung in einem lokal gesperrten Ordner. Die CSV-Datei 181_Datenbestand_20260928.csv hält Dateien, Speicherorte und Bearbeitungsstand fest. Sie ist ein Bestandsverzeichnis und keine Erlaubnis zur Nutzung oder Weitergabe."
+          ]
+        }
+      ]
+    },
+    {
+      "file": "125_Schriftlizenzen_Bestellstand_20260928.docx",
+      "title": "Bestellstand der beiden Schriftlizenzen",
+      "author": "Wilhelmine Okafor · Ablage Gestaltung",
+      "date": "28. September 2026 · 10:35 Uhr",
+      "intro": "Ich habe die zwei bisher verwendeten Schriften getrennt in meinem privaten Bestellkonto gesucht. Die Namen in diesem Vermerk entsprechen den Bezeichnungen meines Gestaltungsbriefings. Das Design-Abonnement wird von mir persönlich bezahlt.",
+      "sections": [
+        {
+          "title": "1 Linden Sans",
+          "paragraphs": [
+            "Die Bestellbestätigung LS-2025-441 nennt mich als einzelne Nutzerin. Beschrieben sind die Installation auf einem Arbeitsplatz und die Erstellung statischer Entwürfe für Kundenpräsentationen. Eine Weitergabe der Schriftdatei selbst an weitere Teammitglieder ist in diesem Text nicht gestattet. Die jährliche Laufzeit endet am 30. November 2026.",
+            "Ich habe die Bestätigung heute als Textauszug aus dem Konto gesichert. Für eine Einbettung in die App oder eine Nutzung durch eine Gesellschaft finde ich in der Bestellung keine Position. Ich werde den Anbieter um ein Angebot für den tatsächlich gewünschten Einsatz bitten."
+          ]
+        },
+        {
+          "title": "2 Salbei Script",
+          "paragraphs": [
+            "Salbei Script kam aus einer separaten Probebibliothek. Der gespeicherte Begleittext erlaubt die Prüfung von Schriftbild und Anordnung in privaten Entwürfen. Einen Kaufbeleg konnte ich nicht finden. Die Datei wurde für die Überschrift in zwei frühen Bildschirmansichten benutzt, aber nach meiner Erinnerung nicht in Programmcode eingebettet.",
+            "Ich habe die Schrift im aktuellen Präsentationsstand durch eine bereits im Gestaltungsprogramm enthaltene Standardschrift ersetzt. Die älteren Exporte bleiben als frühere Arbeitsstände in der Ablage. Der Austausch im aktuellen Stand sagt nichts darüber aus, ob frühere Weitergaben zulässig waren."
+          ]
+        },
+        {
+          "title": "3 An Hildegard Tusch und das Team",
+          "paragraphs": [
+            "Bitte verwendet ab jetzt die neue Vorschau. Hildegard soll uns mitteilen, welche Schriftdateien ihr Studio erhalten hat und ob dort ältere Workshopskizzen liegen. Die Auftragsbestätigung vom 8. September benennt beide Fonts; der Sammelvermerk vom 23. September erwähnte versehentlich nur eine Schrift. Die Bildschirmansichten habe ich selbst aus meinen Entwürfen zusammengestellt; sie waren nicht die Leistung des Markenworkshops.",
+            "Für die spätere Gesellschaft benötige ich eine Entscheidung, ob die Schriften überhaupt übernommen werden sollen. Ich möchte kein dauerhaftes Abonnement im eigenen Namen finanzieren, ohne zu wissen, wer nach der Gründung die Kosten und die Rechteklärung übernimmt."
+          ]
+        }
+      ]
+    },
+    {
+      "file": "126_Werkbank_Ueberlassung_und_Inventar_20260920.docx",
+      "title": "Werkbank und geliehene Messmittel",
+      "author": "Birkhahn Feinmechanik · Walburga Birkhahn",
+      "date": "20. September 2026 · Nachtrag zur privaten Nutzung durch Alois Rossi",
+      "intro": "Herr Rossi, anlässlich Ihrer Nachfrage bestätigen wir den bisherigen Umfang der Nutzung unserer Werkbank WB 17. Die nachstehenden Gegenstände stehen weiterhin in unserem Eigentum.",
+      "sections": [
+        {
+          "title": "1 Überlassener Bestand",
+          "paragraphs": [
+            "Zum Bestand gehören die Werkbank WB 17, die Arbeitsleuchte LE 08 und das Messgerät MG 22 mit Transportkoffer. Die Gegenstände waren Ihnen für die Bearbeitung unserer Kleinaufträge am Tagesarbeitsplatz überlassen. Eine Rechnung über einen Verkauf an Sie wurde nicht erstellt.",
+            "Die beweglichen Gegenstände sind nach jeder Nutzung wieder in den vereinbarten Schrank zu legen. Ein Umzug in einen dauerhaft von Ihrem Gründerteam angemieteten Raum war nicht vereinbart. Der Schrank und weitere Werkzeuge im Gebäude gehören anderen Nutzern und sind von dieser Bestätigung nicht erfasst."
+          ]
+        },
+        {
+          "title": "2 Projektarbeit und Rückfrage",
+          "paragraphs": [
+            "Sie haben am 18. September gefragt, ob Sie die Werkbank gelegentlich bei Besprechungen zu Schnittflug zeigen dürfen. Gegen eine reine Besichtigung haben wir nichts einzuwenden. Daraus folgt keine Freigabe für Versuchsreihen mit Wasser oder für eine Überlassung an eine Gesellschaft. Die von Ihnen erwähnte Vorführung vom 26. August war uns bei dieser Rückmeldung noch nicht näher beschrieben.",
+            "Bitte senden Sie uns die Werkstattnotiz und sagen Sie, ob Schäden aufgefallen sind. Wir haben noch keine Rechnung über eine Beschädigung gestellt und erklären mit diesem Schreiben auch nicht, dass der Bestand technisch geprüft oder mangelfrei ist."
+          ]
+        },
+        {
+          "title": "3 Rückgabe und künftige Vereinbarung",
+          "paragraphs": [
+            "Sollte Ihre eigene Auftragsarbeit für uns enden, stimmen wir einen Rückgabetermin ab. Eine künftige Nutzung durch Schnittflug müsste mit benannter Vertragspartei, erlaubtem Einsatz und Zuständigkeit für Wartung gesondert vereinbart werden. Die Gegenstände dürfen bis dahin nicht als Sacheinlage, gekauftes Betriebsvermögen oder frei verfügbares Sicherungsgut zugesagt werden.",
+            "Die Kosten kleiner privat beschaffter Bauteile sind davon getrennt. Bitte schicken Sie uns keine Sammelabrechnung über persönliche Projektkäufe anderer Gründer. Für die Bestandsabstimmung erreichen Sie mich unter walburga@birkhahn-feinmechanik.example."
+          ]
+        }
+      ]
+    },
+    {
+      "file": "127_Hochschulunterlagen_Kunigunde_20260928.docx",
+      "title": "Unterlagen zu meiner früheren Labortätigkeit",
+      "author": "Kunigunde Nguyen",
+      "date": "28. September 2026 · 11:40 Uhr",
+      "intro": "Ich habe in meinem alten Postfach den Arbeitszeitnachweis und das Projektblatt gefunden. Dies ist meine Abschrift der für unser Gespräch relevanten Angaben; die vollständigen damaligen Vertragsunterlagen sind noch bei der Personalstelle angefordert.",
+      "sections": [
+        {
+          "title": "1 Zeitraum und Aufgaben",
+          "paragraphs": [
+            "Der studentische Vertrag lief nach meinem Arbeitszeitnachweis vom 1. Oktober 2025 bis zum 31. Mai 2026 mit 40 Stunden monatlich. Im Projektblatt des Instituts für räumliche Bildsysteme lautet die Aufgabe Zuordnung von Konturmerkmalen in seriellen Kameraaufnahmen. Als Betreuung ist Prof. Dr. Edeltraud Mertens genannt. Die Bezeichnung betrifft keine Förderung von Schnittflug.",
+            "Ich arbeitete im Labor an der Aufbereitung von Testdaten und an Visualisierungen. Im privaten Projekt begann ich am 18. Februar mit einem Verzeichnis kopfscan. Der zeitliche Überschnitt allein sagt aus meiner Sicht noch nicht, welche Datei aus welchem Zusammenhang stammt; genau das möchte ich anhand der Historie aufarbeiten."
+          ]
+        },
+        {
+          "title": "2 Dateien und vorhandene Hinweise",
+          "paragraphs": [
+            "Die CSV-Datei 180_Softwareherkunft_20260928.csv benennt die gegenwärtig gefundenen Komponenten. contour_normalize.py liegt im privaten Verlauf seit Februar. Für den damaligen Stand fehlt mir eine schriftliche Aufgabenabgrenzung. hair_preview.py kam erst im Juni hinzu. Ich erinnere mich, dafür neu begonnen zu haben; einen Abgleich mit den Laborbeständen haben wir noch nicht vorgenommen.",
+            "Auf meine Anfrage nach den Vertragsanlagen steht die Rückmeldung noch aus. Eine Rechtefreigabe liegt mir nicht vor. Ich werde keine Daten aus dem früheren Labor kopieren, nur um unseren Abgleich zu beschleunigen."
+          ]
+        },
+        {
+          "title": "3 Was ich jetzt übergeben kann",
+          "paragraphs": [
+            "Ich stelle dem Beratungsteam die private Dateiliste und die mir vorliegenden Beschäftigungsdaten zur Verfügung. Passwörter zum Hochschulkonto, fremde Versuchsdaten und E-Mails anderer Beschäftigter gehören nicht in die gemeinsame Teamablage. Die vorliegende Abschrift ist kein Zeugnis und keine Erklärung der Hochschule zur Rechteinhaberschaft.",
+            "Bitte plant eine Rechteübertragung an die Gesellschaft erst mit konkret bezeichneten Bestandteilen. Die bisherige pauschale Formulierung, alles sei auf meinem privaten Rechner entstanden, möchte ich nicht unverändert unterschreiben."
+          ]
+        }
+      ]
+    },
+    {
+      "file": "128_Herkunft_Einlage_Thekla_20260928.docx",
+      "title": "Herkunft der vorgesehenen Einlage",
+      "author": "Thekla Ben-Ami",
+      "date": "28. September 2026 · 13:25 Uhr",
+      "intro": "Für Emilia Wanner bei der Kontowerk Bank habe ich die geplante Herkunft meiner 1.500 EUR zusammengestellt. Diese Erklärung beschreibt eine Absicht. Es wurde weder an mich noch auf ein Gründungskonto Geld überwiesen.",
+      "sections": [
+        {
+          "title": "1 Zuwendender und geplanter Weg",
+          "paragraphs": [
+            "Mein Cousin Rufus Halevi lebt in Haifa und arbeitet dort als angestellter Produktgestalter. Er hat mir telefonisch eine einmalige Schenkung von 1.500 EUR angeboten. Eine unterschriebene Schenkungsabrede und ein Herkunftsnachweis liegen noch nicht vor. Er möchte weder Anteile noch Stimmrechte an Schnittflug erhalten.",
+            "Nach meinem bisherigen Verständnis soll das Geld zunächst auf mein eigenes Privatkonto und erst nach dem vereinbarten Gründungsablauf als meine Einlage weitergeleitet werden. Die Bank hat diesen Weg nicht bestätigt. Ich werde vor ihrer Rückmeldung keine Überweisung auslösen oder eine fremde Kontoverbindung nennen."
+          ]
+        },
+        {
+          "title": "2 Unterschied zu Projektkosten",
+          "paragraphs": [
+            "Die Teilzahlung an Gundel Sprachkontor vom 27. September stammt aus meinem eigenen laufenden Einkommen. Sie hängt nicht mit der geplanten Schenkung zusammen. Sie soll deshalb nicht gleichzeitig als Einlage oder als Zahlung meines Cousins erfasst werden.",
+            "Über eine Erstattung dieser privaten Ausgabe durch eine spätere Gesellschaft ist nicht entschieden. Falls jemand dafür eine Vorabzusage in meine Kostenliste geschrieben hat, bitte ich um Berichtigung. Ich habe dafür bislang nur die Rechnung und meinen privaten Zahlungsnachweis übersandt."
+          ]
+        },
+        {
+          "title": "3 Unterlagen und Erreichbarkeit",
+          "paragraphs": [
+            "Ich bitte Emilia um die konkrete Liste der Nachweise und einen sicheren Übermittlungsweg. Vollständige Ausweisdaten oder Kontoauszüge meines Cousins lege ich nicht ohne abgestimmten Umfang in den Teamordner. Angaben zu wirtschaftlicher Kontrolle sollen anhand aller Vereinbarungen geprüft werden und nicht nur anhand meiner sechs Prozent.",
+            "Mein Zusatzblatt zum Aufenthaltstitel habe ich inzwischen im Umzugskarton gefunden. Ich werde es im Beratungstermin persönlich vorlegen. Diese Herkunftsskizze enthält weder das Zusatzblatt noch eine Bestätigung, dass jede geplante Tätigkeit zulässig ist."
+          ]
+        }
+      ]
+    }
+  ],
+  "mails": [
+    {
+      "file": "150_20260928_Nachreichung.eml",
+      "sender": "otti",
+      "to": "team",
+      "date": "2026-09-28T13:00:00+02:00",
+      "subject": "Nachreichungen bitte einzeln lassen",
+      "body": "Hallo zusammen,\n\ndie Mappe von heute früh ist schon bei Frida. Bitte überschreibt sie nicht stillschweigend. Schickt mir die nachgereichten Originale mit dem tatsächlichen Datum und sagt dazu, was neu ist. Insbesondere brauche ich die Zahlungsbelege zu den angeblich noch offenen Rechnungen.\n\nUnser Unternehmen ist noch nicht beurkundet. Ich möchte heute Abend weder ein eröffnetes Konto noch eine bezahlte Stammeinlage in einer Tabelle wiederfinden. Die grünen Häkchen im Projektboard waren meine To-dos, keine Bankbestätigung.\n\nOtti",
+      "attachments": []
+    },
+    {
+      "file": "151_20260928_Angebot_netto.eml",
+      "sender": "dorn",
+      "to": "ebo",
+      "date": "2026-09-28T13:05:00+02:00",
+      "subject": "Unser Angebot ist netto kalkuliert",
+      "body": "Guten Tag Herr Demir,\n\nanbei noch einmal das Angebot vom 14. September. Die 18.000 EUR verstehen sich zuzüglich Umsatzsteuer. Die erste Rate im angebotenen Ablauf läge vor dem von Ihnen genannten möglichen Notartermin. Bitte sagen Sie vor einer Bestellung, wer unser Vertragspartner wird.\n\nWir haben noch keinen Auftrag angenommen und können die Kapazität nicht bis Ende Oktober unverbindlich offenhalten. Bitte stellen Sie unseren Entwicklungsbericht in Ihrer Präsentation nicht als Produktfreigabe dar.\n\nMit freundlichen Grüßen\nGundula Dornbusch",
+      "attachments": [
+        "120_Entwicklungsangebot_Dornbusch_20260914.docx"
+      ]
+    },
+    {
+      "file": "152_20260928_Budgetfrage.eml",
+      "sender": "ebo",
+      "to": "otti",
+      "date": "2026-09-28T13:12:00+02:00",
+      "subject": "18.000 waren in meinem Kopf die ganze Summe",
+      "body": "Otti,\n\nich hatte die 18.000 aus dem Telefonat als Gesamtsumme weitergesagt. Jetzt sind es 21.420 brutto. Ich habe noch nichts bestellt. Bitte sag mir, ob deine Oktoberreserve dafür schon etwas enthält oder ob wir gerade zweimal denselben Entwicklungsblock einplanen.\n\nIch möchte den ersten Termin behalten, aber nicht persönlich für drei Raten unterschreiben und anschließend hören, das sei mein Hobby gewesen. Können wir die Beauftragung nach hinten schieben und den Umfang zunächst verkleinern?\n\nEbo",
+      "attachments": [],
+      "reply": 26
+    },
+    {
+      "file": "153_20260928_Werkstattnotiz.eml",
+      "sender": "nepo",
+      "to": "team",
+      "date": "2026-09-28T13:20:00+02:00",
+      "subject": "Die Notiz zum Wasser auf der Werkbank",
+      "body": "Ihr Lieben,\n\nLo und ich haben die Notiz ausgeschrieben. Wir wissen nicht sicher, ob Schlauch oder Haube die Ursache war. Bitte lasst den Satz Ursache behoben aus der nächsten Folie. Ich war dabei und möchte später nicht als Prüfer genannt werden, nur weil ich bei dem unterbrochenen Versuch dabei war.\n\nIm November könnten wir zuerst mit einem Salon über den Ablauf reden. Niemand soll dafür einen Kopf unter unseren Aufbau halten.\n\nNepo",
+      "attachments": [
+        "121_Werkstattbuch_Vorfall_20260826.docx"
+      ],
+      "reply": 17
+    },
+    {
+      "file": "154_20260928_Mittelherkunft.eml",
+      "sender": "tess",
+      "to": "bank",
+      "date": "2026-09-28T13:25:00+02:00",
+      "subject": "Einlage und Sprachkosten sind zwei Vorgänge",
+      "body": "Sehr geehrte Frau Wanner,\n\nanbei meine Herkunftsskizze. Die mögliche Schenkung meines Cousins ist noch nicht erfolgt. Die Teilzahlung für die Sprachunterlagen habe ich dagegen aus eigenem Einkommen bezahlt. Bitte nennen Sie mir den benötigten Nachweisumfang und den sicheren Übermittlungsweg.\n\nIch möchte vermeiden, dass mein Cousin in der Beteiligungstabelle erscheint, obwohl weder eine Beteiligung noch ein Mitspracherecht vorgesehen ist. Die übrigen Kontrollvereinbarungen schicken wir Ihnen nach Abstimmung getrennt.\n\nMit freundlichen Grüßen\nThekla Ben-Ami",
+      "attachments": [
+        "128_Herkunft_Einlage_Thekla_20260928.docx"
+      ]
+    },
+    {
+      "file": "155_20260928_Saloninteresse.eml",
+      "sender": "salon",
+      "to": "tess",
+      "date": "2026-09-28T13:35:00+02:00",
+      "subject": "Bitte noch nicht als Partnerbetrieb aufführen",
+      "body": "Liebe Tess,\n\nich habe dir meine Notiz vom 17. September angehängt. Ein Gespräch im Salon ist vorstellbar; Kundenbesuche mit einer Drohne habe ich nicht bestellt. In dem Bild vom Projektboard stand schon Pilotpartner. Bitte nehmt meinen Salon dort heraus, solange wir lediglich über einen Termin reden.\n\nMit der Preisidee von 89 EUR kann ich noch wenig anfangen. Bei einer Nacharbeit ist eine zweite Anfahrt doch schnell teurer als die gewonnene Zeit. Ruf mich am Mittwoch nach 14 Uhr an.\n\nAdelheid",
+      "attachments": [
+        "122_Saloninteresse_Klette_20260917.docx"
+      ]
+    },
+    {
+      "file": "156_20260928_Zwei_Schriften.eml",
+      "sender": "mina",
+      "to": "team",
+      "date": "2026-09-28T13:42:00+02:00",
+      "subject": "Zwei Schriften und eine zu kurze Rechtezeile",
+      "body": "Hallo zusammen,\n\nes sind tatsächlich zwei Schriften. In der Liste vom 23. September hatte ich nur Linden Sans erwähnt. Salbei Script war eine Probeversion. Ich habe beide im angehängten Vermerk getrennt und den aktuellen Pitch ausgetauscht.\n\nDie Bestätigung von Hildegard Tusch nennt die Fonts schon. Bezahlt zu haben bedeutet leider nicht, dass sämtliche Fremdmaterialien mitgekauft wurden. Bitte verwendet bis zur Klärung nur den neuen Export und lasst die alten Dateien mit Datum in der Ablage.\n\nMina",
+      "attachments": [
+        "125_Schriftlizenzen_Bestellstand_20260928.docx",
+        "123_Designauftrag_zu_SF-A008_20260908.docx"
+      ],
+      "reply": 18
+    },
+    {
+      "file": "157_20260928_Designumfang.eml",
+      "sender": "design",
+      "to": "mina",
+      "date": "2026-09-28T13:50:00+02:00",
+      "subject": "Re Auftragsumfang und Schriftdateien",
+      "body": "Liebe Mina,\n\nbei mir liegen Linden Sans und Salbei Script aus deinem Briefing. Der dreistündige Markenworkshop fand wie vereinbart statt; unsere Rechnung HT-0914-06 über 224,91 EUR brutto betrifft diesen Workshop und die besprochenen Skizzen. Die Zahlung vom 16. September ist eingegangen. Deine späteren App-Bildschirmansichten habe ich nicht erstellt. Eine Unternehmenslizenz für die Fonts haben wir weder bestellt noch berechnet.\n\nIch kann die Schriften in den Workshopskizzen ersetzen. Bitte bestätigt vor einem Zusatzauftrag, welche Variante ihr wirklich wollt. Die öffentliche Verwendung durch die künftige GmbH müssen wir ebenfalls noch konkret vereinbaren.\n\nHildegard",
+      "attachments": []
+    },
+    {
+      "file": "158_20260928_Laborunterlagen.eml",
+      "sender": "kuni",
+      "to": "law",
+      "date": "2026-09-28T14:00:00+02:00",
+      "subject": "Laborunterlagen und private Historie",
+      "body": "Sehr geehrte Frau Dr. Wolfram,\n\nich habe die relevanten Beschäftigungsangaben aufgeschrieben und die Komponentenliste ergänzt. Meine Labortätigkeit lief noch, als ich den ersten privaten Commit angelegt habe. Ich möchte deshalb nicht pauschal erklären, es habe keinen Überschnitt gegeben.\n\nDie alten Vertragsanlagen sind angefordert. Anbei erhalten Sie meine Abschrift und das Bestandsverzeichnis, keine Freigabe des Instituts. Für einen Dateiabgleich brauche ich bitte einen Weg, bei dem nicht versehentlich fremde Labordaten im Teamordner landen.\n\nMit freundlichen Grüßen\nKunigunde Nguyen",
+      "attachments": [
+        "127_Hochschulunterlagen_Kunigunde_20260928.docx",
+        "180_Softwareherkunft_20260928.csv"
+      ],
+      "reply": 18
+    },
+    {
+      "file": "159_20260928_Laborantwort.eml",
+      "sender": "labor",
+      "to": "kuni",
+      "date": "2026-09-28T14:08:00+02:00",
+      "subject": "Eingang Ihrer Anfrage zu den Vertragsanlagen",
+      "body": "Liebe Frau Nguyen,\n\nIhre Anfrage ist eingegangen. Ich kann heute nur das Ende der in unserem Vorgang geführten Beschäftigungszeit zum 31. Mai bestätigen. Die Vertragsanlagen und die Zuordnung des Projektblatts muss die Personalstelle heraussuchen.\n\nBitte senden Sie keine vollständigen privaten oder fremden Repositorys an dieses Postfach. Ihre Frage zu Rechten an einzelnen Dateien wird durch diese Eingangsbestätigung nicht beantwortet. Ich melde mich, sobald die Unterlagen bereitstehen.\n\nFreundliche Grüße\nEdith Bollenbach",
+      "attachments": []
+    },
+    {
+      "file": "160_20260928_Auslagen_v07.eml",
+      "sender": "otti",
+      "to": "team",
+      "date": "2026-09-28T14:20:00+02:00",
+      "subject": "Auslagen v0.7 nach den Zahlungsnachweisen",
+      "body": "Hallo zusammen,\n\nanbei der nachgereichte Stand und die neuen Nachweise. Der Morgenstand v0.6 bleibt erhalten. Bei Gundel Sprachkontor waren 499,80 EUR offen vermerkt; Tess hat am 27. September bereits 200 EUR gezahlt. Die 214,20 EUR beim Büroservice waren ebenfalls schon bezahlt, mir fehlte nur der Nachweis.\n\nZusammen mit den zusätzlichen Belegen komme ich auf 3.896,89 EUR Bruttokosten nach Gutschriften. Privat getragen sind 3.261,61 EUR, offen bleiben 635,28 EUR. Das sind keine Zahlungen einer Gesellschaft. Niemand hat bislang eine Erstattung beschlossen. Bitte schaut insbesondere auf Teilzahlungen und die Gutschrift, bevor ihr Rechnungen addiert.\n\nOtti",
+      "attachments": [
+        "140_Nachgereichte_Auslagen_20260928.xlsx",
+        "131_Teilzahlung_SF-A015_Werkraum.pdf",
+        "135_Teilzahlung_SF-A019_Sprachkontor.pdf",
+        "136_Zahlung_SF-A020_Bueroservice.pdf"
+      ],
+      "reply": 25
+    },
+    {
+      "file": "161_20260928_Werkbank.eml",
+      "sender": "lo",
+      "to": "otti",
+      "date": "2026-09-28T14:30:00+02:00",
+      "subject": "Werkbank ist weiterhin nicht meine",
+      "body": "Otti,\n\nanbei Walburgas Bestätigung. WB 17 gehört Birkhahn, nicht mir und auch nicht uns sieben. Dass ich das Ding im Raum gezeigt habe, macht daraus keine Ausstattung, die ich als Einlage versprechen kann. Die Messgeräte sind ebenfalls nur überlassen.\n\nWalburga möchte die Notiz zum Augustvorfall. Ich habe ihr noch keine Schadenhöhe genannt; wir kennen weder eine belastbare Ursache noch eine Rechnung. Meine Teilekäufe und die Werkbank bitte getrennt lassen.\n\nLo",
+      "attachments": [
+        "126_Werkbank_Ueberlassung_und_Inventar_20260920.docx"
+      ]
+    },
+    {
+      "file": "162_20260928_Raumanschrift.eml",
+      "sender": "raum",
+      "to": "otti",
+      "date": "2026-09-28T14:40:00+02:00",
+      "subject": "Geschäftsanschrift und Paketannahme",
+      "body": "Sehr geehrte Frau Kühnle,\n\nder Raumentwurf gilt unverändert. Die Tagesbuchungen bei Amboß sind keine Miete unseres Werkraums 4. Wir haben weder die Kaution erhalten noch Schlüssel übergeben. Für die Nutzung als Geschäftsanschrift benötigen wir eine gesonderte Vereinbarung über Postannahme und Erreichbarkeit.\n\nEin Angebot dafür kann ich nach Prüfung Ihrer tatsächlichen Anfangstätigkeit erstellen. Bitte tragen Sie die Anschrift nicht allein aufgrund einer von Ihnen zurückgesandten Entwurfsdatei als von uns bestätigt ein.\n\nMit freundlichen Grüßen\nHildegard Krause",
+      "attachments": [],
+      "reply": 6
+    },
+    {
+      "file": "163_20260928_Bankkontrolle.eml",
+      "sender": "bank",
+      "to": "otti",
+      "date": "2026-09-28T14:52:00+02:00",
+      "subject": "Weitere Angaben zur Kontrolle und zu den Einzahlern",
+      "body": "Sehr geehrte Frau Kühnle,\n\nvielen Dank für die Nachreichung. Bitte benennen Sie die tatsächlich zuletzt vorgeschlagenen Budget- und Stimmrechte und legen Sie abweichende Fassungen nebeneinander vor. Wir können aus sieben Quoten unter 25 Prozent noch keine vollständige Kontrollbeschreibung ableiten.\n\nFrau Ben-Amis Herkunftsskizze ist eingegangen. Sie ist keine Identifizierung und keine Bestätigung über den Geldfluss. Die Kontoeröffnung ist weiterhin in Prüfung. Bitte nutzen Sie noch keine Kontodaten aus einer fremden Beispielrechnung für Einzahlungen.\n\nMit freundlichen Grüßen\nEmilia Wanner",
+      "attachments": [],
+      "reply": 29,
+      "cc": [
+        "tess"
+      ]
+    },
+    {
+      "file": "164_20260928_Loeschstand.eml",
+      "sender": "mina",
+      "to": "team",
+      "date": "2026-09-28T15:05:00+02:00",
+      "subject": "V03 aus der Präsentation entfernt",
+      "body": "Hallo,\n\nanbei der konkrete Abgleich. Die heutige Vorschau zeigt nur den Schaumstoffkopf. Der alte Link ist deaktiviert. Das bedeutet noch nicht, dass V03 von allen Geräten verschwunden ist; Ebo muss seine lokale Kopie prüfen.\n\nBitte macht aus meiner Rolle in der Gestaltung nicht nebenbei eine Bestellung zur Datenschutzbeauftragten. Ich kann die Liste führen und Rückfragen sammeln. Die Entscheidungen über Zweck, Zugriff und Aufbewahrung müssen wir gemeinsam mit fachlicher Unterstützung treffen.\n\nMina",
+      "attachments": [
+        "124_Datenablage_und_Loeschvermerk_20260928.docx",
+        "181_Datenbestand_20260928.csv"
+      ],
+      "reply": 31
+    },
+    {
+      "file": "165_20260928_Arbeitgeberantwort.eml",
+      "sender": "arbeitgeber",
+      "to": "ebo",
+      "date": "2026-09-28T15:20:00+02:00",
+      "subject": "Re Unterlagen zu Ihren Projektdateien",
+      "body": "Sehr geehrter Herr Demir,\n\nanbei unsere Antwort auf Ihre Anfrage vom 25. September. Bitte unterscheiden Sie die Entscheidung über eine konkret bezeichnete Datei von einer allgemeinen Erklärung, dass Ihr Gründungsvorhaben keine Rechte unseres Hauses berührt. Eine solche allgemeine Freigabe haben wir nicht erteilt.\n\nWir benötigen zuerst die genannten Angaben. Die heutige Rückmeldung ist auch keine Zustimmung zur Verwendung unseres Firmennamens in Investorengesprächen.\n\nMit freundlichen Grüßen\nRenate Voss",
+      "attachments": [
+        "109_IP_Antwort_Arbeitgeber_20260928.docx"
+      ]
+    },
+    {
+      "file": "166_20260928_Ottilie_Gehalt.eml",
+      "sender": "otti",
+      "to": "law",
+      "date": "2026-09-28T15:35:00+02:00",
+      "subject": "Mein Gehalt und die 21 Prozent",
+      "body": "Sehr geehrte Frau Dr. Wolfram,\n\nanbei mein Gegenentwurf. Bei 3.500 EUR im gemeinsamen Vertragsstand habe ich noch nicht zugestimmt; mein Wunsch bleibt 4.200 EUR ab einem tatsächlich vereinbarten Beginn, frühestens Januar. Die 30 Stunden beim bisherigen Arbeitgeber und die Nachmittage für meine Mutter sind keine Randnotiz für mich.\n\nBitte prüfen Sie meine tatsächlichen Einflussmöglichkeiten und den geeigneten Weg zur Statusklärung. Ich möchte keine Zusage selbständig aus 21 Prozent oder aus dem Wort Budgetveto ableiten. Vor einer Entscheidung kündige ich meinen jetzigen Job nicht.\n\nMit freundlichen Grüßen\nOttilie Kühnle",
+      "attachments": [
+        "101_Dienstvertrag_Kuehnle_Gegenentwurf_20260928.docx"
+      ],
+      "reply": 21
+    },
+    {
+      "file": "167_20260928_EN_Gegenentwurf.eml",
+      "sender": "ebo",
+      "to": "team",
+      "date": "2026-09-28T15:45:00+02:00",
+      "subject": "Mein englisches Zusatzblatt ist ein Gegenentwurf",
+      "body": "Team,\n\nich habe heute eine englische Gegenfassung geschrieben. Sie ist nicht die Übersetzung von Minas deutschem Blatt von gestern. Im Budgetpunkt habe ich mich am bisherigen Wortlaut zur Erhöhung orientiert; Otti meint offenbar den gesamten Jahresplan. Bitte lasst beide Fassungen getrennt im Ordner.\n\nDie Regel für laufende Bestellungen hätte ich ebenfalls gern beweglicher. Ich weiß, dass eine interne Geschäftsordnung noch keine Einzelvertretung schafft. Trotzdem müssen wir heute Abend klären, welche Unterschriften wir später erwarten.\n\nEbo",
+      "attachments": [
+        "103_Sideletter_DE_Gruendergegenfassung_20260927.docx",
+        "104_Sideletter_EN_Demir_Counterproposal_20260928.docx"
+      ],
+      "reply": 16
+    },
+    {
+      "file": "168_20260928_Seed_Bedingungen.eml",
+      "sender": "invest",
+      "to": "otti",
+      "date": "2026-09-28T16:00:00+02:00",
+      "subject": "Seed Prüfung ist noch keine Auszahlung",
+      "body": "Liebe Frau Kühnle,\n\nbitte senden Sie uns die aktuelle Liste der Vollzugsbedingungen mit dem tatsächlichen Bearbeitungsstand. Die 600.000 EUR aus unserem Gespräch sind weder überwiesen noch verbindlich zugesagt. Ein Anspruch entsteht auch nicht dadurch, dass der Betrag im Finanzplan an einem bestimmten Tag steht.\n\nUns interessieren besonders die Rechteherkunft, die Anfangstätigkeit und die privaten Vorverpflichtungen. Einen Kundenbetrieb mit dem autonomen Haarpflegesystem verlangen wir vor unserer Entscheidung nicht. Bitte kennzeichnen Sie noch nicht vereinbarte Salongespräche als offen.\n\nFreundliche Grüße\nAnneliese Stern",
+      "attachments": [],
+      "reply": 15
+    },
+    {
+      "file": "169_20260928_Darlehensvorschlag.eml",
+      "sender": "nepo",
+      "to": "team",
+      "date": "2026-09-28T16:15:00+02:00",
+      "subject": "Die 8.000 sind mein Vorschlag kein Kontostand",
+      "body": "Hallo zusammen,\n\nich habe aufgeschrieben, unter welchen Bedingungen ich später bis zu 8.000 EUR leihen könnte. Das soll erst nach einer Registereintragung und einem gesonderten Vertrag gehen. Es ist kein Geld, mit dem wir die erste Dornbusch-Rate am 5. Oktober bezahlen können.\n\nBitte verwechselt meinen Vorschlag nicht mit einer weiteren Einlage. Ich würde erst entscheiden, wenn ich die Finanzierung und die Rückzahlung sehe. Mit automatischer Wandlung in Anteile habe ich mich nicht einverstanden erklärt.\n\nNepo",
+      "attachments": [
+        "105_Brueckendarlehen_Konditionsvorschlag_20260928.docx"
+      ],
+      "reply": 25
+    },
+    {
+      "file": "170_20260928_Vesting_Bezugsrecht.eml",
+      "sender": "kuni",
+      "to": "team",
+      "date": "2026-09-28T16:30:00+02:00",
+      "subject": "Krankheit und spätere Kapitalrunden",
+      "body": "Hallo zusammen,\n\nder Vestingtext und die Downround-Gegenposition gehören zusammen in die Besprechung. Meine bereits geleisteten Monate verschwinden nicht dadurch, dass wir beim Notar bei null anfangen. Und eine Krankheit ist für mich keine Treueverletzung.\n\nDie Serie-B-Zahlen bleiben ein Gedankenspiel. Ich möchte gerade deshalb keinen heutigen Blankoverzicht unterschreiben. Wenn ich bei einer späteren Runde mitzeichnen soll, muss ich Betrag und Frist kennen und das Geld auch aufbringen können.\n\nKuni",
+      "attachments": [
+        "102_Vesting_Altleistungen_und_Leaver_20260928.docx",
+        "107_Bezugsrecht_Downround_Gegenposition_20260928.docx"
+      ],
+      "reply": 20
+    },
+    {
+      "file": "171_20260928_Faelligkeiten.eml",
+      "sender": "otti",
+      "to": "team",
+      "date": "2026-09-28T16:45:00+02:00",
+      "subject": "Bedingungen und Raten für heute Abend",
+      "body": "Hallo zusammen,\n\nanbei die Tabelle zu den Bedingungen und den möglichen Fälligkeiten. Die Raten aus dem Dornbusch-Angebot sind eine angebotene Variante. Vor Bestellung brauchen wir Vertragspartei, Leistungsumfang und eine Einordnung in das bisherige Budget. Die Reserve aus v0.6 darf nicht zusätzlich zu derselben konkretisierten Leistung stehenbleiben.\n\nFür Seed und Nepos Darlehen bleibt zwischen Wunschdatum, Bedingung und tatsächlich verfügbarem Geld zu unterscheiden. Ich möchte heute nur Entscheidungen vorbereiten, für die wir die Grundlagen kennen.\n\nOtti",
+      "attachments": [
+        "141_Finanzierungsbedingungen_und_Faelligkeiten.xlsx",
+        "106_Seed_Vollzugsbedingungen_Zeichnungsentwurf_20260928.docx"
+      ],
+      "reply": 35
+    },
+    {
+      "file": "172_20260928_Besprechungsnotizen.eml",
+      "sender": "otti",
+      "to": "team",
+      "date": "2026-09-28T18:47:00+02:00",
+      "subject": "Notizen von heute bitte bis morgen gegenlesen",
+      "body": "Hallo zusammen,\n\nanbei die Notizen von 17:30 bis 18:35. Kuni war ab 17:44 dabei. Bitte sagt mir, wenn ich eure Position falsch wiedergegeben habe. Das war eine Gründerbesprechung und keine Versammlung einer bereits bestehenden GmbH.\n\nWir haben weder den Entwicklungsauftrag bestellt noch ein Budgetveto vereinbart. Für mich ist immerhin klarer, welche Fassung wir Frida zeigen müssen. Wer nur das englische Blatt schickt, unterschlägt Minas Gegenposition.\n\nDanke und bis morgen\nOtti",
+      "attachments": [
+        "110_Besprechungsprotokoll_Vertraege_20260928.docx",
+        "100_Satzung_Mehrheitsklauseln_Gegenfassungen_20260928.docx",
+        "111_Geschaeftsordnung_Demir_Gegenentwurf_20260928.docx"
+      ],
+      "reply": 42
+    },
+    {
+      "file": "173_20260928_Entwurfsauftrag.eml",
+      "sender": "otti",
+      "to": "law",
+      "date": "2026-09-28T18:55:00+02:00",
+      "subject": "Ergänzte Mappe Stand 18:55",
+      "body": "Sehr geehrte Frau Dr. Wolfram,\n\nSie erhalten die nachgereichten Unterlagen neben dem Morgenstand. Bitte führen Sie die Gründungsunterlagen weiter und benennen Sie die Entscheidungen, die wir noch treffen müssen. Der gewünschte Notartermin ist weiterhin lediglich angefragt. Wir benötigen eine abgestimmte Satzung und eine dazu passende deutsche und englische Gesellschaftervereinbarung.\n\nBesonders wichtig sind uns das tatsächliche Budgetrecht, die Vertretung, Ottilies Stellung, die Altleistungen und die Rechte am Produkt. Die Rechnungen dienen dem Abgleich der privaten Auslagen; eine Erstattung oder eine Übernahme von Verträgen ist noch nicht beschlossen. Bitte behandeln Sie spätere Finanzierungsrunden als Varianten und nicht als schon bestehende Beteiligungen.\n\nMit freundlichen Grüßen\nOttilie Kühnle",
+      "attachments": [],
+      "reply": 24
+    }
+  ],
+  "chats": [
+    {
+      "file": "174_Chat_Budget_und_Sprache_20260928.txt",
+      "title": "Teamchat Budget und Sprache",
+      "date": "28.09.2026 · Export Ottilie 18:50",
+      "messages": [
+        [
+          "15:47",
+          "Otti",
+          "Wenn wir 48.000 beschließen und dann um 49.000 erhöhen, ist das für mich nicht unterhalb meines Limits."
+        ],
+        [
+          "15:49",
+          "Ebo",
+          "Im alten Blatt steht Erhöhung um mehr als 50.000. Ich habe genau das übersetzt."
+        ],
+        [
+          "15:52",
+          "Mina",
+          "Dann haben wir nicht dasselbe vereinbart. Mein Blatt von gestern bezieht den Jahresplan ein."
+        ],
+        [
+          "15:55",
+          "Tess",
+          "Bitte nicht die englische Datei einfach final nennen. Ich lese das als anderen Vorschlag."
+        ],
+        [
+          "16:01",
+          "Otti",
+          "Und wir haben auch den ersten Jahresplan noch gar nicht beschlossen. Nehmen wir alle drei Texte mit."
+        ]
+      ]
+    },
+    {
+      "file": "175_Chat_Werkstatt_und_Rechte_20260928.txt",
+      "title": "Teamchat Werkstatt und Rechte",
+      "date": "28.09.2026 · Export Alois 17:05",
+      "messages": [
+        [
+          "14:32",
+          "Lo",
+          "Walburga will die Notiz vom Wasser. Werkbank bleibt fremdes Eigentum."
+        ],
+        [
+          "14:35",
+          "Ebo",
+          "Ich dachte, nur die Lampe wäre geliehen."
+        ],
+        [
+          "14:37",
+          "Lo",
+          "Nein. Bank, Lampe und Messgerät. Kleinteile sind was anderes."
+        ],
+        [
+          "14:43",
+          "Nepo",
+          "Kann bitte auch jemand den Haken sicher am Aufbau aus dem Board nehmen? Das war eine Unterbrechung, keine Abnahme."
+        ],
+        [
+          "15:06",
+          "Mina",
+          "V03 ist aus dem heutigen Pitch raus. Ebo, deine alte lokale Kopie ist noch ungeklärt."
+        ],
+        [
+          "15:09",
+          "Ebo",
+          "Ich suche sie nachher. Nicht als gelöscht abhaken, bis ich geantwortet habe."
+        ]
+      ]
+    },
+    {
+      "file": "176_Chat_Grunderalltag_20260928.txt",
+      "title": "Teamchat Montagabend",
+      "date": "28.09.2026 · Export Thekla 18:52",
+      "messages": [
+        [
+          "16:55",
+          "Kuni",
+          "Ich komme ungefähr eine Viertelstunde später. Noch im Termin mit dem Labor."
+        ],
+        [
+          "16:58",
+          "Nepo",
+          "Ich bringe Brezeln. Bitte keine Investorenbewertung dafür in die Tabelle schreiben."
+        ],
+        [
+          "17:01",
+          "Otti",
+          "Um 18:40 muss ich telefonieren. Wir fangen mit Vertretung und meinem Vertrag an."
+        ],
+        [
+          "17:03",
+          "Tess",
+          "Zusatzblatt ist gefunden. Zeige ich Frida persönlich, nicht im Gruppenchat."
+        ],
+        [
+          "18:38",
+          "Mina",
+          "Gut, dass wir die Krankheit nicht in zehn Minuten abgehandelt haben. Ich möchte den Text noch einmal in Ruhe lesen."
+        ],
+        [
+          "18:41",
+          "Lo",
+          "Und bitte meine acht Prozent nicht als acht Stunden pro Tag lesen. Zwei Tage pro Woche war die Zusage."
+        ]
+      ]
+    }
+  ],
+  "screenshots": [
+    {
+      "file": "177_Projektboard_Nachreichung_20260928.png",
+      "title": "Schnittflug Teamboard",
+      "subtitle": "28. September 2026 · 18:45 · Nachreichung zum Morgenstand",
+      "cards": [
+        [
+          "IN PRÜFUNG",
+          "Gründungskonto",
+          "Unterlagen nachgereicht. Keine Kontonummer freigegeben und kein Stammkapital eingezahlt."
+        ],
+        [
+          "NEUER STAND",
+          "Private Auslagen",
+          "v0.7 berücksichtigt Teilzahlungen und Gutschrift. Erstattungsfreigaben fehlen weiterhin."
+        ],
+        [
+          "GEGENFASSUNGEN",
+          "Budget und Sprache",
+          "Deutsches Zusatzblatt vom 27.09. und englischer Gegenvorschlag vom 28.09. nicht zusammenführen."
+        ],
+        [
+          "KORRIGIERT",
+          "Salongespräch",
+          "Adelheid ist Gesprächskontakt. Kein Pilotvertrag und keine Kundenbuchung."
+        ]
+      ]
+    },
+    {
+      "file": "178_Chatbild_Budget_20260928.png",
+      "title": "Schnittflug Budgetrunde",
+      "subtitle": "28. September 2026 · Ausschnitt 15:47 bis 16:01",
+      "messages": [
+        [
+          "15:47",
+          "Otti",
+          "Wenn wir 48.000 beschließen und dann um 49.000 erhöhen, ist das für mich nicht unterhalb meines Limits."
+        ],
+        [
+          "15:49",
+          "Ebo",
+          "Im alten Blatt steht Erhöhung um mehr als 50.000. Ich habe genau das übersetzt."
+        ],
+        [
+          "15:52",
+          "Mina",
+          "Dann haben wir nicht dasselbe vereinbart. Mein Blatt von gestern bezieht den Jahresplan ein."
+        ],
+        [
+          "15:55",
+          "Tess",
+          "Bitte nicht die englische Datei einfach final nennen. Ich lese das als anderen Vorschlag."
+        ],
+        [
+          "16:01",
+          "Otti",
+          "Und wir haben auch den ersten Jahresplan noch gar nicht beschlossen. Nehmen wir alle drei Texte mit."
+        ]
+      ]
+    },
+    {
+      "file": "179_Dateiablage_Versionen_20260928.png",
+      "title": "Schnittflug Dokumentenablage",
+      "subtitle": "28. September 2026 · 18:51 · Eingang zur Gründungsberatung",
+      "cards": [
+        [
+          "08:40",
+          "Auslagen v0.6",
+          "Früher Morgenstand. Teilzahlungen und neue Belege lagen Ottilie noch nicht vor."
+        ],
+        [
+          "14:20",
+          "Auslagen v0.7",
+          "Nachgereichter Belegstand mit Brücke zu v0.6. Privater Geldfluss bleibt getrennt."
+        ],
+        [
+          "27. SEPTEMBER",
+          "Sideletter Deutsch",
+          "Gründergegenfassung. Geänderte Reichweite des Budgetrechts."
+        ],
+        [
+          "28. SEPTEMBER",
+          "Sideletter Englisch",
+          "Späterer Vorschlag von Eberhard. Kein bestätigter zweisprachiger Vertrag."
+        ]
+      ]
+    }
+  ],
+  "people": {
+    "dorn": "Gundula Dornbusch <gundula@dornbusch-entwicklung.example>",
+    "salon": "Adelheid Klette <adelheid@locke-und-kragen.example>",
+    "design": "Hildegard Tusch <hildegard@tusch-design.example>",
+    "werkbank": "Walburga Birkhahn <walburga@birkhahn-feinmechanik.example>",
+    "raum": "Hildegard Krause <verwaltung@flugfeld-werkhoefe.example>",
+    "labor": "Edith Bollenbach <edith@bildsysteme-labor.example>",
+    "arbeitgeber": "Renate Voss <renate.voss@kranich-automation.example>",
+    "makler": "Baldur Kessler <baldur@kessler-risiko.example>"
+  },
+  "registers": [
+    {
+      "file": "180_Softwareherkunft_20260928.csv",
+      "columns": [
+        "Bestandteil",
+        "Aufgabe",
+        "Erster bekannter Stand",
+        "Beitragende",
+        "Zeitlicher Bezug",
+        "Quelle",
+        "Nutzungsstand",
+        "Offener Nachweis"
+      ],
+      "rows": [
+        [
+          "contour_normalize.py",
+          "Konturvorbereitung",
+          "2026-02-18",
+          "Kunigunde Nguyen",
+          "studentische Tätigkeit bis 2026-05-31",
+          "privater Verlauf Kopfscan",
+          "nicht abschließend zugeordnet",
+          "Projektblatt127 und Vertragsanlagen angefordert"
+        ],
+        [
+          "hair_preview.py",
+          "Bildschirmvorschau",
+          "2026-06-18",
+          "Kunigunde Nguyen",
+          "nach dem mitgeteilten Beschäftigungsende",
+          "privater Verlauf Kopfscan",
+          "Eigenentwicklung nach Erinnerung",
+          "Vergleich mit Laborbestand noch ausstehend"
+        ],
+        [
+          "app_screens_v03",
+          "Drei Bildschirmansichten",
+          "2026-09-11",
+          "Wilhelmine Okafor",
+          "eigene private Gestaltungsarbeit",
+          "Wilhelmines Gestaltungsablage; Abgrenzung zum Markenworkshop in 123",
+          "Gestaltungsleistung von Fremdschriften getrennt",
+          "Schriftlizenzen und Rechte an übernommenen Workshopskizzen klären"
+        ],
+        [
+          "Linden Sans",
+          "Schrift für statische Entwürfe",
+          "2025-12-01",
+          "Wilhelmine Okafor",
+          "privates Abonnement",
+          "125_Schriftlizenzen_Bestellstand_20260928.docx",
+          "ein Arbeitsplatz; keine belegte App Lizenz",
+          "Dateiweitergabe an Studio zu klären"
+        ],
+        [
+          "Salbei Script",
+          "Überschrift alter Vorschauen",
+          "2026-08-18",
+          "Wilhelmine Okafor",
+          "private Probebibliothek",
+          "125_Schriftlizenzen_Bestellstand_20260928.docx",
+          "kein Kaufbeleg gefunden",
+          "aktueller Export ersetzt; alte Weitergabe offen"
+        ],
+        [
+          "bahn_skizze_v2.py",
+          "Robotikskizze",
+          "nicht gesichert",
+          "Eberhard Demir",
+          "während bisherigem Arbeitsverhältnis zu klären",
+          "108_IP_Freigabeanfrage_Demir_20260925.docx",
+          "Freigabeanfrage vom 25. September noch offen",
+          "Dateihistorie und Vertragsanlagen angefordert; keine Rechtefreigabe"
+        ],
+        [
+          "abstand_notiz.txt",
+          "Notiz zum Konzept",
+          "nicht gesichert",
+          "Eberhard Demir",
+          "Speicherort und Entstehung zu klären",
+          "108_IP_Freigabeanfrage_Demir_20260925.docx",
+          "keine Freigabe",
+          "Vertragsanlage weiterhin angefordert"
+        ]
+      ]
+    },
+    {
+      "file": "181_Datenbestand_20260928.csv",
+      "columns": [
+        "Kennung",
+        "Beschreibung",
+        "Speicherort",
+        "Standdatum",
+        "Nutzung",
+        "Bearbeitungsstand",
+        "Beleg"
+      ],
+      "rows": [
+        [
+          "M01 bis M08",
+          "Aufnahmen des Schaumstoffkopfs",
+          "freigegebener Projektordner",
+          "2026-09-28",
+          "interne Vorschau",
+          "im Projekt erstellt laut Kunigunde",
+          "124_Datenablage_und_Loeschvermerk_20260928.docx"
+        ],
+        [
+          "V01",
+          "Kopfvideo aus privatem Umfeld",
+          "lokaler gesperrter Ordner",
+          "2026-09-28",
+          "keine neue Weitergabe",
+          "Zweck und Erklärung zu klären",
+          "124_Datenablage_und_Loeschvermerk_20260928.docx"
+        ],
+        [
+          "V02",
+          "Kopfvideo aus privatem Umfeld",
+          "lokaler gesperrter Ordner",
+          "2026-09-28",
+          "keine neue Weitergabe",
+          "Zweck und Erklärung zu klären",
+          "124_Datenablage_und_Loeschvermerk_20260928.docx"
+        ],
+        [
+          "V03 Arbeitsdatei",
+          "Private Aufnahme",
+          "Kunigundes Arbeitsverzeichnis",
+          "2026-09-19",
+          "entfernt",
+          "Entfernung nach Erinnerung",
+          "124_Datenablage_und_Loeschvermerk_20260928.docx"
+        ],
+        [
+          "V03 Vorschau",
+          "Vorschaubild im Pitch",
+          "gemeinsame Ablage",
+          "2026-09-28",
+          "11:32 entfernt",
+          "neuer Export und Linkkontrolle dokumentiert",
+          "124_Datenablage_und_Loeschvermerk_20260928.docx"
+        ],
+        [
+          "V03 lokale Kopie",
+          "Alter Export",
+          "Eberhards Gerät",
+          "2026-09-28",
+          "unbekannt",
+          "Rückmeldung ausstehend",
+          "124_Datenablage_und_Loeschvermerk_20260928.docx"
+        ],
+        [
+          "Sicherung Altstand",
+          "Automatische Sicherung Arbeitsordner",
+          "lokales Sicherungsziel",
+          "2026-09-28",
+          "Zugriff und Ablauf ungeklärt",
+          "keine vollständige Löschung bescheinigt",
+          "124_Datenablage_und_Loeschvermerk_20260928.docx"
+        ]
+      ]
+    }
+  ]
+}

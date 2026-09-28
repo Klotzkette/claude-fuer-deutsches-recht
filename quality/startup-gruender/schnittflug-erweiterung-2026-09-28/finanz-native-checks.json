@@ -1,0 +1,189 @@
+[
+  {
+    "file": "140_Nachgereichte_Auslagen_20260928.xlsx",
+    "source_file": "140_Nachgereichte_Auslagen_20260928.xlsx",
+    "source_sha256": "c1524c1b532267b66fc7f8a7b8a0aa263456500f5c871bc70a8fc22732273ed1",
+    "input_change": null,
+    "expected": {
+      "Abgleich!D9": 3896.89,
+      "Abgleich!E9": 3261.61,
+      "Abgleich!F9": 635.28,
+      "Abgleich!J33": 0,
+      "Abgleich!F22": 299.8
+    },
+    "actual": {
+      "Abgleich!D9": 3896.89,
+      "Abgleich!E9": 3261.61,
+      "Abgleich!F9": 635.28,
+      "Abgleich!J33": 0.0,
+      "Abgleich!F22": 299.8
+    },
+    "status": "bestanden",
+    "errors": {},
+    "formula_caches_removed_before_open": true,
+    "formulas_without_cache_before_open": 116
+  },
+  {
+    "file": "141_Finanzierungsbedingungen_und_Faelligkeiten.xlsx",
+    "source_file": "141_Finanzierungsbedingungen_und_Faelligkeiten.xlsx",
+    "source_sha256": "3ba7f60a54518514f2dbd3a633b01238f0cc6648b63db42826b4f6620ae58d08",
+    "input_change": null,
+    "expected": {
+      "Finanzierung!E7": 0,
+      "Finanzierung!E8": 0,
+      "Finanzierung!E25": 3,
+      "Finanzierung!E26": 4,
+      "Fälligkeiten!G12": 635.28,
+      "Fälligkeiten!E23": 21420,
+      "Mittelverwendung!G28": 6365,
+      "Mittelverwendung!C8": 35000
+    },
+    "actual": {
+      "Finanzierung!E7": 0.0,
+      "Finanzierung!E8": 0.0,
+      "Finanzierung!E25": 3.0,
+      "Finanzierung!E26": 4.0,
+      "Fälligkeiten!G12": 635.28,
+      "Fälligkeiten!E23": 21420.0,
+      "Mittelverwendung!G28": 6365.0,
+      "Mittelverwendung!C8": 35000.0
+    },
+    "status": "bestanden",
+    "errors": {},
+    "formula_caches_removed_before_open": true,
+    "formulas_without_cache_before_open": 29
+  },
+  {
+    "file": "140_Nachgereichte_Auslagen_20260928-teilfreigabe.xlsx",
+    "source_file": "140_Nachgereichte_Auslagen_20260928.xlsx",
+    "source_sha256": "c1524c1b532267b66fc7f8a7b8a0aa263456500f5c871bc70a8fc22732273ed1",
+    "input_change": [
+      "Abgleich",
+      "G22",
+      "Ja"
+    ],
+    "expected": {
+      "Abgleich!J22": 0
+    },
+    "actual": {
+      "Abgleich!J22": 0.0
+    },
+    "status": "bestanden",
+    "errors": {},
+    "formula_caches_removed_before_open": true,
+    "formulas_without_cache_before_open": 116
+  },
+  {
+    "file": "140_Nachgereichte_Auslagen_20260928-vollzahlung.xlsx",
+    "source_file": "140_Nachgereichte_Auslagen_20260928.xlsx",
+    "source_sha256": "c1524c1b532267b66fc7f8a7b8a0aa263456500f5c871bc70a8fc22732273ed1",
+    "input_change": [
+      "Zahlungen",
+      "F20",
+      499.8
+    ],
+    "expected": {
+      "Abgleich!F22": 0,
+      "Abgleich!F9": 335.48,
+      "Abgleich!E9": 3561.41
+    },
+    "actual": {
+      "Abgleich!F22": 0.0,
+      "Abgleich!F9": 335.48,
+      "Abgleich!E9": 3561.41
+    },
+    "status": "bestanden",
+    "errors": {},
+    "formula_caches_removed_before_open": true,
+    "formulas_without_cache_before_open": 116
+  },
+  {
+    "file": "140_Nachgereichte_Auslagen_20260928-doppelte_id.xlsx",
+    "source_file": "140_Nachgereichte_Auslagen_20260928.xlsx",
+    "source_sha256": "c1524c1b532267b66fc7f8a7b8a0aa263456500f5c871bc70a8fc22732273ed1",
+    "input_change": [
+      "Kosten",
+      "B8",
+      "SF-A001"
+    ],
+    "expected": {
+      "Abgleich!D16": "Beleg-ID prüfen"
+    },
+    "actual": {
+      "Abgleich!D16": "Beleg-ID prüfen"
+    },
+    "status": "bestanden",
+    "errors": {
+      "Abgleich": [
+        [
+          "F16",
+          "#VALUE!"
+        ],
+        [
+          "F17",
+          "#VALUE!"
+        ],
+        [
+          "F33",
+          "#VALUE!"
+        ],
+        [
+          "F37",
+          "#VALUE!"
+        ],
+        [
+          "F38",
+          "#VALUE!"
+        ]
+      ]
+    },
+    "formula_caches_removed_before_open": true,
+    "formulas_without_cache_before_open": 116
+  },
+  {
+    "file": "141_Finanzierungsbedingungen_und_Faelligkeiten-spaeteres_budget.xlsx",
+    "source_file": "141_Finanzierungsbedingungen_und_Faelligkeiten.xlsx",
+    "source_sha256": "3ba7f60a54518514f2dbd3a633b01238f0cc6648b63db42826b4f6620ae58d08",
+    "input_change": [
+      "Mittelverwendung",
+      "C26",
+      5000
+    ],
+    "expected": {
+      "Mittelverwendung!G26": 6067,
+      "Mittelverwendung!G28": 5565
+    },
+    "actual": {
+      "Mittelverwendung!G26": 6067.0,
+      "Mittelverwendung!G28": 5565.0
+    },
+    "status": "bestanden",
+    "errors": {},
+    "formula_caches_removed_before_open": true,
+    "formulas_without_cache_before_open": 29
+  },
+  {
+    "file": "141_Finanzierungsbedingungen_und_Faelligkeiten-erste_bedingung.xlsx",
+    "source_file": "141_Finanzierungsbedingungen_und_Faelligkeiten.xlsx",
+    "source_sha256": "3ba7f60a54518514f2dbd3a633b01238f0cc6648b63db42826b4f6620ae58d08",
+    "input_change": [
+      "Finanzierung",
+      "E16",
+      "Erfüllt"
+    ],
+    "expected": {
+      "Finanzierung!E25": 2,
+      "Finanzierung!E7": 0,
+      "Finanzierung!E8": 0
+    },
+    "actual": {
+      "Finanzierung!E25": 2.0,
+      "Finanzierung!E7": 0.0,
+      "Finanzierung!E8": 0.0
+    },
+    "status": "bestanden",
+    "errors": {},
+    "formula_caches_removed_before_open": true,
+    "formulas_without_cache_before_open": 29
+  }
+]

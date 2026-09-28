@@ -1,0 +1,52 @@
+[
+  {
+    "file": "130_Rechnung_SF-A014_Werkraum.pdf",
+    "pages": 1,
+    "sha256": "6167eb7e4e91e541c9c458248f536b28b0316ee2b7ca34b1626a6fa4d0a722f9"
+  },
+  {
+    "file": "131_Teilzahlung_SF-A015_Werkraum.pdf",
+    "pages": 1,
+    "sha256": "b2e6ac7864080c8f1d5fc8e3f6e37ab7f9289cf4891dac4ea424e377d7cd52ef"
+  },
+  {
+    "file": "132_Rechnung_SF-A016_Optikhalter.pdf",
+    "pages": 1,
+    "sha256": "b8799c9102b841723c654e4614a65ab9ac7323587609cac3b4966e8b8f013139"
+  },
+  {
+    "file": "133_Gutschrift_SF-A017_Optikhalter.pdf",
+    "pages": 1,
+    "sha256": "e352ab49030c5250c7fcdd0b62fb681927050a2c06c4c2cb07582202251e8498"
+  },
+  {
+    "file": "134_Kartenzahlung_SF-A018_Optikhalter.pdf",
+    "pages": 1,
+    "sha256": "643f7150d4a1536e78db5e656406ce0f50ffa176753e791672a42bf194135478"
+  },
+  {
+    "file": "135_Teilzahlung_SF-A019_Sprachkontor.pdf",
+    "pages": 1,
+    "sha256": "c28573cef8f0b4ed6ab2d8e1bb3d136e873af6e4010422a3412e5068bae800d9"
+  },
+  {
+    "file": "136_Zahlung_SF-A020_Bueroservice.pdf",
+    "pages": 1,
+    "sha256": "18c588458e77acb284e8c0af63b39c163951450149be796cba5d7c7955724852"
+  },
+  {
+    "file": "137_Rechnung_SF-A021_Formularsatz.pdf",
+    "pages": 1,
+    "sha256": "b349e6c9431aa6d8678a4534a4bd511d30008e29174cf185d091d08736712160"
+  },
+  {
+    "file": "138_Rechnung_SF-A022_Kurier.pdf",
+    "pages": 1,
+    "sha256": "01a3a2e0fdf7a85ab82c7affec36fa6773d4db93594dd47b5909d9c3f3eeced9"
+  },
+  {
+    "file": "139_Quittung_SF-A023_Kurier.pdf",
+    "pages": 1,
+    "sha256": "ac36834a6df222efb8e5cd406f8f80bfd81b04d59678fcbddf5a211684e7a3e9"
+  }
+]

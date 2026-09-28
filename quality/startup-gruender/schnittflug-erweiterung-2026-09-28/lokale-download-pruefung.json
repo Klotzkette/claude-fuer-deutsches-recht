@@ -1,0 +1,22 @@
+{
+  "scope": "Gezielte Prüfung beider Schnittflug-Archive mit den unveränderten ZIP-Prüffunktionen, nicht des repoübergreifenden Sammelarchivs; native Dateien bytegleich.",
+  "results": [
+    {
+      "file": "testakte-startup-gruender-schnittflug-berlin.zip",
+      "entries": 135,
+      "sha256": "39e1143bfe38120c63b2513e4f574de19778b45ee110fd986d23db5263f9abc8",
+      "status": "bestanden"
+    },
+    {
+      "file": "testakte-startup-gruender-schnittflug-berlin-einzelpdfs.zip",
+      "entries": 134,
+      "sha256": "0877dd4fac264608f02d653e68ed44e916d51de82cad8a0f1115ac35d194b573",
+      "status": "bestanden"
+    },
+    {
+      "file": "startup-gruender-schnittflug-berlin_gesamt.pdf",
+      "pages": 260,
+      "sha256": "b7216685ff106d8491a61fa7057f0761ca38c6abbb7f84e5f1c6e9f33a687caa"
+    }
+  ]
+}

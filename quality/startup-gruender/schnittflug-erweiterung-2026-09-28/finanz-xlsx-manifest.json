@@ -1,0 +1,25 @@
+{
+  "revision": "Ottilie Kühnle, 28.09.2026, 14:20 Uhr; Nachreichung vor der abendlichen Gründerbesprechung",
+  "workbooks": [
+    {
+      "file": "140_Nachgereichte_Auslagen_20260928.xlsx",
+      "sheets": [
+        "Abgleich",
+        "Kosten",
+        "Zahlungen"
+      ],
+      "sha256": "c1524c1b532267b66fc7f8a7b8a0aa263456500f5c871bc70a8fc22732273ed1",
+      "formula_scan": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}"
+    },
+    {
+      "file": "141_Finanzierungsbedingungen_und_Faelligkeiten.xlsx",
+      "sheets": [
+        "Finanzierung",
+        "Fälligkeiten",
+        "Mittelverwendung"
+      ],
+      "sha256": "3ba7f60a54518514f2dbd3a633b01238f0cc6648b63db42826b4f6620ae58d08",
+      "formula_scan": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}"
+    }
+  ]
+}

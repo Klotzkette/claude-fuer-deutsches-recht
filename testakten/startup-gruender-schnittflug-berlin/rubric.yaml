@@ -12,4 +12,4 @@ checks:
 - id: r03-native-arbeitsunterlagen
   check_type: working_file_count
   description: Vollständiger nativer Aktenbestand
-  min: 68
+  min: 133

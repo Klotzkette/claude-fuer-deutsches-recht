@@ -44,8 +44,13 @@ class Startup(unittest.TestCase):
         self.assertEqual(validate_files(PLUGIN,'startup-gruender',ROOT),[])
 
     def test_original_inventory_and_real_attachments(self):
-        originals=[p for p in CASE.iterdir() if p.suffix.lower() in {'.eml','.docx','.xlsx','.pdf','.png','.txt'}]
+        # Der archivierte Morgenstand bleibt eine eigene, unveränderte Teilakte.
+        # Das Gesamtinventar einschließlich Nachreichungen prüft das Ergänzungsskript.
+        baseline=json.loads((ROOT/'scripts/data/startup-gruender/morgenstand-originale.json').read_text(encoding='utf-8'))
+        originals=[CASE/row['file'] for row in baseline['files']]
         self.assertEqual(len(originals),68)
+        self.assertEqual(len({p.name for p in originals}),68)
+        self.assertTrue(all(p.is_file() for p in originals))
         self.assertEqual(sum(p.suffix=='.eml' for p in originals),24)
         attachments=[]
         for p in originals:

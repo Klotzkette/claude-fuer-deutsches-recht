@@ -1,3 +1,17 @@
+# v445.14.2 - Schnittflug Berlin mit vertiefter Gründungsakte
+
+## 1. Nachreichungen und Verhandlungsstände
+
+Die Testakte des Startup-Gründers wächst von 68 auf 133 native Arbeitsdateien. Zwölf neue Word-Dokumente vertiefen Mehrheitsklauseln, Geschäftsführerstellung, Vesting, unterschiedliche deutsche und englische Gegenfassungen, Darlehen, Seed-Bedingungen und Bezugsrechte. Weitere Unterlagen belegen den Entwicklungsauftrag als noch nicht angenommenes Angebot, den Werkstattvorfall, das unverbindliche Saloninteresse sowie offene Nutzungsrechte, Datenbestände und Mittelherkunft. Die 68 bisherigen Originale bleiben unverändert als frühere Arbeitsstände erhalten.
+
+## 2. Zahlen und zusammengehörende Belege
+
+Zwei zusätzliche Excel-Mappen und zehn neue PDF-Belege verbinden Rechnungen, Teilzahlungen und Gutschriften mit dem bisherigen Auslagenstand. Neue Threads, Chat-Exporte, Bildschirmansichten und CSV-Verzeichnisse halten den Tagesablauf bis zur abendlichen Gründerbesprechung fest. Spätere Kapitalrunden, Einlagen und Verträge bleiben als unvollzogene Planung erkennbar. Das Plugin behält seine 18 Skills.
+
+## 3. Prüfung und Downloads
+
+Prüfungen sichern Originalhashes, vollständiges Dateiinventar, eingebettete Mailanhänge, zeitliche Bezüge und die Abstimmung der finanziellen Nachreichungen. Neue Word-Unterlagen, Tabellen und Belege wurden gerendert und visuell geprüft; die Tabellen wurden zusätzlich mit veränderten Eingaben in LibreOffice neu berechnet. Gesamt-PDF, Original-ZIP und Einzel-PDF-ZIP werden aus demselben erweiterten Bestand gebaut.
+
 # v445.14.1 - Präsentationspaket mit vollständiger Schlussprüfung
 
 ## 1. Juristische Präsentationen

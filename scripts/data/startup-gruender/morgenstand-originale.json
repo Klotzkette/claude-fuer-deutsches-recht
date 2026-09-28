@@ -1,0 +1,278 @@
+{
+  "baseline_commit": "9f6326579760fe7fa1e92e9fd4a46e021945104f",
+  "purpose": "Unveränderte frühere Arbeitsstände; Nachreichungen werden als eigene Originaldateien ergänzt.",
+  "files": [
+    {
+      "file": "01_20260817_Erste_Quoten.eml",
+      "sha256": "902fcc61acb1fa9978f4f2e01c4e3b6aec95a7759c9dbd77495b9a9c635568d4"
+    },
+    {
+      "file": "02_20260818_Designarbeit.eml",
+      "sha256": "c0dd26e37ad5c25e615976095a5cf5c8f6b8c774681d6054ee65c8ee0cc99105"
+    },
+    {
+      "file": "03_20260821_Kostenablage.eml",
+      "sha256": "506a0faba9c4ea724307015ab42e26794b3aeb1c2e37393732fc4263fa65c9f9"
+    },
+    {
+      "file": "04_20260828_Produktnotiz.eml",
+      "sha256": "33bcd5c28fcb526c972984183e413761ca591e19f88ffb79206b6633fa6be8ce"
+    },
+    {
+      "file": "05_20260902_Hochschulprojekt.eml",
+      "sha256": "6598a9d43fdef16ad6afa5bcb4f5a9ca800e220ea5c4f1c3ee26f3c68388fcd1"
+    },
+    {
+      "file": "06_20260905_Werkraum.eml",
+      "sha256": "3c0e63acbe064687b5be31f4a5d443428b2b8402c33ec669e5130fdf52c1a57e"
+    },
+    {
+      "file": "07_20260907_Aufenthalt_und_Mittel.eml",
+      "sha256": "f36da4f47ebcb21ad74ea2167aabb781b1e1be18fa2b7b29064bda079ff8469e"
+    },
+    {
+      "file": "08_20260910_Neue_Quoten.eml",
+      "sha256": "866a7e92928f6f1a6696171850917ad0d907eee97c4a4118ca7169f407c0bf22"
+    },
+    {
+      "file": "09_20260911_Musterprotokoll.eml",
+      "sha256": "36b8fa48bea40c2dba24aa51e38ae8f8526a6a4872fa5e5ecccdf84c655e4d4e"
+    },
+    {
+      "file": "10_20260913_Krankheit.eml",
+      "sha256": "74dcfa7da1e8c0f516c59afae9e5de01316e6a56c7e05b91451b899f37977774"
+    },
+    {
+      "file": "11_20260914_Anwaltsauftrag.eml",
+      "sha256": "85529044983abfa38a07eff82b9dc3600d833d1aa91fb140fe4a0241dbc9fe3f"
+    },
+    {
+      "file": "12_20260916_Kontoanfrage.eml",
+      "sha256": "6841310f28e26211865cb7bff993e9269512fcfd86e977d5349509f1b7b93988"
+    },
+    {
+      "file": "13_20260918_KYC_Antwort.eml",
+      "sha256": "c580fd6efb063e9ac300221d37d070377f110b3b553b2d594f08557ec39a228c"
+    },
+    {
+      "file": "14_20260919_Entwicklungsauftrag.eml",
+      "sha256": "310f49b7b2f250b23b2a51e6a9e8c8ad574eb00ed23e7c7068c93c36dd3acc5b"
+    },
+    {
+      "file": "15_20260921_Seed_Eckpunkte.eml",
+      "sha256": "e35ada64954ab03a5c9c8d3a91d880ed735475b28ce03c6c452fec459c157292"
+    },
+    {
+      "file": "16_20260921_Beirat.eml",
+      "sha256": "3befaad59530757b6524aac62599b679f181f498612f0c5b63f4352fa15d8d92"
+    },
+    {
+      "file": "17_20260922_Handwerk_Versicherung.eml",
+      "sha256": "86d78607b3b39f4827e43014b59ea50fcf3a6569ac18533809db02362d6bcbb1"
+    },
+    {
+      "file": "18_20260923_IP_Unterlagen.eml",
+      "sha256": "2eaf9c20a14a82a8e8f3be6c38d3d4c3019469eb8e9f8783a022a9e9a8dcda9f"
+    },
+    {
+      "file": "19_20260924_Spaetere_Runden.eml",
+      "sha256": "92c61e577e6daad1c2773b1bdbffb8082f4c30b70fa6d2f6905005918bb4d830"
+    },
+    {
+      "file": "20_20260924_Bezugsrecht.eml",
+      "sha256": "39be24d67534b1cbc5a5edd5f0212f183273171ee4d27a867880f685ed4b7f4f"
+    },
+    {
+      "file": "21_20260925_Ottilie_Status.eml",
+      "sha256": "4cb1c326df7e3a26963099be7ee2cfa316988d101232fc3133b8769556b84a2a"
+    },
+    {
+      "file": "22_20260926_Notartermin.eml",
+      "sha256": "190640dc46a02cc19b3db8629bf1c8867c82aef743f4dedb532ff4294c4eabce"
+    },
+    {
+      "file": "23_20260927_Englisch_und_Zusatzblatt.eml",
+      "sha256": "2f99b1c44ddeda34eb4c9d55707a58224353c5cd16b4738abdb05775bdd002e7"
+    },
+    {
+      "file": "24_20260928_Entwurfsauftrag.eml",
+      "sha256": "800094767569df13e1419a03b273c32999f223eaa033e8f41296d288c03f7d83"
+    },
+    {
+      "file": "25_Chat_Gruendung_20260912.txt",
+      "sha256": "443bcde1cd19cd327b73f33029e895da045f862295daed3f3ecabd47f002d77e"
+    },
+    {
+      "file": "26_Chat_Produkt_20260922.txt",
+      "sha256": "34bf1b9f7ba117a2dacf6a49469df147eae9959cda7de28179e7254844514511"
+    },
+    {
+      "file": "27_Chat_Finanzierung_20260924.txt",
+      "sha256": "44ed7aa4d6fdd3831b66a53ea877537e12a1574a39575912268056d27e29c658"
+    },
+    {
+      "file": "28_Projektboard_Stand_20260928.png",
+      "sha256": "d6a9f3e8d1ba523b3094197474cc67a2282602cd12078b1a07855450202c57a3"
+    },
+    {
+      "file": "29_Chat_Ausschnitt_Budget_20260921.png",
+      "sha256": "11fa409353e1294715738e3cc237fdb66f9ec2298e88a307d58d107130c4511f"
+    },
+    {
+      "file": "30_Satzung_Arbeitsentwurf_20260925.docx",
+      "sha256": "8a8e494ae0f3272bbd650287bcebb52a3bb1c678adb3c7e2060359e9c1de6fb3"
+    },
+    {
+      "file": "31_Gesellschaftervereinbarung_DE_20260926.docx",
+      "sha256": "add50813bdd113990e8d911786233c236970a2d8bdf94c10bab027d44d5efc82"
+    },
+    {
+      "file": "32_Shareholders_Agreement_EN_20260926.docx",
+      "sha256": "42d752cdd68768049359ee6c85d84673e579d8eb946e58d2ee3731981561bc6b"
+    },
+    {
+      "file": "33_Geschaeftsfuehrerordnung_Entwurf.docx",
+      "sha256": "16a8a904148012f3a39db45c1b64e2f5267491a6496c1c5f6db02274be8ebf91"
+    },
+    {
+      "file": "34_Dienstvertrag_Ottilie_Entwurf.docx",
+      "sha256": "f167fbf02da5435269c84348f79f19b632b358fb8aa5763cc7f3c1c30d26c0ba"
+    },
+    {
+      "file": "35_Geschaeftsfuehrerbestellung_Entwurf.docx",
+      "sha256": "a56f999d51ba4000dc8ff3b1812582c52eb153b665fc90e3a4c74455c5e797f0"
+    },
+    {
+      "file": "36_Beiratsordnung_Beratungsmodell.docx",
+      "sha256": "d39dfb24f400daef293b48e75b02e0c9aed3752e123d2c9613595a6e1b9f399e"
+    },
+    {
+      "file": "37_IP_Nutzungsrechte_Kunigunde_Entwurf.docx",
+      "sha256": "5697c8493ba58017f55eaeb8b81149a41d32933b4ebec59bb05d1b506a3d2207"
+    },
+    {
+      "file": "38_Vorgruendervereinbarung_Entwurf.docx",
+      "sha256": "e674db6af3f49ccfeba4663c0d4a7d4a7110dbadd4c5ccaa0ac7c3e6bb321f7f"
+    },
+    {
+      "file": "39_Serie_B_Verhandlungspapier_Kapitalerhoehung.docx",
+      "sha256": "dfd0e9524dc1e76d23733f1c21ab62273ee7c5a279d18f6afc36abab1f548a90"
+    },
+    {
+      "file": "50_CapTable_Gruendung_und_Finanzierungsoptionen.xlsx",
+      "sha256": "b54d2e1dcd280a9d14b2de662ad362dff22f1842e7e511dabb1415a99df67b68"
+    },
+    {
+      "file": "51_Auslagen_und_Liquiditaetsplanung.xlsx",
+      "sha256": "57bd8241521388309fea9bb56bad9b802bd272ea10e4f2ecb2d2180c9655cf21"
+    },
+    {
+      "file": "52_Mehrheiten_und_Bezugsrechte.xlsx",
+      "sha256": "bed82af2120c63a9031819698d79bcb99cb80a7a1037a8b68dcdb94aff0fae67"
+    },
+    {
+      "file": "60_01_Rechnung_SF-A001.pdf",
+      "sha256": "4f1e22714d9f34bdf2a55820a5c459abc2c5d213a887e35390a3979d17a0e19b"
+    },
+    {
+      "file": "60_02_Rechnung_SF-A002.pdf",
+      "sha256": "07b2d12ea8d5a97a69a9727ceac4ad5b0784ec99206fffcc04b39964f75f1c4f"
+    },
+    {
+      "file": "60_03_Rechnung_SF-A003.pdf",
+      "sha256": "4ab32728865c4bbefc626ad725b3c3d5e025486d4434980aa2cf8e2ef5d84cb8"
+    },
+    {
+      "file": "60_04_Rechnung_SF-A004.pdf",
+      "sha256": "115dae094aa348cd230b4906fb5664f10c98186c533f223f966b2b52f10c6971"
+    },
+    {
+      "file": "60_05_Rechnung_SF-A005.pdf",
+      "sha256": "5d991cdec103fd0e8210ae3b8dbf0d01932572f84bc58193c5387b1ee84105c6"
+    },
+    {
+      "file": "60_06_Rechnung_SF-A006.pdf",
+      "sha256": "c978f1206ff1a7f5c71548609fd9df0bbad7d766acc5def40b09cb52e06752c7"
+    },
+    {
+      "file": "60_07_Rechnung_SF-A007.pdf",
+      "sha256": "17820444233c87b61eac92b32f55ecdc51a4d37b37905a9ed60fc738b7806e22"
+    },
+    {
+      "file": "60_08_Rechnung_SF-A008.pdf",
+      "sha256": "09a436c72ba8f33b163d1821de8fb9e44e542e60fb24b8c1f87e5fb93991bc5e"
+    },
+    {
+      "file": "60_09_Rechnung_SF-A009.pdf",
+      "sha256": "1e22338e7829488aa6617fb82cf9a8e9898e7ba1c0cc38c468a5460331d0ff87"
+    },
+    {
+      "file": "60_10_Rechnung_SF-A010.pdf",
+      "sha256": "2e1e5d30a256371dc2dc82a6f10bfedd0578712387a681808233d875ed22970f"
+    },
+    {
+      "file": "60_11_Rechnung_SF-A012.pdf",
+      "sha256": "a3aad3526655b265c4114bc952d89a24ef9e956f2d90273ec2165e0b1830ccf2"
+    },
+    {
+      "file": "60_12_Rechnung_SF-A013.pdf",
+      "sha256": "103feb5e9b0a7fc423fc8ae4c35e370c8c8a2ed3ba92b9b78f1fd9f1aa5a382c"
+    },
+    {
+      "file": "61_01_Gutschrift_SF-A011.pdf",
+      "sha256": "7b2a744bdddc9dca4a08c3d73bb9292ff1913e3a249f9f4a9c41ad063dfbc5eb"
+    },
+    {
+      "file": "70_Kontoanfrage_Status_20260928.png",
+      "sha256": "d44a7ffd9f2915f5f10135b227020caf7b1d7241f7273d0113627047ef86c022"
+    },
+    {
+      "file": "71_Produktboard_20260922.png",
+      "sha256": "a963a8d3a1ba85f6da14abd9f3184433ef03bd3a0eca414b10638a3d199ea40e"
+    },
+    {
+      "file": "72_Produktnotiz_Drohnenfriseur_20260828.docx",
+      "sha256": "939cb2a60db9cbdedaaa296bc0625d6ff2e29e97cb5b0132cb9ce70956321b0b"
+    },
+    {
+      "file": "73_Sieben_Gruender_Antworten_20260910.docx",
+      "sha256": "1802ed46abda299b756cabba2ec3ba55286a513ebe5e1d65aca64188261d6888"
+    },
+    {
+      "file": "74_Gruenderabend_Notizen_20260912.docx",
+      "sha256": "17a38a8bc66bcd0740761af275cd4a0555aefca259645ac8aa03be2464efb321"
+    },
+    {
+      "file": "75_Bank_KYC_Unterlagenliste_20260918.docx",
+      "sha256": "afc93d1d1c2cb877e56f6deadd821d31415f6ae13885a863b1fa0c2f78d8d264"
+    },
+    {
+      "file": "76_Werkraum_Nutzungsvertrag_Entwurf_20260905.docx",
+      "sha256": "4fa0f5ecda5187233e63c4268ffa458c2316b04a3f2705f79d571e966b68b94d"
+    },
+    {
+      "file": "77_Wolkenwickel_Seed_Termsheet_20260921.docx",
+      "sha256": "853e1c5f1cf67cca82d8ca87ad221512bd7f39d909f150130b5b38311c055a6b"
+    },
+    {
+      "file": "78_Spaetere_Runden_Verhandlungsnotiz_20260924.docx",
+      "sha256": "0c1df83e74e5cecea3a7212fe00db3381c1728ffaea48bd2ef17604695549d08"
+    },
+    {
+      "file": "79_Ottilie_Taetigkeit_Statusfragebogen_20260925.docx",
+      "sha256": "ba8a7658ceabb845f9f4830a1d828a6d5131a141b0befa3f5674cbb256a70f3f"
+    },
+    {
+      "file": "80_Software_und_Rechte_Herkunft_20260923.docx",
+      "sha256": "a0348c0a9196f95cb7d32d45bd3810d00771bbbca729cbe83ec9a6b9915b35b7"
+    },
+    {
+      "file": "81_Telefonnotiz_Handwerk_Versicherung_20260922.docx",
+      "sha256": "77aae2666a492a9fda7b7ba65eabed1c918ca5bbaebce96550aac7ec15e09271"
+    },
+    {
+      "file": "82_Notar_Datenaufnahme_20260928.docx",
+      "sha256": "9bc88707abd5866905d7d8d155811f276345117cd82bc23c6470fb3ef60c14bb"
+    }
+  ]
+}

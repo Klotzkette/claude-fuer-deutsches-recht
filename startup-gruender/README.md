@@ -81,7 +81,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->
 
-**Version:** `445.14.1`
+**Version:** `445.14.2`
 
 Von den ersten Gründerangaben zu einer vollständigen Satzung und Gesellschaftervereinbarung: **18 Skills**, ein ausführlicher Werkstatt-Prompt und ein Mini-Prompt mit **exakt 7.500 Unicode-Zeichen einschließlich Leerzeichen und Zeilenumbrüchen**. Der Schwerpunkt liegt auf der Gründung; Seed, Serie A und Serie B werden erst bei einem konkreten Auftrag oder als klar bezeichnete Optionen bearbeitet.
 
@@ -142,7 +142,7 @@ Ottilie Kühnle, Eberhard Demir, Kunigunde Nguyen, Nepomuk Huber, Wilhelmine Oka
 
 [Zur vollständigen Aktenbeschreibung und den Downloads](../testakten/startup-gruender-schnittflug-berlin/README.md)
 
-Die 68 nativen Arbeitsdateien umfassen 21 bearbeitbare Word-Dokumente, drei Excel-Arbeitsmappen, 24 E-Mails mit vier echten eingebetteten Anhängen, drei Chat-Exporte, vier gestaltete Bildschirmabbildungen und 13 Rechnungs-/Korrektur-PDFs. Vertragsentwürfe sind Verhandlungsunterlagen der Beteiligten, keine versteckte Musterlösung. Die drei Finanzierungsrunden sind datierte Rechen- und Verhandlungsoptionen.
+Die **133 nativen Arbeitsdateien** umfassen 42 bearbeitbare Word-Dokumente, fünf Excel-Arbeitsmappen mit 16 Blättern, 48 E-Mails, sechs Chat-Exporte, sieben gestaltete Bildschirmabbildungen, 23 Rechnungs-, Korrektur- und Zahlungs-PDFs sowie zwei CSV-Verzeichnisse. 20 Mails enthalten zusammen 31 echte Anhänge. Die Erweiterung erhält alle 68 früheren Originale und ergänzt nachvollziehbare Nachreichungen, Vertragsgegenfassungen, Rechtefragen und Zahlungsabgleiche. Vertragsentwürfe sind Verhandlungsunterlagen der Beteiligten. Die drei Finanzierungsrunden bleiben datierte Rechen- und Verhandlungsoptionen.
 
 <!-- decimal-anchor --> <a id="quellen-und-prüfgrenzen"></a>
 
