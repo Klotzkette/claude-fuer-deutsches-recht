@@ -102,15 +102,17 @@ Die unabhängigen [Dialogproben](../docs/arbeitszeugnis-dialogpruefung.md) dokum
 
 ## Rechtlicher Anker
 
-- § 109 GewO zu Inhalt, Klarheit und Form des Arbeitszeugnisses
-- § 16 BBiG für Ausbildungszeugnisse
+- Paragraf 109 GewO zu Inhalt, Klarheit und Form des Arbeitszeugnisses
+- Paragraf 16 BBiG für Ausbildungszeugnisse
 - BAG, Urteil vom 18. November 2014 – 9 AZR 584/13 zur überdurchschnittlichen Gesamtbewertung
 - BAG, Urteil vom 15. November 2011 – 9 AZR 386/10 zur kontextbezogenen Zeugnisklarheit
 - BAG, Urteil vom 11. Dezember 2012 – 9 AZR 227/11 und Urteil vom 25. Januar 2022 – 9 AZR 146/21 zur Schlussformel
+- [BAG, Teilurteil vom 18. Juni 2025, 2 AZR 96/24 (B)](https://www.bundesarbeitsgericht.de/wp-content/uploads/2025/09/2-AZR-96-24--B.pdf): kein wirksamer Vorausverzicht auf das künftige qualifizierte Zeugnis vor Ende des Arbeitsverhältnisses; spätere Vereinbarungen getrennt prüfen.
+- [BAG, Beschluss vom 7. Mai 2026, 8 AZB 25/25](https://www.bundesarbeitsgericht.de/entscheidung/8-azb-25-25/): ein vereinbartes Entwurfsrecht kann vollstreckbar sein. Nachvollziehbare Einwendungen gegen Wahrheit oder Klarheit können trotzdem ein neues Erkenntnisverfahren erforderlich machen.
 
 ## KI-Verordnung: mögliche Einstufung als Hochrisiko-KI
 
-Wird dieses Plugin im Personalwesen produktiv eingesetzt, kann es ein Hochrisiko-KI-System nach Artikel 6 Absatz 2 in Verbindung mit Anhang III Nummer 4 Buchstabe b der Verordnung (EU) 2024/1689 (KI-Verordnung) sein. Anhang III Nummer 4 Buchstabe b erfasst KI-Systeme, die bestimmungsgemäß für Entscheidungen über die Bedingungen von Arbeitsverhältnissen, für die Bewertung der Arbeitsleistung und des Arbeitsverhaltens oder für vergleichbare Personalentscheidungen verwendet werden. Eine automatisierte Prüfung eines Arbeitszeugnisses, etwa zur Bewertung der Notenstufe oder zur Steuerung von Berichtigungsansprüchen, betrifft genau diese Bewertungs- und Bedingungsdimension. Anhang III Nummer 4 Buchstabe a erfasst dagegen die Personalauswahl und Bewerbungsphase und greift hier in der Regel nicht.
+Die rechtliche Prüfung eines vorgelegten Zeugnisses für einen Arbeitnehmer ist nicht allein wegen ihres Personalbezugs ein Hochrisikofall. Maßgeblich sind das konkrete System, seine Zweckbestimmung und seine Einbindung in Entscheidungen. Wird es für die Bewertung von Beschäftigten oder Entscheidungen über Arbeitsbedingungen eingesetzt, ist Anhang III Nummer 4 Buchstabe b zu prüfen; bei Bewerberauswahl kommt Buchstabe a in Betracht. Die Ausnahmen des Artikels 6 Absatz 3 und deren Grenzen sind gesondert zu prüfen. Eine menschliche Schlussfreigabe befreit nicht automatisch. Der [Hochrisiko-Prüfer](../ki-verordnung-hochrisiko-pruefer/README.md) führt diese Einordnung anhand der tatsächlichen Nutzung durch.
 
 Folgen einer Einstufung als Hochrisiko-KI können sein: Pflicht zu menschlicher Aufsicht, Dokumentations- und Transparenzpflichten, Risikomanagement, Information der Beschäftigten beziehungsweise des Betriebsrats und gegebenenfalls eine Grundrechte-Folgenabschätzung. Die genaue Reichweite hängt vom Einsatzkontext, von der Rolle als Anbieter oder Betreiber und vom Geltungsbeginn nach Artikel 113 KI-VO ab. Diese Hinweise sind keine Rechtsberatung; im Zweifel ist eine arbeitsrechtliche und KI-rechtliche Bewertung im Einzelfall geboten.
 

@@ -7,9 +7,11 @@ description: "Prüft gezielt, ob die zusammenfassende Leistungsbewertung eines A
 
 ## 1. Einordnung
 
+Prüfe bei einer stark negativen Fassung zwei getrennte Wege: Ist eine schlechte Leistung tatsächlich bewertet, oder fehlt die geschuldete Beurteilung ganz? Paragraf 109 Absatz 1 Satz 3 und Absatz 2 GewO sowie BAG, Urteil vom 27. April 2021, 9 AZR 262/20, Rn. 10 bis 20 ([Volltext](https://www.bundesarbeitsgericht.de/entscheidung/9-azr-262-20/)), tragen die Prüfung des individuellen Zeugnisinhalts. Die Entscheidung liefert keine feste Übersetzung jedes abschwächenden Satzes in „mangelhaft“.
+
 Identifiziere die zusammenfassende Leistungsbeurteilung. Prüfe bei stark einschränkenden oder ausdrücklich negativen Aussagen, ob sie die Gesamtleistung oder nur einen einzelnen, sachlich begründeten Aspekt betreffen. Mehrere Abschwächungen können eine schlechte Gesamtwirkung erzeugen; eine feste Note folgt daraus erst nach Würdigung des vollständigen Leistungsabschnitts.
 
-Das Fehlen einer Leistungsbeurteilung in einem qualifizierten Zeugnis ist vorrangig ein Erfüllungsmangel nach § 109 Abs. 1 Satz 3 GewO. Es darf nicht ohne Weiteres als „Note 6 durch Auslassung“ umgedeutet werden. Ironisch überzogenes Lob ist nach Wortlaut, Zusammenhang und objektiver Wirkung als möglicher Klarheitsmangel zu prüfen, nicht nach der Zahl der Superlative.
+Das Fehlen einer Leistungsbeurteilung in einem qualifizierten Zeugnis ist vorrangig ein Erfüllungsmangel nach Paragraf 109 Abs. 1 Satz 3 GewO. Es darf nicht ohne Weiteres als „Note 6 durch Auslassung“ umgedeutet werden. Ironisch überzogenes Lob ist nach Wortlaut, Zusammenhang und objektiver Wirkung als möglicher Klarheitsmangel zu prüfen, nicht nach der Zahl der Superlative.
 
 ## 2. Ergebnis und Fortführung
 

@@ -7,6 +7,8 @@ description: "Identifiziert und bewertet die zusammenfassende Leistungsformel ei
 
 ## 1. Identifikation und Einordnung
 
+Wende Paragraf 109 Absatz 1 Satz 3 GewO und BAG, Urteil vom 18. November 2014, 9 AZR 584/13, Rn. 10 bis 13 ([Volltext](https://www.bundesarbeitsgericht.de/entscheidung/9-azr-584-13/)), auf den konkreten Schlusssatz der Leistungsbewertung an. Die Formel ist keine rechnerische Durchschnittsnote der Einzelsätze. Erfrage bei einem Widerspruch, welche Kernaufgabe das Berufsbild prägt und welcher Zeitraum beurteilt wird.
+
 Bestimme den Satz, der die Arbeitsleistung insgesamt zusammenfasst, und trenne ihn von Einzelbewertungen, Verhaltensbeurteilung und Schlussformel. Gebräuchliche Fassungen wie „stets zu unserer vollsten Zufriedenheit“, „stets zu unserer vollen Zufriedenheit“ und „zu unserer vollen Zufriedenheit“ sind wichtige Hinweise auf sehr gute, gute oder durchschnittliche Leistung. Sie sind keine abschließende gesetzliche Tabelle; auch abweichende klare Formulierungen sind im Gesamtzusammenhang auszulegen.
 
 Vergleiche die zusammenfassende Aussage mit den wesentlichen Leistungsdetails. Eine Abweichung ist nur dann erheblich, wenn die Aussagen objektiv nicht zusammenpassen oder gesicherte Leistungstatsachen eine andere Bewertung tragen. Mehrere positive Einzelsätze ergeben nicht automatisch eine bessere Gesamtbewertung. Die Schlussformel darf die Leistungsnote weder erhöhen noch absenken.

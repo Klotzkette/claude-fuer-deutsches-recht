@@ -9,6 +9,8 @@ Als zur Prüfung hochgeladene einzelne Anweisungsdatei oder kopierter Prompt beg
 
 ## 1. Standardauftrag und Rolle
 
+Prüfe das vorgelegte Arbeitszeugnis an Paragraf 109 GewO: richtige Tätigkeit und Beschäftigungsdauer, leistungsgerechte Beurteilung sowie klare, nicht verdeckt abwertende Aussagen. Das praktische Ziel ist die belastbare Entscheidung, welche Änderung verlangt werden kann und wie sie formuliert wird, nicht das Entschlüsseln einer vermeintlich festen Geheimsprache.
+
 Lies zuerst Zeugnis, Vergleichszeugnisse, Tätigkeitsbeschreibungen, Beurteilungen, Leistungsbelege, Zusagen, Korrespondenz und vorhandene Titel. Leite daraus Rolle, Zeugnisart, Prüfungsumfang, Verfahrensstand und erkennbare Fristen ab. Fehlt ein klarer gegenteiliger Hinweis, arbeite aus Sicht der beurteilten Arbeitnehmerin oder des beurteilten Arbeitnehmers.
 
 Ein allgemeiner Arbeitnehmer-Prüfauftrag ist vollständig und endet mit:
@@ -48,6 +50,19 @@ Nach jeder tatsächlichen Antwort erkläre knapp, welche Bewertung oder Formulie
 
 ## 3. Prüfungsfolge
 
+Bearbeite nicht sämtliche sprachlichen Detailprüfungen nacheinander. Wähle nach dem konkreten Streitpunkt:
+
+| Streitpunkt | Zuerst bearbeiten | Nur bei zusätzlichem Bedarf |
+| --- | --- | --- |
+| Tätigkeit fehlt oder wird verkleinert | `taetigkeitsabschnitt-wertigkeit-pruefen` | `auslassungen-erkennen` für eine behauptete Branchenübung |
+| Note offen | `notenstufen-bag-9-azr-386-10` | `beweislast-bag-9-azr-584-13` bei verlangter Aufwertung |
+| Bestimmte Zielnote beauftragt | Genau den passenden Skill `note-1-formeln-erkennen` bis `note-5-formeln-erkennen` | Keine fünf parallelen Notenprüfungen |
+| Auffällige Wendung | `zeugnisklarheit-objektiver-empfaengerhorizont` | Nur die passende Vertiefung zu Verneinung, Häufigkeit oder Geheimzeichen |
+| Schlussformel fehlt oder wurde entfernt | `schlussformel-pruefen` | Frühere Fassung und Korrespondenz für eine mögliche Maßregelung |
+| Zeugnisvergleich soll durchgesetzt werden | `klagestrategie-und-vollstreckung` | Titelprüfung vor erneuter inhaltlicher Vollprüfung |
+
+Der historisch beibehaltene Slug mit 9 AZR 386/10 bezeichnet keine vom BAG festgelegte Notentabelle. Für die Zufriedenheitsskala und Darlegungslast ist 9 AZR 584/13 einschlägig; 9 AZR 386/10 betrifft die kontextbezogene Klarheit.
+
 ### 3.1. Grundlagen und Form
 
 Prüfe Stammdaten, Zeugnisart, tatsächliche Beschäftigung, Ausstellungsform, Unterschrift und gegebenenfalls Vergleich oder Titel. Elektronische Form verlangt Einwilligung nach Paragraf 109 Absatz 3 GewO und eine qualifizierte elektronische Signatur nach Paragraf 126a BGB; ein eingescanntes Unterschriftsbild ersetzt sie nicht. Aus einem Ausdruck allein folgt aber nicht sicher, dass die Originaldatei keine qualifizierte Signatur trägt.
@@ -71,6 +86,8 @@ Prüfe Beendigungsgrund, Datum und Schlussformel getrennt von der Leistungsnote.
 Wurde eine bereits erteilte Schlussformel nach berechtigter Beanstandung entfernt, prüfe Paragraf 612a BGB. Die Rechtsausübung muss nach BAG, Versäumnisurteil vom 6. Juni 2023 – 9 AZR 272/22, Rn. 17 bis 23 und 32, [amtlicher Volltext](https://www.bundesarbeitsgericht.de/entscheidung/9-azr-272-22/), das wesentliche Motiv sein; zeitliche Nähe allein genügt nicht.
 
 ## 4. Streitstellen und Gegenposition
+
+Liegt ein gerichtlicher Vergleich vor, unterscheide eine bloße Notenzusage von einem Entwurfsrecht mit Abweichung nur aus wichtigem Grund. Zur zweiten Variante siehe BAG, Beschluss vom 7. Mai 2026, 8 AZB 25/25 ([Volltext](https://www.bundesarbeitsgericht.de/entscheidung/8-azb-25-25/)); der dafür vorgesehene Verfahrensskill prüft Bestimmtheit, Einwendungen und den richtigen weiteren Weg. Übertrage das Ergebnis nicht ohne Vergleich auf die freie Formulierung des Arbeitgebers.
 
 Ordne jeden erheblichen Punkt als objektiven Tatsachenfehler, rechtlich begründeten Mangel, beweisabhängige Bewertungsfrage, bloßen Verhandlungswunsch oder ohne Änderungsbedarf ein. Nenne Originalwortlaut und Fundstelle, Wirkung, Beleglage, Rechtsregel mit Reichweitengrenze, genaue Ersatzfassung, stärkste plausible Gegenposition und verbleibendes Risiko. Erhalte gelungene Passagen.
 

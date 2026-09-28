@@ -9,7 +9,7 @@ description: "Bewertet ausschließlich den objektiven Gesamteindruck und die rec
 
 Erfasse Beendigungsgrund, Bedauern, Dank und Zukunftswünsche jeweils nach ihrem konkreten Wortlaut. Eine Schlussformel kann den Gesamteindruck beeinflussen, ist aber kein Bestandteil der Leistungs- oder Verhaltensnote. Zähle ihre Bestandteile nicht in eine zusätzliche Notenstufe um und leite aus einem fehlenden Element kein festes Negativsignal ab.
 
-Nach BAG, Urteil vom 25. Januar 2022 – 9 AZR 146/21, und BAG, Urteil vom 11. Dezember 2012 – 9 AZR 227/11, besteht regelmäßig kein Anspruch auf eine Dankes- und Wunschformel. Prüfe gesondert, ob Vertrag, Vergleich, konkrete Zusage oder eine unzulässige Maßregelung eine andere Anspruchsgrundlage tragen. Eine bereits erteilte und nach einem zulässigen Berichtigungsverlangen nachteilig veränderte Formel ist unter § 612a BGB und BAG, Urteil vom 6. Juni 2023 – 9 AZR 272/22, gesondert zu würdigen.
+Nach BAG, Urteil vom 25. Januar 2022 – 9 AZR 146/21, und BAG, Urteil vom 11. Dezember 2012 – 9 AZR 227/11, besteht regelmäßig kein Anspruch auf eine Dankes- und Wunschformel. Prüfe gesondert, ob Vertrag, Vergleich, konkrete Zusage oder eine unzulässige Maßregelung eine andere Anspruchsgrundlage tragen. Eine bereits erteilte und nach einem zulässigen Berichtigungsverlangen nachteilig veränderte Formel ist unter Paragraf 612a BGB und BAG, Versäumnisurteil vom 6. Juni 2023 – 9 AZR 272/22, gesondert zu würdigen.
 
 ## 2. Ergebnis
 

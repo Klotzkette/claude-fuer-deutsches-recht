@@ -7,6 +7,8 @@ description: "Prüft Beendigungsdatum und Beendigungsformel eines Arbeitszeugnis
 
 ## 1. Rechtliche und tatsächliche Einordnung
 
+Paragraf 109 Absatz 1 GewO verlangt Art und Dauer der Tätigkeit, nicht allgemein die Angabe der Trennungsursache. BAG, Urteil vom 25. Januar 2022, 9 AZR 146/21 ([Volltext](https://www.bundesarbeitsgericht.de/entscheidung/9-azr-146-21/)), betrifft dagegen die freiwillige Schlussformel; verwende diese Entscheidung nicht als Beleg dafür, dass ein vereinbarter Beendigungsgrund ignoriert werden dürfte. Vertrags- und Vergleichsinhalt bleiben eigenständig zu prüfen.
+
 Trenne Beendigungsdatum, Beendigungsgrund und Schlussformel. Der Grund für die Beendigung gehört nicht ohne Weiteres zum geschuldeten Zeugnisinhalt. Wird er aufgenommen, muss die Formulierung wahr sein und dem erklärten Wunsch, einer Zusage oder einem Vergleich entsprechen. Eine neutrale Datumsangabe ist für sich genommen weder ein Geheimcode noch der Beweis einer arbeitgeberseitigen oder außerordentlichen Kündigung.
 
 Vergleiche den Wortlaut mit Kündigung, Aufhebungsvertrag, Befristung, Vergleich und sonstigen gesicherten Angaben. Leite aus einem untermonatigen Ende oder einer knappen Formulierung keine bestimmte Trennungsursache ab. Dankes- und Wunschformulierungen bewertest du im gesonderten Schlussformel-Schritt.

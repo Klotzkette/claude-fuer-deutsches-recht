@@ -7,7 +7,7 @@ description: "Prüft bei einem vorhandenen deutschen Arbeitszeugnis Ausfertigung
 
 ## 1. Prüfungsmaßstab
 
-Stelle zunächst fest, ob eine Papierausfertigung oder ein elektronisches Zeugnis vorliegt. Bei elektronischer Erteilung sind die Einwilligung des Arbeitnehmers, § 109 Abs. 3 GewO und die Anforderungen des § 126a BGB getrennt zu prüfen. Ein eingescanntes Unterschriftsbild ist für sich genommen keine qualifizierte elektronische Signatur. Behaupte ohne technische Prüfung weder Echtheit noch Unechtheit.
+Stelle zunächst fest, ob eine Papierausfertigung oder ein elektronisches Zeugnis vorliegt. Bei elektronischer Erteilung sind die Einwilligung des Arbeitnehmers, Paragraf 109 Abs. 3 GewO und die Anforderungen des Paragraf 126a BGB getrennt zu prüfen. Ein eingescanntes Unterschriftsbild ist für sich genommen keine qualifizierte elektronische Signatur. Behaupte ohne technische Prüfung weder Echtheit noch Unechtheit.
 
 Prüfe sodann Geschäftspapier, Lesbarkeit, Seitenfolge, Beschädigungen, Ausstellungsort und -datum sowie Name, Funktion und Vertretungsbefugnis der unterzeichnenden Person. Maßgeblich ist, ob die Ausfertigung im konkreten Betrieb üblich und als Zeugnis des Arbeitgebers erkennbar ist. Ein abweichendes Datum oder eine ungewöhnliche Unterschrift ist nicht automatisch ein Mangel; kläre Bedeutung und Entstehungskontext. Eine tabellarische Leistungs- und Verhaltensbeurteilung erfüllt den Anspruch regelmäßig nicht (BAG, Urteil vom 27. April 2021 – 9 AZR 262/20).
 

@@ -159,11 +159,15 @@ Wurde eine bereits erteilte Schlussformel nach einer berechtigten Beanstandung n
 
 ### 4.7. Vergleich, Titel, Frist und Durchsetzung
 
+Ein behaupteter Verzicht beendet die Prüfung nicht. Stelle fest, wann und mit welchem Inhalt er erklärt wurde. BAG, Teilurteil vom 18. Juni 2025, 2 AZR 96/24 (B), Rn. 59 bis 61 ([amtlicher Volltext](https://www.bundesarbeitsgericht.de/wp-content/uploads/2025/09/2-AZR-96-24--B.pdf)), schließt einen wirksamen Verzicht auf das künftige qualifizierte Zeugnis vor Beendigung des Arbeitsverhältnisses aus. Spätere Vereinbarungen, Ausschlussfristen und Verwirkung bleiben eigenständige Fragen. Bei Auslandsbezug unterscheide zwingenden Arbeitnehmerschutz im anwendbaren Kollisionsrecht von Eingriffsnormen; das Urteil entscheidet einen Altvertrag nach dem EGBGB und rechtfertigt keine weltweite Anwendung des deutschen Zeugnisrechts.
+
 Lies bei einem Vergleich oder Titel den vollständigen Wortlaut und alle in Bezug genommenen Anlagen. Unterscheide materiellen Zeugnisanspruch, vertragliche Bindung, titulierten Inhalt und Vollstreckbarkeit. Behaupte keine bestimmte Vollstreckungsroute aus einem verkürzten Auszug.
 
 Verpflichtet ein Titel nur zur Erteilung eines Zeugnisses mit einer bestimmten Notenstufe, ohne den geschuldeten Inhalt hinreichend zu bestimmen, fehlt regelmäßig die vollstreckbare konkrete Leistungspflicht; BAG, Beschluss vom 14. Februar 2017 – Az. 9 AZB 49/16, Rn. 8 bis 11, [amtlicher Volltext](https://www.bundesarbeitsgericht.de/entscheidung/9-azb-49-16/). Verwechsle die materielle Zeugnisbewertung nicht mit der Bestimmtheit des Titels. Prüfe aber eine zusätzlich vereinbarte Entwurfsklausel, statt jede Vereinbarung ohne schon ausformuliertes Zeugnis pauschal für unvollstreckbar zu erklären.
 
 BAG, Beschluss vom 7. Mai 2026 – Az. 8 AZB 25/25, Rn. 12 bis 22, [amtlicher Volltext](https://www.bundesarbeitsgericht.de/entscheidung/8-azb-25-25/), unterscheidet hiervon die Verpflichtung, einen Arbeitnehmerentwurf zu übernehmen und nur aus wichtigem Grund abzuweichen. Eine solche Klausel kann vollstreckbaren Inhalt haben; der maßgebliche Entwurf muss sicher feststehen. Das ist keine Erfolgsgarantie: Wahrheit und Klarheit bleiben Grenzen. Nachvollziehbar vorgetragene Verstöße können die begehrte Zwangsgeldfestsetzung verhindern; ein weiterer Erkenntnisprozess kann erforderlich werden. Frage nach vollständigem Vergleich, maßgeblicher Entwurfsfassung, Übermittlung und den konkreten Arbeitgebergründen. Prüfe erst dann den zulässigen und beauftragten Verfahrensweg.
+
+Bei diesem Entwurfsrecht muss der Arbeitnehmerentwurf nicht bereits bei Vergleichsschluss vorgelegen haben. Die Behandlung nur teilweise begründeter Abweichungen bleibt in Rn. 22 ausdrücklich offen; behaupte keine gesicherte Teilvollstreckung.
 
 Prüfe erkennbare tarifliche oder vertragliche Ausschlussfristen, Verjährung und mögliche Verwirkung konkret. Verwende keine allgemeine Dreiwochenfrist für eine Zeugnisberichtigung. Ein gesetzter Antworttermin ist keine gesetzliche Ausschlussfrist.
 

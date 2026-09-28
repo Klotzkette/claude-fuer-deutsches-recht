@@ -9,6 +9,8 @@ description: "Prüft und entwirft auf ausdrücklichen Auftrag Klage, Vergleich o
 
 Bearbeite ein gerichtliches Vorgehen nur auf ausdrücklichen Auftrag. Klage, Vergleich und Vollstreckung sind unterschiedliche Wege. Bestimme anhand von Geltendmachung, Reaktion der Gegenseite, Verfahrensstand und Titel, welcher davon tatsächlich zu prüfen ist.
 
+Der materielle Zeugnisanspruch folgt bei Arbeitnehmern aus Paragraf 109 GewO. Ein bereits vorhandener Prozessvergleich ist dagegen zunächst nach seinem eigenen Verpflichtungsinhalt zu lesen. Frage bei unvollständigen Unterlagen nach Vergleichsprotokoll, einbezogenem Entwurf, späteren Fassungen und Zustellung; eine bloße Zusammenfassung des Vergleichs reicht nicht.
+
 ## 2. Erkenntnisverfahren
 
 Formuliere das Berichtigungsziel so bestimmt, dass Streitgegenstand und verlangte Zeugnisfassung erkennbar sind. Verknüpfe jeden Antragsteil mit konkretem Originalwortlaut, begehrter Fassung, tragender Tatsache und Beweisangebot. Prüfe Rechtsweg, Parteien, Zuständigkeit, Schlüssigkeit, Ausschlussfristen und die Darlegungs- und Beweislast für jeden Streitpunkt gesondert.
@@ -19,9 +21,15 @@ Für eine bessere Gesamtbewertung als befriedigend muss die Arbeitnehmerseite di
 
 Eine Vergleichsklausel muss die geschuldete Fassung oder das zulässige Bestimmungsverfahren klar erkennen lassen. Prüfe vor einem Entwurf, ob Wortlaut, Entwurfsrecht, zulässige Abweichungen, Frist, Form und Herausgabe früherer Fassungen geregelt werden sollen. Formuliere keine scheinbar genaue, tatsächlich unvollstreckbare Verpflichtung.
 
+Unterscheide zwei Vereinbarungen: Die bloße Zusage einer guten Bewertung bestimmt regelmäßig noch keinen vollstreckbaren Zeugniswortlaut; BAG, Beschluss vom 14. Februar 2017, 9 AZB 49/16, Rn. 8 bis 11 ([Volltext](https://www.bundesarbeitsgericht.de/entscheidung/9-azb-49-16/)). Ein Entwurfsrecht des Arbeitnehmers, von dem der Arbeitgeber nur aus wichtigem Grund abweichen darf, kann dagegen ausreichend bestimmt sein; BAG, Beschluss vom 7. Mai 2026, 8 AZB 25/25, Rn. 12 bis 20 ([Volltext](https://www.bundesarbeitsgericht.de/entscheidung/8-azb-25-25/)). Der Entwurf muss dafür nicht schon bei Vergleichsschluss existieren. Halte aber eindeutig fest, welche zuletzt übermittelte Fassung verlangt wird.
+
 ## 4. Vollstreckung
 
-Vergleiche den vollstreckbaren Inhalt des Titels mit der erteilten Fassung. Trenne die Frage der Titelerfüllung von einem neuen materiellen Streit über Wahrheit oder Klarheit. Entwirf einen Antrag nach § 888 ZPO nur, wenn eine hinreichend bestimmte, nicht vertretbare Handlung tituliert und noch nicht erfüllt ist.
+Vergleiche den vollstreckbaren Inhalt des Titels mit der erteilten Fassung. Trenne die Frage der Titelerfüllung von einem neuen materiellen Streit über Wahrheit oder Klarheit. Entwirf einen Antrag nach Paragraf 888 ZPO nur, wenn eine hinreichend bestimmte, nicht vertretbare Handlung tituliert und noch nicht erfüllt ist. Kontrolliere auch Titel, Klausel und Zustellung nach Paragrafen 794 Absatz 1 Nummer 1, 724 und 750 ZPO.
+
+Ein ausreichend bestimmter Titel bedeutet noch nicht, dass Zwangsgeld festzusetzen ist. Trägt der Arbeitgeber nachvollziehbar Tatsachen vor, die wesentliche Aussagen des verlangten Entwurfs als möglicherweise unwahr oder unklar erscheinen lassen, gehört die materielle Klärung in ein neues Erkenntnisverfahren; 8 AZB 25/25, Rn. 20 bis 22. Ein pauschales Unbehagen genügt nicht als nachvollziehbare Tatsachenschilderung. Die Entscheidung lässt offen, wie nur teilweise tragfähig begründete Abweichungen zu behandeln sind; stelle eine Teilvollstreckung deshalb nicht als gesichert dar.
+
+Für den Entwurf gegenüber dem Gericht stelle ausschließlich die tatsächlich abweichenden Passagen, die Vergleichsregelung und die jeweilige Begründung gegenüber. Beispiel: Alleinige Personalverantwortung wird beansprucht, das Organigramm zeigt aber einen zweiten Geschäftsführer. Kläre Aufgabenabgrenzung und Belege, statt über den Vollstreckungsantrag ungeprüft eine Alleinverantwortung zu erzwingen.
 
 Nach BAG, Beschluss vom 14. Februar 2017 – Az. 9 AZB 49/16, Rn. 8 bis 11, [amtlicher Volltext](https://www.bundesarbeitsgericht.de/entscheidung/9-azb-49-16/), genügt eine bloße Notenstufe nicht als konkrete Leistungspflicht. Davon zu unterscheiden ist BAG, Beschluss vom 7. Mai 2026 – Az. 8 AZB 25/25, Rn. 12 bis 22, [amtlicher Volltext](https://www.bundesarbeitsgericht.de/entscheidung/8-azb-25-25/): Ein Arbeitnehmerentwurf mit Abweichungsmöglichkeit nur aus wichtigem Grund kann vollstreckbaren Inhalt haben. Prüfe den vollständigen Vergleich, die eindeutig maßgebliche Entwurfsfassung und die konkreten Arbeitgebergründe. Wahrheit und Klarheit bleiben Grenzen; nachvollziehbare Einwendungen können Zwangsgeld verhindern und ein Erkenntnisverfahren erforderlich machen. Die Entwurfsklausel allein garantiert keinen Erfolg.
 

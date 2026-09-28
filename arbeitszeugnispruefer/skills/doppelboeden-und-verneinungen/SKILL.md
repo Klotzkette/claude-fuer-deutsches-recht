@@ -7,7 +7,9 @@ description: "Prüft sprachliche Verneinungen, Vorbehalte und Relativierungen im
 
 ## 1. Maßstab
 
-Suche nach doppelten Verneinungen, Vorbehalten und Relativierungen wie „nicht ohne“, „soweit beurteilbar“ oder „unter den gegebenen Umständen“. Entscheidend ist nicht ein behaupteter Geheimcode aus einer Liste, sondern welche Aussage ein verständiger Zeugnisleser im Zusammenhang mit Tätigkeit, Leistungsbeurteilung und Gesamttext entnimmt. § 109 Abs. 2 GewO verlangt Klarheit und verbietet Formulierungen, die dem Zweck nach eine andere als die aus Wortlaut oder äußerer Form ersichtliche Aussage treffen.
+Wende den kontextbezogenen Auslegungsmaßstab aus BAG, Urteil vom 15. November 2011, 9 AZR 386/10 ([Volltext](https://www.bundesarbeitsgericht.de/entscheidung/9-azr-386-10/)), an. Übertrage nicht dessen Ergebnis zur Wendung „kennen gelernt“ ungeprüft auf jede Verneinung. Die konkrete Nebenbedeutung muss sich aus dem vorgelegten Satz ergeben.
+
+Suche nach doppelten Verneinungen, Vorbehalten und Relativierungen wie „nicht ohne“, „soweit beurteilbar“ oder „unter den gegebenen Umständen“. Entscheidend ist nicht ein behaupteter Geheimcode aus einer Liste, sondern welche Aussage ein verständiger Zeugnisleser im Zusammenhang mit Tätigkeit, Leistungsbeurteilung und Gesamttext entnimmt. Paragraf 109 Abs. 2 GewO verlangt Klarheit und verbietet Formulierungen, die dem Zweck nach eine andere als die aus Wortlaut oder äußerer Form ersichtliche Aussage treffen.
 
 Eine ungewöhnliche Wendung ist nicht automatisch rechtswidrig. Prüfe, ob sie tatsächlich einschränkt, ob eine sachliche Erklärung besteht und ob die alternative Lesart hinreichend bestimmt ist. Schreibe der beurteilten Person keine negative Eigenschaft zu; beschreibe ausschließlich die mögliche Textwirkung.
 

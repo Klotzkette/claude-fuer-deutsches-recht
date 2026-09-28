@@ -7,6 +7,8 @@ description: "Prüft gezielt, ob die zusammenfassende Leistungsbewertung eines A
 
 ## 1. Einordnung
 
+Prüfe die gewünschte Spitzenbewertung als beweisabhängigen Anspruch nach Paragraf 109 GewO. BAG, Urteil vom 18. November 2014, 9 AZR 584/13, Rn. 8 bis 13 ([Volltext](https://www.bundesarbeitsgericht.de/entscheidung/9-azr-584-13/)), verlangt auch hierfür individuelle Leistungstatsachen. Frage bei einer bloßen Selbsteinschätzung nach konkretem Mehrergebnis, Vergleichsmaßstab und Nachweis, nicht nach weiteren wohlklingenden Adjektiven.
+
 Identifiziere zunächst die zusammenfassende Leistungsbeurteilung und ordne sie im Zusammenhang mit den leistungsbezogenen Einzelsätzen ein. Die Formel „stets zu unserer vollsten Zufriedenheit“ ist ein verbreiteter Anhaltspunkt für eine sehr gute Gesamtleistung. Auch andere sprachlich eindeutige Fassungen sind möglich. Ein einzelnes Superlativwort entscheidet ebenso wenig allein wie eine feste Zahl besonders positiver Detailsätze.
 
 Die Schlussformel ist von der Zeugnisnote zu trennen. Ihr Fehlen verhindert nicht automatisch eine sehr gute Leistungsbewertung. Verlangt der Arbeitnehmer eine überdurchschnittliche, insbesondere sehr gute Beurteilung, sind konkrete Tatsachen und Beweismittel für das beanspruchte Niveau zu benennen.

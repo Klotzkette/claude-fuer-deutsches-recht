@@ -7,7 +7,11 @@ description: "Prüft bei angegebener oder zu klärender Führungsverantwortung, 
 
 ## 1. Tatsachengrundlage
 
+Prüfe Tätigkeit, Führungsleistung und Sozialverhalten getrennt nach Paragraf 109 Absatz 1 GewO. Für die Abbildung der tatsächlichen Verantwortung siehe BAG, Urteil vom 27. April 2021, 9 AZR 262/20, Rn. 21 bis 23 ([Volltext](https://www.bundesarbeitsgericht.de/entscheidung/9-azr-262-20/)). Bei einem Geschäftsführer ist vorab zu klären, ob ein Arbeitsverhältnis oder ein freies Dienstverhältnis mit Paragraf 630 BGB vorliegt; die Organstellung allein beantwortet die Anspruchsgrundlage nicht.
+
 Kläre anhand von Vertrag, Organigramm, Stellenbeschreibung und Beurteilungen, ob und in welchem Umfang Personal- oder Ergebnisverantwortung bestand. Erst danach ist zu prüfen, ob der Tätigkeitsabschnitt Mitarbeiterzahl, Verantwortungsbereich und wesentliche Führungsaufgaben zutreffend abbildet und ob die Beurteilung die tatsächlich ausgeübte Führungsleistung erfasst.
+
+Unterscheide disziplinarische Führung, fachliche Anleitung und bloße Projektkoordination. „Leitete zwölf Mitarbeiter“ ist nicht durch die Teilnahme an einem zwölfköpfigen Projektteam belegt. Ermittle Einstellungs-, Budget- und Beurteilungsbefugnisse; formuliere eine nur fachliche Leitung auch als solche.
 
 Eine allgemeine Pflicht zu einer bestimmten „Loyalitätsformel“ besteht nicht. Das Fehlen eines solchen Wortes beweist kein Loyalitätsproblem. Ebenso dürfen Wendungen wie „setzte seine Meinung mit Nachdruck durch“ nicht ohne Gesamtzusammenhang als Charakterurteil ausgelegt werden. Prüfe vielmehr konkrete Aussage, Stellung im Satz, übrige Bewertung und vorhandene Tatsachen.
 

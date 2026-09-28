@@ -15,6 +15,8 @@ Nenne je Streitstelle den exakten Originalwortlaut und seine Fundstelle, die Fun
 
 ## 3. Note und Handlungsbedarf
 
+Ordne den Rechtsmaßstab der jeweiligen Zeile zu: Paragraf 109 Absatz 1 GewO bei fehlender Tätigkeit oder Beurteilung, Absatz 2 bei Mehrdeutigkeit. Für Notenfragen siehe [BAG 9 AZR 584/13 vom 18. November 2014](https://www.bundesarbeitsgericht.de/entscheidung/9-azr-584-13/), für die kontextbezogene Deutung [BAG 9 AZR 386/10 vom 15. November 2011](https://www.bundesarbeitsgericht.de/entscheidung/9-azr-386-10/). Eine bloße Stiländerung erhält keine scheinbar tragende Gerichtsentscheidung.
+
 Trenne die sprachliche Notentendenz vom rechtlichen Änderungsbedarf. Eine durchschnittliche Bewertung ist nicht allein deshalb mangelhaft, weil sie einer mittleren Note entspricht. Farbcodes werden nur ausgegeben, wenn die nutzende Person sie verlangt; dann bezeichnen sie den Handlungsbedarf und nicht automatisch eine Schulnote.
 
 ## 4. Unsicherheit

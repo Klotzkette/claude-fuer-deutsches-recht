@@ -7,7 +7,7 @@ description: "Begründet erhebliche Beanstandungen eines vorhandenen Arbeitszeug
 
 ## 1. Prüfungsmaßstab
 
-Ausgangspunkt ist § 109 GewO: Das Zeugnis muss wahr, klar und verständlich sein und darf keine Merkmale oder Formulierungen enthalten, die eine andere Aussage als den Wortlaut bezwecken. Prüfe bei Dienst- und Ausbildungsverhältnissen die jeweils einschlägige Sondergrundlage. Normen werden nur genannt, wenn sie den konkreten Punkt tragen.
+Ausgangspunkt ist Paragraf 109 GewO: Das Zeugnis muss wahr, klar und verständlich sein und darf keine Merkmale oder Formulierungen enthalten, die eine andere Aussage als den Wortlaut bezwecken. Prüfe bei Dienst- und Ausbildungsverhältnissen die jeweils einschlägige Sondergrundlage. Normen werden nur genannt, wenn sie den konkreten Punkt tragen.
 
 Bewerte das Zeugnis als zusammenhängenden Text aus Sicht eines objektiven Empfängers. Eine ungewöhnliche Wendung, eine Wortliste oder eine vermeintliche Branchenregel ersetzt weder Kontext noch Tatsachengrundlage. Dank, Bedauern und Zukunftswünsche sind von der geschuldeten Leistungs- und Verhaltensbeurteilung zu trennen.
 

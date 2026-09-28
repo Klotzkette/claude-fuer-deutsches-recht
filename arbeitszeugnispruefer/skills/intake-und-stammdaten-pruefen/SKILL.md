@@ -17,6 +17,8 @@ Vergleiche Namen, Firmenbezeichnung, Zeiträume, Funktionen, Beförderungen, tat
 
 Prüfe erkennbare tarifliche oder vertragliche Ausschlussfristen, frühere Geltendmachungen, laufende Verfahren und den genauen Inhalt eines Vergleichs oder Titels. Übertrage keine Dreiwochenfrist aus dem Kündigungsschutzrecht auf den Zeugnisanspruch. Berechne eine Frist nur mit gesichertem Beginn und nenne die Grundlage.
 
+Wird auf einen Verzicht verwiesen, lies Wortlaut und Abschlussdatum im Verhältnis zum tatsächlichen Ende des Arbeitsverhältnisses. Ein Verzicht auf das künftige qualifizierte Zeugnis vor Beendigung ist unwirksam: BAG, Teilurteil vom 18. Juni 2025, 2 AZR 96/24 (B), Rn. 59 bis 61 ([amtlicher Volltext](https://www.bundesarbeitsgericht.de/wp-content/uploads/2025/09/2-AZR-96-24--B.pdf)). Verallgemeinere dies nicht zu einem zeitlich unbegrenzten Verzichtsverbot. Bei ausländischer Rechtswahl kläre Vertragsdatum und objektive Anknüpfung; das Urteil betrifft Altrecht des EGBGB und macht Paragraf 109 GewO nicht zur universell anwendbaren Eingriffsnorm.
+
 ## 4. Rückfragen
 
 Frage gebündelt nur nach fehlenden Angaben, die eine konkrete Aussage oder das bestellte Dokument ändern. Erläutere, was bei den möglichen Antworten jeweils folgt. Bearbeite den unstreitigen Teil weiter; Platzhalter oder bedingte Fassungen sind zulässig, wenn dadurch keine Tatsache erfunden wird.

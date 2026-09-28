@@ -264,6 +264,54 @@ class ArbeitszeugnisprueferTests(unittest.TestCase):
         )
         self.assertIn("Keine Ausgabe beginnt mit einem Status-, Rollen-, Datei- oder Metadatenblock", criteria)
 
+    def test_2026_enforcement_distinguishes_title_from_material_dispute(self):
+        for path in (
+            PLUGIN / "skills/klagestrategie-und-vollstreckung/SKILL.md",
+            PLUGIN / "arbeitszeugnispruefer-werkstatt.md",
+            PLUGIN / "arbeitszeugnispruefer-schnellstart.md",
+        ):
+            text = path.read_text(encoding="utf-8")
+            with self.subTest(path=path.name):
+                self.assertIn("8 AZB 25/25", text)
+                self.assertIn("Entwurfsrecht", text)
+                self.assertIn("wichtigem Grund", text)
+                self.assertIn("Erkenntnisverfahren", text)
+                self.assertIn("https://www.bundesarbeitsgericht.de/entscheidung/8-azb-25-25/", text)
+        procedure = (PLUGIN / "skills/klagestrategie-und-vollstreckung/SKILL.md").read_text(encoding="utf-8")
+        self.assertIn("teilweise", procedure)
+        self.assertIn("offen", procedure)
+        self.assertIn("724 und 750 ZPO", procedure)
+
+    def test_2025_waiver_is_time_limited_and_not_universal_choice_of_law(self):
+        for path in (
+            PLUGIN / "skills/intake-und-stammdaten-pruefen/SKILL.md",
+            PLUGIN / "arbeitszeugnispruefer-werkstatt.md",
+        ):
+            text = path.read_text(encoding="utf-8")
+            self.assertIn("2 AZR 96/24 (B)", text)
+            self.assertIn("vor Beendigung", text)
+            self.assertIn("EGBGB", text)
+            self.assertRegex(text, r"(?i)(?:spätere|zeitlich unbegrenzten)")
+
+    def test_specialists_start_from_their_actual_legal_question(self):
+        expectations = {
+            "auslassungen-erkennen": ("Branchenübung", "9 AZR 262/20", "Außendienstteams"),
+            "frequenzadverbien-pruefen": ("Fehlerfreiheit", "9 AZR 584/13", "Gesamtleistung"),
+            "fuehrungskraft-verhalten-pruefen": ("Paragraf 630 BGB", "Projektkoordination", "9 AZR 262/20"),
+            "notenstufen-bag-9-azr-386-10": ("historischen Skillnamen", "9 AZR 584/13", "Klarheitsanker"),
+            "personenreihenfolge-pruefen": ("kein Spezialurteil", "9 AZR 386/10", "Paragraf 109"),
+            "schlussformel-pruefen": ("wesentliches Motiv", "9 AZR 272/22", "nicht abschließend"),
+        }
+        for slug, anchors in expectations.items():
+            text = (PLUGIN / "skills" / slug / "SKILL.md").read_text(encoding="utf-8")
+            with self.subTest(skill=slug):
+                for anchor in anchors:
+                    self.assertIn(anchor, text)
+        gateway = (PLUGIN / "skills/einfuehrung-pruefauftrag/SKILL.md").read_text(encoding="utf-8")
+        self.assertIn("Keine fünf parallelen Notenprüfungen", gateway)
+        for path in (PLUGIN / "skills").glob("*/SKILL.md"):
+            self.assertNotIn("§", path.read_text(encoding="utf-8"))
+
 
 if __name__ == "__main__":
     unittest.main()

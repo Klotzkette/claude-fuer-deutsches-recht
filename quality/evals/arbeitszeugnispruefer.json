@@ -72,10 +72,15 @@
       "url": "https://www.anwalt24.de/urteile/bag/2003-10-14/9-azr-12_03",
       "checked_on": "2026-09-28",
       "supports": "Freie nichtamtliche Volltextwiedergabe von BAG, Urteil vom 14.10.2003 – 9 AZR 12/03, Gründe IV.2.a–b, dort Rn. 27–28: Arbeitnehmerlast bei überdurchschnittlich, Arbeitgeberlast bei unterdurchschnittlich."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/wp-content/uploads/2025/09/2-AZR-96-24--B.pdf",
+      "checked_on": "2026-09-28",
+      "supports": "Unwirksamer Vorausverzicht auf das künftige qualifizierte Zeugnis vor Beendigung. Kollisionsrechtlicher Altfall nach EGBGB, keine universelle Eingriffsnorm."
     }
   ],
   "mini_review": {
-    "sha256": "78d70934d2ca5cdb988cd0cfaa3ffd75ad084bfd495de15563df79f0610b4f68",
+    "sha256": "e637f4ad1b9305907df269d3131853fc64c6e3c2125152c15aeef0877f9d00e8",
     "verdict": "revised",
     "reason": "Eigenständig nutzbarer Datei-Dialog mit konkreten Fragepfaden, Teilantworten, festgestellten Beweisgrenzen, Quellenfallback und Kontrollschleife; kompakter Rechtskern einschließlich amtlich geprüfter Entwurfsklausel-Rechtsprechung.",
     "changes": [
@@ -88,7 +93,7 @@
     ]
   },
   "workshop_review": {
-    "sha256": "6fec7a525d83403f5f0ff5a3101c91a817d8fbb3b25de5c11664cb0b4df2feae",
+    "sha256": "2d1accface3f0d7e1c5b8498f013e5fd1d072a920c7226b09883283e305f1c44",
     "verdict": "revised",
     "reason": "Werkstatt substanziell erweitert: vollständige eigenständige Dateiaktivierung, gestufte Tatsachen- und Beweisfragen, Antwortverarbeitung, anwaltliche Subsumtion mit Gegenargumenten und Quellenreichweite sowie Fortsetzung nach Arbeitgeberantwort und korrigierter Fassung.",
     "changes": [
@@ -99,7 +104,8 @@
       "Zehn fallbezogene Fragepfade mit benötigtem Beleg und konkreter Folgeentscheidung; kein pauschaler Fragebogen.",
       "Rechtsprechung als Maßstab, Rückfrage und Subsumtion; 8 AZB 25/25 gegen 9 AZB 49/16 abgegrenzt.",
       "Abschließende Kontrolle neuer Fassungen auf Änderungen außerhalb der beanstandeten Stellen.",
-      "Ausgangs- und Zielnote vor der Beweisfrage trennen: Arbeitgeberlast bei unterdurchschnittlicher Bewertung; fehlende Arbeitnehmer-Mehrleistungsbelege machen 4→3 nicht zur bloßen Bitte."
+      "Ausgangs- und Zielnote vor der Beweisfrage trennen: Arbeitgeberlast bei unterdurchschnittlicher Bewertung; fehlende Arbeitnehmer-Mehrleistungsbelege machen 4→3 nicht zur bloßen Bitte.",
+      "Aktuellen Dialogstand mit Vorausverzicht, internationaler Anknüpfung und offener Teilvollstreckung zusammengeführt; beide zusätzlichen Verfahrensfälle bleiben erhalten."
     ]
   },
   "selection": {
@@ -494,6 +500,70 @@
         }
       ],
       "target_skill": "einfuehrung-pruefauftrag"
+    },
+    {
+      "id": "entwurfsrecht-und-wahrheitseinwand",
+      "request": "Ein zugestellter arbeitsgerichtlicher Vergleich verpflichtet zur Erteilung eines guten Zeugnisses nach meinem Entwurf; Abweichung ist nur aus wichtigem Grund erlaubt. Eine vollstreckbare Ausfertigung liegt vor. Mein zuletzt übersandter Entwurf bescheinigt alleinige Leitung des medizinischen Personals. Der Arbeitgeber hat ein abweichendes Zeugnis erteilt und nennt einen zweiten Geschäftsführer, der nach beigefügtem Organigramm die medizinische Leitung verantwortet. Ich möchte wissen, ob ich jetzt Zwangsgeld beantragen sollte. Bitte einen begründeten Verfahrensvorschlag erstellen, nicht automatisch einreichen.",
+      "input_files": [],
+      "deliverables": [
+        "verfahrensvorschlag.md"
+      ],
+      "target_skill": "klagestrategie-und-vollstreckung",
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Verwirft den Titel nicht allein deshalb als unbestimmt, weil der Arbeitnehmerentwurf erst nach Vergleichsschluss entstand; unterscheidet Entwurfsrecht von bloßer Notenvereinbarung anhand 8 AZB 25/25.",
+          "deliverables": [
+            "verfahrensvorschlag.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Trennt Bestimmtheit und Erfüllung von der materiellen Wahrheit, erkennt einen nachvollziehbaren Einwand gegen eine wesentliche Tätigkeit und empfiehlt nicht ungeprüft Zwangsgeld nach Paragraf 888 ZPO.",
+          "deliverables": [
+            "verfahrensvorschlag.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Benennt Klärung der tatsächlichen Aufgaben und gegebenenfalls neues Erkenntnisverfahren als konkrete Fortsetzung; behauptet weder bewiesene Unwahrheit allein aufgrund des Einwands noch gesicherte Teilvollstreckung.",
+          "deliverables": [
+            "verfahrensvorschlag.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vorausverzicht-und-auslandsvertrag",
+      "request": "Mein Arbeitgeber verweigert mir nach Vertragsende ein qualifiziertes Zeugnis. Im englischen Arbeitsvertrag aus dem Jahr 2008 steht ein Verzicht auf spätere Zeugnisse und eine Rechtswahl zugunsten Illinois. Ich habe durchgehend in Frankfurt gearbeitet, das Arbeitsverhältnis endete am 31. August 2026. Andere Ausgleichsklauseln oder spätere Verzichte gibt es nicht. Bitte prüfen und ein sachliches Aufforderungsschreiben in meinem Namen erstellen.",
+      "input_files": [],
+      "deliverables": [
+        "pruefung-und-schreiben.md"
+      ],
+      "target_skill": "intake-und-stammdaten-pruefen",
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Prüft Vertragsdatum und objektive Anknüpfung und behandelt die Rechtswahl nicht als automatischen Ausschluss des Zeugnisanspruchs; erkennt die Altrechtsgrenze zu Rom I.",
+          "deliverables": [
+            "pruefung-und-schreiben.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Verwendet BAG 2 AZR 96/24 (B) zum Verzicht vor Beendigung, ohne Paragraf 109 GewO als weltweit geltende Eingriffsnorm oder jeden späteren Verzicht als nichtig auszugeben.",
+          "deliverables": [
+            "pruefung-und-schreiben.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Führt nach nötiger Klärung bis zu einem vollständigen Aufforderungsschreiben in eigener Rolle fort; erfindet keine Vertretungsmacht, Versandhandlung oder garantierte gute Zeugnisnote.",
+          "deliverables": [
+            "pruefung-und-schreiben.md"
+          ]
+        }
+      ]
     }
   ],
   "prompt_workflow_review": {

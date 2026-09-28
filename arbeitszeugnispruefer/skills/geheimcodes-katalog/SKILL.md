@@ -7,7 +7,7 @@ description: "Prüft eine konkret behauptete verdeckte Aussage im Arbeitszeugnis
 
 ## 1. Rechtlicher Maßstab
 
-Prüfe den genauen Wortlaut im vollständigen Satz und im Zusammenhang des gesamten Zeugnisses. § 109 Abs. 2 Satz 2 GewO verbietet Merkmale oder Formulierungen, die dem Zweck nach eine andere Aussage über den Arbeitnehmer treffen als die aus äußerer Form oder Wortlaut ersichtliche. Nicht jede ungewöhnliche oder knappe Wendung ist deshalb ein Geheimzeichen. Nach BAG, Urteil vom 15. November 2011 – 9 AZR 386/10, darf etwa die Wendung „kennen gelernt“ nicht isoliert aus dem Kontext als versteckte Abwertung behandelt werden.
+Prüfe den genauen Wortlaut im vollständigen Satz und im Zusammenhang des gesamten Zeugnisses. Paragraf 109 Abs. 2 Satz 2 GewO verbietet Merkmale oder Formulierungen, die dem Zweck nach eine andere Aussage über den Arbeitnehmer treffen als die aus äußerer Form oder Wortlaut ersichtliche. Nicht jede ungewöhnliche oder knappe Wendung ist deshalb ein Geheimzeichen. Nach BAG, Urteil vom 15. November 2011 – 9 AZR 386/10, darf etwa die Wendung „kennen gelernt“ nicht isoliert aus dem Kontext als versteckte Abwertung behandelt werden.
 
 Verwende keine tradierten Listen, um Alkohol, Krankheit, Belästigung, Konfliktneigung, Eigentumsdelikte oder Betriebsratstätigkeit zu behaupten. Eine solche Nebenbedeutung darf nur als mögliche Textwirkung benannt werden, wenn Wortlaut, Zusammenhang und eine belastbare Verkehrsauffassung sie konkret tragen. Die tatsächliche Eigenschaft der Person bleibt davon getrennt.
 

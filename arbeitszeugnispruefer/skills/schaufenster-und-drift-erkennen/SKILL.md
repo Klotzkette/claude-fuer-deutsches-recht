@@ -7,6 +7,8 @@ description: "Prüft ein Arbeitszeugnis auf innere Widersprüche zwischen Tätig
 
 ## 1. Vergleich der Aussageebenen
 
+Leite die Prüfung aus Paragraf 109 Absatz 2 GewO und dem Gesamtzusammenhang nach BAG, Urteil vom 15. November 2011, 9 AZR 386/10 ([Volltext](https://www.bundesarbeitsgericht.de/entscheidung/9-azr-386-10/)), ab. Ersetzt ein neuer Text ein früher erteiltes Zeugnis, sichere beide Fassungen und die Gründe der Abweichung. Bezeichne unterschiedliche Gewichtungen nicht schon als unzulässige Verschlechterung; bei Reaktion auf eine berechtigte Beanstandung prüfe zusätzlich Paragraf 612a BGB.
+
 Vergleiche Tätigkeitsbeschreibung, Leistungsdetails, Verhaltensbeurteilung und zusammenfassende Bewertung. Prüfe, ob ausdrückliche Aussagen einander widersprechen oder ob eine prägende Aufgabe zwar beschrieben, bei der Bewertung aber sachwidrig ausgeblendet wird. Unterschiedliche Länge oder sprachliche Intensität einzelner Abschnitte ist nur ein Prüfhinweis und kein selbständiger Mangel.
 
 Eine anspruchsvolle oder umfangreiche Tätigkeit begründet für sich keinen Anspruch auf eine überdurchschnittliche Leistungsnote. Ebenso lässt eine knappe Beurteilung nicht ohne weitere Umstände auf eine versteckte Abwertung schließen. Maßgeblich sind konkrete Textaussagen, belegte Leistungstatsachen und die objektive Gesamtwirkung. Bezeichne das Ergebnis in anwaltlicher Sprache als inneren Widerspruch, unklare Gewichtung oder nicht erheblichen Stilunterschied.

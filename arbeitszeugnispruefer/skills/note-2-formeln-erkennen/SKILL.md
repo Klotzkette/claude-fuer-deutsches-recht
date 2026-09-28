@@ -7,6 +7,8 @@ description: "Prüft gezielt, ob die zusammenfassende Leistungsbewertung eines A
 
 ## 1. Einordnung
 
+Ausgangspunkt für die gute Schlussbewertung ist BAG, Urteil vom 18. November 2014, 9 AZR 584/13, Rn. 8 bis 13 ([Volltext](https://www.bundesarbeitsgericht.de/entscheidung/9-azr-584-13/)), zu Paragraf 109 GewO. Prüfe deshalb zuerst, ob lediglich das beständige Leistungsniveau sprachlich falsch wiedergegeben wird oder ob tatsächlich eine bessere Bewertung als bisher beansprucht wird. Der zweite Weg verlangt mehr als die Behauptung, gute Zeugnisse seien branchenüblich.
+
 Identifiziere die zusammenfassende Leistungsbeurteilung. Die Formel „stets zur vollen Zufriedenheit“ ist ein verbreiteter Anhaltspunkt für eine gute Gesamtleistung. Prüfe jedoch den vollständigen Wortlaut, die bewertete Funktion, die Einzelleistungen und mögliche Widersprüche. Wörter wie „stets“, „sehr“ oder „hervorragend“ haben nur in Verbindung mit dem jeweiligen Prädikat Aussagekraft; sie heben nicht automatisch das gesamte Zeugnis auf eine bestimmte Note.
 
 Bewerte die Schlussformel getrennt. Anzahl und Wärme von Dankes-, Bedauerns- oder Wunschbestandteilen bestimmen nicht die Leistungsnote. Für eine verlangte Aufwertung von einer durchschnittlichen zu einer guten Bewertung sind konkrete überdurchschnittliche Leistungstatsachen und geeignete Nachweise zu benennen.

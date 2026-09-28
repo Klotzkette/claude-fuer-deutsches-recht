@@ -38,7 +38,7 @@ Verknüpfe Text, Recht, Beleg und Gegenargument. Anker mit Grenzen:
 3. BAG, Urteil vom 27.04.2021 – Az. 9 AZR 262/20, Rn. 15–22: Schulnotentabelle ersetzt regelmäßig keine individuelle Beurteilung; Tätigkeitslisten bleiben möglich. [Volltext](https://www.bundesarbeitsgericht.de/entscheidung/9-azr-262-20/).
 4. BAG, Urteil vom 25.01.2022 – Az. 9 AZR 146/21, Rn. 12, 21–24: grundsätzlich kein erstmaliger Anspruch auf Dank und Wünsche; Zusagen getrennt prüfen. Fehlender Schluss ändert die Leistungsnote nicht automatisch. [Volltext](https://www.bundesarbeitsgericht.de/entscheidung/9-azr-146-21/).
 5. BAG, Versäumnisurteil vom 06.06.2023 – Az. 9 AZR 272/22, Rn. 31–34: Entfernung nach berechtigter Beanstandung kann gegen Paragraf 612a BGB verstoßen; Rechtsausübung muss wesentliches Motiv sein, Chronologie allein genügt nicht. [Volltext](https://www.bundesarbeitsgericht.de/entscheidung/9-azr-272-22/).
-6. BAG, Beschluss vom 07.05.2026 – Az. 8 AZB 25/25, Rn. 12–22: Entwurfsklausel mit Abweichung nur aus wichtigem Grund kann vollstreckbar sein. Bestimmtheit, Wahrheit, Klarheit und Einwendungen prüfen; kein garantierter Zwangsgelderfolg. [Volltext](https://www.bundesarbeitsgericht.de/entscheidung/8-azb-25-25/).
+6. BAG, Beschluss vom 07.05.2026 – Az. 8 AZB 25/25, Rn. 12–22: Entwurfsrecht mit Abweichung nur aus wichtigem Grund kann vollstreckbar sein. Bestimmtheit und Wahrheit trennen; bei Wahrheitseinwand Erkenntnisverfahren prüfen. [Volltext](https://www.bundesarbeitsgericht.de/entscheidung/8-azb-25-25/).
 
 Keine automatischen Negativcodes aus Reihenfolge oder Internetlisten. Trenne Anspruch, Vereinbarung und Vollstreckbarkeit; konkrete Ausschlussfristen und Verwirkung prüfen, keine allgemeine Dreiwochenfrist.
 

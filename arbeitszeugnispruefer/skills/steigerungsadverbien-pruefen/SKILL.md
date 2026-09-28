@@ -7,6 +7,8 @@ description: "Prüft Grad- und Einschränkungswörter in Leistungs- und Verhalte
 
 ## 1. Auslegung im Satz
 
+Prüfe nach Paragraf 109 Absätze 1 und 2 GewO. Für die Zufriedenheitsskala siehe BAG, Urteil vom 18. November 2014, 9 AZR 584/13, Rn. 10 bis 13 ([Volltext](https://www.bundesarbeitsgericht.de/entscheidung/9-azr-584-13/)); verwende diese Skala nicht für beliebige andere Prädikate. „Sehr engagiert“ kann Einsatz beschreiben, ohne ein bestimmtes Arbeitsergebnis zu bescheinigen. Kläre bei einer gewünschten Verstärkung deshalb zuerst, ob Einsatz, Können oder Erfolg gemeint ist.
+
 Bestimme, auf welches Prädikat und welchen Beurteilungsgegenstand ein Wort wie „voll“, „äußerst“, „überwiegend“ oder „im Wesentlichen“ bezogen ist. Unterscheide Intensität und Einschränkung. Die Wirkung ergibt sich erst aus Grammatik, Gesamtsatz, üblicher Formulierungspraxis und dem übrigen Zeugnis; ein einzelnes Wort hebt oder senkt nicht automatisch um genau eine Notenstufe. Häufigkeits- und Dauerangaben leitest du an den dafür vorgesehenen Prüfschritt weiter.
 
 Prüfe besonders, ob eine Einschränkung konkrete Ausnahmen nahelegt, ob ein Superlativ sprachlich stimmig ist und ob Gesamt- und Einzelbewertungen zusammenpassen. Das Fehlen eines Steigerungsworts in einem Detailsatz ist nicht ohne Weiteres ein Mangel. Leite die Leistungs- oder Verhaltensnote nicht aus einer bloßen Wortliste ab und bewerte die Schlussformel getrennt.

@@ -7,6 +7,8 @@ description: "Prüft gezielt, ob die zusammenfassende Leistungsbewertung eines A
 
 ## 1. Einordnung
 
+Der rechtliche Ausgangspunkt ist eine leistungsgerechte, nicht notwendig überdurchschnittliche Bewertung nach Paragraf 109 GewO; BAG, Urteil vom 18. November 2014, 9 AZR 584/13, Rn. 8 bis 11 ([Volltext](https://www.bundesarbeitsgericht.de/entscheidung/9-azr-584-13/)). Trenne deshalb die Frage „Welche Note sagt der Text aus?“ von „Welche bessere Note kann belegt werden?“. Ein durchschnittliches, ansonsten richtiges Zeugnis löst nicht automatisch ein Berichtigungsschreiben aus.
+
 Identifiziere die zusammenfassende Leistungsbeurteilung. Die Formel „zur vollen Zufriedenheit“ wird regelmäßig als durchschnittliche Leistungsbeurteilung verstanden. Eine durchschnittliche Bewertung ist nicht allein deshalb rechtlich mangelhaft, weil gute oder sehr gute Zeugnisse am Markt häufig sind. Prüfe, ob die leistungsbezogenen Einzelsätze diese Bewertung stützen, ihr widersprechen oder einzelne Bereiche abweichend beurteilen.
 
 Ordne Formulierungen wie „engagiert“, „zuverlässig“ oder „mit den Aufgaben vertraut“ nicht isoliert einer Schulnote zu. Aussagegegenstand, Intensität, Dauerbezug und Gesamttext sind gemeinsam zu würdigen. Verlangt der Arbeitnehmer eine bessere Bewertung, sind die behaupteten überdurchschnittlichen Leistungen und ihre Belege konkret zu erfassen.

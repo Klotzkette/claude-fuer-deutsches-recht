@@ -7,6 +7,8 @@ description: "Prüft gezielt, ob die zusammenfassende Leistungsbewertung eines A
 
 ## 1. Einordnung
 
+Ermittle zunächst den arbeitsplatzbezogenen Leistungsmaßstab nach Paragraf 109 GewO. Die Zufriedenheitsskala ist in BAG, Urteil vom 18. November 2014, 9 AZR 584/13, Rn. 10 bis 13 ([Volltext](https://www.bundesarbeitsgericht.de/entscheidung/9-azr-584-13/)), erläutert. Das erlaubt keine Abwertung anhand beliebiger Wortlisten. Verlange bei behaupteter Minderleistung konkrete Vorgänge, Zeitraum, Aufgabenanforderung und Auswirkung; das bloße Fehlen von Lob ist kein Beweis.
+
 Identifiziere die zusammenfassende Leistungsbeurteilung. Formulierungen wie „zur Zufriedenheit“, „im Wesentlichen zur Zufriedenheit“ oder eine auf bloßes Bemühen beschränkte Aussage können auf eine unterdurchschnittliche Bewertung hindeuten. Entscheidend sind Satzfunktion, genaue Syntax und leistungsbezogene Einzelsätze. Ein einzelnes Wort ist nicht ohne Kontext als feste Note oder eigenständiger Mangel auszugeben.
 
 Will der Arbeitgeber insgesamt eine unterdurchschnittliche Leistung bescheinigen, muss er die hierfür maßgeblichen Tatsachen im Streitfall darlegen und beweisen. Das erlaubt nicht, jede schwächere Nebenformulierung automatisch als Gesamtbewertung zu behandeln. Trenne eine tatsächlich schlechtere Beurteilung von einer unklaren, unvollständigen oder lediglich ungelenken Formulierung.

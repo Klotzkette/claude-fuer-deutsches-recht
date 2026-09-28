@@ -7,6 +7,8 @@ description: "Prüft im Verhaltensabschnitt eines Arbeitszeugnisses, ob die gena
 
 ## 1. Kontextbezogene Prüfung
 
+Maßstab ist Paragraf 109 Absatz 2 GewO, nicht eine feste Reihenfolgenliste. Der objektive Empfängerhorizont aus BAG, Urteil vom 15. November 2011, 9 AZR 386/10 ([Volltext](https://www.bundesarbeitsgericht.de/entscheidung/9-azr-386-10/)), ist auf die konkrete Aussage anzuwenden; die Entscheidung ist kein Spezialurteil über die Reihenfolge von Vorgesetzten und Kollegen.
+
 Ermittle zunächst, zu welchen Gruppen tatsächlich beruflicher Kontakt bestand, etwa Vorgesetzten, Mitarbeitern, Kollegen, Kunden oder Geschäftspartnern. Die verbreitete Folge „Vorgesetzte, Kollegen und Kunden“ ist eine sprachliche Konvention, aber keine ausnahmslos verbindliche gesetzliche Reihenfolge. Funktion, Führungsverantwortung, Außenkontakt und der übrige Zeugnistext bestimmen, welche Gruppen zu nennen sind und welche Reihenfolge sachgerecht wirkt.
 
 Leite aus einer Umstellung allein weder einen Leistungsmangel noch ein Konfliktverhalten ab. Eine Beanstandung kommt erst in Betracht, wenn die konkrete Reihenfolge im Gesamtzusammenhang für einen objektiven Leser eine erkennbare abwertende oder mehrdeutige Wirkung erzeugt. Begründe diese Wirkung am Wortlaut und an der tatsächlichen Tätigkeit; behaupte ohne tragfähige Fundstelle weder eine selbständige Klageposition noch eine besondere Rechtfertigungslast des Arbeitgebers.

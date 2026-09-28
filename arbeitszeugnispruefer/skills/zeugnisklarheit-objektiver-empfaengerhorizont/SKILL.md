@@ -7,7 +7,7 @@ description: "Prüft als Auffangprüfung sonstige konkrete Klarheits- oder Mehrd
 
 ## 1. Rechtlicher Maßstab
 
-Prüfe den vollständigen Satz zusammen mit seinem näheren Textumfeld und dem Zeugnis als Ganzem. § 109 Abs. 2 GewO verlangt eine klare und verständliche Formulierung und verbietet Merkmale oder Formulierungen, die bezwecken, eine andere als die äußerlich oder wörtlich erkennbare Aussage zu treffen. Maßgeblich ist die objektive Wirkung für einen verständigen Zeugnisleser, nicht eine lediglich behauptete Absicht des Arbeitgebers.
+Prüfe den vollständigen Satz zusammen mit seinem näheren Textumfeld und dem Zeugnis als Ganzem. Paragraf 109 Abs. 2 GewO verlangt eine klare und verständliche Formulierung und verbietet Merkmale oder Formulierungen, die bezwecken, eine andere als die äußerlich oder wörtlich erkennbare Aussage zu treffen. Maßgeblich ist die objektive Wirkung für einen verständigen Zeugnisleser, nicht eine lediglich behauptete Absicht des Arbeitgebers.
 
 Der Arbeitgeber behält einen Formulierungsspielraum. Nicht jede ungewöhnliche Wendung ist mehrdeutig oder ein Geheimcode. BAG, Urteil vom 15. November 2011 – 9 AZR 386/10, zeigt, dass insbesondere die Formulierung „kennen gelernt“ nicht isoliert negativ umgedeutet werden darf. Beziehe für die Auslegung Wortlaut, Satzbau, unmittelbaren Kontext und übrige Bewertungen ein. Schlussformeln und ihre regelmäßig fehlende Erzwingbarkeit sind getrennt zu behandeln.
 
