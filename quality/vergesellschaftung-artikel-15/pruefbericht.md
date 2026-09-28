@@ -8,17 +8,17 @@ Elf native Einzelunterlagen: drei DOCX, drei PDF, zwei EML, zwei CSV und eine TX
 
 ## 2. Ausgeführte Prüfungen
 
-` .venv/bin/python scripts/test-vergesellschaftung-artikel-15.py `: **9 Tests bestanden**. Enthalten sind lokale Manifest-/Skillstruktur, Eval-Schema und redaktionelle Hashes, vollständiger Bestand, Abgleich der nativen Inhalte mit der Fixture, EML-Header/Datum/Byteidentität, finanzielle Überleitungen, DOCX-Schriftdefinitionen, Kontaktdomains, Sprachregel und lokale Links.
+`python3 scripts/test-vergesellschaftung-artikel-15.py`: 9 Tests bestanden. Enthalten sind lokale Manifest-/Skillstruktur, Eval-Schema und redaktionelle Hashes, vollständiger Bestand, Abgleich der nativen Inhalte mit der Fixture, EML-Header/Datum/Byteidentität, finanzielle Überleitungen, DOCX-Schriftdefinitionen, Kontaktdomains, Sprachregel und lokale Links.
 
-` .venv/bin/python scripts/test-prompt-publication-profiles.py `: **9 Tests bestanden**. Das ist der vorhandene isolierte Publikationsregressionstest, kein globaler Generatorlauf.
+`python3 scripts/test-prompt-publication-profiles.py`: 9 Tests bestanden. Das ist der vorhandene isolierte Publikationsregressionstest, kein globaler Generatorlauf.
 
-` .venv/bin/python /Users/klotzkette/.codex/skills/.system/plugin-creator/scripts/validate_plugin.py vergesellschaftung-artikel-15 `: **bestanden**. Beide lokalen Manifeste stehen auf 445.11.0; die bereits aktualisierte Claude-Version wurde nicht zurückgesetzt.
+Der zusätzliche lokale Manifestvalidator wurde bestanden. Die Integrationsprüfung gleicht die Manifestversionen mit der jeweiligen Marketplace-Version ab.
 
 Es wurde kein Live-Modelllauf durchgeführt. Die fünf Eval-Fälle sind vorbereitete ausführbare Bewertungsfälle, keine behaupteten erfolgreichen Modellantworten. Die automatischen Prüfungen ersetzen die nachstehende Sichtkontrolle nicht.
 
 ## 3. Native Sichtkontrolle
 
-Alle **12 Seiten** der sechs paginierten Originale wurden als PNG einzeln geöffnet und visuell geprüft:
+Alle 12 Seiten der sechs paginierten Originale wurden als PNG einzeln geöffnet und visuell geprüft:
 
 | Original | Seiten | Renderpfad unter `/tmp/vergesellschaftung-artikel-15-qa/` |
 | --- | --- | --- |
@@ -38,21 +38,21 @@ Endbefund: keine abgeschnittenen Zeilen, keine Überlagerung von Kopf-/Fußzeile
 Nur die Originale dieser Akte bauen, vom Repository-Wurzelverzeichnis aus:
 
 ```bash
-/Users/klotzkette/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 scripts/build-vergesellschaftung-artikel-15-akte.py
+python3 scripts/build-vergesellschaftung-artikel-15-akte.py
 ```
 
-Der Builder verwendet `scripts/fixtures/vergesellschaftung-artikel-15/case.json` und schreibt ausschließlich die elf dort benannten Originale in den Aktenordner. Mit `--output /tmp/vergesellschaftung-artikel-15-rebuild` ist ein separater Vergleichsbuild möglich. Für einen anderen Rechner kann `--font-dir` ein Verzeichnis mit den beiden benötigten Times-New-Roman-Schriften angeben.
+Der Builder verwendet `scripts/fixtures/vergesellschaftung-artikel-15/case.json` und schreibt ausschließlich die elf dort benannten Originale in den Aktenordner. Mit `--output /tmp/vergesellschaftung-artikel-15-rebuild` ist ein separater Vergleichsbuild möglich. `--font-dir` kann ein Verzeichnis mit den beiden Times-New-Roman-Schriften angeben; ohne Angabe greift die vorhandene portable Schriftwahl.
 
 DOCX-Renderbeispiel; entsprechend für 03 und 07 ausgeführt:
 
 ```bash
-/Users/klotzkette/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 /Users/klotzkette/.codex/plugins/cache/openai-primary-runtime/documents/26.905.11957/skills/documents/render_docx.py testakten/vergesellschaftung-energienetz-hessen/02_Arbeitsfassung_Netzgesetz_20260914.docx --output_dir /tmp/vergesellschaftung-artikel-15-qa/02 --emit_pdf
+python3 "$AKTEN_DOCX_RENDERER" testakten/vergesellschaftung-energienetz-hessen/02_Arbeitsfassung_Netzgesetz_20260914.docx --output_dir /tmp/vergesellschaftung-artikel-15-qa/02 --emit_pdf
 ```
 
 PDF-Renderbeispiel; entsprechend für 06 und 09 ausgeführt:
 
 ```bash
-/opt/homebrew/bin/pdftoppm -r 120 -png testakten/vergesellschaftung-energienetz-hessen/05_Beteiligungen_und_Titelangaben_20260917.pdf /tmp/vergesellschaftung-artikel-15-qa/05
+pdftoppm -r 120 -png testakten/vergesellschaftung-energienetz-hessen/05_Beteiligungen_und_Titelangaben_20260917.pdf /tmp/vergesellschaftung-artikel-15-qa/05
 ```
 
 ## 5. Amtliche Quellen und Prüfgrenzen
@@ -65,8 +65,8 @@ Ein eigenständiger Digital-Omnibus-Exkurs wurde auf Wunsch entfernt. Betriebsbe
 
 ## 6. Geänderte Pfade und Integration
 
-Eigener Lieferumfang: `vergesellschaftung-artikel-15/`, `testakten/vergesellschaftung-energienetz-hessen/`, `scripts/fixtures/vergesellschaftung-artikel-15/case.json`, `scripts/build-vergesellschaftung-artikel-15-akte.py`, `scripts/test-vergesellschaftung-artikel-15.py`, `quality/evals/vergesellschaftung-artikel-15.json` und dieser Prüfbericht. Keine Commits oder Pushes; keine Änderungen an globalen Indizes, Root-Marktplatz oder globaler Promptprofilkonfiguration.
+Fachlicher Lieferumfang: `vergesellschaftung-artikel-15/`, `testakten/vergesellschaftung-energienetz-hessen/`, `scripts/fixtures/vergesellschaftung-artikel-15/case.json`, `scripts/build-vergesellschaftung-artikel-15-akte.py`, `scripts/test-vergesellschaftung-artikel-15.py`, `quality/evals/vergesellschaftung-artikel-15.json` und dieser Prüfbericht. Die globale Integration wird zusätzlich geprüft.
 
 Die zentrale Integration erzeugt Gesamt-PDF, Originalformat-ZIP, Einzel-PDF-ZIP und Downloadlinks. In beide ZIP-Wurzeln gehört die unveränderte zweisprachige `README.txt`; weder Warnseiten noch Bewertungsunterlagen gehören in die PDFs. Die technische Rubrik erwartet das Gesamt-PDF erst nach diesem Schritt. Das Originalinventar umfasst exakt die elf in der Fixture benannten Dateien, nicht README, Rubrik, Quellen, Fixtures oder Qualitätsprofil.
 
-Werkstatt und Schnellstart sind handkuratiert. Vor globalen Generatorläufen müssen sie in der zentralen Promptprofilkonfiguration gegen Überschreiben geschützt werden; diese zentrale Datei wurde hier ausdrücklich nicht bearbeitet. Die redaktionellen Hashes dürfen nur nach neuer Prüfung geändert werden.
+Werkstatt und Schnellstart sind handkuratiert und zentral gegen Überschreiben geschützt. Die redaktionellen Hashes dürfen nur nach neuer Prüfung geändert werden.

@@ -1,10 +1,20 @@
 {
   "name": "vergesellschaftung-artikel-15",
-  "version": "445.11.0",
+  "version": "445.13.0",
   "description": "Vergesellschaftung nach Artikel 15 GG: Gegenstände und Anteile, Landeskompetenz und Hessenrecht, gemeinwirtschaftliche Trägerschaft, Gesetzesentwurf, Entschädigung, Energienetze, Unionsrecht und Rechtsschutz aus der konkreten Akte bearbeiten.",
-  "author": {"name": "Klotzkette", "email": "39582916+Klotzkette@users.noreply.github.com"},
+  "author": {
+    "name": "Klotzkette",
+    "email": "39582916+Klotzkette@users.noreply.github.com"
+  },
   "license": "Apache-2.0 OR MIT",
-  "keywords": ["vergesellschaftung", "artikel-15", "hessen", "energienetze", "gemeinwirtschaft", "entschaedigung"],
+  "keywords": [
+    "vergesellschaftung",
+    "artikel-15",
+    "hessen",
+    "energienetze",
+    "gemeinwirtschaft",
+    "entschaedigung"
+  ],
   "skills": "./skills/",
   "interface": {
     "displayName": "Vergesellschaftung nach Artikel 15 GG",
@@ -12,7 +22,12 @@
     "longDescription": "Neun eigenständige Arbeitsabläufe für Gegenstände, Hessenrecht, Gemeinwirtschaft, Entschädigung, Energienetze, Stellungnahmen und Rechtsschutz.",
     "developerName": "Klotzkette",
     "category": "Productivity",
-    "capabilities": ["Interactive", "Write"],
-    "defaultPrompt": ["Lesen Sie die Netzakte und erstellen Sie unsere kommunale Stellungnahme zur Vergesellschaftung."]
+    "capabilities": [
+      "Interactive",
+      "Write"
+    ],
+    "defaultPrompt": [
+      "Lesen Sie die Netzakte und erstellen Sie unsere kommunale Stellungnahme zur Vergesellschaftung."
+    ]
   }
 }

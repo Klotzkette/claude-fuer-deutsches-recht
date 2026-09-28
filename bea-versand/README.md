@@ -9,7 +9,7 @@
 
 Ein Skill für die beA-Versandvorbereitung beliebiger Dokumente: Anlagen aus Inhalt und Kontext zuordnen, PDF-Kopien erzeugen, erste Anlagenseiten stempeln und Dateien passend benennen. Mit einem Werkstatt-Prompt und der Modefuchs-Testakte.
 
-Dieses Plugin gehört zum Marketplace mit 247 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg der eigenständige Werkstatt-Prompt für die vollständige Bearbeitung. Verknüpfte Hilfsdateien müssen beim eigenständigen Einsatz zusätzlich bereitstehen.
+Dieses Plugin gehört zum Marketplace mit 251 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg der eigenständige Werkstatt-Prompt für die vollständige Bearbeitung. Verknüpfte Hilfsdateien müssen beim eigenständigen Einsatz zusätzlich bereitstehen.
 
 <!-- decimal-anchor --> <a id="welche-datei-wofür--which-file-should-i-use"></a>
 
@@ -50,7 +50,7 @@ Ohne Installation den vollständigen Werkstatt-Prompt unten als MD oder TXT heru
 | Großer Prompt (Werkstatt) | Markdown / identisches TXT | [`bea-versand-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bea-versand/bea-versand-werkstatt.md) · [`bea-versand-werkstatt.txt`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bea-versand/bea-versand-werkstatt.txt) |
 | Zugeordnete Testakten | PDF / ZIP | [eine zugeordnete Akte](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 247 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); der Werkstatt-Prompt bleibt ein direkter Download.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 251 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); der Werkstatt-Prompt bleibt ein direkter Download.
 
 <!-- decimal-anchor --> <a id="zugeordnete-testakten"></a>
 

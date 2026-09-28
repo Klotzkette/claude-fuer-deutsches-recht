@@ -22,7 +22,9 @@ Jeder Stage besitzt eine eigene `checksums-sha256.txt`; sie zählt beim Limit mi
 Die Hauptrelease-Prüfsummen nennen keine ausschließlichen Companion-Dateien.
 Die Prüfsummen im vollständigen `dist` sind nur ein Build-Artefakt, keine Liste
 der Remote-Assets eines einzelnen Releases. Bei der geplanten Gesamtzahl 1003
-ergeben sich 995 Hauptrelease-Assets und 9 Companion-Assets inklusive Prüfsummen.
+ergaben sich 995 Hauptrelease-Assets und 9 Companion-Assets inklusive Prüfsummen.
+Weitere neue Pakete werden bei jedem Build erneut gezählt; die Aufteilung darf
+die Grenze nicht lediglich aufgrund dieser historischen Beispielzahl freigeben.
 Eine leere `companion_case_slugs`-Liste erzeugt nur den Hauptrelease-Stage und
 behält den bisherigen Publisher-Ablauf bei; das 1000er-Limit gilt weiterhin.
 

@@ -8,7 +8,7 @@ English: Workshop prompts are the detailed standalone workflow; quick-start prom
 
 [Werkstatt-Prompts](#werkstatt-prompts) · [HOAI-Phasen-Werkstätten](#hoai-phasen-werkstätten) · [Schnellstart-Prompts](#schnellstart-prompts)
 
-Vollständigkeit: **247 von 247 Plugins**, also 100.0 Prozent.
+Vollständigkeit: **251 von 251 Plugins**, also 100.0 Prozent.
 
 ## Werkstatt-Prompts
 

@@ -1,6 +1,6 @@
 # Release-Asset-Index
 
-Stand: v445.12.0, automatisch aktualisierte Asset-Übersicht
+Stand: v445.13.0, automatisch aktualisierte Asset-Übersicht
 
 [Repository-Start](README.md) · [Plugin-Katalog](README.md#was-ist-drin) · [Skill-Gesamtübersicht](SKILLS.md) · [Schwerpunkt-Prompts](SCHWERPUNKTE.md) · [HOAI-Phasen-Werkstätten](docs/bauwirtschaft-hoai-phasen.md) · [Qualitätslabor](QUALITY.md) · [Testakten](testakten/README.md) · [Aktueller Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest)
 
@@ -22,7 +22,7 @@ Stand: v445.12.0, automatisch aktualisierte Asset-Übersicht
 
 ## Akten-Begleitrelease
 
-Die folgenden Akten-ZIPs liegen im versionsgleichen [Begleitrelease `akten-v445.11.0`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/akten-v445.11.0). Die vollständigen Akten-Sammelpakete und `alles-komplettpaket.zip` bleiben im Hauptrelease. Bestehende Downloads bleiben unverändert.
+Die folgenden Akten-ZIPs liegen im versionsgleichen [Begleitrelease `akten-v445.13.0`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/akten-v445.13.0). Die vollständigen Akten-Sammelpakete und `alles-komplettpaket.zip` bleiben im Hauptrelease. Bestehende Downloads bleiben unverändert.
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
@@ -30,19 +30,19 @@ Die folgenden Akten-ZIPs liegen im versionsgleichen [Begleitrelease `akten-v445.
 
 | Akte | Originaldateien | Einzel-PDFs |
 | --- | --- | --- |
-| [ki-hochrisiko-bewerbungsauswahl-kassel](testakten/ki-hochrisiko-bewerbungsauswahl-kassel/README.md) | [Akten-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.11.0/testakte-ki-hochrisiko-bewerbungsauswahl-kassel.zip) | [Einzel-PDF-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.11.0/testakte-ki-hochrisiko-bewerbungsauswahl-kassel-einzelpdfs.zip) |
-| [ki-transparenz-kanzlei-kommunikation-mainz](testakten/ki-transparenz-kanzlei-kommunikation-mainz/README.md) | [Akten-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.11.0/testakte-ki-transparenz-kanzlei-kommunikation-mainz.zip) | [Einzel-PDF-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.11.0/testakte-ki-transparenz-kanzlei-kommunikation-mainz-einzelpdfs.zip) |
-| [vergesellschaftung-energienetz-hessen](testakten/vergesellschaftung-energienetz-hessen/README.md) | [Akten-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.11.0/testakte-vergesellschaftung-energienetz-hessen.zip) | [Einzel-PDF-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.11.0/testakte-vergesellschaftung-energienetz-hessen-einzelpdfs.zip) |
-| [enteignung-verkehrsflaeche-goettingen](testakten/enteignung-verkehrsflaeche-goettingen/README.md) | [Akten-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.11.0/testakte-enteignung-verkehrsflaeche-goettingen.zip) | [Einzel-PDF-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.11.0/testakte-enteignung-verkehrsflaeche-goettingen-einzelpdfs.zip) |
+| [ki-hochrisiko-bewerbungsauswahl-kassel](testakten/ki-hochrisiko-bewerbungsauswahl-kassel/README.md) | [Akten-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.13.0/testakte-ki-hochrisiko-bewerbungsauswahl-kassel.zip) | [Einzel-PDF-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.13.0/testakte-ki-hochrisiko-bewerbungsauswahl-kassel-einzelpdfs.zip) |
+| [ki-transparenz-kanzlei-kommunikation-mainz](testakten/ki-transparenz-kanzlei-kommunikation-mainz/README.md) | [Akten-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.13.0/testakte-ki-transparenz-kanzlei-kommunikation-mainz.zip) | [Einzel-PDF-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.13.0/testakte-ki-transparenz-kanzlei-kommunikation-mainz-einzelpdfs.zip) |
+| [vergesellschaftung-energienetz-hessen](testakten/vergesellschaftung-energienetz-hessen/README.md) | [Akten-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.13.0/testakte-vergesellschaftung-energienetz-hessen.zip) | [Einzel-PDF-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.13.0/testakte-vergesellschaftung-energienetz-hessen-einzelpdfs.zip) |
+| [enteignung-verkehrsflaeche-goettingen](testakten/enteignung-verkehrsflaeche-goettingen/README.md) | [Akten-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.13.0/testakte-enteignung-verkehrsflaeche-goettingen.zip) | [Einzel-PDF-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.13.0/testakte-enteignung-verkehrsflaeche-goettingen-einzelpdfs.zip) |
 
-[SHA-256-Prüfsummen des Begleitreleases](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.11.0/checksums-sha256.txt). Jede Prüfsummenliste gilt ausschließlich für die Dateien ihres eigenen Releases.
+[SHA-256-Prüfsummen des Begleitreleases](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.13.0/checksums-sha256.txt). Jede Prüfsummenliste gilt ausschließlich für die Dateien ihres eigenen Releases.
 
 ## Kanzleianleitungen
 | Dokument | Verwendung |
 | --- | --- |
 | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/docs/anbieterneutrale-schnittstelle-kanzlei.odt" download><code>anbieterneutrale-schnittstelle-kanzlei.odt</code></a> | Anbieterneutrale Einrichtung, technischer Dummy-Test, Fachabnahme und Freigabevermerk für kleine Kanzleien. |
 
-## Plugin-Assets (247 Stück)
+## Plugin-Assets (251 Stück)
 
 Alle Plugins sind alphabetisch sortiert. Werkstatt- und Schnellstart-Prompts werden über die statische Downloadseite als Markdown-Dateien gespeichert, statt in einer Quelltextvorschau geöffnet zu werden. Es gibt dafür keine eigenen ZIP-Assets im Release.
 

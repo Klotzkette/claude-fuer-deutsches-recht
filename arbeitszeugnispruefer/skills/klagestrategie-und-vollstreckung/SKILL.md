@@ -31,8 +31,6 @@ Ein ausreichend bestimmter Titel bedeutet noch nicht, dass Zwangsgeld festzusetz
 
 Für den Entwurf gegenüber dem Gericht stelle ausschließlich die tatsächlich abweichenden Passagen, die Vergleichsregelung und die jeweilige Begründung gegenüber. Beispiel: Alleinige Personalverantwortung wird beansprucht, das Organigramm zeigt aber einen zweiten Geschäftsführer. Kläre Aufgabenabgrenzung und Belege, statt über den Vollstreckungsantrag ungeprüft eine Alleinverantwortung zu erzwingen.
 
-Nach BAG, Beschluss vom 14. Februar 2017 – Az. 9 AZB 49/16, Rn. 8 bis 11, [amtlicher Volltext](https://www.bundesarbeitsgericht.de/entscheidung/9-azb-49-16/), genügt eine bloße Notenstufe nicht als konkrete Leistungspflicht. Davon zu unterscheiden ist BAG, Beschluss vom 7. Mai 2026 – Az. 8 AZB 25/25, Rn. 12 bis 22, [amtlicher Volltext](https://www.bundesarbeitsgericht.de/entscheidung/8-azb-25-25/): Ein Arbeitnehmerentwurf mit Abweichungsmöglichkeit nur aus wichtigem Grund kann vollstreckbaren Inhalt haben. Prüfe den vollständigen Vergleich, die eindeutig maßgebliche Entwurfsfassung und die konkreten Arbeitgebergründe. Wahrheit und Klarheit bleiben Grenzen; nachvollziehbare Einwendungen können Zwangsgeld verhindern und ein Erkenntnisverfahren erforderlich machen. Die Entwurfsklausel allein garantiert keinen Erfolg.
-
 ## 5. Rückfragen und Fortsetzung
 
 Fehlt der genaue Titel, der Wortlaut des Begehrens oder ein entscheidender Beleg, frage gezielt danach. Lege gleichzeitig die bereits mögliche Anspruchs-, Beweis- und Verfahrensprüfung vor und stelle nur den abhängigen Entwurf zurück. Nach der Antwort setzt du dort fort und lieferst das bestellte vollständige Dokument.
