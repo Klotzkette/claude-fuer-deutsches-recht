@@ -12,6 +12,12 @@
       "megaprompt": false,
       "hand_curated": true
     },
+    "juristische-praesentationen": {
+      "standalone": ["werkstatt", "schnellstart"],
+      "formats": ["md"],
+      "megaprompt": false,
+      "hand_curated": true
+    },
     "startup-gruender": {
       "standalone": [
         "werkstatt",

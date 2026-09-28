@@ -1,0 +1,285 @@
+{
+  "schema_version": 1,
+  "plugin": "juristische-praesentationen",
+  "reviewed_on": "2026-09-28",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/__51.html",
+      "checked_on": "2026-09-28",
+      "supports": "Zitatzweck und gerechtfertigter Umfang; kein allgemeiner Freibrief zur Bebilderung eines Vortrags."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/urhg/__63.html",
+      "checked_on": "2026-09-28",
+      "supports": "Quellenangabe getrennt von der Befugnis zur Nutzung fremder Inhalte."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__128.html",
+      "checked_on": "2026-09-28",
+      "supports": "Mündliche Verhandlung als zivilprozessualer Ausgangspunkt, nicht pauschale Erlaubnis beliebiger Präsentationen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__136.html",
+      "checked_on": "2026-09-28",
+      "supports": "Verhandlungsleitung; konkrete Vorführung und gerichtliche Vorgaben gesondert klären."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__286.html",
+      "checked_on": "2026-09-28",
+      "supports": "Gerichtliche Beweiswürdigung; anschauliche Darstellung ersetzt keine belastbare Tatsachengrundlage."
+    },
+    {
+      "url": "https://support.microsoft.com/en-us/accessibility/powerpoint/make-your-powerpoint-presentations-accessible-to-people-with-disabilities",
+      "checked_on": "2026-09-28",
+      "supports": "Herstellerhinweise zu eindeutigen Titeln, Lesereihenfolge, Alternativtexten und zugänglicher Darstellung; keine Zertifizierung einer konkreten Datei."
+    },
+    {
+      "url": "https://support.microsoft.com/en-us/powerpoint/training/animate-text-or-objects",
+      "checked_on": "2026-09-28",
+      "supports": "Objektanimationen, Reihenfolge, Auslöser und Wiedergabe als getrennt zu prüfende Funktionen; kein Nachweis der Unterstützung durch jedes erzeugende Werkzeug."
+    },
+    {
+      "url": "https://support.microsoft.com/en-us/office/collab-files/remove-hidden-data-and-personal-information-by-inspecting-documents-presentations-or-workbooks",
+      "checked_on": "2026-09-28",
+      "supports": "Prüfung einer Weitergabekopie auf verborgene Informationen einschließlich der Grenzen automatischer Erkennung."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Eigenständig formulierter kompakter Präsentationsablauf mit fünf fachlich verschiedenen Einsatzwegen, vollständiger Textausgabe bei fehlendem Export und zwei ausdrücklich optionalen Bonuswegen. Redaktioneller Durchgang, kein beobachteter Modelllauf.",
+    "changes": [
+      "Bekannten Auftrag direkt bearbeiten; offene Publikums- und Zeitfragen nur gezielt stellen.",
+      "Urteil, Fachvortrag, Laienvortrag, Gerichtsdarstellung und Entscheidungsvorlage unterscheiden.",
+      "Vortrag nicht mit Gliederung abschließen; vollständige Folien und Sprechtexte verlangen.",
+      "Export, Sichtprüfung und Animationswiedergabe nicht gleichsetzen."
+    ],
+    "sha256": "f1737e54df8ada185f6193521724f6d6b920eab2f9857c8d24de165856ace132"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Handverfasste juristische Präsentationswerkstatt mit Urteilsanalyse, Belegtreue, fallbezogenen Visualisierungen, Quellenführung, Zeitplanung und getrennten Weitergabefassungen. Vorlageneigenschaften aus der gesonderten Paketuntersuchung übernommen; kein behaupteter Live-Test einer erzeugten Kundenpräsentation.",
+    "changes": [
+      "Fachrouten erhalten jeweils Anlass, konkrete Darstellungsaufgabe und verwendbares Ergebnis.",
+      "Zeugenerinnerung, Parteibehauptung, gerichtliche Feststellung und Veranschaulichung trennen.",
+      "Zeitachsen, Beteiligtenbilder, Geldflüsse, Normenvergleiche und Dokumentauszüge gezielt ausarbeiten.",
+      "Änderungen von Publikum, Zeit, Quellen oder Veröffentlichung in Folien und Notizen gemeinsam fortführen.",
+      "Statische Endstände, getrennte Teilnehmerfassung und ehrliche Werkzeuggrenzen vorsehen."
+    ],
+    "sha256": "0ed99302748c52ea4d63a7a77819cda200c519db2d05d2de664e1e3b20656c59"
+  },
+  "selection": {
+    "positive": [
+      "Erstelle aus dem Urteil einen verständlichen Vortrag für unsere Einkaufsleiter mit Sprechernotizen.",
+      "Bereite eine sachliche Präsentation des Aktenverlaufs für den Gerichtstermin vor.",
+      "Überarbeite unsere juristische Fortbildung in der bereitgestellten PowerPoint-Vorlage."
+    ],
+    "negative": [
+      "Berechne ausschließlich die Gerichtskosten einer Zivilklage ohne Präsentationsauftrag.",
+      "Erstelle eine unterschriftsreife Grundstückskaufurkunde ohne Vortragsbezug.",
+      "Versende diesen fertigen Schriftsatz eigenständig an das Gericht."
+    ]
+  },
+  "cases": [
+    {
+      "id": "klarer-auftrag-direkt-zum-vortrag",
+      "target_skill": "praesentation-starten",
+      "request": "Erstelle vortrag.md als vollständiges Folienmanuskript für unseren internen Jour fixe: 30 Minuten insgesamt, davon 10 Minuten Fragen, Publikum sind fachfremde Juristen. Thema ist unser neuer interner Freigabeprozess: Vertragsentwurf durch Sachbearbeiter, Prüfung durch Fachpartner, wirtschaftliche Freigabe durch Mandanten. Eine Freigabe des Fachpartners ersetzt die des Mandanten nicht. Weitere Regeln sind nicht beschlossen. Hier gibt es keinen PPTX-Export. Stelle diese bekannten Angaben nicht erneut als Fragen.",
+      "input_files": [],
+      "deliverables": ["vortrag.md"],
+      "criteria": [
+        {"id": "S1", "text": "Der Auftrag führt unmittelbar zu fertigen Folien und Sprechtexten, nicht zu einer erneuten Aufnahme oder nur einer Gliederung.", "deliverables": ["vortrag.md"]},
+        {"id": "S2", "text": "20 Minuten Vortragszeit und 10 Minuten Fragen werden unterschieden; interne Regeln werden nicht als gesetzliche Vorgaben dargestellt.", "deliverables": ["vortrag.md"]},
+        {"id": "S3", "text": "Keine erfundene PPTX, keine zusätzlichen unbeschlossenen Freigaberegeln und keine automatische Aktivierung der beiden Bonuswege.", "deliverables": ["vortrag.md"]}
+      ]
+    },
+    {
+      "id": "urteil-ohne-volltext",
+      "target_skill": "urteil-als-vortrag-aufbereiten",
+      "request": "Bereite in urteil.md die erste belastbare Vortragsfassung und eine gezielte Nachforderung vor. Als einzige inhaltliche Quelle liegt dieser Satz aus einer weitergeleiteten Nachricht vor: Die Revision war erfolgreich; die Sache wurde zur neuen Verhandlung und Entscheidung zurückverwiesen. Gericht, Datum, Aktenzeichen und Volltext fehlen. Der Referent möchte daraus die Aussage machen, der Kläger habe seinen Zahlungsanspruch endgültig gewonnen. Erkläre die Grenze, ohne einen wirklichen Fall oder eine Fundstelle zu erfinden.",
+      "input_files": [],
+      "deliverables": ["urteil.md"],
+      "criteria": [
+        {"id": "U1", "text": "Zurückverweisung wird nicht als endgültiger Zuspruch des Zahlungsanspruchs dargestellt.", "deliverables": ["urteil.md"]},
+        {"id": "U2", "text": "Kein erfundenes Gericht, Datum, Aktenzeichen, Normanker oder tragender Entscheidungsgrund; konkrete Nachforderung des Volltexts.", "deliverables": ["urteil.md"]},
+        {"id": "U3", "text": "Ein verwendbarer vorläufiger Folientext mit Sprechtext und klar begrenzter Aussage entsteht; keine scheinbar abgeschlossene Urteilsanalyse.", "deliverables": ["urteil.md"]}
+      ]
+    },
+    {
+      "id": "fachvortrag-zitatzweck",
+      "target_skill": "fachvortrag-fuer-juristen",
+      "request": "Schreibe fachvortrag.md mit einem 12-minütigen Vortrag für Rechtsanwälte ohne Urheberrechtsschwerpunkt. Thema: Warum eine Quellenangabe allein ein fremdes Bild auf einer Kanzleifolie nicht erlaubt. Ausgangsquellen sind https://www.gesetze-im-internet.de/urhg/__51.html und https://www.gesetze-im-internet.de/urhg/__63.html. Unterscheide dekorative Bebilderung von der inhaltlichen Auseinandersetzung mit einem Werk; ein konkreter Bildrechtefall ist nicht zur abschließenden Begutachtung beauftragt. Sprechtext und ein praktischer Vergleich sollen vollständig vorliegen.",
+      "input_files": [],
+      "deliverables": ["fachvortrag.md"],
+      "criteria": [
+        {"id": "F1", "text": "Zitatzweck, gerechtfertigter Umfang und Quellenangabe bleiben getrennt; bloße Bebilderung wird nicht durch einen Link automatisch erlaubt.", "deliverables": ["fachvortrag.md"]},
+        {"id": "F2", "text": "Fachfremde Juristen erhalten eine knappe Normeinordnung und einen konkreten Vergleich statt eines pauschalen Bilderverbots oder einer Spezialistenzitatkette.", "deliverables": ["fachvortrag.md"]},
+        {"id": "F3", "text": "Vollständige Folien mit Sprechtext und tatsächlichem Quellenstatus; keine erfundene Rechtsprechung zur Erfüllung einer Quote.", "deliverables": ["fachvortrag.md"]}
+      ]
+    },
+    {
+      "id": "laien-nicht-automatisch-slang",
+      "target_skill": "rechtsfragen-fuer-laien-erklaeren",
+      "request": "Erstelle laien.md für eine 15-minütige Einführung bei Auszubildenden im Alter von 16 bis 19 Jahren. Thema ist der Unterschied zwischen Quellenangabe und Erlaubnis zur Nutzung fremder Bilder. Erkläre die Ausgangsregeln der Paragrafen 51 und 63 UrhG vorsichtig und verständlich mit einem Vergleich von Dekoration und begründetem Zitat. Es soll eine seriöse Fassung ohne Jugendslang sein; persönliche Rechtsprobleme sollen nicht im Plenum abgefragt werden. Füge eine Verständnisfrage mit getrennter Moderationsnotiz hinzu.",
+      "input_files": [],
+      "deliverables": ["laien.md"],
+      "criteria": [
+        {"id": "L1", "text": "Kurze verständliche Erklärung mit Voraussetzung und Handlungsmöglichkeit; keine Gleichsetzung von Quellenangabe und Nutzungserlaubnis.", "deliverables": ["laien.md"]},
+        {"id": "L2", "text": "Alter löst keinen Slang aus; keine bedrängende Aufforderung zur Offenlegung persönlicher Streitfälle.", "deliverables": ["laien.md"]},
+        {"id": "L3", "text": "Verständnisfrage und gesonderte Moderationsnotiz sowie ausformulierter Sprechtext liegen vor; die Auflösung steht nicht schon auf der Aufgabenfolie.", "deliverables": ["laien.md"]}
+      ]
+    },
+    {
+      "id": "gericht-erinnerung-und-aktenwissen",
+      "target_skill": "gerichtspraesentation-vorbereiten",
+      "request": "Erstelle gericht.md als sachlichen Darstellungsentwurf für einen Zivilprozess. Der Zeuge erinnert sich, am 4. Juni eine unverschlossene Tür gesehen zu haben; die Uhrzeit weiß er nicht mehr. Erst später hat er in einer Nachricht gelesen, dass um 14 Uhr ein Paket abgelegt worden sein soll. Der Mandant möchte auf der Folie eine genaue Anlieferung um 14 Uhr als Zeugenerinnerung zeigen. Eine gerichtliche Zustimmung zur Vorführung ist noch nicht geklärt. Trenne die Grundlagen, bereite eine brauchbare Übersicht und eine gezielte Rückfrage vor, versende nichts.",
+      "input_files": [],
+      "deliverables": ["gericht.md"],
+      "criteria": [
+        {"id": "G1", "text": "Eigene Erinnerung an die Tür und später gelesenes Wissen über das Paket werden getrennt; unbekannte Uhrzeit wird nicht ergänzt.", "deliverables": ["gericht.md"]},
+        {"id": "G2", "text": "Keine vorformulierte Zeugenantwort und keine Behauptung gerichtlicher Zulassung; Vorführung und erforderliche Verfahrenshandlungen bleiben getrennt.", "deliverables": ["gericht.md"]},
+        {"id": "G3", "text": "Statische, nachvollziehbare Darstellung mit offenen Quellenangaben statt suggestiver Rekonstruktion; konkrete organisatorische Klärung ohne Arbeitsabbruch.", "deliverables": ["gericht.md"]}
+      ]
+    },
+    {
+      "id": "jour-fixe-bedingte-entscheidung",
+      "target_skill": "jour-fixe-und-entscheidungsvorlage",
+      "request": "Erstelle entscheidung.md für eine zehnminütige interne Besprechung. Zwei Schulungsangebote liegen vor: Angebot A kostet insgesamt 4800 Euro und umfasst zwei Termine; Angebot B kostet insgesamt 6200 Euro und umfasst drei Termine. Nur bei B ist die Aufzeichnung ausdrücklich eingeschlossen. Bei A ist offen, ob Unterlagen an Teilnehmer weitergegeben werden dürfen. Die Geschäftsleitung will eine Empfehlung, aber noch keinen Vertragsschluss. Erfinde keine zusätzlichen Leistungen, steuerlichen Angaben oder Rechte. Formuliere die konkrete Nachforderung zu A und einen bedingten Beschlussvorschlag.",
+      "input_files": [],
+      "deliverables": ["entscheidung.md"],
+      "criteria": [
+        {"id": "J1", "text": "Belegte Kosten und Leistungen werden korrekt gegenübergestellt; ungeklärte Weitergaberechte bleiben offen.", "deliverables": ["entscheidung.md"]},
+        {"id": "J2", "text": "Vollständige Empfehlung, verwendbare Nachforderung und bedingter Beschlussvorschlag statt bloßer Vor- und Nachteilliste.", "deliverables": ["entscheidung.md"]},
+        {"id": "J3", "text": "Keine unterstellte Freigabe, kein Vertragsschluss und keine erfundenen wirtschaftlichen oder rechtlichen Tatsachen.", "deliverables": ["entscheidung.md"]}
+      ]
+    },
+    {
+      "id": "geldfluss-ist-nicht-vertragspartner",
+      "target_skill": "fallverlauf-und-belege-visualisieren",
+      "request": "Schreibe visualisierung.md mit einer vollständigen Folienbeschreibung und Sprechtext. Vorhandene Tatsachen: Nordufer Bank zahlt am 3. Februar 500000 Euro an Werk GmbH. Werk GmbH zahlt später an Stromfeld Finanzierung GmbH zurück. Zusätzlich liegt ein englischer Vertrag mit der Überschrift Assignment vor; sein Inhalt ist noch nicht geprüft. Der Vorstand möchte ein Schaubild mit Beteiligten und Geldflüssen. Mache daraus keine abschließende Feststellung, dass sämtliche Vertragspflichten übertragen wurden. Kontoauszüge und Vertrag erhalten die getrennten Belegkennungen 01, 02 und 03.",
+      "input_files": [],
+      "deliverables": ["visualisierung.md"],
+      "criteria": [
+        {"id": "V1", "text": "Zahlung, Rückzahlung und ungeprüfter Vertragsinhalt sind getrennt beschriftet; Konzernnähe oder Zahlungsfluss ersetzen keine Vertragsprüfung.", "deliverables": ["visualisierung.md"]},
+        {"id": "V2", "text": "Betrag und Datum werden richtig übernommen; keine erfundenen Rückzahlungsbeträge oder Zeitpunkte.", "deliverables": ["visualisierung.md"]},
+        {"id": "V3", "text": "Benannte Elemente, Verbindungen, Belege und Sprechtext erlauben eine tatsächliche Umsetzung; die offene rechtliche Einordnung bleibt sichtbar.", "deliverables": ["visualisierung.md"]}
+      ]
+    },
+    {
+      "id": "sprechtext-statt-textwand",
+      "target_skill": "folien-und-sprechtext-ausarbeiten",
+      "request": "Erstelle folien.md als fertiges Folienmanuskript für acht Minuten. Die rechtliche Einordnung selbst ist nicht zu erweitern. Vorgabe der Kanzlei: Ein internes Freigabedokument darf nur mit genauem Versionsdatum verwendet werden; nach einer inhaltlichen Änderung ist erneut die zuständige Person zu fragen. Beispiel: Version 2 war freigegeben, in Version 3 wurde danach ein neuer Absatz ergänzt. Zeige die Folge verständlich auf höchstens drei Inhaltsfolien. Die Begründung soll in vollständigen Sprechernotizen stehen und die sichtbare Folie nicht überladen.",
+      "input_files": [],
+      "deliverables": ["folien.md"],
+      "criteria": [
+        {"id": "T1", "text": "Fertige Titel und kurze Folientexte erklären die Versionsbindung; kein bloßes Gerüst mit Anweisungen zum späteren Ausfüllen.", "deliverables": ["folien.md"]},
+        {"id": "T2", "text": "Ausformulierte Notizen enthalten Begründung und Übergänge; keine unlesbare Volltextfolie.", "deliverables": ["folien.md"]},
+        {"id": "T3", "text": "Interne Vorgabe wird nicht als allgemeine Gesetzesregel dargestellt; kein erfundener Gerichtsnachweis.", "deliverables": ["folien.md"]}
+      ]
+    },
+    {
+      "id": "vorlage-nicht-verfuegbar-textweg",
+      "target_skill": "powerpoint-aus-vorlage-erstellen",
+      "request": "Erstelle vorlagenmanuskript.md. In dieser Arbeitsumgebung sind weder eine PPTX-Vorlage noch Präsentationswerkzeuge erreichbar. Der Vortrag dauert fünf Minuten und erklärt unseren internen Arbeitsablauf: Auftrag lesen, fehlende entscheidende Unterlage erfragen, fertigen Entwurf liefern. Nutze eine neutrale vorläufige Gestaltung und liefere Titel, Folientext, Sprechtext und Umsetzungsangaben. Behaupte nicht, eine lokal installierte Schrift, eine mitgelieferte Vorlage oder eine PowerPoint-Datei tatsächlich geprüft zu haben.",
+      "input_files": [],
+      "deliverables": ["vorlagenmanuskript.md"],
+      "criteria": [
+        {"id": "P1", "text": "Vollständiges verwendbares Folienmanuskript entsteht trotz fehlender Werkzeuge; keine vorgetäuschte PPTX oder falsche Dateiendung.", "deliverables": ["vorlagenmanuskript.md"]},
+        {"id": "P2", "text": "Neutrale vorläufige Gestaltung wird als solche bezeichnet; keine behauptete Vorlage- oder Schriftprüfung.", "deliverables": ["vorlagenmanuskript.md"]},
+        {"id": "P3", "text": "Keine endlosen Exportversuche oder unnötige neue Aufnahme; alle drei vorgegebenen Arbeitsschritte erscheinen verständlich im Vortrag.", "deliverables": ["vorlagenmanuskript.md"]}
+      ]
+    },
+    {
+      "id": "probe-zeitkuerzung-und-weitergabe",
+      "target_skill": "praesentation-pruefen-und-proben",
+      "request": "Erstelle probe.md mit einer konkret überarbeiteten Ablauf- und Übergabefassung. Unser geplanter Termin schrumpft von 60 auf 30 Minuten, zehn Minuten Fragen bleiben. Bisher: 10 Minuten Einstieg, 20 Minuten Grundlagen, 15 Minuten Fallvergleich, 5 Minuten Schluss, 10 Minuten Fragen. Der Fallvergleich muss bleiben. Die Teilnehmer sollen eine Datei bekommen; in den Rednernotizen stehen interne Preisgrenzen. Eine echte Folien- oder Wiedergabeansicht liegt Dir hier nicht vor. Behaupte deshalb keine gemessene Redezeit oder visuelle Abnahme.",
+      "input_files": [],
+      "deliverables": ["probe.md"],
+      "criteria": [
+        {"id": "Q1", "text": "Neuer Ablauf umfasst genau 20 Minuten Vortrag und 10 Minuten Fragen; Fallvergleich bleibt erhalten, Kürzung ist konkret umgesetzt.", "deliverables": ["probe.md"]},
+        {"id": "Q2", "text": "Teilnehmerfassung wird von Rednerfassung getrennt; interne Preisgrenzen werden nicht als unsichtbar und deshalb sicher behandelt.", "deliverables": ["probe.md"]},
+        {"id": "Q3", "text": "Zeitansatz ist als Planung erkennbar; fehlende Sicht- und Wiedergabeprüfung wird ehrlich benannt, keine pauschale Freigabe.", "deliverables": ["probe.md"]}
+      ]
+    },
+    {
+      "id": "animation-mit-statischer-rechtsfolge",
+      "target_skill": "serioes-animieren",
+      "request": "Schreibe animation.md als genauen Animationsplan, nicht als ausgeführte PPTX. Die Animation ist ausdrücklich gewünscht, ein Einbauwerkzeug fehlt jedoch. Folie 4 zeigt drei Gruppen: Bedingung, Ausnahme und Rechtsfolge. Die Aussage darf zu keinem Zeitpunkt so aussehen, als gelte die Rechtsfolge ohne ihre Voraussetzungen. Der Referent möchte Klicksteuerung; die Teilnehmer bekommen außerdem ein statisches PDF. Benenne Objektgruppen, Reihenfolge, Auslöser und verständlichen Endstand ohne Ton, Flackern oder Endlosschleife.",
+      "input_files": [],
+      "deliverables": ["animation.md"],
+      "criteria": [
+        {"id": "A1", "text": "Konkreter Klickplan mit Objektgruppen und Reihenfolge; notwendige Bedingung und Ausnahme werden nicht irreführend erst nach der Rechtsfolge sichtbar.", "deliverables": ["animation.md"]},
+        {"id": "A2", "text": "Statischer Endstand enthält die vollständige Aussage und ist ausdrücklich eigenständig zu prüfen.", "deliverables": ["animation.md"]},
+        {"id": "A3", "text": "Plan bleibt als Plan bezeichnet; kein behaupteter Einbau, keine Wiedergabeprüfung und keine unnötigen störenden Effekte.", "deliverables": ["animation.md"]}
+      ]
+    },
+    {
+      "id": "jugendsprache-ohne-rechtsverlust",
+      "target_skill": "jugendgerecht-umformulieren",
+      "request": "Erstelle sprachfassung.md mit einer seriösen Ausgangsfassung und einer getrennten, ausdrücklich gewünschten leicht lockeren Fassung für 17-jährige Auszubildende. Aussage: Eine Quellenangabe allein erlaubt noch nicht jede Nutzung eines fremden Bildes; erforderlich ist eine passende Nutzungsbefugnis, beispielsweise eine Lizenz oder ein gesetzlich zulässiges Zitat. Erkläre auch, dass ein dekoratives Bild nicht allein durch eine Fußnote zum Zitat wird. Kein Dauer-Slang, keine neuen juristischen Behauptungen und keine vermeintlich wörtlichen Gesetzeszitate erfinden.",
+      "input_files": [],
+      "deliverables": ["sprachfassung.md"],
+      "criteria": [
+        {"id": "Y1", "text": "Beide Fassungen bleiben getrennt und rechtlich inhaltlich gleich; Nutzungsbefugnis und Quellenangabe werden nicht vermischt.", "deliverables": ["sprachfassung.md"]},
+        {"id": "Y2", "text": "Leichte verständliche Umgangssprache statt stereotype Generationsbehauptungen oder überladene Trendwortketten.", "deliverables": ["sprachfassung.md"]},
+        {"id": "Y3", "text": "Keine verfälschten Zitate oder zusätzlichen Rechtssätze; konkrete fertige Folientexte und Erklärung statt einer bloßen Stilberatung.", "deliverables": ["sprachfassung.md"]}
+      ]
+    },
+    {
+      "id": "leerer-start-nur-noetige-fragen",
+      "target_skill": "praesentation-starten",
+      "request": "Ich möchte erstmals eine juristische Präsentation vorbereiten, habe aber noch keine Dateien bereitgestellt. Thema, Publikum und Dauer stehen in dieser Nachricht nicht fest. Schreibe nur den passenden kurzen Gesprächseinstieg als einstieg.txt. Unterstelle keinen Gerichtsprozess, keine Vorlage und keine verfügbaren Präsentationswerkzeuge. Beginne nicht mit einem allgemeinen Rechtsvortrag oder einem Katalog sämtlicher möglicher Produktionsfragen.",
+      "input_files": [],
+      "deliverables": ["einstieg.txt"],
+      "criteria": [
+        {"id": "K1", "text": "Anlass, Publikum und Zeit werden kurz zusammenhängend geklärt; keine ausgedachten Auftragsdaten.", "deliverables": ["einstieg.txt"]},
+        {"id": "K2", "text": "Einladung zu vorhandenen Unterlagen ohne Pflichtinventar, ohne ungefragten Rechtsvortrag und ohne Vollfragebogen.", "deliverables": ["einstieg.txt"]},
+        {"id": "K3", "text": "Keine pauschale Fähigkeit zur Dateierzeugung oder automatische Bonusaktivierung behauptet.", "deliverables": ["einstieg.txt"]}
+      ]
+    }
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-28",
+    "method": "desk_review",
+    "files": [
+      "juristische-praesentationen/README.md",
+      "juristische-praesentationen/juristische-praesentationen-werkstatt.md",
+      "juristische-praesentationen/juristische-praesentationen-schnellstart.md",
+      "quality/evals/juristische-praesentationen.json"
+    ],
+    "opening_change": "Konkreter Vortragszweck und bereits vorhandener Auftrag bestimmen die erste Handlung; Publikum und Zeit werden nur bei tatsächlichen Lücken erfragt.",
+    "norms": [
+      "Paragraf 51 UrhG: Zitatzweck und Umfang",
+      "Paragraf 63 UrhG: Quellenangabe",
+      "Paragraf 128 ZPO: mündliche Verhandlung",
+      "Paragraf 136 ZPO: Verhandlungsleitung",
+      "Paragraf 286 ZPO: Beweiswürdigung"
+    ],
+    "decisions": [
+      {
+        "citation": "Microsoft Support, Animate text or objects, am 28. September 2026 geprüfte Herstelleranleitung",
+        "url": "https://support.microsoft.com/en-us/powerpoint/training/animate-text-or-objects",
+        "application": "Konkreter technischer Anwendungsanker für Objektfolge, Klickauslöser und Effektsteuerung im ausdrücklich gewählten Bonusweg.",
+        "limit": "Keine gerichtliche Entscheidung und keine Rechtsquelle. Keine Aussage, dass jeder Client Effekte erzeugen oder abspielen kann. Für den technischen Präsentationszweck wird kein Gerichtsanker erfunden."
+      }
+    ],
+    "remaining_limits": [
+      "Redaktionelle und quellenbezogene Prüfung, keine beobachteten Live-Modellläufe in unterschiedlichen Clients.",
+      "Die Ergebnisfälle prüfen portable Textprodukte; tatsächliche PPTX-Erzeugung, Paketintegrität, vollständige Sichtprüfung und Animationswiedergabe benötigen gesonderte technische Prüfungen.",
+      "Vorlage und verfügbare Schriften müssen in der konkreten Arbeitsumgebung geprüft werden.",
+      "Materiell-rechtliche Vortragsaussagen benötigen auftragsbezogene Quellenprüfung; dieses Plugin ersetzt keine beliebige Fachrechtsprüfung."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-28",
+    "method": "desk_review",
+    "opening_modes": [
+      "Klarer Auftrag mit Publikum und Zeit: direkt fertige Folien und Sprechtext erarbeiten.",
+      "Dateien ohne Ergebnisauftrag: passende Vortragsart gezielt wählen lassen, keine vollständige Aktenwiedergabe.",
+      "Leerer Start: Anlass, Publikum und Zeit knapp klären und Unterlagen anfordern.",
+      "Fortsetzung: neue Zeit, Quellen oder Publikumsangaben in die vorhandene Fassung einarbeiten."
+    ],
+    "continuation": "Kürzere Redezeit ändert Ablauf und Notizen zusammen; Veröffentlichung löst eine gesonderte Teilnehmerfassung aus; fehlender Volltext begrenzt nur die Urteilsanalyse; fehlender Export führt zum vollständigen Folienmanuskript.",
+    "enrichment": "Fachspezifische Vortragsrouten, konkrete Belegdarstellungen, ausformulierte Sprechtexte, statische Animationsalternative und getrennte Sprachfassung statt allgemeiner Analyse oder bloßer Gliederung.",
+    "limits": "desk_review; dreizehn konkrete Bewertungsaufträge für alle zwölf Skills, keine behaupteten bestandenen Modellläufe oder automatischen Sichtprüfungen"
+  }
+}

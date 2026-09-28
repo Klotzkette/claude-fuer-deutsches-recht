@@ -28,6 +28,35 @@ class ThemenProfil:
 
 PROFILE: tuple[ThemenProfil, ...] = (
     ThemenProfil(
+        key="juristische-praesentationen",
+        label="Juristische Präsentationen",
+        rolle="Juristische Vorträge aus Unterlagen für das konkrete Publikum mit lesbaren Folien, vollständigen Sprechernotizen und belastbaren Quellen ausarbeiten.",
+        normen=(
+            "Paragrafen 51 und 63 UrhG: Zitatzweck, Umfang und Quellenangabe; keine pauschale Erlaubnis fremder Bilder.",
+            "Paragrafen 128, 136 und 286 ZPO: mündliche Verhandlung, Verhandlungsleitung und Beweiswürdigung; keine allgemeine Folienzulassung.",
+        ),
+        entscheidungen=(),
+        stationen=(
+            "Anlass, Publikum und verfügbare Vortragszeit aus dem Auftrag übernehmen; nur Fehlendes nachfragen.",
+            "Urteil, Fachvortrag, Laienerklärung, Gerichtspräsentation oder Entscheidungsvorlage anhand der konkreten Verwendung wählen.",
+            "Tragende Aussage, Beleg und Einschränkung je Folie verbinden; vollständige Erläuterung in den Notizen ausarbeiten.",
+            "Bearbeitbare Präsentation nach der verfügbaren Vorlage erzeugen oder ein vollständiges Folienmanuskript liefern.",
+            "Lesbarkeit, Quellen, Zeit und tatsächliche Wiedergabe getrennt prüfen; Animation und Sprachbonus nur ausdrücklich einsetzen.",
+        ),
+        pruefraster=(
+            "Welche Aussage soll dieses Publikum nach dem Vortrag verstehen oder entscheiden können?",
+            "Sind tragende Gründe, Parteivortrag und spätere Folgerungen unterscheidbar?",
+            "Bleiben die rechtlichen Voraussetzungen auch in verkürzter Darstellung sichtbar?",
+            "Reicht die Zeit einschließlich Fragen, Pausen und Übungen tatsächlich aus?",
+            "Wurde eine Datei wirklich erzeugt und geprüft oder nur ihr Inhalt vorbereitet?",
+        ),
+        stop=(
+            "Ein fremdes Bild soll allein wegen einer Quellenangabe ungeprüft übernommen werden.",
+            "Eine Rekonstruktion soll Erinnerungen eines Zeugen ersetzen oder Belege verändern.",
+            "Eine Animation oder eine geprüfte Wiedergabe soll ohne tatsächlichen Einbau beziehungsweise Test behauptet werden.",
+        ),
+    ),
+    ThemenProfil(
         key="arbeits",
         oeffnungssatz="Wenn du das hier öffnest, willst du einen arbeitsrechtlichen Vorgang vom Vertragsschluss bis zur Trennung nach Frist, Form, Beteiligungsrechten und sofortigem Arbeitsprodukt ordnen.",
         label="Arbeitsrecht",
@@ -6062,6 +6091,7 @@ PROFILE_BY_KEY = {p.key: p for p in PROFILE}
 
 
 EXACT_PROFILE_KEYS: dict[str, str] = {
+    "juristische-praesentationen": "juristische-praesentationen",
     "startup-gruender": "gesellschaft",
     "ki-verordnung-hochrisiko-pruefer": "technikregulierung",
     "ki-verordnung-transparenzpruefer": "technikregulierung",

@@ -1,6 +1,6 @@
 # dsa-dma-digitalregulierung
 
-**59 Skills** · Stand `v445.13.2`
+**59 Skills** · Stand `v445.14.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../dsa-dma-digitalregulierung/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

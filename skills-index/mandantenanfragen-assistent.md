@@ -1,6 +1,6 @@
 # mandantenanfragen-assistent
 
-**59 Skills** · Stand `v445.13.2`
+**59 Skills** · Stand `v445.14.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../mandantenanfragen-assistent/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

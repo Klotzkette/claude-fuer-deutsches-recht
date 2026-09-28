@@ -121,6 +121,13 @@ EXACT_GROUPS: dict[str, str] = {
 }
 
 PLUGIN_GROUPS = {
+    "juristische-praesentationen": [
+        ("1. Vortrag übernehmen", ["praesentation-starten"]),
+        ("2. Anlass und Publikum", ["urteil-als-vortrag-aufbereiten", "fachvortrag-fuer-juristen", "rechtsfragen-fuer-laien-erklaeren", "gerichtspraesentation-vorbereiten", "jour-fixe-und-entscheidungsvorlage"]),
+        ("3. Inhalt sichtbar und sprechbar machen", ["fallverlauf-und-belege-visualisieren", "folien-und-sprechtext-ausarbeiten"]),
+        ("4. Datei und Vortragsprobe", ["powerpoint-aus-vorlage-erstellen", "praesentation-pruefen-und-proben"]),
+        ("5. Bonus nur auf ausdrücklichen Wunsch", ["serioes-animieren", "jugendgerecht-umformulieren"]),
+    ],
     "startup-gruender": [
         ("1. Einstieg und Gründungsentscheidung", ["gruendung-begleiten", "gruender-und-rollen-klaeren", "rechtsform-und-kapital-waehlen"]),
         ("2. Beteiligung und Gründungsverträge", ["cap-table-planen", "satzung-entwerfen", "gesellschaftervereinbarung-entwerfen", "vesting-und-ausstieg-regeln", "gruender-ip-sichern"]),

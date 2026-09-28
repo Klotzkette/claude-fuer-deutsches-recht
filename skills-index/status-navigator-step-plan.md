@@ -1,6 +1,6 @@
 # status-navigator-step-plan
 
-**36 Skills** · Stand `v445.13.2`
+**36 Skills** · Stand `v445.14.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../status-navigator-step-plan/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

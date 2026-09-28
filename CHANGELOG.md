@@ -1,3 +1,17 @@
+# v445.14.0 - Juristische Präsentationen mit neutraler PowerPoint-Vorlage
+
+## 1. Neues Präsentationspaket
+
+Zehn eigenständige Kernskills führen vom konkreten Anlass über Publikum, Rechtsfrage und Zeitplanung zu bearbeitbaren Folien, vollständigen Sprechernotizen und Vortragsprobe. Urteilserläuterung, Fachvortrag, Laieninformation, Gerichtstermin und interner Entscheidungsbedarf erhalten eigene Arbeitswege. Zwei ausschließlich auf Wunsch eingesetzte Zusatzskills ergänzen zurückhaltende Animationen und jugendgerechte Sprache. Werkstatt und Schnellstart bleiben gesonderte Markdown-Dateien außerhalb des installierbaren Pakets.
+
+## 2. Vorlage und technische Prüfung
+
+Die bereitgestellte Gestaltung bleibt mit sechs Musterfolien, einem Master und 23 Layouts erhalten. Kanzleimerkmale, Kontaktdaten, alte eingebettete Objekte und identifizierende Metadaten wurden entfernt. Die Offline-Paketprüfung kontrolliert unter anderem Archivgrenzen, interne Verknüpfungen, Altobjekte und Animationsziele, ohne Dateien zu verändern oder Links aufzurufen. Struktur-, Mutations- und Integrationsprüfungen begleiten die Veröffentlichung. Die Folien wurden gerendert und visuell geprüft; daraus folgt keine Wiedergabe- oder Kompatibilitätsgarantie für fremde Benutzerkonten.
+
+## 3. Verständliche Ausgabe und Auffindbarkeit
+
+Publikum und Redezeit bestimmen Sprache und Stoffauswahl; eine begründete Rechtsaussage wird nicht durch Effekte oder Schlagworte ersetzt. Bei fehlender Dateierzeugung entsteht ein vollständiges Folienmanuskript mit Sprechtext und Quellen, keine scheinbare PowerPoint-Datei. Plugin-, Skill-, Prompt- und Downloadverzeichnisse sind aktualisiert.
+
 # v445.13.2 - Abgeleitete Aktenverweise vollständig abgeglichen
 
 Die beiden Pluginverzeichnisse zur Göttinger Akte übernehmen nun auch den nach der dezimalen Gliederung normalisierten Dokumenttitel. Wiederholte vollständige Generatorläufe sichern den identischen Katalogstand. Die Inhalte, Originalunterlagen und fachlichen Prüfungen bleiben unverändert.

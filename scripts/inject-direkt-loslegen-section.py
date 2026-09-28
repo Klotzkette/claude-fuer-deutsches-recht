@@ -38,6 +38,9 @@ DOWNLOAD_BASE = "https://klotzkette.github.io/claude-fuer-deutsches-recht/downlo
 DISALLOWED_ABBR = chr(75) + chr(73)
 DISALLOWED_MIXED = chr(75) + "i"
 PROSE_REPLACEMENTS = {
+    "Praesentationen": "Präsentationen",
+    "Laienerklaerung": "Laienerklärung",
+    "serioese": "seriöse",
     "Wirtschaftsvertraege": "Wirtschaftsverträge",
     "Geschaeftsauftrag": "Geschäftsauftrag",
     "Geschaefte": "Geschäfte",
@@ -284,6 +287,7 @@ def compact_prompt_fragment(value: str, limit: int = 210) -> str:
 
 HANDCURATED_FIRST_PRODUCTS = {
     "startup-gruender": "eine vollständig formulierte Satzung und die beauftragte Gesellschaftervereinbarung auf Deutsch und Englisch aus den vorhandenen Gründerangaben; kläre nur die dafür entscheidenden offenen Tatsachen und führe die Entwürfe nach Rückantwort fort",
+    "juristische-praesentationen": "einen juristisch genauen Vortrag mit lesbaren Folien, ausformulierten Sprechernotizen und Zeitplanung; übernimm Anlass, Publikum und Dauer aus dem Auftrag, frage nur Fehlendes nach und liefere bei vorhandenen Werkzeugen eine bearbeitbare PowerPoint, sonst ein vollständiges Folienmanuskript",
     "bauwirtschaft": "Erstelle den benötigten Bauprojektstand mit belegten Kosten, Terminen und Zuständigkeiten. Erarbeite daraus den konkreten Vergabevermerk, Kostenbericht, Rechnungsabgleich oder Brief und arbeite Rückantworten in denselben Stand ein",
     "anwaltschaft-generell": "das konkret beauftragte Mandanten- oder Gegnerschreiben, die Vertragsänderung oder den Schriftsatz aus den vorhandenen Belegen; kläre nur die dafür entscheidenden offenen Tatsachen",
     "corporate-contract-law": "einen vollständigen Wirtschaftsvertrag, eine konkrete Gegenfassung oder den vereinbarten Nachtrag; verbinde Leistungsbeschreibung, Vergütung, Risikoverteilung und Anlagen widerspruchsfrei",
@@ -494,6 +498,9 @@ def block(plugin: dict, directory: Path, akten_slugs: list[str], marketplace_cou
     if plugin_name in {"vertragserstellung", "wirtschaftsanwalt"}:
         skill_note = "Alle zehn Skills sind im Plugin unmittelbar enthalten. Der Hauptskill bearbeitet den Auftrag selbst; die übrigen Skills vertiefen konkrete Teilfragen. Bei einem einzelnen Skill-Download müssen seine verlinkten Referenzen zusätzlich verfügbar sein."
         skill_note_en = "All ten skills are included directly in the plugin. The main skill carries out the assignment; the others address specific issues. A downloaded individual skill also needs its linked references."
+    elif plugin_name == "juristische-praesentationen":
+        skill_note = "Alle zwölf Skills sind unmittelbar enthalten: zehn Kernskills sowie zwei nur auf Wunsch verwendete Bonus-Skills für Animation und jugendgerechte Sprache. Beginne mit praesentation-starten oder einem passenden Fachskill. Vorlage, Referenzen und Paketprüfer sind im Plugin-ZIP enthalten; beim Einzel-Download müssen sie bei Bedarf zusätzlich bereitgestellt werden."
+        skill_note_en = "All twelve skills are directly included: ten core workflows and two opt-in bonuses for animation and youth-friendly language. Start with praesentation-starten or the relevant task skill. The plugin ZIP includes the template, references and package checker; a standalone skill download does not."
     elif plugin_name == "bauwirtschaft":
         skill_note = "Alle 29 Skills sind im Plugin unmittelbar enthalten: zwanzig für konkrete Projektaufgaben und neun für die HOAI-Leistungsphasen bei Gebäuden und Innenräumen. Für einen Einzelauftrag genügt der passende Fachskill; eine vollständige Phase bearbeitet der Phasenskill. Die neun zusätzlichen Phasen-Werkstätten und ihre eigenen Schulungsakten stehen in der [Phasenübersicht](../docs/bauwirtschaft-hoai-phasen.md). Technische Prüfungen und Freigaben bleiben bei den dafür zuständigen Fachleuten."
         skill_note_en = "All 29 skills are included directly: twenty project-task skills and nine building-planning phase workflows. Use a task skill for a specific assignment or a phase skill for the complete phase. The [phase index](../docs/bauwirtschaft-hoai-phasen.md) links nine additional standalone workshops and nine separate practice files. Technical inspections and approvals remain with the responsible professionals."
