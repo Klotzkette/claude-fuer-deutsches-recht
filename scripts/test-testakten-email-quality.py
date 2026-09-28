@@ -161,6 +161,13 @@ def main() -> int:
             for domain in ("example.de", "planungsbuero.local", "buero.example.de"):
                 require(V.has_unexplained_synthetic_contact("an info@" + domain, contact), "keine pauschale Domain-Freigabe")
             require(not V.has_unexplained_synthetic_contact("https://portal.planung.example/akten", contact), "echte reservierte Subdomain")
+            nested = case / "unterlagen" / "vertrag.pdf"
+            for text in ("Kontakt: bank@planung.example.", "Portal: https://portal.planung.example.\nWeitere Angaben"):
+                require(not V.has_unexplained_synthetic_contact(text, nested), "Satzpunkt und Unterordner dürfen reservierte Kontakte nicht sperren")
+            for domain in ("planung.example.de", "planung.example-firma.de"):
+                require(V.has_unexplained_synthetic_contact("info@" + domain + ".", nested), "Satzpunkt darf reale Domains nicht freigeben")
+            sibling = case.parent / "andere-akte" / "vertrag.pdf"
+            require(V.has_unexplained_synthetic_contact("info@planung.example.", sibling), "Herkunftshinweis gilt nur für die eigene Akte")
             contact.write_text(contact.read_text(encoding="utf-8").replace("MIME-Version: 1.0\n", ""), encoding="utf-8")
             require(any("MIME-Version" in error for error in V.eml_quality_errors(contact)), "Herkunftsmarker darf MIME-Prüfung nicht abschalten")
 

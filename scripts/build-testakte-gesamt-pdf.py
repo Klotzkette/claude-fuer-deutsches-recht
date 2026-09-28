@@ -1061,6 +1061,7 @@ def build_gesamt_pdf(testakte_dir: Path) -> tuple[str, str]:
     project_builders = {
         "bauwirtschaft-neubau-achtfamilienhaus-hildesheim": "build-bauwirtschaft-hildesheim-pakete.py",
         "bauwirtschaft-hildesheim-lebensakte": "build-bauwirtschaft-hildesheim-lebensakte-pakete.py",
+        "fintech-darlehen-vertragsuebernahme-bremen": "build-fintech-bremen-pakete.py",
     }
     if name in project_builders:
         # Durchgehende Projektakten benötigen Aktennummern-/Projektordnerfolge

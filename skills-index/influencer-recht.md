@@ -1,6 +1,6 @@
 # influencer-recht
 
-**130 Skills** · Stand `v445.8.1`
+**130 Skills** · Stand `v445.9.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../influencer-recht/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

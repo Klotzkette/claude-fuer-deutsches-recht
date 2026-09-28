@@ -131,7 +131,7 @@ BROKEN_ENCODING_MARKERS = ("\ufffd", "Ã", "Â", "â€", "ðŸ")
 RESERVED_CONTACT_MARKER = "<!-- reserved-example-contacts -->"
 RESERVED_DOMAIN = re.compile(
     r"(?<![a-z0-9.-])(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?[.])+example"
-    r"(?![a-z0-9.-])", re.IGNORECASE,
+    r"(?![a-z0-9-]|[.][a-z0-9-])", re.IGNORECASE,
 )
 REMOVED_AGGREGATES = {
     "arbeitsrecht-kuendigungsdrama-koerber-werk/03_arbeitsvertrag_at_koerber_2012.docx",

@@ -14,7 +14,10 @@ from testakte_disclaimer import NOTICE_FILENAME
 MAX_ARCHIVE_NAME = 220
 # Diese Fassung wurde ausdrücklich als vollständige Projektordner-Akte bestellt.
 # Bestehende Testakten behalten ihre flachen Archive.
-STRUCTURED_TESTAKTEN = frozenset({'bauwirtschaft-hildesheim-lebensakte'})
+STRUCTURED_TESTAKTEN = frozenset({
+    'bauwirtschaft-hildesheim-lebensakte',
+    'fintech-darlehen-vertragsuebernahme-bremen',
+})
 
 
 def preserves_directories(testakte_dir: Path) -> bool:

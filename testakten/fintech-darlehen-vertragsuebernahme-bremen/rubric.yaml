@@ -1,0 +1,18 @@
+name: fintech-darlehen-vertragsuebernahme-bremen
+plugin: schriftsatz-versandwerkstatt
+author: Klotzkette
+description: 'Grenzüberschreitender Darlehensprozess mit getrennten Eingangsunterlagen und einer vorbereiteten Klageerwiderung für die technische PDF-Endfertigung.'
+checks:
+- id: pleading
+  check_type: file_exists
+  path: 02_klageerwiderung/00_Klageerwiderung_20260928.docx
+  description: Bearbeitbarer Schriftsatz liegt getrennt von der Eingangsakte vor.
+- id: scope
+  check_type: human_review
+  description: Auftragsgrenze zwischen inhaltlicher Bearbeitung und technischer Versandproduktion beachten.
+- id: source-integrity
+  check_type: human_review
+  description: Originale erhalten, Hauptfassung bestätigen und jede Anlage anhand ihres Verweises zuordnen.
+- id: approval
+  check_type: human_review
+  description: Verantwortenden Anwalt und tatsächlichen Versender vor der Formfreigabe bestätigen lassen.

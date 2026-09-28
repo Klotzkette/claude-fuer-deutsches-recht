@@ -43,18 +43,28 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 
 ## Downloads
 
-> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
->
-> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
-
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
 | Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`schriftsatz-versandwerkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/schriftsatz-versandwerkstatt.zip) |
 | Kompakter Prompt (Schnellstart) | Markdown | [`schriftsatz-versandwerkstatt-schnellstart.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=schriftsatz-versandwerkstatt/schriftsatz-versandwerkstatt-schnellstart.md) |
 | Großer Prompt (Werkstatt) | Markdown | [`schriftsatz-versandwerkstatt-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=schriftsatz-versandwerkstatt/schriftsatz-versandwerkstatt-werkstatt.md) |
-| Zugeordnete Testakten | PDF / ZIP | [`alle-testakten.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) und [`alle-testakten-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten-einzelpdfs.zip) (zentrale Sammlung) |
+| Zugeordnete Testakten | PDF / ZIP | [eine zugeordnete Akte](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
 > Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 245 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+
+## Zugeordnete Testakten
+
+Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP mit einzelnen PDFs erreichbar.
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+| Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
+| --- | --- | --- | --- |
+| [Weserfunken Darlehensverfahren Bremen](../testakten/fintech-darlehen-vertragsuebernahme-bremen/README.md) | [Gesamt-PDF](../testakten/fintech-darlehen-vertragsuebernahme-bremen/gesamt-pdf/fintech-darlehen-vertragsuebernahme-bremen_gesamt.pdf) | [`testakte-fintech-darlehen-vertragsuebernahme-bremen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-fintech-darlehen-vertragsuebernahme-bremen.zip) | [`testakte-fintech-darlehen-vertragsuebernahme-bremen-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-fintech-darlehen-vertragsuebernahme-bremen-einzelpdfs.zip) |
+
+[Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->
 
 ## 1. Zweck
@@ -145,7 +155,13 @@ Status 3 hält die Freigabe bis zur Sichtkontrolle oder Klärung anderer protoko
 - Keine Fristlöschung ohne positive Eingangsbestätigung.
 - Keine Freigabe konvertierter Dateien ohne visuelle Seitenkontrolle.
 
-## 8. Lizenz
+## 8. FinTech-Verfahrensakte
+
+Die [Weserfunken-Akte aus Bremen](../testakten/fintech-darlehen-vertragsuebernahme-bremen/README.md) enthält eine 25-seitige Klage, 75 Seiten K-Anlagen, deutsch-englische Geschäftskorrespondenz und einen getrennten Ordner mit vorbereiteter Klageerwiderung samt B-Anlagen. Für die eigene rechtliche Fallanalyse diesen Antwortordner zunächst nicht laden.
+
+Für die Versandproduktion dagegen nur `02_klageerwiderung` auswählen. Die Werkstatt bestätigt die Word-Hauptfassung und ordnet B1 bis B6 zu. Gerichtspost, K-Anlagen, Buchhaltungsdateien und interne Notizen werden nicht ungefragt mitgesendet. Der technische Produktionslauf ersetzt weder die rechtliche Bearbeitung des Falls noch die Freigabe der konkreten Anlagen durch den Anwalt.
+
+## 9. Lizenz
 
 Apache-2.0 OR MIT, Auswahl beim Empfänger.
 

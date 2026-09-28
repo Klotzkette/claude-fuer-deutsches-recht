@@ -91,6 +91,12 @@ def section_block(slug: str, pdf_rel: str | None, has_einzelpdf: bool = False) -
             intro += ' Im Einzel-PDF-ZIP bleibt dieselbe Ordnerstruktur erhalten; jede Originalunterlage liegt als eigene A4-Lesefassung vor.'
         english = ('English: This project-file edition preserves its subfolders in both ZIP formats. '
                    'The original-format ZIP contains editable working documents and supporting records, without Markdown.')
+        if slug == 'fintech-darlehen-vertragsuebernahme-bremen':
+            intro = ('Die Verfahrensakte gibt es in drei Formaten. Beide ZIPs erhalten die getrennten Ordner '
+                     'für Eingang, Klageerwiderung und Korrespondenz. Das Originalformat-ZIP enthält PDF, Word, '
+                     'E-Mail, Text und CSV, aber kein Markdown. Das Einzel-PDF-ZIP enthält jede Unterlage als '
+                     'eigenes PDF. Das Gesamt-PDF enthält auch die Klageerwiderung; sein Register und seine '
+                     'Lesezeichen führen zu den getrennten Arbeitsbereichen.')
     if pdf_rel is not None:
         english += " Choose the combined PDF for reading; it is also included in that ZIP."
     if has_einzelpdf:

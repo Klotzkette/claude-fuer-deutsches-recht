@@ -1,6 +1,6 @@
 # gesellschaftsgruender
 
-**114 Skills** · Stand `v445.8.1`
+**114 Skills** · Stand `v445.9.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../gesellschaftsgruender/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

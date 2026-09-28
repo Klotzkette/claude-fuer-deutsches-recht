@@ -1,3 +1,17 @@
+# v445.9.0 - FinTech-Verfahrensakte und sichere Versandproduktion
+
+## 1. Grenzüberschreitender Darlehensprozess
+
+Die neue Bremer Verfahrensakte enthält eine 25-seitige Klage mit zwölf Anlagen auf 75 Seiten, englische Kredit- und Übernahmeverträge, Zahlungsbelege und deutsch-englische Korrespondenz. Eine gesonderte, bearbeitbare Klageerwiderung mit eigenem B-Anlagenkreis steht für die Versandproduktion bereit. Die Zuständigkeit für Insolvenzanfechtung, selbstständige Schadensersatzansprüche und Auskunft wird getrennt behandelt. Buchungsdaten unterscheiden Auszahlung, Erwerbspreis und Rückzahlungen; Beträge sind gegen die Einzelbelege geprüft.
+
+Eingang, vorbereitete Klageerwiderung und Korrespondenz bleiben in dieser ausdrücklich strukturierten Akte getrennt. Gesamt-PDF mit Register und Lesezeichen, Einzel-PDF-ZIP und Originalformat-ZIP erschließen denselben Bestand. Die Verteidigerfassung ist Parteivortrag und keine vorgegebene gerichtliche Lösung. Hinweise stehen bei den Downloads und in den ZIP-READMEs, nicht auf den Arbeitsdokumenten.
+
+## 2. Endfertigung ohne stillen Belegverlust
+
+Die Versandwerkstatt kann uneinheitlich benannte Originale über einen expliziten Anlagenplan zuordnen. Unbekannte Dateien und unvollständig erfasste E-Mail-Anhänge sperren die Freigabe. Mehrseitige Bilddateien bleiben vollständig; vorhandene Signaturen, kollidierende Anlagenkennungen und ineinanderliegende Eingangs- und Ausgangsordner werden erkannt. Misslungene Teilkonvertierungen hinterlassen keine scheinbar fertigen Versanddateien.
+
+Die zehn bestehenden Skills sowie Werkstatt- und Schnellstart-Prompt beschreiben denselben Produktionsablauf. Verantwortender Anwalt, tatsächlicher Versender und Signaturroute bleiben getrennte Prüfungen. Ein technischer Prüfbericht ersetzt weder die Sichtkontrolle noch einen tatsächlichen beA-Eingangsnachweis. Es erfolgt kein automatischer Versand.
+
 # v445.8.1 - Mehr Alltag in der Hildesheimer Projektakte
 
 Die Hildesheimer Lebensakte erhält 44 zusätzliche Originalunterlagen in elf zusammenhängenden Vorgängen: Lieferabsprachen und technische Schnittstellen, Rückfragen von Mietern und Nachbarn sowie die Klärung bereits belegter Rechnungen, Doppelzahlungen und Erstattungen. Unterschiedliche Stimmen, Telefonnotizen, konkrete Antworten und spätere Vollzugsnachrichten machen den damaligen Kenntnisstand nachvollziehbar. E-Mails besitzen echte Antwortbezüge; Wordvermerke bleiben bearbeitbar.
