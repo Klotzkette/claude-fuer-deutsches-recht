@@ -1,0 +1,96 @@
+{
+  "folder": "03_korrespondenz/04_vertiefung",
+  "documents": [
+    {
+      "id": "41_Completion_Confirmation_20221014",
+      "title": "Completion Confirmation",
+      "author": "Vellio Finance GmbH | Nora Wendt",
+      "recipient": "Weserfunken Präzisionsbau GmbH, Martin Grothe and Jutta Kröger; copy: Nexora Frontbank AG, Dr. Falk Neubauer",
+      "date": "2022-10-14",
+      "reference": "NF-WP-221014-01 | Completion record",
+      "language": "en-GB",
+      "pages": [
+        {
+          "heading": "1. Completion and payment instructions",
+          "paragraphs": [
+            "Dear Mr Grothe, dear Ms Kröger, following today's completion correspondence, we confirm the operational position for the loan identified above. This confirmation records completion of the signed arrangements; it does not replace the Loan Agreement, the Transfer and Assumption Agreement or the borrower's acknowledgement. Please retain those documents together. All times below are local times on 14 October 2022 in Bremen and Vienna, UTC+02:00.",
+            "Nexora Frontbank AG disbursed EUR 500,000 to Weserfunken Präzisionsbau GmbH at 10:11. The transfer of the lender's ongoing contractual position to Vellio Finance GmbH took effect at 12:30 with the borrower's consent. At 12:31 Vellio paid the separate EUR 500,000 acquisition price to Nexora. That settlement was between the two finance companies. It was neither a second advance to Weserfunken nor a repayment by Weserfunken and must not be posted against the borrower's outstanding principal.",
+            "Vellio's receipt instructions name Vellio Finance GmbH as beneficiary, IBAN AT61 1904 3002 3457 3201. The loan reference remains NF-WP-221014-01. The first monthly interest instalment of EUR 5,000 is scheduled for 15 November 2022. The agreed eighteen interest instalments total EUR 90,000; principal of EUR 500,000 falls due on 15 April 2024. The agreed banking-day adjustment applies without an additional interest instalment. No new repayment schedule is introduced by this letter.",
+            "The previous lender's name may remain on historical records of the application and disbursement. It should not be used to change the beneficiary in the payment master data. Please keep the historical description and the current beneficiary in separate fields so that a later review can distinguish the original financing from subsequent payments. Ms Kröger's confirmation of the updated payment details and Mr Grothe's release are retained with today's correspondence."
+          ]
+        },
+        {
+          "heading": "2. Administration and retained records",
+          "paragraphs": [
+            "Vellio will administer the transferred loan position, allocate borrower receipts and deal with requests concerning future payments. A request to change the agreed maturity must be addressed to Vellio; it is not approved merely because it has been received or copied to Nexora. Until an actual amendment is agreed, the existing payment dates remain applicable. Today's completion does not include a revolving facility, an additional drawdown or a commitment to refinance the final principal payment.",
+            "The reference to administration does not appoint Vellio as Nexora's collection agent. The transfer documents record Vellio's acquisition of the ongoing lender position. Conversely, this administrative confirmation does not decide any independent question about conduct before completion. Records of the original application, offer and disbursement remain relevant to enquiries addressed to the party responsible for those acts. Please do not treat this letter as a waiver of such enquiries or as a release extending beyond the signed arrangements.",
+            "The acquisition-price entry belongs in the companies' closing records, outside the journal of payments received from Weserfunken. Borrower receipts are to be identified by date, amount and payment reference. A group relationship does not itself identify the account that received a particular payment. This confirmation gives no statement about unrelated group accounts or the existence of arrangements outside this loan's borrower-facing payment terms.",
+            "For account enquiries, please quote the unchanged loan reference and send the relevant payment date and transfer receipt to servicing@vellio.example. If a historical label causes uncertainty, preserve the original record and add a separate explanation; do not overwrite the original description. We will use the signed agreements and the actual booking records to resolve any discrepancy. This letter contains no instruction to make a payment to Nexora or to divide a scheduled instalment between the companies.",
+            "Kind regards,\nNora Wendt\nLoan Administration\nVellio Finance GmbH\nRadetzkystraße 12, 8010 Graz, Austria\nservicing@vellio.example"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "47_Posteingang_Fristen_20260922",
+      "title": "Posteingang und Fristenkontrolle",
+      "author": "Rademacher Westhoff Rechtsanwälte PartGmbB | Dr. Henrik Westhoff",
+      "recipient": "Handakte Nexora Frontbank AG | 26-184-NF",
+      "date": "2026-09-22",
+      "reference": "Landgericht Bremen | 4 O 1186/26",
+      "pages": [
+        {
+          "heading": "1. Zustellung und Weiterleitung",
+          "paragraphs": [
+            "Der Vermerk führt die Angaben zur Zustellung der Klage und zur Weitergabe an die Kanzlei zusammen. Grundlage sind die gerichtliche Verfügung vom 10. September 2026, die mitgeführten Empfangsangaben und die Verteidigungsanzeige vom heutigen Tag. Die Zeitangaben betreffen unterschiedliche Bearbeitungsschritte. Ein späterer Eingang beim Rechtsbereich oder beim Prozessbevollmächtigten ersetzt nicht den dokumentierten Empfang an der Zustellanschrift.",
+            "Am 15. September 2026 um 10:24 Uhr nahm Lena Berger die Sendung am Empfang der Nexora Frontbank AG, Schottenring 18, 1010 Wien, entgegen. Der Rechtsbereich vermerkte den Eingang um 11:02 Uhr; die Unterlagen gelangten noch am selben Vormittag zu Dr. Falk Neubauer. Der Scan von Empfangsnachweis und Umschlag wurde am 16. September 2026 um 08:46 Uhr an die Kanzlei weitergeleitet. Diese Weiterleitung ist kein zusätzlicher Zustellungsvorgang.",
+            "Der Papierempfangsnachweis mit der Unterschrift wird beim Posteingang in Wien aufbewahrt. Für die Aktenzuordnung sind Empfangsnachweis und Umschlag zusammenzuhalten. Eine andere Quartalskurier-Sendung darf nicht als Beleg für dieses Verfahren verwendet werden. Der Vermerk bildet die dokumentierten Angaben ab; er ersetzt weder den Originalempfangsnachweis noch eine technische Prüfung der Scanübermittlung.",
+            "Die übersandte Klage datiert vom 8. September 2026 und umfasst 25 Seiten. Die bezeichneten Anlagen K1 bis K12 umfassen zusammen 75 Seiten. Hinzu kommen zwei Seiten gerichtliche Verfügung einschließlich der Empfangsangaben. Dieser Umfang von 102 Seiten betrifft die gerichtliche Eingangssendung. Später beigezogene Korrespondenz und eigene Unterlagen der Beklagten gehören nicht rückwirkend zu deren Anlagenbestand. Bei erneuter Zusammenstellung ist daher nach Herkunft und nicht allein nach dem aktuellen Gesamtumfang der Handakte abzugleichen."
+          ]
+        },
+        {
+          "heading": "2. Fristen und Bearbeitungsstand",
+          "paragraphs": [
+            "Die Verfügung bestimmt wegen der Zustellung in Österreich eine Frist von einem Monat für die Anzeige der Verteidigungsbereitschaft. Ausgehend von der Zustellung am 15. September 2026 ist hierfür der 15. Oktober 2026 notiert. Für die Klageerwiderung sind die anschließend eingeräumten zwei weiteren Wochen mit dem 29. Oktober 2026 erfasst. Die beiden Fristen bleiben getrennte Einträge; die frühere Abgabe der Verteidigungsanzeige verlegt den notierten Erwiderungstermin nicht vor.",
+            "Die Verteidigungsanzeige wurde am 22. September 2026 um 14:18 Uhr übermittelt. Die in der Handakte festgehaltene Eingangsbestätigung trägt die Uhrzeit 14:18:07. Für die Erledigungskontrolle ist die Bestätigung der konkreten Sendung zuzuordnen. Die Anzeige betrifft die Verteidigungsbereitschaft; sie enthält noch keine vollständige Erwiderung auf den Zahlungs- und Auskunftsvortrag. Der Termin 29. Oktober 2026 bleibt deshalb trotz des heutigen Versands offen.",
+            "Bei der weiteren Bearbeitung sind die eigene Darstellung der Mandantin, die aus der Klage bekannten Unterlagen und die ergänzend vorgelegten Vertrags- und Zahlungsbelege auseinanderzuhalten. Der Entwurf der Klageerwiderung ist vor einem späteren Versand anhand der vollständigen Anlagenliste zu kontrollieren. Ein hier abgelegter Entwurf oder ein interner Arbeitsstand belegt für sich noch keine gerichtliche Übermittlung. Dieser Vermerk enthält keine Bestätigung eines Versands der Klageerwiderung.",
+            "Eine abweichende gerichtliche Fristbestimmung oder eine gewährte Verlängerung liegt diesem Vermerk nicht zugrunde. Auch ein Termin zur mündlichen Verhandlung ist damit nicht dokumentiert. Die Kanzlei führt die Erwiderungsfrist weiter; eine Änderung ist erst anhand einer entsprechenden gerichtlichen Nachricht einzutragen. Rückfragen zum Papierempfangsnachweis sind über Dr. Falk Neubauer an den Wiener Posteingang zu richten, damit kein fremder Sendungsnachweis in die Verfahrensakte gelangt.",
+            "Dr. Henrik Westhoff\nRechtsanwalt\nRademacher Westhoff Rechtsanwälte PartGmbB\nAm Wall 146, 28195 Bremen"
+          ]
+        }
+      ]
+    }
+  ],
+  "workbooks": [
+    {"id": "42_Zahlungszuordnung_20260713", "title": "Zahlungszuordnung und Abschlussabgleich", "date": "2026-07-13", "author": "Nora Wendt", "source": "B2, B3, B4; Zahlungsnachweise K4; Korrespondenz März 2024"},
+    {"id": "43_Kontoabgleich_20260611", "title": "Kontoabgleich März und April 2024", "date": "2026-06-11", "author": "Jutta Kröger", "source": "K4 Blatt 16 bis 18 und unveränderter CSV-Export; K7, Blätter 1 bis 6"}
+  ],
+  "emails": [
+    {
+      "id": "44_Risikorueckfrage_20240409",
+      "from": "Dr. Falk Neubauer <legal@nexora.example>",
+      "to": "Kreditadministration Nexora <kreditadministration@nexora.example>",
+      "date": "2024-04-09T12:05:00+02:00",
+      "subject": "Weserfunken / NF-WP-221014-01: Rückfrage zu den Altunterlagen",
+      "body": "Guten Tag,\n\nMartin Grothe hat gestern wegen der anstehenden Endfälligkeit und der Zuständigkeit für ein Gespräch angefragt. Er schildert engere Abstimmungen mit Lieferanten und noch ausstehende Kundenabnahmen. Ich habe ihm heute um 11:41 Uhr mit Kopie an Nora Wendt geantwortet: Über eine Änderung der laufenden Fälligkeit entscheidet Vellio; Fragen zu unserem damaligen Angebot und zur Auszahlung bleiben bei uns. Bitte diese beiden Bereiche bei der Ablage getrennt halten.\n\nBitte prüfen Sie anhand des damaligen Abschlussvorgangs, welche Unterlagen zur Zustimmung des Kunden und zur Umstellung der Zahlungsdaten vorhanden sind. Maßgeblich sind die Mitteilung vom 14. Oktober 2022, Grothes Bestätigung und die Rückmeldung von Frau Kröger. Eine fortgeführte Bezeichnung Nexora in einer Kundenübersicht ist zunächst ein abweichender Buchungstext. Sie beantwortet nicht, ob ein späterer Zahlungseingang tatsächlich bei uns gebucht wurde. Originalbezeichnungen deshalb erhalten und eine Erläuterung gesondert anfügen.\n\nFür eine Einschätzung der gegenwärtigen Lage reichen die Angaben aus Grothes Nachricht nicht aus. Mir liegt damit weder ein vollständiger Liquiditätsstatus noch eine Übersicht sämtlicher fälliger Verbindlichkeiten vor. Bitte aus der Anfrage weder eine erteilte Verlängerung noch eine von uns zugesagte Anschlussfinanzierung ableiten. Etwa vorhandene konkrete Gesprächsnotizen sind mit Datum und Verfasser beizuziehen, nicht aus der heutigen Erinnerung zu vervollständigen.\n\nDer bevorstehende Zahlungstermin bleibt nach der bekannten Vertragslage der 15. April 2024. Diese interne Rückfrage erteilt keine Zahlungsfreigabe und enthält keine Zusage gegenüber dem Kunden. Ich habe keine weitergehenden Unterlagen an Grothe übersandt. Bitte Rückmeldung zum vorhandenen Aktenbestand an mich; einen vollständigen wirtschaftlichen Befund über Weserfunken können wir auf dieser Grundlage noch nicht abgeben.\n\nMit freundlichen Grüßen\nDr. Falk Neubauer\nNexora Frontbank AG\nSchottenring 18, 1010 Wien\nlegal@nexora.example\n"
+    },
+    {
+      "id": "45_Vellio_Buchungsanlagen_20260713",
+      "from": "Nora Wendt <servicing@vellio.example>",
+      "to": "Dr. Falk Neubauer <legal@nexora.example>",
+      "date": "2026-07-13T16:04:00+02:00",
+      "subject": "Weserfunken: Zuordnungstabelle und Vollzugsbestätigung",
+      "body": "Sehr geehrter Herr Dr. Neubauer,\n\nergänzend zu meiner Nachricht von 15:26 Uhr übersende ich die Zahlungszuordnung als bearbeitbare Arbeitsmappe und die englische Vollzugsbestätigung vom 14. Oktober 2022. Die Tabelle ist heute für den Abgleich zusammengestellt worden. Sie ist kein zusätzlicher damaliger Kontoauszug; die Buchungsdaten betreffen den bereits abgeschlossenen Zeitraum bis zum 15. April 2024.\n\nDas Blatt Zahlungen trennt die achtzehn Zinseingänge von der Endtilgung. Die Abschlussübersicht stellt den Kaufpreis daneben, nicht darunter als weitere Zahlung der Darlehensnehmerin. Der Erwerbspreis wurde am 14. Oktober 2022 um 12:31 Uhr von Vellio an Nexora geleistet. Er ist nicht Bestandteil der 590.000,00 EUR aus dem Zahlungsjournal. Die letzten drei Zinsraten und die Valuta ergeben einen darin enthaltenen Teilbetrag von 515.000,00 EUR.\n\nDie alte Bezeichnung Nexora in den Unterlagen der Buchhaltung bleibt als Herkunftsangabe sichtbar. Für die Empfängerzuordnung verweise ich dagegen auf die Zahlungsaufträge an Vellio und die Umstellungsbestätigung vom Auszahlungstag. In den Nachrichten vom März 2024 ging es gerade um diesen Unterschied. Die Tabelle soll diese Felder vergleichbar halten und keine ursprünglichen Buchungstexte nachträglich berichtigen.\n\nDie Vollzugsbestätigung erläutert die damalige Abwicklung; sie ist nicht der zwölfseitige Übernahmevertrag und ersetzt auch nicht die Zustimmung des Kunden. Die Übersicht belegt keine vollständige Einsicht in sämtliche Konten oder Vergütungsvereinbarungen anderer Konzerngesellschaften. Aus den ausgewiesenen Schuldnerzahlungen ergibt sich insbesondere keine Aussage darüber, ob außerhalb dieser Positionen andere interne Vergütungen vereinbart waren.\n\nBitte ordnen Sie beide Anlagen dem Einzelkredit NF-WP-221014-01 zu. Mit der Übersendung ist weder eine Anerkennung der geltend gemachten Ansprüche noch eine Vergleichs- oder Stillhaltevereinbarung verbunden. Über die noch zu beantwortenden Auskunftsfragen ist damit nicht abschließend entschieden.\n\nMit freundlichen Grüßen\nNora Wendt\nVellio Finance GmbH\nRadetzkystraße 12, 8010 Graz\nservicing@vellio.example\n",
+      "attachments": ["42_Zahlungszuordnung_20260713.xlsx", "41_Completion_Confirmation_20221014.docx"]
+    },
+    {
+      "id": "46_Kroeger_Kontoabgleich_20260611",
+      "from": "Jutta Kröger <jutta.kroeger@weserfunken.example>",
+      "to": "Rechtsanwältin Kunigunde von Tettenborn <kanzlei@tettenborn.example>",
+      "date": "2026-06-11T15:17:00+02:00",
+      "subject": "NF-WP-221014-01: Kontoabgleich und Abgrenzung der offenen Posten",
+      "body": "Sehr geehrte Frau von Tettenborn,\n\nzu meiner Nachricht von 14:38 Uhr erhalten Sie die ergänzende Arbeitsmappe. Ich habe die März- und Aprilbuchungen aus dem Auszugsexport unverändert übernommen und die laufenden Salden daneben rechnerisch fortgeführt. Diese Zusammenstellung entsteht jetzt für Ihre Rückfrage. Sie ist kein Nachweis, dass die Bank oder Vellio diese Übersicht bereits im Frühjahr 2024 erhalten hat.\n\nFür März beginnt der Abgleich mit 421.800,00 EUR. Unmittelbar vor der Zinsbuchung stehen 573.900,00 EUR, danach 568.900,00 EUR und am Monatsende 431.000,00 EUR. Im April ergeben sich vor den beiden Darlehenszahlungen 1.025.900,00 EUR und nach Zins und Endtilgung 520.900,00 EUR. Der April endet mit 383.000,00 EUR. Die Zahlung von Nordhafen am 2. April über 598.600,00 EUR ist dabei als tatsächlicher Eingang erfasst.\n\nDie zwölf ausgewählten Lieferantenposten ergeben 478.380,00 EUR und waren bis einschließlich 15. April fällig. Sie bilden nicht alle Verbindlichkeiten ab. Nach Abzug allein dieser Auswahl vom Kontostand nach den Darlehenszahlungen verbleiben rechnerisch 42.520,00 EUR. Daraus kann ich keinen vollständigen Finanzstatus bestätigen; ebenso wenig ergibt diese Auswahl für sich einen Fehlbetrag an diesem Tag. Zu weiteren Verpflichtungen müssten die jeweiligen Belege und Fälligkeiten gesondert zusammengestellt werden.\n\nDie Rückforderung von Nordhafen über 598.600,00 EUR gehört dagegen zum 2. Mai 2024. Die Unterlagen zur Rücknahme der April-Lieferung und die damaligen Nachrichten stehen im letzten Teil der offenen Posten. Ich habe diesen Vorgang auf einem eigenen Blatt abgegrenzt und nicht als schon am 15. April fällige Lieferantenschuld eingetragen. Für Mai liegt dieser Arbeitsmappe kein zusätzlicher Kontoauszug bei. Eine Rückzahlung ist durch den April-Export nicht belegt.\n\nBitte die historische Bezeichnung Nexora und den wirklichen Empfänger Vellio weiterhin getrennt lesen. Zu einer Weiterleitung innerhalb der Unternehmensgruppe habe ich keinen eigenen Einblick. Meine Tabelle erklärt die Buchhaltung der Weserfunken und nicht fremde Konten oder die rechtliche Verantwortlichkeit.\n\nMit freundlichen Grüßen\nJutta Kröger\nBuchhaltung, Weserfunken Präzisionsbau GmbH\nHüttenstraße 43, 28237 Bremen\n",
+      "attachments": ["43_Kontoabgleich_20260611.xlsx"]
+    }
+  ]
+}

@@ -3,6 +3,7 @@
 
 import argparse
 import csv
+import hashlib
 from datetime import date, timedelta
 from decimal import Decimal
 from email import policy
@@ -15,6 +16,7 @@ import unittest
 import zipfile
 
 from docx import Document
+from openpyxl import load_workbook
 from pypdf import PdfReader
 from testakte_disclaimer import NOTICE_BYTES, pdf_content_errors
 from testakte_einzelpdf_common import expected_arcnames
@@ -28,6 +30,133 @@ ASSETS = None
 
 
 class FintechCase(unittest.TestCase):
+    def test_original_35_files_are_byte_identical(self):
+        baseline = json.loads((FIXTURES/'original-sha256.json').read_text())
+        self.assertEqual(len(baseline), 35)
+        for name, digest in baseline.items():
+            with self.subTest(path=name):
+                self.assertEqual(hashlib.sha256((CASE/name).read_bytes()).hexdigest(), digest)
+
+    def test_seven_native_supplements_have_no_sidecars_or_duplicate_sources(self):
+        data = json.loads((FIXTURES/'supplements.json').read_text())
+        folder = CASE/data['folder']
+        expected = {item['id']+'.'+ext for key, ext in [('documents','docx'),('workbooks','xlsx'),('emails','eml')]
+                    for item in data[key]}
+        self.assertEqual(len(expected), 7)
+        self.assertEqual({path.name for path in folder.iterdir()}, expected)
+        self.assertEqual(len(working_dump_archive_pairs(CASE, include_gesamt_pdf=False)), 42)
+        for item in data['documents']:
+            document = Document(folder/(item['id']+'.docx'))
+            text = '\n'.join(p.text for p in document.paragraphs)
+            self.assertGreater(len(text.split()), 500)
+            self.assertNotRegex(text, r'§|Musterlösung|Lösungsmatrix|Testakte|\bKI\b')
+            self.assertEqual(document.core_properties.author, 'Klotzkette')
+            headings = [p.text for p in document.paragraphs if p.style.name == 'Heading 1']
+            self.assertEqual(headings, [p['heading'] for p in item['pages']])
+        readme = (CASE/'README.md').read_text()
+        for name in expected:
+            self.assertIn(f'{data["folder"]}/{name}', readme)
+
+    def test_mime_attachments_match_standalone_native_files(self):
+        data = json.loads((FIXTURES/'supplements.json').read_text())
+        count = 0
+        for item in data['emails']:
+            folder = CASE/data['folder']
+            mail = BytesParser(policy=policy.default).parsebytes((folder/(item['id']+'.eml')).read_bytes())
+            self.assertEqual(mail.defects, [])
+            self.assertEqual(str(mail['Subject']), item['subject'])
+            self.assertEqual(mail['Date'].datetime.isoformat(), item['date'])
+            parts = list(mail.iter_attachments())
+            self.assertEqual([part.get_filename() for part in parts], item.get('attachments', []))
+            self.assertEqual(mail.get('X-Attachments', ''), '; '.join(item.get('attachments', [])))
+            for part in parts:
+                count += 1
+                self.assertEqual(part.get_payload(decode=True), (folder/part.get_filename()).read_bytes())
+                self.assertEqual(part.get_content_disposition(), 'attachment')
+                self.assertTrue(part.get_content_type().startswith('application/vnd.openxmlformats-officedocument.'))
+                self.assertTrue(zipfile.is_zipfile(io.BytesIO(part.get_payload(decode=True))))
+        self.assertEqual(count, 3)
+
+    def test_workbook_payment_totals_and_acquisition_are_separate(self):
+        folder = CASE/'03_korrespondenz/04_vertiefung'
+        path = folder/'42_Zahlungszuordnung_20260713.xlsx'
+        cached = load_workbook(path, data_only=True)
+        formulas = load_workbook(path, data_only=False)
+        self.assertEqual(cached.sheetnames, ['Zahlungen', 'Abschluss', 'Zuordnung'])
+        with (CASE/'03_korrespondenz/30_Buchungsdaten_Geschaeftskonto.csv').open(encoding='utf-8-sig', newline='') as handle:
+            payments = [row for row in csv.DictReader(handle, delimiter=';') if row['Empfänger'] == 'Vellio Finance GmbH']
+        for r, payment in enumerate(payments, 5):
+            self.assertEqual(cached['Zahlungen'][f'A{r}'].value.date().isoformat(), payment['Buchungstag'])
+            self.assertEqual(cached['Zahlungen'][f'F{r}'].value, -int(payment['Betrag EUR']))
+            self.assertEqual(cached['Zahlungen'][f'G{r}'].value, 'Vellio Finance GmbH')
+        for address, value in [('D25',90000),('E25',500000),('F25',590000)]:
+            self.assertEqual(cached['Zahlungen'][address].value, value)
+            self.assertEqual(formulas['Zahlungen'][address].data_type, 'f')
+        for address, value in [('B7',590000),('B8',15000),('B9',515000),('B10',505000),('B12',0),('B13',500000)]:
+            self.assertEqual(cached['Abschluss'][address].value, value)
+        self.assertEqual(formulas['Abschluss']['B7'].value, '=SUM(B5:B6)')
+        self.assertIn('außerhalb Journal', cached['Abschluss']['C13'].value)
+        for sheet in cached:
+            self.assertEqual(sheet.page_setup.orientation, 'landscape')
+            self.assertFalse(any(cell.data_type == 'e' for row in sheet for cell in row))
+
+    def test_workbook_bank_rows_and_selected_payables_reconcile(self):
+        path = CASE/'03_korrespondenz/04_vertiefung/43_Kontoabgleich_20260611.xlsx'
+        cached = load_workbook(path, data_only=True)
+        formulas = load_workbook(path, data_only=False)
+        with (CASE/'03_korrespondenz/30_Buchungsdaten_Geschaeftskonto.csv').open(encoding='utf-8-sig', newline='') as handle:
+            records = list(csv.DictReader(handle, delimiter=';'))
+        for sheet_name, month in [('Maerz','2024-03'),('April','2024-04')]:
+            selected = [row for row in records if row['Buchungstag'].startswith(month)]
+            for r, record in enumerate(selected, 5):
+                sheet = cached[sheet_name]
+                self.assertEqual(sheet[f'A{r}'].value.date().isoformat(), record['Buchungstag'])
+                self.assertEqual(sheet[f'B{r}'].value, record['Empfänger'])
+                self.assertEqual(sheet[f'C{r}'].value, record['Verwendungszweck'])
+                self.assertEqual(sheet[f'D{r}'].value, int(record['Betrag EUR']))
+                self.assertEqual(sheet[f'E{r}'].value, int(record['Saldo EUR']))
+                self.assertEqual(sheet[f'F{r}'].value, int(record['Saldo EUR']))
+                self.assertEqual(sheet[f'G{r}'].value, 0)
+                self.assertEqual(formulas[sheet_name][f'E{r}'].data_type, 'f')
+        expected = [421800,573900,568900,431000,1025900,520900,383000,478380,42520]
+        self.assertEqual([cached['Stichtage'][f'B{r}'].value for r in range(5,14)], expected)
+        k7 = next(d for d in json.loads((FIXTURES/'business-records.json').read_text())['documents'] if '_K7_' in d['id'])
+        op = [row for page in k7['pages'] for row in page.get('table',{}).get('rows',[]) if row[2]]
+        self.assertEqual(len(op), 12)
+        for r, (creditor, invoice_date, due, amount) in enumerate(op, 5):
+            self.assertEqual(cached['OffenePosten'][f'A{r}'].value, creditor)
+            self.assertEqual(cached['OffenePosten'][f'B{r}'].value, invoice_date.split(' / ')[0])
+            self.assertEqual(cached['OffenePosten'][f'D{r}'].value.strftime('%d.%m.%Y'), due)
+            self.assertEqual(cached['OffenePosten'][f'E{r}'].value, int(amount.replace('.', '').removesuffix(',00')))
+        self.assertEqual(cached['MaiAbgrenzung']['B5'].value, 598600)
+        self.assertEqual(cached['MaiAbgrenzung']['B7'].value, 215600)
+        self.assertEqual(formulas['MaiAbgrenzung']['B6'].value, '=April!E17')
+        self.assertIn('kein neuer Mai-Kontoauszug', cached['MaiAbgrenzung']['C6'].value)
+        for sheet in cached:
+            self.assertEqual(sheet.page_setup.orientation, 'landscape')
+            self.assertFalse(any(cell.data_type == 'e' for row in sheet for cell in row))
+
+    def test_new_evidence_keeps_historical_knowledge_and_procedural_dates_separate(self):
+        data = json.loads((FIXTURES/'supplements.json').read_text())
+        risk, vellio, kroeger = data['emails']
+        self.assertEqual(risk['date'], '2024-04-09T12:05:00+02:00')
+        self.assertIn('weder ein vollständiger Liquiditätsstatus', risk['body'])
+        self.assertNotRegex(risk['body'], r'478\.380|598\.600|520\.900|2\. Mai|Insolvenzantrag')
+        self.assertIn('kein zusätzlicher damaliger Kontoauszug', vellio['body'])
+        self.assertIn('nicht abschließend entschieden', vellio['body'])
+        self.assertIn('kein Nachweis', kroeger['body'])
+        self.assertIn('2. Mai 2024', kroeger['body'])
+        self.assertIn('jutta.kroeger@weserfunken.example', kroeger['from'])
+        english = json.dumps(data['documents'][0], ensure_ascii=False)
+        self.assertIn('12:30', english)
+        self.assertIn('12:31', english)
+        self.assertIn('EUR 90,000', english)
+        self.assertIn('does not replace the Loan Agreement', english)
+        postal = json.dumps(data['documents'][1], ensure_ascii=False)
+        for fragment in ['15. September 2026', '10:24', '11:02', '08:46', '15. Oktober 2026', '29. Oktober 2026', '14:18:07']:
+            self.assertIn(fragment, postal)
+        self.assertIn('keine Bestätigung eines Versands der Klageerwiderung', postal)
+
     def test_foreign_service_has_one_month_notice_and_two_further_weeks(self):
         facts = json.loads((FIXTURES/'case.json').read_text())
         self.assertEqual(facts['service_date'], '2026-09-15')
@@ -105,6 +234,18 @@ class FintechCase(unittest.TestCase):
         self.assertIn('Klageerwiderung', text)
         self.assertIn('500.000', text)
         self.assertGreaterEqual(len(reader.outline), 3)
+        def destinations(items):
+            for item in items:
+                if isinstance(item, list):
+                    yield from destinations(item)
+                else:
+                    yield item
+        bookmarks = {item.title for item in destinations(reader.outline)}
+        supplements = json.loads((FIXTURES/'supplements.json').read_text())
+        for key in ('documents', 'workbooks', 'emails'):
+            for item in supplements[key]:
+                self.assertIn(item['id'], bookmarks)
+        self.assertEqual(len(bookmarks), 45)
         self.assertEqual(pdf_content_errors((CASE/'gesamt-pdf'/(SLUG+'_gesamt.pdf')).read_bytes()), [])
 
     def test_release_archives_match_sources(self):
@@ -127,6 +268,36 @@ class FintechCase(unittest.TestCase):
                 matches = [name for name in archive.namelist() if Path(name).stem == stem]
                 self.assertEqual(len(matches), 1, stem)
                 self.assertEqual(len(PdfReader(io.BytesIO(archive.read(matches[0]))).pages), pages)
+            expected_pages = {
+                '41_Completion_Confirmation_20221014': 2,
+                '42_Zahlungszuordnung_20260713': 3,
+                '43_Kontoabgleich_20260611': 5,
+                '44_Risikorueckfrage_20240409': 1,
+                '45_Vellio_Buchungsanlagen_20260713': 1,
+                '46_Kroeger_Kontoabgleich_20260611': 1,
+                '47_Posteingang_Fristen_20260922': 2,
+            }
+            for stem, count in expected_pages.items():
+                matches = [name for name in archive.namelist() if Path(name).stem == stem]
+                self.assertEqual(len(matches), 1)
+                pages = PdfReader(io.BytesIO(archive.read(matches[0]))).pages
+                self.assertEqual(len(pages), count, stem)
+                self.assertTrue(all(len(page.extract_text()) > 300 for page in pages), stem)
+                for page in pages:
+                    self.assertNotRegex(page.extract_text(), r'#{3,}|\(-407|#REF!|#VALUE!|#DIV/0!')
+                if stem == '43_Kontoabgleich_20260611':
+                    text = ' '.join(page.extract_text() for page in pages)
+                    self.assertIn('(500.000,00)', text)
+                    self.assertIn('(21.300,00)', text)
+            supplements = json.loads((FIXTURES/'supplements.json').read_text())
+            for mail in supplements['emails']:
+                path = supplements['folder']+'/'+mail['id']+'.pdf'
+                text = '\n'.join(page.extract_text() for page in PdfReader(io.BytesIO(archive.read(path))).pages)
+                for attachment in mail.get('attachments', []):
+                    self.assertIn(attachment, re.sub(r'\s+', '', text))
+                    self.assertIn('Anlagen', text)
+            pages = sum(len(PdfReader(io.BytesIO(archive.read(name))).pages) for name in archive.namelist() if name.endswith('.pdf'))
+            self.assertEqual(len(PdfReader(CASE/'gesamt-pdf'/(SLUG+'_gesamt.pdf')).pages), pages+2)
 
 
 if __name__ == '__main__':

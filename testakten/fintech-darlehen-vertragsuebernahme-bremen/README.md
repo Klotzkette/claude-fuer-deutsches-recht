@@ -11,7 +11,7 @@
 
 [Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
 
-Die Verfahrensakte gibt es in drei Formaten. Beide ZIPs erhalten die getrennten Ordner für Eingang, Klageerwiderung und Korrespondenz. Das Originalformat-ZIP enthält PDF, Word, E-Mail, Text und CSV, aber kein Markdown. Das Einzel-PDF-ZIP enthält jede Unterlage als eigenes PDF. Das Gesamt-PDF enthält auch die Klageerwiderung; sein Register und seine Lesezeichen führen zu den getrennten Arbeitsbereichen.
+Die Verfahrensakte gibt es in drei Formaten. Beide ZIPs erhalten die getrennten Ordner für Eingang, Klageerwiderung und Korrespondenz einschließlich des Unterordners `03_korrespondenz/04_vertiefung`. Das Originalformat-ZIP enthält PDF, Word, Excel, E-Mail, Text und CSV, aber kein Markdown. Das Einzel-PDF-ZIP enthält jede Unterlage als eigenes PDF. Das Gesamt-PDF enthält auch die Klageerwiderung; sein Register und seine Lesezeichen führen zu den getrennten Arbeitsbereichen.
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
@@ -47,6 +47,10 @@ English: Use the incoming file and correspondence folders for independent analys
 
 Die Eingangsakte umfasst die Klage mit 25 Seiten und zwölf Anlagen mit zusammen 75 Seiten. Hinzu kommen die gerichtliche Verfügung und der Zustellungsrücklauf. Die englischen Kreditunterlagen und deutschsprachigen Geschäftsunterlagen bleiben eigenständige Dokumente. Buchungen werden zusätzlich als maschinenlesbarer CSV-Export bereitgestellt.
 
+Der Bestand umfasst 42 eigenständige Arbeitsdateien: Die bisherigen 35 Originaldateien bleiben bytegleich erhalten; sieben vertiefende Unterlagen kommen hinzu. Der neue Unterordner enthält eine englische Vollzugsbestätigung und eine Posteingangs-/Fristenkontrolle in Word, zwei Excel-Arbeitsmappen mit Buchungsabgleichen sowie drei E-Mails. Zwei E-Mails führen insgesamt drei echte MIME-Anlagen mit, deren Bytes den separat abgelegten Word-/Excel-Dateien entsprechen. Diese eingebetteten Kopien zählen nicht als zusätzliche eigenständige Dokumente.
+
+Die Ergänzungen erläutern bereits dokumentierte Abläufe und ändern keine K-/B-Anlagen, Vertragssummen oder Schriftsätze. Später zusammengestellte Tabellen sind als solche datiert. Historische Kontobewegungen, die ausgewählte Kreditorenliste und der gesonderte Vorgang vom 2. Mai bleiben zeitlich getrennt. Die englische Vollzugsbestätigung ist nicht der zwölfseitige Übernahmevertrag; aus ihrer Ablage folgt nicht, dass die Klägerin diesen Vertrag vor Klageerhebung kannte.
+
 Die gesonderte Klageerwiderung enthält das Rubrum, Anträge, eine nach Anspruchsgruppen gegliederte Zuständigkeitsrüge, streitigen Sachvortrag, rechtliche Verteidigung und konkrete Beweisangebote. Ihre Anlagen haben einen eigenen B-Nummernkreis. Die bei der Bank eingegangenen K-Anlagen werden nicht stillschweigend als eigene Anlagen neu bezeichnet.
 
 Dieselbe zentrale Akte ist der `forderungsmanagement-klagewerkstatt` für die fachliche Bearbeitung der Forderungen und der `schriftsatz-versandwerkstatt` für die technische Endfertigung zugeordnet. Für die eigene Forderungsprüfung zunächst nur `01_eingang` und `03_korrespondenz` verwenden; der getrennte Antwortordner bleibt dem beschriebenen Produktionslauf vorbehalten. Die beiden Zuordnungen erzeugen keinen zweiten Fallbestand. Aus einem technisch erzeugten PDF folgt weder eine inhaltliche Freigabe noch eine wirksame elektronische Einreichung.
@@ -68,6 +72,8 @@ Die Herkunftshinweise stehen unmittelbar bei den Downloads und in der Datei `REA
 Die fallbezogenen Quellen stehen im [Quellenvermerk](../../quality/legal/fintech-bremen-quellen.md). Er gehört nicht zum Originalformat-ZIP. Der Originalbuilder lautet `scripts/build-fintech-bremen-akte.py`; der PDF-Builder `scripts/build-testakte-gesamt-pdf.py fintech-darlehen-vertragsuebernahme-bremen` erhält die Arbeitsbereiche, erzeugt ein Dokumentenregister und setzt Lesezeichen. Die zentralen ZIP-Builder erzeugen die beiden Archivfassungen.
 
 Der Regressionstest `scripts/test-fintech-bremen.py` prüft Seitenzahlen, Buchungswerte, Trennung der Arbeitsbereiche, native Dateien und die Übereinstimmung der Archive mit den Originalen. Eine menschliche juristische Freigabe oder ein Live-Versand wird durch diese Prüfungen nicht ersetzt.
+
+Mit `scripts/build-fintech-bremen-akte.py --supplements-only --qa-dir /tmp/fintech-expansion-qa/native` lassen sich nur die sieben Ergänzungen erzeugen. Der Aufruf prüft vorher und nachher die SHA-256-Werte der 35 bestehenden Dateien. `AKTEN_NODE` und `AKTEN_NODE_MODULES` können auf den bereitgestellten Node-/Artifact-tool-Laufzeitbestand zeigen. Die Arbeitsmappen enthalten echte Formeln mit geprüften Ergebniswerten; die Vorschauen und späteren ZIP-Prüfläufe werden außerhalb des Aktenordners abgelegt.
 
 <!-- BEGIN fintech-inventory -->
 <!-- decimal-anchor --> <a id="einzelunterlagen"></a>
@@ -115,5 +121,16 @@ Der Regressionstest `scripts/test-fintech-bremen.py` prüft Seitenzahlen, Buchun
 | [03_korrespondenz/20_Telefonnotiz_20240410_Terminabstimmung.txt](03_korrespondenz/20_Telefonnotiz_20240410_Terminabstimmung.txt) | Telefonnotiz vom 10. April 2024 - Gespräch mit Martin Grothe |
 | [03_korrespondenz/21_Telefonnotiz_20260710_Unterlagen_Streitstand.txt](03_korrespondenz/21_Telefonnotiz_20260710_Unterlagen_Streitstand.txt) | Telefonnotiz vom 10. Juli 2026 - Gespräch mit Dr. Falk Neubauer |
 | [30_Buchungsdaten_Geschaeftskonto.csv](03_korrespondenz/30_Buchungsdaten_Geschaeftskonto.csv) | Kontobuchungen mit Salden und Belegbezug |
+
+
+
+
+| [03_korrespondenz/04_vertiefung/41_Completion_Confirmation_20221014.docx](03_korrespondenz/04_vertiefung/41_Completion_Confirmation_20221014.docx) | Completion Confirmation |
+| [03_korrespondenz/04_vertiefung/42_Zahlungszuordnung_20260713.xlsx](03_korrespondenz/04_vertiefung/42_Zahlungszuordnung_20260713.xlsx) | Zahlungszuordnung und Abschlussabgleich |
+| [03_korrespondenz/04_vertiefung/43_Kontoabgleich_20260611.xlsx](03_korrespondenz/04_vertiefung/43_Kontoabgleich_20260611.xlsx) | Kontoabgleich März und April 2024 |
+| [03_korrespondenz/04_vertiefung/44_Risikorueckfrage_20240409.eml](03_korrespondenz/04_vertiefung/44_Risikorueckfrage_20240409.eml) | Weserfunken / NF-WP-221014-01: Rückfrage zu den Altunterlagen |
+| [03_korrespondenz/04_vertiefung/45_Vellio_Buchungsanlagen_20260713.eml](03_korrespondenz/04_vertiefung/45_Vellio_Buchungsanlagen_20260713.eml) | Weserfunken: Zuordnungstabelle und Vollzugsbestätigung |
+| [03_korrespondenz/04_vertiefung/46_Kroeger_Kontoabgleich_20260611.eml](03_korrespondenz/04_vertiefung/46_Kroeger_Kontoabgleich_20260611.eml) | NF-WP-221014-01: Kontoabgleich und Abgrenzung der offenen Posten |
+| [03_korrespondenz/04_vertiefung/47_Posteingang_Fristen_20260922.docx](03_korrespondenz/04_vertiefung/47_Posteingang_Fristen_20260922.docx) | Posteingang und Fristenkontrolle |
 
 <!-- END fintech-inventory -->

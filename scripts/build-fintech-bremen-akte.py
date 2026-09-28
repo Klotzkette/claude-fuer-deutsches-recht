@@ -3,9 +3,17 @@
 
 from __future__ import annotations
 
+import argparse
 import csv
+import hashlib
+import os
 import json
 import re
+import shutil
+import subprocess
+import tempfile
+import zipfile
+import xml.etree.ElementTree as ET
 from datetime import date, datetime
 from email import policy
 from email.message import EmailMessage
@@ -165,14 +173,14 @@ def docx_document(document):
     for run in header.runs:
         run.font.size = Pt(9)
     foot = sec.footer.paragraphs[0]
-    foot.text = document['reference']+' | Seite '
+    foot.text = document['reference']+(' | Page ' if document.get('language') == 'en-GB' else ' | Seite ')
     field = OxmlElement('w:fldSimple')
     field.set(qn('w:instr'), 'PAGE')
     foot._p.append(field)
     cp = doc.core_properties
     cp.author = cp.last_modified_by = 'Klotzkette'
     cp.title = document['title']
-    cp.language = 'en-GB' if 'Agreement' in document['title'] else 'de-DE'
+    cp.language = document.get('language', 'en-GB' if 'Agreement' in document['title'] else 'de-DE')
     cp.created = cp.modified = datetime.fromisoformat(document['date'])
     for i, page in enumerate(document['pages']):
         if i:
@@ -274,7 +282,162 @@ def other_records():
     ]
 
 
+def verify_originals():
+    expected = json.loads((FIXTURES/'original-sha256.json').read_text())
+    changed = [name for name, digest in expected.items()
+               if not (OUT/name).is_file() or hashlib.sha256((OUT/name).read_bytes()).hexdigest() != digest]
+    if changed:
+        raise ValueError('Originalbestand weicht von der gesicherten Fassung ab: '+', '.join(changed))
+
+
+def workbook_inputs():
+    with (OUT/'03_korrespondenz/30_Buchungsdaten_Geschaeftskonto.csv').open(encoding='utf-8-sig', newline='') as handle:
+        records = list(csv.DictReader(handle, delimiter=';'))
+    payments = []
+    for row in records:
+        if row['Empfänger'] != CASE['fintech']['name']:
+            continue
+        interest = 'Zinsperiode' in row['Verwendungszweck']
+        number = len(payments)+1
+        payments.append({'date': row['Buchungstag'], 'ref': f'VF-WP-Z{number:02d}' if interest else 'VF-WP-P01',
+                         'kind': 'Zinsen' if interest else 'Endtilgung',
+                         'interest': -int(row['Betrag EUR']) if interest else 0,
+                         'principal': 0 if interest else -int(row['Betrag EUR'])})
+    documents = json.loads((FIXTURES/'business-records.json').read_text())['documents']
+    k7 = next(d for d in documents if '_K7_' in d['id'])
+    op = []
+    for page_number, page in enumerate(k7['pages'], 1):
+        for creditor, invoice_date, due, amount in page.get('table', {}).get('rows', []):
+            if not due:
+                continue
+            invoice, invoice_date = invoice_date.split(' / ')
+            op.append({'creditor': creditor, 'invoice': invoice,
+                       'date': datetime.strptime(invoice_date, '%d.%m.%Y').date().isoformat(),
+                       'due': datetime.strptime(due, '%d.%m.%Y').date().isoformat(),
+                       'amount': int(amount.replace('.', '').removesuffix(',00')), 'source': f'K7 Blatt {page_number}'})
+    if len(payments) != 19 or len(op) != 12 or sum(row['amount'] for row in op) != 478380:
+        raise ValueError('Unerwarteter Umfang der zugrunde gelegten Zahlungs- oder Kreditorendaten')
+    return {'payments': payments, 'op': op, 'bank': [
+        {'date': row['Buchungstag'], 'recipient': row['Empfänger'], 'purpose': row['Verwendungszweck'],
+         'amount': int(row['Betrag EUR']), 'balance': int(row['Saldo EUR']), 'source': row['Beleg']}
+        for row in records]}
+
+
+def workbook_print_settings(path, metadata):
+    # Artifact-tool supplies values/formulas; only native print and file metadata are added here.
+    ns = 'http://schemas.openxmlformats.org/spreadsheetml/2006/main'
+    tag = lambda name: '{'+ns+'}'+name
+    with zipfile.ZipFile(path) as source:
+        entries = [(info, source.read(info)) for info in source.infolist()]
+    with zipfile.ZipFile(path, 'w', zipfile.ZIP_DEFLATED) as target:
+        for info, data in entries:
+            if re.fullmatch(r'xl/worksheets/sheet\d+\.xml', info.filename):
+                root = ET.fromstring(data)
+                properties = root.find(tag('sheetPr'))
+                if properties is None:
+                    properties = ET.Element(tag('sheetPr'))
+                    root.insert(0, properties)
+                fit = properties.find(tag('pageSetUpPr'))
+                if fit is None:
+                    fit = ET.SubElement(properties, tag('pageSetUpPr'))
+                fit.set('fitToPage', '1')
+                for name in ('pageMargins', 'pageSetup', 'headerFooter'):
+                    existing = root.find(tag(name))
+                    if existing is not None:
+                        root.remove(existing)
+                ET.SubElement(root, tag('pageMargins'), dict(left='0.3', right='0.3', top='0.35', bottom='0.4', header='0.15', footer='0.15'))
+                ET.SubElement(root, tag('pageSetup'), dict(paperSize='9', orientation='landscape', fitToWidth='1', fitToHeight='0'))
+                footer = ET.SubElement(root, tag('headerFooter'))
+                ET.SubElement(footer, tag('oddFooter')).text = '&LNF-WP-221014-01&C&A&RSeite &P / &N'
+                data = ET.tostring(root, encoding='utf-8', xml_declaration=True)
+            elif info.filename == 'docProps/core.xml':
+                root = ET.fromstring(data)
+                fields = {
+                    '{http://purl.org/dc/elements/1.1/}creator': 'Klotzkette',
+                    '{http://purl.org/dc/elements/1.1/}title': metadata['title'],
+                    '{http://schemas.openxmlformats.org/package/2006/metadata/core-properties}lastModifiedBy': 'Klotzkette',
+                }
+                for name, value in fields.items():
+                    element = root.find(name)
+                    if element is None:
+                        element = ET.SubElement(root, name)
+                    element.text = value
+                for name in ('created', 'modified'):
+                    key = '{http://purl.org/dc/terms/}'+name
+                    element = root.find(key)
+                    if element is None:
+                        element = ET.SubElement(root, key)
+                    element.set('{http://www.w3.org/2001/XMLSchema-instance}type', 'dcterms:W3CDTF')
+                    root.set('xmlns:dcterms', 'http://purl.org/dc/terms/')
+                    element.text = metadata['date']+'T12:00:00Z'
+                data = ET.tostring(root, encoding='utf-8', xml_declaration=True)
+            target.writestr(info, data)
+
+
+def build_supplements(qa_dir=None):
+    data = json.loads((FIXTURES/'supplements.json').read_text())
+    folder = data['folder']
+    destination = OUT/folder
+    destination.mkdir(parents=True, exist_ok=True)
+    for document in data['documents']:
+        docx_document({**document, 'folder': folder})
+    runtime = Path.home()/'.cache/codex-runtimes/codex-primary-runtime/dependencies/node'
+    node = os.environ.get('AKTEN_NODE') or str(runtime/'bin/node')
+    modules = Path(os.environ.get('AKTEN_NODE_MODULES', str(runtime/'node_modules')))
+    if not modules.is_dir():
+        raise RuntimeError('AKTEN_NODE_MODULES muss auf den bereitgestellten Artifact-tool-Modulordner zeigen')
+    with tempfile.TemporaryDirectory(prefix='fintech-native-') as tmp:
+        work = Path(tmp)
+        (work/'node_modules').symlink_to(modules, target_is_directory=True)
+        shutil.copyfile(FIXTURES/'supplement-workbooks.mjs', work/'build.mjs')
+        (work/'input.json').write_text(json.dumps(workbook_inputs(), ensure_ascii=False), encoding='utf-8')
+        previews = qa_dir or work/'previews'
+        subprocess.run([node, str(work/'build.mjs'), str(work/'input.json'), str(destination), str(previews)], check=True)
+    for workbook in data['workbooks']:
+        workbook_print_settings(destination/(workbook['id']+'.xlsx'), workbook)
+    for mail in data['emails']:
+        msg = EmailMessage(policy=policy.SMTP)
+        for key in ('from', 'to', 'cc'):
+            if mail.get(key):
+                msg[key.title()] = mail[key]
+        msg['Date'] = datetime.fromisoformat(mail['date'])
+        msg['Subject'] = mail['subject']
+        msg['Message-ID'] = f"<{mail['id']}@{mail['from'].split('@')[-1].rstrip('>')}>"
+        if mail.get('attachments'):
+            msg['X-Attachments'] = '; '.join(mail['attachments'])
+        msg.set_content(mail['body'])
+        for filename in mail.get('attachments', []):
+            suffix = Path(filename).suffix
+            subtype = 'wordprocessingml.document' if suffix == '.docx' else 'spreadsheetml.sheet'
+            msg.add_attachment((destination/filename).read_bytes(), maintype='application',
+                               subtype='vnd.openxmlformats-officedocument.'+subtype, filename=filename)
+        if mail.get('attachments'):
+            msg.set_boundary('=_fintech_'+mail['id'])
+        (destination/(mail['id']+'.eml')).write_bytes(bytes(msg))
+    rows = []
+    for key, extension in [('documents', 'docx'), ('workbooks', 'xlsx'), ('emails', 'eml')]:
+        for item in data[key]:
+            name = item['id']+'.'+extension
+            title = item.get('title', item.get('subject', '')).replace('|', '/')
+            rows.append((name, f'| [{folder}/{name}]({folder}/{name}) | {title} |'))
+    readme = OUT/'README.md'
+    text = readme.read_text(encoding='utf-8')
+    text = '\n'.join(line for line in text.splitlines() if not line.startswith(f'| [{folder}/'))+'\n'
+    text = text.replace('<!-- END fintech-inventory -->', '\n'.join(row for _, row in sorted(rows))+'\n\n<!-- END fintech-inventory -->')
+    readme.write_text(text, encoding='utf-8')
+    print('7 Ergänzungen: 2 DOCX, 2 XLSX, 3 EML; drei eingebettete Originalanlagen')
+
+
 def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--supplements-only', action='store_true', help='35 vorhandene Originaldateien nicht neu erzeugen')
+    parser.add_argument('--qa-dir', type=Path, help='Ziel für native Tabellen-Vorschaubilder')
+    args = parser.parse_args()
+    if args.supplements_only:
+        verify_originals()
+        build_supplements(args.qa_dir)
+        verify_originals()
+        return
     for suffix, bold in [('', False), ('Bold', True)]:
         pdfmetrics.registerFont(TTFont(FONT+suffix, str(serif_font_path(bold))))
     documents, emails, notes = [], [], []
@@ -329,7 +492,7 @@ def main():
     readme = OUT/'README.md'
     if readme.exists():
         begin, end = '<!-- BEGIN fintech-inventory -->', '<!-- END fintech-inventory -->'
-        lines = [begin, '## 1.5. Einzelunterlagen', '', NOTICE_MARKDOWN, '', '| Datei | Inhalt |', '| --- | --- |']
+        lines = [begin, '<!-- decimal-anchor --> <a id="einzelunterlagen"></a>', '', '## 1.6. Einzelunterlagen', '', NOTICE_MARKDOWN, '', '| Datei | Inhalt |', '| --- | --- |']
         for row in sorted(manifest, key=lambda item: item['path']):
             label = row['title'].replace('|', ' / ')
             lines.append(f"| [{row['path']}]({row['path']}) | {label} |")
@@ -346,6 +509,7 @@ def main():
         text = re.sub(re.escape(begin)+'.*?'+re.escape(end), lambda _: block.rstrip(), text, flags=re.S) if begin in text else text.rstrip()+'\n\n'+block
         readme.write_text(text, encoding='utf-8')
     print(f'{len(documents)} Dokumente, {len(emails)} E-Mails, {len(notes)} Notizen, {len(ledger)} Kontobuchungen')
+    build_supplements(args.qa_dir)
 
 
 if __name__ == '__main__':
