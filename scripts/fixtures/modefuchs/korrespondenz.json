@@ -1,0 +1,121 @@
+[
+  {
+    "file": "mail_Bestellung_1749.eml",
+    "from": "ModeFuchs Kundenservice <service@modefuchs.de>",
+    "to": "Gottlieb von Altenhausen <gottlieb.altenhausen@mustermail.de>",
+    "date": "Thu, 03 Apr 2025 14:22:00 +0200",
+    "subject": "Ihre Bestellung MF-20250403-1749",
+    "id": "<MF-20250403-1749.202504031422@modefuchs.de>",
+    "mailer": "ShopMailer 7.4",
+    "body": "Sehr geehrter Herr von Altenhausen,\n\nvielen Dank für Ihre Bestellung. Wir haben einen Cashmere-Mantel Aurelia, Größe 52, zum Preis von 499,00 EUR und die Lederhandtasche Noa, Modell Luca, zum Preis von 199,00 EUR für Sie aufgenommen. Der Gesamtpreis beträgt einschließlich Umsatzsteuer 698,00 EUR. Versandkosten werden nicht zusätzlich berechnet.\n\nAls Lieferanschrift haben Sie Kaiserstraße 47, 90403 Nürnberg angegeben. Gewählt ist Kauf auf Rechnung. Nach den Bestelldaten soll die Rechnung innerhalb von 14 Tagen nach Zugang bezahlt werden. Unsere Auftragsbestätigung nennt den 17.04.2025 als Zahlungsdatum. Die Rechnung folgt gesondert mit der Versandmitteilung; bitte verwenden Sie für Rückfragen die Auftragsnummer MF-20250403-1749.\n\nIm Anhang finden Sie die Bestellbestätigung für Ihre Unterlagen. Falls die Lieferanschrift noch geändert werden muss, antworten Sie bitte vor dem Versand auf diese Nachricht. Nach Übergabe an den Versanddienst können wir das Paket nicht mehr umleiten.\n\nMit freundlichen Grüßen\nModeFuchs Kundenservice\nModeFuchs GmbH, Kaiserplatz 12, 10002 Musterstadt\nGeschäftsführer Friedrich-Heinrich von Streithofen\nTelefon 030 1234567 | service@modefuchs.de\nHRB 012345, Amtsgericht Musterstadt\n",
+    "attachments": ["originale/01_Bestellbestaetigung_03-04-2025.pdf"]
+  },
+  {
+    "file": "Rechnung_April.eml",
+    "from": "ModeFuchs Rechnungswesen <rechnungswesen@modefuchs.de>",
+    "to": "Gottlieb von Altenhausen <gottlieb.altenhausen@mustermail.de>",
+    "date": "Sun, 06 Apr 2025 10:18:00 +0200",
+    "subject": "R-20250406-3098 | Ihre Rechnung und Versandmitteilung",
+    "id": "<R-20250406-3098.202504061018@modefuchs.de>",
+    "mailer": "ShopMailer 7.4",
+    "body": "Sehr geehrter Herr von Altenhausen,\n\nIhre Bestellung MF-20250403-1749 hat unser Lager verlassen. Anbei erhalten Sie die Rechnung R-20250406-3098 über 698,00 EUR und die Versandbestätigung. Beide PDF-Dateien gehören zu derselben Bestellung; die Versandbestätigung ist keine weitere Rechnung.\n\nBitte geben Sie bei der Überweisung die Rechnungsnummer an. In der Rechnung ist der 17.04.2025 als Fälligkeitsdatum vermerkt. Zahlungsempfänger ist die ModeFuchs GmbH, IBAN DE12 3456 7890 1234 5678 90 bei der Musterbank AG, BIC MUSWDEFF. Die Rechnung enthält auch die Aufteilung von Nettobetrag und Umsatzsteuer.\n\nDas Paket ist unter MF-SND-987654321 erfasst. Als voraussichtlichen Zustelltag nennt die Versandbestätigung den 08.04.2025. Falls ein Anhang nicht geöffnet werden kann, antworten Sie bitte auf diese E-Mail. Wir schicken Ihnen das Dokument dann erneut zu.\n\nMit freundlichen Grüßen\nModeFuchs Rechnungswesen\nModeFuchs GmbH, Kaiserplatz 12, 10002 Musterstadt\nTelefon 030 1234567 | rechnungswesen@modefuchs.de\nGeschäftsführer Friedrich-Heinrich von Streithofen\nHRB 012345, Amtsgericht Musterstadt\n",
+    "attachments": ["originale/04_Rechnung_R-20250406-3098.pdf", "originale/02_Versandbestaetigung_06-04-2025.pdf"]
+  },
+  {
+    "file": "Zahlungserinnerung_20_04.eml",
+    "from": "ModeFuchs Rechnungswesen <rechnungswesen@modefuchs.de>",
+    "to": "Gottlieb von Altenhausen <gottlieb.altenhausen@mustermail.de>",
+    "date": "Sun, 20 Apr 2025 09:00:00 +0200",
+    "subject": "Zahlungserinnerung - Rechnung R-20250406-3098",
+    "id": "<R-20250406-3098.202504200900@modefuchs.de>",
+    "reply_to": "<R-20250406-3098.202504061018@modefuchs.de>",
+    "mailer": "ShopMailer 7.4",
+    "body": "Sehr geehrter Herr von Altenhausen,\n\nunsere Buchhaltung hat festgestellt, dass die Rechnung R-20250406-3098 in Höhe von € 698,00 trotz Fälligkeit am 17.04.2025 noch nicht ausgeglichen wurde. Wir bitten Sie, den Betrag binnen sieben Tagen, also bis zum 27.04.2025, auf unser Konto zu überweisen.\n\nSollten Sie die Zahlung bereits veranlasst haben, betrachten Sie diese E-Mail als gegenstandslos.\n\nMit verbindlichen Grüßen\nModeFuchs GmbH — Rechnungswesen\n\nDies ist eine automatisch generierte Nachricht.\n",
+    "attachments": ["originale/05_Erste_Zahlungserinnerung_20-04-2025.pdf"]
+  },
+  {
+    "file": "DRINGEND_Rechnung_3098.eml",
+    "from": "ModeFuchs Forderungsmanagement <forderungsmanagement@modefuchs.de>",
+    "to": "Gottlieb von Altenhausen <gottlieb.altenhausen@mustermail.de>",
+    "date": "Sun, 04 May 2025 10:15:00 +0200",
+    "subject": "DRINGEND: Zweite Mahnung - Rechnung R-20250406-3098",
+    "id": "<R-20250406-3098.202505041015@modefuchs.de>",
+    "reply_to": "<R-20250406-3098.202504200900@modefuchs.de>",
+    "body": "Sehr geehrter Herr von Altenhausen,\n\nunsere Rechnung R-20250406-3098 ist trotz erster Erinnerung weiterhin offen. Damit befinden Sie sich gemäß Paragraf 286 BGB im Zahlungsverzug.\n\nWir sehen uns daher veranlasst, eine Mahnpauschale von € 5,50 hinzuzurechnen. Der aktuelle Forderungsstand beträgt € 703,50. Wir setzen Ihnen hiermit eine letzte Frist zur Zahlung bis zum 11.05.2025.\n\nSollten wir bis zu diesem Zeitpunkt keinen Zahlungseingang verzeichnen, werden wir ohne weitere Ankündigung rechtliche Schritte einleiten.\n\nMit verbindlichen Grüßen\nModeFuchs GmbH — Forderungsmanagement\n",
+    "attachments": ["originale/06_Zweite_Mahnung_E-Mail_04-05-2025.pdf", "originale/04_Rechnung_R-20250406-3098.pdf"]
+  },
+  {
+    "file": "WG_Postbeleg_von_heute.eml",
+    "from": "Sabine Wienecke <buchhaltung@modefuchs-shop.de>",
+    "to": "ModeFuchs Forderungsmanagement <forderungsmanagement@modefuchs.de>",
+    "date": "Thu, 22 May 2025 17:06:00 +0200",
+    "subject": "Altenhausen / Postbeleg von heute",
+    "id": "<MF-1749.202505221706@modefuchs-shop.de>",
+    "body": "Hallo zusammen,\n\ndas Schreiben an Herrn von Altenhausen ist heute mit zur Post gegangen. Anbei das Handyfoto des Einlieferungsbelegs, aufgenommen nach dem Termin in der Filiale. Die aufgedruckte Einlieferungszeit ist 16:42 Uhr, Sendungsnummer RE 4471 2233 887 DE. Die 2,95 EUR habe ich über die Portokasse ausgelegt.\n\nDie Anschrift auf dem Beleg ist Kaiserstraße 47 in Nürnberg, genauso wie im Kundenstamm. Ich habe den letzten Mahnbrief vom 22.05. beigefügt. Der frühere Brief vom 05.05. liegt noch in der Papiermappe. Bitte den Papierbeleg und den heutigen Brief zusammen ablegen, damit wir die Sendungsnummer später wiederfinden.\n\nEine Zustellbestätigung habe ich noch nicht. Auf dem Foto ist nur die Einlieferung zu sehen. Den Papierbeleg lege ich morgen in das Fach mit der Rechnung R-20250406-3098.\n\nViele Grüße\nSabine Wienecke\nBuchhaltung, ModeFuchs GmbH\nKaiserplatz 12, 10002 Musterstadt\nTelefon 030 1234567 | buchhaltung@modefuchs-shop.de\n",
+    "attachments": ["IMG_2047.jpg", "originale/08_Zweite_Mahnung_Post_22-05-2025.pdf"]
+  },
+  {
+    "file": "Forderungsuebergabe_1749.eml",
+    "from": "Sabine Wienecke <buchhaltung@modefuchs-shop.de>",
+    "to": "InkassoZentrale GmbH <kontakt@inkassozentrale-gmbh.de>",
+    "date": "Sun, 08 Jun 2025 12:08:00 +0200",
+    "subject": "ModeFuchs / Altenhausen - Unterlagen zur Abtretung",
+    "id": "<MF-1749.202506081208@modefuchs-shop.de>",
+    "body": "Guten Tag,\n\nwie mit Ihrer Annahmestelle besprochen, übersenden wir die Abtretung vom heutigen Tag sowie die Rechnung R-20250406-3098. Der Warenwert beträgt 698,00 EUR. Die in der Abtretung aufgeführten weiteren Beträge stammen aus unserem Mahnlauf. Der Kunde hat die Ware nicht zurückgeschickt. In unserem bis gestern Abend abgeglichenen Konto ist keine passende Zahlung eingegangen.\n\nBitte bestätigen Sie uns Ihr Bearbeitungszeichen. Die Papiermahnungen vom 05.05. und 22.05. sowie das Foto des Einlieferungsbelegs schicken wir auf Anforderung ebenfalls. Eine Nachricht über eine geänderte Anschrift ist in meinem Buchhaltungspostfach nicht auffindbar; im Kundenstamm steht weiterhin Kaiserstraße 47, 90403 Nürnberg.\n\nSollte noch eine Direktzahlung bei uns eingehen, melden wir diese unter Angabe der Rechnungsnummer. Ansprechpartner für den Kontoabgleich bin ich. Rückfragen zur Abtretungsurkunde kann unser Geschäftsführer Friedrich-Heinrich von Streithofen beantworten.\n\nMit freundlichen Grüßen\nSabine Wienecke\nBuchhaltung, ModeFuchs GmbH\nKaiserplatz 12, 10002 Musterstadt\nTelefon 030 1234567 | buchhaltung@modefuchs-shop.de\n",
+    "attachments": ["originale/09_Abtretungserklaerung_08-06-2025.pdf", "originale/04_Rechnung_R-20250406-3098.pdf"]
+  },
+  {
+    "file": "AW_Zahlungsnachweis_ModeFuchs.eml",
+    "from": "Gottlieb von Altenhausen <gottlieb.altenhausen@mustermail.de>",
+    "to": "RA Brezelmann <brezelmann@brezelmann-collegen.de>",
+    "date": "Fri, 27 Jun 2025 16:42:00 +0200",
+    "subject": "Zahlungsnachweis ModeFuchs - bitte anbei",
+    "id": "<altenhausen.202506271642@mustermail.de>",
+    "body": "Sehr geehrter Herr Brezelmann,\n\nwie heute in unserem Gespräch besprochen, übersende ich Ihnen anbei den aktuellen Kontoauszug meiner Bank, aus dem sich die von mir vorgenommene Zahlung des offenen Betrags an die ModeFuchs GmbH ergibt. Die Überweisung über 698,00 € ist am 26.06.2025 erfolgt und trägt den Verwendungszweck „R-20250406-3098“.\n\nIch war ehrlich gesagt sehr überrascht, dass bereits ein Inkassounternehmen eingeschaltet worden ist. Wie ich Ihnen geschildert habe, habe ich weder E-Mails der Firma ModeFuchs gesehen (mutmaßlich wegen meines sehr strengen Spamfilters) noch während meines Umzugs verlässlich Post erhalten. Von der offenen Forderung habe ich deshalb erst durch das Inkassoschreiben erfahren.\n\nIch wäre Ihnen dankbar, wenn Sie für mich prüfen könnten, ob und in welchem Umfang die zusätzlich geltend gemachten Kosten – insbesondere die Inkassogebühren – tatsächlich von mir zu tragen sind oder ob sich hier Möglichkeiten zur Reduzierung oder zum Wegfall ergeben.\n\nVielen Dank für Ihre Unterstützung und freundliche Grüße\nGottlieb von Altenhausen\n",
+    "attachments": ["originale/19_Kontoauszug_Altenhausen_26-06-2025.pdf"],
+    "attachment_names": {"originale/19_Kontoauszug_Altenhausen_26-06-2025.pdf": "Kontoauszug_26-06-2025.pdf"}
+  },
+  {
+    "file": "Noch_das_Bild_vom_Postfach.eml",
+    "from": "Gottlieb von Altenhausen <gottlieb.altenhausen@mustermail.de>",
+    "to": "RA Brezelmann <brezelmann@brezelmann-collegen.de>",
+    "date": "Fri, 27 Jun 2025 18:21:00 +0200",
+    "subject": "AW: Zahlungsnachweis ModeFuchs - noch das Bild vom Postfach",
+    "id": "<altenhausen.202506271821@mustermail.de>",
+    "reply_to": "<altenhausen.202506271642@mustermail.de>",
+    "body": "Sehr geehrter Herr Brezelmann,\n\nhier noch das angekündigte Bildschirmfoto. Ich habe es gerade um 18:17 Uhr an meinem Rechner gemacht. Bei unbekannten Absendern steht dort Junk-Ordner und beim automatischen Löschen zehn Tage. Ich habe vor dem Foto nichts umgestellt.\n\nIch finde in dem Programm allerdings keine Liste früherer Einstellungen. Deshalb kann ich Ihnen nicht sagen, ob exakt diese Auswahl schon am Tag der Rechnungs-E-Mail so war. Die Nachrichten vom April finde ich weder im Papierkorb noch im Junk-Ordner. Ein Ausdruck der Einstellungen ist mir nicht gelungen; deshalb schicke ich das Bild.\n\nDen Brief mit der Mahnung suche ich am Wochenende noch in den Umzugskartons. Den Einlieferungsbeleg des Absenders habe ich selbst nicht. Wenn Sie eine bestimmte Ansicht des Postfachs benötigen, sagen Sie mir bitte, wo ich klicken soll.\n\nFreundliche Grüße\nGottlieb von Altenhausen\nLorenzer Straße 3, 90402 Nürnberg\ngottlieb.altenhausen@mustermail.de\n",
+    "attachments": ["Bildschirmfoto_2025-06-27_1817.png"]
+  },
+  {
+    "file": "Zahlungsbestaetigung_3098.eml",
+    "from": "ModeFuchs Rechnungswesen <rechnungswesen@modefuchs.de>",
+    "to": "Gottlieb von Altenhausen <gottlieb.altenhausen@mustermail.de>",
+    "date": "Mon, 30 Jun 2025 10:12:00 +0200",
+    "subject": "Ihre Zahlung zur Rechnung R-20250406-3098",
+    "id": "<R-20250406-3098.202506301012@modefuchs.de>",
+    "body": "Sehr geehrter Herr von Altenhausen,\n\nanbei erhalten Sie unsere Zahlungsbestätigung vom heutigen Tag. Wir haben 698,00 EUR der Rechnung R-20250406-3098 zugeordnet. In unserer Bestätigung ist der 28.06.2025 als Eingangstag angegeben.\n\nDa die Forderung bereits an die InkassoZentrale GmbH übertragen worden war, geben wir die Information an die dortige Sachbearbeitung weiter. Bitte überweisen Sie den Warenbetrag nicht noch einmal an uns. Zu den von der InkassoZentrale zusätzlich verlangten Positionen kann unser Kundenservice keine abschließende Auskunft erteilen. Wenden Sie sich hierzu bitte unter deren Aktenzeichen an die Sachbearbeitung.\n\nIhre Postanschrift haben wir für dieses Schreiben auf Lorenzer Straße 3, 90402 Nürnberg übernommen. Die Anschrift in den älteren Bestell- und Versandunterlagen bleibt die seinerzeit erfasste Kaiserstraße 47.\n\nMit freundlichen Grüßen\nModeFuchs Rechnungswesen\nModeFuchs GmbH, Kaiserplatz 12, 10002 Musterstadt\nTelefon 030 1234567 | rechnungswesen@modefuchs.de\n",
+    "attachments": ["originale/27_Zahlungsbestaetigung_ModeFuchs_30-06-2025.pdf"]
+  },
+  {
+    "file": "Weiterleitung_Direktzahlung_1749.eml",
+    "from": "Sabine Wienecke <buchhaltung@modefuchs-shop.de>",
+    "to": "Denise Radtke <bearbeitung@inkassozentrale-berlin.de>",
+    "date": "Tue, 01 Jul 2025 15:52:00 +0200",
+    "subject": "IZ-MF-2025-1749 / Direktzahlung und Weiterleitung 698,00 EUR",
+    "id": "<MF1749.202507011552@modefuchs-shop.de>",
+    "body": "Guten Tag Frau Radtke,\n\nbeim Kontoabgleich ist die Zahlung von Herrn von Altenhausen zur Rechnung R-20250406-3098 aufgefallen. Er hat am 26.06. überwiesen. Unsere Bestätigung vom 30.06. nennt den Eingang bei ModeFuchs am 28.06.; die Bestätigung hängt an.\n\nWir haben die 698,00 EUR am 30.06. ungekürzt an die InkassoZentrale weitergeleitet. Als Verwendungszweck haben wir IZ-MF-2025-1749 / R-20250406-3098 angegeben. Bitte bestätigen Sie mir den Eingang auf Ihrem Konto und die Zuordnung. Das ist dieselbe Kundenzahlung, kein zweiter Zahlungsvorgang des Herrn von Altenhausen. Die Meldung kommt erst heute, weil sie zunächst im normalen Shop-Abgleich gelandet war.\n\nIn unserer Ausgangsliste stehen noch die E-Mail-Rechnung und die Mahnungen. Ein Bildschirmfoto aus dem Postausgang lege ich bei. Die Ansicht zeigt Versanddatensätze, nicht das Postfach des Kunden. Ob er die Mails gelesen hat, kann ich damit nicht sehen.\n\nViele Grüße\nSabine Wienecke\nBuchhaltung ModeFuchs GmbH\nKaiserplatz 12, 10002 Musterstadt\nTelefon 030 1234567 | buchhaltung@modefuchs-shop.de\n",
+    "attachments": ["originale/27_Zahlungsbestaetigung_ModeFuchs_30-06-2025.pdf", "Bildschirmfoto_Postausgang_20250701.png"]
+  },
+  {
+    "file": "10_email_zahlungseingang_modefuchs_inkasso.eml",
+    "from": "Denise Radtke <bearbeitung@inkassozentrale-berlin.de>",
+    "to": "Sabine Wienecke <buchhaltung@modefuchs-shop.de>",
+    "date": "Wed, 02 Jul 2025 09:41:18 +0200",
+    "subject": "AW: IZ-MF-2025-1749 / Direktzahlung und Weiterleitung 698,00 EUR",
+    "id": "<IZMF20251749.202507020941@inkassozentrale-berlin.de>",
+    "reply_to": "<MF1749.202507011552@modefuchs-shop.de>",
+    "body": "Sehr geehrte Frau Wienecke,\n\ndie weitergeleitete Direktzahlung über 698,00 EUR ist am 01.07. auf unserem Konto verbucht und IZ-MF-2025-1749 zugeordnet worden. Ihre Bestätigung vom 30.06. liegt vor; unseren Nachvermerk vom 01.07. finden Sie anbei. Eine zusätzliche Kundenzahlung ist das nicht.\n\nDie Aufstellung führt weiterhin 5,50 EUR Mahnkosten, 10,80 EUR Zinsen und 83,54 EUR Inkassokosten; hierzu ist keine weitere Zahlung eingegangen. Das Schreiben der Kanzlei Brezelmann vom 30.06. liegt unbeantwortet bei unserer Rechtsabteilung. Bitte keinen neuen Mahnlauf bei ModeFuchs beginnen und weitere Kundenschreiben unter unserem Bearbeitungszeichen weiterleiten.\n\nMit freundlichen Grüßen\nDenise Radtke, Sachbearbeitung Forderungsmanagement\nInkassoZentrale GmbH, Friedrich-Krause-Ufer 42, 13353 Berlin\nTelefon 030 4467-8120\n",
+    "quote_message": "<MF1749.202507011552@modefuchs-shop.de>",
+    "attachments": ["originale/15_Zahlungsnotiz_Inkasso_01-07-2025.pdf"]
+  }
+]

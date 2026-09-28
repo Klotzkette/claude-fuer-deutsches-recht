@@ -141,7 +141,7 @@ Wenn der Output nicht erscheint oder der Skill abbricht: das Plugin ist nicht fu
 
 **Schritt 2 — Verzugszinsen:** `python3 werkzeuge/verzugszins_rechner.py --forderung <eur> --beginn <datum> --art b2b`.
 
-**Schritt 3 — Inkasso-Gate:** `/forderungsmanagement-klagewerkstatt:inkasso-zahlungsklage-ersteller` oder `python forderungsmanagement-klagewerkstatt/scripts/inkasso_claim_gate.py --input testakten/inkasso-zahlungsklage-modefuchs/08_claim_gate_input.json`.
+**Schritt 3 — Inkasso-Gate:** `/forderungsmanagement-klagewerkstatt:inkasso-zahlungsklage-ersteller` oder aus dem Repository-Wurzelverzeichnis `python forderungsmanagement-klagewerkstatt/scripts/inkasso_claim_gate.py --input quality/fixtures/modefuchs/08_claim_gate_input.json`. Ohne `--output` bleibt die Lauf-Ausgabe auf der Standardausgabe; sie wird nicht in die Arbeitsakte geschrieben. Die getrennten Prüfdaten gehören nicht zu den Akten-Downloads.
 
 **Erwarteter Output:** Aufstellung mit allen Basiszinsperioden zwischen Verzugsbeginn und Berechnungstag, taggenaue Zinsen, Endsumme. Beim ModeFuchs-Fall zusätzlich: Hauptforderung 698,00 EUR `ROT`, Nebenforderungen 99,84 EUR `GELB`, keine Klage über 797,84 EUR.
 

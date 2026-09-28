@@ -49,7 +49,7 @@ Die Eingangsakte umfasst die Klage mit 25 Seiten und zwölf Anlagen mit zusammen
 
 Die gesonderte Klageerwiderung enthält das Rubrum, Anträge, eine nach Anspruchsgruppen gegliederte Zuständigkeitsrüge, streitigen Sachvortrag, rechtliche Verteidigung und konkrete Beweisangebote. Ihre Anlagen haben einen eigenen B-Nummernkreis. Die bei der Bank eingegangenen K-Anlagen werden nicht stillschweigend als eigene Anlagen neu bezeichnet.
 
-Die Akte ist der `schriftsatz-versandwerkstatt` zugeordnet. Die fachliche Bearbeitung der Ansprüche und die technische Endfertigung sind verschiedene Aufträge. Aus einem technisch erzeugten PDF folgt weder eine inhaltliche Freigabe noch eine wirksame elektronische Einreichung.
+Dieselbe zentrale Akte ist der `forderungsmanagement-klagewerkstatt` für die fachliche Bearbeitung der Forderungen und der `schriftsatz-versandwerkstatt` für die technische Endfertigung zugeordnet. Für die eigene Forderungsprüfung zunächst nur `01_eingang` und `03_korrespondenz` verwenden; der getrennte Antwortordner bleibt dem beschriebenen Produktionslauf vorbehalten. Die beiden Zuordnungen erzeugen keinen zweiten Fallbestand. Aus einem technisch erzeugten PDF folgt weder eine inhaltliche Freigabe noch eine wirksame elektronische Einreichung.
 
 <!-- decimal-anchor --> <a id="herkunft-und-hinweise"></a>
 

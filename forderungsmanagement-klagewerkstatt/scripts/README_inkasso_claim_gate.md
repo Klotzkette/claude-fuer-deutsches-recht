@@ -6,12 +6,13 @@
 - `GELB`: nur nach anwaltlicher Freigabe, Rückfrage oder Vergleichsvorschlag.
 - `ROT`: nicht einklagen.
 
-Beispiel:
+Beispiel aus dem Repository-Wurzelverzeichnis:
 
 ```bash
-python scripts/inkasso_claim_gate.py \
-  --input testakten/inkasso-zahlungsklage-modefuchs/08_claim_gate_input.json \
-  --output testakten/inkasso-zahlungsklage-modefuchs/09_claim_gate_output.json
+python forderungsmanagement-klagewerkstatt/scripts/inkasso_claim_gate.py \
+  --input quality/fixtures/modefuchs/08_claim_gate_input.json
 ```
+
+Ohne `--output` erscheint das Ergebnis auf der Standardausgabe. Die Eingabe und die getrennte Referenzausgabe `quality/fixtures/modefuchs/09_claim_gate_output.json` sind technische Prüfdaten, keine Arbeitsunterlagen der Downloadakte. Eine gespeicherte Lauf-Ausgabe gehört außerhalb von `testakten/` und darf die Referenzausgabe nicht überschreiben.
 
 Das Werkzeug ersetzt keine materiell-rechtliche Prüfung. Es verhindert nur, dass erfüllte oder nicht belegte Positionen ungeprüft in eine Klage übernommen werden.

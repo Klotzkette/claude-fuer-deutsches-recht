@@ -73,6 +73,7 @@ jobs:
           python3 scripts/test-testakte-pdf-build.py
           python3 scripts/test-testakte-projektordner.py
           python3 scripts/test-fintech-bremen.py
+          python3 scripts/test-modefuchs-lebensakte.py
           python3 scripts/test-office-resilience.py
           python3 scripts/test-testakten-email-quality.py
           python3 scripts/test-testakten-ohne-loesungen.py
@@ -268,6 +269,7 @@ jobs:
           python3 scripts/test-bauwirtschaft-hildesheim.py --assets dist
           python3 scripts/test-bauwirtschaft-hildesheim-lebensakte.py --assets dist
           python3 scripts/test-fintech-bremen.py --assets dist
+          python3 scripts/test-modefuchs-lebensakte.py --assets dist
 
       - name: Skill-Markdown-Bundles bauen (echte Downloads pro Plugin)
         run: |

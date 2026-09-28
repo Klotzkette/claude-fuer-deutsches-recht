@@ -62,7 +62,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
-| [Akte Inkasso ModeFuchs – Cowork-Sonderfall (unsortierter Desktop-Ordner)](../testakten/inkasso-modefuchs-cowork-sonderfall/README.md) | [Gesamt-PDF](../testakten/inkasso-modefuchs-cowork-sonderfall/gesamt-pdf/inkasso-modefuchs-cowork-sonderfall_gesamt.pdf) | [`testakte-inkasso-modefuchs-cowork-sonderfall.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-inkasso-modefuchs-cowork-sonderfall.zip) | [`testakte-inkasso-modefuchs-cowork-sonderfall-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-inkasso-modefuchs-cowork-sonderfall-einzelpdfs.zip) |
+| [Weserfunken Darlehensverfahren Bremen](../testakten/fintech-darlehen-vertragsuebernahme-bremen/README.md) | [Gesamt-PDF](../testakten/fintech-darlehen-vertragsuebernahme-bremen/gesamt-pdf/fintech-darlehen-vertragsuebernahme-bremen_gesamt.pdf) | [`testakte-fintech-darlehen-vertragsuebernahme-bremen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-fintech-darlehen-vertragsuebernahme-bremen.zip) | [`testakte-fintech-darlehen-vertragsuebernahme-bremen-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-fintech-darlehen-vertragsuebernahme-bremen-einzelpdfs.zip) |
 | [Akte Inkasso-Zahlungsklage ModeFuchs](../testakten/inkasso-zahlungsklage-modefuchs/README.md) | [Gesamt-PDF](../testakten/inkasso-zahlungsklage-modefuchs/gesamt-pdf/inkasso-zahlungsklage-modefuchs_gesamt.pdf) | [`testakte-inkasso-zahlungsklage-modefuchs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-inkasso-zahlungsklage-modefuchs.zip) | [`testakte-inkasso-zahlungsklage-modefuchs-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-inkasso-zahlungsklage-modefuchs-einzelpdfs.zip) |
 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
@@ -111,7 +111,9 @@ Der neue Direktlauf ist für Fälle gedacht, in denen eine Forderungsakte schon 
 - Mahnkosten, Verzugszinsen, Inkassokosten und Mahnverfahrenskosten einzeln.
 - Gerichtsort mit aktueller ladungsfähiger Anschrift.
 
-Die ModeFuchs-Testakte unter [`inkasso-zahlungsklage-modefuchs/`](../testakten/inkasso-zahlungsklage-modefuchs/) ist der Referenzfall: Hauptforderung 698,00 EUR bezahlt vor Klageeinreichung, Nebenforderungen 99,84 EUR streitig. Erwartung: Hauptforderung rot, Nebenforderungen gelb, keine automatische Klage über 797,84 EUR. Direktdownload siehe Sofort-Download-Sektion oben.
+Die [ModeFuchs-Akte](../testakten/inkasso-zahlungsklage-modefuchs/README.md) verbindet die ausführlichen PDF-Unterlagen mit nativen E-Mails und Anhängen, Scanableitungen, Belegfoto, Bildschirmfotos, Forderungskonto und Klagearbeitsfassung. Sie dient der aktenbasierten Forderungsprüfung und Anlagenzuordnung, ohne eine Falllösung vorzugeben.
+
+Die [FinTech-Akte Weserfunken aus Bremen](../testakten/fintech-darlehen-vertragsuebernahme-bremen/README.md) ergänzt die Forderungsprüfung um Kredit- und Übernahmeverträge, Buchungsunterlagen und grenzüberschreitende Korrespondenz. Für die eigene Bearbeitung zunächst nur `01_eingang` und `03_korrespondenz` laden. `02_klageerwiderung` enthält bereits einen Parteischriftsatz für die gesonderte technische Endfertigung mit der `schriftsatz-versandwerkstatt`. Beide Plugins greifen auf dieselbe zentrale Akte zu. Direktdownloads für beide Fälle stehen oben.
 
 ## Plugin-Generator
 
