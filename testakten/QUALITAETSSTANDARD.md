@@ -7,15 +7,17 @@ Testakten sind keine Examensfälle mit sauberer Lösungsskizze. Sie sind Arbeits
 Jede Testakte wird in drei gleichwertigen Fassungen ausgeliefert:
 
 1. Gesamt-PDF: ein konsolidiertes, durchsuchbares PDF unter `gesamt-pdf/<aktenordner>_gesamt.pdf`, damit sich die Akte am Stück lesen und ausdrucken lässt. Es enthält weder eine Hinweisseite noch den verbindlichen zweisprachigen Warntext; dieser steht unmittelbar über dem Downloadlink oder der Downloadtabelle auf der README-Seite.
-2. Einzel-PDF-ZIP: jede Unterlage als eigene PDF ohne Hinweisseite oder Warntext. Sämtliche PDFs liegen unmittelbar auf der Wurzelebene des ZIPs; frühere Ordnernamen werden bei Bedarf mit doppeltem Unterstrich in den Dateinamen übernommen. Hinzu kommt die UTF-8-kodierte `README.txt`, die mit dem verbindlichen zweisprachigen Hinweis beginnt.
-3. Akten-ZIP: die disparaten Originaldateien in realistischen Formaten, etwa EML, DOCX, XLSX, CSV, PDF, JPG, PNG oder TXT. Auch dieses ZIP ist vollständig flach und enthält weder Unterordner noch Markdown-Dateien. Hinzu kommt ausschließlich die UTF-8-kodierte `README.txt`, die mit dem verbindlichen zweisprachigen Hinweis beginnt.
+2. Einzel-PDF-ZIP: jede Unterlage als eigene PDF ohne Hinweisseite oder Warntext. Im Regelfall liegen sämtliche PDFs unmittelbar auf der Wurzelebene des ZIPs; frühere Ordnernamen werden bei Bedarf mit doppeltem Unterstrich in den Dateinamen übernommen. Hinzu kommt die UTF-8-kodierte `README.txt`, die mit dem verbindlichen zweisprachigen Hinweis beginnt.
+3. Akten-ZIP: die disparaten Originaldateien in realistischen Formaten, etwa EML, DOCX, XLSX, CSV, PDF, JPG, PNG oder TXT. Im Regelfall ist auch dieses ZIP vollständig flach und enthält weder Unterordner noch Markdown-Dateien. Hinzu kommt ausschließlich die UTF-8-kodierte `README.txt`, die mit dem verbindlichen zweisprachigen Hinweis beginnt.
 
-Das Gesamt-PDF ersetzt die Einzeldokumente nicht. Es ist die Lesefassung neben den heterogenen Originaldateien. Die beiden ZIPs müssen nach dem Öffnen sofort ihre Dateien zeigen, ohne vorgeschalteten Aktenordner.
+Das Gesamt-PDF ersetzt die Einzeldokumente nicht. Es ist die Lesefassung neben den heterogenen Originaldateien. Die beiden ZIPs müssen nach dem Öffnen ihre Ablage ohne vorgeschalteten Aktenordner zeigen.
+
+**Ausdrücklich bestellte Projektordner:** Für `bauwirtschaft-hildesheim-lebensakte` bleiben auf Nutzerwunsch die relativen Unterordner in beiden ZIP-Varianten erhalten. Die `README.txt` steht weiterhin zuerst auf der ZIP-Wurzel. Pfadtraversal, absolute Pfade, Steuerzeichen und Namenskollisionen bleiben ausgeschlossen. Alle anderen Akten behalten ihre flachen Archive.
 
 ## Inhaltliche Qualität
 
 - Keine vorgefertigte Lösung, keine versteckte Musterantwort.
-- Keine sichtbaren Platzhalter in der Akte selbst.
+- Keine sichtbaren Platzhalter in den abgeschlossenen Aktenstücken. In der ausdrücklich bestellten Vorlagensammlung `bauwirtschaft-hildesheim-lebensakte/12_Wordvorlagen` sind beschriftete Eingabefelder in Wordvorlagen zulässig. Der eng begrenzte Exportfilter lässt weiterhin keine Musterlösungen oder redaktionellen Prüfertexte durch.
 - Keine Texte, die aus der Aktenlogik fallen oder die Arbeitsakte als Übungsmaterial markieren. Der nachfolgende verbindliche Herkunfts- und Risikohinweis bleibt außerhalb der PDFs auf den Downloadseiten und in der `README.txt` der Archive; er enthält keine Lösung und keine fachliche Bewertung.
 - Mehrere plausible Deutungen, aber keine absichtlichen Quatschfehler.
 - Widersprüche dort, wo echte Mandate sie haben: Datum, Erinnerung, Zuständigkeit, technische Ursache, Zustellung, Beweiswert, Rechenweg.
@@ -28,7 +30,7 @@ Der Akten-ZIP-Export ist das Herzstück der Lebensnähe: ein hybrider, bewusst u
 
 - **Kein Markdown als Aktenstück.** Aktenstücke liegen in lebensechten Formaten vor: Word-Dokumente mit Briefkopf, schlichte Bürodateien, generierte oder gescannt wirkende PDFs, unbereinigte Excel-Tabellen, echte E-Mail-Dateien, Screenshots, Fotos und Chat-Exporte. Inhalt und Nummerierung bleiben mit dem Gesamt-PDF konsistent.
 - **Markdown bleibt außerhalb der Auslieferung.** README-Dateien und redaktionelle Begleittexte dürfen im Repository als Markdown vorliegen, werden aber aus Akten-ZIP und Einzel-PDF-ZIP ausnahmslos herausgefiltert. Die vom Builder erzeugte `README.txt` ist die einzige obligatorische Begleitdatei in beiden ZIP-Varianten.
-- **Flache Archive sind verbindlich.** Weder das Akten-ZIP noch das Einzel-PDF-ZIP darf Verzeichniseinträge oder Dateipfade mit `/` enthalten. Gleichnamige Dateien aus früheren Unterordnern erhalten kollisionssichere Namen mit doppeltem Unterstrich.
+- **Flache Archive sind die verbindliche Grundregel.** Außerhalb der oben bezeichneten Projektordner-Ausnahme gilt: Weder das Akten-ZIP noch das Einzel-PDF-ZIP darf Verzeichniseinträge oder Dateipfade mit `/` enthalten. Gleichnamige Dateien aus früheren Unterordnern erhalten kollisionssichere Namen mit doppeltem Unterstrich.
 - **Werkzeuge:** `scripts/convert-testakte-aktenstuecke-nativ.py` wandelt Markdown-Aktenstücke in formatierte DOCX um (bestehende gleichnamige DOCX-Zwillinge gewinnen); `scripts/validate-testakten-keine-markdown-aktenstuecke.py` prüft die Regel repo-weit. Der Gesamt-PDF-Builder liest DOCX, XLSX, PDF, Bilder und EML nativ.
 - **Neue Akten** werden von Anfang an in nativen Formaten angelegt; wer schneller in Markdown entwirft, konvertiert vor dem Commit und baut das Gesamt-PDF neu.
 
@@ -42,7 +44,7 @@ Der Wortlaut ist unveränderlich:
 
 Gesamt-PDF und Einzel-PDFs enthalten weder eine Hinweisseite noch diesen Warntext. Auf der Repository-Startseite, im Download-Index sowie in den zentralen, aktenbezogenen und Plugin-READMEs steht der vollständige Hinweis unmittelbar vor jeder PDF-/ZIP-Downloadgruppe für Testakten. Ein allgemeiner Hinweis an anderer Stelle genügt nicht.
 
-Im Akten-ZIP und im Einzel-PDF-ZIP beginnt die UTF-8-kodierte `README.txt` mit dem zweisprachigen Hinweis; die Datei liegt wie alle übrigen Dateien unmittelbar auf der ZIP-Wurzelebene. Auch Sammelpakete mit Testakten enthalten eine entsprechend beginnende `README.txt` auf ihrer Wurzelebene. Die Builder und README-Generatoren ergänzen den Hinweis reproduzierbar; die Release-Validatoren prüfen Wortlaut und Position sowie die Abwesenheit des Warntexts in den PDFs.
+Im Akten-ZIP und im Einzel-PDF-ZIP beginnt die UTF-8-kodierte `README.txt` mit dem zweisprachigen Hinweis; die Datei liegt auch bei der Projektordner-Ausnahme unmittelbar auf der ZIP-Wurzelebene. Auch Sammelpakete mit Testakten enthalten eine entsprechend beginnende `README.txt` auf ihrer Wurzelebene. Die Builder und README-Generatoren ergänzen den Hinweis reproduzierbar; die Release-Validatoren prüfen Wortlaut und Position sowie die Abwesenheit des Warntexts in den PDFs.
 
 ## Technische Qualität
 

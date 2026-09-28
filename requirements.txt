@@ -10,6 +10,7 @@
 #               scripts/build-testakte-gesamt-pdf.py (DOCX-Aktenstücke einlesen)
 # reportlab   — scripts/build-testakte-gesamt-pdf.py (Gesamt-PDF rendern)
 # pypdf       — scripts/build-testakte-gesamt-pdf.py (PDF-Aktenstücke anhängen)
+# pdfplumber  — Seitenverweise und Tabellen in veröffentlichten Testakten prüfen
 # odfpy       — scripts/build-testakten-einzelpdf-zips.py (ODT vollständig rendern)
 
 openpyxl>=3.1
@@ -18,6 +19,7 @@ jsonschema>=4.0
 python-docx>=1.1
 reportlab>=4.0
 pypdf>=4.0
+pdfplumber>=0.11,<1
 odfpy>=1.4
 markdown-it-py>=3.0,<5
 linkify-it-py>=2.0,<3

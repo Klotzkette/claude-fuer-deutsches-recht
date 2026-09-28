@@ -14,7 +14,7 @@ import zipfile
 from pathlib import Path
 
 from testakte_disclaimer import NOTICE_FILENAME, notice_text_errors, pdf_content_errors
-from testakte_zip_common import working_dump_expected_arcnames
+from testakte_zip_common import working_dump_expected_arcnames, preserves_directories, safe_archive_name
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 TESTAKTEN = REPO_ROOT / "testakten"
@@ -32,7 +32,7 @@ def expected_entries(testakte_dir: Path) -> list[str]:
     return working_dump_expected_arcnames(testakte_dir, include_gesamt_pdf=True)
 
 
-def zip_entries(zip_path: Path, *, require_notice: bool) -> list[str]:
+def zip_entries(zip_path: Path, *, require_notice: bool, allow_directories: bool = False) -> list[str]:
     if not zip_path.exists():
         fail(f"{zip_path}: missing ZIP")
     if zip_path.stat().st_size <= 0:
@@ -44,10 +44,10 @@ def zip_entries(zip_path: Path, *, require_notice: bool) -> list[str]:
             bad = archive.testzip()
             if bad is not None:
                 fail(f"{zip_path}: corrupt member {bad}")
-            names = [name.replace("\\", "/") for name in archive.namelist() if not name.endswith("/")]
+            names = [name for name in archive.namelist() if not name.endswith("/")]
             for name in names:
-                if "/" in name:
-                    fail(f"{zip_path}: Unterordner im ZIP: {name}")
+                if not safe_archive_name(name, allow_directories=allow_directories):
+                    fail(f"{zip_path}: unzulässiger ZIP-Pfad: {name}")
                 if name.lower().endswith(".md"):
                     fail(f"{zip_path}: Markdown-Datei im Akten-ZIP: {name}")
                 if name.lower().endswith(".pdf"):
@@ -118,6 +118,7 @@ def main() -> None:
         actual = zip_entries(
             dist / f"testakte-{testakte_dir.name}.zip",
             require_notice=True,
+            allow_directories=preserves_directories(testakte_dir),
         )
         assert_same(f"testakte-{testakte_dir.name}.zip", entries, actual)
     if empty_dirs:
@@ -130,7 +131,7 @@ def main() -> None:
 
     print(
         "validate-testakten-release-zips OK "
-        f"({len(dirs)} flache Testakten-ZIPs, {sum(len(expected_entries(d)) for d in dirs)} Dateien, "
+        f"({len(dirs)} Testakten-ZIPs, {sum(len(expected_entries(d)) for d in dirs)} Dateien, "
         f"{gesamt_pdf_count} Gesamt-PDFs)"
     )
 

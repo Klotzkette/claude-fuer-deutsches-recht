@@ -1,0 +1,13 @@
+﻿Vorgang,Beginn,Ende,Verantwortlich,Abhängigkeit
+Baustelleneinrichtung,2027-12-01,2027-12-03,Steinwerk,Freigabe Baufeld
+Erdarbeiten und Gründung,2027-12-06,2028-02-18,Steinwerk,Baugrund und Tragwerk
+Rohbau Geschosse,2028-02-21,2028-04-28,Steinwerk,Gründung
+Dach und Gebäudehülle,2028-04-03,2028-06-16,Dachraum,Abschnittsweise Rohbaufreigabe
+TGA Rohinstallation,2028-04-10,2028-06-30,Wärmefluss und Lichtkreis,Durchführungen abgestimmt
+Innenausbau,2028-06-05,2028-08-31,Innenraum,Witterungsschutz und Trocknung
+Aufzug,2028-07-03,2028-08-25,Hubpunkt,Schachtaufmaß
+Außenanlagen,2028-07-17,2028-09-08,Grünkante,Schwerlastverkehr beendet
+Inbetriebnahme,2028-09-04,2028-09-08,Planwerk und Fachfirmen,Prüfunterlagen
+Vorbegehung,2028-09-10,2028-09-10,Konturfeld,Fertigstellungsanzeigen
+Förmliche Abnahmen,2028-09-15,2028-09-15,Bauherrin,Abnahmereife
+Wohnungsübergaben,2028-09-29,2028-09-29,Mietverwaltung,Nutzbarkeit und Zählerdaten

@@ -2,6 +2,8 @@
 
 Autor: Klotzkette. Quellenbezogener Abruf- und Redaktionsstand: 25.09.2026. Die nachstehenden Texte wurden gezielt für die angegebenen Fragen geöffnet; ein Gesamtgesetz wurde nicht allein durch seinen Abruf vollständig geprüft. Abrufdatum, Fassungsdatum und für das konkrete Ereignis geltendes Recht sind verschiedene Angaben. Historische Verträge und laufende Vergaben benötigen ihre eigene Fassungs- und Übergangsprüfung.
 
+Aktualisierung 28.09.2026: Für die erweiterte Werkstatt wurden zusätzliche amtliche Entscheidungs-PDFs unmittelbar gelesen. Die [neun allgemeinen Entscheidungsanker](entscheidungsanker-2026.md) und [elf Anker zur optionalen Bauträgergestaltung](entscheidungsanker-bautraeger-2026.md) dokumentieren tragende Passagen und Anwendungsgrenzen. Insbesondere liegen für VII ZR 42/22 und VII ZR 34/18 inzwischen amtliche PDF-Volltexte vor; die nachstehend dokumentierten Abrufprobleme beschreiben ausschließlich den früheren Stand vom 25.09.2026.
+
 ## 1.1. Verwendung und Reichweite
 
 Verbindlich bleibt die unverändert übernommene [Zitierweise](zitierweise.md). Norm zuerst, danach nur tatsächlich verifizierte Rechtsprechung; Literatur ausschließlich bei bereitgestelltem Text oder dokumentiertem lizenziertem Zugriff. Kein Leitsatz wird als gelesene Urteilsbegründung bezeichnet. Nicht verifizierte DIN-, ATV- oder Kommentartexte dürfen keine behaupteten Detailanforderungen tragen.

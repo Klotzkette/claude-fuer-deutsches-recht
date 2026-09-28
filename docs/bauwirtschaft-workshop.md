@@ -15,6 +15,7 @@ Arbeite für jede Übung in einer Kopie des Aktenordners. Lade entweder den pass
 | Baubuchhaltung | Bauunternehmen Bad Salzuflen | 60–90 Minuten | Belegregister, Buchungsvorschläge, OPOS-/Bankabgleich und Zahlungsvorschlag. |
 | Projektsteuerung | Werkhalle Warendorf | 30 Minuten | Kostenprognose, Zahlungsplanung und Entscheidungsvorlage. |
 | Neubau zur Vermietung | Achtfamilienhaus Hildesheim | 90–120 Minuten | Eine gewählte HOAI-Phase bearbeiten und ihre Planungs-, Vertrags- und Finanzbelege fortführen. |
+| Hildesheim mit Projektordnern | [Erweiterte Lebensakte: tägliches Bautagebuch, detaillierte LVs, Wordvorlagen und nur optionale Verkaufsvariante](../testakten/bauwirtschaft-hildesheim-lebensakte/README.md). |
 
 Die Übungen sind einzeln verwendbar. Für einen Workshop mit drei Stunden wähle HOAI, Vergabe und Buchhaltung und plane kurze gemeinsame Besprechungen ein.
 

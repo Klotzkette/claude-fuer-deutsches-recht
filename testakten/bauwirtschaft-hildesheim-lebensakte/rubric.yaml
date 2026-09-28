@@ -1,0 +1,40 @@
+name: bauwirtschaft-hildesheim-lebensakte
+plugin: bauwirtschaft
+description: Vollständige Hildesheimer Projektakte mit Unterordnern, allen neun HOAI-Phasen, 304 täglichen Bauaufzeichnungen, detaillierten Leistungsverzeichnissen, Belegzugängen, Wordvorlagen und unbeschlossener Verkaufsoption.
+checks:
+  - id: projektstand
+    check_type: human_review
+    description: Die gewählte Leistungsphase und den konkreten Auftrag auf den vorhandenen Projektstand beziehen; benötigte frühere Belege mitlesen und Rückantworten ohne neues Gesamtinterview einarbeiten.
+  - id: kalender
+    check_type: human_review
+    description: Anwesenheit, tatsächliche Arbeiten, Feiertage, Lieferungen und datierte Berichtigung unterscheiden; aus fehlender Ortsbeobachtung keinen positiven Qualitätsnachweis ableiten.
+  - id: lv
+    check_type: human_review
+    description: Mengen, Einheiten, Unterpositionen und ursprüngliche Pauschalgruppen abgleichen; eine kalkulatorische Aufgliederung nicht als eigenständige Vertragsänderung behandeln.
+  - id: maengel
+    check_type: human_review
+    description: Befund, Ursache, Beseitigungsaufforderung, Nachkontrolle und Abnahme unterscheiden. Termine und Zuständigkeit konkret fortschreiben.
+  - id: buchhaltung
+    check_type: human_review
+    description: PDF, XML und E-Mail-Anlage derselben Rechnung einmal erfassen; tatsächliche Kontobewegungen, Doppelzahlung, Erstattung und verbleibenden Saldo belegscharf abgleichen.
+  - id: verkaufsoption
+    check_type: human_review
+    description: Mietprojekt und noch unbeschlossene Verkaufsalternative auseinanderhalten. Vertragsentwürfe und Zahlungspläne nicht als Beurkundung, fällige Rate oder bereits gebuchten Erlös ausgeben.
+  - id: vertragsgestaltung
+    check_type: human_review
+    description: Rollen und Rechtsdienstleistungsbefugnis klären; verkäuferfreundliche Gestaltung mit konkreten gesetzlichen Grenzen, individueller Abnahme und Fertigstellungssicherheit prüfen.
+  - id: quellen
+    check_type: human_review
+    description: Rechtsstand, entscheidungstragende Aussage und historischen Vertragsbezug der Rechtsprechung benennen; bei fehlender Verifikation keine Randnummer oder künftige Rechtslage erfinden.
+  - id: kostenmappe
+    check_type: file_exists
+    path: 10_Rechnungen_und_Buchhaltung/Arbeitsmappen/120_Kostenentwicklung.xlsx
+    description: Bearbeitbare Kostenentwicklung vorhanden.
+  - id: zahlungsmappe
+    check_type: file_exists
+    path: 10_Rechnungen_und_Buchhaltung/Arbeitsmappen/121_Rechnungen_und_Zahlungen.xlsx
+    description: Bearbeitbarer Rechnungs- und Zahlungsabgleich vorhanden.
+  - id: organisation
+    check_type: file_exists
+    path: 00_Projektsteuerung/2027-11-29_Projektorganisation.docx
+    description: Aufgaben und rechtsgeschäftliche Entscheidungsbefugnisse dokumentiert.

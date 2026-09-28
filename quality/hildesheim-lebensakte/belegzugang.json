@@ -1,0 +1,254 @@
+[
+  {
+    "file": "10_Rechnungen_und_Buchhaltung/Rechnungseingang/2027-09-24_KF-27-091_Belegzugang.eml",
+    "invoice": "KF-27-091",
+    "date": "2027-09-24",
+    "attachments": {
+      "080_Architekt_Rechnung_LPH1_4.pdf": "405b8e540dd4b8e59011f3d933178d83e87f8fc8dd97de03e652c7472cf46265",
+      "080_Architekt_Rechnung_LPH1_4_XRechnung.xml": "e420c0584b3ea66d8a056bc2167747516d1bc11d80db4874bf69cbaaa855365e"
+    }
+  },
+  {
+    "file": "10_Rechnungen_und_Buchhaltung/Rechnungseingang/2027-11-26_KF-27-116_Belegzugang.eml",
+    "invoice": "KF-27-116",
+    "date": "2027-11-26",
+    "attachments": {
+      "081_Architekt_Rechnung_LPH5_7.pdf": "4df9c69d1f080d2a4bed6a984152d257054f94ad67f4a947e93c854e04a54553",
+      "081_Architekt_Rechnung_LPH5_7_XRechnung.xml": "889914a85581da90fc36ef27ffc6104225f74d2ca2f1c1c5640312fbb90b5318"
+    }
+  },
+  {
+    "file": "10_Rechnungen_und_Buchhaltung/Rechnungseingang/2028-10-20_KF-28-104_Belegzugang.eml",
+    "invoice": "KF-28-104",
+    "date": "2028-10-20",
+    "attachments": {
+      "082_Architekt_Rechnung_LPH8.pdf": "a42a2f7982d7da79be0a2ac2484ccc5af9acaec0a233f6c2dbddf02a37486127",
+      "082_Architekt_Rechnung_LPH8_XRechnung.xml": "89aeaafd54f5f55c1f47bbf8f9b6810437d53d81eefc66e8c8480fe0ce442118"
+    }
+  },
+  {
+    "file": "10_Rechnungen_und_Buchhaltung/Rechnungseingang/2033-09-26_KF-33-092_Belegzugang.eml",
+    "invoice": "KF-33-092",
+    "date": "2033-09-26",
+    "attachments": {
+      "083_Architekt_Schlussrechnung_LPH9.pdf": "d72e44f10d53ea96399b23206fb0b430c7b800d549620c4e0eccdae03ce23e87",
+      "083_Architekt_Schlussrechnung_LPH9_XRechnung.xml": "7a000db7807be2608c276773e17c2598ab75bee16a90183b514cfe6eda4b897d"
+    }
+  },
+  {
+    "file": "10_Rechnungen_und_Buchhaltung/Rechnungseingang/2027-09-27_PT-27-092_Belegzugang.eml",
+    "invoice": "PT-27-092",
+    "date": "2027-09-27",
+    "attachments": {
+      "084_TGA_Planungsrechnung.pdf": "7c55c9c02347ad6fed818f18d64bee9151bb404cd2538a8e5edca586f1dacab0",
+      "084_TGA_Planungsrechnung_XRechnung.xml": "c8300f531580965de6108b6aef093c17029eca892da6506322781fca19ff4435"
+    }
+  },
+  {
+    "file": "10_Rechnungen_und_Buchhaltung/Rechnungseingang/2028-10-22_PT-28-104_Belegzugang.eml",
+    "invoice": "PT-28-104",
+    "date": "2028-10-22",
+    "attachments": {
+      "085_TGA_Schlussrechnung.pdf": "57304e2679b17b8f10a4147b0b8cc4ca3b7c62ea197554580eb68ff2cee5e571",
+      "085_TGA_Schlussrechnung_XRechnung.xml": "3077f6d72817be06411dec282bba0a4d4b0bc8be22d60e946adc1bc06e552104"
+    }
+  },
+  {
+    "file": "10_Rechnungen_und_Buchhaltung/Rechnungseingang/2028-09-22_BW-28-093_Belegzugang.eml",
+    "invoice": "BW-28-093",
+    "date": "2028-09-22",
+    "attachments": {
+      "086_Tragwerk_Schlussrechnung.pdf": "ea6f066cb762316c2365f9f5016f541f286084b3fcac16667c9d21617e51072b",
+      "086_Tragwerk_Schlussrechnung_XRechnung.xml": "3c24c7ea88066ec629ea3ae41730d9ce24694a10ea16c31e44dde5aa7dc02a67"
+    }
+  },
+  {
+    "file": "10_Rechnungen_und_Buchhaltung/Rechnungseingang/2028-09-24_LP-28-094_Belegzugang.eml",
+    "invoice": "LP-28-094",
+    "date": "2028-09-24",
+    "attachments": {
+      "087_Vermessung_Schlussrechnung.pdf": "2600003603e32fafe27c95671ffd126e8ea795b596bf9736ba01e6f54494f328",
+      "087_Vermessung_Schlussrechnung_XRechnung.xml": "6f4cecf13f169f93ac81c652cffb0e93da1b0df784b041f8ba83b678391e729e"
+    }
+  },
+  {
+    "file": "10_Rechnungen_und_Buchhaltung/Rechnungseingang/2027-01-18_BP-27-018_Belegzugang.eml",
+    "invoice": "BP-27-018",
+    "date": "2027-01-18",
+    "attachments": {
+      "088_Baugrund_Rechnung.pdf": "ae46bf21d624c7fbf03a2337d1628060a6c0bb9badc148799b89398134d97b45",
+      "088_Baugrund_Rechnung_XRechnung.xml": "5a7c0763183023fc98e262bc42b93b72989652645d1155c6ee33b41e8390fd2a"
+    }
+  },
+  {
+    "file": "10_Rechnungen_und_Buchhaltung/Rechnungseingang/2028-09-25_EP-28-096_Belegzugang.eml",
+    "invoice": "EP-28-096",
+    "date": "2028-09-25",
+    "attachments": {
+      "089_Energie_Rechnung.pdf": "898bf8e93ff43781f5ebb58b270a1480ee59ac5b1b19e28ce21ea466ffd76fb0",
+      "089_Energie_Rechnung_XRechnung.xml": "f5d45d9dbe72a81c1e994ddfdb2258c2a1c1e702281107b311d72d0aae95e003"
+    }
+  },
+  {
+    "file": "10_Rechnungen_und_Buchhaltung/Rechnungseingang/2028-09-25_RW-28-095_Belegzugang.eml",
+    "invoice": "RW-28-095",
+    "date": "2028-09-25",
+    "attachments": {
+      "090_Brandschutz_Rechnung.pdf": "e5e2743b49e8a97e13aad07d645acd89f4c687f69c8f1f7b734d826a75bb2968",
+      "090_Brandschutz_Rechnung_XRechnung.xml": "7c40bec36893942197450390f3f005d403a12d6a6a9d83038b03154ff3956c94"
+    }
+  },
+  {
+    "file": "10_Rechnungen_und_Buchhaltung/Rechnungseingang/2028-02-15_SH-28-021_Belegzugang.eml",
+    "invoice": "SH-28-021",
+    "date": "2028-02-15",
+    "attachments": {
+      "091_Rohbau_Abschlag1.pdf": "a7d293d6a5ccd4e341dc6a2c6b9e7a21b55fd58c34f3bdaabecd7fe6134da723",
+      "091_Rohbau_Abschlag1_XRechnung.xml": "17e46ee2d9ebc1ff8649e9a3f4b708c3989ea7247697091aaab7f4704f4024ea"
+    }
+  },
+  {
+    "file": "10_Rechnungen_und_Buchhaltung/Rechnungseingang/2028-04-15_SH-28-046_Belegzugang.eml",
+    "invoice": "SH-28-046",
+    "date": "2028-04-15",
+    "attachments": {
+      "092_Rohbau_Abschlag2.pdf": "c2bc9b716e30939b1ce93e0760719af36dcfd025f195cf05731a13a61e39a59f",
+      "092_Rohbau_Abschlag2_XRechnung.xml": "f30b952d4f7e9c26d1006488e26bb6f06f443398a5f92f5b16072b2ea152677a"
+    }
+  },
+  {
+    "file": "10_Rechnungen_und_Buchhaltung/Rechnungseingang/2028-09-30_SH-28-093_Belegzugang.eml",
+    "invoice": "SH-28-093",
+    "date": "2028-09-30",
+    "attachments": {
+      "093_Rohbau_Schlussrechnung.pdf": "7495e7f3c996349dfa76db5a02a53e08b4abed8fe30d4f165f97e275cacdc7eb",
+      "093_Rohbau_Schlussrechnung_XRechnung.xml": "96c3f4ea9f30dcfe19ac8f55434c897728492ee62beaed317ac0e17e2ca1129c"
+    }
+  },
+  {
+    "file": "10_Rechnungen_und_Buchhaltung/Rechnungseingang/2028-05-15_DG-28-052_Belegzugang.eml",
+    "invoice": "DG-28-052",
+    "date": "2028-05-15",
+    "attachments": {
+      "094_Gebaeudehuelle_Abschlag.pdf": "3b869c79a3d53a20a544a151e53a7a8d6a865a2cf96a872e7322133ba373f58d",
+      "094_Gebaeudehuelle_Abschlag_XRechnung.xml": "56f6fd29633eaa7baf142a51aadee069984f12c76dd7e393ad043128253741ad"
+    }
+  },
+  {
+    "file": "10_Rechnungen_und_Buchhaltung/Rechnungseingang/2028-09-30_DG-28-098_Belegzugang.eml",
+    "invoice": "DG-28-098",
+    "date": "2028-09-30",
+    "attachments": {
+      "095_Gebaeudehuelle_Schlussrechnung.pdf": "70a9d0957767c808e21a5ec91a7a5850aa5736a13421ca329766353ccfb3d158",
+      "095_Gebaeudehuelle_Schlussrechnung_XRechnung.xml": "8d09311cce0adae4ed191a93f2fa18be1ded79228e3e027041b4ac934d43b3e9"
+    }
+  },
+  {
+    "file": "10_Rechnungen_und_Buchhaltung/Rechnungseingang/2028-06-15_WH-28-063_Belegzugang.eml",
+    "invoice": "WH-28-063",
+    "date": "2028-06-15",
+    "attachments": {
+      "096_HLS_Abschlag.pdf": "d77b627a6a9201de41431e74e56727e4fcb01dc3c1e9981276c4938aff9a749e",
+      "096_HLS_Abschlag_XRechnung.xml": "981cf4ecfa4252c9ccce3fb81c3bb5c90f590aa94b8ea8c261a7e96d8eed04f7"
+    }
+  },
+  {
+    "file": "10_Rechnungen_und_Buchhaltung/Rechnungseingang/2028-09-30_WH-28-094_Belegzugang.eml",
+    "invoice": "WH-28-094",
+    "date": "2028-09-30",
+    "attachments": {
+      "097_HLS_Schlussrechnung.pdf": "83490823c5254b2622f115ced0790941766f5f1e788532edd4d1397c79be3814",
+      "097_HLS_Schlussrechnung_XRechnung.xml": "a1e92709c4762052f7f0736572e90880ea57011b0e7d6f7b8b4896bbc5b08096"
+    }
+  },
+  {
+    "file": "10_Rechnungen_und_Buchhaltung/Rechnungseingang/2028-06-01_LE-28-061_Belegzugang.eml",
+    "invoice": "LE-28-061",
+    "date": "2028-06-01",
+    "attachments": {
+      "098_Elektro_Abschlag.pdf": "765bffa6763f75f07df243c91cc7f94af96f7664cd7e1821a13f334557b3398c",
+      "098_Elektro_Abschlag_XRechnung.xml": "3bbd36b54f8c5ca81fbc7d4a660877644d357c0334e93a1f6747176b74d1a719"
+    }
+  },
+  {
+    "file": "10_Rechnungen_und_Buchhaltung/Rechnungseingang/2028-09-30_LE-28-098_Belegzugang.eml",
+    "invoice": "LE-28-098",
+    "date": "2028-09-30",
+    "attachments": {
+      "099_Elektro_PV_Schlussrechnung.pdf": "2d81df7a4085db0cd5f3d18964511facce8ba54851c6e83a4324f7625b5f92d5",
+      "099_Elektro_PV_Schlussrechnung_XRechnung.xml": "e502518ba9498ff5a5fdbce8aba8e2a445fba282f7612d718189918e60ea2082"
+    }
+  },
+  {
+    "file": "10_Rechnungen_und_Buchhaltung/Rechnungseingang/2028-07-15_IA-28-074_Belegzugang.eml",
+    "invoice": "IA-28-074",
+    "date": "2028-07-15",
+    "attachments": {
+      "100_Innenausbau_Abschlag.pdf": "b07535a96cdcdbfaf19fc267c37024ceae0687270b6345bf49cd0560c2f9c927",
+      "100_Innenausbau_Abschlag_XRechnung.xml": "4d740f5d5d6311f445b8a0cfc10a447ca69f0a95e2a649963d11cac2e3ab3adf"
+    }
+  },
+  {
+    "file": "10_Rechnungen_und_Buchhaltung/Rechnungseingang/2028-09-30_IA-28-095_Belegzugang.eml",
+    "invoice": "IA-28-095",
+    "date": "2028-09-30",
+    "attachments": {
+      "101_Innenausbau_Schlussrechnung.pdf": "2937a72f0922a2fa673572e592f1a4f4e47468f788259f29a21c5d680bd78d5e",
+      "101_Innenausbau_Schlussrechnung_XRechnung.xml": "62666dd8e85d2c9302b35fdccb1612becd46695636c9c78c4fd95106ce376e20"
+    }
+  },
+  {
+    "file": "10_Rechnungen_und_Buchhaltung/Rechnungseingang/2028-09-30_HA-28-093_Belegzugang.eml",
+    "invoice": "HA-28-093",
+    "date": "2028-09-30",
+    "attachments": {
+      "102_Aufzug_Schlussrechnung.pdf": "4f57b07ecae4479d30783692d34478299ac1342cdbce8f17177e00041a21d195",
+      "102_Aufzug_Schlussrechnung_XRechnung.xml": "45da7f498275e2ef39c6dedf7d9abc60ffdc6c0d3361dcf5f6f27e29c00a9328"
+    }
+  },
+  {
+    "file": "10_Rechnungen_und_Buchhaltung/Rechnungseingang/2028-11-15_GG-28-115_Belegzugang.eml",
+    "invoice": "GG-28-115",
+    "date": "2028-11-15",
+    "attachments": {
+      "103_Aussenanlagen_Schlussrechnung.pdf": "c6b5adfde25c31d18e133d84166d0720995bd2eb73c575affc9903b152be5039",
+      "103_Aussenanlagen_Schlussrechnung_XRechnung.xml": "238ae98229216416d4e97c3ddc15966024d3692f4af32107d6a09def37b1b611"
+    }
+  },
+  {
+    "file": "10_Rechnungen_und_Buchhaltung/Rechnungseingang/2028-08-20_LN-28-081_Belegzugang.eml",
+    "invoice": "LN-28-081",
+    "date": "2028-08-20",
+    "attachments": {
+      "104_Hausanschluesse_Rechnung.pdf": "d0f8c2c5e5a2902b5678c171a1058721ee9b15fdbeb07d2f765c406fcc3024b4",
+      "104_Hausanschluesse_Rechnung_XRechnung.xml": "f5a4cffadfb0bc91f96040e6172d5a2cd32780dc9a44200fe0159f065a063bf2"
+    }
+  },
+  {
+    "file": "10_Rechnungen_und_Buchhaltung/Rechnungseingang/2028-03-05_SH-28-N01_Belegzugang.eml",
+    "invoice": "SH-28-N01",
+    "date": "2028-03-05",
+    "attachments": {
+      "105_Rohbau_Nachtrag_Draenpackung.pdf": "7090b82a5bd9a7b66161b68b68b6d396a28abea21813438918c94dd284762cd1",
+      "105_Rohbau_Nachtrag_Draenpackung_XRechnung.xml": "bd69c5e46558c30cce06936f7ca72665eef73f8212cced6e214aae1700a6505f"
+    }
+  },
+  {
+    "file": "10_Rechnungen_und_Buchhaltung/Rechnungseingang/2028-10-15_IA-G-28-017_Belegzugang.eml",
+    "invoice": "IA-G-28-017",
+    "date": "2028-10-15",
+    "attachments": {
+      "106_Innenausbau_Rechnungskorrektur.pdf": "b8d847091f4a356e56f90708969c24e612364d7a40eb228c84ae8e3042c505a9",
+      "106_Innenausbau_Rechnungskorrektur_XRechnung.xml": "60bc2ca5e57acd697efc2ce8ada8ece3ffa3b356a5608bd22dfc6182d82179d5"
+    }
+  },
+  {
+    "file": "10_Rechnungen_und_Buchhaltung/Rechnungseingang/2028-09-30_LE-PV-28-099_Belegzugang.eml",
+    "invoice": "LE-PV-28-099",
+    "date": "2028-09-30",
+    "attachments": {
+      "119_PV_Lieferung_Montage_Nullsteuersatz.pdf": "4a4824596380d6b54eee4c07260cdb81d3e8b177ecc1104e084788c8f54ac441",
+      "119_PV_Lieferung_Montage_Nullsteuersatz_XRechnung.xml": "c210cb0abba387808b2733960a3f06bb71fee32df193d50601c65139efd80240"
+    }
+  }
+]

@@ -27,6 +27,13 @@ SKIP_DIRS = {
     "megaprompts",
 }
 
+# Gesondert bestellter Teilband aus denselben Tagesseiten der Gesamtakte.
+# Andere zusätzliche PDFs bleiben unzulässig. Auch dieser Teilband muss
+# vollständig geprüft und unmittelbar mit Herkunftshinweis verlinkt sein.
+DERIVED_PDFS = {
+    "bauwirtschaft-hildesheim-lebensakte": ("bauwirtschaft-hildesheim-lebensakte_bautagebuch.pdf",),
+}
+
 
 def fs_path(path: Path) -> Path:
     """Return a Windows long-path-safe Path without changing display paths."""
@@ -83,7 +90,7 @@ def main() -> int:
             continue
         extra_pdfs = []
         if path_exists(gesamt_dir):
-            extra_pdfs = sorted(p for p in gesamt_dir.glob("*.pdf") if p != pdf)
+            extra_pdfs = sorted(p for p in gesamt_dir.glob("*.pdf") if p != pdf and p.name not in DERIVED_PDFS.get(slug, ()))
         if extra_pdfs:
             listed = ", ".join(str(p.relative_to(ROOT)) for p in extra_pdfs)
             errors.append(f"{slug}: zusaetzliche Gesamt-PDFs gefunden: {listed}")
@@ -102,6 +109,19 @@ def main() -> int:
                 errors.append(f"{slug}: {readme.name} verlinkt {rel} nicht")
         else:
             errors.append(f"{slug}: README.md / 00_*.md / aktenuebersicht*.md fehlt")
+        for filename in DERIVED_PDFS.get(slug, ()):
+            derived = gesamt_dir / filename
+            if not path_exists(derived):
+                errors.append(f"{slug}: abgeleiteter Teilband fehlt: {filename}")
+                continue
+            problem = is_probable_pdf(derived)
+            if problem:
+                errors.append(f"{slug}: {problem}: {filename}")
+            else:
+                for notice_problem in pdf_content_errors(read_bytes(derived)):
+                    errors.append(f"{slug}: {notice_problem}: {filename}")
+            if readme and f"gesamt-pdf/{filename}" not in read_text(readme):
+                errors.append(f"{slug}: README verlinkt den abgeleiteten Teilband {filename} nicht")
 
     if errors:
         print("validate-testakten-gesamt-pdf: FEHLER", file=sys.stderr)

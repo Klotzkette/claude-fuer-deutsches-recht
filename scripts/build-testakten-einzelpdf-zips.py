@@ -321,7 +321,7 @@ def main() -> None:
         print(f"Hinweis: {len(skipped)} Ordner ohne renderbare Unterlagen uebersprungen: {skipped[:10]}")
 
     print(
-        f"Baue {all_out.name}: {len(bundle_archives)} flache Einzel-ZIPs "
+        f"Baue {all_out.name}: {len(bundle_archives)} Einzel-ZIPs "
         f"mit {combined_pdfs} PDFs"
     )
     print(f"Fertig: {len(built)} Einzel-PDF-ZIPs, {total_pdfs} PDFs")

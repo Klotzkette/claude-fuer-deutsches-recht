@@ -1,0 +1,745 @@
+{
+  "date": "2026-09-28",
+  "source_sha256": "5a543b2de0d0effed238b2b2217136358695c9e4772d3b386e39952453b0e0e6",
+  "stations": 100,
+  "pages": 100,
+  "paragraphs_verified_in_word_and_pdf": 1192,
+  "pdf_words_including_headers_and_footers": 35435,
+  "words_per_page_min": 319,
+  "words_per_page_max": 431,
+  "native_external_links_checked": 16,
+  "skills": 29,
+  "visual_review": {
+    "reviewer": "Codex lebensakte_workflow",
+    "method": "All 100 individual full-page PNGs opened and inspected in the initial final review. After the narrowly scoped RDG correction, page 3 was opened and inspected again; SHA-256 comparison proves the remaining 99 PNGs unchanged.",
+    "pages_reviewed": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100
+    ],
+    "result": "passed",
+    "png_dir": "/tmp/hildesheim-workflow-qa-final",
+    "pdf_path": "/Users/klotzkette/Desktop/Codex Projects/legal-work/bauwirtschaft-hildesheim/bauwirtschaft/materialien/bauwirtschaft-werkstatt-100-seiten.pdf",
+    "findings": [],
+    "regression_recheck": {
+      "reason": "Restore explicit Erfüllungsgehilfe/Gegenlesen distinction for BGH VII ZR 190/22 in standalone workshop",
+      "pages_changed": [
+        3
+      ],
+      "pages_reinspected": [
+        3
+      ],
+      "unchanged_pages_verified_by_png_sha256": 99,
+      "previous_source_sha256": "7b575db9abc1864a9184cd6b65696072fcd23922ee59d86250ce33c5655edafd",
+      "test": "BauwirtschaftTests.test_contract_work_checks_legal_authority_without_stopping_technical_work",
+      "test_result": "passed"
+    }
+  },
+  "canonical_sources": [
+    {
+      "path": "bauwirtschaft/references/werkstatt/01-projektauftrag.md",
+      "sha256": "0e3e6827c98937ce345266d775b6fc900efa6695c40d1e714b6582c6421458f7",
+      "bytes": 17885
+    },
+    {
+      "path": "bauwirtschaft/references/werkstatt/02-hoai-1.md",
+      "sha256": "1afc2e40ee95abd3131ecf4bc526117f4a2aa26758613a7f757656e9b1b9df76",
+      "bytes": 18511
+    },
+    {
+      "path": "bauwirtschaft/references/werkstatt/03-hoai-2.md",
+      "sha256": "6347196e715d516a790f1176f35c2bea3fd2445f951856c056cac968bd807c53",
+      "bytes": 18294
+    },
+    {
+      "path": "bauwirtschaft/references/werkstatt/04-hoai-3.md",
+      "sha256": "5888652c7f918e1c208ac0b5461e462f47bd1a26ec85715e3b9023abfaa7d9eb",
+      "bytes": 17699
+    },
+    {
+      "path": "bauwirtschaft/references/werkstatt/05-hoai-4.md",
+      "sha256": "d9aa94f177bc7d3955ce06cc30ba3df4c08cb37aa210c4ebe84a7c00bd8509af",
+      "bytes": 18163
+    },
+    {
+      "path": "bauwirtschaft/references/werkstatt/06-hoai-5.md",
+      "sha256": "21486e4c822151c9cbd38e0422cffb8e3a477895305da6fed5f89c885d836d70",
+      "bytes": 17993
+    },
+    {
+      "path": "bauwirtschaft/references/werkstatt/07-hoai-6.md",
+      "sha256": "3a562994a9c0ccce88863e7b99b26780b38fa6b257a11a1f6ca95961ceefea73",
+      "bytes": 18336
+    },
+    {
+      "path": "bauwirtschaft/references/werkstatt/08-hoai-7.md",
+      "sha256": "0d9898dd7e1ced04e98ed0200f81b70730d43b54893aeef0eec74a75d5ce4839",
+      "bytes": 18063
+    },
+    {
+      "path": "bauwirtschaft/references/werkstatt/09-hoai-8.md",
+      "sha256": "7bd5abed30997bf252411f8be867e5db20f83affa230b344e989bf52d47ca618",
+      "bytes": 17675
+    },
+    {
+      "path": "bauwirtschaft/references/werkstatt/10-hoai-9.md",
+      "sha256": "8378555b10d613b0ea4512297ceb4ad4f521fb1dc3115b17228016709670d040",
+      "bytes": 17912
+    },
+    {
+      "path": "bauwirtschaft/references/werkstatt/11-leistungsverzeichnisse.md",
+      "sha256": "8593fa811cea9e6718e5b287c42f76b4876c0e1f6424ccdaf85b42f6bcdb69c3",
+      "bytes": 23956
+    },
+    {
+      "path": "bauwirtschaft/references/werkstatt/12-vertraege-und-verkaufsoption.md",
+      "sha256": "9bc61c57891bbc9d6b312ccec3ba67bf37a7331d54c04c956e4867e34c55ea44",
+      "bytes": 30489
+    },
+    {
+      "path": "bauwirtschaft/references/werkstatt/13-rechnung-und-buchhaltung.md",
+      "sha256": "54c8c9eef3d70a67406e1eb6a7042af8c8b645bcdced7676ca39e6b202fd7814",
+      "bytes": 23672
+    },
+    {
+      "path": "bauwirtschaft/references/werkstatt/14-bautagebuch-und-maengel.md",
+      "sha256": "5d8b2cab6d5b8bed0faf6f963e1edc4c760bdfd6622c323ca3694647088eac9d",
+      "bytes": 23354
+    },
+    {
+      "path": "bauwirtschaft/references/werkstatt/15-quellen-und-abschluss.md",
+      "sha256": "77eec9f06e51da1332d8fa85567f0254ac5b1e78730901e75f1ea5b1c5ce184c",
+      "bytes": 19159
+    }
+  ],
+  "legal_source_files": [
+    {
+      "path": "bauwirtschaft/references/entscheidungsanker-2026.md",
+      "sha256": "f9947136021b4f023eb56d09db03c38de5d638e2f6ea27edbc68d79e43c76d4f",
+      "bytes": 9688
+    },
+    {
+      "path": "bauwirtschaft/references/entscheidungsanker-bautraeger-2026.md",
+      "sha256": "f0f37b0a37ca539f6de01aeb28c3ffef78faf521c2e9f696d6858dafb228920c",
+      "bytes": 16360
+    }
+  ],
+  "artifacts": [
+    {
+      "path": "bauwirtschaft/bauwirtschaft-werkstatt.md",
+      "sha256": "404744e75bd9bc0884ec6070b9fd482983dfaaf0be0b7cdae5d6c5b8a49ef253",
+      "bytes": 298039
+    },
+    {
+      "path": "bauwirtschaft/materialien/bauwirtschaft-werkstatt-100-seiten.docx",
+      "sha256": "5995fe6841cdf9264d47d45a849a581f62c3b1929d8e80926b114de5285fd30e",
+      "bytes": 133763
+    },
+    {
+      "path": "bauwirtschaft/materialien/bauwirtschaft-werkstatt-100-seiten.pdf",
+      "sha256": "ecfe194b000d2ca4a4ef41dcc90f96fdc011789842060a9d02c355896bfc7cbe",
+      "bytes": 806534
+    }
+  ],
+  "decision_anchors": [
+    {
+      "label": "BGH, Urteil vom 21.03.2013, VII ZR 230/11, amtliches PDF, Randnummern 9 bis 12",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2011/VII_ZR_230-11.pdf?__blob=publicationFile&v=1",
+      "source_file": "bauwirtschaft/references/entscheidungsanker-2026.md"
+    },
+    {
+      "label": "BGH, Urteil vom 09.11.2023, VII ZR 190/22, amtliches PDF, Randnummern 25 bis 38",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2022/VII_ZR_190-22.pdf?__blob=publicationFile&v=1",
+      "source_file": "bauwirtschaft/references/entscheidungsanker-2026.md"
+    },
+    {
+      "label": "BGH, Urteil vom 15.02.2024, VII ZR 42/22, amtliches PDF, Randnummern 30 bis 41",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2022/VII_ZR__42-22.pdf?__blob=publicationFile&v=1",
+      "source_file": "bauwirtschaft/references/entscheidungsanker-2026.md"
+    },
+    {
+      "label": "BGH, Urteil vom 08.08.2019, VII ZR 34/18, amtliches PDF mit Berichtigung vom 18.09.2019, Randnummern 13 bis 26",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2018/VII_ZR__34-18.pdf?__blob=publicationFile&v=1",
+      "source_file": "bauwirtschaft/references/entscheidungsanker-2026.md"
+    },
+    {
+      "label": "BGH, Versäumnisurteil vom 26.10.2017, VII ZR 16/17, amtliches PDF, Randnummern 18 bis 34 und 45",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2017/VII_ZR__16-17.pdf?__blob=publicationFile&v=1",
+      "source_file": "bauwirtschaft/references/entscheidungsanker-2026.md"
+    },
+    {
+      "label": "BGH, Urteil vom 22.02.2018, VII ZR 46/17, amtliches PDF, Randnummern 27 bis 31 und 44 bis 54",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2017/VII_ZR__46-17A.pdf?__blob=publicationFile&v=1",
+      "source_file": "bauwirtschaft/references/entscheidungsanker-2026.md"
+    },
+    {
+      "label": "BGH, Urteil vom 25.02.2016, VII ZR 49/15, amtliches PDF, Randnummern 29 bis 40",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2015/VII_ZR__49-15.pdf?__blob=publicationFile&v=1",
+      "source_file": "bauwirtschaft/references/entscheidungsanker-2026.md"
+    },
+    {
+      "label": "BGH, Urteil vom 22.12.2000, VII ZR 310/99, amtliches PDF, Leitsätze und Gründe zur Abschlagsvereinbarung, Seiten 8 bis 18",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/1999/VII_ZR_310-99.pdf?__blob=publicationFile&v=1",
+      "source_file": "bauwirtschaft/references/entscheidungsanker-2026.md"
+    },
+    {
+      "label": "BGH, Beschluss vom 04.04.2017, X ZB 3/17, amtliches PDF, Randnummern 25 bis 36 und 52 bis 54",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/X_ZS/2017/X_ZB___3-17.pdf?__blob=publicationFile&v=1",
+      "source_file": "bauwirtschaft/references/entscheidungsanker-2026.md"
+    },
+    {
+      "label": "amtliche PDF",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2025/VII_ZR__88-25.pdf?__blob=publicationFile&v=1",
+      "source_file": "bauwirtschaft/references/entscheidungsanker-bautraeger-2026.md"
+    },
+    {
+      "label": "amtliche PDF",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2024/VII_ZR__68-24.pdf?__blob=publicationFile&v=1",
+      "source_file": "bauwirtschaft/references/entscheidungsanker-bautraeger-2026.md"
+    },
+    {
+      "label": "amtliche PDF",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2024/VII_ZR_108-24.pdf?__blob=publicationFile&v=1",
+      "source_file": "bauwirtschaft/references/entscheidungsanker-bautraeger-2026.md"
+    },
+    {
+      "label": "amtliche PDF",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2025/V_ZR__91-25.pdf?__blob=publicationFile&v=1",
+      "source_file": "bauwirtschaft/references/entscheidungsanker-bautraeger-2026.md"
+    },
+    {
+      "label": "amtliche PDF",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2022/VII_ZR_241-22.pdf?__blob=publicationFile&v=1",
+      "source_file": "bauwirtschaft/references/entscheidungsanker-bautraeger-2026.md"
+    },
+    {
+      "label": "amtliche PDF",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2015/VII_ZR_171-15.pdf?__blob=publicationFile&v=1",
+      "source_file": "bauwirtschaft/references/entscheidungsanker-bautraeger-2026.md"
+    },
+    {
+      "label": "amtliche PDF",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2021/V_ZR_213-21.pdf?__blob=publicationFile&v=1",
+      "source_file": "bauwirtschaft/references/entscheidungsanker-bautraeger-2026.md"
+    },
+    {
+      "label": "amtliche PDF",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2012/III_ZR_121-12.pdf?__blob=publicationFile&v=1",
+      "source_file": "bauwirtschaft/references/entscheidungsanker-bautraeger-2026.md"
+    },
+    {
+      "label": "amtliche PDF",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2009/V_ZR__85-09.pdf?__blob=publicationFile&v=1",
+      "source_file": "bauwirtschaft/references/entscheidungsanker-bautraeger-2026.md"
+    },
+    {
+      "label": "amtliche PDF",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2004/VII_ZR_200-04.pdf?__blob=publicationFile&v=1",
+      "source_file": "bauwirtschaft/references/entscheidungsanker-bautraeger-2026.md"
+    },
+    {
+      "label": "amtliche PDF",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2012/VII_ZR_308-12.pdf?__blob=publicationFile&v=1",
+      "source_file": "bauwirtschaft/references/entscheidungsanker-bautraeger-2026.md"
+    }
+  ],
+  "page_pngs": [
+    {
+      "name": "page-1.png",
+      "sha256": "96faabe15b0ddc4b4961744ac38e05033cbfc1d1371d313495d49b51b20d795c"
+    },
+    {
+      "name": "page-2.png",
+      "sha256": "164e63171471009e4476bc10ccded8a5a014fe0c586c0aa4309ead0e0a3279b3"
+    },
+    {
+      "name": "page-3.png",
+      "sha256": "c4f62dc358f93e0ea7a5d1ff0e3c2dfb68cb0caa123de2d297e4e84f32f80349"
+    },
+    {
+      "name": "page-4.png",
+      "sha256": "344b04629ae8b8e20f659dc059ad74c33447208b325c70b98efc8b2655dfd8b1"
+    },
+    {
+      "name": "page-5.png",
+      "sha256": "3044c8a2d5330ea2384b1ca069cd052db9f6237a676d4af511101205b4a77014"
+    },
+    {
+      "name": "page-6.png",
+      "sha256": "b12ca4304a847b01e5f8de2c7ba2f864f3a448d7c0a4f1c99736fe74e3d518be"
+    },
+    {
+      "name": "page-7.png",
+      "sha256": "0f4b7e82ab6d777eb534609e58905eb28b39bd6bb4ffa81f6c797be5aa9df3d7"
+    },
+    {
+      "name": "page-8.png",
+      "sha256": "4623b3ea4f34aa7bcde4a4eaa278e575220896c29063242add18b538ec6212f9"
+    },
+    {
+      "name": "page-9.png",
+      "sha256": "7b87cb9bb764544f366ac36ff57bd0528820cfbe4f0668c73a6faa52c9a15326"
+    },
+    {
+      "name": "page-10.png",
+      "sha256": "96be42010e18f18069dfea034697eb5716c0f65d333ef045ba1423a424029b49"
+    },
+    {
+      "name": "page-11.png",
+      "sha256": "275d14d9b9597f04142279c36232404f35f281f2b095b1e1513df2bfd74ca183"
+    },
+    {
+      "name": "page-12.png",
+      "sha256": "fa2d3d28c9bd831186503144ea3b65f955fc760cd27ed90c21a24646944f6277"
+    },
+    {
+      "name": "page-13.png",
+      "sha256": "cb04467f1ff27718991004adc15015e998fae5f50b45958c09a3fba852093b41"
+    },
+    {
+      "name": "page-14.png",
+      "sha256": "cf5e0afd95f92cd02d6ead31610d9fa4c57640e09e05c0a0e57d26bb8323e624"
+    },
+    {
+      "name": "page-15.png",
+      "sha256": "356863350870695f010e228d88b052e9f7be29e6fb3e39b356b38bc983679f0e"
+    },
+    {
+      "name": "page-16.png",
+      "sha256": "7a3330d18f8de57bf2c5c2709d56a0453b4c83f8c91ee8ddbc0a9f58a74ce69e"
+    },
+    {
+      "name": "page-17.png",
+      "sha256": "852aa06b09146c864d71c434802c5e4f668498938d6f9d6c7824d5d1278a2ee9"
+    },
+    {
+      "name": "page-18.png",
+      "sha256": "092e1a4285dc204564b8637412cef01e443f9dfd9d404b68abb9c112559f0466"
+    },
+    {
+      "name": "page-19.png",
+      "sha256": "11b0f79f73f72ac7378843b0cd69409f71bf6252a3bd4a7921f8a1d17fb25759"
+    },
+    {
+      "name": "page-20.png",
+      "sha256": "04af0d39f6c5a2302dc740989a689df3e4d30e833cb169e9370c2c145199cb65"
+    },
+    {
+      "name": "page-21.png",
+      "sha256": "5d7891c4098eb6f86e2f77eebfe837365e60ed01672a0f4f9fb462d4a0a137e4"
+    },
+    {
+      "name": "page-22.png",
+      "sha256": "da12b80bd424ef43a0f4f39d7e3e97b9f961c6a3780d8622bedd1c65cc45bfb8"
+    },
+    {
+      "name": "page-23.png",
+      "sha256": "e62371c596f1db4a08a4701154b596fd528923833590aed673283c05961fa9e6"
+    },
+    {
+      "name": "page-24.png",
+      "sha256": "077ade8bc2b668c0b25dcdf4aaac7436c1dfdadab4c02ec1d34518f5258caf4d"
+    },
+    {
+      "name": "page-25.png",
+      "sha256": "9c6434ac019ae9615e1ae9423de75663116cb567d5242c5f76f2a423e249b5ff"
+    },
+    {
+      "name": "page-26.png",
+      "sha256": "3b5d74271a7831700549455ed226efae7398d263be1ffb136a41b2a376e5d1ea"
+    },
+    {
+      "name": "page-27.png",
+      "sha256": "34dec5f1769dee8d2be23e67a2380fb3d3c9d15132ba4ecb08343e47ab0205eb"
+    },
+    {
+      "name": "page-28.png",
+      "sha256": "c42c43a6004ae8ea88e9feef37d0282f1c1cb43b8ca148ad64674b58291be5ca"
+    },
+    {
+      "name": "page-29.png",
+      "sha256": "e9fc18c511d0ae2018098799d8e219d47d73471f342bf5ea4ffe627d13c8ec28"
+    },
+    {
+      "name": "page-30.png",
+      "sha256": "0d49abd004c5f38c7f86ac919de8f1b5296c3c6ae1aa49442132b0d9cf7a2086"
+    },
+    {
+      "name": "page-31.png",
+      "sha256": "0c36357d7efe44f10092a7510842c4dedc16ba173dc6f30a3718c0d58bc41ba7"
+    },
+    {
+      "name": "page-32.png",
+      "sha256": "274ff64cb6b93320c4a0cd9691d847b7f16af24236b44c18fa8211583cdd0525"
+    },
+    {
+      "name": "page-33.png",
+      "sha256": "bb5317ad988d8be28884c16400ec83e205a14d7d6063d93e93eee13e6d2c1579"
+    },
+    {
+      "name": "page-34.png",
+      "sha256": "021187501af65b591f1bf370d48817a23aa3dd9186f0db8cdb7d05be38f1e01e"
+    },
+    {
+      "name": "page-35.png",
+      "sha256": "3c3c22a8aa757bcca097faa79e016bed7984f2f6ac30ba06426187fb950e3e35"
+    },
+    {
+      "name": "page-36.png",
+      "sha256": "71afe87eb90a500fce8fe433c97f5bf66f5c05bfdebe41d9fe858f9dc1e0e140"
+    },
+    {
+      "name": "page-37.png",
+      "sha256": "efcdae4cf66f8549fdfff015f667ac4d5799b838ab6e1c1441d19c269c3fb98a"
+    },
+    {
+      "name": "page-38.png",
+      "sha256": "a6cc917761916f24e1e199e7884e9f3fe428e9569d129611f1e4397e8fd0e007"
+    },
+    {
+      "name": "page-39.png",
+      "sha256": "0def03fcc0794657db3e2b95e6bfe70672b8ef5fecfd69db30e3b7a768459dd5"
+    },
+    {
+      "name": "page-40.png",
+      "sha256": "070e069929f324ceee73c2189038a6dcd8dc884a8504ef5bcee4d0130f1f5cf2"
+    },
+    {
+      "name": "page-41.png",
+      "sha256": "622c5adc3efca98289e90bfbcf559f7282e8ccb7c527a3d8a2151b51522a8112"
+    },
+    {
+      "name": "page-42.png",
+      "sha256": "b0de7a929f100f37ab6c06d315b0246f1050db4fc6ffabd8ebc3a6e83a45f57f"
+    },
+    {
+      "name": "page-43.png",
+      "sha256": "482c3057e76e1fbce7a775f1a6e16397aae588faf08b7c0cbef2093b293515b8"
+    },
+    {
+      "name": "page-44.png",
+      "sha256": "cde8c13ba66e64e2b60206b1335bc9cbdf4610e8fc4950046689392df890fa81"
+    },
+    {
+      "name": "page-45.png",
+      "sha256": "1c7ca891319cfd7bce42e9675a7822b2583a493ed9d1a7850b2516f026c1bd75"
+    },
+    {
+      "name": "page-46.png",
+      "sha256": "dd03f169463e344fa4a416714b3d823e0ff2aa2023f44984812c93849ff5ae7c"
+    },
+    {
+      "name": "page-47.png",
+      "sha256": "ee8f9a060a7b0b519de90f120e5abe74d9dd71abe12d8b4010ad0748aba9d557"
+    },
+    {
+      "name": "page-48.png",
+      "sha256": "d635f3656db258c8cb9cfd76281ec2b6d72378fa5196f986850834e55fef4b1d"
+    },
+    {
+      "name": "page-49.png",
+      "sha256": "b9175c52bcbcf1ef8e6b6fc1976e8a17b3b5437497229e6591f83dd5d1a00775"
+    },
+    {
+      "name": "page-50.png",
+      "sha256": "63726ec75d9b1051357cf1b5d4cb78cbf9563ebfbb50bb5035b6415c02272866"
+    },
+    {
+      "name": "page-51.png",
+      "sha256": "61920b63034ce25c647e7a442f4ac156948e413e1a058a339dbd9c46bcfb4b95"
+    },
+    {
+      "name": "page-52.png",
+      "sha256": "d56d3f9020e26e7145930715f500c47346fa36c74decff4aaa9dd81e3d4af019"
+    },
+    {
+      "name": "page-53.png",
+      "sha256": "852409a8175249128762364c6a6c0c7f0c2a3b9cf5553c8ea72707291ec02455"
+    },
+    {
+      "name": "page-54.png",
+      "sha256": "b87f0e15d7e9a3ee1c589a49744b4f7c9eb2bbc7233cb00067e511bfd86bf529"
+    },
+    {
+      "name": "page-55.png",
+      "sha256": "37b9ecd3fe279dcd9f5947258a11460884e336d415139ef23caa1a36d62be7ab"
+    },
+    {
+      "name": "page-56.png",
+      "sha256": "50fb9041b55d2c8a5ab9cc290fd5a794915e7f24931d376541faf8ec2e68130c"
+    },
+    {
+      "name": "page-57.png",
+      "sha256": "138a7c0fc904250308f3e1dddb9698120f1ab690bce12d39a6dfa77475e34ac8"
+    },
+    {
+      "name": "page-58.png",
+      "sha256": "58149e47003a252179041bd493e8106ca96a3953e1720b6d12cdb51ecfc2c922"
+    },
+    {
+      "name": "page-59.png",
+      "sha256": "199991133e13aaa9e30a8e6f67e447bacdce89bc43a641d739624a0fe320559d"
+    },
+    {
+      "name": "page-60.png",
+      "sha256": "f1c7c87f19c05aa78e0427758e05b480a7ff48cb3858a3724c3d619b4ddf427b"
+    },
+    {
+      "name": "page-61.png",
+      "sha256": "9e677b3719a42f867c636ac1f0eb3e217ca3671bb2ef837d0a54c01ebec5d88d"
+    },
+    {
+      "name": "page-62.png",
+      "sha256": "90efa742f98b9b6c093d7d13e20ab0afdfd7357369a1196d909200f7e155ca35"
+    },
+    {
+      "name": "page-63.png",
+      "sha256": "0d6cba6327ec3a16e6cd34862cab7016bbd4b9f1b6426770b7ab0e50af19ddea"
+    },
+    {
+      "name": "page-64.png",
+      "sha256": "f00e4ccd7fdd5d6094b7ba87e1a365f7121798b3cc7149100fc0bd670e359774"
+    },
+    {
+      "name": "page-65.png",
+      "sha256": "684858a78c8b87b7bd3872a3cbefbaf7a7e4acddd4250b991f93e24267328af7"
+    },
+    {
+      "name": "page-66.png",
+      "sha256": "74a9b7641fc6ccda21c527d50adc9f5e1ed8043ca56468e2db9ea4d770b9f70f"
+    },
+    {
+      "name": "page-67.png",
+      "sha256": "4a2ed08058ec68b02f1452bd0249c40febee0faf711d9fe8d80a7a5e69e74027"
+    },
+    {
+      "name": "page-68.png",
+      "sha256": "5411e4e3d40a865055cf7501fa67b9a96ee5a4499fc1307ca1bd07e44a544598"
+    },
+    {
+      "name": "page-69.png",
+      "sha256": "23b945c048d60dccab5bd05da98426d8513b2ef6b3c37c9b427b2490d6c6c799"
+    },
+    {
+      "name": "page-70.png",
+      "sha256": "aeb80a092554cb7a419abff6a6eeac0dd0a0c488d64c0575791a9d45a9e9a9c5"
+    },
+    {
+      "name": "page-71.png",
+      "sha256": "225dcb2afb3139e20b4c3e906478a0b9c3b218e50f74ddd5592bfd9365eeb1e6"
+    },
+    {
+      "name": "page-72.png",
+      "sha256": "0469968e9e23ea9b52a145cd11e00a276746f7ba5867ffbcf2927db60c904e21"
+    },
+    {
+      "name": "page-73.png",
+      "sha256": "731a30621a2bce66e7494e720fd109689c3eb97d8936a82c0ed6a51b1331f094"
+    },
+    {
+      "name": "page-74.png",
+      "sha256": "3042c7c6abe2a7db744af67b485b931aaa1300c11472117583d530aeb08b64e0"
+    },
+    {
+      "name": "page-75.png",
+      "sha256": "1a9a57c48eaf591933b9656eeeaafd917ec8b0b311c0c9debd451d96cc4f2444"
+    },
+    {
+      "name": "page-76.png",
+      "sha256": "6b50ddc75dac4cd5dafe27157eda3bfec01c7842ead6b474c0dec0375cddb645"
+    },
+    {
+      "name": "page-77.png",
+      "sha256": "a23236713bcbf0659dc8e5d4aaa15d3b32f670bafd4b1fb4b525c063e6d8f041"
+    },
+    {
+      "name": "page-78.png",
+      "sha256": "57537a25104df910ede59eb86032f69df96285c8e5bba9e079f0ffeda499a56f"
+    },
+    {
+      "name": "page-79.png",
+      "sha256": "296fdb606ac7dab73734bb6daee6ad67b3741c915f10e4ff11f827f75b56214a"
+    },
+    {
+      "name": "page-80.png",
+      "sha256": "7150d46699a3ca991505952dbf090be5d977002e78c9e0280c6b370929b13bf0"
+    },
+    {
+      "name": "page-81.png",
+      "sha256": "a5ff204c58f75e94262d9f0748b2bd53541427017fc31168560142685d62b791"
+    },
+    {
+      "name": "page-82.png",
+      "sha256": "f584c2ce268420e7757f23878f5b6843edb6e8b34590f2fed1f0eb4f873b73e8"
+    },
+    {
+      "name": "page-83.png",
+      "sha256": "d55a05f41e8b3227afeb63e89a711a0099884c4b41b16bc948e008b59e93af0b"
+    },
+    {
+      "name": "page-84.png",
+      "sha256": "270c03bfe25bac57d1c747492ffe961a420bd97a7187c81d28914da929bae3fb"
+    },
+    {
+      "name": "page-85.png",
+      "sha256": "db566866345006590851544ac7fde6959baee9e7b3db757199c8b49203e2a643"
+    },
+    {
+      "name": "page-86.png",
+      "sha256": "2d5a49944a54a9d41a1aecdfa7a358813ed6355dc28c73e95ed730b2d376be29"
+    },
+    {
+      "name": "page-87.png",
+      "sha256": "60eefc38ad9f72a0c8eeca5c97b74ae55703ec6a8845c5b377022075e005359c"
+    },
+    {
+      "name": "page-88.png",
+      "sha256": "8d64cb814f3f86257a0aeffbbe69124fb5a88ddeec017a0eecf5fa30b0b8d24f"
+    },
+    {
+      "name": "page-89.png",
+      "sha256": "08831488cd3079afcc47c6ededc121cff2737ca90b8c4cda1ee302b5ed3ccb88"
+    },
+    {
+      "name": "page-90.png",
+      "sha256": "eea91e686b1e1be3125e9de5a19606c9514c3e030872165090e2bc262ea0c893"
+    },
+    {
+      "name": "page-91.png",
+      "sha256": "7db69bff6337ca46e5a61a1a197e406b227db29456e2c20c04e1eb3d2861e261"
+    },
+    {
+      "name": "page-92.png",
+      "sha256": "0ea50523f994f5926759d2614ebce45817876a4b10bac3d98f2c31db6375a5aa"
+    },
+    {
+      "name": "page-93.png",
+      "sha256": "a94dc0c0b21a7578aa3d5aa6f77fd27943d838a9064ca15782d4a5ab85139edf"
+    },
+    {
+      "name": "page-94.png",
+      "sha256": "c65d4eba254b3a49d2392cdf7a7ded05fb76cf0c724de7ac31987da4db576a81"
+    },
+    {
+      "name": "page-95.png",
+      "sha256": "88046a57efce8f757adde51744e26f339de73078b160058ddcdf29a8994a05cb"
+    },
+    {
+      "name": "page-96.png",
+      "sha256": "be26695e355ef28dbcedbd09daa120d9a8f630c8a3dd421080304019d36ea849"
+    },
+    {
+      "name": "page-97.png",
+      "sha256": "86c671854422edfefe907b321869f7836d1d40d998da35016266a10fb86d5378"
+    },
+    {
+      "name": "page-98.png",
+      "sha256": "5b4ac8392802788497e22cd1f632bbaeafc716f10ff342273aaeaf440da92296"
+    },
+    {
+      "name": "page-99.png",
+      "sha256": "a796fbd155e5ffd45377236072a6523aa33e5a2f25d1d46ed5c71e7613517648"
+    },
+    {
+      "name": "page-100.png",
+      "sha256": "5b34f6212785ddd8da93441952f1b5441397a2fb7fd376898873d981e2e5c8ad"
+    }
+  ]
+}

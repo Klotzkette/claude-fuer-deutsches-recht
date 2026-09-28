@@ -1,0 +1,115 @@
+{
+  "status": "nicht beschlossen; keine Beurkundung, Zahlung oder Buchung",
+  "optionsstichtag": "2027-11-01",
+  "rechtsstand": "2026-09-28",
+  "units": [
+    {
+      "n": 1,
+      "area": 68,
+      "floor": "Erdgeschoss",
+      "side": "westlicher Gebäudeteil",
+      "price": 409000,
+      "names": "Johann Müller und Anna Müller",
+      "address": "Lindensteg 12, 31134 Hildesheim",
+      "born": "Johann Müller, geboren am 12.03.1968, und Anna Müller, geboren am 21.06.1970",
+      "purpose": "gemeinschaftliche Eigennutzung",
+      "married": true
+    },
+    {
+      "n": 2,
+      "area": 75,
+      "floor": "Erdgeschoss",
+      "side": "mittlerer Gebäudeteil",
+      "price": 449000,
+      "names": "Georg Schmidt und Margarete Schmidt",
+      "address": "Wiesenbogen 7, 31135 Hildesheim",
+      "born": "Georg Schmidt, geboren am 07.02.1961, und Margarete Schmidt, geboren am 19.09.1963",
+      "purpose": "private Vermietung nach Übergabe",
+      "married": true
+    },
+    {
+      "n": 3,
+      "area": 82,
+      "floor": "Erdgeschoss",
+      "side": "östlicher Gebäudeteil",
+      "price": 489000,
+      "names": "Friedrich Schulz und Erna Schulz",
+      "address": "Buchensteg 19, 31137 Hildesheim",
+      "born": "Friedrich Schulz, geboren am 08.11.1972, und Erna Schulz, geboren am 17.04.1974",
+      "purpose": "gemeinschaftliche Eigennutzung",
+      "married": true
+    },
+    {
+      "n": 4,
+      "area": 68,
+      "floor": "erstes Obergeschoss",
+      "side": "westlicher Gebäudeteil",
+      "price": 419000,
+      "names": "Hans Becker",
+      "address": "Ulmenbogen 22, 31134 Hildesheim",
+      "born": "Hans Becker, geboren am 24.01.1965",
+      "purpose": "Eigennutzung",
+      "married": false
+    },
+    {
+      "n": 5,
+      "area": 75,
+      "floor": "erstes Obergeschoss",
+      "side": "mittlerer Gebäudeteil",
+      "price": 459000,
+      "names": "Karl Hoffmann und Hildegard Hoffmann",
+      "address": "Eschensteg 8, 31135 Hildesheim",
+      "born": "Karl Hoffmann, geboren am 03.05.1960, und Hildegard Hoffmann, geboren am 26.08.1962",
+      "purpose": "private Vermietung nach Übergabe",
+      "married": true
+    },
+    {
+      "n": 6,
+      "area": 82,
+      "floor": "erstes Obergeschoss",
+      "side": "östlicher Gebäudeteil",
+      "price": 499000,
+      "names": "Heinrich Koch und Elisabeth Koch",
+      "address": "Weidenbogen 5, 31137 Hildesheim",
+      "born": "Heinrich Koch, geboren am 16.07.1971, und Elisabeth Koch, geboren am 14.12.1973",
+      "purpose": "gemeinschaftliche Eigennutzung",
+      "married": true
+    },
+    {
+      "n": 7,
+      "area": 75,
+      "floor": "zweites Obergeschoss",
+      "side": "westlicher Gebäudeteil",
+      "price": 469000,
+      "names": "Otto Fischer und Martha Fischer",
+      "address": "Eichensteg 16, 31134 Hildesheim",
+      "born": "Otto Fischer, geboren am 27.10.1959, und Martha Fischer, geboren am 06.03.1961",
+      "purpose": "gemeinschaftliche Eigennutzung",
+      "married": true
+    },
+    {
+      "n": 8,
+      "area": 75,
+      "floor": "zweites Obergeschoss",
+      "side": "östlicher Gebäudeteil",
+      "price": 479000,
+      "names": "Wilhelm Weber und Gertrud Weber",
+      "address": "Ahornbogen 11, 31135 Hildesheim",
+      "born": "Wilhelm Weber, geboren am 11.06.1966, und Gertrud Weber, geboren am 23.02.1967",
+      "purpose": "private Vermietung nach Übergabe",
+      "married": true
+    }
+  ],
+  "rate_percent": [
+    "30",
+    "28",
+    "12.6",
+    "6.3",
+    "8.4",
+    "11.2",
+    "3.5"
+  ],
+  "prices_total": 3672000,
+  "mea_total": "600/600",
+  "main_scenario": "Vermietung unverändert"
+}

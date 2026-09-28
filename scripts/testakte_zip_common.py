@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Gemeinsame flache und kollisionssichere ZIP-Benennung fuer Testakten."""
+"""Kollisionssichere ZIP-Benennung, einschließlich bestellter Projektordner."""
 
 from __future__ import annotations
 
@@ -12,6 +12,42 @@ from testakte_disclaimer import NOTICE_FILENAME
 
 
 MAX_ARCHIVE_NAME = 220
+# Diese Fassung wurde ausdrücklich als vollständige Projektordner-Akte bestellt.
+# Bestehende Testakten behalten ihre flachen Archive.
+STRUCTURED_TESTAKTEN = frozenset({'bauwirtschaft-hildesheim-lebensakte'})
+
+
+def preserves_directories(testakte_dir: Path) -> bool:
+    return testakte_dir.name in STRUCTURED_TESTAKTEN
+
+
+def safe_archive_name(name: str, *, allow_directories: bool) -> bool:
+    """Portable relative ZIP-Pfade ohne Traversal, Laufwerk oder Steuerzeichen."""
+    if not name or any(character in name for character in '\\:*?<>|"') or name.startswith('/'):
+        return False
+    if any(ord(character) < 32 for character in name):
+        return False
+    parts = name.split('/')
+    if any(part in {'', '.', '..'} or part.endswith((' ', '.')) for part in parts):
+        return False
+    if not allow_directories and len(parts) != 1:
+        return False
+    reserved = {'con', 'prn', 'aux', 'nul', *(f'com{i}' for i in range(1, 10)), *(f'lpt{i}' for i in range(1, 10))}
+    return all(part.split('.')[0].casefold() not in reserved for part in parts)
+
+
+def structured_archive_pairs(items: Iterable[tuple[Path, Path]]) -> list[tuple[Path, str]]:
+    pairs = []
+    used = set()
+    for source, relative in items:
+        name = relative.as_posix()
+        if not safe_archive_name(name, allow_directories=True) or len(name) > MAX_ARCHIVE_NAME:
+            raise ValueError(f'unsicherer oder zu langer Projektaktenpfad: {name}')
+        if name.casefold() in used:
+            raise ValueError(f'kollidierender Projektaktenpfad: {name}')
+        used.add(name.casefold())
+        pairs.append((source, name))
+    return pairs
 
 
 def _shorten(name: str, identity: str) -> str:
@@ -67,12 +103,12 @@ def flat_archive_pairs(
     return pairs
 
 
-def working_dump_flat_pairs(
+def _working_dump_items(
     testakte_dir: Path,
     *,
     include_gesamt_pdf: bool,
-) -> list[tuple[Path, str]]:
-    """Liefert alle exportierten Originaldateien mit flachen ZIP-Namen."""
+) -> list[tuple[Path, Path]]:
+    """Liefert alle exportierten Originaldateien mit ihrem relativen Pfad."""
     items: list[tuple[Path, Path]] = []
     for path in sorted(
         testakte_dir.rglob("*"),
@@ -88,7 +124,16 @@ def working_dump_flat_pairs(
         if relative.parts[0] == "gesamt-pdf":
             relative = Path(path.name)
         items.append((path, relative))
-    return flat_archive_pairs(items)
+    return items
+
+
+def working_dump_flat_pairs(testakte_dir: Path, *, include_gesamt_pdf: bool) -> list[tuple[Path, str]]:
+    return flat_archive_pairs(_working_dump_items(testakte_dir, include_gesamt_pdf=include_gesamt_pdf))
+
+
+def working_dump_archive_pairs(testakte_dir: Path, *, include_gesamt_pdf: bool) -> list[tuple[Path, str]]:
+    items = _working_dump_items(testakte_dir, include_gesamt_pdf=include_gesamt_pdf)
+    return structured_archive_pairs(items) if preserves_directories(testakte_dir) else flat_archive_pairs(items)
 
 
 def working_dump_expected_arcnames(
@@ -99,7 +144,7 @@ def working_dump_expected_arcnames(
     """Liefert den vollstaendigen Inhalt eines Originalformat-ZIPs."""
     names = [
         arcname
-        for _, arcname in working_dump_flat_pairs(
+        for _, arcname in working_dump_archive_pairs(
             testakte_dir,
             include_gesamt_pdf=include_gesamt_pdf,
         )

@@ -93,7 +93,7 @@ Die fünf vollständigen Register sind alphabetisch sortiert und werden bei jede
 | **Werkstatt-Prompts** | 245 | Ausführliche eigenständige Arbeitsmodi für komplexe Vorgänge; je Plugin mit Kurzbeschreibung und direktem Markdown-Download. | [Werkstatt-Prompts von A bis Z](./docs/werkstatt-und-schnellstart-coverage.md#werkstatt-prompts) |
 | HOAI-Phasen-Werkstätten | 9 zusätzlich | Je ein eigener Phasenauftrag für Gebäude und Innenräume mit passendem Skill und eigener Akte. | [Leistungsphasen 1 bis 9](./docs/bauwirtschaft-hoai-phasen.md) |
 | **Schnellstart-/Mini-Prompts** | 245 | Kompakte eigenständige Einstiege für den Kernworkflow und ein erstes belastbares Arbeitsprodukt. | [Schnellstart-Prompts von A bis Z](./docs/werkstatt-und-schnellstart-coverage.md#schnellstart-prompts) |
-| **Testakten** | 363 zentral / 366 gesamt | Praxisnahe Dokumentensammlungen; jede Zeile skizziert den Fall, nennt passende Plugins und bietet drei Downloadformen. Drei weitere Akten liegen unmittelbar bei ihren Plugins. | [Zentrale Testakten mit Kurzbeschreibungen von A bis Z](./testakten/README.md#verfügbare-akten) · [pluginlokale Akten über den Plugin-Katalog](#was-ist-drin) |
+| **Testakten** | 364 zentral / 367 gesamt | Praxisnahe Dokumentensammlungen; jede Zeile skizziert den Fall, nennt passende Plugins und bietet drei Downloadformen. Drei weitere Akten liegen unmittelbar bei ihren Plugins. | [Zentrale Testakten mit Kurzbeschreibungen von A bis Z](./testakten/README.md#verfügbare-akten) · [pluginlokale Akten über den Plugin-Katalog](#was-ist-drin) |
 
 Sortierlogik: Plugins, Werkstatt- und Schnellstart-Prompts folgen dem Plugin-Slug; Skills sind zuerst nach Plugin und dort nach Skill-Slug sortiert; Testakten folgen dem Aktenordner. Die großen Bestände bleiben auf eigenen, schnell ladenden Registerseiten, damit der Haupt-README trotz 22431 Skills benutzbar bleibt.
 
@@ -134,9 +134,9 @@ Für diesen Anwendungsfall gibt es eine kuratierte, nach Fachanwaltschaften sort
 |---|---|
 | **Plugins** | 245 (inkl. 15 Gerichts- und Staatsanwalts-Plugins im Sammelordner [`gerichtsplugins/`](./gerichtsplugins/) und 11 Insolvenz-Plugins im Sammelordner [`insolvenzrecht-plugins/`](./insolvenzrecht-plugins/)) |
 | **Skills (SKILL.md)** | 22431: [Gesamtübersicht](./SKILLS.md) |
-| **Testakten** | 363 zentral / 366 gesamt |
+| **Testakten** | 364 zentral / 367 gesamt |
 | **Fachanwalts-Profile** | 24 |
-| **Plugin-Version / Arbeitsstand** | `v445.7.0` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
+| **Plugin-Version / Arbeitsstand** | `v445.8.0` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
 | **Marketplace-Definition** | [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json) |
 
 ### Sammel-Downloads
@@ -276,7 +276,7 @@ Die Plugins, Skills und Prompts sind Ausgangspunkte für eigene, fachlich kontro
 >
 > This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
-> **Testakten zum Ausprobieren:** Im Ordner [`testakten/`](./testakten) liegen umfangreiche Arbeitsakten mit PDFs, Tabellen, Textdokumenten, E-Mails, Bildern und weiteren Originalformaten. Jede Akte ist als Gesamt-PDF, flaches Einzel-PDF-ZIP und flaches Originalformat-ZIP verfügbar; zusätzlich gibt es [alle-testakten.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) als Sammelarchiv. Der unveränderte DE/EN-Warnhinweis steht unmittelbar vor den Downloads und am Anfang der `README.txt` beider ZIP-Varianten und Sammelpakete, nicht innerhalb der PDFs. Details und Direktdownloads stehen in der [Testakten-Übersicht](./testakten/README.md).
+> **Testakten zum Ausprobieren:** Im Ordner [`testakten/`](./testakten) liegen umfangreiche Arbeitsakten mit PDFs, Tabellen, Textdokumenten, E-Mails, Bildern und weiteren Originalformaten. Jede Akte ist als Gesamt-PDF, Einzel-PDF-ZIP und Originalformat-ZIP verfügbar; zusätzlich gibt es [alle-testakten.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) als Sammelarchiv. Der unveränderte DE/EN-Warnhinweis steht unmittelbar vor den Downloads und am Anfang der `README.txt` beider ZIP-Varianten und Sammelpakete, nicht innerhalb der PDFs. Details und Direktdownloads stehen in der [Testakten-Übersicht](./testakten/README.md).
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >

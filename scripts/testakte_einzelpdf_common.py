@@ -2,8 +2,9 @@
 """Gemeinsame Definitionen fuer die Testakten-Einzel-PDF-ZIPs.
 
 Die Einzel-PDF-ZIPs liefern jede Unterlage einer Testakte als eigene PDF-Datei
-(im Gegensatz zum Gesamt-PDF, das alles in ein Dokument zusammenfasst). Alle
-PDFs liegen direkt auf der ZIP-Wurzelebene. Builder und Validator teilen sich
+(im Gegensatz zum Gesamt-PDF, das alles in ein Dokument zusammenfasst). Im
+Regelfall liegen PDFs auf der ZIP-Wurzel; bestellte Projektordner bleiben erhalten.
+Builder und Validator teilen sich
 dieselbe Auswahl- und Benennungslogik.
 """
 
@@ -13,7 +14,7 @@ from collections import Counter
 from pathlib import Path
 
 from testakte_file_filter import include_in_working_dump
-from testakte_zip_common import flat_archive_pairs
+from testakte_zip_common import flat_archive_pairs, preserves_directories, structured_archive_pairs
 
 # Dokumente, die in eine eigene PDF gerendert werden. Strukturierte Rohdaten
 # bleiben im Arbeitsdateien-ZIP im Originalformat und erhalten zusätzlich eine
@@ -93,7 +94,7 @@ def document_arcname_pairs(testakte_dir: Path) -> list[tuple[Path, str]]:
         if name in collisions and ext_of(p) != "pdf":
             name = _qualified_arcname(p, testakte_dir)
         desired.append((p, Path(name)))
-    return flat_archive_pairs(desired)
+    return structured_archive_pairs(desired) if preserves_directories(testakte_dir) else flat_archive_pairs(desired)
 
 
 def expected_arcnames(testakte_dir: Path) -> list[str]:

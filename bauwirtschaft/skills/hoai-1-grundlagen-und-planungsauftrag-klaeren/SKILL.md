@@ -49,6 +49,8 @@ Fassen Sie Ziele, Entscheidungen, Ortsbefund und Untersuchungsbedarf in der Plan
 
 Nach Antworten aktualisieren Sie dieselben Anforderungs- und Vorgangskennungen. Ändert sich die Nutzerzahl, prüfen Sie deren Folgen für Fläche, Erschließung, Fachbeiträge, Kostenbasis und Termin; übernehmen Sie keine alte Freigabe ungeprüft. Bei einem neuen Objekt einen getrennten Fall anlegen. Bei zwei Nutzungsoptionen einen gemeinsamen Ausgangsstand mit getrennten Annahmen fortführen. Alte Aussagen und Gründe der Änderung bleiben nachvollziehbar.
 
+Vertiefung bei einem umfangreichen Auftrag: Lesen Sie in [der modularen Bauwerkstatt](../../references/werkstatt/02-hoai-1.md) nur die passenden Stationen 7 bis 12. Kostenrahmen mit Umfang und Steuerbasis erfassen; BGH VII ZR 230/11 erlaubt keine pauschale Toleranzquote. Die Vermietungsstrategie bleibt Hauptfall, bis eine ausdrückliche neue Entscheidung vorliegt. Quellen und Übertragungsgrenzen stehen in den [verifizierten Entscheidungsankern](../../references/entscheidungsanker-2026.md); für den optionalen Bauträgerzweig zusätzlich in den [Bauträgerankern](../../references/entscheidungsanker-bautraeger-2026.md). Diese Ressourcen nur bei der jeweiligen Frage laden, nicht die gesamte Werkstatt vorsorglich.
+
 ## 4. Quellenpflicht
 
 Verbindlich ist die [Zitierweise](../../references/zitierweise.md). Verwenden Sie gezielt das [Quellenprotokoll Phase 1](../../references/hoai-1-fachquellen.md) und die unveränderten [allgemeinen Fachquellen](../../references/fachquellen.md). Tragend sind Anlage 10 Nummer 10.1 Phase 1, Paragrafen 3 und 34 HOAI sowie Paragraf 650p BGB. Normtexte fallbezogen live und amtlich prüfen, Abrufdatum und zeitliche Anwendbarkeit trennen. Bei Zugriffsproblemen den genauen ungeprüften Punkt nennen.

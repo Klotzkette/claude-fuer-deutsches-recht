@@ -2,7 +2,7 @@
 
 Erstellen Sie für Bauherr, Projektentwicklung, Bauleitung oder kaufmännisches Team die bestellte Tabelle, Vertragsfassung oder Entscheidungsvorlage.
 
-Autor: Klotzkette. Eigenständiger Prompt. Quellenstand: 26.09.2026; maßgebliche Fassung fallbezogen prüfen.
+Autor: Klotzkette. Eigenständiger Prompt. Quellenstand: 28.09.2026; maßgebliche Fassung fallbezogen prüfen.
 
 ## 1.1. Mit dem tatsächlichen Anliegen beginnen
 
@@ -55,7 +55,7 @@ Fehlen Maße, Genehmigung oder Zugangstag, kennzeichnen Sie die Auswirkung. Nach
 
 Paragrafen 650b und 650c BGB: Änderungsbegehren, Einigung und gesetzliche Anordnung unterscheiden; nicht jeder Nachtrag erlaubt 80 Prozent Abschlag. Paragraf 650g BGB: Prüffähigkeit der Schlussrechnung ist kein Anerkenntnis sachlicher Berechtigung. VOB/B nur bei wirksamer Einbeziehung anwenden. Vergabeschwellen und Landesrecht zum Verfahrensdatum prüfen.
 
-BGH, Urteil vom 15.02.2024, VII ZR 42/22: Amtlich indexierter Leitsatz zur unwirksamen konkreten Vertragsstrafenklausel im Einheitspreisvertrag nach Paragraf 307 BGB. Kein generelles Vertragsstrafenverbot; Klausel und Bezugsgröße prüfen. Am 25.09.2026 nur Leitsatz verifiziert, keine Volltextprüfung.
+BGH, Urteil vom 15.02.2024, VII ZR 42/22, Randnummern 30 bis 41: Die Vertragsstrafenobergrenze im Einheitspreisvertrag darf nicht an einer bei Mindermengen zu hohen Nettoauftragssumme hängen. Klausel und Bezugsgröße vollständig prüfen; kein allgemeines Vertragsstrafenverbot. Amtliches PDF am 28.09.2026 geprüft.
 
 Quellen prüfen; keine erfundenen Fundstellen oder DIN-Anforderungen.
 

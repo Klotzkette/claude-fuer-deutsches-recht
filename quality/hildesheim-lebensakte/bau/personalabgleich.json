@@ -1,0 +1,248 @@
+[
+  {
+    "date": "2027-12-01",
+    "legacy_count": 4,
+    "workers": 4,
+    "crew": {
+      "rohbau": 4
+    },
+    "meeting_participants": 0,
+    "explanation": "Gewerbliche Gesamtzahl des Tagesstands unverändert."
+  },
+  {
+    "date": "2027-12-06",
+    "legacy_count": 6,
+    "workers": 6,
+    "crew": {
+      "rohbau": 6
+    },
+    "meeting_participants": 0,
+    "explanation": "Gewerbliche Gesamtzahl des Tagesstands unverändert."
+  },
+  {
+    "date": "2027-12-16",
+    "legacy_count": 5,
+    "workers": 5,
+    "crew": {
+      "rohbau": 5
+    },
+    "meeting_participants": 0,
+    "explanation": "Gewerbliche Gesamtzahl des Tagesstands unverändert."
+  },
+  {
+    "date": "2028-01-12",
+    "legacy_count": 7,
+    "workers": 7,
+    "crew": {
+      "rohbau": 7
+    },
+    "meeting_participants": 0,
+    "explanation": "Gewerbliche Gesamtzahl des Tagesstands unverändert."
+  },
+  {
+    "date": "2028-02-02",
+    "legacy_count": 6,
+    "workers": 6,
+    "crew": {
+      "rohbau": 6
+    },
+    "meeting_participants": 0,
+    "explanation": "Gewerbliche Gesamtzahl des Tagesstands unverändert."
+  },
+  {
+    "date": "2028-02-07",
+    "legacy_count": 3,
+    "workers": 3,
+    "crew": {
+      "rohbau": 3
+    },
+    "meeting_participants": 0,
+    "explanation": "Gewerbliche Gesamtzahl des Tagesstands unverändert."
+  },
+  {
+    "date": "2028-02-11",
+    "legacy_count": 3,
+    "workers": 3,
+    "crew": {
+      "rohbau": 3
+    },
+    "meeting_participants": 0,
+    "explanation": "Gewerbliche Gesamtzahl des Tagesstands unverändert."
+  },
+  {
+    "date": "2028-02-21",
+    "legacy_count": 8,
+    "workers": 8,
+    "crew": {
+      "rohbau": 8
+    },
+    "meeting_participants": 0,
+    "explanation": "Gewerbliche Gesamtzahl des Tagesstands unverändert."
+  },
+  {
+    "date": "2028-03-09",
+    "legacy_count": 8,
+    "workers": 8,
+    "crew": {
+      "rohbau": 8
+    },
+    "meeting_participants": 0,
+    "explanation": "Gewerbliche Gesamtzahl des Tagesstands unverändert."
+  },
+  {
+    "date": "2028-03-23",
+    "legacy_count": 8,
+    "workers": 8,
+    "crew": {
+      "rohbau": 8
+    },
+    "meeting_participants": 0,
+    "explanation": "Gewerbliche Gesamtzahl des Tagesstands unverändert."
+  },
+  {
+    "date": "2028-04-03",
+    "legacy_count": 10,
+    "workers": 10,
+    "crew": {
+      "huelle": 4,
+      "rohbau": 6
+    },
+    "meeting_participants": 0,
+    "explanation": "Gewerbliche Gesamtzahl des Tagesstands unverändert."
+  },
+  {
+    "date": "2028-04-28",
+    "legacy_count": 8,
+    "workers": 18,
+    "crew": {
+      "elektro": 3,
+      "hls": 3,
+      "huelle": 4,
+      "rohbau": 8
+    },
+    "meeting_participants": 0,
+    "explanation": "Acht Personen des Rohbauabschnitts; gleichzeitig vier Hülle, drei HLS und drei Elektro. Gesamt 18."
+  },
+  {
+    "date": "2028-05-12",
+    "legacy_count": 11,
+    "workers": 11,
+    "crew": {
+      "elektro": 3,
+      "hls": 3,
+      "huelle": 5
+    },
+    "meeting_participants": 0,
+    "explanation": "Gewerbliche Gesamtzahl des Tagesstands unverändert."
+  },
+  {
+    "date": "2028-06-05",
+    "legacy_count": 12,
+    "workers": 0,
+    "crew": {},
+    "meeting_participants": 0,
+    "explanation": "Datumsfehler: zwölf Personen gehören zum 06.06.; Berichtigung Jan Merz und Elif Sand vom 06.06. Maßgeblicher Feiertagsstand null."
+  },
+  {
+    "date": "2028-06-16",
+    "legacy_count": 9,
+    "workers": 17,
+    "crew": {
+      "ausbau": 5,
+      "elektro": 3,
+      "hls": 3,
+      "huelle": 6
+    },
+    "meeting_participants": 0,
+    "explanation": "Neun Personen der Hüllen- und Elektrogruppe, davon sechs Hülle und drei Elektro; zusätzlich drei HLS und fünf Ausbau. Gesamt 17."
+  },
+  {
+    "date": "2028-06-30",
+    "legacy_count": 10,
+    "workers": 15,
+    "crew": {
+      "ausbau": 5,
+      "elektro": 3,
+      "hls": 7
+    },
+    "meeting_participants": 0,
+    "explanation": "Zehn Personen der TGA-Gruppe, davon sieben HLS und drei Elektro; zusätzlich fünf Ausbau. Gesamt 15."
+  },
+  {
+    "date": "2028-07-17",
+    "legacy_count": 7,
+    "workers": 10,
+    "crew": {
+      "aufzug": 2,
+      "ausbau": 1,
+      "aussen": 7
+    },
+    "meeting_participants": 0,
+    "explanation": "Sieben Personen Außenanlagen; zusätzlich zwei Aufzugmonteure und eine Person zur Estrichtrocknungskontrolle. Gesamt zehn."
+  },
+  {
+    "date": "2028-08-10",
+    "legacy_count": 12,
+    "workers": 12,
+    "crew": {
+      "aufzug": 2,
+      "ausbau": 7,
+      "aussen": 3
+    },
+    "meeting_participants": 0,
+    "explanation": "Gewerbliche Gesamtzahl des Tagesstands unverändert."
+  },
+  {
+    "date": "2028-08-25",
+    "legacy_count": 5,
+    "workers": 19,
+    "crew": {
+      "aufzug": 5,
+      "ausbau": 5,
+      "aussen": 3,
+      "elektro": 3,
+      "hls": 3
+    },
+    "meeting_participants": 0,
+    "explanation": "Fünf Personen der Aufzug-Montagegruppe; zusätzlich fünf Ausbau, drei Außenanlagen, drei HLS und drei Elektro. Gesamt 19."
+  },
+  {
+    "date": "2028-09-08",
+    "legacy_count": 8,
+    "workers": 9,
+    "crew": {
+      "aussen": 3,
+      "elektro": 3,
+      "hls": 3
+    },
+    "meeting_participants": 2,
+    "explanation": "Acht Teilnehmer der gemeinsamen Inbetriebnahme: drei HLS, drei Elektro sowie zwei Planungs-/Überwachungsvertreter. Zusätzlich drei Personen Außenanlagen. Neun gewerblich Mitwirkende plus zwei Terminvertreter."
+  },
+  {
+    "date": "2028-09-10",
+    "legacy_count": 4,
+    "workers": 0,
+    "crew": {},
+    "meeting_participants": 4,
+    "explanation": "Vier Teilnehmer der ruhigen Vorbegehung; keine gewerbliche Kolonne."
+  },
+  {
+    "date": "2028-09-14",
+    "legacy_count": 4,
+    "workers": 4,
+    "crew": {
+      "ausbau": 2,
+      "huelle": 2
+    },
+    "meeting_participants": 0,
+    "explanation": "Gewerbliche Gesamtzahl des Tagesstands unverändert."
+  },
+  {
+    "date": "2028-09-15",
+    "legacy_count": 9,
+    "workers": 0,
+    "crew": {},
+    "meeting_participants": 9,
+    "explanation": "Neun Teilnehmer der förmlichen Abnahmen; keine produktive Baukolonne."
+  }
+]

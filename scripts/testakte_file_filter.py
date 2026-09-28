@@ -227,14 +227,16 @@ def _safe_text(path: Path, limit: int = 160_000) -> str:
         return ""
 
 
-def _contains_blocking_export_content(path: Path) -> bool:
+def _contains_blocking_export_content(path: Path, *, allow_template_fields: bool = False) -> bool:
     if path.suffix.lower() not in CONTENT_SCAN_EXTS:
         return False
     if "formatvorlagen-paradebeispiele" in path.parts:
         return False
     text = _safe_text(path)
-    return any(marker in text for marker in EXPORT_BLOCKING_CONTENT_MARKERS) or bool(
-        PLACEHOLDER_PATTERN.search(text)
+    markers = (marker for marker in EXPORT_BLOCKING_CONTENT_MARKERS
+               if not (allow_template_fields and marker == 'platzhalter'))
+    return any(marker in text for marker in markers) or (
+        not allow_template_fields and bool(PLACEHOLDER_PATTERN.search(text))
     )
 
 
@@ -268,7 +270,13 @@ def is_export_meta_file(path: Path, testakte_dir: Path) -> bool:
         return False
     if any(part in stem for part in META_NAME_PARTS):
         return True
-    if _contains_blocking_export_content(path):
+    relative = path.relative_to(testakte_dir)
+    requested_template = (
+        testakte_dir.name == 'bauwirtschaft-hildesheim-lebensakte'
+        and relative.parts[0] == '12_Wordvorlagen'
+        and path.suffix.lower() == '.docx'
+    )
+    if _contains_blocking_export_content(path, allow_template_fields=requested_template):
         return True
     if _is_initial_overview(path, testakte_dir):
         return True

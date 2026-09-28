@@ -2,7 +2,7 @@
   "schema_version": 1,
   "plugin": "bauwirtschaft",
   "author": "Klotzkette",
-  "reviewed_on": "2026-09-26",
+  "reviewed_on": "2026-09-28",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/rdg/__3.html",
@@ -148,50 +148,152 @@
       "url": "https://www.gesetze-im-internet.de/bgb/__650p.html",
       "supports": "Nach fehlgeschlagener Webdarstellung amtlichen Einzeltext direkt per HTTP gelesen: vereinbarte Planungs- und Überwachungsziele sowie Grundlagen- und Kosteneinschätzung bei noch offenen wesentlichen Zielen. Kein automatischer Auftrag allein durch Nennung einer HOAI-Phase.",
       "checked_on": "2026-09-25"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2011/VII_ZR_230-11.pdf?__blob=publicationFile&v=1",
+      "supports": "Amtliche Entscheidung mit bezeichneten tragenden Passagen am 28.09.2026 geprüft; Aussageumfang und Übertragungsgrenzen im Quellenmanifest und in bauwirtschaft/references/entscheidungsanker-2026.md beziehungsweise entscheidungsanker-bautraeger-2026.md dokumentiert.",
+      "checked_on": "2026-09-28"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2022/VII_ZR_190-22.pdf?__blob=publicationFile&v=1",
+      "supports": "Amtliche Entscheidung mit bezeichneten tragenden Passagen am 28.09.2026 geprüft; Aussageumfang und Übertragungsgrenzen im Quellenmanifest und in bauwirtschaft/references/entscheidungsanker-2026.md beziehungsweise entscheidungsanker-bautraeger-2026.md dokumentiert.",
+      "checked_on": "2026-09-28"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2022/VII_ZR__42-22.pdf?__blob=publicationFile&v=1",
+      "supports": "Amtliche Entscheidung mit bezeichneten tragenden Passagen am 28.09.2026 geprüft; Aussageumfang und Übertragungsgrenzen im Quellenmanifest und in bauwirtschaft/references/entscheidungsanker-2026.md beziehungsweise entscheidungsanker-bautraeger-2026.md dokumentiert.",
+      "checked_on": "2026-09-28"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2018/VII_ZR__34-18.pdf?__blob=publicationFile&v=1",
+      "supports": "Amtliche Entscheidung mit bezeichneten tragenden Passagen am 28.09.2026 geprüft; Aussageumfang und Übertragungsgrenzen im Quellenmanifest und in bauwirtschaft/references/entscheidungsanker-2026.md beziehungsweise entscheidungsanker-bautraeger-2026.md dokumentiert.",
+      "checked_on": "2026-09-28"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2017/VII_ZR__16-17.pdf?__blob=publicationFile&v=1",
+      "supports": "Amtliche Entscheidung mit bezeichneten tragenden Passagen am 28.09.2026 geprüft; Aussageumfang und Übertragungsgrenzen im Quellenmanifest und in bauwirtschaft/references/entscheidungsanker-2026.md beziehungsweise entscheidungsanker-bautraeger-2026.md dokumentiert.",
+      "checked_on": "2026-09-28"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2017/VII_ZR__46-17A.pdf?__blob=publicationFile&v=1",
+      "supports": "Amtliche Entscheidung mit bezeichneten tragenden Passagen am 28.09.2026 geprüft; Aussageumfang und Übertragungsgrenzen im Quellenmanifest und in bauwirtschaft/references/entscheidungsanker-2026.md beziehungsweise entscheidungsanker-bautraeger-2026.md dokumentiert.",
+      "checked_on": "2026-09-28"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2015/VII_ZR__49-15.pdf?__blob=publicationFile&v=1",
+      "supports": "Amtliche Entscheidung mit bezeichneten tragenden Passagen am 28.09.2026 geprüft; Aussageumfang und Übertragungsgrenzen im Quellenmanifest und in bauwirtschaft/references/entscheidungsanker-2026.md beziehungsweise entscheidungsanker-bautraeger-2026.md dokumentiert.",
+      "checked_on": "2026-09-28"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/1999/VII_ZR_310-99.pdf?__blob=publicationFile&v=1",
+      "supports": "Amtliche Entscheidung mit bezeichneten tragenden Passagen am 28.09.2026 geprüft; Aussageumfang und Übertragungsgrenzen im Quellenmanifest und in bauwirtschaft/references/entscheidungsanker-2026.md beziehungsweise entscheidungsanker-bautraeger-2026.md dokumentiert.",
+      "checked_on": "2026-09-28"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/X_ZS/2017/X_ZB___3-17.pdf?__blob=publicationFile&v=1",
+      "supports": "Amtliche Entscheidung mit bezeichneten tragenden Passagen am 28.09.2026 geprüft; Aussageumfang und Übertragungsgrenzen im Quellenmanifest und in bauwirtschaft/references/entscheidungsanker-2026.md beziehungsweise entscheidungsanker-bautraeger-2026.md dokumentiert.",
+      "checked_on": "2026-09-28"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2025/VII_ZR__88-25.pdf?__blob=publicationFile&v=1",
+      "supports": "Amtliche Entscheidung mit bezeichneten tragenden Passagen am 28.09.2026 geprüft; Aussageumfang und Übertragungsgrenzen im Quellenmanifest und in bauwirtschaft/references/entscheidungsanker-2026.md beziehungsweise entscheidungsanker-bautraeger-2026.md dokumentiert.",
+      "checked_on": "2026-09-28"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2024/VII_ZR__68-24.pdf?__blob=publicationFile&v=1",
+      "supports": "Amtliche Entscheidung mit bezeichneten tragenden Passagen am 28.09.2026 geprüft; Aussageumfang und Übertragungsgrenzen im Quellenmanifest und in bauwirtschaft/references/entscheidungsanker-2026.md beziehungsweise entscheidungsanker-bautraeger-2026.md dokumentiert.",
+      "checked_on": "2026-09-28"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2024/VII_ZR_108-24.pdf?__blob=publicationFile&v=1",
+      "supports": "Amtliche Entscheidung mit bezeichneten tragenden Passagen am 28.09.2026 geprüft; Aussageumfang und Übertragungsgrenzen im Quellenmanifest und in bauwirtschaft/references/entscheidungsanker-2026.md beziehungsweise entscheidungsanker-bautraeger-2026.md dokumentiert.",
+      "checked_on": "2026-09-28"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2025/V_ZR__91-25.pdf?__blob=publicationFile&v=1",
+      "supports": "Amtliche Entscheidung mit bezeichneten tragenden Passagen am 28.09.2026 geprüft; Aussageumfang und Übertragungsgrenzen im Quellenmanifest und in bauwirtschaft/references/entscheidungsanker-2026.md beziehungsweise entscheidungsanker-bautraeger-2026.md dokumentiert.",
+      "checked_on": "2026-09-28"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2022/VII_ZR_241-22.pdf?__blob=publicationFile&v=1",
+      "supports": "Amtliche Entscheidung mit bezeichneten tragenden Passagen am 28.09.2026 geprüft; Aussageumfang und Übertragungsgrenzen im Quellenmanifest und in bauwirtschaft/references/entscheidungsanker-2026.md beziehungsweise entscheidungsanker-bautraeger-2026.md dokumentiert.",
+      "checked_on": "2026-09-28"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2015/VII_ZR_171-15.pdf?__blob=publicationFile&v=1",
+      "supports": "Amtliche Entscheidung mit bezeichneten tragenden Passagen am 28.09.2026 geprüft; Aussageumfang und Übertragungsgrenzen im Quellenmanifest und in bauwirtschaft/references/entscheidungsanker-2026.md beziehungsweise entscheidungsanker-bautraeger-2026.md dokumentiert.",
+      "checked_on": "2026-09-28"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2021/V_ZR_213-21.pdf?__blob=publicationFile&v=1",
+      "supports": "Amtliche Entscheidung mit bezeichneten tragenden Passagen am 28.09.2026 geprüft; Aussageumfang und Übertragungsgrenzen im Quellenmanifest und in bauwirtschaft/references/entscheidungsanker-2026.md beziehungsweise entscheidungsanker-bautraeger-2026.md dokumentiert.",
+      "checked_on": "2026-09-28"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2012/III_ZR_121-12.pdf?__blob=publicationFile&v=1",
+      "supports": "Amtliche Entscheidung mit bezeichneten tragenden Passagen am 28.09.2026 geprüft; Aussageumfang und Übertragungsgrenzen im Quellenmanifest und in bauwirtschaft/references/entscheidungsanker-2026.md beziehungsweise entscheidungsanker-bautraeger-2026.md dokumentiert.",
+      "checked_on": "2026-09-28"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2009/V_ZR__85-09.pdf?__blob=publicationFile&v=1",
+      "supports": "Amtliche Entscheidung mit bezeichneten tragenden Passagen am 28.09.2026 geprüft; Aussageumfang und Übertragungsgrenzen im Quellenmanifest und in bauwirtschaft/references/entscheidungsanker-2026.md beziehungsweise entscheidungsanker-bautraeger-2026.md dokumentiert.",
+      "checked_on": "2026-09-28"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2004/VII_ZR_200-04.pdf?__blob=publicationFile&v=1",
+      "supports": "Amtliche Entscheidung mit bezeichneten tragenden Passagen am 28.09.2026 geprüft; Aussageumfang und Übertragungsgrenzen im Quellenmanifest und in bauwirtschaft/references/entscheidungsanker-2026.md beziehungsweise entscheidungsanker-bautraeger-2026.md dokumentiert.",
+      "checked_on": "2026-09-28"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2012/VII_ZR_308-12.pdf?__blob=publicationFile&v=1",
+      "supports": "Amtliche Entscheidung mit bezeichneten tragenden Passagen am 28.09.2026 geprüft; Aussageumfang und Übertragungsgrenzen im Quellenmanifest und in bauwirtschaft/references/entscheidungsanker-2026.md beziehungsweise entscheidungsanker-bautraeger-2026.md dokumentiert.",
+      "checked_on": "2026-09-28"
     }
   ],
   "source_access_limits": [
-    "Quellenbezogener Redaktionsstand 25.09.2026 mit gezielter RDG-Ergänzung am 26.09.2026; Abrufdatum, Fassungsstand und zeitliche Anwendbarkeit im einzelnen Projekt sind nicht identisch.",
-    "Keine Volltextprüfung der älteren Anker VII ZR 42/22 und VII ZR 34/18: nur amtlich indexierte Leitsätze. Bei VII ZR 190/22 wurden Rubrum, Leitsatz und Randnummern 25 bis 40 im amtlichen PDF gelesen.",
+    "Quellenbezogener Redaktionsstand der Erweiterung 28.09.2026; Abrufdatum, Fassungsstand und zeitliche Anwendbarkeit im einzelnen Projekt bleiben getrennt.",
+    "Die früheren Abruflücken zu VII ZR 42/22 und VII ZR 34/18 wurden am 28.09.2026 durch amtliche PDFs einschließlich der Berichtigung zu VII ZR 34/18 geschlossen. Aussageumfang und Übertragungsgrenzen stehen im erweiterten Quellenmanifest.",
     "EUR-Lex-Verordnung 2025/2152 nicht im Volltext lesbar; Schwellenwertabgleich anhand datierten Bundeserlasses.",
     "VOB/A-Änderungstext 2026, gesamtes Landesbau- und Landesvergaberecht, kommunale Satzungen, Förderbedingungen und technische DIN-/ATV-Volltexte nicht vollständig geprüft.",
     "Keine vollständige Prüfung historischer Honorarregime, steuerlicher Übergangsregeln oder sämtlicher Rechtsprechung bis zum Stichtag.",
-    "Keine Ausführung der Ergebnisfälle, keine Live-Modelltests, keine beobachtete Skill-Auswahl und keine bestandene Bearbeitung der dreizehn Testakten behauptet."
+    "Keine beobachtete automatische Skill-Auswahl und keine vollständige fachliche Modellbewertung aller 29 Skills oder zugeordneten Testakten. Zwei separat dokumentierte manuelle Verhaltenstests mit je einer Erst- und Folgeantwort sind hiervon getrennt (quality/hildesheim-lebensakte/verhaltenstest.md)."
   ],
   "mini_review": {
-    "reviewed_on": "2026-09-26",
+    "reviewed_on": "2026-09-28",
     "method": "desk_review",
     "verdict": "revised",
-    "reason": "Eigenständigen Bauplan mit drei Einstiegen, zwanzig konkreten Arbeitsstationen, Fortsetzung und Arbeitsprodukt erneut redaktionell gelesen. Die HOAI-Kurzabgrenzung präzisiert; die vorhandenen übrigen Quellenlimits erhalten. UTF-8-Byte- und Zeichenobergrenze lokal geprüft; kein Live-Modelltest. Die ergänzte Rollenprüfung nach Paragrafen 3 und 5 RDG und der gezielt geprüfte Skontoklausel-Anker wurden am 26.09.2026 redaktionell abgeglichen; keine Modellausführung.",
+    "reason": "Kompakten Prompt erneut vollständig gelesen: unmittelbares Arbeitsprodukt, belegte Fortsetzung und gezielte Rückfragen bleiben erhalten. Den zuvor begrenzten Vertragsstrafenanker nach Prüfung des amtlichen Volltexts aktualisiert; Zeichen- und Bytebudget eingehalten. Kein vollständiger Lauf aller enthaltenen Arbeitsstationen.",
     "changes": [
       "Paragrafen 650b, 650c und 650g BGB mit konkreten Anwendungsgrenzen ergänzt.",
       "BGH VII ZR 42/22 nur als amtlich indexierten Leitsatz ohne Volltextprüfung aufgenommen.",
       "Kosten, Liquidität, Rechnungsprüfung und Buchung als unterschiedliche Ergebnisse erhalten.",
       "Übergabe, Fristenliste und Abnahmemängel der Phase 8 zugeordnet; Phase 9 und eigener Buchhaltungsauftrag in der Kurzfassung abgegrenzt.",
-      "Vertragsstation um die eigenständige RDG-Befugnisprüfung bei Individualklauseln für fremde Bauherren ergänzt; 7500-Byte-Grenze weiterhin eingehalten."
+      "Vertragsstation um die eigenständige RDG-Befugnisprüfung bei Individualklauseln für fremde Bauherren ergänzt; 7500-Byte-Grenze weiterhin eingehalten.",
+      "Am 28.09.2026 VII ZR 42/22 anhand der amtlichen PDF und Randnummern 30 bis 41 präzisiert; frühere Leitsatzgrenze überholt."
     ],
-    "sha256": "47bd6e9a4e0f209dbad65dba371e23dbc7cf3179206f3bf632a7da2374622bc1"
+    "sha256": "f74922891a21daae2e5c6dea681700586bf023510d2558a256e78483f75303d3"
   },
   "workshop_review": {
-    "reviewed_on": "2026-09-26",
+    "reviewed_on": "2026-09-28",
     "method": "desk_review",
     "verdict": "revised",
-    "reason": "Zwanzig eigenständige Praxisrouten auf konkrete Rechnungen, Dokumente, Entscheidungsschritte und Fortschreibung erneut redaktionell gelesen. Gezielte Nachbesserung bei LPH 8/9 und betrieblichen offenen Posten; keine Ausführung der Arbeitsabläufe durch ein Modell. Die ergänzte Rollenprüfung nach Paragrafen 3 und 5 RDG und der gezielt geprüfte Skontoklausel-Anker wurden am 26.09.2026 redaktionell abgeglichen; keine Modellausführung.",
+    "reason": "100 zusammenhängende Arbeitsstationen in 15 gezielt ladbaren Modulen redaktionell geprüft. Die 100-seitige Word-/PDF-Fassung wurde vollständig visuell geprüft; 1192 Textblöcke zwischen Quelle, Word und jeweiliger PDF-Seite abgeglichen. Zustände, fallabhängige Rückfragen und Rückkehrwege sind explizit. Detailnachweise einschließlich Quellenmanifest unter quality/hildesheim-lebensakte/werkstatt-pruefung.json. Keine pauschale Modellbewertung aller Arbeitsstationen.",
     "changes": [
-      "Hierarchie auf einen H1, dezimale Hauptabschnitte und explizite zwanzig Praxisrouten vereinheitlicht.",
-      "HOAI-Phasen 8 und 9, zeitbezogene Vergabe und bedingte technische Entscheidungen konkret abgegrenzt.",
-      "Beide BGH-Anker auf tatsächlich verifizierte Leitsatzreichweite begrenzt; keine Pflichtzitate in jedem Arbeitsprodukt.",
-      "Übergabe und Fristenliste der Phase 8 zugeordnet; Abnahmemängel und später festgestellte Mängel nach Aufgabe und Vertrag getrennt. Die Fünfjahresgrenze aus Phase 9 Buchstabe a von der Anspruchsverjährung unterschieden.",
-      "Buchhaltung um eine OP-Summenbrücke und Rückführung jeder Zahlungsaufteilung auf die Bankbewegung ergänzt; bloßer Einbehalt wird nicht zur Ausbuchung.",
-      "Rollenprüfung und begrenzten Skontoklausel-Anker VII ZR 190/22 ergänzt. Fehlende Befugnis führt zur konkreten Anfrage an die unmittelbare Rechtsberatung des Bauherrn; unabhängige technische Bearbeitung läuft weiter."
+      "100 auftragsabhängige Stationen statt linearer Pflichtbefragung; vorhandenen Projektstand und Antworten fortführen.",
+      "Alle neun HOAI-Phasen mit klaren Eingängen, Arbeitsprodukten, Folgefragen und Übergängen.",
+      "Vertiefungen für LV, Verträge, Belege, Steuern, Mängel und Quellen mit Rückkehr zur konkreten Ausgangsfrage.",
+      "20 amtlich geprüfte Entscheidungsanker mit gelesener Passage und Übertragungsgrenze.",
+      "Unbeschlossene Verkaufsoption bleibt vom Vermietungsprojekt, Rechnungseingang und Zahlungsjournal getrennt.",
+      "Vollständige 100-seitige Word-/PDF-Fassung; 29 vorhandene Skills erhalten aufgabengerechte Referenzpfade.",
+      "Eigenständige Werkstatt nennt ausdrücklich Erfüllungsgehilfenfall und unmittelbares Bauherrnmandat; bestehende RDG-Regression nach Korrektur bestanden."
     ],
-    "sha256": "fbe1b213f54554990b0d78ebdc041790bef881bb6b46c17f08fc41d709bb1569"
+    "sha256": "404744e75bd9bc0884ec6070b9fd482983dfaaf0be0b7cdae5d6c5b8a49ef253"
   },
   "focus_review": {
-    "reviewed_on": "2026-09-26",
+    "reviewed_on": "2026-09-28",
     "method": "desk_review",
     "verdict": "revised",
-    "reason": "Projektstartprompt am Hauptskill redaktionell gespiegelt: konkretes Produkt, drei Einstiege, belegte Fortschreibung und Entscheidung bleiben erhalten. Der Hauptskill übergibt vollständige Phasenaufträge gezielt an einen der neun neuen Phasenskills, ohne dessen große Werkstatt vorauszusetzen. Der eigenständige Schwerpunkt-Prompt bleibt unabhängig nutzbar; keine Modellausführung. Die ergänzte Rollenprüfung nach Paragrafen 3 und 5 RDG und der gezielt geprüfte Skontoklausel-Anker wurden am 26.09.2026 redaktionell abgeglichen; keine Modellausführung.",
+    "reason": "Projektstartprompt am Hauptskill redaktionell gespiegelt: konkretes Produkt, drei Einstiege, belegte Fortschreibung und Entscheidung bleiben erhalten. Der Hauptskill übergibt vollständige Phasenaufträge gezielt an einen der neun neuen Phasenskills, ohne dessen große Werkstatt vorauszusetzen. Der eigenständige Schwerpunkt-Prompt bleibt unabhängig nutzbar; keine Modellausführung. Die ergänzte Rollenprüfung nach Paragrafen 3 und 5 RDG und der gezielt geprüfte Skontoklausel-Anker wurden am 26.09.2026 redaktionell abgeglichen; keine Modellausführung. Am 28.09.2026 den Vertragsstrafenanker anhand des amtlichen Volltexts präzisiert; den Verweis des Hauptskills auf die modularen Arbeitswege redaktionell geprüft.",
     "changes": [
       "Drei Startlagen ohne vorgeschaltete Komplettinventur.",
       "920000 EUR plus bestätigte 18000 EUR Änderung als 938000 EUR Variante, ohne Beauftragung zu erfinden.",
@@ -201,12 +303,12 @@
       "Hauptprompt und Hauptskill prüfen bei fremden Rechtsangelegenheiten die Beratungsbefugnis, getrennt von Planervertrag und Vollmacht."
     ],
     "prompt_path": "bauwirtschaft/bauwirtschaft-hauptproblem.md",
-    "prompt_sha256": "acb0c01e883219e3a0a228bae0a0b6b37d6f804a6b2b761142cb9396d703be1c",
+    "prompt_sha256": "5ae291ea025b1c6f5bfcbedc999c5d832771d51b9a8767b5d4751e550872f0e2",
     "skill_path": "bauwirtschaft/skills/bauprojekt-starten-und-arbeitsstand-fortfuehren/SKILL.md",
-    "skill_sha256": "efb053c79ae4b955450d2c9234cd7b22a9e5af0fb93d14a20604133ae551e09b"
+    "skill_sha256": "6715d35f88a9798d09fed3fab8deac274858fd3b69419e9bf5ae7e15c3cc9d7f"
   },
   "prompt_editorial_review": {
-    "date": "2026-09-26",
+    "date": "2026-09-28",
     "files": [
       "bauwirtschaft/bauwirtschaft-schnellstart.md",
       "bauwirtschaft/bauwirtschaft-werkstatt.md",
@@ -230,24 +332,24 @@
       },
       {
         "citation": "BGH, Urteil vom 15.02.2024, Az. VII ZR 42/22",
-        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2024&Gericht=bgh&Seite=17&Sort=1&anz=3393&nr=136872&pos=520",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2022/VII_ZR__42-22.pdf?__blob=publicationFile&v=1",
         "application": "Enger Leitsatzanker: Unwirksamkeit der konkret verwendeten Vertragsstrafenklausel im Einheitspreisvertrag nach Paragraf 307 BGB; Klauselwortlaut und Bezugsgröße prüfen.",
-        "limit": "Nur amtlich indexierter Leitsatz verifiziert. Direktabruf HTTP 403, kein geprüfter Volltext und keine Randnummern. Kein allgemeines Verbot jeder Vertragsstrafe."
+        "limit": "Amtliche PDF am 28.09.2026: Randnummern 30 bis 41 gelesen. Konkreter Einheitspreisvertrag und konkrete AGB; keine Freigabe jeder Fünfprozentklausel."
       },
       {
         "citation": "BGH, Urteil vom 08.08.2019, Az. VII ZR 34/18",
-        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2019-8-8&Gericht=bgh&anz=10&nr=101195&pos=9",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2018/VII_ZR__34-18.pdf?__blob=publicationFile&v=1",
         "application": "Begrenzter Mehrmengenanker zur Preisbildung nach Paragraf 2 Absatz 3 Nummer 2 VOB/B bei fehlender abweichender Vereinbarung.",
-        "limit": "Nur amtlich indexierte Leitsätze, Direktabruf HTTP 403. Keine Übertragung auf sämtliche Nachträge, keine unüberprüften Randnummern; vor streitentscheidender Nutzung Volltext und Berichtigungen prüfen."
+        "limit": "Amtliche PDF einschließlich Berichtigung vom 18.09.2019 am 28.09.2026: Randnummern 13 bis 26 gelesen. Keine generelle Formel für Pauschalverträge, Änderungen nach BGB oder sämtliche Nachträge."
       }
     ],
     "remaining_limits": [
       "Quellenbezogener Redaktionsstand 25.09.2026 mit gezielter RDG-Ergänzung am 26.09.2026; Abrufdatum, Fassungsstand und zeitliche Anwendbarkeit im einzelnen Projekt sind nicht identisch.",
-      "Keine Volltextprüfung der älteren Anker VII ZR 42/22 und VII ZR 34/18: nur amtlich indexierte Leitsätze. Bei VII ZR 190/22 wurden Rubrum, Leitsatz und Randnummern 25 bis 40 im amtlichen PDF gelesen.",
+      "Ergänzung am 28.09.2026: Die amtlichen PDFs von VII ZR 42/22 und VII ZR 34/18 einschließlich Berichtigung sind jetzt im bezeichneten Aussageumfang geprüft; die früheren Abruflücken sind insoweit geschlossen.",
       "EUR-Lex-Verordnung 2025/2152 nicht im Volltext lesbar; Schwellenwertabgleich anhand datierten Bundeserlasses.",
       "VOB/A-Änderungstext 2026, gesamtes Landesbau- und Landesvergaberecht, kommunale Satzungen, Förderbedingungen und technische DIN-/ATV-Volltexte nicht vollständig geprüft.",
       "Keine vollständige Prüfung historischer Honorarregime, steuerlicher Übergangsregeln oder sämtlicher Rechtsprechung bis zum Stichtag.",
-      "Keine Ausführung der Ergebnisfälle, keine Live-Modelltests, keine beobachtete Skill-Auswahl und keine bestandene Bearbeitung der dreizehn Testakten behauptet."
+      "Keine Ausführung der Ergebnisfälle, keine Live-Modelltests, keine beobachtete Skill-Auswahl und keine bestandene Bearbeitung der zugeordneten Testakten behauptet."
     ]
   },
   "prompt_workflow_review": {
@@ -343,6 +445,11 @@
       "path": "testakten/bauwirtschaft-neubau-achtfamilienhaus-hildesheim",
       "status": "Redaktionell und technisch geprüfte Originalakte; keine ausgeführte fachliche Modellbewertung.",
       "scope": "Durchgehender Achtfamilienhaus-Neubau in Hildesheim, HOAI 1 bis 9, NBauO, Erwerb, sieben Bauverträge, E-Rechnungen, Zahlungen und acht Mietverhältnisse."
+    },
+    {
+      "path": "testakten/bauwirtschaft-hildesheim-lebensakte",
+      "status": "Erweiterte Originalakte; technische und redaktionelle Prüfungen getrennt von einer fachlichen Modellbewertung.",
+      "scope": "Alle neun HOAI-Phasen, erhaltene Projektordner, tägliches Bautagebuch, detaillierte LVs, Belegzugänge, Wordvorlagen und unbeschlossene Bauträgerverkaufsoption."
     }
   ],
   "cases": [
@@ -749,7 +856,7 @@
         },
         {
           "id": "C04",
-          "text": "BGH vom 15.02.2024, VII ZR 42/22 wird nur mit enger Leitsatzreichweite und offenem Volltextstatus verwendet; kein generelles Verbot aller Vertragsstrafen.",
+          "text": "BGH vom 15.02.2024, VII ZR 42/22 wird anhand des konkret einschlägigen Klauselwortlauts und der Bezugsgröße eingeordnet. Geprüfte Passage Randnummern30bis41, kein generelles Verbot allerVertragsstrafen.",
           "deliverables": [
             "klauselvermerk.md"
           ]
@@ -1511,12 +1618,12 @@
   "skill_reviews": [
     {
       "skill_path": "bauwirtschaft/skills/bauprojekt-starten-und-arbeitsstand-fortfuehren/SKILL.md",
-      "sha256": "efb053c79ae4b955450d2c9234cd7b22a9e5af0fb93d14a20604133ae551e09b",
+      "sha256": "6715d35f88a9798d09fed3fab8deac274858fd3b69419e9bf5ae7e15c3cc9d7f",
       "case_id": "projektstart-planrevision-fortsetzen",
-      "reviewed_on": "2026-09-26",
+      "reviewed_on": "2026-09-28",
       "method": "desk_review",
       "verdict": "revised",
-      "reason": "Am Hauptskill geprüft: Starttabelle, Engpassbearbeitung und verlangtes Dokument werden selbst erstellt. Bei vollständigem Phasenauftrag wird gezielt ein Phasenskill gewählt; Einzelaufträge bleiben kurz. Nur relevante Unterlagen werden übernommen, nicht alle neun großen Werkstätten geladen. Die ergänzte Rollenprüfung nach Paragrafen 3 und 5 RDG und der gezielt geprüfte Skontoklausel-Anker wurden am 26.09.2026 redaktionell abgeglichen; keine Modellausführung.",
+      "reason": "Am Hauptskill geprüft: Starttabelle, Engpassbearbeitung und verlangtes Dokument werden selbst erstellt. Bei vollständigem Phasenauftrag wird gezielt ein Phasenskill gewählt; Einzelaufträge bleiben kurz. Nur relevante Unterlagen werden übernommen, nicht alle neun großen Werkstätten geladen. Die ergänzte Rollenprüfung nach Paragrafen 3 und 5 RDG und der gezielt geprüfte Skontoklausel-Anker wurden am 26.09.2026 redaktionell abgeglichen; keine Modellausführung. Ergänzung am 28.09.2026: aufgabengerechten lokalen Modulverweis, belegte Fortsetzung, gezielte Rückfragen und Quellenabgrenzung redaktionell geprüft; kein vollständiger Modelllauf dieses Prüffalls.",
       "checked_points": [
         "Eigenständiges Arbeitsprodukt: Liefere einen nutzbaren Projektarbeitsstand mit den bereits ausgeführten Berechnungen und dem konkret bestellten Dokument. Kein verpflichtendes Gesamtpaket bei einem engen Auftrag. Projektberichte dürfen den angeforderten Vertrags- oder Tabellentext nicht ersetzen.",
         "Individueller Sachverhalt und beobachtbare Sollkriterien für projektstart-planrevision-fortsetzen angelegt; nicht ausgeführt.",
@@ -1526,12 +1633,12 @@
     },
     {
       "skill_path": "bauwirtschaft/skills/projektziele-und-entscheidungsrahmen-festlegen/SKILL.md",
-      "sha256": "0eb3ae59ba79c25610dd00ea8b4c227adba1c6d0bbe6d4b126c993a0cb801179",
+      "sha256": "634720b4df66512de064394df52766076176d4a540bf002b3e93849efcc4c497",
       "case_id": "projektziele-option-flachenerweiterung",
-      "reviewed_on": "2026-09-25",
+      "reviewed_on": "2026-09-28",
       "method": "desk_review",
       "verdict": "retained",
-      "reason": "Bedarfsziel, Option und beauftragter Erfolg sind getrennt. Der Ablauf verlangt den ausgefüllten Projektauftrag und hält Kostenbasis sowie Rangfolge im Zielkonflikt fest.",
+      "reason": "Bedarfsziel, Option und beauftragter Erfolg sind getrennt. Der Ablauf verlangt den ausgefüllten Projektauftrag und hält Kostenbasis sowie Rangfolge im Zielkonflikt fest. Ergänzung am 28.09.2026: aufgabengerechten lokalen Modulverweis, belegte Fortsetzung, gezielte Rückfragen und Quellenabgrenzung redaktionell geprüft; kein vollständiger Modelllauf dieses Prüffalls.",
       "checked_points": [
         "Eigenständiges Arbeitsprodukt: Erstelle den ausformulierten Projektauftrag einschließlich ausgefüllter Zieltabelle und einer konkreten Entscheidungsvorlage für den offenen Zielkonflikt. Eine Zielzeile benennt messbare Anforderung und zuständige Entscheidung, kein Schlagwort.",
         "Individueller Sachverhalt und beobachtbare Sollkriterien für projektziele-option-flachenerweiterung angelegt; nicht ausgeführt.",
@@ -1541,12 +1648,12 @@
     },
     {
       "skill_path": "bauwirtschaft/skills/hoai-phasen-und-planstaende-abgleichen/SKILL.md",
-      "sha256": "372d1178d9dfdfe74322a319c3bb54f70f5cf916bea3ab36e41ecf35f2d1e751",
+      "sha256": "df65c12346ba22a045e655e25ab180c344f2077b90e6de606fb24302cbb73e21",
       "case_id": "hoai-phase-acht-neun-planreife",
-      "reviewed_on": "2026-09-25",
+      "reviewed_on": "2026-09-28",
       "method": "desk_review",
       "verdict": "revised",
-      "reason": "Planstand, Vertrag und neun Phasen bleiben als eigenständiger Soll-Ist-Abgleich erhalten. Ein ausdrücklich vollständiger Phasenauftrag wird vom reinen Planstandsvergleich unterschieden und an genau den sachnächsten Phasenskill übergeben. LPH-8/9-Abgrenzung unverändert erhalten.",
+      "reason": "Planstand, Vertrag und neun Phasen bleiben als eigenständiger Soll-Ist-Abgleich erhalten. Ein ausdrücklich vollständiger Phasenauftrag wird vom reinen Planstandsvergleich unterschieden und an genau den sachnächsten Phasenskill übergeben. LPH-8/9-Abgrenzung unverändert erhalten. Ergänzung am 28.09.2026: aufgabengerechten lokalen Modulverweis, belegte Fortsetzung, gezielte Rückfragen und Quellenabgrenzung redaktionell geprüft; kein vollständiger Modelllauf dieses Prüffalls.",
       "checked_points": [
         "Eigenständiges Arbeitsprodukt: Liefere die ausgefüllte Leistungs- und Planstandsliste sowie bei Bedarf ein vollständiges Anforderungsschreiben. Kennzeichne die Reichweite einer reinen Dokumentenkontrolle. Keine Phasenbescheinigung, technische Freigabe oder Honorarfälligkeit aus bloßer Dateiexistenz.",
         "Individueller Sachverhalt und beobachtbare Sollkriterien für hoai-phase-acht-neun-planreife angelegt; nicht ausgeführt.",
@@ -1559,12 +1666,12 @@
     },
     {
       "skill_path": "bauwirtschaft/skills/baubudget-und-kostenprognose-fortschreiben/SKILL.md",
-      "sha256": "081d4d5169f07ea7eea9859ebac4a3af8c354627a314b50dd6a869a34f792d2f",
+      "sha256": "524d79f0537b820db2485dced84d41ecae5bb60eca85ac6b04c4f2e92046a909",
       "case_id": "kostenprognose-ohne-doppelzahlungen",
-      "reviewed_on": "2026-09-25",
+      "reviewed_on": "2026-09-28",
       "method": "desk_review",
       "verdict": "retained",
-      "reason": "Die geprüften Schritte unterscheiden Grundauftrag, bestätigte Änderung, Restvergabe, Risiko und Zahlungen. Doppelzählung und Verwechslung von Budgetspielraum mit Liquidität werden ausdrücklich verhindert.",
+      "reason": "Die geprüften Schritte unterscheiden Grundauftrag, bestätigte Änderung, Restvergabe, Risiko und Zahlungen. Doppelzählung und Verwechslung von Budgetspielraum mit Liquidität werden ausdrücklich verhindert. Ergänzung am 28.09.2026: aufgabengerechten lokalen Modulverweis, belegte Fortsetzung, gezielte Rückfragen und Quellenabgrenzung redaktionell geprüft; kein vollständiger Modelllauf dieses Prüffalls.",
       "checked_points": [
         "Eigenständiges Arbeitsprodukt: Liefere die durchgerechnete Kostentabelle mit Budgetvergleich und ausformulierter Entscheidungsempfehlung. Rechenannahmen und offene Werte sind getrennt von bestätigten Vertragsbeträgen auszuweisen.",
         "Individueller Sachverhalt und beobachtbare Sollkriterien für kostenprognose-ohne-doppelzahlungen angelegt; nicht ausgeführt.",
@@ -1574,12 +1681,12 @@
     },
     {
       "skill_path": "bauwirtschaft/skills/bauablauf-und-terminplan-fortschreiben/SKILL.md",
-      "sha256": "38d445dd4bbc86347cedc165e71c49be055971d9a01d1ee07ef37303032bce82",
+      "sha256": "3913eac4b82782e40768b28357f0befced8d2b0668f8854a35bc630aed21aa5d",
       "case_id": "terminplan-fuenf-tage-zwei-puffer",
-      "reviewed_on": "2026-09-25",
+      "reviewed_on": "2026-09-28",
       "method": "desk_review",
       "verdict": "retained",
-      "reason": "Terminfortschreibung arbeitet mit Kalender, Vorgängern, Ressourcen und Puffer. Der Skill trennt berechnete Ablaufwirkung von rechtlicher Fristverlängerung und eigenmächtiger Beschleunigung.",
+      "reason": "Terminfortschreibung arbeitet mit Kalender, Vorgängern, Ressourcen und Puffer. Der Skill trennt berechnete Ablaufwirkung von rechtlicher Fristverlängerung und eigenmächtiger Beschleunigung. Ergänzung am 28.09.2026: aufgabengerechten lokalen Modulverweis, belegte Fortsetzung, gezielte Rückfragen und Quellenabgrenzung redaktionell geprüft; kein vollständiger Modelllauf dieses Prüffalls.",
       "checked_points": [
         "Eigenständiges Arbeitsprodukt: Liefere den tatsächlich aktualisierten Vorgangsplan mit Kalender und Abhängigkeiten sowie eine ausformulierte Terminentscheidung, soweit bestellt. Nicht beim beschreibenden Verzögerungsbericht stehenbleiben.",
         "Individueller Sachverhalt und beobachtbare Sollkriterien für terminplan-fuenf-tage-zwei-puffer angelegt; nicht ausgeführt.",
@@ -1589,12 +1696,12 @@
     },
     {
       "skill_path": "bauwirtschaft/skills/projektliquiditaet-und-zahlungsplan-erstellen/SKILL.md",
-      "sha256": "f8db3376cdfbb7bb0fa10974fb517cc8d23c636ae81a1e39f12e7723414dfc2c",
+      "sha256": "e9ad6507e9dbb5c19123b2784b69f3becc55b5ccb447bfdaf2257cb9370d69fb",
       "case_id": "liquiditaet-foerderung-nicht-zugesagt",
-      "reviewed_on": "2026-09-25",
+      "reviewed_on": "2026-09-28",
       "method": "desk_review",
       "verdict": "retained",
-      "reason": "Zahlungsplan und Kostenprognose sind getrennte Produkte. Unsichere Finanzierung bleibt Szenario; bei Lücke verlangt der Skill konkrete Leitungsklärung ohne vollständigen Insolvenzstatus aus Teilinformationen.",
+      "reason": "Zahlungsplan und Kostenprognose sind getrennte Produkte. Unsichere Finanzierung bleibt Szenario; bei Lücke verlangt der Skill konkrete Leitungsklärung ohne vollständigen Insolvenzstatus aus Teilinformationen. Ergänzung am 28.09.2026: aufgabengerechten lokalen Modulverweis, belegte Fortsetzung, gezielte Rückfragen und Quellenabgrenzung redaktionell geprüft; kein vollständiger Modelllauf dieses Prüffalls.",
       "checked_points": [
         "Eigenständiges Arbeitsprodukt: Erstelle die ausgefüllte Zahlungsplanung mit Anfangs- und Endbeständen, belegter Basis und getrenntem Unsicherheitsszenario. Liefere eine vollständige Finanzierungsanfrage oder Entscheidungsnotiz, wenn dies der Auftrag ist.",
         "Individueller Sachverhalt und beobachtbare Sollkriterien für liquiditaet-foerderung-nicht-zugesagt angelegt; nicht ausgeführt.",
@@ -1604,12 +1711,12 @@
     },
     {
       "skill_path": "bauwirtschaft/skills/vergabe-und-losbildung-vorbereiten/SKILL.md",
-      "sha256": "d2180b585feee70904007d5bc85c58d58917ed496784f7b06ac3342fba5cfa1c",
+      "sha256": "cff3987918f60c8b767d7988dd4210534b5f55638511d0b70accfc38ee2ad435",
       "case_id": "vergabe-gesamtwert-losbildung",
-      "reviewed_on": "2026-09-25",
+      "reviewed_on": "2026-09-28",
       "method": "desk_review",
       "verdict": "retained",
-      "reason": "Gesamtwert, Optionen, Leistungsart, Landesbezug und Zeitpunkt sind eigene Prüfschritte. Quellenkarte warnt vor historischen Absatztexten und nicht vollständig geprüften VOB/A-Änderungen.",
+      "reason": "Gesamtwert, Optionen, Leistungsart, Landesbezug und Zeitpunkt sind eigene Prüfschritte. Quellenkarte warnt vor historischen Absatztexten und nicht vollständig geprüften VOB/A-Änderungen. Ergänzung am 28.09.2026: aufgabengerechten lokalen Modulverweis, belegte Fortsetzung, gezielte Rückfragen und Quellenabgrenzung redaktionell geprüft; kein vollständiger Modelllauf dieses Prüffalls.",
       "checked_points": [
         "Eigenständiges Arbeitsprodukt: Liefere ausgefüllten Vergabefahrplan, nachvollziehbare Wertschätzung und ausformulierte Losentscheidung. Ungeklärtes Regime wird als konkrete Freigabevoraussetzung kenntlich, nicht als angeblich bereits rechtssicheres Verfahren.",
         "Individueller Sachverhalt und beobachtbare Sollkriterien für vergabe-gesamtwert-losbildung angelegt; nicht ausgeführt.",
@@ -1619,12 +1726,12 @@
     },
     {
       "skill_path": "bauwirtschaft/skills/leistungsverzeichnis-erstellen-und-pruefen/SKILL.md",
-      "sha256": "f407f14bc1d008727fa7ca74c32bb4f798348c24a75135b906e0ecabd4801a87",
+      "sha256": "8a89fd4cb0c13029718db70ef9fd1cf01ebeaea9cf885aaa3340af6d2be659de",
       "case_id": "lv-wandflaeche-vertragsregel",
-      "reviewed_on": "2026-09-25",
+      "reviewed_on": "2026-09-28",
       "method": "desk_review",
       "verdict": "retained",
-      "reason": "Der LV-Ablauf prüft Beschreibung, Einheit, Maßgrundlage und Schnittstellen. Geometrie wird von vertraglicher Abrechnung getrennt; technische Regeltexte werden nicht aus Modellwissen ergänzt.",
+      "reason": "Der LV-Ablauf prüft Beschreibung, Einheit, Maßgrundlage und Schnittstellen. Geometrie wird von vertraglicher Abrechnung getrennt; technische Regeltexte werden nicht aus Modellwissen ergänzt. Ergänzung am 28.09.2026: aufgabengerechten lokalen Modulverweis, belegte Fortsetzung, gezielte Rückfragen und Quellenabgrenzung redaktionell geprüft; kein vollständiger Modelllauf dieses Prüffalls.",
       "checked_points": [
         "Eigenständiges Arbeitsprodukt: Liefere das vollständige LV oder die vollständig neu gefassten beauftragten Positionen mit ausgefüllten Mengenansätzen. Ein reiner Prüfbericht ist kein Ersatz. Technische Klärpunkte und Exporthinweise stehen außerhalb der ausschreibungsfähigen Positionstexte.",
         "Individueller Sachverhalt und beobachtbare Sollkriterien für lv-wandflaeche-vertragsregel angelegt; nicht ausgeführt.",
@@ -1634,12 +1741,12 @@
     },
     {
       "skill_path": "bauwirtschaft/skills/bauangebote-werten-und-vergabevorschlag-erstellen/SKILL.md",
-      "sha256": "fcd99044e41d3730ee151fcbeed43f570631ea9a3e780e2c3e3f6ed90f498161",
+      "sha256": "610223bc47d7c58e102fad2a1fd3b7f938f1af910309f6b129666617dbad8767",
       "case_id": "angebotswertung-fehlende-pflichtleistung",
-      "reviewed_on": "2026-09-25",
+      "reviewed_on": "2026-09-28",
       "method": "desk_review",
       "verdict": "retained",
-      "reason": "Wertungsmaßstab, Vollständigkeit und Preisvergleich stehen getrennt. Der Skill lässt keine eigenmächtige Angebotsreparatur oder nachträgliche Gewichtung zu und liefert den Vergabevorschlag ausformuliert.",
+      "reason": "Wertungsmaßstab, Vollständigkeit und Preisvergleich stehen getrennt. Der Skill lässt keine eigenmächtige Angebotsreparatur oder nachträgliche Gewichtung zu und liefert den Vergabevorschlag ausformuliert. Ergänzung am 28.09.2026: aufgabengerechten lokalen Modulverweis, belegte Fortsetzung, gezielte Rückfragen und Quellenabgrenzung redaktionell geprüft; kein vollständiger Modelllauf dieses Prüffalls.",
       "checked_points": [
         "Eigenständiges Arbeitsprodukt: Liefere den vollständig gerechneten Preisspiegel und einen ausformulierten Vergabevorschlag mit begründeter Rangfolge oder konkret offener Wertungsentscheidung. Keine bloße Ampeltabelle ohne Entscheidungsgrund.",
         "Individueller Sachverhalt und beobachtbare Sollkriterien für angebotswertung-fehlende-pflichtleistung angelegt; nicht ausgeführt.",
@@ -1649,12 +1756,12 @@
     },
     {
       "skill_path": "bauwirtschaft/skills/bieterfragen-und-ruegen-bearbeiten/SKILL.md",
-      "sha256": "d36cb537dec0d4d058e956a513aef5c103fd601eeb5f040418a6694f528a8455",
+      "sha256": "761c5cc9f87a5242bf9452382e6305800cf8460026b7092b4839b3a5b028b2f0",
       "case_id": "bieterfrage-erkennbare-vorgabe-frist",
-      "reviewed_on": "2026-09-25",
+      "reviewed_on": "2026-09-28",
       "method": "desk_review",
       "verdict": "retained",
-      "reason": "Bieterfrage, Rüge, Antwort und Nachprüfung werden rollenbezogen abgegrenzt. Der Ablauf prüft Auslöser statt Universalfrist und verlangt Abhilfe sowie vollständigen Entwurf ohne ungefragten Versand.",
+      "reason": "Bieterfrage, Rüge, Antwort und Nachprüfung werden rollenbezogen abgegrenzt. Der Ablauf prüft Auslöser statt Universalfrist und verlangt Abhilfe sowie vollständigen Entwurf ohne ungefragten Versand. Ergänzung am 28.09.2026: aufgabengerechten lokalen Modulverweis, belegte Fortsetzung, gezielte Rückfragen und Quellenabgrenzung redaktionell geprüft; kein vollständiger Modelllauf dieses Prüffalls.",
       "checked_points": [
         "Eigenständiges Arbeitsprodukt: Liefere ein vollständiges Schreiben oder eine veröffentlichungsfähige Antwort. Interner Fristenvermerk, Zugangsunsicherheit und Rechtsquellenprüfung stehen getrennt vom Empfängertext.",
         "Individueller Sachverhalt und beobachtbare Sollkriterien für bieterfrage-erkennbare-vorgabe-frist angelegt; nicht ausgeführt.",
@@ -1664,12 +1771,12 @@
     },
     {
       "skill_path": "bauwirtschaft/skills/bauvertrag-und-schnittstellen-ausformulieren/SKILL.md",
-      "sha256": "ac3552543a0807beda2fda91705340f2d9a6e456d4308176e3a74273c99313cd",
+      "sha256": "4cb4ca4e9cb031af87f87a3ca24100ea2329790630d4fc7f9e460208988c7461",
       "case_id": "vertrag-schnittstelle-vertragsstrafenklausel",
-      "reviewed_on": "2026-09-26",
+      "reviewed_on": "2026-09-28",
       "method": "desk_review",
       "verdict": "revised",
-      "reason": "Schnittstellen werden als vollständige Regelung geschrieben. Technische Koordination, Preisvollmacht, VOB/B-Einbeziehung und AGB-Kontrolle bleiben getrennt; ein Vertragsstrafenprozentsatz ist kein Freigabekriterium. Die ergänzte Rollenprüfung nach Paragrafen 3 und 5 RDG und der gezielt geprüfte Skontoklausel-Anker wurden am 26.09.2026 redaktionell abgeglichen; keine Modellausführung.",
+      "reason": "Schnittstellen werden als vollständige Regelung geschrieben. Technische Koordination, Preisvollmacht, VOB/B-Einbeziehung und AGB-Kontrolle bleiben getrennt; ein Vertragsstrafenprozentsatz ist kein Freigabekriterium. Die ergänzte Rollenprüfung nach Paragrafen 3 und 5 RDG und der gezielt geprüfte Skontoklausel-Anker wurden am 26.09.2026 redaktionell abgeglichen; keine Modellausführung. Ergänzung am 28.09.2026: aufgabengerechten lokalen Modulverweis, belegte Fortsetzung, gezielte Rückfragen und Quellenabgrenzung redaktionell geprüft; kein vollständiger Modelllauf dieses Prüffalls.",
       "checked_points": [
         "Eigenständiges Arbeitsprodukt: Liefere den vollständigen beauftragten Vertrag oder die vollständig formulierte Schnittstellenvereinbarung. Anlagen eindeutig mit Stand bezeichnen. Interne offene Punkte und Quellenprotokoll getrennt halten.",
         "Individueller Sachverhalt und beobachtbare Sollkriterien für vertrag-schnittstelle-vertragsstrafenklausel angelegt; nicht ausgeführt.",
@@ -1679,12 +1786,12 @@
     },
     {
       "skill_path": "bauwirtschaft/skills/bautagebuch-und-aufmass-fuehren/SKILL.md",
-      "sha256": "b86deb09c8b10e71c5e42424a78f9e543a6623970189f19baf8a60d210309cb7",
+      "sha256": "24bd62637494fb6de0c4e9a2c1b14b0665e53d99124f7322b4cad4ea778ed6cb",
       "case_id": "bautagebuch-kumuliertes-aufmass",
-      "reviewed_on": "2026-09-25",
+      "reviewed_on": "2026-09-28",
       "method": "desk_review",
       "verdict": "revised",
-      "reason": "Aufmaß unterscheidet kumulierten Stand und Zuwachs, Bericht trennt Beobachtung und Behauptung. Sicherheitsabschnitt wurde auf Nutzerhinweis und Kommunikationsvorbereitung ohne eigene Kontaktaktion präzisiert.",
+      "reason": "Aufmaß unterscheidet kumulierten Stand und Zuwachs, Bericht trennt Beobachtung und Behauptung. Sicherheitsabschnitt wurde auf Nutzerhinweis und Kommunikationsvorbereitung ohne eigene Kontaktaktion präzisiert. Ergänzung am 28.09.2026: aufgabengerechten lokalen Modulverweis, belegte Fortsetzung, gezielte Rückfragen und Quellenabgrenzung redaktionell geprüft; kein vollständiger Modelllauf dieses Prüffalls.",
       "checked_points": [
         "Eigenständiges Arbeitsprodukt: Liefere je Datei einen vollständigen Tagesbericht oder ein zusammengehöriges Aufmaßdokument, keine Sammlung mehrerer fremder Schreiben. Zahlenfelder sind ausgefüllt und Rechenwege nachvollziehbar; Beobachtungen werden in ganzen Sätzen beschrieben.",
         "Individueller Sachverhalt und beobachtbare Sollkriterien für bautagebuch-kumuliertes-aufmass angelegt; nicht ausgeführt.",
@@ -1694,12 +1801,12 @@
     },
     {
       "skill_path": "bauwirtschaft/skills/behinderung-und-bauzeitfolgen-dokumentieren/SKILL.md",
-      "sha256": "3e34112b887a8028e8429b12a6653799e0171ac54d3f33fa623fac5d9fb40932",
+      "sha256": "7ab062156ace649c10c66c1cca41ee2cf82992c5ef38838f1660f94486d84c47",
       "case_id": "behinderung-nord-sued-kausalitaet",
-      "reviewed_on": "2026-09-25",
+      "reviewed_on": "2026-09-28",
       "method": "desk_review",
       "verdict": "retained",
-      "reason": "Behinderungsdarstellung verknüpft Ursache und konkreten Vorgang statt gesamter Baustelle. Ersatzmaßnahmen, Vertragsregime und verschiedene Anspruchsarten werden getrennt, die Anzeige wird tatsächlich formuliert.",
+      "reason": "Behinderungsdarstellung verknüpft Ursache und konkreten Vorgang statt gesamter Baustelle. Ersatzmaßnahmen, Vertragsregime und verschiedene Anspruchsarten werden getrennt, die Anzeige wird tatsächlich formuliert. Ergänzung am 28.09.2026: aufgabengerechten lokalen Modulverweis, belegte Fortsetzung, gezielte Rückfragen und Quellenabgrenzung redaktionell geprüft; kein vollständiger Modelllauf dieses Prüffalls.",
       "checked_points": [
         "Eigenständiges Arbeitsprodukt: Liefere das vollständige Schreiben sowie, soweit benötigt, die ausgefüllte Ereignis- und Bauzeitdarstellung mit Belegen. Ein Tabellenstatus „Anspruch offen“ darf den geforderten Anzeigetext nicht ersetzen.",
         "Individueller Sachverhalt und beobachtbare Sollkriterien für behinderung-nord-sued-kausalitaet angelegt; nicht ausgeführt.",
@@ -1709,12 +1816,12 @@
     },
     {
       "skill_path": "bauwirtschaft/skills/nachtraege-pruefen-und-vereinbaren/SKILL.md",
-      "sha256": "873baee79b286221994d77afe6d7ab0acc5d701f72e0f489ec97627fdfd578b2",
+      "sha256": "cb248baaa476ffb22156794ef48e9f23127d89e853848d8ae3df54a08b8dea7e",
       "case_id": "nachtrag-altleistung-abziehen",
-      "reviewed_on": "2026-09-25",
+      "reviewed_on": "2026-09-28",
       "method": "desk_review",
       "verdict": "retained",
-      "reason": "Nachtragstyp, Grund, Menge, Preis und Befugnis werden vor Vereinbarung geprüft. Minderleistungen und unbelegte Bauzeitpositionen bleiben getrennt; gesetzliche Abschlagsregeln werden nicht pauschal übertragen.",
+      "reason": "Nachtragstyp, Grund, Menge, Preis und Befugnis werden vor Vereinbarung geprüft. Minderleistungen und unbelegte Bauzeitpositionen bleiben getrennt; gesetzliche Abschlagsregeln werden nicht pauschal übertragen. Ergänzung am 28.09.2026: aufgabengerechten lokalen Modulverweis, belegte Fortsetzung, gezielte Rückfragen und Quellenabgrenzung redaktionell geprüft; kein vollständiger Modelllauf dieses Prüffalls.",
       "checked_points": [
         "Eigenständiges Arbeitsprodukt: Liefere die nachvollziehbare Nachtragsberechnung und das ausdrücklich bestellte vollständige Prüfblatt oder die vollständige Nachtragsvereinbarung. Tabellenfelder allein ersetzen keine vertragliche Regelung.",
         "Individueller Sachverhalt und beobachtbare Sollkriterien für nachtrag-altleistung-abziehen angelegt; nicht ausgeführt.",
@@ -1724,12 +1831,12 @@
     },
     {
       "skill_path": "bauwirtschaft/skills/baurechnungen-pruefen-und-zahlung-vorbereiten/SKILL.md",
-      "sha256": "dffd231bdabdf31393c6ba96612095dd4f5be738b6bd43fcc085dd7c238e12ed",
+      "sha256": "255b5c5f24b005a35e59b68df1d9dcb186ac2e3698eab9efb5ea298fe73045cd",
       "case_id": "rechnung-kumuliert-netto-brutto",
-      "reviewed_on": "2026-09-25",
+      "reviewed_on": "2026-09-28",
       "method": "desk_review",
       "verdict": "retained",
-      "reason": "Rechnungsprüfung trennt Leistungsstand, Rechnung, tatsächliche Zahlung und Abzug. Prüffähigkeit wird nicht als sachliches Anerkenntnis behandelt; Zahlungsvorbereitung bleibt interne Arbeit.",
+      "reason": "Rechnungsprüfung trennt Leistungsstand, Rechnung, tatsächliche Zahlung und Abzug. Prüffähigkeit wird nicht als sachliches Anerkenntnis behandelt; Zahlungsvorbereitung bleibt interne Arbeit. Ergänzung am 28.09.2026: aufgabengerechten lokalen Modulverweis, belegte Fortsetzung, gezielte Rückfragen und Quellenabgrenzung redaktionell geprüft; kein vollständiger Modelllauf dieses Prüffalls.",
       "checked_points": [
         "Eigenständiges Arbeitsprodukt: Liefere die ausgefüllte Rechnungsprüfung und den ausformulierten Prüfvermerk beziehungsweise Einwendungsbrief. Trenne das Zahlungsvotum von technischer Bestätigung, steuerlicher Prüfung und tatsächlicher Bankfreigabe.",
         "Individueller Sachverhalt und beobachtbare Sollkriterien für rechnung-kumuliert-netto-brutto angelegt; nicht ausgeführt.",
@@ -1739,12 +1846,12 @@
     },
     {
       "skill_path": "bauwirtschaft/skills/maengel-und-abnahme-bearbeiten/SKILL.md",
-      "sha256": "b7d7951cc164c4bc51093b9b5560d754dc77a0cb4e2e1d01730afb585ab63fce",
+      "sha256": "d80a6a4b2b30ea007e988cb9bc4ead7a9045f62f73c115724417fb63633e492e",
       "case_id": "maengel-abnahme-brandschutztor-offen",
-      "reviewed_on": "2026-09-25",
+      "reviewed_on": "2026-09-28",
       "method": "desk_review",
       "verdict": "retained",
-      "reason": "Mängelstatus, Bedeutung, Abnahmeentscheidung und Vorbehalte bleiben getrennt. Der Skill verlangt vollständiges Protokoll mit belegter Befugnis und keine technische Schlussfolgerung aus unzureichender Aktenlage.",
+      "reason": "Mängelstatus, Bedeutung, Abnahmeentscheidung und Vorbehalte bleiben getrennt. Der Skill verlangt vollständiges Protokoll mit belegter Befugnis und keine technische Schlussfolgerung aus unzureichender Aktenlage. Ergänzung am 28.09.2026: aufgabengerechten lokalen Modulverweis, belegte Fortsetzung, gezielte Rückfragen und Quellenabgrenzung redaktionell geprüft; kein vollständiger Modelllauf dieses Prüffalls.",
       "checked_points": [
         "Eigenständiges Arbeitsprodukt: Liefere je Datei das vollständige Mängelschreiben oder Abnahmeprotokoll. Eine Liste von Mängelnummern ergänzt den Text, ersetzt jedoch nicht Status, gewünschte Handlung und nachvollziehbare Erklärung.",
         "Individueller Sachverhalt und beobachtbare Sollkriterien für maengel-abnahme-brandschutztor-offen angelegt; nicht ausgeführt.",
@@ -1754,12 +1861,12 @@
     },
     {
       "skill_path": "bauwirtschaft/skills/baubuchhaltung-und-belege-abgleichen/SKILL.md",
-      "sha256": "6407536b96dd8b48ddd16cefcc9951470db406f70dcea6e26918b6842fd98666",
+      "sha256": "68267859ed98ef667e6981b80e8746bbe6ef6488fd16ae1d7d13e8de6ab31e51",
       "case_id": "buchhaltung-sammelzahlung-dublette",
-      "reviewed_on": "2026-09-25",
+      "reviewed_on": "2026-09-28",
       "method": "desk_review",
       "verdict": "revised",
-      "reason": "Die bestehende belegbezogene Abstimmung bleibt erhalten. Für viele Rechnungen um OP-Summenbrücke und Kontrolle der Zahlungsaufteilungen ergänzt; Einbehalte und Streitigstellungen führen allein nicht zur Ausbuchung. Buchhaltung vom HOAI-Planerauftrag abgegrenzt.",
+      "reason": "Die bestehende belegbezogene Abstimmung bleibt erhalten. Für viele Rechnungen um OP-Summenbrücke und Kontrolle der Zahlungsaufteilungen ergänzt; Einbehalte und Streitigstellungen führen allein nicht zur Ausbuchung. Buchhaltung vom HOAI-Planerauftrag abgegrenzt. Ergänzung am 28.09.2026: aufgabengerechten lokalen Modulverweis, belegte Fortsetzung, gezielte Rückfragen und Quellenabgrenzung redaktionell geprüft; kein vollständiger Modelllauf dieses Prüffalls.",
       "checked_points": [
         "Eigenständiges Arbeitsprodukt: Liefere eine ausgefüllte Abstimmliste mit eindeutigen Belegbezügen, verbleibenden Differenzen und ausformulierten Korrekturaufträgen. Keine verbuchten Korrekturen oder geprüfte Steuererklärung behaupten.",
         "Individueller Sachverhalt und beobachtbare Sollkriterien für buchhaltung-sammelzahlung-dublette angelegt; nicht ausgeführt.",
@@ -1772,12 +1879,12 @@
     },
     {
       "skill_path": "bauwirtschaft/skills/nachunternehmer-und-sicherheiten-steuern/SKILL.md",
-      "sha256": "23fad572475b5b4003ce8224c0c1a705ff7eef807910065ea38823897fa17787",
+      "sha256": "67096a001ad27f8cc9ce961b4a69c3c5bd3919a8fdac4047e6a00d595e77e840",
       "case_id": "sicherheiten-ablosung-nicht-verdoppeln",
-      "reviewed_on": "2026-09-25",
+      "reviewed_on": "2026-09-28",
       "method": "desk_review",
       "verdict": "retained",
-      "reason": "Sicherheiten werden nach Zweck, Urkunde, Betrag, Laufzeit und Ablösung geführt. Paralleleinbehalte sind kein Automatismus; Übergang zur Mängelphase und Rückgabe benötigen konkrete Prüfung.",
+      "reason": "Sicherheiten werden nach Zweck, Urkunde, Betrag, Laufzeit und Ablösung geführt. Paralleleinbehalte sind kein Automatismus; Übergang zur Mängelphase und Rückgabe benötigen konkrete Prüfung. Ergänzung am 28.09.2026: aufgabengerechten lokalen Modulverweis, belegte Fortsetzung, gezielte Rückfragen und Quellenabgrenzung redaktionell geprüft; kein vollständiger Modelllauf dieses Prüffalls.",
       "checked_points": [
         "Eigenständiges Arbeitsprodukt: Liefere die ausgefüllte Leistungs- und Sicherheitenübersicht und das bestellte ausformulierte Schreiben. Urkundenstatus und Rückgabeentscheidung müssen erkennbar verschieden sein.",
         "Individueller Sachverhalt und beobachtbare Sollkriterien für sicherheiten-ablosung-nicht-verdoppeln angelegt; nicht ausgeführt.",
@@ -1787,12 +1894,12 @@
     },
     {
       "skill_path": "bauwirtschaft/skills/projektbericht-und-entscheidungsvorlage-erstellen/SKILL.md",
-      "sha256": "c873a14fcfc42fdc7dcc3522e8a2b06e60a9fd91f7c328c1d7175a8cd25b9836",
+      "sha256": "3cc756bc267411f76932b06949c82671680ca853397254d7ae865f9a73d5d860",
       "case_id": "projektbericht-schichtentscheidung",
-      "reviewed_on": "2026-09-25",
+      "reviewed_on": "2026-09-28",
       "method": "desk_review",
       "verdict": "revised",
-      "reason": "Bericht und Entscheidung sind ein konkretes Produkt mit Basis, Abweichung und Wahl. Redaktionell wurde die Anweisung zur konkreten Abweichung korrigiert; Bedingungen ersetzen keine fachliche Freigabe.",
+      "reason": "Bericht und Entscheidung sind ein konkretes Produkt mit Basis, Abweichung und Wahl. Redaktionell wurde die Anweisung zur konkreten Abweichung korrigiert; Bedingungen ersetzen keine fachliche Freigabe. Ergänzung am 28.09.2026: aufgabengerechten lokalen Modulverweis, belegte Fortsetzung, gezielte Rückfragen und Quellenabgrenzung redaktionell geprüft; kein vollständiger Modelllauf dieses Prüffalls.",
       "checked_points": [
         "Eigenständiges Arbeitsprodukt: Liefere den vollständigen Projektbericht oder Beschlussentwurf mit entscheidungsrelevanten Tabellen. Interne Quellenkontrolle und fehlende Fachfreigaben getrennt darstellen; keine aufgeblähte Vollakte anhängen.",
         "Individueller Sachverhalt und beobachtbare Sollkriterien für projektbericht-schichtentscheidung angelegt; nicht ausgeführt.",
@@ -1802,12 +1909,12 @@
     },
     {
       "skill_path": "bauwirtschaft/skills/uebergabe-und-gewaehrleistung-organisieren/SKILL.md",
-      "sha256": "6f935b8a715238005ab81fe0edd7211f3cbc8d2a7e8f95473723428f15ec0eca",
+      "sha256": "30c067ade4f9bbf1b1fb798a5d12321265f77209568d10fda1ec8bfb10bc181b",
       "case_id": "uebergabe-getrennte-abnahmen-fristen",
-      "reviewed_on": "2026-09-25",
+      "reviewed_on": "2026-09-28",
       "method": "desk_review",
       "verdict": "revised",
-      "reason": "Der vorhandene Übergabe- und Fristenworkflow bleibt erhalten. Den bisher allein auf Phase 9 gerichteten HOAI-Verweis korrigiert: Übergabe, Fristenliste und Abnahmemängel gehören zu Phase 8; weitere Betreuung hängt von Aufgabe und Vertrag ab.",
+      "reason": "Der vorhandene Übergabe- und Fristenworkflow bleibt erhalten. Den bisher allein auf Phase 9 gerichteten HOAI-Verweis korrigiert: Übergabe, Fristenliste und Abnahmemängel gehören zu Phase 8; weitere Betreuung hängt von Aufgabe und Vertrag ab. Ergänzung am 28.09.2026: aufgabengerechten lokalen Modulverweis, belegte Fortsetzung, gezielte Rückfragen und Quellenabgrenzung redaktionell geprüft; kein vollständiger Modelllauf dieses Prüffalls.",
       "checked_points": [
         "Eigenständiges Arbeitsprodukt: Liefere je Datei ein vollständiges Übergabeprotokoll oder das zusammengehörige Gewährleistungsregister. Restpunkte dürfen offen sein, müssen aber konkrete Zuständigkeit und nächsten Schritt haben. Kein pauschales Siegel „mängelfrei übergeben“.",
         "Individueller Sachverhalt und beobachtbare Sollkriterien für uebergabe-getrennte-abnahmen-fristen angelegt; nicht ausgeführt.",
@@ -1820,12 +1927,12 @@
     },
     {
       "skill_path": "bauwirtschaft/skills/hoai-1-grundlagen-und-planungsauftrag-klaeren/SKILL.md",
-      "sha256": "64da76eae4a77e89407e006756255ba4e18bac1fb561d6cde2850b817d0cbb83",
+      "sha256": "845e6c584ec211a16ff2ad9c8dac1bd1132503b2cf13c28e4be65596a681f14a",
       "case_id": "hoai-1-nutzung-und-untersuchungsauftrag",
-      "reviewed_on": "2026-09-25",
+      "reviewed_on": "2026-09-28",
       "method": "desk_review",
       "verdict": "revised",
-      "reason": "Grundlagenauftrag, Betreiberwunsch, Ortsbefund und noch nicht beauftragte Untersuchung fachlich getrennt. Das Ergebnis ist ein fortschreibbarer Grundlagenbericht mit gezieltem Nutzungszweig, nicht eine vorgezogene Entwurfsplanung.",
+      "reason": "Grundlagenauftrag, Betreiberwunsch, Ortsbefund und noch nicht beauftragte Untersuchung fachlich getrennt. Das Ergebnis ist ein fortschreibbarer Grundlagenbericht mit gezieltem Nutzungszweig, nicht eine vorgezogene Entwurfsplanung. Ergänzung am 28.09.2026: aufgabengerechten lokalen Modulverweis, belegte Fortsetzung, gezielte Rückfragen und Quellenabgrenzung redaktionell geprüft; kein vollständiger Modelllauf dieses Prüffalls.",
       "checked_points": [
         "Bestätigte Nutzung mit 120 Sitzplätzen, offene Option mit 160 Stehplätzen und ungeklärte Dachraumnutzung bleiben getrennt; die Folgeantwort wird in denselben Grundlagenbericht eingearbeitet.",
         "Beide Angebote zusammen ergeben 4510 EUR netto und 5366.90 EUR brutto; weder Budgetreserve noch Auftrag werden daraus automatisch abgeleitet. Die verbleibende Untersuchungsreserve beträgt rechnerisch 6633.10 EUR, ohne Vergabeentscheidung.",
@@ -1836,12 +1943,12 @@
     },
     {
       "skill_path": "bauwirtschaft/skills/hoai-2-vorplanung-und-varianten-entwickeln/SKILL.md",
-      "sha256": "adc27073412376d857dadf36ba63c3edf35088028188583d7ad6dba0166675e4",
+      "sha256": "7cbb0b6da898dbc52adf1fafc1c602fc0805e339b6711c453c8ef12238fa4383",
       "case_id": "hoai-2-varianten-gleiche-anforderung",
-      "reviewed_on": "2026-09-25",
+      "reviewed_on": "2026-09-28",
       "method": "desk_review",
       "verdict": "revised",
-      "reason": "Vergleichbare Anforderungsbasis und identische Kostengrenze als Voraussetzung der Vorplanungsentscheidung geprüft. Die besondere Bauvoranfrage bleibt von der bloßen Vorverhandlung unterschieden.",
+      "reason": "Vergleichbare Anforderungsbasis und identische Kostengrenze als Voraussetzung der Vorplanungsentscheidung geprüft. Die besondere Bauvoranfrage bleibt von der bloßen Vorverhandlung unterschieden. Ergänzung am 28.09.2026: aufgabengerechten lokalen Modulverweis, belegte Fortsetzung, gezielte Rückfragen und Quellenabgrenzung redaktionell geprüft; kein vollständiger Modelllauf dieses Prüffalls.",
       "checked_points": [
         "Auf gleicher Kostenabgrenzung stehen A mit 2100000 EUR und B mit 2190000 EUR netto gegenüber; die fehlenden 210000 EUR werden nicht als Einsparung von B dargestellt.",
         "Die aufgegebene fünfte Gruppe bleibt als verworfene Programmoption dokumentiert und wird nicht als gleichwertige Variante in die Empfehlung eingerechnet.",
@@ -1852,12 +1959,12 @@
     },
     {
       "skill_path": "bauwirtschaft/skills/hoai-3-entwurf-und-kostenberechnung-abstimmen/SKILL.md",
-      "sha256": "f1a8d03ddd0f84ae75c862806a75d904f979527927c1a9dff44867acc467c06d",
+      "sha256": "3793b91e2497758676977b580e22d079cc7bfb5457af15687fa1ff46642d5efe",
       "case_id": "hoai-3-kostenberechnung-und-fachkollision",
-      "reviewed_on": "2026-09-25",
+      "reviewed_on": "2026-09-28",
       "method": "desk_review",
       "verdict": "revised",
-      "reason": "Entwurfsreife, integrierte Fachbeiträge, Kostenberechnung und Ausführungsfreigabe getrennt. Die Mengen- und Kostenfortschreibung muss bereits enthaltene Änderungen erkennen.",
+      "reason": "Entwurfsreife, integrierte Fachbeiträge, Kostenberechnung und Ausführungsfreigabe getrennt. Die Mengen- und Kostenfortschreibung muss bereits enthaltene Änderungen erkennen. Ergänzung am 28.09.2026: aufgabengerechten lokalen Modulverweis, belegte Fortsetzung, gezielte Rückfragen und Quellenabgrenzung redaktionell geprüft; kein vollständiger Modelllauf dieses Prüffalls.",
       "checked_points": [
         "Der Kostenvergleich weist 260000 EUR Mehrbetrag aus; die bereits enthaltenen 170000 EUR werden nicht erneut zugeschlagen. Funktionaler Bedarf wird nicht mit Budgetbewilligung gleichgesetzt.",
         "S-03/B und T-12/C werden mit Bearbeitungsstand und konkreter Kollision bezeichnet. Koordination ersetzt keine Statikfreigabe und kein eigenständig bemessenes Durchbruchdetail.",
@@ -1868,12 +1975,12 @@
     },
     {
       "skill_path": "bauwirtschaft/skills/hoai-4-genehmigungsplanung-und-nachforderungen-bearbeiten/SKILL.md",
-      "sha256": "967c18742245ed8602ed98cf51161172e121b986ce9ecee52e5379979818e292",
+      "sha256": "bee0a43eeb5dc3e8e49d4e5022999ba1346c364ba82c7d78e76e153fadef81df",
       "case_id": "hoai-4-nachforderung-planrevision-eingang",
-      "reviewed_on": "2026-09-25",
+      "reviewed_on": "2026-09-28",
       "method": "desk_review",
       "verdict": "revised",
-      "reason": "Nachforderungsziffer, Planrevision, Übermittlung und tatsächlicher Eingang werden getrennt geführt. Kein automatischer Genehmigungs- oder Nachbarzustimmungszweig aus bloßer Korrespondenz.",
+      "reason": "Nachforderungsziffer, Planrevision, Übermittlung und tatsächlicher Eingang werden getrennt geführt. Kein automatischer Genehmigungs- oder Nachbarzustimmungszweig aus bloßer Korrespondenz. Ergänzung am 28.09.2026: aufgabengerechten lokalen Modulverweis, belegte Fortsetzung, gezielte Rückfragen und Quellenabgrenzung redaktionell geprüft; kein vollständiger Modelllauf dieses Prüffalls.",
       "checked_points": [
         "Die nachgereichte Revision C wird mit tatsächlichem Eingang belegt, der Brandschutznachweis bleibt offen. Eine angekündigte Lieferung wird weder zum Eingang noch zur Vollständigkeitserklärung.",
         "Der vorgegebene behördliche Termin 02.10.2026 bleibt sichtbar. Keine erfundene landesrechtliche Fiktions- oder Rechtsbehelfsfrist ohne Prüfung von Bundesland, Norm und Zugang.",
@@ -1884,12 +1991,12 @@
     },
     {
       "skill_path": "bauwirtschaft/skills/hoai-5-ausfuehrungsplanung-und-details-koordinieren/SKILL.md",
-      "sha256": "7ae41cd3adcb4eab5c3a14e9fa4b32de4da7a33aafe8cc9bcddf5ebd01f828e3",
+      "sha256": "4d312bb20f6661d07c95ababdaa4bfdf91d6bfa7cfe0dd0b31b530a4aaf05ebb",
       "case_id": "hoai-5-detail-versand-und-montageplan",
-      "reviewed_on": "2026-09-25",
+      "reviewed_on": "2026-09-28",
       "method": "desk_review",
       "verdict": "revised",
-      "reason": "Detailstand, technischer Teilbefund und Versand sind getrennte Tatsachen. Die Ausführungsplanung endet nicht mit einer Dateiliste, sondern führt zur konkreten Klärung und kontrollierten Fortschreibung.",
+      "reason": "Detailstand, technischer Teilbefund und Versand sind getrennte Tatsachen. Die Ausführungsplanung endet nicht mit einer Dateiliste, sondern führt zur konkreten Klärung und kontrollierten Fortschreibung. Ergänzung am 28.09.2026: aufgabengerechten lokalen Modulverweis, belegte Fortsetzung, gezielte Rückfragen und Quellenabgrenzung redaktionell geprüft; kein vollständiger Modelllauf dieses Prüffalls.",
       "checked_points": [
         "B, C und M-08 sind mit Status, Bezug und tatsächlichem Empfängerkreis unterscheidbar. C wird trotz Teilbestätigung nicht insgesamt ausführungsreif genannt.",
         "Bodenaufbau, Brandschutzanschluss und Kabeltrasse erhalten jeweils einen konkreten Fachklärungsbedarf; eine Freigabe für einen Punkt erledigt nicht die anderen.",
@@ -1900,12 +2007,12 @@
     },
     {
       "skill_path": "bauwirtschaft/skills/hoai-6-leistungsverzeichnis-und-vergabeunterlagen-erstellen/SKILL.md",
-      "sha256": "f296cf7b1be681846ff8b968ae0437883ed34a108d5138ebbb19d96cb685955e",
+      "sha256": "f0adf53c2302bdfcaa88cfab54358879210d48068b6d711933733f36cb6f2acf",
       "case_id": "hoai-6-lv-mengenbasis-und-kostengrenze",
-      "reviewed_on": "2026-09-26",
+      "reviewed_on": "2026-09-28",
       "method": "desk_review",
       "verdict": "revised",
-      "reason": "Ausführungsplanung, Menge, Langtext und Planerpreis sind als eigene Ausgangsdaten definiert. Leistungsgrenzen und besondere Verfahrensfragen bleiben sichtbar, während das LV konkret weiterbearbeitet wird. Die ergänzte Rollenprüfung nach Paragrafen 3 und 5 RDG und der gezielt geprüfte Skontoklausel-Anker wurden am 26.09.2026 redaktionell abgeglichen; keine Modellausführung.",
+      "reason": "Ausführungsplanung, Menge, Langtext und Planerpreis sind als eigene Ausgangsdaten definiert. Leistungsgrenzen und besondere Verfahrensfragen bleiben sichtbar, während das LV konkret weiterbearbeitet wird. Die ergänzte Rollenprüfung nach Paragrafen 3 und 5 RDG und der gezielt geprüfte Skontoklausel-Anker wurden am 26.09.2026 redaktionell abgeglichen; keine Modellausführung. Ergänzung am 28.09.2026: aufgabengerechten lokalen Modulverweis, belegte Fortsetzung, gezielte Rückfragen und Quellenabgrenzung redaktionell geprüft; kein vollständiger Modelllauf dieses Prüffalls.",
       "checked_points": [
         "Das bestätigte Türpaket beträgt 38400 EUR netto. Die separat ausgewiesene Schließanlage ergibt zusammen 47900 EUR netto, ohne die beiden verworfenen Zusatztüren einzurechnen.",
         "Positionsbeschreibung, Menge, Einheit und technische offene Angaben sind nachvollziehbar. Fehlende Brandschutzvorgaben werden gezielt angefordert statt als beliebige Klassifikation ergänzt.",
@@ -1916,12 +2023,12 @@
     },
     {
       "skill_path": "bauwirtschaft/skills/hoai-7-angebote-werten-und-vergabe-vorbereiten/SKILL.md",
-      "sha256": "e7f098cf57794f815d53c51623f4e79332b96b973ee86e97049c760354f823d5",
+      "sha256": "6009abe637550c3cf2cf7e4b0ac55abeaca342ac09237e21fb1a941abd065caa",
       "case_id": "hoai-7-preisspiegel-nicht-automatisch-zuschlag",
-      "reviewed_on": "2026-09-26",
+      "reviewed_on": "2026-09-28",
       "method": "desk_review",
       "verdict": "revised",
-      "reason": "Preisspiegel, Wertbarkeit und Entscheidung werden getrennt; der Skill bearbeitet den Vergabevorschlag selbst. Angebotsergänzung wird nicht als allgemeines Reparaturrecht dargestellt. Die ergänzte Rollenprüfung nach Paragrafen 3 und 5 RDG und der gezielt geprüfte Skontoklausel-Anker wurden am 26.09.2026 redaktionell abgeglichen; keine Modellausführung.",
+      "reason": "Preisspiegel, Wertbarkeit und Entscheidung werden getrennt; der Skill bearbeitet den Vergabevorschlag selbst. Angebotsergänzung wird nicht als allgemeines Reparaturrecht dargestellt. Die ergänzte Rollenprüfung nach Paragrafen 3 und 5 RDG und der gezielt geprüfte Skontoklausel-Anker wurden am 26.09.2026 redaktionell abgeglichen; keine Modellausführung. Ergänzung am 28.09.2026: aufgabengerechten lokalen Modulverweis, belegte Fortsetzung, gezielte Rückfragen und Quellenabgrenzung redaktionell geprüft; kein vollständiger Modelllauf dieses Prüffalls.",
       "checked_points": [
         "Die drei unveränderten Angebotssummen werden richtig verglichen; bei B wird die ausdrücklich fehlende Pflichtleistung ausgewiesen, ohne einen frei geschätzten Aufpreis als angebotenen Preis hinzuzufügen.",
         "Wertbarkeit, Aufklärung, Nachforderung und zulässige Verhandlung werden als unterschiedliche rechtliche Fragen behandelt; die niedrigste Zahl führt nicht automatisch zum Zuschlag.",
@@ -1933,12 +2040,12 @@
     },
     {
       "skill_path": "bauwirtschaft/skills/hoai-8-bauueberwachung-und-dokumentation-fuehren/SKILL.md",
-      "sha256": "55fafd368f53f4a7c73940b75a587100eefd6a4d653e8b434160bf75f6379970",
+      "sha256": "b25c0eea09a42e8f5a5b914da1b00f8858ae397cf759d0dfe0ecc5979cca4616",
       "case_id": "hoai-8-aufmass-vorzahlung-und-verdeckung",
-      "reviewed_on": "2026-09-25",
+      "reviewed_on": "2026-09-28",
       "method": "desk_review",
       "verdict": "revised",
-      "reason": "Tatsächlich bestätigte Mengen und tatsächliche Vorzahlungen werden nachgerechnet. Dokumentensichtung ersetzt keine Ortskontrolle; unabhängige Rechnungsteile können trotz offener Anschlussprüfung fortgeführt werden.",
+      "reason": "Tatsächlich bestätigte Mengen und tatsächliche Vorzahlungen werden nachgerechnet. Dokumentensichtung ersetzt keine Ortskontrolle; unabhängige Rechnungsteile können trotz offener Anschlussprüfung fortgeführt werden. Ergänzung am 28.09.2026: aufgabengerechten lokalen Modulverweis, belegte Fortsetzung, gezielte Rückfragen und Quellenabgrenzung redaktionell geprüft; kein vollständiger Modelllauf dieses Prüffalls.",
       "checked_points": [
         "Nach der Folgeantwort sind 116 m² und damit 9280 EUR netto beziehungsweise 11043.20 EUR brutto bestätigt; vier Quadratmeter bleiben gesondert offen.",
         "Nur die tatsächlich bezahlten 4000 EUR netto beziehungsweise 4760 EUR brutto werden abgezogen. Der bestätigte rechnerische Rest beträgt 5280 EUR netto beziehungsweise 6283.20 EUR brutto vor sonstigen gesondert zu prüfenden Einbehalten.",
@@ -1949,12 +2056,12 @@
     },
     {
       "skill_path": "bauwirtschaft/skills/hoai-9-objektbetreuung-und-maengelverfolgung-organisieren/SKILL.md",
-      "sha256": "a8b97dec42887effab4b291420c55208cb4b0de3375562428cfd126f4194cef6",
+      "sha256": "1f13a694fafcecb169b47d0dbfc0d69d7cc725a6d7b08c483db46a17e0bcc911",
       "case_id": "hoai-9-spaetmangel-und-sicherheit",
-      "reviewed_on": "2026-09-25",
+      "reviewed_on": "2026-09-28",
       "method": "desk_review",
       "verdict": "revised",
-      "reason": "Abnahmemangel, späterer Befund, Bewertungszeitraum, Anspruchsfrist und besondere Sanierungsüberwachung fachlich getrennt. Sicherheitenfreigabe bleibt eine belegabhängige Mitwirkung, keine automatische Erledigung.",
+      "reason": "Abnahmemangel, späterer Befund, Bewertungszeitraum, Anspruchsfrist und besondere Sanierungsüberwachung fachlich getrennt. Sicherheitenfreigabe bleibt eine belegabhängige Mitwirkung, keine automatische Erledigung. Ergänzung am 28.09.2026: aufgabengerechten lokalen Modulverweis, belegte Fortsetzung, gezielte Rückfragen und Quellenabgrenzung redaktionell geprüft; kein vollständiger Modelllauf dieses Prüffalls.",
       "checked_points": [
         "Der offene Abnahmemangel an der Tür wird vom später gemeldeten Dachbefund getrennt; die Phasenzuordnung folgt Feststellungszeitpunkt, Aufgabe und Vertrag statt einer pauschalen Zuordnung aller Mängel zur LPH 9.",
         "Die Fünfjahresgrenze der Bewertungsleistung aus Anlage 10 wird von konkreten Anspruchsfristen getrennt. Der Vermerk setzt weder Nutzung gleich Abnahme noch behauptet er ohne Prüfung sämtlicher Vertrags- und Änderungsereignisse einen gesicherten Fristablauf.",

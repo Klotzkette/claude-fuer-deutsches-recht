@@ -1,0 +1,90 @@
+[
+  {
+    "source": "08_Bauausfuehrung/01_Bautagebuch/2027/BTB_2027-12.docx",
+    "sha256": "602ee4a9a531bffb1dd7fad4bfe44a5e8236722e93b1ef59545ab4a788e15521",
+    "changed_pages_against_first_package": [
+      1,
+      2,
+      6,
+      16
+    ]
+  },
+  {
+    "source": "08_Bauausfuehrung/01_Bautagebuch/2028/BTB_2028-01.docx",
+    "sha256": "f7d8301d5592c730a7dcee496c21be7012b1510bfa091edc6c9f6652b576e6c5",
+    "changed_pages_against_first_package": [
+      12
+    ]
+  },
+  {
+    "source": "08_Bauausfuehrung/01_Bautagebuch/2028/BTB_2028-02.docx",
+    "sha256": "4ab083755242526c38ccff6b7b7e7ca4265aec05552a135063dac4483d5c65f2",
+    "changed_pages_against_first_package": [
+      2,
+      21
+    ]
+  },
+  {
+    "source": "08_Bauausfuehrung/01_Bautagebuch/2028/BTB_2028-03.docx",
+    "sha256": "ab80e039ca5ff42628bfe52e12e2a0d9c2da7c4219154c3a65f3969dfb75c0d9",
+    "changed_pages_against_first_package": [
+      9,
+      23
+    ]
+  },
+  {
+    "source": "08_Bauausfuehrung/01_Bautagebuch/2028/BTB_2028-04.docx",
+    "sha256": "76a8d5e8b5a157d5ff42448acc0cce9ef8798dacf1b617448f1696e739c23766",
+    "changed_pages_against_first_package": [
+      3,
+      28
+    ]
+  },
+  {
+    "source": "08_Bauausfuehrung/01_Bautagebuch/2028/BTB_2028-05.docx",
+    "sha256": "51c03514869f2c0caef36592ece45e69f29f106c42f474375eac2f0fa76d1f55",
+    "changed_pages_against_first_package": [
+      12
+    ]
+  },
+  {
+    "source": "08_Bauausfuehrung/01_Bautagebuch/2028/BTB_2028-06.docx",
+    "sha256": "afc40b617bc17b2bfb54fe78ce85b2caf19e97934c3109d8804f15fcb5cb409f",
+    "changed_pages_against_first_package": [
+      5,
+      6,
+      16,
+      30
+    ]
+  },
+  {
+    "source": "08_Bauausfuehrung/01_Bautagebuch/2028/BTB_2028-07.docx",
+    "sha256": "c84484339f39723d55c520416d773bc3273979814b15babfd7abbeae33047f9b",
+    "changed_pages_against_first_package": [
+      17
+    ]
+  },
+  {
+    "source": "08_Bauausfuehrung/01_Bautagebuch/2028/BTB_2028-08.docx",
+    "sha256": "506bd6a849f1c1ddabbef5f80b3e978c19ab224899f3c3003e54ac32b2641fc3",
+    "changed_pages_against_first_package": [
+      10,
+      25
+    ]
+  },
+  {
+    "source": "08_Bauausfuehrung/01_Bautagebuch/2028/BTB_2028-09.docx",
+    "sha256": "4be67c8e651a6f6d6a93fa9b2a49a80cf436012536b46c7c5053b262d2d788e4",
+    "changed_pages_against_first_package": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      10,
+      12,
+      14,
+      15
+    ]
+  }
+]

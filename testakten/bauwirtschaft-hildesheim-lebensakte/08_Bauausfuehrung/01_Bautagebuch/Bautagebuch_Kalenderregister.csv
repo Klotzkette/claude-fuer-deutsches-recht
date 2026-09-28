@@ -1,0 +1,305 @@
+﻿Tagesblatt,Datum,Wochentag,Feiertag,Ruhegrund,Produktivpersonal,Witterung,Arbeitsgänge,Lieferbelege,Monatsdatei
+1,2027-12-01,Mittwoch,,,4,trocken 5°C,T001,LB-001; LB-002,2027/BTB_2027-12.docx
+2,2027-12-02,Donnerstag,,,6,"wechselnd bewölkt, 5 °C bei der Tageskontrolle",T001,,2027/BTB_2027-12.docx
+3,2027-12-03,Freitag,,,6,"trocken, 1 °C bei der Tageskontrolle",T001,,2027/BTB_2027-12.docx
+4,2027-12-04,Samstag,,Samstagsruhe,0,"bedeckt, 4 °C bei der Tageskontrolle",,,2027/BTB_2027-12.docx
+5,2027-12-05,Sonntag,,Sonntagsruhe,0,"trocken, 7 °C bei der Tageskontrolle",,,2027/BTB_2027-12.docx
+6,2027-12-06,Montag,,,6,bedeckt 4°C,T002,,2027/BTB_2027-12.docx
+7,2027-12-07,Dienstag,,,6,"trocken, 6 °C bei der Tageskontrolle",T002,,2027/BTB_2027-12.docx
+8,2027-12-08,Mittwoch,,,6,"leichter Regen, 2 °C bei der Tageskontrolle",T002,,2027/BTB_2027-12.docx
+9,2027-12-09,Donnerstag,,,6,"wechselnd bewölkt, 5 °C bei der Tageskontrolle",T002,,2027/BTB_2027-12.docx
+10,2027-12-10,Freitag,,,6,"trocken, 1 °C bei der Tageskontrolle",T002,,2027/BTB_2027-12.docx
+11,2027-12-11,Samstag,,Samstagsruhe,0,"bedeckt, 4 °C bei der Tageskontrolle",,,2027/BTB_2027-12.docx
+12,2027-12-12,Sonntag,,Sonntagsruhe,0,"trocken, 7 °C bei der Tageskontrolle",,,2027/BTB_2027-12.docx
+13,2027-12-13,Montag,,,6,"bedeckt, 3 °C bei der Tageskontrolle",T002,,2027/BTB_2027-12.docx
+14,2027-12-14,Dienstag,,,6,"trocken, 6 °C bei der Tageskontrolle",T002,,2027/BTB_2027-12.docx
+15,2027-12-15,Mittwoch,,,6,"leichter Regen, 2 °C bei der Tageskontrolle",T002,,2027/BTB_2027-12.docx
+16,2027-12-16,Donnerstag,,,5,Regen 3°C,T003,,2027/BTB_2027-12.docx
+17,2027-12-17,Freitag,,,6,"trocken, 1 °C bei der Tageskontrolle",T003,,2027/BTB_2027-12.docx
+18,2027-12-18,Samstag,,Samstagsruhe,0,"bedeckt, 4 °C bei der Tageskontrolle",,,2027/BTB_2027-12.docx
+19,2027-12-19,Sonntag,,Sonntagsruhe,0,"trocken, 7 °C bei der Tageskontrolle",,,2027/BTB_2027-12.docx
+20,2027-12-20,Montag,,,6,"bedeckt, 3 °C bei der Tageskontrolle",T003,,2027/BTB_2027-12.docx
+21,2027-12-21,Dienstag,,,6,"trocken, 6 °C bei der Tageskontrolle",T003,,2027/BTB_2027-12.docx
+22,2027-12-22,Mittwoch,,,6,"leichter Regen, 2 °C bei der Tageskontrolle",T003,,2027/BTB_2027-12.docx
+23,2027-12-23,Donnerstag,,,6,"wechselnd bewölkt, 5 °C bei der Tageskontrolle",T003,,2027/BTB_2027-12.docx
+24,2027-12-24,Freitag,,vereinbarte Winterruhe,0,"trocken, 1 °C bei der Tageskontrolle",,,2027/BTB_2027-12.docx
+25,2027-12-25,Samstag,Erster Weihnachtstag,Erster Weihnachtstag,0,"bedeckt, 4 °C bei der Tageskontrolle",,,2027/BTB_2027-12.docx
+26,2027-12-26,Sonntag,Zweiter Weihnachtstag,Zweiter Weihnachtstag,0,"trocken, 7 °C bei der Tageskontrolle",,,2027/BTB_2027-12.docx
+27,2027-12-27,Montag,,vereinbarte Winterruhe,0,"bedeckt, 3 °C bei der Tageskontrolle",,,2027/BTB_2027-12.docx
+28,2027-12-28,Dienstag,,vereinbarte Winterruhe,0,"trocken, 6 °C bei der Tageskontrolle",,,2027/BTB_2027-12.docx
+29,2027-12-29,Mittwoch,,vereinbarte Winterruhe,0,"leichter Regen, 2 °C bei der Tageskontrolle",,,2027/BTB_2027-12.docx
+30,2027-12-30,Donnerstag,,vereinbarte Winterruhe,0,"wechselnd bewölkt, 5 °C bei der Tageskontrolle",,,2027/BTB_2027-12.docx
+31,2027-12-31,Freitag,,vereinbarte Winterruhe,0,"trocken, 1 °C bei der Tageskontrolle",,,2027/BTB_2027-12.docx
+32,2028-01-01,Samstag,Neujahr,Neujahr,0,"bedeckt, 4 °C bei der Tageskontrolle",,,2028/BTB_2028-01.docx
+33,2028-01-02,Sonntag,,vereinbarte Winterruhe,0,"trocken, 0 °C bei der Tageskontrolle",,,2028/BTB_2028-01.docx
+34,2028-01-03,Montag,,,6,"bedeckt, 3 °C bei der Tageskontrolle",T004,LB-003,2028/BTB_2028-01.docx
+35,2028-01-04,Dienstag,,witterungsbedingter Einbaustopp,0,"Frost, morgens −4 °C, mittags −1 °C; gefrorener Untergrund",,,2028/BTB_2028-01.docx
+36,2028-01-05,Mittwoch,,witterungsbedingter Einbaustopp,0,"Frost, morgens −4 °C, mittags −1 °C; gefrorener Untergrund",,,2028/BTB_2028-01.docx
+37,2028-01-06,Donnerstag,,,6,"wechselnd bewölkt, 5 °C bei der Tageskontrolle",T004,LB-004,2028/BTB_2028-01.docx
+38,2028-01-07,Freitag,,,6,"trocken, 1 °C bei der Tageskontrolle",T004,,2028/BTB_2028-01.docx
+39,2028-01-08,Samstag,,Samstagsruhe,0,"bedeckt, 4 °C bei der Tageskontrolle",,,2028/BTB_2028-01.docx
+40,2028-01-09,Sonntag,,Sonntagsruhe,0,"trocken, 0 °C bei der Tageskontrolle",,,2028/BTB_2028-01.docx
+41,2028-01-10,Montag,,,6,"bedeckt, 3 °C bei der Tageskontrolle",T004,,2028/BTB_2028-01.docx
+42,2028-01-11,Dienstag,,,6,"trocken, 6 °C bei der Tageskontrolle",T004,,2028/BTB_2028-01.docx
+43,2028-01-12,Mittwoch,,,7,trocken 2°C,T005,,2028/BTB_2028-01.docx
+44,2028-01-13,Donnerstag,,,6,"wechselnd bewölkt, 5 °C bei der Tageskontrolle",T005,,2028/BTB_2028-01.docx
+45,2028-01-14,Freitag,,,6,"trocken, 1 °C bei der Tageskontrolle",T005,,2028/BTB_2028-01.docx
+46,2028-01-15,Samstag,,Samstagsruhe,0,"bedeckt, 4 °C bei der Tageskontrolle",,,2028/BTB_2028-01.docx
+47,2028-01-16,Sonntag,,Sonntagsruhe,0,"trocken, 0 °C bei der Tageskontrolle",,,2028/BTB_2028-01.docx
+48,2028-01-17,Montag,,,6,"bedeckt, 3 °C bei der Tageskontrolle",T005,,2028/BTB_2028-01.docx
+49,2028-01-18,Dienstag,,,6,"trocken, 6 °C bei der Tageskontrolle",T005,,2028/BTB_2028-01.docx
+50,2028-01-19,Mittwoch,,,6,"leichter Regen, 2 °C bei der Tageskontrolle",T005,,2028/BTB_2028-01.docx
+51,2028-01-20,Donnerstag,,,6,"wechselnd bewölkt, 5 °C bei der Tageskontrolle",T005,,2028/BTB_2028-01.docx
+52,2028-01-21,Freitag,,,6,"trocken, 1 °C bei der Tageskontrolle",T005,,2028/BTB_2028-01.docx
+53,2028-01-22,Samstag,,Samstagsruhe,0,"bedeckt, 4 °C bei der Tageskontrolle",,,2028/BTB_2028-01.docx
+54,2028-01-23,Sonntag,,Sonntagsruhe,0,"trocken, 0 °C bei der Tageskontrolle",,,2028/BTB_2028-01.docx
+55,2028-01-24,Montag,,,6,"bedeckt, 3 °C bei der Tageskontrolle",T006,LB-005,2028/BTB_2028-01.docx
+56,2028-01-25,Dienstag,,,6,"trocken, 6 °C bei der Tageskontrolle",T006,,2028/BTB_2028-01.docx
+57,2028-01-26,Mittwoch,,,6,"leichter Regen, 2 °C bei der Tageskontrolle",T006,,2028/BTB_2028-01.docx
+58,2028-01-27,Donnerstag,,,6,"wechselnd bewölkt, 5 °C bei der Tageskontrolle",T006,,2028/BTB_2028-01.docx
+59,2028-01-28,Freitag,,,6,"trocken, 1 °C bei der Tageskontrolle",T006,,2028/BTB_2028-01.docx
+60,2028-01-29,Samstag,,Samstagsruhe,0,"bedeckt, 4 °C bei der Tageskontrolle",,,2028/BTB_2028-01.docx
+61,2028-01-30,Sonntag,,Sonntagsruhe,0,"trocken, 0 °C bei der Tageskontrolle",,,2028/BTB_2028-01.docx
+62,2028-01-31,Montag,,,6,"bedeckt, 3 °C bei der Tageskontrolle",T006,,2028/BTB_2028-01.docx
+63,2028-02-01,Dienstag,,,6,"trocken, 8 °C bei der Tageskontrolle",T006,,2028/BTB_2028-02.docx
+64,2028-02-02,Mittwoch,,,6,Regen 6°C,,,2028/BTB_2028-02.docx
+65,2028-02-03,Donnerstag,,,0,"wechselnd bewölkt, 7 °C bei der Tageskontrolle",,,2028/BTB_2028-02.docx
+66,2028-02-04,Freitag,,,0,"trocken, 3 °C bei der Tageskontrolle",,,2028/BTB_2028-02.docx
+67,2028-02-05,Samstag,,Samstagsruhe,0,"bedeckt, 6 °C bei der Tageskontrolle",,,2028/BTB_2028-02.docx
+68,2028-02-06,Sonntag,,Sonntagsruhe,0,"trocken, 9 °C bei der Tageskontrolle",,,2028/BTB_2028-02.docx
+69,2028-02-07,Montag,,,3,trocken 7°C,NT01,,2028/BTB_2028-02.docx
+70,2028-02-08,Dienstag,,,3,"trocken, 8 °C bei der Tageskontrolle",NT01,LB-006,2028/BTB_2028-02.docx
+71,2028-02-09,Mittwoch,,,3,"leichter Regen, 4 °C bei der Tageskontrolle",NT01,LB-007,2028/BTB_2028-02.docx
+72,2028-02-10,Donnerstag,,,3,"wechselnd bewölkt, 7 °C bei der Tageskontrolle",NT01,,2028/BTB_2028-02.docx
+73,2028-02-11,Freitag,,,3,trocken 8°C,NT01,,2028/BTB_2028-02.docx
+74,2028-02-12,Samstag,,Samstagsruhe,0,"bedeckt, 6 °C bei der Tageskontrolle",,,2028/BTB_2028-02.docx
+75,2028-02-13,Sonntag,,Sonntagsruhe,0,"trocken, 9 °C bei der Tageskontrolle",,,2028/BTB_2028-02.docx
+76,2028-02-14,Montag,,,6,"bedeckt, 5 °C bei der Tageskontrolle",T007,LB-008,2028/BTB_2028-02.docx
+77,2028-02-15,Dienstag,,,0,"trocken, 8 °C bei der Tageskontrolle",,,2028/BTB_2028-02.docx
+78,2028-02-16,Mittwoch,,,0,"leichter Regen, 4 °C bei der Tageskontrolle",,,2028/BTB_2028-02.docx
+79,2028-02-17,Donnerstag,,,0,"wechselnd bewölkt, 7 °C bei der Tageskontrolle",,,2028/BTB_2028-02.docx
+80,2028-02-18,Freitag,,,6,"trocken, 3 °C bei der Tageskontrolle",T007,LB-009,2028/BTB_2028-02.docx
+81,2028-02-19,Samstag,,Samstagsruhe,0,"bedeckt, 6 °C bei der Tageskontrolle",,,2028/BTB_2028-02.docx
+82,2028-02-20,Sonntag,,Sonntagsruhe,0,"trocken, 9 °C bei der Tageskontrolle",,,2028/BTB_2028-02.docx
+83,2028-02-21,Montag,,,8,bedeckt 8°C,T008,,2028/BTB_2028-02.docx
+84,2028-02-22,Dienstag,,,6,"trocken, 8 °C bei der Tageskontrolle",T008,,2028/BTB_2028-02.docx
+85,2028-02-23,Mittwoch,,,6,"leichter Regen, 4 °C bei der Tageskontrolle",T008,,2028/BTB_2028-02.docx
+86,2028-02-24,Donnerstag,,,6,"wechselnd bewölkt, 7 °C bei der Tageskontrolle",T008,,2028/BTB_2028-02.docx
+87,2028-02-25,Freitag,,,6,"trocken, 3 °C bei der Tageskontrolle",T008,,2028/BTB_2028-02.docx
+88,2028-02-26,Samstag,,Samstagsruhe,0,"bedeckt, 6 °C bei der Tageskontrolle",,,2028/BTB_2028-02.docx
+89,2028-02-27,Sonntag,,Sonntagsruhe,0,"trocken, 9 °C bei der Tageskontrolle",,,2028/BTB_2028-02.docx
+90,2028-02-28,Montag,,,6,"bedeckt, 5 °C bei der Tageskontrolle",T008,,2028/BTB_2028-02.docx
+91,2028-02-29,Dienstag,,,6,"trocken, 8 °C bei der Tageskontrolle",T008,,2028/BTB_2028-02.docx
+92,2028-03-01,Mittwoch,,,6,"leichter Regen, 13 °C bei der Tageskontrolle",T008,,2028/BTB_2028-03.docx
+93,2028-03-02,Donnerstag,,,6,"wechselnd bewölkt, 9 °C bei der Tageskontrolle",T008,,2028/BTB_2028-03.docx
+94,2028-03-03,Freitag,,,6,"trocken, 12 °C bei der Tageskontrolle",T008,,2028/BTB_2028-03.docx
+95,2028-03-04,Samstag,,Samstagsruhe,0,"bedeckt, 8 °C bei der Tageskontrolle",,,2028/BTB_2028-03.docx
+96,2028-03-05,Sonntag,,Sonntagsruhe,0,"trocken, 11 °C bei der Tageskontrolle",,,2028/BTB_2028-03.docx
+97,2028-03-06,Montag,,,6,"bedeckt, 7 °C bei der Tageskontrolle",T009,,2028/BTB_2028-03.docx
+98,2028-03-07,Dienstag,,,6,"trocken, 10 °C bei der Tageskontrolle",T009,,2028/BTB_2028-03.docx
+99,2028-03-08,Mittwoch,,,6,"leichter Regen, 13 °C bei der Tageskontrolle",T009,,2028/BTB_2028-03.docx
+100,2028-03-09,Donnerstag,,,8,trocken 10°C,T010,LB-010,2028/BTB_2028-03.docx
+101,2028-03-10,Freitag,,,6,"trocken, 12 °C bei der Tageskontrolle",T011,,2028/BTB_2028-03.docx
+102,2028-03-11,Samstag,,Samstagsruhe,0,"bedeckt, 8 °C bei der Tageskontrolle",,,2028/BTB_2028-03.docx
+103,2028-03-12,Sonntag,,Sonntagsruhe,0,"trocken, 11 °C bei der Tageskontrolle",,,2028/BTB_2028-03.docx
+104,2028-03-13,Montag,,,6,"bedeckt, 7 °C bei der Tageskontrolle",T011,,2028/BTB_2028-03.docx
+105,2028-03-14,Dienstag,,,6,"trocken, 10 °C bei der Tageskontrolle",T011,,2028/BTB_2028-03.docx
+106,2028-03-15,Mittwoch,,,6,"leichter Regen, 13 °C bei der Tageskontrolle",T011,,2028/BTB_2028-03.docx
+107,2028-03-16,Donnerstag,,,6,"wechselnd bewölkt, 9 °C bei der Tageskontrolle",T011,,2028/BTB_2028-03.docx
+108,2028-03-17,Freitag,,,6,"trocken, 12 °C bei der Tageskontrolle",T011,,2028/BTB_2028-03.docx
+109,2028-03-18,Samstag,,Samstagsruhe,0,"bedeckt, 8 °C bei der Tageskontrolle",,,2028/BTB_2028-03.docx
+110,2028-03-19,Sonntag,,Sonntagsruhe,0,"trocken, 11 °C bei der Tageskontrolle",,,2028/BTB_2028-03.docx
+111,2028-03-20,Montag,,,6,"bedeckt, 7 °C bei der Tageskontrolle",T012,,2028/BTB_2028-03.docx
+112,2028-03-21,Dienstag,,,6,"trocken, 10 °C bei der Tageskontrolle",T012,,2028/BTB_2028-03.docx
+113,2028-03-22,Mittwoch,,,6,"leichter Regen, 13 °C bei der Tageskontrolle",T012,,2028/BTB_2028-03.docx
+114,2028-03-23,Donnerstag,,,8,bedeckt 9°C,T012,,2028/BTB_2028-03.docx
+115,2028-03-24,Freitag,,,6,"trocken, 12 °C bei der Tageskontrolle",T012,,2028/BTB_2028-03.docx
+116,2028-03-25,Samstag,,Samstagsruhe,0,"bedeckt, 8 °C bei der Tageskontrolle",,,2028/BTB_2028-03.docx
+117,2028-03-26,Sonntag,,Sonntagsruhe,0,"trocken, 11 °C bei der Tageskontrolle",,,2028/BTB_2028-03.docx
+118,2028-03-27,Montag,,,6,"bedeckt, 7 °C bei der Tageskontrolle",T012,,2028/BTB_2028-03.docx
+119,2028-03-28,Dienstag,,,6,"trocken, 10 °C bei der Tageskontrolle",T012,,2028/BTB_2028-03.docx
+120,2028-03-29,Mittwoch,,,6,"leichter Regen, 13 °C bei der Tageskontrolle",T013,LB-011,2028/BTB_2028-03.docx
+121,2028-03-30,Donnerstag,,,0,"wechselnd bewölkt, 9 °C bei der Tageskontrolle",,,2028/BTB_2028-03.docx
+122,2028-03-31,Freitag,,,0,"trocken, 12 °C bei der Tageskontrolle",,,2028/BTB_2028-03.docx
+123,2028-04-01,Samstag,,Samstagsruhe,0,"bedeckt, 10 °C bei der Tageskontrolle",,,2028/BTB_2028-04.docx
+124,2028-04-02,Sonntag,,Sonntagsruhe,0,"trocken, 13 °C bei der Tageskontrolle",,,2028/BTB_2028-04.docx
+125,2028-04-03,Montag,,,10,trocken 12°C,T014; T017,LB-013,2028/BTB_2028-04.docx
+126,2028-04-04,Dienstag,,,10,"trocken, 12 °C bei der Tageskontrolle",T014; T017,,2028/BTB_2028-04.docx
+127,2028-04-05,Mittwoch,,,10,"leichter Regen, 15 °C bei der Tageskontrolle",T014; T017,,2028/BTB_2028-04.docx
+128,2028-04-06,Donnerstag,,,10,"wechselnd bewölkt, 11 °C bei der Tageskontrolle",T014; T017,,2028/BTB_2028-04.docx
+129,2028-04-07,Freitag,,,10,"trocken, 14 °C bei der Tageskontrolle",T014; T017,,2028/BTB_2028-04.docx
+130,2028-04-08,Samstag,,Samstagsruhe,0,"bedeckt, 10 °C bei der Tageskontrolle",,,2028/BTB_2028-04.docx
+131,2028-04-09,Sonntag,,Sonntagsruhe,0,"trocken, 13 °C bei der Tageskontrolle",,,2028/BTB_2028-04.docx
+132,2028-04-10,Montag,,,16,"bedeckt, 16 °C bei der Tageskontrolle",T014; T019; T022; T026,LB-015,2028/BTB_2028-04.docx
+133,2028-04-11,Dienstag,,,16,"trocken, 12 °C bei der Tageskontrolle",T014; T019; T022; T026,,2028/BTB_2028-04.docx
+134,2028-04-12,Mittwoch,,,16,"leichter Regen, 15 °C bei der Tageskontrolle",T014; T019; T022; T026,,2028/BTB_2028-04.docx
+135,2028-04-13,Donnerstag,,,16,"wechselnd bewölkt, 11 °C bei der Tageskontrolle",T014; T019; T022; T026,,2028/BTB_2028-04.docx
+136,2028-04-14,Freitag,Karfreitag,Karfreitag,0,"trocken, 14 °C bei der Tageskontrolle",,,2028/BTB_2028-04.docx
+137,2028-04-15,Samstag,,Samstagsruhe,0,"bedeckt, 10 °C bei der Tageskontrolle",,,2028/BTB_2028-04.docx
+138,2028-04-16,Sonntag,,Sonntagsruhe,0,"trocken, 13 °C bei der Tageskontrolle",,,2028/BTB_2028-04.docx
+139,2028-04-17,Montag,Ostermontag,Ostermontag,0,"bedeckt, 16 °C bei der Tageskontrolle",,,2028/BTB_2028-04.docx
+140,2028-04-18,Dienstag,,,16,"trocken, 12 °C bei der Tageskontrolle",T015; T019; T022; T026,LB-012,2028/BTB_2028-04.docx
+141,2028-04-19,Mittwoch,,,10,"leichter Regen, 15 °C bei der Tageskontrolle",T019; T022; T026,,2028/BTB_2028-04.docx
+142,2028-04-20,Donnerstag,,,10,"wechselnd bewölkt, 11 °C bei der Tageskontrolle",T019; T022; T026,,2028/BTB_2028-04.docx
+143,2028-04-21,Freitag,,,10,"trocken, 14 °C bei der Tageskontrolle",T019; T022; T026,,2028/BTB_2028-04.docx
+144,2028-04-22,Samstag,,Samstagsruhe,0,"bedeckt, 10 °C bei der Tageskontrolle",,,2028/BTB_2028-04.docx
+145,2028-04-23,Sonntag,,Sonntagsruhe,0,"trocken, 13 °C bei der Tageskontrolle",,,2028/BTB_2028-04.docx
+146,2028-04-24,Montag,,,16,"bedeckt, 16 °C bei der Tageskontrolle",T016; T018; T019; T022; T026,LB-014; LB-016,2028/BTB_2028-04.docx
+147,2028-04-25,Dienstag,,,16,"trocken, 12 °C bei der Tageskontrolle",T016; T018; T019; T022; T026,,2028/BTB_2028-04.docx
+148,2028-04-26,Mittwoch,,,16,"leichter Regen, 15 °C bei der Tageskontrolle",T016; T018; T019; T022; T026,,2028/BTB_2028-04.docx
+149,2028-04-27,Donnerstag,,,16,"wechselnd bewölkt, 11 °C bei der Tageskontrolle",T016; T018; T019; T022; T026,,2028/BTB_2028-04.docx
+150,2028-04-28,Freitag,,,18,trocken 16°C,T016; T018; T019; T022; T026,,2028/BTB_2028-04.docx
+151,2028-04-29,Samstag,,Samstagsruhe,0,"bedeckt, 10 °C bei der Tageskontrolle",,,2028/BTB_2028-04.docx
+152,2028-04-30,Sonntag,,Sonntagsruhe,0,"trocken, 13 °C bei der Tageskontrolle",,,2028/BTB_2028-04.docx
+153,2028-05-01,Montag,Tag der Arbeit,Tag der Arbeit,0,"bedeckt, 15 °C bei der Tageskontrolle",,,2028/BTB_2028-05.docx
+154,2028-05-02,Dienstag,,,10,"trocken, 18 °C bei der Tageskontrolle",T018; T019; T023; T026,LB-018,2028/BTB_2028-05.docx
+155,2028-05-03,Mittwoch,,,10,"leichter Regen, 14 °C bei der Tageskontrolle",T018; T019; T023; T026,,2028/BTB_2028-05.docx
+156,2028-05-04,Donnerstag,,,10,"wechselnd bewölkt, 17 °C bei der Tageskontrolle",T018; T019; T023; T026,,2028/BTB_2028-05.docx
+157,2028-05-05,Freitag,,,10,"trocken, 20 °C bei der Tageskontrolle",T018; T019; T023; T026,,2028/BTB_2028-05.docx
+158,2028-05-06,Samstag,,Samstagsruhe,0,"bedeckt, 16 °C bei der Tageskontrolle",,,2028/BTB_2028-05.docx
+159,2028-05-07,Sonntag,,Sonntagsruhe,0,"trocken, 19 °C bei der Tageskontrolle",,,2028/BTB_2028-05.docx
+160,2028-05-08,Montag,,,10,"bedeckt, 15 °C bei der Tageskontrolle",T019; T023; T026,LB-017,2028/BTB_2028-05.docx
+161,2028-05-09,Dienstag,,,10,"trocken, 18 °C bei der Tageskontrolle",T019; T023; T026,,2028/BTB_2028-05.docx
+162,2028-05-10,Mittwoch,,,10,"leichter Regen, 14 °C bei der Tageskontrolle",T019; T023; T026,,2028/BTB_2028-05.docx
+163,2028-05-11,Donnerstag,,,10,"wechselnd bewölkt, 17 °C bei der Tageskontrolle",T019; T023; T026,,2028/BTB_2028-05.docx
+164,2028-05-12,Freitag,,,11,Regen 14°C,T019; T023; T026,,2028/BTB_2028-05.docx
+165,2028-05-13,Samstag,,Samstagsruhe,0,"bedeckt, 16 °C bei der Tageskontrolle",,,2028/BTB_2028-05.docx
+166,2028-05-14,Sonntag,,Sonntagsruhe,0,"trocken, 19 °C bei der Tageskontrolle",,,2028/BTB_2028-05.docx
+167,2028-05-15,Montag,,,10,"bedeckt, 15 °C bei der Tageskontrolle",T020; T023; T027,,2028/BTB_2028-05.docx
+168,2028-05-16,Dienstag,,,10,"trocken, 18 °C bei der Tageskontrolle",T020; T023; T027,,2028/BTB_2028-05.docx
+169,2028-05-17,Mittwoch,,,10,"leichter Regen, 14 °C bei der Tageskontrolle",T020; T023; T027,,2028/BTB_2028-05.docx
+170,2028-05-18,Donnerstag,,,10,"wechselnd bewölkt, 17 °C bei der Tageskontrolle",T020; T023; T027,,2028/BTB_2028-05.docx
+171,2028-05-19,Freitag,,,10,"trocken, 20 °C bei der Tageskontrolle",T020; T023; T027,,2028/BTB_2028-05.docx
+172,2028-05-20,Samstag,,Samstagsruhe,0,"bedeckt, 16 °C bei der Tageskontrolle",,,2028/BTB_2028-05.docx
+173,2028-05-21,Sonntag,,Sonntagsruhe,0,"trocken, 19 °C bei der Tageskontrolle",,,2028/BTB_2028-05.docx
+174,2028-05-22,Montag,,,10,"bedeckt, 15 °C bei der Tageskontrolle",T020; T023; T027,,2028/BTB_2028-05.docx
+175,2028-05-23,Dienstag,,,10,"trocken, 18 °C bei der Tageskontrolle",T020; T023; T027,,2028/BTB_2028-05.docx
+176,2028-05-24,Mittwoch,,,10,"leichter Regen, 14 °C bei der Tageskontrolle",T020; T023; T027,,2028/BTB_2028-05.docx
+177,2028-05-25,Donnerstag,Christi Himmelfahrt,Christi Himmelfahrt,0,"wechselnd bewölkt, 17 °C bei der Tageskontrolle",,,2028/BTB_2028-05.docx
+178,2028-05-26,Freitag,,,10,"trocken, 20 °C bei der Tageskontrolle",T020; T023; T027,,2028/BTB_2028-05.docx
+179,2028-05-27,Samstag,,Samstagsruhe,0,"bedeckt, 16 °C bei der Tageskontrolle",,,2028/BTB_2028-05.docx
+180,2028-05-28,Sonntag,,Sonntagsruhe,0,"trocken, 19 °C bei der Tageskontrolle",,,2028/BTB_2028-05.docx
+181,2028-05-29,Montag,,,10,"bedeckt, 15 °C bei der Tageskontrolle",T020; T024; T027,,2028/BTB_2028-05.docx
+182,2028-05-30,Dienstag,,,10,"trocken, 18 °C bei der Tageskontrolle",T020; T024; T027,,2028/BTB_2028-05.docx
+183,2028-05-31,Mittwoch,,,10,"leichter Regen, 14 °C bei der Tageskontrolle",T020; T024; T027,,2028/BTB_2028-05.docx
+184,2028-06-01,Donnerstag,,,10,"wechselnd bewölkt, 19 °C bei der Tageskontrolle",T020; T024; T027,,2028/BTB_2028-06.docx
+185,2028-06-02,Freitag,,,10,"trocken, 22 °C bei der Tageskontrolle",T020; T024; T027,,2028/BTB_2028-06.docx
+186,2028-06-03,Samstag,,Samstagsruhe,0,"bedeckt, 18 °C bei der Tageskontrolle",,,2028/BTB_2028-06.docx
+187,2028-06-04,Sonntag,,Sonntagsruhe,0,"trocken, 21 °C bei der Tageskontrolle",,,2028/BTB_2028-06.docx
+188,2028-06-05,Montag,Pfingstmontag,Pfingstmontag,0,trocken 20°C,,,2028/BTB_2028-06.docx
+189,2028-06-06,Dienstag,,,12,"trocken, 20 °C bei der Tageskontrolle",T020; T024; T027; T029,,2028/BTB_2028-06.docx
+190,2028-06-07,Mittwoch,,,15,"leichter Regen, 23 °C bei der Tageskontrolle",T020; T024; T027; T029,,2028/BTB_2028-06.docx
+191,2028-06-08,Donnerstag,,,15,"wechselnd bewölkt, 19 °C bei der Tageskontrolle",T020; T024; T027; T029,,2028/BTB_2028-06.docx
+192,2028-06-09,Freitag,,,15,"trocken, 22 °C bei der Tageskontrolle",T020; T024; T027; T029,,2028/BTB_2028-06.docx
+193,2028-06-10,Samstag,,Samstagsruhe,0,"bedeckt, 18 °C bei der Tageskontrolle",,,2028/BTB_2028-06.docx
+194,2028-06-11,Sonntag,,Sonntagsruhe,0,"trocken, 21 °C bei der Tageskontrolle",,,2028/BTB_2028-06.docx
+195,2028-06-12,Montag,,,15,"bedeckt, 17 °C bei der Tageskontrolle",T021; T024; T027; T029,,2028/BTB_2028-06.docx
+196,2028-06-13,Dienstag,,,15,"trocken, 20 °C bei der Tageskontrolle",T021; T024; T027; T029,,2028/BTB_2028-06.docx
+197,2028-06-14,Mittwoch,,,15,"leichter Regen, 23 °C bei der Tageskontrolle",T021; T024; T027; T029,,2028/BTB_2028-06.docx
+198,2028-06-15,Donnerstag,,,15,"wechselnd bewölkt, 19 °C bei der Tageskontrolle",T021; T024; T027; T029,,2028/BTB_2028-06.docx
+199,2028-06-16,Freitag,,,17,trocken 22°C,T021; T024; T027; T029,,2028/BTB_2028-06.docx
+200,2028-06-17,Samstag,,Samstagsruhe,0,"bedeckt, 18 °C bei der Tageskontrolle",,,2028/BTB_2028-06.docx
+201,2028-06-18,Sonntag,,Sonntagsruhe,0,"trocken, 21 °C bei der Tageskontrolle",,,2028/BTB_2028-06.docx
+202,2028-06-19,Montag,,,11,"bedeckt, 17 °C bei der Tageskontrolle",T025; T028; T030,LB-019; LB-020,2028/BTB_2028-06.docx
+203,2028-06-20,Dienstag,,,11,"trocken, 20 °C bei der Tageskontrolle",T025; T028; T030,,2028/BTB_2028-06.docx
+204,2028-06-21,Mittwoch,,,11,"leichter Regen, 23 °C bei der Tageskontrolle",T025; T028; T030,,2028/BTB_2028-06.docx
+205,2028-06-22,Donnerstag,,,11,"wechselnd bewölkt, 19 °C bei der Tageskontrolle",T025; T028; T030,,2028/BTB_2028-06.docx
+206,2028-06-23,Freitag,,,11,"trocken, 22 °C bei der Tageskontrolle",T025; T028; T030,,2028/BTB_2028-06.docx
+207,2028-06-24,Samstag,,Samstagsruhe,0,"bedeckt, 18 °C bei der Tageskontrolle",,,2028/BTB_2028-06.docx
+208,2028-06-25,Sonntag,,Sonntagsruhe,0,"trocken, 21 °C bei der Tageskontrolle",,,2028/BTB_2028-06.docx
+209,2028-06-26,Montag,,,11,"bedeckt, 17 °C bei der Tageskontrolle",T025; T028; T030,,2028/BTB_2028-06.docx
+210,2028-06-27,Dienstag,,,11,"trocken, 20 °C bei der Tageskontrolle",T025; T028; T030,,2028/BTB_2028-06.docx
+211,2028-06-28,Mittwoch,,,11,"leichter Regen, 23 °C bei der Tageskontrolle",T025; T028; T030,,2028/BTB_2028-06.docx
+212,2028-06-29,Donnerstag,,,11,"wechselnd bewölkt, 19 °C bei der Tageskontrolle",T025; T028; T030,,2028/BTB_2028-06.docx
+213,2028-06-30,Freitag,,,15,bedeckt 19°C,T025; T028; T030,,2028/BTB_2028-06.docx
+214,2028-07-01,Samstag,,Samstagsruhe,0,"bedeckt, 23 °C bei der Tageskontrolle",,,2028/BTB_2028-07.docx
+215,2028-07-02,Sonntag,,Sonntagsruhe,0,"trocken, 26 °C bei der Tageskontrolle",,,2028/BTB_2028-07.docx
+216,2028-07-03,Montag,,,7,"bedeckt, 22 °C bei der Tageskontrolle",T031; T036,LB-021; LB-022,2028/BTB_2028-07.docx
+217,2028-07-04,Dienstag,,,7,"trocken, 25 °C bei der Tageskontrolle",T031; T036,,2028/BTB_2028-07.docx
+218,2028-07-05,Mittwoch,,,7,"leichter Regen, 21 °C bei der Tageskontrolle",T031; T036,,2028/BTB_2028-07.docx
+219,2028-07-06,Donnerstag,,,7,"wechselnd bewölkt, 24 °C bei der Tageskontrolle",T031; T036,,2028/BTB_2028-07.docx
+220,2028-07-07,Freitag,,,7,"trocken, 20 °C bei der Tageskontrolle",T031; T036,,2028/BTB_2028-07.docx
+221,2028-07-08,Samstag,,Samstagsruhe,0,"bedeckt, 23 °C bei der Tageskontrolle",,,2028/BTB_2028-07.docx
+222,2028-07-09,Sonntag,,Sonntagsruhe,0,"trocken, 26 °C bei der Tageskontrolle",,,2028/BTB_2028-07.docx
+223,2028-07-10,Montag,,,7,"bedeckt, 22 °C bei der Tageskontrolle",T032; T036,,2028/BTB_2028-07.docx
+224,2028-07-11,Dienstag,,,7,"trocken, 25 °C bei der Tageskontrolle",T032; T036,,2028/BTB_2028-07.docx
+225,2028-07-12,Mittwoch,,,7,"leichter Regen, 21 °C bei der Tageskontrolle",T032; T036,,2028/BTB_2028-07.docx
+226,2028-07-13,Donnerstag,,,7,"wechselnd bewölkt, 24 °C bei der Tageskontrolle",T032; T036,,2028/BTB_2028-07.docx
+227,2028-07-14,Freitag,,,7,"trocken, 20 °C bei der Tageskontrolle",T032; T036,,2028/BTB_2028-07.docx
+228,2028-07-15,Samstag,,Samstagsruhe,0,"bedeckt, 23 °C bei der Tageskontrolle",,,2028/BTB_2028-07.docx
+229,2028-07-16,Sonntag,,Sonntagsruhe,0,"trocken, 26 °C bei der Tageskontrolle",,,2028/BTB_2028-07.docx
+230,2028-07-17,Montag,,,10,trocken 24°C,T032; T037; T039,LB-023; LB-024,2028/BTB_2028-07.docx
+231,2028-07-18,Dienstag,,,10,"trocken, 25 °C bei der Tageskontrolle",T032; T037; T039,,2028/BTB_2028-07.docx
+232,2028-07-19,Mittwoch,,,10,"leichter Regen, 21 °C bei der Tageskontrolle",T032; T037; T039,,2028/BTB_2028-07.docx
+233,2028-07-20,Donnerstag,,,10,"wechselnd bewölkt, 24 °C bei der Tageskontrolle",T032; T037; T039,,2028/BTB_2028-07.docx
+234,2028-07-21,Freitag,,,10,"trocken, 20 °C bei der Tageskontrolle",T032; T037; T039,,2028/BTB_2028-07.docx
+235,2028-07-22,Samstag,,Samstagsruhe,0,"bedeckt, 23 °C bei der Tageskontrolle",,,2028/BTB_2028-07.docx
+236,2028-07-23,Sonntag,,Sonntagsruhe,0,"trocken, 26 °C bei der Tageskontrolle",,,2028/BTB_2028-07.docx
+237,2028-07-24,Montag,,,10,"bedeckt, 22 °C bei der Tageskontrolle",T032; T037; T039,,2028/BTB_2028-07.docx
+238,2028-07-25,Dienstag,,,10,"trocken, 25 °C bei der Tageskontrolle",T032; T037; T039,,2028/BTB_2028-07.docx
+239,2028-07-26,Mittwoch,,,10,"leichter Regen, 21 °C bei der Tageskontrolle",T032; T037; T039,,2028/BTB_2028-07.docx
+240,2028-07-27,Donnerstag,,,10,"wechselnd bewölkt, 24 °C bei der Tageskontrolle",T032; T037; T039,,2028/BTB_2028-07.docx
+241,2028-07-28,Freitag,,,10,"trocken, 20 °C bei der Tageskontrolle",T032; T037; T039,,2028/BTB_2028-07.docx
+242,2028-07-29,Samstag,,Samstagsruhe,0,"bedeckt, 23 °C bei der Tageskontrolle",,,2028/BTB_2028-07.docx
+243,2028-07-30,Sonntag,,Sonntagsruhe,0,"trocken, 26 °C bei der Tageskontrolle",,,2028/BTB_2028-07.docx
+244,2028-07-31,Montag,,,10,"bedeckt, 22 °C bei der Tageskontrolle",T033; T037; T040,LB-025,2028/BTB_2028-07.docx
+245,2028-08-01,Dienstag,,,10,"trocken, 23 °C bei der Tageskontrolle",T033; T037; T040,,2028/BTB_2028-08.docx
+246,2028-08-02,Mittwoch,,,10,"leichter Regen, 19 °C bei der Tageskontrolle",T033; T037; T040,,2028/BTB_2028-08.docx
+247,2028-08-03,Donnerstag,,,10,"wechselnd bewölkt, 22 °C bei der Tageskontrolle",T033; T037; T040,,2028/BTB_2028-08.docx
+248,2028-08-04,Freitag,,,10,"trocken, 25 °C bei der Tageskontrolle",T033; T037; T040,,2028/BTB_2028-08.docx
+249,2028-08-05,Samstag,,Samstagsruhe,0,"bedeckt, 21 °C bei der Tageskontrolle",,,2028/BTB_2028-08.docx
+250,2028-08-06,Sonntag,,Sonntagsruhe,0,"trocken, 24 °C bei der Tageskontrolle",,,2028/BTB_2028-08.docx
+251,2028-08-07,Montag,,,10,"bedeckt, 20 °C bei der Tageskontrolle",T033; T038; T040,,2028/BTB_2028-08.docx
+252,2028-08-08,Dienstag,,,10,"trocken, 23 °C bei der Tageskontrolle",T033; T038; T040,,2028/BTB_2028-08.docx
+253,2028-08-09,Mittwoch,,,10,"leichter Regen, 19 °C bei der Tageskontrolle",T033; T038; T040,,2028/BTB_2028-08.docx
+254,2028-08-10,Donnerstag,,,12,trocken 23°C,T033; T038; T040,,2028/BTB_2028-08.docx
+255,2028-08-11,Freitag,,,10,"trocken, 25 °C bei der Tageskontrolle",T033; T038; T040,,2028/BTB_2028-08.docx
+256,2028-08-12,Samstag,,Samstagsruhe,0,"bedeckt, 21 °C bei der Tageskontrolle",,,2028/BTB_2028-08.docx
+257,2028-08-13,Sonntag,,Sonntagsruhe,0,"trocken, 24 °C bei der Tageskontrolle",,,2028/BTB_2028-08.docx
+258,2028-08-14,Montag,,,16,"bedeckt, 20 °C bei der Tageskontrolle",T034; T038; T041; T043; T044,LB-026; LB-027,2028/BTB_2028-08.docx
+259,2028-08-15,Dienstag,,,16,"trocken, 23 °C bei der Tageskontrolle",T034; T038; T041; T043; T044,,2028/BTB_2028-08.docx
+260,2028-08-16,Mittwoch,,,16,"leichter Regen, 19 °C bei der Tageskontrolle",T034; T038; T041; T043; T044,,2028/BTB_2028-08.docx
+261,2028-08-17,Donnerstag,,,16,"wechselnd bewölkt, 22 °C bei der Tageskontrolle",T034; T038; T041; T043; T044,,2028/BTB_2028-08.docx
+262,2028-08-18,Freitag,,,16,"trocken, 25 °C bei der Tageskontrolle",T034; T038; T041; T043; T044,,2028/BTB_2028-08.docx
+263,2028-08-19,Samstag,,Samstagsruhe,0,"bedeckt, 21 °C bei der Tageskontrolle",,,2028/BTB_2028-08.docx
+264,2028-08-20,Sonntag,,Sonntagsruhe,0,"trocken, 24 °C bei der Tageskontrolle",,,2028/BTB_2028-08.docx
+265,2028-08-21,Montag,,,16,"bedeckt, 20 °C bei der Tageskontrolle",T034; T035; T038; T041; T043; T044,,2028/BTB_2028-08.docx
+266,2028-08-22,Dienstag,,,16,"trocken, 23 °C bei der Tageskontrolle",T034; T035; T038; T041; T043; T044,,2028/BTB_2028-08.docx
+267,2028-08-23,Mittwoch,,,16,"leichter Regen, 19 °C bei der Tageskontrolle",T034; T035; T038; T041; T043; T044,,2028/BTB_2028-08.docx
+268,2028-08-24,Donnerstag,,,16,"wechselnd bewölkt, 22 °C bei der Tageskontrolle",T034; T035; T038; T041; T043; T044,,2028/BTB_2028-08.docx
+269,2028-08-25,Freitag,,,19,trocken 21°C,T034; T035; T038; T041; T043; T044,,2028/BTB_2028-08.docx
+270,2028-08-26,Samstag,,Samstagsruhe,0,"bedeckt, 21 °C bei der Tageskontrolle",,,2028/BTB_2028-08.docx
+271,2028-08-27,Sonntag,,Sonntagsruhe,0,"trocken, 24 °C bei der Tageskontrolle",,,2028/BTB_2028-08.docx
+272,2028-08-28,Montag,,,11,"bedeckt, 20 °C bei der Tageskontrolle",T035; T042; T045,LB-028,2028/BTB_2028-08.docx
+273,2028-08-29,Dienstag,,,11,"trocken, 23 °C bei der Tageskontrolle",T035; T042; T045,,2028/BTB_2028-08.docx
+274,2028-08-30,Mittwoch,,,11,"leichter Regen, 19 °C bei der Tageskontrolle",T035; T042; T045,,2028/BTB_2028-08.docx
+275,2028-08-31,Donnerstag,,,11,"wechselnd bewölkt, 22 °C bei der Tageskontrolle",T035; T042; T045,,2028/BTB_2028-08.docx
+276,2028-09-01,Freitag,,,6,"trocken, 20 °C bei der Tageskontrolle",T042; T045,,2028/BTB_2028-09.docx
+277,2028-09-02,Samstag,,Samstagsruhe,0,"bedeckt, 16 °C bei der Tageskontrolle",,,2028/BTB_2028-09.docx
+278,2028-09-03,Sonntag,,Sonntagsruhe,0,"trocken, 19 °C bei der Tageskontrolle",,,2028/BTB_2028-09.docx
+279,2028-09-04,Montag,,,9,"bedeckt, 15 °C bei der Tageskontrolle",T042; T051; T052,,2028/BTB_2028-09.docx
+280,2028-09-05,Dienstag,,,9,"trocken, 18 °C bei der Tageskontrolle",T042; T051; T052,,2028/BTB_2028-09.docx
+281,2028-09-06,Mittwoch,,,9,"leichter Regen, 21 °C bei der Tageskontrolle",T042; T046; T052,,2028/BTB_2028-09.docx
+282,2028-09-07,Donnerstag,,,9,"wechselnd bewölkt, 17 °C bei der Tageskontrolle",T042; T047; T053,,2028/BTB_2028-09.docx
+283,2028-09-08,Freitag,,,9,trocken 18°C,T042; T054; T055,,2028/BTB_2028-09.docx
+284,2028-09-09,Samstag,,Samstagsruhe,0,"bedeckt, 16 °C bei der Tageskontrolle",,,2028/BTB_2028-09.docx
+285,2028-09-10,Sonntag,,Sonntagsruhe,0,bedeckt 17°C,,,2028/BTB_2028-09.docx
+286,2028-09-11,Montag,,,9,"bedeckt, 15 °C bei der Tageskontrolle",T048; T049,,2028/BTB_2028-09.docx
+287,2028-09-12,Dienstag,,,9,"trocken, 18 °C bei der Tageskontrolle",T048; T049,,2028/BTB_2028-09.docx
+288,2028-09-13,Mittwoch,,,9,"leichter Regen, 21 °C bei der Tageskontrolle",T048; T049,,2028/BTB_2028-09.docx
+289,2028-09-14,Donnerstag,,,4,trocken 19°C,T048; T049,,2028/BTB_2028-09.docx
+290,2028-09-15,Freitag,,,0,trocken 18°C,,,2028/BTB_2028-09.docx
+291,2028-09-16,Samstag,,Samstagsruhe,0,"bedeckt, 16 °C bei der Tageskontrolle",,,2028/BTB_2028-09.docx
+292,2028-09-17,Sonntag,,Sonntagsruhe,0,"trocken, 19 °C bei der Tageskontrolle",,,2028/BTB_2028-09.docx
+293,2028-09-18,Montag,,,5,"bedeckt, 15 °C bei der Tageskontrolle",T050,,2028/BTB_2028-09.docx
+294,2028-09-19,Dienstag,,,5,"trocken, 18 °C bei der Tageskontrolle",T050,,2028/BTB_2028-09.docx
+295,2028-09-20,Mittwoch,,,5,"leichter Regen, 21 °C bei der Tageskontrolle",T050,,2028/BTB_2028-09.docx
+296,2028-09-21,Donnerstag,,,5,"wechselnd bewölkt, 17 °C bei der Tageskontrolle",T050,,2028/BTB_2028-09.docx
+297,2028-09-22,Freitag,,,5,"trocken, 20 °C bei der Tageskontrolle",T050,,2028/BTB_2028-09.docx
+298,2028-09-23,Samstag,,Samstagsruhe,0,"bedeckt, 16 °C bei der Tageskontrolle",,,2028/BTB_2028-09.docx
+299,2028-09-24,Sonntag,,Sonntagsruhe,0,"trocken, 19 °C bei der Tageskontrolle",,,2028/BTB_2028-09.docx
+300,2028-09-25,Montag,,,2,"bedeckt, 15 °C bei der Tageskontrolle",,,2028/BTB_2028-09.docx
+301,2028-09-26,Dienstag,,,2,"trocken, 18 °C bei der Tageskontrolle",,,2028/BTB_2028-09.docx
+302,2028-09-27,Mittwoch,,,2,"leichter Regen, 21 °C bei der Tageskontrolle",,,2028/BTB_2028-09.docx
+303,2028-09-28,Donnerstag,,,2,"wechselnd bewölkt, 17 °C bei der Tageskontrolle",,,2028/BTB_2028-09.docx
+304,2028-09-29,Freitag,,,2,"trocken, 20 °C bei der Tageskontrolle",,,2028/BTB_2028-09.docx

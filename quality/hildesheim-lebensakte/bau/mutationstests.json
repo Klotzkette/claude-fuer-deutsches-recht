@@ -1,0 +1,18 @@
+[
+  {
+    "mutation": "Ruhetag mit falschem Fensterstand",
+    "rejected": true
+  },
+  {
+    "mutation": "Nachtragstag ohne Personal",
+    "rejected": true
+  },
+  {
+    "mutation": "Fenstereinbau vor dritter Lieferung",
+    "rejected": true
+  },
+  {
+    "mutation": "Nachtragsstunden doppelt",
+    "rejected": true
+  }
+]

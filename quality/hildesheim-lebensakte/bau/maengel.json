@@ -1,0 +1,134 @@
+[
+  {
+    "id": "M-001",
+    "opened": "2028-01-11",
+    "closed": "2028-01-12",
+    "actor": "rohbau",
+    "location": "Gründung Westkante",
+    "finding": "Die Abdeckung der Polsterkante war auf etwa 4 m zurückgeschlagen; Oberflächenwasser konnte den Rand erreichen.",
+    "request": "Georg Schmidt soll die Abdeckung vor der nächsten Niederschlagsphase befestigen und den betroffenen Rand auf Aufweichung kontrollieren.",
+    "result": "Die Abdeckung war wieder durchgängig befestigt. Der zugängliche Rand zeigte keine sichtbare Aufweichung; die Baugrundprüfung für die spätere Gründung bleibt davon getrennt.",
+    "title": "Sicherung Gründungskante"
+  },
+  {
+    "id": "M-002",
+    "opened": "2028-02-14",
+    "closed": "2028-02-14",
+    "actor": "rohbau",
+    "location": "Bodenplatte West vor Betonage",
+    "finding": "An zwei kontrollierten Bewehrungsstellen waren Abstandhalter verschoben; der geplante Abstand zur Schalung war dort nicht gesichert.",
+    "request": "Die Betonage des örtlich betroffenen Feldes bleibt bis zur erneuten Bewehrungskontrolle zurückgestellt. Die Bauleitung ordnet die Stellen im Schalplan zu.",
+    "result": "Die beiden Abstandhalter wurden vor Betonierbeginn ersetzt und die Lage gemeinsam kontrolliert. Die Freigabe betrifft nur die bezeichneten sichtbaren Stellen.",
+    "title": "Abstandhalter vor Betonage"
+  },
+  {
+    "id": "M-003",
+    "opened": "2028-05-10",
+    "closed": "2028-05-12",
+    "actor": "huelle",
+    "location": "WE 03 Fenster im Schlafzimmer",
+    "finding": "Das innere Anschlussband lag an der rechten unteren Ecke auf rund 12 cm noch lose; die Bekleidung war nicht geschlossen.",
+    "request": "Heinrich Bauer soll den Untergrund und das Band vor dem Verdecken systemgerecht herstellen und die Ecke zur Nachkontrolle offenlassen.",
+    "result": "Die Ecke war im zugänglichen Zustand vollständig angearbeitet. Die Stichprobe ergab keinen sichtbaren offenen Spalt; sie ersetzt keine Gesamtmessung der Gebäudehülle.",
+    "title": "Anschlussband Fenster WE 03"
+  },
+  {
+    "id": "M-004",
+    "opened": "2028-06-21",
+    "closed": "2028-06-23",
+    "actor": "elektro",
+    "location": "WE 02 Wohnungsverteilung",
+    "finding": "Zwei vorbereitete Stromkreisbezeichnungen waren vertauscht; die Anlage war noch nicht für die Nutzung freigegeben.",
+    "request": "Wilhelm Fischer soll den Kennzeichnungsplan mit der Leitungszuordnung abgleichen und die betroffenen Beschriftungen berichtigen.",
+    "result": "Die Montagebeschriftung wurde korrigiert. Die noch durchzuführende abschließende elektrische Prüfung bleibt maßgeblich für den Endzustand; die heutige Beschriftungskorrektur nimmt sie nicht vorweg.",
+    "title": "Beschriftung Verteilung WE 02"
+  },
+  {
+    "id": "M-005",
+    "opened": "2028-06-28",
+    "closed": "2028-06-30",
+    "actor": "ausbau",
+    "location": "WE 04 Installationsschacht",
+    "finding": "Die vorgesehene Revisionsöffnung war durch ein Unterkonstruktionsprofil eingeengt; der Armaturenzugang war noch nicht nutzbar.",
+    "request": "Walter Schneider soll die Öffnung mit der TGA-Planung abstimmen und das Profil vor der Beplankung entsprechend versetzen.",
+    "result": "Die Öffnung war frei und die Armatur für die vorgesehene Bedienung zugänglich. Der abgeglichene Ausbauzustand wurde vor dem Schließen des Schachts aufgenommen.",
+    "title": "Revisionsöffnung WE 04"
+  },
+  {
+    "id": "M-006",
+    "opened": "2028-07-03",
+    "closed": "2028-07-04",
+    "actor": "ausbau",
+    "location": "WE 01 Flur vor Estrich",
+    "finding": "Am Anschluss zur aufgehenden Wand fehlte ein kurzer Abschnitt des Randdämmstreifens; Estrich war dort noch nicht eingebaut.",
+    "request": "Der bezeichnete Bereich bleibt bis zum geschlossenen Randanschluss ausgespart. Der Polier soll die durchgängige Trennung vor dem Einbringen kontrollieren.",
+    "result": "Der Randdämmstreifen war lückenlos ergänzt. Die Stelle wurde vor Estricheinbau begangen und nicht als bereits fertige Estrichfläche abgerechnet.",
+    "title": "Randanschluss Estrich WE 01"
+  },
+  {
+    "id": "M-007",
+    "opened": "2028-08-03",
+    "closed": "2028-08-04",
+    "actor": "aussen",
+    "location": "Zugangsweg vor Hauseingang",
+    "finding": "Die lose gesetzte Pflasterlehre zeigte an einem Kontrollpunkt eine zum Eingang gerichtete Neigung; die Fläche war noch nicht endgültig verdichtet.",
+    "request": "Ernst Hoffmann soll die Lehre anhand des Höhenplans berichtigen und die Ableitung zur vorgesehenen Rinne vor Fertigstellung kontrollieren.",
+    "result": "Die Lehre wurde korrigiert. Die Höhenkontrolle ergab im bezeichneten Abschnitt eine vom Gebäude wegführende Ausbildung; die Endprüfung des gesamten Wegs bleibt gesondert.",
+    "title": "Höhenkontrolle Eingangsweg"
+  },
+  {
+    "id": "M-008",
+    "opened": "2028-08-17",
+    "closed": "2028-08-18",
+    "actor": "aufzug",
+    "location": "Aufzug Haltestelle erstes Obergeschoss",
+    "finding": "Die vorläufige Kennzeichnung einer Haltestellenleitung stimmte nicht mit dem Montageplan überein; die Anlage war gesperrt.",
+    "request": "Ludwig Weber soll die interne Zuordnung prüfen und die Kennzeichnung vor den Funktionsversuchen berichtigen.",
+    "result": "Die Leitung war dem Montageplan entsprechend gekennzeichnet. Diese Sichtkontrolle ist weder die Prüfung vor Inbetriebnahme noch eine Freigabe für den Nutzerbetrieb.",
+    "title": "Kennzeichnung Aufzug"
+  },
+  {
+    "id": "M-009",
+    "opened": "2028-09-11",
+    "closed": "2028-09-14",
+    "actor": "ausbau",
+    "location": "Treppenraumtür erstes Obergeschoss",
+    "finding": "In der Vorbegehung vom 10.09. schloss die Tür aus der üblichen Öffnungsstellung nicht vollständig; ein Hindernis im Schwenkbereich war nicht erkennbar.",
+    "request": "Innenraum Ausbau soll Beschlag und Schließer prüfen und die Funktion vor dem Abnahmetermin wiederholt vorführen.",
+    "result": "Die eingestellte Tür schloss am 14.09. in drei unmittelbar aufeinanderfolgenden Versuchen vollständig. Der sichtbare Befund wurde im Original 058 mitgeteilt.",
+    "title": "Türfunktion vor Abnahme"
+  },
+  {
+    "id": "M-010",
+    "opened": "2028-09-11",
+    "closed": "2028-09-14",
+    "actor": "huelle",
+    "location": "WE 05 Wohnzimmerfenster Nord",
+    "finding": "Der sichtbare Fensterbankablauf fiel in der Vorbegehung auf. Der örtliche Anschluss war für eine weitere Prüfung zu öffnen; eine abschließende Aussage über verdeckte Ursachen lag nicht vor.",
+    "request": "Dachraum soll den sichtbaren Anschluss öffnen, die Wasserführung prüfen und die Maßnahme bauteilbezogen dokumentieren.",
+    "result": "Am 14.09. war der sichtbare Ablauf nach der Bearbeitung frei. Im geöffneten sichtbaren Bereich war kein Feuchteschaden erkennbar. Über nicht geöffnete Anschlussbereiche enthält diese Nachkontrolle keine abschließende Aussage.",
+    "title": "Fensterbank WE 05 vor Abnahme"
+  },
+  {
+    "id": "M-011",
+    "opened": "2028-09-11",
+    "closed": "2028-10-15",
+    "actor": "ausbau",
+    "location": "WE 07 Wohnbereich Holzbelag",
+    "finding": "Die eingebaute Eichenqualität wich von der vereinbarten Bemusterung ab. Eine technische Untauglichkeit wurde aus dem Materialvergleich allein nicht hergeleitet.",
+    "request": "Die Bauherrin verlangt die genaue Produktbezeichnung und ein Angebot zur Wiederherstellung oder ausdrücklichen Vereinbarung. Bis dahin bleibt der bekannte Mangel bei der Abnahme vorbehalten.",
+    "result": "Am 15.10. vereinbarten die Parteien den Verbleib des Belags und eine Vergütungsherabsetzung um 2.500 EUR netto zuzüglich 475 EUR Umsatzsteuer. Nur diese Materialabweichung ist vertraglich erledigt; der Erstattungsnachweis folgt gesondert.",
+    "title": "Abweichender Holzbelag WE 07"
+  },
+  {
+    "id": "M-012",
+    "opened": "2030-11-08",
+    "closed": "2030-12-16",
+    "actor": "huelle",
+    "location": "WE 05 Wohnzimmerfenster Nord im Betrieb",
+    "finding": "Nach der Mietermeldung vom 04.11. war ein örtlicher Feuchtestreifen sichtbar. Laub am äußeren Profil erklärte den verzögerten Wasserlauf nicht abschließend.",
+    "request": "Dachraum soll den Anschluss gezielt öffnen und die Ursache dokumentieren. Die Verwaltung sichert den bisherigen Reinigungsstand; eine pauschale Verantwortungszuweisung an die Mietpartei unterbleibt.",
+    "result": "Nach Öffnung am 18.11. wurde eine verdeckte zu hohe Dichtstoffraupe entfernt. Am 16.12. zeigte die zugängliche Innenfläche keine neue sichtbare Feuchte. Der technische Abschluss ersetzt keine anwaltliche Prüfung von Anerkenntnis und Fristwirkung.",
+    "title": "Feuchtevorgang WE 05 im Betrieb"
+  }
+]

@@ -1,3 +1,11 @@
+# v445.8.0 - Hildesheimer Projektordner und 100-seitige Bauwerkstatt
+
+Die erweiterte Lebensakte enthält 366 Originaldateien in nachvollziehbaren Projektordnern: den unveränderten Ausgangsbestand, 304 tägliche Bauaufzeichnungen in zehn Monatsbänden, sieben detaillierte Leistungsverzeichnisse mit 134 Unterpositionen, Lieferungen, Begehungen, Mängelaufnahmen und Nachkontrollen. Belegbezogene E-Mails enthalten die originalen PDF-/XML-Anlagen; 18 ausformulierte Wordvorlagen unterstützen die weitere Bearbeitung. Beide ZIP-Fassungen erhalten für diese ausdrücklich bestellte Akte die Unterordner. Die bisherigen Akten bleiben flach.
+
+Das Vermietungsprojekt bleibt Hauptfall. Acht wohnungsbezogene Bauträgervertragsentwürfe samt Teilung, Baubeschreibung, Bemusterung und Zahlungsplänen bilden ausschließlich eine noch unbeschlossene Verkaufsoption. Deren Preise sind fiktive Annahmen; keine Verkaufserlöse werden dem Hauptprojekt zugeschrieben. Aktuelle amtliche Rechtsprechung ist mit Aussageumfang und historischen Anwendungsgrenzen dokumentiert.
+
+Die bestehende Bauwerkstatt wächst auf 100 inhaltliche Arbeitsstationen mit 100-seitiger Word- und PDF-Fassung. Zustände, Rückfragen und Übergänge richten sich nach dem konkreten Auftrag. Alle 29 vorhandenen Skills nutzen gezielte Vertiefungen; es kommen keine Skills hinzu. Neun eigenständige HOAI-Phasen-Werkstätten, Mini- und Schwerpunkt-Prompt bleiben erhalten. Technische Regression, vollständige visuelle Dokumentprüfung und getrennte Quellenprüfung begleiten die Erweiterung.
+
 # v445.7.0 - Achtfamilienhaus Hildesheim vom Grundstück bis zur Vermietung
 
 Die neue Bauwirtschaftsakte führt ein Achtfamilienhaus mit 600 m² Wohnfläche durch alle neun Gebäude-Leistungsphasen. Eigene Pläne, Erwerbs- und Grundschuldurkunden, sieben Bauverträge, Bauablauf, Nachtrag, Abnahmen und spätere Mängelbetreuung bilden einen gemeinsamen Projektstand. Acht Mietverträge haben eigene vorvertragliche Informationen und Übergabeprotokolle. Jede Phase ist auf der Aktenseite den passenden Unterlagen zugeordnet.

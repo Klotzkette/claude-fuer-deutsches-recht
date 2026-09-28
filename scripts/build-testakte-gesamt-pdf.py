@@ -1058,12 +1058,16 @@ def append_pdf_bytes_with_separator(
 def build_gesamt_pdf(testakte_dir: Path) -> tuple[str, str]:
     """Gibt (status, info) zurueck. status in {ok, skip, error}."""
     name = testakte_dir.name
-    if name == "bauwirtschaft-neubau-achtfamilienhaus-hildesheim":
-        # Diese durchgehende Projektakte benötigt die Aktennummern-Reihenfolge
-        # und ein Lesezeichen je Original statt einer Gruppierung nach Dateityp.
+    project_builders = {
+        "bauwirtschaft-neubau-achtfamilienhaus-hildesheim": "build-bauwirtschaft-hildesheim-pakete.py",
+        "bauwirtschaft-hildesheim-lebensakte": "build-bauwirtschaft-hildesheim-lebensakte-pakete.py",
+    }
+    if name in project_builders:
+        # Durchgehende Projektakten benötigen Aktennummern-/Projektordnerfolge
+        # und Lesezeichen statt einer Gruppierung nach Dateityp.
         import importlib.util
         try:
-            builder_path = Path(__file__).with_name("build-bauwirtschaft-hildesheim-pakete.py")
+            builder_path = Path(__file__).with_name(project_builders[name])
             spec = importlib.util.spec_from_file_location("hildesheim_release_pdf", builder_path)
             builder = importlib.util.module_from_spec(spec)
             spec.loader.exec_module(builder)

@@ -91,3 +91,5 @@ Für einen Buchhaltungslauf:
 > Gleiche Aufträge, Rechnungen, Rechnungskorrekturen und Zahlungen ab. Trenne Investition, Liquidität und Mietbetrieb. Prüfe Umsatzsteuer und Bauabzug anhand der vorhandenen Belege. Liefere eine nachvollziehbare offene-Posten- und Zahlungsübersicht.
 
 Die [neun Phasen-Skills und Werkstatt-Prompts](../../docs/bauwirtschaft-hoai-phasen.md) sind separat erreichbar. Die Testakte wird nicht mit dem Plugin installiert.
+
+Die [erweiterte Fassung mit Projektordnern](../bauwirtschaft-hildesheim-lebensakte/README.md) enthält alle 198 Originaldateien unverändert und ergänzt ein tägliches Bautagebuch, detaillierte Leistungsverzeichnisse, Begehungen, Mängelverfolgung, Rechnungseingänge und Wordvorlagen. Der mögliche Bauträgerverkauf bleibt dort eine eigene, unbeschlossene Alternative.

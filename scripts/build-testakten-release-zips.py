@@ -3,7 +3,7 @@
 
 Die ZIPs enthalten die Arbeitsdateien, das Gesamt-PDF und die verbindliche
 zweisprachige README.txt, aber keine Markdown-, Download- oder Vorfuehrseiten.
-Alle Dateien liegen ohne Unterordner unmittelbar auf der Wurzelebene.
+Bestellte Projektordner-Akten behalten ihre Unterordner. Übrige Akten bleiben flach.
 
 Aufruf:
   python3 scripts/build-testakten-release-zips.py [dist]            # alle Testakten
@@ -18,7 +18,7 @@ import zipfile
 from pathlib import Path
 
 from testakte_disclaimer import NOTICE_BYTES, NOTICE_FILENAME
-from testakte_zip_common import working_dump_flat_pairs
+from testakte_zip_common import working_dump_archive_pairs
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 TESTAKTEN = REPO_ROOT / "testakten"
@@ -48,7 +48,7 @@ def write_bytes(zipf: zipfile.ZipFile, data: bytes, arcname: str) -> None:
 def add_testakte(zipf: zipfile.ZipFile, testakte_dir: Path) -> int:
     write_bytes(zipf, NOTICE_BYTES, NOTICE_FILENAME)
     count = 1
-    for path, arcname in working_dump_flat_pairs(
+    for path, arcname in working_dump_archive_pairs(
         testakte_dir,
         include_gesamt_pdf=True,
     ):
@@ -134,7 +134,7 @@ def main() -> None:
     except Exception:
         all_temporary.unlink(missing_ok=True)
         raise
-    print(f"Baue {all_out.name}: {len(bundle_archives)} flache Einzel-ZIPs")
+    print(f"Baue {all_out.name}: {len(bundle_archives)} Einzel-ZIPs")
     print(f"Fertig: {len(dirs)} Einzel-ZIPs, {total_files} Dateien")
 
 

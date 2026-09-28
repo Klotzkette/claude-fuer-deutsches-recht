@@ -19,6 +19,7 @@ from pypdf import PdfReader
 
 from testakte_einzelpdf_common import expected_arcnames
 from testakte_disclaimer import NOTICE_FILENAME, notice_text_errors, pdf_content_errors
+from testakte_zip_common import preserves_directories, safe_archive_name
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 TESTAKTEN = REPO_ROOT / "testakten"
@@ -31,7 +32,7 @@ def fail(message: str) -> None:
     raise SystemExit(1)
 
 
-def zip_entries(zip_path: Path, *, expected_suffix: str) -> list[str]:
+def zip_entries(zip_path: Path, *, expected_suffix: str, allow_directories: bool = False) -> list[str]:
     if not zip_path.exists():
         fail(f"{zip_path}: missing ZIP")
     if zip_path.stat().st_size <= 0:
@@ -42,14 +43,14 @@ def zip_entries(zip_path: Path, *, expected_suffix: str) -> list[str]:
                 fail(f"{zip_path}: Verzeichniseintrag im ZIP")
             if archive.testzip() is not None:
                 fail(f"{zip_path}: beschädigter ZIP-Eintrag")
-            names = [n.replace("\\", "/") for n in archive.namelist() if not n.endswith("/")]
+            names = [n for n in archive.namelist() if not n.endswith("/")]
             if not names or names[0] != NOTICE_FILENAME:
                 fail(f"{zip_path}: {NOTICE_FILENAME} muss der erste ZIP-Eintrag sein")
             for problem in notice_text_errors(archive.read(NOTICE_FILENAME)):
                 fail(f"{zip_path}: {problem}")
             for n in names:
-                if "/" in n:
-                    fail(f"{zip_path}: Unterordner im ZIP: {n}")
+                if not safe_archive_name(n, allow_directories=allow_directories):
+                    fail(f"{zip_path}: unzulässiger ZIP-Pfad: {n}")
                 if n != NOTICE_FILENAME and not n.lower().endswith(expected_suffix):
                     fail(f"{zip_path}: unerwarteter Dateityp {n}")
                 parts = Path(n).parts
@@ -142,6 +143,7 @@ def main() -> None:
         actual = zip_entries(
             dist / f"testakte-{testakte_dir.name}-einzelpdfs.zip",
             expected_suffix=".pdf",
+            allow_directories=preserves_directories(testakte_dir),
         )
         assert_same(f"testakte-{testakte_dir.name}-einzelpdfs.zip", [NOTICE_FILENAME, *expected], actual)
         zip_count += 1

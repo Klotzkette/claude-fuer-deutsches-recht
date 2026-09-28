@@ -1,0 +1,492 @@
+[
+  {
+    "source": "06_Leistungsverzeichnisse/Detail-LV/LV_01_rohbau_Detail.docx",
+    "sha256": "07a79c704047455332d3a63fdaf60ead3fdefde5d3280a73f9625a9b28daa2b8",
+    "kind": "docx"
+  },
+  {
+    "source": "06_Leistungsverzeichnisse/Detail-LV/LV_02_huelle_Detail.docx",
+    "sha256": "a38de93e80865b41c784751bd55fcadb2d0dffdfe3878d1b822ebbd09c914089",
+    "kind": "docx"
+  },
+  {
+    "source": "06_Leistungsverzeichnisse/Detail-LV/LV_03_hls_Detail.docx",
+    "sha256": "4f749c4010a4c97cd952f52860e511e557b899a1e87fa07a4112a96cd2f9ec8a",
+    "kind": "docx"
+  },
+  {
+    "source": "06_Leistungsverzeichnisse/Detail-LV/LV_04_elektro_Detail.docx",
+    "sha256": "5fc13fcbda4cc5c7a191e7324937ea5903cd7038ff7c8fa337ef31f0eb860b9a",
+    "kind": "docx"
+  },
+  {
+    "source": "06_Leistungsverzeichnisse/Detail-LV/LV_05_ausbau_Detail.docx",
+    "sha256": "a0c37b40951ae804efb65e984c227289b61b416fbb304f1930f76b28f8a7f6cd",
+    "kind": "docx"
+  },
+  {
+    "source": "06_Leistungsverzeichnisse/Detail-LV/LV_06_aufzug_Detail.docx",
+    "sha256": "95948fc525a2d5f1c329f41bc33a6e7ff14ced27a8129f5cde3ef7f57a52e1b4",
+    "kind": "docx"
+  },
+  {
+    "source": "06_Leistungsverzeichnisse/Detail-LV/LV_07_aussen_Detail.docx",
+    "sha256": "19daab97b7db22052320ff07710fefc2e69239238a1646386bd739b514b8774e",
+    "kind": "docx"
+  },
+  {
+    "source": "06_Leistungsverzeichnisse/Detail-LV/LV_Kalkulationsregister.csv",
+    "sha256": "44b9724462a3238b18bf264790e4622897a0db321585e7309e0cffa3edf8b9d0",
+    "kind": "csv"
+  },
+  {
+    "source": "08_Bauausfuehrung/01_Bautagebuch/2027/BTB_2027-12.docx",
+    "sha256": "602ee4a9a531bffb1dd7fad4bfe44a5e8236722e93b1ef59545ab4a788e15521",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/01_Bautagebuch/2028/BTB_2028-01.docx",
+    "sha256": "f7d8301d5592c730a7dcee496c21be7012b1510bfa091edc6c9f6652b576e6c5",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/01_Bautagebuch/2028/BTB_2028-02.docx",
+    "sha256": "4ab083755242526c38ccff6b7b7e7ca4265aec05552a135063dac4483d5c65f2",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/01_Bautagebuch/2028/BTB_2028-03.docx",
+    "sha256": "ab80e039ca5ff42628bfe52e12e2a0d9c2da7c4219154c3a65f3969dfb75c0d9",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/01_Bautagebuch/2028/BTB_2028-04.docx",
+    "sha256": "76a8d5e8b5a157d5ff42448acc0cce9ef8798dacf1b617448f1696e739c23766",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/01_Bautagebuch/2028/BTB_2028-05.docx",
+    "sha256": "51c03514869f2c0caef36592ece45e69f29f106c42f474375eac2f0fa76d1f55",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/01_Bautagebuch/2028/BTB_2028-06.docx",
+    "sha256": "afc40b617bc17b2bfb54fe78ce85b2caf19e97934c3109d8804f15fcb5cb409f",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/01_Bautagebuch/2028/BTB_2028-07.docx",
+    "sha256": "c84484339f39723d55c520416d773bc3273979814b15babfd7abbeae33047f9b",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/01_Bautagebuch/2028/BTB_2028-08.docx",
+    "sha256": "506bd6a849f1c1ddabbef5f80b3e978c19ab224899f3c3003e54ac32b2641fc3",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/01_Bautagebuch/2028/BTB_2028-09.docx",
+    "sha256": "4be67c8e651a6f6d6a93fa9b2a49a80cf436012536b46c7c5053b262d2d788e4",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/01_Bautagebuch/Bautagebuch_Kalenderregister.csv",
+    "sha256": "c4d3773b5bf13687c3278b4995306b11bdb7d74740796446448f6db502601fb0",
+    "kind": "csv"
+  },
+  {
+    "source": "08_Bauausfuehrung/01_Bautagebuch/Ergaenzung_Kurzauszug_Pfingstmontag.docx",
+    "sha256": "f16de827a0f53ba306957fe9c6e2530297b79968a3bb95b159f002313746d295",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/01_Bautagebuch/Ergaenzung_Personalabgleich_2028-09-29.docx",
+    "sha256": "56089303df93dee41da2083127fed9554bb9e1340c0e31ced4214b0152653a4b",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/02_Begehungen/BG_01_2027-12-03.docx",
+    "sha256": "d0037de7918986d49ea4cb5803bd4e606dbfbeeb82efda188da833c3e3df46fc",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/02_Begehungen/BG_02_2028-01-12.docx",
+    "sha256": "52d004ab6e257c2584c37030eeb948bc9c7959e173222808caa75425bd66d193",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/02_Begehungen/BG_03_2028-02-11.docx",
+    "sha256": "c3a6fc94e07725a8d0fcd79172c9a19da8de4d631a86e23a6cc53d696f3bdb9a",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/02_Begehungen/BG_04_2028-03-08.docx",
+    "sha256": "726a7e76a136c01b3e37f4daf28f805472890c93971dcfc70352a3c6b03291ca",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/02_Begehungen/BG_05_2028-03-23.docx",
+    "sha256": "0215a10dcfa8f7153c1cf20bf500ced86d399b5f081748ce826538a7f21d7133",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/02_Begehungen/BG_06_2028-04-28.docx",
+    "sha256": "940c439c166fb4a68fe7d8427e3b003e31151415e6ad288abf33af96634dfd81",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/02_Begehungen/BG_07_2028-05-12.docx",
+    "sha256": "f795457dc6a74eec88a39e8f35ead35c56d7dd88e0bb275d08aeffaccfb16de2",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/02_Begehungen/BG_08_2028-06-16.docx",
+    "sha256": "9af6f2139cb837de95aa4612fe23746976a68f60a82a8c83d95ff8c87de1c11a",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/02_Begehungen/BG_09_2028-06-30.docx",
+    "sha256": "c994bbf78b69b6aba7e3b280703e9495d01b59fc95cf583c7e7bd7c1d8eb5263",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/02_Begehungen/BG_10_2028-07-07.docx",
+    "sha256": "b63f71a32b048ca84828bcf5e8ee916babf9dde1dd23a5bd39c9f6c75236034b",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/02_Begehungen/BG_11_2028-08-04.docx",
+    "sha256": "c5da710291d7716822129558df07c81e488531a115308017df3eeedef960aac6",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/02_Begehungen/BG_12_2028-08-25.docx",
+    "sha256": "155394695cf57488d646d64881d970ad7cd6713d77f91607c39de3e33eed0f50",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/02_Begehungen/BG_13_2028-09-10.docx",
+    "sha256": "95dc4964c2d9764701c10fc3b90046e0bef5985dbc03943ecf42d3dc034629fd",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/02_Begehungen/BG_14_2028-09-14.docx",
+    "sha256": "77d0f2d7a15dd3f733c520bb4b05a67cff943c39b38486344cabb9d9de5ac996",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/02_Begehungen/BG_15_2028-09-22.docx",
+    "sha256": "741039f7ae41f463d75310ee77aaf338afa6663d3072238a9a83e4462fd7a694",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/02_Begehungen/BG_16_2030-11-08.docx",
+    "sha256": "329d4e65e91b0476ca9e43105aec46883c784522e6a6b058ad2a139c122e2dd0",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/03_Maengel/M-001_Befund_2028-01-11.docx",
+    "sha256": "c910cfeb4edc315a4580d0f3ea0f26373db4f05045837c39f6e5f0c4f901efc6",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/03_Maengel/M-001_Nachkontrolle_2028-01-12.docx",
+    "sha256": "33f840829a28bbe7aa71a7dad9606ae9099684b0c84bf81b5784b6d44b7fd8f8",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/03_Maengel/M-002_Befund_2028-02-14.docx",
+    "sha256": "d42603c2b2251f6441c41caa7339a11d6b2e08cff013fb6c6bc20b0ecdd879f4",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/03_Maengel/M-002_Nachkontrolle_2028-02-14.docx",
+    "sha256": "91c11a4b300facbd697915734db070d6e8d8659fce010261ec4472473cc70286",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/03_Maengel/M-003_Befund_2028-05-10.docx",
+    "sha256": "88727ab10081b97473695dbb8302c561e13b81c3115409c743537ab913113138",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/03_Maengel/M-003_Nachkontrolle_2028-05-12.docx",
+    "sha256": "0cb57e03fe79ca7e8c75c8c666c116961742b82611d816320fcfddefc1ea05d3",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/03_Maengel/M-004_Befund_2028-06-21.docx",
+    "sha256": "06cf5f19b07402529587ba917fdf20012c5f39761eea53198f5b0c1c65c06da0",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/03_Maengel/M-004_Nachkontrolle_2028-06-23.docx",
+    "sha256": "19fca02af7f751b1a5bae8202bdfe5a278c662d180851ed34be49e25d8412b9f",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/03_Maengel/M-005_Befund_2028-06-28.docx",
+    "sha256": "8fb65bead15bdc1ca65b251e736578f13fecc775edc58cb0de1a47fac31e540b",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/03_Maengel/M-005_Nachkontrolle_2028-06-30.docx",
+    "sha256": "aa8fe6dc279b2f793fa349e741d40c87d5ac057b56df897632dc26a94f4ac325",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/03_Maengel/M-006_Befund_2028-07-03.docx",
+    "sha256": "1e015d43005352ec128e88b749f5df405675a795096856b49c7ecfb341f40096",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/03_Maengel/M-006_Nachkontrolle_2028-07-04.docx",
+    "sha256": "18d95644194002f83b9ad05c9e7ad892e7fc83bea9bc43425b3fd598c17a8438",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/03_Maengel/M-007_Befund_2028-08-03.docx",
+    "sha256": "908706eae924c6addda1046e1ed2a5877fc32b1b1f67d732197606e80ee51f23",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/03_Maengel/M-007_Nachkontrolle_2028-08-04.docx",
+    "sha256": "c688600b88c155074c27a6750c56583062434bcd1e7719c4d71065afe5c19bc7",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/03_Maengel/M-008_Befund_2028-08-17.docx",
+    "sha256": "213a0b9e64a70eccd2a96b08e4c866120bb660ea1c07686e4b16b6d296114062",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/03_Maengel/M-008_Nachkontrolle_2028-08-18.docx",
+    "sha256": "eb45f1b0e36655b7561bd5e621d159453b6b739e74d02591d41d11a092944f01",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/03_Maengel/M-009_Befund_2028-09-11.docx",
+    "sha256": "fb21964aa1174bad4f60863fcb2b6647b20e6e7469a59f3de55104108b65b306",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/03_Maengel/M-009_Nachkontrolle_2028-09-14.docx",
+    "sha256": "dbc1d1400391d45b0cfb6022b80a0ab1a52408d7c83017d7cdaafbb132b889b0",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/03_Maengel/M-010_Befund_2028-09-11.docx",
+    "sha256": "c341c12875fe55c2d2c02ebcb6d46380f3a1549736822343f9d33d69c4a94ff7",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/03_Maengel/M-010_Nachkontrolle_2028-09-14.docx",
+    "sha256": "c9fd292532c0f6c77921e3f498af709029aa424f968132df542372811ba28fc7",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/03_Maengel/M-011_Befund_2028-09-11.docx",
+    "sha256": "2332d524789605069a954fd4c8fa69fa888c15989a9802c5843c8f5c942e4ace",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/03_Maengel/M-011_Nachkontrolle_2028-10-15.docx",
+    "sha256": "20d0a9b7408087dc6d248937af305632cfe770c6f176f9ffdacbf990ca44eadc",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/03_Maengel/M-012_Befund_2030-11-08.docx",
+    "sha256": "bb20ecaa00f3037dfc897c4d1ee3e469b5738acf8f0f103c7b6c6b2d1ebb298d",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/03_Maengel/M-012_Nachkontrolle_2030-12-16.docx",
+    "sha256": "86566fc645f535f325db49e2c7ab4e848a8de92eea30b55c2eccfcf0c2bb102a",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/03_Maengel/Maengelregister.csv",
+    "sha256": "f8a9d3f1d782af697e2d2cd85591399c39873d077c970a5e934dd94312850484",
+    "kind": "csv"
+  },
+  {
+    "source": "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/LB-001_2027-12-01.docx",
+    "sha256": "13d41b4a7feec3fd1de4602b44ce7be9e8b3fae9434528085251a9b0690b0838",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/LB-002_2027-12-01.docx",
+    "sha256": "f0ca7c52efc2c2f8cf1181b385948484e7eb716ed43040a0b4d6f9d810760948",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/LB-003_2028-01-03.docx",
+    "sha256": "8ff6c88f94a01326ba65159f0d1bb0b444d07b9853173ab67a617ddcb10b1061",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/LB-004_2028-01-06.docx",
+    "sha256": "f0d50d53ca4eb9ac5ae2f7a2548977efbec34226330c0a8605d7e44e2542b944",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/LB-005_2028-01-24.docx",
+    "sha256": "90215a5ef258352d58a21efa6cba26d4a10327011df22406c5ccf962ac9a3e9d",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/LB-006_2028-02-08.docx",
+    "sha256": "a07240678615a68bf0772eee2770c15ff0401d86d05487969f45ef40b507f196",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/LB-007_2028-02-09.docx",
+    "sha256": "34d8e8070a00291472a25bd400f37d55fa99242b0359e0b1657f78a321f568bf",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/LB-008_2028-02-14.docx",
+    "sha256": "eb12dba217ea200b77c5b22357b2e9c0598ddc11c0eb948658cb15a2596146e9",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/LB-009_2028-02-18.docx",
+    "sha256": "9431d3333d359a3889be5167c887d73c228918a8c2aa0a23bdf625e8a19c5636",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/LB-010_2028-03-09.docx",
+    "sha256": "4a04f965f2fbfe1ac63bd94e1fd9aed60847596e86b41aa8b4ec3e5eff6d712e",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/LB-011_2028-03-29.docx",
+    "sha256": "af9b0be28ff1dca2d53afd6aba15fa6bafb8cbeccc2c26fdfffa31a2faf65db0",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/LB-012_2028-04-18.docx",
+    "sha256": "fff3233c9df48a7ac06f4e8abc318d2c3f1670eac294dae388655365473c3435",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/LB-013_2028-04-03.docx",
+    "sha256": "c51f7a9f18f8a5c9557896fccc6c9f29c87d36fec7e8af203120c6b1c8b4811c",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/LB-014_2028-04-24.docx",
+    "sha256": "da93d2f47216259cb32fc4f951972d0ec436da166810cfb421f7e04681cffdc9",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/LB-015_2028-04-10.docx",
+    "sha256": "e7af095104cd6507881189b1a25519a19d1d6f304c13bf4e632e8834f2623762",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/LB-016_2028-04-24.docx",
+    "sha256": "7e89c2c164887528b2af8ce6b884cacd713d266df1146cc1acc2ff02f6db5d0a",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/LB-017_2028-05-08.docx",
+    "sha256": "a8a876b40b381d716608e5f5bea885e0d3d34987a51da7b677ce31135e36e370",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/LB-018_2028-05-02.docx",
+    "sha256": "98920830c25f69876af6ae2c6cff10b0b729e705f5239fd19c73a54e6460aac4",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/LB-019_2028-06-19.docx",
+    "sha256": "8f5767449808e9674b50b303cdcdbe88d1cfac49697310b1f6384ddb9df1049f",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/LB-020_2028-06-19.docx",
+    "sha256": "6d29b44d0dfd95686ba374a9e61b2fa7c0ae19ac0dea548ec4aab550bae22cf9",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/LB-021_2028-07-03.docx",
+    "sha256": "bfad175852adafda443a933ad34e902ba261e36a77cd3703f97c7d9b61c8d325",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/LB-022_2028-07-03.docx",
+    "sha256": "1e68b87b8cb38e81ebf6cc88a12526fb9ab1c5569b5898996bb8fe69c295ea11",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/LB-023_2028-07-17.docx",
+    "sha256": "9294bf38610957bf9ed0ed9a42663ab593797f50da65dcb5c7d1280628a0407a",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/LB-024_2028-07-17.docx",
+    "sha256": "94bc2b172425aed24d3a5f6ad10ec5ded3329a0333cd949ea268fca60009d4db",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/LB-025_2028-07-31.docx",
+    "sha256": "0804cf5362ccf010b9721c7a2b03847e85021e61638698831d357f1b3bfe344d",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/LB-026_2028-08-14.docx",
+    "sha256": "5c12af1a7bfdf8ce8bddb4ffe4c6d6d6b5669fdc1ff202475b94fb263d31c51b",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/LB-027_2028-08-14.docx",
+    "sha256": "2e0e3f4849657366f19cbb4e67a426be5a970a0492e684270745128e58860d6a",
+    "kind": "docx"
+  },
+  {
+    "source": "08_Bauausfuehrung/04_Lieferungen_und_Pruefungen/LB-028_2028-08-28.docx",
+    "sha256": "8774a1a489cff0bc306e163dad329688a2e16ace3e92f037541df9137608fcf5",
+    "kind": "docx"
+  },
+  {
+    "source": "12_Wordvorlagen/Bau/VB_01_Tagesbericht.docx",
+    "sha256": "4183762bb1f31aded2f22fe6fd7fb88eb218a9a61f25b7c15d8959f9afaa2a58",
+    "kind": "docx"
+  },
+  {
+    "source": "12_Wordvorlagen/Bau/VB_02_Baubegehung.docx",
+    "sha256": "9da1b30d95c33c84786532e3a49efb38c0975f7438db646f1d700cea642660e2",
+    "kind": "docx"
+  },
+  {
+    "source": "12_Wordvorlagen/Bau/VB_03_Maengelanzeige.docx",
+    "sha256": "67dc3f0c66b67125a441ad115904ebb16abae366d51fa5f0d1346b8c66074228",
+    "kind": "docx"
+  },
+  {
+    "source": "12_Wordvorlagen/Bau/VB_04_Nachkontrolle.docx",
+    "sha256": "68b5c533d32ff1c166b763f6382957b06a1d5c5f3e9decce95e57cf6d0531601",
+    "kind": "docx"
+  },
+  {
+    "source": "12_Wordvorlagen/Bau/VB_05_Bedenkenhinweis.docx",
+    "sha256": "791bfade9a1866feab2a818f4fad63aeba8da3dad1100f30a7a87159e40378fb",
+    "kind": "docx"
+  },
+  {
+    "source": "12_Wordvorlagen/Bau/VB_06_Nachtragspruefung.docx",
+    "sha256": "00ad4d4217ee2cdea7d505711ce73303c80ce1b0e4c20bac0c2c38b7d073d2e0",
+    "kind": "docx"
+  },
+  {
+    "source": "12_Wordvorlagen/Bau/VB_07_Bauteilfreigabe.docx",
+    "sha256": "284386a91710bbaa9f378bba2a567e5b625d03fc4771e759beb5903a8fd08c62",
+    "kind": "docx"
+  },
+  {
+    "source": "12_Wordvorlagen/Bau/VB_08_Abnahmeprotokoll.docx",
+    "sha256": "95a912f7df189267aa88d297085344772350c5e9adfe6d6444b69a4d3f2b7522",
+    "kind": "docx"
+  }
+]

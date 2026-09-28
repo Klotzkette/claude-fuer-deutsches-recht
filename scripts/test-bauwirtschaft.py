@@ -23,13 +23,14 @@ from prompt_limits import MAX_WORKSHOP_BYTES
 from readme_decimal_headings import normalize_decimal_headings
 from quality_lab import load, marketplace, validate_profile
 from testakte_disclaimer import NOTICE_BYTES, NOTICE_FILENAME
-from testakte_zip_common import working_dump_flat_pairs
+from testakte_zip_common import working_dump_archive_pairs, preserves_directories, safe_archive_name
 from themen_profile import EXACT_PROFILE_KEYS
 
 
 ROOT = Path(__file__).resolve().parent.parent
 PLUGIN = "bauwirtschaft"
 PROJECT_CASES = {
+    "bauwirtschaft-hildesheim-lebensakte",
     "bauwirtschaft-neubau-achtfamilienhaus-hildesheim",
     "bauwirtschaft-vergabeverfahren-feuerwehrhaus-northeim",
     "bauwirtschaft-baumanagement-werkhalle-warendorf",
@@ -180,14 +181,14 @@ class BauwirtschaftTests(unittest.TestCase):
             (ROOT / "references/zitierweise.md").read_bytes(),
         )
 
-    def test_fourteen_distinct_cases_and_native_documents(self):
+    def test_fifteen_case_editions_and_native_documents(self):
         injector = script_module("inject-direkt-loslegen-section")
         entries = json.loads((ROOT / ".claude-plugin/marketplace.json").read_text())["plugins"]
         self.assertEqual(set(injector.discover_testakten_mapping(entries)[PLUGIN]), CASES)
         for slug in sorted(CASES):
             with self.subTest(case=slug):
                 directory = ROOT / "testakten" / slug
-                sources = working_dump_flat_pairs(directory, include_gesamt_pdf=False)
+                sources = working_dump_archive_pairs(directory, include_gesamt_pdf=False)
                 minimum = 12 if slug in PHASE_CASES else (35 if "hoai-buergerhaus" in slug else 24)
                 self.assertGreaterEqual(len(sources), minimum)
                 suffixes = {path.suffix.lower() for path, _ in sources}
@@ -258,17 +259,18 @@ class BauwirtschaftTests(unittest.TestCase):
                         self.assertTrue(linked.is_file())
                         self.assertFalse(linked.name.endswith(("-werkstatt.md", "-schnellstart.md", "-hauptproblem.md")))
 
-    def test_original_archives_are_flat_complete_and_byte_exact(self):
+    def test_original_archives_keep_required_layout_complete_and_byte_exact(self):
         builder = script_module("build-testakten-release-zips")
         with tempfile.TemporaryDirectory(prefix="bauwirtschaft-zip-") as temporary:
             for slug in sorted(CASES):
                 with self.subTest(case=slug):
                     directory = ROOT / "testakten" / slug
                     archive, _ = builder.build_single(directory, Path(temporary))
-                    expected = {name: path for path, name in working_dump_flat_pairs(directory, include_gesamt_pdf=True)}
+                    expected = {name: path for path, name in working_dump_archive_pairs(directory, include_gesamt_pdf=True)}
                     with ZipFile(archive) as bundle:
                         self.assertEqual(set(bundle.namelist()), set(expected) | {NOTICE_FILENAME})
-                        self.assertTrue(all("/" not in name for name in bundle.namelist()))
+                        self.assertTrue(all(safe_archive_name(name, allow_directories=preserves_directories(directory))
+                                            for name in bundle.namelist()))
                         self.assertEqual(bundle.read(NOTICE_FILENAME), NOTICE_BYTES)
                         self.assertIsNone(bundle.testzip())
                         for name, path in expected.items():

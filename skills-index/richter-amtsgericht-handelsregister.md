@@ -1,6 +1,6 @@
 # richter-amtsgericht-handelsregister
 
-**13 Skills** · Stand `v445.7.0`
+**13 Skills** · Stand `v445.8.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../gerichtsplugins/richter-amtsgericht-handelsregister/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

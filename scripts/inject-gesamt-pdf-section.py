@@ -3,8 +3,8 @@
 Akte-komplett-Sektion mit drei getrennten Downloadfassungen ein:
 
 1. Gesamt-PDF (im Repo unter gesamt-pdf/<slug>_gesamt.pdf eingecheckt)
-2. Akten-ZIP mit flachen nativen Originaldateien ohne Markdown.
-3. Einzel-PDF-ZIP mit flach abgelegten, getrennten PDFs.
+2. Akten-ZIP mit nativen Originaldateien ohne Markdown.
+3. Einzel-PDF-ZIP mit getrennten PDFs; bestellte Projektordner bleiben erhalten.
 
 Idempotent ueber HTML-Marker. Position: direkt nach dem H1, vor allen
 weiteren Sektionen (insbesondere vor dem Direkt-Download-Block).
@@ -23,6 +23,7 @@ from pathlib import Path
 from testakte_einzelpdf_common import expected_arcnames
 from testakte_disclaimer import NOTICE_MARKDOWN
 from testakte_download_notices import ensure_download_notices, update_download_readmes
+from testakte_zip_common import preserves_directories
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 TESTAKTEN_DIR = REPO_ROOT / "testakten"
@@ -79,6 +80,17 @@ def section_block(slug: str, pdf_rel: str | None, has_einzelpdf: bool = False) -
         )
         trailer = "Die ZIP-Links laden den zuletzt veröffentlichten Release. Der Repository-Stand kann zwischen Releases bereits neuer sein."
     english = "English: The original-format ZIP contains the working files directly at archive root, without subfolders or Markdown."
+    if preserves_directories(Path(slug)):
+        formats = 'drei' if pdf_rel is not None and has_einzelpdf else 'zwei'
+        intro = (f'Diese Projektakte gibt es in {formats} Formaten. Das Originalformat-ZIP erhält die vollständige '
+                 'Unterordnerstruktur nach Leistungsphasen und Arbeitsbereichen. Es enthält bearbeitbare Word- und '
+                 'Excel-Dateien, E-Mails mit Anlagen sowie die übrigen Originalbelege; Markdown wird nicht mitgeliefert.')
+        if pdf_rel is not None:
+            intro += ' Das Gesamt-PDF führt die Unterlagen mit einem Dokumentenregister und navigierbaren Lesezeichen zusammen.'
+        if has_einzelpdf:
+            intro += ' Im Einzel-PDF-ZIP bleibt dieselbe Ordnerstruktur erhalten; jede Originalunterlage liegt als eigene A4-Lesefassung vor.'
+        english = ('English: This project-file edition preserves its subfolders in both ZIP formats. '
+                   'The original-format ZIP contains editable working documents and supporting records, without Markdown.')
     if pdf_rel is not None:
         english += " Choose the combined PDF for reading; it is also included in that ZIP."
     if has_einzelpdf:

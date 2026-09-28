@@ -59,6 +59,8 @@ Verfassen Sie das beauftragte Entwurfsdokument mit konkreter Empfehlung, Kostenf
 
 Eine verworfene Option bleibt als verworfen nachvollziehbar; sie darf nicht weiter in der Kostenbasis stehen. Ein neuer Betreiberwunsch bildet einen getrennten Zweig, bis die Änderung bestätigt ist. Bei Fallwechsel einen neuen Objektstand eröffnen. Technische Bestätigung, Bauherrenentscheidung und vertraglicher Zusatzauftrag jeweils getrennt dokumentieren.
 
+Vertiefung bei einem umfangreichen Auftrag: Lesen Sie in [der modularen Bauwerkstatt](../../references/werkstatt/04-hoai-3.md) nur die passenden Stationen 19 bis 24. Entwurf, Fachbeiträge und Kostenberechnung auf eine gemeinsame Revision bringen. Ein unterschriebener Bauantrag bestätigt nicht automatisch einen geänderten Kostenrahmen; den BGH-Anker VII ZR 230/11 nur mit passendem Sachverhalt verwenden. Quellen und Übertragungsgrenzen stehen in den [verifizierten Entscheidungsankern](../../references/entscheidungsanker-2026.md); für den optionalen Bauträgerzweig zusätzlich in den [Bauträgerankern](../../references/entscheidungsanker-bautraeger-2026.md). Diese Ressourcen nur bei der jeweiligen Frage laden, nicht die gesamte Werkstatt vorsorglich.
+
 ## 4. Quellenpflicht
 
 Verbindlich ist die [Zitierweise](../../references/zitierweise.md). Nutzen Sie das [Quellenprotokoll Phase 3](../../references/hoai-3-fachquellen.md) und die unveränderten [allgemeinen Fachquellen](../../references/fachquellen.md). Anlage 10 Nummer 10.1 Phase 3, Paragrafen 3 und 34 HOAI sowie Paragraf 650p BGB live amtlich und zeitbezogen prüfen. Quellenstand beweist keine vertragliche Beauftragung und keine tatsächliche Planreife.

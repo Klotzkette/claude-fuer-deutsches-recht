@@ -1,6 +1,6 @@
 # fashion-law-moderecht
 
-**51 Skills** · Stand `v445.7.0`
+**51 Skills** · Stand `v445.8.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../fashion-law-moderecht/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
