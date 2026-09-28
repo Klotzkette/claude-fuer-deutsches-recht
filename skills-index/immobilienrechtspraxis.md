@@ -1,6 +1,6 @@
 # immobilienrechtspraxis
 
-**63 Skills** · Stand `v445.9.1`
+**63 Skills** · Stand `v445.9.2`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../immobilienrechtspraxis/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

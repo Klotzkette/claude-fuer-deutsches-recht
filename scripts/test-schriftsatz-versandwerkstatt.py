@@ -6,6 +6,7 @@ from __future__ import annotations
 import importlib.util
 import contextlib
 import csv
+import hashlib
 import io
 import json
 import shutil
@@ -14,6 +15,8 @@ import tempfile
 import unittest
 from unittest.mock import patch
 from email.message import EmailMessage
+from email import policy
+from email.parser import BytesParser
 from pathlib import Path
 from types import ModuleType
 
@@ -258,6 +261,244 @@ class Produktionsschutz(unittest.TestCase):
                          [attachment.name, "", "", "Vertrag wird nicht eingereicht"])
         self.assertEqual(self.run_tool("--anlagenplan", str(plan), "--ueberschreiben"), 0)
         self.assertIn("ausdrücklich ausgeschlossen", self.report())
+
+    def test_email_main_document_attachment_identity(self) -> None:
+        original = self.lead.read_bytes()
+        message = EmailMessage()
+        message.set_content("Anbei der Schriftsatz.")
+        message.add_attachment(original, maintype="application", subtype="pdf", filename=self.lead.name)
+        (self.source / "Anlage_K1_Mail.eml").write_bytes(message.as_bytes())
+        self.assertEqual(self.run_tool(), 0)
+        manifest = json.loads((self.target / "intern" / "Versandmanifest.json").read_text())
+        self.assertEqual(manifest["metadaten"]["sha256_hauptquelle"], hashlib.sha256(original).hexdigest())
+        write_pdf(self.lead, "Geaenderter Schriftsatz", 1)
+        self.assertEqual(self.run_tool("--ueberschreiben"), 3)
+        self.assertIn("E-Mail-Anhang Schriftsatz.pdf", self.report())
+
+    def rfc822_mail(self, payload: bytes, linesep: bytes = b"\n") -> Path:
+        prefix = (b'MIME-Version: 1.0\nContent-Type: multipart/mixed; boundary="outer-boundary"\n'
+                  b'Subject: Weiterleitung\n\n--outer-boundary\nContent-Type: text/plain\n\nAnbei.\n'
+                  b'--outer-boundary\nContent-Type: message/rfc822\nContent-Transfer-Encoding: 8bit\n'
+                  b'Content-Disposition: attachment; filename="Original.eml"\n\n')
+        raw = prefix.replace(b"\n", linesep) + payload + linesep + b"--outer-boundary--" + linesep
+        path = self.source / "Anlage_K1_Mail.eml"
+        path.write_bytes(raw)
+        return path
+
+    def test_main_eml_attachments_are_audited_even_when_attached_as_binary(self) -> None:
+        attachment = self.source / "Anlage_K2_Vertrag.pdf"
+        write_pdf(attachment, "Vertrag", 1)
+        payload = attachment.read_bytes()
+        attachment.unlink()
+        main = EmailMessage()
+        main["Subject"] = "Hauptnachricht"
+        main.set_content("Anbei der Vertrag.")
+        main.add_attachment(payload, maintype="application", subtype="pdf", filename="Vertrag.pdf")
+        self.lead.unlink()
+        self.lead = self.source / "Haupt.eml"
+        self.lead.write_bytes(main.as_bytes())
+        outer = EmailMessage()
+        outer.set_content("Anbei die Hauptnachricht.")
+        outer.add_attachment(self.lead.read_bytes(), maintype="application", subtype="octet-stream",
+                             filename="Haupt.eml")
+        (self.source / "Anlage_K1_Mail.eml").write_bytes(outer.as_bytes())
+        self.assertEqual(self.run_tool(), 3)
+        self.assertIn("E-Mail-Anhang Vertrag.pdf", self.report())
+        self.assertIn("Haupt.eml", self.report())
+        attachment.write_bytes(payload)
+        self.assertEqual(self.run_tool("--ueberschreiben"), 0)
+
+    def test_main_eml_without_annexes_still_checks_embedded_attachments(self) -> None:
+        main = EmailMessage()
+        main["Subject"] = "Hauptnachricht"
+        main.set_content("Anbei der Vertrag.")
+        main.add_attachment(self.lead.read_bytes(), maintype="application", subtype="pdf", filename="Vertrag.pdf")
+        self.lead.unlink()
+        self.lead = self.source / "Haupt.eml"
+        self.lead.write_bytes(main.as_bytes())
+        self.assertEqual(self.run_tool("--ohne-anlagen"), 3)
+        self.assertIn("E-Mail-Anhang Vertrag.pdf", self.report())
+        main.clear_content()
+        main.set_content("Diese Nachricht hat keine Anlagen.")
+        self.lead.write_bytes(main.as_bytes())
+        self.assertEqual(self.run_tool("--ohne-anlagen", "--ueberschreiben"), 0)
+
+    def test_explicit_rfc822_exclusion_skips_only_its_own_subtree(self) -> None:
+        nested = EmailMessage()
+        nested["Subject"] = "Ausgeschlossene Nachricht"
+        nested.set_content("Anbei der Vertrag.")
+        nested.add_attachment(b"Nicht separat eingereichter Vertrag", maintype="application", subtype="pdf",
+                              filename="Vertrag.pdf")
+        raw = nested.as_bytes()
+        excluded = self.source / "Original.eml"
+        excluded.write_bytes(raw)
+        outer = self.rfc822_mail(raw)
+        reason = "Gesamte Nachricht einschliesslich aller eingebetteten Anlagen nicht eingereicht"
+        rows = [[outer.name, "K 1", "Begleitnachricht", ""], [excluded.name, "", "", reason]]
+        plan = self.plan(*rows)
+        self.assertEqual(self.run_tool("--anlagenplan", str(plan)), 0, self.report())
+        self.assertIn("E-Mail-Anhang Original.eml ausdrücklich ausgeschlossen", self.report())
+        self.assertNotIn("E-Mail-Anhang Vertrag.pdf", self.report())
+
+        independent = self.source / "Anlage_K2_Unabhaengige_Nachricht.eml"
+        independent.write_bytes(raw)
+        plan = self.plan(*rows, [independent.name, "K 2", "Separat eingereichte Nachricht", ""])
+        self.assertEqual(self.run_tool("--anlagenplan", str(plan), "--ueberschreiben"), 3)
+        self.assertIn("E-Mail-Anhang Vertrag.pdf", self.report())
+        manifest = json.loads((self.target / "intern" / "Versandmanifest.json").read_text())
+        stops = [b for b in manifest["metadaten"]["befunde"] if b["stufe"] == "STOP"]
+        self.assertTrue(any(b["datei"] == independent.name and "Vertrag.pdf" in b["text"] for b in stops))
+        self.assertFalse(any(b["datei"] == outer.name for b in stops))
+
+        independent.unlink()
+        plan = self.plan(*rows)
+        self.rfc822_mail(raw.replace(b"Subject: Ausgeschlossene Nachricht", b"Subject: Andere Nachricht"))
+        self.assertEqual(self.run_tool("--anlagenplan", str(plan), "--ueberschreiben"), 3)
+        self.assertIn("E-Mail-Anhang Original.eml ist nicht", self.report())
+        self.assertIn("E-Mail-Anhang Vertrag.pdf", self.report())
+
+    def test_rfc822_complete_identity_lf_crlf_and_raw_hashes(self) -> None:
+        original = (b'From: sender@example.org\nTo: recipient@example.org\nSubject:  Original\n'
+                    b'X-Trace:\tfirst\n\tsecond\nContent-Type: text/plain; charset="utf-8"\n\nUnveraendert.\n')
+        source = self.source / "Anlage_K2_Original.eml"
+        for source_sep in (b"\n", b"\r\n"):
+            for attached_sep in (b"\n", b"\r\n"):
+                with self.subTest(source=source_sep, attachment=attached_sep):
+                    raw = original.replace(b"\n", source_sep)
+                    source.write_bytes(raw)
+                    mail = self.rfc822_mail(original.replace(b"\n", attached_sep), attached_sep)
+                    self.assertEqual(self.run_tool("--ueberschreiben"), 0, self.report())
+                    manifest = json.loads((self.target / "intern" / "Versandmanifest.json").read_text())
+                    hashes = {a["quelle"]: a["sha256_quelle"] for a in manifest["anlagen"]}
+                    self.assertEqual(hashes[source.name], hashlib.sha256(raw).hexdigest())
+                    self.assertEqual(hashes[mail.name], hashlib.sha256(mail.read_bytes()).hexdigest())
+                    self.assertIn("nur CRLF nach LF normalisiert", self.report())
+                    self.assertIn(hashlib.sha256(original).hexdigest(), self.report())
+                    self.assertEqual(source.read_bytes(), raw)
+
+    def test_rfc822_missing_and_changed_message_stop(self) -> None:
+        original = b"Subject: Original\nContent-Type: text/plain\n\nUnveraenderter Inhalt.\n"
+        source = self.source / "Anlage_K2_Original.eml"
+        self.rfc822_mail(original)
+        self.assertEqual(self.run_tool(), 3)
+        self.assertIn("E-Mail-Anhang Original.eml", self.report())
+        source.write_bytes(original)
+        for changed in (original.replace(b"Original", b"Andere Nachricht"),
+                        original.replace(b"Inhalt", b"Text"),
+                        original.replace(b"Subject: ", b"Subject:  "),
+                        original.replace(b"\n", b"\r"), original + b"\n"):
+            with self.subTest(payload=changed):
+                self.rfc822_mail(changed)
+                self.assertEqual(self.run_tool("--ueberschreiben"), 3)
+                self.assertIn("E-Mail-Anhang Original.eml", self.report())
+
+    def test_rfc822_nested_attachments_remain_checked(self) -> None:
+        nested = EmailMessage()
+        nested["Subject"] = "Original mit Anlage"
+        nested.set_content("Anbei der Vertrag.")
+        attachment = self.source / "Anlage_K3_Vertrag.pdf"
+        write_pdf(attachment, "Vertrag", 1)
+        original = attachment.read_bytes()
+        nested.add_attachment(original, maintype="application", subtype="pdf", filename="Vertrag.pdf")
+        nested_raw = nested.as_bytes()
+        mail = self.rfc822_mail(nested_raw)
+        (self.source / "Anlage_K2_Original.eml").write_bytes(nested_raw)
+        parsed = BytesParser(policy=policy.default).parsebytes(mail.read_bytes())
+        parts = list(self.tool.email_anhaenge(parsed))
+        self.assertEqual([p.get_filename() for p in parts], ["Original.eml", "Vertrag.pdf"])
+        self.assertIsInstance(parts[0].get_payload(), list)
+        self.assertIsNone(parts[0].get_payload(decode=True))
+        self.assertEqual(self.run_tool(), 0)
+        attachment.unlink()
+        self.assertEqual(self.run_tool("--ueberschreiben"), 3)
+        self.assertIn("E-Mail-Anhang Vertrag.pdf", self.report())
+        write_pdf(attachment, "Geaenderter Vertrag", 1)
+        self.assertEqual(self.run_tool("--ueberschreiben"), 3)
+        self.assertIn("E-Mail-Anhang Vertrag.pdf", self.report())
+
+    def test_two_rfc822_levels_preserve_payloads_and_audit_inner_sources(self) -> None:
+        attachment = self.source / "Anlage_K4_Vertrag.pdf"
+        write_pdf(attachment, "Innerer Vertrag", 1)
+        pdf_raw = attachment.read_bytes()
+        inner = EmailMessage()
+        inner["Subject"] = "Innere Nachricht"
+        inner.set_content("Anbei der innere Vertrag.")
+        inner.add_attachment(pdf_raw, maintype="application", subtype="pdf", filename="Vertrag.pdf")
+        inner.set_boundary("inner-pdf-boundary")
+        inner_raw = inner.as_bytes()
+        inner_source = self.source / "Anlage_K3_Innere_Nachricht.eml"
+        inner_source.write_bytes(inner_raw)
+        middle_source = self.source / "Anlage_K2_Original.eml"
+        outer_source = self.source / "Anlage_K1_Weiterleitung.eml"
+
+        for outer_cte in ("7bit", "8bit", "binary"):
+            for inner_cte in ("7bit", "8bit", "binary"):
+                with self.subTest(outer_encoding=outer_cte, inner_encoding=inner_cte):
+                    middle = EmailMessage()
+                    middle["Subject"] = "Erste Weiterleitung"
+                    middle.set_content("Anbei die innere Nachricht.")
+                    middle.add_attachment(inner, filename="Inner.eml", cte=inner_cte)
+                    middle.set_boundary("middle-message-boundary")
+                    middle_raw = middle.as_bytes()
+                    middle_source.write_bytes(middle_raw)
+                    outer = EmailMessage()
+                    outer["Subject"] = "Zweite Weiterleitung"
+                    outer.set_content("Anbei die erste Weiterleitung.")
+                    outer.add_attachment(middle, filename="Middle.eml", cte=outer_cte)
+                    outer.set_boundary("outer-message-boundary")
+                    outer_raw = outer.as_bytes()
+                    outer_source.write_bytes(outer_raw)
+                    parsed = BytesParser(policy=policy.default).parsebytes(outer_raw)
+                    parts = list(self.tool.email_anhaenge(parsed))
+                    self.assertEqual([p.get_filename() for p in parts],
+                                     ["Middle.eml", "Inner.eml", "Vertrag.pdf"])
+                    payloads = self.tool.email_rfc822_rohpayloads(parsed, outer_raw)
+                    self.assertEqual(set(payloads), {id(parts[0]), id(parts[1])})
+                    self.assertEqual(payloads[id(parts[0])], middle_raw)
+                    self.assertEqual(payloads[id(parts[1])], inner_raw)
+                    self.assertEqual(self.run_tool("--ueberschreiben"), 0, self.report())
+
+        inner_source.unlink()
+        self.assertEqual(self.run_tool("--ueberschreiben"), 3)
+        self.assertIn("E-Mail-Anhang Inner.eml ist nicht", self.report())
+        for changed in (inner_raw.replace(b"Subject: Innere Nachricht", b"Subject: Andere Nachricht"),
+                        inner_raw.replace(b"Anbei der innere Vertrag.", b"Anbei ein anderer Vertrag.")):
+            with self.subTest(changed_inner_message=changed):
+                inner_source.write_bytes(changed)
+                self.assertEqual(self.run_tool("--ueberschreiben"), 3)
+                self.assertIn("E-Mail-Anhang Inner.eml ist nicht", self.report())
+        inner_source.write_bytes(inner_raw)
+        attachment.unlink()
+        self.assertEqual(self.run_tool("--ueberschreiben"), 3)
+        self.assertIn("E-Mail-Anhang Vertrag.pdf ist nicht", self.report())
+        write_pdf(attachment, "Geaenderter innerer Vertrag", 1)
+        self.assertEqual(self.run_tool("--ueberschreiben"), 3)
+        self.assertIn("E-Mail-Anhang Vertrag.pdf ist nicht", self.report())
+        attachment.write_bytes(pdf_raw)
+        self.assertEqual(self.run_tool("--ueberschreiben"), 0, self.report())
+
+    def test_rfc822_malformed_boundary_stops_without_aborting(self) -> None:
+        original = b"Subject: Original\n\nUnveraendert.\n"
+        source = self.source / "Anlage_K2_Original.eml"
+        source.write_bytes(original)
+        for boundary in (b"caf\xc3\xa9", b"caf\xff"):
+            with self.subTest(boundary=boundary):
+                mail = self.rfc822_mail(original)
+                raw = mail.read_bytes().replace(b"outer-boundary", boundary)
+                mail.write_bytes(raw)
+                parsed = BytesParser(policy=policy.default).parsebytes(raw)
+                self.assertEqual(self.tool.email_rfc822_rohpayloads(parsed, raw), {})
+                self.assertEqual(self.run_tool("--ueberschreiben"), 3)
+                self.assertIn("Fehlerhafte MIME-Struktur", self.report())
+
+    def test_rfc822_unsupported_transfer_encoding_stops(self) -> None:
+        original = b"Subject: Original\n\nUnveraendert.\n"
+        (self.source / "Anlage_K2_Original.eml").write_bytes(original)
+        mail = self.rfc822_mail(original)
+        mail.write_bytes(mail.read_bytes().replace(b"Content-Transfer-Encoding: 8bit",
+                                                  b"Content-Transfer-Encoding: x-unknown"))
+        self.assertEqual(self.run_tool(), 3)
+        self.assertIn("E-Mail-Anhang Original.eml", self.report())
 
     def test_no_annex_requires_explicit_choice(self) -> None:
         self.assertEqual(self.run_tool(), 3)

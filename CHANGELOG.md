@@ -1,3 +1,11 @@
+# v445.9.2 - Vollständige Zuordnung angehängter Schriftsätze und Nachrichten
+
+Die Anhangskontrolle erkennt das ausdrücklich ausgewählte Hauptdokument als bereits erfasste Quelle. Weitergeleitete Nachrichten im Format message/rfc822 werden einschließlich ihrer Header und ihres vollständigen MIME-Inhalts abgeglichen; nur unterschiedliche CRLF-/LF-Zeilenenden werden für diesen Vergleich normalisiert. Geänderte, fehlende oder nicht eindeutig auslesbare Anhänge sperren weiterhin die Freigabe. Die Rohquellhashes bleiben unverändert dokumentiert.
+
+Zusätzliche Regressionen sichern diese Fälle. Die Begründungsschritte für Formhindernisse erhalten dezimale Unterabschnitte mit getrennten Absätzen; ihre Sammelfassung ist neu erzeugt. Diese Version veröffentlicht zugleich die nachfolgend beschriebene FinTech-Akte. Die vorgelagerten Entwurfsreleases wurden vor Veröffentlichung angehalten; ihre Tags bleiben unangetastet.
+
+Die gerichtliche Verfügung berücksichtigt die einmonatige Anzeigefrist bei Auslandszustellung nach Paragraf 276 Absatz 1 Satz 3 ZPO und zwei anschließende Wochen zur Erwiderung. Stammdaten, Schriftsatz, Downloads und Fristenregression sind damit abgeglichen.
+
 # v445.9.1 - Reproduzierbarer Release-Abgleich
 
 Die automatisch erzeugte Vollprüfung der Versandwerkstatt ist mit den zehn überarbeiteten Skills abgeglichen. Damit stimmen Einzel-Skills, eigenständige Prompts und Sammelfassung bei Originalschutz, Formroute und Anlagenzuordnung überein. Der vorgelagerte Tag v445.9.0 bleibt erhalten; sein Entwurfsrelease wurde vor Veröffentlichung angehalten. Diese Fassung veröffentlicht die nachfolgend beschriebenen Neuerungen mit vollständig nachgezogenen Ausgabedateien.

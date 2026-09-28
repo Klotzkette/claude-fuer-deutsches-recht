@@ -33,7 +33,7 @@ English: This project-file edition preserves its subfolders in both ZIP formats.
 
 ## 1.2. Zwei getrennte Arbeitswege
 
-Eine Insolvenzverwalterin nimmt eine österreichische Bank vor dem Landgericht Bremen in Anspruch. Die Unterlagen betreffen einen gewerblichen Kredit, seine Übertragung, Zahlungswege und die vorausgegangene deutsch-englische Korrespondenz. Aktenstand ist der 28.09.2026; die Frist zur Klageerwiderung läuft bis zum 20.10.2026.
+Eine Insolvenzverwalterin nimmt eine österreichische Bank vor dem Landgericht Bremen in Anspruch. Die Unterlagen betreffen einen gewerblichen Kredit, seine Übertragung, Zahlungswege und die vorausgegangene deutsch-englische Korrespondenz. Aktenstand ist der 28.09.2026; die Frist zur Klageerwiderung läuft bis zum 29.10.2026.
 
 Für die eigene Fallbearbeitung zunächst nur `01_eingang` und `03_korrespondenz` bereitstellen. `02_klageerwiderung` enthält bereits eine gesondert ausgearbeitete Verteidigerfassung und deren Anlagen. Sie ist ausdrücklich keine Musterlösung und keine gerichtliche Entscheidung, sondern der angeforderte Schriftsatz einer Partei. Das Gesamt-PDF enthält alle drei Bereiche einschließlich dieses Schriftsatzes.
 

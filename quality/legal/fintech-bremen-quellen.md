@@ -4,7 +4,7 @@
 
 Recherche- und Bearbeitungsstand: 28. September 2026. Gegenstand ist die Klageerwiderung der Nexora Frontbank AG im Verfahren Landgericht Bremen, 4 O 1186/26, Entwurfsdatum 28. September 2026. Dieser Vermerk ist ein internes Qualitätsdokument außerhalb des Schriftsatzexports. Er gehört weder zur gerichtlichen Einreichung noch zu den Anlagen B1 bis B6.
 
-Die Recherche bezieht sich auf die unten verlinkten Normtexte und Entscheidungen. Eine vollständige Erfassung sämtlicher Rechtsprechung bis zur Erwiderungsfrist am 20. Oktober 2026 ist damit nicht verbunden. Die Schriftsätze geben streitige Parteistandpunkte wieder; die Akte legt kein gerichtliches Ergebnis fest.
+Die Recherche bezieht sich auf die unten verlinkten Normtexte und Entscheidungen. Eine vollständige Erfassung sämtlicher Rechtsprechung bis zur Erwiderungsfrist am 29. Oktober 2026 ist damit nicht verbunden. Die Schriftsätze geben streitige Parteistandpunkte wieder; die Akte legt kein gerichtliches Ergebnis fest.
 
 ## 2. Tatsachengrundlage
 
@@ -12,15 +12,21 @@ Vorrangige Tatsachengrundlage ist `scripts/fixtures/fintech-bremen/case.json`. Z
 
 Festgehaltene Kerndaten: Auszahlung von 500.000 EUR am 14. Oktober 2022 um 10:11 Uhr; dreiseitige Vertragsübernahme um 12:30 Uhr; Erwerbszahlung von Vellio an die Bank über 500.000 EUR um 12:31 Uhr, jeweils UTC+02:00. Achtzehn Zinsleistungen zu 5.000 EUR ergeben 90.000 EUR; zusammen mit der Tilgung von 500.000 EUR ergeben sich 590.000 EUR Schuldnerzahlungen an Vellio. Die 515.000 EUR der letzten drei Zahlungstermine sind eine darin enthaltene Teilsumme, kein zusätzlicher Zahlungsanspruch. Die Erwerbszahlung ist davon getrennt.
 
-Insolvenzantrag: 2. Mai 2024; Eröffnung: 1. Juli 2024; Klage: 8. September 2026; Zustellung: 15. September 2026; Verteidigungsanzeige: 22. September 2026; Erwiderungsfrist: 20. Oktober 2026. Die Übernahme betrifft künftige Rechte und Pflichten; selbständig begründete Haftung aus Verhalten der Bank vor dem Übernahmezeitpunkt bleibt gesondert zu prüfen.
+Insolvenzantrag: 2. Mai 2024; Eröffnung: 1. Juli 2024; Klage: 8. September 2026; Zustellung: 15. September 2026; Verteidigungsanzeige: 22. September 2026; Erwiderungsfrist: 29. Oktober 2026. Die Übernahme betrifft künftige Rechte und Pflichten; selbständig begründete Haftung aus Verhalten der Bank vor dem Übernahmezeitpunkt bleibt gesondert zu prüfen.
 
 K7 weist zwölf offene Posten von zusammen 478.380 EUR aus, nicht sämtliche Verbindlichkeiten. K4 und der CSV-Buchungsbestand stimmen zeilenweise überein: 431.000 EUR zum Märzende, 1.025.900 EUR vor den beiden Zahlungen am 15. April, 520.900 EUR nach diesen Zahlungen von zusammen 505.000 EUR und 383.000 EUR zum Aprilende. Der unmittelbar verbleibende Kontobestand übersteigt die OP-Auswahl damit um 42.520 EUR. Daraus folgt weder ein vollständiger Liquiditätsstatus noch ein automatischer Gegenbeweis zur Zahlungseinstellung. Nicht aufgeführte Verbindlichkeiten, Verfügbarkeit und Kenntnis bleiben eigenständige Streitfragen. Die Klage verwendet keine von diesem Buchungsbestand abweichenden erfundenen Tageswerte.
 
 Eine bestimmte bankinterne Abschlussvergütung ist im verbindlichen Fallbestand nicht beziffert. Es wurde kein solcher Betrag hinzuerfunden. Fehlende Schuldnergebühren beweisen nicht, dass zwischen den Finanzierungsgesellschaften keinerlei Vergütungsvereinbarung bestand.
 
+### 2.1. Zivilprozessuale Fristen und Belehrungen
+
+Für die Zustellung in Österreich gilt zusätzlich [Paragraf 276 Absatz 1 Satz 3 ZPO](https://www.gesetze-im-internet.de/zpo/__276.html), amtlicher Text am 28. September 2026 gelesen: ein Monat zur Verteidigungsanzeige, hier bis 15. Oktober 2026. Die Verfügung setzt anschließend zwei weitere Wochen zur Erwiderung, damit bis 29. Oktober 2026. Die Belehrung nennt auch Kostenlast und vorläufige Vollstreckbarkeit ohne Sicherheitsleistung. Die tatsächlich bereits am 22. September abgegebene Anzeige bleibt rechtzeitig.
+
+Die Verfügung erläutert den möglichen Verlust von Verteidigungsmitteln und des Prozesses bei nicht entschuldigter, verzögernder Verspätung. Die Erwiderung nimmt zu Einzelrichter und Videoverhandlung Stellung. Beides wurde anhand von [Paragraf 277 Absätze 1 und 2 ZPO](https://www.gesetze-im-internet.de/zpo/__277.html), amtlicher Text am 28. September 2026 gelesen, nachgezogen. Die Stellungnahme enthält keine Aufgabe der internationalen Zuständigkeitsrüge.
+
 ## 3. Unionsrechtliche Primärquellen
 
-### 3.1 Insolvenz- und Zivilzuständigkeit
+### 3.1. Insolvenz- und Zivilzuständigkeit
 
 - [Verordnung (EU) 2015/848 vom 20. Mai 2015, ABl. L 141 vom 5. Juni 2015, Seite 19](https://eur-lex.europa.eu/eli/reg/2015/848/oj?locale=de): Artikel 6 Absatz 1 für unmittelbar insolvenzbedingte und eng verbundene Klagen; Artikel 6 Absätze 2 und 3 für die begrenzte Verbindung mit anderen Zivilklagen; Artikel 7 Absatz 2 Buchstabe m für die insolvenzrechtliche Anfechtung; Artikel 84 für den zeitlichen Anwendungsbereich. Die Bankenausnahme betrifft das Insolvenzverfahren über ein Kreditinstitut, nicht schon eine Bank als Anfechtungsbeklagte.
 - [Verordnung (EU) Nr. 1215/2012 vom 12. Dezember 2012, ABl. L 351 vom 20. Dezember 2012, Seite 1](https://eur-lex.europa.eu/eli/reg/2012/1215/oj?locale=de): Artikel 1 Absatz 2 Buchstabe b, Artikel 4 und 63, Artikel 7 Nummern 1 und 2, Artikel 25 sowie Artikel 26 Absatz 1. Die Ausnahme für Insolvenzklagen ist anspruchsbezogen. Sitz, Insolvenz und bloßer Vermögensfolgeschaden in Bremen begründen nicht für sich jeden besonderen Gerichtsstand. Eine autonome deliktische Anknüpfung an einen unmittelbaren Bremer Schaden bleibt möglich.

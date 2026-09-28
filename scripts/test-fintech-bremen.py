@@ -3,6 +3,7 @@
 
 import argparse
 import csv
+from datetime import date, timedelta
 from decimal import Decimal
 from email import policy
 from email.parser import BytesParser
@@ -27,6 +28,22 @@ ASSETS = None
 
 
 class FintechCase(unittest.TestCase):
+    def test_foreign_service_has_one_month_notice_and_two_further_weeks(self):
+        facts = json.loads((FIXTURES/'case.json').read_text())
+        self.assertEqual(facts['service_date'], '2026-09-15')
+        notice = date.fromisoformat(facts['defence_notice_deadline'])
+        self.assertEqual(notice, date(2026, 10, 15))
+        self.assertEqual(date.fromisoformat(facts['defence_deadline']), notice + timedelta(weeks=2))
+        text = '\n'.join(p.extract_text() for p in PdfReader(CASE/'01_eingang/00_Gerichtliche_Verfuegung.pdf').pages)
+        text = ' '.join(text.split())
+        self.assertIn('binnen einem Monat', text)
+        self.assertIn('zwei weiteren Wochen', text)
+        self.assertIn('ohne Sicherheitsleistung', text)
+        self.assertIn('Prozess auch bei sachlich berechtigter Verteidigung verlieren', text)
+        defence = '\n'.join(p.text for p in Document(CASE/'02_klageerwiderung/00_Klageerwiderung_20260928.docx').paragraphs)
+        self.assertIn('Einzelrichter', defence)
+        self.assertIn('Videoverhandlung', defence)
+
     def test_claim_has_25_pages_and_twelve_exhibits_have_75_pages(self):
         claim = CASE/'01_eingang/01_Klage_20260908.pdf'
         self.assertEqual(len(PdfReader(claim).pages), 25)

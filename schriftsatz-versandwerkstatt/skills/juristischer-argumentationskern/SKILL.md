@@ -17,11 +17,25 @@ Lies nur die betroffene Datei und die hierfür benötigten Nachweise: Hash, Vers
 
 ## 3. Prüfung und Fortsetzung
 
-1. Trenne technischen Befund, gesetzliche Formanforderung und strengere Kanzleiregel. 80 Zeichen sind das interne Namensprofil, nicht die gesetzliche Höchstgrenze.
-2. Beschreibe den Befund mit konkretem Dateinamen und Fundstelle: nicht „Signatur fehlerhaft“, sondern etwa „Die PDF wurde nach dem vorliegenden Signaturprüfbericht erneut gestempelt; der Bericht betrifft eine andere Dateifassung.“
-3. Ordne nur die einschlägige Regel zu. Bei einem Zivilverfahren steuert Paragraf 130a Absatz 3 ZPO die Signaturroute, Absatz 5 den Eingang und Absatz 6 die Behandlung ungeeigneter Dokumente. Verfahrensordnung und Art des Hindernisses nicht vermischen.
-4. Prüfe eine naheliegende alternative Erklärung: Namensabweichung kann durch eine zulässige qES-Route geklärt sein; geringe Textauslesbarkeit beweist für sich keine Formunwirksamkeit; „gesendet“ beweist noch keinen gerichtlichen Eingang.
-5. Benenne den genau erforderlichen Nachweis oder Arbeitsschritt. Danach zu Signaturprüfung, PDF-Produktion oder Eingangskontrolle zurückkehren. Nicht bei einer abstrakten Rechtsauskunft abbrechen.
+### 3.1. Prüfmaßstab bestimmen
+
+Trenne technischen Befund, gesetzliche Formanforderung und strengere Kanzleiregel. 80 Zeichen sind das interne Namensprofil, nicht die gesetzliche Höchstgrenze.
+
+### 3.2. Befund an der Datei belegen
+
+Beschreibe den Befund mit konkretem Dateinamen und Fundstelle: nicht „Signatur fehlerhaft“, sondern etwa „Die PDF wurde nach dem vorliegenden Signaturprüfbericht erneut gestempelt; der Bericht betrifft eine andere Dateifassung.“
+
+### 3.3. Formanforderung zuordnen
+
+Ordne nur die einschlägige Regel zu. Bei einem Zivilverfahren steuert Paragraf 130a Absatz 3 ZPO die Signaturroute, Absatz 5 den Eingang und Absatz 6 die Behandlung ungeeigneter Dokumente. Verfahrensordnung und Art des Hindernisses nicht vermischen.
+
+### 3.4. Alternative Erklärung prüfen
+
+Prüfe eine naheliegende alternative Erklärung: Namensabweichung kann durch eine zulässige qES-Route geklärt sein; geringe Textauslesbarkeit beweist für sich keine Formunwirksamkeit; „gesendet“ beweist noch keinen gerichtlichen Eingang.
+
+### 3.5. Produktion gezielt fortsetzen
+
+Benenne den genau erforderlichen Nachweis oder Arbeitsschritt. Danach zu Signaturprüfung, PDF-Produktion oder Eingangskontrolle zurückkehren. Nicht bei einer abstrakten Rechtsauskunft abbrechen.
 
 Bei einem bereits erfolgten Versand keine automatische Heilung behaupten. Einen gerichtlichen Formhinweis an `stoerung-und-nachreichung-dokumentieren` übergeben; eine erneute Datei darf nur mit tatsächlicher Inhaltsidentität und passender Verfahrensgrundlage als Nachreichung behandelt werden.
 

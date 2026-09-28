@@ -269,13 +269,63 @@ def konvertiere_html(quelle: Path, ziel: Path) -> None:
 
 
 def email_anhaenge(nachricht):
-    """Auch Bilder im ausgewählten HTML-/Related-Nachrichtenteil erfassen."""
+    """Auch Related-Bilder und innere Anhaenge angehaengter Nachrichten erfassen."""
     direkt = list(nachricht.iter_attachments())
     yield from direkt
     direkte_ids = {id(part) for part in direkt}
     for part in nachricht.iter_parts():
-        if id(part) not in direkte_ids and part.is_multipart():
+        if part.is_multipart() and (id(part) not in direkte_ids or part.get_content_type() == "message/rfc822"):
             yield from email_anhaenge(part)
+
+
+def email_rfc822_rohpayloads(nachricht, roh: bytes) -> dict[int, bytes]:
+    """RFC822-Payloads ohne verlustbehaftetes Neuformatieren der Header erfassen."""
+    teile = re.split(br"\r?\n\r?\n", roh, maxsplit=1)
+    if len(teile) != 2:
+        return {}
+    body = teile[1]
+    if nachricht.get_content_type() == "message/rfc822":
+        encoding = str(nachricht.get("Content-Transfer-Encoding", "7bit")).strip().lower()
+        if encoding not in {"7bit", "8bit", "binary"}:
+            return {}
+        ergebnis = {id(nachricht): body}
+        kinder = nachricht.get_payload()
+        if isinstance(kinder, list) and len(kinder) == 1:
+            ergebnis.update(email_rfc822_rohpayloads(kinder[0], body))
+        return ergebnis
+    grenze = nachricht.get_boundary()
+    if nachricht.get_content_maintype() != "multipart" or not grenze:
+        return {}
+    try:
+        grenze_bytes = grenze.encode("ascii")
+    except UnicodeError:
+        return {}
+    muster = br"(?m)^--" + re.escape(grenze_bytes) + br"(--)?[ \t]*(?:\r?\n|\Z)"
+    roh_teile = []
+    start = None
+    abgeschlossen = False
+    for treffer in re.finditer(muster, body):
+        if start is not None:
+            teil = body[start:treffer.start()]
+            # Genau ein Zeilenende gehoert zur folgenden MIME-Grenze, nicht zum Payload.
+            teil = teil[:-2] if teil.endswith(b"\r\n") else teil[:-1] if teil.endswith(b"\n") else teil
+            roh_teile.append(teil)
+        if treffer.group(1):
+            abgeschlossen = True
+            break
+        start = treffer.end()
+    kinder = list(nachricht.iter_parts())
+    if not abgeschlossen or len(roh_teile) != len(kinder):
+        return {}
+    ergebnis = {}
+    for kind, teil in zip(kinder, roh_teile):
+        ergebnis.update(email_rfc822_rohpayloads(kind, teil))
+    return ergebnis
+
+
+def email_vergleich_hash(roh: bytes) -> str:
+    """Nur CRLF nach LF normalisieren; Header und kompletter MIME-Inhalt bleiben erhalten."""
+    return hashlib.sha256(roh.replace(b"\r\n", b"\n")).hexdigest()
 
 
 def konvertiere_email(quelle: Path, ziel: Path) -> None:
@@ -483,22 +533,61 @@ def lese_anlagen(
 
     anlagen.sort(key=lambda a: a.sortier_schluessel)
     quell_hashes = {a.quell_hash for a in anlagen}
+    quellen = [a.quelle for a in anlagen]
+    if hauptdokument:
+        quell_hashes.add(sha256(hauptdokument))
+        quellen.append(hauptdokument)
+    mail_quellen = {email_vergleich_hash(p.read_bytes()): p
+                    for p in quellen if p.suffix.lower() == ".eml"}
     ausgelassen = {sha256(eingang / key): row["auslassen_grund"]
                    for key, row in (plan or {}).items() if row["auslassen_grund"]}
-    for anlage in anlagen:
-        if anlage.quelle.suffix.lower() != ".eml":
+    mail_ausgelassen = {email_vergleich_hash((eingang / key).read_bytes()): row["auslassen_grund"]
+                       for key, row in (plan or {}).items()
+                       if row["auslassen_grund"] and Path(key).suffix.lower() == ".eml"}
+    for quelle in quellen:
+        if quelle.suffix.lower() != ".eml":
             continue
-        nachricht = BytesParser(policy=policy.default).parsebytes(anlage.quelle.read_bytes())
+        try:
+            quelle_relativ = quelle.relative_to(eingang).as_posix()
+        except ValueError:
+            quelle_relativ = str(quelle)
+        roh = quelle.read_bytes()
+        nachricht = BytesParser(policy=policy.default).parsebytes(roh)
+        rfc822_payloads = email_rfc822_rohpayloads(nachricht, roh)
+        ausgeschlossene_unterteile = set()
+        for part in nachricht.walk():
+            payload = rfc822_payloads.get(id(part))
+            if payload is not None and email_vergleich_hash(payload) in mail_ausgelassen:
+                # Nur dieser nachgewiesene Nachrichten-Unterbaum ist ausgeschlossen,
+                # nicht identische Inhalte in separat ausgewaehlten Quellen.
+                ausgeschlossene_unterteile.update(id(kind) for kind in part.walk() if kind is not part)
+        if any(id(part) not in ausgeschlossene_unterteile
+               and part.get_content_maintype() == "multipart" and (not part.is_multipart() or part.defects)
+               for part in nachricht.walk()):
+            befunde.append(Befund("STOP", quelle_relativ,
+                                 "Fehlerhafte MIME-Struktur; Vollständigkeit der E-Mail-Anhänge nicht belegbar"))
         for part in email_anhaenge(nachricht):
+            if id(part) in ausgeschlossene_unterteile:
+                continue
             name = part.get_filename() or "ohne Dateiname"
-            payload = part.get_payload(decode=True)
+            rfc822 = part.get_content_type() == "message/rfc822"
+            payload = rfc822_payloads.get(id(part)) if rfc822 else part.get_payload(decode=True)
             if part.get_content_disposition() != "attachment":
-                befunde.append(Befund("WARNUNG", anlage.quelle_relativ, f"Eingebetteter E-Mail-Inhalt {name}: Textausgabe ersetzt keine visuelle Wiedergabe"))
+                befunde.append(Befund("WARNUNG", quelle_relativ, f"Eingebetteter E-Mail-Inhalt {name}: Textausgabe ersetzt keine visuelle Wiedergabe"))
             digest = hashlib.sha256(payload).hexdigest() if payload is not None else ""
-            if digest in ausgelassen:
-                befunde.append(Befund("HINWEIS", anlage.quelle_relativ, f"E-Mail-Anhang {name} ausdrücklich ausgeschlossen: {ausgelassen[digest]}"))
-            elif digest not in quell_hashes:
-                befunde.append(Befund("STOP", anlage.quelle_relativ, f"E-Mail-Anhang {name} ist nicht als eigene unveränderte Anlagenquelle zugeordnet oder begründet ausgeschlossen"))
+            erfasst = digest in quell_hashes
+            grund = ausgelassen.get(digest)
+            if rfc822 and payload is not None:
+                digest = email_vergleich_hash(payload)
+                erfasst = digest in mail_quellen
+                grund = mail_ausgelassen.get(digest)
+                if erfasst or grund:
+                    befunde.append(Befund("HINWEIS", quelle_relativ,
+                                         f"E-Mail-Anhang {name}: Vergleichsbasis vollständiger RFC822-Rohpayload einschließlich Headern und MIME-Inhalt; nur CRLF nach LF normalisiert; SHA-256 Vergleich: {digest}"))
+            if grund:
+                befunde.append(Befund("HINWEIS", quelle_relativ, f"E-Mail-Anhang {name} ausdrücklich ausgeschlossen: {grund}"))
+            elif not erfasst:
+                befunde.append(Befund("STOP", quelle_relativ, f"E-Mail-Anhang {name} ist nicht als eigene unveränderte Anlagenquelle zugeordnet oder begründet ausgeschlossen"))
     return anlagen, befunde
 
 
