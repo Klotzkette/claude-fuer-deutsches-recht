@@ -140,6 +140,20 @@ for (const entry of marketplace.plugins || []) {
   if (!manifest) continue;
   if (manifest.name !== entry.name) errors.push(`${rel(manifestPath)}: name passt nicht zum Marketplace`);
   if (manifest.version !== marketplace.version) errors.push(`${rel(manifestPath)}: Version passt nicht zum Marketplace`);
+  const codexManifestPath = path.join(pluginRoot, '.codex-plugin', 'plugin.json');
+  if (fs.existsSync(codexManifestPath)) {
+    const codexManifest = readJson(codexManifestPath);
+    if (!codexManifest || typeof codexManifest !== 'object' || Array.isArray(codexManifest)) {
+      errors.push(`${rel(codexManifestPath)}: Manifest muss ein JSON-Objekt sein`);
+    } else {
+      if (codexManifest.name !== entry.name || codexManifest.name !== manifest.name) {
+        errors.push(`${rel(codexManifestPath)}: name passt nicht zu Marketplace und Claude-Manifest`);
+      }
+      if (codexManifest.version !== marketplace.version || codexManifest.version !== manifest.version) {
+        errors.push(`${rel(codexManifestPath)}: Version passt nicht zu Marketplace und Claude-Manifest`);
+      }
+    }
+  }
   checkDescription(rel(manifestPath), manifest.description, 300);
   if (!manifest.author || manifest.author.name !== 'Klotzkette') errors.push(`${rel(manifestPath)}: author.name fehlt oder ist falsch`);
   if (!manifest.author || manifest.author.email !== '39582916+Klotzkette@users.noreply.github.com') {

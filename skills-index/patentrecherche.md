@@ -1,6 +1,6 @@
 # patentrecherche
 
-**58 Skills** · Stand `v445.14.2`
+**58 Skills** · Stand `v445.15.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../patentrecherche/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

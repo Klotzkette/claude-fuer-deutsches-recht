@@ -1,0 +1,83 @@
+{
+  "checked_on": "2026-09-29",
+  "method": "three_independent_agent_forward_runs_then_parent_review",
+  "files": [
+    {
+      "path": "gmbh-gesellschafterversammlung/gmbh-gesellschafterversammlung-schnellstart.md",
+      "sha256": "ddf7abc1ba74864e321fa006f438c4a495974e37f21e3c9f69b62e9476c1e6f3"
+    },
+    {
+      "path": "gmbh-gesellschafterversammlung/gmbh-gesellschafterversammlung-werkstatt.md",
+      "sha256": "b125377b17d3a72271c8b2091417a42306e74fba7ab4b59e4ba5b3d358037f7e"
+    },
+    {
+      "path": "gmbh-gesellschafterversammlung/skills/einladung-und-tagesordnung-erstellen/SKILL.md",
+      "sha256": "06f5a3012047baed099239b9909b47d21945909a92222b974d79422e1c5f84da"
+    },
+    {
+      "path": "gmbh-gesellschafterversammlung/skills/gesellschafterversammlung-organisieren/SKILL.md",
+      "sha256": "b06f367ce12d415f8fe613018ec135bed858d9dc3c14f72f88c6f19961d407e9"
+    },
+    {
+      "path": "gmbh-gesellschafterversammlung/skills/nachtraege-und-minderheitsverlangen-bearbeiten/SKILL.md",
+      "sha256": "6ba7af751bc5313fc3caf13dc22c7e28c8d331fdfee56653ce2c971cc82633fe"
+    },
+    {
+      "path": "gmbh-gesellschafterversammlung/skills/protokoll-und-vollzug-vorbereiten/SKILL.md",
+      "sha256": "50ee53326785e6ee31c3b2d600c2342358434f7fe9f6372b38709beefda4e975"
+    },
+    {
+      "path": "gmbh-gesellschafterversammlung/skills/stimmen-und-beschluesse-dokumentieren/SKILL.md",
+      "sha256": "3b2738244d8516d53b98fcb4b30c6fc6d5a73f731c8b1d821e4b66b3c598d067"
+    },
+    {
+      "path": "gmbh-gesellschafterversammlung/skills/unterlagen-und-versammlungsregeln-pruefen/SKILL.md",
+      "sha256": "a10c213f7cb82b54e73b927bfc4398d94777496f0322b3932c98c331d9799be7"
+    },
+    {
+      "path": "quality/gmbh-gesellschafterversammlung/README.md",
+      "sha256": "e361202b2b4d44b298bef90a7f1861c7433c7e4e2aec564f73e0102862523bfe"
+    },
+    {
+      "path": "quality/gmbh-gesellschafterversammlung/hauptskill-auftrag.md",
+      "sha256": "d72a92bf0ab55c41311e0fcade0d3e2435c0a886e70559d20a75d487476ab0b4"
+    },
+    {
+      "path": "quality/gmbh-gesellschafterversammlung/hauptskill-ergebnis.md",
+      "sha256": "fb929bd9446cf4ddb521f85807ceaad9d73f9c473262253538f547c8fc5430cc"
+    },
+    {
+      "path": "quality/gmbh-gesellschafterversammlung/hauptskill-laufnotiz.md",
+      "sha256": "8b46aa2a35e44888ec81583b5daabed9a4c35e822e999cde56bf3e56f3a4db40"
+    },
+    {
+      "path": "quality/gmbh-gesellschafterversammlung/mini-auftrag.md",
+      "sha256": "ed5960a171e9a1629f250895ab7a4db946a9a859a86528106fa245b1c1575914"
+    },
+    {
+      "path": "quality/gmbh-gesellschafterversammlung/mini-ergebnis.md",
+      "sha256": "3836fa2ba354798a79ca36f7e6a47a4e728b2994fb32512b11fba42f3d9a410b"
+    },
+    {
+      "path": "quality/gmbh-gesellschafterversammlung/mini-laufnotiz.md",
+      "sha256": "960d12e40c03636da5079a45b075e38adaaea7c648632a93132a231a1a0ef8c0"
+    },
+    {
+      "path": "quality/gmbh-gesellschafterversammlung/workshop-auftrag.md",
+      "sha256": "04024ddb19629564e66d326bec2268ee81fb508dba8206b7ff64a6c99caf635d"
+    },
+    {
+      "path": "quality/gmbh-gesellschafterversammlung/workshop-ergebnis.md",
+      "sha256": "57a3072890fea2fcc2c4a0778e1fc04eb865d251cb25be77443f7f40e2c8a059"
+    },
+    {
+      "path": "quality/gmbh-gesellschafterversammlung/workshop-laufnotiz.md",
+      "sha256": "43f09fb0dbf715150ce496fb0cda63af9eab6f874c4ed3b8e4f900b710d6f013"
+    }
+  ],
+  "raw_output_sha256_before_markdown_normalization": {
+    "workshop-ergebnis.md": "0a9dd0a9db99e7969ab85d89ae19d87b317d1b079b7615bbae11e4280b3935fc",
+    "mini-ergebnis.md": "081125d63a6681722625aa919fded76442ccac9cf060414d805e659b1e96380f",
+    "hauptskill-ergebnis.md": "fb929bd9446cf4ddb521f85807ceaad9d73f9c473262253538f547c8fc5430cc"
+  }
+}

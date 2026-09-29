@@ -13,8 +13,13 @@
       "hand_curated": true
     },
     "juristische-praesentationen": {
-      "standalone": ["werkstatt", "schnellstart"],
-      "formats": ["md"],
+      "standalone": [
+        "werkstatt",
+        "schnellstart"
+      ],
+      "formats": [
+        "md"
+      ],
       "megaprompt": false,
       "hand_curated": true
     },
@@ -26,6 +31,17 @@
       "formats": [
         "md",
         "txt"
+      ],
+      "megaprompt": false,
+      "hand_curated": true
+    },
+    "gmbh-gesellschafterversammlung": {
+      "standalone": [
+        "werkstatt",
+        "schnellstart"
+      ],
+      "formats": [
+        "md"
       ],
       "megaprompt": false,
       "hand_curated": true

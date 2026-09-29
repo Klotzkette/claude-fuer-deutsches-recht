@@ -55,7 +55,9 @@ jobs:
         run: python3 scripts/validate-yaml-frontmatter.py
 
       - name: Marketplace-Import validieren
-        run: node scripts/validate-marketplace-import.mjs
+        run: |
+          python3 scripts/test-marketplace-import.py
+          node scripts/validate-marketplace-import.mjs
 
       - name: Laufzeitbudgets der Plugins validieren
         run: python3 scripts/validate-runtime-performance.py
@@ -174,6 +176,7 @@ jobs:
           python3 scripts/audit-quickstart-usability.py
           python3 scripts/validate-current-law-sentinels.py
           python3 scripts/test-legal-calculators.py
+          python3 scripts/test-gmbh-gesellschafterversammlung.py
           node scripts/test-liquiditaetsplanung-rechenlogik.mjs
           python3 scripts/test-liquiditaetsplanung-excel.py
           python3 scripts/test-bea-versandmappe.py

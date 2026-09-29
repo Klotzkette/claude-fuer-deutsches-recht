@@ -1,0 +1,318 @@
+{
+  "schema_version": 1,
+  "plugin": "gmbh-gesellschafterversammlung",
+  "reviewed_on": "2026-09-29",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__48.html",
+      "checked_on": "2026-09-29",
+      "supports": "Format-Zustimmung, aktueller Umlauf in Textform und Einpersonenniederschrift."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__51.html",
+      "checked_on": "2026-09-29",
+      "supports": "Ladungsform, Mindestfrist, Ankündigung und Heilungsfragen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__53.html",
+      "checked_on": "2026-09-29",
+      "supports": "Mehrheit in Abs.2, notarielle Beurkundung in Abs.3 und zusätzliche Zustimmung in Abs.4."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/postg_2024/__18.html",
+      "checked_on": "2026-09-29",
+      "supports": "Aktuelle statistische Postlaufvorgaben ohne individuelle Zugangsfiktion."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2025/II_ZR___2-25A.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-29",
+      "supports": "Rn.34–40: richtige juristische Gesellschafterin laden; Nachtrag ersetzt Ersteinladung nicht automatisch."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2016/II_ZR__77-16.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-29",
+      "supports": "Rn.9–15: objektiver wichtiger Grund; Leitungsmaßstab wird ausdrücklich nicht entschieden."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2023/II_ZR__85-23.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-29",
+      "supports": "Rn.17–22: persönlicher Konflikt eines für eine Gesellschaft handelnden Vertreters."
+    }
+  ],
+  "selection": {
+    "target_skill": "gesellschafterversammlung-organisieren",
+    "positive": [
+      "Bereite aus unserer GmbH-Satzung die Einladung und den ausfüllbaren Leitfaden vor.",
+      "Ergänze die Tagesordnung der UG-Versammlung und prüfe den Minderheitsantrag.",
+      "Erstelle aus den tatsächlichen Einzelvoten unser Protokoll und das Notarpaket."
+    ],
+    "negative": [
+      "Gründe eine neue GmbH und entwirf eine vollständige Gründungssatzung.",
+      "Organisiere die Hauptversammlung einer börsennotierten Aktiengesellschaft.",
+      "Führe selbständig eine Klage gegen einen Geschäftsführer ohne Versammlungsauftrag."
+    ]
+  },
+  "cases": [
+    {
+      "id": "klarer-auftrag-direkt-einladen",
+      "target_skill": "gesellschafterversammlung-organisieren",
+      "request": "Heute ist der 29.09.2026. Bitte erstelle ergebnis.md als Einladung zur Fliederwerk GmbH am 20.10.2026 um 14 Uhr in Hannover, Am Fiktivhof 7. Berta ist unstreitig Geschäftsführerin. Drei gelistete Gesellschafter Albrecht, Berta und Cäcilie halten 60/25/15 Prozent. Die wirksame Satzung erlaubt jedem Geschäftsführer E-Mail-Einladungen mit Zugang mindestens 14 Tage vor der Sitzung; die E-Mail-Adressen fehlen noch. Einziger TOP ist die Bestellung von Dorothea als weiterer Geschäftsführerin ohne Einzelvertretung; Identifikationsdaten werden nachgereicht. Bitte keine Versendung.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Eine vollständige Einladung und Beschlussvorlage mit klaren Platzhaltern entsteht; bekannte Rolle, Datum und Zweck werden nicht erneut allgemein abgefragt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Satzungsrechtliche E-Mail-Form wird nicht pauschal durch Einschreiben ersetzt. Zugang und vorgesehener Versand sowie konservative Terminplanung werden getrennt behandelt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Keine erfolgte Bestellung, Annahme, Eintragung oder Versendung erfinden. Personenangaben und Empfängeradressen gezielt nachfordern; Registerfolge getrennt erläutern.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "satzungsfassungen-und-zwei-rechtstraeger",
+      "target_skill": "unterlagen-und-versammlungsregeln-pruefen",
+      "request": "Schreibe ergebnis.md als Regel- und Nachforderungsvermerk: Im Ordner liegt die Satzung vom 01.02.2023 mit vier Wochen Zugangsvorlauf und eine nicht unterschriebene Datei Satzung_NEU von 2026 mit einer Woche ab Absendung. Änderungsurkunde und Registerstand fehlen. Die aufgenommene Gesellschafterliste führt zwei Gesellschaften Lindenholding GmbH und Lindenkapital GmbH. Beide haben denselben Geschäftsführer; der Entwurf nennt nur Lindenholding. Die Auftraggeberin will in zehn Tagen tagen.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Keine stillschweigende Übernahme der günstigen neueren Datei; Änderungsurkunde, Eintragung und anwendbare Klausel gezielt klären.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Beide Gesellschaften gesondert als Einladungsadressaten behandeln; Wissen desselben Geschäftsführers ersetzt die richtige Ladung nicht.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Vorläufige Regeln und verwendbare nächste Arbeitsschritte liefern, keine als gesichert berechnete knappe Frist behaupten.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "video-und-tagesordnung",
+      "target_skill": "einladung-und-tagesordnung-erstellen",
+      "request": "Bitte erstelle ergebnis.md mit Einladung und konkretem Klärungsvermerk für die Kranich UG. Die Satzung enthält keine Regel für Video, Hybrid oder Umlauf. Von drei Gesellschaftern haben zwei per E-Mail dem Videotermin zugestimmt; der dritte antwortete nicht. Für den Tag steht ein Einwahllink fest. Neben Jahresabschluss soll unter Verschiedenes die Satzung geändert werden; ein Notar ist nicht eingebunden. Unterlagen zum Jahresabschluss und das Geschäftsjahresende fehlen noch.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Fehlendes Format-Einverständnis aller erkennen; Link oder Schweigen nicht zur Zustimmung machen. Rechtlich tragfähige Alternative oder gezielte Nachforderung vorbereiten.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Satzungsänderung konkret ankündigen und §53Abs3 GmbHG für Beurkundung benennen, keinen privaten Videocall als notarielle Beurkundung ausgeben.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Jahresabschluss und UG-Rücklage nicht ohne Zahlen abschließend beschließen; §5aAbs5 und Größen-/Geschäftsjahrfragen berücksichtigen, fertigen begrenzten Entwurf liefern.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "minderheit-und-nachtrag",
+      "target_skill": "nachtraege-und-minderheitsverlangen-bearbeiten",
+      "request": "Erstelle ergebnis.md: Eine Gesellschafterin hält 12 Prozent. Sie hat nachweisbar schriftlich eine Versammlung zur konkret begründeten Anspruchsverfolgung gegen einen Geschäftsführer verlangt. Die Geschäftsführung schickte eine Einladung ohne Unterschrift, obwohl die wirksame Satzung unterschriebene Briefe verlangt. Ein Gesellschafter erhielt überhaupt keine Einladung. Nun sollen alle zwei Tage vor dem Termin nur eine erweiterte Tagesordnung per E-Mail erhalten. Die Minderheit fragt, ob sie selbst einladen kann.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Einberufungsverlangen und Reaktion nach §50GmbHG chronologisch prüfen; fehlerhafte Einladung nicht als automatische Erfüllung behandeln, keine starre gesetzliche Antwortfrist erfinden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Nachtrag ersetzt die fehlende Grundeinladung nicht automatisch; ursprüngliche und zusätzliche Gegenstände, Form, Empfänger und Fristen auseinanderhalten.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Keinen als sicher zulässigen Zweitagesnachtrag ausgeben. Vollversammlung braucht tatsächlich geprüfte Voraussetzungen; verwendbares Schreiben und nächsten Schritt formulieren.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "streitige-stimmen-und-vorbereitetes-protokoll",
+      "target_skill": "stimmen-und-beschluesse-dokumentieren",
+      "request": "Schreibe ergebnis.md als Leitfaden für eine noch nicht abgehaltene GmbH-Versammlung. A hält 60 Stimmen, B25 und C15. B und C wollen A aus wichtigem Grund abberufen; A bestreitet den Vorwurf und wird Nein stimmen, beide anderen Ja. Die Satzung verlangt die Mehrheit abgegebener gültiger Stimmen und schweigt zur Feststellungskompetenz. B wird voraussichtlich zur Leitung vorgeschlagen. Der Auftraggeber verlangt den fertigen Satz Beschluss einstimmig angenommen, A hatte kein Stimmrecht.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Geplante Voten und Sprechtexte von tatsächlichen Beschlüssen trennen; keinen schon gefassten einstimmigen Beschluss fingieren.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "40/100 und bei begründetem Ausschluss40/40 unter passenden Annahmen exakt berechnen; daraus nicht die juristische Richtigkeit des Ausschlusses ableiten.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Wichtigen Grund mit Tatsachen/Belegen und Bestreiten klären; BGHII ZR77/16 lässt den Leitungsmaßstab offen. Leitung und Feststellungskompetenz nicht gleichsetzen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "register-und-einpersonenniederschrift",
+      "target_skill": "protokoll-und-vollzug-vorbereiten",
+      "request": "Bitte schreibe ergebnis.md als tatsächlichen Protokollentwurf mit Vollzugsliste: Die alleinige Gesellschafterin der Fabel GmbH hat heute nachweisbar Dorothea mit Wirkung sofort zur Geschäftsführerin bestellt, Dorothea nahm an. Außerdem will sie den Sitz laut Satzung nach Bremen verlegen; diese Änderung ist erst geplant. Es gibt keine Unterschrift, keine Beurkundung und keine Registeranmeldung. Der bisherige Geschäftsführer bleibt bestellt. Ein Dienstvertrag liegt als nicht abgestimmter Entwurf vor.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Tatsächlich beschlossene Bestellung mit Annahme und Zeitpunkt darstellen, künftige Sitzänderung nicht als bereits beschlossen oder wirksam verbuchen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "§48Abs3 Niederschrift/Unterschrift sowie §§39,78GmbHG und§12HGB getrennt zuordnen. Keine automatisch erforderliche neue Gesellschafterliste allein wegen zusätzlicher Geschäftsführung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Sitzänderung §53Abs2/3 und§54Abs3, Dienstvertrag samt Abschlussvertretung getrennt vorbereiten. Keine erfundenen Unterschriften, Beurkundungen oder Eintragungen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-29",
+    "method": "desk_review",
+    "files": [
+      "gmbh-gesellschafterversammlung/README.md",
+      "gmbh-gesellschafterversammlung/gmbh-gesellschafterversammlung-werkstatt.md",
+      "gmbh-gesellschafterversammlung/gmbh-gesellschafterversammlung-schnellstart.md",
+      "gmbh-gesellschafterversammlung/references/rechtsprechung.md"
+    ],
+    "opening_change": "Aus dem vorhandenen Auftrag direkt das verlangte Dokument erstellen; Satzungslücken und zeitkritische Fragen konkret stellen und unabhängige Teile fortführen.",
+    "norms": [
+      "§§45–51GmbHG: konkrete Satzung, Einberufung, Formate und Beschlussfassung",
+      "§53Abs2–4 und§54GmbHG: Mehrheit, notarielle Form, zusätzliche Zustimmung und Eintragung",
+      "§5aAbs3–5GmbHG: UG-Rücklage, Einberufung und Kapitalerhöhung",
+      "§12HGB: Anmeldung und Form der beigefügten Nachweise"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom05.05.2026 – II ZR2/25, Rn.34–40",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2025/II_ZR___2-25A.pdf?__blob=publicationFile&v=1",
+        "application": "Einladung pro juristischer Gesellschafterin; fehlende Erstladung nicht durch bloßen Nachtrag ersetzen.",
+        "limit": "Keine allgemeine Vierwochenfrist und keine pauschale Gleichsetzung jedes Adressfehlers mit Nichtladung."
+      },
+      {
+        "citation": "BGH, Urteil vom04.04.2017 – II ZR77/16, Rn.9–15",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2016/II_ZR__77-16.pdf?__blob=publicationFile&v=1",
+        "application": "Objektiven wichtigen Grund und die streitige Behandlung in der Versammlung getrennt prüfen und beide Stimmenvarianten dokumentieren.",
+        "limit": "Rn14 entscheidet den Leitungsmaßstab ausdrücklich nicht; kein Stimmausschluss allein aus Behauptung."
+      }
+    ],
+    "remaining_limits": [
+      "Gezielte Quellen- und Redaktionsprüfung; keine universelle Einzelfallfreigabe.",
+      "Konkrete Tagesmitzählung knapper Nachträge erfordert gesonderte Prüfung; kein generischer Fristenrechner.",
+      "Die hier beschriebenen sechs Bewertungsfälle sind Testaufträge und nicht automatisch bestandene Modellläufe. Tatsächliche unabhängige Probeläufe werden gesondert dokumentiert."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-29",
+    "method": "desk_review",
+    "opening_modes": [
+      "Klare Einladung: direkt Entwurf mit den tatsächlich offenen Daten.",
+      "Bereits versandt: Nachtrag und bisherige Fassungen übernehmen.",
+      "Nach Sitzung: tatsächliche Ereignisse prüfen und Protokoll fortführen.",
+      "Unbestimmter Start: Gesellschaft, Rolle, Ziel und tragende Unterlagen klären."
+    ],
+    "continuation": "Antworten ändern nur betroffene Klauseln, Empfänger, Fristen, Anlagen und TOP; versandte Fassungen erhalten.",
+    "enrichment": "Formulierte Einladung, Ergänzung und Regietexte; konkrete Einzelvoten, Rechenvarianten und Vollzugsschritte anstelle einer bloßen Checkliste.",
+    "limits": "Redaktionelle Workflow-Prüfung; tatsächliche Modell-Probeläufe separat, kein realer Versand oder Registervollzug."
+  },
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Eigenständig ausformulierter Arbeitsablauf für GmbH/UG; Quellenabgleich und redaktionelle Prüfung mit Trennung von Planung und tatsächlichen Beschlüssen.",
+    "changes": [
+      "Gezielte Rückfragen und vollständige Dokumente aus dem vorhandenen Stand.",
+      "Aktuelle Textform im Umlauf, getrennte Ladung juristischer Personen und keine pauschale Postlaufannahme.",
+      "Feststellungskompetenz, Stimmverbot, exakte Rechenvarianten und notarielle Form eigenständig prüfen."
+    ],
+    "sha256": "ddf7abc1ba74864e321fa006f438c4a495974e37f21e3c9f69b62e9476c1e6f3"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Eigenständig ausformulierter Arbeitsablauf für GmbH/UG; Quellenabgleich und redaktionelle Prüfung mit Trennung von Planung und tatsächlichen Beschlüssen.",
+    "changes": [
+      "Gezielte Rückfragen und vollständige Dokumente aus dem vorhandenen Stand.",
+      "Aktuelle Textform im Umlauf, getrennte Ladung juristischer Personen und keine pauschale Postlaufannahme.",
+      "Feststellungskompetenz, Stimmverbot, exakte Rechenvarianten und notarielle Form eigenständig prüfen."
+    ],
+    "sha256": "b125377b17d3a72271c8b2091417a42306e74fba7ab4b59e4ba5b3d358037f7e"
+  }
+}

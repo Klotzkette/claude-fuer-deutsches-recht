@@ -121,6 +121,12 @@ EXACT_GROUPS: dict[str, str] = {
 }
 
 PLUGIN_GROUPS = {
+    "gmbh-gesellschafterversammlung": [
+        ("1. Gesamten Vorgang führen", ["gesellschafterversammlung-organisieren"]),
+        ("2. Regeln und Einladung", ["unterlagen-und-versammlungsregeln-pruefen", "einladung-und-tagesordnung-erstellen"]),
+        ("3. Laufende Änderungen", ["nachtraege-und-minderheitsverlangen-bearbeiten"]),
+        ("4. Versammlung und Abschluss", ["stimmen-und-beschluesse-dokumentieren", "protokoll-und-vollzug-vorbereiten"]),
+    ],
     "juristische-praesentationen": [
         ("1. Vortrag übernehmen", ["praesentation-starten"]),
         ("2. Anlass und Publikum", ["urteil-als-vortrag-aufbereiten", "fachvortrag-fuer-juristen", "rechtsfragen-fuer-laien-erklaeren", "gerichtspraesentation-vorbereiten", "jour-fixe-und-entscheidungsvorlage"]),

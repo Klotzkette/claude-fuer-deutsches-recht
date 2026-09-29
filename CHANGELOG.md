@@ -1,3 +1,17 @@
+# v445.15.0 - Gesellschafterversammlungs-Organisator für GmbH und UG
+
+## 1. Fünf Fachskills und ein Hauptproblem-Skill
+
+Das neue Plugin `gmbh-gesellschafterversammlung` führt von vorhandenen Satzungs- und Beteiligtenunterlagen über Einladung und Nachträge zu einem ausfüllbaren Versammlungsleitfaden, dem tatsächlichen Protokoll und den beauftragten Vollzugsschritten. Der Hauptproblem-Skill bearbeitet den Auftrag selbst; fünf Fachskills vertiefen die einzelnen Schritte. Gezielte Rückfragen werden im selben Vorgang verarbeitet. Acht BGH- und zwei OLG-Entscheidungen sind anhand amtlicher Volltexte mit Randnummern, Anwendung und Grenzen eingeordnet, einschließlich BGH vom 5. Mai 2026 zur richtigen Einladungsadressatin.
+
+## 2. Eigenständige Prompts und exakte Stimmenrechnung
+
+Die handverfasste Werkstatt enthält zwanzig Abschnitte mit formulierten Arbeitsbeispielen und Quellen. Der Mini-Prompt bleibt unter 7.500 UTF-8-Bytes. Beide werden separat veröffentlicht, ohne weitere Skills oder Megaprompt zu erzeugen. Ein optionaler Python-Helfer rechnet Schwellen und verschiedene Nenner mit exakten Brüchen; rechtliche Ausschlussannahmen müssen ausdrücklich vorgegeben werden. Dreizehn Tests sichern insbesondere Gleichstand, Dreiviertelgrenze, Nullbasis und Streitvarianten.
+
+## 3. Versionsabgleich im Release
+
+Die optionalen Codex-Manifeste werden zusätzlich zu den Claude-Manifesten auf den Marketplace-Stand synchronisiert. Die Importprüfung erkennt künftig abweichende Namen und Versionen; vier isolierte Regressionstests sichern diese Prüfung. Damit wird der Abbruch des vorherigen Release-Builds wegen einer veralteten Codex-Version behoben. Die früheren Tags bleiben unverändert; der neue Release umfasst auch die bereits auf main liegende Schnittflug-Erweiterung.
+
 # v445.14.2 - Schnittflug Berlin mit vertiefter Gründungsakte
 
 ## 1. Nachreichungen und Verhandlungsstände

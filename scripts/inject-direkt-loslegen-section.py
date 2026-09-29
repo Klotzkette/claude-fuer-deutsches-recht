@@ -286,6 +286,7 @@ def compact_prompt_fragment(value: str, limit: int = 210) -> str:
 
 
 HANDCURATED_FIRST_PRODUCTS = {
+    "gmbh-gesellschafterversammlung": "die beauftragte Einladung, Ergänzung, Beschlussvorlage oder den Versammlungsleitfaden aus Satzung und vorhandenen Unterlagen; frage nur nach entscheidenden Lücken, trenne geplante Sprechtexte vom tatsächlichen Protokoll und führe Rückantworten im selben Vorgang fort",
     "startup-gruender": "eine vollständig formulierte Satzung und die beauftragte Gesellschaftervereinbarung auf Deutsch und Englisch aus den vorhandenen Gründerangaben; kläre nur die dafür entscheidenden offenen Tatsachen und führe die Entwürfe nach Rückantwort fort",
     "juristische-praesentationen": "einen juristisch genauen Vortrag mit lesbaren Folien, ausformulierten Sprechernotizen und Zeitplanung; übernimm Anlass, Publikum und Dauer aus dem Auftrag, frage nur Fehlendes nach und liefere bei vorhandenen Werkzeugen eine bearbeitbare PowerPoint, sonst ein vollständiges Folienmanuskript",
     "bauwirtschaft": "Erstelle den benötigten Bauprojektstand mit belegten Kosten, Terminen und Zuständigkeiten. Erarbeite daraus den konkreten Vergabevermerk, Kostenbericht, Rechnungsabgleich oder Brief und arbeite Rückantworten in denselben Stand ein",
@@ -498,6 +499,9 @@ def block(plugin: dict, directory: Path, akten_slugs: list[str], marketplace_cou
     if plugin_name in {"vertragserstellung", "wirtschaftsanwalt"}:
         skill_note = "Alle zehn Skills sind im Plugin unmittelbar enthalten. Der Hauptskill bearbeitet den Auftrag selbst; die übrigen Skills vertiefen konkrete Teilfragen. Bei einem einzelnen Skill-Download müssen seine verlinkten Referenzen zusätzlich verfügbar sein."
         skill_note_en = "All ten skills are included directly in the plugin. The main skill carries out the assignment; the others address specific issues. A downloaded individual skill also needs its linked references."
+    elif plugin_name == "gmbh-gesellschafterversammlung":
+        skill_note = "Alle sechs Skills sind unmittelbar enthalten: fünf Fachskills und der Hauptproblem-Skill gesellschafterversammlung-organisieren. Die Werkstatt und der Mini-Prompt sind gesonderte eigenständige Downloads. Referenzen, Ausgabebausteine und Stimmenprüfer gehören zum Plugin-ZIP; beim Einzel-Download eines Skills müssen seine Hilfsdateien zusätzlich verfügbar sein."
+        skill_note_en = "All six skills are included directly: five task skills and one main workflow. The workshop and mini prompt are separate standalone downloads. References, drafting blocks and the vote calculator are included in the plugin ZIP; an individual skill download does not include its supporting files."
     elif plugin_name == "juristische-praesentationen":
         skill_note = "Alle zwölf Skills sind unmittelbar enthalten: zehn Kernskills sowie zwei nur auf Wunsch verwendete Bonus-Skills für Animation und jugendgerechte Sprache. Beginne mit praesentation-starten oder einem passenden Fachskill. Vorlage, Referenzen und Paketprüfer sind im Plugin-ZIP enthalten; beim Einzel-Download müssen sie bei Bedarf zusätzlich bereitgestellt werden."
         skill_note_en = "All twelve skills are directly included: ten core workflows and two opt-in bonuses for animation and youth-friendly language. Start with praesentation-starten or the relevant task skill. The plugin ZIP includes the template, references and package checker; a standalone skill download does not."

@@ -1,6 +1,6 @@
 # strafzumessung
 
-**60 Skills** · Stand `v445.14.2`
+**60 Skills** · Stand `v445.15.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../strafzumessung/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
