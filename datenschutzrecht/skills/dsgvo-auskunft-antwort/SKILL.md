@@ -53,7 +53,7 @@ description: "Für Betroffenenanfragen – Art. 15–22 DSGVO: ordnet Norm, Bewe
  - Bei Auskunft: vollständige Informationen nach Art. 15 Abs. 1 DSGVO (alle 9 Ziffern) + ggf. Datenkopie Art. 15 Abs. 3 DSGVO.
  - Hinweis auf Beschwerderecht bei Aufsichtsbehörde (Art. 77 DSGVO) in jedem Ablehnungsschreiben.
  - Hinweis auf Klagerecht Art. 79 DSGVO.
- - Keine Gebühren für Erstauskunft; bei offenkundig unbegründeten oder exzessiven Folgeanfragen: angemessenes Entgelt oder Ablehnung nach Art. 12 Abs. 5 DSGVO.
+ - Auskunft grundsätzlich unentgeltlich; nachgewiesene Ausnahme nach Artikel 12 Absatz 5 DSGVO auch beim Erstantrag prüfen, nicht allein auf Folgeanfragen beschränken.
 
 7. **Dokumentation.**
  - Eingang, Frist, Bearbeitungsschritte, Ausnahmen, Ergebnis im Datenschutzregister erfassen.
@@ -101,6 +101,7 @@ Verbindlich nach `../../references/zitierweise.md`.
 
 ### Rechtliche Grundlage
 
+EuGH, Urteil vom 19.03.2026, C-526/24, Brillen Rottler: Auch ein erster Auskunftsantrag kann exzessiv sein, wenn der Verantwortliche die Absicht nachweist, künstlich einen Schadensersatzanspruch herbeizuführen. Kurze Zeitabstände oder frühere Anträge nicht allein genügen lassen; alle Fallumstände würdigen. Eine Auskunftsverletzung kann Artikel 82 auslösen, aber nur bei nachgewiesenem Schaden und Kausalität. [Gerichtliche Pressemitteilung Nr. 38/26](https://curia.europa.eu/site/upload/docs/application/pdf/2026-03/cp260038de.pdf); der Volltextabruf war bei diesem Abgleich blockiert, Randnummern deshalb vor prozessualem Zitat nachprüfen.
 
 Art. 12 Abs. 5 DSGVO erlaubt die Ablehnung eines Auskunftsantrags als "exzessiv" — auch bei Erstantrag, wenn außergewöhnliche Umstände einen Rechtsmissbrauch belegen. Die Hürde ist hoch; das Auskunftsrecht ist ein fundamentales Recht, Ausnahmen sind eng auszulegen.
 
@@ -124,8 +125,8 @@ Beide Stufen müssen kumulativ dokumentiert sein, bevor eine Ablehnung erfolgt:
 
 > Sehr geehrte·r [Name], Ihren Antrag auf Auskunft gemäß Art. 15 DSGVO vom [DATUM] lehnen wir gemäß Art. 12 Abs. 5 Satz 2 Alt. 2 DSGVO als offenkundig exzessiv ab. Im Einzelnen stützen wir die Ablehnung auf folgende dokumentierte Umstände:
 >
-> 1. [Objektives Element – z.B.: Ihre Anmeldung für unseren Newsletter erfolgte am [DATUM], d.h. [N] Tage vor Eingang Ihres Auskunftsantrags, ohne erkennbares Informationsinteresse.]
-> 2. [Subjektives Element – z.B.: Ihr Schreiben enthält bereits bei Antragstellung die Ankündigung von Schadensersatzforderungen nach Art. 82 DSGVO, was in der Gesamtschau auf eine instrumentalisierende Nutzung des Auskunftsrechts hindeutet.]
+> 1. [Konkrete belegte Gesamtumstände erläutern; ein kurzer Zeitraum zwischen Anmeldung und Antrag genügt allein nicht.]
+> 2. [Belegen, weshalb die Gesamtumstände eine Absicht zur künstlichen Schaffung eines Schadensersatzanspruchs nachweisen; eine Schadensersatzankündigung allein genügt nicht.]
 >
 >
 > Sie haben das Recht, gegen diese Entscheidung Beschwerde bei [zuständige Aufsichtsbehörde] gemäß Art. 77 DSGVO oder Klage gemäß Art. 79 DSGVO zu erheben.
@@ -152,7 +153,7 @@ Verantwortlich (DSB-Freigabe): [Name, Datum]
 ### Schadensersatzrisiko bei unberechtigter Ablehnung
 
 - Eine Ablehnung ohne vollständigen zweistufigen Nachweis ist ein eigenständiger DSGVO-Verstoß.
-- Dieser Verstoß löst einen eigenständigen Schadensersatzanspruch nach Art. 82 DSGVO aus — auch wenn die zugrundeliegende Datenverarbeitung vollständig DSGVO-konform war.
+- Dieser Verstoß kann bei nachgewiesenem Schaden und Kausalität einen Schadensersatzanspruch nach Art. 82 DSGVO begründen — auch wenn die zugrundeliegende Datenverarbeitung vollständig DSGVO-konform war.
 - Der bloße Verstoß genügt nicht automatisch; die betroffene Person muss einen konkreten materiellen oder immateriellen Schaden darlegen (z.B. Kontrollverlust, Ungewissheit über Datenverarbeitung). Kein verschuldensunabhängiges Haftungsregime.
 - Eigenverschulden der betroffenen Person (wenn ihr eigenes Verhalten die entscheidende Schadensursache ist) schließt den Anspruch aus.
 

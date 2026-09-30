@@ -14,7 +14,7 @@ description: "Für Sämtliche Betroffenenrechte nach Art: ordnet Norm, Beweislas
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Saemtliche Betroffenenrechte nach Art. 15 bis 22 DSGVO orchestriert bearbeiten Auskunft Berichtigung Loeschung Einschraenkung Datenuebertragbarkeit Widerspruch automatisierte Entscheidung. Sieben-Fragen-Diagnose und Schritt-für-Schritt-Anleitung. Routing zu Fachmodule. Mustertexte für Sammelantwort. Frist Art. 12 III DSGVO ein Monat mit Verlaengerung um zwei Monate. EuGH C-487/21 Datenkopie C-579/21 Empfaengerangabe. Abgrenzung: einzelne Spezialantraege gehen über spezielle Skills (datenschutz-auskunftsersuchen-art-15-praxis datenschutz-loeschpflicht-art-17-und-aufbewahrung).
+**Fokus:** Saemtliche Betroffenenrechte nach Art. 15 bis 22 DSGVO orchestriert bearbeiten Auskunft Berichtigung Loeschung Einschraenkung Datenuebertragbarkeit Widerspruch automatisierte Entscheidung. Sieben-Fragen-Diagnose und Schritt-für-Schritt-Anleitung. Routing zu Fachmodule. Mustertexte für Sammelantwort. Frist Art. 12 III DSGVO ein Monat mit Verlaengerung um zwei Monate. EuGH C-487/21 Datenkopie C-154/21 Empfaengerangabe. Abgrenzung: einzelne Spezialantraege gehen über spezielle Skills (datenschutz-auskunftsersuchen-art-15-praxis datenschutz-loeschpflicht-art-17-und-aufbewahrung).
 
 ### Datenschutz Betroffenenrechte — Art. 15 bis 22 DSGVO orchestriert
 
@@ -48,7 +48,7 @@ Sieben-Fragen-Diagnose:
 - **Art. 20 DSGVO** Datenuebertragbarkeit — nur bei Verarbeitungsgrundlage Einwilligung Art. 6 I a oder Vertrag Art. 6 I b.
 - **Art. 21 DSGVO** Widerspruch — bei berechtigtem Interesse Art. 6 I f oder Direktwerbung.
 - **Art. 22 DSGVO** Verbot ausschließlich automatisierter Einzelfallentscheidung mit rechtlichen oder erheblichen Folgen.
-- **EuGH C-487/21** Datenkopie. **EuGH C-579/21** Empfaengerangabe. **EuGH C-307/22** Patientenakte unentgeltlich. **EuGH C-634/21 SCHUFA** zu Art. 22.
+- **EuGH C-487/21** Datenkopie. **EuGH C-154/21** Empfaengerangabe. **EuGH C-307/22** Patientenakte unentgeltlich. **EuGH C-634/21 SCHUFA** zu Art. 22.
 - **§ 34, § 35 BDSG** Einschraenkungen Auskunfts- und Loeschrechte.
 
 ## Mandantenfuehrung Schritt-für-Schritt
@@ -110,8 +110,14 @@ Sieben-Fragen-Diagnose:
 - DSGVO Art. 12 bis 22.
 - BDSG § 34, § 35.
 - EuGH C-487/21 Datenkopie, Urteil 04.05.2023.
-- EuGH C-579/21 Empfaengerangabe, Urteil 22.06.2023.
+- EuGH C-154/21 Empfaengerangabe, Urteil 12.01.2023.
 - EuGH C-307/22 Patientenakte, Urteil 26.10.2023.
 - EuGH C-634/21 SCHUFA, Urteil 07.12.2023 (zu Art. 22 DSGVO).
 - EDSA, Leitlinien 01/2022 zu Betroffenenrechten — Auskunft, Version 2.0, angenommen 28.03.2023.
 - Keine Aufsatzfundstellen aus Modellwissen.
+
+## 1. Geprüfte Zuordnung der Auskunftsanker
+
+EuGH, Urteil vom 12.01.2023, C-154/21, Tenor: Konkrete Empfänger nennen; Kategorien nur bei fehlender Identifizierbarkeit oder nachgewiesen offenkundig unbegründetem beziehungsweise exzessivem Antrag. [Amtlicher Text](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62021CJ0154). EuGH, Urteil vom 22.06.2023, C-579/21, Pankki S, betrifft dagegen Auskunft über Datenabfragen, deren Zeitpunkt und Zweck sowie die gesonderte Frage nach der Identität weisungsgebundener Bediensteter; kein allgemeiner Anspruch auf deren Namen. [Amtlicher Text](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62021CJ0579).
+
+EuGH, Urteil vom 19.03.2026, C-526/24, Brillen Rottler: Auch ein erster Auskunftsantrag kann exzessiv sein, wenn der Verantwortliche die Absicht nachweist, künstlich einen Schadensersatzanspruch herbeizuführen. Kurze Zeitabstände oder frühere Anträge nicht allein genügen lassen; alle Fallumstände würdigen. Eine Auskunftsverletzung kann Artikel 82 auslösen, aber nur bei nachgewiesenem Schaden und Kausalität. [Gerichtliche Pressemitteilung Nr. 38/26](https://curia.europa.eu/site/upload/docs/application/pdf/2026-03/cp260038de.pdf); der Volltextabruf war bei diesem Abgleich blockiert, Randnummern deshalb vor prozessualem Zitat nachprüfen.

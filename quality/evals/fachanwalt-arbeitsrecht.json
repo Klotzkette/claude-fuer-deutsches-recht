@@ -116,15 +116,16 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Schnellstart vollständig individuell gelesen und überarbeitet: konkrete Kündigung, Vergütungsforderung oder Vertragsregelung aus der Akte prüfen. In der Schlusskorrektur die doppelte FAO-Rollenbeschreibung nach dem fachlichen Einstieg entfernt; Fallarbeit, Rückfragen, Quellenanker und Abschluss zum verlangten Dokument bleiben erhalten. Redaktionelle Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Arbeitslosengeld wurde nur zurückgefordert, aber noch nicht zurückgezahlt -> Anspruchsübergang und Zahlungsbegehren anders behandeln als bei nachgewiesener Rückzahlung.",
+    "reason": "Teilzeit-Zuschläge und AGG-Verdienstausfallschaden anhand konkreter BAG-Entscheidungen 2026 ergänzt; Indizienbeweis im Fachskill korrigiert.",
     "changes": [
       "Werkstatt nach konkreten Anspruchs- und Verfahrenslagen neu gefasst; Hauptproblem trennt Freistellung vor Vertragsende von Zwischenverdienst nach Entlassung.",
       "Kernfall mit operativem Entscheidungsanker, gezielten Nachfragen und Fortsetzung zum vollständigen angeforderten Dokument.",
       "Schlusslektüre: Überschriften nach Arbeitsverhältnis, Beteiligungsrechten und Zugangsnachweis konkretisiert.",
       "Generischen Kernauftrag samt wiederholter Rollenbeschreibung nach dem fachlichen Einstieg entfernt.",
-      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
+      "30.09.2026: Teilzeit-Zuschläge und AGG-Verdienstausfallschaden anhand konkreter BAG-Entscheidungen 2026 ergänzt; Indizienbeweis im Fachskill korrigiert."
     ],
-    "sha256": "81f27013f50b3a97433c28e0037db780f5e532e5ba158eed67ac4ef804f338f1"
+    "sha256": "8247051bbffa1b9c03e48dfa5ca49e6e854c1928174e87d8a26c0415cad2648b"
   },
   "focus_review": {
     "reviewed_on": "2026-09-23",
@@ -144,7 +145,7 @@
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt vollständig individuell überarbeitet und gegen die ursprünglichen Prüfzweige nachgelesen. Wiederhergestellt sind tatsächliche Weiterbeschäftigung nach Obsiegen, konkrete Gruppenchatvertraulichkeit und Nachweise der Ermächtigung einzelner GmbH-Aufsichtsratsmitglieder. Die ursprünglichen Anker sind im dokumentierten amtlichen Quellenumfang bestätigt; kein pauschaler Beschäftigungs-, Kündigungs- oder Vertretungsautomatismus. Desk- und Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Jede weitere Kündigung mit eigener Frist, Beteiligungsnachweise, periodenbezogene Arbeitsfähigkeit und Freistellung, Zwischenverdienst und Sozialleistungsübergang sowie Arbeitszeit- und Bonusklauseln.",
+    "reason": "Teilzeit-Zuschläge und AGG-Verdienstausfallschaden anhand konkreter BAG-Entscheidungen 2026 ergänzt; Indizienbeweis im Fachskill korrigiert.",
     "changes": [
       "Werkstatt nach konkreten Anspruchs- und Verfahrenslagen neu gefasst; Hauptproblem trennt Freistellung vor Vertragsende von Zwischenverdienst nach Entlassung.",
       "Vorhandene Fachzweige, Beispiele und Zugriffsalternativen erhalten; schwache Rechtsprechungshinweise entfernt oder auf belegte Reichweite begrenzt.",
@@ -152,9 +153,10 @@
       "Gruppenchatprüfung nach 2 AZR 17/23 mit Zusammensetzung, Inhalt, Medium, besonderer Darlegung und gesonderter Interessenabwägung wiederhergestellt.",
       "Ermächtigungsnachweis einzelner GmbH-Aufsichtsratsmitglieder nach 2 AZR 130/25 einschließlich Satzung, Kenntnisgabe und unverzüglicher Zurückweisung konkretisiert.",
       "Jede weitere Kündigung mit eigener Frist, Beteiligungsnachweise, periodenbezogene Arbeitsfähigkeit und Freistellung, Zwischenverdienst und Sozialleistungsübergang sowie Arbeitszeit- und Bonusklauseln.",
-      "25.09.2026: Vier amtlich nachgelesene Anker zu Abbedingung, Gesamtberechnung, Auskunft und sekundärer Darlegung in die eigenständige Werkstatt aufgenommen; Datum 5 AZR 347/21 auf 09.02.2022 korrigiert. 5 AZR 37/25 bleibt ausdrücklich Pressemitteilung, ohne Randnummern."
+      "25.09.2026: Vier amtlich nachgelesene Anker zu Abbedingung, Gesamtberechnung, Auskunft und sekundärer Darlegung in die eigenständige Werkstatt aufgenommen; Datum 5 AZR 347/21 auf 09.02.2022 korrigiert. 5 AZR 37/25 bleibt ausdrücklich Pressemitteilung, ohne Randnummern.",
+      "30.09.2026: Teilzeit-Zuschläge und AGG-Verdienstausfallschaden anhand konkreter BAG-Entscheidungen 2026 ergänzt; Indizienbeweis im Fachskill korrigiert."
     ],
-    "sha256": "a24ebadfe30dc20db93e43e6f1a8a1e69bd8ae36850c0e891df80495fe55e1b7"
+    "sha256": "a5d1d61fd3e525c38d2c45678fb35f479f79d310a35456519b722532a3499428"
   },
   "selection": {
     "positive": [
@@ -358,5 +360,26 @@
     "continuation": "Arbeitslosengeld wurde nur zurückgefordert, aber noch nicht zurückgezahlt -> Anspruchsübergang und Zahlungsbegehren anders behandeln als bei nachgewiesener Rückzahlung.",
     "enrichment": "Jede weitere Kündigung mit eigener Frist, Beteiligungsnachweise, periodenbezogene Arbeitsfähigkeit und Freistellung, Zwischenverdienst und Sozialleistungsübergang sowie Arbeitszeit- und Bonusklauseln.",
     "limits": "desk review; no live client execution"
+  },
+  "source_audit_2026_09_30": {
+    "date": "2026-09-30",
+    "method": "targeted_primary_source_review",
+    "scope": "Teilzeit-Zuschläge und AGG-Verdienstausfallschaden anhand konkreter BAG-Entscheidungen 2026 ergänzt; Indizienbeweis im Fachskill korrigiert.",
+    "decisions": [
+      {
+        "citation": "BAG, Urteil vom 28.04.2026, 5 AZR 96/25, Rn. 19, 24–28 und 53–57",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/5-azr-96-25/",
+        "application": "Proportionale Zuschlagsgrenze im konkreten Teilzeit-Tarifmodell prüfen.",
+        "limit": "Tarifliche Ausgangsregel und sachliche Rechtfertigung prüfen; kein allgemeiner Zuschlag für jede Mehrstunde."
+      },
+      {
+        "citation": "BAG, Urteil vom 10.09.2026, 8 AZR 153/25; amtliche Pressemitteilung 30/26",
+        "url": "https://www.bundesarbeitsgericht.de/presse/materieller-schadensersatz-wegen-diskriminierung-im-stellenbesetzungsverfahren-haftungsumfang/",
+        "application": "Zurechnungszusammenhang späteren Verdienstausfalls bei neuer angemessener und verfestigter Beschäftigung prüfen.",
+        "limit": "Nur amtlicher Pressetext gelesen; keine Urteilsrandnummern, keine starre zeitliche Grenze."
+      }
+    ],
+    "report": "quality/source-audits/2026-09-30/arbeit-sozial.md",
+    "limits": "Gezielte Quellen- und Fachkorrekturen; keine Vollprüfung sämtlicher Skills oder Rechtsprechung dieses Gebiets und kein neuer Modelltest."
   }
 }

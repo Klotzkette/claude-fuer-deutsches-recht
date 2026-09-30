@@ -12,7 +12,7 @@ Lies vorhandenen Bußgeldbescheid, Zustellnachweis, Anhörung, Messakte und geri
 
 Nach [Paragraf 67 OWiG](https://www.gesetze-im-internet.de/owig_1968/__67.html) gilt für den Einspruch die Zweiwochenfrist ab Zustellung. Berechne den letzten Eingangstag und prüfe Form, erlassende Behörde und Übermittlungsweg. Bescheiddatum, Akteneinsicht und Rückfragen ersetzen weder Zustellnachweis noch fristgerechten Eingang.
 
-Bei drohendem Fristablauf priorisiere den beauftragten fristbezogenen Entwurf. Eine Einspruchsbeschränkung nach Absatz 2 ist nur bei tragfähiger Aktenkenntnis und Prüfung ihrer Wirksamkeit als gesondert freizugebende Option vorzuschlagen. Prüfe Verjährung und etwaige Unterbrechungshandlungen nach Paragraf 33 OWiG anhand konkreter Daten, nicht allein des Bescheidalters.
+Bei drohendem Fristablauf priorisiere den beauftragten fristbezogenen Entwurf. Eine Einspruchsbeschränkung nach Absatz 2 ist nur bei tragfähiger Aktenkenntnis und Prüfung ihrer Wirksamkeit als gesondert freizugebende Option vorzuschlagen. Prüfe Verjährung anhand der einschlägigen Fassung von [Paragraf 26 Absatz 3 StVG](https://www.gesetze-im-internet.de/stvg/__26.html) und Paragrafen 31/33 OWiG: Der am 30.09.2026 amtlich veröffentlichte Text nennt für Paragraf 24 Absatz 1 StVG grundsätzlich sechs Monate. Historische Drei-/Sechsmonatsstaffeln nicht ohne Anwendungs- und Übergangsprüfung fortschreiben; besondere Tatbestände und konkrete Unterbrechungshandlungen gesondert berechnen.
 
 Liegt nur eine Anhörung vor, entwirf auf Auftrag eine passende Akteneinsichtsanfrage oder einen Antworttext, nicht einen Einspruch gegen einen noch unbekannten Bescheid. Bei einem zugestellten Bescheid verbinde die rechtzeitige Verteidigung nicht mit dem vorherigen Eingang sämtlicher Messunterlagen. Ist die Zustellung streitig, stelle belegte und mögliche Daten samt ihrer Auswirkung gegenüber und frage gezielt nach Umschlag oder Empfangsvorgang; erfinde keine Zustellungsfiktion. Bei nachgewiesenem Ablauf prüfe den tatsächlich eröffneten weiteren Weg, statt den Entwurf als sicher fristgerecht zu bezeichnen.
 
@@ -40,6 +40,8 @@ Unterscheide vorhandene, aber verweigerte Informationen von technisch nie gespei
 
 [BVerfG, Beschluss vom 20.06.2023 - 2 BvR 1167/20](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2023/06/rk20230620_2bvr116720.html), Randnummern 48 bis 54, ist eine Nichtannahmeentscheidung wegen unzureichender Darlegung: Der Zugang zu vorhandenen Daten lässt sich nicht ohne weitere Begründung in einen Anspruch auf Erzeugung und Speicherung bislang nicht vorhandener Rohdaten umdeuten. Daraus weder einen allgemeinen verfassungsgerichtlichen Ausschluss jeder Speicherungspflicht noch automatische Unverwertbarkeit ableiten. Tatsächlich gespeicherte Daten und behauptete technische Erfordernisse zunächst feststellen.
 
+**BGH, Beschluss vom 02.07.2026 – 4 StR 235/25**, Tenor und Rn. 22–35 ([amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Strafsenate/4_StS/2025/4_StR_235-25.pdf?__blob=publicationFile&v=1)): Allein die Nichtspeicherung von Rohmessdaten einer standardisierten Geschwindigkeitsmessung verletzt das faire Verfahren nicht und begründet kein Beweisverwertungsverbot. Vorhandene, außerhalb der Akte gespeicherte Daten bleiben eine andere Fallgruppe (Rn. 25–26). Gerätebedienung, Eichung und konkrete technische Fehler weiter prüfen (Rn. 30–31, 35). Eine gezielte Datenunterdrückung hat der Senat ausdrücklich nicht entschieden (Rn. 32); nicht mit technischer Nichtspeicherung gleichsetzen.
+
 Fehlt das Originalfoto, frage nach der Identifizierungsgrundlage; fehlt das Messprotokoll, benenne die zu klärende Aufstellungs- oder Bedienfrage. Verarbeite die Antwort in der Beweisbewertung und dem beauftragten Antrag oder Brief. Neue entscheidende Lücken erlauben weitere kurze Rückfragen, nicht die Wiederholung bereits geklärter Fragen.
 
 ### 1.4.1. Aus der Behördenantwort den nächsten Text ableiten
@@ -61,6 +63,8 @@ Bei Blutentnahmen berücksichtige [Paragraf 46 Absatz 4 OWiG](https://www.gesetz
 Grenze einen tatsächlichen Straftatverdacht nach Paragrafen 316 oder 315c StGB gesondert ab. Prüfe Fahruntüchtigkeit fahrzeug- und sachverhaltsbezogen; Blutalkoholwerte nicht ohne Prüfung des anwendbaren Maßstabs übertragen. Entziehung nach Paragraf 69 Absatz 2 StGB und verwaltungsrechtliche Fahreignungsprüfung sind vom OWi-Fahrverbot zu trennen.
 
 ## 1.6. Geldbuße, Punkte und Fahrverbot
+
+Prüfe den Beginn des Fahrverbots nach [Paragraf 25 Absätze 2, 3 und 6 StVG](https://www.gesetze-im-internet.de/stvg/__25.html): grundsätzlich spätestens einen Monat nach Rechtskraft; das Viermonatsprivileg nur unter den Voraussetzungen des Absatzes 3. Beginn, Verwahrung und Dauer nicht gleichsetzen.
 
 Prüfe Geldbuße nach Paragraf 17 OWiG, einschlägigen Bußgeldkatalog, Punkte, Fahrverbot nach Paragraf 25 StVG und Kosten getrennt. Ordne Regel- und Abweichungsgründe dem Tatbestand und Tatzeitrecht zu. Berücksichtige belegte Vorbelastungen und wirtschaftliche Verhältnisse, soweit erheblich.
 

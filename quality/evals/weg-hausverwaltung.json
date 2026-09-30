@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "weg-hausverwaltung",
-  "reviewed_on": "2026-09-23",
+  "reviewed_on": "2026-09-30",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/woeigg/__20.html",
@@ -62,29 +62,39 @@
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2023/V_ZR_102-23.pdf?__blob=publicationFile&v=1",
       "checked_on": "2026-09-23",
       "supports": "BGH, Urteil vom 19.07.2024, V ZR 102/23, Rn. 5–9: Nach dem 30.11.2020 formulierte Genehmigung von Gesamt- und Einzelabrechnungen objektiv als Festlegung von Abrechnungsspitzen auslegen statt allein wegen Wortwahl Nichtigkeit anzunehmen. Grenze: Auslegung anhand Beschluss und Anlagen; keine Bestätigung rechnerischer Richtigkeit oder sämtlicher Anforderungen ordnungsmäßiger Verwaltung. Amtlichen Entscheidungstext und entscheidende Gründe gelesen."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2024/V_ZR_102-24.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-30",
+      "supports": "V ZR 102/24: Rn. 13–23 und 25–29 geprüft; Beschlusskompetenz trotz delegierter Balkonerhaltung, gesonderte Handlungspflicht und fortbestehende vereinbarte Kostenlast.",
+      "source_sha256": "fe8f8132fa5b34df5c6ed83cd4f739ea55d1b5b222f22763c2322103d7e0068b"
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Am 23.09.2026 vollständig individuell nachgelesen: allgemeine Verwaltungscheckliste durch konkreten Wallboxdialog ersetzt und drei fachliche Einstiegswege ergänzt. Leitungsweg und Angebot verändern den Gestattungsbeschluss; Abrechnungsspitze und beide begrenzten BGH-Anker erhalten. Desk-Review, kein Live-Modelltest.",
+    "reason": "Am 23.09.2026 vollständig individuell nachgelesen: allgemeine Verwaltungscheckliste durch konkreten Wallboxdialog ersetzt und drei fachliche Einstiegswege ergänzt. Leitungsweg und Angebot verändern den Gestattungsbeschluss; Abrechnungsspitze und beide begrenzten BGH-Anker erhalten. Desk-Review, kein Live-Modelltest. Gezielte Quellen-/Textnachprüfung am 30.09.2026; keine erneute Gesamtprüfung aller Entscheidungen.",
     "changes": [
       "V ZR 195/23 mit Sollvorschussrechnung und Betragsrelevanz, V ZR 102/23 mit Auslegung und begrenzter Aussage zur Beschlusskompetenz in beide Prompts integriert.",
       "Beispiel 4.200/3.600/3.000 Euro und bestimmter Nachschussbeschluss verhindern doppelte Forderung alter Rückstände.",
       "Virtuelle Versammlung, Dreiviertelmehrheit, Dreijahresgrenze und jährliche Präsenzversammlung bis einschließlich 2028 individuell ergänzt; unbestätigte weitere Entscheidungen durch Recherchefragen ersetzt.",
-      "Stillen Dateieinstieg und drei Dokumentwege aufgenommen; allgemeine Prüfliste zugunsten von Plan-/Kostenantwort und konkreter Beschlussänderung verdichtet."
+      "Stillen Dateieinstieg und drei Dokumentwege aufgenommen; allgemeine Prüfliste zugunsten von Plan-/Kostenantwort und konkreter Beschlussänderung verdichtet.",
+      "Nachprüfung 30.09.2026: V ZR 102/24: Rn. 13–23 und 25–29 geprüft; Beschlusskompetenz trotz delegierter Balkonerhaltung, gesonderte Handlungspflicht und fortbestehende vereinbarte Kostenlast."
     ],
-    "sha256": "878ce9c312a0f1720afcf5e6901712e1ee66f41c8ab29fdbf879cad32b6deff1"
+    "sha256": "5fcffdbeb5efb4fa5685e0bbb88f84e381dac4b022e5cf2a9dd42c63af8fa565",
+    "reviewed_on": "2026-09-30"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Am 23.09.2026 vollständig individuell nachgelesen: Eigentümerbeschwerde zur Einladung/Beschlussvorlage, Zahlungsnachweis versus doppelte Kostenbuchung und privilegierte Maßnahme mit eigener Kostenprüfung ausgebaut. Vorhandene Verwaltungszweige und Rechtsprechungsgrenzen erhalten. Desk-Review, kein Live-Modelltest.",
+    "reason": "Am 23.09.2026 vollständig individuell nachgelesen: Eigentümerbeschwerde zur Einladung/Beschlussvorlage, Zahlungsnachweis versus doppelte Kostenbuchung und privilegierte Maßnahme mit eigener Kostenprüfung ausgebaut. Vorhandene Verwaltungszweige und Rechtsprechungsgrenzen erhalten. Desk-Review, kein Live-Modelltest. Gezielte Quellen-/Textnachprüfung am 30.09.2026; keine erneute Gesamtprüfung aller Entscheidungen.",
     "changes": [
       "V ZR 195/23 mit Sollvorschussrechnung und Betragsrelevanz, V ZR 102/23 mit Auslegung und begrenzter Aussage zur Beschlusskompetenz in beide Prompts integriert.",
       "Beispiel 4.200/3.600/3.000 Euro und bestimmter Nachschussbeschluss verhindern doppelte Forderung alter Rückstände.",
       "Virtuelle Versammlung, Dreiviertelmehrheit, Dreijahresgrenze und jährliche Präsenzversammlung bis einschließlich 2028 individuell ergänzt; unbestätigte weitere Entscheidungen durch Recherchefragen ersetzt.",
-      "Einladungsfrist und tatsächliche Dringlichkeit, Korrekturen vor/nach Beschluss sowie Leitungsplan, Gestattung und Kostentragung in vollständige, antwortabhängige Dokumentpfade umgesetzt."
+      "Einladungsfrist und tatsächliche Dringlichkeit, Korrekturen vor/nach Beschluss sowie Leitungsplan, Gestattung und Kostentragung in vollständige, antwortabhängige Dokumentpfade umgesetzt.",
+      "Nachprüfung 30.09.2026: V ZR 102/24: Rn. 13–23 und 25–29 geprüft; Beschlusskompetenz trotz delegierter Balkonerhaltung, gesonderte Handlungspflicht und fortbestehende vereinbarte Kostenlast."
     ],
-    "sha256": "356435f0df68e8df26c3251d04f2033eaf5ee92b014091435bafdca620fbe59e"
+    "sha256": "4aefbbe81e47f6f3670932db9107b4738c5a27e1cb6ba3e28151de54132b1c8e",
+    "reviewed_on": "2026-09-30"
   },
   "selection": {
     "positive": [

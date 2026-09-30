@@ -18,7 +18,7 @@
 
 ### 2.1. SG01 – Leaver: aktuelle Gesamtbetrachtung statt starrer Checkliste
 
-**BGH, Urteil vom 2026-02-10, II ZR 71/24, Rn. 18–21, 31, 40, 47, 55, 58, 67–68.** [Amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2024/II_ZR__71-24.pdf?__blob=publicationFile&v=1)
+**BGH, Urteil vom 2026-02-10, II ZR 71/24, Rn. 18–21, 31, 40, 47, 55, 58, 67.** [Amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2024/II_ZR__71-24.pdf?__blob=publicationFile&v=1)
 
 **Aussage:** Freie Hinauskündigungsklauseln sind grundsätzlich nach § 138 Abs. 1 BGB unwirksam, können aber nach Gesamtwürdigung sachlich gerechtfertigt sein. Bei Managementbeteiligungen zählt, ob die Beteiligung gegenüber der Geschäftsführerstellung eigenständige Bedeutung hat. Fehlendes oder nur geringes wirtschaftliches Risiko ist keine zwingende Voraussetzung der Rechtfertigung. Ausschlussklausel, Abfindungsregelung und konkrete Ausübung sind getrennt zu prüfen.
 

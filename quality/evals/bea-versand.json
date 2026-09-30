@@ -27,6 +27,11 @@
       "url": "https://www.gesetze-im-internet.de/zpo/__130a.html",
       "checked_on": "2026-09-28",
       "supports": "Absätze 3 und 5: Signatur-/Übermittlungswege und gerichtlicher Eingang sind von lokaler Dateivorbereitung zu trennen; Norm nur für einschlägige Verfahrensordnung verwenden."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2022/VIII_ZB__80-22.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-30",
+      "supports": "Amtlichen Entscheidungskopf, Leitsatz und Rn. 26–29 gelesen: Dateiname und frei eingetragene Bezeichnung unterscheiden; die Ausgangskontrolle muss das tatsächlich übermittelte Dokument zuordnen. Keine Pflicht zum Anlagenstempel und kein Nachweis der Signatur oder materiellen Richtigkeit."
     }
   ],
   "selection": {
@@ -47,9 +52,10 @@
       "Dokumentart und Bezeichnung aus Kontext statt pauschaler K-Anlagen übernehmen.",
       "Ohne Verzeichnis über konkrete Merkmale zuordnen; Mehrdeutigkeiten und Konvolute nachvollziehbar bearbeiten.",
       "Signierte Originale, tatsächliche 84-Zeichen-Uploadgrenze und jede gestempelte Seite berücksichtigen.",
-      "Aus tatsächlich geprüftem Modefuchs-Entwurf: interne Arbeitsvermerke, offene Angaben und Entwurfsstatus ausdrücklich kontrollieren; keine stille Finalisierung."
+      "Aus tatsächlich geprüftem Modefuchs-Entwurf: interne Arbeitsvermerke, offene Angaben und Entwurfsstatus ausdrücklich kontrollieren; keine stille Finalisierung.",
+      "Quellenabgleich 30.09.2026: VIII ZB 80/22 im amtlichen Volltext, Rn. 26–29, für die konkrete Dateizuordnung ergänzt."
     ],
-    "sha256": "0a81d18737994e2adab57916fb21ec40f36309c40f856602c65c47231fbfc8b7"
+    "sha256": "17cb5d925e1277eac69b75dacf3010940d0c3ed1cc008de63ea6e87feccb2af5"
   },
   "prompt_editorial_review": {
     "date": "2026-09-28",
@@ -72,6 +78,12 @@
         "url": "https://justiz.de/laender-bund-europa/elektronische_kommunikation/bundesanzeiger_29_07_2025.pdf",
         "application": "PDF und Dateinamen nach technischen Standards behandeln; 90-Zeichen-Obergrenze von der engeren 84-Zeichen-Grenze für normale beA-Anhänge unterscheiden.",
         "limit": "Keine Gerichtsentscheidung und keine pauschale Aussage zur Wirksamkeit einer konkreten Einreichung; weitere technische und verfahrensbezogene Anforderungen bleiben zu prüfen."
+      },
+      {
+        "citation": "BGH, Beschluss vom 21.03.2023 – VIII ZB 80/22, Rn. 26–29",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2022/VIII_ZB__80-22.pdf?__blob=publicationFile&v=1",
+        "application": "Sprechenden Dateinamen vergeben und bei der Ausgangskontrolle der tatsächlich versandten Datei zuordnen; freie Beschreibung allein genügt nicht.",
+        "limit": "Organisationsanforderung an die Ausgangskontrolle; keine Anlagenstempelpflicht und keine materielle Prüfung. Amtlicher Volltext am 30.09.2026 in den Rn. 26–29 geprüft."
       }
     ],
     "remaining_limits": [
@@ -250,5 +262,15 @@
         }
       ]
     }
-  ]
+  ],
+  "source_update_2026_09_30": {
+    "method": "targeted_official_passage_review",
+    "decision": {
+      "citation": "BGH, Beschluss vom 21.03.2023 – VIII ZB 80/22, Rn. 26–29",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2022/VIII_ZB__80-22.pdf?__blob=publicationFile&v=1",
+      "application": "Sprechenden Dateinamen vergeben und bei der Ausgangskontrolle der tatsächlich versandten Datei zuordnen; freie Beschreibung allein genügt nicht.",
+      "limit": "Organisationsanforderung an die Ausgangskontrolle; keine Anlagenstempelpflicht und keine materielle Prüfung. Amtlicher Volltext am 30.09.2026 in den Rn. 26–29 geprüft."
+    },
+    "limits": "Keine neue Gesamtprüfung aller Quellen oder Live-Modelltest."
+  }
 }

@@ -57,13 +57,13 @@ Falls aus dem Profil erkennbar: direkt verwenden. Andernfalls fragen. Prüfen:
 
 **Gesetzliche Höchstgrenzen (Paragrafen 3–5 ArbZG):**
 - Täglich max. 8 Stunden (Werktage), verlängerbar auf max. 10 Stunden, wenn Ausgleich in 6 Monaten auf 8 h/Tag im Durchschnitt (Paragraf 3 S. 2 ArbZG)
-- **Pausen:** Bei 6–9 Stunden: 30 Minuten; bei > 9 Stunden: 45 Minuten (Paragraf 4 ArbZG). Aufteilung in Blöcke ≥ 15 Minuten möglich.
+- **Pausen:** Bei mehr als 6 bis zu 9 Stunden: 30 Minuten; bei > 9 Stunden: 45 Minuten (Paragraf 4 ArbZG). Aufteilung in Blöcke ≥ 15 Minuten möglich.
 - **Ruhezeit:** Min. 11 Stunden nach Ende der Arbeitszeit (Paragraf 5 ArbZG)
 - **Wochenarbeitszeit:** Keine direkte gesetzliche Begrenzung, aber durch Tageshöchstgrenze × 6 Werktage de facto max. 48–60 h
 
 **Sonderregelungen:**
 - Paragraf 7 ArbZG: Tarifvertragliche Verlängerungen möglich (z.B. auf 12 h täglich bei Bereitschaftsdienst)
-- Paragraf 10 ArbZG: Sonn- und Feiertagsarbeit verboten (Ausnahmen Paragrafen 10–13 ArbZG); Ersatzruhetag innerhalb 8 Wochen (Paragraf 11 Abs. 3 ArbZG)
+- Paragraf 9 ArbZG: Sonn- und Feiertagsarbeit grundsätzlich verboten; Ausnahmen nach Paragrafen 10–13 ArbZG prüfen. Nach [Paragraf 11 Absatz 3 ArbZG](https://www.gesetze-im-internet.de/arbzg/__11.html) Ersatzruhetag für Sonntagsarbeit innerhalb von zwei Wochen, für Arbeit an einem auf einen Werktag fallenden Feiertag innerhalb von acht Wochen; der Zeitraum schließt den Beschäftigungstag ein.
 - Paragraf 18 ArbZG: Nicht anwendbar auf leitende Angestellte i.S.d. Paragraf 5 Abs. 3 BetrVG
 
 **Arbeitszeiterfassung:**
@@ -82,11 +82,11 @@ Hinweis: Die Minijob-Verdienstgrenze ist an den Mindestlohn gekoppelt; sie betra
 
 **Wer hat Anspruch?** Alle Arbeitnehmer (Paragraf 1 Abs. 1, Paragraf 22 MiLoG), außer:
 - Langzeitarbeitslose in den ersten 6 Monaten (Paragraf 22 Abs. 4 MiLoG)
-- Praktikanten bis 3 Monate obligatorisch oder ausbildungsbegleitend (Paragraf 22 Abs. 1 Nr. 2–3 MiLoG)
+- Praktikanten nur nach den differenzierten Ausnahmen des [Paragrafen 22 Absatz 1 MiLoG](https://www.gesetze-im-internet.de/milog/__22.html): Pflichtpraktikum nach Nummer 1 ohne allgemeine Dreimonatsgrenze; Orientierungspraktikum bis zu drei Monaten nach Nummer 2; ausbildungsbegleitendes Praktikum bis zu drei Monaten nach Nummer 3 nur ohne vorheriges solches Praktikum beim selben Ausbildenden; Nummer 4 gesondert prüfen.
 - Minderjährige ohne abgeschlossene Berufsausbildung (Paragraf 22 Abs. 2 MiLoG)
 - Personen in Berufsausbildung (Paragraf 22 Abs. 3 MiLoG – nur BBiG-Mindestvergütung)
 
-**Aufzeichnungspflicht** (Paragraf 17 MiLoG): Beginn, Ende, Dauer der täglichen Arbeitszeit bei Arbeitnehmern nach Paragraf 2a SchwarzArbG (geringfügig Beschäftigte, bestimmte Branchen) – täglich aufzeichnen, 2 Jahre aufbewahren.
+**Aufzeichnungspflicht** nach [Paragraf 17 MiLoG](https://www.gesetze-im-internet.de/milog/__17.html): Beginn, Ende und Dauer der täglichen Arbeitszeit spätestens bis zum Ablauf des siebten folgenden Kalendertags aufzeichnen und mindestens zwei Jahre aufbewahren. Erfasst sind Beschäftigte nach Paragraf 8 Absatz 1 SGB IV oder in den genannten Branchen nach Paragraf 2a SchwarzArbG; Privathaushalts-Minijobs nach Paragraf 8a SGB IV sind ausgenommen. Weitere Verordnungs-Ausnahmen gesondert prüfen; nicht mit der allgemeinen Arbeitszeiterfassung gleichsetzen.
 
 **Branchenmindestlöhne** (Paragraf 7 AEntG): Abweichend höhere Mindestlöhne in Bau, Elektrohandwerk, Gebäudereinigung, Pflege, Sicherheitsbranche, Fleischwirtschaft u.a.
 
@@ -95,19 +95,22 @@ Hinweis: Die Minijob-Verdienstgrenze ist an den Mindestlohn gekoppelt; sie betra
 **Grundregel (Paragraf 3 EFZG):**
 - Anspruch auf 6 Wochen Entgeltfortzahlung bei Arbeitsunfähigkeit durch Krankheit
 - Voraussetzung: Arbeitsverhältnis besteht seit 4 Wochen (Paragraf 3 Abs. 3 EFZG)
-- Für dieselbe Krankheit entsteht neuer Anspruch nach 6-monatiger Pause oder nach 12 Monaten seit letztem Anspruch
+- Bei erneuter Arbeitsunfähigkeit wegen derselben Krankheit [Paragraf 3 Absatz 1 Satz 2 EntgFG](https://www.gesetze-im-internet.de/entgfg/__3.html) prüfen: mindestens sechs Monate davor keine Arbeitsunfähigkeit infolge derselben Krankheit oder zwölf Monate seit Beginn der ersten Arbeitsunfähigkeit infolge dieser Krankheit. Kein automatischer neuer Sechswochenanspruch allein nach zwölf Monaten ununterbrochener Arbeitsunfähigkeit.
 
 **Nachweispflichten:**
-- Krank meldung am 1. Krankheitstag (Pflicht aus Arbeitsvertrag oder TV)
-- AU-Bescheinigung (gelber Schein / eAU) – Vorlage ab 1. oder 3. Tag (Paragraf 5 EFZG; Arbeitgeber kann 1. Tag verlangen)
+- Arbeitsunfähigkeit und voraussichtliche Dauer unverzüglich mitteilen; gesetzliche Pflicht nach [Paragraf 5 Absatz 1 EntgFG](https://www.gesetze-im-internet.de/entgfg/__5.html).
+- Dauert die Arbeitsunfähigkeit länger als drei Kalendertage, ist die Bescheinigung spätestens am folgenden Arbeitstag vorzulegen; der Arbeitgeber darf früheren Nachweis verlangen. Bei gesetzlich Versicherten tritt nach Paragraf 5 Absatz 1a grundsätzlich die rechtzeitige ärztliche Feststellung an die Stelle der Vorlagepflicht; Ausnahmen beachten.
 - Seit 01.01.2023: elektronische AU-Bescheinigung (eAU) – Arzt übermittelt direkt an Krankenkasse; Arbeitgeber ruft digital ab (Paragraf 5 Abs. 1a EFZG)
 
-**Leistungsverweigerungsrecht (Paragraf 7 EFZG):** Arbeitgeber kann Fortzahlung verweigern, bis AU-Bescheinigung vorgelegt wird.
+**Leistungsverweigerungsrecht:** [Paragraf 7 EntgFG](https://www.gesetze-im-internet.de/entgfg/__7.html) anhand der tatsächlich geschuldeten Vorlage- oder Feststellungspflicht prüfen. Im eAU-Regelfall keine Papierbescheinigung als allgemeine Zahlungsvoraussetzung fordern; fehlendes Verschulden und besondere Übermittlungsfälle gesondert würdigen.
 
 ### 5. Überstunden
 
-- Freizeitausgleich vor Auszahlung bevorzugen, um Lohnnebenkostenbelastung zu reduzieren.
-- Überstunden-Dokumentationspflicht (aus BAG-Rspr. seit CCOO-Entscheidung EuGH): `[Modellwissen – prüfen]`.
+Vergütungsgrundlage, Fälligkeit, Ausschlussfrist sowie eine wirksame Vereinbarung über Freizeitausgleich prüfen. Den bestehenden Zahlungsanspruch nicht allein aus Kostengründen durch Freizeit ersetzen.
+
+[BAG, Urteil vom 04.05.2022, 5 AZR 359/21](https://www.bundesarbeitsgericht.de/entscheidung/5-azr-359-21/), Rn. 15 bis 18 und amtlicher Leitsatz: Geleistete Zeit und arbeitgeberseitige Veranlassung getrennt darlegen. Erfasse Anordnung, Billigung, Duldung oder notwendige Mehrarbeit mit Tagesbelegen. Arbeitszeiterfassung bewirkt keine automatische Beweislastumkehr für die Vergütung.
+
+[BAG, Urteil vom 28.04.2026, 5 AZR 96/25](https://www.bundesarbeitsgericht.de/entscheidung/5-azr-96-25/), Rn. 19, 24 bis 28 und 53 bis 57: Die einheitliche tarifliche Zuschlagsgrenze von über 40 Wochenstunden im Thüringer Einzelhandel benachteiligte Teilzeitkräfte. Die Schwelle ist im Verhältnis individueller Wochenzeit zur regelmäßigen Vollzeit herabzusetzen. Prüfe Tariftext, Regelarbeitszeit, Zuschlagsgrenze und Leistungszweck; nicht automatisch jede Mehrstunde ab der individuellen Sollzeit bezuschlagen. Bei 19 Stunden Teilzeit, 38 Stunden Vollzeit und einer 40-Stunden-Schwelle ergäbe sich rechnerisch eine Grenze von 20 Stunden. Das Urteil verwies zur weiteren Sachaufklärung zurück; kein allgemeiner Zuschlagsanspruch ohne vertragliche oder tarifliche Grundlage. Quellenstand dieser Anker: 30.09.2026.
 
 ### 6. Antwortformat
 
@@ -123,8 +126,7 @@ Zitierstandard: `../references/zitierweise.md`. Methodik: `../references/methodi
 
 Wesentliche Quellen:
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- Riechert/Nimmerjahn, MiLoG, 3. Aufl. 2021, Paragraf 1 Rn. 1 ff.
-- Schmitt, EFZG, 9. Aufl. 2023, Paragraf 3 Rn. 1 ff.
+- Normfassungen und die oben konkret verlinkten amtlichen Entscheidungen verwenden; keine unkontrollierten Literaturfundstellen vorgeben.
 
 ## Beispiele
 

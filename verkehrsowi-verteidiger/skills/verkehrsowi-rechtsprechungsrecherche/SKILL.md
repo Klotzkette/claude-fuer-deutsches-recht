@@ -12,7 +12,7 @@ Rechtsprechungsrecherche für OWi-Verkehrsmandate: Anwalt sucht OLG-Entscheidung
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: § 67 OWiG Einspruch 2 Wochen, § 31 OWiG Verjährung 3/6 Monate, § 26 StVG Fahrverbot 4 Monate, § 79 OWiG Rechtsbeschwerde 1 Woche.
+- Fristen und Eilrisiken zuerst markieren: § 67 OWiG Einspruch 2 Wochen; Verjährung nach Delikt und anwendbarer Fassung (aktuell § 26 Abs. 3 StVG grundsätzlich 6 Monate bei § 24 Abs. 1, §§ 31–33 OWiG); Fahrverbot § 25 Abs. 2, 3 und 6 StVG (grundsätzlich spätestens 1 Monat nach Rechtskraft wirksam, Viermonatsprivileg nur bei erfüllten Voraussetzungen; Verbotsfrist gesondert); § 79 OWiG Rechtsbeschwerde 1 Woche. Historische Fassung und Übergang prüfen; [amtlich belegte Einzelheiten](../../references/verkehrsowi-leitplanken.md).
 - Tragende Normen verifizieren: StVG §§ 24, 24a, 25, 26, OWiG §§ 17, 26a, 47, 65, 66, 67, 68, 73, 74, 79, 80, BKatV, BußgeldkatalogVO, StVO, FZV, MessgeräteG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Betroffener, Verteidiger, Bußgeldstelle (Polizei/Verwaltungsbehörde), Amtsgericht (Bußgeldrichter), OLG-Senat, PTB (Eichbehörde).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zeugenfragebogen, Anhörungsbogen, Bußgeldbescheid, Einspruchsschrift, Messprotokoll, Eichschein, Hauptverhandlungsprotokoll — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
@@ -38,7 +38,7 @@ Alle Zitate vor Versand in offener Quelle (BGH-Datenbank, openjur.de, dejure.org
 - OLG Köln, Beschl. v. ... (NZV 2021, 42 — Aktenzeichen vor Versand verifizieren): Vollständige Messakte einschließlich Rohmessdaten.
 
 ### Verjährung
-- OLG Hamm, NZV 2020, 418 — 3-Monats-Frist § 26 Abs. 3 StVG (Aktenzeichen vor Versand in offener Quelle prüfen)
+- Historischer, ungeprüfter Recherchehinweis: OLG Hamm, NZV 2020, 418 — frühere 3-Monats-Frist des § 26 Abs. 3 StVG. Aktenzeichen und Inhalt vor Nutzung amtlich ermitteln; kein Beleg für die aktuelle Sechsmonatsregel. Normfassung und zeitliche Übertragbarkeit gesondert prüfen.
 - OLG Düsseldorf, NZV 2020, 526 — Verjährung bei Verkehrs-OWi (Aktenzeichen vor Versand prüfen)
 
 ### Zustellung / Fristbeginn
@@ -53,7 +53,7 @@ Alle Zitate vor Versand in offener Quelle (BGH-Datenbank, openjur.de, dejure.org
 
 ### Fahrverbot Haertefall
 - OLG Frankfurt, Beschl. v. 18.3.2021, 2 Ss OWi 148/21 (NZV 2021, 448) — Berufsbedingte Angewiesenheit allein kein Haertefall. Quelle: openjur.de bzw. Justiz Hessen.
-- OLG München, NZV 2021, 54 — Vier-Monats-Frist § 25 Abs. 2a StVG (Aktenzeichen verifizieren)
+- Historischer, ungeprüfter Recherchehinweis: OLG München, NZV 2021, 54 — Viermonatsregel im früheren § 25 Abs. 2a StVG. Aktenzeichen und Inhalt vor Nutzung amtlich ermitteln; heute steht das Privileg in Abs. 3. Die ältere Absatzangabe nicht als aktuellen Normstand ausgeben.
 
 ### Fahreridentifikation
 - BVerfG-Linie zu § 31a StVG (Fahrtenbuchauflage / Halterauskunft) konkret aus bundesverfassungsgericht.de aufrufen

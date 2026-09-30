@@ -31,6 +31,8 @@ description: "Für Mehrheits-Gesellschafter-Geschäftsführer: ordnet Norm, Bewe
 
 Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vor konkreter Verwendung live prüfen. Keine Modellzitate als Beleg verwenden.
 
+[BSG, Urteil vom 23.07.2026, B 12 BA 10/24 R, amtlicher Terminbericht 24/26, Nummer 4, PDF-Seite 4](https://www.bsg.bund.de/SharedDocs/Downloads/DE/Terminberichte/2026/2026_24_Terminbericht.pdf?__blob=publicationFile&v=2): Bei je 50 Prozent kann ein verbindlicher Stichentscheid eines neutralen Dritten oder Gremiums die verlässliche Verhinderungsmacht beseitigen. Genau 50 Prozent sind keine Mehrheit. Satzung, Stimmen, Entscheidungsverfahren und Einfluss auf Weisungen prüfen; eine unverbindliche Mediation nicht gleichsetzen. Bericht verifiziert, keine Urteilsrandnummern; keine allgemeine Abkehr von der 50-Prozent-Rechtsprechung.
+
 ## Intake-Fragen
 
 - Kann der GF ihm unangenehme Beschlüsse kraft Beteiligung verhindern?

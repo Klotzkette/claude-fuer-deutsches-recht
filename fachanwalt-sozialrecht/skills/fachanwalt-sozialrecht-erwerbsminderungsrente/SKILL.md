@@ -277,7 +277,7 @@ Mit freundlichen Grüßen
 | Streitwert EM-Rente (Vollrente) | 13-facher monatlicher Rentenwert (§ 42 GKG i.V.m. § 9 ZPO analog) |
 | Gerichtskosten SG | Kostenfrei § 183 SGG |
 | Anwaltskosten | PKH/LSG prüfen; sonst ca. EUR 1200 bis 2000 (erste Instanz) |
-| § 109-Gutachten | EUR 800 bis 3000; Vorschuss Kläger, Erstattung bei Erfolg |
+| § 109-Gutachten | Vorschuss nach Paragraf 109 Absatz 1 Satz 2 SGG; spätere Übernahme auf die Staatskasse gesondert prüfen, keine automatische Erstattung allein bei Obsiegen und keine PKH-Deckung |
 | LSG-Berufung | Streitwert > EUR 750 (§ 144 Abs. 1 SGG) |
 
 ---

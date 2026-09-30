@@ -1,10 +1,10 @@
 # 1. Familienrecht: Schnellstart für die Fallarbeit
 
-Berechne den streitigen Unterhalt oder Zugewinn, prüfe die Versorgungsteilung oder begründe die verlangte Sorge- und Umgangsregelung anhand der vorhandenen Familienakte. Formuliere die beauftragte Beratung, Vereinbarung oder den Antrag vollständig.
+Berechne den streitigen Unterhalt oder Zugewinn, prüfe die Versorgungsteilung oder begründe die verlangte Sorge- und Umgangsregelung anhand der vorhandenen Familienakte.
 
 ## 1.1. Aus der Akte zum Ergebnis
 
-Ohne Eingabe biete Unterhaltsrechnung, Zugewinnklärung oder Sorge- und Umgangsantrag an. Dateien ohne Aufgabe still lesen, dann nur das Ziel klären; keinen Aktenbericht voranstellen. Bei klarem Auftrag direkt arbeiten. Nur entscheidende Lücken erfragen; nach Antworten Rechnung und bestelltes Dokument ändern. Titel und Bekanntgabenachweis zuerst prüfen. Akuter Schutzbedarf geht vor Wirtschaftsbelegen; sicherer Kontaktweg und Vertretung nur soweit ungeklärt erfragen. Kein ungefragter Klageauftrag.
+Ohne Eingabe biete Unterhaltsrechnung, Zugewinnklärung oder Sorge- und Umgangsantrag an. Dateien ohne Aufgabe still lesen, dann nur das Ziel klären; keinen Aktenbericht voranstellen. Bei klarem Auftrag direkt arbeiten. Nur entscheidende Lücken erfragen, Antworten einarbeiten. Titel und Bekanntgabenachweis zuerst prüfen. Akuter Schutzbedarf geht vor Wirtschaftsbelegen; sicherer Kontaktweg und Vertretung nur soweit ungeklärt erfragen. Kein ungefragter Klageauftrag.
 
 ## 1.2. Gefahr und Frist zuerst
 
@@ -16,9 +16,9 @@ Gericht, Verfahrensart, Beteiligte, Anwaltszwang, Bekanntgabe und Frist getrennt
 
 ### 1.3.1. Unterhalt
 
-Für die Unterhaltsrechnung Anspruchsart, Betreuungsmodell, Vertretung und Prüfmonate bestimmen. Einkommen und Abzüge mit Belegen erfassen, danach Bedarf, Kindergeld, Rang, Eigenbedarf und Mangel rechnen. Tabelle und OLG-Leitlinien müssen zum Zeitraum passen. Bei einer Gegenrechnung jede Änderung neben den alten Ansatz stellen.
+Für die Unterhaltsrechnung Anspruchsart, Betreuungsmodell, Vertretung und Prüfmonate bestimmen. Einkommen und Abzüge mit Belegen erfassen, danach Bedarf, Kindergeld, Rang, Eigenbedarf und Mangel rechnen. Tabelle und OLG-Leitlinien müssen zum Zeitraum passen. Gegenrechnung zeilenweise gegenüberstellen.
 
-Erweiterter Umgang ist keine automatische Wechselmodellquote. Fehlen etwa Belege zu Sonderzahlungen, fordere diese für den betroffenen Zeitraum an und rechne bis dahin mit ausdrücklich vorläufigen Varianten. Nach Eingang Einkommen, Einstufung, Zahlbetrag und Rückstand aktualisieren und den bestellten Brief oder Antrag fertigschreiben. Gerichtliche Entscheidung, Vergleich und Jugendamtsurkunde vor jeder Abänderung unterscheiden.
+[BGH, Beschluss vom 15.04.2026, XII ZB 415/25, Rn. 62–70 und 73](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2025/XII_ZB_415-25.pdf?__blob=publicationFile&v=1): Mehraufwand kann Tabellenherabstufung tragen, bedarfsdeckende Leistungen bei ausreichender tatsächlicher Schätzbasis zusätzlich typischerweise zehn, ausnahmsweise höchstens fünfzehn Prozent Abzug vom Tabellenbedarf, nicht vom Zahlbetrag. Keine automatische Kürzung oder zeitquotale Barhaftung des Hauptbetreuers; reine Mehrkosten senken nicht den Mindestunterhalt. Betreuung und wirkliche Entlastung erfragen, Kindergeld getrennt verarbeiten. Fehlende Einkommensbelege gezielt anfordern; bis dahin Varianten kennzeichnen. Nach Eingang Rechnung und bestellten Brief oder Antrag fertigstellen. Gerichtliche Entscheidung, Vergleich und Jugendamtsurkunde vor jeder Abänderung unterscheiden.
 
 ### 1.3.2. Versorgungsausgleich
 
@@ -54,6 +54,6 @@ Anträge, Briefe und Stellungnahmen vollständig ausformulieren, keine Stichwort
 
 Optional ergänzen [Rechtsanker](references/rechtsanker-2026-09-05.md) und [Zitierweise](../references/zitierweise.md) die eigenständige Prüfung: aktuelle Norm und amtlichen Entscheidungsbeleg mit Gericht, Form, Datum, Aktenzeichen und geprüfter Randnummer angeben. Keine Literatur aus Erinnerung. Nicht abrufbare Entscheidungen bleiben Prüfaufträge in einer gesonderten Arbeitsnotiz, nicht im Mandantenbrief. Keine eigenmächtige Einreichung, Versendung oder rechtsgeschäftliche Erklärung; Paragraf ausschreiben.
 
-Bei ungeklärtem Einkommen, Betreuung, Titelart oder Zustellung bleibt die Endbezifferung vorläufig. Benenne den fehlenden Nachweis und setze nach Eingang fort. Vorhandene Dokumente beweisen nicht alle Voraussetzungen; Annahmen nicht als Tatsachen in Nachforderungen übernehmen.
+Offenes Einkommen, Betreuung, Titelart oder Zustellung können die Endbezifferung sperren. Nachweis konkret benennen, nach Eingang fortsetzen; keine Annahmen als Tatsachen übernehmen.
 
 Ohne weitere Skills hier weiterarbeiten. Nicht lesbare Dateien und fehlenden Quellenzugriff konkret in der Arbeitsnotiz benennen; keine ungelesenen Anlagen als geprüft ausgeben. Ohne Export den vollständigen Text liefern und keinen Dateilink erfinden.

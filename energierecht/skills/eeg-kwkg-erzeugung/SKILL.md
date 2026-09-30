@@ -73,12 +73,12 @@ Seit 2024 Pflicht zu schrittweisem H2-Ready-Standard für Anlagen > 10 MW (KWKG-
 
 ## Schritt 3 — Anlagen-Zulassung und Genehmigung
 
-### Marktstammdatenregister § 33 EEG
+### Marktstammdatenregister: § 5 MaStRV
 
-- **Eintragungs-Pflicht** binnen ein Monat nach Inbetriebnahme
-- BNetzA-Webportal
-- Bei Versäumnis: **anzulegender Wert auf null** § 33 Abs. 6 EEG bis zur Eintragung
-- Strenge Verwaltungspraxis BNetzA
+- Registrierungspflicht und Ausnahmen nach [§ 5 MaStRV](https://www.gesetze-im-internet.de/mastrv/__5.html) prüfen: grundsätzlich innerhalb eines Monats nach Inbetriebnahme, bei KWK nach Aufnahme bzw. Wiederaufnahme des Dauerbetriebs. Bereits genehmigte Projekte können eine eigene Registrierungspflicht auslösen.
+- Nachweis über das BNetzA-Webportal und konkretes Registrierungsdatum sichern.
+- [§ 23 MaStRV](https://www.gesetze-im-internet.de/mastrv/__23.html) betrifft die Fälligkeit von EEG-/KWKG-Zahlungen. Davon getrennt [§ 52 Abs. 1 Nr. 11 EEG](https://www.gesetze-im-internet.de/eeg_2014/__52.html) prüfen: unvollständige Registerübermittlung **und** fehlende Meldung nach § 71 Abs. 1 Nr. 1 EEG, Zahlungsfolgen und nachträgliche Pflichtenerfüllung; zeitlich anwendbare Übergangsregeln gesondert bestimmen. Keine pauschale Nullvergütung aus einer fehlenden Registrierung ableiten.
+- [§ 33 EEG](https://www.gesetze-im-internet.de/eeg_2014/__33.html) regelt den Ausschluss von Geboten, nicht die Registerpflicht.
 
 ### BImSchG-Genehmigung
 
@@ -99,11 +99,11 @@ Seit 2024 Pflicht zu schrittweisem H2-Ready-Standard für Anlagen > 10 MW (KWKG-
 
 ## Schritt 4 — Repowering und Modernisierung
 
-### Repowering Wind § 23b EEG
+### Repowering Wind: § 16b BImSchG und gesonderter Förderpfad
 
-- Ersatz Bestandsanlage durch leistungsstärkere Neuanlage am gleichen Standort
-- Anrechnungs-Mechanismus
-- Bevorzugte Behandlung in Ausschreibungen
+- Bestand, Austauschumfang, Standortänderung und Zeitplan erfassen; Genehmigungserleichterungen einschließlich ihrer Grenzen nach [§ 16b BImSchG](https://www.gesetze-im-internet.de/bimschg/__16b.html) prüfen.
+- Förderanspruch, neue Inbetriebnahme und Ausschreibung separat nach der einschlägigen EEG-Fassung prüfen; die immissionsschutzrechtliche Erleichterung garantiert keinen Zuschlag.
+- [§ 23b EEG](https://www.gesetze-im-internet.de/eeg_2014/__23b.html) betrifft die Einspeisevergütung ausgeförderter Anlagen und ist keine Repowering-Vorschrift.
 
 ### Modernisierung KWK § 5 Abs. 2 KWKG
 
@@ -120,13 +120,13 @@ Seit 2024 Pflicht zu schrittweisem H2-Ready-Standard für Anlagen > 10 MW (KWKG-
 ### Vergütungs-Streit mit Netzbetreiber
 
 - Anlagenzulassung erfolgt aber Vergütung verweigert
-- BGH-EnVR-Senat: laufende Rechtsprechung zum Anlagenbegriff und zur Vergütung — vor Ausgabe Aktenzeichen über bundesgerichtshof.de verifizieren
+- Für den konkreten EEG-Anlagenbegriff Technik, Inbetriebnahmejahr und Vergütungsnorm bestimmen; BGH-Volltexte zu dieser Gesetzesfassung recherchieren. Regulierungsbeschwerde und zivilrechtlichen Vergütungsstreit unterscheiden; das Registerzeichen EnVR belegt keinen allgemeinen EEG-Vergütungssenat.
 - Klärung Streit über Schiedsverfahren bei der BNetzA (§ 81 EEG) oder Klage Zivilgericht
 
 ### Bei nicht-rechtzeitiger MaStR-Eintragung
 
 - Anlage in Betrieb, Eintrag fehlt
-- Korrektur möglich, aber Vergütungs-Sperre für Zwischen-Zeitraum
+- Nachmeldung dokumentieren; Fälligkeit nach § 23 MaStRV und einen etwaigen Pflichtverstoß nach § 52 EEG einschließlich Übergangsrecht getrennt berechnen.
 - BNetzA-Verwaltungspraxis prüfen
 
 ### Ausschreibungs-Zuschlag versäumt
@@ -213,18 +213,20 @@ Seit 2024 Pflicht zu schrittweisem H2-Ready-Standard für Anlagen > 10 MW (KWKG-
 2. Klage VG / Bundesgerichtshof bei EnWG-Linien
 3. Skill `energierecht-verfahren`
 
-## Aktuelle Rechtsprechung & Leitsätze (Stand 05/2026)
+## Rechtsprechungsanker und konkrete Recherchepunkte
 
-- **EuGH 28.03.2019, C-405/16 P (PreussenElektra-Nachfolge / EEG 2012)**: EEG-Umlage stellt keine staatliche Beihilfe i.S.v. Art. 107 AEUV dar (in Vorlaeufer-Konstellation); Änderung gegenueber Kommissions-Auffassung. Quelle: curia.europa.eu (CELEX 62016CJ0405).
-- **BGH 05.07.2022, EnVR 41/20**: Anlagenbegriff EEG; Abgrenzung zwischen mehreren Anlagen am selben Standort. Quelle: bundesgerichtshof.de — Pressemitteilung BGH 99/2022. Vor Zitieren der Detailfragen Aktenzeichen über bundesgerichtshof.de verifizieren.
-- **BVerwG 17.12.2020, 4 C 5.19**: BImSchG-Genehmigung Windkraftanlage; Anforderungen an artenschutzrechtliche Prüfung (saP). Quelle: bverwg.de.
-- **EuGH 27.04.2023, C-217/22 (Aktiengesellschaft Yarpa)**: Auslegung der EE-Richtlinie 2018/2001 (RED II) — Foerderfaehigkeit. Quelle: curia.europa.eu.
+Gezielte Nachprüfung der folgenden vier bisherigen Anker am 30.09.2026; kein vollständiger Aktualitätsnachweis sämtlicher Förder- und Genehmigungsregeln dieses Skills.
+
+- **EuGH, Urteil vom 28.03.2019 – C-405/16 P, Deutschland/Kommission, EEG 2012:** Die Kommission hatte für die damaligen Förder- und Umlagemechanismen den Einsatz staatlicher Mittel nicht nachgewiesen; das Urteil des Gerichts und der Kommissionsbeschluss wurden aufgehoben. Bloße gesetzliche Regelung oder praktische Abwälzung genügt nicht. **Grenze:** keine allgemeine Beihilfefreiheit heutiger EEG-/KWKG-Förderung. Finanzierung, staatliche Verfügungsmacht und konkrete Kommissionsentscheidung des Falles prüfen. [Amtlicher Entscheidungsnachweis](https://eur-lex.europa.eu/legal-content/DE/CASE/?uri=CELEX%3A62016CJ0405), [Gerichts-Pressemitteilung 44/19](https://curia.europa.eu/jcms/upload/docs/application/pdf/2019-03/cp190044de.pdf). Die hier bestätigte Kernaussage beruht auf dem Entscheidungsnachweis und der Gerichtsmitteilung; Randnummern erst nach der benötigten Volltextpassage verwenden.
+- **Recherchepunkt Anlagenbegriff:** Den aktuellen Anspruch anhand des technischen Anlagenverbunds, des Inbetriebnahmezeitpunkts und der anwendbaren EEG-Fassung prüfen. Ein BGH-Anker ist erst nach Volltextabgleich von Anlage, Normfassung und tragender Aussage einzusetzen; der bisher genannte EnVR-Nachweis war dafür nicht belegbar.
+- **Recherchepunkt Windkraft und Artenschutz:** Betroffene Art, Prüfungsmaßstab, Genehmigungsdatum, Repowering und konkret angegriffene Schutzmaßnahme feststellen; hierzu passende verwaltungsgerichtliche Volltexte recherchieren. Die zuvor angeführte Entscheidung zur Frankfurter Südumfliegung liefert keinen windkraftrechtlichen Artenschutzmaßstab.
+- **Recherchepunkt RED-II-/RED-III-Förderfähigkeit:** Konkrete Richtlinienvorschrift, nationale Förderbedingung, Anlagentyp und Übergangszeitraum bestimmen; eine dazu passende EuGH-Entscheidung erst nach amtlichem Volltextabgleich einsetzen. Der bisherige angebliche Yarpa-Nachweis betrifft tatsächlich ein Dublin-Asylverfahren und wird nicht als Energieanker verwendet.
 - **Gesetzeslage 05/2026:**
  - EEG 2023 (BGBl. I 2022 S. 1237, mehrfach geaendert)
  - Solarpaket I — BGBl. I 2024 S. 151 (Inkraftsetzung 16.05.2024)
  - WindBG 2022 (BGBl. I S. 1353) — 2-Prozent-Flaechenziel Länder
  - KWKG 2023 — Verlaengerung Förderung bis 2030 (Wasserstoff-Pflicht ab 10 MW)
- - GEG 2024 (BGBl. I 2023 S. 280) — Heizungsgesetz, 65-Prozent-EE-Pflicht ab 2024 in Neubaugebieten
+ - Gebäudewärme, Nachprüfung 30.09.2026: Die amtliche Fassung heißt [GModG](https://www.gesetze-im-internet.de/geg/); der frühere [§ 71 ist weggefallen](https://www.gesetze-im-internet.de/geg/__71.html). Für ein konkretes Wärmeprojekt §§ 42–46, Errichtungs-/Einbaudatum und Übergangsrecht prüfen. Die frühere pauschale 65-Prozent-Zeile ist keine aktuelle Prüfungsgrundlage.
  - RED III — RL (EU) 2023/2413; Frist Umsetzung 21.05.2025; Beschleunigungsgebiete ab 21.02.2026 verpflichtend
  - BNetzA-Festlegungen Ausschreibungs-Hoechstwerte 2025/2026 über bundesnetzagentur.de aktuell prüfen
 
@@ -232,7 +234,7 @@ Konkrete Aktenzeichen vor Ausgabe über bundesgerichtshof.de / bverwg.de / curia
 
 ## Zentrale Normen (Paragrafenkette)
 
-§ 19 EEG (Marktpraemie) — § 20 EEG (Direktvermarktung) — § 21 EEG (feste Einspeise-Vergütung) — § 23b EEG (Repowering) — § 33 EEG (MaStR-Eintragungspflicht) — § 4 BImSchG (Genehmigungspflicht) — § 35 BauGB (Privilegierung Aussenbereich) — § 44 BNatSchG (Zugriffsverbote Artenschutz)
+§ 19 EEG (Zahlungsanspruch) — § 20 EEG (Marktprämie) — § 21 EEG (Einspeisevergütung/Mieterstrom) — § 23b EEG (ausgeförderte Anlagen) — § 33 EEG (Gebotsausschluss) — §§ 5, 23 MaStRV (Registrierung/Fälligkeit) — § 52 EEG (Zahlungen bei Pflichtverstößen) — §§ 4, 16b BImSchG (Genehmigung/Repowering) — § 35 BauGB (Privilegierung Aussenbereich) — § 44 BNatSchG (Zugriffsverbote Artenschutz)
 
 ## Verzahnung
 
@@ -246,15 +248,14 @@ Konkrete Aktenzeichen vor Ausgabe über bundesgerichtshof.de / bverwg.de / curia
 
 ## Quellen
 
-- EEG 2023 + Solarpaket I 2024 §§ 19, 20, 21, 23b, 33, 39f-o, 51a
+- EEG 2023 + Solarpaket I 2024 §§ 19, 20, 21, 23b, 33, 39f-o, 51a, 52; MaStRV §§ 5, 23
 - KWKG 2023 §§ 5, 10, 25
-- BImSchG §§ 4, 10
+- BImSchG §§ 4, 10, 16b
 - BauGB §§ 35, 249
-- WindBG, SolarBG, GEG, EnEfG
+- WindBG, GModG (amtlicher Abruf weiterhin unter `/geg/`), EnEfG
 - BNetzA-Festlegungen zu Ausschreibungs-Höchstwerten
 - BAFA-Merkblätter
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- BVerwG 17.12.2020, 4 C 5.19 — BImSchG-Windkraft saP (bverwg.de)
 - EU-RED III (Richtlinie (EU) 2023/2413, ABl. L 2413 vom 31.10.2023; eur-lex.europa.eu/eli/dir/2023/2413/oj)
 - EU-Strommarkt-Verordnung (EU) 2024/1747; sowie VO (EU) 2019/943 (Grundverordnung)
 - EuGH 02.09.2021, C-718/18 — Unabhaengigkeit BNetzA als Regulierungsbehoerde

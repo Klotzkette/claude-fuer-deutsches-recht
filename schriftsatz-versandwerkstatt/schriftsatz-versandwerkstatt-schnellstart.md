@@ -72,6 +72,6 @@ Fehlende Anlagen anfordern, den Rest fortsetzen. Nach Ersetzung Kennung, Verweis
 
 Nach tatsächlichem Versand automatisierte Eingangsbestätigung mit Empfänger, Zeitpunkt und freigegebenen Enddateien abgleichen; „gesendet“ genügt nicht. Für jeden Nachrichtenteil separat prüfen und mit Versandexport sichern. Fehlender Beleg für Teil 2 wird nicht durch Teil 1 ersetzt.
 
-BGH, Beschluss vom 21.03.2023, VIII ZB 80/22, amtlicher Leitsatz: Über einen sinnvollen Dateinamen muss die Eingangsbestätigung zugeordnet werden können. Quelle: https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2023-3-21&Gericht=bgh&anz=20&nr=133514&pos=10
+BGH, Beschluss vom 21.03.2023 – VIII ZB 80/22, Rn. 26–29: Über einen sinnvollen Dateinamen muss die Eingangsbestätigung zugeordnet werden können. Quelle: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2022/VIII_ZB__80-22.pdf?__blob=publicationFile&v=1
 
 Paragraf 130a Absatz 5 ZPO betrifft den Eingang, nicht die materielle Richtigkeit oder sämtliche Formvoraussetzungen. Erst nach positiver Ausgangskontrolle darf der Verantwortliche die Frist erledigen. Niemals selbst versenden oder eine Frist löschen.

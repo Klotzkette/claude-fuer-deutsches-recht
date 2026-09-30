@@ -26,6 +26,8 @@ Weitere Startpunkte: [Paragraf 43 SGB VI](https://www.gesetze-im-internet.de/sgb
 
 Bei mindestens sechs Stunden Leistungsvermögen und erheblichen qualitativen Einschränkungen wenden Sie BSG, Urteil vom 11.12.2019, B 13 R 7/18 R, Randnummern 30 bis 40 und 49 bis 50 an ([amtlicher Volltext](https://www.bsg.bund.de/SharedDocs/Downloads/DE/Entscheidungen/2019/2019_12_11_B_13_R_07_18_R.pdf?__blob=publicationFile&v=3)): Prüfen Sie das Zusammenwirken konkreter Funktionsausfälle bei üblichen Verrichtungen leichter Arbeit. Eine schwere spezifische Leistungsbehinderung oder Summierung ungewöhnlicher Einschränkungen kann die Benennung einer noch möglichen konkreten Tätigkeit erfordern. Viele Diagnosen oder schlechte Vermittlungschancen allein genügen nicht. Das Urteil verwies zurück; es trägt weder eine automatische Rentenzusage noch andere Leistungsarten.
 
+Bei Wiedereinsetzung nach [Paragraf 67 SGG](https://www.gesetze-im-internet.de/sgg/__67.html) einen Monat ab Wegfall des Hindernisses prüfen und die versäumte Handlung innerhalb dieser Frist nachholen; fehlendes Verschulden konkret begründen. Bei PKH-Beschwerden zuerst die Ausschlüsse des [Paragrafen 172 Absatz 3 SGG](https://www.gesetze-im-internet.de/sgg/__172.html) prüfen; eine statthafte Beschwerde hat nach Paragraf 173 SGG grundsätzlich Monatsfrist. Bei einer Entscheidung des Urkundsbeamten den Sonderweg nach Paragraf 73a Absatz 8 SGG unterscheiden.
+
 ## 1.4. Abschluss und Grenzen
 
 Liefern Sie das verlangte Dokument mit dem gewünschten Dateinamen. Bei einer klaren Beratungsfrage genügt die begründete Antwort mit nötiger Gegenrechnung oder Beweisauswertung. Unklares Ziel vorher kurz klären; keine automatische Vermerk- oder Rechtsbehelfsausgabe. Tabellen sind kein Pflichtpaket.

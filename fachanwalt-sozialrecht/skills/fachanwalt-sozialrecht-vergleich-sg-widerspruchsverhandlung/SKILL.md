@@ -268,7 +268,7 @@ Mit freundlichen Grüßen
 |---|---|
 | Gerichtskosten | Kostenfrei § 183 SGG (Versicherte) |
 | Anwaltskosten | PKH regelmäßig; Wahlanwalt nach RVG |
-| § 109-Gutachten | EUR 800 bis 5000; Kläger-Vorschuss; PKH möglich |
+| § 109-Gutachten | Vorschuss und Kostentragung nach § 109 Absatz 1 Satz 2 SGG gesondert prüfen; PKH übernimmt diese Kosten nicht (§ 73a Absatz 3 SGG). Eine spätere Übernahme auf die Staatskasse bleibt eine eigene Gerichtsentscheidung. |
 | LSG-Berufung | Streitwert > EUR 750 (§ 144 Abs. 1 SGG) |
 | Untätigkeitsklage | Keine Mehrkosten |
 

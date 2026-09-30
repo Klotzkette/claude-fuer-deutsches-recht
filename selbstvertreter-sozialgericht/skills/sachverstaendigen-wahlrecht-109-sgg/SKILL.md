@@ -35,7 +35,7 @@ Das Gericht hat einen Gutachter gewaehlt. Sie sind nicht einverstanden. Sie kön
 
 - **§ 109 SGG** — Sachverstaendigen-Wahlrecht des Klägers.
 - **§ 109 Abs. 1 S. 2 SGG** — Kosten traegt der Antragsteller.
-- **§ 109 Abs. 1 S. 3 SGG** — Bei Erfolg kann das Gericht die Kosten der Staatskasse auferlegen.
+- **[Paragraf 109 Absatz 1 Satz 2 SGG](https://www.gesetze-im-internet.de/sgg/__109.html)** — Vorschuss und endgültige Kostentragung vorbehaltlich einer anderen Gerichtsentscheidung; Absatz 1 enthält keinen Satz 3.
 
 ## Schritt-für-Schritt-Anleitung
 
@@ -112,14 +112,14 @@ Das Gericht setzt einen Vorschuss fest. Diesen ueberweisen Sie an die Gerichtska
 
 ### Schritt 7 — Bei Erfolg: Kostenerstattung
 
-Wenn das § 109-Gutachten zu Ihrem Erfolg fuehrt, kann das Gericht die Kosten der Staatskasse auferlegen (§ 109 Abs. 1 S. 3 SGG). Antrag stellen.
+Die mögliche spätere Übernahme der Gutachtenkosten auf die Staatskasse nach Paragraf 109 Absatz 1 Satz 2 SGG gesondert beantragen und begründen. Keine automatische Erstattung allein bei Obsiegen versprechen; den Beitrag des Gutachtens zur Sachaufklärung und die gerichtliche Entscheidung beachten.
 
 Wenn auch die Beklagte verliert, können die Kosten über § 193 SGG erstattet werden.
 
 ## Worauf Sie besonders achten müssen
 
 - **Kostenrisiko**: Bei Misserfolg verlieren Sie die Kosten.
-- **Mit PKH**: Prüfen Sie, ob PKH die Kosten deckt — nicht selbstverstaendlich!
+- **Mit PKH**: Die Kostenregel des Paragrafen 109 Absatz 1 Satz 2 SGG bleibt nach [Paragraf 73a Absatz 3 SGG](https://www.gesetze-im-internet.de/sgg/__73a.html) unberührt. PKH übernimmt den angeforderten Vorschuss für Ihr Wunschgutachten nicht. Die mögliche spätere Übernahme auf die Staatskasse wird gesondert vom Gericht entschieden.
 - **Fristen**: Antrag rechtzeitig, bevor das Gericht entscheidet.
 - **Doppel-Gutachten**: Zwei Gutachten heben sich nicht zwingend auf — kommt auf Qualitaet an.
 

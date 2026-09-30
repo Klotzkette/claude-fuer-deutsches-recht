@@ -54,6 +54,12 @@ Bei Zugang zum öffentlichen Dienst gilt Art. 33 Abs. 2 GG, aber fehlende Verfas
 - aktueller Distanzierung;
 - besonderem Justiz-/Polizeibezug.
 
+## 1. Aktueller Chatfall-Anker
+
+Bei rassistischen oder NS-verharmlosenden Chats BVerwG, Urteil vom 11.06.2026, 2 C 12.25, Randnummern 23 bis 30 und 39 bis 46, anwenden: Vollständigen Kontext und innere Einstellung aufklären; der objektive Anschein allein trägt keine Verfassungstreuepflichtverletzung. Wohlverhaltenspflicht und Verfassungstreue unterscheiden. Kommunikation in besonderen Nähebeziehungen ist nicht pauschal unverwertbar, ihr Schutz tritt aber nicht bei jedem bloßen Wohlverhaltensvorwurf zurück. Keine automatische Entfernung allein aus einem isolierten Screenshot ableiten. [Amtlicher Volltext](https://www.bverwg.de/de/110626U2C12.25.0).
+
+Frage gezielt nach zusammenhängenden Chatverläufen, Gruppenbeziehungen, erkennbaren Zustimmungen und Entlastungsumständen. Die Entscheidung betrifft einen Lebenszeitbeamten im bremischen Disziplinarverfahren; Bewerbereignung und Richterdienstrecht sind gesondert zu prüfen.
+
 ## Quellenanker
 
 Bekannte Linien: BVerfG 22.05.1975 - 2 BvL 13/73; BVerfG 12.06.2018 - 2 BvR 1738/12 u.a.; BVerwG 02.12.2021 - 2 A 7.21; BVerwG 10.10.2024 - 2 C 15.23. Vor Nutzung live verifizieren.

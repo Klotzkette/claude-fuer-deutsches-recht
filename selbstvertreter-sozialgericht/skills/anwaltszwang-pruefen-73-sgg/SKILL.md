@@ -3,97 +3,26 @@ name: anwaltszwang-pruefen-73-sgg
 description: "Für Brauchen Sie einen Anwalt? der Paragraf 73 SGG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
-# Brauchen Sie einen Anwalt? Der § 73 SGG
+# 1. Vertretung vor Sozialgericht, Landessozialgericht und Bundessozialgericht
 
-## Fachlicher Anker
+## 1.1 Zweck und Eingaben
 
-- **Normen:** § 73 SGG, § 7, § 7a.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
-- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
+Prüfe anhand Gericht, Verfahrensart, Urteil und Rechtsbehelfsbelehrung, wer wirksam handeln darf. Beim SG und LSG dürfen Beteiligte ihren Rechtsstreit grundsätzlich selbst führen. Eine schwierige medizinische oder rechtliche Frage kann fachkundige Unterstützung sinnvoll machen, schafft aber keinen gesetzlichen Anwaltszwang.
 
-## Worum geht es?
+## 1.2 Vertretung richtig bestimmen
 
-Viele denken: ohne Anwalt geht es nicht. Beim Sozialgericht ist das anders. Sie dürfen sich selbst vertreten — als Versicherter, als Leistungsempfaenger, als Behörde. Erst beim Bundessozialgericht ist ein Anwalt Pflicht.
+Nach [Paragraf 73 SGG](https://www.gesetze-im-internet.de/sgg/__73.html) sind am SG und LSG neben Rechtsanwälten nur die dort ausdrücklich genannten weiteren Personen und Organisationen vertretungsbefugt. Mitgliedschaft im Sozialverband oder in einer Gewerkschaft macht nicht jedes Mitglied zum Prozessvertreter. Vollmacht, Befugnis und gegebenenfalls Handeln durch die Organisation prüfen. Eine Vertrauensperson als Beistand nach Absatz 7 von einem Bevollmächtigten unterscheiden.
 
-## In einfacher Sprache
+Vor dem BSG besteht nach Paragraf 73 Absatz 4 grundsätzlich Vertretungszwang. Zulässig sind Rechtsanwälte, die in Absatz 2 Satz 1 bezeichneten Rechtslehrer und die dort zugelassenen Organisationen, die durch Personen mit Befähigung zum Richteramt handeln. Eine besondere nur für das BSG geltende Anwaltszulassung oder eine ausschließliche BSG-Anwaltsliste gibt es nicht. Behörden und bestimmte weitere Beteiligte sowie vertretungsberechtigte Beteiligte können nach den gesetzlichen Sonderregeln handeln. Das PKH-Verfahren ist ausdrücklich vom Vertretungszwang ausgenommen; daraus folgt kein Recht, selbst wirksam Revision oder Nichtzulassungsbeschwerde einzulegen.
 
-Sie brauchen am Sozialgericht keinen Anwalt. Auch nicht am Landessozialgericht. Sie können alles selbst machen. Wenn das Verfahren zum Bundessozialgericht in Kassel geht, brauchen Sie einen Anwalt. Aber das ist erst die dritte Stufe.
+## 1.3 Kosten und Fristen
 
-## Wann brauchen Sie diese Skill?
+Bei SG und LSG Gerichtskostenfreiheit nach Paragraf 183 SGG, mögliche Kosten nach Paragraf 197a SGG, eigene Anwaltskosten und Kostenerstattung nach Paragraf 193 SGG trennen. Keine Risikofreiheit oder automatische Erstattung jeder Ausgabe versprechen. Beim Sozialverband Mitgliedschaft, Wartezeiten und Umfang der konkreten Rechtsschutzregelung prüfen; keinen festen Mitgliedspreis oder stets gedeckte Wunschgutachten nennen.
 
-- Sie ueberlegen, ob Sie sich selbst vertreten oder einen Anwalt nehmen.
-- Sie haben Sorge, vor Gericht alleine zu sein.
-- Sie sind in der Berufung am LSG und fragen sich: brauche ich jetzt einen Anwalt?
+PKH nach [Paragraf 73a SGG](https://www.gesetze-im-internet.de/sgg/__73a.html) setzt wirtschaftliche Voraussetzungen und hinreichende Erfolgsaussicht voraus. Sie ist keine automatische Folge der Amtsermittlung. PKH übernimmt einen Vorschuss nach Paragraf 109 Absatz 1 Satz 2 SGG nicht. Antrag und vollständige Erklärung frühzeitig vorbereiten; keine allgemeine Rückwirkung zusagen. Rechtsmittelfrist und Begründungsfrist unabhängig davon sichern. Ein PKH-Antrag verlängert die Rechtsmittelfrist nicht automatisch.
 
-## Fachbegriffe (kurz erklaert)
+## 1.4 Ergebnis und Quellenpflicht
 
-- **Anwaltszwang**: Pflicht, sich von einem Anwalt vertreten zu lassen. Gibt es in vielen Gerichts-Arten, aber nicht beim SG/LSG.
-- **Postulationsfaehigkeit**: Wer vor Gericht auftreten darf. Beim SG sind Sie selbst postulationsfaehig.
-- **Bevollmaechtigter**: Eine Person, die für Sie auftritt. Kann ein Anwalt sein, muss aber nicht.
+Nenne den für diese Instanz zulässigen Weg, die unmittelbar zu sichernde Frist und die noch fehlende Vertretungs- oder Kosteninformation. Formuliere das beauftragte Schreiben vollständig; ein Hinweis auf Vertretungszwang ersetzt keinen vorbereitbaren Entwurf. Keine Einreichung oder Beauftragung ohne Auftrag vornehmen. Bei fehlender Rechtsbehelfsbelehrung genau diese anfordern und nach Eingang nur den betroffenen Verfahrensweg korrigieren.
 
-## Rechtsgrundlagen
-
-- **§ 73 Abs. 1 SGG** — Vor dem SG und LSG kein Anwaltszwang. Sie können sich selbst vertreten.
-- **§ 73 Abs. 2 SGG** — Sie dürfen einen Bevollmaechtigten waehlen. Erlaubt sind: Anwalt, Rechtsbeistand, Mitglieder von Gewerkschaft / Sozialverband, andere Personen mit Befaehigung zum Richteramt.
-- **§ 73 Abs. 4 SGG** — Vor dem BSG ist ein Anwalt oder Hochschullehrer zwingend.
-
-## Schritt-für-Schritt-Anleitung
-
-### Schritt 1 — Prüfen, in welcher Instanz Sie sind
-
-- **SG (1. Instanz)** — kein Anwaltszwang
-- **LSG (2. Instanz)** — kein Anwaltszwang
-- **BSG (3. Instanz)** — Anwaltszwang!
-
-### Schritt 2 — Prüfen, wer Sie unterstuetzen kann
-
-Sie dürfen auch ohne Anwalt nicht alleine sein. Mitnehmen können Sie:
-
-- **Sozialverband** (VdK oder SoVD) — Mitglieder bekommen oft kostenlosen Rechtsschutz
-- **Gewerkschaft** — vertritt Mitglieder beim SG (z.B. ver.di in Arbeitsmarkt-Sachen)
-- **Vertrauensperson** — als Beistand zugelassen, wenn das Gericht es erlaubt
-- **Anwalt mit PKH** (Prozesskostenhilfe, siehe `pkh-vor-sozialgericht-73a-sgg`)
-
-### Schritt 3 — Selbst entscheiden
-
-Anwalt nehmen, wenn:
-
-- der Fall medizinisch komplex ist
-- mehrere Bescheide zusammenhaengen
-- die Behörde ein juristisch schwieriges Argument bringt
-- der Streitwert hoch ist
-- es um Existenz geht (laufende Leistung gestoppt)
-
-Selbst vertreten ist gut, wenn:
-
-- der Fall einfach ist (Rechenfehler, klarer Sachverhalt)
-- Sie Zeit haben, sich einzulesen
-- Sie schon Erfahrung mit Behörden haben
-
-### Schritt 4 — Bei Berufung zum LSG nachdenken
-
-Am LSG ist es manchmal schwieriger. Die Gegenseite hat oft einen Juristen. Prüfen Sie, ob Sie PKH bekommen koennten.
-
-### Schritt 5 — Beim BSG: Anwalt suchen
-
-Vor dem BSG müssen Sie einen Anwalt nehmen, der beim BSG zugelassen ist. Liste auf www.bsg.bund.de. PKH ist auch hier möglich.
-
-## Worauf Sie besonders achten müssen
-
-- **Sozialverbaende sind oft die beste Wahl.** Niedriger Mitgliedsbeitrag, kompletter Rechtsschutz. Prüfen Sie VdK, SoVD, IG-Metall, ver.di.
-- **Beratungshilfe** können Sie schon vor dem Widerspruch beantragen (siehe `beratungshilfe-vor-widerspruch-brh`).
-- **PKH** können Sie zum Beginn der Klage beantragen. Auch rueckwirkend, wenn Sie später merken, dass Sie Hilfe brauchen.
-
-## Typische Fehler
-
-- "Ohne Anwalt geht das nicht" → falsch, am SG/LSG geht es
-- Anwalt zu spaet eingeschaltet → schon beim Widerspruch Beratungshilfe einholen
-- Anwaltskosten selbst getragen, obwohl PKH möglich war → PKH-Antrag immer prüfen
-
-## Praxis-Tipp
-
-Auch wenn vor SG und LSG kein Anwaltszwang besteht, ist die Vertretungs-Frage eine Strategie-Frage: (1) **Sozialverband (VdK, SoVD)** ist meist die guenstigste Loesung – Mitgliedsbeitrag rund 70-120 EUR/Jahr, vollstaendiger Rechtsschutz inkl. Klage, oft inklusive § 109 SGG-Gutachtenkosten. (2) **PKH nach § 73a SGG** parallel zur Klage stellen – Erfolgsaussichten sind im Sozialrecht haeufig zu bejahen, weil Amtsermittlung § 103 SGG zugunsten Kläger wirkt. (3) **Beratungshilfe nach BerHG** vor Widerspruch – nur 15 EUR Schutzgebuehr beim Anwalt. Anwaltskosten werden bei Erfolg über § 193 SGG erstattet, daher kein finanzielles Risiko. Erst beim BSG ist Anwaltszwang absolut (§ 73 Abs. 4 SGG) – BSG-Anwaltsliste auf bsg.bund.de.
-
-## Quellen und Aktualitaet
-
-Stand: 05/2026. § 73 SGG seit langem unveraendert. BSG-Liste der zugelassenen Anwaelte auf www.bsg.bund.de.
+Normenstand geprüft am 30.09.2026; Quellenregeln des Repository beachten. Keine erdachte Rechtsprechung als Beleg für die ausdrücklichen gesetzlichen Vertretungsregeln einsetzen. Ausgabe in vollständigen Sätzen, ohne Skelettformulierungen, mit dezimaler Gliederung und bei formatierten Dokumenten Times New Roman 11 pt.

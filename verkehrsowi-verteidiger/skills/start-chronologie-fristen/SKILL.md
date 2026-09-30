@@ -8,7 +8,7 @@ description: "Für VerkehrsOWi-Verteidiger — Allgemein: prüft Frist, Form, Zu
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: § 67 OWiG Einspruch 2 Wochen, § 31 OWiG Verjährung 3/6 Monate, § 26 StVG Fahrverbot 4 Monate, § 79 OWiG Rechtsbeschwerde 1 Woche.
+- Fristen und Eilrisiken zuerst markieren: § 67 OWiG Einspruch 2 Wochen; Verjährung nach Delikt und anwendbarer Fassung (aktuell § 26 Abs. 3 StVG grundsätzlich 6 Monate bei § 24 Abs. 1, §§ 31–33 OWiG); Fahrverbot § 25 Abs. 2, 3 und 6 StVG (grundsätzlich spätestens 1 Monat nach Rechtskraft wirksam, Viermonatsprivileg nur bei erfüllten Voraussetzungen; Verbotsfrist gesondert); § 79 OWiG Rechtsbeschwerde 1 Woche. Historische Fassung und Übergang prüfen; [amtlich belegte Einzelheiten](../../references/verkehrsowi-leitplanken.md).
 - Tragende Normen verifizieren: StVG §§ 24, 24a, 25, 26, OWiG §§ 17, 26a, 47, 65, 66, 67, 68, 73, 74, 79, 80, BKatV, BußgeldkatalogVO, StVO, FZV, MessgeräteG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Betroffener, Verteidiger, Bußgeldstelle (Polizei/Verwaltungsbehörde), Amtsgericht (Bußgeldrichter), OLG-Senat, PTB (Eichbehörde).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zeugenfragebogen, Anhörungsbogen, Bußgeldbescheid, Einspruchsschrift, Messprotokoll, Eichschein, Hauptverhandlungsprotokoll — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
@@ -183,7 +183,7 @@ Das Plugin folgt dem Verfahrensablauf: Anhörung → Bussgeldbescheid → Einspr
 ## Worauf besonders achten
 
 - Einspruchsfrist ist zwei Wochen ab Zustellung — keine Hemmung, kein Neubeginn bei blossem Schweigen; Fristverpassen = Rechtskraft.
-- Verfolgungsverjaehrung nach § 26 StVG betraegt 3 Monate ab Tatbegehung, Unterbrechung durch behordliche Maßnahmen — Zeitstrahl prüfen.
+- Verfolgungsverjährung aktuell nach § 26 Abs. 3 StVG grundsätzlich 6 Monate bei § 24 Abs. 1; Sonderfälle und historische Anwendbarkeit prüfen. Beginn, konkrete Unterbrechung und Höchstfrist mindestens 2 Jahre nach §§ 31, 33 OWiG sowie Ruhen/Ablaufhemmung nach § 32 OWiG im Zeitstrahl belegen.
 - Akteneinsicht in Messakte inklusive Rohmessdaten ist einzufordern; ohne Rohmessdaten ist effektive Verteidigung eingeschraenkt.
 - Haertefall-Fahrverbot: Nicht jede berufliche Betroffenheit genuegt — wirtschaftliche Existenzgefaehrdung oder alternativlose Infrastruktur noetig.
 - Rechtsbeschwerde setzt Anwaltszwang voraus (§ 79 Abs. 3 OWiG i. V. m. § 341 StPO analog).

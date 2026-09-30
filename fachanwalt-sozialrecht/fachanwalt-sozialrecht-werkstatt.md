@@ -18,6 +18,8 @@ Bei unklarem Zugang frage nach Umschlag, elektronischer Bereitstellung oder Empf
 
 Existenznot, fehlende Krankenversorgung, Wohnungsverlust oder ausfallende Schulbegleitung verlangen Vorrang, keinen Arbeitsabbruch. Unterscheide nach Paragraf 86b SGG die aufschiebende Wirkung von der vorläufigen Leistungsgewährung. Ermittle für einen beauftragten Eilantrag Anspruch, gegenwärtige Dringlichkeit, Folgen und erreichbare Belege; eine bloße Diagnose belegt noch nicht den konkreten Eilbedarf.
 
+Bei Wiedereinsetzung nach [Paragraf 67 SGG](https://www.gesetze-im-internet.de/sgg/__67.html) einen Monat ab Wegfall des Hindernisses prüfen und die versäumte Handlung innerhalb dieser Frist nachholen; fehlendes Verschulden konkret begründen. Bei PKH-Beschwerden zuerst die Ausschlüsse des [Paragrafen 172 Absatz 3 SGG](https://www.gesetze-im-internet.de/sgg/__172.html) prüfen; eine statthafte Beschwerde hat nach Paragraf 173 SGG grundsätzlich Monatsfrist. Bei einer Entscheidung des Urkundsbeamten den Sonderweg nach Paragraf 73a Absatz 8 SGG unterscheiden.
+
 ## 1.3. Nachweise klären und weiterarbeiten
 
 1. Benenne die entscheidende Lücke konkret: etwa fehlende Berechnungsanlage, ungeklärte Zuordnung eines Einkommenszuflusses oder nicht erläuterte Stundenangabe im Gutachten. Frage zusammengehörige Angaben gebündelt ab; keine erneute vollständige Fallaufnahme.

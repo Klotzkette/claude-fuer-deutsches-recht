@@ -56,6 +56,8 @@ Verlangt der Arbeitnehmer tatsächliche Beschäftigung, prüfe sie getrennt vom 
 
 Davon Paragraf 102 Absatz 5 BetrVG unterscheiden: ordentliche Kündigung, frist- und ordnungsgemäßer Betriebsratswiderspruch, Kündigungsschutzklage, Beschäftigungsverlangen und mögliche gerichtliche Entbindung prüfen. Dieser Anspruch setzt kein vorheriges Obsiegen voraus; seine Voraussetzungen und Rechtsfolgen nicht auf den allgemeinen Anspruch übertragen ([BAG, Urteil vom 27.05.2020, 5 AZR 247/19, Rn. 39 bis 44](https://www.bundesarbeitsgericht.de/entscheidung/5-azr-247-19/)). Nur bei entsprechendem Auftrag einen hinreichend bestimmten Weiterbeschäftigungsantrag mit Tätigkeit und zeitlicher Begrenzung formulieren; ein bloßer Lohnauftrag verlangt ihn nicht.
 
+Bei Teilzeit-Zuschlägen [BAG, Urteil vom 28.04.2026, 5 AZR 96/25](https://www.bundesarbeitsgericht.de/entscheidung/5-azr-96-25/), Rn. 19 und 53 bis 57, beachten: Eine für Vollzeit und Teilzeit gleiche 40-Stunden-Schwelle war im entschiedenen Tarifmodell unzulässig. Die Grenze proportional zur regelmäßigen Vollzeit herabsetzen; nicht jede Mehrstunde ab individueller Sollzeit automatisch bezuschlagen. Tarifgrundlage und Leistungszweck prüfen. Das Urteil verwies zur weiteren Aufklärung zurück.
+
 ## 1.6. Urlaub und Urlaubsabgeltung
 
 Ermittle Urlaub je Kalenderjahr, Anspruchsart, Beschäftigungsumfang, gewährte Tage und Arbeitgeberhinweise. Paragraf 7 BUrlG und Paragraf 195 sowie Paragraf 199 BGB nicht als einheitliche Ablaufregel behandeln. Bei gesetzlichem Urlaub im laufenden Arbeitsverhältnis konkrete Aufforderung und Hinweis auf drohenden Verlust prüfen; Langzeiterkrankung und vertraglicher Mehrurlaub verlangen gesonderte Beurteilung. Mit Beendigung entstehende Urlaubsabgeltung nach Paragraf 7 Absatz 4 BUrlG als Geldforderung prüfen, einschließlich Ausschlussfrist und Verjährung. Fehlende Belehrung nicht ohne Weiteres auf jede spätere Geldforderung übertragen.
@@ -73,6 +75,8 @@ Das Gebot fairen Verhandelns nach Paragraf 241 Absatz 2, Paragraf 280 Absatz 1, 
 ## 1.9. Entgeltgleichheit und Benachteiligung
 
 Bei Geschlechtsentgeltdifferenz den konkreten Vergleichsarbeitnehmer, Tätigkeit, Anforderungen, Verantwortung, Belastung und alle Vergütungsbestandteile gegenüberstellen. Paragraf 3 und Paragraf 7 EntgTranspG sowie Paragraf 22 AGG auf Indiz und mögliche Widerlegung beziehen; den Auskunftsanspruch nach Paragraf 10 EntgTranspG mit seinen eigenen Voraussetzungen prüfen. Gleiche Stellenbezeichnung beweist nicht gleiche Arbeit; eine konkrete Entgeltdifferenz nicht als bloßes Verhandlungsgeschick abtun. Bei Entschädigung Paragraf 15 Absatz 4 AGG und Paragraf 61b ArbGG gesondert berechnen.
+
+Bei späterem Verdienstausfall nach diskriminierender Nichteinstellung [BAG, Urteil vom 10.09.2026, 8 AZR 153/25, amtliche Pressemitteilung 30/26](https://www.bundesarbeitsgericht.de/presse/materieller-schadensersatz-wegen-diskriminierung-im-stellenbesetzungsverfahren-haftungsumfang/) einbeziehen: Eine neue angemessene und verfestigte Beschäftigung kann den Zurechnungszusammenhang unterbrechen. Zeitraum und tatsächlichen Berufsverlauf aufklären; weder lebenslange Gehaltsgarantie noch feste Zeitgrenze ableiten. Nur Pressetext verifiziert, keine Urteilsrandnummern behaupten. Davon die Entschädigung nach Paragraf 15 Absatz 2 AGG trennen: Drei Monatsgehälter begrenzen sie bei Nichteinstellung nur, wenn die Person auch ohne Benachteiligung nicht eingestellt worden wäre.
 
 ## 1.10. Kontrolle im Homeoffice
 

@@ -165,33 +165,15 @@ description: "Für Wärme, Quartier und Fernwärme: ordnet Norm, Beweislast und 
 - Klage VG Köln (KfW-Sitz) oder VG Frankfurt am Main
 - Widerruf rückwirkend bei Verstoß
 
-## Schritt 6 — GEG Reform 01.01.2024
+## Schritt 6 — Gebäudemodernisierung und konkreter Heizungseinbau
 
-### 65%-EE-Pflicht bei neuen Heizungen
+Rechtsstand 30.09.2026: Der amtliche Gebäudemodernisierungstext führt die früheren §§ 71–73 als weggefallen. Für das Projekt zuerst Gebäudeart, Einbauzeitpunkt, Betreiber und technische Ausführung bestimmen. Bei einem älteren Einbau die damals geltende Normfassung heranziehen; aktuelle Planung nicht mit der früheren pauschalen 65-Prozent-Regel prüfen.
 
-- Neuanlagen in Bestandsgebäuden / Neubau
-- Mindestens 65 % erneuerbare Energie
-- Übergangsregelungen bei Wärmeplanung-Pflicht (Auslauf bis 30.06.2026/2028)
+Bei nach dem 29.07.2026 in Bestandsgebäuden neu eingebauten Gas-, Öl- oder Flüssiggasheizungen § 43 GModG anwenden: zeitlich gestufte Brennstoffquoten ab 2029, alternative Erfüllungswege und Nachweise, Betreiberpflicht nach Absatz 6 sowie Havariefälle nach Absatz 7 getrennt behandeln. Bei einer Wärmepumpen-Hybridlösung insbesondere Dimensionierung und Nachweis nach Absatz 5 anhand der Anlagendaten prüfen. Eine selbständige Wärmepumpe oder ein Wärmenetz ist nicht allein deshalb dieser Brennstoffregel unterworfen.
 
-### Erfüllungs-Optionen
+Wärmeplan, Gebietsausweisung und tatsächlichen Anschlussvertrag auseinanderhalten. § 27 Absatz 1 WPG begründet durch die Gebietsausweisung allein keine Nutzungs-, Errichtungs- oder Betriebspflicht; einen kommunalen Anschlusszwang nur aus seiner eigenen tragfähigen Rechtsgrundlage prüfen.
 
-a) Wärmepumpe
-b) Anschluss Fernwärme (mind. 65 % EE)
-c) Stromdirektheizung (bei niedrigem Wärmebedarf)
-d) Biomasse-Heizung (mit Pflichten)
-e) Solarthermie-Hybrid
-f) Wasserstoff-Heizung (eingeschränkt)
-
-### Beratungsgespräch § 71 GEG
-
-- Vor Heizungs-Tausch
-- Energieberater oder ähnlich
-
-### Übergangsregelungen
-
-- Defekte Heizungen können noch repariert / ersetzt werden mit fossil-basierten Lösungen
-- Verpflichtende Beratung
-- Aussetzungs-Möglichkeit bei besonderen Härte-Fällen
+Amtliche Quellen: [§ 43 GModG](https://www.gesetze-im-internet.de/geg/__43.html), [Gesamtgesetz](https://www.gesetze-im-internet.de/geg/), [§ 27 WPG](https://www.gesetze-im-internet.de/wpg/__27.html). Vertragsprodukt: Betreiberpflichten, Nachweise, Brennstoffbeschaffung und Kostenänderungen ausdrücklich zuordnen; keine ungeprüfte Förder- oder Anschlusszusage.
 
 ## Schritt 7 — Quartiers-Konzepte integriert
 
@@ -265,7 +247,7 @@ f) Wasserstoff-Heizung (eingeschränkt)
 
 ## Zentrale Normen (Paragrafenkette)
 
-§§ 3, 14 WPG (Kommunale Waermeplanung, Fristen) — §§ 71, 72 GEG (65%-EE-Anforderung Heizung) — AVBFernwaermeV (Vertragsbeziehungen Fernwaerme) — §§ 1, 5 BEW (Bundesfoerderung Waermenetze) — § 21 EEG (Mieterstrom) — §§ 313, 315 BGB (Anpassung, billiges Ermessen)
+§ 4 WPG (Planungsfristen), §§ 26, 27 WPG (Gebietsausweisung und Rechtswirkung) — § 43 GModG (Brennstoffheizungen im Bestand nach Einbauzeitpunkt) — AVBFernwärmeV (Wärmeliefervertrag) — konkrete BEW-Förderrichtlinie und Bewilligung (keine Gesetzesparagrafen „BEW“) — §§ 313, 315 BGB (Vertragsanpassung und Leistungsbestimmung).
 
 ## Verzahnung
 

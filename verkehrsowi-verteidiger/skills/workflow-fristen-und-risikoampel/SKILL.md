@@ -37,8 +37,8 @@ Dieser Arbeitsgang macht **Fristen- und Risikoampel** im Bereich **verkehrsowi-v
 - **Anhörungsbogen / Zeugenfragebogen** keine Einspruchsfrist, aber Schweigerecht des Betroffenen § 55 OWiG / § 136 I 2 StPO via § 46 OWiG; Halterauskunftspflicht § 31a StVZO trotzdem möglich.
 - **§ 67 OWiG: 2 Wochen Einspruch** gegen Bussgeldbescheid ab Zustellung; § 50 OWiG.
 - **Rechtsbeschwerde §§ 79, 80 OWiG: 1 Woche Einlegung, 1 Monat Begruendung** ab Zustellung des Urteils.
-- **Verjährung Verkehrs-OWi § 26 III StVG: 3 Monate** ab Tat bis Erlass Bussgeldbescheid; danach 6 Monate bis Verkuendung Urteil 1. Instanz; Unterbrechung § 33 OWiG (Anhörung, Bussgeldbescheid).
-- **Fahrverbot § 25 StVG:** 4-Monats-Frist § 25 IIa StVG (Antritt nach Wahl binnen 4 Monaten ab Rechtskraft) bei Ersttaeter; sonst sofortige Wirkung mit Rechtskraft.
+- **Verjährung:** Aktuell § 26 Abs. 3 StVG grundsätzlich 6 Monate für § 24 Abs. 1, Sonderfälle gesondert. §§ 31–33 OWiG bestimmen Beginn, Unterbrechung, Höchstfrist (mindestens 2 Jahre) und Ruhen/Ablaufhemmung. Historische Fassung und Übergang vor Berechnung prüfen; [Einzelheiten](../../references/verkehrsowi-leitplanken.md).
+- **Fahrverbot § 25 StVG:** Aktuell Abs. 2 grundsätzlich Wirksamkeit spätestens 1 Monat nach Rechtskraft; Viermonatsprivileg nur unter Abs. 3 und mit gesetzlich vorgesehener Bestimmung. Verwahrung/Vermerk und Beginn der Verbotsfrist nach Abs. 6 getrennt dokumentieren; historische Anwendungsprüfung nicht überspringen.
 - **MPU-Frist FeV § 11 III FeV**: behoerdliche Anordnung gesondert; nicht in OWi-Bescheid integriert.
 - **Punkte FAER § 4 StVG:** 8 Punkte fuehren zwingend zur Entziehung (§ 4 V StVG). Punktewarnung bei 4-5 Punkten, Ermahnung bei 6-7 Punkten.
 - **Risikoampel:** Rot bei Fahrverbot, drohender 8-Punkte-Grenze, MPU-Anordnung, gewerblicher Fahrer; Gelb bei Beweisproblem (Messverfahren); Gruen bei dokumentierter Strategie.

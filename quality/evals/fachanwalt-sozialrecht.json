@@ -61,13 +61,14 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Mini vollständig geprüft und qualitativen Erwerbseinschränkungen ein wirklich anwendbarer BSG-Maßstab zugeordnet; die alte unspezifische Randnummernangabe ersetzt. Redaktioneller Desk-Review, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Älterer Befund belegt einen früheren Leistungsfall -> Beitragsfenster und Rentenbegründung neu prüfen; Teilzahlung -> aktuellen Eilbedarf reduzieren.",
+    "reason": "Gesetzlich bestimmte Monatsfristen für Wiedereinsetzung und statthafte PKH-Beschwerde präzisiert; PKH-Kostendeckung und Vertretungswege fachlich korrigiert.",
     "changes": [
       "B 13 R 7/18 R, Randnummern 30 bis 40 und 49 bis 50: konkrete Funktionen und Wechselwirkungen statt Diagnosezahl.",
       "Rechtsfolge der Tätigkeitsbenennung und Grenze der Zurückverweisung erläutert; andere Sozialleistungswege beibehalten.",
-      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
+      "30.09.2026: Gesetzlich bestimmte Monatsfristen für Wiedereinsetzung und statthafte PKH-Beschwerde präzisiert; PKH-Kostendeckung und Vertretungswege fachlich korrigiert."
     ],
-    "sha256": "ac3fdfeacc663c14ae8ddc43dff362460c76be0177f023a3a012770907468ecf",
+    "sha256": "56820c39ac10d69af6991a2c036337f7aa704b36bc24e70d587c6bbb1d362552",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -140,14 +141,15 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt vollständig bearbeitet: Erwerbsminderung und existenzieller Eilrechtsschutz erhalten eigene operative Primärquellen; zeitbezogene SGB-II-Reform am aktuellen Normtext abgeglichen. Redaktioneller Desk-Review, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Bescheidketten und Leistungsperioden, Aufhebung gegenüber Erstattung, medizinische Leistungszeit und Beitragsfenster, konkrete Tätigkeitsanforderung, aktuelle Notlage und getrennte Auslands-Widerspruchsfrist.",
+    "reason": "Gesetzlich bestimmte Monatsfristen für Wiedereinsetzung und statthafte PKH-Beschwerde präzisiert; PKH-Kostendeckung und Vertretungswege fachlich korrigiert.",
     "changes": [
       "BSG-Anker in die sechsstündige Leistungsprüfung eingebaut; keine Rentengarantie.",
       "BVerfG 1 BvR 569/05 konkret mit aktuellen Mitteln, Folgenabwägung und Grenzen verbunden.",
       "Paragrafen 32 und 65a SGB II amtlich geprüft; Wohngeld-Ausschlussnorm von Berechnungsgrundlagen getrennt und ungeprüfte Fallliste entfernt.",
-      "Bescheidketten und Leistungsperioden, Aufhebung gegenüber Erstattung, medizinische Leistungszeit und Beitragsfenster, konkrete Tätigkeitsanforderung, aktuelle Notlage und getrennte Auslands-Widerspruchsfrist."
+      "Bescheidketten und Leistungsperioden, Aufhebung gegenüber Erstattung, medizinische Leistungszeit und Beitragsfenster, konkrete Tätigkeitsanforderung, aktuelle Notlage und getrennte Auslands-Widerspruchsfrist.",
+      "30.09.2026: Gesetzlich bestimmte Monatsfristen für Wiedereinsetzung und statthafte PKH-Beschwerde präzisiert; PKH-Kostendeckung und Vertretungswege fachlich korrigiert."
     ],
-    "sha256": "961e2901e947b15659a73c3c0e1261f48f0631fb6ec427c5a76ffe564a50ff3b",
+    "sha256": "bb934cdb8c0f11ec98297c3bf9f1391b4772301270941ec905c078eb8f9ee536",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -197,5 +199,13 @@
     "continuation": "Älterer Befund belegt einen früheren Leistungsfall -> Beitragsfenster und Rentenbegründung neu prüfen; Teilzahlung -> aktuellen Eilbedarf reduzieren.",
     "enrichment": "Bescheidketten und Leistungsperioden, Aufhebung gegenüber Erstattung, medizinische Leistungszeit und Beitragsfenster, konkrete Tätigkeitsanforderung, aktuelle Notlage und getrennte Auslands-Widerspruchsfrist.",
     "limits": "desk review; no live client execution"
+  },
+  "source_audit_2026_09_30": {
+    "date": "2026-09-30",
+    "method": "targeted_primary_source_review",
+    "scope": "Gesetzlich bestimmte Monatsfristen für Wiedereinsetzung und statthafte PKH-Beschwerde präzisiert; PKH-Kostendeckung und Vertretungswege fachlich korrigiert.",
+    "decisions": [],
+    "report": "quality/source-audits/2026-09-30/arbeit-sozial.md",
+    "limits": "Gezielte Quellen- und Fachkorrekturen; keine Vollprüfung sämtlicher Skills oder Rechtsprechung dieses Gebiets und kein neuer Modelltest."
   }
 }

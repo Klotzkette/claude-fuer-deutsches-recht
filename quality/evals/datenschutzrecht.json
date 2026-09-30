@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "datenschutzrecht",
-  "reviewed_on": "2026-09-23",
+  "reviewed_on": "2026-09-30",
   "sources": [
     {
       "url": "https://eur-lex.europa.eu/eli/reg/2016/679/oj?locale=de",
@@ -47,6 +47,16 @@
       "url": "https://www.bfdi.bund.de/SharedDocs/Downloads/DE/Broschueren/INFO6.pdf?__blob=publicationFile&v=9",
       "checked_on": "2026-09-23",
       "supports": "Amtlich veröffentlichte Aufsichtserläuterung, Abschnitte 4.1.2 bis 4.1.4, zur Dritterhebung, Zweckänderung und Ausnahmen; zugänglicher Quellenabschnitt geprüft."
+    },
+    {
+      "url": "https://curia.europa.eu/site/upload/docs/application/pdf/2026-03/cp260038de.pdf",
+      "checked_on": "2026-09-30",
+      "supports": "EuGH, Urteil vom 19.03.2026, C-526/24: Erstantrag, nachgewiesene Missbrauchsabsicht und eigenständige Schaden-/Kausalitätsprüfung. Gerichtliche Pressemitteilung gelesen; Volltextabruf blockiert, keine Randnummernverifikation behauptet."
+    },
+    {
+      "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202610168/",
+      "checked_on": "2026-09-30",
+      "supports": "BFH, Urteil vom 30.06.2026, IX R 2/25, Gründe II.1 und II.3: vorherige Anspruchsanmeldung; keine eidesstattliche Auskunftsversicherung der Finanzbehörde; BGB-Analogie gegenüber privaten Verantwortlichen offenlassen."
     }
   ],
   "mini_review": {
@@ -56,9 +66,10 @@
       "Artikel 15 Absatz 3 und 4 DSGVO auf verständliche vollständige Datenkopie mit erforderlichem Kontext angewandt.",
       "Artikel 82 von Sanktion getrennt; Schaden und Kausalität bleiben nachzuweisen.",
       "Dokumentenbasierte Nachfragen, gestufte Meldung und ausformulierte Empfängerdokumente erhalten.",
-      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
+      "Am 30.09.2026 fallbezogene Rechtsprechungsanker 2026 ergänzt; begrenzte Aktualisierung, kein vollständiger Neuabgleich aller Teilmaterien."
     ],
-    "sha256": "217f4734faef639699ad940425eecea563a2769f80e2a2086d8b6cec0f664809"
+    "sha256": "6ca7259e72c869f08abb827ab2b6e9cfb8151c07bc2138d3e6c9789d4a695a4c"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -68,9 +79,10 @@
       "Artikel 82 von Sanktion getrennt; Schaden und Kausalität bleiben nachzuweisen.",
       "Dokumentenbasierte Nachfragen, gestufte Meldung und ausformulierte Empfängerdokumente erhalten.",
       "Informationspflichten bei Direkt- und Dritterhebung ohne Antrag einschließlich Zeitpunkt, Zweckänderung und Ausnahmen wieder aufgenommen.",
-      "Systembezogene Auskunftssuche, Drittbelange und verständliche Kopie; Vorfallkenntnis und Nachmeldung trotz Loglücken; Cloud-Eigennutzung, Unterauftragnehmer, Backups und Transferklauseln mit begrenzter Startfreigabe."
+      "Systembezogene Auskunftssuche, Drittbelange und verständliche Kopie; Vorfallkenntnis und Nachmeldung trotz Loglücken; Cloud-Eigennutzung, Unterauftragnehmer, Backups und Transferklauseln mit begrenzter Startfreigabe.",
+      "Am 30.09.2026 fallbezogene Rechtsprechungsanker 2026 ergänzt; begrenzte Aktualisierung, kein vollständiger Neuabgleich aller Teilmaterien."
     ],
-    "sha256": "f5e58a7907656b6e6cb9e18033dd864978f25892164c97ad5e317fde5ea7e7ed"
+    "sha256": "aad52c42695038d4dda2a41841be650e9743a6b0e88844d619557379a32b6851"
   },
   "selection": {
     "positive": [

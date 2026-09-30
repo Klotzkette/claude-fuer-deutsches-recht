@@ -73,7 +73,7 @@ Das BAG hat für viele arbeitsrechtliche Konstellationen eine „abgestufte Darl
 
 | Streitpunkt | Beweislast |
 |---|---|
-| Indizien für Benachteiligung (Paragraf 22 AGG) | Arbeitnehmer (Glaubhaftmachung) |
+| Indizien für Benachteiligung ([Paragraf 22 AGG](https://www.gesetze-im-internet.de/agg/__22.html)) | Arbeitnehmer beweist die Indiztatsachen; bei daraus folgender Vermutung trägt die andere Partei die Beweislast für das Nichtvorliegen eines Verstoßes. Bloße Glaubhaftmachung genügt im Hauptsacheverfahren nicht. |
 | Rechtfertigung der Benachteiligung | Arbeitgeber (nach Indizienvortrag) |
 | Einhaltung der Ausschlussfrist Paragraf 15 Abs. 4 AGG | Arbeitnehmer |
 

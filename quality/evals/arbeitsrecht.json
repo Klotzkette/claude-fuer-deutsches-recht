@@ -55,26 +55,28 @@
     }
   ],
   "mini_review": {
-    "sha256": "3a9ccf1a1a348d9aa74bedbb111b870ff1be7081065c943378a632d4b6f326d9",
+    "sha256": "d1dce793ada55f4ad9bb2340f44b2665704f3e60b3e15c9ac0c0e6ced3c8f41f",
     "verdict": "revised",
-    "reason": "Schnellstart vollständig individuell gelesen und überarbeitet: Kündigungszugang und offene Monatsvergütung anhand der vorliegenden Nachweise prüfen. Einlieferungsbeleg und Sendungsstatus ohne Auslieferungsbeleg rechtlich eingeordnet; ungesicherte Überwachungsfundstellen in konkrete Recherchefragen überführt. Redaktionelle Quellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert.",
+    "reason": "BAG 5 AZR 96/25: konkrete proportionale Zuschlagsschwelle; BAG 8 AZR 153/25: Grenzen späteren Verdienstausfalls nach amtlicher PM; AGG-Beweismaß und Entschädigungsgrenze sowie angrenzende Normfehler korrigiert.",
     "changes": [
       "Einlieferungsbeleg und Sendungsstatus ohne Auslieferungsbeleg rechtlich eingeordnet; ungesicherte Überwachungsfundstellen in konkrete Recherchefragen überführt.",
       "Kernfall mit operativem Entscheidungsanker, gezielten Nachfragen und Fortsetzung zum vollständigen angeforderten Dokument.",
       "Leerstart: Kündigung, Entgelt oder Vertragsgestaltung anbieten. Dateien: Personal- und Verfahrensunterlagen still lesen, kein Personalaktenbericht ohne Auftrag. Klarer Auftrag: Gewünschten Brief, Vertrag oder Schriftsatz unmittelbar erstellen.",
-      "Zweite Kündigung erzeugt eigene Antrags- und Fristprüfung; Freizeitausgleich korrigiert Monatsrechnung und Zahlungsbrief."
+      "Zweite Kündigung erzeugt eigene Antrags- und Fristprüfung; Freizeitausgleich korrigiert Monatsrechnung und Zahlungsbrief.",
+      "30.09.2026: BAG 5 AZR 96/25: konkrete proportionale Zuschlagsschwelle; BAG 8 AZR 153/25: Grenzen späteren Verdienstausfalls nach amtlicher PM; AGG-Beweismaß und Entschädigungsgrenze sowie angrenzende Normfehler korrigiert."
     ]
   },
   "workshop_review": {
-    "sha256": "26b4379e3781c8135313eafffad1b9c823ab58d4211ac485958182ebfd47be78",
+    "sha256": "2f453dd41d11c38f05c60248c45ea8b9b625521456f69b406760ff04f27917ed",
     "verdict": "revised",
-    "reason": "Werkstatt vollständig individuell gelesen und überarbeitet: Kündigungszugang und offene Monatsvergütung anhand der vorliegenden Nachweise prüfen. Einlieferungsbeleg und Sendungsstatus ohne Auslieferungsbeleg rechtlich eingeordnet; ungesicherte Überwachungsfundstellen in konkrete Recherchefragen überführt. Redaktionelle Quellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen.",
+    "reason": "BAG 5 AZR 96/25: konkrete proportionale Zuschlagsschwelle; BAG 8 AZR 153/25: Grenzen späteren Verdienstausfalls nach amtlicher PM; AGG-Beweismaß und Entschädigungsgrenze sowie angrenzende Normfehler korrigiert.",
     "changes": [
       "Einlieferungsbeleg und Sendungsstatus ohne Auslieferungsbeleg rechtlich eingeordnet; ungesicherte Überwachungsfundstellen in konkrete Recherchefragen überführt.",
       "Vorhandene Fachzweige, Beispiele und Zugriffsalternativen erhalten; schwache Rechtsprechungshinweise entfernt oder auf belegte Reichweite begrenzt.",
       "Arbeitnehmerklage, Arbeitgeberanhörung, nachweisbezogene Überstundenforderung und Wechsel zur Vergleichslösung mit ungünstigen Tatsachen.",
       "Zweite Kündigung erzeugt eigene Antrags- und Fristprüfung; Freizeitausgleich korrigiert Monatsrechnung und Zahlungsbrief.",
-      "Bei abschließender Gegenprüfung Paragraf 4 ArbGG als allgemeinen Verfahrensanker durch Zuständigkeits- und Urteilsverfahrensabgleich nach Paragrafen 2 und 46 ersetzt; Ausschluss und KSchG-Frist ausdrücklich getrennt."
+      "Bei abschließender Gegenprüfung Paragraf 4 ArbGG als allgemeinen Verfahrensanker durch Zuständigkeits- und Urteilsverfahrensabgleich nach Paragrafen 2 und 46 ersetzt; Ausschluss und KSchG-Frist ausdrücklich getrennt.",
+      "30.09.2026: BAG 5 AZR 96/25: konkrete proportionale Zuschlagsschwelle; BAG 8 AZR 153/25: Grenzen späteren Verdienstausfalls nach amtlicher PM; AGG-Beweismaß und Entschädigungsgrenze sowie angrenzende Normfehler korrigiert."
     ]
   },
   "selection": {
@@ -159,5 +161,26 @@
       "Volltext Rn. 10 bis 20; andere Beweismittel bleiben möglich, kein genereller Unwirksamkeitssatz für Einwurf-Einschreiben.",
       "Workflow-Anschlussprüfung 23.09.2026: individuelle Text- und Quellenprüfung, keine Live-Client-Ausführung. Frühere Entscheidungsprüfungen und ihre Reichweitengrenzen bleiben unverändert; keine erneute vollständige Rechtsprechungsprüfung behauptet."
     ]
+  },
+  "source_audit_2026_09_30": {
+    "date": "2026-09-30",
+    "method": "targeted_primary_source_review",
+    "scope": "BAG 5 AZR 96/25: konkrete proportionale Zuschlagsschwelle; BAG 8 AZR 153/25: Grenzen späteren Verdienstausfalls nach amtlicher PM; AGG-Beweismaß und Entschädigungsgrenze sowie angrenzende Normfehler korrigiert.",
+    "decisions": [
+      {
+        "citation": "BAG, Urteil vom 28.04.2026, 5 AZR 96/25, Rn. 19, 24–28 und 53–57",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/5-azr-96-25/",
+        "application": "Proportionale Zuschlagsgrenze im konkreten Teilzeit-Tarifmodell prüfen.",
+        "limit": "Tarifliche Ausgangsregel und sachliche Rechtfertigung prüfen; kein allgemeiner Zuschlag für jede Mehrstunde."
+      },
+      {
+        "citation": "BAG, Urteil vom 10.09.2026, 8 AZR 153/25; amtliche Pressemitteilung 30/26",
+        "url": "https://www.bundesarbeitsgericht.de/presse/materieller-schadensersatz-wegen-diskriminierung-im-stellenbesetzungsverfahren-haftungsumfang/",
+        "application": "Zurechnungszusammenhang späteren Verdienstausfalls bei neuer angemessener und verfestigter Beschäftigung prüfen.",
+        "limit": "Nur amtlicher Pressetext gelesen; keine Urteilsrandnummern, keine starre zeitliche Grenze."
+      }
+    ],
+    "report": "quality/source-audits/2026-09-30/arbeit-sozial.md",
+    "limits": "Gezielte Quellen- und Fachkorrekturen; keine Vollprüfung sämtlicher Skills oder Rechtsprechung dieses Gebiets und kein neuer Modelltest."
   }
 }

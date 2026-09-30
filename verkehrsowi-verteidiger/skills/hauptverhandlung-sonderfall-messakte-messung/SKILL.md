@@ -8,7 +8,7 @@ description: "Für Hauptverhandlung: Sonderfall und Edge-Case-Prüfung: ordnet A
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: § 67 OWiG Einspruch 2 Wochen, § 31 OWiG Verjährung 3/6 Monate, § 26 StVG Fahrverbot 4 Monate, § 79 OWiG Rechtsbeschwerde 1 Woche.
+- Fristen und Eilrisiken zuerst markieren: § 67 OWiG Einspruch 2 Wochen; Verjährung nach Delikt und anwendbarer Fassung (aktuell § 26 Abs. 3 StVG grundsätzlich 6 Monate bei § 24 Abs. 1, §§ 31–33 OWiG); Fahrverbot § 25 Abs. 2, 3 und 6 StVG (grundsätzlich spätestens 1 Monat nach Rechtskraft wirksam, Viermonatsprivileg nur bei erfüllten Voraussetzungen; Verbotsfrist gesondert); § 79 OWiG Rechtsbeschwerde 1 Woche. Historische Fassung und Übergang prüfen; [amtlich belegte Einzelheiten](../../references/verkehrsowi-leitplanken.md).
 - Tragende Normen verifizieren: StVG §§ 24, 24a, 25, 26, OWiG §§ 17, 26a, 47, 65, 66, 67, 68, 73, 74, 79, 80, BKatV, BußgeldkatalogVO, StVO, FZV, MessgeräteG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Betroffener, Verteidiger, Bußgeldstelle (Polizei/Verwaltungsbehörde), Amtsgericht (Bußgeldrichter), OLG-Senat, PTB (Eichbehörde).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zeugenfragebogen, Anhörungsbogen, Bußgeldbescheid, Einspruchsschrift, Messprotokoll, Eichschein, Hauptverhandlungsprotokoll — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
@@ -40,7 +40,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Sonderfall 2: Berufskraftfahrer mit drohendem Fahrverbot:**
  - **Argument Existenzbedrohung:** monatliche Einkommensausfaelle, Familie, Arbeitsplatzverlust.
  - **OLG-Linie zur Abwehr Fahrverbot:** restriktiv; "unzumutbare Haerte" eng auszulegen; ggf. Kompensation Erhoehung Geldbusse (BGH-Linie 50-100 %).
- - **Strategie:** zeitliche Verschiebung Fahrverbot § 25 IIa StVG 4-Monatsfrist nutzen; ggf. Antrag auf Befreiung wegen besonderer Haerte.
+ - **Strategie:** Viermonatsprivileg nach aktuell § 25 Abs. 3 StVG nur bei erfüllten Voraussetzungen nutzen; Wirksamkeit nach Abs. 2 und Verbotsfrist nach Abs. 6 sowie historische Fassung getrennt prüfen; ggf. Antrag auf Befreiung wegen besonderer Haerte.
 - **Sonderfall 3: Beamte / Aerzte / Anwaelte als Betroffene:**
  - Berufsrechtliche Konsequenzen: Disziplinarrecht / Berufsaufsicht melden.
  - **Eintragung FAER** kann automatisch BZRG-/Berufsmeldung ausloesen.

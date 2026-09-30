@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "verkehrsowi-verteidiger",
-  "reviewed_on": "2026-09-23",
+  "reviewed_on": "2026-09-30",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/owig_1968/__67.html",
@@ -67,20 +67,41 @@
       "url": "https://www.gesetze-im-internet.de/stvg/__24a.html",
       "checked_on": "2026-09-22",
       "supports": "Aktueller amtlicher Normtext gelesen: Einheiten und gesetzliche Alkohol-/THC-Tatbestände auseinanderhalten."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Strafsenate/4_StS/2025/4_StR_235-25.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-30",
+      "supports": "BGH, Beschluss vom 02.07.2026 – 4 StR 235/25, amtliches PDF vollständig gelesen: Tenor, Rn. 22–35; kein Fairnessverstoß und kein Verwertungsverbot allein aus Nichtspeicherung bei standardisierter Geschwindigkeitsmessung. Zugang zu vorhandenen Daten bleibt gesondert; gezielte Unterdrückung ausdrücklich offengelassen (Rn. 32). PDF-SHA256: 3493086f5e98f701af993572869dcbaf69c38e94dca7af00d4c493f740f5a2a9."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stvg/__26.html",
+      "checked_on": "2026-09-30",
+      "supports": "Aktueller § 26 Abs. 3 nennt sechs Monate für § 24 Abs. 1; historische Drei-/Sechsmonatsstaffel nicht ohne Anwendungs-/Übergangsprüfung verwenden."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stvg/__25.html",
+      "checked_on": "2026-09-30",
+      "supports": "Aktuell Beginn spätestens einen Monat nach Rechtskraft in Abs. 2, Viermonatsprivileg in Abs. 3; Verwahrung/Fristbeginn und Dauer unterscheiden."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/owig_1968/__77.html",
+      "checked_on": "2026-09-30",
+      "supports": "Beweisantragsablehnung Abs. 2 ergänzt § 244 Abs. 3 StPO um fehlende Erforderlichkeit und verspätetes Vorbringen unter gesetzlichen Voraussetzungen; nicht auf Missbrauch/Unerheblichkeit reduzieren."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Ganztext nach Erweiterung gelesen: drei Eingangsmodi führen zum Einspruch, Messdatenantrag oder Rechtsfolgentext; Behördenantworten ändern das Informationsbegehren und widerlegte Hypothesen werden entfernt. Vorhandene Entscheidungsgrenzen erhalten; Desk-Review, kein Live-Modelltest.",
+    "reason": "Ganztext nach Erweiterung gelesen: drei Eingangsmodi führen zum Einspruch, Messdatenantrag oder Rechtsfolgentext; Behördenantworten ändern das Informationsbegehren und widerlegte Hypothesen werden entfernt. Vorhandene Entscheidungsgrenzen erhalten; Desk-Review, kein Live-Modelltest. Nachtrag 30.09.2026: BGH 4 StR 235/25 in den Datenworkflow eingeordnet; beide Prompts erneut gelesen, kein Live-Modelltest.",
     "changes": [
       "Informationszugang ohne vorherigen Fehlernachweis, aber mit Bezug zur konkreten Messung begründet.",
       "Antrag, Ablehnung und Paragraf 62 OWiG in die Bearbeitung eingebunden.",
       "Nichtannahmebeschluss von 2023 mit Darlegungsgrenze eingeordnet; keine automatische Unverwertbarkeit oder Freispruchszusage.",
       "Vorhandenes Wartungsprotokoll, nachgewiesene Nichtspeicherung und bloß fehlender Behördenbesitz in konkrete Fortsetzungswege übersetzt.",
-      "Bestätigte Vertretungsmöglichkeit verändert die Fahrverbotshärtebegründung."
+      "Bestätigte Vertretungsmöglichkeit verändert die Fahrverbotshärtebegründung.",
+      "Konkreter BGH-Anker vom 02.07.2026 zu technischer Nichtspeicherung ergänzt; Informationszugang und offene Datenunterdrückung getrennt."
     ],
-    "sha256": "e0bcf68a47303946a051905d3ff653c02687a67e7a54468fccb72f3e929d6b97",
-    "reviewed_on": "2026-09-23",
+    "sha256": "ec6d81bad5de842f101ae0c804925941c12dcf355c51d3731724aa64323ba516",
+    "reviewed_on": "2026-09-30",
     "method": "desk_review"
   },
   "selection": {
@@ -150,7 +171,7 @@
         },
         {
           "id": "C03",
-          "text": "Leitet weder aus der Verweigerung noch aus der Nichtspeicherung automatisch ein Verwertungsverbot oder einen Freispruch ab und stellt die Nichtannahmeentscheidung von 2023 nicht als umfassendes Sachurteil dar.",
+          "text": "Leitet weder aus der Verweigerung noch aus der Nichtspeicherung automatisch ein Verwertungsverbot oder einen Freispruch ab und stellt die Nichtannahmeentscheidung von 2023 nicht als umfassendes Sachurteil dar. Ordnet die nachgewiesene technische Nichtspeicherung bei standardisierter Geschwindigkeitsmessung BGH, Beschluss vom 02.07.2026 – 4 StR 235/25 zu, ohne diesen auf eine gezielte Löschung zu übertragen.",
           "deliverables": [
             "ergebnis.md"
           ]
@@ -168,16 +189,17 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt vollständig nachgelesen: Anhörung, Bescheid, Informationszugang und gerichtliche Weiterverfolgung führen zu passenden Texten; entlastende Technikbelege und belastende Härtefalltatsachen ändern die Empfehlung. Entscheidungsarten bleiben getrennt. Desk-Review, kein Live-Modelltest.",
+    "reason": "Werkstatt vollständig nachgelesen: Anhörung, Bescheid, Informationszugang und gerichtliche Weiterverfolgung führen zu passenden Texten; entlastende Technikbelege und belastende Härtefalltatsachen ändern die Empfehlung. Entscheidungsarten bleiben getrennt. Desk-Review, kein Live-Modelltest. Nachtrag 30.09.2026: BGH 4 StR 235/25 in den Datenworkflow eingeordnet; beide Prompts erneut gelesen, kein Live-Modelltest.",
     "changes": [
       "Informationszugang ohne vorherigen Fehlernachweis, aber mit Bezug zur konkreten Messung begründet.",
       "Antrag, Ablehnung und Paragraf 62 OWiG in die Bearbeitung eingebunden.",
       "Nichtannahmebeschluss von 2023 mit Darlegungsgrenze eingeordnet; keine automatische Unverwertbarkeit oder Freispruchszusage.",
       "Behördenantwort, Wartungsprotokoll und Gerätezustand mit Nachforderung, Beweisfrage und aktualisiertem Verteidigungsvermerk verbunden.",
-      "Fristauslöser, Verfahrensort, belegte Ersatzbeförderung und gesonderte Entscheidung über Beschränkung konkretisiert."
+      "Fristauslöser, Verfahrensort, belegte Ersatzbeförderung und gesonderte Entscheidung über Beschränkung konkretisiert.",
+      "Konkreter BGH-Anker vom 02.07.2026 zu technischer Nichtspeicherung ergänzt; Informationszugang und offene Datenunterdrückung getrennt."
     ],
-    "sha256": "e8ede3ddffb3c4825b11f2ba0091c305410cabaab758923b11a5789eb625cc00",
-    "reviewed_on": "2026-09-23",
+    "sha256": "d39bb3627cda331da9e01411fb3c48731b6b704388443c8d4ed3dbde95012024",
+    "reviewed_on": "2026-09-30",
     "method": "desk_review"
   },
   "prompt_workflow_review": {
@@ -193,7 +215,7 @@
     "limits": "desk review; no live client execution"
   },
   "prompt_editorial_review": {
-    "date": "2026-09-22",
+    "date": "2026-09-30",
     "files": [
       "verkehrsowi-verteidiger/verkehrsowi-verteidiger-schnellstart.md",
       "verkehrsowi-verteidiger/verkehrsowi-verteidiger-werkstatt.md"
@@ -216,6 +238,12 @@
         "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2023/06/rk20230620_2bvr116720.html",
         "application": "Vorhandene und technisch nicht gespeicherte Daten unterscheiden; ein Anspruch auf Erzeugung und Speicherung folgt nicht ohne weitere Darlegung aus dem Zugang zu vorhandenen Informationen.",
         "limit": "Nichtannahme wegen unzureichender Darlegung, keine allgemeine Sachentscheidung zum Ausschluss jeder Speicherungspflicht und kein automatisches Verwertungsverbot."
+      },
+      {
+        "citation": "BGH, Beschluss vom 02.07.2026 – 4 StR 235/25, Tenor und Rn. 22–35",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Strafsenate/4_StS/2025/4_StR_235-25.pdf?__blob=publicationFile&v=1",
+        "application": "Nichtspeicherung von Rohmessdaten einer standardisierten Geschwindigkeitsmessung begründet für sich weder Fairnessverstoß noch Beweisverwertungsverbot. Vorhandene Unterlagen und konkrete Messfehler weiter prüfen.",
+        "limit": "Zugang zu vorhandenen Informationen bleibt gesondert; gezielte Datenunterdrückung hat der Senat in Rn. 32 offengelassen. Kein Freibrief für fehlerhafte Gerätebedienung."
       }
     ],
     "remaining_limits": [

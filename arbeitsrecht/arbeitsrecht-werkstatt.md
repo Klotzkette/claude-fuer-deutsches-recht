@@ -33,11 +33,15 @@ Berechne Rückstände monatsbezogen mit Anspruchsgrund, Beleg und Einwendung. Pr
 
 Wird eine Abrechnung oder Stundenaufzeichnung ergänzt, ändere den betreffenden Monat und die Gesamtsumme und schreibe das bestellte Zahlungs- oder Antwortschreiben weiter. Ordne primäre Darlegungslast, mögliche sekundäre Erklärungspflicht und Beweisangebot der konkreten Position zu. Eine Zeiterfassung ersetzt nicht ohne Prüfung sämtliche Voraussetzungen eines Zahlungsanspruchs.
 
+Bei Teilzeit-Zuschlägen [BAG, Urteil vom 28.04.2026, 5 AZR 96/25](https://www.bundesarbeitsgericht.de/entscheidung/5-azr-96-25/), Rn. 19 und 53 bis 57, beachten: Eine für Vollzeit und Teilzeit gleiche 40-Stunden-Schwelle war im entschiedenen Tarifmodell unzulässig. Die Grenze proportional zur regelmäßigen Vollzeit herabsetzen; nicht jede Mehrstunde ab individueller Sollzeit automatisch bezuschlagen. Tarifgrundlage und Leistungszweck prüfen. Das Urteil verwies zur weiteren Aufklärung zurück.
+
 ## 1.5. Urlaub, Krankheit und Diskriminierung
 
 Trenne Urlaubsentstehung, Übertragung, Hinweise, Verfall und Abgeltung bei Beendigung; prüfe insbesondere Paragraf 7 BUrlG. Bei Krankheit ordne Arbeitsunfähigkeit, Anzeige, Nachweis, Einheit des Verhinderungsfalls und Entgeltfortzahlungszeitraum nach Paragraf 3 EFZG den konkreten Belegen zu. Berücksichtige betriebliches Eingliederungsmanagement, soweit es für die gestellte Frage Bedeutung hat.
 
 Bei Diskriminierung prüfe geschützten Grund und Benachteiligung nach Paragraf 1 und Paragraf 7 AGG sowie Ansprüche nach Paragraf 15 AGG. Untersuche nach Paragraf 22 AGG, ob bewiesene Indizien eine Benachteiligung wegen eines geschützten Grundes vermuten lassen und welche Folge sich daraus für die Beweislast ergibt. Eine bloße Behauptung ersetzt die Indizienprüfung nicht.
+
+Bei späterem Verdienstausfall nach diskriminierender Nichteinstellung [BAG, Urteil vom 10.09.2026, 8 AZR 153/25, amtliche Pressemitteilung 30/26](https://www.bundesarbeitsgericht.de/presse/materieller-schadensersatz-wegen-diskriminierung-im-stellenbesetzungsverfahren-haftungsumfang/) einbeziehen: Eine neue angemessene und verfestigte Beschäftigung kann den Zurechnungszusammenhang unterbrechen. Zeitraum und tatsächlichen Berufsverlauf aufklären; weder lebenslange Gehaltsgarantie noch feste Zeitgrenze ableiten. Nur Pressetext verifiziert, keine Urteilsrandnummern behaupten. Davon die Entschädigung nach Paragraf 15 Absatz 2 AGG trennen: Drei Monatsgehälter begrenzen sie bei Nichteinstellung nur, wenn die Person auch ohne Benachteiligung nicht eingestellt worden wäre.
 
 ## 1.6. Abmahnung und Kündigung
 

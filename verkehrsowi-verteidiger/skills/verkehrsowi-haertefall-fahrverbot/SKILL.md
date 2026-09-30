@@ -7,12 +7,12 @@ description: "Für Härtefall-Argumentation beim Fahrverbot — Paragraf 25 StVG
 
 ## Arbeitsbereich
 
-Haertefall-Argumentation gegen Fahrverbot nach § 25 StVG: Mandant ist beruflich auf Führerschein angewiesen. Normen: § 25 StVG (Fahrverbot), § 25 Abs. 2a StVG (Wirkungszeitpunkt verschiebbar), § 17 Abs. 3 OWiG (Geldbusse erhoehen als Alternative). Prüfraster: Berufsbedingte Angewiesenheit, Existenzgefaehrdung, OLG-Rspr Haertefall-Prüfung, Absehen vs. Verzoegerung Fahrverbot. Output Haertefall-Begründung, Antrag Absehen vom Fahrverbot oder Erhoehung Geldbusse. Abgrenzung: Punkte Flensburg siehe verkehrsowi-punkte-fahrverbot-flensburg; HV-Vorbereitung siehe verkehrsowi-hauptverhandlung-amtsgericht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Haertefall-Argumentation gegen Fahrverbot nach § 25 StVG: Mandant ist beruflich auf Führerschein angewiesen. Normen: § 25 StVG (Fahrverbot), § 25 Abs. 2, 3 und 6 StVG (Wirksamkeit, Viermonatsprivileg und Verbotsfrist), § 17 Abs. 3 OWiG (Geldbusse erhoehen als Alternative). Prüfraster: Berufsbedingte Angewiesenheit, Existenzgefaehrdung, OLG-Rspr Haertefall-Prüfung, Absehen vs. Verzoegerung Fahrverbot. Output Haertefall-Begründung, Antrag Absehen vom Fahrverbot oder Erhoehung Geldbusse. Abgrenzung: Punkte Flensburg siehe verkehrsowi-punkte-fahrverbot-flensburg; HV-Vorbereitung siehe verkehrsowi-hauptverhandlung-amtsgericht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: § 67 OWiG Einspruch 2 Wochen, § 31 OWiG Verjährung 3/6 Monate, § 26 StVG Fahrverbot 4 Monate, § 79 OWiG Rechtsbeschwerde 1 Woche.
+- Fristen und Eilrisiken zuerst markieren: § 67 OWiG Einspruch 2 Wochen; Verjährung nach Delikt und anwendbarer Fassung (aktuell § 26 Abs. 3 StVG grundsätzlich 6 Monate bei § 24 Abs. 1, §§ 31–33 OWiG); Fahrverbot § 25 Abs. 2, 3 und 6 StVG (grundsätzlich spätestens 1 Monat nach Rechtskraft wirksam, Viermonatsprivileg nur bei erfüllten Voraussetzungen; Verbotsfrist gesondert); § 79 OWiG Rechtsbeschwerde 1 Woche. Historische Fassung und Übergang prüfen; [amtlich belegte Einzelheiten](../../references/verkehrsowi-leitplanken.md).
 - Tragende Normen verifizieren: StVG §§ 24, 24a, 25, 26, OWiG §§ 17, 26a, 47, 65, 66, 67, 68, 73, 74, 79, 80, BKatV, BußgeldkatalogVO, StVO, FZV, MessgeräteG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Betroffener, Verteidiger, Bußgeldstelle (Polizei/Verwaltungsbehörde), Amtsgericht (Bußgeldrichter), OLG-Senat, PTB (Eichbehörde).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zeugenfragebogen, Anhörungsbogen, Bußgeldbescheid, Einspruchsschrift, Messprotokoll, Eichschein, Hauptverhandlungsprotokoll — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
@@ -23,12 +23,12 @@ Haertefall-Argumentation gegen Fahrverbot nach § 25 StVG: Mandant ist beruflich
 2. **Ist der Mandant beruflich auf das Fahrzeug angewiesen?** — LKW-Fahrer, Vertreter, Pflegekraft, Taxi/Uber — Haertefall-Argumentation.
 3. **Existenzgefaehrdung nachweisbar?** — Drohende Kuendigung, Arbeitslosenunterstuetzung nicht ausreichend, Eigentümer Kleinstunternehmen.
 4. **Gibt es mildernde Tatumstaende?** — Dringende Notsituation, techisches Versagen, minimale Ueberschreitung.
-5. **Vier-Monats-Frist nutzbar?** — § 25 Abs. 2a StVG: Betroffener kann Beginn des Fahrverbots bis zu 4 Monate nach Rechtskraft hinauszogern (vorteilhaft für Urlaubszeit).
+5. **Viermonatsprivileg anwendbar?** — § 25 Abs. 3 StVG: Rechtskraft früherer Fahrverbotsentscheidungen in den 2 Jahren vor der Tat und bis zur neuen Entscheidung prüfen. Bei erfüllten Voraussetzungen muss die Behörde/das Gericht den gesetzlich vorgesehenen Aufschub bestimmen; Abs. 3 Nr. 1 und 2 nach Verwahrung/Vermerk unterscheiden. Sonst gilt Abs. 2: Wirksamkeit grundsätzlich spätestens 1 Monat nach Rechtskraft. Beginn der Verbotsfrist nach Abs. 6 getrennt berechnen.
 
 ## Zentrale Normen
 
 - **§ 25 Abs. 1 StVG** — Fahrverbot im OWi-Verfahren: 1 bis 3 Monate
-- **§ 25 Abs. 2a StVG** — Vier-Monats-Frist: Betroffener kann Antritt bis 4 Monate nach Rechtskraft hinausschieben
+- **§ 25 Abs. 2, 2a, 3 und 6 StVG** — Wirksamkeit, Verwahrung, gesetzliches Viermonatsprivileg und Beginn der Verbotsfrist sind getrennte Fragen. Die Viermonatsregel steht aktuell in Abs. 3. Historische Fassung und Übergang für Altfälle prüfen; keinen ungeprüften Stichtag unterstellen.
 - **§ 4 Abs. 1 BKatV** — Regelfahrverbot bei bestimmten Grenzwerten; kann unterschritten werden wenn Haertefall vorliegt
 - **§ 17 Abs. 3 OWiG** — Geldbusse als Alternative; Erhoehung möglich statt Fahrverbot
 - **§ 44 StGB** — Fahrverbot als strafrechtliche Nebenstrafe (andere Regelung als § 25 StVG)
@@ -60,23 +60,25 @@ MILDERNDE TATUMSTAENDE:
 □ Besondere Notlage zur Tatzeit (medizinischer Notfall, etc.)
 □ Ueberlange Verfahrensdauer (> 2 Jahre seit Tat)
 
-VIER-MONATS-FRIST (§ 25 Abs. 2a StVG):
-□ Antrag auf Verschiebung des Fristbeginns (z.B. auf Urlaubszeit)
-□ Zustimmung des Gerichts einholen
-□ Zeitplanung mit Mandant abstimmen
+VIERMONATSPRIVILEG (§ 25 Abs. 3 StVG, aktuelle Fassung):
+□ Rechtskraftdaten früherer Fahrverbote und die gesetzlichen Zeitfenster prüfen.
+□ Behördliche/gerichtliche Bestimmung und ggf. Erklärung nach Abs. 3 Nr. 2 prüfen.
+□ Wirksamkeit, tatsächliche Verwahrung/Vermerk und Berechnung nach Abs. 6 getrennt eintragen.
+□ Historische Anwendungs-/Übergangsfrage und Zeitplanung mit Mandant abstimmen.
 ```
 
 ## Schritt-für-Schritt-Workflow
 
 1. **Mandant über realistische Chancen aufklaeren** — Haertefall ist selten anerkannt.
 2. **Beweise sammeln:** Arbeitgeber-Bescheinigung, Einkommensnachweis, Alternativennachweis (OEPNV nicht erreichbar).
-3. **Vier-Monats-Frist als Alternative:** Wenn Haertefall nicht durchsetzbar, Fristverschiebung nach § 25 Abs. 2a StVG beantragen.
+3. **Viermonatsprivileg gesondert prüfen:** Bei Voraussetzungen des § 25 Abs. 3 StVG die entsprechende Bestimmung einfordern und dokumentieren; die Regel ist keine frei gewährbare Härtefallverlängerung.
 4. **Absehen vom Fahrverbot beantragen:** Statt Fahrverbot erhoehte Geldbusse; § 17 Abs. 3 OWiG i.V.m. § 4 Abs. 4 BKatV.
 5. **In der HV:** Haertefall-Argumente konkret und mit Belegen vortragen; pauschale Berufsnotwendigkeit genuegt nicht.
 
 ## Harte Leitplanken
 
 - Haertefall ohne Belege wird nicht anerkannt — Bescheinigungen und Nachweise zwingend.
-- Vier-Monats-Frist immer als Rueckfall-Option vorbereiten.
+- Viermonatsprivileg nur bei erfüllten gesetzlichen Voraussetzungen einplanen.
+- Aktuelle Absätze und Reichweite am 30.09.2026 gegen [§ 25 StVG](https://www.gesetze-im-internet.de/stvg/__25.html) geprüft; vorhandene ältere Rechtsprechung nicht ohne Prüfung der Normfassung auf die neue Absatzstruktur übertragen.
 - Mandant realistisch informieren — Fahrverbot ist die Regel, Ausnahme ist die Ausnahme.
 - Anwaltliche Endkontrolle bei Haertefall-Argumentation.

@@ -26,14 +26,14 @@ Sieben-Fragen-Diagnose:
 ## Rechtlicher Rahmen
 
 - **Art. 15 I DSGVO** Recht auf Bestaetigung und Auskunft über Verarbeitungszwecke, Datenkategorien, Empfaenger, Speicherdauer, Rechte, Beschwerderecht, Datenherkunft, automatisierte Entscheidungsfindung.
-- **Art. 15 III DSGVO** Kopie der personenbezogenen Daten. Erste Kopie kostenlos. EuGH C-487/21 (Bundesamt für Verbraucherschutz / Oesterreichische Datenschutzbehoerde, Urteil 04.05.2023): "Kopie" ist Reproduktion, nicht zwingend Originaldokument, aber so, dass Betroffener Verarbeitungspflichten verstehen und Rechte ausueben kann.
+- **Art. 15 III DSGVO** Kopie der personenbezogenen Daten. Erste Kopie kostenlos. EuGH C-487/21 (Österreichische Datenschutzbehörde / CRIF, Urteil 04.05.2023): "Kopie" ist Reproduktion, nicht zwingend Originaldokument, aber so, dass Betroffener Verarbeitungspflichten verstehen und Rechte ausueben kann.
 - **EuGH C-307/22** (Urteil 26.10.2023): Auskunft umfasst auch Patientenaktenausdrucke unentgeltlich, soweit zur Wahrung der Rechte des Betroffenen erforderlich.
-- **EuGH C-579/21** (Urteil 22.06.2023): Identitaet konkreter Empfaenger ist anzugeben, wenn der Verantwortliche Empfaengerangaben vorhalten kann; Auswahl Kategorien nur, wenn konkrete Identitaet nicht möglich.
+- **EuGH C-154/21** (Urteil 12.01.2023): Identitaet konkreter Empfaenger ist anzugeben, wenn der Verantwortliche Empfaengerangaben vorhalten kann; Auswahl Kategorien nur, wenn konkrete Identitaet nicht möglich.
 - **Art. 12 III DSGVO** Frist ein Monat, Verlaengerung um zwei weitere Monate möglich; Begruendung innerhalb des ersten Monats.
 - **Art. 12 V DSGVO** offenkundig unbegruendet oder exzessiv: Entgelt oder Verweigerung; Beweislast beim Verantwortlichen.
 - **Art. 15 IV DSGVO** Rechte und Freiheiten anderer als Schranke.
 - **§ 34 BDSG** Einschraenkungen des Auskunftsrechts (z. B. Geheimhaltung nach gesetzlicher Norm).
-- **§ 29 BDSG** Sperrung statt Loeschung in besonderen Faellen.
+- **Paragraf 29 Absatz 1 Satz 2 BDSG** begrenzt Auskunft bei konkret geschützten Geheimhaltungsinteressen; Einschränkung der Verarbeitung ist gesondert nach Artikel 18 DSGVO zu prüfen.
 
 ## Mandantenfuehrung Schritt-für-Schritt
 
@@ -50,7 +50,7 @@ Sieben-Fragen-Diagnose:
 | Variante | Vorteil | Nachteil |
 |---|---|---|
 | Vollumfaengliche Auskunft mit Kopie aller Datenkategorien | Erfuellt Art. 15 I und III rechtssicher | Hoher Aufwand, Risiko Offenlegung interner Bewertungen |
-| Schmale Auskunft mit Kategorien statt Einzelempfaenger | Schnell, Drittinteressen geschuetzt | EuGH C-579/21 fordert konkrete Empfaenger, soweit möglich |
+| Schmale Auskunft mit Kategorien statt Einzelempfaenger | Schnell, Drittinteressen geschuetzt | EuGH C-154/21 fordert konkrete Empfaenger, soweit möglich |
 | Verweigerung Art. 12 V (exzessiv) | Spart Aufwand | Beweislast beim Verantwortlichen, hohe Bussgeldgefahr |
 | Fristverlaengerung Art. 12 III S. 2 | Mehr Zeit, sauberes Ergebnis | Begruendung innerhalb erster Monat zwingend |
 
@@ -78,7 +78,7 @@ Sieben-Fragen-Diagnose:
 >
 > 1. Verarbeitungszwecke: [konkret].
 > 2. Datenkategorien: [konkret, z. B. Vertragsdaten, Kommunikationsdaten].
-> 3. Empfaenger: [konkret nach EuGH C-579/21, soweit möglich; Kategorien nur wenn konkrete Empfaenger nicht ermittelbar].
+> 3. Empfaenger: [konkret nach EuGH C-154/21, soweit möglich; Kategorien nur wenn konkrete Empfaenger nicht ermittelbar].
 > 4. Speicherdauer / Kriterien für Festlegung.
 > 5. Beschwerderecht nach Art. 77 DSGVO bei [zuständige Aufsichtsbehoerde].
 > 6. Datenherkunft (Art. 14 II f DSGVO).
@@ -93,14 +93,20 @@ Sieben-Fragen-Diagnose:
 - Konkurrierende Aufbewahrungspflichten (HGB AO) mit Loeschpflicht verwechseln und Daten vor Beantwortung loeschen.
 - Kosten verlangen ohne Tatbestand Art. 12 V (offenkundig unbegruendet oder exzessiv) nachzuweisen.
 
-**Was triggert die Aufsichtsbehoerde?** Vorlage nicht innerhalb Monatsfrist, fehlende Kopie, fehlende Empfaengerangabe trotz EuGH C-579/21, keine Aufklaerung über automatisierte Entscheidungsfindung.
+**Was triggert die Aufsichtsbehoerde?** Vorlage nicht innerhalb Monatsfrist, fehlende Kopie, fehlende Empfaengerangabe trotz EuGH C-154/21, keine Aufklaerung über automatisierte Entscheidungsfindung.
 
 ## Quellen Stand 06/2026
 
 - DSGVO Art. 12, 15, 22.
 - EuGH C-487/21 (Urteil 04.05.2023): Datenkopie nach Art. 15 III DSGVO.
 - EuGH C-307/22 (Urteil 26.10.2023): Auskunft Patientenakte unentgeltlich.
-- EuGH C-579/21 (Urteil 22.06.2023): Empfaengerangabe.
+- EuGH C-154/21 (Urteil 12.01.2023): Empfaengerangabe.
 - BDSG § 29, § 34.
 - EDSA, Leitlinien 01/2022 zu Betroffenenrechten — Auskunft, Version 2.0, angenommen 28.03.2023.
 - Keine Aufsatzfundstellen aus Modellwissen.
+
+## 1. Geprüfte Zuordnung der Auskunftsanker
+
+EuGH, Urteil vom 12.01.2023, C-154/21, Tenor: Konkrete Empfänger nennen; Kategorien nur bei fehlender Identifizierbarkeit oder nachgewiesen offenkundig unbegründetem beziehungsweise exzessivem Antrag. [Amtlicher Text](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62021CJ0154). EuGH, Urteil vom 22.06.2023, C-579/21, Pankki S, betrifft dagegen Auskunft über Datenabfragen, deren Zeitpunkt und Zweck sowie die gesonderte Frage nach der Identität weisungsgebundener Bediensteter; kein allgemeiner Anspruch auf deren Namen. [Amtlicher Text](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62021CJ0579).
+
+EuGH, Urteil vom 19.03.2026, C-526/24, Brillen Rottler: Auch ein erster Auskunftsantrag kann exzessiv sein, wenn der Verantwortliche die Absicht nachweist, künstlich einen Schadensersatzanspruch herbeizuführen. Kurze Zeitabstände oder frühere Anträge nicht allein genügen lassen; alle Fallumstände würdigen. Eine Auskunftsverletzung kann Artikel 82 auslösen, aber nur bei nachgewiesenem Schaden und Kausalität. [Gerichtliche Pressemitteilung Nr. 38/26](https://curia.europa.eu/site/upload/docs/application/pdf/2026-03/cp260038de.pdf); der Volltextabruf war bei diesem Abgleich blockiert, Randnummern deshalb vor prozessualem Zitat nachprüfen.

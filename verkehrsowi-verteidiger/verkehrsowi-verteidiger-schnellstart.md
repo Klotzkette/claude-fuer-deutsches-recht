@@ -8,7 +8,7 @@ Ohne Eingabe biete Einspruchsentwurf, Messdatenantrag mit Verteidigungsvermerk o
 
 Lies zuerst Bußgeldbescheid mit Rechtsbehelfsbelehrung, Zustellnachweis, Anhörung und die vorhandenen Messunterlagen. Erfasse Tatzeit, Tatort, Kennzeichen, betroffene Person, Behörde, Aktenzeichen, vorgeworfene Handlung und Zustelltag. Unterscheide Anhörung, Bußgeldbescheid und gerichtliche Entscheidung. Fehlt der Umschlag, ist das Bescheiddatum kein Ersatz für die Zustellung.
 
-Nach Paragraf 67 OWiG beträgt die Einspruchsfrist gegen den Bußgeldbescheid zwei Wochen nach Zustellung; Adressatin ist die erlassende Verwaltungsbehörde. Berechne den letzten Eingangstag mit Kalender und einschlägigen Fristregeln. Prüfe den vorgesehenen Übermittlungsweg und dokumentiere den Zugangsnachweis; eine formlose Nachricht nicht als sichere Fristwahrung ausgeben. Akteneinsicht und Rückfrage stoppen die Einspruchsfrist nicht. Eine Beschränkung des Einspruchs nur als begründete, gesondert freizugebende Option behandeln.
+Nach Paragraf 67 OWiG beträgt die Einspruchsfrist gegen den Bußgeldbescheid zwei Wochen nach Zustellung; Adressatin ist die erlassende Verwaltungsbehörde. Berechne den letzten Eingangstag mit Kalender und einschlägigen Fristregeln. Übermittlungsweg und Eingangsnachweis prüfen. Akteneinsicht und Rückfrage stoppen die Einspruchsfrist nicht. Verjährung nach § 26 Abs. 3 StVG (aktuell grundsätzlich sechs Monate für § 24 Abs. 1), Tatzeit-/Übergangsrecht und § 33 OWiG berechnen. Viermonatsprivileg beim Fahrverbot nur nach § 25 Abs. 3 StVG; keine allgemeine Verbotsdauer.
 
 ## 1.2. Tatnachweis vor Rechtsfolge
 
@@ -24,6 +24,8 @@ Benötigte Unterlagen mit präzisem Erkenntnisziel auflisten: etwa das Originalf
 
 BVerfG, Beschluss vom 12.11.2020 - 2 BvR 1616/18, Randnummern 50 bis 60 ([amtlicher Volltext](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2020/11/rk20201112_2bvr161618.html)): Für vorhandene Informationen außerhalb der Akte benenne sachlichen und zeitlichen Bezug zur Messung und mögliche Verteidigungsrelevanz. Artikel 2 Absatz 1 in Verbindung mit Artikel 20 Absatz 3 GG verlangt dafür noch keinen bewiesenen Messfehler. Akteneinsicht nach Paragrafen 46 und 49 OWiG und gegebenenfalls Rechtsschutz nach Paragraf 62 OWiG konkret vorbereiten. Kein beliebiger Ausforschungsanspruch und kein automatischer Freispruch; der Zugang begründet nicht ohne Weiteres eine Pflicht zur Erzeugung bisher nicht gespeicherter Daten.
 
+[BGH, Beschluss vom 02.07.2026 – 4 StR 235/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Strafsenate/4_StS/2025/4_StR_235-25.pdf?__blob=publicationFile&v=1), Tenor/Rn. 22–35: Nichtspeicherung von Rohmessdaten bei standardisierter Geschwindigkeitsmessung verletzt für sich das faire Verfahren nicht und begründet kein Verwertungsverbot. Vorhandene, verweigerte Daten und konkrete Messfehler gesondert prüfen. Gezielte Datenunterdrückung blieb offen (Rn. 32).
+
 Eine technische Auffälligkeit als Hypothese kennzeichnen, bis Messunterlagen oder fachkundige Prüfung sie tragen. Keine pauschalen Sachverständigenaufträge oder Beweisanträge als bereits gestellt darstellen. Bei unvollständiger Akte den belastbaren Teil liefern und genau benennen, welche Schlussfolgerung noch nicht möglich ist.
 
 Bestätigt die Behörde ein vorhandenes Wartungsprotokoll, begründe dessen Nachforderung mit Gerät, Messdatum und Erkenntnisziel. Bestätigt technische Dokumentation dagegen die Nichtspeicherung, verlange nicht weiter die Herausgabe einer nicht existierenden Datei; prüfe verfügbare Ersatzinformationen. „Liegt hier nicht vor“ beweist keine Nichtspeicherung. Nach Zugang entlastender Unterlagen streiche widerlegte Fehlervermutungen, bei konkreten Widersprüchen formuliere die fachkundige Beweisfrage neu.
@@ -34,10 +36,8 @@ Trenne Geldbuße, Punkte, Fahrverbot, Kosten und mögliche Fahrerlaubnisfolgen. 
 
 Bei Härteangaben kläre nur die entscheidende Lücke: tatsächliche Fahrten, konkrete Folge oder fehlende Überbrückung. Bestätigte Vertretungsmöglichkeiten ändern die Härtebegründung. Verwende vollständige Sätze, dezimale Gliederung und soweit möglich Times New Roman 11 pt; Exporthinweise gesondert halten.
 
-Liefere den verlangten Vermerk, Mandantenbrief oder Einspruchsentwurf mit den dafür nötigen Frist- und Beweisangaben. Eine Messwerttabelle nur bei tatsächlichem Messbezug, keine feste Zahl von Verteidigungsansätzen erzwingen. Ein Einspruchsentwurf enthält Behörde, Aktenzeichen und eindeutigen Umfang; weder versenden noch erklären, zahlen oder auf Rechte verzichten.
+Liefere den verlangten Vermerk, Mandantenbrief oder Einspruchsentwurf mit den dafür nötigen Frist- und Beweisangaben. Ein Einspruchsentwurf enthält Behörde, Aktenzeichen und eindeutigen Umfang; weder versenden noch erklären, zahlen oder auf Rechte verzichten.
 
 Fehlen Zustellnachweis, Originalfoto oder Messprotokoll, frage mit konkretem Prüfziel danach. Aktualisiere nach Eingang Frist, Fahrerzuordnung oder Messbewertung und schreibe das bestellte Dokument fertig. Weitere kurze Rückfragen sind bei neu erkennbaren entscheidenden Lücken möglich; bereits beantwortete Fragen nicht wiederholen. Der gewünschte Dateiname geht vor, ohne Vorgabe ist `ergebnis.md` ein möglicher Standard.
 
-Quellenstatus und offene Recherchen in einer gesonderten Arbeitsnotiz festhalten, nicht im Mandantenbrief. Fehlenden Quellen- oder Dateizugriff konkret benennen und davon unabhängige Teile weiterbearbeiten; ohne Export den Text ausgeben, ohne eine Datei zu behaupten. Dieses Mini arbeitet eigenständig; Werkstatt- oder Skilltexte sind ausschließlich optionale Vertiefungen.
-
-Amtlicher Einstieg: [Paragraf 67 OWiG](https://www.gesetze-im-internet.de/owig_1968/__67.html).
+Quellenstatus und offene Recherchen in einer gesonderten Arbeitsnotiz festhalten, nicht im Mandantenbrief. Fehlenden Quellen- oder Dateizugriff konkret benennen und davon unabhängige Teile weiterbearbeiten; ohne Export den Text ausgeben, ohne eine Datei zu behaupten.

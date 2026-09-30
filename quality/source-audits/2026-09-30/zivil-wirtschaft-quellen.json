@@ -1,0 +1,138 @@
+{
+  "checked_on": "2026-09-30",
+  "scope": "Gezielte Passageprüfung; kein Vollaudit sämtlicher Rechtsprechung dieser Fachgebiete.",
+  "decisions": [
+    {
+      "court": "BGH",
+      "decision_date": "2026-02-10",
+      "file_number": "II ZR 71/24",
+      "decision_type": "Urteil",
+      "plugin": "startup-gruender",
+      "checked_passages": "18–21, 55–58, 66–67",
+      "application_and_limit": "Der amtliche Text endet bei Rn. 67; der Verweis 67–68 war falsch. Gesamtwürdigung einer Managementbeteiligung; Ausschluss, Abfindung und Ausübung getrennt. Keine allgemeine Freigabe von Founder-Vesting; mittelbare KG-Beteiligung, Zurückverweisung.",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2024/II_ZR__71-24.pdf?__blob=publicationFile&v=1",
+      "retrieved_on": "2026-09-30",
+      "source_sha256": "eafff90a3d150d4cffeff039fb5f11710fe37e5ea7fc459e5e8639fc7e20a715"
+    },
+    {
+      "court": "BGH",
+      "decision_date": "2026-05-05",
+      "file_number": "II ZR 2/25",
+      "decision_type": "Urteil, berichtigt am 29.07.2026",
+      "plugin": "gmbh-gesellschafterversammlung",
+      "checked_passages": "34–40",
+      "application_and_limit": "Jede Gesellschaftergesellschaft benötigt ihre eigene Einladung. Ein gemeinsamer Geschäftsführer oder eine erweiterte Tagesordnung ersetzt die fehlende Einladung nicht. Vier Wochen stammen aus der konkreten Satzung; keine gesetzliche GmbH-Regelfrist.",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2025/II_ZR___2-25A.pdf?__blob=publicationFile&v=1",
+      "retrieved_on": "2026-09-30",
+      "source_sha256": "9a8579a94811872baebffa74cdcc5afc02909d61620714143540f7ea26ca6741"
+    },
+    {
+      "court": "BGH",
+      "decision_date": "2026-04-22",
+      "file_number": "VII ZR 88/25",
+      "decision_type": "Urteil",
+      "plugin": "bauwirtschaft",
+      "checked_passages": "19–30",
+      "application_and_limit": "Vertragliche Schlussrate erst nach der geschuldeten vollständigen Fertigstellung einschließlich vereinbarter Restmängelbeseitigung. Abnahmereife nicht gleich Ratenfälligkeit; keine abstrakte abschließende MaBV-Auslegung.",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2025/VII_ZR__88-25.pdf?__blob=publicationFile&v=1",
+      "retrieved_on": "2026-09-30",
+      "source_sha256": "e9097a3d795636b47a9cd0c966c5e3f1ae1dea1452bfaf5432f80d8770ac282b"
+    },
+    {
+      "court": "BGH",
+      "decision_date": "2026-03-26",
+      "file_number": "VII ZR 68/24",
+      "decision_type": "Urteil",
+      "plugin": "bauwirtschaft",
+      "checked_passages": "41–54",
+      "application_and_limit": "Zwangsabnahme durch drei Erwerbervertreter nimmt dem einzelnen Erwerber unzulässig seine eigene Abnahmeentscheidung. Freiwillige Vollmacht getrennt prüfen. Altfall vor 2002; die behandelte 30-Jahres-Grenze ist keine allgemeine neue Gewährleistungsfrist.",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2024/VII_ZR__68-24.pdf?__blob=publicationFile&v=1",
+      "retrieved_on": "2026-09-30",
+      "source_sha256": "b5399e80d48297d3136bb409ff687e9fe554f78ce8596802a5acf28b60d594ec"
+    },
+    {
+      "court": "BGH",
+      "decision_date": "2026-03-26",
+      "file_number": "VII ZR 108/24",
+      "decision_type": "Urteil",
+      "plugin": "bauwirtschaft",
+      "checked_passages": "38–43, 49–51",
+      "application_and_limit": "Zwingende Abnahme durch einen öffentlich bestellten Sachverständigen unwirksam; eigene Erwerberentscheidung erhalten. Altfall/AGBG und Verjährungsübergang nicht auf aktuelle Bauträgerverträge übertragen.",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2024/VII_ZR_108-24.pdf?__blob=publicationFile&v=1",
+      "retrieved_on": "2026-09-30",
+      "source_sha256": "d3768c9ee02b311704289dc83ec1e86b89e9c898b8acedbc4c9f48d761ee4f9f"
+    },
+    {
+      "court": "BGH",
+      "decision_date": "2026-01-23",
+      "file_number": "V ZR 91/25",
+      "decision_type": "Urteil",
+      "plugin": "bauwirtschaft",
+      "checked_passages": "12–15, 22–27",
+      "application_and_limit": "Private Vermögensverwaltung kann Verbraucherhandeln sein, auch bei Gewerbevermietung; umsatzsteuerliche Unternehmereigenschaft entscheidet nicht. Änderungsbefugnisse für die Teilungserklärung benötigen hinreichende Gründe und Interessenabwägung.",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2025/V_ZR__91-25.pdf?__blob=publicationFile&v=1",
+      "retrieved_on": "2026-09-30",
+      "source_sha256": "6261bb634814061c277f94242c6a426b58609024ba100cbcc80f28800a2c9027"
+    },
+    {
+      "court": "BGH",
+      "decision_date": "2025-05-22",
+      "file_number": "IX ZB 38/24",
+      "decision_type": "Beschluss",
+      "plugin": "liquiditaetsplanung",
+      "checked_passages": "15–22",
+      "application_and_limit": "Bei einem nur auf eine Forderung gestützten Insolvenzantrag kann eine tatsächlich erwirkte Vollstreckungseinstellung den Nachweis des Eröffnungsgrundes hindern, auch bei rechtskräftigem Titel. Kein automatisches Ausbuchen einer materiell fälligen Forderung; Einstellungsantrag allein genügt nicht.",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2024/IX_ZB__38-24A.pdf?__blob=publicationFile&v=1",
+      "retrieved_on": "2026-09-30",
+      "source_sha256": "a6a87cf5fa2a112cb44365588db6ec50487199dd40d6957f33fd261bb84d9cff"
+    },
+    {
+      "court": "BGH",
+      "decision_date": "2025-03-11",
+      "file_number": "II ZR 139/23",
+      "decision_type": "Beschluss",
+      "plugin": "liquiditaetsplanung",
+      "checked_passages": "gesamter dreiseitiger Text; keine nummerierten Randnummern",
+      "application_and_limit": "Materieller Forderungsbestand als Grundlage der Insolvenzreife. Nichtzulassungsbeschwerdeentscheidung nicht zu einem neuen Grundsatzurteil aufwerten. Das Datum von IX ZR 229/22 wurde anhand dessen eigener Titelseite gegengeprüft.",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2023/II_ZR_139-23.pdf?__blob=publicationFile&v=1",
+      "retrieved_on": "2026-09-30",
+      "source_sha256": "64ca7c3b2e2b0bad4d29aef541da94fdac6de1762b742c8583ca46f3487d2fdc"
+    },
+    {
+      "court": "BGH",
+      "decision_date": "2025-01-23",
+      "file_number": "IX ZR 229/22",
+      "decision_type": "Urteil",
+      "plugin": "liquiditaetsplanung",
+      "checked_passages": "34–41 mit Kontext",
+      "application_and_limit": "Materielle Forderung, Erkenntnis-/Darlegungsweg und titelgestützte Vollstreckungsvoraussetzungen unterscheiden. Das Verkündungsdatum ist 23.01.2025, der 19.09.2024 war der Verhandlungstag.",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2022/IX_ZR_229-22.pdf?__blob=publicationFile&v=1",
+      "retrieved_on": "2026-09-30",
+      "source_sha256": "39352de9ac761163984568c54228ef895b3a37c2f43c096f00a338a08c74bf30"
+    },
+    {
+      "court": "BGH",
+      "decision_date": "2026-04-24",
+      "file_number": "V ZR 102/24",
+      "decision_type": "Versäumnisurteil mit Sachprüfung",
+      "plugin": "weg-hausverwaltung",
+      "checked_passages": "13–23, 25–29; amtlicher Text zusätzlich insgesamt gelesen",
+      "application_and_limit": "Delegierte Erhaltung gemeinschaftlicher Balkone lässt die Beschlusskompetenz bestehen; die individuelle Kostenlast bleibt erhalten. Mehrere dringend sanierungsbedürftige Balkone können eine Pflicht zum Tätigwerden auslösen. Bei nur einem Balkon ist die Zumutbarkeit eigener Instandsetzung gesondert zu prüfen; keine freie Wahl einer technisch bevorzugten Sanierung.",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2024/V_ZR_102-24.pdf?__blob=publicationFile&v=1",
+      "retrieved_on": "2026-09-30",
+      "source_sha256": "fe8f8132fa5b34df5c6ed83cd4f739ea55d1b5b222f22763c2322103d7e0068b"
+    },
+    {
+      "court": "BGH",
+      "decision_date": "2026-04-15",
+      "file_number": "XII ZB 415/25",
+      "decision_type": "Beschluss",
+      "plugin": "fachanwalt-familienrecht",
+      "checked_passages": "Leitsätze, 12–28, 32–43, 62–73",
+      "application_and_limit": "Erweiterte Betreuung erzeugt keine anteilige Barhaftung des hauptsächlich betreuenden Elternteils. Reine Mehrkosten und tatsächlich bedarfsdeckende Leistungen getrennt prüfen. Letztere können nach Tatsachenbasis als Erfüllung grundsätzlich mit zehn, ausnahmsweise bis 15 Prozent des nach Herabgruppierung maßgeblichen Tabellenbedarfs geschätzt werden; keine Pauschale auf den Zahlbetrag. Vertretung im paritätischen Modell gesondert.",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2025/XII_ZB_415-25.pdf?__blob=publicationFile&v=1",
+      "retrieved_on": "2026-09-30",
+      "source_sha256": "69153aa57e73e14bc7bf39d29d0b16cf2b12c6e1737830d4d21548132b97a753"
+    }
+  ]
+}

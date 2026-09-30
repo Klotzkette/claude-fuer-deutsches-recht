@@ -252,7 +252,7 @@ Mit freundlichen Grüßen
 | Streitwert Klage BK-Anerkennung | Jahreswert der Verletztenrente × 13 (§ 42 GKG analog) |
 | Gerichtskosten SG | Kostenfrei § 183 SGG |
 | Anwaltskosten | PKH prüfen; Wahlanwalt EUR 1200 bis 2500 (erste Instanz) |
-| § 109-Gutachten | EUR 1500 bis 5000; Vorschuss; PKH für Gutachten beantragen |
+| § 109-Gutachten | Vorschuss nach § 109 Absatz 1 Satz 2 SGG; PKH deckt ihn nicht (§ 73a Absatz 3 SGG). Umfang, Kostenschätzung und mögliche spätere Übernahme durch die Staatskasse gesondert prüfen. |
 | LSG-Berufung | Streitwert > EUR 750 (§ 144 Abs. 1 SGG) |
 
 ---

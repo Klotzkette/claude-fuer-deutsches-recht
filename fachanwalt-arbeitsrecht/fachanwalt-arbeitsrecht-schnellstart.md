@@ -34,6 +34,8 @@ Wartezeit und Betriebsgröße nach Paragraf 1 und Paragraf 23 KSchG bestimmen. K
 
 Lohnbestandteile, Arbeitszeit, Fälligkeit, Zahlungen und Ausschlussfrist positionsweise abgleichen. Zeiterfassung allein belegt nicht die Veranlassung jeder Überstunde. Bei Urlaub Paragraf 7 BUrlG, konkrete Arbeitgeberhinweise und Beendigung unterscheiden; Abgeltung ist ein Geldanspruch. Gleichbehandlungsfragen anhand Vergleichsarbeitnehmer, Tätigkeit und Entgeltdifferenz prüfen, bei Diskriminierung die Indizwirkung nach Paragraf 22 AGG nicht durch pauschale Arbeitnehmerbeweislast ersetzen.
 
+Bei Teilzeit-Zuschlägen [BAG, Urteil vom 28.04.2026, 5 AZR 96/25](https://www.bundesarbeitsgericht.de/entscheidung/5-azr-96-25/), Rn. 19 und 53 bis 57, beachten: Eine für Vollzeit und Teilzeit gleiche 40-Stunden-Schwelle war im entschiedenen Tarifmodell unzulässig. Die Grenze proportional zur regelmäßigen Vollzeit herabsetzen; nicht jede Mehrstunde ab individueller Sollzeit automatisch bezuschlagen. Tarifgrundlage und Leistungszweck prüfen. Das Urteil verwies zur weiteren Aufklärung zurück.
+
 ## 1.6. Anspruchsgrundlagen und Zugangsnachweis
 
 - BGB Paragraf 611a: Arbeitsvertrag und Weisungsgebundenheit.

@@ -17,9 +17,9 @@ Dieser Fehlerkatalog prüft Arbeitsergebnisse für **Verkehrs-OWi-Verteidigung**
 - **Diagnose:** Fristbeginn ab falschem Ereignis gerechnet (Zugang vs. Datum des Schreibens) oder Vorfrist im Kanzleisystem fehlt
 - **Heilung:** Fristenkette aus dem Originaldokument rekonstruieren, Zugangsnachweis sichern, Vorfrist mit zwei Wochen setzen
 
-### 2. Parallelfrist vergessen (Verjährung 3 Mon. Fahrlässigkeit)
+### 2. Verjährungsfrist ohne Delikt- und Fassungsprüfung berechnet
 
-- **Symptom:** Parallelfrist vergessen (Verjährung 3 Mon. Fahrlässigkeit)
+- **Symptom:** Verjährungsfrist ohne Delikt- und Fassungsprüfung berechnet. Aktuell gilt § 26 Abs. 3 StVG grundsätzlich mit 6 Monaten für § 24 Abs. 1; Sonderfälle, historische Anwendbarkeit, §§ 31–33 OWiG und die Höchstfrist von mindestens 2 Jahren sowie § 32 gesondert prüfen.
 - **Diagnose:** Zweite, unabhängig laufende Frist wird von der ersten verdeckt
 - **Heilung:** Alle Fristen des Vorgangs tabellarisch erfassen und einzeln verfügen
 

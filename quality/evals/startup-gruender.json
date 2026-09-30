@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "startup-gruender",
-  "reviewed_on": "2026-09-28",
+  "reviewed_on": "2026-09-30",
   "sources": [
     {
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2024/II_ZR__71-24.pdf?__blob=publicationFile&v=1",
@@ -62,6 +62,12 @@
       "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
       "checked_on": "2026-09-28",
       "supports": "Aktuelle Kommissionsübersicht gelesen; AI-Omnibus-Fristen und direkter EUR-Lex-Abrufvorbehalt im Referenztext offengelegt. Keine Volltextprüfung der technisch blockierten Änderungsverordnung behauptet."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2024/II_ZR__71-24.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-30",
+      "supports": "II ZR 71/24: Randnummernbereich 67–68 berichtigt auf 67; amtliche Fassung endet bei Randnummer 67. Inhaltlich Gesamtwürdigung, Abfindung und Ausübung getrennt bestätigt.",
+      "source_sha256": "eafff90a3d150d4cffeff039fb5f11710fe37e5ea7fc459e5e8639fc7e20a715"
     }
   ],
   "selection": {
@@ -77,23 +83,27 @@
   },
   "mini_review": {
     "verdict": "revised",
-    "reason": "Neu erstellter, eigenständig ausführbarer Gründungsworkflow mit früher Dokumentenproduktion und fallabhängigen Rückfragen.",
+    "reason": "Neu erstellter, eigenständig ausführbarer Gründungsworkflow mit früher Dokumentenproduktion und fallabhängigen Rückfragen. Gezielte Quellen-/Textnachprüfung am 30.09.2026; keine erneute Gesamtprüfung aller Entscheidungen.",
     "changes": [
       "Satzung und SHA DE/EN aus vorhandenen Fakten erstellen; nur entscheidende Lücken gezielt abfragen.",
       "Gesellschaftsphase, nominelle Beteiligung, rechtliche Kontrolle und Finanzierungspläne strikt nach Belegen bearbeiten.",
-      "Formpflichten, Minderheitsstatus, Leaver-Rechtsprechung und Vollzugsnachweise mit konkreten Grenzen verwenden."
+      "Formpflichten, Minderheitsstatus, Leaver-Rechtsprechung und Vollzugsnachweise mit konkreten Grenzen verwenden.",
+      "Nachprüfung 30.09.2026: II ZR 71/24: Randnummernbereich 67–68 berichtigt auf 67; amtliche Fassung endet bei Randnummer 67. Inhaltlich Gesamtwürdigung, Abfindung und Ausübung getrennt bestätigt."
     ],
-    "sha256": "719085f5ac4a6c20a0b4d29086ec63c1b98a4052f8390e81790b283693d8c526"
+    "sha256": "4d8e44880746c85d7e1736af7cc038930244dd90431f9786a91ce85ae9e25ade",
+    "reviewed_on": "2026-09-30"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Neu erstellter, eigenständig ausführbarer Gründungsworkflow mit früher Dokumentenproduktion und fallabhängigen Rückfragen.",
+    "reason": "Neu erstellter, eigenständig ausführbarer Gründungsworkflow mit früher Dokumentenproduktion und fallabhängigen Rückfragen. Gezielte Quellen-/Textnachprüfung am 30.09.2026; keine erneute Gesamtprüfung aller Entscheidungen.",
     "changes": [
       "Satzung und SHA DE/EN aus vorhandenen Fakten erstellen; nur entscheidende Lücken gezielt abfragen.",
       "Gesellschaftsphase, nominelle Beteiligung, rechtliche Kontrolle und Finanzierungspläne strikt nach Belegen bearbeiten.",
-      "Formpflichten, Minderheitsstatus, Leaver-Rechtsprechung und Vollzugsnachweise mit konkreten Grenzen verwenden."
+      "Formpflichten, Minderheitsstatus, Leaver-Rechtsprechung und Vollzugsnachweise mit konkreten Grenzen verwenden.",
+      "Nachprüfung 30.09.2026: II ZR 71/24: Randnummernbereich 67–68 berichtigt auf 67; amtliche Fassung endet bei Randnummer 67. Inhaltlich Gesamtwürdigung, Abfindung und Ausübung getrennt bestätigt."
     ],
-    "sha256": "82a407d98a29dca372847848b9f05d8faab9d88a98b3b1e9c3cce76b8b7e819a"
+    "sha256": "ef596d5525b092351368dd658a5bd486c6744b5ce5868e4bb93a3692708be87e",
+    "reviewed_on": "2026-09-30"
   },
   "prompt_editorial_review": {
     "date": "2026-09-28",
@@ -128,7 +138,7 @@
     ],
     "decisions": [
       {
-        "citation": "BGH, Urteil vom 2026-02-10 – II ZR 71/24, Rn. 18–21, 31, 40, 47, 55, 58, 67–68",
+        "citation": "BGH, Urteil vom 2026-02-10 – II ZR 71/24, Rn. 18–21, 31, 40, 47, 55, 58, 67",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2024/II_ZR__71-24.pdf?__blob=publicationFile&v=1",
         "application": "Vesting-/Leaver-Matrix: Erwerbsmotiv, Kaufpreis, Risiko, Mitarbeit, eigenständige Gründerstellung, Auslöser, vested/unvested, Abfindung und Missbrauchsschutz getrennt begründen.",
         "limit": "Entschieden wurde eine mittelbare Managementbeteiligung über eine KG; keine allgemeine Freigabe von Founder-Vesting oder Nennwertabfindungen. Zurückverweisung, insbesondere zur Ausübungskontrolle nach § 242 BGB. Nicht mit II ZR 71/23 verwechseln. Auch Startup-Gestaltungen bleiben einzelfallabhängig (Rn. 40)."

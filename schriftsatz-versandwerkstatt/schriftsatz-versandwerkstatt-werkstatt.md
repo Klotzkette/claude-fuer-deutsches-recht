@@ -341,7 +341,7 @@ Bereite vor Versand eine Zeile je Nachricht vor:
 
 Nach Versand die automatisierte Eingangsbestätigung öffnen und Empfänger, Zeitstempel, Status und Nachricht prüfen. Speichere Versandexport, Bestätigung, Freigabevermerk und endgültige Dateien unveränderbar gemeinsam. Erst danach darf die Frist als erledigt gelten.
 
-BGH, Beschluss vom 21.03.2023, VIII ZB 80/22, amtlicher Leitsatz ([Quelle](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2023-3-21&Gericht=bgh&anz=20&nr=133514&pos=10)), verlangt bei anwaltlicher Ausgangskontrolle die Zuordnung der Eingangsbestätigung anhand eines sinnvollen Dateinamens. Prüfe nach Paragraf 130a Absatz 5 Satz 2 ZPO deshalb, ob gerade die ausgewählte Endfassung einging, nicht nur eine andere Datei derselben Nachricht. Der Dateiname hilft bei der Zuordnung, ersetzt aber weder Inhaltsvergleich noch Freigabe oder Signatur. Auch ein positiver Empfangsstatus bestätigt keine materielle Richtigkeit.
+BGH, Beschluss vom 21.03.2023 – VIII ZB 80/22, Rn. 26–29 ([Quelle](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2022/VIII_ZB__80-22.pdf?__blob=publicationFile&v=1)), verlangt bei anwaltlicher Ausgangskontrolle die Zuordnung der Eingangsbestätigung anhand eines sinnvollen Dateinamens. Prüfe nach Paragraf 130a Absatz 5 Satz 2 ZPO deshalb, ob gerade die ausgewählte Endfassung einging, nicht nur eine andere Datei derselben Nachricht. Der Dateiname hilft bei der Zuordnung, ersetzt aber weder Inhaltsvergleich noch Freigabe oder Signatur. Auch ein positiver Empfangsstatus bestätigt keine materielle Richtigkeit.
 
 ## 15. Störung und Nachreichung
 

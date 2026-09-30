@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "beamtenrecht",
-  "reviewed_on": "2026-09-23",
+  "reviewed_on": "2026-09-30",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/gg/art_33.html",
@@ -32,6 +32,11 @@
       "url": "https://www.gesetze-im-internet.de/vwgo/__123.html",
       "checked_on": "2026-09-23",
       "supports": "Vorläufige Sicherung mit Anordnungsanspruch und Anordnungsgrund; keine Vorwegnahme eines eigenen Ernennungsanspruchs."
+    },
+    {
+      "url": "https://www.bverwg.de/de/110626U2C12.25.0",
+      "checked_on": "2026-09-30",
+      "supports": "BVerwG, Urteil vom 11.06.2026, 2 C 12.25, Rn.23–30 und39–46: Kontext und subjektive Einstellung bei Chatbeiträgen, besondere Nähebeziehungen und Verwertungsgrenzen; keine automatische Entfernung aus isoliertem Screenshot."
     }
   ],
   "mini_review": {
@@ -42,9 +47,10 @@
       "Einstieg auf Auswahl-, Status- und Zahlungsbegehren zugeschnitten.",
       "Fiktive Fortschreibung und ernsthafte Auswahlchance fallbezogen verbunden; ungeprüfte Entscheidungsliste entfernt.",
       "Leerstart: Auswahl-Eilsicherung, Beurteilung oder Gesundheits- und Bezügeprüfung anbieten. Dateien: Personal- und Auswahlunterlagen still lesen und passenden Weg klären. Klarer Auftrag: Bestelltes Gutachten, Schreiben oder Antrag unmittelbar ausarbeiten.",
-      "Stillhaltezusage ändert Eilgrund; erfolgte Ernennung verlangt neuen Rechtsschutzabgleich; Funktionsbeschränkung ändert Gutachterfragen."
+      "Stillhaltezusage ändert Eilgrund; erfolgte Ernennung verlangt neuen Rechtsschutzabgleich; Funktionsbeschränkung ändert Gutachterfragen.",
+      "Am 30.09.2026 fallbezogene Rechtsprechungsanker 2026 ergänzt; begrenzte Aktualisierung, kein vollständiger Neuabgleich aller Teilmaterien."
     ],
-    "sha256": "fc5fcadac17c714896a8fcbcde37cbe533d4dfbf4530d42c6fce8d4f166a9d83"
+    "sha256": "f16ada256a79053ea046e9639842176bdbb3ea859f082cf65695262d5614cddf"
   },
   "selection": {
     "positive": [
@@ -97,9 +103,10 @@
       "Einstieg auf Auswahl-, Status- und Zahlungsbegehren zugeschnitten.",
       "Fiktive Fortschreibung und ernsthafte Auswahlchance fallbezogen verbunden; ungeprüfte Entscheidungsliste entfernt.",
       "Auswahlchance und Vollzugsstand, falscher Beurteilungszeitraum, funktionelle Gesundheitsfragen und konsistente Bescheidrechnung.",
-      "Stillhaltezusage ändert Eilgrund; erfolgte Ernennung verlangt neuen Rechtsschutzabgleich; Funktionsbeschränkung ändert Gutachterfragen."
+      "Stillhaltezusage ändert Eilgrund; erfolgte Ernennung verlangt neuen Rechtsschutzabgleich; Funktionsbeschränkung ändert Gutachterfragen.",
+      "Am 30.09.2026 fallbezogene Rechtsprechungsanker 2026 ergänzt; begrenzte Aktualisierung, kein vollständiger Neuabgleich aller Teilmaterien."
     ],
-    "sha256": "8678037aef591629d60823c457b71e7b422dc0af4799ffd2c0ff34cddfe58a97"
+    "sha256": "201e2c0ef8c134c3ce90c37e10b66b595d01faf8648aa2a4158013354936f80b"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",

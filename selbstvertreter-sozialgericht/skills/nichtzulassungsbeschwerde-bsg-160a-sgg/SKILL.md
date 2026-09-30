@@ -41,11 +41,11 @@ Das LSG hat Sie nicht zum BSG gelassen. Sie können das selbst angreifen. Das ne
 
 ### Schritt 1 — Anwalt sofort suchen
 
-Beim BSG zugelassener Anwalt. PKH-Antrag.
+Nach [Paragraf 73 Absatz 4 SGG](https://www.gesetze-im-internet.de/sgg/__73.html) vertretungsbefugten Bevollmächtigten hinzuziehen. Eine besondere BSG-Anwaltszulassung ist nicht erforderlich; auch die gesetzlich bezeichneten Organisationen können vertreten. PKH-Verfahren und Beschwerde unterscheiden.
 
 ### Schritt 2 — Frist
 
-1 Monat ab Zustellung des LSG-Urteils.
+Nach [Paragraf 160a SGG](https://www.gesetze-im-internet.de/sgg/__160a.html) ein Monat zur Einlegung und zwei Monate zur Begründung ab Zustellung des LSG-Urteils. Die Begründungsfrist kann auf vor Ablauf gestellten Antrag einmal um bis zu einen Monat verlängert werden. Ein PKH-Antrag hemmt diese Fristen nicht automatisch.
 
 ### Schritt 3 — Zulassungsgruende
 
@@ -57,14 +57,14 @@ Beim BSG zugelassener Anwalt. PKH-Antrag.
 
 **Divergenz**:
 
-- LSG hat anders entschieden als BSG zu derselben Rechtsfrage
-- Konkretes Aktenzeichen des BSG nennen
+- Einen tragenden abstrakten Rechtssatz des LSG einem widersprechenden tragenden Rechtssatz des BSG, des Gemeinsamen Senats oder des BVerfG gegenüberstellen.
+- Die Entscheidung muss auf der Abweichung beruhen; eine bloß falsche Anwendung oder ein anderes Ergebnis genügt nicht.
 
 **Verfahrensmangel**:
 
 - Rechtliches Gehoer verletzt
 - Beweisantrag zu Unrecht abgelehnt
-- Sachverhalt unzureichend ermittelt
+- Bei einer Rüge unzureichender Sachaufklärung Paragraf 160 Absatz 2 Nummer 3 SGG beachten: Sie kann nur auf einen Beweisantrag gestützt werden, dem das LSG ohne hinreichende Begründung nicht gefolgt ist. Verstöße gegen Paragraf 109 und Paragraf 128 Absatz 1 Satz 1 SGG tragen diese Zulassungsrüge nicht.
 
 ### Schritt 4 — Schrift wird vom Anwalt erstellt
 

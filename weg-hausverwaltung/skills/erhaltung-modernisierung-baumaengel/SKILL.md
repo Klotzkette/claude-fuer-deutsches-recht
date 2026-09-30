@@ -7,15 +7,15 @@ description: "Für Erhaltung, Modernisierung und Baumängel: ordnet Norm, Beweis
 
 ## Fachlicher Anker
 
-- **Normen:** §§ 535, §§ 18, § 16 Abs. 2.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
+- **Normen:** Paragrafen 18, 19, 16 Absatz 2 WEG; bei Miet- oder Werkvertragsansprüchen die jeweils einschlägigen BGB-Regeln.
+- **Entscheidungs-/Quellenanker:** [BGH, Versäumnisurteil vom 24.04.2026, V ZR 102/24, Rn. 13–23 und 25–29](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2024/V_ZR_102-24.pdf?__blob=publicationFile&v=1): Kompetenz, Handlungspflicht und fortbestehende vereinbarte Kostenlast getrennt.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
 ## Fachkern: Erhaltung, Modernisierung und Baumängel
 - **Normen-/Quellenanker:** WEG §§ 18-28, 44/45, BGB-Miet-/Werkvertragsrecht, BetrKV, HeizkostenV, GEG, DSGVO und landesrechtliche Bau-/Sicherheitsfragen.
 - **Entscheidende Weiche:** Trenne Beschlusskompetenz, ordnungsmäßige Verwaltung, Kostenverteilung, Anfechtungsfrist, Verwalterpflicht, Belegprüfung und Vollzug.
 
-Stand: 05/2026.
+Rechtsprechungsnachprüfung: 30.09.2026; gezielt V ZR 102/24, keine Gesamtprüfung sämtlicher Normen.
 
 ## Ziel
 
@@ -25,10 +25,12 @@ Technische Maßnahmen rechtlich und verwaltungspraktisch sauber in den WEG-Proze
 
 | Maßnahme | Norm | Beschlussbedarf | Kostenträger |
 | --- | --- | --- | --- |
-| Erhaltung (Reparatur, Instandhaltung, Instandsetzung) | § 19 Abs. 2 Nr. 2 WEG | regelmäßig durch GdWE, ggf. delegierbar an Verwalter (§ 27 WEG) | alle Eigentümer nach Schlüssel |
-| Modernisierende Erhaltung | § 19 Abs. 2 Nr. 2 WEG | Mehrheitsbeschluss | alle nach Schlüssel |
+| Erhaltung (Reparatur, Instandhaltung, Instandsetzung) | § 19 Abs. 2 Nr. 2 WEG | regelmäßig durch GdWE, ggf. delegierbar an Verwalter (§ 27 WEG) | nach wirksamer Vereinbarung oder einschlägigem Beschluss; sonst gesetzlicher Schlüssel |
+| Modernisierende Erhaltung | § 19 Abs. 2 Nr. 2 WEG | Mehrheitsbeschluss | nach gesondert geprüfter Kostenregel |
 | Bauliche Veränderung | § 20 WEG | Mehrheitsbeschluss; ggf. privilegiert (§ 20 Abs. 2 WEG) | § 21 WEG (gestaffelt) |
-| Eilmaßnahme zur Schadensabwehr | § 27 Abs. 1 Nr. 2 WEG | Verwalter allein, Bericht | alle nach Schlüssel |
+| Eilmaßnahme zur Schadensabwehr | § 27 Abs. 1 Nr. 2 WEG | Verwalter allein, Bericht | nach gesondert geprüfter Kostenregel |
+
+Nach [BGH, Versäumnisurteil vom 24.04.2026, V ZR 102/24, Rn. 13–23 und 25–29](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2024/V_ZR_102-24.pdf?__blob=publicationFile&v=1) bleibt die Beschlusskompetenz der Gemeinschaft für die Erhaltung gemeinschaftlicher Balkonteile trotz Übertragung der Erhaltungslast auf einzelne Eigentümer bestehen. Wird die Gemeinschaft tätig, geht dadurch die zugleich vereinbarte Kostenlast nicht auf alle Eigentümer über. Müssen mehrere Balkone zwingend saniert werden, muss die Gemeinschaft tätig werden; bei nur einem Balkon ist die Zumutbarkeit einer eigenen Sanierung gesondert zu beurteilen. Frage nach Teilungserklärung, betroffenen Bauteilen, Schäden und fachlich belegtem Sanierungsbedarf. Beschluss über das Tätigwerden, konkrete Ausführung und Kostenverteilung getrennt formulieren. Die Entscheidung gewährt nicht automatisch einen Anspruch auf die vom Kläger bevorzugte Sanierungsvariante.
 
 ## Prüfpunkte
 
@@ -37,15 +39,12 @@ Technische Maßnahmen rechtlich und verwaltungspraktisch sauber in den WEG-Proze
 - **Sofortmaßnahme** nötig? (Wasserrohrbruch, akute Gefahr → § 27 WEG, dann Bericht)
 - **Gutachten oder Fachplanung** erforderlich? (Statik, Energie, Brandschutz, Hygiene)
 - **Beschluss, Budget, Finanzierung** (Rücklage / Sonderumlage / Wirtschaftsplan).
-- **Gewährleistung** dokumentieren (Beginn ab Abnahme, 5 Jahre BGB-Werkvertrag, 2 Jahre Kauf, ggf. abweichend VOB/B 4 Jahre).
+- **Mängelverjährung** nach Anspruch und Vertragsart prüfen: Paragraf 634a BGB für Werkleistung, [Paragraf 438 BGB](https://www.gesetze-im-internet.de/bgb/__438.html) für Kauf. Beim Bauwerkskauf gilt grundsätzlich die Fünfjahresfrist, nicht pauschal zwei Jahre. Beginn, wirksame VOB/B-Einbeziehung, Abnahme, Arglist und Hemmung gesondert bestimmen.
 - **Mängelanzeige** mit Fristsetzung, Beweissicherung (Fotos, Datum, Zeugen, Sachverständigenkonsil).
 
-## GEG-Pflicht beim Heizungstausch (§ 71 GEG, Stand 05/2026)
+## Heizungstausch und zeitlicher Normstand
 
-- Neu eingebaute Heizungen müssen ab **01.01.2024** zu mindestens 65 % aus erneuerbaren Energien oder unvermeidbarer Abwärme versorgt werden.
-- Übergangsregelungen sind an die kommunale Wärmeplanung gekoppelt: Großstädte > 100.000 Einwohner: spätester Stichtag 30.06.2026; kleinere Kommunen: 30.06.2028 (je nach Beschluss der Kommune).
-- Quelle: https://www.gesetze-im-internet.de/geg/__71.html
-- Praxisfolge für WEG: Beschluss zum Heizungstausch muss die GEG-Konformität (Konzept, Mindestanteil EE, ggf. Fernwärmeanschluss, Wärmepumpe, Hybridlösung) belegen; Wirtschaftlichkeit und Förderung (BAFA/KfW, Stand zum Beschlusstag prüfen).
+Der am 30.09.2026 gelesene [amtliche Einzeltext des bisherigen Paragrafen 71 GEG](https://www.gesetze-im-internet.de/geg/__71.html) weist die Vorschrift als weggefallen aus. Die [Gesamtausgabe](https://www.gesetze-im-internet.de/geg/BJNR172810020.html) führt das Gebäudemodernisierungsgesetz und verweist für Wärmeversorgung auf Paragrafen 42 bis 46. Die frühere pauschale Aussage „65 Prozent ab 2024“ darf daher nicht als unveränderte aktuelle Regel in einen Beschluss übernommen werden. Vor einem Heizungstausch Baualter, Anlage, Energieträger, Zeitpunkt des Einbaus und Übergangsrecht anhand der geltenden Vorschriften klären; technische Fachplanung und Kosten-/Beschlusskompetenz der Gemeinschaft getrennt behandeln. Diese gezielte Nachprüfung ersetzt keine vollständige Prüfung der neuen materiellen Anforderungen oder der Förderbedingungen.
 
 ## CO2KostAufG bei Brennstoffwahl
 
@@ -73,4 +72,4 @@ Technische Maßnahmen rechtlich und verwaltungspraktisch sauber in den WEG-Proze
 - BGH, Urteil vom 14.02.2025 - V ZR 236/23: Wird eine vereinbarte objektbezogene Kostentrennung geändert und werden bisher nicht beteiligte Eigentümer erstmals mit Erhaltungskosten belastet, widerspricht dies regelmäßig ordnungsmäßiger Verwaltung, sofern kein sachlicher Grund für ihre Einbeziehung besteht.
 - BGH, Urteil vom 14.02.2025 - V ZR 128/23: Die Kompetenz aus Paragraf 16 Absatz 2 Satz 2 WEG erfasst auch den Verteilungsschlüssel für die Zuführung zur Erhaltungsrücklage. Beschlusskompetenz, Bestimmtheit und sachgerechte Belastung getrennt prüfen.
 
-`rechtsstand-mai-2026-faktenbank` laden. § 19 WEG: https://www.gesetze-im-internet.de/woeigg/__19.html ; § 20 WEG: https://www.gesetze-im-internet.de/woeigg/__20.html ; § 71 GEG: https://www.gesetze-im-internet.de/geg/__71.html .
+`rechtsstand-mai-2026-faktenbank` laden. § 19 WEG: https://www.gesetze-im-internet.de/woeigg/__19.html ; § 20 WEG: https://www.gesetze-im-internet.de/woeigg/__20.html ; aktueller Gebäudemodernisierungstext: https://www.gesetze-im-internet.de/geg/ .

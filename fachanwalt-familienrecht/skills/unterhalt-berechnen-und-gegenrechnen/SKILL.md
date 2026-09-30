@@ -33,7 +33,7 @@ Trenne Kindesunterhalt, Trennungsunterhalt und jeden nachehelichen Tatbestand. B
 
 Erfasse jede Zahl mit Betrag, Zeitraum, Beleg, rechtlicher Behandlung und Streitstatus. Rechne Einkommen, Bedarf, Bedürftigkeit und Leistungsfähigkeit getrennt. Kindergeld, Eigenbedarf und Bedarfskontrollbetrag dürfen nicht vertauscht werden. Bei mehreren Berechtigten Rang und Verteilungsmasse offen ausweisen.
 
-Eine fremde Rechnung wird mit unveränderten Eingaben reproduziert und anschließend je streitiger Zeile korrigiert. Bilde keinen fiktiven Verdienst allein deshalb, weil Auskunft fehlt. Die behauptete Entlastung durch Umgang ist konkret zu belegen; eine reine Zeitquote ersetzt keine Haftungsprüfung.
+Eine fremde Rechnung wird mit unveränderten Eingaben reproduziert und anschließend je streitiger Zeile korrigiert. Bilde keinen fiktiven Verdienst allein deshalb, weil Auskunft fehlt. Die behauptete Entlastung durch Umgang ist konkret zu belegen; eine reine Zeitquote ersetzt keine Haftungsprüfung. [BGH, Beschluss vom 15.04.2026, XII ZB 415/25, Rn. 62–70 und 73](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2025/XII_ZB_415-25.pdf?__blob=publicationFile&v=1) erlaubt bei hinreichenden tatsächlichen Grundlagen eine pauschalierende Schätzung der Teilerfüllung: regelmäßig zehn, ausnahmsweise höchstens fünfzehn Prozent des nach einer etwaigen Herabstufung ermittelten Tabellenbedarfs. Nicht vom Zahlbetrag abziehen; nicht bedarfsdeckende Mehrkosten und tatsächliche Entlastung trennen. Die [Betreuungsreferenz](references/kindesunterhalt-und-betreuung.md) enthält Mindestunterhalts- und Vertretungsgrenzen.
 
 ## 4. Quellenpflicht
 

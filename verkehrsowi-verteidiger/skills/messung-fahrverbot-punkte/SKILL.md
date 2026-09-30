@@ -8,7 +8,7 @@ description: "Für Messung, Punkte, Fahrverbot und Verteidigungsziel im Verkehrs
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: § 67 OWiG Einspruch 2 Wochen, § 31 OWiG Verjährung 3/6 Monate, § 26 StVG Fahrverbot 4 Monate, § 79 OWiG Rechtsbeschwerde 1 Woche.
+- Fristen und Eilrisiken zuerst markieren: § 67 OWiG Einspruch 2 Wochen; Verjährung nach Delikt und anwendbarer Fassung (aktuell § 26 Abs. 3 StVG grundsätzlich 6 Monate bei § 24 Abs. 1, §§ 31–33 OWiG); Fahrverbot § 25 Abs. 2, 3 und 6 StVG (grundsätzlich spätestens 1 Monat nach Rechtskraft wirksam, Viermonatsprivileg nur bei erfüllten Voraussetzungen; Verbotsfrist gesondert); § 79 OWiG Rechtsbeschwerde 1 Woche. Historische Fassung und Übergang prüfen; [amtlich belegte Einzelheiten](../../references/verkehrsowi-leitplanken.md).
 - Tragende Normen verifizieren: StVG §§ 24, 24a, 25, 26, OWiG §§ 17, 26a, 47, 65, 66, 67, 68, 73, 74, 79, 80, BKatV, BußgeldkatalogVO, StVO, FZV, MessgeräteG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Betroffener, Verteidiger, Bußgeldstelle (Polizei/Verwaltungsbehörde), Amtsgericht (Bußgeldrichter), OLG-Senat, PTB (Eichbehörde).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zeugenfragebogen, Anhörungsbogen, Bußgeldbescheid, Einspruchsschrift, Messprotokoll, Eichschein, Hauptverhandlungsprotokoll — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
@@ -37,7 +37,7 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
  - **4-5 Punkte:** Ermahnung; **6-7 Punkte:** Verwarnung mit Aufbauseminar-Hinweis; **8 Punkte:** Entziehung Fahrerlaubnis (zwingend, § 4 V StVG).
  - **Punkteabbau:** freiwilliges Fahreignungsseminar bei 1-5 Punkten = 1 Punkt Reduktion (nur einmal in 5 Jahren).
 - **Fahrverbot § 25 StVG:**
- - 1-3 Monate; Antritt regelmaessig nach Wahl binnen 4-Monatsfrist § 25 IIa StVG bei Ersttaeter; wiederholt sofort.
+ - Dauer 1–3 Monate; aktuell Wirksamkeit grundsätzlich spätestens 1 Monat nach Rechtskraft (§ 25 Abs. 2). Viermonatsprivileg nur unter Abs. 3, Verbotsfrist nach Abs. 6 gesondert. Historische Fassung und Übergang prüfen.
  - Bekannte Konstellationen: Geschwindigkeitsverstoss innerorts ab 31 km/h, ausserorts ab 41 km/h; Rotlicht qualifiziert (1+ Sek); Abstand unter 50% halber Tacho ab 80 km/h.
 - **Wegfall Fahrverbot wegen unzumutbarer Haerte** (OLG-Linie restriktiv):
  - Berufskraftfahrer (Existenzgefahr).

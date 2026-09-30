@@ -15,7 +15,7 @@ description: "Für Rechtsstand Mai 2026 — Faktenbank WEG/Hausverwaltung: ordne
 - **Normen-/Quellenanker:** WEG §§ 18-28, 44/45, BGB-Miet-/Werkvertragsrecht, BetrKV, HeizkostenV, GEG, DSGVO und landesrechtliche Bau-/Sicherheitsfragen.
 - **Entscheidende Weiche:** Trenne Beschlusskompetenz, ordnungsmäßige Verwaltung, Kostenverteilung, Anfechtungsfrist, Verwalterpflicht, Belegprüfung und Vollzug.
 
-Stand: 05/2026. Lade diese Faktenbank, bevor du aktuelle Aussagen zu Wohnungseigentumsrecht, Eigentümerversammlung, Beschlüssen, Abrechnung, Verwalterpflichten, baulichen Veränderungen oder Hausverwaltung triffst.
+Grundbestand: 05/2026; Heizungsrecht am 30.09.2026 aktualisiert. Der Ordnername bleibt für bestehende Verweise erhalten. Lade diese Faktenbank als Ausgangspunkt, bevor du aktuelle Aussagen zu Wohnungseigentumsrecht, Eigentümerversammlung, Beschlüssen, Abrechnung, Verwalterpflichten, baulichen Veränderungen oder Hausverwaltung triffst.
 
 ## Harte Quellenregel
 
@@ -45,7 +45,7 @@ Stand: 05/2026. Lade diese Faktenbank, bevor du aktuelle Aussagen zu Wohnungseig
 
 ## Neuere Gesetzgebung 2023–2026
 
-- GEG 2024, § 71 (65 %-EE-Pflicht bei neu eingebauten Heizungen): https://www.gesetze-im-internet.de/geg/__71.html
+- Heizungsrecht seit 29.07.2026: Gebäudemodernisierungsgesetz; der frühere § 71 ist weggefallen. Bei Neuentscheidungen nicht die frühere 65-Prozent-Regel zugrunde legen. Einbauzeitpunkt, Gebäudeart und Technik für die nun einschlägigen §§ 43–46 ermitteln; § 43 regelt insbesondere Brennstoffquoten für nach dem 29.07.2026 in Bestandsgebäuden neu eingebaute Gas-/Öl-/Flüssiggasheizungen. Historische Vorgänge nach der damals anwendbaren Fassung prüfen: https://www.gesetze-im-internet.de/geg/ .
 - CO2KostAufG (seit 01.01.2023, Aufteilung CO₂-Kosten Vermieter/Mieter, Zehn-Stufen-Modell): https://www.gesetze-im-internet.de/co2kostaufg/
 - Mietpreisbremse-Verlängerung bis 31.12.2029, Gesetz vom 17.07.2025, BGBl. 2025 I Nr. 163: https://www.recht.bund.de/bgbl/1/2025/163/VO.html
 

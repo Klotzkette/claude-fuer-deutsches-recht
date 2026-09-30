@@ -41,12 +41,16 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Identitätsprüfung** Art. 12 Abs. 6 — bei begründeten Zweifeln; nicht überzogen handhaben.
 - **Verweigerung:**
  - **Art. 12 Abs. 5 lit. b DSGVO:** offenkundig missbräuchlich.
- - **§ 34 BDSG:** Ausnahmen (z. B. Datenverbleib bei Berufsgeheimnisträgern, Strafverfolgung).
+ - **Paragrafen 29 und 34 BDSG:** Geheimhaltung sowie die genau bezeichneten gesetzlichen Ausnahmen prüfen; keine pauschale Ausnahme für sämtliche Berufsgeheimnisträger- oder Strafverfolgungsdaten.
 - **Beschwerdewege:**
  - **Beschwerde Aufsicht Art. 77 DSGVO:** zuständige Landesdatenschutzbehörde oder BfDI.
- - **Klage gegen Verantwortlichen Art. 79 DSGVO:** ZG mit Streitwert-Zuständigkeit; ggf. § 29c ZPO Verbraucher.
+ - **Klage gegen Verantwortlichen Artikel 79 DSGVO:** Zivil-, Arbeits- oder Verwaltungsrechtsweg nach Rechtsverhältnis bestimmen; bei Finanzbehörden Sonderzuweisung nach Paragraf 32i Absatz 2 AO beachten.
  - **Klage gegen Aufsicht Art. 78 DSGVO:** VG-Klage.
-- **EuGH-Rechtsprechung:** C-487/21 (Österreichische Datenschutzbehörde): Auskunftsanspruch erstreckt sich auf konkrete Empfänger (nicht nur Empfängerkategorien), wenn diese identifiziert werden können.
+- **EuGH-Rechtsprechung:** EuGH, Urteil vom 12.01.2023, C-154/21, Tenor: Konkrete Empfänger nennen; Kategorien nur bei fehlender Identifizierbarkeit oder nachgewiesen offenkundig unbegründetem beziehungsweise exzessivem Antrag. [Amtlicher Text](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62021CJ0154). C-487/21 vom 04.05.2023 betrifft hingegen die verständliche Datenkopie und ihren notwendigen Kontext.
+
+## 1. Finanzbehördliche Auskunft 2026
+
+Bei Auskunft gegen eine Finanzbehörde BFH, Urteil vom 30.06.2026, IX R 2/25, Gründe unter II.3., anwenden: Keine eidesstattliche Versicherung nach Artikel 15 DSGVO oder entsprechend Paragrafen 259, 260 BGB verlangen; bei begründeten Lücken auf vollständige und richtige Auskunft hinwirken. Den Ausschluss der BGB-Analogie nicht ungeprüft auf private Verantwortliche übertragen. Bei Artikel-82-Klage vor dem Finanzgericht vorherige Anspruchsanmeldung von dem nach Paragraf 32i Absatz 9 AO entfallenden Einspruchsverfahren unterscheiden; Ausnahme bei eindeutig feststehender Ablehnung prüfen (Gründe II.1.). [Amtlicher Volltext](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202610168/).
 
 ## Praxis-Tipp
 Bei unvollständiger Auskunft frühzeitig nachhaken und konkret benennen, was fehlt (Empfänger, Speicherdauer, Herkunft, Logik bei automatisierten Entscheidungen). Pauschale Beschwerde "Auskunft unvollständig" wird oft zurückgewiesen — präzise Nachforderung erhöht Erfolgsaussichten.

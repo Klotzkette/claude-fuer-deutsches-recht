@@ -36,15 +36,16 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Fachliche Startvarianten und konkrete Antwortfortsetzung einzeln geprüft. Geübte Vertretung, bloße Vertragsklausel und spätere Praxisänderung trennen; Organisation beim Dritten belegen; Lehrkraftzustimmung nicht fingieren; Status- und Beitragsbescheide mit eigenem Gegenstand und Vollziehungsbedarf behandeln.",
+    "reason": "BSG 23.07.2026 B 12 BA 10/24 R in Altplugin übernommen: Stichentscheid kann bei 50/50 die verlässliche Verhinderungsmacht beseitigen.",
     "changes": [
       "Fachliche Freiheit von organisatorischer Eingliederung unterschieden; keine zwingende Kumulation mit Weisungen.",
       "Lehrkräfte-Übergang nach aktuellem Paragraf 127 SGB IV bis Ende 2027 und Absicherung nach Absatz 2 ergänzt.",
       "Leerstart: Einsatzgestaltung, Statusanhörung oder Beitragsforderung wählen.",
       "Erstmals belegte eigene Vertretung ab Mai verändert diesen Zeitabschnitt und die Erwiderung; bekannt gewordenes laufendes Prüfverfahren verändert den vorgesehenen Antragsweg.",
-      "Geübte Vertretung, bloße Vertragsklausel und spätere Praxisänderung trennen; Organisation beim Dritten belegen; Lehrkraftzustimmung nicht fingieren; Status- und Beitragsbescheide mit eigenem Gegenstand und Vollziehungsbedarf behandeln."
+      "Geübte Vertretung, bloße Vertragsklausel und spätere Praxisänderung trennen; Organisation beim Dritten belegen; Lehrkraftzustimmung nicht fingieren; Status- und Beitragsbescheide mit eigenem Gegenstand und Vollziehungsbedarf behandeln.",
+      "30.09.2026: BSG 23.07.2026 B 12 BA 10/24 R in Altplugin übernommen: Stichentscheid kann bei 50/50 die verlässliche Verhinderungsmacht beseitigen."
     ],
-    "sha256": "5d73c5a6e30aadf16a5ce336263ae88d3deb9f92f967c582002b1af731085c58",
+    "sha256": "7cb0759c859750139d3ef1aadfeaa379f857292bb204c7312e4743e6caeccd60",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -94,16 +95,17 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Vollständige Werkstatt mit zusätzlichen fachlichen Entscheidungs- und Dokumentwegen einzeln geprüft. Geübte Vertretung, bloße Vertragsklausel und spätere Praxisänderung trennen; Organisation beim Dritten belegen; Lehrkraftzustimmung nicht fingieren; Status- und Beitragsbescheide mit eigenem Gegenstand und Vollziehungsbedarf behandeln.",
+    "reason": "BSG 23.07.2026 B 12 BA 10/24 R in Altplugin übernommen: Stichentscheid kann bei 50/50 die verlässliche Verhinderungsmacht beseitigen.",
     "changes": [
       "Kundenbeziehung, Einsatzsteuerung und Verdienstchancen als zu belegende Faktoren herausgearbeitet.",
       "B 12 BA 3/23 R verlangt eigene Feststellungen für Folgezeiträume; keine automatische Berufsgruppenregel.",
       "Ungeprüfte alte Fallliste entfernt; Geschäftsführer, Beiträge und Rechtsschutz bleiben eigenständige Prüfwege.",
       "Leerstart: Einsatzgestaltung, Statusanhörung oder Beitragsforderung wählen.",
       "Erstmals belegte eigene Vertretung ab Mai verändert diesen Zeitabschnitt und die Erwiderung; bekannt gewordenes laufendes Prüfverfahren verändert den vorgesehenen Antragsweg.",
-      "Geübte Vertretung, bloße Vertragsklausel und spätere Praxisänderung trennen; Organisation beim Dritten belegen; Lehrkraftzustimmung nicht fingieren; Status- und Beitragsbescheide mit eigenem Gegenstand und Vollziehungsbedarf behandeln."
+      "Geübte Vertretung, bloße Vertragsklausel und spätere Praxisänderung trennen; Organisation beim Dritten belegen; Lehrkraftzustimmung nicht fingieren; Status- und Beitragsbescheide mit eigenem Gegenstand und Vollziehungsbedarf behandeln.",
+      "30.09.2026: BSG 23.07.2026 B 12 BA 10/24 R in Altplugin übernommen: Stichentscheid kann bei 50/50 die verlässliche Verhinderungsmacht beseitigen."
     ],
-    "sha256": "04c316a823c48ef9c4a9b9db1e2b591e4f49e9872ae7ed44869cc9248cb82f8e",
+    "sha256": "d7e97ececadd5e828bf372b10f9edfd4a5a204db42520841bfc594db0465ef13",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -143,5 +145,20 @@
     "continuation": "Erstmals belegte eigene Vertretung ab Mai verändert diesen Zeitabschnitt und die Erwiderung; bekannt gewordenes laufendes Prüfverfahren verändert den vorgesehenen Antragsweg.",
     "enrichment": "Geübte Vertretung, bloße Vertragsklausel und spätere Praxisänderung trennen; Organisation beim Dritten belegen; Lehrkraftzustimmung nicht fingieren; Status- und Beitragsbescheide mit eigenem Gegenstand und Vollziehungsbedarf behandeln.",
     "limits": "desk review; no live client execution"
+  },
+  "source_audit_2026_09_30": {
+    "date": "2026-09-30",
+    "method": "targeted_primary_source_review",
+    "scope": "BSG 23.07.2026 B 12 BA 10/24 R in Altplugin übernommen: Stichentscheid kann bei 50/50 die verlässliche Verhinderungsmacht beseitigen.",
+    "decisions": [
+      {
+        "citation": "BSG, Urteil vom 23.07.2026, B 12 BA 10/24 R; Terminbericht 24/26 Nummer 4 PDF-Seite 4",
+        "url": "https://www.bsg.bund.de/SharedDocs/Downloads/DE/Terminberichte/2026/2026_24_Terminbericht.pdf?__blob=publicationFile&v=2",
+        "application": "Satzungsmäßig verbindlichen Stichentscheid trotz 50/50 prüfen.",
+        "limit": "Amtlicher Bericht, keine Urteilsrandnummern; keine pauschale Abkehr von der 50-Prozent-Rechtsprechung."
+      }
+    ],
+    "report": "quality/source-audits/2026-09-30/arbeit-sozial.md",
+    "limits": "Gezielte Quellen- und Fachkorrekturen; keine Vollprüfung sämtlicher Skills oder Rechtsprechung dieses Gebiets und kein neuer Modelltest."
   }
 }

@@ -1,6 +1,6 @@
 # Rechtsstand Mai 2026 — WEG und Hausverwaltung
 
-Stand: 05/2026.
+Grundbestand: 05/2026; gezielte Aktualisierung des Heizungsrechts am 30.09.2026. Keine erneute Vollprüfung aller übrigen Einträge.
 
 ## Quellenregel (strikt)
 
@@ -29,7 +29,7 @@ Stand: 05/2026.
 
 | Thema | Quelle | Kerninhalt |
 | --- | --- | --- |
-| GEG Novelle 2024 (Heizungsgesetz) | § 71 GEG, https://www.gesetze-im-internet.de/geg/__71.html | Ab 01.01.2024 dürfen neu eingebaute Heizungen nur betrieben werden, wenn Wärme zu mindestens 65 % aus erneuerbaren Energien oder unvermeidbarer Abwärme stammt; Übergangsfristen je nach Anschluss an kommunale Wärmeplanung (Großstädte > 100.000 Einwohner: 30.06.2026; sonst 30.06.2028). |
+| Heizungsrecht seit 29.07.2026 | GModG, §§ 43–46; https://www.gesetze-im-internet.de/geg/ | Frühere §§ 71–73 entfallen. Gebäudeart, Einbaudatum und konkrete Technik statt einer pauschalen 65-Prozent-Pflicht prüfen. Historische Einbauten gesondert nach damaliger Fassung bewerten; Wärmeplanung nach WPG begründet für sich keinen Anschlusszwang. |
 | CO2KostAufG | https://www.gesetze-im-internet.de/co2kostaufg/ | Ab 01.01.2023 Aufteilung der CO₂-Kosten zwischen Vermieter und Mieter nach Zehn-Stufen-Modell (kg CO₂/m²·a); Verwaltervertrag/WEG-Abrechnung muss Daten liefern, damit der vermietende Eigentümer die Stufe ermitteln kann. |
 | Mietpreisbremse verlängert | BGBl. 2025 I Nr. 163 vom 22.07.2025 (https://www.recht.bund.de/bgbl/1/2025/163/VO.html); Inkrafttreten 23.07.2025 | Verlängerung bis 31.12.2029; Landesrechtsverordnungen über angespannte Wohnungsmärkte bleiben Voraussetzung. |
 

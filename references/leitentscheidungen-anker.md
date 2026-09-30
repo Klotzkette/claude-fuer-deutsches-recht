@@ -1,6 +1,6 @@
 # Leitentscheidungs-Anker für deutsche Rechtsgebiete
 
-> Diese Datei sammelt **Themen-Anker** für Rechtsprechungssuchen je Rechtsgebiet. Sie enthält **bewusst keine vollständigen Aktenzeichen-Behauptungen aus Modellwissen**, weil dieses Repository ohne Live-Zugriff arbeitet. Sie nennt das **Thema** und den **wahrscheinlichen Spruchkörper**; die exakten Aktenzeichen, Daten und Randnummern sind **vor jeder Verwendung live in einer freien Quelle (BVerfG/BGH/BAG/BSG/BFH/BVerwG/EuGH/EGMR-Homepage, dejure.org, openjur.de, curia.europa.eu) zu verifizieren**.
+> Diese Datei sammelt **Themen-Anker** für Rechtsprechungssuchen je Rechtsgebiet. Konkrete Entscheidungsangaben dürfen nur aus dokumentierten Quellenprüfungen stammen, nicht aus Modellwissen. Ein Themenhinweis ohne Entscheidungsnachweis bleibt ein Rechercheauftrag. Die exakten Aktenzeichen, Daten, Randnummern und die Übertragbarkeit sind **vor Verwendung im konkreten Mandat zu prüfen**. Korrekturen vom 30. September 2026 sind im [Quellenvermerk](../quality/source-audits/2026-09-30/zentrale-anker-und-versand.md) dokumentiert; sie bedeuten keine erneute Vollprüfung aller übrigen Einträge.
 >
 > **Diese Datei ist ein Suchgerüst, kein Zitatpool.**
 
@@ -9,7 +9,7 @@
 1. Skills dürfen die hier aufgeführten **Themen-Anker** als Such-Wegweiser verwenden, etwa: „Verwertung durch den Insolvenzverwalter nach den Paragrafen 159, 160, 163 und 165 ff. InsO; Pflichtmaßstab und Haftung nach Paragraf 60 InsO anhand des konkreten Vorgangs recherchieren".
 2. Skills dürfen **kein** vollständiges Zitat (Gericht + Datum + Az.) **als gesichert** ausgeben, das nicht entweder (a) vom Nutzer beigebracht oder (b) im Live-Zugriff verifiziert wurde.
 3. Die **Quellenhygiene** nach `references/quellenhygiene.md` gilt unverändert: keine BeckRS-, juris-, Kommentar-, Aufsatz-Blindzitate.
-4. Wer Anker hinzufügt: nur mit **Themenbeschreibung** und **wahrscheinlichem Spruchkörper** (BGH-Senat / BAG-Senat / Fachgericht), **ohne** ein konkretes Az. zu fingieren.
+4. Wer Anker hinzufügt: **Themenbeschreibung**, zuständigen Spruchkörper und Recherchequelle nennen. Ein konkretes Aktenzeichen zusätzlich nur mit geprüftem Entscheidungsdatum, amtlichem Link sowie tatsächlicher Aussage und Anwendungsgrenze aufnehmen; die Quellenprüfung separat dokumentieren.
 
 ## Format
 
@@ -64,7 +64,7 @@ Keine erfundenen Daten oder Az.; das ist die Aufgabe der Live-Recherche.
 
 - Eigenbedarfskündigung; Begründungsstandard, Vortäuschung — BGH VIII. Zivilsenat (umfangreiche Linie) — bundesgerichtshof.de
 - Sozialklausel § 574 BGB; Härtefall — BGH VIII. Zivilsenat — bundesgerichtshof.de
-- Mietminderung § 536 BGB; kraft Gesetzes, Quote — BGH VIII. Zivilsenat (VIII ARZ 2/02 vom 17.07.2002) — bundesgerichtshof.de
+- Mietminderung § 536 BGB; Darlegung wiederkehrender Beeinträchtigungen — [BGH, Urteil vom 29.02.2012 – VIII ZR 155/11, Rn. 17](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2011/VIII_ZR_155-11.pdf?__blob=publicationFile&v=1): konkreten Mangel sowie Art, ungefähre Zeiten, Dauer und Häufigkeit schildern; kein zwingendes Lärmprotokoll und keine Pflicht zur Darlegung einer bestimmten Minderungsquote. Grenze: Darlegungserleichterung ersetzt weder Beweis noch einzelfallbezogene Bewertung der Beeinträchtigung.
 - Schönheitsreparaturen; AGB-Klauseln, Quoten, „unrenoviert" — BGH VIII. Zivilsenat (mehrere Leitentscheidungen 2013-2019) — bundesgerichtshof.de
 - Mietpreisbremse §§ 556d ff. BGB; Rüge und Auskunft — BGH VIII. Zivilsenat — bundesgerichtshof.de
 - WEG-Beschlussanfechtung § 44 WEG (n. F.) / § 46 WEG (a. F.); Fristen — BGH V. Zivilsenat — bundesgerichtshof.de
@@ -72,7 +72,7 @@ Keine erfundenen Daten oder Az.; das ist die Aufgabe der Live-Recherche.
 
 ## Erbrecht
 
-- Pflichtteilsergänzung § 2325 BGB; Zehnjahresfrist und Abschmelzung — BGH IV. Zivilsenat (Linie um IV ZR 249/15) — bundesgerichtshof.de
+- Pflichtteilsergänzung § 2325 Absatz 3 BGB; Fristbeginn bei vorbehaltenem Wohnungsrecht — [BGH, Urteil vom 29.06.2016 – IV ZR 474/15, amtlicher Leitsatz](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2015/IV_ZR_474-15.pdf?__blob=publicationFile&v=1): Ein Wohnungsrecht kann den Fristbeginn ausnahmsweise hindern; im entschiedenen Fall wurde dies verneint. Umfang der zurückbehaltenen Nutzung konkret ermitteln; nicht jedes Wohnungsrecht verhindert die Abschmelzung.
 - Pflichtteilsstrafklausel im Berliner Testament; Auslegung — BGH IV. Zivilsenat — bundesgerichtshof.de
 - Erbschein § 2353 BGB; Einziehung § 2361 BGB — BGH IV. Zivilsenat / OLG — bundesgerichtshof.de
 - Testierfähigkeit § 2229 BGB; Demenz — OLGs, Auseinandersetzung BGH IV. Zivilsenat — bundesgerichtshof.de
@@ -103,17 +103,18 @@ Keine erfundenen Daten oder Az.; das ist die Aufgabe der Live-Recherche.
 
 - Verwertung, Zustimmungstatbestände und Haftung des Insolvenzverwalters — zuerst Paragrafen 159, 160, 163 und 165 ff. InsO sowie Paragraf 60 InsO bestimmen; nur danach nach einer sachverhaltsgleichen Entscheidung des BGH IX. Zivilsenats suchen — bundesgerichtshof.de
 - Vorsatzanfechtung § 133 InsO; Bargeschäfts-Ausnahme — BGH IX. Zivilsenat (Linienwandel seit BGH-Beschluss-Reihe ab 2021) — bundesgerichtshof.de
-- Insolvenzantragspflicht § 15a InsO; Drei-Wochen-Frist; § 15b InsO Zahlungsverbot — BGH II./IX. Zivilsenat — bundesgerichtshof.de
+- Insolvenzantragspflicht [§ 15a Absatz 1 InsO](https://www.gesetze-im-internet.de/inso/__15a.html): ohne schuldhaftes Zögern, spätestens drei Wochen nach Eintritt der Zahlungsunfähigkeit beziehungsweise sechs Wochen nach Eintritt der Überschuldung; Höchstfristen sind keine freien Wartefristen. § 15b InsO Zahlungsverbot gesondert prüfen — Rechtsprechung des BGH II./IX. Zivilsenats anhand des jeweiligen Insolvenzgrundes recherchieren — bundesgerichtshof.de
 - Eigenverwaltung / Schutzschirmverfahren § 270 ff. InsO — BGH IX. Zivilsenat — bundesgerichtshof.de
 - Insolvenzverwalter-Haftung § 60 InsO — BGH IX. Zivilsenat — bundesgerichtshof.de
-- Geschäftsveräußerung im Ganzen § 1 Ia UStG — EuGH (Zita Modes C-497/01, 27.11.2003; Schriever C-444/10, 10.11.2011); BFH (V R 11/13 v. 18.01.2017) — curia.europa.eu + bfh.bund.de
+- Geschäftsveräußerung im Ganzen § 1 Absatz 1a UStG; Fortführung durch Erwerber oder Pächter — [BFH, Urteil vom 13.11.2025 – V R 3/23, Leitsätze 1 und 2](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202610052/): Beim Durchgangserwerb genügt die Fortführungsabsicht des Letzterwerbers; bloße anschließende Verpachtung erlaubt dagegen keine Zurechnung der Betriebsfortführung des Pächters. Erwerbskette, Nutzungsüberlassung und tatsächlichen Betreiber getrennt prüfen. Die Veröffentlichung unter einer 2026-Kennung macht das Urteil nicht zur Entscheidung aus 2026.
 - StaRUG; Aufhebung der Restrukturierungssache nach Anzeige der Zahlungsunfähigkeit, Ermessen, Drittbeitrag, Rechtsschutzinteresse — BGH IX. Zivilsenat, Beschl. v. 23.04.2026 - IX ZB 18/25 (erste BGH-Entscheidung zum StaRUG; amtliches PDF vom Nutzer beigebracht, liegt der Testakte starug-aufhebung-holding-duesseldorf-ix-zb-18-25 bei) — dennoch vor Verwendung live verifizieren — bundesgerichtshof.de
 - StaRUG; Restrukturierungsbeauftragter, Stabilisierungsanordnung — LG (StaRUG-Gerichte); LG-Hannover/-Köln-Linie 2021-2024; live verifizieren — landesgerichte.de
 
 ## Versicherungsrecht
 
 - BU-Anerkenntnis / Nachprüfung — BGH IV. Zivilsenat — bundesgerichtshof.de
-- Anzeigepflicht § 19 VVG; Arglistanfechtung — BGH IV. Zivilsenat (IV ZR 104/17 v. 04.04.2018; mehrere Folgeentscheidungen) — bundesgerichtshof.de
+- Vorvertragliche Anzeigepflicht § 19 VVG und Arglistanfechtung § 22 VVG in Verbindung mit § 123 BGB — BGH IV. Zivilsenat; konkrete Fragen, Kenntnis, Verschulden und Belehrung anhand einer sachverhaltsgleichen Entscheidung recherchieren — bundesgerichtshof.de
+- Nachvertragliche Obliegenheiten in der Reiseabbruchversicherung — [BGH, Urteil vom 04.04.2018 – IV ZR 104/17, Leitsätze 1 und 2](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2017/IV_ZR_104-17.pdf?__blob=publicationFile&v=1): Klausel zum Attest eines Arztes am Aufenthaltsort und fehlender Klauselverweis auf § 28 Absatz 4 VVG. Grenze: Klauselkontrolle nach Versicherungsfall, kein Beleg zur vorvertraglichen Anzeige oder Arglist; die gesetzliche Belehrungspflicht wird dadurch nicht aufgehoben.
 - Obliegenheitsverletzung § 28 VVG; Belehrungserfordernis IV — BGH IV. Zivilsenat — bundesgerichtshof.de
 - D&O; Versicherungsfall / Claims-made — BGH IV. Zivilsenat — bundesgerichtshof.de
 - Rechtsschutz-Stichentscheid § 18 ARB; Vorvertraglichkeit — BGH IV. Zivilsenat — bundesgerichtshof.de

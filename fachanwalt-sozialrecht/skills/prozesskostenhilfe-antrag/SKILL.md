@@ -14,7 +14,7 @@ description: "Für Prozesskostenhilfe Antrag: erstellt Entwurf mit Antrag, Bewei
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Anwalt erstellt PKH-Antrag für Sozialgerichtsverfahren und muss alle Belege korrekt zusammenstellen. § 73a SGG iVm §§ 114 ff. ZPO. Prüfraster: Erklärung persönliche und wirtschaftliche Verhältnisse Formular ZP1a Nachweise Einkommen Vermögen Belastungen Miete Unterhalt. Beiordnungsantrag Rechtsanwalt kein Anwaltszwang vor SG aber Beiordnung möglich. Output: vollständiger PKH-Antrag mit Anlagenverzeichnis. Abgrenzung zu pkh-erfolgsaussicht-prüfen (Vorprüfung Erfolgsaussicht) und klage-sozialgericht.
+**Fokus:** Anwalt erstellt PKH-Antrag für Sozialgerichtsverfahren und muss alle Belege korrekt zusammenstellen. § 73a SGG iVm §§ 114 ff. ZPO. Prüfraster: Erklärung persönliche und wirtschaftliche Verhältnisse aktuelles amtliches PKH-Formular Nachweise Einkommen Vermögen Belastungen Miete Unterhalt. Beiordnungsantrag Rechtsanwalt kein Anwaltszwang vor SG aber Beiordnung möglich. Output: vollständiger PKH-Antrag mit Anlagenverzeichnis. Abgrenzung zu pkh-erfolgsaussicht-prüfen (Vorprüfung Erfolgsaussicht) und klage-sozialgericht.
 
 ### Prozesskostenhilfe-Antrag (Sozialgericht)
 
@@ -37,18 +37,18 @@ description: "Für Prozesskostenhilfe Antrag: erstellt Entwurf mit Antrag, Bewei
 
 - Klagepartei kann die Kosten der Prozessführung nicht ganz nicht zum Teil oder nur in Raten aufbringen.
 - Prüfung anhand Einkommen Vermögen und unterhaltsberechtigter Personen.
-- Sozialleistungsbezug (Bürgergeld Grundsicherung) typisch ausreichend für volle PKH ohne Raten.
+- Sozialleistungsbezug anhand Bescheid, Einkommen, Vermögen und Belastungen prüfen; er garantiert weder Bedürftigkeit noch Bewilligung ohne Raten.
 
 ### 2. Erfolgsaussicht
 
 - Hinreichende Aussicht auf Erfolg in der Hauptsache (§ 114 Abs. 1 Satz 1 ZPO).
-- Maßstab nicht überspannt — es reicht die nicht entfernt liegende Möglichkeit des Erfolgs.
+- Hinreichende Erfolgsaussicht konkret anhand Bescheidfehler, Anspruch und Belegen begründen; bloß entfernte Erfolgsmöglichkeit genügt nicht. Schwierige ungeklärte Rechts- oder Beweisfragen nicht unzulässig in die PKH-Prüfung vorverlagern.
 
 ### 3. Nicht Mutwilligkeit
 
 - Die Rechtsverfolgung muss notwendig erscheinen aus Sicht eines verständigen unbedürftigen Drittens.
 
-## Formular ZP1a — Erklärung über die persönlichen und wirtschaftlichen Verhältnisse
+## aktuelles amtliches PKH-Formular — Erklärung über die persönlichen und wirtschaftlichen Verhältnisse
 
 Pflichtfelder:
 
@@ -59,37 +59,46 @@ Pflichtfelder:
 - Vermögen (Konten Bargeld Wertpapiere Lebensversicherung Grundbesitz Fahrzeuge)
 - Belastungen (Schulden Unterhalt Wohnen Versicherung Pflege)
 - Wohnverhältnisse mit Miete
-- Unterschrift mit Belehrung Wahrheit / Strafbarkeit § 124 ZPO
+- Unterschrift und vollständige wahrheitsgemäße Angaben; Paragraf 124 ZPO regelt die Aufhebung, keine eigenständige Strafbarkeit
 
 ## Pflichtbelege
 
 - Bei Sozialleistungsbezug: aktueller Bewilligungsbescheid.
 - Bei Erwerbstätigkeit: letzte drei Lohnabrechnungen.
-- Kontoausuege der letzten drei Monate (alle Konten).
+- Kontoauszüge und weitere Vermögensbelege im für den konkreten Antrag beziehungsweise die gerichtliche Anforderung erforderlichen Umfang.
 - Mietvertrag und Nebenkostenabrechnung.
 - Belege Versicherungen und Schulden.
-- Bei Schwerbehinderung: Nachweis (kann Vermögensfreibetrag erhöhen).
+- Besondere Belastungen oder Mehrbedarfe nur mit konkreter Rechtsgrundlage und Nachweis ansetzen; ein Schwerbehindertenausweis erhöht nicht automatisch jeden Vermögensfreibetrag.
 
 ## Antragstexte
 
+```text
+An das Sozialgericht [Ort]
+Aktenzeichen: [Aktenzeichen]
+
+In dem Rechtsstreit [Name] gegen [Träger] beantrage ich namens und im
+Auftrag der klagenden Partei, Prozesskostenhilfe ohne Ratenzahlung zu
+bewilligen und Rechtsanwältin/Rechtsanwalt [Name] beizuordnen.
+
+Die beigefügte Erklärung über die persönlichen und wirtschaftlichen
+Verhältnisse mit den bezeichneten Belegen zeigt, dass die Partei die
+Prozesskosten nicht aus einzusetzendem Einkommen oder Vermögen tragen
+kann. [Die konkrete Berechnung und gegebenenfalls erforderliche Raten
+werden hier nach den belegten Verhältnissen erläutert.]
+
+Die Rechtsverfolgung hat hinreichende Aussicht auf Erfolg, weil
+[den konkreten Bescheidfehler, Anspruch und tragenden Nachweis in
+vollständigen Sätzen begründen; auf eine vorhandene Klagebegründung
+mit Datum und einschlägigem Abschnitt genau Bezug nehmen]. Sie ist
+nicht mutwillig, weil [auf den konkreten Verfahrensbedarf eingehen].
+Die Beiordnung ist erforderlich, weil [Komplexität, persönliche
+Möglichkeiten oder Vertretung der Gegenseite konkret erläutern].
+
+Die Erklärung und die im Anlagenverzeichnis bezeichneten Nachweise
+liegen diesem Antrag bei. [Nur tatsächlich beigefügte Unterlagen nennen.]
 ```
-An das Sozialgericht XYZ
-- Az ...
 
-In der Streitsache ... gegen ...
-
-beantrage ich namens und im Auftrag des Klägers:
-
-1. Bewilligung von Prozesskostenhilfe ohne Ratenzahlung;
-2. Beiordnung des unterzeichnenden Rechtsanwalts gemäß § 121 ZPO.
-
-Die Erklärung über die persönlichen und wirtschaftlichen Verhältnisse
-(Formular ZP1a) nebst Belegen ist beigefuegt.
-
-Erfolgsaussichten: Begründung siehe Klageschrift vom (Datum) Az (...).
-
-Mutwilligkeit liegt nicht vor.
-```
+Den Beispieltext anhand der Akte vollständig ausfüllen; bei fehlenden entscheidenden Angaben den belastbaren Teil liefern und gezielt nachfordern. Die noch erforderliche Erklärung nicht als bereits eingereicht darstellen.
 
 ## Sonderfälle
 
@@ -101,7 +110,7 @@ Mutwilligkeit liegt nicht vor.
 - `pkh-antrag-<az>-<datum>.docx`.
 - ZP1a-Formular ausgefüllt zur Unterschrift des Mandanten.
 - Belegliste mit Prüfer-Flag für fehlende Belege.
-- Eintrag im Fristenbuch — PKH-Antrag sollte zeitgleich mit Klage oder Widerspruch eingereicht werden.
+- Eintrag im Fristenbuch: gerichtlichen PKH-Antrag möglichst früh und vollständig stellen; Klage- und Rechtsmittelfristen unabhängig davon wahren. Für das behördliche Widerspruchsverfahren gegebenenfalls Beratungshilfe prüfen; dieses ist kein gerichtliches PKH-Verfahren.
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
 > **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
@@ -113,15 +122,17 @@ Mutwilligkeit liegt nicht vor.
 
 ## Hinweis Prüfer
 
-PKH-Bescheid des Gerichts mit Akte aufheben. Bei Ablehnung: Beschwerde § 127 ZPO iVm § 73a SGG (binnen einer Woche).
+PKH-Beschluss mit Bekanntgabe und Belehrung aufbewahren. Bei gerichtlicher Ablehnung zunächst die Beschwerdeausschlüsse des [Paragrafen 172 Absatz 3 Nummer 2 SGG](https://www.gesetze-im-internet.de/sgg/__172.html) prüfen: insbesondere persönliche oder wirtschaftliche Voraussetzungen, Zulassungsbedürftigkeit der Hauptsache und unanfechtbarer Beschluss in der Sache. Für eine statthafte Beschwerde gilt nach [Paragraf 173 SGG](https://www.gesetze-im-internet.de/sgg/__173.html) grundsätzlich ein Monat nach Bekanntgabe, keine Wochenfrist. Bei Entscheidungen des Urkundsbeamten nach Paragraf 73a Absätzen 4 oder 5 ist gegebenenfalls binnen eines Monats das Gericht nach Absatz 8 anzurufen; Landesrecht nach Absatz 9 beachten.
+
+PKH deckt einen Vorschuss für das Wunschgutachten nach Paragraf 109 Absatz 1 Satz 2 SGG nicht: [Paragraf 73a Absatz 3 SGG](https://www.gesetze-im-internet.de/sgg/__73a.html) lässt dessen besondere Kostenregel unberührt. Eine spätere Übernahme auf die Staatskasse ist gesondert zu entscheiden. Quellenstand dieser Verfahrenskorrekturen: 30.09.2026.
 
 ## Triage — kläre vor Antragstellung
 
-1. Sozialleistungsbezug (Bürgergeld, Grundsicherung, AsylbLG)? — typischerweise direkt Vollbewilligung ohne Raten
-2. Alle Pflichtbelege vollständig? — fehlendes ZP1a-Formular oder Kontoauszüge blockieren PKH-Bewilligung
-3. PKH-Antrag zeitgleich mit Klageschrift einreichen? — Antrag vor Urteil muss gestellt sein
+1. Sozialleistungsbezug (Bürgergeld, Grundsicherung, AsylbLG)? — Bedürftigkeit und übrige Voraussetzungen anhand Belegen prüfen; keine automatische Bewilligung
+2. Alle Pflichtbelege vollständig? — erforderliche Erklärung und konkrete Nachweise gezielt vervollständigen; gerichtliche Nachforderungsfrist sichern
+3. PKH-Antrag zeitgleich mit Klageschrift einreichen? — Antrag und vollständige Erklärung frühzeitig stellen; keine allgemeine rückwirkende Bewilligung versprechen
 4. Beratungshilfe für Vorverfahren (Widerspruch) separat beantragt beim zuständigen AG?
-5. PKH-Bescheid nach Bewilligung aufheben? — Änderungspflicht bei Verbesserung der wirtschaftlichen Lage (§ 120 ZPO)
+5. PKH-Beschluss nach Bewilligung aufbewahren; Mitteilung wesentlicher Verbesserungen und Anschriftenänderungen nach Paragraf 120a ZPO prüfen
 
 ## Aktuelle Rechtsprechung
 

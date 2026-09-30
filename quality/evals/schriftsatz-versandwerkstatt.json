@@ -52,6 +52,11 @@
       "url": "https://justiz.de/laender-bund-europa/elektronische_kommunikation/bundesanzeiger_29_07_2025.pdf",
       "checked_on": "2026-09-28",
       "supports": "Beide Seiten der amtlichen ERVB 2025 in gesonderter Quellenprüfung gelesen: Dateiformate, logische Nummerierung, 90 Zeichen sowie 1000 Dateien und 200 MB."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2022/VIII_ZB__80-22.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-30",
+      "supports": "Amtlichen Entscheidungskopf, Leitsatz und Rn. 26–29 gelesen: Dateiname und frei eingetragene Bezeichnung unterscheiden; die Ausgangskontrolle muss das tatsächlich übermittelte Dokument zuordnen. Keine Pflicht zum Anlagenstempel und kein Nachweis der Signatur oder materiellen Richtigkeit."
     }
   ],
   "mini_review": {
@@ -63,9 +68,10 @@
       "Leerstart: Versandmappe herstellen, Fassung abgleichen oder Eingang kontrollieren wählen.",
       "Eine ersetzte Anlage B3 verändert Fassungsbezug, Verweise und erneute Prüfungen; ein Teil-Eingangsbeleg lässt die übrigen Teile ausdrücklich offen.",
       "Freigegebene, signierte und nachträglich geänderte Fassungen trennen; Ersatzeinreichung nach Paragraf 130d und Nachreichung nach Paragraf 130a Absatz 6 ZPO nicht vermengen; Eingangsbelege jeder tatsächlich gesendeten Teilsendung zuordnen.",
-      "Anlagenplan statt Umbenennung; E-Mail-Anhänge und mehrseitige Scans vollständig zuordnen. Signaturausnahme eingrenzen, persönliche und qualifiziert signierte Route trennen. Keine Neuproduktion allein zur Bestätigung einer Sichtprüfung."
+      "Anlagenplan statt Umbenennung; E-Mail-Anhänge und mehrseitige Scans vollständig zuordnen. Signaturausnahme eingrenzen, persönliche und qualifiziert signierte Route trennen. Keine Neuproduktion allein zur Bestätigung einer Sichtprüfung.",
+      "Quellenabgleich 30.09.2026: VIII ZB 80/22 im amtlichen Volltext, Rn. 26–29, für die konkrete Dateizuordnung ergänzt."
     ],
-    "sha256": "588633c2756fdba21c05478718f2f0648920bed07173fa135054051237273ee2",
+    "sha256": "929a09f2ab87f3e96e157da4650a5831286a8b7d86f15da20d4ef240827d4ab1",
     "reviewed_on": "2026-09-28",
     "method": "desk_review"
   },
@@ -78,9 +84,10 @@
       "Leerstart: Versandmappe herstellen, Fassung abgleichen oder Eingang kontrollieren wählen.",
       "Eine ersetzte Anlage B3 verändert Fassungsbezug, Verweise und erneute Prüfungen; ein Teil-Eingangsbeleg lässt die übrigen Teile ausdrücklich offen.",
       "Freigegebene, signierte und nachträglich geänderte Fassungen trennen; Ersatzeinreichung nach Paragraf 130d und Nachreichung nach Paragraf 130a Absatz 6 ZPO nicht vermengen; Eingangsbelege jeder tatsächlich gesendeten Teilsendung zuordnen.",
-      "Anlagenplan statt Umbenennung; E-Mail-Anhänge und mehrseitige Scans vollständig zuordnen. Signaturausnahme eingrenzen, persönliche und qualifiziert signierte Route trennen. Keine Neuproduktion allein zur Bestätigung einer Sichtprüfung."
+      "Anlagenplan statt Umbenennung; E-Mail-Anhänge und mehrseitige Scans vollständig zuordnen. Signaturausnahme eingrenzen, persönliche und qualifiziert signierte Route trennen. Keine Neuproduktion allein zur Bestätigung einer Sichtprüfung.",
+      "Quellenabgleich 30.09.2026: VIII ZB 80/22 im amtlichen Volltext, Rn. 26–29, für die konkrete Dateizuordnung ergänzt."
     ],
-    "sha256": "dfed353152de9c9c861cef3c35becf4e811431285865dfffa66f834aeeeebb69",
+    "sha256": "957e1e18fb1e8ac75b301b04dc900ee5ae2932f604632fbb6160159784630ed4",
     "reviewed_on": "2026-09-28",
     "method": "desk_review"
   },
@@ -177,14 +184,14 @@
     ],
     "decisions": [
       {
-        "citation": "BGH, Beschluss vom 21.03.2023, VIII ZB 80/22",
-        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2023-3-21&Gericht=bgh&anz=20&nr=133514&pos=10",
-        "application": "Eingangsbestätigung der tatsächlich freigegebenen Endfassung über sinnvollen Dateinamen und Inhaltsvergleich zuordnen.",
-        "limit": "Amtlicher Leitsatz gelesen, Volltextzugriff gestört. Kein materieller Schriftsatzcheck; Dateiname und Status ersetzen Freigabe oder Signatur nicht."
+        "citation": "BGH, Beschluss vom 21.03.2023 – VIII ZB 80/22, Rn. 26–29",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2022/VIII_ZB__80-22.pdf?__blob=publicationFile&v=1",
+        "application": "Sprechenden Dateinamen vergeben und bei der Ausgangskontrolle der tatsächlich versandten Datei zuordnen; freie Beschreibung allein genügt nicht.",
+        "limit": "Organisationsanforderung an die Ausgangskontrolle; keine Anlagenstempelpflicht und keine materielle Prüfung. Amtlicher Volltext am 30.09.2026 in den Rn. 26–29 geprüft."
       }
     ],
     "remaining_limits": [
-      "Amtlicher Leitsatz gelesen, Volltextzugriff gestört. Kein materieller Schriftsatzcheck; Dateiname und Status ersetzen Freigabe oder Signatur nicht.",
+      "Beim früheren Prüflauf war nur der amtliche Leitsatz zugänglich. Am 30.09.2026 wurden Kopf, Leitsatz und Rn. 26–29 im amtlichen Volltext gelesen; keine erneute Vollprüfung aller Entscheidungsgründe. Kein materieller Schriftsatzcheck; Dateiname und Status ersetzen Freigabe oder Signatur nicht.",
       "Kein beA-Versand einer Mandantenakte und keine technische Live-Signaturvalidierung; lokaler Regressionstest mit synthetischen Dateien einschließlich Office-Konvertierung bestanden. Regionale Vorgaben vor konkretem Versand erneut prüfen.",
       "Individuelle redaktionelle Akten- und Quellenprüfung (desk review), kein Live-Client- oder Modelltest.",
       "Workflow-Vertiefung 2026-09-23: BGH VIII ZB 80/22 bleibt auf den zuvor zugänglichen amtlichen Leitsatz begrenzt. In diesem Workflow-Durchgang keine beA-, Konverter-, Signatur- oder Clientausführung; ältere dokumentierte lokale Regressionen werden nicht als neue Tests ausgegeben. Desk review; keine Live-Client-Ausführung.",
@@ -202,5 +209,15 @@
     "continuation": "Eine ersetzte Anlage B3 verändert Fassungsbezug, Verweise und erneute Prüfungen; ein Teil-Eingangsbeleg lässt die übrigen Teile ausdrücklich offen.",
     "enrichment": "Anlagenzuordnung ohne Umbenennung, begründete Ausschlüsse, vollständige E-Mail-Anhänge und TIFF-Seiten; signierte Originale schützen, qES-Personalroute korrekt unterscheiden und Freigabe an unveränderte Ausgabebytes binden.",
     "limits": "desk review; no live client execution"
+  },
+  "source_update_2026_09_30": {
+    "method": "targeted_official_passage_review",
+    "decision": {
+      "citation": "BGH, Beschluss vom 21.03.2023 – VIII ZB 80/22, Rn. 26–29",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2022/VIII_ZB__80-22.pdf?__blob=publicationFile&v=1",
+      "application": "Sprechenden Dateinamen vergeben und bei der Ausgangskontrolle der tatsächlich versandten Datei zuordnen; freie Beschreibung allein genügt nicht.",
+      "limit": "Organisationsanforderung an die Ausgangskontrolle; keine Anlagenstempelpflicht und keine materielle Prüfung. Amtlicher Volltext am 30.09.2026 in den Rn. 26–29 geprüft."
+    },
+    "limits": "Keine neue Gesamtprüfung aller Quellen oder Live-Modelltest."
   }
 }

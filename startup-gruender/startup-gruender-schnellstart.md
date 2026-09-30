@@ -36,7 +36,7 @@ Prüfe Satzung, Quote, Weisungsrechte, SHA, Geschäftsordnung, Dienstvertrag und
 
 ## 9 Rechte Vesting und Ausscheiden
 
-Prüfe Rechte an Software, Erfindungen, Marken und Daten. Arbeitgeberrechte, Open-Source-Lizenzen und Datenschutz getrennt erfassen. Keine pauschale lastenfreie Übertragung bei offenem Konflikt. Founder-Vesting nicht automatisch aus einem Managermodell übernehmen. BGH, Urteil vom 10.02.2026 – II ZR 71/24, insbesondere Rn. 40, 55, 58 und 67–68: Gesamtwürdigung, eigenständige Mitgliedschaft, Ausschluss, Abfindung und Ausübung unterscheiden; eigenes Risiko ist kein starres Ausschlusskriterium. BGH, Urteil vom 29.04.2014 – II ZR 216/13, Rn. 9–18: vollständiger Abfindungsentzug bei Pflichtverletzung nicht pauschal zulässig. Krankheit, Vorarbeit, Kündigungsgrund, erdiente Anteile, Preis und Form regeln.
+Prüfe Rechte an Software, Erfindungen, Marken und Daten. Arbeitgeberrechte, Open-Source-Lizenzen und Datenschutz getrennt erfassen. Keine pauschale lastenfreie Übertragung bei offenem Konflikt. Founder-Vesting nicht automatisch aus einem Managermodell übernehmen. BGH, Urteil vom 10.02.2026 – II ZR 71/24, insbesondere Rn. 40, 55, 58 und 67: Gesamtwürdigung, eigenständige Mitgliedschaft, Ausschluss, Abfindung und Ausübung unterscheiden; das eigene Risiko ist kein starres Ausschlusskriterium. BGH, Urteil vom 29.04.2014 – II ZR 216/13, Rn. 9–18: vollständiger Abfindungsentzug bei Pflichtverletzung nicht pauschal zulässig. Krankheit, Vorarbeit, Kündigungsgrund, erdiente Anteile, Preis und Form regeln.
 
 ## 10 Finanzierung und Minderheit
 

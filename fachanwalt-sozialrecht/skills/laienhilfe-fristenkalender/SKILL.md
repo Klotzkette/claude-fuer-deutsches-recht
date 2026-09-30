@@ -16,9 +16,9 @@ Dieser Skill erklaert **Fristenkalender** so, dass auch Menschen ohne juristisch
 - Berufungsfrist: § 151 SGG – einen Monat ab Zustellung Urteil; Nichtzulassungsbeschwerde § 145 SGG ebenfalls 1 Monat.
 - Revision: § 164 SGG – ein Monat ab Zustellung.
 - Fristberechnung: § 64 SGG – Monatsfrist endet am gleichen Tag des Folgemonats; faellt der auf Samstag/Sonntag/Feiertag → naechster Werktag.
-- Bekanntgabefiktion: § 37 Abs. 2 SGB X – Brief gilt am vierten Tag nach Aufgabe zur Post als zugegangen (PostModG seit 1.1.2025; vorher drei Tage). Gegenbeweis durch Empfaenger moeglich.
-- Wiedereinsetzung: § 67 SGG – binnen einer Woche ab Wegfall des Hindernisses (Krankheit, Postversaeumnis, etc.) mit Glaubhaftmachung.
-- Praxis-Tipp: Fristen sofort in mindestens drei Kanaelen sichern (Papierkalender + Smartphone-Alarm + Erinnerung 3 Tage vor Fristablauf). Briefumschlag mit Eingangsstempel sammeln. Bei Eilantraegen sofort und nicht erst gegen Fristende einreichen. Frist immer "worst case" rechnen (Tag des Bescheid + 4 Tage Bekanntgabefiktion + Monat = Frist).
+- Bekanntgabefiktion: [§ 37 Abs. 2 SGB X](https://www.gesetze-im-internet.de/sgb_10/__37.html) knüpft bei schriftlicher Inlandsübermittlung an den vierten Tag nach Aufgabe zur Post an, nicht an das Bescheiddatum. Bei Nichtzugang oder späterem Zugang greift diese Fiktion nicht; im Zweifel hat die Behörde Zugang und Zeitpunkt nachzuweisen. Zustellung und andere Übermittlungsformen gesondert prüfen.
+- Wiedereinsetzung: [§ 67 SGG](https://www.gesetze-im-internet.de/sgg/__67.html) – Antrag binnen eines Monats nach Wegfall des Hindernisses; Tatsachen glaubhaft machen und innerhalb dieser Frist die versäumte Rechtshandlung nachholen. Fehlendes Verschulden begründen; Krankheit oder Postprobleme genügen nicht automatisch. Die Jahresgrenze und Ausnahme höherer Gewalt gesondert prüfen.
+- Praxis-Tipp: Frist mit Auslöser, Übermittlungsweg, belegtem Datum und Ende sichern. Briefumschlag und Zugangsnachweise aufbewahren. Ist das Aufgabedatum unbekannt, eine vorläufige konservative Sicherungsfrist kennzeichnen und den Nachweis gezielt anfordern; aus dem Bescheiddatum keine vermeintlich gesicherte Frist errechnen. Ein Eilantrag wahrt nicht automatisch die Widerspruchs- oder Klagefrist.
 
 ## Erst sortieren
 

@@ -24,6 +24,8 @@ Bei Dienstfähigkeit Diagnose, funktionelle Einschränkungen, Prognose, Untersuc
 
 Bei Besoldung, Beihilfe oder Versorgung Zeitraum, Bescheidfassung, Berechnungsbestandteile, Anrechnung und gewünschte Korrektur ausweisen. Keine landesübergreifende Pauschalfrist oder allgemeine Berechnungsquote verwenden. Bei Disziplinarvorwürfen Tatsachen, Belege, Verfahrensstand und Äußerungsziel trennen; keine ungefragte Einlassung verfassen.
 
+Bei rassistischen oder NS-verharmlosenden Chats BVerwG, Urteil vom 11.06.2026, 2 C 12.25, Randnummern 23 bis 30 und 39 bis 46, anwenden: Vollständigen Kontext und innere Einstellung aufklären; der objektive Anschein allein trägt keine Verfassungstreuepflichtverletzung. Wohlverhaltenspflicht und Verfassungstreue unterscheiden. Kommunikation in besonderen Nähebeziehungen ist nicht pauschal unverwertbar, ihr Schutz tritt aber nicht bei jedem bloßen Wohlverhaltensvorwurf zurück. Keine automatische Entfernung allein aus einem isolierten Screenshot ableiten. [Amtlicher Volltext](https://www.bverwg.de/de/110626U2C12.25.0).
+
 ## 1.4. Belastbares Arbeitsprodukt
 
 Ein Eilentwurf enthält konkretes Sicherungsziel, Sachverhalt, Auswahlfehler, Eilgrund und Beweismittel; fehlende Aktenstellen bleiben markiert. Eine Beurteilungseinwendung verbindet den beanstandeten Maßstab mit Vergleichsdaten, nicht nur mit persönlicher Unzufriedenheit. Behördenkorrespondenz in vollständigen Sätzen schreiben und keine erfolgte Stillhaltezusage behaupten.

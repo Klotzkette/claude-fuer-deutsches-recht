@@ -208,7 +208,7 @@ Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fri
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: § 67 OWiG Einspruch 2 Wochen, § 31 OWiG Verjährung 3/6 Monate, § 26 StVG Fahrverbot 4 Monate, § 79 OWiG Rechtsbeschwerde 1 Woche.
+- Fristen und Eilrisiken zuerst markieren: § 67 OWiG Einspruch 2 Wochen; Verjährung nach Delikt und anwendbarer Fassung (aktuell § 26 Abs. 3 StVG grundsätzlich 6 Monate bei § 24 Abs. 1, §§ 31–33 OWiG); Fahrverbot § 25 Abs. 2, 3 und 6 StVG (grundsätzlich spätestens 1 Monat nach Rechtskraft wirksam, Viermonatsprivileg nur bei erfüllten Voraussetzungen; Verbotsfrist gesondert); § 79 OWiG Rechtsbeschwerde 1 Woche. Historische Fassung und Übergang prüfen; [amtlich belegte Einzelheiten](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/verkehrsowi-verteidiger/references/verkehrsowi-leitplanken.md).
 - Tragende Normen verifizieren: StVG §§ 24, 24a, 25, 26, OWiG §§ 17, 26a, 47, 65, 66, 67, 68, 73, 74, 79, 80, BKatV, BußgeldkatalogVO, StVO, FZV, MessgeräteG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Betroffener, Verteidiger, Bußgeldstelle (Polizei/Verwaltungsbehörde), Amtsgericht (Bußgeldrichter), OLG-Senat, PTB (Eichbehörde).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zeugenfragebogen, Anhörungsbogen, Bußgeldbescheid, Einspruchsschrift, Messprotokoll, Eichschein, Hauptverhandlungsprotokoll — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
@@ -277,7 +277,7 @@ _Für Messung, Punkte, Fahrverbot und Verteidigungsziel im Verkehrs-OWi: ordnet 
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: § 67 OWiG Einspruch 2 Wochen, § 31 OWiG Verjährung 3/6 Monate, § 26 StVG Fahrverbot 4 Monate, § 79 OWiG Rechtsbeschwerde 1 Woche.
+- Fristen und Eilrisiken zuerst markieren: § 67 OWiG Einspruch 2 Wochen; Verjährung nach Delikt und anwendbarer Fassung (aktuell § 26 Abs. 3 StVG grundsätzlich 6 Monate bei § 24 Abs. 1, §§ 31–33 OWiG); Fahrverbot § 25 Abs. 2, 3 und 6 StVG (grundsätzlich spätestens 1 Monat nach Rechtskraft wirksam, Viermonatsprivileg nur bei erfüllten Voraussetzungen; Verbotsfrist gesondert); § 79 OWiG Rechtsbeschwerde 1 Woche. Historische Fassung und Übergang prüfen; [amtlich belegte Einzelheiten](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/verkehrsowi-verteidiger/references/verkehrsowi-leitplanken.md).
 - Tragende Normen verifizieren: StVG §§ 24, 24a, 25, 26, OWiG §§ 17, 26a, 47, 65, 66, 67, 68, 73, 74, 79, 80, BKatV, BußgeldkatalogVO, StVO, FZV, MessgeräteG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Betroffener, Verteidiger, Bußgeldstelle (Polizei/Verwaltungsbehörde), Amtsgericht (Bußgeldrichter), OLG-Senat, PTB (Eichbehörde).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zeugenfragebogen, Anhörungsbogen, Bußgeldbescheid, Einspruchsschrift, Messprotokoll, Eichschein, Hauptverhandlungsprotokoll — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
@@ -306,7 +306,7 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
  - **4-5 Punkte:** Ermahnung; **6-7 Punkte:** Verwarnung mit Aufbauseminar-Hinweis; **8 Punkte:** Entziehung Fahrerlaubnis (zwingend, § 4 V StVG).
  - **Punkteabbau:** freiwilliges Fahreignungsseminar bei 1-5 Punkten = 1 Punkt Reduktion (nur einmal in 5 Jahren).
 - **Fahrverbot § 25 StVG:**
- - 1-3 Monate; Antritt regelmaessig nach Wahl binnen 4-Monatsfrist § 25 IIa StVG bei Ersttaeter; wiederholt sofort.
+ - Dauer 1–3 Monate; aktuell Wirksamkeit grundsätzlich spätestens 1 Monat nach Rechtskraft (§ 25 Abs. 2). Viermonatsprivileg nur unter Abs. 3, Verbotsfrist nach Abs. 6 gesondert. Historische Fassung und Übergang prüfen.
  - Bekannte Konstellationen: Geschwindigkeitsverstoss innerorts ab 31 km/h, ausserorts ab 41 km/h; Rotlicht qualifiziert (1+ Sek); Abstand unter 50% halber Tacho ab 80 km/h.
 - **Wegfall Fahrverbot wegen unzumutbarer Haerte** (OLG-Linie restriktiv):
  - Berufskraftfahrer (Existenzgefahr).
@@ -384,48 +384,46 @@ _Für Verfolgungsverjährung und Zustellungsmängel — Paragraf 31 OWiG: ordnet
 
 ## Arbeitsbereich
 
-Verfolgungsverjährung im OWi-Verfahren prüfen: Anwalt will Verjährungseinwand erheben. Normen: § 26 StVG i.V.m. § 31 OWiG (Verjährungsfrist 3 Monate nach Tatende), § 33 OWiG (Unterbrechungshandlungen), absolute Verjährung 6 Monate. Prüfraster: Tatdatum, Unterbrechungshandlungen, Zustellungsmaengel als Verjährungseinwand, Absolute-Verjährungs-Frist. Output Verjährungs-Berechnungs-Memo, Einwand-Schrift. Abgrenzung: Einspruchsfrist siehe verkehrsowi-fristen-einspruch; Zustellungsfehler siehe verkehrsowi-anhoerung-bußgeldbescheid. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Verfolgungsverjährung im OWi-Verfahren prüfen: Anwalt will Verjährungseinwand erheben. Normen: § 26 Abs. 3 StVG (aktuell grundsätzlich 6 Monate bei § 24 Abs. 1, gesetzliche Sonderfälle gesondert), §§ 31–33 OWiG (Beginn, Unterbrechung und Ruhen). Die Höchstfrist nach § 33 Abs. 3 beträgt die doppelte gesetzliche Frist, mindestens 2 Jahre; § 32 bleibt unberührt. Tatzeit, Gesetzesfassung und Übergang sind vor einer Berechnung zu klären. Prüfraster: Tatdatum, Unterbrechungshandlungen, Zustellungsmaengel als Verjährungseinwand, Absolute-Verjährungs-Frist. Output Verjährungs-Berechnungs-Memo, Einwand-Schrift. Abgrenzung: Einspruchsfrist siehe verkehrsowi-fristen-einspruch; Zustellungsfehler siehe verkehrsowi-anhoerung-bußgeldbescheid. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: § 67 OWiG Einspruch 2 Wochen, § 31 OWiG Verjährung 3/6 Monate, § 26 StVG Fahrverbot 4 Monate, § 79 OWiG Rechtsbeschwerde 1 Woche.
+- Fristen und Eilrisiken zuerst markieren: § 67 OWiG Einspruch 2 Wochen; Verjährung nach Delikt und anwendbarer Fassung (aktuell § 26 Abs. 3 StVG grundsätzlich 6 Monate bei § 24 Abs. 1, §§ 31–33 OWiG); Fahrverbot § 25 Abs. 2, 3 und 6 StVG (grundsätzlich spätestens 1 Monat nach Rechtskraft wirksam, Viermonatsprivileg nur bei erfüllten Voraussetzungen; Verbotsfrist gesondert); § 79 OWiG Rechtsbeschwerde 1 Woche. Historische Fassung und Übergang prüfen; [amtlich belegte Einzelheiten](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/verkehrsowi-verteidiger/references/verkehrsowi-leitplanken.md).
 - Tragende Normen verifizieren: StVG §§ 24, 24a, 25, 26, OWiG §§ 17, 26a, 47, 65, 66, 67, 68, 73, 74, 79, 80, BKatV, BußgeldkatalogVO, StVO, FZV, MessgeräteG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Betroffener, Verteidiger, Bußgeldstelle (Polizei/Verwaltungsbehörde), Amtsgericht (Bußgeldrichter), OLG-Senat, PTB (Eichbehörde).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zeugenfragebogen, Anhörungsbogen, Bußgeldbescheid, Einspruchsschrift, Messprotokoll, Eichschein, Hauptverhandlungsprotokoll — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Triage zu Beginn
 
-1. **Wann war das angebliche Tatdatum?** — Verjaerunsfrist laeuft ab Tatende.
-2. **Frist bei § 24 StVG / § 26a StVG?** — § 26 Abs. 3 StVG: 3 Monate Verjaerunsfrist für einfache Verkehrs-OWi.
-3. **Unterbrechungshandlungen geprueft?** — § 33 OWiG: Anhörung des Betroffenen, Bussgeldbescheid, Eingang Einspruch — unterbrechen Verjährung.
-4. **Absolute Verjährung?** — § 33 Abs. 3 OWiG: absolute Verjährung = doppelte ordentliche Frist (bei 3-Monats-Frist: 6 Monate).
-5. **Zustellungsfehler möglich?** — Fehlerhafte Zustellung unterbricht die Verjährung nicht; Bescheid gilt als nicht zugestellt.
+1. **Wann war die Tat beendet?** — Beginn nach § 31 Abs. 3 OWiG; bei einem später eintretenden tatbestandlichen Erfolg ist dessen Eintritt maßgebend.
+2. **Welcher Tatbestand und welche Gesetzesfassung gelten?** — Aktuell § 26 Abs. 3 StVG grundsätzlich 6 Monate bei § 24 Abs. 1; die dort genannten Sonderfälle haben 2 bzw. 5 Jahre. § 24a StVG nicht automatisch unter diese Sechsmonatsregel fassen. Historische Fälle benötigen eine belegte Anwendungs- und Übergangsprüfung.
+3. **Welche Unterbrechungshandlung ist belegt?** — § 33 Abs. 1 OWiG einzeln zuordnen: erste Vernehmung/Bekanntgabe oder deren Anordnung; Bußgeldbescheid nur nach Nr. 9; Akteneingang beim Amtsgericht nach Nr. 10. Der bloße Eingang eines Einspruchs ist kein eigener Unterbrechungstatbestand. Personenbezug und Zeitpunkt nach Abs. 2 und 4 prüfen.
+4. **Höchstfrist und Ruhen?** — § 33 Abs. 3 OWiG: doppelte gesetzliche Verjährungsfrist, mindestens 2 Jahre ab dem Zeitpunkt des § 31 Abs. 3; § 32 bleibt unberührt. Die gesetzliche Ausnahme bei zugleich strafbarer Tat beachten.
+5. **Zustellung oder Heilung belegt?** — § 33 Abs. 1 Nr. 9 OWiG: Erlass unterbricht, wenn der Bescheid binnen 2 Wochen zugestellt wird; andernfalls zählt die Zustellung. Einen Mangel, seinen möglichen Heilungszeitpunkt und andere Unterbrechungshandlungen getrennt prüfen.
 
 ## Zentrale Normen
 
-- **§ 31 OWiG** — Verfolgungsverjaehrung im OWi-Verfahren (allgemein); Grundfrist 3 Jahre für alle OWi
-- **§ 26 Abs. 3 StVG** — Verkehrs-OWi: 3 Monate Verjaerunsfrist ab Tatende (abgekuerzt gegenueber § 31 OWiG)
-- **§ 33 OWiG** — Unterbrechungshandlungen: Anhörung, Bussgeldbescheid, Einspruch, Hauptverhandlungstermin
-- **§ 33 Abs. 3 OWiG** — Absolute Verjährung: Doppelte ordentliche Frist; faengt nach jeder Unterbrechung neu an, aber nie nach absoluter Frist
-- **§ 28 OWiG** — Bekanntgabe des Bussgeldbescheids; fehlerhafte Bekanntgabe = keine Unterbrechung
-- **§ 33 OWiG i.V.m. §§ 177-182 ZPO** — Zustellungsvorschriften
+- **§ 31 Abs. 2 und 3 OWiG** — Ohne Sonderregelung richtet sich die Frist nach dem gesetzlichen Bußgeldhöchstmaß: 3 Jahre über 15.000 Euro; 2 Jahre über 2.500 bis 15.000 Euro; 1 Jahr über 1.000 bis 2.500 Euro; sonst 6 Monate. Tatbeendigung bzw. späterer tatbestandlicher Erfolg bestimmt den Beginn.
+- **§ 26 Abs. 3 StVG** — Aktuell grundsätzlich 6 Monate bei § 24 Abs. 1; die ausdrücklich genannten Fahrzeug-/Fahrzeugteilfälle 2 Jahre und bestimmte Fälle des § 24 Abs. 2 Satz 1 5 Jahre. Keine pauschale Frist für sämtliche Verkehrsordnungswidrigkeiten.
+- **§ 33 Abs. 1, 2 und 4 OWiG** — Gesetzlichen Unterbrechungstatbestand, dokumentierten Zeitpunkt und betroffene Person feststellen; nicht jede Anhörung und nicht der Einspruchseingang unterbrechen.
+- **§ 33 Abs. 3 OWiG** — Neubeginn nach wirksamer Unterbrechung; Höchstfrist doppelte gesetzliche Frist, mindestens 2 Jahre. Diese Höchstfrist läuft nicht nach jeder Unterbrechung neu; § 32 und die gesetzliche Straftat-Ausnahme bleiben zu prüfen.
+- **§ 32 OWiG** — Ruhen und Ablaufhemmung: Ein rechtzeitig ergangenes erstinstanzliches Urteil oder ein Beschluss nach § 72 verhindert den Fristablauf vor rechtskräftigem Verfahrensabschluss.
+- **§ 51 OWiG** — Zustellungsrecht der Verwaltungsbehörde: VwZG des Bundes oder einschlägiges Landesrecht, Empfangsberechtigung des Verteidigers und mehrere Zustellungen prüfen; mögliche Heilung etwa nach § 8 VwZG bzw. entsprechender Landesvorschrift berücksichtigen.
 
 ## Verjaerungs-Prüfschema
 
 ```
-1. Tatdatum: [DATUM]
-2. Verjährungsfrist:
- - Verkehrs-OWi § 26 Abs. 3 StVG: 3 Monate
- - Andere OWi § 31 OWiG: 3 Jahre
-3. Erste Verjaerungs-Deadline: Tatdatum + [Frist]
-4. Unterbrechungshandlungen nach § 33 OWiG:
- - Anhörungsschreiben: Datum + Zustellungsnachweis?
- - Bussgeldbescheid: Datum + Zustellungsnachweis?
-5. Neue Verjaerungs-Deadline nach letzter Unterbrechung
-6. Absolute Verjährung: Doppelte Grundfrist ab Tatende
- - Bei 3 Monaten: 6 Monate ab Tatende
-7. Ist absolute Verjährung abgelaufen? → Einstellung zwingend!
+1. Tatbestand, Tatende/Erfolg und anwendbare Gesetzesfassung: [belegte Daten]
+2. Gesetzliche Grundfrist: § 26 Abs. 3 StVG oder § 31 Abs. 2 OWiG; Sonderfall und Übergang begründen.
+3. Ersten Ablauf aus dem Zeitpunkt nach § 31 Abs. 3 OWiG berechnen.
+4. Jede behauptete Unterbrechung einzeln tabellarisch prüfen:
+ - Rechtsgrund aus § 33 Abs. 1, konkrete Handlung, Person, Datum, Aktenstelle.
+ - Bei schriftlicher Anordnung § 33 Abs. 2 beachten.
+ - Bußgeldbescheid: Erlassdatum und wirksame Zustellung innerhalb 2 Wochen? Sonst Zustellungsdatum.
+5. Bei wirksamer rechtzeitiger Unterbrechung neuen Ablauf berechnen; ein bereits eingetretener Fristablauf wird nicht beseitigt.
+6. Höchstfrist ab § 31 Abs. 3: doppelte gesetzliche Frist, mindestens 2 Jahre; bei 6 Monaten daher 2 Jahre.
+7. Ruhen/Ablaufhemmung nach § 32 gesondert eintragen; erst dann Verjährung und Einstellungsantrag abschließend beurteilen.
 ```
 
 ## Zustellungsmaengel als Verteidigung
@@ -433,22 +431,28 @@ Verfolgungsverjährung im OWi-Verfahren prüfen: Anwalt will Verjährungseinwand
 ```
 Zustellungsform pruefen:
 □ PZU (Postzustellungsurkunde): ordnungsgemaesse Haushaltszustellung?
-□ Einwurf-Einschreiben: Beweis des Einwurfs durch Einschreib-Beleg?
+□ Verwendete Zustellungsart nach § 51 OWiG und anwendbarem Zustellungsrecht zulässig? Ein Einwurfbeleg allein ersetzt diese Prüfung nicht.
 □ Persoenliche Uebergabe: quittiert?
 □ Zustellung an falschen Empfaenger?
 
 Wenn Zustellungsmangel vorliegt:
-→ Unterbrechung nach § 33 OWiG ist NICHT eingetreten
-→ Verjährungsfrist lief ununterbrochen weiter
-→ Moegliche Verjährung pruefen und Einstellung beantragen
+→ Heilung durch tatsächlichen Zugang beim Empfangsberechtigten und deren Zeitpunkt prüfen.
+→ Erlasswirkung binnen 2 Wochen bzw. spätere Zustellungswirkung nach § 33 Abs. 1 Nr. 9 abgleichen.
+→ Andere Unterbrechungshandlungen und § 32 gesondert prüfen; erst dann möglichen Verjährungseinwand formulieren.
 ```
 
 ## Harte Leitplanken
 
-- Verjährungseinwand ist Prozesshindernis — von Amts wegen zu beachten, muss aber in der Regel gerueagt werden.
-- Absolute Verjährung (§ 33 Abs. 3 OWiG) kann nicht durch neue Unterbrechungen ueberschritten werden.
+- Eingetretene Verjährung ist von Amts wegen zu beachten. Der Einwand soll aktenbelegt vorgetragen werden; eine Rüge ist keine Voraussetzung des Verfahrenshindernisses.
+- Neue Unterbrechungen setzen die Höchstfrist nach § 33 Abs. 3 nicht neu in Gang; § 32 bleibt ausdrücklich unberührt.
 - Zustellungsmangel-Prufung ist Standardbestandteil jedes OWi-Mandats.
 - Anwaltliche Endkontrolle bei Verjaerungs-Berechnung.
+
+## Ausgabe und Quellen
+
+Das Memo nennt in vollständigen Sätzen Tatbestand und anwendbare Fassung, berechnet den Ablauf anhand der Belegchronologie und erklärt jede Unterbrechung sowie § 32. Ein Einstellungsantrag wird erst nach diesem Abgleich ausformuliert. Verwende ausschließlich dezimale Gliederung, in formatierten Dokumenten soweit möglich Times New Roman 11 pt; keine bloßen Entwurfskelette.
+
+Amtlich geprüft am 30.09.2026: [§ 26 StVG](https://www.gesetze-im-internet.de/stvg/__26.html), [§ 31 OWiG](https://www.gesetze-im-internet.de/owig_1968/__31.html), [§ 32 OWiG](https://www.gesetze-im-internet.de/owig_1968/__32.html), [§ 33 OWiG](https://www.gesetze-im-internet.de/owig_1968/__33.html), [§ 51 OWiG](https://www.gesetze-im-internet.de/owig_1968/__51.html), [§ 8 VwZG](https://www.gesetze-im-internet.de/vwzg_2005/__8.html). Die konsolidierte aktuelle Fassung ersetzt keine Prüfung des Änderungs- und Übergangsrechts für ältere Fälle; hier wird kein ungeprüfter Änderungsstichtag behauptet.
 
 > Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
@@ -463,7 +467,7 @@ _Für Amtsgericht: Mandantenkommunikation und Entscheidungsvorlage: ordnet Norm,
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: § 67 OWiG Einspruch 2 Wochen, § 31 OWiG Verjährung 3/6 Monate, § 26 StVG Fahrverbot 4 Monate, § 79 OWiG Rechtsbeschwerde 1 Woche.
+- Fristen und Eilrisiken zuerst markieren: § 67 OWiG Einspruch 2 Wochen; Verjährung nach Delikt und anwendbarer Fassung (aktuell § 26 Abs. 3 StVG grundsätzlich 6 Monate bei § 24 Abs. 1, §§ 31–33 OWiG); Fahrverbot § 25 Abs. 2, 3 und 6 StVG (grundsätzlich spätestens 1 Monat nach Rechtskraft wirksam, Viermonatsprivileg nur bei erfüllten Voraussetzungen; Verbotsfrist gesondert); § 79 OWiG Rechtsbeschwerde 1 Woche. Historische Fassung und Übergang prüfen; [amtlich belegte Einzelheiten](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/verkehrsowi-verteidiger/references/verkehrsowi-leitplanken.md).
 - Tragende Normen verifizieren: StVG §§ 24, 24a, 25, 26, OWiG §§ 17, 26a, 47, 65, 66, 67, 68, 73, 74, 79, 80, BKatV, BußgeldkatalogVO, StVO, FZV, MessgeräteG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Betroffener, Verteidiger, Bußgeldstelle (Polizei/Verwaltungsbehörde), Amtsgericht (Bußgeldrichter), OLG-Senat, PTB (Eichbehörde).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zeugenfragebogen, Anhörungsbogen, Bußgeldbescheid, Einspruchsschrift, Messprotokoll, Eichschein, Hauptverhandlungsprotokoll — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
@@ -687,7 +691,7 @@ _Für Akteneinsicht: Internationaler Bezug und Schnittstellen: ordnet Akte, Bele
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: § 67 OWiG Einspruch 2 Wochen, § 31 OWiG Verjährung 3/6 Monate, § 26 StVG Fahrverbot 4 Monate, § 79 OWiG Rechtsbeschwerde 1 Woche.
+- Fristen und Eilrisiken zuerst markieren: § 67 OWiG Einspruch 2 Wochen; Verjährung nach Delikt und anwendbarer Fassung (aktuell § 26 Abs. 3 StVG grundsätzlich 6 Monate bei § 24 Abs. 1, §§ 31–33 OWiG); Fahrverbot § 25 Abs. 2, 3 und 6 StVG (grundsätzlich spätestens 1 Monat nach Rechtskraft wirksam, Viermonatsprivileg nur bei erfüllten Voraussetzungen; Verbotsfrist gesondert); § 79 OWiG Rechtsbeschwerde 1 Woche. Historische Fassung und Übergang prüfen; [amtlich belegte Einzelheiten](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/verkehrsowi-verteidiger/references/verkehrsowi-leitplanken.md).
 - Tragende Normen verifizieren: StVG §§ 24, 24a, 25, 26, OWiG §§ 17, 26a, 47, 65, 66, 67, 68, 73, 74, 79, 80, BKatV, BußgeldkatalogVO, StVO, FZV, MessgeräteG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Betroffener, Verteidiger, Bußgeldstelle (Polizei/Verwaltungsbehörde), Amtsgericht (Bußgeldrichter), OLG-Senat, PTB (Eichbehörde).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zeugenfragebogen, Anhörungsbogen, Bußgeldbescheid, Einspruchsschrift, Messprotokoll, Eichschein, Hauptverhandlungsprotokoll — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
@@ -745,7 +749,7 @@ _Für Punkte: Risikoampel, Gegenargumente und Verteidigungslinien: ordnet Norm, 
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: § 67 OWiG Einspruch 2 Wochen, § 31 OWiG Verjährung 3/6 Monate, § 26 StVG Fahrverbot 4 Monate, § 79 OWiG Rechtsbeschwerde 1 Woche.
+- Fristen und Eilrisiken zuerst markieren: § 67 OWiG Einspruch 2 Wochen; Verjährung nach Delikt und anwendbarer Fassung (aktuell § 26 Abs. 3 StVG grundsätzlich 6 Monate bei § 24 Abs. 1, §§ 31–33 OWiG); Fahrverbot § 25 Abs. 2, 3 und 6 StVG (grundsätzlich spätestens 1 Monat nach Rechtskraft wirksam, Viermonatsprivileg nur bei erfüllten Voraussetzungen; Verbotsfrist gesondert); § 79 OWiG Rechtsbeschwerde 1 Woche. Historische Fassung und Übergang prüfen; [amtlich belegte Einzelheiten](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/verkehrsowi-verteidiger/references/verkehrsowi-leitplanken.md).
 - Tragende Normen verifizieren: StVG §§ 24, 24a, 25, 26, OWiG §§ 17, 26a, 47, 65, 66, 67, 68, 73, 74, 79, 80, BKatV, BußgeldkatalogVO, StVO, FZV, MessgeräteG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Betroffener, Verteidiger, Bußgeldstelle (Polizei/Verwaltungsbehörde), Amtsgericht (Bußgeldrichter), OLG-Senat, PTB (Eichbehörde).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zeugenfragebogen, Anhörungsbogen, Bußgeldbescheid, Einspruchsschrift, Messprotokoll, Eichschein, Hauptverhandlungsprotokoll — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
@@ -786,12 +790,12 @@ _Für Härtefall-Argumentation beim Fahrverbot — Paragraf 25 StVG: ordnet Norm
 
 ## Arbeitsbereich
 
-Haertefall-Argumentation gegen Fahrverbot nach § 25 StVG: Mandant ist beruflich auf Führerschein angewiesen. Normen: § 25 StVG (Fahrverbot), § 25 Abs. 2a StVG (Wirkungszeitpunkt verschiebbar), § 17 Abs. 3 OWiG (Geldbusse erhoehen als Alternative). Prüfraster: Berufsbedingte Angewiesenheit, Existenzgefaehrdung, OLG-Rspr Haertefall-Prüfung, Absehen vs. Verzoegerung Fahrverbot. Output Haertefall-Begründung, Antrag Absehen vom Fahrverbot oder Erhoehung Geldbusse. Abgrenzung: Punkte Flensburg siehe verkehrsowi-punkte-fahrverbot-flensburg; HV-Vorbereitung siehe verkehrsowi-hauptverhandlung-amtsgericht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Haertefall-Argumentation gegen Fahrverbot nach § 25 StVG: Mandant ist beruflich auf Führerschein angewiesen. Normen: § 25 StVG (Fahrverbot), § 25 Abs. 2, 3 und 6 StVG (Wirksamkeit, Viermonatsprivileg und Verbotsfrist), § 17 Abs. 3 OWiG (Geldbusse erhoehen als Alternative). Prüfraster: Berufsbedingte Angewiesenheit, Existenzgefaehrdung, OLG-Rspr Haertefall-Prüfung, Absehen vs. Verzoegerung Fahrverbot. Output Haertefall-Begründung, Antrag Absehen vom Fahrverbot oder Erhoehung Geldbusse. Abgrenzung: Punkte Flensburg siehe verkehrsowi-punkte-fahrverbot-flensburg; HV-Vorbereitung siehe verkehrsowi-hauptverhandlung-amtsgericht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: § 67 OWiG Einspruch 2 Wochen, § 31 OWiG Verjährung 3/6 Monate, § 26 StVG Fahrverbot 4 Monate, § 79 OWiG Rechtsbeschwerde 1 Woche.
+- Fristen und Eilrisiken zuerst markieren: § 67 OWiG Einspruch 2 Wochen; Verjährung nach Delikt und anwendbarer Fassung (aktuell § 26 Abs. 3 StVG grundsätzlich 6 Monate bei § 24 Abs. 1, §§ 31–33 OWiG); Fahrverbot § 25 Abs. 2, 3 und 6 StVG (grundsätzlich spätestens 1 Monat nach Rechtskraft wirksam, Viermonatsprivileg nur bei erfüllten Voraussetzungen; Verbotsfrist gesondert); § 79 OWiG Rechtsbeschwerde 1 Woche. Historische Fassung und Übergang prüfen; [amtlich belegte Einzelheiten](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/verkehrsowi-verteidiger/references/verkehrsowi-leitplanken.md).
 - Tragende Normen verifizieren: StVG §§ 24, 24a, 25, 26, OWiG §§ 17, 26a, 47, 65, 66, 67, 68, 73, 74, 79, 80, BKatV, BußgeldkatalogVO, StVO, FZV, MessgeräteG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Betroffener, Verteidiger, Bußgeldstelle (Polizei/Verwaltungsbehörde), Amtsgericht (Bußgeldrichter), OLG-Senat, PTB (Eichbehörde).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zeugenfragebogen, Anhörungsbogen, Bußgeldbescheid, Einspruchsschrift, Messprotokoll, Eichschein, Hauptverhandlungsprotokoll — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
@@ -802,12 +806,12 @@ Haertefall-Argumentation gegen Fahrverbot nach § 25 StVG: Mandant ist beruflich
 2. **Ist der Mandant beruflich auf das Fahrzeug angewiesen?** — LKW-Fahrer, Vertreter, Pflegekraft, Taxi/Uber — Haertefall-Argumentation.
 3. **Existenzgefaehrdung nachweisbar?** — Drohende Kuendigung, Arbeitslosenunterstuetzung nicht ausreichend, Eigentümer Kleinstunternehmen.
 4. **Gibt es mildernde Tatumstaende?** — Dringende Notsituation, techisches Versagen, minimale Ueberschreitung.
-5. **Vier-Monats-Frist nutzbar?** — § 25 Abs. 2a StVG: Betroffener kann Beginn des Fahrverbots bis zu 4 Monate nach Rechtskraft hinauszogern (vorteilhaft für Urlaubszeit).
+5. **Viermonatsprivileg anwendbar?** — § 25 Abs. 3 StVG: Rechtskraft früherer Fahrverbotsentscheidungen in den 2 Jahren vor der Tat und bis zur neuen Entscheidung prüfen. Bei erfüllten Voraussetzungen muss die Behörde/das Gericht den gesetzlich vorgesehenen Aufschub bestimmen; Abs. 3 Nr. 1 und 2 nach Verwahrung/Vermerk unterscheiden. Sonst gilt Abs. 2: Wirksamkeit grundsätzlich spätestens 1 Monat nach Rechtskraft. Beginn der Verbotsfrist nach Abs. 6 getrennt berechnen.
 
 ## Zentrale Normen
 
 - **§ 25 Abs. 1 StVG** — Fahrverbot im OWi-Verfahren: 1 bis 3 Monate
-- **§ 25 Abs. 2a StVG** — Vier-Monats-Frist: Betroffener kann Antritt bis 4 Monate nach Rechtskraft hinausschieben
+- **§ 25 Abs. 2, 2a, 3 und 6 StVG** — Wirksamkeit, Verwahrung, gesetzliches Viermonatsprivileg und Beginn der Verbotsfrist sind getrennte Fragen. Die Viermonatsregel steht aktuell in Abs. 3. Historische Fassung und Übergang für Altfälle prüfen; keinen ungeprüften Stichtag unterstellen.
 - **§ 4 Abs. 1 BKatV** — Regelfahrverbot bei bestimmten Grenzwerten; kann unterschritten werden wenn Haertefall vorliegt
 - **§ 17 Abs. 3 OWiG** — Geldbusse als Alternative; Erhoehung möglich statt Fahrverbot
 - **§ 44 StGB** — Fahrverbot als strafrechtliche Nebenstrafe (andere Regelung als § 25 StVG)
@@ -839,24 +843,26 @@ MILDERNDE TATUMSTAENDE:
 □ Besondere Notlage zur Tatzeit (medizinischer Notfall, etc.)
 □ Ueberlange Verfahrensdauer (> 2 Jahre seit Tat)
 
-VIER-MONATS-FRIST (§ 25 Abs. 2a StVG):
-□ Antrag auf Verschiebung des Fristbeginns (z.B. auf Urlaubszeit)
-□ Zustimmung des Gerichts einholen
-□ Zeitplanung mit Mandant abstimmen
+VIERMONATSPRIVILEG (§ 25 Abs. 3 StVG, aktuelle Fassung):
+□ Rechtskraftdaten früherer Fahrverbote und die gesetzlichen Zeitfenster prüfen.
+□ Behördliche/gerichtliche Bestimmung und ggf. Erklärung nach Abs. 3 Nr. 2 prüfen.
+□ Wirksamkeit, tatsächliche Verwahrung/Vermerk und Berechnung nach Abs. 6 getrennt eintragen.
+□ Historische Anwendungs-/Übergangsfrage und Zeitplanung mit Mandant abstimmen.
 ```
 
 ## Schritt-für-Schritt-Workflow
 
 1. **Mandant über realistische Chancen aufklaeren** — Haertefall ist selten anerkannt.
 2. **Beweise sammeln:** Arbeitgeber-Bescheinigung, Einkommensnachweis, Alternativennachweis (OEPNV nicht erreichbar).
-3. **Vier-Monats-Frist als Alternative:** Wenn Haertefall nicht durchsetzbar, Fristverschiebung nach § 25 Abs. 2a StVG beantragen.
+3. **Viermonatsprivileg gesondert prüfen:** Bei Voraussetzungen des § 25 Abs. 3 StVG die entsprechende Bestimmung einfordern und dokumentieren; die Regel ist keine frei gewährbare Härtefallverlängerung.
 4. **Absehen vom Fahrverbot beantragen:** Statt Fahrverbot erhoehte Geldbusse; § 17 Abs. 3 OWiG i.V.m. § 4 Abs. 4 BKatV.
 5. **In der HV:** Haertefall-Argumente konkret und mit Belegen vortragen; pauschale Berufsnotwendigkeit genuegt nicht.
 
 ## Harte Leitplanken
 
 - Haertefall ohne Belege wird nicht anerkannt — Bescheinigungen und Nachweise zwingend.
-- Vier-Monats-Frist immer als Rueckfall-Option vorbereiten.
+- Viermonatsprivileg nur bei erfüllten gesetzlichen Voraussetzungen einplanen.
+- Aktuelle Absätze und Reichweite am 30.09.2026 gegen [§ 25 StVG](https://www.gesetze-im-internet.de/stvg/__25.html) geprüft; vorhandene ältere Rechtsprechung nicht ohne Prüfung der Normfassung auf die neue Absatzstruktur übertragen.
 - Mandant realistisch informieren — Fahrverbot ist die Regel, Ausnahme ist die Ausnahme.
 - Anwaltliche Endkontrolle bei Haertefall-Argumentation.
 
@@ -897,7 +903,7 @@ Dieser Arbeitsgang macht **Red-Team Qualitygate** im Bereich **verkehrsowi-verte
 ## Ergänzende Hinweise
 
 ## OWi-Red-Team-Checks
-- **Frist-Re-Check:** Einspruch § 67 OWiG 2 Wochen ab Zustellung; Rechtsbeschwerde §§ 79, 80 OWiG 1 Woche / 1 Monat; Verjährung § 26 III StVG 3 Monate (bis Bescheid) / 6 Monate (bis 1. Instanz Urteil); Unterbrechung § 33 OWiG.
+- **Frist-Re-Check:** Einspruch § 67 OWiG 2 Wochen ab Zustellung; Rechtsbeschwerde §§ 79, 80 OWiG 1 Woche / 1 Monat; Verjährung aktuell § 26 Abs. 3 StVG grundsätzlich 6 Monate für § 24 Abs. 1, Sonderfälle und historische Fassung prüfen; Unterbrechung/Höchstfrist nach § 33 OWiG (mindestens 2 Jahre), Ruhen/Ablaufhemmung § 32 OWiG. [Amtlich belegte Einzelheiten](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/verkehrsowi-verteidiger/references/verkehrsowi-leitplanken.md).
 - **BKatV-Re-Check:** Aktuelle Anlage zur StVO und § 26a StVG; Regelbusse, Punkte, Fahrverbote stets gegen Tatzeit prüfen; bei Änderungen lex mitior § 4 III OWiG.
 - **Messverfahren-Check:**
  - **Eichschein** im Tatzeitraum gueltig?
@@ -925,7 +931,7 @@ _Für Rotlicht: Schriftsatz-, Brief- und Memo-Bausteine: erstellt Entwurf mit An
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: § 67 OWiG Einspruch 2 Wochen, § 31 OWiG Verjährung 3/6 Monate, § 26 StVG Fahrverbot 4 Monate, § 79 OWiG Rechtsbeschwerde 1 Woche.
+- Fristen und Eilrisiken zuerst markieren: § 67 OWiG Einspruch 2 Wochen; Verjährung nach Delikt und anwendbarer Fassung (aktuell § 26 Abs. 3 StVG grundsätzlich 6 Monate bei § 24 Abs. 1, §§ 31–33 OWiG); Fahrverbot § 25 Abs. 2, 3 und 6 StVG (grundsätzlich spätestens 1 Monat nach Rechtskraft wirksam, Viermonatsprivileg nur bei erfüllten Voraussetzungen; Verbotsfrist gesondert); § 79 OWiG Rechtsbeschwerde 1 Woche. Historische Fassung und Übergang prüfen; [amtlich belegte Einzelheiten](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/verkehrsowi-verteidiger/references/verkehrsowi-leitplanken.md).
 - Tragende Normen verifizieren: StVG §§ 24, 24a, 25, 26, OWiG §§ 17, 26a, 47, 65, 66, 67, 68, 73, 74, 79, 80, BKatV, BußgeldkatalogVO, StVO, FZV, MessgeräteG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Betroffener, Verteidiger, Bußgeldstelle (Polizei/Verwaltungsbehörde), Amtsgericht (Bußgeldrichter), OLG-Senat, PTB (Eichbehörde).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zeugenfragebogen, Anhörungsbogen, Bußgeldbescheid, Einspruchsschrift, Messprotokoll, Eichschein, Hauptverhandlungsprotokoll — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.

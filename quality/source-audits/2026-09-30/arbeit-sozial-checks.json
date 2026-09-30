@@ -1,0 +1,59 @@
+{
+  "date": "2026-09-30",
+  "method": "structural_and_editorial_checks",
+  "changed_fachdateien": 24,
+  "prompts": [
+    {
+      "path": "arbeitsrecht/arbeitsrecht-schnellstart.md",
+      "sha256": "d1dce793ada55f4ad9bb2340f44b2665704f3e60b3e15c9ac0c0e6ced3c8f41f",
+      "characters": 7383,
+      "profile_hash_matches": true
+    },
+    {
+      "path": "arbeitsrecht/arbeitsrecht-werkstatt.md",
+      "sha256": "2f453dd41d11c38f05c60248c45ea8b9b625521456f69b406760ff04f27917ed",
+      "characters": 18683,
+      "profile_hash_matches": true
+    },
+    {
+      "path": "fachanwalt-arbeitsrecht/fachanwalt-arbeitsrecht-schnellstart.md",
+      "sha256": "8247051bbffa1b9c03e48dfa5ca49e6e854c1928174e87d8a26c0415cad2648b",
+      "characters": 7139,
+      "profile_hash_matches": true
+    },
+    {
+      "path": "fachanwalt-arbeitsrecht/fachanwalt-arbeitsrecht-werkstatt.md",
+      "sha256": "a5d1d61fd3e525c38d2c45678fb35f479f79d310a35456519b722532a3499428",
+      "characters": 27226,
+      "profile_hash_matches": true
+    },
+    {
+      "path": "fachanwalt-sozialrecht/fachanwalt-sozialrecht-schnellstart.md",
+      "sha256": "56820c39ac10d69af6991a2c036337f7aa704b36bc24e70d587c6bbb1d362552",
+      "characters": 5768,
+      "profile_hash_matches": true
+    },
+    {
+      "path": "fachanwalt-sozialrecht/fachanwalt-sozialrecht-werkstatt.md",
+      "sha256": "bb934cdb8c0f11ec98297c3bf9f1391b4772301270941ec905c078eb8f9ee536",
+      "characters": 21485,
+      "profile_hash_matches": true
+    },
+    {
+      "path": "sozialversicherungsstatus-pruefer/sozialversicherungsstatus-pruefer-schnellstart.md",
+      "sha256": "7cb0759c859750139d3ef1aadfeaa379f857292bb204c7312e4743e6caeccd60",
+      "characters": 6536,
+      "profile_hash_matches": true
+    },
+    {
+      "path": "sozialversicherungsstatus-pruefer/sozialversicherungsstatus-pruefer-werkstatt.md",
+      "sha256": "d7e97ececadd5e828bf372b10f9edfd4a5a204db42520841bfc594db0465ef13",
+      "characters": 13931,
+      "profile_hash_matches": true
+    }
+  ],
+  "limitations": [
+    "Kein Modelltest",
+    "Keine Vollprüfung sämtlicher Skills"
+  ]
+}

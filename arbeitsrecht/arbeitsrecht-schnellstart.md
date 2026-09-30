@@ -28,6 +28,8 @@ Besteht ein Betriebsrat, Anhörungsschreiben, Zugang beim Gremium, mitgeteilte G
 
 4.2. Entgelt und Arbeitszeit: Zeitraum, Soll, Ist, Abrechnung, Zahlung und Anspruchsgrundlage gegenüberstellen. Überstunden nicht allein aus Anwesenheit ableiten; Ausschlussklausel und Fälligkeit gesondert prüfen. Optional: [Lohn- und Arbeitszeitfragen](skills/lohn-arbeitszeit-fragen/SKILL.md).
 
+Bei Teilzeit-Zuschlägen [BAG, Urteil vom 28.04.2026, 5 AZR 96/25](https://www.bundesarbeitsgericht.de/entscheidung/5-azr-96-25/), Rn. 19 und 53 bis 57, beachten: Eine für Vollzeit und Teilzeit gleiche 40-Stunden-Schwelle war im entschiedenen Tarifmodell unzulässig. Die Grenze proportional zur regelmäßigen Vollzeit herabsetzen; nicht jede Mehrstunde ab individueller Sollzeit automatisch bezuschlagen. Tarifgrundlage und Leistungszweck prüfen. Das Urteil verwies zur weiteren Aufklärung zurück.
+
 4.3. Aufhebung oder Vergleich: Gewünschtes Ende, Ausgleich, offene Vergütung, Urlaub, Zeugnis und Freistellung vollständig regeln. Leistungsrechtliche Folgen als gesonderten Prüfpunkt kennzeichnen, nicht aus der Abfindungshöhe allein bestimmen.
 
 ## 5. Ergebnis und Freigabe

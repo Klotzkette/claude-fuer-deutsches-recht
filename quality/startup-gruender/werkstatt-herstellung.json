@@ -1,7 +1,7 @@
 {
-  "source_sha256": "82a407d98a29dca372847848b9f05d8faab9d88a98b3b1e9c3cce76b8b7e819a",
-  "docx_sha256": "551d59a2e0478fe526b90d3f9a4468a0c6e4c791c9205248ec95ae5b2a2c7d1d",
-  "pdf_sha256": "b92bffe4da5f479890eadec1d24d8185fea086841dca1a2fa267bcb44bebba9b",
+  "source_sha256": "ef596d5525b092351368dd658a5bd486c6744b5ce5868e4bb93a3692708be87e",
+  "docx_sha256": "bdbada76b7026125a0ce70cc55216415fb549c419d4cde42c68b917f87bcd5ee",
+  "pdf_sha256": "2cf9132a9cda59cd55cf2f4fdeab41db431c7628f1bcd2bc6458dff9ae530250",
   "pages": 40,
   "paragraphs_fully_preserved": 260,
   "source_hyperlinks": 125,
@@ -12,7 +12,7 @@
   "page_size": "A4",
   "manual_page_breaks": 0,
   "renderer_sha256": "ad13d8313ff0ba7d3e98a930ea75b986dad791ffd46268a23cbe239d595753cc",
-  "visual_review": "Alle 40 Seiten der finalen Times-New-Roman-Fassung als PNG in voller Auflösung visuell geprüft; keine Überlappungen, abgeschnittenen Zeilen, defekten Glyphen oder Layoutkorrekturen erforderlich.",
+  "visual_review": "30.09.2026: Alle 40 neu erzeugten PNG-Seiten einzeln visuell geprüft. Keine Überlappungen, abgeschnittenen Zeilen oder defekten Glyphen; korrigierte Randnummer 67 auf PDF-Seite 16 lesbar.",
   "visually_checked_pages": [
     1,
     2,
@@ -80,7 +80,7 @@
     "page-13.png": "e112748f08f0cef7e22f264dbb15284fe96167a1755f144ae40133419ed57b26",
     "page-14.png": "50cbc636cff592cc63694679a4e0626a6b72032500be1e5ad587ffe3714f6e5f",
     "page-15.png": "9e9f41f390cd98d29fc3573ccc18fe3f6c5f14ea5b7ed404b3ec88b5211023d1",
-    "page-16.png": "ce320db0258c0e23d251c327f87a1b7178993ea8f00550af3388f84d2fc60673",
+    "page-16.png": "566afa5a1bf0271b4ab301bb272c9cf4ead5f19bdb5020afc44d5b7f91659c5b",
     "page-17.png": "57599a5677fd580d6cd6f0158c49be59b3aa9274ca1a5b38dd17c2bfe72f120f",
     "page-18.png": "e3220be50b5977bcbe94a21a76f00941140c5f187ee52283c7ac1b2ef53e6985",
     "page-19.png": "d6c882b3271d61b4a710ed616ba85d0477768ba7b28e48731c3d702d12cbf398",
