@@ -22,6 +22,7 @@ Pflegegrad, Kalenderjahr, Ausfallgrund und tägliche Ausfalldauer, Ersatzperson 
 5. Abrechnungsblatt führen: Leistungsdatum, Anbieter, Kostenart, belegter Betrag, bereits erstattet, ausstehend und Budgetrest. Unterkunft und Verpflegung bei Kurzzeitpflege von pflegebedingten Kosten trennen; mögliche Nutzung des Entlastungsbetrags gesondert prüfen.
 6. Für Ersatzpflege ab 2026 Antrag mit Kostennachweis bis Ende des folgenden Kalenderjahres nach Paragraf 39 Absatz 1 einplanen. Keine vorherige Beantragung verlangen. Altfälle nicht ohne Prüfung der zeitlichen Geltung verwerfen. Die Anzeige des Dienstes bis zum Ende des Folgemonats nach Paragraf 42a Absatz 2 ist eine andere Pflicht.
 7. Bei abweichendem Kassenstand zunächst die verbuchten Leistungen konkret abfragen. Nach Antwort nur Differenzen nachrechnen und Antrag vervollständigen. Bei Ablehnung an `pflegebescheid-rechtsbehelf-erstellen` anschließen.
+8. Nach Tod des Versicherten zusätzlich Todestag, Erbenstellung, tatsächliche Zahlung vor dem Tod und bereits anhängiges oder abgeschlossenes Erstattungsverfahren sichern. Paragraf 35 Satz 3 SGB XI und Paragraf 59 SGB I gesondert prüfen. Hessisches LSG vom 22.06.2026, L 6 P 10/25, laut amtlicher Mitteilung vom 28.09.2026: Eine erstmals nach dem Tod beantragte, zuvor unbezahlte Ersatzpflegevergütung fiel nicht unter die Ausnahme. Die Zwölfmonatsfrist allein trägt keinen Erstattungsanspruch. Quellenstatus: amtliche Pressemitteilung, nicht hier geprüfter Volltext; vor tragender Schriftsatzverwendung Volltext nachlesen. Altfälle von der Erstattungsfrist ab 2026 unterscheiden.
 
 ## 4. Quellenpflicht
 
@@ -34,3 +35,5 @@ Centgenaues Belegblatt und vollständig ausformulierter Antrag mit Zeitraum, Kos
 ## 6. Beispiele
 
 Nach 2100 Euro Kurzzeitpflege sind 1439 Euro rechnerisch verfügbar. Hilft nun der im Haushalt lebende Sohn, werden seine Voraussetzungen und Auslagen geprüft; der Restbetrag wird ihm nicht automatisch zugesprochen.
+
+Ein Erbe legt nach dem Tod eine unbezahlte Rechnung vor: Zuerst Zahlungsbeleg und vorherigen Verfahrensstand klären, nicht allein wegen Einhaltung von zwölf Monaten einen sicheren Anspruch formulieren.

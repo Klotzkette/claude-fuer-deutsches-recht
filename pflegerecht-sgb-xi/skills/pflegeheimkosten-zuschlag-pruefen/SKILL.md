@@ -16,6 +16,7 @@ Heimvertrag mit Entgeltblättern, Pflegegrad, Einzugsdatum, frühere vollstation
 ## 3. Ablauf / Checkliste
 
 1. Dauerhafte vollstationäre Pflege nach Paragraf 43 von Tagespflege, Kurzzeitpflege und Einrichtungen nach Paragraf 43a SGB XI unterscheiden. Auf diese Fälle nicht automatisch die gleiche Zuschlagsrechnung anwenden.
+   Prüfe auch, ob eine Pflegesatzvereinbarung besteht oder nur Kostenerstattung nach Paragraf 91 Absatz 2 vorliegt. B 3 P 3/25 R zu Paragraf 43c und solchen Vorbezugszeiten ist am 30.09.2026 erst für 01.10.2026 angekündigt. Aktuellen amtlichen Stand prüfen; ohne Entscheidung kein höchstrichterlich gesichertes Ergebnis behaupten. Fehlende Vereinbarung gezielt anfordern und nur die hiervon abhängige Zuschlagsfrage offenhalten.
 2. Jede Rechnung in Pflegeaufwand, Ausbildungsanteile, Unterkunft, Verpflegung, Investitionskosten und Zusatzleistungen aufteilen; die jeweils zuschussfähige Bemessungsgrundlage anhand der Abrechnungsregeln prüfen. Kassenleistung nach Paragraf 43 zuerst zuordnen, nicht zweimal abziehen.
 3. Leistungsbezugsmonate nach Paragraf 43c einschließlich Teilmonaten und Voraufenthalten zählen. Bis einschließlich zwölf Monate 15 Prozent, mehr als zwölf 30 Prozent, mehr als 24 50 Prozent, mehr als 36 75 Prozent. Heimwechsel setzt die Uhr nicht zurück.
 4. Zuschlag ausschließlich auf den zutreffenden pflegebedingten Eigenanteil anwenden. Unterkunft, Verpflegung und Investitionskosten nicht miterlassen. Bei 1200 Euro relevanter Grundlage und 13 Monaten sind 360 Euro Zuschlag anzusetzen, nicht 30 Prozent der gesamten Heimrechnung.
@@ -26,6 +27,8 @@ Heimvertrag mit Entgeltblättern, Pflegegrad, Einzugsdatum, frühere vollstation
 ## 4. Quellenpflicht
 
 [Zitierweise](../../references/zitierweise.md), Paragrafen 43, 43a, 43c, 82 und 87a SGB XI. [Aktuelle Zuschlagsregel](https://www.gesetze-im-internet.de/sgb_11/__43c.html). Gesetzlicher Versicherungsanspruch und privatrechtliches Entgelt auseinanderhalten.
+
+[Offenes Verfahren und amtliche Terminvorschau](../../references/rechtsstand-und-quellen.md): Die Auffassung der Vorinstanz in B 3 P 3/25 R nicht als Urteil des BSG zitieren.
 
 ## 5. Ausgabeformat
 

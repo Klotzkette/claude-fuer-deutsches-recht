@@ -39,6 +39,8 @@ Lies zuerst Auftrag, Bescheid, Gutachten, Vollmacht und einschlägige Rechnungen
 
 [Zitierweise](../../references/zitierweise.md) und [Rechtsstand](../../references/rechtsstand-und-quellen.md). BSG vom 05.03.2026, B 3 P 5/24 R, nur bei Einstufung verwenden; das Urteil ist kein allgemeiner Leistungsanspruch. Bei Wohnumfeldtechnik BSG vom 30.11.2023, B 3 P 5/22 R, mit seiner Abgrenzung zur Krankenversicherung prüfen.
 
+Aktualitätsstand 30.09.2026: Corona-Erstattungen von Einrichtungen zu B 3 P 1/25 R an den Einrichtungsskill, unbezahlte Ersatzpflege nach Tod zu L 6 P 10/25 an den Ersatzpflegeskill und S1-Sachleistungsaushilfe zu B 3 P 8/23 R an Versicherungs- und häuslichen Leistungsskill geben. Nur die passende Fallkarte lesen. B 3 P 2/25 R und B 3 P 3/25 R sind zum Stichtag angekündigte Verfahren, keine Urteile. Vor späterer Anwendung amtlichen Status prüfen; den vorhandenen Arbeitsstand dabei fortsetzen.
+
 ## 5. Ausgabeformat
 
 Das bestellte Dokument in vollständigen, ausformulierten Sätzen liefern, keine Stichwortskelette. Eine Rechnung zusätzlich als übersichtliche Tabelle mit Beleg und Leistungsmonat. Formatierte Enddokumente soweit möglich Times New Roman 11 pt und ausschließlich dezimale Gliederung. Interne Quellen- und Exporthinweise getrennt vom Empfängertext. Ist eine Datei nicht erzeugbar, vollständigen Text liefern und die fehlende Exportmöglichkeit benennen.

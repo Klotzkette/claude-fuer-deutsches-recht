@@ -4,6 +4,31 @@
   "reviewed_on": "2026-09-30",
   "sources": [
     {
+      "url": "https://www.bsg.bund.de/DE/Verfahren/Verhandlungstermine/verhandlungstermine_uebersicht_2026.html",
+      "checked_on": "2026-09-30",
+      "supports": "Amtliche Übersicht: Pflegeurteile aus März und Juni; B 3 P 2/25 R und B 3 P 3/25 R am Stichtag nur für 01.10.2026 angekündigt."
+    },
+    {
+      "url": "https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2026/2026_06_18_B_03_P_01_25_R.html",
+      "checked_on": "2026-09-30",
+      "supports": "Volltext: Corona-Erstattung, fehlende Verwaltungsaktbefugnis, echte Leistungsklage, ungedeckte Ausschlussfrist, Verzugszinsen und Gerichtskosten."
+    },
+    {
+      "url": "https://sozialgerichtsbarkeit.hessen.de/presse/verhinderungspflege",
+      "checked_on": "2026-09-30",
+      "supports": "Amtliche Mitteilung vom 28.09.2026 zu L 6 P 10/25 vom 22.06.2026; kein hier geprüfter Volltext. Verhinderungspflege und Rechtsnachfolge."
+    },
+    {
+      "url": "https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2025/2025_11_13_B_03_P_03_24_R.html",
+      "checked_on": "2026-09-30",
+      "supports": "Volltext: kein automatischer vertraglicher Schadensersatz allein aus Aufhebung des Kündigungsbescheids."
+    },
+    {
+      "url": "https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2025/2025_06_12_B_03_P_08_23_R.html",
+      "checked_on": "2026-09-30",
+      "supports": "Volltext: Sachleistungsaushilfe ist kein deutsches Pflegegeldwahlrecht; eigene Versicherung und EU-Zuständigkeit prüfen."
+    },
+    {
       "url": "https://www.gesetze-im-internet.de/sgb_11/__15.html",
       "checked_on": "2026-09-30",
       "supports": "Punkteumrechnung, Module und Kinderzuordnung."
@@ -36,6 +61,78 @@
     ]
   },
   "cases": [
+    {
+      "id": "ersatzpflege-nach-tod",
+      "target_skill": "verhinderungs-kurzzeitpflege-abrechnen",
+      "request": "Meine Mutter starb 2022. Für Ersatzpflege aus 2020 bis 2022 wurden 4850 Euro vereinbart, aber nie bezahlt. Vor ihrem Tod gab es dazu keinen Erstattungsantrag und keine Feststellung. Ich habe als Erbe innerhalb von zwölf Monaten beantragt. Prüfe am 30.09.2026, ob allein diese Frist genügt, und entwirf eine Antwort. Vorhanden ist nur die amtliche Mitteilung vom 28.09.2026 zu L 6 P 10/25.",
+      "input_files": [],
+      "deliverables": ["antwort.md"],
+      "criteria": [
+        {"id": "C01", "text": "Trennt Paragraf 35 SGB XI von Paragraf 59 SGB I und verneint eine sichere Erstattung allein aufgrund der Zwölfmonatsfrist.", "deliverables": ["antwort.md"]},
+        {"id": "C02", "text": "Kennzeichnet L 6 P 10/25 als LSG-Entscheidung laut amtlicher Mitteilung, erfindet weder Volltextlektüre noch Randnummern.", "deliverables": ["antwort.md"]},
+        {"id": "C03", "text": "Prüft Zahlung und damaligen Verfahrensstand ohne die Erstattungsfrist ab 2026 rückwirkend anzuwenden; liefert einen vollständigen Antwortentwurf.", "deliverables": ["antwort.md"]}
+      ]
+    },
+    {
+      "id": "corona-erstattung-frist-und-klageart",
+      "target_skill": "pflegeeinrichtungen-verguetung-qualitaet-pruefen",
+      "request": "Ein zugelassener Heimträger verlangt nachgewiesene Corona-Mehraufwendungen aus Oktober bis Dezember 2021. Antrag vom 06.05.2022, Ablehnung nur wegen der in den Festlegungen genannten Frist 31.03.2022. Es liegen förmliche Ablehnungsbescheide vor. Erstelle anhand von B 3 P 1/25 R den Verfahrensvorschlag und einen verwendbaren Zahlungsantrag; über Verjährung und Rechtsbehelfszugang fehlen Angaben.",
+      "input_files": [],
+      "deliverables": ["antrag.md"],
+      "criteria": [
+        {"id": "C01", "text": "Ordnet BSG vom 18.06.2026 dem alten Paragraf 150 zu, nicht einer heutigen Förderung, und unterscheidet ungedeckte Festlegungsfrist von gesetzlichen Fristen.", "deliverables": ["antrag.md"]},
+        {"id": "C02", "text": "Erkennt echte Leistungsklage und gesonderte Anfechtung erlassener Formalverwaltungsakte; Bescheide nicht ignorieren.", "deliverables": ["antrag.md"]},
+        {"id": "C03", "text": "Fragt nach Zugang und Verjährungsdaten, prüft Zinsbeginn und Gerichtskosten nach Paragraf 197a SGG, ohne einen sicheren Erfolg zu versprechen.", "deliverables": ["antrag.md"]}
+      ]
+    },
+    {
+      "id": "ankuendigung-ist-kein-urteil",
+      "target_skill": "pflegeheimkosten-zuschlag-pruefen",
+      "request": "Heute ist der 30.09.2026. Das Heim hatte nur einen Versorgungsvertrag, keine Pflegesatzvereinbarung. Ich möchte den Zuschlag nach Paragraf 43c auf die Kostenerstattung nach Paragraf 91 Absatz 2 rechnen. B 3 P 3/25 R steht morgen im Kalender. Formuliere das Schreiben bitte nicht so, als sei schon entschieden.",
+      "input_files": [],
+      "deliverables": ["schreiben.md"],
+      "criteria": [
+        {"id": "C01", "text": "Kennzeichnet B 3 P 3/25 R als Terminvorschau für 01.10.2026, nicht als entschiedenes BSG-Urteil.", "deliverables": ["schreiben.md"]},
+        {"id": "C02", "text": "Trennt regulären Heimzuschlag von der offenen Kostenerstattungsfrage und rechnet nicht vorbehaltlos die Standardstufen.", "deliverables": ["schreiben.md"]},
+        {"id": "C03", "text": "Erstellt verwendbaren Antrag mit offengelegtem Streitpunkt und wahrt laufende Fristen, statt die gesamte Arbeit bis morgen einzustellen.", "deliverables": ["schreiben.md"]}
+      ]
+    },
+    {
+      "id": "entlastung-bezugspflege-offen",
+      "target_skill": "haeusliche-pflegeleistungen-planen",
+      "request": "Am 30.09.2026 soll ein Antrag zu Entlastungsleistungen mit Aufschlag für eine feste Bezugspflegekraft und Investitionskosten vorbereitet werden. Ich halte B 3 P 2/25 R für eine sichere höchstrichterliche Bestätigung dieser Kosten. Preisvereinbarung und getrennte Rechnungspositionen liegen noch nicht vor.",
+      "input_files": [],
+      "deliverables": ["antrag.md"],
+      "criteria": [
+        {"id": "C01", "text": "Korrigiert die behauptete Entscheidung: zum Stichtag nur Verhandlung für 01.10.2026 angekündigt.", "deliverables": ["antrag.md"]},
+        {"id": "C02", "text": "Fordert Vertrag, Preise und Kostenaufteilung nach und prüft Paragrafen 45b Absatz 4 und 89 statt pauschaler Zusage.", "deliverables": ["antrag.md"]},
+        {"id": "C03", "text": "Erstellt einen vorläufig verwendbaren Antrag, trennt unstreitige Positionen und kündigt keine automatische spätere Entscheidungskontrolle an.", "deliverables": ["antrag.md"]}
+      ]
+    },
+    {
+      "id": "s1-kein-pflegegeldwahlrecht",
+      "target_skill": "pflegeversicherung-beitraege-klaeren",
+      "request": "Meine Mutter lebt in Deutschland, erhält nur eine polnische Rente, ist ausschließlich dort versichert und hat S1-Sachleistungsaushilfe mit Pflegegrad 3. Sie möchte statt des Dienstes deutsches Pflegegeld. Bitte prüfe das anhand von B 3 P 8/23 R und erstelle das nächste zweckmäßige Schreiben.",
+      "input_files": [],
+      "deliverables": ["schreiben.md"],
+      "criteria": [
+        {"id": "C01", "text": "Begründet aus Sachleistungsaushilfe kein Wahlrecht auf deutsches Pflegegeld und errechnet nicht automatisch eine Kombination.", "deliverables": ["schreiben.md"]},
+        {"id": "C02", "text": "Knüpft an Versicherungszuordnung statt Staatsangehörigkeit an; überträgt das Ergebnis nicht pauschal auf Doppelrentner.", "deliverables": ["schreiben.md"]},
+        {"id": "C03", "text": "Prüft konkreten ausländischen Antrag und Weiterleitung, ohne aus Artikel 81 einen materiellen deutschen Leistungsanspruch abzuleiten.", "deliverables": ["schreiben.md"]}
+      ]
+    },
+    {
+      "id": "kuendigungsaufhebung-kein-haftungsautomatismus",
+      "target_skill": "pflegeeinrichtungen-verguetung-qualitaet-pruefen",
+      "request": "Die Kündigung des Versorgungsvertrags wurde wegen Begründungsfehlern aufgehoben. Der Heimträger will deshalb seinen gesamten entgangenen Gewinn ohne weitere Prüfung ersetzt verlangen. Bereite einen Brief zur Durchsetzung vor, aber ordne B 3 P 3/24 R korrekt ein. Zu Vertragsmängeln, milderen Mitteln und Schadenshöhe fehlen noch Belege.",
+      "input_files": [],
+      "deliverables": ["brief.md"],
+      "criteria": [
+        {"id": "C01", "text": "Leitet aus der Aufhebung nicht automatisch eine vertragliche Pflichtverletzung ab; prüft Paragraf 61 Satz 2 SGB X und Paragraf 280 BGB.", "deliverables": ["brief.md"]},
+        {"id": "C02", "text": "Fordert konkrete Angaben zu Kündigungssachverhalt und Verhältnismäßigkeit nach und wahrt die bestehende Aufhebung.", "deliverables": ["brief.md"]},
+        {"id": "C03", "text": "Erfindet weder Schadenssumme noch eine vom BSG entschiedene Beweislastregel zu Kausalität; formuliert die benötigte weitere Aufklärung verständlich.", "deliverables": ["brief.md"]}
+      ]
+    },
     {
       "id": "aufnahme-ohne-neustart",
       "target_skill": "pflegefall-bearbeiten",
@@ -375,6 +472,30 @@
     ],
     "decisions": [
       {
+        "citation": "Hessisches LSG, Urteil vom 22.06.2026, L 6 P 10/25",
+        "url": "https://sozialgerichtsbarkeit.hessen.de/presse/verhinderungspflege",
+        "application": "Zahlung vor Tod, Rechtsnachfolge und vorherigen Verfahrensstand prüfen; Zwölfmonatsfrist allein genügt nicht.",
+        "limit": "Amtliche Pressemitteilung vom 28.09.2026, kein hier geprüfter Volltext; Altleistungen nicht mit Frist ab 2026 vermischen."
+      },
+      {
+        "citation": "BSG, Urteil vom 18.06.2026, B 3 P 1/25 R",
+        "url": "https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2026/2026_06_18_B_03_P_01_25_R.html",
+        "application": "Ungedeckte Ausschlussfrist nach altem Paragraf 150; Formalverwaltungsakte und Zahlungsbegehren getrennt behandeln.",
+        "limit": "Gesetzliche Fristen, Verjährung und Verwirkung bleiben bestehen; keine neue Förderung heutiger Kosten."
+      },
+      {
+        "citation": "BSG, Urteil vom 13.11.2025, B 3 P 3/24 R",
+        "url": "https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2025/2025_11_13_B_03_P_03_24_R.html",
+        "application": "Kündigungssachverhalt und Verhältnismäßigkeit eigenständig für vertragliche Pflichtverletzung prüfen.",
+        "limit": "Keine automatische Haftung aus Bescheidaufhebung, aber auch kein allgemeiner Haftungsausschluss; Kausalität und Höhe nicht tragend."
+      },
+      {
+        "citation": "BSG, Urteil vom 12.06.2025, B 3 P 8/23 R",
+        "url": "https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2025/2025_06_12_B_03_P_08_23_R.html",
+        "application": "S1-Sachleistungsaushilfe, eigene Mitgliedschaft und EU-Geldleistungszuständigkeit vor Kombination trennen.",
+        "limit": "Keine Ablehnung nach Staatsangehörigkeit; Doppelrentner und eigene deutsche Versicherung gesondert prüfen."
+      },
+      {
         "citation": "BSG, Urteil vom 05.03.2026, B 3 P 5/24 R",
         "url": "https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2026/2026_03_05_B_03_P_05_24_R.html",
         "application": "Gewichtung der Module und besondere Bedarfskonstellation getrennt prüfen.",
@@ -396,7 +517,8 @@
     "remaining_limits": [
       "Redaktionelle Quellenprüfung und Ergebnisfälle, noch keine unabhängigen Modellläufe.",
       "Keine medizinische Diagnose oder verbindliche technische Rampenprüfung.",
-      "Landesrecht, Versicherungsvertrag und historische Beträge bleiben fallbezogen zu prüfen."
+      "Landesrecht, Versicherungsvertrag und historische Beträge bleiben fallbezogen zu prüfen.",
+      "B 3 P 2/25 R und B 3 P 3/25 R am 30.09.2026 nur Terminvorschauen, kein Urteilsergebnis."
     ]
   },
   "prompt_workflow_review": {
@@ -417,9 +539,9 @@
     "reason": "Eigenständige pflegeversicherungsrechtliche Fachwege mit Frist- und Kostengrenzen.",
     "changes": [
       "Aktueller Beratungsrhythmus, Ersatzpflegefrist und Heimzuschlag.",
-      "Drei eingegrenzte BSG-Fallanker und Fortsetzung bis zum Schreiben."
+      "Sieben eingegrenzte Entscheidungen und zwei als offen gekennzeichnete Verfahren; Fortsetzung bis zum Schreiben."
     ],
-    "sha256": "7dc68bb4a028834806798ff42d97b4214557499063f284759dabdd67ae7cf34f"
+    "sha256": "fecf42abcfb9b42c0a373041c84bf2eebc16f4916eabe053180b1cf4092e4bd4"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -428,6 +550,6 @@
       "Kriterienprüfung, Kostenzuordnung und Versicherungswege mit spezifischen Nachfragen.",
       "Ausformulierte Ergebnisarten, fachliche Grenzen und belastbare Fortsetzung."
     ],
-    "sha256": "dcfb5d41df967c1ed6db1c88568d59c52213cacf5cd1444687742ce305f3b98a"
+    "sha256": "8c5a610a7f41f23b66d29821b530a655dcf455c46f84ec94f9850909e785e272"
   }
 }

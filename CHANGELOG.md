@@ -1,3 +1,17 @@
+# v445.18.1 - Aktuelle Pflegeentscheidungen mit klaren Anwendungsgrenzen
+
+## 1. Rechtsprechung in den konkreten Arbeitsabläufen
+
+Vier zusätzliche Entscheidungen ergänzen die zehn Pflegerecht-Skills und beide eigenständigen Prompts: Corona-Erstattung von Einrichtungen, Verhinderungspflege nach dem Tod, Kündigung eines Versorgungsvertrags sowie EU-Sachleistungsaushilfe. Das Urteil des BSG vom 18.06.2026 und die am 28.09.2026 veröffentlichte LSG-Mitteilung sind mit ihren unterschiedlichen Quellenständen erfasst. Die Pflegegradprüfung unterscheidet die zulässige Berücksichtigung verschiedener Kriterien in Modulen 4 und 5 von der Höchstwertregel für Module 2 und 3.
+
+## 2. Angekündigte Verfahren bleiben offen
+
+B 3 P 2/25 R zu zusätzlichen Entlastungskosten und B 3 P 3/25 R zum Heimzuschlag ohne Pflegesatzvereinbarung sind zum Prüfdatum 30.09.2026 lediglich für 01.10.2026 angekündigt. Die Prompts geben weder Parteivorbringen noch Vorinstanz als Urteil des BSG aus. Historische Erstattungsregeln, gesetzliche Fristen und heutige Leistungsansprüche werden getrennt.
+
+## 3. Prüffälle und Veröffentlichung
+
+Sechs zusätzliche fachliche Ergebnisfälle und technische Regressionen sichern Quellenstatus, Zuordnung und eigenständige Nutzung. Der Mini bleibt unter 7500 UTF-8-Bytes. Eine zu lange Beschreibung des Einrichtungsskills wird unter die strengere Aktivierungsgrenze von 360 Zeichen gekürzt; diese Grenze hatte den Release-Build von v445.18.0 gestoppt und wird nun zusätzlich lokal abgesichert. Diese Prüfungen sind keine behaupteten unabhängigen Modellläufe. Bestehende Fallakten und andere Fachpakete bleiben inhaltlich unverändert.
+
 # v445.18.0 - Eigenständiges Pflegerecht nach SGB XI
 
 ## 1. Zehn konkrete Arbeitsgänge
