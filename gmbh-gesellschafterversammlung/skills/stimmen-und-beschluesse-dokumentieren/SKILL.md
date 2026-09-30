@@ -3,6 +3,8 @@ name: stimmen-und-beschluesse-dokumentieren
 description: Bereitet Abstimmungen in GmbH und UG vor und dokumentiert tatsächliche Stimmabgaben, Vollmachten, Mehrheiten, Stimmverbote und Ergebnisfeststellungen je Beschluss. Rechnet streitige Stimmen nachvollziehbar mit und ohne Berücksichtigung.
 ---
 
+# Stimmen und Beschlüsse dokumentieren
+
 ## 1 Zweck und Anwendungsfall
 
 Erstellen Sie einen nutzbaren Abstimmungsbogen oder werten Sie tatsächlich übermittelte Abstimmungen aus. Halten Sie Prognose, abgegebene Stimme, rechnerisches Ergebnis und tatsächlich erklärte Ergebnisfeststellung getrennt. Der Skill übernimmt weder die Funktion der Versammlungsleitung noch eine rechtsverbindliche Entscheidung über streitige Stimmrechte.

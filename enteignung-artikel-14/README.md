@@ -62,7 +62,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
-| [Verkehrsfläche Am Weidenrain in Göttingen](../testakten/enteignung-verkehrsflaeche-goettingen/README.md) | [Gesamt-PDF](../testakten/enteignung-verkehrsflaeche-goettingen/gesamt-pdf/enteignung-verkehrsflaeche-goettingen_gesamt.pdf) | [`testakte-enteignung-verkehrsflaeche-goettingen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.15.0/testakte-enteignung-verkehrsflaeche-goettingen.zip) | [`testakte-enteignung-verkehrsflaeche-goettingen-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.15.0/testakte-enteignung-verkehrsflaeche-goettingen-einzelpdfs.zip) |
+| [Verkehrsfläche Am Weidenrain in Göttingen](../testakten/enteignung-verkehrsflaeche-goettingen/README.md) | [Gesamt-PDF](../testakten/enteignung-verkehrsflaeche-goettingen/gesamt-pdf/enteignung-verkehrsflaeche-goettingen_gesamt.pdf) | [`testakte-enteignung-verkehrsflaeche-goettingen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.15.1/testakte-enteignung-verkehrsflaeche-goettingen.zip) | [`testakte-enteignung-verkehrsflaeche-goettingen-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.15.1/testakte-enteignung-verkehrsflaeche-goettingen-einzelpdfs.zip) |
 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->

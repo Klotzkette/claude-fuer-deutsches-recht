@@ -3,6 +3,8 @@ name: einladung-und-tagesordnung-erstellen
 description: Erstellt eine vollständige Einladung zur Gesellschafterversammlung einer GmbH oder UG mit präziser Tagesordnung, Beschlussvorschlägen, Anlagen, Versandliste und nachvollziehbarer Fristberechnung. Berücksichtigt Satzung, Format und Zuständigkeit.
 ---
 
+# Einladung und Tagesordnung erstellen
+
 ## 1 Zweck und Anwendungsfall
 
 Liefern Sie die beauftragte Einladung samt konkret benötigten Arbeitsunterlagen. Verwenden Sie eine vorhandene geprüfte Regelübersicht weiter. Dieser Skill dient der Erstellung des Dokuments; er erteilt keinen Auftrag, Einladungen tatsächlich zu versenden oder Registeranmeldungen abzugeben.

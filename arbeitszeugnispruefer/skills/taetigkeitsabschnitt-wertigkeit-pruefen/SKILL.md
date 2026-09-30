@@ -13,7 +13,9 @@ Positionsbezeichnung und Branchenübung sind nur Anhaltspunkte für weitere Sach
 
 ## 2. Ergebnis
 
-Ordne Tätigkeiten nach tatsächlicher Bedeutung und zeitlichem Gewicht. Nenne für jede Änderung den Aktenbeleg und kennzeichne offene Tatsachen. Erstelle einen vollständigen Tätigkeitsabschnitt, der Funktion, Kernaufgaben und gesicherte Verantwortung präzise abbildet, ohne werbliche Überhöhung oder unbelegte Abwertung.
+Ordne Tätigkeiten nach tatsächlicher Bedeutung und zeitlichem Gewicht. Bei Beförderungen, Vertretungen oder wechselnden Befugnissen bilde die belegten Zeitabschnitte ab; die zuletzt erreichte Stellung gilt nicht rückwirkend für die gesamte Beschäftigung. Nenne für jede Änderung die konkrete Tatsache und den sie tragenden Aktenbeleg mit Fundstelle. Trenne die Übertragung einer Aufgabe von ihrer tatsächlichen Ausübung und ihrem Erfolg. Ein Organigramm kann die Stellung, ein Projektbericht den eigenen Beitrag belegen; keiner ersetzt ohne Prüfung den anderen.
+
+Erstelle einen vollständigen Tätigkeitsabschnitt, der Funktion, Kernaufgaben und gesicherte Verantwortung präzise abbildet, ohne werbliche Überhöhung oder unbelegte Abwertung. Erhalte zutreffende Tätigkeiten und füge keine neue Leistungsbehauptung ein, nur um eine sachliche Lücke zu schließen. Bei einer Arbeitgebergegenfassung kommt es auf denselben zutreffenden Inhalt an; bloß andere gleichwertige Wörter begründen keinen weiteren Änderungsbedarf.
 
 ## 3. Fortführung des Auftrags
 

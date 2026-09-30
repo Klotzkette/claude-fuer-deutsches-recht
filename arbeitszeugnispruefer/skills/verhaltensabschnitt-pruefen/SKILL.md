@@ -11,11 +11,11 @@ Die Verhaltensbeurteilung gehört nach Paragraf 109 Absatz 1 Satz 3 GewO zum qua
 
 Ermittle anhand der tatsächlichen Funktion, gegenüber welchen Gruppen das Verhalten zu beurteilen ist, etwa Vorgesetzten, Mitarbeitern, Kollegen, Kunden oder Geschäftspartnern. Prüfe, ob prägende Gruppen fehlen und ob die Formulierung eine nachvollziehbare Gesamtbewertung enthält. Eine verbreitete Reihenfolge ist ein Auslegungshinweis, keine starre gesetzliche Rangfolge; eine Abweichung ist nur bei konkreter objektiver Nachteilswirkung erheblich.
 
-Formulierungen wie „stets einwandfrei“ können eine sehr gute Verhaltensbewertung anzeigen. Andere Wendungen sind nach Wortlaut, Steigerung und Gesamtzusammenhang einzuordnen. Unterstelle aus Wörtern wie „direkt“, „engagiert“ oder „zuvorkommend“ ohne tragfähigen Kontext weder Konfliktneigung noch persönliche oder sexuelle Eigenschaften. Benenne nur eine objektiv vertretbare Mehrdeutigkeit und trenne sie von tatsächlichen Feststellungen zur Person.
+Formulierungen wie „stets einwandfrei“ sind nach Wortlaut, Dauerbezug und Gesamtzusammenhang einzuordnen. Ist eine Aussage klar positiv, ohne dass die genaue numerische Abstufung belastbar feststeht, benenne genau dieses Ergebnis statt eine feste Schulnote zu erzwingen. Die Zufriedenheitsskala der Leistungsbewertung ist keine automatische Tabelle für Verhalten. Unterstelle aus Wörtern wie „direkt“, „engagiert“ oder „zuvorkommend“ ohne tragfähigen Kontext weder Konfliktneigung noch persönliche oder sexuelle Eigenschaften. Benenne nur eine objektiv vertretbare Mehrdeutigkeit und trenne sie von tatsächlichen Feststellungen zur Person.
 
 ## 2. Ergebnis
 
-Gib Originalwortlaut, erfasste und fehlende Bezugsgruppen, vertretbare Bewertungsstufe, objektive Wirkung und Beweisgrundlage an. Formuliere bei Änderungsbedarf einen vollständigen Satz, der die tatsächlich relevanten Gruppen und das belegte Bewertungsniveau klar erfasst. Vermische Verhaltensnote und Leistungsnote nicht.
+Gib Originalwortlaut, erfasste und fehlende Bezugsgruppen, belastbare Bewertungswirkung und Beweisgrundlage an. Ordne konkrete Konflikte oder positive Beispiele ihrem Zeitraum und ihrer Bezugsgruppe zu; ein einzelner Vorfall beschreibt nicht ohne Weiteres das gesamte Verhalten. Formuliere bei Änderungsbedarf einen vollständigen Satz, der die tatsächlich relevanten Gruppen und das belegte Bewertungsniveau klar erfasst. Vermische Verhaltensnote, Führungsleistung und Gesamtleistung nicht.
 
 ## 3. Fortführung des Auftrags
 

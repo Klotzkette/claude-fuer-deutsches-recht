@@ -1,0 +1,24 @@
+{
+  "version": "445.15.1",
+  "skill_count": 31,
+  "zip_files": 48,
+  "zip_sha256": "82cb94b1a6727b1257e277063ca4428c5ff170f3143c9f06e58ebd1eb3a5302f",
+  "zip_bytes": 185461,
+  "files": [
+    {
+      "path": "arbeitszeugnispruefer-schnellstart.md",
+      "bytes": 7491,
+      "sha256": "de026bb29a09b5edd84d7c0e32c9b648e77bfc9d958a420c1ba875dc501436c6"
+    },
+    {
+      "path": "arbeitszeugnispruefer-werkstatt.md",
+      "bytes": 55062,
+      "sha256": "4c9b0cf46627bfdd113a98f1041ee3bc8c82c10b76a9fff8712f962723f5fe0d"
+    },
+    {
+      "path": "arbeitszeugnispruefer.zip",
+      "bytes": 185461,
+      "sha256": "82cb94b1a6727b1257e277063ca4428c5ff170f3143c9f06e58ebd1eb3a5302f"
+    }
+  ]
+}

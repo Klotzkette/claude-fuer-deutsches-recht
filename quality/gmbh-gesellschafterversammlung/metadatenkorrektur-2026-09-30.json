@@ -1,0 +1,90 @@
+{
+  "checked_on": "2026-09-30",
+  "scope": "Die description des Hauptskills wurde von 387 auf 318 Zeichen gekürzt. Fünf Fachskills erhalten jeweils nur eine H1-Hauptüberschrift. Die übrigen Skill-Inhalte sind bytegleich mit dem historischen Probelaufstand.",
+  "historical_proof": {
+    "manifest": "quality/gmbh-gesellschafterversammlung/dateimanifest.json",
+    "checked_on": "2026-09-29",
+    "manifest_sha256": "92b14e499e70532da45ccbc3b12b42972baceedc2268bd1477f68db171d02b95",
+    "unchanged": true,
+    "limitation": "Die dokumentierten Modellprobeläufe beziehen sich weiterhin auf den damaligen Dateistand. Die Metadatenkorrektur ist kein neuer Modellprobelauf und kein Nachweis automatischer Skill-Auswahl."
+  },
+  "technical_checks": [
+    {
+      "command": "python3 scripts/audit-skill-activation.py",
+      "exit_code": 0,
+      "result": "22.503 Skill-Dateien; keine Beanstandung der Auswahlsignale."
+    },
+    {
+      "command": "python3 scripts/test-skill-selection.py",
+      "exit_code": 0,
+      "result": "11 Regressionstests bestanden."
+    },
+    {
+      "command": "python3 scripts/test-official-plugin-validation.py",
+      "exit_code": 0,
+      "result": "10 isolierte Regressionstests bestanden; kein Nachweis eines echten externen CLI-Validierungslaufs."
+    },
+    {
+      "command": "python3 scripts/audit-skill-selection.py",
+      "exit_code": 0,
+      "result": "253 Plugins, 22.503 Skills und 460 Umstellungen geprüft; keine Fehler. Die 1.178 weiteren gleichnamigen Titel bleiben fachliche Prüfkandidaten und sind kein Fehlerstatus."
+    }
+  ],
+  "changed_files": [
+    {
+      "path": "gmbh-gesellschafterversammlung/skills/gesellschafterversammlung-organisieren/SKILL.md",
+      "historically_tested_sha256": "b06f367ce12d415f8fe613018ec135bed858d9dc3c14f72f88c6f19961d407e9",
+      "current_sha256": "da812695d1cf9fb4f57dca4412791969e9c96a09686b9aca5200d21958a8d355",
+      "unchanged_markdown_body_sha256": "7256a0521e9b3367ad8e10fd6c73a4393401f939273699fd465eff1d499db28c",
+      "change": "Nur description gekürzt; Markdown-Inhalt nach dem Frontmatter unverändert."
+    },
+    {
+      "path": "gmbh-gesellschafterversammlung/skills/einladung-und-tagesordnung-erstellen/SKILL.md",
+      "change": "Nur H1 ergänzt: Einladung und Tagesordnung erstellen.",
+      "historically_tested_sha256": "06f5a3012047baed099239b9909b47d21945909a92222b974d79422e1c5f84da",
+      "current_sha256": "b151930fc582e1b22ce31e176cc525e9926252f55a513ca3edc475068e0e25e9",
+      "unchanged_body_without_added_heading_sha256": "e2b9949a0a9e72cb4d3e3bbbcd4421cf461a48bde29205c2ced40dbfc19f5144"
+    },
+    {
+      "path": "gmbh-gesellschafterversammlung/skills/nachtraege-und-minderheitsverlangen-bearbeiten/SKILL.md",
+      "change": "Nur H1 ergänzt: Nachträge und Minderheitsverlangen bearbeiten.",
+      "historically_tested_sha256": "6ba7af751bc5313fc3caf13dc22c7e28c8d331fdfee56653ce2c971cc82633fe",
+      "current_sha256": "bc2da27f6e07ec3f7953b21de928f58a3edeeea1aa1e28c11f9957aeaef50e58",
+      "unchanged_body_without_added_heading_sha256": "13f96bbc818dda0f9241d99eb64839c504af5cd0b12f2da58fc2ae4b57a89fc2"
+    },
+    {
+      "path": "gmbh-gesellschafterversammlung/skills/protokoll-und-vollzug-vorbereiten/SKILL.md",
+      "change": "Nur H1 ergänzt: Protokoll und Vollzug vorbereiten.",
+      "historically_tested_sha256": "50ee53326785e6ee31c3b2d600c2342358434f7fe9f6372b38709beefda4e975",
+      "current_sha256": "8bc47d570f6f7e475ad819d0748ea7390641ca9f94ff5b1f5b18fdb2d184ab99",
+      "unchanged_body_without_added_heading_sha256": "c8359d54ec3a5d66c1d18c06cb47ecc4913a4fd973fc774123466fe95a098886"
+    },
+    {
+      "path": "gmbh-gesellschafterversammlung/skills/stimmen-und-beschluesse-dokumentieren/SKILL.md",
+      "change": "Nur H1 ergänzt: Stimmen und Beschlüsse dokumentieren.",
+      "historically_tested_sha256": "3b2738244d8516d53b98fcb4b30c6fc6d5a73f731c8b1d821e4b66b3c598d067",
+      "current_sha256": "f837bc1e450ee46cd4883444b0a8d57ec743feadda0239dd1dd551a343f7fa8b",
+      "unchanged_body_without_added_heading_sha256": "5a92ea2d67b5c25ed14e6c6f4f8f78c5d1e56689a83dce8b5779b41187d5b0f7"
+    },
+    {
+      "path": "gmbh-gesellschafterversammlung/skills/unterlagen-und-versammlungsregeln-pruefen/SKILL.md",
+      "change": "Nur H1 ergänzt: Unterlagen und Versammlungsregeln prüfen.",
+      "historically_tested_sha256": "a10c213f7cb82b54e73b927bfc4398d94777496f0322b3932c98c331d9799be7",
+      "current_sha256": "4b596d8c8922851d4fe63cfe40f2ac24264d5fc50d65f9c58a795b0d0966a79b",
+      "unchanged_body_without_added_heading_sha256": "534677258f82039936ddbcefab0e82369586e33f7ad30a0e0134375402f7555d"
+    }
+  ],
+  "initial_finding_before_heading_correction": {
+    "command": "python3 scripts/audit-skill-selection.py",
+    "exit_code": 1,
+    "result": "253 Plugins, 22.503 Skills und 460 Umstellungen geprüft. Fünf bereits vorhandene fehlende H1-Hauptüberschriften in den unten genannten Fachskills; 1.178 gleichnamige Titel sind lediglich Prüfkandidaten.",
+    "missing_main_heading": [
+      "gmbh-gesellschafterversammlung/skills/einladung-und-tagesordnung-erstellen/SKILL.md",
+      "gmbh-gesellschafterversammlung/skills/nachtraege-und-minderheitsverlangen-bearbeiten/SKILL.md",
+      "gmbh-gesellschafterversammlung/skills/protokoll-und-vollzug-vorbereiten/SKILL.md",
+      "gmbh-gesellschafterversammlung/skills/stimmen-und-beschluesse-dokumentieren/SKILL.md",
+      "gmbh-gesellschafterversammlung/skills/unterlagen-und-versammlungsregeln-pruefen/SKILL.md"
+    ]
+  },
+  "technical_checks_run_after": "Description-Kürzung und Ergänzung der fünf H1-Hauptüberschriften."
+}

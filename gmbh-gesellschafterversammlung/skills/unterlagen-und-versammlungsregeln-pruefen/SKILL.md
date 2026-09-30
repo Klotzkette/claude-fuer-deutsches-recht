@@ -3,6 +3,8 @@ name: unterlagen-und-versammlungsregeln-pruefen
 description: Prüft Satzung, Gesellschafterliste und weitere Unterlagen einer GmbH oder UG auf ihren Stand und leitet die Regeln für eine konkrete Gesellschafterversammlung mit belegten Fundstellen ab. Liefert einen nutzbaren Verfahrensvermerk und gezielte Nachforderungen.
 ---
 
+# Unterlagen und Versammlungsregeln prüfen
+
 ## 1 Zweck und Anwendungsfall
 
 Erstellen Sie aus den vorhandenen Unterlagen die verlässliche Arbeitsgrundlage für die beauftragte Versammlung einer GmbH oder UG (haftungsbeschränkt). Der Skill kann allein für einen Verfahrensvermerk oder als Vorbereitung einer Einladung eingesetzt werden. Er setzt weder einen Durchlauf aller anderen Skills noch eine erneute Mandatsaufnahme voraus.

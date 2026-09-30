@@ -1,6 +1,6 @@
 ---
 name: gesellschafterversammlung-organisieren
-description: "Organisiert eine Gesellschafterversammlung einer GmbH oder UG von den vorhandenen Unterlagen über Einladung und Nachträge bis zum ausfüllbaren Versammlungsleitfaden, tatsächlichen Protokoll und Vollzug. Hauptproblem-Skill für den gesamten Vorgang; auch bei bereits begonnener Einladung oder einem konkreten TOP direkt einsteigen. Keine AG-Hauptversammlung und keine Unternehmensgründung."
+description: "Organisiert GmbH- und UG-Gesellschafterversammlungen von Unterlagen, Einladung und Nachträgen bis zu ausfüllbarem Leitfaden, tatsächlichem Protokoll und Vollzug. Hauptproblem-Skill für den gesamten Vorgang; Einstieg auch bei begonnener Einladung oder konkretem TOP. Keine AG-Hauptversammlung oder Unternehmensgründung."
 ---
 
 # Gesellschafterversammlung organisieren

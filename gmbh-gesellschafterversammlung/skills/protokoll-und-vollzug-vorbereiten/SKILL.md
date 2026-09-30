@@ -3,6 +3,8 @@ name: protokoll-und-vollzug-vorbereiten
 description: Erstellt einen ausformulierten Versammlungsleitfaden für GmbH und UG, führt tatsächliche Sitzungsangaben zu einem Protokoll zusammen und bereitet konkrete Vollzugsschritte vor. Trennt geplante Sprechtexte, beobachtete Vorgänge und offene Nachweise.
 ---
 
+# Protokoll und Vollzug vorbereiten
+
 ## 1 Zweck und Anwendungsfall
 
 Liefern Sie nach Verfahrensstand entweder einen Leitfaden mit ausformulierten Sprechtexten und offenen Erfassungsfeldern oder eine Niederschrift der tatsächlich berichteten Versammlung. Ergänzen Sie die beauftragte Vollzugsplanung. Ein Leitfaden kann während der Sitzung zur Protokollgrundlage werden; vorformulierte Sätze werden dadurch jedoch nicht automatisch zu geschehenen Tatsachen.

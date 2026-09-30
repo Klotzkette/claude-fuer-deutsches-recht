@@ -3,6 +3,8 @@ name: nachtraege-und-minderheitsverlangen-bearbeiten
 description: Bearbeitet zusätzliche Tagesordnungspunkte und Minderheitsverlangen bei GmbH und UG. Erstellt das begründete Verlangen, ein Ergänzungsschreiben oder eine neue Einladung mit konsolidierter Tagesordnung und getrennt geprüften Fristen.
 ---
 
+# Nachträge und Minderheitsverlangen bearbeiten
+
 ## 1 Zweck und Anwendungsfall
 
 Schreiben Sie eine bereits vorbereitete Versammlung bei neuen Beschlussgegenständen fort oder entwerfen Sie ein Verlangen von Minderheitsgesellschaftern. Bearbeiten Sie die jeweils beauftragte Seite und Verfahrensstufe. Ein Änderungsauftrag ist kein Auftrag zur eigenmächtigen Selbsteinberufung, zum Versand oder zu einem Gerichtsverfahren.

@@ -9,6 +9,8 @@ description: "Prüft ein qualifiziertes Arbeitszeugnis auf konkret nachweisbare 
 
 Prüfe zunächst den gesetzlich verlangten Inhalt nach Paragraf 109 Absatz 1 GewO, erst danach eine behauptete Branchenübung. BAG, Urteil vom 27. April 2021, 9 AZR 262/20, Rn. 21 bis 23 ([Volltext](https://www.bundesarbeitsgericht.de/entscheidung/9-azr-262-20/)), trägt die Prüfung einer vollständigen und verständlichen Tätigkeitsdarstellung. Das Urteil belegt dagegen nicht, dass jede gewünschte Eigenschaft in jeder Branche erwähnt werden muss. Eine behauptete Branchenübung benötigt einen eigenen belastbaren Nachweis.
 
+Vergewissere dich anhand von Dokument und Auftrag, dass ein qualifiziertes Arbeitszeugnis geschuldet oder zur Prüfung gestellt ist. Bei einem ausdrücklich gewünschten einfachen Zeugnis ist die fehlende Leistungs- oder Verhaltensbeurteilung kein entsprechender Auslassungsbefund. Ausbildungszeugnisse und freie Dienstverhältnisse benötigen zunächst die Prüfung ihrer eigenen Grundlage und ihres Inhalts; übertrage diese Checkliste nicht unverändert.
+
 Ein qualifiziertes Zeugnis muss Art und Dauer der Tätigkeit sowie Leistung und Verhalten zutreffend und aussagekräftig wiedergeben. Der Arbeitgeber darf einzelne Eigenschaften gewichten. Eine Auslassung ist deshalb nicht schon nach einer allgemeinen Checkliste negativ, sondern nur im Zusammenhang mit der tatsächlich ausgeübten Tätigkeit, dem übrigen Zeugnis und der berechtigten Erwartung eines verständigen Lesers zu beurteilen. Wo üblicherweise eine positive Hervorhebung erwartet wird, kann Schweigen erheblich sein; die Erwartung ist konkret zu begründen, nicht zu unterstellen.
 
 ## 2. Prüfung und Formulierung

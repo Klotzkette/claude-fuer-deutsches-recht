@@ -1,3 +1,17 @@
+# v445.15.1 - Arbeitszeugnisprüfung fachlich und praktisch verfeinert
+
+## 1. Beweise, Korrekturziel und vollständige Bearbeitung
+
+Der Arbeitszeugnisprüfer verbindet Tätigkeiten, Zeiträume, persönliche Leistungsbeiträge und Belege präziser. Der einzelne Note-3-Skill berücksichtigt jetzt ausdrücklich die Arbeitgeberlast bei unterdurchschnittlicher Bewertung. Bei einem gemischten Ziel von Note 4 auf Note 2 bleiben Abwehr der Abwertung und weitere Aufwertung getrennte Fragen. Ersatzformulierungen werden von einem Anspruch auf genau diesen Wortlaut unterschieden; gleichwertige Korrekturen können den Punkt erledigen.
+
+## 2. Werkstatt, Mini und Quellen
+
+Werkstatt, Mini und zwölf bestehende Skills werden gezielt vertieft; es bleiben 31 Skills. Eigenständige Wege für einfache Zeugnisse, Ausbildungszeugnisse und verweigerte Erteilung verhindern unpassende Prüfungen. Die Werkstatt ergänzt Datierung, Unterzeichnerrang und Zwischenzeugnisbindung mit überprüften Quellen und Reichweitengrenzen. Die BAG-Entscheidungen von 2025 und 2026 bleiben enthalten. Der Mini bleibt unter 7.500 UTF-8-Bytes. Echte Belegdateien und dokumentierte unabhängige Dialogproben ergänzen die bisherigen Szenarien.
+
+## 3. Veröffentlichung
+
+Eine zu lange Skillbeschreibung und fünf fehlende Hauptüberschriften im zuvor ergänzten GmbH-Organisator sind minimal korrigiert. Die fachlichen Arbeitsabläufe bleiben dabei unverändert; historische Testnachweise und spätere Metadatenkorrekturen sind getrennt dokumentiert. Frühere Tags bleiben unverändert.
+
 # v445.15.0 - Gesellschafterversammlungs-Organisator für GmbH und UG
 
 ## 1. Fünf Fachskills und ein Hauptproblem-Skill

@@ -13,6 +13,8 @@ Kläre anhand von Vertrag, Organigramm, Stellenbeschreibung und Beurteilungen, o
 
 Unterscheide disziplinarische Führung, fachliche Anleitung und bloße Projektkoordination. „Leitete zwölf Mitarbeiter“ ist nicht durch die Teilnahme an einem zwölfköpfigen Projektteam belegt. Ermittle Einstellungs-, Budget- und Beurteilungsbefugnisse; formuliere eine nur fachliche Leitung auch als solche.
 
+Ordne wechselnde Führungsbefugnisse ihrem jeweiligen Zeitraum zu. Prüfe Führungsaufgabe, Führungsleistung und Verhalten gegenüber Mitarbeitenden jeweils anhand der dazu passenden Tatsachen: Die Beförderung belegt nicht von selbst gute Führungsleistung, ein Teamumsatz nicht den eigenen Anteil und eine positive Verhaltensaussage nicht sämtliche Führungsergebnisse. Eine ungeklärte Bewertung sperrt nur den betreffenden Wertungssatz, nicht die belegte Aufnahme der Führungsaufgabe.
+
 Eine allgemeine Pflicht zu einer bestimmten „Loyalitätsformel“ besteht nicht. Das Fehlen eines solchen Wortes beweist kein Loyalitätsproblem. Ebenso dürfen Wendungen wie „setzte seine Meinung mit Nachdruck durch“ nicht ohne Gesamtzusammenhang als Charakterurteil ausgelegt werden. Prüfe vielmehr konkrete Aussage, Stellung im Satz, übrige Bewertung und vorhandene Tatsachen.
 
 Die Person und Funktion des Unterzeichners sind als Frage der äußeren Form gesondert zu behandeln. Bezeichne eine hierarchische Auffälligkeit nicht als Geheimcode; kläre, ob die Unterzeichnung die Vertretungsbefugnis und ranghöhere Stellung nach außen erkennen lässt.

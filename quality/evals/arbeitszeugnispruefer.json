@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "plugin": "arbeitszeugnispruefer",
-  "reviewed_on": "2026-09-28",
+  "reviewed_on": "2026-09-30",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/gewo/__109.html",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-30",
       "supports": "Zeugnisinhalt, Klarheitsgebot und elektronische Form nur mit Einwilligung."
     },
     {
       "url": "https://www.gesetze-im-internet.de/bgb/__126a.html",
-      "checked_on": "2026-09-25",
+      "checked_on": "2026-09-30",
       "supports": "Qualifizierte elektronische Signatur als Voraussetzung elektronischer Form."
     },
     {
@@ -20,37 +20,37 @@
     },
     {
       "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-386-10/",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-30",
       "supports": "Gesamtbetrachtung und objektiver Empfängerhorizont; kennen gelernt nicht isoliert als Geheimcode behandeln."
     },
     {
       "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-584-13/",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-30",
       "supports": "Darlegungs- und Beweislast bei begehrter überdurchschnittlicher Schlussbewertung; keine Übertragung auf objektive Form- oder Stammdatenfehler."
     },
     {
       "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-262-20/",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-30",
       "supports": "Schulzeugnisartige Einzelnotentabelle genügt regelmäßig nicht; kein allgemeines Listenverbot und keine automatische bessere Note."
     },
     {
       "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-227-11/",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-30",
       "supports": "Bloße Unzufriedenheit mit einer freiwilligen Schlussformel begründet keinen Anspruch auf einen Wunschtext; Entfernung kann verlangt werden."
     },
     {
       "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-146-21/",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-30",
       "supports": "Kein allgemeiner gesetzlicher Anspruch auf erstmalige Dankes-, Bedauerns- und Wunschformel; Zusagen gesondert prüfen."
     },
     {
       "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-272-22/",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-30",
       "supports": "Entfernung einer erteilten Schlussformel wegen berechtigter Beanstandung am Maßregelungsverbot prüfen; zeitliche Nähe allein genügt nicht."
     },
     {
       "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azb-49-16/",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-30",
       "supports": "Eine bloße Notenstufe im Titel legt regelmäßig keine vollstreckbare konkrete Zeugnisformulierung fest."
     },
     {
@@ -65,37 +65,66 @@
     },
     {
       "url": "https://www.bundesarbeitsgericht.de/entscheidung/8-azb-25-25/",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-30",
       "supports": "Entwurfsklausel mit Abweichung nur aus wichtigem Grund kann vollstreckbar sein; maßgeblicher Entwurf, Wahrheit, Klarheit und konkrete Einwendungen bleiben zu prüfen (Rn. 12 bis 22)."
     },
     {
       "url": "https://www.anwalt24.de/urteile/bag/2003-10-14/9-azr-12_03",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-30",
       "supports": "Freie nichtamtliche Volltextwiedergabe von BAG, Urteil vom 14.10.2003 – 9 AZR 12/03, Gründe IV.2.a–b, dort Rn. 27–28: Arbeitnehmerlast bei überdurchschnittlich, Arbeitgeberlast bei unterdurchschnittlich."
     },
     {
       "url": "https://www.bundesarbeitsgericht.de/wp-content/uploads/2025/09/2-AZR-96-24--B.pdf",
-      "checked_on": "2026-09-28",
+      "checked_on": "2026-09-30",
       "supports": "Unwirksamer Vorausverzicht auf das künftige qualifizierte Zeugnis vor Beendigung. Kollisionsrechtlicher Altfall nach EGBGB, keine universelle Eingriffsnorm."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bbig_2005/__16.html",
+      "checked_on": "2026-09-30",
+      "supports": "Eigenständiger Pflichtinhalt des Ausbildungszeugnisses; Leistung und Verhalten auf Verlangen; besondere Mitunterzeichnung."
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2024/323/regelungstext.pdf?__blob=publicationFile&v=3",
+      "checked_on": "2026-09-30",
+      "supports": "Elektronische Arbeitszeugnisse: Art.36 Nr.3 und Art.74 Abs.1 BEG IV, Inkrafttreten 1.1.2025."
+    },
+    {
+      "url": "https://www.zeugnis-center.de/wp-content/uploads/2016/04/9-AZR-248-07-U-pp.pdf",
+      "checked_on": "2026-09-30",
+      "supports": "Gerichtsfassung auf nichtamtlichem Host, Original-Rn.16–24: übernommener Arbeitnehmerentwurf, Betriebsübergang und Grenzen der Zwischenzeugnisbindung."
+    },
+    {
+      "url": "https://www.zeugnis-center.de/wp-content/uploads/2016/04/9-AZR-507-04-U-pp.pdf",
+      "checked_on": "2026-09-30",
+      "supports": "Gerichtsfassung auf nichtamtlichem Host, Original-Rn.14–20: erkennbare Funktion und Rang des unterzeichnenden Vertreters; damaliges Formrecht gesondert einordnen."
+    },
+    {
+      "url": "https://www.anwalt24.de/urteile/bag/1992-09-09/5-azr-509_91",
+      "checked_on": "2026-09-30",
+      "supports": "Nichtamtliche Volltextwiedergabe, Gründe II–III, dort Rn.11–15: ursprüngliches Ausstellungsdatum bei Berichtigung unter den genannten Voraussetzungen; kein automatisches Enddatum."
     }
   ],
   "mini_review": {
-    "sha256": "e637f4ad1b9305907df269d3131853fc64c6e3c2125152c15aeef0877f9d00e8",
+    "sha256": "de026bb29a09b5edd84d7c0e32c9b648e77bfc9d958a420c1ba875dc501436c6",
     "verdict": "revised",
-    "reason": "Eigenständig nutzbarer Datei-Dialog mit konkreten Fragepfaden, Teilantworten, festgestellten Beweisgrenzen, Quellenfallback und Kontrollschleife; kompakter Rechtskern einschließlich amtlich geprüfter Entwurfsklausel-Rechtsprechung.",
+    "reason": "Erneut fachlich verfeinert: zeitlich und sachlich begrenzte Belege, zweistufige Notenkorrektur, differenzierter Zeugnisinhalt und Erteilungsverlangen, Ersatzvorschlag statt unbegründeter Wortlautbindung, vollständige Korrekturkontrolle und konsistente Briefe.",
     "changes": [
       "Interaktiver Chat als Standard mit Warten auf echte Antworten und weiteren Fragerunden bei entscheidenden Restlücken oder neuen Widersprüchen.",
       "Vollständiger Arbeitnehmerauftrag umfasst ausführliche Analyse, Ersatzsätze, ein Mandantenschreiben mit Zielumfang 120 bis 180 Wörter und das fachlich angezeigte Arbeitgeberschreiben.",
       "Explizit nichtinteraktive Bearbeitung arbeitet mit Platzhaltern oder bedingten Varianten und erfindet keine Antworten.",
       "Kein Arbeitgeberschreiben bei mangelfreiem Zeugnis ohne wirklichen Verhandlungswunsch; Arbeitgeber- und Teilaufträge bleiben eigene Zweige.",
       "Dateiaktivierung ohne Startformel; Teilantwort und unbekannter Beleg ohne Endlosschleife; Folgeprüfung nach Arbeitgeberantwort und Korrektur.",
-      "Ausgangs- und Zielnote vor der Beweisfrage trennen: Arbeitgeberlast bei unterdurchschnittlicher Bewertung; fehlende Arbeitnehmer-Mehrleistungsbelege machen 4→3 nicht zur bloßen Bitte."
+      "Ausgangs- und Zielnote vor der Beweisfrage trennen: Arbeitgeberlast bei unterdurchschnittlicher Bewertung; fehlende Arbeitnehmer-Mehrleistungsbelege machen 4→3 nicht zur bloßen Bitte.",
+      "Belegreichweite nach Zeitraum, persönlichem Anteil und Bewertungsmerkmal; getrennte Abwehr einer Abwertung und weitergehende Aufwertung.",
+      "Abhilfeziel und Formulierungsvorschlag getrennt; gleichwertige Korrektur und tatsächlich erteiltes Zeugnis kontrollieren.",
+      "Einfaches Zeugnis, Ausbildungszeugnis und verweigerte Erteilung fallbezogen unterscheiden.",
+      "Gleichartige Befunde bündeln und Analyse, Ersatztext sowie Empfängerbriefe auf identische Tatsachen und Begehren abgleichen."
     ]
   },
   "workshop_review": {
-    "sha256": "2d1accface3f0d7e1c5b8498f013e5fd1d072a920c7226b09883283e305f1c44",
+    "sha256": "4c9b0cf46627bfdd113a98f1041ee3bc8c82c10b76a9fff8712f962723f5fe0d",
     "verdict": "revised",
-    "reason": "Werkstatt substanziell erweitert: vollständige eigenständige Dateiaktivierung, gestufte Tatsachen- und Beweisfragen, Antwortverarbeitung, anwaltliche Subsumtion mit Gegenargumenten und Quellenreichweite sowie Fortsetzung nach Arbeitgeberantwort und korrigierter Fassung.",
+    "reason": "Erneut fachlich verfeinert: zeitlich und sachlich begrenzte Belege, zweistufige Notenkorrektur, differenzierter Zeugnisinhalt und Erteilungsverlangen, Ersatzvorschlag statt unbegründeter Wortlautbindung, vollständige Korrekturkontrolle und konsistente Briefe.",
     "changes": [
       "Materielle Rückfragen führen zu echtem Warten; gesicherte Teile dürfen vorläufig bleiben, endgültige Empfängerschreiben folgen nach der Antwort.",
       "Streitstellenmatrix verbindet Originaltext, Wirkung, Beleg, Rechtsregel, Ersatzfassung, Gegenposition und Risiko.",
@@ -105,7 +134,13 @@
       "Rechtsprechung als Maßstab, Rückfrage und Subsumtion; 8 AZB 25/25 gegen 9 AZB 49/16 abgegrenzt.",
       "Abschließende Kontrolle neuer Fassungen auf Änderungen außerhalb der beanstandeten Stellen.",
       "Ausgangs- und Zielnote vor der Beweisfrage trennen: Arbeitgeberlast bei unterdurchschnittlicher Bewertung; fehlende Arbeitnehmer-Mehrleistungsbelege machen 4→3 nicht zur bloßen Bitte.",
-      "Aktuellen Dialogstand mit Vorausverzicht, internationaler Anknüpfung und offener Teilvollstreckung zusammengeführt; beide zusätzlichen Verfahrensfälle bleiben erhalten."
+      "Aktuellen Dialogstand mit Vorausverzicht, internationaler Anknüpfung und offener Teilvollstreckung zusammengeführt; beide zusätzlichen Verfahrensfälle bleiben erhalten.",
+      "Belegreichweite nach Zeitraum, persönlichem Anteil und Bewertungsmerkmal; getrennte Abwehr einer Abwertung und weitergehende Aufwertung.",
+      "Abhilfeziel und Formulierungsvorschlag getrennt; gleichwertige Korrektur und tatsächlich erteiltes Zeugnis kontrollieren.",
+      "Einfaches Zeugnis, Ausbildungszeugnis und verweigerte Erteilung fallbezogen unterscheiden.",
+      "Gleichartige Befunde bündeln und Analyse, Ersatztext sowie Empfängerbriefe auf identische Tatsachen und Begehren abgleichen.",
+      "Datierung und Unterzeichnerrang mit transparent bezeichneten Altquellen; Zwischenzeugnisbindung nach Betriebsübergang und Übernahme eines Arbeitnehmerentwurfs.",
+      "Fundstellen zum Maßregelungsmotiv präzisiert; 2026er Vollstreckungsentscheidung unterscheidet nachvollziehbaren Vortrag und Beweis; Teilvollstreckung bleibt offen."
     ]
   },
   "selection": {
@@ -564,6 +599,121 @@
           ]
         }
       ]
+    },
+    {
+      "id": "karriere-originalbelege-und-widerspruch",
+      "request": "Bitte prüfen Sie mein Zeugnis vollständig und schreiben Sie den passenden Brief in meinem Namen. Ich bin Ada Berg. Die vier Dateien sind die vollständigen einschlägigen Unterlagen. Ich möchte im Zeugnis „seit 2021 alleinige Personal- und Budgetverantwortung, stets hervorragende Führung“ stehen haben. Die 118 Prozent müssten doch reichen. Das Papieroriginal habe ich mit Datum und echter Unterschrift erhalten; Herr Kern war mein ranghöherer, weisungsbefugter Bereichsleiter. Die Beschäftigungsdaten und der Austritt auf meinen Wunsch stimmen. Es gibt keinen Vergleich, keine weitere Zeugniszusage und keine erkennbare dringende Frist. Meine Anschrift darf Platzhalter bleiben. Versanddatum ist noch offen. Die Arbeitgeberseite hat sich zu meinem Wunsch noch nicht geäußert.",
+      "input_files": [
+        "scripts/fixtures/arbeitszeugnispruefer/2026-09-30/karriere/zeugnis-erstfassung.txt",
+        "scripts/fixtures/arbeitszeugnispruefer/2026-09-30/karriere/projektauftrag.txt",
+        "scripts/fixtures/arbeitszeugnispruefer/2026-09-30/karriere/befoerderung.txt",
+        "scripts/fixtures/arbeitszeugnispruefer/2026-09-30/karriere/teambericht.txt"
+      ],
+      "deliverables": [
+        "erste-antwort.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Liest die tatsächlichen Belegdateien und trennt Projektmitgliedschaft, fachliche Koordination ab März 2023 und Teamleitung ab Juli 2024.",
+          "deliverables": [
+            "erste-antwort.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Stellt konkrete Fragen zur widersprüchlichen Verantwortung seit 2021 und zum persönlichen Leistungsbeleg; wartet mit davon abhängigen endgültigen Briefen.",
+          "deliverables": [
+            "erste-antwort.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Teamumsatz von 118 Prozent ohne persönlichen Anteil und Führungsbeurteilung trägt keine durchgehend hervorragende Führung; keine erfundenen Quellen oder Rollen.",
+          "deliverables": [
+            "erste-antwort.md"
+          ]
+        }
+      ],
+      "target_skill": "einfuehrung-pruefauftrag"
+    },
+    {
+      "id": "abwertung-originalbelege-und-teilantwort",
+      "request": "Ich bin Ottilie Maier. Bitte Zeugnis und Schriftwechsel vollständig prüfen und den passenden Brief in meinem Namen schreiben. Ich möchte ein gutes Zeugnis. Das Lob müsste doch ausreichen. Die Aufgaben, Beschäftigungsdaten und der Austrittsgrund stimmen; das Papieroriginal ist von Herrn Hagedorn eigenhändig unterschrieben. Ein Vergleich oder eine Notenzusage existiert nicht. Weitere Unterlagen habe ich nicht mitgeschickt. Das heutige Bearbeitungsdatum ist der 30. September 2026, ein Versandtermin steht nicht fest; Adressen können Platzhalter bleiben. Eine besondere Frist ist nicht bekannt. Die Schlussformel möchte ich nicht ändern.",
+      "input_files": [
+        "scripts/fixtures/arbeitszeugnispruefer/2026-09-30/abwertung/zeugnis.txt",
+        "scripts/fixtures/arbeitszeugnispruefer/2026-09-30/abwertung/schriftwechsel.txt"
+      ],
+      "deliverables": [
+        "erste-antwort.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Ordnet ursprüngliche unterdurchschnittliche Gesamtformel und gewünschte gute Bewertung getrennt ein; Abwehr der Abwertung wird nicht vom Mehrleistungsbeweis abhängig gemacht.",
+          "deliverables": [
+            "erste-antwort.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Erkennt Materialausfälle als Beleg gegen persönliche Verantwortung für zwei Lieferungen; fragt gezielt zu A-902 und zur Reichweite des Projektlobs.",
+          "deliverables": [
+            "erste-antwort.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Keine erfundene Minderleistung, keine Behauptung eines sicheren Anspruchs auf Note 2; endgültiger Brief wartet auf entscheidende Antwort.",
+          "deliverables": [
+            "erste-antwort.md"
+          ]
+        }
+      ],
+      "target_skill": "einfuehrung-pruefauftrag"
+    },
+    {
+      "id": "bedeutungsgleiche-korrektur-und-neuer-teilfehler",
+      "request": "Bitte die Zeugnisprüfung in meinem Namen fortsetzen und abschließen. Ich bin Margarethe Sander. Mein bereits versandtes Schreiben verlangte ausschließlich die Ergänzung „Im Jahr 2025 koordinierte sie fachlich sechs Beschäftigte im Projekt Atlas.“ Eine neue Note oder Schlussformel will ich nicht. Der Arbeitgeber hat mir nun die vollständige Neufassung als eigenhändig unterschriebenes Papieroriginal erteilt; ich habe das Original und bestätige Datum und Unterschrift des Geschäftsführers. Die Textabschriften von Vorfassung und Neufassung sowie der Projektauftrag liegen vollständig bei. Der Projektauftrag beschreibt die tatsächliche Tätigkeit richtig. Beschäftigungsdaten, gute Note, Verhalten und Schluss stimmen. Es gab keine weitergehende Vereinbarung, keine Wortlautzusage und keinen Titel. Die Arbeitgeberantwort lautet nur „Hier Ihr korrigiertes Zeugnis“, sonst nichts. Anschriften bleiben Platzhalter; Versanddatum steht noch nicht fest. Keine besondere Frist bekannt.",
+      "input_files": [
+        "scripts/fixtures/arbeitszeugnispruefer/2026-09-30/korrektur/vorfassung.txt",
+        "scripts/fixtures/arbeitszeugnispruefer/2026-09-30/korrektur/neufassung.txt",
+        "scripts/fixtures/arbeitszeugnispruefer/2026-09-30/korrektur/projektauftrag.txt"
+      ],
+      "deliverables": [
+        "analyse-und-schreiben.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Akzeptiert die neue Formulierung zur fachlichen Koordination als gleichwertig; verlangt keine eigenen Wörter ohne Wortlautbindung.",
+          "deliverables": [
+            "analyse-und-schreiben.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Erkennt eigenverantwortliche Terminplanung als weiter tragfähigen Korrekturpunkt, verlangt aber keine im Projektauftrag ausgeschlossene Abnahmeverantwortung.",
+          "deliverables": [
+            "analyse-und-schreiben.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Erhält richtige gute Gesamtbewertung und Schluss; erzeugt nur begrenztes Folgeschreiben im eigenen Namen sowie kurze Erklärung, ohne automatische Maßregelungsbehauptung.",
+          "deliverables": [
+            "analyse-und-schreiben.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Vergleicht vollständige Vor- und Neufassung mit Belegfundstellen und fragt bereits geklärte Unterlagen oder Originalform nicht erneut ab.",
+          "deliverables": [
+            "analyse-und-schreiben.md"
+          ]
+        }
+      ],
+      "target_skill": "einfuehrung-pruefauftrag"
     }
   ],
   "prompt_workflow_review": {

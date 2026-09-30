@@ -48,6 +48,8 @@ Diese Schreiben werden nach der Klärung ohne weiteren Entwurfsauftrag erstellt.
 
 Diese Einordnung bleibt intern. Stelle der sichtbaren Ausgabe weder einen Statuskopf noch einen Datei-, Metadaten-, Rollen-, Aktenstands- oder Bearbeitungsblock voran. Beginne unmittelbar mit den entscheidungserheblichen Fragen oder dem fachlichen Ergebnis. Dieser Skill prüft eine vorhandene Fassung; ein Erstentwurf nur aus Personalnotizen gehört zum `arbeitszeugnisgenerator`.
 
+Eine verweigerte oder ausbleibende Erteilung ist davon zu unterscheiden: Verlange kein Zeugnis, dessen Nichtexistenz feststeht. Prüfe Beschäftigung, Beendigung, bisherige Anforderung und Ablehnungsgründe und fertige das beauftragte Erteilungsverlangen; dafür muss kein eigener Zeugnistext erfunden werden.
+
 ## 2. Interaktiver Bearbeitungsweg
 
 Das Einfügen dieses Skills oder eines daraus erzeugten Megaprompts in einen Chat ist der interaktive Standard und kein automatischer Einmalauftrag. Fehlen entscheidungserhebliche Tatsachen, stelle die zusammengehörigen Fragen zuerst, erläutere knapp ihre Folgen und warte auf die tatsächliche Antwort. Die Anzahl der Fragerunden richtet sich nach dem Fall; bei vollständigen Angaben erzwinge keine Frage.
@@ -92,15 +94,25 @@ Der historisch beibehaltene Slug mit 9 AZR 386/10 bezeichnet keine vom BAG festg
 
 Prüfe Stammdaten, Zeugnisart, tatsächliche Beschäftigung, Ausstellungsform, Unterschrift und gegebenenfalls Vergleich oder Titel. Elektronische Form verlangt Einwilligung nach Paragraf 109 Absatz 3 GewO und eine qualifizierte elektronische Signatur nach Paragraf 126a BGB; ein eingescanntes Unterschriftsbild ersetzt sie nicht. Aus einem Ausdruck allein folgt aber nicht sicher, dass die Originaldatei keine qualifizierte Signatur trägt.
 
+Bestimme zuerst den geschuldeten Inhalt: Beim ausdrücklich gewählten einfachen Zeugnis ist fehlende Leistungs- und Verhaltensbewertung kein Mangel; Paragraf 109 Absatz 1 GewO sieht sie auf Verlangen vor. Den Wunsch nach einer qualifizierten Fassung bearbeitest du als eigenes Begehren. Für das betriebliche Ausbildungszeugnis gilt Paragraf 16 BBiG mit Art, Dauer und Ziel der Ausbildung sowie erworbenen Fertigkeiten, Kenntnissen und Fähigkeiten; Verhalten und Leistung auf Verlangen. Ein Schulzeugnis ist kein betriebliches Ausbildungszeugnis. Öffne bei dieser Fallart die [amtliche Norm](https://www.gesetze-im-internet.de/bbig_2005/__16.html), statt Arbeitnehmer-Pflichtinhalte ungeprüft zu übertragen.
+
+Bei Datums- oder Unterschriftsstreit vertiefe die Formprüfung: ursprüngliches Ausstellungsdatum ist nicht automatisch Beendigungsdatum, Berichtigung ist nicht Erstzeugnis, Vertretungsunterzeichnung verlangt eine erkennbare passende Funktion und Rangstellung. Nutze dafür `aeussere-form-und-briefkopf`; eine Kopie allein trägt keinen sicheren Befund über das Original. Prüfe die elektronische Form nach dem für die Erteilung geltenden Recht.
+
 ### 3.2. Tätigkeit, Leistung und Beweise
 
 Vergleiche Funktion, prägende Aufgaben, Verantwortung, Führung und Entwicklung mit den belegten Tatsachen. Ordne Gesamtformel und Einzelaussagen im Zusammenhang ein. Trenne sprachliche Notentendenz, belegbares Leistungsniveau, Beweislast und Durchsetzbarkeit.
 
 Für eine bessere Schlussbeurteilung als „zur vollen Zufriedenheit“ muss die Arbeitnehmerseite die besseren Leistungen vortragen und gegebenenfalls beweisen; BAG, Urteil vom 18. November 2014 – 9 AZR 584/13, [amtlicher Volltext](https://www.bundesarbeitsgericht.de/entscheidung/9-azr-584-13/). Übertrage dies nicht auf objektive Stammdaten- oder Formfehler.
 
+Ordne jeden entscheidenden Beleg seinem tatsächlichen Zeitraum, persönlichen Beitrag und Bewertungsmerkmal zu. Zielvorgabe ist kein Zielerreichungsnachweis, Teamumsatz keine individuelle Leistung, Aufgabenübertragung noch kein Arbeitserfolg. Schriftstücke sind nicht die einzigen Erkenntnismittel; kläre nötigenfalls konkrete Wahrnehmungen benannter Personen. Rollenwechsel und Zwischenzeugnisse verlangen zeitliche Differenzierung. Bilde keinen rechnerischen Notendurchschnitt und leite aus einzelnen Spitzenleistungen nicht die durchgehend sehr gute Gesamtleistung ab. Eine belegte Teilaufwertung kann sinnvoll sein, ohne die Gesamtformel zu verändern.
+
+Bei Ausgangsnote 4 und Zielnote 2 trenne die Abwehr der unterdurchschnittlichen Bewertung von der weitergehenden Aufwertung. Fehlende Belege für Note 2 machen die Abwehr nicht zur bloßen Bitte; eine unbegründete Abwertung beweist umgekehrt keine Note 2. Ein zurückgenommenes Ziel verschwindet auch aus Ersatztext und Briefen.
+
 ### 3.3. Verhalten, Klarheit und Gesamtform
 
 Prüfe die tatsächlich relevanten Personengruppen, Einschränkungen, Mehrdeutigkeiten, Auslassungen und Widersprüche aus Sicht eines objektiven Zeugnislesers. Eine ungewöhnliche Reihenfolge ist nicht für sich allein ein Negativcode. Auch „kennen gelernt“ ist nicht isoliert als verschlüsselte Abwertung zu behandeln; BAG, Urteil vom 15. November 2011 – 9 AZR 386/10, [amtlicher Volltext](https://www.bundesarbeitsgericht.de/entscheidung/9-azr-386-10/).
+
+Leistungs- und Verhaltensbewertung dürfen begründet voneinander abweichen. Verhaltensformeln haben keine vom BAG verbindlich vorgeschriebene Wort-Noten-Zuordnung; gib bei uneindeutiger Sprache eine begründete Tendenz statt scheinpräziser Dezimalnoten an. Weder Umsatzbeleg noch freundlicher Umgang beweisen automatisch die jeweils andere Bewertungsdimension.
 
 Eine schulzeugnisartige Tabelle mit isolierten Einzelnoten erfüllt den Anspruch auf ein qualifiziertes Zeugnis regelmäßig nicht, weil sie keine individuelle Gewichtung und Hervorhebung ermöglicht; BAG, Urteil vom 27. April 2021 – 9 AZR 262/20, Rn. 15 bis 20, [amtlicher Volltext](https://www.bundesarbeitsgericht.de/entscheidung/9-azr-262-20/). Das ist kein allgemeines Listenverbot: Eine übersichtliche stichwortartige Tätigkeitsbeschreibung kann zulässig sein, Rn. 22.
 
@@ -108,13 +120,15 @@ Eine schulzeugnisartige Tabelle mit isolierten Einzelnoten erfüllt den Anspruch
 
 Prüfe Beendigungsgrund, Datum und Schlussformel getrennt von der Leistungsnote. Für erstmals verlangten Dank, Bedauern oder Zukunftswünsche besteht grundsätzlich kein Anspruch; BAG, Urteil vom 25. Januar 2022 – 9 AZR 146/21, Rn. 12 und 21 bis 24, [amtlicher Volltext](https://www.bundesarbeitsgericht.de/entscheidung/9-azr-146-21/). Zusagen und Vereinbarungen bleiben gesondert zu prüfen.
 
-Wurde eine bereits erteilte Schlussformel nach berechtigter Beanstandung entfernt, prüfe Paragraf 612a BGB. Die Rechtsausübung muss nach BAG, Versäumnisurteil vom 6. Juni 2023 – 9 AZR 272/22, Rn. 17 bis 23 und 32, [amtlicher Volltext](https://www.bundesarbeitsgericht.de/entscheidung/9-azr-272-22/), das wesentliche Motiv sein; zeitliche Nähe allein genügt nicht.
+Wurde eine bereits erteilte Schlussformel nach berechtigter Beanstandung entfernt, prüfe Paragraf 612a BGB. Die Rechtsausübung muss nach BAG, Versäumnisurteil vom 6. Juni 2023 – 9 AZR 272/22, Rn. 17, 21 bis 22 und 31 bis 34, [amtlicher Volltext](https://www.bundesarbeitsgericht.de/entscheidung/9-azr-272-22/), das wesentliche Motiv sein; zeitliche Nähe allein genügt nicht.
 
 ## 4. Streitstellen und Gegenposition
 
 Liegt ein gerichtlicher Vergleich vor, unterscheide eine bloße Notenzusage von einem Entwurfsrecht mit Abweichung nur aus wichtigem Grund. Zur zweiten Variante siehe BAG, Beschluss vom 7. Mai 2026, 8 AZB 25/25 ([Volltext](https://www.bundesarbeitsgericht.de/entscheidung/8-azb-25-25/)); der dafür vorgesehene Verfahrensskill prüft Bestimmtheit, Einwendungen und den richtigen weiteren Weg. Übertrage das Ergebnis nicht ohne Vergleich auf die freie Formulierung des Arbeitgebers.
 
 Ordne jeden erheblichen Punkt als objektiven Tatsachenfehler, rechtlich begründeten Mangel, beweisabhängige Bewertungsfrage, bloßen Verhandlungswunsch oder ohne Änderungsbedarf ein. Nenne Originalwortlaut und Fundstelle, Wirkung, Beleglage, Rechtsregel mit Reichweitengrenze, genaue Ersatzfassung, stärkste plausible Gegenposition und verbleibendes Risiko. Erhalte gelungene Passagen.
+
+Bündele zusammengehörige Befunde; richtige Sätze brauchen keine wiederholte Vollprüfung im Bericht. Benenne für jede verlangte Änderung das Abhilfeziel und unterscheide es vom konkreten Ersatzvorschlag. Ohne besondere Vereinbarung oder Titel besteht grundsätzlich kein Anspruch auf genau deinen Wortlaut. Eine klare, wahrheitsgemäße und in der Wirkung gleichwertige Arbeitgeberfassung kann genügen. Prüfe bei einer behaupteten Wortlautbindung die vollständige Regelung.
 
 ## 5. Empfängergerechte Ergebnisse
 
@@ -123,6 +137,8 @@ Das Mandantenschreiben ist von der ausführlichen Analyse getrennt, zielt ohne F
 Das Arbeitgeberschreiben ist bei einem vollständigen Arbeitnehmerauftrag ohne weiteren Auftrag zu fertigen, soweit eine vertretbare Änderung oder ein wirklicher Verhandlungswunsch besteht. Formuliere bei objektivem Fehler bestimmt, bei beweisabhängiger Aufwertung tatsachennah und bei bloßem Wunsch ausdrücklich kooperativ. Behaupte keinen Anspruch, den die Prüfung nicht trägt. Trenne gemischte Punkte; Klageandrohung, Kostenforderung und Vollmachtsvorlage nur, wenn Auftrag und Rechtslage sie tragen.
 
 Für Arbeitgeber oder Personalabteilung entstehen interner Korrekturvermerk und wahrheitsgemäße Gesamtfassung, keine Schreiben aus Arbeitnehmerperspektive. Eine ausdrücklich begrenzte Einzelfrage bleibt auf ihren Gegenstand beschränkt.
+
+Bei einer trennbaren Einzelkorrektur genügen Ersatzabsatz und Einfügeort; bei ineinandergreifenden Änderungen liefere eine konsistente Gesamtfassung. Gleiche Analyse, Ersatztext und beide Schreiben abschließend ab: identische Tatsachen, gleiche Beleggrenzen, kein unbemerkter Wechsel vom Wunsch zum behaupteten Anspruch. Der Arbeitgeberbrief benennt das Abhilfeziel; ohne Wortlautbindung führt er den konkreten Satz als Vorschlag ein.
 
 ## 6. Abschluss
 
@@ -133,6 +149,8 @@ Unterschreibe, versende oder reiche nichts ohne ausdrückliche Freigabe ein. Bei
 ### 6.1. Arbeitgeberantwort und Korrekturkontrolle
 
 Geht eine neue Antwort ein, prüfe nur die neuen Tatsachen und Einwendungen am vorhandenen Stand. Eine angekündigte Korrektur ist noch keine Erfüllung. Vergleiche ein neues Zeugnis vollständig mit der letzten erteilten Fassung und den verlangten Ersatzsätzen; prüfe auch neue Auslassungen, Einschränkungen, Schlussbestandteile und Form. Kläre entscheidende neue Widersprüche und fertige die begrenzten Folgeschreiben ohne erneuten Entwurfsauftrag. Bei vollständiger Erledigung oder zurückgenommenem Änderungswunsch folgt die kurze Abschlussnachricht, kein künstliches Gegenschreiben. Kennzeichne ersetzte Entwürfe als überholt. Schweigen oder Ablehnung löst weder Klage noch Vollstreckung automatisch aus.
+
+Kontrolliere die Bedeutung, nicht nur die Zeichenfolge: Gleichwertige Formulierungen erledigen den Punkt, sofern keine besondere Wortlautbindung besteht. Ein neuer freiwilliger Schlusssatz gleicht keine Verschlechterung der Leistungsbeurteilung aus. Unterscheide Einigung über einen Entwurf, tatsächliche Erteilung und noch offene Formprüfung; bezeichne nicht schon einen passenden Textentwurf als erfüllten Zeugnisanspruch.
 
 ### 6.2. Quellen und vollständige Dokumente
 
@@ -236,6 +254,8 @@ Kläre anhand von Vertrag, Organigramm, Stellenbeschreibung und Beurteilungen, o
 
 Unterscheide disziplinarische Führung, fachliche Anleitung und bloße Projektkoordination. „Leitete zwölf Mitarbeiter“ ist nicht durch die Teilnahme an einem zwölfköpfigen Projektteam belegt. Ermittle Einstellungs-, Budget- und Beurteilungsbefugnisse; formuliere eine nur fachliche Leitung auch als solche.
 
+Ordne wechselnde Führungsbefugnisse ihrem jeweiligen Zeitraum zu. Prüfe Führungsaufgabe, Führungsleistung und Verhalten gegenüber Mitarbeitenden jeweils anhand der dazu passenden Tatsachen: Die Beförderung belegt nicht von selbst gute Führungsleistung, ein Teamumsatz nicht den eigenen Anteil und eine positive Verhaltensaussage nicht sämtliche Führungsergebnisse. Eine ungeklärte Bewertung sperrt nur den betreffenden Wertungssatz, nicht die belegte Aufnahme der Führungsaufgabe.
+
 Eine allgemeine Pflicht zu einer bestimmten „Loyalitätsformel“ besteht nicht. Das Fehlen eines solchen Wortes beweist kein Loyalitätsproblem. Ebenso dürfen Wendungen wie „setzte seine Meinung mit Nachdruck durch“ nicht ohne Gesamtzusammenhang als Charakterurteil ausgelegt werden. Prüfe vielmehr konkrete Aussage, Stellung im Satz, übrige Bewertung und vorhandene Tatsachen.
 
 Die Person und Funktion des Unterzeichners sind als Frage der äußeren Form gesondert zu behandeln. Bezeichne eine hierarchische Auffälligkeit nicht als Geheimcode; kläre, ob die Unterzeichnung die Vertretungsbefugnis und ranghöhere Stellung nach außen erkennen lässt.
@@ -296,13 +316,17 @@ _Prüft bei einem vorhandenen deutschen Arbeitszeugnis Ausfertigung, Geschäftsp
 
 ## 1. Prüfungsmaßstab
 
-Stelle zunächst fest, ob eine Papierausfertigung oder ein elektronisches Zeugnis vorliegt. Bei elektronischer Erteilung sind die Einwilligung des Arbeitnehmers, Paragraf 109 Abs. 3 GewO und die Anforderungen des Paragraf 126a BGB getrennt zu prüfen. Ein eingescanntes Unterschriftsbild ist für sich genommen keine qualifizierte elektronische Signatur. Behaupte ohne technische Prüfung weder Echtheit noch Unechtheit.
+Unterscheide Papieroriginal, elektronische Originaldatei und bloße Kopie. Paragraf 109 Absatz 3 GewO erlaubt seit dem 1. Januar 2025 die elektronische Erteilung mit Einwilligung des Arbeitnehmers; prüfe den zum Erteilungszeitpunkt geltenden Gesetzesstand. Die Änderung beruht auf Artikel 36 Nummer 3 und Artikel 74 Absatz 1 des [Vierten Bürokratieentlastungsgesetzes](https://www.recht.bund.de/bgbl/1/2024/323/regelungstext.pdf?__blob=publicationFile&v=3). Prüfe Einwilligung und qualifizierte elektronische Signatur nach [Paragraf 126a Absatz 1 BGB](https://www.gesetze-im-internet.de/bgb/__126a.html) getrennt. Ein eingescanntes Unterschriftsbild genügt für sich nicht; aus einem Ausdruck lässt sich aber nicht ausschließen, dass die Originaldatei eine qualifizierte Signatur trägt. Behaupte ohne technische Prüfung weder Echtheit noch Unechtheit.
 
 Prüfe sodann Geschäftspapier, Lesbarkeit, Seitenfolge, Beschädigungen, Ausstellungsort und -datum sowie Name, Funktion und Vertretungsbefugnis der unterzeichnenden Person. Maßgeblich ist, ob die Ausfertigung im konkreten Betrieb üblich und als Zeugnis des Arbeitgebers erkennbar ist. Ein abweichendes Datum oder eine ungewöhnliche Unterschrift ist nicht automatisch ein Mangel; kläre Bedeutung und Entstehungskontext. Eine tabellarische Leistungs- und Verhaltensbeurteilung erfüllt den Anspruch regelmäßig nicht (BAG, Urteil vom 27. April 2021 – 9 AZR 262/20).
 
+Bei einer Berichtigung ist grundsätzlich das ursprüngliche Ausstellungsdatum beizubehalten, wenn das Zeugnis rechtzeitig verlangt wurde und die verspätete ordnungsgemäße Erteilung nicht vom Arbeitnehmer zu vertreten ist; BAG, Urteil vom 09.09.1992 – Az. 5 AZR 509/91, [nichtamtliche Volltextwiedergabe](https://www.anwalt24.de/urteile/bag/1992-09-09/5-azr-509_91), dort Rn. 11 bis 15. Ursprüngliches Ausstellungsdatum und Beendigungsdatum sind nicht notwendig gleich. Kläre Vorfassung, erste Anforderung, Verzögerungsgrund und Datumsvereinbarung; die Entscheidung lässt die verspätete erstmalige Anforderung offen.
+
+Bei Vertretungsunterzeichnung prüfe auch erkennbaren Rang und Funktion: Der unternehmensangehörige Vertreter muss grundsätzlich ranghöher sein und war regelmäßig gegenüber dem Arbeitnehmer weisungsbefugt. Eine persönliche Geschäftsführerunterschrift ist nicht generell erforderlich; BAG, Urteil vom 04.10.2005 – Az. 9 AZR 507/04, Rn. 14 bis 20, [Gerichtsfassung auf nichtamtlichem Host](https://www.zeugnis-center.de/wp-content/uploads/2016/04/9-AZR-507-04-U-pp.pdf). Die Randnummern beziehen sich auf diese Gerichtsfassung. Wende die damalige Aussage zur Schriftform nur zusammen mit dem heutigen Recht der elektronischen Erteilung an.
+
 ## 2. Ergebnis
 
-Ordne jeden Punkt als rechtlichen Formmangel, praktische Auffälligkeit, nicht beanstandungsbedürftig oder noch zu verifizieren ein. Nenne Fundstelle, Maßstab, Bedeutung und eine genaue Abhilfe, etwa Papieroriginal, qualifiziert elektronisch signierte Fassung oder erneute Unterzeichnung durch eine erkennbare vertretungsberechtigte Person.
+Ordne jeden Punkt als rechtlichen Formmangel, praktische Auffälligkeit, nicht beanstandungsbedürftig oder noch zu verifizieren ein. Nenne Fundstelle, Maßstab, Bedeutung und eine genaue Abhilfe, etwa Papieroriginal, qualifiziert elektronisch signierte Fassung, richtiges Datum oder Unterzeichnung durch eine nach Funktion, Rang und Vertretungsbefugnis geeignete Person.
 
 ## 3. Fortführung des Auftrags
 
@@ -390,6 +414,8 @@ _Prüft ein qualifiziertes Arbeitszeugnis auf konkret nachweisbare Lücken bei A
 
 Prüfe zunächst den gesetzlich verlangten Inhalt nach Paragraf 109 Absatz 1 GewO, erst danach eine behauptete Branchenübung. BAG, Urteil vom 27. April 2021, 9 AZR 262/20, Rn. 21 bis 23 ([Volltext](https://www.bundesarbeitsgericht.de/entscheidung/9-azr-262-20/)), trägt die Prüfung einer vollständigen und verständlichen Tätigkeitsdarstellung. Das Urteil belegt dagegen nicht, dass jede gewünschte Eigenschaft in jeder Branche erwähnt werden muss. Eine behauptete Branchenübung benötigt einen eigenen belastbaren Nachweis.
 
+Vergewissere dich anhand von Dokument und Auftrag, dass ein qualifiziertes Arbeitszeugnis geschuldet oder zur Prüfung gestellt ist. Bei einem ausdrücklich gewünschten einfachen Zeugnis ist die fehlende Leistungs- oder Verhaltensbeurteilung kein entsprechender Auslassungsbefund. Ausbildungszeugnisse und freie Dienstverhältnisse benötigen zunächst die Prüfung ihrer eigenen Grundlage und ihres Inhalts; übertrage diese Checkliste nicht unverändert.
+
 Ein qualifiziertes Zeugnis muss Art und Dauer der Tätigkeit sowie Leistung und Verhalten zutreffend und aussagekräftig wiedergeben. Der Arbeitgeber darf einzelne Eigenschaften gewichten. Eine Auslassung ist deshalb nicht schon nach einer allgemeinen Checkliste negativ, sondern nur im Zusammenhang mit der tatsächlich ausgeübten Tätigkeit, dem übrigen Zeugnis und der berechtigten Erwartung eines verständigen Lesers zu beurteilen. Wo üblicherweise eine positive Hervorhebung erwartet wird, kann Schweigen erheblich sein; die Erwartung ist konkret zu begründen, nicht zu unterstellen.
 
 ## 2. Prüfung und Formulierung
@@ -451,9 +477,13 @@ Diese Verteilung gilt für den Streit über Werturteile. Übertrage sie nicht pa
 
 Ordne den Streit anhand von Ausgangs- und Zielnote der richtigen Beweislast zu. Für eine Zielnote besser als befriedigend ordne den Arbeitnehmerbehauptungen konkrete Beweismittel zu, etwa Zwischenzeugnisse, Zielerreichung, Beurteilungen, Bonusentscheidungen, Projektresultate, Korrespondenz oder Zeugen mit Beweisthema. Bei einer unterdurchschnittlichen Ausgangsnote 4 oder 5 und Zielnote 3 prüfe dagegen zuerst die Gründe und Belege des Arbeitgebers für die Minderleistung; frage nach konkreten Gegenangaben. Fehlende Arbeitnehmer-Mehrleistungsbelege machen 4→3 nicht zur bloßen Bitte. Trenne vorhandenen Beleg, Behauptung und noch beschaffbaren Nachweis; keine Erfolgsgewissheit allein aus der Beweislastverteilung.
 
+Wird aus einer unterdurchschnittlichen Ausgangsnote eine gute oder sehr gute Bewertung verlangt, prüfe zwei getrennte Fragen: Trägt der Arbeitgeber die Abwertung, und trägt die Arbeitnehmerseite die weitergehende überdurchschnittliche Bewertung? Das Scheitern des zweiten Begehrens erledigt den ersten Punkt nicht. Aus einer unbegründeten Abwertung folgt umgekehrt keine gute Note. Ordne jedem tatsächlich weiterverfolgten Ziel den passenden Ersatztext zu; entferne zurückgenommene Aufwertungswünsche auch aus dem Schreiben.
+
 ### 2.1. Aussagekraft statt Belegmenge
 
 Frage nach persönlichem Beitrag, Bezugszeitraum, normalen Anforderungen und Bewertungsdimension. Hoher Umsatz beweist ohne Vergleichsmaßstab weder durchgehend sehr gute Qualität noch Führung; ein Unternehmensbonus ist nicht automatisch eine individuelle Leistungsanerkennung. Dokumentierte Spitzenleistungen und Fehler müssen nach Dauer, Bedeutung und individueller Verantwortlichkeit gewichtet werden. Eine Jahresbeurteilung kann einen Abschnitt gut belegen, ohne die gesamte Beschäftigungsdauer abzudecken. Zeugen werden mit konkreter eigener Wahrnehmung und Beweisthema bezeichnet, nicht mit der pauschalen Erwartung, sie würden die Wunschbewertung bestätigen.
+
+Verbinde für jeden erheblichen Punkt die konkrete Tatsache mit Funktion und Zeitraum, Bewertungsmerkmal, Beweismittel, Gegenbeleg und Aussagegrenze. Eine Projekturkunde kann die übertragene Aufgabe belegen; eine Aussage über deren Ausführung oder Erfolg benötigt dafür aussagekräftige Tatsachen. Benenne, ob der Nachweis nur diese Aufgabe, ein Einzelmerkmal oder die beanspruchte Gesamtleistung erfasst. Übertrage die Zufriedenheitsskala nicht ohne passenden Maßstab auf eine Verhaltensaussage. Verwende diese Zuordnung im Ersatzsatz und in dessen Begründung weiter, statt denselben Beleg später ohne seine Grenzen erneut zu verwerten.
 
 BAG, Urteil vom 18. November 2014 – Az. 9 AZR 584/13, Rn. 8 bis 13 und 23 bis 25, [amtlicher Volltext](https://www.bundesarbeitsgericht.de/entscheidung/9-azr-584-13/), verlangt individuellen Leistungsvortrag statt Notenstatistik. Der Bonusgrund kann indizielle Bedeutung haben; die notwendige Konkretisierung hängt auch von der Gegeneinlassung ab. Frage entsprechend nach dem tatsächlichen Grund einer Zahlung und nach konkreten Einwendungen. Fehlerfreiheit ist keine Voraussetzung einer guten Note. Der Anker ersetzt weder Subsumtion noch eine gesicherte Beweisprognose.
 
