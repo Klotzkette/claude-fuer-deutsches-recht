@@ -224,5 +224,118 @@
     "plugin_zip_recipe": ".github/workflows/release-plugin-zips.yml, Schritt ZIPs bauen, unveränderte Ausschlussmuster",
     "markdown_builder": "scripts/build-skills-markdown-bundles.py",
     "initial_failure_reason": "Im frischen Worktree waren keine dist-ZIPs vorhanden; nach dem lokalen Paketbau erneut geprüft."
+  },
+  "checks_phase": "Abschluss vor Übernahme des parallelen Pflegeupdates.",
+  "integration": {
+    "upstream_commit": "44b0d3cb2c658b345392bc90cbdea7217266b9ce",
+    "upstream_version": "445.18.1",
+    "scope": "Konfliktfreie Übernahme; Pflege-Dateikonsistenz gegengeprüft, zusätzliche Pflege-Primärquellen nicht als eigene neue Quellenprüfung ausgegeben. Pakete aus dem integrierten Stand lokal neu gebaut.",
+    "generators": [
+      "generate-werkstatt-und-schnellstart-prompts.py",
+      "generate-megaprompt.py",
+      "generate-werkstatt-und-schnellstart-coverage.py"
+    ],
+    "checks": [
+      {
+        "command": "git diff --check",
+        "exit_code": 0,
+        "seconds": 0.09,
+        "output_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "output_tail": ""
+      },
+      {
+        "command": "node scripts/validate-marketplace-import.mjs",
+        "exit_code": 0,
+        "seconds": 6.62,
+        "output_sha256": "b7e3a27d6105c24ee3662f72fc5fd9f2744cb0232bcdee787d56decb703dcbfc",
+        "output_tail": "Marketplace-Importprüfung: 255 Plugins, 22523 Skills, 255 README-Dateien\nOK\n"
+      },
+      {
+        "command": "node scripts/validate-plugin-structure.mjs",
+        "exit_code": 0,
+        "seconds": 12.89,
+        "output_sha256": "ec638a559d61b57bf9e1af9fd4a127987fa60739a294161efc2780f8864cf714",
+        "output_tail": "validate-plugin-structure OK\n"
+      },
+      {
+        "command": "python3 scripts/audit-generated-prompt-hygiene.py",
+        "exit_code": 0,
+        "seconds": 2.45,
+        "output_sha256": "70e522c01c339280032d6c49d61ebb97e62081908f60cf272e415925c484b7e2",
+        "output_tail": "audit-generated-prompt-hygiene OK (540 Prompt-Dateien)\n"
+      },
+      {
+        "command": "python3 scripts/audit-prompt-profile-routing.py",
+        "exit_code": 0,
+        "seconds": 11.44,
+        "output_sha256": "453a3b25bca9205f7d51bcc2da27fb55f6d8d340d35175a7be81ed5838cee934",
+        "output_tail": "=1, ehrenamtliche_richter=1, einigungsvertrag=1, energie=1, erbrecht=1, eu_prozess=1, eu_recht=1, fahrgast=1, famil=2, finanzgericht=1, fluggast=1, foerderantrag=1, forderung=2, forschungszulage=1, gebrauchsmuster=1, geldwaesche=1, gesellschaft=10, gewerblicher_rechtsschutz=3, goae=1, grundsteuerrecht=1, handelsrecht=2, haushalt=1, hinweisgeber=1, hoai=1, hr=1, immobilien=3, influencer=1, informationszugang=1, insolvenz=5, international=2, investigations=1, it=2, juristische-praesentationen=1, justiz_zivil=4, jveg=1, kanzleibetrieb=4, kapitalmarkt=1, kartell=1, kirchenrecht=1, kommunal=1, krankenhaus=1, liquiditaet=1, lizenz=1, lobbyregister=1, luftrecht=1, ma_finanzierung=6, marke=1, medizin=1, methodik=6, miet=2, migration=1, nachbar=1, nkr=1, normsetzung=1, notariat=1, owi_praxis=1, parteienrecht=1, patent=2, phishing=1, pralr=1, presse=2, produkt=2, rechtsgeschichte=1, regulierung=2, renten=1, reporting=1, roemisch=1, sanierung=4, schadensregulierung=1, selbststaendige=1, sozial=5, sozialstatus=1, sport=1, steuer=1, straf=5, strafjustiz=6, strassennutzung-genehmigungen=1, strassenrecht=1, stvo=1, technikregulierung=4, telekom=1, tierschutz=1, transport_handel=4, umweltplanung=2, umweltverband=1, urheber=2, us_copyright=1, us_insolvency=1, verbraucher=4, verein=1, verfass=7, vergabe=1, verkehr=1, verlag=1, versammlung=1, versicherung=3, vertragserstellung=1, vertragsgestaltung=6, verwaltung=2, verwaltungsgericht=1, vollstreckung=1, weg=1, wehr=1, weltraum=1, wirtschaftsanwalt=1, wirtschaftsverwaltung=1, zeugnis=3, zivilprozess=4, zugewinnausgleich=1, zwangsverwaltung=1)\n"
+      },
+      {
+        "command": "python3 scripts/audit-quickstart-usability.py",
+        "exit_code": 0,
+        "seconds": 0.8,
+        "output_sha256": "87a1a205338595424da63bb8a37f9ceabccd79d0271f89f69e2075273e60d747",
+        "output_tail": "audit-quickstart-usability OK (254 Schnellstarts; Strukturprüfung, kein Modelltest)\n"
+      },
+      {
+        "command": "python3 scripts/audit-rechtsprechungsbestand.py --output /tmp/rechtsprechung-20260930/integriert-reproduziert.json",
+        "exit_code": 0,
+        "seconds": 4.33,
+        "output_sha256": "28f4287bcf53ee2812a70a8dbed463bfd404207de8fafe37fb90178ea0a019d4",
+        "output_tail": "{\"plugins\": 255, \"files\": 24663, \"profiles\": {\"unchanged\": 231, \"changed\": 14, \"new\": 10}}\n",
+        "postcondition": "Neu erzeugtes Bestandsregister per Python-Assertion bytegleich mit eingechecktem Register.",
+        "result_sha256": "0f9fb6946a24ecf4d4b159803f49d4b084874bdaa0b7ddf2b1a6bd70639ba7cb"
+      },
+      {
+        "command": "python3 scripts/quality-lab.py audit --require-editorial --require-workflow",
+        "exit_code": 0,
+        "seconds": 1.1,
+        "output_sha256": "580d545b335f35221083a59a285db1fb6662400c298c639facbea6e42328111d",
+        "output_tail": "255 Pluginprofile vollständig; Ergebnisbewertung separat, noch kein Modell-Pass.\n"
+      },
+      {
+        "command": "python3 scripts/test-pflegerecht-sgb-xi.py",
+        "exit_code": 0,
+        "seconds": 0.1,
+        "output_sha256": "b16c2d37f8720077a281358023a1ae49c385415ecb8a4149a4a55f0a91241625",
+        "output_tail": "..........\n----------------------------------------------------------------------\nRan 10 tests in 0.015s\n\nOK\n"
+      },
+      {
+        "command": "python3 scripts/validate-current-law-sentinels.py",
+        "exit_code": 0,
+        "seconds": 78.05,
+        "output_sha256": "6289f2311248f03dd000265e5830af042a66aec87e37526f09e4491d0240d014",
+        "output_tail": "validate-current-law-sentinels OK (26638 Markdown-Dateien, 220 Sperrmuster)\n"
+      },
+      {
+        "command": "python3 scripts/validate-prompt-packaging.py /tmp/rechtsprechung-20260930/packages-integration /tmp/rechtsprechung-20260930/packages-integration/marketplace.json",
+        "exit_code": 0,
+        "seconds": 3.53,
+        "output_sha256": "30ca55e27accccb818207ccf1d0f2b07be27c86418777d8bcd5b6c169d2acae6",
+        "output_tail": "validate-prompt-packaging OK (255 Plugins, keine Hilfsprompts in ZIPs)\n"
+      },
+      {
+        "command": "python3 scripts/validate-readme-navigation.py",
+        "exit_code": 0,
+        "seconds": 129.85,
+        "output_sha256": "48c498318d8c1d3108b156e8796abc0c4c8ec47539192120ad3c473ded20f554",
+        "output_tail": "validate-readme-navigation OK (255 Plugins, 22523 Skills, 378 Aktenseiten, 21464 lokale Links, 1605 Anker, 108005 echte Markdown-Downloads)\n"
+      },
+      {
+        "command": "python3 scripts/validate-release-zips.py /tmp/rechtsprechung-20260930/packages-integration /tmp/rechtsprechung-20260930/packages-integration/marketplace.json",
+        "exit_code": 0,
+        "seconds": 0.41,
+        "output_sha256": "b8115b21bf44eac4119f773577fe92b9c10f3383c26890349e26c2d27c6fe6e7",
+        "output_tail": "validate-release-zips OK (255 plugin ZIPs)\n"
+      },
+      {
+        "command": "python3 scripts/validate-yaml-frontmatter.py",
+        "exit_code": 0,
+        "seconds": 3.36,
+        "output_sha256": "3ffb841ccfa3e966b90fef0027bdc153ce57846ffb07b18a2a2c0b7f7c7a73e2",
+        "output_tail": "validate-yaml-frontmatter: 0 Fehler, 0 Warnungen\nOK\n"
+      }
+    ]
   }
 }

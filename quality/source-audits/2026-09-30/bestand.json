@@ -10577,9 +10577,33 @@
     {
       "plugin": "pflegerecht-sgb-xi",
       "directory": "pflegerecht-sgb-xi",
-      "profile_sha256": "61de8286aada3e526e1c6dc5b11d8a3eb8cc93d433db793bd94e23730b50db93",
+      "profile_sha256": "422acf369a35c10700ec2c6d50c6ea325971d2e6b045d28853e1751db8c247cc",
       "profile_baseline_comparison": "new",
       "profile_anchors": [
+        {
+          "citation": "Hessisches LSG, Urteil vom 22.06.2026, L 6 P 10/25",
+          "url": "https://sozialgerichtsbarkeit.hessen.de/presse/verhinderungspflege",
+          "application": "Zahlung vor Tod, Rechtsnachfolge und vorherigen Verfahrensstand prüfen; Zwölfmonatsfrist allein genügt nicht.",
+          "limit": "Amtliche Pressemitteilung vom 28.09.2026, kein hier geprüfter Volltext; Altleistungen nicht mit Frist ab 2026 vermischen."
+        },
+        {
+          "citation": "BSG, Urteil vom 18.06.2026, B 3 P 1/25 R",
+          "url": "https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2026/2026_06_18_B_03_P_01_25_R.html",
+          "application": "Ungedeckte Ausschlussfrist nach altem Paragraf 150; Formalverwaltungsakte und Zahlungsbegehren getrennt behandeln.",
+          "limit": "Gesetzliche Fristen, Verjährung und Verwirkung bleiben bestehen; keine neue Förderung heutiger Kosten."
+        },
+        {
+          "citation": "BSG, Urteil vom 13.11.2025, B 3 P 3/24 R",
+          "url": "https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2025/2025_11_13_B_03_P_03_24_R.html",
+          "application": "Kündigungssachverhalt und Verhältnismäßigkeit eigenständig für vertragliche Pflichtverletzung prüfen.",
+          "limit": "Keine automatische Haftung aus Bescheidaufhebung, aber auch kein allgemeiner Haftungsausschluss; Kausalität und Höhe nicht tragend."
+        },
+        {
+          "citation": "BSG, Urteil vom 12.06.2025, B 3 P 8/23 R",
+          "url": "https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2025/2025_06_12_B_03_P_08_23_R.html",
+          "application": "S1-Sachleistungsaushilfe, eigene Mitgliedschaft und EU-Geldleistungszuständigkeit vor Kombination trennen.",
+          "limit": "Keine Ablehnung nach Staatsangehörigkeit; Doppelrentner und eigene deutsche Versicherung gesondert prüfen."
+        },
         {
           "citation": "BSG, Urteil vom 05.03.2026, B 3 P 5/24 R",
           "url": "https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2026/2026_03_05_B_03_P_05_24_R.html",
@@ -10601,6 +10625,18 @@
       ],
       "profile_anchors_dated_2026": [
         {
+          "citation": "Hessisches LSG, Urteil vom 22.06.2026, L 6 P 10/25",
+          "url": "https://sozialgerichtsbarkeit.hessen.de/presse/verhinderungspflege",
+          "application": "Zahlung vor Tod, Rechtsnachfolge und vorherigen Verfahrensstand prüfen; Zwölfmonatsfrist allein genügt nicht.",
+          "limit": "Amtliche Pressemitteilung vom 28.09.2026, kein hier geprüfter Volltext; Altleistungen nicht mit Frist ab 2026 vermischen."
+        },
+        {
+          "citation": "BSG, Urteil vom 18.06.2026, B 3 P 1/25 R",
+          "url": "https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2026/2026_06_18_B_03_P_01_25_R.html",
+          "application": "Ungedeckte Ausschlussfrist nach altem Paragraf 150; Formalverwaltungsakte und Zahlungsbegehren getrennt behandeln.",
+          "limit": "Gesetzliche Fristen, Verjährung und Verwirkung bleiben bestehen; keine neue Förderung heutiger Kosten."
+        },
+        {
           "citation": "BSG, Urteil vom 05.03.2026, B 3 P 5/24 R",
           "url": "https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2026/2026_03_05_B_03_P_05_24_R.html",
           "application": "Gewichtung der Module und besondere Bedarfskonstellation getrennt prüfen.",
@@ -10609,28 +10645,43 @@
       ],
       "files_scanned": 15,
       "unique_dockets_detected": [
+        "B 3 P 1/25 R",
+        "B 3 P 2/25 R",
+        "B 3 P 3/24 R",
+        "B 3 P 3/25 R",
         "B 3 P 5/22 R",
         "B 3 P 5/24 R",
+        "B 3 P 8/23 R",
         "B 3 P 9/23 R"
       ],
-      "file_inventory_sha256": "3bdd46a2696fc27f1a2634e9db7127d1ba6c8a157e066bd0282ecc43b04eb5ba",
+      "file_inventory_sha256": "02043a818ba77ec5a17dbda15cb0b5f8a44427893dd685fb8bfd31b479b67031",
       "prompt_files": [
         {
           "path": "pflegerecht-sgb-xi/pflegerecht-sgb-xi-schnellstart.md",
-          "sha256": "7dc68bb4a028834806798ff42d97b4214557499063f284759dabdd67ae7cf34f",
+          "sha256": "fecf42abcfb9b42c0a373041c84bf2eebc16f4916eabe053180b1cf4092e4bd4",
           "dockets_detected": [
+            "B 3 P 1/25 R",
+            "B 3 P 2/25 R",
+            "B 3 P 3/24 R",
+            "B 3 P 3/25 R",
             "B 3 P 5/22 R",
             "B 3 P 5/24 R",
+            "B 3 P 8/23 R",
             "B 3 P 9/23 R"
           ],
           "baseline_comparison": "not_in_prompt_baseline"
         },
         {
           "path": "pflegerecht-sgb-xi/pflegerecht-sgb-xi-werkstatt.md",
-          "sha256": "dcfb5d41df967c1ed6db1c88568d59c52213cacf5cd1444687742ce305f3b98a",
+          "sha256": "8c5a610a7f41f23b66d29821b530a655dcf455c46f84ec94f9850909e785e272",
           "dockets_detected": [
+            "B 3 P 1/25 R",
+            "B 3 P 2/25 R",
+            "B 3 P 3/24 R",
+            "B 3 P 3/25 R",
             "B 3 P 5/22 R",
             "B 3 P 5/24 R",
+            "B 3 P 8/23 R",
             "B 3 P 9/23 R"
           ],
           "baseline_comparison": "not_in_prompt_baseline"
