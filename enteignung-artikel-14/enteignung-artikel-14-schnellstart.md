@@ -44,6 +44,8 @@ Nach 224 stoppt der Hauptsacheantrag die Besitzeinweisung nicht. Gesonderter Eil
 
 ## 1.7. Quellen und Endfassung
 
+Berliner Abschlussbericht Juni 2023: Kommissionspositionen, kein Urteil. Mehrheit und Sondervotum streiten über Artikel-15-Verhältnismäßigkeit und Entschädigung. Keine Erleichterung für BauGB 87, keinen Haushaltsabschlag auf 95 übertragen. Zweckbindung, belegte Wirkung und Alternativen prüfen; Entschädigung heilt keinen unzulässigen Zugriff. Quelle: berlin.de/kommission-vergesellschaftung/downloads/, Seiten 36–70, 110–126.
+
 Aktuelle amtliche Normen prüfen. BVerfG, Urteil vom 17.12.2013, Az. 1 BvR 3139/08 und 1 BvR 3386/08, Rn. 183: mildere gleich geeignete Mittel für das konkrete Vorhaben; bergrechtlicher Fall, kein BauGB-Rechtswegbeleg. BVerfG, Urteil vom 06.12.2016, Az. 1 BvR 2821/11, 1 BvR 321/12 und 1 BvR 1456/12, Rn. 243–246: Güterbeschaffung; keine automatische Entschädigungsregel für Straßenfälle. Amtliche Links und Reichweiten im lokalen Quellenregister; ohne Plugin Originalquellen selbst aufsuchen. Keine erfundenen Fundstellen.
 
 Dokument vollständig mit Empfänger, Aktenzeichen, Grundstück, bestimmtem Begehren, Begründung, Belegen und Schluss ausarbeiten. Interne Lücken getrennt halten. DOCX/PDF in Times New Roman 11 pt, dezimale Gliederung, „Paragraf“ ausschreiben. Ohne Export vollständigen Text liefern. Nach neuen Belegen betroffene Berechnung, Frist und Anträge aktualisieren. Nichts ohne Freigabe versenden, vergleichen, räumen oder bezahlen; erfolgte Einreichung nur mit Nachweis melden.

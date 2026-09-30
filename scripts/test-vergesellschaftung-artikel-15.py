@@ -69,7 +69,7 @@ class VergesellschaftungTests(unittest.TestCase):
 
     def test_profile_and_editorial_hashes(self):
         validate_profile(PROFILE, SLUG, PLUGIN, ROOT)
-        self.assertEqual(len(PROFILE["cases"]), 5)
+        self.assertGreaterEqual(len(PROFILE["cases"]), 5)
         for kind, review in (("schnellstart", "mini_review"), ("werkstatt", "workshop_review")):
             raw = (PLUGIN / f"{SLUG}-{kind}.md").read_bytes()
             self.assertEqual(hashlib.sha256(raw).hexdigest(), PROFILE[review]["sha256"])
@@ -190,6 +190,138 @@ class VergesellschaftungTests(unittest.TestCase):
                 if "://" in target or target.startswith("#"):
                     continue
                 self.assertTrue((path.parent / target.split("#")[0]).resolve().exists(), (path, target))
+
+
+class BerlinerArgumentationskartenTests(unittest.TestCase):
+    """Redaktionelle Textverträge, keine juristische Bewertung von Modellantworten."""
+
+    REFERENCE = "references/berliner-kommissionsbericht.md"
+    MINI = f"{SLUG}-schnellstart.md"
+    WORKSHOP = f"{SLUG}-werkstatt.md"
+
+    def section(self, relative_path, number):
+        source = (PLUGIN / relative_path).read_text(encoding="utf-8")
+        # Nur den bezeichneten Abschnitt prüfen, nicht benachbarte Wortvorkommen.
+        match = re.search(
+            rf"(?ms)^#{{1,6}} {re.escape(number)}\. [^\n]+\n(.*?)(?=^#{{1,6}} |\Z)", source
+        )
+        self.assertIsNotNone(match, (relative_path, number))
+        return compact(match[1])
+
+    def assert_passages(self, relative_path, number, *passages):
+        text = self.section(relative_path, number)
+        for passage in passages:
+            with self.subTest(file=relative_path, section=number, passage=passage):
+                self.assertIn(compact(passage), text)
+
+    def test_package_local_reference_is_linked_from_sources_and_skills(self):
+        reference = PLUGIN / self.REFERENCE
+        self.assertTrue(reference.is_file())
+        self.assertEqual(reference.resolve().parent, (PLUGIN / "references").resolve())
+        skills = sorted((PLUGIN / "skills").glob("*/SKILL.md"))
+        self.assertTrue(skills)
+        for path in [PLUGIN / "references/vergesellschaftung-quellen.md", *skills]:
+            with self.subTest(file=path.relative_to(PLUGIN)):
+                links = re.findall(r"\]\(([^)]+)\)", path.read_text(encoding="utf-8"))
+                links = [link for link in links if "berliner-kommissionsbericht.md" in link]
+                self.assertTrue(links, path)
+                for link in links:
+                    self.assertNotIn("://", link)
+                    self.assertEqual((path.parent / link.split("#")[0]).resolve(), reference.resolve())
+
+    def test_report_positions_are_not_presented_as_case_law(self):
+        self.assert_passages(self.REFERENCE, "1.1",
+                             "Mehrheitsbegründung, Sondervoten und eine ergänzende Stellungnahme",
+                             "gedruckten Seiten, nicht die um zwei höheren PDF-Seiten",
+                             "Der Bericht ist weder Gesetz noch Gerichtsentscheidung.")
+        self.assert_passages(self.REFERENCE, "1.3",
+                             "Die tragende Mehrheitslinie wendet einen modifizierten Maßstab an",
+                             "Das Sondervotum zur Verhältnismäßigkeit verlangt eine strengere grundrechtliche Gegenprüfung",
+                             "Es lehnt Vergesellschaftung nicht schlechthin ab.",
+                             "Verwende keine Mehrheitsabstimmung der Kommission als Rechtsbeweis.")
+        self.assert_passages(self.WORKSHOP, "7.1",
+                             "als Argumentationsmaterial, nicht als gerichtliche Freigabe",
+                             "ohne Vergesellschaftung grundsätzlich auszuschließen")
+        self.assert_passages(self.MINI, "1.4", "Der Abschlussbericht Juni 2023 ist kein Urteil.",
+                             "verbietet Vergesellschaftung aber nicht generell",
+                             "Prüfe den Fall unter beiden Maßstäben")
+        self.assert_passages("skills/vergesellschaftungsvorhaben-einordnen/SKILL.md", "3.5",
+                             "Eine Kommissionsmehrheit entscheidet den Verfassungsstreit nicht.")
+
+    def test_article14_and_housing_hessen_transfer_limits_remain_explicit(self):
+        self.assert_passages(self.MINI, "1.2",
+                             "Nutzungsordnung nach Artikel 14 Absatz 1 Satz 2 GG",
+                             "Güterbeschaffung nach Absatz 3",
+                             "gesetzliche Überführung in Gemeinwirtschaft nach Artikel 15")
+        self.assert_passages(self.WORKSHOP, "4",
+                             "Es ist kein Urteil über ein Vergesellschaftungsgesetz.",
+                             "Für konkrete Einzelenteignung nicht den Artikel-15-Workflow als verkürzten Ersatz benutzen.")
+        self.assert_passages(self.REFERENCE, "1.4",
+                             "3000 Wohnungen ist eine Berliner Gestaltungsfrage, kein allgemeiner Artikel-15-Tatbestand")
+        self.assert_passages(self.REFERENCE, "1.6",
+                             "Hessische Artikel 39–41 und 45 müssen eigenständig ausgelegt werden.")
+        self.assert_passages(self.MINI, "1.4", "Berliner Mietprognosen beweisen keine Netzentgeltwirkung.")
+        self.assert_passages("skills/energienetz-und-unionsrecht-abgleichen/SKILL.md", "3.6",
+                             "Behauptete Mietsenkungen beweisen keine günstigeren Netzentgelte.")
+
+    def test_compensation_models_keep_counterarguments_in_each_surface(self):
+        surfaces = (
+            (self.REFERENCE, "1.5", "Das Sondervotum wendet sich insbesondere gegen den Zirkelschluss",
+             "Eine finanzielle Obergrenze ist eine streitige rechtliche These"),
+            (self.WORKSHOP, "9.1", "Das Sondervotum beanstandet insbesondere die Ableitung der Entschädigung",
+             "Keine Prozentquote mitteln und keine feste Untergrenze erfinden."),
+            (self.MINI, "1.5", "Mietziele oder Budgets rechtfertigen nicht selbst die Entschädigung.",
+             "Hypothetische Schranken müssen zulässig und entschädigungsfrei sein."),
+            ("skills/entschaedigung-und-finanzierung-pruefen/SKILL.md", "3.5",
+             "Das Sondervotum beanstandet insbesondere die Ableitung der Entschädigung",
+             "keine gemittelte Kompromissquote"),
+        )
+        for path, number, objection, constraint in surfaces:
+            with self.subTest(file=path):
+                text = self.section(path, number)
+                for model in (r"gemeinwirtschaftlich\w* (?:Ertr\w*|Bewirtschaftung)",
+                              r"fiskalisch\w*", r"hypothetisch\w*", r"Verkehrswert\w*"):
+                    self.assertRegex(text, model)
+                self.assert_passages(path, number, objection, constraint)
+                self.assertIn("entschädigungsfrei", text)
+                self.assertIn("Bestandsschutz", text)
+                self.assertIn("nicht umgesetzte", text)
+        self.assert_passages(self.REFERENCE, "1.5",
+                             "In Rn. 244 argumentiert die Mehrheit hilfsweise",
+                             "Das belegt kein eigenständiges Mehrheitslager mit Verkehrswertbindung.",
+                             "Die Mehrheit lehnt zusätzliche Beteiligtenstellung allein wegen Anteilwertverlusts ab",
+                             "das Sondervotum verlangt Berücksichtigung weitergehender Schäden der Mutterunternehmen")
+        self.assert_passages(self.MINI, "1.5", "statt automatischem Vollmarktwert oder Pauschalabschlag")
+
+    def test_framework_act_2026_is_not_yet_in_force_or_a_transfer(self):
+        # Fester Quellenstand; weder Tagesdatum noch Netzabfrage steuern den Test.
+        surfaces = (
+            (self.REFERENCE, "1.1", "ist also am Prüfdatum noch nicht in Kraft",
+             "Es vollzieht selbst keine Übertragung"),
+            (self.WORKSHOP, "7.3", "Es ist daher noch nicht in Kraft.",
+             "Für eine konkrete Übertragung verlangt es ein Anwendungsgesetz."),
+            (self.MINI, "1.4", "Noch nicht geltend; kein selbständiger Eigentumsübergang und kein Artikel-14-Gesetz.",
+             "Keine Position ungeprüft auf Hessen übertragen."),
+            ("skills/landeskompetenz-und-hessenrecht-pruefen/SKILL.md", "3.5",
+             "Am 30.09.2026 daher nicht als geltende hessische oder Berliner Übertragungsgrundlage verwenden.",
+             "Fassung und Zeitbezug im Vermerk ausdrücklich festhalten."),
+        )
+        for path, number, status, limit in surfaces:
+            with self.subTest(file=path):
+                self.assert_passages(path, number, "18.03.2026", "27.03.2026", "30.09.2026", status, limit)
+                self.assertRegex(self.section(path, number), r"Paragraf(?:en)? 8[^.]{0,100}erst 24 Monate")
+
+    def test_weg_correction_is_carried_into_skill_workshop_and_mini(self):
+        surfaces = (
+            (self.REFERENCE, "1.2", "Die verkürzte Einordnung als bloß beschränktes dingliches Recht in Rn. 85 des Berichts nicht übernehmen."),
+            (self.WORKSHOP, "7.2", "die abweichende verkürzte Beschreibung des Berichts nicht übernehmen"),
+            (self.MINI, "1.2", "nicht bloß ein beschränktes dingliches Recht"),
+            ("skills/gegenstaende-und-anteile-abgrenzen/SKILL.md", "3.5", "nicht als bloß beschränktes dingliches Recht"),
+        )
+        for path, number, correction in surfaces:
+            with self.subTest(file=path):
+                self.assert_passages(path, number, "Paragraf 1 Absatz 2 WEG", correction)
+                self.assertRegex(self.section(path, number), r"Sondereigentum (?:verbunden )?mit Miteigentumsanteil")
 
 
 if __name__ == "__main__":

@@ -1,6 +1,6 @@
 # urteilsbauer-relationsmacher
 
-**84 Skills** · Stand `v445.15.2`
+**84 Skills** · Stand `v445.15.3`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../urteilsbauer-relationsmacher/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

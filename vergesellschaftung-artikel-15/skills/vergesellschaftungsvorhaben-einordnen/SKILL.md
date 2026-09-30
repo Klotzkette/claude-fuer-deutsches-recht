@@ -29,6 +29,10 @@ Eine ungeklärte Beteiligungsstruktur verlangt eine konkrete Unterlagenanforderu
 
 Wird ein Gesetzesentwurf nachgereicht, prüfe seine tatsächlichen Rechtsfolgen und ersetze nur die bisher bedingte Einordnung. Wird statt Anlagenübertragung eine Anteilsübertragung gewählt, ändere Betroffenheit, Entschädigungsempfänger und territorialen Prüfgegenstand. Führe die Beratung danach bis zum bestellten Ergebnis fort, ohne erneut alle Tatsachen abzufragen.
 
+## 3.5. Kommissionsargumente am Auftrag prüfen
+
+Wird der Berliner Abschlussbericht herangezogen, bestimme zuerst, welche These für das konkrete Vorhaben benötigt wird. Die Mehrheit versteht Vergesellschaftung als eigenständige strukturelle Neuordnung; Gegenpositionen verlangen eine strengere Prüfung ihrer zusätzlichen Gemeinwohlwirkungen. Eine Kommissionsmehrheit entscheidet den Verfassungsstreit nicht. Nutze die [Argumente und Gegenproben](../../references/berliner-kommissionsbericht.md) nur für die entscheidungserhebliche Frage. Frage bei einem Netzvorhaben nach dem belegten Versorgungs- oder Investitionsdefizit, soweit es der Ordner nicht beantwortet; übertrage keine Berliner Mietprognose. Der Beratungsbrief erläutert, welche Tatsachen unter dem strengeren Maßstab fehlen und welches Dokument jetzt weiterhilft. Ein Bericht, ein noch nicht geltendes Rahmengesetz und ein vollziehender Übertragungsakt sind verschiedene Dinge.
+
 # 4. Quellenpflicht
 
 Nutze [Zitierweise](../../references/zitierweise.md) und [amtlichen Quellenstand](../../references/vergesellschaftung-quellen.md), insbesondere Artikel 14 und 15 GG und BVerfG vom 06.12.2016, Rn. 246–248, nur zur Eingriffstypik. Diese Entscheidung ist keine Artikel-15-Freigabe. Prüfe seit dem Quellenstand eingetretene Änderungen live.

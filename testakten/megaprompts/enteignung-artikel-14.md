@@ -144,6 +144,10 @@ Lies zunächst den freigegebenen Ordner einschließlich E-Mail-Anhängen und Zus
 4. Lies Zugangsbelege und tatsächliche Anträge. Trenne eine von der Behörde erbetene Antwortfrist von einer Rechtsbehelfsfrist. Bei anstehendem Baubeginn Besitzlage sofort prüfen, ohne ein nicht vorhandenes Eilverfahren zu behaupten.
 5. Schreibe den Brief aus Sicht des Auftraggebers. Nenne die stärkste gesicherte Feststellung und die entscheidende offene Frage. Nach neuem Beschluss aktualisiere Frist, Empfänger und Handlung; vorhandene Daten bleiben erhalten.
 
+### 3.1. Berliner Bericht richtig einordnen
+
+Wenn der Auftrag den Berliner Kommissionsbericht anführt, nutze die [Abgrenzung und Gegenargumente](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/enteignung-artikel-14/references/berliner-kommissionsbericht.md). Ein Übergang vieler Grundstücke ist nicht allein wegen seiner Größe Vergesellschaftung; maßgeblich ist auch die gesetzlich gesicherte gemeinwirtschaftliche Wirtschaftsweise. Das Berliner Rahmengesetz von 2026 ist kein vollziehender Enteignungstitel und am 30.09.2026 noch nicht in Kraft. Erläutere im Brief, ob der Auftrag eine Grundstückseingabe oder einen eigenständigen Artikel-15-Prüfweg benötigt. Die Kommissionsmehrheit ersetzt keine gerichtliche Klärung.
+
 ## 4. Quellenprüfung
 
 Nutze [Rechtsgrundlagen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/enteignung-artikel-14/references/rechtsgrundlagen.md), insbesondere Artikel 14 und 15, BauGB 85, 87, 104 sowie BVerfG vom 06.12.2016, Rn. 243–246. Die atomrechtliche Entscheidung ersetzt keine Prüfung der konkreten Straßenplanung. Beachte die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/enteignung-artikel-14/references/zitierweise.md).
@@ -179,6 +183,10 @@ Lies Wertgutachten, Plan, Angebote, Mietvertrag, Kostenbelege und CSV-Tabellen. 
 5. Vermeide Doppelzählungen zwischen neuer Einfriedung, alter Anlage, Restwertminderung und Betriebsverlagerung. Vorteile und Mitverursachung prüfen. Sicherheitsleistung ist keine zusätzliche endgültige Entschädigung.
 6. Beurteile notwendige Aufwendungen und anwaltliche Vertretung nach Paragraf 121 gesondert von gerichtlichen Kosten und Honorarvereinbarung. Keine vollständige Erstattung zusagen, solange Notwendigkeit oder Betrag offen sind.
 7. Nach neuer Rechnung betroffene Position und Gesamtsumme aktualisieren, vorherige Annahme nachvollziehbar ersetzen. Unbezifferbare Positionen nicht mit null ansetzen.
+
+### 3.1. Kein Sozialabschlag aus einem anderen Eingriffstyp
+
+Bei Berufung auf den [Berliner Bericht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/enteignung-artikel-14/references/berliner-kommissionsbericht.md) seine Artikel-15-Modelle von der BauGB-Berechnung trennen. Künftiger gemeinwirtschaftlicher Ertrag, Haushaltsgrenze und hypothetische Nutzungsbeschränkung begründen keinen pauschalen Abschlag vom Wert nach Paragraf 95. Bestehende wertprägende Bindung und bloß gedachte politische Beschränkung sind verschieden. Bei Konzernstrukturen unmittelbaren Rechtsverlust, behaupteten Zusatzschaden und bereits abgegoltenen Anteilwertverlust gesondert prüfen. Nutze die Gegenposition zur Kontrolle einer Doppelentschädigung, nicht zur Erfindung eines Anspruchs der Muttergesellschaft. Fordert der Auftraggeber eine Vergleichsberechnung nach Artikel 15, diese ausdrücklich als anderen Prüfungsauftrag ausweisen.
 
 ## 4. Quellenprüfung
 
@@ -284,6 +292,10 @@ Lies Planzeichnung, textliche Festsetzungen, Bekanntmachung, Flächenverzeichnis
 4. Prüfe nach Paragraf 92 eine geringere Fläche oder Rechtsbelastung. Bei verlangtem Restflächenerwerb verbleibende bauliche und wirtschaftliche Nutzung belegen, nicht allein den Wunsch nach vollständiger Auszahlung.
 5. Prüfe nach Paragraf 87 Absatz 2, ob eine Verwendung in angemessener Zeit glaubhaft gemacht ist. Förderzusage, Ausschreibung, Finanzierungsbeschluss und Wunschdatum getrennt bewerten.
 6. Verfasse die begründete Eingabe mit konkretem Begehren und benannten Belegen. Neue Variantenpläne ändern nur die betroffenen Flächen, Kosten und Argumente; gegenteilige Befunde ausdrücklich einarbeiten.
+
+### 3.1. Strukturelle Ziele nicht als erleichterte Enteignung behandeln
+
+Die [Berliner Debatte](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/enteignung-artikel-14/references/berliner-kommissionsbericht.md) über einen modifizierten Artikel-15-Maßstab senkt nicht die Anforderungen des Paragrafen 87 BauGB. Prüfe Zweckwirkung und Eingriffsbelastung anhand des konkreten Vorhabens. Dauerhafte Zweckbindung des begünstigten Trägers, Kontrollrechte und Folgen zweckwidriger Verwendung benennen; öffentliche Eigentümerstellung oder Arbeitsplatzeffekt allein genügen nicht als Begründung. BVerfG vom 17.12.2013, Rn. 187–188, trennt die Gesamtabwägung von der Entschädigung. Ein höheres Angebot heilt keinen unzulässigen Zugriff. Formuliere bei fehlender Wirkungsprognose die konkrete Nachforderung und die bereits tragfähige Einwendung, nicht nur einen Rechercheauftrag.
 
 ## 4. Quellenprüfung
 

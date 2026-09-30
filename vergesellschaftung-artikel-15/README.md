@@ -62,7 +62,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
-| [Energienetz Hessen](../testakten/vergesellschaftung-energienetz-hessen/README.md) | [Gesamt-PDF](../testakten/vergesellschaftung-energienetz-hessen/gesamt-pdf/vergesellschaftung-energienetz-hessen_gesamt.pdf) | [`testakte-vergesellschaftung-energienetz-hessen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.15.2/testakte-vergesellschaftung-energienetz-hessen.zip) | [`testakte-vergesellschaftung-energienetz-hessen-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.15.2/testakte-vergesellschaftung-energienetz-hessen-einzelpdfs.zip) |
+| [Energienetz Hessen](../testakten/vergesellschaftung-energienetz-hessen/README.md) | [Gesamt-PDF](../testakten/vergesellschaftung-energienetz-hessen/gesamt-pdf/vergesellschaftung-energienetz-hessen_gesamt.pdf) | [`testakte-vergesellschaftung-energienetz-hessen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.15.3/testakte-vergesellschaftung-energienetz-hessen.zip) | [`testakte-vergesellschaftung-energienetz-hessen-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.15.3/testakte-vergesellschaftung-energienetz-hessen-einzelpdfs.zip) |
 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->
@@ -92,6 +92,12 @@ Das Plugin bearbeitet die gesetzliche Überführung von Grund und Boden, Natursc
 Die konkrete Güterbeschaffung für ein Einzelvorhaben nach Artikel 14 Absatz 3 GG ist Gegenstand von [Enteignung nach Artikel 14](../enteignung-artikel-14/README.md). Bloße Nutzungsbeschränkungen sind zunächst an Artikel 14 Absatz 1 Satz 2 GG zu messen. Dieses Plugin ist weder ein universelles Enteignungswerkzeug noch eine allgemeine Datenschutzberatung zu Artikel 15 DSGVO.
 
 [Amtliche Quellen und Reichweitengrenzen](references/vergesellschaftung-quellen.md), geprüft am 28.09.2026, unterscheiden geltendes Recht, Rechtsprechung und amtliche wissenschaftliche Ausarbeitung. Eine unmittelbar über die Verfassungsmäßigkeit eines modernen Artikel-15-Vergesellschaftungsgesetzes entscheidende BVerfG-Entscheidung wird hier nicht behauptet. Die umstrittenen Maßstäbe werden nicht durch vermeintlich verbindliche Berliner Empfehlungen ersetzt.
+
+### 3.1. Berliner Bericht: Argumente und Gegenargumente
+
+Die Auswertung des Berliner Abschlussberichts von 2023 ist in allen neun Skills sowie in Werkstatt und Schnellstart eingebaut: Verhältnismäßigkeit mit Gegenprobe, gesetzliche Bestimmbarkeit, Auswahlgrenzen, gemeinwirtschaftliche Bindung, Entschädigungsmodelle und Landesverfassungsstreit. Die Bearbeitung führt zu einer begründeten Beratung, einem Entwurf oder einer Stellungnahme, nicht zu einer bloßen Berichtszusammenfassung. Mehrheit, Sondervoten und ergänzende Stellungnahme bleiben unterscheidbar; Berliner Wohnungsannahmen werden nicht ungeprüft auf die hessische Netzakte übertragen.
+
+Die <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vergesellschaftung-artikel-15/references/berliner-kommissionsbericht.md" download>Argumentationskarte als Markdown</a> enthält knappe Fundstellen und den Abgleich mit dem 2026 verkündeten, am 30.09.2026 noch nicht in Kraft befindlichen Berliner Rahmengesetz. Der Bericht wird nicht als Gerichtsurteil behandelt. English: The report's competing arguments inform the workflows; they are not presented as binding law or as a ready-made answer for another state or sector.
 
 ## 4. Zentrale Akte
 

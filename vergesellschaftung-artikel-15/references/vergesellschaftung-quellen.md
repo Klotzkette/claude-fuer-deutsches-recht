@@ -50,4 +50,6 @@ Die amtliche [Information des Staatsgerichtshofs Hessen zur Grundrechtsklage](ht
 
 ## 7. Verbleibende Grenzen
 
+Ergänzend am 30.09.2026: Die [Auswertung des Berliner Kommissionsberichts](berliner-kommissionsbericht.md) enthält Mehrheitsargumente und Gegenpositionen mit Fundstellen, Anwendungsgrenzen sowie den zeitlichen Abgleich zum Berliner Rahmengesetz von 2026. Sie ist gezielt nach Streitfrage heranzuziehen, nicht als verbindliche Rechtsprechung. Die dortige Korrektur der Wohnungseigentumseinordnung folgt Paragraf 1 Absatz 2 WEG; Berichtsaussagen werden nicht ungeprüft übernommen.
+
 Keine umfassende Untersuchung historischer hessischer Sozialisierungs-Durchführungsgesetze oder jeder Konzession. Kein Verkehrswertgutachten, keine Beihilfeentscheidung und kein Nachweis kommunaler Haushaltsgenehmigungen. Diese Unterlagen sind fallbezogen zu beschaffen. Die dokumentierte Quellenprüfung ist eine redaktionelle Prüfung, kein gerichtlicher oder live ausgeführter Modelltest.

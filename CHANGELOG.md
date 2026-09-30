@@ -1,3 +1,17 @@
+# v445.15.3 - Berliner Kommissionsargumente in Eigentumsverfahren
+
+## 1. Vergesellschaftung mit begründeter Gegenprüfung
+
+Der Berliner Abschlussbericht von Juni 2023 einschließlich Sondervoten und ergänzender Stellungnahme ist in die neun Skills sowie Werkstatt und Schnellstart zur Vergesellschaftung eingearbeitet. Die Arbeitswege behandeln modifizierte und strengere Verhältnismäßigkeitsprüfung, tatsächliche Wirkungen, Alternativen, Auswahlgrenzen, gesetzliche Bestimmbarkeit, gemeinwirtschaftliche Trägerschaft, Entschädigungsmodelle und Landesverfassungsstreit. Wohnungsannahmen werden nicht als Ergebnis für hessische Energienetze übernommen. Die Bearbeitung führt zu konkreten Regelungen, Stellungnahmen und Beratungsbriefen statt einer bloßen Zusammenfassung des Berichts.
+
+## 2. Enteignung und Quellenstatus trennen
+
+Das Enteignungspaket übernimmt die einschlägigen Gegenargumente zur Eingriffseinordnung, Zweckbindung und Bewertung, ohne den BauGB-Maßstab durch streitige Artikel-15-Modelle zu ersetzen. Eigenständige Argumentationskarten unterscheiden Kommissionsauffassung, Tatsachenprognose, geltendes Recht und Gestaltungsansatz. Verkürzte Wohnungseigentumseinordnung und unstimmige Modellgewichte aus dem Bericht werden nicht ungeprüft weitergegeben. Der Abgleich mit dem Berliner Rahmengesetz von 2026 wahrt dessen erst 24 Monate nach Verkündung vorgesehenes Inkrafttreten und den Bedarf eines Anwendungsgesetzes.
+
+## 3. Prüfung und eigenständige Nutzung
+
+Zehn zusätzliche Evaluationsaufträge decken typische Fehlübertragungen und Gegenpositionen ab; Strukturregressionen sichern Referenzzugang und eigenständige Prompts. Diese Prüfungen sind keine behaupteten Live-Modellläufe. Beide Kurzprompts bleiben unter 7500 UTF-8-Bytes. Bestehende Fallunterlagen, Skillnamen und Installationsstruktur bleiben unverändert. Versionen, Qualitätsnachweise und Downloadverzeichnisse sind nachgeführt.
+
 # v445.15.2 - Finale Leitlinien zu Artikel 50 in den Transparenzabläufen
 
 ## 1. Konkretisierte Prüfwege

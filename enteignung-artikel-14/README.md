@@ -62,7 +62,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
-| [Verkehrsfläche Am Weidenrain in Göttingen](../testakten/enteignung-verkehrsflaeche-goettingen/README.md) | [Gesamt-PDF](../testakten/enteignung-verkehrsflaeche-goettingen/gesamt-pdf/enteignung-verkehrsflaeche-goettingen_gesamt.pdf) | [`testakte-enteignung-verkehrsflaeche-goettingen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.15.2/testakte-enteignung-verkehrsflaeche-goettingen.zip) | [`testakte-enteignung-verkehrsflaeche-goettingen-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.15.2/testakte-enteignung-verkehrsflaeche-goettingen-einzelpdfs.zip) |
+| [Verkehrsfläche Am Weidenrain in Göttingen](../testakten/enteignung-verkehrsflaeche-goettingen/README.md) | [Gesamt-PDF](../testakten/enteignung-verkehrsflaeche-goettingen/gesamt-pdf/enteignung-verkehrsflaeche-goettingen_gesamt.pdf) | [`testakte-enteignung-verkehrsflaeche-goettingen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.15.3/testakte-enteignung-verkehrsflaeche-goettingen.zip) | [`testakte-enteignung-verkehrsflaeche-goettingen-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.15.3/testakte-enteignung-verkehrsflaeche-goettingen-einzelpdfs.zip) |
 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->
@@ -94,6 +94,12 @@ Ordner bereitstellen und die eigene Rolle nennen. Ohne konkreten Auftrag werden 
 Eine schwere Nutzungsbeschränkung ist nicht schon eine Enteignung. Artikel 14 Absatz 1 Satz 2 GG, konkrete Güterbeschaffung nach Absatz 3 und Vergesellschaftung nach Artikel 15 werden getrennt. Für die Überführung ganzer Wirtschaftsbereiche in Gemeineigentum oder Gemeinwirtschaft ist das eigenständige Plugin `vergesellschaftung-artikel-15` zuständig. Dieses Plugin bleibt ohne jenes installierbar und erklärt die notwendige Abgrenzung selbst.
 
 Spezialgesetzliche Straßen-, Eisenbahn- und Energieverfahren sind zuerst nach ihrem eigenen Fachrecht einzuordnen. Die BauGB-Route wird nicht allein wegen des Wortes „Verkehrsfläche“ unterstellt. Ein Bebauungsplan ist weder Eigentumsübertragung noch automatische Besitzeinweisung. Rechtsstand der verifizierten Ausgangsquellen: 28.09.2026; für die konkrete Bearbeitung erneut prüfen.
+
+### 1.3.1. Berliner Bericht als Gegenprüfung
+
+Der Berliner Kommissionsbericht von 2023 wird für die Abgrenzung zur Vergesellschaftung, belegte Zweckwirkungen, dauerhafte Zweckbindung und die Grenzen von Entschädigungsargumenten genutzt. Seine Mehrheitspositionen und Sondervoten verändern nicht den BauGB-Maßstab. Die einschlägigen Skills sowie Werkstatt und Schnellstart berücksichtigen diese Grenzen, ohne die Grundstücksbearbeitung durch ein allgemeines Vergesellschaftungsgutachten zu ersetzen.
+
+Die <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=enteignung-artikel-14/references/berliner-kommissionsbericht.md" download>Argumentationskarte als Markdown</a> erklärt auch, weshalb das 2026 verkündete Berliner Rahmengesetz keine Artikel-14-Enteignungsgrundlage ist. English: The report helps distinguish socialisation from expropriation; its contested compensation models do not replace the applicable statutory valuation rules.
 
 ## 1.4. Zentrale Quellenakte Göttingen
 

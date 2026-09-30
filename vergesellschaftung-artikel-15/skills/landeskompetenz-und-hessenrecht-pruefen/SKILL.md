@@ -29,6 +29,10 @@ Lege Artikel 45 der Hessischen Verfassung im Zusammenhang mit ihren Wirtschaftsb
 
 Liefere für jede streitige Regelung eine begründete Aussage mit einer konkreten Änderungs- oder Aufklärungsfolge. Eine Haushaltsgenehmigung ersetzt weder Gesetzgebungskompetenz noch Eigentumsprüfung. Neue Angaben zum Unternehmensursprung ändern den historischen Abschnitt; ein auf Hessen beschränkter Anlagenzuschnitt verändert den Territorialabschnitt. Die übrigen geprüften Teile bleiben erhalten. Entwerfe auf Wunsch sofort die daraus folgende Stellungnahme oder Gesetzesbegründung, nicht nur einen Hinweis auf weiteren Beratungsbedarf.
 
+## 3.5. Berliner Gegenpositionen kontrolliert übertragen
+
+Bearbeite bei Berufung auf den [Berliner Bericht](../../references/berliner-kommissionsbericht.md) beide Landesverfassungsthesen: Nach der Mehrheit darf Artikel 23 VvB die grundgesetzlich eröffnete Vergesellschaftung nicht sperren; das Sondervotum verlangt zuvor eine Landesverfassungsänderung. Begründe für das tatsächlich betroffene Land Schutzumfang, Normkollision und Bedeutung von Artikel 142 GG. Weder die Berliner Mehrheitslösung noch das Sondervotum entscheidet ohne Weiteres Artikel 45 der Hessischen Verfassung. Für Nebenregeln, etwa Mietvertragsfortbestand, die behauptete Unerlässlichkeit konkret prüfen; bloße Zweckmäßigkeit genügt nicht zur Überschreibung von Bundesrecht. Das Berliner Rahmengesetz vom 18.03.2026, verkündet am 27.03.2026, tritt nach Paragraf 8 erst 24 Monate nach Verkündung in Kraft. Am 30.09.2026 daher nicht als geltende hessische oder Berliner Übertragungsgrundlage verwenden. Fassung und Zeitbezug im Vermerk ausdrücklich festhalten.
+
 # 4. Quellenpflicht
 
 Nutze [Zitierweise](../../references/zitierweise.md) und [Quellenstand](../../references/vergesellschaftung-quellen.md). Artikel 31, 72, 74, 142 GG; Artikel 39–41, 45 und 137 der Hessischen Verfassung. BVerfG vom 15.10.1997, 2 BvN 1/95, Rn. 62–69, nur für das Verhältnis der Normebenen heranziehen, nicht als Entscheidung über ein hessisches Artikel-15-Gesetz. Aktuelle amtliche Fassungen prüfen.

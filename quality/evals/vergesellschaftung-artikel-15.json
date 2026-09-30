@@ -1,37 +1,116 @@
 {
   "schema_version": 1,
   "plugin": "vergesellschaftung-artikel-15",
-  "reviewed_on": "2026-09-28",
+  "reviewed_on": "2026-09-30",
   "mini_review": {
     "verdict": "revised",
     "reason": "Eigenständig handverfasster Kurzauftrag mit Ordnerstart, konkreter Antwortfortsetzung und hessischem Netzbezug; redaktionelle Prüfung, kein Live-Modelllauf.",
-    "changes": ["Gegenstand, Gesetzesstand und Mandatsrolle vor der Rechtsfolge bestimmen.", "Landesgrundrechte, historischer Artikel 41 und aktuelle Rechtsschutzwege ausdrücklich getrennt.", "Kein fachfremder Reformexkurs; Betriebsübergang bleibt fallbezogen."],
-    "sha256": "bb859eec2668169a490efe2e850f2924692ac9b4cf864f7cb2a05fced706120d"
+    "changes": [
+      "Gegenstand, Gesetzesstand und Mandatsrolle vor der Rechtsfolge bestimmen.",
+      "Landesgrundrechte, historischer Artikel 41 und aktuelle Rechtsschutzwege ausdrücklich getrennt.",
+      "Kein fachfremder Reformexkurs; Betriebsübergang bleibt fallbezogen.",
+      "Berliner Kommissionsargumente und Gegenpositionen fallbezogen integriert; Artikel 14/15, Tatsachenprognose und Rechtsstand getrennt."
+    ],
+    "sha256": "444957bfeb86f961081dbdea1fce5014b369263a70c269cac3a4f679cd6b56bc"
   },
   "workshop_review": {
     "verdict": "revised",
     "reason": "Individuelle Artikel-15-Werkstatt mit drei Einstiegen und ausgearbeiteten Bearbeitungswegen statt generischem Skillwrapper. Rechtsbehauptungen anhand amtlicher Quellen redaktionell geprüft.",
-    "changes": ["Eigenständige Behandlung von Anteilen, Gemeinwirtschaft, Kompetenz und Landesverfassung.", "Anlagen- und Eigenkapitalbewertung sowie Finanzierungsbedingungen auseinandergehalten.", "Nach Antworten konkrete Gesetzes-, Beratungs- oder Stellungnahmefassung fertigstellen."],
-    "sha256": "7963937b529bdc598630da3020403a20ff75818c6d0723628c701021776268d6"
+    "changes": [
+      "Eigenständige Behandlung von Anteilen, Gemeinwirtschaft, Kompetenz und Landesverfassung.",
+      "Anlagen- und Eigenkapitalbewertung sowie Finanzierungsbedingungen auseinandergehalten.",
+      "Nach Antworten konkrete Gesetzes-, Beratungs- oder Stellungnahmefassung fertigstellen.",
+      "Berliner Kommissionsargumente und Gegenpositionen fallbezogen integriert; Artikel 14/15, Tatsachenprognose und Rechtsstand getrennt."
+    ],
+    "sha256": "ff7a2e6c4e66dac44fae87847b0b7676433994aa8af6123e38453928626a819e"
   },
   "selection": {
     "target_skill": "vergesellschaftungsvorhaben-einordnen",
-    "positive": ["Erstelle aus der hessischen Netzakte unsere kommunale Stellungnahme zur geplanten Vergesellschaftung.", "Prüfe für ein Artikel-15-Gesetz die Übernahme von Netzanteilen, Landeskompetenz und gemeinwirtschaftliche Bindungen."],
-    "negative": ["Beantworte ein Auskunftsbegehren nach Artikel 15 DSGVO.", "Beantrage die Enteignung eines einzelnen Grundstücksstreifens für einen Straßenbau nach BauGB."]
+    "positive": [
+      "Erstelle aus der hessischen Netzakte unsere kommunale Stellungnahme zur geplanten Vergesellschaftung.",
+      "Prüfe für ein Artikel-15-Gesetz die Übernahme von Netzanteilen, Landeskompetenz und gemeinwirtschaftliche Bindungen."
+    ],
+    "negative": [
+      "Beantworte ein Auskunftsbegehren nach Artikel 15 DSGVO.",
+      "Beantrage die Enteignung eines einzelnen Grundstücksstreifens für einen Straßenbau nach BauGB."
+    ]
   },
   "sources": [
-    {"url": "https://www.gesetze-im-internet.de/gg/art_15.html", "checked_on": "2026-09-28", "supports": "Gegenstandskategorien, Überführung durch Gesetz, Entschädigung und begrenzter Verweis auf Artikel 14 Absatz 3 Sätze 3 und 4."},
-    {"url": "https://www.gesetze-im-internet.de/gg/art_72.html", "checked_on": "2026-09-28", "supports": "Konkurrierende Kompetenz und bundesbezogene Erforderlichkeitsklausel; kein pauschales Abweichungsrecht."},
-    {"url": "https://www.gesetze-im-internet.de/gg/art_74.html", "checked_on": "2026-09-28", "supports": "Eigenständiger Titel in Absatz 1 Nummer 15; Abgrenzung zu Energie- und Enteignungsrecht."},
-    {"url": "https://hessischer-landtag.de/sites/default/files/dateien/2026-05/HL_Verfassung_Apr2026_final_web_2.pdf", "checked_on": "2026-09-28", "supports": "Artikel 39 bis 41, 45, 137 und Haushaltsnormen; historischer Anknüpfungspunkt des Artikels 41, keine automatische heutige Eigentumskette."},
-    {"url": "https://www.gesetze-im-internet.de/gg/art_142.html", "checked_on": "2026-09-28", "supports": "Fortgeltung vereinbarer Landesgrundrechte trotz Artikel 31 GG; keine pauschale Freigabe gegen Landesverfassungsgrenzen."},
-    {"url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/1997/10/ns19971015_2bvn000195.html", "checked_on": "2026-09-28", "supports": "BVerfG 15.10.1997, 2 BvN 1/95, Rn. 62–69 zur Normkollision und Landesgrundrechten; keine Artikel-15-Entscheidung. Direktabruf zeitweise gestört, amtlich indexierte Passagen abgeglichen."},
-    {"url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2016/12/rs20161206_1bvr282111.html", "checked_on": "2026-09-28", "supports": "Atomausstieg, Rn. 246–248, Eigentumszuordnung und Güterbeschaffung für Artikel 14 Absatz 3; keine Bestätigung eines Vergesellschaftungsgesetzes."},
-    {"url": "https://eur-lex.europa.eu/legal-content/DE/SUM/?uri=celex%3A62012CJ0105", "checked_on": "2026-09-28", "supports": "Amtliche Essent-Leitsätze mit Randnummernbezug: Artikel 345 AEUV befreit nicht von Grundfreiheiten; Rechtfertigung öffentlicher Netzträgerschaft gesondert. Kein deutsches Artikel-15-Urteil."},
-    {"url": "https://www.gesetze-im-internet.de/enwg_2005/__7.html", "checked_on": "2026-09-28", "supports": "Rechtliche Entflechtung und Kundenschwelle bei vertikal integrierten Unternehmen."},
-    {"url": "https://www.gesetze-im-internet.de/enwg_2005/__46.html", "checked_on": "2026-09-28", "supports": "Wegenutzungsverträge und Betreiberwechsel, entsprechende Anwendung auf Eigenbetriebe; kein universeller Artikel-15-Entschädigungsmaßstab."},
-    {"url": "https://www.gesetze-im-internet.de/gg/art_94.html", "checked_on": "2026-09-28", "supports": "Aktuelle Zuständigkeitsnorm für abstrakte Normenkontrolle und Verfassungsbeschwerden."},
-    {"url": "https://staatsgerichtshof.hessen.de/organisation-und-verfahren/grundrechtsklage", "checked_on": "2026-09-28", "supports": "Hessische Grundrechtsklage, besondere Fristauslöser und Ausschluss bei BVerfG-Beschwerde in derselben Sache."}
+    {
+      "url": "https://www.gesetze-im-internet.de/gg/art_15.html",
+      "checked_on": "2026-09-28",
+      "supports": "Gegenstandskategorien, Überführung durch Gesetz, Entschädigung und begrenzter Verweis auf Artikel 14 Absatz 3 Sätze 3 und 4."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gg/art_72.html",
+      "checked_on": "2026-09-28",
+      "supports": "Konkurrierende Kompetenz und bundesbezogene Erforderlichkeitsklausel; kein pauschales Abweichungsrecht."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gg/art_74.html",
+      "checked_on": "2026-09-28",
+      "supports": "Eigenständiger Titel in Absatz 1 Nummer 15; Abgrenzung zu Energie- und Enteignungsrecht."
+    },
+    {
+      "url": "https://hessischer-landtag.de/sites/default/files/dateien/2026-05/HL_Verfassung_Apr2026_final_web_2.pdf",
+      "checked_on": "2026-09-28",
+      "supports": "Artikel 39 bis 41, 45, 137 und Haushaltsnormen; historischer Anknüpfungspunkt des Artikels 41, keine automatische heutige Eigentumskette."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gg/art_142.html",
+      "checked_on": "2026-09-28",
+      "supports": "Fortgeltung vereinbarer Landesgrundrechte trotz Artikel 31 GG; keine pauschale Freigabe gegen Landesverfassungsgrenzen."
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/1997/10/ns19971015_2bvn000195.html",
+      "checked_on": "2026-09-28",
+      "supports": "BVerfG 15.10.1997, 2 BvN 1/95, Rn. 62–69 zur Normkollision und Landesgrundrechten; keine Artikel-15-Entscheidung. Direktabruf zeitweise gestört, amtlich indexierte Passagen abgeglichen."
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2016/12/rs20161206_1bvr282111.html",
+      "checked_on": "2026-09-28",
+      "supports": "Atomausstieg, Rn. 246–248, Eigentumszuordnung und Güterbeschaffung für Artikel 14 Absatz 3; keine Bestätigung eines Vergesellschaftungsgesetzes."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/SUM/?uri=celex%3A62012CJ0105",
+      "checked_on": "2026-09-28",
+      "supports": "Amtliche Essent-Leitsätze mit Randnummernbezug: Artikel 345 AEUV befreit nicht von Grundfreiheiten; Rechtfertigung öffentlicher Netzträgerschaft gesondert. Kein deutsches Artikel-15-Urteil."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/enwg_2005/__7.html",
+      "checked_on": "2026-09-28",
+      "supports": "Rechtliche Entflechtung und Kundenschwelle bei vertikal integrierten Unternehmen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/enwg_2005/__46.html",
+      "checked_on": "2026-09-28",
+      "supports": "Wegenutzungsverträge und Betreiberwechsel, entsprechende Anwendung auf Eigenbetriebe; kein universeller Artikel-15-Entschädigungsmaßstab."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gg/art_94.html",
+      "checked_on": "2026-09-28",
+      "supports": "Aktuelle Zuständigkeitsnorm für abstrakte Normenkontrolle und Verfassungsbeschwerden."
+    },
+    {
+      "url": "https://staatsgerichtshof.hessen.de/organisation-und-verfahren/grundrechtsklage",
+      "checked_on": "2026-09-28",
+      "supports": "Hessische Grundrechtsklage, besondere Fristauslöser und Ausschluss bei BVerfG-Beschwerde in derselben Sache."
+    },
+    {
+      "url": "https://www.berlin.de/kommission-vergesellschaftung/_assets/abschlussbericht_vergesellschaftung-grosser-wohnungsunternehmen-230627.pdf",
+      "checked_on": "2026-09-30",
+      "supports": "Vom Nutzer bereitgestellter Abschlussbericht Juni 2023, zweite durchgesehene Auflage, einschließlich Sondervoten und ergänzender Stellungnahme ausgewertet; Argumente, Gegenpositionen und Grenzen, keine Rechtsprechung."
+    },
+    {
+      "url": "https://www.berlin.de/sen/justiz/service/gesetze-und-verordnungen/2026/ausgabe-nr-9-vom-2732026-s-137-148.pdf",
+      "checked_on": "2026-09-30",
+      "supports": "Amtliche Verkündung Seiten 138–139: Rahmengesetz 18.03.2026, verkündet 27.03.2026, Paragraf 8 Inkrafttreten 24 Monate später; kein konkretes Anwendungsgesetz, keine Artikel-14-Regel."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/woeigg/__1.html",
+      "checked_on": "2026-09-30",
+      "supports": "Absatz 2: Wohnungseigentum als Sondereigentum verbunden mit Miteigentumsanteil; verkürzte Berichtseinordnung nicht übernommen."
+    }
   ],
   "cases": [
     {
@@ -51,85 +130,544 @@
         "testakten/vergesellschaftung-energienetz-hessen/10_Gespraechsnotiz_20260903.txt",
         "testakten/vergesellschaftung-energienetz-hessen/11_Leitwerk_Uebergang_20260925.eml"
       ],
-      "deliverables": ["vorlage.docx", "stellungnahme.docx"],
+      "deliverables": [
+        "vorlage.docx",
+        "stellungnahme.docx"
+      ],
       "criteria": [
-        {"id": "C01", "text": "Beide Dokumente vertreten den kommunalen 25-Prozent-Gesellschafter und behandeln kommunale Einflussrechte und fehlende Verlustgarantie; keine fremde Vollmacht wird unterstellt.", "deliverables": ["vorlage.docx", "stellungnahme.docx"]},
-        {"id": "C02", "text": "Die Arbeitsfassung ist nicht eingebracht, der Träger nicht errichtet; 5., 7. und 9. Oktober werden als unterschiedliche organisatorische Termine verwendet, nicht als gesetzliche Rechtsbehelfsfristen.", "deliverables": ["vorlage.docx"]},
-        {"id": "C03", "text": "Die Stellungnahme formuliert konkrete Änderungen an Übertragungsumfang, Einfluss, Überschüssen und Finanzierung statt eines Lehrbuchs oder einer Bewertungsschablone.", "deliverables": ["stellungnahme.docx"]},
-        {"id": "C04", "text": "210 Millionen Anlagenansatz, 410 Millionen Gesamtunternehmenswert und 284 Millionen Eigenkapitalwert werden nicht als gleichartige konkurrierende Festwerte behandelt.", "deliverables": ["vorlage.docx", "stellungnahme.docx"]}
+        {
+          "id": "C01",
+          "text": "Beide Dokumente vertreten den kommunalen 25-Prozent-Gesellschafter und behandeln kommunale Einflussrechte und fehlende Verlustgarantie; keine fremde Vollmacht wird unterstellt.",
+          "deliverables": [
+            "vorlage.docx",
+            "stellungnahme.docx"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die Arbeitsfassung ist nicht eingebracht, der Träger nicht errichtet; 5., 7. und 9. Oktober werden als unterschiedliche organisatorische Termine verwendet, nicht als gesetzliche Rechtsbehelfsfristen.",
+          "deliverables": [
+            "vorlage.docx"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die Stellungnahme formuliert konkrete Änderungen an Übertragungsumfang, Einfluss, Überschüssen und Finanzierung statt eines Lehrbuchs oder einer Bewertungsschablone.",
+          "deliverables": [
+            "stellungnahme.docx"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "210 Millionen Anlagenansatz, 410 Millionen Gesamtunternehmenswert und 284 Millionen Eigenkapitalwert werden nicht als gleichartige konkurrierende Festwerte behandelt.",
+          "deliverables": [
+            "vorlage.docx",
+            "stellungnahme.docx"
+          ]
+        }
       ]
     },
     {
       "id": "hessen-keine-pauschale-freigabe",
       "target_skill": "landeskompetenz-und-hessenrecht-pruefen",
       "request": "Erstelle kompetenz.docx zu folgender Rückmeldung aus unserer Gesetzesgruppe: Artikel 15 GG erlaube jede Vergesellschaftung, deshalb könnten die strengeren hessischen Eigentumsregeln ignoriert werden; Artikel 41 habe die 1998 gegründete Netzgesellschaft ohnehin schon überführt. Das EnWG könne gleichzeitig vollständig für unanwendbar erklärt werden. Prüfe diese drei Aussagen anhand der beigefügten Fassung und der amtlichen Quellen am 28.09.2026, ohne eine endgültige historische Eigentumskette zu erfinden.",
-      "input_files": ["testakten/vergesellschaftung-energienetz-hessen/02_Arbeitsfassung_Netzgesetz_20260914.docx", "testakten/vergesellschaftung-energienetz-hessen/05_Beteiligungen_und_Titelangaben_20260917.pdf"],
-      "deliverables": ["kompetenz.docx"],
+      "input_files": [
+        "testakten/vergesellschaftung-energienetz-hessen/02_Arbeitsfassung_Netzgesetz_20260914.docx",
+        "testakten/vergesellschaftung-energienetz-hessen/05_Beteiligungen_und_Titelangaben_20260917.pdf"
+      ],
+      "deliverables": [
+        "kompetenz.docx"
+      ],
       "criteria": [
-        {"id": "C01", "text": "Artikel 74 Absatz 1 Nummer 15 und Artikel 72 Absatz 1 werden regelungsbezogen geprüft; Absatz 2 wird nicht zur zusätzlichen hessischen Erforderlichkeitsklausel gemacht.", "deliverables": ["kompetenz.docx"]},
-        {"id": "C02", "text": "Artikel 41 wird historisch eingeordnet, fehlende Titelkette für Altanlagen bleibt offen; keine automatische Überführung jeder später gegründeten Gesellschaft.", "deliverables": ["kompetenz.docx"]},
-        {"id": "C03", "text": "Artikel 45 und Artikel 31/142 GG werden eigenständig abgeglichen. Die bundesrechtliche Erlaubnis ersetzt nicht pauschal die Prüfung strengerer Landesgrundrechte.", "deliverables": ["kompetenz.docx"]},
-        {"id": "C04", "text": "Keine vollständige EnWG-Sperre gegen jede Vergesellschaftung und keine pauschale landesrechtliche Abschaltung des EnWG; keine erfundene unmittelbare BVerfG-Artikel-15-Entscheidung.", "deliverables": ["kompetenz.docx"]}
+        {
+          "id": "C01",
+          "text": "Artikel 74 Absatz 1 Nummer 15 und Artikel 72 Absatz 1 werden regelungsbezogen geprüft; Absatz 2 wird nicht zur zusätzlichen hessischen Erforderlichkeitsklausel gemacht.",
+          "deliverables": [
+            "kompetenz.docx"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Artikel 41 wird historisch eingeordnet, fehlende Titelkette für Altanlagen bleibt offen; keine automatische Überführung jeder später gegründeten Gesellschaft.",
+          "deliverables": [
+            "kompetenz.docx"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Artikel 45 und Artikel 31/142 GG werden eigenständig abgeglichen. Die bundesrechtliche Erlaubnis ersetzt nicht pauschal die Prüfung strengerer Landesgrundrechte.",
+          "deliverables": [
+            "kompetenz.docx"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Keine vollständige EnWG-Sperre gegen jede Vergesellschaftung und keine pauschale landesrechtliche Abschaltung des EnWG; keine erfundene unmittelbare BVerfG-Artikel-15-Entscheidung.",
+          "deliverables": [
+            "kompetenz.docx"
+          ]
+        }
       ]
     },
     {
       "id": "antwortfortsetzung-anlagen-und-finanzierung",
       "target_skill": "entschaedigung-und-finanzierung-pruefen",
       "request": "Unsere Rückfrage ist beantwortet: Wir bearbeiten ausschließlich den Anlagenweg N-01 bis N-05 und N-09; das Anteilskaufmodell soll nicht als beschlossen behandelt werden. Überarbeite jetzt finanzvorlage.docx aus den beigefügten Unterlagen. Die 2,4 Millionen Euro Leitwerk-Kosten sollen innerhalb des technischen Übergangsbudgets berücksichtigt werden. Es gibt weiterhin weder eine Landesgarantie noch eine Anleihezeichnung. Bitte nicht erneut nach Anteilseignern fragen, sondern die Vorlage mit belastbaren und bedingten Aussagen fertigstellen.",
-      "input_files": ["testakten/vergesellschaftung-energienetz-hessen/04_Anlagenexport_20260831.csv", "testakten/vergesellschaftung-energienetz-hessen/07_Betriebskonzept_Netzservice_20260922.docx", "testakten/vergesellschaftung-energienetz-hessen/08_Finanzplanung_20260923.csv", "testakten/vergesellschaftung-energienetz-hessen/09_Finanzierungsindikation_20260924.pdf", "testakten/vergesellschaftung-energienetz-hessen/11_Leitwerk_Uebergang_20260925.eml"],
-      "deliverables": ["finanzvorlage.docx"],
+      "input_files": [
+        "testakten/vergesellschaftung-energienetz-hessen/04_Anlagenexport_20260831.csv",
+        "testakten/vergesellschaftung-energienetz-hessen/07_Betriebskonzept_Netzservice_20260922.docx",
+        "testakten/vergesellschaftung-energienetz-hessen/08_Finanzplanung_20260923.csv",
+        "testakten/vergesellschaftung-energienetz-hessen/09_Finanzierungsindikation_20260924.pdf",
+        "testakten/vergesellschaftung-energienetz-hessen/11_Leitwerk_Uebergang_20260925.eml"
+      ],
+      "deliverables": [
+        "finanzvorlage.docx"
+      ],
       "criteria": [
-        {"id": "C01", "text": "288 Millionen Buchwert des Anlagenpakets wird rechnerisch richtig erfasst, aber weder als Verkehrswert noch als zwingende Entschädigung ausgegeben.", "deliverables": ["finanzvorlage.docx"]},
-        {"id": "C02", "text": "210+52+8+10 ergibt 280 Millionen Planbedarf; 2,4 Millionen werden nicht neben den acht Millionen erneut addiert. 60+180+40 ist nur ein bedingter Finanzierungsplan.", "deliverables": ["finanzvorlage.docx"]},
-        {"id": "C03", "text": "Nettoverschuldung wird weder automatisch vom Anlagenwert abgezogen noch stillschweigend auf den neuen Träger übertragen. Eigenkapitalwert ist ein anderer Bewertungsgegenstand.", "deliverables": ["finanzvorlage.docx"]},
-        {"id": "C04", "text": "Gerechte Abwägung nach Artikel 15 Satz 2 mit Artikel 14 Absatz 3 Satz 3; weder automatisch voller Marktwert noch haushaltsbedingter Pauschalabschlag. Fertige Vorlage statt erneuter allgemeiner Aufnahme.", "deliverables": ["finanzvorlage.docx"]}
+        {
+          "id": "C01",
+          "text": "288 Millionen Buchwert des Anlagenpakets wird rechnerisch richtig erfasst, aber weder als Verkehrswert noch als zwingende Entschädigung ausgegeben.",
+          "deliverables": [
+            "finanzvorlage.docx"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "210+52+8+10 ergibt 280 Millionen Planbedarf; 2,4 Millionen werden nicht neben den acht Millionen erneut addiert. 60+180+40 ist nur ein bedingter Finanzierungsplan.",
+          "deliverables": [
+            "finanzvorlage.docx"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Nettoverschuldung wird weder automatisch vom Anlagenwert abgezogen noch stillschweigend auf den neuen Träger übertragen. Eigenkapitalwert ist ein anderer Bewertungsgegenstand.",
+          "deliverables": [
+            "finanzvorlage.docx"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Gerechte Abwägung nach Artikel 15 Satz 2 mit Artikel 14 Absatz 3 Satz 3; weder automatisch voller Marktwert noch haushaltsbedingter Pauschalabschlag. Fertige Vorlage statt erneuter allgemeiner Aufnahme.",
+          "deliverables": [
+            "finanzvorlage.docx"
+          ]
+        }
       ]
     },
     {
       "id": "anteilsvariante-und-europaeischer-netzfall",
       "target_skill": "energienetz-und-unionsrecht-abgleichen",
       "request": "Für die noch offene Anteilsvariante soll uebergang.docx entstehen. Prüfe den Vorschlag, sämtliche Anteile zu übernehmen und damit ohne weitere Prüfung Leitstelle, Glasfaser, Thüringer Anlage und kommunale Wegenutzungsverträge als mitfreigegeben zu behandeln. Die Mehrheit sitzt in den Niederlanden. Ein Kollege verweist auf Artikel 345 AEUV und hält jede EU-Prüfung deshalb für überflüssig. Nutze die Originalunterlagen, benenne konkrete weitere Nachweise und liefere den ausformulierten Vermerk.",
-      "input_files": ["testakten/vergesellschaftung-energienetz-hessen/04_Anlagenexport_20260831.csv", "testakten/vergesellschaftung-energienetz-hessen/05_Beteiligungen_und_Titelangaben_20260917.pdf", "testakten/vergesellschaftung-energienetz-hessen/09_Finanzierungsindikation_20260924.pdf", "testakten/vergesellschaftung-energienetz-hessen/11_Leitwerk_Uebergang_20260925.eml"],
-      "deliverables": ["uebergang.docx"],
+      "input_files": [
+        "testakten/vergesellschaftung-energienetz-hessen/04_Anlagenexport_20260831.csv",
+        "testakten/vergesellschaftung-energienetz-hessen/05_Beteiligungen_und_Titelangaben_20260917.pdf",
+        "testakten/vergesellschaftung-energienetz-hessen/09_Finanzierungsindikation_20260924.pdf",
+        "testakten/vergesellschaftung-energienetz-hessen/11_Leitwerk_Uebergang_20260925.eml"
+      ],
+      "deliverables": [
+        "uebergang.docx"
+      ],
       "criteria": [
-        {"id": "C01", "text": "Essent wird als Netzfall zu Artikel 345 und Kapitalverkehr mit eigenständiger Rechtfertigungsprüfung verwendet, nicht als deutsche Vergesellschaftungsfreigabe.", "deliverables": ["uebergang.docx"]},
-        {"id": "C02", "text": "Anteile, Gesellschaftsvermögen, fremde Leittechnik und außerhessische Anlage werden getrennt; eine Anteilsübertragung wird nicht pauschal zum Vertragspartnerwechsel aller Verträge erklärt.", "deliverables": ["uebergang.docx"]},
-        {"id": "C03", "text": "Entflechtung, vorhandene Konzessionen und Beihilfe-/Garantievoraussetzungen werden konkret geprüft; das Bankangebot betrifft nur den Anlagenweg.", "deliverables": ["uebergang.docx"]},
-        {"id": "C04", "text": "Der Vermerk enthält umsetzbare Nachforderungen und einen vertraglichen Übergangsansatz statt eines fachfremden KI- oder Omnibus-Exkurses.", "deliverables": ["uebergang.docx"]}
+        {
+          "id": "C01",
+          "text": "Essent wird als Netzfall zu Artikel 345 und Kapitalverkehr mit eigenständiger Rechtfertigungsprüfung verwendet, nicht als deutsche Vergesellschaftungsfreigabe.",
+          "deliverables": [
+            "uebergang.docx"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Anteile, Gesellschaftsvermögen, fremde Leittechnik und außerhessische Anlage werden getrennt; eine Anteilsübertragung wird nicht pauschal zum Vertragspartnerwechsel aller Verträge erklärt.",
+          "deliverables": [
+            "uebergang.docx"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Entflechtung, vorhandene Konzessionen und Beihilfe-/Garantievoraussetzungen werden konkret geprüft; das Bankangebot betrifft nur den Anlagenweg.",
+          "deliverables": [
+            "uebergang.docx"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Der Vermerk enthält umsetzbare Nachforderungen und einen vertraglichen Übergangsansatz statt eines fachfremden KI- oder Omnibus-Exkurses.",
+          "deliverables": [
+            "uebergang.docx"
+          ]
+        }
       ]
     },
     {
       "id": "entwurf-ist-kein-beschwerdegegenstand",
       "target_skill": "rechtsschutz-bei-vergesellschaftung-planen",
       "request": "Verfasse rechtsweg.docx als Beratung am 28.09.2026. Im Ordner liegt nur die Arbeitsfassung, dennoch möchte ein Beteiligter bereits heute beim BVerfG die Zahlung einer höheren Entschädigung einklagen und parallel in Hessen Grundrechtsklage erheben. Ordne die jetzige Lage und mögliche spätere Schritte ein. Es soll kein Verfahren ohne gesonderten Auftrag eingeleitet werden. Erfinde weder ein verkündetes Gesetz noch ein Zustelldatum oder eine bereits begonnene Beschwerdefrist.",
-      "input_files": ["testakten/vergesellschaftung-energienetz-hessen/02_Arbeitsfassung_Netzgesetz_20260914.docx", "testakten/vergesellschaftung-energienetz-hessen/06_Stellungnahme_Eigentuemer_20260921.pdf"],
-      "deliverables": ["rechtsweg.docx"],
+      "input_files": [
+        "testakten/vergesellschaftung-energienetz-hessen/02_Arbeitsfassung_Netzgesetz_20260914.docx",
+        "testakten/vergesellschaftung-energienetz-hessen/06_Stellungnahme_Eigentuemer_20260921.pdf"
+      ],
+      "deliverables": [
+        "rechtsweg.docx"
+      ],
       "criteria": [
-        {"id": "C01", "text": "Kein entstandener Entschädigungsanspruch oder begonnene Gesetzesbeschwerdefrist aus einem nicht eingebrachten Arbeitspapier; jetzt Beratung und Stellungnahme.", "deliverables": ["rechtsweg.docx"]},
-        {"id": "C02", "text": "Entschädigungshöhe im ordentlichen Rechtsweg von Verfassungsprüfung und gegebenenfalls Artikel 100 GG getrennt; kein BVerfG als allgemeines Zahlungsklagegericht.", "deliverables": ["rechtsweg.docx"]},
-        {"id": "C03", "text": "Aktuelle Zuständigkeit Artikel 94 GG; Paragrafen 90/93/32 BVerfGG fallbezogen, keine abstrakte Normenkontrolle für beliebige Eigentümer.", "deliverables": ["rechtsweg.docx"]},
-        {"id": "C04", "text": "Hessische Route berücksichtigt Paragraf 43 StGHG bei derselben Sache und eigene Fristauslöser; keine schematische Parallelklage. Vollständiger Beratungsbrief statt Fristentabelle allein.", "deliverables": ["rechtsweg.docx"]}
+        {
+          "id": "C01",
+          "text": "Kein entstandener Entschädigungsanspruch oder begonnene Gesetzesbeschwerdefrist aus einem nicht eingebrachten Arbeitspapier; jetzt Beratung und Stellungnahme.",
+          "deliverables": [
+            "rechtsweg.docx"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Entschädigungshöhe im ordentlichen Rechtsweg von Verfassungsprüfung und gegebenenfalls Artikel 100 GG getrennt; kein BVerfG als allgemeines Zahlungsklagegericht.",
+          "deliverables": [
+            "rechtsweg.docx"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Aktuelle Zuständigkeit Artikel 94 GG; Paragrafen 90/93/32 BVerfGG fallbezogen, keine abstrakte Normenkontrolle für beliebige Eigentümer.",
+          "deliverables": [
+            "rechtsweg.docx"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Hessische Route berücksichtigt Paragraf 43 StGHG bei derselben Sache und eigene Fristauslöser; keine schematische Parallelklage. Vollständiger Beratungsbrief statt Fristentabelle allein.",
+          "deliverables": [
+            "rechtsweg.docx"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "berlin-mehrheit-keine-freigabe",
+      "target_skill": "vergesellschaftungsvorhaben-einordnen",
+      "request": "Unsere Initiative will das hessische Netz übernehmen. Weil die Berliner Kommission die Verhältnismäßigkeit mehrheitlich bejaht hat, solle jede weitere Prüfung entfallen. Verfasse einen Beratungsbrief und benenne die eine entscheidende Datennachforderung, sofern sie fehlt.",
+      "input_files": [
+        "vergesellschaftung-artikel-15/references/berliner-kommissionsbericht.md"
+      ],
+      "deliverables": [
+        "vermerk.docx"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Kommissionsbericht von geltendem Recht und Urteil trennen; modifizierten Mehrheitsmaßstab und strengeren Gegenansatz darstellen, Minderheit nicht als generelles Verbot ausgeben.",
+          "deliverables": [
+            "vermerk.docx"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Berliner Mietannahmen nicht auf Netzwirkungen übertragen; belegte Investitions- und Versorgungslage, konkrete Alternative und entscheidende Datenlücke behandeln.",
+          "deliverables": [
+            "vermerk.docx"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Ausformulierter Brief mit nächstem Schritt statt Berichtszusammenfassung; Entschädigung heilt keine unzulässige Übertragung.",
+          "deliverables": [
+            "vermerk.docx"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "berlin-landesverfassung-zeit",
+      "target_skill": "landeskompetenz-und-hessenrecht-pruefen",
+      "request": "Berate zum Stand 30.09.2026: Artikel 23 VvB enthalte kein ausdrückliches Vergesellschaftungsrecht. Die Mehrheit sage, das schade nicht; ein Eigentümer verlange eine Verfassungsänderung. Außerdem sei seit März 2026 bereits jede Übertragung möglich. Prüfe beide Aussagen, ohne die Berliner Regel auf Hessen zu übertragen.",
+      "input_files": [
+        "vergesellschaftung-artikel-15/references/berliner-kommissionsbericht.md"
+      ],
+      "deliverables": [
+        "vermerk.docx"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Mehrheitsposition und landesverfassungsrechtliches Sondervotum anhand Artikel 31/142 GG als Streit behandeln; keine pauschale Verdrängung oder Sperre.",
+          "deliverables": [
+            "vermerk.docx"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Berliner Rahmengesetz vom 18.03.2026, Verkündung 27.03.2026 und Inkrafttreten 24 Monate später unterscheiden; zum Prüfdatum noch nicht in Kraft, Anwendungsgesetz erforderlich, kein Eigentumsübergang.",
+          "deliverables": [
+            "vermerk.docx"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Konkreter Beratungsbrief mit Zeitbezug, keine erfundene hessische Geltung.",
+          "deliverables": [
+            "vermerk.docx"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "berlin-wohnung-sockel-grenzfall",
+      "target_skill": "gegenstaende-und-anteile-abgrenzen",
+      "request": "Prüfe einen Entwurf: Muttergesellschaft mit 3001 zugerechneten Wohnungen soll alles verlieren, ein unabhängiger Eigentümer mit 2999 nichts. Die Liste enthält fremdes Wohnungseigentum und Wegerechte. Das Ministerium soll den verbleibenden Sockel frei auswählen. Verfasse einen Gegenstandsvermerk.",
+      "input_files": [
+        "vergesellschaftung-artikel-15/references/berliner-kommissionsbericht.md"
+      ],
+      "deliverables": [
+        "vermerk.docx"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Registereigentümer, Konzernzurechnung und Rechtsentzug auseinanderhalten; 3000 keine allgemeine Verfassungsgrenze.",
+          "deliverables": [
+            "vermerk.docx"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Wohnungseigentum als Sondereigentum mit Miteigentumsanteil; kein pauschaler Entzug von Drittrechten oder automatischer Anteilserwerb.",
+          "deliverables": [
+            "vermerk.docx"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Sockelbestand, Artikel 3 und gesetzliche Bestimmbarkeit prüfen; keine freie politische Auswahl als gebundener Vollzug ausgeben.",
+          "deliverables": [
+            "vermerk.docx"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "berlin-bewertungsmodelle",
+      "target_skill": "entschaedigung-und-finanzierung-pruefen",
+      "request": "Erstelle eine Entschädigungsvorlage: Der Haushaltsrahmen erlaube nur 30 Prozent des Marktwerts. Deshalb werde eine entsprechend niedrige Miete unterstellt; Mutter- und Objektgesellschaft sollen jeweils den gesamten Wert erhalten. Begründe den Ansatz anhand des Berliner Berichts oder korrigiere ihn.",
+      "input_files": [
+        "vergesellschaftung-artikel-15/references/berliner-kommissionsbericht.md"
+      ],
+      "deliverables": [
+        "vermerk.docx"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Keine feststehende 30-Prozent-Grenze; fiskalische und gemeinwirtschaftliche Modelle streitig, gewünschte Miete kein selbständiger Nachweis gerechter Entschädigung.",
+          "deliverables": [
+            "vermerk.docx"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Verkehrswert und hilfsweise Abschlagsbegründung unterscheiden; hypothetische Schranke muss verfassungsgemäß und entschädigungsfrei sein. Den Gegenstandpunkt aus Bestandsschutz und Rechtsschutz gegen Abzüge für nicht umgesetzte Schranken beantworten.",
+          "deliverables": [
+            "vermerk.docx"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Rechtsverlust, zusätzlicher Schaden und Doppelentschädigung trennen; fehlende Bewertungsdaten nicht durch erfundene Zahlen ersetzen; fertige Vorlage liefern.",
+          "deliverables": [
+            "vermerk.docx"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "berlin-organe-zweckbindung",
+      "target_skill": "gemeinwirtschaftliche-traegerschaft-entwerfen",
+      "request": "Die neue Anstalt soll weiterhin maximale Rendite erzielen, den gesamten Überschuss an den Haushalt abführen und Nutzer nur unverbindlich anhören. Verfasse die erforderliche Änderung des Organisationsabschnitts für ein Energienetz.",
+      "input_files": [
+        "vergesellschaftung-artikel-15/references/berliner-kommissionsbericht.md"
+      ],
+      "deliverables": [
+        "vermerk.docx"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Öffentliche Rechtsform allein genügt nicht; Bewirtschaftung gerade des Netzbestands und Instandhaltung priorisieren.",
+          "deliverables": [
+            "vermerk.docx"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Beteiligung, demokratische Verantwortlichkeit, Aufsicht und Zweckabweichung konkret regeln, keine pauschale Billigung beliebiger Beteiligungsmodelle durch den Bericht.",
+          "deliverables": [
+            "vermerk.docx"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Ausformulierte Regel mit Fortsetzung der bestehenden Fassung, keine abstrakte Formenliste.",
+          "deliverables": [
+            "vermerk.docx"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "berlin-gesetz-alternativen",
+      "target_skill": "vergesellschaftungsgesetz-ausarbeiten",
+      "request": "Unsere Begründung lautet: Ziel ist Vergesellschaftung, also kann nur Vergesellschaftung gleich geeignet sein. Ergänze eine rechtlich belastbare Begründung und eine gezielte Datennachforderung, ohne den politischen Beschluss zu erfinden.",
+      "input_files": [
+        "vergesellschaftung-artikel-15/references/berliner-kommissionsbericht.md"
+      ],
+      "deliverables": [
+        "vermerk.docx"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Tautologischen Erforderlichkeitsvergleich zurückweisen; weitere Gemeinwohlziele, offensichtliche mildere Mittel im Mehrheitsansatz und strengere Gegenprüfung auseinanderhalten.",
+          "deliverables": [
+            "vermerk.docx"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Alternativen und Kombinationen nach Wirkung, Verfügbarkeit und Drittlasten prüfen; Prognosespielraum ersetzt erreichbare Daten nicht.",
+          "deliverables": [
+            "vermerk.docx"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Konkrete Begründungsfassung und entscheidende Datennachforderung, keine Mehrheitsabstimmung als Rechtsbeweis.",
+          "deliverables": [
+            "vermerk.docx"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "berlin-internationaler-transfer",
+      "target_skill": "energienetz-und-unionsrecht-abgleichen",
+      "request": "Ein Investor hält mittelbar ein Energienetz und beruft sich auf einen Investitionsschutzvertrag. Unser Vermerk erklärt jede Klage mit Hinweis auf das geringe Berliner Risiko 2023 für ausgeschlossen. Überarbeite den Vermerk.",
+      "input_files": [
+        "vergesellschaftung-artikel-15/references/berliner-kommissionsbericht.md"
+      ],
+      "deliverables": [
+        "vermerk.docx"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Informationsabhängige Prognose 2023 nicht als allgemeine Immunität behandeln; Beteiligungskette, Nationalität, Vertragsgeltung und Streitbeilegungsgrundlage ermitteln.",
+          "deliverables": [
+            "vermerk.docx"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Artikel 345 nicht als Ausschluss der Artikel 49/63 nutzen; EMRK und Investitionsschutz auseinanderhalten.",
+          "deliverables": [
+            "vermerk.docx"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Keine Vertragsgeltung oder Zuständigkeit ohne Nachweise fingieren; vollständiger aktualisierter Vermerk mit konkreter Nachforderung.",
+          "deliverables": [
+            "vermerk.docx"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "berlin-rechtsschutz-rahmen",
+      "target_skill": "rechtsschutz-bei-vergesellschaftung-planen",
+      "request": "Am 30.09.2026 will ein privater Eigentümer allein aufgrund des Berliner Rahmengesetzes abstrakte Normenkontrolle und sofortige Entschädigungszahlung verlangen. Verfasse Rechtswegberatung; es ist kein Anwendungsgesetz oder Übertragungsakt vorgelegt.",
+      "input_files": [
+        "vergesellschaftung-artikel-15/references/berliner-kommissionsbericht.md"
+      ],
+      "deliverables": [
+        "vermerk.docx"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Rahmengesetz, Anwendungsgesetz, Vollzug und gegenwärtige Betroffenheit trennen; kein sofortiger Entschädigungsanspruch fingieren.",
+          "deliverables": [
+            "vermerk.docx"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Keine abstrakte Normenkontrolle für beliebige Eigentümer; Verkündung und künftiges Inkrafttreten getrennt auf mögliche Rechtsschutzvoraussetzungen prüfen.",
+          "deliverables": [
+            "vermerk.docx"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Keine erfundene Beschwerdefrist oder pauschaler Ausschluss jedes Rechtsschutzes vor Inkrafttreten; konkreter Beratungsbrief.",
+          "deliverables": [
+            "vermerk.docx"
+          ]
+        }
       ]
     }
   ],
   "prompt_editorial_review": {
-    "date": "2026-09-28",
-    "files": ["vergesellschaftung-artikel-15/vergesellschaftung-artikel-15-schnellstart.md", "vergesellschaftung-artikel-15/vergesellschaftung-artikel-15-werkstatt.md", "vergesellschaftung-artikel-15/references/vergesellschaftung-quellen.md", "vergesellschaftung-artikel-15/README.md"],
-    "opening_change": "Ordner, konkrete Rolle und maßgebliche Fassung bestimmen den Einstieg; keine abstrakte Prüfung ohne bestelltes Ergebnis.",
-    "norms": ["Artikel 14 und 15 GG", "Artikel 31, 72, 74 und 142 GG", "Artikel 39 bis 41, 45 und 137 der Hessischen Verfassung", "Artikel 94 und 100 GG; Paragrafen 32, 90 und 93 BVerfGG", "Paragrafen 43 bis 46 StGHG Hessen", "Paragrafen 7 und 46 EnWG; Artikel 345, 107 und 108 AEUV"],
-    "decisions": [
-      {"citation": "BVerfG, Urteil vom 06.12.2016, 1 BvR 2821/11 u.a., BVerfGE 143, 246, Rn. 246–248", "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2016/12/rs20161206_1bvr282111.html", "application": "Eigentumszuordnung und Güterbeschaffung zur Abgrenzung des Artikels 14 Absatz 3.", "limit": "Atomausstieg, keine unmittelbare Entscheidung über Artikel-15-Vergesellschaftung."},
-      {"citation": "BVerfG, Beschluss vom 15.10.1997, 2 BvN 1/95, BVerfGE 96, 345, Rn. 62–69", "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/1997/10/ns19971015_2bvn000195.html", "application": "Konkrete Normkollision und Fortgeltung vereinbarer Landesgrundrechte.", "limit": "Keine Entscheidung über Hessenbogen oder Artikel 15; technische Direktabrufgrenze im Quellenvermerk dokumentiert."},
-      {"citation": "EuGH, Urteil vom 22.10.2013, C-105/12 bis C-107/12, Essent, ECLI:EU:C:2013:677, Rn. 29–38 und 66–68", "url": "https://eur-lex.europa.eu/legal-content/DE/SUM/?uri=celex%3A62012CJ0105", "application": "Öffentliche Netzträgerschaft unterliegt weiterhin Grundfreiheiten und konkreter Rechtfertigung.", "limit": "Amtliche Leitsätze und indexierte Volltextpassagen; kein deutsches Vergesellschaftungsgesetz entschieden."}
+    "date": "2026-09-30",
+    "files": [
+      "vergesellschaftung-artikel-15/vergesellschaftung-artikel-15-schnellstart.md",
+      "vergesellschaftung-artikel-15/vergesellschaftung-artikel-15-werkstatt.md",
+      "vergesellschaftung-artikel-15/references/vergesellschaftung-quellen.md",
+      "vergesellschaftung-artikel-15/README.md",
+      "vergesellschaftung-artikel-15/references/berliner-kommissionsbericht.md"
     ],
-    "remaining_limits": ["Redaktionelle Quellen- und Workflowprüfung, kein Live-Modelllauf und keine Erfolgsquote.", "Historische Titelkette, Konzessionsverträge und Bewertungsgutachten fehlen bewusst in der Arbeitsakte; keine fertige materielle Musterlösung ausgeliefert.", "Zentrale Aggregate, ZIPs, globale Promptprofile und Veröffentlichung werden separat integriert."]
+    "opening_change": "Ordner, konkrete Rolle und maßgebliche Fassung bestimmen den Einstieg; keine abstrakte Prüfung ohne bestelltes Ergebnis.",
+    "norms": [
+      "Artikel 14 und 15 GG",
+      "Artikel 31, 72, 74 und 142 GG",
+      "Artikel 39 bis 41, 45 und 137 der Hessischen Verfassung",
+      "Artikel 94 und 100 GG; Paragrafen 32, 90 und 93 BVerfGG",
+      "Paragrafen 43 bis 46 StGHG Hessen",
+      "Paragrafen 7 und 46 EnWG; Artikel 345, 107 und 108 AEUV"
+    ],
+    "decisions": [
+      {
+        "citation": "BVerfG, Urteil vom 06.12.2016, 1 BvR 2821/11 u.a., BVerfGE 143, 246, Rn. 246–248",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2016/12/rs20161206_1bvr282111.html",
+        "application": "Eigentumszuordnung und Güterbeschaffung zur Abgrenzung des Artikels 14 Absatz 3.",
+        "limit": "Atomausstieg, keine unmittelbare Entscheidung über Artikel-15-Vergesellschaftung."
+      },
+      {
+        "citation": "BVerfG, Beschluss vom 15.10.1997, 2 BvN 1/95, BVerfGE 96, 345, Rn. 62–69",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/1997/10/ns19971015_2bvn000195.html",
+        "application": "Konkrete Normkollision und Fortgeltung vereinbarer Landesgrundrechte.",
+        "limit": "Keine Entscheidung über Hessenbogen oder Artikel 15; technische Direktabrufgrenze im Quellenvermerk dokumentiert."
+      },
+      {
+        "citation": "EuGH, Urteil vom 22.10.2013, C-105/12 bis C-107/12, Essent, ECLI:EU:C:2013:677, Rn. 29–38 und 66–68",
+        "url": "https://eur-lex.europa.eu/legal-content/DE/SUM/?uri=celex%3A62012CJ0105",
+        "application": "Öffentliche Netzträgerschaft unterliegt weiterhin Grundfreiheiten und konkreter Rechtfertigung.",
+        "limit": "Amtliche Leitsätze und indexierte Volltextpassagen; kein deutsches Vergesellschaftungsgesetz entschieden."
+      }
+    ],
+    "remaining_limits": [
+      "Redaktionelle Quellen- und Workflowprüfung, kein Live-Modelllauf und keine Erfolgsquote.",
+      "Historische Titelkette, Konzessionsverträge und Bewertungsgutachten fehlen bewusst in der Arbeitsakte; keine fertige materielle Musterlösung ausgeliefert.",
+      "Zentrale Aggregate, ZIPs, globale Promptprofile und Veröffentlichung werden separat integriert.",
+      "Bericht 2023 und Sondervoten redaktionell ausgewertet; neue Evaluationsfälle sind nicht als Live-Modelllauf ausgeführt."
+    ]
   },
   "prompt_workflow_review": {
-    "date": "2026-09-28",
+    "date": "2026-09-30",
     "method": "desk_review",
-    "opening_modes": ["Ordner ohne Bestellung: nach Lektüre zwei passende Dokumente anbieten.", "Bestellte Stellungnahme: Rolle und Fassung aus den Originalen übernehmen und schreiben.", "Keine Unterlagen: nur Vorhaben, Rolle, Land, Stand und Ergebnis erfragen."],
+    "opening_modes": [
+      "Ordner ohne Bestellung: nach Lektüre zwei passende Dokumente anbieten.",
+      "Bestellte Stellungnahme: Rolle und Fassung aus den Originalen übernehmen und schreiben.",
+      "Keine Unterlagen: nur Vorhaben, Rolle, Land, Stand und Ergebnis erfragen."
+    ],
     "continuation": "Bestätigter Anlagenweg ändert gemeinsam Übertragungsumfang, Entschädigungsempfänger und Rechnung; neuer Eigentumstitel nur betroffene Position; Garantieentscheidung nicht mit EU-Freigabe verwechseln.",
-    "enrichment": "Leitwerk-Angebot innerhalb des technischen Budgets, übernommene Altanlagen trotz später Gründung, kommunale Minderheitsposition und hessische Rechtsbehelfskoordination.",
+    "enrichment": "Leitwerk-Angebot innerhalb des technischen Budgets, übernommene Altanlagen trotz später Gründung, kommunale Minderheitsposition und hessische Rechtsbehelfskoordination. Berliner Gegenpositionen werden in konkrete Begründung, Datennachforderung und Endfassung übersetzt.",
     "limits": "desk_review; kein tatsächlicher Modelllauf. Native Darstellungen werden separat visuell und Parserdaten deterministisch geprüft."
   }
 }

@@ -29,6 +29,10 @@ Formuliere Verfügungsgrenzen, Veräußerungszuständigkeit, Transparenz, Prüfu
 
 Geht eine Entscheidung über neun statt elf Verwaltungsratssitze ein, passe Zusammensetzung, Quoren und Konfliktregeln gemeinsam an. Wird eine Haushaltsabführung gestrichen, ändere Finanzplan und Überschussregel, nicht das restliche Dokument. Liefere den bestellten Satzungs- oder Gesetzesabschnitt ausformuliert und trenne nur wirklich noch unentschiedene Varianten. Keine konkurrierenden Alternativfassungen als unterschriftsreife einheitliche Regelung ausgeben.
 
+## 3.5. Zweckbindung einer Belastungsprobe unterziehen
+
+Nutze den [Berliner Bericht](../../references/berliner-kommissionsbericht.md) zur Gegenprüfung: Würde der entworfene Träger weiterhin höchstmögliche Erträge nur für andere öffentliche Aufgaben abschöpfen? Dann fehlt nicht bloß ein schönerer Zweckabsatz, sondern möglicherweise die gemeinwirtschaftliche Bewirtschaftung gerade des übernommenen Bestands. Formuliere für Netze Vorrang und Finanzierung erforderlicher Instandhaltung; für Wohnungen Regeln zu Erhaltung, Zugang und Mietgestaltung passend zum Auftrag. Lege Kontrollzuständigkeit und Folgen der Zweckabweichung fest. Prüfe Nutzerbeteiligung neben demokratischer Verantwortlichkeit; der Bericht hat nicht jedes Beteiligungsmodell abschließend legitimiert. Überführe die festgestellte Lücke unmittelbar in eine ausformulierte Organisationsregel, ohne die Vorlage mit dem gesamten Meinungsstreit zu belasten.
+
 # 4. Quellenpflicht
 
 [Zitierweise](../../references/zitierweise.md); [Quellenstand](../../references/vergesellschaftung-quellen.md), insbesondere Artikel 15 GG, Artikel 40 und 137 der Hessischen Verfassung sowie Paragrafen 7 und 46 EnWG. Rechtsformabhängiges Organisationsrecht ist vor abschließender Satzung konkret amtlich nachzuprüfen. Die WD-Ausarbeitung dient der eingeordneten Diskussion, nicht als verbindlicher Organisationskatalog.

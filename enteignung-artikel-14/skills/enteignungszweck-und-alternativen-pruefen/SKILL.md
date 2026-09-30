@@ -20,6 +20,10 @@ Lies Planzeichnung, textliche Festsetzungen, Bekanntmachung, Flächenverzeichnis
 5. Prüfe nach Paragraf 87 Absatz 2, ob eine Verwendung in angemessener Zeit glaubhaft gemacht ist. Förderzusage, Ausschreibung, Finanzierungsbeschluss und Wunschdatum getrennt bewerten.
 6. Verfasse die begründete Eingabe mit konkretem Begehren und benannten Belegen. Neue Variantenpläne ändern nur die betroffenen Flächen, Kosten und Argumente; gegenteilige Befunde ausdrücklich einarbeiten.
 
+### 3.1. Strukturelle Ziele nicht als erleichterte Enteignung behandeln
+
+Die [Berliner Debatte](../../references/berliner-kommissionsbericht.md) über einen modifizierten Artikel-15-Maßstab senkt nicht die Anforderungen des Paragrafen 87 BauGB. Prüfe Zweckwirkung und Eingriffsbelastung anhand des konkreten Vorhabens. Dauerhafte Zweckbindung des begünstigten Trägers, Kontrollrechte und Folgen zweckwidriger Verwendung benennen; öffentliche Eigentümerstellung oder Arbeitsplatzeffekt allein genügen nicht als Begründung. BVerfG vom 17.12.2013, Rn. 187–188, trennt die Gesamtabwägung von der Entschädigung. Ein höheres Angebot heilt keinen unzulässigen Zugriff. Formuliere bei fehlender Wirkungsprognose die konkrete Nachforderung und die bereits tragfähige Einwendung, nicht nur einen Rechercheauftrag.
+
 ## 4. Quellenprüfung
 
 [Rechtsgrundlagen](../../references/rechtsgrundlagen.md): BauGB 85, 87 und 92; BVerfG, Urteil vom 17.12.2013, Az. 1 BvR 3139/08 und 1 BvR 3386/08, Rn. 183. Der verfassungsrechtliche Vergleich milderer Mittel ist übertragbar, der bergrechtliche Verfahrensgang nicht. [Zitierweise](../../references/zitierweise.md) einhalten.

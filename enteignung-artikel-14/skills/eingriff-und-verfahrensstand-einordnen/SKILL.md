@@ -19,6 +19,10 @@ Lies zunächst den freigegebenen Ordner einschließlich E-Mail-Anhängen und Zus
 4. Lies Zugangsbelege und tatsächliche Anträge. Trenne eine von der Behörde erbetene Antwortfrist von einer Rechtsbehelfsfrist. Bei anstehendem Baubeginn Besitzlage sofort prüfen, ohne ein nicht vorhandenes Eilverfahren zu behaupten.
 5. Schreibe den Brief aus Sicht des Auftraggebers. Nenne die stärkste gesicherte Feststellung und die entscheidende offene Frage. Nach neuem Beschluss aktualisiere Frist, Empfänger und Handlung; vorhandene Daten bleiben erhalten.
 
+### 3.1. Berliner Bericht richtig einordnen
+
+Wenn der Auftrag den Berliner Kommissionsbericht anführt, nutze die [Abgrenzung und Gegenargumente](../../references/berliner-kommissionsbericht.md). Ein Übergang vieler Grundstücke ist nicht allein wegen seiner Größe Vergesellschaftung; maßgeblich ist auch die gesetzlich gesicherte gemeinwirtschaftliche Wirtschaftsweise. Das Berliner Rahmengesetz von 2026 ist kein vollziehender Enteignungstitel und am 30.09.2026 noch nicht in Kraft. Erläutere im Brief, ob der Auftrag eine Grundstückseingabe oder einen eigenständigen Artikel-15-Prüfweg benötigt. Die Kommissionsmehrheit ersetzt keine gerichtliche Klärung.
+
 ## 4. Quellenprüfung
 
 Nutze [Rechtsgrundlagen](../../references/rechtsgrundlagen.md), insbesondere Artikel 14 und 15, BauGB 85, 87, 104 sowie BVerfG vom 06.12.2016, Rn. 243–246. Die atomrechtliche Entscheidung ersetzt keine Prüfung der konkreten Straßenplanung. Beachte die [Zitierweise](../../references/zitierweise.md).

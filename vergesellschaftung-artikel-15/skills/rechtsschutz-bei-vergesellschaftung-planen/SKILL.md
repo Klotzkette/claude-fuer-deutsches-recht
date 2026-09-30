@@ -33,6 +33,10 @@ Prüfe die Grundrechtsklage nach Paragrafen 43–46 StGHG und Artikel 131 der He
 
 Rechne eine konkrete Frist nur aus belegtem Auslöser, einschlägiger Vorschrift und geprüftem Kalender. Bei fehlendem Beleg benenne genau diesen und eine vorsichtige organisatorische Wiedervorlage, aber kein erfundenes Fristende. Nach Eingang des Belegs aktualisiere Berechnung und Antrag. Eine bestellte Schrift wird vollständig ausformuliert, erforderliche Anlagen werden tatsächlich zugeordnet; Einreichung und fristwahrende Übermittlung nur nach Freigabe.
 
+## 3.6. Bericht, Rahmengesetz und Eingriff auseinanderhalten
+
+Ein Kommissionsbericht ist keine anfechtbare Übertragung. Das Berliner Rahmengesetz von 2026 ist von einem konkreten Anwendungsgesetz und dessen Vollzug zu unterscheiden; sein Inkrafttreten liegt nach Paragraf 8 erst 24 Monate nach der Verkündung vom 27.03.2026. Verkündung, gegenwärtige Betroffenheit und Fristauslöser deshalb einzeln prüfen, nicht automatisch jede Rechtsschutzmöglichkeit bis zum Inkrafttreten ausschließen oder jede Eigentümerbeschwerde sofort eröffnen. Die [Berliner Argumentationskarte](../../references/berliner-kommissionsbericht.md) liefert Gegenpositionen zu Maßstab, Landesverfassung und Entschädigung, keine Prozessvollmacht und keine zusätzliche Antragsberechtigung. Ein Streit über die Höhe kann nicht den erforderlichen rechtzeitigen Angriff auf die Übertragung ersetzen. Erkläre im Beratungsbrief für jeden Weg Ziel, zulässigen Antragsteller, benötigten Beleg und konkrete Fortsetzung.
+
 # 4. Quellenpflicht
 
 [Zitierweise](../../references/zitierweise.md) und [Quellenvermerk](../../references/vergesellschaftung-quellen.md). Prüfe Artikel 94 und 100 GG, Paragrafen 32, 90, 93 BVerfGG sowie die amtlichen hessischen Verfahrensinformationen und geltenden StGHG-Normen neu. Für den konkreten Rechtsbehelf notwendige Fachverfahrensnormen zusätzlich verifizieren. Keine Übernahme alter GG-Artikelnummern aus historischen Entscheidungen als aktueller Zuständigkeitsnachweis.
