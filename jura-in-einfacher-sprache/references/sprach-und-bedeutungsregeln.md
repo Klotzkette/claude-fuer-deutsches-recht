@@ -46,3 +46,31 @@ Einfache Sprache ist nicht Leichte Sprache. Bei Bedarf weiter vereinfachen, unte
 Eine Lesefassung wird außerhalb ihres Textes als solche bezeichnet. Sie ändert das Original nicht. Ein neuer Brief enthält Absender, Empfänger, Datum, Bezug, Anliegen, nötige Begründung und Namen. Fehlende Pflichtangaben sichtbar markieren. Kein Verzicht, Vergleich, Schuldanerkenntnis oder Empfangsbekenntnis ohne bestätigten Willen.
 
 Ausformulierungspflicht: vollständige Sätze statt leerer Satzgerüste. Formatstandard für Dokumente: Times New Roman, 11 pt, dezimale Gliederung. Bei Lesebedarf eine größere Schrift begründet wählen. Bei reiner Chat-Ausgabe keine nicht erzeugte Datei oder Schriftformatierung behaupten. Hinweise zum Export stehen außerhalb des Empfängertextes.
+
+## 1.7 Zwei Sprachrichtungen, derselbe Inhalt
+
+Kläre nur bei unklarem Auftrag: „Soll der Text einfacher werden oder brauchen Sie eine juristische Formulierung?“ Rückübertragung bedeutet eine neue sprachliche Fassung des verfügbaren Inhalts. Sie ist keine Wiederherstellung unbekannter Originalwörter. Auch eine juristische Fassung bleibt klar; lange Nominalketten machen sie nicht genauer.
+
+Bei einer vollständigen einfachen Fassung: Erhalte Tatsachen, Sprecher, Unsicherheiten und Erklärungswillen. Verwende Fachbegriffe nur, wenn deren Voraussetzungen im Text gesichert sind. „Ich will wissen, ob ich zahlen muss“ ist eine Frage, kein Anerkenntnis, kein Antrag auf Stundung und keine endgültige Leistungsverweigerung.
+
+Bei einer Zusammenfassung: Frage nach ausgelassenen Klauseln, wenn von ihnen Bedingungen oder Rechtsfolgen abhängen. Arbeite an den belegten Teilen weiter. Fehlt das Original, benenne die Grenze außerhalb des Entwurfs. Niemals übliche Vertragsklauseln, Fristen oder Einwendungen als angeblich verlorenen Inhalt ergänzen. Eine gewünschte neue Regelung ist ein gesonderter Auftrag.
+
+Bei zwei Fassungen: Vergleiche beide direkt mit derselben Quelle. Eine Rückübersetzung, die ähnlich klingt, beweist keine Vollständigkeit. Halte Änderungen synchron; eine später ergänzte Ausnahme darf nicht nur in einer Fassung stehen. Fremdsprachige Übertragung und rechtliche Anpassung an eine andere Rechtsordnung bleiben getrennte Aufgaben.
+
+## 1.8 Angaben auffindbar und verwendbar machen
+
+Schreibe Überschriften nach der Frage des Lesers: „Welche Unterlagen fehlen?“ ist genauer als „Sonstiges“. Ordne notwendige Handlungen nach ihrem Ablauf. Bei Wahlmöglichkeiten erkläre jede Möglichkeit samt entscheidender Bedingung, ohne eine nicht beauftragte Entscheidung zu treffen. Rechtliche Voraussetzungen stehen neben der Handlung, nicht allein im Anhang.
+
+Vermeide unklare Pronomen: In einem Brief mit Mieter, Vermieter und Verwalter nicht mehrfach „er“ verwenden. Erkläre Abkürzungen beim ersten Auftreten. Verwende danach eine eindeutige kurze Bezeichnung. Zitat, eigene Erklärung und zusätzliche Rechtsprüfung müssen optisch und sprachlich unterscheidbar sein.
+
+Beträge brauchen Währung, Prozente ihre Bezugsgröße, Raten ihren Zeitraum. Aus 120 Euro monatlich werden nicht 120 Euro insgesamt. Verändere weder Rundung noch Vorzeichen. Schreibe ein mehrdeutiges Datum als Datum mit ausgeschriebenem Monat, sobald dessen Bedeutung feststeht. Monatsfristen nicht rechnerisch in 30 Tage umwandeln.
+
+Tabellen erhalten verständliche Spaltenüberschriften; Einheiten stehen am Wert oder in der Überschrift. Leere Felder sind nicht gleich null. Für eine unbekannte Angabe „noch unbekannt“ schreiben. Verwende Tabellen nur, wenn der Vergleich dadurch leichter wird. Eine Frist samt Bedingungen darf nicht zwischen getrennten Tabellenzeilen verschwinden.
+
+Links benennen Ziel und Zweck. „Formular für den Antrag“ ist hilfreicher als „hier“. Erhalte vorgeschriebene Formularnamen und Zuordnungsnummern. Gestaltung: linksbündiger Text, ausreichend Abstand, keine Textwände oder Information allein durch Farbe. Bei Dokumentexport echte Überschriften verwenden, sofern technisch möglich. Verlangte Barrierefreiheit gesondert prüfen; gute Sprache beweist keine technische Barrierefreiheit.
+
+## 1.9 Mit einer konkreten Leserfrage abschließen
+
+Bitte nicht nur um ein allgemeines „Verstanden?“. Frage bei Bedarf: „Ist klar, welche Unterlage Sie noch brauchen?“ oder „Soll ich den Unterschied zwischen diesen beiden Möglichkeiten erklären?“ Wenn ein Leser den falschen nächsten Schritt nennt, verbessere die betreffende Formulierung und prüfe sie nochmals gegen den Ausgangstext. Dies ist eine Unterstützung, keine Prüfung der Fähigkeiten des Lesers.
+
+Bei Texten für viele Menschen ist eine Rückmeldung aus der tatsächlichen Zielgruppe besonders hilfreich. Notiere nur beobachtete Schwierigkeiten und tatsächlich vorgenommene Änderungen. Ohne Leserprüfung bleibt der Verständlichkeitserfolg offen. Niemals Testpersonen, Lesererfolg oder Normzertifizierung erfinden.

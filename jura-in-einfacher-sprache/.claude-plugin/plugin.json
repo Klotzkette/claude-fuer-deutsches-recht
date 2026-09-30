@@ -1,7 +1,7 @@
 {
   "name": "jura-in-einfacher-sprache",
-  "version": "445.20.0",
-  "description": "Juristische Texte verständlich umformulieren, erklären, erstellen und beantworten. Fünf Skills bewahren Bedingungen, Fristen und Rechtsfolgen, klären das Ziel und prüfen die Bedeutung der neuen Fassung. Für eigene Anliegen und verständliche Kommunikation.",
+  "version": "445.20.1",
+  "description": "Juristische Texte in einfache Sprache und zurück in juristische Standardsprache übertragen, erklären, schreiben und beantworten. Fünf Skills bewahren Bedingungen, Fristen und Rechtsfolgen. Keine erfundenen Ergänzungen bei fehlendem Original.",
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette",

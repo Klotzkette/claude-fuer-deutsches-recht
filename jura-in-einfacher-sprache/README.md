@@ -8,7 +8,7 @@
 
 ## 1.1. Was ist das hier?
 
-Juristische Texte verständlich umformulieren, erklären, erstellen und beantworten. Fünf Skills bewahren Bedingungen, Fristen und Rechtsfolgen, klären das Ziel und prüfen die Bedeutung der neuen Fassung. Für eigene Anliegen und verständliche Kommunikation.
+Juristische Texte in einfache Sprache und zurück in juristische Standardsprache übertragen, erklären, schreiben und beantworten. Fünf Skills bewahren Bedingungen, Fristen und Rechtsfolgen. Keine erfundenen Ergänzungen bei fehlendem Original.
 
 Dieses Plugin gehört zum Marketplace mit 258 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
@@ -46,6 +46,8 @@ Ein möglicher Auftrag:
 
 > Bitte schreiben Sie diesen Text einfacher. Bedingungen, Ausnahmen und Fristen sollen erhalten bleiben. Fragen Sie nur nach, wenn etwas dafür fehlt.
 
+Für die Rückrichtung: „Bitte formulieren Sie meine einfache Erklärung als juristischen Brief, ohne neue Zusagen hinzuzufügen.“
+
 Wenn Sie danach antworten, wird am begonnenen Text weitergearbeitet. Sie müssen nicht alles neu erklären.
 
 <!-- decimal-anchor --> <a id="downloads"></a>
@@ -66,7 +68,7 @@ Wenn Sie danach antworten, wird am begonnenen Text weitergearbeitet. Sie müssen
 > Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 258 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 <!-- END direkt-loslegen (autogen) -->
 
-Ein Brief vom Gericht, ein Vertrag oder eine Antwort an die Versicherung: Dieses Paket hilft beim Lesen und Schreiben. Es erklärt schwierige Stellen und macht Texte verständlicher. Fristen, Bedingungen und Ausnahmen dürfen dabei nicht verloren gehen.
+Ein Brief vom Gericht, ein Vertrag oder eine Antwort an die Versicherung: Dieses Paket hilft beim Lesen und Schreiben. Es erklärt schwierige Stellen, macht Texte verständlicher und überträgt einfache Texte in juristische Standardsprache. Fristen, Bedingungen und Ausnahmen dürfen dabei nicht verloren gehen.
 
 Das ist ein Experiment und keine Rechtsberatung. Ergebnisse können falsch oder unvollständig sein. Vor dem Verwenden prüfen; bei wichtigen Entscheidungen fachliche Hilfe einholen. Eine Haftung für die Nutzung wird ausgeschlossen, soweit gesetzlich zulässig. Zwingende gesetzliche Haftung bleibt unberührt.
 
@@ -74,7 +76,7 @@ Das ist ein Experiment und keine Rechtsberatung. Ergebnisse können falsch oder 
 
 ## 1.5. So beginnen Sie
 
-Geben Sie den Text oder die Datei dazu. Ein kurzer Wunsch reicht: „Bitte erklären“, „Bitte einfacher schreiben“, „Ich möchte widersprechen“ oder „Ich brauche einen neuen Brief“. Der Einstieg `juristischen-text-uebertragen` erkennt das Anliegen und führt zum passenden Arbeitsweg. Bereits vorhandene Angaben werden nicht erneut abgefragt.
+Geben Sie den Text oder die Datei dazu. Ein kurzer Wunsch reicht: „Bitte erklären“, „Bitte einfacher schreiben“, „Bitte juristisch formulieren“, „Ich möchte widersprechen“ oder „Ich brauche einen neuen Brief“. Der Einstieg `juristischen-text-uebertragen` erkennt das Anliegen und führt zum passenden Arbeitsweg. Bereits vorhandene Angaben werden nicht erneut abgefragt.
 
 Ohne Text genügt Ihr Anliegen. Das Paket fragt dann nach den wenigen Angaben, die für den nächsten Schritt fehlen. Eine fertige Antwort entsteht erst, wenn klar ist, was Sie sagen wollen. Es werden keine unbekannten Tatsachen ergänzt.
 
@@ -84,11 +86,11 @@ Ohne Text genügt Ihr Anliegen. Das Paket fragt dann nach den wenigen Angaben, d
 
 | Sie möchten … | Passender Skill | Ergebnis |
 | --- | --- | --- |
-| Einen schwierigen Text einfacher lesen | `juristischen-text-uebertragen` | Verständliche Fassung mit erhaltenen Bedingungen |
+| Einen Text einfacher oder juristisch formulieren | `juristischen-text-uebertragen` | Gewünschte Sprachfassung mit erhaltenen Bedingungen |
 | Eine bestimmte Stelle verstehen | `juristischen-text-erklaeren` | Kurze Erklärung und konkrete Bedeutung für den nächsten Schritt |
 | Einen neuen Text schreiben | `schreiben-in-einfacher-sprache-erstellen` | Vollständiger Brief aus bestätigten Angaben |
 | Auf einen Brief antworten | `auf-juristische-post-antworten` | Antwortentwurf ohne ungewollten Verzicht oder Zustimmung |
-| Eine vereinfachte Fassung kontrollieren | `bedeutung-und-verstaendlichkeit-pruefen` | Korrigierte Fassung und offene Fragen |
+| Eine der beiden Sprachfassungen kontrollieren | `bedeutung-und-verstaendlichkeit-pruefen` | Korrigierte Fassung und offene Fragen |
 
 <!-- decimal-anchor --> <a id="welcher-download-passt"></a>
 
@@ -104,6 +106,8 @@ Die Texte sollen sich den Grundsätzen für Einfache Sprache nach DIN ISO 24495-
 
 Einfache Sprache ist nicht dasselbe wie Leichte Sprache. Wenn ein Text weiterhin zu schwer ist, wird er weiter erklärt oder geeignete Unterstützung empfohlen. Eine Übersetzung in eine andere Sprache ist keine beglaubigte Übersetzung. Eine vereinfachte Lesefassung ersetzt keinen unterschriebenen Vertrag, gerichtlichen Beschluss oder amtlichen Bescheid.
 
+Auch die Rückrichtung ist möglich: „Formulieren Sie meine Erklärung als sachlichen Brief an die Versicherung.“ Dabei bleibt Ihre Aussage erhalten. Aus einer verkürzten Zusammenfassung kann das Paket kein fehlendes Original rekonstruieren. Es fragt nach entscheidenden Lücken und ergänzt keine unbekannten Klauseln. „Juristisch formulieren“ bedeutet nicht, dass neue Forderungen oder Zusagen entstehen.
+
 Fristen und Einreichungswege werden nicht beim Umformulieren neu erfunden. Bei einer ungeklärten Rechtsfrage wird die Unsicherheit benannt. Es gibt keine Garantie, dass ein Brief rechtlich wirksam oder eine gewünschte Entscheidung erreichbar ist.
 
 <!-- decimal-anchor --> <a id="weiterführende-hilfe"></a>
@@ -118,7 +122,7 @@ Fristen und Einreichungswege werden nicht beim Umformulieren neu erfunden. Bei e
 
 ## 1.10. English Summary
 
-This focused package offers five workflows for explaining, simplifying, drafting and answering legal documents. Its main output language is plain German. It preserves conditions, exceptions, dates and legal consequences, and asks about missing facts instead of inventing them. It aims to follow plain-language principles, without claiming certified conformity. This is an experimental drafting aid, not legal advice or a certified translation service. The full workshop and compact prompts are separate Markdown downloads.
+This focused package offers five workflows for explaining, simplifying, drafting, answering and checking legal documents. It also converts plain German into precise standard legal German without adding claims or commitments. A shortened summary cannot restore a missing original. Both language versions preserve conditions, exceptions, dates and legal consequences. The package aims to follow plain-language principles without claiming certified conformity. This is an experimental drafting aid, not legal advice or a certified translation service. The full workshop and compact prompts are separate Markdown downloads.
 
 
 <!-- BEGIN SKILLS-LOGIC (auto-generated) -->
@@ -133,7 +137,7 @@ English: Skills are grouped by typical work phase. Clicking a skill downloads it
 
 | Arbeitsphase | Typische Skills |
 | --- | --- |
-| 1. Lesen und verstehen | [`juristischen-text-uebertragen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=jura-in-einfacher-sprache/skills/juristischen-text-uebertragen/SKILL.md), [`juristischen-text-erklaeren`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=jura-in-einfacher-sprache/skills/juristischen-text-erklaeren/SKILL.md) |
+| 1. Übertragen und verstehen | [`juristischen-text-uebertragen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=jura-in-einfacher-sprache/skills/juristischen-text-uebertragen/SKILL.md), [`juristischen-text-erklaeren`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=jura-in-einfacher-sprache/skills/juristischen-text-erklaeren/SKILL.md) |
 | 2. Schreiben und antworten | [`schreiben-in-einfacher-sprache-erstellen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=jura-in-einfacher-sprache/skills/schreiben-in-einfacher-sprache-erstellen/SKILL.md), [`auf-juristische-post-antworten`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=jura-in-einfacher-sprache/skills/auf-juristische-post-antworten/SKILL.md) |
 | 3. Bedeutung und Verständlichkeit prüfen | [`bedeutung-und-verstaendlichkeit-pruefen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=jura-in-einfacher-sprache/skills/bedeutung-und-verstaendlichkeit-pruefen/SKILL.md) |
 
@@ -152,9 +156,9 @@ English: Complete list of all 5 skills in this plugin. Both links in each row do
 | Skill | Beschreibung | Markdown-Download |
 | --- | --- | --- |
 | [`auf-juristische-post-antworten`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=jura-in-einfacher-sprache/skills/auf-juristische-post-antworten/SKILL.md) | Entwirft eine kurze verständliche Antwort auf rechtliche Post. Erkennt Fristen und verlangte Erklärungen, trennt Zustimmung von Widerspruch oder Rückfrage und verhindert ungewollte Anerkenntnisse, Verzichte und Angaben ohne Tatsachengrun... | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=jura-in-einfacher-sprache/skills/auf-juristische-post-antworten/SKILL.md) |
-| [`bedeutung-und-verstaendlichkeit-pruefen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=jura-in-einfacher-sprache/skills/bedeutung-und-verstaendlichkeit-pruefen/SKILL.md) | Vergleicht eine vereinfachte juristische Fassung mit Original und Auftrag. Findet verlorene Bedingungen, veränderte Fristen, ungewollte Zusagen und neue Tatsachen; verbessert die Verständlichkeit, ohne rechtliche Gültigkeit oder Normkonf... | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=jura-in-einfacher-sprache/skills/bedeutung-und-verstaendlichkeit-pruefen/SKILL.md) |
+| [`bedeutung-und-verstaendlichkeit-pruefen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=jura-in-einfacher-sprache/skills/bedeutung-und-verstaendlichkeit-pruefen/SKILL.md) | Prüft einfache und juristische Sprachfassungen gegen Ausgangstext und Auftrag. Findet verlorene Bedingungen, veränderte Fristen, ungewollte Zusagen und erfundene Ergänzungen bei der Rückübertragung. Verbessert die Lesbarkeit, ohne rechtl... | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=jura-in-einfacher-sprache/skills/bedeutung-und-verstaendlichkeit-pruefen/SKILL.md) |
 | [`juristischen-text-erklaeren`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=jura-in-einfacher-sprache/skills/juristischen-text-erklaeren/SKILL.md) | Erklärt einen Vertrag, Bescheid oder Gerichtsbrief in einfachen Worten. Trennt Aussage des Dokuments von geprüfter Rechtslage, beantwortet die konkrete Verständnisfrage und zeigt, welche Handlung oder Rückfrage daraus tatsächlich folgt. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=jura-in-einfacher-sprache/skills/juristischen-text-erklaeren/SKILL.md) |
-| [`juristischen-text-uebertragen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=jura-in-einfacher-sprache/skills/juristischen-text-uebertragen/SKILL.md) | Überträgt einen juristischen Text in verständliches Deutsch und startet bei unklarem Anliegen den passenden Arbeitsweg. Bewahrt Bedingungen, Ausnahmen, Fristen und Rechtsfolgen; fragt bei Mehrdeutigkeit nach und kennzeichnet Lesefassung... | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=jura-in-einfacher-sprache/skills/juristischen-text-uebertragen/SKILL.md) |
+| [`juristischen-text-uebertragen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=jura-in-einfacher-sprache/skills/juristischen-text-uebertragen/SKILL.md) | Überträgt juristische Texte in einfache Sprache oder einfache Texte in juristische Standardsprache. Bewahrt Bedingungen, Ausnahmen, Fristen und Rechtsfolgen. Klärt die gewünschte Richtung, ohne fehlende Originalinhalte zu rekonstruieren;... | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=jura-in-einfacher-sprache/skills/juristischen-text-uebertragen/SKILL.md) |
 | [`schreiben-in-einfacher-sprache-erstellen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=jura-in-einfacher-sprache/skills/schreiben-in-einfacher-sprache-erstellen/SKILL.md) | Erstellt einen neuen verständlichen Brief zu einem rechtlichen Anliegen. Klärt Empfänger, Ziel und belegte Tatsachen, fragt nur entscheidende Lücken ab und formuliert einen vollständigen Entwurf ohne erfundene Ansprüche, Zugeständnisse o... | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=jura-in-einfacher-sprache/skills/schreiben-in-einfacher-sprache-erstellen/SKILL.md) |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

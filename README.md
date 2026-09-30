@@ -8,9 +8,9 @@
 
 Hinweis: Die gesamte Sammlung ist ein Experiment und keine Rechtsberatung. Ergebnisse können falsch oder unvollständig sein und müssen vor ihrer Verwendung geprüft werden. Eine Haftung für die Nutzung wird ausgeschlossen, soweit gesetzlich zulässig; zwingende gesetzliche Haftung bleibt unberührt.
 
-Für verständliche eigene Schreiben: [Jura in einfacher Sprache](./jura-in-einfacher-sprache/README.md) bietet fünf Skills zum Erklären, Umformulieren, Erstellen und Beantworten rechtlicher Texte. [Sozialrecht für Laien](./sozialrecht-fuer-laien/README.md) bietet zehn Arbeitswege vom Antrag bis zur eigenen Eingabe beim Sozialgericht. Beide Pakete enthalten einen ausführlichen Werkstatt-Prompt und einen eigenständigen Mini-Prompt als Markdown-Downloads. Die bisherigen Fachpakete bleiben unverändert erhalten. Einfache Sprache wird angestrebt, nicht als zertifiziert zugesichert.
+Für verständliche eigene Schreiben: [Jura in einfacher Sprache](./jura-in-einfacher-sprache/README.md) bietet fünf Skills zum Erklären, Schreiben, Antworten und Prüfen sowie zum Übertragen zwischen einfacher und juristischer Standardsprache. [Sozialrecht für Laien](./sozialrecht-fuer-laien/README.md) bietet zehn Arbeitswege vom Antrag bis zur eigenen Eingabe beim Sozialgericht. Beide Pakete enthalten einen ausführlichen Werkstatt-Prompt und einen eigenständigen Mini-Prompt als Markdown-Downloads. Die bisherigen Fachpakete bleiben unverändert erhalten. Einfache Sprache wird angestrebt, nicht als zertifiziert zugesichert.
 
-English: [Plain-language legal writing](./jura-in-einfacher-sprache/README.md) and [Social law for individuals](./sozialrecht-fuer-laien/README.md) add focused workflows with separate full and compact Markdown prompts. Both are experimental aids, not legal advice. Verify their output before use. Liability is excluded only to the extent permitted by law; mandatory liability remains unaffected. Plain-language conformity is not certified.
+English: [Plain-language legal writing](./jura-in-einfacher-sprache/README.md) supports both plain German and conversion back to standard legal German. [Social law for individuals](./sozialrecht-fuer-laien/README.md) guides personal applications and proceedings. Both include separate full and compact Markdown prompts and are experimental aids, not legal advice. Verify their output before use. Liability is excluded only to the extent permitted by law; mandatory liability remains unaffected. Plain-language conformity is not certified.
 
 Dieses Repository ist eine **experimentelle Plugin- und Skill-Sammlung für deutsches Recht** auf Basis der offenen "claude-for-legal"-Skills von Anthropic, vollständig ins Deutsche übertragen und an typische Arbeitsabläufe in Kanzleien, Rechtsabteilungen und bei Beratern angepasst. Die Struktur, Beispiele und Workflows sind inzwischen **für die deutsche Rechtspraxis überarbeitet und im Alltagseinsatz erprobt**, sie bleiben aber bewusst als Experiment gekennzeichnet: Es handelt sich **nicht** um ein geprüftes Produkt, sondern um eine technische Spielwiese zum Ausprobieren, Anpassen und Weiterentwickeln.
 
@@ -154,7 +154,7 @@ Für diesen Anwendungsfall gibt es eine kuratierte, nach Fachanwaltschaften sort
 | **Skills (SKILL.md)** | 22559: [Gesamtübersicht](./SKILLS.md) |
 | **Testakten** | 385 zentral / 388 gesamt |
 | **Fachanwalts-Profile** | 24 |
-| **Plugin-Version / Arbeitsstand** | `v445.20.0` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
+| **Plugin-Version / Arbeitsstand** | `v445.20.1` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
 | **Marketplace-Definition** | [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json) |
 
 ### Sammel-Downloads
@@ -480,7 +480,7 @@ Alphabetisch: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · 
 
 | Plugin | Beschreibung |
 | --- | --- |
-| [`jura-in-einfacher-sprache`](./jura-in-einfacher-sprache) | Juristische Texte verständlich umformulieren, erklären, erstellen und beantworten. Fünf Skills bewahren Bedingungen, Fristen und Rechtsfolgen, klären das Ziel und prüfen die Bedeutung der neuen Fassung. Für eigene Anliegen und verständliche Kommunikation. |
+| [`jura-in-einfacher-sprache`](./jura-in-einfacher-sprache) | Juristische Texte in einfache Sprache und zurück in juristische Standardsprache übertragen, erklären, schreiben und beantworten. Fünf Skills bewahren Bedingungen, Fristen und Rechtsfolgen. Keine erfundenen Ergänzungen bei fehlendem Original. |
 | [`jurastudium`](./jurastudium) | Studium und Referendariat – Prüfungsgespräch nach AG-Tradition, Subsumtionslehre, Methodenlehre (Zivilrecht, Strafrecht, Öffentliches Recht), Rechtsgeschichte, Lernstrategien, Lösungsschemata, Gutachtenstil, Klausurkorrektur, Lernplanung. |
 | [`juristische-praesentationen`](./juristische-praesentationen) | Juristische PowerPoint-Präsentationen für Kanzlei und Rechtsabteilung: zehn Kernskills von Urteil, Fachvortrag und Laienerklärung bis Folien, Sprechernotizen und Probe. Zwei optionale Bonus-Skills für seriöse Animation und jugendgerechte Sprache. Mit neutraler Vorlage. |
 | [`juristische-presseberichterstattung`](./juristische-presseberichterstattung) | Plugin für juristische Presseberichterstattung: Gerichtsbericht, Entscheidungsnews, Verdachtsbericht, Pressemitteilung, Headline, Bildprüfung, Quellenmatrix und Redaktionsschluss-Qualitygate. |

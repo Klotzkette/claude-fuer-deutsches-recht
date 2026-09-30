@@ -22,6 +22,8 @@ Vollständiges Schreiben einschließlich Anlagen und Belehrung, Zugangsdatum und
 5. Prüfe die zulässige Form getrennt vom Text. Bei drohendem Rechtsverlust zu geeigneter Hilfe führen; die Sprachbearbeitung darf keine falsche Sicherheit erzeugen.
 6. Gib nach Rückantwort eine bereinigte Fassung aus und nenne den noch nötigen Einreichungsschritt. Ohne Autorisierung nicht versenden.
 
+Ordne mehrere Anforderungen nach Frist und Abhängigkeit. Eine Liste „Dokument, von wem, bis wann, wohin“ hilft nur, wenn jede Angabe belegt ist; fehlende Angaben als offen kennzeichnen. Trenne Hilfen für den Nutzer von der ausformulierten Antwort an den Absender. Soll diese förmlicher werden, nutze `juristischen-text-uebertragen`, ohne Bestreiten in Anerkenntnis oder eine bloße Frage in einen Antrag umzudeuten.
+
 ## 4. Quellenpflicht
 
 [Zitierweise](../../references/zitierweise.md) und [Quellen und Grenzen](../../references/quellen-und-grenzen.md). BSG, Urteil vom 14.05.2025, B 4 KG 1/24 R: Einfache E-Mail ist nicht allgemein eine zulässige Widerspruchsform. Die Entscheidung ist kein allgemeines E-Mail-Verbot für jede private Korrespondenz.

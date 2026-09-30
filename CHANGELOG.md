@@ -1,3 +1,17 @@
+# v445.20.1 - Jura zwischen einfacher und juristischer Standardsprache
+
+## 1. Rückübertragung mit klaren Grenzen
+
+Das bestehende Paket `jura-in-einfacher-sprache` behält genau fünf Skills. Es überträgt nun ausdrücklich in beide Sprachrichtungen. Ungewisse Angaben bleiben ungewiss; aus Fragen werden keine Anerkenntnisse. Eine Zusammenfassung kann kein fehlendes Original rekonstruieren. Erklärung, Entwurf und Antwort führen ohne erneute Aufnahme zum passenden nächsten Schritt.
+
+## 2. Eigenständige Sprachwerkstatt
+
+Werkstatt und Mini enthalten die Rückübertragung samt Bedeutungskontrolle. Die Werkstatt ergänzt konkrete Beispiele, Zahlenbezüge, Tabellen, verständliche Verweise und die gemeinsame Pflege zweier Sprachfassungen. Der Mini bleibt unter 7500 Zeichen und UTF-8-Bytes. Die eigenständig formulierten Sprachregeln beschreiben eine Annäherung, keine zertifizierte Normkonformität; Normtexte werden nicht veröffentlicht.
+
+## 3. Prüfung und Orientierung
+
+Vier weitere fachliche Bewertungsfälle erfassen fehlende Originale, zusätzliche Zusagen, verstärkte Tatsachenbehauptungen und bedingte Höchstbeträge. Automatische Paketprüfungen sichern Struktur, Größenlimit, Verweise und beide Sprachrichtungen. Die Bewertungsfälle sind keine behaupteten Modellläufe. Deutsche und englische Erläuterungen sowie Skill- und Downloadverzeichnisse werden fortgeschrieben. Andere Fachpakete und Akten bleiben inhaltlich unverändert.
+
 # v445.20.0 - Sozialrecht für Laien und Jura in einfacher Sprache
 
 ## 1. Zwei fokussierte Arbeitsumgebungen

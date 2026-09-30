@@ -288,7 +288,7 @@ def compact_prompt_fragment(value: str, limit: int = 210) -> str:
 
 
 HANDCURATED_FIRST_PRODUCTS = {
-    "jura-in-einfacher-sprache": "Lies meinen Text und kläre nur, ob ich eine Erklärung, eine einfachere Fassung oder eine Antwort brauche; erhalte Bedingungen, Ausnahmen und Fristen und erstelle den verständlichen Text",
+    "jura-in-einfacher-sprache": "Lies meinen Text und kläre nur, ob ich eine Erklärung, einfache Sprache, juristische Standardsprache oder eine Antwort brauche; erhalte Bedingungen, Ausnahmen und Fristen",
     "sozialrecht-fuer-laien": "Lies meinen Brief, prüfe zuerst Frist und dringenden Bedarf und hilf mir mit dem nächsten Antrag oder Antwortentwurf; frage nur entscheidende fehlende Tatsachen nach und erkläre den Einreichungsweg einfach",
     "pflegerecht-sgb-xi": "Erstelle den beauftragten Pflegeantrag, Leistungsplan oder Rechtsbehelf aus Bescheid, Gutachten und Belegen; trenne Pflegegrad, Kosten und Versicherungsart, kläre nur entscheidende Lücken und führe den Entwurf nach Rückantwort fort",
     "sozialversicherungspflicht-pruefer": "den beauftragten Sozialversicherungsbefund oder das konkrete Schreiben aus den vorhandenen Unterlagen; trenne Status, Versicherungszweige, Befreiung und Beiträge nach Tätigkeit und Zeitraum und frage nur nach entscheidenden Lücken",
@@ -351,6 +351,10 @@ def quickstart_section(plugin_name: str, directory: Path) -> str:
             if plugin_name == "jura-in-einfacher-sprache" else
             "Bitte lesen Sie meinen Brief. Prüfen Sie zuerst die Frist. Helfen Sie mir dann mit dem nächsten Antrag oder einer Antwort. Fragen Sie nach, wenn eine wichtige Angabe fehlt."
         )
+        reverse = (
+            "\n\nFür die Rückrichtung: „Bitte formulieren Sie meine einfache Erklärung als juristischen Brief, ohne neue Zusagen hinzuzufügen.“"
+            if plugin_name == "jura-in-einfacher-sprache" else ""
+        )
         return f"""## In 30 Sekunden starten
 
 Das Paket ist ein Experiment und keine Rechtsberatung. Prüfen Sie die Ergebnisse vor dem Verwenden.
@@ -359,7 +363,7 @@ Mit installiertem Plugin wählen Sie `{entry}`. Geben Sie den Brief oder Ihre Fr
 
 Ein möglicher Auftrag:
 
-> {example}
+> {example}{reverse}
 
 Wenn Sie danach antworten, wird am begonnenen Text weitergearbeitet. Sie müssen nicht alles neu erklären."""
     if not enabled(plugin_name, "schnellstart"):

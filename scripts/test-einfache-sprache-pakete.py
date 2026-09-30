@@ -112,6 +112,30 @@ class EinfacheSpracheTests(unittest.TestCase):
         for plugin in PACKAGES:
             self.assertIn(f"./{plugin}/README.md", text)
 
+    def test_reverse_transfer_contract(self):
+        plugin = ROOT / "jura-in-einfacher-sprache"
+        paths = [plugin / f"jura-in-einfacher-sprache-{kind}.md"
+                 for kind in ("schnellstart", "werkstatt")]
+        paths.append(plugin / "skills/juristischen-text-uebertragen/SKILL.md")
+        for path in paths:
+            with self.subTest(path=path):
+                text = path.read_text()
+                for phrase in ("juristische Standardsprache", "Rückübertragung", "Zusammenfassung",
+                               "Wiederherstellung", "Anerkenntnis"):
+                    self.assertIn(phrase, text)
+        review = (plugin / "skills/bedeutung-und-verstaendlichkeit-pruefen/SKILL.md").read_text()
+        self.assertIn("zweimalige Umformulierung beweist keine Bedeutungstreue", review)
+        self.assertIn("verfügbaren Ausgangstext", review)
+
+    def test_reverse_transfer_and_numeric_evaluation_cases(self):
+        profile = json.loads((ROOT / "quality/evals/jura-in-einfacher-sprache.json").read_text())
+        cases = {case["id"]: case for case in profile["cases"]}
+        for name in ("rueckuebertragung-ohne-neue-zusage", "fehlendes-original",
+                     "zwei-fassungen-kein-vollstaendigkeitsbeweis", "monatlicher-hoechstbetrag"):
+            self.assertIn(name, cases)
+            self.assertGreaterEqual(len(cases[name]["criteria"]), 3)
+        self.assertTrue(any("Standardsprache" in value for value in profile["selection"]["positive"]))
+
 
 if __name__ == "__main__":
     unittest.main()

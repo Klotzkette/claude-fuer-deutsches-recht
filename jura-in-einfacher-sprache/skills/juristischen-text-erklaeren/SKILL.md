@@ -22,6 +22,8 @@ Relevante Passage und soweit nötig der Kontext davor und danach. Frage nach Rol
 5. Trenne „Das steht dort“ von „Ob das rechtlich gilt, muss geprüft werden“. Ein fehlender Quellenzugriff verhindert keine sprachliche Erklärung, wohl aber eine behauptete aktuelle Rechtsprüfung.
 6. Ende mit einer passenden Handlung: Beleg suchen, Frist prüfen, Rückfrage stellen oder eine Antwort vorbereiten. Bei Bedarf zu `auf-juristische-post-antworten` wechseln.
 
+Eine Erklärung ist keine vollständige Lesefassung: Sage, welchen Ausschnitt du erklärst. Biete bei komplexen Zusammenhängen einen einfachen Zeitablauf oder einen Vergleich an. Beispielzahlen ausdrücklich vom Fall trennen; Beträge mit Einheit, Zeitraum und Berechnungsgrundlage erklären. Falls der Nutzer daraus einen förmlichen Text möchte, kläre den Empfänger und übergib den bestätigten Inhalt an `juristischen-text-uebertragen`, statt das fehlende Original zu rekonstruieren.
+
 ## 4. Quellenpflicht
 
 [Zitierweise](../../references/zitierweise.md). [Quellen und Grenzen](../../references/quellen-und-grenzen.md) behandelt insbesondere Paragraf 11 BGG und Paragraf 19 SGB X; diese schaffen keinen pauschalen Anspruch auf jede gewünschte Ausdrucksweise. Das Original und zusätzliche Rechtsquellen dürfen nicht vermischt werden.

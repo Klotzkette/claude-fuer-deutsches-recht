@@ -122,7 +122,7 @@ EXACT_GROUPS: dict[str, str] = {
 
 PLUGIN_GROUPS = {
     "jura-in-einfacher-sprache": [
-        ("1. Lesen und verstehen", ["juristischen-text-uebertragen", "juristischen-text-erklaeren"]),
+        ("1. Übertragen und verstehen", ["juristischen-text-uebertragen", "juristischen-text-erklaeren"]),
         ("2. Schreiben und antworten", ["schreiben-in-einfacher-sprache-erstellen", "auf-juristische-post-antworten"]),
         ("3. Bedeutung und Verständlichkeit prüfen", ["bedeutung-und-verstaendlichkeit-pruefen"]),
     ],

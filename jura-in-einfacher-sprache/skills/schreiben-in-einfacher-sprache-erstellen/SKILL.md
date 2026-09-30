@@ -18,9 +18,11 @@ Empfänger, gewünschtes Ergebnis, Anlass, wichtige Daten und verfügbare Belege
 1. Formuliere das gewünschte Ergebnis in einem Satz und prüfe, ob es dem Auftrag entspricht. „Um Erklärung bitten“ ist nicht „Forderung anerkennen“.
 2. Wähle eine passende Textart: Anfrage, Beschwerde, Antrag, Erinnerung oder Sachverhaltsschilderung. Förmliche Rechtsbehelfe benötigen zusätzlich die Prüfung ihrer besonderen Anforderungen.
 3. Frage nach fehlenden entscheidenden Tatsachen. Verwende für bekannte Unsicherheiten ehrliche Formulierungen statt scheinbar genauer Angaben.
-4. Schreibe den vollständigen Brief: Anliegen zuerst, dann die nötigen Tatsachen und Belege. Keine unbelegten Vorwürfe, künstlichen Drohungen oder erfundenen Antwortfristen.
+4. Schreibe den vollständigen Brief: Anliegen zuerst, dann die nötigen Tatsachen und Belege. Benenne bei mehreren Empfängern, wer handeln soll. Wähle eine eindeutige Betreffzeile und nenne verlangte Unterlagen einzeln. Keine unbelegten Vorwürfe, künstlichen Drohungen oder erfundenen Antwortfristen.
 5. Prüfe, ob ein Satz ungewollt Verzicht, Anerkenntnis, Vergleich oder Vertretung erklärt. Solche Erklärungen nur nach ausdrücklicher Klärung aufnehmen.
 6. Kontrolliere mit `bedeutung-und-verstaendlichkeit-pruefen`. Nach der Nutzerantwort konkrete Stellen verbessern und den bereinigten Gesamtbrief liefern.
+
+Wünscht der Nutzer anschließend juristische Standardsprache, übertrage den bestätigten Entwurf mit `juristischen-text-uebertragen`. Halte beide Fassungen inhaltlich gleich; ergänze keine Klageandrohung oder Anspruchsgrundlage nur für einen förmlicheren Ton. Ein neues Anliegen erfordert dagegen eine geklärte inhaltliche Änderung.
 
 ## 4. Quellenpflicht
 

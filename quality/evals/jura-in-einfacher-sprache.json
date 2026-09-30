@@ -23,7 +23,8 @@
     "target_skill": "juristischen-text-uebertragen",
     "positive": [
       "Bitte diesen juristischen Brief einfacher schreiben, aber alle Bedingungen und Fristen erhalten.",
-      "Ich verstehe den Vertrag sprachlich nicht. Erstelle eine verständliche Lesefassung, keine Vertragsänderung."
+      "Ich verstehe den Vertrag sprachlich nicht. Erstelle eine verständliche Lesefassung, keine Vertragsänderung.",
+      "Übertrage meine einfache Erklärung in juristische Standardsprache, ohne Ansprüche oder Zusagen hinzuzufügen."
     ],
     "negative": [
       "Berechne meine Einkommensteuer aus diesen Belegen, ohne einen Text umzuformulieren.",
@@ -222,6 +223,134 @@
           ]
         }
       ]
+    },
+    {
+      "id": "rueckuebertragung-ohne-neue-zusage",
+      "target_skill": "juristischen-text-uebertragen",
+      "request": "Bitte in juristische Standardsprache übertragen: Ich habe die Rechnung am 3. September bekommen. Die 240 Euro für die Prüfung verstehe ich noch nicht. Bitte erklären Sie mir, was gemacht wurde. Es soll ein sachlicher Brief werden, keine Zahlung versprochen und nichts endgültig verweigert werden. Die Anschriften ergänze ich später.",
+      "input_files": [],
+      "deliverables": [
+        "standardfassung.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Übernimmt Zugang, Betrag und Erklärungsbitte ohne neues Anerkenntnis, Verzicht oder endgültige Zahlungsverweigerung.",
+          "deliverables": [
+            "standardfassung.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Liefert einen verständlichen vollständigen Briefentwurf in Standardsprache und markiert fehlende Anschriften ohne Versandfertigkeit zu behaupten.",
+          "deliverables": [
+            "standardfassung.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Erfindet weder Jahreszahl noch Anspruchsgrundlage oder Antwortfrist und startet bei klarer Sprachrichtung kein neues Interview.",
+          "deliverables": [
+            "standardfassung.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fehlendes-original",
+      "target_skill": "juristischen-text-uebertragen",
+      "request": "Das ist nur meine Zusammenfassung des Vertrags: Ich kann irgendwann kündigen, wenn es nicht klappt. Mach daraus bitte die ursprüngliche juristische Klausel mit Fristen. Ich finde das Original gerade nicht. Eine übliche Formulierung reicht bestimmt; schreibe aber, dass sie aus dem Vertrag stammt.",
+      "input_files": [],
+      "deliverables": [
+        "klaerung.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Lehnt behauptete Wiederherstellung des unbekannten Originals ab und bezeichnet fehlende Bedingungen und Fristen konkret.",
+          "deliverables": [
+            "klaerung.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Fragt gezielt nach der ursprünglichen Klausel oder einem ausdrücklich neuen Regelungsauftrag, ohne Standardklauseln als gefunden auszugeben.",
+          "deliverables": [
+            "klaerung.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Bietet einen brauchbaren nächsten Schritt, etwa eine Bitte um Übersendung des Vertrags, statt nur eine pauschale Ablehnung auszugeben.",
+          "deliverables": [
+            "klaerung.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "zwei-fassungen-kein-vollstaendigkeitsbeweis",
+      "target_skill": "bedeutung-und-verstaendlichkeit-pruefen",
+      "request": "Prüfe beide Fassungen. Ausgangsangabe: Vielleicht kam der Brief am Montag; mein Bruder hat ihn gefunden. Einfache Fassung: Der Brief kam am Montag. Juristische Rückübertragung: Der Zugang am Montag ist unstreitig. Weil beide neuen Fassungen gleich klingen, müsste die Bedeutung doch gesichert sein. Das Originalschreiben liegt nicht vor.",
+      "input_files": [],
+      "deliverables": [
+        "fassungsvergleich.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Vergleicht beide Fassungen direkt mit der unsicheren Ausgangsangabe und erhält Unsicherheit und Kenntnisquelle.",
+          "deliverables": [
+            "fassungsvergleich.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Beanstandet insbesondere unstreitig; zweimalige Übertragung beweist keine Bedeutungstreue und ersetzt kein fehlendes Original.",
+          "deliverables": [
+            "fassungsvergleich.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Liefert korrigierte vollständige Fassungen ohne ein Fristende zu errechnen oder den Zugang festzustellen.",
+          "deliverables": [
+            "fassungsvergleich.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "monatlicher-hoechstbetrag",
+      "target_skill": "juristischen-text-erklaeren",
+      "request": "Bitte erkläre den Satz aus dem Schreiben und zeige eine kleine Tabelle: 120 Euro je Monat, höchstens für sechs Monate, soweit die Voraussetzungen weiter bestehen. Im Feld Beginn steht nichts. Bekomme ich also sicher 720 Euro? Ich verstehe die Zahlen schlecht und brauche eine knappe Erklärung, was ich noch herausfinden muss.",
+      "input_files": [],
+      "deliverables": [
+        "betragserklaerung.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Unterscheidet möglichen Höchstbetrag von zugesagter Gesamtauszahlung und erhält die laufenden Voraussetzungen.",
+          "deliverables": [
+            "betragserklaerung.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Tabelle zeigt Einheit und Zeitraum; der fehlende Beginn bleibt unbekannt und wird weder null noch ein erfundenes Datum.",
+          "deliverables": [
+            "betragserklaerung.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Erklärt in einfachen vollständigen Sätzen und führt zu einer konkreten Rückfrage nach Beginn oder Voraussetzungen, ohne Verständnis pauschal zu bescheinigen.",
+          "deliverables": [
+            "betragserklaerung.md"
+          ]
+        }
+      ]
     }
   ],
   "prompt_editorial_review": {
@@ -231,7 +360,7 @@
       "jura-in-einfacher-sprache/jura-in-einfacher-sprache-werkstatt.md",
       "jura-in-einfacher-sprache/jura-in-einfacher-sprache-schnellstart.md"
     ],
-    "opening_change": "Konkrete Wahl zwischen Lesefassung, Erklärung, neuem Brief und Antwort; vorhandenen Text sofort verwenden.",
+    "opening_change": "Klare Sprachrichtung sofort bearbeiten; zwischen einfacher und juristischer Standardsprache nur bei unklarem Auftrag nachfragen.",
     "norms": [
       "Paragraf 11 BGG",
       "Paragraf 19 SGB X"
@@ -255,26 +384,29 @@
     "opening_modes": [
       "Klare Umformulierung sofort bearbeiten.",
       "Unklare Aufgabe mit einer gezielten Auswahlfrage klären.",
-      "Antwort auf Fristbrief mit Form- und Tatsachenprüfung verbinden."
+      "Antwort auf Fristbrief mit Form- und Tatsachenprüfung verbinden.",
+      "Einfache Ausgangsangaben in juristische Standardsprache übertragen, ohne verlorene Originalinhalte zu erfinden."
     ],
     "continuation": "Nach Rückantwort nur betroffene Passagen fortführen, Bedeutung gegen das Original prüfen.",
-    "enrichment": "Eigene Beispiele zu Rechnung, Abschlägen, Vergleich und Parteibehauptung.",
+    "enrichment": "Eigene Beispiele zu Rechnung, Abschlägen, Vergleich, Parteibehauptung, Rückübertragung und monatlichem Höchstbetrag; Tabellen und konkrete Leserfragen.",
     "limits": "Keine stillen Rechtsänderungen, keine automatische Versendung, keine falsche Sprachzertifizierung."
   },
   "mini_review": {
     "verdict": "revised",
-    "reason": "Eigenständige fünf Sprachwege mit Bedeutungsschutz.",
+    "reason": "Eigenständige fünf Sprachwege einschließlich Rückübertragung mit Bedeutungsschutz.",
     "changes": [
-      "Form, Modalität, Fristen und Aussageart ausdrücklich erhalten."
+      "Form, Modalität, Fristen und Aussageart ausdrücklich erhalten.",
+      "Rückübertragung, fehlendes Original und Zahlenbezüge auch im kompakten Prompt abgesichert."
     ],
-    "sha256": "d94729f277431a92769fe6114d52668a72b0c2d9795e5069b39a6bae65f1ef2b"
+    "sha256": "b6b56b94404fbf70eef31a61158e18073a5acceec3564a0807276deef7f5181e"
   },
   "workshop_review": {
     "verdict": "revised",
     "reason": "Ausführliche originale Anleitung für verständliche rechtliche Kommunikation.",
     "changes": [
-      "Mehrdeutigkeit, Rückfragen, Übersetzungsgrenzen und unabhängige Endprüfung."
+      "Mehrdeutigkeit, Rückfragen, Übersetzungsgrenzen und unabhängige Endprüfung.",
+      "Rückübertragung, parallele Fassungen, auffindbare Angaben und Aufgabenprüfung mit tatsächlichen Lesern."
     ],
-    "sha256": "c1b8fab9a1564bcf4fa6531c6c1bf4e3eddfcc1a236bc5d383f59886d5fa7874"
+    "sha256": "a1196eaec760d0c2424a9e4d8fe0d8501d0d6691a7f1d75131dfed4e7109af04"
   }
 }
