@@ -1,6 +1,6 @@
 # ki-verordnung-transparenzpruefer
 
-**8 Skills** · Stand `v445.15.1`
+**8 Skills** · Stand `v445.15.2`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../ki-verordnung-transparenzpruefer/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

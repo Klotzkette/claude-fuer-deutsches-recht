@@ -1,6 +1,6 @@
 # erbbaurecht-praxis
 
-**51 Skills** · Stand `v445.15.1`
+**51 Skills** · Stand `v445.15.2`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../erbbaurecht-praxis/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
