@@ -1,8 +1,8 @@
 # Diesel-Rechtsprechung 2021 bis 2026
 
-Redaktioneller Auswahlstand: 26.08.2026; EuGH-Verfahrensstatus zuletzt amtlich geprüft am 30.09.2026. Das individuelle Prüfdatum jeder Quelle steht im JSON-Datensatz. Exaktes Auswertungsfenster: 26.08.2021 bis 26.08.2026.
+Redaktioneller Auswahlstand: 30.09.2026; EuGH-Verfahrensstatus zuletzt amtlich geprüft am 30.09.2026. Das individuelle Prüfdatum jeder Quelle steht im JSON-Datensatz. Exaktes Auswertungsfenster: 26.08.2021 bis 26.08.2026.
 
-Der maschinenlesbare Begleitkorpus enthält **133 Entscheidungen und Statusakten**: 33 EuGH, 2 Schlussanträge, 51 BGH, 35 OLG/KG, 8 LG sowie 4 verwaltungsgerichtliche oder behördliche Kontextentscheidungen. 110 Datensätze führen unmittelbar zu amtlichen Quellen. Der Korpus ergänzt die Obergerichtsmatrix um frei zugängliche Instanz- und Verwaltungsquellen und erhebt keinen Anspruch auf Vollständigkeit unveröffentlichter oder kostenpflichtiger Entscheidungen.
+Der maschinenlesbare Begleitkorpus enthält **135 Entscheidungen und Statusakten**: 33 EuGH, 2 Schlussanträge, 53 BGH, 35 OLG/KG, 8 LG sowie 4 verwaltungsgerichtliche oder behördliche Kontextentscheidungen. 112 Datensätze führen unmittelbar zu amtlichen Quellen. Der Korpus ergänzt die Obergerichtsmatrix um frei zugängliche Instanz- und Verwaltungsquellen und erhebt keinen Anspruch auf Vollständigkeit unveröffentlichter oder kostenpflichtiger Entscheidungen.
 
 ## Quellenrang und Einsatzgrenze
 
@@ -73,6 +73,8 @@ Die §-826-BGB-Spur bleibt hiervon getrennt. Prüfstandserkennung, objektive Sit
 - `VIa ZR 549/24`: Für Wohnmobile und andere atypische Nutzung Kilometer- und Zeitmethode als Sensitivität rechnen; tatrichterliches Ermessen nicht in eine starre Rechenregel umdeuten.
 - `VIa ZR 545/23`: Fiat-Euro-5-Thermofenster mit konkreten Schwellen, Reduktionsgrad und Fahrzeugquelle vortragen; die Zurückverweisung nicht als Haftungs- oder Serienbeweis ausgeben.
 - `VIa ZR 151/23`: OM651-Euro-5-Temperatursteuerung darf nicht wegen fehlender interner Detailkenntnis als Vortrag ins Blaue behandelt werden; alle übrigen Anspruchselemente bleiben offen.
+- `VIa ZR 1157/23`: EA288-Euro-6-Temperaturvortrag darf nicht mangels interner Detailkenntnis als Vortrag ins Blaue behandelt werden; bei objektivem Verstoß wird das Verschulden vermutet. Die Zurückverweisung ist kein Beleg für Einrichtung, Haftung oder Schadenshöhe.
+- `VIa ZR 17/23`: Audi-SQ5-Euro-5-Anwendungsfall der Differenzschadenlinie; die Zurückverweisung ist kein Beleg für Einrichtung, Haftung oder Schadenshöhe.
 - `VIa ZR 46/24`: Konkret belegten KBA-Vortrag in der §-826-Spur würdigen. Der Gehörsbeschluss entscheidet weder § 823 Abs. 2 BGB noch tatsächlichen Verbotsirrtum oder Unvermeidbarkeit.
 - `VIa ZB 3/24`: Nach Haupt-, Teil- oder Ergänzungsurteil jeden Antrag gegen Tenor und Gründe prüfen. Für jedes selbständig angefochtene Urteil eine entscheidungsbezogene Berufungsbegründung führen; vor § 321 ZPO feststellen, ob der Antrag nicht bereits insgesamt abgewiesen ist.
 
@@ -110,7 +112,7 @@ Die Verfahren `C-8/26`, `C-43/26`, `C-113/26`, `C-114/26`, `C-228/26` und `C-440
 
 Auch `C-732/25` wurde durch Beschluss des Präsidenten des Gerichtshofs vom 09.03.2026 aus dem Register gestrichen. Die Akte enthält daher keine Sachantwort zum Zusammenspiel von AGR und SCR und darf nicht mehr als anhängiges Verfahren geführt werden.
 
-`C-408/25` betrifft weiterhin die offene Reichweite des Individualschutzes gegenüber einem vom Fahrzeughersteller verschiedenen Motorhersteller; eine Sachentscheidung liegt nicht vor.
+CURIA führt `C-408/25` sowie die verbundenen Rechtssachen `C-438/25` und `C-525/25` seit dem 21.07.2026 als geschlossen. Am 30.09.2026 war in der amtlichen Aktenansicht keine veröffentlichte Abschlussentscheidung feststellbar. Deshalb ist weder eine Sachantwort zur Motorherstellerhaftung noch Rücknahme, Gegenstandslosigkeit oder eine andere konkrete Erledigungsart zu behaupten; `C-408/25` ist auch kein offener Aussetzungsanker mehr.
 
 `C-9/26` wurde am 04.08.2026 nach Rücknahme gestrichen und enthält keine materielle Antwort zur Motorherstellerhaftung. `C-554/25` wurde am 06.08.2026 ebenfalls nach Rücknahme gestrichen und enthält keine Sachantwort zur Vorkonditionierung und Regeneration eines NOx-Speicherkatalysators.
 
@@ -152,7 +154,8 @@ python3 diesel-schadensersatz/tools/diesel-fuenfjahre-query.py \
 2. Herstellerrolle klären: Fahrzeughersteller, Motorhersteller, Verkäufer und Finanzierungsbank getrennt prüfen.
 3. Funktion konkretisieren: Steuergröße, Schwelle, Betriebsbereich, Wirkung, Ausnahme, Softwarestand und Beweisquelle.
 4. Erwerbskausalität, Verschulden, Schaden, Nutzung, Restwert, Update und Verjährung jeweils eigenständig abarbeiten. Bei atypisch geringer Fahrleistung nach `VIa ZR 549/24` mindestens Kilometer- und Zeitmethode gegenüberstellen.
-5. Mindestens eine Gegenlinie und deren tatsächlichen oder rechtlichen Unterschied offen behandeln.
-6. Vor Versand jede produktiv zitierte Fundstelle live am Volltext und auf Folgeentwicklung prüfen.
+5. Vorteilsausgleich exakt nach `VIa ZR 335/21`, Rn. 80 rechnen: `Anrechnung = max(0, Nutzungsvorteile + Restwert - (Kaufpreis - Differenzschaden))`; `Nettoanspruch = max(0, Differenzschaden - Anrechnung)`. Vollständige Aufzehrung tritt ein, wenn Nutzungsvorteile plus Restwert mindestens den Kaufpreis erreichen.
+6. Mindestens eine Gegenlinie und deren tatsächlichen oder rechtlichen Unterschied offen behandeln.
+7. Vor Versand jede produktiv zitierte Fundstelle live am Volltext und auf Folgeentwicklung prüfen.
 
 Maschinenlesbarer Korpus: [`diesel-rechtsprechung-2021-2026.json`](./diesel-rechtsprechung-2021-2026.json).

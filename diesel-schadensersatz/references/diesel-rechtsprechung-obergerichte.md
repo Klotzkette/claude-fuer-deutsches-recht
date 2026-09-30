@@ -1,8 +1,8 @@
 # Diesel-Rechtsprechungsmatrix: EuGH, BGH und sämtliche OLG/KG
 
-Stand: 14.07.2026. Maschinenlesbare Fassung: [`diesel-rechtsprechung-obergerichte.json`](./diesel-rechtsprechung-obergerichte.json).
+Stand: 30.09.2026. Maschinenlesbare Fassung: [`diesel-rechtsprechung-obergerichte.json`](./diesel-rechtsprechung-obergerichte.json).
 
-Die Matrix ordnet 71 für die operative Dieselbearbeitung besonders wichtige Entscheidungen und Verfahrensstände ein: 11 EuGH-Urteile oder Statusentscheidungen, 2 Schlussanträge, 31 BGH-Entscheidungen und 27 repräsentative OLG/KG-Entscheidungen. Sämtliche 24 deutschen Oberlandesgerichte einschließlich Kammergericht sind auf **Gerichtsebene** abgedeckt. Das bedeutet nicht, dass jede unveröffentlichte Einzelentscheidung erfasst wäre.
+Die Matrix ordnet 73 für die operative Dieselbearbeitung besonders wichtige Entscheidungen und Verfahrensstände ein: 11 EuGH-Urteile oder Statusentscheidungen, 2 Schlussanträge, 33 BGH-Entscheidungen und 27 repräsentative OLG/KG-Entscheidungen. Sämtliche 24 deutschen Oberlandesgerichte einschließlich Kammergericht sind auf **Gerichtsebene** abgedeckt. Das bedeutet nicht, dass jede unveröffentlichte Einzelentscheidung erfasst wäre.
 
 ## Quellen- und Statusregel
 
@@ -17,11 +17,11 @@ Die Matrix ordnet 71 für die operative Dieselbearbeitung besonders wichtige Ent
 | --- | --- | --- |
 | Prüfstandsbezogene Umschaltlogik | BGH, Urt. v. 25.05.2020 - `VI ZR 252/19` | § 826 BGB und großer Schadensersatz nur mit tragfähiger Vorsatz-/Täuschungsspur. |
 | Abschalteinrichtungsbegriff | EuGH, Urt. v. 17.12.2020 - `C-693/18`; Urt. v. 14.07.2022 - `C-128/20`, `C-134/20` | Funktion, reale Wirkung und enge Motorschutzausnahme getrennt prüfen. |
-| Fahrlässiger Differenzschaden | EuGH, Urt. v. 21.03.2023 - `C-100/21`; BGH, Urt. v. 26.06.2023 - `VIa ZR 335/21` u. a. | Unzulässigkeit, Verschulden, Erwerbskausalität, 5-bis-15-Prozent-Quote und Vorteile einzeln begründen. |
+| Fahrlässiger Differenzschaden | EuGH, Urt. v. 21.03.2023 - `C-100/21`; BGH, Urt. v. 26.06.2023 - `VIa ZR 335/21`; Urt. v. 26.08.2026 - `VIa ZR 17/23`, `VIa ZR 1157/23` | Unzulässigkeit, Verschulden, Erwerbskausalität und 5-bis-15-Prozent-Quote einzeln begründen. Die beiden Urteile vom 26.08.2026 sind Zurückverweisungs- und Anwendungsanker, keine Feststellung von Einrichtung, Haftung oder Schadenshöhe. |
 | KBA-/Typgenehmigungsverteidigung | EuGH, Urt. v. 01.08.2025 - `C-666/23`; BGH, Urt. v. 03.09.2025 - `VIa ZR 26/24` | Typgenehmigung oder hypothetische Behördenbestätigung genügt allein nicht. Tatsächlichen Irrtum, Informationsgrundlage und Unvermeidbarkeit getrennt prüfen; § 826 BGB abtrennen. |
-| Nutzungs- und Restwertanrechnung | BGH, Urt. v. 27.11.2023 - `VIa ZR 159/22`; Beschl. v. 02.09.2025 - `VIa ZR 87/24`; Beschl. v. 16.12.2025 - `VIa ZR 613/24` | Vollständige Aufzehrung ist möglich. Früh mit aktuellem Kilometerstand und Restwert rechnen. |
+| Nutzungs- und Restwertanrechnung | BGH, Urt. v. 26.06.2023 - `VIa ZR 335/21`; Urt. v. 27.11.2023 - `VIa ZR 159/22`; Beschl. v. 02.09.2025 - `VIa ZR 87/24`; Beschl. v. 16.12.2025 - `VIa ZR 613/24` | Exakt rechnen: Nutzungsvorteile plus Restwert werden nur insoweit angerechnet, als ihre Summe Kaufpreis minus Differenzschaden übersteigt. Vollständige Aufzehrung ist möglich. |
 | Darlegungslast | BGH, Urt. v. 13.07.2021 - `VI ZR 128/20`; Urt. v. 25.09.2024 - `VIa ZR 347/22` | Greifbare Anhaltspunkte genügen; interne technische Details über Gegner-/Sachverständigenbeweis erschließen. |
-| Restschadensersatz | BGH, Urt. v. 10.02.2022 - `VII ZR 365/21`; Urt. v. 21.02.2022 - `VIa ZR 8/21`, `VIa ZR 57/21` | Herstellerzufluss und Erwerbskette zuerst prüfen; Gebrauchtkauf regelmäßig negativ. |
+| Restschadensersatz | BGH, Urt. v. 10.02.2022 - `VII ZR 365/21`; Urt. v. 21.02.2022 - `VIa ZR 8/21`, `VIa ZR 57/21` | Herstellerzufluss und Erwerbskette zuerst prüfen: `VIa ZR 8/21` betrifft den Direktkauf beim Hersteller und den gezahlten Kaufpreis ohne Produktionskostenabzug; `VIa ZR 57/21` betrifft die Händlerkette und den möglichen Händlereinkaufspreis. Gebrauchtkauf regelmäßig negativ. |
 | Motor- statt Fahrzeughersteller | BGH, Urt. v. 14.07.2022 - `VII ZR 422/21`; Urt. v. 06.02.2024 - `VI ZR 526/20` | CoC/Typgenehmigungsrolle und Anspruchsgegner vor Anspruchsberechnung klären. |
 
 ## EuGH-Statusfallen

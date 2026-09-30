@@ -109,9 +109,9 @@
       "supports": "Amtliche CURIA-Aktenansicht: C-443/26 ist am Prüftag anhängig; es liegt keine Sachentscheidung vor."
     },
     {
-      "url": "https://eur-lex.europa.eu/legal-content/DE/CASE/?uri=CELEX%3A62025CN0408",
+      "url": "https://juris.curia.europa.eu/juris/liste.jsf?num=C-408%2F25&language=de",
       "checked_on": "2026-09-30",
-      "supports": "Amtliche EUR-Lex-Verfahrensakte: C-408/25 ist am Prüftag ohne Abschlussentscheidung und damit weiterhin nur Status- und Rechercheanker."
+      "supports": "Amtliche InfoCuria-Aktenansicht: C-408/25 und die verbundenen Rechtssachen C-438/25 und C-525/25 sind seit dem 21.07.2026 geschlossen. Eine veröffentlichte Abschlussentscheidung und damit die genaue Erledigungsart waren am Prüftag nicht feststellbar."
     },
     {
       "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=311262&doclang=DE&mode=req&pageIndex=0&part=1",
@@ -170,15 +170,15 @@
   },
   "mini_review": {
     "verdict": "retained",
-    "reason": "Der Schnellstart wurde individuell gegen Betroffenheit, Anspruchstrennung, Verjährung, Differenzschaden, Kreditvollerfüllung, aktuellen EuGH-Verfahrensstatus und das Versandgate geprüft. Er liefert Ergebnis, Beleggrenzen und genau einen nächsten Schritt, ohne Sachantworten aus bloßen Vorlagen oder Versand aus bloßer Paketierung abzuleiten.",
+    "reason": "Der Schnellstart wurde individuell gegen Betroffenheit, Anspruchstrennung, Verjährung, die exakte Differenzschadensformel, Kreditvollerfüllung, den amtlich geprüften EuGH-Verfahrensstatus vom 30.09.2026 und das Versandgate geprüft. Er liefert Ergebnis, Beleggrenzen und genau einen nächsten Schritt, ohne Sachantworten aus bloßen Vorlagen oder Versand aus bloßer Paketierung abzuleiten.",
     "changes": [],
-    "sha256": "118f0c18f14f7504902fd7202fa4fdebfcac75f43cdda5f85a0109a69cf66b8f"
+    "sha256": "68cc59c5c8924fb85386c4b6ae0d516dc544dcd694233ee286464abcd9899a5e"
   },
   "workshop_review": {
     "verdict": "retained",
-    "reason": "Der Werkstattprompt wurde als vollständiger Dieselworkflow fachlich gelesen. Fahrzeugbezug, Anspruch, Frist, Schaden, Finanzierung, Prozess und beA bleiben getrennt; die 2026-Anker werden mit Verwendungsgrenzen geführt und die acht Streichungen können nicht als Sachrechtsprechung in ein Ergebnis gelangen.",
+    "reason": "Der Werkstattprompt wurde als vollständiger Dieselworkflow fachlich gelesen. Fahrzeugbezug, Anspruch, Frist, Schaden, Finanzierung, Prozess und beA bleiben getrennt; die Anker stehen auf 30.09.2026, die neuen BGH-Zurückverweisungen bleiben in ihrer Aussage begrenzt und geschlossene, gestrichene oder anhängige EuGH-Verfahren können nicht als Sachrechtsprechung in ein Ergebnis gelangen.",
     "changes": [],
-    "sha256": "ee664ce6db3fa24b0ad459829c23349be779092ea8f7ef0a449dc285fe172cde"
+    "sha256": "9c5a98d58b8d153c4c81c2d029d6acd19cdb82a133b6d10be6f217176560aa47"
   },
   "prompt_editorial_review": {
     "date": "2026-09-30",
@@ -525,7 +525,7 @@
       ]
     },
     {
-      "id": "eugh-status-acht-gestrichen-zehn-anhaengig",
+      "id": "eugh-status-acht-gestrichen-neun-anhaengig-c408-geschlossen",
       "request": "Erstelle statusvermerk.md mit Rechtsstand 30.09.2026 zu folgendem Gegnervortrag: Alle Verfahren C-114/26, C-152/26, C-232/26, C-270/26, C-95/26, C-173/26, C-408/25, C-554/25, C-8/26, C-9/26, C-43/26, C-162/26, C-189/26, C-440/26, C-443/26, C-228/26, C-293/26 und C-113/26 seien anhängig und bestätigten bereits eine Gesamtbetrachtung sowie Beweislastumkehr. Korrigiere den Status anhand der amtlichen Akten, trenne Verfahrensstand und Sachrecht und leite nur zulässige prozessuale Folgerungen ab.",
       "target_skill": "06-anspruchstriage-fallstrategie",
       "input_files": [],
@@ -535,7 +535,7 @@
       "criteria": [
         {
           "id": "C01",
-          "text": "Als weiterhin anhängig werden exakt C-95/26, C-152/26, C-162/26, C-173/26, C-189/26, C-232/26, C-270/26, C-293/26, C-408/25 und C-443/26 geführt. Sie sind Vorabentscheidungsersuchen ohne Entscheidungs-ECLI und ohne Sachantwort.",
+          "text": "Als weiterhin anhängig werden exakt C-95/26, C-152/26, C-162/26, C-173/26, C-189/26, C-232/26, C-270/26, C-293/26 und C-443/26 geführt. Sie sind Vorabentscheidungsersuchen ohne Entscheidungs-ECLI und ohne Sachantwort. C-408/25 wird dagegen seit dem 21.07.2026 als geschlossen geführt.",
           "deliverables": [
             "statusvermerk.md"
           ]
@@ -549,14 +549,14 @@
         },
         {
           "id": "C03",
-          "text": "Der Vermerk weist für die acht Streichungen die richtigen ECLI aus: 394, 638, 647, 639, 651, 641, 644 und 636 jeweils als ECLI:EU:C:2026:… zum passenden Aktenzeichen. Kein ECLI wird einer offenen Akte zugeordnet.",
+          "text": "Der Vermerk weist für die acht Streichungen die richtigen ECLI aus: 394, 638, 647, 639, 651, 641, 644 und 636 jeweils als ECLI:EU:C:2026:… zum passenden Aktenzeichen. Weder einer offenen Akte noch C-408/25 wird ein Abschluss-ECLI zugeordnet; für C-408/25 bleiben veröffentlichte Abschlussentscheidung und genaue Erledigungsart ausdrücklich offen.",
           "deliverables": [
             "statusvermerk.md"
           ]
         },
         {
           "id": "C04",
-          "text": "Weder offene Vorlagefragen noch Streichungsbeschlüsse werden als entschiedene Gesamtbetrachtung, Beweislastumkehr, Realbetriebsgrenzwertpflicht, Haftungsbejahung oder Anerkenntnis verwendet. Technische Vergleichbarkeit und tragende Sachrechtsprechung bleiben gesondert zu prüfen.",
+          "text": "Weder offene Vorlagefragen noch Streichungsbeschlüsse noch der nur statusmäßig dokumentierte Abschluss von C-408/25 werden als entschiedene Gesamtbetrachtung, Beweislastumkehr, Realbetriebsgrenzwertpflicht, Haftungsbejahung oder Anerkenntnis verwendet. Technische Vergleichbarkeit und tragende Sachrechtsprechung bleiben gesondert zu prüfen.",
           "deliverables": [
             "statusvermerk.md"
           ]

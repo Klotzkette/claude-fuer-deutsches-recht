@@ -327,9 +327,9 @@ def stats(rows: list[dict[str, Any]], stand: str) -> str:
 
 def selftest(data: dict[str, Any]) -> None:
     rows = data["entscheidungen"]
-    assert len(rows) == 71
+    assert len(rows) == 73
     assert Counter(item["ebene"] for item in rows) == Counter(
-        {"EuGH": 11, "GA": 2, "BGH": 31, "OLG/KG": 27}
+        {"EuGH": 11, "GA": 2, "BGH": 33, "OLG/KG": 27}
     )
     assert len({item["gericht"] for item in rows if item["ebene"] == "OLG/KG"}) == 24
     by_id = {item["id"]: item for item in rows}
@@ -343,7 +343,9 @@ def selftest(data: dict[str, Any]) -> None:
     assert select(rows, transliterated_args)
     legacy_status_args = parser().parse_args(["--status", "bindend"])
     assert select(rows, legacy_status_args)
-    print("diesel-rechtsprechung-query selftest OK (71 Datensätze, 24 OLG/KG-Gerichte)")
+    assert by_id["bgh-via-zr17-23"]["status"] == "hoechstrichterlich"
+    assert by_id["bgh-via-zr1157-23"]["status"] == "hoechstrichterlich"
+    print("diesel-rechtsprechung-query selftest OK (73 Datensätze, 24 OLG/KG-Gerichte)")
 
 
 def main() -> int:

@@ -1,6 +1,6 @@
 {
   "schema": "dieselgate.fuenfjahre-ergaenzungen.v1",
-  "stand": "2026-08-26",
+  "stand": "2026-09-30",
   "hinweis": "Redaktionell verifizierte Ergänzungen zur Obergerichtsmatrix. Vorabentscheidungsersuchen sind nur Statusakten. Instanzentscheidungen binden andere Gerichte nicht. Amtliche Pressemitteilungen tragen nur die dort wiedergegebenen Aussagen.",
   "entscheidungen": [
     {
@@ -267,21 +267,21 @@
       "id": "eugh-c408-25-status",
       "ebene": "EuGH",
       "gericht": "Gerichtshof der Europäischen Union",
-      "entscheidungsart": "Vorabentscheidungsersuchen",
-      "datum": "2025-06-19",
+      "entscheidungsart": "Statusakt",
+      "datum": "2026-07-21",
       "az": "C-408/25",
       "ecli": null,
       "fallgruppen": ["Motorhersteller", "Verfahrensstatus"],
       "themen": ["Individualschutz", "Fahrzeughersteller", "Motorhersteller"],
       "richtung": "neutral_prozessual",
-      "status": "anhaengig",
-      "kernaussage": "Das Ersuchen betrifft die Reichweite des unionsrechtlichen Individualschutzes gegenüber dem Hersteller des Motors, wenn Fahrzeug- und Motorhersteller nicht identisch sind. Eine Sachentscheidung zur Motorherstellerhaftung liegt nicht vor.",
-      "arbeitsregel": "Gegnerrolle und konkrete Herstellerpflichten offen prüfen; C-408/25 weder als Haftungsbejahung noch als Haftungsausschluss zitieren.",
+      "status": "geschlossen",
+      "kernaussage": "CURIA führt C-408/25 sowie die verbundenen Rechtssachen C-438/25 und C-525/25 seit dem 21.07.2026 als geschlossen. Eine veröffentlichte Abschlussentscheidung und damit eine materielle Antwort zur Motorherstellerhaftung waren am 30.09.2026 nicht feststellbar.",
+      "arbeitsregel": "C-408/25 weder als anhängigen Aussetzungsanker noch als Haftungsbejahung oder Haftungsausschluss verwenden; die genaue Erledigungsart bleibt bis zu einem amtlich veröffentlichten Abschlussdokument offen.",
       "betrag_eur": null,
       "quelle_art": "amtlich_eu",
-      "quelle_url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A62025CN0408",
+      "quelle_url": "https://juris.curia.europa.eu/juris/liste.jsf?num=C-408%2F25&language=de",
       "geprueft_am": "2026-09-30",
-      "folgestatus": "Am 30.09.2026 in der amtlichen CURIA-Aktenansicht ohne Abschlussentscheidung geführt."
+      "folgestatus": "Am 21.07.2026 gemeinsam mit C-438/25 und C-525/25 geschlossen; am 30.09.2026 keine veröffentlichte Abschlussentscheidung und keine amtlich belegte Erledigungsart feststellbar."
     },
     {
       "id": "eugh-c554-25-status",

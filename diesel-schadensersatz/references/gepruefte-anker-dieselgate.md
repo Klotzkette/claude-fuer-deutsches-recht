@@ -1,13 +1,13 @@
 # Geprüfte Anker Dieselgate (Zivilrecht Verbraucher)
 
-Stand: 26.08.2026.
+Stand: 30.09.2026.
 
 Diese Kontrollspur hält die im Plugin verwendeten EuGH-/BGH-Anker, ihren aktuellen Status und die daraus folgende Arbeitsregel fest. Sie ist kein Kommentarersatz. Vor Übernahme in Klage, Anspruchsschreiben, Memo oder Schulungsunterlage sind Volltext, Tenor, Randnummer, Normstand und Folgeentwicklung live zu prüfen.
 
 Vertiefungen:
 
-- [`diesel-rechtsprechung-obergerichte.md`](./diesel-rechtsprechung-obergerichte.md): 71 strukturierte EuGH-/BGH-/OLG/KG-Datensätze, alle 24 OLG/KG auf Gerichtsebene.
-- [`diesel-rechtsprechung-2021-2026.md`](./diesel-rechtsprechung-2021-2026.md): 133 Entscheidungen und Statusakten im exakten Fünfjahresfenster, mit Quellenrang und Verwendungsgrenze.
+- [`diesel-rechtsprechung-obergerichte.md`](./diesel-rechtsprechung-obergerichte.md): 73 strukturierte EuGH-/BGH-/OLG/KG-Datensätze, alle 24 OLG/KG auf Gerichtsebene.
+- [`diesel-rechtsprechung-2021-2026.md`](./diesel-rechtsprechung-2021-2026.md): 135 Entscheidungen und Statusakten im exakten Fünfjahresfenster, mit Quellenrang und Verwendungsgrenze.
 - [`rechtsstand-2026-gesetzgebung.md`](./rechtsstand-2026-gesetzgebung.md): Zuständigkeits- und Rechtsmittelschwellen, eCoC-Umstellung, Typgenehmigungsübergang und Euro-7-Rückwirkungsstopp.
 - [`ea288-rechtsprechung-instanzen.md`](./ea288-rechtsprechung-instanzen.md): 131 anonymisierte, überwiegend von einer Klägerkanzlei veröffentlichte EA288-Entscheidungen.
 - [`ea288-argumentationslinien.md`](./ea288-argumentationslinien.md): Darlegungslast, Parallelvortrag, Anhörungsrüge und Vorwurfsgrenzen aus Nutzermaterial.
@@ -98,7 +98,7 @@ Vertiefungen:
 | [`C-95/26`](https://juris.curia.europa.eu/juris/showPdf.jsf?docid=311826&doclang=DE&mode=req&pageIndex=0&part=1), `C-152/26`, `C-162/26`, [`C-173/26`](https://juris.curia.europa.eu/juris/showPdf.jsf?docid=311782&doclang=DE&mode=req&pageIndex=0&part=1), `C-189/26`, `C-232/26`, `C-270/26`, [`C-293/26`](https://juris.curia.europa.eu/juris/showPdf.jsf?docid=311955&doclang=DE&mode=req&pageIndex=0&part=1), [`C-443/26`](https://juris.curia.europa.eu/juris/showPdf.jsf?docid=313077&doclang=DE&mode=req&pageIndex=0&part=1) | Am 30.09.2026 amtlich als anhängig geprüft | Nur offene Vorlagefragen; insbesondere keine entschiedene Gesamtbetrachtung, Beweislastumkehr oder Realbetriebsgrenzwertpflicht behaupten. |
 | [`C-8/26`](https://juris.curia.europa.eu/juris/document/document.jsf?docid=311262&doclang=DE&mode=req&pageIndex=0&part=1), [`C-43/26`](https://juris.curia.europa.eu/juris/document/document.jsf?docid=314804&doclang=DE&mode=req&pageIndex=0&part=1), [`C-113/26`](https://juris.curia.europa.eu/juris/document/document.jsf?docid=314805&doclang=DE&mode=req&pageIndex=0&part=1), [`C-114/26`](https://juris.curia.europa.eu/juris/document/document.jsf?docid=314839&doclang=DE&mode=req&pageIndex=0&part=1), [`C-228/26`](https://juris.curia.europa.eu/juris/document/document.jsf?docid=314808&doclang=DE&mode=req&pageIndex=0&part=1), [`C-440/26`](https://juris.curia.europa.eu/juris/document/document.jsf?docid=314807&doclang=DE&mode=req&pageIndex=0&part=1) | Zwischen 24.04. und 12.08.2026 nach Rücknahme gestrichen | Nicht mehr als anhängig führen. Weder Höhenkorrektur, Systemgrenze, Beweislast noch Prozesskostenfrage wurden materiell beantwortet. |
 | [`C-9/26`](https://juris.curia.europa.eu/juris/document/document.jsf?docid=314793&doclang=DE&mode=req&pageIndex=0&part=1), [`C-554/25`](https://juris.curia.europa.eu/juris/document/document.jsf?docid=314810&doclang=DE&mode=req&pageIndex=0&part=1) | Am 04.08. bzw. 06.08.2026 nach Rücknahme gestrichen | Keine Sachantwort zur Motorherstellerhaftung oder zur Vorkonditionierung und Regeneration eines NOx-Speicherkatalysators. |
-| `C-408/25` | Am 30.09.2026 amtlich als anhängig geprüft | Keine materielle Entscheidung zur Haftung eines vom Fahrzeughersteller verschiedenen Motorherstellers. |
+| [`C-408/25`](https://juris.curia.europa.eu/juris/liste.jsf?num=C-408%2F25&language=de) | Seit 21.07.2026 geschlossen; verbunden mit `C-438/25` und `C-525/25` | Am 30.09.2026 war keine veröffentlichte Abschlussentscheidung feststellbar. Deshalb weder Sachantwort noch Rücknahme, Gegenstandslosigkeit oder eine andere konkrete Erledigungsart behaupten und nicht mehr als offenen Aussetzungsanker führen. |
 
 ## BGH-Anker nach Thema
 
@@ -164,6 +164,8 @@ Arbeitsregel: Zuerst vollständige Erfüllung und Vertragstyp, dann Originalunte
 - **BGH, Urt. v. 09.04.2024 - `VI ZR 660/20`:** Die für § 826 entwickelte Zäsur nach Aufdeckung schließt den Differenzschaden nicht automatisch aus.
 - **BGH, Urt. v. 03.09.2025 - `VIa ZR 26/24`:** EG-Typgenehmigung oder bloß hypothetische KBA-Billigung genügt nicht zur Entlastung. Tatsächlicher Rechtsirrtum der maßgeblichen Repräsentanten und seine Unvermeidbarkeit sind getrennt darzulegen und zu beweisen; konkrete Behördenkenntnis ist nur bei vollständiger Information belastbar.
 - **BGH, Urt. v. 25.02.2026 - `VIa ZR 1580/22`:** Höchstrichterlicher EA288-Euro-6-Anwendungsfall der Differenzschadenlinie; die Zurückverweisung stellt weder eine konkrete Abschalteinrichtung noch Haftung dem Grunde nach fest.
+- **[BGH, Urt. v. 26.08.2026 - `VIa ZR 1157/23`, ECLI:DE:BGH:2026:260826UVIAZR1157.23.0](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIa_ZS/2023/VIa_ZR_1157-23.pdf?__blob=publicationFile&v=1):** Im EA288-Euro-6-Fall ist konkreter Vortrag zur temperaturabhängig reduzierten Abgasrückführung nicht schon mangels interner Detailkenntnis ins Blaue hinein gehalten; bei objektivem Verstoß wird das Verschulden vermutet. Die Zurückverweisung belegt weder Einrichtung noch Haftung oder Schadenshöhe.
+- **[BGH, Urt. v. 26.08.2026 - `VIa ZR 17/23`, ECLI:DE:BGH:2026:260826UVIAZR17.23.0](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIa_ZS/2023/VIa_ZR__17-23.pdf?__blob=publicationFile&v=1):** Beim Audi SQ5 3.0 TDI Euro 5 durfte ein möglicher Differenzschaden nicht allein wegen des früher verneinten Schutzgesetzcharakters der §§ 6, 27 EG-FGV abgelehnt werden. Auch diese Zurückverweisung stellt keine Einrichtung, Haftung oder Quote fest.
 - **BGH, Beschl. v. 23.06.2026 - `VIa ZR 1130/23`:** Tatsächlicher Irrtum und Unvermeidbarkeit sind getrennt. Eine hypothetische Behördenbestätigung ersetzt weder Vortrag noch Beweis zur Fehlvorstellung sämtlicher relevanter §-31-BGB-Repräsentanten oder ordnungsgemäßen Ressortorganisation.
 - **[BGH, Urt. v. 22.07.2026 - `VIa ZR 24/23`](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIa_ZS/2023/VIa_ZR__24-23.pdf?__blob=publicationFile&v=1):** Fehlender Rückruf und fehlende Stilllegungsgefahr schließen den Differenzschaden eines Fiat-Wohnmobils nicht aus. Der tatsächliche Verbotsirrtum ist konkret für die nach § 31 BGB Verantwortlichen darzulegen und zu beweisen.
 - **BGH, Urt. v. 28.07.2026 - `VIa ZR 782/23`:** Aktueller OM651-Euro-6-Anwendungsfall der Differenzschadenlinie; die Zurückverweisung ist kein Beleg für eine konkrete unzulässige Einrichtung, Haftung oder Quote.
@@ -181,17 +183,20 @@ Arbeitsregel: Zuerst vollständige Erfüllung und Vertragstyp, dann Originalunte
 
 Arbeitsregel: Schaden nie ohne aktuellen Kilometerstand, plausible Gesamtlaufleistung, Restwert und Stichtag beurteilen. Eine bloße EU-Vorlage- oder Divergenzrüge ersetzt keinen Fehler in diesen Tatsachenannahmen.
 
+Exakte Aufzehrungsformel nach BGH `VIa ZR 335/21`, Rn. 80: `Anrechnung = max(0, Nutzungsvorteile + Restwert - (Kaufpreis - Differenzschaden))`; `Nettoanspruch = max(0, Differenzschaden - Anrechnung)`. Vollständig aufgezehrt ist der Differenzschaden, wenn Nutzungsvorteile plus Restwert mindestens den Kaufpreis erreichen.
+
 ### Verjährung und § 852 BGB
 
 - **BGH, Urt. v. 17.12.2020 - `VI ZR 739/20`:** Im EA189-Fall sind Kenntnis der konkreten Fahrzeugbetroffenheit und Zumutbarkeit der Klage für § 199 Abs. 1 BGB maßgeblich. Nicht schematisch auf andere Motoren, Einrichtungen oder Anspruchsgrundlagen übertragen.
 - **BGH, Urt. v. 27.01.2022 - `VII ZR 303/20`:** Die historische Hemmung nach § 204 Abs. 1 Nr. 1a BGB a.F. konnte bei wirksamer Anmeldung grundsätzlich auf die Erhebung der Musterfeststellungsklage zurückwirken; eine spätere Abmeldung zur Individualklage war nicht schon deshalb treuwidrig.
 - **BGH, Urt. v. 26.09.2022 - `VIa ZR 124/22`:** Die historische Hemmung durch Anspruchsanmeldung setzte Verbrauchereigenschaft voraus.
 - **BGH, Urt. v. 10.02.2022 - `VII ZR 365/21`:** Gebrauchtwagenkauf vermittelt regelmäßig keinen Herstellerzufluss; § 852 BGB scheidet dann aus.
-- **BGH, Urt. v. 21.02.2022 - `VIa ZR 8/21`, `VIa ZR 57/21`:** Beim Neuwagen-Ersterwerb über Händler kann der Hersteller den auf seine Kosten erlangten Händlereinkaufspreis herausgeben müssen.
+- **[BGH, Urt. v. 21.02.2022 - `VIa ZR 8/21`, ECLI:DE:BGH:2022:210222UVIAZR8.21.0](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIa_ZS/2021/VIa_ZR___8-21.pdf?__blob=publicationFile&v=1):** Beim unmittelbaren Neuwagenkauf von der beklagten Herstellerin ist der gezahlte Kaufpreis das Erlangte; Produktionskosten werden nicht abgezogen.
+- **[BGH, Urt. v. 21.02.2022 - `VIa ZR 57/21`, ECLI:DE:BGH:2022:210222UVIAZR57.21.0](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIa_ZS/2021/VIa_ZR__57-21.pdf?__blob=publicationFile&v=1):** Beim Neuwagenkauf über einen Händler kann der Hersteller den Händlereinkaufspreis auf Kosten des Käufers erlangt haben; der Endkundenkaufpreis ist nicht automatisch das Erlangte.
 - **BGH, Urt. v. 14.07.2022 - `VII ZR 422/21`:** Bloßer Motorhersteller hat aus dem Fahrzeugerwerb regelmäßig nichts im Sinne von § 852 BGB erlangt.
 - **BGH, Urt. v. 28.11.2023 - `X ZR 83/20`, Rn. 28 ff.:** Die Zehnjahresfrist des § 852 Satz 2 BGB beginnt mit Entstehung des ursprünglichen Schadensersatzanspruchs, nicht erst mit dessen Verjährung.
 
-Arbeitsregel: Kenntnisverjährung, kenntnisunabhängige Fristen, historische oder aktuelle Kollektivhemmung und Restschadensersatz getrennt prüfen. § 852 ist keine pauschale Zehnjahresverlängerung des vollen Schadensersatzes; beim Händlerkauf ist der Endkundenkaufpreis nicht automatisch das vom Hersteller Erlangte.
+Arbeitsregel: Kenntnisverjährung, kenntnisunabhängige Fristen, historische oder aktuelle Kollektivhemmung und Restschadensersatz getrennt prüfen. § 852 ist keine pauschale Zehnjahresverlängerung des vollen Schadensersatzes. `VIa ZR 8/21` betrifft den Direktkauf beim Hersteller; `VIa ZR 57/21` betrifft die Händlerkette. Beim Händlerkauf ist der Endkundenkaufpreis nicht automatisch das vom Hersteller Erlangte.
 
 ### Herstellerrolle, Gebühren und Deckung
 

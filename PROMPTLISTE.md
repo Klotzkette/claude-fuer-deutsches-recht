@@ -59,11 +59,11 @@ Kategorien sind alphabetisch nach Titel sortiert, Einträge innerhalb jeder Kate
 | [Urheber- und Medienrecht](#urheber--und-medienrecht) | 5 |
 | [Vereinsrecht und Genossenschaften](#vereinsrecht-und-genossenschaften) | 1 |
 | [Vergaberecht](#vergaberecht) | 1 |
-| [Verkehrsrecht](#verkehrsrecht) | 2 |
+| [Verkehrsrecht](#verkehrsrecht) | 3 |
 | [Versicherungsrecht](#versicherungsrecht) | 3 |
 | [Verwaltungsrecht](#verwaltungsrecht) | 34 |
 
-243 kuratierte Plugins in 34 Kategorien, aus insgesamt 255 Marketplace-Plugins (Abgleich: 30. September 2026). Gezählt werden Plugins, nicht einzelne Skills oder Prompt-Dateien.
+244 kuratierte Plugins in 34 Kategorien, aus insgesamt 256 Marketplace-Plugins (Abgleich: 30. September 2026). Gezählt werden Plugins, nicht einzelne Skills oder Prompt-Dateien.
 
 ## Agrarrecht
 
@@ -367,6 +367,7 @@ Kategorien sind alphabetisch nach Titel sortiert, Einträge innerhalb jeder Kate
 
 ## Verkehrsrecht
 
+- [diesel-schadensersatz](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/diesel-schadensersatz): Großes Dieselgate-Plugin mit 21 Arbeitswegen für Aktenstart, Betroffenheit, Anspruchstrennung, Klage, Replik, beA-Paket und Vollstreckung sowie Rechtsstands-Cockpit und neun Testakten. · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=diesel-schadensersatz/diesel-schadensersatz-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=diesel-schadensersatz/diesel-schadensersatz-werkstatt.md)
 - [fachanwalt-verkehrsrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-verkehrsrecht): Plugin Fachanwalt für Verkehrsrecht. StVG StVO PflVG VVG-Bezüge. Verkehrsunfall Personen- und Sachschaden Bußgeld Fahrerlaubnis Verkehrsstrafrecht (Paragrafen 315c… · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-verkehrsrecht/fachanwalt-verkehrsrecht-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-verkehrsrecht/fachanwalt-verkehrsrecht-werkstatt.md)
 - [strassenverkehrsrecht-stvo](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/strassenverkehrsrecht-stvo): StVO-/Straßenverkehrsrecht-Plugin für Verkehrsregeln, Zeichen, Anordnungen, Ausnahmegenehmigungen, Fahrerlaubnis, Bußgeld-Schnittstellen und Behördenpraxis · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=strassenverkehrsrecht-stvo/strassenverkehrsrecht-stvo-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=strassenverkehrsrecht-stvo/strassenverkehrsrecht-stvo-werkstatt.md)
 

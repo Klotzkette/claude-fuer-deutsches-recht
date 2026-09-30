@@ -62,7 +62,7 @@ Aktiver Satz mit höchstens sechs Ankern. Die vollständige Zuordnung bleibt in 
 | EuGH, Urt. v. 01.08.2025 - C-666/23 | EG-Typgenehmigung oder hypothetische Behördenbestätigung trägt einen daraus hergeleiteten unvermeidbaren Verbotsirrtum nicht. | Amtlich geprüft |
 | BGH, Urt. v. 28.07.2026 - VIa ZR 545/23; VIa ZR 151/23 | Konkreter Thermofenstervortrag genügt für die weitere Differenzschadenprüfung; Einrichtung, Verschulden, Kausalität und Quote bleiben zu beweisen. | Amtlich geprüft |
 | BGH, Urt. v. 03.09.2025 - VIa ZR 26/24 | Der Hersteller trägt tatsächlichen Rechtsirrtum und Unvermeidbarkeit getrennt; für einen konkreten Behördenvorgang ist vollständige Offenlegung zentral. | Amtlich geprüft |
-| Fünfjahreskorpus 26.08.2021 bis 26.08.2026: 133 Entscheidungen und Statusakten | Für den konkreten Schriftsatz höchstens sechs ausgewogene Treffer mit Quellenrang und Gegenlinie laden. | Kuratierter Arbeitskorpus mit Quellenrängen |
+| Fünfjahreskorpus 26.08.2021 bis 26.08.2026: 135 Entscheidungen und Statusakten | Für den konkreten Schriftsatz höchstens sechs ausgewogene Treffer mit Quellenrang und Gegenlinie laden. | Kuratierter Arbeitskorpus mit Quellenrängen |
 
 <!-- END rechtsprechungs-anker (autogen) -->
 

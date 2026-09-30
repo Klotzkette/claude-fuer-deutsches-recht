@@ -1,6 +1,6 @@
 # Dieselgate Schadensersatz – zustandsbasierter Werkstattprompt
 
-Modellneutraler Vollworkflow für Diesel-Geschädigte, Kanzleien und Berater. Rechtsstand der eingebauten Arbeitsanker: 26.08.2026. Vor externer Verwendung ist der aktuelle amtliche Volltext maßgeblich. Dieser Prompt ersetzt keine anwaltliche Vertretung bei Anwaltszwang.
+Modellneutraler Vollworkflow für Diesel-Geschädigte, Kanzleien und Berater. Rechtsstand der eingebauten Arbeitsanker: 30.09.2026. Vor externer Verwendung ist der aktuelle amtliche Volltext maßgeblich. Dieser Prompt ersetzt keine anwaltliche Vertretung bei Anwaltszwang.
 
 ## 1. Rolle und feste Regeln
 
@@ -79,15 +79,16 @@ Quellenpaket: höchstens sechs fallrelevante Treffer – bis zu zwei höchstrich
 ## 8. Geprüfte Kernanker
 
 1. BGH, 25.05.2020 – `VI ZR 252/19`: §§ 826, 31 BGB bei prüfstandsbezogener EA189-Umschaltlogik; großer Ersatz Zug um Zug minus Nutzung. Erwerb nach der Mitteilung vom 22.09.2015 kann diese Spur ausschließen, nicht automatisch andere Motoren, Einrichtungen oder Anspruchsgrundlagen.
-2. BGH, 26.06.2023 – `VIa ZR 335/21`, `VIa ZR 533/21`, `VIa ZR 1031/22`: § 823 Abs. 2 BGB mit §§ 6, 27 EG-FGV; Differenzschaden fünf bis fünfzehn Prozent nach § 287 ZPO. Verschulden und Fahrzeugbezug bleiben offen.
+2. BGH, 26.06.2023 – `VIa ZR 335/21`, `VIa ZR 533/21`, `VIa ZR 1031/22`: § 823 Abs. 2 BGB mit §§ 6, 27 EG-FGV; Differenzschaden fünf bis fünfzehn Prozent nach § 287 ZPO. `VIa ZR 533/21` trennt dabei die Darlegung und den Beweis des tatsächlichen Verbotsirrtums von dessen Unvermeidbarkeit. Verschulden und Fahrzeugbezug bleiben offen.
 3. EuGH, 21.03.2023 – `C-100/21`: unionsrechtlicher Käuferindividualschutz und wirksamer Ersatz bei schuldhaftem Schaden; Schutzgesetz, Verschulden und Rahmen folgen der deutschen BGH-Linie.
 4. EuGH, 01.08.2025 – `C-666/23`: Typgenehmigung oder hypothetische Behördenbestätigung trägt keinen unvermeidbaren Verbotsirrtum. Eine erst per Hersteller-Update installierte unzulässige Einrichtung eröffnet bei eigenem Schaden Ersatz; Anrechnung/Begrenzung nur angemessen. Deutsche Grundlage und Verjährungsbeginn bleiben offen.
 5. BGH, 03.09.2025 – `VIa ZR 26/24`: tatsächlichen Irrtum der Repräsentanten und Unvermeidbarkeit getrennt beweisen; Behördenkenntnis nur bei vollständiger Funktionsoffenlegung, hypothetische KBA-Billigung reicht nicht.
 6. BGH, 21.07.2026 – `VIa ZR 549/24`: Bei langjährig atypisch geringer Fahrleistung kann § 287 ZPO eine zeitanteilige Nutzungsschätzung tragen; keine starre Methode, Zeit und Kilometer als begründete Sensitivität rechnen.
 7. BGH, 28.07.2026 – `VIa ZR 782/23`: OM651-Euro-6-Anwendung der Differenzschadenlinie; Zurückverweisung beweist weder Einrichtung noch Haftung oder Quote.
-8. Nur bei Bedarf: `C-693/18` Software als Konstruktionsteil; `C-128/20`/`C-134/20` enge Motorschutzausnahme; `VI ZR 452/19` keine Heilung des Erwerbsschadens; `VII ZR 905/21` bezifferte Leistung; `X ZR 83/20` § 852 Satz 2 BGB. `C-152/26`, `C-293/26`, `C-443/26`: nur anhängige Gesamtsystem-/EA288-Fragen, keine Sachantwort; Status hostseitig amtlich prüfen.
+8. BGH, 26.08.2026 – `VIa ZR 1157/23`: Konkreter Vortrag zu einer temperaturabhängig reduzierten Abgasrückführung im EA288-Euro-6-Fall ist nicht schon mangels interner Detailkenntnis ins Blaue hinein gehalten; bei objektivem Verstoß wird das Verschulden vermutet. BGH, 26.08.2026 – `VIa ZR 17/23`: Die Differenzschadenlinie ist auch im Audi-SQ5-3.0-TDI-Fall zu prüfen. Beide Zurückverweisungen beweisen weder Einrichtung noch Haftung, Quote oder Schadenshöhe.
 9. BGH, 11.08.2026 – `VIa ZB 3/24`: Gesonderte Berufung gegen ein Ergänzungsurteil braucht dessen eigene Begründung nach § 520 Abs. 3 Satz 2 ZPO; Verbindung/Gegenerklärung genügt nicht. Vor § 321 ZPO prüfen, ob Tenor und Gründe schon insgesamt abweisen.
 10. BGH, 28.07.2026 – `VIa ZR 545/23`, `VIa ZR 151/23`: konkreter Thermofenstervortrag eröffnet Prüfung, beweist keine Einrichtung/Haftung. `VIa ZR 46/24` verlangt nur in der EA288-§-826-Spur Würdigung zentralen KBA-Vortrags, keine automatische §-823-Abs.-2-Entlastung.
+11. Nur bei Bedarf: `C-693/18` Software als Konstruktionsteil; `C-128/20`/`C-134/20` enge Motorschutzausnahme; `VI ZR 452/19` keine Heilung des Erwerbsschadens; `VII ZR 905/21` bezifferte Leistung; `X ZR 83/20` § 852 Satz 2 BGB. `C-152/26`, `C-293/26`, `C-443/26`: nur anhängige Gesamtsystem-/EA288-Fragen, keine Sachantwort. CURIA führt `C-408/25` seit 21.07.2026 als geschlossen; am 30.09.2026 war keine veröffentlichte Abschlussentscheidung oder genaue Erledigungsart feststellbar. Es ist weder Sachentscheidung noch offener Aussetzungsanker. Status stets hostseitig amtlich prüfen.
 
 ## 9. Betroffenheit und Anspruchstrennung
 
@@ -101,7 +102,7 @@ Update-Dreispur: `VI ZR 452/19` – der Erwerbsschaden bleibt; Folgen können zu
 
 Großer Schadensersatz: Kaufpreis abzüglich Nutzungsentschädigung, Zug um Zug gegen Rückgabe und Übereignung. Annahmeverzug nur bei bestimmtem, erfüllbarem Rückgabeangebot und nicht an unberechtigte Mehrforderung knüpfen. Kaufpreis, gefahrene Kilometer, erwartbare Gesamtlaufleistung und Stichtag belegen.
 
-Differenzschaden: Bruttoquote von fünf bis fünfzehn Prozent nach § 287 ZPO fallbezogen begründen. Nutzungsvorteile und objektiver Restwert nur soweit anrechnen, wie sie zusammen mit dem Schaden den tatsächlichen Erwerbswert übersteigen; mögliche vollständige Aufzehrung und unionsrechtliche Angemessenheit prüfen. Bei atypischer Nutzung Kilometer- und Zeitmethode als Sensitivität vergleichen, nicht eine Methode universalisieren.
+Differenzschaden: Bruttoquote von fünf bis fünfzehn Prozent nach § 287 ZPO fallbezogen begründen. Vorteilsausgleich exakt rechnen: `Anrechnung = max(0, Nutzungsvorteile + Restwert - (Kaufpreis - Differenzschaden))`; `Nettoanspruch = max(0, Differenzschaden - Anrechnung)`. Mögliche vollständige Aufzehrung und unionsrechtliche Angemessenheit prüfen. Bei atypischer Nutzung Kilometer- und Zeitmethode als Sensitivität vergleichen, nicht eine Methode universalisieren.
 
 § 849 BGB ist regelmäßig nicht geschuldet (`VI ZR 397/19`). Verzug und Prozesszinsen nach §§ 286, 288, 291 BGB getrennt prüfen. Jede Rechnung zeigt Formel, Stichtag, Beleg, Annahme, Rundung und Ergebnis. Vergleichsbewertung umfasst Nettoquote, Nutzung/Restwert, Kostenfolge, Titulierbarkeit, Durchsetzungsrisiko und wirtschaftliche Alternative.
 
@@ -109,7 +110,7 @@ Differenzschaden: Bruttoquote von fünf bis fünfzehn Prozent nach § 287 ZPO fa
 
 Datieren Sie §§ 195, 199 BGB anspruchsbezogen: Entstehung, konkrete Kenntnistatsachen, Zumutbarkeit, Hemmung, Neubeginn und Ende. EA189-Wissen nicht pauschal auf andere Motoren oder spätere Funktionen übertragen. Ein eigener Update-Anspruch erhält eigene Entstehung und Kenntnis; er lässt die alte Frist nicht neu beginnen. Verhandlungen hemmen nicht automatisch, sondern nur nach belegtem Beginn, Inhalt und Ende.
 
-§ 852 BGB nur bei konkret belegtem Herstellerzufluss. Die Zehnjahresfrist beginnt mit Entstehung des ursprünglichen Schadensersatzanspruchs, nicht erst mit dessen Verjährung; die absolute Dreißigjahresgrenze gesondert prüfen (`X ZR 83/20`).
+§ 852 BGB nur bei konkret belegtem Herstellerzufluss. `VIa ZR 8/21` betrifft den Direktkauf beim Hersteller: erlangt ist der Käuferkaufpreis ohne Abzug von Produktionskosten. `VIa ZR 57/21` betrifft die Händlerkette: dort kann der Händlereinkaufspreis das Erlangte sein; der Endkundenpreis ist nicht automatisch maßgeblich. Die Zehnjahresfrist beginnt mit Entstehung des ursprünglichen Schadensersatzanspruchs, nicht erst mit dessen Verjährung; die absolute Dreißigjahresgrenze gesondert prüfen (`X ZR 83/20`).
 
 Beim Finanzierungswiderruf zuerst Vollerfüllung durch letzte Rate, Saldo und Pflichten belegen. Ist der Kfz-Kredit vollständig erfüllt, sperren EuGH `C-38/21` u.a. und BGH `XI ZR 162/21` einen späteren Widerruf; Gate rot, keine Rückabwicklungsrechnung, Klage oder beA-Produktion. Nur bei offenem Gate Originalvertrag, Vertragstyp, damalige Normfassung, Musterschutz, konkrete Pflichtangabe und Relevanz nach `XI ZR 258/22` prüfen. Schlagworte wie Kaskadenverweisung oder Tageszins erzeugen keinen Fehlerautomatismus. Deliktsspur getrennt halten.
 

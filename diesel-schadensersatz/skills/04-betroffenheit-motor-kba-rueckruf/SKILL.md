@@ -64,7 +64,7 @@ Aktiver Satz mit höchstens sechs Ankern. Die vollständige Zuordnung bleibt in 
 | BGH, Urt. v. 03.09.2025 - VIa ZR 26/24 | Für die Entlastung sind tatsächlicher Rechtsirrtum der maßgeblichen Repräsentanten und Unvermeidbarkeit getrennt darzulegen und zu beweisen. | Amtlich geprüft |
 | BGH, Beschl. v. 28.07.2026 - VIa ZR 46/24 | Konkret belegten KBA-Vortrag in der EA288-§-826-Spur erfassen; der Gehörsbeschluss belegt weder Rechtmäßigkeit noch eine §-823-Abs.-2-Entlastung. | Amtlich geprüft |
 | BGH, Beschl. v. 30.06.2026 - VIa ZR 314/24 | Die besondere KBA-/MIT-Chronologie ist als eigener §-826-Risikoblock zu erfassen; der Beschluss trägt weder einen allgemeinen Betroffenheitsgegenbeweis noch eine Aussage zur §-823-Abs.-2-Spur. | Amtlich geprüft |
-| Fünfjahreskorpus 26.08.2021 bis 26.08.2026: 133 Entscheidungen und Statusakten | Für aktuelle LG-/OLG-/BGH-/EuGH- und Verwaltungsanker den Fünfjahreskorpus mit Quellenrang und Verwendungsgrenze abfragen. | Kuratierter Arbeitskorpus mit Quellenrängen |
+| Fünfjahreskorpus 26.08.2021 bis 26.08.2026: 135 Entscheidungen und Statusakten | Für aktuelle LG-/OLG-/BGH-/EuGH- und Verwaltungsanker den Fünfjahreskorpus mit Quellenrang und Verwendungsgrenze abfragen. | Kuratierter Arbeitskorpus mit Quellenrängen |
 
 <!-- END rechtsprechungs-anker (autogen) -->
 

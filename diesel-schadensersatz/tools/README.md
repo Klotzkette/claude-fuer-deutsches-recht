@@ -30,7 +30,7 @@ Das Bundle enthält `aktenstart-manifest.json` für Skill 01 und `aktenstart-sta
 
 ## Fünfjahreskorpus und kleine Modelle
 
-[`diesel-fuenfjahre-query.py`](./diesel-fuenfjahre-query.py) filtert 133 Entscheidungen und Statusakten von EuGH bis LG/Verwaltungsgericht nach Ebene, Gericht, Aktenzeichen, Thema, Status, Richtung, Quellenrang und Verifikation. `--arbeitsset` liefert höchstens sechs ausgewogene Treffer einschließlich Gegenlinie und Verwendungsgrenze. Ohne Angabe werden höchstens 25 Treffer ausgegeben; `--limit 0` gibt alle aus. `--stats` zählt stets das vollständige Filterergebnis und wird nicht vom Ausgabelimit gekürzt.
+[`diesel-fuenfjahre-query.py`](./diesel-fuenfjahre-query.py) filtert 135 Entscheidungen und Statusakten von EuGH bis LG/Verwaltungsgericht nach Ebene, Gericht, Aktenzeichen, Thema, Status, Richtung, Quellenrang und Verifikation. `--arbeitsset` liefert höchstens sechs ausgewogene Treffer einschließlich Gegenlinie und Verwendungsgrenze. Ohne Angabe werden höchstens 25 Treffer ausgegeben; `--limit 0` gibt alle aus. `--stats` zählt stets das vollständige Filterergebnis und wird nicht vom Ausgabelimit gekürzt.
 
 ## Rechtsstand vor der Arbeit prüfen
 

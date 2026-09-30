@@ -12,7 +12,7 @@ Der kuratierte Bestand kontrolliert amtliche Primärquellen, den Normstand 2026,
 |---|---|
 | [gepruefte-anker-dieselgate.md](./gepruefte-anker-dieselgate.md) | kuratierte EuGH-, BGH- und OLG/KG-Kernanker mit Arbeitsregeln |
 | [diesel-rechtsprechung-2021-2026.md](./diesel-rechtsprechung-2021-2026.md) | lesbarer Fünfjahreskorpus mit BGH, EuGH, OLG/KG, LG, Verwaltungsbezug, Gegenlinien und Quellenrängen |
-| [diesel-rechtsprechung-2021-2026.json](./diesel-rechtsprechung-2021-2026.json) | 133 strukturierte Entscheidungen/Statusakten mit Verifikationsstatus und Verwendungsgrenze |
+| [diesel-rechtsprechung-2021-2026.json](./diesel-rechtsprechung-2021-2026.json) | 135 strukturierte Entscheidungen/Statusakten mit Verifikationsstatus und Verwendungsgrenze |
 | [diesel-rechtsprechung-fuenfjahre-ergaenzungen.json](./diesel-rechtsprechung-fuenfjahre-ergaenzungen.json) | redaktionell verifizierte Ergänzungsschicht für den reproduzierbaren Korpus-Build |
 | [diesel-rechtsprechung-obergerichte.md](./diesel-rechtsprechung-obergerichte.md) | lesbare Leitlinien-, Status- und Gerichtsübersicht |
 | [diesel-rechtsprechung-obergerichte.json](./diesel-rechtsprechung-obergerichte.json) | strukturierte Obergerichtsmatrix für Filter und Validatoren |

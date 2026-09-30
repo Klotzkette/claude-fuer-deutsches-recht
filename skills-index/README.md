@@ -1,8 +1,8 @@
 # Skills-Index: Detailseiten pro Plugin
 
-Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v445.18.1`.
+Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v445.19.0`.
 
-Die Aufteilung verhindert, dass eine einzige Seite alle 22523 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
+Die Aufteilung verhindert, dass eine einzige Seite alle 22544 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
 
 English: Each plugin has one lightweight detail page containing its complete skill list, descriptions and direct Markdown downloads. Open a plugin page to choose a skill; links labelled `Download MD` save the file instead of opening a source preview.
 
@@ -72,6 +72,7 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 - [designrecht-geschmacksmusterrecht](./designrecht-geschmacksmusterrecht.md) (51 Skills)
 - [deutsche-rechtsgeschichte](./deutsche-rechtsgeschichte.md) (206 Skills)
 - [dfg-foerderantrag](./dfg-foerderantrag.md) (85 Skills)
+- [diesel-schadensersatz](./diesel-schadensersatz.md) (21 Skills)
 - [dsa-dma-digitalregulierung](./dsa-dma-digitalregulierung.md) (59 Skills)
 
 ### E

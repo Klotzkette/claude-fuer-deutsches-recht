@@ -1,12 +1,12 @@
 # EA288-Instanzrechtsprechung — anonymisierte Sammlung (Nutzermaterial)
 
-Stand der Sammlung: 14.07.2026. Motor durchgehend EA288 (VW, Audi, Seat, Skoda und Nutzfahrzeuge).
+Stand der Sammlung: 30.09.2026. Motor durchgehend EA288 (VW, Audi, Seat, Skoda und Nutzfahrzeuge).
 
 Diese Referenz übernimmt eine vom Nutzer bereitgestellte, anonymisierte Sammlung öffentlich zugänglicher Rechtsprechung (Quelle: veröffentlichte Entscheidungsliste einer Klägerkanzlei; Volltexte als anonymisierte PDF verlinkt). Status: **Nutzermaterial** — vor Übernahme eines Zitats in ein Endprodukt sind Gericht, Datum, Aktenzeichen und Tenor am verlinkten Volltext oder in einer amtlichen Quelle zu verifizieren. Keine Zeile dieser Tabelle darf ohne diese Kontrolle in einen Schriftsatz.
 
 Die 131 Instanzdatensätze stammen ausschließlich aus der öffentlich zugänglichen, anonymisierten Entscheidungsliste; interne Bibliotheksdokumente wurden nicht übernommen. Partei-, Adress-, Vorlage-, Alias- und Freitextfelder bleiben bei Instanzentscheidungen technisch leer. `scripts/validate_ea288_corpus.py` erzwingt diese Grenze zusammen mit Feldschema, Zählwerten, URLs und Plugin-Spiegel.
 
-Die maschinenlesbare Fassung liegt daneben: [`ea288-rechtsprechung-instanzen.json`](./ea288-rechtsprechung-instanzen.json) (145 Einträge: 7 EuGH- und 5 BGH-Leitentscheidungen, 131 Instanzentscheidungen, 2 Schlussanträge des Generalanwalts; Felder u. a. typ, gericht, az, alias_az, datum, modell, norm, abschalteinrichtung, differenzschaden_eur, kernaussage, volltext_url, quelle).
+Die maschinenlesbare Fassung liegt daneben: [`ea288-rechtsprechung-instanzen.json`](./ea288-rechtsprechung-instanzen.json) (146 Einträge: 7 EuGH- und 6 BGH-Leitentscheidungen, 131 Instanzentscheidungen, 2 Schlussanträge des Generalanwalts; Felder u. a. typ, gericht, az, alias_az, datum, modell, norm, abschalteinrichtung, differenzschaden_eur, kernaussage, volltext_url, quelle).
 
 ## Wofür die Sammlung trägt
 
@@ -17,7 +17,7 @@ Die maschinenlesbare Fassung liegt daneben: [`ea288-rechtsprechung-instanzen.jso
 
 ## Leitentscheidungen und Schlussanträge
 
-Diese 14 Anker gehören zur Sammlung, auch wenn sie keine Instanzentscheidungen sind. Sie liefern den rechtlichen Rahmen für Darlegungslast, Abschalteinrichtungsbegriff, Fahrlässigkeitshaftung, Quotenbildung und Nutzungsanrechnung. Status bleibt Nutzermaterial: Aktenzeichen, Datum, Tenor und Randnummern vor jeder Übernahme live prüfen.
+Diese 15 Anker gehören zur Sammlung, auch wenn sie keine Instanzentscheidungen sind. Sie liefern den rechtlichen Rahmen für Darlegungslast, Abschalteinrichtungsbegriff, Fahrlässigkeitshaftung, Quotenbildung und Nutzungsanrechnung. Status bleibt Nutzermaterial: Aktenzeichen, Datum, Tenor und Randnummern vor jeder Übernahme live prüfen.
 
 | Gericht | Datum | Az. | Aussage für EA288 |
 | --- | --- | --- | --- |
@@ -30,8 +30,9 @@ Diese 14 Anker gehören zur Sammlung, auch wenn sie keine Instanzentscheidungen 
 | EuGH | 01.08.2025 | `C-666/23` | EG-Typgenehmigung oder hypothetische Behördenbestätigung genügt allein nicht zur Entlastung vom Fahrlässigkeitsvorwurf. Nutzungsvorteile und 15-Prozent-Begrenzung bleiben bei angemessener Entschädigung zulässig. `C-667/23` und `C-668/23` wurden zuvor gestrichen. |
 | BGH | 25.05.2020 | `VI ZR 252/19` | EA189-Grundsatz: § 826 BGB, große Rückabwicklung Zug um Zug gegen Nutzungsentschädigung. |
 | BGH | 16.09.2021 | `VII ZR 286/20` | Thermofenster allein begründet keinen § 826-Vorsatz; der Hersteller kann sekundär darlegungspflichtig sein. |
-| BGH | 26.06.2023 | `VIa ZR 335/21` | Zentrales Differenzschaden-Urteil: § 823 Abs. 2 BGB i.V.m. §§ 6, 27 EG-FGV; 5 bis 15 Prozent; Vorteilsausgleichung erst bei Übersteigen des tatsächlichen Fahrzeugwerts. |
+| BGH | 26.06.2023 | `VIa ZR 335/21` | Zentrales Differenzschaden-Urteil: § 823 Abs. 2 BGB i.V.m. §§ 6, 27 EG-FGV; 5 bis 15 Prozent. Nutzungsvorteile plus Restwert werden nur insoweit angerechnet, als ihre Summe Kaufpreis minus Differenzschaden übersteigt. |
 | BGH | 25.02.2026 | `VIa ZR 1580/22` | Höchstrichterlicher EA288-Euro-6-Anwendungsfall: Zurückverweisung zur Prüfung eines möglichen Differenzschadens; keine Feststellung einer konkreten unzulässigen Abschalteinrichtung oder einer Haftung dem Grunde nach. |
+| BGH | 26.08.2026 | `VIa ZR 1157/23` | EA288-Euro-6-Anwendungsfall: Konkreter Vortrag zur temperaturabhängig reduzierten Abgasrückführung ist nicht schon mangels interner Detailkenntnis ins Blaue hinein gehalten; die Zurückverweisung belegt weder Einrichtung noch Haftung oder Schadenshöhe. |
 | BGH | 02.09.2025 | `VIa ZR 87/24` | Beschluss nach `C-666/23`: Nutzungsvorteile und Restwert können einen Differenzschaden vollständig aufzehren, sofern die Entschädigungsbemessung angemessen ist; bestätigt durch `VIa ZR 613/24`. |
 
 | Schlussantrag | Datum | Az. | Aussage für EA288 |

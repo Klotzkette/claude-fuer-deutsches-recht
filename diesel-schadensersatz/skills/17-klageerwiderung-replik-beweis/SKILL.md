@@ -64,7 +64,7 @@ Aktiver Satz mit höchstens sechs Ankern. Die vollständige Zuordnung bleibt in 
 | BGH, Urt. v. 26.06.2023 - VIa ZR 335/21 (BGHZ 237, 245); VIa ZR 533/21; VIa ZR 1031/22 | Für den deutschen Differenzschaden genügen Fahrlässigkeit und die weiteren Voraussetzungen der BGH-Trilogie; Verschulden, Erwerbskausalität, Quote und Vorteilsausgleich getrennt erwidern. | Bestätigt |
 | BGH, Urt. v. 17.12.2020 - VI ZR 739/20 | Die Verjährungseinrede ist anhand konkreter Kenntnis der Fahrzeugbetroffenheit, Anspruchsgrundlage und Zumutbarkeit der Klage zu prüfen; EA189-Wertungen nicht pauschal übertragen. | Amtlich geprüft |
 | BGH, Beschl. v. 11.08.2026 - VIa ZB 3/24 | Bei gesonderter Berufung gegen ein Ergänzungsurteil die konkrete Entscheidung und ihre tragenden Erwägungen eigenständig angreifen; Verbindung und Gegenerklärung ersetzen keine §-520-Abs.-3-Begründung. | Amtlich geprüft |
-| Fünfjahreskorpus 26.08.2021 bis 26.08.2026: 133 Entscheidungen und Statusakten | Aktuelle OLG-/LG-Gegenlinien und verwaltungsgerichtliche Kontextanker nur mit Fahrzeug-, Funktions- und Verfahrensvergleich einführen. | Kuratierter Arbeitskorpus mit Quellenrängen |
+| Fünfjahreskorpus 26.08.2021 bis 26.08.2026: 135 Entscheidungen und Statusakten | Aktuelle OLG-/LG-Gegenlinien und verwaltungsgerichtliche Kontextanker nur mit Fahrzeug-, Funktions- und Verfahrensvergleich einführen. | Kuratierter Arbeitskorpus mit Quellenrängen |
 
 <!-- END rechtsprechungs-anker (autogen) -->
 

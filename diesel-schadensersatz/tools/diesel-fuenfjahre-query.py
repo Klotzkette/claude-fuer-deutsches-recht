@@ -80,6 +80,7 @@ ALLOWED_DIRECTIONS = {"verbraucherfreundlich", "herstellerfreundlich", "gemischt
 ALLOWED_STATUS = {
     "amtliche_kontextentscheidung",
     "anhaengig",
+    "geschlossen",
     "gegenstandslos",
     "gestrichen",
     "historisch",
@@ -95,6 +96,7 @@ ALLOWED_DECISION_TYPES = {
     "Erledigungsbeschluss",
     "Schlussanträge",
     "Streichungsbeschluss",
+    "Statusakt",
     "Urteil",
     "Vorabentscheidungsersuchen",
 }
@@ -109,8 +111,10 @@ PENDING_EU_DOCKETS = {
     "C-232/26",
     "C-270/26",
     "C-293/26",
-    "C-408/25",
     "C-443/26",
+}
+CLOSED_EU_CONTRACTS = {
+    "C-408/25": "2026-07-21",
 }
 NEW_STRUCK_EU_CONTRACTS = {
     "C-8/26": ("2026-04-24", "ECLI:EU:C:2026:394"),
@@ -317,6 +321,21 @@ def load_corpus(path: Path) -> dict[str, Any]:
                     f"Ungültiger Korpus in {path}: {label}: {item['az']} verletzt den "
                     f"amtlichen Streichungsstatusvertrag vom {LIVE_STATUS_DATE}"
                 )
+        closed_date = CLOSED_EU_CONTRACTS.get(item["az"])
+        if closed_date is not None:
+            source = urlparse(item["quelle_url"])
+            if (
+                item["status"] != "geschlossen"
+                or item["entscheidungsart"] != "Statusakt"
+                or item["datum"] != closed_date
+                or item["ecli"] is not None
+                or item["geprueft_am"] < LIVE_STATUS_DATE
+                or source.hostname not in {"infocuria.curia.europa.eu", "juris.curia.europa.eu"}
+            ):
+                raise SystemExit(
+                    f"Ungültiger Korpus in {path}: {label}: {item['az']} verletzt den "
+                    f"amtlichen Schließungsstatusvertrag vom {LIVE_STATUS_DATE}"
+                )
         if item["herkunft"] not in ALLOWED_ORIGINS:
             raise SystemExit(f"Ungültiger Korpus in {path}: {label}: unbekannte Herkunft")
         if not is_https_url(item["quelle_url"]):
@@ -332,7 +351,7 @@ def load_corpus(path: Path) -> dict[str, Any]:
             host = (urlparse(item["quelle_url"]).hostname or "").lower()
             if not any(host == suffix or host.endswith("." + suffix) for suffix in OFFICIAL_HOST_SUFFIXES):
                 raise SystemExit(f"Ungültiger Korpus in {path}: {label}: Rang A ohne amtlichen Host")
-        if item["status"] in {"anhaengig", "gestrichen", "gegenstandslos", "offensichtlich_unzulaessig"} and item["zitierrolle"] == "tragender_anker":
+        if item["status"] in {"anhaengig", "geschlossen", "gestrichen", "gegenstandslos", "offensichtlich_unzulaessig"} and item["zitierrolle"] == "tragender_anker":
             raise SystemExit(f"Ungültiger Korpus in {path}: {label}: Statusakte darf kein tragender Anker sein")
     return data
 
@@ -417,7 +436,7 @@ def balanced_workset(rows: list[dict[str, Any]]) -> list[dict[str, Any]]:
         lambda item: item["quellenrang"] == "A"
         and (
             item["ebene"] == "VG/OVG/BVerwG"
-            or item["status"] in {"anhaengig", "gestrichen", "gegenstandslos", "offensichtlich_unzulaessig"}
+            or item["status"] in {"anhaengig", "geschlossen", "gestrichen", "gegenstandslos", "offensichtlich_unzulaessig"}
         ),
         1,
     )
@@ -521,12 +540,12 @@ def format_stats(rows: list[dict[str, Any]], stand: str) -> str:
 
 def selftest(data: dict[str, Any]) -> None:
     rows = data["entscheidungen"]
-    assert len(rows) == 133
+    assert len(rows) == 135
     assert Counter(item["ebene"] for item in rows) == Counter(
-        {"EuGH": 33, "GA": 2, "BGH": 51, "OLG/KG": 35, "LG": 8, "VG/OVG/BVerwG": 4}
+        {"EuGH": 33, "GA": 2, "BGH": 53, "OLG/KG": 35, "LG": 8, "VG/OVG/BVerwG": 4}
     )
     assert Counter(item["quellenrang"] for item in rows) == Counter(
-        {"A": 110, "B": 4, "C": 3, "D": 16}
+        {"A": 112, "B": 4, "C": 3, "D": 16}
     )
     sample_args = make_parser().parse_args(["--thema", "EA288", "--arbeitsset"])
     sample = balanced_workset(select(rows, sample_args))
@@ -534,7 +553,7 @@ def selftest(data: dict[str, Any]) -> None:
     assert sum(item["ebene"] in {"OLG/KG", "LG"} for item in sample) <= 2
     assert sum(
         item["ebene"] == "VG/OVG/BVerwG"
-        or item["status"] in {"anhaengig", "gestrichen", "gegenstandslos", "offensichtlich_unzulaessig"}
+        or item["status"] in {"anhaengig", "geschlossen", "gestrichen", "gegenstandslos", "offensichtlich_unzulaessig"}
         for item in sample
     ) <= 1
     assert all(item["status"] != "anhaengig" or "keine" in item["verwendungsgrenze"].casefold() for item in sample)
@@ -557,7 +576,14 @@ def selftest(data: dict[str, Any]) -> None:
         assert item["datum"] == decision_date
         assert item["ecli"] == ecli
         assert item["geprueft_am"] >= LIVE_STATUS_DATE
-    print("diesel-fuenfjahre-query selftest OK (133 Datensätze, Arbeitsset maximal 6)")
+    for docket, closed_date in CLOSED_EU_CONTRACTS.items():
+        item = next(item for item in rows if item["az"] == docket)
+        assert item["status"] == "geschlossen"
+        assert item["entscheidungsart"] == "Statusakt"
+        assert item["datum"] == closed_date
+        assert item["ecli"] is None
+        assert item["geprueft_am"] >= LIVE_STATUS_DATE
+    print("diesel-fuenfjahre-query selftest OK (135 Datensätze, Arbeitsset maximal 6)")
 
 
 def main() -> int:

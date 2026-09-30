@@ -1,6 +1,6 @@
 # EA288-Argumentationslinien — Darlegungslast, Parallelvortrag, Nutzungsanrechnung (Nutzermaterial)
 
-Stand: 09.08.2026.
+Stand: 30.09.2026.
 
 Diese Referenz destilliert die juristische Argumentation aus einer vom Nutzer bereitgestellten, anonymisierten Anhörungsrüge (§ 321a ZPO) zum OLG Stuttgart, Az. 16a U 44/23 (Komplex EA288, umgebungstemperaturabhängige AGR-Korrektur) sowie aus der zugehörigen Rechtsprechungssammlung. Status: **Nutzermaterial** — jedes Zitat ist vor Übernahme in ein Endprodukt live zu verifizieren (`references/zitierweise.md`). Die Fundstellen unten sind Sucheinstiege, keine geprüften Vollzitate. Vorwürfe gegen Verfahrensbeteiligte (etwa zum Prozessverhalten) sind streitiger Parteivortrag und dürfen nur als solcher gekennzeichnet übernommen werden.
 
@@ -46,7 +46,7 @@ Diese Referenz destilliert die juristische Argumentation aus einer vom Nutzer be
 
 4.4 Einrichtungstypen aus der Instanzsammlung (je mit Fundstellen in `ea288-rechtsprechung-instanzen.md`): Thermofenster, Fahrkurvenerkennung, umgebungsdruckabhängige AGR-Steuerung, Höhenabschaltung ab etwa 1000 Metern, AdBlue-Dosierung, Heizfunktion im NEFZ, Multiparameteroptimierung, Zykluserkennung. Mehrere Einrichtungen können kumulativ vorliegen.
 
-4.5 Aktuelle höchstrichterliche Einordnung: BGH `VIa ZR 1580/22` betrifft ausdrücklich einen EA288-Euro-6-Fall und verweist zur Prüfung des Differenzschadens zurück. Das ist ein Anwendungsanker für die Anspruchsspur, aber keine Feststellung, dass im konkreten Fahrzeug eine unzulässige Einrichtung vorliegt oder Haftung besteht.
+4.5 Aktuelle höchstrichterliche Einordnung: BGH `VIa ZR 1580/22` betrifft ausdrücklich einen EA288-Euro-6-Fall und verweist zur Prüfung des Differenzschadens zurück. BGH `VIa ZR 1157/23` bestätigt für einen EA288-Euro-6-Passat, dass konkreter Vortrag zu einer temperaturabhängig reduzierten Abgasrückführung nicht schon mangels interner Detailkenntnis ins Blaue hinein gehalten ist und dass bei objektivem Verstoß gegen §§ 6, 27 EG-FGV das Verschulden vermutet wird. Beide Urteile sind Anwendungsanker für die Anspruchsspur, aber keine Feststellung, dass im konkreten Fahrzeug eine unzulässige Einrichtung vorliegt oder Haftung besteht.
 
 4.6 EuGH-Verfahrensmonitor: Am 30.09.2026 waren `C-95/26`, `C-152/26`, `C-162/26`, `C-173/26`, `C-189/26`, `C-232/26`, `C-270/26`, `C-293/26` und `C-443/26` weiter anhängig. Sie behandeln Varianten der offenen Gesamt- oder Komponentenbetrachtung, Realbetrieb sowie Darlegungs- und Beweislast; `C-270/26`, `C-293/26` und `C-443/26` sind EA288-Statusakten. Die Vorlagefragen sind keine EuGH-Antwort, Beweislastumkehr oder Realbetriebsgrenzwertpflicht. `C-113/26`, `C-114/26`, `C-228/26` und `C-440/26` wurden dagegen im August 2026 nach Rücknahme gestrichen; weder die frühere Höhenkorrekturfrage aus `C-113/26` noch die frühere Prozesskostenfrage aus `C-228/26` wurde materiell beantwortet. Auch `C-175/25`, `C-252/25` und `C-732/25` bleiben erledigte Statusakten ohne Sachentscheidung.
 
@@ -60,7 +60,7 @@ Diese Referenz destilliert die juristische Argumentation aus einer vom Nutzer be
 
 ## 6. Nutzungsanrechnung und Anspruchsaufzehrung (aktuelle Linie)
 
-6.1 Vorteilsausgleichung beim Differenzschaden erst, wenn Nutzungsvorteil plus Restwert den tatsächlichen Fahrzeugwert übersteigen (VIa ZR 335/21, Rn. 80).
+6.1 Exakte Aufzehrungsformel nach `VIa ZR 335/21`, Rn. 80: Nutzungsvorteile plus Restwert werden nur insoweit angerechnet, als ihre Summe den Fahrzeugwert bei Vertragsschluss, also den gezahlten Kaufpreis abzüglich Differenzschaden, übersteigt. Rechenweg: `Anrechnung = max(0, Nutzungsvorteile + Restwert - (Kaufpreis - Differenzschaden))`; `Nettoanspruch = max(0, Differenzschaden - Anrechnung)`. Vollständig aufgezehrt ist der Differenzschaden, wenn Nutzungsvorteile plus Restwert mindestens den Kaufpreis erreichen.
 
 6.2 EuGH-Linie: Nur die Rechtssache `C-666/23` wurde am 01.08.2025 in der Sache entschieden. Der Gerichtshof lässt die Anrechnung eines Nutzungsvorteils und eine Begrenzung der Entschädigung auf 15 Prozent des Kaufpreises zu, sofern die Wiedergutmachung für den konkreten Schaden angemessen bleibt (Rn. 97 bis 107). `C-667/23` und `C-668/23` waren bereits am 31.01.2025 gestrichen und dürfen nicht als verbundene Sachentscheidung zitiert werden.
 

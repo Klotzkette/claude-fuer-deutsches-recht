@@ -1,6 +1,6 @@
 {
   "schema": "dieselgate.fuenfjahre.v1",
-  "stand": "2026-08-26",
+  "stand": "2026-09-30",
   "zeitraum": {
     "von": "2021-08-26",
     "bis": "2026-08-26"
@@ -8,9 +8,9 @@
   "titel": "Diesel-Rechtsprechung im exakten Fünfjahresfenster mit Instanz- und Quellenkontrolle",
   "hinweis": "Kuratierter Arbeitskorpus frei zugänglicher Quellen. Er ist auf Praxisrelevanz, Gegenlinien und Verfahrensstatus angelegt, nicht auf Vollständigkeit unveröffentlichter oder kostenpflichtiger Entscheidungen. Jede Fundstelle ist zusammen mit Quellenrang, Verifikationsstatus, Zitierrolle und Verwendungsgrenze zu lesen.",
   "umfang": {
-    "entscheidungen_und_statusakten": 133,
+    "entscheidungen_und_statusakten": 135,
     "ebenen": {
-      "BGH": 51,
+      "BGH": 53,
       "EuGH": 33,
       "GA": 2,
       "LG": 8,
@@ -18,7 +18,7 @@
       "VG/OVG/BVerwG": 4
     },
     "quellenraenge": {
-      "A": 110,
+      "A": 112,
       "B": 4,
       "C": 3,
       "D": 16
@@ -28,7 +28,7 @@
       "freie_volltextkopie": 4,
       "metadaten_suchanker": 3,
       "parteiquelle_suchanker": 16,
-      "primaerquelle_volltext": 107
+      "primaerquelle_volltext": 109
     }
   },
   "quellenregeln": [
@@ -40,6 +40,56 @@
     "Vor Einreichung Volltext, Aktenzeichen, Entscheidungsdatum, Randnummer, Status und Folgeentwicklung live prüfen."
   ],
   "entscheidungen": [
+    {
+      "id": "bgh-via-zr17-23",
+      "ebene": "BGH",
+      "gericht": "Bundesgerichtshof",
+      "entscheidungsart": "Urteil",
+      "datum": "2026-08-26",
+      "az": "VIa ZR 17/23",
+      "ecli": "ECLI:DE:BGH:2026:260826UVIAZR17.23.0",
+      "fallgruppen": ["Audi SQ5", "Euro 5", "Differenzschaden"],
+      "themen": ["§ 823 Abs. 2 BGB", "EG-FGV", "Zurückverweisung"],
+      "richtung": "verbraucherfreundlich",
+      "status": "hoechstrichterlich",
+      "kernaussage": "Beim behaupteten Neuwagenkauf eines Audi SQ5 3.0 TDI Euro 5 durfte der Differenzschaden nicht allein wegen eines verneinten Schutzgesetzcharakters der §§ 6, 27 EG-FGV abgelehnt werden. Der BGH verwies zur Prüfung der Anspruchsvoraussetzungen zurück.",
+      "arbeitsregel": "Als Anwendungsanker der Differenzschadenlinie verwenden, nicht als Feststellung einer unzulässigen Abschalteinrichtung, einer Haftung dem Grunde nach oder einer bestimmten Schadenshöhe.",
+      "betrag_eur": null,
+      "quelle_art": "amtlich_bgh",
+      "quelle_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIa_ZS/2023/VIa_ZR__17-23.pdf?__blob=publicationFile&v=1",
+      "geprueft_am": "2026-09-30",
+      "folgestatus": "Zur Prüfung eines möglichen Differenzschadens an das OLG München zurückverwiesen.",
+      "herkunft": "obergerichtsmatrix",
+      "quellenrang": "A",
+      "verifikationsstatus": "primaerquelle_volltext",
+      "zitierrolle": "tragender_anker",
+      "verwendungsgrenze": "Volltext, Randnummer, Fassung und Folgeentwicklung unmittelbar vor Einreichung erneut prüfen."
+    },
+    {
+      "id": "bgh-via-zr1157-23",
+      "ebene": "BGH",
+      "gericht": "Bundesgerichtshof",
+      "entscheidungsart": "Urteil",
+      "datum": "2026-08-26",
+      "az": "VIa ZR 1157/23",
+      "ecli": "ECLI:DE:BGH:2026:260826UVIAZR1157.23.0",
+      "fallgruppen": ["EA288", "Volkswagen Passat", "Euro 6", "Differenzschaden"],
+      "themen": ["Thermofenster", "Darlegungslast", "Verschuldensvermutung", "Zurückverweisung"],
+      "richtung": "verbraucherfreundlich",
+      "status": "hoechstrichterlich",
+      "kernaussage": "Im EA288-Euro-6-Fall ist konkreter Vortrag zu einer temperaturabhängig reduzierten Abgasrückführung nicht schon wegen fehlender interner Detailkenntnis Vortrag ins Blaue hinein. Bei objektivem Verstoß gegen §§ 6, 27 EG-FGV wird das Verschulden vermutet; tatsächlicher Verbotsirrtum und Unvermeidbarkeit sind vom Hersteller darzulegen und zu beweisen.",
+      "arbeitsregel": "Als aktuellen EA288-Anwendungs- und Darlegungslastanker verwenden. Die Zurückverweisung belegt weder das Vorliegen einer unzulässigen Abschalteinrichtung noch Haftung, Quote oder Schadenshöhe im Einzelfall.",
+      "betrag_eur": null,
+      "quelle_art": "amtlich_bgh",
+      "quelle_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIa_ZS/2023/VIa_ZR_1157-23.pdf?__blob=publicationFile&v=1",
+      "geprueft_am": "2026-09-30",
+      "folgestatus": "Zur Prüfung des hilfsweise verlangten Differenzschadens an das OLG Köln zurückverwiesen.",
+      "herkunft": "obergerichtsmatrix",
+      "quellenrang": "A",
+      "verifikationsstatus": "primaerquelle_volltext",
+      "zitierrolle": "tragender_anker",
+      "verwendungsgrenze": "Volltext, Randnummer, Fassung und Folgeentwicklung unmittelbar vor Einreichung erneut prüfen."
+    },
     {
       "id": "eugh-c440-26-status",
       "ebene": "EuGH",
@@ -1598,7 +1648,7 @@
       "entscheidungsart": "Beschluss",
       "datum": "2025-12-16",
       "az": "VIa ZR 613/24",
-      "ecli": null,
+      "ecli": "ECLI:DE:BGH:2025:161225BVIAZR613.24.0",
       "fallgruppen": [
         "Differenzschaden",
         "Wohnmobil"
@@ -1852,7 +1902,7 @@
       "entscheidungsart": "Beschluss",
       "datum": "2025-09-02",
       "az": "VIa ZR 87/24",
-      "ecli": null,
+      "ecli": "ECLI:DE:BGH:2025:020925BVIAZR87.24.0",
       "fallgruppen": [
         "Differenzschaden"
       ],
@@ -1977,8 +2027,8 @@
       "id": "eugh-c408-25-status",
       "ebene": "EuGH",
       "gericht": "Gerichtshof der Europäischen Union",
-      "entscheidungsart": "Vorabentscheidungsersuchen",
-      "datum": "2025-06-19",
+      "entscheidungsart": "Statusakt",
+      "datum": "2026-07-21",
       "az": "C-408/25",
       "ecli": null,
       "fallgruppen": [
@@ -1991,19 +2041,19 @@
         "Motorhersteller"
       ],
       "richtung": "neutral_prozessual",
-      "status": "anhaengig",
-      "kernaussage": "Das Ersuchen betrifft die Reichweite des unionsrechtlichen Individualschutzes gegenüber dem Hersteller des Motors, wenn Fahrzeug- und Motorhersteller nicht identisch sind. Eine Sachentscheidung zur Motorherstellerhaftung liegt nicht vor.",
-      "arbeitsregel": "Gegnerrolle und konkrete Herstellerpflichten offen prüfen; C-408/25 weder als Haftungsbejahung noch als Haftungsausschluss zitieren.",
+      "status": "geschlossen",
+      "kernaussage": "CURIA führt C-408/25 sowie die verbundenen Rechtssachen C-438/25 und C-525/25 seit dem 21.07.2026 als geschlossen. Eine veröffentlichte Abschlussentscheidung und damit eine materielle Antwort zur Motorherstellerhaftung waren am 30.09.2026 nicht feststellbar.",
+      "arbeitsregel": "C-408/25 weder als anhängigen Aussetzungsanker noch als Haftungsbejahung oder Haftungsausschluss verwenden; die genaue Erledigungsart bleibt bis zu einem amtlich veröffentlichten Abschlussdokument offen.",
       "betrag_eur": null,
       "quelle_art": "amtlich_eu",
-      "quelle_url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A62025CN0408",
+      "quelle_url": "https://juris.curia.europa.eu/juris/liste.jsf?num=C-408%2F25&language=de",
       "geprueft_am": "2026-09-30",
-      "folgestatus": "Am 30.09.2026 in der amtlichen CURIA-Aktenansicht ohne Abschlussentscheidung geführt.",
+      "folgestatus": "Am 21.07.2026 gemeinsam mit C-438/25 und C-525/25 geschlossen; am 30.09.2026 keine veröffentlichte Abschlussentscheidung und keine amtlich belegte Erledigungsart feststellbar.",
       "herkunft": "fuenfjahre_ergaenzung",
       "quellenrang": "A",
       "verifikationsstatus": "primaerquelle_volltext",
       "zitierrolle": "status_oder_rechercheanker",
-      "verwendungsgrenze": "Nur offene Vorlagefragen und Verfahrensstand; keine Antwort oder materielle Leitlinie behaupten."
+      "verwendungsgrenze": "Nur den amtlich dokumentierten Schließungsstatus verwenden; weder eine Sachentscheidung noch Rücknahme, Gegenstandslosigkeit oder eine andere konkrete Erledigungsart behaupten."
     },
     {
       "id": "olg-karlsruhe-6u115-21",
@@ -3245,7 +3295,7 @@
       "entscheidungsart": "Urteil",
       "datum": "2023-11-27",
       "az": "VIa ZR 159/22",
-      "ecli": null,
+      "ecli": "ECLI:DE:BGH:2023:271123UVIAZR159.22.0",
       "fallgruppen": [
         "Differenzschaden"
       ],
@@ -3256,7 +3306,7 @@
       "richtung": "herstellerfreundlich",
       "status": "hoechstrichterlich",
       "kernaussage": "Der objektive Restwert ist auch bei fortbestehendem Eigentum in den Vorteilsausgleich einzubeziehen; ein tatsächlicher Verkauf ist nicht erforderlich.",
-      "arbeitsregel": "Aktuellen Restwert belastbar schätzen oder belegen und zusammen mit Nutzungsvorteilen gegen den tatsächlichen Fahrzeugwert rechnen.",
+      "arbeitsregel": "Aktuellen Restwert belastbar schätzen oder belegen. Nutzungsvorteile plus Restwert nur insoweit anrechnen, als ihre Summe Kaufpreis minus Differenzschaden übersteigt.",
       "betrag_eur": null,
       "quelle_art": "amtlich_bgh",
       "quelle_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIa_ZS/2022/VIa_ZR_159-22.pdf?__blob=publicationFile&v=1",
@@ -3580,7 +3630,7 @@
       "entscheidungsart": "Urteil",
       "datum": "2023-06-26",
       "az": "VIa ZR 533/21",
-      "ecli": null,
+      "ecli": "ECLI:DE:BGH:2023:260623UVIAZR533.21.0",
       "fallgruppen": [
         "Differenzschaden"
       ],
@@ -3610,7 +3660,7 @@
       "entscheidungsart": "Urteil",
       "datum": "2023-06-26",
       "az": "VIa ZR 335/21",
-      "ecli": null,
+      "ecli": "ECLI:DE:BGH:2023:260623UVIAZR335.21.0",
       "fallgruppen": [
         "Differenzschaden",
         "Thermofenster"
@@ -3623,8 +3673,8 @@
       ],
       "richtung": "verbraucherfreundlich",
       "status": "hoechstrichterlich",
-      "kernaussage": "Leitentscheidung zum fahrlässigen Differenzschaden: §§ 6, 27 EG-FGV sind Schutzgesetze; Schaden wird zwischen 5 und 15 Prozent des Kaufpreises geschätzt, Verschulden vermutet und Vorteile begrenzt angerechnet.",
-      "arbeitsregel": "Unzulässigkeit, Verschulden, Erwerbskausalität, Quote und Vorteilsausgleich jeweils eigenständig begründen.",
+      "kernaussage": "Leitentscheidung zum fahrlässigen Differenzschaden: §§ 6, 27 EG-FGV sind Schutzgesetze; der Schaden wird zwischen 5 und 15 Prozent des Kaufpreises geschätzt. Nutzungsvorteile und Restwert werden nur insoweit angerechnet, als ihre Summe den bei Vertragsschluss bestehenden Fahrzeugwert, also Kaufpreis minus Differenzschaden, übersteigt.",
+      "arbeitsregel": "Unzulässigkeit, Verschulden, Erwerbskausalität und Quote eigenständig begründen. Vorteilsausgleich exakt rechnen: Anrechnung = max(0, Nutzungsvorteile + Restwert - (Kaufpreis - Differenzschaden)); Nettoanspruch = max(0, Differenzschaden - Anrechnung).",
       "betrag_eur": null,
       "quelle_art": "amtlich_bgh",
       "quelle_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIa_ZS/2021/VIa_ZR_335-21.pdf?__blob=publicationFile&v=1",
@@ -3643,7 +3693,7 @@
       "entscheidungsart": "Urteil",
       "datum": "2023-06-26",
       "az": "VIa ZR 1031/22",
-      "ecli": null,
+      "ecli": "ECLI:DE:BGH:2023:260623UVIAZR1031.22.0",
       "fallgruppen": [
         "Differenzschaden"
       ],
@@ -3990,7 +4040,7 @@
       "entscheidungsart": "Urteil",
       "datum": "2022-07-14",
       "az": "VII ZR 422/21",
-      "ecli": null,
+      "ecli": "ECLI:DE:BGH:2022:140722UVIIZR422.21.0",
       "fallgruppen": [
         "Motorhersteller",
         "Neuwagen"
@@ -4083,19 +4133,21 @@
       "entscheidungsart": "Urteil",
       "datum": "2022-02-21",
       "az": "VIa ZR 8/21",
-      "ecli": null,
+      "ecli": "ECLI:DE:BGH:2022:210222UVIAZR8.21.0",
       "fallgruppen": [
         "EA189",
-        "Neuwagen"
+        "Neuwagen",
+        "Direktkauf beim Hersteller"
       ],
       "themen": [
         "§ 852 BGB",
-        "Händlerverkauf"
+        "Direktkauf",
+        "Herausgabeumfang"
       ],
       "richtung": "verbraucherfreundlich",
       "status": "hoechstrichterlich",
-      "kernaussage": "Beim Neuwagen-Ersterwerb über einen Händler kann der Hersteller den auf seine Kosten erlangten Händlereinkaufspreis nach § 852 BGB herausgeben müssen.",
-      "arbeitsregel": "Restschadensersatz auf das tatsächlich Erlangte begrenzen und Händlermarge sowie Nutzungsvorteile berücksichtigen.",
+      "kernaussage": "Beim unmittelbaren Neuwagenkauf von der beklagten Herstellerin hat diese den vom Käufer gezahlten Kaufpreis erlangt; Produktionskosten sind bei § 852 BGB nicht abzuziehen.",
+      "arbeitsregel": "VIa ZR 8/21 nur für den Direktkauf beim Hersteller verwenden. Das Erlangte ist der gezahlte Kaufpreis ohne Abzug von Produktionskosten; Vorteilsausgleich und Anspruchshöhe bleiben gesondert zu prüfen.",
       "betrag_eur": null,
       "quelle_art": "amtlich_bgh",
       "quelle_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIa_ZS/2021/VIa_ZR___8-21.pdf?__blob=publicationFile&v=1",
@@ -4114,19 +4166,21 @@
       "entscheidungsart": "Urteil",
       "datum": "2022-02-21",
       "az": "VIa ZR 57/21",
-      "ecli": null,
+      "ecli": "ECLI:DE:BGH:2022:210222UVIAZR57.21.0",
       "fallgruppen": [
         "EA189",
-        "Neuwagen"
+        "Neuwagen",
+        "Händlerkauf"
       ],
       "themen": [
         "§ 852 BGB",
+        "Händlerverkauf",
         "Herausgabeumfang"
       ],
       "richtung": "verbraucherfreundlich",
       "status": "hoechstrichterlich",
-      "kernaussage": "Parallelentscheidung zu VIa ZR 8/21 zum Restschadensersatz beim Neuwagen-Ersterwerb.",
-      "arbeitsregel": "Nur bei nachweisbarem Herstellerzufluss verwenden; keine pauschale Zehnjahres-Anspruchsgarantie formulieren.",
+      "kernaussage": "Beim Neuwagenkauf über einen Händler kann die Herstellerin den Händlereinkaufspreis auf Kosten des Käufers erlangt haben; der Endkundenkaufpreis ist nicht automatisch das Erlangte.",
+      "arbeitsregel": "VIa ZR 57/21 nur für die Händlerkette verwenden und den konkreten Herstellerzufluss beweisen. Herausgabe ist auf den Händlereinkaufspreis als tatsächlich Erlangtes begrenzt; keine pauschale Zehnjahres-Anspruchsgarantie formulieren.",
       "betrag_eur": null,
       "quelle_art": "amtlich_bgh",
       "quelle_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIa_ZS/2021/VIa_ZR__57-21.pdf?__blob=publicationFile&v=1",
@@ -4145,7 +4199,7 @@
       "entscheidungsart": "Urteil",
       "datum": "2022-02-10",
       "az": "VII ZR 365/21",
-      "ecli": null,
+      "ecli": "ECLI:DE:BGH:2022:100222UVIIZR365.21.0",
       "fallgruppen": [
         "EA189",
         "Gebrauchtwagen"
