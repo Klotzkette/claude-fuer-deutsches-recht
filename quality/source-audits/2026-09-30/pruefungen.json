@@ -96,6 +96,13 @@
       "output_tail": "audit-quickstart-usability OK (254 Schnellstarts; Strukturprüfung, kein Modelltest)\n"
     },
     {
+      "command": "python3 scripts/audit-rechtsprechungsbestand.py --output /tmp/rechtsprechung-20260930/reproduziert.json",
+      "postcondition": "Anschließend per Python-Assertion bytegleich mit quality/source-audits/2026-09-30/bestand.json verglichen.",
+      "exit_code": 0,
+      "result_sha256": "b01d98b0237baed5e420559b161f3c7dfdab0a85ff5ba85f96bed88f0db41b08",
+      "output_tail": "255 Plugins, 24663 Fachdateien; Bestandsregister bytegleich reproduziert."
+    },
+    {
       "command": "python3 scripts/quality-lab.py audit --require-editorial --require-workflow",
       "exit_code": 0,
       "seconds": 0.68,
