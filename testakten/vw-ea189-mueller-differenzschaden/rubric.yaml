@@ -1,0 +1,51 @@
+name: vw-ea189-mueller-differenzschaden
+plugin: diesel-schadensersatz
+description: >-
+  Prüfakte zu einem VW Touran EA189 mit später Mandatsaufnahme. Bewertet werden
+  technische Konsistenz, getrennte Anspruchs- und Fristenprüfung sowie die
+  belastbare Kontrolle von Nutzungs- und Schadensrechnungen.
+checks:
+  - id: r01-readme-vorhanden
+    check_type: file_exists
+    description: Die neutrale Fallbeschreibung ist vorhanden.
+    path: README.md
+  - id: r02-gesamt-pdf-vorhanden
+    check_type: file_exists
+    description: Das Gesamt-PDF ist vorhanden.
+    path: gesamt-pdf/vw-ea189-mueller-differenzschaden_gesamt.pdf
+  - id: r03-arbeitsunterlagen
+    check_type: working_file_count
+    description: Mindestens sieben exportierbare Arbeitsunterlagen sind vorhanden.
+    min: 7
+  - id: r04-fin-im-kaufvertrag
+    check_type: text_contains
+    description: Der Kaufvertrag enthält die fallverbindliche FIN.
+    path: kaufvertrag_kaufvertrag.pdf
+    contains: WVGZZZ1TZEV123456
+  - id: r05-fahrzeugkonfiguration
+    check_type: regex_match
+    description: Das Fahrzeugdatenblatt dokumentiert Touran, EA189 und CFFB.
+    path: fahrzeug_fahrzeugdatenblatt.docx
+    pattern: 'Touran[\s\S]{0,800}EA189[\s\S]{0,300}CFFB'
+  - id: r06-serviceaktion
+    check_type: text_contains
+    description: Der Servicebeleg benennt die Maßnahme 23R7.
+    path: fahrzeug_servicebeleg-softwareupdate.pdf
+    contains: 23R7
+  - id: r07-fristenjournal
+    check_type: file_exists
+    description: Ein gesondertes Fristenjournal ist vorhanden.
+    path: finanzierung_fristenjournal.xlsx
+  - id: r08-zahlungsuebersicht
+    check_type: file_exists
+    description: Die Nutzungs- und Zahlungsrechnung ist als Arbeitsmappe vorhanden.
+    path: finanzierung_zahlungsuebersicht.xlsx
+  - id: p01-anspruchstrennung
+    check_type: human_review
+    description: Die geprüften Anspruchsgrundlagen werden tatbestandlich, haftungsrechtlich und schadensrechtlich getrennt bearbeitet.
+  - id: p02-verjaehrung
+    check_type: human_review
+    description: Kenntnis, Regelverjährung, absolute Grenzen, § 852 BGB sowie mögliche Hemmung oder Neubeginn werden urkundengestützt geprüft.
+  - id: p03-rechnung-und-naechster-schritt
+    check_type: human_review
+    description: Kilometer, Nutzungsvorteil und mögliche Schadensgrößen werden nachvollziehbar gerechnet und in einen beleggestützten nächsten Schritt übersetzt.

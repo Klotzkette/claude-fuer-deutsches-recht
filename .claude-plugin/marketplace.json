@@ -498,6 +498,16 @@
       }
     },
     {
+      "name": "diesel-schadensersatz",
+      "source": "./diesel-schadensersatz",
+      "description": "Großes Dieselgate-Plugin für deutsches Recht mit 21 Workflow-Skills für Aktenstart, Beweisprüfung, Anspruchstrennung, Klage, Replik, beA-Paket und Vollstreckung. Mit geprüftem Fünfjahreskorpus, Rechtsstands-Cockpit und neun ausführlichen Testakten.",
+      "version": "445.19.0",
+      "author": {
+        "name": "Klotzkette",
+        "email": "39582916+Klotzkette@users.noreply.github.com"
+      }
+    },
+    {
       "name": "dsa-dma-digitalregulierung",
       "source": "./dsa-dma-digitalregulierung",
       "description": "Digitalregulierung der EU: DSA (VO 2022/2065) und DMA (VO 2022/1925) plus Data Act DGA AI Act NIS-2 DORA CRA eIDAS 2.0 DDG P2B-VO und § 19a GWB. Gatekeeper-Schwellen VLOP-Einordnung Risikobewertung Art. 34 Forschungsdatenzugang Art. 40 Account-Sperre Art. 20-23 Zustellung Art. 13 DSA Klagewege.",
@@ -2558,5 +2568,5 @@
       }
     }
   ],
-  "version": "445.18.1"
+  "version": "445.19.0"
 }

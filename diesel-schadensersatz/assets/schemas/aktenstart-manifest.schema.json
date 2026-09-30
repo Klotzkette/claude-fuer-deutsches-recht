@@ -1,0 +1,134 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/Klotzkette/dieselgate/schema/aktenstart-manifest/1.0.0",
+  "title": "Dieselgate Aktenstart-Manifest",
+  "description": "Deterministischer Übergabevertrag zwischen sicherem Dateiinventar und Skill 01.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schema_version", "tool", "root", "limits", "summary", "routing", "documents", "duplicate_groups", "filename_collision_groups", "issues", "notices"],
+  "properties": {
+    "schema_version": {"const": "1.0.0"},
+    "tool": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["name", "version"],
+      "properties": {
+        "name": {"const": "diesel-aktenstart"},
+        "version": {"type": "string", "pattern": "^1\\.[0-9]+\\.[0-9]+$"}
+      }
+    },
+    "root": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["name"],
+      "properties": {"name": {"type": "string", "minLength": 1, "maxLength": 255}}
+    },
+    "limits": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["max_files", "max_file_bytes", "max_total_bytes"],
+      "properties": {
+        "max_files": {"type": "integer", "minimum": 1, "maximum": 10000},
+        "max_file_bytes": {"type": "integer", "minimum": 1, "maximum": 1073741824},
+        "max_total_bytes": {"type": "integer", "minimum": 1, "maximum": 1099511627776}
+      }
+    },
+    "summary": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["status", "entries_total", "regular_files", "bytes_total", "hashed_files", "categories", "duplicate_groups", "filename_collision_groups", "ocr_review_files", "blockers", "warnings"],
+      "properties": {
+        "status": {"enum": ["STARTBEREIT", "PRUEFUNG_NOETIG", "BLOCKIERT"]},
+        "entries_total": {"type": "integer", "minimum": 0},
+        "regular_files": {"type": "integer", "minimum": 0},
+        "bytes_total": {"type": "integer", "minimum": 0},
+        "hashed_files": {"type": "integer", "minimum": 0},
+        "categories": {"type": "object", "additionalProperties": {"type": "integer", "minimum": 0}},
+        "duplicate_groups": {"type": "integer", "minimum": 0},
+        "filename_collision_groups": {"type": "integer", "minimum": 0},
+        "ocr_review_files": {"type": "integer", "minimum": 0},
+        "blockers": {"type": "integer", "minimum": 0},
+        "warnings": {"type": "integer", "minimum": 0}
+      }
+    },
+    "routing": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["next_skill", "focus", "missing_core"],
+      "properties": {
+        "next_skill": {"const": "01-kaltstart-aktenaufnahme"},
+        "focus": {"type": "array", "items": {"type": "string", "minLength": 1}},
+        "missing_core": {"type": "array", "items": {"type": "string", "minLength": 1}}
+      }
+    },
+    "documents": {
+      "type": "array",
+      "maxItems": 10000,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["id", "path", "name", "extension", "kind", "bytes", "sha256", "detected_type", "category", "classification_basis", "evidence_role", "text_status", "pages", "duplicate_group", "filename_collision_group", "issues"],
+        "properties": {
+          "id": {"type": "string", "pattern": "^D-[0-9]{5}$"},
+          "path": {"type": "string", "minLength": 1, "maxLength": 4096},
+          "name": {"type": "string", "minLength": 1, "maxLength": 255},
+          "extension": {"type": "string", "maxLength": 255},
+          "kind": {"enum": ["regular", "symlink", "special", "unreadable"]},
+          "bytes": {"type": ["integer", "null"], "minimum": 0},
+          "sha256": {"type": ["string", "null"], "pattern": "^[0-9a-f]{64}$"},
+          "detected_type": {"type": "string", "minLength": 1, "maxLength": 64},
+          "category": {"enum": ["kauf_erwerb", "fahrzeugpapiere", "kba_rueckruf", "update_werkstatt", "finanzierung_leasing", "zahlung", "gericht_schriftsatz", "gutachten_messung", "vollmacht_mandat", "korrespondenz", "foto", "sonstiges"]},
+          "classification_basis": {"enum": ["dateiname_heuristik", "endung_und_dateiname_heuristik"]},
+          "evidence_role": {"type": "string", "minLength": 1, "maxLength": 64},
+          "text_status": {"enum": ["nicht_geprueft", "textschicht_erkannt", "ocr_pruefen", "nicht_lesbar", "digitaltext", "strukturierter_container", "nicht_anwendbar"]},
+          "pages": {"type": ["integer", "null"], "minimum": 0},
+          "duplicate_group": {"type": ["string", "null"], "pattern": "^DUP-[0-9]{3}$"},
+          "filename_collision_group": {"type": ["string", "null"], "pattern": "^NAME-[0-9]{3}$"},
+          "issues": {"type": "array", "items": {"type": "string", "minLength": 1}, "uniqueItems": true}
+        }
+      }
+    },
+    "duplicate_groups": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["id", "sha256", "bytes", "paths"],
+        "properties": {
+          "id": {"type": "string", "pattern": "^DUP-[0-9]{3}$"},
+          "sha256": {"type": "string", "pattern": "^[0-9a-f]{64}$"},
+          "bytes": {"type": "integer", "minimum": 0},
+          "paths": {"type": "array", "minItems": 2, "maxItems": 10000, "uniqueItems": true, "items": {"type": "string", "minLength": 1, "maxLength": 4096}}
+        }
+      }
+    },
+    "filename_collision_groups": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["id", "portable_name", "paths"],
+        "properties": {
+          "id": {"type": "string", "pattern": "^NAME-[0-9]{3}$"},
+          "portable_name": {"type": "string", "minLength": 1, "maxLength": 255},
+          "paths": {"type": "array", "minItems": 2, "maxItems": 10000, "uniqueItems": true, "items": {"type": "string", "minLength": 1, "maxLength": 4096}}
+        }
+      }
+    },
+    "issues": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["severity", "code", "paths", "message"],
+        "properties": {
+          "severity": {"enum": ["blocker", "warning", "info"]},
+          "code": {"type": "string", "pattern": "^[a-z0-9_]+$"},
+          "paths": {"type": "array", "minItems": 1, "maxItems": 10000, "uniqueItems": true, "items": {"type": "string", "minLength": 1, "maxLength": 4096}},
+          "message": {"type": "string", "minLength": 1}
+        }
+      }
+    },
+    "notices": {"type": "array", "minItems": 3, "items": {"type": "string", "minLength": 1}}
+  }
+}

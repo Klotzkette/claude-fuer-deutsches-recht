@@ -1,0 +1,85 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/Klotzkette/dieselgate/schemas/bea-paketauftrag.schema.json",
+  "title": "beA-Paketauftrag",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schema_version", "matter", "main_document", "exhibits"],
+  "properties": {
+    "schema_version": {"const": "1.0.0"},
+    "matter": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "court",
+        "docket",
+        "new_filing",
+        "role",
+        "document_type",
+        "document_date",
+        "deadline",
+        "responsible_person",
+        "signature_route",
+        "exhibit_prefix",
+        "first_exhibit_number"
+      ],
+      "properties": {
+        "court": {"type": "string", "minLength": 1, "maxLength": 160},
+        "docket": {"type": ["string", "null"], "minLength": 1, "maxLength": 80},
+        "new_filing": {"type": "boolean"},
+        "role": {"type": "string", "pattern": "^[A-Za-z]{1,6}$"},
+        "document_type": {"type": "string", "minLength": 1, "maxLength": 48},
+        "document_date": {"type": "string", "format": "date"},
+        "deadline": {"type": ["string", "null"], "format": "date"},
+        "responsible_person": {"type": "string", "minLength": 1, "maxLength": 160},
+        "signature_route": {
+          "enum": ["qeS", "einfach_signiert_persoenliches_beA", "noch_festzulegen"]
+        },
+        "exhibit_prefix": {"type": "string", "pattern": "^[A-Za-z]{1,6}$"},
+        "first_exhibit_number": {"type": "integer", "minimum": 1, "maximum": 999999}
+      },
+      "allOf": [
+        {
+          "if": {"properties": {"new_filing": {"const": true}}, "required": ["new_filing"]},
+          "then": {"properties": {"docket": {"type": "null"}}},
+          "else": {"properties": {"docket": {"type": "string", "minLength": 1}}}
+        }
+      ]
+    },
+    "main_document": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["source", "approved_sha256"],
+      "properties": {
+        "source": {"type": "string", "minLength": 1, "maxLength": 1024},
+        "approved_sha256": {"type": "string", "pattern": "^[a-f0-9]{64}$"}
+      }
+    },
+    "exhibits": {
+      "type": "array",
+      "maxItems": 999,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "number",
+          "source",
+          "expected_sha256",
+          "title",
+          "document_date",
+          "reference",
+          "stamp_mode"
+        ],
+        "properties": {
+          "number": {"type": "integer", "minimum": 1, "maximum": 999999},
+          "source": {"type": "string", "minLength": 1, "maxLength": 1024},
+          "expected_sha256": {"type": "string", "pattern": "^[a-f0-9]{64}$"},
+          "title": {"type": "string", "minLength": 1, "maxLength": 100},
+          "document_date": {"type": ["string", "null"], "format": "date"},
+          "reference": {"type": "string", "minLength": 1, "maxLength": 240},
+          "stamp_mode": {"enum": ["first", "all", "cover", "already_stamped"]}
+        }
+      }
+    }
+  }
+}

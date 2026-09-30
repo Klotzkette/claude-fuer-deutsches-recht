@@ -1,0 +1,52 @@
+name: vw-ea189-hoffmann-verjaehrung-restschaden
+plugin: diesel-schadensersatz
+description: >-
+  Prüfakte zu einem VW Passat EA189 mit behaupteter historischer
+  Registeranmeldung und gesonderter Restschadensersatzspur. Bewertet werden
+  Urkundenbeweis, historische Hemmung und Anspruchsinhalt des § 852 BGB.
+checks:
+  - id: r01-readme-vorhanden
+    check_type: file_exists
+    description: Die neutrale Fallbeschreibung ist vorhanden.
+    path: README.md
+  - id: r02-gesamt-pdf-vorhanden
+    check_type: file_exists
+    description: Das Gesamt-PDF ist vorhanden.
+    path: gesamt-pdf/vw-ea189-hoffmann-verjaehrung-restschaden_gesamt.pdf
+  - id: r03-arbeitsunterlagen
+    check_type: working_file_count
+    description: Mindestens sieben exportierbare Arbeitsunterlagen sind vorhanden.
+    min: 7
+  - id: r04-fin-im-kaufvertrag
+    check_type: text_contains
+    description: Der Kaufvertrag enthält die fallverbindliche FIN.
+    path: kaufvertrag_kaufvertrag.pdf
+    contains: WVWZZZ3CZDE456789
+  - id: r05-motorfamilie
+    check_type: text_contains
+    description: Das Fahrzeugdatenblatt dokumentiert die Motorfamilie EA189.
+    path: fahrzeug_fahrzeugdatenblatt.docx
+    contains: EA189
+  - id: r06-serviceaktion
+    check_type: text_contains
+    description: Der Servicebeleg benennt die Maßnahme 23R7.
+    path: fahrzeug_servicebeleg-softwareupdate.pdf
+    contains: 23R7
+  - id: r07-newsletterbeleg
+    check_type: text_contains
+    description: Die Mandantinnennachreichung enthält den historischen Newsletterbezug.
+    path: korrespondenz_mandant-nachreichung-alter-onlineausdruck.docx
+    contains: Newsletter
+  - id: r08-fristenjournal
+    check_type: file_exists
+    description: Ein gesondertes Fristenjournal ist vorhanden.
+    path: finanzierung_fristenjournal.xlsx
+  - id: p01-registerbeweis
+    check_type: human_review
+    description: Erinnerung, Newsletter, Registeranmeldung und Vergleichsnachweis werden nach ihrem jeweiligen Beweiswert unterschieden.
+  - id: p02-historische-fristen
+    check_type: human_review
+    description: Die im maßgeblichen Zeitraum geltenden Hemmungsregeln und sämtliche belastbar dokumentierten Fristdaten werden korrekt angewandt.
+  - id: p03-restschadensersatz
+    check_type: human_review
+    description: Frist, Herstellerzufluss, Schaden, Nutzung und mögliche Zug-um-Zug-Leistung werden innerhalb der §-852-Spur getrennt geprüft.

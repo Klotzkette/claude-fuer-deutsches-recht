@@ -1,0 +1,504 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/Klotzkette/dieselgate/diesel-schadensersatz/assets/schemas/arbeitsstand-basis.schema.json",
+  "title": "Dieselgate Arbeitsstand – Basisvertrag",
+  "description": "Gemeinsamer struktureller V2-Vertrag für finale Arbeitsstände und explizite Skill-21-Pre-Append-Candidates; Varianten ergänzen ihre Lifecycle-Regel extern.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "revision",
+    "previous_state_sha256",
+    "state_status",
+    "fall_id",
+    "modus",
+    "ziel",
+    "fallkern",
+    "tatsachen",
+    "konflikte",
+    "blocker",
+    "gates",
+    "rechtsstand",
+    "erledigte_skills",
+    "versandfreigabe",
+    "aktiver_skill",
+    "naechster_schritt",
+    "abschluss",
+    "delta"
+  ],
+  "properties": {
+    "schema_version": {"const": "2.0.0"},
+    "revision": {"type": "integer", "minimum": 1},
+    "previous_state_sha256": {
+      "type": ["string", "null"],
+      "pattern": "^[a-f0-9]{64}$",
+      "description": "SHA-256 der exakten Bytes der unmittelbaren Vorgängerdatei."
+    },
+    "state_status": {"enum": ["aktiv", "blockiert", "abgeschlossen"]},
+    "fall_id": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 80,
+      "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]*$"
+    },
+    "modus": {"enum": ["SCHNELL", "TIEF", "VERSAND"]},
+    "ziel": {"type": "string", "minLength": 1, "maxLength": 500},
+    "fallkern": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["rolle", "fahrzeug", "fin", "motorcode", "kaufdatum", "kaufpreis", "verfahren"],
+      "properties": {
+        "rolle": {"type": ["string", "null"], "maxLength": 200},
+        "fahrzeug": {"type": ["string", "null"], "maxLength": 300},
+        "fin": {"type": ["string", "null"], "maxLength": 40},
+        "motorcode": {"type": ["string", "null"], "maxLength": 80},
+        "kaufdatum": {"type": ["string", "null"], "format": "date"},
+        "kaufpreis": {"type": ["string", "null"], "pattern": "^[0-9]+(?:\\.[0-9]{2})? EUR$"},
+        "verfahren": {"type": ["string", "null"], "maxLength": 300}
+      }
+    },
+    "tatsachen": {
+      "type": "array",
+      "maxItems": 250,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["id", "aussage", "status", "fundstellen"],
+        "properties": {
+          "id": {"$ref": "#/$defs/fakten_id"},
+          "aussage": {"type": "string", "minLength": 1, "maxLength": 1000},
+          "status": {"enum": ["belegt", "streitig", "offen", "verworfen"]},
+          "fundstellen": {
+            "type": "array",
+            "maxItems": 20,
+            "items": {"$ref": "#/$defs/fundstelle"}
+          }
+        },
+        "allOf": [
+          {
+            "if": {"properties": {"status": {"const": "belegt"}}, "required": ["status"]},
+            "then": {"properties": {"fundstellen": {"minItems": 1}}}
+          }
+        ]
+      }
+    },
+    "konflikte": {
+      "type": "array",
+      "maxItems": 100,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["id", "beschreibung", "fakten_ids", "status", "aufloesung"],
+        "properties": {
+          "id": {"type": "string", "pattern": "^K[1-9][0-9]{0,3}$"},
+          "beschreibung": {"type": "string", "minLength": 1, "maxLength": 1000},
+          "fakten_ids": {
+            "type": "array",
+            "minItems": 1,
+            "maxItems": 20,
+            "uniqueItems": true,
+            "items": {"$ref": "#/$defs/fakten_id"}
+          },
+          "status": {"enum": ["offen", "aufgeloest"]},
+          "aufloesung": {"type": ["string", "null"], "maxLength": 1000}
+        }
+      }
+    },
+    "blocker": {
+      "type": "array",
+      "maxItems": 50,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["id", "scope", "grund", "benoetigt", "basis_ids"],
+        "properties": {
+          "id": {"type": "string", "pattern": "^B[1-9][0-9]{0,3}$"},
+          "scope": {"enum": ["aktueller_schritt", "externe_verwendung", "einreichung", "gesamter_fall"]},
+          "grund": {"type": "string", "minLength": 1, "maxLength": 1000},
+          "benoetigt": {"type": "string", "minLength": 1, "maxLength": 500},
+          "basis_ids": {
+            "type": "array",
+            "maxItems": 20,
+            "uniqueItems": true,
+            "items": {"$ref": "#/$defs/basis_id"}
+          }
+        }
+      }
+    },
+    "gates": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["frist", "betroffenheit", "anspruch", "schaden", "zustaendigkeit", "vertretung", "freigabe"],
+      "properties": {
+        "frist": {"$ref": "#/$defs/gate"},
+        "betroffenheit": {"$ref": "#/$defs/gate"},
+        "anspruch": {"$ref": "#/$defs/gate"},
+        "schaden": {"$ref": "#/$defs/gate"},
+        "zustaendigkeit": {"$ref": "#/$defs/gate"},
+        "vertretung": {"$ref": "#/$defs/gate"},
+        "freigabe": {"$ref": "#/$defs/gate"}
+      }
+    },
+    "rechtsstand": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["geprueft_am", "pruefstatus", "reichweite", "anker", "normanker"],
+      "properties": {
+        "geprueft_am": {"type": ["string", "null"], "format": "date"},
+        "pruefstatus": {"enum": ["nicht_geprueft", "lokaler_snapshot", "amtlich_live_geprueft", "veraltet"]},
+        "reichweite": {"type": "string", "minLength": 1, "maxLength": 500},
+        "anker": {
+          "type": "array",
+          "maxItems": 6,
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["id", "registry_id", "gericht", "datum", "aktenzeichen", "entscheidungsstatus", "kernaussage", "quellenstatus", "amtliche_url", "gilt_fuer_skills"],
+            "properties": {
+              "id": {"type": "string", "pattern": "^R[1-9][0-9]{0,2}$"},
+              "registry_id": {"type": "string", "minLength": 1, "maxLength": 160, "pattern": "^[a-z0-9][a-z0-9-]*$"},
+              "gericht": {"type": "string", "minLength": 1, "maxLength": 120},
+              "datum": {"type": "string", "format": "date"},
+              "aktenzeichen": {"type": "string", "minLength": 1, "maxLength": 80},
+              "entscheidungsstatus": {"enum": ["sachentscheidung", "verfahrensentscheidung", "anhaengig"]},
+              "kernaussage": {"type": "string", "minLength": 1, "maxLength": 1000},
+              "quellenstatus": {"enum": ["amtlicher_volltext_geprueft", "amtlicher_volltext_ausstehend", "nur_metadaten"]},
+              "amtliche_url": {"$ref": "#/$defs/amtliche_url"},
+              "gilt_fuer_skills": {
+                "type": "array",
+                "minItems": 1,
+                "maxItems": 21,
+                "uniqueItems": true,
+                "items": {"$ref": "#/$defs/skill"}
+              }
+            }
+          }
+        },
+        "normanker": {
+          "type": "array",
+          "maxItems": 6,
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["id", "registry_id", "norm", "stand", "kernaussage", "amtliche_url", "gilt_fuer_skills"],
+            "properties": {
+              "id": {"type": "string", "pattern": "^N[1-9][0-9]{0,2}$"},
+              "registry_id": {"type": "string", "minLength": 1, "maxLength": 120, "pattern": "^[a-z0-9][a-z0-9-]*$"},
+              "norm": {"type": "string", "minLength": 1, "maxLength": 300},
+              "stand": {"type": "string", "format": "date"},
+              "kernaussage": {"type": "string", "minLength": 1, "maxLength": 1000},
+              "amtliche_url": {"$ref": "#/$defs/amtliche_url"},
+              "gilt_fuer_skills": {
+                "type": "array",
+                "minItems": 1,
+                "maxItems": 21,
+                "uniqueItems": true,
+                "items": {"$ref": "#/$defs/skill"}
+              }
+            }
+          }
+        }
+      },
+      "allOf": [
+        {
+          "if": {"properties": {"anker": {"minItems": 1}}, "required": ["anker"]},
+          "then": {"properties": {"normanker": {"maxItems": 5}}}
+        },
+        {
+          "if": {"properties": {"anker": {"minItems": 2}}, "required": ["anker"]},
+          "then": {"properties": {"normanker": {"maxItems": 4}}}
+        },
+        {
+          "if": {"properties": {"anker": {"minItems": 3}}, "required": ["anker"]},
+          "then": {"properties": {"normanker": {"maxItems": 3}}}
+        },
+        {
+          "if": {"properties": {"anker": {"minItems": 4}}, "required": ["anker"]},
+          "then": {"properties": {"normanker": {"maxItems": 2}}}
+        },
+        {
+          "if": {"properties": {"anker": {"minItems": 5}}, "required": ["anker"]},
+          "then": {"properties": {"normanker": {"maxItems": 1}}}
+        },
+        {
+          "if": {"properties": {"anker": {"minItems": 6}}, "required": ["anker"]},
+          "then": {"properties": {"normanker": {"maxItems": 0}}}
+        }
+      ]
+    },
+    "erledigte_skills": {
+      "type": "array",
+      "maxItems": 200,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["skill", "run_id", "supersedes", "reuse_status", "result_state_sha256", "auftrag_sha256", "external_input_sha256", "completion_sha256", "result_refs", "erledigt_am", "rechtsstand_am"],
+        "properties": {
+          "skill": {"$ref": "#/$defs/skill"},
+          "run_id": {"type": "string", "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]{0,79}$"},
+          "supersedes": {
+            "type": ["string", "null"],
+            "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]{0,79}$"
+          },
+          "reuse_status": {"enum": ["ausstehend", "verifiziert"]},
+          "result_state_sha256": {"type": ["string", "null"], "pattern": "^[a-f0-9]{64}$"},
+          "auftrag_sha256": {"type": ["string", "null"], "pattern": "^[a-f0-9]{64}$"},
+          "external_input_sha256": {"type": ["string", "null"], "pattern": "^[a-f0-9]{64}$"},
+          "completion_sha256": {"type": ["string", "null"], "pattern": "^[a-f0-9]{64}$"},
+          "result_refs": {
+            "type": "array",
+            "minItems": 1,
+            "maxItems": 20,
+            "uniqueItems": true,
+            "items": {"$ref": "#/$defs/result_ref"}
+          },
+          "erledigt_am": {"type": "string", "format": "date-time"},
+          "rechtsstand_am": {"type": ["string", "null"], "format": "date"}
+        },
+        "allOf": [
+          {
+            "if": {"properties": {"reuse_status": {"const": "verifiziert"}}, "required": ["reuse_status"]},
+            "then": {
+              "properties": {
+                "result_state_sha256": {"type": "string", "pattern": "^[a-f0-9]{64}$"},
+                "auftrag_sha256": {"type": "string", "pattern": "^[a-f0-9]{64}$"},
+                "completion_sha256": {"type": "string", "pattern": "^[a-f0-9]{64}$"}
+              }
+            }
+          },
+          {
+            "if": {"properties": {"reuse_status": {"const": "ausstehend"}}, "required": ["reuse_status"]},
+            "then": {
+              "properties": {
+                "result_state_sha256": {"type": "null"},
+                "auftrag_sha256": {"type": "null"},
+                "completion_sha256": {"type": "null"}
+              }
+            }
+          }
+        ]
+      }
+    },
+    "versandfreigabe": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["status", "paket_fingerprint_sha256", "freigabe_revision", "recipient_id", "connector_namespace", "action_id"],
+      "properties": {
+        "status": {"enum": ["nicht_vorhanden", "ausstehend", "freigegeben"]},
+        "paket_fingerprint_sha256": {"type": ["string", "null"], "pattern": "^[a-f0-9]{64}$"},
+        "freigabe_revision": {"type": ["integer", "null"], "minimum": 1},
+        "recipient_id": {
+          "type": ["string", "null"],
+          "pattern": "^[A-Za-z0-9][A-Za-z0-9._:@/-]{0,199}$"
+        },
+        "connector_namespace": {
+          "type": ["string", "null"],
+          "pattern": "^[A-Za-z0-9._-]+:[A-Za-z0-9._-]+:[A-Za-z0-9._@-]+$"
+        },
+        "action_id": {"type": ["string", "null"], "pattern": "^SUBMIT-[a-f0-9]{32}$"}
+      },
+      "allOf": [
+        {
+          "if": {"properties": {"status": {"const": "freigegeben"}}, "required": ["status"]},
+          "then": {
+            "properties": {
+                "paket_fingerprint_sha256": {"type": "string", "pattern": "^[a-f0-9]{64}$"},
+                "freigabe_revision": {"type": "integer", "minimum": 1},
+                "recipient_id": {"type": "string", "pattern": "^[A-Za-z0-9][A-Za-z0-9._:@/-]{0,199}$"}
+            }
+          }
+        },
+        {
+          "if": {
+            "properties": {"status": {"enum": ["nicht_vorhanden", "ausstehend"]}},
+            "required": ["status"]
+          },
+          "then": {
+            "properties": {
+                "paket_fingerprint_sha256": {"type": "null"},
+                "freigabe_revision": {"type": "null"},
+                "recipient_id": {"type": "null"},
+                "connector_namespace": {"type": "null"},
+                "action_id": {"type": "null"}
+            }
+          }
+        }
+      ]
+    },
+    "aktiver_skill": {"type": ["string", "null"], "pattern": "^(0[1-9]|1[0-9]|2[01])$"},
+    "naechster_schritt": {
+      "anyOf": [
+        {"type": "null"},
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["skill", "grund", "benoetigte_eingaben"],
+          "properties": {
+            "skill": {"$ref": "#/$defs/skill"},
+            "grund": {"type": "string", "minLength": 1, "maxLength": 500},
+            "benoetigte_eingaben": {
+              "type": "array",
+              "maxItems": 10,
+              "uniqueItems": true,
+              "items": {"type": "string", "minLength": 1, "maxLength": 300}
+            }
+          }
+        }
+      ]
+    },
+    "abschluss": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["terminal", "grund"],
+      "properties": {
+        "terminal": {"type": "boolean"},
+        "grund": {"type": ["string", "null"], "maxLength": 1000}
+      }
+    },
+    "delta": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["von_revision", "neue_fakten_ids", "geaenderte_gates", "geaenderte_pfade", "hinweis"],
+      "properties": {
+        "von_revision": {"type": ["integer", "null"], "minimum": 1},
+        "neue_fakten_ids": {
+          "type": "array",
+          "maxItems": 50,
+          "uniqueItems": true,
+          "items": {"$ref": "#/$defs/fakten_id"}
+        },
+        "geaenderte_gates": {
+          "type": "array",
+          "maxItems": 7,
+          "uniqueItems": true,
+          "items": {"enum": ["frist", "betroffenheit", "anspruch", "schaden", "zustaendigkeit", "vertretung", "freigabe"]}
+        },
+        "geaenderte_pfade": {
+          "type": "array",
+          "maxItems": 14,
+          "uniqueItems": true,
+          "items": {
+            "enum": [
+              "/state_status", "/modus", "/ziel", "/fallkern", "/tatsachen", "/konflikte",
+              "/blocker", "/rechtsstand", "/erledigte_skills", "/versandfreigabe",
+              "/aktiver_skill", "/naechster_schritt", "/abschluss"
+            ]
+          }
+        },
+        "hinweis": {"type": "string", "maxLength": 1000}
+      }
+    }
+  },
+  "allOf": [
+    {
+      "if": {"properties": {"revision": {"const": 1}}, "required": ["revision"]},
+      "then": {"properties": {"previous_state_sha256": {"type": "null"}, "delta": {"properties": {"von_revision": {"type": "null"}}}}}
+    },
+    {
+      "if": {"properties": {"revision": {"minimum": 2}}, "required": ["revision"]},
+      "then": {
+        "properties": {
+          "previous_state_sha256": {"type": "string", "pattern": "^[a-f0-9]{64}$"},
+          "delta": {"properties": {"von_revision": {"type": "integer", "minimum": 1}}}
+        }
+      }
+    },
+    {
+      "if": {"properties": {"state_status": {"const": "abgeschlossen"}}, "required": ["state_status"]},
+      "then": {
+        "properties": {
+          "aktiver_skill": {"type": "null"},
+          "naechster_schritt": {"type": "null"},
+          "abschluss": {"properties": {"terminal": {"const": true}, "grund": {"type": "string", "minLength": 1}}}
+        }
+      }
+    },
+    {
+      "if": {"properties": {"state_status": {"const": "blockiert"}}, "required": ["state_status"]},
+      "then": {"properties": {"blocker": {"minItems": 1}, "abschluss": {"properties": {"terminal": {"const": false}}}}}
+    },
+    {
+      "if": {
+        "properties": {
+          "abschluss": {"properties": {"terminal": {"const": true}}, "required": ["terminal"]}
+        },
+        "required": ["abschluss"]
+      },
+      "then": {"properties": {"state_status": {"const": "abgeschlossen"}}}
+    }
+  ],
+  "$defs": {
+    "amtliche_url": {
+      "type": "string",
+      "format": "uri",
+      "maxLength": 1000,
+      "pattern": "^https://(?:[A-Za-z0-9-]+\\.)*(?:bundesgerichtshof\\.de|bundesverfassungsgericht\\.de|bundesverwaltungsgericht\\.de|bverwg\\.de|curia\\.europa\\.eu|eur-lex\\.europa\\.eu|gesetze-im-internet\\.de|recht\\.bund\\.de|justiz\\.nrw\\.de|gesetze-bayern\\.de|schleswig-holstein\\.de|landesrecht-bw\\.de|gesetze\\.berlin\\.de|kba\\.de|kba-online\\.de)(?::[0-9]+)?(?:[/?#]|$)"
+    },
+    "result_ref": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["typ", "referenz", "sha256", "fundort"],
+      "properties": {
+        "typ": {"enum": ["state_fakt", "artefakt"]},
+        "referenz": {"type": "string", "minLength": 1, "maxLength": 200},
+        "sha256": {"type": ["string", "null"], "pattern": "^[a-f0-9]{64}$"},
+        "fundort": {"type": ["string", "null"], "maxLength": 500}
+      },
+      "allOf": [
+        {
+          "if": {"properties": {"typ": {"const": "state_fakt"}}, "required": ["typ"]},
+          "then": {
+            "properties": {
+              "referenz": {"pattern": "^F[1-9][0-9]{0,3}$"},
+              "sha256": {"type": "null"},
+              "fundort": {"type": "null"}
+            }
+          }
+        },
+        {
+          "if": {"properties": {"typ": {"const": "artefakt"}}, "required": ["typ"]},
+          "then": {
+            "properties": {
+              "sha256": {"type": "string", "pattern": "^[a-f0-9]{64}$"},
+              "fundort": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 500,
+                "pattern": "^(?!/)(?!.*(?:^|/)\\.{1,2}(?:/|$))[^\\\\:\\u0000]+$"
+              }
+            }
+          }
+        }
+      ]
+    },
+    "fakten_id": {"type": "string", "pattern": "^F[1-9][0-9]{0,3}$"},
+    "basis_id": {"type": "string", "pattern": "^(F|K|R|B|N)[1-9][0-9]{0,3}$"},
+    "fundstelle": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["dokument_id", "stelle", "pruefstatus"],
+      "properties": {
+        "dokument_id": {"type": "string", "minLength": 1, "maxLength": 120},
+        "stelle": {"type": "string", "minLength": 1, "maxLength": 300},
+        "sha256": {"type": ["string", "null"], "pattern": "^[a-f0-9]{64}$"},
+        "pruefstatus": {"enum": ["original_geprueft", "maschinenextrakt", "mandantenangabe"]}
+      }
+    },
+    "gate": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["status", "grund", "basis_ids"],
+      "properties": {
+        "status": {"enum": ["gruen", "gelb", "rot", "nicht_relevant"]},
+        "grund": {"type": "string", "minLength": 1, "maxLength": 500},
+        "basis_ids": {
+          "type": "array",
+          "maxItems": 30,
+          "uniqueItems": true,
+          "items": {"$ref": "#/$defs/basis_id"}
+        }
+      }
+    },
+    "skill": {"type": "string", "pattern": "^(0[1-9]|1[0-9]|2[01])$"}
+  }
+}

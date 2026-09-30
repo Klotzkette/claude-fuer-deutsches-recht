@@ -90,9 +90,14 @@ class Fixture(unittest.TestCase):
 
 
 class RepositoryRoutingTests(unittest.TestCase):
-    def test_expected_twelve_cases_and_twenty_four_zips(self):
+    def test_expected_twenty_one_cases_and_forty_two_zips(self):
         expected = {
+            "audi-ea288-weber-neuwagen",
+            "bmw-fischer-abweisungsrisiko",
+            "fiat-wohnmobil-bauer",
             "ki-hochrisiko-bewerbungsauswahl-kassel", "ki-transparenz-kanzlei-kommunikation-mainz",
+            "mercedes-om651-schneider-thermofenster",
+            "rueckrufregister-kba",
             "vergesellschaftung-energienetz-hessen", "enteignung-verkehrsflaeche-goettingen",
             "sozialversicherung-ag-organe-hannover",
             "sozialversicherung-gmbh-fuenfzig-prozent-erfurt",
@@ -102,10 +107,14 @@ class RepositoryRoutingTests(unittest.TestCase):
             "sozialversicherung-syndikus-versorgungswerk-hamburg",
             "statusfeststellung-gmbh-geschaeftsfuehrer-minderheit-erlangen",
             "gesellschaftsgruender-topf-tacheles-berlin",
+            "vollstreckung-vw-richter-titel",
+            "vw-ea189-hoffmann-verjaehrung-restschaden",
+            "vw-ea189-mueller-differenzschaden",
+            "vw-finanzierung-koch-widerrufsjoker",
         }
         slugs = R.companion_cases()
         self.assertEqual(set(slugs), expected)
-        self.assertEqual(len(R.companion_asset_names(slugs)), 24)
+        self.assertEqual(len(R.companion_asset_names(slugs)), 42)
         for slug in sorted(expected):
             for suffix in ("", "-einzelpdfs"):
                 with self.subTest(slug=slug, suffix=suffix):

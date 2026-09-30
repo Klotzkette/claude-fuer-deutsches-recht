@@ -1,0 +1,2 @@
+schema_version;dokument_id;datei;zielregister;dokumenttyp;datum;absender;empfaenger;aktenzeichen;fin;motorcode;betrag;frist;datenschutzklasse;quelle;sha256;konfliktstatus;bemerkung
+1.0.0;D-001;kaufvertrag.pdf;01 Kaufunterlagen;Kaufvertrag;2020-02-14;Beispielhändler;Anonymisiert;;ANONYMISIERT;EA288;32000.00;;vertraulich;Upload;;kein-konflikt;Anonymisierte Beispielzeile

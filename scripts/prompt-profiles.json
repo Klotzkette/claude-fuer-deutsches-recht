@@ -1,6 +1,17 @@
 {
   "schema_version": 1,
   "plugins": {
+    "diesel-schadensersatz": {
+      "standalone": [
+        "werkstatt",
+        "schnellstart"
+      ],
+      "formats": [
+        "md"
+      ],
+      "megaprompt": false,
+      "hand_curated": true
+    },
     "bea-versand": {
       "standalone": [
         "werkstatt"

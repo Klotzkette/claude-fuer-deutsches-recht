@@ -1,0 +1,53 @@
+name: rueckrufregister-kba
+plugin: diesel-schadensersatz
+description: >-
+  Referenzakte zum öffentlichen KBA-Fahrzeugexport für die Herstellercodes
+  23R7 und 23X6. Bewertet werden Provenienz, reproduzierbare Filterung und die
+  Grenze zwischen Registertreffer und individueller Fahrzeugzuordnung.
+checks:
+  - id: r01-readme-vorhanden
+    check_type: file_exists
+    description: Die neutrale Beschreibung der Referenzakte ist vorhanden.
+    path: README.md
+  - id: r02-gesamt-pdf-vorhanden
+    check_type: file_exists
+    description: Das Gesamt-PDF ist vorhanden.
+    path: gesamt-pdf/rueckrufregister-kba_gesamt.pdf
+  - id: r03-arbeitsunterlagen
+    check_type: working_file_count
+    description: Mindestens vier exportierbare Arbeitsunterlagen sind vorhanden.
+    min: 4
+  - id: r04-code-23r7
+    check_type: text_contains
+    description: Die Exportabschrift enthält den Herstellercode 23R7.
+    path: kba-rueckrufregister-2026.pdf
+    contains: 23R7
+  - id: r05-code-23x6
+    check_type: text_contains
+    description: Die Exportabschrift enthält den Herstellercode 23X6.
+    path: kba-rueckrufregister-2026.pdf
+    contains: 23X6
+  - id: r06-exportstand
+    check_type: text_contains
+    description: Das Abrufprotokoll dokumentiert den maschinenlesbaren Exportstand.
+    path: pruefung_abrufprotokoll.docx
+    contains: "2026-08-25T12:00:00+02:00"
+  - id: r07-fin-grenze
+    check_type: text_contains
+    description: Der Methodenhinweis grenzt Registerdaten von einer konkreten FIN-Zuordnung ab.
+    path: pruefung_kba-schreiben-methodenhinweis.docx
+    contains: konkrete Fahrzeug-Identifizierungsnummer
+  - id: r08-kein-fiktiver-herstellerabruf
+    check_type: text_contains
+    description: Der Hersteller-Prüfvermerk dokumentiert, dass keine reale FIN eingegeben wurde.
+    path: pruefung_hersteller-fin-abfrage.docx
+    contains: keine reale FIN
+  - id: p01-provenienz
+    check_type: human_review
+    description: Seitenanzeige, Exportstand, Dateiname, Abrufzeit und Arbeitsabschrift werden ohne Vermischung dokumentiert.
+  - id: p02-codezuordnung
+    check_type: human_review
+    description: Die Hersteller- und Modellzuordnung der Codes wird anhand der vollständigen gefilterten Teilmenge kontrolliert.
+  - id: p03-verwendungsgrenze
+    check_type: human_review
+    description: Motorfamilie, individuelle FIN, Maßnahmendurchführung und zivilrechtliche Folgerung werden nur mit zusätzlichen Primärbelegen behauptet.

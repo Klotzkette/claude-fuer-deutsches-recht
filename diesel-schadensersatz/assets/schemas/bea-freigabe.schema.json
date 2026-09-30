@@ -1,0 +1,44 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/Klotzkette/dieselgate/schemas/bea-freigabe.schema.json",
+  "title": "Hashgebundene anwaltliche beA-Paketfreigabe",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "package_fingerprint",
+    "approved_by",
+    "approved_at",
+    "confirmations"
+  ],
+  "properties": {
+    "schema_version": {"const": "1.0.0"},
+    "package_fingerprint": {"type": "string", "pattern": "^[a-f0-9]{64}$"},
+    "approved_by": {"type": "string", "minLength": 1, "maxLength": 160},
+    "approved_at": {
+      "type": "string",
+      "format": "date-time",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}(?:\\.\\d{1,6})?(?:Z|[+-]\\d{2}:\\d{2})$"
+    },
+    "confirmations": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "hauptdokument_ist_freigegebene_endfassung",
+        "rubrum_antraege_tatsachen_recht_geprueft",
+        "anlagenbezugnahmen_vollstaendig_und_eindeutig",
+        "stempel_dateinamen_verzeichnis_deckungsgleich",
+        "pdfs_visuell_auf_vollstaendigkeit_lesbarkeit_geprueft",
+        "frist_empfaenger_aktenzeichen_signaturweg_geprueft"
+      ],
+      "properties": {
+        "hauptdokument_ist_freigegebene_endfassung": {"const": true},
+        "rubrum_antraege_tatsachen_recht_geprueft": {"const": true},
+        "anlagenbezugnahmen_vollstaendig_und_eindeutig": {"const": true},
+        "stempel_dateinamen_verzeichnis_deckungsgleich": {"const": true},
+        "pdfs_visuell_auf_vollstaendigkeit_lesbarkeit_geprueft": {"const": true},
+        "frist_empfaenger_aktenzeichen_signaturweg_geprueft": {"const": true}
+      }
+    }
+  }
+}

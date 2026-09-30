@@ -1,0 +1,52 @@
+name: mercedes-om651-schneider-thermofenster
+plugin: diesel-schadensersatz
+description: >-
+  Prüfakte zu einem Mercedes C 220 BlueTEC mit korrigierter Mandantinnenangabe,
+  offenem technischen Befund und befristetem Herstellerangebot. Bewertet
+  werden Beweiswürdigung, Fristenprüfung und Vergleichsberatung.
+checks:
+  - id: r01-readme-vorhanden
+    check_type: file_exists
+    description: Die neutrale Fallbeschreibung ist vorhanden.
+    path: README.md
+  - id: r02-gesamt-pdf-vorhanden
+    check_type: file_exists
+    description: Das Gesamt-PDF ist vorhanden.
+    path: gesamt-pdf/mercedes-om651-schneider-thermofenster_gesamt.pdf
+  - id: r03-arbeitsunterlagen
+    check_type: working_file_count
+    description: Mindestens zehn exportierbare Arbeitsunterlagen sind vorhanden.
+    min: 10
+  - id: r04-fahrzeugidentitaet
+    check_type: text_contains
+    description: Das Fahrzeugdatenblatt enthält die fallverbindliche FIN.
+    path: fahrzeug_fahrzeugdatenblatt.docx
+    contains: WDD2050041F123456
+  - id: r05-mandantinnenkorrektur
+    check_type: regex_match
+    description: Die Nachreichung korrigiert die Reichweite der erinnerten Werkstattaussage.
+    path: korrespondenz_mandant-nachreichung-werkstattgespraech.docx
+    pattern: 'nicht gesagt[\s\S]{0,250}illegale Abschaltung'
+  - id: r06-herstellerangebot
+    check_type: text_contains
+    description: Die Herstellerantwort enthält den angebotenen Hauptbetrag.
+    path: korrespondenz_herstellerantwort.pdf
+    contains: 1.500,00 EUR
+  - id: r07-stillhalteanfrage
+    check_type: file_exists
+    description: Die gesonderte Stillhalteanfrage ist vorhanden.
+    path: korrespondenz_stillhalteanfrage.docx
+  - id: r08-chronologie
+    check_type: text_contains
+    description: Das Aktenjournal dokumentiert die spätere Vergleichsbestätigung.
+    path: finanzierung_aktenjournal.docx
+    contains: 18.08.2026
+  - id: p01-beweis-und-korrektur
+    check_type: human_review
+    description: Frühere Schilderung, spätere Korrektur, Werkstattbeleg und Herstellerposition werden chronologisch und beweiskritisch ausgewertet.
+  - id: p02-fristen
+    check_type: human_review
+    description: Regel- und Höchstfristen sowie Voraussetzungen und Folgen möglicher Verhandlungen nach § 203 BGB werden getrennt geprüft.
+  - id: p03-vergleich
+    check_type: human_review
+    description: Angebotsbedingungen, Kosten, wirtschaftliche Alternativen, Fahrzeugverbleib und Erledigungsumfang werden vollständig und verständlich beraten.

@@ -1,0 +1,56 @@
+name: vollstreckung-vw-richter-titel
+plugin: diesel-schadensersatz
+description: >-
+  Prüfakte zur Vollstreckung aus einem gerichtlichen Dieselvergleich mit zwei
+  Teilzahlungen und offenem Kostenfestsetzungsabschnitt. Bewertet werden Titel,
+  Zahlungszuordnung, Zinsrechnung und Maßnahmenfreigabe.
+checks:
+  - id: r01-readme-vorhanden
+    check_type: file_exists
+    description: Die neutrale Fallbeschreibung ist vorhanden.
+    path: README.md
+  - id: r02-gesamt-pdf-vorhanden
+    check_type: file_exists
+    description: Das Gesamt-PDF ist vorhanden.
+    path: gesamt-pdf/vollstreckung-vw-richter-titel_gesamt.pdf
+  - id: r03-arbeitsunterlagen
+    check_type: working_file_count
+    description: Mindestens zehn exportierbare Arbeitsunterlagen sind vorhanden.
+    min: 10
+  - id: r04-prozessvergleich
+    check_type: text_contains
+    description: Der Vergleichsbeschluss enthält den titulierten Hauptbetrag.
+    path: titel_gerichtlicher-vergleichsbeschluss.pdf
+    contains: 8.400,00 EUR
+  - id: r05-kostenverfahren
+    check_type: file_exists
+    description: Die gerichtliche Verfügung zum Kostenfestsetzungsverfahren liegt gesondert vor.
+    path: titel_gerichtliche-verfuegung-kostenfestsetzung.pdf
+  - id: r06-fahrzeugbezug
+    check_type: text_contains
+    description: Das Fahrzeugdatenblatt dokumentiert den Golf VI 2.0 TDI.
+    path: fahrzeug_fahrzeugdatenblatt.docx
+    contains: Golf VI 2.0 TDI
+  - id: r07-serviceaktion
+    check_type: text_contains
+    description: Das Herstellerschreiben benennt die Serviceaktion 23R7.
+    path: fahrzeug_vw-schreiben-serviceaktion-23r7.docx
+    contains: 23R7
+  - id: r08-teilzahlungen
+    check_type: regex_match
+    description: Der Kontoauszug dokumentiert beide Teilzahlungen.
+    path: finanzierung_kontoauszug-teilzahlungen.pdf
+    pattern: '3\.000,00 EUR[\s\S]{0,3000}2\.000,00 EUR'
+  - id: r09-forderungsrechnung
+    check_type: file_exists
+    description: Die tagesbezogene Forderungsrechnung ist vorhanden.
+    path: finanzierung_zahlungsuebersicht.xlsx
+  - id: p01-formelle-voraussetzungen
+    check_type: human_review
+    description: Titel, Klausel, Zustellung und Reichweite des Vergleichs werden vor Auswahl einer Maßnahme vollständig geprüft.
+  - id: p02-zahlung-und-zins
+    check_type: human_review
+    description: Zahlungsbestimmung, Verrechnung innerhalb der Schuld, Basiszinssatzsegmente und Rundung werden reproduzierbar berechnet.
+  - id: p03-kosten-und-massnahme
+    check_type: human_review
+    description: Noch nicht festgesetzte Kosten bleiben vom Vergleichssaldo getrennt; die konkrete Maßnahme wird anhand aktueller Daten begründet.

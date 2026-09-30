@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0.0",
+  "matter": {
+    "court": "[GERICHT]",
+    "docket": null,
+    "new_filing": true,
+    "role": "K",
+    "document_type": "Klage",
+    "document_date": "2026-07-14",
+    "deadline": null,
+    "responsible_person": "[VERANTWORTLICHE_PERSON]",
+    "signature_route": "noch_festzulegen",
+    "exhibit_prefix": "K",
+    "first_exhibit_number": 1
+  },
+  "main_document": {
+    "source": "input/Klage_final.pdf",
+    "approved_sha256": "[SHA256_DER_FREIGEGEBENEN_ENDFASSUNG]"
+  },
+  "exhibits": [
+    {
+      "number": 1,
+      "source": "input/Kaufvertrag.pdf",
+      "expected_sha256": "[SHA256_DER_QUELLDATEI]",
+      "title": "Kaufvertrag",
+      "document_date": null,
+      "reference": "[SEITE_ABSATZ_ODER_TEXTANKER_IM_SCHRIFTSATZ]",
+      "stamp_mode": "first"
+    }
+  ]
+}

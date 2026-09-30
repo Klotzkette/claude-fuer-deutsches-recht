@@ -6128,6 +6128,7 @@ EXACT_PROFILE_KEYS: dict[str, str] = {
     "commercial-courts-deutschland": "commercial_court",
     "denkmalschutzrecht": "denkmalschutz",
     "deutsche-rechtsgeschichte": "rechtsgeschichte",
+    "diesel-schadensersatz": "produkt",
     "dfg-foerderantrag": "foerderantrag",
     "dsa-dma-digitalregulierung": "digitalplattform",
     "ecommerce-recht": "ecommerce",

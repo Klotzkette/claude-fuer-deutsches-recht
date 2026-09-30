@@ -1,0 +1,165 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/Klotzkette/dieselgate/schemas/bea-paket.schema.json",
+  "title": "beA-Paketprüfbericht",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "package",
+    "status",
+    "technical_status",
+    "inspection_level",
+    "manifest",
+    "approval",
+    "profile",
+    "totals",
+    "files",
+    "errors",
+    "warnings",
+    "manual_checks"
+  ],
+  "properties": {
+    "schema_version": {"const": "2.0.0"},
+    "package": {"type": "string", "minLength": 1},
+    "status": {
+      "enum": ["VERSANDFERTIG", "FREIGABE_AUSSTEHEND", "NICHT_VERSANDFERTIG"]
+    },
+    "technical_status": {"enum": ["BESTANDEN", "NICHT_BESTANDEN"]},
+    "inspection_level": {"enum": ["rohtext", "pypdf+rohtext"]},
+    "manifest": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "path",
+        "valid",
+        "package_fingerprint",
+        "order_path",
+        "order_sha256"
+      ],
+      "properties": {
+        "path": {"type": "string", "minLength": 1},
+        "valid": {"type": "boolean"},
+        "package_fingerprint": {
+          "type": ["string", "null"],
+          "pattern": "^[a-f0-9]{64}$"
+        },
+        "order_path": {"type": "string", "minLength": 1},
+        "order_sha256": {
+          "type": ["string", "null"],
+          "pattern": "^[a-f0-9]{64}$"
+        }
+      }
+    },
+    "approval": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "provided",
+        "valid",
+        "approved_by",
+        "approved_at",
+        "package_fingerprint"
+      ],
+      "properties": {
+        "provided": {"type": "boolean"},
+        "valid": {"type": "boolean"},
+        "approved_by": {"type": ["string", "null"]},
+        "approved_at": {"type": ["string", "null"]},
+        "package_fingerprint": {
+          "type": ["string", "null"],
+          "pattern": "^[a-f0-9]{64}$"
+        }
+      }
+    },
+    "profile": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["role", "anlagen_prefix", "start", "expected_az", "filename_policy"],
+      "properties": {
+        "role": {"type": "string", "pattern": "^[A-Z]{1,6}$"},
+        "anlagen_prefix": {"type": "string", "pattern": "^[A-Z]{1,6}$"},
+        "start": {"type": "integer", "minimum": 1},
+        "expected_az": {"type": ["string", "null"]},
+        "filename_policy": {"type": "string", "minLength": 1}
+      }
+    },
+    "totals": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["files", "bytes"],
+      "properties": {
+        "files": {"type": "integer", "minimum": 0},
+        "bytes": {"type": "integer", "minimum": 0}
+      }
+    },
+    "files": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["name", "bytes", "sha256", "kind"],
+        "properties": {
+          "name": {"type": "string", "minLength": 1, "maxLength": 90},
+          "bytes": {"type": "integer", "minimum": 0},
+          "sha256": {
+            "anyOf": [
+              {"type": "string", "pattern": "^[a-f0-9]{64}$"},
+              {"type": "null"}
+            ]
+          },
+          "kind": {"enum": ["hauptdokument", "anlage", "sonstige"]}
+        }
+      }
+    },
+    "errors": {"type": "array", "items": {"type": "string"}},
+    "warnings": {"type": "array", "items": {"type": "string"}},
+    "manual_checks": {"type": "array", "items": {"type": "string"}, "minItems": 1}
+  },
+  "allOf": [
+    {
+      "if": {"properties": {"status": {"const": "VERSANDFERTIG"}}},
+      "then": {
+        "properties": {
+          "technical_status": {"const": "BESTANDEN"},
+          "errors": {"maxItems": 0},
+          "warnings": {"maxItems": 0},
+          "manifest": {
+            "properties": {
+              "valid": {"const": true},
+              "package_fingerprint": {"type": "string", "pattern": "^[a-f0-9]{64}$"},
+              "order_sha256": {"type": "string", "pattern": "^[a-f0-9]{64}$"}
+            }
+          },
+          "approval": {
+            "properties": {
+              "provided": {"const": true},
+              "valid": {"const": true},
+              "approved_by": {"type": "string", "minLength": 1},
+              "approved_at": {"type": "string", "minLength": 1},
+              "package_fingerprint": {"type": "string", "pattern": "^[a-f0-9]{64}$"}
+            }
+          },
+          "files": {
+            "items": {
+              "properties": {
+                "sha256": {"type": "string", "pattern": "^[a-f0-9]{64}$"}
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "if": {"properties": {"status": {"const": "FREIGABE_AUSSTEHEND"}}},
+      "then": {
+        "properties": {
+          "technical_status": {"const": "BESTANDEN"},
+          "errors": {"maxItems": 0},
+          "warnings": {"maxItems": 0},
+          "approval": {"properties": {"valid": {"const": false}}}
+        }
+      }
+    }
+  ]
+}

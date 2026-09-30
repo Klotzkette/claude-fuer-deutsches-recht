@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0.0",
+  "matter": {
+    "court": "Landgericht Stuttgart",
+    "docket": "16 O 123/24",
+    "new_filing": false,
+    "role": "K",
+    "document_type": "Replik",
+    "document_date": "2026-07-14",
+    "deadline": "2026-07-15",
+    "responsible_person": "Rechtsanwältin Beispiel",
+    "signature_route": "einfach_signiert_persoenliches_beA",
+    "exhibit_prefix": "K",
+    "first_exhibit_number": 12
+  },
+  "main_document": {
+    "source": "input/Replik_final.pdf",
+    "approved_sha256": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+  },
+  "exhibits": [
+    {
+      "number": 12,
+      "source": "input/Kaufvertrag.pdf",
+      "expected_sha256": "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
+      "title": "Kaufvertrag",
+      "document_date": "2020-05-14",
+      "reference": "Replik S. 3 Abs. 2",
+      "stamp_mode": "first"
+    },
+    {
+      "number": 13,
+      "source": "input/KBA_Rueckrufschreiben.pdf",
+      "expected_sha256": "cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc",
+      "title": "KBA Rueckrufschreiben",
+      "document_date": "2021-08-03",
+      "reference": "Replik S. 5 Abs. 1",
+      "stamp_mode": "first"
+    }
+  ]
+}

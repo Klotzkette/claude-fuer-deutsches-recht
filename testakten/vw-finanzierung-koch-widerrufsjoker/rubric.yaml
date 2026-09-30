@@ -1,0 +1,57 @@
+name: vw-finanzierung-koch-widerrufsjoker
+plugin: diesel-schadensersatz
+description: >-
+  Prüfakte zu einer verbundenen VW-Fahrzeugfinanzierung mit 48 Raten,
+  Rücklastschrift, Bankauskunft und privatem Widerrufsentwurf. Bewertet werden
+  Zahlungsabgleich, Erklärungsprovenienz und Widerrufsprüfung.
+checks:
+  - id: r01-readme-vorhanden
+    check_type: file_exists
+    description: Die neutrale Fallbeschreibung ist vorhanden.
+    path: README.md
+  - id: r02-gesamt-pdf-vorhanden
+    check_type: file_exists
+    description: Das Gesamt-PDF ist vorhanden.
+    path: gesamt-pdf/vw-finanzierung-koch-widerrufsjoker_gesamt.pdf
+  - id: r03-arbeitsunterlagen
+    check_type: working_file_count
+    description: Mindestens zehn exportierbare Arbeitsunterlagen sind vorhanden.
+    min: 10
+  - id: r04-darlehensbetrag
+    check_type: text_contains
+    description: Der Darlehensvertrag enthält den Nettodarlehensbetrag.
+    path: finanzierung_darlehensvertrag.pdf
+    contains: 33.500,00 EUR
+  - id: r05-ratennachweis
+    check_type: regex_match
+    description: Der Kontoauszug reicht von der ersten bis zur letzten dokumentierten Rate.
+    path: finanzierung_kontoauszug-ratennachweis.pdf
+    pattern: '01\.10\.2018[\s\S]{0,20000}01\.09\.2022'
+  - id: r06-zahlungsjournal
+    check_type: file_exists
+    description: Das Zahlungsjournal ist als kontrollierbare Arbeitsmappe vorhanden.
+    path: finanzierung_zahlungsjournal.xlsx
+  - id: r07-saldenanfrage
+    check_type: text_contains
+    description: Die Kanzleianfrage beschreibt ihren Erklärungsumfang ausdrücklich.
+    path: korrespondenz_anfrage-saldenbestaetigung.docx
+    contains: kein Widerruf
+  - id: r08-bankantwort
+    check_type: text_contains
+    description: Die Bankantwort enthält den mitgeteilten Saldo.
+    path: korrespondenz_antwort-vw-bank.pdf
+    contains: 0,00 EUR
+  - id: r09-widerrufsentwurf
+    check_type: text_contains
+    description: Der private Widerrufsentwurf ist als Entwurf gekennzeichnet.
+    path: korrespondenz_widerrufsschreiben.docx
+    contains: ENTWURF
+  - id: p01-zahlungsabgleich
+    check_type: human_review
+    description: Vertragsplan, Rücklastschrift, erneuter Einzug, wirksame Raten, Saldo und Sicherheitenstatus werden lückenlos abgeglichen.
+  - id: p02-widerrufsrecht
+    check_type: human_review
+    description: Widerrufsinformation, Erklärungszugang, Vollerfüllung, verbundenes Geschäft und mögliche Rechtsfolgen werden anhand der maßgeblichen Rechtsprechung geprüft.
+  - id: p03-spurentrennung
+    check_type: human_review
+    description: Finanzierungsspur und technische Fahrzeugspur bleiben in Auftrag, Beweisgrundlage und Ergebnis strikt getrennt.

@@ -1,0 +1,52 @@
+name: bmw-fischer-abweisungsrisiko
+plugin: diesel-schadensersatz
+description: >-
+  Prüfakte zu einem BMW 320d F30 mit offener Motoruntervariante, begrenzter
+  Rückrufauskunft und nicht fahrzeugbezogenem Fremdmaterial. Bewertet werden
+  Evidenzqualität, Anspruchstrennung und wirtschaftliche Prozessanalyse.
+checks:
+  - id: r01-readme-vorhanden
+    check_type: file_exists
+    description: Die neutrale Fallbeschreibung ist vorhanden.
+    path: README.md
+  - id: r02-gesamt-pdf-vorhanden
+    check_type: file_exists
+    description: Das Gesamt-PDF ist vorhanden.
+    path: gesamt-pdf/bmw-fischer-abweisungsrisiko_gesamt.pdf
+  - id: r03-arbeitsunterlagen
+    check_type: working_file_count
+    description: Mindestens acht exportierbare Arbeitsunterlagen sind vorhanden.
+    min: 8
+  - id: r04-fahrzeugidentitaet
+    check_type: text_contains
+    description: Das Fahrzeugdatenblatt enthält die fallverbindliche FIN.
+    path: fahrzeug_fahrzeugdatenblatt.docx
+    contains: WBA8C5108HA123456
+  - id: r05-motorgrenze
+    check_type: regex_match
+    description: Das Fahrzeugdatenblatt benennt die B47-Familie und hält Untervariante oder Kalibrierung offen.
+    path: fahrzeug_fahrzeugdatenblatt.docx
+    pattern: 'B47[\s\S]{0,500}(Motoruntervariante|Kalibrierung|Softwarestand)'
+  - id: r06-rueckrufabfrage
+    check_type: file_exists
+    description: Die BMW-Rückrufabfrage liegt als separates Fremddokument vor.
+    path: fahrzeug_bmw-rueckrufabfrage-2026-07-14.pdf
+  - id: r07-kanzleianfrage
+    check_type: text_contains
+    description: Die anwaltliche Anfrage ist der bearbeitenden Kanzlei zugeordnet.
+    path: korrespondenz_anspruchsschreiben.docx
+    contains: Dr. Katharina Winter
+  - id: r08-chronologie
+    check_type: text_contains
+    description: Das Aktenjournal dokumentiert den Abschluss der Datenfrist.
+    path: finanzierung_aktenjournal.docx
+    contains: 29. Juli
+  - id: p01-evidenzkette
+    check_type: human_review
+    description: Kaufbeleg, Werkstattdiagnose, Onlineabfrage und Forenmaterial werden narrativ mit ihrer jeweiligen Beweisgrenze eingeordnet.
+  - id: p02-anspruchstrennung
+    check_type: human_review
+    description: Die in Betracht kommenden deliktischen Anspruchswege werden tatbestandlich und beweisrechtlich getrennt geprüft.
+  - id: p03-risiko-und-beratung
+    check_type: human_review
+    description: Verjährung, Nutzung, Restwert, Kosten und Ermittlungsoptionen werden zu einer verständlichen, ergebnisoffenen Beratung verbunden.

@@ -1,8 +1,13 @@
 {
   "schema_version": 1,
   "companion_case_slugs": [
+    "audi-ea288-weber-neuwagen",
+    "bmw-fischer-abweisungsrisiko",
+    "fiat-wohnmobil-bauer",
     "ki-hochrisiko-bewerbungsauswahl-kassel",
     "ki-transparenz-kanzlei-kommunikation-mainz",
+    "mercedes-om651-schneider-thermofenster",
+    "rueckrufregister-kba",
     "vergesellschaftung-energienetz-hessen",
     "enteignung-verkehrsflaeche-goettingen",
     "sozialversicherung-ag-organe-hannover",
@@ -12,6 +17,10 @@
     "sozialversicherung-programmierer-leipzig",
     "sozialversicherung-syndikus-versorgungswerk-hamburg",
     "statusfeststellung-gmbh-geschaeftsfuehrer-minderheit-erlangen",
-    "gesellschaftsgruender-topf-tacheles-berlin"
+    "gesellschaftsgruender-topf-tacheles-berlin",
+    "vollstreckung-vw-richter-titel",
+    "vw-ea189-hoffmann-verjaehrung-restschaden",
+    "vw-ea189-mueller-differenzschaden",
+    "vw-finanzierung-koch-widerrufsjoker"
   ]
 }

@@ -1,0 +1,70 @@
+{
+  "schema_version": "1.0.0",
+  "tool": {"name": "diesel-aktenstart", "version": "1.1.0"},
+  "root": {"name": "DEMO-EA288-001"},
+  "limits": {"max_files": 10000, "max_file_bytes": 209715200, "max_total_bytes": 21474836480},
+  "summary": {
+    "status": "STARTBEREIT",
+    "entries_total": 2,
+    "regular_files": 2,
+    "bytes_total": 48,
+    "hashed_files": 2,
+    "categories": {"fahrzeugpapiere": 1, "kauf_erwerb": 1},
+    "duplicate_groups": 0,
+    "filename_collision_groups": 0,
+    "ocr_review_files": 0,
+    "blockers": 0,
+    "warnings": 0
+  },
+  "routing": {
+    "next_skill": "01-kaltstart-aktenaufnahme",
+    "focus": ["Maschineninventar in Skill 01 übernehmen und Stammdaten mit Fundstelle und Sicherheit extrahieren."],
+    "missing_core": []
+  },
+  "documents": [
+    {
+      "id": "D-00001",
+      "path": "01_Kaufvertrag.txt",
+      "name": "01_Kaufvertrag.txt",
+      "extension": ".txt",
+      "kind": "regular",
+      "bytes": 27,
+      "sha256": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "detected_type": "text",
+      "category": "kauf_erwerb",
+      "classification_basis": "dateiname_heuristik",
+      "evidence_role": "kerndokument",
+      "text_status": "digitaltext",
+      "pages": null,
+      "duplicate_group": null,
+      "filename_collision_group": null,
+      "issues": []
+    },
+    {
+      "id": "D-00002",
+      "path": "02_Fahrzeugschein.txt",
+      "name": "02_Fahrzeugschein.txt",
+      "extension": ".txt",
+      "kind": "regular",
+      "bytes": 21,
+      "sha256": "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
+      "detected_type": "text",
+      "category": "fahrzeugpapiere",
+      "classification_basis": "dateiname_heuristik",
+      "evidence_role": "kerndokument",
+      "text_status": "digitaltext",
+      "pages": null,
+      "duplicate_group": null,
+      "filename_collision_group": null,
+      "issues": []
+    }
+  ],
+  "duplicate_groups": [],
+  "filename_collision_groups": [],
+  "issues": [],
+  "notices": [
+    "Kategorie und Beweisrolle sind vorsichtige Dateinamenheuristiken, keine Inhalts- oder Rechtsfeststellungen.",
+    "Hash, Größe, Dateikopf und Pfad sind Maschinenbefunde; Lesbarkeit, Vollständigkeit, Echtheit und Beweiswert bleiben fachlich zu prüfen.",
+    "Das Manifest enthält bewusst keinen absoluten Quellpfad und keinen Laufzeitstempel."
+  ]
+}

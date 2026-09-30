@@ -1,0 +1,86 @@
+{
+  "schema_version": "1.0.0",
+  "aktenkopf": {
+    "fall_id": "DEMO-EA288-001",
+    "herkunftssystem": "Anonymisierte Demo-Akte",
+    "fremd_aktenzeichen": null,
+    "exportdatum": "2026-07-09",
+    "bearbeitungsampel": "gelb",
+    "quellenstand": "2026-07-09"
+  },
+  "fahrzeug": {
+    "fin": "ANONYMISIERT",
+    "hersteller": "Beispielhersteller",
+    "modell": "Beispielmodell",
+    "motorcode": "EA288",
+    "erstzulassung": "2019-06-01",
+    "typgenehmigung": null,
+    "kba_rueckruf": null
+  },
+  "kauf": {
+    "kaufdatum": "2020-02-14",
+    "kaufpreis": 32000.0,
+    "waehrung": "EUR",
+    "verkaeufer": "Beispielhändler",
+    "kaeufer": ["Anonymisiert"],
+    "finanzierung": null,
+    "kilometerstand_kauf": 12000
+  },
+  "forderungen": [
+    {
+      "forderung_id": "F-001",
+      "anspruchsgrundlage": "§ 823 Abs. 2 BGB in Verbindung mit EG-FGV",
+      "spur": "differenzschaden",
+      "betrag": 3200.0,
+      "waehrung": "EUR",
+      "status": "vorlaeufig",
+      "quelle": "Kaufvertrag und vorläufige Anspruchstriage"
+    }
+  ],
+  "zahlungen": [],
+  "fristen": [
+    {
+      "frist_id": "FR-001",
+      "datum": null,
+      "typ": "Verjährungsprüfung",
+      "status": "unklar",
+      "quelle": "Kaufdatum; Kenntnisstand noch offen"
+    }
+  ],
+  "dokumente": [
+    {
+      "dokument_id": "D-001",
+      "datei": "kaufvertrag.pdf",
+      "dokumenttyp": "Kaufvertrag",
+      "datum": "2020-02-14",
+      "quelle": "Upload",
+      "datenschutzklasse": "vertraulich",
+      "konfliktstatus": "kein-konflikt",
+      "sha256": null
+    }
+  ],
+  "beweise": [
+    {
+      "beweis_id": "B-001",
+      "tatsache": "Kaufpreis und Kaufdatum",
+      "beweismittel": "Kaufvertrag",
+      "quelle": "D-001",
+      "status": "belegt"
+    }
+  ],
+  "risiken": [
+    {
+      "risiko": "Betroffenheit und Verjährung noch nicht abschließend geprüft",
+      "ampel": "gelb",
+      "begruendung": "Typgenehmigung, Rückrufstatus und Kenntniszeitpunkt fehlen."
+    }
+  ],
+  "naechste_schritte": [
+    {
+      "schritt": "Betroffenheit und Verjährung vertiefen",
+      "verantwortung": "Fachbearbeitung",
+      "frist": null,
+      "status": "offen"
+    }
+  ]
+}

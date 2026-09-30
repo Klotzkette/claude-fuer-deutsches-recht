@@ -1,0 +1,215 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/Klotzkette/dieselgate/schema/fallakte/1.0.0",
+  "title": "Dieselgate Fallakte",
+  "description": "Versionierter neutraler Austauschvertrag für eine Diesel-Schadensersatzakte.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "aktenkopf",
+    "fahrzeug",
+    "kauf",
+    "forderungen",
+    "zahlungen",
+    "fristen",
+    "dokumente",
+    "beweise",
+    "risiken",
+    "naechste_schritte"
+  ],
+  "properties": {
+    "schema_version": {
+      "const": "1.0.0"
+    },
+    "aktenkopf": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "fall_id",
+        "herkunftssystem",
+        "fremd_aktenzeichen",
+        "exportdatum",
+        "bearbeitungsampel",
+        "quellenstand"
+      ],
+      "properties": {
+        "fall_id": {"type": "string", "minLength": 1},
+        "herkunftssystem": {"type": ["string", "null"]},
+        "fremd_aktenzeichen": {"type": ["string", "null"]},
+        "exportdatum": {"type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$"},
+        "bearbeitungsampel": {"enum": ["gruen", "gelb", "rot"]},
+        "quellenstand": {"type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$"}
+      }
+    },
+    "fahrzeug": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "fin",
+        "hersteller",
+        "modell",
+        "motorcode",
+        "erstzulassung",
+        "typgenehmigung",
+        "kba_rueckruf"
+      ],
+      "properties": {
+        "fin": {"type": ["string", "null"]},
+        "hersteller": {"type": ["string", "null"]},
+        "modell": {"type": ["string", "null"]},
+        "motorcode": {"type": ["string", "null"]},
+        "erstzulassung": {"type": ["string", "null"], "pattern": "^\\d{4}-\\d{2}-\\d{2}$"},
+        "typgenehmigung": {"type": ["string", "null"]},
+        "kba_rueckruf": {"type": ["string", "null"]}
+      }
+    },
+    "kauf": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "kaufdatum",
+        "kaufpreis",
+        "waehrung",
+        "verkaeufer",
+        "kaeufer",
+        "finanzierung",
+        "kilometerstand_kauf"
+      ],
+      "properties": {
+        "kaufdatum": {"type": ["string", "null"], "pattern": "^\\d{4}-\\d{2}-\\d{2}$"},
+        "kaufpreis": {"type": ["number", "null"], "minimum": 0},
+        "waehrung": {"const": "EUR"},
+        "verkaeufer": {"type": ["string", "null"]},
+        "kaeufer": {"type": "array", "items": {"type": "string"}},
+        "finanzierung": {"type": ["string", "null"]},
+        "kilometerstand_kauf": {"type": ["number", "null"], "minimum": 0}
+      }
+    },
+    "forderungen": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "forderung_id",
+          "anspruchsgrundlage",
+          "spur",
+          "betrag",
+          "waehrung",
+          "status",
+          "quelle"
+        ],
+        "properties": {
+          "forderung_id": {"type": "string", "minLength": 1},
+          "anspruchsgrundlage": {"type": "string", "minLength": 1},
+          "spur": {"enum": ["grosser-schadensersatz", "differenzschaden", "restschadensersatz", "widerruf", "kosten", "vollstreckung", "sonstige"]},
+          "betrag": {"type": ["number", "null"], "minimum": 0},
+          "waehrung": {"const": "EUR"},
+          "status": {"enum": ["vorlaeufig", "geprueft", "streitig", "erledigt"]},
+          "quelle": {"type": "string", "minLength": 1}
+        }
+      }
+    },
+    "zahlungen": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["zahlung_id", "datum", "betrag", "waehrung", "art", "quelle"],
+        "properties": {
+          "zahlung_id": {"type": "string", "minLength": 1},
+          "datum": {"type": ["string", "null"], "pattern": "^\\d{4}-\\d{2}-\\d{2}$"},
+          "betrag": {"type": "number"},
+          "waehrung": {"const": "EUR"},
+          "art": {"type": "string", "minLength": 1},
+          "quelle": {"type": "string", "minLength": 1}
+        }
+      }
+    },
+    "fristen": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["frist_id", "datum", "typ", "status", "quelle"],
+        "properties": {
+          "frist_id": {"type": "string", "minLength": 1},
+          "datum": {"type": ["string", "null"], "pattern": "^\\d{4}-\\d{2}-\\d{2}$"},
+          "typ": {"type": "string", "minLength": 1},
+          "status": {"enum": ["offen", "vorfrist", "erledigt", "unklar", "abgelaufen"]},
+          "quelle": {"type": "string", "minLength": 1}
+        }
+      }
+    },
+    "dokumente": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "dokument_id",
+          "datei",
+          "dokumenttyp",
+          "datum",
+          "quelle",
+          "datenschutzklasse",
+          "konfliktstatus",
+          "sha256"
+        ],
+        "properties": {
+          "dokument_id": {"type": "string", "minLength": 1},
+          "datei": {"type": "string", "minLength": 1},
+          "dokumenttyp": {"type": "string", "minLength": 1},
+          "datum": {"type": ["string", "null"], "pattern": "^\\d{4}-\\d{2}-\\d{2}$"},
+          "quelle": {"type": "string", "minLength": 1},
+          "datenschutzklasse": {"enum": ["oeffentlich", "intern", "vertraulich", "besonders-sensibel"]},
+          "konfliktstatus": {"enum": ["kein-konflikt", "ungeklaert", "widerspruch"]},
+          "sha256": {"type": ["string", "null"], "pattern": "^[0-9a-f]{64}$"}
+        }
+      }
+    },
+    "beweise": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["beweis_id", "tatsache", "beweismittel", "quelle", "status"],
+        "properties": {
+          "beweis_id": {"type": "string", "minLength": 1},
+          "tatsache": {"type": "string", "minLength": 1},
+          "beweismittel": {"type": "string", "minLength": 1},
+          "quelle": {"type": "string", "minLength": 1},
+          "status": {"enum": ["belegt", "teilbelegt", "offen", "bestritten"]}
+        }
+      }
+    },
+    "risiken": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["risiko", "ampel", "begruendung"],
+        "properties": {
+          "risiko": {"type": "string", "minLength": 1},
+          "ampel": {"enum": ["gruen", "gelb", "rot"]},
+          "begruendung": {"type": "string", "minLength": 1}
+        }
+      }
+    },
+    "naechste_schritte": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["schritt", "verantwortung", "frist", "status"],
+        "properties": {
+          "schritt": {"type": "string", "minLength": 1},
+          "verantwortung": {"type": "string", "minLength": 1},
+          "frist": {"type": ["string", "null"], "pattern": "^\\d{4}-\\d{2}-\\d{2}$"},
+          "status": {"enum": ["offen", "in-arbeit", "blockiert", "erledigt"]}
+        }
+      }
+    }
+  }
+}

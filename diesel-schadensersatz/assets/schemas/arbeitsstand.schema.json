@@ -1,0 +1,80 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/Klotzkette/dieselgate/diesel-schadensersatz/assets/schemas/arbeitsstand.schema.json",
+  "title": "Dieselgate Arbeitsstand – finaler V2-Vertrag",
+  "description": "Persistierbarer, verlustfreier Fallstand. Ein freigegebenes Versandpaket benötigt stets den stabilen Connector-Namespace und die daraus deterministisch gebildete action_id; die eng begrenzte Pre-Append-Ausnahme steht in arbeitsstand-skill21-candidate.schema.json.",
+  "$comment": "required und die Property-Namen bilden zugleich die von scripts/orchestrate.py gelesene Runtime-Projektion ab und müssen mit dem Basisvertrag synchron bleiben.",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "revision",
+    "previous_state_sha256",
+    "state_status",
+    "fall_id",
+    "modus",
+    "ziel",
+    "fallkern",
+    "tatsachen",
+    "konflikte",
+    "blocker",
+    "gates",
+    "rechtsstand",
+    "erledigte_skills",
+    "versandfreigabe",
+    "aktiver_skill",
+    "naechster_schritt",
+    "abschluss",
+    "delta"
+  ],
+  "properties": {
+    "schema_version": {},
+    "revision": {},
+    "previous_state_sha256": {},
+    "state_status": {},
+    "fall_id": {},
+    "modus": {},
+    "ziel": {},
+    "fallkern": {},
+    "tatsachen": {},
+    "konflikte": {},
+    "blocker": {},
+    "gates": {},
+    "rechtsstand": {},
+    "erledigte_skills": {},
+    "versandfreigabe": {},
+    "aktiver_skill": {},
+    "naechster_schritt": {},
+    "abschluss": {},
+    "delta": {}
+  },
+  "allOf": [
+    {
+      "$ref": "arbeitsstand-basis.schema.json"
+    },
+    {
+      "if": {
+        "properties": {
+          "versandfreigabe": {
+            "properties": {"status": {"const": "freigegeben"}},
+            "required": ["status"]
+          }
+        },
+        "required": ["versandfreigabe"]
+      },
+      "then": {
+        "properties": {
+          "versandfreigabe": {
+            "properties": {
+              "connector_namespace": {
+                "type": "string",
+                "pattern": "^bea-egvp:prod:[A-Za-z0-9._@-]+$"
+              },
+              "action_id": {"type": "string", "pattern": "^SUBMIT-[a-f0-9]{32}$"}
+            },
+            "required": ["connector_namespace", "action_id"]
+          }
+        }
+      }
+    }
+  ]
+}

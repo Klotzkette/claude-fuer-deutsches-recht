@@ -1,0 +1,142 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/Klotzkette/dieselgate/schemas/bea-paket-manifest.schema.json",
+  "title": "beA-Paketmanifest",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "created_at",
+    "order_sha256",
+    "matter",
+    "main_document",
+    "exhibits",
+    "files",
+    "package_fingerprint"
+  ],
+  "properties": {
+    "schema_version": {"const": "1.1.0"},
+    "created_at": {
+      "type": "string",
+      "format": "date-time",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}(?:\\.\\d{1,6})?(?:Z|[+-]\\d{2}:\\d{2})$"
+    },
+    "order_sha256": {"type": "string", "pattern": "^[a-f0-9]{64}$"},
+    "matter": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "court",
+        "docket",
+        "new_filing",
+        "role",
+        "document_type",
+        "document_date",
+        "deadline",
+        "responsible_person",
+        "signature_route",
+        "exhibit_prefix",
+        "first_exhibit_number"
+      ],
+      "properties": {
+        "court": {"type": "string", "minLength": 1, "maxLength": 160},
+        "docket": {"type": ["string", "null"], "minLength": 1, "maxLength": 80},
+        "new_filing": {"type": "boolean"},
+        "role": {"type": "string", "pattern": "^[A-Z]{1,6}$"},
+        "document_type": {"type": "string", "minLength": 1, "maxLength": 48},
+        "document_date": {"type": "string", "format": "date"},
+        "deadline": {"type": ["string", "null"], "format": "date"},
+        "responsible_person": {"type": "string", "minLength": 1, "maxLength": 160},
+        "signature_route": {
+          "enum": ["qeS", "einfach_signiert_persoenliches_beA", "noch_festzulegen"]
+        },
+        "exhibit_prefix": {"type": "string", "pattern": "^[A-Z]{1,6}$"},
+        "first_exhibit_number": {"type": "integer", "minimum": 1, "maximum": 999999}
+      }
+    },
+    "main_document": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "source_name",
+        "original_name",
+        "versand_name",
+        "input_sha256",
+        "versand_sha256",
+        "bytes"
+      ],
+      "properties": {
+        "source_name": {"type": "string", "minLength": 1, "maxLength": 255, "pattern": "^[^/\\\\]+$"},
+        "original_name": {"const": "00_Hauptdokument_Original.pdf"},
+        "versand_name": {"type": "string", "pattern": "^[A-Za-z0-9_-]+\\.pdf$", "maxLength": 90},
+        "input_sha256": {"type": "string", "pattern": "^[a-f0-9]{64}$"},
+        "versand_sha256": {"type": "string", "pattern": "^[a-f0-9]{64}$"},
+        "bytes": {"type": "integer", "minimum": 1}
+      }
+    },
+    "exhibits": {
+      "type": "array",
+      "maxItems": 999,
+      "uniqueItems": true,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "order",
+          "number",
+          "label",
+          "title",
+          "document_date",
+          "reference",
+          "source_name",
+          "original_name",
+          "versand_name",
+          "input_sha256",
+          "versand_sha256",
+          "bytes",
+          "input_pages",
+          "output_pages",
+          "stamp_mode",
+          "visual_qa_required"
+        ],
+        "properties": {
+          "order": {"type": "integer", "minimum": 1},
+          "number": {"type": "integer", "minimum": 1, "maximum": 999999},
+          "label": {"type": "string", "pattern": "^Anlage [A-Z]{1,6}[1-9][0-9]{0,5}$"},
+          "title": {"type": "string", "minLength": 1, "maxLength": 100},
+          "document_date": {"type": ["string", "null"], "format": "date"},
+          "reference": {"type": "string", "minLength": 1, "maxLength": 240},
+          "source_name": {"type": "string", "minLength": 1, "maxLength": 255, "pattern": "^[^/\\\\]+$"},
+          "original_name": {"type": "string", "pattern": "^\\d{2,3}_Anlage_[A-Z]{1,6}[1-9][0-9]{0,5}_Original\\.pdf$", "maxLength": 255},
+          "versand_name": {"type": "string", "pattern": "^[A-Za-z0-9_-]+\\.pdf$", "maxLength": 90},
+          "input_sha256": {"type": "string", "pattern": "^[a-f0-9]{64}$"},
+          "versand_sha256": {"type": "string", "pattern": "^[a-f0-9]{64}$"},
+          "bytes": {"type": "integer", "minimum": 1},
+          "input_pages": {"type": "integer", "minimum": 1},
+          "output_pages": {"type": "integer", "minimum": 1},
+          "stamp_mode": {"enum": ["first", "all", "cover", "already_stamped"]},
+          "visual_qa_required": {"const": true}
+        }
+      }
+    },
+    "files": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 1000,
+      "uniqueItems": true,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["name", "kind", "label", "bytes", "sha256"],
+        "properties": {
+          "name": {"type": "string", "pattern": "^[A-Za-z0-9_-]+\\.pdf$", "maxLength": 90},
+          "kind": {"enum": ["hauptdokument", "anlage"]},
+          "label": {"type": ["string", "null"]},
+          "bytes": {"type": "integer", "minimum": 1},
+          "sha256": {"type": "string", "pattern": "^[a-f0-9]{64}$"}
+        }
+      }
+    },
+    "package_fingerprint": {"type": "string", "pattern": "^[a-f0-9]{64}$"}
+  }
+}

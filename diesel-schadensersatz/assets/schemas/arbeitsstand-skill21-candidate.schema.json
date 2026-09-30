@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/Klotzkette/dieselgate/diesel-schadensersatz/assets/schemas/arbeitsstand-skill21-candidate.schema.json",
+  "title": "Dieselgate Arbeitsstand – Skill-21-Pre-Append-Candidate",
+  "description": "Nur für die explizite Prüfung unmittelbar vor dem Skill-21-Completion-Append. Bei freigegebenem Versand dürfen connector_namespace und action_id noch null sein; der privilegierte Host bindet beide Felder vor dem Completion-Append. Der persistierte Endstand muss gegen arbeitsstand.schema.json validieren.",
+  "type": "object",
+  "allOf": [
+    {
+      "$ref": "arbeitsstand-basis.schema.json"
+    },
+    {
+      "properties": {
+        "versandfreigabe": {
+          "properties": {
+            "status": {"const": "freigegeben"},
+            "connector_namespace": {
+              "anyOf": [
+                {"type": "null"},
+                {"type": "string", "pattern": "^bea-egvp:prod:[A-Za-z0-9._@-]+$"}
+              ]
+            },
+            "action_id": {
+              "anyOf": [
+                {"type": "null"},
+                {"type": "string", "pattern": "^SUBMIT-[a-f0-9]{32}$"}
+              ]
+            }
+          },
+          "required": ["status", "connector_namespace", "action_id"]
+        }
+      },
+      "required": ["versandfreigabe"]
+    }
+  ]
+}

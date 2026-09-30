@@ -1,3 +1,21 @@
+# v445.19.0 - Großes Dieselgate-Plugin mit neun Aktenpaketen
+
+## 1. Eigenständiges Plugin für Dieselschadensersatz
+
+Das neue Plugin `diesel-schadensersatz` übernimmt den geprüften Stand des eigenständigen Dieselgate-Projekts v1.43.1. Einundzwanzig aufeinander abgestimmte Skills führen von Aktenstart, Beweis- und Fristenprüfung über Anspruchstrennung, Klage und Replik bis zum beA-Paket und zur Vollstreckung. Das Fünfjahreskorpus, das Rechtsstands-Cockpit und die Abfragewerkzeuge bleiben als geschlossene Arbeitsumgebung erhalten. Werkstatt und Schnellstart sind eigenständig nutzbar und für den zentralen Prompt-Download geschützt.
+
+## 2. Rechtsstand und belastbare Quellenführung
+
+Die Rechtsprechungs- und Verfahrensübersicht unterscheidet geltende Entscheidungen, bloße Schlussanträge, neun weiterhin anhängige Vorlagen, gestrichene Verfahren und das seit 21.07.2026 ohne veröffentlichte Abschlussentscheidung geschlossene Verfahren `C-408/25`. Neue BGH-Anker vom 26.08.2026 und die genaue Differenzschadensformel sind mit Reichweitengrenzen eingearbeitet. Fundstellen, ECLI, Entscheidungsart und Status werden durch Selbsttests und Korpusprüfungen abgesichert; das Plugin kennzeichnet Unsicherheiten, statt aus einer Modellbezeichnung oder einem Fahrzeugmerkmal ein Ergebnis abzuleiten.
+
+## 3. Neun native Testakten ohne eingebaute Lösung
+
+Acht kontrastierende Mandats- und Prozessakten sowie ein KBA-Referenzpaket ergänzen den zentralen Testaktenbestand. Sie decken EA189, EA288, BMW, Mercedes OM651, Fiat-Wohnmobil, Finanzierung, Vollstreckung und Rückrufdaten ab. Die Arbeitsunterlagen liegen in nativen Formaten vor; interne Lösungsvermerke, Freigabeentscheidungen und abschließende Antwortschreiben sind nicht Teil der Zielakten. Jede Akte erhält eine neutrale Aufgabenbeschreibung, ein Gesamt-PDF sowie getrennte Original- und Einzel-PDF-Archive im gleichversionierten Akten-Release.
+
+## 4. Integration und Veröffentlichung
+
+Das Plugin ist in Marketplace, Pluginverzeichnis, Skillkatalog, Promptprofilen und Release-Routing eingebunden. Die neue Veröffentlichung wird als v445.19.0 geführt. Die Plugin-Installation bleibt schlank; die umfangreichen Testakten werden nach dem bestehenden Repositorymodell als zugeordnete Release-Downloads veröffentlicht und aus der Plugin-Dokumentation unmittelbar erschlossen.
+
 # v445.18.1 - Aktuelle Pflegeentscheidungen mit klaren Anwendungsgrenzen
 
 ## 1. Rechtsprechung in den konkreten Arbeitsabläufen

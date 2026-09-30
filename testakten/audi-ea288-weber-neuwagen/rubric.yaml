@@ -1,0 +1,48 @@
+name: audi-ea288-weber-neuwagen
+plugin: diesel-schadensersatz
+description: >-
+  Prüfakte zu einem Audi A4 B9 mit EA288, belastbarer Fahrzeugidentität und
+  technisch mehrdeutigen Hinweisen. Bewertet werden Quellenkritik,
+  Anspruchstrennung, Beweisplanung und wirtschaftliche Einordnung.
+checks:
+  - id: r01-readme-vorhanden
+    check_type: file_exists
+    description: Die neutrale Fallbeschreibung ist vorhanden.
+    path: README.md
+  - id: r02-gesamt-pdf-vorhanden
+    check_type: file_exists
+    description: Das Gesamt-PDF ist vorhanden.
+    path: gesamt-pdf/audi-ea288-weber-neuwagen_gesamt.pdf
+  - id: r03-arbeitsunterlagen
+    check_type: working_file_count
+    description: Mindestens acht exportierbare Arbeitsunterlagen sind vorhanden.
+    min: 8
+  - id: r04-fin-im-kaufvertrag
+    check_type: text_contains
+    description: Der Kaufvertrag trägt die fallverbindliche FIN.
+    path: kaufvertrag_kaufvertrag.pdf
+    contains: WAUZZZ8W0JA098765
+  - id: r05-motorkennung
+    check_type: text_contains
+    description: Das Fahrzeugdatenblatt dokumentiert den Motorkennbuchstaben DETA.
+    path: fahrzeug_fahrzeugdatenblatt.docx
+    contains: DETA
+  - id: r06-neutrale-auskunftsanfrage
+    check_type: text_contains
+    description: Die Auskunftsanfrage kennzeichnet die offene technische Tatsachengrundlage.
+    path: korrespondenz_technische-auskunftsanfrage.docx
+    contains: keine Behauptung
+  - id: r07-herstellerbezug
+    check_type: text_contains
+    description: Die Herstellerantwort lässt sich der konkreten Anfrage zuordnen.
+    path: korrespondenz_herstellerantwort.pdf
+    contains: 08.07.2026
+  - id: p01-beweiswert
+    check_type: human_review
+    description: Fremdfoto, Verbrauchsbeobachtung, Werkstattaussage und Herstellerantwort werden jeweils nach Herkunft, Aussage und Grenze gewürdigt.
+  - id: p02-anspruch-und-prozess
+    check_type: human_review
+    description: Materielle Anspruchsprüfung, Primärvortrag, sekundäre Darlegungslast und Sachverständigenbeweis werden methodisch getrennt.
+  - id: p03-wirtschaftlichkeit
+    check_type: human_review
+    description: Nutzung, Restwert, möglicher Schadenskorridor und Kostenrisiko werden nachvollziehbar geprüft, ohne eine unbelegte Forderung zu erzeugen.

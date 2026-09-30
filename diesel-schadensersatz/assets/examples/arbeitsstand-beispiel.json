@@ -1,0 +1,108 @@
+{
+  "schema_version": "2.0.0",
+  "revision": 1,
+  "previous_state_sha256": null,
+  "state_status": "aktiv",
+  "fall_id": "beispiel-ea288-2026",
+  "modus": "SCHNELL",
+  "ziel": "Die Anspruchsspur bestimmen und nur die entscheidungserheblichen Beleglücken benennen.",
+  "fallkern": {
+    "rolle": "Käuferin und Anspruchstellerin",
+    "fahrzeug": "Audi A4 Avant 2.0 TDI, Euro 6",
+    "fin": "WAUZZZ8K0GA000001",
+    "motorcode": "EA288, genaue Variante offen",
+    "kaufdatum": "2017-04-12",
+    "kaufpreis": "31900.00 EUR",
+    "verfahren": "vorgerichtliche Erstprüfung"
+  },
+  "tatsachen": [
+    {
+      "id": "F1",
+      "aussage": "Der Kaufpreis betrug 31.900,00 EUR.",
+      "status": "belegt",
+      "fundstellen": [
+        {
+          "dokument_id": "D01",
+          "stelle": "Kaufvertrag, Seite 1",
+          "sha256": null,
+          "pruefstatus": "original_geprueft"
+        }
+      ]
+    },
+    {
+      "id": "F2",
+      "aussage": "Ein fahrzeugbezogener KBA-Rückruf ist bislang nicht belegt.",
+      "status": "offen",
+      "fundstellen": []
+    }
+  ],
+  "konflikte": [],
+  "blocker": [
+    {
+      "id": "B1",
+      "scope": "externe_verwendung",
+      "grund": "Motorvariante, Softwarestand und fahrzeugbezogener Maßnahmenstatus sind noch offen.",
+      "benoetigt": "CoC oder Zulassungsbescheinigung und ein fahrzeugbezogener Maßnahmenbeleg",
+      "basis_ids": ["F2"]
+    }
+  ],
+  "gates": {
+    "frist": {"status": "gelb", "grund": "Kenntnis- und Zugangsdaten sind noch nicht vollständig belegt.", "basis_ids": []},
+    "betroffenheit": {"status": "gelb", "grund": "Die konkrete Motorvariante und Maßnahme sind offen.", "basis_ids": ["F2", "B1"]},
+    "anspruch": {"status": "gelb", "grund": "Die Anspruchswahl hängt noch von Betroffenheit und Frist ab.", "basis_ids": ["F2", "B1"]},
+    "schaden": {"status": "gelb", "grund": "Aktueller Kilometerstand und Bezifferungsstichtag fehlen.", "basis_ids": []},
+    "zustaendigkeit": {"status": "nicht_relevant", "grund": "Im vorgerichtlichen Prüfstadium noch nicht entscheidungserheblich.", "basis_ids": []},
+    "vertretung": {"status": "nicht_relevant", "grund": "Noch keine verfahrenseinleitende Handlung.", "basis_ids": []},
+    "freigabe": {"status": "rot", "grund": "Eine externe Rechtsfassung ist wegen offener Betroffenheit nicht freigegeben.", "basis_ids": ["B1"]}
+  },
+  "rechtsstand": {
+    "geprueft_am": "2026-08-26",
+    "pruefstatus": "lokaler_snapshot",
+    "reichweite": "Lokaler Korpusstand für die Ersttriage; vor externer Verwendung amtlich live prüfen.",
+    "anker": [],
+    "normanker": []
+  },
+  "erledigte_skills": [
+    {
+      "skill": "01",
+      "run_id": "RUN-01-beispiel-intake-001",
+      "supersedes": null,
+      "reuse_status": "ausstehend",
+      "result_state_sha256": null,
+      "auftrag_sha256": null,
+      "external_input_sha256": null,
+      "completion_sha256": null,
+      "result_refs": [
+        {"typ": "state_fakt", "referenz": "F1", "sha256": null, "fundort": null},
+        {"typ": "state_fakt", "referenz": "F2", "sha256": null, "fundort": null}
+      ],
+      "erledigt_am": "2026-08-26T10:30:00+02:00",
+      "rechtsstand_am": null
+    }
+  ],
+  "versandfreigabe": {
+    "status": "nicht_vorhanden",
+    "paket_fingerprint_sha256": null,
+    "freigabe_revision": null,
+    "recipient_id": null,
+    "connector_namespace": null,
+    "action_id": null
+  },
+  "aktiver_skill": "04",
+  "naechster_schritt": {
+    "skill": "04",
+    "grund": "Motorvariante, Softwarestand und fahrzeugbezogener Maßnahmenstatus sind für die Anspruchswahl noch offen.",
+    "benoetigte_eingaben": ["CoC oder Zulassungsbescheinigung", "aktueller Software- oder Maßnahmenstand"]
+  },
+  "abschluss": {
+    "terminal": false,
+    "grund": null
+  },
+  "delta": {
+    "von_revision": null,
+    "neue_fakten_ids": ["F1", "F2"],
+    "geaenderte_gates": ["betroffenheit", "anspruch"],
+    "geaenderte_pfade": [],
+    "hinweis": "Der Intake ist abgeschlossen; eine erneute Aktenaufnahme ist ohne neue Eingabe nicht erforderlich."
+  }
+}

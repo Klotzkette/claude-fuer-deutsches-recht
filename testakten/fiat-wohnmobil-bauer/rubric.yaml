@@ -1,0 +1,53 @@
+name: fiat-wohnmobil-bauer
+plugin: diesel-schadensersatz
+description: >-
+  Prüfakte zu einem mehrstufig genehmigten Fiat-Ducato-Wohnmobil. Bewertet
+  werden Fahrzeug- und Rollenidentität, technische Beweisgrenzen,
+  internationale Zuständigkeit und alternative Nutzungsmethoden.
+checks:
+  - id: r01-readme-vorhanden
+    check_type: file_exists
+    description: Die neutrale Fallbeschreibung ist vorhanden.
+    path: README.md
+  - id: r02-gesamt-pdf-vorhanden
+    check_type: file_exists
+    description: Das Gesamt-PDF ist vorhanden.
+    path: gesamt-pdf/fiat-wohnmobil-bauer_gesamt.pdf
+  - id: r03-arbeitsunterlagen
+    check_type: working_file_count
+    description: Mindestens acht exportierbare Arbeitsunterlagen sind vorhanden.
+    min: 8
+  - id: r04-fin-im-kaufvertrag
+    check_type: text_contains
+    description: Der Kaufvertrag enthält die fallverbindliche FIN.
+    path: kaufvertrag_kaufvertrag.pdf
+    contains: ZFA25000005611340
+  - id: r05-mehrstufenidentitaet
+    check_type: text_contains
+    description: Das Fahrzeugdatenblatt enthält die Aufbau-Seriennummer.
+    path: fahrzeug_fahrzeugdatenblatt.docx
+    contains: DT19-7057-8842
+  - id: r06-endfahrzeugklasse
+    check_type: regex_match
+    description: Rechnung und Übergabeunterlage weisen die Endfahrzeugklasse und Aufbauart aus.
+    path: kaufvertrag_rechnung-und-uebergabe.pdf
+    pattern: 'M1[\s\S]{0,300}(SA|Wohnmobil)'
+  - id: r07-fahrzeugdatenanfrage
+    check_type: text_contains
+    description: Die Fahrzeugdaten- und Maßnahmenanfrage liegt als eigenes Aktenstück vor.
+    path: korrespondenz_fahrzeugdaten-und-massnahmenanfrage.docx
+    contains: 10. Juli 2026
+  - id: r08-herstellerantwort
+    check_type: text_contains
+    description: Die Herstellerantwort benennt die europäische Herstellerin.
+    path: korrespondenz_antwort-hersteller.pdf
+    contains: Stellantis Europe S.p.A.
+  - id: p01-identitaet-und-rollen
+    check_type: human_review
+    description: Basisfahrzeug, Aufbau, Genehmigungsstufen, Käufer, Halter und beteiligte Gesellschaften werden sauber getrennt.
+  - id: p02-recht-und-wirtschaft
+    check_type: human_review
+    description: Anspruchsgrundlagen, Zuständigkeit, Verjährung, Kilometer- und Zeitmethode, Restwert und Kosten werden fallbezogen geprüft.
+  - id: p03-technischer-naechster-schritt
+    check_type: human_review
+    description: Eine mögliche technische Identifikationsstufe wird in Umfang, Eingriffsgrenzen, Kosten und Freigabe nachvollziehbar beschrieben.
