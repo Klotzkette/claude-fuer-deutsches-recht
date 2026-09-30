@@ -1,3 +1,7 @@
+# v445.16.1 - Release-Prüfung für die erweiterten Aktenpakete
+
+Die Routingtests prüfen die elf vorgesehenen Akten im Begleit-Release und verwenden für den Grenzfall mit 1.003 Assets eine eigene feste Testkonfiguration. Dadurch bleiben die Größen- und Vollständigkeitsprüfungen erhalten, ohne von einer veralteten Zahl realer Akten auszugehen. Der erste Release-Build von v445.16.0 wurde vor der ZIP-Erstellung durch diese alte Testerwartung gestoppt; fachliche Inhalte und native Testakten bleiben unverändert.
+
 # v445.16.0 - Sozialversicherungspflicht mit zehn Skills und sechs Fallakten
 
 ## 1. Eigenständiges Plugin mit vollständiger Prüfung

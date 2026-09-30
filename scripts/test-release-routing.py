@@ -12,6 +12,7 @@ import tempfile
 import unittest
 import zipfile
 from contextlib import redirect_stdout, redirect_stderr
+from functools import partial
 from pathlib import Path
 from unittest.mock import patch
 
@@ -41,6 +42,13 @@ DOWNLOADS = load("validate-testakten-readme-downloads")
 SHA = "a" * 40
 VERSION = "777.2.3"
 TAG = f"akten-v{VERSION}"
+FIXTURE_CASES = ("fixture-alpha", "fixture-beta", "fixture-gamma", "fixture-delta")
+FIXTURE_ASSET_NAMES = {
+    "testakte-fixture-alpha.zip", "testakte-fixture-alpha-einzelpdfs.zip",
+    "testakte-fixture-beta.zip", "testakte-fixture-beta-einzelpdfs.zip",
+    "testakte-fixture-gamma.zip", "testakte-fixture-gamma-einzelpdfs.zip",
+    "testakte-fixture-delta.zip", "testakte-fixture-delta-einzelpdfs.zip",
+}
 
 
 class Fixture(unittest.TestCase):
@@ -55,8 +63,11 @@ class Fixture(unittest.TestCase):
         self.dist = self.root / "dist"
         self.dist.mkdir()
         self.staging = self.root / "staging"
-        self.slugs = R.companion_cases()
-        self.names = R.companion_asset_names(self.slugs)
+        # Verhaltens- und Grenztests bleiben von produktiven Erweiterungen unabhängig.
+        self.config = self.root / "fixture-routes.json"
+        self.config.write_text(json.dumps({"schema_version": 1, "companion_case_slugs": FIXTURE_CASES}))
+        self.slugs = R.companion_cases(self.config)
+        self.names = set(FIXTURE_ASSET_NAMES)
         self.empty_config = self.root / "no-routes.json"
         self.empty_config.write_text(json.dumps({"schema_version": 1, "companion_case_slugs": []}))
 
@@ -78,31 +89,66 @@ class Fixture(unittest.TestCase):
         write_checksums(self.dist)
 
 
-class RoutingTests(Fixture):
-    def test_exactly_four_cases_and_eight_zips(self):
-        self.assertEqual(set(self.slugs), {
+class RepositoryRoutingTests(unittest.TestCase):
+    def test_expected_eleven_cases_and_twenty_two_zips(self):
+        expected = {
             "ki-hochrisiko-bewerbungsauswahl-kassel", "ki-transparenz-kanzlei-kommunikation-mainz",
             "vergesellschaftung-energienetz-hessen", "enteignung-verkehrsflaeche-goettingen",
-        })
-        self.assertEqual(len(self.names), 8)
+            "sozialversicherung-ag-organe-hannover",
+            "sozialversicherung-gmbh-fuenfzig-prozent-erfurt",
+            "sozialversicherung-gmbh-zwanzig-prozent-berlin",
+            "sozialversicherung-musikakademie-prenzlauer-berg",
+            "sozialversicherung-programmierer-leipzig",
+            "sozialversicherung-syndikus-versorgungswerk-hamburg",
+            "statusfeststellung-gmbh-geschaeftsfuehrer-minderheit-erlangen",
+        }
+        slugs = R.companion_cases()
+        self.assertEqual(set(slugs), expected)
+        self.assertEqual(len(R.companion_asset_names(slugs)), 22)
+        for slug in sorted(expected):
+            for suffix in ("", "-einzelpdfs"):
+                with self.subTest(slug=slug, suffix=suffix):
+                    self.assertEqual(R.case_asset_url(slug, suffix, version=VERSION),
+                                     f"{R.RELEASE_BASE}/download/{TAG}/testakte-{slug}{suffix}.zip")
+
+
+class RoutingTests(Fixture):
+    def setUp(self):
+        super().setUp()
+        # Die Generatoren importieren eigene Aliase; die echten Helfer lesen die Fixture.
+        for module, helpers in (
+            (CASES, ("case_asset_url", "companion_cases", "rewrite_case_asset_urls")),
+            (PLUGINS, ("case_asset_url", "rewrite_case_asset_urls")),
+            (INDEX, ("case_asset_url", "companion_cases")),
+            (CATALOG, ("rewrite_case_asset_urls",)),
+            (DOWNLOADS, ("case_asset_url", "rewrite_case_asset_urls")),
+        ):
+            for name in helpers:
+                routing = patch.object(module, name, partial(getattr(R, name), config=self.config))
+                routing.start()
+                self.addCleanup(routing.stop)
+
+    def test_four_case_fixture_has_both_zip_variants(self):
+        self.assertEqual(self.slugs, FIXTURE_CASES)
+        self.assertEqual(R.companion_asset_names(self.slugs), FIXTURE_ASSET_NAMES)
         self.assertFalse(TAG.startswith("v"))
 
     def test_urls_follow_marketplace_not_a_hardcoded_version(self):
         for slug in self.slugs:
             for suffix in ("", "-einzelpdfs"):
-                self.assertEqual(R.case_asset_url(slug, suffix, root=self.root),
+                self.assertEqual(R.case_asset_url(slug, suffix, root=self.root, config=self.config),
                                  f"{R.RELEASE_BASE}/download/{TAG}/testakte-{slug}{suffix}.zip")
-        self.assertIn("/latest/download/", R.case_asset_url("old-case", root=self.root))
+        self.assertIn("/latest/download/", R.case_asset_url("old-case", root=self.root, config=self.config))
         self.assertIn("/latest/download/", R.case_asset_url(self.slugs[0], config=self.empty_config))
 
     def test_placeholders_and_older_pins_rewritten_but_existing_links_unchanged(self):
         for route in ("latest/download", "download/akten-v1.2.3", "download/v1.2.3"):
-            source = "\n".join(f"[ZIP]({R.RELEASE_BASE}/{route}/{name})" for name in self.names)
+            source = "\n".join(f"[ZIP]({R.RELEASE_BASE}/{route}/{name})" for name in sorted(self.names))
             unchanged = f"\n[other]({R.RELEASE_BASE}/latest/download/testakte-old-case.zip)"
-            result = R.rewrite_case_asset_urls(source + unchanged, root=self.root)
-            self.assertEqual(result.count(f"/download/{TAG}/"), 8)
-            self.assertTrue(result.endswith(unchanged))
-            self.assertEqual(R.rewrite_case_asset_urls(result, root=self.root), result)
+            expected = "\n".join(f"[ZIP]({R.RELEASE_BASE}/download/{TAG}/{name})" for name in sorted(self.names))
+            result = R.rewrite_case_asset_urls(source + unchanged, root=self.root, config=self.config)
+            self.assertEqual(result, expected + unchanged)
+            self.assertEqual(R.rewrite_case_asset_urls(result, root=self.root, config=self.config), result)
         self.assertEqual(R.rewrite_case_asset_urls(source, config=self.empty_config), source)
 
     def test_invalid_versions_and_config_fail_closed(self):
@@ -295,7 +341,7 @@ class PublicationTests(Fixture):
         self.addCleanup(executor.stop)
 
     def publish(self, **kwargs):
-        PUBLISH.publish(self.staging, f"v{VERSION}", "owner/repo", root=self.root, **kwargs)
+        PUBLISH.publish(self.staging, f"v{VERSION}", "owner/repo", root=self.root, config=self.config, **kwargs)
 
     def test_annotated_parent_exact_sha_never_latest_and_publish_order(self):
         self.publish()
@@ -372,7 +418,7 @@ class PublicationTests(Fixture):
         with self.assertRaisesRegex(ValueError, "checkout"):
             self.publish()
         with self.assertRaisesRegex(ValueError, "marketplace version"):
-            PUBLISH.publish(self.staging, "v1.2.3", "owner/repo", root=self.root)
+            PUBLISH.publish(self.staging, "v1.2.3", "owner/repo", root=self.root, config=self.config)
         self.assertFalse(any("POST" in cmd or "create" in cmd for cmd in self.gh.commands))
         self.execute.assert_not_called()
 
