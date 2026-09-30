@@ -1,3 +1,11 @@
+# v445.15.4 - Dezimale Gliederung der Kommissionspositionen
+
+## 1. Argumentationskarte
+
+Diese Fassung veröffentlicht die in v445.15.3 beschriebenen fachlichen Ergänzungen des Berliner Kommissionsberichts für Enteignung und Vergesellschaftung einschließlich der nachfolgenden Gliederungskorrektur.
+
+Die drei Positionen zur Verhältnismäßigkeit und die anschließende Gegenprobe sind als eigenständige dezimale Unterabschnitte mit getrennten Überschriften lesbar. Die fachlichen Aussagen der vorigen Version bleiben erhalten. Eine zusätzliche Regression prüft Nummerierung und Absatzabstände; Quellen- und Gegenpositionsprüfungen sind auf die präzisen Unterabschnitte ausgerichtet.
+
 # v445.15.3 - Berliner Kommissionsargumente in Eigentumsverfahren
 
 ## 1. Vergesellschaftung mit begründeter Gegenprüfung

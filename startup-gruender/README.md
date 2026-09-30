@@ -81,7 +81,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->
 
-**Version:** `445.15.3`
+**Version:** `445.15.4`
 
 Von den ersten Gründerangaben zu einer vollständigen Satzung und Gesellschaftervereinbarung: **18 Skills**, ein ausführlicher Werkstatt-Prompt und ein Mini-Prompt mit **exakt 7.500 Unicode-Zeichen einschließlich Leerzeichen und Zeilenumbrüchen**. Der Schwerpunkt liegt auf der Gründung; Seed, Serie A und Serie B werden erst bei einem konkreten Auftrag oder als klar bezeichnete Optionen bearbeitet.
 

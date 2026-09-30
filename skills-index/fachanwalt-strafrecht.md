@@ -1,6 +1,6 @@
 # fachanwalt-strafrecht
 
-**243 Skills** · Stand `v445.15.3`
+**243 Skills** · Stand `v445.15.4`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../fachanwalt-strafrecht/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

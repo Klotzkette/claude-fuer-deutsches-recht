@@ -62,7 +62,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
-| [Energienetz Hessen](../testakten/vergesellschaftung-energienetz-hessen/README.md) | [Gesamt-PDF](../testakten/vergesellschaftung-energienetz-hessen/gesamt-pdf/vergesellschaftung-energienetz-hessen_gesamt.pdf) | [`testakte-vergesellschaftung-energienetz-hessen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.15.3/testakte-vergesellschaftung-energienetz-hessen.zip) | [`testakte-vergesellschaftung-energienetz-hessen-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.15.3/testakte-vergesellschaftung-energienetz-hessen-einzelpdfs.zip) |
+| [Energienetz Hessen](../testakten/vergesellschaftung-energienetz-hessen/README.md) | [Gesamt-PDF](../testakten/vergesellschaftung-energienetz-hessen/gesamt-pdf/vergesellschaftung-energienetz-hessen_gesamt.pdf) | [`testakte-vergesellschaftung-energienetz-hessen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.15.4/testakte-vergesellschaftung-energienetz-hessen.zip) | [`testakte-vergesellschaftung-energienetz-hessen-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.15.4/testakte-vergesellschaftung-energienetz-hessen-einzelpdfs.zip) |
 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->

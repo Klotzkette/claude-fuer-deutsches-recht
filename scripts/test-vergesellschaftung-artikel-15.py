@@ -235,10 +235,14 @@ class BerlinerArgumentationskartenTests(unittest.TestCase):
                              "gedruckten Seiten, nicht die um zwei höheren PDF-Seiten",
                              "Der Bericht ist weder Gesetz noch Gerichtsentscheidung.")
         self.assert_passages(self.REFERENCE, "1.3",
-                             "Die tragende Mehrheitslinie wendet einen modifizierten Maßstab an",
-                             "Das Sondervotum zur Verhältnismäßigkeit verlangt eine strengere grundrechtliche Gegenprüfung",
-                             "Es lehnt Vergesellschaftung nicht schlechthin ab.",
                              "Verwende keine Mehrheitsabstimmung der Kommission als Rechtsbeweis.")
+        self.assert_passages(self.REFERENCE, "1.3.1",
+                             "Diese Position nicht zur allgemeinen Arbeitsregel machen.")
+        self.assert_passages(self.REFERENCE, "1.3.2",
+                             "Die tragende Mehrheitslinie wendet einen modifizierten Maßstab an")
+        self.assert_passages(self.REFERENCE, "1.3.3",
+                             "Das Sondervotum zur Verhältnismäßigkeit verlangt eine strengere grundrechtliche Gegenprüfung",
+                             "Es lehnt Vergesellschaftung nicht schlechthin ab.")
         self.assert_passages(self.WORKSHOP, "7.1",
                              "als Argumentationsmaterial, nicht als gerichtliche Freigabe",
                              "ohne Vergesellschaftung grundsätzlich auszuschließen")
@@ -247,6 +251,12 @@ class BerlinerArgumentationskartenTests(unittest.TestCase):
                              "Prüfe den Fall unter beiden Maßstäben")
         self.assert_passages("skills/vergesellschaftungsvorhaben-einordnen/SKILL.md", "3.5",
                              "Eine Kommissionsmehrheit entscheidet den Verfassungsstreit nicht.")
+
+    def test_report_positions_use_decimal_subsections_with_blank_lines(self):
+        text = (PLUGIN / self.REFERENCE).read_text(encoding="utf-8")
+        self.assertNotRegex(text, r"(?m)^\d+\. \S")
+        for number in ("1.3.1", "1.3.2", "1.3.3", "1.3.4"):
+            self.assertRegex(text, rf"(?m)^### {re.escape(number)}\. [^\n]+\n\n\S")
 
     def test_article14_and_housing_hessen_transfer_limits_remain_explicit(self):
         self.assert_passages(self.MINI, "1.2",

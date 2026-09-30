@@ -20,11 +20,21 @@ Für das untersuchte Vorhaben an Grund und Boden lehnt die Kommission eine zusä
 
 Drei Ansätze sind auseinanderzuhalten:
 
-1. Zwei Mitglieder verneinen eine zusätzliche Verhältnismäßigkeitsprüfung wegen des Verständnisses von Artikel 15 als demokratischer Offenhaltungsnorm. Auch daraus folgt kein individueller Anspruch auf Vergesellschaftung. Diese Position nicht zur allgemeinen Arbeitsregel machen.
-2. Die tragende Mehrheitslinie wendet einen modifizierten Maßstab an: Vergesellschaftung und Aufhebung privatnütziger Machtstrukturen sind eigenständige Zwecke. Bei der Erforderlichkeit werden die weiteren Gemeinwohlziele mit offensichtlich milderen, gleich wirksamen Mitteln verglichen. Gerade dort darf das Ziel nicht tautologisch als Vergesellschaftung definiert werden, sodass jede Alternative ausscheidet. In der Angemessenheit erhält die strukturelle Neuordnung besonderes Gewicht.
-3. Das Sondervotum zur Verhältnismäßigkeit verlangt eine strengere grundrechtliche Gegenprüfung und hält die damalige Tatsachengrundlage für eine abschließende positive Bewertung nicht für ausreichend. Es lehnt Vergesellschaftung nicht schlechthin ab. Der Streit betrifft Prüfungsdichte, Zielgewichtung und Prognosebasis, nicht nur politische Vorlieben.
-
 Quelle: Seiten 36–59, insbesondere Rn. 110–144 und 172–207; Sondervotum Seiten 110–121. Verwende keine Mehrheitsabstimmung der Kommission als Rechtsbeweis.
+
+### 1.3.1. Eigenständiger Verfassungsmaßstab ohne zusätzliche Verhältnismäßigkeitsprüfung
+
+Zwei Mitglieder verneinen eine zusätzliche Verhältnismäßigkeitsprüfung wegen des Verständnisses von Artikel 15 als demokratischer Offenhaltungsnorm. Auch daraus folgt kein individueller Anspruch auf Vergesellschaftung. Diese Position nicht zur allgemeinen Arbeitsregel machen.
+
+### 1.3.2. Modifizierte Verhältnismäßigkeit nach der Mehrheitslinie
+
+Die tragende Mehrheitslinie wendet einen modifizierten Maßstab an: Vergesellschaftung und Aufhebung privatnütziger Machtstrukturen sind eigenständige Zwecke. Bei der Erforderlichkeit werden die weiteren Gemeinwohlziele mit offensichtlich milderen, gleich wirksamen Mitteln verglichen. Gerade dort darf das Ziel nicht tautologisch als Vergesellschaftung definiert werden, sodass jede Alternative ausscheidet. In der Angemessenheit erhält die strukturelle Neuordnung besonderes Gewicht.
+
+### 1.3.3. Strengere Gegenprüfung im Sondervotum
+
+Das Sondervotum zur Verhältnismäßigkeit verlangt eine strengere grundrechtliche Gegenprüfung und hält die damalige Tatsachengrundlage für eine abschließende positive Bewertung nicht für ausreichend. Es lehnt Vergesellschaftung nicht schlechthin ab. Der Streit betrifft Prüfungsdichte, Zielgewichtung und Prognosebasis, nicht nur politische Vorlieben.
+
+### 1.3.4. Fallbezogene Gegenprobe und Belegbedarf
 
 Arbeite den gewählten Fall anschließend unter beiden tragfähigen Prüfungsmaßstäben durch. Halte intern je Ziel fest: erwartete Wirkung, Beleg und Stand, Gegenerwartung, realistische Alternative, Belastung Betroffener und Dritter sowie verbleibende Unsicherheit. Für Wohnraum sind Bestandsmiete, Zugang, Instandhaltung, Neubau und Mitbestimmung verschieden; für Netze Versorgungssicherheit, Investitionsrückstand, Netzzugang und Kontrolle. Eine bloße Eigentumsübertragung schafft weder Wohnungen noch neue Leitungen.
 
