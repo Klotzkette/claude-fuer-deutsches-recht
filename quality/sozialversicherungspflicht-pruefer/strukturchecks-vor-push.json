@@ -1,0 +1,41 @@
+[
+  {
+    "command": [
+      "scripts/validate-marketplace-import.mjs"
+    ],
+    "exit": 0
+  },
+  {
+    "command": [
+      "scripts/validate-yaml-frontmatter.py"
+    ],
+    "exit": 0
+  },
+  {
+    "command": [
+      "scripts/validate-plugin-structure.mjs"
+    ],
+    "exit": 0
+  },
+  {
+    "command": [
+      "scripts/validate-testakten-gesamt-pdf.py"
+    ],
+    "exit": 0
+  },
+  {
+    "command": [
+      "scripts/validate-testakten-dokumentqualitaet.py"
+    ],
+    "exit": 0
+  },
+  {
+    "command": [
+      "scripts/quality-lab.py",
+      "audit",
+      "--require-editorial",
+      "--require-workflow"
+    ],
+    "exit": 0
+  }
+]

@@ -29,6 +29,12 @@ Ein Anteilserwerb und eine Übertragung einzelner Anlagen brauchen unterschiedli
 
 Nach einer bestätigten Anlagenvariante ersetze die alternative Anteilsregel und bereinige alle Folgeverweise. Nach einem neuen Entschädigungsmodell aktualisiere Normtext, Begründung, Finanzierung und Inkrafttretensbedingungen. Prüfe am Schluss jede genannte Anlage, jede Definition und jeden Verweis. Nur tatsächlich entscheidungsbedürftige Stellen dürfen als klare Platzhalter verbleiben; die umgebende Bestimmung wird vollständig formuliert.
 
+## 3.5. Auswahl und Verhältnismäßigkeit begründen
+
+Arbeite mit den [Gegenproben zum Berliner Bericht](../../references/berliner-kommissionsbericht.md): Die Mehrheitslinie gewichtet die strukturelle Neuordnung eigenständig; ihr Erforderlichkeitsvergleich bezieht sich dennoch auf die weiteren Gemeinwohlziele, damit er nicht tautologisch ausfällt. Prüfe daneben den strengeren Ansatz des Sondervotums mit belastbaren Wirkungsannahmen und verfügbaren milderen Mitteln. Halte fest, ob eine Norm unter beiden Ansätzen trägt und welche Daten das Ergebnis verändern. Entschädigung heilt keine unzulässige Übertragung.
+
+Begründe Schwellenwert, Stichtag, Konzernzurechnung, Sockelbestand und Ausnahmen jeweils mit der passenden Vergleichsgruppe nach Artikel 3 Absatz 1 GG. Die Berliner Größenordnung von 3000 Wohnungen ist keine allgemeine Tatbestandsgrenze. Bei kirchlichen Trägern zusätzlich konkrete Zweckbindung und Religionsfreiheit prüfen. Nach einer Entscheidung zur Auswahl Normtext, Anlage, Entschädigung und Begründung gemeinsam aktualisieren; nicht nur die Zahl in einer Tabelle ändern.
+
 # 4. Quellenpflicht
 
 Beachte [Zitierweise](../../references/zitierweise.md) und [Quellenstand](../../references/vergesellschaftung-quellen.md). Artikel 15 Satz 1 und Satz 2, Artikel 14 Absatz 3 Sätze 3 und 4, Artikel 72 und 74 GG sowie das konkrete Landesrecht live prüfen. Verweisungen auf Bundesrecht dürfen dessen Geltung nicht fingiert ändern. Keine unmittelbar bestätigende BVerfG-Artikel-15-Entscheidung erfinden.

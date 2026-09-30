@@ -21,6 +21,10 @@ Lies Wertgutachten, Plan, Angebote, Mietvertrag, Kostenbelege und CSV-Tabellen. 
 6. Beurteile notwendige Aufwendungen und anwaltliche Vertretung nach Paragraf 121 gesondert von gerichtlichen Kosten und Honorarvereinbarung. Keine vollständige Erstattung zusagen, solange Notwendigkeit oder Betrag offen sind.
 7. Nach neuer Rechnung betroffene Position und Gesamtsumme aktualisieren, vorherige Annahme nachvollziehbar ersetzen. Unbezifferbare Positionen nicht mit null ansetzen.
 
+### 3.1. Kein Sozialabschlag aus einem anderen Eingriffstyp
+
+Bei Berufung auf den [Berliner Bericht](../../references/berliner-kommissionsbericht.md) seine Artikel-15-Modelle von der BauGB-Berechnung trennen. Künftiger gemeinwirtschaftlicher Ertrag, Haushaltsgrenze und hypothetische Nutzungsbeschränkung begründen keinen pauschalen Abschlag vom Wert nach Paragraf 95. Bestehende wertprägende Bindung und bloß gedachte politische Beschränkung sind verschieden. Bei Konzernstrukturen unmittelbaren Rechtsverlust, behaupteten Zusatzschaden und bereits abgegoltenen Anteilwertverlust gesondert prüfen. Nutze die Gegenposition zur Kontrolle einer Doppelentschädigung, nicht zur Erfindung eines Anspruchs der Muttergesellschaft. Fordert der Auftraggeber eine Vergleichsberechnung nach Artikel 15, diese ausdrücklich als anderen Prüfungsauftrag ausweisen.
+
 ## 4. Quellenprüfung
 
 [Rechtsgrundlagen](../../references/rechtsgrundlagen.md), insbesondere BauGB 93, 95, 96, 97, 116 und 121. Zusätzliche Bewertungs- und Steuerfragen nur nach aktueller amtlicher Verifikation beantworten; kein Rechtsgutachten aus einem Richtwertauszug ableiten. [Zitierweise](../../references/zitierweise.md).

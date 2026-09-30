@@ -29,6 +29,10 @@ Würdige die tatsächlichen Versorgungs- und Investitionsinteressen der Initiati
 
 Nach einer Entscheidung des Auftraggebers über Mindestforderungen ändere Anträge, Zusammenfassung und Begründung konsistent. Nach Eingang einer geänderten Arbeitsfassung kennzeichne den neuen Bezug und entferne erledigte Einwände. Schließe mit dem konkret gewünschten Umgang mit der Stellungnahme. Ein Versandauftrag ist gesondert freizugeben; die Fertigstellung des Textes selbst wartet nicht auf eine unnötige Zwischenfreigabe.
 
+## 3.5. Gegenargumente in konkrete Änderungsanträge übersetzen
+
+Bei Verweis auf den [Berliner Bericht](../../references/berliner-kommissionsbericht.md) nicht mit Mehrheitszahlen argumentieren. Für jeden tragenden Einwand die stärkste Gegenposition ausarbeiten: belegte Versorgungswirkung gegen Eingriffsgewicht, dauerhafte Gemeinwirtschaft gegen bloßen Eigentümerwechsel, begründete Auswahl gegen willkürliche Schwelle, finanzierbare Umsetzung gegen unzureichenden Ausgleich. Die Minderheit bestreitet nicht jede Vergesellschaftung, sondern insbesondere Maßstab und damalige Tatsachengrundlage. Verlange daher konkrete aktuelle Wirkungsdaten oder eine bestimmte Regeländerung. Ein Eigentümer kann einen engeren Zuschnitt verlangen, ohne den Hauptangriff aufzugeben; eine Initiative muss den strengeren Prüfungsmaßstab ernsthaft beantworten. Übernimm nach der Mandantenentscheidung den gewählten Antrag in Einleitung und Schluss, ohne interne Alternativen als widersprüchliche Endfassung zu versenden.
+
 # 4. Quellenpflicht
 
 [Zitierweise](../../references/zitierweise.md) und [Quellenstand](../../references/vergesellschaftung-quellen.md). Tragende Rechtsargumente im Empfängertext passend belegen. Kein erfundenes BVerfG-Urteil unmittelbar zu Artikel 15. Amtliche Ausarbeitungen und Stellungnahmen ausdrücklich ihrer Autorenschaft und Aussagegrenze zuordnen, nicht als verbindliche Rechtsprechung zitieren.

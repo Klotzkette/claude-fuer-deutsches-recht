@@ -467,6 +467,8 @@ Dateinotiz Büro: Beide Papierunterschriften liegen seit dem 12. Januar 2024 vor
 
 Ab dem 8. September verwenden wir ausschließlich den Kalender im Portal. Die Raumbelegung aus den E-Mails vom Juni wird dadurch ersetzt. Mara hat dienstags Raum 3 von 14 bis 19 Uhr und donnerstags Raum 2 von 14 bis 20 Uhr. Bei Stimmarbeiten kann das Büro auf Raum 4 umbuchen. Bitte verschiebt keine Unterrichtsstunde ohne Eintrag: Frau Becker und Herr Lenz hatten letzte Woche denselben Raum, obwohl beide Familien eine Bestätigung bekommen hatten.
 
+Für den September sind neben diesen Regelzeiten zusätzliche Räume für Maras Einzelunterricht und Nachholtermine reserviert: mittwochs am 10., 17. und 24. September jeweils Raum 4 von 10 bis 15.15 Uhr (sieben Einheiten à 45 Minuten), freitags am 12. und 26. September jeweils Raum 3 von 10 bis 14.30 Uhr (sechs Einheiten). Die zusätzlichen 33 Zeitfenster gelten nur für September; zwei der insgesamt 81 Septemberfenster bleiben zunächst für Terminwechsel frei. Montags hat Mara den anderen Auftrag in Pankow. Hannes trägt die bestätigten Familien einzeln ein. Abgerechnet werden die tatsächlich erteilten oder nach dem Vertrag vergüteten Einheiten, nicht die Raumreservierungen.
+
 Die Einträge sind zunächst unser Planungsvorschlag. Rückmeldungen bitte bis zum 3. September an Hannes. Nach den Elternbestätigungen brauchen wir verlässliche Termine. Wer eine Lücke zwischen zwei Stunden anders nutzen möchte, muss selbstverständlich nicht im Haus bleiben. Die Eingangstür schließt ab 18 Uhr; der Schlüssel darf nicht an Schüler weitergegeben werden.
 
 2 Abwesenheit und Vertretung

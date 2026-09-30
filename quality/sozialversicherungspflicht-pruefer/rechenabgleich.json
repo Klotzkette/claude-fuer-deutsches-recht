@@ -1,0 +1,37 @@
+{
+  "sozialversicherung-gmbh-zwanzig-prozent-berlin": {
+    "brutto2025": "74400",
+    "brutto2026jan_sep": "61200",
+    "zahlungen": {
+      "Gehalt": "47858.40",
+      "Auslagenerstattung": "186.40",
+      "Darlehenseingang": "12000.00"
+    }
+  },
+  "sozialversicherung-gmbh-fuenfzig-prozent-erfurt": {
+    "brutto2025": "78000",
+    "brutto2026jan_sep": "64800",
+    "zahlungen": {
+      "Gehalt": "49696.20",
+      "Auslagenerstattung": "186.40",
+      "Darlehenseingang": "15000.00"
+    }
+  },
+  "sozialversicherung-programmierer-leipzig": {
+    "netto2025": "158760",
+    "stundensumme": 1512
+  },
+  "sozialversicherung-musikakademie-prenzlauer-berg": {
+    "honorar2025": "25200"
+  },
+  "sozialversicherung-syndikus-versorgungswerk-hamburg": {
+    "versorgung2026jan_sep": 11718,
+    "auszahlung_juli": 4774.86
+  },
+  "sozialversicherung-ag-organe-hannover": {
+    "beratungstage": 16,
+    "netto": 14400,
+    "vorstand_april_sep": 37200,
+    "aufsichtsrat_april_dez": 9000
+  }
+}

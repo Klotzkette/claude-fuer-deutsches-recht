@@ -29,6 +29,10 @@ Trenne Eigentum der Gesellschaft vom Anteilseigentum ihrer Mitglieder. Das gelea
 
 Formuliere für jede aufgenommene Position eine hinreichend bestimmte Bezeichnung mit sachlichem Umfang; eine CSV-ID allein ersetzt keinen Rechtstitel. In einer begleitenden Tabelle sind Zahlen und IDs zulässig. Der erläuternde Vermerk bleibt ausformuliert. Gehen Titel oder Konzessionsanlagen ein, löse die konkret markierte Lücke auf und aktualisiere Übertragungsumfang und Entschädigungsadressat gemeinsam. Bei ungeklärter ministerieller Auswahlbefugnis liefere keine scheinbar definitive gesetzliche Anlage.
 
+## 3.5. Wohnungsbestände und gesetzliche Bestimmbarkeit
+
+Bei Wohnraum Grund und Boden als eigene Kategorie prüfen; der Streit über Dienstleistungen als Produktionsmittel sperrt diese nicht automatisch. Erfasse Wohnungseigentum nach Paragraf 1 Absatz 2 WEG als Sondereigentum mit Miteigentumsanteil, nicht als bloß beschränktes dingliches Recht. Bei Konzernbeständen getrennt festhalten: Registereigentümer, Zurechnung für eine Auswahlgrenze und tatsächlich entzogener Gegenstand. Eine Zurechnung nach Beherrschung überträgt nicht zugleich die Konzernanteile. Der [Berliner Bericht](../../references/berliner-kommissionsbericht.md) lässt eine gesetzlich vollständig gebundene Bestimmbarkeit zu; er verlangt nicht zwingend jede Flurstücksnummer im Gesetz. Prüfe anhand zweier Grenzpositionen, ob die Regel ohne freie Verwaltungsauswahl zu einem eindeutigen Ergebnis führt. Erhaltenswerte Wegerechte und Drittwohnungseigentum weder pauschal löschen noch ohne Übergangsregel übergehen.
+
 # 4. Quellenpflicht
 
 [Zitierweise](../../references/zitierweise.md) und [Quellenvermerk](../../references/vergesellschaftung-quellen.md): Artikel 15 GG, hessische Artikel 39–41 und 45 sowie die als nicht bindend gekennzeichnete WD-Ausarbeitung. Quellen aus dem Wohnungsbereich nicht ohne gegenstandsbezogene Begründung auf Energienetze übertragen.

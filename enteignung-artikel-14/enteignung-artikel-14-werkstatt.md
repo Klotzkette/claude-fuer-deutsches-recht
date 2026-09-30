@@ -22,6 +22,12 @@ Artikel 15 betrifft eine gesetzliche Überführung der dort genannten Güter in 
 
 BVerfG, Urteil vom 06.12.2016, Az. 1 BvR 2821/11, 1 BvR 321/12 und 1 BvR 1456/12, Rn. 243–246, trägt die Unterscheidung zwischen Zuordnungsänderung mit Güterbeschaffung und Beschränkung. Es entscheidet nicht über den Verkehrswert einer kommunalen Straßenfläche. Ausgleichsfragen einer Inhaltsbestimmung bleiben eine eigene Prüfung, kein pauschaler Anspruch auf BauGB-Entschädigung.
 
+### 1.2.1. Berliner Vergesellschaftungsbericht als Abgrenzungshilfe
+
+Der Berliner Abschlussbericht vom Juni 2023 untersucht die strukturelle Überführung großer Wohnungsbestände nach Artikel 15. Er ist keine Gerichtsentscheidung und liefert keinen erleichterten Artikel-14-Enteignungstatbestand. Seine Mehrheit begründet einen modifizierten Verhältnismäßigkeitsmaßstab mit eigenständigem Vergesellschaftungszweck. Das Sondervotum verlangt strengere Kontrolle und bessere Tatsachengrundlagen, ohne Vergesellschaftung schlechthin auszuschließen. Die Gegenpositionen für die richtige Zuordnung nutzen, nicht nach gewünschtem Ergebnis zwischen Artikel 14 und 15 wechseln.
+
+Prüfe bei gemischten Vorhaben jeden Zugriff: Eine Netzüberführung und eine konkrete Leitungsfläche können unterschiedliche gesetzliche Grundlagen benötigen. Viele betroffene Grundstücke genügen nicht für Artikel 15; öffentliches Eigentum allein beweist noch keine dauerhafte Gemeinwirtschaft. Bestimme danach die passende Beratung oder Antragsschrift. Die vorhandene BauGB-Route nicht ungefragt verlassen, wenn nur ein Grundstücksstreifen beansprucht wird.
+
 ## 1.3. Gesetzliche Grundlage und Gegenstand festlegen
 
 Bestimme das Fachrecht aus Antrag und Planunterlagen. Straßen-, Eisenbahn-, Energie- und andere Fachplanung kann besondere Enteignungsregeln haben. Wende BauGB 85 ff. nicht allein deshalb an, weil Grund und Boden betroffen ist. Für die BauGB-Route den konkreten Tatbestand des Paragrafen 85 nennen. Bei einer im Bebauungsplan festgesetzten Verkehrsfläche kommen insbesondere Absatz 1 Nummer 1 und die Voraussetzungen des Paragrafen 87 in Betracht. Planwirksamkeit und tatsächlicher Inhalt müssen belegt sein.
@@ -46,6 +52,12 @@ Rekonstruiere den freihändigen Erwerbsversuch: konkretes Angebot, Wertermittlun
 
 Schreibe das benötigte Angebot oder die Antwort vollständig. Grundstück, Fläche, Preisbasis, Nebenanlagen, Besitzbeginn, Kosten und Bedingungen müssen bestimmbar sein. Interne Preisuntergrenzen und nicht freigegebene Zugeständnisse bleiben außerhalb des Empfängerbriefs. Eine freiwillige Besitzgestattung benötigt eigene Regelungen; sie wird nicht nebenbei in eine Kaufpreisantwort eingebaut.
 
+### 1.4.1. Zweckbindung und Tatsachengrundlage nachschärfen
+
+Die Berliner Debatte macht eine praktisch wichtige Gegenfrage sichtbar: Was sichert den behaupteten Gemeinwohlvorteil nach dem Eigentumswechsel? Prüfe gesetzliche Verwendungspflicht, Kontrolle, Zeitplan und Folgen zweckwidriger Nutzung. Eine öffentliche Trägerbezeichnung oder erwartete Arbeitsplätze ersetzen diese Sicherungen nicht. Bei Artikel 14 den konkret vorgesehenen Gemeinwohlzweck und das einschlägige Fachgesetz zugrunde legen, nicht die Artikel-15-Idee einer Änderung der Wirtschaftsordnung.
+
+Vergleiche die belegten Wirkungen des Vorhabens mit den Belastungen der Eigentümer, Nutzer und Dritten. Trenne Tatsachen, Prognosen und politische Zielsetzungen. Das Sondervotum zum Berliner Bericht beanstandet gerade die unvollständige Wirkungsgrundlage; daraus folgt eine gezielte Nachforderung, nicht die pauschale Unzulässigkeit jeder Maßnahme. Für eine Straßenfläche benötigst du etwa Variantenplan und Verkehrsbedarf, keine Berliner Mietstatistik. BVerfG vom 17.12.2013, Rn. 187–188, stellt klar, dass die Entschädigung die Zulässigkeitsabwägung nicht ersetzt. Ein höherer Preis heilt keinen unzulässigen Zugriff. Formuliere daraus die konkrete Einwendung oder die fehlende Begründung des Antragstellers.
+
 ## 1.5. Werte, Nachteile und Kosten nachvollziehbar berechnen
 
 Paragraf 93 BauGB trennt Entschädigung für Rechtsverlust von weiteren Vermögensnachteilen; Vorteile und Mitverursachung nicht übergehen. Bestimme den maßgeblichen Grundstückszustand getrennt vom Verkehrswertzeitpunkt nach Paragraf 95. Das dortige Entscheidungsdatum und die gesetzlichen Ausschlüsse bestimmter Wertänderungen müssen eigenständig geprüft werden. Nicht pauschal den Tag des ersten Kaufangebots als Bewertungsstichtag einsetzen.
@@ -59,6 +71,12 @@ Paragraf 96 erfasst andere Nachteile nur, soweit sie nicht bereits ausgeglichen 
 Vorzeitige Besitznachteile nach Paragraf 116 separat und ohne Doppelzählung erfassen. Sicherheit ist nicht zusätzliche endgültige Entschädigung. Verfahrenskosten und notwendige Aufwendungen nach Paragraf 121 von der Hauptentschädigung und von gerichtlichen Kosten unterscheiden. Die Notwendigkeit anwaltlicher Vertretung und Erstattungsumfang prüfen, keine vollständige Übernahme jedes vereinbarten Honorars zusagen.
 
 Das Ergebnis ist eine begründete, bezifferte Forderung oder substantiierte Prüfstellungnahme mit fertigem Begleitbrief. Eine Rechentabelle ist ein Hilfsmittel; sie ersetzt nicht die Erklärung, wer welchen Betrag aus welchem Grund verlangt.
+
+### 1.5.1. Streitmodelle nicht in die BauGB-Rechnung übernehmen
+
+Im Berliner Bericht werden für Artikel 15 unter anderem gemeinwirtschaftliche Ertragswerte, fiskalische Grenzen und hypothetische Werte nach zulässigen Schrankenbestimmungen diskutiert. Das Sondervotum hält dem einen Verkehrswertausgangspunkt und Grenzen rein zielorientierter Entschädigung entgegen. Keiner dieser Ansätze setzt Paragrafen 93 und 95–97 BauGB außer Kraft. Ein knapper Haushalt rechtfertigt keinen pauschalen Abschlag; eine nur gedachte wertsenkende Nutzungsregel ist nicht dasselbe wie eine bereits bestehende Bindung.
+
+Bei Gesellschaften den entzogenen Gegenstand und den Anspruchsteller bestimmen. Zusatzschäden einer Muttergesellschaft nicht allein aus einer Konzernübersicht ableiten; eigenes Recht, Kausalität und schon ausgeglichene Wertanteile prüfen. Die Berliner Kontroverse um mittelbare Anteilverluste ist keine fertige Regel für jeden Enteignungsfall. Wohnungseigentum korrekt nach Paragraf 1 Absatz 2 WEG als Sondereigentum mit Miteigentumsanteil behandeln, nicht als bloß beschränktes dingliches Recht. Nebenrechte und Rang bleiben eigene Positionen.
 
 ## 1.6. Anhörung und behördliche Einigung vorbereiten
 
@@ -93,6 +111,8 @@ Paragraf 224 nimmt insbesondere dem Antrag gegen vorzeitige Besitzeinweisung die
 ## 1.9. Quellen, Übergabe und Fortsetzung
 
 Verifiziere jede tragende Rechtsaussage am aktuellen amtlichen Text und bei zeitgebundenem Sachverhalt an der passenden Fassung. Nutze das lokale Quellenregister oder recherchiere ohne installierte Skills die amtlichen Originale selbst. Gerichtsentscheidung nur mit überprüftem Datum, Entscheidungsform, Aktenzeichen und tragender Passage verwenden. Keine Literaturstellen, Datenbanknummern oder kommunale Praxis erfinden.
+
+Zum [Berliner Kommissionsbericht](https://www.berlin.de/kommission-vergesellschaftung/_assets/abschlussbericht_vergesellschaftung-grosser-wohnungsunternehmen-230627.pdf) reichen gezielte Nachweise: Seiten 33–59 für Zweckbindung und Verhältnismäßigkeit, 60–70 und 122–126 für die Entschädigungskontroverse, 92–97 und 130–132 für Landesverfassung. Die Aussagen zum Berliner Artikel 23 VvB ersetzen kein anderes Landesenteignungsrecht. Das [Berliner Rahmengesetz vom 18.03.2026](https://www.berlin.de/sen/justiz/service/gesetze-und-verordnungen/2026/ausgabe-nr-9-vom-2732026-s-137-148.pdf), verkündet am 27.03.2026, tritt nach Paragraf 8 erst 24 Monate später in Kraft und gilt nach Paragraf 1 Absatz 2 nicht für Artikel-14-Eingriffe. Am 30.09.2026 ist es noch nicht in Kraft. Keine Übertragung und keine neue BauGB-Entschädigung daraus behaupten.
 
 Liefere das beauftragte Dokument vollständig: Empfänger, Betreff, Aktenzeichen, Parteien oder Beteiligte, bestimmtes Begehren, nachvollziehbare Tatsachen, passende rechtliche Begründung, Anlagen und Schluss. Interne Verhandlungsgrenzen, Unsicherheiten und Einreichungsorganisation gehören in einen getrennten Begleitvermerk. DOCX und PDF in Times New Roman 11 pt, dezimale Überschriften, Leerzeilen zwischen Absätzen und ausgeschriebenes „Paragraf“. Tabellen lesbar und Rechenwege überprüfbar gestalten. Ohne Exportmöglichkeit den vollständigen verwendbaren Text liefern und die technische Grenze benennen.
 

@@ -52,6 +52,10 @@ Prüfe die Grundrechtsklage nach Paragrafen 43–46 StGHG und Artikel 131 der He
 
 Rechne eine konkrete Frist nur aus belegtem Auslöser, einschlägiger Vorschrift und geprüftem Kalender. Bei fehlendem Beleg benenne genau diesen und eine vorsichtige organisatorische Wiedervorlage, aber kein erfundenes Fristende. Nach Eingang des Belegs aktualisiere Berechnung und Antrag. Eine bestellte Schrift wird vollständig ausformuliert, erforderliche Anlagen werden tatsächlich zugeordnet; Einreichung und fristwahrende Übermittlung nur nach Freigabe.
 
+## 3.6. Bericht, Rahmengesetz und Eingriff auseinanderhalten
+
+Ein Kommissionsbericht ist keine anfechtbare Übertragung. Das Berliner Rahmengesetz von 2026 ist von einem konkreten Anwendungsgesetz und dessen Vollzug zu unterscheiden; sein Inkrafttreten liegt nach Paragraf 8 erst 24 Monate nach der Verkündung vom 27.03.2026. Verkündung, gegenwärtige Betroffenheit und Fristauslöser deshalb einzeln prüfen, nicht automatisch jede Rechtsschutzmöglichkeit bis zum Inkrafttreten ausschließen oder jede Eigentümerbeschwerde sofort eröffnen. Die [Berliner Argumentationskarte](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/vergesellschaftung-artikel-15/references/berliner-kommissionsbericht.md) liefert Gegenpositionen zu Maßstab, Landesverfassung und Entschädigung, keine Prozessvollmacht und keine zusätzliche Antragsberechtigung. Ein Streit über die Höhe kann nicht den erforderlichen rechtzeitigen Angriff auf die Übertragung ersetzen. Erkläre im Beratungsbrief für jeden Weg Ziel, zulässigen Antragsteller, benötigten Beleg und konkrete Fortsetzung.
+
 # 4. Quellenpflicht
 
 [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/vergesellschaftung-artikel-15/references/zitierweise.md) und [Quellenvermerk](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/vergesellschaftung-artikel-15/references/vergesellschaftung-quellen.md). Prüfe Artikel 94 und 100 GG, Paragrafen 32, 90, 93 BVerfGG sowie die amtlichen hessischen Verfahrensinformationen und geltenden StGHG-Normen neu. Für den konkreten Rechtsbehelf notwendige Fachverfahrensnormen zusätzlich verifizieren. Keine Übernahme alter GG-Artikelnummern aus historischen Entscheidungen als aktueller Zuständigkeitsnachweis.
@@ -97,6 +101,12 @@ Rechne Zahlung, Investitionen, Übergangskosten, Betriebsmittel und Reserven get
 ## 3.4. Dokument fertigstellen
 
 Entwirf den bestellten gesetzlichen Entschädigungsabschnitt oder die Finanzvorlage mit Berechnung als Anlage. Geht ein neues Gutachten ein, prüfe zuerst dessen Gegenstand und Stichtag, bevor du die Zahl austauschst. Ändert sich die Übertragungsvariante, rechne Empfänger, Schulden und Mittelbedarf neu. Liefere bereits belastbare Teile weiter; fordere konkret fehlende Bewertungspositionen an statt die gesamte Bearbeitung abzubrechen.
+
+## 3.5. Streitige Bewertungsansätze nachvollziehbar vergleichen
+
+Der [Berliner Bericht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/vergesellschaftung-artikel-15/references/berliner-kommissionsbericht.md) diskutiert gemeinwirtschaftliche Erträge, fiskalische Realisierbarkeit, hypothetische Werte bei zulässigen Schrankenbestimmungen und Verkehrswert mit Abschlägen. Das Sondervotum beanstandet insbesondere die Ableitung der Entschädigung allein aus dem gewünschten Mietniveau oder Finanzrahmen. Vergleiche entscheidungserhebliche Modelle mit jeweils eigener Rechtsbegründung, Annahmen und Daten; keine gemittelte Kompromissquote. Eine nur gedachte Schranke muss nach dem Mehrheitsansatz verfassungsgemäß und entschädigungsfrei hinzunehmen sein. Das Sondervotum lehnt selbst dann den Abzug für nicht umgesetzte Schranken aus Gründen des Bestandsschutzes und Rechtsschutzes ab. Beantworte auch diesen Einwand, statt nur die Regulierungsmöglichkeit zu bestätigen. Das Berliner Rahmengesetz von 2026 sieht einen Verkehrswertausgangspunkt vor, ist am 30.09.2026 aber noch nicht in Kraft und gilt nicht für Hessen.
+
+Unterscheide Rechtsverlust der Objektgesellschaft von zusätzlichen Schäden der Muttergesellschaft. Die Mehrheit verneint einen Zusatzanspruch allein wegen sinkenden Anteilwerts; das Sondervotum will weitergehende Schäden berücksichtigen. Prüfe eigenes Recht, Kausalität und bereits erfolgten Ausgleich, statt pauschal doppelt oder gar nicht zu entschädigen. Rechne bei Raten oder Anleihen auch Zeitwert, Bonitäts- und Liquiditätsbelastung; ein identischer Nennbetrag ist kein Beweis gleicher Belastung. Liefere daraus den begründeten Entschädigungsabschnitt, nicht nur Szenariotabellen.
 
 # 4. Quellenpflicht
 
@@ -144,6 +154,10 @@ Trenne Eigentum der Gesellschaft vom Anteilseigentum ihrer Mitglieder. Das gelea
 
 Formuliere für jede aufgenommene Position eine hinreichend bestimmte Bezeichnung mit sachlichem Umfang; eine CSV-ID allein ersetzt keinen Rechtstitel. In einer begleitenden Tabelle sind Zahlen und IDs zulässig. Der erläuternde Vermerk bleibt ausformuliert. Gehen Titel oder Konzessionsanlagen ein, löse die konkret markierte Lücke auf und aktualisiere Übertragungsumfang und Entschädigungsadressat gemeinsam. Bei ungeklärter ministerieller Auswahlbefugnis liefere keine scheinbar definitive gesetzliche Anlage.
 
+## 3.5. Wohnungsbestände und gesetzliche Bestimmbarkeit
+
+Bei Wohnraum Grund und Boden als eigene Kategorie prüfen; der Streit über Dienstleistungen als Produktionsmittel sperrt diese nicht automatisch. Erfasse Wohnungseigentum nach Paragraf 1 Absatz 2 WEG als Sondereigentum mit Miteigentumsanteil, nicht als bloß beschränktes dingliches Recht. Bei Konzernbeständen getrennt festhalten: Registereigentümer, Zurechnung für eine Auswahlgrenze und tatsächlich entzogener Gegenstand. Eine Zurechnung nach Beherrschung überträgt nicht zugleich die Konzernanteile. Der [Berliner Bericht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/vergesellschaftung-artikel-15/references/berliner-kommissionsbericht.md) lässt eine gesetzlich vollständig gebundene Bestimmbarkeit zu; er verlangt nicht zwingend jede Flurstücksnummer im Gesetz. Prüfe anhand zweier Grenzpositionen, ob die Regel ohne freie Verwaltungsauswahl zu einem eindeutigen Ergebnis führt. Erhaltenswerte Wegerechte und Drittwohnungseigentum weder pauschal löschen noch ohne Übergangsregel übergehen.
+
 # 4. Quellenpflicht
 
 [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/vergesellschaftung-artikel-15/references/zitierweise.md) und [Quellenvermerk](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/vergesellschaftung-artikel-15/references/vergesellschaftung-quellen.md): Artikel 15 GG, hessische Artikel 39–41 und 45 sowie die als nicht bindend gekennzeichnete WD-Ausarbeitung. Quellen aus dem Wohnungsbereich nicht ohne gegenstandsbezogene Begründung auf Energienetze übertragen.
@@ -189,6 +203,10 @@ Würdige die tatsächlichen Versorgungs- und Investitionsinteressen der Initiati
 ## 3.4. Nach Rückmeldung abgabefähig machen
 
 Nach einer Entscheidung des Auftraggebers über Mindestforderungen ändere Anträge, Zusammenfassung und Begründung konsistent. Nach Eingang einer geänderten Arbeitsfassung kennzeichne den neuen Bezug und entferne erledigte Einwände. Schließe mit dem konkret gewünschten Umgang mit der Stellungnahme. Ein Versandauftrag ist gesondert freizugeben; die Fertigstellung des Textes selbst wartet nicht auf eine unnötige Zwischenfreigabe.
+
+## 3.5. Gegenargumente in konkrete Änderungsanträge übersetzen
+
+Bei Verweis auf den [Berliner Bericht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/vergesellschaftung-artikel-15/references/berliner-kommissionsbericht.md) nicht mit Mehrheitszahlen argumentieren. Für jeden tragenden Einwand die stärkste Gegenposition ausarbeiten: belegte Versorgungswirkung gegen Eingriffsgewicht, dauerhafte Gemeinwirtschaft gegen bloßen Eigentümerwechsel, begründete Auswahl gegen willkürliche Schwelle, finanzierbare Umsetzung gegen unzureichenden Ausgleich. Die Minderheit bestreitet nicht jede Vergesellschaftung, sondern insbesondere Maßstab und damalige Tatsachengrundlage. Verlange daher konkrete aktuelle Wirkungsdaten oder eine bestimmte Regeländerung. Ein Eigentümer kann einen engeren Zuschnitt verlangen, ohne den Hauptangriff aufzugeben; eine Initiative muss den strengeren Prüfungsmaßstab ernsthaft beantworten. Übernimm nach der Mandantenentscheidung den gewählten Antrag in Einleitung und Schluss, ohne interne Alternativen als widersprüchliche Endfassung zu versenden.
 
 # 4. Quellenpflicht
 
@@ -236,6 +254,10 @@ Lege Artikel 45 der Hessischen Verfassung im Zusammenhang mit ihren Wirtschaftsb
 
 Liefere für jede streitige Regelung eine begründete Aussage mit einer konkreten Änderungs- oder Aufklärungsfolge. Eine Haushaltsgenehmigung ersetzt weder Gesetzgebungskompetenz noch Eigentumsprüfung. Neue Angaben zum Unternehmensursprung ändern den historischen Abschnitt; ein auf Hessen beschränkter Anlagenzuschnitt verändert den Territorialabschnitt. Die übrigen geprüften Teile bleiben erhalten. Entwerfe auf Wunsch sofort die daraus folgende Stellungnahme oder Gesetzesbegründung, nicht nur einen Hinweis auf weiteren Beratungsbedarf.
 
+## 3.5. Berliner Gegenpositionen kontrolliert übertragen
+
+Bearbeite bei Berufung auf den [Berliner Bericht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/vergesellschaftung-artikel-15/references/berliner-kommissionsbericht.md) beide Landesverfassungsthesen: Nach der Mehrheit darf Artikel 23 VvB die grundgesetzlich eröffnete Vergesellschaftung nicht sperren; das Sondervotum verlangt zuvor eine Landesverfassungsänderung. Begründe für das tatsächlich betroffene Land Schutzumfang, Normkollision und Bedeutung von Artikel 142 GG. Weder die Berliner Mehrheitslösung noch das Sondervotum entscheidet ohne Weiteres Artikel 45 der Hessischen Verfassung. Für Nebenregeln, etwa Mietvertragsfortbestand, die behauptete Unerlässlichkeit konkret prüfen; bloße Zweckmäßigkeit genügt nicht zur Überschreibung von Bundesrecht. Das Berliner Rahmengesetz vom 18.03.2026, verkündet am 27.03.2026, tritt nach Paragraf 8 erst 24 Monate nach Verkündung in Kraft. Am 30.09.2026 daher nicht als geltende hessische oder Berliner Übertragungsgrundlage verwenden. Fassung und Zeitbezug im Vermerk ausdrücklich festhalten.
+
 # 4. Quellenpflicht
 
 Nutze [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/vergesellschaftung-artikel-15/references/zitierweise.md) und [Quellenstand](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/vergesellschaftung-artikel-15/references/vergesellschaftung-quellen.md). Artikel 31, 72, 74, 142 GG; Artikel 39–41, 45 und 137 der Hessischen Verfassung. BVerfG vom 15.10.1997, 2 BvN 1/95, Rn. 62–69, nur für das Verhältnis der Normebenen heranziehen, nicht als Entscheidung über ein hessisches Artikel-15-Gesetz. Aktuelle amtliche Fassungen prüfen.
@@ -281,6 +303,12 @@ Ein Anteilserwerb und eine Übertragung einzelner Anlagen brauchen unterschiedli
 ## 3.4. Bearbeitung nach Entscheidungen fortführen
 
 Nach einer bestätigten Anlagenvariante ersetze die alternative Anteilsregel und bereinige alle Folgeverweise. Nach einem neuen Entschädigungsmodell aktualisiere Normtext, Begründung, Finanzierung und Inkrafttretensbedingungen. Prüfe am Schluss jede genannte Anlage, jede Definition und jeden Verweis. Nur tatsächlich entscheidungsbedürftige Stellen dürfen als klare Platzhalter verbleiben; die umgebende Bestimmung wird vollständig formuliert.
+
+## 3.5. Auswahl und Verhältnismäßigkeit begründen
+
+Arbeite mit den [Gegenproben zum Berliner Bericht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/vergesellschaftung-artikel-15/references/berliner-kommissionsbericht.md): Die Mehrheitslinie gewichtet die strukturelle Neuordnung eigenständig; ihr Erforderlichkeitsvergleich bezieht sich dennoch auf die weiteren Gemeinwohlziele, damit er nicht tautologisch ausfällt. Prüfe daneben den strengeren Ansatz des Sondervotums mit belastbaren Wirkungsannahmen und verfügbaren milderen Mitteln. Halte fest, ob eine Norm unter beiden Ansätzen trägt und welche Daten das Ergebnis verändern. Entschädigung heilt keine unzulässige Übertragung.
+
+Begründe Schwellenwert, Stichtag, Konzernzurechnung, Sockelbestand und Ausnahmen jeweils mit der passenden Vergleichsgruppe nach Artikel 3 Absatz 1 GG. Die Berliner Größenordnung von 3000 Wohnungen ist keine allgemeine Tatbestandsgrenze. Bei kirchlichen Trägern zusätzlich konkrete Zweckbindung und Religionsfreiheit prüfen. Nach einer Entscheidung zur Auswahl Normtext, Anlage, Entschädigung und Begründung gemeinsam aktualisieren; nicht nur die Zahl in einer Tabelle ändern.
 
 # 4. Quellenpflicht
 
@@ -328,6 +356,10 @@ Formuliere Verfügungsgrenzen, Veräußerungszuständigkeit, Transparenz, Prüfu
 
 Geht eine Entscheidung über neun statt elf Verwaltungsratssitze ein, passe Zusammensetzung, Quoren und Konfliktregeln gemeinsam an. Wird eine Haushaltsabführung gestrichen, ändere Finanzplan und Überschussregel, nicht das restliche Dokument. Liefere den bestellten Satzungs- oder Gesetzesabschnitt ausformuliert und trenne nur wirklich noch unentschiedene Varianten. Keine konkurrierenden Alternativfassungen als unterschriftsreife einheitliche Regelung ausgeben.
 
+## 3.5. Zweckbindung einer Belastungsprobe unterziehen
+
+Nutze den [Berliner Bericht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/vergesellschaftung-artikel-15/references/berliner-kommissionsbericht.md) zur Gegenprüfung: Würde der entworfene Träger weiterhin höchstmögliche Erträge nur für andere öffentliche Aufgaben abschöpfen? Dann fehlt nicht bloß ein schönerer Zweckabsatz, sondern möglicherweise die gemeinwirtschaftliche Bewirtschaftung gerade des übernommenen Bestands. Formuliere für Netze Vorrang und Finanzierung erforderlicher Instandhaltung; für Wohnungen Regeln zu Erhaltung, Zugang und Mietgestaltung passend zum Auftrag. Lege Kontrollzuständigkeit und Folgen der Zweckabweichung fest. Prüfe Nutzerbeteiligung neben demokratischer Verantwortlichkeit; der Bericht hat nicht jedes Beteiligungsmodell abschließend legitimiert. Überführe die festgestellte Lücke unmittelbar in eine ausformulierte Organisationsregel, ohne die Vorlage mit dem gesamten Meinungsstreit zu belasten.
+
 # 4. Quellenpflicht
 
 [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/vergesellschaftung-artikel-15/references/zitierweise.md); [Quellenstand](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/vergesellschaftung-artikel-15/references/vergesellschaftung-quellen.md), insbesondere Artikel 15 GG, Artikel 40 und 137 der Hessischen Verfassung sowie Paragrafen 7 und 46 EnWG. Rechtsformabhängiges Organisationsrecht ist vor abschließender Satzung konkret amtlich nachzuprüfen. Die WD-Ausarbeitung dient der eingeordneten Diskussion, nicht als verbindlicher Organisationskatalog.
@@ -373,6 +405,10 @@ Eine ungeklärte Beteiligungsstruktur verlangt eine konkrete Unterlagenanforderu
 ## 3.4. Nach Antworten fortsetzen
 
 Wird ein Gesetzesentwurf nachgereicht, prüfe seine tatsächlichen Rechtsfolgen und ersetze nur die bisher bedingte Einordnung. Wird statt Anlagenübertragung eine Anteilsübertragung gewählt, ändere Betroffenheit, Entschädigungsempfänger und territorialen Prüfgegenstand. Führe die Beratung danach bis zum bestellten Ergebnis fort, ohne erneut alle Tatsachen abzufragen.
+
+## 3.5. Kommissionsargumente am Auftrag prüfen
+
+Wird der Berliner Abschlussbericht herangezogen, bestimme zuerst, welche These für das konkrete Vorhaben benötigt wird. Die Mehrheit versteht Vergesellschaftung als eigenständige strukturelle Neuordnung; Gegenpositionen verlangen eine strengere Prüfung ihrer zusätzlichen Gemeinwohlwirkungen. Eine Kommissionsmehrheit entscheidet den Verfassungsstreit nicht. Nutze die [Argumente und Gegenproben](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/vergesellschaftung-artikel-15/references/berliner-kommissionsbericht.md) nur für die entscheidungserhebliche Frage. Frage bei einem Netzvorhaben nach dem belegten Versorgungs- oder Investitionsdefizit, soweit es der Ordner nicht beantwortet; übertrage keine Berliner Mietprognose. Der Beratungsbrief erläutert, welche Tatsachen unter dem strengeren Maßstab fehlen und welches Dokument jetzt weiterhilft. Ein Bericht, ein noch nicht geltendes Rahmengesetz und ein vollziehender Übertragungsakt sind verschiedene Dinge.
 
 # 4. Quellenpflicht
 
@@ -423,6 +459,10 @@ Identifiziere die tatsächlich benötigten Netz-, Mess- und Beschäftigtendaten,
 ## 3.5. Fortsetzung
 
 Nach Eingang eines Konzessionsvertrags ändere nur dessen Übergang und die davon abhängige Zeitplanung. Nach einer verbindlichen Garantieentscheidung aktualisiere die Auszahlungsvoraussetzungen, aber erkläre damit nicht automatisch die Beihilfeprüfung für erledigt. Arbeite bis zur bestellten unterschriftsfähigen Klausel oder zum vollständigen Vermerk weiter.
+
+## 3.6. Berliner Wohnungsargumente nicht als Netzfreigabe lesen
+
+Die unions- und völkerrechtliche Einschätzung im [Berliner Bericht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/vergesellschaftung-artikel-15/references/berliner-kommissionsbericht.md) bezieht sich auf das dortige Vorhaben und den damaligen Kenntnisstand. Für ein Netz Gemeinwohlwirkung, grenzüberschreitende Beteiligung, staatliche Mittel und Betriebsregeln neu prüfen. Behauptete Mietsenkungen beweisen keine günstigeren Netzentgelte. Artikel 49 und 63 AEUV nach Art der Beteiligung und Beschränkung zuordnen; Artikel 345 befreit nicht davon. Bei einem behaupteten Investitionsschutzanspruch Beteiligungskette, Nationalität, geltendes Abkommen und Streitbeilegungsregel beschaffen, bevor ein Risiko verneint wird. Eigentumsschutz nach Artikel 1 des ersten EMRK-Zusatzprotokolls bleibt eine eigene Ebene. In den Übergangsvermerk nur entscheidungserhebliche Bedingungen aufnehmen; kein ungefragtes Gutachten zu sämtlichen denkbaren Abkommen.
 
 # 4. Quellenpflicht
 

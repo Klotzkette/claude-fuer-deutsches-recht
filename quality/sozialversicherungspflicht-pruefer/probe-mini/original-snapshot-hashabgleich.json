@@ -1,0 +1,198 @@
+{
+  "checked_utc": "2026-09-30T07:56:15.014929+00:00",
+  "snapshot": "qa-local/probe-mini/eingabe-original-stand-1",
+  "files": [
+    {
+      "file": "01_Auftrag_20260929.eml",
+      "expected_sha256": "49dd504339657056b4af99f5803ffa4b403b5946620d87b9adc231d427d88a3b",
+      "snapshot_sha256": "49dd504339657056b4af99f5803ffa4b403b5946620d87b9adc231d427d88a3b",
+      "matches": true
+    },
+    {
+      "file": "02_Satzung_unterzeichnet.docx",
+      "expected_sha256": "91a946cf3dce55776fbb616dc33cc087333bb5767d3c3c62c9b7c5d273b89a3e",
+      "snapshot_sha256": "91a946cf3dce55776fbb616dc33cc087333bb5767d3c3c62c9b7c5d273b89a3e",
+      "matches": true
+    },
+    {
+      "file": "03_Registerchronologie_20260929.pdf",
+      "expected_sha256": "072b3cf86a690d98ee1da0696c2c38fdfd995c0ebd5f12d60456aa168d85b717",
+      "snapshot_sha256": "072b3cf86a690d98ee1da0696c2c38fdfd995c0ebd5f12d60456aa168d85b717",
+      "matches": true
+    },
+    {
+      "file": "04_Gesellschafterliste.pdf",
+      "expected_sha256": "5b229b33b52fdad200185eb1d0483a9ca4a37ac31871291427b440d8371361fb",
+      "snapshot_sha256": "5b229b33b52fdad200185eb1d0483a9ca4a37ac31871291427b440d8371361fb",
+      "matches": true
+    },
+    {
+      "file": "05_Bestellung_Geschaeftsfuehrung.docx",
+      "expected_sha256": "9005b165f6926a2ec2bc030d377428b645840cb76bdf7d92d76b134996b187fa",
+      "snapshot_sha256": "9005b165f6926a2ec2bc030d377428b645840cb76bdf7d92d76b134996b187fa",
+      "matches": true
+    },
+    {
+      "file": "06_Geschaeftsfuehrer_Anstellungsvertrag.docx",
+      "expected_sha256": "c9af983b9a5081bcee4544a21d1c0263c281e4b8d5a5097e920f4e29ad090135",
+      "snapshot_sha256": "c9af983b9a5081bcee4544a21d1c0263c281e4b8d5a5097e920f4e29ad090135",
+      "matches": true
+    },
+    {
+      "file": "07_Shareholder_Agreement.docx",
+      "expected_sha256": "4829a82acb4327279d87e8074162d736c82846d99b3e11338440e32f7817614b",
+      "snapshot_sha256": "4829a82acb4327279d87e8074162d736c82846d99b3e11338440e32f7817614b",
+      "matches": true
+    },
+    {
+      "file": "08_Geschaeftsordnung.docx",
+      "expected_sha256": "79b7f0252a889ac6709ae304899817094b5c734320d7e516363351bd21044918",
+      "snapshot_sha256": "79b7f0252a889ac6709ae304899817094b5c734320d7e516363351bd21044918",
+      "matches": true
+    },
+    {
+      "file": "09_Satzungsaenderung_Entwurf.docx",
+      "expected_sha256": "a99900d5c856f165e6ce414e6e40045fbe110592e267fdb9a48f57821c0b3e80",
+      "snapshot_sha256": "a99900d5c856f165e6ce414e6e40045fbe110592e267fdb9a48f57821c0b3e80",
+      "matches": true
+    },
+    {
+      "file": "10_Protokoll_Budget_20260818.docx",
+      "expected_sha256": "77fe8609b645c7f2caf3e7290ee89a74a8d99dd6c058386b760d06ef0ee8be89",
+      "snapshot_sha256": "77fe8609b645c7f2caf3e7290ee89a74a8d99dd6c058386b760d06ef0ee8be89",
+      "matches": true
+    },
+    {
+      "file": "11_Gehaltsnachtrag_20251212.pdf",
+      "expected_sha256": "36dac2a3514fc6ca1e542e4dfd6fde28eb787fd2b6a09327313c6c13e1d271dd",
+      "snapshot_sha256": "36dac2a3514fc6ca1e542e4dfd6fde28eb787fd2b6a09327313c6c13e1d271dd",
+      "matches": true
+    },
+    {
+      "file": "12_Abrechnung_202608.pdf",
+      "expected_sha256": "7aa5c00b333e09753e455b1d3266b62219d51f6d2905231c603dd40a5dc3fac1",
+      "snapshot_sha256": "7aa5c00b333e09753e455b1d3266b62219d51f6d2905231c603dd40a5dc3fac1",
+      "matches": true
+    },
+    {
+      "file": "13_Bankbuchung_August_2026.pdf",
+      "expected_sha256": "30b317704f0963fbd19827631f790e7c5df2eb7aa4c190bb31304449f2cd362e",
+      "snapshot_sha256": "30b317704f0963fbd19827631f790e7c5df2eb7aa4c190bb31304449f2cd362e",
+      "matches": true
+    },
+    {
+      "file": "14_Anteilsuebersicht.xlsx",
+      "expected_sha256": "e039bdd8e5d947325745ad22387959f1d5b59c575e8f79dcdc37d5d4ecd9c64a",
+      "snapshot_sha256": "e039bdd8e5d947325745ad22387959f1d5b59c575e8f79dcdc37d5d4ecd9c64a",
+      "matches": true
+    },
+    {
+      "file": "15_Verguetungen_2025_2026.xlsx",
+      "expected_sha256": "019347e4ff0fc2ada16fafa3a80e33a02e0a56a68d1095556654f172b660e587",
+      "snapshot_sha256": "019347e4ff0fc2ada16fafa3a80e33a02e0a56a68d1095556654f172b660e587",
+      "matches": true
+    },
+    {
+      "file": "16_Gesellschafterdarlehen.docx",
+      "expected_sha256": "6309c702323f3b13ee19e7e05610019c8020c0f639338163ef2dd043326fc97e",
+      "snapshot_sha256": "6309c702323f3b13ee19e7e05610019c8020c0f639338163ef2dd043326fc97e",
+      "matches": true
+    },
+    {
+      "file": "17_Lohnstelle_Rueckfrage.eml",
+      "expected_sha256": "1836b7bc4a4550d1c7eef30584752a58cd3f1aa30647a3e5c830e5dbf8889611",
+      "snapshot_sha256": "1836b7bc4a4550d1c7eef30584752a58cd3f1aa30647a3e5c830e5dbf8889611",
+      "matches": true
+    },
+    {
+      "file": "18_Antwort_Gesellschafter.eml",
+      "expected_sha256": "b4922462dd05e1da452a5deac6d12d8c36b1571922dfd5766989f7ad28e6a515",
+      "snapshot_sha256": "b4922462dd05e1da452a5deac6d12d8c36b1571922dfd5766989f7ad28e6a515",
+      "matches": true
+    },
+    {
+      "file": "19_Notariat_Stand.eml",
+      "expected_sha256": "8327e22f0058522e78f02f4fcfe8b091e13400bfa6c80918ae7fd60761b6991a",
+      "snapshot_sha256": "8327e22f0058522e78f02f4fcfe8b091e13400bfa6c80918ae7fd60761b6991a",
+      "matches": true
+    },
+    {
+      "file": "20_Budget_Widerspruch.eml",
+      "expected_sha256": "fa6a4be0f6c5a2c28d365ce005c4a2a3b00f9659b9904b059d99fc7ca738b75f",
+      "snapshot_sha256": "fa6a4be0f6c5a2c28d365ce005c4a2a3b00f9659b9904b059d99fc7ca738b75f",
+      "matches": true
+    },
+    {
+      "file": "21_Urlaub_Handover.eml",
+      "expected_sha256": "e4409ee45988c4942b3fdedd68561030720501bda9278a81f1e437e81ed65e9d",
+      "snapshot_sha256": "e4409ee45988c4942b3fdedd68561030720501bda9278a81f1e437e81ed65e9d",
+      "matches": true
+    },
+    {
+      "file": "22_Archivsuche_Bescheid.eml",
+      "expected_sha256": "20c34f0d782eb6f14d2e00781b05882fa5ff5d468f6bcae7c14890b661e1f4f0",
+      "snapshot_sha256": "20c34f0d782eb6f14d2e00781b05882fa5ff5d468f6bcae7c14890b661e1f4f0",
+      "matches": true
+    },
+    {
+      "file": "23_Option_oder_Mediation.eml",
+      "expected_sha256": "7bb83e8cddf094dfe8cb0ac8b498ce392c61df94dbf39ac99ca1575f9d5dbc8a",
+      "snapshot_sha256": "7bb83e8cddf094dfe8cb0ac8b498ce392c61df94dbf39ac99ca1575f9d5dbc8a",
+      "matches": true
+    },
+    {
+      "file": "24_Auslagen_Beleg.eml",
+      "expected_sha256": "94dc73851046f99d0fcb6eb084f470d6c75dd7380a24ffc593ef0f046846e5f5",
+      "snapshot_sha256": "94dc73851046f99d0fcb6eb084f470d6c75dd7380a24ffc593ef0f046846e5f5",
+      "matches": true
+    },
+    {
+      "file": "25_Zahlungen_2026.csv",
+      "expected_sha256": "9f28bed0a0b93dcc79ef1e7c09ce91cb4edbaa7356f99ee86b5ba4a42859ddb1",
+      "snapshot_sha256": "9f28bed0a0b93dcc79ef1e7c09ce91cb4edbaa7356f99ee86b5ba4a42859ddb1",
+      "matches": true
+    },
+    {
+      "file": "26_Projektzeiten_August.csv",
+      "expected_sha256": "d78e174324e5b64a3b28dc1f3a0d85daf3a025b97c4fb1e9952a99043b68c655",
+      "snapshot_sha256": "d78e174324e5b64a3b28dc1f3a0d85daf3a025b97c4fb1e9952a99043b68c655",
+      "matches": true
+    },
+    {
+      "file": "27_Chat_Export_20260925.txt",
+      "expected_sha256": "70c4469a402e67a0b5e1f022778c4db08f25510ef2f3fedec248baaafbedd740",
+      "snapshot_sha256": "70c4469a402e67a0b5e1f022778c4db08f25510ef2f3fedec248baaafbedd740",
+      "matches": true
+    },
+    {
+      "file": "28_Telefonnotiz_20260929.txt",
+      "expected_sha256": "4a36aee3dd152232e0994cf68e751332d888b0fa77cfd99699ce1a4f4ab94344",
+      "snapshot_sha256": "4a36aee3dd152232e0994cf68e751332d888b0fa77cfd99699ce1a4f4ab94344",
+      "matches": true
+    },
+    {
+      "file": "29_Ablagenotiz_Zeitstempel.txt",
+      "expected_sha256": "56b6ab7d74132c994d234899962986cb18609fe965ba9f6e77aac5ed9ec6107c",
+      "snapshot_sha256": "56b6ab7d74132c994d234899962986cb18609fe965ba9f6e77aac5ed9ec6107c",
+      "matches": true
+    },
+    {
+      "file": "30_Beratungstermin_20261007.ics",
+      "expected_sha256": "16ace76e22e2bb430ba42bf9375b5e238f5b2e06bc7cef6ff8a13d39d94c0529",
+      "snapshot_sha256": "16ace76e22e2bb430ba42bf9375b5e238f5b2e06bc7cef6ff8a13d39d94c0529",
+      "matches": true
+    },
+    {
+      "file": "31_Buchungsbeleg_Darlehen.pdf",
+      "expected_sha256": "4ee4162179d27b574f8f30a77ed6b07a9b5e7b95995c05a35d7d9674d908700e",
+      "snapshot_sha256": "4ee4162179d27b574f8f30a77ed6b07a9b5e7b95995c05a35d7d9674d908700e",
+      "matches": true
+    },
+    {
+      "file": "32_Uebergabe_20260930.eml",
+      "expected_sha256": "9bb5adf831f8f1531faa7ce4acce511950f365a442263f4d5ecec1a9a224ba44",
+      "snapshot_sha256": "9bb5adf831f8f1531faa7ce4acce511950f365a442263f4d5ecec1a9a224ba44",
+      "matches": true
+    }
+  ]
+}

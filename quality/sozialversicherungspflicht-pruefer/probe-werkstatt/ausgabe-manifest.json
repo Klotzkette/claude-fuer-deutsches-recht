@@ -1,0 +1,58 @@
+{
+  "abgeschlossen_am": "2026-09-30T08:03:23.525079+00:00",
+  "versandt": false,
+  "repository_durch_probe_veraendert": false,
+  "zugrunde_liegender_stand": "initialer Rohaktenstand laut eingabe-manifest.json; 27 Originale gesichert und abgeglichen",
+  "ausgaben": [
+    {
+      "datei": "eingaben.md",
+      "bytes": 669,
+      "sha256": "d721a1de25347564e5893b4a904bf9be419374674b20d5af031739a50f5704f5"
+    },
+    {
+      "datei": "ergebnis-1.md",
+      "bytes": 5700,
+      "sha256": "10cc8d6c16392912fd85e45f7b88d588ec64edfe109e14dd4f5ee8d389240cba"
+    },
+    {
+      "datei": "simulierte-antwort.md",
+      "bytes": 2519,
+      "sha256": "fb73a808612a6c0bc1cf1040519d2fbc44c60bb4c571f2be9b661d0e23c5e179"
+    },
+    {
+      "datei": "ergebnis-2.md",
+      "bytes": 27014,
+      "sha256": "65eac962508edd11cd5e0822416a8626296fb91e438ae9592b029fc6a8d66878"
+    },
+    {
+      "datei": "antwortschreiben-akademie.md",
+      "bytes": 9257,
+      "sha256": "f730c331ce90f6c5ba898e94bd0b2837ae3461c1eaef3138277681a109eb554e"
+    },
+    {
+      "datei": "ablauf-und-quellen.md",
+      "bytes": 14989,
+      "sha256": "e9adaa027398d5e35d00ea11988833968dcb595c5db2b1f6b213f6c56deea9de"
+    },
+    {
+      "datei": "aktenregister.md",
+      "bytes": 6395,
+      "sha256": "056ab43fa6f4dab34cf351876cced56600d35cf4a3a0b5f21782f8bfa184e0cc"
+    },
+    {
+      "datei": "snapshot-abgleich.json",
+      "bytes": 5668,
+      "sha256": "63b1eec0192ccc48a441e7c8870e09c806476e8507287f4702f08b6d3993a2f3"
+    },
+    {
+      "datei": "eingabe-manifest.json",
+      "bytes": 8462,
+      "sha256": "6f74ce584adf793e2b04f9e3426527a9c9d0aa256188afe36c4bc1fd6fe7aece"
+    },
+    {
+      "datei": "anhang-manifest.json",
+      "bytes": 368,
+      "sha256": "e3a3cc2049a0525eb1ff98dde06500fb6658e94e2ebf2f46ac613c2c9271d881"
+    }
+  ]
+}

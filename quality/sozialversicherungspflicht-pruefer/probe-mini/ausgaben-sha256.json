@@ -1,0 +1,27 @@
+[
+  {
+    "file": "ergebnis-1.md",
+    "bytes": 3168,
+    "sha256": "bf5efb4d3c99755caaa4a61ef4f9698be58e6ecb29fe80677983147f7aae67b6"
+  },
+  {
+    "file": "ergebnis-2.md",
+    "bytes": 14978,
+    "sha256": "60bd9fd3a611264152b7fb3d6a172f9fb35e80e64c73c5327ff7925b14cc567f"
+  },
+  {
+    "file": "schreiben-lohnstelle.md",
+    "bytes": 8807,
+    "sha256": "4acf2e8d0a1a461a9ef49e3f161e79017131f9c17f16a6e50ff7db1dbd5a14c0"
+  },
+  {
+    "file": "schreiben-lohnstelle.html",
+    "bytes": 9540,
+    "sha256": "24818f20cfc7c44611019a6bcc5ca144999a5fc0a0b137e015a3dc055f2e75fa"
+  },
+  {
+    "file": "probeprotokoll.md",
+    "bytes": 14518,
+    "sha256": "37a2be6cff46e6c1c1c0526a705804a9a54be57bfb86fc1cf25fef1569e08325"
+  }
+]

@@ -95,6 +95,12 @@ Eine schwere Nutzungsbeschränkung ist nicht schon eine Enteignung. Artikel 14 A
 
 Spezialgesetzliche Straßen-, Eisenbahn- und Energieverfahren sind zuerst nach ihrem eigenen Fachrecht einzuordnen. Die BauGB-Route wird nicht allein wegen des Wortes „Verkehrsfläche“ unterstellt. Ein Bebauungsplan ist weder Eigentumsübertragung noch automatische Besitzeinweisung. Rechtsstand der verifizierten Ausgangsquellen: 28.09.2026; für die konkrete Bearbeitung erneut prüfen.
 
+### 1.3.1. Berliner Bericht als Gegenprüfung
+
+Der Berliner Kommissionsbericht von 2023 wird für die Abgrenzung zur Vergesellschaftung, belegte Zweckwirkungen, dauerhafte Zweckbindung und die Grenzen von Entschädigungsargumenten genutzt. Seine Mehrheitspositionen und Sondervoten verändern nicht den BauGB-Maßstab. Die einschlägigen Skills sowie Werkstatt und Schnellstart berücksichtigen diese Grenzen, ohne die Grundstücksbearbeitung durch ein allgemeines Vergesellschaftungsgutachten zu ersetzen.
+
+Die <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=enteignung-artikel-14/references/berliner-kommissionsbericht.md" download>Argumentationskarte als Markdown</a> erklärt auch, weshalb das 2026 verkündete Berliner Rahmengesetz keine Artikel-14-Enteignungsgrundlage ist. English: The report helps distinguish socialisation from expropriation; its contested compensation models do not replace the applicable statutory valuation rules.
+
 ## 1.4. Zentrale Quellenakte Göttingen
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.

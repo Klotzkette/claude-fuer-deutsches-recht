@@ -93,6 +93,12 @@ Die konkrete Güterbeschaffung für ein Einzelvorhaben nach Artikel 14 Absatz 3 
 
 [Amtliche Quellen und Reichweitengrenzen](references/vergesellschaftung-quellen.md), geprüft am 28.09.2026, unterscheiden geltendes Recht, Rechtsprechung und amtliche wissenschaftliche Ausarbeitung. Eine unmittelbar über die Verfassungsmäßigkeit eines modernen Artikel-15-Vergesellschaftungsgesetzes entscheidende BVerfG-Entscheidung wird hier nicht behauptet. Die umstrittenen Maßstäbe werden nicht durch vermeintlich verbindliche Berliner Empfehlungen ersetzt.
 
+### 3.1. Berliner Bericht: Argumente und Gegenargumente
+
+Die Auswertung des Berliner Abschlussberichts von 2023 ist in allen neun Skills sowie in Werkstatt und Schnellstart eingebaut: Verhältnismäßigkeit mit Gegenprobe, gesetzliche Bestimmbarkeit, Auswahlgrenzen, gemeinwirtschaftliche Bindung, Entschädigungsmodelle und Landesverfassungsstreit. Die Bearbeitung führt zu einer begründeten Beratung, einem Entwurf oder einer Stellungnahme, nicht zu einer bloßen Berichtszusammenfassung. Mehrheit, Sondervoten und ergänzende Stellungnahme bleiben unterscheidbar; Berliner Wohnungsannahmen werden nicht ungeprüft auf die hessische Netzakte übertragen.
+
+Die <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vergesellschaftung-artikel-15/references/berliner-kommissionsbericht.md" download>Argumentationskarte als Markdown</a> enthält knappe Fundstellen und den Abgleich mit dem 2026 verkündeten, am 30.09.2026 noch nicht in Kraft befindlichen Berliner Rahmengesetz. Der Bericht wird nicht als Gerichtsurteil behandelt. English: The report's competing arguments inform the workflows; they are not presented as binding law or as a ready-made answer for another state or sector.
+
 ## 4. Zentrale Akte
 
 Die [Energienetzakte Hessen](../testakten/vergesellschaftung-energienetz-hessen/README.md) enthält elf einzelne Arbeitsunterlagen einer geplanten Neuordnung. Die dortige README erschließt die Originalformate. Bewertungsunterlagen und Quellenprotokolle gehören nicht in Arbeitsdownloads.

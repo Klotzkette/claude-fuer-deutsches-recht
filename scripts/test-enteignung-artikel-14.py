@@ -266,5 +266,119 @@ class EnteignungTests(unittest.TestCase):
                     BUILDER.load_case(source)
 
 
+class BerlinerArgumentationskartenTests(unittest.TestCase):
+    """Redaktionelle Textverträge, keine juristische Bewertung von Modellantworten."""
+
+    REFERENCE = "references/berliner-kommissionsbericht.md"
+    MINI = f"{SLUG}-schnellstart.md"
+    WORKSHOP = f"{SLUG}-werkstatt.md"
+
+    def section(self, relative_path, number):
+        source = (PLUGIN / relative_path).read_text(encoding="utf-8")
+        # Nur den bezeichneten Abschnitt prüfen, nicht benachbarte Wortvorkommen.
+        match = re.search(
+            rf"(?ms)^#{{1,6}} {re.escape(number)}\. [^\n]+\n(.*?)(?=^#{{1,6}} |\Z)", source
+        )
+        self.assertIsNotNone(match, (relative_path, number))
+        return " ".join(match[1].split())
+
+    def assert_passages(self, relative_path, number, *passages):
+        text = self.section(relative_path, number)
+        for passage in passages:
+            with self.subTest(file=relative_path, section=number, passage=passage):
+                self.assertIn(" ".join(passage.split()), text)
+
+    def test_package_local_reference_is_linked_from_sources_and_affected_skills(self):
+        reference = PLUGIN / self.REFERENCE
+        self.assertTrue(reference.is_file())
+        self.assertEqual(reference.resolve().parent, (PLUGIN / "references").resolve())
+        affected = ("eingriff-und-verfahrensstand-einordnen", "enteignungszweck-und-alternativen-pruefen",
+                    "entschaedigung-und-folgeschaeden-pruefen")
+        paths = [PLUGIN / "references/rechtsgrundlagen.md",
+                 *(PLUGIN / "skills" / skill / "SKILL.md" for skill in affected)]
+        for path in paths:
+            with self.subTest(file=path.relative_to(PLUGIN)):
+                links = re.findall(r"\]\(([^)]+)\)", path.read_text(encoding="utf-8"))
+                links = [link for link in links if "berliner-kommissionsbericht.md" in link]
+                self.assertTrue(links, path)
+                for link in links:
+                    self.assertNotIn("://", link)
+                    self.assertEqual((path.parent / link.split("#")[0]).resolve(), reference.resolve())
+
+    def test_report_positions_are_not_presented_as_case_law(self):
+        self.assert_passages(self.REFERENCE, "1.1", "Er ist keine Gerichtsentscheidung.",
+                             "Mehrheitspositionen, Sondervoten und die ergänzende Stellungnahme sind als Argumente zu verwenden",
+                             "nicht als geltendes Enteignungsgesetz",
+                             "Die Seitenzahlen beziehen sich auf die gedruckte Zählung.")
+        self.assert_passages(self.REFERENCE, "1.3",
+                             "Die Berliner Mehrheit begründet für Artikel 15 einen modifizierten Verhältnismäßigkeitsmaßstab",
+                             "Das Sondervotum verlangt strengere Kontrolle",
+                             "ohne Vergesellschaftung grundsätzlich auszuschließen")
+        self.assert_passages(self.WORKSHOP, "1.2.1", "Er ist keine Gerichtsentscheidung",
+                             "ohne Vergesellschaftung schlechthin auszuschließen")
+        self.assert_passages(self.MINI, "1.7", "Kommissionspositionen, kein Urteil.",
+                             "Mehrheit und Sondervotum streiten über Artikel-15-Verhältnismäßigkeit und Entschädigung.")
+        self.assert_passages("skills/eingriff-und-verfahrensstand-einordnen/SKILL.md", "3.1",
+                             "Die Kommissionsmehrheit ersetzt keine gerichtliche Klärung.")
+
+    def test_article15_arguments_do_not_replace_article14_workflow(self):
+        self.assert_passages(self.REFERENCE, "1.2",
+                             "Viele Einzelenteignungen sind nicht automatisch Vergesellschaftung",
+                             "Artikel 14 Absatz 3 Sätze 3 und 4, nicht auf dessen gesamten Enteignungstatbestand",
+                             "nicht einen BauGB-Antrag für eine gesetzliche Vergesellschaftung erzeugen")
+        self.assert_passages(self.REFERENCE, "1.3", "Diese Erleichterung nicht in Paragraf 87 BauGB hineinlesen.")
+        self.assert_passages(self.REFERENCE, "1.5", "Berliner Wohnungsannahmen nicht auf Niedersachsen oder Hessen übertragen.")
+        self.assert_passages(self.WORKSHOP, "1.2",
+                             "keinen Artikel-14-Schriftsatz als fertige Artikel-15-Lösung ausgeben")
+        self.assert_passages(self.MINI, "1.7",
+                             "Keine Erleichterung für BauGB 87, keinen Haushaltsabschlag auf 95 übertragen.",
+                             "Entschädigung heilt keinen unzulässigen Zugriff.")
+        self.assert_passages("skills/enteignungszweck-und-alternativen-pruefen/SKILL.md", "3.1",
+                             "senkt nicht die Anforderungen des Paragrafen 87 BauGB",
+                             "Ein höheres Angebot heilt keinen unzulässigen Zugriff.")
+
+    def test_compensation_countermodels_do_not_override_baugb(self):
+        self.assert_passages(self.REFERENCE, "1.4",
+                             "gemeinwirtschaftlichen Ertragswerte, fiskalischen Grenzen und hypothetischen Schrankenmodelle betreffen Artikel 15",
+                             "Die Gegenposition hält am Verkehrswertausgangspunkt und einer eigenständigen Interessenabwägung fest.",
+                             "Daraus folgt weder ein allgemeiner Sozialabschlag",
+                             "Im BauGB-Fall deshalb bei Paragrafen 93, 95–97 bleiben",
+                             "Gesellschaftsvermögen und Anteilwertverlust nicht doppelt ausgleichen.")
+        self.assert_passages(self.WORKSHOP, "1.5.1",
+                             "Das Sondervotum hält dem einen Verkehrswertausgangspunkt",
+                             "Keiner dieser Ansätze setzt Paragrafen 93 und 95–97 BauGB außer Kraft.",
+                             "Ein knapper Haushalt rechtfertigt keinen pauschalen Abschlag",
+                             "eigenes Recht, Kausalität und schon ausgeglichene Wertanteile prüfen")
+        self.assert_passages("skills/entschaedigung-und-folgeschaeden-pruefen/SKILL.md", "3.1",
+                             "seine Artikel-15-Modelle von der BauGB-Berechnung trennen",
+                             "begründen keinen pauschalen Abschlag vom Wert nach Paragraf 95",
+                             "Nutze die Gegenposition zur Kontrolle einer Doppelentschädigung, nicht zur Erfindung eines Anspruchs der Muttergesellschaft.")
+
+    def test_framework_act_2026_is_not_yet_in_force_or_an_article14_basis(self):
+        # Fester Quellenstand; Verkündung und Inkrafttreten bleiben getrennt.
+        for path, number in ((self.REFERENCE, "1.1"), (self.WORKSHOP, "1.9")):
+            with self.subTest(file=path):
+                self.assert_passages(path, number, "18.03.2026", "27.03.2026", "30.09.2026",
+                                     "noch nicht in Kraft")
+                text = self.section(path, number)
+                self.assertRegex(text, r"Paragraf(?:en)? 1 Absatz 2")
+                self.assertRegex(text, r"Paragraf 8[^.]{0,100}erst 24 Monate")
+                self.assertRegex(text, r"nicht für Artikel-14-(?:Enteignungen|Eingriffe)")
+        self.assert_passages(self.REFERENCE, "1.1", "überträgt selbst keine Grundstücke",
+                             "Nicht aus seinem Verkehrswertausgangspunkt einen neuen BauGB-Anspruch ableiten.")
+        self.assert_passages("skills/eingriff-und-verfahrensstand-einordnen/SKILL.md", "3.1",
+                             "kein vollziehender Enteignungstitel und am 30.09.2026 noch nicht in Kraft")
+
+    def test_weg_correction_is_not_the_reports_shortened_classification(self):
+        self.assert_passages(self.REFERENCE, "1.5", "Paragraf 1 Absatz 2 WEG",
+                             "Sondereigentum mit Miteigentumsanteil und nicht bloß ein beschränktes dingliches Recht",
+                             "Die verkürzte Formulierung in Rn. 85 des Berichts nicht übernehmen.",
+                             "folgt kein BauGB-Automatismus")
+        self.assert_passages(self.WORKSHOP, "1.5.1",
+                             "Wohnungseigentum korrekt nach Paragraf 1 Absatz 2 WEG als Sondereigentum mit Miteigentumsanteil behandeln",
+                             "nicht als bloß beschränktes dingliches Recht",
+                             "Nebenrechte und Rang bleiben eigene Positionen.")
+
+
 if __name__ == "__main__":
     unittest.main(verbosity=2)

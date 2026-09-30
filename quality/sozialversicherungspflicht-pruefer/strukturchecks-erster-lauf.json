@@ -1,0 +1,622 @@
+[
+  {
+    "check": "000-test-skill-map-references",
+    "command": [
+      "--test",
+      "scripts/test-skill-map-references.mjs"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "001-validate-plugin-structure",
+    "command": [
+      "scripts/validate-plugin-structure.mjs"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "002-validate-root-readme-overview",
+    "command": [
+      "scripts/validate-root-readme-overview.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "003-quality-lab",
+    "command": [
+      "scripts/quality-lab.py",
+      "audit"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "004-validate-yaml-frontmatter",
+    "command": [
+      "scripts/validate-yaml-frontmatter.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "005-test-marketplace-import",
+    "command": [
+      "scripts/test-marketplace-import.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "006-validate-marketplace-import",
+    "command": [
+      "scripts/validate-marketplace-import.mjs"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "007-validate-runtime-performance",
+    "command": [
+      "scripts/validate-runtime-performance.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "008-test-quality-lab",
+    "command": [
+      "scripts/test-quality-lab.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "009-test-schwerpunkt-coverage",
+    "command": [
+      "scripts/test-schwerpunkt-coverage.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "010-test-run-eval",
+    "command": [
+      "scripts/test-run-eval.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "011-run-eval",
+    "command": [
+      "scripts/run-eval.py",
+      "--quiet",
+      "--structural-only"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "012-test-release-assets",
+    "command": [
+      "scripts/test-release-assets.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "013-test-release-routing",
+    "command": [
+      "scripts/test-release-routing.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "014-test-testakte-pdf-build",
+    "command": [
+      "scripts/test-testakte-pdf-build.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "015-test-testakte-projektordner",
+    "command": [
+      "scripts/test-testakte-projektordner.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "016-test-fintech-bremen",
+    "command": [
+      "scripts/test-fintech-bremen.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "017-test-modefuchs-lebensakte",
+    "command": [
+      "scripts/test-modefuchs-lebensakte.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "018-test-office-resilience",
+    "command": [
+      "scripts/test-office-resilience.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "019-test-testakten-email-quality",
+    "command": [
+      "scripts/test-testakten-email-quality.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "020-test-testakten-ohne-loesungen",
+    "command": [
+      "scripts/test-testakten-ohne-loesungen.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "021-validate-testakten-ohne-loesungen",
+    "command": [
+      "scripts/validate-testakten-ohne-loesungen.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "022-test-testakte-bwa-abstimmung",
+    "command": [
+      "scripts/test-testakte-bwa-abstimmung.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "023-test-testakte-pohlmann-fristen",
+    "command": [
+      "scripts/test-testakte-pohlmann-fristen.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "024-test-datenschutz-fanpage-quellen",
+    "command": [
+      "scripts/test-datenschutz-fanpage-quellen.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "025-validate-testakte-bwa-abstimmung",
+    "command": [
+      "scripts/validate-testakte-bwa-abstimmung.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "026-test-grundsteuer-wolkenfels",
+    "command": [
+      "scripts/test-grundsteuer-wolkenfels.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "027-test-grundsteuerrecht",
+    "command": [
+      "scripts/test-grundsteuerrecht.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "028-test-digitaler-omnibus",
+    "command": [
+      "scripts/test-digitaler-omnibus.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "029-test-schadensregulierung",
+    "command": [
+      "scripts/test-schadensregulierung.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "030-test-notariatswerkstatt",
+    "command": [
+      "scripts/test-notariatswerkstatt.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "031-test-arbeitszeugnispruefer",
+    "command": [
+      "scripts/test-arbeitszeugnispruefer.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "032-test-ki-verordnung-hochrisiko-pruefer",
+    "command": [
+      "scripts/test-ki-verordnung-hochrisiko-pruefer.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "033-test-ki-verordnung-transparenzpruefer",
+    "command": [
+      "scripts/test-ki-verordnung-transparenzpruefer.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "034-test-enteignung-artikel-14",
+    "command": [
+      "scripts/test-enteignung-artikel-14.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "035-test-vergesellschaftung-artikel-15",
+    "command": [
+      "scripts/test-vergesellschaftung-artikel-15.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "036-test-fachpruefer-integration",
+    "command": [
+      "scripts/test-fachpruefer-integration.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "037-test-juristische-praesentationen",
+    "command": [
+      "scripts/test-juristische-praesentationen.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "038-test-geldwaeschepraevention",
+    "command": [
+      "scripts/test-geldwaeschepraevention.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "039-test-arbeitsrecht-asset-deal",
+    "command": [
+      "scripts/test-arbeitsrecht-asset-deal.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "040-test-betriebskosten-hausverwaltung",
+    "command": [
+      "scripts/test-betriebskosten-hausverwaltung.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "041-test-zugewinnausgleich",
+    "command": [
+      "scripts/test-zugewinnausgleich.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "042-test-strassennutzung",
+    "command": [
+      "scripts/test-strassennutzung.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "043-test-anwaltschaft-vertragswerkstatt",
+    "command": [
+      "scripts/test-anwaltschaft-vertragswerkstatt.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "044-test-kompakte-wirtschaftspakete",
+    "command": [
+      "scripts/test-kompakte-wirtschaftspakete.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "045-test-vertragserstellung-kassel-akte",
+    "command": [
+      "scripts/test-vertragserstellung-kassel-akte.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "046-test-wirtschaftsanwalt-hannover-akte",
+    "command": [
+      "scripts/test-wirtschaftsanwalt-hannover-akte.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "047-test-bauwirtschaft",
+    "command": [
+      "scripts/test-bauwirtschaft.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "048-test-bauwirtschaft-einbeck",
+    "command": [
+      "scripts/test-bauwirtschaft-einbeck.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "049-test-bauwirtschaft-northeim",
+    "command": [
+      "scripts/test-bauwirtschaft-northeim.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "050-test-bauwirtschaft-kaufmaennisch",
+    "command": [
+      "scripts/test-bauwirtschaft-kaufmaennisch.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "051-test-bauwirtschaft-hoai-1-3",
+    "command": [
+      "scripts/test-bauwirtschaft-hoai-1-3.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "052-test-bauwirtschaft-hoai-4-6",
+    "command": [
+      "scripts/test-bauwirtschaft-hoai-4-6.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "053-test-bauwirtschaft-hoai-7-9",
+    "command": [
+      "scripts/test-bauwirtschaft-hoai-7-9.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "054-test-bauwirtschaft-hildesheim",
+    "command": [
+      "scripts/test-bauwirtschaft-hildesheim.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "055-test-bauwirtschaft-hildesheim-lebensakte",
+    "command": [
+      "scripts/test-bauwirtschaft-hildesheim-lebensakte.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "056-audit-skill-activation",
+    "command": [
+      "scripts/audit-skill-activation.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "057-test-skill-selection",
+    "command": [
+      "scripts/test-skill-selection.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "058-test-official-plugin-validation",
+    "command": [
+      "scripts/test-official-plugin-validation.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "059-audit-skill-selection",
+    "command": [
+      "scripts/audit-skill-selection.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "060-validate-testakten-dokumentqualitaet",
+    "command": [
+      "scripts/validate-testakten-dokumentqualitaet.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "061-validate-testakten-gesamt-pdf",
+    "command": [
+      "scripts/validate-testakten-gesamt-pdf.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "062-validate-testakten-keine-markdown-aktenstuecke",
+    "command": [
+      "scripts/validate-testakten-keine-markdown-aktenstuecke.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "063-validate-testakten-csv",
+    "command": [
+      "scripts/validate-testakten-csv.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "064-test-prompt-publication-profiles",
+    "command": [
+      "scripts/test-prompt-publication-profiles.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "065-test-prompt-generator-excerpts",
+    "command": [
+      "scripts/test-prompt-generator-excerpts.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "066-test-prompt-routing-scope",
+    "command": [
+      "scripts/test-prompt-routing-scope.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "067-test-prompt-workflow-preservation",
+    "command": [
+      "scripts/test-prompt-workflow-preservation.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "068-test-prompt-hygiene-links",
+    "command": [
+      "scripts/test-prompt-hygiene-links.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "069-test-portable-starts",
+    "command": [
+      "scripts/test-portable-starts.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "070-test-generate-megaprompt",
+    "command": [
+      "scripts/test-generate-megaprompt.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "071-audit-generated-prompt-hygiene",
+    "command": [
+      "scripts/audit-generated-prompt-hygiene.py"
+    ],
+    "exit": 1
+  },
+  {
+    "check": "072-audit-prompt-profile-routing",
+    "command": [
+      "scripts/audit-prompt-profile-routing.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "073-audit-quickstart-usability",
+    "command": [
+      "scripts/audit-quickstart-usability.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "074-validate-current-law-sentinels",
+    "command": [
+      "scripts/validate-current-law-sentinels.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "075-test-legal-calculators",
+    "command": [
+      "scripts/test-legal-calculators.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "076-test-gmbh-gesellschafterversammlung",
+    "command": [
+      "scripts/test-gmbh-gesellschafterversammlung.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "077-test-liquiditaetsplanung-rechenlogik",
+    "command": [
+      "scripts/test-liquiditaetsplanung-rechenlogik.mjs"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "078-test-liquiditaetsplanung-excel",
+    "command": [
+      "scripts/test-liquiditaetsplanung-excel.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "079-test-bea-versandmappe",
+    "command": [
+      "scripts/test-bea-versandmappe.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "080-test-startup-gruender",
+    "command": [
+      "scripts/test-startup-gruender.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "081-test-schnittflug-erweiterung",
+    "command": [
+      "scripts/test-schnittflug-erweiterung.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "082-test-schnittflug-finanz-native",
+    "command": [
+      "scripts/test-schnittflug-finanz-native.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "083-test-schriftsatz-versandwerkstatt",
+    "command": [
+      "scripts/test-schriftsatz-versandwerkstatt.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "084-validate-testakten-readme-downloads",
+    "command": [
+      "scripts/validate-testakten-readme-downloads.py"
+    ],
+    "exit": 1
+  },
+  {
+    "check": "085-validate-readme-navigation",
+    "command": [
+      "scripts/validate-readme-navigation.py"
+    ],
+    "exit": 1
+  },
+  {
+    "check": "086-test-readme-navigation",
+    "command": [
+      "scripts/test-readme-navigation.py"
+    ],
+    "exit": 0
+  },
+  {
+    "check": "087-validate-markdown-structure",
+    "command": [
+      "scripts/validate-markdown-structure.py"
+    ],
+    "exit": 0
+  }
+]

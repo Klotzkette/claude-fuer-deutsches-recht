@@ -33,6 +33,10 @@ Identifiziere die tatsächlich benötigten Netz-, Mess- und Beschäftigtendaten,
 
 Nach Eingang eines Konzessionsvertrags ändere nur dessen Übergang und die davon abhängige Zeitplanung. Nach einer verbindlichen Garantieentscheidung aktualisiere die Auszahlungsvoraussetzungen, aber erkläre damit nicht automatisch die Beihilfeprüfung für erledigt. Arbeite bis zur bestellten unterschriftsfähigen Klausel oder zum vollständigen Vermerk weiter.
 
+## 3.6. Berliner Wohnungsargumente nicht als Netzfreigabe lesen
+
+Die unions- und völkerrechtliche Einschätzung im [Berliner Bericht](../../references/berliner-kommissionsbericht.md) bezieht sich auf das dortige Vorhaben und den damaligen Kenntnisstand. Für ein Netz Gemeinwohlwirkung, grenzüberschreitende Beteiligung, staatliche Mittel und Betriebsregeln neu prüfen. Behauptete Mietsenkungen beweisen keine günstigeren Netzentgelte. Artikel 49 und 63 AEUV nach Art der Beteiligung und Beschränkung zuordnen; Artikel 345 befreit nicht davon. Bei einem behaupteten Investitionsschutzanspruch Beteiligungskette, Nationalität, geltendes Abkommen und Streitbeilegungsregel beschaffen, bevor ein Risiko verneint wird. Eigentumsschutz nach Artikel 1 des ersten EMRK-Zusatzprotokolls bleibt eine eigene Ebene. In den Übergangsvermerk nur entscheidungserhebliche Bedingungen aufnehmen; kein ungefragtes Gutachten zu sämtlichen denkbaren Abkommen.
+
 # 4. Quellenpflicht
 
 [Zitierweise](../../references/zitierweise.md) und [Quellenvermerk](../../references/vergesellschaftung-quellen.md). EuGH, Urteil vom 22.10.2013, C-105/12 bis C-107/12, Essent, ECLI:EU:C:2013:677, mit konkretem Randnummernbezug und Grenze. Paragrafen 7 und 46 EnWG sowie Artikel 345, 107 und 108 AEUV prüfen. Zusätzliche Normen nur für tatsächlich entscheidungserhebliche Übergangsfragen recherchieren.

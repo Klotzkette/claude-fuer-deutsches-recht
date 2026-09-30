@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "enteignung-artikel-14",
-  "reviewed_on": "2026-09-28",
+  "reviewed_on": "2026-09-30",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/bbaug/__85.html",
@@ -116,7 +116,7 @@
     {
       "url": "https://www.gesetze-im-internet.de/gg/art_15.html",
       "checked_on": "2026-09-28",
-      "supports": "Vergesellschaftungsgegenstände, Ziel und begrenzte Verweisung auf Artikel14 Absatz3 Sätze3/4."
+      "supports": "Vergesellschaftungsgegenstände, Ziel und begrenzte Verweisung auf Artikel 14 Absatz 3 Sätze 3/4."
     },
     {
       "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2013/12/rs20131217_1bvr313908.html",
@@ -157,6 +157,21 @@
       "url": "https://www.gesetze-im-internet.de/bbaug/BauGB.pdf",
       "checked_on": "2026-09-28",
       "supports": "Amtlicher Gesamttext als Ersatzabruf insbesondere für Beteiligung nach106."
+    },
+    {
+      "url": "https://www.berlin.de/kommission-vergesellschaftung/_assets/abschlussbericht_vergesellschaftung-grosser-wohnungsunternehmen-230627.pdf",
+      "checked_on": "2026-09-30",
+      "supports": "Vom Nutzer bereitgestellter Abschlussbericht Juni 2023, zweite durchgesehene Auflage, einschließlich Sondervoten und ergänzender Stellungnahme ausgewertet; Argumente, Gegenpositionen und Grenzen, keine Rechtsprechung."
+    },
+    {
+      "url": "https://www.berlin.de/sen/justiz/service/gesetze-und-verordnungen/2026/ausgabe-nr-9-vom-2732026-s-137-148.pdf",
+      "checked_on": "2026-09-30",
+      "supports": "Amtliche Verkündung Seiten 138–139: Rahmengesetz 18.03.2026, verkündet 27.03.2026, Paragraf 8 Inkrafttreten 24 Monate später; kein konkretes Anwendungsgesetz, keine Artikel-14-Regel."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/woeigg/__1.html",
+      "checked_on": "2026-09-30",
+      "supports": "Absatz 2: Wohnungseigentum als Sondereigentum verbunden mit Miteigentumsanteil; verkürzte Berichtseinordnung nicht übernommen."
     }
   ],
   "mini_review": {
@@ -165,9 +180,10 @@
     "changes": [
       "Behördennorm104 von Eingriffsgrundlage getrennt.",
       "Hannover-Konzentration und unterschiedliche Einreichungsstellen ausdrücklich aufgenommen.",
-      "Nur enteignungsbezogene Inhalte; kein fachfremder Gesetzgebungsabschnitt."
+      "Nur enteignungsbezogene Inhalte; kein fachfremder Gesetzgebungsabschnitt.",
+      "Berliner Kommissionsargumente und Gegenpositionen fallbezogen integriert; Artikel 14/15, Tatsachenprognose und Rechtsstand getrennt."
     ],
-    "sha256": "6fa0b7d691d35a2a5b034bda94599e0d88e4326e50682a3a1ed286abbf1def58",
+    "sha256": "46f1baf671153c48afccaebaaeb40713d9cfdb8c2d4a257bf9a4953613257c9d",
     "reviewed_on": "2026-09-28",
     "method": "desk_review"
   },
@@ -177,9 +193,10 @@
     "changes": [
       "Leerer Einstieg, Ordner ohne Auftrag und klare Aufträge unterschiedlich behandelt.",
       "Rechtsverlust, andere Nachteile, Nebenrechte und Kosten getrennt.",
-      "112/113/117 sowie eigenständigen Besitzschutz präzisiert."
+      "112/113/117 sowie eigenständigen Besitzschutz präzisiert.",
+      "Berliner Kommissionsargumente und Gegenpositionen fallbezogen integriert; Artikel 14/15, Tatsachenprognose und Rechtsstand getrennt."
     ],
-    "sha256": "db1dc04970b596871cbfdb82969d014ec74d433d64ff4c74f9db581dbc34ca3b",
+    "sha256": "6688d7961c9c275dbf313096fd2a8045403d9e2365108c8040d410e937c34fcd",
     "reviewed_on": "2026-09-28",
     "method": "desk_review"
   },
@@ -190,7 +207,7 @@
       "Ordnen Sie die angekündigte Entziehung meiner Hoffläche ein und schreiben Sie mir einen konkreten Mandantenbrief."
     ],
     "negative": [
-      "Entwerfen Sie ein Landesgesetz zur Vergesellschaftung sämtlicher Energienetze nach Artikel15 GG.",
+      "Entwerfen Sie ein Landesgesetz zur Vergesellschaftung sämtlicher Energienetze nach Artikel 15 GG.",
       "Prüfen Sie ausschließlich den Kaufvertrag zwischen zwei Privaten ohne angekündigten hoheitlichen Zugriff."
     ]
   },
@@ -370,7 +387,7 @@
         },
         {
           "id": "C02",
-          "text": "Berücksichtigt BauGB106 Absatz2 mit Zugang der Anmeldung und spätester Anmeldung bis Schluss der mündlichen Verhandlung; fordert fehlenden Nutzungsvertrag konkret an.",
+          "text": "Berücksichtigt BauGB106 Absatz 2 mit Zugang der Anmeldung und spätester Anmeldung bis Schluss der mündlichen Verhandlung; fordert fehlenden Nutzungsvertrag konkret an.",
           "deliverables": [
             "rechtsanmeldung.docx"
           ]
@@ -602,10 +619,78 @@
           ]
         }
       ]
+    },
+    {
+      "id": "berlin-artikel15-kein-baugb-rabatt",
+      "target_skill": "entschaedigung-und-folgeschaeden-pruefen",
+      "request": "Die Stadt verlangt für eine konkrete BauGB-Verkehrsfläche einen Sozialabschlag, weil der Berliner Bericht 2023 Vergesellschaftungsentschädigung unter Marktwert ermögliche. Erstelle die Antwort des Eigentümers.",
+      "input_files": [
+        "enteignung-artikel-14/references/berliner-kommissionsbericht.md"
+      ],
+      "deliverables": [
+        "vermerk.docx"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Berichtspositionen zu Artikel 15 von BauGB 93/95–97 trennen; kein Haushalts- oder Sozialabschlag allein aus der Kommissionsmehrheit.",
+          "deliverables": [
+            "vermerk.docx"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Wertgrundlage, Rechte und weitere Nachteile konkret prüfen; keine generelle verfassungsrechtliche Vollmarktwertgarantie behaupten.",
+          "deliverables": [
+            "vermerk.docx"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Ausformulierter Brief mit begründeter Gegenposition, kein bloßer Link auf anderes Plugin.",
+          "deliverables": [
+            "vermerk.docx"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "berlin-artikel14-keine-heilung",
+      "target_skill": "enteignungszweck-und-alternativen-pruefen",
+      "request": "Der Antragsteller meint, bei großzügiger Entschädigung müsse die Alternativtrasse nicht geprüft werden. Er verweist auf die Berliner Kommission und ein öffentliches Unternehmen als Erwerber. Verfasse eine Einwendung.",
+      "input_files": [
+        "enteignung-artikel-14/references/berliner-kommissionsbericht.md"
+      ],
+      "deliverables": [
+        "vermerk.docx"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Zulässigkeit des Zugriffs und Ausgleich trennen; Entschädigung heilt nicht die fehlende Alternativenprüfung.",
+          "deliverables": [
+            "vermerk.docx"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Zweckbindung und konkrete Wirkung statt bloßer öffentlicher Trägerbezeichnung; Paragraf 87 nicht durch modifizierten Artikel-15-Maßstab abschwächen.",
+          "deliverables": [
+            "vermerk.docx"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Konkrete fallbezogene Einwendung und erforderliche Nachweise, keine Berliner Mietprognose als Verkehrsbedarf.",
+          "deliverables": [
+            "vermerk.docx"
+          ]
+        }
+      ]
     }
   ],
   "prompt_workflow_review": {
-    "date": "2026-09-28",
+    "date": "2026-09-30",
     "method": "desk_review",
     "opening_modes": [
       "Ohne Unterlagen: knappe Frage nach Rolle und jüngstem Schreiben.",
@@ -613,21 +698,22 @@
       "Klarer Auftrag: unmittelbare Bearbeitung mit gezielten Lückenfragen."
     ],
     "continuation": "Nachgereichte technische Unterlagen, Zustellungsnachweise und neue Angebote ändern betroffene Zahlen, Fristen und Entwürfe ohne erneute Vollaufnahme.",
-    "enrichment": "Gesicherte Aktenfakten mit konkret verifizierten Normen und begrenzten BVerfG-Ankern verbinden; vollständige Briefe und Anträge ausarbeiten.",
+    "enrichment": "Gesicherte Aktenfakten mit konkret verifizierten Normen und begrenzten BVerfG-Ankern verbinden; vollständige Briefe und Anträge ausarbeiten. Berliner Gegenpositionen werden in konkrete Begründung, Datennachforderung und Endfassung übersetzt.",
     "limits": "Redaktionelle und deterministische Prüfung, kein Live-Modelllauf; fachrechtliche Sonderregime und spätere Rechtsänderungen benötigen eigene aktuelle Verifikation."
   },
   "prompt_editorial_review": {
-    "date": "2026-09-28",
+    "date": "2026-09-30",
     "files": [
       "enteignung-artikel-14/README.md",
       "enteignung-artikel-14/enteignung-artikel-14-schnellstart.md",
       "enteignung-artikel-14/enteignung-artikel-14-werkstatt.md",
       "enteignung-artikel-14/references/rechtsgrundlagen.md",
-      "quality/evals/enteignung-artikel-14.json"
+      "quality/evals/enteignung-artikel-14.json",
+      "enteignung-artikel-14/references/berliner-kommissionsbericht.md"
     ],
     "opening_change": "Ordner, aktuelles Zugriffsschreiben und Rolle bestimmen das Produkt; keine vorgeschaltete allgemeine Eigentumsrechtsvorlesung.",
     "norms": [
-      "Artikel14 Absatz1 Satz2 und Absatz3 GG; Artikel15 GG als Grenze.",
+      "Artikel 14 Absatz 1 Satz 2 und Absatz 3 GG; Artikel 15 GG als Grenze.",
       "BauGB85,87,92,93,95,96,97,104–108,110,112,113,115–117,121.",
       "BauGB217,221,224; niedersächsische ZustVO-Justiz2."
     ],
@@ -648,7 +734,8 @@
     "remaining_limits": [
       "Keine unabhängige amtliche Verifikation der erfundenen Grundstücks- und Planungsdaten beabsichtigt.",
       "Globale Veröffentlichung, Profile, Aggregate und Downloadpakete sind gesonderte Integration.",
-      "Keine dokumentierte Live-Ausführung der zehn Evaluationsaufträge."
+      "Keine dokumentierte Live-Ausführung der zehn Evaluationsaufträge.",
+      "Bericht 2023 und Sondervoten redaktionell ausgewertet; neue Evaluationsfälle sind nicht als Live-Modelllauf ausgeführt."
     ]
   }
 }

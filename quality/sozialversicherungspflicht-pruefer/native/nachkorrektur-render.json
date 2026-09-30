@@ -1,0 +1,16 @@
+{
+  "erfurt_contract": {
+    "file": "testakten/sozialversicherung-gmbh-fuenfzig-prozent-erfurt/06_Geschaeftsfuehrer_Anstellungsvertrag.docx",
+    "sha256": "02ef053c53b49ba7ba63d6d1a609c67e23482f2111ed4296009c1435c3295e4f",
+    "renderer": "bundled documents/render_docx.py",
+    "pages": 2,
+    "visual_review": "Root viewed both final full-resolution pages, no visible defects."
+  },
+  "music_schedule": {
+    "file": "testakten/sozialversicherung-musikakademie-prenzlauer-berg/03_Unterrichtsbetrieb_September_2025.docx",
+    "sha256": "b9989059d33688555327ad261714cb0710532bc4dea2bcc6b948ed85cddfe10f",
+    "renderer": "bundled documents/render_docx.py",
+    "pages": 1,
+    "visual_review": "Author viewed the complete final page; separate reviewer verified 81 slots and 79 billed units."
+  }
+}
