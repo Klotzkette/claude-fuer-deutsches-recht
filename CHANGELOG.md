@@ -1,3 +1,9 @@
+# v445.19.1 - Release-Härtung der Skill-Aktivierung
+
+Der Fachanwalt-Bestand für Miet- und Wohnungseigentumsrecht unterscheidet die Aktivierungssignale der beiden Wärmepumpen-Workflows jetzt eindeutig. Dadurch wählt das System den fachanwaltlichen Vertiefungsworkflow und den allgemeinen Miet-/WEG-Workflow anhand eigenständiger Beschreibungen aus, statt zwei gleichlautende Signale anzubieten.
+
+Alle Marketplace-, Plugin-, Katalog- und Akten-Downloadstände wurden auf v445.19.1 fortgeschrieben. Der vollständige Release-Gate-Lauf umfasst nun ausdrücklich auch die Prüfung auf doppelte Skill-Beschreibungen.
+
 # v445.19.0 - Großes Dieselgate-Plugin mit neun Aktenpaketen
 
 ## 1. Eigenständiges Plugin für Dieselschadensersatz

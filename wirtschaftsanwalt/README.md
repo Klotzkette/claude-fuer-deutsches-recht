@@ -84,7 +84,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 <!-- END direkt-loslegen (autogen) -->
 
 <!-- decimal-headings -->
-Autor / Author: Klotzkette. Version: 445.19.0.
+Autor / Author: Klotzkette. Version: 445.19.1.
 
 Laufende Beratung eines mittelständischen Unternehmens bis zur konkreten Geschäftsentscheidung und zum fertigen Dokument. Zehn ausführende Skills verbinden Vertrags-, Personal-, Gesellschafts-, Daten- und Liquiditätsfragen. Der Hauptskill bearbeitet selbst; er ist kein bloßes Auswahlmenü.
 

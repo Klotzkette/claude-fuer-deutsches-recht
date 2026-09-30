@@ -1,6 +1,6 @@
 # ordnungswidrigkeitenrecht
 
-**134 Skills** · Stand `v445.19.0`
+**134 Skills** · Stand `v445.19.1`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../ordnungswidrigkeitenrecht/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

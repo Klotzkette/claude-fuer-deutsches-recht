@@ -1,6 +1,6 @@
 {
   "name": "ki-verordnung-hochrisiko-pruefer",
-  "version": "445.19.0",
+  "version": "445.19.1",
   "description": "Prüft Software nach Artikel 6 KI-Verordnung: Produktpfad, sämtliche Anhang-III-Bereiche, Ausnahmen, Profiling und Rollenwechsel. Erstellt Einstufungen, Anbieternachforderungen und Umsetzungsdokumente. Recruiting und eigenmächtige Chatbot-Nutzung bilden den vertieften Praxisfall.",
   "keywords": [
     "ki-verordnung",

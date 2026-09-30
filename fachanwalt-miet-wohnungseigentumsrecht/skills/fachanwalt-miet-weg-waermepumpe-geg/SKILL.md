@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-miet-weg-waermepumpe-geg
-description: "Prüft Wärmepumpe und Heizungstausch in der WEG: aktuelles Heizungsrecht, Beschlussmehrheit, Kostentragung, Schall, Förderung und Mietumlage; erstellt konkrete Beschlüsse und Prüfprodukte."
+description: "Vertieft Wärmepumpe und Heizungstausch für die Fachanwaltspraxis im Miet- und WEG-Recht: Heizungsrecht, Beschluss, Kosten, Schall, Förderung und Mietumlage; erstellt entscheidungsreife Prüfprodukte."
 ---
 
 # 1. Wärmepumpe und Heizungstausch in der WEG

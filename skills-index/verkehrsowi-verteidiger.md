@@ -1,6 +1,6 @@
 # verkehrsowi-verteidiger
 
-**61 Skills** · Stand `v445.19.0`
+**61 Skills** · Stand `v445.19.1`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../verkehrsowi-verteidiger/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

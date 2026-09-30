@@ -1,6 +1,6 @@
 # designrecht-geschmacksmusterrecht
 
-**51 Skills** · Stand `v445.19.0`
+**51 Skills** · Stand `v445.19.1`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../designrecht-geschmacksmusterrecht/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

@@ -1,6 +1,6 @@
 # verfassungsrecht
 
-**69 Skills** · Stand `v445.19.0`
+**69 Skills** · Stand `v445.19.1`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../verfassungsrecht/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
