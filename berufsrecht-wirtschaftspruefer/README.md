@@ -62,7 +62,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
-| [Wirtschaftsprüferrecht: Unabhängigkeit und APAS-Inspektion in Hamburg](../testakten/wirtschaftsprueferrecht-unabhaengigkeit-hamburg/README.md) | [Gesamt-PDF](../testakten/wirtschaftsprueferrecht-unabhaengigkeit-hamburg/gesamt-pdf/wirtschaftsprueferrecht-unabhaengigkeit-hamburg_gesamt.pdf) | [`testakte-wirtschaftsprueferrecht-unabhaengigkeit-hamburg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-wirtschaftsprueferrecht-unabhaengigkeit-hamburg.zip) | [`testakte-wirtschaftsprueferrecht-unabhaengigkeit-hamburg-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-wirtschaftsprueferrecht-unabhaengigkeit-hamburg-einzelpdfs.zip) |
+| [Wirtschaftsprüferrecht: Unabhängigkeit und APAS-Inspektion in Hamburg](../testakten/wirtschaftsprueferrecht-unabhaengigkeit-hamburg/README.md) | [Gesamt-PDF](../testakten/wirtschaftsprueferrecht-unabhaengigkeit-hamburg/gesamt-pdf/wirtschaftsprueferrecht-unabhaengigkeit-hamburg_gesamt.pdf) | [`testakte-wirtschaftsprueferrecht-unabhaengigkeit-hamburg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.20.2/testakte-wirtschaftsprueferrecht-unabhaengigkeit-hamburg.zip) | [`testakte-wirtschaftsprueferrecht-unabhaengigkeit-hamburg-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.20.2/testakte-wirtschaftsprueferrecht-unabhaengigkeit-hamburg-einzelpdfs.zip) |
 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->

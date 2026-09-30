@@ -3,16 +3,17 @@
 ## 1. Aufteilung
 
 GitHub erlaubt [höchstens 1.000 Assets pro Release](https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases).
-`scripts/release-routes.json` benennt aktuell 23 zentrale Akten für den Begleitrelease.
-Nur deren 42 Einzel-ZIPs (Originalformate und Einzel-PDFs) liegen in `akten-vVERSION`.
-Alle bisherigen Assets und Downloadadressen bleiben im Hauptrelease `vVERSION`.
+`scripts/release-routes.json` routet deshalb alle zentralen Akten in den
+Begleitrelease. Je Akte liegen dort beide Einzel-ZIPs (Originalformate und
+Einzel-PDFs) unter `akten-vVERSION`. Plugin-ZIPs, Marketplace und Sammelpakete
+bleiben im Hauptrelease `vVERSION`.
 Die Version stammt aus `.claude-plugin/marketplace.json`, nicht aus `latest`.
 
 Alle Dateien werden zuerst unverändert in `dist` gebaut. Erst nach den vollständigen
 Akten-Sammelpaketen und `alles-komplettpaket.zip` erzeugt `stage-release-assets.py`
 die getrennten Verzeichnisse `release-staging/main` und `release-staging/companion`.
-Die Sammelpakete enthalten weiterhin auch diese 23 Akten. Das Staging prüft
-vor der Aufteilung, dass die konfigurierten Akten-ZIPs in allen drei Sammelpaketen
+Die Sammelpakete enthalten weiterhin alle zentralen Akten. Das Staging prüft
+vor der Aufteilung, dass die gerouteten Akten-ZIPs in allen drei Sammelpaketen
 an ihren vorgesehenen Archivpfaden vorhanden sind.
 Die Stages verwenden Hardlinks (bei getrennten Dateisystemen Kopien); nach dem
 Staging darf der Buildbestand nicht mehr verändert werden. Ein vorhandenes
@@ -24,8 +25,9 @@ Die Prüfsummen im vollständigen `dist` sind nur ein Build-Artefakt, keine List
 der Remote-Assets eines einzelnen Releases. Die tatsächlichen Assetzahlen werden
 bei jedem Build neu ermittelt; die Aufteilung darf die Grenze nicht aufgrund einer
 historischen Beispielzahl freigeben.
-Eine leere `companion_case_slugs`-Liste erzeugt nur den Hauptrelease-Stage und
-behält den bisherigen Publisher-Ablauf bei; das 1000er-Limit gilt weiterhin.
+Das Schema 1 mit einer leeren `companion_case_slugs`-Liste bleibt für gezielte
+Builds und Regressionen rückwärtskompatibel: Es erzeugt nur den Hauptrelease-Stage;
+das 1000er-Limit gilt weiterhin.
 
 ## 2. Tag und Veröffentlichung
 
@@ -57,16 +59,16 @@ zur Platzbeschaffung gelöscht. Build-only-Aufrufe führen keine Remote-Aktionen
 
 `release_routing.py` ist die gemeinsame Quelle für Fall-ZIP-URLs, Dateiauswahl
 und Tags. Die vorhandenen README- und Index-Generatoren ersetzen `latest`-Platzhalter
-der 23 konfigurierten Akten durch versionsfeste Companion-Links, auch außerhalb
+aller zentralen Akten durch versionsfeste Companion-Links, auch außerhalb
 des generierten Downloadblocks. Andere Fall-, Plugin- und Sammelpaketlinks bleiben
 unverändert. Der Download-Validator lehnt veraltete Companion-Versionen und
-`latest`-Platzhalter dieser 23 Akten ab.
+`latest`-Platzhalter dieser Akten ab.
 
-Die Root-README wird in diesem Infrastrukturauftrag nicht regeneriert.
-Kurzer Hinweis für die übergeordnete Integration:
+Root-README, Asset-Index und Pluginseiten werden mit den bestehenden Generatoren
+auf die versionsfesten Companion-Links fortgeschrieben. Kurzfassung:
 
-> Die 46 Einzel-ZIPs der 23 gerouteten Testakten liegen wegen des GitHub-Assetlimits
-> im versionsgleichen Akten-Begleitrelease. Alle Akten-Sammelpakete und das
+> Beide Einzel-ZIP-Varianten aller zentralen Testakten liegen wegen des
+> GitHub-Assetlimits im versionsgleichen Akten-Begleitrelease. Alle Akten-Sammelpakete und das
 > Komplettpaket bleiben vollständig im Hauptrelease; bestehende Links bleiben erhalten.
 
 Offline-Regressionen: `python3 scripts/test-release-routing.py`,

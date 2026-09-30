@@ -280,21 +280,26 @@ class DownloadNoticeTests(unittest.TestCase):
             case.mkdir(parents=True)
             (root / "plugin").mkdir()
             (root / ".claude-plugin").mkdir()
+            repository_version = json.loads(
+                (ROOT / ".claude-plugin/marketplace.json").read_text(encoding="utf-8")
+            )["version"]
             (root / ".claude-plugin/marketplace.json").write_text(
-                json.dumps({"plugins": [{"source": "./plugin"}]}), encoding="utf-8"
+                json.dumps({"version": repository_version, "plugins": [{"source": "./plugin"}]}), encoding="utf-8"
             )
-            overview = ensure_download_notices(
-                "| Akte | Download |\n| --- | --- |\n"
-                "| Akte | [PDF](./akte/gesamt-pdf/akte_gesamt.pdf) "
-                f"· [ZIP]({DOWNLOADS.release_url('akte')}) "
-                f"· [Einzel-PDFs]({DOWNLOADS.release_url('akte', '-einzelpdfs')}) |\n"
-            )
+            with patch.object(DOWNLOADS, "ROOT", root), patch.object(CASES, "REPO_ROOT", root):
+                overview = ensure_download_notices(
+                    "| Akte | Download |\n| --- | --- |\n"
+                    "| Akte | [PDF](./akte/gesamt-pdf/akte_gesamt.pdf) "
+                    f"· [ZIP]({DOWNLOADS.release_url('akte')}) "
+                    f"· [Einzel-PDFs]({DOWNLOADS.release_url('akte', '-einzelpdfs')}) |\n"
+                )
+                case_readme = CASES.section_block("akte", "gesamt-pdf/akte_gesamt.pdf", True)
             files = {
                 "README.md": ensure_download_notices(self.table),
                 "ASSET_INDEX.md": ensure_download_notices(self.table),
                 "plugin/README.md": ensure_download_notices(self.table),
                 "testakten/README.md": overview,
-                "testakten/akte/README.md": CASES.section_block("akte", "gesamt-pdf/akte_gesamt.pdf", True),
+                "testakten/akte/README.md": case_readme,
             }
             for relative, text in files.items():
                 (root / relative).write_text(text, encoding="utf-8")

@@ -154,7 +154,7 @@ Für diesen Anwendungsfall gibt es eine kuratierte, nach Fachanwaltschaften sort
 | **Skills (SKILL.md)** | 22559: [Gesamtübersicht](./SKILLS.md) |
 | **Testakten** | 385 zentral / 388 gesamt |
 | **Fachanwalts-Profile** | 24 |
-| **Plugin-Version / Arbeitsstand** | `v445.20.1` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
+| **Plugin-Version / Arbeitsstand** | `v445.20.2` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
 | **Marketplace-Definition** | [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json) |
 
 ### Sammel-Downloads
@@ -300,7 +300,7 @@ Die Plugins, Skills und Prompts sind Ausgangspunkte für eigene, fachlich kontro
 >
 > This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
-> **ModeFuchs: eine Akte für Forderungsprüfung und Cowork-Bearbeitung.** Die [Inkasso-Zahlungsklage ModeFuchs](./testakten/inkasso-zahlungsklage-modefuchs/README.md) verbindet 28 unveränderte Original-PDFs mit drei daraus abgeleiteten Scan-PDFs, einem Einlieferungsbeleg-Foto, elf nativen E-Mails mit Anhängen, zwei Bildschirmfotos, einem Excel-Forderungskonto und einer bearbeitbaren Klagearbeitsfassung. Belegordnung, Forderungsabgleich und Anlagenzuordnung erfolgen anhand dieses gemeinsamen Fallbestands. Direkt-Download: [`testakte-inkasso-zahlungsklage-modefuchs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-inkasso-zahlungsklage-modefuchs.zip)
+> **ModeFuchs: eine Akte für Forderungsprüfung und Cowork-Bearbeitung.** Die [Inkasso-Zahlungsklage ModeFuchs](./testakten/inkasso-zahlungsklage-modefuchs/README.md) verbindet 28 unveränderte Original-PDFs mit drei daraus abgeleiteten Scan-PDFs, einem Einlieferungsbeleg-Foto, elf nativen E-Mails mit Anhängen, zwei Bildschirmfotos, einem Excel-Forderungskonto und einer bearbeitbaren Klagearbeitsfassung. Belegordnung, Forderungsabgleich und Anlagenzuordnung erfolgen anhand dieses gemeinsamen Fallbestands. Direkt-Download: [`testakte-inkasso-zahlungsklage-modefuchs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.20.2/testakte-inkasso-zahlungsklage-modefuchs.zip)
 
 Die folgende Tabelle enthält alle installierbaren Plugins einzeln und alphabetisch sortiert. Auch Plugins in den Sammelordnern [`gerichtsplugins/`](./gerichtsplugins/) und [`insolvenzrecht-plugins/`](./insolvenzrecht-plugins/) erscheinen mit ihrem eigenen Namen und tatsächlichen Pfad. Thematische Einstiegsknoten stehen zusätzlich unter [`plugin-gruppen/`](./plugin-gruppen/); die vollständigen Downloadwege finden sich im [Asset-Index](./ASSET_INDEX.md).
 

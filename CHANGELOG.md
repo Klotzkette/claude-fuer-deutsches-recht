@@ -1,3 +1,10 @@
+# v445.20.2 - Release-Routing gegen das GitHub-Assetlimit gehärtet
+
+- **Alle zentralen Testakten im Begleitrelease:** Beide ZIP-Varianten jeder zentralen Testakte werden nun einheitlich unter `akten-v445.20.2` veröffentlicht. Plugin-ZIPs, Marketplace und vollständige Sammelpakete bleiben im Hauptrelease.
+- **Großer Sicherheitsabstand statt Grenzfall:** Der Hauptrelease fällt dadurch deutlich unter GitHubs feste Grenze von 1.000 Assets; neue Plugins treiben ihn nicht mehr sofort in einen späten Verpackungsabbruch.
+- **Datengetriebene Vollständigkeit:** Das neue Routing-Schema `all-central` leitet den Begleitrelease unmittelbar aus dem zentralen Testaktenbestand ab. Neue Akten werden nicht mehr durch eine vergessene manuelle Auswahlliste im Hauptrelease belassen.
+- **Rückwärtskompatibel und geprüft:** Das gezielte Schema 1 bleibt für Tests und Sonderbuilds erhalten. Staging, URLs, Prüfsummen, Tags und die geordnete Zwei-Release-Veröffentlichung bleiben durch die Offline-Regressionen abgesichert.
+
 # v445.20.1 - Jura zwischen einfacher und juristischer Standardsprache
 
 ## 1. Rückübertragung mit klaren Grenzen
@@ -22,7 +29,7 @@ Vier weitere fachliche Bewertungsfälle erfassen fehlende Originale, zusätzlich
 
 ## 2. Eigenständige Prompts und Sprache
 
-Beide Pakete enthalten einen ausführlichen Werkstatt-Prompt und einen Mini-Prompt mit höchstens 7500 Zeichen und UTF-8-Bytes. Die Prompts sind eigenständig nutzbar und gegen Überschreiben durch allgemeine Generatoren geschützt. Sie werden getrennt vom installierbaren Plugin bereitgestellt. Die eigenen Sprachregeln orientieren sich an Einfacher Sprache, ohne Zertifizierung oder geprüfte Normkonformität zu behaupten. Normtexte werden nicht veröffentlicht.
+Beide Pakete enthalten einen ausführlichen Werkstatt-Prompt und einen eigenständig nutzbaren Mini-Prompt innerhalb des aktuell geltenden Kompaktbudgets. Die Prompts sind gegen Überschreiben durch allgemeine Generatoren geschützt und werden getrennt vom installierbaren Plugin bereitgestellt. Die eigenen Sprachregeln orientieren sich an Einfacher Sprache, ohne Zertifizierung oder geprüfte Normkonformität zu behaupten. Normtexte werden nicht veröffentlicht.
 
 ## 3. Prüfung und Dokumentation
 

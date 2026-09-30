@@ -1,28 +1,4 @@
 {
-  "schema_version": 1,
-  "companion_case_slugs": [
-    "einfache-leichte-sprache-jura-mandantenbrief",
-    "sozialrecht-elektrorollstuhl-koerner-oldenburg",
-    "audi-ea288-weber-neuwagen",
-    "bmw-fischer-abweisungsrisiko",
-    "fiat-wohnmobil-bauer",
-    "ki-hochrisiko-bewerbungsauswahl-kassel",
-    "ki-transparenz-kanzlei-kommunikation-mainz",
-    "mercedes-om651-schneider-thermofenster",
-    "rueckrufregister-kba",
-    "vergesellschaftung-energienetz-hessen",
-    "enteignung-verkehrsflaeche-goettingen",
-    "sozialversicherung-ag-organe-hannover",
-    "sozialversicherung-gmbh-fuenfzig-prozent-erfurt",
-    "sozialversicherung-gmbh-zwanzig-prozent-berlin",
-    "sozialversicherung-musikakademie-prenzlauer-berg",
-    "sozialversicherung-programmierer-leipzig",
-    "sozialversicherung-syndikus-versorgungswerk-hamburg",
-    "statusfeststellung-gmbh-geschaeftsfuehrer-minderheit-erlangen",
-    "gesellschaftsgruender-topf-tacheles-berlin",
-    "vollstreckung-vw-richter-titel",
-    "vw-ea189-hoffmann-verjaehrung-restschaden",
-    "vw-ea189-mueller-differenzschaden",
-    "vw-finanzierung-koch-widerrufsjoker"
-  ]
+  "schema_version": 2,
+  "companion_case_scope": "all-central"
 }

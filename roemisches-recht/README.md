@@ -62,7 +62,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
-| [Römischrechtliche Fallakte Aventinus](../testakten/roemisches-recht-kauf-besitz-erbschaft-pergamentfall/README.md) | [Gesamt-PDF](../testakten/roemisches-recht-kauf-besitz-erbschaft-pergamentfall/gesamt-pdf/roemisches-recht-kauf-besitz-erbschaft-pergamentfall_gesamt.pdf) | [`testakte-roemisches-recht-kauf-besitz-erbschaft-pergamentfall.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-roemisches-recht-kauf-besitz-erbschaft-pergamentfall.zip) | [`testakte-roemisches-recht-kauf-besitz-erbschaft-pergamentfall-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-roemisches-recht-kauf-besitz-erbschaft-pergamentfall-einzelpdfs.zip) |
+| [Römischrechtliche Fallakte Aventinus](../testakten/roemisches-recht-kauf-besitz-erbschaft-pergamentfall/README.md) | [Gesamt-PDF](../testakten/roemisches-recht-kauf-besitz-erbschaft-pergamentfall/gesamt-pdf/roemisches-recht-kauf-besitz-erbschaft-pergamentfall_gesamt.pdf) | [`testakte-roemisches-recht-kauf-besitz-erbschaft-pergamentfall.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.20.2/testakte-roemisches-recht-kauf-besitz-erbschaft-pergamentfall.zip) | [`testakte-roemisches-recht-kauf-besitz-erbschaft-pergamentfall-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.20.2/testakte-roemisches-recht-kauf-besitz-erbschaft-pergamentfall-einzelpdfs.zip) |
 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->

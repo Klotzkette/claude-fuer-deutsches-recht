@@ -90,34 +90,27 @@ class Fixture(unittest.TestCase):
 
 
 class RepositoryRoutingTests(unittest.TestCase):
-    def test_expected_twenty_three_cases_and_forty_six_zips(self):
-        expected = {
-            "einfache-leichte-sprache-jura-mandantenbrief",
-            "sozialrecht-elektrorollstuhl-koerner-oldenburg",
+    def test_every_central_case_and_both_zip_variants_are_routed(self):
+        expected = tuple(sorted(
+            path.name for path in (R.ROOT / "testakten").iterdir()
+            if path.is_dir() and path.name != "megaprompts"
+        ))
+        slugs = R.companion_cases()
+        self.assertEqual(slugs, expected)
+        self.assertGreaterEqual(len(slugs), 380)
+        self.assertEqual(len(R.companion_asset_names(slugs)), 2 * len(slugs))
+        self.assertTrue({
             "audi-ea288-weber-neuwagen",
             "bmw-fischer-abweisungsrisiko",
             "fiat-wohnmobil-bauer",
-            "ki-hochrisiko-bewerbungsauswahl-kassel", "ki-transparenz-kanzlei-kommunikation-mainz",
             "mercedes-om651-schneider-thermofenster",
             "rueckrufregister-kba",
-            "vergesellschaftung-energienetz-hessen", "enteignung-verkehrsflaeche-goettingen",
-            "sozialversicherung-ag-organe-hannover",
-            "sozialversicherung-gmbh-fuenfzig-prozent-erfurt",
-            "sozialversicherung-gmbh-zwanzig-prozent-berlin",
-            "sozialversicherung-musikakademie-prenzlauer-berg",
-            "sozialversicherung-programmierer-leipzig",
-            "sozialversicherung-syndikus-versorgungswerk-hamburg",
-            "statusfeststellung-gmbh-geschaeftsfuehrer-minderheit-erlangen",
-            "gesellschaftsgruender-topf-tacheles-berlin",
             "vollstreckung-vw-richter-titel",
             "vw-ea189-hoffmann-verjaehrung-restschaden",
             "vw-ea189-mueller-differenzschaden",
             "vw-finanzierung-koch-widerrufsjoker",
-        }
-        slugs = R.companion_cases()
-        self.assertEqual(set(slugs), expected)
-        self.assertEqual(len(R.companion_asset_names(slugs)), 46)
-        for slug in sorted(expected):
+        }.issubset(slugs))
+        for slug in expected:
             for suffix in ("", "-einzelpdfs"):
                 with self.subTest(slug=slug, suffix=suffix):
                     self.assertEqual(R.case_asset_url(slug, suffix, version=VERSION),
@@ -171,6 +164,23 @@ class RoutingTests(Fixture):
             self.empty_config.write_text(json.dumps({"schema_version": 1, "companion_case_slugs": slugs}))
             with self.assertRaises(ValueError):
                 R.companion_cases(self.empty_config)
+
+    def test_all_central_scope_is_sorted_and_skips_only_build_helper_directory(self):
+        for slug in ("case-zulu", "case-alpha", "megaprompts"):
+            (self.root / "testakten" / slug).mkdir(parents=True)
+        config = self.root / "all-central.json"
+        config.write_text(json.dumps({
+            "schema_version": 2,
+            "companion_case_scope": R.CENTRAL_CASE_SCOPE,
+        }))
+        self.assertEqual(R.companion_cases(config, self.root), ("case-alpha", "case-zulu"))
+        for data in (
+            {"schema_version": 2, "companion_case_scope": "some-central"},
+            {"schema_version": 2, "companion_case_scope": R.CENTRAL_CASE_SCOPE, "extra": True},
+        ):
+            config.write_text(json.dumps(data))
+            with self.assertRaises(ValueError):
+                R.companion_cases(config, self.root)
 
     def test_case_generator_rewrites_entire_readme_and_is_idempotent(self):
         slug = self.slugs[0]
@@ -235,6 +245,31 @@ class RoutingTests(Fixture):
                 DOWNLOADS.validate_release_routes("README", correct + "\n" + wrong, errors)
                 self.assertEqual(len(errors), 1)
                 self.assertIn("README:2:", errors[0])
+
+    def test_validator_checks_repo_wide_user_facing_html(self):
+        slug = self.slugs[0]
+        correct = R.case_asset_url(slug, root=self.root, config=self.config)
+        wrong = correct.replace(f"download/{TAG}", "latest/download")
+        page = self.root / "plugin/assets/vorschau/index.html"
+        page.parent.mkdir(parents=True)
+        page.write_text(
+            f'<a href="{wrong}">Akte</a>\n',
+            encoding="utf-8",
+        )
+        ignored = self.root / ".venv/cache.html"
+        ignored.parent.mkdir()
+        ignored.write_text(page.read_text(encoding="utf-8"), encoding="utf-8")
+
+        with patch.object(DOWNLOADS, "ROOT", self.root):
+            errors: list[str] = []
+            self.assertEqual(DOWNLOADS.validate_html_release_routes(self.root, errors), 1)
+            self.assertEqual(len(errors), 1)
+            self.assertIn("plugin/assets/vorschau/index.html:1:", errors[0])
+
+            page.write_text(f'<a href="{correct}">Akte</a>\n', encoding="utf-8")
+            errors = []
+            self.assertEqual(DOWNLOADS.validate_html_release_routes(self.root, errors), 1)
+            self.assertEqual(errors, [])
 
 
 class StagingTests(Fixture):

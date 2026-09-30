@@ -75,7 +75,7 @@ def main() -> int:
     parser.add_argument("--config", type=Path, default=CONFIG)
     parser.add_argument("--root", type=Path, default=ROOT)
     args = parser.parse_args()
-    slugs = companion_cases(args.config)
+    slugs = companion_cases(args.config, args.root)
     tag = companion_tag(marketplace_version(args.root)) if slugs else ""
     counts = stage_assets(args.dist, args.staging, slugs)
     print(json.dumps({"assets": counts, "companion_tag": tag}, sort_keys=True))

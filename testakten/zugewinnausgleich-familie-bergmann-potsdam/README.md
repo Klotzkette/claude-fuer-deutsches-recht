@@ -14,12 +14,12 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/zugewinnausgleich-familie-bergmann-potsdam_gesamt.pdf`](gesamt-pdf/zugewinnausgleich-familie-bergmann-potsdam_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-zugewinnausgleich-familie-bergmann-potsdam.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-zugewinnausgleich-familie-bergmann-potsdam.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-zugewinnausgleich-familie-bergmann-potsdam-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-zugewinnausgleich-familie-bergmann-potsdam-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-zugewinnausgleich-familie-bergmann-potsdam.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.20.2/testakte-zugewinnausgleich-familie-bergmann-potsdam.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-zugewinnausgleich-familie-bergmann-potsdam-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.20.2/testakte-zugewinnausgleich-familie-bergmann-potsdam-einzelpdfs.zip) |
 
-Die ZIP-Links laden den zuletzt veröffentlichten Release. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
+Die ZIP-Links laden den zur angegebenen Marketplace-Version gehörenden Akten-Begleitrelease. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
-English: The original-format ZIP contains the working files directly at archive root, without subfolders or Markdown. Choose the combined PDF for reading; it is also included in that ZIP. Choose the individual-PDF ZIP to review each document separately. These are practice documents, not an installable plugin. ZIP links refer to the latest published release.
+English: The original-format ZIP contains the working files directly at archive root, without subfolders or Markdown. Choose the combined PDF for reading; it is also included in that ZIP. Choose the individual-PDF ZIP to review each document separately. These are practice documents, not an installable plugin. ZIP links refer to the case companion release for the stated marketplace version.
 
 <!-- END gesamt-pdf-section (autogen) -->
 
@@ -44,8 +44,8 @@ Wähle eine Variante pro Arbeitsordner. Wer Originaldateien, Gesamt-PDF und Einz
 | Fassung | Download | Verwendung |
 | --- | --- | --- |
 | Gesamt-PDF | [Alle Unterlagen in einer Datei](gesamt-pdf/zugewinnausgleich-familie-bergmann-potsdam_gesamt.pdf) | Lesen, Durchsuchen und Ausdrucken |
-| Einzel-PDFs | [Flaches PDF-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-zugewinnausgleich-familie-bergmann-potsdam-einzelpdfs.zip) | Jede Unterlage als eigene PDF |
-| Originalformate | [Flaches Akten-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-zugewinnausgleich-familie-bergmann-potsdam.zip) | Word, Excel, E-Mails, CSV, Nachrichten, Bilder und PDFs |
+| Einzel-PDFs | [Flaches PDF-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.20.2/testakte-zugewinnausgleich-familie-bergmann-potsdam-einzelpdfs.zip) | Jede Unterlage als eigene PDF |
+| Originalformate | [Flaches Akten-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.20.2/testakte-zugewinnausgleich-familie-bergmann-potsdam.zip) | Word, Excel, E-Mails, CSV, Nachrichten, Bilder und PDFs |
 
 Die Archive enthalten keine Unterordner und keine Markdown-Aktenstücke. Die zweisprachige `README.txt` liegt unmittelbar im ZIP. Die PDFs enthalten keine zusätzliche Hinweisseite; der Hinweis steht hier vor den Downloads. Das Originalformat-ZIP enthält auch das Gesamt-PDF.
 

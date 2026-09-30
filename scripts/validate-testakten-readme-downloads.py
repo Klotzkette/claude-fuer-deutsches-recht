@@ -7,6 +7,8 @@ Zusätzlich muss die zentrale testakten/README.md dieselben drei Ziele je Akte
 aufführen. Der Check läuft ohne externe Abhängigkeiten und eignet sich damit
 als frühes Release-Gate. Auf Root-, Index-, Akten- und Plugin-Seiten muss der
 unveränderte DE/EN-Warnhinweis unmittelbar vor jeder Downloadgruppe stehen.
+Versionsfeste Aktenrouten werden außerdem in allen nutzerseitigen HTML-Seiten
+des Repositories geprüft.
 """
 
 from __future__ import annotations
@@ -34,6 +36,14 @@ END_MARKER = "<!-- END gesamt-pdf-section (autogen) -->"
 SKIP_DIRS = {
     "formatvorlagen-paradebeispiele",
     "megaprompts",
+}
+HTML_SKIP_PARTS = {
+    ".git",
+    ".venv",
+    "dist",
+    "node_modules",
+    "release-staging",
+    "venv",
 }
 
 EXPECTED_LABELS = (
@@ -86,6 +96,28 @@ def validate_release_routes(label: str, text: str, errors: list[str]) -> None:
     for number, (actual, expected) in enumerate(zip(text.splitlines(), rewritten.splitlines()), start=1):
         if actual != expected:
             errors.append(f"{label}:{number}: Akten-ZIP verweist nicht auf den versionsgleichen Begleitrelease")
+
+
+def user_facing_html(root: Path) -> list[Path]:
+    """Find checked-in HTML surfaces while ignoring local/build dependencies."""
+    return sorted(
+        path
+        for suffix in ("*.html", "*.htm")
+        for path in root.rglob(suffix)
+        if path.is_file()
+        and not (set(path.relative_to(root).parts) & HTML_SKIP_PARTS)
+    )
+
+
+def validate_html_release_routes(root: Path, errors: list[str]) -> int:
+    pages = user_facing_html(root)
+    for page in pages:
+        validate_release_routes(
+            page.relative_to(root).as_posix(),
+            read_text(page),
+            errors,
+        )
+    return len(pages)
 
 
 def expected_targets(slug: str) -> tuple[str, str, str]:
@@ -242,6 +274,7 @@ def main() -> int:
             readme.relative_to(ROOT).as_posix(), read_text(readme), errors,
             case_readme=is_case_readme(readme, ROOT),
         )
+    checked_html = validate_html_release_routes(ROOT, errors)
 
     if errors:
         print("validate-testakten-readme-downloads: FEHLER", file=sys.stderr)
@@ -253,7 +286,8 @@ def main() -> int:
 
     print(
         f"validate-testakten-readme-downloads OK ({len(dirs)} Akten, "
-        f"{checked_links} Treffer, {checked_groups} weitere Downloadgruppen)"
+        f"{checked_links} Treffer, {checked_groups} weitere Downloadgruppen, "
+        f"{checked_html} HTML-Seiten)"
     )
     return 0
 

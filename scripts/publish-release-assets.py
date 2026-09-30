@@ -101,7 +101,7 @@ def execute(command: list[str]) -> None:
 
 def publish(staging: Path, primary: str, repo: str, *, root: Path = ROOT,
             config: Path = CONFIG) -> None:
-    slugs = companion_cases(config)
+    slugs = companion_cases(config, root)
     main_assets = set(expected_asset_metadata(staging / "main"))
     tag = companion_tag(marketplace_version(root)) if slugs else None
     sha = None

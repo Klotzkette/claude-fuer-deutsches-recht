@@ -12,10 +12,24 @@ CONFIG = Path(__file__).with_name("release-routes.json")
 REPOSITORY = "Klotzkette/claude-fuer-deutsches-recht"
 RELEASE_BASE = f"https://github.com/{REPOSITORY}/releases"
 MAX_RELEASE_ASSETS = 1000
+CENTRAL_CASE_SCOPE = "all-central"
+CENTRAL_CASE_SKIP_DIRS = {"megaprompts"}
 
 
-def companion_cases(config: Path = CONFIG) -> tuple[str, ...]:
+def central_case_slugs(root: Path = ROOT) -> tuple[str, ...]:
+    testakten = root / "testakten"
+    if not testakten.is_dir():
+        raise ValueError(f"Central case directory missing: {testakten}")
+    return tuple(sorted(
+        path.name for path in testakten.iterdir()
+        if path.is_dir() and path.name not in CENTRAL_CASE_SKIP_DIRS
+    ))
+
+
+def companion_cases(config: Path = CONFIG, root: Path = ROOT) -> tuple[str, ...]:
     data = json.loads(config.read_text(encoding="utf-8"))
+    if data == {"schema_version": 2, "companion_case_scope": CENTRAL_CASE_SCOPE}:
+        return central_case_slugs(root)
     if set(data) != {"schema_version", "companion_case_slugs"} or data["schema_version"] != 1:
         raise ValueError(f"Unsupported release routing configuration: {config}")
     slugs = data["companion_case_slugs"]
@@ -51,7 +65,7 @@ def case_asset_url(slug: str, suffix: str = "", *, version: str | None = None,
     if suffix not in ("", "-einzelpdfs"):
         raise ValueError(f"Unsupported case ZIP suffix: {suffix!r}")
     route = "latest/download"
-    if slug in companion_cases(config):
+    if slug in companion_cases(config, root):
         route = f"download/{companion_tag(version if version is not None else marketplace_version(root))}"
     return f"{RELEASE_BASE}/{route}/testakte-{slug}{suffix}.zip"
 
@@ -59,7 +73,7 @@ def case_asset_url(slug: str, suffix: str = "", *, version: str | None = None,
 def rewrite_case_asset_urls(text: str, *, version: str | None = None,
                             root: Path = ROOT, config: Path = CONFIG) -> str:
     """Resolve agent placeholders and older version pins, only for routed ZIPs."""
-    names = companion_asset_names(companion_cases(config))
+    names = companion_asset_names(companion_cases(config, root))
     if not names:
         return text
     pattern = re.compile(
