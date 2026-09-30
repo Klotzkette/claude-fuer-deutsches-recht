@@ -1,72 +1,41 @@
 ---
 name: fachanwalt-vergaberecht-inhouse-interkommunal
-description: "Für Inhouse und interkommunale Zusammenarbeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Prüft Inhouse-Vergabe und interkommunale Zusammenarbeit anhand Kontrolle, Betrauung, Tätigkeitsquote und tatsächlicher Kooperation; erstellt Prüfvermerk und Vertragsentwurf."
 ---
 
-# Inhouse und interkommunale Zusammenarbeit
+# 1. Inhouse und interkommunale Zusammenarbeit prüfen
 
-## Aufgabe
-Inhouse-Geschaeft oder horizontale interkommunale Zusammenarbeit als Ausnahme von der Ausschreibungspflicht pruefen. Fehlt eine Ausnahme, droht De-facto-Vergabe und § 135 GWB-Unwirksamkeit.
+## 1.1. Auftrag und belastbare Unterlagen
 
-## Kaltstart
-1. Wer ist Auftraggeber, wer ist Auftragnehmer (gleicher oeffentlicher Auftraggeber, Tochter, Schwester-Kommune)?
-2. Beherrschungsstruktur (Anteile, Beirats-/Aufsichtsmehrheit)?
-3. Privater Kapitalanteil am Auftragnehmer?
-4. Wesentlichkeit: Mindestens 80 Prozent Taetigkeit fuer kontrollierende oeffentliche Hand?
-5. Bei horizontaler Kooperation: gemeinsames Ziel im Gemeinwohlinteresse?
+Bestimme Auftraggeber, Vertragspartner, Leistung, Auftragswert, geplanten Vertragsschluss und gewünschtes Produkt. Lies Beteiligungsstruktur, Satzung, Gesellschaftervereinbarung, Kontrollrechte, Kooperationsvertrag und Tätigkeitszahlen. Frage nur nach fehlenden entscheidenden Angaben. Trenne vertikale Inhouse-Vergabe von horizontaler Zusammenarbeit; kommunales Eigentum oder ein Gemeinwohlziel allein genügt für keine Ausnahme.
 
-## Pruefraster Inhouse § 108 Abs. 1-5 GWB
-### 1. Kontrolltest
-Auftraggeber muss aehnliche Kontrolle wie ueber eigene Dienststelle ausueben (Teckal-Doktrin EuGH C-107/98).
-- Personelle Steuerung: Bestellung der Mehrheit der Leitungsorgane.
-- Strategische Steuerung: Weisungsbefugnis.
-- Auch durch gemeinsame Kontrolle mehrerer oeffentlicher Auftraggeber moeglich (§ 108 Abs. 4 GWB).
+## 1.2. Inhouse nach Paragraf 108 Absätze 1 bis 5 GWB
 
-### 2. Wesentlichkeitstest
-Mindestens 80 Prozent der Taetigkeit des kontrollierten Auftragnehmers fuer die kontrollierende oeffentliche Hand. Restliche Taetigkeiten nur nebenbei (EuGH C-340/04 Carbotermo).
+Prüfe ausschlaggebenden Einfluss auf strategische Ziele und wesentliche Entscheidungen, gegebenenfalls mittelbare oder gemeinsame Kontrolle. Bei gemeinsamer Kontrolle Organvertretung, gemeinsamen Einfluss und entgegenstehende Interessen konkret prüfen. Eine bloße Mehrheitsbeteiligung ersetzt die tatsächlichen Kontrollvoraussetzungen nicht.
 
-### 3. Privatkapital
-Grundsaetzlich keine private Beteiligung. Ausnahme § 108 Abs. 1 Nr. 3 GWB: bestimmte nicht-kontrollierende Beteiligungen aufgrund gesetzlicher Anordnung.
+Die Tätigkeitsgrenze lautet **mehr als 80 Prozent**, nicht mindestens 80 Prozent. Ordne jede relevante Tätigkeit einer nach aktuellem Absatz 7 erkennbar, inhaltlich festgelegt und rechtsverbindlich übertragenen Aufgabe zu. Berechnungsgrundlage nach aktuellem Absatz 8: durchschnittlicher Gesamtumsatz der letzten drei Jahre oder geeigneter tätigkeitsbezogener Wert; fehlende oder nicht aussagekräftige Vergangenheitszahlen gegebenenfalls durch belastbare Prognose ersetzen. Zeige Zähler, Nenner, Zeitraum und Beleg. Nicht jeden kommunalen Umsatz ungeprüft als anrechenbare Betrauung behandeln.
 
-## Pruefraster Horizontale Kooperation § 108 Abs. 6 GWB
-1. Auftraggeber kooperieren auf vertraglicher Basis.
-2. Kooperation dient gemeinsamem Gemeinwohlziel.
-3. Kooperation wird von rein oeffentlichen Erwaegungen geleitet.
-4. Weniger als 20 Prozent der vertragsgegenstaendlichen Taetigkeiten werden am Markt erbracht (EuGH C-480/06 Hamburg-Stadtreinigung).
+Prüfe direkte private Kapitalbeteiligung und die enge gesetzliche Ausnahme des Absatzes 1 Nummer 3: gesetzlich vorgeschrieben, nicht beherrschend, ohne Sperrminorität und ohne maßgeblichen Einfluss. Eine private Beteiligung ist eine eigenständige Tatbestandsfrage und nicht bloß „Verlust des Kontrolltests“. Rückwärts- oder Schwestervorgänge nach Absatz 3 gesondert einordnen.
 
-## Vertragliche Umsetzung
-- Inhouse-Vertrag: Gesellschafterstruktur, Kontrollrechte, Taetigkeitsbegrenzung, Reporting.
-- Interkommunaler Vertrag: gemeinsames Ziel definieren, Marktteil < 20 Prozent festschreiben, Beendigungsrechte.
+## 1.3. Horizontale Zusammenarbeit nach Paragraf 108 Absatz 6 GWB
 
-## Risiken bei Verlust der Inhouse-Eigenschaft
-- Aufnahme privaten Kapitals -> Verlust Kontroll-Test.
-- Steigender Marktanteil -> Verlust Wesentlichkeitstest.
-- Fehlende Dokumentation -> Beweislast in Nachpruefungsverfahren beim Auftraggeber.
-- Folge: De-facto-Vergabe, § 135 Abs. 1 Nr. 2 GWB -> Vertrag unwirksam.
+1. Identifiziere die beteiligten öffentlichen Auftraggeber und die gemeinsame Kooperationsvereinbarung. Beschreibe Ziele, Leistung jedes Beteiligten, gemeinsame Steuerung und tatsächliche Durchführung.
+2. Prüfe ausschließlich auf das öffentliche Interesse bezogene Durchführung. Ein Vertrag, der nur einen Leistungseinkauf gegen Geld regelt, erfüllt die Kooperationsvoraussetzung nicht allein wegen öffentlicher Vertragspartner.
+3. Berechne **weniger als 20 Prozent** Markttätigkeit im Bereich der Zusammenarbeit nach Absatz 8. Diese gesetzliche Grenze nicht dem älteren Urteil Hamburg-Stadtreinigung als dessen eigener Zahlenregel zuschreiben.
+4. Prüfe, ob ein privater Dritter unmittelbar aufgrund der Zusammenarbeit gegenüber Wettbewerbern begünstigt wird; bloße Etiketten oder eine Gemeinwohlklausel reichen nicht.
 
-## Output
-- Inhouse-Pruefvermerk mit Kontrolltest, Wesentlichkeitstest, Privatkapital-Pruefung.
-- Vertragsmodul Inhouse oder horizontale Kooperation.
-- Monitoring-Konzept (Marktanteil, Kontrollstruktur).
+EuGH, Beschluss vom 03.02.2026 – C-316/25, Regione Umbria, ECLI:EU:C:2026:135 ([amtliche Entscheidungsinformation mit Tenor](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A62025CO0316_INF)): Artikel 12 Absatz 4 Richtlinie 2014/24/EU erlaubt keine ausschreibungsfreie Vergabe allein an eine nicht wirtschaftlich tätige öffentliche Einrichtung, wenn ausschließlich eine Dienstleistung gegen Entgelt erworben wird. Prüfe deshalb die tatsächlichen Beiträge, gemeinsamen Ziele und Steuerung der Zusammenarbeit; öffentliche Rechtsform und Gemeinwohlaufgabe ersetzen Kooperation nicht. Das Verfahren betraf ein italienisches Kraftfahrzeugsteuerregister, nicht jede denkbare deutsche Zusammenarbeit. Geprüft ist der amtlich veröffentlichte Tenor, kein behaupteter vollständiger deutschsprachiger Beschlusstext.
 
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
+## 1.4. Vermerk und Vertragsarbeit
 
-## Quellenregel
-EuGH-Linie (Teckal, Carbotermo, Hamburg-Stadtreinigung, Datenlotsen) und neuere BGH/OLG-Entscheidungen vor Ausgabe ueber curia.europa.eu und dejure.org verifizieren.
+Erstelle nach Auftrag den vollständigen Prüfvermerk oder Vertragsentwurf. Begründe für jede Voraussetzung Beleg und Ergebnis. Eine unzureichend belegte Kontrolle oder Marktquote als konkrete Lücke ausweisen; nach Eingang von Satzung oder Zahlen Berechnung und Empfehlung ändern. Keine weitere Runde über bereits beantwortete Fragen.
 
+Für einen tragfähigen Vertrag Aufgabenbeiträge, Zuständigkeiten, gemeinsame Entscheidungen, Finanzierung, Berichtspflichten und Rechtsfolgen wesentlicher Strukturänderungen ausformulieren. Die Klauseln müssen die tatsächliche Zusammenarbeit abbilden; eine reine Beschaffung wird durch zusätzliche Überschriften nicht zur Kooperation. Kostenersatz ist allein weder Beweis noch Gegenbeweis einer zulässigen Zusammenarbeit.
 
-## Vergabe-Workbench-Boost v61.2
+Wird keine Ausnahme belegt, prüfe den passenden Vergabeweg und bei bereits geschlossenem Vertrag den konkreten Rechtsschutz nach Paragraf 135 GWB einschließlich Feststellungsvoraussetzungen und Fristen. Fehlende Inhouse-Eigenschaft bedeutet nicht ohne Weiteres, dass ein Vertrag bereits automatisch unwirksam ist. Veränderungen während der Laufzeit, etwa neues Privatkapital oder andere Tätigkeitsschwerpunkte, gesondert nach Vertrag und anwendbarem Vergaberecht beurteilen.
 
-- Starte jedes Mandat mit Rolle, Verfahrensstand, Schwellenwert/Rechtsweg, Frist und Dokumentenlage.
-- Biete bei mehr als drei Einzelthemen ein Padlet oder eine Tabelle an: Vergabefehler, Belege, Norm, Kausalitaet, Abhilfe, Risiko.
-- Fuer Anfaenger: erklaere `Ruge`, `Nachpruefung`, `Stillhaltefrist`, `Eignung`, `Zuschlag`, `Auftragswert` und `Praeklusion` jeweils in einem Satz und arbeite dann praktisch weiter.
-- Fuer Profis: liefere sofort Schriftsatzkern, Vergabevermerk, Bewertungsmatrix oder Entscheidungsvorlage.
-- Pruefe Schwellenwerte 2026/2027, Paragraph 134 GWB, Paragraph 135 GWB, Paragraph 160 Abs. 3 GWB und Paragraph 171 GWB nie aus dem Bauch heraus, sondern als Fristen-/Quellen-Gate.
-- Auftraggeber-Output braucht immer Dokumentationslogik; Bieter-Output braucht immer Ruge-/Kausalitaets-/Chance-Logik.
-- Wenn eine Position schwach ist, benenne die Schwachstelle freundlich und repariere sie: fehlender Beleg, falscher Rechtsweg, zu pauschale Ruge, unsaubere Wertung, fehlende Kausalitaet oder verspaetete Reaktion.
+## 1.5. Quellen und Ergebnis
+
+Aktueller Normtext: [Paragraf 108 GWB](https://www.gesetze-im-internet.de/gwb/__108.html), am 30.09.2026 gelesen. Bei historischen Verträgen maßgebliche Fassung und Anwendungszeitpunkt bestimmen; geänderte Absatznummern nicht ungeprüft rückübertragen. Die konkrete Aussage von C-316/25 beruht auf dem amtlichen Tenor; darüber hinausgehende Prozesszitate nur nach zusätzlichem Volltextabgleich.
+
+Liefere das bestellte Dokument mit Tatsachen, Subsumtion, konkreter Berechnung und begründeter Empfehlung. Bei Dateiausgabe vollständige Sätze, dezimale Gliederung und Times New Roman 11 pt. Quellenstatus und offene Nachforderungen gesondert dokumentieren; keine Vergabe, Bekanntmachung oder Vertragsunterzeichnung eigenmächtig ausführen.

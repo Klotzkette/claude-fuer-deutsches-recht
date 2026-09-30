@@ -42,5 +42,5 @@ Konkret zu prüfen:
 - § 95 BNotO (Disziplinarmaßnahmen)
 - §§ 96-101 BNotO
 - § 92 BNotO (Aufsicht)
-- § 26 BNotO (Geschäftsstelle)
+- § 10 Abs. 2 bis 4 BNotO (Geschäftsstelle)
 - DONot

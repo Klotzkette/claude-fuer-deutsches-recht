@@ -1,68 +1,41 @@
 ---
 name: inhouse-interkommunal
-description: "Für Inhouse Interkommunal: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Prüft Inhouse-Vergabe und interkommunale Zusammenarbeit anhand Kontrolle, Betrauung, Tätigkeitsquote und tatsächlicher Kooperation; erstellt Prüfvermerk und Vertragsentwurf."
 ---
 
-# Inhouse-Geschäft und interkommunale Zusammenarbeit vergaberechtlich prüfen: öffentlicher Auftraggeber will ohne Ausschreibung an verbundene Einrichtung oder Schwester-Kommune vergeben
+# 1. Inhouse und interkommunale Zusammenarbeit prüfen
 
+## 1.1. Auftrag und belastbare Unterlagen
 
-## Arbeitsweg
+Bestimme Auftraggeber, Vertragspartner, Leistung, Auftragswert, geplanten Vertragsschluss und gewünschtes Produkt. Lies Beteiligungsstruktur, Satzung, Gesellschaftervereinbarung, Kontrollrechte, Kooperationsvertrag und Tätigkeitszahlen. Frage nur nach fehlenden entscheidenden Angaben. Trenne vertikale Inhouse-Vergabe von horizontaler Zusammenarbeit; kommunales Eigentum oder ein Gemeinwohlziel allein genügt für keine Ausnahme.
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die vergaberechtlich einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+## 1.2. Inhouse nach Paragraf 108 Absätze 1 bis 5 GWB
 
-**Fokus:** Inhouse-Geschäft und interkommunale Zusammenarbeit vergaberechtlich prüfen: öffentlicher Auftraggeber will ohne Ausschreibung an verbundene Einrichtung oder Schwester-Kommune vergeben. Normen: § 108 GWB (Ausnahmen), Teckal-Doktrin EuGH C-107/98, Hamburg-Stadtreinigung EuGH C-480/06. Prüfraster: Kontrolltest wie über eigene Dienststelle, Wesentlichkeitstest 80 Prozent Taetigkeit für Kontrollierende, Privatkapitalverbot mit Ausnahmen, horizontale Zusammenarbeit § 108 Abs. 6 GWB. Output Inhouse-Prüfvermerk, Vertragsentwurf-Modul. Abgrenzung: De-facto-Vergabe siehe fachanwalt-vergaberecht-de-facto-vergabe-klage.
+Prüfe ausschlaggebenden Einfluss auf strategische Ziele und wesentliche Entscheidungen, gegebenenfalls mittelbare oder gemeinsame Kontrolle. Bei gemeinsamer Kontrolle Organvertretung, gemeinsamen Einfluss und entgegenstehende Interessen konkret prüfen. Eine bloße Mehrheitsbeteiligung ersetzt die tatsächlichen Kontrollvoraussetzungen nicht.
 
-### Inhouse und interkommunale Zusammenarbeit
+Die Tätigkeitsgrenze lautet **mehr als 80 Prozent**, nicht mindestens 80 Prozent. Ordne jede relevante Tätigkeit einer nach aktuellem Absatz 7 erkennbar, inhaltlich festgelegt und rechtsverbindlich übertragenen Aufgabe zu. Berechnungsgrundlage nach aktuellem Absatz 8: durchschnittlicher Gesamtumsatz der letzten drei Jahre oder geeigneter tätigkeitsbezogener Wert; fehlende oder nicht aussagekräftige Vergangenheitszahlen gegebenenfalls durch belastbare Prognose ersetzen. Zeige Zähler, Nenner, Zeitraum und Beleg. Nicht jeden kommunalen Umsatz ungeprüft als anrechenbare Betrauung behandeln.
 
-## Einstieg
-1. Wer ist Auftraggeber, wer ist Auftragnehmer (gleicher öffentlicher Auftraggeber, Tochter, Schwester-Kommune)?
-2. Beherrschungsstruktur (Anteile, Beirats-/Aufsichtsmehrheit)?
-3. Privater Kapitalanteil am Auftragnehmer?
-4. Wesentlichkeit: Mindestens 80 Prozent Taetigkeit für kontrollierende öffentliche Hand?
-5. Bei horizontaler Kooperation: gemeinsames Ziel im Gemeinwohlinteresse?
+Prüfe direkte private Kapitalbeteiligung und die enge gesetzliche Ausnahme des Absatzes 1 Nummer 3: gesetzlich vorgeschrieben, nicht beherrschend, ohne Sperrminorität und ohne maßgeblichen Einfluss. Eine private Beteiligung ist eine eigenständige Tatbestandsfrage und nicht bloß „Verlust des Kontrolltests“. Rückwärts- oder Schwestervorgänge nach Absatz 3 gesondert einordnen.
 
-## Prüfraster Inhouse § 108 Abs. 1-5 GWB
-### 1. Kontrolltest
-Auftraggeber muss aehnliche Kontrolle wie über eigene Dienststelle ausueben (Teckal-Doktrin EuGH C-107/98).
-- Personelle Steuerung: Bestellung der Mehrheit der Leitungsorgane.
-- Strategische Steuerung: Weisungsbefugnis.
-- Auch durch gemeinsame Kontrolle mehrerer öffentlicher Auftraggeber möglich (§ 108 Abs. 4 GWB).
+## 1.3. Horizontale Zusammenarbeit nach Paragraf 108 Absatz 6 GWB
 
-### 2. Wesentlichkeitstest
-Mindestens 80 Prozent der Taetigkeit des kontrollierten Auftragnehmers für die kontrollierende öffentliche Hand. Restliche Taetigkeiten nur nebenbei (EuGH C-340/04 Carbotermo).
+1. Identifiziere die beteiligten öffentlichen Auftraggeber und die gemeinsame Kooperationsvereinbarung. Beschreibe Ziele, Leistung jedes Beteiligten, gemeinsame Steuerung und tatsächliche Durchführung.
+2. Prüfe ausschließlich auf das öffentliche Interesse bezogene Durchführung. Ein Vertrag, der nur einen Leistungseinkauf gegen Geld regelt, erfüllt die Kooperationsvoraussetzung nicht allein wegen öffentlicher Vertragspartner.
+3. Berechne **weniger als 20 Prozent** Markttätigkeit im Bereich der Zusammenarbeit nach Absatz 8. Diese gesetzliche Grenze nicht dem älteren Urteil Hamburg-Stadtreinigung als dessen eigener Zahlenregel zuschreiben.
+4. Prüfe, ob ein privater Dritter unmittelbar aufgrund der Zusammenarbeit gegenüber Wettbewerbern begünstigt wird; bloße Etiketten oder eine Gemeinwohlklausel reichen nicht.
 
-### 3. Privatkapital
-Grundsätzlich keine private Beteiligung. Ausnahme § 108 Abs. 1 Nr. 3 GWB: bestimmte nicht-kontrollierende Beteiligungen aufgrund gesetzlicher Anordnung.
+EuGH, Beschluss vom 03.02.2026 – C-316/25, Regione Umbria, ECLI:EU:C:2026:135 ([amtliche Entscheidungsinformation mit Tenor](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A62025CO0316_INF)): Artikel 12 Absatz 4 Richtlinie 2014/24/EU erlaubt keine ausschreibungsfreie Vergabe allein an eine nicht wirtschaftlich tätige öffentliche Einrichtung, wenn ausschließlich eine Dienstleistung gegen Entgelt erworben wird. Prüfe deshalb die tatsächlichen Beiträge, gemeinsamen Ziele und Steuerung der Zusammenarbeit; öffentliche Rechtsform und Gemeinwohlaufgabe ersetzen Kooperation nicht. Das Verfahren betraf ein italienisches Kraftfahrzeugsteuerregister, nicht jede denkbare deutsche Zusammenarbeit. Geprüft ist der amtlich veröffentlichte Tenor, kein behaupteter vollständiger deutschsprachiger Beschlusstext.
 
-## Prüfraster Horizontale Kooperation § 108 Abs. 6 GWB
-1. Auftraggeber kooperieren auf vertraglicher Basis.
-2. Kooperation dient gemeinsamem Gemeinwohlziel.
-3. Kooperation wird von rein öffentlichen Erwaegungen geleitet.
-4. Weniger als 20 Prozent der vertragsgegenstaendlichen Taetigkeiten werden am Markt erbracht (EuGH C-480/06 Hamburg-Stadtreinigung).
+## 1.4. Vermerk und Vertragsarbeit
 
-## Vertragliche Umsetzung
-- Inhouse-Vertrag: Gesellschafterstruktur, Kontrollrechte, Taetigkeitsbegrenzung, Reporting.
-- Interkommunaler Vertrag: gemeinsames Ziel definieren, Marktteil < 20 Prozent festschreiben, Beendigungsrechte.
+Erstelle nach Auftrag den vollständigen Prüfvermerk oder Vertragsentwurf. Begründe für jede Voraussetzung Beleg und Ergebnis. Eine unzureichend belegte Kontrolle oder Marktquote als konkrete Lücke ausweisen; nach Eingang von Satzung oder Zahlen Berechnung und Empfehlung ändern. Keine weitere Runde über bereits beantwortete Fragen.
 
-## Risiken bei Verlust der Inhouse-Eigenschaft
-- Aufnahme privaten Kapitals -> Verlust Kontroll-Test.
-- Steigender Marktanteil -> Verlust Wesentlichkeitstest.
-- Fehlende Dokumentation -> Beweislast in Nachpruefungsverfahren beim Auftraggeber.
-- Folge: De-facto-Vergabe, § 135 Abs. 1 Nr. 2 GWB -> Vertrag unwirksam.
+Für einen tragfähigen Vertrag Aufgabenbeiträge, Zuständigkeiten, gemeinsame Entscheidungen, Finanzierung, Berichtspflichten und Rechtsfolgen wesentlicher Strukturänderungen ausformulieren. Die Klauseln müssen die tatsächliche Zusammenarbeit abbilden; eine reine Beschaffung wird durch zusätzliche Überschriften nicht zur Kooperation. Kostenersatz ist allein weder Beweis noch Gegenbeweis einer zulässigen Zusammenarbeit.
 
-## Quellenregel
-EuGH-Linie (Teckal, Carbotermo, Hamburg-Stadtreinigung, Datenlotsen) und neuere BGH/OLG-Entscheidungen vor Ausgabe über curia.europa.eu und dejure.org verifizieren.
+Wird keine Ausnahme belegt, prüfe den passenden Vergabeweg und bei bereits geschlossenem Vertrag den konkreten Rechtsschutz nach Paragraf 135 GWB einschließlich Feststellungsvoraussetzungen und Fristen. Fehlende Inhouse-Eigenschaft bedeutet nicht ohne Weiteres, dass ein Vertrag bereits automatisch unwirksam ist. Veränderungen während der Laufzeit, etwa neues Privatkapital oder andere Tätigkeitsschwerpunkte, gesondert nach Vertrag und anwendbarem Vergaberecht beurteilen.
 
-## Vergabe-Workbench-Boost v61.2
+## 1.5. Quellen und Ergebnis
 
-- Starte jedes Mandat mit Rolle, Verfahrensstand, Schwellenwert/Rechtsweg, Frist und Dokumentenlage.
-- Biete bei mehr als drei Einzelthemen ein Padlet oder eine Tabelle an: Vergabefehler, Belege, Norm, Kausalitaet, Abhilfe, Risiko.
-- Für Anfaenger: erklaere `Ruge`, `Nachpruefung`, `Stillhaltefrist`, `Eignung`, `Zuschlag`, `Auftragswert` und `Praeklusion` jeweils in einem Satz und arbeite dann praktisch weiter.
-- Für Profis: liefere sofort Schriftsatzkern, Vergabevermerk, Bewertungsmatrix oder Entscheidungsvorlage.
-- Prüfe Schwellenwerte 2026/2027, Paragraph 134 GWB, Paragraph 135 GWB, Paragraph 160 Abs. 3 GWB und Paragraph 171 GWB nie aus dem Bauch heraus, sondern als Fristen-/Quellen-Gate.
-- Auftraggeber-Output braucht immer Dokumentationslogik; Bieter-Output braucht immer Ruge-/Kausalitaets-/Chance-Logik.
-- Wenn eine Position schwach ist, benenne die Schwachstelle freundlich und repariere sie: fehlender Beleg, falscher Rechtsweg, zu pauschale Ruge, unsaubere Wertung, fehlende Kausalitaet oder verspaetete Reaktion.
+Aktueller Normtext: [Paragraf 108 GWB](https://www.gesetze-im-internet.de/gwb/__108.html), am 30.09.2026 gelesen. Bei historischen Verträgen maßgebliche Fassung und Anwendungszeitpunkt bestimmen; geänderte Absatznummern nicht ungeprüft rückübertragen. Die konkrete Aussage von C-316/25 beruht auf dem amtlichen Tenor; darüber hinausgehende Prozesszitate nur nach zusätzlichem Volltextabgleich.
+
+Liefere das bestellte Dokument mit Tatsachen, Subsumtion, konkreter Berechnung und begründeter Empfehlung. Bei Dateiausgabe vollständige Sätze, dezimale Gliederung und Times New Roman 11 pt. Quellenstatus und offene Nachforderungen gesondert dokumentieren; keine Vergabe, Bekanntmachung oder Vertragsunterzeichnung eigenmächtig ausführen.

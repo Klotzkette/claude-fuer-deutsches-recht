@@ -53,7 +53,7 @@ Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fri
 Konkret zu prüfen:
 
 - § 23 BNotO (Notaranderkonto)
-- § 54a BeurkG
+- §§ 57 bis 60 BeurkG (Verwahrung, Durchführung und Widerruf)
 - DONot § 11
 - § 23 BNotO
 - DONot § 12

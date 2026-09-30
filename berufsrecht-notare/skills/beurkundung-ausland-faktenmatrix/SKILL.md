@@ -43,10 +43,14 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 13 BeurkG` — Vorlesen, Genehmigen, Unterschreiben.
 - `§ 40 BeurkG` — Beglaubigung einer Unterschrift.
 - `§ 53 BeurkG` — Vollzugspflichten.
-- `§ 54a BeurkG` — Verwahrung und Auszahlung.
+- `§ 57 BeurkG` — Antrag, Sicherungsinteresse und Verwahrungsanweisung.
 - `§ 130a ZPO` — elektronische Dokumente als Schnittstelle.
 - `§ 29 Abs. 1 GBO` — grundbuchtaugliche Form.
 - `§ 12 HGB` — Registereinreichung.
 - `§ 40 GmbHG` — Gesellschafterliste.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## 1. Testamentswirksamkeit von Amtsbefugnis unterscheiden
+
+[BGH, Urteil vom 21.01.2026, IV ZR 40/25, Randnummern 9 bis 16, 21 sowie 27 bis 33](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2025/IV_ZR__40-25.pdf?__blob=publicationFile&v=1): Bei einem in Deutschland durch eine niederländische Notaranwärterin errichteten Testament bestimmt das über EuErbVO Artikel 75 vorrangige Haager Testamentsformübereinkommen das Formstatut. Das danach berufene niederländische Recht bestimmt auch die zivilrechtlichen Folgen einer Überschreitung der territorialen Amtsbefugnis; diese machte das Testament im entschiedenen Fall nicht unwirksam. Erblasserstaatsangehörigkeit, Errichtungsort, Formstatut, materielle Rechtswahl und ermitteltes ausländisches Recht getrennt begründen. Die Beweiskraft nach Artikel 59 knüpft hier an den ermächtigenden Staat an, nicht allein an den physischen Errichtungsort. Keine allgemeine Erlaubnis ausländischer Beurkundungen in Deutschland und keine Gleichwertigkeitsgarantie für Gesellschafts- oder Grundstücksurkunden ableiten; BNotO Paragraf 11a und die zivilrechtliche Testamentswirksamkeit bleiben getrennte Prüfungen.

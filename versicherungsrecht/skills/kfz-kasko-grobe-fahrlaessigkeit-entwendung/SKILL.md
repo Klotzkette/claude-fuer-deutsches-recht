@@ -41,3 +41,7 @@ VVG §§ 28, 81, 82; AKB; StVG nur als Sachkontext; ZPO.
 
 - kfz-haftpflicht-regress-alkohol-flucht
 - vvg-obliegenheit-28-quotelung-kausalitaet
+
+## Reparaturrechnung und Werkstattauswahl
+
+Bei bestrittenen Kasko-Reparaturpositionen die tatsächliche Erforderlichkeit und jede Versichererweisung sichern. [BGH, Urteil vom 09.09.2026 – IV ZR 235/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2025/IV_ZR_235-25.pdf?__blob=publicationFile&v=1), Rn. 9 und 12–16: Unter Ziffer A.2.6.2 AKB trägt regelmäßig der Versicherungsnehmer das Risiko unnötiger, überhöhter oder nicht ausgeführter Werkstattpositionen. Die schadensersatzrechtliche Zuweisung des Werkstattrisikos an den Schädiger gilt nicht automatisch für den Kaskovertrag. Frage, wer die Werkstatt ausgewählt und beauftragt hat und welche Weisung befolgt wurde. Bei einer vom Versicherer ausgewählten Partnerwerkstatt hält Rn. 16 eine andere Beurteilung für möglich; keine abschließende Sonderregel behaupten. Prüfe jede Rechnungsposition und die konkrete AKB-Fassung, statt sämtliche Abzüge entweder hinzunehmen oder mit einer Haftpflichtentscheidung abzuwehren.

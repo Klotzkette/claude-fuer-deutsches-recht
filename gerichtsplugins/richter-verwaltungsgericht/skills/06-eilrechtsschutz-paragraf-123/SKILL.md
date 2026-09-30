@@ -1,85 +1,40 @@
 ---
 name: 06-eilrechtsschutz-paragraf-123
-description: "Für 06 Eilrechtsschutz Paragraf 123: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Bereitet einen Eilbeschluss nach Paragraf 123 VwGO vor: Anspruch, Dringlichkeit, Vorwegnahme, konkrete Glaubhaftmachung und begrenzter vollziehbarer Tenor."
 ---
 
-# 06 Eilrechtsschutz Paragraf 123
+# 1. Einstweilige Anordnung nach Paragraf 123 VwGO
 
-## Zweck
+## 1.1. Rechtsschutzziel und Statthaftigkeit
 
-Einstweilige Anordnung Paragraf 123 VwGO: Sicherungs- und Regelungsanordnung, Anordnungsanspruch und -grund, Vorwegnahme der Hauptsache (Ausnahme)
+Lies Antrag, Behördenentscheidung, Verwaltungsvorgänge und Belege. Bestimme begehrte Leistung oder Sicherung, Zuständigkeit, drohendes Ereignis und aktuellen Verfahrensstand. Nach Paragraf 123 Absatz 5 VwGO gehen die Fälle der Paragrafen 80 und 80a vor. Eine Anordnung kann schon vor Klageerhebung erforderlich sein; nicht ungeprüft eine Monatsfrist oder abgeschlossenes Vorverfahren zur Voraussetzung machen. Bei Informationszugang klären, ob selbstständiger Anspruch oder verfahrensbezogene Einsicht vorliegt; gegebenenfalls Paragraf 44a VwGO prüfen.
 
-## Rolle
+## 1.2. Anspruch, Eilgrund und Beleg getrennt würdigen
 
+Leite den materiellen Anspruch aus der tatsächlich einschlägigen Norm ab. Ordne jedem erheblichen Merkmal Aktenstelle, Gegenvortrag und Glaubhaftmachungsmittel zu. Für den Eilgrund konkretisieren, welcher Nachteil wann eintritt und weshalb eine spätere Entscheidung ihn nicht hinreichend beseitigt. Antrag, Anlagen und neue Antworten auf Widersprüche prüfen. Ein bevorstehender Termin ersetzt keinen Anspruch; ein wahrscheinlicher Anspruch keinen Eilgrund.
 
-Werkstatt-Assistent für den Verwaltungsrichter am Verwaltungsgericht (Paragrafen 5, 6 VwGO: Kammer mit drei Berufsrichtern und zwei ehrenamtlichen Richtern, Einzelrichter nach Paragraf 6 VwGO). Anfechtung, Verpflichtung, Asylklage, Eilverfahren.
+Bei Vorwegnahme Umfang und Umkehrbarkeit der Regelung prüfen und die Anforderungen effektiven Rechtsschutzes fallbezogen bestimmen. Nicht pauschal jede Leistung verbieten oder allein wegen Zeitdrucks zusprechen. Sind Tatsachen entscheidungserheblich offen, zielgerichtete Aufklärung oder eine konkret begründete vorläufige Sicherung vorbereiten, keine endgültigen Feststellungen erfinden.
 
-## Rechtsrahmen
+BVerwG, Beschluss vom 14.04.2025 – 10 VR 3.25 ([amtliche Gründe](https://www.bverwg.de/de/140425B10VR3.25.0)), Randnummern 9–18: Eilgrund im Presseauskunftsfall bejaht, Anspruch wegen entgegenstehender Schutzinteressen verneint. Starker Gegenwartsbezug und gesteigertes öffentliches Interesse können dort die Vorwegnahme tragen. Presseauskunft, Akteneinsicht vor Anhörung und Geheimhaltungsgründe des BND nicht gleichsetzen.
 
-VwGO, VwVfG, GG, BVerwGG, GKG, RVG, Fachgesetze (BImSchG, BauGB, AsylG, AufenthG)
+BVerwG, Beschluss vom 27.05.2026 – 2 VR 5.26 ([amtlicher Volltext](https://www.bverwg.de/de/270526B2VR5.26.0)), Randnummern 12–21: Bei angegriffener Vorverlegung einer Auslandsrückumsetzung den neuen Vollzugstermin und die dafür angestellten Erwägungen prüfen. Ein sachlicher Grund für die Umsetzung als solche ersetzt nicht die Abwägung zur vorgezogenen Durchführung; Urlaub, Wohnungsdispositionen, bisher mitgeteilter Termin und tatsächlicher Nachbesetzungsbedarf gehören in die Prüfung. Der Tenor untersagte nur die Umsetzung vor dem bezeichneten Datum. Kein allgemeiner Anspruch auf einen Wunschdienstposten; die Verwaltungsaktqualität des Sonderfalls ließ der Senat offen (Randnummer 16).
 
-## Pflichtschritte
+## 1.3. Gerichtliche Kontrolle und passendes Ergebnis
 
-1. Statthafte Klageart bestimmen (Anfechtungs-, Verpflichtungs-, Feststellungs- oder Leistungsklage).
-2. Zulässigkeit prüfen: Klagebefugnis (Paragraf 42 Abs. 2 VwGO), Vorverfahren und Frist (Paragrafen 68 ff. und 74 VwGO).
-3. Eilrechtsschutz prüfen (Paragraf 80 und Paragraf 80a VwGO bei belastenden Akten, Paragraf 123 VwGO sonst).
-4. Sachverhalt von Amts wegen aufklären (Paragraf 86 VwGO); Rechtmäßigkeit des Verwaltungshandelns und Rechtsverletzung prüfen.
-5. Tenor, Kosten und vorläufige Vollstreckbarkeit absetzen; Berufungszulassung (Paragraf 124 VwGO) erwägen.
-6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
-7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
+Kontrolliere Ermessen nach Paragraf 114 VwGO, ohne eigene Zweckmäßigkeit an die Stelle der Behörde zu setzen. Bei zeitlich eingegrenztem Begehren nicht die gesamte Ausgangsmaßnahme aufheben. Frage bei neuem Termin oder nachgereichter Begründung nur nach der entscheidenden Auswirkung; aktualisiere Eilgrund, Ermessensprüfung und Tenor.
 
-## Output
+Ein begrenzter Tenor nach Paragraf 123 kann nach Einzelfallprüfung lauten:
 
-Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
+> Der Antragsgegnerin wird im Wege der einstweiligen Anordnung untersagt, die in der Verfügung vom [Datum] bezeichnete Maßnahme [konkrete Durchführung] vor dem [Datum] zu vollziehen. Im Übrigen wird der Antrag abgelehnt.
 
-## Anker-Rechtsprechung
+Oder bei konkret begründetem Leistungsanspruch:
 
-- BVerfG, Beschluss vom 12.05.2005 - 1 BvR 569/05, frei nachweisbar über bundesverfassungsgericht.de/dejure: Effektiver Eilrechtsschutz verlangt eine Folgenabwägung, wenn die Hauptsache nicht rechtzeitig geklärt werden kann.
-- Ständige Rechtsprechung des BVerfG zu Art. 19 Abs. 4 GG: Effektiver Rechtsschutz verlangt eine tatsächlich wirksame gerichtliche Kontrolle, besonders bei grundrechtsintensiven Verwaltungsakten; ein konkretes Aktenzeichen wird vor produktiver Zitierung verifiziert.
-- BVerwG, Beschluss vom 13.09.2011 - 1 VR 1.11, frei nachweisbar über Rechtsprechung-im-Internet/dejure: Eilrechtsschutz muss summarische Rechtmäßigkeitsprüfung und Interessenabwägung nachvollziehbar verbinden.
-- Ständige Rechtsprechung des BVerwG zur Ermessenskontrolle nach Paragraf 114 VwGO: Das Gericht prüft Ermessensnichtgebrauch, Ermessensfehlgebrauch, Ermessensüberschreitung und Verfahrensfehler; ein konkretes Aktenzeichen wird vor produktiver Zitierung über Rechtsprechung-im-Internet verifiziert.
+> Die Antragsgegnerin wird im Wege der einstweiligen Anordnung verpflichtet, dem Antragsteller bis zum [Datum] Einsicht in [genau bezeichnete Unterlagen] zu gewähren; die in [Anlage/Passage] bezeichneten personenbezogenen Angaben Dritter sind dabei unkenntlich zu machen.
 
-## Prüfungsschema in Stufen
+Der Antrag und die geprüften Voraussetzungen entscheiden, welche Fassung trägt; keine vorsorglichen Teilablehnungen oder Schwärzungen ohne Fallgrund ergänzen. Ein Tenor zur Anordnung aufschiebender Wirkung gehört zu Paragraf 80 Absatz 5, nicht als Standard in diesen Skill. Der Beschluss benötigt begründete Kosten- und Streitwertentscheidung sowie die passende Rechtsmittelbelehrung. Keine Berufungszulassung nach Paragraf 124 VwGO aus einem Hauptsacheurteil übernehmen; stattdessen Beschwerdeweg, Fristen und gegebenenfalls gesetzlichen Ausschluss nach konkretem Verfahrensrecht prüfen.
 
-1. Eilrechtsschutz Paragraf 123: Statthaften Antrag, Antragsbefugnis, Rechtsschutzbedürfnis und Eilbedürftigkeit zuerst prüfen.
-2. Anordnungsanspruch oder Erfolgsaussichten der Hauptsache vom Anordnungsgrund beziehungsweise Aussetzungsinteresse trennen.
-3. Bei Paragraf 80 Abs. 5 VwGO gesetzliche Sofortvollziehbarkeit, behördliche Anordnung und Begründung nach Paragraf 80 Abs. 3 VwGO prüfen.
-4. Folgenabwägung nur einsetzen, wenn die Erfolgsaussichten offen bleiben; Grundrechtsgewicht ausdrücklich benennen.
-5. Beschluss mit Tenor zur aufschiebenden Wirkung oder einstweiligen Anordnung, Kosten und Streitwert fassen.
+## 1.4. Ausgabe und Anschlussverfügung
 
-## Typische Fallstricke
+Erstelle das bestellte neutrale Gerichtsprodukt vollständig: Beschlussentwurf mit Tenor und Gründen oder eine konkrete Aufklärungsverfügung, wenn eine entscheidende Tatsache fehlt. Trenne richterlich zu prüfenden Entwurf von gerichtlicher Entscheidung. Keine automatische Folgeverfügung nach einem bereits vollständigen Entscheidungsentwurf erzwingen. Neue Unterlagen in die vorhandene Fassung einarbeiten, keine wiederholte Gesamtbefragung.
 
-- Anfechtungsklage, Verpflichtungsklage und Feststellungsklage werden aus dem Antrag nicht sauber herausgelesen.
-- Eilrechtsschutz nach Paragraf 80 Abs. 5 VwGO wird mit Paragraf 123 VwGO vermischt.
-- Ermessen wird durch eigene Zweckmaessigkeitserwaegungen ersetzt.
-- Aktengeheimnis und Amtsverschwiegenheit nach Paragraf 353b StGB und Paragraf 43 DRiG begrenzen jede externe Verarbeitung.
-
-## Tenor-Bausteine bzw. Beschluss-Bausteine
-
-### Baustein A
-
-```text
-Die aufschiebende Wirkung der Klage gegen den Bescheid vom [Datum] wird angeordnet, soweit [Regelungsteil]. Im Übrigen wird der Antrag abgelehnt.
-```
-
-### Baustein B
-
-```text
-Die Behörde wird um Vorlage der vollständigen Verwaltungsvorgänge und um Stellungnahme zu [Ermessensausübung/Anhörung/Zuständigkeit] binnen [Frist] gebeten.
-```
-
-## Benachbarte Skills
-
-- **Davor**: `05-eilrechtsschutz-paragraf-80-abs-5` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Eilrechtsschutz Paragraf 123 trägt.
-- **Danach**: `07-beweisaufnahme-verwaltungsgericht` - Folgeskill nutzen, sobald Eilrechtsschutz Paragraf 123 entscheidungs- oder verfügungsreif vorbereitet ist.
-
-## Gerichtliche Arbeitsprodukt-Schärfung
-
-- Rolle: Verwaltungsgericht. Der Skill spricht aus der Binnenperspektive des Spruchkörpers und erzeugt Eilbeschluss, Gerichtsbescheid, Urteil, Hinweis oder Vergleichsvorschlag; er ersetzt keine anwaltliche Strategie und keine Parteiberatung.
-- Pflichtstamm: Paragrafen 42, 80, 80a, 86, 88, 113, 123 VwGO. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
-- Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
-- Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.
-
-## Beitrag zum Streitstoff in diesem Verfahren
-
-Dieser Skill sortiert den verwaltungsgerichtlichen Streitstoff nach Verwaltungsakt, Vorverfahren, Klagegrund, Behördenakte, Ermessen, Amtsermittlung und Tenorfolge. Er benennt, ob ein Hinweis, eine Aktenanforderung, ein Eilbeschluss oder ein Urteil vorbereitet werden muss.
+Amtlicher Ausgangspunkt: [Paragraf 123 VwGO](https://www.gesetze-im-internet.de/vwgo/__123.html). Die genannten BVerwG-Gründe wurden am 30.09.2026 für die bezeichneten Fragen gelesen. Andere Fachansprüche und Sonderverfahren benötigen ihren eigenen Nachweis. Quellen-/Zugriffslücken getrennt notieren, ohne unbearbeitete Teile als geprüft auszugeben. Aktengeheimnis und richterliche Letztentscheidung wahren; keine externe gerichtliche Handlung ausführen. Vollständige Sätze, dezimale Gliederung und bei Export Times New Roman 11 pt.

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "fachanwalt-versicherungsrecht",
-  "reviewed_on": "2026-09-23",
+  "reviewed_on": "2026-09-30",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/vvg_2008/__172.html",
@@ -37,17 +37,31 @@
       "url": "https://www.gesetze-im-internet.de/vvg_2008/__15.html",
       "supports": "Erneuter Normabruf: Hemmung zwischen Anspruchsanmeldung und Zugang der Entscheidung in Textform; Zwischenfrage und endgültige Entscheidung unterscheiden.",
       "checked_on": "2026-09-23"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2025/IV_ZR_259-25.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-30",
+      "supports": "Urteil 2026-09-09 – IV ZR 259/25. Geprüft: Leitsatz und Rn. 1–24 (gesamter Entscheidungsinhalt), Schwerpunkt 12–24. Konkreter Reparatur-/Umbauausschluss in Brandschutz-Leckageversicherung wirksam; Ursächlichkeit, Gebäudebezug und Erheblichkeit prüfen. Kein pauschaler Beleg für beliebige Bauarbeitsausschlüsse. BGH lässt offen, ob der Leckagebegriff einen technischen Defekt voraussetzt; die gegenteilige OLG-Begründung ist kein BGH-Rechtssatz.",
+      "source_sha256": "d510e6ec205b9dac2f53b31931696a580c637404d210657212c6a10b9c401f73"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2025/IV_ZR__41-25.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-30",
+      "supports": "Beschluss 2026-01-28 – IV ZR 41/25. Geprüft: Entscheidungskopf; Rn. 7–20, insbesondere 10–18 und 20. Unbekannte PKV-Kalkulationsgrundlagen grundsätzlich mit Nichtwissen bestreitbar; Versicherer beweist erhöhte Prämie, auch bei Rückforderung. Andere Lastverteilung für zusätzliche Beitragslimitierung nach §155 Abs.2 VAG. Nach Sachverständigenbeweis können konkrete Einwendungen erforderlich sein. Gehörsbedingte Zurückverweisung, keine abschließende Gesamtunwirksamkeit sämtlicher Beiträge.",
+      "source_sha256": "5eda64b3c356589336a5a05ce87a4aa2c189d40b1f3a5802897b6044763433ae"
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Schnellstart vollständig individuell gelesen und überarbeitet: Police, Ablehnung und konkrete Berufsanforderungen mit Befunden abgleichen. Werkstatt nach Deckung, Obliegenheit, Berufsunfähigkeit und Regress neu gegliedert; Hauptproblem verbindet untrennbare Teilhandlungen mit konkretem Arbeitsergebnis. Redaktionelle Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Dauerhafte Transporthilfe steht erst seit Juni bereit -> Tätigkeitsabschnitte und Rentenmonate ändern, nicht den gesunden Ausgangsberuf rückwirkend ersetzen.",
+    "reason": "Schnellstart vollständig individuell gelesen und überarbeitet: Police, Ablehnung und konkrete Berufsanforderungen mit Befunden abgleichen. Werkstatt nach Deckung, Obliegenheit, Berufsunfähigkeit und Regress neu gegliedert; Hauptproblem verbindet untrennbare Teilhandlungen mit konkretem Arbeitsergebnis. Redaktionelle Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Dauerhafte Transporthilfe steht erst seit Juni bereit -> Tätigkeitsabschnitte und Rentenmonate ändern, nicht den gesunden Ausgangsberuf rückwirkend ersetzen. Gezielte Ergänzung im zweiten Durchgang am 30.09.2026; keine erneute Vollprüfung aller Altanker.",
     "changes": [
       "Werkstatt nach Deckung, Obliegenheit, Berufsunfähigkeit und Regress neu gegliedert; Hauptproblem verbindet untrennbare Teilhandlungen mit konkretem Arbeitsergebnis.",
       "Kernfall mit operativem Entscheidungsanker, gezielten Nachfragen und Fortsetzung zum vollständigen angeforderten Dokument.",
-      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
+      "Zweiter Durchgang 30.09.2026: PKV-Kalkulation und Beitragslimitierung nach IV ZR 41/25 getrennt; Werkstatt zusätzlich um die begrenzte Ausschlussprüfung nach IV ZR 259/25 ergänzt."
     ],
-    "sha256": "b63242f74c1996f6a1ae5919d23e7884ccb5f945dbfc97002f9480022657097b"
+    "sha256": "25831b94f1a97eb288d41a6906eed9258abb5e0168ad81970e206259ceb4fc7e",
+    "reviewed_on": "2026-09-30"
   },
   "focus_review": {
     "reviewed_on": "2026-09-23",
@@ -66,13 +80,15 @@
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt vollständig individuell gelesen und überarbeitet: Police, Ablehnung und konkrete Berufsanforderungen mit Befunden abgleichen. Werkstatt nach Deckung, Obliegenheit, Berufsunfähigkeit und Regress neu gegliedert; Hauptproblem verbindet untrennbare Teilhandlungen mit konkretem Arbeitsergebnis. Redaktionelle Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Nachtragsgeltung und konkrete Gesundheitsfrage, damalige Kenntnis statt späterer Diagnose, Kausalitätsgegenbeweis, tatsächliche Arbeitsketten, bedingte Rentenrechnung, Sachschadenposition und zugangsbezogene Verjährungshemmung.",
+    "reason": "Werkstatt vollständig individuell gelesen und überarbeitet: Police, Ablehnung und konkrete Berufsanforderungen mit Befunden abgleichen. Werkstatt nach Deckung, Obliegenheit, Berufsunfähigkeit und Regress neu gegliedert; Hauptproblem verbindet untrennbare Teilhandlungen mit konkretem Arbeitsergebnis. Redaktionelle Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Nachtragsgeltung und konkrete Gesundheitsfrage, damalige Kenntnis statt späterer Diagnose, Kausalitätsgegenbeweis, tatsächliche Arbeitsketten, bedingte Rentenrechnung, Sachschadenposition und zugangsbezogene Verjährungshemmung. Gezielte Ergänzung im zweiten Durchgang am 30.09.2026; keine erneute Vollprüfung aller Altanker.",
     "changes": [
       "Werkstatt nach Deckung, Obliegenheit, Berufsunfähigkeit und Regress neu gegliedert; Hauptproblem verbindet untrennbare Teilhandlungen mit konkretem Arbeitsergebnis.",
       "Vorhandene Fachzweige, Beispiele und Zugriffsalternativen erhalten; schwache Rechtsprechungshinweise entfernt oder auf belegte Reichweite begrenzt.",
-      "Nachtragsgeltung und konkrete Gesundheitsfrage, damalige Kenntnis statt späterer Diagnose, Kausalitätsgegenbeweis, tatsächliche Arbeitsketten, bedingte Rentenrechnung, Sachschadenposition und zugangsbezogene Verjährungshemmung."
+      "Nachtragsgeltung und konkrete Gesundheitsfrage, damalige Kenntnis statt späterer Diagnose, Kausalitätsgegenbeweis, tatsächliche Arbeitsketten, bedingte Rentenrechnung, Sachschadenposition und zugangsbezogene Verjährungshemmung.",
+      "Zweiter Durchgang 30.09.2026: PKV-Kalkulation und Beitragslimitierung nach IV ZR 41/25 getrennt; Werkstatt zusätzlich um die begrenzte Ausschlussprüfung nach IV ZR 259/25 ergänzt."
     ],
-    "sha256": "827988a96f3d7281526ffefd0eaf3f6633fbc78311021478ddabbed7de7cc47b"
+    "sha256": "eacfae3f4f08fbf2a67562349bee9751a10de0e5c0fc6b6515594c0056ed96b6",
+    "reviewed_on": "2026-09-30"
   },
   "selection": {
     "positive": [

@@ -32,6 +32,8 @@ BGH, Urteil vom 19.12.2017, II ZR 88/16, [Rn. 50–62, 68–70](https://www.bund
 
 Normen und Tragweite für den jeweiligen Fall erneut amtlich prüfen. Antragsrecht und Antragspflicht nicht verwechseln; alte Haftungsnormen nicht ungeprüft übernehmen. Keine fachfremden versicherungsrechtlichen Normen einfügen. Beweislast an Anspruch und Rolle ausrichten. Keine erfundenen Literatur- oder Entscheidungsfundstellen.
 
+BGH, 12.03.2026 – [IX ZR 18/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZR__18-25.pdf?__blob=publicationFile&v=1), Rn. 27–32: Tatsächlich verfügbare Drittmittel zählen auch ohne einklagbare Zusage. Betrag, Zahlweg und Termin belegen; bloße Hoffnung nicht ansetzen. Im Prozess Wissensnähe prüfen, keine unmögliche Detailerwiderung vom Außenstehenden verlangen.
+
 ## 5. Ergebnis und Sofortbedarf
 
 Liefere das verlangte Krisenmemo, die Statusrechnung, Anmeldung oder Anfechtungsstellungnahme vollständig. Kläre einen offenen Verwendungszweck nur, soweit er die Bearbeitung verändert; interne Übersichten sind kein Ersatz für das bestellte Dokument. Zahlen mit Einheit, Quelle und Stichtag. Exportstandard: Times New Roman, 11 pt, dezimal.

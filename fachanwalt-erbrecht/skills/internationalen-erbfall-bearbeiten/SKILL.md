@@ -21,7 +21,7 @@ Todesdatum, Aufenthaltsbiografie, Staatsangehörigkeiten, Rechtswahl, Verfügung
 
 3. Internationale Zuständigkeit nach EuErbVO Artikeln 4 fortfolgende von anwendbarem Recht und nationaler örtlicher Zuständigkeit trennen.
 
-4. Güterrecht, Form, Gesellschaftsnachfolge, Registervoraussetzungen und Steuer eigenständig abgrenzen. Bei Schweiz, USA oder Türkei konkrete örtliche Normen und mögliche Staatsverträge beschaffen.
+4. Güterrecht, Form, Gesellschaftsnachfolge, Registervoraussetzungen und Steuer eigenständig abgrenzen. Bei Schweiz, USA oder Türkei konkrete örtliche Normen und mögliche Staatsverträge beschaffen. Bei ausländischer notarieller Testamentserrichtung in Deutschland aus einer territorialen Befugnisüberschreitung nicht ohne Prüfung des Formstatuts auf Unwirksamkeit schließen: BGH, 21.01.2026, IV ZR 40/25, Randnummern 9 bis 16 und 27 bis 33; den konkreten Anwendungsfall in [Statut und Staatenbezug](references/statut-staaten.md) prüfen.
 
 5. Erbschein, Europäisches Nachlasszeugnis oder ausländischen Nachweis nach Zweck auswählen. Antrag, Nachweise, Übersetzung und tatsächliche Registeranforderungen planen.
 

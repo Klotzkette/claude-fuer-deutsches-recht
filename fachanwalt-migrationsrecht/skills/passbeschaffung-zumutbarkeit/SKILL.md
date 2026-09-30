@@ -33,6 +33,12 @@ description: "Für Passbeschaffung Zumutbarkeit: Fachmodul im Migrationsrecht: o
 5. **Beweis:** Dokumente, Urkunden, Übersetzungen, Atteste, Länderquellen und digitale Belege sauber trennen.
 6. **Taktik:** Antrag, Nachreichung, Fristverlängerung, Eilantrag, Klage, Vergleich, Behördenkommunikation.
 
+## 1. Konkrete Entscheidungsweiche, Stand 30.09.2026
+
+BVerwG, Urteil vom 26.08.2026 – 1 C 27.25 ([amtlicher Volltext](https://www.bverwg.de/260826U1C27.25.0)), Randnummern 10–13, 19–30 und 41–43: Ein gültiger Nationalpass schließt den Zusatz nach Paragraf 60b AufenthG nicht schon aus, wenn für die Rückführung ein zusätzliches Passersatzpapier nötig ist und die hierfür regelmäßig zumutbare Freiwilligkeitserklärung verweigert wird. Stelle genaue Dokumentenanforderung, verlangten Erklärungstext, behördliche Aufforderung, individuelle Zumutbarkeit, Kausalität und Vertretenmüssen fest. Die besondere Pflicht betrifft Pass/Passersatz, nicht jedes beliebige Abschiebungshindernis. Der Zusatz ist isoliert anfechtbar; abgelaufene Duldungen erledigen wegen möglicher fortwirkender Vorduldungsfolgen den Streit nicht automatisch. Keine ungeprüfte Übertragung auf anerkannte Schutzberechtigte oder andere Erklärungen; aktuelle Herkunftsstaatspraxis belegen.
+
+Fordere die schriftliche Mitwirkungsaufforderung, die konkrete Herkunftsstaatserklärung, vorhandene Pass-/Passersatzdokumente und die einzelnen Duldungsbescheide an. Kläre, welches Dokument trotz Pass fehlt und ob gerade die unterlassene Handlung die Rückführung verhindert. Bei belegter Unzumutbarkeit den konkreten Grund und Gegenbeleg ausarbeiten; keine vorgefertigte Weigerungs- oder Freiwilligkeitserklärung im Namen des Mandanten abgeben.
+
 ## Quellen- und Sicherheitsregel
 - Vor tragenden Aussagen den aktuellen Normtext und die aktuelle Behörden-/Gerichtspraxis prüfen; keine Scheingenauigkeit aus Modellwissen.
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.

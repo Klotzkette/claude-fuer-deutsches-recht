@@ -27,6 +27,11 @@
       "url": "https://www.gesetze-im-internet.de/inso/__22.html",
       "checked_on": "2026-09-23",
       "supports": "Amtlicher Wortlaut zur Stellung des vorläufigen Insolvenzverwalters erneut gelesen; konkrete gerichtliche Anordnung und Verfügungsbefugnis bleiben für einzelne Maßnahmen entscheidend."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZR__18-25.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-30",
+      "supports": "BGH, Urteil vom 12.03.2026 – [IX ZR 18/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZR__18-25.pdf?__blob=publicationFile&v=1), Leitsätze und Rn. 36–38: Eine Zahlung zur Erfüllung einer Geldauflage nach § 153a StPO kann als inkongruente Deckung anfechtbar sein. Bei unmittelbarer Zahlung an eine gemeinnützige Einrichtung ist diese Empfängerin, nicht allein wegen der gerichtlichen Anordnung die Landeskasse. Zahlungsweg, tatsächliche Bereicherung und Voraussetzungen des § 131 InsO prüfen; keine automatische Rückforderung jeder Geldauflage."
     }
   ],
   "mini_review": {
@@ -36,9 +41,10 @@
       "IX ZR 125/17 als Maßstab für vertretbare Kosten-/Risikobewertung nach Paragraf 60 InsO eingebaut; keine aktienrechtliche Business Judgment Rule.",
       "Paragraf 158 InsO für Stilllegung/Veräußerung vor Berichtstermin von Verwertung und Zustimmung nach Paragrafen 159 und 160 getrennt.",
       "Masseunzulänglichkeit und Drittvermögen verhindern pauschale Zahlungsfreigaben.",
-      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt."
+      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt.",
+      "Gezielter amtlicher Rechtsprechungsabgleich 30.09.2026: BGH, Urteil vom 12.03.2026 – IX ZR 18/25, Rn. 24–32, 36–38"
     ],
-    "sha256": "153db1c75f41c4efe6c237ce21a53a0a9556ba5cbe8852379cfec6149250a914"
+    "sha256": "dea74cf6be4b92e311a05c23359103df84db2cd0fd5537e73789e4da9f454242"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -47,9 +53,10 @@
       "IX ZR 125/17 als Maßstab für vertretbare Kosten-/Risikobewertung nach Paragraf 60 InsO eingebaut; keine aktienrechtliche Business Judgment Rule.",
       "Paragraf 158 InsO für Stilllegung/Veräußerung vor Berichtstermin von Verwertung und Zustimmung nach Paragrafen 159 und 160 getrennt.",
       "Masseunzulänglichkeit und Drittvermögen verhindern pauschale Zahlungsfreigaben.",
-      "Beschlussbezogene Befugnisse, Seriennummern und Eigentumsvorbehalt, kritische Lieferantenvorauszahlung, Masseunzulänglichkeit und tatsächlicher Zahlungsvollzug als getrennte Entscheidungspfade ergänzt."
+      "Beschlussbezogene Befugnisse, Seriennummern und Eigentumsvorbehalt, kritische Lieferantenvorauszahlung, Masseunzulänglichkeit und tatsächlicher Zahlungsvollzug als getrennte Entscheidungspfade ergänzt.",
+      "Gezielter amtlicher Rechtsprechungsabgleich 30.09.2026: BGH, Urteil vom 12.03.2026 – IX ZR 18/25, Rn. 24–32, 36–38"
     ],
-    "sha256": "577f57c28eae2e4e929b7dfca25994bc878307b4930a674a143b92fec16a61be"
+    "sha256": "3225742bf5a1f8ebb68e0289a9a187b1c53d2e7e0800220d689a22a742145779"
   },
   "selection": {
     "positive": [
@@ -113,13 +120,21 @@
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2017/IX_ZR_125-17.pdf?__blob=publicationFile&v=1",
         "application": "Prozess, Vergleich oder Verwertung aus damaliger Informationslage nach Gläubigerzweck, Kosten und Risiken beurteilen. Vertretbaren Handlungsspielraum dokumentieren statt einen späteren Verlust allein als Pflichtverletzung zu behandeln.",
         "limit": "Keine Übertragung der aktienrechtlichen Business Judgment Rule; Maßstab bleibt Paragraf 60 InsO, keine Freistellung für bloß grob fahrlässige Fehler."
+      },
+      {
+        "citation": "BGH, Urteil vom 12.03.2026 – IX ZR 18/25, Rn. 24–32, 36–38",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZR__18-25.pdf?__blob=publicationFile&v=1",
+        "checked_on": "2026-09-30",
+        "application": "BGH, Urteil vom 12.03.2026 – [IX ZR 18/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZR__18-25.pdf?__blob=publicationFile&v=1), Leitsätze und Rn. 36–38: Eine Zahlung zur Erfüllung einer Geldauflage nach § 153a StPO kann als inkongruente Deckung anfechtbar sein. Bei unmittelbarer Zahlung an eine gemeinnützige Einrichtung ist diese Empfängerin, nicht allein wegen der gerichtlichen Anordnung die Landeskasse. Zahlungsweg, tatsächliche Bereicherung und Voraussetzungen des § 131 InsO prüfen; keine automatische Rückforderung jeder Geldauflage.",
+        "limit": "Gezielte Ergänzung; frühere Quellenprüfdaten bleiben erhalten. Keine abschließende Insolvenzfeststellung aus IX ZR 18/25 und keine Gruppenfreigabe aus IX ZB 18/25."
       }
     ],
     "remaining_limits": [
       "Redaktionelle Akten- und Quellenprüfung, kein Live-Client- oder Modelltest.",
       "Keine Vollprüfung aller Arbeits-, Steuer- oder Auslandsfragen; Maßnahmen erfordern Beschluss- und Zahlungsdaten des konkreten Verfahrens.",
       "Workflow-Ergänzung am 2026-09-23: individuelle Textprüfung, keine erneute Gesamtverifikation der bestehenden Entscheidungsanker; deren dokumentierte Quellen- und Zugriffsgrenzen bleiben bestehen."
-    ]
+    ],
+    "supplement_checked_on": "2026-09-30"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",

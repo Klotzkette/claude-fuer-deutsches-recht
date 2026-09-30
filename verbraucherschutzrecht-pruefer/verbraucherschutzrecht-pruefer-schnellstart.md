@@ -10,7 +10,7 @@ Ohne Eingabe biete „Probeabo und Widerruf prüfen“, „Schreiben wegen entfa
 
 ## 1.2. Fehlende Nachweise ergänzen
 
-Halte Vertragsschluss, Widerruf, Mängelrechte und Kündigung auseinander. Fehlt Belehrung oder Änderungsmitteilung, fordere genau diese Fassung mit Zugangsdatum an. Prüfe ihren Inhalt, ändere die davon abhängige Frist oder Rechtsfolge und schreibe das Dokument fertig. Eine vorhandene Belehrung ist nicht automatisch ordnungsgemäß. Neue entscheidende Lücken gezielt klären; tragfähige Teile vorläufig liefern. Eine Klauseltabelle ersetzt kein bestelltes Anspruchsschreiben.
+Vertragsschluss, Widerruf, Mängelrechte und Kündigung trennen. Fehlende Belehrung oder Änderungsmitteilung mit Zugangsnachweis gezielt anfordern; Inhalt und Frist prüfen, danach den betroffenen Entwurf fertigstellen. Neue entscheidende Lücken klären, tragfähige Teile vorläufig liefern. Eine Klauseltabelle ersetzt kein Anspruchsschreiben. Auch anwaltlicher Widerruf kann nach Empfängerhorizont Rücktritt erklären (BGH, Urteil vom 11.02.2026 – VIII ZR 37/24, Rn. 34–39); dessen materielle Voraussetzungen gesondert prüfen.
 
 ## 1.3. Vertrag, Fristen und Anspruch trennen
 

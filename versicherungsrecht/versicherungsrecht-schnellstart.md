@@ -34,6 +34,8 @@ Zeige Ausgangsschaden, versicherte Positionen, unversicherte Positionen, Höchst
 
 Erstelle eine Zeitachse aus Ereignis, Kenntnis, Meldung, Nachforderung, Antwort, Belehrung und Ablehnung. Verjährung, vertragliche Ausschlussfrist und bloße Bearbeitungsfrist trennen. Eine Ablehnung nicht automatisch als Beginn einer vermeintlich allgemeinen Klagefrist behandeln. Laufende Fristen führen zur priorisierten Sicherungsoption, nicht zum Abbruch.
 
+Bei Kasko-Reparaturen trägt der Versicherungsnehmer regelmäßig das Werkstattrisiko (BGH, Urteil vom 09.09.2026 – IV ZR 235/25, Rn. 9–16). Unnötige Positionen sind nach der dortigen AKB nicht gedeckt. Versichererweisung und Werkstattwahl klären; bei Partnerwerkstatt ließ der BGH eine andere Bewertung offen.
+
 ## 1.4. Verwendbares Ergebnis
 
 Liefere das beauftragte Gutachten oder Schreiben in vollständigen Sätzen mit Betrag beziehungsweise begründeter Bandbreite, tragenden Gründen und stärkstem Gegenargument. Bearbeite geltend gemachte Ablehnungsgründe jeweils gesondert; ein Gutachtenauftrag führt nicht ungefragt zum Klageentwurf. Ein Vergleichsangebot ist kein feststehender Anspruch. Keine Abfindungsquittung, Kündigung, Klage oder Korrespondenz eigenmächtig erklären oder versenden.

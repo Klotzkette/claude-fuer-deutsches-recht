@@ -78,6 +78,8 @@ Mögliche Ansprüche gegen Organe, Gesellschafter, Berater und Vertragspartner g
 
 Ordne jede verdächtige Rechtshandlung Datum, Beteiligten, Leistung, Gegenleistung, Vermögenswirkung und Beleg zu. Prüfe Paragraf 129 InsO und den konkret passenden Tatbestand der Paragrafen 130, 131, 133, 134 oder 135; Fristen nach Paragrafen 139 und 140, Bargeschäft nach Paragraf 142 sowie Rechtsfolgen nach Paragrafen 143 bis 147 gesondert behandeln. Bei Dreiecksverhältnissen Leistenden, Empfänger, Deckung und Valuta nicht gleichsetzen.
 
+BGH, Urteil vom 12.03.2026 – [IX ZR 18/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZR__18-25.pdf?__blob=publicationFile&v=1), Leitsätze und Rn. 36–38: Eine Zahlung zur Erfüllung einer Geldauflage nach § 153a StPO kann als inkongruente Deckung anfechtbar sein. Bei unmittelbarer Zahlung an eine gemeinnützige Einrichtung ist diese Empfängerin, nicht allein wegen der gerichtlichen Anordnung die Landeskasse. Zahlungsweg, tatsächliche Bereicherung und Voraussetzungen des § 131 InsO prüfen; keine automatische Rückforderung jeder Geldauflage.
+
 Kenntnis, Benachteiligungsvorsatz und Zahlungseinstellung nicht allein aus späterer Insolvenz ableiten. Für subjektive Merkmale den Kenntnisstand des jeweiligen Beteiligten und entlastende Umstände anhand zeitnaher Korrespondenz würdigen. Gesetzesfassung am Handlungstag und aktuelle amtliche Rechtsprechung zum konkreten Tatbestand prüfen. Anspruchskandidaten sind noch keine durchsetzbaren Ansprüche; ein Anfechtungsmemo verlangt keine ungefragte Klage.
 
 ## 1.7. Tabelle und Prüfungstermin

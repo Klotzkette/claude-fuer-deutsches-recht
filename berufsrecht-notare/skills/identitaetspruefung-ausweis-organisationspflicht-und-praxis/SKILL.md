@@ -42,5 +42,5 @@ Konkret zu prüfen:
 - § 10 BeurkG (Identitätsfeststellung)
 - § 11 BeurkG
 - § 12 BNotO
-- § 26 BNotO (Geschäftsstelle)
+- § 10 Abs. 2 bis 4 BNotO (Geschäftsstelle)
 - DONot

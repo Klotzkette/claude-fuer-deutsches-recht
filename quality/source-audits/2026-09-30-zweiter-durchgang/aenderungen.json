@@ -1,0 +1,336 @@
+{
+  "baseline_commit": "b21e767b107f9497aa950c01dbcc382eb5545c3b",
+  "previous_audit_merge": "60b8eff6364a31e6ecde42e85145245b9a9031a7",
+  "plugins_changed": [
+    {
+      "plugin": "agb-recht-pruefer",
+      "files": [
+        "agb-recht-pruefer/agb-recht-pruefer-schnellstart.md",
+        "agb-recht-pruefer/agb-recht-pruefer-werkstatt.md",
+        "agb-recht-pruefer/skills/klauselausfall-und-vertragsluecke-pruefen/references/lueckenfuellung.md"
+      ]
+    },
+    {
+      "plugin": "berufsrecht-notare",
+      "files": [
+        "berufsrecht-notare/berufsrecht-notare-schnellstart.md",
+        "berufsrecht-notare/berufsrecht-notare-werkstatt.md",
+        "berufsrecht-notare/skills/aktenfuehrung/SKILL.md",
+        "berufsrecht-notare/skills/amtsenthebung-vermoegensverfall-organisationspflicht/SKILL.md",
+        "berufsrecht-notare/skills/amtsenthebung-vermoegensverfall-rechtsprechungscheck/SKILL.md",
+        "berufsrecht-notare/skills/amtsenthebung-vermoegensverfall/SKILL.md",
+        "berufsrecht-notare/skills/anderkonto-und-verwahrung-kammerantwort-und-verfahrensst/SKILL.md",
+        "berufsrecht-notare/skills/anderkonto-und-verwahrung-organisationspflicht-und-praev/SKILL.md",
+        "berufsrecht-notare/skills/anderkonto-und-verwahrung-rechtsprechungscheck-und-red-t/SKILL.md",
+        "berufsrecht-notare/skills/anderkonto-verwahrung-faktenmatrix/SKILL.md",
+        "berufsrecht-notare/skills/auszahlungsanweisung-faktenmatrix/SKILL.md",
+        "berufsrecht-notare/skills/auszahlungsanweisung-konflikt-kammerantwort-und-verfahren/SKILL.md",
+        "berufsrecht-notare/skills/auszahlungsanweisung-konflikt-organisationspflicht-und-p/SKILL.md",
+        "berufsrecht-notare/skills/auszahlungsanweisung-konflikt-rechtsprechungscheck-und-r/SKILL.md",
+        "berufsrecht-notare/skills/belehrungspflicht-und-verbraucher-organisationspflicht-u/SKILL.md",
+        "berufsrecht-notare/skills/belehrungspflicht-verbraucher-beurkundung/SKILL.md",
+        "berufsrecht-notare/skills/belehrungspflicht-verbraucher-faktenma/SKILL.md",
+        "berufsrecht-notare/skills/belehrungspflicht-verbraucher/SKILL.md",
+        "berufsrecht-notare/skills/berufsausuebungsgesellschaft/SKILL.md",
+        "berufsrecht-notare/skills/berufsgericht-und-disziplinarverfahren/SKILL.md",
+        "berufsrecht-notare/skills/berufshaftpflicht-berufspflichtverletzung/SKILL.md",
+        "berufsrecht-notare/skills/berufspflichtverletzung/SKILL.md",
+        "berufsrecht-notare/skills/beschwerdemanagement/SKILL.md",
+        "berufsrecht-notare/skills/beurkundung-ausland-beurkundungsabbruch/SKILL.md",
+        "berufsrecht-notare/skills/beurkundung-ausland-faktenmatrix/SKILL.md",
+        "berufsrecht-notare/skills/beurkundung-im-ausland-bezug-organisationspflicht-und-pr/SKILL.md",
+        "berufsrecht-notare/skills/beurkundung-im-ausland-bezug-rechtsprechungscheck-und-re/SKILL.md",
+        "berufsrecht-notare/skills/beurkundungsabbruch-faktenmatrix/SKILL.md",
+        "berufsrecht-notare/skills/beurkundungsabbruch-organisationspflicht-und-praevention/SKILL.md",
+        "berufsrecht-notare/skills/beurkundungsabbruch-rechtsprechungscheck-und-red-team/SKILL.md",
+        "berufsrecht-notare/skills/beurkundungsverfahren-vollmacht-organisationspflicht/SKILL.md",
+        "berufsrecht-notare/skills/beurkundungsverfahren-vollmacht-rechtsprechungscheck/SKILL.md",
+        "berufsrecht-notare/skills/beurkundungsverfahren-vollmacht/SKILL.md",
+        "berufsrecht-notare/skills/cross-border/SKILL.md",
+        "berufsrecht-notare/skills/datenraum-dokumentenintake-aktenlog/SKILL.md",
+        "berufsrecht-notare/skills/datenschutzpanne-notariat-dienstaufsicht/SKILL.md",
+        "berufsrecht-notare/skills/datenschutzpanne-notariat-rechtsprechungscheck-und-red-t/SKILL.md",
+        "berufsrecht-notare/skills/datenschutzpanne-notariat/SKILL.md",
+        "berufsrecht-notare/skills/dienstaufsicht-beschwerde-kaltstart-und-faktenmatrix/SKILL.md",
+        "berufsrecht-notare/skills/dienstaufsicht-beschwerde-kammerantwort-und-verfahrensst/SKILL.md",
+        "berufsrecht-notare/skills/dienstaufsicht-beschwerde-organisationspflicht-und-praev/SKILL.md",
+        "berufsrecht-notare/skills/dienstaufsicht-beschwerde/SKILL.md",
+        "berufsrecht-notare/skills/disziplinarverfahren-notar-kaltstart-und-faktenmatrix/SKILL.md",
+        "berufsrecht-notare/skills/disziplinarverfahren-notar-organisationspflicht-und-prae/SKILL.md",
+        "berufsrecht-notare/skills/disziplinarverfahren-notar-rechtsprechungscheck/SKILL.md",
+        "berufsrecht-notare/skills/dokumentenintake-und-aktenlog/SKILL.md",
+        "berufsrecht-notare/skills/dolmetscher-und-sprachrisiko-kaltstart-und-faktenmatrix/SKILL.md",
+        "berufsrecht-notare/skills/dolmetscher-und-sprachrisiko-kammerantwort-und-verfahren/SKILL.md",
+        "berufsrecht-notare/skills/dolmetscher-und-sprachrisiko-organisationspflicht-und-pr/SKILL.md",
+        "berufsrecht-notare/skills/dolmetscher-und-sprachrisiko-rechtsprechungscheck-und-re/SKILL.md",
+        "berufsrecht-notare/skills/entscheidungsvorlage/SKILL.md",
+        "berufsrecht-notare/skills/erbvertrag-testament-belehrung-kaltstart-und-faktenmatri/SKILL.md",
+        "berufsrecht-notare/skills/erbvertrag-testament-belehrung-kammerantwort-und-verfahr/SKILL.md",
+        "berufsrecht-notare/skills/erbvertrag-testament-belehrung-organisationspflicht/SKILL.md",
+        "berufsrecht-notare/skills/erbvertrag-testament-belehrung-rechtsprechungscheck/SKILL.md",
+        "berufsrecht-notare/skills/fachbezeichnung/SKILL.md",
+        "berufsrecht-notare/skills/fernbeglaubigung-und-videoverfahren-organisationspflicht/SKILL.md",
+        "berufsrecht-notare/skills/fernbeglaubigung-videoverfahren-02/SKILL.md",
+        "berufsrecht-notare/skills/fernbeglaubigung-videoverfahren/SKILL.md",
+        "berufsrecht-notare/skills/fortbildung/SKILL.md",
+        "berufsrecht-notare/skills/frist-und-zustaendigkeit-cockpit/SKILL.md",
+        "berufsrecht-notare/skills/fristenkontrolle/SKILL.md",
+        "berufsrecht-notare/skills/geldwaesche-kyc-homeoffice-honorar-gebuehren/SKILL.md",
+        "berufsrecht-notare/skills/geldwaeschepruefung-immobilienkauf-kaltstart-und-faktenm/SKILL.md",
+        "berufsrecht-notare/skills/geldwaeschepruefung-immobilienkauf-organisationspflicht/SKILL.md",
+        "berufsrecht-notare/skills/geldwaeschepruefung-immobilienkauf-rechtsprechungscheck/SKILL.md",
+        "berufsrecht-notare/skills/gesellschafterliste-nach-auslandsinsolvenz-kaltstart/SKILL.md",
+        "berufsrecht-notare/skills/gesellschafterliste-nach-auslandsinsolvenz-organisations/SKILL.md",
+        "berufsrecht-notare/skills/gesellschafterliste-nach-auslandsinsolvenz-rechtsprechun/SKILL.md",
+        "berufsrecht-notare/skills/grundschuld-sicherungszweck-haftpflicht/SKILL.md",
+        "berufsrecht-notare/skills/grundschuld-sicherungszweck/SKILL.md",
+        "berufsrecht-notare/skills/grundschuld-und-sicherungszweck-kammerantwort-und-verfahren/SKILL.md",
+        "berufsrecht-notare/skills/grundschuld-und-sicherungszweck-rechtsprechungscheck/SKILL.md",
+        "berufsrecht-notare/skills/haftpflicht-und-schadenmeldung-kaltstart-und-faktenmatri/SKILL.md",
+        "berufsrecht-notare/skills/haftpflicht-und-schadenmeldung-kammerantwort-und-verfahr/SKILL.md",
+        "berufsrecht-notare/skills/haftpflicht-und-schadenmeldung-organisationspflicht/SKILL.md",
+        "berufsrecht-notare/skills/haftpflicht-und-schadenmeldung-rechtsprechungscheck/SKILL.md",
+        "berufsrecht-notare/skills/handelsregisteranmeldung-fehler-kaltstart-und-faktenmatr/SKILL.md",
+        "berufsrecht-notare/skills/handelsregisteranmeldung-fehler-kammerantwort-und-verfahren/SKILL.md",
+        "berufsrecht-notare/skills/handelsregisteranmeldung-fehler-organisationspflicht/SKILL.md",
+        "berufsrecht-notare/skills/handelsregisteranmeldung-fehler/SKILL.md",
+        "berufsrecht-notare/skills/homeoffice/SKILL.md",
+        "berufsrecht-notare/skills/honorar-gebuehren-verguetung/SKILL.md",
+        "berufsrecht-notare/skills/identitaetspruefung-ausweis-kaltstart-und-faktenmatrix/SKILL.md",
+        "berufsrecht-notare/skills/identitaetspruefung-ausweis-organisationspflicht-und-praxis/SKILL.md",
+        "berufsrecht-notare/skills/identitaetspruefung-ausweis-rechtsprechungscheck/SKILL.md",
+        "berufsrecht-notare/skills/interessenkollision/SKILL.md",
+        "berufsrecht-notare/skills/it-cloud-kammeraufsicht-ruege/SKILL.md",
+        "berufsrecht-notare/skills/kaltstart-routing/SKILL.md",
+        "berufsrecht-notare/skills/kammeraufsicht-und-ruege/SKILL.md",
+        "berufsrecht-notare/skills/kanzleiorganisation/SKILL.md",
+        "berufsrecht-notare/skills/ki-im-notariat-grenzen-kaltstart-und-faktenmatrix/SKILL.md",
+        "berufsrecht-notare/skills/ki-im-notariat-grenzen-organisationspflicht-und-praevent/SKILL.md",
+        "berufsrecht-notare/skills/ki-im-notariat-grenzen-rechtsprechungscheck-und-red-team/SKILL.md",
+        "berufsrecht-notare/skills/ki-notariat-kollegialitaet-kammerantwort/SKILL.md",
+        "berufsrecht-notare/skills/kollegialitaet-faktenma-kostenrechnung/SKILL.md",
+        "berufsrecht-notare/skills/kollegialitaet-und-zustaendigkeit-kammerantwort-und-verf/SKILL.md",
+        "berufsrecht-notare/skills/kollegialitaet-und-zustaendigkeit-organisationspflicht-u/SKILL.md",
+        "berufsrecht-notare/skills/kollegialitaet-und-zustaendigkeit-rechtsprechungscheck-u/SKILL.md",
+        "berufsrecht-notare/skills/kooperation-mit-anderen-berufen/SKILL.md",
+        "berufsrecht-notare/skills/kostenrechnung-gnotkg-beschwerde-kaltstart-und-faktenmat/SKILL.md",
+        "berufsrecht-notare/skills/kostenrechnung-gnotkg-beschwerde-organisationspflicht/SKILL.md",
+        "berufsrecht-notare/skills/kostenrechnung-gnotkg-beschwerde/SKILL.md",
+        "berufsrecht-notare/skills/mandanten-oder-beteiligtenkommunikation/SKILL.md",
+        "berufsrecht-notare/skills/mandatsannahme-mandatsbeendigung-mitarbeiter/SKILL.md",
+        "berufsrecht-notare/skills/mandatsbeendigung/SKILL.md",
+        "berufsrecht-notare/skills/mitarbeiter/SKILL.md",
+        "berufsrecht-notare/skills/nebenberuf/SKILL.md",
+        "berufsrecht-notare/skills/nebentaetigkeit-und-interessenkollision-organisationspfl/SKILL.md",
+        "berufsrecht-notare/skills/notar-gesellschafterliste-register/SKILL.md",
+        "berufsrecht-notare/skills/notaranderkonto-auszahlungsreife-kaltstart-und-faktenmat/SKILL.md",
+        "berufsrecht-notare/skills/notaranderkonto-auszahlungsreife-organisationspflicht/SKILL.md",
+        "berufsrecht-notare/skills/notaranderkonto-auszahlungsreife-rechtsprechungscheck/SKILL.md",
+        "berufsrecht-notare/skills/notaranderkonto-auszahlungsreife/SKILL.md",
+        "berufsrecht-notare/skills/notarielle-verwahrung-notarkammer-anfrage/SKILL.md",
+        "berufsrecht-notare/skills/notarielle-verwahrung-von-daten-kammerantwort-und-verfahren/SKILL.md",
+        "berufsrecht-notare/skills/notarielle-verwahrung-von-daten-organisationspflicht/SKILL.md",
+        "berufsrecht-notare/skills/notarielle-verwahrung-von-daten-rechtsprechungscheck/SKILL.md",
+        "berufsrecht-notare/skills/notarkammer-anfrage-kaltstart-und-faktenmatrix/SKILL.md",
+        "berufsrecht-notare/skills/notarkammer-anfrage-kammerantwort-und-verfahrensstrategi/SKILL.md",
+        "berufsrecht-notare/skills/notarkammer-anfrage-organisationspflicht-und-praevention/SKILL.md",
+        "berufsrecht-notare/skills/notarkammer-anfrage-rechtsprechungscheck-und-red-team/SKILL.md",
+        "berufsrecht-notare/skills/notarvertretung-notariatsverwalter/SKILL.md",
+        "berufsrecht-notare/skills/notarvertretung-und-notariatsverwalter-kaltstart/SKILL.md",
+        "berufsrecht-notare/skills/notarvertretung-und-notariatsverwalter-organisationspflicht/SKILL.md",
+        "berufsrecht-notare/skills/protokoll-und-nachbereitung/SKILL.md",
+        "berufsrecht-notare/skills/qualitaetsmanagement-im-notariat-kaltstart-und-faktenmat/SKILL.md",
+        "berufsrecht-notare/skills/qualitaetsmanagement-im-notariat-organisationspflicht/SKILL.md",
+        "berufsrecht-notare/skills/qualitaetsmanagement-im-notariat-rechtsprechungscheck/SKILL.md",
+        "berufsrecht-notare/skills/quellen-rechtsprechungscheck-berufsgericht/SKILL.md",
+        "berufsrecht-notare/skills/rechnungseinzug/SKILL.md",
+        "berufsrecht-notare/skills/rechtsmittel-dienstaufsicht/SKILL.md",
+        "berufsrecht-notare/skills/rechtsmittel-gegen-dienstaufsicht-kaltstart-und-faktenma/SKILL.md",
+        "berufsrecht-notare/skills/rechtsmittel-gegen-dienstaufsicht-organisationspflicht-u/SKILL.md",
+        "berufsrecht-notare/skills/rechtsmittel-gegen-dienstaufsicht-rechtsprechungscheck-u/SKILL.md",
+        "berufsrecht-notare/skills/red-team-qualitygate/SKILL.md",
+        "berufsrecht-notare/skills/remote-work/SKILL.md",
+        "berufsrecht-notare/skills/share-deal-closing-notar-kammerantwort-und-verfahrensstr/SKILL.md",
+        "berufsrecht-notare/skills/share-deal-closing-notar-organisationspflicht-und-praevention/SKILL.md",
+        "berufsrecht-notare/skills/share-deal-closing-notar-rechtsprechungscheck-und-red-te/SKILL.md",
+        "berufsrecht-notare/skills/share-deal-umwandlung-registersperre/SKILL.md",
+        "berufsrecht-notare/skills/sitzungs-und-terminvorbereitung/SKILL.md",
+        "berufsrecht-notare/skills/syndikus-oder-inhouse/SKILL.md",
+        "berufsrecht-notare/skills/treuhand-oder-fremdgeld/SKILL.md",
+        "berufsrecht-notare/skills/umwandlung-registersperre/SKILL.md",
+        "berufsrecht-notare/skills/umwandlung-und-registersperre-kaltstart-und-faktenmatrix/SKILL.md",
+        "berufsrecht-notare/skills/umwandlung-und-registersperre-kammerantwort-und-verfahren/SKILL.md",
+        "berufsrecht-notare/skills/umwandlung-und-registersperre-organisationspflicht-und-p/SKILL.md",
+        "berufsrecht-notare/skills/unparteilichkeit-bei-familiengesellschaft-kaltstart/SKILL.md",
+        "berufsrecht-notare/skills/unparteilichkeit-bei-familiengesellschaft-organisationsp/SKILL.md",
+        "berufsrecht-notare/skills/unparteilichkeit-bei-familiengesellschaft-rechtsprechung/SKILL.md",
+        "berufsrecht-notare/skills/unparteilichkeit-familiengesellschaft/SKILL.md",
+        "berufsrecht-notare/skills/urkundenrolle-fehler-kaltstart-und-faktenmatrix/SKILL.md",
+        "berufsrecht-notare/skills/urkundenrolle-fehler-organisationspflicht-und-praeventio/SKILL.md",
+        "berufsrecht-notare/skills/urkundenrolle-fehler-rechtsprechungscheck-und-red-team/SKILL.md",
+        "berufsrecht-notare/skills/urkundenrolle-fehler-werbung-amtsbezeichnung/SKILL.md",
+        "berufsrecht-notare/skills/urkundensammlung-und-verwahrung-kammerantwort-und-verfahren/SKILL.md",
+        "berufsrecht-notare/skills/urkundensammlung-und-verwahrung-rechtsprechungscheck/SKILL.md",
+        "berufsrecht-notare/skills/urkundensammlung-verwahrung/SKILL.md",
+        "berufsrecht-notare/skills/verbraucherwiderruf-und-beurkundung-organisationspflicht/SKILL.md",
+        "berufsrecht-notare/skills/vermerk-mustertext-sitzungs/SKILL.md",
+        "berufsrecht-notare/skills/verschwiegenheit-datenraum-verwahrungsanzeige/SKILL.md",
+        "berufsrecht-notare/skills/verschwiegenheit-geheimnisschutz-werbung/SKILL.md",
+        "berufsrecht-notare/skills/verschwiegenheit-und-datenraum-kaltstart-und-faktenmatri/SKILL.md",
+        "berufsrecht-notare/skills/verschwiegenheit-und-datenraum-kammerantwort-und-verfahr/SKILL.md",
+        "berufsrecht-notare/skills/verschwiegenheit-und-datenraum-organisationspflicht/SKILL.md",
+        "berufsrecht-notare/skills/verwahrungsanzeige-gnotkg/SKILL.md",
+        "berufsrecht-notare/skills/verwahrungsanzeige-und-gnotkg-kaltstart-und-faktenmatrix/SKILL.md",
+        "berufsrecht-notare/skills/verwahrungsanzeige-und-gnotkg-organisationspflicht-und-p/SKILL.md",
+        "berufsrecht-notare/skills/verwahrungsanzeige-und-gnotkg-rechtsprechungscheck-und-r/SKILL.md",
+        "berufsrecht-notare/skills/vollzugsueberwachung-grundbuch-kaltstart-und-faktenmatri/SKILL.md",
+        "berufsrecht-notare/skills/vollzugsueberwachung-grundbuch-kammerantwort-und-verfahr/SKILL.md",
+        "berufsrecht-notare/skills/vollzugsueberwachung-grundbuch-organisationspflicht/SKILL.md",
+        "berufsrecht-notare/skills/vollzugsueberwachung-grundbuch-rechtsprechungscheck/SKILL.md",
+        "berufsrecht-notare/skills/werbung-amtsbezeichnung-amtsenthebung/SKILL.md",
+        "berufsrecht-notare/skills/werbung-protokoll-nachbereitung/SKILL.md",
+        "berufsrecht-notare/skills/werbung-und-amtsbezeichnung-rechtsprechungscheck/SKILL.md",
+        "berufsrecht-notare/skills/werbung-und-aussenauftritt/SKILL.md",
+        "berufsrecht-notare/skills/zulassung-bestellung-und-register/SKILL.md"
+      ]
+    },
+    {
+      "plugin": "fachanwalt-erbrecht",
+      "files": [
+        "fachanwalt-erbrecht/fachanwalt-erbrecht-schnellstart.md",
+        "fachanwalt-erbrecht/fachanwalt-erbrecht-werkstatt.md",
+        "fachanwalt-erbrecht/skills/internationalen-erbfall-bearbeiten/SKILL.md",
+        "fachanwalt-erbrecht/skills/internationalen-erbfall-bearbeiten/references/statut-staaten.md",
+        "fachanwalt-erbrecht/skills/pflichtteil-auskunft-durchsetzen/references/stufenantraege-vollstreckung.md"
+      ]
+    },
+    {
+      "plugin": "fachanwalt-migrationsrecht",
+      "files": [
+        "fachanwalt-migrationsrecht/fachanwalt-migrationsrecht-schnellstart.md",
+        "fachanwalt-migrationsrecht/fachanwalt-migrationsrecht-werkstatt.md",
+        "fachanwalt-migrationsrecht/skills/passbeschaffung-zumutbarkeit/SKILL.md",
+        "fachanwalt-migrationsrecht/skills/reiseausweis-fluechtling/SKILL.md"
+      ]
+    },
+    {
+      "plugin": "fachanwalt-vergaberecht",
+      "files": [
+        "fachanwalt-vergaberecht/README.md",
+        "fachanwalt-vergaberecht/fachanwalt-vergaberecht-schnellstart.md",
+        "fachanwalt-vergaberecht/fachanwalt-vergaberecht-werkstatt.md",
+        "fachanwalt-vergaberecht/skills/fachanwalt-vergaberecht-inhouse-interkommunal/SKILL.md",
+        "fachanwalt-vergaberecht/skills/inhouse-interkommunal/SKILL.md"
+      ]
+    },
+    {
+      "plugin": "fachanwalt-versicherungsrecht",
+      "files": [
+        "fachanwalt-versicherungsrecht/fachanwalt-versicherungsrecht-schnellstart.md",
+        "fachanwalt-versicherungsrecht/fachanwalt-versicherungsrecht-werkstatt.md",
+        "fachanwalt-versicherungsrecht/skills/private-krankenversicherung-paragraf-203-vvg/SKILL.md"
+      ]
+    },
+    {
+      "plugin": "fachanwalt-verwaltungsrecht",
+      "files": [
+        "fachanwalt-verwaltungsrecht/fachanwalt-verwaltungsrecht-hauptproblem.md",
+        "fachanwalt-verwaltungsrecht/fachanwalt-verwaltungsrecht-schnellstart.md",
+        "fachanwalt-verwaltungsrecht/fachanwalt-verwaltungsrecht-werkstatt.md",
+        "fachanwalt-verwaltungsrecht/skills/foerdermittel-zweckbindung-belegabgleich-rueckforderung/SKILL.md"
+      ]
+    },
+    {
+      "plugin": "gesellschaftsrecht",
+      "files": [
+        "gesellschaftsrecht/gesellschaftsrecht-schnellstart.md",
+        "gesellschaftsrecht/gesellschaftsrecht-werkstatt.md",
+        "gesellschaftsrecht/skills/einziehung-und-ausschluss-gesellschafter/SKILL.md",
+        "gesellschaftsrecht/skills/satzungsgestaltung-gmbh-kernklauseln/SKILL.md",
+        "gesellschaftsrecht/skills/vollzugs-checkliste/SKILL.md"
+      ]
+    },
+    {
+      "plugin": "insolvenzplan-starug-planwerkstatt",
+      "files": [
+        "insolvenzplan-starug-planwerkstatt/insolvenzplan-starug-planwerkstatt-schnellstart.md",
+        "insolvenzplan-starug-planwerkstatt/insolvenzplan-starug-planwerkstatt-werkstatt.md",
+        "insolvenzplan-starug-planwerkstatt/skills/verfahrenswahl-restrukturierungsplan/SKILL.md"
+      ]
+    },
+    {
+      "plugin": "insolvenzrecht",
+      "files": [
+        "insolvenzrecht/insolvenzrecht-hauptproblem.md",
+        "insolvenzrecht/insolvenzrecht-schnellstart.md",
+        "insolvenzrecht/insolvenzrecht-werkstatt.md",
+        "insolvenzrecht/skills/zahlungsunfaehigkeit-pruefung-17-inso/SKILL.md"
+      ]
+    },
+    {
+      "plugin": "insolvenzverwaltung",
+      "files": [
+        "insolvenzverwaltung/insolvenzverwaltung-schnellstart.md",
+        "insolvenzverwaltung/insolvenzverwaltung-werkstatt.md"
+      ]
+    },
+    {
+      "plugin": "liquiditaetsplanung",
+      "files": [
+        "liquiditaetsplanung/liquiditaetsplanung-schnellstart.md",
+        "liquiditaetsplanung/liquiditaetsplanung-werkstatt.md",
+        "liquiditaetsplanung/references/insolvenzpruefung.md",
+        "liquiditaetsplanung/references/rechtsprechung/INDEX.md"
+      ]
+    },
+    {
+      "plugin": "notariat-alltag",
+      "files": [
+        "notariat-alltag/notariat-alltag-schnellstart.md",
+        "notariat-alltag/notariat-alltag-werkstatt.md",
+        "notariat-alltag/references/rechtsprechung-geprueft.md",
+        "notariat-alltag/skills/auslandsurkunde-apostille-vollmacht/SKILL.md",
+        "notariat-alltag/skills/vollzug-fristen-wiedervorlage/SKILL.md",
+        "notariat-alltag/skills/vorsorgevollmacht/SKILL.md"
+      ]
+    },
+    {
+      "plugin": "richter-verwaltungsgericht",
+      "files": [
+        "gerichtsplugins/richter-verwaltungsgericht/README.md",
+        "gerichtsplugins/richter-verwaltungsgericht/richter-verwaltungsgericht-schnellstart.md",
+        "gerichtsplugins/richter-verwaltungsgericht/richter-verwaltungsgericht-werkstatt.md",
+        "gerichtsplugins/richter-verwaltungsgericht/skills/06-eilrechtsschutz-paragraf-123/SKILL.md"
+      ]
+    },
+    {
+      "plugin": "verbraucherschutzrecht-pruefer",
+      "files": [
+        "verbraucherschutzrecht-pruefer/skills/verbraucherrecht-waren-widerruf/SKILL.md",
+        "verbraucherschutzrecht-pruefer/verbraucherschutzrecht-pruefer-schnellstart.md",
+        "verbraucherschutzrecht-pruefer/verbraucherschutzrecht-pruefer-werkstatt.md"
+      ]
+    },
+    {
+      "plugin": "versicherungsrecht",
+      "files": [
+        "versicherungsrecht/skills/kfz-kasko-grobe-fahrlaessigkeit-entwendung/SKILL.md",
+        "versicherungsrecht/skills/private-krankenversicherung-beitragsanpassung-treuhaender/SKILL.md",
+        "versicherungsrecht/versicherungsrecht-schnellstart.md",
+        "versicherungsrecht/versicherungsrecht-werkstatt.md"
+      ]
+    },
+    {
+      "plugin": "vertragsrecht",
+      "files": [
+        "vertragsrecht/skills/vr-leistungsstoerungen-widerruf-fernabsatz/SKILL.md",
+        "vertragsrecht/vertragsrecht-schnellstart.md",
+        "vertragsrecht/vertragsrecht-werkstatt.md"
+      ]
+    }
+  ],
+  "new_plugins_since_first_audit": [
+    "diesel-schadensersatz"
+  ],
+  "limit": "Datei-/Profiländerung ist kein Nachweis vollständiger juristischer Prüfung; überprüfte Aussagen stehen in Fachberichten."
+}

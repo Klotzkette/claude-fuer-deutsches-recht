@@ -32,3 +32,7 @@ Zu IX ZR 133/14 gehört der [Berichtigungsbeschluss vom 24.03.2015](BGH_IX_ZR_13
 6. Die früheren juris.bundesgerichtshof.de-Adressen leiten teilweise nur auf die neue Suche weiter. Vorzugsweise die oben geprüften direkten PDF-Adressen verwenden. Einen Suchtreffer oder eine Weiterleitungsseite nicht als gelesenen Volltext behandeln.
 
 Die maschinenlesbare [Quellenprüfung](quellenpruefung.json) hält Abrufdatum, Fundstellen und SHA-256 der unveränderten amtlichen PDFs fest. Das überlassene Manuskript wird nicht als Datei mitveröffentlicht.
+
+## Ergänzung vom 30.09.2026
+
+[BGH, Urteil vom 12.03.2026 – IX ZR 18/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZR__18-25.pdf?__blob=publicationFile&v=1), Rn. 24–32: Dauer und Gewicht unbezahlter Verbindlichkeiten, tatsächlich verfügbare Drittmittel auch ohne einklagbaren Anspruch sowie Wissensnähe beim Bestreiten im Anfechtungsprozess. Keine endgültige Feststellung der Zahlungsunfähigkeit; insoweit Zurückverweisung. Betrag, Zahlweg, Termin und Gegenbelege abfragen, keine bloße Hoffnung als Liquidität buchen. Amtliches PDF am 30.09.2026 direkt abgerufen; SHA-256 `36d5ba66edcf9e47caa22dd5b0ba152877dc60983a3f5a0403decf6381f23da1`. Dieser gezielte Nachtrag aktualisiert nicht rückwirkend die Abrufdaten der elf früher geprüften Entscheidungen.

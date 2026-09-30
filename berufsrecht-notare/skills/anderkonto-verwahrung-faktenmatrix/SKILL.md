@@ -33,7 +33,7 @@ description: "Für Anderkonto Verwahrung Faktenmatrix: ordnet Akte, Belege und L
 Konkret zu prüfen:
 
 - § 23 BNotO (Notaranderkonto)
-- § 54a BeurkG
+- §§ 57 bis 60 BeurkG (Verwahrung, Durchführung und Widerruf)
 - DONot § 11
 
 ## Normenanker
@@ -45,7 +45,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 13 BeurkG` — Vorlesen, Genehmigen, Unterschreiben.
 - `§ 40 BeurkG` — Beglaubigung einer Unterschrift.
 - `§ 53 BeurkG` — Vollzugspflichten.
-- `§ 54a BeurkG` — Verwahrung und Auszahlung.
+- `§ 57 BeurkG` — Antrag, Sicherungsinteresse und Verwahrungsanweisung.
 - `§ 130a ZPO` — elektronische Dokumente als Schnittstelle.
 - `§ 29 Abs. 1 GBO` — grundbuchtaugliche Form.
 - `§ 12 HGB` — Registereinreichung.

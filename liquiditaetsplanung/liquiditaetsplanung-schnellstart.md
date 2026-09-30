@@ -18,7 +18,7 @@ Bei 12.000 EUR Anfangsbestand, 18.000 EUR Zahlung am Dienstag und 15.000 EUR Ein
 
 Fehlt die Bankbestätigung für eine Linie oder die wirksame Stundung eines Lieferantenpostens, frage nach genau diesem Nachweis. Bis dahin die Maßnahme nur als Annahme im gesonderten Szenario berücksichtigen. Nach der Antwort prüfe Bedingungen und Termine, aktualisiere die betroffenen Wochen und den Finanzierungsbedarf und schreibe den bestellten Vermerk oder die Finanzierungsanfrage fertig. Eine dadurch neu erkennbare entscheidende Lücke darf eine kurze Folgefrage auslösen; bereits geklärte Angaben nicht erneut erheben.
 
-Nach neuer Bankauskunft im vorhandenen Plan Zufluss, Folgebestände und Finanzierungsvermerk ändern. Offene Sicherheitenbedingung kennzeichnen. Ohne Dateibearbeitung aktualisierte Tabellenwerte und vollständigen Vermerktext liefern; bekannte Zahlen nicht erneut abfragen.
+Offene Sicherheitenbedingungen kennzeichnen; ohne Dateizugriff aktualisierte Tabelle und vollständigen Vermerk liefern.
 
 ## 1.3. Planung und Rechtsbewertung
 
@@ -31,12 +31,14 @@ Unter zehn Prozent keine Entwarnung bei absehbarer Vergrößerung auf mindestens
 
 § 19: zwölf Kalendermonate, belastbares Konzept/Finanzplan; ohne positive Fortbestehensprognose eigenständigen Überschuldungsstatus prüfen. Negatives HGB-Eigenkapital allein genügt nicht. Rangrücktritt nach Wortlaut, Rangtiefe und vorinsolvenzlicher Sperre prüfen; kein Erlass oder Geldzufluss (BGH, 05.03.2015 – IX ZR 133/14, Rn. 15–24, 32). Prognostizierte Drittbeiträge brauchen nicht zwingend einklagbaren Anspruch, aber konkrete überwiegende Wahrscheinlichkeit; weiche Patronate in der Krise nur unter engen Voraussetzungen (BGH, 13.07.2021 – II ZR 84/20, Rn. 68–85). Kein Aktivwert aus weicher Erklärung. Tragende Volltexte aktuell amtlich verifizieren.
 
+BGH, 12.03.2026 – [IX ZR 18/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZR__18-25.pdf?__blob=publicationFile&v=1), Rn. 27–32: Tatsächlich verfügbare Drittmittel zählen auch ohne einklagbare Zusage. Betrag, Zahlweg und Termin belegen; bloße Hoffnung nicht ansetzen. Im Prozess Wissensnähe prüfen, keine unmögliche Detailerwiderung vom Außenstehenden verlangen.
+
 ## 1.4. Arbeitsprodukt
 
-Für die Überleitung zur Insolvenzprüfung gilt BGH, Urteil vom 19.12.2017, II ZR 88/16, [Rn. 50–62, 68–70](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2016/II_ZR__88-16.pdf?__blob=publicationFile&v=1): Zählst du Zuflüsse in den nächsten drei Wochen, berücksichtige spiegelbildlich neu fällige und eingeforderte Schulden. Eine kurzfristig kündbare Konzernforderung zählt nicht schon wegen der Kündbarkeit als Liquidität; belege rechtzeitige Zahlungsbereitschaft und Zahlungsfähigkeit. Die Entscheidung betrifft den Status nach Paragraf 17 Absatz 2 InsO, nicht die verbindliche Länge jedes Finanzplans oder eine automatische Organhaftung. Ergänze die Planrechnung deshalb um die rechtlich erforderlichen Abgrenzungen, statt den Wochenendbestand als Insolvenztest auszugeben.
+Für die Überleitung zur Insolvenzprüfung gilt BGH, Urteil vom 19.12.2017, II ZR 88/16, [Rn. 50–62, 68–70](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2016/II_ZR__88-16.pdf?__blob=publicationFile&v=1): Zählst du Zuflüsse in den nächsten drei Wochen, berücksichtige spiegelbildlich neu fällige und eingeforderte Schulden. Eine kurzfristig kündbare Konzernforderung zählt nicht schon wegen der Kündbarkeit als Liquidität; belege rechtzeitige Zahlungsbereitschaft und Zahlungsfähigkeit. Die Entscheidung legt weder jeden Planungshorizont noch eine automatische Organhaftung fest.
 
 Liefere die verlangte Planung mit prüfbaren Rechenschritten, Annahmen, Stressvergleich und ausformuliertem Finanzierungsvermerk. Bei einem Hindernis den belastbaren Teil liefern und die noch benötigte Antwort benennen; nach ihrem Eingang bis zum bestellten Ergebnis fortsetzen. Ein Beratungsauftrag verlangt keinen ungefragten Insolvenzantragsentwurf.
 
 Der gewünschte Dateiname geht vor; `ergebnis.md` ist nur der Standard ohne Dateiwunsch. Quellenstatus und technische Einschränkungen stehen in einer gesonderten Arbeitsnotiz, nicht im Bankschreiben. Zahlungen, Versand und Einreichungen nur mit ausdrücklicher Freigabe. Textteil beim Export: Times New Roman, 11 pt, dezimale Gliederung; die Tabelle bleibt zahlenorientiert.
 
-Ohne Tabellenexport eine nachrechenbare Markdown-Tabelle liefern, keine Arbeitsmappe behaupten. In vorhandenen Arbeitsmappen Formeln und Ursprungsdaten erhalten. Optional vertieft `forecast-wochenplanung` die Auftragsklärung; ohne den Skill genügt die hier beschriebene Rechnung.
+Ohne Tabellenexport eine nachrechenbare Markdown-Tabelle liefern, keine Arbeitsmappe behaupten. In vorhandenen Arbeitsmappen Formeln und Ursprungsdaten erhalten. `forecast-wochenplanung` ist optional.

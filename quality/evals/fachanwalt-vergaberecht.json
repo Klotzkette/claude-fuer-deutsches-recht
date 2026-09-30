@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "fachanwalt-vergaberecht",
-  "reviewed_on": "2026-09-23",
+  "reviewed_on": "2026-09-30",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/gwb/__127.html",
@@ -97,19 +97,31 @@
       "url": "https://www.gesetze-im-internet.de/vgv_2016/__56.html",
       "supports": "Erneuter Normabruf zur Nachforderung, zum Ausschluss wertungsrelevanter leistungsbezogener Unterlagen, zur engen Preis-Ausnahme und zur kalenderbestimmten Frist.",
       "checked_on": "2026-09-23"
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A62025CO0316_INF",
+      "checked_on": "2026-09-30",
+      "supports": "EuGH, Beschluss vom 03.02.2026 – C-316/25, Regione Umbria, Tenor. Leistungseinkauf gegen Entgelt ist nicht allein wegen öffentlicher Rechtsform vergabefreie Kooperation. Amtliche Entscheidungsinformation mit Tenor gelesen. Grenze: Italienischer Registervertrag; kein behaupteter Volltextabruf. Inhouse-Kontrolle und heutiger § 108 GWB getrennt prüfen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwb/__108.html",
+      "checked_on": "2026-09-30",
+      "supports": "Aktuelle Absätze 1–9 gelesen: mehr als 80 Prozent, weniger als 20 Prozent, Kooperation/Privatbegünstigung, Betrauung jetzt Absatz 7 und Berechnung Absatz 8. Keine Datierung des historischen Inkrafttretens behauptet."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Mini vollständig gelesen; abstrakte Bearbeitungsroute durch anwendungsbezogene Wertungsprüfung ersetzt, BGH-Anker in den Bewertungsablauf eingebunden und Rechtsschutzmechanismen präzisiert. Workflow-Ergänzung einzeln geprüft: Seite mit Zusage war nicht Bestandteil des fristgerechten Angebots -> Tatsachengrundlage, Nachforderungsprüfung und Rüge ändern, nicht einfach höhere Note beanspruchen.",
+    "reason": "Mini vollständig gelesen; abstrakte Bearbeitungsroute durch anwendungsbezogene Wertungsprüfung ersetzt, BGH-Anker in den Bewertungsablauf eingebunden und Rechtsschutzmechanismen präzisiert. Workflow-Ergänzung einzeln geprüft: Seite mit Zusage war nicht Bestandteil des fristgerechten Angebots -> Tatsachengrundlage, Nachforderungsprüfung und Rüge ändern, nicht einfach höhere Note beanspruchen. Gezielter Quellen- und Fachnachtrag 30.09.2026; bestehende Abläufe erhalten, keine erneute pauschale Vollprüfung behauptet.",
     "changes": [
       "BGH X ZB 3/17 jetzt anhand des vollständigen amtlichen PDFs überprüft; Randnummern 39–48 und Hinweise 50–53 mit Anwendung und offener Komplexitätsgrenze in drei Prompts und Fokus-Skill.",
       "Interne Materialnachforderung von Paragraf 56 Absatz 3 VgV getrennt; Hauptproblem um nachgerechnetes 84,00/86,55/bedingt 92,00-Punkte-Beispiel ergänzt.",
       "Aktuelle Paragrafen 134, 160, 169 und 173 GWB abgeglichen; keine Zusage fortdauernden Zuschlagsschutzes nach Obsiegen des Auftraggebers.",
       "Werkstatt differenziert Paragraf 132 GWB statt pauschaler Nachtragsfreigrenze; ungeprüfte historische Entscheidungsliste entfernt.",
-      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
+      "Die für dieses Gebiet dokumentierten Quellenpassagen vom 30.09.2026 fallbezogen eingearbeitet."
     ],
-    "sha256": "b1ea5ddd4c7f043dac767f67bd93444c17569db13b6e19caec028ac2be85d6a4"
+    "sha256": "8580e8b2af0123cba656bbc6847138aab6ad8ecba450a5fe3fcda19af81077dd",
+    "reviewed_on": "2026-09-30"
   },
   "focus_review": {
     "reviewed_on": "2026-09-23",
@@ -182,18 +194,20 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Gesamte Werkstatt mit Eignung, Aufklärung, Wertung, Rechtsschutz, Sondervergaben und Vertragsfolgen gelesen; Nachforderung, dokumentierter Vergleich, aktuelle Rechtsbehelfsfolgen und Vertragsänderungsgrenzen konkretisiert. Workflow-Ergänzung einzeln geprüft: Abgabenachweis gegenüber Arbeitskopie, Eignungsnachweis gegenüber wertungsrelevantem Konzept, Originalrechnung und bedingte Neubewertung, konkrete Abhilfe, Geheimschutz und Ausgangsoption bei Vertragsänderung.",
+    "reason": "Gesamte Werkstatt mit Eignung, Aufklärung, Wertung, Rechtsschutz, Sondervergaben und Vertragsfolgen gelesen; Nachforderung, dokumentierter Vergleich, aktuelle Rechtsbehelfsfolgen und Vertragsänderungsgrenzen konkretisiert. Workflow-Ergänzung einzeln geprüft: Abgabenachweis gegenüber Arbeitskopie, Eignungsnachweis gegenüber wertungsrelevantem Konzept, Originalrechnung und bedingte Neubewertung, konkrete Abhilfe, Geheimschutz und Ausgangsoption bei Vertragsänderung. Gezielter Quellen- und Fachnachtrag 30.09.2026; bestehende Abläufe erhalten, keine erneute pauschale Vollprüfung behauptet.",
     "changes": [
       "BGH X ZB 3/17 jetzt anhand des vollständigen amtlichen PDFs überprüft; Randnummern 39–48 und Hinweise 50–53 mit Anwendung und offener Komplexitätsgrenze in drei Prompts und Fokus-Skill.",
       "Interne Materialnachforderung von Paragraf 56 Absatz 3 VgV getrennt; Hauptproblem um nachgerechnetes 84,00/86,55/bedingt 92,00-Punkte-Beispiel ergänzt.",
       "Aktuelle Paragrafen 134, 160, 169 und 173 GWB abgeglichen; keine Zusage fortdauernden Zuschlagsschutzes nach Obsiegen des Auftraggebers.",
       "Werkstatt differenziert Paragraf 132 GWB statt pauschaler Nachtragsfreigrenze; ungeprüfte historische Entscheidungsliste entfernt.",
-      "Abgabenachweis gegenüber Arbeitskopie, Eignungsnachweis gegenüber wertungsrelevantem Konzept, Originalrechnung und bedingte Neubewertung, konkrete Abhilfe, Geheimschutz und Ausgangsoption bei Vertragsänderung."
+      "Abgabenachweis gegenüber Arbeitskopie, Eignungsnachweis gegenüber wertungsrelevantem Konzept, Originalrechnung und bedingte Neubewertung, konkrete Abhilfe, Geheimschutz und Ausgangsoption bei Vertragsänderung.",
+      "Die für dieses Gebiet dokumentierten Quellenpassagen vom 30.09.2026 fallbezogen eingearbeitet."
     ],
-    "sha256": "1cb6b9adebf7389ef42cbf378cae21d9659ea721bcf27d073c5936bb127c6174"
+    "sha256": "9808f55c57c08c85106539a5b592fdb138e2203cac3d2873b2fe4e308001a2db",
+    "reviewed_on": "2026-09-30"
   },
   "prompt_editorial_review": {
-    "date": "2026-09-23",
+    "date": "2026-09-30",
     "files": [
       "fachanwalt-vergaberecht/README.md",
       "fachanwalt-vergaberecht/fachanwalt-vergaberecht-schnellstart.md",
@@ -213,6 +227,12 @@
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/X_ZS/2017/X_ZB___3-17.pdf?__blob=publicationFile&v=1",
         "application": "Bei streitigen Konzeptnoten zwischen zulässigem Notenmodell und konkret dokumentierter Bewertung unterscheiden; Angebotszusagen und Vergleichsbegründung abgleichen.",
         "limit": "Keine eigene Wunschbenotung oder automatische Neuwertung allein wegen fehlender Punktebeschreibung; besondere Komplexität in Randnummer 48 offengelassen, Hinweise zur konkreten Wertung nicht als bereits festgestellter Wertungsfehler darstellen."
+      },
+      {
+        "citation": "EuGH, Beschluss vom 03.02.2026 – C-316/25, Regione Umbria, Tenor",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A62025CO0316_INF",
+        "application": "Leistungseinkauf gegen Entgelt ist nicht allein wegen öffentlicher Rechtsform vergabefreie Kooperation. Amtliche Entscheidungsinformation mit Tenor gelesen.",
+        "limit": "Italienischer Registervertrag; kein behaupteter Volltextabruf. Inhouse-Kontrolle und heutiger § 108 GWB getrennt prüfen."
       }
     ],
     "remaining_limits": [
@@ -220,7 +240,8 @@
       "Keine umfassende Verifikation von Landes-Unterschwellenrecht, sämtlichen Sektoren-/Konzessionsregeln, Sicherheitsstandards oder EU-Schwellenwertverordnungen; im Prompt bleibt deren fallbezogene Prüfung erforderlich.",
       "Aktuell abrufbare geänderte GWB-Regeln wurden ausdrücklich zeitabhängig formuliert; für historische Vergabeverfahren Übergangsrecht separat prüfen.",
       "Desk-/Quellenreview mit Nachrechnung, kein Live-Mandanten- oder Modelltest.",
-      "Workflow-Review 23.09.2026: Paragraf 56 VgV erneut eingesehen; dokumentierte Volltextprüfung von X ZB 3/17 und geänderten GWB-Normen aus der vorhandenen Redaktion erhalten. Keine neue Landes- oder Schwellenwertvollprüfung."
+      "Workflow-Review 23.09.2026: Paragraf 56 VgV erneut eingesehen; dokumentierte Volltextprüfung von X ZB 3/17 und geänderten GWB-Normen aus der vorhandenen Redaktion erhalten. Keine neue Landes- oder Schwellenwertvollprüfung.",
+      "Zweiter Schnelldurchgang 30.09.2026: ausschließlich die neu dokumentierten Fachpassagen und Entscheidungen; kein Vollaudit aller Skills, kein Live-Modelltest."
     ]
   },
   "prompt_workflow_review": {

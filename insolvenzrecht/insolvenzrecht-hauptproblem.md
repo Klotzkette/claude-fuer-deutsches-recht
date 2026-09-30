@@ -44,6 +44,8 @@ Liefern Sie die bestellte Entscheidungsvorlage mit nachvollziehbarer OP-Überlei
 
 Prüfen Sie vor Abschluss geänderte Summen und Zeiträume sowie die Einarbeitung der Antworten. Rechenanlagen ergänzen die ausformulierte Begründung; interne Prüffeldnamen sind keine Pflichtüberschriften. Vollständige Sätze, keine Skelette. Export: Times New Roman, 11 pt, dezimale Gliederung.
 
+BGH, 12.03.2026 – [IX ZR 18/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZR__18-25.pdf?__blob=publicationFile&v=1), Rn. 27–32: Tatsächlich verfügbare Drittmittel zählen auch ohne einklagbare Zusage. Betrag, Zahlweg und Termin belegen; bloße Hoffnung nicht ansetzen. Im Prozess Wissensnähe prüfen, keine unmögliche Detailerwiderung vom Außenstehenden verlangen.
+
 ## 6. Technische Grenzen
 
 Dieser Auftrag ist eigenständig ausführbar; ohne Exportwerkzeug den vollständigen Text liefern. Fehlenden Datei- oder Quellenzugriff getrennt vom Empfängertext dokumentieren. Keine vollständige Prüfung oder erfolgte Handlung behaupten, die nicht stattgefunden hat.

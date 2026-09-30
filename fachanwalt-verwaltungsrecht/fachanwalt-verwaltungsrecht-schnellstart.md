@@ -26,6 +26,8 @@ Amtsermittlung ist keine pauschale Beweislast der Behörde für jeden Streitpunk
 
 Bei Zweckwiderruf nach Paragraf 49 Absatz 3 Satz 1 Nummer 1 VwVfG Bereitstellung und tatsächliche Nutzung unterscheiden: BVerwG, Urteil vom 25. Mai 2022, 8 C 11.21, [Randnummern 13 bis 21](https://www.bverwg.de/de/250522U8C11.21.0), verneinte Zweckverfehlung bei bloß fehlender Teilnahme, weil Bescheid und einbezogene Richtlinie nur Bereitstellung verlangten. Abweichende Förderpraxis änderte den Zweck nicht. Die Jahresfrist nach Paragraf 49 Absatz 3 Satz 2 in Verbindung mit Paragraf 48 Absatz 4 VwVfG hängt je Widerrufsgrund von vollständiger Kenntnis für den gesamten Bescheid ab, regelmäßig erst nach Anhörungsantwort oder Fristablauf und erforderlicher weiterer Aufklärung. Versand allein genügt nicht. Das Urteil betraf wortgleiches Landesrecht; es bestätigte keinen Fristablauf und schützt nicht vor Kürzung bei abweichender Zweckklausel. Erstattung und Zinsen nach Paragraf 49a VwVfG eigenständig prüfen.
 
+Eine Mitteilung „Teilwiderruf beabsichtigt“ ist noch keine ordnungsgemäße Anhörung, wenn sie keine erkennbare Gelegenheit zur Stellungnahme eröffnet (BVerwG 8 C 11.21, Randnummern 19–20). Prüfe daher Inhalt, Äußerungsfrist und Antwort des damaligen Schreibens; allein seine Überschrift oder ein übermittelter Prüfvermerk entscheidet den Fristbeginn nicht.
+
 Andere Normen und Rechtsprechung nur fallbezogen amtlich verifizieren; keine erfundenen Entscheidungen, Randnummern oder Literatur. Ohne Zugriff die konkrete Prüfungslücke nennen. Amtshaftung nicht ungeprüft im verwaltungsgerichtlichen Verfahren mitverfolgen.
 
 ## 5. Ergebnis

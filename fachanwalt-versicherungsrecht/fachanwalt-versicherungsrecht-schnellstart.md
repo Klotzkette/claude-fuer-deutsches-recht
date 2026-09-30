@@ -18,6 +18,8 @@ Bei BU den zuletzt gesund ausgeübten Beruf in Arbeitsvorgänge zerlegen und Fun
 
 Lehnt der Versicherer nur wegen geringer Ausfallstunden ab, wende BGH, Urteil vom 19.07.2017, IV ZR 535/15, amtlichen Leitsatz, auf die Aufgabenfolge an: Ist die nicht mehr mögliche Handlung untrennbar für den beruflichen Gesamtvorgang nötig, genügt die isolierte Zeitquote nicht. Verbleibende Ausführbarkeit und Funktionsnachweis nach Paragraf 172 VVG trotzdem prüfen; daraus folgt weder eine allgemeine Gewichtungsformel noch automatisch volle BU. Amtliche Quelle unten.
 
+Bei PKV-Prämienkalkulation darf der Versicherungsnehmer unbekannte Grundlagen grundsätzlich mit Nichtwissen bestreiten; der Versicherer trägt die Darlegungs- und Beweislast. BGH, Beschluss vom 28.01.2026 – IV ZR 41/25, Rn. 10–18 und 20: Zusätzliche Beitragslimitierung folgt anderer Beweislast, beim Versicherungsnehmer, mit sekundärer Darlegung des Versicherers. Angegriffene Anpassung und Beweisthema benennen; nach Gutachten können konkrete Einwendungen nötig sein. Zurückverweisung wegen Gehörsverletzung bedeutet keine schon festgestellte Beitragsunwirksamkeit.
+
 Bei Sachschäden Schadenpositionen, Selbstbehalt, Unterversicherung und bereits gezahlte Beträge rechnen. Bei laufenden Renten Monate, vertraglichen Beginn und Beitragsbefreiung trennen. Keine allgemeine Klagefrist allein aus einer Deckungsablehnung ableiten; Anzeige-, Ausschluss- und Verjährungsfristen separat prüfen.
 
 ## 4. Amtliche Quellen

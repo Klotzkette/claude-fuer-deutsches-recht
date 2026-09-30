@@ -52,12 +52,7 @@ Regel anzunehmen, wenn der Schuldner seine Zahlungen eingestellt hat.
 
 ### Rechtsprechung (Pflichtpinpoints; Az. und Datum vor Ausgabe über dejure.org / openjur.de verifizieren)
 
-**10-%-/3-Wochen-Schema:** Grundlegende BGH-Linie: Zahlungsunfähigkeit liegt vor, wenn der
-Schuldner zum Stichtag seine fälligen Verbindlichkeiten nicht zu mindestens 90 % erfüllen kann
-und die Lücke nicht innerhalb von 3 Wochen zu schließen ist. Eine Unterdeckung von weniger als
-10 % begründet lediglich eine Zahlungsstockung, wenn die Lücke in absehbarer Zeit beseitigt
-werden kann. Ab 10 % ist auch bei kurzfristiger Behebbarkeit Zahlungsunfähigkeit anzunehmen,
-sofern die Unterdeckung mehr als 3 Wochen andauert. Konkretes Az. der grundlegenden Entscheidung vor Ausgabe in offener Quelle prüfen.
+**10-%-/3-Wochen-Schema:** BGH, Urteil vom 24.05.2005 – [IX ZR 123/04](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2004/IX_ZR_123-04.pdf?__blob=publicationFile&v=1), Leitsätze a–c: Bei einer innerhalb von drei Wochen nicht beseitigbaren Lücke unter zehn Prozent regelmäßig Zahlungsfähigkeit, sofern keine absehbare Vergrößerung über die Schwelle vorliegt. Ab zehn Prozent regelmäßig Zahlungsunfähigkeit; Ausnahme nur bei mit an Sicherheit grenzender Wahrscheinlichkeit baldiger vollständiger oder nahezu vollständiger Schließung und zumutbarem Zuwarten. Keine starre Entwarnung unter zehn Prozent und keine voraussetzungslose Insolvenzfeststellung darüber. Die drei Wochen sind keine freie Wartefrist nach Eintritt der Insolvenzreife.
 
 **Indizienkatalog § 17 Abs. 2 S. 2 InsO:** Als Indizien gelten insbesondere verspätete Lohnzahlungen, offene Sozialversicherungsbeiträge, erfolglose Stundungsbitten gegenüber Gläubigern, Wechselproteste, Pfändungsmaßnahmen von Gläubigern, Insolvenzanträge anderer Gläubiger sowie der eigene Insolvenzantrag des Schuldners. Die Zahlungseinstellung setzt kein allgemeines Unvermögen voraus; es genügt, dass der Schuldner den wesentlichen Teil seiner Verbindlichkeiten nicht mehr zahlt.
 
@@ -82,13 +77,7 @@ sofern die Unterdeckung mehr als 3 Wochen andauert. Konkretes Az. der grundlegen
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ### IDW-Standard
 
-**IDW S 11 (Stand 12.08.2021), Tz. 31 ff.** regelt die Beurteilung des Eröffnungsgrundes der
-Zahlungsunfähigkeit durch den Sachverständigen oder Wirtschaftsprüfer: Aufzustellen ist ein
-Liquiditätsstatus auf den Prüfungsstichtag, der liquide Mittel (Aktiva I, ggf. ergänzt um Aktiva II)
-den fälligen Verbindlichkeiten (Passiva I) gegenüberstellt. Übersteigen Passiva I die Aktiva I und II
-um mehr als 10 %, ist bei fehlender kurzfristiger Beseitigungsperspektive Zahlungsunfähigkeit
-festzustellen (Tz. 31–37). IDW S 11 Tz. 16 f. zur Abgrenzung gegenüber Zahlungsstockung und
-Überschuldung.
+Einen IDW-Standard nur aus einer zugänglichen, überprüften Fassung mit Datum und tatsächlicher Textziffer anwenden. Keine ungeprüfte Textziffer oder alte Ausgabe als aktuellen Normtext ausgeben. Die hier verwendete Rechtsmethodik ergibt sich aus § 17 InsO und den konkret nachgewiesenen BGH-Entscheidungen; eine Verbandsverlautbarung ersetzt diese nicht.
 
 ## Ablauf
 
@@ -125,44 +114,27 @@ Wird eine Forderung wegen behaupteten Nichtbestehens oder fehlender Fälligkeit 
  debitorische Konten ohne Ausschöpfung des Rahmens)
 - *Aktiva II. Stufe* (innerhalb 3 Wochen zugehend): konkret erwartete Zahlungseingänge aus
  bestehenden Forderungen (nach vorsichtiger Einschätzung der Ausfallwahrscheinlichkeit),
- freie Kreditlinien, erwartete Darlehensauszahlungen mit schriftlicher Zusage
+ freie Kreditlinien und nachweisbar im Zeitraum verfügbare Drittmittel. Eine schriftliche
+ Zusage ist ein möglicher Beleg, keine allgemeine Zugangsvoraussetzung; tatsächliche
+ Zahlungen und faktische Beschaffbarkeit nach IX ZR 18/25, Rn. 27–28, berücksichtigen
 Aktivseitig zählt nicht der bloße rechtliche Anspruch, sondern der innerhalb von drei Wochen
 realistisch verfügbare Zufluss. Bestrittene eigene Forderungen dürfen nur angesetzt werden,
 wenn Zahlungseingang, Vollstreckbarkeit, Zahlungszusage oder gesicherte Verwertung im
 Prognosefenster belastbar belegt sind.
 
-**Schritt 4 – Aufstellung des Liquiditätsstatus**
-Gegenüberstellung in tabellarischer Form:
+**Schritt 4 – Stichtagsstatus und Dreiwochenbilanz**
+Den reinen Stichtagsstatus (Aktiva I gegen Passiva I) von der zeitraumbezogenen Bilanz unterscheiden. Bei letzterer auch sämtliche im gleichen Dreiwochenzeitraum neu fällig werdenden und eingeforderten Verbindlichkeiten (Passiva II) erfassen; BGH, Urteil vom 19.12.2017 – [II ZR 88/16](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2016/II_ZR__88-16.pdf?__blob=publicationFile&v=1), Rn. 50–62. Altschuldenzahlungen nicht nochmals als Passiva II zählen. Jede Position mit Beleg, Betrag, Fälligkeit und tatsächlichem beziehungsweise erwarteten Zahlungstag darstellen.
 
-```
-Aktiva I (sofort verfügbar) EUR ______
-+ Aktiva II (innerhalb 3 Wochen) EUR ______
-= Summe liquide Mittel EUR ______
+**Schritt 5 – Lückenberechnung**
+Für die Bilanzmethode: Lücke = max(0, Passiva I + Passiva II − Aktiva I − Aktiva II). Lückenquote = Lücke / (Passiva I + Passiva II). Bei Nenner null keine Quote berechnen. Den Verlauf taggenau prüfen; ein günstiger Endtag schließt vorherige Zahlungsunfähigkeit nicht aus.
 
-./. Passiva I (fällige Verbindlichkeiten) EUR ______
+**Schritt 6 – Rechtliche Einordnung**
+Die oben belegten Ausnahmen der Zehnprozentregel in beide Richtungen auf die konkreten Tatsachen anwenden. Finanzierungsmöglichkeit, belegte Wahrscheinlichkeit, Zeitbedarf und Zumutbarkeit des Wartens begründen. Fehlende Daten nicht durch automatische Ampelfarben ersetzen. Tatsächlichen Eintrittstag und Antragspflicht gesondert prüfen.
 
-= Unterdeckung / Überdeckung EUR ______
-```
+**Schritt 7 – Eigenständige Zahlungseinstellung**
+Höhe, Dauer, Art und Betriebsbedeutung unbezahlter Verpflichtungen sowie Zahlungsverlauf und Gegenindizien insgesamt würdigen. Weder eine Mindestzahl von Indizien verlangen noch beliebige zwei Indizien genügen lassen. BGH, Urteil vom 28.04.2022 – [IX ZR 48/21](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2021/IX_ZR__48-21.pdf?__blob=publicationFile&v=1), Rn. 27–33, lässt ein starkes Indiz genügen und hält gleichbleibend vollständige, ein bis unter zwei Monate verspätete SV-Zahlungen für sich allein nicht für ausreichend. Zahlungsunfähigkeit, gegnerische Kenntnis und Benachteiligungsvorsatz getrennt prüfen; Beweislast nach Prozessrolle und Tatbestand bestimmen.
 
-**Schritt 5 – Quotenberechnung**
-Berechnung der Liquiditätsquote:
-
- Quote = (Summe liquide Mittel / Passiva I) × 100
-
-Eine Quote ≥ 100 % schließt Zahlungsunfähigkeit aus. Eine Quote zwischen 90 % und 99 %
-(Unterdeckung < 10 %) begründet bei kurzfristiger Behebbarkeit nur Zahlungsstockung.
-
-- Unterdeckung < 10 % und Beseitigung innerhalb 3 Wochen absehbar → Zahlungsstockung,
- keine Zahlungsunfähigkeit
-- Unterdeckung < 10 %, aber Beseitigung nicht innerhalb 3 Wochen → Zahlungsunfähigkeit
-- Unterdeckung ≥ 10 % → Zahlungsunfähigkeit unabhängig von der Perspektive der Beseitigung
-
-**Schritt 7 – Würdigung der Indizien für Zahlungseinstellung (§ 17 Abs. 2 S. 2 InsO)**
-Liegen rechnerisch Zweifelsfälle vor oder fehlen vollständige Daten, sind die Indizien
-nach BGH-Linie heranzuziehen: verspätete Lohnzahlungen, offene SV-Beiträge, erfolglose
-Stundungsbitten, Wechselproteste, Pfändungen, Insolvenzanträge anderer Gläubiger, eigener
-Antrag. Häufen sich mehrere Indizien, ist Zahlungseinstellung und damit Zahlungsunfähigkeit
-zu bejahen. Die Vermutung des § 17 Abs. 2 S. 2 InsO ist widerlegbar; die Beweislast liegt beim Schuldner. Konkrete Aktenzeichen der einschlägigen BGH-Entscheidungen vor Ausgabe über offene Quellen verifizieren.
+BGH, Urteil vom 12.03.2026 – [IX ZR 18/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZR__18-25.pdf?__blob=publicationFile&v=1), Rn. 24–32: Tatsächlich verfügbare Drittmittel zählen auch ohne einklagbaren Anspruch gegen den Geldgeber. Frage nach Kontoauszug, Zahlweg, Betrag und Zeitpunkt; eine bloße Hoffnung genügt nicht. Über längere Zeit bis zur Eröffnung unbezahlte erhebliche Schulden im Gesamtbild würdigen, einschließlich tatsächlicher Zahlungen von Angehörigen oder verbundenen Unternehmen. Ein außenstehender Prozessgegner muss keine ihm unbekannten Schuldnerfinanzen rekonstruieren; vorgelegte Urkunden werden nicht zu seiner eigenen Wahrnehmung. Das Urteil verweist insoweit zurück und stellt Zahlungsunfähigkeit nicht abschließend fest.
 
 ## Ausgabeformat
 
@@ -220,10 +192,7 @@ Aktiva I 295.000 EUR
 
 Die Unterdeckung beträgt rund 8 Prozent und liegt damit unter der 10-Prozent-Schwelle im Sinne der ständigen BGH-Linie (konkrete Az. vor Ausgabe verifizieren).
 
-**Zwischenergebnis:** Die Unterdeckung liegt unter 10 %. Es ist zu prüfen, ob die Lücke von
-25.000 EUR innerhalb von 3 Wochen zu schließen ist. Fehlen konkrete Zuflüsse, liegt nach Ablauf
-der 3-Wochen-Frist Zahlungsunfähigkeit vor. Bestehen hinreichend konkrete Zuflusserwartungen
-(Aktiva II), ist lediglich Zahlungsstockung anzunehmen; die Prüfung ist in 3 Wochen zu wiederholen.
+**Zwischenergebnis:** Die anfängliche Lücke beträgt 7,8125 Prozent. Ohne Angaben zu neuen Fälligkeiten (Passiva II), Verlauf und Zahlungseinstellungsindizien ist der Befund unvollständig. Fehlende Schließung innerhalb von drei Wochen macht eine unter zehn Prozent bleibende Lücke nicht automatisch zur Zahlungsunfähigkeit; die absehbare Entwicklung ist entscheidend. Neue fällige Schulden von 30.000 EUR ohne Zuflüsse würden die Lücke auf 55.000 / 350.000 EUR, also rund 15,71 Prozent, erhöhen und die Regelbewertung ändern. Dies ist eine ausdrücklich zusätzliche Variante, keine erfundene Tatsache des Ausgangsfalls. Keine pauschale Anweisung, erst in drei Wochen erneut zu prüfen.
 
 ---
 
@@ -260,12 +229,8 @@ gesetzlich sofort fällig sind (§ 23 SGB IV). Rückständige SV-Beiträge sind 
 Indiz für die Zahlungseinstellung iSd § 17 Abs. 2 S. 2 InsO (st. BGH-Linie; Az. vor Ausgabe verifizieren). Fehler hier führen sowohl zur Unterschätzung der Passiva I als auch zur Übersehung eines
 Zahlungseinstellungsindizes.
 
-**3. Unzulässige Berücksichtigung künftiger Forderungen (Aktiva III. Stufe)**
-Erlöse aus erst künftig abzuschließenden Verträgen, erhoffte Investorengelder ohne verbindliche
-Zusage oder hypothetische Verwertungserlöse gehören nicht in die Liquiditätsbilanz (Aktiva I oder II),
-sondern allenfalls in eine Liquiditätsplanung (Aktiva III. Stufe). Ihre Einbeziehung in die
-Liquiditätsbilanz ist methodisch unzulässig und führt zu einer unzutreffend negativen Feststellung
-Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
+**3. Drittmittel ohne tatsächliche Verfügbarkeit**
+Bloß erhoffte Investorenzahlungen nicht als liquide Mittel ansetzen. Umgekehrt tatsächlich verfügbare oder binnen drei Wochen faktisch beschaffbare Mittel nicht allein wegen fehlenden einklagbaren Anspruchs ausschließen; BGH IX ZR 18/25 vom 12.03.2026, Rn. 27–28. Betrag, Zuflusstag, Zugriff und Gegenbelege prüfen. Eine Familienzahlung oder Konzernhilfe darf weder ignoriert noch doppelt gezählt werden.
 
 **4. Stichtagsverschiebung im Haftungskontext**
 Im Anfechtungs- und Haftungsprozess ist nicht der Antragstag, sondern der tatsächliche Eintritt
@@ -274,18 +239,11 @@ oder Anfechtungszeiträume unzutreffend verkürzt (Schmerbach, in: K. Schmidt, I
 2023, § 17 Rn. 32).
 
 **5. Fehlende Indiziengesamtwürdigung**
-Einzelne Indizien (z.B. nur eine verspätete Lohnzahlung) begründen für sich allein noch keine
-Zahlungseinstellung. Erst das Zusammentreffen mehrerer Indizien aus dem Katalog des BGH
-IX ZR 81/06 Rn. 36 ff. rechtfertigt die Vermutung des § 17 Abs. 2 S. 2 InsO. Eine isolierte
-Betrachtung führt zu Fehlsubsumtionen.
+Ein einzelnes starkes Indiz kann genügen; mehrere schwache Hinweise müssen nicht genügen. Die konkrete Aussagekraft und entlastende Zahlungen nach den oben bezeichneten Entscheidungen IX ZR 48/21 und IX ZR 18/25 erläutern. Keine feste Indizienzahl oder pauschale Beweislastumkehr verwenden.
 
 ## Quellenpflicht
 
-Jedes auf diesem Skill basierende Gutachten muss mindestens folgende Quellen ausweisen:
-
-- Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
-- Schmerbach, in: K. Schmidt, InsO, 20. Aufl. 2023, § 17 Rn. 5 ff., 22 ff., 32
-- IDW S 11 (Stand 12.08.2021), Tz. 16 f., 31–37
+Tragende Aussagen mit Norm und den tatsächlich einschlägigen, oben verlinkten Entscheidungen belegen. Entscheidungsdatum, Aktenzeichen, Fundstelle und Reichweite angeben. Kommentar-, Handbuch-, Aufsatz- oder IDW-Fundstellen nur aus vorliegender oder zugänglich verifizierter Quelle übernehmen; keine obligatorischen Literaturzitate ohne Einsicht.
 
 ---
 
@@ -297,9 +255,9 @@ Bevor losgelegt wird, klaere:
 
 1. **Liquiditaetsstatus erstellen?** Faellige und nicht zahlbare Verbindlichkeiten vs. liquide Mittel (Direct-Method).
 2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-3. **Zahlungsstockung oder ZU?** Zahlungsstockung: voruibergehend, Beseitigung absehbar. ZU: strukturell, keine Beseitigung ohne Aussenfinanzierung.
+3. **Zahlungsstockung oder ZU?** Lücke, Verlauf, Wahrscheinlichkeit der Schließung und Zumutbarkeit des Zuwartens nach den obigen Regeln würdigen; Außenfinanzierung ist nicht von vornherein ausgeschlossen.
 4. **Datum festlegen?** Tag-genaue Bestimmung für Anfechtungsfristen §§ 130-133 InsO.
-5. **Antragspflicht?** § 15a InsO Frist 3 Wochen ab ZU-Eintritt.
+5. **Antragspflicht?** § 15a InsO: ohne schuldhaftes Zögern, bei Zahlungsunfähigkeit spätestens drei Wochen nach Eintritt; keine freie Wartefrist.
 
 ## Output-Template ZU-Memo (Liquiditaetsstatus)
 
@@ -319,9 +277,11 @@ GESAMT FAELLIG: EUR [SUMME]
 LIQUIDE MITTEL:
 - Kassabetrag: EUR [BETRAG]
 - Bankguthaben: EUR [BETRAG]
-- Innerhalb 3 Wochen eingehende Zahlungen: EUR [BETRAG]
+- Innerhalb 3 Wochen eingehende Zahlungen (Aktiva II): EUR [BETRAG]
+- Im selben Zeitraum neu fällige Verbindlichkeiten (Passiva II, gesondert abziehen): EUR [BETRAG]
 GESAMT LIQUIDE: EUR [SUMME]
 
-LIQUIDITAETSLUECKE: EUR [SUMME] = [X%] der faelligen Verbindlichkeiten
+LIQUIDITAETSLUECKE: max(0, Passiva I + Passiva II - Aktiva I - Aktiva II)
+LUECKENQUOTE: [X%] von Passiva I + Passiva II; Nenner null gesondert behandeln
 ERGEBNIS: [Zahlungsunfaehigkeit i.S.d. § 17 InsO: JA / NEIN / ZAHLUNGSSTOCKUNG]
 ```

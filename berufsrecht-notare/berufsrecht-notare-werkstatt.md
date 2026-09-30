@@ -26,6 +26,8 @@ Bei einem bereits erhobenen Belehrungsvorwurf ordne Behauptung, Gesprächsvermer
 
 Bei Auslandsbezug kläre Zuständigkeit, Form und Verwendbarkeit der Nachweise gesondert. Muss ein Termin unterbrochen oder abgebrochen werden, entwirf eine sachliche Mitteilung mit dem belegten Grund und den konkreten Voraussetzungen einer Fortsetzung; keinen tatsächlich erfolgten Abbruch erfinden.
 
+[BGH, Urteil vom 21.01.2026, IV ZR 40/25, Randnummern 9 bis 16, 21 sowie 27 bis 33](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2025/IV_ZR__40-25.pdf?__blob=publicationFile&v=1): Bei einem in Deutschland durch eine niederländische Notaranwärterin errichteten Testament bestimmt das über EuErbVO Artikel 75 vorrangige Haager Testamentsformübereinkommen das Formstatut. Das danach berufene niederländische Recht bestimmt auch die zivilrechtlichen Folgen einer Überschreitung der territorialen Amtsbefugnis; diese machte das Testament im entschiedenen Fall nicht unwirksam. Erblasserstaatsangehörigkeit, Errichtungsort, Formstatut, materielle Rechtswahl und ermitteltes ausländisches Recht getrennt begründen. Die Beweiskraft nach Artikel 59 knüpft hier an den ermächtigenden Staat an, nicht allein an den physischen Errichtungsort. Keine allgemeine Erlaubnis ausländischer Beurkundungen in Deutschland und keine Gleichwertigkeitsgarantie für Gesellschafts- oder Grundstücksurkunden ableiten; BNotO Paragraf 11a und die zivilrechtliche Testamentswirksamkeit bleiben getrennte Prüfungen.
+
 ## 1.3. Verwahrung und Auszahlung
 
 Rekonstruiere Einzahlungs-, Verwahrungs- und Auszahlungsanweisung mit Beteiligten, Zweck, Bedingungen, Empfangsberechtigung und Kontoabgleich. Unterscheide fehlenden Nachweis und widerlegte Voraussetzung. Eine einseitige Zahlungsbitte ersetzt keine mehrseitige Bedingung.
@@ -39,6 +41,8 @@ Gleiche Urkunde, spätere Änderungen, Register- oder Grundbuchstand und noch er
 Ordne Originale, Bearbeitungsstände, Fristen, Zugriffsrechte, Aufbewahrung und Herausgabe nachvollziehbar. Halte tatsächliche Übergaben mit Datum und Nachweis fest; verfügbare Dateien allein beweisen keine vollständige Urkunden- oder Nebenakte. Bei Vertretung oder Verwaltung des Notariats prüfe Zuständigkeiten und Übergaben, bevor eine Handlung zugerechnet wird.
 
 Erstelle bei Organisationsmängeln eine konkrete Weisung mit Aufgabe, Verantwortlichem, Kontrollschritt und Termin. Keine bloße Liste interner Prüffelder als bestelltes Ergebnis ausgeben.
+
+[BGH, Beschluss vom 09.03.2026, NotSt (Brfg) 3/25, Randnummern 10 bis 21](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/NotS/2025/NotSt_Brfg___3-25.pdf?__blob=publicationFile&v=1): Übernimmt der Notar die Anmeldung im Zentralen Vorsorgeregister, muss er sie unverzüglich veranlassen. 30 Tage ohne tragfähigen Grund genügten nicht; eine starre Drei- oder Fünfwerktagefrist ließ der BGH ausdrücklich offen. Ausstehende Registergebühren rechtfertigten das Zurückhalten im entschiedenen Fall nicht: Die Gebührenrechnung konnte unmittelbar an den Vollmachtgeber gehen. Eine Pflicht des Notars, selbst vorzuschießen, folgt daraus nicht. Frage deshalb nach Registrierungsauftrag, Auftragstag, vollständigen Meldedaten, Hindernis und Gebührenweg; dokumentiere Meldung und Bestätigung getrennt. Fehlenden Vorschuss nicht als automatische Vollzugssperre führen. Die Hinweispflicht nach BeurkG Paragraf 20a ist vom übernommenen Registrierungsauftrag zu unterscheiden; nicht jede Vorsorgeurkunde löst ohne Weiteres denselben Auftrag aus.
 
 ## 1.5. Verschwiegenheit und Datenschutzvorfall
 

@@ -44,5 +44,5 @@ Konkret zu prüfen:
 - § 17 Abs. 2a BeurkG
 - § 312g BGB
 - § 355 BGB
-- § 26 BNotO (Geschäftsstelle)
+- § 10 Abs. 2 bis 4 BNotO (Geschäftsstelle)
 - DONot

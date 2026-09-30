@@ -52,6 +52,11 @@
       "url": "https://www.gesetze-im-internet.de/inso/__15a.html",
       "checked_on": "2026-09-22",
       "supports": "Antrag ohne schuldhaftes Zögern; drei beziehungsweise sechs Wochen sind Höchstfristen, keine freie Wartezeit."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZR__18-25.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-30",
+      "supports": "BGH, Urteil vom 12.03.2026 – [IX ZR 18/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZR__18-25.pdf?__blob=publicationFile&v=1), Rn. 24–32: Tatsächlich verfügbare Drittmittel zählen auch ohne einklagbaren Anspruch gegen den Geldgeber. Frage nach Kontoauszug, Zahlweg, Betrag und Zeitpunkt; eine bloße Hoffnung genügt nicht. Über längere Zeit bis zur Eröffnung unbezahlte erhebliche Schulden im Gesamtbild würdigen, einschließlich tatsächlicher Zahlungen von Angehörigen oder verbundenen Unternehmen. Ein außenstehender Prozessgegner muss keine ihm unbekannten Schuldnerfinanzen rekonstruieren; vorgelegte Urkunden werden nicht zu seiner eigenen Wahrnehmung. Das Urteil verweist insoweit zurück und stellt Zahlungsunfähigkeit nicht abschließend fest."
     }
   ],
   "mini_review": {
@@ -61,9 +66,10 @@
       "IX ZR 229/22 und II ZR 88/16 aus amtlichen entscheidenden Gründen in alle drei Promptvarianten eingebunden.",
       "Titelvoraussetzungen, Konzernmittel und neue Fälligkeiten als konkrete Belegfragen formuliert.",
       "Im Hauptproblem OPOS-Bereinigung und Statusrechnung ohne automatische Paragraf-15b-Haftung verbunden.",
-      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt."
+      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt.",
+      "Gezielter amtlicher Rechtsprechungsabgleich 30.09.2026: BGH, Urteil vom 12.03.2026 – IX ZR 18/25, Rn. 24–32, 36–38"
     ],
-    "sha256": "dd6ebb715276941d930a1a60c9f7ba007488b15e21cce3a0b8dbfc41c2a1bbc3"
+    "sha256": "c1ee1e44c4d6a726d45ea9cf4db1a92d7a838fc94b837ac12c036f0e09460791"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -72,9 +78,10 @@
       "IX ZR 229/22 und II ZR 88/16 aus amtlichen entscheidenden Gründen in alle drei Promptvarianten eingebunden.",
       "Titelvoraussetzungen, Konzernmittel und neue Fälligkeiten als konkrete Belegfragen formuliert.",
       "Im Hauptproblem OPOS-Bereinigung und Statusrechnung ohne automatische Paragraf-15b-Haftung verbunden.",
-      "Stundung gegen bloßes Stillhalten abgrenzen, Cashpoolmittel und Zuflüsse zeitlich prüfen, Anfechtung zahlungsbezogen aufbauen und Organentscheidungen nach ihrer tatsächlichen Zahlungs- und Kenntnislage bearbeiten; Fokus-Prompt und Fokus-Skill im Einstieg abgestimmt."
+      "Stundung gegen bloßes Stillhalten abgrenzen, Cashpoolmittel und Zuflüsse zeitlich prüfen, Anfechtung zahlungsbezogen aufbauen und Organentscheidungen nach ihrer tatsächlichen Zahlungs- und Kenntnislage bearbeiten; Fokus-Prompt und Fokus-Skill im Einstieg abgestimmt.",
+      "Gezielter amtlicher Rechtsprechungsabgleich 30.09.2026: BGH, Urteil vom 12.03.2026 – IX ZR 18/25, Rn. 24–32, 36–38"
     ],
-    "sha256": "506d973c85030a6ed0f74540106ebb839fd6a7c118a0454c2b66ebfb8f07d32a"
+    "sha256": "bab5ee4fd49d4b46978068bdaac4b6ebfd3db493caa31ab3641d817fb939217c"
   },
   "focus_review": {
     "reviewed_on": "2026-09-23",
@@ -85,10 +92,11 @@
       "IX ZR 229/22 und II ZR 88/16 aus amtlichen entscheidenden Gründen in alle drei Promptvarianten eingebunden.",
       "Titelvoraussetzungen, Konzernmittel und neue Fälligkeiten als konkrete Belegfragen formuliert.",
       "Im Hauptproblem OPOS-Bereinigung und Statusrechnung ohne automatische Paragraf-15b-Haftung verbunden.",
-      "Hauptproblem und Fokus-Skill nach vollständiger Lektüre um eigenständige Einstiege und konkrete Fortsetzung bei Stundung oder Zahlungseingang ergänzt; keine neue Gesamtquellenprüfung."
+      "Hauptproblem und Fokus-Skill nach vollständiger Lektüre um eigenständige Einstiege und konkrete Fortsetzung bei Stundung oder Zahlungseingang ergänzt; keine neue Gesamtquellenprüfung.",
+      "30.09.2026: IX ZR 18/25 zu tatsächlich verfügbaren Drittmitteln und Grenzen der Detailerwiderung im Hauptproblem ergänzt; Fokus-Skill unverändert."
     ],
     "prompt_path": "insolvenzrecht/insolvenzrecht-hauptproblem.md",
-    "prompt_sha256": "09c88d5e1993466aff52fda58d8fc16e9ea8b12dc74ea5eb5725e4b8f8a917b9",
+    "prompt_sha256": "2447162f0bc9ff3a87d37dfc49e3a1d95316d534e6eec20395adda4f8062e3e2",
     "skill_path": "insolvenzrecht/skills/opos-titelabgleich-dreiwochen-liquiditaetsbruecke/SKILL.md",
     "skill_sha256": "f2b96d70d9d751175363a23bc7225b2f933df04ea915ee11fd8f7fb2683dd531"
   },
@@ -172,6 +180,13 @@
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2016/II_ZR__88-16.pdf?__blob=publicationFile&v=1",
         "application": "In der Dreiwochenbetrachtung künftige Zuflüsse und neue Fälligkeiten gemeinsam erfassen. Konzernansprüche nur bei rechtzeitiger Leistungsfähigkeit und Zahlungsbereitschaft als verfügbar behandeln.",
         "limit": "Eine 13-Wochen-Budgetplanung ersetzt nicht den Status; die Entscheidung zu Paragraf 64 GmbHG begründet keine automatische heutige Organhaftung."
+      },
+      {
+        "citation": "BGH, Urteil vom 12.03.2026 – IX ZR 18/25, Rn. 24–32, 36–38",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZR__18-25.pdf?__blob=publicationFile&v=1",
+        "checked_on": "2026-09-30",
+        "application": "BGH, Urteil vom 12.03.2026 – [IX ZR 18/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZR__18-25.pdf?__blob=publicationFile&v=1), Rn. 24–32: Tatsächlich verfügbare Drittmittel zählen auch ohne einklagbaren Anspruch gegen den Geldgeber. Frage nach Kontoauszug, Zahlweg, Betrag und Zeitpunkt; eine bloße Hoffnung genügt nicht. Über längere Zeit bis zur Eröffnung unbezahlte erhebliche Schulden im Gesamtbild würdigen, einschließlich tatsächlicher Zahlungen von Angehörigen oder verbundenen Unternehmen. Ein außenstehender Prozessgegner muss keine ihm unbekannten Schuldnerfinanzen rekonstruieren; vorgelegte Urkunden werden nicht zu seiner eigenen Wahrnehmung. Das Urteil verweist insoweit zurück und stellt Zahlungsunfähigkeit nicht abschließend fest.",
+        "limit": "Gezielte Ergänzung; frühere Quellenprüfdaten bleiben erhalten. Keine abschließende Insolvenzfeststellung aus IX ZR 18/25 und keine Gruppenfreigabe aus IX ZB 18/25."
       }
     ],
     "remaining_limits": [
@@ -179,7 +194,8 @@
       "Fokus-Skill bei der Vorprüfung vom 2026-09-22 unverändert belassen; am 2026-09-23 nur Einstieg und Antwortfortsetzung kohärent ergänzt. Alte Abrufvermerke sind keine neue Volltextprüfung. Keine Vollverifikation sämtlicher Anfechtungs- und Steuerfragen.",
       "Workflow-Ergänzung am 2026-09-23: individuelle Textprüfung, keine erneute Gesamtverifikation der bestehenden Entscheidungsanker; deren dokumentierte Quellen- und Zugriffsgrenzen bleiben bestehen.",
       "Erneuter Abruf von Paragrafen 15a und 17 InsO am 2026-09-23 scheiterte; die dokumentierte Vorprüfung vom 2026-09-22 bleibt als solche erhalten, keine neue Volltextprüfung behauptet."
-    ]
+    ],
+    "supplement_checked_on": "2026-09-30"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",

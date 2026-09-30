@@ -1,6 +1,6 @@
 # 1. AGB-Recht prüfen: Schnellstart
 
-Bestimme, ob die beanstandete Preis-, Haftungs-, Laufzeit- oder Stornoklausel Vertragsbestandteil geworden ist, welche Belastung sie erzeugt und welche Regel bei ihrem Ausfall gilt. Schreibe die beauftragte Bewertung, Ersatzklausel oder Antwort vollständig aus. Übernimm Vertrag, Kundengruppe und Prüfziel aus den Unterlagen und dem Gespräch.
+Bestimme, ob die beanstandete Preis-, Haftungs-, Laufzeit- oder Stornoklausel Vertragsbestandteil geworden ist, welche Belastung sie erzeugt und welche Regel bei ihrem Ausfall gilt. Vertrag, Kundengruppe und Prüfziel aus Akte und Gespräch übernehmen; die bestellte Bewertung, Ersatzklausel oder Antwort ausschreiben.
 
 ## 1. Auftrag und Unterlagen
 
@@ -36,6 +36,8 @@ Das Ergebnis enthält die tragende Norm, den entscheidenden Aktenfund, die recht
 
 Bei Schadenspauschalen nach Paragraf 309 Nummer 5 BGB gewöhnlichen Schaden und ausdrücklichen Gegenbeweis getrennt prüfen. Eine überhöhte Pauschale nicht auf den gerade zulässigen Betrag reduzieren. Paragraf 306 BGB verlangt die Prüfung des verbleibenden Vertrags. [BGH, Urteil vom 13.03.2025, III ZR 426/23](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2023/III_ZR_426-23.pdf?__blob=publicationFile&v=1), Rn. 46 und 50, erlaubt das Abtrennen selbständiger Regelungen: Dort blieb die Wahlleistungsvereinbarung ohne die Vertreterregelung sinnvoll. Übertrage nur diesen Teilbarkeitsmaßstab, nicht das spezielle Krankenhausrecht. Prüfe, ob der Rest ohne neue Wörter eigenständig verständlich bleibt; eine neue Ersatzklausel gilt nicht rückwirkend für den Altvertrag.
 
+BGH, Urteil vom 14.07.2026 – XI ZR 46/25, Rn. 26–32: Kein freies Verbraucherwahlrecht zur Gesamtnichtigkeit nach Paragraf 306 BGB; Ersatzrecht und unzumutbare Härte konkret prüfen.
+
 ## 4. Anschlussaufträge getrennt halten
 
 Rückzahlung: [Rückabwicklung](skills/rechtsfolgen-rueckabwicklung-agb/SKILL.md). Eingegangene Abmahnung: [Abmahnung beantworten](skills/abmahnung-reagieren/SKILL.md). Verbandsunterlassung: [UKlaG-Verfahren](skills/uklag-unterlassung-verbandsklage/SKILL.md). Kollektive Abhilfe: [VDuG-Schnittstelle](skills/vdug-abhilfeklage-agb-schnittstelle/SKILL.md). Diese Aufgaben nicht zusammenlegen oder ungefragt einleiten. Widerruf nur bei entsprechendem Sachverhalt prüfen.
@@ -50,4 +52,4 @@ Endprodukte in vollständigen Sätzen, mit dezimaler Gliederung und Leerzeilen a
 
 Stoppe nur die Klauselfreigabe, wenn maßgebliche Fassung, Parteistatus oder tatsächliche Einbeziehung offenbleiben. Kennzeichne die betroffene Variante als vorläufig; unabhängig prüfbare Klauseln und notwendige Nachforderungen weiterbearbeiten.
 
-Dokumentiere Quellenabrufe und technische Prüfgrenzen in einer gesonderten Arbeitsnotiz, nicht im Mandantenbrief. Ohne Datei- oder Quellenzugriff nur den betroffenen Teil als ungeprüft kennzeichnen; ohne Export den Text liefern. Bei Abruffehlern einen geeigneten Alternativweg versuchen, dann das Hindernis und den nutzbaren Teilstand nennen. Keine Dateierzeugung oder vollständige Aktenprüfung behaupten, die nicht erfolgt ist.
+Quellenabrufe und technische Prüfgrenzen separat vom Mandantenbrief dokumentieren. Ohne Datei- oder Quellenzugriff nur den betroffenen Teil als ungeprüft kennzeichnen; ohne Export den Text liefern. Bei Abruffehlern einen geeigneten Alternativweg versuchen, dann das Hindernis und den nutzbaren Teilstand nennen. Keine Dateierzeugung oder vollständige Aktenprüfung behaupten, die nicht erfolgt ist.

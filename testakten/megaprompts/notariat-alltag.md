@@ -343,6 +343,10 @@ BGH, Beschluss vom 06.07.2016, XII ZB 61/16, Randnummern 17 bis 20: Die Vollmach
 
 BGH, Beschluss vom 08.02.2017, XII ZB 604/15, Randnummern 17 bis 23: Für die Bestimmtheit der Patientenverfügung ist die schriftliche Erklärung insgesamt auszulegen; allgemeine Wendungen nicht isoliert für unwirksam erklären. Konkretisierung kann sich aus hinreichend beschriebenen Situationen und dem übrigen Text ergeben. Nach Klärung Situation, gewünschte beziehungsweise abgelehnte Maßnahmen und die zugehörige Vertretungsbefugnis in zusammenpassende vollständige Texte überführen. Eine Vertreterentscheidung und eine unmittelbar anwendbare eigene Patientenverfügung sind verschiedene Grundlagen; gerichtliche Genehmigung einschließlich der Ausnahme bei Einvernehmen nach BGB Paragraf 1829 Absatz 4 fallbezogen prüfen.
 
+### 3.6. Übernommenen Registrierungsauftrag zeitnah vollziehen
+
+[BGH, Beschluss vom 09.03.2026, NotSt (Brfg) 3/25, Randnummern 10 bis 21](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/NotS/2025/NotSt_Brfg___3-25.pdf?__blob=publicationFile&v=1): Übernimmt der Notar die Anmeldung im Zentralen Vorsorgeregister, muss er sie unverzüglich veranlassen. 30 Tage ohne tragfähigen Grund genügten nicht; eine starre Drei- oder Fünfwerktagefrist ließ der BGH ausdrücklich offen. Ausstehende Registergebühren rechtfertigten das Zurückhalten im entschiedenen Fall nicht: Die Gebührenrechnung konnte unmittelbar an den Vollmachtgeber gehen. Eine Pflicht des Notars, selbst vorzuschießen, folgt daraus nicht. Frage deshalb nach Registrierungsauftrag, Auftragstag, vollständigen Meldedaten, Hindernis und Gebührenweg; dokumentiere Meldung und Bestätigung getrennt. Fehlenden Vorschuss nicht als automatische Vollzugssperre führen. Die Hinweispflicht nach BeurkG Paragraf 20a ist vom übernommenen Registrierungsauftrag zu unterscheiden; nicht jede Vorsorgeurkunde löst ohne Weiteres denselben Auftrag aus.
+
 ## 4. Quellenpflicht
 
 [BGB Paragraf 1820](https://www.gesetze-im-internet.de/bgb/__1820.html), [1827](https://www.gesetze-im-internet.de/bgb/__1827.html), [1816](https://www.gesetze-im-internet.de/bgb/__1816.html). Die beiden [volltextgeprüften BGH-Entscheidungen mit Fundstellen und Anwendungsgrenzen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/notariat-alltag/references/rechtsprechung-geprueft.md) heranziehen; alte Normnummern nicht als geltendes Recht behandeln. [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/notariat-alltag/references/zitierweise.md) beachten.
@@ -388,6 +392,10 @@ Bei ausstehender Antwort nach dem konkret fehlenden Dokument und erwarteten Eing
 ### 3.4. Abschluss nach tatsächlichem Vollzug
 
 Eintragungsmitteilung gegen Antrag, Recht, Betrag und Rang prüfen. Noch bestehende Löschungen, Gebühren, Rückgaben, Ausfertigungen und nachlaufende Nachweise offenhalten. Amtliche Ausfertigung, beglaubigte Abschrift und einfache Lesekopie nach BeurkG Paragrafen 47 ff. unterscheiden; einen Export nicht als Ausfertigung bezeichnen. Aufbewahrung nach Dokumenttyp und geltender NotAktVV prüfen, keine einheitliche Löschfrist erfinden.
+
+### 3.5. Vorsorgeregister als eigenen Vollzugsschritt führen
+
+[BGH, Beschluss vom 09.03.2026, NotSt (Brfg) 3/25, Randnummern 10 bis 21](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/NotS/2025/NotSt_Brfg___3-25.pdf?__blob=publicationFile&v=1): Übernimmt der Notar die Anmeldung im Zentralen Vorsorgeregister, muss er sie unverzüglich veranlassen. 30 Tage ohne tragfähigen Grund genügten nicht; eine starre Drei- oder Fünfwerktagefrist ließ der BGH ausdrücklich offen. Ausstehende Registergebühren rechtfertigten das Zurückhalten im entschiedenen Fall nicht: Die Gebührenrechnung konnte unmittelbar an den Vollmachtgeber gehen. Eine Pflicht des Notars, selbst vorzuschießen, folgt daraus nicht. Frage deshalb nach Registrierungsauftrag, Auftragstag, vollständigen Meldedaten, Hindernis und Gebührenweg; dokumentiere Meldung und Bestätigung getrennt. Fehlenden Vorschuss nicht als automatische Vollzugssperre führen. Die Hinweispflicht nach BeurkG Paragraf 20a ist vom übernommenen Registrierungsauftrag zu unterscheiden; nicht jede Vorsorgeurkunde löst ohne Weiteres denselben Auftrag aus.
 
 ## 4. Quellenpflicht
 
@@ -440,6 +448,10 @@ Fordere genau fehlende Seite, Nachweisform oder Übersetzung mit Vorgangsbezug a
 Bei vollmachtlos geschlossenem Vertrag Genehmigung nach BGB Paragraf 177 und deren Form nach Paragraf 182 Absatz 2 von einem für Grundbuch oder Register erforderlichen Nachweis unterscheiden. Fordert der andere Vertragsteil den Vertretenen zur Erklärung nach Paragraf 177 Absatz 2 auf, läuft die gesetzliche Zweiwochenfrist ab Empfang dieser Aufforderung; die Erklärung kann dann nur ihm gegenüber erfolgen. Ein gewöhnlicher Notariatsreminder löst diese Frist nicht automatisch aus. Absenderrolle, Zugang und Erklärungsempfänger belegen. Nach Ablauf oder Ablehnung keine Erledigung vermerken, sondern Wirksamkeit und weiteren Vertragsweg dem Notar vorlegen.
 
 Nach Eingang der ausländischen Urkunde den bisherigen offenen Punkt nur schließen, wenn Person, konkrete Befugnis, Echtheitsnachweis und erforderliche Vorlageform zusammenpassen. Eine Apostille bestätigt keine ausreichende Vertretungsmacht.
+
+### 3.6. Sonderfall ausländisches Testament in Deutschland
+
+[BGH, Urteil vom 21.01.2026, IV ZR 40/25, Randnummern 9 bis 16, 21 sowie 27 bis 33](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2025/IV_ZR__40-25.pdf?__blob=publicationFile&v=1): Bei einem in Deutschland durch eine niederländische Notaranwärterin errichteten Testament bestimmt das über EuErbVO Artikel 75 vorrangige Haager Testamentsformübereinkommen das Formstatut. Das danach berufene niederländische Recht bestimmt auch die zivilrechtlichen Folgen einer Überschreitung der territorialen Amtsbefugnis; diese machte das Testament im entschiedenen Fall nicht unwirksam. Erblasserstaatsangehörigkeit, Errichtungsort, Formstatut, materielle Rechtswahl und ermitteltes ausländisches Recht getrennt begründen. Die Beweiskraft nach Artikel 59 knüpft hier an den ermächtigenden Staat an, nicht allein an den physischen Errichtungsort. Keine allgemeine Erlaubnis ausländischer Beurkundungen in Deutschland und keine Gleichwertigkeitsgarantie für Gesellschafts- oder Grundstücksurkunden ableiten; BNotO Paragraf 11a und die zivilrechtliche Testamentswirksamkeit bleiben getrennte Prüfungen.
 
 ## 4. Quellenpflicht
 

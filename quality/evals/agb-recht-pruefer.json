@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "agb-recht-pruefer",
-  "reviewed_on": "2026-09-23",
+  "reviewed_on": "2026-09-30",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/bgb/__305.html",
@@ -62,30 +62,40 @@
       "url": "https://www.gesetze-im-internet.de/bgb/__306.html",
       "checked_on": "2026-09-23",
       "supports": "Gesetzlicher Ersatz bei unwirksamer AGB-Klausel: neue Wunschquote nicht als Altvertragsinhalt einsetzen."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2025/XI_ZR__46-25.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-30",
+      "supports": "Urteil 2026-07-14 – XI ZR 46/25. Geprüft: Kopf/Leitsatz und Rn. 26–32. Kein freies Verbraucherwahlrecht zwischen Gesamtnichtigkeit und Vertragsfortbestand nach §306 BGB. Grenzen richtlinienkonformer Auslegung; unzumutbare Härte und eigene Voraussetzungen ergänzender Auslegung getrennt. Prämiensparfall, keine allgemeine Erlaubnis zur Reparatur missbräuchlicher Klauseln. Zinsreihen und weitere Feststellungsziele nicht neu geprüft.",
+      "source_sha256": "765b3b49f52b87dde22d9205aaaf2d99d8fb47c3e9e71711f1be975b8f2caec6"
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Kompakten Klauselauftrag vollständig gelesen und auf Preis-, Haftungs-, Laufzeit- und Stornobelastung konkretisiert. Klauselausfall führt zu Restwortlaut und Ersatzrecht statt automatischer Reparatur. Kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert.",
+    "reason": "Kompakten Klauselauftrag vollständig gelesen und auf Preis-, Haftungs-, Laufzeit- und Stornobelastung konkretisiert. Klauselausfall führt zu Restwortlaut und Ersatzrecht statt automatischer Reparatur. Kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert. Gezielte Ergänzung im zweiten Durchgang am 30.09.2026; keine erneute Vollprüfung aller Altanker.",
     "changes": [
       "Schadenspauschale an gewöhnlichen Schaden und ausdrücklichen Gegenbeweis geknüpft.",
       "III ZR 426/23 mit Teilbarkeitsfolge und Grenzen in den eigenständigen Mini aufgenommen.",
       "Leerstart: Klauselprüfung, Ersatzregel oder AGB-Beanstandung anbieten. Dateien: Abschlussfassung still lesen; Stornopauschale, Neuvertrag oder Abmahnung passend eingrenzen. Klarer Auftrag: Gewünschte Klausel oder Antwort ohne erneute Vertragsaufnahme ausarbeiten.",
-      "Fehlende Schadensstatistik führt zur konkreten Schadensregel; Kundenwiderspruch verändert Umstellung in ausdrückliches Änderungsangebot."
+      "Fehlende Schadensstatistik führt zur konkreten Schadensregel; Kundenwiderspruch verändert Umstellung in ausdrückliches Änderungsangebot.",
+      "Zweiter Durchgang 30.09.2026: Verbraucherinteresse und fehlendes freies Wahlrecht zur Gesamtnichtigkeit nach XI ZR 46/25 getrennt."
     ],
-    "sha256": "aa2b6516bfa0f52a5067421a4cf66d04594421721b13488ab0e0f7081e3a4c6a"
+    "sha256": "5fb0e0d7568cba5840b650693740d6c4dd05fb8f3c758bb38dc658ba6eedcfe5",
+    "reviewed_on": "2026-09-30"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Alle 13 Abschnitte einschließlich Einbeziehung, Gestaltung, digitaler Schäden, Vertragsumstellung und Auslandsbezug gelesen. Bereits detaillierte Fachwege erhalten; Transparenz und Teilbarkeit anhand amtlicher Entscheidungsgründe präzisiert. Kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen.",
+    "reason": "Alle 13 Abschnitte einschließlich Einbeziehung, Gestaltung, digitaler Schäden, Vertragsumstellung und Auslandsbezug gelesen. Bereits detaillierte Fachwege erhalten; Transparenz und Teilbarkeit anhand amtlicher Entscheidungsgründe präzisiert. Kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen. Gezielte Ergänzung im zweiten Durchgang am 30.09.2026; keine erneute Vollprüfung aller Altanker.",
     "changes": [
       "Konkreter Einstieg mit Vertragsfassung, Kundenbelastung und Ausfallfolge.",
       "Zu weite Randnummernangabe zur Teilbarkeit auf Rn. 46 und 50 korrigiert; offene Vertreterklausel nicht als bestätigt behandelt.",
       "Transparenzgrenze und unionsrechtliche Grenzen der Lückenfüllung mit tatsächlichem Auslöser und Reichweite erläutert.",
       "Storno im Alt- und Neufall, Haftungsdeckel bei Schadenshäufung und widersprochene Vertragsumstellung mit vollständigen Textfolgen.",
-      "Fehlende Schadensstatistik führt zur konkreten Schadensregel; Kundenwiderspruch verändert Umstellung in ausdrückliches Änderungsangebot."
+      "Fehlende Schadensstatistik führt zur konkreten Schadensregel; Kundenwiderspruch verändert Umstellung in ausdrückliches Änderungsangebot.",
+      "Zweiter Durchgang 30.09.2026: Verbraucherinteresse und fehlendes freies Wahlrecht zur Gesamtnichtigkeit nach XI ZR 46/25 getrennt."
     ],
-    "sha256": "3f0616ce9f66dd1ddd11c06ba2610605ca2c42d57f468735f12fafef93e03626"
+    "sha256": "5e9108e85baa24375626c4da1aacfca9a069e5c92976a6edf16fa881e694a37a",
+    "reviewed_on": "2026-09-30"
   },
   "selection": {
     "positive": [

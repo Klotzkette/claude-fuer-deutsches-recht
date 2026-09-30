@@ -39,6 +39,12 @@ Nutze diesen Skill, wenn eine GmbH-Satzung nicht nur formal, sondern konfliktfes
 - BGH, 20.11.2018 - II ZR 12/17: Gesellschafterliste als zentrale Legitimationsgrundlage.
 - Paragraf 133 und 157 BGB: Auslegung gesellschaftsvertraglicher Regelungen.
 
+## 1. Tätigkeitsgebundene Rückerwerbsklauseln
+
+[BGH, Urteil vom 10.02.2026, II ZR 71/24, Randnummern 19 bis 22 und 45 bis 61](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2024/II_ZR__71-24.pdf?__blob=publicationFile&v=1): Eine freie Hinauskündigung ist grundsätzlich nach BGB Paragraf 138 unwirksam, kann aber bei einem sachlich gerechtfertigten Managementmodell ausnahmsweise zulässig sein. Entscheidend ist die Gesamtwürdigung, insbesondere die Bindung an die Tätigkeit und ein fehlendes relevantes eigenständiges Mitgliedschaftsgewicht. Erwerb zum Marktpreis, erhebliches Kapitalrisiko und Gewinnteilnahme erst beim Exit schließen die Ausnahme nicht jeweils automatisch aus; umgekehrt genügt die Bezeichnung „Managementbeteiligung“ nicht. Frage nach Beteiligungsweg und Quote, Informations-, Stimm- und Vetorechten, Tätigkeitsbezug, Erwerbs- und Rückkaufpreis, Abberufungsgrund sowie geplantem Exit. Prüfe getrennt die Klauselwirksamkeit, die Abfindungsregel und die Ausübung: Ein vorgeschobener Organwechsel kurz vor dem Exit kann nach BGB Paragrafen 162 Absatz 2 und 242 missbräuchlich sein. Der BGH hat zurückverwiesen; daraus keine pauschale Billigung aller Leaver-Abschläge oder des konkreten Rückkaufvollzugs ableiten.
+
+Formuliere nach den Antworten getrennte Klauseln zum Rückerwerbsereignis, zur Preisbestimmung und zum Verfahren; Satzung und schuldrechtliche Vereinbarung auf Widersprüche abgleichen. Eine ungeklärte Preisstaffel als offene Entscheidung benennen, nicht durch eine erfundene Einigung ersetzen.
+
 ## Output
 
 Erzeuge eine Satzungsmatrix mit Klauselziel, Formulierungsvorschlag, Risikohinweis und Alternativfassung.

@@ -196,6 +196,16 @@
       "checked_on": "2026-09-25",
       "supports": "BGH, Urteil vom 11.02.2004, XII ZR 265/02, amtlicher Volltext Seiten 23 bis 26: Wirksamkeitskontrolle beim Vertragsschluss und spätere Ausübungskontrolle; wirtschaftliche und persönliche Umstände insgesamt. Grenze: Historische Versorgungsausgleichs- und Formnormen nicht übernehmen. Keine schematische Nichtigkeit aufgrund eines einzelnen Umstands.",
       "source_sha256": "408519e1a43a013a6e94f747f3ecd9e0aa027a00a25e4c4a830e2fb09ff29fe3"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/NotS/2025/NotSt_Brfg___3-25.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-30",
+      "supports": "BGH, Beschluss vom 09.03.2026 – NotSt (Brfg) 3/25, Rn. 10–21: Übernommene Vorsorgeregisteranmeldung unverzüglich veranlassen; Gebührenweg konkret prüfen. Keine feste Drei-/Fünfwerktagefrist oder allgemeine Pflicht zum Gebührenvorschuss."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2025/IV_ZR__40-25.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-30",
+      "supports": "BGH, Urteil vom 21.01.2026 – IV ZR 40/25, Rn. 9–16, 21, 27–33: Testamentsformstatut nach vorrangigem Haager Übereinkommen entscheidet auch über Folgen territorial überschrittener Amtsbefugnis. Niederländisches Testament im konkreten Fall; keine allgemeine Erlaubnis ausländischer Notare zu Amtstätigkeit in Deutschland."
     }
   ],
   "mini_review": {
@@ -206,7 +216,7 @@
       "Bank-, Register-, Familien- und Vorsorgeantworten in die gesamte betroffene Vorlage weiterführen.",
       "Mini deckt alle Fachbereiche innerhalb 7500 UTF-8-Bytes und Zeichen ab; Werkstatt enthält vollständige Anschreiben und abgegrenzte Klauselbeispiele."
     ],
-    "sha256": "5a3761cd7bbc7f53210779a7b5ec7399f677f313a758e0911c65f12f050f224e"
+    "sha256": "7a4bf7e8bed35d23d3eda3d894fcef1ccce316c32a1d2ba29a1798358003c020"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -216,7 +226,7 @@
       "Bank-, Register-, Familien- und Vorsorgeantworten in die gesamte betroffene Vorlage weiterführen.",
       "Mini deckt alle Fachbereiche innerhalb 7500 UTF-8-Bytes und Zeichen ab; Werkstatt enthält vollständige Anschreiben und abgegrenzte Klauselbeispiele."
     ],
-    "sha256": "61851ed751a672cc6e67ef046d9f0d5425f362d26d9ac34df2515eb92620f5a4"
+    "sha256": "0c2f8ee1445c1dc0cda4e70b4161a9950a5cc18a574e456a23f7832f9532f1a5"
   },
   "selection": {
     "positive": [
@@ -834,6 +844,20 @@
         "source_sha256": "408519e1a43a013a6e94f747f3ecd9e0aa027a00a25e4c4a830e2fb09ff29fe3",
         "checked_on": "2026-09-25",
         "verification": "official_pdf_relevant_reasons_read"
+      },
+      {
+        "citation": "BGH, Beschluss vom 09.03.2026 – NotSt (Brfg) 3/25, Rn. 10–21",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/NotS/2025/NotSt_Brfg___3-25.pdf?__blob=publicationFile&v=1",
+        "checked_on": "2026-09-30",
+        "application": "Übernommene Vorsorgeregisteranmeldung unverzüglich veranlassen; Gebührenweg konkret prüfen.",
+        "limit": "Keine feste Drei-/Fünfwerktagefrist oder allgemeine Pflicht zum Gebührenvorschuss."
+      },
+      {
+        "citation": "BGH, Urteil vom 21.01.2026 – IV ZR 40/25, Rn. 9–16, 21, 27–33",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2025/IV_ZR__40-25.pdf?__blob=publicationFile&v=1",
+        "checked_on": "2026-09-30",
+        "application": "Testamentsformstatut nach vorrangigem Haager Übereinkommen entscheidet auch über Folgen territorial überschrittener Amtsbefugnis.",
+        "limit": "Niederländisches Testament im konkreten Fall; keine allgemeine Erlaubnis ausländischer Notare zu Amtstätigkeit in Deutschland."
       }
     ],
     "remaining_limits": [
@@ -857,7 +881,7 @@
   "individual_skill_review": [
     {
       "path": "notariat-alltag/skills/auslandsurkunde-apostille-vollmacht/SKILL.md",
-      "sha256": "b069bfb2f7b3a7c2f37979756f96f6ffceadbab6d60d811e9784b87eda5fcc49",
+      "sha256": "34ba814e369f73da00051ba2aab1dbf91c29ff30bc2e4ea44ebb5dc8f7dd4bf7",
       "verdict": "revised",
       "method": "desk_review",
       "reviewed_on": "2026-09-25"
@@ -983,17 +1007,31 @@
     },
     {
       "path": "notariat-alltag/skills/vollzug-fristen-wiedervorlage/SKILL.md",
-      "sha256": "f542592f879adb23c949e322c5dc5b1b0be36421db6f18bad21d9d3ce14d7f43",
+      "sha256": "b584d1a65b56e90793b335f989622b95927e38f330579d00cae655ad74371dab",
       "verdict": "retained",
       "method": "desk_review",
       "reviewed_on": "2026-09-25"
     },
     {
       "path": "notariat-alltag/skills/vorsorgevollmacht/SKILL.md",
-      "sha256": "68041177e61bfe93f2230d93135b80132b416f62a3034e52ecba5abaeba01718",
+      "sha256": "75fd5f99c383eb36290c460e594380c2921cbcd807318a9cc32c5aa600e6f8d0",
       "verdict": "revised",
       "method": "desk_review",
       "reviewed_on": "2026-09-25"
     }
-  ]
+  ],
+  "source_audit_2026_09_30_zweiter_durchgang": {
+    "date": "2026-09-30",
+    "method": "targeted_primary_source_review",
+    "report": "quality/source-audits/2026-09-30-zweiter-durchgang/notariat-erbe-gesellschaft.md",
+    "scope": "Gezielte Prüfung der im Bericht bezeichneten neuen Entscheidungen und konkret berichtigten Normstellen; keine erneute Vollprüfung sämtlicher Skills, Altanker oder früherer Bewertungsbehauptungen. Bestehende Hashfelder bilden die aktuelle Datei ab; frühere Reviewdaten bleiben historische Prüfangaben. Kein Live-Modelltest.",
+    "files": [
+      "notariat-alltag/notariat-alltag-schnellstart.md",
+      "notariat-alltag/notariat-alltag-werkstatt.md",
+      "notariat-alltag/references/rechtsprechung-geprueft.md",
+      "notariat-alltag/skills/auslandsurkunde-apostille-vollmacht/SKILL.md",
+      "notariat-alltag/skills/vollzug-fristen-wiedervorlage/SKILL.md",
+      "notariat-alltag/skills/vorsorgevollmacht/SKILL.md"
+    ]
+  }
 }

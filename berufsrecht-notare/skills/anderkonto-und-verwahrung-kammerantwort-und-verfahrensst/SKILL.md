@@ -41,7 +41,7 @@ description: "Für Anderkonto und Verwahrung Kammerantwort und Verfahrensst: ord
 Konkret zu prüfen:
 
 - § 23 BNotO (Notaranderkonto)
-- § 54a BeurkG
+- §§ 57 bis 60 BeurkG (Verwahrung, Durchführung und Widerruf)
 - DONot § 11
 - § 65 BNotO (Notarkammer)
 - § 92 BNotO (Aufsicht)

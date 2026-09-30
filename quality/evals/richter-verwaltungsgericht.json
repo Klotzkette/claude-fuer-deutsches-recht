@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "richter-verwaltungsgericht",
-  "reviewed_on": "2026-09-23",
+  "reviewed_on": "2026-09-30",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/vwgo/__123.html",
@@ -27,32 +27,44 @@
       "url": "https://www.gesetze-im-internet.de/vwgo/__123.html",
       "checked_on": "2026-09-23",
       "supports": "Zweckbezogener Informationszugang, geschützte Teile, aktueller Vollzugsstand, fehlende Ermessensvorgänge und Streitgegenstandswechsel. Quellenstatus: Paragraf 123 erneut amtlich gelesen; vorhandene Begrenzung des presserechtlichen BND-Falls bewahrt, keine neue Länderrechtsprüfung behauptet."
+    },
+    {
+      "url": "https://www.bverwg.de/de/140425B10VR3.25.0",
+      "checked_on": "2026-09-30",
+      "supports": "BVerwG, Beschluss vom 14.04.2025 – 10 VR 3.25, Randnummern 9–18. Vorhandenen Anker im direkten amtlichen Entscheidungstext nachgelesen: Dringlichkeit und Anspruch getrennt; Pressevorwegnahme nicht pauschal verbieten. Grenze: Materielles Presserecht und BND-Schutzzwecke nicht auf jeden Einsichtsanspruch übertragen."
+    },
+    {
+      "url": "https://www.bverwg.de/de/270526B2VR5.26.0",
+      "checked_on": "2026-09-30",
+      "supports": "BVerwG, Beschluss vom 27.05.2026 – 2 VR 5.26, Randnummern 12–21. Sachlicher Umsetzungsgrund ersetzt keine Abwägung für die Vorverlegung; zeitlich begrenzten Unterlassungstenor prüfen. Grenze: BND-Sonderfall, Verwaltungsaktqualität offen; kein Wunschdienstpostenanspruch und keine allgemeine Monatsfrist."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Individuelle Lektüre und Workflow-Vertiefung: Verschobener Termin -> Informationsnutzen und Dringlichkeit ändern; vollzogene Maßnahme -> wirksames aktuelles Rechtsschutzziel prüfen. Desk review, keine Live-Client-Ausführung.",
+    "reason": "Individuelle Lektüre und Workflow-Vertiefung: Verschobener Termin -> Informationsnutzen und Dringlichkeit ändern; vollzogene Maßnahme -> wirksames aktuelles Rechtsschutzziel prüfen. Desk review, keine Live-Client-Ausführung. Gezielter Quellen- und Fachnachtrag 30.09.2026; bestehende Abläufe erhalten, keine erneute pauschale Vollprüfung behauptet.",
     "changes": [
       "Zeitkritisches Informationsbegehren nach Anspruch und Eilgrund getrennt; Paragraf 44a ergänzt, Pressemaßstab ausdrücklich nicht pauschal auf Akteneinsicht übertragen; alte ungeprüfte Aktenzeichen entfernt.",
       "Amtlich mitveröffentlichte Entscheidungsgründe Rn. 9 bis 18: Eilgrund trotz fehlenden Auskunftsanspruchs; zeitkritische Informationen und entgegenstehende Schutzinteressen getrennt prüfen.",
       "Verschobener Termin -> Informationsnutzen und Dringlichkeit ändern; vollzogene Maßnahme -> wirksames aktuelles Rechtsschutzziel prüfen.",
-      "Zweckbezogener Informationszugang, geschützte Teile, aktueller Vollzugsstand, fehlende Ermessensvorgänge und Streitgegenstandswechsel."
+      "Zweckbezogener Informationszugang, geschützte Teile, aktueller Vollzugsstand, fehlende Ermessensvorgänge und Streitgegenstandswechsel.",
+      "Die für dieses Gebiet dokumentierten Quellenpassagen vom 30.09.2026 fallbezogen eingearbeitet."
     ],
-    "sha256": "ffb84bca0a156138c203ec182c926fffdc3fad06c3f9b436c0c85326f44995b2",
-    "reviewed_on": "2026-09-23",
+    "sha256": "4b01c76e1ef2fce919e30946952a2b51124d579da4d75294e0ee32592c5a19ba",
+    "reviewed_on": "2026-09-30",
     "method": "desk_review"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Individuelle Lektüre und Workflow-Vertiefung: Zweckbezogener Informationszugang, geschützte Teile, aktueller Vollzugsstand, fehlende Ermessensvorgänge und Streitgegenstandswechsel. Desk review, keine Live-Client-Ausführung.",
+    "reason": "Individuelle Lektüre und Workflow-Vertiefung: Zweckbezogener Informationszugang, geschützte Teile, aktueller Vollzugsstand, fehlende Ermessensvorgänge und Streitgegenstandswechsel. Desk review, keine Live-Client-Ausführung. Gezielter Quellen- und Fachnachtrag 30.09.2026; bestehende Abläufe erhalten, keine erneute pauschale Vollprüfung behauptet.",
     "changes": [
       "Angegriffene Regelung oder verlangte Leistung mit rechtzeitigem Schutz und bestimmtem Tenor verbinden.",
       "Amtlich mitveröffentlichte Entscheidungsgründe Rn. 9 bis 18: Eilgrund trotz fehlenden Auskunftsanspruchs; zeitkritische Informationen und entgegenstehende Schutzinteressen getrennt prüfen.",
       "Verschobener Termin -> Informationsnutzen und Dringlichkeit ändern; vollzogene Maßnahme -> wirksames aktuelles Rechtsschutzziel prüfen.",
-      "Zweckbezogener Informationszugang, geschützte Teile, aktueller Vollzugsstand, fehlende Ermessensvorgänge und Streitgegenstandswechsel."
+      "Zweckbezogener Informationszugang, geschützte Teile, aktueller Vollzugsstand, fehlende Ermessensvorgänge und Streitgegenstandswechsel.",
+      "Die für dieses Gebiet dokumentierten Quellenpassagen vom 30.09.2026 fallbezogen eingearbeitet."
     ],
-    "sha256": "8450e4d4f7a58a5ec70e7e855257103336c677af3c6c96d55ec9ec58d8f1e70d",
-    "reviewed_on": "2026-09-23",
+    "sha256": "5f3530e7bd12a79a737e346a0b6347ea497af02b393476e3c34bd7d2c5b86535",
+    "reviewed_on": "2026-09-30",
     "method": "desk_review"
   },
   "selection": {
@@ -100,7 +112,7 @@
     }
   ],
   "prompt_editorial_review": {
-    "date": "2026-09-22",
+    "date": "2026-09-30",
     "files": [
       "gerichtsplugins/richter-verwaltungsgericht/README.md",
       "gerichtsplugins/richter-verwaltungsgericht/richter-verwaltungsgericht-werkstatt.md",
@@ -120,13 +132,26 @@
         "url": "https://www.bverwg.de/de/pm/2025/31",
         "application": "Amtlich mitveröffentlichte Entscheidungsgründe Rn. 9 bis 18: Eilgrund trotz fehlenden Auskunftsanspruchs; zeitkritische Informationen und entgegenstehende Schutzinteressen getrennt prüfen.",
         "limit": "Entscheidende Gründe in amtlicher Veröffentlichung gelesen, nicht nur Pressezusammenfassung. Presse/BND-Fall, kein allgemeiner Anspruch auf Akteneinsicht und keine ungeprüfte Übertragung spezifischer Geheimhaltungsgründe."
+      },
+      {
+        "citation": "BVerwG, Beschluss vom 14.04.2025 – 10 VR 3.25, Randnummern 9–18",
+        "url": "https://www.bverwg.de/de/140425B10VR3.25.0",
+        "application": "Vorhandenen Anker im direkten amtlichen Entscheidungstext nachgelesen: Dringlichkeit und Anspruch getrennt; Pressevorwegnahme nicht pauschal verbieten.",
+        "limit": "Materielles Presserecht und BND-Schutzzwecke nicht auf jeden Einsichtsanspruch übertragen."
+      },
+      {
+        "citation": "BVerwG, Beschluss vom 27.05.2026 – 2 VR 5.26, Randnummern 12–21",
+        "url": "https://www.bverwg.de/de/270526B2VR5.26.0",
+        "application": "Sachlicher Umsetzungsgrund ersetzt keine Abwägung für die Vorverlegung; zeitlich begrenzten Unterlassungstenor prüfen.",
+        "limit": "BND-Sonderfall, Verwaltungsaktqualität offen; kein Wunschdienstpostenanspruch und keine allgemeine Monatsfrist."
       }
     ],
     "remaining_limits": [
       "Entscheidende Gründe in amtlicher Veröffentlichung gelesen, nicht nur Pressezusammenfassung. Presse/BND-Fall, kein allgemeiner Anspruch auf Akteneinsicht und keine ungeprüfte Übertragung spezifischer Geheimhaltungsgründe.",
       "Keine umfassende neue Prüfung des jeweils anwendbaren besonderen Verwaltungsrechts; keine Live-Gerichtsakte.",
       "Individuelle redaktionelle Akten- und Quellenprüfung (desk review), kein Live-Client- oder Modelltest.",
-      "Workflow-Vertiefung 2026-09-23: Paragraf 123 erneut amtlich gelesen; vorhandene Begrenzung des presserechtlichen BND-Falls bewahrt, keine neue Länderrechtsprüfung behauptet. Desk review; kein Live-Client-Test."
+      "Workflow-Vertiefung 2026-09-23: Paragraf 123 erneut amtlich gelesen; vorhandene Begrenzung des presserechtlichen BND-Falls bewahrt, keine neue Länderrechtsprüfung behauptet. Desk review; kein Live-Client-Test.",
+      "Zweiter Schnelldurchgang 30.09.2026: ausschließlich die neu dokumentierten Fachpassagen und Entscheidungen; kein Vollaudit aller Skills, kein Live-Modelltest."
     ]
   },
   "prompt_workflow_review": {

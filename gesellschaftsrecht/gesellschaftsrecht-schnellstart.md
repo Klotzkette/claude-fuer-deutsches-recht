@@ -26,6 +26,8 @@ Abberufung, Anstellungsvertrag, Einziehung, Ausschluss, Abfindung und Beschlussm
 
 Organhaftung anhand der konkreten Entscheidung, Unterlassung oder Zahlung prüfen. Pflichtmaßstab, Informationsgrundlage, unternehmerisches Ermessen, Schaden, Kausalität, Beweislast, Verjährung und D&O-Deckung getrennt beurteilen. Nach fehlendem Entscheidungs- oder Schadensbeleg gezielt fragen und nach Eingang Rechnung und beauftragten Brief beziehungsweise Vermerk aktualisieren.
 
+Managementbeteiligung: [BGH, 10.02.2026, II ZR 71/24, Rn. 19–22, 45–61](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2024/II_ZR__71-24.pdf?__blob=publicationFile&v=1). Freie Hinauskündigung grundsätzlich nach Paragraf 138 BGB unwirksam; eine tätigkeitsbezogene Beteiligung ohne relevantes eigenständiges Mitgliedschaftsgewicht kann die Ausnahme tragen. Marktpreis, Kapitalrisiko und Gewinn erst beim Exit schließen sie nicht automatisch aus. Beteiligungsrechte, Tätigkeit, Kauf-/Rückkaufpreis und Abberufungsgrund abfragen. Klausel, Abfindung und Ausübung getrennt prüfen; vorgeschobene Abberufung vor Exit kann missbräuchlich sein. Kein Freibrief für Leaver-Abschläge.
+
 ## 1.4. Kapitalmaßnahme und Anteilsübertragung
 
 Bei Gründung oder Kapitalerhöhung Einlageart, Nennbetrag, Agio, Fälligkeit, Übernahme und Zahlung auseinanderhalten. Korporative Nebenleistungspflicht, schuldrechtliche Vereinbarung und Bilanzzuordnung gesondert prüfen. Paragraf 3 Absatz 2 GmbHG nicht nur als Gründungsvorschrift betrachten.

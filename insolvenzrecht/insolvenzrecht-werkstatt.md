@@ -54,6 +54,8 @@ Bei einer Dreiwochenrechnung auch die während desselben Zeitraums neu fälligen
 
 Fehlt eine Kreditbedingung, fordere gerade die Zusage, den Abrufnachweis oder die Freigabe an. Nach Eingang die betroffenen Zuflüsse und Zahlungstage neu berechnen und die Krisenbewertung entsprechend ändern. Erweist sich ein zuvor erwarteter Zufluss als bedingt, diese Unsicherheit sichtbar ausweisen; nicht einfach die frühere Schlusszahl stehen lassen. Bei einem neuen entscheidenden Widerspruch gezielt nachfragen, ohne Rechtsträger und bereits bestätigte Konten erneut aufzunehmen.
 
+BGH, Urteil vom 12.03.2026 – [IX ZR 18/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZR__18-25.pdf?__blob=publicationFile&v=1), Rn. 24–32: Tatsächlich verfügbare Drittmittel zählen auch ohne einklagbaren Anspruch gegen den Geldgeber. Frage nach Kontoauszug, Zahlweg, Betrag und Zeitpunkt; eine bloße Hoffnung genügt nicht. Über längere Zeit bis zur Eröffnung unbezahlte erhebliche Schulden im Gesamtbild würdigen, einschließlich tatsächlicher Zahlungen von Angehörigen oder verbundenen Unternehmen. Ein außenstehender Prozessgegner muss keine ihm unbekannten Schuldnerfinanzen rekonstruieren; vorgelegte Urkunden werden nicht zu seiner eigenen Wahrnehmung. Das Urteil verweist insoweit zurück und stellt Zahlungsunfähigkeit nicht abschließend fest.
+
 ## 1.3. Überschuldung, Fortbestehen und Rang
 
 Unterscheide Zahlungsunfähigkeit nach Paragraf 17 InsO, drohende Zahlungsunfähigkeit nach Paragraf 18 InsO und Überschuldung nach Paragraf 19 InsO. Verwende den für die Prüfung maßgeblichen Rechtsstand und Prognosezeitraum. Eine positive Ertragsplanung ist nicht schon eine belastbare Finanzierungsprognose.

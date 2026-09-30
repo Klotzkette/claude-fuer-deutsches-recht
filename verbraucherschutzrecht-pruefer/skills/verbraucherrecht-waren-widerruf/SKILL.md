@@ -31,3 +31,7 @@ BGB §§ 475b, 475c, 434, 437, 439; Kaufrecht. Der aktuelle Normtext, insbesonde
 3. Beweis sichern: Screenshot mit URL/Datum, Rechnung, Chat, E-Mail, Tracking, Produktfoto, Updatehistorie.
 4. Anspruchsziel wählen: Rücktritt, Minderung, Nacherfüllung, Widerruf, Unterlassung, Beschwerde, Schlichtung oder Klage.
 5. Textbaustein erstellen, der keine unnötigen Tatsachen zugibt und Fristen sauber setzt.
+
+## Erklärung und Mängelrechte auseinanderhalten
+
+Eine bereits versandte Anfechtungs- oder Widerrufserklärung nach Inhalt und erkennbarem Rückabwicklungsziel auslegen. [BGH, Urteil vom 11.02.2026 – VIII ZR 37/24](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2024/VIII_ZR__37-24.pdf?__blob=publicationFile&v=1), Rn. 31–39: Auch ein anwaltliches Schreiben kann zugleich einen Rücktritt erklären, wenn Kaufpreisrückzahlung und Rückgabeangebot aus Empfängersicht den unbedingten Lösungswillen zeigen. Das Wort „Rücktritt“ ist nicht zwingend. Nicht jedes erfolglose Widerrufsschreiben automatisch umdeuten: vollständigen Wortlaut und Empfängerhorizont prüfen. Mangel, Fristsetzung oder ihre Entbehrlichkeit und die weiteren Rücktrittsvoraussetzungen bleiben gesondert erforderlich; darüber entschied der BGH nicht abschließend. Die Entscheidung betraf einen Kauf von 2019, weshalb ihre Anwendung alten Kaufmängelrechts nicht auf heutige Verträge übertragen werden darf.

@@ -10,6 +10,10 @@ Erfasse Schuldner, Verfahrensart, Verfahrensstand, Stichtag, Ziel, verfügbare L
 
 Fehlt eine Finanzierungszusage oder weicht die Forderungsliste vom Stimmrechtsverzeichnis ab, frage nach dem konkreten Nachweis und dem maßgeblichen Stand. Nach Eingang aktualisiere betroffene Zahlungszeitpunkte, Quoten, Gruppenzuordnungen und Planformulierungen. Neue entscheidende Widersprüche kläre gezielt in einer weiteren Runde; frage bereits geklärte Beträge und Verfahrensdaten nicht erneut ab.
 
+BGH, Beschluss vom 23.04.2026 – [IX ZB 18/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZB__18-25.pdf?__blob=publicationFile&v=1), Rn. 10–23: Bei Insolvenzreife im anhängigen StaRUG-Verfahren Anzeige nach § 32 Absatz 3 und regelhafte Aufhebung nach § 33 Absatz 2 prüfen. Ausnahmen begründen gerichtliches Ermessen; eine unsichere Ein-Prozent-Quote oder ungesicherte freiwillige Drittmittel reichen nicht automatisch. Finanzierung, Zeitpunkt und überwiegende Wahrscheinlichkeit des Restrukturierungsziels konkret nachweisen. Keine Aussage zur Zulässigkeit der Gruppenbildung ableiten (Rn. 24). Schutzschirmzugang nach § 270d InsO nur ohne bereits eingetretene Zahlungsunfähigkeit.
+
+Während der Rechtshängigkeit ruht die Antragspflicht nach [§ 42 Absatz 1 StaRUG](https://www.gesetze-im-internet.de/starug/__42.html); stattdessen Eintritt der Insolvenzreife ohne schuldhaftes Zögern anzeigen. Bei Wirkungsverlust der Anzeige lebt sie nach Absatz 4 wieder auf. Verfahrensstand und Zeitpunkt belegen.
+
 ## 1.2 Planarchitektur prüfen
 
 Trenne darstellenden Teil, gestaltenden Teil und Anlagen. Erfasse für jede betroffene Rechtsposition Inhaber, Betrag, Rang, Sicherheit, geplanten Eingriff, Gruppe und wirtschaftliche Begründung der Zuordnung. Prüfe die rechtliche Gestaltbarkeit im gewählten Verfahren, bevor du einen Eingriff formulierst. Erfinde keine universelle Regel, nach der sämtliche Forderungen im StaRUG gekürzt werden könnten. Begründe Gleich- und Ungleichbehandlung anhand konkreter Interessen und Rechtsstellungen.

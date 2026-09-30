@@ -37,6 +37,10 @@ Bei vollmachtlos geschlossenem Vertrag Genehmigung nach BGB Paragraf 177 und der
 
 Nach Eingang der ausländischen Urkunde den bisherigen offenen Punkt nur schließen, wenn Person, konkrete Befugnis, Echtheitsnachweis und erforderliche Vorlageform zusammenpassen. Eine Apostille bestätigt keine ausreichende Vertretungsmacht.
 
+### 3.6. Sonderfall ausländisches Testament in Deutschland
+
+[BGH, Urteil vom 21.01.2026, IV ZR 40/25, Randnummern 9 bis 16, 21 sowie 27 bis 33](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2025/IV_ZR__40-25.pdf?__blob=publicationFile&v=1): Bei einem in Deutschland durch eine niederländische Notaranwärterin errichteten Testament bestimmt das über EuErbVO Artikel 75 vorrangige Haager Testamentsformübereinkommen das Formstatut. Das danach berufene niederländische Recht bestimmt auch die zivilrechtlichen Folgen einer Überschreitung der territorialen Amtsbefugnis; diese machte das Testament im entschiedenen Fall nicht unwirksam. Erblasserstaatsangehörigkeit, Errichtungsort, Formstatut, materielle Rechtswahl und ermitteltes ausländisches Recht getrennt begründen. Die Beweiskraft nach Artikel 59 knüpft hier an den ermächtigenden Staat an, nicht allein an den physischen Errichtungsort. Keine allgemeine Erlaubnis ausländischer Beurkundungen in Deutschland und keine Gleichwertigkeitsgarantie für Gesellschafts- oder Grundstücksurkunden ableiten; BNotO Paragraf 11a und die zivilrechtliche Testamentswirksamkeit bleiben getrennte Prüfungen.
+
 ## 4. Quellenpflicht
 
 [EU-Verordnung 2016/1191](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32016R1191), [Haager Apostille-Übereinkommen](https://www.hcch.net/de/instruments/conventions/full-text/?cid=41), aktuelle staatenbezogene amtliche Hinweise und [Zitierweise](../../references/zitierweise.md). Ohne überprüften Länderstand keine verbindliche Anerkennungszusage.

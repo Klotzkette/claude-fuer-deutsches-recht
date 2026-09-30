@@ -1,0 +1,26 @@
+[
+  {
+    "name": "starug",
+    "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZB__18-25.pdf?__blob=publicationFile&v=1",
+    "sha256": "30910b7f364d5ff5f9bc9621b1c3c1cb0515ad02a65268f7e997aaef8fedb88d",
+    "pages": 13,
+    "status": "downloaded",
+    "checked_on": "2026-09-30"
+  },
+  {
+    "name": "zahlungseinstellung",
+    "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZR__18-25.pdf?__blob=publicationFile&v=1",
+    "sha256": "36d5ba66edcf9e47caa22dd5b0ba152877dc60983a3f5a0403decf6381f23da1",
+    "pages": 20,
+    "status": "downloaded",
+    "checked_on": "2026-09-30"
+  },
+  {
+    "name": "diesel-signatur",
+    "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIa_ZS/2022/VIa_ZR_1559-22.pdf?__blob=publicationFile&v=1",
+    "sha256": "0d5129822ec2b6a43709f459bcb3d780171f74ba2b04b6242e715132aa827404",
+    "pages": 6,
+    "status": "downloaded",
+    "checked_on": "2026-09-30"
+  }
+]

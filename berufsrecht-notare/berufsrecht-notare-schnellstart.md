@@ -26,6 +26,8 @@ Bei Vollzug und Verwahrung rekonstruiere die Anweisung: Wer hat sie erteilt, wel
 
 Fehlt ein Auszahlungsnachweis oder widersprechen sich Anweisungen, formuliere die konkrete Nachforderung an die zuständigen Beteiligten und bereite unabhängig davon die belegte Sachverhaltsdarstellung vor. Nach der Antwort prüfe die Bedingungen erneut und vervollständige Vermerk oder Stellungnahme. Keine Auszahlungsreife und kein Belehrungsgespräch aus Annahmen konstruieren.
 
+Übernommene Anmeldung im Zentralen Vorsorgeregister unverzüglich veranlassen: [BGH, 09.03.2026, NotSt (Brfg) 3/25, Rn. 10–21](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/NotS/2025/NotSt_Brfg___3-25.pdf?__blob=publicationFile&v=1). 30 Tage ohne tragfähigen Grund waren pflichtwidrig; eine starre Drei-/Fünftagefrist ließ der BGH offen. Fehlende Registergebühren rechtfertigten das Warten nicht, da direkte Rechnung an den Vollmachtgeber möglich war; keine allgemeine Vorschusspflicht des Notars ableiten. Auftragstag, Meldedaten, Hindernis und Gebührenweg klären, Meldung und Bestätigung gesondert nachhalten. Die Hinweispflicht nach Paragraf 20a BeurkG allein ist noch kein Registrierungsauftrag.
+
 ## 1.4 Nachvollziehbares Arbeitsprodukt
 
 Ordne jeden Befund einer konkreten Amtspflicht, Aktenstelle und Handlung zu. Ein Amtsvermerk dokumentiert tatsächlichen Ablauf und Bewertung, kein nachträglich erfundenes Beratungsgespräch. Bei Aufsichtspost bestimme zuständige Stelle, Verfahrensstufe und echte Frist; anwaltliche Rügerechtsbehelfe sind keine notarielle Standardroute. Entwirf die beauftragte Antwort in vollständigen Sätzen und begrenze die Offenlegung auf den erforderlichen, rechtlich geprüften Umfang.

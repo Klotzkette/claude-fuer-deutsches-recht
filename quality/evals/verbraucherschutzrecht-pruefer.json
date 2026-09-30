@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "verbraucherschutzrecht-pruefer",
-  "reviewed_on": "2026-09-23",
+  "reviewed_on": "2026-09-30",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/bgb/__327o.html",
@@ -42,30 +42,40 @@
       "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62022CJ0565",
       "checked_on": "2026-09-23",
       "supports": "EuGH, Urteil vom 05.10.2023, C-565/22, Sofatutor, Rn. 43–50: Bei Probeabo mit transparent mitgeteiltem späteren Gesamtpreis und unveränderten Bedingungen grundsätzlich einmaliges Widerrufsrecht; bei fehlender transparenter Information nach Testphase neues Recht, sofern ein bindender Vertrag besteht. Grenze: Nationale Feststellung der Information erforderlich; keine Entscheidung über Paragraf 327r BGB, keine pauschale Wirksamkeit aller Verlängerungsklauseln; alte Richtlinienfassung im Ausgangsverfahren beachten. Amtlichen Entscheidungstext und entscheidende Gründe gelesen."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2024/VIII_ZR__37-24.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-30",
+      "supports": "Urteil 2026-02-11 – VIII ZR 37/24. Geprüft: Kopf/Leitsatz a und Rn. 25–40, Schwerpunkt 31–39. Anwaltlich erklärter Widerruf/Anfechtung kann nach erkennbarem Rückabwicklungsziel zugleich Rücktrittserklärung sein. Kein Automatismus; Empfängerhorizont zählt. Materielle Rücktrittsvoraussetzungen nicht abschließend beurteilt. Kauf2019/§434BGBaF nicht ungeprüft in heutiges Mängelrecht übertragen. Der weitere Komplex Wucher/Marktwert wurde nicht vertieft.",
+      "source_sha256": "bcaeded64a0357403b3ee1a68961354b9d403793d2c5818745085569114f228e"
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Am 23.09.2026 vollständig erneut gelesen und unter 7500 Bytes/Zeichen verdichtet: drei fachliche Einstiege sowie eine tatsächlich unveränderte Digitalversion verändern den konkreten Entwurf. Sofatutor, Paragraf 327r und die Widerrufsfunktion bleiben in ihren unterschiedlichen Anwendungsbereichen erhalten.",
+    "reason": "Am 23.09.2026 vollständig erneut gelesen und unter 7500 Bytes/Zeichen verdichtet: drei fachliche Einstiege sowie eine tatsächlich unveränderte Digitalversion verändern den konkreten Entwurf. Sofatutor, Paragraf 327r und die Widerrufsfunktion bleiben in ihren unterschiedlichen Anwendungsbereichen erhalten. Gezielte Ergänzung im zweiten Durchgang am 30.09.2026; keine erneute Vollprüfung aller Altanker.",
     "changes": [
       "Drei Startmodi und Prüfung einer nachgereichten unveränderten Digitalversion ergänzt; allgemeine Doppelabläufe zugunsten konkreter Fortsetzung gekürzt.",
       "Sofatutor C-565/22 mit Preisaufklärung, bindendem Vertrag, einmaligem beziehungsweise neuem Widerruf und ausdrücklicher Grenze zu Paragraf 327r in beide Prompts eingefügt.",
       "Paragraf 327r aktuell vollständig gelesen; Änderungsklausel von zusätzlichem Beendigungsrecht, späterem Fristbeginn und unveränderter Alternative unterschieden.",
-      "Paragraf 356a samt zweistufiger Funktion und Bestätigung vom Kündigungsbutton getrennt; aktuelle Paragraf-356-Absätze geprüft, Nachweisfortsetzung und vollständiger Erklärungsentwurf bewahrt."
+      "Paragraf 356a samt zweistufiger Funktion und Bestätigung vom Kündigungsbutton getrennt; aktuelle Paragraf-356-Absätze geprüft, Nachweisfortsetzung und vollständiger Erklärungsentwurf bewahrt.",
+      "Zweiter Durchgang 30.09.2026: Gescheiterten Widerruf und mögliche Rücktrittserklärung nach VIII ZR 37/24 fallbezogen getrennt."
     ],
-    "sha256": "cce19698522ac6bd4aa6bd51b2a4afacef4d6b4ee18e1eab92d425d36468afb1"
+    "sha256": "fb7944f878f9dc8d07f3b6827c027c5402846c3ee88ea476134fc9991fb80d42",
+    "reviewed_on": "2026-09-30"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Am 23.09.2026 vollständig erneut gelesen: Probeabofassung, Digitalfunktion, Gegenangebot und Verkäuferreaktion führen zu unterschiedlichen, vollständig beschriebenen Erklärungswegen. Vergangene und zukünftige Zahlungszeiträume sowie Ersatzklauseln werden konkret bearbeitet; sämtliche Spezialzweige und bisherigen Entscheidungsgrenzen erhalten.",
+    "reason": "Am 23.09.2026 vollständig erneut gelesen: Probeabofassung, Digitalfunktion, Gegenangebot und Verkäuferreaktion führen zu unterschiedlichen, vollständig beschriebenen Erklärungswegen. Vergangene und zukünftige Zahlungszeiträume sowie Ersatzklauseln werden konkret bearbeitet; sämtliche Spezialzweige und bisherigen Entscheidungsgrenzen erhalten. Gezielte Ergänzung im zweiten Durchgang am 30.09.2026; keine erneute Vollprüfung aller Altanker.",
     "changes": [
       "Bestellnachweis und Sofatutor-Anwendung bis zu Bestreiten, hilfsweiser Erklärung und bezifferter Rückforderung ausgearbeitet.",
       "Digitaländerung mit Gegenangebot, Fristkorrektur und zeitbezogenen Zahlungsfolgen sowie Kaufmangel mit Gegenbefund und Verkäuferreaktion ergänzt.",
       "Sofatutor C-565/22 mit Preisaufklärung, bindendem Vertrag, einmaligem beziehungsweise neuem Widerruf und ausdrücklicher Grenze zu Paragraf 327r in beide Prompts eingefügt.",
       "Paragraf 327r aktuell vollständig gelesen; Änderungsklausel von zusätzlichem Beendigungsrecht, späterem Fristbeginn und unveränderter Alternative unterschieden.",
-      "Paragraf 356a samt zweistufiger Funktion und Bestätigung vom Kündigungsbutton getrennt; aktuelle Paragraf-356-Absätze geprüft, Nachweisfortsetzung und vollständiger Erklärungsentwurf bewahrt."
+      "Paragraf 356a samt zweistufiger Funktion und Bestätigung vom Kündigungsbutton getrennt; aktuelle Paragraf-356-Absätze geprüft, Nachweisfortsetzung und vollständiger Erklärungsentwurf bewahrt.",
+      "Zweiter Durchgang 30.09.2026: Gescheiterten Widerruf und mögliche Rücktrittserklärung nach VIII ZR 37/24 fallbezogen getrennt."
     ],
-    "sha256": "440396bb387bd99695fa2932a2735ba2b9712f9e67a947eca9d3531a028f7cf2"
+    "sha256": "800886d2d2f7575db94146517772341d25685f1f83a707ad10237c4df6f96246",
+    "reviewed_on": "2026-09-30"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",

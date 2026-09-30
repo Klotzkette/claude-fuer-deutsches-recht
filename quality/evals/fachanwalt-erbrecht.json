@@ -62,6 +62,16 @@
       "url": "https://www.gesetze-im-internet.de/bgb/__1600d.html",
       "checked_on": "2026-09-22",
       "supports": "Aktuelle Rechtsausübungssperre in Absatz 5, nicht Absatz 4."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2025/IV_ZR__40-25.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-30",
+      "supports": "BGH, Urteil vom 21.01.2026 – IV ZR 40/25, Rn. 9–16, 21, 27–33: Testamentsformstatut nach vorrangigem Haager Übereinkommen entscheidet auch über Folgen territorial überschrittener Amtsbefugnis. Niederländisches Testament im konkreten Fall; keine allgemeine Erlaubnis ausländischer Notare zu Amtstätigkeit in Deutschland."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2026/IV_ZB___4-26.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-30",
+      "supports": "BGH, Beschluss vom 16.09.2026 – IV ZB 4/26, Rn. 5–12: Beschwer des Schuldners eines privaten Pflichtteilsauskunftstitels nach erforderlichem Zeit-/Kostenaufwand bestimmen. 600-Euro-Grenze im Fall nach Übergangsrecht; keine aktuelle Pauschalschwelle und keine allgemeine Bewertung notarieller Verzeichniskosten."
     }
   ],
   "mini_review": {
@@ -72,7 +82,7 @@
       "Bestandsmangel, Wertermittlung und Versicherung an Eides statt getrennt; sämtliche bisherigen Fachzweige und Fortsetzung erhalten.",
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
     ],
-    "sha256": "4ffdb85f5e12261332f972dc7d639584e77921a44776d08119cba13c7d76faef",
+    "sha256": "fe4f58907f76a6127acf47876a8b23a6a0724ea1cfd4f2c4a23532d674c4d046",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -211,7 +221,7 @@
       "IV ZR 88/24, IV ZR 93/24 und II B 68/25 mit konkretem Prüfauftrag und Grenzen wieder integriert; aktuelle Absatznummer 1600d Absatz 5 BGB korrigiert.",
       "Stichtagskonto und spätere Abflüsse, Verzeichnisergänzung gegenüber Wertfrage und Versicherung, Auslegung von Hauszuwendung, Teilungsliquidität sowie Ausschlagungskenntnis und Freigabe einer Auszahlung."
     ],
-    "sha256": "bfcbc736b371190e7e8a457c5eb8d17216f5cc72c4491b845be8109134eaf341",
+    "sha256": "abf8c058097d858b7633dcddd18c381c09edbe0f2fb41a2345ba10f2d877371e",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -254,6 +264,20 @@
         "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202610133/",
         "application": "Erhebliche Steuerwertabweichung kann bei wertabhängiger Erbquote weitere Verkehrswertermittlung trotz Erbschein und Abschichtung erfordern.",
         "limit": "Steuerwert ist Ermittlungsanlass, kein automatischer Ersatz des Verkehrswerts oder neue Quote; finanzgerichtliche Sachaufklärung."
+      },
+      {
+        "citation": "BGH, Urteil vom 21.01.2026 – IV ZR 40/25, Rn. 9–16, 21, 27–33",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2025/IV_ZR__40-25.pdf?__blob=publicationFile&v=1",
+        "checked_on": "2026-09-30",
+        "application": "Testamentsformstatut nach vorrangigem Haager Übereinkommen entscheidet auch über Folgen territorial überschrittener Amtsbefugnis.",
+        "limit": "Niederländisches Testament im konkreten Fall; keine allgemeine Erlaubnis ausländischer Notare zu Amtstätigkeit in Deutschland."
+      },
+      {
+        "citation": "BGH, Beschluss vom 16.09.2026 – IV ZB 4/26, Rn. 5–12",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2026/IV_ZB___4-26.pdf?__blob=publicationFile&v=1",
+        "checked_on": "2026-09-30",
+        "application": "Beschwer des Schuldners eines privaten Pflichtteilsauskunftstitels nach erforderlichem Zeit-/Kostenaufwand bestimmen.",
+        "limit": "600-Euro-Grenze im Fall nach Übergangsrecht; keine aktuelle Pauschalschwelle und keine allgemeine Bewertung notarieller Verzeichniskosten."
       }
     ],
     "remaining_limits": [
@@ -273,5 +297,18 @@
     "continuation": "Pflegevergütung wurde bereits bezahlt -> Zahlung und Nachlassschuld nicht doppelt abziehen; Pflichtteilsrechnung und Forderungstext ändern.",
     "enrichment": "Stichtagskonto und spätere Abflüsse, Verzeichnisergänzung gegenüber Wertfrage und Versicherung, Auslegung von Hauszuwendung, Teilungsliquidität sowie Ausschlagungskenntnis und Freigabe einer Auszahlung.",
     "limits": "desk review; no live client execution"
+  },
+  "source_audit_2026_09_30_zweiter_durchgang": {
+    "date": "2026-09-30",
+    "method": "targeted_primary_source_review",
+    "report": "quality/source-audits/2026-09-30-zweiter-durchgang/notariat-erbe-gesellschaft.md",
+    "scope": "Gezielte Prüfung der im Bericht bezeichneten neuen Entscheidungen und konkret berichtigten Normstellen; keine erneute Vollprüfung sämtlicher Skills, Altanker oder früherer Bewertungsbehauptungen. Bestehende Hashfelder bilden die aktuelle Datei ab; frühere Reviewdaten bleiben historische Prüfangaben. Kein Live-Modelltest.",
+    "files": [
+      "fachanwalt-erbrecht/fachanwalt-erbrecht-schnellstart.md",
+      "fachanwalt-erbrecht/fachanwalt-erbrecht-werkstatt.md",
+      "fachanwalt-erbrecht/skills/internationalen-erbfall-bearbeiten/SKILL.md",
+      "fachanwalt-erbrecht/skills/internationalen-erbfall-bearbeiten/references/statut-staaten.md",
+      "fachanwalt-erbrecht/skills/pflichtteil-auskunft-durchsetzen/references/stufenantraege-vollstreckung.md"
+    ]
   }
 }

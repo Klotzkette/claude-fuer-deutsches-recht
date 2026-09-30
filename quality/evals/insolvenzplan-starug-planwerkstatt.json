@@ -37,6 +37,16 @@
       "url": "https://www.gesetze-im-internet.de/starug/__25.html",
       "checked_on": "2026-09-23",
       "supports": "Erneut gelesener amtlicher Wortlaut: mindestens drei Viertel aller Stimmrechte der Gruppe beim Restrukturierungsplan, keine zusätzliche Kopfmehrheit."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZB__18-25.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-30",
+      "supports": "Für die bereits anhängige Restrukturierung gilt BGH, Beschluss vom 23.04.2026 – [IX ZB 18/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZB__18-25.pdf?__blob=publicationFile&v=1), Rn. 10–23: Nach Anzeige von Zahlungsunfähigkeit oder Überschuldung gemäß § 32 Absatz 3 StaRUG ist die Aufhebung nach § 33 Absatz 2 Satz 1 Nummer 1 StaRUG die Regel. Die Ausnahmen eröffnen gerichtliches Ermessen, keinen automatischen Fortsetzungsanspruch. Bloß fehlende Vorteile eines Insolvenzverfahrens oder eine unsichere Ein-Prozent-Quote beweisen kein offensichtliches Gläubigerinteresse gegen die Eröffnung. Beruht Insolvenzreife auf vorgezogener Fälligkeit einer planbetroffenen Forderung, muss das Restrukturierungsziel überwiegend wahrscheinlich erreichbar sein. Frage nach Stand, Betrag, Bedingungen und Absicherung nötiger Drittbeiträge und aktualisiere Route, Liquiditätsplan und Vermerk. Eine freiwillige, ungesicherte Zusage genügt hierfür nicht ohne weitere tragfähige Umstände. Die Gruppenbildung wurde ausdrücklich offengelassen (Rn. 24). Ein Schutzschirm nach § 270d InsO setzt beim Zugang fehlende Zahlungsunfähigkeit voraus."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/starug/__42.html",
+      "checked_on": "2026-09-30",
+      "supports": "Während Rechtshängigkeit ruhende Antragspflicht, unverzügliche Anzeige der Insolvenzreife und Wiederaufleben nach Wirkungsverlust."
     }
   ],
   "mini_review": {
@@ -46,9 +56,10 @@
       "IX ZB 13/16 führt zu Bonitäts-, Rang- und Wertnachweisen der Kompensation; Vorprüfung von späterem Minderheitenschutz getrennt.",
       "InsO-Kopf-/Summenmehrheit und StaRUG-Mehrheit mit Beispielen erhalten; keine automatische Gleichsetzung der Planregime.",
       "Vollständigen beauftragten Plan statt obligatorischer Folgeprodukte vorgesehen.",
-      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt."
+      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt.",
+      "Gezielter amtlicher Rechtsprechungsabgleich 30.09.2026: BGH, Beschluss vom 23.04.2026 – IX ZB 18/25, Rn. 10–24"
     ],
-    "sha256": "515d446962f7fe8cd16b7614c2a906fd3bd1719564fe34999dfc48fe0db43a73"
+    "sha256": "454f56f3f9c7e56d32999496697c0787dfce3f9ca1bd98039d7352393426d79f"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -57,9 +68,10 @@
       "IX ZB 13/16 führt zu Bonitäts-, Rang- und Wertnachweisen der Kompensation; Vorprüfung von späterem Minderheitenschutz getrennt.",
       "InsO-Kopf-/Summenmehrheit und StaRUG-Mehrheit mit Beispielen erhalten; keine automatische Gleichsetzung der Planregime.",
       "Vollständigen beauftragten Plan statt obligatorischer Folgeprodukte vorgesehen.",
-      "Neue Forderung mit Rang und Sicherungswert in Gruppen, Stimmrecht und Vergleich einordnen; bedingte Finanzierung, Verwertungsangebot, individueller Minderheitenschutz und planfassungsbezogene Stimmen nachvollziehbar verzweigen."
+      "Neue Forderung mit Rang und Sicherungswert in Gruppen, Stimmrecht und Vergleich einordnen; bedingte Finanzierung, Verwertungsangebot, individueller Minderheitenschutz und planfassungsbezogene Stimmen nachvollziehbar verzweigen.",
+      "Gezielter amtlicher Rechtsprechungsabgleich 30.09.2026: BGH, Beschluss vom 23.04.2026 – IX ZB 18/25, Rn. 10–24"
     ],
-    "sha256": "343b7cb12be370b0c079320d28bc8aacad766b8490208c30bf721dd9d789db71"
+    "sha256": "6b306fa79e6c41dba816e11c0fbe792654f3c6ac017a006e9841bd836b456065"
   },
   "selection": {
     "positive": [
@@ -124,13 +136,21 @@
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2016/IX_ZB__13-16.pdf?__blob=publicationFile&v=1",
         "application": "Bei versprochener Drittkompensation volle und sichere Deckung einer Schlechterstellung prüfen: Bürgenbonität, Grundschuldrang und Grundstückswert statt bloßer Nennbeträge.",
         "limit": "Altes InsO-Verfahren und Vorprüfung nach Paragraf 231 InsO; dort nur offensichtlicher, nahezu sicher erfolgreicher Minderheitenschutzangriff. Kein unmittelbarer StaRUG-Präzedenzfall."
+      },
+      {
+        "citation": "BGH, Beschluss vom 23.04.2026 – IX ZB 18/25, Rn. 10–24",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZB__18-25.pdf?__blob=publicationFile&v=1",
+        "checked_on": "2026-09-30",
+        "application": "Für die bereits anhängige Restrukturierung gilt BGH, Beschluss vom 23.04.2026 – [IX ZB 18/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZB__18-25.pdf?__blob=publicationFile&v=1), Rn. 10–23: Nach Anzeige von Zahlungsunfähigkeit oder Überschuldung gemäß § 32 Absatz 3 StaRUG ist die Aufhebung nach § 33 Absatz 2 Satz 1 Nummer 1 StaRUG die Regel. Die Ausnahmen eröffnen gerichtliches Ermessen, keinen automatischen Fortsetzungsanspruch. Bloß fehlende Vorteile eines Insolvenzverfahrens oder eine unsichere Ein-Prozent-Quote beweisen kein offensichtliches Gläubigerinteresse gegen die Eröffnung. Beruht Insolvenzreife auf vorgezogener Fälligkeit einer planbetroffenen Forderung, muss das Restrukturierungsziel überwiegend wahrscheinlich erreichbar sein. Frage nach Stand, Betrag, Bedingungen und Absicherung nötiger Drittbeiträge und aktualisiere Route, Liquiditätsplan und Vermerk. Eine freiwillige, ungesicherte Zusage genügt hierfür nicht ohne weitere tragfähige Umstände. Die Gruppenbildung wurde ausdrücklich offengelassen (Rn. 24). Ein Schutzschirm nach § 270d InsO setzt beim Zugang fehlende Zahlungsunfähigkeit voraus.",
+        "limit": "Gezielte Ergänzung; frühere Quellenprüfdaten bleiben erhalten. Keine abschließende Insolvenzfeststellung aus IX ZR 18/25 und keine Gruppenfreigabe aus IX ZB 18/25."
       }
     ],
     "remaining_limits": [
       "Redaktionelle Akten- und Quellenprüfung, kein Live-Client- oder Modelltest.",
       "Historischer InsO-Beschluss ist kein StaRUG-Präzedenzfall; aktuelle gruppenspezifische Eingriffsmöglichkeiten und sämtliche Plansteuerfolgen nicht vollständig neu verifiziert.",
       "Workflow-Ergänzung am 2026-09-23: individuelle Textprüfung, keine erneute Gesamtverifikation der bestehenden Entscheidungsanker; deren dokumentierte Quellen- und Zugriffsgrenzen bleiben bestehen."
-    ]
+    ],
+    "supplement_checked_on": "2026-09-30"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",

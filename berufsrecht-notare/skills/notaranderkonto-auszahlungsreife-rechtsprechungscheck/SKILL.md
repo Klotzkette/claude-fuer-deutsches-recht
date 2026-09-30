@@ -40,7 +40,7 @@ description: "Für Notaranderkonto Auszahlungsreife Rechtsprechungscheck: ordnet
 Konkret zu prüfen:
 
 - § 23 BNotO (Notaranderkonto)
-- § 54a BeurkG
+- §§ 57 bis 60 BeurkG (Verwahrung, Durchführung und Widerruf)
 - DONot § 11
 - § 23 BNotO
 - DONot § 12

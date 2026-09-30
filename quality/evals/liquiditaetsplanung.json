@@ -87,6 +87,11 @@
       "url": "https://www.gesetze-im-internet.de/inso/__39.html",
       "checked_on": "2026-09-28",
       "supports": "Aktuelle Normfassung § 39 InsO für getrennte Prüfung von Insolvenzgrund, Prognose, Frist und Nachrang."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZR__18-25.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-30",
+      "supports": "BGH, Urteil vom 12.03.2026 – [IX ZR 18/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZR__18-25.pdf?__blob=publicationFile&v=1), Rn. 24–32: Tatsächlich verfügbare Drittmittel zählen auch ohne einklagbaren Anspruch gegen den Geldgeber. Frage nach Kontoauszug, Zahlweg, Betrag und Zeitpunkt; eine bloße Hoffnung genügt nicht. Über längere Zeit bis zur Eröffnung unbezahlte erhebliche Schulden im Gesamtbild würdigen, einschließlich tatsächlicher Zahlungen von Angehörigen oder verbundenen Unternehmen. Ein außenstehender Prozessgegner muss keine ihm unbekannten Schuldnerfinanzen rekonstruieren; vorgelegte Urkunden werden nicht zu seiner eigenen Wahrnehmung. Das Urteil verweist insoweit zurück und stellt Zahlungsunfähigkeit nicht abschließend fest."
     }
   ],
   "mini_review": {
@@ -96,9 +101,10 @@
       "Alle fünf Kapitelzitate am amtlichen Volltext bestätigt; elf Entscheidungen mit Fundstelle, Reichweite, Original-PDF und SHA-256 dokumentiert.",
       "Zehnprozentregel, taggenaue Zeitfenster, getrennte AI/II/PI/II und eigenständige Indizienwürdigung statt automatischer Insolvenzampel.",
       "Rangrücktritt, Fortbestehensprognose mit Drittmitteln und eigenständigen Überschuldungsstatus differenziert; 12/24-Monatshorizonte abgegrenzt.",
-      "Vorhandene Rückfragen-/Beleg-/Fortschreibungslogik erhalten; OCR-Saldenkontrolle ergänzt."
+      "Vorhandene Rückfragen-/Beleg-/Fortschreibungslogik erhalten; OCR-Saldenkontrolle ergänzt.",
+      "Gezielter amtlicher Rechtsprechungsabgleich 30.09.2026: BGH, Urteil vom 12.03.2026 – IX ZR 18/25, Rn. 24–32, 36–38"
     ],
-    "sha256": "e6755398788d1fadd253133e77f15c5e94a1dcd6f955145c831fdd2d769a7d73"
+    "sha256": "8346fc277562405bdd422e7ab40c1447cba6474281dbee6d0a224c67a4502da9"
   },
   "selection": {
     "positive": [
@@ -247,9 +253,10 @@
       "Alle fünf Kapitelzitate am amtlichen Volltext bestätigt; elf Entscheidungen mit Fundstelle, Reichweite, Original-PDF und SHA-256 dokumentiert.",
       "Zehnprozentregel, taggenaue Zeitfenster, getrennte AI/II/PI/II und eigenständige Indizienwürdigung statt automatischer Insolvenzampel.",
       "Rangrücktritt, Fortbestehensprognose mit Drittmitteln und eigenständigen Überschuldungsstatus differenziert; 12/24-Monatshorizonte abgegrenzt.",
-      "Vorhandene Rückfragen-/Beleg-/Fortschreibungslogik erhalten; OCR-Saldenkontrolle ergänzt."
+      "Vorhandene Rückfragen-/Beleg-/Fortschreibungslogik erhalten; OCR-Saldenkontrolle ergänzt.",
+      "Gezielter amtlicher Rechtsprechungsabgleich 30.09.2026: BGH, Urteil vom 12.03.2026 – IX ZR 18/25, Rn. 24–32, 36–38"
     ],
-    "sha256": "c549d0eeb423f6f5c7fea397901f564dafa609f99b9d5ce05caee2b38a0a4dbd"
+    "sha256": "73c14a4e0c598860c56f15630dbfd8c1a0679686e6288dc48f20dae3c262f6cb"
   },
   "prompt_editorial_review": {
     "date": "2026-09-28",
@@ -330,13 +337,21 @@
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2004/IX_ZR_123-04.pdf?__blob=publicationFile&v=1",
         "application": "Dreiwochen-/Zehnprozentregel mit Ausnahmen in beide Richtungen. Amtlicher Volltext ohne Randnummern. Selbst 9,2 Prozent waren im konkreten Fall bei schlechten Zukunftsaussichten kein Schutz.",
         "limit": "Konkreten Tatsachen- und Verfahrenskontext sowie Normfassung beachten; siehe Entscheidungskarte."
+      },
+      {
+        "citation": "BGH, Urteil vom 12.03.2026 – IX ZR 18/25, Rn. 24–32, 36–38",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZR__18-25.pdf?__blob=publicationFile&v=1",
+        "checked_on": "2026-09-30",
+        "application": "BGH, Urteil vom 12.03.2026 – [IX ZR 18/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZR__18-25.pdf?__blob=publicationFile&v=1), Rn. 24–32: Tatsächlich verfügbare Drittmittel zählen auch ohne einklagbaren Anspruch gegen den Geldgeber. Frage nach Kontoauszug, Zahlweg, Betrag und Zeitpunkt; eine bloße Hoffnung genügt nicht. Über längere Zeit bis zur Eröffnung unbezahlte erhebliche Schulden im Gesamtbild würdigen, einschließlich tatsächlicher Zahlungen von Angehörigen oder verbundenen Unternehmen. Ein außenstehender Prozessgegner muss keine ihm unbekannten Schuldnerfinanzen rekonstruieren; vorgelegte Urkunden werden nicht zu seiner eigenen Wahrnehmung. Das Urteil verweist insoweit zurück und stellt Zahlungsunfähigkeit nicht abschließend fest.",
+        "limit": "Gezielte Ergänzung; frühere Quellenprüfdaten bleiben erhalten. Keine abschließende Insolvenzfeststellung aus IX ZR 18/25 und keine Gruppenfreigabe aus IX ZB 18/25."
       }
     ],
     "remaining_limits": [
       "Die redaktionelle Profilprüfung ist kein statistischer Modellbenchmark und keine Mandatsentscheidung.",
       "Keine neue Volltextprüfung lizenzpflichtiger IDW-Standards oder Literatur. Keine Verbindung mit echten Bankkonten.",
       "Getrennte tatsächlich ausgeführte Rechen-, Browser-, Tabellen- und Praxistests sind im ergänzenden Prüfbericht dokumentiert."
-    ]
+    ],
+    "supplement_checked_on": "2026-09-30"
   },
   "prompt_workflow_review": {
     "date": "2026-09-28",

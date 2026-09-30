@@ -1,0 +1,241 @@
+{
+  "checked_at": "2026-09-30",
+  "scope": "Technische Konsistenz und bestehende Regressionstests; keine materiell-rechtliche Gesamtfreigabe oder Live-Modelltests.",
+  "generators": [
+    {
+      "command": "python3 scripts/generate-werkstatt-und-schnellstart-prompts.py",
+      "exit_code": 0,
+      "seconds": 0.29,
+      "output_sha256": "3a2986a675eadebc7655b01e7bfa5dcfb4566a31e0835a56326297269ee0edcd",
+      "output_tail": "gkeitenrecht, parteienrecht-parteiorganisation, patentrecherche, patentrecht, pflegerecht-sgb-xi, phishing-vorfall-pruefer, preussisches-allgemeines-landrecht-pralr, private-equity-praxis, produktrecht, prozessrecht, pruefungsrecht-hochschule, rechtsberatungsstelle, rechtstheorie-rechtsphilosophie, regulatorisches-recht, relationstechnik-zivilrecht, rentenpruefer, richter-amtsgericht-handelsregister, richter-amtsgericht-insolvenz-restrukturierung, richter-amtsgericht-straf, richter-amtsgericht-zivil, richter-arbeitsgericht, richter-bverfg-verfassungsbeschwerden, richter-familiengericht, richter-finanzgericht, richter-landgericht-strafkammer, richter-landgericht-zivilkammer, richter-sozialgericht, richter-verwaltungsgericht, robotik-recht, roemisch-katholisches-kirchenrecht, roemisches-recht, schadensregulierung, schoeffen-handelsrichter-praxis, schriftform-und-textform-bgb, schriftsatz-versandwerkstatt, schulrecht-laender, seerecht-schifffahrtsrecht, selbstvertreter-amtsgericht, selbstvertreter-sozialgericht, softwarerecht-de-eu-us, solo-selbststaendige-praxis, sozialversicherungspflicht-pruefer, sozialversicherungsstatus-pruefer, staatsanwaltschaft-amtsanwaltschaft, staatsanwaltschaft-praxis-einstieg, startup-gruender, startup-hr-personalabteilung-berlin, status-navigator-step-plan, steuerrecht-anwalt-und-berater, strafanzeige-vorbereiter, strafbefehl-verteidiger, strafzumessung, strassennutzung-genehmigungen, strassenrecht-infrastruktur, strassenverkehrsrecht-stvo, subsumtions-pruefer, tabellenreview-3d, telekommunikationsrecht, tierschutzrecht, umweltrecht, umweltschutzverband-verbandsklage, urheberrecht-de-eu, urteilsbauer-relationsmacher, us-bankruptcy-code, us-copyright-registrierung-verlag, venture-capital-geber, verbraucher-rechtsstaat-alltag, verbraucherinsolvenz-schuldenbereinigung, verbraucherschutzrecht-pruefer, verbraucherschutzverband-durchsetzung, vereinsrecht-vereinsmanager, verfassungsrecht, vergesellschaftung-artikel-15, verhaeltnismaessigkeitspruefer, verkehr-infrastrukturrecht, verkehrsowi-verteidiger, verlagsrecht-buchpreisbindung, verlagsredaktion, versammlungsrecht, versicherungsrecht, vertragsausfueller, vertragserstellung, vertragsrecht, wahlkampfrecht-praxis, wandeldarlehen-lebenszyklus, weg-hausverwaltung, weltraumrecht, wirtschaftsanwalt, word-legal-ai-plugin-and-skill-for-german-lawyers, zitierweise-deutsches-recht, zugewinnausgleich, zwangsverwaltung-zvg, zwangsvollstreckung\ngeschrieben: 0, uebersprungen: 256, Probleme: keine\n"
+    },
+    {
+      "command": "python3 scripts/generate-megaprompt.py",
+      "exit_code": 0,
+      "seconds": 1.07,
+      "output_sha256": "363c46738a340751f896bd4c1d5cf6e843026774e5a8521b9ff2de90359418f3",
+      "output_tail": "Vollprüfungen erstellt: 249 | übersprungen: 7\n"
+    },
+    {
+      "command": "python3 scripts/generate-skills-md.py",
+      "exit_code": 0,
+      "seconds": 25.65,
+      "output_sha256": "4ccedff11c4a1950023e0bc8fcdbf55beb6d36ce607179aa145384536e38d9bd",
+      "output_tail": "SKILLS.md: 156195 Zeichen (256 Plugins). skills-index/: 256 Detailseiten + Index. Insgesamt 22544 Skills, Stand v445.19.1.\n"
+    },
+    {
+      "command": "python3 scripts/generate-skills-overview.py",
+      "exit_code": 0,
+      "seconds": 26.19,
+      "output_sha256": "30b39d198e7c64931261ca9b1d1c1f44adf7ddcf5543a497aa90fc2dcf96a024",
+      "output_tail": "  UPD  fachanwalt-vergaberecht\n  UPD  richter-verwaltungsgericht\n\nFertig: 2/256 READMEs aktualisiert.\n"
+    },
+    {
+      "command": "python3 scripts/inject-skills-logic-navigation.py",
+      "exit_code": 0,
+      "seconds": 0.39,
+      "output_sha256": "04a9f85b1a8ce55becea0bfc6f1305d74ce8e7be62244e2d325a153a981dddac",
+      "output_tail": "Fertig: 0/256 READMEs mit Arbeitslogik-Navigation aktualisiert.\n"
+    },
+    {
+      "command": "python3 scripts/generate-werkstatt-und-schnellstart-coverage.py",
+      "exit_code": 0,
+      "seconds": 1.93,
+      "output_sha256": "c8b276ed9f5e99bd5a62e41f034412fe992b2144cbb77636f30d4af56ab5cafb",
+      "output_tail": "Coverage geschrieben: 256/256 Plugins\n"
+    },
+    {
+      "command": "python3 scripts/generate-schwerpunkte.py",
+      "exit_code": 0,
+      "seconds": 0.05,
+      "output_sha256": "8ebc3cc88766b0d73da6a877cc3ca4d3ba47608ec166cb2c148367bfea5500ca",
+      "output_tail": "Schwerpunkt-Verzeichnis aktualisiert; Fachinhalte unverändert.\n"
+    }
+  ],
+  "checks": [
+    {
+      "command": "git diff --check",
+      "exit_code": 0,
+      "seconds": 0.09,
+      "output_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "output_tail": ""
+    },
+    {
+      "command": "node scripts/test-liquiditaetsplanung-rechenlogik.mjs",
+      "exit_code": 0,
+      "seconds": 0.12,
+      "output_sha256": "562e1967afa0cefdf765f5fa425667f4df6577a62fe2f733e9b94ac94b2d8ee7",
+      "output_tail": "OK fehlende Angaben ergeben keine Freigabe\nOK belegter Nullbetrag bleibt Null; Nenner null ist nicht anwendbar\nOK Zufluss in erstem Siebentageabschnitt wird berücksichtigt\nOK Zahlung auf Altschuld wird nicht nochmals Passiva II\nOK nicht eingeplante fällige Schuld bleibt im Status\nOK neue Fälligkeiten und Eingang in dritter Periode werden symmetrisch erfasst\nOK 5-Prozent-Lücke führt nicht zu automatischer Entwarnung\nOK ein einziges Indiz erhält dieselbe offene Gesamtwürdigung wie mehrere\nOK ungültige und negative Eingaben werden offengelegt\nOK späterer Zufluss verdeckt negativen früheren Wochenbestand nicht\nOK unbestätigter Altdatenimport darf keine geprüfte Statusrechnung vortäuschen\n11 Verhaltenstests bestanden.\n"
+    },
+    {
+      "command": "node scripts/validate-marketplace-import.mjs",
+      "exit_code": 0,
+      "seconds": 2.74,
+      "output_sha256": "dc880ce328bee24c55d4e1c1caacb6acd1f19be1f88f587c1daf105923329b3f",
+      "output_tail": "Marketplace-Importprüfung: 256 Plugins, 22544 Skills, 256 README-Dateien\nOK\n"
+    },
+    {
+      "command": "node scripts/validate-plugin-structure.mjs",
+      "exit_code": 0,
+      "seconds": 6.49,
+      "output_sha256": "ec638a559d61b57bf9e1af9fd4a127987fa60739a294161efc2780f8864cf714",
+      "output_tail": "validate-plugin-structure OK\n"
+    },
+    {
+      "command": "python3 scripts/audit-generated-prompt-hygiene.py",
+      "exit_code": 0,
+      "seconds": 1.13,
+      "output_sha256": "5051a399997979bb9f1599435c1064567dd53a82d69a9bb2526d59a4b0732ca8",
+      "output_tail": "audit-generated-prompt-hygiene OK (542 Prompt-Dateien)\n"
+    },
+    {
+      "command": "python3 scripts/audit-prompt-profile-routing.py",
+      "exit_code": 0,
+      "seconds": 6.42,
+      "output_sha256": "95bdb0699dafe65b055d0134b2c99cbb3b46672f0b1c65aa50c88b348214aaff",
+      "output_tail": "audit-prompt-profile-routing OK (256 Plugins, 520 Prompts; agrar=1, aktg_hv=1, anwaltschaft-generell=1, apotheke=1, arbeits=3, ausbildung=5, bank=2, barrierefreiheit=1, bau=3, bauplanung=1, bauwirtschaft=1, bav=1, beamten=1, behoerdenklartext=1, berufsrecht=8, betreuung=1, bgb=4, bildung=3, commercial_court=1, commonlaw=1, corporate-contract-law=1, cybersicherheit=1, datenbank=1, datenschutz=2, denkmalschutz=1, design=1, dienst=1, digitalplattform=1, dokumentenworkflow=6, ecommerce=1, ehrenamtliche_richter=1, einigungsvertrag=1, energie=1, erbrecht=1, eu_prozess=1, eu_recht=1, fahrgast=1, famil=2, finanzgericht=1, fluggast=1, foerderantrag=1, forderung=2, forschungszulage=1, gebrauchsmuster=1, geldwaesche=1, gesellschaft=10, gewerblicher_rechtsschutz=3, goae=1, grundsteuerrecht=1, handelsrecht=2, haushalt=1, hinweisgeber=1, hoai=1, hr=1, immobilien=3, influencer=1, informationszugang=1, insolvenz=5, international=2, investigations=1, it=2, juristische-praesentationen=1, justiz_zivil=4, jveg=1, kanzleibetrieb=4, kapitalmarkt=1, kartell=1, kirchenrecht=1, kommunal=1, krankenhaus=1, liquiditaet=1, lizenz=1, lobbyregister=1, luftrecht=1, ma_finanzierung=6, marke=1, medizin=1, methodik=6, miet=2, migration=1, nachbar=1, nkr=1, normsetzung=1, notariat=1, owi_praxis=1, parteienrecht=1, patent=2, phishing=1, pralr=1, presse=2, produkt=3, rechtsgeschichte=1, regulierung=2, renten=1, reporting=1, roemisch=1, sanierung=4, schadensregulierung=1, selbststaendige=1, sozial=5, sozialstatus=1, sport=1, steuer=1, straf=5, strafjustiz=6, strassennutzung-genehmigungen=1, strassenrecht=1, stvo=1, technikregulierung=4, telekom=1, tierschutz=1, transport_handel=4, umweltplanung=2, umweltverband=1, urheber=2, us_copyright=1, us_insolvency=1, verbraucher=4, verein=1, verfass=7, vergabe=1, verkehr=1, verlag=1, versammlung=1, versicherung=3, vertragserstellung=1, vertragsgestaltung=6, verwaltung=2, verwaltungsgericht=1, vollstreckung=1, weg=1, wehr=1, weltraum=1, wirtschaftsanwalt=1, wirtschaftsverwaltung=1, zeugnis=3, zivilprozess=4, zugewinnausgleich=1, zwangsverwaltung=1)\n"
+    },
+    {
+      "command": "python3 scripts/audit-quickstart-usability.py",
+      "exit_code": 0,
+      "seconds": 0.28,
+      "output_sha256": "482cd9687e9a8582cd8cb982db2e5e7d0cee9a8c9f2f1f58821192b31cb3ac49",
+      "output_tail": "audit-quickstart-usability OK (255 Schnellstarts; Strukturprüfung, kein Modelltest)\n"
+    },
+    {
+      "command": "python3 scripts/quality-lab.py audit --require-editorial --require-workflow",
+      "exit_code": 0,
+      "seconds": 0.34,
+      "output_sha256": "423d68b9dc9a29d3f539409ef5e8efbdca43d9d6812165cce6329eea35a9f9ff",
+      "output_tail": "256 Pluginprofile vollständig; Ergebnisbewertung separat, noch kein Modell-Pass.\n"
+    },
+    {
+      "command": "python3 scripts/test-generate-megaprompt.py",
+      "exit_code": 0,
+      "seconds": 0.02,
+      "output_sha256": "30359651e7607ab27790bd5b8f702f7f29eb6a126cfd5f080efb6cc00097a8e4",
+      "output_tail": "test-generate-megaprompt OK\n"
+    },
+    {
+      "command": "python3 scripts/test-notariatswerkstatt.py",
+      "exit_code": 0,
+      "seconds": 6.74,
+      "output_sha256": "fd7a0a8eb3206303627fd6059050be625d8cbc802b2438988eb4313f009bef71",
+      "output_tail": "............\n----------------------------------------------------------------------\nRan 12 tests in 6.576s\n\nOK\n"
+    },
+    {
+      "command": "python3 scripts/test-prompt-generator-excerpts.py",
+      "exit_code": 0,
+      "seconds": 0.08,
+      "output_sha256": "2205485a1265c499fb0d78eaf8a34848a106fd2ea0b8034542483273d3ec72a0",
+      "output_tail": "test-prompt-generator-excerpts OK\n"
+    },
+    {
+      "command": "python3 scripts/test-prompt-workflow-preservation.py",
+      "exit_code": 0,
+      "seconds": 2.63,
+      "output_sha256": "05fdfbc408be70d91ee896fabd189c4882db43c9ef63f550b241d87a110dc4e3",
+      "output_tail": "...................................\n----------------------------------------------------------------------\nRan 35 tests in 2.528s\n\nOK\nHandkuratiert, uebersprungen: fachgebiet\ngeschrieben: 0, uebersprungen: 1, Probleme: keine\nProbleme:\n- fachgebiet: Schnellstart 7401 Bytes\nProbleme:\n- fachgebiet: Werkstatt 1048577 Bytes\n"
+    },
+    {
+      "command": "python3 scripts/validate-current-law-sentinels.py",
+      "exit_code": 0,
+      "seconds": 50.16,
+      "output_sha256": "56047301923eb8dcd099837554c79502963c6d7a79f7671e0b30fc941488ebc2",
+      "output_tail": "validate-current-law-sentinels OK (26698 Markdown-Dateien, 220 Sperrmuster)\n"
+    },
+    {
+      "command": "python3 scripts/validate-markdown-structure.py",
+      "exit_code": 0,
+      "seconds": 5.69,
+      "output_sha256": "4e75d7787d5db95da91dda449f04ee86802d43373c55978d4ee37a3fca7811bf",
+      "output_tail": "validate-markdown-structure OK (26698 Dateien)\n"
+    },
+    {
+      "command": "python3 scripts/validate-readme-navigation.py",
+      "exit_code": 0,
+      "seconds": 99.63,
+      "output_sha256": "d3282c71aa178d39db9d015bb4aafe92783bc32195f87e71d17c7f3d9a928f47",
+      "output_tail": "validate-readme-navigation OK (256 Plugins, 22544 Skills, 387 Aktenseiten, 21802 lokale Links, 1631 Anker, 108131 echte Markdown-Downloads)\n"
+    },
+    {
+      "command": "python3 scripts/validate-runtime-performance.py",
+      "exit_code": 0,
+      "seconds": 3.87,
+      "output_sha256": "f1de7910cf6506b0f0e22928029b12d3f91366ad06b6f111fa4acbfff05bcefd",
+      "output_tail": "Größte Plugin-Routingbudgets:\n  datenschutzrecht: 285 Skills, 47394 Beschreibungszeichen, längster Skill 439 Zeilen\n  roemisches-recht: 281 Skills, 46835 Beschreibungszeichen, längster Skill 119 Zeilen\n  steuerrecht-anwalt-und-berater: 238 Skills, 46017 Beschreibungszeichen, längster Skill 321 Zeilen\n  legistik-werkstatt: 254 Skills, 45928 Beschreibungszeichen, längster Skill 269 Zeilen\n  agb-recht-pruefer: 273 Skills, 42896 Beschreibungszeichen, längster Skill 122 Zeilen\n  fachanwalt-miet-wohnungseigentumsrecht: 253 Skills, 42086 Beschreibungszeichen, längster Skill 304 Zeilen\n  fachanwalt-strafrecht: 243 Skills, 38205 Beschreibungszeichen, längster Skill 305 Zeilen\n  grosskanzlei-corporate-ma: 229 Skills, 37881 Beschreibungszeichen, längster Skill 270 Zeilen\n  robotik-recht: 213 Skills, 36858 Beschreibungszeichen, längster Skill 124 Zeilen\n  haushaltsrecht-bho-bund-laender: 262 Skills, 36378 Beschreibungszeichen, längster Skill 115 Zeilen\nGesamt: 22544 Skills, 3543873 Beschreibungszeichen\nvalidate-runtime-performance: OK\n"
+    },
+    {
+      "command": "python3 scripts/validate-testakten-gesamt-pdf.py",
+      "exit_code": 0,
+      "seconds": 107.17,
+      "output_sha256": "bb8f932f08be73a4f31c7ef5c0540e80fc2d1b61ddd184cfdf49c6c6c4877bed",
+      "output_tail": "validate-testakten-gesamt-pdf OK (385 Testakten)\n"
+    },
+    {
+      "command": "python3 scripts/validate-yaml-frontmatter.py",
+      "exit_code": 0,
+      "seconds": 1.26,
+      "output_sha256": "3ffb841ccfa3e966b90fef0027bdc153ce57846ffb07b18a2a2c0b7f7c7a73e2",
+      "output_tail": "validate-yaml-frontmatter: 0 Fehler, 0 Warnungen\nOK\n"
+    }
+  ],
+  "passed": true,
+  "final_checks_after_source_freeze": [
+    {
+      "command": "python3 scripts/validate-release-zips.py /tmp/rechtsanker-zweiter-durchgang/packages /tmp/rechtsanker-zweiter-durchgang/packages/marketplace.json",
+      "exit_code": 0,
+      "seconds": 0.2,
+      "output_sha256": "49f23babb9d0de12b419b92a0c8c2fc4735f1774aa732f4bb81ec3f59c3c1cfc",
+      "output_tail": "validate-release-zips OK (256 plugin ZIPs)\n"
+    },
+    {
+      "command": "python3 scripts/quality-lab.py audit --require-editorial --require-workflow",
+      "exit_code": 0,
+      "seconds": 0.29,
+      "output_sha256": "423d68b9dc9a29d3f539409ef5e8efbdca43d9d6812165cce6329eea35a9f9ff",
+      "output_tail": "256 Pluginprofile vollständig; Ergebnisbewertung separat, noch kein Modell-Pass.\n"
+    },
+    {
+      "command": "python3 scripts/validate-yaml-frontmatter.py",
+      "exit_code": 0,
+      "seconds": 1.24,
+      "output_sha256": "3ffb841ccfa3e966b90fef0027bdc153ce57846ffb07b18a2a2c0b7f7c7a73e2",
+      "output_tail": "validate-yaml-frontmatter: 0 Fehler, 0 Warnungen\nOK\n"
+    },
+    {
+      "command": "git diff --check",
+      "exit_code": 0,
+      "seconds": 0.09,
+      "output_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "output_tail": ""
+    },
+    {
+      "command": "python3 scripts/validate-prompt-packaging.py /tmp/rechtsanker-zweiter-durchgang/packages /tmp/rechtsanker-zweiter-durchgang/packages/marketplace.json",
+      "exit_code": 0,
+      "seconds": 1.97,
+      "output_sha256": "e5751d83e0cf89b86ed44335551ec9f914f676e50034ef0fa0c879fa92d0bb46",
+      "output_tail": "validate-prompt-packaging OK (256 Plugins, keine Hilfsprompts in ZIPs)\n"
+    },
+    {
+      "command": "python3 scripts/validate-markdown-structure.py",
+      "exit_code": 0,
+      "seconds": 4.56,
+      "output_sha256": "df04013c9eff4db03a3e94c4616166721d7257941af90ff587fa4d804eb7dce0",
+      "output_tail": "validate-markdown-structure OK (26700 Dateien)\n"
+    },
+    {
+      "command": "python3 scripts/test-notariatswerkstatt.py",
+      "exit_code": 0,
+      "seconds": 4.95,
+      "output_sha256": "29c84238263603e45694c9eaec6d518e08f715cfe131f2d7674216789e9eecec",
+      "output_tail": "............\n----------------------------------------------------------------------\nRan 12 tests in 4.831s\n\nOK\n"
+    }
+  ],
+  "packaging_build": {
+    "plugin_count": 256,
+    "scope": "Lokale Plugin- und Markdown-ZIPs aus eingefrorenem Worktree; keine Veröffentlichung.",
+    "plugin_zip_recipe": ".github/workflows/release-plugin-zips.yml, ZIP-Schritt",
+    "markdown_builder": "scripts/build-skills-markdown-bundles.py"
+  }
+}

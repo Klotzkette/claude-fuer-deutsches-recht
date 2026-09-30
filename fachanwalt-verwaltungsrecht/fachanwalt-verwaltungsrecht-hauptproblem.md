@@ -24,6 +24,8 @@ Prüfen Sie Erstattungsfestsetzung und Zinsen separat: Kapital, Beginn der Unwir
 
 BVerwG, Urteil vom 25. Mai 2022, 8 C 11.21, [Randnummern 13 bis 21](https://www.bverwg.de/de/250522U8C11.21.0): Verlangten Bescheid und einbezogene Richtlinie nur bereitgestellte Ausbildungsplätze, rechtfertigte fehlende Teilnahme keinen Zweckwiderruf nach Paragraf 49 Absatz 3 Satz 1 Nummer 1 VwVfG. Abweichende Förderpraxis änderte den Zweck nicht. Prüfen Sie deshalb die konkrete Klausel, statt Teilnehmerzahlen allein gegen die Förderung zu rechnen.
 
+Eine Mitteilung „Teilwiderruf beabsichtigt“ ist noch keine ordnungsgemäße Anhörung, wenn sie keine erkennbare Gelegenheit zur Stellungnahme eröffnet (BVerwG 8 C 11.21, Randnummern 19–20). Prüfe daher Inhalt, Äußerungsfrist und Antwort des damaligen Schreibens; allein seine Überschrift oder ein übermittelter Prüfvermerk entscheidet den Fristbeginn nicht.
+
 Für Paragraf 49 Absatz 3 Satz 2 in Verbindung mit Paragraf 48 Absatz 4 VwVfG unterscheidet das Urteil Kenntnis je Widerrufsgrund für den gesamten Bescheid von einzelnen Rechnungsständen. Regelmäßig zählen Anhörungsantwort oder Ablauf der Äußerungsfrist, bei dadurch veranlasster weiterer Aufklärung deren Abschluss und gegebenenfalls erneute Anhörung; der Versand setzt die Frist noch nicht in Gang. Dort fehlte der Widerrufsgrund, nicht bloß die Rechtzeitigkeit. Das Urteil betrifft wortgleiches Landesrecht Mecklenburg-Vorpommerns; andere Zweckklauseln und Sonderregeln gesondert prüfen. Aktuelle Normfassungen amtlich verifizieren; keine erfundenen Fundstellen.
 
 ## 5. Ergebnis und Grenzen

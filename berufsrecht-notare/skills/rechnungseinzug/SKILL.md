@@ -14,7 +14,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 13 BeurkG` — Vorlesen, Genehmigen, Unterschreiben.
 - `§ 40 BeurkG` — Beglaubigung einer Unterschrift.
 - `§ 53 BeurkG` — Vollzugspflichten.
-- `§ 54a BeurkG` — Verwahrung und Auszahlung.
+- `§ 57 BeurkG` — Antrag, Sicherungsinteresse und Verwahrungsanweisung.
 - `§ 130a ZPO` — elektronische Dokumente als Schnittstelle.
 - `§ 29 Abs. 1 GBO` — grundbuchtaugliche Form.
 - `§ 12 HGB` — Registereinreichung.
@@ -58,3 +58,7 @@ Konkret zu prüfen:
 - § 14 BNotO (Amtspflichten)
 - § 17 BeurkG (Belehrungspflicht)
 - § 95 BNotO (Disziplinarmaßnahmen)
+
+## 1. Vorsorgeregisterauftrag und ausstehende Gebühren
+
+[BGH, Beschluss vom 09.03.2026, NotSt (Brfg) 3/25, Randnummern 10 bis 21](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/NotS/2025/NotSt_Brfg___3-25.pdf?__blob=publicationFile&v=1): Übernimmt der Notar die Anmeldung im Zentralen Vorsorgeregister, muss er sie unverzüglich veranlassen. 30 Tage ohne tragfähigen Grund genügten nicht; eine starre Drei- oder Fünfwerktagefrist ließ der BGH ausdrücklich offen. Ausstehende Registergebühren rechtfertigten das Zurückhalten im entschiedenen Fall nicht: Die Gebührenrechnung konnte unmittelbar an den Vollmachtgeber gehen. Eine Pflicht des Notars, selbst vorzuschießen, folgt daraus nicht. Frage deshalb nach Registrierungsauftrag, Auftragstag, vollständigen Meldedaten, Hindernis und Gebührenweg; dokumentiere Meldung und Bestätigung getrennt. Fehlenden Vorschuss nicht als automatische Vollzugssperre führen. Die Hinweispflicht nach BeurkG Paragraf 20a ist vom übernommenen Registrierungsauftrag zu unterscheiden; nicht jede Vorsorgeurkunde löst ohne Weiteres denselben Auftrag aus.

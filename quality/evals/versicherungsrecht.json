@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "versicherungsrecht",
-  "reviewed_on": "2026-09-23",
+  "reviewed_on": "2026-09-30",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/vvg_2008/__14.html",
@@ -42,28 +42,44 @@
       "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32016R0679",
       "checked_on": "2026-09-22",
       "supports": "Artikel 9 Absatz 1 und Absatz 2 Buchstaben a und f amtlich gelesen: Gesundheitsdatenverbot und konkrete Ausnahmen durch ausdrückliche Einwilligung oder erforderliche Anspruchsverfolgung/-abwehr. Keine unbeschränkte Beschaffungserlaubnis und kein Ersatz der Schweigepflichtprüfung."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2025/IV_ZR_235-25.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-30",
+      "supports": "Urteil 2026-09-09 – IV ZR 235/25. Geprüft: Leitsatz, Rn. 1–16 (gesamter Entscheidungsinhalt). Kasko-Reparaturkosten nach A.2.6.2 AKB: Werkstattrisiko regelmäßig beim Versicherungsnehmer; objektiv unnötige oder nicht erbrachte Leistungen nicht gedeckt. Ausnahme bei Versichererweisung/Partnerwerkstatt nicht abschließend entschieden. Haftpflichtgrundsätze nicht pauschal übertragen.",
+      "source_sha256": "40dc5da17090d4d38c0e6bd0caf3830de8659bde7a917f8fcaa36b934dfd1c0e"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2025/IV_ZR__41-25.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-30",
+      "supports": "Beschluss 2026-01-28 – IV ZR 41/25. Geprüft: Entscheidungskopf; Rn. 7–20, insbesondere 10–18 und 20. Unbekannte PKV-Kalkulationsgrundlagen grundsätzlich mit Nichtwissen bestreitbar; Versicherer beweist erhöhte Prämie, auch bei Rückforderung. Andere Lastverteilung für zusätzliche Beitragslimitierung nach §155 Abs.2 VAG. Nach Sachverständigenbeweis können konkrete Einwendungen erforderlich sein. Gehörsbedingte Zurückverweisung, keine abschließende Gesamtunwirksamkeit sämtlicher Beiträge.",
+      "source_sha256": "5eda64b3c356589336a5a05ce87a4aa2c189d40b1f3a5802897b6044763433ae"
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Am 23.09.2026 vollständig individuell nachgelesen: fachliche Einstiege für leere Eingabe, Dateien und klaren Auftrag ergänzt; konkrete Beweisverlustfrage führt zur geänderten Erwiderung. Police, Belehrungslayout, Kausalität und Restforderung samt begrenztem BGH-Anker erhalten. Desk-Review, kein Live-Modelltest.",
+    "reason": "Am 23.09.2026 vollständig individuell nachgelesen: fachliche Einstiege für leere Eingabe, Dateien und klaren Auftrag ergänzt; konkrete Beweisverlustfrage führt zur geänderten Erwiderung. Police, Belehrungslayout, Kausalität und Restforderung samt begrenztem BGH-Anker erhalten. Desk-Review, kein Live-Modelltest. Gezielte Ergänzung im zweiten Durchgang am 30.09.2026; keine erneute Vollprüfung aller Altanker.",
     "changes": [
       "Layout der Rechtsfolgenbelehrung als Beweisfrage ergänzt; gesonderte Mitteilung nicht mit separatem Blatt gleichgesetzt; DORA nur im einschlägigen Anwendungsbereich.",
       "Kernfall mit operativem Entscheidungsanker, gezielten Nachfragen und Fortsetzung zum vollständigen angeforderten Dokument.",
-      "Stillen Dateieinstieg und drei konkrete Dokumentwege ergänzt; nachträgliches Gutachten verändert Beweisargument und Erfolgseinschätzung statt nur den Sachstand."
+      "Stillen Dateieinstieg und drei konkrete Dokumentwege ergänzt; nachträgliches Gutachten verändert Beweisargument und Erfolgseinschätzung statt nur den Sachstand.",
+      "Zweiter Durchgang 30.09.2026: Kasko-Werkstattrisiko nach IV ZR 235/25 konkretisiert; Werkstatt zusätzlich um PKV-Bestreiten/Limitierung nach IV ZR 41/25 ergänzt."
     ],
-    "sha256": "1ea0f857154593e13bc87d75ef00dc525084bb05b971c32d7c70643e766d03a7"
+    "sha256": "0559f2e203baa0d1e5185e868085dbfdc9e5f3269d35d2e5c25373c9be8730c4",
+    "reviewed_on": "2026-09-30"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Am 23.09.2026 vollständig individuell nachgelesen: Kürzungserwiderung aus konkretem Beweisverlust, Abschlagsforderung und Verjährungsstand sowie BU-Leistungsbrief nach Tätigkeits- und Befundabgleich ausgebaut. Vorhandene Fachzweige und begrenzte Entscheidungsreichweite erhalten; neue Normen amtlich gelesen. Desk-Review, kein Live-Modelltest.",
+    "reason": "Am 23.09.2026 vollständig individuell nachgelesen: Kürzungserwiderung aus konkretem Beweisverlust, Abschlagsforderung und Verjährungsstand sowie BU-Leistungsbrief nach Tätigkeits- und Befundabgleich ausgebaut. Vorhandene Fachzweige und begrenzte Entscheidungsreichweite erhalten; neue Normen amtlich gelesen. Desk-Review, kein Live-Modelltest. Gezielte Ergänzung im zweiten Durchgang am 30.09.2026; keine erneute Vollprüfung aller Altanker.",
     "changes": [
       "Layout der Rechtsfolgenbelehrung als Beweisfrage ergänzt; gesonderte Mitteilung nicht mit separatem Blatt gleichgesetzt; DORA nur im einschlägigen Anwendungsbereich.",
       "Vorhandene Fachzweige, Beispiele und Zugriffsalternativen erhalten; schwache Rechtsprechungshinweise entfernt oder auf belegte Reichweite begrenzt.",
       "Gesundheitsdaten: konkrete Ausnahmen nach Artikel 9 Absatz 2 Buchstaben a und f DSGVO statt pauschalem Datenschutzverweis.",
-      "Gegenbeweise, nachgereichtes Belehrungslayout, Abschlag nach Paragraf 14 VVG, Zugang nach Paragraf 15 VVG und veränderte Berufstätigkeit in konkrete Dokumentfortsetzung eingebunden."
+      "Gegenbeweise, nachgereichtes Belehrungslayout, Abschlag nach Paragraf 14 VVG, Zugang nach Paragraf 15 VVG und veränderte Berufstätigkeit in konkrete Dokumentfortsetzung eingebunden.",
+      "Zweiter Durchgang 30.09.2026: Kasko-Werkstattrisiko nach IV ZR 235/25 konkretisiert; Werkstatt zusätzlich um PKV-Bestreiten/Limitierung nach IV ZR 41/25 ergänzt."
     ],
-    "sha256": "47d394c24b7239af2be4aa13cae6ddb635383bf7294b5e016ae53d3ce894f610"
+    "sha256": "60263505db08a157d2ed2264cb454b7d42875e23f30d092bbf6f080ab0861984",
+    "reviewed_on": "2026-09-30"
   },
   "selection": {
     "positive": [

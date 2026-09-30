@@ -26,7 +26,7 @@ Bei gebundener Nachfolge wechselbezügliche und vertragsmäßige Verfügungen un
 
 Ausschlagung nach Entscheidungsgrundlage, Erklärung und möglicher Anfechtung bearbeiten. Vor einem Erbscheinsantrag klären, ob der Nachweis tatsächlich benötigt wird; Antrag nach FamFG Paragrafen 352 fortfolgende, nicht aufgehobenen BGB-Vorschriften.
 
-Bei einem bereits unrichtigen Erbschein Unrichtigkeitsgrund und Einziehung prüfen.
+Bei unrichtigem Erbschein Grund und Einziehung prüfen.
 
 ### 1.3.3. Pflichtteil und Schenkung
 
@@ -34,7 +34,7 @@ Für den Pflichtteil gesetzliche Quote, Pflichtteilsquote, bereinigten Nachlass 
 
 Vorliegendes Verzeichnis mit Todestagsbelegen abgleichen: Depot und Verkaufserlös nicht doppelt zählen, spätere Kontosalden nur belegt zurückrechnen. Bestandslücke, fehlende Eigenrecherche, Wertfrage und Sorgfaltszweifel trennen. Ergänzung, Wertermittlung und Versicherung sind unterschiedliche Wege; Paragraf 2314 BGB gewährt keinen pauschalen Anspruch auf alle Einzelbelege.
 
-Verhindert der Erbe durch verweigerte Zustimmung eine konkrete Bankermittlung des Notars, begründe die gezielte Ergänzung mit BGH, Urteil vom 20.05.2020 - IV ZR 193/19, Randnummern 8 bis 11 ([amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2019/IV_ZR_193-19.pdf?__blob=publicationFile&v=1)). Benenne die ausgelassene Bankverbindung und benötigte Mitwirkung. Bloße Richtigkeitszweifel rechtfertigen kein beliebig neues Verzeichnis; Paragraf 260 Absatz 2 BGB gesondert prüfen. Bestand und Wert richten sich nach Paragraf 2311, die Quote nach Paragraf 2303 BGB.
+Verhindert der Erbe durch verweigerte Zustimmung eine konkrete Bankermittlung des Notars, begründe die gezielte Ergänzung mit BGH, Urteil vom 20.05.2020 - IV ZR 193/19, Randnummern 8 bis 11 ([amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2019/IV_ZR_193-19.pdf?__blob=publicationFile&v=1)). Benenne die ausgelassene Bankverbindung und benötigte Mitwirkung. Bloße Richtigkeitszweifel rechtfertigen kein beliebig neues Verzeichnis; Paragraf 260 Absatz 2 BGB gesondert prüfen. Bestand/Wert: Paragraf 2311, Quote: Paragraf 2303 BGB. Bei privatem Auskunftstitel Schuldnerbeschwer nach notwendigem Zeit-/Kostenaufwand belegen: BGH, 16.09.2026, IV ZB 4/26, Rn. 5–12. Die dortigen 600 Euro beruhen auf Übergangsrecht, kein aktueller Pauschalwert.
 
 Für die Ergänzungsrechnung Vollzug, Gegenleistung, Nutzungsrecht und beide Wertstichtage erfassen. Nach sechs vollen Jahren verbleiben bei laufender Frist 40 Prozent. Ehegattenschenkung und vorbehaltenen Genuss gesondert prüfen. Beschenktenhaftung hat eigene Subsidiarität und Verjährung. Bei späterer Vaterschaftsfeststellung Entstehung, Ausübungssperre und Kenntnis trennen.
 
@@ -54,9 +54,9 @@ Unternehmensnachfolge stimmt Verfügung, Gesellschaftsvertrag, Führung und Liqu
 
 Jede tragende Aussage mit Normfassung, Aktenfund und gegebenenfalls amtlichem Entscheidungsnachweis belegen. Behauptung, Indiz und Schlussfolgerung trennen. Gegenargument und fehlenden Nachweis konkret benennen. Werte mit Stichtag und Methode, Bandbreiten nur auf belegter Grundlage rechnen.
 
-Fehlt der Todestagssaldo, die Bankauskunft oder vollständigen Buchungen nachfordern; fehlt bei einer Schenkung die Nutzungsrechtsklausel, die betreffende Vertragsstelle. Nach Antwort Nachweis prüfen, Rechnung und betroffene Briefpassage aktualisieren und das bestellte Dokument fertigschreiben. Neue entscheidende Lücken kurz nachfragen, Bekanntes nicht wiederholen. Bei ausbleibendem Beleg tragfähige Teile liefern und nach Klärung fortsetzen.
+Fehlt der Todestagssaldo, die Bankauskunft oder vollständigen Buchungen nachfordern; fehlt bei einer Schenkung die Nutzungsrechtsklausel, die betreffende Vertragsstelle. Nach Antwort Nachweis prüfen, Rechnung und betroffene Briefpassage aktualisieren und das bestellte Dokument fertigschreiben. Neue Lücken nachfragen, Bekanntes übernehmen. Ohne Beleg tragfähige Teile liefern und nach Klärung fortsetzen.
 
-Quellen mit Gericht, Form, Datum, Aktenzeichen, amtlichem Link und geprüfter Passage belegen; Leitsatz nicht als gelesenen Volltext ausgeben. Normfassung aktuell prüfen, keine Literatur aus Erinnerung. Optional: [Zitierweise](../references/zitierweise.md).
+Quellen: Gericht, Form, Datum, Aktenzeichen, amtlicher Link, gelesene Passage und aktuelle Normfassung; keine erfundene Literatur oder Volltextprüfung. Optional: [Zitierweise](../references/zitierweise.md).
 
 ## 1.5. Dokument und Abschluss
 

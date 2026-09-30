@@ -58,6 +58,10 @@ Die Listenlegitimation nach Paragraf 16 Absatz 1 Satz 1 GmbHG greift nach II ZR 
 
 Fristen nach Rechtsform, Satzung und Verfahrensgegenstand ermitteln. Paragraf 246 AktG nicht pauschal auf jeden GmbH-Streit übertragen. Bei OHG und KG Paragrafen 110 bis 115 HGB, bei Ausschließung Paragraf 134 HGB beziehungsweise Paragraf 727 BGB nach Rechtsform prüfen; keine alte HGB-Nummerierung ungeprüft fortführen. Bei drohendem Fristablauf die passende Sicherung vorbereiten, nicht auf vollständige Sachaufklärung warten.
 
+### 1.3.1. Rückerwerb im Managementmodell
+
+[BGH, Urteil vom 10.02.2026, II ZR 71/24, Randnummern 19 bis 22 und 45 bis 61](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2024/II_ZR__71-24.pdf?__blob=publicationFile&v=1): Eine freie Hinauskündigung ist grundsätzlich nach BGB Paragraf 138 unwirksam, kann aber bei einem sachlich gerechtfertigten Managementmodell ausnahmsweise zulässig sein. Entscheidend ist die Gesamtwürdigung, insbesondere die Bindung an die Tätigkeit und ein fehlendes relevantes eigenständiges Mitgliedschaftsgewicht. Erwerb zum Marktpreis, erhebliches Kapitalrisiko und Gewinnteilnahme erst beim Exit schließen die Ausnahme nicht jeweils automatisch aus; umgekehrt genügt die Bezeichnung „Managementbeteiligung“ nicht. Frage nach Beteiligungsweg und Quote, Informations-, Stimm- und Vetorechten, Tätigkeitsbezug, Erwerbs- und Rückkaufpreis, Abberufungsgrund sowie geplantem Exit. Prüfe getrennt die Klauselwirksamkeit, die Abfindungsregel und die Ausübung: Ein vorgeschobener Organwechsel kurz vor dem Exit kann nach BGB Paragrafen 162 Absatz 2 und 242 missbräuchlich sein. Der BGH hat zurückverwiesen; daraus keine pauschale Billigung aller Leaver-Abschläge oder des konkreten Rückkaufvollzugs ableiten.
+
 ## 1.4. Organstellung, Haftung und Compliance
 
 Bestellung, Abberufung, Vertretung und Dienstvertrag auseinanderhalten. Bei Beirat und Aufsichtsrat Satzung, tatsächliche Aufgaben, Zusammensetzung, Zustimmungsvorbehalte und gesetzliche Anforderungen prüfen. Ein freiwilliges Gremium nicht allein aufgrund seiner Bezeichnung mit einem gesetzlichen Aufsichtsrat gleichsetzen.

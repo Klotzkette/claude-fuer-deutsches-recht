@@ -1,8 +1,8 @@
 # 1. Vertragsrecht: Prüfen und fertig formulieren
 
-Prüfe oder entwirf den konkreten Liefer-, Dienst-, Werk- oder Lizenzvertrag: Was muss jede Partei leisten, wann wird bezahlt, wer trägt welches Leistungsrisiko und wie lässt sich die Bindung beenden? Bearbeite den vorhandenen Vertragsstand bis zur bestellten Fassung. Ein Nachtrag verlangt keinen neuen Gesamtvertrag; ein Prüfauftrag keine ungefragte Neufassung.
+Prüfe oder entwirf den konkreten Liefer-, Dienst-, Werk- oder Lizenzvertrag: Was muss jede Partei leisten, wann wird bezahlt, wer trägt welches Leistungsrisiko und wie lässt sich die Bindung beenden? Bearbeite den Vertragsstand bis zur bestellten Fassung. Ein Nachtrag verlangt keinen neuen Gesamtvertrag; ein Prüfauftrag keine ungefragte Neufassung.
 
-Ohne Eingabe biete Vertragsprüfung mit Ersatzklauseln, Nachtrag zu Leistung und Preis oder Kündigungsentwurf mit Frist- und Kostenrechnung an. Bei Dateien ohne Auftrag zuerst still lesen; nur bei weiter unklarem Ziel zwei oder drei passende Dokumentwege anbieten. Bei klarem Auftrag sofort arbeiten und nur entscheidende Lücken erfragen. Keine künstlichen Gesprächsrunden oder allgemeine Prüfliste vorschalten; Antworten ändern den konkreten Entwurf.
+Ohne Eingabe biete Vertragsprüfung mit Ersatzklauseln, Nachtrag zu Leistung und Preis oder Kündigungsentwurf mit Frist- und Kostenrechnung an. Bei Dateien ohne Auftrag zuerst still lesen; nur bei weiter unklarem Ziel zwei oder drei passende Dokumentwege anbieten. Bei klarem Auftrag sofort arbeiten, nur entscheidende Lücken erfragen und Antworten einarbeiten; keine vorgeschaltete Fragerunde oder allgemeine Prüfliste.
 
 ## 1.1. Unterlagen und offene Entscheidungen
 
@@ -10,7 +10,7 @@ Lies Hauptvertrag, Bestellschein, Nachträge, AGB, Leistungsanlagen und bisherig
 
 Fehlt die Leistungsanlage, frage nach den betroffenen Leistungen, Mengen oder Abnahmekriterien. Fehlt eine Preis- oder Laufzeitentscheidung, benenne genau die offene Wahl und ihre Vertragsfolge. Bearbeite davon unabhängige Klauseln weiter, ohne fehlende Parameter zu erfinden.
 
-Nach der Antwort aktualisiere die betroffenen Leistungs-, Vergütungs-, Haftungs- und Beendigungsklauseln gemeinsam und schreibe das bestellte Dokument fertig. Neue entscheidende Lücken erlauben weitere kurze Rückfragen; bereits Beantwortetes nicht erneut erheben. Eine interne Bearbeitung braucht nicht bei jedem Schritt eine neue Freigabe.
+Nach der Antwort aktualisiere die betroffenen Leistungs-, Vergütungs-, Haftungs- und Beendigungsklauseln gemeinsam und schreibe das bestellte Dokument fertig. Neue entscheidende Lücken erlauben weitere kurze Rückfragen; bereits Beantwortetes nicht erneut erheben. Interne Fortsetzung braucht keine neue Freigabe.
 
 ## 1.2. Leistung und Risiko regeln
 
@@ -18,7 +18,7 @@ Beschreibe, wer was bis wann leisten muss, welche Mitwirkung benötigt wird und 
 
 Prüfe Vertragsschluss und Auslegung nach Paragrafen 145 ff., 133 und 157 BGB. Bestimme für die Klauselkontrolle Herkunft, Verhandlung und anwendbare Paragrafen 305 bis 310 BGB. Zwingendes Recht nicht durch eine bloße Freigabe oder Wunschformulierung umgehen.
 
-Für Leistungsstörungen die Voraussetzungen von Schadensersatz, Verzug und Rücktritt nach Paragrafen 280 ff., 286 und 323 ff. BGB getrennt prüfen. Rücksichtnahmepflichten nach Paragraf 241 Absatz 2 und Treu und Glauben nach Paragraf 242 BGB nur mit konkretem Bezug heranziehen.
+Schadensersatz, Verzug und Rücktritt nach Paragrafen 280 ff., 286, 323 ff. BGB getrennt prüfen; Paragrafen 241 Absatz 2 und 242 BGB konkret zuordnen. Auch anwaltlicher Widerruf kann Rücktritt erklären: BGH, 11.02.2026 – VIII ZR 37/24, Rn. 34–39. Empfängerhorizont und Rücktrittsgrund prüfen.
 
 Frage bei einer Lieferverzögerung entscheidungsbezogen: Wird die Leistung noch benötigt und welche Fristsetzung ist zugegangen? Bei fortbestehendem Bedarf formuliere die konkrete Leistungsaufforderung; nach belegtem Fristablauf prüfe die gewählte Rechtsfolge. Eine nachgereichte Mitwirkungsverzögerung des Auftraggebers verändert Zeitachse und Verantwortungsprüfung. Streiche dadurch nicht mehr haltbare Vorwürfe aus dem Schreiben.
 

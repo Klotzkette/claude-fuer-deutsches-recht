@@ -59,3 +59,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+
+## Bereits erklärte Rückabwicklung richtig auslegen
+
+Eine bereits versandte Anfechtungs- oder Widerrufserklärung nach Inhalt und erkennbarem Rückabwicklungsziel auslegen. [BGH, Urteil vom 11.02.2026 – VIII ZR 37/24](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2024/VIII_ZR__37-24.pdf?__blob=publicationFile&v=1), Rn. 31–39: Auch ein anwaltliches Schreiben kann zugleich einen Rücktritt erklären, wenn Kaufpreisrückzahlung und Rückgabeangebot aus Empfängersicht den unbedingten Lösungswillen zeigen. Das Wort „Rücktritt“ ist nicht zwingend. Nicht jedes erfolglose Widerrufsschreiben automatisch umdeuten: vollständigen Wortlaut und Empfängerhorizont prüfen. Mangel, Fristsetzung oder ihre Entbehrlichkeit und die weiteren Rücktrittsvoraussetzungen bleiben gesondert erforderlich; darüber entschied der BGH nicht abschließend. Die Entscheidung betraf einen Kauf von 2019, weshalb ihre Anwendung alten Kaufmängelrechts nicht auf heutige Verträge übertragen werden darf.

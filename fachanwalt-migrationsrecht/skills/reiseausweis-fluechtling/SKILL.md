@@ -33,6 +33,12 @@ description: "Für Reiseausweis Flüchtling: Fachmodul im Migrationsrecht: ordne
 5. **Beweis:** Dokumente, Urkunden, Übersetzungen, Atteste, Länderquellen und digitale Belege sauber trennen.
 6. **Taktik:** Antrag, Nachreichung, Fristverlängerung, Eilantrag, Klage, Vergleich, Behördenkommunikation.
 
+## 1. Konkrete Entscheidungsweiche, Stand 30.09.2026
+
+BVerwG, Urteil vom 24.03.2026 – 1 C 6.25 ([amtliche Leitsätze und Gründe](https://www.bverwg.de/240326U1C6.25.0)), Leitsätze 1–2 und Randnummern 12–17: Anerkennung und Reiseausweis eines anderen Mitgliedstaats sowie Verantwortungsübergang nach dem EÜÜVF begründen für sich keinen deutschen Aufenthaltstitel nach Paragraf 25 Absatz 2 Satz 1 Alternative 1 AufenthG; auch Artikel 24 Absatz 1 Richtlinie 2011/95/EU trägt den Automatismus nicht. Halte Anerkennungsstaat, Reiseausweis, Verantwortungsübergang, BAMF-Entscheidung und konkreten Titelanspruch getrennt fest. Prüfe eine andere Titelgrundlage und fortbestehenden Abschiebungsschutz eigenständig; aus dem fehlenden Titelautomatismus folgt keine automatische Abschiebbarkeit. Die Entscheidung beurteilt den damaligen Richtlinienrahmen; späteres GEAS-Recht nach Anwendungsdatum gesondert prüfen.
+
+Verlange die Anerkennungsentscheidung des Erststaats, den bisherigen Reiseausweis mit Gültigkeit, die Unterlagen zum behaupteten Verantwortungsübergang und den deutschen BAMF-/Titelbescheid. Frage konkret, ob nur ein Reisedokument oder auch ein Aufenthaltstitel beantragt werden soll. Verfasse getrennte Anträge beziehungsweise eine getrennte Begründung; ein erfolgreicher Reiseausweisantrag ersetzt keine Titelprüfung.
+
 ## Quellen- und Sicherheitsregel
 - Vor tragenden Aussagen den aktuellen Normtext und die aktuelle Behörden-/Gerichtspraxis prüfen; keine Scheingenauigkeit aus Modellwissen.
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.

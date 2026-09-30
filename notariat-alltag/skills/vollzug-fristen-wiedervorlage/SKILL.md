@@ -31,6 +31,10 @@ Bei ausstehender Antwort nach dem konkret fehlenden Dokument und erwarteten Eing
 
 Eintragungsmitteilung gegen Antrag, Recht, Betrag und Rang prüfen. Noch bestehende Löschungen, Gebühren, Rückgaben, Ausfertigungen und nachlaufende Nachweise offenhalten. Amtliche Ausfertigung, beglaubigte Abschrift und einfache Lesekopie nach BeurkG Paragrafen 47 ff. unterscheiden; einen Export nicht als Ausfertigung bezeichnen. Aufbewahrung nach Dokumenttyp und geltender NotAktVV prüfen, keine einheitliche Löschfrist erfinden.
 
+### 3.5. Vorsorgeregister als eigenen Vollzugsschritt führen
+
+[BGH, Beschluss vom 09.03.2026, NotSt (Brfg) 3/25, Randnummern 10 bis 21](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/NotS/2025/NotSt_Brfg___3-25.pdf?__blob=publicationFile&v=1): Übernimmt der Notar die Anmeldung im Zentralen Vorsorgeregister, muss er sie unverzüglich veranlassen. 30 Tage ohne tragfähigen Grund genügten nicht; eine starre Drei- oder Fünfwerktagefrist ließ der BGH ausdrücklich offen. Ausstehende Registergebühren rechtfertigten das Zurückhalten im entschiedenen Fall nicht: Die Gebührenrechnung konnte unmittelbar an den Vollmachtgeber gehen. Eine Pflicht des Notars, selbst vorzuschießen, folgt daraus nicht. Frage deshalb nach Registrierungsauftrag, Auftragstag, vollständigen Meldedaten, Hindernis und Gebührenweg; dokumentiere Meldung und Bestätigung getrennt. Fehlenden Vorschuss nicht als automatische Vollzugssperre führen. Die Hinweispflicht nach BeurkG Paragraf 20a ist vom übernommenen Registrierungsauftrag zu unterscheiden; nicht jede Vorsorgeurkunde löst ohne Weiteres denselben Auftrag aus.
+
 ## 4. Quellenpflicht
 
 Je nach Vorgang [GBO Paragraf 18](https://www.gesetze-im-internet.de/gbo/__18.html), BeurkG Paragraf 17 Absatz 2a, GmbHG Paragrafen 40 und 54 sowie GwG Paragraf 16a heranziehen. Quelle, Fristbeginn und Rechtsfolge müssen zusammenpassen. [Zitierweise](../../references/zitierweise.md) beachten.

@@ -37,14 +37,18 @@ description: "Für Verfahrenswahl und Routenentscheidung: ordnet Norm, Beweislas
 
 | Befund | Route | Begründung |
 |---|---|---|
-| Paragraf 17 InsO eingetreten | Kein StaRUG als Hauptweg; Eigenverwaltung, Schutzschirm oder Regelverfahren prüfen | Vorinsolvenzlicher Rahmen setzt voraus, dass Zahlungsunfähigkeit noch nicht eingetreten ist |
-| Paragraf 19 InsO ohne positive Fortbestehensprognose | Antragspflicht und Insolvenzroute prüfen | Überschuldung löst Antragspflicht aus |
+| Paragraf 17 InsO eingetreten | Antragspflicht und Insolvenzroute prüfen; in anhängiger Restrukturierung Anzeige und §-33-Ausnahmen gesondert würdigen | Regelhafte Aufhebung mit eng begründeten Ermessensausnahmen; kein Schutzschirmzugang bei bereits eingetretener Zahlungsunfähigkeit (§ 270d InsO) |
+| Paragraf 19 InsO ohne positive Fortbestehensprognose | Vermögensdeckung, persönlichen Anwendungsbereich und Verfahrensstand prüfen | Bei festgestellter Überschuldung Antragspflicht; während rechtshängiger Restrukturierung Ruhen nach § 42 Absatz 1 StaRUG und unverzügliche Anzeige |
 | Paragraf 18 InsO, aber Paragraf 17 negativ | StaRUG, außergerichtlicher Standstill oder Schutzschirm-Option offen | Drohende Zahlungsunfähigkeit ist der Zugangspunkt |
 | Streitige Forderung ohne Fälligkeit oder Bestand | Nicht als Paragraf-17-Stopper behandeln | Materielle Rechtslage entscheidet |
 | Vorläufig vollstreckbarer Titel, Vollstreckung läuft | Nennwert in Drei-Wochen-Liquiditätsstatus einstellen | Vollstreckungsdruck kann Paragraf 17 auslösen |
 | Vollstreckung aus Titel vorläufig eingestellt | Gesondert würdigen | Belegwirkung kann entfallen |
 
 Leitanker für die Stopper: BGH IX ZR 229/22 vom 23.01.2025 zum vollstreckbaren Titel und zur objektiven Rechtslage; BGH, Beschluss vom 11.03.2025 - II ZR 139/23 ergänzend zum materiellen Bestand, ohne Grundsatzurteilswirkung; BGH IX ZB 38/24 vom 22.05.2025 nur zur Belegwirkung eines Titels beim Gläubigerantrag nach eingestellter Vollstreckung. Keine prozentuale Kürzung streitiger Passiva allein nach Prozessrisiko.
+
+Für die bereits anhängige Restrukturierung gilt BGH, Beschluss vom 23.04.2026 – [IX ZB 18/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZB__18-25.pdf?__blob=publicationFile&v=1), Rn. 10–23: Nach Anzeige von Zahlungsunfähigkeit oder Überschuldung gemäß § 32 Absatz 3 StaRUG ist die Aufhebung nach § 33 Absatz 2 Satz 1 Nummer 1 StaRUG die Regel. Die Ausnahmen eröffnen gerichtliches Ermessen, keinen automatischen Fortsetzungsanspruch. Bloß fehlende Vorteile eines Insolvenzverfahrens oder eine unsichere Ein-Prozent-Quote beweisen kein offensichtliches Gläubigerinteresse gegen die Eröffnung. Beruht Insolvenzreife auf vorgezogener Fälligkeit einer planbetroffenen Forderung, muss das Restrukturierungsziel überwiegend wahrscheinlich erreichbar sein. Frage nach Stand, Betrag, Bedingungen und Absicherung nötiger Drittbeiträge und aktualisiere Route, Liquiditätsplan und Vermerk. Eine freiwillige, ungesicherte Zusage genügt hierfür nicht ohne weitere tragfähige Umstände. Die Gruppenbildung wurde ausdrücklich offengelassen (Rn. 24). Ein Schutzschirm nach § 270d InsO setzt beim Zugang fehlende Zahlungsunfähigkeit voraus.
+
+Während der Rechtshängigkeit ruht die Antragspflicht nach [§ 42 Absatz 1 StaRUG](https://www.gesetze-im-internet.de/starug/__42.html); stattdessen Eintritt der Insolvenzreife ohne schuldhaftes Zögern anzeigen. Bei Wirkungsverlust der Anzeige lebt sie nach Absatz 4 wieder auf. Verfahrensstand und Zeitpunkt belegen.
 
 ## Ausgabe
 

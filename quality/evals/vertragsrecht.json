@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "vertragsrecht",
-  "reviewed_on": "2026-09-23",
+  "reviewed_on": "2026-09-30",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/bgb/__280.html",
@@ -37,18 +37,26 @@
       "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?.pdf=&Art=en&Datum=Aktuell&Frame=4&Gericht=bgh&anz=1&nr=136872&pos=0",
       "checked_on": "2026-09-22",
       "supports": "Vertragsstrafenklausel im Einheitspreisvertrag nach Bezugsgröße und Obergrenze prüfen, keine pauschale Freigabe wegen Fünf-Prozent-Angabe. Konkrete AGB-Klausel eines Einheitspreisvertrags; keine allgemeine Obergrenze für alle Vertragstypen. Amtlich indexierter Leitsatz geprüft."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2024/VIII_ZR__37-24.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-30",
+      "supports": "Urteil 2026-02-11 – VIII ZR 37/24. Geprüft: Kopf/Leitsatz a und Rn. 25–40, Schwerpunkt 31–39. Anwaltlich erklärter Widerruf/Anfechtung kann nach erkennbarem Rückabwicklungsziel zugleich Rücktrittserklärung sein. Kein Automatismus; Empfängerhorizont zählt. Materielle Rücktrittsvoraussetzungen nicht abschließend beurteilt. Kauf2019/§434BGBaF nicht ungeprüft in heutiges Mängelrecht übertragen. Der weitere Komplex Wucher/Marktwert wurde nicht vertieft.",
+      "source_sha256": "bcaeded64a0357403b3ee1a68961354b9d403793d2c5818745085569114f228e"
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Am 23.09.2026 vollständig individuell nachgelesen: leere Eingabe und Dateien führen zu passenden Vertrags-, Nachtrags- oder Kündigungsdokumenten; Lieferverzögerung und nachgereichte Mitwirkung ändern die konkrete Aufforderung. Vorhandene Rechtsprechungsgrenzen erhalten. Desk-Review, keine Live-Modellprüfung.",
+    "reason": "Am 23.09.2026 vollständig individuell nachgelesen: leere Eingabe und Dateien führen zu passenden Vertrags-, Nachtrags- oder Kündigungsdokumenten; Lieferverzögerung und nachgereichte Mitwirkung ändern die konkrete Aufforderung. Vorhandene Rechtsprechungsgrenzen erhalten. Desk-Review, keine Live-Modellprüfung. Gezielte Ergänzung im zweiten Durchgang am 30.09.2026; keine erneute Vollprüfung aller Altanker.",
     "changes": [
       "Vertragsstrafe nach Bezugsgröße und Vertragsart statt pauschaler Prozent-Freigabe eingeordnet.",
       "E-Mail-Zugang in Kündigungs- und Verlängerungsworkflow eingebunden; Gegenbeweise und Anwendungsgrenzen erhalten.",
       "Gewerbemiet-Textform zeitlich präzisiert; Nachfragen führen weiterhin zur vollständigen bestellten Fassung.",
-      "Fachlichen Standalone-Einstieg ergänzt und Lieferverzögerung anhand Leistungsbedarf, zugegangener Fristsetzung und Gegenbelegen bis zum Brief geführt."
+      "Fachlichen Standalone-Einstieg ergänzt und Lieferverzögerung anhand Leistungsbedarf, zugegangener Fristsetzung und Gegenbelegen bis zum Brief geführt.",
+      "Zweiter Durchgang 30.09.2026: Auslegung bereits erklärter Rückabwicklung anhand VIII ZR 37/24 mit getrennter Prüfung des Rücktrittsgrundes ergänzt."
     ],
-    "sha256": "d2a20d55a40d14e0293ebb6d1fdd30862f6e897ac9d8e035489eb0039023b817"
+    "sha256": "71e9669c70b029e2e8518646c0af3374555a93872846ac8d508774b5929afe1f",
+    "reviewed_on": "2026-09-30"
   },
   "selection": {
     "positive": [
@@ -96,14 +104,16 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Am 23.09.2026 vollständig individuell nachgelesen: Leistungsanlage als Ergebnis- oder Stundenauftrag konkretisiert, Leistungsaufforderung von Rücktritt und Schadensersatz getrennt und Kündigungszugang mit Frist-/Kostenfolge fortgeschrieben. Neue Normen amtlich gelesen; vorhandene Leitsatzgrenzen nicht erweitert. Desk-Review, keine Live-Modellprüfung.",
+    "reason": "Am 23.09.2026 vollständig individuell nachgelesen: Leistungsanlage als Ergebnis- oder Stundenauftrag konkretisiert, Leistungsaufforderung von Rücktritt und Schadensersatz getrennt und Kündigungszugang mit Frist-/Kostenfolge fortgeschrieben. Neue Normen amtlich gelesen; vorhandene Leitsatzgrenzen nicht erweitert. Desk-Review, keine Live-Modellprüfung. Gezielte Ergänzung im zweiten Durchgang am 30.09.2026; keine erneute Vollprüfung aller Altanker.",
     "changes": [
       "Vertragsstrafe nach Bezugsgröße und Vertragsart statt pauschaler Prozent-Freigabe eingeordnet.",
       "E-Mail-Zugang in Kündigungs- und Verlängerungsworkflow eingebunden; Gegenbeweise und Anwendungsgrenzen erhalten.",
       "Gewerbemiet-Textform zeitlich präzisiert; Nachfragen führen weiterhin zur vollständigen bestellten Fassung.",
-      "Konkrete Dialoge zu Datenimport, Nachfrist, Teilbelieferung und E-Mail-Zugang ergänzt; Antworten ändern zusammenhängende Klauseln, Erklärung, Beweisbewertung und Kostenrechnung."
+      "Konkrete Dialoge zu Datenimport, Nachfrist, Teilbelieferung und E-Mail-Zugang ergänzt; Antworten ändern zusammenhängende Klauseln, Erklärung, Beweisbewertung und Kostenrechnung.",
+      "Zweiter Durchgang 30.09.2026: Auslegung bereits erklärter Rückabwicklung anhand VIII ZR 37/24 mit getrennter Prüfung des Rücktrittsgrundes ergänzt."
     ],
-    "sha256": "d6b395f8a7930b6663e331185aadeb90ee8c4065a26ef55dc34a7919ba91db5c"
+    "sha256": "5660f1f5890b98c11eecfc4f638229f0e5277cfb530f869edf1fdf4c43fa0e29",
+    "reviewed_on": "2026-09-30"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",

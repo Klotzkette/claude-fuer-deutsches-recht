@@ -12,6 +12,11 @@
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2017/II_ZR__12-17.pdf?__blob=publicationFile&v=1",
       "checked_on": "2026-09-22",
       "supports": "BGH, Urteil vom 20.11.2018 - II ZR 12/17, Rn. 22 bis 27, 54 bis 62: Listenlegitimation am Beschlusstag grundsätzlich auch nach Einziehung beachten; eigene Entlastung bleibt auch bei negativ gefasstem Antrag vom Stimmverbot erfasst. Grenze: Liste entscheidet nicht abschließend über materielles Eigentum; Stimmverbote und Missbrauch getrennt prüfen. Unberechtigte Versammlungsleitung allein beseitigt nicht jeden Beschluss."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2024/II_ZR__71-24.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-30",
+      "supports": "BGH, Urteil vom 10.02.2026 – II ZR 71/24, Rn. 19–22, 45–61: Sachliche Rechtfertigung einer Management-Hinauskündigung unter Gesamtwürdigung; Klausel, Abfindung und Ausübung getrennt. Keine pauschale Billigung beliebiger Leaver-Abschläge; strategische Abberufung vor Exit kann missbräuchlich sein, Zurückverweisung."
     }
   ],
   "mini_review": {
@@ -23,7 +28,7 @@
       "Mehrheit, notarielle Form und Zustimmung zu zusätzlichen Leistungspflichten nach Paragraf 53 Absatz 2 bis 4 GmbHG unterschieden.",
       "Beschluss, Geschäftsführerwechsel oder Kapital-/Anteilsmaßnahme wählen. Dateien still lesen, klare Aufträge direkt bearbeiten, Folgeantwort dokumentbezogen umsetzen."
     ],
-    "sha256": "8f651cea81f117bcd5a456a55a5461001144c0a14e7b1335c00c1426a663a004"
+    "sha256": "a47b1f2b9f51edf1e529f81a2820b4d07b6a63f9d7a67f9496c0a62f6cd3ee2a"
   },
   "selection": {
     "positive": [
@@ -78,7 +83,7 @@
       "Mehrheit, notarielle Form und Zustimmung zu zusätzlichen Leistungspflichten nach Paragraf 53 Absatz 2 bis 4 GmbHG unterschieden.",
       "Gegenstandsbezogene Stimmenrechnung, Organ-/Dienstvertrags-/Registerebene, Kapitalaufteilung, Listenstand und haftungsrelevante Zustimmung ergänzt."
     ],
-    "sha256": "162ba5f6b65b28e13bc18d44e0853c4780962b723062036798e507fc47258861"
+    "sha256": "4c435fc39153f234cfe93740956d2fafa710407b2f06b6cc644b2192df793c02"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",
@@ -102,6 +107,13 @@
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2017/II_ZR__12-17.pdf?__blob=publicationFile&v=1",
         "application": "Listenlegitimation am Beschlusstag grundsätzlich auch nach Einziehung beachten; eigene Entlastung bleibt auch bei negativ gefasstem Antrag vom Stimmverbot erfasst.",
         "limit": "Liste entscheidet nicht abschließend über materielles Eigentum; Stimmverbote und Missbrauch getrennt prüfen. Unberechtigte Versammlungsleitung allein beseitigt nicht jeden Beschluss."
+      },
+      {
+        "citation": "BGH, Urteil vom 10.02.2026 – II ZR 71/24, Rn. 19–22, 45–61",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2024/II_ZR__71-24.pdf?__blob=publicationFile&v=1",
+        "checked_on": "2026-09-30",
+        "application": "Sachliche Rechtfertigung einer Management-Hinauskündigung unter Gesamtwürdigung; Klausel, Abfindung und Ausübung getrennt.",
+        "limit": "Keine pauschale Billigung beliebiger Leaver-Abschläge; strategische Abberufung vor Exit kann missbräuchlich sein, Zurückverweisung."
       }
     ],
     "remaining_limits": [
@@ -121,5 +133,18 @@
     "continuation": "Vertretungsstimme beim Stimmverbot -> Zählung; nur Abberufung -> keine Kündigung; spätes Agio -> Beschluss und Vollzug getrennt ändern.",
     "enrichment": "Gegenstandsbezogene Stimmenrechnung, Organ-/Dienstvertrags-/Registerebene, Kapitalaufteilung, Listenstand und haftungsrelevante Zustimmung ergänzt.",
     "limits": "desk review; no live client execution"
+  },
+  "source_audit_2026_09_30_zweiter_durchgang": {
+    "date": "2026-09-30",
+    "method": "targeted_primary_source_review",
+    "report": "quality/source-audits/2026-09-30-zweiter-durchgang/notariat-erbe-gesellschaft.md",
+    "scope": "Gezielte Prüfung der im Bericht bezeichneten neuen Entscheidungen und konkret berichtigten Normstellen; keine erneute Vollprüfung sämtlicher Skills, Altanker oder früherer Bewertungsbehauptungen. Bestehende Hashfelder bilden die aktuelle Datei ab; frühere Reviewdaten bleiben historische Prüfangaben. Kein Live-Modelltest.",
+    "files": [
+      "gesellschaftsrecht/gesellschaftsrecht-schnellstart.md",
+      "gesellschaftsrecht/gesellschaftsrecht-werkstatt.md",
+      "gesellschaftsrecht/skills/einziehung-und-ausschluss-gesellschafter/SKILL.md",
+      "gesellschaftsrecht/skills/satzungsgestaltung-gmbh-kernklauseln/SKILL.md",
+      "gesellschaftsrecht/skills/vollzugs-checkliste/SKILL.md"
+    ]
   }
 }

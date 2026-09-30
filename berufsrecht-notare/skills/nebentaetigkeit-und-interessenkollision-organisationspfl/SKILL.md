@@ -44,5 +44,5 @@ Konkret zu prüfen:
 - § 3 Abs. 1 BeurkG (Mitwirkungsverbote)
 - § 6 BeurkG
 - § 16 BeurkG
-- § 26 BNotO (Geschäftsstelle)
+- § 10 Abs. 2 bis 4 BNotO (Geschäftsstelle)
 - DONot

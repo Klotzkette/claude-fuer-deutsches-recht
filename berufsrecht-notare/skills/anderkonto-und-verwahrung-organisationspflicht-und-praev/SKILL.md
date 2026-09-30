@@ -41,7 +41,7 @@ description: "Für Anderkonto und Verwahrung Organisationspflicht und Praev: ord
 Konkret zu prüfen:
 
 - § 23 BNotO (Notaranderkonto)
-- § 54a BeurkG
+- §§ 57 bis 60 BeurkG (Verwahrung, Durchführung und Widerruf)
 - DONot § 11
-- § 26 BNotO (Geschäftsstelle)
+- § 10 Abs. 2 bis 4 BNotO (Geschäftsstelle)
 - DONot

@@ -81,6 +81,10 @@ Prüfe bei Planungsleistungen Beschreibung der Leistung, Verfahrenswahl, HOAI-Be
 
 Prüfe nach Paragraf 108 GWB Kontrolle, Tätigkeitsanteil, private Kapitalbeteiligung und gegebenenfalls gemeinsame Kontrolle. Für die Tätigkeitsvoraussetzung ist mehr als 80 Prozent maßgeblich, nicht lediglich mindestens 80 Prozent. Die Voraussetzungen interkommunaler Zusammenarbeit gesondert bestimmen.
 
+EuGH, Beschluss vom 03.02.2026 – C-316/25, Regione Umbria, ECLI:EU:C:2026:135 ([amtliche Entscheidungsinformation mit Tenor](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A62025CO0316_INF)): Artikel 12 Absatz 4 Richtlinie 2014/24/EU erlaubt keine ausschreibungsfreie Vergabe allein an eine nicht wirtschaftlich tätige öffentliche Einrichtung, wenn ausschließlich eine Dienstleistung gegen Entgelt erworben wird. Prüfe deshalb die tatsächlichen Beiträge, gemeinsamen Ziele und Steuerung der Zusammenarbeit; öffentliche Rechtsform und Gemeinwohlaufgabe ersetzen Kooperation nicht. Das Verfahren betraf ein italienisches Kraftfahrzeugsteuerregister, nicht jede denkbare deutsche Zusammenarbeit. Geprüft ist der amtlich veröffentlichte Tenor, kein behaupteter vollständiger deutschsprachiger Beschlusstext.
+
+Für Paragraf 108 Absatz 6 GWB zusätzlich gemeinsame Kooperationsvereinbarung, ausschließlich öffentliche Interessen, weniger als 20 Prozent Markttätigkeit im Kooperationsbereich und fehlenden unmittelbaren Wettbewerbsvorteil eines privaten Dritten prüfen. Inhouse-Betrauung nach aktuellem Absatz 7 und Berechnungsgrundlage nach Absatz 8 gesondert zuordnen.
+
 Fehlt die Aufteilung der Tätigkeiten, frage nach geeigneter Berechnungsgrundlage und Zuordnung der Aufgaben. Nach Eingang Anteil und rechtliche Einordnung erneut prüfen; kommunale Beteiligung allein genügt nicht. Ein Auftrag zur Prüfung endet mit einer begründeten Empfehlung, nicht mit einer eigenmächtigen Direktvergabe.
 
 ### 1.8.4. Konzessionen, Änderungen und Verfahrensübersicht
@@ -91,7 +95,7 @@ Für TED/eForms, Wettbewerbsregister oder eine gewünschte interaktive Verfahren
 
 ## 1.9. Rechtsprechung und Quellen
 
-Die verifizierte Entscheidung zur Notenwertung beantwortet nicht sämtliche Fragen zu Inhouse, Konzession oder Vertragsänderung. Für diese Fälle passende amtliche Rechtsprechung zusätzlich recherchieren und an den heutigen gesetzlichen Tatbestand binden; ältere Aussagen vor der Vergaberechtsreform nicht unverändert als aktuelle Ausnahmetatbestände behandeln.
+Die verifizierte Entscheidung zur Notenwertung beantwortet nicht sämtliche Fragen zu Inhouse, Konzession oder Vertragsänderung. Für über den genannten Kooperationsfall hinausgehende Fragen passende amtliche Rechtsprechung zusätzlich recherchieren und an den heutigen gesetzlichen Tatbestand binden; ältere Aussagen vor der Vergaberechtsreform nicht unverändert als aktuelle Ausnahmetatbestände behandeln.
 
 Normfassungen, Übergangsrecht und Übertragbarkeit prüfen. Entscheidungen mit Gericht, Form, Datum, Aktenzeichen und belegter Passage angeben; Literatur nur aus bereitgestellter oder tatsächlich zugänglicher Quelle. Quellenprüfung und offene Recherchefragen gehören in eine separate Arbeitsnotiz, nicht als technische Etiketten in den Mandantenbrief.
 

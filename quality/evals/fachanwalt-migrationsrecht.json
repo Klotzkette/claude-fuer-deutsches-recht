@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "fachanwalt-migrationsrecht",
-  "reviewed_on": "2026-09-23",
+  "reviewed_on": "2026-09-30",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/aufenthg_2004/__2.html",
@@ -47,30 +47,44 @@
       "url": "https://www.gesetze-im-internet.de/aufenthg_2004/__2.html",
       "supports": "Erneuter Normabruf insbesondere zur Lebensunterhaltssicherung und gesetzlichen Ausnahmen; konkrete Titel- und Haushaltsprognose bleibt erforderlich.",
       "checked_on": "2026-09-23"
+    },
+    {
+      "url": "https://www.bverwg.de/240326U1C6.25.0",
+      "checked_on": "2026-09-30",
+      "supports": "BVerwG, Urteil vom 24.03.2026 – 1 C 6.25, Leitsätze 1–2, Randnummern 12–17. Ausländische Flüchtlingsanerkennung, Reiseausweis und Verantwortungsübergang ergeben für sich keinen Aufenthaltstitel nach § 25 Abs. 2 Satz 1 Alt. 1 AufenthG. Grenze: Andere Titelgrundlagen, Abschiebungsschutz und spätere GEAS-Anwendbarkeit gesondert."
+    },
+    {
+      "url": "https://www.bverwg.de/260826U1C27.25.0",
+      "checked_on": "2026-09-30",
+      "supports": "BVerwG, Urteil vom 26.08.2026 – 1 C 27.25, Randnummern 10–13, 19–30, 41–43. Passersatzmitwirkung kann trotz Nationalpass erforderlich sein; Zusatz isoliert anfechtbar und Folgen können nach Duldungsablauf fortwirken. Grenze: Nur konkrete Pass-/Passersatzpflicht bei individueller Zumutbarkeit, Kausalität und Vertretenmüssen; keine allgemeine Pflicht zur Beseitigung jedes Vollzugshindernisses."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der Mini behandelt das konkrete Aufenthaltsbegehren und prüft Haushaltsdeckung mit fallbezogener Freibetragskorrektur statt einer pauschalen Einkommensformel. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Krankenversicherung weist eine Deckungslücke auf oder Überstunden enden -> Haushaltsprognose, Zeitraum und Behördenantwort konkret ändern.",
+    "reason": "Der Mini behandelt das konkrete Aufenthaltsbegehren und prüft Haushaltsdeckung mit fallbezogener Freibetragskorrektur statt einer pauschalen Einkommensformel. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Krankenversicherung weist eine Deckungslücke auf oder Überstunden enden -> Haushaltsprognose, Zeitraum und Behördenantwort konkret ändern. Gezielter Quellen- und Fachnachtrag 30.09.2026; bestehende Abläufe erhalten, keine erneute pauschale Vollprüfung behauptet.",
     "changes": [
       "Aufenthalts- und Schutzbegehren aus Titeln und Bescheiden prüfen; Hauptproblem auf nachhaltige Haushaltsdeckung und konkrete Behördenabzüge ausgerichtet.",
       "Alle drei Einstiege auf das konkrete aufenthaltsrechtliche Begehren beziehungsweise Haushaltsproblem zugeschnitten.",
       "Fundstellen zur Rechenkorrektur von Randnummern 22–29 auf 33–34 berichtigt und unmittelbar in Rechenanweisung eingebunden.",
       "Hauptproblem und Fokus-Skill unterscheiden Anreizfreibetrag, tatsächliche Aufwendungen und Ausnahmeprüfung.",
-      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
+      "Die für dieses Gebiet dokumentierten Quellenpassagen vom 30.09.2026 fallbezogen eingearbeitet."
     ],
-    "sha256": "2a593433f1545ee1ad467369d3c854704eed07c670247763129f7dc0b77bb6c1"
+    "sha256": "4509eec6aab09af201141fcee94fe2ecb15fe96971fc3ee2e6560f60b6011310",
+    "reviewed_on": "2026-09-30"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die Werkstatt erhält die unterschiedlichen aufenthalts- und schutzrechtlichen Wege und konkretisiert den Familiennachzug anhand der zutreffenden Urteilsrandnummern und Richtliniengrenzen. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Terminbitte gegenüber Antrag, Eingang und Titelwirkung, Arbeit und Reise getrennt, titelabhängige Mittelprüfung, privilegierte Leistungen, künftige Einkommenslücken sowie Herkunft und Aussagegrenzen von Attesten und Übersetzungen.",
+    "reason": "Die Werkstatt erhält die unterschiedlichen aufenthalts- und schutzrechtlichen Wege und konkretisiert den Familiennachzug anhand der zutreffenden Urteilsrandnummern und Richtliniengrenzen. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Terminbitte gegenüber Antrag, Eingang und Titelwirkung, Arbeit und Reise getrennt, titelabhängige Mittelprüfung, privilegierte Leistungen, künftige Einkommenslücken sowie Herkunft und Aussagegrenzen von Attesten und Übersetzungen. Gezielter Quellen- und Fachnachtrag 30.09.2026; bestehende Abläufe erhalten, keine erneute pauschale Vollprüfung behauptet.",
     "changes": [
       "Alle drei Einstiege auf das konkrete aufenthaltsrechtliche Begehren beziehungsweise Haushaltsproblem zugeschnitten.",
       "Fundstellen zur Rechenkorrektur von Randnummern 22–29 auf 33–34 berichtigt und unmittelbar in Rechenanweisung eingebunden.",
       "Hauptproblem und Fokus-Skill unterscheiden Anreizfreibetrag, tatsächliche Aufwendungen und Ausnahmeprüfung.",
-      "Terminbitte gegenüber Antrag, Eingang und Titelwirkung, Arbeit und Reise getrennt, titelabhängige Mittelprüfung, privilegierte Leistungen, künftige Einkommenslücken sowie Herkunft und Aussagegrenzen von Attesten und Übersetzungen."
+      "Terminbitte gegenüber Antrag, Eingang und Titelwirkung, Arbeit und Reise getrennt, titelabhängige Mittelprüfung, privilegierte Leistungen, künftige Einkommenslücken sowie Herkunft und Aussagegrenzen von Attesten und Übersetzungen.",
+      "Die für dieses Gebiet dokumentierten Quellenpassagen vom 30.09.2026 fallbezogen eingearbeitet."
     ],
-    "sha256": "82f9bcca79341951cc8e6c12c3ee8ee128c48c6af76e83ee891dcc924715faab"
+    "sha256": "47fdce9770761d03cb59f0b05894016cff5fd7f11dcd128d79091537c6c4f5c7",
+    "reviewed_on": "2026-09-30"
   },
   "focus_review": {
     "reviewed_on": "2026-09-23",
@@ -140,7 +154,7 @@
     }
   ],
   "prompt_editorial_review": {
-    "date": "2026-09-23",
+    "date": "2026-09-30",
     "method": "desk_review",
     "files": [
       "fachanwalt-migrationsrecht/README.md",
@@ -163,11 +177,24 @@
         "url": "https://www.bverwg.de/161110U1C20.09.0",
         "application": "Familienbedarf, konkrete Ausnahmeprüfung und Korrektur behördlicher Freibetrags-/Aufwandsabzüge beim Ehegattennachzug.",
         "limit": "Keine aktuellen Bedarfsbeträge; Korrektur im Richtlinienbereich, nicht unterschiedslos bei allen Titeln. Historische Ausweisungsregeln nicht übertragen."
+      },
+      {
+        "citation": "BVerwG, Urteil vom 24.03.2026 – 1 C 6.25, Leitsätze 1–2, Randnummern 12–17",
+        "url": "https://www.bverwg.de/240326U1C6.25.0",
+        "application": "Ausländische Flüchtlingsanerkennung, Reiseausweis und Verantwortungsübergang ergeben für sich keinen Aufenthaltstitel nach § 25 Abs. 2 Satz 1 Alt. 1 AufenthG.",
+        "limit": "Andere Titelgrundlagen, Abschiebungsschutz und spätere GEAS-Anwendbarkeit gesondert."
+      },
+      {
+        "citation": "BVerwG, Urteil vom 26.08.2026 – 1 C 27.25, Randnummern 10–13, 19–30, 41–43",
+        "url": "https://www.bverwg.de/260826U1C27.25.0",
+        "application": "Passersatzmitwirkung kann trotz Nationalpass erforderlich sein; Zusatz isoliert anfechtbar und Folgen können nach Duldungsablauf fortwirken.",
+        "limit": "Nur konkrete Pass-/Passersatzpflicht bei individueller Zumutbarkeit, Kausalität und Vertretenmüssen; keine allgemeine Pflicht zur Beseitigung jedes Vollzugshindernisses."
       }
     ],
     "remaining_limits": [
       "GEAS-Übergang, aktuelle Nachzugssonderregeln und länderspezifische Praxis nicht umfassend neu verifiziert; keine Live-Modellprüfung.",
-      "Workflow-Review 23.09.2026: Paragraf 2 AufenthG erneut eingesehen. GEAS-Übergangsrecht bleibt verfahrens- und datumsbezogen zu prüfen; keine neue pauschale Asylrechtsregel ergänzt."
+      "Workflow-Review 23.09.2026: Paragraf 2 AufenthG erneut eingesehen. GEAS-Übergangsrecht bleibt verfahrens- und datumsbezogen zu prüfen; keine neue pauschale Asylrechtsregel ergänzt.",
+      "Zweiter Schnelldurchgang 30.09.2026: ausschließlich die neu dokumentierten Fachpassagen und Entscheidungen; kein Vollaudit aller Skills, kein Live-Modelltest."
     ]
   },
   "prompt_workflow_review": {
