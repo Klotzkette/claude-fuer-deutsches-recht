@@ -121,6 +121,12 @@ EXACT_GROUPS: dict[str, str] = {
 }
 
 PLUGIN_GROUPS = {
+    "pflegerecht-sgb-xi": [
+        ("1. Pflegefall übernehmen", ["pflegefall-bearbeiten"]),
+        ("2. Pflegegrad und häusliche Versorgung", ["pflegegrad-gutachten-pruefen", "haeusliche-pflegeleistungen-planen", "verhinderungs-kurzzeitpflege-abrechnen", "pflegehilfsmittel-wohnumfeld-beantragen"]),
+        ("3. Heim, Pflegeperson und Beiträge", ["pflegeheimkosten-zuschlag-pruefen", "pflegepersonen-absicherung-pruefen", "pflegeversicherung-beitraege-klaeren"]),
+        ("4. Verfahren und Einrichtungen", ["pflegebescheid-rechtsbehelf-erstellen", "pflegeeinrichtungen-verguetung-qualitaet-pruefen"]),
+    ],
     "sozialversicherungspflicht-pruefer": [
         ("1. Gesamte Prüfung", ["sozialversicherungspflicht-pruefen"]),
         ("2. Status und Tätigkeiten", ["beschaeftigung-oder-selbststaendigkeit", "geschaeftsfuehrer-und-gesellschaftermacht", "vorstaende-aufsichtsraete-und-organe", "lehrtaetigkeit-und-uebergang-127", "freie-mitarbeit-und-projektarbeit"]),

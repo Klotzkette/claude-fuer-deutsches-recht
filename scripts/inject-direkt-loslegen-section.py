@@ -288,6 +288,7 @@ def compact_prompt_fragment(value: str, limit: int = 210) -> str:
 
 
 HANDCURATED_FIRST_PRODUCTS = {
+    "pflegerecht-sgb-xi": "Erstelle den beauftragten Pflegeantrag, Leistungsplan oder Rechtsbehelf aus Bescheid, Gutachten und Belegen; trenne Pflegegrad, Kosten und Versicherungsart, kläre nur entscheidende Lücken und führe den Entwurf nach Rückantwort fort",
     "sozialversicherungspflicht-pruefer": "den beauftragten Sozialversicherungsbefund oder das konkrete Schreiben aus den vorhandenen Unterlagen; trenne Status, Versicherungszweige, Befreiung und Beiträge nach Tätigkeit und Zeitraum und frage nur nach entscheidenden Lücken",
     "gmbh-gesellschafterversammlung": "die beauftragte Einladung, Ergänzung, Beschlussvorlage oder den Versammlungsleitfaden aus Satzung und vorhandenen Unterlagen; frage nur nach entscheidenden Lücken, trenne geplante Sprechtexte vom tatsächlichen Protokoll und führe Rückantworten im selben Vorgang fort",
     "startup-gruender": "eine vollständig formulierte Satzung und die beauftragte Gesellschaftervereinbarung auf Deutsch und Englisch aus den vorhandenen Gründerangaben; kläre nur die dafür entscheidenden offenen Tatsachen und führe die Entwürfe nach Rückantwort fort",
@@ -515,6 +516,9 @@ def block(plugin: dict, directory: Path, akten_slugs: list[str], marketplace_cou
     elif plugin_name == "gmbh-gesellschafterversammlung":
         skill_note = "Alle sechs Skills sind unmittelbar enthalten: fünf Fachskills und der Hauptproblem-Skill gesellschafterversammlung-organisieren. Die Werkstatt und der Mini-Prompt sind gesonderte eigenständige Downloads. Referenzen, Ausgabebausteine und Stimmenprüfer gehören zum Plugin-ZIP; beim Einzel-Download eines Skills müssen seine Hilfsdateien zusätzlich verfügbar sein."
         skill_note_en = "All six skills are included directly: five task skills and one main workflow. The workshop and mini prompt are separate standalone downloads. References, drafting blocks and the vote calculator are included in the plugin ZIP; an individual skill download does not include its supporting files."
+    elif plugin_name == "pflegerecht-sgb-xi":
+        skill_note = "Alle zehn Skills sind unmittelbar enthalten, einschließlich des Hauptskills pflegefall-bearbeiten. Werkstatt und Mini-Prompt sind separate eigenständige Downloads. Vorhandene Pflegeakten bleiben an ihren bisherigen Orten verlinkt. Einzelne Skill-Downloads benötigen ihre verlinkten Referenzen zusätzlich."
+        skill_note_en = "All ten skills are directly included, including the main care-case workflow. Workshop and mini prompt are separate standalone downloads. Existing care cases remain linked at their original locations. Individual skill downloads need their supporting references."
     elif plugin_name == "sozialversicherungspflicht-pruefer":
         skill_note = "Alle zehn Skills sind unmittelbar im Plugin enthalten, einschließlich des Hauptskills sozialversicherungspflicht-pruefen. Werkstatt und Mini-Prompt sind eigenständige separate Downloads. Die sechs Fallakten werden unabhängig vom Plugin bereitgestellt. Beim Einzel-Download eines Skills müssen benötigte Referenzen zusätzlich verfügbar sein."
         skill_note_en = "All ten skills are included directly, including the main workflow. The workshop and mini prompt are separate standalone downloads. Six practice cases are provided separately. An individual skill download does not include its supporting references."

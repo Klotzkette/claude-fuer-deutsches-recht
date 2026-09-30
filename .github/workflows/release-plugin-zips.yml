@@ -94,6 +94,7 @@ jobs:
           python3 scripts/test-grundsteuerrecht.py
           python3 scripts/test-digitaler-omnibus.py
           python3 scripts/test-schadensregulierung.py
+          python3 scripts/test-pflegerecht-sgb-xi.py
           python3 scripts/test-notariatswerkstatt.py
           python3 scripts/test-arbeitszeugnispruefer.py
           python3 scripts/test-ki-verordnung-hochrisiko-pruefer.py

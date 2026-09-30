@@ -1,6 +1,6 @@
 # krankenkassenrecht-krankenversicherung
 
-**162 Skills** · Stand `v445.17.0`
+**162 Skills** · Stand `v445.18.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../krankenkassenrecht-krankenversicherung/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

@@ -6091,6 +6091,7 @@ PROFILE_BY_KEY = {p.key: p for p in PROFILE}
 
 
 EXACT_PROFILE_KEYS: dict[str, str] = {
+    "pflegerecht-sgb-xi": "sozial",
     "juristische-praesentationen": "juristische-praesentationen",
     "startup-gruender": "gesellschaft",
     "ki-verordnung-hochrisiko-pruefer": "technikregulierung",

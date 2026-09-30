@@ -1,3 +1,19 @@
+# v445.18.0 - Eigenständiges Pflegerecht nach SGB XI
+
+## 1. Zehn konkrete Arbeitsgänge
+
+Das neue Plugin pflegerecht-sgb-xi führt vom Pflegefall zum Antrag, Leistungsplan oder Rechtsbehelf. Fachskills bearbeiten Pflegegrad und Begutachtung, häusliche Kombination, Ersatz- und Kurzzeitpflege, Hilfsmittel und Wohnumfeld, Heimkosten, Absicherung der Pflegeperson, Beiträge sowie Vergütung und Qualitätsprüfung von Einrichtungen. Vorhandene Pflegeinhalte anderer Plugins bleiben inhaltlich unverändert.
+
+## 2. Fachlich überprüfte eigenständige Prompts
+
+Die ausführliche Werkstatt und der Mini-Prompt unter 7500 UTF-8-Bytes enthalten konkrete Normen, Rechenwege und drei überprüfte BSG-Entscheidungen mit Anwendungsgrenzen. Berücksichtigt sind die 2026 geltende Pflichtberatung, die Erstattungsfrist für Ersatzpflege, die Berechnung des Heimzuschlags durch die Pflegekasse ab Juli 2026 und die BSG-Entscheidung vom März 2026 zu Pflegegrad 5. Soziale und private Pflegepflichtversicherung werden verfahrensrechtlich getrennt.
+
+## 3. Auffindbarkeit und Prüfung
+
+Die vorhandenen Pflegeakten aus Trier und Wittenberge sind zusätzlich beim neuen Plugin verlinkt; Aktenstücke und bisherige Zuordnungen bleiben erhalten. Marketplace, Skill- und Promptverzeichnisse erhalten das neue Paket. Zehn individuelle Ergebnisfälle und technische Regressionstests prüfen die fachlichen Leitplanken, ohne diese redaktionellen Prüfungen als bestandene unabhängige Modellläufe auszugeben.
+
+Ein bestehender Katalogtest ist nun vollständig auf sein temporäres Verzeichnis begrenzt. Seine Beispieldaten überschreiben nicht mehr die echte Rechtsgebietsübersicht; eine zusätzliche Prüfung sichert diese Trennung ab.
+
 # v445.17.0 - Einfache Gründungsakte Topf & Tacheles
 
 ## 1. Überschaubarer Einstieg mit sieben Gründern

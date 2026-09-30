@@ -50,7 +50,7 @@ Kategorien sind alphabetisch nach Titel sortiert, Einträge innerhalb jeder Kate
 | [Migrationsrecht](#migrationsrecht) | 1 |
 | [Prozess- und Verfahrenspraxis](#prozess--und-verfahrenspraxis) | 15 |
 | [Rechtsgeschichte und Vermögensrecht der Wiedervereinigung](#rechtsgeschichte-und-vermögensrecht-der-wiedervereinigung) | 2 |
-| [Sozialrecht](#sozialrecht) | 4 |
+| [Sozialrecht](#sozialrecht) | 5 |
 | [Sportrecht](#sportrecht) | 1 |
 | [Sprache, Lehre und Hilfsskills](#sprache-lehre-und-hilfsskills) | 8 |
 | [Steuerrecht](#steuerrecht) | 4 |
@@ -63,7 +63,7 @@ Kategorien sind alphabetisch nach Titel sortiert, Einträge innerhalb jeder Kate
 | [Versicherungsrecht](#versicherungsrecht) | 3 |
 | [Verwaltungsrecht](#verwaltungsrecht) | 34 |
 
-242 kuratierte Plugins in 34 Kategorien, aus insgesamt 254 Marketplace-Plugins (Abgleich: 30. September 2026). Gezählt werden Plugins, nicht einzelne Skills oder Prompt-Dateien.
+243 kuratierte Plugins in 34 Kategorien, aus insgesamt 255 Marketplace-Plugins (Abgleich: 30. September 2026). Gezählt werden Plugins, nicht einzelne Skills oder Prompt-Dateien.
 
 ## Agrarrecht
 
@@ -301,6 +301,7 @@ Kategorien sind alphabetisch nach Titel sortiert, Einträge innerhalb jeder Kate
 ## Sozialrecht
 
 - [fachanwalt-sozialrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-sozialrecht): Plugin Fachanwalt für Sozialrecht nach FAO Paragraf 11. SGB I-XII und Sozialgerichtsbarkeit SGG. Widerspruch Paragraf 84 SGG Klage Paragraf 87 SGG Eilantrag Paragraf 86b SGG · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-sozialrecht/fachanwalt-sozialrecht-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-sozialrecht/fachanwalt-sozialrecht-werkstatt.md)
+- [pflegerecht-sgb-xi](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/pflegerecht-sgb-xi): Pflegegrad, häusliche Leistungen, Ersatzpflege, Wohnumfeld und Heimkosten nach SGB XI bis zum Antrag oder Rechtsbehelf · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=pflegerecht-sgb-xi/pflegerecht-sgb-xi-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=pflegerecht-sgb-xi/pflegerecht-sgb-xi-werkstatt.md)
 - [rentenpruefer](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/rentenpruefer): Rentenprüfer für gesetzliche Rente, Versorgungswerk und internationale Versicherungszeiten: Kontenklärung, Rentenantrag, Nachversicherung, Auslandszeiten… · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=rentenpruefer/rentenpruefer-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=rentenpruefer/rentenpruefer-werkstatt.md)
 - [selbstvertreter-sozialgericht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/selbstvertreter-sozialgericht): Selbstvertretung vor dem Sozialgericht ohne Anwalt: Anfänger-Workflow, Widerspruch, Klage, Eilantrag, Pflegegrad, Krankenkasse, Bürgergeld, EM-Rente, GdB… · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=selbstvertreter-sozialgericht/selbstvertreter-sozialgericht-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=selbstvertreter-sozialgericht/selbstvertreter-sozialgericht-werkstatt.md)
 - [sozialversicherungspflicht-pruefer](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/sozialversicherungspflicht-pruefer): Prüft Beschäftigung, Selbständigkeit, Geschäftsführerrechte und Lehrtätigkeit, danach Versicherungszweige, Versorgungswerk, Befreiung und Beiträge. Zehn Skills führen mit gezielten Rückfragen zum belegten Gutachten oder Behördenbrief. · [Skills](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/sozialversicherungspflicht-pruefer/skills) · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=sozialversicherungspflicht-pruefer/sozialversicherungspflicht-pruefer-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=sozialversicherungspflicht-pruefer/sozialversicherungspflicht-pruefer-werkstatt.md)

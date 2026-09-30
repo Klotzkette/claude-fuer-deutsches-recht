@@ -198,7 +198,11 @@ class RoutingTests(Fixture):
         overview.write_text(f"Stand v1.0.0: 1 zentrale Testakten.\n{placeholder}")
         marketplace = self.root / ".claude-plugin/marketplace.json"
         marketplace.write_text(json.dumps({"version": VERSION, "plugins": [{"name": "p", "version": VERSION}]}))
-        with patch.multiple(CATALOG, MARKETPLACE=marketplace, README=readme, TESTAKTEN_README=overview), \
+        subject_index = self.root / "references/rechtsgebiete-uebersicht.md"
+        subject_index.parent.mkdir(parents=True, exist_ok=True)
+        repository_index = CATALOG.REPO / "references/rechtsgebiete-uebersicht.md"
+        original_index = repository_index.read_bytes()
+        with patch.multiple(CATALOG, REPO=self.root, MARKETPLACE=marketplace, README=readme, TESTAKTEN_README=overview), \
                 patch.object(CATALOG, "build_directory", return_value=""), patch.object(CATALOG, "build_catalog", return_value=""), \
                 patch.object(CATALOG, "replace_directory", side_effect=lambda text, _: text), \
                 patch.object(CATALOG, "replace_catalog", side_effect=lambda text, _: text), \
@@ -208,6 +212,8 @@ class RoutingTests(Fixture):
         for page in (readme, overview):
             self.assertIn(f"/download/{TAG}/", page.read_text())
             self.assertNotIn("latest/download", page.read_text())
+        self.assertIn(f"Stand v{VERSION}: 1 Plugins", subject_index.read_text())
+        self.assertEqual(repository_index.read_bytes(), original_index)
 
     def test_validator_rejects_placeholder_even_beside_correct_link(self):
         with patch.object(DOWNLOADS, "ROOT", self.root):

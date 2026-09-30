@@ -1,0 +1,433 @@
+{
+  "schema_version": 1,
+  "plugin": "pflegerecht-sgb-xi",
+  "reviewed_on": "2026-09-30",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/sgb_11/__15.html",
+      "checked_on": "2026-09-30",
+      "supports": "Punkteumrechnung, Module und Kinderzuordnung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/sgb_11/__37.html",
+      "checked_on": "2026-09-30",
+      "supports": "Pflegegeld und aktuelle halbjährliche Pflichtberatung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/sgb_11/__39.html",
+      "checked_on": "2026-09-30",
+      "supports": "Ersatzpflegekosten, Näheverhältnis und Erstattungsfrist."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/sgb_11/__43c.html",
+      "checked_on": "2026-09-30",
+      "supports": "Bemessungsgrundlage und Berechnung durch die Pflegekasse ab Juli 2026."
+    }
+  ],
+  "selection": {
+    "target_skill": "pflegefall-bearbeiten",
+    "positive": [
+      "Mein Vater kommt aus der Klinik. Pflegebescheid und Dienstangebot liegen vor. Führe mich zum passenden Antrag und einer tragfähigen Versorgung nach SGB XI.",
+      "Übernimm den Pflegefall aus dem Ordner. Pflegegrad, Ersatzpflege und Heimzuschlag sind ungeklärt; bestimme den nächsten nötigen Antrag."
+    ],
+    "negative": [
+      "Prüfe die Kündigung einer angestellten Pflegefachkraft nach KSchG, nicht ihre Pflegeversicherung.",
+      "Prüfe die Kostenübernahme eines Krebsmedikaments nach SGB V; Pflegebedürftigkeit steht nicht im Raum."
+    ]
+  },
+  "cases": [
+    {
+      "id": "aufnahme-ohne-neustart",
+      "target_skill": "pflegefall-bearbeiten",
+      "request": "Meine Mutter ist sozial pflegeversichert und hat Pflegegrad 3. Der Dienst beginnt Montag. Ich habe bereits den Bescheid und ein Angebot; bitte nur einen Antrag auf Kombinationsleistung vorbereiten, nicht nochmals sämtliche Stammdaten erfragen. Noch unklar ist die monatliche Sachleistungsabrechnung.",
+      "input_files": [],
+      "deliverables": [
+        "antrag.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Führt zur häuslichen Kombination und fragt gezielt nach dem maßgeblichen Dienstbetrag statt neuer Vollaufnahme.",
+          "deliverables": [
+            "antrag.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Erfindet keine monatliche Quote und benennt den davon abhängigen offenen Antragsteil.",
+          "deliverables": [
+            "antrag.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Liefert einen ausformulierten Antrag, keine bloße Übersicht der möglichen Skills.",
+          "deliverables": [
+            "antrag.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "module-nicht-addieren",
+      "target_skill": "pflegegrad-gutachten-pruefen",
+      "request": "Im Gutachten meines volljährigen Vaters stehen bereits gewichtete Werte: Modul 1 null, Modul 2 zehn, Modul 3 fünfzehn, Modul 4 zwanzig, Modul 5 fünf, Modul 6 sieben Komma fünf Punkte. Ich möchte Module 2 und 3 addieren und Pflegegrad 4 verlangen. Prüfe Rechnung und Einwand.",
+      "input_files": [],
+      "deliverables": [
+        "pruefung.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Verwendet max(10,15), nicht die Summe und keine erneute Gewichtung der bereits gewichteten Werte.",
+          "deliverables": [
+            "pruefung.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Ermittelt 47.5 Gesamtpunkte und regulär Pflegegrad 3, ohne eine medizinische Neuprüfung als erledigt darzustellen.",
+          "deliverables": [
+            "pruefung.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Bezieht B 3 P 5/24 R auf Gewichtung und fragt für eine höhere Bewertung nach konkreten falsch erfassten Kriterien.",
+          "deliverables": [
+            "pruefung.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kombination-2026",
+      "target_skill": "haeusliche-pflegeleistungen-planen",
+      "request": "Für September 2026 gilt durchgehend Pflegegrad 3. Der zugelassene Dienst hat genau 898.20 Euro Sachleistung verbraucht, keine weiteren Anrechnungen oder Unterbrechungen. Bitte rechne Restpflegegeld und erkläre der Familie, ob sie jedes Vierteljahr zur Pflichtberatung muss.",
+      "input_files": [],
+      "deliverables": [
+        "brief.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Rechnet 60 Prozent Sachleistungsverbrauch und 239.60 Euro Pflegegeld.",
+          "deliverables": [
+            "brief.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Nennt aktuelle halbjährliche Pflichtberatung, nicht alte pauschale Vierteljahresregeln.",
+          "deliverables": [
+            "brief.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Liefert verständlichen vollständigen Brief mit nachvollziehbarer Rechnung.",
+          "deliverables": [
+            "brief.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ersatzpflege-frist-und-budget",
+      "target_skill": "verhinderungs-kurzzeitpflege-abrechnen",
+      "request": "Für Ersatzpflege im August 2026 soll im November 2027 Erstattung beantragt werden. Pflegegrad 3 besteht. Kurzzeitpflege hat schon 2100 Euro verbraucht. Die im Haushalt wohnende Tochter hat nicht erwerbsmäßig vertreten und verlangt 1400 Euro ohne weitere belegte Auslagen. Bereite die Antwort vor.",
+      "input_files": [],
+      "deliverables": [
+        "antwort.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Unterscheidet rechnerischen Rest 1439 Euro von der regelmäßigen Angehörigengrenze 1198 Euro.",
+          "deliverables": [
+            "antwort.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Verlangt Kostennachweis und prüft Antrag bis 31.12.2027, ohne vorherige Beantragung zu fordern.",
+          "deliverables": [
+            "antwort.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Erfindet keine Auslagen, Stunden oder Quittungen zum Ausschöpfen des Restbudgets.",
+          "deliverables": [
+            "antwort.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rampe-und-bad-gesamtmassnahme",
+      "target_skill": "pflegehilfsmittel-wohnumfeld-beantragen",
+      "request": "Rampe und Badumbau waren im September 2026 objektiv gleichzeitig wegen desselben Pflegebedarfs notwendig. Zwei Firmen rechnen je 4000 Euro ab. Der Versicherte lebt allein und beantragt zweimal 4180 Euro. Bitte prüfe dies und entwirf ein sachgerechtes Schreiben, ohne zusätzliche Tatsachen zu erfinden.",
+      "input_files": [],
+      "deliverables": [
+        "antrag.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Erkennt Gesamtmaßnahme und höchstens 4180 Euro bei dieser einen Person, nicht einen Zuschuss je Rechnung.",
+          "deliverables": [
+            "antrag.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Ordnet B 3 P 5/22 R begrenzt zu Gesamtmaßnahme und Abgrenzung zu, nicht als automatische Rampenbewilligung.",
+          "deliverables": [
+            "antrag.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Fordert nötige Funktions- und Kostenbelege und formuliert den Antrag ohne technische Garantie.",
+          "deliverables": [
+            "antrag.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "heimwechsel-zuschlag",
+      "target_skill": "pflegeheimkosten-zuschlag-pruefen",
+      "request": "Im August 2026 wechselt ein Bewohner mit Pflegegrad 3 nach zwölf berücksichtigten Bezugsmonaten das Heim. Der neue Monat ist der dreizehnte. Pflegebedingter Eigenanteil 1200 Euro, weitere nicht zuschussfähige Kosten 1200 Euro. Das Heim nennt wegen Neueinzugs 15 Prozent auf alles. Bitte korrigieren.",
+      "input_files": [],
+      "deliverables": [
+        "korrektur.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Setzt 30 Prozent auf 1200 Euro, also 360 Euro Zuschlag, an; keine Kürzung der gesamten 2400 Euro.",
+          "deliverables": [
+            "korrektur.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Verliert Voraufenthalt nicht und berücksichtigt Berechnung durch Kasse ab Juli 2026.",
+          "deliverables": [
+            "korrektur.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Verlangt Datenabgleich und korrigierte Rechnung, ohne eigenmächtigen Zahlungsstopp.",
+          "deliverables": [
+            "korrektur.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pflegeperson-erwerbsstunden",
+      "target_skill": "pflegepersonen-absicherung-pruefen",
+      "request": "Ich pflege meinen Vater mit Pflegegrad 3 an vier Tagen insgesamt zwölf Stunden pro Woche, arbeite daneben regelmäßig 32 Stunden und frage nach Rentenbeiträgen sowie Unfallversicherung. Meine Schwester möchte außerdem Pflegeunterstützungsgeld. Es fehlen Angaben zu bereits genutzten Ausfalltagen.",
+      "input_files": [],
+      "deliverables": [
+        "beratung.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Prüft Überschreitung der 30-Stunden-Erwerbsgrenze für Rentenbeiträge.",
+          "deliverables": [
+            "beratung.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Verneint Unfallversicherung nicht automatisch aus derselben Grenze.",
+          "deliverables": [
+            "beratung.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Fragt für Pflegeunterstützungsgeld nach Ausfall, Entgeltfortzahlung und bereits genutzten Tagen für denselben Angehörigen.",
+          "deliverables": [
+            "beratung.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "beitrag-elterneigenschaft",
+      "target_skill": "pflegeversicherung-beitraege-klaeren",
+      "request": "Mein zweites Kind ist im August 2026 fünfundzwanzig geworden. Die Lohnabrechnung setzt nun Kinderlosenzuschlag an und verwendet einfach die Zahl aus Paragraf 55 Absatz 1. Ich arbeite in Sachsen. Bitte prüfe die Vorgehensweise und bereite eine gezielte Anfrage an die Abrechnungsstelle vor.",
+      "input_files": [],
+      "deliverables": [
+        "anfrage.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Trennt dauerhafte Elterneigenschaft von altersbegrenztem Mehrkinderabschlag.",
+          "deliverables": [
+            "anfrage.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Prüft wirksame Beitragssatzverordnung und Sachsenregel statt pauschaler Halbteilung.",
+          "deliverables": [
+            "anfrage.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Verlangt monatliche Rechengrundlage und behauptet ohne sie keinen endgültigen Erstattungsbetrag.",
+          "deliverables": [
+            "anfrage.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "private-pflegeablehnung",
+      "target_skill": "pflegebescheid-rechtsbehelf-erstellen",
+      "request": "Mein privater Pflegepflichtversicherer lehnt die beantragte Leistung mit einfachem Brief ab. Es geht weder um Beihilfe noch um einen Zusatzvertrag. Ein Bekannter meint, ich müsse binnen eines Monats Widerspruch nach Paragraf 84 SGG einlegen und danach vor das Zivilgericht. Bitte bereite die richtige nächste Reaktion vor.",
+      "input_files": [],
+      "deliverables": [
+        "reaktion.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Kein Verwaltungsakt und kein automatisches förmliches Widerspruchsverfahren nach Paragraf 84.",
+          "deliverables": [
+            "reaktion.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Ordnet private Pflegepflichtversicherung dem Sozialrechtsweg nach Paragraf 51 SGG zu.",
+          "deliverables": [
+            "reaktion.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Verlangt Vertrag, Ablehnungsgründe und Leistung und liefert verwendbare Leistungsaufforderung ohne erfundene Frist.",
+          "deliverables": [
+            "reaktion.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "einrichtung-pruefbericht",
+      "target_skill": "pflegeeinrichtungen-verguetung-qualitaet-pruefen",
+      "request": "Ein ambulanter Betreuungsdienst erhält nach Prüfung im September 2026 Beanstandungen und eine Rückforderung für acht Einsätze. Der Leiter möchte fehlende Unterschriften nachtragen und den stationären Prüfkatalog verwenden. Rahmenvertrag und Vergütungsvereinbarung fehlen noch. Bereite eine belastbare Stellungnahme vor.",
+      "input_files": [],
+      "deliverables": [
+        "stellungnahme.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Wählt passende ambulante Richtlinie Teil 1b und prüft 2026 geltende Fassung anhand Besuchsdatum.",
+          "deliverables": [
+            "stellungnahme.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Erfindet keine Unterschriften oder rückdatierten Nachweise und unterscheidet heutigen erläuternden Nachtrag.",
+          "deliverables": [
+            "stellungnahme.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Fordert Verträge nach und bearbeitet belegbare Positionen, ohne sämtliche Arbeit einzustellen oder Vergütung zu erfinden.",
+          "deliverables": [
+            "stellungnahme.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-30",
+    "method": "desk_review",
+    "files": [
+      "pflegerecht-sgb-xi/README.md",
+      "pflegerecht-sgb-xi/pflegerecht-sgb-xi-werkstatt.md",
+      "pflegerecht-sgb-xi/pflegerecht-sgb-xi-schnellstart.md",
+      "pflegerecht-sgb-xi/references/rechtsstand-und-quellen.md"
+    ],
+    "opening_change": "Pflegegrad, Versorgung, Kosten und Rechtsbehelf als konkrete Einstiegspfade; vorhandene Belege vor Rückfragen.",
+    "norms": [
+      "Paragrafen 14 und 15 SGB XI",
+      "Paragrafen 37 bis 40 und 42a SGB XI",
+      "Paragraf 43c SGB XI",
+      "Paragrafen 51, 84 und 87 SGG"
+    ],
+    "decisions": [
+      {
+        "citation": "BSG, Urteil vom 05.03.2026, B 3 P 5/24 R",
+        "url": "https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2026/2026_03_05_B_03_P_05_24_R.html",
+        "application": "Gewichtung der Module und besondere Bedarfskonstellation getrennt prüfen.",
+        "limit": "Kein Ausschluss eines Pflegegrads allein wegen einer Diagnose."
+      },
+      {
+        "citation": "BSG, Urteil vom 12.12.2024, B 3 P 9/23 R",
+        "url": "https://www.sozialgerichtsbarkeit.de/node/177388/pdf",
+        "application": "Krankheitsbedingten Mehrbedarf des Kindes konkret auch in Modulen 3 und 4 untersuchen.",
+        "limit": "Kein automatischer Pflegegrad bei Diabetes."
+      },
+      {
+        "citation": "BSG, Urteil vom 30.11.2023, B 3 P 5/22 R",
+        "url": "https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2023/2023_11_30_B_03_P_05_22_R.html",
+        "application": "Technische Hilfe, Wohnumfeld und Gesamtmaßnahme unterscheiden.",
+        "limit": "Keine Zusage einer Krankenversicherungsleistung; Verzögerungszahlung nach damaliger Fassung."
+      }
+    ],
+    "remaining_limits": [
+      "Redaktionelle Quellenprüfung und Ergebnisfälle, noch keine unabhängigen Modellläufe.",
+      "Keine medizinische Diagnose oder verbindliche technische Rampenprüfung.",
+      "Landesrecht, Versicherungsvertrag und historische Beträge bleiben fallbezogen zu prüfen."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-30",
+    "method": "desk_review",
+    "opening_modes": [
+      "Klarer Antrag mit vorhandenen Belegen: unmittelbar entwerfen.",
+      "Unklarer Pflegefall: konkrete Richtung und entscheidende Lücke klären.",
+      "Naher Fristablauf: fristwahrenden Entwurf priorisieren.",
+      "Rückantwort: vorhandenen Vorgang ohne Neustart fortführen."
+    ],
+    "continuation": "Neue Belege ändern nur abhängige Bewertungen, Rechnungen und Textteile; offene Nachweise gezielt anfordern.",
+    "enrichment": "Leistungszeitraum, Versicherungsart, konkrete Hilfehandlungen, Rechenbeispiele und ausformulierte Empfängertexte.",
+    "limits": "Keine selbsttätige Einreichung, Diagnose oder tatsächlich nicht erzeugte Datei."
+  },
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Eigenständige pflegeversicherungsrechtliche Fachwege mit Frist- und Kostengrenzen.",
+    "changes": [
+      "Aktueller Beratungsrhythmus, Ersatzpflegefrist und Heimzuschlag.",
+      "Drei eingegrenzte BSG-Fallanker und Fortsetzung bis zum Schreiben."
+    ],
+    "sha256": "7dc68bb4a028834806798ff42d97b4214557499063f284759dabdd67ae7cf34f"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Ausführliche eigenständige Bearbeitung mit zehn konkreten Fachwegen statt allgemeiner Mandatsfloskeln.",
+    "changes": [
+      "Kriterienprüfung, Kostenzuordnung und Versicherungswege mit spezifischen Nachfragen.",
+      "Ausformulierte Ergebnisarten, fachliche Grenzen und belastbare Fortsetzung."
+    ],
+    "sha256": "dcfb5d41df967c1ed6db1c88568d59c52213cacf5cd1444687742ce305f3b98a"
+  }
+}
