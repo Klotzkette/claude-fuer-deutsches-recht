@@ -1,0 +1,41 @@
+{
+  "workbooks": 5,
+  "sheets_visually_reviewed": 6,
+  "native_pdf_pages": 6,
+  "cell_changes": [
+    {
+      "file": "testakten/sozialversicherung-gmbh-zwanzig-prozent-berlin/14_Anteilsuebersicht.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "C12",
+      "before": {
+        "v": "Übertragung geplant",
+        "f": null,
+        "t": "s"
+      },
+      "after": {
+        "v": "Geplante Übertragung",
+        "f": null,
+        "t": "str"
+      }
+    },
+    {
+      "file": "testakten/sozialversicherung-programmierer-leipzig/27_Rechnungsabgleich_2025.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "A4",
+      "before": {
+        "v": "Leistungsmonat",
+        "f": null,
+        "t": "str"
+      },
+      "after": {
+        "v": "Monat",
+        "f": null,
+        "t": "str"
+      }
+    }
+  ],
+  "all_numeric_values_and_formulas_unchanged": true,
+  "music_sha256_unchanged": "1f9288a781241c7cc5c45d6d4a4f13454263e2ca52ad6f477c3339e84b33d08e",
+  "native_pdf_errors": 0,
+  "qa": "All six complete Artifact Tool sheet previews and all six isolated LibreOffice PDF pages visually checked; no overlaps, clipped headers or text, or split note page remains."
+}

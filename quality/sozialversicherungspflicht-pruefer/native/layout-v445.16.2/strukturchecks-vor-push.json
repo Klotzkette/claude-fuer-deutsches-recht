@@ -1,0 +1,26 @@
+[
+  {
+    "command": [
+      "scripts/validate-marketplace-import.mjs"
+    ],
+    "exit": 0
+  },
+  {
+    "command": [
+      "scripts/validate-yaml-frontmatter.py"
+    ],
+    "exit": 0
+  },
+  {
+    "command": [
+      "scripts/validate-plugin-structure.mjs"
+    ],
+    "exit": 0
+  },
+  {
+    "command": [
+      "scripts/validate-testakten-gesamt-pdf.py"
+    ],
+    "exit": 0
+  }
+]

@@ -1,0 +1,66 @@
+{
+  "cell_changes": [
+    {
+      "file": "testakten/sozialversicherung-gmbh-zwanzig-prozent-berlin/14_Anteilsuebersicht.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "C12",
+      "before": {
+        "v": "Übertragung geplant",
+        "f": null,
+        "t": "s"
+      },
+      "after": {
+        "v": "Geplante Übertragung",
+        "f": null,
+        "t": "str"
+      }
+    },
+    {
+      "file": "testakten/sozialversicherung-programmierer-leipzig/27_Rechnungsabgleich_2025.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "A4",
+      "before": {
+        "v": "Leistungsmonat",
+        "f": null,
+        "t": "str"
+      },
+      "after": {
+        "v": "Monat",
+        "f": null,
+        "t": "str"
+      }
+    }
+  ],
+  "hashes": [
+    {
+      "file": "testakten/sozialversicherung-gmbh-zwanzig-prozent-berlin/14_Anteilsuebersicht.xlsx",
+      "before": "2ec1b18f9b64359ea66fc9b4b2658f052ad192700d3ced044a2c4abb5518edc9",
+      "after": "740915b26b256125a6b9a9ce54cd82d9ce4c302dfb861f15ef3e2beab9315ce3"
+    },
+    {
+      "file": "testakten/sozialversicherung-gmbh-zwanzig-prozent-berlin/15_Verguetungen_2025_2026.xlsx",
+      "before": "19e867bc92f44af13116bf02a4224eb7073816e22ed2e5e9744ee43de2f1a413",
+      "after": "227f46c7071cb323a511bb705303f6207d8086d0a34ca63e3c2ab5c5a93e8e88"
+    },
+    {
+      "file": "testakten/sozialversicherung-gmbh-fuenfzig-prozent-erfurt/14_Anteilsuebersicht.xlsx",
+      "before": "e039bdd8e5d947325745ad22387959f1d5b59c575e8f79dcdc37d5d4ecd9c64a",
+      "after": "944f195c89a95b345ce9a34363f3e9a7842edd8ed891b8d44ba691c18dd0e1c5"
+    },
+    {
+      "file": "testakten/sozialversicherung-gmbh-fuenfzig-prozent-erfurt/15_Verguetungen_2025_2026.xlsx",
+      "before": "019347e4ff0fc2ada16fafa3a80e33a02e0a56a68d1095556654f172b660e587",
+      "after": "dfcebc493ff73968f798953c02bd7deb15ff2696840ddc32304c3886254820c4"
+    },
+    {
+      "file": "testakten/sozialversicherung-programmierer-leipzig/27_Rechnungsabgleich_2025.xlsx",
+      "before": "c01b8634d6eeee09554aaca191fc4330fcf232e9b9720c899c5fc5db5be9c8fb",
+      "after": "64a446eb2e087db6e06b3a0b6082ade30a0304c8360f0f0868b631642852dd10"
+    },
+    {
+      "file": "testakten/sozialversicherung-musikakademie-prenzlauer-berg/27_Honorarabgleich_2025.xlsx",
+      "before": "1f9288a781241c7cc5c45d6d4a4f13454263e2ca52ad6f477c3339e84b33d08e",
+      "after": "1f9288a781241c7cc5c45d6d4a4f13454263e2ca52ad6f477c3339e84b33d08e"
+    }
+  ]
+}

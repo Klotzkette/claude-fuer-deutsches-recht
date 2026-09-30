@@ -23,3 +23,7 @@ Originalarchive und Einzel-PDF-Archive wurden mit den unveränderten zentralen V
 ## 4. Befunde und Nachkorrekturen
 
 Die unabhängige Inhaltsprüfung fand zwei konkrete Aktenfehler: eine vorgezogene Registerangabe in der Erfurter Vertragspräambel und fehlende September-Zusatztermine in der Musikakte. Beide wurden anschließend korrigiert und die betroffenen Word-Seiten erneut geprüft. Die Werkstattprobe hatte die Raumkapazitätsabweichung nicht erkannt; das ist in ihrem Protokoll festgehalten. Fachliche Durchläufe und statische Aktenkontrolle ergänzen sich deshalb.
+
+## 5. Öffentliche Nachprüfung und Tabellenkorrektur
+
+Die tatsächlichen Downloads von v445.16.1 wurden anhand der Prüfsummen, Originalbytes, ZIP-Inhalte und PDF-Lesbarkeit überprüft. Die ergänzende Sichtprüfung fand kleine Tabellenlayoutmängel. Der Ablauf und die Korrektur für v445.16.2 sind in [release-nachpruefung.md](release-nachpruefung.md) und [native/layout-v445.16.2/README.md](native/layout-v445.16.2/README.md) festgehalten. Die aktuellen Aktenhashes bezeichnen den korrigierten Repositorybestand. Die archivierten Modellprobe-Eingaben bleiben unverändert erhalten.

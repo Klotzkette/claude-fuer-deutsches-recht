@@ -15,3 +15,17 @@ Der bereits gesetzte Tag `v445.16.0` bleibt unverändert. Die korrigierte Veröf
 ## 3. Gezielte Nachprüfung
 
 Die korrigierte Routing-Suite besteht mit 30 Tests. Die getrennte Release-Asset-Suite, der Abgleich der zentralen Übersichten und die Validierung sämtlicher Testakten-Downloadverweise bestehen ebenfalls. Der unabhängige Diff-Review der Testkorrektur ergab keinen Befund. Eine verbliebene sichtbare Versionsangabe im Startup-Gründer-README wurde aktualisiert; der danach erneut ausgeführte Marketplace-Importcheck besteht.
+
+## 4. Öffentlicher Download und Sichtprüfung von v445.16.1
+
+Der vollständige Release-Lauf `36689390745` endete erfolgreich. Hauptrelease `v445.16.1` und Begleitrelease `akten-v445.16.1` sind veröffentlicht. Der tatsächliche öffentliche Downloadabgleich prüfte das Plugin-ZIP, zwölf Aktenarchive, beide Prüfsummenlisten und beide Pages-Prompts. Die 175 nativen Originale waren bytegleich zum Repository und zum Qualitätsmanifest. Das Plugin enthielt genau zehn Skills. Die getrennten Promptdateien stimmten mit ihren Repositoryfassungen überein.
+
+Die öffentlichen Gesamt-PDFs haben zusammen 293 Seiten; die damals lokal erzeugten Fassungen 296. Je eine Seite Unterschied entsteht beim Druck der Excel-Mappen aus Musik-, Programmierer- und Syndikusakte. Diese Unterschiede wurden durch Textvergleich und gezielte Sichtprüfung der betreffenden Druckseiten nachvollzogen. Es wird keine Byte- oder Pixelgleichheit der abgeleiteten Office-PDFs behauptet.
+
+Alle 293 öffentlichen Gesamtseiten wurden auf Kontaktbögen tatsächlich angesehen; gezielte Inhaltsseiten zusätzlich in voller Renderauflösung. Dabei fiel in der Berliner Anteilsübersicht ein Zusammenstoß der Tabellenköpfe auf. Die beiden GmbH-Vergütungstabellen und die Erfurter Anteilsübersicht hatten außerdem knappe Zahlen-/Textabstände. Im Programmierer-Rechnungsabgleich war „Leistungsmonat“ ungünstig umbrochen. Zahlen und Textinhalte blieben nachvollziehbar, die Darstellung war aber verbesserungsbedürftig. Diese Befunde werden nicht rückwirkend aus der Prüfung entfernt.
+
+## 5. Gezielte Darstellungsänderung für v445.16.2
+
+Fünf Excel-Originale und ihre beiden Builder erhalten besser getrennte Tabellenköpfe und Zahlen-/Textspalten. Anteilswerte, Gehälter, Rechnungen und Rechenformeln bleiben unverändert; der semantische Vorher/Nachher-Abgleich dokumentiert die wenigen geänderten Kopftexte gesondert. Musik-, Syndikus- und Organe-Originale sowie die fachlichen Produktanweisungen bleiben unverändert. Die drei betroffenen Gesamt-PDFs und die zugehörigen Archive werden aus dem korrigierten Stand neu gebaut. Die frühere Veröffentlichung bleibt bestehen.
+
+Die Modellproben bezeichnen weiterhin ihre jeweils archivierten Eingabestände. Eine Formatänderung wird nicht als neue Modellprobe ausgegeben. Native Druckprüfung, Werte-/Formelabgleich und nachfolgende technische Prüfungen stehen in den gesonderten Nachweisen dieser Revision. Die öffentliche Nachkontrolle von v445.16.2 erfolgt erst nach dessen tatsächlicher Veröffentlichung.

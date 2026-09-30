@@ -1,0 +1,32 @@
+[
+  {
+    "source": "testakten/sozialversicherung-gmbh-zwanzig-prozent-berlin/14_Anteilsuebersicht.xlsx",
+    "pdf": "qa-local/layout-445162/native-pdf/sozialversicherung-gmbh-zwanzig-prozent-berlin/14_Anteilsuebersicht.pdf",
+    "pages": 1,
+    "errors": []
+  },
+  {
+    "source": "testakten/sozialversicherung-gmbh-zwanzig-prozent-berlin/15_Verguetungen_2025_2026.xlsx",
+    "pdf": "qa-local/layout-445162/native-pdf/sozialversicherung-gmbh-zwanzig-prozent-berlin/15_Verguetungen_2025_2026.pdf",
+    "pages": 1,
+    "errors": []
+  },
+  {
+    "source": "testakten/sozialversicherung-gmbh-fuenfzig-prozent-erfurt/14_Anteilsuebersicht.xlsx",
+    "pdf": "qa-local/layout-445162/native-pdf/sozialversicherung-gmbh-fuenfzig-prozent-erfurt/14_Anteilsuebersicht.pdf",
+    "pages": 1,
+    "errors": []
+  },
+  {
+    "source": "testakten/sozialversicherung-gmbh-fuenfzig-prozent-erfurt/15_Verguetungen_2025_2026.xlsx",
+    "pdf": "qa-local/layout-445162/native-pdf/sozialversicherung-gmbh-fuenfzig-prozent-erfurt/15_Verguetungen_2025_2026.pdf",
+    "pages": 1,
+    "errors": []
+  },
+  {
+    "source": "testakten/sozialversicherung-programmierer-leipzig/27_Rechnungsabgleich_2025.xlsx",
+    "pdf": "qa-local/layout-445162/native-pdf/sozialversicherung-programmierer-leipzig/27_Rechnungsabgleich_2025.pdf",
+    "pages": 2,
+    "errors": []
+  }
+]

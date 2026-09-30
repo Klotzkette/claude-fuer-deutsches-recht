@@ -18,6 +18,7 @@ function base(wb,name,c,last){
   const s=wb.worksheets.add(name);s.showGridLines=false;
   s.getRange(`A1:E${last}`).format.font={name:'Arial',size:11,color:'#222222'};
   s.getRange(`A1:E${last}`).format.rowHeight=23;
+  s.getRange(`A1:E${last}`).format.verticalAlignment='center';
   s.getRange('A:A').format.columnWidth=26;
   s.getRange('B:D').format.columnWidth=19;
   s.getRange('E:E').format.columnWidth=45;
@@ -29,6 +30,11 @@ function base(wb,name,c,last){
   s.freezePanes.freezeRows(4);return s;
 }
 function band(s,r){s.getRange(r).format.fill='#E5EBEF';s.getRange(r).format.font={bold:true};}
+function header(s,row){
+  s.getRange(`A${row}:E${row}`).format.wrapText=true;
+  s.getRange(`A${row}:E${row}`).format.rowHeight=36;
+  s.getRange(`B${row}:D${row}`).format.horizontalAlignment='center';
+}
 async function save(wb,s,c,name,range,mutation){
   wb.recalculate();
   const inspection=await wb.inspect({kind:'region',sheetId:s.name,range,maxChars:18000,tableMaxRows:40,tableMaxCols:5});
@@ -48,20 +54,23 @@ async function save(wb,s,c,name,range,mutation){
 for(const c of cases){
   const wb=Workbook.create(),s=base(wb,'Anteile',c,20),n=c.shares.length,end=4+n,total=end+1;
   s.getRange('A4:E4').values=[['Gesellschafter','Nennbetrag','Anteil aktuell','Anteil-Nr.','Quelle / Stand']];band(s,'A4:E4');
+  header(s,4);
   s.getRange(`A5:B${end}`).values=c.shares;
   s.getRange(`C5:C${end}`).formulas=c.shares.map((_,i)=>[`=B${5+i}/SUM($B$5:$B$${end})`]);
   s.getRange(`D5:E${end}`).values=c.shares.map((_,i)=>[i+1,'Gesellschafterliste, Datei 04']);
   s.getRange(`A${total}`).values=[['Summe']];s.getRange(`B${total}`).formulas=[[`=SUM(B5:B${end})`]];s.getRange(`C${total}`).formulas=[[`=SUM(C5:C${end})`]];band(s,`A${total}:E${total}`);
-  s.getRange(`B5:B${total}`).setNumberFormat('#,##0.00');s.getRange(`C5:C${total}`).setNumberFormat('0.00%');
+  s.getRange(`B5:B${total}`).setNumberFormat('#,##0.00"  "');s.getRange(`C5:C${total}`).setNumberFormat('0.00%"  "');
+  s.getRange(`B5:C${total}`).format.horizontalAlignment='right';
+  s.getRange(`D5:D${end}`).format.horizontalAlignment='center';
   s.getRange(`B5:B${end}`).format.font={color:'#1F5B9E'};
   s.getRange('A11:E11').merge();s.getRange('A11').values=[['Besprechungsstand – mögliche spätere Veränderung']];band(s,'A11:E11');
   if(c.short==='Berlin'){
-    s.getRange('A12:E12').values=[['Gesellschafter','Bisher','Übertragung geplant','Danach geplant','Verhandlungsstand']];band(s,'A12:E12');
+    s.getRange('A12:E12').values=[['Gesellschafter','Bisher','Geplante Übertragung','Danach geplant','Verhandlungsstand']];band(s,'A12:E12');header(s,12);
     s.getRange('A13:A15').values=c.shares.map(x=>[x[0]]);
     s.getRange('B13:B15').formulas=[['=B5'],['=B6'],['=B7']];s.getRange('C13:C15').values=[[6000],[0],[-6000]];
     s.getRange('D13:D15').formulas=[['=B13+C13'],['=B14+C14'],['=B15+C15']];
     s.getRange('E13:E15').values=[['Finanzierung noch offen'],['Keine Übertragung geplant'],['Kein notarielles Angebot']];
-    s.getRange('B13:D15').setNumberFormat('#,##0.00');
+    s.getRange('B13:D15').setNumberFormat('#,##0.00"  "');s.getRange('B13:D15').format.horizontalAlignment='right';
   }else{
     s.getRange('A12:E13').merge();s.getRange('A12').values=[['Keine Anteilsübertragung vereinbart. Beide Beteiligungen betragen weiterhin jeweils 25.000 EUR. Der Satzungsentwurf vom 31.07.2026 betrifft die Beschlussfassung.']];s.getRange('A12:E13').format.wrapText=true;
   }
@@ -70,10 +79,12 @@ for(const c of cases){
   const w=Workbook.create(),v=base(w,'Vergütung',c,34);
   v.getRange('A3:E3').merge();v.getRange('A3').values=[[c.person+' | Monatswerte aus der Vertragsablage']];
   v.getRange('A4:E4').values=[['Monat','Festvergütung','Sondervergütung','Brutto gesamt','Vertragsgrundlage']];band(v,'A4:E4');
+  header(v,4);
   const monthly=[];for(let y=2025;y<=2026;y++)for(let m=1;m<=(y===2025?12:9);m++)monthly.push([new Date(Date.UTC(y,m-1,1)),y===2025?c.oldsalary:c.salary,0,null,y===2025?'Anstellungsvertrag, Datei 06':'Nachtrag 12.12.2025, Datei 11']);
   v.getRange('A5:E25').values=monthly;v.getRange('A5:A25').setNumberFormat('mmm yyyy');
   v.getRange('D5:D25').formulas=monthly.map((_,i)=>[`=B${5+i}+C${5+i}`]);
-  v.getRange('B5:C25').format.font={color:'#1F5B9E'};v.getRange('B5:D29').setNumberFormat('#,##0.00');
+  v.getRange('B5:C25').format.font={color:'#1F5B9E'};v.getRange('B5:D29').setNumberFormat('#,##0.00"  "');
+  v.getRange('B5:D29').format.horizontalAlignment='right';
   v.getRange('A27:C27').merge();v.getRange('A27').values=[['Jahr 2025']];v.getRange('D27').formulas=[['=SUM(D5:D16)']];band(v,'A27:E27');
   v.getRange('A28:C28').merge();v.getRange('A28').values=[['Januar bis September 2026']];v.getRange('D28').formulas=[['=SUM(D17:D25)']];band(v,'A28:E28');
   v.getRange('A29:C29').merge();v.getRange('A29').values=[['Gesamter dokumentierter Zeitraum']];v.getRange('D29').formulas=[['=SUM(D27:D28)']];band(v,'A29:E29');

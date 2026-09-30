@@ -1,3 +1,7 @@
+# v445.16.2 - Lesbarere Tabellen in den Sozialversicherungsakten
+
+Die Anteils- und Vergütungstabellen der beiden Geschäftsführerakten sowie der Rechnungsabgleich der Programmiererakte erhalten klar getrennte Spaltenüberschriften und mehr Abstand zwischen Zahlen und Belegtext. Werte und Formeln bleiben unverändert. Die zugehörigen PDF- und ZIP-Fassungen werden neu erzeugt; die fachlichen Skills und Prompts bleiben unverändert.
+
 # v445.16.1 - Release-Prüfung für die erweiterten Aktenpakete
 
 Die Routingtests prüfen die elf vorgesehenen Akten im Begleit-Release und verwenden für den Grenzfall mit 1.003 Assets eine eigene feste Testkonfiguration. Dadurch bleiben die Größen- und Vollständigkeitsprüfungen erhalten, ohne von einer veralteten Zahl realer Akten auszugehen. Der erste Release-Build von v445.16.0 wurde vor der ZIP-Erstellung durch diese alte Testerwartung gestoppt; fachliche Inhalte und native Testakten bleiben unverändert.
