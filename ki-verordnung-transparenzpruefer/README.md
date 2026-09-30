@@ -62,7 +62,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
-| [digitale Systeme Kommunikation einer Mainzer Kanzlei](../testakten/ki-transparenz-kanzlei-kommunikation-mainz/README.md) | [Gesamt-PDF](../testakten/ki-transparenz-kanzlei-kommunikation-mainz/gesamt-pdf/ki-transparenz-kanzlei-kommunikation-mainz_gesamt.pdf) | [`testakte-ki-transparenz-kanzlei-kommunikation-mainz.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.16.2/testakte-ki-transparenz-kanzlei-kommunikation-mainz.zip) | [`testakte-ki-transparenz-kanzlei-kommunikation-mainz-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.16.2/testakte-ki-transparenz-kanzlei-kommunikation-mainz-einzelpdfs.zip) |
+| [digitale Systeme Kommunikation einer Mainzer Kanzlei](../testakten/ki-transparenz-kanzlei-kommunikation-mainz/README.md) | [Gesamt-PDF](../testakten/ki-transparenz-kanzlei-kommunikation-mainz/gesamt-pdf/ki-transparenz-kanzlei-kommunikation-mainz_gesamt.pdf) | [`testakte-ki-transparenz-kanzlei-kommunikation-mainz.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.17.0/testakte-ki-transparenz-kanzlei-kommunikation-mainz.zip) | [`testakte-ki-transparenz-kanzlei-kommunikation-mainz-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.17.0/testakte-ki-transparenz-kanzlei-kommunikation-mainz-einzelpdfs.zip) |
 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->

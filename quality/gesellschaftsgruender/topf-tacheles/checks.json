@@ -1,0 +1,63 @@
+[
+  {
+    "command": [
+      "scripts/validate-testakten-dokumentqualitaet.py"
+    ],
+    "exit": 0
+  },
+  {
+    "command": [
+      "scripts/validate-testakten-ohne-loesungen.py"
+    ],
+    "exit": 0
+  },
+  {
+    "command": [
+      "scripts/validate-testakten-readme-downloads.py"
+    ],
+    "exit": 0
+  },
+  {
+    "command": [
+      "scripts/validate-root-readme-overview.py"
+    ],
+    "exit": 0
+  },
+  {
+    "command": [
+      "scripts/validate-readme-navigation.py"
+    ],
+    "exit": 0
+  },
+  {
+    "command": [
+      "scripts/test-release-routing.py"
+    ],
+    "exit": 0
+  },
+  {
+    "command": [
+      "scripts/test-startup-gruender.py"
+    ],
+    "exit": 0
+  },
+  {
+    "command": [
+      "scripts/run-eval.py",
+      "gesellschaftsgruender-topf-tacheles-berlin",
+      "--structural-only"
+    ],
+    "exit": 0
+  },
+  {
+    "command": [
+      "scripts/quality-lab.py",
+      "audit",
+      "--require-editorial",
+      "--require-workflow",
+      "--catalog",
+      "QUALITY.md"
+    ],
+    "exit": 0
+  }
+]

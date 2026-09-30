@@ -1,6 +1,6 @@
 # beamtenrecht
 
-**179 Skills** · Stand `v445.16.2`
+**179 Skills** · Stand `v445.17.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../beamtenrecht/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

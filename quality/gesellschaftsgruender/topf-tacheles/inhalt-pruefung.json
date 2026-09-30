@@ -1,0 +1,75 @@
+{
+  "original_count": 15,
+  "formats": {
+    ".docx": 3,
+    ".eml": 4,
+    ".txt": 1,
+    ".jpg": 7
+  },
+  "names_absent_from_contract_xml": true,
+  "capital_total": 25000,
+  "quote_total": 100,
+  "gesamt_pdf_pages": 22,
+  "files": [
+    {
+      "path": "testakten/gesellschaftsgruender-topf-tacheles-berlin/01_Auftrag_Frieda.eml",
+      "sha256": "290379bef9007c66d88aa6730bf7638a4db2a2932c16adf4719b35f93a79f039"
+    },
+    {
+      "path": "testakten/gesellschaftsgruender-topf-tacheles-berlin/02_Kurzer_Gruenderchat.txt",
+      "sha256": "b010f1e49440f4e39cb62679b3661b60980f2936897bac06500ae5f5c18f56da"
+    },
+    {
+      "path": "testakten/gesellschaftsgruender-topf-tacheles-berlin/03_Vorueberlegungen_und_Anteilsplan.docx",
+      "sha256": "4998513c9ec894a3055be99f9f63a24d9634fce00a5706600baf3e956131b284"
+    },
+    {
+      "path": "testakten/gesellschaftsgruender-topf-tacheles-berlin/04_Satzung_Entwurf.docx",
+      "sha256": "5aad09d425324e3ceb6412320995264b87cfc1c54993120b3fdcd5176466e061"
+    },
+    {
+      "path": "testakten/gesellschaftsgruender-topf-tacheles-berlin/05_Gesellschaftervereinbarung_Entwurf.docx",
+      "sha256": "8c59e769600e7cbf04df65df8c316b869f509736103a574c19ee340f30c01a72"
+    },
+    {
+      "path": "testakten/gesellschaftsgruender-topf-tacheles-berlin/06_Mehrheiten_Rueckfrage.eml",
+      "sha256": "991170dde6ddf639150f8c9c35d7207e28c7eef61b637900c111f43d153619ed"
+    },
+    {
+      "path": "testakten/gesellschaftsgruender-topf-tacheles-berlin/07_Notariat_Terminvorbereitung.eml",
+      "sha256": "09fb3745d04feee7b35ec0d36c8886170535fb66f3fd0f94f4972cfc6fdede75"
+    },
+    {
+      "path": "testakten/gesellschaftsgruender-topf-tacheles-berlin/08_Letzter_Stand.eml",
+      "sha256": "d2eaafd5581a1fe6d25356f8e71ad31307fed2a525e240d9ee36bf680bb10d5d"
+    },
+    {
+      "path": "testakten/gesellschaftsgruender-topf-tacheles-berlin/09_P01_Personendaten.jpg",
+      "sha256": "4c7c9613eaddb64d7003b2b18bd2119da920a791521b794adda18b5d9a24b50c"
+    },
+    {
+      "path": "testakten/gesellschaftsgruender-topf-tacheles-berlin/10_P02_Personendaten.jpg",
+      "sha256": "136a898b6e4477b986de3ba9fba8a65bfa118d7115551f3d6364347e54e9915a"
+    },
+    {
+      "path": "testakten/gesellschaftsgruender-topf-tacheles-berlin/11_P03_Personendaten.jpg",
+      "sha256": "9ad6913840e840465f35ac91041b3cb8fdf76e65c9af8aad05faa0b3d4e80fd6"
+    },
+    {
+      "path": "testakten/gesellschaftsgruender-topf-tacheles-berlin/12_P04_Personendaten.jpg",
+      "sha256": "9272d92014823737de53d6787f2a1c7d13975626fa714e5e4421d8728c3deb8a"
+    },
+    {
+      "path": "testakten/gesellschaftsgruender-topf-tacheles-berlin/13_P05_Personendaten.jpg",
+      "sha256": "793acfa78fd6b8879eb10b0791dee219c02ec33bab4e0f20eee7121b922bad79"
+    },
+    {
+      "path": "testakten/gesellschaftsgruender-topf-tacheles-berlin/14_P06_Personendaten.jpg",
+      "sha256": "56eca1bb7b0f673b51f7ddfdb136293e906d33f33c4e6fe653a72bb5b0ff98c4"
+    },
+    {
+      "path": "testakten/gesellschaftsgruender-topf-tacheles-berlin/15_P07_Personendaten.jpg",
+      "sha256": "be7aaae793ff45743691ab2904c752d4949ebf9561459658545ad8daa84745a2"
+    }
+  ]
+}

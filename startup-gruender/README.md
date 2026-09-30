@@ -60,7 +60,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`startup-gruender.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/startup-gruender.zip) |
 | Kompakter Prompt (Schnellstart) | Markdown / identisches TXT | [`startup-gruender-schnellstart.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=startup-gruender/startup-gruender-schnellstart.md) · [`startup-gruender-schnellstart.txt`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=startup-gruender/startup-gruender-schnellstart.txt) |
 | Großer Prompt (Werkstatt) | Markdown / identisches TXT | [`startup-gruender-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=startup-gruender/startup-gruender-werkstatt.md) · [`startup-gruender-werkstatt.txt`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=startup-gruender/startup-gruender-werkstatt.txt) |
-| Zugeordnete Testakten | PDF / ZIP | [eine zugeordnete Akte](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
+| Zugeordnete Testakten | PDF / ZIP | [2 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
 > Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 254 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
@@ -76,12 +76,13 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
+| [Topf & Tacheles – einfache GmbH-Gründung in Berlin](../testakten/gesellschaftsgruender-topf-tacheles-berlin/README.md) | [Gesamt-PDF](../testakten/gesellschaftsgruender-topf-tacheles-berlin/gesamt-pdf/gesellschaftsgruender-topf-tacheles-berlin_gesamt.pdf) | [`testakte-gesellschaftsgruender-topf-tacheles-berlin.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.17.0/testakte-gesellschaftsgruender-topf-tacheles-berlin.zip) | [`testakte-gesellschaftsgruender-topf-tacheles-berlin-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.17.0/testakte-gesellschaftsgruender-topf-tacheles-berlin-einzelpdfs.zip) |
 | [Startup Gründer Schnittflug Berlin](../testakten/startup-gruender-schnittflug-berlin/README.md) | [Gesamt-PDF](../testakten/startup-gruender-schnittflug-berlin/gesamt-pdf/startup-gruender-schnittflug-berlin_gesamt.pdf) | [`testakte-startup-gruender-schnittflug-berlin.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-startup-gruender-schnittflug-berlin.zip) | [`testakte-startup-gruender-schnittflug-berlin-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-startup-gruender-schnittflug-berlin-einzelpdfs.zip) |
 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->
 
-**Version:** `445.16.2`
+**Version:** `445.17.0`
 
 Von den ersten Gründerangaben zu einer vollständigen Satzung und Gesellschaftervereinbarung: **18 Skills**, ein ausführlicher Werkstatt-Prompt und ein Mini-Prompt mit **exakt 7.500 Unicode-Zeichen einschließlich Leerzeichen und Zeilenumbrüchen**. Der Schwerpunkt liegt auf der Gründung; Seed, Serie A und Serie B werden erst bei einem konkreten Auftrag oder als klar bezeichnete Optionen bearbeitet.
 
@@ -91,7 +92,7 @@ Von den ersten Gründerangaben zu einer vollständigen Satzung und Gesellschafte
 
 Der Hauptsache-Skill [Gründung begleiten](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=startup-gruender/skills/gruendung-begleiten/SKILL.md) liest vorhandene Unterlagen zuerst, fragt nur nach entscheidenden Lücken und erstellt früh ausformulierte Entwürfe. Offene Beirats- oder Finanzierungsfragen verhindern nicht die bereits mögliche Satzungsarbeit. Antworten und nachgereichte Dokumente werden in derselben Arbeitsfassung weitergeführt.
 
-Ein geeigneter Einstieg lautet: „Wir gründen zu siebt. Lesen Sie den Ordner, klären Sie UG oder GmbH und erstellen Sie die Satzung sowie unsere Gesellschaftervereinbarung auf Deutsch und Englisch. Stellen Sie nur die Fragen, die für den nächsten Entwurf tatsächlich fehlen.“
+Für den leichten Einstieg gibt es die [neue Testakte Topf & Tacheles](../testakten/gesellschaftsgruender-topf-tacheles-berlin/README.md): sieben Personen, ein Berliner Pflanzenverleih mit Gießservice und 15 überschaubare Originaldateien. Ein geeigneter Auftrag lautet: „Lesen Sie die Akte Topf & Tacheles. Ergänzen Sie die belegten Personendaten in den beiden Vertragsentwürfen und prüfen Sie die vorgeschlagenen Stimmrechte und Mehrheiten. Stellen Sie nur die entscheidenden Rückfragen und erstellen Sie kurze, abgestimmte Entwürfe auf Deutsch.“
 
 Die Unterlagen umfassen bei Bedarf die Bestellung der ersten Geschäftsführung, Dienstvertrag und Geschäftsordnung, ein passendes Beiratsmodell, Rechte am Produkt und den Vollzug von Notariat über Konto und Kapital bis zu den notwendigen Anmeldungen. Gesellschaftsgründung und rechtmäßiger Produktbetrieb werden getrennt geprüft.
 
@@ -132,9 +133,17 @@ Die Werkstatt umfasst 40 Kapitel und 40 A4-Seiten in der geprüften PDF-Lesefass
 
 Der Mini hat exakt 7.500 Zeichen einschließlich Leerzeichen und Zeilenumbrüchen. Markdown und TXT enthalten denselben Prompt. Ein zusätzlicher Schwerpunkt- oder Megaprompt wird nicht veröffentlicht.
 
-<!-- decimal-anchor --> <a id="testakte-schnittflug-in-berlin"></a>
+<!-- decimal-anchor --> <a id="einfache-testakte-topf--tacheles"></a>
 
-## 1.9. Testakte Schnittflug in Berlin
+## 1.9. Einfache Testakte Topf & Tacheles
+
+Die [Topf-&-Tacheles-Akte mit Downloads](../testakten/gesellschaftsgruender-topf-tacheles-berlin/README.md) enthält **15 Originaldateien**: drei bearbeitbare Word-Dateien, vier E-Mails, einen kurzen Chat und sieben JPG-Personendatenkarten. Die Beteiligten bringen unterschiedliche Gründungserfahrung mit. Geplant ist eine Bargründung mit 25.000 EUR Stammkapital; der Fall endet vor der Beurkundung.
+
+Die Satzung enthält bewusst keine Personennamen. Die KI soll die Angaben aus den Karten zuordnen und einsetzen. Auch die Gesellschaftervereinbarung bleibt ein kurzer deutscher Entwurf mit offenen Feldern. Mehrheiten, Stimmgewicht und einzelne Organisationsfragen sind noch abzustimmen. Die neutral gestalteten JPGs sind deutlich als fiktive Personendatenkarten gekennzeichnet; sie sind keine Ausweiskopien oder Identitätsnachweise.
+
+<!-- decimal-anchor --> <a id="umfangreichere-testakte-schnittflug-in-berlin"></a>
+
+## 1.10. Umfangreichere Testakte Schnittflug in Berlin
 
 Sieben Gründer wollen die **Schnittflug Robotics GmbH** aufbauen. Unter der Marke „Drohnenfriseur“ soll aus einem Kopfscan ein robotischer Haarpflegedienst entstehen. Zum Aktenstichtag **28.09.2026** gibt es einen stationären Prüfstand und Gründungsvorbereitungen. Beurkundung, Einzahlung und Registereintragung sind noch nicht erfolgt.
 
@@ -146,7 +155,7 @@ Die **133 nativen Arbeitsdateien** umfassen 42 bearbeitbare Word-Dokumente, fün
 
 <!-- decimal-anchor --> <a id="quellen-und-prüfgrenzen"></a>
 
-## 1.10. Quellen und Prüfgrenzen
+## 1.11. Quellen und Prüfgrenzen
 
 Rechtsstand der dokumentierten Recherche: **28.09.2026**. Die [gesellschaftsrechtlichen Anker](references/gesellschaftsrecht.md) umfassen 14 am amtlichen Volltext geprüfte BGH-Entscheidungen und 20 Normanker. Dazu gehört das Urteil vom **10.02.2026 – II ZR 71/24** zur Gesamtbetrachtung von Leaver-Regeln. Der [ergänzende Quellenblock](references/status-register-produkt.md) behandelt BSG/DRV, GwG, Anmeldungen, Rechte und Produktstart.
 
@@ -159,7 +168,7 @@ Die Dokumente sind Entwürfe zur konkreten Bearbeitung. Das Plugin behauptet kei
 
 <!-- decimal-anchor --> <a id="orientierung-nach-arbeitslogik"></a>
 
-## 1.11. Orientierung nach Arbeitslogik
+## 1.12. Orientierung nach Arbeitslogik
 
 Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Ein Klick auf einen Skill lädt seine Markdown-Datei; die alphabetische Komplettliste bleibt darunter erhalten.
 
@@ -180,7 +189,7 @@ English: Skills are grouped by typical work phase. Clicking a skill downloads it
 
 <!-- decimal-anchor --> <a id="alle-skills-im-überblick"></a>
 
-## 1.12. Alle Skills im Überblick
+## 1.13. Alle Skills im Überblick
 
 Automatisch generierte Komplett-Liste aller 18 Skills in diesem Plugin. Jeder Skillname und der Downloadlink laden den unveränderten Inhalt der zugehörigen `SKILL.md` als Markdown-Datei. Der eindeutige Dateiname enthält Plugin und Skill; Beschreibungen stammen aus dem jeweiligen `description`-Feld.
 

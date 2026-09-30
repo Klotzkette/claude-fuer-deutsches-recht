@@ -1,3 +1,17 @@
+# v445.17.0 - Einfache Gründungsakte Topf & Tacheles
+
+## 1. Überschaubarer Einstieg mit sieben Gründern
+
+Die neue Berliner Testakte behandelt einen Pflanzenverleih mit Gießservice. Sie enthält genau 15 Originaldateien: drei kurze Word-Dokumente, vier E-Mails, einen Chat und sieben JPG-Personendatenkarten. Einfache Gründungsvorbereitung, Geldbeiträge und unterschiedliche Vorstellungen von Stimmen und Mehrheiten stehen im Mittelpunkt. Die Akte ist bei Gesellschaftsgründer und Startup-Gründer als leichter Einstieg verlinkt.
+
+## 2. Deutsche Vertragsentwürfe mit offenen Feldern
+
+Satzung und Gesellschaftervereinbarung sind deutschsprachige, noch nicht vereinbarte Entwürfe. Die Personennamen bleiben leer; P01 bis P07 sichern die Zuordnung zu den Datenkarten und den vorgeschlagenen Geschäftsanteilen. Entscheidungsfelder bleiben bis zur gemeinsamen Klärung offen. Die JPGs sind deutlich als fiktive Datenblätter gekennzeichnet und bilden keine amtlichen Ausweise nach.
+
+## 3. Auslieferung und Quellenprüfung
+
+Gesamt-PDF, Originalformat-ZIP und Einzel-PDF-ZIP werden über die bestehenden Akten-Builder erzeugt. Die neue Akte wird im ergänzenden Aktenrelease veröffentlicht, damit das Hauptrelease innerhalb der Assetgrenze bleibt. Die gesellschaftsrechtliche Prüfung stützt sich auf tatsächlich gelesene amtliche Gesetzesfassungen; ihr interner Nachweis liegt getrennt von den Arbeitsunterlagen.
+
 # v445.16.2 - Lesbarere Tabellen in den Sozialversicherungsakten
 
 Die Anteils- und Vergütungstabellen der beiden Geschäftsführerakten sowie der Rechnungsabgleich der Programmiererakte erhalten klar getrennte Spaltenüberschriften und mehr Abstand zwischen Zahlen und Belegtext. Werte und Formeln bleiben unverändert. Die zugehörigen PDF- und ZIP-Fassungen werden neu erzeugt; die fachlichen Skills und Prompts bleiben unverändert.

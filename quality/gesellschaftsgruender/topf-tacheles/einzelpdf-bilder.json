@@ -1,0 +1,44 @@
+[
+  {
+    "file": "09_P01_Personendaten.pdf",
+    "pages": 1,
+    "original_jpeg_stream_equal": true,
+    "jpeg_sha256": "4c7c9613eaddb64d7003b2b18bd2119da920a791521b794adda18b5d9a24b50c"
+  },
+  {
+    "file": "10_P02_Personendaten.pdf",
+    "pages": 1,
+    "original_jpeg_stream_equal": true,
+    "jpeg_sha256": "136a898b6e4477b986de3ba9fba8a65bfa118d7115551f3d6364347e54e9915a"
+  },
+  {
+    "file": "11_P03_Personendaten.pdf",
+    "pages": 1,
+    "original_jpeg_stream_equal": true,
+    "jpeg_sha256": "9ad6913840e840465f35ac91041b3cb8fdf76e65c9af8aad05faa0b3d4e80fd6"
+  },
+  {
+    "file": "12_P04_Personendaten.pdf",
+    "pages": 1,
+    "original_jpeg_stream_equal": true,
+    "jpeg_sha256": "9272d92014823737de53d6787f2a1c7d13975626fa714e5e4421d8728c3deb8a"
+  },
+  {
+    "file": "13_P05_Personendaten.pdf",
+    "pages": 1,
+    "original_jpeg_stream_equal": true,
+    "jpeg_sha256": "793acfa78fd6b8879eb10b0791dee219c02ec33bab4e0f20eee7121b922bad79"
+  },
+  {
+    "file": "14_P06_Personendaten.pdf",
+    "pages": 1,
+    "original_jpeg_stream_equal": true,
+    "jpeg_sha256": "56eca1bb7b0f673b51f7ddfdb136293e906d33f33c4e6fe653a72bb5b0ff98c4"
+  },
+  {
+    "file": "15_P07_Personendaten.pdf",
+    "pages": 1,
+    "original_jpeg_stream_equal": true,
+    "jpeg_sha256": "be7aaae793ff45743691ab2904c752d4949ebf9561459658545ad8daa84745a2"
+  }
+]

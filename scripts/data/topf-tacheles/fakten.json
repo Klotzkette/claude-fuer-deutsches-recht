@@ -1,0 +1,27 @@
+{
+  "slug": "gesellschaftsgruender-topf-tacheles-berlin",
+  "firma": "Topf & Tacheles GmbH",
+  "sitz": "Berlin",
+  "stichtag": "2026-09-30",
+  "geschaeft": "Vermietung robuster Zimmerpflanzen mit Lieferung und regelmäßigem Gieß- und Pflegeservice für Berliner Büros und Wohngemeinschaften; ergänzend Verkauf von Pflanzen und Pflanzgefäßen.",
+  "kapital": 25000,
+  "status": "Vorbereitung einer Bargründung. Keine Beurkundung, kein Gesellschaftskonto, keine Einzahlung und keine Handelsregistereintragung. Name noch nicht verbindlich geprüft. Alle Angaben und Anschriften erfunden.",
+  "geschaeftsanschrift": "Fiktive Topfgasse 12, 10405 Berlin",
+  "geplante_geschaeftsfuehrung": "P01",
+  "personen": [
+    {"id":"P01","vorname":"Frieda","nachname":"Kowalski","geburtsdatum":"12.03.1987","geburtsort":"Berlin","staatsangehoerigkeit":"deutsch","anschrift":"Fiktiver Gießweg 8, 10405 Berlin","beruf":"Gärtnermeisterin","erfahrung":"Führt bisher einen kleinen Einzelbetrieb; Pflanzen und Kundenkontakte.","nennbetrag":7500,"quote":30},
+    {"id":"P02","vorname":"Leopold","nachname":"Nguyen","rufname":"Lio","geburtsdatum":"06.11.1992","geburtsort":"Dresden","staatsangehoerigkeit":"deutsch","anschrift":"Fiktive Moosgasse 14, 10247 Berlin","beruf":"Logistikkaufmann","erfahrung":"Hat schon eine GmbH mitgegründet; organisiert Touren und Verkauf.","nennbetrag":6250,"quote":25},
+    {"id":"P03","vorname":"Hatice","nachname":"Rosenkranz","geburtsdatum":"21.07.1995","geburtsort":"Hannover","staatsangehoerigkeit":"deutsch","anschrift":"Fiktiver Farnplatz 3, 12047 Berlin","beruf":"Gärtnerin","erfahrung":"Berufserfahrung im Pflanzenhandel, erste Unternehmensgründung.","nennbetrag":3750,"quote":15},
+    {"id":"P04","vorname":"Nepomuk","nachname":"Krümel","geburtsdatum":"18.02.1982","geburtsort":"Stuttgart","staatsangehoerigkeit":"deutsch","anschrift":"Fiktiver Humusweg 5, 10997 Berlin","beruf":"Buchhalter","erfahrung":"Kaufmännischer Profi, bisher kein eigener Gesellschaftsanteil.","nennbetrag":2500,"quote":10},
+    {"id":"P05","vorname":"Amina","nachname":"Yilmaz","geburtsdatum":"09.04.1997","geburtsort":"Berlin","staatsangehoerigkeit":"deutsch","anschrift":"Fiktive Sprossgasse 9, 13357 Berlin","beruf":"Grafikdesignerin","erfahrung":"Selbstständige Gestalterin, erste GmbH-Gründung; Internetauftritt und Gestaltung.","nennbetrag":2500,"quote":10},
+    {"id":"P06","vorname":"Bruno","nachname":"Buxbaum","geburtsdatum":"30.01.1963","geburtsort":"Nürnberg","staatsangehoerigkeit":"deutsch","anschrift":"Fiktiver Blattweg 22, 13187 Berlin","beruf":"Hausmeister im Ruhestand","erfahrung":"Hilft gelegentlich bei Lieferungen; keine Gründungserfahrung.","nennbetrag":1250,"quote":5},
+    {"id":"P07","vorname":"Zoe","nachname":"Funk","geburtsdatum":"27.09.2000","geburtsort":"Potsdam","staatsangehoerigkeit":"deutsch","anschrift":"Fiktive Rankengasse 4, 12435 Berlin","beruf":"Studentin der Wirtschaftspsychologie","erfahrung":"Erste Gründung; Kundenbefragungen und soziale Medien.","nennbetrag":1250,"quote":5}
+  ],
+  "offen": [
+    "P02 glaubt, mit 25 Prozent bei einer Dreiviertelmehrheit automatisch widersprechen zu können. P01 und P03 haben dazu noch nichts zugesagt.",
+    "P06 versteht Gleichberechtigung als eine Stimme je Person; P02s Satzungsentwurf sieht eine Stimme je Euro vor. Keine abschließende Einigung.",
+    "Geschäftsführung durch P01 ist ein Vorschlag. Vertretungsumfang und Zustimmung für größere Anschaffungen sind noch festzulegen.",
+    "Bargründung ist gewollt. Arbeitsleistungen, Pflanzen und ein vorhandenes Lastenrad werden nicht auf das Stammkapital angerechnet. Nutzung und Vergütung gegebenenfalls später separat.",
+    "Kein Investor, kein Beirat, kein Vesting und keine Finanzierungsrunde. Eine spätere Vertragsfassung soll zuerst als Entwurf zur gemeinsamen Durchsicht entstehen."
+  ]
+}

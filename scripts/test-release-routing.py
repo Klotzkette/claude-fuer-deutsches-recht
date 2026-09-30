@@ -90,7 +90,7 @@ class Fixture(unittest.TestCase):
 
 
 class RepositoryRoutingTests(unittest.TestCase):
-    def test_expected_eleven_cases_and_twenty_two_zips(self):
+    def test_expected_twelve_cases_and_twenty_four_zips(self):
         expected = {
             "ki-hochrisiko-bewerbungsauswahl-kassel", "ki-transparenz-kanzlei-kommunikation-mainz",
             "vergesellschaftung-energienetz-hessen", "enteignung-verkehrsflaeche-goettingen",
@@ -101,10 +101,11 @@ class RepositoryRoutingTests(unittest.TestCase):
             "sozialversicherung-programmierer-leipzig",
             "sozialversicherung-syndikus-versorgungswerk-hamburg",
             "statusfeststellung-gmbh-geschaeftsfuehrer-minderheit-erlangen",
+            "gesellschaftsgruender-topf-tacheles-berlin",
         }
         slugs = R.companion_cases()
         self.assertEqual(set(slugs), expected)
-        self.assertEqual(len(R.companion_asset_names(slugs)), 22)
+        self.assertEqual(len(R.companion_asset_names(slugs)), 24)
         for slug in sorted(expected):
             for suffix in ("", "-einzelpdfs"):
                 with self.subTest(slug=slug, suffix=suffix):

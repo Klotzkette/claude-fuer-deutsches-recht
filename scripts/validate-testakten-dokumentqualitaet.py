@@ -31,6 +31,7 @@ PREFIXES = (
     "erbrecht-",
     "erbstreit-",
     "familienrecht-",
+    "gesellschaftsgruender-topf-tacheles-berlin",
     "kuendigungsschutzklage-",
     "longcovid-erwerbsminderung-",
     "nachehelicher-unterhalt-",

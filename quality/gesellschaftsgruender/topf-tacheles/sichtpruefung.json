@@ -1,0 +1,37 @@
+{
+  "pdf": "testakten/gesellschaftsgruender-topf-tacheles-berlin/gesamt-pdf/gesellschaftsgruender-topf-tacheles-berlin_gesamt.pdf",
+  "sha256": "9574a190162ed9346fcaf39973693f6d149b6dab282a40481f4f85091ed77a96",
+  "page_count": 22,
+  "render_dpi": 105,
+  "viewed_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22
+  ],
+  "result": "PASS",
+  "content_pages": 19,
+  "separator_pages": [
+    13,
+    16,
+    20
+  ]
+}

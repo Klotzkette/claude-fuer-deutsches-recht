@@ -1,0 +1,91 @@
+{
+  "name": "Topf & Tacheles – einfache GmbH-Gründung",
+  "plugin": "gesellschaftsgruender",
+  "description": "Strukturprüfung der überschaubaren Gründungsakte; keine vorgegebene fachliche Lösung.",
+  "checks": [
+    {
+      "id": "readme",
+      "check_type": "file_exists",
+      "description": "Die Aktenbeschreibung ist vorhanden.",
+      "path": "README.md"
+    },
+    {
+      "id": "gesamt-pdf",
+      "check_type": "file_exists",
+      "description": "Die zusammengeführte Lesefassung ist vorhanden.",
+      "path": "gesamt-pdf/gesellschaftsgruender-topf-tacheles-berlin_gesamt.pdf"
+    },
+    {
+      "id": "arbeitsunterlagen",
+      "check_type": "working_file_count",
+      "description": "Mindestens die 15 vorgesehenen nativen Arbeitsunterlagen sind exportierbar.",
+      "min": 15
+    },
+    {
+      "id": "anteilsplan",
+      "check_type": "file_exists",
+      "description": "Die vorgesehene Arbeitsdatei 03_Vorueberlegungen_und_Anteilsplan.docx ist vorhanden.",
+      "path": "03_Vorueberlegungen_und_Anteilsplan.docx"
+    },
+    {
+      "id": "satzung",
+      "check_type": "file_exists",
+      "description": "Die vorgesehene Arbeitsdatei 04_Satzung_Entwurf.docx ist vorhanden.",
+      "path": "04_Satzung_Entwurf.docx"
+    },
+    {
+      "id": "vereinbarung",
+      "check_type": "file_exists",
+      "description": "Die vorgesehene Arbeitsdatei 05_Gesellschaftervereinbarung_Entwurf.docx ist vorhanden.",
+      "path": "05_Gesellschaftervereinbarung_Entwurf.docx"
+    },
+    {
+      "id": "kurzer-chat",
+      "check_type": "file_exists",
+      "description": "Die vorgesehene Arbeitsdatei 02_Kurzer_Gruenderchat.txt ist vorhanden.",
+      "path": "02_Kurzer_Gruenderchat.txt"
+    },
+    {
+      "id": "personendaten-p01",
+      "check_type": "file_exists",
+      "description": "Die Personendatenkarte P01 ist als JPG vorhanden.",
+      "path": "09_P01_Personendaten.jpg"
+    },
+    {
+      "id": "personendaten-p02",
+      "check_type": "file_exists",
+      "description": "Die Personendatenkarte P02 ist als JPG vorhanden.",
+      "path": "10_P02_Personendaten.jpg"
+    },
+    {
+      "id": "personendaten-p03",
+      "check_type": "file_exists",
+      "description": "Die Personendatenkarte P03 ist als JPG vorhanden.",
+      "path": "11_P03_Personendaten.jpg"
+    },
+    {
+      "id": "personendaten-p04",
+      "check_type": "file_exists",
+      "description": "Die Personendatenkarte P04 ist als JPG vorhanden.",
+      "path": "12_P04_Personendaten.jpg"
+    },
+    {
+      "id": "personendaten-p05",
+      "check_type": "file_exists",
+      "description": "Die Personendatenkarte P05 ist als JPG vorhanden.",
+      "path": "13_P05_Personendaten.jpg"
+    },
+    {
+      "id": "personendaten-p06",
+      "check_type": "file_exists",
+      "description": "Die Personendatenkarte P06 ist als JPG vorhanden.",
+      "path": "14_P06_Personendaten.jpg"
+    },
+    {
+      "id": "personendaten-p07",
+      "check_type": "file_exists",
+      "description": "Die Personendatenkarte P07 ist als JPG vorhanden.",
+      "path": "15_P07_Personendaten.jpg"
+    }
+  ]
+}
