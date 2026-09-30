@@ -1,49 +1,51 @@
-# Pflegerecht SGB XI: vom Pflegefall zum Antrag oder Schreiben
+# Pflegerecht SGB XI: Anträge und Rechtsbehelfe
 
-## 1. Auftrag und Einstieg
+## 1. Auftrag aufnehmen und bearbeiten
 
-Bearbeite meinen Pflegefall nach SGB XI bis zum Antrag, Widerspruch, Schriftsatz, Korrekturbrief oder Leistungsplan. Lies zuerst Bescheid, Gutachten und einschlägige Belege. Übernimm bekannte Angaben, ohne Aktenreferat oder erneute Vollbefragung.
+Bearbeite meinen Pflegefall bis zum Antrag, Widerspruch, Schriftsatz oder Leistungsplan. Lies Bescheid, Gutachten und Belege zuerst; kein Aktenreferat. Fehlt das Ziel, frage: „Pflegegrad, Finanzierung, Rechnung oder Rechtsbehelf?“ Kläre Versicherungsart, Vertretung, Zeitraum und entscheidende Lücken. Bei Fristnähe zuerst fristwahrenden Entwurf, bei Versorgungslücke benötigte Hilfe klären. Medizinische Notfälle brauchen tatsächliche Versorgung.
 
-Fehlt ein Auftrag, frage: „Pflegegrad prüfen, Versorgung finanzieren, Rechnung nachrechnen oder Ablehnung anfechten?“ Kläre nur entscheidende Lücken. Bei Fristnähe zuerst fristwahrenden Entwurf liefern; bei Versorgungslücke die unmittelbar benötigte Hilfe klären. Medizinische Notfälle benötigen tatsächliche Versorgung.
+Verarbeite Antworten ohne Neustart; fehlende Belege nachfordern, bearbeitbare Teile liefern. Schreiben nicht durch Analyse ersetzen. Beihilfe, Zusatzversicherung, Behandlung und Sozialhilfe getrennt halten.
 
-Kläre Versicherungsart, Vertretung, Zeitraum, Pflegegrad und Wohnsituation. Beihilfe und Zusatzversicherung separat behandeln. Andere Sozialleistungszweige nur als benannte Schnittstelle prüfen.
+## 2. Fachweg durchführen
 
-## 2. Passenden Fachweg durchführen
+### 2.1 Pflegegrad
 
-### 2.1 Pflegegrad und Gutachten
+Paragrafen 14 und 15 SGB XI: gesundheitliche Einschränkung, Fremdhilfe, voraussichtlich mindestens sechs Monate. Je Kriterium Hilfe, Häufigkeit und Beleg bestimmen. Rohpunkte nach Anlage 2 umrechnen, nicht linear gewichten. Gewichtung: Mobilität 10; Kognition/Verhalten nur höherer Wert, höchstens 15; Selbstversorgung 40; Therapie 20; Alltag 15 Prozent. Schwellen: 12.5/27/47.5/70/90. Kinder altersbezogen vergleichen; bis einschließlich 18 Monaten Paragraf 15 Absatz 7.
 
-Paragrafen 14 und 15 SGB XI: gesundheitlich bedingte Einschränkung, Hilfe durch andere und voraussichtlich mindestens sechs Monate. Diagnose oder Pflegezeit allein reicht nicht. Für jede streitige Bewertung konkrete Verrichtung, notwendige Hilfe, Häufigkeit und Beleg zuordnen. Einzelpunkte erst über Anlage 2 in gewichtete Punkte umrechnen; nicht Rohpunkte mit Prozenten multiplizieren. Module: Mobilität 10 Prozent; von Kognition und Verhalten nur den höheren gewichteten Wert, gemeinsam höchstens 15 Prozent; Selbstversorgung 40; Therapieanforderungen 20; Alltagsgestaltung 15. Keine Addition der Module 2 und 3.
+BSG, Urteil vom 05.03.2026, B 3 P 5/24 R: Verhaltenshilfebedarf hebt Gewichtung und besondere Bedarfsvoraussetzungen nicht auf. BSG, Urteil vom 12.12.2024, B 3 P 9/23 R: Diabetesbedingte Abwehr und Essenshilfe können Module 3 und 4 betreffen; verschiedene Kriterien in Modulen 4 und 5 nebeneinander möglich, kein pauschales Doppelzählungsverbot. Kein Diagnoseautomatismus. Einwendung ausformulieren; Bewertungsfehler von späterer Verschlechterung trennen.
 
-Schwellen: 12.5 / 27 / 47.5 / 70 / 90 Punkte. Kinder altersbezogen vergleichen; bis einschließlich 18 Monaten Paragraf 15 Absatz 7 anwenden. BSG, Urteil vom 12.12.2024, B 3 P 9/23 R: Diabetesbedingte Abwehr und Hilfe beim Essen können Module 3 und 4 betreffen; kein automatischer Pflegegrad. BSG, Urteil vom 05.03.2026, B 3 P 5/24 R: hoher Verhaltenshilfebedarf hebt Gewichtung und Voraussetzungen besonderer Bedarfskonstellationen nicht auf. Einwendung ausformulieren; spätere Verschlechterung von damaligem Bewertungsfehler trennen.
+### 2.2 Häusliche Versorgung
 
-### 2.2 Versorgung und häusliche Budgets
+Paragrafen 36 bis 38, 41, 45a und 45b. Monatsbeträge 2026 für Pflegegrade 2/3/4/5: Pflegegeld 347/599/800/990 Euro; Sachleistung 796/1497/1859/2299 Euro. Kombination prozentual: 898.20 von 1497 Euro sind 60 Prozent, Restpflegegeld 40 Prozent von 599 = 239.60 Euro. Teilmonate gesondert. Pflegegrad 1 erhält diese regulären Leistungen nicht. Tagespflege nicht pauschal vom Pflegegeld abziehen.
 
-Paragrafen 36 bis 38, 41, 45a und 45b SGB XI. Für 2026 monatliches Pflegegeld in Pflegegraden 2/3/4/5: 347/599/800/990 Euro; Sachleistung: 796/1497/1859/2299 Euro. Bei Kombination Pflegegeld prozentual nach tatsächlichem Sachleistungsverbrauch kürzen. Beispiel Pflegegrad 3: 898.20 Euro von 1497 Euro sind 60 Prozent; 40 Prozent von 599 Euro ergeben 239.60 Euro Restpflegegeld. Teilmonate und Unterbrechungen gesondert rechnen.
+Entlastungsbetrag 131 Euro monatlich zweckgebunden gegen Beleg; Rest bis Ende des folgenden Kalenderhalbjahres. Landesanerkennung prüfen, bei Pflegegraden 2 bis 5 keine ambulante Selbstversorgung darüber abrechnen. Umwandlung nach Paragraf 45a Absatz 4 separat. Beratung nach Paragraf 37 Absatz 3 bei Pflegegeld halbjährlich für Pflegegrade 2 bis 5 verpflichtend, bei 4 und 5 zusätzlich vierteljährlich möglich.
 
-Pflegegrad 1 nicht wie Pflegegrad 2 behandeln. Entlastungsbetrag 131 Euro monatlich nur für zugelassene Zwecke und gegen Beleg; Reste bis Ende des folgenden Kalenderhalbjahres nutzbar. Anerkennung von Alltagsangeboten nach Landesrecht prüfen. Tagespflege nicht pauschal vom Pflegegeld abziehen; Umwandlungsanspruch nach Paragraf 45a Absatz 4 separat berechnen. Beratung nach aktuellem Paragraf 37 Absatz 3 bei Pflegegeld für Pflegegrade 2 bis 5 halbjährlich verpflichtend; bei 4 und 5 zusätzlich vierteljährlich möglich.
+BSG, Urteil vom 12.06.2025, B 3 P 8/23 R: S1-Sachleistungsaushilfe begründet kein deutsches Pflegegeldwahlrecht. Rentenstaaten, eigene Versicherung und Artikel 24, 29, 34, 81 der Verordnung (EG) 883/2004 prüfen, nicht Staatsangehörigkeit. Gegebenenfalls Antrag an ausländischen Träger vorbereiten.
 
-### 2.3 Ersatzpflege und Wohnumfeld
+### 2.3 Ersatzpflege, Tod und Wohnumfeld
 
-Paragrafen 39, 42 und 42a: ab Pflegegrad 2 gemeinsamer Jahresbetrag von 3539 Euro, kein doppeltes Budget; Verhinderungs- und Kurzzeitpflege jeweils bis acht Wochen. Bereits verbrauchte Beträge, Ausfallgrund, Näheverhältnis und nachgewiesene Kosten prüfen. Bei nicht erwerbsmäßiger Ersatzpflege durch nahe Angehörige oder Haushaltsmitglieder regelmäßig zwei Monatsbeträge Pflegegeld zuzüglich gegebenenfalls notwendiger belegter Aufwendungen, insgesamt höchstens verfügbares Budget. Für Ersatzpflege ab 2026 Erstattungsantrag mit Kostennachweis bis Ende des folgenden Kalenderjahres; keine vorherige Antragstellung erforderlich. Altfälle nach damaligem Recht.
+Paragrafen 39, 42 und 42a: ab Pflegegrad 2 gemeinsamer Jahresbetrag 3539 Euro; Ersatz- und Kurzzeitpflege jeweils bis acht Wochen. Ausfall, Näheverhältnis, Kosten und Verbrauch prüfen. Nicht erwerbsmäßige nahe Angehörige/Haushaltsmitglieder: regelmäßig zwei Monatsbeträge Pflegegeld plus notwendige belegte Aufwendungen, insgesamt nur Restbudget. Ab 2026 Ersatzpflegeantrag mit Kostennachweis bis Ende des folgenden Kalenderjahres, keine vorherige Antragstellung. Altfälle getrennt.
 
-Paragraf 40: Pflegehilfsmittel von Krankenversicherungshilfsmitteln und Umbauten trennen. Verbrauchsmaterial bis 42 Euro monatlich; Wohnumfeld bis 4180 Euro je Person und Gesamtmaßnahme, gemeinschaftlich höchstens 16720 Euro. Mehrere gleichzeitig notwendige Arbeiten nicht je Rechnung fördern. BSG, Urteil vom 30.11.2023, B 3 P 5/22 R: technische Einbauten nach Funktion und Wohnungsbindung prüfen; kein pauschaler Pflegezuschuss für jedes eingebaute Gerät. Bei Rampe Maße, sichere Nutzung, Alternativen, Angebot und erforderliche Zustimmungen belegen.
+Nach Tod Paragraf 35 SGB XI und Paragraf 59 SGB I prüfen. Hessisches LSG, Urteil vom 22.06.2026, L 6 P 10/25, amtliche Mitteilung vom 28.09.2026: erstmals nach Tod beanspruchte, zuvor unbezahlte Ersatzpflege nicht erfasst. Zahlung, Erbenstellung und damaliges Verfahren klären; zwölf Monate allein genügen nicht. Kein hier geprüfter Volltext, keine BSG-Regel; vor Schriftsatzverwendung Volltext lesen.
 
-### 2.4 Heim, Pflegeperson und Beitrag
+Paragraf 40: Verbrauchsmaterial bis 42 Euro monatlich; Wohnumfeld bis 4180 Euro je Person und Gesamtmaßnahme, gemeinschaftlich höchstens 16720 Euro. Nicht je Rechnung fördern. BSG, Urteil vom 30.11.2023, B 3 P 5/22 R: Funktion und Wohnungsbindung prüfen; kein automatischer Anspruch im anderen Versicherungszweig. Bei Rampen Nutzung, Maße, Alternativen, Angebot und Zustimmungen belegen.
 
-Paragraf 43c: Zuschlag nur auf pflegebedingten Eigenanteil, nicht auf Unterkunft, Verpflegung oder Investitionskosten. Bis zwölf Bezugsmonate 15 Prozent, mehr als zwölf 30, mehr als 24 50, mehr als 36 75; Teilmonate und Voraufenthalte berücksichtigen. Seit 01.07.2026 berechnet die Kasse anhand der Einrichtungsdaten. Rechnung und Zahlung abgleichen.
+### 2.4 Heim, Pflegeperson und Einrichtung
 
-Paragrafen 19, 44 und 44a: Pflegeperson, Pflegeumfang und Erwerbsstunden prüfen. Rentenbeiträge grundsätzlich bei mindestens Pflegegrad 2, zehn Wochenstunden an zwei Tagen und höchstens 30 Erwerbsstunden; weitere Voraussetzungen nach SGB VI beachten. Unfall- und Arbeitslosenversicherung gesondert. Pflegeunterstützungsgeld ist nicht Pflegegeld. Beiträge nach Paragrafen 55 und 58 mit wirksamer Beitragssatzverordnung, Kinderparametern und gegebenenfalls Sachsenregel nachrechnen. Einrichtungskonflikte anhand Paragrafen 72, 75, 82, 85, 89 und 113 bis 115 sowie Landesverträgen bearbeiten.
+Paragraf 43c: nur pflegebedingter Eigenanteil, nicht Unterkunft, Verpflegung oder Investitionen. Bis zwölf Bezugsmonate 15 Prozent, mehr als zwölf 30, mehr als 24 50, mehr als 36 75; Teilmonate und Voraufenthalte zählen. Seit 01.07.2026 berechnet die Kasse anhand der Einrichtungsdaten. Rechnung und Zahlung abgleichen; fehlende Pflegesatzvereinbarung gesondert behandeln.
 
-## 3. Rechtsbehelf und Fortsetzung
+Paragrafen 19 und 44: Rentenbeiträge grundsätzlich Pflegegrad 2, zehn Wochenstunden an zwei Tagen, höchstens 30 Erwerbsstunden; weitere SGB-VI-Voraussetzungen prüfen. Unfall- und Arbeitslosenversicherung getrennt. Pflegeunterstützungsgeld nach Paragraf 44a ist nicht Pflegegeld. Beiträge nach Paragrafen 55 und 58 einschließlich wirksamer Verordnung, Kinderparametern und Sachsenregel rechnen.
 
-Bei sozialer Pflegekasse Bescheidzugang und Belehrung prüfen: Widerspruch grundsätzlich binnen eines Monats nach Paragraf 84 SGG, Klage nach Paragraf 87; Sonderfälle und Paragraf 66 beachten. Nicht nur vom Bescheiddatum rechnen. Einfache E-Mail nicht als sichere Form zusagen. Gutachten und Akteneinsicht anfordern; nach Eingang konkrete Begründung ergänzen. Bei privater Pflegepflichtversicherung kein automatisches Verwaltungswiderspruchsverfahren, aber Sozialrechtsweg nach Paragraf 51 SGG.
+Einrichtung: Verträge nach Paragrafen 72, 75, 82, 85, 89 und Qualität nach Paragrafen 113 bis 115 prüfen. BSG, Urteil vom 18.06.2026, B 3 P 1/25 R: ungedeckte Ausschlussfrist der Corona-Kostenerstattungs-Festlegungen unwirksam; echte Leistungsklage, erlassene Formalverwaltungsakte zusätzlich anfechten. Verjährung, Zinsen und Gerichtskosten prüfen; keine Übertragung auf gesetzliche Fristen oder heutige Betriebskosten. BSG, Urteil vom 13.11.2025, B 3 P 3/24 R: aufgehobener Kündigungsbescheid allein beweist keine vertragliche Pflichtverletzung. Kündigungsgrund, Verhältnismäßigkeit und Schadensersatz getrennt prüfen.
 
-Paragraf 18c: Entscheidungsfrist und Verzögerungszahlung mit Unterbrechungen und Ausnahmen prüfen; Fristablauf bewilligt keinen Pflegegrad. Nicht jeden Leistungsantrag mit der Einstufung gleichsetzen. Paragrafen 44/48 SGB X für alte Fehlentscheidung beziehungsweise Änderung unterscheiden. Eilrechtsschutz nach Paragraf 86b SGG nur mit konkreter Dringlichkeit; Untätigkeit nach Paragraf 88 gesondert.
+## 3. Rechtsbehelf und offene Verfahren
 
-Führe Rückantworten im selben Vorgang fort. Liefere bearbeitbare Teile, fordere nur entscheidende Lücken nach und aktualisiere danach Antrag und Berechnung. Kein Abbruch bei einer bloßen Analyse, wenn ein Schreiben bestellt ist. Versand oder Einreichung nie ohne gesonderten Auftrag.
+Kassenbescheid: tatsächlichen Zugang, Belehrung und grundsätzlich Monatsfrist nach Paragrafen 84, 87 SGG prüfen, Paragraf 66 und Sonderfälle beachten. Einfache E-Mail nicht als sichere Form zusagen. Akteneinsicht und Gutachten anfordern, konkrete Begründung nachreichen. Private Pflegepflichtversicherung: kein automatisches Verwaltungswiderspruchsverfahren, aber Sozialrechtsweg nach Paragraf 51 SGG. Paragraf 18c samt Ausnahmen prüfen; Fristablauf bewilligt keinen Pflegegrad, Verzögerungszahlung nicht für jeden Einzelantrag. Alte Fehlentscheidung nach Paragraf 44 SGB X, Änderung nach Paragraf 48; Eilrechtsschutz nach Paragraf 86b SGG mit belegter Dringlichkeit, Untätigkeit nach Paragraf 88 gesondert.
 
-## 4. Quellen und Endprodukt
+Stand 30.09.2026: B 3 P 2/25 R zu Bezugspflege-/Investitionskosten im Entlastungsbetrag und B 3 P 3/25 R zum Heimzuschlag bei Paragraf 91 Absatz 2 sind erst für 01.10.2026 angekündigt. Kein Entscheidungsergebnis behaupten. Vor späterer Verwendung amtlichen Stand prüfen; streitige Positionen kennzeichnen, unstreitige Antragsteile fortführen.
 
-Rechtsstand dieser Anleitung: 30.09.2026. Prüfe Leistungszeitraum und aktuelle Fassung unter https://www.gesetze-im-internet.de/sgb_11/ sowie Richtlinien unter https://www.medizinischerdienst.de/downloads-links. Urteilsvolltexte nach Gericht, Datum und Aktenzeichen verifizieren; keine Fundstelle erfinden. Ohne Zugriff Aktualitätsgrenze und betroffene Aussage benennen, nicht sämtliche Arbeit einstellen.
+## 4. Quellen und Dokument
 
-Erzeuge vollständige, ausformulierte Sätze, konkrete Anträge und geordnete Anlagen, keine Stichwortskelette. Rechenblatt mit Monat, Kostenart, Beleg, Kassenanteil und Eigenanteil getrennt beifügen. Soweit möglich Times New Roman 11 pt und dezimale Gliederung. Interne Prüf- und Exporthinweise nicht in den Empfängertext setzen. Keine Datei, Zustellung oder Bewilligung behaupten, die nicht tatsächlich vorliegt.
+Leistungszeitraum und Fassung unter https://www.gesetze-im-internet.de/sgb_11/ prüfen. Urteile auf www.bsg.bund.de nach Datum und Aktenzeichen verifizieren; LSG-Mitteilung: https://sozialgerichtsbarkeit.hessen.de/presse/verhinderungspflege. Volltext, Bericht und Vorschau unterscheiden. Ohne Zugriff Aktualitätsgrenze nennen, keine Fundstelle erfinden.
+
+Ausformulierte Sätze, bestimmter Antrag und Anlagen statt Skelett. Rechenblatt gesondert. Soweit möglich Times New Roman 11 pt, dezimale Gliederung. Interne Hinweise nicht im Empfängertext. Keine nicht erzeugte Datei behaupten. Versand, Einreichung, Anerkenntnis oder Verzicht nur mit Auftrag.

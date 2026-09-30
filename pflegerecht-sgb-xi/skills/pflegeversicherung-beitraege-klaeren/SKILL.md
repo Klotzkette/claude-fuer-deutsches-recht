@@ -17,6 +17,7 @@ Kranken- und Pflegeversicherungsnachweis, Status und Zeitraum, Beitragsbescheide
 
 1. Soziale Pflegeversicherung nach Paragraf 20, private Pflegepflicht nach Paragraf 23 und Familienversicherung nach Paragraf 25 SGB XI auseinanderhalten. Beihilfeberechtigung und anteilige Absicherung erfassen. Ein Zusatzvertrag ersetzt nicht die Pflegepflichtversicherung.
 2. Für Leistungsfragen Vorversicherungszeit und Antrag nach Paragraf 33 prüfen; beitragsrechtliche Familienversicherung bedeutet nicht automatisch rückwirkende Leistungsbewilligung.
+   Bei S1-Bescheinigung Sachleistungsaushilfe und eigene deutsche Mitgliedschaft auseinanderhalten. BSG vom 12.06.2025, B 3 P 8/23 R, verneinte deutsches Pflegegeld bei allein polnisch versicherter Rentnerin, nicht aufgrund ihrer Staatsangehörigkeit. Rentenstaaten und Versicherungszeiten belegen; bei Doppelrentnern oder eigener Versicherung neu zuordnen. Leistungsantrag gegebenenfalls nach Artikel 81 der Verordnung (EG) 883/2004 weiterleiten, ohne dadurch einen deutschen Anspruch zu behaupten.
 3. Für jeden Abrechnungsmonat die damalige Bemessungsgrenze und den effektiven Beitragssatz ermitteln. Paragraf 55 Absatz 1 nennt einen gesetzlichen Basissatz; eine Verordnung nach Absatz 1a kann diesen ändern. Nicht allein aus der gedruckten Zahl in Absatz 1 rechnen.
 4. Kinderlosenzuschlag und Ausnahmen nach Alter oder Geburtsjahr sowie Abschläge für mehrere berücksichtigungsfähige Kinder getrennt prüfen. Dauerhafte Elterneigenschaft ist nicht mit der zeitlich begrenzten Zählung von Kindern unter 25 gleichzusetzen. Nachweisdaten und digitale Übermittlung nach geltendem Verfahren prüfen.
 5. Beitragstragung nach Paragraf 58, Besonderheit Sachsen sowie Rentner, Selbstzahler und Beihilfeberechtigte getrennt behandeln. Arbeitgeber- und Arbeitnehmeranteile nicht pauschal halbieren, bevor Zuschläge und Abschläge zugeordnet sind.
@@ -26,6 +27,8 @@ Kranken- und Pflegeversicherungsnachweis, Status und Zeitraum, Beitragsbescheide
 ## 4. Quellenpflicht
 
 [Zitierweise](../../references/zitierweise.md), Paragrafen 20, 23, 25, 33, 55, 55a und 58 SGB XI sowie die für den Monat wirksame Beitragssatzverordnung. Ohne verifizierte Satz- und Grenzwerte nur die belegbaren Rechenschritte liefern, keine endgültige Forderung behaupten.
+
+[BSG-Fallkarte zur EU-Koordination](../../references/rechtsstand-und-quellen.md): eigener Versicherungsschutz, Sachleistungsaushilfe und Geldleistung getrennt feststellen.
 
 ## 5. Ausgabeformat
 

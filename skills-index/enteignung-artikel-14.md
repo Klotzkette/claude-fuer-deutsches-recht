@@ -1,6 +1,6 @@
 # enteignung-artikel-14
 
-**9 Skills** · Stand `v445.18.0`
+**9 Skills** · Stand `v445.18.1`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../enteignung-artikel-14/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

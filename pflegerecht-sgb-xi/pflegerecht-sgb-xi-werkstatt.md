@@ -48,6 +48,8 @@ Familienversicherung nach Paragraf 25 und Vorversicherungszeit nach Paragraf 33 
 
 ### 3.2 Leistungsbeginn sichern
 
+Bei S1-Bescheinigung nicht schon wegen einer deutschen Kassenkarte eigene Mitgliedschaft annehmen. BSG, Urteil vom 12.06.2025, B 3 P 8/23 R: Eine allein polnisch versicherte Rentnerin in Deutschland konnte die Sachleistungsaushilfe nicht in deutsches Pflegegeld umwandeln. Rentenstaaten, Versicherungsverhältnis und zuständigen Träger nach Artikel 24 und 29 der Verordnung (EG) 883/2004 prüfen. Eigene deutsche Versicherung oder mehrere Renten können eine andere Zuordnung verlangen; Staatsangehörigkeit allein entscheidet nicht. Pflegegeld und Sachleistung nicht ungeprüft nach Paragraf 38 kombinieren. Bei ausländischem Anspruch ein konkretes Antragsschreiben und gegebenenfalls Weiterleitung nach Artikel 81 vorbereiten. Diese Verfahrensregel schafft keinen materiellen deutschen Anspruch.
+
 Dokumentiere erstes nachweisbares Leistungsbegehren, Eingang, damalige Voraussetzungen und beantragten Zeitraum. Paragraf 33 bestimmt die Voraussetzungen des Leistungsbeginns; Diagnose- und Antragsdatum müssen nicht zusammenfallen. Ein späterer Formularversand darf nicht ungeprüft den belegten früheren Antrag verdrängen. Vorversicherungszeit und Besonderheiten bei Kindern anhand der einschlägigen Fassung prüfen.
 
 Erstberatung nach Paragraf 7a als konkreten Weg zu einem Versorgungsplan nutzen. Der Plan soll Hilfe, Leistung, Anbieter, Beginn und ungedeckten Bedarf verbinden. Er ist keine Garantie, dass vor Ort sofort ein Platz oder Dienst verfügbar ist.
@@ -89,7 +91,7 @@ Bei Kindern den Mehrbedarf gegenüber altersentsprechend entwickelten Kindern pr
 
 ### 4.4 Rechtsprechung für konkrete Einwendungen
 
-BSG, Urteil vom 12.12.2024, B 3 P 9/23 R: Bei einem Kind mit Diabetes können krankheitsbedingte Abwehr von Pflege und Hilfebedarf beim Essen auch Module 3 und 4 betreffen. Das Gericht hat konkrete Tatsachen gewürdigt, nicht jedem Kind mit Diabetes einen Pflegegrad zugesprochen. Stelle daher gesundheitsbedingten Mehrbedarf, altersüblichen Bedarf und therapeutische Hilfe getrennt dar. Dieselbe Beobachtung nicht ohne Kriterienprüfung mehrfach zählen.
+BSG, Urteil vom 12.12.2024, B 3 P 9/23 R: Bei einem Kind mit Diabetes können krankheitsbedingte Abwehr von Pflege und Hilfebedarf beim Essen auch Module 3 und 4 betreffen. Das Gericht hat konkrete Tatsachen gewürdigt, nicht jedem Kind mit Diabetes einen Pflegegrad zugesprochen. Stelle daher gesundheitsbedingten Mehrbedarf, altersüblichen Bedarf und therapeutische Hilfe getrennt dar. Bei erfüllten verschiedenen Kriterien ist die Berücksichtigung von Hilfe beim Essen in Modul 4 neben Diätanforderungen in Modul 5 möglich. Kein pauschales Doppelzählungsverbot anwenden; jeden Ansatz eigenständig begründen. Die Höchstwertregel für Module 2 und 3 ist eine andere Frage.
 
 BSG, Urteil vom 05.03.2026, B 3 P 5/24 R: Hoher Unterstützungsbedarf bei Verhaltensproblemen hebt die gesetzliche Gewichtung der Module 2 und 3 nicht auf. Der Regelweg zur Einstufung und besondere Bedarfskonstellationen nach Paragraf 15 Absatz 4 sind getrennt. Keine freie Härtefallentscheidung aus allgemeiner Belastung erfinden. Die Begutachtungs-Richtlinien sind pflegefachlich konkretisierende Verwaltungsvorschriften und nicht selbst Rechtsnormen; ihre fachliche Bedeutung dennoch ernst nehmen.
 
@@ -125,6 +127,8 @@ Bei Pflegegeldempfang gilt nach aktuellem Paragraf 37 Absatz 3 eine halbjährlic
 
 ### 5.4 Entscheidung praktisch machen
 
+Für Mehrkosten einer bestimmten Bezugspflegekraft und gesonderte Investitionskosten ist B 3 P 2/25 R am 30.09.2026 lediglich zur Verhandlung am 01.10.2026 angekündigt. Gegenstand ist das Verhältnis von Paragraf 45b Absatz 4 zu Vergütungssätzen nach Paragraf 89. Deshalb Vertrag, Abtretung, Preisvereinbarung und Rechnungsposten sichern; weder jede Zusatzposition als erstattbar ausgeben noch mit einem vermeintlich bereits ergangenen BSG-Urteil ablehnen. Den späteren amtlichen Stand prüfen. Unstreitige Kosten weiterabrechnen und einen begründeten Antrag für den streitigen Rest vorbereiten.
+
 Wenn mehrere Varianten realistisch sind, stelle tatsächliche Hilfe, Anbieter, monatlichen Kassenanteil und Eigenkosten gegenüber. Frage nur nach der notwendigen Wahl. Nach Auswahl den Änderungsantrag und gegebenenfalls die Mitteilung an den Dienst vollständig schreiben. Ein Leistungsplan ist nicht fertig, wenn er Budgets zeigt, aber ungedeckte Morgen- oder Nachtpflege verschweigt.
 
 ## 6. Ersatzpflege und Kurzzeitpflege
@@ -148,6 +152,12 @@ Verhinderungs- und Kurzzeitpflege jeweils bis acht Wochen pro Kalenderjahr; Fort
 Für Ersatzpflege ab 2026 verlangt Paragraf 39 Absatz 1 einen Erstattungsantrag unter Kostennachweis bis Ende des folgenden Kalenderjahres; vorherige Antragstellung ist nicht erforderlich. Bei Altansprüchen die zeitliche Geltung gesondert prüfen. Diese Frist nicht mit der Anzeige eines Dienstes bis Ende des Folgemonats nach Paragraf 42a Absatz 2 verwechseln.
 
 Entwirf den Erstattungsantrag mit Zeitraum, Ersatzperson, Ausfallgrund, Kosten, bisherigen Leistungen und Belegen. Bei Rechnungsdifferenz zunächst konkrete Aufklärung verlangen. Nach Rückantwort Budgetrechnung und Antrag fortsetzen, ohne den gesamten Pflegefall neu aufzunehmen.
+
+### 6.4 Erstattungsforderung nach dem Tod
+
+Hessisches LSG, Urteil vom 22.06.2026, L 6 P 10/25: Nach der amtlichen Pressemitteilung vom 28.09.2026 war der erstmals nach dem Tod geltend gemachte Anspruch auf Ersatzpflegevergütung aus 2020 bis 2022 nicht vererbbar; die Vergütung war vor dem Tod nicht bezahlt und der Anspruch weder festgestellt noch in einem Verwaltungsverfahren anhängig. Das Gericht verlangte für die Ausnahme des Paragrafen 35 Satz 3 SGB XI tatsächlich vor dem Tod entstandene Kosten durch Zahlung. Quellenstatus hier: amtliche Pressemitteilung, kein geprüfter Urteilsvolltext; laut Mitteilung rechtskräftig.
+
+Frage gezielt nach Todestag, Erbnachweis, Vereinbarung, Rechnung, Zahlung und bisherigem Antrag. Trenne Paragraf 59 SGB I, die Zwölfmonatsfrist nach Paragraf 35 und die seit 2026 geltende Frist des Paragrafen 39. Ein fristgerechter Antrag nach dem Tod allein genügt nicht. Andere Ausgangslagen, etwa bereits festgestellte Ansprüche, nicht schematisch ablehnen. Vor tragender Verwendung im Schriftsatz Volltext sichern; bis dahin Fundstellenstatus und Unsicherheit im internen Vermerk kennzeichnen. Ergebnis ist je nach Belegen ein begründeter Erstattungsantrag oder eine Erklärung an den Erben mit konkreter Nachweisanforderung.
 
 ## 7. Pflegehilfsmittel, Rampe und Wohnumfeld
 
@@ -187,6 +197,8 @@ Seit 01.07.2026 berechnet die Pflegekasse auf Basis der vom Heim übermittelten 
 
 ### 8.3 Korrektur und Restfinanzierung
 
+Vor der Standardrechnung prüfen, ob das Heim eine Pflegesatzvereinbarung hat. Bei Kostenerstattung nach Paragraf 91 Absatz 2 ohne diese Vereinbarung sind Zuschlag nach Paragraf 43c und Anrechnung solcher Bezugszeiten Gegenstand von B 3 P 3/25 R. Am 30.09.2026 liegt nur die amtliche Terminvorschau für 01.10.2026 vor. Vorinstanz und Revisionsbegründung nicht als Ergebnis des BSG ausgeben. Neueren amtlichen Stand abrufen; bis dahin zwei Rechenvarianten mit bezeichnetem Streitpunkt statt eines angeblich sicheren Zahlungsanspruchs erstellen. Zugleich reguläre Rechnungsfehler und laufende Fristen bearbeiten.
+
 Entwirf eine bezifferte Korrekturanforderung an Kasse oder Heim, je nachdem wo der Fehler liegt. Nicht eigenmächtig Zahlungen stoppen. Eine verbleibende Finanzierungslücke kann eine gesonderte Prüfung von Hilfe zur Pflege erfordern; dies ist keine weitere Leistung aus demselben Pflegeversicherungsbudget. Einkommen, Vermögen und mögliche Unterhaltspflichten nicht beiläufig ohne eigenen Auftrag entscheiden.
 
 ## 9. Pflegeperson, Mitgliedschaft und Beiträge
@@ -221,6 +233,20 @@ Paragrafen 113 bis 115 mit der am Besuchstag geltenden Richtlinie anwenden. Bei 
 
 Festgestellte Versorgungsrisiken und rechtliche Einwendungen getrennt behandeln. Reale Gefahr verlangt eine konkrete Abhilfe; dadurch muss nicht jede rechtliche Bewertung anerkannt werden. Eine Stellungnahme soll tatsächliche Beobachtung, Nachweis, abweichende Bewertung und gegebenenfalls bereits veranlasste Maßnahme unterscheiden. Keine pauschale aufschiebende Wirkung jeder Beschwerde versprechen.
 
+### 10.3 Corona-Erstattung aus Altzeiträumen
+
+BSG, Urteil vom 18.06.2026, B 3 P 1/25 R, betrifft Aufwendungen aus Oktober bis Dezember 2021 nach Paragraf 150 Absatz 2 SGB XI in damaliger Fassung. Die in den Kostenerstattungs-Festlegungen enthaltene Ausschlussfrist war von Absatz 3 nicht gedeckt. Das Urteil beseitigt weder gesetzliche Fristen noch Verjährung oder Verwirkung und schafft keine Förderung für heutige Betriebskosten.
+
+Lies die abgelehnten Monate, Nachweise, anderweitige Finanzierung, Datum der Geltendmachung und einschlägige Festlegung. Die Erstattung wird im Gleichordnungsverhältnis abgewickelt; die Kasse durfte insoweit nicht durch Verwaltungsakt entscheiden. Gleichwohl erlassene Ablehnungsbescheide als Formalverwaltungsakte anfechten und den Zahlungsanspruch mit echter Leistungsklage nach Paragraf 54 Absatz 5 SGG verfolgen. Nicht einfach eine normale Versichertenklage übernehmen oder den Bescheid ignorieren. Gerichtskosten nach Paragraf 197a SGG gesondert erläutern.
+
+Verzugszinsen nach Paragraf 61 Satz 2 SGB X in Verbindung mit Paragrafen 286 und 288 Absatz 1 BGB unter Beachtung der damaligen Auszahlungsfrist prüfen. Ergebnis: monatsbezogene Forderungsrechnung und ausformulierter Zahlungsantrag mit Zinsbeginn, soweit die Unterlagen ihn tragen. Nicht jede heute genannte Bearbeitungsfrist für unwirksam erklären.
+
+### 10.4 Kündigung und nachfolgender Schadensersatz
+
+BSG, Urteil vom 13.11.2025, B 3 P 3/24 R: Die rechtskräftige Aufhebung eines Kündigungsbescheids wegen Ermessens- oder Begründungsfehlern beweist noch keine vertragliche Pflichtverletzung. Das BSG prüfte den Kündigungssachverhalt und die Verhältnismäßigkeit eigenständig und lehnte im konkreten Fall schon die Pflichtverletzung ab. Das ist weder eine Wiederherstellung des aufgehobenen Bescheids noch ein allgemeiner Haftungsausschluss.
+
+Bei Paragraf 74 SGB XI konkrete Vertragsmängel, vorherige Abhilfen, Nachprüfungen, mildere Mittel und Kündigungswirkung feststellen. Für Schadensersatz nach Paragraf 61 Satz 2 SGB X und Paragraf 280 BGB danach Pflichtverletzung, Vertretenmüssen, Kausalität und bezifferbaren Schaden getrennt prüfen. Nicht behaupten, das BSG habe hier sämtliche Beweislastfragen zu Kausalität und Höhe entschieden. Liefere den beauftragten Rechtsbehelf oder die begründete Schadensersatzforderung, nicht lediglich eine Zusammenfassung des Urteils.
+
 ## 11. Vom Bescheid zum Rechtsschutz
 
 ### 11.1 Richtiger Verfahrensweg
@@ -252,11 +278,17 @@ Untätigkeit nach Paragraf 88 SGG grundsätzlich nach sechs Monaten beim Antrag,
 - [SGB XI](https://www.gesetze-im-internet.de/sgb_11/), [SGB X](https://www.gesetze-im-internet.de/sgb_10/) und [SGG](https://www.gesetze-im-internet.de/sgg/): Anspruch, Verfahren und jeweilige zeitliche Fassung prüfen.
 - [MD-Downloadseite](https://www.medizinischerdienst.de/downloads-links): aktuelle Begutachtungs- und Qualitätsprüfungs-Richtlinien, Gültigkeitsdatum und konkrete Anlage kontrollieren.
 - [BMG-Leistungsübersicht 2026](https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/3_Downloads/P/Pflegeversicherung_Leistungsbeitraege/Uebersicht_Leistungsbetraege_2026_VA.pdf): Betragskontrolle, kein Ersatz für Anspruchsvoraussetzungen.
+- [Hessisches LSG vom 22.06.2026, L 6 P 10/25](https://sozialgerichtsbarkeit.hessen.de/presse/verhinderungspflege): amtliche Pressemitteilung vom 28.09.2026 zu unbezahlter Ersatzpflege nach Tod; kein hier geprüfter Volltext.
+- [BSG vom 18.06.2026, B 3 P 1/25 R](https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2026/2026_06_18_B_03_P_01_25_R.html): geprüfter Volltext zu Corona-Erstattung, Frist, Klageart und Verzugszins.
 - [BSG vom 05.03.2026, B 3 P 5/24 R](https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2026/2026_03_05_B_03_P_05_24_R.html): Module, Gewichtungsgrenzen, besondere Bedarfskonstellation und Richtlinienqualität.
+- [BSG vom 13.11.2025, B 3 P 3/24 R](https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2025/2025_11_13_B_03_P_03_24_R.html): geprüfter Volltext zu Kündigung und vertraglichem Schadensersatz.
+- [BSG vom 12.06.2025, B 3 P 8/23 R](https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2025/2025_06_12_B_03_P_08_23_R.html): geprüfter Volltext zur Abgrenzung von EU-Sachleistungsaushilfe und deutschem Pflegegeld.
 - [BSG vom 12.12.2024, B 3 P 9/23 R](https://www.sozialgerichtsbarkeit.de/node/177388/pdf): krankheitsbedingter Hilfebedarf eines Kindes auch in Modulen 3 und 4; kein Diagnoseautomatismus.
 - [BSG vom 30.11.2023, B 3 P 5/22 R](https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2023/2023_11_30_B_03_P_05_22_R.html): technische Hilfen, Wohnumfeld, Gesamtmaßnahme und Grenze der dort behandelten Verzögerungszahlung.
 
 Urteile mit Gericht, Art, Datum und Aktenzeichen bezeichnen; Randnummern nur nach Volltextprüfung. Gelesenen Volltext, amtliche Zusammenfassung und bloßen Suchhinweis nicht gleichsetzen. Keine Literaturfundstellen aus Erinnerung. Ohne Quellenzugriff Aktualitätsgrenze und betroffene Rechtsfrage offenlegen und an den unabhängig bearbeitbaren Teilen weiterarbeiten.
+
+Aktualitätskontrolle am 30.09.2026: amtliche BSG-Jahresübersichten 2025 und 2026 gelesen. Für [B 3 P 2/25 R](https://www.bsg.bund.de/SharedDocs/Verhandlungen/DE/2026/2026_10_01_B_03_P_02_25_R.html) und [B 3 P 3/25 R](https://www.bsg.bund.de/SharedDocs/Verhandlungen/DE/2026/2026_10_01_B_03_P_03_25_R.html) liegt nur die Terminvorschau vor. Am oder nach dem angekündigten Termin das tatsächliche Ergebnis prüfen, nicht aus dem Datum auf eine Entscheidung schließen. Einen Terminsbericht bis zur Veröffentlichung der Gründe als solchen kennzeichnen. Kein Anspruch auf Vollständigkeit über sämtliche Gerichte oder spätere Veröffentlichungen.
 
 ### 12.2 Dokumente liefern
 
