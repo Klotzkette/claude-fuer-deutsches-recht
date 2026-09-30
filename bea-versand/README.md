@@ -30,7 +30,7 @@ Das Plugin enthält genau einen unmittelbar installierten Skill. Der Werkstatt-P
 
 The plugin contains exactly one directly installed skill. The separate workshop download provides the same standalone workflow; MD and TXT contain identical text. Required references or tools must also be available when used manually.
 
-Direktnavigation: [Werkstatt verwenden](#werkstatt-verwenden) · [Startseite](../README.md) · [Plugin-Katalog](../README.md#was-ist-drin) · [Skill-Gesamtübersicht](../SKILLS.md) · [Skills dieses Plugins](../skills-index/bea-versand.md) · [Plugin-Dateien](.) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
+Direktnavigation: [Werkstatt verwenden](#werkstatt-verwenden) · [Startseite](../README.md) · [Plugin-Katalog](../README.md#was-ist-drin) · [Skill-Gesamtübersicht](../SKILLS.md) · [Skills dieses Plugins](../skills-index/bea-versand.md) · [Plugin-Dateien](.) · [Download-Index](../ASSET_INDEX.md) · [Installation](../INSTALLATION_EINFACH.md) · [Testakten](../testakten/README.md)
 
 <!-- decimal-anchor --> <a id="werkstatt-verwenden"></a>
 

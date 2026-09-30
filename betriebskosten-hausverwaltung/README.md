@@ -25,7 +25,7 @@ Die Skill-Liste bildet den Quellbestand ab. Im installierten Paket werden umfang
 
 The skill index lists the source collection. In the installed package, some specialist series are accessed through a topic router rather than separate menu entries. A standalone skill may need additional reference files or tools. Choose one entry point, then add only what the matter requires.
 
-Direktnavigation: [30-Sekunden-Start](#in-30-sekunden-starten) · [Startseite](../README.md) · [Plugin-Katalog](../README.md#was-ist-drin) · [Skill-Gesamtübersicht](../SKILLS.md) · [Skills dieses Plugins](../skills-index/betriebskosten-hausverwaltung.md) · [Plugin-Dateien](.) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
+Direktnavigation: [30-Sekunden-Start](#in-30-sekunden-starten) · [Startseite](../README.md) · [Plugin-Katalog](../README.md#was-ist-drin) · [Skill-Gesamtübersicht](../SKILLS.md) · [Skills dieses Plugins](../skills-index/betriebskosten-hausverwaltung.md) · [Plugin-Dateien](.) · [Download-Index](../ASSET_INDEX.md) · [Installation](../INSTALLATION_EINFACH.md) · [Testakten](../testakten/README.md)
 
 ## In 30 Sekunden starten
 
@@ -72,7 +72,7 @@ Dieses eigenständige Plugin führt von Belegen und Verbrauchsdaten bis zur nach
 
 Der Auftrag bleibt die Betriebskostenabrechnung mit dem dafür erforderlichen Beleg- und Zahlungsabgleich. Die lebensnahen Akten enthalten auch Fahrradlagerung, Trinkwasseruntersuchungen, Restaurantabluft und neue Ladeinfrastruktur. Das erweitert den zu prüfenden Belegbestand, nicht das Plugin zu einer allgemeinen Bau-, Hygiene-, Gastronomie- oder Finanzbuchhaltungsberatung. Technische Planung, medizinische Bewertung und allgemeine Unternehmensbuchführung sind nicht sein Arbeitsprodukt.
 
-Version: `444.7.1`. Fachlicher Prüfstand: 22.09.2026. Für Abrechnungen 2025 wird das damals geltende Recht angewandt; aktuelle Normseiten werden auf spätere Änderungen geprüft.
+Paketstand: siehe [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Fachlicher Prüfstand: 22.09.2026. Für Abrechnungen 2025 wird das damals geltende Recht angewandt; aktuelle Normseiten werden auf spätere Änderungen geprüft.
 
 ## 1.1. Direkt beginnen
 

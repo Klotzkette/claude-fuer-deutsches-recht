@@ -37,7 +37,7 @@ English: This is the alphabetical practice-case index. Each row links to a case 
   <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alles-komplettpaket.zip"><strong>Alles komplett als ZIP herunterladen</strong></a>
 </p>
 
-> **Grundregel Dateiformate:** Aktenstücke liegen als lebensechter Formatemix vor (DOCX mit Briefkopf, PDF, XLSX, EML, JPG, TXT). Das Akten-ZIP enthält weder Markdown noch Unterordner; lediglich die verpflichtende `README.txt` mit dem zweisprachigen Hinweis kommt hinzu. Details und Werkzeuge stehen im [Qualitätsstandard](./QUALITAETSSTANDARD.md).
+> **Grundregel Dateiformate:** Aktenstücke liegen als lebensechter Formatemix vor (DOCX mit Briefkopf, PDF, XLSX, EML, JPG, TXT). Originalformat-ZIPs enthalten kein Markdown; beide ZIP-Varianten sind grundsätzlich flach. Die Hildesheimer Lebensakte und das FinTech-Darlehensverfahren Bremen behalten ausdrücklich ihre Unterordner. In jedem ZIP kommt die verpflichtende `README.txt` mit dem zweisprachigen Hinweis hinzu. Details und Werkzeuge stehen im [Qualitätsstandard](./QUALITAETSSTANDARD.md).
 
 ## Verfügbare Akten
 

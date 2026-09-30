@@ -25,7 +25,7 @@ Die Skill-Liste bildet den Quellbestand ab. Im installierten Paket werden umfang
 
 The skill index lists the source collection. In the installed package, some specialist series are accessed through a topic router rather than separate menu entries. A standalone skill may need additional reference files or tools. Choose one entry point, then add only what the matter requires.
 
-Direktnavigation: [30-Sekunden-Start](#in-30-sekunden-starten) · [Startseite](../README.md) · [Plugin-Katalog](../README.md#was-ist-drin) · [Skill-Gesamtübersicht](../SKILLS.md) · [Skills dieses Plugins](../skills-index/aktenauszug-gerichtsverfahren.md) · [Plugin-Dateien](.) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
+Direktnavigation: [30-Sekunden-Start](#in-30-sekunden-starten) · [Startseite](../README.md) · [Plugin-Katalog](../README.md#was-ist-drin) · [Skill-Gesamtübersicht](../SKILLS.md) · [Skills dieses Plugins](../skills-index/aktenauszug-gerichtsverfahren.md) · [Plugin-Dateien](.) · [Download-Index](../ASSET_INDEX.md) · [Installation](../INSTALLATION_EINFACH.md) · [Testakten](../testakten/README.md)
 
 ## In 30 Sekunden starten
 
@@ -58,7 +58,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 <!-- END direkt-loslegen (autogen) -->
 
 Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlägigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
-Version: 444.2.0
+Paketstand: siehe [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest).
 **Autor:** Klotzkette
 
 ---
@@ -66,8 +66,8 @@ Version: 444.2.0
 ## Installation in der Plugin-Umgebung
 
 1. ZIP herunterladen (Link oben).
-2. Plugin-Menü öffnen, `Install from .zip` wählen und die Datei auswählen.
-3. Plugin erscheint in der Plugin-Liste; alle 21 Skills sind sofort verfügbar.
+2. Plugin-Menü öffnen, `Upload plugin` wählen und die Datei auswählen.
+3. Plugin aktivieren und eine neue Aufgabe öffnen. Die [vollständige Skill-Liste](../skills-index/aktenauszug-gerichtsverfahren.md) zeigt die verfügbaren Arbeitswege; umfangreiche Spezialserien werden gegebenenfalls über einen Fachrouter geöffnet.
 4. Für Updates: neues ZIP herunterladen und Plugin ersetzen.
 5. Hinweis: Das Plugin-ZIP muss direkt `.claude-plugin/plugin.json`, `skills/` und `references/` im ZIP-Root enthalten — nicht das komplette Repository-ZIP aus "Code → Download ZIP" verwenden.
 

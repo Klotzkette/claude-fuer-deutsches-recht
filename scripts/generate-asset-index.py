@@ -16,7 +16,7 @@ from release_routing import RELEASE_BASE, case_asset_url, companion_cases, compa
 from prompt_profiles import enabled, formats
 from urllib.parse import quote
 
-from readme_display import display_prose
+from readme_display import display_plugin_description
 from testakte_download_notices import ensure_download_notices
 
 REPO = Path(__file__).resolve().parent.parent
@@ -135,7 +135,7 @@ def main() -> int:
             name = plugin["name"]
             rel = source_rel(plugin)
             description = html.escape(
-                display_prose(str(plugin.get("description", ""))).replace("|", "\\|")
+                display_plugin_description(str(plugin.get("description", "")), REPO / rel).replace("|", "\\|")
             )
             werkstatt_file = f"{name}-werkstatt.md"
             schnellstart_file = f"{name}-schnellstart.md"

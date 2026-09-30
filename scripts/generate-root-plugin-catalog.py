@@ -8,7 +8,7 @@ import re
 from pathlib import Path
 from release_routing import rewrite_case_asset_urls
 
-from readme_display import display_prose
+from readme_display import display_plugin_description
 from testakte_zip_common import working_dump_flat_pairs
 
 
@@ -38,9 +38,9 @@ def display_description(plugin: dict) -> str:
             text,
         )
         if match:
-            return display_prose(re.sub(r"\s+", " ", match.group(1)).strip())
-    return display_prose(
-        re.sub(r"\s+", " ", str(plugin.get("description", ""))).strip()
+            return display_plugin_description(re.sub(r"\s+", " ", match.group(1)).strip(), readme.parent)
+    return display_plugin_description(
+        re.sub(r"\s+", " ", str(plugin.get("description", ""))).strip(), readme.parent
     )
 
 
@@ -189,6 +189,23 @@ def update_testakten_version(text: str, version: str, central_count: int | None 
     return updated
 
 
+def build_subject_index(plugins: list[dict], version: str) -> str:
+    skill_count = sum(sum(1 for _ in (REPO / source_rel(p) / "skills").glob("*/SKILL.md")) for p in plugins)
+    lines = [
+        "# Rechtsgebiete und Plugins in diesem Repository", "",
+        "Vollständiger alphabetischer Katalog mit Kurzbeschreibung, Paketversion und Skill-Quellbestand. Große Spezialserien werden im installierten Paket teilweise über Fachrouter geöffnet; die Zahl ist deshalb keine Zusage entsprechend vieler Menüeinträge.", "",
+        "[Startseite](../README.md) · [Skills und Einzel-Downloads](../SKILLS.md) · [Werkstatt und Mini](../docs/werkstatt-und-schnellstart-coverage.md) · [Downloads](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)", "",
+        f"Stand v{version}: {len(plugins)} Plugins, {skill_count} Skills.", "",
+        "| Plugin | Beschreibung | Version | Skills |", "| --- | --- | --- | ---: |",
+    ]
+    for plugin in sorted(plugins, key=lambda p: p["name"]):
+        source = source_rel(plugin)
+        count = sum(1 for _ in (REPO / source / "skills").glob("*/SKILL.md"))
+        description = display_description(plugin).replace("|", "\\|")
+        lines.append(f"| [`{plugin['name']}`](../{source}/) | {description} | `{plugin['version']}` | {count} |")
+    return "\n".join(lines) + "\n"
+
+
 def main() -> int:
     marketplace = json.loads(MARKETPLACE.read_text(encoding="utf-8"))
     plugins = marketplace["plugins"]
@@ -210,6 +227,9 @@ def main() -> int:
     testakten = rewrite_case_asset_urls(testakten, version=marketplace["version"])
     README.write_text(updated, encoding="utf-8")
     TESTAKTEN_README.write_text(testakten, encoding="utf-8")
+    (REPO / "references" / "rechtsgebiete-uebersicht.md").write_text(
+        build_subject_index(plugins, version), encoding="utf-8"
+    )
     print(
         "README.md: Hauptverzeichnis und vollständiger A-Z-Katalog "
         f"mit {len(plugins)} Plugins."

@@ -32,7 +32,7 @@ Alle sechs Skills sind unmittelbar enthalten: fünf Fachskills und der Hauptprob
 
 All six skills are included directly: five task skills and one main workflow. The workshop and mini prompt are separate standalone downloads. References, drafting blocks and the vote calculator are included in the plugin ZIP; an individual skill download does not include its supporting files.
 
-Direktnavigation: [30-Sekunden-Start](#in-30-sekunden-starten) · [Startseite](../README.md) · [Plugin-Katalog](../README.md#was-ist-drin) · [Skill-Gesamtübersicht](../SKILLS.md) · [Skills dieses Plugins](../skills-index/gmbh-gesellschafterversammlung.md) · [Plugin-Dateien](.) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
+Direktnavigation: [30-Sekunden-Start](#in-30-sekunden-starten) · [Startseite](../README.md) · [Plugin-Katalog](../README.md#was-ist-drin) · [Skill-Gesamtübersicht](../SKILLS.md) · [Skills dieses Plugins](../skills-index/gmbh-gesellschafterversammlung.md) · [Plugin-Dateien](.) · [Download-Index](../ASSET_INDEX.md) · [Installation](../INSTALLATION_EINFACH.md) · [Testakten](../testakten/README.md)
 
 <!-- decimal-anchor --> <a id="in-30-sekunden-starten"></a>
 

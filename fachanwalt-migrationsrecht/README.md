@@ -3,7 +3,7 @@
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
-Großer Fachanwalt-Kompass Migrationsrecht mit über 200 Skills für Aufenthalt, Blaue Karte EU, Fachkräfte, Asyl, Dublin/GEAS, Einbürgerung, Staaten-/Gebietschecks und spanische/einfache Erklärung.
+Großer Fachanwalt-Kompass Migrationsrecht mit 176 Skills für Aufenthalt, Blaue Karte EU, Fachkräfte, Asyl, Dublin/GEAS, Einbürgerung, Staaten-/Gebietschecks und spanische/einfache Erklärung.
 
 Dieses Plugin gehört zum Marketplace mit 254 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
@@ -26,7 +26,7 @@ Die Skill-Liste bildet den Quellbestand ab. Im installierten Paket werden umfang
 
 The skill index lists the source collection. In the installed package, some specialist series are accessed through a topic router rather than separate menu entries. A standalone skill may need additional reference files or tools. Choose one entry point, then add only what the matter requires.
 
-Direktnavigation: [30-Sekunden-Start](#in-30-sekunden-starten) · [Startseite](../README.md) · [Plugin-Katalog](../README.md#was-ist-drin) · [Skill-Gesamtübersicht](../SKILLS.md) · [Skills dieses Plugins](../skills-index/fachanwalt-migrationsrecht.md) · [Plugin-Dateien](.) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
+Direktnavigation: [30-Sekunden-Start](#in-30-sekunden-starten) · [Startseite](../README.md) · [Plugin-Katalog](../README.md#was-ist-drin) · [Skill-Gesamtübersicht](../SKILLS.md) · [Skills dieses Plugins](../skills-index/fachanwalt-migrationsrecht.md) · [Plugin-Dateien](.) · [Download-Index](../ASSET_INDEX.md) · [Installation](../INSTALLATION_EINFACH.md) · [Testakten](../testakten/README.md)
 
 ## In 30 Sekunden starten
 
@@ -75,15 +75,15 @@ Für streitige Lebensunterhaltsnachweise: Familienbedarf, schwankenden Verdienst
 
 [Schwerpunkt-Skill](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-migrationsrecht/skills/familiennachzug-haushaltsprognose-belegabgleich/SKILL.md) · <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-migrationsrecht/fachanwalt-migrationsrecht-hauptproblem.md" download>Eigenständigen Schwerpunkt-Prompt als Markdown herunterladen</a>. Der Prompt benötigt keine installierten Skills.
 Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlägigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
-Plugin Fachanwalt für Migrationsrecht als großer Praxis-Kompass mit über 200 Skills: Aufenthaltstitel, Blaue Karte EU, Fachkräfte, Chancenkarte, Studium/Ausbildung, Familiennachzug, Asyl, Dublin/GEAS, Einbürgerung, Duldung, Abschiebungsabwehr, Ausweisung, Visumverfahren, Staatenlosigkeit, Gebietsstatus, Länderquellen und ein Staaten-/Gebietscheck für nahezu jeden relevanten Herkunfts-, Transit- oder Zielstaat einschließlich Palästina, Nordzypern und Westsahara. Der Einstiegsskill kann auf Wunsch auch spanisch und in einfacher Sprache erklären.
+Plugin Fachanwalt für Migrationsrecht als großer Praxis-Kompass mit Fachworkflows für Aufenthaltstitel, Blaue Karte EU, Fachkräfte, Chancenkarte, Studium/Ausbildung, Familiennachzug, Asyl, Dublin/GEAS, Einbürgerung, Duldung, Abschiebungsabwehr, Ausweisung, Visumverfahren, Staatenlosigkeit, Gebietsstatus, Länderquellen und ein Staaten-/Gebietscheck für nahezu jeden relevanten Herkunfts-, Transit- oder Zielstaat einschließlich Palästina, Nordzypern und Westsahara. Der Einstiegsskill kann auf Wunsch auch spanisch und in einfacher Sprache erklären.
 
 Die 226 Staaten- und Gebietskarten werden über `staaten-und-gebiete-migrationscheck` gezielt erschlossen. Der Navigator öffnet anhand des bisherigen Staatenslugs nur einen kleinen Bibliotheksbereich und darin genau die benötigte Karte. Aktuelle Länder-, Sicherheits-, Botschafts- und Behördenangaben werden weiterhin anhand datierter Primärquellen geprüft; die hinterlegte Karte dient ausschließlich als migrationsrechtliches Prüfraster.
 
 ## Installation in der Plugin-Umgebung
 
 1. ZIP herunterladen (Link oben).
-2. Plugin-Menü öffnen, `Install from .zip` wählen und die Datei auswählen.
-3. Fertig. Skills sind sofort verfügbar.
+2. Plugin-Menü öffnen, `Upload plugin` wählen und die Datei auswählen.
+3. Plugin aktivieren und eine neue Aufgabe öffnen; den passenden Skill ausdrücklich auswählen.
 
 > **Hinweis:** Für den ZIP-Upload muss das Archiv direkt `.claude-plugin/plugin.json`, `skills/`, `assets/` und `references/` im ZIP-Root enthalten. **Nicht** das komplette Repository-ZIP aus "Code → Download ZIP" verwenden.
 

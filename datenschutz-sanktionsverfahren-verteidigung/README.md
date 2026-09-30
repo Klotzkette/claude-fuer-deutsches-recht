@@ -25,7 +25,7 @@ Die Skill-Liste bildet den Quellbestand ab. Im installierten Paket werden umfang
 
 The skill index lists the source collection. In the installed package, some specialist series are accessed through a topic router rather than separate menu entries. A standalone skill may need additional reference files or tools. Choose one entry point, then add only what the matter requires.
 
-Direktnavigation: [30-Sekunden-Start](#in-30-sekunden-starten) · [Startseite](../README.md) · [Plugin-Katalog](../README.md#was-ist-drin) · [Skill-Gesamtübersicht](../SKILLS.md) · [Skills dieses Plugins](../skills-index/datenschutz-sanktionsverfahren-verteidigung.md) · [Plugin-Dateien](.) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
+Direktnavigation: [30-Sekunden-Start](#in-30-sekunden-starten) · [Startseite](../README.md) · [Plugin-Katalog](../README.md#was-ist-drin) · [Skill-Gesamtübersicht](../SKILLS.md) · [Skills dieses Plugins](../skills-index/datenschutz-sanktionsverfahren-verteidigung.md) · [Plugin-Dateien](.) · [Download-Index](../ASSET_INDEX.md) · [Installation](../INSTALLATION_EINFACH.md) · [Testakten](../testakten/README.md)
 
 ## In 30 Sekunden starten
 
@@ -139,7 +139,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate. Normen und Rechtspre
 
 ## Skill-Logik
 
-Die 100 Skills sind nicht als lose Liste gedacht, sondern als Verteidigungsmaschine: Kaltstart, Behördenvorfeld, Bußgeld/OWiG, Art.-83-Bemessung, Verwaltungsgericht, EU-One-Stop-Shop, Beweise/Forensik und Output. Jeder Skill soll die Mandantin handlungsfähiger machen und nicht bloß Normen aufsagen.
+Die Arbeitswege folgen dem Verfahrensstand: Einstieg, Behördenvorfeld, Bußgeldverfahren, Bemessung nach Artikel 83, Verwaltungsgericht, europäische Behördenkooperation, Beweissicherung und Schriftsatz. Wähle den für den nächsten Verfahrensschritt passenden Einstieg; die [vollständige Skill-Liste](../skills-index/datenschutz-sanktionsverfahren-verteidigung.md) enthält auch die Vertiefungen.
 
 
 <!-- BEGIN SKILLS-LOGIC (auto-generated) -->

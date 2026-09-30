@@ -180,6 +180,34 @@ def check_sorted_inventories(marketplace: dict) -> list[str]:
     return errors
 
 
+def check_subject_index(marketplace: dict) -> list[str]:
+    path = REPO / "references" / "rechtsgebiete-uebersicht.md"
+    if not path.is_file():
+        return ["Rechtsgebiete-Übersicht fehlt"]
+    text = path.read_text(encoding="utf-8")
+    plugins = sorted(marketplace["plugins"], key=lambda p: p["name"])
+    expected_rows = []
+    for plugin in plugins:
+        directory = plugin_source(plugin)
+        count = sum(1 for _ in (directory / "skills").glob("*/SKILL.md"))
+        source = directory.relative_to(REPO).as_posix()
+        expected_rows.append((plugin["name"], source, plugin["version"], count))
+    actual_rows = [
+        (name, source, version, int(count))
+        for name, source, version, count in re.findall(
+            r"^\| \[`([^`]+)`\]\(\.\./([^)]*)/\) \| .* \| `([^`]+)` \| (\d+) \|$",
+            text, re.MULTILINE,
+        )
+    ]
+    errors = []
+    if actual_rows != expected_rows:
+        errors.append("Rechtsgebiete-Übersicht: Einträge, Pfade, Sortierung, Versionen oder Skillzahlen veraltet")
+    summary = f"Stand v{marketplace['version']}: {len(plugins)} Plugins, {sum(row[3] for row in expected_rows)} Skills."
+    if summary not in text:
+        errors.append("Rechtsgebiete-Übersicht: Bestandsangabe veraltet")
+    return errors
+
+
 def check_root_readme(values: dict[str, int | str]) -> list[str]:
     readme = (REPO / "README.md").read_text(encoding="utf-8")
     errors: list[str] = []
@@ -332,6 +360,7 @@ def main() -> int:
         + check_root_directory(values)
         + check_generated_overviews(values)
         + check_sorted_inventories(marketplace)
+        + check_subject_index(marketplace)
     )
     if errors:
         for error in errors:

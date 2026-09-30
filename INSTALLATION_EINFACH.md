@@ -47,13 +47,13 @@ Die Auflistung muss `.claude-plugin/plugin.json` und einen `skills/`-Ordner zeig
 
 ## 4. Marketplace für eine Organisation
 
-Der Organisations-Marketplace ist für Team und Enterprise vorgesehen und wird von einem Owner unter **Organization settings → Plugins & skills → Marketplaces** eingerichtet. Vorher müssen Cowork und Skills für die Organisation aktiviert sein. Die folgenden Menübezeichnungen wurden am 25. September 2026 mit der unten verlinkten Anbieterdokumentation abgeglichen.
+Der Organisations-Marketplace ist für Team und Enterprise vorgesehen und wird von einem Owner unter **Organization settings → Plugins & skills → Marketplaces** eingerichtet. Vorher müssen Cowork und Skills für die Organisation aktiviert sein. Quellenstand für Oberfläche und Grenzen: 30. September 2026; maßgeblich bleibt die unten verlinkte Herstellerhilfe.
 
 Die GitHub-Synchronisierung akzeptiert derzeit nur private oder interne Repositorys. Deshalb den aktuellen Inhalt dieses öffentlichen Projekts zuerst in ein privates oder internes Spiegelrepository der Organisation übernehmen. Anschließend **Add → Sync from GitHub** wählen, das Spiegelrepository als `owner/repo` eintragen und den ersten Sync abwarten. Die Claude GitHub App muss auf dieses Repository zugreifen können. Die relative Plugin-Struktur und die Datei [`marketplace.json`](./.claude-plugin/marketplace.json) bleiben dabei unverändert.
 
-Ein manueller Marketplace wird unter **Add → Upload a plugin** mit einzelnen Plugin-ZIPs befüllt. `marketplace.json` ist kein Upload für diesen Dialog. Jedes ZIP muss kleiner als 50 MB sein; ein manueller Marketplace nimmt höchstens 100 Plugins auf. Für den gesamten [Plugin-Bestand](./README.md#was-ist-drin) ist daher das private oder interne Spiegelrepository zweckmäßiger, für eine gezielte Auswahl der manuelle Upload.
+Ein manueller Marketplace wird unter **Add → Upload a plugin** mit einzelnen Plugin-ZIPs befüllt. `marketplace.json` ist kein Upload für diesen Dialog. Die Herstellerhilfe nennt eine Uploadgrenze von 200 MB je ZIP und höchstens 1000 Plugins je Marketplace, sowohl manuell als auch synchronisiert. Für den gesamten [Plugin-Bestand](./README.md#was-ist-drin) ist ein Spiegelrepository wegen der gemeinsamen Versionspflege zweckmäßig; für eine gezielte Auswahl genügt der manuelle Upload.
 
-Weitere automatische Updates müssen beim Marketplace über **Sync automatically** aktiviert sein und setzen einen in den Standardbranch gemergten Pull Request mit Versionsanhebung voraus. Ein direkter Push löst sie nicht aus; dann in der Marketplace-Verwaltung **Update** wählen. Der Sync kann bis zu 30 Minuten dauern.
+Für automatische Updates **Sync automatically** prüfen. Die Herstellerhilfe beschreibt die Auslöser derzeit widersprüchlich: einmal auch direkte Pushes, an anderer Stelle nur gemergte Pull Requests mit Versionsanhebung. Deshalb nicht auf eine vermeintliche Automatik verlassen, sondern Sync-Status und übernommene Version kontrollieren und bei Bedarf **Update** auslösen. 30 Minuten sind die dokumentierte Timeout-Grenze, keine Zusage eines erfolgreichen Imports.
 
 Nur im Kommandozeilen-Client kann das öffentliche Repository unmittelbar verwendet werden:
 
@@ -68,12 +68,14 @@ Aktuelle Oberflächen- und Planvorgaben: [Plugins verwenden](https://support.cla
 
 ## 5. Ohne Installation anfangen
 
-Jede Plugin-README erklärt zuerst die Bestandteile und verlinkt den Abschnitt „In 30 Sekunden starten“. Im oberen Bereich findest du:
+Jede Plugin-README erklärt die Bestandteile, den Einstieg und die Downloads. Im oberen Bereich findest du:
 
-1. der direkte Schnellstart-Download,
-2. der ausführliche Werkstatt-Download,
-3. ein fertiger Startsatz für den Arbeitsordner,
+1. den direkten Schnellstart-Download, soweit für das Paket vorgesehen,
+2. den ausführlichen Werkstatt-Download,
+3. einen passenden Einstieg für den Arbeitsordner,
 4. zugeordnete Testakten oder den Verweis auf die zentrale Sammlung.
+
+Das bewusst schlanke Paket [beA-Versand](./bea-versand/README.md) bietet einen Skill und die Werkstatt als identischen MD-/TXT-Download, keinen zusätzlichen Mini-Prompt. Die [Prompt-Übersicht](./docs/werkstatt-und-schnellstart-coverage.md) zeigt den tatsächlich verfügbaren Bestand.
 
 Der [Plugin-Katalog](./README.md#was-ist-drin) führt zu allen Plugin-Startseiten. Der [Download-Index](./ASSET_INDEX.md) enthält zusätzlich sämtliche Einzeldateien.
 
@@ -86,7 +88,7 @@ Der [Plugin-Katalog](./README.md#was-ist-drin) führt zu allen Plugin-Startseite
 
 Ein geeigneter Funktionstest lautet:
 
-> Erfasse zuerst alle Dateien nach Name, Datum und Typ. Öffne höchstens fünf tragende Unterlagen, prüfe die laufende Frist und liefere unmittelbar das nächste fachlich passende Schreiben. Erweitere die Lektüre nur für eine konkrete Beleglücke und frage nur gebündelt nach, wenn die Unterlagen die entscheidende Weiche nicht beantworten.
+> Lies zuerst die für meinen Auftrag maßgeblichen Unterlagen im bereitgestellten Ordner. Prüfe die laufende Frist und entwirf das nächste fachlich passende Schreiben. Frage nur nach entscheidenden Angaben, die sich daraus nicht ergeben. Benenne fehlende Belege und kennzeichne einen noch unvollständigen Entwurf.
 
 Die Antwort soll die Unterlagen verwerten und nicht mit einem allgemeinen Fragenkatalog beginnen.
 
@@ -94,7 +96,7 @@ Die Antwort soll die Unterlagen verwerten und nicht mit einem allgemeinen Fragen
 
 Aktiviere für einen konkreten Vorgang nur das tatsächlich benötigte Plugin und öffne nach Installation, Aktivierung oder Update eine neue Aufgabe. Wenn der Sachskill feststeht, wähle ihn unmittelbar über `/` oder `+`. Bei Leistungsphasen, Länder-, Behörden-, Lohn-, BWA-, Sanierungsgewinn-, Beirats- und BHO-Fragen öffnet der jeweilige Fachrouter nur die einschlägige Referenz; mehrere Vertiefungen werden nur bei einer echten Schnittstelle geladen. Bei Microsoft 365 wird die Suche schneller und genauer, wenn Website, Bibliothek oder Ordner, Zeitraum, Absender, Dateityp und ein prägnanter Suchbegriff vorgegeben sind. Der erste Durchgang soll höchstens 20 Treffer erfassen und höchstens fünf tragende Dokumente öffnen; erweitert wird nur für eine konkret benannte Beleglücke.
 
-Bereits gelesene Word- und PDF-Dateien werden nicht erneut geöffnet. Bei Tabellen genügt zunächst das einschlägige Blatt mit dem relevanten Zellbereich, bei E-Mails der genaue Gesprächsverlauf. Für einen einzelnen Fall bleibt der Schnellstart oder das Einzel-Plugin der schnellste Weg.
+Die Treffer- und Dokumentzahlen sind ein Budget für die erste Sichtung, keine Grenze der fachlich erforderlichen Prüfung. Bereits belegte Auszüge unveränderter Word- und PDF-Dateien können weiterverwendet werden; neue Fassungen, Widersprüche und entscheidende Fundstellen müssen erneut geprüft werden. Bei Tabellen genügt zunächst das einschlägige Blatt mit dem relevanten Zellbereich, bei E-Mails der genaue Gesprächsverlauf. Ein überschaubarer Einzelauftrag lässt sich meist mit einem Einzel-Plugin oder einem passenden eigenständigen Prompt beginnen.
 
 ## 8. Häufige Fehler
 
@@ -125,7 +127,7 @@ claude plugin validate --strict .claude-plugin/marketplace.json
 
 Die letzte Prüfung benötigt die installierte Claude-Code-CLI. Für einzelne Pakete kann zusätzlich `claude plugin validate --strict ./liquiditaetsplanung` verwendet werden; für alle Pakete steht [validate-with-claude-cli.sh](./scripts/validate-with-claude-cli.sh) bereit. Diese Prüfungen melden Dateifehler, ersetzen aber keinen erfolgreichen Import in der betroffenen Anwendung. Der Unterschied ist auch in der [offiziellen Marketplace-Dokumentation](https://code.claude.com/docs/en/plugin-marketplaces#validate-and-test) beschrieben.
 
-Bei einem Fehler den gemeldeten Pfad korrigieren und den aktualisierten Stand erneut synchronisieren. Sind die Prüfungen erfolgreich, den Sync in der Organisationsverwaltung über **Update** wiederholen oder als Eingrenzung ein einzelnes Plugin-ZIP aus dem aktuellen Release hochladen. Nach erfolgreichem Sync die Installationseinstellungen kontrollieren, weil ein fehlgeschlagener Sync sie zurücksetzen kann.
+Bei einem Fehler den gemeldeten Pfad korrigieren und den aktualisierten Stand erneut synchronisieren. Sind die Prüfungen erfolgreich, den Sync in der Organisationsverwaltung über **Update** wiederholen oder als Eingrenzung ein einzelnes Plugin-ZIP aus dem aktuellen Release hochladen. Nach einem fehlgeschlagenen Sync bleibt laut Herstellerhilfe der letzte erfolgreich synchronisierte Plugin-Stand erhalten. Daher die tatsächlich angezeigte Version prüfen, statt einen fehlgeschlagenen Updateversuch als Aktualisierung zu behandeln.
 
 Bleibt der Fehler bestehen, bitte im [Issue](https://github.com/Klotzkette/claude-fuer-deutsches-recht/issues/new) App-Version, Betriebssystem, persönlichen Upload oder Organisations-Sync, Repository-Commit beziehungsweise Release-Version, Plugin-Dateiname, vollständigen Fehlertext und die Prüfergebnisse nennen. Zugangsschlüssel und Mandatsunterlagen gehören nicht in den Bericht. Ein lokal gültiger Stand belegt nicht, dass der Fehler in einem anderen Benutzerkonto bereits behoben ist.
 

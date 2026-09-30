@@ -495,6 +495,10 @@ _STEM_REPLACEMENTS = (
 )
 
 
+def display_plugin_description(text: str, directory: Path) -> str:
+    return display_prose(_PLUGIN_README["description_with_current_count"](text, directory))
+
+
 def display_prose(text: str) -> str:
     """Stellt Prosa mit Umlauten dar und schützt Slugs, Links und Code."""
     value = _TRANSFORM_TEXT(text).replace("§§", "Paragrafen").replace("§", "Paragraf")

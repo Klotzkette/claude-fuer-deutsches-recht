@@ -25,7 +25,7 @@ Die Skill-Liste bildet den Quellbestand ab. Im installierten Paket werden umfang
 
 The skill index lists the source collection. In the installed package, some specialist series are accessed through a topic router rather than separate menu entries. A standalone skill may need additional reference files or tools. Choose one entry point, then add only what the matter requires.
 
-Direktnavigation: [30-Sekunden-Start](#in-30-sekunden-starten) · [Startseite](../README.md) · [Plugin-Katalog](../README.md#was-ist-drin) · [Skill-Gesamtübersicht](../SKILLS.md) · [Skills dieses Plugins](../skills-index/normenkontrollrat-nkr.md) · [Plugin-Dateien](.) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
+Direktnavigation: [30-Sekunden-Start](#in-30-sekunden-starten) · [Startseite](../README.md) · [Plugin-Katalog](../README.md#was-ist-drin) · [Skill-Gesamtübersicht](../SKILLS.md) · [Skills dieses Plugins](../skills-index/normenkontrollrat-nkr.md) · [Plugin-Dateien](.) · [Download-Index](../ASSET_INDEX.md) · [Installation](../INSTALLATION_EINFACH.md) · [Testakten](../testakten/README.md)
 
 ## In 30 Sekunden starten
 
@@ -80,10 +80,10 @@ Leitsatz: *"Wenn nicht nötig, dann nicht regeln; wenn nötig, dann so einfach, 
 
 ## Aufbau
 
-Das Plugin enthält 37 Skills in fünf Clustern:
+Die folgenden fünf Gruppen zeigen eine Auswahl typischer Prüfaufgaben. Der vollständige Bestand einschließlich zusätzlicher Vertiefungen steht in der [Skill-Liste](../skills-index/normenkontrollrat-nkr.md).
 
 ```
-A — Grundlagen, Verfahren, Mandat (7 Skills)
+1. Grundlagen, Verfahren, Mandat (7 Skills)
    nkr-orientierung-und-mandatsaufnahme
    nkr-aufgabe-und-kompetenz-nkrg
    nkr-pruefumfang-was-prueft-der-nkr-nicht
@@ -92,7 +92,7 @@ A — Grundlagen, Verfahren, Mandat (7 Skills)
    nkr-eu-ebene-und-better-regulation
    nkr-evaluation-und-jahresbericht
 
-B — Erfuellungsaufwand-Methodik (8 Skills)
+2. Erfüllungsaufwand-Methodik (8 Skills)
    nkr-erfuellungsaufwand-grundbegriff
    nkr-erfuellungsaufwand-buerger-wirtschaft-verwaltung
    nkr-standardkostenmodell-skm
@@ -102,7 +102,7 @@ B — Erfuellungsaufwand-Methodik (8 Skills)
    nkr-fallzahlen-schaetzung-bandbreiten
    nkr-leitfaden-ermittlung-und-darstellung
 
-C — Pruefraster (8 Skills)
+3. Prüfraster (8 Skills)
    nkr-erforderlichkeitspruefung-warum-ueberhaupt-regeln
    nkr-alternativen-pruefung-keine-regelung-soft-law
    nkr-verhaeltnismaessigkeit-aus-nkr-sicht
@@ -112,7 +112,7 @@ C — Pruefraster (8 Skills)
    nkr-digital-anschlussfaehigkeit-tauglich
    nkr-one-in-one-out-bilanz-und-buchung
 
-D — Stellungnahme-Drafting (8 Skills)
+4. Stellungnahme entwerfen (8 Skills)
    nkr-stellungnahme-aufbau-und-format
    nkr-stellungnahme-grundsatzfeststellung
    nkr-stellungnahme-ergebnis-und-empfehlung
@@ -122,7 +122,7 @@ D — Stellungnahme-Drafting (8 Skills)
    nkr-stellungnahme-mahnender-charakter-grenzen
    nkr-stellungnahme-pressepolitik-und-jahresbericht
 
-E — Spezialfaelle / komplexe Themen (6 Skills)
+5. Spezialfälle / komplexe Themen (6 Skills)
    nkr-digitalcheck-und-onlinezugangsgesetz-ozg
    nkr-eu-richtlinien-umsetzung-und-goldplating
    nkr-handelsregister-und-elektronische-zustellung

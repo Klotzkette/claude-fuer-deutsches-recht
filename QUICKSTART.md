@@ -13,16 +13,16 @@ Diese Anleitung führt ohne Umweg zum ersten verwertbaren Arbeitsprodukt. Für e
 | Sofort arbeiten, nichts installieren | Schnellstart-Markdown aus der README des gewünschten Plugins laden | sofort |
 | Umfangreicher oder mehrstufiger Vorgang | Werkstatt-Markdown des gewünschten Plugins laden | sofort |
 
-Der [Plugin-Katalog](./README.md#was-ist-drin) führt zu jeder Plugin-README. Dort stehen oben der Plugin-Download, der Schnellstart, die Werkstatt, ein fertiger Startsatz und gegebenenfalls passende Testakten.
+Der [Plugin-Katalog](./README.md#was-ist-drin) führt zu jeder Plugin-README. Dort stehen der Plugin-Download, die vorgesehenen eigenständigen Prompts, der Einstieg und gegebenenfalls passende Testakten. [beA-Versand](./bea-versand/README.md) hat bewusst nur die Werkstatt, keinen separaten Mini-Prompt.
 
 ## 2. Sofort ohne Installation arbeiten
 
 1. Im [Plugin-Katalog](./README.md#was-ist-drin) das Rechtsgebiet öffnen.
-2. Oben in der Plugin-README bei **Kompakter Prompt (Schnellstart)** auf den Markdown-Download klicken.
+2. Oben in der Plugin-README den kompakten Schnellstart als Markdown laden; ist keiner vorgesehen, die Werkstatt wählen.
 3. Die Markdown-Datei zusammen mit dem Arbeitsordner oder den relevanten Unterlagen öffnen.
 4. Diesen Startsatz verwenden:
 
-> Erfasse zunächst höchstens 20 Dateitreffer im ausgewählten Ordner nach Name, Datum und Typ. Öffne höchstens fünf tragende Unterlagen und beginne unmittelbar mit dem verlangten Arbeitsprodukt. Wenn nur der Prompt gestartet wurde, bestimme aus zugänglichem Material die passende Fachroute und liefere einen ersten belastbaren Stand. Erweitere die Lektüre für benannte Beleglücken; frage gebündelt nach, falls der nächste fachliche Schritt sonst falsch wäre.
+> Nutze die zugänglichen Unterlagen im ausgewählten Ordner und beginne mit meinem konkreten Auftrag. Frage bekannte Angaben nicht erneut ab. Ist noch kein Bearbeitungsziel genannt oder erkennbar, biete mir anhand der Unterlagen zwei passende nächste Schritte zur Auswahl an. Kein ungefragter Ordnerbericht. Fehlende Belege benennen und den Entwurf nach meiner Antwort fortführen.
 
 Für einen Folgewunsch genügt die gewünschte Änderung, etwa „Rechne zusätzlich die Gegenvariante“, „Formuliere daraus die Klage“ oder „Kürze den Mandantenbrief“. Der bereits erarbeitete Aktenstand soll fortgeführt und nicht neu abgefragt werden.
 
@@ -37,13 +37,11 @@ Nicht das Repository-ZIP aus **Code → Download ZIP** verwenden. Das installier
 
 ## 4. Den Marketplace einbinden
 
-Der organisationsweite Marketplace steht Team- und Enterprise-Organisationen zur Verfügung. Cowork und Skills müssen freigeschaltet sein; die Einrichtung erfolgt durch einen Owner unter **Organization settings → Plugins**.
+Der organisationsweite Marketplace steht Team- und Enterprise-Organisationen zur Verfügung. Cowork und Skills müssen freigeschaltet sein; die Einrichtung erfolgt durch einen Owner unter **Organization settings → Plugins & skills → Marketplaces**.
 
-Für die GitHub-Synchronisierung muss das verbundene Repository derzeit **privat oder intern** sein. Das öffentliche Original kann daher nicht unmittelbar als Organisations-Marketplace verbunden werden. Für den vollständigen Katalog wird sein Inhalt in ein privates oder internes Spiegelrepository übernommen; dort bleibt die relative Struktur aus [`marketplace.json`](./.claude-plugin/marketplace.json) unverändert. Danach: **Add plugin → GitHub**, Spiegelrepository im Format `owner/repo` angeben und den ersten Sync abwarten.
+Für die GitHub-Synchronisierung muss das verbundene Repository derzeit **privat oder intern** sein. Das öffentliche Original kann daher nicht unmittelbar als Organisations-Marketplace verbunden werden. Für den vollständigen Katalog wird sein Inhalt in ein privates oder internes Spiegelrepository übernommen; dort bleibt die relative Struktur aus [`marketplace.json`](./.claude-plugin/marketplace.json) unverändert. Danach den Dialog **Sync from GitHub** öffnen, das Spiegelrepository im Format `owner/repo` angeben und den ersten Sync abwarten.
 
-Der manuelle Organisationsweg lädt einzelne Plugin-ZIPs hoch, nicht `marketplace.json`. Pro ZIP gelten höchstens 50 MB, pro manuellem Marketplace höchstens 100 Plugins. Für alle 235 Plugins ist deshalb die GitHub-Synchronisierung aus dem privaten oder internen Spiegelrepository der klare Hauptweg; für eine kleine Auswahl genügt der manuelle Upload.
-
-Automatische Aktualisierung wird nur durch einen in den Standardbranch gemergten Pull Request mit Versionsanhebung ausgelöst. Nach einem direkten Push muss ein Owner in der Marketplace-Verwaltung **Update** wählen. Ein Sync kann bei diesem Umfang bis zu 30 Minuten dauern.
+Der manuelle Organisationsweg lädt einzelne Plugin-ZIPs hoch, nicht `marketplace.json`. Aktuelle Größen- und Mengenlimits sowie Hinweise zur automatischen Aktualisierung stehen zentral in [Installation in einfach, Abschnitt 4](./INSTALLATION_EINFACH.md#4-marketplace-für-eine-organisation). Nach jedem Update den erfolgreichen Sync und die angezeigte Version prüfen; bei Bedarf **Update** in der Marketplace-Verwaltung auslösen.
 
 Nur im Kommandozeilen-Client kann das öffentliche Repository unmittelbar als Marketplace hinzugefügt werden:
 
@@ -60,10 +58,10 @@ Aktuelle Oberflächen- und Planvorgaben: [Plugins verwenden](https://support.cla
 
 | Eingangslage | Erwartetes Verhalten |
 | --- | --- |
-| Dateien oder Ordner vorhanden | Bestand nach Metadaten erfassen; tragende Unterlagen zuerst lesen; Fundstellen und Fristen sichern; erstes Arbeitsprodukt liefern |
+| Dateien oder Ordner vorhanden | Tragende Unterlagen gezielt lesen; bei klarem Auftrag das Arbeitsprodukt beginnen, andernfalls das Bearbeitungsziel klären |
 | Konkretes Dokument verlangt | Mit diesem Dokument beginnen; kein allgemeines Lagebild voranstellen |
-| Nur Skill oder Prompt gestartet | Fachroute aus Dateinamen und Inhalt bestimmen; nicht nach dem Auftrag fragen |
-| Keine verwertbaren Unterlagen | genau eine gebündelte Frage zu den entscheidenden Angaben stellen |
+| Nur Skill oder Prompt gestartet | Vorhandenes Material berücksichtigen; ohne erkennbaren Auftrag passende Bearbeitungsziele zur Auswahl anbieten |
+| Keine verwertbaren Unterlagen | Zuerst die entscheidenden Angaben gebündelt erfragen; nur bei Bedarf gezielt nachfassen |
 | Großer Ordner | nach den ersten entscheidungserheblichen Dateien einen Teilstand liefern und offene Dateien nennen |
 | Folgewunsch | Tatsachen, Berechnungen und Quellen beibehalten; nur die gewünschte Dimension ändern |
 
@@ -74,9 +72,9 @@ Lange Wartezeiten entstehen meist nicht beim Schreiben, sondern vor dem ersten S
 1. Nur die für den Vorgang benötigten Plugins aktiv lassen und danach eine neue Aufgabe öffnen. Für einen einzelnen Fall ist ein Einzel-Plugin oder Schnellstart regelmäßig schneller als eine breite Auswahl.
 2. Wenn der Sachskill feststeht, ihn unmittelbar über `/` oder `+` wählen. Bei einer Serienfrage zuerst den passenden Fachrouter öffnen und dort genau eine Vertiefung laden; nicht mehrere Länder, Leistungsphasen oder Behörden vorsorglich mitlesen.
 3. Bei einem lokalen Arbeitsordner zuerst Dateinamen, Unterordner, Datum und Dateityp erfassen. Bei Microsoft 365 zusätzlich Website, Bibliothek oder Ordner, Zeitraum, Absender und einen genauen Suchbegriff nennen.
-4. Im ersten Durchgang höchstens 20 Treffer erfassen und höchstens fünf tragende Unterlagen öffnen. Erst bei einer benannten Beleglücke weiter suchen.
+4. Die erste Sichtung auf etwa 20 Treffer und fünf tragende Unterlagen begrenzen. Das ist ein Startbudget, keine Vollständigkeitsgrenze: Für den Auftrag benötigte weitere Belege anschließend gezielt lesen und offene Teile kenntlich machen.
 5. PDF- und Word-Dokumente gezielt lesen, Tabellen auf das einschlägige Blatt und den benötigten Bereich begrenzen und bei E-Mails den maßgeblichen Gesprächsverlauf statt des gesamten Postfachs öffnen. Bereits ausgewertete unveränderte Auszüge weiterverwenden; neue Fassungen und widersprüchliche Fundstellen neu prüfen.
-6. Nach der ersten Sichtung sofort einen Teilstand mit Fundstellen, Frist, Risiko und nächstem Arbeitsprodukt liefern. Bereits gewonnene Tatsachen und Extrakte werden weiterverwendet.
+6. Mit dem verlangten Arbeitsprodukt beginnen. Ist es noch nicht abschließend möglich, den verwertbaren Teil und die konkrete Lücke nennen, statt ungefragt den gesamten Ordner zusammenzufassen. Belegte unveränderte Tatsachen und Extrakte weiterverwenden.
 
 Ein geeigneter Startsatz für große Ablagen lautet:
 

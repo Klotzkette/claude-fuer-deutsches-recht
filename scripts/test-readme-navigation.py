@@ -37,9 +37,48 @@ PLUGINS = load_script("inject-direkt-loslegen-section.py")
 ASSETS = load_script("generate-asset-index.py")
 DOWNLOADS = load_script("validate-testakten-readme-downloads.py")
 CATALOG = load_script("generate-root-plugin-catalog.py")
+OVERVIEWS = load_script("validate-root-readme-overview.py")
 
 
 class CatalogVersionTests(unittest.TestCase):
+    def test_description_count_uses_source_without_changing_other_numbers(self):
+        with tempfile.TemporaryDirectory() as temp:
+            root = Path(temp)
+            for name in ("start", "vertiefung"):
+                path = root / "skills" / name / "SKILL.md"
+                path.parent.mkdir(parents=True)
+                path.write_text("# Inhalt\n", encoding="utf-8")
+            text = "Mit über 200 Skills für Artikel 83 und 12 Rechtsordnungen."
+            expected = "Mit 2 Skills für Artikel 83 und 12 Rechtsordnungen."
+            result = PLUGINS.description_with_current_count(text, root)
+            self.assertEqual(result, expected)
+            self.assertEqual(PLUGINS.description_with_current_count(result, root), expected)
+            self.assertEqual(PLUGINS.description_with_current_count(text, root / "fehlt"), text)
+
+    def test_subject_index_checks_nested_sources_counts_versions_and_order(self):
+        with tempfile.TemporaryDirectory() as temp:
+            root = Path(temp)
+            plugins = [
+                {"name": "zivil", "source": "./gerichte/zivil", "version": "1.2.3", "description": "Für Gerichte."},
+                {"name": "anwalt", "source": "./anwalt", "version": "1.2.3", "description": "Für Anwälte."},
+            ]
+            for plugin in plugins:
+                skill = root / plugin["source"] / "skills" / "start" / "SKILL.md"
+                skill.parent.mkdir(parents=True)
+                skill.write_text("# Inhalt\n", encoding="utf-8")
+            path = root / "references" / "rechtsgebiete-uebersicht.md"
+            path.parent.mkdir()
+            marketplace = {"version": "1.2.3", "plugins": plugins}
+            with patch.object(CATALOG, "REPO", root), patch.object(OVERVIEWS, "REPO", root):
+                text = CATALOG.build_subject_index(plugins, "1.2.3")
+                path.write_text(text, encoding="utf-8")
+                self.assertEqual(OVERVIEWS.check_subject_index(marketplace), [])
+                self.assertLess(text.index("[`anwalt`]"), text.index("[`zivil`]"))
+                for old, new in (("| 1 |", "| 9 |"), ("`1.2.3`", "`0.1.0`"), ("2 Plugins", "3 Plugins"), ("../gerichte/zivil/", "../zivil/")):
+                    with self.subTest(old=old):
+                        path.write_text(text.replace(old, new), encoding="utf-8")
+                        self.assertTrue(OVERVIEWS.check_subject_index(marketplace))
+
     def test_navigation_scans_sources_but_not_local_dependencies_or_builds(self):
         with tempfile.TemporaryDirectory() as temp:
             root = Path(temp)

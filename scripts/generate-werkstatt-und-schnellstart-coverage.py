@@ -10,7 +10,7 @@ from pathlib import Path
 from prompt_profiles import enabled, formats, standalone_kinds
 from urllib.parse import quote
 
-from readme_display import display_prose
+from readme_display import display_plugin_description
 from bauwirtschaft_hoai import PHASEN, werkstatt_path
 
 
@@ -59,7 +59,7 @@ def prompt_table(plugins: list[dict], kind: str) -> list[str]:
         prompt = directory / f"{name}-{kind}.md"
         rel = prompt.relative_to(REPO).as_posix()
         description = html.escape(
-            display_prose(str(plugin.get("description", ""))).replace("|", "\\|")
+            display_plugin_description(str(plugin.get("description", "")), directory).replace("|", "\\|")
         )
         plugin_rel = directory.relative_to(REPO).as_posix()
         downloads = " · ".join(direct_download(f"{plugin_rel}/{name}-{kind}.{ext}", f"{name}-{kind}.{ext}") for ext in formats(name))
@@ -85,6 +85,10 @@ def main() -> int:
         "Vollständige, alphabetisch sortierte Übersicht der ausführlichen Werkstatt-Prompts und kompakten Schnellstart-Prompts. Beide Formate werden ausschließlich als einzelne Markdown-Dateien angeboten, nicht als ZIP und nicht als installierbarer Skill. Jeder Dateilink startet den Download, statt die Markdown-Quelle im Browser anzuzeigen.",
         "",
         "English: Workshop prompts are the detailed standalone workflow; quick-start prompts are the compact standalone entry point. Every file link downloads the unchanged Markdown file. Neither format is an installable skill or part of the plugin ZIP.",
+        "",
+        "Nicht jedes Paket bietet beide Formen: [beA-Versand](../bea-versand/README.md) hat bewusst nur einen Skill und eine eigenständige Werkstatt, keinen separaten Mini-Prompt. Angebotenes TXT enthält denselben Text wie die MD-Fassung. Die Vollständigkeitsprüfung berücksichtigt diese vorgesehenen Formate.",
+        "",
+        "English: Available formats vary by package. beA-Versand has a workshop but no separate mini prompt; TXT alternatives contain the same text as their MD version. Completeness is measured against the intended formats.",
         "",
         "[Repository-Start](../README.md) · [Download-Index](../ASSET_INDEX.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Testakten](../testakten/README.md)",
         "",

@@ -32,7 +32,7 @@ Alle zwölf Skills sind unmittelbar enthalten: zehn Kernskills sowie zwei nur au
 
 All twelve skills are directly included: ten core workflows and two opt-in bonuses for animation and youth-friendly language. Start with praesentation-starten or the relevant task skill. The plugin ZIP includes the template, references and package checker; a standalone skill download does not.
 
-Direktnavigation: [30-Sekunden-Start](#in-30-sekunden-starten) · [Startseite](../README.md) · [Plugin-Katalog](../README.md#was-ist-drin) · [Skill-Gesamtübersicht](../SKILLS.md) · [Skills dieses Plugins](../skills-index/juristische-praesentationen.md) · [Plugin-Dateien](.) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
+Direktnavigation: [30-Sekunden-Start](#in-30-sekunden-starten) · [Startseite](../README.md) · [Plugin-Katalog](../README.md#was-ist-drin) · [Skill-Gesamtübersicht](../SKILLS.md) · [Skills dieses Plugins](../skills-index/juristische-praesentationen.md) · [Plugin-Dateien](.) · [Download-Index](../ASSET_INDEX.md) · [Installation](../INSTALLATION_EINFACH.md) · [Testakten](../testakten/README.md)
 
 <!-- decimal-anchor --> <a id="in-30-sekunden-starten"></a>
 

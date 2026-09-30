@@ -261,6 +261,7 @@ def navigation(plugin_name: str, directory: Path) -> str:
     skills = relative_link(directory, REPO / "SKILLS.md")
     detail = relative_link(directory, REPO / "skills-index" / f"{plugin_name}.md")
     assets = relative_link(directory, REPO / "ASSET_INDEX.md")
+    installation = relative_link(directory, REPO / "INSTALLATION_EINFACH.md")
     testakten = relative_link(directory, TESTAKTEN_DIR / "README.md")
     entry_link = "[30-Sekunden-Start](#in-30-sekunden-starten)" if enabled(plugin_name, "schnellstart") else "[Werkstatt verwenden](#werkstatt-verwenden)"
     return (
@@ -272,6 +273,7 @@ def navigation(plugin_name: str, directory: Path) -> str:
         f"[Skills dieses Plugins]({detail}) · "
         "[Plugin-Dateien](.) · "
         f"[Download-Index]({assets}) · "
+        f"[Installation]({installation}) · "
         f"[Testakten]({testakten})"
     )
 
@@ -470,6 +472,14 @@ def markdown_text(value: str) -> str:
     return text
 
 
+def description_with_current_count(description: str, directory: Path) -> str:
+    """Zahlen in der Anzeige aus dem Quellbestand statt aus alter Prosa beziehen."""
+    if not (directory / "skills").is_dir():
+        return description
+    count = sum(1 for _ in (directory / "skills").glob("*/SKILL.md"))
+    return re.sub(r"\b(?:über |ueber |mehr als )?\d+ Skills\b", f"{count} Skills", description)
+
+
 def block(plugin: dict, directory: Path, akten_slugs: list[str], marketplace_count: int) -> str:
     plugin_name = plugin["name"]
     stem = prompt_stem(plugin_name)
@@ -486,7 +496,9 @@ def block(plugin: dict, directory: Path, akten_slugs: list[str], marketplace_cou
         focus_explanation = f'| Schwerpunkt-Prompt | Eigenständiger, eng abgegrenzter Mandatsauftrag bis 7500 Zeichen. Der zugehörige Fachskill ist auch im Plugin vorhanden. | Standalone workflow for one demanding practice problem, up to 7500 characters. Its corresponding skill is also part of the plugin. | <a href="{focus_url}" download>MD herunterladen / Download MD</a> |\n'
         focus_download = f'| Schwerpunkt-Prompt (Hauptproblem) | Markdown | <a href="{focus_url}" download>{focus_file}</a> |\n'
     testakte_cell = testakte_download_cell(directory, akten_slugs)
-    description = markdown_text(plugin.get("description") or readme_title(directory, plugin_name))
+    description = markdown_text(description_with_current_count(
+        plugin.get("description") or readme_title(directory, plugin_name), directory
+    ))
     assets = relative_link(directory, REPO / "ASSET_INDEX.md")
     skill_detail = relative_link(directory, REPO / "skills-index" / f"{plugin_name}.md")
     testakten = testakten_section(plugin_name, directory, akten_slugs)

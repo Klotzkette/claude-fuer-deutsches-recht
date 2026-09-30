@@ -34,7 +34,7 @@ Alle 29 Skills sind im Plugin unmittelbar enthalten: zwanzig für konkrete Proje
 
 All 29 skills are included directly: twenty project-task skills and nine building-planning phase workflows. Use a task skill for a specific assignment or a phase skill for the complete phase. The [phase index](../docs/bauwirtschaft-hoai-phasen.md) links nine additional standalone workshops and nine separate practice files. Technical inspections and approvals remain with the responsible professionals.
 
-Direktnavigation: [30-Sekunden-Start](#in-30-sekunden-starten) · [Startseite](../README.md) · [Plugin-Katalog](../README.md#was-ist-drin) · [Skill-Gesamtübersicht](../SKILLS.md) · [Skills dieses Plugins](../skills-index/bauwirtschaft.md) · [Plugin-Dateien](.) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
+Direktnavigation: [30-Sekunden-Start](#in-30-sekunden-starten) · [Startseite](../README.md) · [Plugin-Katalog](../README.md#was-ist-drin) · [Skill-Gesamtübersicht](../SKILLS.md) · [Skills dieses Plugins](../skills-index/bauwirtschaft.md) · [Plugin-Dateien](.) · [Download-Index](../ASSET_INDEX.md) · [Installation](../INSTALLATION_EINFACH.md) · [Testakten](../testakten/README.md)
 
 <!-- decimal-anchor --> <a id="in-30-sekunden-starten"></a>
 
