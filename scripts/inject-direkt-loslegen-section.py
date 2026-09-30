@@ -344,6 +344,24 @@ def first_product(directory: Path, plugin_name: str) -> str:
 
 
 def quickstart_section(plugin_name: str, directory: Path) -> str:
+    if plugin_name in {"jura-in-einfacher-sprache", "sozialrecht-fuer-laien"}:
+        entry = "juristischen-text-uebertragen" if plugin_name == "jura-in-einfacher-sprache" else "meinen-sozialfall-starten"
+        example = (
+            "Bitte schreiben Sie diesen Text einfacher. Bedingungen, Ausnahmen und Fristen sollen erhalten bleiben. Fragen Sie nur nach, wenn etwas dafür fehlt."
+            if plugin_name == "jura-in-einfacher-sprache" else
+            "Bitte lesen Sie meinen Brief. Prüfen Sie zuerst die Frist. Helfen Sie mir dann mit dem nächsten Antrag oder einer Antwort. Fragen Sie nach, wenn eine wichtige Angabe fehlt."
+        )
+        return f"""## In 30 Sekunden starten
+
+Das Paket ist ein Experiment und keine Rechtsberatung. Prüfen Sie die Ergebnisse vor dem Verwenden.
+
+Mit installiertem Plugin wählen Sie `{entry}`. Geben Sie den Brief oder Ihre Frage dazu. Ohne Installation laden Sie den Mini-Prompt oder den ausführlichen Werkstatt-Prompt aus der Downloadtabelle. Ein Prompt genügt.
+
+Ein möglicher Auftrag:
+
+> {example}
+
+Wenn Sie danach antworten, wird am begonnenen Text weitergearbeitet. Sie müssen nicht alles neu erklären."""
     if not enabled(plugin_name, "schnellstart"):
         detail = relative_link(directory, REPO / "skills-index" / f"{plugin_name}.md")
         return f"""## Werkstatt verwenden

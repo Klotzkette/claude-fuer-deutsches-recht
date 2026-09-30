@@ -395,6 +395,10 @@ Erstelle das bestellte neutrale Gerichtsprodukt vollständig: Beschlussentwurf m
 
 Amtlicher Ausgangspunkt: [Paragraf 123 VwGO](https://www.gesetze-im-internet.de/vwgo/__123.html). Die genannten BVerwG-Gründe wurden am 30.09.2026 für die bezeichneten Fragen gelesen. Andere Fachansprüche und Sonderverfahren benötigen ihren eigenen Nachweis. Quellen-/Zugriffslücken getrennt notieren, ohne unbearbeitete Teile als geprüft auszugeben. Aktengeheimnis und richterliche Letztentscheidung wahren; keine externe gerichtliche Handlung ausführen. Vollständige Sätze, dezimale Gliederung und bei Export Times New Roman 11 pt.
 
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill sortiert den verwaltungsgerichtlichen Streitstoff nach Verwaltungsakt, Vorverfahren, Klagegrund, Behördenakte, Ermessen, Amtsermittlung und Tenorfolge. Er benennt, ob ein Hinweis, eine Aktenanforderung, ein Eilbeschluss oder ein Urteil vorbereitet werden muss.
+
 ---
 
 ## Skill: `02-amtsermittlung-und-sachverhaltsfeststellung`

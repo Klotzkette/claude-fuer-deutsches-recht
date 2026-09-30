@@ -3,7 +3,7 @@
 ## 1. Aufteilung
 
 GitHub erlaubt [höchstens 1.000 Assets pro Release](https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases).
-`scripts/release-routes.json` benennt aktuell 21 zentrale Akten für den Begleitrelease.
+`scripts/release-routes.json` benennt aktuell 23 zentrale Akten für den Begleitrelease.
 Nur deren 42 Einzel-ZIPs (Originalformate und Einzel-PDFs) liegen in `akten-vVERSION`.
 Alle bisherigen Assets und Downloadadressen bleiben im Hauptrelease `vVERSION`.
 Die Version stammt aus `.claude-plugin/marketplace.json`, nicht aus `latest`.
@@ -11,7 +11,7 @@ Die Version stammt aus `.claude-plugin/marketplace.json`, nicht aus `latest`.
 Alle Dateien werden zuerst unverändert in `dist` gebaut. Erst nach den vollständigen
 Akten-Sammelpaketen und `alles-komplettpaket.zip` erzeugt `stage-release-assets.py`
 die getrennten Verzeichnisse `release-staging/main` und `release-staging/companion`.
-Die Sammelpakete enthalten weiterhin auch diese 21 Akten. Das Staging prüft
+Die Sammelpakete enthalten weiterhin auch diese 23 Akten. Das Staging prüft
 vor der Aufteilung, dass die konfigurierten Akten-ZIPs in allen drei Sammelpaketen
 an ihren vorgesehenen Archivpfaden vorhanden sind.
 Die Stages verwenden Hardlinks (bei getrennten Dateisystemen Kopien); nach dem
@@ -57,15 +57,15 @@ zur Platzbeschaffung gelöscht. Build-only-Aufrufe führen keine Remote-Aktionen
 
 `release_routing.py` ist die gemeinsame Quelle für Fall-ZIP-URLs, Dateiauswahl
 und Tags. Die vorhandenen README- und Index-Generatoren ersetzen `latest`-Platzhalter
-der 21 konfigurierten Akten durch versionsfeste Companion-Links, auch außerhalb
+der 23 konfigurierten Akten durch versionsfeste Companion-Links, auch außerhalb
 des generierten Downloadblocks. Andere Fall-, Plugin- und Sammelpaketlinks bleiben
 unverändert. Der Download-Validator lehnt veraltete Companion-Versionen und
-`latest`-Platzhalter dieser 21 Akten ab.
+`latest`-Platzhalter dieser 23 Akten ab.
 
 Die Root-README wird in diesem Infrastrukturauftrag nicht regeneriert.
 Kurzer Hinweis für die übergeordnete Integration:
 
-> Die 42 Einzel-ZIPs der 21 gerouteten Testakten liegen wegen des GitHub-Assetlimits
+> Die 46 Einzel-ZIPs der 23 gerouteten Testakten liegen wegen des GitHub-Assetlimits
 > im versionsgleichen Akten-Begleitrelease. Alle Akten-Sammelpakete und das
 > Komplettpaket bleiben vollständig im Hauptrelease; bestehende Links bleiben erhalten.
 

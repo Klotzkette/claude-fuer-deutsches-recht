@@ -1,8 +1,8 @@
 # Skills-Index: Detailseiten pro Plugin
 
-Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v445.19.1`.
+Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v445.20.0`.
 
-Die Aufteilung verhindert, dass eine einzige Seite alle 22544 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
+Die Aufteilung verhindert, dass eine einzige Seite alle 22559 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
 
 English: Each plugin has one lightweight detail page containing its complete skill list, descriptions and direct Markdown downloads. Open a plugin page to choose a skill; links labelled `Download MD` save the file instead of opening a source preview.
 
@@ -163,6 +163,7 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 
 ### J
 
+- [jura-in-einfacher-sprache](./jura-in-einfacher-sprache.md) (5 Skills)
 - [jurastudium](./jurastudium.md) (58 Skills)
 - [juristische-praesentationen](./juristische-praesentationen.md) (12 Skills)
 - [juristische-presseberichterstattung](./juristische-presseberichterstattung.md) (21 Skills)
@@ -269,6 +270,7 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 - [selbstvertreter-sozialgericht](./selbstvertreter-sozialgericht.md) (139 Skills)
 - [softwarerecht-de-eu-us](./softwarerecht-de-eu-us.md) (106 Skills)
 - [solo-selbststaendige-praxis](./solo-selbststaendige-praxis.md) (202 Skills)
+- [sozialrecht-fuer-laien](./sozialrecht-fuer-laien.md) (10 Skills)
 - [sozialversicherungspflicht-pruefer](./sozialversicherungspflicht-pruefer.md) (10 Skills)
 - [sozialversicherungsstatus-pruefer](./sozialversicherungsstatus-pruefer.md) (102 Skills)
 - [staatsanwaltschaft-amtsanwaltschaft](./staatsanwaltschaft-amtsanwaltschaft.md) (32 Skills)

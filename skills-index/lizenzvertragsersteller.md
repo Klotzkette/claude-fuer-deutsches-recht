@@ -1,6 +1,6 @@
 # lizenzvertragsersteller
 
-**33 Skills** · Stand `v445.19.1`
+**33 Skills** · Stand `v445.20.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../lizenzvertragsersteller/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

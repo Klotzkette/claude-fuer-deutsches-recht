@@ -3,7 +3,16 @@
   "version": "445.20.0",
   "description": "Juristische Texte verständlich umformulieren, erklären, erstellen und beantworten. Fünf Skills bewahren Bedingungen, Fristen und Rechtsfolgen, klären das Ziel und prüfen die Bedeutung der neuen Fassung. Für eigene Anliegen und verständliche Kommunikation.",
   "license": "Apache-2.0 OR MIT",
-  "author": {"name": "Klotzkette", "email": "39582916+Klotzkette@users.noreply.github.com"},
+  "author": {
+    "name": "Klotzkette",
+    "email": "39582916+Klotzkette@users.noreply.github.com"
+  },
   "homepage": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jura-in-einfacher-sprache",
-  "keywords": ["einfache-sprache", "verstaendlichkeit", "juristische-texte", "briefe", "erklaerung"]
+  "keywords": [
+    "einfache-sprache",
+    "verstaendlichkeit",
+    "juristische-texte",
+    "briefe",
+    "erklaerung"
+  ]
 }

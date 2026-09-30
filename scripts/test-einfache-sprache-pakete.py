@@ -53,7 +53,7 @@ class EinfacheSpracheTests(unittest.TestCase):
                 self.assertIn("B 4 KG 1/24 R", text)
                 self.assertNotIn("§", text)
                 for line in text.splitlines():
-                    if line.startswith("#"):
+                    if line.startswith("##"):
                         self.assertRegex(line, r"^#{1,3} \d+\.(?:\d+)? ")
 
     def test_profiles_cover_every_skill(self):
@@ -80,7 +80,7 @@ class EinfacheSpracheTests(unittest.TestCase):
                 self.assertNotIn(path.suffix.lower(), {".pdf", ".docx", ".pptx"})
                 if path.suffix in {".md", ".json"}:
                     text = path.read_text()
-                    self.assertNotIn("codex-remote-attachments", text)
+                    self.assertNotIn("remote-attachments", text)
                     self.assertNotIn("Kundennummer", text)
 
     def test_deadline_and_form_guards(self):

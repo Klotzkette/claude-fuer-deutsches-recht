@@ -1,6 +1,6 @@
 ---
 name: inhouse-interkommunal
-description: "Prüft Inhouse-Vergabe und interkommunale Zusammenarbeit anhand Kontrolle, Betrauung, Tätigkeitsquote und tatsächlicher Kooperation; erstellt Prüfvermerk und Vertragsentwurf."
+description: "Prüft Tätigkeits- und Marktquoten für Inhouse-Vergaben und kommunale Kooperationen anhand Betrauung, Umsatzdaten und Leistungsbeiträgen. Zeigt Rechenbasis und Nachweislücken und erstellt den darauf bezogenen Prüfvermerk nach Paragraf 108 GWB."
 ---
 
 # 1. Inhouse und interkommunale Zusammenarbeit prüfen

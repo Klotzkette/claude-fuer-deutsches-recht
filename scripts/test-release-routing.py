@@ -90,8 +90,10 @@ class Fixture(unittest.TestCase):
 
 
 class RepositoryRoutingTests(unittest.TestCase):
-    def test_expected_twenty_one_cases_and_forty_two_zips(self):
+    def test_expected_twenty_three_cases_and_forty_six_zips(self):
         expected = {
+            "einfache-leichte-sprache-jura-mandantenbrief",
+            "sozialrecht-elektrorollstuhl-koerner-oldenburg",
             "audi-ea288-weber-neuwagen",
             "bmw-fischer-abweisungsrisiko",
             "fiat-wohnmobil-bauer",
@@ -114,7 +116,7 @@ class RepositoryRoutingTests(unittest.TestCase):
         }
         slugs = R.companion_cases()
         self.assertEqual(set(slugs), expected)
-        self.assertEqual(len(R.companion_asset_names(slugs)), 42)
+        self.assertEqual(len(R.companion_asset_names(slugs)), 46)
         for slug in sorted(expected):
             for suffix in ("", "-einzelpdfs"):
                 with self.subTest(slug=slug, suffix=suffix):

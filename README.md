@@ -22,7 +22,7 @@ English: [Legal presentations](./juristische-praesentationen/README.md) adds ten
 
 Neu hinzugekommen sind vier gezielte Fachprüfungen mit eigenen Fallakten: [Hochrisiko-Einstufung nach Artikel 6 und Anhang III](./ki-verordnung-hochrisiko-pruefer/README.md), [Transparenzpflichten nach Artikel 50](./ki-verordnung-transparenzpruefer/README.md), [Enteignung nach Artikel 14 GG](./enteignung-artikel-14/README.md) und [Vergesellschaftung nach Artikel 15 GG](./vergesellschaftung-artikel-15/README.md). Die [Arbeitszeugnisprüfung](./arbeitszeugnispruefer/README.md) trennt nun noch genauer Bewertungsfrage, Beweisbedarf und Durchsetzung; die [FinTech-Akte aus Bremen](./testakten/fintech-darlehen-vertragsuebernahme-bremen/README.md) ergänzt den Zahlungs- und Korrespondenzbestand.
 
-Die Download-Tabellen führen weiterhin unmittelbar zu den Dateien. Wegen der Obergrenze für GitHub-Release-Dateien liegen 21 geroutete Fallakten in einem gleich versionierten Akten-Release; sämtliche Akten bleiben zusätzlich in den Gesamtsammlungen enthalten. [Zuordnung und Prüfsummen](./docs/release-routing.md) erläutern die technische Aufteilung.
+Die Download-Tabellen führen weiterhin unmittelbar zu den Dateien. Wegen der Obergrenze für GitHub-Release-Dateien liegen 23 geroutete Fallakten in einem gleich versionierten Akten-Release; sämtliche Akten bleiben zusätzlich in den Gesamtsammlungen enthalten. [Zuordnung und Prüfsummen](./docs/release-routing.md) erläutern die technische Aufteilung.
 
 English: Four focused packages cover high-risk classification, transparency obligations, expropriation and socialisation. Each provides its own workflow prompts and practice dossier. New case ZIPs use a matching companion release to respect the hosting limit; the download tables and complete collections include them directly.
 
@@ -106,14 +106,14 @@ Die fünf vollständigen Register sind alphabetisch sortiert und werden bei jede
 
 | Bestand | Umfang | Kurzbeschreibung | Vollständige alphabetische Liste |
 | --- | ---: | --- | --- |
-| **Plugins** | 256 | Installierbare Pakete für Rechtsgebiete und Arbeitsbereiche; jede Zeile beschreibt Zweck und fachlichen Zuschnitt. | [Plugin-Katalog mit Kurzbeschreibungen](#was-ist-drin) · [ZIPs und Einzeldateien](./ASSET_INDEX.md) |
-| **Skills** | 22544 | Eng abgegrenzte Arbeitsabläufe; die Detailseiten führen jeden Skill mit Kurzbeschreibung und einzelnem Markdown-Download auf. | [Skill-Gesamtübersicht](./SKILLS.md) · [Detailseiten je Plugin](./skills-index/) |
-| **Werkstatt-Prompts** | 256 | Ausführliche eigenständige Arbeitsmodi für komplexe Vorgänge; je Plugin mit Kurzbeschreibung und direktem Markdown-Download. | [Werkstatt-Prompts von A bis Z](./docs/werkstatt-und-schnellstart-coverage.md#werkstatt-prompts) |
+| **Plugins** | 258 | Installierbare Pakete für Rechtsgebiete und Arbeitsbereiche; jede Zeile beschreibt Zweck und fachlichen Zuschnitt. | [Plugin-Katalog mit Kurzbeschreibungen](#was-ist-drin) · [ZIPs und Einzeldateien](./ASSET_INDEX.md) |
+| **Skills** | 22559 | Eng abgegrenzte Arbeitsabläufe; die Detailseiten führen jeden Skill mit Kurzbeschreibung und einzelnem Markdown-Download auf. | [Skill-Gesamtübersicht](./SKILLS.md) · [Detailseiten je Plugin](./skills-index/) |
+| **Werkstatt-Prompts** | 258 | Ausführliche eigenständige Arbeitsmodi für komplexe Vorgänge; je Plugin mit Kurzbeschreibung und direktem Markdown-Download. | [Werkstatt-Prompts von A bis Z](./docs/werkstatt-und-schnellstart-coverage.md#werkstatt-prompts) |
 | HOAI-Phasen-Werkstätten | 9 zusätzlich | Je ein eigener Phasenauftrag für Gebäude und Innenräume mit passendem Skill und eigener Akte. | [Leistungsphasen 1 bis 9](./docs/bauwirtschaft-hoai-phasen.md) |
-| **Schnellstart-/Mini-Prompts** | 255 | Kompakte eigenständige Einstiege für den Kernworkflow und ein erstes belastbares Arbeitsprodukt. | [Schnellstart-Prompts von A bis Z](./docs/werkstatt-und-schnellstart-coverage.md#schnellstart-prompts) |
+| **Schnellstart-/Mini-Prompts** | 257 | Kompakte eigenständige Einstiege für den Kernworkflow und ein erstes belastbares Arbeitsprodukt. | [Schnellstart-Prompts von A bis Z](./docs/werkstatt-und-schnellstart-coverage.md#schnellstart-prompts) |
 | **Testakten** | 385 zentral / 388 gesamt | Praxisnahe Dokumentensammlungen; jede Zeile skizziert den Fall, nennt passende Plugins und bietet drei Downloadformen. Drei weitere Akten liegen unmittelbar bei ihren Plugins. | [Zentrale Testakten mit Kurzbeschreibungen von A bis Z](./testakten/README.md#verfügbare-akten) · [pluginlokale Akten über den Plugin-Katalog](#was-ist-drin) |
 
-Sortierlogik: Plugins, Werkstatt- und Schnellstart-Prompts folgen dem Plugin-Slug; Skills sind zuerst nach Plugin und dort nach Skill-Slug sortiert; Testakten folgen dem Aktenordner. Die großen Bestände bleiben auf eigenen, schnell ladenden Registerseiten, damit der Haupt-README trotz 22544 Skills benutzbar bleibt.
+Sortierlogik: Plugins, Werkstatt- und Schnellstart-Prompts folgen dem Plugin-Slug; Skills sind zuerst nach Plugin und dort nach Skill-Slug sortiert; Testakten folgen dem Aktenordner. Die großen Bestände bleiben auf eigenen, schnell ladenden Registerseiten, damit der Haupt-README trotz 22559 Skills benutzbar bleibt.
 
 Plugin-Schnellwahl: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [J](#j) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [R](#r) · [S](#s) · [T](#t) · [U](#u) · [V](#v) · [W](#w) · [Z](#z)
 <!-- END HAUPTVERZEICHNIS (auto-generated) -->
@@ -150,11 +150,11 @@ Für diesen Anwendungsfall gibt es eine kuratierte, nach Fachanwaltschaften sort
 
 | Kennzahl | Wert |
 |---|---|
-| **Plugins** | 256 (inkl. 15 Gerichts- und Staatsanwalts-Plugins im Sammelordner [`gerichtsplugins/`](./gerichtsplugins/) und 11 Insolvenz-Plugins im Sammelordner [`insolvenzrecht-plugins/`](./insolvenzrecht-plugins/)) |
-| **Skills (SKILL.md)** | 22544: [Gesamtübersicht](./SKILLS.md) |
+| **Plugins** | 258 (inkl. 15 Gerichts- und Staatsanwalts-Plugins im Sammelordner [`gerichtsplugins/`](./gerichtsplugins/) und 11 Insolvenz-Plugins im Sammelordner [`insolvenzrecht-plugins/`](./insolvenzrecht-plugins/)) |
+| **Skills (SKILL.md)** | 22559: [Gesamtübersicht](./SKILLS.md) |
 | **Testakten** | 385 zentral / 388 gesamt |
 | **Fachanwalts-Profile** | 24 |
-| **Plugin-Version / Arbeitsstand** | `v445.19.1` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
+| **Plugin-Version / Arbeitsstand** | `v445.20.0` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
 | **Marketplace-Definition** | [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json) |
 
 ### Sammel-Downloads
@@ -480,6 +480,7 @@ Alphabetisch: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · 
 
 | Plugin | Beschreibung |
 | --- | --- |
+| [`jura-in-einfacher-sprache`](./jura-in-einfacher-sprache) | Juristische Texte verständlich umformulieren, erklären, erstellen und beantworten. Fünf Skills bewahren Bedingungen, Fristen und Rechtsfolgen, klären das Ziel und prüfen die Bedeutung der neuen Fassung. Für eigene Anliegen und verständliche Kommunikation. |
 | [`jurastudium`](./jurastudium) | Studium und Referendariat – Prüfungsgespräch nach AG-Tradition, Subsumtionslehre, Methodenlehre (Zivilrecht, Strafrecht, Öffentliches Recht), Rechtsgeschichte, Lernstrategien, Lösungsschemata, Gutachtenstil, Klausurkorrektur, Lernplanung. |
 | [`juristische-praesentationen`](./juristische-praesentationen) | Juristische PowerPoint-Präsentationen für Kanzlei und Rechtsabteilung: zehn Kernskills von Urteil, Fachvortrag und Laienerklärung bis Folien, Sprechernotizen und Probe. Zwei optionale Bonus-Skills für seriöse Animation und jugendgerechte Sprache. Mit neutraler Vorlage. |
 | [`juristische-presseberichterstattung`](./juristische-presseberichterstattung) | Plugin für juristische Presseberichterstattung: Gerichtsbericht, Entscheidungsnews, Verdachtsbericht, Pressemitteilung, Headline, Bildprüfung, Quellenmatrix und Redaktionsschluss-Qualitygate. |
@@ -602,6 +603,7 @@ Alphabetisch: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · 
 | [`selbstvertreter-sozialgericht`](./selbstvertreter-sozialgericht) | Selbstvertretung vor Sozialbehörden Krankenkassen Pflegekassen BG Versorgungsamt Jobcenter Rente Familienkasse und Sozialgericht: Anhörung Akteneinsicht Mitwirkung Widerspruch Klage Eilantrag Pflegegrad Hilfsmittel Krankengeld EM-Rente GdB Bürgergeld Wohngeld Eingliederungshilfe. |
 | [`softwarerecht-de-eu-us`](./softwarerecht-de-eu-us) | Softwarerecht Deutschland/EU/International/USA: Entwicklung, Lizenzen, SaaS, Open Source, Arbeitnehmer/Freelancer, Softwarepatente, AI-Code und Streit. |
 | [`solo-selbststaendige-praxis`](./solo-selbststaendige-praxis) | Praxisplugin für Solo-Selbstständige in Deutschland: Start, Anmeldung, Steuern, Verträge, Rechnungen, Datenschutz, Statusfeststellung, KSK, Versicherungen, Zahlungsausfall, Krise, Wachstum und Alltag ohne juristische Überforderung. |
+| [`sozialrecht-fuer-laien`](./sozialrecht-fuer-laien) | Sozialrecht für den eigenen Fall: Briefe verstehen, Tatsachen klären, Fristen prüfen und Anträge, Widersprüche oder Gerichtsschreiben vorbereiten. Zehn kurze Arbeitswege in einfacher Sprache mit klaren Grenzen und Wegen zu persönlicher Hilfe. |
 | [`sozialversicherungspflicht-pruefer`](./sozialversicherungspflicht-pruefer) | Sozialversicherungspflicht in Deutschland: zehn Skills für Beschäftigungsstatus, Geschäftsführer, Lehrkräfte, freie Mitarbeit, Versorgungswerke, einzelne Versicherungszweige und Beiträge. Mit eigenständiger Werkstatt, Mini-Prompt und sechs ausführlichen Fallakten. |
 | [`sozialversicherungsstatus-pruefer`](./sozialversicherungsstatus-pruefer) | Sozialversicherungsstatus und DRV-Statusfeststellung: Geschäftsführer, Freelancer, Anwälte, Lehrkräfte, Musikschulen, Plattformarbeit und Scheinselbständigkeit. |
 | [`staatsanwaltschaft-amtsanwaltschaft`](./gerichtsplugins/staatsanwaltschaft-amtsanwaltschaft) | Staatsanwaltschaft und Amtsanwaltschaft: Ermittlungsführung, Durchsuchung, Haft, Einstellung, Strafbefehl, Anklage, Einziehung, Plädoyer, Rechtsmittel und Vollstreckung. |

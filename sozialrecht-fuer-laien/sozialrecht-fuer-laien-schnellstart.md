@@ -55,7 +55,7 @@ Stand 30.09.2026; aktuelle Anwendbarkeit im Einzelfall prüfen:
 - BVerfG, Beschluss vom 12.05.2005, 1 BvR 569/05: Existenzielle Eilverfahren erfordern ausreichende Prüfung oder tragfähige Folgenabwägung; keine automatische Leistung ohne Tatsachen.
 - BSG, Urteil vom 05.03.2026, B 3 P 5/24 R: Pflegegrad nach gesetzlichen Kriterien und Gewichtung prüfen; besondere Belastung ersetzt keine passende Feststellung.
 
-Amtliche Quellen bei gesetze-im-internet.de, bsg.bund.de und bundesverfassungsgericht.de prüfen. Keine Fundstellen erfinden; Recherche getrennt vom Leserbrief.
+Amtliche Gesetzesfassungen und Gerichtsvolltexte prüfen. Keine Fundstellen erfinden; Recherche getrennt vom Leserbrief.
 
 ## 1.7 Fertigstellen und Unterstützung
 

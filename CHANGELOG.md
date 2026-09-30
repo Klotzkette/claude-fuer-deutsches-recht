@@ -1,3 +1,21 @@
+# v445.20.0 - Sozialrecht für Laien und Jura in einfacher Sprache
+
+## 1. Zwei fokussierte Arbeitsumgebungen
+
+`sozialrecht-fuer-laien` ergänzt zehn unmittelbar nutzbare Skills für den eigenen Antrag, Kassenbescheid, Widerspruch und Sozialgerichtsprozess. Die Abläufe prüfen Tatsachen, Frist, Form und Einreichungsnachweis und führen bis zum ausformulierten Schreiben. Rechtsantragstelle, Beratungshilfe, Sprachhilfe und Grenzen der Selbstvertretung werden konkret erklärt.
+
+`jura-in-einfacher-sprache` ergänzt fünf Skills zum Übertragen, Erklären, Erstellen, Beantworten und Prüfen juristischer Texte. Bedingungen, Ausnahmen, Fristen und Rechtsfolgen bleiben erhalten. Eine Lesefassung ist keine Vertragsänderung, eine Verständnishilfe keine beglaubigte Übersetzung. Bestehende Fachpakete bleiben erhalten.
+
+## 2. Eigenständige Prompts und Sprache
+
+Beide Pakete enthalten einen ausführlichen Werkstatt-Prompt und einen Mini-Prompt mit höchstens 7500 Zeichen und UTF-8-Bytes. Die Prompts sind eigenständig nutzbar und gegen Überschreiben durch allgemeine Generatoren geschützt. Sie werden getrennt vom installierbaren Plugin bereitgestellt. Die eigenen Sprachregeln orientieren sich an Einfacher Sprache, ohne Zertifizierung oder geprüfte Normkonformität zu behaupten. Normtexte werden nicht veröffentlicht.
+
+## 3. Prüfung und Dokumentation
+
+Sechzehn fachliche Bewertungsfälle decken alle fünfzehn Skills ab, unter anderem Monatsende, E-Mail-Formmangel, Selbstbeschaffung, Vergleichsbindung und Bedeutungsverlust beim Vereinfachen. Automatische Regressionen prüfen Struktur, Referenzen, Größenlimits und Schutzregeln. Diese Prüfungen sind keine beobachteten Modellläufe. Haupt-README, Downloadübersichten und Kataloge erläutern die Pakete; der Hinweis auf Experiment, fehlende Rechtsberatung und gesetzliche Haftungsgrenzen steht ausdrücklich auf der Startseite.
+
+Damit der Hauptrelease unter der Grenze von 1000 Dateien bleibt, werden die beiden bestehenden Akten zum verständlichen Mandantenbrief und zum Elektrorollstuhl ebenfalls im gleichversionierten Akten-Begleitrelease bereitgestellt. Akteninhalte und Gesamtsammlungen bleiben unverändert; die Downloadverweise werden entsprechend fortgeschrieben.
+
 # v445.19.1 - Release-Härtung der Skill-Aktivierung
 
 Der Fachanwalt-Bestand für Miet- und Wohnungseigentumsrecht unterscheidet die Aktivierungssignale der beiden Wärmepumpen-Workflows jetzt eindeutig. Dadurch wählt das System den fachanwaltlichen Vertiefungsworkflow und den allgemeinen Miet-/WEG-Workflow anhand eigenständiger Beschreibungen aus, statt zwei gleichlautende Signale anzubieten.

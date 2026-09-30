@@ -424,7 +424,7 @@
     "changes": [
       "Frist, Form, Tatsachen und Hilfen vor abstrakter Rechtsübersicht."
     ],
-    "sha256": "768d8212d71feba1ac24c1c27ffcdde1b7989a9fbe41c1fe0375ad61301b5f89"
+    "sha256": "c1aa9392e6d5802efed957a7cd44eecda75ae52f287ea37319866ecdaec0d483"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -432,6 +432,6 @@
     "changes": [
       "Anträge, Kassenverfahren, Eilrechtsschutz, Klage und Gerichtspost bis zum vollständigen Entwurf."
     ],
-    "sha256": "be291fb2abde107911ebb7c0d35137eb32198bf105c20c115ef889673165a2c2"
+    "sha256": "df4d0cccdd95122d571d1e09c755673df6137adebdd57bf01f5f617e1b5f3bf9"
   }
 }
