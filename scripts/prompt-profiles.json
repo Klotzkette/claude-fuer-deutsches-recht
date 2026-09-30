@@ -1,6 +1,18 @@
 {
   "schema_version": 1,
   "plugins": {
+    "jura-in-einfacher-sprache": {
+      "standalone": ["werkstatt", "schnellstart"],
+      "formats": ["md"],
+      "megaprompt": false,
+      "hand_curated": true
+    },
+    "sozialrecht-fuer-laien": {
+      "standalone": ["werkstatt", "schnellstart"],
+      "formats": ["md"],
+      "megaprompt": false,
+      "hand_curated": true
+    },
     "diesel-schadensersatz": {
       "standalone": [
         "werkstatt",

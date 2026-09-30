@@ -121,6 +121,17 @@ EXACT_GROUPS: dict[str, str] = {
 }
 
 PLUGIN_GROUPS = {
+    "jura-in-einfacher-sprache": [
+        ("1. Lesen und verstehen", ["juristischen-text-uebertragen", "juristischen-text-erklaeren"]),
+        ("2. Schreiben und antworten", ["schreiben-in-einfacher-sprache-erstellen", "auf-juristische-post-antworten"]),
+        ("3. Bedeutung und Verständlichkeit prüfen", ["bedeutung-und-verstaendlichkeit-pruefen"]),
+    ],
+    "sozialrecht-fuer-laien": [
+        ("1. Anliegen und Frist klären", ["meinen-sozialfall-starten", "bescheid-und-frist-pruefen"]),
+        ("2. Antrag und Tatsachen vorbereiten", ["antrag-und-nachweise-vorbereiten", "kranken-und-pflegekasse-antworten", "akte-einsehen-und-tatsachen-klaeren"]),
+        ("3. Widerspruch und Gericht", ["widerspruch-schreiben", "eilantrag-vorbereiten", "klage-beim-sozialgericht-vorbereiten", "gerichtspost-und-termin-bearbeiten"]),
+        ("4. Vor dem Absenden prüfen", ["schreiben-und-verstaendlichkeit-pruefen"]),
+    ],
     "pflegerecht-sgb-xi": [
         ("1. Pflegefall übernehmen", ["pflegefall-bearbeiten"]),
         ("2. Pflegegrad und häusliche Versorgung", ["pflegegrad-gutachten-pruefen", "haeusliche-pflegeleistungen-planen", "verhinderungs-kurzzeitpflege-abrechnen", "pflegehilfsmittel-wohnumfeld-beantragen"]),

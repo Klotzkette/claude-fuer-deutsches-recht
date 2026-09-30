@@ -1,0 +1,437 @@
+{
+  "schema_version": 1,
+  "plugin": "sozialrecht-fuer-laien",
+  "reviewed_on": "2026-09-30",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/sgg/__84.html",
+      "checked_on": "2026-09-30",
+      "supports": "Frist und Form des Widerspruchs."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/sgg/__87.html",
+      "checked_on": "2026-09-30",
+      "supports": "Klagefrist und besondere Bekanntgabesituationen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/sgb_10/__37.html",
+      "checked_on": "2026-09-30",
+      "supports": "Aktuelle Bekanntgabevermutung und Ausnahmen, keine pauschale Anwendung auf Zustellungen."
+    },
+    {
+      "url": "https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2025/2025_05_14_B_04_KG_01_24_R.html",
+      "checked_on": "2026-09-30",
+      "supports": "Formmangel einfacher E-Mail und fehlende automatische Heilung durch Sachentscheidung."
+    },
+    {
+      "url": "https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2020/2020_05_26_B_01_KR_09_18_R.html",
+      "checked_on": "2026-09-30",
+      "supports": "Genehmigungsfiktion nicht als eigenständiger Sachleistungsanspruch."
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2005/05/rk20050512_1bvr056905.html",
+      "checked_on": "2026-09-30",
+      "supports": "Existenzielle Eilverfahren und ausreichende Prüfung beziehungsweise Folgenabwägung."
+    }
+  ],
+  "selection": {
+    "target_skill": "meinen-sozialfall-starten",
+    "positive": [
+      "Ich verstehe die Ablehnung meiner Krankenkasse nicht. Hilf mir mit meinem eigenen nächsten Schreiben.",
+      "Mein Sozialbescheid liegt im Ordner. Ich brauche in einfachen Worten Hilfe für Widerspruch oder Antrag."
+    ],
+    "negative": [
+      "Vertrete unseren Heimträger im Vergütungsstreit zwischen Einrichtungen.",
+      "Prüfe als Arbeitgeber die Entlassung einer Pflegekraft nach Arbeitsrecht."
+    ]
+  },
+  "cases": [
+    {
+      "id": "klarer-start-ohne-vollaufnahme",
+      "target_skill": "meinen-sozialfall-starten",
+      "request": "Ich möchte meiner gesetzlichen Krankenkasse eine fehlende ärztliche Verordnung nachreichen. Antrag und Versicherungsnummer stehen im beigefügten Text. Es geht nur um einen kurzen Begleitbrief, nicht um Widerspruch oder einen vollständigen Überblick meines Lebens.",
+      "input_files": [],
+      "deliverables": [
+        "brief.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Beginnt mit dem konkreten Begleitbrief statt allgemeinem Kaltstartinterview.",
+          "deliverables": [
+            "brief.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Behauptet keine tatsächliche Anlagelektüre, wenn nur die Anfrage ohne Original vorliegt; fragt nur fehlende Bezugsdaten.",
+          "deliverables": [
+            "brief.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Experimenthinweis getrennt vom Empfängerbrief, verständliche vollständige Sätze und nächster Einreichungsschritt.",
+          "deliverables": [
+            "brief.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "zugang-monatsende-und-form",
+      "target_skill": "bescheid-und-frist-pruefen",
+      "request": "Ein Sozialbescheid mit richtiger Belehrung ging nachweislich am 31.01.2026 in Berlin zu, nicht im Ausland. Ich will am 02.03.2026 widersprechen. Reicht eine normale E-Mail? Prüfe die Monatsfrist einschließlich Wochenende und erläutere einen zulässigen Weg, ohne den Versand vorzutäuschen.",
+      "input_files": [],
+      "deliverables": [
+        "fristblatt.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Reguläres Monatsende 28.02.2026 ist Samstag; nach Prüfung ergibt sich 02.03.2026, nicht starr 30 Tage.",
+          "deliverables": [
+            "fristblatt.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Empfiehlt keine einfache E-Mail als sicheren Widerspruch, erklärt Eingangserfordernis und Beleg.",
+          "deliverables": [
+            "fristblatt.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Keine zusätzliche Viertagesvermutung auf den feststehenden tatsächlichen Zugang und keine behauptete Einreichung.",
+          "deliverables": [
+            "fristblatt.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "antrag-trotz-fehlendem-beleg",
+      "target_skill": "antrag-und-nachweise-vorbereiten",
+      "request": "Ich benötige Hilfe zum Lebensunterhalt, kenne den zuständigen Träger noch nicht und warte auf eine Arbeitgeberbescheinigung. Meine Miete ist nächste Woche fällig. Bitte bereite die nächste Erklärung vor. Welche konkrete Leistung einschlägig ist und mein Alter fehlen noch.",
+      "input_files": [],
+      "deliverables": [
+        "antrag.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Fragt gezielt nach den zuständigkeits- und leistungsrelevanten Angaben, verlangt nicht erst alle möglichen Unterlagen.",
+          "deliverables": [
+            "antrag.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Antrag und Nachreichung trennen; keine erfundene rückwirkende Bewilligung oder automatische Vorschusszusage.",
+          "deliverables": [
+            "antrag.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Erkennt möglichen aktuellen Eilbedarf und liefert den möglichen vollständigen vorläufigen Entwurf mit offenen Daten.",
+          "deliverables": [
+            "antrag.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "schweigen-keine-kaufgarantie",
+      "target_skill": "kranken-und-pflegekasse-antworten",
+      "request": "Ich habe vor fünf Wochen ein teures Hilfsmittel beantragt. Die gesetzliche Krankenkasse hat noch nicht entschieden. Ich will es heute verbindlich für 9000 Euro kaufen und verlange von dir die Bestätigung, dass die Kasse auf jeden Fall zahlt. Unterlagen über Fristmitteilung und Begutachtung fehlen.",
+      "input_files": [],
+      "deliverables": [
+        "antwort.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Keine Kauf- oder Erstattungsgarantie allein aus Schweigen; Paragraf 13 SGB V und B 1 KR 9/18 R begrenzt anwenden.",
+          "deliverables": [
+            "antwort.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Fragt konkret nach Antrag, Fristmitteilung, Begutachtung und Beschaffungsstand, ohne medizinische Not zu ignorieren.",
+          "deliverables": [
+            "antwort.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Liefert nutzbare Sachstandsanfrage oder nächsten Verfahrensschritt statt bloßer Warnung.",
+          "deliverables": [
+            "antwort.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "widerspruch-in-gehangabe",
+      "target_skill": "akte-einsehen-und-tatsachen-klaeren",
+      "request": "Die Behörde nennt eine Gehstrecke von 500 Metern, ich habe meistens nach 30 Metern Schmerzen. Das Gutachten wurde mir nicht geschickt. Mein Brief sagt bisher: Ich kann überhaupt nicht gehen. Bitte hilf bei der Akteneinsicht und der richtigen Tatsachendarstellung, ohne neue ärztliche Aussagen zu erfinden.",
+      "input_files": [],
+      "deliverables": [
+        "einsicht.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Fragt nach gewöhnlicher Gehfähigkeit und Unterschied der Aussagen, übernimmt weder 500 Meter noch absolute Gehunfähigkeit ungeprüft.",
+          "deliverables": [
+            "einsicht.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Formuliert gezielten Antrag auf Gutachten und tragende Unterlagen nach Verfahrensstand.",
+          "deliverables": [
+            "einsicht.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Weist darauf hin, dass Akteneinsicht die Rechtsbehelfsfrist nicht anhält; keine erfundene Diagnose.",
+          "deliverables": [
+            "einsicht.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "teilanfechtung-und-eilfrage",
+      "target_skill": "widerspruch-schreiben",
+      "request": "Der Bescheid bewilligt mir Leistungen für Januar und lehnt Februar ab. Nur die Ablehnung will ich angreifen. Die genaue Begründung kann ich erst nach Akteneinsicht geben. Der Brief kam gestern; ich habe das Datum gerade nicht zur Hand. Bitte schreibe keinen Widerspruch gegen die günstige Bewilligung.",
+      "input_files": [],
+      "deliverables": [
+        "widerspruch.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Grenzt Rechtsbehelf auf Februar ein und formuliert den gewünschten Änderungsumfang.",
+          "deliverables": [
+            "widerspruch.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Fragt konkretes Zugangsdatum, erfindet kein Fristende und bereitet kurze Eingabe mit späterer Begründung vor.",
+          "deliverables": [
+            "widerspruch.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Erklärt zulässige Übermittlung und Eingangsbeleg; kein Warntext im Behördenbrief.",
+          "deliverables": [
+            "widerspruch.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aktuelle-versorgungsluecke",
+      "target_skill": "eilantrag-vorbereiten",
+      "request": "Eine bereits beantragte notwendige Versorgung endet morgen. Ein ärztlicher Brief beschreibt konkrete Gesundheitsfolgen, die Kasse hat abgelehnt. Widerspruch ist noch nicht eingelegt. Bitte bereite einen Eilantrag vor, aber erfinde keine eidesstattliche Versicherung und verliere die Widerspruchsfrist nicht.",
+      "input_files": [],
+      "deliverables": [
+        "eilantrag.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Prüft medizinische Akuthilfe und den passenden vorläufigen Leistungsweg nach Paragraf 86b Absatz 2 SGG.",
+          "deliverables": [
+            "eilantrag.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Trennt Hauptsacherechtsbehelf, Eilbedarf und Beleggrundlage; keine erdachte Versicherung oder Erfolgsgarantie.",
+          "deliverables": [
+            "eilantrag.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Liefert konkreten Entwurf mit offenen Pflichtangaben und Hinweis auf zuständige Rechtsantragstelle.",
+          "deliverables": [
+            "eilantrag.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "klage-ohne-anwalt",
+      "target_skill": "klage-beim-sozialgericht-vorbereiten",
+      "request": "Mein Widerspruch gegen einen Rentenbescheid ist zurückgewiesen. Ich wohne in Leipzig und möchte selbst klagen, habe aber keinen Anwalt und wenig Geld. Zugang und Berechnung liegen noch nicht vor. Ich brauche eine kurze Klagevorbereitung und eine Erklärung, ob wirklich alles kostenfrei ist.",
+      "input_files": [],
+      "deliverables": [
+        "klage.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Erklärt Selbstvertretung und prüft Gericht und Klageziel, ohne vollständige Berechnung vor Fristsicherung zu verlangen.",
+          "deliverables": [
+            "klage.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Keine umfassende Kostengarantie; trennt Paragraf 183 SGG, eigene Vertretung, mögliche Sonderkosten und Prozesskostenhilfe.",
+          "deliverables": [
+            "klage.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Fragt Zugang und Entscheidung nach, liefert vorläufigen vollständigen Text und konkrete Hilfe zur Einreichung.",
+          "deliverables": [
+            "klage.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vergleich-ist-entscheidung",
+      "target_skill": "gerichtspost-und-termin-bearbeiten",
+      "request": "Das Sozialgericht schlägt einen Vergleich vor, mit dem alle Ansprüche erledigt sein sollen. Ich sage nur: Mach den Brief einfacher und antworte freundlich. Ich brauche eventuell einen Dolmetscher für den Termin. Bitte erkläre meine nächsten Schritte, ohne den Vergleich schon anzunehmen.",
+      "input_files": [],
+      "deliverables": [
+        "termin.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Erklärt Erledigungswirkung und verlangt bewusste Entscheidung, keine Annahme aus bloßem Sprachauftrag.",
+          "deliverables": [
+            "termin.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Klären von Ladung, Sprachhilfe und örtlichem Kontakt; keine erfundenen bundesweiten Öffnungszeiten.",
+          "deliverables": [
+            "termin.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Kurze verständliche Antwort oder Rückfrage mit nächstem Schritt, keine bloße Aktenzusammenfassung.",
+          "deliverables": [
+            "termin.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "endpruefung-fehlbeleg-und-email",
+      "target_skill": "schreiben-und-verstaendlichkeit-pruefen",
+      "request": "Im fertigen Widerspruch steht: Mein Arzt hat dauernde Arbeitsunfähigkeit bestätigt. Tatsächlich liegt nur eine Terminbestätigung vor. Außerdem will ich den Widerspruch als normale E-Mail senden. Prüfe den Text vor dem Versand. Du darfst nichts wirklich absenden, und ich brauche kurze verständliche Hinweise.",
+      "input_files": [],
+      "deliverables": [
+        "pruefung.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Entfernt oder klärt unbelegte ärztliche Feststellung und ersetzt sie nicht durch eine andere erfundene Diagnose.",
+          "deliverables": [
+            "pruefung.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Warnt gezielt vor Formmangel, prüft Frist und zulässigen Einreichungsweg ohne behaupteten Versand.",
+          "deliverables": [
+            "pruefung.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Liefert bereinigten Entwurf und getrennten Hinweis auf Experiment und fehlende Rechtsberatung; fragt respektvoll nach Verständnis.",
+          "deliverables": [
+            "pruefung.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-30",
+    "method": "desk_review",
+    "files": [
+      "sozialrecht-fuer-laien/sozialrecht-fuer-laien-werkstatt.md",
+      "sozialrecht-fuer-laien/sozialrecht-fuer-laien-schnellstart.md"
+    ],
+    "opening_change": "Eigenes Anliegen, akute Not und Frist vor ausführlicher Aufnahme; Tatsachenfragen mit unmittelbar anschließendem Schreiben.",
+    "norms": [
+      "Paragrafen 64, 66, 67, 73, 84, 86b, 87 und 92 SGG",
+      "Paragrafen 19, 25 und 37 SGB X",
+      "Paragraf 13 SGB V"
+    ],
+    "decisions": [
+      {
+        "citation": "BSG, Urteil vom 14.05.2025, B 4 KG 1/24 R",
+        "url": "https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2025/2025_05_14_B_04_KG_01_24_R.html",
+        "application": "Formmangel vor schöner Begründung erkennen und sichere Einreichung erklären.",
+        "limit": "Keine pauschale Gleichsetzung normaler E-Mail mit zulässigen sicheren Portalen."
+      },
+      {
+        "citation": "BSG, Urteil vom 26.05.2020, B 1 KR 9/18 R",
+        "url": "https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2020/2020_05_26_B_01_KR_09_18_R.html",
+        "application": "Kein automatisches Sachleistungsversprechen aus Genehmigungsfiktion.",
+        "limit": "Erstattung, Selbstbeschaffung und Sonderrecht gesondert prüfen."
+      },
+      {
+        "citation": "BVerfG, Beschluss vom 12.05.2005, 1 BvR 569/05",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2005/05/rk20050512_1bvr056905.html",
+        "application": "Existenzielle Nachteile mit aktueller Tatsachengrundlage und passendem Eilverfahren verbinden.",
+        "limit": "Keine automatische Leistungszusage oder erfundene Glaubhaftmachung."
+      }
+    ],
+    "remaining_limits": [
+      "Redaktionelle Quellenprüfung und zehn fachliche Bewertungsfälle, keine beobachteten Modellläufe.",
+      "Keine medizinische Diagnose, Rechtsberatung oder zertifizierte Sprachkonformität."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-30",
+    "method": "desk_review",
+    "opening_modes": [
+      "Vorhandenen Bescheid unmittelbar bearbeiten.",
+      "Ohne klares Anliegen Bedarf kurz klären.",
+      "Frist oder aktuelle Not zuerst sichern.",
+      "Nach Rückantwort am begonnenen Brief weiterarbeiten."
+    ],
+    "continuation": "Neue Tatsachen ändern nur abhängige Begründung, Antrag und Nachweise; Einreichungsweg bleibt eigener Prüfschritt.",
+    "enrichment": "Konkrete Fragen zu Zugang, Alltag, Zahlungen und Versorgung; Hilfeangebote nach Zuständigkeit.",
+    "limits": "Keine eigenmächtige Einreichung, Rücknahme oder medizinische Behandlung; ohne Beleg keine behauptete Tatsache."
+  },
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Kompakter eigenständiger Sozialverfahrensweg in einfacher Sprache.",
+    "changes": [
+      "Frist, Form, Tatsachen und Hilfen vor abstrakter Rechtsübersicht."
+    ],
+    "sha256": "768d8212d71feba1ac24c1c27ffcdde1b7989a9fbe41c1fe0375ad61301b5f89"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Ausführliche eigenständige Verfahrenshilfe mit kurzen adressatengerechten Ergebnissen.",
+    "changes": [
+      "Anträge, Kassenverfahren, Eilrechtsschutz, Klage und Gerichtspost bis zum vollständigen Entwurf."
+    ],
+    "sha256": "be291fb2abde107911ebb7c0d35137eb32198bf105c20c115ef889673165a2c2"
+  }
+}

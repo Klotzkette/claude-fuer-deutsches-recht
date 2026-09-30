@@ -6,6 +6,12 @@
 
 ## Über dieses Repository
 
+Hinweis: Die gesamte Sammlung ist ein Experiment und keine Rechtsberatung. Ergebnisse können falsch oder unvollständig sein und müssen vor ihrer Verwendung geprüft werden. Eine Haftung für die Nutzung wird ausgeschlossen, soweit gesetzlich zulässig; zwingende gesetzliche Haftung bleibt unberührt.
+
+Für verständliche eigene Schreiben: [Jura in einfacher Sprache](./jura-in-einfacher-sprache/README.md) bietet fünf Skills zum Erklären, Umformulieren, Erstellen und Beantworten rechtlicher Texte. [Sozialrecht für Laien](./sozialrecht-fuer-laien/README.md) bietet zehn Arbeitswege vom Antrag bis zur eigenen Eingabe beim Sozialgericht. Beide Pakete enthalten einen ausführlichen Werkstatt-Prompt und einen eigenständigen Mini-Prompt als Markdown-Downloads. Die bisherigen Fachpakete bleiben unverändert erhalten. Einfache Sprache wird angestrebt, nicht als zertifiziert zugesichert.
+
+English: [Plain-language legal writing](./jura-in-einfacher-sprache/README.md) and [Social law for individuals](./sozialrecht-fuer-laien/README.md) add focused workflows with separate full and compact Markdown prompts. Both are experimental aids, not legal advice. Verify their output before use. Liability is excluded only to the extent permitted by law; mandatory liability remains unaffected. Plain-language conformity is not certified.
+
 Dieses Repository ist eine **experimentelle Plugin- und Skill-Sammlung für deutsches Recht** auf Basis der offenen "claude-for-legal"-Skills von Anthropic, vollständig ins Deutsche übertragen und an typische Arbeitsabläufe in Kanzleien, Rechtsabteilungen und bei Beratern angepasst. Die Struktur, Beispiele und Workflows sind inzwischen **für die deutsche Rechtspraxis überarbeitet und im Alltagseinsatz erprobt**, sie bleiben aber bewusst als Experiment gekennzeichnet: Es handelt sich **nicht** um ein geprüftes Produkt, sondern um eine technische Spielwiese zum Ausprobieren, Anpassen und Weiterentwickeln.
 
 Die Sammlung unterstützt das Prüfen von Unterlagen, die strukturierte rechtliche Argumentation und das Erstellen von Arbeitsdokumenten. Dazu verbindet sie fachbezogene Arbeitsabläufe mit Quellenkontrolle, Vorlagen und gesonderten Übungsakten. Auswahl, Anpassung und fachliche Kontrolle bleiben beim Nutzer.

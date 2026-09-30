@@ -6091,6 +6091,8 @@ PROFILE_BY_KEY = {p.key: p for p in PROFILE}
 
 
 EXACT_PROFILE_KEYS: dict[str, str] = {
+    "jura-in-einfacher-sprache": "methodik",
+    "sozialrecht-fuer-laien": "sozial",
     "pflegerecht-sgb-xi": "sozial",
     "juristische-praesentationen": "juristische-praesentationen",
     "startup-gruender": "gesellschaft",
