@@ -1,6 +1,6 @@
 # Artikel 50 und sein Rechtsstand
 
-## 1. Quellenstand am 28. September 2026
+## 1. Quellenstand am 30. September 2026
 
 Maßgeblich ist die [Verordnung (EU) 2024/1689](https://eur-lex.europa.eu/eli/reg/2024/1689/oj) in Verbindung mit der [Verordnung (EU) 2026/1744](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A32026R1744). Die Änderung ist seit 27. Juli 2026 in Kraft. Artikel 1 Nummer 39 Buchstabe b fügt Artikel 111 Absatz 4 ein: Anbieter der dort genannten synthetischen Inhalte erzeugenden Systeme, die vor dem 2. August 2026 in Verkehr gebracht wurden, müssen Artikel 50 Absatz 2 bis zum 2. Dezember 2026 erfüllen. Das ist keine Übergangsfrist für Betreiberhinweise nach Absatz 4 oder für sämtliche Systeme, die irgendwann vor August entwickelt wurden. Inverkehrbringen, Systemidentität und Rolle sind zu belegen.
 
@@ -8,11 +8,21 @@ Artikel 50 gilt grundsätzlich seit 2. August 2026. Die Änderungen des Artikels
 
 Der davon getrennte allgemeine Digital Omnibus COM(2025) 837, [Verfahren 2025/0360(COD)](https://eur-lex.europa.eu/procedure/DE/2025_360?sortOrder=asc), ist im abgerufenen amtlichen Verfahrensregister weiterhin als laufendes Verfahren ausgewiesen. Seine vorgeschlagenen Datenschutzänderungen werden hier nicht als geltendes Recht verwendet.
 
+### 1.1. Systemalter und Alter des Inhalts getrennt prüfen
+
+Leitlinien, Randnummer 154: Vor dem 2. August 2026 erzeugte oder manipulierte synthetische Ausgaben und Deepfakes sind nach Kommissionsauslegung nicht nachträglich zu markieren beziehungsweise offenzulegen. Für Texte öffentlichen Interesses müssen dagegen Erzeugung oder Manipulation und Veröffentlichung vor diesem Stichtag liegen; ein Juli-Entwurf mit Erstveröffentlichung im September ist kein ausgenommener Alttext. Spätere Änderungen und neue Fassungen anhand ihrer eigenen Daten untersuchen. Eine pauschale Altbestandsprüfung sämtlicher Archive ist nicht verlangt. Diese Inhaltsabgrenzung ist keine zusätzliche Anbieter-Schonfrist.
+
+Randnummer 153 nennt beim Systembestand auch die Inbetriebnahme. Der verbindliche Wortlaut von Artikel 111 Absatz 4 stellt dagegen auf das Inverkehrbringen vor dem 2. August 2026 ab. Eine bloße interne Inbetriebnahme deshalb nicht ohne Weiteres als Nachweis der Übergangsregel anerkennen; die Abweichung zwischen Leitlinientext und Norm ausdrücklich behandeln.
+
 ## 2. Rollen vor Berufsbezeichnungen
 
 Artikel 3 Nummer 3 definiert den Anbieter über Entwicklung oder Entwicklungsauftrag und Inverkehrbringen oder Inbetriebnahme unter eigenem Namen oder eigener Marke. Nummer 4 erfasst den Betreiber, der ein System in eigener Verantwortung verwendet, ausgenommen persönliche nicht berufliche Tätigkeit. Prüfe System, Organisation, tatsächliche Weisung und Kontrolle. Ein angestellter Rechtsanwalt ist nicht schon wegen seines Berufs oder seines Benutzerkontos persönlich Betreiber. Wird unter Verantwortung und Kontrolle der Kanzleigesellschaft gearbeitet, ist diese Organisation zu untersuchen. Eigenständig betriebene Nebenangebote können anders liegen. Anbieter- und Betreiberrolle können zusammentreffen; eine Vertragsüberschrift entscheidet das nicht.
 
 Quelle: Artikel 3 Nummern 3 und 4; ergänzend [Kommissions-FAQ, Fragen zu Anbieter und Betreiber](https://digital-strategy.ec.europa.eu/en/faqs/transparency-obligations-under-article-50-ai-act). Die FAQ erläutert Beschäftigte und beauftragte Dritte ausdrücklich. Ihr einleitender Absatz nennt für direkte Interaktion einmal irrtümlich Absatz 2; maßgeblich ist Absatz 1 des Normtextes.
+
+Leitlinien, Randnummern 12 bis 17: Tatsächliche Entscheidung über Zweck und Einsatz kann Betreiberverantwortung begründen, ohne dass technische Vollkontrolle besteht. Bei Agenturen und Auftragnehmern klären, wer den Einsatz bestimmt und kontrolliert. Wer nur einen Werbeauftrag erteilt und die fremde Systemnutzung weder entscheidet noch kontrolliert, ist nicht allein deshalb Betreiber. Bloßes Hosting oder Weiterverbreiten fremder Inhalte macht ebenfalls nicht automatisch zum Betreiber; andere Pflichten bleiben möglich. Kennzeichnungserhalt bei Vertriebspartnern als verhältnismäßige Umsetzung organisieren, ohne deren gesetzliche Rolle aus einer Vertragsüberschrift abzuleiten.
+
+Randnummern 19 bis 27: Persönliche nichtberufliche Nutzung befreit nicht den Anbieter des genutzten Systems. Open-Source-Systeme sind von Artikel 50 nicht pauschal ausgenommen. Bloße Modell- oder Komponentenbereitstellung ist von der Bereitstellung eines interaktiven oder generativen Systems zu unterscheiden.
 
 ## 3. Die fünf Absätze getrennt anwenden
 
@@ -20,11 +30,31 @@ Quelle: Artikel 3 Nummern 3 und 4; ergänzend [Kommissions-FAQ, Fragen zu Anbiet
 
 Artikel 50 Absatz 1 verpflichtet Anbieter zur entsprechenden Gestaltung und Entwicklung direkt mit natürlichen Personen interagierender Systeme. Die Person muss erkennen, dass sie mit KI interagiert, soweit dies nicht aus Sicht einer angemessen informierten, aufmerksamen und verständigen Person unter Berücksichtigung von Umständen und Nutzungskontext offensichtlich ist. Ein menschlicher Vorname, eine naturähnliche Stimme oder bloß „digitaler Service“ belegt keine Offensichtlichkeit. Ein intern verwendeter Textgenerator ist nicht deshalb ein direkter Chatbot gegenüber dem späteren Empfänger eines von Menschen versandten Briefs. Gesetzlich zugelassene Strafverfolgungseinsätze haben eine eng umschriebene Ausnahme mit Schutzvorkehrungen; öffentlich erreichbare Systeme zur Anzeige einer Straftat sind davon ausgenommen. Ein Kanzleibot wird nicht durch Beratung im Strafrecht zum Ausnahmefall.
 
+Randnummern 30 und 31 erfassen auch responsive E-Mail-Systeme und Agenten, die mit natürlichen Personen korrespondieren oder verhandeln. Ein nur möglicher menschlicher Eingriff beseitigt die direkte Interaktion nicht. Anders liegt der dort beschriebene Fall tatsächlich geprüfter und durch Menschen als Hauptansprechpartner versandter Antworten. Agenten sollen nach Randnummer 31 ihren künstlichen Charakter und denjenigen offenlegen, für den sie handeln; Auftraggeberangabe und tatsächliche Vertretungsmacht nicht verwechseln.
+
+Randnummern 34 bis 40: Voraussehbare Kinder, ältere Menschen und Personen mit Behinderungen bei Verständlichkeit und Zugänglichkeit berücksichtigen. Ein einzelner klarer Anfangshinweis genügt häufig; gerade bei Rechtsberatung, sensiblen längeren Gesprächen, Rollenwechseln oder erkennbarer Verwechslung können erneute Hinweise nötig sein. Keine schematische Wiederholung vor jedem Satz. Ein Ton, ein allgemeiner Websitehinweis oder ein technisches Schlagwort allein genügt nicht ohne verständliche Offenlegung.
+
 ### 3.2. Technische Markierung
 
 Artikel 50 Absatz 2 adressiert Anbieter, einschließlich Anbieter von KI-Systemen mit allgemeinem Verwendungszweck. Synthetische Audio-, Bild-, Video- oder Textausgaben müssen maschinenlesbar markiert und als künstlich erzeugt oder manipuliert erkennbar sein. Die Lösungen müssen im technisch machbaren Umfang wirksam, interoperabel, robust und zuverlässig sein; Inhaltstyp, Grenzen, Umsetzungskosten und allgemein anerkannter Stand der Technik sind zu berücksichtigen. Die Norm schreibt nicht für jeden Inhalt dieselbe konkrete Wasserzeichentechnik vor.
 
 Ausgenommen ist der Umfang bloß unterstützender Standardbearbeitung oder nicht wesentlicher Veränderung der Eingabedaten oder ihrer Semantik sowie gesetzlich zugelassener Strafverfolgung. Aus einer Rechtschreibkorrektur lässt sich keine Ausnahme für einen neu erfundenen Sachverhalt ableiten. Sichtbare Hinweise ersetzen technische Markierung nicht und umgekehrt. Die Textausnahme aus Absatz 4 beseitigt nicht die gesonderte Anbieterprüfung nach Absatz 2.
+
+### 3.2.1. Welche Ausgaben erfasst sind
+
+Randnummern 63 bis 68 unterscheiden wahrnehmbare synthetische Inhalte von unveränderten Datenübertragungen, bloßer Extraktion und Strukturierung ohne Zusammenfassung, ausschließlich maschinell verarbeiteten Zwischenausgaben und zur Ausführung bestimmtem Quellcode. Entscheidend ist die Funktion, nicht die Dateiendung: Ein JSON-Feld mit einem an Menschen ausgegebenen Beratungsbrief wird nicht allein wegen des Containers zu Maschinenkommunikation. Nach Randnummer 68 bleiben kurze Zeichenfolgen, etwa Oberflächenbeschriftungen, und bestimmte Produktionszwischenstände außerhalb des beschriebenen Anwendungsbereichs; der fertige wahrnehmbare Inhalt ist gesondert zu prüfen.
+
+Randnummern 89 bis 92 nennen semantisch unveränderte Übersetzungen, Transkriptionen und technische Formatkorrekturen als Beispiele begrenzter Ausnahmen. Zusammenfassungen, sinnverändernde Umschreibungen oder inhaltlich ergänzte Übersetzungen sind damit nicht gleichzusetzen. Bei einem multifunktionalen System wird die einzelne Bearbeitungsfunktion beurteilt, nicht das gesamte Produkt freigestellt.
+
+### 3.2.2. Markierung und zugänglicher Erkennungsweg
+
+Randnummern 69 bis 78 verlangen in der Kommissionsauslegung sowohl maschinenlesbare Markierung als auch verfügbare Erkennungsmittel mit menschenlesbarem Ergebnis. Eine Markierung ohne zugänglichen Detektionsweg reicht nicht. Die Qualität beider Komponenten anhand der Kriterien des Absatzes 2 prüfen. Eine vollständige Herkunftskette ist nach Randnummer 73 nicht vorgeschrieben; zuliefererseitige Technik nimmt dem Systemanbieter nach Randnummer 74 nicht seine Verantwortung. Nach Randnummer 77 betrifft die erste Exposition beim Detektionsdienst dessen Ergebnis: Nicht daraus eine sichtbare Betreiberkennzeichnung jedes privaten Textes ableiten.
+
+### 3.2.3. Enge technische Sonderkonstellationen
+
+Randnummer 87 beschreibt eine enge Auslegung für industrielle oder geschäftliche Anwendungen: rein technischer Inhalt, nur ein begrenzter vorab bestimmter beruflicher Nutzerkreis innerhalb der Anbieter- und Betreiberorganisation und keine beabsichtigte externe Nutzung, abgesichert gegen vorhersehbare Fehlverwendung. Alle Bedingungen müssen zusammen vorliegen. Ein internes Rechtsgutachten wird nicht schon durch Vertraulichkeit zum technischen Produktionsinhalt. Das ist eine unverbindliche Kommissionsauslegung, keine neue allgemeine B2B-Ausnahme im Normtext.
+
+Randnummer 88 betrifft flüchtige Echtzeitinhalte nur bei fehlender Aufzeichnung, Speicherung und Weiterverbreitung, technisch nicht möglicher Markierung und wirksamer Information der exponierten Personen. Speicherung oder Export schließen die pauschale Berufung auf diesen Sonderfall aus. Technische Unmöglichkeit nicht allein aus Aufwand oder einer Anbieterbehauptung ableiten.
 
 ### 3.3. Biometrie und Emotionen
 
@@ -32,17 +62,27 @@ Artikel 50 Absatz 3 verpflichtet Betreiber von Emotionserkennungs- oder biometri
 
 Artikel 3 Nummern 34, 39 und 40 verlangen eine technische und datenbezogene Prüfung. Reine Textsentimentanalyse ist nicht automatisch Emotionserkennung anhand biometrischer Daten. Vor dem Hinweisentwurf ist Artikel 5 zu prüfen, insbesondere Absatz 1 Buchstabe f für Emotionserkennung am Arbeitsplatz oder in Bildungseinrichtungen und Buchstabe g für bestimmte sensible biometrische Kategorisierungen. Eine Mitteilung oder Zustimmung legalisiert keinen verbotenen Betrieb. Medizinische oder Sicherheitszwecke dürfen nicht allein aus einem Vertriebswort wie „Wohlbefinden“ abgeleitet werden.
 
+Randnummern 104 bis 108 beziehen die Betreiberinformation nicht nur auf Hochrisikosysteme; die exponierten Personen sind nicht auf angemeldete oder aktiv teilnehmende Nutzer beschränkt. Personen, deren biometrische Daten später ausgewertet werden, und gegebenenfalls weitere erfasste Personen im Kamerabereich einbeziehen. Der Hinweis muss die tatsächlich verwendete Emotions- oder Kategorisierungsfunktion erkennen lassen; ein allgemeines KI-Etikett genügt dafür nicht automatisch.
+
 ### 3.4. Deepfakes und öffentliche Texte
 
 Absatz 4 enthält zwei getrennte Fallgruppen. Bei Deepfakes betrifft die Betreiberpflicht künstlich erzeugte oder manipulierte Bilder, Audio- oder Videoinhalte. Artikel 3 Nummer 60 verlangt Ähnlichkeit mit bestehenden Personen, Gegenständen, Orten, Einrichtungen oder Ereignissen und den fälschlichen Anschein von Echtheit oder Wahrheit. Nicht jedes bearbeitete Bild ist ein Deepfake. Bei offensichtlich künstlerischen, kreativen, satirischen, fiktionalen oder vergleichbaren Werken wird die Art der Offenlegung angepasst; sie entfällt nicht pauschal. Menschliches Gegenlesen eines Begleittexts ist keine Deepfake-Ausnahme.
 
+Randnummern 113 bis 116 legen den Bezug zu bestehenden Motiven weit aus: Auch realistisch erscheinende erfundene Personen oder plausibel mögliche Ereignisse können danach erfasst sein. „Kein reales Vorbild“ ist deshalb kein tragfähiger automatischer Ausschluss. Diese weite, nicht gerichtlich verbindliche Auslegung als solche nennen und verbleibende Auslegungsfragen offenlegen. Täuschungsabsicht ist nach Randnummer 114 nicht erforderlich; Fotorealismus allein entscheidet aber ebenfalls nicht. Anders als bei Absatz 1 ist nach Randnummer 115 nicht nur ein hypothetischer Durchschnittsnutzer maßgeblich, sondern die voraussehbare Zusammensetzung des Publikums. Interne Vorführung oder geschlossener Empfängerkreis schließen die Deepfake-Pflicht nicht wie den öffentlichen Texttatbestand aus.
+
 Für Texte müssen Veröffentlichung, Zweck der Information der Öffentlichkeit und eine Angelegenheit von öffentlichem Interesse zusammenkommen. Ein gewöhnlicher nichtöffentlich ausgetauschter Gerichtsschriftsatz erfüllt das nicht schon wegen seines rechtlichen Themas. Das ist eine Subsumtion unter den Veröffentlichungstatbestand, keine allgemeine Befreiung von Kanzleien. Bei späterer Publikation derselben Passage ist neu zu prüfen. Ein öffentlich zugänglicher Beitrag über kommunale Verkehrsplanung kann den Tatbestand erfüllen; ein Produktetikett oder jede private E-Mail tut es nicht automatisch.
 
+Randnummer 131 erfasst auch eine unbestimmte größere Leserschaft hinter einer Bezahlschranke. Interne Organisationskommunikation und Korrespondenz mit einzelnen Mandanten sind dagegen grundsätzlich keine Veröffentlichung in diesem Sinn. Werbetexte sind nicht ausnahmslos ausgenommen: Angaben zu Gesundheit, Verbrauchersicherheit oder Nachhaltigkeit können öffentliches Interesse betreffen. Die Einordnung folgt Inhalt, Informationszweck und tatsächlichem Zugang, nicht der Überschrift „Werbung“ oder „Mandanteninformation“.
+
 Die Textpflicht entfällt bei menschlicher Überprüfung oder redaktioneller Kontrolle und einer natürlichen oder juristischen Person, die die redaktionelle Verantwortung für die Veröffentlichung trägt. Bloße Rechtschreibprüfung, ein Name im Impressum oder ein ungeprüftes Freigabehäkchen reichen nicht als Nachweis des tatsächlichen Prozesses. Die Norm verlangt kein bestimmtes Formular; Versionsprotokolle und konkrete Freigabeerklärungen sind zweckmäßige Beweismittel, keine gesetzlich vorgeschriebene Form. Die gesetzliche Strafverfolgungsausnahme ist auch hier gesondert zu prüfen.
+
+Randnummer 134 nennt Sachkunde und Tatsachenprüfung als Mindestbestandteil der inhaltlichen Kontrolle. Nach Randnummer 138 sollen Identität und Kontaktdaten der verantwortlichen Person oder Funktion leicht auffindbar sein; das ersetzt den tatsächlichen Prüfprozess nicht. Randnummer 136 lässt eine substanzielle erneute KI-Bearbeitung nach Freigabe nicht unter der alten Ausnahme fortlaufen. Eine danach neu durchgeführte inhaltliche Prüfung der Endfassung kann die Ausnahme wieder tragen; kein dauerhaftes Kennzeichnungsgebot allein wegen einer früheren Änderung erfinden.
 
 ### 3.5. Zeitpunkt und Zugänglichkeit
 
 Absatz 5 verlangt klare und unterscheidbare Information spätestens bei erster Interaktion oder Exposition sowie Einhaltung der anwendbaren Barrierefreiheitsanforderungen. Prüfe Telefonbeginn, Chatöffnung, Vorschaubild, eingebetteten Beitrag und Weitergabe gesondert. Nur im Impressum oder hinter einem Zusatzklick versteckte Informationen erfüllen dieses Ziel nicht ohne Weiteres. Barrierefreiheit ist am konkreten Kanal zu prüfen; dieses Paket behauptet keine universelle Schriftgröße oder ein obligatorisches EU-Symbol.
+
+Randnummer 143 bezieht die erste Wahrnehmung auf jede neu hinzutretende Person. Bei vorhersehbarem Einstieg mitten in ein Video oder einen Stream kann ein Anfangshinweis allein unzureichend sein. Abgeschnittene Vorspänne, eingebettete Clips und Partnerkanäle mitprüfen. Für technische Detektion gilt ergänzend die besondere Erläuterung in Randnummer 77; ein nur im Detektor erscheinendes Ergebnis ersetzt nicht die unmittelbar wahrnehmbare Deepfake-Offenlegung nach Randnummer 117.
 
 Normtexte: [Artikel 50](https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-50), [Artikel 3](https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-3), [Artikel 5](https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-5). Der Service Desk warnt, dass seine Anzeige noch nicht vollständig an den Omnibus angepasst ist. Die unveränderten Absätze 1 bis 5 wurden deshalb mit der Änderungsverordnung getrennt abgeglichen. Absatz 6 lässt weitere Pflichten unberührt; Transparenzprüfung bedeutet keine Gesamtfreigabe nach Datenschutz-, Berufs-, Urheber- oder Persönlichkeitsrecht.
 
@@ -54,7 +94,7 @@ Der [Transparenzkodex](https://digital-strategy.ec.europa.eu/en/policies/code-pr
 
 ## 5. Abrufnachweis und Reichweite
 
-Alle verlinkten amtlichen Webinhalte wurden am 28. September 2026 geprüft. EUR-Lex blockierte einzelne direkte HTML-Abrufe mit einer Bot-Prüfung; der indexierte amtliche Volltextauszug der Änderungsverordnung lieferte insbesondere Artikel 1 Nummern 39 und 40. Das ist kein behaupteter lückenloser Neuabruf sämtlicher Sprachfassungen. Die oben bezeichneten Leitlinienpassagen wurden nach Abruf des amtlichen PDF am Text geprüft, ebenso Veröffentlichungsseite, Überblick und FAQ. Keine Rechtsprechung zu Artikel 50 wird fingiert. Empfehlungen zu Protokollführung, Versionskennungen oder Gestaltung sind ausdrücklich Umsetzungsvorschläge und nicht zusätzliche gesetzliche Formpflichten.
+Grundprüfung der verlinkten amtlichen Webinhalte: 28. September 2026. Ergänzungsprüfung am 30. September 2026: finaler amtlicher Leitlinienvolltext C(2026) 5054 final, Veröffentlichungsseite, FAQ und Artikel 111 Absatz 4 aus der Änderungsverordnung. Die oben ergänzten Randnummern wurden am heruntergeladenen PDF geprüft. EUR-Lex blockierte einzelne direkte HTML-Abrufe mit einer Bot-Prüfung; für die Übergangsnorm wurde zusätzlich der indexierte amtliche Volltext verwendet. Das ist kein behaupteter lückenloser Neuabruf sämtlicher Sprachfassungen oder sonstiger Rechtsgebiete. Keine Rechtsprechung zu Artikel 50 wird fingiert. Empfehlungen zu Protokollführung, Versionskennungen oder Gestaltung sind Umsetzungsvorschläge und nicht zusätzliche gesetzliche Formpflichten.
 
 ## 6. Abgleich mit Omnibus und deutscher Aufsicht
 

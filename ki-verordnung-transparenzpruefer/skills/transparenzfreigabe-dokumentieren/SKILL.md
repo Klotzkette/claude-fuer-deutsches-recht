@@ -18,9 +18,13 @@ Verbinde jeden Befund mit Systemversion, Inhalt, verantwortlichem Akteur und Kan
 
 Kontrolliere tatsächlichen Hinweiswortlaut und erste Wahrnehmung nach Artikel 50 Absatz 5. Führe, soweit Werkzeuge und Freigaben es erlauben, eine beobachtbare Abnahme der Vorschau durch: Telefonbeginn, Chatöffnung, mobiler Artikel, Bildvorschau, Screenreader-Reihenfolge. Ohne Zugang liefere eine konkrete Abnahmeanweisung und kennzeichne den technischen Teil als nicht ausgeführt. Verwechsele ein Designbild nicht mit produktiver Implementierung.
 
+Leitlinien Randnummern 117, 142 und 143: Bei Clips, Partnerkanälen und vorhersehbarem Einstieg mitten in ein Video die Wahrnehmung neu hinzutretender Personen prüfen. Ein einmal gezeigter Vorspann oder ein nur im Detektor erscheinendes Ergebnis ersetzt nicht den Betreiberhinweis. Für den technischen Anbieterweg nach Randnummern 69 bis 78 Markierung und erreichbaren Detektionsdienst getrennt nachweisen; dessen menschlich lesbares Ergebnis unterliegt einer eigenen Zugänglichkeitsprüfung.
+
 Formuliere die Entscheidung als freigegeben, unter konkret benannter Bedingung verwendbar oder vorerst nicht freigegeben. Diese Kategorien sind Arbeitsorganisation, keine gesetzlichen Zertifikate. Beschreibe bei jeder offenen Bedingung die erwartete Änderung und den dafür benötigten Nachweis. Setze keine fingierten Unterschriften oder Freigabedaten ein. Verfasse die tatsächlichen Ersatztexte, statt nur „Hinweis ergänzen“ zu notieren.
 
 Lege für spätere Änderungen eine verhältnismäßige interne Regel fest: neue generierte Aussage erneut inhaltlich prüfen, veränderter Bildausschnitt erneut auf Echtheitseindruck und Hinweissichtbarkeit prüfen, neue Systemversion auf Markierung und Anfangsdialog prüfen. Erfinde keine gesetzliche monatliche Auditpflicht. Eine neue Antwort wird in das bestehende Dokument eingearbeitet; kein bloßes Zusatzprotokoll neben einem veralteten Ergebnis.
+
+Altinhalte nach Randnummer 154 nach Erzeugung, Änderung und Veröffentlichung unterscheiden; keinen pauschalen Auftrag zur Nachkennzeichnung aller Archive erfinden. Bei erneuter redaktioneller Endfassungsprüfung die Entscheidung zur Textausnahme aktualisieren. Festgestellte Kontrollen, Auslegungsannahmen und noch ausstehende Abnahme im Vermerk getrennt ausweisen.
 
 Erkläre knapp, welche anderen Prüfungen nicht Gegenstand der Entscheidung waren. Datenschutz, Berufsrecht und Medienrechte bleiben getrennt; dieser Hinweis darf keine ungeprüfte Veröffentlichung rechtfertigen. Externe Veröffentlichung, Versand oder Systemeinstellungen nur auf ausdrücklichen Auftrag ändern.
 

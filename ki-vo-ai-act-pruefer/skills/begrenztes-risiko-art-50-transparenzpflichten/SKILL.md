@@ -24,9 +24,23 @@ Oberfläche oder Veröffentlichung, Systemfunktion, Rolle, Einführungsdatum und
 7. Neue Verbote nach Artikel 5 Buchstaben ba und bb ab 2. Dezember 2026 getrennt prüfen. Artikel 4a betrifft dagegen sensible Daten zur Bias-Korrektur. Keine Freigabe durch Kennzeichnung eines verbotenen Inhalts.
 8. Hinweis im tatsächlichen Kanal prüfen: Sichtbarkeit, Sprache, Barrierefreiheit und Erhalt bei Weiterverarbeitung. Nur vorhandene rechtmäßige Inhalte verwenden. Veröffentlichung bedarf gesonderter Freigabe.
 
+### 3.1. Finale Leitlinien auf die konkrete Funktion anwenden
+
+Nutze die finalen Kommissionsleitlinien vom 20. Juli 2026, nicht den Konsultationsentwurf. Nach Randnummern 30 und 31 sind auch automatisch antwortende E-Mails und korrespondierende Agenten zu prüfen. Ein nur möglicher menschlicher Eingriff ist keine tatsächlich geprüfte und durch Menschen versandte Antwort. Bei Agenten künstlichen Charakter und Auftraggeber benennen. Randnummern 34 bis 40 verlangen eine verständliche, kontextgerechte Information; bei sensibler langer Beratung oder Verwechslung Erneuerung prüfen, nicht mechanisch vor jedem Satz.
+
+Bei Absatz 2 nach Randnummern 69 bis 78 Markierung und verfügbaren Detektionsweg mit menschenlesbarem Ergebnis getrennt nachfordern. Nach Randnummern 63 bis 68 und 89 bis 92 bloße Extraktion, semantisch unveränderte Übersetzung und ausschließlich maschinelle Zwischenausgaben von Zusammenfassung oder inhaltlicher Umschreibung abgrenzen. „Intern“ und „B2B“ sind keine allgemeinen Ausnahmen: Randnummer 87 verlangt rein technischen Inhalt, begrenzten beruflichen Nutzerkreis und abgesicherte fehlende externe Nutzung zusammen. Vertrauliche Rechtsgutachten nicht ungeprüft darunter einordnen.
+
+### 3.2. Veröffentlichung und spätere Antwort fortführen
+
+Nach Randnummer 131 kann eine Bezahlschranke Öffentlichkeit offenlassen; Werbung zu Gesundheit, Sicherheit oder Nachhaltigkeit kann öffentliches Interesse betreffen. Nach Randnummern 133 bis 138 trägt nur eine sachkundige inhaltliche Prüfung oder tatsächliche redaktionelle Kontrolle mit Verantwortung die Textausnahme. Substanzielle Änderungen nach Freigabe erneut prüfen; eine neue Endprüfung kann die Ausnahme wieder tragen. Ein nichtöffentlicher Schriftsatz ist kein öffentliches Informationsangebot, sein synthetisches Bild aber gesondert zu beurteilen.
+
+Systemalter von Inhaltsalter trennen: Randnummer 154 nimmt vor dem 2. August 2026 erzeugte oder manipulierte Medien von rückwirkender Kennzeichnung aus; bei Texten muss auch die Veröffentlichung vorher liegen. Bei nachgereichten Daten nur den zutreffenden Zeitpfad ändern. Randnummer 143 berücksichtigt neu hinzutretende Zuschauer und Clips ohne Vorspann. Liefere danach den korrigierten Hinweis und die begründete Entscheidung, nicht nur zusätzliche Prüfpunkte.
+
 ## 4. Quellenpflicht
 
 [Rechtsstandkarte](../../references/digitaler-omnibus-2026.md), Artikel 50 Absätze 1 bis 6, 111 Absatz 4 und 113. Urheber-, Persönlichkeits-, Wettbewerbs- und Datenschutzrecht bleiben eigenständige Prüfungen. Für die neue Übergangsregel keine alte Entscheidung als Beleg erfinden.
+
+[Artikel-50-Leitlinien mit Randnummern](../../references/artikel-50-leitlinien-2026.md) und [Zitierweise](../../references/zitierweise.md). Leitlinien sind nach Randnummer 5 unverbindlich. Ihr weiterer Wortlaut zur Inbetriebnahme ersetzt nicht die gesetzliche Voraussetzung des Inverkehrbringens nach Artikel 111 Absatz 4.
 
 ## 5. Ausgabeformat
 

@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "plugin": "ki-verordnung-transparenzpruefer",
-  "reviewed_on": "2026-09-28",
+  "reviewed_on": "2026-09-30",
   "sources": [
     {"url": "https://eur-lex.europa.eu/eli/reg/2024/1689/oj", "checked_on": "2026-09-28", "supports": "Artikel 3 Nummern 3, 4, 34, 39, 40 und 60; Artikel 5; unveränderte Artikel-50-Absätze 1 bis 5, getrennte Anbieter- und Betreiberpflichten. Mit amtlicher Anzeige und Änderungsakt abgeglichen, nicht isoliert als aktueller Gesamtstand verwendet."},
-    {"url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A32026R1744", "checked_on": "2026-09-28", "supports": "Amtlich indexierter Normtext: Inkrafttreten 27.07.2026, Artikel 1 Nummer 39 Buchstabe b und Artikel 111 Absatz 4, Übergang bis 02.12.2026 nur für Anbieterpflicht 50 Absatz 2 und einschlägige vor 02.08.2026 vermarktete Systeme; Nummer 6 Artikel 4a Bias-Daten, keine Deepfake-Ausnahme."},
-    {"url": "https://ec.europa.eu/newsroom/dae/redirection/document/131215", "checked_on": "2026-09-28", "supports": "Amtlicher PDF-Text C(2026) 5054 final, Anhang: Randnummer 5 unverbindlich, 10 bis 14 Rollen und Beschäftigte, 130 bis 138 Veröffentlichung und Textkontrolle, 141 bis 144 Erstinformation und Zugänglichkeit, 146 bis 150 Kodex."},
+    {"url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A32026R1744", "checked_on": "2026-09-30", "supports": "Amtlich indexierter Normtext: Artikel 111 Absatz 4 verlangt vor 02.08.2026 in Verkehr gebrachte Systeme; keine Ausdehnung auf bloße interne Inbetriebnahme aufgrund der weiter gefassten Leitlinien-Randnummer 153. Übergang bis 02.12.2026 nur für Anbieterpflicht 50 Absatz 2. Frühere Prüfung: Inkrafttreten 27.07.2026 und Artikel 4a Bias-Daten, keine Deepfake-Ausnahme."},
+    {"url": "https://ec.europa.eu/newsroom/dae/redirection/document/131215", "checked_on": "2026-09-30", "supports": "Amtlicher PDF-Volltext C(2026) 5054 final, Anhang: Randnummer 5 unverbindlich; 12 bis 27 Rollen und Open Source; 30 bis 40 E-Mail-Agenten und Erstinformation; 63 bis 92 Anwendungsbereich, Markierung plus Detektion, enge technische Ausnahmen; 104 bis 108 exponierte Personen; 113 bis 138 Deepfakes, Öffentlichkeit und qualifizierte Textkontrolle; 143 neue Zuschauer und Clips; 153 bis 154 Systemübergang und gesonderte Inhaltsdaten."},
     {"url": "https://digital-strategy.ec.europa.eu/en/policies/code-practice-ai-generated-content", "checked_on": "2026-09-28", "supports": "Finaler freiwilliger Transparenzkodex vom 10.06.2026 zu Artikel 50 Absätzen 2, 4 und 5, nicht GPAI-Kodex und nicht verpflichtendes Gesetz."},
     {"url": "https://digital-strategy.ec.europa.eu/en/library/commission-opinion-assessment-code-practice-transparency-ai-generated-content", "checked_on": "2026-09-28", "supports": "Positive Kommissionsbewertung 08.07. und AI-Board-Bewertung 09.07.2026, Beitritt kein abschließender Konformitätsnachweis."},
     {"url": "https://eur-lex.europa.eu/procedure/DE/2025_360?sortOrder=asc", "checked_on": "2026-09-28", "supports": "Getrenntes allgemeines Digital-Omnibus-Verfahren COM(2025) 837 weiterhin laufend, keine bereits geltende Datenschutzänderung daraus ableiten."},
@@ -13,15 +13,15 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Eigenständig handverfasster Mini mit fünf getrennten Absatzwegen, präziser Rollen- und Datumsprüfung und konkreten Antwortfortsetzungen; redaktioneller Quellenreview, kein Live-Modelltest.",
-    "changes": ["Beschäftigtenkonto von eigenständigem Betrieb getrennt.", "Textausnahme nicht auf Deepfakes oder technische Kennzeichnung übertragen.", "Klarer Auftrag, Ordner ohne Auftrag und leere Eingabe mit unterschiedlichen Starts; neue Antworten ändern das bestellte Dokument."],
-    "sha256": "ea3cf005e5c5c5db5b0c3138e4e80b1000696d66f06c40a62abbdb95584fe0b4"
+    "reason": "Eigenständig überarbeiteter Mini mit Randnummern aus dem finalen Leitlinientext, konkreten Kommunikationswegen und engen Ausnahmen; redaktioneller Quellenreview, kein Live-Modelltest.",
+    "changes": ["E-Mail-Agent und tatsächlich menschlich versandte Antwort getrennt.", "Markierung plus Detektionsweg, technische Ausnahmen und interne Rechtsgutachten abgegrenzt.", "Realistische erfundene Sprecher, öffentliche Texte und erneute qualifizierte Freigabe eingeordnet.", "Altinhalte gesondert von der Anbieterübergangsfrist behandelt; Auftrag bis zum fertigen Dokument fortgeführt."],
+    "sha256": "7a08a5073a181c0ac9a6fdfe9ce3cc707bf8fea20036d561d3a96a3f6fee3b51"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Handverfasster Kanzleiablauf mit tatsächlichen Endprodukten, amtlicher Rollenklärung, Publikationswechsel und versionsbezogener Redaktion. Durchgang anhand der Mainzer Originale; keine behauptete Live-Ausführung durch ein Modell.",
-    "changes": ["Gerichtsfassung und öffentliche Artikelfassung als unterschiedliche Verwendungen bearbeitet.", "Nachträglicher KI-Absatz löst erneute Endfassungsprüfung aus.", "Erstinformation in Chat und Telefon sowie eigene Bild- und Biometrieprüfung operationalisiert.", "Verabschiedete Änderung, Vorschlag, Leitlinien und freiwilliger Kodex getrennt."],
-    "sha256": "7f446e3728be37025b760333387d97ac89fb8710f62bfea7f0129f4e2c00481b"
+    "reason": "Die finalen Leitlinien wurden absatzweise in den vorhandenen Kanzleiablauf eingearbeitet, mit konkreten Nachweisen und Endprodukten. Juristischer Quellen- und Workflowreview, keine behauptete Live-Ausführung durch ein Modell.",
+    "changes": ["B2B- und Echtzeitausnahmen eng an Randnummern 87 und 88 gebunden.", "Detektionsweg und menschenlesbares Prüfergebnis neben der Markierung verlangt.", "Realistische erfundene Sprecher sowie Hinweiswahrnehmung bei Clips und späterem Einstieg ergänzt.", "Neue Endprüfung kann die Textausnahme wieder tragen; generelles internes Privileg ausgeschlossen.", "Normwortlaut des Artikels 111 Absatz 4 hat Vorrang vor weiter gefasster Leitlinien-Randnummer 153."],
+    "sha256": "84512f144aeb096555430486f75d5a951267e025099e669ca0ae35ca31e72e43"
   },
   "selection": {
     "positive": [
@@ -147,6 +147,78 @@
       ]
     },
     {
+      "id": "email-agent-oder-menschliche-antwort",
+      "target_skill": "chat-und-telefonhinweise",
+      "request": "Schreibe dialog.docx für zwei getrennte Abläufe. System A beantwortet eingehende Mandanten-E-Mails automatisch im Namen der Kanzlei; ein Anwalt könnte jederzeit eingreifen, liest aber nicht regelmäßig mit. System B erstellt Entwürfe, die ein Anwalt fachlich prüft, bearbeitet und selbst versendet. Die Nutzung ist für den Empfänger nicht offensichtlich. Beurteile Absatz 1 und entwirf nur den tatsächlich benötigten Eröffnungshinweis. Stelle keine Vertretungsmacht für Prozesshandlungen in Aussicht.",
+      "input_files": [],
+      "deliverables": ["dialog.docx"],
+      "criteria": [
+        {"id": "M1", "text": "Bloße Eingriffsmöglichkeit macht A nicht zur menschlich vermittelten Antwort; B wird anhand der tatsächlichen Endkontrolle und Versendung abgegrenzt.", "deliverables": ["dialog.docx"]},
+        {"id": "M2", "text": "Hinweis für A bezeichnet künstlichen Charakter und Kanzlei als Auftraggeber, ohne unbekannte Vollmacht oder automatische Versendung zu behaupten.", "deliverables": ["dialog.docx"]},
+        {"id": "M3", "text": "Anbieterpflicht nach Absatz 1 und gesonderte Anbieterprüfung nach Absatz 2 bleiben getrennt; keine pauschale Befreiung des Entwurfssystems.", "deliverables": ["dialog.docx"]}
+      ]
+    },
+    {
+      "id": "internes-gutachten-keine-b2b-pauschalausnahme",
+      "target_skill": "anbieterkennzeichnung-pruefen",
+      "request": "Erstelle kennzeichnung.docx. Ein Anbieter liefert seit September 2026 eine Anwendung für vertrauliche interne Rechtsgutachten und meint, B2B, interne Nutzung und Ausgabe als JSON schlössen Artikel 50 Absatz 2 aus. Die JSON-Felder enthalten vollständig ausformulierte juristische Beratung für Mitarbeiter. Daneben besteht ein anderer geschlossener technischer CAD-Arbeitsablauf mit vorab bestimmten beruflichen Nutzern und vertraglich sowie technisch ausgeschlossener externer Ausgabe. Beurteile beide Funktionen getrennt und formuliere die nötige Anbieteranfrage.",
+      "input_files": [],
+      "deliverables": ["kennzeichnung.docx"],
+      "criteria": [
+        {"id": "I1", "text": "Internes Rechtsgutachten wird nicht allein wegen B2B, Vertraulichkeit oder JSON als rein technische Ausgabe beziehungsweise Maschinenkommunikation behandelt.", "deliverables": ["kennzeichnung.docx"]},
+        {"id": "I2", "text": "CAD-Ausnahme wird an sämtliche engen Bedingungen der Randnummer 87 gebunden und als unverbindliche Auslegung bezeichnet, nicht als generelles gesetzliches Privileg.", "deliverables": ["kennzeichnung.docx"]},
+        {"id": "I3", "text": "Keine sichtbare Betreiberkennzeichnung jedes internen Gutachtens allein aus Absatz 2; technische Markierung und nutzbarer Detektionsnachweis werden konkret angefragt.", "deliverables": ["kennzeichnung.docx"]}
+      ]
+    },
+    {
+      "id": "erfundener-sprecher-interne-vorfuehrung",
+      "target_skill": "deepfake-offenlegung",
+      "request": "Erstelle sprecher.docx anhand folgender Beschreibung, ohne eine eigene Sichtprüfung zu behaupten: Ein im September generierter realistischer Sprecher ohne reales Vorbild berichtet scheinbar als Augenzeuge über einen plausiblen Laborversuch. Die internen Teilnehmer könnten die Sequenz für eine echte Aufnahme halten. Der Veranstalter hält sie wegen fehlenden Vorbilds und rein interner Vorführung für kennzeichnungsfrei. Prüfe diese Argumente und liefere einen vorläufig passenden Hinweis. Frage das Video nur für die konkrete Sichtabnahme nach.",
+      "input_files": [],
+      "deliverables": ["sprecher.docx"],
+      "criteria": [
+        {"id": "S1", "text": "Die weite Kommissionsauslegung zu realistischen erfundenen Personen und plausiblen Szenen wird benannt, aber nicht als abschließend gerichtlich geklärter Gesetzesinhalt ausgegeben.", "deliverables": ["sprecher.docx"]},
+        {"id": "S2", "text": "Weder interne Vorführung noch fehlende Täuschungsabsicht begründen automatisch eine Ausnahme; tatsächlicher Echtheitsanschein beim vorhersehbaren Publikum entscheidet.", "deliverables": ["sprecher.docx"]},
+        {"id": "S3", "text": "Verwendbarer bedingter Hinweis und gezielte Sichtnachforderung statt behaupteter Medienprüfung oder bloßer abstrakter Checkliste.", "deliverables": ["sprecher.docx"]}
+      ]
+    },
+    {
+      "id": "markierung-ohne-detektionsweg",
+      "target_skill": "anbieterkennzeichnung-pruefen",
+      "request": "Erstelle detektion.docx als Anbieteranschreiben. Das seit September 2026 vermarktete Textsystem versieht Ausgaben mit einer robusten unsichtbaren Markierung. Der Anbieter hat dafür keine nutzbare Detektionslösung bereitgestellt oder verfügbar gemacht. Er verweist stattdessen auf einen sichtbaren KI-Hinweis des Betreibers und behauptet, nur eine vollständige Herkunftskette sei denkbar. Unterscheide die Anforderungen und fordere gezielt nach; keine eigene technische Abnahme ist erfolgt.",
+      "input_files": [],
+      "deliverables": ["detektion.docx"],
+      "criteria": [
+        {"id": "K1", "text": "Markierung allein wird nicht als ausreichender Nachweis behandelt; verfügbarer Detektionsweg mit für Menschen verständlichem Ergebnis wird angefragt.", "deliverables": ["detektion.docx"]},
+        {"id": "K2", "text": "Weder sichtbarer Betreiberhinweis noch komplette Provenienzkette werden als gesetzlicher Ersatz beziehungsweise zwingende Technik ausgegeben.", "deliverables": ["detektion.docx"]},
+        {"id": "K3", "text": "Keine bestandene technische Prüfung behauptet; Lieferumfang, Zugang und Testausgabe werden konkret benannt.", "deliverables": ["detektion.docx"]}
+      ]
+    },
+    {
+      "id": "altinhalt-nicht-systemuebergang",
+      "target_skill": "rollen-und-anwendungsdatum",
+      "request": "Erstelle termine.docx. Ein synthetisches Video wurde am 20. Juli 2026 erstellt und seitdem nicht verändert. Ein KI-Text öffentlichen Interesses entstand am selben Tag, wurde aber erst am 10. September erstmals veröffentlicht; eine qualifizierte menschliche Kontrolle fand nicht statt. Beide stammen aus einem System, das der Anbieter im Juli nur intern in Betrieb nahm und erst im September vermarktete. Prüfe Inhaltsdaten und Anbieterfrist jeweils getrennt. Nutze bei Abweichung zwischen Norm und Leitlinie den verbindlichen Normtext.",
+      "input_files": [],
+      "deliverables": ["termine.docx"],
+      "criteria": [
+        {"id": "Z1", "text": "Randnummer 154 wird nach Medien und Texten differenziert: keine rückwirkende Medienkennzeichnung, aber keine Alttextausnahme allein wegen des Juli-Entwurfs.", "deliverables": ["termine.docx"]},
+        {"id": "Z2", "text": "Interne Inbetriebnahme begründet nicht automatisch Artikel 111 Absatz 4; dessen Vermarktungsvoraussetzung wird nicht durch Randnummer 153 erweitert.", "deliverables": ["termine.docx"]},
+        {"id": "Z3", "text": "Ausformulierte Einzelentscheidungen statt eines pauschalen Altprodukt- oder Betreiberaufschubs.", "deliverables": ["termine.docx"]}
+      ]
+    },
+    {
+      "id": "erneute-textpruefung-und-clip-ohne-vorspann",
+      "target_skill": "transparenzfreigabe-dokumentieren",
+      "request": "Aktualisiere freigabe.docx. Nach der früheren nur sprachlichen Kontrolle hat der fachkundige verantwortliche Redakteur nun die endgültige Textfassung einschließlich des neuen KI-Absatzes auf Substanz und sämtliche Tatsachen geprüft und dokumentiert; er trägt die redaktionelle Verantwortung. Der Artikel erscheint hinter einer offenen Bezahlschranke zu einem Gesundheitsthema. Ein beigefügter Deepfake-Clip wird zusätzlich ohne den bisherigen kennzeichnenden Vorspann ausgespielt; die Eigenschaft als Deepfake ist unstreitig. Beurteile Text und Clip getrennt und liefere den noch erforderlichen Wortlaut samt Platzierung.",
+      "input_files": [],
+      "deliverables": ["freigabe.docx"],
+      "criteria": [
+        {"id": "N1", "text": "Paywall schließt Öffentlichkeit nicht aus; die nachgereichte qualifizierte Endprüfung kann die Textausnahme wieder tragen, kein dauerhafter Ausschluss wegen früherer Bearbeitung.", "deliverables": ["freigabe.docx"]},
+        {"id": "N2", "text": "Die Textausnahme befreit den Clip nicht. Neue Zuschauer müssen bei erster Exposition einen verständlichen Hinweis wahrnehmen können; entfallener Vorspann wird konkret ersetzt.", "deliverables": ["freigabe.docx"]},
+        {"id": "N3", "text": "Kein pauschal vorgeschriebenes Dauer-Overlay oder erneute Vollabfrage; aktualisierte Entscheidung mit verwendbarem Clip-Hinweis.", "deliverables": ["freigabe.docx"]}
+      ]
+    },
+    {
       "id": "leerer-start-kein-faktendump",
       "target_skill": "transparenzfreigabe-dokumentieren",
       "request": "Ich möchte mit der KI-Transparenzprüfung für unsere Kanzlei anfangen. Einen Ordner habe ich noch nicht bereitgestellt und weiß noch nicht, welches Ergebnis ich brauche. Formuliere nur den passenden kurzen Gesprächseinstieg in einstieg.txt. Erstelle noch kein umfassendes Gutachten und unterstelle keine Systeme oder Veröffentlichungen.",
@@ -160,7 +232,7 @@
     }
   ],
   "prompt_editorial_review": {
-    "date": "2026-09-28",
+    "date": "2026-09-30",
     "method": "desk_review",
     "files": ["ki-verordnung-transparenzpruefer/README.md", "ki-verordnung-transparenzpruefer/ki-verordnung-transparenzpruefer-werkstatt.md", "ki-verordnung-transparenzpruefer/ki-verordnung-transparenzpruefer-schnellstart.md", "ki-verordnung-transparenzpruefer/references/rechtsstand-artikel-50.md", "quality/evals/ki-verordnung-transparenzpruefer.json"],
     "opening_change": "Fassung, Kanal, verantwortliche Organisation und gewünschtes Enddokument entscheiden den Einstieg; Ordnerlektüre vor Rückfragen.",
@@ -171,11 +243,11 @@
     "remaining_limits": ["Desk- und Quellenreview; keine Live-Modellbewertung und kein produktiver Kanzleieinsatz.", "Einzelne EUR-Lex-Direktabrufe durch Bot-Prüfung blockiert; einschlägige Änderungsstellen anhand amtlich indexierter Normtexte abgeglichen.", "Kein vollständiges Datenschutz-, Berufsrechts- oder Medienrechtegutachten; Transparenzentscheidung bleibt begrenzt."]
   },
   "prompt_workflow_review": {
-    "date": "2026-09-28",
+    "date": "2026-09-30",
     "method": "desk_review",
     "opening_modes": ["Klarer Ordnerauftrag: direkt das bestellte Enddokument aus den Originalen erarbeiten.", "Dateien ohne Auftrag: Ergebnisart gezielt klären, keine vollständige Aktenwiedergabe.", "Leerer Start: Kanal und Ergebniswahl, keine erfundenen Daten.", "Fortsetzung: beantwortete Freigabefrage im bestehenden Ergebnis verarbeiten."],
     "continuation": "Nachgereichte Antwort zur bloßen Kommakontrolle ändert die Entscheidung für v4; Produktdatum ändert nur den belegten Anbieterzeitpfad; fehlendes Medium begrenzt allein die visuelle Schlussfreigabe.",
     "enrichment": "Fertige Telefon-/Chattexte, Bildhinweis, konkrete Anbieteranfrage und versionsbezogene Freigabebedingungen statt Wrapper oder Faktendump.",
-    "limits": "desk_review; die neun Ergebnisfälle sind ausführbare Bewertungsaufträge, keine behaupteten bestandenen Modellläufe"
+    "limits": "desk_review; die fünfzehn Ergebnisfälle sind ausführbare Bewertungsaufträge, keine behaupteten bestandenen Modellläufe"
   }
 }

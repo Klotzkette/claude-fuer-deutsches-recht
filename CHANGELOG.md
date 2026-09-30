@@ -1,3 +1,17 @@
+# v445.15.2 - Finale Leitlinien zu Artikel 50 in den Transparenzabläufen
+
+## 1. Konkretisierte Prüfwege
+
+Der Transparenzprüfer verarbeitet die finalen Kommissionsleitlinien vom 20. Juli 2026 in allen acht Fachskills, Werkstatt und Schnellstart. Automatische E-Mail-Dialoge, menschlich versandte Entwürfe, Markierung und Detektion, enge technische Ausnahmen, realistische erfundene Sprecher sowie redaktionelle Endprüfungen erhalten konkrete Nachweis- und Dokumentenwege. Der allgemeine Verordnungsprüfer übernimmt diese Abgrenzungen in seinen beiden Transparenzskills und eigenständigen Prompts.
+
+## 2. Quellen und zeitliche Grenzen
+
+Amtlicher Leitlinienvolltext und einschlägiger Änderungswortlaut wurden am 30. September 2026 abgeglichen. Unverbindliche Auslegung, geltende Norm, freiwilliger Kodex und gerichtliche Entscheidung bleiben getrennt. Altinhalte werden nach Medien und Texten unterschieden; die gesetzliche Anbieterübergangsfrist wird nicht anhand einer weiter formulierten Leitlinienstelle auf bloße interne Inbetriebnahme ausgedehnt. Bestehende Prüfgrenzen anderer Regelungsbereiche bleiben ausdrücklich erhalten.
+
+## 3. Regressionen und eigenständige Nutzung
+
+Sieben zusätzliche Bewertungsaufträge sichern typische Grenzfälle in beiden Prüfprofilen. Strukturtests kontrollieren Quellenkarten, Promptintegrität, Größenlimits und Fallabdeckung; sie werden nicht als bestandene Modellläufe ausgegeben. Beide Schnellstarts bleiben unter 7500 UTF-8-Bytes und enthalten die wesentlichen Prüfmaßstäbe selbst. Die Werkstätten verlinken den amtlichen Volltext unmittelbar. Fallakten, Skillnamen und Installationsstruktur bleiben unverändert; Versionen und Verzeichnisse sind nachgeführt. Die parallele Überarbeitung des Arbeitszeugnisprüfers und die Metadatenkorrekturen des GmbH-Pakets aus Version 445.15.1 sind unverändert übernommen.
+
 # v445.15.1 - Arbeitszeugnisprüfung fachlich und praktisch verfeinert
 
 ## 1. Beweise, Korrekturziel und vollständige Bearbeitung

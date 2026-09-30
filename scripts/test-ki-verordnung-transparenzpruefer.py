@@ -124,7 +124,7 @@ class TransparenzRegression(unittest.TestCase):
 
     def test_workflow_coverage(self):
         cases = {c["id"]: c for c in PROFILE["cases"]}
-        self.assertEqual(len(cases), 9)
+        self.assertEqual(len(cases), 15)
         self.assertEqual({c["target_skill"] for c in cases.values()}, {p.parent.name for p in SKILLS})
         complete = cases["ordnerauftrag-bis-enddokument"]
         self.assertEqual({Path(p).name for p in complete["input_files"]}, {p.name for p in ORIGINALS})
@@ -143,7 +143,61 @@ class TransparenzRegression(unittest.TestCase):
         for record in PROFILE["sources"]:
             host = urlsplit(record["url"]).hostname
             self.assertTrue(host.endswith(".europa.eu") or host == "www.gesetze-im-internet.de")
-            self.assertEqual(record["checked_on"], "2026-09-28")
+            self.assertIn(record["checked_on"], {"2026-09-28", "2026-09-30"})
+
+    def test_final_guideline_edge_case_coverage(self):
+        required = {
+            "email-agent-oder-menschliche-antwort": "chat-und-telefonhinweise",
+            "internes-gutachten-keine-b2b-pauschalausnahme": "anbieterkennzeichnung-pruefen",
+            "erfundener-sprecher-interne-vorfuehrung": "deepfake-offenlegung",
+            "markierung-ohne-detektionsweg": "anbieterkennzeichnung-pruefen",
+            "altinhalt-nicht-systemuebergang": "rollen-und-anwendungsdatum",
+            "erneute-textpruefung-und-clip-ohne-vorspann": "transparenzfreigabe-dokumentieren",
+        }
+        cases = {case["id"]: case for case in PROFILE["cases"]}
+        for case_id, skill in required.items():
+            with self.subTest(case=case_id):
+                case = cases[case_id]
+                self.assertEqual(case["target_skill"], skill)
+                self.assertGreaterEqual(len(case["criteria"]), 3)
+                self.assertEqual(case["input_files"], [])
+                for criterion in case["criteria"]:
+                    self.assertEqual(criterion["deliverables"], case["deliverables"])
+        self.assertIn("keine behaupteten bestandenen Modellläufe", PROFILE["prompt_workflow_review"]["limits"])
+
+    def test_both_plugins_ship_final_guidelines(self):
+        references = {
+            SLUG: "rechtsstand-artikel-50.md",
+            "ki-vo-ai-act-pruefer": "artikel-50-leitlinien-2026.md",
+        }
+        for slug, filename in references.items():
+            with self.subTest(plugin=slug):
+                plugin = ROOT / slug
+                source = (plugin / "references" / filename).read_text()
+                self.assertIn("https://ec.europa.eu/newsroom/dae/redirection/document/131215", source)
+                self.assertIn("153", source)
+                self.assertIn("154", source)
+                self.assertIn("Artikel 111 Absatz 4", source)
+                profile = json.loads((ROOT / "quality/evals" / f"{slug}.json").read_text())
+                validate_profile(profile, slug, plugin, ROOT)
+                for kind, key in (("werkstatt", "workshop_review"), ("schnellstart", "mini_review")):
+                    path = plugin / f"{slug}-{kind}.md"
+                    text = path.read_text()
+                    self.assertIn("131215", text)
+                    self.assertIn("154", text)
+                    self.assertEqual(profile[key]["sha256"], digest(path))
+                    if kind == "schnellstart":
+                        self.assertLessEqual(len(path.read_bytes()), 7500)
+                official = [s for s in profile["sources"] if s["url"].endswith("/131215")]
+                self.assertEqual(len(official), 1)
+                self.assertEqual(official[0]["checked_on"], "2026-09-30")
+
+    def test_short_form_keeps_statutory_quality_standard(self):
+        mini = (PLUGIN / f"{SLUG}-schnellstart.md").read_text()
+        for criterion in ("Wirksamkeit", "Interoperabilität", "Robustheit", "Zuverlässigkeit", "Machbarkeit", "Inhaltsspezifika", "Kosten", "Stand der Technik"):
+            self.assertIn(criterion, mini)
+        reference = (ROOT / "ki-vo-ai-act-pruefer/references/artikel-50-leitlinien-2026.md").read_text()
+        self.assertIn("unabhängig von direkter Interaktion", reference)
 
     def test_original_inventory_and_rubric(self):
         self.assertEqual(len(ORIGINALS), 12)

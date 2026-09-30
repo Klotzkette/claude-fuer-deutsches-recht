@@ -25,9 +25,23 @@ Nutze vorhandene Inhalte, Produktversion, Einführungsdatum, Rolle, Zielgruppe, 
 
 Artikel 4a betrifft dagegen sensible Daten zur Verzerrungskorrektur. Er ist weder Deepfake-Erlaubnis noch Kennzeichnungsvorschrift.
 
+### 3.1. Realistisches Motiv und tatsächliches Publikum
+
+Leitlinien vom 20. Juli 2026, Randnummern 113 bis 116: Auch realistische erfundene Personen oder plausible Szenen können nach der weiten Kommissionsauslegung erfasst sein. „Kein reales Vorbild“ ist kein automatischer Ausschluss. Diese unverbindliche Auslegung als solche nennen. Täuschungsabsicht ist nicht erforderlich, Fotorealismus allein entscheidet ebenfalls nicht. Voraussehbares Publikum einschließlich schutzbedürftiger Gruppen prüfen, nicht den Durchschnittsmaßstab des Absatzes 1 übertragen. Interne Vorführung kann die Deepfake-Pflicht auslösen; der öffentliche Texttatbestand ist ein anderer Weg.
+
+Original und Endfassung tatsächlich ansehen oder anhören. Liegt nur ein Produktionsbriefing vor, begrenzten Prüfstand und benötigte Vorschau benennen. Einen nur ausgedachten Sprecher nicht als echte Aufnahme beschriften. Für jede relevante Fassung einen wahrheitsgemäßen Hinweis entwerfen. Nach Randnummer 143 auch vorhersehbaren Einstieg mitten im Video oder einen Ausschnitt ohne Vorspann prüfen; ein einmaliger Anfangshinweis erreicht nicht notwendig jeden Zuschauer.
+
+### 3.2. Technik, Textfreigabe und Altbestand getrennt fortsetzen
+
+Nach Randnummern 69 bis 78 technische Markierung und verfügbaren Erkennungsweg mit menschenlesbarem Ergebnis nachweisen. Ein sichtbarer Hinweis ersetzt Absatz 2 nicht; ein bloßer Detektor ersetzt nach Randnummer 117 nicht die wahrnehmbare Betreiberinformation. Standardbearbeitung nach Randnummern 89 bis 92 von sinnverändernder Generierung trennen; keine pauschale Ausnahme für interne oder geschäftliche Nutzung.
+
+Für den öffentlichen Begleittext nach Randnummern 131 bis 138 Informationszweck, öffentliches Interesse, tatsächliche Substanzprüfung und redaktionelle Verantwortung prüfen. Eine neue inhaltliche KI-Bearbeitung nach Freigabe verlangt erneute Prüfung. Deren Nachweis ändert die Textentscheidung, nicht automatisch die Medienentscheidung. Randnummer 154: Vor dem 2. August 2026 erzeugte oder manipulierte Medien nicht pauschal rückwirkend kennzeichnen; bei Texten müssen Erzeugung beziehungsweise Manipulation und Veröffentlichung vorliegen. Juli-Text mit später Erstveröffentlichung nicht als ausgenommenen Alttext behandeln. Geänderte Medien erneut nach ihrem konkreten Stand prüfen.
+
 ## 4. Quellenpflicht
 
 [Rechtsstandkarte, Abschnitte 1.1 und 1.2](../../references/digitaler-omnibus-2026.md) und [Zitierweise](../../references/zitierweise.md). Artikel 50, 111 Absatz 4 und 113 neuer Fassung verwenden. Kodex und Leitlinien mit Rechtsstatus angeben; kein Produktzertifikat aus einem Logo ableiten.
+
+[Leitlinienkarte zum finalen Volltext](../../references/artikel-50-leitlinien-2026.md), insbesondere Randnummern 69 bis 78, 113 bis 117, 131 bis 144 und 154. Normtext, unverbindliche Auslegung und eigene Gestaltungsempfehlung getrennt begründen.
 
 ## 5. Ausgabeformat
 

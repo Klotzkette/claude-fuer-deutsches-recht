@@ -1,8 +1,18 @@
 {
   "schema_version": 1,
   "plugin": "ki-vo-ai-act-pruefer",
-  "reviewed_on": "2026-09-23",
+  "reviewed_on": "2026-09-30",
   "sources": [
+    {
+      "url": "https://ec.europa.eu/newsroom/dae/redirection/document/131215",
+      "checked_on": "2026-09-30",
+      "supports": "Finaler PDF-Volltext C(2026) 5054 final: Randnummern 30 bis 40 direkte Interaktion und E-Mail-Agenten; 63 bis 92 Anbieterkennzeichnung, Detektion und enge technische Ausnahmen; 113 bis 138 Deepfakes und Textkontrolle; 143 Erstexposition; 153 bis 154 unterschiedliche System- und Inhaltsdaten. Unverbindliche Auslegung, keine Gerichtsentscheidung."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A32026R1744",
+      "checked_on": "2026-09-30",
+      "supports": "Artikel 111 Absatz 4 anhand amtlich indexierten Normtexts: Inverkehrbringen vor 02.08.2026, keine Ausdehnung auf bloße interne Inbetriebnahme aufgrund Leitlinien-Randnummer 153. Keine erneute Vollprüfung sämtlicher Omnibus-Änderungen behauptet."
+    },
     {
       "url": "https://eur-lex.europa.eu/eli/reg/2026/1744/oj?locale=de",
       "checked_on": "2026-09-14",
@@ -31,13 +41,14 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der Mini trennt Bonitätsbewertung nach Anhang III Nummer 5 Buchstabe b von Artikel 22 DSGVO und der bloßen Anbieterbezeichnung als Entscheidungshilfe. Individueller Text- und Quellenreview, kein Live-Modelltest. Individueller Workflow-Durchgang am 23.09.2026: Eigenbranding oder neue Zweckbeschreibung -> konkrete Rollen-/Anhangsprüfung und Vertragsregel; Vermarktungsdatum -> nur einschlägige Übergangsprüfung und Hinweisempfehlung ändern.",
+    "reason": "Ergänzung am 30.09.2026: Finale Artikel-50-Leitlinien mit automatischer Kommunikation, Anbieterkennzeichnung, Deepfake-/Textabgrenzung und Inhaltsdaten in den eigenständigen Mini eingearbeitet. Die frühere Bonitätsprüfung bleibt erhalten. Individueller Text- und Quellenreview, kein Live-Modelltest.",
     "changes": [
+      "Finale Artikel-50-Leitlinien mit eigenständigen Kommunikationswegen, engen Ausnahmen und gesonderten Inhaltsdaten ergänzt; Quellenreview am 30.09.2026.",
       "Operativen C-634/21-Anker in die Kredit-/Entscheidungsprüfung eingebaut.",
       "Gliederung und Kurzfassung auf die Einstufung statt allgemeinen Rechtsweg ausgerichtet.",
       "Vier eigenständige Eingabemodi und fachbezogene Antwortfortsetzung ergänzt."
     ],
-    "sha256": "392177a8c0c9bb1e739790d184f85b3b08c691985448fcefbadc4cc9e2c55fd3"
+    "sha256": "8a6c71b3ac08d4cbeaae1a4dd48cef897cf28a9d73c3c9ce8a607b5549520be1"
   },
   "selection": {
     "positive": [
@@ -50,6 +61,19 @@
     ]
   },
   "cases": [
+    {
+      "id": "artikel-50-rollenwechsel-und-endkontrolle",
+      "target_skill": "begrenztes-risiko-art-50-transparenzpflichten",
+      "request": "Verfasse transparenz.docx für folgenden begrenzten Auftrag, keine allgemeine Hochrisikoanalyse: Eine Kanzlei veröffentlicht einen KI-Text zum Verbraucherschutz hinter einer für jeden zugänglichen Bezahlschranke. Nach einer substanziellen KI-Änderung wurde die gesamte Endfassung fachkundig auf Aussagen und Tatsachen geprüft; der benannte Redakteur trägt die redaktionelle Verantwortung. Außerdem beantwortet ein Agent Leser-E-Mails selbstständig im Auftrag der Kanzlei; Mitarbeiter können eingreifen, tun dies aber regelmäßig nicht. Der unabhängige Anbieter möchte die technische Markierung wegen interner Nutzung während der Entwurfsphase weglassen. Prüfe getrennt und formuliere den benötigten Hinweis und die Anbieteranfrage.",
+      "input_files": [],
+      "deliverables": ["transparenz.docx"],
+      "criteria": [
+        {"id": "L01", "text": "Bezahlschranke schließt Öffentlichkeit nicht aus; qualifizierte Endkontrolle plus Verantwortung kann die Textausnahme tragen, auch nach erneuter KI-Bearbeitung.", "deliverables": ["transparenz.docx"]},
+        {"id": "L02", "text": "Automatische E-Mail-Interaktion wird nicht wegen theoretischer Eingriffsmöglichkeit als menschlich vermittelt behandelt; der Hinweis nennt künstlichen Charakter und Auftraggeber.", "deliverables": ["transparenz.docx"]},
+        {"id": "L03", "text": "Interner juristischer Entwurf begründet keine pauschale technische Ausnahme; Anbieterpflicht, Interaktionshinweis und öffentliche Textausnahme bleiben getrennt.", "deliverables": ["transparenz.docx"]},
+        {"id": "L04", "text": "Beauftragter Vermerk mit fertigen Texten statt allgemeiner Hochrisikoabfrage; Leitlinien als unverbindlich bezeichnet und keine Veröffentlichung vorgenommen.", "deliverables": ["transparenz.docx"]}
+      ]
+    },
     {
       "id": "altanbieter-keine-betreiber-schonfrist",
       "request": "Erstelle ergebnis.md für eine geplante Veröffentlichung am 20. September 2026. Ein Unternehmen nutzt als Betreiber ein seit Juni 2026 vermarktetes System eines unabhängigen Anbieters für ein synthetisches Sprecher-Video. Der Sprecher ähnelt einer realen Person so, dass das Publikum die Darstellung fälschlich für eine echte Aufnahme halten würde; die Deepfake-Eigenschaft ist für die Aufgabe vorgegeben. Es handelt sich weder um Satire noch um einen gesetzlich zugelassenen Strafverfolgungseinsatz. Andere Rechte sind separat geklärt. Der Anbieter beruft sich auf den Übergang bis Dezember für technische Kennzeichnung. Die Redaktion hat den Text gegengelesen und möchte deshalb keinerlei sichtbaren Hinweis. Beurteile ausschließlich die Transparenzfrage und entwirf einen Hinweis; veröffentliche nichts.",
@@ -87,19 +111,21 @@
     "verdict": "revised",
     "reason": "Die Werkstatt nutzt den SCHUFA-Maßstab nur für die parallele Datenschutzprüfung; Ausnahme für Betrugserkennung und zeitliche Anwendung bleiben eigenständig. Die bezeichneten Anker wurden am amtlichen Entscheidungstext geprüft; keine pauschale Vollverifikation aller Nebenmaterien. Individueller Workflow-Durchgang am 23.09.2026: Funktionsbezogene Rollenprüfung, belastender Gegenbefund bei Scoring, vollständiger Veröffentlichungshinweis und versionsbezogene Nachforderung statt pauschaler Konformitätszusage.",
     "changes": [
+      "Abschnitt 1.3.5 wendet die finalen Artikel-50-Leitlinien auf konkrete Kommunikation, Detektion und Inhaltsdaten an; Quellenreview am 30.09.2026.",
       "Operativen C-634/21-Anker in die Kredit-/Entscheidungsprüfung eingebaut.",
       "Gliederung und Kurzfassung auf die Einstufung statt allgemeinen Rechtsweg ausgerichtet.",
       "Funktionsbezogene Rollenprüfung, belastender Gegenbefund bei Scoring, vollständiger Veröffentlichungshinweis und versionsbezogene Nachforderung statt pauschaler Konformitätszusage."
     ],
-    "sha256": "aaa940d2b312685d92c49c8bb529d1823b752251cbe63c86160971056a926b05"
+    "sha256": "e05d8e365fc0d7bf898f53918ecde6e2170ad5944b12217f9a42a7218c8ba524"
   },
   "prompt_editorial_review": {
-    "date": "2026-09-22",
+    "date": "2026-09-30",
     "method": "desk_review",
     "files": [
       "ki-vo-ai-act-pruefer/README.md",
       "ki-vo-ai-act-pruefer/ki-vo-ai-act-pruefer-werkstatt.md",
       "ki-vo-ai-act-pruefer/ki-vo-ai-act-pruefer-schnellstart.md",
+      "ki-vo-ai-act-pruefer/references/artikel-50-leitlinien-2026.md",
       "quality/evals/ki-vo-ai-act-pruefer.json"
     ],
     "opening_change": "Zweckbestimmung, Verbot, Risikoeinstufung, Akteursrolle und Anwendungsdatum entscheiden.",
@@ -117,6 +143,7 @@
       }
     ],
     "remaining_limits": [
+      "Ergänzung am 30.09.2026: finaler Leitlinienvolltext erneut gelesen und einschlägiger Artikel 111 Absatz 4 amtlich indexiert abgeglichen; frühere Prüfgrenzen anderer Materien bleiben bestehen. Ein zusätzlicher Bewertungsauftrag ist kein bestandener Modelllauf.",
       "Keine gerichtliche Bestätigung der neuen KI-VO-Regeln; Konformitätsverfahren und konkrete Behördenpraxis nicht vollständig neu geprüft.",
       "Desk-/Quellenreview, kein Live-Client- oder Modelltest. Bestehende Auswahl- und Ergebnisfälle unverändert erhalten.",
       "Workflow-Ergänzung am 23.09.2026: desk review; keine Live-Client-Ausführung, keine Installation, Übermittlung oder technische Funktionsprüfung. Bestehende Entscheidungsprüfung vom 22.09.2026 nicht als heutiger Neuabruf ausgegeben.",
@@ -124,7 +151,7 @@
     ]
   },
   "prompt_workflow_review": {
-    "date": "2026-09-23",
+    "date": "2026-09-30",
     "method": "desk_review",
     "opening_modes": [
       "Leere Eingabe: Systemrolle/Risikopfad, synthetische Veröffentlichung oder Anbieternachweise auswählen.",
@@ -132,7 +159,7 @@
       "Klarer Auftrag: direkt Einordnung, Hinweistext oder Vertragsänderung ausarbeiten."
     ],
     "continuation": "Eigenbranding oder neue Zweckbeschreibung -> einordnung.md mit geänderter Rollen-/Anhangsprüfung und Vertragsregel; Vermarktungsdatum -> einschlägige Übergangsprüfung und Hinweistext im bereits bestellten Dokument.",
-    "enrichment": "Funktionsbezogene Rollenprüfung, belastender Gegenbefund bei Scoring, vollständiger Veröffentlichungshinweis und versionsbezogene Nachforderung statt pauschaler Konformitätszusage.",
+    "enrichment": "Funktionsbezogene Rollenprüfung, belastender Gegenbefund bei Scoring, vollständiger Veröffentlichungshinweis und versionsbezogene Nachforderung statt pauschaler Konformitätszusage. Ergänzt: automatische E-Mail-Interaktion, Detektionsnachweis und erneute qualifizierte Endprüfung nach den finalen Leitlinien.",
     "limits": "desk review; no live client execution"
   }
 }

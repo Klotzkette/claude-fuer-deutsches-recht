@@ -85,6 +85,10 @@ Rechtsstand 10. September 2026: Kompetenzförderung, sensible Bias-Daten, Transp
 
 English: The updated workflows distinguish enacted law, future application dates and pending proposals. The reference note identifies official sources and the competent supervisory authority for each route.
 
+Ergänzung vom 30. September 2026: Die [Artikel-50-Leitlinienkarte](references/artikel-50-leitlinien-2026.md) erschließt den finalen Kommissionstext vom 20. Juli mit Randnummern. Die beiden Transparenzskills sowie Werkstatt und Schnellstart prüfen automatische Nachrichten, technische Markierung und Detektion, realistische erfundene Sprecher, öffentliche Texte und Altinhalte. Sie unterscheiden verbindliche Normen von unverbindlicher Auslegung und enden mit einem verwendbaren Hinweis, Vermerk oder Anbieteranschreiben. <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-vo-ai-act-pruefer/references/artikel-50-leitlinien-2026.md" download>Leitlinienkarte als Markdown herunterladen</a>.
+
+English: The Article 50 routes now apply the final July Commission guidelines to concrete communication and publication decisions. Paragraph references, narrow exceptions and separate content dates prevent blanket exemptions for internal use or older systems. This targeted update is not a new review of every other regulatory topic in the plugin.
+
 Für die Einstufung eines konkreten Systems nach Artikel 6 und Anhang III, insbesondere bei Bewerbungsauswahl und abweichender Chatbot-Nutzung durch Mitarbeiter, gibt es den [Hochrisiko-Prüfer](../ki-verordnung-hochrisiko-pruefer/README.md). Für Kennzeichnung, Offenlegung und Information nach Artikel 50 gibt es den [Transparenzprüfer](../ki-verordnung-transparenzpruefer/README.md). Beide enthalten eigene Werkstatt- und Schnellstart-Prompts sowie eine gesonderte Fallakte. Dieses übergreifende Paket bleibt für den vollständigen Regulierungsauftrag einschließlich weiterer Pflichten vorgesehen; für eine begrenzte Frage genügt ein passender Einstieg.
 
 Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlägigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
