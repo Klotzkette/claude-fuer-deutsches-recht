@@ -1,0 +1,589 @@
+{
+  "checked_on": "2026-09-30",
+  "sources": [
+    {
+      "title": "§7 SGB IV",
+      "url": "https://www.gesetze-im-internet.de/sgb_4/__7.html",
+      "accessed": "2026-09-30",
+      "status": "read_primary_source",
+      "sha256": "df3eeea0848d8b1cc9835c869b8f1a1be339a45d04489ba534895af5d9f38f85"
+    },
+    {
+      "title": "§7a SGB IV",
+      "url": "https://www.gesetze-im-internet.de/sgb_4/__7a.html",
+      "accessed": "2026-09-30",
+      "status": "read_primary_source",
+      "sha256": "1e783da5b5ff4e22c36d583fe2bbd0e4ca4d2c3a69f2955191224dd50496de52"
+    },
+    {
+      "title": "§127 SGB IV",
+      "url": "https://www.gesetze-im-internet.de/sgb_4/__127.html",
+      "accessed": "2026-09-30",
+      "status": "read_primary_source",
+      "sha256": "84a660a5de726c4fd8067b2eda688484a1c73bac9f69e4d84d249f140d5df8a1"
+    },
+    {
+      "title": "§25 SGB IV",
+      "url": "https://www.gesetze-im-internet.de/sgb_4/__25.html",
+      "accessed": "2026-09-30",
+      "status": "read_primary_source",
+      "sha256": "e5aa0a3e10907cf68376a236c1cdee7ebb876fc667723b169be45540db085ed1"
+    },
+    {
+      "title": "§28h SGB IV",
+      "url": "https://www.gesetze-im-internet.de/sgb_4/__28h.html",
+      "accessed": "2026-09-30",
+      "status": "read_primary_source",
+      "sha256": "794e9274a90b4c0b033b34f15359efdcd7658dbd0c75f8f751429e6f363e02c7"
+    },
+    {
+      "title": "§28p SGB IV",
+      "url": "https://www.gesetze-im-internet.de/sgb_4/__28p.html",
+      "accessed": "2026-09-30",
+      "status": "read_primary_source",
+      "sha256": "837c9dd7fc83daf9f87c3082f3b09bbb1215cfac09acc74998a97e884477f5d6"
+    },
+    {
+      "title": "§2 SGB VI",
+      "url": "https://www.gesetze-im-internet.de/sgb_6/__2.html",
+      "accessed": "2026-09-30",
+      "status": "read_primary_source",
+      "sha256": "40d9ae6cb3debb95386adb0a4f7a6d610e9b12476b26c12e3419187635664fa0"
+    },
+    {
+      "title": "§190a SGB VI",
+      "url": "https://www.gesetze-im-internet.de/sgb_6/__190a.html",
+      "accessed": "2026-09-30",
+      "status": "read_primary_source",
+      "sha256": "3787c91135f0d49fa18b30ab8f1b25fa9b1f03f2840a68a38c19e8578878b8ca"
+    },
+    {
+      "title": "§84 SGG",
+      "url": "https://www.gesetze-im-internet.de/sgg/__84.html",
+      "accessed": "2026-09-30",
+      "status": "read_primary_source",
+      "sha256": "2a95cdf676b0f6853edc022713dae9153cf11673e547bc0fbabd5c78bea32a7a"
+    },
+    {
+      "title": "§87 SGG",
+      "url": "https://www.gesetze-im-internet.de/sgg/__87.html",
+      "accessed": "2026-09-30",
+      "status": "read_primary_source",
+      "sha256": "e4ae702313cc85e9f28cd0bf035d07acc89bfbc28aad65382d0e2f6c75943612"
+    },
+    {
+      "title": "§86a SGG",
+      "url": "https://www.gesetze-im-internet.de/sgg/__86a.html",
+      "accessed": "2026-09-30",
+      "status": "read_primary_source",
+      "sha256": "cf6dae9ab57cf70420bf21226c690553c5c96bf73104a316d3bf11498bd00221"
+    },
+    {
+      "title": "BSG Urteil28.06.2022 B12 R3/20 R",
+      "url": "https://www.bsg.bund.de/SharedDocs/Downloads/DE/Entscheidungen/2022/2022_06_28_B_12_R_03_20_R.pdf?__blob=publicationFile&v=2",
+      "accessed": "2026-09-30",
+      "status": "read_primary_source",
+      "sha256": "98530c62e380050b8a777322b08529723fc63371ff56ab6d05d3eff7443bb895"
+    },
+    {
+      "title": "BSG Urteil05.11.2024 B12 BA3/23 R",
+      "url": "https://www.bsg.bund.de/SharedDocs/Downloads/DE/Entscheidungen/2024/2024_11_05_B_12_BA_03_23_R.pdf?__blob=publicationFile&v=2",
+      "accessed": "2026-09-30",
+      "status": "read_primary_source",
+      "sha256": "6cf6168355eeb3e90a1c946f97daf72fe4f64895610d61c8bf07fdb6ba017157"
+    },
+    {
+      "title": "BSG Urteil13.11.2025 B12 BA2/23 R",
+      "url": "https://www.bsg.bund.de/SharedDocs/Downloads/DE/Entscheidungen/2025/2025_11_13_B_12_BA_02_23_R.pdf?__blob=publicationFile&v=2",
+      "accessed": "2026-09-30",
+      "status": "read_primary_source",
+      "sha256": "176933abe325c747ca22a91ada6d6bd20a2eee121f18df55ecfa5e09e59608a6"
+    },
+    {
+      "title": "BGBl2026 I107 Art3 Nr2 /Art12",
+      "url": "https://www.recht.bund.de/bgbl/1/2026/107/regelungstext.pdf?__blob=publicationFile&v=2",
+      "accessed": "2026-09-30",
+      "status": "read_primary_source",
+      "sha256": "1d9bc5b1d6074084c868591cfe429f3517417056a281350dc238878d48bcdcdf"
+    },
+    {
+      "title": "LSG BW Urteil17.12.2021 L8 BA1374/20",
+      "url": "https://www.sozialgerichtsbarkeit.de/api/public/entscheidungen/170812",
+      "accessed": "2026-09-30",
+      "status": "read_primary_source",
+      "sha256": "d4b773e7eed128093e2abf448c5704bd1304d415edc864921035f43a7727d0c1"
+    },
+    {
+      "title": "NRW Lehrauftragsrichtlinie21.09.2026",
+      "url": "https://recht.nrw.de/mbnrw/2026-271/",
+      "accessed": "2026-09-30",
+      "status": "read_primary_source",
+      "sha256": null
+    },
+    {
+      "id": "gmbh-2018",
+      "type": "court_fulltext",
+      "court": "BSG",
+      "decision_type": "Urteil",
+      "date": "2018-03-14",
+      "file_number": "B 12 KR 13/17 R",
+      "paragraphs": "18–24",
+      "url": "https://www.bsg.bund.de/SharedDocs/Downloads/DE/Entscheidungen/2018/2018_03_14_B_12_KR_13_17_R.pdf?__blob=publicationFile&v=3",
+      "verified": "direct_official_pdf_http200",
+      "sha256": "76c4b29cdcf2dad81850636859bfd2acae77387679a213bfde2fcebf60653d7a",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "id": "treuhand-2019",
+      "type": "court_fulltext",
+      "court": "BSG",
+      "decision_type": "Urteil",
+      "date": "2019-12-10",
+      "file_number": "B 12 KR 9/18 R",
+      "paragraphs": "17–32",
+      "url": "https://www.bsg.bund.de/SharedDocs/Downloads/DE/Entscheidungen/2019/2019_12_10_B_12_KR_09_18_R.pdf?__blob=publicationFile&v=3",
+      "verified": "direct_official_pdf_http200",
+      "sha256": "7a2f2bb297b00567b7be83e29f9bffff44fd6eefb7c9a887cae4acc7726a5559",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "id": "mittelbar-2024",
+      "type": "court_fulltext",
+      "court": "BSG",
+      "decision_type": "Urteil",
+      "date": "2024-02-20",
+      "file_number": "B 12 KR 1/22 R",
+      "paragraphs": "17–23",
+      "url": "https://www.bsg.bund.de/SharedDocs/Downloads/DE/Entscheidungen/2024/2024_02_20_B_12_KR_01_22_R.pdf?__blob=publicationFile&v=3",
+      "verified": "direct_official_pdf_http200",
+      "sha256": "d27c8f8980c91163e0533be0d07f1285486b26b450623775fd65caabed55c9a1",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "id": "mittelbar-2021",
+      "type": "court_fulltext",
+      "court": "BSG",
+      "decision_type": "Urteil",
+      "date": "2021-02-23",
+      "file_number": "B 12 R 18/18 R",
+      "paragraphs": "18–23",
+      "url": "https://www.bsg.bund.de/SharedDocs/Downloads/DE/Entscheidungen/2021/2021_02_23_B_12_R_18_18_R.pdf?__blob=publicationFile&v=3",
+      "verified": "direct_official_pdf_http200",
+      "sha256": "164b7e65993f37639f276df40bbd84448cbd2aa1d2a8f51c72a4cdf813a9448e",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "id": "sperr-2022",
+      "type": "court_fulltext",
+      "court": "BSG",
+      "decision_type": "Urteil",
+      "date": "2022-02-01",
+      "file_number": "B 12 KR 37/19 R",
+      "paragraphs": "13–22",
+      "url": "https://www.bsg.bund.de/SharedDocs/Downloads/DE/Entscheidungen/2022/2022_02_01_B_12_KR_37_19_R.pdf?__blob=publicationFile&v=3",
+      "verified": "direct_official_pdf_http200",
+      "sha256": "27590def598b2a4a985aa41d8a436ebee53b3fbe649f320cefc040094326fac9",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "id": "treuhaender-2020",
+      "type": "court_fulltext",
+      "court": "BSG",
+      "decision_type": "Urteil",
+      "date": "2020-05-12",
+      "file_number": "B 12 KR 30/19 R",
+      "paragraphs": "17–29",
+      "url": "https://www.bsg.bund.de/SharedDocs/Downloads/DE/Entscheidungen/2020/2020_05_12_B_12_KR_30_19_R.pdf?__blob=publicationFile&v=3",
+      "verified": "direct_official_pdf_http200",
+      "sha256": "0fbe80feac3f6ce869eef0bb26bf752363593a67b2b8f75092f6b90c1ef28f47",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "id": "gmbh-reg-2024",
+      "type": "court_fulltext",
+      "court": "BSG",
+      "decision_type": "Urteil",
+      "date": "2024-02-20",
+      "file_number": "B 12 KR 3/22 R",
+      "paragraphs": "23–33",
+      "url": "https://www.bsg.bund.de/SharedDocs/Downloads/DE/Entscheidungen/2024/2024_02_20_B_12_KR_03_22_R.pdf?__blob=publicationFile&v=3",
+      "verified": "direct_official_pdf_http200",
+      "sha256": "dd0c05f2906dbdbea92d504f87f2f84cb4a28573b6d22dc3df5a015592a39b1f",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "id": "sperrzeit-2022",
+      "type": "court_fulltext",
+      "court": "BSG",
+      "decision_type": "Urteil",
+      "date": "2022-03-29",
+      "file_number": "B 12 KR 1/20 R",
+      "paragraphs": "20–32",
+      "url": "https://www.bsg.bund.de/SharedDocs/Downloads/DE/Entscheidungen/2022/2022_03_29_B_12_KR_01_20_R.pdf?__blob=publicationFile&v=3",
+      "verified": "direct_official_pdf_http200",
+      "sha256": "9f087c02a6dc2ae619980302099ab74a5a094cc4dd264e088ffc54f36bc51e0a",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "id": "mittelbar-2020",
+      "type": "court_fulltext",
+      "court": "BSG",
+      "decision_type": "Urteil",
+      "date": "2020-07-08",
+      "file_number": "B 12 R 26/18 R",
+      "paragraphs": "15–20",
+      "url": "https://www.bsg.bund.de/SharedDocs/Downloads/DE/Entscheidungen/2020/2020_07_08_B_12_R_26_18_R.pdf?__blob=publicationFile&v=3",
+      "verified": "direct_official_pdf_http200",
+      "sha256": "202832b95972e80b72b1e9b744dfeadd887cdacbbea8fb6ebd46b82e36b1cd9a",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "id": "stimm-2020",
+      "type": "court_fulltext",
+      "court": "BSG",
+      "decision_type": "Urteil",
+      "date": "2020-07-07",
+      "file_number": "B 12 R 17/18 R",
+      "paragraphs": "22–26",
+      "url": "https://www.bsg.bund.de/SharedDocs/Downloads/DE/Entscheidungen/2020/2020_07_07_B_12_R_17_18_R.pdf?__blob=publicationFile&v=3",
+      "verified": "direct_official_pdf_http200",
+      "sha256": "ae983306f0c95d00c8d6f5b43e73e3375a21a52660b4c866f33bf8b51930ebf9",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "id": "gesellschafterliste-2023",
+      "type": "court_fulltext",
+      "court": "BSG",
+      "decision_type": "Urteil",
+      "date": "2023-03-13",
+      "file_number": "B 12 R 4/21 R",
+      "paragraphs": "16–19,23–29",
+      "url": "https://www.bsg.bund.de/SharedDocs/Downloads/DE/Entscheidungen/2023/2023_03_13_B_12_R_04_21_R.pdf?__blob=publicationFile&v=3",
+      "verified": "direct_official_pdf_http200",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "id": "ag-lsg-2013",
+      "url": "https://gerichtsentscheidungen.brandenburg.de/gerichtsentscheidung/16490",
+      "type": "court_fulltext_no_official_paragraph_numbers",
+      "verified": "official_web_content",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "id": "aufsichtsrat-lsg-2015",
+      "url": "https://gerichtsentscheidungen.brandenburg.de/gerichtsentscheidung/4447",
+      "type": "court_fulltext_no_official_paragraph_numbers",
+      "verified": "official_web_content",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "id": "ag-kbs",
+      "url": "https://www.kbs.de/SharedDocs/SV_AZ/v/Vorstandsmitglieder_einer_AG.html",
+      "type": "administrative_guidance",
+      "verified": "official_web_content",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "id": "sgb6-1",
+      "url": "https://www.gesetze-im-internet.de/sgb_6/__1.html",
+      "type": "statute",
+      "verified": "official_web_content",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "id": "sgb3-27",
+      "url": "https://www.gesetze-im-internet.de/sgb_3/__27.html",
+      "type": "statute",
+      "verified": "official_web_content",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "id": "gmbhg54",
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__54.html",
+      "type": "statute",
+      "verified": "official_web_content",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "id": "aktg113",
+      "url": "https://www.gesetze-im-internet.de/aktg/__113.html",
+      "type": "statute",
+      "verified": "official_web_content",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "id": "aktg111",
+      "url": "https://www.gesetze-im-internet.de/aktg/__111.html",
+      "type": "statute",
+      "verified": "official_web_content",
+      "retrieved": "2026-09-30"
+    },
+    {
+      "id": "B01",
+      "url": "https://www.gesetze-im-internet.de/sgb_4/__7.html",
+      "provider_type": "official",
+      "verification": "web_open_full_text",
+      "note": "Relevanter Inhalt unmittelbar im Webwerkzeug geöffnet."
+    },
+    {
+      "id": "B02",
+      "url": "https://www.gesetze-im-internet.de/sgb_5/BJNR024820988.html",
+      "provider_type": "official",
+      "verification": "web_open_full_text",
+      "note": "Relevanter Inhalt unmittelbar im Webwerkzeug geöffnet."
+    },
+    {
+      "id": "B03",
+      "url": "https://www.gesetze-im-internet.de/sgb_5/__6.html",
+      "provider_type": "official",
+      "verification": "web_open_full_text",
+      "note": "Relevanter Inhalt unmittelbar im Webwerkzeug geöffnet."
+    },
+    {
+      "id": "B04",
+      "url": "https://www.gesetze-im-internet.de/sgb_11/__20.html",
+      "provider_type": "official",
+      "verification": "web_open_full_text",
+      "note": "Relevanter Inhalt unmittelbar im Webwerkzeug geöffnet."
+    },
+    {
+      "id": "B05",
+      "url": "https://www.gesetze-im-internet.de/sgb_11/__22.html",
+      "provider_type": "official",
+      "verification": "web_open_full_text",
+      "note": "Relevanter Inhalt unmittelbar im Webwerkzeug geöffnet."
+    },
+    {
+      "id": "B06",
+      "url": "https://www.gesetze-im-internet.de/sgb_11/BJNR101500994.html",
+      "provider_type": "official",
+      "verification": "web_search_expanded_source_extract",
+      "note": "Direktabrufe teilweise technisch nicht möglich; Suchauszüge stammen vom genannten amtlichen Anbieter."
+    },
+    {
+      "id": "B07",
+      "url": "https://www.gesetze-im-internet.de/sgb_6/__1.html",
+      "provider_type": "official",
+      "verification": "web_open_full_text",
+      "note": "Relevanter Inhalt unmittelbar im Webwerkzeug geöffnet."
+    },
+    {
+      "id": "B08",
+      "url": "https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html",
+      "provider_type": "official",
+      "verification": "web_search_expanded_source_extract",
+      "note": "Direktabrufe teilweise technisch nicht möglich; Suchauszüge stammen vom genannten amtlichen Anbieter."
+    },
+    {
+      "id": "B09",
+      "url": "https://www.gesetze-im-internet.de/sgb_3/__27.html",
+      "provider_type": "official",
+      "verification": "web_open_full_text",
+      "note": "Relevanter Inhalt unmittelbar im Webwerkzeug geöffnet."
+    },
+    {
+      "id": "B10",
+      "url": "https://www.gesetze-im-internet.de/sgb_3/__28a.html",
+      "provider_type": "official",
+      "verification": "web_search_expanded_source_extract",
+      "note": "Direktabrufe teilweise technisch nicht möglich; Suchauszüge stammen vom genannten amtlichen Anbieter."
+    },
+    {
+      "id": "B11",
+      "url": "https://www.gesetze-im-internet.de/sgb_7/__2.html",
+      "provider_type": "official",
+      "verification": "web_open_full_text",
+      "note": "Relevanter Inhalt unmittelbar im Webwerkzeug geöffnet."
+    },
+    {
+      "id": "B12",
+      "url": "https://www.gesetze-im-internet.de/sgb_7/__3.html",
+      "provider_type": "official",
+      "verification": "web_open_full_text",
+      "note": "Relevanter Inhalt unmittelbar im Webwerkzeug geöffnet."
+    },
+    {
+      "id": "B13",
+      "url": "https://www.gesetze-im-internet.juris.de/sgb_7/BJNR125410996.html",
+      "provider_type": "official",
+      "verification": "web_search_expanded_source_extract",
+      "note": "Direktabrufe teilweise technisch nicht möglich; Suchauszüge stammen vom genannten amtlichen Anbieter."
+    },
+    {
+      "id": "B14",
+      "url": "https://www.gesetze-im-internet.de/sgb_7/__150.html",
+      "provider_type": "official",
+      "verification": "web_open_full_text",
+      "note": "Relevanter Inhalt unmittelbar im Webwerkzeug geöffnet."
+    },
+    {
+      "id": "B15",
+      "url": "https://www.gesetze-im-internet.de/sgb_6/__6.html",
+      "provider_type": "official",
+      "verification": "web_open_full_text",
+      "note": "Relevanter Inhalt unmittelbar im Webwerkzeug geöffnet."
+    },
+    {
+      "id": "B16",
+      "url": "https://www.deutsche-rentenversicherung.de/DRV/DE/Ueber-uns-und-Presse/Presse/Meldungen/2022/221206_befreiung_vp_mitglieder_berufsstaend_einr.html",
+      "provider_type": "official",
+      "verification": "web_search_expanded_source_extract",
+      "note": "Direktabrufe teilweise technisch nicht möglich; Suchauszüge stammen vom genannten amtlichen Anbieter."
+    },
+    {
+      "id": "B17",
+      "url": "https://www.gesetze-im-internet.de/brao/BJNR005650959.html",
+      "provider_type": "official",
+      "verification": "web_search_expanded_source_extract",
+      "note": "Direktabrufe teilweise technisch nicht möglich; Suchauszüge stammen vom genannten amtlichen Anbieter."
+    },
+    {
+      "id": "B18",
+      "url": "https://www.gesetze-im-internet.de/brao/__46a.html",
+      "provider_type": "official",
+      "verification": "web_open_full_text",
+      "note": "Relevanter Inhalt unmittelbar im Webwerkzeug geöffnet."
+    },
+    {
+      "id": "B19",
+      "url": "https://www.gesetze-im-internet.de/brao/__46b.html",
+      "provider_type": "official",
+      "verification": "web_open_full_text",
+      "note": "Relevanter Inhalt unmittelbar im Webwerkzeug geöffnet."
+    },
+    {
+      "id": "B20",
+      "url": "https://rvrecht.deutsche-rentenversicherung.de/SharedDocs/rvRecht/01_GRA_SGB/06_SGB_VI/pp_0001_25/gra_sgb006_p_0006.html?nn=1503676",
+      "provider_type": "official",
+      "verification": "web_search_expanded_source_extract",
+      "note": "Direktabrufe teilweise technisch nicht möglich; Suchauszüge stammen vom genannten amtlichen Anbieter."
+    },
+    {
+      "id": "B21",
+      "url": "https://www.bsg.bund.de/SharedDocs/Downloads/DE/Entscheidungen/2021/2021_06_16_B_05_RE_04_20_R.pdf?__blob=publicationFile&v=4",
+      "provider_type": "official",
+      "verification": "web_search_expanded_source_extract",
+      "note": "Direktabrufe teilweise technisch nicht möglich; Suchauszüge stammen vom genannten amtlichen Anbieter."
+    },
+    {
+      "id": "B22",
+      "url": "https://www.deutsche-rentenversicherung.de/DRV/DE/Experten/Arbeitgeber-und-Steuerberater/summa-summarum/Lexikon/S/syndikusrechtsanw%C3%A4lte",
+      "provider_type": "official",
+      "verification": "web_search_expanded_source_extract",
+      "note": "Direktabrufe teilweise technisch nicht möglich; Suchauszüge stammen vom genannten amtlichen Anbieter."
+    },
+    {
+      "id": "B23",
+      "url": "https://www.gesetze-im-internet.de/sgb_6/__172a.html",
+      "provider_type": "official",
+      "verification": "web_open_full_text",
+      "note": "Relevanter Inhalt unmittelbar im Webwerkzeug geöffnet."
+    },
+    {
+      "id": "B24",
+      "url": "https://www.gesetze-im-internet.de/ksvg/__1.html",
+      "provider_type": "official",
+      "verification": "web_open_full_text",
+      "note": "Relevanter Inhalt unmittelbar im Webwerkzeug geöffnet."
+    },
+    {
+      "id": "B25",
+      "url": "https://www.gesetze-im-internet.de/ksvg/__2.html",
+      "provider_type": "official",
+      "verification": "web_open_full_text",
+      "note": "Relevanter Inhalt unmittelbar im Webwerkzeug geöffnet."
+    },
+    {
+      "id": "B26",
+      "url": "https://www.gesetze-im-internet.de/ksvg/__3.html",
+      "provider_type": "official",
+      "verification": "web_open_full_text",
+      "note": "Relevanter Inhalt unmittelbar im Webwerkzeug geöffnet."
+    },
+    {
+      "id": "B27",
+      "url": "https://www.gesetze-im-internet.de/sgb_5/__9.html",
+      "provider_type": "official",
+      "verification": "web_open_full_text",
+      "note": "Relevanter Inhalt unmittelbar im Webwerkzeug geöffnet."
+    },
+    {
+      "id": "B28",
+      "url": "https://www.gesetze-im-internet.de/sgb_5/__240.html",
+      "provider_type": "official",
+      "verification": "web_open_full_text",
+      "note": "Relevanter Inhalt unmittelbar im Webwerkzeug geöffnet."
+    },
+    {
+      "id": "B29",
+      "url": "https://rvrecht.deutsche-rentenversicherung.de/SharedDocs/rvRecht/01_GRA_SGB/06_SGB_VI/pp_0001_25/gra_sgb006_p_0001.html",
+      "provider_type": "official",
+      "verification": "web_search_expanded_source_extract",
+      "note": "Direktabrufe teilweise technisch nicht möglich; Suchauszüge stammen vom genannten amtlichen Anbieter."
+    },
+    {
+      "id": "B30",
+      "url": "https://www.gesetze-im-internet.de/svbezgrv_2026/__5.html",
+      "provider_type": "official",
+      "verification": "web_open_full_text",
+      "note": "Relevanter Inhalt unmittelbar im Webwerkzeug geöffnet."
+    },
+    {
+      "id": "B31",
+      "url": "https://www.gesetze-im-internet.de/svbezgrv_2026/__4.html",
+      "provider_type": "official",
+      "verification": "web_open_full_text",
+      "note": "Relevanter Inhalt unmittelbar im Webwerkzeug geöffnet."
+    },
+    {
+      "id": "B32",
+      "url": "https://www.bmas.de/DE/Service/Gesetze-und-Gesetzesvorhaben/sozialversicherungs-rechengroessenverordnung-2026.html",
+      "provider_type": "official",
+      "verification": "web_open_full_text",
+      "note": "Relevanter Inhalt unmittelbar im Webwerkzeug geöffnet."
+    },
+    {
+      "id": "B33",
+      "url": "https://www.deutsche-rentenversicherung.de/KnappschaftBahnSee/DE/Aktuelles/Meldungen/2026/2026_01_02_Sozialversicherungsrechengroessen2026.html",
+      "provider_type": "official",
+      "verification": "web_search_expanded_source_extract",
+      "note": "Direktabrufe teilweise technisch nicht möglich; Suchauszüge stammen vom genannten amtlichen Anbieter."
+    },
+    {
+      "id": "B34",
+      "url": "https://www.bundesgesundheitsministerium.de/beitraege",
+      "provider_type": "official",
+      "verification": "web_search_expanded_source_extract",
+      "note": "Direktabrufe teilweise technisch nicht möglich; Suchauszüge stammen vom genannten amtlichen Anbieter."
+    },
+    {
+      "id": "B35",
+      "url": "https://www.bundesgesundheitsministerium.de/themen/pflege/online-ratgeber-pflege/die-pflegeversicherung/finanzierung",
+      "provider_type": "official",
+      "verification": "web_search_expanded_source_extract",
+      "note": "Direktabrufe teilweise technisch nicht möglich; Suchauszüge stammen vom genannten amtlichen Anbieter."
+    },
+    {
+      "id": "B36",
+      "url": "https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/5_Publikationen/Pflege/Broschueren/BMG_Ratgeber_Pflege.pdf",
+      "provider_type": "official",
+      "verification": "web_search_expanded_source_extract",
+      "note": "Direktabrufe teilweise technisch nicht möglich; Suchauszüge stammen vom genannten amtlichen Anbieter."
+    },
+    {
+      "id": "B37",
+      "url": "https://www.deutsche-rentenversicherung.de/BerlinBrandenburg/DE/Services/Firmenservice/newsletter_firmenservices/Newsletter_Inhalte/Newsletter_2026_2",
+      "provider_type": "official",
+      "verification": "web_search_expanded_source_extract",
+      "note": "Direktabrufe teilweise technisch nicht möglich; Suchauszüge stammen vom genannten amtlichen Anbieter."
+    },
+    {
+      "id": "bsg-terminbericht-24-2026",
+      "type": "official_court_report",
+      "url": "https://www.bsg.bund.de/SharedDocs/Downloads/DE/Terminberichte/2026/2026_24_Terminbericht.pdf?__blob=publicationFile&v=2",
+      "checked_on": "2026-09-30",
+      "verified": "direct_official_pdf_http200_read_full",
+      "sha256": "3732cbd7d1f4a8641c0e7e2c9321bd68c97534c070026ba6418e75b41f9f5b17"
+    }
+  ]
+}

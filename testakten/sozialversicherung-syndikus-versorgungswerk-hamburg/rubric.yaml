@@ -1,0 +1,25 @@
+{
+  "name": "sozialversicherung-syndikus-versorgungswerk-hamburg",
+  "plugin": "sozialversicherungspflicht-pruefer",
+  "description": "Strukturprüfung der nativen Akte; fachliche Ergebnisprüfung erfolgt gesondert.",
+  "checks": [
+    {
+      "id": "native-vertragsgrundlage",
+      "check_type": "file_exists",
+      "description": "Die Vertragsgrundlage liegt als bearbeitbare Worddatei vor.",
+      "path": "02_Personalangaben_Ahrens.docx"
+    },
+    {
+      "id": "gesamte-lesefassung",
+      "check_type": "file_exists",
+      "description": "Die zusammengeführte PDF-Lesefassung liegt neben den Originalen vor.",
+      "path": "gesamt-pdf/sozialversicherung-syndikus-versorgungswerk-hamburg_gesamt.pdf"
+    },
+    {
+      "id": "bearbeitbare-tabelle",
+      "check_type": "file_exists",
+      "description": "Die bearbeitbare Excelmappe mit den Aktenzahlen ist vorhanden.",
+      "path": "19_Zahlungen_und_Kanzlei.xlsx"
+    }
+  ]
+}

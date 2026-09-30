@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Rosenquell//Termin//DE
+BEGIN:VEVENT
+UID:sv-erfurt-20261007@kanzlei-rosenquell.example
+DTSTAMP:20260929T142000Z
+DTSTART:20261007T080000Z
+DTEND:20261007T090000Z
+SUMMARY:Besprechung Geschäftsführung und Abrechnung
+LOCATION:Videokonferenz
+DESCRIPTION:Besprechung der übergebenen Unterlagen. Noch keine Antragstellung.
+END:VEVENT
+END:VCALENDAR

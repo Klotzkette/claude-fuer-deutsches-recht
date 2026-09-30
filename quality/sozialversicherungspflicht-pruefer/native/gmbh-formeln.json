@@ -1,0 +1,102 @@
+[
+  {
+    "file": "testakten/sozialversicherung-gmbh-zwanzig-prozent-berlin/14_Anteilsuebersicht.xlsx",
+    "variant": "original",
+    "engine": "bundled-runtime/dependencies/native/libreoffice-headless/libreoffice/LibreOfficeDev.app/Contents/MacOS/soffice",
+    "formulas": 11,
+    "outputs": {
+      "sum": 30000,
+      "totalShare": 1,
+      "firstShare": 0.2
+    },
+    "passed": true
+  },
+  {
+    "file": "testakten/sozialversicherung-gmbh-zwanzig-prozent-berlin/14_Anteilsuebersicht.xlsx",
+    "variant": "mutation",
+    "engine": "bundled-runtime/dependencies/native/libreoffice-headless/libreoffice/LibreOfficeDev.app/Contents/MacOS/soffice",
+    "formulas": 11,
+    "outputs": {
+      "sum": 30100,
+      "totalShare": 1,
+      "firstShare": 0.20265780730897
+    },
+    "passed": true
+  },
+  {
+    "file": "testakten/sozialversicherung-gmbh-zwanzig-prozent-berlin/15_Verguetungen_2025_2026.xlsx",
+    "variant": "original",
+    "engine": "bundled-runtime/dependencies/native/libreoffice-headless/libreoffice/LibreOfficeDev.app/Contents/MacOS/soffice",
+    "formulas": 24,
+    "outputs": {
+      "D5": 6200,
+      "D27": 74400,
+      "D28": 61200,
+      "D29": 135600
+    },
+    "passed": true
+  },
+  {
+    "file": "testakten/sozialversicherung-gmbh-zwanzig-prozent-berlin/15_Verguetungen_2025_2026.xlsx",
+    "variant": "mutation",
+    "engine": "bundled-runtime/dependencies/native/libreoffice-headless/libreoffice/LibreOfficeDev.app/Contents/MacOS/soffice",
+    "formulas": 24,
+    "outputs": {
+      "D5": 6300,
+      "D27": 74500,
+      "D28": 61200,
+      "D29": 135700
+    },
+    "passed": true
+  },
+  {
+    "file": "testakten/sozialversicherung-gmbh-fuenfzig-prozent-erfurt/14_Anteilsuebersicht.xlsx",
+    "variant": "original",
+    "engine": "bundled-runtime/dependencies/native/libreoffice-headless/libreoffice/LibreOfficeDev.app/Contents/MacOS/soffice",
+    "formulas": 4,
+    "outputs": {
+      "sum": 50000,
+      "totalShare": 1,
+      "firstShare": 0.5
+    },
+    "passed": true
+  },
+  {
+    "file": "testakten/sozialversicherung-gmbh-fuenfzig-prozent-erfurt/14_Anteilsuebersicht.xlsx",
+    "variant": "mutation",
+    "engine": "bundled-runtime/dependencies/native/libreoffice-headless/libreoffice/LibreOfficeDev.app/Contents/MacOS/soffice",
+    "formulas": 4,
+    "outputs": {
+      "sum": 50100,
+      "totalShare": 1,
+      "firstShare": 0.500998003992016
+    },
+    "passed": true
+  },
+  {
+    "file": "testakten/sozialversicherung-gmbh-fuenfzig-prozent-erfurt/15_Verguetungen_2025_2026.xlsx",
+    "variant": "original",
+    "engine": "bundled-runtime/dependencies/native/libreoffice-headless/libreoffice/LibreOfficeDev.app/Contents/MacOS/soffice",
+    "formulas": 24,
+    "outputs": {
+      "D5": 6500,
+      "D27": 78000,
+      "D28": 64800,
+      "D29": 142800
+    },
+    "passed": true
+  },
+  {
+    "file": "testakten/sozialversicherung-gmbh-fuenfzig-prozent-erfurt/15_Verguetungen_2025_2026.xlsx",
+    "variant": "mutation",
+    "engine": "bundled-runtime/dependencies/native/libreoffice-headless/libreoffice/LibreOfficeDev.app/Contents/MacOS/soffice",
+    "formulas": 24,
+    "outputs": {
+      "D5": 6600,
+      "D27": 78100,
+      "D28": 64800,
+      "D29": 142900
+    },
+    "passed": true
+  }
+]

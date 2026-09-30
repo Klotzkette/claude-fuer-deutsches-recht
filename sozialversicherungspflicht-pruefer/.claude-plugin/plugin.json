@@ -1,0 +1,19 @@
+{
+  "name": "sozialversicherungspflicht-pruefer",
+  "version": "445.16.0",
+  "description": "Sozialversicherungspflicht in Deutschland: zehn Skills für Beschäftigungsstatus, Geschäftsführer, Lehrkräfte, freie Mitarbeit, Versorgungswerke, einzelne Versicherungszweige und Beiträge. Mit eigenständiger Werkstatt, Mini-Prompt und sechs ausführlichen Fallakten.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Klotzkette",
+    "email": "39582916+Klotzkette@users.noreply.github.com"
+  },
+  "homepage": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/sozialversicherungspflicht-pruefer",
+  "keywords": [
+    "sozialversicherung",
+    "statusfeststellung",
+    "geschaeftsfuehrer",
+    "versorgungswerk",
+    "lehrkraefte",
+    "beitraege"
+  ]
+}

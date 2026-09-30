@@ -1,0 +1,372 @@
+{
+  "schema_version": 1,
+  "plugin": "sozialversicherungspflicht-pruefer",
+  "reviewed_on": "2026-09-30",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/sgb_4/__7a.html",
+      "checked_on": "2026-09-30",
+      "supports": "Statusgegenstand, Verfahrensbeginn, Rechtsbehelf und Befristung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/sgb_4/__127.html",
+      "checked_on": "2026-09-30",
+      "supports": "Verlängerung bis Ende 2027 und eigenständige Folgen für Lehrer-Rentenversicherung und KSVG."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/sgb_6/__6.html",
+      "checked_on": "2026-09-30",
+      "supports": "Tätigkeitsbezogene Befreiung, Antrag und Wirkung."
+    },
+    {
+      "url": "https://www.bsg.bund.de/SharedDocs/Downloads/DE/Terminberichte/2026/2026_24_Terminbericht.pdf?__blob=publicationFile&v=2",
+      "checked_on": "2026-09-30",
+      "supports": "Amtlicher Bericht, insbesondere Nummern 3, 4 und 5; keine Urteilsrandnummern."
+    },
+    {
+      "url": "https://rvrecht.deutsche-rentenversicherung.de/SharedDocs/rvRecht/01_GRA_SGB/06_SGB_VI/pp_0001_25/gra_sgb006_p_0006.html",
+      "checked_on": "2026-09-30",
+      "supports": "Verwaltungspraxis, Stand 12.08.2026, zu Arbeitgeberwechsel und Übernahmeverträgen."
+    }
+  ],
+  "selection": {
+    "target_skill": "sozialversicherungspflicht-pruefen",
+    "positive": [
+      "Prüfe meinen Geschäftsführerstatus und die Beiträge in allen deutschen Versicherungszweigen.",
+      "Prüfe die Sozialversicherung unserer Musikdozentin und ihre Zustimmung zum Lehrkräfteübergang.",
+      "Gilt meine RV-Befreiung nach einem Arbeitgeberwechsel weiter?"
+    ],
+    "negative": [
+      "Erstelle eine deutsche GmbH-Gründungssatzung ohne Sozialversicherungsprüfung.",
+      "Prüfe einen ausschließlich österreichischen Sozialversicherungsfall.",
+      "Berechne ausschließlich meine Einkommensteuer ohne Versicherungsfrage."
+    ]
+  },
+  "cases": [
+    {
+      "id": "minderheit-und-gegenstandskatalog",
+      "target_skill": "geschaeftsfuehrer-und-gesellschaftermacht",
+      "request": "Prüfen Sie bitte meine Stellung: Ich bin Geschäftsführerin einer deutschen Gmb H, halte 20 Prozent mit entsprechenden Stimmen, die anderen halten 55 und 25. Grundstückskäufe und Satzungsänderungen brauchen mindestens 85 Prozent sämtlicher Stimmen. Sonst gilt einfache Mehrheit; zusätzliche Sonderrechte gibt es in der vollständigen Satzung nicht. Alle haben ein Shareholder Agreement unterschrieben, nach dem sie mich nicht überstimmen wollen. Die laufende Tätigkeit begann im Januar 2026. Ich möchte einen kurzen Mandantenbrief, ob ich deshalb keine Sozialversicherung zahlen muss.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Der 85-Prozent-Katalog ermöglicht mit 20 Prozent dort eine Blockade, begründet aber keine umfassende Verhinderung von Weisungen. Die schuldrechtliche Stimmbindung bleibt getrennt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Kein pauschales Freistellungsergebnis für sämtliche Zweige: Beschäftigung, Entgelt und weitere Versicherungs- und Befreiungsfragen unterscheiden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Verwendbarer Brief mit konkreten Belegen und Annahmen; keine erneute allgemeine Fragenliste zu bereits genannten Quoten.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "paritaet-mit-stichentscheid",
+      "target_skill": "geschaeftsfuehrer-und-gesellschaftermacht",
+      "request": "Erstellen Sie ergebnis.md als kurze Beurteilung. Zwei bestellte Geschäftsführer einer Gmb H halten seit Gründung jeweils 50 Prozent mit gleichem Stimmgewicht. Die wirksame Satzung regelt einfache Mehrheit; bei Gleichstand entscheidet ein gemeinsam bestimmter neutraler Dritter verbindlich, ersatzweise ein Dreiergremium. Die Geschäftsführer können das Ergebnis nicht blockieren. Die Regel wurde nie angewandt. Beide meinen, genau 50 Prozent bedeute Mehrheit und daher vollständige Sozialversicherungsfreiheit.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Genau 50 Prozent nicht als Mehrheit bezeichnen; tatsächliche verlässliche Verhinderungsmacht unter Berücksichtigung des Stichentscheids prüfen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "BSG vom 23.07.2026, B 12 BA 10/24 R, als amtlich berichtete Entscheidung kennzeichnen: Terminbericht Nummer 4, PDF-Seite 4. Keine erfundenen Urteilsrandnummern.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die bisherige Nichtanwendung ersetzt keine Rechtsmacht. Weitere Versicherungszweige und Beiträge gesondert prüfen und ein verwendbares Ergebnis liefern.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lehrerin-zustimmung-und-ksvg",
+      "target_skill": "lehrtaetigkeit-und-uebergang-127",
+      "request": "Heute ist 30.09.2026. Unsere Musikdozentin begann 2024 an einer privaten Berliner Akademie. Beide gingen bei Abschluss von freier Mitarbeit aus. Die Akademie schließt alle Schülerverträge und legt die Zeiten fest. Es läuft ein noch nicht abgeschlossenes Verfahren; eine Zustimmung der Dozentin zu §127 liegt noch nicht vor. Sie ist seit 2023 bei der KSK und fragt, ob bis Ende 2026 sowieso gar keine Beiträge geschuldet sind. Bitte verfassen Sie ein verständliches Antwortschreiben mit den wirklich noch nötigen Rückfragen.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Aktuellen Übergang bis 31.12.2027 beziehungsweise 01.01.2028 nennen; Zustimmung nicht fingieren und eine freiwillige, informierte Entscheidung ermöglichen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Status gesondert würdigen: Paragraf 127 ist keine Beitragsamnestie. Den KSVG-Zweig anhand des vorliegenden Bescheids prüfen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Privater Träger und Beginn 2024 sind nicht automatisch ausschließend. Konkrete Fragen stellen, statt ein pauschales Ergebnis zu behaupten.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "selbstaendiger-programmierer",
+      "target_skill": "selbststaendige-rentenversicherung",
+      "request": "Bitte erstellen Sie ergebnis.md als Prüfvermerk. Für die deutsche Projektarbeit eines Programmierers wird tragfähige Selbständigkeit für diese Frage unterstellt. Er beschäftigt niemanden, arbeitet seit Januar 2025 fast ausschließlich für einen Kunden, daneben gelegentlich kleine Aufträge. Er hat sich nie bei der RV gemeldet und keinen Befreiungsantrag gestellt. Sein Steuerberater nennt ihn Freiberufler. Es ist seine erste selbständige Tätigkeit. Prüfen Sie RV-Pflicht und mögliche weitere Schritte, ohne den Status neu vollumfänglich zu begutachten.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Den unterstellten Status respektieren. Paragraf 2 Satz 1 Nummer 9 SGB VI gesondert anhand Dauer, Wesentlichkeit und Arbeitnehmermerkmal prüfen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Paragraf 6 Absatz 1a SGB VI setzt einen Antrag voraus. Keine automatische Gründerfreiheit und keine allgemeine Ausnahme für freie Berufe behaupten.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Meldung nach Paragraf 190a SGB VI, Beginn, Einkommensbelege und Antragswirkung konkret bearbeiten; keine feste Nachforderung erfinden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "syndikus-vertragsuebernahme",
+      "target_skill": "versorgungswerk-und-befreiung",
+      "request": "Bitte verfassen Sie ergebnis.md. Eine Syndikusrechtsanwältin hat einen wirksamen RV-Befreiungsbescheid für ihre Beschäftigung bei der A Gmb H. Zum 01.04.2026 trat die B Gmb H durch von allen drei Parteien unterschriebenen Vertrag in sämtliche Rechte und Pflichten ein; Tätigkeit und Gehalt blieben unverändert. Ab 01.07.2026 wurde sie Geschäftsführerin mit überwiegend operativen Aufgaben. Ein neuer Antragseingang ist nicht belegt, ihre Versorgungswerkmitgliedschaft besteht fort. Prüfen Sie die Fortgeltung nach Zeitabschnitten und die nötigen Nachweise.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Die dreiseitige Vertragsübernahme bei unveränderter Tätigkeit bis Juni nicht pauschal als Ende der Befreiung behandeln. Die aktuelle DRV-GRA als Verwaltungspraxis kennzeichnen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Die operativen Geschäftsführeraufgaben ab Juli neu prüfen; Zulassung, Befreiung und Antragseingang unterscheiden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Mitgliedschaft beweist keine umfassende Befreiung. Versicherungszweige getrennt prüfen und ein konkret verwendbares Ergebnis liefern.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ag-rollen-und-krankenversicherung",
+      "target_skill": "vorstaende-aufsichtsraete-und-organe",
+      "request": "Erstellen Sie ergebnis.md für eine deutsche AG. Der entgeltliche Vorstand ohne Aktien erhält 5.000 Euro monatlich, kein weiteres Entgelt und keine Sonderzahlungen; er ist seit Jahren gesetzlich krankenversichert. Ein Aufsichtsratsmitglied erhält 6.000 Euro jährlich für das Mandat und daneben monatlich 2.000 Euro für operative Beratung an zwei festen Tagen pro Woche unter Leitung des Vorstands. Die Lohnstelle möchte wegen der Organämter sämtliche Beiträge einstellen. Versicherungsbescheide liegen nicht vor.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Vorstandssonderregeln für RV und ALV von KV, PV und UV trennen. Kein hohes Gehalt unterstellen; die JAEG periodenbezogen prüfen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Aufsichtsratsmandat und zusätzliche operative Beratung getrennt prüfen. Die Vorstandsausnahme nicht auf den Aufsichtsrat übertragen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Beiträge aus freiwilliger oder Pflichtversicherung berücksichtigen. Konkrete Nachweise zu Beratung und bisherigem Versicherungsweg anfordern.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "widerspruch-zahlungswirkung",
+      "target_skill": "statusverfahren-und-betriebspruefung",
+      "request": "Bitte entwerfen Sie ergebnis.md als Antwort an den Mandanten. Nach einer Betriebsprüfung hat die DRV mit Bescheid vom 10.09.2026 Beiträge festgesetzt. Der genaue Bekanntgabetag ist unklar; der Mandant sagt, sein Widerspruch sei gestern per einfacher E-Mail versandt worden. Er will sofort jede Zahlung stoppen, weil er im Internet §7 a Abs 6 SGBIV gelesen hat. Ein gesonderter §7 a-Statusbescheid liegt nicht vor. Betrag und vollständige Rechtsbehelfsbelehrung fehlen noch.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Den Beitragsbescheid nach Paragraf 28p nicht mit einer Statusentscheidung nach Paragraf 7a gleichsetzen. Paragraf 86a Absatz 2 Nummer 1 SGG und einen gesonderten Aussetzungs- beziehungsweise Eilantrag prüfen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Bekanntgabe, Belehrung und zulässige Form gezielt klären. Eine gewöhnliche E-Mail nicht automatisch als wirksamen Widerspruch ausgeben.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Einen vollständigen Antwortbrief und konkrete Vorbereitung zur Fristwahrung liefern; keinen automatischen Zahlungsstopp versprechen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "zweige-rechenannahmen",
+      "target_skill": "versicherungszweige-und-beitraege",
+      "request": "Schreiben Sie ergebnis.md als begründeten Rechenauftrag an die Lohnstelle. Für eine 2026 in Dresden beschäftigte Geschäftsführerin ist KV/PV/RV/ALV-Pflicht in diesem Beispiel geklärt. Monatsbrutto 7.000 Euro, keine Einmalzahlung. Sie ist 43 Jahre alt und hat drei Kinder, Alter 4,17 und 26. Krankenkasseund Zusatzbeitrag sind noch unbekannt. Die Lohnstelle will einheitlich 40 Prozent nachfordern und den Pflegebeitrag samt Kinderlosenzuschlaghälftig verteilen. Bitte beurteilen Sie, welche Rechnung jetzt belastbar möglich ist.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Rechengrößen 2026 und die Aufteilung in Sachsen beachten; Elternstatus und Kinder unter 25 prüfen. Keinen Kinderlosenzuschlag unterstellen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Individuellen Zusatzbeitrag nachfordern. Den Durchschnitt nicht als tatsächlichen Kassensatz verwenden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Keine Pauschale von 40 Prozent verwenden. Belastbare Teilrechnung oder nachvollziehbaren Rechenauftrag mit Arbeitgeber- und Arbeitnehmeranteilen sowie offenen Eingaben liefern.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-09-30",
+    "method": "desk_review",
+    "files": [
+      "sozialversicherungspflicht-pruefer/README.md",
+      "sozialversicherungspflicht-pruefer/sozialversicherungspflicht-pruefer-werkstatt.md",
+      "sozialversicherungspflicht-pruefer/sozialversicherungspflicht-pruefer-schnellstart.md",
+      "sozialversicherungspflicht-pruefer/references/quellen-und-entscheidungen.md"
+    ],
+    "opening_change": "Konkretes Dokument aus vorhandenen Unterlagen; Status, Zweige, Befreiung und Beitrag nach Tätigkeit und Zeitraum getrennt. Gezielte Fragen und echte Fortführung nach Antworten.",
+    "norms": [
+      "Paragrafen 7, 7a und 127 SGB IV einschließlich aktueller Übergangsdaten 2027/2028",
+      "Paragrafen 1, 2 und 6 SGB VI: Status, selbständige Pflicht und tätigkeitsbezogene Befreiung",
+      "Paragrafen 5, 6 und 8 SGB V; Paragrafen 20, 22 und 23 SGB XI; Paragraf 27 SGB III; SGB VII",
+      "Paragrafen 16, 47 und 54 GmbHG: Stimmen, Legitimation und unterschiedliche Wirksamkeitszeitpunkte"
+    ],
+    "decisions": [
+      {
+        "citation": "BSG, Urteil vom 23.07.2026 – B 12 BA 10/24 R; amtlicher Terminbericht 24/26, Nummer 4, PDF-Seite 4",
+        "url": "https://www.bsg.bund.de/SharedDocs/Downloads/DE/Terminberichte/2026/2026_24_Terminbericht.pdf?__blob=publicationFile&v=2",
+        "application": "Bei einer Beteiligung von 50/50 und einem wirksamen Stichentscheid durch Dritte die tatsächliche Verhinderungsmacht prüfen.",
+        "limit": "Bericht statt Urteilsvolltext; keine Urteilsrandnummern und keine pauschale Abkehr von der Rechtsprechung zu 50 Prozent."
+      },
+      {
+        "citation": "BSG, Urteil vom 13.11.2025 – B 12 BA 2/23 R, Randnummern 21–35",
+        "url": "https://www.bsg.bund.de/SharedDocs/Downloads/DE/Entscheidungen/2025/2025_11_13_B_12_BA_02_23_R.pdf?__blob=publicationFile&v=2",
+        "application": "Status gesondert prüfen; ältere offene Verfahren und Zustimmung nach Paragraf 127 differenzieren.",
+        "limit": "Bestandskräftige Altbescheide wurden offengelassen. Die gesetzlichen Enddaten wurden 2026 verlängert."
+      }
+    ],
+    "remaining_limits": [
+      "Redaktionelle Quellenprüfung und Ergebnisfälle sind noch keine bestandenen unabhängigen Modellläufe. Tatsächliche Proben werden gesondert mit ihrem Ergebnis dokumentiert.",
+      "Kein universeller Beitragsrechner; tatsächliche Kasse, Pflegeparameter, historische Normstände und Bescheide bleiben fallbezogen.",
+      "Die BGH-Zulassungsentscheidungen werden mittelbar über die gelesene DRV-GRA verwendet, nicht als selbst im Volltext verifizierte Sozialversicherungsurteile."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-09-30",
+    "method": "desk_review",
+    "opening_modes": [
+      "Klares Gutachten oder Schreiben: vorhandene Unterlagen unmittelbar auswerten.",
+      "Dringender Bescheid: Bekanntgabe, Form und konkreten Rechtsbehelf vorbereiten.",
+      "Offener Erstauftrag: Tätigkeit, Zeitraum und Versicherungsweg gezielt klären.",
+      "Nachreichung: nur betroffene Zeitphase und Schlussfolgerung fortschreiben."
+    ],
+    "continuation": "Rückantworten und Belege im bestehenden Vorgang zuordnen; davon abhängige Schlüsse erst danach ziehen und unabhängige Teile weiterführen.",
+    "enrichment": "Ausformulierte Befunde, konkrete Rückfragen und Schreiben; mehrstufige Fallakten mit nativen Geld- und Gesellschaftsbelegen.",
+    "limits": "Desk review; keine realen Anträge, Meldungen oder Zahlungsänderungen."
+  },
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Eigenständiger deutscher Prüfablauf mit konkreten Fachverzweigungen und verifizierter aktueller Quellentrennung.",
+    "changes": [
+      "Status von Zweigen, Befreiung und Beitrag getrennt.",
+      "Lehrkräfteübergang bis Ende 2027, neue BSG-Berichte von Juli 2026 und DRV-GRA von August 2026 eingearbeitet.",
+      "Gezielte Rückfragen, Tätigkeit/Zeitraum und verwendbare Volltexte statt pauschaler Freistellung."
+    ],
+    "sha256": "89dc7a3cdf09e58b785775366ef0b942bd6b0293a5a839ebffe7f9eb6e15b442"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Eigenständiger deutscher Prüfablauf mit konkreten Fachverzweigungen und verifizierter aktueller Quellentrennung.",
+    "changes": [
+      "Status von Zweigen, Befreiung und Beitrag getrennt.",
+      "Lehrkräfteübergang bis Ende 2027, neue BSG-Berichte von Juli 2026 und DRV-GRA von August 2026 eingearbeitet.",
+      "Gezielte Rückfragen, Tätigkeit/Zeitraum und verwendbare Volltexte statt pauschaler Freistellung."
+    ],
+    "sha256": "83d1bc30282c30ae151001145c45ded9793023942c3582db280b1fdac0c843e3"
+  }
+}

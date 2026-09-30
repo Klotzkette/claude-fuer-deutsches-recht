@@ -1,0 +1,82 @@
+[
+  {
+    "case": "sozialversicherung-ag-organe-hannover",
+    "originals": 28,
+    "types": {
+      ".docx": 13,
+      ".eml": 7,
+      ".pdf": 5,
+      ".xlsx": 1,
+      ".txt": 1,
+      ".csv": 1
+    },
+    "pages": 52
+  },
+  {
+    "case": "sozialversicherung-gmbh-fuenfzig-prozent-erfurt",
+    "originals": 32,
+    "types": {
+      ".docx": 8,
+      ".eml": 10,
+      ".pdf": 6,
+      ".ics": 1,
+      ".xlsx": 2,
+      ".txt": 3,
+      ".csv": 2
+    },
+    "pages": 51
+  },
+  {
+    "case": "sozialversicherung-gmbh-zwanzig-prozent-berlin",
+    "originals": 32,
+    "types": {
+      ".docx": 8,
+      ".eml": 10,
+      ".pdf": 6,
+      ".ics": 1,
+      ".xlsx": 2,
+      ".txt": 3,
+      ".csv": 2
+    },
+    "pages": 51
+  },
+  {
+    "case": "sozialversicherung-musikakademie-prenzlauer-berg",
+    "originals": 27,
+    "types": {
+      ".pdf": 9,
+      ".eml": 8,
+      ".txt": 3,
+      ".docx": 5,
+      ".xlsx": 1,
+      ".csv": 1
+    },
+    "pages": 45
+  },
+  {
+    "case": "sozialversicherung-programmierer-leipzig",
+    "originals": 27,
+    "types": {
+      ".pdf": 9,
+      ".txt": 3,
+      ".eml": 8,
+      ".csv": 1,
+      ".docx": 5,
+      ".xlsx": 1
+    },
+    "pages": 45
+  },
+  {
+    "case": "sozialversicherung-syndikus-versorgungswerk-hamburg",
+    "originals": 29,
+    "types": {
+      ".docx": 11,
+      ".eml": 8,
+      ".csv": 1,
+      ".txt": 1,
+      ".pdf": 7,
+      ".xlsx": 1
+    },
+    "pages": 52
+  }
+]

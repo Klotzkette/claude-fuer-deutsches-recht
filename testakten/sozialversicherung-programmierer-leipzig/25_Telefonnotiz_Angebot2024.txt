@@ -1,0 +1,6 @@
+Jonas Kern-Knörz · Notiz vom16.01.2024 nach Gespräch mit Anne Voigt
+Empfehlung über Nele. Elster braucht kein vollständiges Team, sondern jemanden für alte Daten. Ich soll einen kleinen Probelauf zeigen, bevor sie den Auftrag bestätigen. Datenschnittstelle ist dokumentiert, Datenqualität unsicher. Anne sagt: voraussichtlich fünf Monate, 80 Stunden/Monat als Deckel. Wenn sie weniger Daten liefern, entsteht kein Mindesthonorar.
+Ich: 95 EUR pro Stunde, keine Vollzeitreservierung. Bei Linde läuft bis März noch ein Paket. Arbeiten remote, einmal wöchentlich sprechen okay. Python statt Java klären. Eigene Bibliothek bleibt meine. Keine allgemeine Hotline nach Abschluss.
+Anne: Elster will einmal sehen, dass ich mit Problemfällen umgehen kann. Ein kostenloser halber Tag Demo wäre gut. Ich: maximal zwei Stunden mit anonymisierten Beispielen, keine echte Entwicklung. Zugestimmt.
+Offen: Daten bis 24. Januar; Termin Sven am 22. Januar 14 Uhr; Versicherungsnachweis aus Ordner holen. Anreise zum Probelauf selbst tragen. Bei Folgeauftrag Preise neu besprechen.
+Ergänzung am 26. Januar: Abruf angenommen. Demo zwei Stunden nicht berechnet. Python freigegeben. Migrationsstart 1. Februar.

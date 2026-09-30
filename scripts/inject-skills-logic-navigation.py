@@ -121,6 +121,12 @@ EXACT_GROUPS: dict[str, str] = {
 }
 
 PLUGIN_GROUPS = {
+    "sozialversicherungspflicht-pruefer": [
+        ("1. Gesamte Prüfung", ["sozialversicherungspflicht-pruefen"]),
+        ("2. Status und Tätigkeiten", ["beschaeftigung-oder-selbststaendigkeit", "geschaeftsfuehrer-und-gesellschaftermacht", "vorstaende-aufsichtsraete-und-organe", "lehrtaetigkeit-und-uebergang-127", "freie-mitarbeit-und-projektarbeit"]),
+        ("3. Versicherung und Befreiung", ["selbststaendige-rentenversicherung", "versorgungswerk-und-befreiung", "versicherungszweige-und-beitraege"]),
+        ("4. Verfahren und Schreiben", ["statusverfahren-und-betriebspruefung"]),
+    ],
     "gmbh-gesellschafterversammlung": [
         ("1. Gesamten Vorgang führen", ["gesellschafterversammlung-organisieren"]),
         ("2. Regeln und Einladung", ["unterlagen-und-versammlungsregeln-pruefen", "einladung-und-tagesordnung-erstellen"]),

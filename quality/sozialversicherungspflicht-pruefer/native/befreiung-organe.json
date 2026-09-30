@@ -1,0 +1,176 @@
+{
+  "status": "passed",
+  "counts": {
+    "sozialversicherung-syndikus-versorgungswerk-hamburg": {
+      "originals": 29,
+      "formats": {
+        ".docx": 11,
+        ".eml": 8,
+        ".csv": 1,
+        ".txt": 1,
+        ".pdf": 7,
+        ".xlsx": 1
+      }
+    },
+    "sozialversicherung-ag-organe-hannover": {
+      "originals": 28,
+      "formats": {
+        ".docx": 13,
+        ".eml": 7,
+        ".pdf": 5,
+        ".xlsx": 1,
+        ".txt": 1,
+        ".csv": 1
+      }
+    }
+  },
+  "visual_review": {
+    "docx_count": 24,
+    "docx_pages": 28,
+    "pdf_original_count": 12,
+    "pdf_original_pages": 12,
+    "all_final_docx_pdf_pages_viewed": true,
+    "final_page_images": [
+      "qa-local/befreiung-akten/render/sozialversicherung-ag-organe-hannover/02_Bestellung_Vorstand/page-1.png",
+      "qa-local/befreiung-akten/render/sozialversicherung-ag-organe-hannover/03_Vorstandsdienstvertrag/page-1.png",
+      "qa-local/befreiung-akten/render/sozialversicherung-ag-organe-hannover/03_Vorstandsdienstvertrag/page-2.png",
+      "qa-local/befreiung-akten/render/sozialversicherung-ag-organe-hannover/04_Registermitteilung/page-1.png",
+      "qa-local/befreiung-akten/render/sozialversicherung-ag-organe-hannover/05_Satzung_Auszug/page-1.png",
+      "qa-local/befreiung-akten/render/sozialversicherung-ag-organe-hannover/06_Arbeitsvertrag_Finanzleitung_2022/page-1.png",
+      "qa-local/befreiung-akten/render/sozialversicherung-ag-organe-hannover/07_Beendigung_Arbeitsverhaeltnis/page-1.png",
+      "qa-local/befreiung-akten/render/sozialversicherung-ag-organe-hannover/09_Krankenkasse_Nachfrage/page-1.png",
+      "qa-local/befreiung-akten/render/sozialversicherung-ag-organe-hannover/11_Zustimmung_Nebentaetigkeiten/page-1.png",
+      "qa-local/befreiung-akten/render/sozialversicherung-ag-organe-hannover/12_Havelstrom_Wahlbeschluss/page-1.png",
+      "qa-local/befreiung-akten/render/sozialversicherung-ag-organe-hannover/13_Havelstrom_Sitzungsprotokoll/page-1.png",
+      "qa-local/befreiung-akten/render/sozialversicherung-ag-organe-hannover/14_Beratungsvertrag_Mohnwinkel/page-1.png",
+      "qa-local/befreiung-akten/render/sozialversicherung-ag-organe-hannover/14_Beratungsvertrag_Mohnwinkel/page-2.png",
+      "qa-local/befreiung-akten/render/sozialversicherung-ag-organe-hannover/17_Rechnung_Juni/page-1.png",
+      "qa-local/befreiung-akten/render/sozialversicherung-ag-organe-hannover/18_Rechnung_August/page-1.png",
+      "qa-local/befreiung-akten/render/sozialversicherung-ag-organe-hannover/19_Beteiligungen_Stichtag/page-1.png",
+      "qa-local/befreiung-akten/render/sozialversicherung-ag-organe-hannover/21_Mohnwinkel_Projektstand/page-1.png",
+      "qa-local/befreiung-akten/render/sozialversicherung-ag-organe-hannover/24_Erklaerung_weitere_Auftraege/page-1.png",
+      "qa-local/befreiung-akten/render/sozialversicherung-ag-organe-hannover/25_Havelstrom_Verguetungsmitteilung/page-1.png",
+      "qa-local/befreiung-akten/render/sozialversicherung-ag-organe-hannover/28_Kalender_Erlaeuterung/page-1.png",
+      "qa-local/befreiung-akten/render/sozialversicherung-syndikus-versorgungswerk-hamburg/02_Personalangaben_Ahrens/page-1.png",
+      "qa-local/befreiung-akten/render/sozialversicherung-syndikus-versorgungswerk-hamburg/03_Arbeitsvertrag_2019/page-1.png",
+      "qa-local/befreiung-akten/render/sozialversicherung-syndikus-versorgungswerk-hamburg/03_Arbeitsvertrag_2019/page-2.png",
+      "qa-local/befreiung-akten/render/sozialversicherung-syndikus-versorgungswerk-hamburg/04_Taetigkeitsbeschreibung_2019/page-1.png",
+      "qa-local/befreiung-akten/render/sozialversicherung-syndikus-versorgungswerk-hamburg/05_Zulassung_Syndikus_2019/page-1.png",
+      "qa-local/befreiung-akten/render/sozialversicherung-syndikus-versorgungswerk-hamburg/06_Versorgungswerk_Aufnahme/page-1.png",
+      "qa-local/befreiung-akten/render/sozialversicherung-syndikus-versorgungswerk-hamburg/07_DRV_Befreiungsbescheid_2019/page-1.png",
+      "qa-local/befreiung-akten/render/sozialversicherung-syndikus-versorgungswerk-hamburg/08_Dreiseitige_Uebernahme/page-1.png",
+      "qa-local/befreiung-akten/render/sozialversicherung-syndikus-versorgungswerk-hamburg/08_Dreiseitige_Uebernahme/page-2.png",
+      "qa-local/befreiung-akten/render/sozialversicherung-syndikus-versorgungswerk-hamburg/11_RAK_Fortgeltung_April/page-1.png",
+      "qa-local/befreiung-akten/render/sozialversicherung-syndikus-versorgungswerk-hamburg/12_Sommer_Arbeitsplanung/page-1.png",
+      "qa-local/befreiung-akten/render/sozialversicherung-syndikus-versorgungswerk-hamburg/13_Nachtrag_Leitung_Juli/page-1.png",
+      "qa-local/befreiung-akten/render/sozialversicherung-syndikus-versorgungswerk-hamburg/15_Antrag_Erstreckung_RAK/page-1.png",
+      "qa-local/befreiung-akten/render/sozialversicherung-syndikus-versorgungswerk-hamburg/16_Befreiungsantrag_Eingang/page-1.png",
+      "qa-local/befreiung-akten/render/sozialversicherung-syndikus-versorgungswerk-hamburg/18_Versorgungswerk_Beitrag_2026/page-1.png",
+      "qa-local/befreiung-akten/render/sozialversicherung-syndikus-versorgungswerk-hamburg/20_Abrechnung_Juli/page-1.png",
+      "qa-local/befreiung-akten/render/sozialversicherung-syndikus-versorgungswerk-hamburg/23_Aufgabenprotokoll_August/page-1.png",
+      "qa-local/befreiung-akten/render/sozialversicherung-syndikus-versorgungswerk-hamburg/25_Kanzlei_Nebentaetigkeit/page-1.png",
+      "qa-local/befreiung-akten/render/sozialversicherung-syndikus-versorgungswerk-hamburg/28_Arbeitgeberbestaetigung_September/page-1.png",
+      "qa-local/befreiung-akten/render/sozialversicherung-syndikus-versorgungswerk-hamburg/29_Arbeitgeberbestaetigung_April/page-1.png"
+    ],
+    "artifact_sheets_viewed": 4,
+    "native_xlsx_print_pages_viewed": 4,
+    "findings_corrected": [
+      "Word theme fonts and title border removed; all used styles explicitly Times New Roman black",
+      "S13 signature no longer stranded on page 2",
+      "S18 letter dated 21 August, after payment of 20 August",
+      "Paragraf spelled out in DRV notice",
+      "All explicitly attached records embedded in MIME messages with byte comparison"
+    ]
+  },
+  "spreadsheet_qa": {
+    "authoring": "@oai/artifact-tool",
+    "artifact_mutations": 4,
+    "native_engine": "Bundled LibreOfficeDev headless (absolute runtime path)",
+    "native_mutations": 4,
+    "baseline_computed_values_verified": 4,
+    "artifact_proof": "qa-local/befreiung-akten/tabellen/artifact-proof.json",
+    "native_proof": "qa-local/befreiung-akten/native-xlsx/native-proof.json",
+    "note": "Native mutation copies omit formula caches to force fresh engine calculation; original formulas retained. Original workbook cached values are restored artifact results. No openpyxl editing."
+  },
+  "email_qa": [
+    {
+      "file": "testakten/sozialversicherung-syndikus-versorgungswerk-hamburg/01_Mila_an_Kanzlei.eml",
+      "attachments": [
+        "03_Arbeitsvertrag_2019.docx",
+        "08_Dreiseitige_Uebernahme.docx",
+        "13_Nachtrag_Leitung_Juli.docx",
+        "16_Befreiungsantrag_Eingang.pdf"
+      ]
+    },
+    {
+      "file": "testakten/sozialversicherung-syndikus-versorgungswerk-hamburg/09_HR_Uebernahme_Rundmail.eml",
+      "attachments": []
+    },
+    {
+      "file": "testakten/sozialversicherung-syndikus-versorgungswerk-hamburg/10_Anzeige_RAK_April.eml",
+      "attachments": [
+        "08_Dreiseitige_Uebernahme.docx",
+        "29_Arbeitgeberbestaetigung_April.docx"
+      ]
+    },
+    {
+      "file": "testakten/sozialversicherung-syndikus-versorgungswerk-hamburg/14_Personalstelle_alter_Bescheid.eml",
+      "attachments": [
+        "07_DRV_Befreiungsbescheid_2019.pdf",
+        "11_RAK_Fortgeltung_April.pdf"
+      ]
+    },
+    {
+      "file": "testakten/sozialversicherung-syndikus-versorgungswerk-hamburg/17_DRV_Unterlagenanforderung.eml",
+      "attachments": []
+    },
+    {
+      "file": "testakten/sozialversicherung-syndikus-versorgungswerk-hamburg/21_Krankenkasse_Einkommen.eml",
+      "attachments": []
+    },
+    {
+      "file": "testakten/sozialversicherung-syndikus-versorgungswerk-hamburg/22_Uebergabe_vor_Urlaub.eml",
+      "attachments": []
+    },
+    {
+      "file": "testakten/sozialversicherung-syndikus-versorgungswerk-hamburg/27_Nachricht_zum_Junistart.eml",
+      "attachments": [
+        "26_Kanzlei_Zahlungseingaenge.csv"
+      ]
+    },
+    {
+      "file": "testakten/sozialversicherung-ag-organe-hannover/01_Mandatsanfrage_Brandt.eml",
+      "attachments": []
+    },
+    {
+      "file": "testakten/sozialversicherung-ag-organe-hannover/10_Entgeltstelle_Rundmail.eml",
+      "attachments": []
+    },
+    {
+      "file": "testakten/sozialversicherung-ag-organe-hannover/15_Einladung_Dienstagsrunde.eml",
+      "attachments": []
+    },
+    {
+      "file": "testakten/sozialversicherung-ag-organe-hannover/16_Antwort_Projektumfang.eml",
+      "attachments": []
+    },
+    {
+      "file": "testakten/sozialversicherung-ag-organe-hannover/20_Variable_Verguetung.eml",
+      "attachments": []
+    },
+    {
+      "file": "testakten/sozialversicherung-ag-organe-hannover/23_Unfallversicherung_Rueckfrage.eml",
+      "attachments": []
+    },
+    {
+      "file": "testakten/sozialversicherung-ag-organe-hannover/27_Mohnwinkel_letzte_Mail.eml",
+      "attachments": []
+    }
+  ],
+  "portable_builders": true,
+  "limits": [
+    "Overall PDF, single-PDF ZIP and native ZIP integration and their final visual/validator checks are assigned to root.",
+    "Native files and source builder were tested on the bundled macOS runtime; a Linux execution was not performed. PDF originals use portable built-in Times fonts. DOCX requests Times New Roman; availability or substitution depends on the rendering system."
+  ],
+  "manifest": "qa-local/befreiung-akten/native-manifest.json"
+}

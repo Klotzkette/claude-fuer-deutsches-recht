@@ -1,0 +1,398 @@
+{
+  "cases": [
+    {
+      "case": "sozialversicherung-musikakademie-prenzlauer-berg",
+      "files": [
+        {
+          "name": "01_Honorarvertrag_2022.docx",
+          "chars": 4381,
+          "sha256": "ec9ddf19152e47f327e9c38461bd6bf30e632fd780867e926fb9750d39a67197",
+          "errors": []
+        },
+        {
+          "name": "02_Nachtrag_Honorar_2024.docx",
+          "chars": 2485,
+          "sha256": "9c6c5ac21005ff656ccbc203829b05d6d105e689388db52e2cee796565d41635",
+          "errors": []
+        },
+        {
+          "name": "03_Unterrichtsbetrieb_September_2025.docx",
+          "chars": 2593,
+          "sha256": "a5e2a47557552979eb77c7cba90355e5379be1fc615e20aff0d1a2de0556c2b5",
+          "errors": []
+        },
+        {
+          "name": "04_Erinnerung_Mara_20260924.docx",
+          "chars": 2981,
+          "sha256": "f6f0c86050f3724675ad945622d19f7fde59f365a40eed4475f986e04b5fdf23",
+          "errors": []
+        },
+        {
+          "name": "05_Protokoll_Buero_20260925.docx",
+          "chars": 2626,
+          "sha256": "20c119b2ca27739478b4cac98479f44911b20d2ce0ef54c9ede466727c6c8b6b",
+          "errors": []
+        },
+        {
+          "name": "06_Pruefankuendigung_20260910.pdf",
+          "chars": 1984,
+          "sha256": "9f0c93342d89c4e9bd892f07c1564f729841d907ca008bc6d776f2984f3a3029",
+          "errors": []
+        },
+        {
+          "name": "07_Rechnung_Januar_2025_Erstfassung.pdf",
+          "chars": 1417,
+          "sha256": "59a3302f9257908aa73b8d70146a47a6c1d08e0d77e95941d4cb0c2b5ca20d10",
+          "errors": []
+        },
+        {
+          "name": "08_Rechnung_Januar_2025_korrigiert.pdf",
+          "chars": 1395,
+          "sha256": "dd79b91a7105d75dee7e2b60f6f29d82c1548000cc5f6b30636606917c784608",
+          "errors": []
+        },
+        {
+          "name": "09_Zahlungsbeleg_Februar_2025.pdf",
+          "chars": 1418,
+          "sha256": "fe8ccb540aaef70fe282938ea038d41c54d2b13a4e688128a90d9c6d764dc502",
+          "errors": []
+        },
+        {
+          "name": "10_Portal_Abwesenheit_202506.pdf",
+          "chars": 1365,
+          "sha256": "106d3ab8d15db2a81ba77247b1faa54485f762bb615ff18d54516476466bc705",
+          "errors": []
+        },
+        {
+          "name": "11_Vertretung_Lea_202310.pdf",
+          "chars": 1361,
+          "sha256": "63963c9fe78f4f3a66aef0913aa69c3d53f34e9ffe0e9c0445ee2f3f59f8811f",
+          "errors": []
+        },
+        {
+          "name": "12_Zustimmung_Mara_final.pdf",
+          "chars": 1541,
+          "sha256": "497908dbe5eb920f47b5b5648854a0e9f9e5236a03a1c1d8a5c0d3ccc1e93d4d",
+          "errors": []
+        },
+        {
+          "name": "13_KSK_Nachfrage_20260518.pdf",
+          "chars": 1647,
+          "sha256": "3322765a191242fc4c8fbd386d75ce4207f1e4f836a5cc33decd0e6ba9158524",
+          "errors": []
+        },
+        {
+          "name": "14_Portalimport_20250519.pdf",
+          "chars": 1492,
+          "sha256": "5f09639a26818ab089d376b65476270a6e5539113306f2324d5a637fe831e11a",
+          "errors": []
+        },
+        {
+          "name": "15_Auftrag_an_Kanzlei.eml",
+          "chars": 1030,
+          "sha256": "bc08a4683309214abde855ab16833fa14d4e410d4c8ded6b57f49132968e5cac",
+          "errors": []
+        },
+        {
+          "name": "16_Raumplanung_2024.eml",
+          "chars": 775,
+          "sha256": "78541164cbedae7f9904400d7d98c8e297d96dad7f605cd9ca31d4397337c5e1",
+          "errors": []
+        },
+        {
+          "name": "17_Ablehnung_Schueler.eml",
+          "chars": 758,
+          "sha256": "8194776e104b48385487c8f4550ffd5c9190f77733438d7355a1a2ef59f2def4",
+          "errors": []
+        },
+        {
+          "name": "18_Zustimmung_Nachfrage_2025.eml",
+          "chars": 769,
+          "sha256": "181505ec426afee929f0daeac7706c0265f19aa02989e75b97893edcb1fa7486",
+          "errors": []
+        },
+        {
+          "name": "19_Buero_Antwort_2025.eml",
+          "chars": 694,
+          "sha256": "3f7340fb8c7de5a220c860e56bc94fc79dfc75cf4fe1d8a47b77df1684296b14",
+          "errors": []
+        },
+        {
+          "name": "20_Vertretung_abgelehnt.eml",
+          "chars": 757,
+          "sha256": "a965dd475eee579ca671c9fe625be3e83e6c284daf1367b00ad4d4c580404fe7",
+          "errors": []
+        },
+        {
+          "name": "21_Korrektur_Stundenliste.eml",
+          "chars": 872,
+          "sha256": "51f4e113b587e7a381bddcde422dc79d3d79cc191bd8906b6af2a907837fe087",
+          "errors": []
+        },
+        {
+          "name": "22_Geschaeftsfuehrung_Termin.eml",
+          "chars": 967,
+          "sha256": "ca1940e3c00c87b520c1e6df543e31faddebb1b3bb893b43981f5ce62b5d54aa",
+          "errors": []
+        },
+        {
+          "name": "23_Chat_Klavierteam_Juni2025.txt",
+          "chars": 1287,
+          "sha256": "1efa11bf80018aca40691f45772ac0c83af8b8b692a507bbb8619c03791ce4c7",
+          "errors": []
+        },
+        {
+          "name": "24_Telefonnotiz_20260923.txt",
+          "chars": 952,
+          "sha256": "7037b154c785530a14e3dee6daa72c375e5162c7d4c2b77e242f6f858676f1c8",
+          "errors": []
+        },
+        {
+          "name": "25_Chat_Eigene_Schueler.txt",
+          "chars": 1047,
+          "sha256": "65edf677379b6024ace9ec6a4ccfc5de0549ad63a6fd4e83b4eb193bd6e7c95a",
+          "errors": []
+        },
+        {
+          "name": "26_Honorarkonto_2025.csv",
+          "chars": 573,
+          "sha256": "0c6bf0b6dd70f158580ee9bea34f63f110e47e86274c9f69392c4c1fece02589",
+          "errors": []
+        },
+        {
+          "name": "27_Honorarabgleich_2025.xlsx",
+          "chars": 2397,
+          "sha256": "1f9288a781241c7cc5c45d6d4a4f13454263e2ca52ad6f477c3339e84b33d08e",
+          "errors": []
+        }
+      ],
+      "extensions": {
+        ".docx": 5,
+        ".pdf": 9,
+        ".eml": 8,
+        ".txt": 3,
+        ".csv": 1,
+        ".xlsx": 1
+      },
+      "docxPages": 6,
+      "nativePdfPages": 9
+    },
+    {
+      "case": "sozialversicherung-programmierer-leipzig",
+      "files": [
+        {
+          "name": "01_Rahmenvertrag_Nordlicht_2024.docx",
+          "chars": 4229,
+          "sha256": "1c182ad37a68d6825916bbf6f2c4455ac2ca5a17425407181e8094beaecaae2f",
+          "errors": []
+        },
+        {
+          "name": "02_Leistungsabruf_Migration_2024.docx",
+          "chars": 3416,
+          "sha256": "f99e525f73a21ef04138f69d2a1b761cb95565e6d467d79dc16f55e879dcc15e",
+          "errors": []
+        },
+        {
+          "name": "03_Nachtrag_Betriebsbegleitung_2025.docx",
+          "chars": 3122,
+          "sha256": "9dd59d427256d654a947d719ca6084c09006a7c9bbb18f2bbf9643c6de7dc695",
+          "errors": []
+        },
+        {
+          "name": "04_Erinnerungen_Juno_September 2026.docx",
+          "chars": 3646,
+          "sha256": "23d215848feff1ef9f13aa1f84993281f12bdb90d71a6e41463031dab3f85c46",
+          "errors": []
+        },
+        {
+          "name": "05_Stoerungsprotokoll_April2025.docx",
+          "chars": 2738,
+          "sha256": "667619a8d65e5ebba5858c250880043b6a13133c70316289c4b7e3a44ee79082",
+          "errors": []
+        },
+        {
+          "name": "06_Rechnung_Januar2025.pdf",
+          "chars": 1203,
+          "sha256": "c41fb5816f7bc122d86d9a2c851adfd71ed45f783704531ff64b0f0f73fe2ebb",
+          "errors": []
+        },
+        {
+          "name": "07_Kontoblatt_Februar2025.pdf",
+          "chars": 1130,
+          "sha256": "21cacaaa7c8bb78137416e4913567464bbffceb402f3c9157db8b317cdbd7300",
+          "errors": []
+        },
+        {
+          "name": "08_Zugang_und_Arbeitsmittel.pdf",
+          "chars": 1551,
+          "sha256": "c15041b7e56ea270485973fb69adf63d2ff8ad7e2a514cebd105e90c9d92eb28",
+          "errors": []
+        },
+        {
+          "name": "09_Betriebspruefung_Ankuendigung.pdf",
+          "chars": 1397,
+          "sha256": "3782a3dcc9bbbb4bbd57552d015bd5365418093866813db96561dcdb67edd702",
+          "errors": []
+        },
+        {
+          "name": "10_Anforderung_Fremdleistung_August.pdf",
+          "chars": 1519,
+          "sha256": "7c719b36e761ef50ece6c6d35856827a75fffe356ccdaa91dc0aed9b50f0ac40",
+          "errors": []
+        },
+        {
+          "name": "11_Statusantrag_Eingang.pdf",
+          "chars": 1368,
+          "sha256": "d93fed86f981214feb18eb5df6a7310fc18c55963e8b625313699c66d728bae1",
+          "errors": []
+        },
+        {
+          "name": "12_Ticketauszug_Mai2025.pdf",
+          "chars": 1508,
+          "sha256": "a43a9c0994465f3afc45ae8aaef0a4b24fdbb931a25ba129035552e359602ac5",
+          "errors": []
+        },
+        {
+          "name": "13_Uebergabe_Migration_Juni2024.pdf",
+          "chars": 1622,
+          "sha256": "fb085ee4eaa8aa4f163743471bde53f0bc62e7fbcfc1e239c12707a95985df74",
+          "errors": []
+        },
+        {
+          "name": "14_Rechnung_Linde_November2025.pdf",
+          "chars": 1289,
+          "sha256": "8535de16e699daaa8af44f39600330c0168b01a6b6aaade75ff279661bd3ac80",
+          "errors": []
+        },
+        {
+          "name": "15_Mandatsanfrage_20260922.eml",
+          "chars": 1242,
+          "sha256": "8ed7bbe23051489d344ed7d72ff839c3b20eae7c8dcea92dadf9eef3a46ff2f0",
+          "errors": []
+        },
+        {
+          "name": "16_Frage_Beginn_Pruefung.eml",
+          "chars": 754,
+          "sha256": "b6c2d533dcbf51f74073ffeb6f0afef3860cddf92fd704bbba37b9663ce6ca98",
+          "errors": []
+        },
+        {
+          "name": "17_Antwort_Sven_Pruefbeginn.eml",
+          "chars": 715,
+          "sha256": "a107f1c899ff2c27fca679cccaac04d6757d0aec91997aa5e756d7507a85c236",
+          "errors": []
+        },
+        {
+          "name": "18_Nordlicht_Vertretung.eml",
+          "chars": 942,
+          "sha256": "8a96d9623220b1f65560977a4d4b8cefc9ffd097d99d8128e3330fb6f69089c2",
+          "errors": []
+        },
+        {
+          "name": "19_Nachfrage_Clearingstelle.eml",
+          "chars": 1027,
+          "sha256": "3178ff58a7def6d358eca564c0c26e8a87ea5479e0b0f4d15f7912c18a795c1a",
+          "errors": []
+        },
+        {
+          "name": "20_Weiterleitung_Anforderung.eml",
+          "chars": 865,
+          "sha256": "58f74f8c1292e0e4c991b0015738cdb730a7cb35b039dc226f8fead398ac158e",
+          "errors": []
+        },
+        {
+          "name": "21_Nordlicht_Vertragsauffassung.eml",
+          "chars": 1012,
+          "sha256": "9a73c4c1954774fe8acb2f9d4b5b4cbc9d0de3b4fe88657fd7c91b43d7921a22",
+          "errors": []
+        },
+        {
+          "name": "22_Fristverlaengerung_Anfrage.eml",
+          "chars": 986,
+          "sha256": "44cc34f8205e499f5592521cbe9eb13a44051170f45a1356035ffd930c0227d1",
+          "errors": []
+        },
+        {
+          "name": "23_Chat_Urlaub_Juli2025.txt",
+          "chars": 1060,
+          "sha256": "2cb96545566ce43dc9a9bb606edade2f2301ff39181db62bf54f18cde1c10e74",
+          "errors": []
+        },
+        {
+          "name": "24_Chat_Standup_April2025.txt",
+          "chars": 1223,
+          "sha256": "712ff8128003b496456d7655837874a6b585129decf9cd7397c5aa9dac04f8c1",
+          "errors": []
+        },
+        {
+          "name": "25_Telefonnotiz_Angebot2024.txt",
+          "chars": 1187,
+          "sha256": "528c0c72ce215a146ad9a3d031e0503d7a03414c36b699f5cdc1443e5e4d61bf",
+          "errors": []
+        },
+        {
+          "name": "26_Stunden_und_Rechnungen_2025.csv",
+          "chars": 735,
+          "sha256": "ee110e7cde39437eddd8ecdeb9c54108b496ba1d5a1d5d6fcebd466ef5f8e402",
+          "errors": []
+        },
+        {
+          "name": "27_Rechnungsabgleich_2025.xlsx",
+          "chars": 2296,
+          "sha256": "c01b8634d6eeee09554aaca191fc4330fcf232e9b9720c899c5fc5db5be9c8fb",
+          "errors": []
+        }
+      ],
+      "extensions": {
+        ".docx": 5,
+        ".pdf": 9,
+        ".eml": 8,
+        ".txt": 3,
+        ".csv": 1,
+        ".xlsx": 1
+      },
+      "docxPages": 6,
+      "nativePdfPages": 9
+    }
+  ],
+  "errors": [],
+  "visually_inspected_images": [
+    "qa-local/akten-qa/sozialversicherung-musikakademie-prenzlauer-berg__01_Honorarvertrag_2022/page-1.png",
+    "qa-local/akten-qa/sozialversicherung-musikakademie-prenzlauer-berg__01_Honorarvertrag_2022/page-2.png",
+    "qa-local/akten-qa/sozialversicherung-musikakademie-prenzlauer-berg__02_Nachtrag_Honorar_2024/page-1.png",
+    "qa-local/akten-qa/sozialversicherung-musikakademie-prenzlauer-berg__03_Unterrichtsbetrieb_September_2025/page-1.png",
+    "qa-local/akten-qa/sozialversicherung-musikakademie-prenzlauer-berg__04_Erinnerung_Mara_20260924/page-1.png",
+    "qa-local/akten-qa/sozialversicherung-musikakademie-prenzlauer-berg__05_Protokoll_Buero_20260925/page-1.png",
+    "qa-local/akten-qa/sozialversicherung-musikakademie-prenzlauer-berg__06_Pruefankuendigung_20260910/pdf-1.png",
+    "qa-local/akten-qa/sozialversicherung-musikakademie-prenzlauer-berg__07_Rechnung_Januar_2025_Erstfassung/pdf-1.png",
+    "qa-local/akten-qa/sozialversicherung-musikakademie-prenzlauer-berg__08_Rechnung_Januar_2025_korrigiert/pdf-1.png",
+    "qa-local/akten-qa/sozialversicherung-musikakademie-prenzlauer-berg__09_Zahlungsbeleg_Februar_2025/pdf-1.png",
+    "qa-local/akten-qa/sozialversicherung-musikakademie-prenzlauer-berg__10_Portal_Abwesenheit_202506/pdf-1.png",
+    "qa-local/akten-qa/sozialversicherung-musikakademie-prenzlauer-berg__11_Vertretung_Lea_202310/pdf-1.png",
+    "qa-local/akten-qa/sozialversicherung-musikakademie-prenzlauer-berg__12_Zustimmung_Mara_final/pdf-1.png",
+    "qa-local/akten-qa/sozialversicherung-musikakademie-prenzlauer-berg__13_KSK_Nachfrage_20260518/pdf-1.png",
+    "qa-local/akten-qa/sozialversicherung-musikakademie-prenzlauer-berg__14_Portalimport_20250519/pdf-1.png",
+    "qa-local/akten-qa/sozialversicherung-musikakademie-prenzlauer-berg__1.png",
+    "qa-local/akten-qa/sozialversicherung-musikakademie-prenzlauer-berg__2.png",
+    "qa-local/akten-qa/sozialversicherung-programmierer-leipzig__01_Rahmenvertrag_Nordlicht_2024/page-1.png",
+    "qa-local/akten-qa/sozialversicherung-programmierer-leipzig__01_Rahmenvertrag_Nordlicht_2024/page-2.png",
+    "qa-local/akten-qa/sozialversicherung-programmierer-leipzig__02_Leistungsabruf_Migration_2024/page-1.png",
+    "qa-local/akten-qa/sozialversicherung-programmierer-leipzig__03_Nachtrag_Betriebsbegleitung_2025/page-1.png",
+    "qa-local/akten-qa/sozialversicherung-programmierer-leipzig__04_Erinnerungen_Juno_September 2026/page-1.png",
+    "qa-local/akten-qa/sozialversicherung-programmierer-leipzig__05_Stoerungsprotokoll_April2025/page-1.png",
+    "qa-local/akten-qa/sozialversicherung-programmierer-leipzig__06_Rechnung_Januar2025/pdf-1.png",
+    "qa-local/akten-qa/sozialversicherung-programmierer-leipzig__07_Kontoblatt_Februar2025/pdf-1.png",
+    "qa-local/akten-qa/sozialversicherung-programmierer-leipzig__08_Zugang_und_Arbeitsmittel/pdf-1.png",
+    "qa-local/akten-qa/sozialversicherung-programmierer-leipzig__09_Betriebspruefung_Ankuendigung/pdf-1.png",
+    "qa-local/akten-qa/sozialversicherung-programmierer-leipzig__10_Anforderung_Fremdleistung_August/pdf-1.png",
+    "qa-local/akten-qa/sozialversicherung-programmierer-leipzig__11_Statusantrag_Eingang/pdf-1.png",
+    "qa-local/akten-qa/sozialversicherung-programmierer-leipzig__12_Ticketauszug_Mai2025/pdf-1.png",
+    "qa-local/akten-qa/sozialversicherung-programmierer-leipzig__13_Uebergabe_Migration_Juni2024/pdf-1.png",
+    "qa-local/akten-qa/sozialversicherung-programmierer-leipzig__14_Rechnung_Linde_November2025/pdf-1.png",
+    "qa-local/akten-qa/sozialversicherung-programmierer-leipzig__1.png",
+    "qa-local/akten-qa/sozialversicherung-programmierer-leipzig__2.png"
+  ],
+  "image_count": 34,
+  "attachment_bytes_verified": true,
+  "exported_xlsx_cached_values_verified": true
+}

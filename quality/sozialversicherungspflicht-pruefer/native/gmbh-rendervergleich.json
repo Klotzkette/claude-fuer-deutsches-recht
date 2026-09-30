@@ -1,0 +1,40 @@
+{
+  "unchanged_images": [
+    "qa-local/gmbh-qa/render-final/Berlin/02_Satzung_unterzeichnet/page-2.png",
+    "qa-local/gmbh-qa/render-final/Berlin/02_Satzung_unterzeichnet/page-3.png",
+    "qa-local/gmbh-qa/render-final/Berlin/06_Geschaeftsfuehrer_Anstellungsvertrag/page-1.png",
+    "qa-local/gmbh-qa/render-final/Berlin/06_Geschaeftsfuehrer_Anstellungsvertrag/page-2.png",
+    "qa-local/gmbh-qa/render-final/Berlin/07_Shareholder_Agreement/page-1.png",
+    "qa-local/gmbh-qa/render-final/Berlin/08_Geschaeftsordnung/page-1.png",
+    "qa-local/gmbh-qa/render-final/Berlin/09_Satzungsaenderung_Entwurf/page-1.png",
+    "qa-local/gmbh-qa/render-final/Berlin/10_Protokoll_Budget_20260818/page-1.png",
+    "qa-local/gmbh-qa/render-final/Berlin/16_Gesellschafterdarlehen/page-1.png",
+    "qa-local/gmbh-qa/render-final/Berlin/03_Registerchronologie_20260929/page-1.png",
+    "qa-local/gmbh-qa/render-final/Berlin/11_Gehaltsnachtrag_20251212/page-1.png",
+    "qa-local/gmbh-qa/render-final/Erfurt/02_Satzung_unterzeichnet/page-2.png",
+    "qa-local/gmbh-qa/render-final/Erfurt/02_Satzung_unterzeichnet/page-3.png",
+    "qa-local/gmbh-qa/render-final/Erfurt/06_Geschaeftsfuehrer_Anstellungsvertrag/page-1.png",
+    "qa-local/gmbh-qa/render-final/Erfurt/06_Geschaeftsfuehrer_Anstellungsvertrag/page-2.png",
+    "qa-local/gmbh-qa/render-final/Erfurt/07_Shareholder_Agreement/page-1.png",
+    "qa-local/gmbh-qa/render-final/Erfurt/08_Geschaeftsordnung/page-1.png",
+    "qa-local/gmbh-qa/render-final/Erfurt/09_Satzungsaenderung_Entwurf/page-1.png",
+    "qa-local/gmbh-qa/render-final/Erfurt/10_Protokoll_Budget_20260818/page-1.png",
+    "qa-local/gmbh-qa/render-final/Erfurt/16_Gesellschafterdarlehen/page-1.png",
+    "qa-local/gmbh-qa/render-final/Erfurt/03_Registerchronologie_20260929/page-1.png",
+    "qa-local/gmbh-qa/render-final/Erfurt/11_Gehaltsnachtrag_20251212/page-1.png"
+  ],
+  "changed_images": [
+    "qa-local/gmbh-qa/render-final/Berlin/02_Satzung_unterzeichnet/page-1.png",
+    "qa-local/gmbh-qa/render-final/Berlin/05_Bestellung_Geschaeftsfuehrung/page-1.png",
+    "qa-local/gmbh-qa/render-final/Berlin/04_Gesellschafterliste/page-1.png",
+    "qa-local/gmbh-qa/render-final/Berlin/12_Abrechnung_202608/page-1.png",
+    "qa-local/gmbh-qa/render-final/Berlin/13_Bankbuchung_August_2026/page-1.png",
+    "qa-local/gmbh-qa/render-final/Berlin/31_Buchungsbeleg_Darlehen/page-1.png",
+    "qa-local/gmbh-qa/render-final/Erfurt/02_Satzung_unterzeichnet/page-1.png",
+    "qa-local/gmbh-qa/render-final/Erfurt/05_Bestellung_Geschaeftsfuehrung/page-1.png",
+    "qa-local/gmbh-qa/render-final/Erfurt/04_Gesellschafterliste/page-1.png",
+    "qa-local/gmbh-qa/render-final/Erfurt/12_Abrechnung_202608/page-1.png",
+    "qa-local/gmbh-qa/render-final/Erfurt/13_Bankbuchung_August_2026/page-1.png",
+    "qa-local/gmbh-qa/render-final/Erfurt/31_Buchungsbeleg_Darlehen/page-1.png"
+  ]
+}

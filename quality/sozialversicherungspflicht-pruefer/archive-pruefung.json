@@ -1,0 +1,50 @@
+[
+  {
+    "case": "sozialversicherung-ag-organe-hannover",
+    "original_archive": "testakte-sozialversicherung-ag-organe-hannover.zip",
+    "original_entries": 30,
+    "individual_archive": "testakte-sozialversicherung-ag-organe-hannover-einzelpdfs.zip",
+    "individual_pdfs": 28,
+    "validated": true
+  },
+  {
+    "case": "sozialversicherung-gmbh-fuenfzig-prozent-erfurt",
+    "original_archive": "testakte-sozialversicherung-gmbh-fuenfzig-prozent-erfurt.zip",
+    "original_entries": 34,
+    "individual_archive": "testakte-sozialversicherung-gmbh-fuenfzig-prozent-erfurt-einzelpdfs.zip",
+    "individual_pdfs": 32,
+    "validated": true
+  },
+  {
+    "case": "sozialversicherung-gmbh-zwanzig-prozent-berlin",
+    "original_archive": "testakte-sozialversicherung-gmbh-zwanzig-prozent-berlin.zip",
+    "original_entries": 34,
+    "individual_archive": "testakte-sozialversicherung-gmbh-zwanzig-prozent-berlin-einzelpdfs.zip",
+    "individual_pdfs": 32,
+    "validated": true
+  },
+  {
+    "case": "sozialversicherung-musikakademie-prenzlauer-berg",
+    "original_archive": "testakte-sozialversicherung-musikakademie-prenzlauer-berg.zip",
+    "original_entries": 29,
+    "individual_archive": "testakte-sozialversicherung-musikakademie-prenzlauer-berg-einzelpdfs.zip",
+    "individual_pdfs": 27,
+    "validated": true
+  },
+  {
+    "case": "sozialversicherung-programmierer-leipzig",
+    "original_archive": "testakte-sozialversicherung-programmierer-leipzig.zip",
+    "original_entries": 29,
+    "individual_archive": "testakte-sozialversicherung-programmierer-leipzig-einzelpdfs.zip",
+    "individual_pdfs": 27,
+    "validated": true
+  },
+  {
+    "case": "sozialversicherung-syndikus-versorgungswerk-hamburg",
+    "original_archive": "testakte-sozialversicherung-syndikus-versorgungswerk-hamburg.zip",
+    "original_entries": 31,
+    "individual_archive": "testakte-sozialversicherung-syndikus-versorgungswerk-hamburg-einzelpdfs.zip",
+    "individual_pdfs": 29,
+    "validated": true
+  }
+]

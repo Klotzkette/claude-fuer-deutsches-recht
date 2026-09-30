@@ -39,6 +39,7 @@ PREFIXES = (
     "schwerbehindertenrecht-",
     "selbstvertreter-sozialgericht-",
     "sozialrecht-",
+    "sozialversicherung-",
     "statusfeststellung-",
     "strassennutzung-",
     "unfallversicherung-",

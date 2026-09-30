@@ -1,3 +1,21 @@
+# v445.16.0 - Sozialversicherungspflicht mit zehn Skills und sechs Fallakten
+
+## 1. Eigenständiges Plugin mit vollständiger Prüfung
+
+Der neue Sozialversicherungspflicht-Prüfer bearbeitet deutsche Inlandssachverhalte in genau zehn Skills einschließlich eines Hauptskills. Beschäftigungsstatus, die einzelnen Versicherungszweige, Versicherungsfreiheit, tätigkeitsbezogene Befreiung und Beitragspflicht werden nach Tätigkeit und Zeitraum getrennt. Eigene Wege behandeln GmbH-Geschäftsführung, AG-Organe, Lehrkräfte, freie Projektarbeit, selbständige Rentenversicherung, Versorgungswerke und Verwaltungsverfahren. Gezielte Rückfragen werden im laufenden Vorgang verarbeitet; die beauftragten Gutachten und Schreiben werden ausformuliert.
+
+## 2. Aktuelle Quellen und eigenständige Prompts
+
+Die ausführliche Werkstatt und der Mini-Prompt unter 7.500 UTF-8-Bytes funktionieren jeweils eigenständig und bleiben separate Markdown-Downloads. Verifizierte Normen, sechzehn Entscheidungsanker und aktuelle amtliche BSG-Berichte werden mit Aussage, Fundstelle und Reichweitengrenze verwendet. Enthalten sind die bis Ende 2027 verlängerte Lehrkräfteübergangsregel, der BSG-Bericht vom Juli 2026 zu einem bindenden Stichentscheid bei 50/50 sowie die DRV-Verwaltungspraxis von August 2026 zu Vertragsübernahmen und Befreiungen. Ein Terminbericht wird nicht als gelesener Urteilsvolltext ausgegeben.
+
+## 3. Sechs Akten mit nativen Arbeitsdateien
+
+Musikakademie Prenzlauer Berg, Programmierer Leipzig, Geschäftsführung mit 20 Prozent in Berlin, paritätische Geschäftsführung in Erfurt, Syndikus in Hamburg und AG-Organe in Hannover enthalten zusammen 175 Originaldateien. Dazu gehören 50 Word-Dokumente, acht Excel-Mappen, 42 PDF-Belege, 51 E-Mails sowie Chats, Datenexporte und Kalendereinladungen. Wirksame Verträge, unbeschlossene Entwürfe, Behauptungen und tatsächliche Abläufe bleiben unterscheidbar. Die sechs Gesamt-PDFs umfassen lokal zusammen 296 Seiten; Originalarchive und Einzel-PDF-Archive werden jeweils gesondert bereitgestellt.
+
+## 4. Nachweise und Integration
+
+Die nativen Dokumente wurden gerendert und visuell geprüft; Excel-Formeln wurden zusätzlich mit veränderten Eingaben überprüft. Strukturprüfung, redaktionelle Bewertung und tatsächliche Dialogproben werden in getrennten Nachweisen dokumentiert. Die zentrale Dokumentqualitätsprüfung erfasst auch die neuen Sozialversicherungsakten. Pluginversionen, Marketplace, Fachzuordnung, Skill- und Downloadverzeichnisse werden gemeinsam auf 445.16.0 geführt. Wegen der GitHub-Grenze von 1.000 Release-Dateien liegen die sechs neuen Akten und die bestehende Erlanger Geschäftsführerakte im gleichversionierten Akten-Release; sämtliche Verweise werden entsprechend erzeugt. Die Sammelarchive enthalten weiterhin alle Akten, frühere Tags bleiben erhalten.
+
 # v445.15.2 - Finale Leitlinien zu Artikel 50 in den Transparenzabläufen
 
 ## 1. Konkretisierte Prüfwege

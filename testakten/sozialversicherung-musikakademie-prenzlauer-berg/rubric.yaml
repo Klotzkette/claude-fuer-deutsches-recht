@@ -1,0 +1,25 @@
+{
+  "name": "sozialversicherung-musikakademie-prenzlauer-berg",
+  "plugin": "sozialversicherungspflicht-pruefer",
+  "description": "Strukturprüfung der nativen Akte; fachliche Ergebnisprüfung erfolgt gesondert.",
+  "checks": [
+    {
+      "id": "native-vertragsgrundlage",
+      "check_type": "file_exists",
+      "description": "Die Vertragsgrundlage liegt als bearbeitbare Worddatei vor.",
+      "path": "01_Honorarvertrag_2022.docx"
+    },
+    {
+      "id": "gesamte-lesefassung",
+      "check_type": "file_exists",
+      "description": "Die zusammengeführte PDF-Lesefassung liegt neben den Originalen vor.",
+      "path": "gesamt-pdf/sozialversicherung-musikakademie-prenzlauer-berg_gesamt.pdf"
+    },
+    {
+      "id": "bearbeitbare-tabelle",
+      "check_type": "file_exists",
+      "description": "Die bearbeitbare Excelmappe mit den Aktenzahlen ist vorhanden.",
+      "path": "27_Honorarabgleich_2025.xlsx"
+    }
+  ]
+}

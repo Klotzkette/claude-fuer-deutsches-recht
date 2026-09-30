@@ -1,0 +1,220 @@
+{
+  "state": "passed",
+  "scope": "Zwei native GmbH-Originalakten; globale PDF-/ZIP-Ausgaben prüft Root.",
+  "cases": [
+    {
+      "case": "sozialversicherung-gmbh-zwanzig-prozent-berlin",
+      "originalCount": 32,
+      "formats": {
+        ".eml": 10,
+        ".docx": 8,
+        ".pdf": 6,
+        ".xlsx": 2,
+        ".csv": 2,
+        ".txt": 3,
+        ".ics": 1
+      },
+      "sha256": {
+        "01_Auftrag_20260929.eml": "7d5f7a5531b769685cfe569f860b510665025f0bcfb0b40f62564a86d4252edc",
+        "02_Satzung_unterzeichnet.docx": "055c089ac3deed90df7a4ce72748a121e6f95e4bb884619140f385ec1c3e586d",
+        "03_Registerchronologie_20260929.pdf": "110df756382c6ef05d387d0370e17785eaa79388ef182bc872f66aed32ee4aba",
+        "04_Gesellschafterliste.pdf": "9252dfac1c5de1ac93ed790745df7b849a49d09d61f50ffec2f999e90f8c6f36",
+        "05_Bestellung_Geschaeftsfuehrung.docx": "6e6058765d8bd9a3f4727473d21cf0e544332c7619ffb8ddb4cff3daa8ea48af",
+        "06_Geschaeftsfuehrer_Anstellungsvertrag.docx": "bf67ff5c6cd28d2828a98077f684a15f6ba715d8f551198b5a76fd6235a5b221",
+        "07_Shareholder_Agreement.docx": "71d03ee1a80cac67af98a6c3385f92b03670594c8f56fed35a3ca4db6ec6f0d9",
+        "08_Geschaeftsordnung.docx": "39793db1003bc8d9763ad99e07e782ca58e62fefd00ff71b9c1507eb6e1085aa",
+        "09_Satzungsaenderung_Entwurf.docx": "29f3996348998bb0f0810f59ff1236c1ac6cc27899fb22235e005dbea1b9b1fe",
+        "10_Protokoll_Budget_20260818.docx": "d969b5d8e5ca66cf94c5af5371935545d7889b5aa28361b3ebc9bb3ff894e9dc",
+        "11_Gehaltsnachtrag_20251212.pdf": "e27ff7bf654c171d9dab31a0c41edc5fc8153a33f11735ade36602f9658296dd",
+        "12_Abrechnung_202608.pdf": "f2d01a16686f2d9da1e25816c579ef808226a7280110640e4409fb3fb2467fe8",
+        "13_Bankbuchung_August_2026.pdf": "7eabdad4fb6a33164be745626e7925e6a8167d6a6f8115db3fde66ef41e02fab",
+        "14_Anteilsuebersicht.xlsx": "2ec1b18f9b64359ea66fc9b4b2658f052ad192700d3ced044a2c4abb5518edc9",
+        "15_Verguetungen_2025_2026.xlsx": "19e867bc92f44af13116bf02a4224eb7073816e22ed2e5e9744ee43de2f1a413",
+        "16_Gesellschafterdarlehen.docx": "cee7351145080c75d5a9f702670c7b09dcdfd442c51f68291ca7eeffe5545bfc",
+        "17_Lohnstelle_Rueckfrage.eml": "c4c9a3fe502f9e901df6a948be4c140b97dedb4498561f4eb9a119d9f310715c",
+        "18_Antwort_Gesellschafter.eml": "88d781e3d16ed9f30e6bed9cc797585c100deb9d0f0b38c26c8f88b4a59e2bee",
+        "19_Notariat_Stand.eml": "2a2ccc5759a12a7443f3794a6986d38fecaf318bc5068bbaaf478c05b64a31eb",
+        "20_Budget_Widerspruch.eml": "1d622c711a690f710d9357cd6c707ff49c6c8dc78366f431d3ef676e9892eb03",
+        "21_Urlaub_Handover.eml": "4470b9dde4ce6c39e9a83a330a678453f92311980c8781b954cb9ee7b0695780",
+        "22_Archivsuche_Bescheid.eml": "4f105744bdd692f0ed060aca038d71b19f081e474472d3757b4c6a49d00ecb6f",
+        "23_Option_oder_Mediation.eml": "925669374099f96b892e6b44071ab242a567bd9b90a1fb8d2ffb88bd9bbad194",
+        "24_Auslagen_Beleg.eml": "7521e4a02661c582dd6b7f1b8ba5104571929efe37c146154837edec560732fd",
+        "25_Zahlungen_2026.csv": "904603beff8285d3acd13674a3677265e603499e0503fa1f9cfdfb79836713ca",
+        "26_Projektzeiten_August.csv": "8c4c5c9ba59d391f2f3bae822b578fe2d76d085b3ca30e4f419870288c86252b",
+        "27_Chat_Export_20260925.txt": "e5048fe13a390f403317b556392deaaaced2dc447f2de68ee68ef2d01a3cfa4d",
+        "28_Telefonnotiz_20260929.txt": "833c335e4ed4dd07fef249edb93b581a72fd2b3430027b7b3d7626cf4c082711",
+        "29_Ablagenotiz_Zeitstempel.txt": "6023d31dc70e7d29bd7a528a4fab7a215e22006761aa4f046b1b0b5e383ff740",
+        "30_Beratungstermin_20261007.ics": "01b8be57683fc617c82377be897c65faab54a9a8da14799bc256f3163d5abc1b",
+        "31_Buchungsbeleg_Darlehen.pdf": "0659d3c7c395924bbedc78c24572d19b6a78d79ac5281d4fb9f529d828857a34",
+        "32_Uebergabe_20260930.eml": "f320b0833add22eae4a09b705999f7b82572f22ca2a380cf2030d6bc32bd59ae"
+      }
+    },
+    {
+      "case": "sozialversicherung-gmbh-fuenfzig-prozent-erfurt",
+      "originalCount": 32,
+      "formats": {
+        ".eml": 10,
+        ".docx": 8,
+        ".pdf": 6,
+        ".xlsx": 2,
+        ".csv": 2,
+        ".txt": 3,
+        ".ics": 1
+      },
+      "sha256": {
+        "01_Auftrag_20260929.eml": "49dd504339657056b4af99f5803ffa4b403b5946620d87b9adc231d427d88a3b",
+        "02_Satzung_unterzeichnet.docx": "b88bc5b8da2443c358bd7c14be9e444b70568569f8ca7308cbf324d43aabc8ec",
+        "03_Registerchronologie_20260929.pdf": "b329acb62295a16f47006fe72645ce01cb8ea5aa9b3c9289faaa807d677f3b73",
+        "04_Gesellschafterliste.pdf": "9a90ac469ab14967e3eae710b1a3a3f61e64418cacf61e4dda3d0114297b5c65",
+        "05_Bestellung_Geschaeftsfuehrung.docx": "f6387a8a9a83397f33898b6b758d9dab9c04aabfe7f0847216bf3bc29f7714a0",
+        "06_Geschaeftsfuehrer_Anstellungsvertrag.docx": "1f4626cee8de13b34fe7818ddcc44a87f22df474e079d1eedde5c7333e60a02f",
+        "07_Shareholder_Agreement.docx": "9bfb194aecf4f0e85ae2c2e6d1a209741934f1ca8ca39d959345d68043d0eb7f",
+        "08_Geschaeftsordnung.docx": "1dea5d84ab4bc1b0f18caa5f1eafaf56b416ccd7013e3aed81824bc71efde148",
+        "09_Satzungsaenderung_Entwurf.docx": "6cca3f3fa5abaf953332b419fa08acfaa667298c0a0a4beacb61a481f1a2c46d",
+        "10_Protokoll_Budget_20260818.docx": "820a150a457a253f772230399428fd8be812fbb3678c1e244fd3025a0e0967c7",
+        "11_Gehaltsnachtrag_20251212.pdf": "2e627e7f9db4f449374bfe28273a8fa2bfbd76328afc7e088d1fd3b310ae1797",
+        "12_Abrechnung_202608.pdf": "b6898238c00fa16da51085a546d00fa6af4adc899c841771d6d6fa3e60883525",
+        "13_Bankbuchung_August_2026.pdf": "7faf1109c0978fa0275fce93da10c2d79c687b5fa60cb3d908972f5fe27b9159",
+        "14_Anteilsuebersicht.xlsx": "e039bdd8e5d947325745ad22387959f1d5b59c575e8f79dcdc37d5d4ecd9c64a",
+        "15_Verguetungen_2025_2026.xlsx": "019347e4ff0fc2ada16fafa3a80e33a02e0a56a68d1095556654f172b660e587",
+        "16_Gesellschafterdarlehen.docx": "ed293c62eff38d77864bce8da94ceafd12b2a7ace84677e76c1534251f10a0e9",
+        "17_Lohnstelle_Rueckfrage.eml": "76371b586001ae25103263f06daa1105adbcb856031fe5857319fe4637409445",
+        "18_Antwort_Gesellschafter.eml": "f5b69f9eba4f99babfa463c95b894c663dda73a88932af776dd678f507192d76",
+        "19_Notariat_Stand.eml": "a61f39212d3689c5e5c5c420d0ae52aae3e2bed0c85d57ebbb32c3516a7e3745",
+        "20_Budget_Widerspruch.eml": "a0cc80e31e49dad50e1fb3d4d0be62198fbcae53fd6882092e8e3674d70d4452",
+        "21_Urlaub_Handover.eml": "afa6b90544fe8748432c4644cd2baa20d75d1d077b1e5007cd95c2236d700e26",
+        "22_Archivsuche_Bescheid.eml": "5519cf4693e2ad11d92f4618466b615e2b486e8933cf05f77f6723fb11095117",
+        "23_Option_oder_Mediation.eml": "90148790f7fa77ef5f4d105ddf3e8b2c796029cf426e4bce98640987e95e5f9c",
+        "24_Auslagen_Beleg.eml": "85bdc6d1731bca600434fdc04633c7dd4087fddc22b8fbcbc11c7fcd97a3164f",
+        "25_Zahlungen_2026.csv": "9f28bed0a0b93dcc79ef1e7c09ce91cb4edbaa7356f99ee86b5ba4a42859ddb1",
+        "26_Projektzeiten_August.csv": "d78e174324e5b64a3b28dc1f3a0d85daf3a025b97c4fb1e9952a99043b68c655",
+        "27_Chat_Export_20260925.txt": "7806deeb5a1ef106ea89cb9bbe4a13547a059252774ea5096609bb5627a3c898",
+        "28_Telefonnotiz_20260929.txt": "4a36aee3dd152232e0994cf68e751332d888b0fa77cfd99699ce1a4f4ab94344",
+        "29_Ablagenotiz_Zeitstempel.txt": "9d61535dfd56b29185b7a5402ddff2c941e4ff468d0561ff9c364d3b77771885",
+        "30_Beratungstermin_20261007.ics": "16ace76e22e2bb430ba42bf9375b5e238f5b2e06bc7cef6ff8a13d39d94c0529",
+        "31_Buchungsbeleg_Darlehen.pdf": "8da9da17993725db083ab5886d23ce44150bf09e27e3090fcbdbc4bb216bb988",
+        "32_Uebergabe_20260930.eml": "e100f09e879b693aa38602a7d64535a06e4b2084fbf2f86002885d2d4379b24f"
+      }
+    }
+  ],
+  "visualReview": {
+    "docxFiles": 16,
+    "docxPages": 22,
+    "pdfFiles": 12,
+    "pdfPages": 12,
+    "allDocumentPagesViewed": 34,
+    "xlsxFiles": 4,
+    "allWorksheetsViewed": 4,
+    "findings": "Kein abgeschnittener oder überlappender Text; Überschriften nun Times New Roman, PDF-Schriften eingebettet. Vollständige Seiten einzeln in voller Auflösung geöffnet. Kleine Interpunktion bereinigt und beide betroffenen DOCX erneut vollständig gerendert und geprüft."
+  },
+  "calculation": [
+    {
+      "file": "testakten/sozialversicherung-gmbh-zwanzig-prozent-berlin/14_Anteilsuebersicht.xlsx",
+      "variant": "original",
+      "engine": "bundled-runtime/dependencies/native/libreoffice-headless/libreoffice/LibreOfficeDev.app/Contents/MacOS/soffice",
+      "formulas": 11,
+      "outputs": {
+        "sum": 30000,
+        "totalShare": 1,
+        "firstShare": 0.2
+      },
+      "passed": true
+    },
+    {
+      "file": "testakten/sozialversicherung-gmbh-zwanzig-prozent-berlin/14_Anteilsuebersicht.xlsx",
+      "variant": "mutation",
+      "engine": "bundled-runtime/dependencies/native/libreoffice-headless/libreoffice/LibreOfficeDev.app/Contents/MacOS/soffice",
+      "formulas": 11,
+      "outputs": {
+        "sum": 30100,
+        "totalShare": 1,
+        "firstShare": 0.20265780730897
+      },
+      "passed": true
+    },
+    {
+      "file": "testakten/sozialversicherung-gmbh-zwanzig-prozent-berlin/15_Verguetungen_2025_2026.xlsx",
+      "variant": "original",
+      "engine": "bundled-runtime/dependencies/native/libreoffice-headless/libreoffice/LibreOfficeDev.app/Contents/MacOS/soffice",
+      "formulas": 24,
+      "outputs": {
+        "D5": 6200,
+        "D27": 74400,
+        "D28": 61200,
+        "D29": 135600
+      },
+      "passed": true
+    },
+    {
+      "file": "testakten/sozialversicherung-gmbh-zwanzig-prozent-berlin/15_Verguetungen_2025_2026.xlsx",
+      "variant": "mutation",
+      "engine": "bundled-runtime/dependencies/native/libreoffice-headless/libreoffice/LibreOfficeDev.app/Contents/MacOS/soffice",
+      "formulas": 24,
+      "outputs": {
+        "D5": 6300,
+        "D27": 74500,
+        "D28": 61200,
+        "D29": 135700
+      },
+      "passed": true
+    },
+    {
+      "file": "testakten/sozialversicherung-gmbh-fuenfzig-prozent-erfurt/14_Anteilsuebersicht.xlsx",
+      "variant": "original",
+      "engine": "bundled-runtime/dependencies/native/libreoffice-headless/libreoffice/LibreOfficeDev.app/Contents/MacOS/soffice",
+      "formulas": 4,
+      "outputs": {
+        "sum": 50000,
+        "totalShare": 1,
+        "firstShare": 0.5
+      },
+      "passed": true
+    },
+    {
+      "file": "testakten/sozialversicherung-gmbh-fuenfzig-prozent-erfurt/14_Anteilsuebersicht.xlsx",
+      "variant": "mutation",
+      "engine": "bundled-runtime/dependencies/native/libreoffice-headless/libreoffice/LibreOfficeDev.app/Contents/MacOS/soffice",
+      "formulas": 4,
+      "outputs": {
+        "sum": 50100,
+        "totalShare": 1,
+        "firstShare": 0.500998003992016
+      },
+      "passed": true
+    },
+    {
+      "file": "testakten/sozialversicherung-gmbh-fuenfzig-prozent-erfurt/15_Verguetungen_2025_2026.xlsx",
+      "variant": "original",
+      "engine": "bundled-runtime/dependencies/native/libreoffice-headless/libreoffice/LibreOfficeDev.app/Contents/MacOS/soffice",
+      "formulas": 24,
+      "outputs": {
+        "D5": 6500,
+        "D27": 78000,
+        "D28": 64800,
+        "D29": 142800
+      },
+      "passed": true
+    },
+    {
+      "file": "testakten/sozialversicherung-gmbh-fuenfzig-prozent-erfurt/15_Verguetungen_2025_2026.xlsx",
+      "variant": "mutation",
+      "engine": "bundled-runtime/dependencies/native/libreoffice-headless/libreoffice/LibreOfficeDev.app/Contents/MacOS/soffice",
+      "formulas": 24,
+      "outputs": {
+        "D5": 6600,
+        "D27": 78100,
+        "D28": 64800,
+        "D29": 142900
+      },
+      "passed": true
+    }
+  ],
+  "coherence": [
+    "Berlin 6.000 / 30.000 EUR = 20 %; weitere Anteile 15.000 und 9.000 EUR. 85 %-Katalog bleibt punktuell; umfassende Fassung unbeschlossener Entwurf.",
+    "Erfurt 25.000 / 50.000 EUR = genau 50 %; keine Mehrheit. Gleichstand in geltender Satzung führt zur Ablehnung, unverbindliche Moderation. Neutrale Entscheidung nur unbeschlossener Entwurf.",
+    "Jahresvergütung 2025: Berlin 74.400 EUR, Erfurt 78.000 EUR. Januar bis September 2026: Berlin 61.200 EUR, Erfurt 64.800 EUR.",
+    "August-Auszahlung: Berlin 5.317,60 EUR, Erfurt 5.521,80 EUR. Abrechnung, Bankbeleg und CSV stimmen überein. Darlehen 12.000 / 15.000 EUR separat; 186,40 EUR Auslagen separat.",
+    "Alle operativen Grundsachverhalte in Deutschland. Kein Statusbescheid behauptet; alte Beitragsgruppe 0000 und falsche Auskünfte dokumentiert, keine vorgefertigte rechtliche Lösung."
+  ],
+  "builderPortability": "Keine /Users-Pfade in den beiden Buildern. Runtime via CODEX_RUNTIME_DEPENDENCIES_ROOT oder normaler Node-Auflösung einschließlich NODE_PATH. QA via SV_AKTEN_QA_DIR oder Temp-Verzeichnis. PDF-Fontauswahl Mac, Linux Liberation Serif, zuletzt eingebautes Times; keine Desktop-LO-Nutzung. Nur Syntaxprüfung nach Portabilitätsänderung, Originale nicht neu gebaut."
+}
