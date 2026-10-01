@@ -129,11 +129,25 @@ def is_case_readme(path: Path, root: Path) -> bool:
 
 
 def update_download_readmes(root: Path) -> int:
+    from release_routing import rewrite_case_asset_urls
+
     changed = 0
     for path in download_readmes(root):
         text = path.read_text(encoding="utf-8")
         updated = ensure_download_notices(text, case_readme=is_case_readme(path, root))
+        updated = rewrite_case_asset_urls(updated, root=root)
         if updated != text:
             path.write_text(updated, encoding="utf-8")
             changed += 1
+    # Vorschauseiten gehören nicht zum Marketplace-README-Generator.
+    excluded = {".git", ".venv", "dist", "node_modules", "release-staging", "__pycache__"}
+    for suffix in ("*.html", "*.htm"):
+        for path in root.rglob(suffix):
+            if not path.is_file() or set(path.relative_to(root).parts) & excluded:
+                continue
+            text = path.read_text(encoding="utf-8")
+            updated = rewrite_case_asset_urls(text, root=root)
+            if updated != text:
+                path.write_text(updated, encoding="utf-8")
+                changed += 1
     return changed

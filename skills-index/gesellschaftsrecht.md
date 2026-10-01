@@ -1,6 +1,6 @@
 # gesellschaftsrecht
 
-**118 Skills** · Stand `v445.20.2`
+**118 Skills** · Stand `v445.21.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../gesellschaftsrecht/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

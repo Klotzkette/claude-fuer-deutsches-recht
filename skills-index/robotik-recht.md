@@ -1,6 +1,6 @@
 # robotik-recht
 
-**213 Skills** · Stand `v445.20.2`
+**213 Skills** · Stand `v445.21.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../robotik-recht/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

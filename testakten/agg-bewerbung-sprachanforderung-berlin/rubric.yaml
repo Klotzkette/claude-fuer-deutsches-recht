@@ -1,0 +1,25 @@
+name: agg-bewerbung-sprachanforderung-berlin
+plugin: antidiskriminierung-agg
+description: Bewerbungsunterlagen und Schriftwechsel zu Sprachvorgaben und Dienstzeiten in Berlin.
+checks:
+  - id: originalausschreibung
+    check_type: file_exists
+    description: Die erste Ausschreibung ist als eigenes Dokument vorhanden.
+    path: 01_stellenanzeige_2608.docx
+  - id: geaenderte-ausschreibung
+    check_type: file_exists
+    description: Die zweite Fassung bleibt getrennt nachvollziehbar.
+    path: 09_stellenanzeige_1509.docx
+  - id: absage
+    check_type: file_exists
+    description: Die Absage liegt mit vollständigen Nachrichtenheadern vor.
+    path: 06_absage.eml
+  - id: quellenspur
+    check_type: human_review
+    description: Namen, Kennziffern, Daten, Dienstzeiten und Dokumentverweise stimmen über die drei Ausgabeformate überein.
+  - id: offene-wuerdigung
+    check_type: human_review
+    description: Die Unterlagen enthalten nur Vorgänge und Parteiaussagen, keine Musterlösung oder Arbeitsaufträge.
+  - id: respektvolle-sprache
+    check_type: human_review
+    description: Der Vorgang ist ohne Beschimpfungen und ohne zugeschriebene Eigenschaften aus Namen verständlich.

@@ -30,7 +30,7 @@ Kategorien sind alphabetisch nach Titel sortiert, Einträge innerhalb jeder Kate
 | --- | ---: |
 | [Agrarrecht](#agrarrecht) | 2 |
 | [Anwaltliches Berufsrecht und Kanzleimanagement](#anwaltliches-berufsrecht-und-kanzleimanagement) | 17 |
-| [Arbeitsrecht](#arbeitsrecht) | 8 |
+| [Arbeitsrecht](#arbeitsrecht) | 9 |
 | [Bank- und Kapitalmarktrecht](#bank--und-kapitalmarktrecht) | 6 |
 | [Bau- und Architektenrecht](#bau--und-architektenrecht) | 7 |
 | [BGB Allgemeiner Teil und Methodenlehre](#bgb-allgemeiner-teil-und-methodenlehre) | 7 |
@@ -63,7 +63,7 @@ Kategorien sind alphabetisch nach Titel sortiert, Einträge innerhalb jeder Kate
 | [Versicherungsrecht](#versicherungsrecht) | 3 |
 | [Verwaltungsrecht](#verwaltungsrecht) | 34 |
 
-246 kuratierte Plugins in 34 Kategorien, aus insgesamt 258 Marketplace-Plugins (Abgleich: 30. September 2026). Gezählt werden Plugins, nicht einzelne Skills oder Prompt-Dateien.
+247 kuratierte Plugins in 34 Kategorien, aus insgesamt 259 Marketplace-Plugins (Abgleich: 1. Oktober 2026). Gezählt werden Plugins, nicht einzelne Skills oder Prompt-Dateien.
 
 ## Agrarrecht
 
@@ -91,6 +91,8 @@ Kategorien sind alphabetisch nach Titel sortiert, Einträge innerhalb jeder Kate
 - [solo-selbststaendige-praxis](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/solo-selbststaendige-praxis): Praxisplugin für Solo-Selbstständige in Deutschland: Start, Anmeldung, Steuern, Verträge, Rechnungen, Datenschutz, Statusfeststellung, KSK, Versicherungen… · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=solo-selbststaendige-praxis/solo-selbststaendige-praxis-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=solo-selbststaendige-praxis/solo-selbststaendige-praxis-werkstatt.md)
 
 ## Arbeitsrecht
+
+- [antidiskriminierung-agg](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/antidiskriminierung-agg): Bewerbung, Arbeitsplatz und Zivilverkehr nach dem AGG: Fristen, Indizien, Rechtfertigung und konkrete Schreiben. · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=antidiskriminierung-agg/antidiskriminierung-agg-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=antidiskriminierung-agg/antidiskriminierung-agg-werkstatt.md)
 
 - [arbeitsrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht): Arbeitsrechtliche Workflows für Kündigung, Befristung, Urlaub, AGG, Aufhebungsvertrag, Betriebsrat, Arbeitszeit, Lohn und Expansion · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=arbeitsrecht/arbeitsrecht-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=arbeitsrecht/arbeitsrecht-werkstatt.md)
 - [arbeitszeugnis-analyse](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitszeugnis-analyse): Analyse deutscher Arbeitszeugnisse nach Ampelsystem (Rot/Orange/Grün). Geheimcodes, Schaufenster-Drift, negative Codeworte, Steigerungsadverbien · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=arbeitszeugnis-analyse/arbeitszeugnis-analyse-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=arbeitszeugnis-analyse/arbeitszeugnis-analyse-werkstatt.md)

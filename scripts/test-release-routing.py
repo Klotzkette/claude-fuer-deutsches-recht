@@ -90,6 +90,32 @@ class Fixture(unittest.TestCase):
 
 
 class RepositoryRoutingTests(unittest.TestCase):
+    def test_legacy_readmes_and_html_follow_version_idempotently(self):
+        from testakte_download_notices import update_download_readmes
+
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            (root / ".claude-plugin").mkdir()
+            (root / ".claude-plugin/marketplace.json").write_text(
+                json.dumps({"version": VERSION, "plugins": []}), encoding="utf-8")
+            (root / "testakten/fixture-alpha").mkdir(parents=True)
+            legacy = root / "legacy/README.md"
+            legacy.parent.mkdir()
+            old = f"{R.RELEASE_BASE}/download/akten-v1.0.0/testakte-fixture-alpha.zip"
+            legacy.write_text(f"# Legacy\n\n[Download]({old})\n", encoding="utf-8")
+            html = root / "preview/index.html"
+            html.parent.mkdir()
+            html.write_text(f'<a href="{old}">Download</a>', encoding="utf-8")
+            ignored = root / "dist/index.html"
+            ignored.parent.mkdir()
+            ignored.write_text(html.read_text(), encoding="utf-8")
+            self.assertEqual(update_download_readmes(root), 2)
+            for path in (legacy, html):
+                self.assertIn(f"/download/{TAG}/", path.read_text())
+                self.assertNotIn("akten-v1.0.0", path.read_text())
+            self.assertIn("akten-v1.0.0", ignored.read_text())
+            self.assertEqual(update_download_readmes(root), 0)
+
     def test_every_central_case_and_both_zip_variants_are_routed(self):
         expected = tuple(sorted(
             path.name for path in (R.ROOT / "testakten").iterdir()

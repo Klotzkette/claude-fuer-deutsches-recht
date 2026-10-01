@@ -121,6 +121,12 @@ EXACT_GROUPS: dict[str, str] = {
 }
 
 PLUGIN_GROUPS = {
+    "antidiskriminierung-agg": [
+        ("1. Vorgang und Frist", ["agg-fall-zum-schreiben-fuehren", "agg-fristen-und-ansprueche-sichern"]),
+        ("2. Lebensbereich und Beweise", ["bewerbung-und-befoerderung-pruefen", "entgelt-und-arbeitsbedingungen-vergleichen", "wohnraum-und-dienstleistungen-pruefen", "indizien-und-vergleichsfaelle-pruefen"]),
+        ("3. Anhörung und Rechtfertigung", ["beschwerde-und-schutzmassnahmen-bearbeiten", "ungleichbehandlung-und-rechtfertigung-pruefen"]),
+        ("4. Durchsetzung und Abhilfe", ["agg-klage-und-erwiderung-entwerfen", "agg-abhilfe-und-vereinbarung-gestalten"]),
+    ],
     "jura-in-einfacher-sprache": [
         ("1. Übertragen und verstehen", ["juristischen-text-uebertragen", "juristischen-text-erklaeren"]),
         ("2. Schreiben und antworten", ["schreiben-in-einfacher-sprache-erstellen", "auf-juristische-post-antworten"]),

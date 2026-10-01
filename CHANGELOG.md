@@ -1,3 +1,21 @@
+# v445.21.0 - Antidiskriminierung nach dem AGG
+
+## 1. Zehn konkrete Arbeitswege
+
+Neues Paket `antidiskriminierung-agg` mit genau zehn Skills für Fallaufnahme, Ausschlussfristen, Indizienbeweis, Bewerbung, Entgeltvergleich, Beschwerde, Rechtfertigung, Zivilverkehr, Prozess und Abhilfe. Vorhandene Unterlagen führen ohne erneute Vollaufnahme zum beauftragten Schreiben. Herkunft und andere Eigenschaften werden nicht aus Namen oder Aussehen abgeleitet.
+
+## 2. Eigenständige Prompts und geprüfte Fallkarten
+
+Ausführliche Werkstatt und kompakter Schnellstart enthalten eigene Verzweigungen, Normen und sechs amtlich geprüfte Rechtsprechungsanker einschließlich Entscheidungen von 2026. Anwendungsgrenzen und der abweichende Quellenstatus einer Pressemitteilung sind ausdrücklich gekennzeichnet. Werkstatt und Schnellstart bleiben separate Downloads außerhalb der installierten Skills.
+
+## 3. Kultursensible Bewerbungsakte
+
+Fünfzehn getrennte Unterlagen zu einer Berliner Stellenbesetzung: zwei Anzeigenfassungen, Bewerbung, Lebenslauf, Gesprächsnotiz, Aufgabenblatt, sechs E-Mails, Chat, Telefonnotiz und Portalverlauf. Keine Beschimpfungen und keine Musterlösung. Gesamt-PDF, flaches Einzel-PDF-ZIP und flaches Originalformat-ZIP werden aus demselben Bestand gebaut. Die vorgeschriebenen Hinweise stehen auf den Downloadseiten und in den ZIP-Readmes.
+
+## 4. Prüfung und Verzeichnisse
+
+Sieben automatische Paketprüfungen und zehn individuelle fachliche Bewertungsfälle sichern Struktur, Verweise, Fristenunterscheidung und Dokumentkonsistenz. Die Bewertungsfälle sind keine behaupteten Modellläufe. Marketplace, alphabetische Verzeichnisse, thematische Navigation und Downloadlisten werden aktualisiert. Der Download-Abgleich aktualisiert nun auch Aktenlinks in älteren Einstiegs-READMEs und HTML-Vorschauseiten; ein Wiederholungstest sichert diese Versionspflege. Bestehende Fachinhalte bleiben unverändert.
+
 # v445.20.2 - Release-Routing gegen das GitHub-Assetlimit gehärtet
 
 - **Alle zentralen Testakten im Begleitrelease:** Beide ZIP-Varianten jeder zentralen Testakte werden nun einheitlich unter `akten-v445.20.2` veröffentlicht. Plugin-ZIPs, Marketplace und vollständige Sammelpakete bleiben im Hauptrelease.

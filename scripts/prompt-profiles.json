@@ -2,14 +2,24 @@
   "schema_version": 1,
   "plugins": {
     "jura-in-einfacher-sprache": {
-      "standalone": ["werkstatt", "schnellstart"],
-      "formats": ["md"],
+      "standalone": [
+        "werkstatt",
+        "schnellstart"
+      ],
+      "formats": [
+        "md"
+      ],
       "megaprompt": false,
       "hand_curated": true
     },
     "sozialrecht-fuer-laien": {
-      "standalone": ["werkstatt", "schnellstart"],
-      "formats": ["md"],
+      "standalone": [
+        "werkstatt",
+        "schnellstart"
+      ],
+      "formats": [
+        "md"
+      ],
       "megaprompt": false,
       "hand_curated": true
     },
@@ -70,12 +80,28 @@
       "hand_curated": true
     },
     "pflegerecht-sgb-xi": {
-      "standalone": ["werkstatt", "schnellstart"],
-      "formats": ["md"],
+      "standalone": [
+        "werkstatt",
+        "schnellstart"
+      ],
+      "formats": [
+        "md"
+      ],
       "megaprompt": false,
       "hand_curated": true
     },
     "sozialversicherungspflicht-pruefer": {
+      "standalone": [
+        "werkstatt",
+        "schnellstart"
+      ],
+      "formats": [
+        "md"
+      ],
+      "megaprompt": false,
+      "hand_curated": true
+    },
+    "antidiskriminierung-agg": {
       "standalone": [
         "werkstatt",
         "schnellstart"

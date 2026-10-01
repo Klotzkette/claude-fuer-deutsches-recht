@@ -288,6 +288,7 @@ def compact_prompt_fragment(value: str, limit: int = 210) -> str:
 
 
 HANDCURATED_FIRST_PRODUCTS = {
+    "antidiskriminierung-agg": "Prüfe meine Absage und die beiden Anzeigen, sichere die AGG-Fristen und erstelle das passende Anspruchs- oder Nachfrageschreiben; unterscheide belegte Auswahlgründe und offene Tatsachen",
     "jura-in-einfacher-sprache": "Lies meinen Text und kläre nur, ob ich eine Erklärung, einfache Sprache, juristische Standardsprache oder eine Antwort brauche; erhalte Bedingungen, Ausnahmen und Fristen",
     "sozialrecht-fuer-laien": "Lies meinen Brief, prüfe zuerst Frist und dringenden Bedarf und hilf mir mit dem nächsten Antrag oder Antwortentwurf; frage nur entscheidende fehlende Tatsachen nach und erkläre den Einreichungsweg einfach",
     "pflegerecht-sgb-xi": "Erstelle den beauftragten Pflegeantrag, Leistungsplan oder Rechtsbehelf aus Bescheid, Gutachten und Belegen; trenne Pflegegrad, Kosten und Versicherungsart, kläre nur entscheidende Lücken und führe den Entwurf nach Rückantwort fort",
@@ -344,6 +345,14 @@ def first_product(directory: Path, plugin_name: str) -> str:
 
 
 def quickstart_section(plugin_name: str, directory: Path) -> str:
+    if plugin_name == "antidiskriminierung-agg":
+        return """## In 30 Sekunden starten
+
+Wählen Sie im Plugin `agg-fall-zum-schreiben-fuehren`. Ohne Installation genügt der Mini-Prompt oder die ausführliche Werkstatt aus der Downloadtabelle. Beispiel:
+
+> Die Absage und zwei Fassungen der Stellenanzeige liegen im Ordner. Prüfe zuerst die Fristen und hilf mir mit einem sachlichen Anspruchsschreiben. Frage nur nach entscheidenden fehlenden Angaben.
+
+Der Arbeitsweg trennt Bewerbung, Arbeitsplatz und Zivilverkehr. Vorhandene Angaben werden weiterverwendet; nach Ihrer Antwort wird am selben Entwurf gearbeitet. Das Paket ist ein Experiment und keine Rechtsberatung."""
     if plugin_name in {"jura-in-einfacher-sprache", "sozialrecht-fuer-laien"}:
         entry = "juristischen-text-uebertragen" if plugin_name == "jura-in-einfacher-sprache" else "meinen-sozialfall-starten"
         example = (

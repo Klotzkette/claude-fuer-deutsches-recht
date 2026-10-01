@@ -1,6 +1,6 @@
 # kanzlei-allgemein
 
-**52 Skills** · Stand `v445.20.2`
+**52 Skills** · Stand `v445.21.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../kanzlei-allgemein/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

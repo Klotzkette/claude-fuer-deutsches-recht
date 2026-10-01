@@ -1,6 +1,6 @@
 # haushaltsrecht-bho-bund-laender
 
-**262 Skills** · Stand `v445.20.2`
+**262 Skills** · Stand `v445.21.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../haushaltsrecht-bho-bund-laender/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
