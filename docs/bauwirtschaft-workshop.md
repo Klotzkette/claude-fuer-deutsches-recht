@@ -1,6 +1,6 @@
 # 1. KI-Workshop Bauwirtschaft
 
-Fünf übergreifende Akten verbinden Planung, Bauausführung, Vergabe und kaufmännische Arbeit. Hinzu kommen [neun eigenständige Phasenakten](bauwirtschaft-hoai-phasen.md), jeweils mit einem HOAI-Phasenskill und einer eigenen großen Werkstatt. Das Plugin Bauwirtschaft enthält 29 ausführende Skills. Werkstatt, Schwerpunkt, Mini-/Schnellstart-Prompt und die neun Phasen-Werkstätten sind eigenständige Markdown-Dateien. Die Testakten werden separat bereitgestellt.
+Sechs übergreifende Akten verbinden Planung, Bauausführung, Vergabe und kaufmännische Arbeit. Hinzu kommen [neun eigenständige Phasenakten](bauwirtschaft-hoai-phasen.md), jeweils mit einem HOAI-Phasenskill und einer eigenen großen Werkstatt. Das Plugin Bauwirtschaft enthält 29 ausführende Skills. Werkstatt, Schwerpunkt, Mini-/Schnellstart-Prompt und die neun Phasen-Werkstätten sind eigenständige Markdown-Dateien. Die Testakten werden separat bereitgestellt.
 
 ## 1.1. Vorbereitung
 
@@ -15,7 +15,7 @@ Arbeite für jede Übung in einer Kopie des Aktenordners. Lade entweder den pass
 | Baubuchhaltung | Bauunternehmen Bad Salzuflen | 60–90 Minuten | Belegregister, Buchungsvorschläge, OPOS-/Bankabgleich und Zahlungsvorschlag. |
 | Projektsteuerung | Werkhalle Warendorf | 30 Minuten | Kostenprognose, Zahlungsplanung und Entscheidungsvorlage. |
 | Neubau zur Vermietung | Achtfamilienhaus Hildesheim | 90–120 Minuten | Eine gewählte HOAI-Phase bearbeiten und ihre Planungs-, Vertrags- und Finanzbelege fortführen. |
-| Hildesheim mit Projektordnern | [Erweiterte Lebensakte: tägliches Bautagebuch, detaillierte LVs, Wordvorlagen und nur optionale Verkaufsvariante](../testakten/bauwirtschaft-hildesheim-lebensakte/README.md). |
+| Hildesheim mit Projektordnern | [Erweiterte Lebensakte](../testakten/bauwirtschaft-hildesheim-lebensakte/README.md) | 90–120 Minuten je Schwerpunkt | Einen ausgewählten Vorgang anhand von Bautagebuch, Leistungsverzeichnis, Protokollen und Belegen bearbeiten; eine Verkaufsvariante nur bei entsprechendem Auftrag prüfen. |
 
 Die Übungen sind einzeln verwendbar. Für einen Workshop mit drei Stunden wähle HOAI, Vergabe und Buchhaltung und plane kurze gemeinsame Besprechungen ein.
 
@@ -27,6 +27,7 @@ This test case file was generated with AI and is an experiment. Use at your own 
 
 | Akte | Unterlagen und Downloads |
 | --- | --- |
+| Hildesheim mit Projektordnern | [Erweiterte Lebensakte mit täglichem Bautagebuch, detaillierten Leistungsverzeichnissen, Wordvorlagen und optionaler Verkaufsvariante](../testakten/bauwirtschaft-hildesheim-lebensakte/README.md). |
 | Achtfamilienhaus Hildesheim | [Alle neun Phasen, Erwerb, Bau, Vermietung, Rechnungen und Excel-Arbeitsmappen](../testakten/bauwirtschaft-neubau-achtfamilienhaus-hildesheim/README.md). |
 | Bürgerhaus Leinewinkel in Einbeck | [44 Originalunterlagen, Gesamt-PDF und beide ZIP-Varianten](../testakten/bauwirtschaft-hoai-buergerhaus-einbeck/README.md). |
 | Lüftungslos Feuerwehrhaus Northeim | [32 Originalunterlagen, Gesamt-PDF und beide ZIP-Varianten](../testakten/bauwirtschaft-vergabeverfahren-feuerwehrhaus-northeim/README.md). |
