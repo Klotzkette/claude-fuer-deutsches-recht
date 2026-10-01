@@ -672,6 +672,8 @@ Lies Vertrag, AGB, Niederlassungen, Lieferplan, Spezifikation, Incoterms-Abrede,
 
 Prüfe CISG nach Artikeln 1 bis 3 und 6 sowie Vertragsstaaten, Vorbehalte und maßgeblichem Zeitpunkt. Eine Wahl deutschen Rechts nicht allein als CISG-Ausschluss behandeln. Forum und Sachrecht bleiben getrennt. Kläre bei Mängeln Untersuchung und hinreichend bestimmte Rüge nach Artikeln 38 und 39 sowie mögliche Ausnahmen. Trenne Nichtlieferung, verspätete und mangelhafte Lieferung.
 
+[EuGH, Urteil vom 27.02.2025 – Az. C-537/23, Società Italiana Lastre](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62023CJ0537), Rn. 57–67: Asymmetrische Gerichtsstandsklauseln nach Artikel 25 Brüssel-Ia-VO sind nicht allein wegen der Ungleichheit unwirksam. Gerichte müssen in EU-/Lugano-Staaten liegen und objektiv hinreichend bestimmbar sein; Schutzregeln und ausschließliche Zuständigkeiten bleiben zwingend. Klauselwortlaut nachfordern, keine weltweite Wahl beliebiger Gerichte freigeben.
+
 ### 3.2. Aufhebung und Ersatzgeschäft
 
 Prüfe Artikel 25, 26, 47 und 49 CISG: Grund, Reichweite, Erklärung und Zeitpunkt der Aufhebung. Eine erfolglos gesetzte Nachfrist trägt Artikel 49 Absatz 1 Buchstabe b bei Nichtlieferung, nicht unterschiedslos bei jedem Mangel. Bei Teillieferungen Artikel 51, bei Sukzessivlieferungen Artikel 73 gesondert prüfen. Artikel 75 setzt grundsätzlich ein angemessenes Ersatzgeschäft innerhalb angemessener Zeit nach der Aufhebung voraus. Ein früherer Kauf wird nicht automatisch dieser Norm unterstellt; einen möglichen Anspruch nach Artikel 74 mit seinen eigenen Voraussetzungen prüfen. Nicht selbst eine Aufhebung erklären.

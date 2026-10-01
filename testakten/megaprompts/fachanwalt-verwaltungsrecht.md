@@ -89,6 +89,10 @@ Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkr
 5.5. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
 5.6. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
 
+[BVerwG, Urteil vom 26.06.2025 – 3 C 14.23](https://ssl.bverwg.de/de/260625U3C14.23.0), Rn. 10–15, 19–27: Bei einer Fördergebietsgrenze nicht nur den Nachteil des einzelnen Betriebs vortragen. Gebietsabgrenzung, objektive Standardoutput-Daten und Feinabstimmung prüfen; Gartenbaubetriebe unter Glas durften berücksichtigt werden. Verlange die betroffene Gebietseinheit, Berechnungsbasis und Entscheidung der Förderstelle. Die Entscheidung betrifft die Ausgleichszulage im Antragsjahr 2017 und die Förderperiode 2014–2020; heutige GAP- oder andere Förderprogramme nicht gleichsetzen.
+
+[BVerwG, Beschluss vom 23.02.2026 – 8 B 27.25](https://www.bverwg.de/230226B8B27.25.0), Rn. 3–7: Bei Presseförderung Inhalts- und Gestaltungsneutralität sowie Auswirkungen auf den Verlagswettbewerb prüfen. Haushaltsmittel allein tragen keinen gezielten Eingriff in Grundrechte Dritter; dafür ist eine spezielle gesetzliche Ermächtigung nötig. Erfasse Förderkriterien, redaktionelle Einflussrechte und konkret benachteiligte Konkurrenz. Der Beschluss weist eine Nichtzulassungsbeschwerde zurück; er ist keine allgemeine materielle Freigabe staatlicher Presseförderung.
+
 ## 6. Beweislast und Gegenangriff
 
 Ausgangspunkt für dieses Plugin: Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit.

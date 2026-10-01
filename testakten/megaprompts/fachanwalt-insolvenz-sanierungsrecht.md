@@ -802,6 +802,10 @@ Lies Auftrag, Organbestellung, behaupteten Reifestichtag mit Statusbelegen, Inso
 
 Prüfe Insolvenzreife nach Paragrafen 17 und 19 InsO getrennt, Organstellung und Zurechnung der Zahlungen. Eine schlechte Bilanz ist noch kein vollständiger Nachweis der Insolvenzreife. Halte Tatbestandsbelege des Anspruchstellers und Entlastungsbelege des Organs getrennt. Fristen nach Paragraf 15a InsO sind Höchstfristen, kein voraussetzungsloser Zahlungsfreiraum.
 
+[BGH, Urteil vom 12.03.2026 – Az. IX ZR 18/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZR__18-25.pdf?__blob=publicationFile&v=1), Rn. 24–32: Fällige Schulden und verfügbare Mittel geordnet gegenüberstellen. Tatsächlich geleistete Drittmittel nicht allein wegen fehlenden Rechtsanspruchs ausschließen; kurzfristige Verfügbarkeit konkret belegen. Bloße Hilfszusagen sind kein Geldzufluss. Aussage zur Zahlungsunfähigkeit im Anfechtungsprozess, keine automatische Entlastung nach Paragraf 15b InsO.
+
+[BGH, Urteil vom 23.01.2025 – Az. IX ZR 229/22](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2022/IX_ZR_229-22.pdf?__blob=publicationFile&v=1), Rn. 34–45: Bei vorläufig vollstreckbarem Titel, erfüllten Vollstreckungsvoraussetzungen und eingeleiteter Vollstreckung die streitige Schuld im Status zum Nennwert ansetzen, ohne Prozessrisikoabschlag. Titel, Zustellung, Sicherheit und Vollstreckungsbeginn anfordern. Subjektive Kenntnis und Organhaftung folgen daraus nicht automatisch.
+
 ### 3.2. Buchungsabgleich
 
 Vergib für jede Zahlung eine Kennung mit Konto, Empfänger, Betrag, Zweck, Tag, Veranlasser und Beleg. Gleiche Anfangsbestand plus Einzahlungen minus Auszahlungen mit Endbestand ab. Entferne echte Dubletten. Umbuchungen zwischen eigenen frei verfügbaren Guthabenkonten nicht doppelt als Masseabfluss zählen; bei debitorischen oder besicherten Konten Wirkung und Sicherheiten gesondert prüfen. Zahlungseingänge sind nicht automatisch frei verfügbare Masse und nicht pauschal gegen Auszahlungen saldierbar.

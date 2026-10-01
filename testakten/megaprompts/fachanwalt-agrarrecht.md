@@ -90,6 +90,10 @@ Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkr
 5.5. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
 5.6. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
 
+[BGH, Beschluss vom 09.05.2025 – BLw 2/24](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/LdwS/2024/BLw___2-24.pdf?__blob=publicationFile&v=1), Rn. 8–17: Beim Verkauf eines einzelnen Erbteils zunächst feststellen, ob zum Nachlass nur Agrargrundstücke oder ein landwirtschaftlicher Betrieb gehören. Einzelne Grundstücke allein lösen Paragraf 2 Absatz 2 Nummer 2 GrdstVG nicht aus. Für eine Umgehung alle Anteilsgeschäfte, Erwerber und abgestimmte Gesamtabsicht prüfen; der bloße Wunsch des Erwerbers, weitere Erbteile zu kaufen, genügt nicht. Keine Freistellung sämtlicher Anteilsgeschäfte daraus ableiten.
+
+[BVerwG, Urteil vom 24.06.2026 – 4 C 2.25](https://www.bverwg.de/de/240626U4C2.25.0), Rn. 7–14, 19–24: Bei Stalländerungen nach Paragraf 29 BauGB das Gesamtvorhaben in geänderter Gestalt prüfen. Tierbestand und mögliche Futtererzeugung des tatsächlich einheitlichen Betriebs zusammenrechnen; frühere getrennte Genehmigungen als landwirtschaftliche und gewerbliche Haltung entscheiden dies nicht. Fordere Betriebsorganisation, Flächenbindungen und Futterbilanz für alle Tiere an. Scheitert Paragraf 35 Absatz 1 Nummer 1 oder 4 BauGB, gegebenenfalls Absatz 4 Satz 1 Nummer 6 gesondert prüfen. Zurückverweisung bedeutet keine Baugenehmigung; ein Gesetzentwurf entfaltet keine Vorwirkung.
+
 ## 6. Beweislast und Gegenangriff
 
 Ausgangspunkt für dieses Plugin: Antragsteller oder Bewirtschafter für Fläche, Hofstatus, Fördervoraussetzung und Beleg; Behörde oder Vertragspartner für Beanstandung, Kürzung, Einwendung und Zustellung.

@@ -87,6 +87,10 @@ Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkr
 5.2. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
 5.3. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
 
+[BGH, Urteil vom 28.01.2025 – VI ZR 300/24](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2024/VI_ZR_300-24.pdf?__blob=publicationFile&v=1), Rn. 10–19: Bei fiktiver Reparaturabrechnung sind tatsächliche Reparaturkosten nicht generell offenzulegen. Gutachtenbasis und einen konkreten zumutbaren, gleichwertigen Werkstattverweis prüfen; eine im Urlaub ausgeführte Reparatur im Ausland begrenzt den Anspruch nicht automatisch. Eigene Angaben zu einer zugänglichen günstigeren Reparaturmöglichkeit können dagegen erheblich sein.
+
+[BGH, Urteil vom 08.04.2025 – VI ZR 25/24](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2024/VI_ZR__25-24.pdf?__blob=publicationFile&v=1), Rn. 6–13: Ein späterer Wechsel von fiktiver zu konkreter Abrechnung bleibt unter den materiellen Voraussetzungen und innerhalb der Verjährung möglich. Rechne die neue Abrechnung vollständig unter Anrechnung schon regulierter Beträge; keine isolierte Mischung günstiger Positionen. Bei noch möglicher Reparatur weitere Umsatzsteuer- und Nutzungsausfallfolgen und einen Feststellungsantrag prüfen; eine bereits feststehende Reparaturabsicht ist nicht nötig, eine rein ausgeschlossene Schadensmöglichkeit reicht aber nicht.
+
 ## 6. Beweislast und Gegenangriff
 
 Ausgangspunkt für dieses Plugin: Geschädigter oder Reisender für Ereignis, Schaden, Verspätung und Belege; Gegner für Mitverschulden, Ausschluss und außergewöhnliche Umstände.
@@ -729,6 +733,10 @@ Nach [Paragraf 249 BGB](https://www.gesetze-im-internet.de/bgb/__249.html) und B
 Bei offener Rechnung und Berufung auf dieses Risiko Zahlung an die Werkstatt Zug um Zug gegen Abtretung der entsprechenden Ansprüche gegen sie verlangen. Der Geschädigte bleibt Gläubiger, die Werkstatt ist nur Zahlungsempfänger. Wer Zahlung an sich fordert, muss Durchführung und objektive Erforderlichkeit beweisen; bei Freistellung die Werklohnverbindlichkeit. Keine automatische Übertragung auf Zessionare. Volltext am 22.09.2026 geprüft; eine später ermittelte Überhöhung begründet nicht rückwirkend Auswahlverschulden.
 
 Die konkrete Anspruchsgrundlage und jüngere Fortentwicklung bei Verwendung amtlich nachprüfen. Gericht, Entscheidungsform, Datum, Aktenzeichen, URL und belegte Passage nennen; die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-verkehrsrecht/references/zitierweise.md) ist optional ergänzend. Ohne geprüften Volltext keine Randnummer ergänzen. Beleg, Annahme und rechtliche Bewertung getrennt ausweisen.
+
+Bei zuvor fiktiver Abrechnung [BGH, Urteil vom 28.01.2025 – VI ZR 300/24](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2024/VI_ZR_300-24.pdf?__blob=publicationFile&v=1), Rn. 12–19, beachten: Keine allgemeine Pflicht zur Offenlegung tatsächlicher Reparaturkosten; zumutbarer gleichwertiger Werkstattverweis bleibt.
+
+Wird jetzt die konkrete Rechnung geltend gemacht, [BGH, Urteil vom 08.04.2025 – VI ZR 25/24](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2024/VI_ZR__25-24.pdf?__blob=publicationFile&v=1), Rn. 6–13, anwenden: Wechsel grundsätzlich möglich, aber materielle Voraussetzungen und Verjährung prüfen. Gesamtbetrag neu rechnen und Vorzahlungen einmal anrechnen. Bei möglicher späterer Reparatur Feststellung weiterer Schäden prüfen; keine isolierte Mischung beider Abrechnungen.
 
 ## 5. Ausgabeformat
 

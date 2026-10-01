@@ -88,6 +88,10 @@ Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkr
 5.5. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
 5.6. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
 
+[BFH, Urteil vom 18.06.2025 – X R 19/21](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202520256/), Rn. 48–63: Mit zumutbarem Aufwand zuverlässigere Schätzung wählen; eigene Betriebsdaten und Nachkalkulation prüfen. Kein Methodenwahlrecht des Steuerpflichtigen, keine zwingende zweite Kontrollrechnung; alte Prüfungsjahre 2013/2014.
+
+[BFH, Urteil vom 15.04.2026 – X R 14/24](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202650130/), Rn. 28–33: Fehlendes erkennbares Erwägen eines möglichen inneren Betriebsvergleichs ist Methodenfehler. Schätzungsbefugnis bleibt; Hinweise für zweiten Rechtsgang ohne Bindungswirkung, keine Nullzuschätzung.
+
 ## 6. Beweislast und Gegenangriff
 
 Ausgangspunkt für dieses Plugin: Finanzbehörde für steuerbegründende Tatsachen; Steuerpflichtiger für Begünstigung, Betriebsausgaben und Nachweise.
