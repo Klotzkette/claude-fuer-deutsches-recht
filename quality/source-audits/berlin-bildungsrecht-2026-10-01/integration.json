@@ -190,8 +190,8 @@
       "plugin": "berliner-hochschulrecht-professoren",
       "skills": 11,
       "local_skill_links_checked": 33,
-      "sha256": "1c1504a50b423db1512e2914da4d056f8e3b445ac35432cb6270671012aaaf78",
-      "bytes": 50600
+      "sha256": "b9cd272fb9c9d28b7370a457ad36084d11b08eb19c130b6b72929ca28dec05e2",
+      "bytes": 50618
     }
   ],
   "individual_case_archives": {
@@ -233,5 +233,27 @@
     "Lokale ZIP-Prüfung erfasst zwei Plugin-ZIPs und zwölf neue Akten-ZIPs, keine vollständigen Sammelarchive.",
     "Redaktionelle und strukturelle Tests sind keine beobachteten Modellläufe. Die zwei dokumentierten Probeläufe stehen in eigenen Prüfberichten.",
     "Release-Veröffentlichung und öffentliche Downloadprüfung sind ein nachgelagerter Schritt und werden hier nicht als erledigt behauptet."
+  ],
+  "final_navigation_checks": [
+    {
+      "check": "validate-readme-navigation.py",
+      "returncode": 0,
+      "tail": "validate-readme-navigation OK (268 Plugins, 22666 Skills, 416 Aktenseiten, 24000 lokale Links, 1697 Anker, 109167 echte Markdown-Downloads)\n"
+    },
+    {
+      "check": "validate-testakten-readme-downloads.py",
+      "returncode": 0,
+      "tail": "validate-testakten-readme-downloads OK (414 Akten, 3726 Treffer, 290 weitere Downloadgruppen, 19 HTML-Seiten)\n"
+    },
+    {
+      "check": "validate-markdown-structure.py",
+      "returncode": 0,
+      "tail": "validate-markdown-structure OK (26987 Dateien)\n"
+    },
+    {
+      "check": "validate-root-readme-overview.py",
+      "returncode": 0,
+      "tail": "validate-root-readme-overview OK (268 Plugins, 22666 Skills, 268 Werkstatt-Prompts, 267 Schnellstart-Prompts, 414 zentrale / 417 Testakten gesamt, Stand v445.26.0)\n"
+    }
   ]
 }

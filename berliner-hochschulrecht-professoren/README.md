@@ -89,7 +89,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 ## 1.6. Werkstatt als Word und PDF
 
-Die ausführliche Werkstatt ist als [bearbeitbares Word-Dokument](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=berliner-hochschulrecht-professoren/assets/berliner-hochschulrecht-professoren-werkstatt.docx) und als [32-seitige PDF-Lesefassung](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=berliner-hochschulrecht-professoren/assets/berliner-hochschulrecht-professoren-werkstatt.pdf) verfügbar. Für den Einsatz als KI-Prompt bleiben die identischen Markdown- und TXT-Fassungen vorgesehen.
+Die ausführliche Werkstatt ist als [bearbeitbares Word-Dokument](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/berliner-hochschulrecht-professoren/assets/berliner-hochschulrecht-professoren-werkstatt.docx) und als [32-seitige PDF-Lesefassung](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/berliner-hochschulrecht-professoren/assets/berliner-hochschulrecht-professoren-werkstatt.pdf) verfügbar. Für den Einsatz als KI-Prompt bleiben die identischen Markdown- und TXT-Fassungen vorgesehen.
 
 Dieses Plugin bearbeitet Berliner Hochschulvorgänge aus Sicht von Professorinnen und Professoren: Berufung, Rufzusagen, Status, Wissenschaftsfreiheit und Ausstattung, Lehre und Prüfung, Gremien, Drittmittel, Nachwuchs, Nebentätigkeit und Rechtsschutz. Es enthält genau zehn Fachskills und einen übergreifenden Hauptproblem-Skill. Schülerzulassung und allgemeine Studienplatzklagen sind eigenständige Aufgaben außerhalb dieses Plugins.
 
