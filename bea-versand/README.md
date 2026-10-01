@@ -64,7 +64,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
-| [Akte Inkasso-Zahlungsklage ModeFuchs](../testakten/inkasso-zahlungsklage-modefuchs/README.md) | [Gesamt-PDF](../testakten/inkasso-zahlungsklage-modefuchs/gesamt-pdf/inkasso-zahlungsklage-modefuchs_gesamt.pdf) | [`testakte-inkasso-zahlungsklage-modefuchs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.25.1/testakte-inkasso-zahlungsklage-modefuchs.zip) | [`testakte-inkasso-zahlungsklage-modefuchs-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.25.1/testakte-inkasso-zahlungsklage-modefuchs-einzelpdfs.zip) |
+| [Akte Inkasso-Zahlungsklage ModeFuchs](../testakten/inkasso-zahlungsklage-modefuchs/README.md) | [Gesamt-PDF](../testakten/inkasso-zahlungsklage-modefuchs/gesamt-pdf/inkasso-zahlungsklage-modefuchs_gesamt.pdf) | [`testakte-inkasso-zahlungsklage-modefuchs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.25.2/testakte-inkasso-zahlungsklage-modefuchs.zip) | [`testakte-inkasso-zahlungsklage-modefuchs-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.25.2/testakte-inkasso-zahlungsklage-modefuchs-einzelpdfs.zip) |
 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->
@@ -115,8 +115,8 @@ Verwendet wird die **gemeinsame Akte Inkasso-Zahlungsklage ModeFuchs** aus dem F
 
 | Testakte | Download |
 | --- | --- |
-| ModeFuchs mit allen nativen Originalen | [Originalformat-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.25.1/testakte-inkasso-zahlungsklage-modefuchs.zip) |
-| Jede Unterlage als eigene PDF | [Einzel-PDF-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.25.1/testakte-inkasso-zahlungsklage-modefuchs-einzelpdfs.zip) |
+| ModeFuchs mit allen nativen Originalen | [Originalformat-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.25.2/testakte-inkasso-zahlungsklage-modefuchs.zip) |
+| Jede Unterlage als eigene PDF | [Einzel-PDF-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.25.2/testakte-inkasso-zahlungsklage-modefuchs-einzelpdfs.zip) |
 | Gesamte Akte zum Lesen | [Gesamt-PDF](../testakten/inkasso-zahlungsklage-modefuchs/gesamt-pdf/inkasso-zahlungsklage-modefuchs_gesamt.pdf) |
 
 Für den Praxistest das Originalformat-ZIP entpacken und diesen Ordner zusammen mit dem Werkstatt-Prompt öffnen. `30_Klage_Arbeitsfassung_20250725.docx` ist das Hauptdokument. Es verwendet die Anlagen K1 bis K12 wie die ursprüngliche PDF-Klageschrift `originale/23_Klageschrift_InkassoZentrale_25-07-2025.pdf`. Der Auftrag besteht darin, die darin bezeichneten Belege zuzuordnen und als Anlagen für den beA-Upload vorzubereiten. Maßgeblich sind die Anlagenverweise dieses Hauptdokuments, nicht die frühere Nummerierung des entfernten Nebenfalls.

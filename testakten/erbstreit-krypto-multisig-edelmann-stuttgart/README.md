@@ -14,8 +14,8 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/erbstreit-krypto-multisig-edelmann-stuttgart_gesamt.pdf`](gesamt-pdf/erbstreit-krypto-multisig-edelmann-stuttgart_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-erbstreit-krypto-multisig-edelmann-stuttgart.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.25.1/testakte-erbstreit-krypto-multisig-edelmann-stuttgart.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-erbstreit-krypto-multisig-edelmann-stuttgart-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.25.1/testakte-erbstreit-krypto-multisig-edelmann-stuttgart-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-erbstreit-krypto-multisig-edelmann-stuttgart.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.25.2/testakte-erbstreit-krypto-multisig-edelmann-stuttgart.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-erbstreit-krypto-multisig-edelmann-stuttgart-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.25.2/testakte-erbstreit-krypto-multisig-edelmann-stuttgart-einzelpdfs.zip) |
 
 Die ZIP-Links laden den zur angegebenen Marketplace-Version gehörenden Akten-Begleitrelease. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 

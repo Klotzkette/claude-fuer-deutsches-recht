@@ -14,8 +14,8 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/betriebskosten-2025-weg-schoeneberg_gesamt.pdf`](gesamt-pdf/betriebskosten-2025-weg-schoeneberg_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-betriebskosten-2025-weg-schoeneberg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.25.1/testakte-betriebskosten-2025-weg-schoeneberg.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-betriebskosten-2025-weg-schoeneberg-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.25.1/testakte-betriebskosten-2025-weg-schoeneberg-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-betriebskosten-2025-weg-schoeneberg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.25.2/testakte-betriebskosten-2025-weg-schoeneberg.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-betriebskosten-2025-weg-schoeneberg-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.25.2/testakte-betriebskosten-2025-weg-schoeneberg-einzelpdfs.zip) |
 
 Die ZIP-Links laden den zur angegebenen Marketplace-Version gehörenden Akten-Begleitrelease. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
@@ -46,8 +46,8 @@ Wähle eine Fassung pro Arbeitsordner. Gesamt-PDF, Einzel-PDFs und Originaldatei
 | Fassung | Download |
 | --- | --- |
 | Gesamt-PDF | [Alle Unterlagen lesen](gesamt-pdf/betriebskosten-2025-weg-schoeneberg_gesamt.pdf) |
-| Originalformate | [Flaches Akten-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.25.1/testakte-betriebskosten-2025-weg-schoeneberg.zip) |
-| Einzelne PDFs | [Flaches Einzel-PDF-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.25.1/testakte-betriebskosten-2025-weg-schoeneberg-einzelpdfs.zip) |
+| Originalformate | [Flaches Akten-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.25.2/testakte-betriebskosten-2025-weg-schoeneberg.zip) |
+| Einzelne PDFs | [Flaches Einzel-PDF-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.25.2/testakte-betriebskosten-2025-weg-schoeneberg-einzelpdfs.zip) |
 
 Beide ZIPs enthalten eine zweisprachige `README.txt` und keine Unterordner. Das Akten-ZIP enthält native DOCX-, XLSX-, EML-, TXT-, CSV- und PDF-Dateien, kein Markdown. Ein einzelner Rechnungsbeleg bleibt im Einzel-PDF-ZIP ein eigenes Dokument.
 

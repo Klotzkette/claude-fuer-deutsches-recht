@@ -36,12 +36,12 @@ def amount(value):
 
 
 class BaeckereiAkte(unittest.TestCase):
-    def test_five_claims_and_twenty_two_separate_native_documents(self):
+    def test_five_claims_and_thirty_two_separate_native_documents(self):
         files = [p for p in CASE.iterdir() if include_in_working_dump(p, CASE)]
-        self.assertEqual(len(files), 22)
+        self.assertEqual(len(files), 32)
         self.assertEqual(len(list(CASE.glob("*_Anmeldung_*.docx"))), 5)
-        self.assertEqual({suffix: sum(p.suffix == suffix for p in files) for suffix in (".docx", ".eml", ".csv")},
-                         {".docx": 17, ".eml": 3, ".csv": 2})
+        self.assertEqual({suffix: sum(p.suffix == suffix for p in files) for suffix in (".docx", ".eml", ".csv", ".xlsx")},
+                         {".docx": 22, ".eml": 7, ".csv": 2, ".xlsx": 1})
         readme = (CASE / "README.md").read_text()
         for path in files:
             self.assertTrue(path.name.isascii())

@@ -1,3 +1,17 @@
+# v445.25.2 - Betriebskauf in beiden Forderungsakten vorbereiten
+
+## 1. Zwei Erwerbsvorgänge im bestehenden Aktenbestand
+
+Die Kölner Handwerksakte erhält elf zusätzliche Unterlagen, die Münchner Brezelakte zehn. Beide enthalten individuelles Kaufinteresse, einen ausformulierten Betriebskaufentwurf mit offenen Anlagen, Bestandsaufnahmen, einen laufenden Kundenvertrag, Kennzeichenunterlagen, E-Mails und eine ursprüngliche Maschinenrechnung mit Zahlungsbestätigung. Die bisherigen fünfzehn Forderungsanmeldungen bleiben erhalten.
+
+## 2. Bearbeitbare Asset-Verzeichnisse
+
+Je eine Excel-Arbeitsmappe trennt Inventar, Waren, Kunden, Verträge und Kennzeichen. Seriennummern, Chargen, Rückgaben und Belegbezüge lassen sich gegen die Originalunterlagen abgleichen. Kaufgegenstände, Zustimmungen, Rechtefreigaben und endgültige Preise sind noch nicht abschließend vereinbart. Die Arbeitsunterlagen enthalten keine fertige Forderungsprüfung oder Lösungsmatrix.
+
+## 3. Downloads und Prüfung
+
+Beide Gesamt-PDFs sowie die flachen Originalformat- und Einzel-PDF-ZIPs werden aus dem erweiterten Bestand neu gebaut. Akten- und Plugin-READMEs sowie zentrale Verzeichnisse sind nachgeführt. Zusätzliche Regressionen prüfen Dokumentenzahlen, Warenbewegungen, Vertragsentwürfe, Gerätezuordnung, E-Mail-Daten, Arbeitsmappen und die Aufnahme sämtlicher Unterlagen in die Gesamt-PDFs. Fachskills und eigenständige Prompts bleiben inhaltlich unverändert.
+
 # v445.25.1 - Kleine Münchner Forderungsakte
 
 ## 1. Pistazien-Brezelbäckerei mit fünf Gläubigern

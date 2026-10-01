@@ -1,6 +1,6 @@
 # Insolvenzforderungen Rheinsteg Handwerk Köln
 
-Aktenstand: 10.09.2026. Die Rheinsteg Ausbau und Metalltechnik GmbH beschäftigt 28 Arbeitnehmer und führt ihren Metallbau- und Innenausbaubetrieb in Köln während des Insolvenzverfahrens fort. Der Bestand enthält 59 eigenständige Arbeitsunterlagen: 52 DOCX, sechs EML und eine XLSX mit den Blättern Anmeldeeingang und Bankbelege.
+Aktenstand: 10.09.2026. Die Rheinsteg Ausbau und Metalltechnik GmbH beschäftigt 28 Arbeitnehmer und führt ihren Metallbau- und Innenausbaubetrieb in Köln während des Insolvenzverfahrens fort. Der Bestand enthält 70 eigenständige Arbeitsunterlagen: 57 DOCX, elf EML und zwei XLSX. Neben Anmeldeeingang und Bankbelegen steht eine eigene Arbeitsmappe zum Asset-Bestand bereit.
 
 ## 1 Herkunft und Verfahrensdaten
 
@@ -37,8 +37,8 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/insolvenzforderungen-handwerk-koeln_gesamt.pdf`](gesamt-pdf/insolvenzforderungen-handwerk-koeln_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-insolvenzforderungen-handwerk-koeln.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.25.1/testakte-insolvenzforderungen-handwerk-koeln.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-insolvenzforderungen-handwerk-koeln-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.25.1/testakte-insolvenzforderungen-handwerk-koeln-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-insolvenzforderungen-handwerk-koeln.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.25.2/testakte-insolvenzforderungen-handwerk-koeln.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-insolvenzforderungen-handwerk-koeln-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.25.2/testakte-insolvenzforderungen-handwerk-koeln-einzelpdfs.zip) |
 
 Die ZIP-Links laden den zur angegebenen Marketplace-Version gehörenden Akten-Begleitrelease. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
@@ -48,7 +48,9 @@ English: The original-format ZIP contains the working files directly at archive 
 
 ## 3 Dateiliste
 
-Die Eingangsnummern 01 bis 10 stehen in den zehn Anmeldedokumenten. Die vorangestellten Dateinummern 01 bis 59 ordnen den gesamten Unterlagenbestand. Briefe und Verträge verwenden Times New Roman 11 pt; Tabellen sind für die Lesbarkeit gesondert gesetzt. Dateinamen sind ASCII, die Prosa verwendet deutsche Umlaute.
+Die Eingangsnummern 01 bis 10 stehen in den zehn Anmeldedokumenten. Die vorangestellten Dateinummern 01 bis 70 ordnen den gesamten Unterlagenbestand. Briefe und Verträge verwenden Times New Roman 11 pt; Tabellen sind für die Lesbarkeit gesondert gesetzt. Dateinamen sind ASCII, die Prosa verwendet deutsche Umlaute.
+
+Ab Dokument 60 kann zusätzlich die Vorbereitung eines Asset Deals bearbeitet werden: Kaufinteresse von Werkbogen, ausformulierter Vertragsentwurf mit offenen Anlagen, Excel-Verzeichnisse und dazugehörige Originalkorrespondenz. Inventar, Warenbestand, Kunden, Verträge und Kennzeichen sind getrennt erfasst. Die Unterlagen enthalten den Verhandlungsstand, keine fertige Übertragungsentscheidung. Die ursprünglichen zehn Forderungsanmeldungen bleiben unverändert nutzbar.
 
 | Datei | Inhalt |
 | --- | --- |
@@ -111,3 +113,14 @@ Die Eingangsnummern 01 bis 10 stehen in den zehn Anmeldedokumenten. Die voranges
 | `57_Vollstreckbare_Ausfertigung_UR_312-2026.docx` | Vollstreckbare Ausfertigung der Urkunde UR 312/2026 vom 28.01.2026 |
 | `58_Zustellungsurkunde_23-04-2026.docx` | Zustellungsurkunde zum Auftrag GV 26/471 |
 | `59_Nachmeldung_Eingang_01-09-2026.eml` | 72 IN 184/26: Forderungsanmeldung Fugenklar Ausbau GmbH |
+| `60_Kaufinteresse_Werkbogen_09-09-2026.eml` | Unverbindliches Kaufinteresse und beabsichtigte Fortführung |
+| `61_Betriebskaufvertrag_Entwurf_10-09-2026.docx` | Ausformulierter Asset-Deal-Entwurf mit offenen Anlagen |
+| `62_Assetbestand_09-09-2026.xlsx` | Inventar, Waren, Kunden, Verträge und Kennzeichen in fünf Registerblättern |
+| `63_Bestandsaufnahme_Werkhalle_09-09-2026.docx` | Begehung, Gerätekennungen und Bestandsbewegungen |
+| `64_Suedsteg_Montageabruf_15-07-2026.docx` | Laufender Montageauftrag mit beigestellten Türen |
+| `65_Kennzeichen_und_Dateien_09-09-2026.docx` | Unterlagen zu Logo, Fahrzeugvorlagen, Webspeicher und Lizenzen |
+| `66_Vermieter_Vertragswechsel_10-09-2026.eml` | Abstimmung zur zukünftigen Hallennutzung |
+| `67_Konturlinie_Dateinutzung_10-09-2026.eml` | Nachricht über die Nutzung vorhandener Gestaltungsdateien |
+| `68_Suedsteg_Uebernahmeanfrage_10-09-2026.eml` | Kundenrückmeldung zum Auftragnehmerwechsel |
+| `69_Hubwerk_Erwerberanfrage_10-09-2026.eml` | Gesprächsstand zur Hebebühne und Vertragsabwicklung |
+| `70_Rechnung_Bandsaege_SN-230322.docx` | Ursprüngliche Maschinenrechnung mit Zahlungsbestätigung |

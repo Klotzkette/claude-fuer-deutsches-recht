@@ -14,8 +14,8 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/insolvenzforderungen-pistazienbrezeln-muenchen_gesamt.pdf`](gesamt-pdf/insolvenzforderungen-pistazienbrezeln-muenchen_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-insolvenzforderungen-pistazienbrezeln-muenchen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.25.1/testakte-insolvenzforderungen-pistazienbrezeln-muenchen.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-insolvenzforderungen-pistazienbrezeln-muenchen-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.25.1/testakte-insolvenzforderungen-pistazienbrezeln-muenchen-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-insolvenzforderungen-pistazienbrezeln-muenchen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.25.2/testakte-insolvenzforderungen-pistazienbrezeln-muenchen.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-insolvenzforderungen-pistazienbrezeln-muenchen-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.25.2/testakte-insolvenzforderungen-pistazienbrezeln-muenchen-einzelpdfs.zip) |
 
 Die ZIP-Links laden den zur angegebenen Marketplace-Version gehörenden Akten-Begleitrelease. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
@@ -34,7 +34,9 @@ Elektronische Kontaktadressen verwenden reservierte `.example`-Domains und sind 
 
 ## 2. Bestand
 
-22 eigenständige Arbeitsunterlagen: 17 Word-Dokumente, drei E-Mails und zwei CSV-Dateien. Jeder Vertrag, jede Anmeldung und jede Rechnung bleibt ein eigenes Dokument. Kontoexport und Mietkonto enthalten Buchungen beziehungsweise Sollstellungen, keine abschließende Forderungsprüfung. Eine Lösungsmatrix ist nicht beigefügt.
+32 eigenständige Arbeitsunterlagen: 22 Word-Dokumente, sieben E-Mails, zwei CSV-Dateien und eine Excel-Arbeitsmappe. Jeder Vertrag, jede Anmeldung und jede Rechnung bleibt ein eigenes Dokument. Kontoexport und Mietkonto enthalten Buchungen beziehungsweise Sollstellungen, keine abschließende Forderungsprüfung. Eine Lösungsmatrix ist nicht beigefügt.
+
+Ab Dokument 23 ergänzt ein möglicher Erwerb durch Isarkruste die Forderungsakte. Der nicht unterzeichnete Betriebskaufvertrag enthält ausformulierte Bestimmungen und noch zu vervollständigende Anlagen. Die Excel-Arbeitsmappe hält Inventar, Waren, Kunden, Verträge und Kennzeichen getrennt fest. Korrespondenz mit Vermieter, Webstudio und Kunden bildet den noch offenen Abstimmungsstand ab. Die Akte lässt sich damit sowohl für Forderungsprüfung als auch für die Vorbereitung eines Asset Deals verwenden, ohne einen abgeschlossenen Verkauf oder eine Musterlösung vorzugeben.
 
 | Datei | Inhalt |
 | --- | --- |
@@ -60,6 +62,16 @@ Elektronische Kontaktadressen verwenden reservierte `.example`-Domains und sind 
 | `20_Rechnung_Webstudio_FF-260520.docx` | Rechnung für den abgeschlossenen Webauftrag |
 | `21_Abnahme_Bestellseite_20-05-2026.eml` | Freigabe der ausgelieferten Seite |
 | `22_Eingang_Webstudio_12-08-2026.eml` | Begleitmail und Eingangsbestätigung |
+| `23_Kaufinteresse_Isarkruste_26-08-2026.eml` | Unverbindliches Kaufinteresse und Fortführungsabsicht |
+| `24_Betriebskaufvertrag_Entwurf_28-08-2026.docx` | Ausformulierter Vertragsentwurf mit offenen Kaufgegenstandslisten |
+| `25_Assetbestand_28-08-2026.xlsx` | Fünf Registerblätter zu Inventar, Waren, Kunden, Verträgen und Kennzeichen |
+| `26_Bestandsaufnahme_Backstube_28-08-2026.docx` | Gerätekennungen, Zählung und Warenbewegungen |
+| `27_Liefervereinbarung_Gruenwinkel_10-07-2026.docx` | Laufender Auftrag für Frühstückskisten |
+| `28_Ladenzeichen_und_Webspeicher_27-08-2026.docx` | Unterlagenstand zu Schriftzug, Produktbildern und Webspeicher |
+| `29_Vermieter_Rueckmeldung_27-08-2026.eml` | Nachricht zum möglichen Betreiberwechsel |
+| `30_Webstudio_Rechteanfrage_28-08-2026.eml` | Abstimmung über die zukünftige Nutzung der Bestellseite |
+| `31_Gruenwinkel_Betreiberwechsel_28-08-2026.eml` | Kundenanfrage zu Lieferung und Vertragspartner |
+| `32_Rechnung_Backofen_SB-240220.docx` | Ursprüngliche Ofenrechnung mit Zahlungsbestätigung |
 
 ## 3. Verwendung
 

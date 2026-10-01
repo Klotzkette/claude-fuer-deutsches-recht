@@ -1,6 +1,6 @@
 # datenbankrecht
 
-**130 Skills** · Stand `v445.25.1`
+**130 Skills** · Stand `v445.25.2`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../datenbankrecht/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
