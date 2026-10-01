@@ -38,6 +38,13 @@ DOWNLOAD_BASE = "https://klotzkette.github.io/claude-fuer-deutsches-recht/downlo
 DISALLOWED_ABBR = chr(75) + chr(73)
 DISALLOWED_MIXED = chr(75) + "i"
 PROSE_REPLACEMENTS = {
+    "Miethoehen": "Miethöhen",
+    "Mieterhoehung": "Mieterhöhung",
+    "pruefen": "prüfen",
+    "oertlicher": "örtlicher",
+    "fuehren": "führen",
+    "Klaerung": "Klärung",
+    "Faellen": "Fällen",
     "Praesentationen": "Präsentationen",
     "Laienerklaerung": "Laienerklärung",
     "serioese": "seriöse",
@@ -345,6 +352,14 @@ def first_product(directory: Path, plugin_name: str) -> str:
 
 
 def quickstart_section(plugin_name: str, directory: Path) -> str:
+    if plugin_name == "mietchecker":
+        return """## In 30 Sekunden starten
+
+Wählen Sie `miete-pruefen-und-klaeren`. Ohne Installation verwenden Sie den Mini-Prompt oder die ausführliche Werkstatt aus der Downloadtabelle.
+
+> Vertrag, Mietkonto und Aufmaß liegen im Ordner. Prüfe die Miete nach dem örtlichen Mietspiegel und hilf uns mit einer sachlichen Klärung. Frage nur nach entscheidenden fehlenden Belegen.
+
+Das Paket trennt Vergleichsmiete, zulässige Anfangsmiete und Erhöhung im Bestand. Berlin und Regensburg haben eigene Rechenwege. Eine günstige Miete muss nicht erhöht werden. Dies ist ein Experiment und keine Rechtsberatung."""
     if plugin_name == "antidiskriminierung-agg":
         return """## In 30 Sekunden starten
 
@@ -543,7 +558,7 @@ def block(plugin: dict, directory: Path, akten_slugs: list[str], marketplace_cou
     if not enabled(plugin_name, "schnellstart") and len(list((directory / "skills").glob("*/SKILL.md"))) == 1:
         skill_note = "Das Plugin enthält genau einen unmittelbar installierten Skill. Der Werkstatt-Prompt ist derselbe eigenständig nutzbare Arbeitsablauf als separater Download; MD und TXT enthalten denselben Text. Benötigte Referenzen oder Werkzeuge müssen beim manuellen Einsatz zusätzlich verfügbar sein."
         skill_note_en = "The plugin contains exactly one directly installed skill. The separate workshop download provides the same standalone workflow; MD and TXT contain identical text. Required references or tools must also be available when used manually."
-    if plugin_name in {"vertragserstellung", "wirtschaftsanwalt", "antidiskriminierung-agg"}:
+    if plugin_name in {"vertragserstellung", "wirtschaftsanwalt", "antidiskriminierung-agg", "mietchecker"}:
         skill_note = "Alle zehn Skills sind im Plugin unmittelbar enthalten. Der Hauptskill bearbeitet den Auftrag selbst; die übrigen Skills vertiefen konkrete Teilfragen. Bei einem einzelnen Skill-Download müssen seine verlinkten Referenzen zusätzlich verfügbar sein."
         skill_note_en = "All ten skills are included directly in the plugin. The main skill carries out the assignment; the others address specific issues. A downloaded individual skill also needs its linked references."
     elif plugin_name == "gmbh-gesellschafterversammlung":

@@ -1,3 +1,21 @@
+# v445.22.0 - Mietchecker für beide Mietparteien
+
+## 1. Zehn aufeinander abgestimmte Arbeitswege
+
+Neues Paket `mietchecker` für Mieter und Vermieter. Es trennt den Mietspiegelvergleich von Mietpreisbremse, Mieterhöhung, Kappungsgrenze, Staffel und Index. Unterlagen werden zuerst ausgewertet; entscheidende Lücken führen zu gezielten Rückfragen und anschließend zur nachvollziehbaren Rechnung, Auskunftsanfrage oder Änderungsvereinbarung. Eine niedrige Vergleichsmiete bedeutet weder automatisch eine Mietsenkung noch eine Pflicht zur Erhöhung.
+
+## 2. Örtliche Quellen und eigenständige Prompts
+
+Werkstatt und Schnellstart erläutern die unterschiedlichen Rechenwege der amtlichen Mietspiegel 2026 für Berlin und Regensburg. Gebietsverordnungen, Flächenberechnung, Vormiete, Modernisierung und Mietereinbauten werden gesondert geprüft. Vier fachlich zugeordnete Rechtsprechungsanker sind mit transparentem Quellenstatus hinterlegt; nicht zugängliche Volltexte werden nicht als gelesen ausgegeben. Standalone-Prompts bleiben außerhalb der installierten Skills.
+
+## 3. Zwei Belegakten ohne Musterlösung
+
+Je zwölf getrennte Unterlagen: Berliner Neuvermietung mit Vormietauskunft und Renovierungsrechnung sowie Regensburger Bestandsmiete mit Flächenaufmaß, Küchenrechnung und getrenntem Stellplatz. Verträge, E-Mails, Mietkonten und Notizen erscheinen als Gesamt-PDF, flaches Einzel-PDF-ZIP und flaches Originalformat-ZIP. Die vorgeschriebenen Hinweise stehen vor den Downloads und in den ZIP-Readmes.
+
+## 4. Nachrechenbarkeit und Navigation
+
+Ein schlanker Dezimalrechner und gezielte Regressionstests sichern Halbspannen, additive Zuschläge, Rundung und getrennte Obergrenzen. Zehn individuelle Bewertungsfälle erfassen sämtliche Skills; sie dokumentieren eine fachliche Durchsicht, keine behaupteten Modellläufe. Marketplace, Promptprofile, thematische Navigation und alphabetische Verzeichnisse werden aktualisiert.
+
 # v445.21.0 - Antidiskriminierung nach dem AGG
 
 ## 1. Zehn konkrete Arbeitswege

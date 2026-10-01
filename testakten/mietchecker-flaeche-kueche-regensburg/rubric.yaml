@@ -1,0 +1,18 @@
+name: mietchecker-flaeche-kueche-regensburg
+plugin: mietchecker
+description: Wohnungsunterlagen und Korrespondenz zum örtlichen Mietvergleich.
+checks:
+  - id: vertrag
+    check_type: file_exists
+    description: Eigenständiger Mietvertrag liegt vor.
+    path: 01_mietvertrag.docx
+  - id: konto
+    check_type: file_exists
+    description: Mietbestandteile und zeitlicher Verlauf bleiben getrennt.
+    path: 08_mietkonto.csv
+  - id: konsistenz
+    check_type: human_review
+    description: Personen, Daten, Geldbeträge und Belegverweise sind innerhalb der Akte konsistent.
+  - id: neutralitaet
+    check_type: human_review
+    description: Aktenstücke enthalten Sachverhalt und Parteiaussagen, keine vorgegebene Lösung.

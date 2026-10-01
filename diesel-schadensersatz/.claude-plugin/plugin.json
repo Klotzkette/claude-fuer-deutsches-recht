@@ -1,6 +1,6 @@
 {
   "name": "diesel-schadensersatz",
-  "version": "445.21.0",
+  "version": "445.22.0",
   "description": "Großes Dieselgate-Plugin für deutsches Recht mit 21 Workflow-Skills für Aktenstart, Beweisprüfung, Anspruchstrennung, Klage, Replik, beA-Paket und Vollstreckung. Mit geprüftem Fünfjahreskorpus, Rechtsstands-Cockpit und neun ausführlichen Testakten.",
   "license": "Apache-2.0 OR MIT",
   "author": {

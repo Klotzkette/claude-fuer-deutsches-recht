@@ -1,8 +1,8 @@
 # Skills-Index: Detailseiten pro Plugin
 
-Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v445.21.0`.
+Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v445.22.0`.
 
-Die Aufteilung verhindert, dass eine einzige Seite alle 22569 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
+Die Aufteilung verhindert, dass eine einzige Seite alle 22579 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
 
 English: Each plugin has one lightweight detail page containing its complete skill list, descriptions and direct Markdown downloads. Open a plugin page to choose a skill; links labelled `Download MD` save the file instead of opening a source preview.
 
@@ -205,6 +205,7 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 - [meinungspruefer](./meinungspruefer.md) (54 Skills)
 - [memorandums-ersteller](./memorandums-ersteller.md) (59 Skills)
 - [methodenlehre-buergerliches-recht](./methodenlehre-buergerliches-recht.md) (141 Skills)
+- [mietchecker](./mietchecker.md) (10 Skills)
 - [mietrecht](./mietrecht.md) (64 Skills)
 - [mittelstand-corporate-ma](./mittelstand-corporate-ma.md) (101 Skills)
 

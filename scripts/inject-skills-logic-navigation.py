@@ -121,6 +121,12 @@ EXACT_GROUPS: dict[str, str] = {
 }
 
 PLUGIN_GROUPS = {
+    "mietchecker": [
+        ("1. Wohnung und Prüfweg", ["miete-pruefen-und-klaeren", "mietrecht-vor-ort-bestimmen", "wohnflaeche-und-mietbestandteile-klaeren"]),
+        ("2. Örtliche Vergleichsmiete", ["berliner-vergleichsmiete-berechnen", "regensburger-vergleichsmiete-berechnen"]),
+        ("3. Zulässigkeit und Anpassung", ["neuvereinbarte-miete-pruefen", "mieterhoehung-und-kappungsgrenze-pruefen", "staffel-index-und-sonderfaelle-trennen"]),
+        ("4. Abgleich und Verständigung", ["mietvergleich-mit-belegen-abgleichen", "miete-einvernehmlich-richtigstellen"]),
+    ],
     "antidiskriminierung-agg": [
         ("1. Vorgang und Frist", ["agg-fall-zum-schreiben-fuehren", "agg-fristen-und-ansprueche-sichern"]),
         ("2. Lebensbereich und Beweise", ["bewerbung-und-befoerderung-pruefen", "entgelt-und-arbeitsbedingungen-vergleichen", "wohnraum-und-dienstleistungen-pruefen", "indizien-und-vergleichsfaelle-pruefen"]),

@@ -1,0 +1,458 @@
+{
+  "schema_version": 1,
+  "plugin": "mietchecker",
+  "reviewed_on": "2026-10-01",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__558.html",
+      "checked_on": "2026-10-01",
+      "supports": "Erhöhung im Bestand, Vergleichsmiete und Kappung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__556g.html",
+      "checked_on": "2026-10-01",
+      "supports": "Auskunft und Rüge getrennt behandeln."
+    },
+    {
+      "url": "https://mietspiegel.berlin.de/wp-content/uploads/2026/05/mietspiegel2026.pdf",
+      "checked_on": "2026-10-01",
+      "supports": "Berliner Tabellen und Orientierungshilfe."
+    },
+    {
+      "url": "https://www.regensburg.de/fm/121/mietspiegel-2026.pdf",
+      "checked_on": "2026-10-01",
+      "supports": "Regensburger Tabellen 1 bis 8 und Adressanhang, einschließlich gedruckter Seite 22."
+    },
+    {
+      "url": "https://www.gesetze-bayern.de/Content/Document/BayMiSchuV2025/true",
+      "checked_on": "2026-10-01",
+      "supports": "Gebietsausweisung mit Änderung vom 16.06.2026."
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=pm&Blank=1&Datum=2015&Gericht=bgh&file=dokument.pdf&linked=urt&nr=73174",
+      "checked_on": "2026-10-01",
+      "supports": "Tatsächliche Fläche und weiter bestehende Kappungsgrenze. Amtlicher Leitsatz geprüft, Volltextzugriff technisch gesperrt."
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2018-10&Gericht=bgh&Seite=2&anz=276&nr=89384&pos=73",
+      "checked_on": "2026-10-01",
+      "supports": "Mieterseits finanzierte Küche von Vermieterausstattung trennen. Amtlicher Leitsatz geprüft, Volltextzugriff technisch gesperrt."
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2020&Gericht=bgh&Seite=12&anz=3286&nr=112910&pos=370",
+      "checked_on": "2026-10-01",
+      "supports": "Tabellen und Orientierungshilfe unterscheiden. Amtlicher Leitsatz geprüft, Volltextzugriff technisch gesperrt."
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=Aktuell&Gericht=bgh&Sort=12288&anz=1089&nr=134649&pos=25",
+      "checked_on": "2026-10-01",
+      "supports": "Rechtlich geschuldete Vormiete. Amtlicher Leitsatz geprüft, Volltextzugriff technisch gesperrt."
+    }
+  ],
+  "selection": {
+    "target_skill": "miete-pruefen-und-klaeren",
+    "positive": [
+      "Prüfe als Vermieter meine Wohnraummiete anhand des örtlichen Mietspiegels.",
+      "Wir möchten als Mieter die Berechnung der neuen Grundmiete verstehen."
+    ],
+    "negative": [
+      "Prüfe ausschließlich die Hausmeisterrechnung in meiner Betriebskostenabrechnung.",
+      "Verteidige mich gegen ein Bußgeld wegen Falschparkens."
+    ]
+  },
+  "cases": [
+    {
+      "id": "guenstige-miete",
+      "target_skill": "miete-pruefen-und-klaeren",
+      "request": "Ich vermiete günstig und möchte nur wissen, ob unsere Miete zum örtlichen Mietspiegel passt. Bitte verpflichte mich nicht zu einer Erhöhung.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Behandelt eine günstige Miete nicht als Rechtsfehler oder Erhöhungspflicht.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Liefert nachvollziehbaren Prüfweg und fragt nur nach Gemeinde, Vertragstyp und fehlenden Vergleichsdaten.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Kein Erhöhungsschreiben gegen den erklärten Auftrag; ein fehlender Mietspiegelwert wird nicht geschätzt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "stichtag-gemeinde",
+      "target_skill": "mietrecht-vor-ort-bestimmen",
+      "request": "Meine Wohnung hat die Postadresse Regensburg. Mietbeginn war Februar 2024. Nimm einfach den Mietspiegel 2026 und die heutige Verordnung.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Klärt politische Gemeinde und damalige Quellen statt Rückprojektion heutiger Regeln.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Unterscheidet Mietpreisbremse, Kappungsgrenze und lokalen Mietspiegel.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Trennt Stadt Regensburg und Umland und fordert bei unklarer Gemeinde die Wohnanschrift an.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "flaeche-balkon",
+      "target_skill": "wohnflaeche-und-mietbestandteile-klaeren",
+      "request": "Im Vertrag stehen 76 Quadratmeter. Ein Aufmaß nennt 68 Quadratmeter innen und acht Quadratmeter einfachen Balkon bei anwendbarer Wohnflächenverordnung. Prüfe den Mietvergleich.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Ermittelt bei begründetem Viertelansatz 70 Quadratmeter und legt die Methode offen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Keine Zehn-Prozent-Toleranz bei Paragraf 558 und keine automatische Mietminderung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Trennt den vertraglichen Flächenwert vom belegten Aufmaß und bezeichnet die rechtliche Bedeutung für den Mietvergleich.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "berlin-halbspanne",
+      "target_skill": "berliner-vergleichsmiete-berechnen",
+      "request": "Die Berliner Tabellenwerte sind 5.90, 7.30 und 9.55. Die fachlich geprüften fünf Gruppensalden sind -1, -1, 0, 0, 0. Berechne den Quadratmeterwert.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Rechnet 7.30 minus 40 Prozent von 1.40 und erhält 6.74 Euro.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Verwechselt negative und positive Halbspanne nicht und kennzeichnet Orientierungshilfe als Schätzung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Kein zusätzlicher Zuschlag für ein bereits in einer Merkmalsgruppe gezähltes Einzelmerkmal.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "regensburg-additiv",
+      "target_skill": "regensburger-vergleichsmiete-berechnen",
+      "request": "Basismiete 10.44 Euro, belegte Zuschläge -8, -5 und -3 Prozentpunkte, alle übrigen Merkmale neutral. Küche selbst bezahlt, Garage separat 65 Euro. Rechne für 70 Quadratmeter.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Addiert zu -16 Prozent, rundet den Quadratmeterwert auf 8.77 und erhält 613.90 Euro nach dem angegebenen Rundungsweg.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Keine Küchen- oder Garagendoppelzählung, kein automatischer zusätzlicher Spannenaufschlag.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Weist den Betrag als mittlere Vergleichsmiete aus, nicht als automatisch geschuldete oder durchsetzbare neue Vertragsmiete.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vormiete",
+      "target_skill": "neuvereinbarte-miete-pruefen",
+      "request": "Der Vormieter zahlte 1200 Euro, rechtlich zulässig waren nach belegter Prüfung nur 900. Neue Vergleichsmiete plus zehn Prozent beträgt 880. Sind 1200 deshalb automatisch zulässig?",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Übernimmt nicht die Zahlung als geschuldete Vormiete; prüft den belegten zulässigen Betrag und Auskunft.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Unterscheidet Grundgrenze, Ausnahmen und Rüge, statt einen pauschalen Rückzahlungsanspruch zu versprechen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Ordnet VIII ZR 229/22 der geschuldeten Vormiete zu, nicht einer anderen Senatsentscheidung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kappung",
+      "target_skill": "mieterhoehung-und-kappungsgrenze-pruefen",
+      "request": "Im maßgeblichen Dreijahreszeitraum betrug die Ausgangsgrundmiete 600 Euro, heute 620. Vergleichsmiete 750, Kappung 15 Prozent. Briefzugang 10.09.2026, gewünschte Zahlung 01.12.2026.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Betragsgrenze 690 Euro statt 713 oder 750; Zeit und Form daneben prüfen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Zustimmung bis Ablauf November und Beginn Dezember unterscheiden; keine sofortige Zahlungsänderung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Eine vorgezogene Rückmeldefrist im Vermieterbrief verkürzt die gesetzliche Überlegungsfrist nicht.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "index",
+      "target_skill": "staffel-index-und-sonderfaelle-trennen",
+      "request": "Wir haben eine Indexmiete. Bitte erhöhe zusätzlich um 15 Prozent nach Mietspiegel, weil das alle drei Jahre erlaubt sei. Die derzeitige Grundmiete beträgt 700 Euro; eine Indexmitteilung liegt noch nicht vor.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Lehnt die Vermischung ab und verlangt Indexklausel sowie die maßgeblichen Indexdaten.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Prüft Erklärung und Fristen nach Paragraf 557b, nicht nur Kappung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die Ausgangsmiete kann der Mietpreisbremse unterliegen; die spätere Indexanpassung ist davon zu unterscheiden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "quellenabgleich",
+      "target_skill": "mietvergleich-mit-belegen-abgleichen",
+      "request": "Die Verwaltung rechnet 855 Euro inklusive Stellplatz durch 76 Quadratmeter. Der Mietvertrag trennt 65 Euro Stellplatz, das Aufmaß weist 70 Quadratmeter aus. Bitte kontrolliere und frage fehlende Belege an.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Trennt Grundmiete und Stellplatz, gleicht Flächen ab und übernimmt keine ungeprüfte Sollmiete.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Führt zu konkreter Nachfrage statt Täuschungsvorwurf oder bloßer Analyse.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Fragt konkret nach Flächenberechnung, Mietaufteilung und Ausstattungsliste und lässt unbewiesene Merkmale offen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "einigung",
+      "target_skill": "miete-einvernehmlich-richtigstellen",
+      "request": "Wir möchten erst gemeinsam aufmessen. Formuliere einen freundlichen Brief. Alle Ansprüche sollen noch offenbleiben; keine Änderung des Dauerauftrags.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Liefert vollständigen Termin- und Belegaustauschbrief ohne Generalquittung oder bindende Mietänderung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Weist getrennt auf gegebenenfalls nötigen Fristschutz hin; sendet nicht selbst.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Keine Zusage, dass das Aufmaß eine bestimmte neue Miethöhe ergeben werde; kein ungewolltes Anerkenntnis.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-10-01",
+    "method": "desk_review",
+    "files": [
+      "mietchecker/mietchecker-werkstatt.md",
+      "mietchecker/mietchecker-schnellstart.md"
+    ],
+    "opening_change": "Von Mietvertrag und Wohnung zur örtlichen Rechnung und konkreten Verständigung statt allgemeinem Streitauftrag.",
+    "norms": [
+      "Paragrafen 556d bis 556g BGB",
+      "Paragrafen 557a, 557b und 558 bis 558d BGB",
+      "Wohnflächenverordnung"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 18.11.2015, VIII ZR 266/14",
+        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=pm&Blank=1&Datum=2015&Gericht=bgh&file=dokument.pdf&linked=urt&nr=73174",
+        "application": "Tatsächliche Fläche und weiter bestehende Kappungsgrenze.",
+        "limit": "Keine automatische Mietminderung."
+      },
+      {
+        "citation": "BGH, Urteil vom 24.10.2018, VIII ZR 52/18",
+        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2018-10&Gericht=bgh&Seite=2&anz=276&nr=89384&pos=73",
+        "application": "Mieterseits finanzierte Küche von Vermieterausstattung trennen.",
+        "limit": "Eigentum und Erstattung belegen."
+      },
+      {
+        "citation": "BGH, Urteil vom 18.11.2020, VIII ZR 123/20",
+        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2020&Gericht=bgh&Seite=12&anz=3286&nr=112910&pos=370",
+        "application": "Tabellen und Orientierungshilfe unterscheiden.",
+        "limit": "Keine allgemeine Übertragung Berliner Methodik."
+      },
+      {
+        "citation": "BGH, Urteil vom 19.07.2023, VIII ZR 229/22",
+        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=Aktuell&Gericht=bgh&Sort=12288&anz=1089&nr=134649&pos=25",
+        "application": "Rechtlich geschuldete Vormiete.",
+        "limit": "Keine Fortführung überhöhter Zahlungen."
+      }
+    ],
+    "remaining_limits": [
+      "Amtliche Leitsätze geprüft; Volltextabrufe der BGH-Entscheidungen technisch gesperrt. Keine Randnummernverifikation.",
+      "Redaktionelle Szenarien sind keine beobachteten Modellläufe.",
+      "Andere Gemeinden brauchen ihre eigenen aktuellen Quellen."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-10-01",
+    "method": "desk_review",
+    "opening_modes": [
+      "Vorhandenes Erhöhungsschreiben direkt prüfen.",
+      "Ohne Auftrag Gemeinde und Mietweg klären.",
+      "Bei angekündigter Kürzung Zahlungsrisiko zuerst behandeln."
+    ],
+    "continuation": "Neue Fläche oder Küchenrechnung ändern gezielt Rechnung und Entwurf, keine erneute Vollaufnahme.",
+    "enrichment": "Unterschiedliche lokale Rechenwege, Anfangsmiete, Bestand, Index und gemeinsame Richtigstellung.",
+    "limits": "Keine eigenmächtige Erklärung, Zahlungskürzung oder Generalquittung."
+  },
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Konkrete örtliche Mietprüfung mit Folgebrief.",
+    "changes": [
+      "Normen, vier begrenzte Entscheidungsanker und beide lokalen Methoden aufgenommen."
+    ],
+    "sha256": "3fe2ec53d957e3bb63015053a301c1da115bc83596a913ef160f5cf28d8f9aff"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Durchgehende individuelle Mietworkflow-Werkstatt.",
+    "changes": [
+      "Bestandsaufnahme, örtliche Berechnung, Rechtsfolge und Fortsetzung nach Belegeingang ausformuliert."
+    ],
+    "sha256": "bec9c8241200da7587a0057cfa20eb33a976d69a5d0d413af3739300e0a6db0d"
+  }
+}
