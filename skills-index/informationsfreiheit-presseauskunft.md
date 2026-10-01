@@ -1,6 +1,6 @@
 # informationsfreiheit-presseauskunft
 
-**118 Skills** · Stand `v445.25.2`
+**118 Skills** · Stand `v445.25.3`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../informationsfreiheit-presseauskunft/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

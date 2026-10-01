@@ -62,7 +62,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
-| [BtM-Akte](../testakten/betaeubungsmittelrecht-apotheke-substitution-festival/README.md) | [Gesamt-PDF](../testakten/betaeubungsmittelrecht-apotheke-substitution-festival/gesamt-pdf/betaeubungsmittelrecht-apotheke-substitution-festival_gesamt.pdf) | [`testakte-betaeubungsmittelrecht-apotheke-substitution-festival.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.25.2/testakte-betaeubungsmittelrecht-apotheke-substitution-festival.zip) | [`testakte-betaeubungsmittelrecht-apotheke-substitution-festival-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.25.2/testakte-betaeubungsmittelrecht-apotheke-substitution-festival-einzelpdfs.zip) |
+| [BtM-Akte](../testakten/betaeubungsmittelrecht-apotheke-substitution-festival/README.md) | [Gesamt-PDF](../testakten/betaeubungsmittelrecht-apotheke-substitution-festival/gesamt-pdf/betaeubungsmittelrecht-apotheke-substitution-festival_gesamt.pdf) | [`testakte-betaeubungsmittelrecht-apotheke-substitution-festival.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.25.3/testakte-betaeubungsmittelrecht-apotheke-substitution-festival.zip) | [`testakte-betaeubungsmittelrecht-apotheke-substitution-festival-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.25.3/testakte-betaeubungsmittelrecht-apotheke-substitution-festival-einzelpdfs.zip) |
 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->

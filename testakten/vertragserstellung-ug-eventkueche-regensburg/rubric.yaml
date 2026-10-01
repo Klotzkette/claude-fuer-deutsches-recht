@@ -1,0 +1,27 @@
+name: vertragserstellung-ug-eventkueche-regensburg
+plugin: vertragserstellung
+description: Zwei Cateringgründer mit privatem Ofen, ungeklärtem Kapitalbeitrag, Küchenangebot und erstem Kundenangebot vor der Gründung.
+checks:
+  - id: gruendungsentwurf
+    check_type: file_exists
+    path: 03_Gruendungsvereinbarung_Timo_26-09-2026.docx
+    description: Nicht unterzeichneter Gründervorschlag mit eigenen wirtschaftlichen Vorstellungen.
+  - id: kapitalbelege
+    check_type: file_exists
+    path: 05_Kapital_und_Startkosten.xlsx
+    description: Bargeldplanung und Startkosten getrennt vom historischen Gerätekauf.
+  - id: form-und-kapital
+    check_type: human_review
+    description: Paragrafen 2, 5a und 11 GmbHG anhand des Gründungsstands prüfen. Bareinzahlung, Sacheinlage, gesonderter Gerätekauf und Darlehen trennen. Musterprotokoll nicht mit beliebigen Nebenabreden vermischen. Gesetzliche Firma, Kapitalaufbringung und Rücklage nicht aus dem Amateurentwurf übernehmen.
+  - id: gestaltende-abstimmung
+    check_type: human_review
+    description: Janas individuelles Mandat, Mitarbeit, Vergütung, Entscheidungsrechte und Anteilsübertragung klären. Für Geschäftsanteilsübertragungen die Form nach Paragraf 15 GmbHG berücksichtigen. Keine Beurkundung oder Eintragung aus dem Vorgespräch ableiten.
+  - id: aussenvertraege
+    check_type: human_review
+    description: Küchennutzung und Cateringangebot nach tatsächlicher Vertragspartei und Abschlussstand bearbeiten. Keine automatische Übernahme persönlicher Verpflichtungen behaupten. Anschlussleistung, betriebliche Voraussetzungen, Leistungsumfang, Absage und Umsatzsteuer nicht ohne Grundlage zusichern.
+  - id: zahlen-und-zeit
+    check_type: human_review
+    description: 700 plus 300 EUR nur geplant, noch kein Konto. Ofenrechnung 5236 EUR brutto aus April ist kein heutiger Wertnachweis. 1170 EUR netto monatliche Miete und Vorauszahlung ergibt 1392,30 brutto. Veranstaltung am 14. November, keine bestätigte Bestellung.
+  - id: technische-qualitaet
+    check_type: human_review
+    description: Zwölf individuelle Quellen, native Anhänge, editierbare Excel-Datei, jeweils eigenständige Einzel-PDFs und vollständiges Gesamt-PDF. Bewertungsraster nicht exportieren.

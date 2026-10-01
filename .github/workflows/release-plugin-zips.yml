@@ -106,6 +106,7 @@ jobs:
           python3 scripts/test-insolvenzforderungen-checker.py
           python3 scripts/test-insolvenzforderungen-baeckerei.py
           python3 scripts/test-insolvenzforderungen-asset-deal.py
+          python3 scripts/test-vertragserstellung-mandatsakten.py
           python3 scripts/test-notariatswerkstatt.py
           python3 scripts/test-arbeitszeugnispruefer.py
           python3 scripts/test-ki-verordnung-hochrisiko-pruefer.py

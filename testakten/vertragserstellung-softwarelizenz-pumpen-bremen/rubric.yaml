@@ -1,0 +1,27 @@
+name: vertragserstellung-softwarelizenz-pumpen-bremen
+plugin: vertragserstellung
+description: Dauerhafte Softwarelizenz nach einem begrenzten Piloten mit Einkaufsklauseln, fremdem Importmodul und zusätzlicher Konzerngesellschaft.
+checks:
+  - id: lizenzentwurf
+    check_type: file_exists
+    path: 03_Lizenzvertrag_Einkauf_28-09-2026.docx
+    description: Durchgehender Einkaufsentwurf mit Rechten, Leistungsumfang und Vergütung.
+  - id: vorgelagerte-rechte
+    check_type: file_exists
+    path: 08_Entwicklungsauftrag_Winkler_12-06-2026.docx
+    description: Ursprünglicher Entwicklungsauftrag als eigenständige Quelle.
+  - id: lizenzumfang
+    check_type: human_review
+    description: Paragrafen 31 sowie 69a bis 69g UrhG fallbezogen prüfen. Berichtsausgabe, Softwareüberlassung, Konzernnutzung, Bearbeitung, Quelltext und Vertrieb nicht gleichsetzen. Rechtekette nicht aus Quelltextbesitz oder Abschlagszahlung folgern. Zwingende Nutzungsbefugnisse nicht pauschal ausschließen.
+  - id: leistung-und-service
+    check_type: human_review
+    description: P40 und P42 gegen P44, 24 angebotene gegen vier weitere angefragte Benutzer, kalte Reserve gegen Parallelbetrieb und Reaktionszeit gegen Fehlerbeseitigung unterscheiden. Kauf einer dauerhaften Lizenz und kündbaren Support getrennt gestalten.
+  - id: verhandlung-und-abschluss
+    check_type: human_review
+    description: Interne Budgetfreigabe nicht als Bestellung und Pilotprotokoll nicht als endgültige Abnahme behandeln. Auftraggeber ist Taktfaden. Wirtschaftliche Freigaben und offene Entwicklerrechte vor unterschriftsreifer Fassung klären, ohne unabhängige Entwurfsteile anzuhalten.
+  - id: betragsabgleich
+    check_type: human_review
+    description: 22800 EUR netto plus 4332 Steuer ergibt 27132 brutto. Support 357 brutto pro Monat ist optional. 1071 EUR ist ein Teil des Entwicklungsentgelts von 2142 EUR und kein zusätzlicher Gesamtauftrag.
+  - id: technische-qualitaet
+    check_type: human_review
+    description: Zwölf Quellen, tatsächliche Mail-Anhänge, Excel mit zwei Blättern und getrennte PDF-Fassungen prüfen. Kein Lösungsdokument in Exporten.

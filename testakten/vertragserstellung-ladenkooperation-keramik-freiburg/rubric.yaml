@@ -1,0 +1,27 @@
+name: vertragserstellung-ladenkooperation-keramik-freiburg
+plugin: vertragserstellung
+description: Keramik im Buchladen mit Tagesverkauf, Kassenrücknahme und offener Dauerkooperation zwischen Fläche, Vertrieb und Abrechnung.
+checks:
+  - id: kooperationsentwurf
+    check_type: file_exists
+    path: 03_Kooperationsvertrag_Ingo_28-09-2026.docx
+    description: Zusammenhängender fremder Entwurf, keine gelieferte Endfassung.
+  - id: kassenquellen
+    check_type: file_exists
+    path: 05_Bestand_und_Kasse.xlsx
+    description: Getrennte Anlieferung und spätere Kassenbewegungen mit Belegnummern.
+  - id: vertragsrollen
+    check_type: human_review
+    description: Maras Mandat erkennen. Flächennutzung, Verkauf im eigenen oder fremden Namen und bloßen Zahlungseinzug unterscheiden. Paragraf 540 BGB und bei passender Ausgestaltung Paragrafen 383 folgende HGB prüfen, nicht einheitlich ungeprüft einen Mietvertrag unterstellen.
+  - id: kundenseite-und-verguetung
+    check_type: human_review
+    description: Verkäuferstellung, Reklamationen, freiwillige Rücknahmen, interne Erstattung, Abrechnungsnachweise und Zahltermine aufeinander abstimmen. Zwölf Prozent netto und fünfzehn Prozent brutto sind unterschiedliche Verhandlungsstände. Zwingende Kundenrechte nicht durch interne Aufgabenverteilung verkürzen.
+  - id: zeitraeume-und-risiken
+    check_type: human_review
+    description: Bestätigten einzelnen Verkaufstag von geplanter Dauerkooperation trennen. Keine Vermieterzustimmung oder Versicherungsdeckung fingieren. Workshops, Schlüssel, Markenverwendung, Kündigung und Herausgabe nicht als bereits vereinbart behandeln.
+  - id: mengen-und-zahlungen
+    check_type: human_review
+    description: 41 angelieferte Stücke, vier verkaufte, eines zurückgenommen. Kassenjournal ergibt 119 EUR brutto nach Rücknahme, noch ohne Provision oder Auszahlung. Veralteten Lagerzettel als abweichenden Beleg behandeln und tatsächlichen Bestand nicht ohne Nachzählung behaupten.
+  - id: technische-qualitaet
+    check_type: human_review
+    description: Zwölf Quellen und alle eingebetteten Anhänge mit Einzelfassungen abgleichen. Beide Excel-Blätter lesbar, Einzel-PDFs getrennt, keine Evaluatorinformationen im Download.

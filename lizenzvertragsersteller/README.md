@@ -43,18 +43,28 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 
 ## Downloads
 
-> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
->
-> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
-
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
 | Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`lizenzvertragsersteller.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/lizenzvertragsersteller.zip) |
 | Kompakter Prompt (Schnellstart) | Markdown | [`lizenzvertragsersteller-schnellstart.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=lizenzvertragsersteller/lizenzvertragsersteller-schnellstart.md) |
 | Großer Prompt (Werkstatt) | Markdown | [`lizenzvertragsersteller-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=lizenzvertragsersteller/lizenzvertragsersteller-werkstatt.md) |
-| Zugeordnete Testakten | PDF / ZIP | [`alle-testakten.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) und [`alle-testakten-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten-einzelpdfs.zip) (zentrale Sammlung) |
+| Zugeordnete Testakten | PDF / ZIP | [eine zugeordnete Akte](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
 > Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 266 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+
+## Zugeordnete Testakten
+
+Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP mit einzelnen PDFs erreichbar.
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+| Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
+| --- | --- | --- | --- |
+| [Softwarelizenz für Pumpenfenster in Bremen](../testakten/vertragserstellung-softwarelizenz-pumpen-bremen/README.md) | [Gesamt-PDF](../testakten/vertragserstellung-softwarelizenz-pumpen-bremen/gesamt-pdf/vertragserstellung-softwarelizenz-pumpen-bremen_gesamt.pdf) | [`testakte-vertragserstellung-softwarelizenz-pumpen-bremen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.25.3/testakte-vertragserstellung-softwarelizenz-pumpen-bremen.zip) | [`testakte-vertragserstellung-softwarelizenz-pumpen-bremen-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.25.3/testakte-vertragserstellung-softwarelizenz-pumpen-bremen-einzelpdfs.zip) |
+
+[Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->
 
 Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlägigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.

@@ -62,7 +62,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
-| [Umweltverbandsakte Moorbach](../testakten/umweltschutzverband-windpark-moorbach-umwrg/README.md) | [Gesamt-PDF](../testakten/umweltschutzverband-windpark-moorbach-umwrg/gesamt-pdf/umweltschutzverband-windpark-moorbach-umwrg_gesamt.pdf) | [`testakte-umweltschutzverband-windpark-moorbach-umwrg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.25.2/testakte-umweltschutzverband-windpark-moorbach-umwrg.zip) | [`testakte-umweltschutzverband-windpark-moorbach-umwrg-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.25.2/testakte-umweltschutzverband-windpark-moorbach-umwrg-einzelpdfs.zip) |
+| [Umweltverbandsakte Moorbach](../testakten/umweltschutzverband-windpark-moorbach-umwrg/README.md) | [Gesamt-PDF](../testakten/umweltschutzverband-windpark-moorbach-umwrg/gesamt-pdf/umweltschutzverband-windpark-moorbach-umwrg_gesamt.pdf) | [`testakte-umweltschutzverband-windpark-moorbach-umwrg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.25.3/testakte-umweltschutzverband-windpark-moorbach-umwrg.zip) | [`testakte-umweltschutzverband-windpark-moorbach-umwrg-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.25.3/testakte-umweltschutzverband-windpark-moorbach-umwrg-einzelpdfs.zip) |
 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->

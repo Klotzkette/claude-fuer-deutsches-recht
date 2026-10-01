@@ -1,0 +1,27 @@
+name: vertragserstellung-gbr-fahrradwerkstatt-leipzig
+plugin: vertragserstellung
+description: Drei Gründer eines Fahrradverleihs mit nicht abgestimmten Beiträgen, Mitarbeit, Vertretung und Mietbedingungen.
+checks:
+  - id: vertragsfassung
+    check_type: file_exists
+    path: 03_Gesellschaftsvertrag_Olav_27-09-2026.docx
+    description: Vollständiger, ausdrücklich nicht unterzeichneter Verhandlungsentwurf.
+  - id: inventar
+    check_type: file_exists
+    path: 05_Geld_und_Inventar.xlsx
+    description: Einzahlungen und Gegenstände mit Quellenbezug, ohne rechtliche Bewertung.
+  - id: mandatsaufnahme
+    check_type: human_review
+    description: Selmas individuelle Anfrage erkennen und gemeinsame Vertretung nicht ohne Klärung unterstellen. Den Auftrag aus Mail und Nachsendung erfassen, entscheidende Rückfragen stellen und einen abgestimmten Entwurf statt einer bloßen Inhaltsliste fortführen.
+  - id: gesellschaft-und-vertretung
+    check_type: human_review
+    description: Für die Gestaltung die aktuelle Fassung der Paragrafen 705, 720 und 721 BGB heranziehen. Interne Zustimmung und Vertretung nach außen unterscheiden. Die im Entwurf enthaltene persönliche Haftungsbegrenzung nicht ungeprüft als gegenüber Dritten wirksam übernehmen.
+  - id: beitraege-und-arbeit
+    check_type: human_review
+    description: Bareinzahlungen, bloße Nutzungsüberlassung und Eigentumsübertragung auseinanderhalten. Gewinnquote nicht ohne Vereinbarung aus Einlagen ableiten. Zehn Stunden Mitarbeit und unveränderte Hauptbeschäftigung mit dem Entwurf abgleichen; Krankheit, Entnahmen, Ausscheiden und laufende Mietpflichten zusammenführen.
+  - id: quellen-und-betraege
+    check_type: human_review
+    description: 18000 EUR nur zugesagtes Bargeld, null eingezahlt. Rechnung 6069 EUR brutto von 2024 nicht mit Olavs unbestätigter Bewertung von 4500 EUR gleichsetzen. Keine unterzeichnete Miete oder Reparaturkooperation erfinden.
+  - id: technische-qualitaet
+    check_type: human_review
+    description: Zwölf Quellen, MIME-Anhänge bytegleich, zwei lesbare Excel-Blätter, getrennte Einzel-PDFs und vollständiges Gesamt-PDF. Warntext nur auf Downloadseiten und in ZIP-README, nicht in Aktenstücken.
