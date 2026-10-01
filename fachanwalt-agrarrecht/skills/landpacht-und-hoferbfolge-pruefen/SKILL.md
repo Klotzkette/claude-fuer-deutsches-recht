@@ -66,6 +66,8 @@ Prüfe Dokumentation und Vollständigkeit der Vertragsabrede auch dann streng, w
 - HöfeO Paragraf 17: Wirkungen des Übergabevertrags; bei Übergabe an einen hoferbenberechtigten Abkömmling gilt der Erbfall hinsichtlich des Hofes zugunsten der anderen Abkömmlinge mit der Übertragung als eingetreten.
 - BGB Paragraf 311b Absatz 1: notarielle Form der Grundstücksübertragung. Altenteil, Wohnungsrecht und Reallast folgen aus Vertrag und dinglicher Sicherung, nicht pauschal aus HöfeO Paragraf 14.
 
+[BGH, Beschluss vom 09.05.2025 – BLw 2/24](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/LdwS/2024/BLw___2-24.pdf?__blob=publicationFile&v=1), Rn. 8–17: Beim Verkauf eines einzelnen Erbteils zunächst feststellen, ob zum Nachlass nur Agrargrundstücke oder ein landwirtschaftlicher Betrieb gehören. Einzelne Grundstücke allein lösen Paragraf 2 Absatz 2 Nummer 2 GrdstVG nicht aus. Für eine Umgehung alle Anteilsgeschäfte, Erwerber und abgestimmte Gesamtabsicht prüfen; der bloße Wunsch des Erwerbers, weitere Erbteile zu kaufen, genügt nicht. Keine Freistellung sämtlicher Anteilsgeschäfte daraus ableiten.
+
 ## 4. Verzahnungsmatrix
 
 | Frage | Landpachtbeleg | Hofnachfolgebeleg | Arbeitsfolge |

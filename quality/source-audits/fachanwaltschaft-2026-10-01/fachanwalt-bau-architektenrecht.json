@@ -1,0 +1,86 @@
+{
+  "plugin": "fachanwalt-bau-architektenrecht",
+  "checked_on": "2026-10-01",
+  "scope": "Zwei ausgewählte aktuelle Entscheidungen; Entscheidungsidentität und angegebene tragende Volltextpassagen frisch gelesen, Vorprüfungen als Kontext. Keine Prüfung sämtlicher Entscheidungen im Plugin.",
+  "decisions": [
+    {
+      "id": "bau1",
+      "plugin": "fachanwalt-bau-architektenrecht",
+      "court": "BGH",
+      "form": "Urteil",
+      "date": "15.01.2026",
+      "az": "VII ZR 119/24",
+      "citation": "BGH, Urteil vom 15.01.2026, VII ZR 119/24",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2024/VII_ZR_119-24.pdf?__blob=publicationFile&v=1",
+      "passages_read": "Entscheidungskopf, Rn. 39–41, 63, 66, 72, 75 und 77",
+      "application": "Ausführungsplaner muss Vorplanung zumutbar prüfen und Bedenken an Besteller richten; Zurechnung fremder Planungs-/Koordinationsbeiträge nach konkreter Mitwirkung.",
+      "limit": "Verträge 2009/2010 und damalige HOAI; keine automatische Phasenhaftung oder pauschale Quote.",
+      "checked_on": "2026-10-01",
+      "verification_status": "frisch_amtlicher_volltext_passagen",
+      "retrieval": "Amtliches Entscheidungs-PDF frisch abgerufen und mit pdftotext gelesen",
+      "source_sha256": "c3e0f687d48ee889bf561ec662a4af94faa2962bad441712a1b2cc117964acf9",
+      "skill": "architektenrecht-tatbestand-beweis-und-belege"
+    },
+    {
+      "id": "bau2",
+      "plugin": "fachanwalt-bau-architektenrecht",
+      "court": "BGH",
+      "form": "Urteil",
+      "date": "26.03.2026",
+      "az": "VII ZR 68/24",
+      "citation": "BGH, Urteil vom 26.03.2026, VII ZR 68/24",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2024/VII_ZR__68-24.pdf?__blob=publicationFile&v=1",
+      "passages_read": "Entscheidungskopf, Rn. 36–43, 49, 53–54 und 56; frühere Prüfung als Kontext",
+      "application": "Formularzwang zur Abnahme des Gemeinschaftseigentums durch drei Erwerbervertreter entzieht Erwerbern die eigene Abnahmeentscheidung und ist unwirksam.",
+      "limit": "Freiwillige Vertretung gesondert; Altvertrag nach AGBG/BGB a.F.; 30-jährige äußerste Durchsetzungsgrenze ab fehlgeschlagener Abnahme ersetzt weder frühere Verjährung noch Verwirkung.",
+      "checked_on": "2026-10-01",
+      "verification_status": "frisch_amtlicher_volltext_passagen",
+      "retrieval": "Amtliches Entscheidungs-PDF frisch abgerufen und mit pdftotext gelesen",
+      "source_sha256": "b5399e80d48297d3136bb409ff687e9fe554f78ce8596802a5acf28b60d594ec",
+      "skill": "bautraeger-abnahme-formgerecht-640-bgb"
+    }
+  ],
+  "fresh_2026_decisions": 2,
+  "search_2026": "Amtliche 2026-Fundstellen gezielt gesucht/abgerufen; die hier dokumentierten Quellen tragen die übernommenen Aussagen. Kein Negativnachweis über sämtliche 2026-Entscheidungen.",
+  "changes": "Planerhaftung 2026 mit Direktlink im Mini; Vertreterabnahme 2026 samt Altvertrags- und Verjährungsgrenze im Mini, Werkstatt und Abnahmeskill.",
+  "changed_files": [
+    "fachanwalt-bau-architektenrecht/fachanwalt-bau-architektenrecht-schnellstart.md",
+    "fachanwalt-bau-architektenrecht/fachanwalt-bau-architektenrecht-werkstatt.md",
+    "fachanwalt-bau-architektenrecht/skills/bautraeger-abnahme-formgerecht-640-bgb/SKILL.md"
+  ],
+  "read_scope": {
+    "mini": "Vollständig gelesen; Anker und Fortsetzungslogik abgeglichen.",
+    "workshop": "Betroffene Fachabschnitte und vorhandene Anker gelesen; keine erneute Gesamtprüfung sämtlicher übriger Werkstattabschnitte.",
+    "skills": "Betroffene Fachabschnitte der verknüpften bestehenden Skills; keine Gesamtprüfung aller Spezialskills.",
+    "focus": "Auftrag und tragende Anker zur Abgrenzung geprüft; Hauptproblem betrifft Vorhaltung nach Paragraf 642 BGB. Planerhaftung und Vertreterabnahme werden nicht zu Entschädigungsurteilen umgedeutet; VII ZR 33/19 bleibt tragend."
+  },
+  "focus_decision": "Hauptproblem betrifft Vorhaltung nach Paragraf 642 BGB. Planerhaftung und Vertreterabnahme werden nicht zu Entschädigungsurteilen umgedeutet; VII ZR 33/19 bleibt tragend.",
+  "prompt_limits": {
+    "schnellstart": {
+      "characters": 7351,
+      "utf8_bytes": 7494
+    },
+    "hauptproblem": {
+      "characters": 5942,
+      "utf8_bytes": 6047
+    }
+  },
+  "txt_mirrors_updated": [],
+  "verification_limits": [
+    "Keine neuen Skills, Testakten, Versionen oder globalen Generatoren.",
+    "Kein Live-Modelltest; vorhandene Modelltestergebnisse werden nicht auf neue Texte umdatiert.",
+    "Altanker außerhalb des benannten Passagenumfangs behalten ihren bisherigen Prüfstatus."
+  ],
+  "technical_checks": {
+    "mini_and_focus_limits": "passed",
+    "profile_validation": "passed: quality_lab.validate_profile, 01.10.2026",
+    "pair_coverage": "passed: Beide Direktlinks in Werkstatt, Mini und jeweils passendem bestehenden Fachskill."
+  },
+  "editorial_placement": {
+    "status": "repositioned_without_substantive_change",
+    "files": [
+      "fachanwalt-bau-architektenrecht/skills/bautraeger-abnahme-formgerecht-640-bgb/SKILL.md"
+    ],
+    "detail": "Neue Rechtsprechungsabschnitte in passende vorhandene Prüf-/Quellenabschnitte eingeordnet und Überschriften an vorhandene Gliederung angepasst; keine neue fachliche Prüfung und keine Promptänderung."
+  }
+}

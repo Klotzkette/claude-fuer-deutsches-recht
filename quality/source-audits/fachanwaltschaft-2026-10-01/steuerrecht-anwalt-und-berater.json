@@ -1,0 +1,82 @@
+{
+  "plugin": "steuerrecht-anwalt-und-berater",
+  "checked_on": "2026-10-01",
+  "status": "two_current_relevant_highest_court_anchors_verified_and_covered",
+  "scope": "Gezielte amtliche Quellenprüfung der unten genannten Passagen; lokaler Kontext und Arbeitsablauf der drei Prompts sowie betroffene Skillpassagen. Keine erneute Vollprüfung sämtlicher Fachskills oder Normen.",
+  "sources": [
+    {
+      "citation": "BFH, Urteil vom 18.06.2025 – X R 19/21",
+      "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202520256/",
+      "passages": "Rn. 48–63 frisch; nichttragende Einordnung Rn. 31 aus Vorprüfung übernommen",
+      "application": "Mit zumutbarem Aufwand zuverlässigere Schätzung wählen; eigene Betriebsdaten und Nachkalkulation prüfen.",
+      "limit": "Kein Methodenwahlrecht des Steuerpflichtigen, keine zwingende zweite Kontrollrechnung; alte Prüfungsjahre 2013/2014.",
+      "retrieval": "amtlicher Volltext, ausgewählte Gründe frisch gelesen",
+      "checked_on": "2026-10-01",
+      "previously_present": true
+    },
+    {
+      "citation": "BFH, Urteil vom 15.04.2026 – X R 14/24",
+      "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202650130/",
+      "passages": "Rn. 28–37",
+      "application": "Fehlendes erkennbares Erwägen eines möglichen inneren Betriebsvergleichs ist Methodenfehler.",
+      "limit": "Schätzungsbefugnis bleibt; Hinweise für zweiten Rechtsgang ohne Bindungswirkung, keine Nullzuschätzung.",
+      "retrieval": "amtlicher Volltext, ausgewählte Gründe frisch gelesen",
+      "checked_on": "2026-10-01",
+      "previously_present": true
+    }
+  ],
+  "fresh_or_reused": "Alle 16 ausgewählten Dokumente dieser acht Plugins in diesem Lauf amtlich neu abgerufen. Frisch gelesene Passagen und nur aus Vorprüfung übernommene Teilpassagen stehen je Quelle ausdrücklich im Feld passages; ältere sonstige Quellen wurden nicht neu als verifiziert etikettiert.",
+  "local_files_reviewed": [
+    "steuerrecht-anwalt-und-berater/skills/hinzuschaetzung-kasse-wareneinsatz-gegenkalkulation/SKILL.md",
+    "steuerrecht-anwalt-und-berater/skills/juristischer-argumentationskern/SKILL.md",
+    "steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-hauptproblem.md",
+    "steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-schnellstart.md",
+    "steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-werkstatt.md"
+  ],
+  "changed_files": [
+    "steuerrecht-anwalt-und-berater/skills/hinzuschaetzung-kasse-wareneinsatz-gegenkalkulation/SKILL.md",
+    "steuerrecht-anwalt-und-berater/skills/juristischer-argumentationskern/SKILL.md",
+    "steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-schnellstart.md",
+    "steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-werkstatt.md",
+    "quality/evals/steuerrecht-anwalt-und-berater.json"
+  ],
+  "prompt_coverage": {
+    "werkstatt": {
+      "path": "steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-werkstatt.md",
+      "characters": 29716,
+      "utf8_bytes": 30175,
+      "sha256": "50988222d4a16369fbb2ba70fc57e6c791fdd201ffca55462dc9e239f6f2868f",
+      "selected_source_urls_present": [
+        true,
+        true
+      ]
+    },
+    "schnellstart": {
+      "path": "steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-schnellstart.md",
+      "characters": 6372,
+      "utf8_bytes": 6479,
+      "sha256": "b9e30b3d452dd4414f0372a048a4367bc705548112ff7cb77928aeb5f502bccf",
+      "selected_source_urls_present": [
+        true,
+        true
+      ]
+    },
+    "hauptproblem": {
+      "path": "steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-hauptproblem.md",
+      "characters": 7346,
+      "utf8_bytes": 7475,
+      "sha256": "8863e5a4e8ee3c2d0bffab6e8bc3229c51dbf1fd4c5d10e50c5afc0007a3f942",
+      "selected_source_urls_present": [
+        true,
+        true
+      ]
+    }
+  },
+  "focus_scope": "Hauptproblem Gegenkalkulation enthält beide frisch nachgelesenen Entscheidungen bereits mit Datum, Aktenzeichen und amtlichem Direktlink. Bestehende tragende Methodenabgrenzung beibehalten; konkrete Frostverderb-Belegfrage in Werkstatt/Mini/Fokus-Skill ergänzt.",
+  "search_2026": "2026-Fortentwicklung X R 14/24 sowie 2025-Grundentscheidung X R 19/21 frisch amtlich abgerufen und bezeichnete Methodenpassagen erneut gelesen; keine vollständige neue Prüfung aller Kassen- und Richtsatzpassagen.",
+  "validation": "UTF-8-Byte- und Zeichengrenzen; beide Direktlinks in Werkstatt und Mini sowie vorhandenen Skills; Profilhashes nachgeführt. Keine neuen Modelltests oder globalen Generatoren.",
+  "limits": [
+    "Nur bezeichnete Entscheidungs- und angrenzende Workflowpassagen überprüft; kein Versprechen vollständiger Rechtssicherheit.",
+    "Vorhandene Normfassungen, Altfundstellen und Testakten außerhalb des beschriebenen Eingriffs nicht umfassend neu geprüft."
+  ]
+}

@@ -18,6 +18,12 @@ description: "Für Lizenzvertrag Verhandlung: entwickelt Ziel, Vergleich und Esk
 
 ### Lizenzvertrag-Verhandlung
 
+[EuGH, Urteil vom 04.12.2025 – Az. C-580/23 und C-795/23, Mio/konektra](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62023CJ0580), Rn. 50–58, 83–87: Design-Neuheit und Eigenart ersetzen keine urheberrechtliche Originalität. Stelle freie kreative Entscheidungen und ihre wiedererkennbare Übernahme fest; für angewandte Kunst gilt keine höhere Schutzschwelle. Der urheberrechtliche Maßstab ersetzt nicht den designrechtlichen Gesamteindruck oder die gesonderte Schadensrechnung.
+
+[BGH, Urteil vom 02.07.2026 – Az. I ZR 96/22, USM Haller II](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2022/I_ZR__96-22A.pdf?__blob=publicationFile&v=4), Rn. 23–26, 60–63: Urheberrechtliche Originalität und designrechtliche Eigenart getrennt prüfen. Entscheidend sind wiedererkennbare kreative Elemente in der insgesamt betrachteten neuen Gestaltung, kein eigenständiger urheberrechtlicher Gesamteindruckstest. Zurückverweisung, keine endgültige Schutzfeststellung für USM Haller und kein Maßstab für eine Gewinnquote.
+
+Bei Produktgestaltungen erst Schutzgegenstand und Rechteinhaber belegen, dann die gewährten Nutzungen formulieren. Beide Entscheidungen legen weder eine Lizenzhöhe noch den Schutz bloßer Lichtbilder nach Paragraf 72 UrhG fest.
+
 ## 1) Lizenz-Arten § 31 UrhG
 
 ### Ausschließliches Nutzungsrecht

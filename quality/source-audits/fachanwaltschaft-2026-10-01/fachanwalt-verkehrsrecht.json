@@ -1,0 +1,85 @@
+{
+  "plugin": "fachanwalt-verkehrsrecht",
+  "checked_on": "2026-10-01",
+  "status": "two_current_relevant_highest_court_anchors_verified_and_covered",
+  "scope": "Gezielte amtliche Quellenprüfung der unten genannten Passagen; lokaler Kontext und Arbeitsablauf der drei Prompts sowie betroffene Skillpassagen. Keine erneute Vollprüfung sämtlicher Fachskills oder Normen.",
+  "sources": [
+    {
+      "citation": "BGH, Urteil vom 28.01.2025 – VI ZR 300/24",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2024/VI_ZR_300-24.pdf?__blob=publicationFile&v=1",
+      "passages": "Rn. 10–19",
+      "application": "Bei fiktiver Abrechnung kein Vortrag zu tatsächlich angefallenen Reparaturkosten erforderlich.",
+      "limit": "Zumutbarer gleichwertiger Werkstattverweis bleibt möglich; eigene konkrete Angaben zu günstiger gleichwertiger Reparatur nicht ignorieren.",
+      "retrieval": "amtlicher Volltext, ausgewählte Gründe frisch gelesen",
+      "checked_on": "2026-10-01",
+      "previously_present": false
+    },
+    {
+      "citation": "BGH, Urteil vom 08.04.2025 – VI ZR 25/24",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2024/VI_ZR__25-24.pdf?__blob=publicationFile&v=1",
+      "passages": "Rn. 6–13",
+      "application": "Späterer Wechsel zur konkreten Abrechnung möglich; Feststellungsinteresse bei Möglichkeit weiterer Reparaturfolgeschäden.",
+      "limit": "Materielle Voraussetzungen und Verjährung bleiben; kein beliebiger Mix der Abrechnungen und keine Feststellung bei ausgeschlossenem weiterem Schaden.",
+      "retrieval": "amtlicher Volltext, ausgewählte Gründe frisch gelesen",
+      "checked_on": "2026-10-01",
+      "previously_present": false
+    }
+  ],
+  "fresh_or_reused": "Alle 16 ausgewählten Dokumente dieser acht Plugins in diesem Lauf amtlich neu abgerufen. Frisch gelesene Passagen und nur aus Vorprüfung übernommene Teilpassagen stehen je Quelle ausdrücklich im Feld passages; ältere sonstige Quellen wurden nicht neu als verifiziert etikettiert.",
+  "local_files_reviewed": [
+    "fachanwalt-verkehrsrecht/fachanwalt-verkehrsrecht-hauptproblem.md",
+    "fachanwalt-verkehrsrecht/fachanwalt-verkehrsrecht-schnellstart.md",
+    "fachanwalt-verkehrsrecht/fachanwalt-verkehrsrecht-werkstatt.md",
+    "fachanwalt-verkehrsrecht/skills/juristischer-argumentationskern/SKILL.md",
+    "fachanwalt-verkehrsrecht/skills/vkr-totalschaden-fiktiv-spezial/SKILL.md",
+    "fachanwalt-verkehrsrecht/skills/werkstattrechnung-kuerzung-zahlungswege/SKILL.md"
+  ],
+  "changed_files": [
+    "fachanwalt-verkehrsrecht/fachanwalt-verkehrsrecht-hauptproblem.md",
+    "fachanwalt-verkehrsrecht/fachanwalt-verkehrsrecht-schnellstart.md",
+    "fachanwalt-verkehrsrecht/fachanwalt-verkehrsrecht-werkstatt.md",
+    "fachanwalt-verkehrsrecht/skills/juristischer-argumentationskern/SKILL.md",
+    "fachanwalt-verkehrsrecht/skills/vkr-totalschaden-fiktiv-spezial/SKILL.md",
+    "fachanwalt-verkehrsrecht/skills/werkstattrechnung-kuerzung-zahlungswege/SKILL.md",
+    "quality/evals/fachanwalt-verkehrsrecht.json"
+  ],
+  "prompt_coverage": {
+    "werkstatt": {
+      "path": "fachanwalt-verkehrsrecht/fachanwalt-verkehrsrecht-werkstatt.md",
+      "characters": 21786,
+      "utf8_bytes": 22099,
+      "sha256": "059a7ba3d4c250803751d38fa97ade0a4e9b41fc19331c3fcee863841c40a016",
+      "selected_source_urls_present": [
+        true,
+        true
+      ]
+    },
+    "schnellstart": {
+      "path": "fachanwalt-verkehrsrecht/fachanwalt-verkehrsrecht-schnellstart.md",
+      "characters": 7028,
+      "utf8_bytes": 7132,
+      "sha256": "5b17afb56ac8740927eb22016dd1f6a58e032cdabf8a93e93eb7adcc8336ddf3",
+      "selected_source_urls_present": [
+        true,
+        true
+      ]
+    },
+    "hauptproblem": {
+      "path": "fachanwalt-verkehrsrecht/fachanwalt-verkehrsrecht-hauptproblem.md",
+      "characters": 7060,
+      "utf8_bytes": 7173,
+      "sha256": "f0a9fe1b4ef68fd0c4390bc69a433115228e10c7dd84136ad1646cd56e2db1e4",
+      "selected_source_urls_present": [
+        true,
+        true
+      ]
+    }
+  },
+  "focus_scope": "Beide neuen Entscheidungen in Hauptproblem und Fokus-Skill als vorgeschaltete Abrechnungswahl/Wechselroute ergänzt; Werkstattrisiko nach VI ZR 253/22 bleibt eigene Prüfung.",
+  "search_2026": "2026-Recherche zur Unfall-/Reparaturabrechnung lieferte für diese konkrete Ergänzung keinen besser passenden gesicherten neuen Volltext; zwei einschlägige BGH-Urteile von 2025 frisch gelesen.",
+  "validation": "UTF-8-Byte- und Zeichengrenzen; beide Direktlinks in Werkstatt und Mini sowie vorhandenen Skills; Profilhashes nachgeführt. Keine neuen Modelltests oder globalen Generatoren.",
+  "limits": [
+    "Nur bezeichnete Entscheidungs- und angrenzende Workflowpassagen überprüft; kein Versprechen vollständiger Rechtssicherheit.",
+    "Vorhandene Normfassungen, Altfundstellen und Testakten außerhalb des beschriebenen Eingriffs nicht umfassend neu geprüft."
+  ]
+}

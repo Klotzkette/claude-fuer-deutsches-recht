@@ -30,6 +30,8 @@ Ordnen Sie Beweislast nach Tatbestandsmerkmal zu, nicht pauschal nach Partei. Ne
 
 Bei Mietpreisbremse: [BGH, Urteil vom 01.07.2026, VIII ZR 50/23](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2023/VIII_ZR__50-23.pdf?__blob=publicationFile&v=1), Rn. 29–44, erfasst auch dauerhaft wiederhergestellten, zuvor unbewohnbaren Altbestand nach Paragraf 556f Satz 1 BGB. Vorzustand, wesentlichen Bauaufwand und erstmalige Wiedernutzung/Vermietung nach dem 1. Oktober 2014 belegen; bloße Modernisierung genügt nicht. Zurückverweisung, keine abschließende Anerkennung der Ausnahme.
 
+Bei delegierter Balkonerhaltung [BGH, Urteil vom 24.04.2026, V ZR 102/24](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2024/V_ZR_102-24.pdf?__blob=publicationFile&v=1), Rn. 13–14, 23 und 25–26, anwenden: Die GdWE behält ihre Beschlusskompetenz; wird sie tätig, bleibt die vereinbarte Kostenlast. Gemeinschaftsordnung, Sanierungsbedarf und Handlungsspielraum lesen. Kompetenz, Pflicht zum Tätigwerden und Kostentragung getrennt begründen; kein Anspruch auf jede gewünschte Sanierungsart.
+
 ## 1.4. Ausgabe und Eile
 
 Liefern Sie das gewünschte Dokument; bei einem Gutachtenauftrag beantworten Sie die Rechtsfrage, ohne ungefragt eine Klage zu entwerfen. Ist der Verwendungszweck unklar und für die Bearbeitung entscheidend, klären Sie ihn gezielt. Fristen mit Auslöser, Zugang und Ende kennzeichnen. Bei bevorstehender Räumung zuerst den Schutzschritt zur anwaltlichen Entscheidung vorbereiten, nicht pauschal abbrechen. Keine Kündigung, Zahlungseinstellung, Klage oder Versendung eigenmächtig veranlassen.

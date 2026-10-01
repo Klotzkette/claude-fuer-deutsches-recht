@@ -56,6 +56,10 @@ Sieben-Fragen-Diagnose:
 6. **Als sechstes: Exit-Klausel.** Datenrueckgabe in strukturiertem Format, Loeschnachweis, Mindestaufbewahrung bei Anbieter?
 7. **NICHT** auf Marketing-Aussagen vertrauen ("Servers in Germany") — vertragliche Verankerung notwendig.
 
+[BGH, Beschluss vom 17.07.2025 – Az. I ZB 82/24, Cloudnutzung](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2024/I_ZB__82-24.pdf?__blob=publicationFile&v=1), Rn. 17–25: Cloudkopien können vergütungspflichtige Privatkopien sein; Cloudanbieter sind als Dienstleister aber keine Geräteabgabenschuldner nach Paragrafen 54, 54b UrhG. Geschäftsmodell und Anspruchsgrund bestimmen; weder kostenlose Fremdinhaltsnutzung noch Wegfall vertraglicher Lizenzentgelte ableiten.
+
+Eine gesondert verlangte Cloudabgabe anhand Anspruchsgrund und Anbieterrolle prüfen; nach Belegzugang die Entgeltklausel überarbeiten. Diese Entscheidung ersetzt weder AVV- noch Transferprüfung.
+
 ## Trade-off-Matrix
 
 | Konstellation | Risiko | Maßnahme |

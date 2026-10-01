@@ -15,8 +15,8 @@
     },
     {
       "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202520256/",
-      "checked_on": "2026-09-14",
-      "supports": "BFH, Urteil vom 18.06.2025, Az. X R 19/21: Leitsätze 1 bis 6 und Gründe im amtlichen Volltext geprüft; Befugnis, Methodenwahl und nachvollziehbare Schätzung unterscheiden. Zweifel an der bisherigen Richtsatzsammlung ausdrücklich ergänzend und nicht tragend."
+      "checked_on": "2026-10-01",
+      "supports": "Mit zumutbarem Aufwand zuverlässigere Schätzung wählen; eigene Betriebsdaten und Nachkalkulation prüfen. Grenze: Kein Methodenwahlrecht des Steuerpflichtigen, keine zwingende zweite Kontrollrechnung; alte Prüfungsjahre 2013/2014."
     },
     {
       "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202210043/",
@@ -56,7 +56,7 @@
     {
       "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202650130/",
       "checked_on": "2026-10-01",
-      "supports": "BFH, Urteil vom 15.04.2026, X R 14/24, Rn. 19–37, insbesondere 28–33. Amtlichen Volltext gelesen. Anwendung: Bereits fehlendes erkennbares Erwägen eines möglichen inneren Betriebsvergleichs verletzt die Regeln zur Methodenwahl. Vorhandene Einkaufs-, Bestands- und Preisdaten mit Richtsatzrechnung vergleichen und übergangenen Rechenweg benennen. Grenze: Schätzungsbefugnis blieb bestehen; kein Nullzuschlag oder automatische Anerkennung der Gegenrechnung. Rn. 34–37 zu Frostverderb, Zeugenverzicht/Amtsermittlung und Richtsatzkritik sind ausdrücklich Hinweise für den zweiten Rechtsgang."
+      "supports": "Fehlendes erkennbares Erwägen eines möglichen inneren Betriebsvergleichs ist Methodenfehler. Grenze: Schätzungsbefugnis bleibt; Hinweise für zweiten Rechtsgang ohne Bindungswirkung, keine Nullzuschätzung."
     },
     {
       "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202520256/",
@@ -76,7 +76,7 @@
       "Stichtags- und Rezepturwechsel, belastende neue Preise, Übergang von Prüfungsrechnung zu Bescheid sowie Rechnungskorrektur und Haftungszahlung in getrennte vollständige Dokumentwege überführen; Fokus-Skill mit demselben Fortsetzungsbeispiel abgestimmt.",
       "01.10.2026: X R 14/24 als tragenden Methodenanker ergänzt; nicht erkennbare Prüfung innerer Betriebsdaten und Hinweise zu Frostverderb von fortbestehender Schätzungsbefugnis getrennt."
     ],
-    "sha256": "3f9c84da2e5dd5669eea0c6e3d056ef94130b7dfab9e87522e63229194475bf2",
+    "sha256": "b9e30b3d452dd4414f0372a048a4367bc705548112ff7cb77928aeb5f502bccf",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
@@ -96,7 +96,7 @@
     "prompt_path": "steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-hauptproblem.md",
     "prompt_sha256": "8863e5a4e8ee3c2d0bffab6e8bc3229c51dbf1fd4c5d10e50c5afc0007a3f942",
     "skill_path": "steuerrecht-anwalt-und-berater/skills/hinzuschaetzung-kasse-wareneinsatz-gegenkalkulation/SKILL.md",
-    "skill_sha256": "22d17b76ad483dd882ebab88d40fa98ed8b4af8ac4134c9952da86dbc6c3548c"
+    "skill_sha256": "bd37d0d61be8e6668e3086df02a7318f78f34874c5793419153718d638d905ac"
   },
   "selection": {
     "positive": [
@@ -210,20 +210,21 @@
       "Stichtags- und Rezepturwechsel, belastende neue Preise, Übergang von Prüfungsrechnung zu Bescheid sowie Rechnungskorrektur und Haftungszahlung in getrennte vollständige Dokumentwege überführen; Fokus-Skill mit demselben Fortsetzungsbeispiel abgestimmt.",
       "01.10.2026: X R 14/24 als tragenden Methodenanker ergänzt; nicht erkennbare Prüfung innerer Betriebsdaten und Hinweise zu Frostverderb von fortbestehender Schätzungsbefugnis getrennt."
     ],
-    "sha256": "2c01d835bd0224adf20aa34186f044fbd99632a771562db427bde0cd2e295110",
+    "sha256": "50988222d4a16369fbb2ba70fc57e6c791fdd201ffca55462dc9e239f6f2868f",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
   "prompt_editorial_review": {
     "date": "2026-10-01",
     "files": [
-      "steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-hauptproblem.md",
-      "steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-werkstatt.md",
-      "steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-schnellstart.md",
-      "steuerrecht-anwalt-und-berater/skills/hinzuschaetzung-kasse-wareneinsatz-gegenkalkulation/SKILL.md",
-      "steuerrecht-anwalt-und-berater/README.md",
       "quality/evals/steuerrecht-anwalt-und-berater.json",
-      "steuerrecht-anwalt-und-berater/skills/aussenpruefung-strategien/SKILL.md"
+      "steuerrecht-anwalt-und-berater/README.md",
+      "steuerrecht-anwalt-und-berater/skills/aussenpruefung-strategien/SKILL.md",
+      "steuerrecht-anwalt-und-berater/skills/hinzuschaetzung-kasse-wareneinsatz-gegenkalkulation/SKILL.md",
+      "steuerrecht-anwalt-und-berater/skills/juristischer-argumentationskern/SKILL.md",
+      "steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-hauptproblem.md",
+      "steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-schnellstart.md",
+      "steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-werkstatt.md"
     ],
     "opening_change": "Konkrete Abweichung zwischen Erklärung, Bescheid und Prüfungsrechnung untersuchen; im Hauptproblem Waren-Gegenkalkulation aufbauen.",
     "norms": [
@@ -233,17 +234,17 @@
     ],
     "decisions": [
       {
-        "citation": "BFH, Urteil vom 18.06.2025, X R 19/21, Rn. 31, 48–63",
+        "citation": "BFH, Urteil vom 18.06.2025 – X R 19/21",
         "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202520256/",
-        "application": "Bei Hinzuschätzung eine mit zumutbarem Aufwand genauere betriebsinterne Kalkulation anhand Warenbestand, Rezepturen, Mengen und zeitgleichen Preisen prüfen. Ihre Ablehnung muss begründet werden; fehlende Rezepturen wirken nicht zugunsten des Betriebs.",
-        "limit": "Kein freies Wahlrecht der Behörde und kein genereller Anspruch auf zweite Methode. Kritik an der Richtsatzsammlung war nicht tragender Entscheidungsgrund; historische Kassenregeln nicht als heutige Fassung ausgeben.",
+        "application": "Mit zumutbarem Aufwand zuverlässigere Schätzung wählen; eigene Betriebsdaten und Nachkalkulation prüfen.",
+        "limit": "Kein Methodenwahlrecht des Steuerpflichtigen, keine zwingende zweite Kontrollrechnung; alte Prüfungsjahre 2013/2014.",
         "checked_on": "2026-10-01"
       },
       {
-        "citation": "BFH, Urteil vom 15.04.2026, X R 14/24, Rn. 19–37, insbesondere 28–33",
+        "citation": "BFH, Urteil vom 15.04.2026 – X R 14/24",
         "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202650130/",
-        "application": "Bereits fehlendes erkennbares Erwägen eines möglichen inneren Betriebsvergleichs verletzt die Regeln zur Methodenwahl. Vorhandene Einkaufs-, Bestands- und Preisdaten mit Richtsatzrechnung vergleichen und übergangenen Rechenweg benennen.",
-        "limit": "Schätzungsbefugnis blieb bestehen; kein Nullzuschlag oder automatische Anerkennung der Gegenrechnung. Rn. 34–37 zu Frostverderb, Zeugenverzicht/Amtsermittlung und Richtsatzkritik sind ausdrücklich Hinweise für den zweiten Rechtsgang.",
+        "application": "Fehlendes erkennbares Erwägen eines möglichen inneren Betriebsvergleichs ist Methodenfehler.",
+        "limit": "Schätzungsbefugnis bleibt; Hinweise für zweiten Rechtsgang ohne Bindungswirkung, keine Nullzuschätzung.",
         "checked_on": "2026-10-01"
       }
     ],
@@ -279,5 +280,27 @@
     "continuation": "Endbestand 2.000 statt 1.500 Flaschen senkt bei unveränderten übrigen Daten und 5 Euro Nettopreis den kalkulierten Umsatz um 2.500 Euro; Rechnung, Differenz und beziffertes Begehren gemeinsam ändern.",
     "enrichment": "Stichtags- und Rezepturwechsel, belastende neue Preise, Übergang von Prüfungsrechnung zu Bescheid sowie Rechnungskorrektur und Haftungszahlung in getrennte vollständige Dokumentwege überführen; Fokus-Skill mit demselben Fortsetzungsbeispiel abgestimmt.",
     "limits": "desk review; no live client execution"
+  },
+  "fachanwaltschaft_source_review_2026_10_01": {
+    "method": "targeted_official_source_and_prompt_review",
+    "report": "quality/source-audits/fachanwaltschaft-2026-10-01/steuerrecht-anwalt-und-berater.json",
+    "decisions": [
+      {
+        "citation": "BFH, Urteil vom 18.06.2025 – X R 19/21",
+        "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202520256/",
+        "passages": "Rn. 48–63 frisch; nichttragende Einordnung Rn. 31 aus Vorprüfung übernommen",
+        "retrieval": "amtlicher Volltext, ausgewählte Gründe frisch gelesen",
+        "checked_on": "2026-10-01"
+      },
+      {
+        "citation": "BFH, Urteil vom 15.04.2026 – X R 14/24",
+        "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202650130/",
+        "passages": "Rn. 28–37",
+        "retrieval": "amtlicher Volltext, ausgewählte Gründe frisch gelesen",
+        "checked_on": "2026-10-01"
+      }
+    ],
+    "focus_scope": "Hauptproblem Gegenkalkulation enthält beide frisch nachgelesenen Entscheidungen bereits mit Datum, Aktenzeichen und amtlichem Direktlink. Bestehende tragende Methodenabgrenzung beibehalten; konkrete Frostverderb-Belegfrage in Werkstatt/Mini/Fokus-Skill ergänzt.",
+    "new_model_tests": false
   }
 }

@@ -1,6 +1,6 @@
 # 1. Zahlungen nach Insolvenzreife und Organhaftung abrechnen
 
-Gleiche die nach Insolvenzreife beanstandeten Kontoabgänge mit Eigenumbuchungen, Rückzahlungen und Gegenleistungen ab. Bestimme je Zahlung Zurechnung, Sorgfaltsmaßstab und möglichen geringeren Gläubigerschaden. Begründe den tatsächlich verlangbaren Betrag oder dessen Abwehr und liefere die beauftragte Haftungsbewertung oder den vollständigen Empfängertext samt abgestimmter Rechnung.
+Gleiche beanstandete Kontoabgänge nach Insolvenzreife mit Umbuchungen, Rückzahlungen und Gegenleistungen ab. Prüfe je Zahlung Zurechnung, Sorgfalt und geringeren Gläubigerschaden. Liefere begründete Haftungsbewertung oder Empfängertext mit abgestimmter Forderungs- oder Abwehrrechnung.
 
 ## 1.1. Sachverhalt und Rechtsstand
 
@@ -9,6 +9,10 @@ Ohne Eingabe biete Zahlungsjournalabgleich, Entlastungsprüfung oder Verteidigun
 Lies Auftrag, Organstellung, Insolvenzreifestatus, Konten, Belege, Antrag und gerichtliche Anordnungen sowie Sanierungs- und Gegenleistungsnachweise. Trenne behaupteten Reifetag, Zahlungs-, Buchungs- und Wertstellungstag. Prüfe Insolvenzreife nach Paragrafen 17 und 19 InsO und Zurechnung zum Organ. Eine negative Bilanz ersetzt nicht sämtliche Voraussetzungen. Zahlungen vor und seit dem 01.01.2021 nach der jeweils einschlägigen Rechtslage trennen.
 
 Fehlt ein tragfähiger Stichtag, rechne bezeichnete Varianten und frage nach den konkret fehlenden Fälligkeits-, Stundungs- oder Liquiditätsbelegen. Nach deren Eingang aktualisiere Stichtag und betroffene Zahlungszeiträume. Eine Antragsfrist nach Paragraf 15a InsO ist keine voraussetzungslose Schonfrist für Zahlungen.
+
+[BGH, Urteil vom 12.03.2026 – Az. IX ZR 18/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZR__18-25.pdf?__blob=publicationFile&v=1), Rn. 24–32: Tatsächlich verfügbare Drittmittel trotz fehlenden Anspruchs berücksichtigen, bloße Zusagen nicht als Zufluss behandeln. Verfügbarkeit binnen drei Wochen belegen; Anfechtungsfall, keine Entlastungsregel nach Paragraf 15b InsO.
+
+[BGH, Urteil vom 23.01.2025 – Az. IX ZR 229/22](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2022/IX_ZR_229-22.pdf?__blob=publicationFile&v=1), Rn. 34–45: Vorläufig titulierte Schuld zum Nennwert berücksichtigen, wenn Vollstreckungsvoraussetzungen vorliegen und Vollstreckung eingeleitet ist. Titel und Vollstreckungsbeginn belegen; kein Prozessrisikoabschlag und keine automatische Organhaftung.
 
 ## 1.2. Zahlungsjournal abstimmen
 

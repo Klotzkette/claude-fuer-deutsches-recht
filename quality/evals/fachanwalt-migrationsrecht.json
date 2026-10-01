@@ -50,13 +50,13 @@
     },
     {
       "url": "https://www.bverwg.de/240326U1C6.25.0",
-      "checked_on": "2026-09-30",
-      "supports": "BVerwG, Urteil vom 24.03.2026 – 1 C 6.25, Leitsätze 1–2, Randnummern 12–17. Ausländische Flüchtlingsanerkennung, Reiseausweis und Verantwortungsübergang ergeben für sich keinen Aufenthaltstitel nach § 25 Abs. 2 Satz 1 Alt. 1 AufenthG. Grenze: Andere Titelgrundlagen, Abschiebungsschutz und spätere GEAS-Anwendbarkeit gesondert."
+      "checked_on": "2026-10-01",
+      "supports": "Auslandsanerkennung, Reiseausweis und Verantwortungsübergang allein tragen keinen Titel nach § 25 Abs. 2 Satz 1 Alternative 1 AufenthG. Grenze: Andere Titel, Abschiebungsschutz und spätere GEAS-Anwendung eigenständig prüfen."
     },
     {
       "url": "https://www.bverwg.de/260826U1C27.25.0",
-      "checked_on": "2026-09-30",
-      "supports": "BVerwG, Urteil vom 26.08.2026 – 1 C 27.25, Randnummern 10–13, 19–30, 41–43. Passersatzmitwirkung kann trotz Nationalpass erforderlich sein; Zusatz isoliert anfechtbar und Folgen können nach Duldungsablauf fortwirken. Grenze: Nur konkrete Pass-/Passersatzpflicht bei individueller Zumutbarkeit, Kausalität und Vertretenmüssen; keine allgemeine Pflicht zur Beseitigung jedes Vollzugshindernisses."
+      "checked_on": "2026-10-01",
+      "supports": "Mitwirkung an notwendigem Passersatz kann trotz Nationalpass verlangt werden; Zumutbarkeit und Kausalität konkret. Grenze: § 60b ist keine allgemeine Pflicht zur Beseitigung aller Abschiebungshindernisse."
     }
   ],
   "mini_review": {
@@ -70,7 +70,7 @@
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
       "Die für dieses Gebiet dokumentierten Quellenpassagen vom 30.09.2026 fallbezogen eingearbeitet."
     ],
-    "sha256": "4509eec6aab09af201141fcee94fe2ecb15fe96971fc3ee2e6560f60b6011310",
+    "sha256": "cace19587a9388481f30b77978f87eabdc728af9fcc5a200c3e5fd160d8e2602",
     "reviewed_on": "2026-09-30"
   },
   "workshop_review": {
@@ -83,7 +83,7 @@
       "Terminbitte gegenüber Antrag, Eingang und Titelwirkung, Arbeit und Reise getrennt, titelabhängige Mittelprüfung, privilegierte Leistungen, künftige Einkommenslücken sowie Herkunft und Aussagegrenzen von Attesten und Übersetzungen.",
       "Die für dieses Gebiet dokumentierten Quellenpassagen vom 30.09.2026 fallbezogen eingearbeitet."
     ],
-    "sha256": "47fdce9770761d03cb59f0b05894016cff5fd7f11dcd128d79091537c6c4f5c7",
+    "sha256": "f790edb61bf4d4baf92a7a0ad03ad8d6ba8e733993debcaad2a5b716591aaf11",
     "reviewed_on": "2026-09-30"
   },
   "focus_review": {
@@ -154,15 +154,17 @@
     }
   ],
   "prompt_editorial_review": {
-    "date": "2026-09-30",
+    "date": "2026-10-01",
     "method": "desk_review",
     "files": [
       "fachanwalt-migrationsrecht/README.md",
-      "fachanwalt-migrationsrecht/fachanwalt-migrationsrecht-werkstatt.md",
-      "fachanwalt-migrationsrecht/fachanwalt-migrationsrecht-schnellstart.md",
-      "quality/evals/fachanwalt-migrationsrecht.json",
       "fachanwalt-migrationsrecht/fachanwalt-migrationsrecht-hauptproblem.md",
-      "fachanwalt-migrationsrecht/skills/familiennachzug-haushaltsprognose-belegabgleich/SKILL.md"
+      "fachanwalt-migrationsrecht/fachanwalt-migrationsrecht-schnellstart.md",
+      "fachanwalt-migrationsrecht/fachanwalt-migrationsrecht-werkstatt.md",
+      "fachanwalt-migrationsrecht/skills/familiennachzug-haushaltsprognose-belegabgleich/SKILL.md",
+      "fachanwalt-migrationsrecht/skills/juristischer-argumentationskern/SKILL.md",
+      "fachanwalt-migrationsrecht/skills/reiseausweis-fluechtling/SKILL.md",
+      "quality/evals/fachanwalt-migrationsrecht.json"
     ],
     "opening_change": "Aufenthalts- und Schutzbegehren aus Titeln und Bescheiden prüfen; Hauptproblem auf nachhaltige Haushaltsdeckung und konkrete Behördenabzüge ausgerichtet. Workflow-Ergänzung: Leer: Aufenthaltstitel, Familiennachzug oder Schutzverfahren anbieten. Dateien ohne Aufgabe: Bescheid, Antrag und Haushaltsbelege still lesen; Titel-, Nachweis- oder Rechtsschutzziel klären. Klarer Auftrag: Ergänzung oder Rechtsbehelf direkt ausarbeiten; Frist und Vollzug bei Eile vor Vollständigkeit der Finanzrechnung sichern.",
     "norms": [
@@ -180,18 +182,18 @@
         "checked_on": "2026-09-22"
       },
       {
-        "citation": "BVerwG, Urteil vom 24.03.2026 – 1 C 6.25, Leitsätze 1–2, Randnummern 12–17",
+        "citation": "BVerwG, Urteil vom 24.03.2026 – 1 C 6.25",
         "url": "https://www.bverwg.de/240326U1C6.25.0",
-        "application": "Ausländische Flüchtlingsanerkennung, Reiseausweis und Verantwortungsübergang ergeben für sich keinen Aufenthaltstitel nach § 25 Abs. 2 Satz 1 Alt. 1 AufenthG.",
-        "limit": "Andere Titelgrundlagen, Abschiebungsschutz und spätere GEAS-Anwendbarkeit gesondert.",
-        "checked_on": "2026-09-30"
+        "application": "Auslandsanerkennung, Reiseausweis und Verantwortungsübergang allein tragen keinen Titel nach § 25 Abs. 2 Satz 1 Alternative 1 AufenthG.",
+        "limit": "Andere Titel, Abschiebungsschutz und spätere GEAS-Anwendung eigenständig prüfen.",
+        "checked_on": "2026-10-01"
       },
       {
-        "citation": "BVerwG, Urteil vom 26.08.2026 – 1 C 27.25, Randnummern 10–13, 19–30, 41–43",
+        "citation": "BVerwG, Urteil vom 26.08.2026 – 1 C 27.25",
         "url": "https://www.bverwg.de/260826U1C27.25.0",
-        "application": "Passersatzmitwirkung kann trotz Nationalpass erforderlich sein; Zusatz isoliert anfechtbar und Folgen können nach Duldungsablauf fortwirken.",
-        "limit": "Nur konkrete Pass-/Passersatzpflicht bei individueller Zumutbarkeit, Kausalität und Vertretenmüssen; keine allgemeine Pflicht zur Beseitigung jedes Vollzugshindernisses.",
-        "checked_on": "2026-09-30"
+        "application": "Mitwirkung an notwendigem Passersatz kann trotz Nationalpass verlangt werden; Zumutbarkeit und Kausalität konkret.",
+        "limit": "§ 60b ist keine allgemeine Pflicht zur Beseitigung aller Abschiebungshindernisse.",
+        "checked_on": "2026-10-01"
       }
     ],
     "remaining_limits": [
@@ -226,5 +228,27 @@
     "continuation": "Krankenversicherung weist eine Deckungslücke auf oder Überstunden enden -> Haushaltsprognose, Zeitraum und Behördenantwort konkret ändern.",
     "enrichment": "Terminbitte gegenüber Antrag, Eingang und Titelwirkung, Arbeit und Reise getrennt, titelabhängige Mittelprüfung, privilegierte Leistungen, künftige Einkommenslücken sowie Herkunft und Aussagegrenzen von Attesten und Übersetzungen.",
     "limits": "desk review; no live client execution"
+  },
+  "fachanwaltschaft_source_review_2026_10_01": {
+    "method": "targeted_official_source_and_prompt_review",
+    "report": "quality/source-audits/fachanwaltschaft-2026-10-01/fachanwalt-migrationsrecht.json",
+    "decisions": [
+      {
+        "citation": "BVerwG, Urteil vom 24.03.2026 – 1 C 6.25",
+        "url": "https://www.bverwg.de/240326U1C6.25.0",
+        "passages": "Leitsätze 1–2; Rn. 12–17",
+        "retrieval": "amtlicher Volltext, ausgewählte Gründe frisch gelesen",
+        "checked_on": "2026-10-01"
+      },
+      {
+        "citation": "BVerwG, Urteil vom 26.08.2026 – 1 C 27.25",
+        "url": "https://www.bverwg.de/260826U1C27.25.0",
+        "passages": "Rn. 19–30 frisch; Rn. 10–13 und 41–43 aus Vorprüfung übernommen",
+        "retrieval": "amtlicher Volltext, ausgewählte Gründe frisch gelesen",
+        "checked_on": "2026-10-01"
+      }
+    ],
+    "focus_scope": "Hauptproblem Familiennachzugs-Haushaltsprognose bleibt bei 1 C 20.09. Anerkennungsautomatismus und Passersatz-Mitwirkung werden nicht als Rechenregeln für Lebensunterhalt angeführt.",
+    "new_model_tests": false
   }
 }

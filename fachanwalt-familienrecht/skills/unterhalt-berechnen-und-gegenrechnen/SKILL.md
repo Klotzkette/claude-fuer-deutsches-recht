@@ -35,6 +35,10 @@ Erfasse jede Zahl mit Betrag, Zeitraum, Beleg, rechtlicher Behandlung und Streit
 
 Eine fremde Rechnung wird mit unveränderten Eingaben reproduziert und anschließend je streitiger Zeile korrigiert. Bilde keinen fiktiven Verdienst allein deshalb, weil Auskunft fehlt. Die behauptete Entlastung durch Umgang ist konkret zu belegen; eine reine Zeitquote ersetzt keine Haftungsprüfung. [BGH, Beschluss vom 15.04.2026, XII ZB 415/25, Rn. 62–70 und 73](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2025/XII_ZB_415-25.pdf?__blob=publicationFile&v=1) erlaubt bei hinreichenden tatsächlichen Grundlagen eine pauschalierende Schätzung der Teilerfüllung: regelmäßig zehn, ausnahmsweise höchstens fünfzehn Prozent des nach einer etwaigen Herabstufung ermittelten Tabellenbedarfs. Nicht vom Zahlbetrag abziehen; nicht bedarfsdeckende Mehrkosten und tatsächliche Entlastung trennen. Die [Betreuungsreferenz](references/kindesunterhalt-und-betreuung.md) enthält Mindestunterhalts- und Vertretungsgrenzen.
 
+### 3.4. Elternunterhalt und Regressgrenze
+
+Beim Elternunterhalt [BGH, Beschluss vom 22.01.2025, XII ZB 148/24](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2024/XII_ZB_148-24.pdf?__blob=publicationFile&v=1), Rn. 10–14, anwenden: Die 100.000-Euro-Grenze für Sozialhilferegress begründet keinen zivilrechtlichen Selbstbehalt von 5.500 Euro. Bedarf, Leistungsfähigkeit und Geschwisteranteile gesondert rechnen; keinen aktuellen Pauschalselbstbehalt aus dem Urteil ableiten.
+
 ## 4. Quellenpflicht
 
 Für jeden Zeitraum Originaltabelle und zuständige OLG-Leitlinien verwenden. [Geprüfte Rechtsanker](../../references/rechtsanker-2026-09-05.md) trennen verifizierte Normtexte von noch zu öffnenden Entscheidungsankern. Zitierweise nach [references/zitierweise.md](../../../references/zitierweise.md). Keine pauschale Fünf-Prozent-Kürzung, feste Vorsorgequote oder starre Abänderungsschwelle ohne passende Grundlage.

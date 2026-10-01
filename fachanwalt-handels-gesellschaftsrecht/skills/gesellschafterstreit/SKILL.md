@@ -56,6 +56,10 @@ description: "Für Gesellschafterstreit: ordnet Norm, Beweislast und Gegenargume
 | Paragraf 134 HGB | Gerichtliche Ausschließung eines Gesellschafters aus wichtigem Grund, soweit der Gesellschaftsvertrag nichts anderes bestimmt; über Paragraf 161 Absatz 2 HGB grundsätzlich auch für die KG maßgeblich |
 | § 138 BGB | Sittenwidrigkeit: freie Hinauskündigungsklausel unwirksam |
 
+[BGH, Urteil vom 21.04.2026 – Az. II ZR 50/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2025/II_ZR__50-25.pdf?__blob=publicationFile&v=1), Rn. 18–25: Bestreitet die GmbH die materielle Gesellschafterstellung ernstlich, kann trotz richtigem Listeneintrag ein Feststellungsinteresse bestehen. Liste, Erwerb und Bestreiten getrennt belegen. Formelle Legitimation nach Paragraf 16 GmbHG ersetzt weder materielle Berechtigung noch die Prüfung der Einziehungs- und Abfindungsvoraussetzungen.
+
+[BGH, Urteil vom 10.02.2026 – Az. II ZR 71/24](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2024/II_ZR__71-24.pdf?__blob=publicationFile&v=1), Rn. 21, 55–58, 66–67: Bei einer Managerbeteiligung die sachliche Rechtfertigung der Hinauskündigungsklausel anhand des gesamten Beteiligungsmodells prüfen. Erwerb zum Verkehrswert und Verlustrisiko schließen die Ausnahme nicht allein aus. Beteiligungsrechte, Leitungsfunktion und Rückerwerbsbedingungen belegen; die Ausübungskontrolle nach Paragraf 242 BGB blieb nach Zurückverweisung offen. Keine pauschale Freigabe von Gründer-Leaver-Klauseln.
+
 ## Leitentscheidungen
 
 | Gericht | Aktenzeichen | Datum | Kernaussage |

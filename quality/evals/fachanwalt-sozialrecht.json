@@ -61,12 +61,12 @@
     {
       "url": "https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2025/2025_05_14_B_04_KG_01_24_R.html",
       "checked_on": "2026-10-01",
-      "supports": "Amtlicher HTML-Volltext vollständig, Randnummern am amtlichen PDF abgeglichen; tragend Rn. 9–18. Sachentscheidung heilt keinen einfachen E-Mail-Formmangel; Form und Verspätung sowie Einbeziehung späterer Änderungsbescheide getrennt prüfen. Grenze: Keine allgemeine E-Mail-Sperre und kein Verlust aller Ansprüche; Bestandskraft, Nachholung und Wiedereinsetzung fallbezogen."
+      "supports": "Sachbescheidung heilt einfachen E-Mail-Widerspruch nicht; Änderungsbescheide und Überprüfungsantrag gesondert beurteilen. Grenze: Vorverfahren SGG; keine pauschale Übertragung auf AO oder sämtliche Rechte als verloren behandeln."
     },
     {
       "url": "https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2026/2026_06_18_B_03_KR_02_25_R.html",
       "checked_on": "2026-10-01",
-      "supports": "Amtlicher HTML-Volltext vollständig, amtliches PDF für Rn. 1–19 abgeglichen; tragend Rn. 13–18. Mobilitätsversorgung anhand konkreter örtlicher Alltagswege, eigener Restkräfte, Sicherheit und geeigneter Alternativen. Grenze: Zurückverweisung, keine Wunschmodellgarantie; weitergehende Sport-/Freizeitziele und anderer Rehabilitationsträger gesondert."
+      "supports": "Konkrete Alltagswege, Restkräfte, sichere Nutzbarkeit und Alternativen für motorunterstütztes Hilfsmittel prüfen. Grenze: Zurückverweisung, kein Anspruch auf Wunschmodell; Sport-/Freizeitinteressen außerhalb der alltäglichen Wege gesondert."
     },
     {
       "url": "https://www.gesetze-im-internet.de/sgb_5/__33.html",
@@ -113,7 +113,7 @@
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
       "30.09.2026: Gesetzlich bestimmte Monatsfristen für Wiedereinsetzung und statthafte PKH-Beschwerde präzisiert; PKH-Kostendeckung und Vertretungswege fachlich korrigiert."
     ],
-    "sha256": "7444bd184c31652218543bd910cca84bf0bc0685ce159adc880294fe7f92c720",
+    "sha256": "df7acfd25ba3e8ad60f391f8e48b57257676f0b67349050f17cf0571e5c91f8a",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -194,17 +194,19 @@
       "Bescheidketten und Leistungsperioden, Aufhebung gegenüber Erstattung, medizinische Leistungszeit und Beitragsfenster, konkrete Tätigkeitsanforderung, aktuelle Notlage und getrennte Auslands-Widerspruchsfrist.",
       "30.09.2026: Gesetzlich bestimmte Monatsfristen für Wiedereinsetzung und statthafte PKH-Beschwerde präzisiert; PKH-Kostendeckung und Vertretungswege fachlich korrigiert."
     ],
-    "sha256": "772d34dcb7352c03021f16cc17954e2d635d3af712c2fb9e58a8615bf01aca2c",
+    "sha256": "b7937946ce9d30c0c2f3d1f5e6dddbdb3b7764d93833b10ced0c756acee64ce3",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
   "prompt_editorial_review": {
-    "date": "2026-09-23",
+    "date": "2026-10-01",
     "files": [
+      "fachanwalt-sozialrecht/fachanwalt-sozialrecht-hauptproblem.md",
       "fachanwalt-sozialrecht/fachanwalt-sozialrecht-schnellstart.md",
       "fachanwalt-sozialrecht/fachanwalt-sozialrecht-werkstatt.md",
-      "fachanwalt-sozialrecht/fachanwalt-sozialrecht-hauptproblem.md",
-      "fachanwalt-sozialrecht/skills/em-rente-befundwiderspruch-und-leistungsfall/SKILL.md"
+      "fachanwalt-sozialrecht/skills/em-rente-befundwiderspruch-und-leistungsfall/SKILL.md",
+      "fachanwalt-sozialrecht/skills/juristischer-argumentationskern/SKILL.md",
+      "fachanwalt-sozialrecht/skills/laienhilfe-widerspruch-einfach/SKILL.md"
     ],
     "opening_change": "Angegriffene Bewilligung, Ablehnung, Aufhebung oder Beitragsfestsetzung mit Antrag und zeitbezogenen Nachweisen abgleichen; im Hauptproblem konkrete Befundwidersprüche klären. Workflow-Ergänzung: Leer: Bescheidkorrektur, Erwerbsminderungsbeweis oder akuten Leistungsbedarf anbieten. Dateien ohne Aufgabe: Bescheide, Befunde und Kontoauszüge still lesen; gewünschtes Korrektur- oder Rechtsschutzziel klären, keinen automatischen Bescheidvermerk. Klarer Auftrag: Widerspruch, Eilantrag oder Berechnung unmittelbar erstellen, ohne vollständige Aufnahme zu wiederholen.",
     "norms": [
@@ -231,18 +233,18 @@
         "verification_status": "wiederverwendeter_auditnachweis"
       },
       {
-        "citation": "BSG, Urteil vom 14.05.2025, B 4 KG 1/24 R, Randnummern 9 bis 18",
+        "citation": "BSG, Urteil vom 14.05.2025 – B 4 KG 1/24 R",
         "url": "https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2025/2025_05_14_B_04_KG_01_24_R.html",
-        "application": "Sachentscheidung heilt keinen einfachen E-Mail-Formmangel; Form und Verspätung sowie Einbeziehung späterer Änderungsbescheide getrennt prüfen.",
-        "limit": "Keine allgemeine E-Mail-Sperre und kein Verlust aller Ansprüche; Bestandskraft, Nachholung und Wiedereinsetzung fallbezogen.",
+        "application": "Sachbescheidung heilt einfachen E-Mail-Widerspruch nicht; Änderungsbescheide und Überprüfungsantrag gesondert beurteilen.",
+        "limit": "Vorverfahren SGG; keine pauschale Übertragung auf AO oder sämtliche Rechte als verloren behandeln.",
         "checked_on": "2026-10-01",
         "read_scope": "Amtlicher HTML-Volltext vollständig, Randnummern am amtlichen PDF abgeglichen; tragend Rn. 9–18."
       },
       {
-        "citation": "BSG, Urteil vom 18.06.2026, B 3 KR 2/25 R, Randnummern 13 bis 18",
+        "citation": "BSG, Urteil vom 18.06.2026 – B 3 KR 2/25 R",
         "url": "https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2026/2026_06_18_B_03_KR_02_25_R.html",
-        "application": "Mobilitätsversorgung anhand konkreter örtlicher Alltagswege, eigener Restkräfte, Sicherheit und geeigneter Alternativen.",
-        "limit": "Zurückverweisung, keine Wunschmodellgarantie; weitergehende Sport-/Freizeitziele und anderer Rehabilitationsträger gesondert.",
+        "application": "Konkrete Alltagswege, Restkräfte, sichere Nutzbarkeit und Alternativen für motorunterstütztes Hilfsmittel prüfen.",
+        "limit": "Zurückverweisung, kein Anspruch auf Wunschmodell; Sport-/Freizeitinteressen außerhalb der alltäglichen Wege gesondert.",
         "checked_on": "2026-10-01",
         "read_scope": "Amtlicher HTML-Volltext vollständig, amtliches PDF für Rn. 1–19 abgeglichen; tragend Rn. 13–18."
       }
@@ -292,5 +294,27 @@
     "status": "Ankerkontext gelesen; Quellenstatus je Entscheidung im Bericht differenziert.",
     "registry_changes": [],
     "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
+  },
+  "fachanwaltschaft_source_review_2026_10_01": {
+    "method": "targeted_official_source_and_prompt_review",
+    "report": "quality/source-audits/fachanwaltschaft-2026-10-01/fachanwalt-sozialrecht.json",
+    "decisions": [
+      {
+        "citation": "BSG, Urteil vom 14.05.2025 – B 4 KG 1/24 R",
+        "url": "https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2025/2025_05_14_B_04_KG_01_24_R.html",
+        "passages": "Rn. 9–18, amtliches HTML und PDF",
+        "retrieval": "amtlicher Volltext, ausgewählte Gründe frisch gelesen",
+        "checked_on": "2026-10-01"
+      },
+      {
+        "citation": "BSG, Urteil vom 18.06.2026 – B 3 KR 2/25 R",
+        "url": "https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2026/2026_06_18_B_03_KR_02_25_R.html",
+        "passages": "Rn. 13–18, amtliches HTML und PDF",
+        "retrieval": "amtlicher Volltext, ausgewählte Gründe frisch gelesen",
+        "checked_on": "2026-10-01"
+      }
+    ],
+    "focus_scope": "Hauptproblem Erwerbsminderungsrente bleibt bei B 13 R 7/18 R. E-Mail-Form und Hilfsmittelbedarf liefern keinen materiellen Rentenmaßstab; neue Entscheidungen in breiten Prompts und passenden Skills.",
+    "new_model_tests": false
   }
 }

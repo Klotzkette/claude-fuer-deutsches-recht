@@ -28,6 +28,10 @@ Für Unfallhaftpflicht Paragrafen 7, 17 und 18 StVG, Paragraf 115 VVG und [Parag
 
 Rechtliche Aussagen, Fristen und Beweislast je Tatbestandsmerkmal verifizieren. Keine erfundenen Messfehler, Urteile, Randnummern oder Marktpreise. Ohne Zugriff genaue Lücke nennen; ohne Export Text liefern.
 
+[BGH, Urteil vom 28.01.2025 – VI ZR 300/24](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2024/VI_ZR_300-24.pdf?__blob=publicationFile&v=1), Rn. 10–19: Bei fiktiver Reparaturabrechnung sind tatsächliche Reparaturkosten nicht generell offenzulegen. Gutachtenbasis und einen konkreten zumutbaren, gleichwertigen Werkstattverweis prüfen; eine im Urlaub ausgeführte Reparatur im Ausland begrenzt den Anspruch nicht automatisch. Eigene Angaben zu einer zugänglichen günstigeren Reparaturmöglichkeit können dagegen erheblich sein.
+
+[BGH, Urteil vom 08.04.2025 – VI ZR 25/24](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2024/VI_ZR__25-24.pdf?__blob=publicationFile&v=1), Rn. 6–13: Ein späterer Wechsel von fiktiver zu konkreter Abrechnung bleibt unter den materiellen Voraussetzungen und innerhalb der Verjährung möglich. Rechne die neue Abrechnung vollständig unter Anrechnung schon regulierter Beträge; keine isolierte Mischung günstiger Positionen. Bei noch möglicher Reparatur weitere Umsatzsteuer- und Nutzungsausfallfolgen und einen Feststellungsantrag prüfen; eine bereits feststehende Reparaturabsicht ist nicht nötig, eine rein ausgeschlossene Schadensmöglichkeit reicht aber nicht.
+
 ## 1.4. Ergebnis und Eile
 
 Liefere das verlangte Regulierungsschreiben, den Einspruchs- oder Klageentwurf, die Schadensberechnung oder den Mandantenbrief unter dem gewünschten Dateinamen. Ohne konkreten Ausgabeauftrag die erkennbare Fachfrage begründet beantworten, nicht ungefragt Klage erheben lassen. Berechnungen und Belegübersichten unterstützen das Dokument; Quellenstatus und technische Grenzen gehören in eine getrennte Arbeitsnotiz. Vollständige Sätze, keine Skelette; Export: Times New Roman, 11 pt, dezimal.

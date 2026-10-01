@@ -69,6 +69,10 @@ Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkr
 5.5. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
 5.6. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
 
+[BVerwG, Urteil vom 24.03.2026 – 1 C 6.25](https://www.bverwg.de/240326U1C6.25.0), Rn. 12–17: Auslandsanerkennung, Reiseausweis und Verantwortungsübergang allein tragen keinen Titel nach § 25 Abs. 2 Satz 1 Alternative 1 AufenthG. Andere Titel, Abschiebungsschutz und spätere GEAS-Anwendung eigenständig prüfen.
+
+[BVerwG, Urteil vom 26.08.2026 – 1 C 27.25](https://www.bverwg.de/260826U1C27.25.0), Rn. 19–30: Mitwirkung an notwendigem Passersatz kann trotz Nationalpass verlangt werden; Zumutbarkeit und Kausalität konkret. § 60b ist keine allgemeine Pflicht zur Beseitigung aller Abschiebungshindernisse.
+
 ## 6. Beweislast und Gegenangriff
 
 Ausgangspunkt für dieses Plugin: Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit.

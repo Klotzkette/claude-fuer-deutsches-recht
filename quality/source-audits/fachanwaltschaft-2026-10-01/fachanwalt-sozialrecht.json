@@ -1,0 +1,83 @@
+{
+  "plugin": "fachanwalt-sozialrecht",
+  "checked_on": "2026-10-01",
+  "status": "two_current_relevant_highest_court_anchors_verified_and_covered",
+  "scope": "Gezielte amtliche Quellenprüfung der unten genannten Passagen; lokaler Kontext und Arbeitsablauf der drei Prompts sowie betroffene Skillpassagen. Keine erneute Vollprüfung sämtlicher Fachskills oder Normen.",
+  "sources": [
+    {
+      "citation": "BSG, Urteil vom 14.05.2025 – B 4 KG 1/24 R",
+      "url": "https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2025/2025_05_14_B_04_KG_01_24_R.html",
+      "passages": "Rn. 9–18, amtliches HTML und PDF",
+      "application": "Sachbescheidung heilt einfachen E-Mail-Widerspruch nicht; Änderungsbescheide und Überprüfungsantrag gesondert beurteilen.",
+      "limit": "Vorverfahren SGG; keine pauschale Übertragung auf AO oder sämtliche Rechte als verloren behandeln.",
+      "retrieval": "amtlicher Volltext, ausgewählte Gründe frisch gelesen",
+      "checked_on": "2026-10-01",
+      "previously_present": true
+    },
+    {
+      "citation": "BSG, Urteil vom 18.06.2026 – B 3 KR 2/25 R",
+      "url": "https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2026/2026_06_18_B_03_KR_02_25_R.html",
+      "passages": "Rn. 13–18, amtliches HTML und PDF",
+      "application": "Konkrete Alltagswege, Restkräfte, sichere Nutzbarkeit und Alternativen für motorunterstütztes Hilfsmittel prüfen.",
+      "limit": "Zurückverweisung, kein Anspruch auf Wunschmodell; Sport-/Freizeitinteressen außerhalb der alltäglichen Wege gesondert.",
+      "retrieval": "amtlicher Volltext, ausgewählte Gründe frisch gelesen",
+      "checked_on": "2026-10-01",
+      "previously_present": true
+    }
+  ],
+  "fresh_or_reused": "Alle 16 ausgewählten Dokumente dieser acht Plugins in diesem Lauf amtlich neu abgerufen. Frisch gelesene Passagen und nur aus Vorprüfung übernommene Teilpassagen stehen je Quelle ausdrücklich im Feld passages; ältere sonstige Quellen wurden nicht neu als verifiziert etikettiert.",
+  "local_files_reviewed": [
+    "fachanwalt-sozialrecht/fachanwalt-sozialrecht-hauptproblem.md",
+    "fachanwalt-sozialrecht/fachanwalt-sozialrecht-schnellstart.md",
+    "fachanwalt-sozialrecht/fachanwalt-sozialrecht-werkstatt.md",
+    "fachanwalt-sozialrecht/skills/em-rente-befundwiderspruch-und-leistungsfall/SKILL.md",
+    "fachanwalt-sozialrecht/skills/juristischer-argumentationskern/SKILL.md",
+    "fachanwalt-sozialrecht/skills/laienhilfe-widerspruch-einfach/SKILL.md"
+  ],
+  "changed_files": [
+    "fachanwalt-sozialrecht/fachanwalt-sozialrecht-schnellstart.md",
+    "fachanwalt-sozialrecht/fachanwalt-sozialrecht-werkstatt.md",
+    "fachanwalt-sozialrecht/skills/juristischer-argumentationskern/SKILL.md",
+    "fachanwalt-sozialrecht/skills/laienhilfe-widerspruch-einfach/SKILL.md",
+    "quality/evals/fachanwalt-sozialrecht.json"
+  ],
+  "prompt_coverage": {
+    "werkstatt": {
+      "path": "fachanwalt-sozialrecht/fachanwalt-sozialrecht-werkstatt.md",
+      "characters": 23290,
+      "utf8_bytes": 23633,
+      "sha256": "b7937946ce9d30c0c2f3d1f5e6dddbdb3b7764d93833b10ced0c756acee64ce3",
+      "selected_source_urls_present": [
+        true,
+        true
+      ]
+    },
+    "schnellstart": {
+      "path": "fachanwalt-sozialrecht/fachanwalt-sozialrecht-schnellstart.md",
+      "characters": 6677,
+      "utf8_bytes": 6767,
+      "sha256": "df7acfd25ba3e8ad60f391f8e48b57257676f0b67349050f17cf0571e5c91f8a",
+      "selected_source_urls_present": [
+        true,
+        true
+      ]
+    },
+    "hauptproblem": {
+      "path": "fachanwalt-sozialrecht/fachanwalt-sozialrecht-hauptproblem.md",
+      "characters": 6188,
+      "utf8_bytes": 6291,
+      "sha256": "a0073428150ef2185eed14c4218bb1c2e0b66036a3a1aafadf8c4be9d38cc3f2",
+      "selected_source_urls_present": [
+        false,
+        false
+      ]
+    }
+  },
+  "focus_scope": "Hauptproblem Erwerbsminderungsrente bleibt bei B 13 R 7/18 R. E-Mail-Form und Hilfsmittelbedarf liefern keinen materiellen Rentenmaßstab; neue Entscheidungen in breiten Prompts und passenden Skills.",
+  "search_2026": "Vorhandene 2025-Form- und 2026-Hilfsmittelentscheidungen frisch amtlich als HTML und PDF abgerufen; Randnummern im PDF nachgelesen.",
+  "validation": "UTF-8-Byte- und Zeichengrenzen; beide Direktlinks in Werkstatt und Mini sowie vorhandenen Skills; Profilhashes nachgeführt. Keine neuen Modelltests oder globalen Generatoren.",
+  "limits": [
+    "Nur bezeichnete Entscheidungs- und angrenzende Workflowpassagen überprüft; kein Versprechen vollständiger Rechtssicherheit.",
+    "Vorhandene Normfassungen, Altfundstellen und Testakten außerhalb des beschriebenen Eingriffs nicht umfassend neu geprüft."
+  ]
+}

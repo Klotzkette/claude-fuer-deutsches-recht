@@ -107,6 +107,16 @@
       "url": "https://www.gesetze-im-internet.de/gwb/__108.html",
       "checked_on": "2026-09-30",
       "supports": "Aktuelle Absätze 1–9 gelesen: mehr als 80 Prozent, weniger als 20 Prozent, Kooperation/Privatbegünstigung, Betrauung jetzt Absatz 7 und Berechnung Absatz 8. Keine Datierung des historischen Inkrafttretens behauptet."
+    },
+    {
+      "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=310678&doclang=EN",
+      "checked_on": "2026-10-01",
+      "supports": "Technische Anforderungen müssen sachlich verhältnismäßig sein; objektive Rechtfertigung nicht zwingend schon bei Bekanntmachung veröffentlichen. Produkttypbindung ohne Gleichwertigkeitszusatz nur eng bei zwangsläufigem Sachbezug. Grenze: Fehlende Veröffentlichung ist keine materielle Rechtfertigung; keine Befreiung von nationalen Dokumentationspflichten. Nationales Gericht prüft konkrete OP-Räume."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX%3A62025CO0316",
+      "checked_on": "2026-10-01",
+      "supports": "Bloßer entgeltlicher Leistungseinkauf keine öffentliche Zusammenarbeit; tatsächliche gemeinsame Beiträge und Ziele verlangen. Grenze: Italienisches Kraftfahrzeugsteuerregister; horizontale Kooperation von vertikaler Inhouse-Vergabe trennen."
     }
   ],
   "mini_review": {
@@ -120,7 +130,7 @@
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
       "Die für dieses Gebiet dokumentierten Quellenpassagen vom 30.09.2026 fallbezogen eingearbeitet."
     ],
-    "sha256": "8580e8b2af0123cba656bbc6847138aab6ad8ecba450a5fe3fcda19af81077dd",
+    "sha256": "c0816255edd1c55f5b20d6427be7eef87ccc72046a60fbded578b2ba97c95ec4",
     "reviewed_on": "2026-09-30"
   },
   "focus_review": {
@@ -203,17 +213,21 @@
       "Abgabenachweis gegenüber Arbeitskopie, Eignungsnachweis gegenüber wertungsrelevantem Konzept, Originalrechnung und bedingte Neubewertung, konkrete Abhilfe, Geheimschutz und Ausgangsoption bei Vertragsänderung.",
       "Die für dieses Gebiet dokumentierten Quellenpassagen vom 30.09.2026 fallbezogen eingearbeitet."
     ],
-    "sha256": "9808f55c57c08c85106539a5b592fdb138e2203cac3d2873b2fe4e308001a2db",
+    "sha256": "631993878e0854692d99c8c8f28aa0bcf2ef8d86fd5f572f7fc9adb8a1909091",
     "reviewed_on": "2026-09-30"
   },
   "prompt_editorial_review": {
-    "date": "2026-09-30",
+    "date": "2026-10-01",
     "files": [
       "fachanwalt-vergaberecht/README.md",
+      "fachanwalt-vergaberecht/fachanwalt-vergaberecht-hauptproblem.md",
       "fachanwalt-vergaberecht/fachanwalt-vergaberecht-schnellstart.md",
       "fachanwalt-vergaberecht/fachanwalt-vergaberecht-werkstatt.md",
-      "fachanwalt-vergaberecht/fachanwalt-vergaberecht-hauptproblem.md",
       "fachanwalt-vergaberecht/skills/angebotswertung-punktespiegel-rangfolgenkontrolle/SKILL.md",
+      "fachanwalt-vergaberecht/skills/fachanwalt-vergaberecht-inhouse-interkommunal/SKILL.md",
+      "fachanwalt-vergaberecht/skills/inhouse-interkommunal/SKILL.md",
+      "fachanwalt-vergaberecht/skills/juristischer-argumentationskern/SKILL.md",
+      "fachanwalt-vergaberecht/skills/leistungsbeschreibung-neutralitaet-funktional/SKILL.md",
       "quality/evals/fachanwalt-vergaberecht.json"
     ],
     "opening_change": "Beanstandete Ausschreibungsanforderung und dokumentierte Zuschlagswertung konkret benannt; Hauptproblem auf Rechen-/Tatsachenfehler gegenüber vertretbarer Bewertung ausgerichtet. Workflow-Ergänzung: Leer: Unterlagenrüge, Wertungsprüfung oder Auftraggeberkorrektur anbieten. Dateien ohne Aufgabe: Kriterienfassungen, Angebot und Wertung still lesen; Rüge-, Nachrechnungs- oder Korrekturziel klären. Klarer Auftrag: bestelltes Dokument unmittelbar bearbeiten; kein automatisches Nachprüfungsverfahren und keine erfundenen Konkurrenzdaten.",
@@ -230,11 +244,18 @@
         "checked_on": "2026-09-23"
       },
       {
-        "citation": "EuGH, Beschluss vom 03.02.2026 – C-316/25, Regione Umbria, Tenor",
-        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A62025CO0316_INF",
-        "application": "Leistungseinkauf gegen Entgelt ist nicht allein wegen öffentlicher Rechtsform vergabefreie Kooperation. Amtliche Entscheidungsinformation mit Tenor gelesen.",
-        "limit": "Italienischer Registervertrag; kein behaupteter Volltextabruf. Inhouse-Kontrolle und heutiger § 108 GWB getrennt prüfen.",
-        "checked_on": "2026-09-30"
+        "citation": "EuGH, Beschluss vom 03.02.2026 – C-316/25, Regione Umbria, ECLI:EU:C:2026:135",
+        "url": "https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX%3A62025CO0316",
+        "application": "Bloßer entgeltlicher Leistungseinkauf keine öffentliche Zusammenarbeit; tatsächliche gemeinsame Beiträge und Ziele verlangen.",
+        "limit": "Italienisches Kraftfahrzeugsteuerregister; horizontale Kooperation von vertikaler Inhouse-Vergabe trennen.",
+        "checked_on": "2026-10-01"
+      },
+      {
+        "citation": "EuGH, Urteil vom 16.04.2026 – C-568/24, Sof Medica, ECLI:EU:C:2026:305",
+        "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=310678&doclang=EN",
+        "application": "Technische Anforderungen müssen sachlich verhältnismäßig sein; objektive Rechtfertigung nicht zwingend schon bei Bekanntmachung veröffentlichen. Produkttypbindung ohne Gleichwertigkeitszusatz nur eng bei zwangsläufigem Sachbezug.",
+        "limit": "Fehlende Veröffentlichung ist keine materielle Rechtfertigung; keine Befreiung von nationalen Dokumentationspflichten. Nationales Gericht prüft konkrete OP-Räume.",
+        "checked_on": "2026-10-01"
       }
     ],
     "remaining_limits": [
@@ -272,5 +293,27 @@
     "continuation": "Seite mit Zusage war nicht Bestandteil des fristgerechten Angebots -> Tatsachengrundlage, Nachforderungsprüfung und Rüge ändern, nicht einfach höhere Note beanspruchen.",
     "enrichment": "Abgabenachweis gegenüber Arbeitskopie, Eignungsnachweis gegenüber wertungsrelevantem Konzept, Originalrechnung und bedingte Neubewertung, konkrete Abhilfe, Geheimschutz und Ausgangsoption bei Vertragsänderung.",
     "limits": "desk review; no live client execution"
+  },
+  "fachanwaltschaft_source_review_2026_10_01": {
+    "method": "targeted_official_source_and_prompt_review",
+    "report": "quality/source-audits/fachanwaltschaft-2026-10-01/fachanwalt-vergaberecht.json",
+    "decisions": [
+      {
+        "citation": "EuGH, Urteil vom 16.04.2026 – C-568/24, Sof Medica, ECLI:EU:C:2026:305",
+        "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=310678&doclang=EN",
+        "passages": "Rn. 33–64",
+        "retrieval": "Amtlicher englischer CURIA-Volltext, ausgewählte Gründe frisch gelesen",
+        "checked_on": "2026-10-01"
+      },
+      {
+        "citation": "EuGH, Beschluss vom 03.02.2026 – C-316/25, Regione Umbria, ECLI:EU:C:2026:135",
+        "url": "https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX%3A62025CO0316",
+        "passages": "Rn. 16–24 und Tenor",
+        "retrieval": "Amtlicher italienischer EUR-Lex-Volltext, Gründe und Tenor frisch gelesen; zuvor nur amtlicher Tenor geprüft",
+        "checked_on": "2026-10-01"
+      }
+    ],
+    "focus_scope": "Hauptproblem Punktespiegel/Notenvergleich bleibt bei X ZB 3/17. Technische Mindestanforderungen und Direktvergabe tragen keine Benotungskorrektur; neue Anker deshalb in Werkstatt/Mini und Fachskills.",
+    "new_model_tests": false
   }
 }

@@ -70,6 +70,10 @@ Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkr
 5.5. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
 5.6. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
 
+[BSG, Urteil vom 14.05.2025 – B 4 KG 1/24 R](https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2025/2025_05_14_B_04_KG_01_24_R.html), Rn. 9–18: Sachbescheidung heilt einfachen E-Mail-Widerspruch nicht; Änderungsbescheide und Überprüfungsantrag gesondert beurteilen. Vorverfahren SGG; keine pauschale Übertragung auf AO oder sämtliche Rechte als verloren behandeln.
+
+[BSG, Urteil vom 18.06.2026 – B 3 KR 2/25 R](https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2026/2026_06_18_B_03_KR_02_25_R.html), Rn. 13–18: Konkrete Alltagswege, Restkräfte, sichere Nutzbarkeit und Alternativen für motorunterstütztes Hilfsmittel prüfen. Zurückverweisung, kein Anspruch auf Wunschmodell; Sport-/Freizeitinteressen außerhalb der alltäglichen Wege gesondert.
+
 ## 6. Beweislast und Gegenangriff
 
 Ausgangspunkt für dieses Plugin: Leistungsträger ermittelt von Amts wegen; Versicherter liefert Befund, Bedarf, Teilhabe- und Eilbelege.

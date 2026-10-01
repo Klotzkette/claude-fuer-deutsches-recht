@@ -56,6 +56,10 @@ description: "Für Verbandsstrafe Anfechten: ordnet Norm, Beweislast und Gegenar
 
 ---
 
+### Berufssperre und gerichtlicher Rechtsschutz
+
+Bei Berufssperren [EuGH, Urteil vom 16.07.2026, C-424/24 und C-425/24 – FIGC/CONI](https://juris.curia.europa.eu/juris/document/document.jsf?docid=313633&doclang=DE), Rn. 78–80, 87–92 und 111–117, anwenden: Sanktion an transparenten, objektiven, verhältnismäßigen Kriterien messen; wirksame Kontrolle samt Aufhebung und Eilschutz sicherstellen. Eine spätere reine Entschädigungskontrolle kann genügen, wenn bereits das letztinstanzliche Sportorgan alle EU-Gerichtsanforderungen erfüllt. Unabhängigkeit, gesetzliche Errichtung, Verfahren und Kontrollbefugnisse konkret prüfen; keine Pflicht zu zwei Gerichtsinstanzen.
+
 ## Prüfschema (14 Schritte)
 
 | Schritt | Inhalt | Grundlage |

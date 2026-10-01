@@ -1,0 +1,110 @@
+{
+  "date": "2026-10-01",
+  "method": "independent_source_passage_review_not_model_test",
+  "phase": "source_and_changed_prompt_passage_comparison_completed",
+  "sources": [
+    {
+      "citation": "BVerwG, Urteil vom 24.06.2026 – 4 C 2.25",
+      "url": "https://www.bverwg.de/de/240626U4C2.25.0",
+      "scope": "Amtliche HTML-Entscheidung frisch geöffnet; Rn. 7–19 gelesen.",
+      "transfer_check": "Tatsächliche Organisation und Futtergrundlage des Gesamtbetriebs; ursprüngliche Genehmigungen nicht entscheidend. Keine automatische Genehmigung; Zurückverweisung. Keine Vorwirkung eines Gesetzentwurfs."
+    },
+    {
+      "citation": "BVerwG, Urteil vom 26.06.2025 – 3 C 14.23",
+      "url": "https://www.bverwg.de/260625U3C14.23.0",
+      "scope": "Amtliche HTML-Entscheidung frisch geöffnet; Rn. 9–24 gelesen.",
+      "transfer_check": "Fördergebietsabgrenzung anhand objektiver Kriterien; kein Übertragen der Förderperiode 2014–2020/Antrag 2017 auf aktuelle Programme ohne Prüfung."
+    },
+    {
+      "citation": "BVerwG, Beschluss vom 23.02.2026 – 8 B 27.25",
+      "url": "https://www.bverwg.de/230226B8B27.25.0",
+      "scope": "Amtliche HTML-Entscheidung frisch geöffnet; Rn. 1–9 gelesen.",
+      "transfer_check": "Nichtzulassungsbeschwerde, keine pauschale materielle Subventionsfreigabe. Spezielle gesetzliche Grundlage bei gezielten Eingriffen in Drittgrundrechte."
+    },
+    {
+      "citation": "BGH, Urteil vom 26.03.2026 – VII ZR 68/24",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2024/VII_ZR__68-24.pdf?__blob=publicationFile&v=1",
+      "scope": "Amtliches PDF frisch geladen; Kopf, Leitsätze und Rn. 51–70 gelesen.",
+      "transfer_check": "Altrechtlicher Kostenvorschuss/Gemeinschaftseigentum; 30 Jahre ab fehlgeschlagener Abnahme als Obergrenze, nicht allgemeine Gewährleistungsfrist; frühere Verjährung/Verwirkung beachten."
+    },
+    {
+      "citation": "BGH, Beschluss vom 15.04.2026 – XII ZB 415/25",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2025/XII_ZB_415-25.pdf?__blob=publicationFile&v=1",
+      "scope": "Amtliches PDF frisch geladen; Kopf und Leitsätze a–d gelesen.",
+      "transfer_check": "Keine zeitanteilige Barhaftung des Hauptbetreuenden; Abzug bedarfsdeckender Leistungen als tatrichterliche Schätzung, typischerweise 10%, ausnahmsweise höchstens 15%; kein automatischer Umgangsrabatt."
+    },
+    {
+      "citation": "BGH, Urteil vom 25.11.2025 – VI ZR 165/23",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2023/VI_ZR_165-23.pdf?__blob=publicationFile&v=1",
+      "scope": "Amtliches PDF frisch geladen; Kopf, Leitsätze und Rn. 10–23 gelesen.",
+      "transfer_check": "Spätere OP ist keine hypothetische Einwilligung in tatsächlich durchgeführte Maßnahme. Rechtmäßiges Alternativverhalten bleibt gesondert möglich; gleicher Schaden von Behandlungsseite zu beweisen."
+    },
+    {
+      "citation": "BGH, Urteil vom 12.03.2026 – IX ZR 18/25",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZR__18-25.pdf?__blob=publicationFile&v=1",
+      "scope": "Frisch vom Fachprüfer geladenes amtliches PDF unabhängig anhand des Kopfes und der Leitsätze gelesen; kein zweiter Netzwerkabruf behauptet. Zusätzlich Rn. 24–32 gelesen.",
+      "transfer_check": "Tatsächliche oder binnen drei Wochen verfügbare Drittmittel konkret belegen; fehlender Rechtsanspruch allein schließt tatsächlich geleistete Mittel nicht aus. Keine Gleichsetzung bloßer Hilfszusage mit Liquidität oder automatische Entlastung nach Paragraf 15b InsO."
+    },
+    {
+      "citation": "BGH, Urteil vom 23.01.2025 – IX ZR 229/22",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2022/IX_ZR_229-22.pdf?__blob=publicationFile&v=1",
+      "scope": "Frisch vom Fachprüfer geladenes amtliches PDF unabhängig anhand des Kopfes und der Leitsätze gelesen; kein zweiter Netzwerkabruf behauptet.",
+      "transfer_check": "Streitige titulierte Forderung bei Zahlungsunfähigkeitsbeurteilung zum Nennwert nur bei Vollstreckungsvoraussetzungen und eingeleiteter Vollstreckung; nicht jeder Titel unabhängig davon."
+    },
+    {
+      "citation": "BGH, Urteil vom 10.02.2026 – II ZR 71/24",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2024/II_ZR__71-24.pdf?__blob=publicationFile&v=1",
+      "scope": "Frisch vom Fachprüfer geladenes amtliches PDF unabhängig anhand des Kopfes und der Leitsätze gelesen; kein zweiter Netzwerkabruf behauptet.",
+      "transfer_check": "Managementbeteiligung: Gesamtbetrachtung; Eigenbedeutung der Beteiligung und sachlicher Zweck, kein pauschaler Bestand jeder Hinauskündigungsklausel."
+    },
+    {
+      "citation": "BGH, Urteil vom 21.04.2026 – II ZR 50/25",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2025/II_ZR__50-25.pdf?__blob=publicationFile&v=1",
+      "scope": "Frisch vom Fachprüfer geladenes amtliches PDF unabhängig anhand des Kopfes und der Leitsätze gelesen; kein zweiter Netzwerkabruf behauptet.",
+      "transfer_check": "Gesellschafterliste erledigt das Feststellungsinteresse zur materiellen Beteiligung nicht grundsätzlich."
+    },
+    {
+      "citation": "BGH, Beschluss vom 16.07.2026 – I ZB 107/25",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2025/I_ZB_107-25.pdf?__blob=publicationFile&v=1",
+      "scope": "Frisch vom Fachprüfer geladenes amtliches PDF unabhängig anhand des Kopfes und der Leitsätze gelesen; kein zweiter Netzwerkabruf behauptet.",
+      "transfer_check": "Vollstreckbarerklärung und Vollstreckungsimmunität trennen; private Beschaffung für Militär nicht allein deswegen hoheitlich. Kein materiell-rechtlicher CISG-Schadensmaßstab; Ausgangsvertrag schließt CISG aus."
+    },
+    {
+      "citation": "BGH, Urteil vom 31.07.2025 – I ZR 157/21",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2021/I_ZR_157-21A.pdf?__blob=publicationFile&v=1",
+      "scope": "Frisch vom Fachprüfer geladenes amtliches PDF unabhängig anhand des Kopfes und der Leitsätze gelesen; kein zweiter Netzwerkabruf behauptet.",
+      "transfer_check": "Schutzgegenstand Code versus während Programmablauf veränderte Variablen; keine pauschale Freigabe jeder Softwareänderung oder Gewährleistungsantwort."
+    },
+    {
+      "citation": "BGH, Beschluss vom 17.07.2025 – I ZB 82/24",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2024/I_ZB__82-24.pdf?__blob=publicationFile&v=1",
+      "scope": "Frisch vom Fachprüfer geladenes amtliches PDF unabhängig anhand des Kopfes und der Leitsätze gelesen; kein zweiter Netzwerkabruf behauptet.",
+      "transfer_check": "Cloudanbieter keine Schuldner der Geräte-/Speichermedienvergütung allein als Anbieter; nicht sämtliche Cloudkopien vergütungsfrei oder SaaS-Vertragspreis null."
+    },
+    {
+      "citation": "BGH, Beschluss vom 07.07.2026 – XI ZR 71/25",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2025/XI_ZR__71-25.pdf?__blob=publicationFile&v=1",
+      "scope": "Frisch vom Fachprüfer geladenes amtliches PDF unabhängig einschließlich vollständiger knapper Gründe gelesen; kein zweiter Netzwerkabruf behauptet.",
+      "transfer_check": "Nichtzulassungsbeschwerde; Artikel 82 DSGVO offengelassen, konkreter Kausalzusammenhang verneint. Keine materielle Generalentscheidung gegen alle Datenschutzansprüche."
+    },
+    {
+      "citation": "EuGH, Urteil vom 04.12.2025 – verbundene Rechtssachen C-580/23 und C-795/23",
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62023CJ0580",
+      "scope": "Frisch vom Fachagenten geladenes amtliches deutsches HTML; Rn. 83–93 und Tenor unabhängig gelesen.",
+      "transfer_check": "Urheberrechtliche Wiedererkennbarkeit kreativer Elemente nicht mit designrechtlichem Gesamteindruck gleichsetzen; unabhängige Schöpfung bleibt Gegenbeweis."
+    },
+    {
+      "citation": "EuGH, Urteil vom 27.02.2025 – C-537/23",
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62023CJ0537",
+      "scope": "Frisch vom Fachagenten geladenes amtliches deutsches HTML; Rn. 57–69 und Tenor unabhängig gelesen.",
+      "transfer_check": "Asymmetrische Gerichtsstandsvereinbarung nicht allein wegen Asymmetrie unwirksam; EU-/Lugano-Gerichte, objektive Bestimmbarkeit und Schutz-/ausschließliche Zuständigkeiten prüfen."
+    },
+    {
+      "citation": "BFH, Urteil vom 15.04.2026 – X R 14/24",
+      "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202650130/",
+      "scope": "Amtliche HTML-Entscheidung frisch geöffnet; Kopf, Leitsätze und Tatbestand/Anfang der Gründe gelesen.",
+      "transfer_check": "Ungenauere Methode nachrangig; inneren Betriebsvergleich erkennbar prüfen. Kein generelles Verbot der Schätzung oder garantierter Vorrang ungeeigneter interner Berechnungen."
+    }
+  ],
+  "scope": "Unabhängige Quellenstichproben mit einzeln ausgewiesener Lesetiefe; Gegenprüfung der geänderten Mini-/Werkstattpassagen. Ergänzend getrennte Peerprüfung der geänderten Skill- und Hauptproblemtexte. Kein neuer Modelltest."
+}

@@ -12,6 +12,8 @@ Prüfe internationale Zuständigkeit, anwendbares Sachrecht und Durchsetzung get
 
 Gerichtsstands- oder Schiedsklausel mit Einbeziehung, Form, Reichweite und konkurrierenden Fassungen prüfen. Parallelverfahren und Rechtshängigkeit gesondert untersuchen. Fehlt die einbezogene AGB-Fassung, frage nach genau dieser Version und dem Übermittlungsvorgang. Nach Eingang Zuständigkeit und beauftragte Rüge oder Vertragsklausel neu beurteilen.
 
+[EuGH, Urteil vom 27.02.2025 – Az. C-537/23, Società Italiana Lastre](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62023CJ0537), Rn. 57–67: Asymmetrische Gerichtsstandsklauseln nach Artikel 25 Brüssel-Ia-VO sind nicht allein wegen der Ungleichheit unwirksam. Gerichte müssen in EU-/Lugano-Staaten liegen und objektiv hinreichend bestimmbar sein; Schutzregeln und ausschließliche Zuständigkeiten bleiben zwingend. Klauselwortlaut nachfordern, keine weltweite Wahl beliebiger Gerichte freigeben.
+
 ## 1.2 Kollisionsrecht und fremdes Recht
 
 Vertragliche Ansprüche nach Rom I, außervertragliche Ansprüche nach Rom II zuordnen. Artikel 3 und 4 Rom I für Rechtswahl und objektive Anknüpfung, Artikel 9 für Eingriffsnormen und Artikel 21 für ordre public prüfen. Bei Rom II Artikel 4 und gegebenenfalls besondere Anknüpfungen sowie Artikel 26 beachten. Anwendungsbereich und Ausnahmen sind der Anknüpfung vorgelagert.
@@ -41,6 +43,8 @@ Für Anerkennung und Vollstreckung staatlicher Entscheidungen und Schiedssprüch
 Bei Investitionsschiedsverfahren Zustimmung, Abkommen, Energiecharta, ICSID-Grundlage und Unionsbezug getrennt untersuchen. Die Bezeichnung „ICSID-Verfahren“ beantwortet nicht Wirksamkeit der Zustimmung, Zuständigkeit oder Vollstreckbarkeit.
 
 Fehlt eine Schiedsvereinbarung oder Zustellungsurkunde, genau den betreffenden Nachweis anfordern. Nach Eingang Anerkennungs- oder Verteidigungsargumentation überprüfen und den beauftragten Entwurf fertigstellen. Nicht allein wegen unklarer Zuständigkeit vorsorglich in beliebigen Staaten Verfahren einleiten.
+
+[BGH, Beschluss vom 16.07.2026 – Az. I ZB 107/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2025/I_ZB_107-25.pdf?__blob=publicationFile&v=1), Rn. 36–43: Bei ausländischem Schiedsspruch internationale Zuständigkeit nach Paragraf 1025 Absatz 4 ZPO und örtliche Zuständigkeit getrennt bestimmen. Inländisches Staatsvermögen kann ein Rechtsschutzbedürfnis tragen, auch wenn Vollstreckungsimmunität besteht. Titelanerkennung erlaubt noch keinen Zugriff auf immunes Vermögen; Vermögensort und konkrete Vollstreckungsmaßnahme gesondert prüfen.
 
 ## 1.5 Außenhandel und Datenübermittlung
 

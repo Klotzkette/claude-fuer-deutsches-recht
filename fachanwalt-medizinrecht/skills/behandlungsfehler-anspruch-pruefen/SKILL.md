@@ -87,6 +87,10 @@ Weitere Entscheidungen vor Ausgabe in dejure.org / openjur.de live verifizieren.
 | 11 | Mitverschulden | § 254 BGB | Compliance-Verletzung durch Patient? |
 | 12 | Verjährung | §§ 195, 199, 203, 204 BGB | Frist gewahrt? Hemmung? |
 
+### Nachtdienst und Organisationsfehler
+
+[BGH, Urteil vom 25.11.2025, VI ZR 51/24](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2024/VI_ZR__51-24.pdf?__blob=publicationFile&v=1), Rn. 11–18: Mangelhaften Nachtdienst als Organisations-/Behandlungsfehler prüfen, nicht als aufklärungspflichtiges Operationsrisiko. Dienstplan, Befähigung und Reaktionszeit sichern; Kausalität grundsätzlich beim Patienten, Beweiserleichterung nach Paragraf 630h Absatz 4/5 BGB gesondert. Kein Automatismus aus Organisationsmangel zu Gesamthaftung.
+
 ## Strategische Optionen (vor dem Template entscheiden)
 
 Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.

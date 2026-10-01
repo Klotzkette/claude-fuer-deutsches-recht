@@ -70,43 +70,49 @@
     },
     {
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2026/IV_ZB___4-26.pdf?__blob=publicationFile&v=1",
-      "checked_on": "2026-09-30",
-      "supports": "BGH, Beschluss vom 16.09.2026 – IV ZB 4/26, Rn. 5–12: Beschwer des Schuldners eines privaten Pflichtteilsauskunftstitels nach erforderlichem Zeit-/Kostenaufwand bestimmen. 600-Euro-Grenze im Fall nach Übergangsrecht; keine aktuelle Pauschalschwelle und keine allgemeine Bewertung notarieller Verzeichniskosten."
+      "checked_on": "2026-10-01",
+      "supports": "BGH, Beschluss vom 16.09.2026, IV ZB 4/26: Schuldnerbeschwer beim privaten Nachlassverzeichnis nach notwendigem Zeit-/Kostenaufwand; Hilfspersonen nur bei notwendiger Einschaltung. Grenze: Keine Notarkostenpauschale und kein Gläubigerzahlungsinteresse; 600-Euro-Grenze beruhte auf Übergangsrecht, nicht auf zeitlosem Recht. Gelesen: Entscheidungskopf und Rn. 5–13",
+      "verification_status": "frisch_amtlicher_volltext_passagen",
+      "source_sha256": "f260084be0439a0e15f564ed780d404f8a40f42f679f99dffab7371951f76e8e",
+      "source_audit": "quality/source-audits/fachanwaltschaft-2026-10-01/fachanwalt-erbrecht.json"
     },
     {
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2025/IV_ZB___7-25.pdf?__blob=publicationFile&v=1",
       "checked_on": "2026-10-01",
-      "supports": "BGH, Beschluss vom 13.05.2026, IV ZB 7/25: Bei § 1933 BGB Scheidungsvoraussetzungen, Antrag/Zustimmung und wirksame Rücknahme beim Erbfall prüfen; 18 Jahre Stillstand ersetzen keine Rücknahme. Grenze: Keine automatische Enterbung jedes getrennten Ehegatten; testamentarische Berufung gesondert. Gelesener Umfang: Alle 13 PDF-Seiten, Rn. 1–26; tragend Rn. 8–25.",
-      "verification_status": "frisch_volltextpassagen",
-      "source_sha256": "c46c1e27980a38da883711830056cf38e4d9825457d2dbe7a00179d3bdbadbe1"
+      "supports": "BGH, Beschluss vom 13.05.2026, IV ZB 7/25: Bei Paragraf 1933 BGB ersetzen auch 18 Jahre Stillstand im Scheidungsverfahren keine wirksame Antragsrücknahme. Grenze: Scheidungsvoraussetzungen, wirksamer Antrag/Zustimmung zum Erbfall gesondert prüfen; keine automatische Enterbung wegen Trennung. Gelesen: Entscheidungskopf, Rn. 19–25; früherer Gesamtcheck Rn. 1–26 als Vorprüfung",
+      "verification_status": "frisch_amtlicher_volltext_passagen",
+      "source_sha256": "c46c1e27980a38da883711830056cf38e4d9825457d2dbe7a00179d3bdbadbe1",
+      "source_audit": "quality/source-audits/fachanwaltschaft-2026-10-01/fachanwalt-erbrecht.json"
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Schnellstart vollständig gelesen, auf Pflichtteilsberechnung und gezielte Ergänzung eines notariellen Verzeichnisses zugespitzt und unter die Bytegrenze verdichtet. Redaktioneller Desk-Review, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Pflegevergütung wurde bereits bezahlt -> Zahlung und Nachlassschuld nicht doppelt abziehen; Pflichtteilsrechnung und Forderungstext ändern. Gezielte Ergänzung 01.10.2026; Umfang und Quellenstatus im Breitenbericht.",
+    "reason": "Schnellstart vollständig gelesen, auf Pflichtteilsberechnung und gezielte Ergänzung eines notariellen Verzeichnisses zugespitzt und unter die Bytegrenze verdichtet. Redaktioneller Desk-Review, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Pflegevergütung wurde bereits bezahlt -> Zahlung und Nachlassschuld nicht doppelt abziehen; Pflichtteilsrechnung und Forderungstext ändern. Gezielte Ergänzung 01.10.2026; Umfang und Quellenstatus im Breitenbericht. Gezielte Fachanwalts-Aktualisierung 01.10.2026: Zwei aktuelle 2026-Anker im Mini direkt verlinkt; private Auskunftsbeschwer in vorhandenen Auskunftsskill und Hauptproblem eingeordnet. Kein neuer Live-Modelltest.",
     "changes": [
       "Bankermittlung und Mitwirkung anhand IV ZR 193/19 operativ eingebaut; bloße Zweifel nicht mit Neuerstellungsanspruch gleichgesetzt.",
       "Bestandsmangel, Wertermittlung und Versicherung an Eides statt getrennt; sämtliche bisherigen Fachzweige und Fortsetzung erhalten.",
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
-      "Gezielter Rechtsprechungsabgleich 01.10.2026: 2026: Ehegattenstatus vor Quote. Wiederholte Fortsetzungsanweisung verdichtet; alle fachlichen Belegbeispiele erhalten. Redaktionelle Verdichtung ohne Wegfall eines Fachzweigs."
+      "Gezielter Rechtsprechungsabgleich 01.10.2026: 2026: Ehegattenstatus vor Quote. Wiederholte Fortsetzungsanweisung verdichtet; alle fachlichen Belegbeispiele erhalten. Redaktionelle Verdichtung ohne Wegfall eines Fachzweigs.",
+      "Zwei aktuelle 2026-Anker im Mini direkt verlinkt; private Auskunftsbeschwer in vorhandenen Auskunftsskill und Hauptproblem eingeordnet."
     ],
-    "sha256": "bc976da0dc4099de9e76b28041e37b7a4e179678aef59b3359bb263ed86b3404",
-    "reviewed_on": "2026-09-23",
+    "sha256": "44691f1c2775a82c5bd942a9f35be0afc2ac5e3650d7f635a0a592321edf68ce",
+    "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
   "focus_review": {
-    "reviewed_on": "2026-09-23",
+    "reviewed_on": "2026-10-01",
     "method": "desk_review",
     "verdict": "revised",
-    "reason": "Hauptproblem und zugeordneter Pflichtteilsskill vollständig gelesen. Prompt für datierte Nachlassbestände und erforderliche Bankmitwirkung präzisiert; Fachskill unverändert tragfähig. Desk-Review mit erneut geprüftem IV ZR 193/19, kein Modelllauf. Crossreview: Verjährung bei später Vaterschaftsfeststellung mit IV ZR 88/24 ergänzt; Skill unverändert. Workflow-Ergänzung: Pflegevergütung wurde bereits bezahlt -> Zahlung und Nachlassschuld nicht doppelt abziehen; Pflichtteilsrechnung und Forderungstext ändern. Zugeordneten Fokus-Skill auf Kohärenz gelesen und unverändert belassen.",
+    "reason": "Hauptproblem und zugeordneter Pflichtteilsskill vollständig gelesen. Prompt für datierte Nachlassbestände und erforderliche Bankmitwirkung präzisiert; Fachskill unverändert tragfähig. Desk-Review mit erneut geprüftem IV ZR 193/19, kein Modelllauf. Crossreview: Verjährung bei später Vaterschaftsfeststellung mit IV ZR 88/24 ergänzt; Skill unverändert. Workflow-Ergänzung: Pflegevergütung wurde bereits bezahlt -> Zahlung und Nachlassschuld nicht doppelt abziehen; Pflichtteilsrechnung und Forderungstext ändern. Zugeordneten Fokus-Skill auf Kohärenz gelesen und unverändert belassen. Gezielter Nachtrag: Hauptproblem betrifft Nachlassverzeichnis/Titel. IV ZB 4/26 als begrenzte Weiche für private Auskunftstitel ergänzt; IV ZB 7/25 gehört in die vorgelagerte Erbfolgeprüfung und wird nicht in die Bestandsrechnung hineingezwungen.",
     "changes": [
       "Hauptproblem eröffnet mit Todestagsbestand, Schulden und Euroauswirkung.",
       "Ergänzungsanker mit verweigerter Bankmitwirkung, Grenze bloßer Richtigkeitszweifel und Trennung von Wertfragen erläutert; Skill unverändert.",
       "Spätere Vaterschaftsfeststellung: Anspruchsentstehung, Kenntnis, grobe Fahrlässigkeit und fehlende automatische Hemmung differenziert.",
-      "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten."
+      "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten.",
+      "Hauptproblem betrifft Nachlassverzeichnis/Titel. IV ZB 4/26 als begrenzte Weiche für private Auskunftstitel ergänzt; IV ZB 7/25 gehört in die vorgelagerte Erbfolgeprüfung und wird nicht in die Bestandsrechnung hineingezwungen."
     ],
     "prompt_path": "fachanwalt-erbrecht/fachanwalt-erbrecht-hauptproblem.md",
-    "prompt_sha256": "d96ecac9b51b458b33ad3de6fac87502971599d061e717599f377a0979e2b431",
+    "prompt_sha256": "aad981fb21ae7cdd3db53ce836066c7cd901bced312f581fc251cca03620d16f",
     "skill_path": "fachanwalt-erbrecht/skills/pflichtteil-nachlassverzeichnis-belegabgleich/SKILL.md",
     "skill_sha256": "68e3825a08d3f5453d92c5baec78fe6f2fe4d1dd87212fc328687382b35166a1"
   },
@@ -235,12 +241,13 @@
     "method": "desk_review"
   },
   "prompt_editorial_review": {
-    "date": "2026-09-23",
+    "date": "2026-10-01",
     "files": [
       "fachanwalt-erbrecht/fachanwalt-erbrecht-werkstatt.md",
       "fachanwalt-erbrecht/fachanwalt-erbrecht-hauptproblem.md",
       "fachanwalt-erbrecht/fachanwalt-erbrecht-schnellstart.md",
-      "fachanwalt-erbrecht/skills/pflichtteil-nachlassverzeichnis-belegabgleich/SKILL.md"
+      "fachanwalt-erbrecht/skills/pflichtteil-nachlassverzeichnis-belegabgleich/SKILL.md",
+      "fachanwalt-erbrecht/skills/pflichtteil-auskunft-durchsetzen/SKILL.md"
     ],
     "opening_change": "Erbenstellung und Pflichtteilsberechtigung aus Status und Verfügungen sowie Todestagsbestand, Werte und Schulden konkret abgleichen. Workflow-Ergänzung: Leer: Erbfolgeklärung, Pflichtteilsforderung oder Haftungssicherung anbieten. Dateien ohne Aufgabe: Verfügungen, Verzeichnis und Zahlungsbelege still lesen; Erbfolge-, Auskunfts- oder Forderungsziel klären. Klarer Auftrag: verlangte Nachforderung, Rechnung oder Regelung unmittelbar erstellen, keine ungefragte vollständige Nachlassanalyse.",
     "norms": [
@@ -290,27 +297,41 @@
         "limit": "Niederländisches Testament im konkreten Fall; keine allgemeine Erlaubnis ausländischer Notare zu Amtstätigkeit in Deutschland."
       },
       {
-        "citation": "BGH, Beschluss vom 16.09.2026 – IV ZB 4/26, Rn. 5–12",
+        "citation": "BGH, Beschluss vom 16.09.2026, IV ZB 4/26",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2026/IV_ZB___4-26.pdf?__blob=publicationFile&v=1",
-        "checked_on": "2026-09-30",
-        "application": "Beschwer des Schuldners eines privaten Pflichtteilsauskunftstitels nach erforderlichem Zeit-/Kostenaufwand bestimmen.",
-        "limit": "600-Euro-Grenze im Fall nach Übergangsrecht; keine aktuelle Pauschalschwelle und keine allgemeine Bewertung notarieller Verzeichniskosten."
+        "checked_on": "2026-10-01",
+        "application": "Schuldnerbeschwer beim privaten Nachlassverzeichnis nach notwendigem Zeit-/Kostenaufwand; Hilfspersonen nur bei notwendiger Einschaltung.",
+        "limit": "Keine Notarkostenpauschale und kein Gläubigerzahlungsinteresse; 600-Euro-Grenze beruhte auf Übergangsrecht, nicht auf zeitlosem Recht.",
+        "verification_status": "frisch_amtlicher_volltext_passagen",
+        "passages_read": "Entscheidungskopf und Rn. 5–13",
+        "source_sha256": "f260084be0439a0e15f564ed780d404f8a40f42f679f99dffab7371951f76e8e",
+        "source_audit": "quality/source-audits/fachanwaltschaft-2026-10-01/fachanwalt-erbrecht.json",
+        "previous_verification": {
+          "checked_on": "2026-09-30"
+        }
       },
       {
         "citation": "BGH, Beschluss vom 13.05.2026, IV ZB 7/25",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2025/IV_ZB___7-25.pdf?__blob=publicationFile&v=1",
-        "application": "Bei § 1933 BGB Scheidungsvoraussetzungen, Antrag/Zustimmung und wirksame Rücknahme beim Erbfall prüfen; 18 Jahre Stillstand ersetzen keine Rücknahme.",
-        "limit": "Keine automatische Enterbung jedes getrennten Ehegatten; testamentarische Berufung gesondert.",
+        "application": "Bei Paragraf 1933 BGB ersetzen auch 18 Jahre Stillstand im Scheidungsverfahren keine wirksame Antragsrücknahme.",
+        "limit": "Scheidungsvoraussetzungen, wirksamer Antrag/Zustimmung zum Erbfall gesondert prüfen; keine automatische Enterbung wegen Trennung.",
         "checked_on": "2026-10-01",
-        "verification_status": "frisch_volltextpassagen",
-        "passages_read": "Alle 13 PDF-Seiten, Rn. 1–26; tragend Rn. 8–25.",
-        "evidence_sha256": "c46c1e27980a38da883711830056cf38e4d9825457d2dbe7a00179d3bdbadbe1"
+        "verification_status": "frisch_amtlicher_volltext_passagen",
+        "passages_read": "Entscheidungskopf, Rn. 19–25; früherer Gesamtcheck Rn. 1–26 als Vorprüfung",
+        "evidence_sha256": "c46c1e27980a38da883711830056cf38e4d9825457d2dbe7a00179d3bdbadbe1",
+        "source_sha256": "c46c1e27980a38da883711830056cf38e4d9825457d2dbe7a00179d3bdbadbe1",
+        "source_audit": "quality/source-audits/fachanwaltschaft-2026-10-01/fachanwalt-erbrecht.json",
+        "previous_verification": {
+          "checked_on": "2026-10-01",
+          "verification_status": "frisch_volltextpassagen"
+        }
       }
     ],
     "remaining_limits": [
       "Desk- und Quellenreview, kein Live-Modelltest.",
       "Vier bezeichnete Entscheidungsanker amtlich in tragenden Gründen geprüft; keine Vollverifikation sämtlicher Testaments-, Steuer-, Kollisions- und Schenkungsfragen.",
-      "Workflow-Review 23.09.2026: erneuter Paragraf-2314-Abruf scheiterte. Vorhandene Entscheidungen zu Auskunft, späterer Vaterschaft, ärztlichem Zeugnis und Steuerquote mit ihren bisherigen Grenzen erhalten."
+      "Workflow-Review 23.09.2026: erneuter Paragraf-2314-Abruf scheiterte. Vorhandene Entscheidungen zu Auskunft, späterer Vaterschaft, ärztlichem Zeugnis und Steuerquote mit ihren bisherigen Grenzen erhalten.",
+      "Fachanwaltsaktualisierung 01.10.2026: zwei ausgewählte aktuelle Entscheidungen frisch im amtlichen Volltext passagenbezogen geprüft; keine Gesamtneuverifikation aller Altanker oder neuen Modelltests. Hauptproblem betrifft Nachlassverzeichnis/Titel. IV ZB 4/26 als begrenzte Weiche für private Auskunftstitel ergänzt; IV ZB 7/25 gehört in die vorgelagerte Erbfolgeprüfung und wird nicht in die Bestandsrechnung hineingezwungen."
     ]
   },
   "prompt_workflow_review": {
@@ -351,5 +372,14 @@
       }
     ],
     "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
+  },
+  "source_audit_fachanwaltschaft_2026_10_01": {
+    "report": "quality/source-audits/fachanwaltschaft-2026-10-01/fachanwalt-erbrecht.json",
+    "scope": "Zwei ausgewählte aktuelle Entscheidungen, amtlicher Volltext und operative Prompt-/Skillanwendung; keine pauschale Gesamtprüfung.",
+    "decisions": [
+      "BGH, Beschluss vom 13.05.2026, IV ZB 7/25",
+      "BGH, Beschluss vom 16.09.2026, IV ZB 4/26"
+    ],
+    "new_model_test": false
   }
 }

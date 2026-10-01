@@ -1,0 +1,81 @@
+{
+  "plugin": "fachanwalt-verwaltungsrecht",
+  "checked_on": "2026-10-01",
+  "status": "two_current_relevant_highest_court_anchors_verified_and_covered",
+  "scope": "Gezielte amtliche Quellenprüfung der unten genannten Passagen; lokaler Kontext und Arbeitsablauf der drei Prompts sowie betroffene Skillpassagen. Keine erneute Vollprüfung sämtlicher Fachskills oder Normen.",
+  "sources": [
+    {
+      "citation": "BVerwG, Urteil vom 26.06.2025 – 3 C 14.23",
+      "url": "https://ssl.bverwg.de/de/260625U3C14.23.0",
+      "passages": "Rn. 10–15, 19–27",
+      "application": "Objektive gebietsbezogene Feinabstimmung der Ausgleichszulage und Standardoutput prüfen, nicht nur Nachteile des einzelnen Betriebs.",
+      "limit": "Antragsjahr 2017 und Förderperiode 2014–2020; keine automatische Übertragung auf laufende GAP oder andere Förderprogramme.",
+      "retrieval": "amtlicher Volltext, ausgewählte Gründe frisch gelesen",
+      "checked_on": "2026-10-01",
+      "previously_present": false
+    },
+    {
+      "citation": "BVerwG, Beschluss vom 23.02.2026 – 8 B 27.25",
+      "url": "https://www.bverwg.de/230226B8B27.25.0",
+      "passages": "Rn. 3–7",
+      "application": "Presseförderung nach Inhaltsneutralität und Verlagswettbewerb prüfen; gezielter Eingriff in Drittgrundrechte verlangt spezielle gesetzliche Ermächtigung.",
+      "limit": "Nichtzulassungsbeschwerde, kein allgemeiner materieller Freibrief für Subventionen; Grundrechtseingriff und Empfänger-/Konkurrentenrolle fallbezogen.",
+      "retrieval": "amtlicher Volltext, ausgewählte Gründe frisch gelesen",
+      "checked_on": "2026-10-01",
+      "previously_present": false
+    }
+  ],
+  "fresh_or_reused": "Alle 16 ausgewählten Dokumente dieser acht Plugins in diesem Lauf amtlich neu abgerufen. Frisch gelesene Passagen und nur aus Vorprüfung übernommene Teilpassagen stehen je Quelle ausdrücklich im Feld passages; ältere sonstige Quellen wurden nicht neu als verifiziert etikettiert.",
+  "local_files_reviewed": [
+    "fachanwalt-verwaltungsrecht/fachanwalt-verwaltungsrecht-hauptproblem.md",
+    "fachanwalt-verwaltungsrecht/fachanwalt-verwaltungsrecht-schnellstart.md",
+    "fachanwalt-verwaltungsrecht/fachanwalt-verwaltungsrecht-werkstatt.md",
+    "fachanwalt-verwaltungsrecht/skills/foerdermittel-zweckbindung-belegabgleich-rueckforderung/SKILL.md",
+    "fachanwalt-verwaltungsrecht/skills/juristischer-argumentationskern/SKILL.md"
+  ],
+  "changed_files": [
+    "fachanwalt-verwaltungsrecht/fachanwalt-verwaltungsrecht-schnellstart.md",
+    "fachanwalt-verwaltungsrecht/fachanwalt-verwaltungsrecht-werkstatt.md",
+    "fachanwalt-verwaltungsrecht/skills/juristischer-argumentationskern/SKILL.md",
+    "quality/evals/fachanwalt-verwaltungsrecht.json"
+  ],
+  "prompt_coverage": {
+    "werkstatt": {
+      "path": "fachanwalt-verwaltungsrecht/fachanwalt-verwaltungsrecht-werkstatt.md",
+      "characters": 22867,
+      "utf8_bytes": 23277,
+      "sha256": "fa0f760fe79c04e9788c4bef7f94fdd39f028d7cafc79aae8ce486e56c318b25",
+      "selected_source_urls_present": [
+        true,
+        true
+      ]
+    },
+    "schnellstart": {
+      "path": "fachanwalt-verwaltungsrecht/fachanwalt-verwaltungsrecht-schnellstart.md",
+      "characters": 6728,
+      "utf8_bytes": 6854,
+      "sha256": "f9528051d28f9f23e8d1f5d65ae1eeb8609f33b9da39dd2986648ad7a3e27bec",
+      "selected_source_urls_present": [
+        true,
+        true
+      ]
+    },
+    "hauptproblem": {
+      "path": "fachanwalt-verwaltungsrecht/fachanwalt-verwaltungsrecht-hauptproblem.md",
+      "characters": 6693,
+      "utf8_bytes": 6826,
+      "sha256": "e1934bee755feb8a81c52fe4a5fa6f35b648c6fe024164b9b2d388a1784cf8a8",
+      "selected_source_urls_present": [
+        false,
+        false
+      ]
+    }
+  },
+  "focus_scope": "Hauptproblem Zweckwiderruf und Gegenrechnung bleibt bei 8 C 11.21. Gebietsauswahl bei Gewährung sowie Presseförderung ersetzen keinen Widerrufstatbestand.",
+  "search_2026": "Amtliche Suche zu Förderung 2025–2026; 3 C 14.23 (2025) und 8 B 27.25 (2026) frisch gelesen. Förderperioden- und Beschwerdegrenze ausdrücklich erhalten.",
+  "validation": "UTF-8-Byte- und Zeichengrenzen; beide Direktlinks in Werkstatt und Mini sowie vorhandenen Skills; Profilhashes nachgeführt. Keine neuen Modelltests oder globalen Generatoren.",
+  "limits": [
+    "Nur bezeichnete Entscheidungs- und angrenzende Workflowpassagen überprüft; kein Versprechen vollständiger Rechtssicherheit.",
+    "Vorhandene Normfassungen, Altfundstellen und Testakten außerhalb des beschriebenen Eingriffs nicht umfassend neu geprüft."
+  ]
+}

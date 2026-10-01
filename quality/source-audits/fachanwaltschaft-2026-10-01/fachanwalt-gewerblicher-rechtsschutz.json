@@ -1,0 +1,89 @@
+{
+  "plugin": "fachanwalt-gewerblicher-rechtsschutz",
+  "checked_on": "2026-10-01",
+  "method": "fresh_official_primary_passages_and_targeted_text_review",
+  "scope": "Zwei aktuelle oberstgerichtliche Anker in Werkstatt, Mini und sachlich passenden vorhandenen Fachskills; Hauptproblem nur nach konkreter Einschlägigkeit.",
+  "decisions": [
+    {
+      "court": "BGH",
+      "decision_type": "Urteil",
+      "decision_date": "02.07.2026",
+      "docket": "I ZR 96/22 – USM Haller II",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2022/I_ZR__96-22A.pdf?__blob=publicationFile&v=4",
+      "checked_on": "2026-10-01",
+      "read_passages": "Rn. 23–26, 60–63 frisch; Rn.27–32 im vorhandenen Fachaudit wiederverwendet",
+      "holding": "Kein eigenständiger urheberrechtlicher Gesamteindruckstest: geschützte kreative Elemente in der insgesamt betrachteten neuen Gestaltung identifizieren.",
+      "transfer_limit": "Zurückverweisung; kein endgültiger Schutzbefund für USMHaller, keine Aussage zu Lizenzhöhe oder Gewinnquote; Designprüfung bleibt eigenständig.",
+      "retrieval": "Amtlicher BGH-PDF-Volltext frisch heruntergeladen; bezeichnete Passagen gelesen.",
+      "verification_status": "fresh_primary_passages_with_explicit_prior_passage_reuse",
+      "sha256": "294c0a6a21873dd8f09f83475219ee15de4617d77a03dcf646ca02eeb4c24f1a",
+      "citation": "BGH, Urteil vom 02.07.2026 – Az. I ZR 96/22 – USM Haller II"
+    },
+    {
+      "court": "EuGH",
+      "decision_type": "Urteil",
+      "decision_date": "04.12.2025",
+      "docket": "C-580/23 und C-795/23 – Mio/konektra",
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62023CJ0580",
+      "checked_on": "2026-10-01",
+      "read_passages": "Rn. 50–58, 83–87",
+      "holding": "Originalität freier kreativer Entscheidungen von Design-Neuheit und Eigenart trennen; keine höhere Originalitätsschwelle für angewandte Kunst; wiedererkennbare kreative Elemente für Verletzung maßgeblich.",
+      "transfer_limit": "Nicht mit Schlussanträgen vom08.05.2025 verwechseln; keine Schadensberechnung, keine Aussage zu bloßen Lichtbildern nach Paragraf72UrhG.",
+      "retrieval": "Amtliches EUR-Lex-HTML frisch abgerufen und bezeichnete Passagen gelesen; PDF-/Standard-TXT-Abruf blockiert.",
+      "verification_status": "fresh_primary_passages",
+      "sha256": "fc78df3b654894296be661edafbba47b22802e04129c4fb0aeb3e737435863aa",
+      "citation": "EuGH, Urteil vom 04.12.2025 – Az. C-580/23 und C-795/23 – Mio/konektra"
+    }
+  ],
+  "files_read_for_context": [
+    "fachanwalt-gewerblicher-rechtsschutz/fachanwalt-gewerblicher-rechtsschutz-hauptproblem.md",
+    "fachanwalt-gewerblicher-rechtsschutz/fachanwalt-gewerblicher-rechtsschutz-schnellstart.md",
+    "fachanwalt-gewerblicher-rechtsschutz/fachanwalt-gewerblicher-rechtsschutz-werkstatt.md",
+    "fachanwalt-gewerblicher-rechtsschutz/skills/design-verletzergewinn-kostenabgleich/SKILL.md",
+    "fachanwalt-gewerblicher-rechtsschutz/skills/designrecht-praxis-grundlagen/SKILL.md"
+  ],
+  "files_changed": [
+    "fachanwalt-gewerblicher-rechtsschutz/fachanwalt-gewerblicher-rechtsschutz-schnellstart.md",
+    "fachanwalt-gewerblicher-rechtsschutz/fachanwalt-gewerblicher-rechtsschutz-werkstatt.md",
+    "fachanwalt-gewerblicher-rechtsschutz/skills/designrecht-praxis-grundlagen/SKILL.md"
+  ],
+  "changes": "EU-Vorlageantwort zur Originalität und Wiedererkennbarkeit in vorhandenen Gestaltungsvergleich aufgenommen, Schadensrechnung abgegrenzt.",
+  "focus_scope": "Hauptproblem und Fokusskill zur isolierten Design-Verletzergewinnrechnung unverändert: Die beiden neuen Schutz-/Verletzungsanker bestimmen weder Kostenabzug noch Gewinnquote. Die breite Werkstatt/Mini und vorhandener Design-Grundlagenskill enthalten beide.",
+  "prompt_sizes": {
+    "schnellstart": {
+      "characters": 6699,
+      "utf8_bytes": 6785,
+      "sha256": "d66e3929ba36d6f4d2e64f8f8a6888139e0badbf486cde31c318aaa5353662ac"
+    },
+    "hauptproblem": {
+      "characters": 6206,
+      "utf8_bytes": 6283,
+      "sha256": "fc0d96c3553af9420d62a7ec26f8e57f19b4b00dd976bc59e96a7f6edc7da5ae"
+    },
+    "werkstatt": {
+      "characters": 21321,
+      "utf8_bytes": 21608,
+      "sha256": "828fcb5bbb64b0f17b3920abefab7a28380475323710362f6f4cad9c3feee1a3"
+    }
+  },
+  "text_mirrors": "Keine vorhandenen TXT-Spiegel in diesem Plugin; keine neuen Doppelkopien erzeugt.",
+  "limits": [
+    "Keine Vollverifikation aller Altentscheidungen oder aller Fachskills.",
+    "Kein neuer Live-Modell-, Mandats-, Export- oder Dokumentrendertest.",
+    "Vorhandene Regulierungs- und Spezialanker außerhalb der bezeichneten Entscheidungen nicht umfassend neu geprüft."
+  ],
+  "search_2026_result": "Aktuelle amtliche 2026-Entscheidung mindestens einmal fachlich passend ausgewählt; zweiter Anker passend aus 2025 oder 2026. EuGH-Urteil Mio vom04.12.2025 nicht mit Veröffentlichung im Amtsblatt2026 verwechselt.",
+  "context_fix_2026_10_01": {
+    "date": "2026-10-01",
+    "file": "fachanwalt-gewerblicher-rechtsschutz/skills/designrecht-praxis-grundlagen/SKILL.md",
+    "change": "Unbelegte pauschale Dringlichkeitsangabe von vier bis sechs Wochen entfernt. Kenntnisdatum, Verletzungsverlauf, Reaktion und zuständiges Gericht jetzt als konkrete Prüfmerkmale; auftragsgemäßen Antrag bei Zeitdruck priorisieren.",
+    "basis": "Kontextabgleich mit Mini-Prompt Abschnitt 1.1, der bereits eine allgemeine Vierwochenfrist ausdrücklich ausschließt; keine neue materielle Entscheidungsregel hinzugefügt."
+  },
+  "additional_context_review": "Zusätzlicher Kontextabgleich: Falsche Zuordnung von Artikel 85 VO 6/2002 zur gerichtlichen Zuständigkeit in der Normtabelle berichtigt. Wie bereits in der Werkstatt und bei Karen Millen angelegt: Vermutung der Rechtsgültigkeit, unterschiedliche Voraussetzungen für eingetragene und nicht eingetragene Designs.",
+  "additional_context_source": {
+    "citation": "EuGH, Urteil vom 19.06.2014 – C-345/13, Karen Millen",
+    "url": "https://eur-lex.europa.eu/legal-content/de/ALL/?uri=CELEX%3A62013CJ0345",
+    "checked_on": "2026-10-01",
+    "scope": "Amtlicher Suchauszug Rn. 39 und amtliche Leitsatz-Zusammenfassung zur Funktion von Artikel 85 gelesen; kein neuer vollständiger Durchgang des Urteils oder der konsolidierten Verordnung."
+  }
+}

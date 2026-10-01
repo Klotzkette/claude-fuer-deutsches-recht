@@ -1,4 +1,4 @@
-# 1. Familienrecht: Schnellstart für die Fallarbeit
+# 1. Familienrecht: Schnellstart
 
 Berechne den streitigen Unterhalt oder Zugewinn, prüfe die Versorgungsteilung oder begründe die verlangte Sorge- und Umgangsregelung anhand der vorhandenen Familienakte.
 
@@ -20,11 +20,13 @@ Für die Unterhaltsrechnung Anspruchsart, Betreuungsmodell, Vertretung und Prüf
 
 [BGH, Beschluss vom 15.04.2026, XII ZB 415/25, Rn. 62–70 und 73](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2025/XII_ZB_415-25.pdf?__blob=publicationFile&v=1): Mehraufwand kann Tabellenherabstufung tragen, bedarfsdeckende Leistungen bei ausreichender tatsächlicher Schätzbasis zusätzlich typischerweise zehn, ausnahmsweise höchstens fünfzehn Prozent Abzug vom Tabellenbedarf, nicht vom Zahlbetrag. Keine automatische Kürzung oder zeitquotale Barhaftung des Hauptbetreuers; reine Mehrkosten senken nicht den Mindestunterhalt. Betreuung und wirkliche Entlastung erfragen, Kindergeld getrennt verarbeiten. Fehlende Einkommensbelege gezielt anfordern; bis dahin Varianten kennzeichnen. Nach Eingang Rechnung und bestellten Brief oder Antrag fertigstellen. Gerichtliche Entscheidung, Vergleich und Jugendamtsurkunde vor jeder Abänderung unterscheiden.
 
+Beim Elternunterhalt [BGH, Beschluss vom 22.01.2025, XII ZB 148/24](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2024/XII_ZB_148-24.pdf?__blob=publicationFile&v=1), Rn. 10–14, anwenden: Die 100.000-Euro-Grenze für Sozialhilferegress begründet keinen zivilrechtlichen Selbstbehalt von 5.500 Euro. Bedarf, Leistungsfähigkeit und Geschwisteranteile gesondert rechnen; keinen aktuellen Pauschalselbstbehalt aus dem Urteil ableiten.
+
 ### 1.3.2. Versorgungsausgleich
 
 Für die erstmalige Sachentscheidung Ehezeit nach Paragraf 3 VersAusglG bis zum Ende des Monats vor Zustellung bestimmen. Jedes Anrecht einzeln mit Träger, Kennung, Einheit und Ausgleichswert führen.
 
-Bei Fragebogen, unvollständiger Auskunft oder Rechendifferenz Trägerauskunft und Anrechtswerte abgleichen. Die konkrete Rechenerläuterung anfordern; nach der Antwort das betroffene Anrecht berichtigen und die bestellte Stellungnahme ausarbeiten. Bei Teilungsform, Kosten oder Zielwahl Teilungsordnung, Abzug und Zielversorgung getrennt prüfen. Keine gemeinsame Kapitalwertsumme als Ersatz für die Einzelprüfung.
+Trägerauskunft und Anrechtswerte abgleichen. Fehlende Rechenerläuterung anfordern; danach Anrecht und Stellungnahme berichtigen. Teilungsordnung, Kosten und Zielversorgung getrennt prüfen; keine gemeinsame Kapitalwertsumme statt Einzelprüfung.
 
 Beschwerde, Altentscheidungsabänderung, schuldrechtlicher Ausgleich, Tod und Anpassung wegen Unterhalts oder Invalidität bleiben eigene Verfahren. Jeweils Anlass, Zuständigkeit, Zeitbezug und eigene Voraussetzungen prüfen, nicht die erstmalige Teilung wiederholen.
 
@@ -52,7 +54,7 @@ Liefere das beauftragte Dokument zuerst. Rechen- und Belegtabellen sind Anlagen,
 
 Anträge, Briefe und Stellungnahmen vollständig ausformulieren, keine Stichwortskelette. Schriftbild soweit technisch möglich Times New Roman 11 pt; nur dezimale Gliederung mit Leerzeilen. Bei Markdown diesen Formatwunsch als Exporthinweis aufnehmen.
 
-Optional ergänzen [Rechtsanker](references/rechtsanker-2026-09-05.md) und [Zitierweise](../references/zitierweise.md) die eigenständige Prüfung: aktuelle Norm und amtlichen Entscheidungsbeleg mit Gericht, Form, Datum, Aktenzeichen und geprüfter Randnummer angeben. Keine Literatur aus Erinnerung. Nicht abrufbare Entscheidungen bleiben Prüfaufträge in einer gesonderten Arbeitsnotiz, nicht im Mandantenbrief. Keine eigenmächtige Einreichung, Versendung oder rechtsgeschäftliche Erklärung; Paragraf ausschreiben.
+Aktuelle Norm, Gericht, Form, Datum, Aktenzeichen, amtlichen Link und geprüfte Randnummer nennen. Keine Literatur aus Erinnerung. Abruflücken in die Arbeitsnotiz, nicht in den Mandantenbrief. Keine eigenmächtige Einreichung, Versendung oder Erklärung; Paragraf ausschreiben.
 
 Offenes Einkommen, Betreuung, Titelart oder Zustellung können die Endbezifferung sperren. Nachweis konkret benennen, nach Eingang fortsetzen; keine Annahmen als Tatsachen übernehmen.
 

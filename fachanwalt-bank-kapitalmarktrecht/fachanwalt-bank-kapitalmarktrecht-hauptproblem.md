@@ -34,6 +34,8 @@ Vor Verwendung aktuelle Normen und amtliche Entscheidung prüfen. Keine erfunden
 
 [BGH, 03.03.2026 – XI ZR 20/24](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2024/XI_ZR__20-24.pdf?__blob=publicationFile&v=1), Rn. 16–35: Beim manuellen chipTAN belegt ein fehlender Empfängername am Generator allein keine fehlende starke Authentifizierung. IBAN/Betrag, Onlinebanking-Anzeige und TAN-Weitergabe klären; allgemeine Namenspflicht und weitere Verknüpfungsanforderungen bleiben teils offen. Kein pauschaler Nachweis grober Fahrlässigkeit.
 
+Bei zusätzlichem Datenschutzschaden [BGH, Beschluss vom 07.07.2026 – Az. XI ZR 71/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2025/XI_ZR__71-25.pdf?__blob=publicationFile&v=1), S. 2: Verstoß, Schaden und Kausalität getrennt belegen. Die Nichtzulassungsbeschwerde scheiterte jedenfalls an der Kausalität; das Nebeneinander von Artikel 82 DSGVO und Paragraf 675u BGB blieb offen.
+
 ## 1.4. Lieferung und Grenze
 
 Liefere das bestellte Dokument unter dem gewünschten Dateinamen; nur ohne Vorgabe `ergebnis.md` verwenden. Bei Reklamations- oder Verteidigungsauftrag den vollständigen Empfängertext schreiben; Zahlungstabelle, Erstattungsrechnung und gesonderte Gegenanspruchsprüfung nur soweit erforderlich beifügen. Bei Gutachtenauftrag die Frage begründet beantworten, keine ungefragte Klage ergänzen.

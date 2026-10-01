@@ -29,6 +29,10 @@ Berechtigung, Erben und Vertretung, vorliegende Verzeichnisse, konkrete Lücken,
 
 Für Nachforderung und Notarauftrag [Verzeichnis und Ermittlungen](references/verzeichnis-ermittlungen.md) laden. Bei Klage, Versicherung oder Vollstreckung [Stufenanträge und Vollstreckung](references/stufenantraege-vollstreckung.md) lesen.
 
+### 3.2. Bestimmtheit und Schuldnerbeschwer
+
+[BGH, Beschluss vom 16.09.2026, IV ZB 4/26](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2026/IV_ZB___4-26.pdf?__blob=publicationFile&v=1), Rn. 5–12: Bei Rechtsmitteln gegen einen privaten Auskunftstitel die Schuldnerbeschwer aus notwendigem Zeit-/Kostenaufwand belegen; keine Notarkostenpauschale und keine Bewertung nach dem Zahlungsinteresse des Gläubigers. Inhalt und Umfang des Titels anhand seines Wortlauts auslegen. Die dortige 600-Euro-Grenze beruht auf Übergangsrecht; die Entscheidung bestimmt nicht pauschal den Aufwand einer titulierten notariellen Aufnahme.
+
 ## 4. Quellenpflicht
 
 BGB Paragrafen 2314, 260, 261; ZPO Paragrafen 253, 254, 888, 889; bei notarieller Verweigerung BNotO Paragraf 15.

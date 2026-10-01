@@ -14,6 +14,8 @@ Prüfe CISG-Anwendung nach Artikeln 1 bis 3 und 6 mit Vertragsstaaten und Vorbeh
 
 Ordne Aufhebungsgrund, Erklärung, Reichweite und Zeitpunkt nach Artikeln 25, 26, 47 und 49 zu. Erfolgloser Nachfristablauf nach Artikel 49 Absatz 1 Buchstabe b betrifft Nichtlieferung, nicht jeden Mangel. Teil- und Sukzessivlieferungen nach Artikeln 51 und 73 gesondert behandeln. Artikel 75 verlangt grundsätzlich ein angemessenes Ersatzgeschäft innerhalb angemessener Zeit nach Aufhebung. Früheren Einkauf nicht automatisch darunter fassen; Artikel 74 gegebenenfalls eigenständig prüfen.
 
+[EuGH, Urteil vom 27.02.2025 – Az. C-537/23, Società Italiana Lastre](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62023CJ0537), Rn. 57–67: Asymmetrische Gerichtsstandsklauseln nach Artikel 25 Brüssel-Ia-VO sind nicht allein wegen der Ungleichheit unwirksam. Gerichte müssen in EU-/Lugano-Staaten liegen und objektiv hinreichend bestimmbar sein; Schutzregeln und ausschließliche Zuständigkeiten bleiben zwingend. Klauselwortlaut nachfordern, keine weltweite Wahl beliebiger Gerichte freigeben.
+
 ## 1.3. Mengen- und Schadensrechnung
 
 Ordne jede Ersatzposition einer ausgefallenen Charge zu. Teile Sammelbestellungen in Deckungsmenge und normalen Vorratseinkauf. Vergleiche die Preise auf einheitlicher Grundlage hinsichtlich Qualität, Menge, Fracht- und Zahlungsbedingungen. Berechne je zugeordneter Menge den Mehrpreis gegenüber dem ursprünglichen Vertrag. Fracht nur zusätzlich ansetzen, soweit nicht bereits im Preis enthalten. Übermengen, Retouren, Rabatte und ersparte Kosten separat ausweisen. Wechselkurse mit Quelle und Bezugsdatum belegen; ohne Grundlage zunächst in Originalwährung rechnen.

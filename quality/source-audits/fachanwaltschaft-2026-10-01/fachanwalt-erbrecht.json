@@ -1,0 +1,79 @@
+{
+  "plugin": "fachanwalt-erbrecht",
+  "checked_on": "2026-10-01",
+  "scope": "Zwei ausgewählte aktuelle Entscheidungen; Entscheidungsidentität und angegebene tragende Volltextpassagen frisch gelesen, Vorprüfungen als Kontext. Keine Prüfung sämtlicher Entscheidungen im Plugin.",
+  "decisions": [
+    {
+      "id": "erbe1",
+      "plugin": "fachanwalt-erbrecht",
+      "court": "BGH",
+      "form": "Beschluss",
+      "date": "13.05.2026",
+      "az": "IV ZB 7/25",
+      "citation": "BGH, Beschluss vom 13.05.2026, IV ZB 7/25",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2025/IV_ZB___7-25.pdf?__blob=publicationFile&v=1",
+      "passages_read": "Entscheidungskopf, Rn. 19–25; früherer Gesamtcheck Rn. 1–26 als Vorprüfung",
+      "application": "Bei Paragraf 1933 BGB ersetzen auch 18 Jahre Stillstand im Scheidungsverfahren keine wirksame Antragsrücknahme.",
+      "limit": "Scheidungsvoraussetzungen, wirksamer Antrag/Zustimmung zum Erbfall gesondert prüfen; keine automatische Enterbung wegen Trennung.",
+      "checked_on": "2026-10-01",
+      "verification_status": "frisch_amtlicher_volltext_passagen",
+      "retrieval": "Amtliches Entscheidungs-PDF frisch abgerufen und mit pdftotext gelesen",
+      "source_sha256": "c46c1e27980a38da883711830056cf38e4d9825457d2dbe7a00179d3bdbadbe1",
+      "skill": "gesetzliche-erbfolge-bestimmen"
+    },
+    {
+      "id": "erbe2",
+      "plugin": "fachanwalt-erbrecht",
+      "court": "BGH",
+      "form": "Beschluss",
+      "date": "16.09.2026",
+      "az": "IV ZB 4/26",
+      "citation": "BGH, Beschluss vom 16.09.2026, IV ZB 4/26",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2026/IV_ZB___4-26.pdf?__blob=publicationFile&v=1",
+      "passages_read": "Entscheidungskopf und Rn. 5–13",
+      "application": "Schuldnerbeschwer beim privaten Nachlassverzeichnis nach notwendigem Zeit-/Kostenaufwand; Hilfspersonen nur bei notwendiger Einschaltung.",
+      "limit": "Keine Notarkostenpauschale und kein Gläubigerzahlungsinteresse; 600-Euro-Grenze beruhte auf Übergangsrecht, nicht auf zeitlosem Recht.",
+      "checked_on": "2026-10-01",
+      "verification_status": "frisch_amtlicher_volltext_passagen",
+      "retrieval": "Amtliches Entscheidungs-PDF frisch abgerufen und mit pdftotext gelesen",
+      "source_sha256": "f260084be0439a0e15f564ed780d404f8a40f42f679f99dffab7371951f76e8e",
+      "skill": "pflichtteil-auskunft-durchsetzen"
+    }
+  ],
+  "fresh_2026_decisions": 2,
+  "search_2026": "Amtliche 2026-Fundstellen gezielt gesucht/abgerufen; die hier dokumentierten Quellen tragen die übernommenen Aussagen. Kein Negativnachweis über sämtliche 2026-Entscheidungen.",
+  "changes": "Zwei aktuelle 2026-Anker im Mini direkt verlinkt; private Auskunftsbeschwer in vorhandenen Auskunftsskill und Hauptproblem eingeordnet.",
+  "changed_files": [
+    "fachanwalt-erbrecht/fachanwalt-erbrecht-hauptproblem.md",
+    "fachanwalt-erbrecht/fachanwalt-erbrecht-schnellstart.md",
+    "fachanwalt-erbrecht/skills/pflichtteil-auskunft-durchsetzen/SKILL.md"
+  ],
+  "read_scope": {
+    "mini": "Vollständig gelesen; Anker und Fortsetzungslogik abgeglichen.",
+    "workshop": "Betroffene Fachabschnitte und vorhandene Anker gelesen; keine erneute Gesamtprüfung sämtlicher übriger Werkstattabschnitte.",
+    "skills": "Betroffene Fachabschnitte der verknüpften bestehenden Skills; keine Gesamtprüfung aller Spezialskills.",
+    "focus": "Auftrag und tragende Anker zur Abgrenzung geprüft; Hauptproblem betrifft Nachlassverzeichnis/Titel. IV ZB 4/26 als begrenzte Weiche für private Auskunftstitel ergänzt; IV ZB 7/25 gehört in die vorgelagerte Erbfolgeprüfung und wird nicht in die Bestandsrechnung hineingezwungen."
+  },
+  "focus_decision": "Hauptproblem betrifft Nachlassverzeichnis/Titel. IV ZB 4/26 als begrenzte Weiche für private Auskunftstitel ergänzt; IV ZB 7/25 gehört in die vorgelagerte Erbfolgeprüfung und wird nicht in die Bestandsrechnung hineingezwungen.",
+  "prompt_limits": {
+    "schnellstart": {
+      "characters": 7382,
+      "utf8_bytes": 7497
+    },
+    "hauptproblem": {
+      "characters": 7328,
+      "utf8_bytes": 7421
+    }
+  },
+  "txt_mirrors_updated": [],
+  "verification_limits": [
+    "Keine neuen Skills, Testakten, Versionen oder globalen Generatoren.",
+    "Kein Live-Modelltest; vorhandene Modelltestergebnisse werden nicht auf neue Texte umdatiert.",
+    "Altanker außerhalb des benannten Passagenumfangs behalten ihren bisherigen Prüfstatus."
+  ],
+  "technical_checks": {
+    "mini_and_focus_limits": "passed",
+    "profile_validation": "passed: quality_lab.validate_profile, 01.10.2026",
+    "pair_coverage": "passed: Beide Direktlinks in Werkstatt, Mini und jeweils passendem bestehenden Fachskill."
+  }
+}

@@ -37,7 +37,7 @@ Sportrecht ist überwiegend Schiedsrecht. **CAS Lausanne** als oberste Instanz, 
 
 - Bei nationaler Sport-Sache
 - Unabhängige Schiedsrichter
-- Schiedsspruch endgültig (außer CAS-Berufung)
+- Bindungswirkung, Schiedssitz und statthafte Rechtsbehelfe gesondert prüfen; unionsrechtliche Kontrolle nicht pauschal ausschließen.
 
 ### Pfad 3 — CAS Lausanne (international)
 
@@ -87,7 +87,7 @@ Sportrecht ist überwiegend Schiedsrecht. **CAS Lausanne** als oberste Instanz, 
 ### Phase 5 — Schweizerisches Bundesgericht
 
 - Letzte Instanz
-- Nur Verfahrens-Fragen (kein zweiter Sachvortrag)
+- Beschränkte Anfechtungsgründe nach anwendbarem Schweizer Recht; davon die unionsrechtliche Kontrolle durch zuständige Gerichte eines Mitgliedstaats unterscheiden.
 
 ## Strategie und Taktik
 

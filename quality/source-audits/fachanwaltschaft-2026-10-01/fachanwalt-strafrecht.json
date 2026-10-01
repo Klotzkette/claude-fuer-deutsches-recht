@@ -1,0 +1,82 @@
+{
+  "plugin": "fachanwalt-strafrecht",
+  "checked_on": "2026-10-01",
+  "status": "two_current_relevant_highest_court_anchors_verified_and_covered",
+  "scope": "Gezielte amtliche Quellenprüfung der unten genannten Passagen; lokaler Kontext und Arbeitsablauf der drei Prompts sowie betroffene Skillpassagen. Keine erneute Vollprüfung sämtlicher Fachskills oder Normen.",
+  "sources": [
+    {
+      "citation": "BGH, Urteil vom 08.01.2026 – 3 StR 203/25",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Strafsenate/3_StS/2025/3_StR_203-25.pdf?__blob=publicationFile&v=1",
+      "passages": "Rn. 7–13 frisch; Rn. 14–15 aus Vorprüfung übernommen",
+      "application": "Einvernehmliche Beutelagerung mit tatsächlichem freien Zugriff kann Mitverfügung begründen, ohne ausdrückliche Abrede aller Hinterleute.",
+      "limit": "Weder Mittäterschaft noch Wohnungsinhaberschaft allein ersetzen tatsächliche Verfügung; spätere Weiterleitung beseitigt Erlangen nicht.",
+      "retrieval": "amtlicher Volltext, ausgewählte Gründe frisch gelesen",
+      "checked_on": "2026-10-01",
+      "previously_present": true
+    },
+    {
+      "citation": "BGH, Beschluss vom 04.08.2026 – 6 StR 160/26",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Strafsenate/6_StS/2026/6_StR_160-26.pdf?__blob=publicationFile&v=1",
+      "passages": "Tenor und Rn. 1–6, vollständiger Beschluss",
+      "application": "Sicherstellung widerspricht behauptetem Verkauf; gegenständliche Einziehung bei fortbestehender Beute von Erlöschen nach Rückgabe unterscheiden.",
+      "limit": "Konkrete revisionsgerichtliche Kürzung nicht auf sämtliche Sicherstellungen/Arrestbeträge übertragen.",
+      "retrieval": "amtlicher Volltext, ausgewählte Gründe frisch gelesen",
+      "checked_on": "2026-10-01",
+      "previously_present": true
+    }
+  ],
+  "fresh_or_reused": "Alle 16 ausgewählten Dokumente dieser acht Plugins in diesem Lauf amtlich neu abgerufen. Frisch gelesene Passagen und nur aus Vorprüfung übernommene Teilpassagen stehen je Quelle ausdrücklich im Feld passages; ältere sonstige Quellen wurden nicht neu als verifiziert etikettiert.",
+  "local_files_reviewed": [
+    "fachanwalt-strafrecht/fachanwalt-strafrecht-hauptproblem.md",
+    "fachanwalt-strafrecht/fachanwalt-strafrecht-schnellstart.md",
+    "fachanwalt-strafrecht/fachanwalt-strafrecht-werkstatt.md",
+    "fachanwalt-strafrecht/skills/einziehung-geldfluss-mitverfuegung-arrestabgleich/SKILL.md",
+    "fachanwalt-strafrecht/skills/juristischer-argumentationskern/SKILL.md"
+  ],
+  "changed_files": [
+    "fachanwalt-strafrecht/fachanwalt-strafrecht-schnellstart.md",
+    "fachanwalt-strafrecht/fachanwalt-strafrecht-werkstatt.md",
+    "fachanwalt-strafrecht/skills/einziehung-geldfluss-mitverfuegung-arrestabgleich/SKILL.md",
+    "fachanwalt-strafrecht/skills/juristischer-argumentationskern/SKILL.md",
+    "quality/evals/fachanwalt-strafrecht.json"
+  ],
+  "prompt_coverage": {
+    "werkstatt": {
+      "path": "fachanwalt-strafrecht/fachanwalt-strafrecht-werkstatt.md",
+      "characters": 29190,
+      "utf8_bytes": 29674,
+      "sha256": "bc0e69dec5e58778d4e288e4f23954a753fd43ebecd12231b9d9513d7e9a0e53",
+      "selected_source_urls_present": [
+        true,
+        true
+      ]
+    },
+    "schnellstart": {
+      "path": "fachanwalt-strafrecht/fachanwalt-strafrecht-schnellstart.md",
+      "characters": 7104,
+      "utf8_bytes": 7207,
+      "sha256": "90bd98997a4e9c303082076d1eaddef15d2867d58f2bae3d748485e042eaa0e4",
+      "selected_source_urls_present": [
+        true,
+        true
+      ]
+    },
+    "hauptproblem": {
+      "path": "fachanwalt-strafrecht/fachanwalt-strafrecht-hauptproblem.md",
+      "characters": 7340,
+      "utf8_bytes": 7470,
+      "sha256": "066d7d4b4f150c8c4e61aecff1ec312099eb9821240b7292f912974f85653830",
+      "selected_source_urls_present": [
+        true,
+        true
+      ]
+    }
+  },
+  "focus_scope": "Hauptproblem Einziehung enthält beide frisch nachgelesenen Entscheidungen bereits mit Datum, Aktenzeichen und amtlichem Direktlink. Inhalt unverändert; neue Konkretisierung im Werkstatt- und Einziehungsskill sowie fehlenden Sachbeuteanker im Mini ergänzt.",
+  "search_2026": "Beide einschlägigen 2026-Einziehungsentscheidungen frisch amtlich als PDF abgerufen. 6 StR 160/26 vollständig, 3 StR 203/25 ausgewählte Gründe erneut gelesen.",
+  "validation": "UTF-8-Byte- und Zeichengrenzen; beide Direktlinks in Werkstatt und Mini sowie vorhandenen Skills; Profilhashes nachgeführt. Keine neuen Modelltests oder globalen Generatoren.",
+  "limits": [
+    "Nur bezeichnete Entscheidungs- und angrenzende Workflowpassagen überprüft; kein Versprechen vollständiger Rechtssicherheit.",
+    "Vorhandene Normfassungen, Altfundstellen und Testakten außerhalb des beschriebenen Eingriffs nicht umfassend neu geprüft."
+  ]
+}

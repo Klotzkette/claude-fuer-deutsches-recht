@@ -17,6 +17,8 @@ Lies zuerst Satzung in der beim Anteilserwerb geltenden und der aktuellen Fassun
 
 Trenne Einziehung, Ausschluss, Abtretung und Kapitalherabsetzung. Prüfe Satzungsermächtigung und bei Einziehung ohne Zustimmung die zeitliche Voraussetzung des Paragrafen 34 Absatz 2 GmbHG. Beschluss-, Bewertungs-, Bekanntgabe- und Zahlungsstichtag in getrennten Spalten führen. Mehrheit, Stimmverbot, Vertretung und Beschlussangriff gesondert prüfen; eine offene Anfechtungsfrist nicht durch Bewertungsarbeit verstreichen lassen.
 
+[BGH, Urteil vom 21.04.2026 – Az. II ZR 50/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2025/II_ZR__50-25.pdf?__blob=publicationFile&v=1), Rn. 18–25: Bestreitet die GmbH die materielle Gesellschafterstellung ernstlich, kann trotz richtigem Listeneintrag ein Feststellungsinteresse bestehen. Liste, Erwerb und Bestreiten getrennt belegen. Formelle Legitimation nach Paragraf 16 GmbHG ersetzt weder materielle Berechtigung noch die Prüfung der Einziehungs- und Abfindungsvoraussetzungen.
+
 ### 3.2. Abfindungsrechnung
 
 Wende nur die konkret vereinbarte und auf Wirksamkeit geprüfte Bewertungsregel an. Leite Unternehmenswert, Beteiligungsquote, Zu- und Abschläge, Zinsen und Fälligkeiten belegbezogen her. Nennbetrag ist nicht automatisch Abfindungswert. Bei streitiger Klausel zeige deren Rechenfolge und eine begründete Alternativbewertung, ohne fiktive Markt-Multiplikatoren einzusetzen.

@@ -10,6 +10,10 @@ Prüfe internationale Zuständigkeit, anwendbares Sachrecht und Durchsetzung get
 
 Bei Warenkauf CISG-Anwendung nach Artikeln 1 bis 3 und 6 prüfen: Niederlassungen, Vertragsstaaten, Vorbehalte, Waren- und Leistungsart sowie Ausschluss. Die bloße Wahl deutschen Rechts schließt CISG nicht automatisch aus. Die Untersuchungs- und Rügefragen nach Artikeln 38 und 39 sind keine pauschale deutsche kaufmännische Rügefrist. Eine Nachfrist eröffnet bei mangelhafter Lieferung nicht automatisch die Aufhebung nach dem für Nichtlieferung geltenden Tatbestand.
 
+[EuGH, Urteil vom 27.02.2025 – Az. C-537/23, Società Italiana Lastre](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62023CJ0537), Rn. 57–67: Asymmetrische Gerichtsstandsklauseln nach Artikel 25 Brüssel-Ia-VO sind nicht allein wegen der Ungleichheit unwirksam. Gerichte müssen in EU-/Lugano-Staaten liegen und objektiv hinreichend bestimmbar sein; Schutzregeln und ausschließliche Zuständigkeiten bleiben zwingend. Klauselwortlaut nachfordern, keine weltweite Wahl beliebiger Gerichte freigeben.
+
+[BGH, Beschluss vom 16.07.2026 – Az. I ZB 107/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2025/I_ZB_107-25.pdf?__blob=publicationFile&v=1), Rn. 36–43: Bei ausländischem Schiedsspruch internationale Zuständigkeit nach Paragraf 1025 Absatz 4 ZPO und örtliche Zuständigkeit getrennt bestimmen. Inländisches Staatsvermögen kann ein Rechtsschutzbedürfnis tragen, auch wenn Vollstreckungsimmunität besteht. Titelanerkennung erlaubt noch keinen Zugriff auf immunes Vermögen; Vermögensort und konkrete Vollstreckungsmaßnahme gesondert prüfen.
+
 ## 1.2. Lieferstreit rechnerisch aufbereiten
 
 Ordne Vertrag, Charge, Lieferausfall, Rüge, Aufhebung und Ersatzgeschäft zeitlich zu. Bei Deckungskauf Original- und Ersatzmengen, Qualität, Preis, Währung und Fracht vergleichen. Sammelbestellungen in Ersatz- und Vorratskäufe aufteilen. Vor Aufhebung geschlossene Ersatzgeschäfte nicht automatisch nach Artikel 75 CISG abrechnen. Artikel 74 gegebenenfalls gesondert prüfen.

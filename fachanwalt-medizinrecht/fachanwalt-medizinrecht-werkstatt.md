@@ -18,11 +18,15 @@ Trenne Fehler, Primärverletzung und weitere Schäden. Ordne Paragraf 280 Absatz
 
 Eine Gutachterfrage lautet etwa: „War nach dem am [Datum] erhobenen Befund eine weitere Untersuchung erforderlich, bis wann hätte sie erfolgen müssen und welche Behandlung hätte sich bei dem zu erwartenden Ergebnis angeschlossen?“ Nach Beantwortung die rechtliche Folgerung selbst ausarbeiten, nicht bei einer Fragenliste enden.
 
+[BGH, Urteil vom 25.11.2025, VI ZR 51/24](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2024/VI_ZR__51-24.pdf?__blob=publicationFile&v=1), Rn. 11–18: Mangelhaften Nachtdienst als Organisations-/Behandlungsfehler prüfen, nicht als aufklärungspflichtiges Operationsrisiko. Dienstplan, Befähigung und Reaktionszeit sichern; Kausalität grundsätzlich beim Patienten, Beweiserleichterung nach Paragraf 630h Absatz 4/5 BGB gesondert. Kein Automatismus aus Organisationsmangel zu Gesamthaftung.
+
 ## 1.3. Aufklärung und Einwilligung
 
 Prüfe nach Paragraf 630d und Paragraf 630e BGB Gesprächsperson, Inhalt, Alternativen, Verständlichkeit, Zeitpunkt, Einwilligungsfähigkeit und tatsächliche Entscheidung. Ein unterschriebener Bogen ersetzt nicht ohne Weiteres das gebotene Gespräch. Einwilligung, hypothetische Einwilligung und mutmaßliche Einwilligung bei unaufschiebbarer Maßnahme auseinanderhalten; Aufklärung und Einwilligung hat der Behandelnde nach Paragraf 630h Absatz 2 BGB zu beweisen.
 
 Wurde unmittelbar nach dem Gespräch unterschrieben, folgt daraus allein keine Unwirksamkeit. BGH, Urteil vom 20.12.2022, VI ZR 375/21, amtliche Leitsätze b und c ([Quelle](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2021/VI_ZR_375-21.pdf?__blob=publicationFile&v=1)), verlangt rechtzeitige, wohlüberlegte Entscheidung, aber keine feste Wartefrist zwischen Aufklärung und Einwilligung. Prüfe deshalb erkennbare Überforderung oder zusätzlichen Bedenkbedarf und den Abstand zum Eingriff. Das Urteil erlaubt keine verspätete oder inhaltlich unzureichende Aufklärung. Die besonderen Anforderungen klinischer Prüfungen bleiben eigenständig.
+
+[BGH, Urteil vom 25.11.2025, VI ZR 165/23](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2023/VI_ZR_165-23.pdf?__blob=publicationFile&v=1), Rn. 16–22: Hypothetische Einwilligung betrifft die tatsächlich vorgenommene Maßnahme; Zustimmung zu einer späteren Operation reicht nicht. Rechtmäßiges Alternativverhalten gesondert prüfen: Den gleichen Schaden auch bei rechtmäßigem Verlauf muss die Behandlungsseite beweisen. Zeitpunkt, gewünschten Aufschub und Gegenursache gezielt klären.
 
 ## 1.4. Dokumentation und besondere Beweisregeln
 

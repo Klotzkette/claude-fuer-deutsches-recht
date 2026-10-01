@@ -1,4 +1,4 @@
-# 1. Bau- und Architektenrecht: Forderungen prüfen und Schreiben ausarbeiten
+# 1. Bau- und Architektenrecht: Forderung und Abwehr
 
 Gleiche vereinbarte Bauleistung, Ausführung und Abrechnung ab: Ist Werklohn fällig, ein Nachtrag vergütungspflichtig oder wegen eines Mangels Nachbesserung, Vorschuss oder Ersatz geschuldet? Begründe die beauftragte Forderung oder Abwehr anhand der Bauakte. Eine Beratungsfrage verlangt keinen ungefragten Bauprozess.
 
@@ -12,9 +12,7 @@ Bestimme das beweisbar vereinbarte Vertragssoll und den maßgeblichen Planstand.
 
 ## 1.2. Nachweise ergänzen und die Bearbeitung fortsetzen
 
-Bei unklarem Abnahmestand fordere das erwähnte Protokoll oder die konkrete Erklärung an. Bei Nachträgen frage nach der fehlenden Anordnung und ihrem Inhalt; bei Bauzeitforderungen nach Tagesnachweisen der betroffenen Ressource. Übernimm die Antwort in Fälligkeit, Beweislastzuordnung oder Berechnung und ändere das bestellte Dokument entsprechend.
-
-Zeigen neue Belege einen entscheidenden Widerspruch, kläre ihn in einer weiteren kurzen Runde; bekannte Projektdaten werden nicht erneut erhoben. Liefere unabhängige Teile vorläufig und führe nach der Antwort bis zur fertigen Fassung fort. Stelle auch in Nachforderungen weder technische Ursache noch Stillstand ohne Beleg als Tatsache dar.
+Fordere bei offener Abnahme Protokoll/Erklärung, bei Nachträgen die konkrete Anordnung, bei Bauzeitforderungen Tagesnachweise der Ressource an. Danach Fälligkeit, Beweislast, Rechnung und Dokument berichtigen. Neue Widersprüche gezielt klären; Bekanntes behalten. Unabhängige Teile vorläufig liefern, nach Antwort abschließen. Technische Ursache und Stillstand nicht ohne Beleg behaupten.
 
 ## 1.3. Abnahme und Mängel
 
@@ -23,6 +21,8 @@ Prüfe Abnahme oder Abnahmereife anhand der konkreten Erklärung und Voraussetzu
 Vergleiche Soll und Ist nach Paragrafen 631, 633 und 634 BGB. Bezeichne Mangelerscheinung, Ort, Zeitpunkt und Nachweise; trenne Ursache, Verantwortlichkeit und mögliche Beiträge anderer Beteiligter. Prüfe für die verlangte Nacherfüllung, Selbstvornahme, Vorschuss- oder Schadensforderung Fristsetzung und weitere Voraussetzungen. Vor einer Veränderung des Zustands kann gezielte Beweissicherung nötig sein.
 
 Formuliere bei offener technischer Frage den benötigten Gutachterauftrag. Bei mehreren Verantwortlichen begründe Pflichtverletzung, Kausalität und mögliche Gesamtschuld getrennt. Fiktive Mängelbeseitigungskosten dürfen nicht ungeprüft als werkvertraglicher Schaden abgerechnet werden.
+
+Bei Vertreterabnahme [BGH, Urteil vom 26.03.2026, VII ZR 68/24](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2024/VII_ZR__68-24.pdf?__blob=publicationFile&v=1), Rn. 36–43 und 53–54, prüfen: Formularzwang zur Abnahme durch drei Erwerbervertreter ist unwirksam; freiwillige Vollmacht gesondert prüfen. Altvertrag nach AGBG/BGB a.F.; die äußerste 30-Jahres-Grenze ab fehlgeschlagener Abnahme ist keine allgemeine Gewährleistungsfrist und lässt frühere Verjährung/Verwirkung unberührt.
 
 ## 1.4. Nachtrag und Bauablauf
 
@@ -34,7 +34,7 @@ Bei fehlenden Plänen oder Vorleistungen wende [BGH, Urteil vom 30.01.2020, VII 
 
 ## 1.5. Planung, Honorar und Projektbindungen
 
-Bei Planerhaftung gilt BGH, Urteil vom 15.01.2026, VII ZR 119/24, Rn. 63–77: Entwurfs- und Koordinationsfehler können dem Besteller gegenüber dem Ausführungsplaner zugerechnet werden, bloße Überwachungsfehler nicht. Gegenüber dem Koordinator regelmäßig keine Zurechnung fremder Planungsfehler, soweit seine Aufgabe keine mangelfreien Pläne voraussetzt. Auftrag und konkrete Mitwirkung getrennt prüfen; keine pauschale Quote. Für das Honorar sind Beauftragungsdatum, Vertragsinhalt und anwendbare HOAI-Fassung maßgeblich; fehlende Berechnungsparameter werden gezielt angefordert.
+Bei Planerhaftung gilt [BGH, Urteil vom 15.01.2026, VII ZR 119/24](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2024/VII_ZR_119-24.pdf?__blob=publicationFile&v=1), Rn. 63–77: Entwurfs- und Koordinationsfehler können dem Besteller gegenüber dem Ausführungsplaner zugerechnet werden, bloße Überwachungsfehler nicht. Gegenüber dem Koordinator regelmäßig keine Zurechnung fremder Planungsfehler, soweit seine Aufgabe keine mangelfreien Pläne voraussetzt. Auftrag und konkrete Mitwirkung getrennt prüfen; keine pauschale Quote. Für das Honorar sind Beauftragungsdatum, Vertragsinhalt und anwendbare HOAI-Fassung maßgeblich; fehlende Berechnungsparameter werden gezielt angefordert.
 
 Bei städtebaulichen Verträgen untersuche Folgekosten, Erschließung, Durchführungsvertrag, Kausalität und Angemessenheit nach dem konkreten Projekt. Übersetze Bebauungsplan, BauNVO-Werte, Baufenster, örtliche Bauvorschriften und Befreiungsbedarf in die betroffenen Planungspflichten. Prüfe Genehmigungsrisiko, privatrechtliche Pflicht und Kostenweitergabe getrennt.
 
@@ -42,7 +42,7 @@ Bei städtebaulichen Verträgen untersuche Folgekosten, Erschließung, Durchfüh
 
 Bei behaltenem mangelhaftem Werk gilt BGH, Urteil vom 22.02.2018, VII ZR 46/17, Rn. 31–37 und 48–54: Ohne Beseitigung keine Schadensberechnung nach fiktiven Beseitigungskosten. Bei wirklicher Beseitigungsabsicht Vorschuss nach Paragraf 637 Absatz 3 BGB prüfen, zweckgebunden und abzurechnen; nicht ungeprüft auf Kaufrecht übertragen. Weitere tragende Quellen amtlich prüfen, keine Fundstellen erfinden.
 
-Liefere die bestellte Mängelrüge, Nachtragsbewertung, Beratung, Vertragsfassung, Gutachterfrage oder Verfahrensschrift vollständig ausformuliert. Mengen-, Zeit- und Belegvergleiche werden nur beigefügt, soweit das Ergebnis sie benötigt. Verwende den gewünschten Dateinamen; `ergebnis.md` ist nur ein Vorschlag bei fehlender Vorgabe.
+Liefere Mängelrüge, Nachtragsbewertung, Beratung, Vertrag, Gutachterfrage oder Verfahrensschrift ausformuliert unter dem gewünschten Dateinamen. Mengen-, Zeit- und Belegvergleiche nur soweit nötig beifügen.
 
 Benenne entscheidende offene Punkte und setze nach ihrer Klärung fort. Halte Quellenabrufe und interne Kontrollen getrennt vom Mandantenbrief. Bei bevorstehender Abnahme, Kündigung oder Sicherheitenabruf priorisiere den dringenden Entwurf; externe Erklärungen, Beauftragungen und Einreichungen benötigen ausdrückliche Freigabe.
 

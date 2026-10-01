@@ -1,0 +1,78 @@
+{
+  "plugin": "fachanwalt-it-recht",
+  "checked_on": "2026-10-01",
+  "method": "fresh_official_primary_passages_and_targeted_text_review",
+  "scope": "Zwei aktuelle oberstgerichtliche Anker in Werkstatt, Mini und sachlich passenden vorhandenen Fachskills; Hauptproblem nur nach konkreter Einschlägigkeit.",
+  "decisions": [
+    {
+      "court": "BGH",
+      "decision_type": "Urteil",
+      "decision_date": "31.07.2025",
+      "docket": "I ZR 157/21 – Action Replay II",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2021/I_ZR_157-21A.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-01",
+      "read_passages": "Rn. 12–23; insbesondere 19–23",
+      "holding": "Im geprüften Fall keine Umarbeitung durch bloße Veränderung von Laufzeitvariablen ohne Codeänderung oder Ermöglichung der Vervielfältigung; technische Ebene der Änderungen nachweisen.",
+      "transfer_limit": "Kein allgemeiner Freibrief für Softwareeingriffe; Vertrag, Codekopie, Schutzmaßnahmen und andere Anspruchsgrundlagen gesondert, keine ERP-Abnahmeentscheidung.",
+      "retrieval": "Amtlicher BGH-PDF-Volltext frisch heruntergeladen; bezeichnete Passagen gelesen.",
+      "verification_status": "fresh_primary_passages",
+      "sha256": "a1809b2afa6811438542f9ccbf8bafc95eb74c523b2b3ed713f7b45e7868abf4",
+      "citation": "BGH, Urteil vom 31.07.2025 – Az. I ZR 157/21 – Action Replay II"
+    },
+    {
+      "court": "BGH",
+      "decision_type": "Beschluss",
+      "decision_date": "17.07.2025",
+      "docket": "I ZB 82/24 – Cloudnutzung",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2024/I_ZB__82-24.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-01",
+      "read_passages": "Leitsätze a–c; Rn. 17–25",
+      "holding": "Privatkopien in Cloud können vergütungspflichtig sein; Cloud-Dienstleister sind keine Geräte-/Speichermedien-Abgabenschuldner nach Paragrafen54,54bUrhG.",
+      "transfer_limit": "Keine Aussage über SaaS-Vertragspreis, allgemeinen kostenlosen Werkkonsum, AVV oder Drittlandtransfer; keine analoge Geräteabgabe mangels planwidriger Lücke.",
+      "retrieval": "Amtlicher BGH-PDF-Volltext frisch heruntergeladen; bezeichnete Passagen gelesen.",
+      "verification_status": "fresh_primary_passages",
+      "sha256": "2c3e1684bb55aacf9106d3f0216c7b4226334e024a41bc30bf19f5ec116ee852",
+      "citation": "BGH, Beschluss vom 17.07.2025 – Az. I ZB 82/24 – Cloudnutzung"
+    }
+  ],
+  "files_read_for_context": [
+    "fachanwalt-it-recht/fachanwalt-it-recht-hauptproblem.md",
+    "fachanwalt-it-recht/fachanwalt-it-recht-schnellstart.md",
+    "fachanwalt-it-recht/fachanwalt-it-recht-werkstatt.md",
+    "fachanwalt-it-recht/skills/erp-abnahme-nachtraege-belegabgleich/SKILL.md",
+    "fachanwalt-it-recht/skills/it-recht-cloud-vertrag-datenschutz-due-diligence/SKILL.md",
+    "fachanwalt-it-recht/skills/lizenz-risikoampel-und-gegenargumente/SKILL.md"
+  ],
+  "files_changed": [
+    "fachanwalt-it-recht/fachanwalt-it-recht-schnellstart.md",
+    "fachanwalt-it-recht/fachanwalt-it-recht-werkstatt.md",
+    "fachanwalt-it-recht/skills/it-recht-cloud-vertrag-datenschutz-due-diligence/SKILL.md",
+    "fachanwalt-it-recht/skills/lizenz-risikoampel-und-gegenargumente/SKILL.md"
+  ],
+  "changes": "Zwei einschlägige 2025-BGH-Entscheidungen zu Code/Daten und Cloudabgaben ergänzt. Frische 2026-Recherche erbrachte für diese konkret bearbeiteten Vertragsfragen keinen geeigneteren belegten 2026-Anker; angekündigte Termine sind keine Urteile. Mini sprachlich verdichtet, Schritte und vorhandene Regulierungsregeln erhalten.",
+  "focus_scope": "ERP-Abnahme-/Nachtrags-Hauptproblem und Fokusskill unverändert: Die Softwareurheber-/Gerätevergütungsfälle tragen deren Kern nicht. Bestehender VII ZR301/13-Anker bleibt. Neue Anker in Lizenz- und Cloud-Fachskills.",
+  "prompt_sizes": {
+    "schnellstart": {
+      "characters": 7290,
+      "utf8_bytes": 7388,
+      "sha256": "24203d5ed46c0130bd83fce745b4efd54b48bf3062174daf10f86060ce1794ab"
+    },
+    "hauptproblem": {
+      "characters": 6661,
+      "utf8_bytes": 6759,
+      "sha256": "aad81e03bd0237f7253a3dfd4f985c87f107c95fa7345ea22c8eb8ce064b7c87"
+    },
+    "werkstatt": {
+      "characters": 24992,
+      "utf8_bytes": 25342,
+      "sha256": "83074f9812171feaeb5a92f6922509f25f527c59b6ddc0b75faf13e341623610"
+    }
+  },
+  "text_mirrors": "Keine vorhandenen TXT-Spiegel in diesem Plugin; keine neuen Doppelkopien erzeugt.",
+  "limits": [
+    "Keine Vollverifikation aller Altentscheidungen oder aller Fachskills.",
+    "Kein neuer Live-Modell-, Mandats-, Export- oder Dokumentrendertest.",
+    "Vorhandene Regulierungs- und Spezialanker außerhalb der bezeichneten Entscheidungen nicht umfassend neu geprüft."
+  ],
+  "search_2026_result": "Beide passenden Entscheidungen stammen aus 2025; 2026-Suche ohne geeigneteren belegten Fall für diese konkreten Fragen. Kein Terminhinweis als Entscheidung übernommen."
+}

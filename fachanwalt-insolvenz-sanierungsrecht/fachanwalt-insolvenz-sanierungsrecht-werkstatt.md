@@ -28,6 +28,10 @@ Prüfe für Paragraf 19 Absatz 2 InsO Fortbestehensprognose und gegebenenfalls �
 
 Leite einen möglichen Beginn der Antragspflicht aus den Tatsachen ab und prüfe die anwendbaren Fristen, statt Höchstfristen als frei nutzbare Wartezeit zu behandeln. Bei geänderten Fälligkeiten oder Zuflüssen müssen Berechnung, Prognose und zeitliche Bewertung gemeinsam aktualisiert werden.
 
+[BGH, Urteil vom 12.03.2026 – Az. IX ZR 18/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZR__18-25.pdf?__blob=publicationFile&v=1), Rn. 24–32: Fällige Schulden und verfügbare Mittel geordnet gegenüberstellen. Tatsächlich geleistete Drittmittel nicht allein wegen fehlenden Rechtsanspruchs ausschließen; kurzfristige Verfügbarkeit konkret belegen. Bloße Hilfszusagen sind kein Geldzufluss. Aussage zur Zahlungsunfähigkeit im Anfechtungsprozess, keine automatische Entlastung nach Paragraf 15b InsO.
+
+[BGH, Urteil vom 23.01.2025 – Az. IX ZR 229/22](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2022/IX_ZR_229-22.pdf?__blob=publicationFile&v=1), Rn. 34–45: Bei vorläufig vollstreckbarem Titel, erfüllten Vollstreckungsvoraussetzungen und eingeleiteter Vollstreckung die streitige Schuld im Status zum Nennwert ansetzen, ohne Prozessrisikoabschlag. Titel, Zustellung, Sicherheit und Vollstreckungsbeginn anfordern. Subjektive Kenntnis und Organhaftung folgen daraus nicht automatisch.
+
 ## 1.4. Zahlungen und Organhaftung
 
 Untersuche Zahlungen nach Paragraf 15b InsO einzeln mit Datum, Betrag, Empfänger, Zweck, maßgeblicher Insolvenzreife und behauptetem Entlastungsgrund. Trenne Bruttoabfluss von rechtlich anzurechnenden Rückflüssen oder Gegenleistungen. Ein Bankauszug belegt den Zahlungsvorgang, nicht allein seine Zulässigkeit oder den ersatzfähigen Betrag.

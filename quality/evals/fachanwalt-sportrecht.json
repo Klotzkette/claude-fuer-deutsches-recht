@@ -37,17 +37,36 @@
       "url": "https://www.gesetze-im-internet.de/tzbfg/__17.html",
       "supports": "Erneuter Normabruf zur Dreiwochenfrist nach vereinbartem Ende und Sonderfall fortgesetzter Arbeit; Optionsstreit und Prämienforderung getrennt halten.",
       "checked_on": "2026-09-23"
+    },
+    {
+      "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=303003&doclang=DE",
+      "checked_on": "2026-10-01",
+      "supports": "EuGH, Urteil vom 01.08.2025, C-600/23: Bei faktisch aufgezwungenem CAS-Verfahren und wirtschaftlichem EU-Bezug wirksame Kontrolle des EU-ordre-public durch zuständige mitgliedstaatliche Gerichte einschließlich Eilrechtsschutz sicherstellen. Grenze: Kein universelles neues Berufungsgericht und keine Vollrevision sämtlicher Tatsachen; gerichtliche Zuständigkeit und Streitgegenstand bleiben gesondert. Gelesen: Deutscher Entscheidungskopf und Rn. 96–112",
+      "verification_status": "frisch_amtlicher_volltext_passagen",
+      "source_sha256": "a857d7d981f00569b53c57952850f8cc347649344f9174235ced320873b48bda",
+      "source_audit": "quality/source-audits/fachanwaltschaft-2026-10-01/fachanwalt-sportrecht.json"
+    },
+    {
+      "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=313633&doclang=DE",
+      "checked_on": "2026-10-01",
+      "supports": "EuGH, Urteil vom 16.07.2026, C-424/24 und C-425/24: Berufsbezogene Verbandssanktionen brauchen überprüfbare verhältnismäßige Kriterien und wirksame gerichtliche Kontrolle einschließlich Aufhebung und Eilschutz. Grenze: Kein Recht auf zwei Instanzen: nachgelagerte Entschädigungskontrolle kann genügen, wenn bereits das letztinstanzliche Sportorgan sämtliche EU-Gerichtsanforderungen erfüllt. Gelesen: Deutscher Entscheidungskopf, Rn. 111–117; englische amtliche Fassung Rn. 78–80, 87–114",
+      "verification_status": "frisch_amtlicher_volltext_passagen",
+      "source_sha256": "e2594ce3893f0ce135426934da84d3a9dd019b1060587dfa021dafa5715b3ace",
+      "source_audit": "quality/source-audits/fachanwaltschaft-2026-10-01/fachanwalt-sportrecht.json"
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Schnellstart vollständig individuell gelesen und überarbeitet: Einsätze, Optionsschwelle und Prämien aus Vertrag und Spielberichten abgleichen. Sportlich begründete Nichtaufstellung von treuwidriger Verhinderung unterschieden; Hauptproblem verlangt konkrete Motive statt allein Budgetindizien. Redaktionelle Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Spielbericht erhöht 44 auf 45 Einsätze oder ein Spiel wurde abgebrochen -> Prämienrechnung, Optionsschwelle und hypothetische Einsatzkausalität getrennt ändern.",
+    "reason": "Schnellstart vollständig individuell gelesen und überarbeitet: Einsätze, Optionsschwelle und Prämien aus Vertrag und Spielberichten abgleichen. Sportlich begründete Nichtaufstellung von treuwidriger Verhinderung unterschieden; Hauptproblem verlangt konkrete Motive statt allein Budgetindizien. Redaktionelle Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Spielbericht erhöht 44 auf 45 Einsätze oder ein Spiel wurde abgebrochen -> Prämienrechnung, Optionsschwelle und hypothetische Einsatzkausalität getrennt ändern. Gezielte Fachanwalts-Aktualisierung 01.10.2026: Zwei EuGH-Urteile 2025/2026 mit Volltext statt nur Ankündigung/Suchverweis; unzulässige Pauschalbehauptung von Schiedsspruch-Endgültigkeit in beiden vorhandenen CAS-Fassungen korrigiert. Kein neuer Live-Modelltest.",
     "changes": [
       "Sportlich begründete Nichtaufstellung von treuwidriger Verhinderung unterschieden; Hauptproblem verlangt konkrete Motive statt allein Budgetindizien.",
       "Kernfall mit operativem Entscheidungsanker, gezielten Nachfragen und Fortsetzung zum vollständigen angeforderten Dokument.",
-      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
+      "Zwei EuGH-Urteile 2025/2026 mit Volltext statt nur Ankündigung/Suchverweis; unzulässige Pauschalbehauptung von Schiedsspruch-Endgültigkeit in beiden vorhandenen CAS-Fassungen korrigiert."
     ],
-    "sha256": "d65121c78054962d231432728731446f714dd0e33451ddadbdfc0374273c4808"
+    "sha256": "a71ad71358c87b2dcceb6ca1cd7f3e01326a76c037f3b500704ace10eca22686",
+    "reviewed_on": "2026-10-01",
+    "method": "desk_review"
   },
   "focus_review": {
     "reviewed_on": "2026-09-23",
@@ -118,23 +137,29 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt vollständig individuell gelesen und überarbeitet: Einsätze, Optionsschwelle und Prämien aus Vertrag und Spielberichten abgleichen. Sportlich begründete Nichtaufstellung von treuwidriger Verhinderung unterschieden; Hauptproblem verlangt konkrete Motive statt allein Budgetindizien. Redaktionelle Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Vertragliche Einsatzdefinition und korrigierte Statistik, sportliche Gegenursache, Optionsausübung gegenüber Schwelle, Befristungsrechtsschutz, konkrete Verbandsregeln, Probenkette und kampagnenbezogene Sponsorenleistung.",
+    "reason": "Werkstatt vollständig individuell gelesen und überarbeitet: Einsätze, Optionsschwelle und Prämien aus Vertrag und Spielberichten abgleichen. Sportlich begründete Nichtaufstellung von treuwidriger Verhinderung unterschieden; Hauptproblem verlangt konkrete Motive statt allein Budgetindizien. Redaktionelle Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Vertragliche Einsatzdefinition und korrigierte Statistik, sportliche Gegenursache, Optionsausübung gegenüber Schwelle, Befristungsrechtsschutz, konkrete Verbandsregeln, Probenkette und kampagnenbezogene Sponsorenleistung. Gezielte Fachanwalts-Aktualisierung 01.10.2026: Zwei EuGH-Urteile 2025/2026 mit Volltext statt nur Ankündigung/Suchverweis; unzulässige Pauschalbehauptung von Schiedsspruch-Endgültigkeit in beiden vorhandenen CAS-Fassungen korrigiert. Kein neuer Live-Modelltest.",
     "changes": [
       "Sportlich begründete Nichtaufstellung von treuwidriger Verhinderung unterschieden; Hauptproblem verlangt konkrete Motive statt allein Budgetindizien.",
       "Vorhandene Fachzweige, Beispiele und Zugriffsalternativen erhalten; schwache Rechtsprechungshinweise entfernt oder auf belegte Reichweite begrenzt.",
-      "Vertragliche Einsatzdefinition und korrigierte Statistik, sportliche Gegenursache, Optionsausübung gegenüber Schwelle, Befristungsrechtsschutz, konkrete Verbandsregeln, Probenkette und kampagnenbezogene Sponsorenleistung."
+      "Vertragliche Einsatzdefinition und korrigierte Statistik, sportliche Gegenursache, Optionsausübung gegenüber Schwelle, Befristungsrechtsschutz, konkrete Verbandsregeln, Probenkette und kampagnenbezogene Sponsorenleistung.",
+      "Zwei EuGH-Urteile 2025/2026 mit Volltext statt nur Ankündigung/Suchverweis; unzulässige Pauschalbehauptung von Schiedsspruch-Endgültigkeit in beiden vorhandenen CAS-Fassungen korrigiert."
     ],
-    "sha256": "5be5f0d53621df15cfdd5431c69b752012688fbb2257aff61cf80ec146c875b6"
+    "sha256": "ebaa2985325c05e066f2dfcb3953fa4b0e0fe20956eddffa133a596b9df34fb0",
+    "reviewed_on": "2026-10-01",
+    "method": "desk_review"
   },
   "prompt_editorial_review": {
-    "date": "2026-09-23",
+    "date": "2026-10-01",
     "files": [
       "fachanwalt-sportrecht/README.md",
       "fachanwalt-sportrecht/fachanwalt-sportrecht-hauptproblem.md",
       "fachanwalt-sportrecht/fachanwalt-sportrecht-werkstatt.md",
       "fachanwalt-sportrecht/fachanwalt-sportrecht-schnellstart.md",
       "fachanwalt-sportrecht/skills/spielereinsaetze-optionsschwelle-praemienbeweis/SKILL.md",
-      "quality/evals/fachanwalt-sportrecht.json"
+      "quality/evals/fachanwalt-sportrecht.json",
+      "fachanwalt-sportrecht/skills/cas-dis-sport-verbands-schiedsverfahren/SKILL.md",
+      "fachanwalt-sportrecht/skills/fachanwalt-sportrecht-cas-dis-sport-verbands-schiedsverfahren/SKILL.md",
+      "fachanwalt-sportrecht/skills/verbandsstrafe-anfechten/SKILL.md"
     ],
     "opening_change": "Einsätze, Optionsschwelle und Prämien aus Vertrag und Spielberichten abgleichen Workflow-Ergänzung: Leer: Einsatzprämie und Option, Verbandsrechtsbehelf oder Sponsoring anbieten. Dateien ohne Aufgabe: Spielberichte, Vertrag und Verbandsentscheidung still lesen; Vergütungs-, Vertrags- oder Rechtsbehelfsziel klären. Klarer Auftrag: Anspruch, Abwehr oder Vertragsfassung unmittelbar schreiben; kein ungefragtes Sportrechtsaudit.",
     "norms": [
@@ -149,12 +174,35 @@
         "limit": "Volltext Rn. 31 bis 44; keine allgemeine Wirksamkeitsbestätigung sämtlicher Options- oder Prämienklauseln.",
         "checked_on": "2026-09-25",
         "verification_status": "wiederverwendeter_auditnachweis"
+      },
+      {
+        "citation": "EuGH, Urteil vom 01.08.2025, C-600/23",
+        "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=303003&doclang=DE",
+        "application": "Bei faktisch aufgezwungenem CAS-Verfahren und wirtschaftlichem EU-Bezug wirksame Kontrolle des EU-ordre-public durch zuständige mitgliedstaatliche Gerichte einschließlich Eilrechtsschutz sicherstellen.",
+        "limit": "Kein universelles neues Berufungsgericht und keine Vollrevision sämtlicher Tatsachen; gerichtliche Zuständigkeit und Streitgegenstand bleiben gesondert.",
+        "checked_on": "2026-10-01",
+        "verification_status": "frisch_amtlicher_volltext_passagen",
+        "passages_read": "Deutscher Entscheidungskopf und Rn. 96–112",
+        "source_sha256": "a857d7d981f00569b53c57952850f8cc347649344f9174235ced320873b48bda",
+        "source_audit": "quality/source-audits/fachanwaltschaft-2026-10-01/fachanwalt-sportrecht.json"
+      },
+      {
+        "citation": "EuGH, Urteil vom 16.07.2026, C-424/24 und C-425/24",
+        "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=313633&doclang=DE",
+        "application": "Berufsbezogene Verbandssanktionen brauchen überprüfbare verhältnismäßige Kriterien und wirksame gerichtliche Kontrolle einschließlich Aufhebung und Eilschutz.",
+        "limit": "Kein Recht auf zwei Instanzen: nachgelagerte Entschädigungskontrolle kann genügen, wenn bereits das letztinstanzliche Sportorgan sämtliche EU-Gerichtsanforderungen erfüllt.",
+        "checked_on": "2026-10-01",
+        "verification_status": "frisch_amtlicher_volltext_passagen",
+        "passages_read": "Deutscher Entscheidungskopf, Rn. 111–117; englische amtliche Fassung Rn. 78–80, 87–114",
+        "source_sha256": "e2594ce3893f0ce135426934da84d3a9dd019b1060587dfa021dafa5715b3ace",
+        "source_audit": "quality/source-audits/fachanwaltschaft-2026-10-01/fachanwalt-sportrecht.json"
       }
     ],
     "remaining_limits": [
       "Desk- und Quellenprüfung, kein Live-Client- oder Modelltest; übrige Fachzweige nicht vollständig rechtlich neu verifiziert.",
       "Volltext Rn. 31 bis 44; keine allgemeine Wirksamkeitsbestätigung sämtlicher Options- oder Prämienklauseln.",
-      "Workflow-Review 23.09.2026: Paragraf 17 TzBfG erneut eingesehen; individuelle Verbands- und Anti-Doping-Regeln nicht als neu vollständig verifiziert dargestellt."
+      "Workflow-Review 23.09.2026: Paragraf 17 TzBfG erneut eingesehen; individuelle Verbands- und Anti-Doping-Regeln nicht als neu vollständig verifiziert dargestellt.",
+      "Fachanwaltsaktualisierung 01.10.2026: zwei ausgewählte aktuelle Entscheidungen frisch im amtlichen Volltext passagenbezogen geprüft; keine Gesamtneuverifikation aller Altanker oder neuen Modelltests. Hauptproblem betrifft Einsatzschwellen/Vertragsoption/Prämien. EU-Kontrolle von Verbandssanktionen ersetzt BAG 7 AZR 312/16 zur treuwidrigen Bedingungsverhinderung nicht."
     ]
   },
   "prompt_workflow_review": {
@@ -176,5 +224,14 @@
     "status": "Ankerkontext gelesen; Quellenstatus je Entscheidung im Bericht differenziert.",
     "registry_changes": [],
     "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
+  },
+  "source_audit_fachanwaltschaft_2026_10_01": {
+    "report": "quality/source-audits/fachanwaltschaft-2026-10-01/fachanwalt-sportrecht.json",
+    "scope": "Zwei ausgewählte aktuelle Entscheidungen, amtlicher Volltext und operative Prompt-/Skillanwendung; keine pauschale Gesamtprüfung.",
+    "decisions": [
+      "EuGH, Urteil vom 01.08.2025, C-600/23",
+      "EuGH, Urteil vom 16.07.2026, C-424/24 und C-425/24"
+    ],
+    "new_model_test": false
   }
 }

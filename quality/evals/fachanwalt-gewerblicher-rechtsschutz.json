@@ -56,27 +56,33 @@
     {
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2022/I_ZR__96-22A.pdf?__blob=publicationFile&v=4",
       "checked_on": "2026-10-01",
-      "supports": "Kopf/Leitsätze/Tenor und tragende Gründe Rn. 20–32, 56–66. Originalität objektiv am Werk bestimmen, keine erhöhte Schwelle für angewandte Kunst; wiedererkennbare Übernahme kreativer Elemente statt eigenständigem Gesamteindruckstest. Grenze: Designrechtliche Eigenart bleibt anderer Maßstab; neue Gestaltung insgesamt betrachten. Urheberrechtliche Anträge zurückverwiesen, Schutz des Möbelsystems nicht endgültig festgestellt. PDF ohne A ist Vorlagebeschluss 2023."
+      "supports": "Kein eigenständiger urheberrechtlicher Gesamteindruckstest: geschützte kreative Elemente in der insgesamt betrachteten neuen Gestaltung identifizieren. Grenze: Zurückverweisung; kein endgültiger Schutzbefund für USMHaller, keine Aussage zu Lizenzhöhe oder Gewinnquote; Designprüfung bleibt eigenständig."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62023CJ0580",
+      "checked_on": "2026-10-01",
+      "supports": "Originalität freier kreativer Entscheidungen von Design-Neuheit und Eigenart trennen; keine höhere Originalitätsschwelle für angewandte Kunst; wiedererkennbare kreative Elemente für Verletzung maßgeblich. Grenze: Nicht mit Schlussanträgen vom08.05.2025 verwechseln; keine Schadensberechnung, keine Aussage zu bloßen Lichtbildern nach Paragraf72UrhG."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten.",
+    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten. 01.10.2026: gezielter amtlicher Quellen- und Textabgleich der zwei Fachgebietsanker; kein neuer Live-Modelltest. Hauptproblem und Fokusskill zur isolierten Design-Verletzergewinnrechnung unverändert: Die beiden neuen Schutz-/Verletzungsanker bestimmen weder Kostenabzug noch Gewinnquote. Die breite Werkstatt/Mini und vorhandener Design-Grundlagenskill enthalten beide.",
     "changes": [
       "Gemeinkostenanteil in allen drei Prompts und Fokus-Skill integriert",
       "Gewinn und hypothetischen Designanteil im Zahlenbeispiel getrennt",
       "Abmahnungszugang, Vollmacht und Vollziehungsfrist präzisiert; keine Zwangskaskade",
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
-      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 02.07.2026 – I ZR 96/22, USM Haller II, Rn. 23–32 und 60–63. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
+      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 02.07.2026 – I ZR 96/22, USM Haller II, Rn. 23–32 und 60–63. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
+      "EU-Vorlageantwort zur Originalität und Wiedererkennbarkeit in vorhandenen Gestaltungsvergleich aufgenommen, Schadensrechnung abgegrenzt."
     ],
-    "sha256": "72d7f31f5eed4a1711b8952fdb9729514e3914429dc3428ed89a344c1ac2bf80",
+    "sha256": "d66e3929ba36d6f4d2e64f8f8a6888139e0badbf486cde31c318aaa5353662ac",
     "reviewed_on": "2026-10-01"
   },
   "focus_review": {
     "reviewed_on": "2026-09-23",
     "method": "desk_review",
     "verdict": "revised",
-    "reason": "Hauptproblem und zugeordneter Skill gelesen und konsistent auf unmittelbare Kostenattribution sowie gesonderte Designkausalität präzisiert; amtlichen Leitsatz geprüft, kein Live-Modelltest. Workflow-Ergänzung: Spezialwerkzeug wurde nur für die angegriffene Serie gemietet -> Kostenansatz im Verletzergewinn ändern, nicht automatisch den kausalen Designanteil am Gewinn. Zugeordneten Fokus-Skill auf Kohärenz gelesen und unverändert belassen.",
+    "reason": "Hauptproblem und zugeordneter Skill gelesen und konsistent auf unmittelbare Kostenattribution sowie gesonderte Designkausalität präzisiert; amtlichen Leitsatz geprüft, kein Live-Modelltest. Workflow-Ergänzung: Spezialwerkzeug wurde nur für die angegriffene Serie gemietet -> Kostenansatz im Verletzergewinn ändern, nicht automatisch den kausalen Designanteil am Gewinn. Zugeordneten Fokus-Skill auf Kohärenz gelesen und unverändert belassen. 01.10.2026: gezielter amtlicher Quellen- und Textabgleich der zwei Fachgebietsanker; kein neuer Live-Modelltest. Hauptproblem und Fokusskill zur isolierten Design-Verletzergewinnrechnung unverändert: Die beiden neuen Schutz-/Verletzungsanker bestimmen weder Kostenabzug noch Gewinnquote. Die breite Werkstatt/Mini und vorhandener Design-Grundlagenskill enthalten beide.",
     "changes": [
       "Gemeinkostenanteil in allen drei Prompts und Fokus-Skill integriert",
       "Gewinn und hypothetischen Designanteil im Zahlenbeispiel getrennt",
@@ -90,15 +96,16 @@
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten.",
+    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten. 01.10.2026: gezielter amtlicher Quellen- und Textabgleich der zwei Fachgebietsanker; kein neuer Live-Modelltest. Hauptproblem und Fokusskill zur isolierten Design-Verletzergewinnrechnung unverändert: Die beiden neuen Schutz-/Verletzungsanker bestimmen weder Kostenabzug noch Gewinnquote. Die breite Werkstatt/Mini und vorhandener Design-Grundlagenskill enthalten beide.",
     "changes": [
       "Gemeinkostenanteil in allen drei Prompts und Fokus-Skill integriert",
       "Gewinn und hypothetischen Designanteil im Zahlenbeispiel getrennt",
       "Abmahnungszugang, Vollmacht und Vollziehungsfrist präzisiert; keine Zwangskaskade",
       "Angegriffene Variante und historische Angebote, umsetzbare Unterlassung, Retouren und Wiederverkauf, spezifische Kosten statt Etiketten, Kaufmotivbelege, Dringlichkeit und Geheimschutz von Anlagen.",
-      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 02.07.2026 – I ZR 96/22, USM Haller II, Rn. 23–32 und 60–63. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
+      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 02.07.2026 – I ZR 96/22, USM Haller II, Rn. 23–32 und 60–63. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
+      "EU-Vorlageantwort zur Originalität und Wiedererkennbarkeit in vorhandenen Gestaltungsvergleich aufgenommen, Schadensrechnung abgegrenzt."
     ],
-    "sha256": "a84f1219f163d4b666c899fda1ce86490c993abc6141b68dcdca45b009b45c6f",
+    "sha256": "828fcb5bbb64b0f17b3920abefab7a28380475323710362f6f4cad9c3feee1a3",
     "reviewed_on": "2026-10-01"
   },
   "selection": {
@@ -156,11 +163,12 @@
   "prompt_editorial_review": {
     "date": "2026-10-01",
     "files": [
-      "fachanwalt-gewerblicher-rechtsschutz/fachanwalt-gewerblicher-rechtsschutz-werkstatt.md",
-      "fachanwalt-gewerblicher-rechtsschutz/fachanwalt-gewerblicher-rechtsschutz-schnellstart.md",
-      "fachanwalt-gewerblicher-rechtsschutz/fachanwalt-gewerblicher-rechtsschutz-hauptproblem.md",
-      "fachanwalt-gewerblicher-rechtsschutz/skills/design-verletzergewinn-kostenabgleich/SKILL.md",
       "fachanwalt-gewerblicher-rechtsschutz/README.md",
+      "fachanwalt-gewerblicher-rechtsschutz/fachanwalt-gewerblicher-rechtsschutz-hauptproblem.md",
+      "fachanwalt-gewerblicher-rechtsschutz/fachanwalt-gewerblicher-rechtsschutz-schnellstart.md",
+      "fachanwalt-gewerblicher-rechtsschutz/fachanwalt-gewerblicher-rechtsschutz-werkstatt.md",
+      "fachanwalt-gewerblicher-rechtsschutz/skills/design-verletzergewinn-kostenabgleich/SKILL.md",
+      "fachanwalt-gewerblicher-rechtsschutz/skills/designrecht-praxis-grundlagen/SKILL.md",
       "quality/evals/fachanwalt-gewerblicher-rechtsschutz.json"
     ],
     "opening_change": "Schutzrechtsverletzung und streitige Handlung; im Hauptproblem Rechnungslegung, Kostenbeleg und zurechenbarer Designgewinn. Workflow-Ergänzung: Leer: Abmahnungsabwehr, Schutzrechtsvergleich oder Schadensrechnung anbieten. Dateien ohne Aufgabe: Varianten, Schutzabbildungen und Erlösbelege still lesen; Unterlassungs-, Vergleichs- oder Bezifferungsziel klären. Klarer Auftrag: bestellte Erwiderung oder Rechnung direkt bearbeiten, ohne ungefragtes Schutzrechtsportfolio.",
@@ -184,17 +192,26 @@
         "limit": "Kein Mosaik einzelner Elemente und kein Ersatz für Nachahmungsnachweis."
       },
       {
-        "citation": "BGH, Urteil vom 02.07.2026 – I ZR 96/22, USM Haller II, Rn. 23–32 und 60–63",
+        "citation": "BGH, Urteil vom 02.07.2026 – Az. I ZR 96/22 – USM Haller II, Rn. 23–26, 60–63 frisch; Rn.27–32 im vorhandenen Fachaudit wiederverwendet",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2022/I_ZR__96-22A.pdf?__blob=publicationFile&v=4",
-        "application": "Originalität objektiv am Werk bestimmen, keine erhöhte Schwelle für angewandte Kunst; wiedererkennbare Übernahme kreativer Elemente statt eigenständigem Gesamteindruckstest.",
-        "limit": "Designrechtliche Eigenart bleibt anderer Maßstab; neue Gestaltung insgesamt betrachten. Urheberrechtliche Anträge zurückverwiesen, Schutz des Möbelsystems nicht endgültig festgestellt. PDF ohne A ist Vorlagebeschluss 2023."
+        "application": "Kein eigenständiger urheberrechtlicher Gesamteindruckstest: geschützte kreative Elemente in der insgesamt betrachteten neuen Gestaltung identifizieren.",
+        "limit": "Zurückverweisung; kein endgültiger Schutzbefund für USMHaller, keine Aussage zu Lizenzhöhe oder Gewinnquote; Designprüfung bleibt eigenständig.",
+        "checked_on": "2026-10-01"
+      },
+      {
+        "citation": "EuGH, Urteil vom 04.12.2025 – Az. C-580/23 und C-795/23 – Mio/konektra, Rn. 50–58, 83–87",
+        "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62023CJ0580",
+        "application": "Originalität freier kreativer Entscheidungen von Design-Neuheit und Eigenart trennen; keine höhere Originalitätsschwelle für angewandte Kunst; wiedererkennbare kreative Elemente für Verletzung maßgeblich.",
+        "limit": "Nicht mit Schlussanträgen vom08.05.2025 verwechseln; keine Schadensberechnung, keine Aussage zu bloßen Lichtbildern nach Paragraf72UrhG.",
+        "checked_on": "2026-10-01"
       }
     ],
     "remaining_limits": [
       "Desk-/Quellenprüfung, kein Live-Ergebnistest.",
       "Gemeinkostenentscheidung anhand amtlicher Leitsätze, nicht vollständig neu abgerufener Gründe geprüft.",
       "FAO-Nachweise, Markenamtsregeln und weitere Spezialzweige nicht insgesamt neu verifiziert.",
-      "Workflow-Review 23.09.2026: Paragraf 42 DesignG erneut eingesehen. Gemeinkostenentscheidung weiterhin nur in dokumentierter Leitsatzreichweite, keine erfolgreiche neue Volltextprüfung behauptet."
+      "Workflow-Review 23.09.2026: Paragraf 42 DesignG erneut eingesehen. Gemeinkostenentscheidung weiterhin nur in dokumentierter Leitsatzreichweite, keine erfolgreiche neue Volltextprüfung behauptet.",
+      "01.10.2026: gezielter amtlicher Quellen- und Textabgleich der zwei Fachgebietsanker; kein neuer Live-Modelltest. Hauptproblem und Fokusskill zur isolierten Design-Verletzergewinnrechnung unverändert: Die beiden neuen Schutz-/Verletzungsanker bestimmen weder Kostenabzug noch Gewinnquote. Die breite Werkstatt/Mini und vorhandener Design-Grundlagenskill enthalten beide."
     ]
   },
   "prompt_workflow_review": {
@@ -220,5 +237,12 @@
         "sha256": "aee8ef9d138e6ae97147968ff25536a905a7ed7aa6bd34d53c908e8c9c1aef83"
       }
     ]
+  },
+  "source_audit_fachanwaltschaft_2026_10_01": {
+    "checked_on": "2026-10-01",
+    "method": "targeted_primary_source_and_editorial_review",
+    "report": "quality/source-audits/fachanwaltschaft-2026-10-01/fachanwalt-gewerblicher-rechtsschutz.json",
+    "limits": "Zwei aktuelle oberstgerichtliche Entscheidungen fachlich geprüft; keine Vollprüfung sämtlicher Fachskills oder älterer Quellen und kein neuer Modelllauf.",
+    "focus_scope": "Hauptproblem und Fokusskill zur isolierten Design-Verletzergewinnrechnung unverändert: Die beiden neuen Schutz-/Verletzungsanker bestimmen weder Kostenabzug noch Gewinnquote. Die breite Werkstatt/Mini und vorhandener Design-Grundlagenskill enthalten beide."
   }
 }

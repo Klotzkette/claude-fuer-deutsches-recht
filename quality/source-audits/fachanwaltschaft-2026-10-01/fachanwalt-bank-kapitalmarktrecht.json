@@ -1,0 +1,76 @@
+{
+  "plugin": "fachanwalt-bank-kapitalmarktrecht",
+  "checked_on": "2026-10-01",
+  "method": "fresh_official_primary_passages_and_targeted_text_review",
+  "scope": "Zwei aktuelle oberstgerichtliche Anker in Werkstatt, Mini und sachlich passenden vorhandenen Fachskills; Hauptproblem nur nach konkreter Einschlägigkeit.",
+  "decisions": [
+    {
+      "court": "BGH",
+      "decision_type": "Urteil",
+      "decision_date": "03.03.2026",
+      "docket": "XI ZR 20/24",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2024/XI_ZR__20-24.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-01",
+      "read_passages": "Rn. 16–19, 26–35",
+      "holding": "Beim geprüften manuellen chipTAN-Verfahren reicht ein fehlender Empfängername am Generator allein nicht für fehlende starke Authentifizierung; Anzeigen und vereinbarungsgemäßen Gesamtablauf rekonstruieren.",
+      "transfer_limit": "Allgemeine Namenspflicht und Bedeutung sämtlicher dynamischer Verknüpfungsanforderungen bleiben in Rn.27/31 offen; weder TAN-Log noch technische Sicherheit beweisen automatisch Autorisierung oder grobe Fahrlässigkeit.",
+      "retrieval": "Amtlicher BGH-PDF-Volltext frisch heruntergeladen; bezeichnete Passagen gelesen.",
+      "verification_status": "fresh_primary_passages",
+      "sha256": "9e58909195666ed8481be445a6854e4727394dbc111c5369e0c1fea21a62e77b",
+      "citation": "BGH, Urteil vom 03.03.2026 – Az. XI ZR 20/24"
+    },
+    {
+      "court": "BGH",
+      "decision_type": "Beschluss",
+      "decision_date": "07.07.2026",
+      "docket": "XI ZR 71/25",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2025/XI_ZR__71-25.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-01",
+      "read_passages": "Kurzbeschluss vollständig, insbesondere S. 2",
+      "holding": "DSGVO-Verstoß, Schaden und Kausalität getrennt prüfen; im entschiedenen Fall jedenfalls fehlende Kausalität.",
+      "transfer_limit": "Nichtzulassungsbeschwerde; Nebeneinander Artikel82DSGVO/Paragraf675uBGB offen, kein pauschaler Anspruchsausschluss.",
+      "retrieval": "Amtlicher BGH-PDF-Volltext frisch heruntergeladen; bezeichnete Passagen gelesen.",
+      "verification_status": "fresh_primary_passages",
+      "sha256": "556f5702c9c34d295adba9f1f9f660da5317aec62ddd4fd0dbd31bbf99cfe8d3",
+      "citation": "BGH, Beschluss vom 07.07.2026 – Az. XI ZR 71/25"
+    }
+  ],
+  "files_read_for_context": [
+    "fachanwalt-bank-kapitalmarktrecht/fachanwalt-bank-kapitalmarktrecht-hauptproblem.md",
+    "fachanwalt-bank-kapitalmarktrecht/fachanwalt-bank-kapitalmarktrecht-schnellstart.md",
+    "fachanwalt-bank-kapitalmarktrecht/fachanwalt-bank-kapitalmarktrecht-werkstatt.md",
+    "fachanwalt-bank-kapitalmarktrecht/skills/onlineueberweisungen-autorisierung-beweiskette/SKILL.md"
+  ],
+  "files_changed": [
+    "fachanwalt-bank-kapitalmarktrecht/fachanwalt-bank-kapitalmarktrecht-hauptproblem.md",
+    "fachanwalt-bank-kapitalmarktrecht/fachanwalt-bank-kapitalmarktrecht-schnellstart.md",
+    "fachanwalt-bank-kapitalmarktrecht/fachanwalt-bank-kapitalmarktrecht-werkstatt.md",
+    "fachanwalt-bank-kapitalmarktrecht/skills/onlineueberweisungen-autorisierung-beweiskette/SKILL.md"
+  ],
+  "changes": "Bank-Werkstatt und Fokus enthielten beide Anker schon zutreffend; frischer Quellenabgleich, Mini/Hauptproblem um die begrenzte DSGVO-Kausalitätsaussage ergänzt, Nachforderung konkretisiert.",
+  "focus_scope": "Beide Anker betreffen die bestrittene Überweisung beziehungsweise einen daneben erhobenen Datenschutzschaden und stehen auch im Hauptproblem/Fokusskill.",
+  "prompt_sizes": {
+    "schnellstart": {
+      "characters": 7244,
+      "utf8_bytes": 7349,
+      "sha256": "65402c34852275202261d2be644b801968aaf3687aba41e14f6908b38d8b21a6"
+    },
+    "hauptproblem": {
+      "characters": 6781,
+      "utf8_bytes": 6894,
+      "sha256": "6c9996f317277bbd156a3d9a7382d9839548e7261215e26ea560517ae6302a95"
+    },
+    "werkstatt": {
+      "characters": 20144,
+      "utf8_bytes": 20441,
+      "sha256": "ea4e9c1457a1bd8604a68ec6f7b6dbaad07878facc61c05d94f36b329837d14f"
+    }
+  },
+  "text_mirrors": "Keine vorhandenen TXT-Spiegel in diesem Plugin; keine neuen Doppelkopien erzeugt.",
+  "limits": [
+    "Keine Vollverifikation aller Altentscheidungen oder aller Fachskills.",
+    "Kein neuer Live-Modell-, Mandats-, Export- oder Dokumentrendertest.",
+    "Vorhandene Regulierungs- und Spezialanker außerhalb der bezeichneten Entscheidungen nicht umfassend neu geprüft."
+  ],
+  "search_2026_result": "Mindestens eine passende 2026-Entscheidung frisch amtlich abgeglichen; ältere einschlägige Spezialanker nicht bloß wegen ihres Datums ersetzt."
+}

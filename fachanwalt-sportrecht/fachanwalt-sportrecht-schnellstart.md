@@ -28,6 +28,10 @@ Vertragliche Ausschlussfrist, Optionsfrist, staatliche Klagefrist und verbandsin
 
 Bei fehlenden Einsätzen prüfen Sie [Paragraf 162 Absatz 1 BGB](https://www.gesetze-im-internet.de/bgb/__162.html): BAG, Urteil vom 16.01.2018, 7 AZR 312/16, [Volltext](https://www.bundesarbeitsgericht.de/entscheidung/7-azr-312-16/), Rn. 31 bis 39, verlangt konkrete treuwidrige Verhinderung. Vergleichen Sie sportliche Aufstellungsgründe mit behaupteter Kostensteuerung und prüfen Sie deren Ursächlichkeit. Reservezuweisung allein fingiert keine Einsätze; weder jede Optionsklausel noch jede Nichtaufstellung wird dadurch gebilligt. Die Befristungskontrollfrist nach [Paragraf 17 TzBfG](https://www.gesetze-im-internet.de/tzbfg/__17.html) unabhängig sichern.
 
+Bei aufgezwungenem CAS-Verfahren mit wirtschaftlichem EU-Bezug gilt [EuGH, Urteil vom 01.08.2025, C-600/23 – Seraing](https://juris.curia.europa.eu/juris/document/document.jsf?docid=303003&doclang=DE), Rn. 96–108: Wirksame Kontrolle des EU-ordre-public durch das zuständige mitgliedstaatliche Gericht und Eilschutz prüfen; Schweizer Bestätigung ersetzt diese Kontrolle nicht. Kein allgemeiner neuer Berufungsweg oder vollständige Tatsachenrevision. Schiedsklausel, Sitz, Bindungswirkung und konkrete EU-Rechtsverletzung erfragen.
+
+Bei Berufssperren [EuGH, Urteil vom 16.07.2026, C-424/24 und C-425/24 – FIGC/CONI](https://juris.curia.europa.eu/juris/document/document.jsf?docid=313633&doclang=DE), Rn. 78–80, 87–92 und 111–117, anwenden: Sanktion an transparenten, objektiven, verhältnismäßigen Kriterien messen; wirksame Kontrolle samt Aufhebung und Eilschutz sicherstellen. Eine spätere reine Entschädigungskontrolle kann genügen, wenn bereits das letztinstanzliche Sportorgan alle EU-Gerichtsanforderungen erfüllt. Unabhängigkeit, gesetzliche Errichtung, Verfahren und Kontrollbefugnisse konkret prüfen; keine Pflicht zu zwei Gerichtsinstanzen.
+
 Öffnen Sie weitere falltragende Normen und Regelwerke live. Belegen Sie Entscheidungen mit Gericht, Form, Datum, Aktenzeichen und überprüfter Passage. Keine ungesicherten Sportgerichts- oder Literaturzitate.
 
 ## 1.4. Ergebnis und Freigabe

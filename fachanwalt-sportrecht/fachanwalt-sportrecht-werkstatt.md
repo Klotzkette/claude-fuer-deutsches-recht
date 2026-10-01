@@ -22,6 +22,10 @@ Liegt der nächste Wettkampf vor einer möglichen Hauptsacheentscheidung, den pa
 
 Interne Instanzen aus der tatsächlichen Satzung ermitteln. Frühere Hinweise auf „oft sieben Tage“ beim DFB sind keine Fristgrundlage; anwendbare Fassung und Zustellung verifizieren. Paragraf 935 ZPO oder CAS-Regel R37 nur im passenden Rechtsweg prüfen. Das Ergebnis ist der bestellte Rechtsbehelf oder die begründete Beratung, nicht eine verpflichtende „Sportfallkarte“.
 
+Bei aufgezwungenem CAS-Verfahren mit wirtschaftlichem EU-Bezug gilt [EuGH, Urteil vom 01.08.2025, C-600/23 – Seraing](https://juris.curia.europa.eu/juris/document/document.jsf?docid=303003&doclang=DE), Rn. 96–108: Wirksame Kontrolle des EU-ordre-public durch das zuständige mitgliedstaatliche Gericht und Eilschutz prüfen; Schweizer Bestätigung ersetzt diese Kontrolle nicht. Kein allgemeiner neuer Berufungsweg oder vollständige Tatsachenrevision. Schiedsklausel, Sitz, Bindungswirkung und konkrete EU-Rechtsverletzung erfragen.
+
+Bei Berufssperren [EuGH, Urteil vom 16.07.2026, C-424/24 und C-425/24 – FIGC/CONI](https://juris.curia.europa.eu/juris/document/document.jsf?docid=313633&doclang=DE), Rn. 78–80, 87–92 und 111–117, anwenden: Sanktion an transparenten, objektiven, verhältnismäßigen Kriterien messen; wirksame Kontrolle samt Aufhebung und Eilschutz sicherstellen. Eine spätere reine Entschädigungskontrolle kann genügen, wenn bereits das letztinstanzliche Sportorgan alle EU-Gerichtsanforderungen erfüllt. Unabhängigkeit, gesetzliche Errichtung, Verfahren und Kontrollbefugnisse konkret prüfen; keine Pflicht zu zwei Gerichtsinstanzen.
+
 ## 1.3. CAS, DIS und Schiedsklauseln
 
 Lies Schiedsvereinbarung, Unterwerfungserklärung, Satzung und Verfahrensordnung. Bestimme Streitgegenstand, Sitz, Sprache, Zusammensetzung des Spruchkörpers, internen Instanzenzug und Kontrollmöglichkeiten. Freiwilligkeit, Öffentlichkeit und staatlichen Rechtsschutz konkret prüfen, statt die Klausel pauschal für wirksam oder unwirksam zu halten.

@@ -40,28 +40,34 @@
     },
     {
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2025/IV_ZR_259-25.pdf?__blob=publicationFile&v=1",
-      "checked_on": "2026-09-30",
-      "supports": "Urteil 2026-09-09 – IV ZR 259/25. Geprüft: Leitsatz und Rn. 1–24 (gesamter Entscheidungsinhalt), Schwerpunkt 12–24. Konkreter Reparatur-/Umbauausschluss in Brandschutz-Leckageversicherung wirksam; Ursächlichkeit, Gebäudebezug und Erheblichkeit prüfen. Kein pauschaler Beleg für beliebige Bauarbeitsausschlüsse. BGH lässt offen, ob der Leckagebegriff einen technischen Defekt voraussetzt; die gegenteilige OLG-Begründung ist kein BGH-Rechtssatz.",
-      "source_sha256": "d510e6ec205b9dac2f53b31931696a580c637404d210657212c6a10b9c401f73"
+      "checked_on": "2026-10-01",
+      "supports": "BGH, Urteil vom 09.09.2026, IV ZR 259/25: Klausel zu Schäden durch Leckage infolge Gebäudereparaturen auf Wortlaut, Gebäudezusammenhang, Erheblichkeit und Ursache prüfen. Grenze: Wirksamkeit nur dieser Klausel; Bedeutung der Leckage als technischer Defekt blieb offen, kein allgemeiner Ausschluss jedes Wasserschadens bei Bauarbeiten. Gelesen: Entscheidungskopf, Rn. 10–24; tragend Rn. 12–24",
+      "source_sha256": "d510e6ec205b9dac2f53b31931696a580c637404d210657212c6a10b9c401f73",
+      "verification_status": "frisch_amtlicher_volltext_passagen",
+      "source_audit": "quality/source-audits/fachanwaltschaft-2026-10-01/fachanwalt-versicherungsrecht.json"
     },
     {
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2025/IV_ZR__41-25.pdf?__blob=publicationFile&v=1",
-      "checked_on": "2026-09-30",
-      "supports": "Beschluss 2026-01-28 – IV ZR 41/25. Geprüft: Entscheidungskopf; Rn. 7–20, insbesondere 10–18 und 20. Unbekannte PKV-Kalkulationsgrundlagen grundsätzlich mit Nichtwissen bestreitbar; Versicherer beweist erhöhte Prämie, auch bei Rückforderung. Andere Lastverteilung für zusätzliche Beitragslimitierung nach §155 Abs.2 VAG. Nach Sachverständigenbeweis können konkrete Einwendungen erforderlich sein. Gehörsbedingte Zurückverweisung, keine abschließende Gesamtunwirksamkeit sämtlicher Beiträge.",
-      "source_sha256": "5eda64b3c356589336a5a05ce87a4aa2c189d40b1f3a5802897b6044763433ae"
+      "checked_on": "2026-10-01",
+      "supports": "BGH, Beschluss vom 28.01.2026, IV ZR 41/25: Unbekannte PKV-Kalkulationsgrundlagen grundsätzlich mit Nichtwissen bestreitbar; Versicherer trägt Beweis erhöhter Prämie auch bei Rückforderung. Grenze: Zusätzliche Beitragslimitierung nach Paragraf 155 Absatz 2 VAG hat andere Lastverteilung; nach Sachverständigenbeweis konkrete Einwendungen prüfen. Gelesen: Entscheidungskopf, Rn. 10–18 und 20",
+      "source_sha256": "5eda64b3c356589336a5a05ce87a4aa2c189d40b1f3a5802897b6044763433ae",
+      "verification_status": "frisch_amtlicher_volltext_passagen",
+      "source_audit": "quality/source-audits/fachanwaltschaft-2026-10-01/fachanwalt-versicherungsrecht.json"
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Schnellstart vollständig individuell gelesen und überarbeitet: Police, Ablehnung und konkrete Berufsanforderungen mit Befunden abgleichen. Werkstatt nach Deckung, Obliegenheit, Berufsunfähigkeit und Regress neu gegliedert; Hauptproblem verbindet untrennbare Teilhandlungen mit konkretem Arbeitsergebnis. Redaktionelle Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Dauerhafte Transporthilfe steht erst seit Juni bereit -> Tätigkeitsabschnitte und Rentenmonate ändern, nicht den gesunden Ausgangsberuf rückwirkend ersetzen. Gezielte Ergänzung im zweiten Durchgang am 30.09.2026; keine erneute Vollprüfung aller Altanker.",
+    "reason": "Schnellstart vollständig individuell gelesen und überarbeitet: Police, Ablehnung und konkrete Berufsanforderungen mit Befunden abgleichen. Werkstatt nach Deckung, Obliegenheit, Berufsunfähigkeit und Regress neu gegliedert; Hauptproblem verbindet untrennbare Teilhandlungen mit konkretem Arbeitsergebnis. Redaktionelle Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Dauerhafte Transporthilfe steht erst seit Juni bereit -> Tätigkeitsabschnitte und Rentenmonate ändern, nicht den gesunden Ausgangsberuf rückwirkend ersetzen. Gezielte Ergänzung im zweiten Durchgang am 30.09.2026; keine erneute Vollprüfung aller Altanker. Gezielte Fachanwalts-Aktualisierung 01.10.2026: PKV-Kalkulationsbeweis 2026 direkt verlinkt und in PKV-Skill ergänzt; konkreter Reparaturausschluss im Mini und Gebäudeskill. Kein neuer Live-Modelltest.",
     "changes": [
       "Werkstatt nach Deckung, Obliegenheit, Berufsunfähigkeit und Regress neu gegliedert; Hauptproblem verbindet untrennbare Teilhandlungen mit konkretem Arbeitsergebnis.",
       "Kernfall mit operativem Entscheidungsanker, gezielten Nachfragen und Fortsetzung zum vollständigen angeforderten Dokument.",
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
-      "Zweiter Durchgang 30.09.2026: PKV-Kalkulation und Beitragslimitierung nach IV ZR 41/25 getrennt; Werkstatt zusätzlich um die begrenzte Ausschlussprüfung nach IV ZR 259/25 ergänzt."
+      "Zweiter Durchgang 30.09.2026: PKV-Kalkulation und Beitragslimitierung nach IV ZR 41/25 getrennt; Werkstatt zusätzlich um die begrenzte Ausschlussprüfung nach IV ZR 259/25 ergänzt.",
+      "PKV-Kalkulationsbeweis 2026 direkt verlinkt und in PKV-Skill ergänzt; konkreter Reparaturausschluss im Mini und Gebäudeskill."
     ],
-    "sha256": "68c4cb13f4b27333d4e884aa4529dc924eb72849138a53b92cd401619aff9733",
-    "reviewed_on": "2026-09-30"
+    "sha256": "f8224d9ad81d30dc723fb036fe06b8a98b83cad91e6084d39e03d8c442645654",
+    "reviewed_on": "2026-10-01",
+    "method": "desk_review"
   },
   "focus_review": {
     "reviewed_on": "2026-09-23",
@@ -143,14 +149,16 @@
     }
   ],
   "prompt_editorial_review": {
-    "date": "2026-09-23",
+    "date": "2026-10-01",
     "files": [
       "fachanwalt-versicherungsrecht/README.md",
       "fachanwalt-versicherungsrecht/fachanwalt-versicherungsrecht-hauptproblem.md",
       "fachanwalt-versicherungsrecht/fachanwalt-versicherungsrecht-werkstatt.md",
       "fachanwalt-versicherungsrecht/fachanwalt-versicherungsrecht-schnellstart.md",
       "fachanwalt-versicherungsrecht/skills/bu-praegende-taetigkeiten-befundabgleich/SKILL.md",
-      "quality/evals/fachanwalt-versicherungsrecht.json"
+      "quality/evals/fachanwalt-versicherungsrecht.json",
+      "fachanwalt-versicherungsrecht/skills/gebaeudeversicherung-paragraf-86-vvg/SKILL.md",
+      "fachanwalt-versicherungsrecht/skills/versr-pkv-beitragsanpassung-medizinische-notwendigkeit/SKILL.md"
     ],
     "opening_change": "Police, Ablehnung und konkrete Berufsanforderungen mit Befunden abgleichen Workflow-Ergänzung: Leer: Deckungsforderung, BU-Erwiderung oder Obliegenheitsabwehr anbieten. Dateien ohne Aufgabe: Police, Ablehnung und Befunde still lesen; Leistungs- oder Abwehrziel klären, kein automatisches Deckungsvotum. Klarer Auftrag: Anspruchsschreiben, Bewertung oder Erwiderung unmittelbar ausarbeiten; bekannte Tarif- und Berufsdaten übernehmen.",
     "norms": [
@@ -178,28 +186,43 @@
       {
         "citation": "BGH, Urteil vom 09.09.2026, IV ZR 259/25",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2025/IV_ZR_259-25.pdf?__blob=publicationFile&v=1",
-        "application": "Urteil 2026-09-09 – IV ZR 259/25. Geprüft: Leitsatz und Rn. 1–24 (gesamter Entscheidungsinhalt), Schwerpunkt 12–24. Konkreter Reparatur-/Umbauausschluss in Brandschutz-Leckageversicherung wirksam; Ursächlichkeit, Gebäudebezug und Erheblichkeit prüfen. Kein pauschaler Beleg für beliebige Bauarbeitsausschlüsse. BGH lässt offen, ob der Leckagebegriff einen technischen Defekt voraussetzt; die gegenteilige OLG-Begründung ist kein BGH-Rechtssatz.",
-        "limit": "Aussage und Grenze aus dem dokumentierten früheren Passagencheck übernommen; am 01.10.2026 Promptkontext abgeglichen, kein erneuter Volltextabruf.",
-        "checked_on": "2026-09-30",
-        "verification_status": "wiederverwendeter_passagennachweis",
-        "passages_read": "Urteil 2026-09-09 – IV ZR 259/25. Geprüft: Leitsatz und Rn. 1–24 (gesamter Entscheidungsinhalt), Schwerpunkt 12–24. Konkreter Reparatur-/Umbauausschluss in Brandschutz-Leckageversicherung wirksam; Ursächlichkeit, Gebäudebezug und Erheblichkeit prüfen. Kein pauschaler Beleg für beliebige Bauarbeitsausschlüsse. BGH lässt offen, ob der Leckagebegriff einen technischen Defekt voraussetzt; die gegenteilige OLG-Begründung ist kein BGH-Rechtssatz.",
-        "previous_review": "quality/source-audits/2026-09-30-zweiter-durchgang/vertraege-versicherung.md"
+        "application": "Klausel zu Schäden durch Leckage infolge Gebäudereparaturen auf Wortlaut, Gebäudezusammenhang, Erheblichkeit und Ursache prüfen.",
+        "limit": "Wirksamkeit nur dieser Klausel; Bedeutung der Leckage als technischer Defekt blieb offen, kein allgemeiner Ausschluss jedes Wasserschadens bei Bauarbeiten.",
+        "checked_on": "2026-10-01",
+        "verification_status": "frisch_amtlicher_volltext_passagen",
+        "passages_read": "Entscheidungskopf, Rn. 10–24; tragend Rn. 12–24",
+        "previous_review": "quality/source-audits/2026-09-30-zweiter-durchgang/vertraege-versicherung.md",
+        "source_sha256": "d510e6ec205b9dac2f53b31931696a580c637404d210657212c6a10b9c401f73",
+        "source_audit": "quality/source-audits/fachanwaltschaft-2026-10-01/fachanwalt-versicherungsrecht.json",
+        "previous_verification": {
+          "checked_on": "2026-09-30",
+          "verification_status": "wiederverwendeter_passagennachweis",
+          "previous_review": "quality/source-audits/2026-09-30-zweiter-durchgang/vertraege-versicherung.md"
+        }
       },
       {
         "citation": "BGH, Beschluss vom 28.01.2026, IV ZR 41/25",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2025/IV_ZR__41-25.pdf?__blob=publicationFile&v=1",
-        "application": "Beschluss 2026-01-28 – IV ZR 41/25. Geprüft: Entscheidungskopf; Rn. 7–20, insbesondere 10–18 und 20. Unbekannte PKV-Kalkulationsgrundlagen grundsätzlich mit Nichtwissen bestreitbar; Versicherer beweist erhöhte Prämie, auch bei Rückforderung. Andere Lastverteilung für zusätzliche Beitragslimitierung nach §155 Abs.2 VAG. Nach Sachverständigenbeweis können konkrete Einwendungen erforderlich sein. Gehörsbedingte Zurückverweisung, keine abschließende Gesamtunwirksamkeit sämtlicher Beiträge.",
-        "limit": "Aussage und Grenze aus dem dokumentierten früheren Passagencheck übernommen; am 01.10.2026 Promptkontext abgeglichen, kein erneuter Volltextabruf.",
-        "checked_on": "2026-09-30",
-        "verification_status": "wiederverwendeter_passagennachweis",
-        "passages_read": "Beschluss 2026-01-28 – IV ZR 41/25. Geprüft: Entscheidungskopf; Rn. 7–20, insbesondere 10–18 und 20. Unbekannte PKV-Kalkulationsgrundlagen grundsätzlich mit Nichtwissen bestreitbar; Versicherer beweist erhöhte Prämie, auch bei Rückforderung. Andere Lastverteilung für zusätzliche Beitragslimitierung nach §155 Abs.2 VAG. Nach Sachverständigenbeweis können konkrete Einwendungen erforderlich sein. Gehörsbedingte Zurückverweisung, keine abschließende Gesamtunwirksamkeit sämtlicher Beiträge.",
-        "previous_review": "quality/source-audits/2026-09-30-zweiter-durchgang/vertraege-versicherung.md"
+        "application": "Unbekannte PKV-Kalkulationsgrundlagen grundsätzlich mit Nichtwissen bestreitbar; Versicherer trägt Beweis erhöhter Prämie auch bei Rückforderung.",
+        "limit": "Zusätzliche Beitragslimitierung nach Paragraf 155 Absatz 2 VAG hat andere Lastverteilung; nach Sachverständigenbeweis konkrete Einwendungen prüfen.",
+        "checked_on": "2026-10-01",
+        "verification_status": "frisch_amtlicher_volltext_passagen",
+        "passages_read": "Entscheidungskopf, Rn. 10–18 und 20",
+        "previous_review": "quality/source-audits/2026-09-30-zweiter-durchgang/vertraege-versicherung.md",
+        "source_sha256": "5eda64b3c356589336a5a05ce87a4aa2c189d40b1f3a5802897b6044763433ae",
+        "source_audit": "quality/source-audits/fachanwaltschaft-2026-10-01/fachanwalt-versicherungsrecht.json",
+        "previous_verification": {
+          "checked_on": "2026-09-30",
+          "verification_status": "wiederverwendeter_passagennachweis",
+          "previous_review": "quality/source-audits/2026-09-30-zweiter-durchgang/vertraege-versicherung.md"
+        }
       }
     ],
     "remaining_limits": [
       "Desk- und Quellenprüfung, kein Live-Client- oder Modelltest; übrige Fachzweige nicht vollständig rechtlich neu verifiziert.",
       "Amtlicher Leitsatz gelesen, Volltextabruf gescheitert; kein automatischer Vollbeweis bedingungsgemäßer Berufsunfähigkeit.",
-      "Workflow-Review 23.09.2026: Paragraf 15 VVG erneut eingesehen. Beide vorhandenen BGH-Anker bleiben auf amtliche Leitsätze begrenzt; kein neuer Volltextabruf oder medizinischer Vollbeweis behauptet."
+      "Workflow-Review 23.09.2026: Paragraf 15 VVG erneut eingesehen. Beide vorhandenen BGH-Anker bleiben auf amtliche Leitsätze begrenzt; kein neuer Volltextabruf oder medizinischer Vollbeweis behauptet.",
+      "Fachanwaltsaktualisierung 01.10.2026: zwei ausgewählte aktuelle Entscheidungen frisch im amtlichen Volltext passagenbezogen geprüft; keine Gesamtneuverifikation aller Altanker oder neuen Modelltests. Hauptproblem betrifft BU aus Tätigkeit/Funktionsbefund. PKV-Kalkulation und Sprinklerausschluss tragen diesen Beweis nicht; die BU-Anker bleiben fachlich unvermischt."
     ]
   },
   "prompt_workflow_review": {
@@ -249,5 +272,14 @@
       }
     ],
     "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
+  },
+  "source_audit_fachanwaltschaft_2026_10_01": {
+    "report": "quality/source-audits/fachanwaltschaft-2026-10-01/fachanwalt-versicherungsrecht.json",
+    "scope": "Zwei ausgewählte aktuelle Entscheidungen, amtlicher Volltext und operative Prompt-/Skillanwendung; keine pauschale Gesamtprüfung.",
+    "decisions": [
+      "BGH, Beschluss vom 28.01.2026, IV ZR 41/25",
+      "BGH, Urteil vom 09.09.2026, IV ZR 259/25"
+    ],
+    "new_model_test": false
   }
 }

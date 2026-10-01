@@ -40,8 +40,8 @@
     },
     {
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2025/XI_ZR__71-25.pdf?__blob=publicationFile&v=1",
-      "checked_on": "2026-09-22",
-      "supports": "BGH, Beschluss vom 07.07.2026, XI ZR 71/25: Datenschutzschaden bei Zahlungsbetrug erfordert eine belegte Kausalität; das Nebeneinander von Artikel 82 DSGVO und Paragraf 675u Satz 2 BGB wurde nicht abschließend entschieden. Grenze: Nichtzulassungsbeschwerde, keine neue allgemeine Regel zur Autorisierung oder zum Anspruchsausschluss."
+      "checked_on": "2026-10-01",
+      "supports": "DSGVO-Verstoß, Schaden und Kausalität getrennt prüfen; im entschiedenen Fall jedenfalls fehlende Kausalität. Grenze: Nichtzulassungsbeschwerde; Nebeneinander Artikel82DSGVO/Paragraf675uBGB offen, kein pauschaler Anspruchsausschluss."
     },
     {
       "url": "https://www.gesetze-im-internet.de/bgb/__675v.html",
@@ -56,25 +56,26 @@
     {
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2024/XI_ZR__20-24.pdf?__blob=publicationFile&v=1",
       "checked_on": "2026-10-01",
-      "supports": "Kopf, Rn. 1–35. Manuelles chipTAN: fehlender Name am Generator allein belegt keinen Ausschluss nach §675vAbs4S1Nr1; IBAN/Betrag, Onlinebanking-Anzeige und TAN-Weitergabe konkret prüfen. Grenze: Rn.27/31 lassen allgemeine zusätzliche Anforderungen teils offen; konkrete grobe Fahrlässigkeit nicht aus einem Erfolgslog auf alle Betrugsfälle übertragen."
+      "supports": "Beim geprüften manuellen chipTAN-Verfahren reicht ein fehlender Empfängername am Generator allein nicht für fehlende starke Authentifizierung; Anzeigen und vereinbarungsgemäßen Gesamtablauf rekonstruieren. Grenze: Allgemeine Namenspflicht und Bedeutung sämtlicher dynamischer Verknüpfungsanforderungen bleiben in Rn.27/31 offen; weder TAN-Log noch technische Sicherheit beweisen automatisch Autorisierung oder grobe Fahrlässigkeit."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der Schnellstart trennt Zahlungsautorisierung, Vertragsänderung und Beratungshaftung und bindet den Banknachweis an konkrete Transaktionsdaten. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Vorläufige Gutschrift wird endgültig oder ein Protokoll belegt einen anderen Freigabebetrag -> Forderungshöhe und Autorisierungsargument im Schreiben korrigieren.",
+    "reason": "Der Schnellstart trennt Zahlungsautorisierung, Vertragsänderung und Beratungshaftung und bindet den Banknachweis an konkrete Transaktionsdaten. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Vorläufige Gutschrift wird endgültig oder ein Protokoll belegt einen anderen Freigabebetrag -> Forderungshöhe und Autorisierungsargument im Schreiben korrigieren. 01.10.2026: gezielter amtlicher Quellen- und Textabgleich der zwei Fachgebietsanker; kein neuer Live-Modelltest. Beide Anker betreffen die bestrittene Überweisung beziehungsweise einen daneben erhobenen Datenschutzschaden und stehen auch im Hauptproblem/Fokusskill.",
     "changes": [
       "XI ZR 91/14 in alle drei Prompts als Beweisprüfung eingebunden; alte Entscheidungsnummern ohne überprüfte Aussage als Recherchefragen behandelt.",
       "Hauptproblem unterscheidet Freigabeanzeige, Gerätebindung, Rückfluss und Gegenanspruch; XI ZR 71/25 auf Kausalität begrenzt.",
       "Fundierten anwaltlichen Rat nicht mit gerichtlicher Entscheidungsbefugnis verwechselt; nur Außenhandlungen freigabeabhängig.",
-      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
+      "Bank-Werkstatt und Fokus enthielten beide Anker schon zutreffend; frischer Quellenabgleich, Mini/Hauptproblem um die begrenzte DSGVO-Kausalitätsaussage ergänzt, Nachforderung konkretisiert."
     ],
-    "sha256": "75ecc8bdb9041895f14fd2d7bf635f031d5864e0f090ae4931e02e4dbdcb0dc8"
+    "sha256": "65402c34852275202261d2be644b801968aaf3687aba41e14f6908b38d8b21a6"
   },
   "focus_review": {
-    "reviewed_on": "2026-09-23",
+    "reviewed_on": "2026-10-01",
     "method": "desk_review",
     "verdict": "revised",
-    "reason": "Konkrete Rücknahme einer Kontobelastung, Ersatz eines Beratungsschadens oder Änderung einer Kreditklausel. Hauptproblem-Prompt und zugeordneten Fokus-Skill vollständig gelesen; Entscheidung auf Anwendung und Reichweite geprüft. Kein Live-Modelltest und keine vollständige Neuverifikation aller Rechtsquellen. Workflow-Ergänzung: Vorläufige Gutschrift wird endgültig oder ein Protokoll belegt einen anderen Freigabebetrag -> Forderungshöhe und Autorisierungsargument im Schreiben korrigieren. Zugeordneten Fokus-Skill auf Kohärenz gelesen und unverändert belassen.",
+    "reason": "Konkrete Rücknahme einer Kontobelastung, Ersatz eines Beratungsschadens oder Änderung einer Kreditklausel. Hauptproblem-Prompt und zugeordneten Fokus-Skill vollständig gelesen; Entscheidung auf Anwendung und Reichweite geprüft. Kein Live-Modelltest und keine vollständige Neuverifikation aller Rechtsquellen. Workflow-Ergänzung: Vorläufige Gutschrift wird endgültig oder ein Protokoll belegt einen anderen Freigabebetrag -> Forderungshöhe und Autorisierungsargument im Schreiben korrigieren. Zugeordneten Fokus-Skill auf Kohärenz gelesen und unverändert belassen. 01.10.2026: gezielter amtlicher Quellen- und Textabgleich der zwei Fachgebietsanker; kein neuer Live-Modelltest. Beide Anker betreffen die bestrittene Überweisung beziehungsweise einen daneben erhobenen Datenschutzschaden und stehen auch im Hauptproblem/Fokusskill.",
     "changes": [
       "XI ZR 91/14 in alle drei Prompts als Beweisprüfung eingebunden; alte Entscheidungsnummern ohne überprüfte Aussage als Recherchefragen behandelt.",
       "Hauptproblem unterscheidet Freigabeanzeige, Gerätebindung, Rückfluss und Gegenanspruch; XI ZR 71/25 auf Kausalität begrenzt.",
@@ -82,9 +83,9 @@
       "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten."
     ],
     "prompt_path": "fachanwalt-bank-kapitalmarktrecht/fachanwalt-bank-kapitalmarktrecht-hauptproblem.md",
-    "prompt_sha256": "5e071992d7dcd2236ae7d9c9cb6e1d41d92ed8fab877e9d41e6f453d18fe85f2",
+    "prompt_sha256": "6c9996f317277bbd156a3d9a7382d9839548e7261215e26ea560517ae6302a95",
     "skill_path": "fachanwalt-bank-kapitalmarktrecht/skills/onlineueberweisungen-autorisierung-beweiskette/SKILL.md",
-    "skill_sha256": "644432ad8c9aef373a727e2737aa13cfe6efb638e343555e3b1aa9627b4da7d2"
+    "skill_sha256": "afa68e73eba422b8613016d4f4cc65515db2d1509fa57820eba50001b6a18c81"
   },
   "selection": {
     "positive": [
@@ -154,23 +155,24 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Doppelte abstrakte Normlisten und die pauschale Beschränkung auf unverbindliche Entwürfe entfernt; die Fachwege vom Darlehen bis zum Akkreditiv bleiben auftragsbezogen nutzbar. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Technische Freigabe gegenüber Zahlungszustimmung, Sperrzeitpunkt und Betragszuordnung, Erstattungszeit und Betrugsverdachtsausnahme, beratungsbezogene Verlustrechnung sowie Kredit- und Sicherheitenkonto.",
+    "reason": "Doppelte abstrakte Normlisten und die pauschale Beschränkung auf unverbindliche Entwürfe entfernt; die Fachwege vom Darlehen bis zum Akkreditiv bleiben auftragsbezogen nutzbar. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Technische Freigabe gegenüber Zahlungszustimmung, Sperrzeitpunkt und Betragszuordnung, Erstattungszeit und Betrugsverdachtsausnahme, beratungsbezogene Verlustrechnung sowie Kredit- und Sicherheitenkonto. 01.10.2026: gezielter amtlicher Quellen- und Textabgleich der zwei Fachgebietsanker; kein neuer Live-Modelltest. Beide Anker betreffen die bestrittene Überweisung beziehungsweise einen daneben erhobenen Datenschutzschaden und stehen auch im Hauptproblem/Fokusskill.",
     "changes": [
       "XI ZR 91/14 in alle drei Prompts als Beweisprüfung eingebunden; alte Entscheidungsnummern ohne überprüfte Aussage als Recherchefragen behandelt.",
       "Hauptproblem unterscheidet Freigabeanzeige, Gerätebindung, Rückfluss und Gegenanspruch; XI ZR 71/25 auf Kausalität begrenzt.",
       "Fundierten anwaltlichen Rat nicht mit gerichtlicher Entscheidungsbefugnis verwechselt; nur Außenhandlungen freigabeabhängig.",
-      "Technische Freigabe gegenüber Zahlungszustimmung, Sperrzeitpunkt und Betragszuordnung, Erstattungszeit und Betrugsverdachtsausnahme, beratungsbezogene Verlustrechnung sowie Kredit- und Sicherheitenkonto."
+      "Technische Freigabe gegenüber Zahlungszustimmung, Sperrzeitpunkt und Betragszuordnung, Erstattungszeit und Betrugsverdachtsausnahme, beratungsbezogene Verlustrechnung sowie Kredit- und Sicherheitenkonto.",
+      "Bank-Werkstatt und Fokus enthielten beide Anker schon zutreffend; frischer Quellenabgleich, Mini/Hauptproblem um die begrenzte DSGVO-Kausalitätsaussage ergänzt, Nachforderung konkretisiert."
     ],
-    "sha256": "ae18e123249d85a370b7f31ae5acf485be34e9cd182d97af46fe4a5e857b6ff3"
+    "sha256": "ea4e9c1457a1bd8604a68ec6f7b6dbaad07878facc61c05d94f36b329837d14f"
   },
   "prompt_editorial_review": {
-    "date": "2026-09-23",
+    "date": "2026-10-01",
     "files": [
-      "fachanwalt-bank-kapitalmarktrecht/fachanwalt-bank-kapitalmarktrecht-schnellstart.md",
+      "fachanwalt-bank-kapitalmarktrecht/README.md",
       "fachanwalt-bank-kapitalmarktrecht/fachanwalt-bank-kapitalmarktrecht-hauptproblem.md",
+      "fachanwalt-bank-kapitalmarktrecht/fachanwalt-bank-kapitalmarktrecht-schnellstart.md",
       "fachanwalt-bank-kapitalmarktrecht/fachanwalt-bank-kapitalmarktrecht-werkstatt.md",
       "fachanwalt-bank-kapitalmarktrecht/skills/onlineueberweisungen-autorisierung-beweiskette/SKILL.md",
-      "fachanwalt-bank-kapitalmarktrecht/README.md",
       "quality/evals/fachanwalt-bank-kapitalmarktrecht.json"
     ],
     "opening_change": "Konkrete Rücknahme einer Kontobelastung, Ersatz eines Beratungsschadens oder Änderung einer Kreditklausel. Workflow-Ergänzung: Leer: Überweisungsreklamation, Beratungsschaden oder Kreditklausel anbieten. Dateien ohne Aufgabe: Zahlungsprotokolle, Beratungsmaterial und Ablehnung still lesen; Erstattung, Beweisprüfung oder Vertragsziel klären. Klarer Auftrag: Erstattungsforderung, Erwiderung oder Klausel direkt erstellen; keine ungefragte Kontenzusammenfassung.",
@@ -187,16 +189,17 @@
         "limit": "Entscheidung zum damaligen Zahlungsdiensterecht; kein Ausschluss des Vollbeweises und keine Übernahme alter Absatznummern in Paragraf 675v BGB."
       },
       {
-        "citation": "BGH, Beschluss vom 07.07.2026, XI ZR 71/25",
+        "citation": "BGH, Beschluss vom 07.07.2026 – Az. XI ZR 71/25, Kurzbeschluss vollständig, insbesondere S. 2",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2025/XI_ZR__71-25.pdf?__blob=publicationFile&v=1",
-        "application": "Datenschutzschaden bei Zahlungsbetrug erfordert eine belegte Kausalität; das Nebeneinander von Artikel 82 DSGVO und Paragraf 675u Satz 2 BGB wurde nicht abschließend entschieden.",
-        "limit": "Nichtzulassungsbeschwerde, keine neue allgemeine Regel zur Autorisierung oder zum Anspruchsausschluss."
+        "application": "DSGVO-Verstoß, Schaden und Kausalität getrennt prüfen; im entschiedenen Fall jedenfalls fehlende Kausalität.",
+        "limit": "Nichtzulassungsbeschwerde; Nebeneinander Artikel82DSGVO/Paragraf675uBGB offen, kein pauschaler Anspruchsausschluss.",
+        "checked_on": "2026-10-01"
       },
       {
-        "citation": "BGH, Urteil vom 03.03.2026 – XI ZR 20/24, Kopf, Rn. 1–35",
+        "citation": "BGH, Urteil vom 03.03.2026 – Az. XI ZR 20/24, Rn. 16–19, 26–35",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2024/XI_ZR__20-24.pdf?__blob=publicationFile&v=1",
-        "application": "Manuelles chipTAN: fehlender Name am Generator allein belegt keinen Ausschluss nach §675vAbs4S1Nr1; IBAN/Betrag, Onlinebanking-Anzeige und TAN-Weitergabe konkret prüfen.",
-        "limit": "Rn.27/31 lassen allgemeine zusätzliche Anforderungen teils offen; konkrete grobe Fahrlässigkeit nicht aus einem Erfolgslog auf alle Betrugsfälle übertragen.",
+        "application": "Beim geprüften manuellen chipTAN-Verfahren reicht ein fehlender Empfängername am Generator allein nicht für fehlende starke Authentifizierung; Anzeigen und vereinbarungsgemäßen Gesamtablauf rekonstruieren.",
+        "limit": "Allgemeine Namenspflicht und Bedeutung sämtlicher dynamischer Verknüpfungsanforderungen bleiben in Rn.27/31 offen; weder TAN-Log noch technische Sicherheit beweisen automatisch Autorisierung oder grobe Fahrlässigkeit.",
         "checked_on": "2026-10-01",
         "verification": "fresh_primary_passages"
       }
@@ -204,7 +207,8 @@
     "remaining_limits": [
       "Redaktionelle Akten- und Quellenprüfung, kein Live-Client- oder Modelltest.",
       "Fokus-Skill vollständig gelesen und unverändert belassen; keine erneute Vollprüfung sämtlicher Kredit-, Beratungs- und Kapitalmarktquellen.",
-      "Workflow-Review 23.09.2026: Paragraf 675u BGB erneut eingesehen; keine technische Authentifizierung als Beweis jeder Autorisierung behandelt und keine neue Fallentscheidung ergänzt."
+      "Workflow-Review 23.09.2026: Paragraf 675u BGB erneut eingesehen; keine technische Authentifizierung als Beweis jeder Autorisierung behandelt und keine neue Fallentscheidung ergänzt.",
+      "01.10.2026: gezielter amtlicher Quellen- und Textabgleich der zwei Fachgebietsanker; kein neuer Live-Modelltest. Beide Anker betreffen die bestrittene Überweisung beziehungsweise einen daneben erhobenen Datenschutzschaden und stehen auch im Hauptproblem/Fokusskill."
     ]
   },
   "prompt_workflow_review": {
@@ -230,5 +234,12 @@
       "fachanwalt-bank-kapitalmarktrecht/skills/onlineueberweisungen-autorisierung-beweiskette/SKILL.md"
     ],
     "limits": "Gezielter Kontextabgleich zentraler Anker plus erfasster Spezialskill-Treffer; kein Volltext-Neuabruf aller Altentscheidungen, kein Live-Mandatstest."
+  },
+  "source_audit_fachanwaltschaft_2026_10_01": {
+    "checked_on": "2026-10-01",
+    "method": "targeted_primary_source_and_editorial_review",
+    "report": "quality/source-audits/fachanwaltschaft-2026-10-01/fachanwalt-bank-kapitalmarktrecht.json",
+    "limits": "Zwei aktuelle oberstgerichtliche Entscheidungen fachlich geprüft; keine Vollprüfung sämtlicher Fachskills oder älterer Quellen und kein neuer Modelllauf.",
+    "focus_scope": "Beide Anker betreffen die bestrittene Überweisung beziehungsweise einen daneben erhobenen Datenschutzschaden und stehen auch im Hauptproblem/Fokusskill."
   }
 }

@@ -112,7 +112,7 @@ klôtzzkètté legt Widerspruch gegen Anmeldung "KLOTZ-KT" für Klasse 9 (Techno
 - Keine Kommentar-, Handbuch-, Aufsatz-, BeckRS- oder juris-Blindzitate aus Modellwissen.
 - Registerdaten, Amtsformulare, Fristen, Gebühren und Behördenpraxis live bei DPMA, EUIPO, WIPO, USPTO oder den jeweils zuständigen Stellen prüfen.
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle ausgeben.
-- EuGH, Urteil vom 30.05.2024 - C-337/22 P, Nowhere gegen EUIPO: Für die zeitliche und territoriale Wirkung eines älteren nationalen Rechts ist der maßgebliche Verfahrenszeitpunkt präzise zu bestimmen; den Brexit-Sachverhalt nicht als allgemeine Regel zu Benutzung oder Verwechslungsgefahr verwenden.
+- EuGH, Urteil vom 05.02.2026 – C-337/22 P, EUIPO/Nowhere, Rn. 107, 112, 158–162, 173 ([amtlicher Volltext](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62022CJ0337)): Bei Art. 8 Abs. 4 der Verordnung (EG) Nr. 207/2009 den Erwerb des älteren Rechts vor Anmeldung/Priorität vom Fortbestand seiner Verbietungswirkung bis zur endgültigen EUIPO-Entscheidung einschließlich Beschwerdekammer trennen. Das nur im Vereinigten Königreich geschützte ältere Recht trug den Widerspruch nach Ende der Brexit-Übergangszeit nicht mehr. Keine pauschale Übertragung auf Benutzungszeiträume oder Verwechslungsgefahr.
 
 ## Templates
 

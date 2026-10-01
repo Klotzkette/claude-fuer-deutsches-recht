@@ -36,8 +36,11 @@
     {
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2024/VII_ZR_119-24.pdf?__blob=publicationFile&v=1",
       "checked_on": "2026-10-01",
-      "supports": "BGH, Urteil vom 15.01.2026 – Az. VII ZR 119/24, Rn. 39–41 und 63–77: Zumutbare Prüfung fremder Vorplanung; Planungs-, Überwachungs- und Koordinationsbeiträge nach konkretem Vertragsverhältnis und erforderlicher Bestellermitwirkung unterscheiden. Gelesen: Kopf/Leitsätze, Rn. 39–41 und 63–77. Grenze: Verträge 2009/2010, damalige HOAI; keine automatische Leistungsphasenzurechnung und keine pauschale Mitverschuldensquote. Keine Gleichsetzung des Koordinationsfehlers mit bloßem Überwachungsfehler.",
-      "sha256": "c3e0f687d48ee889bf561ec662a4af94faa2962bad441712a1b2cc117964acf9"
+      "supports": "BGH, Urteil vom 15.01.2026, VII ZR 119/24: Ausführungsplaner muss Vorplanung zumutbar prüfen und Bedenken an Besteller richten; Zurechnung fremder Planungs-/Koordinationsbeiträge nach konkreter Mitwirkung. Grenze: Verträge 2009/2010 und damalige HOAI; keine automatische Phasenhaftung oder pauschale Quote. Gelesen: Entscheidungskopf, Rn. 39–41, 63, 66, 72, 75 und 77",
+      "sha256": "c3e0f687d48ee889bf561ec662a4af94faa2962bad441712a1b2cc117964acf9",
+      "verification_status": "frisch_amtlicher_volltext_passagen",
+      "source_sha256": "c3e0f687d48ee889bf561ec662a4af94faa2962bad441712a1b2cc117964acf9",
+      "source_audit": "quality/source-audits/fachanwaltschaft-2026-10-01/fachanwalt-bau-architektenrecht.json"
     },
     {
       "url": "https://www.gesetze-im-internet.de/bgb/__640.html",
@@ -73,33 +76,45 @@
       "url": "https://www.fib-bund.de/Inhalt/Vergabe/VOB/VOB-B_2016_nichtamtliche_Fassung.pdf",
       "checked_on": "2026-10-01",
       "supports": "Frei zugängliche ausdrücklich nichtamtliche Bundesbau-Fassung gezielt gelesen: §§ 12 Abs. 5, 13 Abs. 4–5, 14 Abs. 3–4 und 16 Abs. 3. Schlussrechnungsstellung, Fälligkeit und Nachforderungsausschluss unterscheiden; kein allgemeines Erlöschen nach zwei Monaten. Einbeziehung und Klauselkontrolle nicht abschließend geprüft."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2024/VII_ZR__68-24.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-01",
+      "supports": "BGH, Urteil vom 26.03.2026, VII ZR 68/24: Formularzwang zur Abnahme des Gemeinschaftseigentums durch drei Erwerbervertreter entzieht Erwerbern die eigene Abnahmeentscheidung und ist unwirksam. Grenze: Freiwillige Vertretung gesondert; Altvertrag nach AGBG/BGB a.F.; 30-jährige äußerste Durchsetzungsgrenze ab fehlgeschlagener Abnahme ersetzt weder frühere Verjährung noch Verwirkung. Gelesen: Entscheidungskopf, Rn. 36–43, 49, 53–54 und 56; frühere Prüfung als Kontext",
+      "verification_status": "frisch_amtlicher_volltext_passagen",
+      "source_sha256": "b5399e80d48297d3136bb409ff687e9fe554f78ce8596802a5acf28b60d594ec",
+      "source_audit": "quality/source-audits/fachanwaltschaft-2026-10-01/fachanwalt-bau-architektenrecht.json"
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Alle Abschnitte gelesen; Vorhaltung auf wirkliche Ressourcen und möglichen Ersatzauftrag bezogen, Mängelschaden von zweckgebundenem Vorschuss getrennt. Desk- und Quellenreview, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Kran wurde abbestellt oder Personal anderweitig eingesetzt -> tatsächliche Vorhaltung, ersparte Kosten und Entschädigungsforderung korrigieren.",
+    "reason": "Alle Abschnitte gelesen; Vorhaltung auf wirkliche Ressourcen und möglichen Ersatzauftrag bezogen, Mängelschaden von zweckgebundenem Vorschuss getrennt. Desk- und Quellenreview, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Kran wurde abbestellt oder Personal anderweitig eingesetzt -> tatsächliche Vorhaltung, ersparte Kosten und Entschädigungsforderung korrigieren. Gezielte Fachanwalts-Aktualisierung 01.10.2026: Planerhaftung 2026 mit Direktlink im Mini; Vertreterabnahme 2026 samt Altvertrags- und Verjährungsgrenze im Mini, Werkstatt und Abnahmeskill. Kein neuer Live-Modelltest.",
     "changes": [
       "VII ZR 33/19 mit möglichem Ersatzauftrag, Unternehmerbeweis und zeitlicher Grenze operativ eingebaut.",
       "VII ZR 46/17 auf nicht beseitigtes Werk und Vorschuss mit Beseitigungsabsicht bezogen.",
       "Hauptproblem und zugeordneter Skill bei Füllaufträgen und Abgrenzung zur Kündigungsabrechnung abgestimmt.",
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
-      "Planerhaftung nach VII ZR 119/24 differenziert; Abnahmefiktion nach § 640 Abs. 2 BGB samt Textformhinweis, geringfügiger Mangelangabe und eigenem Verbraucherpfad korrigiert. Nicht verifizierten VII ZR 25/13 nicht mehr als Beleg ausgegeben."
+      "Planerhaftung nach VII ZR 119/24 differenziert; Abnahmefiktion nach § 640 Abs. 2 BGB samt Textformhinweis, geringfügiger Mangelangabe und eigenem Verbraucherpfad korrigiert. Nicht verifizierten VII ZR 25/13 nicht mehr als Beleg ausgegeben.",
+      "Planerhaftung 2026 mit Direktlink im Mini; Vertreterabnahme 2026 samt Altvertrags- und Verjährungsgrenze im Mini, Werkstatt und Abnahmeskill."
     ],
-    "sha256": "cb0ada6d30b39098e91cfb6f2db7c584631469d3754c066d46b7fbb7057b9918",
-    "reviewed_on": "2026-10-01"
+    "sha256": "6ad09e5a69417b851fa7a3e6c81b75cba62d2f5baf184fd606f98311f57e01be",
+    "reviewed_on": "2026-10-01",
+    "method": "desk_review"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Gesamte Werkstatt einschließlich öffentlicher Projektbindungen gelesen; Abnahme-, Nachtrags-, Mängel-, Planer- und Bauträgerzweige erhalten. Werkmangel- und Bauzeitentscheidungen in die konkrete Anspruchsprüfung aufgenommen statt bloßer Rechercheliste. Desk- und Quellenreview, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Mangelerscheinung gegenüber Ursache, Beweissicherung vor Veränderung, Planfassungen und Ressourcenverfügbarkeit, Anordnungsbefugnis, Nachtragsabgrenzung sowie synchronisierte Abnahme- und Zahlungsdaten.",
+    "reason": "Gesamte Werkstatt einschließlich öffentlicher Projektbindungen gelesen; Abnahme-, Nachtrags-, Mängel-, Planer- und Bauträgerzweige erhalten. Werkmangel- und Bauzeitentscheidungen in die konkrete Anspruchsprüfung aufgenommen statt bloßer Rechercheliste. Desk- und Quellenreview, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Mangelerscheinung gegenüber Ursache, Beweissicherung vor Veränderung, Planfassungen und Ressourcenverfügbarkeit, Anordnungsbefugnis, Nachtragsabgrenzung sowie synchronisierte Abnahme- und Zahlungsdaten. Gezielte Fachanwalts-Aktualisierung 01.10.2026: Planerhaftung 2026 mit Direktlink im Mini; Vertreterabnahme 2026 samt Altvertrags- und Verjährungsgrenze im Mini, Werkstatt und Abnahmeskill. Kein neuer Live-Modelltest.",
     "changes": [
       "VII ZR 33/19 mit möglichem Ersatzauftrag, Unternehmerbeweis und zeitlicher Grenze operativ eingebaut.",
       "VII ZR 46/17 auf nicht beseitigtes Werk und Vorschuss mit Beseitigungsabsicht bezogen.",
       "Hauptproblem und zugeordneter Skill bei Füllaufträgen und Abgrenzung zur Kündigungsabrechnung abgestimmt.",
       "Mangelerscheinung gegenüber Ursache, Beweissicherung vor Veränderung, Planfassungen und Ressourcenverfügbarkeit, Anordnungsbefugnis, Nachtragsabgrenzung sowie synchronisierte Abnahme- und Zahlungsdaten.",
-      "Planerhaftung nach VII ZR 119/24 differenziert; Abnahmefiktion nach § 640 Abs. 2 BGB samt Textformhinweis, geringfügiger Mangelangabe und eigenem Verbraucherpfad korrigiert. Nicht verifizierten VII ZR 25/13 nicht mehr als Beleg ausgegeben."
+      "Planerhaftung nach VII ZR 119/24 differenziert; Abnahmefiktion nach § 640 Abs. 2 BGB samt Textformhinweis, geringfügiger Mangelangabe und eigenem Verbraucherpfad korrigiert. Nicht verifizierten VII ZR 25/13 nicht mehr als Beleg ausgegeben.",
+      "Planerhaftung 2026 mit Direktlink im Mini; Vertreterabnahme 2026 samt Altvertrags- und Verjährungsgrenze im Mini, Werkstatt und Abnahmeskill."
     ],
-    "sha256": "56fe755ca0a794f5c8fe2fdea4930e057a0c78db9a7ae4dcb6ccf24264373cd4",
-    "reviewed_on": "2026-10-01"
+    "sha256": "ea387f4bbf83f86262feec2df9516d415dcfb064c4cf35e72c4fc64e91e40d73",
+    "reviewed_on": "2026-10-01",
+    "method": "desk_review"
   },
   "focus_review": {
     "reviewed_on": "2026-09-23",
@@ -186,7 +201,8 @@
       "fachanwalt-bau-architektenrecht/README.md",
       "quality/evals/fachanwalt-bau-architektenrecht.json",
       "fachanwalt-bau-architektenrecht/skills/abnahme-mit-vorbehalt/SKILL.md",
-      "fachanwalt-bau-architektenrecht/skills/architektenrecht-tatbestand-beweis-und-belege/SKILL.md"
+      "fachanwalt-bau-architektenrecht/skills/architektenrecht-tatbestand-beweis-und-belege/SKILL.md",
+      "fachanwalt-bau-architektenrecht/skills/bautraeger-abnahme-formgerecht-640-bgb/SKILL.md"
     ],
     "opening_change": "Vereinbarte, geänderte, erbrachte und abgenommene Leistung mit Forderung und Abwehr abgleichen; Fokus rechnet Beschäftigte und Geräte. Workflow-Ergänzung: Leer: Mängelrüge, Nachtragsforderung oder Bauzeitentschädigung anbieten. Dateien ohne Aufgabe: Vertrag, Pläne, Bautagebuch und Kostenbelege still lesen; Mangel-, Vergütungs- oder Vorhalteziel klären. Klarer Auftrag: verlangte Rüge, Rechnung oder Anspruchserwiderung unmittelbar bearbeiten, bekannte Bauabschnitte übernehmen.",
     "norms": [
@@ -214,11 +230,29 @@
         "verification_status": "wiederverwendeter_auditnachweis"
       },
       {
-        "citation": "BGH, Urteil vom 15.01.2026 – Az. VII ZR 119/24, Rn. 39–41 und 63–77",
+        "citation": "BGH, Urteil vom 15.01.2026, VII ZR 119/24",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2024/VII_ZR_119-24.pdf?__blob=publicationFile&v=1",
         "checked_on": "2026-10-01",
-        "application": "Zumutbare Prüfung fremder Vorplanung; Planungs-, Überwachungs- und Koordinationsbeiträge nach konkretem Vertragsverhältnis und erforderlicher Bestellermitwirkung unterscheiden.",
-        "limit": "Verträge 2009/2010, damalige HOAI; keine automatische Leistungsphasenzurechnung und keine pauschale Mitverschuldensquote. Keine Gleichsetzung des Koordinationsfehlers mit bloßem Überwachungsfehler."
+        "application": "Ausführungsplaner muss Vorplanung zumutbar prüfen und Bedenken an Besteller richten; Zurechnung fremder Planungs-/Koordinationsbeiträge nach konkreter Mitwirkung.",
+        "limit": "Verträge 2009/2010 und damalige HOAI; keine automatische Phasenhaftung oder pauschale Quote.",
+        "verification_status": "frisch_amtlicher_volltext_passagen",
+        "passages_read": "Entscheidungskopf, Rn. 39–41, 63, 66, 72, 75 und 77",
+        "source_sha256": "c3e0f687d48ee889bf561ec662a4af94faa2962bad441712a1b2cc117964acf9",
+        "source_audit": "quality/source-audits/fachanwaltschaft-2026-10-01/fachanwalt-bau-architektenrecht.json",
+        "previous_verification": {
+          "checked_on": "2026-10-01"
+        }
+      },
+      {
+        "citation": "BGH, Urteil vom 26.03.2026, VII ZR 68/24",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2024/VII_ZR__68-24.pdf?__blob=publicationFile&v=1",
+        "application": "Formularzwang zur Abnahme des Gemeinschaftseigentums durch drei Erwerbervertreter entzieht Erwerbern die eigene Abnahmeentscheidung und ist unwirksam.",
+        "limit": "Freiwillige Vertretung gesondert; Altvertrag nach AGBG/BGB a.F.; 30-jährige äußerste Durchsetzungsgrenze ab fehlgeschlagener Abnahme ersetzt weder frühere Verjährung noch Verwirkung.",
+        "checked_on": "2026-10-01",
+        "verification_status": "frisch_amtlicher_volltext_passagen",
+        "passages_read": "Entscheidungskopf, Rn. 36–43, 49, 53–54 und 56; frühere Prüfung als Kontext",
+        "source_sha256": "b5399e80d48297d3136bb409ff687e9fe554f78ce8596802a5acf28b60d594ec",
+        "source_audit": "quality/source-audits/fachanwaltschaft-2026-10-01/fachanwalt-bau-architektenrecht.json"
       }
     ],
     "remaining_limits": [
@@ -226,7 +260,8 @@
       "Zwei BGH-Urteile anhand amtlicher tragender Gründe geprüft; weitere alte Entscheidungen und öffentlich-rechtliche Unterthemen ausdrücklich nicht insgesamt neu verifiziert.",
       "Workflow-Review 23.09.2026: Paragraf 642 BGB erneut eingesehen; Vorhaltung und Folgezeiten bleiben getrennt, keine neue Entscheidung zu konkreten Bauabläufen behauptet.",
       "Begrenzter Nachtrag 01.10.2026: Planerhaftung nach VII ZR 119/24 differenziert; Abnahmefiktion nach § 640 Abs. 2 BGB samt Textformhinweis, geringfügiger Mangelangabe und eigenem Verbraucherpfad korrigiert. Nicht verifizierten VII ZR 25/13 nicht mehr als Beleg ausgegeben. Keine Gesamtneuverifikation aller Altanker oder Live-Modelltests.",
-      "Enger Abschlussabgleich im selben Abnahmeskill: falsche Schlusszahlungs-/Verjährungsverlustregeln korrigiert; § 650g Abs. 4 BGB ergänzt. Keine weiteren Entscheidungen hinzugefügt."
+      "Enger Abschlussabgleich im selben Abnahmeskill: falsche Schlusszahlungs-/Verjährungsverlustregeln korrigiert; § 650g Abs. 4 BGB ergänzt. Keine weiteren Entscheidungen hinzugefügt.",
+      "Fachanwaltsaktualisierung 01.10.2026: zwei ausgewählte aktuelle Entscheidungen frisch im amtlichen Volltext passagenbezogen geprüft; keine Gesamtneuverifikation aller Altanker oder neuen Modelltests. Hauptproblem betrifft Vorhaltung nach Paragraf 642 BGB. Planerhaftung und Vertreterabnahme werden nicht zu Entschädigungsurteilen umgedeutet; VII ZR 33/19 bleibt tragend."
     ]
   },
   "prompt_workflow_review": {
@@ -248,5 +283,14 @@
     "status": "Ankerkontext gelesen; Quellenstatus je Entscheidung im Bericht differenziert.",
     "registry_changes": [],
     "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
+  },
+  "source_audit_fachanwaltschaft_2026_10_01": {
+    "report": "quality/source-audits/fachanwaltschaft-2026-10-01/fachanwalt-bau-architektenrecht.json",
+    "scope": "Zwei ausgewählte aktuelle Entscheidungen, amtlicher Volltext und operative Prompt-/Skillanwendung; keine pauschale Gesamtprüfung.",
+    "decisions": [
+      "BGH, Urteil vom 15.01.2026, VII ZR 119/24",
+      "BGH, Urteil vom 26.03.2026, VII ZR 68/24"
+    ],
+    "new_model_test": false
   }
 }

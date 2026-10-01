@@ -30,6 +30,10 @@ Eine Mitteilung „Teilwiderruf beabsichtigt“ ist noch keine ordnungsgemäße 
 
 Andere Normen und Rechtsprechung nur fallbezogen amtlich verifizieren; keine erfundenen Entscheidungen, Randnummern oder Literatur. Ohne Zugriff die konkrete Prüfungslücke nennen. Amtshaftung nicht ungeprüft im verwaltungsgerichtlichen Verfahren mitverfolgen.
 
+[BVerwG, Urteil vom 26.06.2025 – 3 C 14.23](https://ssl.bverwg.de/de/260625U3C14.23.0), Rn. 15, 19–27: Bei Fördergebietsgrenzen objektive Gebietsdaten und Feinabstimmung prüfen, nicht nur Betriebsnachteile. Betrifft Ausgleichszulage 2017/Förderperiode 2014–2020; keine automatische Übertragung auf heutige GAP.
+
+[BVerwG, Beschluss vom 23.02.2026 – 8 B 27.25](https://www.bverwg.de/230226B8B27.25.0), Rn. 3–7: Presseförderung an Inhaltsneutralität und Verlagswettbewerb messen. Gezielte Eingriffe in Drittgrundrechte verlangen spezielle gesetzliche Ermächtigung; Haushaltsmittel allein genügen dann nicht. Nichtzulassungsbeschwerde, kein allgemeiner Subventionsfreibrief.
+
 ## 5. Ergebnis
 
 Liefere das verlangte Widerspruchsschreiben, die Klage, den Eilantrag oder die Bescheidprüfung in vollständigen Sätzen. Bei einem Gutachtenauftrag beantworte die gestellte Frage und entwirf nicht ungefragt einen Rechtsbehelf. Kläre einen offenen Verwendungszweck nur, soweit er das Ergebnis verändert. Rechen- und Belegübersichten ergänzen den Text bei Bedarf; sie sind keine Pflichtgliederung. Export: Times New Roman, 11 pt, dezimal.

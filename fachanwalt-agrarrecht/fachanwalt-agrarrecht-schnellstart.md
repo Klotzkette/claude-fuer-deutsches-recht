@@ -30,15 +30,13 @@ Ordne Antrag, Flächenregister, Bewirtschaftungsauflage, Kontrolle, Anhörung un
 
 Fehlen Flächenidentifikation oder Kontrollbericht, fordere die betroffenen Angaben an. Nach Eingang würdige die Beanstandung, rechne betroffene Kürzungen oder Rückforderungen neu und formuliere das bestellte Behördenschreiben aus. Vorhandene Unterlagen beweisen nicht automatisch sämtliche Fördervoraussetzungen; Darlegungs- und Beweislast nach dem konkreten Merkmal prüfen.
 
-## 1.4. Hofwert und Windnutzung
+## 1.4. Rechtsanker anwenden
 
-Normen und Entscheidungen vor Verwendung amtlich prüfen. Historische Wert- und Formmaßstäbe nicht als heutige Rechtslage ausgeben.
+Heutige Hofeigenschaft und Hofeswert nach Paragrafen 1, 12 und 19 HöfeO stichtagsbezogen prüfen. Bei Windnutzung bleibt [BGH, Beschluss vom 24.04.2009 – BLw 21/08](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/LdwS/2008/BLw__21-08.pdf?__blob=publicationFile&v=1), Rn. 13–20, maßgeblich: Restbewirtschaftung schließt Nachabfindung bei langfristigem Zweckwegfall und erheblichen Gewinnen nicht aus; Höhe und Eigenleistungen gesondert rechnen.
 
-- HöfeO Paragraf 1: Hofeigenschaft ab 54.000 EUR Grundsteuerwert sowie Erklärungsbereich von 27.000 EUR bis unter 54.000 EUR.
-- HöfeO Paragraf 12 Absatz 2: Hofeswert mit 60 Prozent des zuletzt festgestellten Grundsteuerwerts sowie Zu- oder Abschlag bei besonderen Umständen.
-- BGB Paragraf 585 bis Paragraf 597: Landpachtvertrag, Form, Erhaltung, Kündigung und Rückgabe.
-- LPachtVG Paragraf 2, Paragraf 4, Paragraf 7 und Paragraf 8 sowie LwVfG Paragraf 2: Anzeige, Beanstandung und ausschließliche erstinstanzliche Zuständigkeit des Amtsgerichts als Landwirtschaftsgericht.
-- Bei längerfristiger Windnutzung [BGH, Beschluss vom 24.04.2009, Az. BLw 21/08](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/LdwS/2008/BLw__21-08.pdf?__blob=publicationFile&v=1), Randnummern 13 bis 20, zu Paragraf 13 Absatz 4 Buchstabe b HöfeO anwenden: Restbewirtschaftung schließt die landwirtschaftsfremde Nutzung nicht aus. Bei Wegfall des höferechtlichen Zwecks für längere Zeit und erheblichen Gewinnen sämtliche einschlägigen Nutzungsentgelte berücksichtigen, nicht nur Wege- und Fundamententgelte. Endgültige Höhe und eigene Leistungen nach Absatz 5 bleiben gesondert zu prüfen; historische Hofwerte nicht übernehmen.
+[BGH, Beschluss vom 09.05.2025 – BLw 2/24](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/LdwS/2024/BLw___2-24.pdf?__blob=publicationFile&v=1), Rn. 8–17: Einzelner Erbteil mit Agrargrundstücken allein fällt nicht unter Paragraf 2 Absatz 2 Nummer 2 GrdstVG. Nachlassbetrieb und abgestimmten Erwerb aller Anteile zur Umgehung gesondert prüfen; bloßer Erwerbswunsch genügt nicht.
+
+[BVerwG, Urteil vom 24.06.2026 – 4 C 2.25](https://www.bverwg.de/de/240626U4C2.25.0), Rn. 7–14, 20–24: Bei Stalländerung Gesamtvorhaben und Futtergrundlage für den ganzen tatsächlichen Betrieb prüfen, nicht nur früher landwirtschaftlich genehmigte Teile. Tier- und Flächenbilanz anfordern. Paragraf 35 Absatz 4 Satz 1 Nummer 6 BauGB bleibt gesondert; Zurückverweisung ist keine Genehmigung.
 
 ## 1.5. Ergebnis und Weiterarbeit
 

@@ -1,0 +1,78 @@
+{
+  "plugin": "fachanwalt-insolvenz-sanierungsrecht",
+  "checked_on": "2026-10-01",
+  "method": "fresh_official_primary_passages_and_targeted_text_review",
+  "scope": "Zwei aktuelle oberstgerichtliche Anker in Werkstatt, Mini und sachlich passenden vorhandenen Fachskills; Hauptproblem nur nach konkreter Einschlägigkeit.",
+  "decisions": [
+    {
+      "court": "BGH",
+      "decision_type": "Urteil",
+      "decision_date": "12.03.2026",
+      "docket": "IX ZR 18/25",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZR__18-25.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-01",
+      "read_passages": "Rn. 24–32",
+      "holding": "Geordneter Fälligkeits-/Mittelvergleich; tatsächlich geleistete Drittmittel nicht wegen fehlenden durchsetzbaren Anspruchs ausschließen, kurzfristige Verfügbarkeit belegen.",
+      "transfer_limit": "Anfechtungsverfahren; bloße Zusagen kein belegter Zufluss, keine automatische Entlastung aus Paragraf15bInsO.",
+      "retrieval": "Amtlicher BGH-PDF-Volltext frisch heruntergeladen; bezeichnete Passagen gelesen.",
+      "verification_status": "fresh_primary_passages",
+      "sha256": "36d5ba66edcf9e47caa22dd5b0ba152877dc60983a3f5a0403decf6381f23da1",
+      "citation": "BGH, Urteil vom 12.03.2026 – Az. IX ZR 18/25"
+    },
+    {
+      "court": "BGH",
+      "decision_type": "Urteil",
+      "decision_date": "23.01.2025",
+      "docket": "IX ZR 229/22",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2022/IX_ZR_229-22.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-01",
+      "read_passages": "Rn. 34–45",
+      "holding": "Vorläufig titulierte Forderung bei vorliegenden Vollstreckungsvoraussetzungen und eingeleiteter Vollstreckung zum Nennwert im Status berücksichtigen.",
+      "transfer_limit": "Keine Prozessrisikoquote, aber objektive Rechtslage und gerichtliche Vollstreckungsentscheidungen prüfen; keine automatische subjektive Kenntnis oder Organhaftung.",
+      "retrieval": "Amtlicher BGH-PDF-Volltext frisch heruntergeladen; bezeichnete Passagen gelesen.",
+      "verification_status": "fresh_primary_passages",
+      "sha256": "39352de9ac761163984568c54228ef895b3a37c2f43c096f00a338a08c74bf30",
+      "citation": "BGH, Urteil vom 23.01.2025 – Az. IX ZR 229/22"
+    }
+  ],
+  "files_read_for_context": [
+    "fachanwalt-insolvenz-sanierungsrecht/fachanwalt-insolvenz-sanierungsrecht-hauptproblem.md",
+    "fachanwalt-insolvenz-sanierungsrecht/fachanwalt-insolvenz-sanierungsrecht-schnellstart.md",
+    "fachanwalt-insolvenz-sanierungsrecht/fachanwalt-insolvenz-sanierungsrecht-werkstatt.md",
+    "fachanwalt-insolvenz-sanierungsrecht/skills/organhaftung-zahlungen-masseabgleich/SKILL.md",
+    "fachanwalt-insolvenz-sanierungsrecht/skills/zahlungsunfaehigkeit-liquiditaetsstatus-streitige-forderungen/SKILL.md"
+  ],
+  "files_changed": [
+    "fachanwalt-insolvenz-sanierungsrecht/fachanwalt-insolvenz-sanierungsrecht-hauptproblem.md",
+    "fachanwalt-insolvenz-sanierungsrecht/fachanwalt-insolvenz-sanierungsrecht-schnellstart.md",
+    "fachanwalt-insolvenz-sanierungsrecht/fachanwalt-insolvenz-sanierungsrecht-werkstatt.md",
+    "fachanwalt-insolvenz-sanierungsrecht/skills/organhaftung-zahlungen-masseabgleich/SKILL.md",
+    "fachanwalt-insolvenz-sanierungsrecht/skills/zahlungsunfaehigkeit-liquiditaetsstatus-streitige-forderungen/SKILL.md"
+  ],
+  "changes": "Tatsächliche Drittmittel und vollstreckte titulierte Schulden in Statusprüfung aufgenommen; vorhandenen Liquiditätsstatus-Skill verlinkt und präzisiert.",
+  "focus_scope": "Beide Entscheidungen tragen die vorgelagerte Insolvenzreifeprüfung auch im Organhaftungs-Hauptproblem/Fokusskill. Sorgfalt und geringerer Gläubigerschaden weiterhin gesondert.",
+  "prompt_sizes": {
+    "schnellstart": {
+      "characters": 6821,
+      "utf8_bytes": 6920,
+      "sha256": "fdc60222f42843d9d6a0c794c08454291014c39f9dddc8c1b42bc9adf8d89122"
+    },
+    "hauptproblem": {
+      "characters": 7237,
+      "utf8_bytes": 7359,
+      "sha256": "feb14c56a8e8d74fc8c64f2f3aefe396f818c91ea2ed7338be22e4584eff32a1"
+    },
+    "werkstatt": {
+      "characters": 18929,
+      "utf8_bytes": 19214,
+      "sha256": "b50204cde4c61141aa67cceba687cf387d2c2f83403a4895be2f6bd0800e4c49"
+    }
+  },
+  "text_mirrors": "Keine vorhandenen TXT-Spiegel in diesem Plugin; keine neuen Doppelkopien erzeugt.",
+  "limits": [
+    "Keine Vollverifikation aller Altentscheidungen oder aller Fachskills.",
+    "Kein neuer Live-Modell-, Mandats-, Export- oder Dokumentrendertest.",
+    "Vorhandene Regulierungs- und Spezialanker außerhalb der bezeichneten Entscheidungen nicht umfassend neu geprüft."
+  ],
+  "search_2026_result": "Mindestens eine passende 2026-Entscheidung frisch amtlich abgeglichen; ältere einschlägige Spezialanker nicht bloß wegen ihres Datums ersetzt."
+}

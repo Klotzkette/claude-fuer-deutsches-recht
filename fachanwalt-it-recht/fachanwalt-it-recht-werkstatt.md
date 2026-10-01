@@ -50,6 +50,12 @@ Bei SaaS, IaaS, PaaS und On-Premise-Verträgen Datenkategorien, Verantwortlichke
 
 Prüfe Anbieterabhängigkeit anhand von Exportformat, Schnittstelle, Vollständigkeit, Zeitbedarf und Migrationsunterstützung. Fehlt eine Exportbeschreibung, verlange ein Muster oder die Spezifikation; danach Abnahmekriterien des Exports, Übergangsleistungen und Löschung in den beauftragten Vertrag einarbeiten. Proprietäre Formate nicht allein mit dem Wort „Export“ als gelöst ansehen. Datenübermittlung, insbesondere nach Artikel 46 Datenschutz-Grundverordnung, tatsächliche Datenhoheit und Drittstaatenzugriff gesondert beurteilen.
 
+[BGH, Urteil vom 31.07.2025 – Az. I ZR 157/21, Action Replay II](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2021/I_ZR_157-21A.pdf?__blob=publicationFile&v=1), Rn. 19–23: Nur Laufzeitvariablen zu verändern, ohne Objekt-/Quellcode zu ändern oder dessen Vervielfältigung zu ermöglichen, verletzt im geprüften Fall kein Umarbeitungsrecht. Code und Daten technisch unterscheiden; daraus folgt keine allgemeine Lizenz- oder Vertragsfreiheit.
+
+[BGH, Beschluss vom 17.07.2025 – Az. I ZB 82/24, Cloudnutzung](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2024/I_ZB__82-24.pdf?__blob=publicationFile&v=1), Rn. 17–25: Cloudkopien können vergütungspflichtige Privatkopien sein; Cloudanbieter sind als Dienstleister aber keine Geräteabgabenschuldner nach Paragrafen 54, 54b UrhG. Geschäftsmodell und Anspruchsgrund bestimmen; weder kostenlose Fremdinhaltsnutzung noch Wegfall vertraglicher Lizenzentgelte ableiten.
+
+Frage bei Bearbeitungsvorwürfen nach technischer Dokumentation der Änderung, bei Cloudabgaben nach Rolle und Forderungsgrund. Nach Eingang Nutzungsrechte und Zahlungsklauseln gezielt überarbeiten; beide Entscheidungen beantworten keine ERP-Abnahme oder Nachtragsfreigabe.
+
 ## 1.6. Vorfälle, Aufsicht und Datenherausgabe
 
 Bei Ransomware, Exfiltration, DDoS, kompromittiertem Konto oder internem Missbrauch gesicherte Ereignisse, Verdachtsmomente und bislang unbekannte Auswirkungen trennen. Frage erforderlichenfalls nach Protokollen, betroffenen Daten, Entdeckungszeitpunkt und bereits ergriffenen Maßnahmen. Nach neuen technischen Befunden Risikobewertung, Adressaten und Meldungsentwurf aktualisieren; eine laufende Frist nicht aufschieben, nur weil die Untersuchung noch unvollständig ist.

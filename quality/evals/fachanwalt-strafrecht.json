@@ -40,8 +40,8 @@
     },
     {
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Strafsenate/6_StS/2026/6_StR_160-26.pdf?__blob=publicationFile&v=1",
-      "checked_on": "2026-09-22",
-      "supports": "BGH, Beschluss vom 04.08.2026, 6 StR 160/26, Randnummern 3 bis 5. Amtliche tragende Entscheidungsgründe gelesen. Anwendung: Widerspruch zwischen behaupteter Veräußerung und Sicherstellungsbelegen durch gegenstandsbezogenen Verbleibs- und Rückgabevergleich auflösen. Grenze: Fortbestehende Sachbeute und Rückgabe an Verletzte haben unterschiedliche Folgen; revisionsgerichtliche Betragskorrektur erlaubt keinen pauschalen Abzug aller Sicherstellungen vom Geldarrest."
+      "checked_on": "2026-10-01",
+      "supports": "Sicherstellung widerspricht behauptetem Verkauf; gegenständliche Einziehung bei fortbestehender Beute von Erlöschen nach Rückgabe unterscheiden. Grenze: Konkrete revisionsgerichtliche Kürzung nicht auf sämtliche Sicherstellungen/Arrestbeträge übertragen."
     },
     {
       "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2013/03/rs20130319_2bvr262810.html",
@@ -106,7 +106,7 @@
     {
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Strafsenate/3_StS/2025/3_StR_203-25.pdf?__blob=publicationFile&v=1",
       "checked_on": "2026-10-01",
-      "supports": "BGH, Urteil vom 08.01.2026, 3 StR 203/25, Rn. 7–15. Amtlichen Volltext gelesen. Anwendung: Einvernehmliche Verwahrung der Beute in allein bewohnter Wohnung mit freiem Zugriff als tatsächliche Mitverfügung prüfen; konkludentes Einvernehmen kann genügen. Zugang, Kontrolle und Lagerdauer statt bloßer Ablieferungspflicht auswerten. Grenze: Keine automatische Zurechnung an jeden Wohnungsinhaber; Mittäterschaft allein genügt weiterhin nicht. Tatsächlich erlangte Verfügungsmacht entfällt nicht durch spätere Weiterleitung."
+      "supports": "Einvernehmliche Beutelagerung mit tatsächlichem freien Zugriff kann Mitverfügung begründen, ohne ausdrückliche Abrede aller Hinterleute. Grenze: Weder Mittäterschaft noch Wohnungsinhaberschaft allein ersetzen tatsächliche Verfügung; spätere Weiterleitung beseitigt Erlangen nicht."
     },
     {
       "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/08/rk20260803_1bvr223224.html",
@@ -131,7 +131,7 @@
       "01.10.2026: 3 StR 203/25 als konkretes Gegenbeispiel zum pauschalen Einwand einer Ablieferungspflicht in Einziehungsprüfung, Fokus, Werkstatt und Mini eingebunden.",
       "Fachspezifische 2026-Anker ergänzt: BVerfG, Beschluss vom 03.08.2026 – 1 BvR 2232/24, Rn. 14–24, BVerfG, Beschluss vom 14.01.2026 – 1 BvR 1409/25, Rn. 7–17. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
     ],
-    "sha256": "5346daa0ab4d7e925c3e8104ed0983cc7e74ed6c9fe187074043bef529b7fc3e",
+    "sha256": "90bd98997a4e9c303082076d1eaddef15d2867d58f2bae3d748485e042eaa0e4",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
@@ -150,7 +150,7 @@
     "prompt_path": "fachanwalt-strafrecht/fachanwalt-strafrecht-hauptproblem.md",
     "prompt_sha256": "066d7d4b4f150c8c4e61aecff1ec312099eb9821240b7292f912974f85653830",
     "skill_path": "fachanwalt-strafrecht/skills/einziehung-geldfluss-mitverfuegung-arrestabgleich/SKILL.md",
-    "skill_sha256": "1af08087afef3b8dce1bc60c90169d75dde74206a4c254d76982c3b16a9c4595"
+    "skill_sha256": "a8b35ea09e2d8a54a5775f019da806a52d332d23324a36910bdd4109649cd1a6"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -164,7 +164,7 @@
       "01.10.2026: 3 StR 203/25 als konkretes Gegenbeispiel zum pauschalen Einwand einer Ablieferungspflicht in Einziehungsprüfung, Fokus, Werkstatt und Mini eingebunden.",
       "Fachspezifische 2026-Anker ergänzt: BVerfG, Beschluss vom 03.08.2026 – 1 BvR 2232/24, Rn. 14–24, BVerfG, Beschluss vom 14.01.2026 – 1 BvR 1409/25, Rn. 7–17. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
     ],
-    "sha256": "ba7539a0425d80e2721e31f371d96a881d0b606a86c1959b385400f9948c3795",
+    "sha256": "bc0e69dec5e58778d4e288e4f23954a753fd43ebecd12231b9d9513d7e9a0e53",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
@@ -224,9 +224,10 @@
     "date": "2026-10-01",
     "files": [
       "fachanwalt-strafrecht/fachanwalt-strafrecht-hauptproblem.md",
-      "fachanwalt-strafrecht/fachanwalt-strafrecht-werkstatt.md",
       "fachanwalt-strafrecht/fachanwalt-strafrecht-schnellstart.md",
-      "fachanwalt-strafrecht/skills/einziehung-geldfluss-mitverfuegung-arrestabgleich/SKILL.md"
+      "fachanwalt-strafrecht/fachanwalt-strafrecht-werkstatt.md",
+      "fachanwalt-strafrecht/skills/einziehung-geldfluss-mitverfuegung-arrestabgleich/SKILL.md",
+      "fachanwalt-strafrecht/skills/juristischer-argumentationskern/SKILL.md"
     ],
     "opening_change": "Tatnachweis, rechtlichen Einwand und günstigere Rechtsfolge vom konkreten Aktenvorwurf aus unterscheiden; im Hauptproblem persönliche Verfügung statt Gesamtschadenzurechnung. Workflow-Ergänzung: Leer: Tatvorwurfsprüfung, Eingriffsabwehr oder Einziehungsgegenrechnung anbieten. Dateien ohne Aufgabe: Ermittlungsakte, Chatkontext und Arrestmaterial still erschließen; Verteidigungsziel klären, weder Aktenbericht noch Einlassung ausgeben. Klarer Auftrag: bestellten Vermerk oder Antrag unmittelbar ausarbeiten; Einlassung und externe Verwendung gesondert freigeben.",
     "norms": [
@@ -243,10 +244,11 @@
         "limit": "Tatsächlich erlangte Verfügungsmacht entfällt nicht durch spätere Weiterleitung; keine allgemeine Begrenzung auf behaltenen Gewinn."
       },
       {
-        "citation": "BGH, Beschluss vom 04.08.2026, 6 StR 160/26, Randnummern 3 bis 5",
+        "citation": "BGH, Beschluss vom 04.08.2026 – 6 StR 160/26",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Strafsenate/6_StS/2026/6_StR_160-26.pdf?__blob=publicationFile&v=1",
-        "application": "Widerspruch zwischen behaupteter Veräußerung und Sicherstellungsbelegen durch gegenstandsbezogenen Verbleibs- und Rückgabevergleich auflösen.",
-        "limit": "Fortbestehende Sachbeute und Rückgabe an Verletzte haben unterschiedliche Folgen; revisionsgerichtliche Betragskorrektur erlaubt keinen pauschalen Abzug aller Sicherstellungen vom Geldarrest."
+        "application": "Sicherstellung widerspricht behauptetem Verkauf; gegenständliche Einziehung bei fortbestehender Beute von Erlöschen nach Rückgabe unterscheiden.",
+        "limit": "Konkrete revisionsgerichtliche Kürzung nicht auf sämtliche Sicherstellungen/Arrestbeträge übertragen.",
+        "checked_on": "2026-10-01"
       },
       {
         "citation": "BVerfG, Urteil vom 19.03.2013, 2 BvR 2628/10, Randnummern 68 bis 71 und 84 bis 93",
@@ -255,10 +257,10 @@
         "limit": "Reine Terminabsprachen nicht erfasst; kein generelles Verständigungsverbot und nicht jeder Fehler automatisch absoluter Revisionsgrund."
       },
       {
-        "citation": "BGH, Urteil vom 08.01.2026, 3 StR 203/25, Rn. 7–15",
+        "citation": "BGH, Urteil vom 08.01.2026 – 3 StR 203/25",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Strafsenate/3_StS/2025/3_StR_203-25.pdf?__blob=publicationFile&v=1",
-        "application": "Einvernehmliche Verwahrung der Beute in allein bewohnter Wohnung mit freiem Zugriff als tatsächliche Mitverfügung prüfen; konkludentes Einvernehmen kann genügen. Zugang, Kontrolle und Lagerdauer statt bloßer Ablieferungspflicht auswerten.",
-        "limit": "Keine automatische Zurechnung an jeden Wohnungsinhaber; Mittäterschaft allein genügt weiterhin nicht. Tatsächlich erlangte Verfügungsmacht entfällt nicht durch spätere Weiterleitung.",
+        "application": "Einvernehmliche Beutelagerung mit tatsächlichem freien Zugriff kann Mitverfügung begründen, ohne ausdrückliche Abrede aller Hinterleute.",
+        "limit": "Weder Mittäterschaft noch Wohnungsinhaberschaft allein ersetzen tatsächliche Verfügung; spätere Weiterleitung beseitigt Erlangen nicht.",
         "checked_on": "2026-10-01"
       },
       {
@@ -294,5 +296,27 @@
     "continuation": "Gegenstand ist noch sichergestellt statt zurückgegeben oder veräußert -> Einziehungsart, Gegenrechnung und Antrag ändern; ergänzter Chatkontext -> belastende und entlastende Schlussfolgerungen neu bewerten.",
     "enrichment": "Digitale Zuordnung und konkrete Gegenhypothese, Beweistatsache gegenüber Ermittlungsfrage, persönliche Verfügungsmacht, Asservat gegenüber Rückführung, tatsächliche Arrestbindung sowie Strafbefehlseinspruch und vollständiger Rügevortrag.",
     "limits": "desk review; no live client execution"
+  },
+  "fachanwaltschaft_source_review_2026_10_01": {
+    "method": "targeted_official_source_and_prompt_review",
+    "report": "quality/source-audits/fachanwaltschaft-2026-10-01/fachanwalt-strafrecht.json",
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 08.01.2026 – 3 StR 203/25",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Strafsenate/3_StS/2025/3_StR_203-25.pdf?__blob=publicationFile&v=1",
+        "passages": "Rn. 7–13 frisch; Rn. 14–15 aus Vorprüfung übernommen",
+        "retrieval": "amtlicher Volltext, ausgewählte Gründe frisch gelesen",
+        "checked_on": "2026-10-01"
+      },
+      {
+        "citation": "BGH, Beschluss vom 04.08.2026 – 6 StR 160/26",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Strafsenate/6_StS/2026/6_StR_160-26.pdf?__blob=publicationFile&v=1",
+        "passages": "Tenor und Rn. 1–6, vollständiger Beschluss",
+        "retrieval": "amtlicher Volltext, ausgewählte Gründe frisch gelesen",
+        "checked_on": "2026-10-01"
+      }
+    ],
+    "focus_scope": "Hauptproblem Einziehung enthält beide frisch nachgelesenen Entscheidungen bereits mit Datum, Aktenzeichen und amtlichem Direktlink. Inhalt unverändert; neue Konkretisierung im Werkstatt- und Einziehungsskill sowie fehlenden Sachbeuteanker im Mini ergänzt.",
+    "new_model_tests": false
   }
 }

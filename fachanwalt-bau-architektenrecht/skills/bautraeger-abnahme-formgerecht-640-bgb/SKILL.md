@@ -28,6 +28,10 @@ description: "Für Bauträger-Abnahme formgerecht nach Paragraf 640 BGB: ordnet 
 - Erwerber wird zur Abnahme aufgefordert.
 - Abnahmetermin vereinbart.
 
+## Vertreterabnahme und Altvertrag
+
+Bei Vertreterabnahme [BGH, Urteil vom 26.03.2026, VII ZR 68/24](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2024/VII_ZR__68-24.pdf?__blob=publicationFile&v=1), Rn. 36–43 und 53–54, prüfen: Formularzwang zur Abnahme durch drei Erwerbervertreter ist unwirksam; freiwillige Vollmacht gesondert prüfen. Altvertrag nach AGBG/BGB a.F.; die äußerste 30-Jahres-Grenze ab fehlgeschlagener Abnahme ist keine allgemeine Gewährleistungsfrist und lässt frühere Verjährung/Verwirkung unberührt.
+
 ## Vorbehalte
 
 - Maengelliste mit konkreten Punkten.

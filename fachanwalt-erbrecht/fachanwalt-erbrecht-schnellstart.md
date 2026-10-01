@@ -1,4 +1,4 @@
-# 1. Fachanwalt Erbrecht: Schnellstart
+# 1. Erbrecht: Schnellstart
 
 Prüfe Erbenstellung, Pflichtteil und Nachlassabwicklung. Ohne Eingabe biete Erbfolgeklärung, Pflichtteilsforderung oder Haftungssicherung an. Bei Dateien ohne Auftrag lies sie still und frage nach dem passenden Ziel, ohne Materialbericht. Bei klarem Auftrag arbeite direkt; nach Antworten ändere Rechnung und bestellten Entwurf, ohne neue Aufnahme.
 
@@ -18,7 +18,7 @@ Stammbaum aus Personenstand, Adoption, Ehe, Güterstand und Todesreihenfolge bil
 
 ### 1.3.1. Erbfolge und Verfügung
 
-Gesetzliche Erbfolge anhand Stammbaum und Status rechnen. Bei Scheidung Paragraf 1933 BGB prüfen: 18 Jahre Verfahrensstillstand ersetzen keine Rücknahme; BGH, Beschluss vom 13.05.2026 – IV ZB 7/25, Rn. 8–25. Scheidungsvoraussetzungen, Antrag/Zustimmung und Rücknahme zum Erbfall belegen. Eine neue Verfügung gestalten oder eine vorhandene Verfügung auslegen und auf Anfechtungsgründe prüfen, je nach Auftrag. Form, Widerruf, Bindung und Ersatzfall ordnen. Auslegung ersetzt keinen Anfechtungsgrund.
+Gesetzliche Erbfolge anhand Stammbaum und Status rechnen. Bei Scheidung Paragraf 1933 BGB prüfen: 18 Jahre Verfahrensstillstand ersetzen keine Rücknahme; [BGH, Beschluss vom 13.05.2026 – IV ZB 7/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2025/IV_ZB___7-25.pdf?__blob=publicationFile&v=1), Rn. 8–25. Scheidungsvoraussetzungen, Antrag/Zustimmung und Rücknahme zum Erbfall belegen. Eine neue Verfügung gestalten oder eine vorhandene Verfügung auslegen und auf Anfechtungsgründe prüfen, je nach Auftrag. Form, Widerruf, Bindung und Ersatzfall ordnen. Auslegung ersetzt keinen Anfechtungsgrund.
 
 Bei gebundener Nachfolge wechselbezügliche und vertragsmäßige Verfügungen unterscheiden. BGB Paragraf 2270 nicht analog auf Erbverträge übertragen. Bei Demenz zum Errichtungszeitpunkt ein konkretes Beweisprogramm aufbauen; Diagnose allein beweist keine Testierunfähigkeit. Verzicht, Nacherbschaft und Pflegeausgleich behalten ihre eigenständigen Fachaufträge.
 
@@ -26,7 +26,7 @@ Bei gebundener Nachfolge wechselbezügliche und vertragsmäßige Verfügungen un
 
 Ausschlagung nach Entscheidungsgrundlage, Erklärung und möglicher Anfechtung bearbeiten. Vor einem Erbscheinsantrag klären, ob der Nachweis tatsächlich benötigt wird; Antrag nach FamFG Paragrafen 352 fortfolgende, nicht aufgehobenen BGB-Vorschriften.
 
-Bei unrichtigem Erbschein Grund und Einziehung prüfen.
+Unrichtigen Erbschein: Einziehungsgrund prüfen.
 
 ### 1.3.3. Pflichtteil und Schenkung
 
@@ -34,7 +34,7 @@ Für den Pflichtteil gesetzliche Quote, Pflichtteilsquote, bereinigten Nachlass 
 
 Vorliegendes Verzeichnis mit Todestagsbelegen abgleichen: Depot und Verkaufserlös nicht doppelt zählen, spätere Kontosalden nur belegt zurückrechnen. Bestandslücke, fehlende Eigenrecherche, Wertfrage und Sorgfaltszweifel trennen. Ergänzung, Wertermittlung und Versicherung sind unterschiedliche Wege; Paragraf 2314 BGB gewährt keinen pauschalen Anspruch auf alle Einzelbelege.
 
-Verhindert der Erbe durch verweigerte Zustimmung eine konkrete Bankermittlung des Notars, begründe die gezielte Ergänzung mit BGH, Urteil vom 20.05.2020 - IV ZR 193/19, Randnummern 8 bis 11 ([amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2019/IV_ZR_193-19.pdf?__blob=publicationFile&v=1)). Benenne die ausgelassene Bankverbindung und benötigte Mitwirkung. Bloße Richtigkeitszweifel rechtfertigen kein beliebig neues Verzeichnis; Paragraf 260 Absatz 2 BGB gesondert prüfen. Bestand/Wert: Paragraf 2311, Quote: Paragraf 2303 BGB. Bei privatem Auskunftstitel Schuldnerbeschwer nach notwendigem Zeit-/Kostenaufwand belegen: BGH, 16.09.2026, IV ZB 4/26, Rn. 5–12. Die dortigen 600 Euro beruhen auf Übergangsrecht, kein aktueller Pauschalwert.
+Verhindert der Erbe durch verweigerte Zustimmung eine konkrete Bankermittlung des Notars, begründe die gezielte Ergänzung mit BGH, Urteil vom 20.05.2020 - IV ZR 193/19, Randnummern 8 bis 11 ([amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2019/IV_ZR_193-19.pdf?__blob=publicationFile&v=1)). Benenne die ausgelassene Bankverbindung und benötigte Mitwirkung. Bloße Richtigkeitszweifel rechtfertigen kein beliebig neues Verzeichnis; Paragraf 260 Absatz 2 BGB gesondert prüfen. Bestand/Wert: Paragraf 2311, Quote: Paragraf 2303 BGB. Bei privatem Auskunftstitel Schuldnerbeschwer nach notwendigem Zeit-/Kostenaufwand belegen: [BGH, Beschluss vom 16.09.2026, IV ZB 4/26](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2026/IV_ZB___4-26.pdf?__blob=publicationFile&v=1), Rn. 5–12. Die dortigen 600 Euro beruhen auf Übergangsrecht, kein aktueller Pauschalwert.
 
 Für die Ergänzungsrechnung Vollzug, Gegenleistung, Nutzungsrecht und beide Wertstichtage erfassen. Nach sechs vollen Jahren verbleiben bei laufender Frist 40 Prozent. Ehegattenschenkung und vorbehaltenen Genuss gesondert prüfen. Beschenktenhaftung hat eigene Subsidiarität und Verjährung. Bei späterer Vaterschaftsfeststellung Entstehung, Ausübungssperre und Kenntnis trennen.
 
@@ -52,11 +52,11 @@ Unternehmensnachfolge stimmt Verfügung, Gesellschaftsvertrag, Führung und Liqu
 
 ## 1.4. Beweise und Quellen
 
-Jede tragende Aussage mit Normfassung, Aktenfund und gegebenenfalls amtlichem Entscheidungsnachweis belegen. Behauptung, Indiz und Schlussfolgerung trennen. Gegenargument und fehlenden Nachweis konkret benennen. Werte mit Stichtag und Methode, Bandbreiten nur auf belegter Grundlage rechnen.
+Tragende Aussagen mit Normfassung, Aktenfund und Entscheidungsnachweis belegen. Behauptung, Indiz und Schluss trennen; Gegenargument und Nachweislücke benennen. Werte mit Stichtag und Methode belegen.
 
-Fehlende Todestagssalden, Buchungen oder Nutzungsrechtsklauseln gezielt nachfordern. Neue Nachweise in Rechnung und Entwurf einarbeiten und fertigschreiben; nur neue Lücken nachfragen. Begründbare Teile vorläufig liefern.
+Todestagssalden, Buchungen oder Nutzungsrechte gezielt nachfordern; danach Rechnung und Entwurf abschließen. Neue Lücken fragen, unabhängige Teile vorläufig liefern.
 
-Quellen: Gericht, Form, Datum, Aktenzeichen, amtlicher Link, gelesene Passage und aktuelle Normfassung; keine erfundene Literatur oder Volltextprüfung. Optional: [Zitierweise](../references/zitierweise.md).
+Quellen: Gericht, Form, Datum, Aktenzeichen, amtlicher Link, gelesene Passage und Normfassung; keine erfundene Literatur oder Volltextprüfung.
 
 ## 1.5. Dokument und Abschluss
 
@@ -64,6 +64,6 @@ Formuliere vollständige Sätze und bestimmte Anträge mit nachrechenbaren Betr�
 
 Echte Umlaute und ß, Paragraf ausgeschrieben, dezimale Gliederung; Times New Roman 11 pt, bei Markdown Exporthinweis. Mandanten in Sie-Form ansprechen. Quellenstatus und vertrauliche Vergleichsgrenzen getrennt führen. Anlagen und Signaturweg auftragsbezogen prüfen. Keine Außenhandlung ohne Freigabe.
 
-Stoppe nur die endgültige Quoten- oder Erklärungsfreigabe bei ungeklärtem Status, Berufungsgrund, Kenntnisdatum oder Vollmacht. Vorläufige Rechnung, Urkundenanforderung und dringende Fristsicherung bleiben getrennt weiterzubearbeiten.
+Ungeklärter Status, Berufungsgrund, Kenntnisdatum oder Vollmacht sperren nur abhängige Schlussfolgerungen. Vorläufige Rechnung, Urkundenanforderung und Fristsicherung weiterbearbeiten.
 
 Fehlenden Zugriff konkret benennen, unabhängige Teile fortführen und ohne Export den vollständigen Text liefern. Keine nicht erfolgte Prüfung behaupten.

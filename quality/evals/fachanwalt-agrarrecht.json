@@ -82,6 +82,16 @@
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/LdwS/2015/BLw___2-15.pdf?__blob=publicationFile&v=1",
       "checked_on": "2026-10-01",
       "supports": "Amtliches PDF: Kopf, Entscheidungsdatum und Leitsätze a und b. Docket im Landpacht-/Hoferbfolge-Skill von LwZB 2/15 auf BLw 2/15 berichtigt. Kauf und eng verbundene Verpachtung zur Umgehung des Siedlungsvorkaufsrechts prüfen. Grenze: Frisch nur Titel und Leitsätze gelesen; kein behaupteter vollständiger neuer Durchgang der Gründe. Nicht jeder Kauf mit Pacht ist betroffen."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/LdwS/2024/BLw___2-24.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-01",
+      "supports": "Einzelner Erbteil mit landwirtschaftlichen Grundstücken ist nicht schon nach § 2 Abs. 2 Nr. 2 GrdstVG genehmigungspflichtig; Umgehung konkret prüfen. Grenze: Nachlassbetrieb und auf vollständigen Anteilserwerb angelegte Umgehung gesondert; keine allgemeine Freistellung sämtlicher Anteilstransaktionen."
+    },
+    {
+      "url": "https://www.bverwg.de/de/240626U4C2.25.0",
+      "checked_on": "2026-10-01",
+      "supports": "Änderung eines Stalls verlangt Gesamtvorhabenprüfung; Futtergrundlage für tatsächlichen einheitlichen Betrieb, nicht nur historisch landwirtschaftlich genehmigte Teile. Grenze: Zurückverweisung und Prüfung § 35 Abs. 4 Satz 1 Nr. 6 BauGB, keine Genehmigungszusage; Gesetzentwurf entfaltet keine Vorwirkung."
     }
   ],
   "mini_review": {
@@ -93,7 +103,7 @@
       "Pachtumgehung und Vorerb-/Nacherbfall individuell eingegrenzt; vorhandene Förder-, Fachaufsichts-, Nachforderungs- und Rechenwege erhalten",
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
     ],
-    "sha256": "67eba369713594f35c8883ba96b0bcb7a4289e2b79ff170522e05e5bb62d268f"
+    "sha256": "41ffa309ccba360283e0c02f98aa0aa573c1bb588af2a5ac7cb7b7882d520449"
   },
   "focus_review": {
     "reviewed_on": "2026-09-23",
@@ -179,18 +189,21 @@
       "Pachtumgehung und Vorerb-/Nacherbfall individuell eingegrenzt; vorhandene Förder-, Fachaufsichts-, Nachforderungs- und Rechenwege erhalten",
       "Flurstücksbezogene Nutzung, Unterzeichnungsbefugnis, Mindest- und Umsatzentgelt, Erlösabzug und Zahlungsnachweis, Kontrollen pro Fläche und Förderjahr sowie Abgrenzung tatsächlicher Behinderung."
     ],
-    "sha256": "69ac99806f49961afbbd348136b1c24557995e6f85b0e0532c56030bd515f5d0"
+    "sha256": "293a8166aa135770fa915e09d770b50a9f80c89a17e065aa08532f587caf6985"
   },
   "prompt_editorial_review": {
     "date": "2026-10-01",
     "files": [
-      "fachanwalt-agrarrecht/fachanwalt-agrarrecht-hauptproblem.md",
-      "fachanwalt-agrarrecht/fachanwalt-agrarrecht-werkstatt.md",
-      "fachanwalt-agrarrecht/fachanwalt-agrarrecht-schnellstart.md",
-      "fachanwalt-agrarrecht/skills/windenergieerloese-nachabfindung-abgleichen/SKILL.md",
       "fachanwalt-agrarrecht/README.md",
-      "quality/evals/fachanwalt-agrarrecht.json",
-      "fachanwalt-agrarrecht/skills/landpacht-und-hoferbfolge-pruefen/SKILL.md"
+      "fachanwalt-agrarrecht/fachanwalt-agrarrecht-hauptproblem.md",
+      "fachanwalt-agrarrecht/fachanwalt-agrarrecht-schnellstart.md",
+      "fachanwalt-agrarrecht/fachanwalt-agrarrecht-werkstatt.md",
+      "fachanwalt-agrarrecht/skills/fachanwalt-agrarrecht-tierhaltung-genehmigung/SKILL.md",
+      "fachanwalt-agrarrecht/skills/juristischer-argumentationskern/SKILL.md",
+      "fachanwalt-agrarrecht/skills/landpacht-und-hoferbfolge-pruefen/SKILL.md",
+      "fachanwalt-agrarrecht/skills/tierhaltung-genehmigung/SKILL.md",
+      "fachanwalt-agrarrecht/skills/windenergieerloese-nachabfindung-abgleichen/SKILL.md",
+      "quality/evals/fachanwalt-agrarrecht.json"
     ],
     "opening_change": "Pachtbindung, Hofübergang und Beteiligung weichender Erben an tatsächlichen Windentgelten konkret benannt. Workflow-Ergänzung: Leer: Landpacht, Hoferbfolge oder Fördermittelkontrolle anbieten. Dateien ohne Aufgabe: Flurstücks-, Hof- und Windentgeltbelege still lesen; Pacht-, Nachabfindungs- oder Abwehrziel klären. Klarer Auftrag: konkretes Auskunfts-, Anspruchs- oder Abwehrschreiben direkt ausarbeiten; bekannte Hof- und Beteiligtenangaben nicht wiederholen.",
     "norms": [
@@ -224,6 +237,20 @@
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/LdwS/2015/BLw___2-15.pdf?__blob=publicationFile&v=1",
         "application": "Kauf unter siedlungsrechtlichem Vorkaufsrecht mit eng verbundener Verpachtung an Käufer; Beanstandung und Aufhebung.",
         "limit": "Nicht jeder Kauf mit Pacht, kein abstrakter Pachtzinsgrenzwert.",
+        "checked_on": "2026-10-01"
+      },
+      {
+        "citation": "BGH, Beschluss vom 09.05.2025 – BLw 2/24",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/LdwS/2024/BLw___2-24.pdf?__blob=publicationFile&v=1",
+        "application": "Einzelner Erbteil mit landwirtschaftlichen Grundstücken ist nicht schon nach § 2 Abs. 2 Nr. 2 GrdstVG genehmigungspflichtig; Umgehung konkret prüfen.",
+        "limit": "Nachlassbetrieb und auf vollständigen Anteilserwerb angelegte Umgehung gesondert; keine allgemeine Freistellung sämtlicher Anteilstransaktionen.",
+        "checked_on": "2026-10-01"
+      },
+      {
+        "citation": "BVerwG, Urteil vom 24.06.2026 – 4 C 2.25",
+        "url": "https://www.bverwg.de/de/240626U4C2.25.0",
+        "application": "Änderung eines Stalls verlangt Gesamtvorhabenprüfung; Futtergrundlage für tatsächlichen einheitlichen Betrieb, nicht nur historisch landwirtschaftlich genehmigte Teile.",
+        "limit": "Zurückverweisung und Prüfung § 35 Abs. 4 Satz 1 Nr. 6 BauGB, keine Genehmigungszusage; Gesetzentwurf entfaltet keine Vorwirkung.",
         "checked_on": "2026-10-01"
       }
     ],
@@ -291,5 +318,27 @@
         "sha256": "a24c5072eaa02676a5c2a95c220b42a790fbc40090e08f3fc8f49914e36875f3"
       }
     ]
+  },
+  "fachanwaltschaft_source_review_2026_10_01": {
+    "method": "targeted_official_source_and_prompt_review",
+    "report": "quality/source-audits/fachanwaltschaft-2026-10-01/fachanwalt-agrarrecht.json",
+    "decisions": [
+      {
+        "citation": "BGH, Beschluss vom 09.05.2025 – BLw 2/24",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/LdwS/2024/BLw___2-24.pdf?__blob=publicationFile&v=1",
+        "passages": "Rn. 8–17",
+        "retrieval": "amtlicher Volltext, ausgewählte Gründe frisch gelesen",
+        "checked_on": "2026-10-01"
+      },
+      {
+        "citation": "BVerwG, Urteil vom 24.06.2026 – 4 C 2.25",
+        "url": "https://www.bverwg.de/de/240626U4C2.25.0",
+        "passages": "Rn. 7–14, 19–24",
+        "retrieval": "amtlicher Volltext, ausgewählte Gründe frisch gelesen",
+        "checked_on": "2026-10-01"
+      }
+    ],
+    "focus_scope": "Hauptproblem Windenergieerlöse/Nachabfindung bleibt bei BLw 21/08. Erbteilgenehmigung und Stallprivilegierung tragen dessen Erlösberechnung nicht.",
+    "new_model_tests": false
   }
 }

@@ -52,17 +52,36 @@
       "url": "https://www.gesetze-im-internet.de/bgb/__630h.html",
       "supports": "Erneuter Normabruf zu den differenzierten Beweisregeln der Behandlungshaftung; Dokumentationsmangel und Haftung nicht pauschal gleichsetzen.",
       "checked_on": "2026-09-23"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2023/VI_ZR_165-23.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-01",
+      "supports": "BGH, Urteil vom 25.11.2025, VI ZR 165/23: Hypothetische Einwilligung muss die tatsächlich durchgeführte Maßnahme decken; bloße Zustimmung zu einer späteren Operation genügt nicht. Grenze: Rechtmäßiges Alternativverhalten bleibt selbständig möglich; Behandlungsseite muss gleichen Schaden bei rechtmäßigem Verlauf beweisen. Gelesen: Entscheidungskopf/Leitsätze und Rn. 10–23",
+      "verification_status": "frisch_amtlicher_volltext_passagen",
+      "source_sha256": "b759910dc9984ad400c94bbca866bb26b05ef58fda7a2cf984959d4c5cdc6508",
+      "source_audit": "quality/source-audits/fachanwaltschaft-2026-10-01/fachanwalt-medizinrecht.json"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2024/VI_ZR__51-24.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-01",
+      "supports": "BGH, Urteil vom 25.11.2025, VI ZR 51/24: Mangelhafter ärztlicher Nachtdienst ist als Organisations-/Behandlungsfehler zu prüfen, nicht als aufklärungspflichtiges Operationsrisiko. Grenze: Kausalität grundsätzlich vom Patienten zu beweisen; Paragraf 630h Absatz 4/5 gesondert, keine automatische Beweislastumkehr aus dem Organisationsmangel. Gelesen: Entscheidungskopf/Leitsatz und Rn. 9–18",
+      "verification_status": "frisch_amtlicher_volltext_passagen",
+      "source_sha256": "efb19a166adc41d857e0aeec4e3b3225cc795cae5f10e443c5b72adc31c112cc",
+      "source_audit": "quality/source-audits/fachanwaltschaft-2026-10-01/fachanwalt-medizinrecht.json"
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Schnellstart vollständig individuell gelesen und überarbeitet: Behandlungsablauf, Aufklärung und belegte Folgen für Haushalt und Pflege rechtlich prüfen. Werkstatt trennt Standard, Kausalität und Beweislast; Aufklärung ohne starre Wartefrist sowie individuell belegte Haushaltshilfe statt pauschaler Tabellenansprüche. Redaktionelle Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Einkaufen ist seit Juni wieder möglich -> Hilfebedarf und Monate korrigieren; neuer Gerätebericht -> Dokumentationslücke von fortbestehender Behandlungsfrage trennen.",
+    "reason": "Schnellstart vollständig individuell gelesen und überarbeitet: Behandlungsablauf, Aufklärung und belegte Folgen für Haushalt und Pflege rechtlich prüfen. Werkstatt trennt Standard, Kausalität und Beweislast; Aufklärung ohne starre Wartefrist sowie individuell belegte Haushaltshilfe statt pauschaler Tabellenansprüche. Redaktionelle Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Einkaufen ist seit Juni wieder möglich -> Hilfebedarf und Monate korrigieren; neuer Gerätebericht -> Dokumentationslücke von fortbestehender Behandlungsfrage trennen. Gezielte Fachanwalts-Aktualisierung 01.10.2026: Zwei BGH-Urteile vom 25.11.2025 erstmals konkret in Aufklärung und Organisationshaftung integriert; keine 2026-Entscheidung nur wegen Jahreszahl hinzugefügt. Kein neuer Live-Modelltest.",
     "changes": [
       "Werkstatt trennt Standard, Kausalität und Beweislast; Aufklärung ohne starre Wartefrist sowie individuell belegte Haushaltshilfe statt pauschaler Tabellenansprüche.",
       "Kernfall mit operativem Entscheidungsanker, gezielten Nachfragen und Fortsetzung zum vollständigen angeforderten Dokument.",
-      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
+      "Zwei BGH-Urteile vom 25.11.2025 erstmals konkret in Aufklärung und Organisationshaftung integriert; keine 2026-Entscheidung nur wegen Jahreszahl hinzugefügt."
     ],
-    "sha256": "c08aa9cb7531ceca7670a241ea63be10850b59433a2a534aeadd42487d387f8c"
+    "sha256": "b7074d847484ddcf380cf98945928d01ecb7c5b453f3fb44a91e47358f31da44",
+    "reviewed_on": "2026-10-01",
+    "method": "desk_review"
   },
   "focus_review": {
     "reviewed_on": "2026-09-23",
@@ -81,13 +100,16 @@
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt vollständig individuell gelesen und überarbeitet: Behandlungsablauf, Aufklärung und belegte Folgen für Haushalt und Pflege rechtlich prüfen. Werkstatt trennt Standard, Kausalität und Beweislast; Aufklärung ohne starre Wartefrist sowie individuell belegte Haushaltshilfe statt pauschaler Tabellenansprüche. Redaktionelle Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Zeitgebundene Befundkenntnis statt Rückschau, konkrete Gutachtenfrage und Gegenursache, Aufklärungsgespräch gegenüber Formular, hypothetische Einwilligung sowie überlappende Pflege- und Haushaltshilfe und Leistungsübergang.",
+    "reason": "Werkstatt vollständig individuell gelesen und überarbeitet: Behandlungsablauf, Aufklärung und belegte Folgen für Haushalt und Pflege rechtlich prüfen. Werkstatt trennt Standard, Kausalität und Beweislast; Aufklärung ohne starre Wartefrist sowie individuell belegte Haushaltshilfe statt pauschaler Tabellenansprüche. Redaktionelle Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Zeitgebundene Befundkenntnis statt Rückschau, konkrete Gutachtenfrage und Gegenursache, Aufklärungsgespräch gegenüber Formular, hypothetische Einwilligung sowie überlappende Pflege- und Haushaltshilfe und Leistungsübergang. Gezielte Fachanwalts-Aktualisierung 01.10.2026: Zwei BGH-Urteile vom 25.11.2025 erstmals konkret in Aufklärung und Organisationshaftung integriert; keine 2026-Entscheidung nur wegen Jahreszahl hinzugefügt. Kein neuer Live-Modelltest.",
     "changes": [
       "Werkstatt trennt Standard, Kausalität und Beweislast; Aufklärung ohne starre Wartefrist sowie individuell belegte Haushaltshilfe statt pauschaler Tabellenansprüche.",
       "Vorhandene Fachzweige, Beispiele und Zugriffsalternativen erhalten; schwache Rechtsprechungshinweise entfernt oder auf belegte Reichweite begrenzt.",
-      "Zeitgebundene Befundkenntnis statt Rückschau, konkrete Gutachtenfrage und Gegenursache, Aufklärungsgespräch gegenüber Formular, hypothetische Einwilligung sowie überlappende Pflege- und Haushaltshilfe und Leistungsübergang."
+      "Zeitgebundene Befundkenntnis statt Rückschau, konkrete Gutachtenfrage und Gegenursache, Aufklärungsgespräch gegenüber Formular, hypothetische Einwilligung sowie überlappende Pflege- und Haushaltshilfe und Leistungsübergang.",
+      "Zwei BGH-Urteile vom 25.11.2025 erstmals konkret in Aufklärung und Organisationshaftung integriert; keine 2026-Entscheidung nur wegen Jahreszahl hinzugefügt."
     ],
-    "sha256": "580258c9a531295c62c9b1ee796ab4313eec202cd4f1d73e14170dba25ca202e"
+    "sha256": "5d95514da287f9af03ffb6808c6ac3ff588b96962bc7d0c9faefc297e761b686",
+    "reviewed_on": "2026-10-01",
+    "method": "desk_review"
   },
   "selection": {
     "positive": [
@@ -149,14 +171,16 @@
     }
   ],
   "prompt_editorial_review": {
-    "date": "2026-09-23",
+    "date": "2026-10-01",
     "files": [
       "fachanwalt-medizinrecht/README.md",
       "fachanwalt-medizinrecht/fachanwalt-medizinrecht-schnellstart.md",
       "fachanwalt-medizinrecht/fachanwalt-medizinrecht-werkstatt.md",
       "fachanwalt-medizinrecht/fachanwalt-medizinrecht-hauptproblem.md",
       "fachanwalt-medizinrecht/skills/behandlungsfolgen-haushalt-pflege-abgleich/SKILL.md",
-      "quality/evals/fachanwalt-medizinrecht.json"
+      "quality/evals/fachanwalt-medizinrecht.json",
+      "fachanwalt-medizinrecht/skills/aufklaerungsfehler-beweisstrategie/SKILL.md",
+      "fachanwalt-medizinrecht/skills/behandlungsfehler-anspruch-pruefen/SKILL.md"
     ],
     "opening_change": "Behandlungsablauf, Aufklärung und belegte Folgen für Haushalt und Pflege rechtlich prüfen Workflow-Ergänzung: Leer: Behandlungsfehlerprüfung, Haushalts-/Pflegeschaden oder Leistungsablehnung anbieten. Dateien ohne Aufgabe: Behandlungsakte, Befunde und Kosten still lesen; Haftungs-, Bezifferungs- oder Widerspruchsziel klären. Klarer Auftrag: konkrete Stellungnahme oder Forderung direkt ausarbeiten, keine ungefragte medizinische Gesamtbewertung.",
     "norms": [
@@ -180,12 +204,35 @@
         "limit": "Amtlicher Leitsatz, Volltext nicht erreichbar; kein automatischer Stundenpreis oder Kausalitätsbeweis.",
         "checked_on": "2026-09-25",
         "verification_status": "wiederverwendeter_auditnachweis"
+      },
+      {
+        "citation": "BGH, Urteil vom 25.11.2025, VI ZR 165/23",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2023/VI_ZR_165-23.pdf?__blob=publicationFile&v=1",
+        "application": "Hypothetische Einwilligung muss die tatsächlich durchgeführte Maßnahme decken; bloße Zustimmung zu einer späteren Operation genügt nicht.",
+        "limit": "Rechtmäßiges Alternativverhalten bleibt selbständig möglich; Behandlungsseite muss gleichen Schaden bei rechtmäßigem Verlauf beweisen.",
+        "checked_on": "2026-10-01",
+        "verification_status": "frisch_amtlicher_volltext_passagen",
+        "passages_read": "Entscheidungskopf/Leitsätze und Rn. 10–23",
+        "source_sha256": "b759910dc9984ad400c94bbca866bb26b05ef58fda7a2cf984959d4c5cdc6508",
+        "source_audit": "quality/source-audits/fachanwaltschaft-2026-10-01/fachanwalt-medizinrecht.json"
+      },
+      {
+        "citation": "BGH, Urteil vom 25.11.2025, VI ZR 51/24",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2024/VI_ZR__51-24.pdf?__blob=publicationFile&v=1",
+        "application": "Mangelhafter ärztlicher Nachtdienst ist als Organisations-/Behandlungsfehler zu prüfen, nicht als aufklärungspflichtiges Operationsrisiko.",
+        "limit": "Kausalität grundsätzlich vom Patienten zu beweisen; Paragraf 630h Absatz 4/5 gesondert, keine automatische Beweislastumkehr aus dem Organisationsmangel.",
+        "checked_on": "2026-10-01",
+        "verification_status": "frisch_amtlicher_volltext_passagen",
+        "passages_read": "Entscheidungskopf/Leitsatz und Rn. 9–18",
+        "source_sha256": "efb19a166adc41d857e0aeec4e3b3225cc795cae5f10e443c5b72adc31c112cc",
+        "source_audit": "quality/source-audits/fachanwaltschaft-2026-10-01/fachanwalt-medizinrecht.json"
       }
     ],
     "remaining_limits": [
       "Desk- und Quellenprüfung, kein Live-Client- oder Modelltest; übrige Fachzweige nicht vollständig rechtlich neu verifiziert.",
       "Amtliche Leitsätze b und c, Volltextabruf gescheitert; keine Entbehrlichkeit rechtzeitiger Aufklärung und keine Übertragung auf Studienzustimmung.",
-      "Workflow-Review 23.09.2026: Paragraf 630h BGB erneut eingesehen. Bestehende Fallanker weiterhin nur in verifizierter Leitsatzreichweite, keine zugänglichen neuen Volltexte behauptet."
+      "Workflow-Review 23.09.2026: Paragraf 630h BGB erneut eingesehen. Bestehende Fallanker weiterhin nur in verifizierter Leitsatzreichweite, keine zugänglichen neuen Volltexte behauptet.",
+      "Fachanwaltsaktualisierung 01.10.2026: zwei ausgewählte aktuelle Entscheidungen frisch im amtlichen Volltext passagenbezogen geprüft; keine Gesamtneuverifikation aller Altanker oder neuen Modelltests. Hauptproblem rechnet Haushalts- und Pflegefolgen. Die zwei aktuellen Haftungsgrundentscheidungen ersetzen den Schadensberechnungsanker VI ZR 183/08 nicht; sie stehen in den fachgebietsweiten Prompts und Haftungsskills."
     ]
   },
   "prompt_workflow_review": {
@@ -224,5 +271,14 @@
     "status": "Ankerkontext gelesen; Quellenstatus je Entscheidung im Bericht differenziert.",
     "registry_changes": [],
     "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
+  },
+  "source_audit_fachanwaltschaft_2026_10_01": {
+    "report": "quality/source-audits/fachanwaltschaft-2026-10-01/fachanwalt-medizinrecht.json",
+    "scope": "Zwei ausgewählte aktuelle Entscheidungen, amtlicher Volltext und operative Prompt-/Skillanwendung; keine pauschale Gesamtprüfung.",
+    "decisions": [
+      "BGH, Urteil vom 25.11.2025, VI ZR 165/23",
+      "BGH, Urteil vom 25.11.2025, VI ZR 51/24"
+    ],
+    "new_model_test": false
   }
 }

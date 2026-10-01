@@ -1,0 +1,577 @@
+{
+  "checked_on": "2026-10-01",
+  "scope": "24 Fachanwaltsbereiche; daneben ein isolierter Datumskontextfehler im Markenrecht korrigiert. Lokaler Build, keine Releaseveröffentlichung oder neuen Modelltests.",
+  "base_commit": "28e7dec93af8944dcb423b18a0c68b4b9ba85545",
+  "checks": {
+    "quality_profiles": "passed: 266 profiles; --require-editorial --require-workflow",
+    "yaml_frontmatter": "passed: 0 errors, 0 warnings",
+    "plugin_structure": "passed",
+    "readme_overview": "passed: v445.25.1, 266 plugins, 22644 skills",
+    "readme_navigation": "passed: 266 plugins, 22644 skills, 406 case pages, 23502 local links, 1679 anchors, 108956 real Markdown downloads",
+    "prompt_generator_preservation": "passed: 0 written, 266 skipped, no problems",
+    "local_packages": "passed: 25 plugin ZIPs and 25 skill bundles; 24 Fachanwaltsbereiche plus corrected Markenrecht plugin; source bytes and focus-skill bytes matched",
+    "prompt_packaging": "passed: 25 plugins; auxiliary prompts excluded from ZIPs, delivered as separate sources",
+    "docket_consistency": "9609 occurrences in 24604 specialist Markdown files; 11 candidate date conflicts triaged, one actual old date corrected; 10 remaining candidates concern review dates or different document forms, not new substantive date errors",
+    "new_model_tests": false,
+    "changed_markdown": "passed: 125 files; 413 local links; 0 structure or link errors",
+    "catalog": "QUALITY.md regenerated from validated profiles; quality/README.md links to this audit"
+  },
+  "coverage": [
+    {
+      "plugin": "fachanwalt-agrarrecht",
+      "selected_decisions": 2,
+      "workshop_and_mini_direct_links": true,
+      "existing_skills_direct_links": true,
+      "prompts": {
+        "werkstatt": {
+          "characters": 19549,
+          "utf8_bytes": 19900,
+          "sha256": "293a8166aa135770fa915e09d770b50a9f80c89a17e065aa08532f587caf6985"
+        },
+        "schnellstart": {
+          "characters": 6701,
+          "utf8_bytes": 6843,
+          "sha256": "41ffa309ccba360283e0c02f98aa0aa573c1bb588af2a5ac7cb7b7882d520449"
+        },
+        "hauptproblem": {
+          "characters": 5969,
+          "utf8_bytes": 6062,
+          "sha256": "3073daf86c59e886018ea4f9bcd1160d6950e1b6fdb9f8ce7162644245418887"
+        }
+      }
+    },
+    {
+      "plugin": "fachanwalt-arbeitsrecht",
+      "selected_decisions": 2,
+      "workshop_and_mini_direct_links": true,
+      "existing_skills_direct_links": true,
+      "prompts": {
+        "werkstatt": {
+          "characters": 27226,
+          "utf8_bytes": 27683,
+          "sha256": "a5d1d61fd3e525c38d2c45678fb35f479f79d310a35456519b722532a3499428"
+        },
+        "schnellstart": {
+          "characters": 7235,
+          "utf8_bytes": 7344,
+          "sha256": "c6cdee2b09de72275ac1189dc0e0ea952a81d2086fb7789798c6957cec41ed1d"
+        },
+        "hauptproblem": {
+          "characters": 7208,
+          "utf8_bytes": 7329,
+          "sha256": "050dedb1b76e97dce77052749e9d9c1f0e49a551b3153b0d1bbcd1d28693db4e"
+        }
+      }
+    },
+    {
+      "plugin": "fachanwalt-bank-kapitalmarktrecht",
+      "selected_decisions": 2,
+      "workshop_and_mini_direct_links": true,
+      "existing_skills_direct_links": true,
+      "prompts": {
+        "werkstatt": {
+          "characters": 20144,
+          "utf8_bytes": 20441,
+          "sha256": "ea4e9c1457a1bd8604a68ec6f7b6dbaad07878facc61c05d94f36b329837d14f"
+        },
+        "schnellstart": {
+          "characters": 7244,
+          "utf8_bytes": 7349,
+          "sha256": "65402c34852275202261d2be644b801968aaf3687aba41e14f6908b38d8b21a6"
+        },
+        "hauptproblem": {
+          "characters": 6781,
+          "utf8_bytes": 6894,
+          "sha256": "6c9996f317277bbd156a3d9a7382d9839548e7261215e26ea560517ae6302a95"
+        }
+      }
+    },
+    {
+      "plugin": "fachanwalt-bau-architektenrecht",
+      "selected_decisions": 2,
+      "workshop_and_mini_direct_links": true,
+      "existing_skills_direct_links": true,
+      "prompts": {
+        "werkstatt": {
+          "characters": 19711,
+          "utf8_bytes": 20053,
+          "sha256": "ea387f4bbf83f86262feec2df9516d415dcfb064c4cf35e72c4fc64e91e40d73"
+        },
+        "schnellstart": {
+          "characters": 7351,
+          "utf8_bytes": 7494,
+          "sha256": "6ad09e5a69417b851fa7a3e6c81b75cba62d2f5baf184fd606f98311f57e01be"
+        },
+        "hauptproblem": {
+          "characters": 5942,
+          "utf8_bytes": 6047,
+          "sha256": "f0776501b42f0991eff37efab72c9a7d3015ce386e1b5a0f1b206de52286ed34"
+        }
+      }
+    },
+    {
+      "plugin": "fachanwalt-erbrecht",
+      "selected_decisions": 2,
+      "workshop_and_mini_direct_links": true,
+      "existing_skills_direct_links": true,
+      "prompts": {
+        "werkstatt": {
+          "characters": 38348,
+          "utf8_bytes": 38859,
+          "sha256": "b4d764e63dfe5fb8c6d3c9b497b9c3707df588b42b2612dd0c262f6e9afe5afb"
+        },
+        "schnellstart": {
+          "characters": 7382,
+          "utf8_bytes": 7497,
+          "sha256": "44691f1c2775a82c5bd942a9f35be0afc2ac5e3650d7f635a0a592321edf68ce"
+        },
+        "hauptproblem": {
+          "characters": 7328,
+          "utf8_bytes": 7421,
+          "sha256": "aad981fb21ae7cdd3db53ce836066c7cd901bced312f581fc251cca03620d16f"
+        }
+      }
+    },
+    {
+      "plugin": "fachanwalt-familienrecht",
+      "selected_decisions": 2,
+      "workshop_and_mini_direct_links": true,
+      "existing_skills_direct_links": true,
+      "prompts": {
+        "werkstatt": {
+          "characters": 41770,
+          "utf8_bytes": 42373,
+          "sha256": "d721136bcb574448ed83e96ebb069f5eaed41c3479ad6f89e276e3461cc69304"
+        },
+        "schnellstart": {
+          "characters": 7392,
+          "utf8_bytes": 7486,
+          "sha256": "04a3e48d6fa3b1bbc357481cf743ac53091de215c4272a2791a603e1f0a6aaa0"
+        },
+        "hauptproblem": {
+          "characters": 6772,
+          "utf8_bytes": 6872,
+          "sha256": "ad11fd6bc234f111dd478ff2c877ed0bd6e29b90979e8b8d7c3e9f68ff802849"
+        }
+      }
+    },
+    {
+      "plugin": "fachanwalt-gewerblicher-rechtsschutz",
+      "selected_decisions": 2,
+      "workshop_and_mini_direct_links": true,
+      "existing_skills_direct_links": true,
+      "prompts": {
+        "werkstatt": {
+          "characters": 21321,
+          "utf8_bytes": 21608,
+          "sha256": "828fcb5bbb64b0f17b3920abefab7a28380475323710362f6f4cad9c3feee1a3"
+        },
+        "schnellstart": {
+          "characters": 6699,
+          "utf8_bytes": 6785,
+          "sha256": "d66e3929ba36d6f4d2e64f8f8a6888139e0badbf486cde31c318aaa5353662ac"
+        },
+        "hauptproblem": {
+          "characters": 6206,
+          "utf8_bytes": 6283,
+          "sha256": "fc0d96c3553af9420d62a7ec26f8e57f19b4b00dd976bc59e96a7f6edc7da5ae"
+        }
+      }
+    },
+    {
+      "plugin": "fachanwalt-handels-gesellschaftsrecht",
+      "selected_decisions": 2,
+      "workshop_and_mini_direct_links": true,
+      "existing_skills_direct_links": true,
+      "prompts": {
+        "werkstatt": {
+          "characters": 24807,
+          "utf8_bytes": 25153,
+          "sha256": "0bb1ae2a6674ebab2c4c9913cc4fe4897aac9707985494dd4626704ec4e36018"
+        },
+        "schnellstart": {
+          "characters": 6947,
+          "utf8_bytes": 7040,
+          "sha256": "6405b2054c40076571001a69b471e9aa78320c5fdc5bd0fd0d0a7f2761a3809d"
+        },
+        "hauptproblem": {
+          "characters": 7268,
+          "utf8_bytes": 7368,
+          "sha256": "af871bbaf284b24957e1c690360b298fceb7d1e70f2f13878dce1090287f4c13"
+        }
+      }
+    },
+    {
+      "plugin": "fachanwalt-insolvenz-sanierungsrecht",
+      "selected_decisions": 2,
+      "workshop_and_mini_direct_links": true,
+      "existing_skills_direct_links": true,
+      "prompts": {
+        "werkstatt": {
+          "characters": 18929,
+          "utf8_bytes": 19214,
+          "sha256": "b50204cde4c61141aa67cceba687cf387d2c2f83403a4895be2f6bd0800e4c49"
+        },
+        "schnellstart": {
+          "characters": 6821,
+          "utf8_bytes": 6920,
+          "sha256": "fdc60222f42843d9d6a0c794c08454291014c39f9dddc8c1b42bc9adf8d89122"
+        },
+        "hauptproblem": {
+          "characters": 7237,
+          "utf8_bytes": 7359,
+          "sha256": "feb14c56a8e8d74fc8c64f2f3aefe396f818c91ea2ed7338be22e4584eff32a1"
+        }
+      }
+    },
+    {
+      "plugin": "fachanwalt-internationales-wirtschaftsrecht",
+      "selected_decisions": 2,
+      "workshop_and_mini_direct_links": true,
+      "existing_skills_direct_links": true,
+      "prompts": {
+        "werkstatt": {
+          "characters": 17401,
+          "utf8_bytes": 17685,
+          "sha256": "48793d7605a46a0f9fed172d307fd06b3220ffa0c329e3132586c9e979a31b41"
+        },
+        "schnellstart": {
+          "characters": 6450,
+          "utf8_bytes": 6552,
+          "sha256": "452c0214ad81d6bcd7ee691459a11de38ec29ad3500fa64989cde670ae318eba"
+        },
+        "hauptproblem": {
+          "characters": 6893,
+          "utf8_bytes": 6995,
+          "sha256": "a7e296f1d92038d5e000d41db132a542106c51848c8932d6231a2396eed5e2a8"
+        }
+      }
+    },
+    {
+      "plugin": "fachanwalt-it-recht",
+      "selected_decisions": 2,
+      "workshop_and_mini_direct_links": true,
+      "existing_skills_direct_links": true,
+      "prompts": {
+        "werkstatt": {
+          "characters": 24992,
+          "utf8_bytes": 25342,
+          "sha256": "83074f9812171feaeb5a92f6922509f25f527c59b6ddc0b75faf13e341623610"
+        },
+        "schnellstart": {
+          "characters": 7290,
+          "utf8_bytes": 7388,
+          "sha256": "24203d5ed46c0130bd83fce745b4efd54b48bf3062174daf10f86060ce1794ab"
+        },
+        "hauptproblem": {
+          "characters": 6661,
+          "utf8_bytes": 6759,
+          "sha256": "aad81e03bd0237f7253a3dfd4f985c87f107c95fa7345ea22c8eb8ce064b7c87"
+        }
+      }
+    },
+    {
+      "plugin": "fachanwalt-medizinrecht",
+      "selected_decisions": 2,
+      "workshop_and_mini_direct_links": true,
+      "existing_skills_direct_links": true,
+      "prompts": {
+        "werkstatt": {
+          "characters": 20692,
+          "utf8_bytes": 21011,
+          "sha256": "5d95514da287f9af03ffb6808c6ac3ff588b96962bc7d0c9faefc297e761b686"
+        },
+        "schnellstart": {
+          "characters": 7046,
+          "utf8_bytes": 7145,
+          "sha256": "b7074d847484ddcf380cf98945928d01ecb7c5b453f3fb44a91e47358f31da44"
+        },
+        "hauptproblem": {
+          "characters": 7068,
+          "utf8_bytes": 7158,
+          "sha256": "a8f73d467e16847248a19d1e54cfd2120ab954dca9ea4ee0d2c624536c21005c"
+        }
+      }
+    },
+    {
+      "plugin": "fachanwalt-miet-wohnungseigentumsrecht",
+      "selected_decisions": 2,
+      "workshop_and_mini_direct_links": true,
+      "existing_skills_direct_links": true,
+      "prompts": {
+        "werkstatt": {
+          "characters": 24896,
+          "utf8_bytes": 25285,
+          "sha256": "1421990d6f9b75e594f91ea8047d8356c0322a81edbc4f388139ab39cfad3715"
+        },
+        "schnellstart": {
+          "characters": 6792,
+          "utf8_bytes": 6894,
+          "sha256": "1e7966d6b00355b7e54a839dca0b78e1fa236868b781268acd9b44a28bdc96d5"
+        },
+        "hauptproblem": {
+          "characters": 5712,
+          "utf8_bytes": 5815,
+          "sha256": "b48c1af8874ce23bb8574387e5d9c158256b435690342f247bc0588e5ad6c4a4"
+        }
+      }
+    },
+    {
+      "plugin": "fachanwalt-migrationsrecht",
+      "selected_decisions": 2,
+      "workshop_and_mini_direct_links": true,
+      "existing_skills_direct_links": true,
+      "prompts": {
+        "werkstatt": {
+          "characters": 19622,
+          "utf8_bytes": 19973,
+          "sha256": "f790edb61bf4d4baf92a7a0ad03ad8d6ba8e733993debcaad2a5b716591aaf11"
+        },
+        "schnellstart": {
+          "characters": 6558,
+          "utf8_bytes": 6670,
+          "sha256": "cace19587a9388481f30b77978f87eabdc728af9fcc5a200c3e5fd160d8e2602"
+        },
+        "hauptproblem": {
+          "characters": 6326,
+          "utf8_bytes": 6417,
+          "sha256": "f7a9f4595a463d103f780afbcedd6e81814297cc12bb459d8b8e50324b3fa5ce"
+        }
+      }
+    },
+    {
+      "plugin": "fachanwalt-sozialrecht",
+      "selected_decisions": 2,
+      "workshop_and_mini_direct_links": true,
+      "existing_skills_direct_links": true,
+      "prompts": {
+        "werkstatt": {
+          "characters": 23290,
+          "utf8_bytes": 23633,
+          "sha256": "b7937946ce9d30c0c2f3d1f5e6dddbdb3b7764d93833b10ced0c756acee64ce3"
+        },
+        "schnellstart": {
+          "characters": 6677,
+          "utf8_bytes": 6767,
+          "sha256": "df7acfd25ba3e8ad60f391f8e48b57257676f0b67349050f17cf0571e5c91f8a"
+        },
+        "hauptproblem": {
+          "characters": 6188,
+          "utf8_bytes": 6291,
+          "sha256": "a0073428150ef2185eed14c4218bb1c2e0b66036a3a1aafadf8c4be9d38cc3f2"
+        }
+      }
+    },
+    {
+      "plugin": "fachanwalt-sportrecht",
+      "selected_decisions": 2,
+      "workshop_and_mini_direct_links": true,
+      "existing_skills_direct_links": true,
+      "prompts": {
+        "werkstatt": {
+          "characters": 21452,
+          "utf8_bytes": 21782,
+          "sha256": "ebaa2985325c05e066f2dfcb3953fa4b0e0fe20956eddffa133a596b9df34fb0"
+        },
+        "schnellstart": {
+          "characters": 6459,
+          "utf8_bytes": 6552,
+          "sha256": "a71ad71358c87b2dcceb6ca1cd7f3e01326a76c037f3b500704ace10eca22686"
+        },
+        "hauptproblem": {
+          "characters": 6044,
+          "utf8_bytes": 6140,
+          "sha256": "2e51074e32113d67441bf40dce28da9dc5a9f4ae46ba2f4d14d4f0ea85e8c07d"
+        }
+      }
+    },
+    {
+      "plugin": "fachanwalt-strafrecht",
+      "selected_decisions": 2,
+      "workshop_and_mini_direct_links": true,
+      "existing_skills_direct_links": true,
+      "prompts": {
+        "werkstatt": {
+          "characters": 29190,
+          "utf8_bytes": 29674,
+          "sha256": "bc0e69dec5e58778d4e288e4f23954a753fd43ebecd12231b9d9513d7e9a0e53"
+        },
+        "schnellstart": {
+          "characters": 7104,
+          "utf8_bytes": 7207,
+          "sha256": "90bd98997a4e9c303082076d1eaddef15d2867d58f2bae3d748485e042eaa0e4"
+        },
+        "hauptproblem": {
+          "characters": 7340,
+          "utf8_bytes": 7470,
+          "sha256": "066d7d4b4f150c8c4e61aecff1ec312099eb9821240b7292f912974f85653830"
+        }
+      }
+    },
+    {
+      "plugin": "fachanwalt-transport-speditionsrecht",
+      "selected_decisions": 2,
+      "workshop_and_mini_direct_links": true,
+      "existing_skills_direct_links": true,
+      "prompts": {
+        "werkstatt": {
+          "characters": 22813,
+          "utf8_bytes": 23138,
+          "sha256": "834c3bc9c9a2bf76e29c8b3842c1c4e3b371620328b65dc7cd9a56bb5df4c94b"
+        },
+        "schnellstart": {
+          "characters": 7296,
+          "utf8_bytes": 7399,
+          "sha256": "7024139c578daed4a9dbc5b7bdab246cc1b65ab9ab94e6051da487457c693712"
+        },
+        "hauptproblem": {
+          "characters": 7262,
+          "utf8_bytes": 7376,
+          "sha256": "90fa04e72d5e0cefbd12dfec8be3c21301d41f719b4aad7ed5c8ec84ab6449de"
+        }
+      }
+    },
+    {
+      "plugin": "fachanwalt-urheber-medienrecht",
+      "selected_decisions": 2,
+      "workshop_and_mini_direct_links": true,
+      "existing_skills_direct_links": true,
+      "prompts": {
+        "werkstatt": {
+          "characters": 19267,
+          "utf8_bytes": 19581,
+          "sha256": "560d9512e3401ebf63f3f7b6d457f8a4e105133aa7810609ff3784447cb7af24"
+        },
+        "schnellstart": {
+          "characters": 6427,
+          "utf8_bytes": 6533,
+          "sha256": "3d33cfe4aecdba03a7204b6d369ed8689524fa839febba36ba7598c7829935d1"
+        },
+        "hauptproblem": {
+          "characters": 6233,
+          "utf8_bytes": 6316,
+          "sha256": "a0440f968aeeeff0771ff7f4484f9b6c32b8901311c68e3d4c779f774068b01a"
+        }
+      }
+    },
+    {
+      "plugin": "fachanwalt-vergaberecht",
+      "selected_decisions": 2,
+      "workshop_and_mini_direct_links": true,
+      "existing_skills_direct_links": true,
+      "prompts": {
+        "werkstatt": {
+          "characters": 23694,
+          "utf8_bytes": 24090,
+          "sha256": "631993878e0854692d99c8c8f28aa0bcf2ef8d86fd5f572f7fc9adb8a1909091"
+        },
+        "schnellstart": {
+          "characters": 6802,
+          "utf8_bytes": 6930,
+          "sha256": "c0816255edd1c55f5b20d6427be7eef87ccc72046a60fbded578b2ba97c95ec4"
+        },
+        "hauptproblem": {
+          "characters": 7031,
+          "utf8_bytes": 7132,
+          "sha256": "12a66e3269643bed0147a945ec2987d3d053fe365fdf1ade497755b115b9b0a8"
+        }
+      }
+    },
+    {
+      "plugin": "fachanwalt-verkehrsrecht",
+      "selected_decisions": 2,
+      "workshop_and_mini_direct_links": true,
+      "existing_skills_direct_links": true,
+      "prompts": {
+        "werkstatt": {
+          "characters": 21786,
+          "utf8_bytes": 22099,
+          "sha256": "059a7ba3d4c250803751d38fa97ade0a4e9b41fc19331c3fcee863841c40a016"
+        },
+        "schnellstart": {
+          "characters": 7028,
+          "utf8_bytes": 7132,
+          "sha256": "5b17afb56ac8740927eb22016dd1f6a58e032cdabf8a93e93eb7adcc8336ddf3"
+        },
+        "hauptproblem": {
+          "characters": 7060,
+          "utf8_bytes": 7173,
+          "sha256": "f0a9fe1b4ef68fd0c4390bc69a433115228e10c7dd84136ad1646cd56e2db1e4"
+        }
+      }
+    },
+    {
+      "plugin": "fachanwalt-versicherungsrecht",
+      "selected_decisions": 2,
+      "workshop_and_mini_direct_links": true,
+      "existing_skills_direct_links": true,
+      "prompts": {
+        "werkstatt": {
+          "characters": 22417,
+          "utf8_bytes": 22785,
+          "sha256": "bf4315755be5dd64905aea6c997fe8cd13c3de7b57b29e2b8fc19de99462f4d9"
+        },
+        "schnellstart": {
+          "characters": 6430,
+          "utf8_bytes": 6518,
+          "sha256": "f8224d9ad81d30dc723fb036fe06b8a98b83cad91e6084d39e03d8c442645654"
+        },
+        "hauptproblem": {
+          "characters": 6007,
+          "utf8_bytes": 6091,
+          "sha256": "af863f9b895d56af7917f29d52b7c9a2bf1648b7fb7e2c65e64d6e4b5ab5a80d"
+        }
+      }
+    },
+    {
+      "plugin": "fachanwalt-verwaltungsrecht",
+      "selected_decisions": 2,
+      "workshop_and_mini_direct_links": true,
+      "existing_skills_direct_links": true,
+      "prompts": {
+        "werkstatt": {
+          "characters": 22867,
+          "utf8_bytes": 23277,
+          "sha256": "fa0f760fe79c04e9788c4bef7f94fdd39f028d7cafc79aae8ce486e56c318b25"
+        },
+        "schnellstart": {
+          "characters": 6728,
+          "utf8_bytes": 6854,
+          "sha256": "f9528051d28f9f23e8d1f5d65ae1eeb8609f33b9da39dd2986648ad7a3e27bec"
+        },
+        "hauptproblem": {
+          "characters": 6693,
+          "utf8_bytes": 6826,
+          "sha256": "e1934bee755feb8a81c52fe4a5fa6f35b648c6fe024164b9b2d388a1784cf8a8"
+        }
+      }
+    },
+    {
+      "plugin": "steuerrecht-anwalt-und-berater",
+      "selected_decisions": 2,
+      "workshop_and_mini_direct_links": true,
+      "existing_skills_direct_links": true,
+      "prompts": {
+        "werkstatt": {
+          "characters": 29716,
+          "utf8_bytes": 30175,
+          "sha256": "50988222d4a16369fbb2ba70fc57e6c791fdd201ffca55462dc9e239f6f2868f"
+        },
+        "schnellstart": {
+          "characters": 6372,
+          "utf8_bytes": 6479,
+          "sha256": "b9e30b3d452dd4414f0372a048a4367bc705548112ff7cb77928aeb5f502bccf"
+        },
+        "hauptproblem": {
+          "characters": 7346,
+          "utf8_bytes": 7475,
+          "sha256": "8863e5a4e8ee3c2d0bffab6e8bc3229c51dbf1fd4c5d10e50c5afc0007a3f942"
+        }
+      }
+    }
+  ],
+  "notes": [
+    "Initial full-repository packaging check found no prebuilt dist archives. Resolved by building and validating the 25 changed plugin packages in a temporary directory.",
+    "No claim that all older case references or all specialist skills have been independently reverified."
+  ]
+}

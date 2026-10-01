@@ -1,0 +1,83 @@
+{
+  "plugin": "fachanwalt-migrationsrecht",
+  "checked_on": "2026-10-01",
+  "status": "two_current_relevant_highest_court_anchors_verified_and_covered",
+  "scope": "Gezielte amtliche Quellenprüfung der unten genannten Passagen; lokaler Kontext und Arbeitsablauf der drei Prompts sowie betroffene Skillpassagen. Keine erneute Vollprüfung sämtlicher Fachskills oder Normen.",
+  "sources": [
+    {
+      "citation": "BVerwG, Urteil vom 24.03.2026 – 1 C 6.25",
+      "url": "https://www.bverwg.de/240326U1C6.25.0",
+      "passages": "Leitsätze 1–2; Rn. 12–17",
+      "application": "Auslandsanerkennung, Reiseausweis und Verantwortungsübergang allein tragen keinen Titel nach § 25 Abs. 2 Satz 1 Alternative 1 AufenthG.",
+      "limit": "Andere Titel, Abschiebungsschutz und spätere GEAS-Anwendung eigenständig prüfen.",
+      "retrieval": "amtlicher Volltext, ausgewählte Gründe frisch gelesen",
+      "checked_on": "2026-10-01",
+      "previously_present": true
+    },
+    {
+      "citation": "BVerwG, Urteil vom 26.08.2026 – 1 C 27.25",
+      "url": "https://www.bverwg.de/260826U1C27.25.0",
+      "passages": "Rn. 19–30 frisch; Rn. 10–13 und 41–43 aus Vorprüfung übernommen",
+      "application": "Mitwirkung an notwendigem Passersatz kann trotz Nationalpass verlangt werden; Zumutbarkeit und Kausalität konkret.",
+      "limit": "§ 60b ist keine allgemeine Pflicht zur Beseitigung aller Abschiebungshindernisse.",
+      "retrieval": "amtlicher Volltext, ausgewählte Gründe frisch gelesen",
+      "checked_on": "2026-10-01",
+      "previously_present": true
+    }
+  ],
+  "fresh_or_reused": "Alle 16 ausgewählten Dokumente dieser acht Plugins in diesem Lauf amtlich neu abgerufen. Frisch gelesene Passagen und nur aus Vorprüfung übernommene Teilpassagen stehen je Quelle ausdrücklich im Feld passages; ältere sonstige Quellen wurden nicht neu als verifiziert etikettiert.",
+  "local_files_reviewed": [
+    "fachanwalt-migrationsrecht/fachanwalt-migrationsrecht-hauptproblem.md",
+    "fachanwalt-migrationsrecht/fachanwalt-migrationsrecht-schnellstart.md",
+    "fachanwalt-migrationsrecht/fachanwalt-migrationsrecht-werkstatt.md",
+    "fachanwalt-migrationsrecht/skills/familiennachzug-haushaltsprognose-belegabgleich/SKILL.md",
+    "fachanwalt-migrationsrecht/skills/juristischer-argumentationskern/SKILL.md",
+    "fachanwalt-migrationsrecht/skills/reiseausweis-fluechtling/SKILL.md"
+  ],
+  "changed_files": [
+    "fachanwalt-migrationsrecht/fachanwalt-migrationsrecht-schnellstart.md",
+    "fachanwalt-migrationsrecht/fachanwalt-migrationsrecht-werkstatt.md",
+    "fachanwalt-migrationsrecht/skills/juristischer-argumentationskern/SKILL.md",
+    "fachanwalt-migrationsrecht/skills/reiseausweis-fluechtling/SKILL.md",
+    "quality/evals/fachanwalt-migrationsrecht.json"
+  ],
+  "prompt_coverage": {
+    "werkstatt": {
+      "path": "fachanwalt-migrationsrecht/fachanwalt-migrationsrecht-werkstatt.md",
+      "characters": 19622,
+      "utf8_bytes": 19973,
+      "sha256": "f790edb61bf4d4baf92a7a0ad03ad8d6ba8e733993debcaad2a5b716591aaf11",
+      "selected_source_urls_present": [
+        true,
+        true
+      ]
+    },
+    "schnellstart": {
+      "path": "fachanwalt-migrationsrecht/fachanwalt-migrationsrecht-schnellstart.md",
+      "characters": 6558,
+      "utf8_bytes": 6670,
+      "sha256": "cace19587a9388481f30b77978f87eabdc728af9fcc5a200c3e5fd160d8e2602",
+      "selected_source_urls_present": [
+        true,
+        true
+      ]
+    },
+    "hauptproblem": {
+      "path": "fachanwalt-migrationsrecht/fachanwalt-migrationsrecht-hauptproblem.md",
+      "characters": 6326,
+      "utf8_bytes": 6417,
+      "sha256": "f7a9f4595a463d103f780afbcedd6e81814297cc12bb459d8b8e50324b3fa5ce",
+      "selected_source_urls_present": [
+        false,
+        false
+      ]
+    }
+  },
+  "focus_scope": "Hauptproblem Familiennachzugs-Haushaltsprognose bleibt bei 1 C 20.09. Anerkennungsautomatismus und Passersatz-Mitwirkung werden nicht als Rechenregeln für Lebensunterhalt angeführt.",
+  "search_2026": "Beide bereits vorhandenen BVerwG-Entscheidungen von 2026 frisch abgerufen; die bezeichneten tragenden Titel-/Mitwirkungspassagen erneut gelesen. Nicht jede frühere Randnummer erneut geprüft.",
+  "validation": "UTF-8-Byte- und Zeichengrenzen; beide Direktlinks in Werkstatt und Mini sowie vorhandenen Skills; Profilhashes nachgeführt. Keine neuen Modelltests oder globalen Generatoren.",
+  "limits": [
+    "Nur bezeichnete Entscheidungs- und angrenzende Workflowpassagen überprüft; kein Versprechen vollständiger Rechtssicherheit.",
+    "Vorhandene Normfassungen, Altfundstellen und Testakten außerhalb des beschriebenen Eingriffs nicht umfassend neu geprüft."
+  ]
+}

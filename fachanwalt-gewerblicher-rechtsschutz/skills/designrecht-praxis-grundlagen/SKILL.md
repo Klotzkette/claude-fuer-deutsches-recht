@@ -33,7 +33,13 @@ description: "Für Designrecht Praxis Grundlagen: ordnet Norm, Beweislast und Ge
 | § 42 DesignG | Unterlassung und Schadensersatz |
 | Art. 4 ff. GGV (VO 6/2002) | Eingetragenes und nicht eingetragenes Gemeinschaftsgeschmacksmuster |
 | Art. 11 GGV | Nicht eingetragenes GGM: 3 Jahre Schutz ab Offenbarung |
-| Art. 85 GGV | Zuständigkeit: Gemeinschaftsgeschmacksmuster-Gerichte |
+| Art. 85 VO 6/2002 | Vermutung der Rechtsgültigkeit; Voraussetzungen für eingetragene und nicht eingetragene EU-Designs unterscheiden, nicht mit gerichtlicher Zuständigkeit gleichsetzen |
+
+[EuGH, Urteil vom 04.12.2025 – Az. C-580/23 und C-795/23, Mio/konektra](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62023CJ0580), Rn. 50–58, 83–87: Design-Neuheit und Eigenart ersetzen keine urheberrechtliche Originalität. Stelle freie kreative Entscheidungen und ihre wiedererkennbare Übernahme fest; für angewandte Kunst gilt keine höhere Schutzschwelle. Der urheberrechtliche Maßstab ersetzt nicht den designrechtlichen Gesamteindruck oder die gesonderte Schadensrechnung.
+
+[BGH, Urteil vom 02.07.2026 – Az. I ZR 96/22, USM Haller II](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2022/I_ZR__96-22A.pdf?__blob=publicationFile&v=4), Rn. 23–26, 60–63: Urheberrechtliche Originalität und designrechtliche Eigenart getrennt prüfen. Entscheidend sind wiedererkennbare kreative Elemente in der insgesamt betrachteten neuen Gestaltung, kein eigenständiger urheberrechtlicher Gesamteindruckstest. Zurückverweisung, keine endgültige Schutzfeststellung für USM Haller und kein Maßstab für eine Gewinnquote.
+
+Bei zusätzlichem Urheberrechtsschutz Entwurfsschritte und konkrete kreative Merkmale anfordern; nach Eingang beide Schutzwege getrennt weiterprüfen.
 
 ## Prüfraster Designverletzung
 
@@ -76,7 +82,7 @@ description: "Für Designrecht Praxis Grundlagen: ordnet Norm, Beweislast und Ge
 
 - **DPMA-Nichtigkeitsverfahren:** § 33 DesignG; Nichtigkeitsgründe §§ 33 Abs. 1 DesignG.
 - **Zivilklage:** LG (Designsachen, § 52 DesignG i.V.m. § 140 MarkenG analog); spezialisierte Kammern Hamburg, Düsseldorf, München, Köln.
-- **einstweilige Verfügung:** §§ 935, 940 ZPO; Dringlichkeit nach Kenntnisnahme wahren (ca. 4–6 Wochen).
+- **einstweilige Verfügung:** §§ 935, 940 ZPO; Kenntnisdatum, Art und Fortdauer der Verletzung, bisherige Reaktion und zuständiges Gericht feststellen. Dringlichkeit nach den konkreten Umständen und der einschlägigen Gerichtspraxis begründen; keine allgemeine Vier- bis Sechswochenfrist ansetzen. Drohenden Zeitverlust sofort benennen und den beauftragten Antrag priorisieren.
 - **EUIPO-Nichtigkeitsverfahren:** Art. 52 GGV (eingetragenes GGM); Art. 24 GGV (nicht eingetragenes GGM, Nichtigkeitseinrede).
 
 ## Strategische Optionen

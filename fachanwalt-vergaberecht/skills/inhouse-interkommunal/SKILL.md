@@ -24,7 +24,7 @@ Prüfe direkte private Kapitalbeteiligung und die enge gesetzliche Ausnahme des 
 3. Berechne **weniger als 20 Prozent** Markttätigkeit im Bereich der Zusammenarbeit nach Absatz 8. Diese gesetzliche Grenze nicht dem älteren Urteil Hamburg-Stadtreinigung als dessen eigener Zahlenregel zuschreiben.
 4. Prüfe, ob ein privater Dritter unmittelbar aufgrund der Zusammenarbeit gegenüber Wettbewerbern begünstigt wird; bloße Etiketten oder eine Gemeinwohlklausel reichen nicht.
 
-EuGH, Beschluss vom 03.02.2026 – C-316/25, Regione Umbria, ECLI:EU:C:2026:135 ([amtliche Entscheidungsinformation mit Tenor](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A62025CO0316_INF)): Artikel 12 Absatz 4 Richtlinie 2014/24/EU erlaubt keine ausschreibungsfreie Vergabe allein an eine nicht wirtschaftlich tätige öffentliche Einrichtung, wenn ausschließlich eine Dienstleistung gegen Entgelt erworben wird. Prüfe deshalb die tatsächlichen Beiträge, gemeinsamen Ziele und Steuerung der Zusammenarbeit; öffentliche Rechtsform und Gemeinwohlaufgabe ersetzen Kooperation nicht. Das Verfahren betraf ein italienisches Kraftfahrzeugsteuerregister, nicht jede denkbare deutsche Zusammenarbeit. Geprüft ist der amtlich veröffentlichte Tenor, kein behaupteter vollständiger deutschsprachiger Beschlusstext.
+[EuGH, Beschluss vom 03.02.2026 – C-316/25, Regione Umbria](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX%3A62025CO0316), Rn. 16–24: Bloßer Leistungseinkauf gegen Entgelt wird nicht allein durch einen öffentlichen Vertragspartner zur ausschreibungsfreien Zusammenarbeit nach Artikel 12 Absatz 4 Richtlinie 2014/24/EU. Prüfe gemeinsame Ziele und tatsächliche Beiträge aller Beteiligten; bloße Kostenerstattung genügt nicht. Im deutschen Fall zusätzlich Paragraf 108 Absatz 6 GWB vollständig prüfen und von Inhouse nach Absätzen 1 bis 5 trennen. Der amtliche italienische Volltext betrifft ein Kraftfahrzeugsteuerregister, nicht jede Zusammenarbeit.
 
 ## 1.4. Vermerk und Vertragsarbeit
 
@@ -36,6 +36,6 @@ Wird keine Ausnahme belegt, prüfe den passenden Vergabeweg und bei bereits gesc
 
 ## 1.5. Quellen und Ergebnis
 
-Aktueller Normtext: [Paragraf 108 GWB](https://www.gesetze-im-internet.de/gwb/__108.html), am 30.09.2026 gelesen. Bei historischen Verträgen maßgebliche Fassung und Anwendungszeitpunkt bestimmen; geänderte Absatznummern nicht ungeprüft rückübertragen. Die konkrete Aussage von C-316/25 beruht auf dem amtlichen Tenor; darüber hinausgehende Prozesszitate nur nach zusätzlichem Volltextabgleich.
+Aktueller Normtext: [Paragraf 108 GWB](https://www.gesetze-im-internet.de/gwb/__108.html), am 30.09.2026 gelesen. Bei historischen Verträgen maßgebliche Fassung und Anwendungszeitpunkt bestimmen; geänderte Absatznummern nicht ungeprüft rückübertragen. Die Vorprüfung von C-316/25 beruhte auf dem amtlichen Tenor. Am 01.10.2026 wurden zusätzlich die Randnummern 16 bis 24 des amtlichen italienischen Volltexts geprüft; weitergehende Aussagen benötigen einen eigenen Passagenabgleich.
 
 Liefere das bestellte Dokument mit Tatsachen, Subsumtion, konkreter Berechnung und begründeter Empfehlung. Bei Dateiausgabe vollständige Sätze, dezimale Gliederung und Times New Roman 11 pt. Quellenstatus und offene Nachforderungen gesondert dokumentieren; keine Vergabe, Bekanntmachung oder Vertragsunterzeichnung eigenmächtig ausführen.

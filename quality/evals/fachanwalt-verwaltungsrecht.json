@@ -47,6 +47,16 @@
       "url": "https://www.bverwg.de/de/250522U8C11.21.0",
       "checked_on": "2026-09-30",
       "supports": "BVerwG, Urteil vom 25.05.2022 – 8 C 11.21, Randnummern 13–21. Anhörung verlangt erkennbaren Bezug zur konkret beabsichtigten Entscheidung und Gelegenheit zur Stellungnahme; bloße Mitteilung eines Prüfvermerks genügt nicht. Zweckbindung und Kenntnis je Widerrufsgrund bestätigt. Grenze: Wortgleiches Landesrecht Mecklenburg-Vorpommerns; keine pauschale laufende Jahresfrist allein ab Prüfvermerk, andere Förderzwecke gesondert."
+    },
+    {
+      "url": "https://ssl.bverwg.de/de/260625U3C14.23.0",
+      "checked_on": "2026-10-01",
+      "supports": "Objektive gebietsbezogene Feinabstimmung der Ausgleichszulage und Standardoutput prüfen, nicht nur Nachteile des einzelnen Betriebs. Grenze: Antragsjahr 2017 und Förderperiode 2014–2020; keine automatische Übertragung auf laufende GAP oder andere Förderprogramme."
+    },
+    {
+      "url": "https://www.bverwg.de/230226B8B27.25.0",
+      "checked_on": "2026-10-01",
+      "supports": "Presseförderung nach Inhaltsneutralität und Verlagswettbewerb prüfen; gezielter Eingriff in Drittgrundrechte verlangt spezielle gesetzliche Ermächtigung. Grenze: Nichtzulassungsbeschwerde, kein allgemeiner materieller Freibrief für Subventionen; Grundrechtseingriff und Empfänger-/Konkurrentenrolle fallbezogen."
     }
   ],
   "mini_review": {
@@ -59,7 +69,7 @@
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
       "Die für dieses Gebiet dokumentierten Quellenpassagen vom 30.09.2026 fallbezogen eingearbeitet."
     ],
-    "sha256": "d87e09cac67f101a7a208672fdc78ecddda19224c3f0955705baa7b0be4e64f4",
+    "sha256": "f9528051d28f9f23e8d1f5d65ae1eeb8609f33b9da39dd2986648ad7a3e27bec",
     "reviewed_on": "2026-09-30"
   },
   "focus_review": {
@@ -140,19 +150,20 @@
       "Regelung gegenüber Erläuterung, tatsächlicher Vollzug und Zugang, Finanzierungsart und zeitliche Förderklausel, Bereitstellung gegenüber Nutzung, rechnerische Differenz gegenüber Aufhebung sowie spruchreifes Begehren und Vergleichsfolgen.",
       "Die für dieses Gebiet dokumentierten Quellenpassagen vom 30.09.2026 fallbezogen eingearbeitet."
     ],
-    "sha256": "47c1420c1a8bf766f9d79828fc04715aa3b7b09077fbb4716c39910187099824",
+    "sha256": "fa0f760fe79c04e9788c4bef7f94fdd39f028d7cafc79aae8ce486e56c318b25",
     "reviewed_on": "2026-09-30"
   },
   "prompt_editorial_review": {
-    "date": "2026-09-30",
+    "date": "2026-10-01",
     "method": "desk_review",
     "files": [
       "fachanwalt-verwaltungsrecht/README.md",
-      "fachanwalt-verwaltungsrecht/fachanwalt-verwaltungsrecht-werkstatt.md",
-      "fachanwalt-verwaltungsrecht/fachanwalt-verwaltungsrecht-schnellstart.md",
-      "quality/evals/fachanwalt-verwaltungsrecht.json",
       "fachanwalt-verwaltungsrecht/fachanwalt-verwaltungsrecht-hauptproblem.md",
-      "fachanwalt-verwaltungsrecht/skills/foerdermittel-zweckbindung-belegabgleich-rueckforderung/SKILL.md"
+      "fachanwalt-verwaltungsrecht/fachanwalt-verwaltungsrecht-schnellstart.md",
+      "fachanwalt-verwaltungsrecht/fachanwalt-verwaltungsrecht-werkstatt.md",
+      "fachanwalt-verwaltungsrecht/skills/foerdermittel-zweckbindung-belegabgleich-rueckforderung/SKILL.md",
+      "fachanwalt-verwaltungsrecht/skills/juristischer-argumentationskern/SKILL.md",
+      "quality/evals/fachanwalt-verwaltungsrecht.json"
     ],
     "opening_change": "Bescheidbestand oder geschuldete Behördenentscheidung prüfen; Fördermittel anhand konkreter Kürzung, Zweckbindung und Berechnung verteidigen. Workflow-Ergänzung: Leer: Bescheidabwehr, Genehmigungsanspruch oder Fördermittelgegenrechnung anbieten. Dateien ohne Aufgabe: Bescheidfolge und Kostenbelege still lesen; konkretes Schutz-, Leistungs- oder Anhörungsziel klären. Klarer Auftrag: Stellungnahme oder Antrag unmittelbar ausarbeiten; keine allgemeine Bescheid- oder Verwaltungsrechtsübersicht.",
     "norms": [
@@ -173,6 +184,20 @@
         "application": "Anhörung verlangt erkennbaren Bezug zur konkret beabsichtigten Entscheidung und Gelegenheit zur Stellungnahme; bloße Mitteilung eines Prüfvermerks genügt nicht. Zweckbindung und Kenntnis je Widerrufsgrund bestätigt.",
         "limit": "Wortgleiches Landesrecht Mecklenburg-Vorpommerns; keine pauschale laufende Jahresfrist allein ab Prüfvermerk, andere Förderzwecke gesondert.",
         "checked_on": "2026-09-30"
+      },
+      {
+        "citation": "BVerwG, Urteil vom 26.06.2025 – 3 C 14.23",
+        "url": "https://ssl.bverwg.de/de/260625U3C14.23.0",
+        "application": "Objektive gebietsbezogene Feinabstimmung der Ausgleichszulage und Standardoutput prüfen, nicht nur Nachteile des einzelnen Betriebs.",
+        "limit": "Antragsjahr 2017 und Förderperiode 2014–2020; keine automatische Übertragung auf laufende GAP oder andere Förderprogramme.",
+        "checked_on": "2026-10-01"
+      },
+      {
+        "citation": "BVerwG, Beschluss vom 23.02.2026 – 8 B 27.25",
+        "url": "https://www.bverwg.de/230226B8B27.25.0",
+        "application": "Presseförderung nach Inhaltsneutralität und Verlagswettbewerb prüfen; gezielter Eingriff in Drittgrundrechte verlangt spezielle gesetzliche Ermächtigung.",
+        "limit": "Nichtzulassungsbeschwerde, kein allgemeiner materieller Freibrief für Subventionen; Grundrechtseingriff und Empfänger-/Konkurrentenrolle fallbezogen.",
+        "checked_on": "2026-10-01"
       }
     ],
     "remaining_limits": [
@@ -206,5 +231,27 @@
     "continuation": "Rechnung betrifft nächsten Förderzeitraum oder Vollzug ist bereits erfolgt -> Kostenzuordnung beziehungsweise Schutzbegehren ändern und Gegenrechnung oder Antrag fortschreiben.",
     "enrichment": "Regelung gegenüber Erläuterung, tatsächlicher Vollzug und Zugang, Finanzierungsart und zeitliche Förderklausel, Bereitstellung gegenüber Nutzung, rechnerische Differenz gegenüber Aufhebung sowie spruchreifes Begehren und Vergleichsfolgen.",
     "limits": "desk review; no live client execution"
+  },
+  "fachanwaltschaft_source_review_2026_10_01": {
+    "method": "targeted_official_source_and_prompt_review",
+    "report": "quality/source-audits/fachanwaltschaft-2026-10-01/fachanwalt-verwaltungsrecht.json",
+    "decisions": [
+      {
+        "citation": "BVerwG, Urteil vom 26.06.2025 – 3 C 14.23",
+        "url": "https://ssl.bverwg.de/de/260625U3C14.23.0",
+        "passages": "Rn. 10–15, 19–27",
+        "retrieval": "amtlicher Volltext, ausgewählte Gründe frisch gelesen",
+        "checked_on": "2026-10-01"
+      },
+      {
+        "citation": "BVerwG, Beschluss vom 23.02.2026 – 8 B 27.25",
+        "url": "https://www.bverwg.de/230226B8B27.25.0",
+        "passages": "Rn. 3–7",
+        "retrieval": "amtlicher Volltext, ausgewählte Gründe frisch gelesen",
+        "checked_on": "2026-10-01"
+      }
+    ],
+    "focus_scope": "Hauptproblem Zweckwiderruf und Gegenrechnung bleibt bei 8 C 11.21. Gebietsauswahl bei Gewährung sowie Presseförderung ersetzen keinen Widerrufstatbestand.",
+    "new_model_tests": false
   }
 }

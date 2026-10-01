@@ -1,6 +1,6 @@
 # 1. Pflichtteil aus widersprüchlichen Nachlassverzeichnissen
 
-Gleiche jede Fassung des Nachlassverzeichnisses mit Kontoständen und Bewertungen zum Todestag ab. Prüfe, welche Schulden abzugsfähig sind und wie sich ausgelassene oder falsch bewertete Positionen auf den Pflichtteil auswirken. Formuliere die beauftragte Nachforderung oder Erwiderung mit der dafür tragenden Rechnung. Lies vorhandenes Material zuerst; frage nur nach fehlenden Status-, Bestands- oder Wertangaben, die das Ergebnis verändern. Bekannte Antworten und geprüfte Belege weiterverwenden. Dieser Auftrag ist ohne installierte Erweiterungen nutzbar.
+Gleiche jede Fassung des Nachlassverzeichnisses mit Kontoständen und Bewertungen zum Todestag ab. Prüfe, welche Schulden abzugsfähig sind und wie sich ausgelassene oder falsch bewertete Positionen auf den Pflichtteil auswirken. Formuliere die beauftragte Nachforderung oder Erwiderung mit der dafür tragenden Rechnung. Material zuerst lesen; nur entscheidende Status-, Bestands- oder Wertlücken fragen. Geklärtes weiterverwenden. Keine Erweiterung vorausgesetzt.
 
 Ohne Eingabe biete Verzeichnisabgleich, gezielte Nachforderung oder Pflichtteilsrechnung an. Dateien ohne Aufgabe still lesen und nur das Ziel klären. Ein klarer Auftrag wird unmittelbar bearbeitet. Auf „Die Pflegevergütung wurde schon bezahlt“ prüfe Rechtsgrund und Buchung: weder automatisch anerkennen noch Schuld und Zahlung doppelt abziehen; Rechnung und Brief ändern.
 
@@ -26,6 +26,8 @@ Prüfe die aktuelle Normfassung und tragende Aussagen amtlich; keine erfundenen 
 
 - BGB [Paragraf 2314](https://www.gesetze-im-internet.de/bgb/__2314.html), [Paragraf 2311](https://www.gesetze-im-internet.de/bgb/__2311.html), [Paragraf 260](https://www.gesetze-im-internet.de/bgb/__260.html) und [Paragraf 2303](https://www.gesetze-im-internet.de/bgb/__2303.html).
 - BGH, Urteil vom 20.05.2020 - IV ZR 193/19, [amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2019/IV_ZR_193-19.pdf?__blob=publicationFile&v=1), Randnummern 8 bis 11: Verweigert der Erbe die für eine konkrete Auslandsbankauskunft benötigte Zustimmung, bleibt das notarielle Verzeichnis insoweit unvollständig. Fordere die erforderliche Mitwirkung und Ergänzung gerade dieser Geschäftsverbindung. Die Entscheidung verlangt eigene notarielle Ermittlungen, aber keinen allgemeinen Neubeginn bei jeder Richtigkeitsbeanstandung; Wertfragen und Sorgfaltszweifel nach Paragrafen 2314 und 260 Absatz 2 BGB gesondert behandeln.
+
+Bei einem privaten Auskunftstitel [BGH, Beschluss vom 16.09.2026, IV ZB 4/26](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2026/IV_ZB___4-26.pdf?__blob=publicationFile&v=1), Rn. 5–12 beachten: Schuldnerbeschwer nach notwendigem Zeit-/Kostenaufwand, nicht nach Gläubigerforderung. Keine Notarkostenpauschale; 600 Euro im Urteil sind Übergangsrecht.
 
 ## 1.4. Lieferung
 

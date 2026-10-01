@@ -58,6 +58,8 @@ Ordne die jeweils einschlägigen Voraussetzungen den Paragrafen 305 bis 310, ins
 
 Bei der Abgeschlossenheitsbescheinigung vergleiche Aufteilungsplan, räumliche Abgrenzung, Zugang und beabsichtigte Eigentumsbildung. Prüfe die einschlägige Fassung der Paragrafen 3 und 7 WEG und die erforderlichen Registerunterlagen. Setze eine Bescheinigung weder mit Baugenehmigung noch mit Abnahme gleich; fehlende Nachweise sind gezielt anzufordern.
 
+Bei Vertreterabnahme [BGH, Urteil vom 26.03.2026, VII ZR 68/24](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2024/VII_ZR__68-24.pdf?__blob=publicationFile&v=1), Rn. 36–43 und 53–54, prüfen: Formularzwang zur Abnahme durch drei Erwerbervertreter ist unwirksam; freiwillige Vollmacht gesondert prüfen. Altvertrag nach AGBG/BGB a.F.; die äußerste 30-Jahres-Grenze ab fehlgeschlagener Abnahme ist keine allgemeine Gewährleistungsfrist und lässt frühere Verjährung/Verwirkung unberührt.
+
 ## 1.8. Öffentlich-rechtliche Projektbindungen
 
 Lies Bebauungsplan, örtliche Bauvorschriften und relevante Genehmigungen. Übersetze Festsetzungen nach Paragraf 9 BauGB, Planbindung und Befreiungsfragen nach Paragrafen 30 und 31 BauGB sowie BauNVO Paragrafen 1 bis 23 in den konkreten Planungsauftrag. Prüfe bei einer behaupteten Planerhaftung Pflichtverletzung und Kausalität; eine Genehmigungslücke allein bestimmt noch nicht den Schaden.

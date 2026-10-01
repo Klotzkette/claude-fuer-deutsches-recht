@@ -1,0 +1,89 @@
+{
+  "plugin": "fachanwalt-sportrecht",
+  "checked_on": "2026-10-01",
+  "scope": "Zwei ausgewählte aktuelle Entscheidungen; Entscheidungsidentität und angegebene tragende Volltextpassagen frisch gelesen, Vorprüfungen als Kontext. Keine Prüfung sämtlicher Entscheidungen im Plugin.",
+  "decisions": [
+    {
+      "id": "sport1",
+      "plugin": "fachanwalt-sportrecht",
+      "court": "EuGH",
+      "form": "Urteil",
+      "date": "01.08.2025",
+      "az": "C-600/23",
+      "citation": "EuGH, Urteil vom 01.08.2025, C-600/23",
+      "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=303003&doclang=DE",
+      "passages_read": "Deutscher Entscheidungskopf und Rn. 96–112",
+      "application": "Bei faktisch aufgezwungenem CAS-Verfahren und wirtschaftlichem EU-Bezug wirksame Kontrolle des EU-ordre-public durch zuständige mitgliedstaatliche Gerichte einschließlich Eilrechtsschutz sicherstellen.",
+      "limit": "Kein universelles neues Berufungsgericht und keine Vollrevision sämtlicher Tatsachen; gerichtliche Zuständigkeit und Streitgegenstand bleiben gesondert.",
+      "checked_on": "2026-10-01",
+      "verification_status": "frisch_amtlicher_volltext_passagen",
+      "retrieval": "Amtlicher HTML-Volltext direkt abgerufen",
+      "source_sha256": "a857d7d981f00569b53c57952850f8cc347649344f9174235ced320873b48bda",
+      "skill": "cas-dis-sport-verbands-schiedsverfahren"
+    },
+    {
+      "id": "sport2",
+      "plugin": "fachanwalt-sportrecht",
+      "court": "EuGH",
+      "form": "Urteil",
+      "date": "16.07.2026",
+      "az": "C-424/24 und C-425/24",
+      "citation": "EuGH, Urteil vom 16.07.2026, C-424/24 und C-425/24",
+      "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=313633&doclang=DE",
+      "passages_read": "Deutscher Entscheidungskopf, Rn. 111–117; englische amtliche Fassung Rn. 78–80, 87–114",
+      "application": "Berufsbezogene Verbandssanktionen brauchen überprüfbare verhältnismäßige Kriterien und wirksame gerichtliche Kontrolle einschließlich Aufhebung und Eilschutz.",
+      "limit": "Kein Recht auf zwei Instanzen: nachgelagerte Entschädigungskontrolle kann genügen, wenn bereits das letztinstanzliche Sportorgan sämtliche EU-Gerichtsanforderungen erfüllt.",
+      "checked_on": "2026-10-01",
+      "verification_status": "frisch_amtlicher_volltext_passagen",
+      "retrieval": "Amtlicher HTML-Volltext direkt abgerufen",
+      "source_sha256": "e2594ce3893f0ce135426934da84d3a9dd019b1060587dfa021dafa5715b3ace",
+      "skill": "verbandsstrafe-anfechten"
+    }
+  ],
+  "fresh_2026_decisions": 1,
+  "search_2026": "Amtliche 2026-Fundstellen gezielt gesucht/abgerufen; die hier dokumentierten Quellen tragen die übernommenen Aussagen. Kein Negativnachweis über sämtliche 2026-Entscheidungen.",
+  "changes": "Zwei EuGH-Urteile 2025/2026 mit Volltext statt nur Ankündigung/Suchverweis; unzulässige Pauschalbehauptung von Schiedsspruch-Endgültigkeit in beiden vorhandenen CAS-Fassungen korrigiert.",
+  "changed_files": [
+    "fachanwalt-sportrecht/fachanwalt-sportrecht-schnellstart.md",
+    "fachanwalt-sportrecht/fachanwalt-sportrecht-werkstatt.md",
+    "fachanwalt-sportrecht/skills/cas-dis-sport-verbands-schiedsverfahren/SKILL.md",
+    "fachanwalt-sportrecht/skills/fachanwalt-sportrecht-cas-dis-sport-verbands-schiedsverfahren/SKILL.md",
+    "fachanwalt-sportrecht/skills/verbandsstrafe-anfechten/SKILL.md"
+  ],
+  "read_scope": {
+    "mini": "Vollständig gelesen; Anker und Fortsetzungslogik abgeglichen.",
+    "workshop": "Betroffene Fachabschnitte und vorhandene Anker gelesen; keine erneute Gesamtprüfung sämtlicher übriger Werkstattabschnitte.",
+    "skills": "Betroffene Fachabschnitte der verknüpften bestehenden Skills; keine Gesamtprüfung aller Spezialskills.",
+    "focus": "Auftrag und tragende Anker zur Abgrenzung geprüft; Hauptproblem betrifft Einsatzschwellen/Vertragsoption/Prämien. EU-Kontrolle von Verbandssanktionen ersetzt BAG 7 AZR 312/16 zur treuwidrigen Bedingungsverhinderung nicht."
+  },
+  "focus_decision": "Hauptproblem betrifft Einsatzschwellen/Vertragsoption/Prämien. EU-Kontrolle von Verbandssanktionen ersetzt BAG 7 AZR 312/16 zur treuwidrigen Bedingungsverhinderung nicht.",
+  "prompt_limits": {
+    "schnellstart": {
+      "characters": 6459,
+      "utf8_bytes": 6552
+    },
+    "hauptproblem": {
+      "characters": 6044,
+      "utf8_bytes": 6140
+    }
+  },
+  "txt_mirrors_updated": [],
+  "verification_limits": [
+    "Keine neuen Skills, Testakten, Versionen oder globalen Generatoren.",
+    "Kein Live-Modelltest; vorhandene Modelltestergebnisse werden nicht auf neue Texte umdatiert.",
+    "Altanker außerhalb des benannten Passagenumfangs behalten ihren bisherigen Prüfstatus."
+  ],
+  "technical_checks": {
+    "mini_and_focus_limits": "passed",
+    "profile_validation": "passed: quality_lab.validate_profile, 01.10.2026",
+    "pair_coverage": "passed: Beide Direktlinks in Werkstatt, Mini und jeweils passendem bestehenden Fachskill."
+  },
+  "editorial_placement": {
+    "status": "repositioned_without_substantive_change",
+    "files": [
+      "fachanwalt-sportrecht/skills/cas-dis-sport-verbands-schiedsverfahren/SKILL.md",
+      "fachanwalt-sportrecht/skills/verbandsstrafe-anfechten/SKILL.md"
+    ],
+    "detail": "Neue Rechtsprechungsabschnitte in passende vorhandene Prüf-/Quellenabschnitte eingeordnet und Überschriften an vorhandene Gliederung angepasst; keine neue fachliche Prüfung und keine Promptänderung."
+  }
+}

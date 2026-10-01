@@ -1,0 +1,87 @@
+{
+  "plugin": "fachanwalt-versicherungsrecht",
+  "checked_on": "2026-10-01",
+  "scope": "Zwei ausgewählte aktuelle Entscheidungen; Entscheidungsidentität und angegebene tragende Volltextpassagen frisch gelesen, Vorprüfungen als Kontext. Keine Prüfung sämtlicher Entscheidungen im Plugin.",
+  "decisions": [
+    {
+      "id": "versicherung1",
+      "plugin": "fachanwalt-versicherungsrecht",
+      "court": "BGH",
+      "form": "Beschluss",
+      "date": "28.01.2026",
+      "az": "IV ZR 41/25",
+      "citation": "BGH, Beschluss vom 28.01.2026, IV ZR 41/25",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2025/IV_ZR__41-25.pdf?__blob=publicationFile&v=1",
+      "passages_read": "Entscheidungskopf, Rn. 10–18 und 20",
+      "application": "Unbekannte PKV-Kalkulationsgrundlagen grundsätzlich mit Nichtwissen bestreitbar; Versicherer trägt Beweis erhöhter Prämie auch bei Rückforderung.",
+      "limit": "Zusätzliche Beitragslimitierung nach Paragraf 155 Absatz 2 VAG hat andere Lastverteilung; nach Sachverständigenbeweis konkrete Einwendungen prüfen.",
+      "checked_on": "2026-10-01",
+      "verification_status": "frisch_amtlicher_volltext_passagen",
+      "retrieval": "Amtliches Entscheidungs-PDF frisch abgerufen und mit pdftotext gelesen",
+      "source_sha256": "5eda64b3c356589336a5a05ce87a4aa2c189d40b1f3a5802897b6044763433ae",
+      "skill": "versr-pkv-beitragsanpassung-medizinische-notwendigkeit"
+    },
+    {
+      "id": "versicherung2",
+      "plugin": "fachanwalt-versicherungsrecht",
+      "court": "BGH",
+      "form": "Urteil",
+      "date": "09.09.2026",
+      "az": "IV ZR 259/25",
+      "citation": "BGH, Urteil vom 09.09.2026, IV ZR 259/25",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2025/IV_ZR_259-25.pdf?__blob=publicationFile&v=1",
+      "passages_read": "Entscheidungskopf, Rn. 10–24; tragend Rn. 12–24",
+      "application": "Klausel zu Schäden durch Leckage infolge Gebäudereparaturen auf Wortlaut, Gebäudezusammenhang, Erheblichkeit und Ursache prüfen.",
+      "limit": "Wirksamkeit nur dieser Klausel; Bedeutung der Leckage als technischer Defekt blieb offen, kein allgemeiner Ausschluss jedes Wasserschadens bei Bauarbeiten.",
+      "checked_on": "2026-10-01",
+      "verification_status": "frisch_amtlicher_volltext_passagen",
+      "retrieval": "Amtliches Entscheidungs-PDF frisch abgerufen und mit pdftotext gelesen",
+      "source_sha256": "d510e6ec205b9dac2f53b31931696a580c637404d210657212c6a10b9c401f73",
+      "skill": "gebaeudeversicherung-paragraf-86-vvg"
+    }
+  ],
+  "fresh_2026_decisions": 2,
+  "search_2026": "Amtliche 2026-Fundstellen gezielt gesucht/abgerufen; die hier dokumentierten Quellen tragen die übernommenen Aussagen. Kein Negativnachweis über sämtliche 2026-Entscheidungen.",
+  "changes": "PKV-Kalkulationsbeweis 2026 direkt verlinkt und in PKV-Skill ergänzt; konkreter Reparaturausschluss im Mini und Gebäudeskill.",
+  "changed_files": [
+    "fachanwalt-versicherungsrecht/fachanwalt-versicherungsrecht-schnellstart.md",
+    "fachanwalt-versicherungsrecht/skills/gebaeudeversicherung-paragraf-86-vvg/SKILL.md",
+    "fachanwalt-versicherungsrecht/skills/versr-pkv-beitragsanpassung-medizinische-notwendigkeit/SKILL.md"
+  ],
+  "read_scope": {
+    "mini": "Vollständig gelesen; Anker und Fortsetzungslogik abgeglichen.",
+    "workshop": "Betroffene Fachabschnitte und vorhandene Anker gelesen; keine erneute Gesamtprüfung sämtlicher übriger Werkstattabschnitte.",
+    "skills": "Betroffene Fachabschnitte der verknüpften bestehenden Skills; keine Gesamtprüfung aller Spezialskills.",
+    "focus": "Auftrag und tragende Anker zur Abgrenzung geprüft; Hauptproblem betrifft BU aus Tätigkeit/Funktionsbefund. PKV-Kalkulation und Sprinklerausschluss tragen diesen Beweis nicht; die BU-Anker bleiben fachlich unvermischt."
+  },
+  "focus_decision": "Hauptproblem betrifft BU aus Tätigkeit/Funktionsbefund. PKV-Kalkulation und Sprinklerausschluss tragen diesen Beweis nicht; die BU-Anker bleiben fachlich unvermischt.",
+  "prompt_limits": {
+    "schnellstart": {
+      "characters": 6430,
+      "utf8_bytes": 6518
+    },
+    "hauptproblem": {
+      "characters": 6007,
+      "utf8_bytes": 6091
+    }
+  },
+  "txt_mirrors_updated": [],
+  "verification_limits": [
+    "Keine neuen Skills, Testakten, Versionen oder globalen Generatoren.",
+    "Kein Live-Modelltest; vorhandene Modelltestergebnisse werden nicht auf neue Texte umdatiert.",
+    "Altanker außerhalb des benannten Passagenumfangs behalten ihren bisherigen Prüfstatus."
+  ],
+  "technical_checks": {
+    "mini_and_focus_limits": "passed",
+    "profile_validation": "passed: quality_lab.validate_profile, 01.10.2026",
+    "pair_coverage": "passed: Beide Direktlinks in Werkstatt, Mini und jeweils passendem bestehenden Fachskill."
+  },
+  "editorial_placement": {
+    "status": "repositioned_without_substantive_change",
+    "files": [
+      "fachanwalt-versicherungsrecht/skills/gebaeudeversicherung-paragraf-86-vvg/SKILL.md",
+      "fachanwalt-versicherungsrecht/skills/versr-pkv-beitragsanpassung-medizinische-notwendigkeit/SKILL.md"
+    ],
+    "detail": "Neue Rechtsprechungsabschnitte in passende vorhandene Prüf-/Quellenabschnitte eingeordnet und Überschriften an vorhandene Gliederung angepasst; keine neue fachliche Prüfung und keine Promptänderung."
+  }
+}

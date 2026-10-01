@@ -55,8 +55,11 @@
     },
     {
       "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-96-24/",
-      "checked_on": "2026-09-22",
-      "supports": "BAG, Urteil vom 30.07.2026, 2 AZR 96/24: Annahmeverzug nach unwirksamer Arbeitgeberkündigung kann nicht vorab vollständig ausgeschlossen werden. Grenze/Prüftiefe: Volltext Rn. 10 bis 20; nicht sämtliche Gestaltungen zu Paragraf 615 BGB zwingend."
+      "checked_on": "2026-10-01",
+      "supports": "BAG, Urteil vom 30.07.2026, 2 AZR 96/24: Entgeltrisiko unwirksamer oder erst später wirkender Arbeitgeberkündigung lässt sich nicht im Voraus generell abbedingen; bei Rechtswahl objektives Vertragsstatut und Günstigkeitsvergleich prüfen. Grenze: Keine ausnahmslose Unabdingbarkeit von Paragraf 615 BGB; Höhe nach Zurückverweisung offen. Gelesen: Entscheidungskopf und Rn. 10–20",
+      "verification_status": "frisch_amtlicher_volltext_passagen",
+      "source_sha256": "65f6585ecd07487ef78206d8606cfbd98cff00d3a19baa72595147484db36984",
+      "source_audit": "quality/source-audits/fachanwaltschaft-2026-10-01/fachanwalt-arbeitsrecht.json"
     },
     {
       "url": "https://www.bundesarbeitsgericht.de/presse/annahmeverzugsverguetung-kein-auskunftsanspruch-zu-bewerbungen-auf-stellenangebote/",
@@ -115,10 +118,12 @@
     },
     {
       "url": "https://www.bundesarbeitsgericht.de/entscheidung/5-azr-96-25/",
-      "checked_on": "2026-09-30",
-      "supports": "BAG, Urteil vom 28.04.2026, 5 AZR 96/25, Rn. 19, 24–28 und 53–57: Proportionale Zuschlagsgrenze im konkreten Teilzeit-Tarifmodell prüfen. Grenze: Tarifliche Ausgangsregel und sachliche Rechtfertigung prüfen; kein allgemeiner Zuschlag für jede Mehrstunde. Gelesener Umfang: Tarifliche Ausgangsregel und sachliche Rechtfertigung prüfen; kein allgemeiner Zuschlag für jede Mehrstunde.",
-      "verification_status": "wiederverwendeter_passagennachweis",
-      "previous_review": "quality/source-audits/2026-09-30/arbeit-sozial.md"
+      "checked_on": "2026-10-01",
+      "supports": "BAG, Urteil vom 28.04.2026, 5 AZR 96/25: Einheitliche tarifliche Mehrarbeitszuschlagsgrenze für Vollzeit/Teilzeit diskriminiert im entschiedenen Tarifmodell; proportionale Grenze bestimmen. Grenze: Tariflicher Leistungszweck und sachliche Rechtfertigung prüfen; nicht jede Stunde über individueller Sollzeit ist zuschlagspflichtig. Gelesen: Entscheidungskopf, Rn. 24–28 und 53–57",
+      "verification_status": "frisch_amtlicher_volltext_passagen",
+      "previous_review": "quality/source-audits/2026-09-30/arbeit-sozial.md",
+      "source_sha256": "5a28784b9de867b26bfc9e948e21fdf829b54de1f821fc75c5f87b19aaef4112",
+      "source_audit": "quality/source-audits/fachanwaltschaft-2026-10-01/fachanwalt-arbeitsrecht.json"
     },
     {
       "url": "https://www.bundesarbeitsgericht.de/presse/materieller-schadensersatz-wegen-diskriminierung-im-stellenbesetzungsverfahren-haftungsumfang/",
@@ -130,16 +135,19 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Teilzeit-Zuschläge und AGG-Verdienstausfallschaden anhand konkreter BAG-Entscheidungen 2026 ergänzt; Indizienbeweis im Fachskill korrigiert.",
+    "reason": "Teilzeit-Zuschläge und AGG-Verdienstausfallschaden anhand konkreter BAG-Entscheidungen 2026 ergänzt; Indizienbeweis im Fachskill korrigiert. Gezielte Fachanwalts-Aktualisierung 01.10.2026: Zwei aktuelle 2026-Anker im Mini vollständig verlinkt; vorhandene Werkstatt-/Annahmeverzugsanker frisch nachgeprüft, Teilzeitrechnung im Entgeltskill ergänzt. Kein neuer Live-Modelltest.",
     "changes": [
       "Werkstatt nach konkreten Anspruchs- und Verfahrenslagen neu gefasst; Hauptproblem trennt Freistellung vor Vertragsende von Zwischenverdienst nach Entlassung.",
       "Kernfall mit operativem Entscheidungsanker, gezielten Nachfragen und Fortsetzung zum vollständigen angeforderten Dokument.",
       "Schlusslektüre: Überschriften nach Arbeitsverhältnis, Beteiligungsrechten und Zugangsnachweis konkretisiert.",
       "Generischen Kernauftrag samt wiederholter Rollenbeschreibung nach dem fachlichen Einstieg entfernt.",
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
-      "30.09.2026: Teilzeit-Zuschläge und AGG-Verdienstausfallschaden anhand konkreter BAG-Entscheidungen 2026 ergänzt; Indizienbeweis im Fachskill korrigiert."
+      "30.09.2026: Teilzeit-Zuschläge und AGG-Verdienstausfallschaden anhand konkreter BAG-Entscheidungen 2026 ergänzt; Indizienbeweis im Fachskill korrigiert.",
+      "Zwei aktuelle 2026-Anker im Mini vollständig verlinkt; vorhandene Werkstatt-/Annahmeverzugsanker frisch nachgeprüft, Teilzeitrechnung im Entgeltskill ergänzt."
     ],
-    "sha256": "8247051bbffa1b9c03e48dfa5ca49e6e854c1928174e87d8a26c0415cad2648b"
+    "sha256": "c6cdee2b09de72275ac1189dc0e0ea952a81d2086fb7789798c6957cec41ed1d",
+    "reviewed_on": "2026-10-01",
+    "method": "desk_review"
   },
   "focus_review": {
     "reviewed_on": "2026-09-23",
@@ -264,14 +272,15 @@
     }
   ],
   "prompt_editorial_review": {
-    "date": "2026-09-23",
+    "date": "2026-10-01",
     "files": [
       "fachanwalt-arbeitsrecht/README.md",
       "fachanwalt-arbeitsrecht/fachanwalt-arbeitsrecht-schnellstart.md",
       "fachanwalt-arbeitsrecht/fachanwalt-arbeitsrecht-hauptproblem.md",
       "fachanwalt-arbeitsrecht/fachanwalt-arbeitsrecht-werkstatt.md",
       "fachanwalt-arbeitsrecht/skills/annahmeverzugslohn-zeitraeume-und-anrechnung/SKILL.md",
-      "quality/evals/fachanwalt-arbeitsrecht.json"
+      "quality/evals/fachanwalt-arbeitsrecht.json",
+      "fachanwalt-arbeitsrecht/skills/entgeltgleichheit-paarvergleich-agg-entgtranspg/SKILL.md"
     ],
     "opening_change": "Kündigung, Vergütung und Annahmeverzugszeiträume anhand der Akte bearbeiten; doppelte generische FAO-Rollenbeschreibung im Mini entfernt Workflow-Ergänzung: Leer: Kündigungsschutz, Annahmeverzugslohn oder Vertragsregelung anbieten. Dateien ohne Aufgabe: Kündigung, Lohnbelege und Leistungsbescheide still lesen; Schutz-, Zahlungs- oder Abwehrziel klären. Klarer Auftrag: bestellten Schriftsatz oder Zahlungsentwurf unmittelbar bearbeiten; keine erneute Aufnahme bekannter Beschäftigungsdaten.",
     "norms": [
@@ -308,10 +317,17 @@
       {
         "citation": "BAG, Urteil vom 30.07.2026, 2 AZR 96/24",
         "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-96-24/",
-        "application": "Annahmeverzug nach unwirksamer Arbeitgeberkündigung kann nicht vorab vollständig ausgeschlossen werden.",
-        "limit": "Volltext Rn. 10 bis 20; nicht sämtliche Gestaltungen zu Paragraf 615 BGB zwingend.",
-        "checked_on": "2026-09-25",
-        "verification_status": "wiederverwendeter_auditnachweis"
+        "application": "Entgeltrisiko unwirksamer oder erst später wirkender Arbeitgeberkündigung lässt sich nicht im Voraus generell abbedingen; bei Rechtswahl objektives Vertragsstatut und Günstigkeitsvergleich prüfen.",
+        "limit": "Keine ausnahmslose Unabdingbarkeit von Paragraf 615 BGB; Höhe nach Zurückverweisung offen.",
+        "checked_on": "2026-10-01",
+        "verification_status": "frisch_amtlicher_volltext_passagen",
+        "passages_read": "Entscheidungskopf und Rn. 10–20",
+        "source_sha256": "65f6585ecd07487ef78206d8606cfbd98cff00d3a19baa72595147484db36984",
+        "source_audit": "quality/source-audits/fachanwaltschaft-2026-10-01/fachanwalt-arbeitsrecht.json",
+        "previous_verification": {
+          "checked_on": "2026-09-25",
+          "verification_status": "wiederverwendeter_auditnachweis"
+        }
       },
       {
         "citation": "BAG, Urteil vom 26.08.2026, 5 AZR 37/25",
@@ -378,14 +394,21 @@
         "verification_status": "wiederverwendeter_auditnachweis"
       },
       {
-        "citation": "BAG, Urteil vom 28.04.2026, 5 AZR 96/25, Rn. 19, 24–28 und 53–57",
+        "citation": "BAG, Urteil vom 28.04.2026, 5 AZR 96/25",
         "url": "https://www.bundesarbeitsgericht.de/entscheidung/5-azr-96-25/",
-        "application": "Proportionale Zuschlagsgrenze im konkreten Teilzeit-Tarifmodell prüfen.",
-        "limit": "Tarifliche Ausgangsregel und sachliche Rechtfertigung prüfen; kein allgemeiner Zuschlag für jede Mehrstunde.",
-        "checked_on": "2026-09-30",
-        "verification_status": "wiederverwendeter_passagennachweis",
+        "application": "Einheitliche tarifliche Mehrarbeitszuschlagsgrenze für Vollzeit/Teilzeit diskriminiert im entschiedenen Tarifmodell; proportionale Grenze bestimmen.",
+        "limit": "Tariflicher Leistungszweck und sachliche Rechtfertigung prüfen; nicht jede Stunde über individueller Sollzeit ist zuschlagspflichtig.",
+        "checked_on": "2026-10-01",
+        "verification_status": "frisch_amtlicher_volltext_passagen",
         "previous_review": "quality/source-audits/2026-09-30/arbeit-sozial.md",
-        "passages_read": "Tarifliche Ausgangsregel und sachliche Rechtfertigung prüfen; kein allgemeiner Zuschlag für jede Mehrstunde."
+        "passages_read": "Entscheidungskopf, Rn. 24–28 und 53–57",
+        "source_sha256": "5a28784b9de867b26bfc9e948e21fdf829b54de1f821fc75c5f87b19aaef4112",
+        "source_audit": "quality/source-audits/fachanwaltschaft-2026-10-01/fachanwalt-arbeitsrecht.json",
+        "previous_verification": {
+          "checked_on": "2026-09-30",
+          "verification_status": "wiederverwendeter_passagennachweis",
+          "previous_review": "quality/source-audits/2026-09-30/arbeit-sozial.md"
+        }
       },
       {
         "citation": "BAG, Urteil vom 10.09.2026, 8 AZR 153/25; amtliche Pressemitteilung 30/26",
@@ -402,7 +425,8 @@
       "Desk- und Quellenprüfung, kein Live-Client- oder Modelltest; übrige Fachzweige nicht vollständig rechtlich neu verifiziert.",
       "Volltext Rn. 16 bis 25; kein allgemeiner Verzicht auf Anrechnung nach Vertragsende. BAG 5 AZR 37/25 nur Pressemitteilung, kein Volltext.",
       "GS 1/84 über ausdrückliche Wiedergabe und Anwendung in amtlichen BAG-Folgeentscheidungen verifiziert; kein amtlicher Abruf des historischen Originalvolltexts.",
-      "Workflow-Review 23.09.2026: Paragraf 4 KSchG erneut eingesehen. Vorhandener Nachweis zu BAG 5 AZR 37/25 bleibt Pressemitteilung; GS 1/84 nur in bisher dokumentierter amtlicher Vermittlung, keine neue Volltextprüfung."
+      "Workflow-Review 23.09.2026: Paragraf 4 KSchG erneut eingesehen. Vorhandener Nachweis zu BAG 5 AZR 37/25 bleibt Pressemitteilung; GS 1/84 nur in bisher dokumentierter amtlicher Vermittlung, keine neue Volltextprüfung.",
+      "Fachanwaltsaktualisierung 01.10.2026: zwei ausgewählte aktuelle Entscheidungen frisch im amtlichen Volltext passagenbezogen geprüft; keine Gesamtneuverifikation aller Altanker oder neuen Modelltests. Annahmeverzug: 2 AZR 96/24 ist bereits sachgerecht im Hauptproblem und zugeordneten Skill enthalten. 5 AZR 96/25 betrifft Tarifzuschläge und wird dort nicht dekorativ eingefügt; tragende Anrechnungsanker bleiben."
     ]
   },
   "prompt_workflow_review": {
@@ -456,5 +480,14 @@
       }
     ],
     "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
+  },
+  "source_audit_fachanwaltschaft_2026_10_01": {
+    "report": "quality/source-audits/fachanwaltschaft-2026-10-01/fachanwalt-arbeitsrecht.json",
+    "scope": "Zwei ausgewählte aktuelle Entscheidungen, amtlicher Volltext und operative Prompt-/Skillanwendung; keine pauschale Gesamtprüfung.",
+    "decisions": [
+      "BAG, Urteil vom 30.07.2026, 2 AZR 96/24",
+      "BAG, Urteil vom 28.04.2026, 5 AZR 96/25"
+    ],
+    "new_model_test": false
   }
 }

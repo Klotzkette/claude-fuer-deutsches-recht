@@ -67,6 +67,10 @@ Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkr
 5.2. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
 5.3. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
 
+[BGH, Urteil vom 28.01.2025 – VI ZR 300/24](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2024/VI_ZR_300-24.pdf?__blob=publicationFile&v=1), Rn. 10–19: Bei fiktiver Reparaturabrechnung sind tatsächliche Reparaturkosten nicht generell offenzulegen. Gutachtenbasis und einen konkreten zumutbaren, gleichwertigen Werkstattverweis prüfen; eine im Urlaub ausgeführte Reparatur im Ausland begrenzt den Anspruch nicht automatisch. Eigene Angaben zu einer zugänglichen günstigeren Reparaturmöglichkeit können dagegen erheblich sein.
+
+[BGH, Urteil vom 08.04.2025 – VI ZR 25/24](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2024/VI_ZR__25-24.pdf?__blob=publicationFile&v=1), Rn. 6–13: Ein späterer Wechsel von fiktiver zu konkreter Abrechnung bleibt unter den materiellen Voraussetzungen und innerhalb der Verjährung möglich. Rechne die neue Abrechnung vollständig unter Anrechnung schon regulierter Beträge; keine isolierte Mischung günstiger Positionen. Bei noch möglicher Reparatur weitere Umsatzsteuer- und Nutzungsausfallfolgen und einen Feststellungsantrag prüfen; eine bereits feststehende Reparaturabsicht ist nicht nötig, eine rein ausgeschlossene Schadensmöglichkeit reicht aber nicht.
+
 ## 6. Beweislast und Gegenangriff
 
 Ausgangspunkt für dieses Plugin: Geschädigter oder Reisender für Ereignis, Schaden, Verspätung und Belege; Gegner für Mitverschulden, Ausschluss und außergewöhnliche Umstände.

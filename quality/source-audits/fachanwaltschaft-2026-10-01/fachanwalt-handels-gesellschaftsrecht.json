@@ -1,0 +1,78 @@
+{
+  "plugin": "fachanwalt-handels-gesellschaftsrecht",
+  "checked_on": "2026-10-01",
+  "method": "fresh_official_primary_passages_and_targeted_text_review",
+  "scope": "Zwei aktuelle oberstgerichtliche Anker in Werkstatt, Mini und sachlich passenden vorhandenen Fachskills; Hauptproblem nur nach konkreter Einschlägigkeit.",
+  "decisions": [
+    {
+      "court": "BGH",
+      "decision_type": "Urteil",
+      "decision_date": "10.02.2026",
+      "docket": "II ZR 71/24",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2024/II_ZR__71-24.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-01",
+      "read_passages": "Rn. 21, 55–58, 66–67",
+      "holding": "Managerbeteiligung und Hinauskündigung anhand Gesamtmodell prüfen; Verkehrswertkauf und Verlustrisiko schließen sachliche Rechtfertigung nicht allein aus.",
+      "transfer_limit": "Keine generelle Freigabe beliebiger Gründer-Leaver-Klauseln; Ausübungskontrolle nach Paragraf242BGB nach Zurückverweisung offen.",
+      "retrieval": "Amtlicher BGH-PDF-Volltext frisch heruntergeladen; bezeichnete Passagen gelesen.",
+      "verification_status": "fresh_primary_passages",
+      "sha256": "eafff90a3d150d4cffeff039fb5f11710fe37e5ea7fc459e5e8639fc7e20a715",
+      "citation": "BGH, Urteil vom 10.02.2026 – Az. II ZR 71/24"
+    },
+    {
+      "court": "BGH",
+      "decision_type": "Urteil",
+      "decision_date": "21.04.2026",
+      "docket": "II ZR 50/25",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2025/II_ZR__50-25.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-01",
+      "read_passages": "Rn. 18–25",
+      "holding": "Formelle Listenlegitimation und materielle Gesellschafterstellung unterscheiden; bei ernstlichem Bestreiten kann Feststellungsinteresse trotz zutreffender Liste bestehen.",
+      "transfer_limit": "Kein Nachweis von Einziehungsgrund, Kapitalerhaltung oder Finanzierbarkeit der Abfindung.",
+      "retrieval": "Amtlicher BGH-PDF-Volltext frisch heruntergeladen; bezeichnete Passagen gelesen.",
+      "verification_status": "fresh_primary_passages",
+      "sha256": "88b2a5a3c77acc238dba4e80da9dda4aee47035aa1bb36ae4481bcaccf3ef0e2",
+      "citation": "BGH, Urteil vom 21.04.2026 – Az. II ZR 50/25"
+    }
+  ],
+  "files_read_for_context": [
+    "fachanwalt-handels-gesellschaftsrecht/fachanwalt-handels-gesellschaftsrecht-hauptproblem.md",
+    "fachanwalt-handels-gesellschaftsrecht/fachanwalt-handels-gesellschaftsrecht-schnellstart.md",
+    "fachanwalt-handels-gesellschaftsrecht/fachanwalt-handels-gesellschaftsrecht-werkstatt.md",
+    "fachanwalt-handels-gesellschaftsrecht/skills/gesellschafterstreit/SKILL.md",
+    "fachanwalt-handels-gesellschaftsrecht/skills/gmbh-einziehung-abfindung-finanzierbarkeit/SKILL.md"
+  ],
+  "files_changed": [
+    "fachanwalt-handels-gesellschaftsrecht/fachanwalt-handels-gesellschaftsrecht-hauptproblem.md",
+    "fachanwalt-handels-gesellschaftsrecht/fachanwalt-handels-gesellschaftsrecht-schnellstart.md",
+    "fachanwalt-handels-gesellschaftsrecht/fachanwalt-handels-gesellschaftsrecht-werkstatt.md",
+    "fachanwalt-handels-gesellschaftsrecht/skills/gesellschafterstreit/SKILL.md",
+    "fachanwalt-handels-gesellschaftsrecht/skills/gmbh-einziehung-abfindung-finanzierbarkeit/SKILL.md"
+  ],
+  "changes": "Mitgliedschaftsstreit und Manager-Hinauskündigung in Werkstatt/Mini/Gesellschafterstreitskill verankert; Listeneintrag nicht als abschließenden materiellen Berechtigungsnachweis verwenden.",
+  "focus_scope": "Hauptproblem/Fokusskill zur Einziehungsfinanzierung erhalten II ZR50/25 als Mitgliedschaftsvorfrage. Managerbeteiligungsentscheidung bleibt im breiten Gesellschaftsstreit; ältere Kapitalerhaltungs-/Abfindungsanker bleiben tragend.",
+  "prompt_sizes": {
+    "schnellstart": {
+      "characters": 6947,
+      "utf8_bytes": 7040,
+      "sha256": "6405b2054c40076571001a69b471e9aa78320c5fdc5bd0fd0d0a7f2761a3809d"
+    },
+    "hauptproblem": {
+      "characters": 7268,
+      "utf8_bytes": 7368,
+      "sha256": "af871bbaf284b24957e1c690360b298fceb7d1e70f2f13878dce1090287f4c13"
+    },
+    "werkstatt": {
+      "characters": 24807,
+      "utf8_bytes": 25153,
+      "sha256": "0bb1ae2a6674ebab2c4c9913cc4fe4897aac9707985494dd4626704ec4e36018"
+    }
+  },
+  "text_mirrors": "Keine vorhandenen TXT-Spiegel in diesem Plugin; keine neuen Doppelkopien erzeugt.",
+  "limits": [
+    "Keine Vollverifikation aller Altentscheidungen oder aller Fachskills.",
+    "Kein neuer Live-Modell-, Mandats-, Export- oder Dokumentrendertest.",
+    "Vorhandene Regulierungs- und Spezialanker außerhalb der bezeichneten Entscheidungen nicht umfassend neu geprüft."
+  ],
+  "search_2026_result": "Mindestens eine passende 2026-Entscheidung frisch amtlich abgeglichen; ältere einschlägige Spezialanker nicht bloß wegen ihres Datums ersetzt."
+}

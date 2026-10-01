@@ -39,6 +39,10 @@ description: "Für WEG-Beschlusskompetenz: Fachmodul im Miet- und Wohnungseigent
 5. **Taktik:** Sofortmaßnahme, Verhandlung, Vergleich, Klage/Eilantrag, Kostenrisiko.
 6. **Ergebnis:** Ampel mit Begründung und konkretem nächsten Arbeitsschritt.
 
+### Delegierte Erhaltung am Gemeinschaftseigentum
+
+Bei delegierter Balkonerhaltung [BGH, Urteil vom 24.04.2026, V ZR 102/24](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2024/V_ZR_102-24.pdf?__blob=publicationFile&v=1), Rn. 13–14, 23 und 25–26, anwenden: Die GdWE behält ihre Beschlusskompetenz; wird sie tätig, bleibt die vereinbarte Kostenlast. Gemeinschaftsordnung, Sanierungsbedarf und Handlungsspielraum lesen. Kompetenz, Pflicht zum Tätigwerden und Kostentragung getrennt begründen; kein Anspruch auf jede gewünschte Sanierungsart.
+
 ## Quellen- und Sicherheitsregel
 - Vor tragenden Aussagen den aktuellen Normtext und die aktuelle Behörden-/Gerichtspraxis prüfen; keine Scheingenauigkeit aus Modellwissen.
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.

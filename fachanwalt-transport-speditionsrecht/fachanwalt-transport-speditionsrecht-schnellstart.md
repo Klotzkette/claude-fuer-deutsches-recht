@@ -1,6 +1,6 @@
 # 1. Transportverlust, Haftungsgrenze und Regress
 
-Bestimmen Sie Obhut, Schaden und Haftungsgrenze anhand der Übergaben und Belege und begründen Sie die bestellte Forderung, Erwiderung oder Regressbewertung.
+Prüfen Sie Obhut, Schaden und Haftungsgrenze an Übergaben und Belegen; begründen Sie Forderung, Erwiderung oder Regressbewertung.
 
 ## 1.1. Transportakte
 
@@ -21,7 +21,7 @@ Fehlt der Nachweis zum Ausgangsinhalt oder Gewicht, fragen Sie gezielt nach Pack
 
 Fehlt im Regress die Ablehnung oder ihr Zugang, fordern Sie diese Korrespondenz an und aktualisieren Sie nur die Frist des betroffenen Vertragsglieds. Bereiten Sie bei Eile den erforderlichen Sicherungsschritt zur Entscheidung vor, ohne dessen Ausführung zu behaupten. Neue Antworten dürfen weitere entscheidende Lücken zeigen; fragen Sie dazu nach, nicht erneut nach bereits geklärten Transportdaten.
 
-Bei Verladeunfällen Gerätezusage und Vertrag prüfen: BGH, Urteil vom 18.06.2026 – I ZR 125/25, Rn. 14–25. Vertraglich übernommene Verladung lässt Obhut bereits mit Besitzergreifung beginnen; vorhandene Hebebühne oder Fahrerhilfe allein beweist diese Abrede nicht.
+Bei Verladung [BGH, Urteil vom 18.06.2026 – Az. I ZR 125/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2025/I_ZR_125-25.pdf?__blob=publicationFile&v=1), Rn. 14–25, 35: Besonderes Lademittel vertraglich zugesagt: regelmäßig Verladung übernommen, Obhut ab Besitz zum Laden. Auftrag beiziehen; Hebebühne oder Fahrerhilfe allein genügen nicht. Schadensursache und Mitverschulden blieben offen.
 
 ## 1.3. Fristen und Beweis
 
@@ -29,7 +29,7 @@ Im HGB-Verlustfall bedeutet fehlende rechtzeitige Anzeige nach [Paragraf 438 HGB
 
 Prüfen Sie [Paragraf 431 HGB](https://www.gesetze-im-internet.de/hgb/__431.html) und [Paragraf 435 HGB](https://www.gesetze-im-internet.de/hgb/__435.html) für Grenze und Durchbrechung. Vorsatz ist eine eigenständige Alternative zu Leichtfertigkeit mit Schadensbewusstsein. Bei nachgewiesener Entwendung durch eine nach Paragraf 428 HGB zurechenbare Transportperson kein weiteres Organisationsverschulden verlangen. Bei einem außenstehenden Dieb reicht dessen Vorsatz nicht: Den zurechenbaren Beitrag des Frachtführers samt Verschuldensmaß prüfen; so die Unterscheidung in BGH I ZR 87/11, Randnummer 19, im dortigen CMR-Fall. Benennen Sie ursprüngliche Beweislast, konkrete Anhaltspunkte und erst danach mögliche sekundäre Darlegungslast.
 
-BGH, Urteil vom 13.06.2012, Az. I ZR 87/11, [amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2011/I_ZR__87-11.pdf?__blob=publicationFile&v=1), Randnummern 16 bis 20: Bei während der Obhut geöffnetem, teilweise geleertem und wieder verschlossenem Packstück können konkrete Indizien eine sekundäre Darlegung zu Transportlauf, Kontrollen und Sicherheitsmaßnahmen auslösen. Die ursprüngliche Beweislast bleibt bestehen. Der Fall betrifft Artikel 29 CMR; die Darlegungslogik auf Paragraf 435 HGB begründet übertragen, nicht das Regime selbst. Nach Randnummern 26 bis 28 muss eine Wertwarnung rechtzeitige Reaktion im normalen Geschäftsgang ermöglichen, nicht zwingend schon vor Vertragsschluss erfolgen. Keine feste Kürzungsquote übernehmen.
+BGH, Urteil vom 13.06.2012 – Az. I ZR 87/11, [Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2011/I_ZR__87-11.pdf?__blob=publicationFile&v=1), Rn. 16–20: Konkrete Indizien für Öffnung, Entnahme und Wiederverschluss während der Obhut können sekundäre Darlegung zu Transportlauf und Sicherung auslösen; ursprüngliche Beweislast bleibt. Die Darlegungslogik aus Artikel 29 CMR begründet auf Paragraf 435 HGB übertragen, nicht das Regime. Rn. 26–28: Wertwarnung muss rechtzeitige Reaktion im Geschäftsgang erlauben, nicht zwingend vor Vertragsschluss; keine feste Kürzungsquote.
 
 Bei Schadensersatz nach Paragraf 435 HGB in Verbindung mit Paragrafen 249 und 252 BGB Kosten und Folgeschaden eigenständig nachweisen. Wer stattdessen Wertersatz nach Paragraf 429 HGB verlangt, unterliegt dessen Begrenzungen; keine Mischrechnung. Diesen Unterschied bestätigt BGH, Urteil vom 02.07.2026, Az. I ZR 134/25, Randnummern 19 bis 20 ([amtlicher Text](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2025/I_ZR_134-25.pdf?__blob=publicationFile&v=1)). Der dortige Aufliegerschaden beweist kein qualifiziertes Verschulden bei Ihrer Sendung.
 
@@ -37,7 +37,7 @@ Bei Schadensersatz nach Paragraf 435 HGB in Verbindung mit Paragrafen 249 und 25
 
 Liefern Sie das verlangte Dokument. Bei einem Prüfauftrag genügt eine begründete Haftungsbeurteilung mit nachvollziehbarer Rechnung; entwerfen Sie nicht ungefragt eine Klage oder Haftbarhaltung. Ereignisübersicht und Fristenaufstellung nur im benötigten Umfang ergänzen. Bei drohendem Fristablauf den nötigen Sicherungsschritt sofort zur anwaltlichen Entscheidung vorbereiten, nicht unter einer Zweiwochengrenze automatisch abbrechen. Keine Versendung, Vergleichsannahme oder Verjährungsverzichtserklärung ohne Freigabe.
 
-Prüfen Sie vor Abschluss Gewicht, Summen, Fristen und Quellen sowie die Einarbeitung neuer Angaben. Bei einem Hindernis den bereits begründbaren Teil vorläufig liefern, den konkret benötigten Nachweis benennen und nach Eingang bis zum bestellten Dokument weiterarbeiten. Quellenlücken statt erfundener Entscheidungen ausweisen. Vollständige Sätze, dezimale Gliederung, Umlaute, Paragraf ausgeschrieben, keine Doppelsterne. Exporthinweis: Times New Roman, 11 pt.
+Vor Abschluss Gewicht, Summen, Fristen, Quellen und neue Angaben prüfen. Bei einem Hindernis den bereits begründbaren Teil vorläufig liefern, den konkret benötigten Nachweis benennen und nach Eingang bis zum bestellten Dokument weiterarbeiten. Quellenlücken statt erfundener Entscheidungen ausweisen. Vollständige Sätze, dezimale Gliederung, Umlaute, Paragraf ausgeschrieben, keine Doppelsterne. Exporthinweis: Times New Roman, 11 pt.
 
 ## 1.5. Technische Grenzen
 

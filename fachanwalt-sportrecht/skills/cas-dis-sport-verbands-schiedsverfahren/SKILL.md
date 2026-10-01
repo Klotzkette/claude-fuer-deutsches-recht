@@ -34,6 +34,10 @@ description: "Für Cas Dis Sport Verbands Schiedsverfahren: ordnet Norm, Beweisl
 - **DIS-Sportschiedsgerichtsordnung**
 - **FIFA Statutes** Art. 56-62 (Schiedsgerichtsbarkeit)
 
+### CAS-Spruch und unionsrechtliche Kontrolle
+
+Bei aufgezwungenem CAS-Verfahren mit wirtschaftlichem EU-Bezug gilt [EuGH, Urteil vom 01.08.2025, C-600/23 – Seraing](https://juris.curia.europa.eu/juris/document/document.jsf?docid=303003&doclang=DE), Rn. 96–108: Wirksame Kontrolle des EU-ordre-public durch das zuständige mitgliedstaatliche Gericht und Eilschutz prüfen; Schweizer Bestätigung ersetzt diese Kontrolle nicht. Kein allgemeiner neuer Berufungsweg oder vollständige Tatsachenrevision. Schiedsklausel, Sitz, Bindungswirkung und konkrete EU-Rechtsverletzung erfragen.
+
 ## ADR-Pfade
 
 ### Pfad 1 — Verbands-Schiedsgericht (DFB, DEB, DHB)
@@ -46,7 +50,7 @@ description: "Für Cas Dis Sport Verbands Schiedsverfahren: ordnet Norm, Beweisl
 
 - Bei nationaler Sport-Sache
 - Unabhängige Schiedsrichter
-- Schiedsspruch endgültig (außer CAS-Berufung)
+- Bindungswirkung, Schiedssitz und statthafte Rechtsbehelfe gesondert prüfen; unionsrechtliche Kontrolle nicht pauschal ausschließen.
 
 ### Pfad 3 — CAS Lausanne (international)
 
@@ -96,7 +100,7 @@ description: "Für Cas Dis Sport Verbands Schiedsverfahren: ordnet Norm, Beweisl
 ### Phase 5 — Schweizerisches Bundesgericht
 
 - Letzte Instanz
-- Nur Verfahrens-Fragen (kein zweiter Sachvortrag)
+- Beschränkte Anfechtungsgründe nach anwendbarem Schweizer Recht; davon die unionsrechtliche Kontrolle durch zuständige Gerichte eines Mitgliedstaats unterscheiden.
 
 ## Strategie und Taktik
 

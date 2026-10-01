@@ -37,33 +37,44 @@
       "url": "https://www.gesetze-im-internet.de/hgb/__377.html",
       "supports": "Erneuter Normabruf zur Untersuchungs- und Rügeobliegenheit; Ablieferung, Entdeckung und Absendung der konkreten Rüge auseinanderhalten.",
       "checked_on": "2026-09-23"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2024/II_ZR__71-24.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-01",
+      "supports": "Managerbeteiligung und Hinauskündigung anhand Gesamtmodell prüfen; Verkehrswertkauf und Verlustrisiko schließen sachliche Rechtfertigung nicht allein aus. Grenze: Keine generelle Freigabe beliebiger Gründer-Leaver-Klauseln; Ausübungskontrolle nach Paragraf242BGB nach Zurückverweisung offen."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2025/II_ZR__50-25.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-01",
+      "supports": "Formelle Listenlegitimation und materielle Gesellschafterstellung unterscheiden; bei ernstlichem Bestreiten kann Feststellungsinteresse trotz zutreffender Liste bestehen. Grenze: Kein Nachweis von Einziehungsgrund, Kapitalerhaltung oder Finanzierbarkeit der Abfindung."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der Kurzprompt unterscheidet jetzt anfänglich nicht finanzierbare Einziehung und spätere Abfindungssperre mit zwei amtlich gelesenen Entscheidungen; die kaufmännische Rüge stellt auf rechtzeitige Absendung ab. Individuelle Text- und Primärquellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Finanzierung ist ein rückzahlbares Darlehen statt Zuschuss -> Liquidität und freies Vermögen unterscheiden; Einziehungsbewertung und Finanzierungsklausel ändern.",
+    "reason": "Der Kurzprompt unterscheidet jetzt anfänglich nicht finanzierbare Einziehung und spätere Abfindungssperre mit zwei amtlich gelesenen Entscheidungen; die kaufmännische Rüge stellt auf rechtzeitige Absendung ab. Individuelle Text- und Primärquellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Finanzierung ist ein rückzahlbares Darlehen statt Zuschuss -> Liquidität und freies Vermögen unterscheiden; Einziehungsbewertung und Finanzierungsklausel ändern. 01.10.2026: gezielter amtlicher Quellen- und Textabgleich der zwei Fachgebietsanker; kein neuer Live-Modelltest. Hauptproblem/Fokusskill zur Einziehungsfinanzierung erhalten II ZR50/25 als Mitgliedschaftsvorfrage. Managerbeteiligungsentscheidung bleibt im breiten Gesellschaftsstreit; ältere Kapitalerhaltungs-/Abfindungsanker bleiben tragend.",
     "changes": [
       "II ZR 65/16 und II ZR 342/14 mit unterschiedlichen Zeitpunkten und Rechtsfolgen in beide Prompts, Hauptproblem und Fokus-Skill integriert.",
       "Rügefrist nach HGB Paragraf 377 Absatz 4 korrigiert; unbestätigten Registerbeschluss entfernt.",
       "Stille Reserven nicht mit freiem Vermögen gleichgesetzt; kein Automatismus persönlicher Abfindungshaftung.",
-      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
+      "Mitgliedschaftsstreit und Manager-Hinauskündigung in Werkstatt/Mini/Gesellschafterstreitskill verankert; Listeneintrag nicht als abschließenden materiellen Berechtigungsnachweis verwenden."
     ],
-    "sha256": "77d6f7399dd9f34f49658f4fbcfa59a913add29ed33df663f68b4d7909778360"
+    "sha256": "6405b2054c40076571001a69b471e9aa78320c5fdc5bd0fd0d0a7f2761a3809d"
   },
   "focus_review": {
-    "reviewed_on": "2026-09-23",
+    "reviewed_on": "2026-10-01",
     "method": "desk_review",
     "verdict": "revised",
-    "reason": "Hauptproblem-Prompt und zugeordneter Fokus-Skill vollständig gelesen und auf freien Vermögensbestand am Beschlusstag, spätere Auszahlungssperre und individuell begründete Treuwidrigkeit abgestimmt. Beide BGH-Entscheidungen im amtlichen Volltext geprüft; kein Live-Modelltest. Workflow-Ergänzung: Finanzierung ist ein rückzahlbares Darlehen statt Zuschuss -> Liquidität und freies Vermögen unterscheiden; Einziehungsbewertung und Finanzierungsklausel ändern. Zugeordneten Fokus-Skill auf Kohärenz gelesen und unverändert belassen.",
+    "reason": "Hauptproblem-Prompt und zugeordneter Fokus-Skill vollständig gelesen und auf freien Vermögensbestand am Beschlusstag, spätere Auszahlungssperre und individuell begründete Treuwidrigkeit abgestimmt. Beide BGH-Entscheidungen im amtlichen Volltext geprüft; kein Live-Modelltest. Workflow-Ergänzung: Finanzierung ist ein rückzahlbares Darlehen statt Zuschuss -> Liquidität und freies Vermögen unterscheiden; Einziehungsbewertung und Finanzierungsklausel ändern. Zugeordneten Fokus-Skill auf Kohärenz gelesen und unverändert belassen. 01.10.2026: gezielter amtlicher Quellen- und Textabgleich der zwei Fachgebietsanker; kein neuer Live-Modelltest. Hauptproblem/Fokusskill zur Einziehungsfinanzierung erhalten II ZR50/25 als Mitgliedschaftsvorfrage. Managerbeteiligungsentscheidung bleibt im breiten Gesellschaftsstreit; ältere Kapitalerhaltungs-/Abfindungsanker bleiben tragend.",
     "changes": [
       "II ZR 65/16 und II ZR 342/14 mit zeitlicher und haftungsrechtlicher Abgrenzung in beide Texte eingearbeitet.",
       "Einstieg auf beauftragte Einziehungs- und Abfindungsprüfung konkretisiert; vollständige Entwürfe und Fortsetzung nach Nachweisen erhalten.",
       "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten."
     ],
     "prompt_path": "fachanwalt-handels-gesellschaftsrecht/fachanwalt-handels-gesellschaftsrecht-hauptproblem.md",
-    "prompt_sha256": "b353d882929f5cdb67739f245fe3b86c464e009f51129517d024c1379cc8da76",
+    "prompt_sha256": "af871bbaf284b24957e1c690360b298fceb7d1e70f2f13878dce1090287f4c13",
     "skill_path": "fachanwalt-handels-gesellschaftsrecht/skills/gmbh-einziehung-abfindung-finanzierbarkeit/SKILL.md",
-    "skill_sha256": "51c01f56b7a25167929ad4099822f7891fe0c5196c069a42ffaeda42ea2452af"
+    "skill_sha256": "1579bba346f26e1442ba055b23132e07e757c8efc4e0221375e06918019e538c"
   },
   "selection": {
     "positive": [
@@ -119,23 +130,25 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Der Fachanwaltsüberblick ersetzt pauschale Normreihen durch rechtsformbezogene Prüfung und trennt Nichtigkeit der Einziehung, Zahlungssperre und persönliche Mitgesellschafterhaftung. Individuelle Text- und Primärquellenprüfung, kein Live-Modelltest. Schlusslektüre hat die noch allgemeinen Holding- und Tokenisierungsabschnitte konkretisiert; vollständige Fachwege bleiben erhalten. Workflow-Ergänzung einzeln geprüft: Tatsächliche Stimmen und Protokoll, spätere Wiederholung gegenüber Heilung, Zahlungsrollen bei Abfindung, aktuelle Verluste, Mängelentdeckung und Rügeabsendung sowie Provisionskonto gegenüber Ausgleichsanspruch.",
+    "reason": "Der Fachanwaltsüberblick ersetzt pauschale Normreihen durch rechtsformbezogene Prüfung und trennt Nichtigkeit der Einziehung, Zahlungssperre und persönliche Mitgesellschafterhaftung. Individuelle Text- und Primärquellenprüfung, kein Live-Modelltest. Schlusslektüre hat die noch allgemeinen Holding- und Tokenisierungsabschnitte konkretisiert; vollständige Fachwege bleiben erhalten. Workflow-Ergänzung einzeln geprüft: Tatsächliche Stimmen und Protokoll, spätere Wiederholung gegenüber Heilung, Zahlungsrollen bei Abfindung, aktuelle Verluste, Mängelentdeckung und Rügeabsendung sowie Provisionskonto gegenüber Ausgleichsanspruch. 01.10.2026: gezielter amtlicher Quellen- und Textabgleich der zwei Fachgebietsanker; kein neuer Live-Modelltest. Hauptproblem/Fokusskill zur Einziehungsfinanzierung erhalten II ZR50/25 als Mitgliedschaftsvorfrage. Managerbeteiligungsentscheidung bleibt im breiten Gesellschaftsstreit; ältere Kapitalerhaltungs-/Abfindungsanker bleiben tragend.",
     "changes": [
       "II ZR 65/16 und II ZR 342/14 mit unterschiedlichen Zeitpunkten und Rechtsfolgen in beide Prompts, Hauptproblem und Fokus-Skill integriert.",
       "Rügefrist nach HGB Paragraf 377 Absatz 4 korrigiert; unbestätigten Registerbeschluss entfernt.",
       "Stille Reserven nicht mit freiem Vermögen gleichgesetzt; kein Automatismus persönlicher Abfindungshaftung.",
       "Schlusslektüre: Holding- und Tokenisierungsabschnitte mit konkreten Rechts-, Zustimmungs-, Form- und Nachweisfragen statt allgemeiner Bearbeitungsformeln ausgearbeitet.",
-      "Tatsächliche Stimmen und Protokoll, spätere Wiederholung gegenüber Heilung, Zahlungsrollen bei Abfindung, aktuelle Verluste, Mängelentdeckung und Rügeabsendung sowie Provisionskonto gegenüber Ausgleichsanspruch."
+      "Tatsächliche Stimmen und Protokoll, spätere Wiederholung gegenüber Heilung, Zahlungsrollen bei Abfindung, aktuelle Verluste, Mängelentdeckung und Rügeabsendung sowie Provisionskonto gegenüber Ausgleichsanspruch.",
+      "Mitgliedschaftsstreit und Manager-Hinauskündigung in Werkstatt/Mini/Gesellschafterstreitskill verankert; Listeneintrag nicht als abschließenden materiellen Berechtigungsnachweis verwenden."
     ],
-    "sha256": "73536aa588e8a42c7241eda89d811ed067a21d9d18c40838f771a52e596f3833"
+    "sha256": "0bb1ae2a6674ebab2c4c9913cc4fe4897aac9707985494dd4626704ec4e36018"
   },
   "prompt_editorial_review": {
-    "date": "2026-09-23",
+    "date": "2026-10-01",
     "files": [
       "fachanwalt-handels-gesellschaftsrecht/README.md",
-      "fachanwalt-handels-gesellschaftsrecht/fachanwalt-handels-gesellschaftsrecht-schnellstart.md",
       "fachanwalt-handels-gesellschaftsrecht/fachanwalt-handels-gesellschaftsrecht-hauptproblem.md",
+      "fachanwalt-handels-gesellschaftsrecht/fachanwalt-handels-gesellschaftsrecht-schnellstart.md",
       "fachanwalt-handels-gesellschaftsrecht/fachanwalt-handels-gesellschaftsrecht-werkstatt.md",
+      "fachanwalt-handels-gesellschaftsrecht/skills/gesellschafterstreit/SKILL.md",
       "fachanwalt-handels-gesellschaftsrecht/skills/gmbh-einziehung-abfindung-finanzierbarkeit/SKILL.md",
       "quality/evals/fachanwalt-handels-gesellschaftsrecht.json"
     ],
@@ -159,12 +172,27 @@
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2014/II_ZR_342-14.pdf?__blob=publicationFile&v=1",
         "application": "Bei wirksamer Einziehung und späterer Abfindungssperre prüfen, ob verbleibende Gesellschafter die Gesellschaft treuwidrig ohne zumutbare Finanzierungs- oder Auflösungsmaßnahmen fortsetzen.",
         "limit": "Keine automatische Ausfallbürgschaft. Rechtzeitige Insolvenzantragstellung und konkrete Finanzierungsmaßnahmen können eine Treuwidrigkeit ausschließen; Sicherheitsabreden gesondert prüfen."
+      },
+      {
+        "citation": "BGH, Urteil vom 10.02.2026 – Az. II ZR 71/24, Rn. 21, 55–58, 66–67",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2024/II_ZR__71-24.pdf?__blob=publicationFile&v=1",
+        "application": "Managerbeteiligung und Hinauskündigung anhand Gesamtmodell prüfen; Verkehrswertkauf und Verlustrisiko schließen sachliche Rechtfertigung nicht allein aus.",
+        "limit": "Keine generelle Freigabe beliebiger Gründer-Leaver-Klauseln; Ausübungskontrolle nach Paragraf242BGB nach Zurückverweisung offen.",
+        "checked_on": "2026-10-01"
+      },
+      {
+        "citation": "BGH, Urteil vom 21.04.2026 – Az. II ZR 50/25, Rn. 18–25",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2025/II_ZR__50-25.pdf?__blob=publicationFile&v=1",
+        "application": "Formelle Listenlegitimation und materielle Gesellschafterstellung unterscheiden; bei ernstlichem Bestreiten kann Feststellungsinteresse trotz zutreffender Liste bestehen.",
+        "limit": "Kein Nachweis von Einziehungsgrund, Kapitalerhaltung oder Finanzierbarkeit der Abfindung.",
+        "checked_on": "2026-10-01"
       }
     ],
     "remaining_limits": [
       "Andere handels- und gesellschaftsrechtliche Spezialrouten nicht vollständig neu judikaturseitig überprüft.",
       "Desk- und Quellenprüfung; kein Live-Client- oder Live-Modelltest und keine vollständige Neuverifikation sämtlicher vorhandener Quellen.",
-      "Workflow-Review 23.09.2026: Paragraf 377 HGB erneut eingesehen; vorhandene Einziehungsentscheidungen bleiben mit ihren sachlichen Grenzen erhalten."
+      "Workflow-Review 23.09.2026: Paragraf 377 HGB erneut eingesehen; vorhandene Einziehungsentscheidungen bleiben mit ihren sachlichen Grenzen erhalten.",
+      "01.10.2026: gezielter amtlicher Quellen- und Textabgleich der zwei Fachgebietsanker; kein neuer Live-Modelltest. Hauptproblem/Fokusskill zur Einziehungsfinanzierung erhalten II ZR50/25 als Mitgliedschaftsvorfrage. Managerbeteiligungsentscheidung bleibt im breiten Gesellschaftsstreit; ältere Kapitalerhaltungs-/Abfindungsanker bleiben tragend."
     ]
   },
   "prompt_workflow_review": {
@@ -178,5 +206,12 @@
     "continuation": "Finanzierung ist ein rückzahlbares Darlehen statt Zuschuss -> Liquidität und freies Vermögen unterscheiden; Einziehungsbewertung und Finanzierungsklausel ändern.",
     "enrichment": "Tatsächliche Stimmen und Protokoll, spätere Wiederholung gegenüber Heilung, Zahlungsrollen bei Abfindung, aktuelle Verluste, Mängelentdeckung und Rügeabsendung sowie Provisionskonto gegenüber Ausgleichsanspruch.",
     "limits": "desk review; no live client execution"
+  },
+  "source_audit_fachanwaltschaft_2026_10_01": {
+    "checked_on": "2026-10-01",
+    "method": "targeted_primary_source_and_editorial_review",
+    "report": "quality/source-audits/fachanwaltschaft-2026-10-01/fachanwalt-handels-gesellschaftsrecht.json",
+    "limits": "Zwei aktuelle oberstgerichtliche Entscheidungen fachlich geprüft; keine Vollprüfung sämtlicher Fachskills oder älterer Quellen und kein neuer Modelllauf.",
+    "focus_scope": "Hauptproblem/Fokusskill zur Einziehungsfinanzierung erhalten II ZR50/25 als Mitgliedschaftsvorfrage. Managerbeteiligungsentscheidung bleibt im breiten Gesellschaftsstreit; ältere Kapitalerhaltungs-/Abfindungsanker bleiben tragend."
   }
 }

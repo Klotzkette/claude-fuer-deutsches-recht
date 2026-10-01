@@ -28,6 +28,10 @@ Bei noch offener Rechnung trägt diese Risikoverteilung Zahlung an die Werkstatt
 
 Keine Abtretung erklären, keinen Vergleich schließen und kein Schreiben absenden. Bei drohender Frist die menschliche Entscheidung mit einem sofort verwertbaren Entwurf vorbereiten. Nicht erreichbare Quellen oder fehlende Zahlungsbelege ausdrücklich nennen.
 
+Bei zuvor fiktiver Abrechnung [BGH, Urteil vom 28.01.2025 – VI ZR 300/24](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2024/VI_ZR_300-24.pdf?__blob=publicationFile&v=1), Rn. 12–19, beachten: Keine allgemeine Pflicht zur Offenlegung tatsächlicher Reparaturkosten; zumutbarer gleichwertiger Werkstattverweis bleibt.
+
+Wird jetzt die konkrete Rechnung geltend gemacht, [BGH, Urteil vom 08.04.2025 – VI ZR 25/24](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2024/VI_ZR__25-24.pdf?__blob=publicationFile&v=1), Rn. 6–13, anwenden: Wechsel grundsätzlich möglich, aber materielle Voraussetzungen und Verjährung prüfen. Gesamtbetrag neu rechnen und Vorzahlungen einmal anrechnen. Bei möglicher späterer Reparatur Feststellung weiterer Schäden prüfen; keine isolierte Mischung beider Abrechnungen.
+
 ## 1.4. Ausformulierte Regulierungsantwort
 
 Stellen Sie einen unklaren Zahlungszweck nicht stillschweigend als Tilgung gerade der streitigen Position dar. Erfassen Sie erforderlichenfalls mehrere Zuordnungsvarianten und fordern Sie die Zahlungsmitteilung an. Vergleichen Sie Rechnungsstand und Zahlungsstand zu demselben Datum. Prüfen Sie bei späterer Zahlung durch mich, welche bisher offene Position dadurch erledigt und welches Zahlungsbegehren anzupassen wäre. Legen Sie zur Restforderung eine kurze Entscheidungstabelle an: gesicherter Betrag, streitiger Betrag, Empfänger, Nachweis und vorgeschlagene Reaktion. Ein pauschaler Abgeltungsvergleich darf nicht versehentlich noch offene Personenschäden einschließen.

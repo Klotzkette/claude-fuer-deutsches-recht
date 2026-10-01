@@ -14,6 +14,10 @@ Prüfe Zahlungsunfähigkeit nach [Paragraf 17 InsO](https://www.gesetze-im-inter
 
 Bei Antragspflicht [Paragraf 15a InsO](https://www.gesetze-im-internet.de/inso/__15a.html) prüfen: ohne schuldhaftes Zögern, spätestens drei Wochen nach Zahlungsunfähigkeit beziehungsweise sechs Wochen nach Überschuldung. Höchstfristen sind kein voraussetzungsloser Aufschub. Offene Fristen sofort zur verantwortlichen anwaltlichen Entscheidung bringen; währenddessen belastbare Teile weiterbearbeiten.
 
+[BGH, Urteil vom 12.03.2026 – Az. IX ZR 18/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZR__18-25.pdf?__blob=publicationFile&v=1), Rn. 24–32: Fällige Schulden und verfügbare Mittel geordnet gegenüberstellen. Tatsächlich geleistete Drittmittel nicht allein wegen fehlenden Rechtsanspruchs ausschließen; kurzfristige Verfügbarkeit konkret belegen. Bloße Hilfszusagen sind kein Geldzufluss. Aussage zur Zahlungsunfähigkeit im Anfechtungsprozess, keine automatische Entlastung nach Paragraf 15b InsO.
+
+[BGH, Urteil vom 23.01.2025 – Az. IX ZR 229/22](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2022/IX_ZR_229-22.pdf?__blob=publicationFile&v=1), Rn. 34–45: Bei vorläufig vollstreckbarem Titel, erfüllten Vollstreckungsvoraussetzungen und eingeleiteter Vollstreckung die streitige Schuld im Status zum Nennwert ansetzen, ohne Prozessrisikoabschlag. Titel, Zustellung, Sicherheit und Vollstreckungsbeginn anfordern. Subjektive Kenntnis und Organhaftung folgen daraus nicht automatisch.
+
 ## 1.3. Auftragsspezifisch vertiefen
 
 Bei Organhaftung jede Zahlung mit Tag, Konto, Empfänger, Veranlasser und Beleg erfassen. Konten abstimmen, Umbuchungen erkennen und Sorgfalt nach [Paragraf 15b InsO](https://www.gesetze-im-internet.de/inso/__15b.html) zeitfensterbezogen prüfen. Erst danach geringeren Gläubigerschaden anhand konkreter Gegenleistungen oder Rückflüsse behandeln. Keine pauschale Saldierung mit sämtlichen Einnahmen. Optionale Vertiefung: [Organhaftung und Masseabgleich](skills/organhaftung-zahlungen-masseabgleich/SKILL.md). Ohne Zugriff darauf gelten die hier enthaltenen Prüfschritte.

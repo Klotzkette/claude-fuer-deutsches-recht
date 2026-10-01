@@ -1,0 +1,86 @@
+{
+  "plugin": "fachanwalt-familienrecht",
+  "checked_on": "2026-10-01",
+  "scope": "Zwei ausgewählte aktuelle Entscheidungen; Entscheidungsidentität und angegebene tragende Volltextpassagen frisch gelesen, Vorprüfungen als Kontext. Keine Prüfung sämtlicher Entscheidungen im Plugin.",
+  "decisions": [
+    {
+      "id": "familie1",
+      "plugin": "fachanwalt-familienrecht",
+      "court": "BGH",
+      "form": "Beschluss",
+      "date": "15.04.2026",
+      "az": "XII ZB 415/25",
+      "citation": "BGH, Beschluss vom 15.04.2026, XII ZB 415/25",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2025/XII_ZB_415-25.pdf?__blob=publicationFile&v=1",
+      "passages_read": "Entscheidungskopf/Leitsätze, Rn. 62–70 und 73",
+      "application": "Erweiterter Umgang: nicht bedarfsdeckende Mehrkosten von Teilerfüllung trennen; Schätzung auf tatsächlicher Grundlage typischerweise 10, ausnahmsweise höchstens 15 Prozent des Tabellenbedarfs.",
+      "limit": "Kein automatischer Umgangsrabatt, kein Abzug vom Zahlbetrag und keine zeitanteilige Barhaftung des Hauptbetreuenden.",
+      "checked_on": "2026-10-01",
+      "verification_status": "frisch_amtlicher_volltext_passagen",
+      "retrieval": "Amtliches Entscheidungs-PDF frisch abgerufen und mit pdftotext gelesen",
+      "source_sha256": "69153aa57e73e14bc7bf39d29d0b16cf2b12c6e1737830d4d21548132b97a753",
+      "skill": "unterhalt-berechnen-und-gegenrechnen"
+    },
+    {
+      "id": "familie2",
+      "plugin": "fachanwalt-familienrecht",
+      "court": "BGH",
+      "form": "Beschluss",
+      "date": "22.01.2025",
+      "az": "XII ZB 148/24",
+      "citation": "BGH, Beschluss vom 22.01.2025, XII ZB 148/24",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2024/XII_ZB_148-24.pdf?__blob=publicationFile&v=1",
+      "passages_read": "Entscheidungskopf, Rn. 8–14",
+      "application": "Beim Elternunterhalt sozialhilferechtliche 100.000-Euro-Regressgrenze und zivilrechtliche Leistungsfähigkeit trennen; daraus folgt kein Selbstbehalt von 5.500 Euro.",
+      "limit": "Konkrete Belastungen, angemessener Selbstbehalt und Geschwisteranteile bleiben zu prüfen; kein bundesweit fixer aktueller Selbstbehalt aus dem Urteil.",
+      "checked_on": "2026-10-01",
+      "verification_status": "frisch_amtlicher_volltext_passagen",
+      "retrieval": "Amtliches Entscheidungs-PDF frisch abgerufen und mit pdftotext gelesen",
+      "source_sha256": "d8d0f4e50f5b68a072ddfa207f9a34ad58dede884f2954fa05c4d9ec08e353ea",
+      "skill": "unterhalt-berechnen-und-gegenrechnen"
+    }
+  ],
+  "fresh_2026_decisions": 1,
+  "search_2026": "Amtliche 2026-Fundstellen gezielt gesucht/abgerufen; die hier dokumentierten Quellen tragen die übernommenen Aussagen. Kein Negativnachweis über sämtliche 2026-Entscheidungen.",
+  "changes": "Kindesunterhalt 2026 bestätigt; Elternunterhalt 2025 um klare Trennung von Regressgrenze und Selbstbehalt ergänzt.",
+  "changed_files": [
+    "fachanwalt-familienrecht/fachanwalt-familienrecht-schnellstart.md",
+    "fachanwalt-familienrecht/fachanwalt-familienrecht-werkstatt.md",
+    "fachanwalt-familienrecht/skills/unterhalt-berechnen-und-gegenrechnen/SKILL.md"
+  ],
+  "read_scope": {
+    "mini": "Vollständig gelesen; Anker und Fortsetzungslogik abgeglichen.",
+    "workshop": "Betroffene Fachabschnitte und vorhandene Anker gelesen; keine erneute Gesamtprüfung sämtlicher übriger Werkstattabschnitte.",
+    "skills": "Betroffene Fachabschnitte der verknüpften bestehenden Skills; keine Gesamtprüfung aller Spezialskills.",
+    "focus": "Auftrag und tragende Anker zur Abgrenzung geprüft; Hauptproblem betrifft Zugewinn und Stichtagsbelege. Die zwei neuen/aktualisierten Unterhaltsanker tragen keine Zugewinnrechnung; XII ZB 558/23 bleibt als einschlägiger Anker erhalten."
+  },
+  "focus_decision": "Hauptproblem betrifft Zugewinn und Stichtagsbelege. Die zwei neuen/aktualisierten Unterhaltsanker tragen keine Zugewinnrechnung; XII ZB 558/23 bleibt als einschlägiger Anker erhalten.",
+  "prompt_limits": {
+    "schnellstart": {
+      "characters": 7392,
+      "utf8_bytes": 7486
+    },
+    "hauptproblem": {
+      "characters": 6772,
+      "utf8_bytes": 6872
+    }
+  },
+  "txt_mirrors_updated": [],
+  "verification_limits": [
+    "Keine neuen Skills, Testakten, Versionen oder globalen Generatoren.",
+    "Kein Live-Modelltest; vorhandene Modelltestergebnisse werden nicht auf neue Texte umdatiert.",
+    "Altanker außerhalb des benannten Passagenumfangs behalten ihren bisherigen Prüfstatus."
+  ],
+  "technical_checks": {
+    "mini_and_focus_limits": "passed",
+    "profile_validation": "passed: quality_lab.validate_profile, 01.10.2026",
+    "pair_coverage": "passed: Beide Direktlinks in Werkstatt, Mini und jeweils passendem bestehenden Fachskill."
+  },
+  "editorial_placement": {
+    "status": "repositioned_without_substantive_change",
+    "files": [
+      "fachanwalt-familienrecht/skills/unterhalt-berechnen-und-gegenrechnen/SKILL.md"
+    ],
+    "detail": "Neue Rechtsprechungsabschnitte in passende vorhandene Prüf-/Quellenabschnitte eingeordnet und Überschriften an vorhandene Gliederung angepasst; keine neue fachliche Prüfung und keine Promptänderung."
+  }
+}

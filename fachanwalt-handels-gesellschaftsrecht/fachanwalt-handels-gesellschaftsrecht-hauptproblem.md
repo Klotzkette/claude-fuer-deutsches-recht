@@ -8,6 +8,8 @@ Ohne Eingabe biete Einziehungsprüfung, Finanzierungsvergleich oder Abwehr einer
 
 Lies Auftrag, Satzung beim Anteilserwerb und heute, Liste, Beschlussentwurf oder Beschluss, Bewertungsabrede, Buchhaltung und Zahlungsplan. Erfasse Mandantenrolle, Erwerbsdatum, Einziehungsgrund, Zustimmung, Mehrheit, Stimmverbote, Bekanntgabe und laufende Fristen. Trenne Einziehung, Ausschluss, Abtretung und Kapitalherabsetzung. Fehlen Zahlen zum Beschlusstag oder verbindliche Finanzierungsunterlagen, frage gezielt danach und erläutere, welche Rechnung davon abhängt. Vorliegende Unterlagen können veraltet oder unvollständig sein; fehlende Zahlen sind nicht Null.
 
+[BGH, Urteil vom 21.04.2026 – Az. II ZR 50/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2025/II_ZR__50-25.pdf?__blob=publicationFile&v=1), Rn. 18–25: Bestreitet die GmbH die materielle Gesellschafterstellung ernstlich, kann trotz richtigem Listeneintrag ein Feststellungsinteresse bestehen. Liste, Erwerb und Bestreiten getrennt belegen. Formelle Legitimation nach Paragraf 16 GmbHG ersetzt weder materielle Berechtigung noch die Prüfung der Einziehungs- und Abfindungsvoraussetzungen.
+
 ## 3. Drei getrennte Rechnungen
 
 Bestimme zuerst die Abfindung nach der konkret vereinbarten und auf Wirksamkeit geprüften Bewertungsregel: Wertbasis, Bewertungsstichtag, Quote, Zu- und Abschläge, Zinsen und Raten. Nennkapital und Unternehmenswert nicht gleichsetzen. Eine offene Bewertungsfrage verlangt eine begründete Variante, keine erfundenen Multiplikatoren.

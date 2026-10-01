@@ -52,24 +52,35 @@
       "url": "https://www.gesetze-im-internet.de/bgb/__640.html",
       "supports": "Erneuter Normabruf zu Abnahme, Fristsetzung, Mangelbenennung und Vorbehalt; erfolgreicher Einzeltest bedeutet nicht automatisch Abnahme des gesamten ERP-Werks.",
       "checked_on": "2026-09-23"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2021/I_ZR_157-21A.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-01",
+      "supports": "Im geprüften Fall keine Umarbeitung durch bloße Veränderung von Laufzeitvariablen ohne Codeänderung oder Ermöglichung der Vervielfältigung; technische Ebene der Änderungen nachweisen. Grenze: Kein allgemeiner Freibrief für Softwareeingriffe; Vertrag, Codekopie, Schutzmaßnahmen und andere Anspruchsgrundlagen gesondert, keine ERP-Abnahmeentscheidung."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2024/I_ZB__82-24.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-01",
+      "supports": "Privatkopien in Cloud können vergütungspflichtig sein; Cloud-Dienstleister sind keine Geräte-/Speichermedien-Abgabenschuldner nach Paragrafen54,54bUrhG. Grenze: Keine Aussage über SaaS-Vertragspreis, allgemeinen kostenlosen Werkkonsum, AVV oder Drittlandtransfer; keine analoge Geräteabgabe mangels planwidriger Lücke."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der Mini knüpft werkvertragliche Rechtsfolgen an den tatsächlich belegten Abnahmestand statt an Go-live oder bloße Vorschussforderung. Individueller Text- und Quellenreview, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Testdaten waren veraltet -> Fehlerursache, Verantwortungsbereich und Abnahmeargument ändern; nachgereichter Nachtrag -> Freigabe und Vergütungsposition getrennt aktualisieren.",
+    "reason": "Der Mini knüpft werkvertragliche Rechtsfolgen an den tatsächlich belegten Abnahmestand statt an Go-live oder bloße Vorschussforderung. Individueller Text- und Quellenreview, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Testdaten waren veraltet -> Fehlerursache, Verantwortungsbereich und Abnahmeargument ändern; nachgereichter Nachtrag -> Freigabe und Vergütungsposition getrennt aktualisieren. 01.10.2026: gezielter amtlicher Quellen- und Textabgleich der zwei Fachgebietsanker; kein neuer Live-Modelltest. ERP-Abnahme-/Nachtrags-Hauptproblem und Fokusskill unverändert: Die Softwareurheber-/Gerätevergütungsfälle tragen deren Kern nicht. Bestehender VII ZR301/13-Anker bleibt. Neue Anker in Lizenz- und Cloud-Fachskills.",
     "changes": [
       "VII ZR 301/13 zu Erfüllung, Abnahme und Abrechnungsverhältnis in allen drei Prompts verankert.",
       "Hauptproblem und zugeordneter Fokus-Skill in Aussage und Quellenbasis abgeglichen.",
       "Lose nicht verifizierte Softwareentscheidungen aus der Werkstatt entfernt.",
-      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
+      "Zwei einschlägige 2025-BGH-Entscheidungen zu Code/Daten und Cloudabgaben ergänzt. Frische 2026-Recherche erbrachte für diese konkret bearbeiteten Vertragsfragen keinen geeigneteren belegten 2026-Anker; angekündigte Termine sind keine Urteile. Mini sprachlich verdichtet, Schritte und vorhandene Regulierungsregeln erhalten."
     ],
-    "sha256": "d576d1ad7539ef3453264753e6f8f28823df596cbae0125761fe7f1bbc9162cc"
+    "sha256": "24203d5ed46c0130bd83fce745b4efd54b48bf3062174daf10f86060ce1794ab"
   },
   "focus_review": {
     "reviewed_on": "2026-09-23",
     "method": "desk_review",
     "verdict": "revised",
-    "reason": "Hauptproblem und Fokus-Skill vollständig gelesen und zur ERP-Abnahme nach BGH VII ZR 301/13 konsistent überarbeitet. Bloße Vorschussforderung, endgültige Ablehnung weiterer Leistung und Fortsetzung mit demselben Anbieter werden getrennt; keine Übernahme besonderer Bau-Nachtragsregeln. Amtlicher Entscheidungstext geprüft, kein Live-Modelltest. Workflow-Ergänzung: Testdaten waren veraltet -> Fehlerursache, Verantwortungsbereich und Abnahmeargument ändern; nachgereichter Nachtrag -> Freigabe und Vergütungsposition getrennt aktualisieren. Zugeordneten Fokus-Skill auf Kohärenz gelesen und unverändert belassen.",
+    "reason": "Hauptproblem und Fokus-Skill vollständig gelesen und zur ERP-Abnahme nach BGH VII ZR 301/13 konsistent überarbeitet. Bloße Vorschussforderung, endgültige Ablehnung weiterer Leistung und Fortsetzung mit demselben Anbieter werden getrennt; keine Übernahme besonderer Bau-Nachtragsregeln. Amtlicher Entscheidungstext geprüft, kein Live-Modelltest. Workflow-Ergänzung: Testdaten waren veraltet -> Fehlerursache, Verantwortungsbereich und Abnahmeargument ändern; nachgereichter Nachtrag -> Freigabe und Vergütungsposition getrennt aktualisieren. Zugeordneten Fokus-Skill auf Kohärenz gelesen und unverändert belassen. 01.10.2026: gezielter amtlicher Quellen- und Textabgleich der zwei Fachgebietsanker; kein neuer Live-Modelltest. ERP-Abnahme-/Nachtrags-Hauptproblem und Fokusskill unverändert: Die Softwareurheber-/Gerätevergütungsfälle tragen deren Kern nicht. Bestehender VII ZR301/13-Anker bleibt. Neue Anker in Lizenz- und Cloud-Fachskills.",
     "changes": [
       "Abnahmestadium und Ausnahme eines Abrechnungsverhältnisses konkretisiert.",
       "Amtlichen Volltext statt bloßem Suchhinweis als Entscheidungsquelle verwendet.",
@@ -141,25 +152,28 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die Werkstatt bindet die allgemeine Werkvertragsrechtsprechung an ERP-Abnahme und Fortsetzung der Zusammenarbeit, ohne spezielle Bau-Nachtragsregeln zu importieren. Die bezeichneten Anker wurden am amtlichen Entscheidungstext geprüft; keine pauschale Vollverifikation aller Nebenmaterien. Workflow-Ergänzung einzeln geprüft: Testumgebung und Migration, kaufmännische gegenüber technischer Freigabe, Abnahmefiktion und bekannte Mängel, gemessene Cloud-Verfügbarkeit, Exportumfang, Trainingsnutzung sowie Vorfallkenntnis gegenüber bloßer Linksperre.",
+    "reason": "Die Werkstatt bindet die allgemeine Werkvertragsrechtsprechung an ERP-Abnahme und Fortsetzung der Zusammenarbeit, ohne spezielle Bau-Nachtragsregeln zu importieren. Die bezeichneten Anker wurden am amtlichen Entscheidungstext geprüft; keine pauschale Vollverifikation aller Nebenmaterien. Workflow-Ergänzung einzeln geprüft: Testumgebung und Migration, kaufmännische gegenüber technischer Freigabe, Abnahmefiktion und bekannte Mängel, gemessene Cloud-Verfügbarkeit, Exportumfang, Trainingsnutzung sowie Vorfallkenntnis gegenüber bloßer Linksperre. 01.10.2026: gezielter amtlicher Quellen- und Textabgleich der zwei Fachgebietsanker; kein neuer Live-Modelltest. ERP-Abnahme-/Nachtrags-Hauptproblem und Fokusskill unverändert: Die Softwareurheber-/Gerätevergütungsfälle tragen deren Kern nicht. Bestehender VII ZR301/13-Anker bleibt. Neue Anker in Lizenz- und Cloud-Fachskills.",
     "changes": [
       "VII ZR 301/13 zu Erfüllung, Abnahme und Abrechnungsverhältnis in allen drei Prompts verankert.",
       "Hauptproblem und zugeordneter Fokus-Skill in Aussage und Quellenbasis abgeglichen.",
       "Lose nicht verifizierte Softwareentscheidungen aus der Werkstatt entfernt.",
-      "Testumgebung und Migration, kaufmännische gegenüber technischer Freigabe, Abnahmefiktion und bekannte Mängel, gemessene Cloud-Verfügbarkeit, Exportumfang, Trainingsnutzung sowie Vorfallkenntnis gegenüber bloßer Linksperre."
+      "Testumgebung und Migration, kaufmännische gegenüber technischer Freigabe, Abnahmefiktion und bekannte Mängel, gemessene Cloud-Verfügbarkeit, Exportumfang, Trainingsnutzung sowie Vorfallkenntnis gegenüber bloßer Linksperre.",
+      "Zwei einschlägige 2025-BGH-Entscheidungen zu Code/Daten und Cloudabgaben ergänzt. Frische 2026-Recherche erbrachte für diese konkret bearbeiteten Vertragsfragen keinen geeigneteren belegten 2026-Anker; angekündigte Termine sind keine Urteile. Mini sprachlich verdichtet, Schritte und vorhandene Regulierungsregeln erhalten."
     ],
-    "sha256": "ac3d24f1f2be96bdd077e523b1e1cee19eaa745c9afe592ae38c89358a63467b"
+    "sha256": "83074f9812171feaeb5a92f6922509f25f527c59b6ddc0b75faf13e341623610"
   },
   "prompt_editorial_review": {
-    "date": "2026-09-23",
+    "date": "2026-10-01",
     "method": "desk_review",
     "files": [
       "fachanwalt-it-recht/README.md",
-      "fachanwalt-it-recht/fachanwalt-it-recht-werkstatt.md",
-      "fachanwalt-it-recht/fachanwalt-it-recht-schnellstart.md",
-      "quality/evals/fachanwalt-it-recht.json",
       "fachanwalt-it-recht/fachanwalt-it-recht-hauptproblem.md",
-      "fachanwalt-it-recht/skills/erp-abnahme-nachtraege-belegabgleich/SKILL.md"
+      "fachanwalt-it-recht/fachanwalt-it-recht-schnellstart.md",
+      "fachanwalt-it-recht/fachanwalt-it-recht-werkstatt.md",
+      "fachanwalt-it-recht/skills/erp-abnahme-nachtraege-belegabgleich/SKILL.md",
+      "fachanwalt-it-recht/skills/it-recht-cloud-vertrag-datenschutz-due-diligence/SKILL.md",
+      "fachanwalt-it-recht/skills/lizenz-risikoampel-und-gegenargumente/SKILL.md",
+      "quality/evals/fachanwalt-it-recht.json"
     ],
     "opening_change": "ERP-Funktionen, Abnahmebelege, Tickets und Nachtragsabrechnung gegeneinander prüfen. Workflow-Ergänzung: Leer: ERP-Rechnungsabwehr, Cloud-Klausel oder Vorfallmeldung anbieten. Dateien ohne Aufgabe: Abnahmeprotokolle, Nachträge und Vorfallsdaten still lesen; nur das Arbeitsziel klären, kein Komplettaudit. Klarer Auftrag: konkrete Klausel, Rechnungsantwort oder Meldung direkt bearbeiten; Folgeantworten ohne neue Aufnahme.",
     "norms": [
@@ -171,12 +185,27 @@
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2013/VII_ZR_301-13.pdf?__blob=publicationFile&v=1",
         "application": "Vor ERP-Abnahme Erfüllungsanspruch von Mängelrechten unterscheiden; bloße Vorschussforderung begründet noch kein Abrechnungsverhältnis.",
         "limit": "Fassadenfall mit allgemeinem Werkvertragsmaßstab, keine automatische ERP-Abnahme oder Übertragung baurechtlicher Nachtragsregeln."
+      },
+      {
+        "citation": "BGH, Urteil vom 31.07.2025 – Az. I ZR 157/21 – Action Replay II, Rn. 12–23; insbesondere 19–23",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2021/I_ZR_157-21A.pdf?__blob=publicationFile&v=1",
+        "application": "Im geprüften Fall keine Umarbeitung durch bloße Veränderung von Laufzeitvariablen ohne Codeänderung oder Ermöglichung der Vervielfältigung; technische Ebene der Änderungen nachweisen.",
+        "limit": "Kein allgemeiner Freibrief für Softwareeingriffe; Vertrag, Codekopie, Schutzmaßnahmen und andere Anspruchsgrundlagen gesondert, keine ERP-Abnahmeentscheidung.",
+        "checked_on": "2026-10-01"
+      },
+      {
+        "citation": "BGH, Beschluss vom 17.07.2025 – Az. I ZB 82/24 – Cloudnutzung, Leitsätze a–c; Rn. 17–25",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2024/I_ZB__82-24.pdf?__blob=publicationFile&v=1",
+        "application": "Privatkopien in Cloud können vergütungspflichtig sein; Cloud-Dienstleister sind keine Geräte-/Speichermedien-Abgabenschuldner nach Paragrafen54,54bUrhG.",
+        "limit": "Keine Aussage über SaaS-Vertragspreis, allgemeinen kostenlosen Werkkonsum, AVV oder Drittlandtransfer; keine analoge Geräteabgabe mangels planwidriger Lücke.",
+        "checked_on": "2026-10-01"
       }
     ],
     "remaining_limits": [
       "Kein Live-Modelltest; technische ERP-Abnahmekriterien, konkrete Nachträge und KI-/Cyber-Spezialrecht nicht umfassend neu verifiziert.",
       "Desk-/Quellenreview, kein Live-Client- oder Modelltest. Bestehende Auswahl- und Ergebnisfälle unverändert erhalten.",
-      "Workflow-Review 23.09.2026: Paragraf 640 BGB erneut eingesehen. Bestehende KI-, NIS2- und sonstige Regulierungsstände nicht umfassend neu verifiziert; Mini auf 7.474 UTF-8-Bytes begrenzt."
+      "Workflow-Review 23.09.2026: Paragraf 640 BGB erneut eingesehen. Bestehende KI-, NIS2- und sonstige Regulierungsstände nicht umfassend neu verifiziert; Mini auf 7.474 UTF-8-Bytes begrenzt.",
+      "01.10.2026: gezielter amtlicher Quellen- und Textabgleich der zwei Fachgebietsanker; kein neuer Live-Modelltest. ERP-Abnahme-/Nachtrags-Hauptproblem und Fokusskill unverändert: Die Softwareurheber-/Gerätevergütungsfälle tragen deren Kern nicht. Bestehender VII ZR301/13-Anker bleibt. Neue Anker in Lizenz- und Cloud-Fachskills."
     ]
   },
   "prompt_workflow_review": {
@@ -202,5 +231,12 @@
         "sha256": "0b725d4cf5a062d1dbc7b66ffc2229963aecd8dec68da59fa323b1380b53b345"
       }
     ]
+  },
+  "source_audit_fachanwaltschaft_2026_10_01": {
+    "checked_on": "2026-10-01",
+    "method": "targeted_primary_source_and_editorial_review",
+    "report": "quality/source-audits/fachanwaltschaft-2026-10-01/fachanwalt-it-recht.json",
+    "limits": "Zwei aktuelle oberstgerichtliche Entscheidungen fachlich geprüft; keine Vollprüfung sämtlicher Fachskills oder älterer Quellen und kein neuer Modelllauf.",
+    "focus_scope": "ERP-Abnahme-/Nachtrags-Hauptproblem und Fokusskill unverändert: Die Softwareurheber-/Gerätevergütungsfälle tragen deren Kern nicht. Bestehender VII ZR301/13-Anker bleibt. Neue Anker in Lizenz- und Cloud-Fachskills."
   }
 }

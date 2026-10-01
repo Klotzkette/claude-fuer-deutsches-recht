@@ -35,6 +35,10 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
+[BGH, Urteil vom 31.07.2025 – Az. I ZR 157/21, Action Replay II](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2021/I_ZR_157-21A.pdf?__blob=publicationFile&v=1), Rn. 19–23: Nur Laufzeitvariablen zu verändern, ohne Objekt-/Quellcode zu ändern oder dessen Vervielfältigung zu ermöglichen, verletzt im geprüften Fall kein Umarbeitungsrecht. Code und Daten technisch unterscheiden; daraus folgt keine allgemeine Lizenz- oder Vertragsfreiheit.
+
+Bei behaupteter Umarbeitung Änderungsprotokoll und betroffene Code-/Datenebene anfordern; nach Antwort die Lizenzbewertung korrigieren, ohne Vertragsrechte mit Urheberrechten gleichzusetzen.
+
 ## Lizenzrisiko nach Kategorien
 - **Rot — kritisch**: Verstoß gegen Copyleft-Pflichten (GPL, AGPL); Audit-Forderung Hersteller; Erschöpfungsgrenzen umgangen (z. B. Weiterverkauf Volumenlizenzen entgegen Vendor-T&C).
 - **Gelb — handhabbar**: Unklarer Lizenzumfang Named User vs. Concurrent; geänderte Metrik (Core- statt Sockel-Lizenz); fehlende Dokumentation eines OSS-Komponenteneinsatzes.

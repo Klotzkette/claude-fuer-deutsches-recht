@@ -65,22 +65,33 @@
     },
     {
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2025/XII_ZB_415-25.pdf?__blob=publicationFile&v=1",
-      "checked_on": "2026-09-30",
-      "supports": "XII ZB 415/25: gerichtete Nachprüfung Rn. 12–28, 32–43, 62–73; tatsächliche Teilerfüllung vom Tabellenbedarf, keine Zeitquotenhaftung des Hauptbetreuers, begrenzte Herabstufung und Vertretung verheirateter Eltern.",
-      "source_sha256": "69153aa57e73e14bc7bf39d29d0b16cf2b12c6e1737830d4d21548132b97a753"
+      "checked_on": "2026-10-01",
+      "supports": "BGH, Beschluss vom 15.04.2026, XII ZB 415/25: Erweiterter Umgang: nicht bedarfsdeckende Mehrkosten von Teilerfüllung trennen; Schätzung auf tatsächlicher Grundlage typischerweise 10, ausnahmsweise höchstens 15 Prozent des Tabellenbedarfs. Grenze: Kein automatischer Umgangsrabatt, kein Abzug vom Zahlbetrag und keine zeitanteilige Barhaftung des Hauptbetreuenden. Gelesen: Entscheidungskopf/Leitsätze, Rn. 62–70 und 73",
+      "source_sha256": "69153aa57e73e14bc7bf39d29d0b16cf2b12c6e1737830d4d21548132b97a753",
+      "verification_status": "frisch_amtlicher_volltext_passagen",
+      "source_audit": "quality/source-audits/fachanwaltschaft-2026-10-01/fachanwalt-familienrecht.json"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2024/XII_ZB_148-24.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-01",
+      "supports": "BGH, Beschluss vom 22.01.2025, XII ZB 148/24: Beim Elternunterhalt sozialhilferechtliche 100.000-Euro-Regressgrenze und zivilrechtliche Leistungsfähigkeit trennen; daraus folgt kein Selbstbehalt von 5.500 Euro. Grenze: Konkrete Belastungen, angemessener Selbstbehalt und Geschwisteranteile bleiben zu prüfen; kein bundesweit fixer aktueller Selbstbehalt aus dem Urteil. Gelesen: Entscheidungskopf, Rn. 8–14",
+      "verification_status": "frisch_amtlicher_volltext_passagen",
+      "source_sha256": "d8d0f4e50f5b68a072ddfa207f9a34ad58dede884f2954fa05c4d9ec08e353ea",
+      "source_audit": "quality/source-audits/fachanwaltschaft-2026-10-01/fachanwalt-familienrecht.json"
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Mini mit sämtlichen Fachzweigen gelesen; die Trennungsauskunft wird nun nach Titel, verlangtem Stichtag und Erfüllungsannahme beurteilt, nicht nach irgendeinem Bankauszug. Redaktioneller Desk-Review, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Geld wurde auf ein eigenes Depot übertragen statt verbraucht -> Vermögenszuordnung und Hinzurechnungsargument ändern; belegter Umzug -> betroffene Umgangszeiten neu regeln. Gezielte Quellen-/Textnachprüfung am 30.09.2026; keine erneute Gesamtprüfung aller Entscheidungen.",
+    "reason": "Mini mit sämtlichen Fachzweigen gelesen; die Trennungsauskunft wird nun nach Titel, verlangtem Stichtag und Erfüllungsannahme beurteilt, nicht nach irgendeinem Bankauszug. Redaktioneller Desk-Review, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Geld wurde auf ein eigenes Depot übertragen statt verbraucht -> Vermögenszuordnung und Hinzurechnungsargument ändern; belegter Umzug -> betroffene Umgangszeiten neu regeln. Gezielte Quellen-/Textnachprüfung am 30.09.2026; keine erneute Gesamtprüfung aller Entscheidungen. Gezielte Fachanwalts-Aktualisierung 01.10.2026: Kindesunterhalt 2026 bestätigt; Elternunterhalt 2025 um klare Trennung von Regressgrenze und Selbstbehalt ergänzt. Kein neuer Live-Modelltest.",
     "changes": [
       "XII ZB 558/23 samt amtlichem Link und Grenzen unmittelbar in die Zugewinnprüfung eingebunden.",
       "Doppelte Start- und Abschlussformulierungen gekürzt; Unterhalt, Versorgungsausgleich, Sorge und Fortsetzung erhalten.",
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
-      "Nachprüfung 30.09.2026: XII ZB 415/25: gerichtete Nachprüfung Rn. 12–28, 32–43, 62–73; tatsächliche Teilerfüllung vom Tabellenbedarf, keine Zeitquotenhaftung des Hauptbetreuers, begrenzte Herabstufung und Vertretung verheirateter Eltern."
+      "Nachprüfung 30.09.2026: XII ZB 415/25: gerichtete Nachprüfung Rn. 12–28, 32–43, 62–73; tatsächliche Teilerfüllung vom Tabellenbedarf, keine Zeitquotenhaftung des Hauptbetreuers, begrenzte Herabstufung und Vertretung verheirateter Eltern.",
+      "Kindesunterhalt 2026 bestätigt; Elternunterhalt 2025 um klare Trennung von Regressgrenze und Selbstbehalt ergänzt."
     ],
-    "sha256": "d3a6eb01cd4a6769254c3275f75557bc41e1d87fac918a4cd456147b06a3c926",
-    "reviewed_on": "2026-09-30",
+    "sha256": "04a3e48d6fa3b1bbc357481cf743ac53091de215c4272a2791a603e1f0a6aaa0",
+    "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
   "focus_review": {
@@ -214,25 +225,27 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Gesamte Werkstatt samt ausführlichem Arbeitsanhang gelesen. Bisher fehlender operativer Entscheidungsanker zur Beweislast in den Vermögensweg aufgenommen, übrige differenzierte Rechen- und Verfahrenswege erhalten. Redaktioneller Desk-Review, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Tatsächliche Betreuung statt Planbehauptung, Schulwechsel und Schutzbedarf, Renovierungszahlung gegenüber Rechnung, Vermeidung doppelter Schuld- und Wertansätze sowie Bankentlassung und Sicherung bei Wohnungsübernahme. Gezielte Quellen-/Textnachprüfung am 30.09.2026; keine erneute Gesamtprüfung aller Entscheidungen.",
+    "reason": "Gesamte Werkstatt samt ausführlichem Arbeitsanhang gelesen. Bisher fehlender operativer Entscheidungsanker zur Beweislast in den Vermögensweg aufgenommen, übrige differenzierte Rechen- und Verfahrenswege erhalten. Redaktioneller Desk-Review, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Tatsächliche Betreuung statt Planbehauptung, Schulwechsel und Schutzbedarf, Renovierungszahlung gegenüber Rechnung, Vermeidung doppelter Schuld- und Wertansätze sowie Bankentlassung und Sicherung bei Wohnungsübernahme. Gezielte Quellen-/Textnachprüfung am 30.09.2026; keine erneute Gesamtprüfung aller Entscheidungen. Gezielte Fachanwalts-Aktualisierung 01.10.2026: Kindesunterhalt 2026 bestätigt; Elternunterhalt 2025 um klare Trennung von Regressgrenze und Selbstbehalt ergänzt. Kein neuer Live-Modelltest.",
     "changes": [
       "Konkrete Erfüllungsprüfung nach Paragraf 1375 Absatz 2 Satz 2 BGB ergänzt.",
       "Belegter Verbrauch ist nicht stets illoyal; bloßer anderer Trennungstag beseitigt Beweislastfolge nicht.",
       "Verfahrensüberschrift fachüblich umbenannt; keine zusätzliche Pflichtkaskade.",
       "Tatsächliche Betreuung statt Planbehauptung, Schulwechsel und Schutzbedarf, Renovierungszahlung gegenüber Rechnung, Vermeidung doppelter Schuld- und Wertansätze sowie Bankentlassung und Sicherung bei Wohnungsübernahme.",
-      "Nachprüfung 30.09.2026: XII ZB 415/25: gerichtete Nachprüfung Rn. 12–28, 32–43, 62–73; tatsächliche Teilerfüllung vom Tabellenbedarf, keine Zeitquotenhaftung des Hauptbetreuers, begrenzte Herabstufung und Vertretung verheirateter Eltern."
+      "Nachprüfung 30.09.2026: XII ZB 415/25: gerichtete Nachprüfung Rn. 12–28, 32–43, 62–73; tatsächliche Teilerfüllung vom Tabellenbedarf, keine Zeitquotenhaftung des Hauptbetreuers, begrenzte Herabstufung und Vertretung verheirateter Eltern.",
+      "Kindesunterhalt 2026 bestätigt; Elternunterhalt 2025 um klare Trennung von Regressgrenze und Selbstbehalt ergänzt."
     ],
-    "sha256": "648552c3763c35e6a27cca059c988828470461b09680b3398bfdea9b2d3734a3",
-    "reviewed_on": "2026-09-30",
+    "sha256": "d721136bcb574448ed83e96ebb069f5eaed41c3479ad6f89e276e3461cc69304",
+    "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
   "prompt_editorial_review": {
-    "date": "2026-09-23",
+    "date": "2026-10-01",
     "files": [
       "fachanwalt-familienrecht/fachanwalt-familienrecht-schnellstart.md",
       "fachanwalt-familienrecht/fachanwalt-familienrecht-werkstatt.md",
       "fachanwalt-familienrecht/fachanwalt-familienrecht-hauptproblem.md",
-      "fachanwalt-familienrecht/skills/zugewinn-vermoegensbelege-stichtage-abgleichen/SKILL.md"
+      "fachanwalt-familienrecht/skills/zugewinn-vermoegensbelege-stichtage-abgleichen/SKILL.md",
+      "fachanwalt-familienrecht/skills/unterhalt-berechnen-und-gegenrechnen/SKILL.md"
     ],
     "opening_change": "Unterhaltsmonate, Zugewinnstichtage und konkrete Sorge-/Umgangsregelung bestimmen statt allgemeiner Familienunterlagenbearbeitung. Workflow-Ergänzung: Leer: Unterhalt, Zugewinn oder Sorge und Umgang anbieten. Dateien ohne Aufgabe: Vermögensbelege, Betreuungsplan und Schriftverkehr still lesen; gewünschten Zahlungs-, Auskunfts- oder Regelungstext klären. Klarer Auftrag: konkrete Berechnung oder Vereinbarung unmittelbar ausarbeiten; bekannte Familien- und Stichtagsangaben nicht wiederholen.",
     "norms": [
@@ -251,18 +264,37 @@
       {
         "citation": "BGH, Beschluss vom 15.04.2026, XII ZB 415/25",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2025/XII_ZB_415-25.pdf?__blob=publicationFile&v=1",
-        "application": "XII ZB 415/25: gerichtete Nachprüfung Rn. 12–28, 32–43, 62–73; tatsächliche Teilerfüllung vom Tabellenbedarf, keine Zeitquotenhaftung des Hauptbetreuers, begrenzte Herabstufung und Vertretung verheirateter Eltern.",
-        "limit": "Aussage und Grenze aus dem dokumentierten früheren Passagencheck übernommen; am 01.10.2026 Promptkontext abgeglichen, kein erneuter Volltextabruf.",
-        "checked_on": "2026-09-30",
-        "verification_status": "wiederverwendeter_passagennachweis",
-        "passages_read": "XII ZB 415/25: gerichtete Nachprüfung Rn. 12–28, 32–43, 62–73; tatsächliche Teilerfüllung vom Tabellenbedarf, keine Zeitquotenhaftung des Hauptbetreuers, begrenzte Herabstufung und Vertretung verheirateter Eltern.",
-        "previous_review": "quality/source-audits/2026-09-30/zivil-wirtschaft.md"
+        "application": "Erweiterter Umgang: nicht bedarfsdeckende Mehrkosten von Teilerfüllung trennen; Schätzung auf tatsächlicher Grundlage typischerweise 10, ausnahmsweise höchstens 15 Prozent des Tabellenbedarfs.",
+        "limit": "Kein automatischer Umgangsrabatt, kein Abzug vom Zahlbetrag und keine zeitanteilige Barhaftung des Hauptbetreuenden.",
+        "checked_on": "2026-10-01",
+        "verification_status": "frisch_amtlicher_volltext_passagen",
+        "passages_read": "Entscheidungskopf/Leitsätze, Rn. 62–70 und 73",
+        "previous_review": "quality/source-audits/2026-09-30/zivil-wirtschaft.md",
+        "source_sha256": "69153aa57e73e14bc7bf39d29d0b16cf2b12c6e1737830d4d21548132b97a753",
+        "source_audit": "quality/source-audits/fachanwaltschaft-2026-10-01/fachanwalt-familienrecht.json",
+        "previous_verification": {
+          "checked_on": "2026-09-30",
+          "verification_status": "wiederverwendeter_passagennachweis",
+          "previous_review": "quality/source-audits/2026-09-30/zivil-wirtschaft.md"
+        }
+      },
+      {
+        "citation": "BGH, Beschluss vom 22.01.2025, XII ZB 148/24",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2024/XII_ZB_148-24.pdf?__blob=publicationFile&v=1",
+        "application": "Beim Elternunterhalt sozialhilferechtliche 100.000-Euro-Regressgrenze und zivilrechtliche Leistungsfähigkeit trennen; daraus folgt kein Selbstbehalt von 5.500 Euro.",
+        "limit": "Konkrete Belastungen, angemessener Selbstbehalt und Geschwisteranteile bleiben zu prüfen; kein bundesweit fixer aktueller Selbstbehalt aus dem Urteil.",
+        "checked_on": "2026-10-01",
+        "verification_status": "frisch_amtlicher_volltext_passagen",
+        "passages_read": "Entscheidungskopf, Rn. 8–14",
+        "source_sha256": "d8d0f4e50f5b68a072ddfa207f9a34ad58dede884f2954fa05c4d9ec08e353ea",
+        "source_audit": "quality/source-audits/fachanwaltschaft-2026-10-01/fachanwalt-familienrecht.json"
       }
     ],
     "remaining_limits": [
       "Redaktionelle Einzelprüfung, kein Live-Modelltest.",
       "BGH-Anker betrifft Zugewinn; keine neue Vollverifikation aller Unterhalts-, Versorgungs- und Kindschaftsentscheidungen.",
-      "Workflow-Review 23.09.2026: Paragraf 1379 BGB erneut eingesehen; keine medizinischen Diagnosen oder neue familienrechtliche Fallentscheidungen ergänzt."
+      "Workflow-Review 23.09.2026: Paragraf 1379 BGB erneut eingesehen; keine medizinischen Diagnosen oder neue familienrechtliche Fallentscheidungen ergänzt.",
+      "Fachanwaltsaktualisierung 01.10.2026: zwei ausgewählte aktuelle Entscheidungen frisch im amtlichen Volltext passagenbezogen geprüft; keine Gesamtneuverifikation aller Altanker oder neuen Modelltests. Hauptproblem betrifft Zugewinn und Stichtagsbelege. Die zwei neuen/aktualisierten Unterhaltsanker tragen keine Zugewinnrechnung; XII ZB 558/23 bleibt als einschlägiger Anker erhalten."
     ]
   },
   "prompt_workflow_review": {
@@ -290,5 +322,14 @@
       }
     ],
     "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
+  },
+  "source_audit_fachanwaltschaft_2026_10_01": {
+    "report": "quality/source-audits/fachanwaltschaft-2026-10-01/fachanwalt-familienrecht.json",
+    "scope": "Zwei ausgewählte aktuelle Entscheidungen, amtlicher Volltext und operative Prompt-/Skillanwendung; keine pauschale Gesamtprüfung.",
+    "decisions": [
+      "BGH, Beschluss vom 15.04.2026, XII ZB 415/25",
+      "BGH, Beschluss vom 22.01.2025, XII ZB 148/24"
+    ],
+    "new_model_test": false
   }
 }

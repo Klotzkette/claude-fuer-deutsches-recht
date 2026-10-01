@@ -59,6 +59,10 @@ description: "Für Aufklärungsfehler Beweisstrategie: ordnet Norm, Beweislast u
 | 10 | Kausalität Aufklärungsmangel — Schaden | § 630h Abs. 2 BGB analog | Eingetretene Folge von nicht aufgeklärtem Risiko? |
 | 12 | Schadensumfang | §§ 249, 253 BGB | Körperverletzung rechtswidrig = alle Schadensfolgen |
 
+### Tatsächlicher Eingriff und Alternativverlauf
+
+[BGH, Urteil vom 25.11.2025, VI ZR 165/23](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2023/VI_ZR_165-23.pdf?__blob=publicationFile&v=1), Rn. 16–22: Hypothetische Einwilligung betrifft die tatsächlich vorgenommene Maßnahme; Zustimmung zu einer späteren Operation reicht nicht. Rechtmäßiges Alternativverhalten gesondert prüfen: Den gleichen Schaden auch bei rechtmäßigem Verlauf muss die Behandlungsseite beweisen. Zeitpunkt, gewünschten Aufschub und Gegenursache gezielt klären.
+
 ## Strategische Optionen (vor dem Template entscheiden)
 
 Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.

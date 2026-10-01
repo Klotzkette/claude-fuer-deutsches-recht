@@ -1,0 +1,88 @@
+{
+  "plugin": "fachanwalt-medizinrecht",
+  "checked_on": "2026-10-01",
+  "scope": "Zwei ausgewählte aktuelle Entscheidungen; Entscheidungsidentität und angegebene tragende Volltextpassagen frisch gelesen, Vorprüfungen als Kontext. Keine Prüfung sämtlicher Entscheidungen im Plugin.",
+  "decisions": [
+    {
+      "id": "medizin1",
+      "plugin": "fachanwalt-medizinrecht",
+      "court": "BGH",
+      "form": "Urteil",
+      "date": "25.11.2025",
+      "az": "VI ZR 165/23",
+      "citation": "BGH, Urteil vom 25.11.2025, VI ZR 165/23",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2023/VI_ZR_165-23.pdf?__blob=publicationFile&v=1",
+      "passages_read": "Entscheidungskopf/Leitsätze und Rn. 10–23",
+      "application": "Hypothetische Einwilligung muss die tatsächlich durchgeführte Maßnahme decken; bloße Zustimmung zu einer späteren Operation genügt nicht.",
+      "limit": "Rechtmäßiges Alternativverhalten bleibt selbständig möglich; Behandlungsseite muss gleichen Schaden bei rechtmäßigem Verlauf beweisen.",
+      "checked_on": "2026-10-01",
+      "verification_status": "frisch_amtlicher_volltext_passagen",
+      "retrieval": "Amtliches Entscheidungs-PDF frisch abgerufen und mit pdftotext gelesen",
+      "source_sha256": "b759910dc9984ad400c94bbca866bb26b05ef58fda7a2cf984959d4c5cdc6508",
+      "skill": "aufklaerungsfehler-beweisstrategie"
+    },
+    {
+      "id": "medizin2",
+      "plugin": "fachanwalt-medizinrecht",
+      "court": "BGH",
+      "form": "Urteil",
+      "date": "25.11.2025",
+      "az": "VI ZR 51/24",
+      "citation": "BGH, Urteil vom 25.11.2025, VI ZR 51/24",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2024/VI_ZR__51-24.pdf?__blob=publicationFile&v=1",
+      "passages_read": "Entscheidungskopf/Leitsatz und Rn. 9–18",
+      "application": "Mangelhafter ärztlicher Nachtdienst ist als Organisations-/Behandlungsfehler zu prüfen, nicht als aufklärungspflichtiges Operationsrisiko.",
+      "limit": "Kausalität grundsätzlich vom Patienten zu beweisen; Paragraf 630h Absatz 4/5 gesondert, keine automatische Beweislastumkehr aus dem Organisationsmangel.",
+      "checked_on": "2026-10-01",
+      "verification_status": "frisch_amtlicher_volltext_passagen",
+      "retrieval": "Amtliches Entscheidungs-PDF frisch abgerufen und mit pdftotext gelesen",
+      "source_sha256": "efb19a166adc41d857e0aeec4e3b3225cc795cae5f10e443c5b72adc31c112cc",
+      "skill": "behandlungsfehler-anspruch-pruefen"
+    }
+  ],
+  "fresh_2026_decisions": 0,
+  "search_2026": "Amtliche 2026-Fundstellen gezielt gesucht/abgerufen; die hier dokumentierten Quellen tragen die übernommenen Aussagen. Kein Negativnachweis über sämtliche 2026-Entscheidungen.",
+  "changes": "Zwei BGH-Urteile vom 25.11.2025 erstmals konkret in Aufklärung und Organisationshaftung integriert; keine 2026-Entscheidung nur wegen Jahreszahl hinzugefügt.",
+  "changed_files": [
+    "fachanwalt-medizinrecht/fachanwalt-medizinrecht-schnellstart.md",
+    "fachanwalt-medizinrecht/fachanwalt-medizinrecht-werkstatt.md",
+    "fachanwalt-medizinrecht/skills/aufklaerungsfehler-beweisstrategie/SKILL.md",
+    "fachanwalt-medizinrecht/skills/behandlungsfehler-anspruch-pruefen/SKILL.md"
+  ],
+  "read_scope": {
+    "mini": "Vollständig gelesen; Anker und Fortsetzungslogik abgeglichen.",
+    "workshop": "Betroffene Fachabschnitte und vorhandene Anker gelesen; keine erneute Gesamtprüfung sämtlicher übriger Werkstattabschnitte.",
+    "skills": "Betroffene Fachabschnitte der verknüpften bestehenden Skills; keine Gesamtprüfung aller Spezialskills.",
+    "focus": "Auftrag und tragende Anker zur Abgrenzung geprüft; Hauptproblem rechnet Haushalts- und Pflegefolgen. Die zwei aktuellen Haftungsgrundentscheidungen ersetzen den Schadensberechnungsanker VI ZR 183/08 nicht; sie stehen in den fachgebietsweiten Prompts und Haftungsskills."
+  },
+  "focus_decision": "Hauptproblem rechnet Haushalts- und Pflegefolgen. Die zwei aktuellen Haftungsgrundentscheidungen ersetzen den Schadensberechnungsanker VI ZR 183/08 nicht; sie stehen in den fachgebietsweiten Prompts und Haftungsskills.",
+  "prompt_limits": {
+    "schnellstart": {
+      "characters": 7046,
+      "utf8_bytes": 7145
+    },
+    "hauptproblem": {
+      "characters": 7068,
+      "utf8_bytes": 7158
+    }
+  },
+  "txt_mirrors_updated": [],
+  "verification_limits": [
+    "Keine neuen Skills, Testakten, Versionen oder globalen Generatoren.",
+    "Kein Live-Modelltest; vorhandene Modelltestergebnisse werden nicht auf neue Texte umdatiert.",
+    "Altanker außerhalb des benannten Passagenumfangs behalten ihren bisherigen Prüfstatus."
+  ],
+  "technical_checks": {
+    "mini_and_focus_limits": "passed",
+    "profile_validation": "passed: quality_lab.validate_profile, 01.10.2026",
+    "pair_coverage": "passed: Beide Direktlinks in Werkstatt, Mini und jeweils passendem bestehenden Fachskill."
+  },
+  "editorial_placement": {
+    "status": "repositioned_without_substantive_change",
+    "files": [
+      "fachanwalt-medizinrecht/skills/aufklaerungsfehler-beweisstrategie/SKILL.md",
+      "fachanwalt-medizinrecht/skills/behandlungsfehler-anspruch-pruefen/SKILL.md"
+    ],
+    "detail": "Neue Rechtsprechungsabschnitte in passende vorhandene Prüf-/Quellenabschnitte eingeordnet und Überschriften an vorhandene Gliederung angepasst; keine neue fachliche Prüfung und keine Promptänderung."
+  }
+}

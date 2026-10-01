@@ -71,8 +71,11 @@
     {
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2023/VIII_ZR__50-23.pdf?__blob=publicationFile&v=1",
       "checked_on": "2026-10-01",
-      "supports": "BGH, Urteil vom 01.07.2026 – Az. VIII ZR 50/23, Rn. 28–44: § 556f Satz 1 BGB kann dauerhafte Wiedernutzbarmachung zuvor unbewohnbaren Altbestands mit wesentlichem Bauaufwand erfassen. Vorzustand, Wiederbeginn und Kostenvergleich separat feststellen. Gelesen: Kopf/Leitsatz, Rn. 28–44; Tatbestand zur Einordnung. Grenze: Zurückverweisung ohne abschließende Tatsachenfeststellung; keine Ausnahme allein bei hohen Kosten oder gewöhnlicher Modernisierung. Im Ausgangsfall ältere Auskunfts-/Rügeregeln; nicht ungeprüft übertragen.",
-      "sha256": "88137f539f5dba1b717c36b71b3f198bba6d011b3f1131d1036f67d8e46d3999"
+      "supports": "BGH, Urteil vom 01.07.2026, VIII ZR 50/23: Dauerhaft unbewohnbar gewordenen und mit wesentlichem Bauaufwand wiederhergestellten Altbestand unter Paragraf 556f Satz 1 gesondert prüfen. Grenze: Vorzustand und erste Wiedernutzung/Vermietung nach 01.10.2014 belegen; hohe Kosten oder bloße Modernisierung allein genügen nicht. Gelesen: Entscheidungskopf, Rn. 28, 31, 37, 41–44; früherer Passagencheck Rn. 28–44",
+      "sha256": "88137f539f5dba1b717c36b71b3f198bba6d011b3f1131d1036f67d8e46d3999",
+      "verification_status": "frisch_amtlicher_volltext_passagen",
+      "source_sha256": "88137f539f5dba1b717c36b71b3f198bba6d011b3f1131d1036f67d8e46d3999",
+      "source_audit": "quality/source-audits/fachanwaltschaft-2026-10-01/fachanwalt-miet-wohnungseigentumsrecht.json"
     },
     {
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2022/V_ZR__43-22.pdf?__blob=publicationFile&v=1",
@@ -109,20 +112,30 @@
       "url": "https://www.gesetze-im-internet.de/gkg_2004/__49.html",
       "checked_on": "2026-10-01",
       "supports": "Siebeneinhalbfachgrenze und Verkehrswertgrenze einschließlich Beigetretener."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2024/V_ZR_102-24.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-01",
+      "supports": "BGH, Urteil vom 24.04.2026, V ZR 102/24: Delegierte Erhaltungslast an Gemeinschaftseigentum lässt Beschlusskompetenz der GdWE bestehen; Kompetenz, Handlungspflicht und Kostenlast getrennt prüfen. Grenze: Bei Tätigwerden der Gemeinschaft bleibt vereinbarte Kostenlast bestehen; kein Anspruch auf jede konkret gewünschte Sanierung. Gelesen: Entscheidungskopf, Rn. 13–14, 22–23, 25–26 und 29",
+      "verification_status": "frisch_amtlicher_volltext_passagen",
+      "source_sha256": "fe8f8132fa5b34df5c6ed83cd4f739ea55d1b5b222f22763c2322103d7e0068b",
+      "source_audit": "quality/source-audits/fachanwaltschaft-2026-10-01/fachanwalt-miet-wohnungseigentumsrecht.json"
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Vollständige Lektüre; Einstieg auf Zahlung, Mangel, Erhöhung oder Kündigung konkretisiert und Modernisierungsanker an funktionsfähige alte Bauteile gebunden. Desk- und Quellenreview, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Förderung betrifft nur die Fassade oder Gutschrift ist bereits im Rechnungsbetrag enthalten -> Kostenverteilung und Einwendung ändern, keinen doppelten Abzug vornehmen.",
+    "reason": "Vollständige Lektüre; Einstieg auf Zahlung, Mangel, Erhöhung oder Kündigung konkretisiert und Modernisierungsanker an funktionsfähige alte Bauteile gebunden. Desk- und Quellenreview, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Förderung betrifft nur die Fassade oder Gutschrift ist bereits im Rechnungsbetrag enthalten -> Kostenverteilung und Einwendung ändern, keinen doppelten Abzug vornehmen. Gezielte Fachanwalts-Aktualisierung 01.10.2026: Mietpreisbremse 2026 bestätigt; WEG-Beschlusskompetenz trotz delegierter Erhaltung ergänzt. Kein neuer Live-Modelltest.",
     "changes": [
       "VIII ZR 81/19 nach Abnutzung, Beweislast und Teilbarkeit angewandt.",
       "Alte nicht neu geprüfte Urteile ausdrücklich zu Recherchehinweisen herabgestuft.",
       "Paragraf 578 und Übergang bis einschließlich 1. Januar 2026 sowie Paragraf 130e ZPO differenziert.",
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
-      "VIII ZR 50/23 konkret ergänzt; Beschlussklage nach V ZR 43/22 harmonisiert. Zwei-/Dreiwochenfehler, additive Begründungsfrist, falsche Absatzzuordnung, Vertretungs- und Streitwertfehler im betroffenen WEG-Skill korrigiert."
+      "VIII ZR 50/23 konkret ergänzt; Beschlussklage nach V ZR 43/22 harmonisiert. Zwei-/Dreiwochenfehler, additive Begründungsfrist, falsche Absatzzuordnung, Vertretungs- und Streitwertfehler im betroffenen WEG-Skill korrigiert.",
+      "Mietpreisbremse 2026 bestätigt; WEG-Beschlusskompetenz trotz delegierter Erhaltung ergänzt."
     ],
-    "sha256": "0c1b1a04b2879d78f643b461d03200c93e688246ccdcd534c7d622fb18e86304",
-    "reviewed_on": "2026-10-01"
+    "sha256": "1e7966d6b00355b7e54a839dca0b78e1fa236868b781268acd9b44a28bdc96d5",
+    "reviewed_on": "2026-10-01",
+    "method": "desk_review"
   },
   "focus_review": {
     "reviewed_on": "2026-09-23",
@@ -194,16 +207,19 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Gesamte Werkstatt mit acht Vertiefungswegen gelesen. Entwurfsbeschränkung, doppelte Normliste und unklarer Quellenstatus korrigiert; Übergangsformrecht und Modernisierungshöhe konkretisiert. Desk- und Quellenreview, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Zahlungszuordnung und Rückbuchung, Mangelzeiträume, Kündigungsarten, Modernisierung gegenüber Erhaltung, Zuschüsse pro Gewerk und WEG-Beschlusswortlaut mit getrennten Klage- und Begründungsfristen.",
+    "reason": "Gesamte Werkstatt mit acht Vertiefungswegen gelesen. Entwurfsbeschränkung, doppelte Normliste und unklarer Quellenstatus korrigiert; Übergangsformrecht und Modernisierungshöhe konkretisiert. Desk- und Quellenreview, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Zahlungszuordnung und Rückbuchung, Mangelzeiträume, Kündigungsarten, Modernisierung gegenüber Erhaltung, Zuschüsse pro Gewerk und WEG-Beschlusswortlaut mit getrennten Klage- und Begründungsfristen. Gezielte Fachanwalts-Aktualisierung 01.10.2026: Mietpreisbremse 2026 bestätigt; WEG-Beschlusskompetenz trotz delegierter Erhaltung ergänzt. Kein neuer Live-Modelltest.",
     "changes": [
       "VIII ZR 81/19 nach Abnutzung, Beweislast und Teilbarkeit angewandt.",
       "Alte nicht neu geprüfte Urteile ausdrücklich zu Recherchehinweisen herabgestuft.",
       "Paragraf 578 und Übergang bis einschließlich 1. Januar 2026 sowie Paragraf 130e ZPO differenziert.",
       "Zahlungszuordnung und Rückbuchung, Mangelzeiträume, Kündigungsarten, Modernisierung gegenüber Erhaltung, Zuschüsse pro Gewerk und WEG-Beschlusswortlaut mit getrennten Klage- und Begründungsfristen.",
-      "VIII ZR 50/23 konkret ergänzt; Beschlussklage nach V ZR 43/22 harmonisiert. Zwei-/Dreiwochenfehler, additive Begründungsfrist, falsche Absatzzuordnung, Vertretungs- und Streitwertfehler im betroffenen WEG-Skill korrigiert."
+      "VIII ZR 50/23 konkret ergänzt; Beschlussklage nach V ZR 43/22 harmonisiert. Zwei-/Dreiwochenfehler, additive Begründungsfrist, falsche Absatzzuordnung, Vertretungs- und Streitwertfehler im betroffenen WEG-Skill korrigiert.",
+      "Mietpreisbremse 2026 bestätigt; WEG-Beschlusskompetenz trotz delegierter Erhaltung ergänzt.",
+      "Absätze zu Mietpreisbremse und WEG-Erhaltung den jeweiligen Fachabschnitten zugeordnet."
     ],
-    "sha256": "1e022388bdac75dcec4562cb759aab9ae80a77db1ed1264cde197f536270330c",
-    "reviewed_on": "2026-10-01"
+    "sha256": "1421990d6f9b75e594f91ea8047d8356c0322a81edbc4f388139ab39cfad3715",
+    "reviewed_on": "2026-10-01",
+    "method": "desk_review"
   },
   "prompt_editorial_review": {
     "date": "2026-10-01",
@@ -215,7 +231,8 @@
       "fachanwalt-miet-wohnungseigentumsrecht/README.md",
       "quality/evals/fachanwalt-miet-wohnungseigentumsrecht.json",
       "fachanwalt-miet-wohnungseigentumsrecht/skills/fachanwalt-miet-wohnungseigentumsrecht-weg-beschlussanfechtung/SKILL.md",
-      "fachanwalt-miet-wohnungseigentumsrecht/skills/mietpreisbremse-paragraf-556d-bgb-pruefen/SKILL.md"
+      "fachanwalt-miet-wohnungseigentumsrecht/skills/mietpreisbremse-paragraf-556d-bgb-pruefen/SKILL.md",
+      "fachanwalt-miet-wohnungseigentumsrecht/skills/weg-beschlusskompetenz/SKILL.md"
     ],
     "opening_change": "Geschuldete Miete und wirksame Beendigung statt abstraktem Auftrag; Hauptproblem vom Rechnungsbetrag zur konkreten Monatsmiete. Workflow-Ergänzung: Leer: Mietkonto und Kündigung, Abrechnungsabwehr oder WEG-Beschluss anbieten. Dateien ohne Aufgabe: Konto, Kostenbelege und Beschluss still lesen; Zahlungs-, Modernisierungs- oder Beschlussziel klären. Klarer Auftrag: konkrete Rechnung, Einwendung oder Klagevorbereitung unmittelbar bearbeiten; bekannte Wohnungsdaten nicht wiederholen.",
     "norms": [
@@ -236,11 +253,18 @@
         "verification_status": "wiederverwendeter_auditnachweis"
       },
       {
-        "citation": "BGH, Urteil vom 01.07.2026 – Az. VIII ZR 50/23, Rn. 28–44",
+        "citation": "BGH, Urteil vom 01.07.2026, VIII ZR 50/23",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2023/VIII_ZR__50-23.pdf?__blob=publicationFile&v=1",
         "checked_on": "2026-10-01",
-        "application": "§ 556f Satz 1 BGB kann dauerhafte Wiedernutzbarmachung zuvor unbewohnbaren Altbestands mit wesentlichem Bauaufwand erfassen. Vorzustand, Wiederbeginn und Kostenvergleich separat feststellen.",
-        "limit": "Zurückverweisung ohne abschließende Tatsachenfeststellung; keine Ausnahme allein bei hohen Kosten oder gewöhnlicher Modernisierung. Im Ausgangsfall ältere Auskunfts-/Rügeregeln; nicht ungeprüft übertragen."
+        "application": "Dauerhaft unbewohnbar gewordenen und mit wesentlichem Bauaufwand wiederhergestellten Altbestand unter Paragraf 556f Satz 1 gesondert prüfen.",
+        "limit": "Vorzustand und erste Wiedernutzung/Vermietung nach 01.10.2014 belegen; hohe Kosten oder bloße Modernisierung allein genügen nicht.",
+        "verification_status": "frisch_amtlicher_volltext_passagen",
+        "passages_read": "Entscheidungskopf, Rn. 28, 31, 37, 41–44; früherer Passagencheck Rn. 28–44",
+        "source_sha256": "88137f539f5dba1b717c36b71b3f198bba6d011b3f1131d1036f67d8e46d3999",
+        "source_audit": "quality/source-audits/fachanwaltschaft-2026-10-01/fachanwalt-miet-wohnungseigentumsrecht.json",
+        "previous_verification": {
+          "checked_on": "2026-10-01"
+        }
       },
       {
         "citation": "BGH, Urteil vom 13.01.2023 – Az. V ZR 43/22, Rn. 10–17 und 20–29",
@@ -248,6 +272,17 @@
         "checked_on": "2026-10-01",
         "application": "Einheitlicher Streitgegenstand von Anfechtung und Nichtigkeit; Gemeinschaft als Beklagte, falsche Eigentümerbezeichnung grundsätzlich nicht fristwahrend.",
         "limit": "Kein Stimmrechts- oder Beschlussfähigkeitsanker. Auslegung fehlerhafter Parteibezeichnung nur bei zweifelsfrei erkennbarem Willen im übrigen Klageinhalt; Verwalternennung reicht nicht."
+      },
+      {
+        "citation": "BGH, Urteil vom 24.04.2026, V ZR 102/24",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2024/V_ZR_102-24.pdf?__blob=publicationFile&v=1",
+        "application": "Delegierte Erhaltungslast an Gemeinschaftseigentum lässt Beschlusskompetenz der GdWE bestehen; Kompetenz, Handlungspflicht und Kostenlast getrennt prüfen.",
+        "limit": "Bei Tätigwerden der Gemeinschaft bleibt vereinbarte Kostenlast bestehen; kein Anspruch auf jede konkret gewünschte Sanierung.",
+        "checked_on": "2026-10-01",
+        "verification_status": "frisch_amtlicher_volltext_passagen",
+        "passages_read": "Entscheidungskopf, Rn. 13–14, 22–23, 25–26 und 29",
+        "source_sha256": "fe8f8132fa5b34df5c6ed83cd4f739ea55d1b5b222f22763c2322103d7e0068b",
+        "source_audit": "quality/source-audits/fachanwaltschaft-2026-10-01/fachanwalt-miet-wohnungseigentumsrecht.json"
       }
     ],
     "remaining_limits": [
@@ -255,7 +290,8 @@
       "Modernisierungsentscheidung gezielt amtlich geprüft; sonstige alte Urteile in der Werkstatt bleiben ausdrücklich Recherchehinweise. Keine vollständige Neuprüfung von WEG- oder CO₂-Recht.",
       "Aktueller Wortlaut der Heizungsumlage gelesen, nicht sämtliche Übergangs- und Gebäudemodernisierungsregeln geprüft; Maßnahmenzeitpunkt weiter entscheidend.",
       "Workflow-Review 23.09.2026: Paragraf 45 WEG erneut eingesehen; Fristen ab Beschlussfassung, nicht pauschal ab Protokollzugang. Vorhandene mietrechtliche Differenzierungen erhalten.",
-      "Begrenzter Nachtrag 01.10.2026: VIII ZR 50/23 konkret ergänzt; Beschlussklage nach V ZR 43/22 harmonisiert. Zwei-/Dreiwochenfehler, additive Begründungsfrist, falsche Absatzzuordnung, Vertretungs- und Streitwertfehler im betroffenen WEG-Skill korrigiert. Keine Gesamtneuverifikation aller Altanker oder Live-Modelltests."
+      "Begrenzter Nachtrag 01.10.2026: VIII ZR 50/23 konkret ergänzt; Beschlussklage nach V ZR 43/22 harmonisiert. Zwei-/Dreiwochenfehler, additive Begründungsfrist, falsche Absatzzuordnung, Vertretungs- und Streitwertfehler im betroffenen WEG-Skill korrigiert. Keine Gesamtneuverifikation aller Altanker oder Live-Modelltests.",
+      "Fachanwaltsaktualisierung 01.10.2026: zwei ausgewählte aktuelle Entscheidungen frisch im amtlichen Volltext passagenbezogen geprüft; keine Gesamtneuverifikation aller Altanker oder neuen Modelltests. Hauptproblem rechnet Modernisierungskosten und Erhaltungsanteile. Mietpreisbremse und WEG-Kompetenz sind andere Ansprüche; VIII ZR 81/19 bleibt dort tragend."
     ]
   },
   "prompt_workflow_review": {
@@ -277,5 +313,14 @@
     "status": "Ankerkontext gelesen; Quellenstatus je Entscheidung im Bericht differenziert.",
     "registry_changes": [],
     "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
+  },
+  "source_audit_fachanwaltschaft_2026_10_01": {
+    "report": "quality/source-audits/fachanwaltschaft-2026-10-01/fachanwalt-miet-wohnungseigentumsrecht.json",
+    "scope": "Zwei ausgewählte aktuelle Entscheidungen, amtlicher Volltext und operative Prompt-/Skillanwendung; keine pauschale Gesamtprüfung.",
+    "decisions": [
+      "BGH, Urteil vom 01.07.2026, VIII ZR 50/23",
+      "BGH, Urteil vom 24.04.2026, V ZR 102/24"
+    ],
+    "new_model_test": false
   }
 }

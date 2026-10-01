@@ -31,6 +31,10 @@ Art. 157 AEUV, RL 2006/54/EG, AGG Paragrafen 1, 7, 15, 22, EntgTranspG Paragrafe
 4. **Indizien und Exkulpation:** Arbeitgeber muss objektive, geschlechtsneutrale Gründe plausibel und belegbar darstellen; nachgeschobene, diffuse „Performance“-Erzählung red-teamen.
 5. **Datenstrategie:** Auskunft, Vergleichsgruppe, Entgeltmedian, HRIS-Auszug, Zielvereinbarungen, Performance Ratings, Budgetrunden und Ausnahmefreigaben sichern.
 
+### Teilzeit-Zuschlagsgrenze konkret berechnen
+
+[BAG, Urteil vom 28.04.2026, 5 AZR 96/25](https://www.bundesarbeitsgericht.de/entscheidung/5-azr-96-25/), Rn. 24–28 und 53–57: Einheitliche tarifliche Mehrarbeitszuschlagsgrenze für Vollzeit/Teilzeit diskriminiert im entschiedenen Tarifmodell; proportionale Grenze bestimmen. Tariflicher Leistungszweck und sachliche Rechtfertigung prüfen; nicht jede Stunde über individueller Sollzeit ist zuschlagspflichtig. Fordere Wochenarbeitszeit, Tarifgrenze und Stundenbelege an; berechne die proportionale Auslöseschwelle und arbeite sie in die Lohnforderung ein.
+
 ## Aktuelle BAG-Linie 2025/2026 (live verifizieren vor Schriftsatzverwendung)
 
 Drei aktuelle Leitentscheidungen, die über das Arbeitsrecht in den letzten zwoelf Monaten besonders weit ausstrahlen:

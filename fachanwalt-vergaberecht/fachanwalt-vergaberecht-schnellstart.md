@@ -14,7 +14,7 @@ Führe für jeden Fehler Kenntnis und Erkennbarkeit, Angebotsfrist, Rüge und Ni
 
 Bei Unterlagenprüfung: Leistungsbeschreibung, Eignung, Ausschlussgründe und Zuschlagskriterien trennen. Bei Wertung: veröffentlichte Formel, Gewichtung, Rohpunkte, Rundung und Rang nachrechnen. Eine Qualitätsnote anhand Angebotsstelle und dokumentierter Begründung prüfen, nicht durch eine eigene Wunschbenotung ersetzen. Fehlende Konkurrenzdaten bleiben offen.
 
-Nach Paragraf 127 Absätze 4 und 5 GWB sowie Paragrafen 8 und 58 VgV müssen Kriterien, Gewichtung und tatsächliche Anwendung überprüfbar sein. [BGH, Beschluss vom 4. April 2017, X ZB 3/17, „Postdienstleistungen“, Randnummern 39–48 und Hinweise in Randnummern 50–53](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/X_ZS/2017/X_ZB___3-17.pdf?__blob=publicationFile&v=1): Fehlende detaillierte Notendefinitionen machen ein verständliches Konzeptkriterium nicht schon rechtswidrig; die konkrete Benotung verlangt aber nachvollziehbare Gründe und Vergleichskontrolle. Fordere deshalb die Begründung der streitigen Note an. Kein Freibrief für unklare Leistungsziele oder ungleiche Maßstäbe; außergewöhnlich komplexe Kriterien hat der BGH ausdrücklich offengelassen.
+Bei Konzeptnoten [BGH, Beschluss vom 04.04.2017 – X ZB 3/17, Rn. 39–53](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/X_ZS/2017/X_ZB___3-17.pdf?__blob=publicationFile&v=1) beachten: Verständliche Kriterien brauchen nicht stets detaillierte Notendefinitionen, konkrete Noten aber nachvollziehbare Gründe und Vergleichskontrolle. Begründung anfordern; keine eigene Wunschbenotung. Besonders komplexe Kriterien blieben offen.
 
 Eine schon fristgerecht angebotene Vertretungszusage ist bei der Neubewertung zu berücksichtigen; eine erst nach Angebotsfrist erfundene Zusage wäre etwas anderes. Paragraf 56 Absatz 3 VgV schließt die Nachforderung wertungsrelevanter leistungsbezogener Unterlagen grundsätzlich aus. Interne Aktennachforderung und Nachbesserung eines Bieterangebots nicht verwechseln.
 
@@ -25,6 +25,8 @@ Bei Rüge: tatsächlichen Fehler, betroffene Anforderung, Kenntnis und konkrete 
 Fehlt die geltende Kriterienfassung, frage nach der letzten Bieterinformation und gleiche Änderungen mit dem Angebot ab. Fehlt die Begründung einer Konzeptnote, benenne die konkrete Note und Angebotsstelle, zu der Aufklärung benötigt wird. Nach Eingang rechne die betroffenen Punkte erneut und aktualisiere die Begründung des bestellten Dokuments; aus bloßer Informationsverfügbarkeit folgt noch kein Wertungsfehler.
 
 Weitere kurze Rückfragen sind zulässig, wenn die Antwort eine neue entscheidende Lücke zeigt. Unabhängig beurteilbare Teile vorläufig liefern und anschließend bis zur verlangten Beratung, Rüge oder Stellungnahme weiterarbeiten. Ein Auftrag zur Wertungsprüfung führt nicht ungefragt in ein Nachprüfungsverfahren.
+
+[EuGH, Urteil vom 16.04.2026 – C-568/24, Sof Medica](https://juris.curia.europa.eu/juris/document/document.jsf?docid=310678&doclang=EN), Rn. 33–64: Technische Vorgaben brauchen nicht schon bei Bekanntmachung veröffentlichte Einzelrechtfertigungen, müssen aber sachlich verhältnismäßig bleiben. Nationale Dokumentationspflichten beachten. Produkttypbindung ohne „oder gleichwertig“ nur bei zwangsläufigem Sachbezug; Bedarf, Maße und Alternativen belegen. Keine nachträgliche Änderung der Kriterien daraus erlauben.
 
 ## 1.3. Amtliche Anker
 
@@ -40,4 +42,4 @@ Bei drohendem Zuschlag sofort menschlichen Handlungsbedarf und den beauftragten 
 
 ## 1.5. Öffentliche Zusammenarbeit vor einer Direktvergabe
 
-[EuGH, Beschluss vom 03.02.2026 – C-316/25, Regione Umbria](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A62025CO0316_INF), amtlicher Tenor: Bloßer Leistungseinkauf gegen Entgelt wird nicht allein wegen öffentlicher Rechtsform des Vertragspartners zur vergabefreien Kooperation. Prüfe tatsächliche Beiträge und gemeinsame Ziele sowie Paragraf 108 Absatz 6 GWB; weniger als 20 Prozent Markttätigkeit und kein unmittelbarer Wettbewerbsvorteil eines privaten Dritten. Inhouse separat: mehr als 80 Prozent nach Absatz 1/4, Betrauung nach Absatz 7, Berechnung nach Absatz 8. Verträge und Tätigkeitszahlen konkret nachfordern; keine Direktvergabe aus einem Etikett „Kooperation“ ableiten.
+[EuGH, Beschluss vom 03.02.2026 – C-316/25, Regione Umbria](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX%3A62025CO0316), Rn. 16–24: Bloßer entgeltlicher Leistungseinkauf ist keine öffentliche Kooperation. Gemeinsame Ziele und tatsächliche Beiträge sowie Paragraf 108 Absatz 6 GWB prüfen; weniger als 20 Prozent Markttätigkeit. Inhouse gesondert nach Absätzen 1–5 prüfen, Berechnung nach Absatz 8. Öffentliche Rechtsform allein genügt nicht.

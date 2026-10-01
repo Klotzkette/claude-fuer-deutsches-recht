@@ -18,6 +18,8 @@ description: "Für Leistungsbeschreibung Neutralität Funktional: ordnet Norm, B
 
 ### Leistungsbeschreibung Neutralitaet
 
+[EuGH, Urteil vom 16.04.2026 – C-568/24, Sof Medica](https://juris.curia.europa.eu/juris/document/document.jsf?docid=310678&doclang=EN), Rn. 33–64: Eine objektive Rechtfertigung jeder technischen Vorgabe muss unionsrechtlich nicht schon mit der Bekanntmachung veröffentlicht werden. Die Vorgabe muss gleichwohl sachlich erforderlich und verhältnismäßig sein; nationale Dokumentationspflichten bleiben. Prüfe bei Produkttyp, Maßen oder Bauart den konkreten Bedarf und alternative Lösungen. Ohne Zusatz „oder gleichwertig“ ist eine solche Typbindung nur eng zulässig, wenn sie zwangsläufig aus dem Auftragsgegenstand folgt. Im Fall des OP-Roboters waren Räume und deren Anordnung zu prüfen. Fehlende Veröffentlichung der Gründe, fehlende Rechtfertigung und unzulässige Nachänderung der Anforderungen sind unterschiedliche Fehler.
+
 ## Sofortmodus
 
 1. Rolle klären: Auftraggeber, Bieter, Beigeladener, Foerdermittelempfaenger, Projektsteuerer oder Kanzlei.

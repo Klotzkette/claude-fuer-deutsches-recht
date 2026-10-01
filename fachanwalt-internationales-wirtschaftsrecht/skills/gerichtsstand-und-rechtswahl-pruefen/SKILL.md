@@ -9,7 +9,7 @@ description: "Für Gerichtsstand und Rechtswahl Prüfen: ordnet Norm, Beweislast
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: FAO § 5 36 Monate Praxis, CISG Art. 39 angemessene Frist Mängelrüge, Brüssel Ia Art. 35 einstweiliger Rechtsschutz, NYÜ Art. V Anerkennung 3 Jahre.
+- Fristen und Eilrisiken zuerst markieren: FAO § 5 36 Monate Praxis, CISG Art. 39 angemessene Frist Mängelrüge, Brüssel Ia Art. 35 einstweiliger Rechtsschutz, NYÜ Art. V: Anerkennungsversagungsgründe, keine dort geregelte allgemeine Dreijahresfrist.
 - Tragende Normen verifizieren: FAO § 14r, Rom I (VO 593/2008), Rom II (VO 864/2007), Brüssel Ia (VO 1215/2012), CISG, UNCITRAL Model Law, INCOTERMS 2020, IPR-G, AWG, AWV, EU-Sanktionsverordnungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Internationale Vertragsparteien, ICC, UNCITRAL, Schiedsgericht (DIS, ICC, SCC), nationale Gerichte, Zoll, BAFA, BMWK, EuGH.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Internationaler Kaufvertrag, Schiedsklausel, ICC-Schiedsverfahren-Eingabe, Exportlizenz BAFA, Sanktionsprüfung, INCOTERMS-Klausel, Letter of Credit — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
@@ -18,7 +18,7 @@ description: "Für Gerichtsstand und Rechtswahl Prüfen: ordnet Norm, Beweislast
 
 ## Mandantenfragen beim Kaltstart
 
-1. Haben beide Parteien ihren Sitz in EU-Mitgliedstaaten (→ Brüssel Ia VO) oder ist eine Partei in der Schweiz/Norwegen/Island (→ Lugano) oder einem Drittstaat (→ §§ 12 ff. ZPO)?
+1. Welches Gericht ist vereinbart und wo haben die Parteien Wohnsitz beziehungsweise Sitz? Eine Vereinbarung zugunsten eines Gerichts eines EU-Mitgliedstaats nach Artikel 25 Brüssel-Ia-VO unabhängig vom Wohnsitz der Parteien prüfen; Drittstaatenbezug schließt diesen Prüfweg nicht aus. Danach allgemeine Zuständigkeit, Schutz- und ausschließliche Zuständigkeiten sowie gegebenenfalls Lugano oder nationales Recht zuordnen.
 2. Enthält der Vertrag eine Gerichtsstandsklausel nach Art. 25 Brüssel Ia – ist sie schriftlich, bestimmt und wirksam vereinbart?
 3. Gibt es eine Schiedsklausel – welche Institution (ICC, LCIA, DIS, UNCITRAL), welcher Sitz, welches Schiedsrecht?
 4. Soll deutsches Recht oder das Recht eines anderen Staates angewendet werden – wurde CISG ausdrücklich abbedungen (Art. 6 CISG)?
@@ -28,11 +28,15 @@ description: "Für Gerichtsstand und Rechtswahl Prüfen: ordnet Norm, Beweislast
 8. Handelt es sich um einen neuen Vertragsentwurf oder einen laufenden Streit – ist präventive Klauselgestaltung oder prozessuale Zuständigkeitsprüfung gefragt?
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
+[EuGH, Urteil vom 27.02.2025 – Az. C-537/23, Società Italiana Lastre](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62023CJ0537), Rn. 57–67: Asymmetrische Gerichtsstandsklauseln nach Artikel 25 Brüssel-Ia-VO sind nicht allein wegen der Ungleichheit unwirksam. Gerichte müssen in EU-/Lugano-Staaten liegen und objektiv hinreichend bestimmbar sein; Schutzregeln und ausschließliche Zuständigkeiten bleiben zwingend. Klauselwortlaut nachfordern, keine weltweite Wahl beliebiger Gerichte freigeben.
+
+[BGH, Beschluss vom 16.07.2026 – Az. I ZB 107/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2025/I_ZB_107-25.pdf?__blob=publicationFile&v=1), Rn. 36–43: Bei ausländischem Schiedsspruch internationale Zuständigkeit nach Paragraf 1025 Absatz 4 ZPO und örtliche Zuständigkeit getrennt bestimmen. Inländisches Staatsvermögen kann ein Rechtsschutzbedürfnis tragen, auch wenn Vollstreckungsimmunität besteht. Titelanerkennung erlaubt noch keinen Zugriff auf immunes Vermögen; Vermögensort und konkrete Vollstreckungsmaßnahme gesondert prüfen.
+
 ## Rechtsgrundlagen
 
 | Norm | Inhalt |
 |------|--------|
-| Brüssel Ia VO Art. 25 | Gerichtsstandsvereinbarung: schriftlich, bestimmt, ausschließlich (Vermutung); asymmetrische Klauseln wirksam |
+| Brüssel Ia VO Art. 25 | Gerichtsstandsvereinbarung: schriftlich, bestimmt, ausschließlich (Vermutung); asymmetrische Klauseln nur unter den Voraussetzungen von C-537/23 wirksam |
 | Brüssel Ia VO Art. 7 Nr. 1 | Besonderer Gerichtsstand Erfüllungsort: Warenkauf → Lieferort; Dienstleistung → Erbringungsort |
 | Brüssel Ia VO Art. 7 Nr. 2 | Delikt: Handlungs- oder Erfolgsort (Klägerwahlrecht) |
 | Brüssel Ia VO Art. 17–23 | Verbraucherschutz-Gerichtsstände: Klage Verbraucher am Wohnsitz; gegen Verbraucher nur Wohnsitz |
@@ -62,7 +66,7 @@ description: "Für Gerichtsstand und Rechtswahl Prüfen: ordnet Norm, Beweislast
 
 | Schritt | Prüfpunkt | Norm | Rechtsfolge |
 |---------|-----------|------|-------------|
-| 1 | Personeller Anwendungsbereich: Beklagter Sitz EU? | Brüssel Ia Art. 4 | Brüssel Ia gilt; sonst Lugano oder §§ 12 ff. ZPO |
+| 1 | Anwendungsbereich, vereinbartes Gericht sowie Wohnsitz/Sitz feststellen | Brüssel Ia Art. 4, 6, 24, 25 | EU-Gerichtsstandsvereinbarung und besondere Schutz-/ausschließliche Zuständigkeiten vor einem Verweis auf Lugano oder nationales Recht prüfen; Drittstaatensitz allein schließt Artikel 25 nicht aus |
 | 2 | Ausschließliche Gerichtsstände Art. 24 prüfen (Grundstücke, Gesellschaften, Immaterialgüter) | Art. 24 Brüssel Ia | Verdrängen alle anderen; kein Abweichen möglich |
 | 3 | Gerichtsstandsklausel Art. 25 prüfen: Form, Bestimmtheit, Ausschließlichkeit | Art. 25 Brüssel Ia | Wirksame Klausel = derogierter/prorogierter Gerichtsstand |
 | 4 | Schiedsklausel § 1029 ZPO prüfen: Schriftform § 1031 ZPO, Schiedsfähigkeit § 1030 ZPO | §§ 1029–1031 ZPO | Schiedsgericht hat Vorrang; staatl. Gericht erklärt sich unzuständig § 1032 ZPO |
@@ -202,7 +206,7 @@ DIS-Verfahren: günstigere Kostenstruktur als ICC; Verwaltungsgebühr nach § 7 
 
 Vollstreckung Brüssel Ia: Gerichtskosten gering (Anlagekosten ca. 200–500 EUR); Hauptaufwand: beglaubigte Übersetzungen, Rechtsanwaltshonorar.
 
-Vollstreckung § 328 ZPO (Nicht-EU): Anerkennungsklage erforderlich; volle Gerichts- und Anwaltskosten nach Streitwert.
+Vollstreckung eines ausländischen Urteils in Deutschland: Zuerst vorrangiges EU- oder Übereinkommensrecht bestimmen. Soweit autonomes deutsches Recht gilt, Anerkennungshindernisse nach [Paragraf 328 ZPO](https://www.gesetze-im-internet.de/zpo/__328.html) von der Klage auf Vollstreckungsurteil nach [Paragrafen 722](https://www.gesetze-im-internet.de/zpo/__722.html) und [723 ZPO](https://www.gesetze-im-internet.de/zpo/__723.html) trennen. Keine pauschal notwendige Anerkennungsklage und keine erneute Sachprüfung behaupten; Kosten nach dem tatsächlich erforderlichen Verfahren berechnen.
 
 ## Strategische Empfehlung
 
@@ -211,7 +215,7 @@ Vollstreckung § 328 ZPO (Nicht-EU): Anerkennungsklage erforderlich; volle Geric
 | Neuer B2B-Vertrag, internationaler Partner | Art. 25 Brüssel Ia-Klausel mit dt. Gerichtsstand + CISG-Ausschluss; alternativ DIS-Schiedsklausel |
 | Hochwertiger Vertrag mit US-Partner | ICC-Schiedsklausel; Sitz Frankfurt oder Zürich; Englisch als Schiedssprache; kein dt. Staatsgerichtsstand |
 | Vollstreckung eines dt. Urteils in Frankreich | Art. 39 Brüssel Ia direkt; Bescheinigung Art. 53 beim Ausgangsgericht beantragen |
-| Vollstreckung in USA/Schweiz/UK | § 328 ZPO-Anerkennungsklage; Gegenseitigkeit und Ordre-public prüfen |
+| Vollstreckung eines deutschen Urteils in USA/Schweiz/UK | Anerkennungs- und Vollstreckungsrecht des Zielstaats sowie anwendbare Übereinkommen prüfen; Paragraf 328 ZPO regelt nicht die Anerkennung deutscher Urteile im Ausland |
 | Schiedseinrede vergessen | § 1032 ZPO: Einrede vor erster mündlicher Verhandlung; sonst Rügerecht verloren |
 | Verbraucher-Gegenpartei | Gerichtsstandsklausel unwirksam; Verbraucher klagt am Wohnsitz; Schiedsklausel nach § 1031 Abs. 5 eigenhändig unterschreiben lassen |
 | CISG unklar | Amendment zum Vertrag: ausdrückliche CISG-Ausschlussklausel "The CISG shall not apply" |
@@ -239,7 +243,7 @@ Vollstreckung § 328 ZPO (Nicht-EU): Anerkennungsklage erforderlich; volle Geric
 ### Triage — Bevor losgelegt wird, klaere:
 
 1. Gibt es Gerichtsstandsklausel im Vertrag (Art. 25 Bruessel Ia)? → Schriftform, ausschließlich?
-2. Haben beide Parteien EU-Sitz? → Bruessel Ia; sonst: nationales IPR oder Hague Convention
+2. Wohnsitz/Sitz für den allgemeinen Gerichtsstand bestimmen; Artikel 25 bei vereinbartem EU-Gericht sowie Schutz- und ausschließliche Zuständigkeiten vor einem Rückgriff auf nationales Recht oder ein Haager Übereinkommen prüfen. Kein Ausschluss allein wegen Drittstaatensitz.
 3. Wurde Schiedsklausel vereinbart? → §§ 1025 ff. ZPO; nicht Bruessel Ia
 4. Verbraucher oder Arbeitnehmer beteiligt? → Art. 17-22 Bruessel Ia Schutzgerichtsstand
 5. Welches Recht anwendbar? → Unabhaengig von Zuständigkeit: Rom I / Rom II

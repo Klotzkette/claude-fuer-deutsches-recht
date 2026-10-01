@@ -1,0 +1,87 @@
+{
+  "plugin": "fachanwalt-agrarrecht",
+  "checked_on": "2026-10-01",
+  "status": "two_current_relevant_highest_court_anchors_verified_and_covered",
+  "scope": "Gezielte amtliche Quellenprüfung der unten genannten Passagen; lokaler Kontext und Arbeitsablauf der drei Prompts sowie betroffene Skillpassagen. Keine erneute Vollprüfung sämtlicher Fachskills oder Normen.",
+  "sources": [
+    {
+      "citation": "BGH, Beschluss vom 09.05.2025 – BLw 2/24",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/LdwS/2024/BLw___2-24.pdf?__blob=publicationFile&v=1",
+      "passages": "Rn. 8–17",
+      "application": "Einzelner Erbteil mit landwirtschaftlichen Grundstücken ist nicht schon nach § 2 Abs. 2 Nr. 2 GrdstVG genehmigungspflichtig; Umgehung konkret prüfen.",
+      "limit": "Nachlassbetrieb und auf vollständigen Anteilserwerb angelegte Umgehung gesondert; keine allgemeine Freistellung sämtlicher Anteilstransaktionen.",
+      "retrieval": "amtlicher Volltext, ausgewählte Gründe frisch gelesen",
+      "checked_on": "2026-10-01",
+      "previously_present": false
+    },
+    {
+      "citation": "BVerwG, Urteil vom 24.06.2026 – 4 C 2.25",
+      "url": "https://www.bverwg.de/de/240626U4C2.25.0",
+      "passages": "Rn. 7–14, 19–24",
+      "application": "Änderung eines Stalls verlangt Gesamtvorhabenprüfung; Futtergrundlage für tatsächlichen einheitlichen Betrieb, nicht nur historisch landwirtschaftlich genehmigte Teile.",
+      "limit": "Zurückverweisung und Prüfung § 35 Abs. 4 Satz 1 Nr. 6 BauGB, keine Genehmigungszusage; Gesetzentwurf entfaltet keine Vorwirkung.",
+      "retrieval": "amtlicher Volltext, ausgewählte Gründe frisch gelesen",
+      "checked_on": "2026-10-01",
+      "previously_present": false
+    }
+  ],
+  "fresh_or_reused": "Alle 16 ausgewählten Dokumente dieser acht Plugins in diesem Lauf amtlich neu abgerufen. Frisch gelesene Passagen und nur aus Vorprüfung übernommene Teilpassagen stehen je Quelle ausdrücklich im Feld passages; ältere sonstige Quellen wurden nicht neu als verifiziert etikettiert.",
+  "local_files_reviewed": [
+    "fachanwalt-agrarrecht/fachanwalt-agrarrecht-hauptproblem.md",
+    "fachanwalt-agrarrecht/fachanwalt-agrarrecht-schnellstart.md",
+    "fachanwalt-agrarrecht/fachanwalt-agrarrecht-werkstatt.md",
+    "fachanwalt-agrarrecht/skills/fachanwalt-agrarrecht-tierhaltung-genehmigung/SKILL.md",
+    "fachanwalt-agrarrecht/skills/juristischer-argumentationskern/SKILL.md",
+    "fachanwalt-agrarrecht/skills/landpacht-und-hoferbfolge-pruefen/SKILL.md",
+    "fachanwalt-agrarrecht/skills/tierhaltung-genehmigung/SKILL.md",
+    "fachanwalt-agrarrecht/skills/windenergieerloese-nachabfindung-abgleichen/SKILL.md"
+  ],
+  "changed_files": [
+    "fachanwalt-agrarrecht/fachanwalt-agrarrecht-schnellstart.md",
+    "fachanwalt-agrarrecht/fachanwalt-agrarrecht-werkstatt.md",
+    "fachanwalt-agrarrecht/skills/fachanwalt-agrarrecht-tierhaltung-genehmigung/SKILL.md",
+    "fachanwalt-agrarrecht/skills/juristischer-argumentationskern/SKILL.md",
+    "fachanwalt-agrarrecht/skills/landpacht-und-hoferbfolge-pruefen/SKILL.md",
+    "fachanwalt-agrarrecht/skills/tierhaltung-genehmigung/SKILL.md",
+    "quality/evals/fachanwalt-agrarrecht.json"
+  ],
+  "prompt_coverage": {
+    "werkstatt": {
+      "path": "fachanwalt-agrarrecht/fachanwalt-agrarrecht-werkstatt.md",
+      "characters": 19549,
+      "utf8_bytes": 19900,
+      "sha256": "293a8166aa135770fa915e09d770b50a9f80c89a17e065aa08532f587caf6985",
+      "selected_source_urls_present": [
+        true,
+        true
+      ]
+    },
+    "schnellstart": {
+      "path": "fachanwalt-agrarrecht/fachanwalt-agrarrecht-schnellstart.md",
+      "characters": 6701,
+      "utf8_bytes": 6843,
+      "sha256": "41ffa309ccba360283e0c02f98aa0aa573c1bb588af2a5ac7cb7b7882d520449",
+      "selected_source_urls_present": [
+        true,
+        true
+      ]
+    },
+    "hauptproblem": {
+      "path": "fachanwalt-agrarrecht/fachanwalt-agrarrecht-hauptproblem.md",
+      "characters": 5969,
+      "utf8_bytes": 6062,
+      "sha256": "3073daf86c59e886018ea4f9bcd1160d6950e1b6fdb9f8ce7162644245418887",
+      "selected_source_urls_present": [
+        false,
+        false
+      ]
+    }
+  },
+  "focus_scope": "Hauptproblem Windenergieerlöse/Nachabfindung bleibt bei BLw 21/08. Erbteilgenehmigung und Stallprivilegierung tragen dessen Erlösberechnung nicht.",
+  "search_2026": "Amtliche Suche nach BGH Agrar/Erbteil 2025–2026 und BVerwG Tierhaltung 2026; BLw 2/24 sowie 4 C 2.25 frisch gelesen.",
+  "validation": "UTF-8-Byte- und Zeichengrenzen; beide Direktlinks in Werkstatt und Mini sowie vorhandenen Skills; Profilhashes nachgeführt. Keine neuen Modelltests oder globalen Generatoren.",
+  "limits": [
+    "Nur bezeichnete Entscheidungs- und angrenzende Workflowpassagen überprüft; kein Versprechen vollständiger Rechtssicherheit.",
+    "Vorhandene Normfassungen, Altfundstellen und Testakten außerhalb des beschriebenen Eingriffs nicht umfassend neu geprüft."
+  ]
+}

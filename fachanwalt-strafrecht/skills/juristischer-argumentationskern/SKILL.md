@@ -70,6 +70,10 @@ Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkr
 5.5. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
 5.6. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
 
+[BGH, Urteil vom 08.01.2026 – 3 StR 203/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Strafsenate/3_StS/2025/3_StR_203-25.pdf?__blob=publicationFile&v=1), Rn. 7–13: Einvernehmliche Beutelagerung mit tatsächlichem freien Zugriff kann Mitverfügung begründen, ohne ausdrückliche Abrede aller Hinterleute. Weder Mittäterschaft noch Wohnungsinhaberschaft allein ersetzen tatsächliche Verfügung; spätere Weiterleitung beseitigt Erlangen nicht.
+
+[BGH, Beschluss vom 04.08.2026 – 6 StR 160/26](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Strafsenate/6_StS/2026/6_StR_160-26.pdf?__blob=publicationFile&v=1), Rn. 3–5: Sicherstellung widerspricht behauptetem Verkauf; gegenständliche Einziehung bei fortbestehender Beute von Erlöschen nach Rückgabe unterscheiden. Konkrete revisionsgerichtliche Kürzung nicht auf sämtliche Sicherstellungen/Arrestbeträge übertragen.
+
 ## 6. Beweislast und Gegenangriff
 
 Ausgangspunkt für dieses Plugin: Tatnachweis beim Staat; Verteidigung markiert Zweifel, Verwertungsverbote, Alternativerklärung und Strafzumessungsstoff.

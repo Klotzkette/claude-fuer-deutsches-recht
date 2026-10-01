@@ -30,6 +30,10 @@ Prüfe **Gebaeudeversicherung § 86 VVG** von der ersten Aktenordnung bis zur be
 4. **Beweislast und Darlegungslast trennen:** Wahrscheinliche Wahrheit genügt nicht; entscheidend ist, wer sie wann wie beweisen muss.
 5. **Risikoampel bilden:** Grün bei Norm + Tatsache + Beleg; Gelb bei Wertungsspielraum; Rot bei Frist-, Form-, Zuständigkeits- oder Beweislastbruch.
 
+### Sprinklerleckage nach Gebäudereparatur
+
+Bei Sprinklerschäden nach Bauarbeiten [BGH, Urteil vom 09.09.2026, IV ZR 259/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2025/IV_ZR_259-25.pdf?__blob=publicationFile&v=1), Rn. 12–24, prüfen: Der konkrete Ausschluss für Leckagen infolge Gebäudereparaturen war wirksam. Klauselwortlaut, Gebäudezusammenhang, Erheblichkeit und Ursache belegen; nicht jeden Wasserschaden ausschließen. Ob Leckage einen technischen Defekt voraussetzt, blieb offen.
+
 ## Entscheidungs- und Quellenhygiene
 
 - Rechtsprechung nur einsetzen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei prüfbare Quelle vorliegen.

@@ -38,6 +38,6 @@ Dezimale Gliederung, echte Umlaute, Paragraf ausgeschrieben, keine Doppelsterne.
 
 ## 1.5. Zwei konkrete Statusweichen 2026
 
-[BVerwG, Urteil vom 24.03.2026 – 1 C 6.25](https://www.bverwg.de/240326U1C6.25.0), Leitsätze 1–2: Ausländische Flüchtlingsanerkennung, Reiseausweis und Verantwortungsübergang begründen für sich keinen deutschen Titel nach Paragraf 25 Absatz 2 Satz 1 Alternative 1 AufenthG. Andere Titelgrundlagen, Abschiebungsschutz und zeitlich anwendbares GEAS-Recht getrennt prüfen.
+[BVerwG, Urteil vom 24.03.2026 – 1 C 6.25](https://www.bverwg.de/240326U1C6.25.0), Leitsätze 1–2: Ausländische Flüchtlingsanerkennung, Reiseausweis und Verantwortungsübergang begründen für sich keinen deutschen Titel nach Paragraf 25 Absatz 2 Satz 1 Alternative 1 AufenthG. Andere Titelgrundlagen, Abschiebungsschutz und zeitlich anwendbares GEAS-Recht getrennt prüfen. Anerkennungsbescheid und gesonderte BAMF-Entscheidung anfordern, wenn deren Inhalt fehlt.
 
 [BVerwG, Urteil vom 26.08.2026 – 1 C 27.25](https://www.bverwg.de/260826U1C27.25.0), Randnummern 10–13, 19–30, 41–43: Auch bei Nationalpass kann die verweigerte regelmäßig zumutbare Erklärung für einen zusätzlich erforderlichen Passersatz den Paragraf-60b-Zusatz tragen. Dokument, Erklärung, Zumutbarkeit und Kausalität belegen; keine beliebige Mitwirkungspflicht daraus ableiten. Zusatz isoliert anfechtbar; fortwirkende Vorduldungsfolgen trotz Ablaufs prüfen.

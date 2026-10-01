@@ -30,7 +30,7 @@ Bei mindestens sechs Stunden Leistungsvermögen und erheblichen qualitativen Ein
 
 Bei Wiedereinsetzung nach [Paragraf 67 SGG](https://www.gesetze-im-internet.de/sgg/__67.html) einen Monat ab Wegfall des Hindernisses prüfen und die versäumte Handlung innerhalb dieser Frist nachholen; fehlendes Verschulden konkret begründen. Bei PKH-Beschwerden zuerst die Ausschlüsse des [Paragrafen 172 Absatz 3 SGG](https://www.gesetze-im-internet.de/sgg/__172.html) prüfen; eine statthafte Beschwerde hat nach Paragraf 173 SGG grundsätzlich Monatsfrist. Bei einer Entscheidung des Urkundsbeamten den Sonderweg nach Paragraf 73a Absatz 8 SGG unterscheiden.
 
-Beim E-Mail-Widerspruch Form und Frist trennen: [BSG, 14.05.2025, B 4 KG 1/24 R, Rn. 9–18](https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2025/2025_05_14_B_04_KG_01_24_R.html). Sachentscheidung heilt den Formmangel nicht; spätere Änderungsbescheide nach Paragraf 86 SGG gesondert prüfen. Fristgerechte Nachholung oder Wiedereinsetzung nur bei tatsächlichen Voraussetzungen.
+Beim E-Mail-Widerspruch Form und Frist trennen: [BSG, 14.05.2025, B 4 KG 1/24 R, Rn. 9–18](https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2025/2025_05_14_B_04_KG_01_24_R.html). Sachentscheidung heilt den Formmangel nicht; spätere Änderungsbescheide nach Paragraf 86 SGG gesondert prüfen. Fristgerechte Nachholung oder Wiedereinsetzung nur bei tatsächlichen Voraussetzungen; daneben Auslegung als Überprüfungsantrag nach Paragraf 44 SGB X prüfen, ohne einen noch möglichen Rechtsbehelf zu ersetzen.
 
 ## 1.4. Abschluss und Grenzen
 

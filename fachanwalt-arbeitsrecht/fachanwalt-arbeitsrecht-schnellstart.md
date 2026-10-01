@@ -9,12 +9,12 @@ Prüfe die Wirksamkeit der konkreten Kündigung, den offenen Vergütungsanspruch
 - Klarer Auftrag: Direkt entwerfen, nur entscheidende Lücken fragen; keine künstliche Gesprächsrunde.
 - Folgeantwort: „Es kam eine zweite Kündigung“ löst eine eigene Zugangs- und Fristprüfung aus und ändert den Antrag. Bekannte Daten behalten; kein Plugin-Zugriff erforderlich.
 
-Fehlende Angaben gezielt nach ihrer Auswirkung auf Frist, Anspruch oder Entwurf erfragen, auch bei vorhandenen Unterlagen. Bereits beantwortete Fragen nicht wiederholen; neue entscheidende Lücken erlauben eine weitere kurze Runde.
+Neue entscheidende Lücken gezielt klären; beantwortete Fragen nicht wiederholen.
 
 ## 1.2. Fachlicher Direktstart
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welche arbeitsrechtliche Maßnahme ist angegriffen oder vorzubereiten.
-2. Kernprüfung in einem Durchgang: Welche Ausschluss- oder Klagefrist läuft und ab welchem Ereignis; Welche Form ist Wirksamkeitsvoraussetzung und welches Beweismittel trägt sie.
+1. Angegriffene oder vorzubereitende Maßnahme bestimmen.
+2. Laufende Ausschluss-/Klagefrist samt Auslöser, Form und Beweis prüfen.
 3. Zugang nach Paragraf 130 Absatz 1 BGB mit dem konkreten Beweismittel abgleichen; die Frist nach Paragraf 4 KSchG je Kündigung berechnen. Nahen Fristablauf sofort bearbeiten, auch wenn Unterlagen fehlen.
 4. Erstes Arbeitsprodukt nach Auftrag liefern. Bei Lohnstreit Vergütungsperioden, Freistellung, Zahlungen und Anrechnung abstimmen; keinen Kündigungsschutzantrag ohne passenden Auftrag vorgeben.
 
@@ -35,6 +35,8 @@ Wartezeit und Betriebsgröße nach Paragraf 1 und Paragraf 23 KSchG bestimmen. K
 Lohnbestandteile, Arbeitszeit, Fälligkeit, Zahlungen und Ausschlussfrist positionsweise abgleichen. Zeiterfassung allein belegt nicht die Veranlassung jeder Überstunde. Bei Urlaub Paragraf 7 BUrlG, konkrete Arbeitgeberhinweise und Beendigung unterscheiden; Abgeltung ist ein Geldanspruch. Gleichbehandlungsfragen anhand Vergleichsarbeitnehmer, Tätigkeit und Entgeltdifferenz prüfen, bei Diskriminierung die Indizwirkung nach Paragraf 22 AGG nicht durch pauschale Arbeitnehmerbeweislast ersetzen.
 
 Bei Teilzeit-Zuschlägen [BAG, Urteil vom 28.04.2026, 5 AZR 96/25](https://www.bundesarbeitsgericht.de/entscheidung/5-azr-96-25/), Rn. 19 und 53 bis 57, beachten: Eine für Vollzeit und Teilzeit gleiche 40-Stunden-Schwelle war im entschiedenen Tarifmodell unzulässig. Die Grenze proportional zur regelmäßigen Vollzeit herabsetzen; nicht jede Mehrstunde ab individueller Sollzeit automatisch bezuschlagen. Tarifgrundlage und Leistungszweck prüfen. Das Urteil verwies zur weiteren Aufklärung zurück.
+
+Bei vereinbartem Entgeltausschluss beachte [BAG, Urteil vom 30.07.2026, 2 AZR 96/24](https://www.bundesarbeitsgericht.de/entscheidung/2-azr-96-24/), Rn. 10–20: Kündigungsbedingten Annahmeverzug nicht vorab generell abbedingen, auch nicht durch Rechtswahl. Vertragsstatut und Günstigkeitsvergleich prüfen; keine allgemeine Unabdingbarkeit des Paragrafen 615 BGB und kein bereits feststehender Zahlungsbetrag.
 
 ## 1.6. Anspruchsgrundlagen und Zugangsnachweis
 

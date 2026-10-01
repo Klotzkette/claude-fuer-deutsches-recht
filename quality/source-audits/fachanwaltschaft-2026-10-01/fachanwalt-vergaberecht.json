@@ -1,0 +1,87 @@
+{
+  "plugin": "fachanwalt-vergaberecht",
+  "checked_on": "2026-10-01",
+  "status": "two_current_relevant_highest_court_anchors_verified_and_covered",
+  "scope": "Gezielte amtliche Quellenprüfung der unten genannten Passagen; lokaler Kontext und Arbeitsablauf der drei Prompts sowie betroffene Skillpassagen. Keine erneute Vollprüfung sämtlicher Fachskills oder Normen.",
+  "sources": [
+    {
+      "citation": "EuGH, Urteil vom 16.04.2026 – C-568/24, Sof Medica, ECLI:EU:C:2026:305",
+      "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=310678&doclang=EN",
+      "passages": "Rn. 33–64",
+      "application": "Technische Anforderungen müssen sachlich verhältnismäßig sein; objektive Rechtfertigung nicht zwingend schon bei Bekanntmachung veröffentlichen. Produkttypbindung ohne Gleichwertigkeitszusatz nur eng bei zwangsläufigem Sachbezug.",
+      "limit": "Fehlende Veröffentlichung ist keine materielle Rechtfertigung; keine Befreiung von nationalen Dokumentationspflichten. Nationales Gericht prüft konkrete OP-Räume.",
+      "retrieval": "Amtlicher englischer CURIA-Volltext, ausgewählte Gründe frisch gelesen",
+      "checked_on": "2026-10-01",
+      "previously_present": false
+    },
+    {
+      "citation": "EuGH, Beschluss vom 03.02.2026 – C-316/25, Regione Umbria, ECLI:EU:C:2026:135",
+      "url": "https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX%3A62025CO0316",
+      "passages": "Rn. 16–24 und Tenor",
+      "application": "Bloßer entgeltlicher Leistungseinkauf keine öffentliche Zusammenarbeit; tatsächliche gemeinsame Beiträge und Ziele verlangen.",
+      "limit": "Italienisches Kraftfahrzeugsteuerregister; horizontale Kooperation von vertikaler Inhouse-Vergabe trennen.",
+      "retrieval": "Amtlicher italienischer EUR-Lex-Volltext, Gründe und Tenor frisch gelesen; zuvor nur amtlicher Tenor geprüft",
+      "checked_on": "2026-10-01",
+      "previously_present": true
+    }
+  ],
+  "fresh_or_reused": "Alle 16 ausgewählten Dokumente dieser acht Plugins in diesem Lauf amtlich neu abgerufen. Frisch gelesene Passagen und nur aus Vorprüfung übernommene Teilpassagen stehen je Quelle ausdrücklich im Feld passages; ältere sonstige Quellen wurden nicht neu als verifiziert etikettiert.",
+  "local_files_reviewed": [
+    "fachanwalt-vergaberecht/fachanwalt-vergaberecht-hauptproblem.md",
+    "fachanwalt-vergaberecht/fachanwalt-vergaberecht-schnellstart.md",
+    "fachanwalt-vergaberecht/fachanwalt-vergaberecht-werkstatt.md",
+    "fachanwalt-vergaberecht/skills/angebotswertung-punktespiegel-rangfolgenkontrolle/SKILL.md",
+    "fachanwalt-vergaberecht/skills/fachanwalt-vergaberecht-inhouse-interkommunal/SKILL.md",
+    "fachanwalt-vergaberecht/skills/inhouse-interkommunal/SKILL.md",
+    "fachanwalt-vergaberecht/skills/juristischer-argumentationskern/SKILL.md",
+    "fachanwalt-vergaberecht/skills/leistungsbeschreibung-neutralitaet-funktional/SKILL.md"
+  ],
+  "changed_files": [
+    "fachanwalt-vergaberecht/fachanwalt-vergaberecht-schnellstart.md",
+    "fachanwalt-vergaberecht/fachanwalt-vergaberecht-werkstatt.md",
+    "fachanwalt-vergaberecht/skills/fachanwalt-vergaberecht-inhouse-interkommunal/SKILL.md",
+    "fachanwalt-vergaberecht/skills/inhouse-interkommunal/SKILL.md",
+    "fachanwalt-vergaberecht/skills/juristischer-argumentationskern/SKILL.md",
+    "fachanwalt-vergaberecht/skills/leistungsbeschreibung-neutralitaet-funktional/SKILL.md",
+    "quality/evals/fachanwalt-vergaberecht.json"
+  ],
+  "prompt_coverage": {
+    "werkstatt": {
+      "path": "fachanwalt-vergaberecht/fachanwalt-vergaberecht-werkstatt.md",
+      "characters": 23694,
+      "utf8_bytes": 24090,
+      "sha256": "631993878e0854692d99c8c8f28aa0bcf2ef8d86fd5f572f7fc9adb8a1909091",
+      "selected_source_urls_present": [
+        true,
+        true
+      ]
+    },
+    "schnellstart": {
+      "path": "fachanwalt-vergaberecht/fachanwalt-vergaberecht-schnellstart.md",
+      "characters": 6802,
+      "utf8_bytes": 6930,
+      "sha256": "c0816255edd1c55f5b20d6427be7eef87ccc72046a60fbded578b2ba97c95ec4",
+      "selected_source_urls_present": [
+        true,
+        true
+      ]
+    },
+    "hauptproblem": {
+      "path": "fachanwalt-vergaberecht/fachanwalt-vergaberecht-hauptproblem.md",
+      "characters": 7031,
+      "utf8_bytes": 7132,
+      "sha256": "12a66e3269643bed0147a945ec2987d3d053fe365fdf1ade497755b115b9b0a8",
+      "selected_source_urls_present": [
+        false,
+        false
+      ]
+    }
+  },
+  "focus_scope": "Hauptproblem Punktespiegel/Notenvergleich bleibt bei X ZB 3/17. Technische Mindestanforderungen und Direktvergabe tragen keine Benotungskorrektur; neue Anker deshalb in Werkstatt/Mini und Fachskills.",
+  "search_2026": "2026-Recherche Sof Medica und Regione Umbria: EUR-Lex-DE-Abruf zu Sof Medica teils leer, CURIA-EN unter juris.curia.europa.eu vollständig erreichbar; Regione Umbria im italienischen Volltext erreichbar.",
+  "validation": "UTF-8-Byte- und Zeichengrenzen; beide Direktlinks in Werkstatt und Mini sowie vorhandenen Skills; Profilhashes nachgeführt. Keine neuen Modelltests oder globalen Generatoren.",
+  "limits": [
+    "Nur bezeichnete Entscheidungs- und angrenzende Workflowpassagen überprüft; kein Versprechen vollständiger Rechtssicherheit.",
+    "Vorhandene Normfassungen, Altfundstellen und Testakten außerhalb des beschriebenen Eingriffs nicht umfassend neu geprüft."
+  ]
+}

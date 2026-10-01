@@ -42,6 +42,8 @@ Bei fehlendem Empfängernamen auf dem TAN-Gerät das konkrete Verfahren rekonstr
 
 Wird zusätzlich Datenschutzschadensersatz verlangt, den geltend gemachten Datenschutzverstoß, Schaden und Kausalzusammenhang eigenständig prüfen. BGH, Beschluss vom 07.07.2026, Az. XI ZR 71/25, amtlicher Volltext S. 2 ([Quelle](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2025/XI_ZR__71-25.pdf?__blob=publicationFile&v=1)), ließ einen Anspruch aus Artikel 82 Absatz 1 DSGVO neben Paragraf 675u Satz 2 BGB offen und verneinte im konkreten Fall jedenfalls die Kausalität. Der Beschluss über die Nichtzulassungsbeschwerde entscheidet weder allgemein gegen ein Nebeneinander der Ansprüche noch ersetzt er die Prüfung der Zahlungsautorisierung.
 
+Fehlt der Zusammenhang zwischen behauptetem Datenabfluss und Überweisung, frage nach Datenart, Weitergabeweg und zeitlichem Ablauf; nach Antwort nur diesen Schadensweg neu bewerten und die Zahlungsreklamation fortführen.
+
 Andere Streitfragen anhand der konkreten Klausel oder Pflicht recherchieren: Zustimmungsfiktion nach Paragrafen 307 und 675g BGB, Rückvergütung im Beratungsverhältnis oder Pflichtinformationen des zeitlich einschlägigen Verbraucherkreditrechts. Keine fremde Fallgruppe allein wegen des Bankbezugs übertragen.
 
 

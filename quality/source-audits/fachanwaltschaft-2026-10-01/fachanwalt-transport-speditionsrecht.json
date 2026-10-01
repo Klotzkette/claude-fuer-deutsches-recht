@@ -1,0 +1,76 @@
+{
+  "plugin": "fachanwalt-transport-speditionsrecht",
+  "checked_on": "2026-10-01",
+  "method": "fresh_official_primary_passages_and_targeted_text_review",
+  "scope": "Zwei aktuelle oberstgerichtliche Anker in Werkstatt, Mini und sachlich passenden vorhandenen Fachskills; Hauptproblem nur nach konkreter Einschlägigkeit.",
+  "decisions": [
+    {
+      "court": "BGH",
+      "decision_type": "Urteil",
+      "decision_date": "02.07.2026",
+      "docket": "I ZR 134/25",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2025/I_ZR_134-25.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-01",
+      "read_passages": "Rn. 19–20 frisch; Rn.58–68 aus bestehender dokumentierter Prüfung wiederverwendet",
+      "holding": "Bei qualifiziertem Verschulden Wahl zwischen Regel-Wertersatz und Schadensersatz aus Paragraf435HGB mit Paragrafen249,252BGB; keine Mischrechnung.",
+      "transfer_limit": "Wer Regel-Wertersatz wählt, trägt dessen Grenzen; Aufliegerfall belegt keinen Vorsatz beim Teilverlust; substanzrettende Kostenfrage nicht als entschieden behandeln.",
+      "retrieval": "Amtlicher BGH-PDF-Volltext frisch heruntergeladen; bezeichnete Passagen gelesen.",
+      "verification_status": "fresh_primary_passages_with_explicit_prior_passage_reuse",
+      "sha256": "d7777b6b71acf5c72ebd7a2c6e2a909af7ce5f4baae0eaae57ef2eed39d14673",
+      "citation": "BGH, Urteil vom 02.07.2026 – Az. I ZR 134/25"
+    },
+    {
+      "court": "BGH",
+      "decision_type": "Urteil",
+      "decision_date": "18.06.2026",
+      "docket": "I ZR 125/25",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2025/I_ZR_125-25.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-01",
+      "read_passages": "Rn. 14–17, 22–25, 35",
+      "holding": "Vertraglich vereinbartes besonderes Lademittel indiziert regelmäßig übernommene Verladung; Obhut dann ab Besitzergreifung zum Laden.",
+      "transfer_limit": "Bloße Hebebühne/Fahrerhilfe genügt nicht; Schadensursache/Mitverschulden nach Zurückverweisung offen, kein Beleg qualifizierten Verschuldens.",
+      "retrieval": "Amtlicher BGH-PDF-Volltext frisch heruntergeladen; bezeichnete Passagen gelesen.",
+      "verification_status": "fresh_primary_passages",
+      "sha256": "8c7caafc434f15aba4a0496cec32d61c0bcc1418c0c5884b8451a4d84c3a7e60",
+      "citation": "BGH, Urteil vom 18.06.2026 – Az. I ZR 125/25"
+    }
+  ],
+  "files_read_for_context": [
+    "fachanwalt-transport-speditionsrecht/fachanwalt-transport-speditionsrecht-hauptproblem.md",
+    "fachanwalt-transport-speditionsrecht/fachanwalt-transport-speditionsrecht-schnellstart.md",
+    "fachanwalt-transport-speditionsrecht/fachanwalt-transport-speditionsrecht-werkstatt.md",
+    "fachanwalt-transport-speditionsrecht/skills/teilverlust-packstueckabgleich-haftungsdurchbrechung/SKILL.md"
+  ],
+  "files_changed": [
+    "fachanwalt-transport-speditionsrecht/fachanwalt-transport-speditionsrecht-hauptproblem.md",
+    "fachanwalt-transport-speditionsrecht/fachanwalt-transport-speditionsrecht-schnellstart.md",
+    "fachanwalt-transport-speditionsrecht/fachanwalt-transport-speditionsrecht-werkstatt.md",
+    "fachanwalt-transport-speditionsrecht/skills/teilverlust-packstueckabgleich-haftungsdurchbrechung/SKILL.md"
+  ],
+  "changes": "Werkstattanker frisch abgeglichen; Mini bisheriger Verladungsanker mit amtlichem Direktlink versehen, Hauptproblem/Fokus um Verladung ergänzt. Ältere CMR-Beweislogik gestrafft ohne Regimeübertragung.",
+  "focus_scope": "Beide Anker tragen Schaden und Obhutsbeginn auch im Teilverlust-Hauptproblem/Fokusskill. Beweislast und fehlender Automatismus qualifizierten Verschuldens bleiben.",
+  "prompt_sizes": {
+    "schnellstart": {
+      "characters": 7296,
+      "utf8_bytes": 7399,
+      "sha256": "7024139c578daed4a9dbc5b7bdab246cc1b65ab9ab94e6051da487457c693712"
+    },
+    "hauptproblem": {
+      "characters": 7262,
+      "utf8_bytes": 7376,
+      "sha256": "90fa04e72d5e0cefbd12dfec8be3c21301d41f719b4aad7ed5c8ec84ab6449de"
+    },
+    "werkstatt": {
+      "characters": 22813,
+      "utf8_bytes": 23138,
+      "sha256": "834c3bc9c9a2bf76e29c8b3842c1c4e3b371620328b65dc7cd9a56bb5df4c94b"
+    }
+  },
+  "text_mirrors": "Keine vorhandenen TXT-Spiegel in diesem Plugin; keine neuen Doppelkopien erzeugt.",
+  "limits": [
+    "Keine Vollverifikation aller Altentscheidungen oder aller Fachskills.",
+    "Kein neuer Live-Modell-, Mandats-, Export- oder Dokumentrendertest.",
+    "Vorhandene Regulierungs- und Spezialanker außerhalb der bezeichneten Entscheidungen nicht umfassend neu geprüft."
+  ],
+  "search_2026_result": "Mindestens eine passende 2026-Entscheidung frisch amtlich abgeglichen; ältere einschlägige Spezialanker nicht bloß wegen ihres Datums ersetzt."
+}

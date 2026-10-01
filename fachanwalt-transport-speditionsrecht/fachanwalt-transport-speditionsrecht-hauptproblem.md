@@ -1,6 +1,6 @@
 # 1. Verdeckten Teilverlust einer Stückgutsendung aufklären
 
-Klären Sie, ob der fehlende Inhalt der quittierten Stückgutsendung während der Frachtführerobhut entnommen wurde und welche Pack-, Wiege- und Öffnungsnachweise dies tragen. Vergleichen Sie den belegten Schaden mit der Gewichtshaftung und begründen Sie eine mögliche Haftungsdurchbrechung in der beauftragten Anspruchsbegründung oder Erwiderung.
+Klären Sie anhand der Pack-, Wiege- und Öffnungsnachweise, ob Inhalt während der Frachtführerobhut entnommen wurde. Vergleichen Sie Schaden und Gewichtshaftung; begründen Sie die Haftungsdurchbrechung in der bestellten Anspruchsbegründung oder Erwiderung.
 
 ## 1.1. Akte und Regime zuerst
 
@@ -20,11 +20,13 @@ Ermitteln Sie Warenwert bei Übernahme, verlorene Menge, Restwert und Nebenkoste
 
 Nach Paragraf 438 HGB sind erkennbarer Schaden bei Ablieferung und verdeckter Schaden binnen sieben Tagen von der 21-Tage-Anzeige bei Lieferfristüberschreitung zu trennen. Eine unterlassene Verlustanzeige begründet eine Vermutung, keinen automatischen Verlust des Ersatzanspruchs. Prüfen Sie Verjährung nach Paragraf 439, Anspruchserhebung, Ablehnung und Zugang separat für jedes Regressglied. Eine erneute Erklärung desselben Anspruchs hemmt nicht erneut.
 
+Bei Verladung [BGH, Urteil vom 18.06.2026 – Az. I ZR 125/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2025/I_ZR_125-25.pdf?__blob=publicationFile&v=1), Rn. 14–25, 35: Besonderes Lademittel vertraglich zugesagt: regelmäßig Verladung übernommen, Obhut ab Besitz zum Laden. Auftrag beiziehen; Hebebühne oder Fahrerhilfe allein genügen nicht. Schadensursache und Mitverschulden blieben offen.
+
 ## 1.3. Quellen
 
 Amtliche Startpunkte: [Paragraf 431 HGB](https://www.gesetze-im-internet.de/hgb/__431.html), [Paragraf 435](https://www.gesetze-im-internet.de/hgb/__435.html), [Paragraf 438](https://www.gesetze-im-internet.de/hgb/__438.html), [Paragraf 439](https://www.gesetze-im-internet.de/hgb/__439.html).
 
-BGH, Urteil vom 13.06.2012, Az. I ZR 87/11, [amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2011/I_ZR__87-11.pdf?__blob=publicationFile&v=1), Randnummern 16 bis 20: Legen Öffnung, Entnahme und Wiederverschluss während der Obhut qualifiziertes Verschulden nahe, muss der Frachtführer Transportlauf, Schnittstellenkontrollen und Sicherheitsmaßnahmen näher darlegen. Die ursprüngliche Beweislast bleibt bestehen. Den zu Artikel 29 CMR entwickelten Darlegungsgrundsatz begründet auf Paragraf 435 HGB übertragen, nicht das gesamte Regime. Nach Randnummern 26 bis 28 genügt Wertwarnung nur bei noch möglicher rechtzeitiger Reaktion im normalen Geschäftsgang; Vertragsabschluss ist nicht zwingend die späteste Grenze.
+BGH, Urteil vom 13.06.2012 – Az. I ZR 87/11, [Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2011/I_ZR__87-11.pdf?__blob=publicationFile&v=1), Rn. 16–20: Konkrete Indizien für Öffnung, Entnahme und Wiederverschluss während der Obhut können sekundäre Darlegung zu Transportlauf und Sicherung auslösen; ursprüngliche Beweislast bleibt. Die Darlegungslogik aus Artikel 29 CMR begründet auf Paragraf 435 HGB übertragen, nicht das Regime. Rn. 26–28: Wertwarnung muss rechtzeitige Reaktion im Geschäftsgang erlauben, nicht zwingend vor Vertragsschluss; keine feste Kürzungsquote.
 
 Für die Alternativrechnung: BGH, Urteil vom 02.07.2026, Az. I ZR 134/25, [amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2025/I_ZR_134-25.pdf?__blob=publicationFile&v=1), Randnummern 19 bis 20 und 58 bis 68. Bei qualifiziertem Verschulden besteht die Wahl zwischen Wertersatz nach Paragraf 429 HGB mit dessen Grenzen und Schadensersatz nach Paragraf 435 HGB in Verbindung mit Paragrafen 249 und 252 BGB. Keine Mischrechnung. Bergungskosten sind keine sonstigen Beförderungskosten nach Paragraf 432 Satz 1; die besondere Frage substanzrettender Kosten im Wertersatz blieb offen. Der Aufliegerfall belegt weder Teilverlust noch qualifiziertes Verschulden Ihrer Sendung.
 
@@ -38,4 +40,4 @@ Vollständige Sätze, dezimale Gliederung, echte Umlaute, Paragraf ausgeschriebe
 
 ## 1.5. Technische Grenzen
 
-Eigenständig ohne weitere Skills ausführbar; ohne Export vollständigen Text liefern. Fehlenden Datei- oder Quellenzugriff und ungelesenes Material in einer getrennten Arbeitsnotiz benennen, nicht im Schreiben. Keine vollständige Prüfung oder externe Handlung behaupten, die nicht stattgefunden hat.
+Ohne weitere Skills weiterarbeiten; ohne Export Text liefern. Fehlenden Zugriff und ungelesenes Material in einer Arbeitsnotiz benennen. Nur erfolgte Prüfungen und Handlungen als erledigt ausgeben.

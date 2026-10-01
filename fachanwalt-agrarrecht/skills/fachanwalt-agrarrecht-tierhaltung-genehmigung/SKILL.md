@@ -13,11 +13,11 @@ Genehmigung von Stallneubau oder Stallerweiterung mit immissionsschutzrechtliche
 
 1. **Welche Tierart und wie viele Tierplätze?** — Bestimmt den Schwellenwert (4. BImSchV Anhang) für immissionsschutzrechtliches oder Bau-Genehmigungsverfahren.
 2. **Neubau oder Erweiterung?** — Bei Erweiterung UVP-Vorprüfung wegen kumulativer Wirkung mit Bestandsanlage; Bestandsschutz nur für genehmigte Teile.
-3. **Lage: Innen- oder Außenbereich?** — Im Außenbereich nur privilegiertes Vorhaben nach § 35 Abs. 1 BauGB; Massentierhaltung ohne Futterbasis oft nicht privilegiert.
+3. **Lage: Innen- oder Außenbereich?** — Im Außenbereich Privilegierung nach Paragraf 35 Absatz 1 BauGB, sonst Absatz 2 und gegebenenfalls Begünstigung nach Absatz 4 prüfen.
 4. **Abstand zu Wohngebieten?** — TA Luft-Vorgaben + GIRL-Richtwerte; Geruchsgutachten erforderlich.
 5. **FFH- oder Vogelschutzgebiet in der Nähe?** — § 34 BNatSchG Verträglichkeitsprüfung; erhöhte Anforderungen bei Schutzgebiet in 1–5 km-Radius.
 6. **Besteht Bürgerinitiative oder Nachbarwiderspruch?** — Im förmlichen Verfahren zwingend Öffentlichkeitsbeteiligung; im vereinfachten Verfahren nicht.
-7. **Ist die Futtergrundlage im eigenen Betrieb vorhanden?** — BGH-Linie: BauGB-Privilegierung nur bei überwiegender Futterbasis auf eigenen Flächen; Massentierhaltung mit Zukauf-Futter oft nicht privilegiert.
+7. **Ist die Futtergrundlage im eigenen Betrieb vorhanden?** — Für den tatsächlichen Gesamtbetrieb nach Paragraf 201 BauGB prüfen, ob Futter überwiegend auf den zum Betrieb gehörenden Flächen erzeugt werden kann; nicht allein Eigentum oder tatsächlichen Futterzukauf abfragen.
 8. **Tierschutzstandards im Neubau geplant?** — TierSchNutztV-Mindestnormen sind seit Planungsbeginn einzuhalten; Nachbesserungen im Verfahren kosten Zeit und Geld.
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
@@ -34,8 +34,8 @@ Genehmigung von Stallneubau oder Stallerweiterung mit immissionsschutzrechtliche
 
 ### Bauplanungsrecht
 
-- **§ 35 Abs. 1 Nr. 1 BauGB** — Privilegierung im Außenbereich: landwirtschaftliches Vorhaben mit Standortgebundenheit.
-- **§ 201 BauGB** — Landwirtschaft-Begriff: bodenbezogene Bodennutzung; Tierhaltung nur wenn überwiegende Futterbasis aus eigenen Flächen.
+- **§ 35 Abs. 1 Nr. 1 BauGB** — Dem landwirtschaftlichen Betrieb dienendes Vorhaben, das nur einen untergeordneten Teil der Betriebsfläche einnimmt; keine allgemeine Standortgebundenheit verlangen.
+- **§ 201 BauGB** — Landwirtschaft-Begriff: bodenbezogene Bodennutzung; Tierhaltung, soweit Futter überwiegend auf den zum landwirtschaftlichen Betrieb gehörenden, landwirtschaftlich genutzten Flächen erzeugt werden kann.
 
 ### Tierschutzrecht
 
@@ -46,6 +46,8 @@ Genehmigung von Stallneubau oder Stallerweiterung mit immissionsschutzrechtliche
 
 - **§ 5 UVPG** i.V.m. Anlage 1 — UVP-Pflicht ab Schwellenwerten; bei Erweiterungen Vorprüfung nach § 9 UVPG.
 - **§ 34 BNatSchG** — FFH-Verträglichkeitsprüfung bei Projekten in oder nahe Schutzgebieten.
+
+[BVerwG, Urteil vom 24.06.2026 – 4 C 2.25](https://www.bverwg.de/de/240626U4C2.25.0), Rn. 7–14, 19–24: Bei Stalländerungen nach Paragraf 29 BauGB das Gesamtvorhaben in geänderter Gestalt prüfen. Tierbestand und mögliche Futtererzeugung des tatsächlich einheitlichen Betriebs zusammenrechnen; frühere getrennte Genehmigungen als landwirtschaftliche und gewerbliche Haltung entscheiden dies nicht. Fordere Betriebsorganisation, Flächenbindungen und Futterbilanz für alle Tiere an. Scheitert Paragraf 35 Absatz 1 Nummer 1 oder 4 BauGB, gegebenenfalls Absatz 4 Satz 1 Nummer 6 gesondert prüfen. Zurückverweisung bedeutet keine Baugenehmigung; ein Gesetzentwurf entfaltet keine Vorwirkung.
 
 ### Leitentscheidungen
 
