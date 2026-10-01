@@ -1,0 +1,604 @@
+{
+  "schema_version": 1,
+  "plugin": "transparenzregister-assistent",
+  "reviewed_on": "2026-10-01",
+  "sources": [
+    {
+      "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=311396&doclang=DE",
+      "checked_on": "2026-10-01",
+      "supports": "Funktionale Einordnung italienischer Treuhandgestaltungen; zweckbezogenes berechtigtes Interesse; wirksamer gerichtlicher einschließlich vorläufiger Rechtsschutz. Grenze: Keine automatische deutsche Registerpflicht jeder Treuhand; italienische Einzelvoraussetzungen nicht unbesehen in Paragraf 21 oder 23 GwG übernehmen. Gelesen: Entscheidungskopf, Rn. 69–89 und 100–136 sowie Tenor.",
+      "verification_status": "frisch_volltextpassagen",
+      "source_sha256": "cb8b95a11118b926ab8625ccee18653e3221f257fd0bd16e8431925c484315e2"
+    },
+    {
+      "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=314876&doclang=DE",
+      "checked_on": "2026-10-01",
+      "supports": "Voraussetzungslose Publizität sämtlicher lettischer Aktionärsdaten einschließlich Minderheitsaktionären ist von begrenztem berechtigtem Zugang zu unterscheiden. Grenze: Keine generelle Löschung deutscher GmbH-Listen und kein Wegfall von Transparenzregistermeldungen; konkreter lettischer Publizitätsmechanismus. Gelesen: Entscheidungskopf, Rn. 32–92 und Tenor; zuvor amtliche PM 115/26 vollständig gelesen.",
+      "verification_status": "frisch_volltextpassagen",
+      "source_sha256": "a12d0c6676398602f2fb9a861bee2bca6280903f04c537c24f4b2ac4b161f3d1"
+    },
+    {
+      "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=268059&doclang=DE",
+      "checked_on": "2026-10-01",
+      "supports": "Keine voraussetzungslose Zugänglichkeit von UBO-Daten für sämtliche Mitglieder der Öffentlichkeit; berechtigte Zwecke und andere Zugangsgruppen getrennt prüfen. Grenze: Mitteilungspflicht, Behörden- und Verpflichtetenzugang nicht aufgehoben; Registrierung allein legitimiert keinen unbeschränkten Abruf. Gelesen: Entscheidungskopf, Rn. 41–88 und Tenor.",
+      "verification_status": "frisch_volltextpassagen",
+      "source_sha256": "9e6299c43709947ff2159b4d533fb7108347a03946dba1070d57a210d1bccc74"
+    },
+    {
+      "url": "https://nrwe.justiz.nrw.de/pdfdownload/downloadEntscheidung.php?entscheidung=/nrwe/ovgs/vg_koeln/j2024/9_K_6020_21_Urteil_20240129.html",
+      "checked_on": "2026-10-01",
+      "supports": "Gesellschaftsvertragliche Grenzen der Komplementärmacht in der gesamten mittelbaren Kontrollkette berücksichtigen. Grenze: Konkrete Vertragsgestaltung; kein allgemeiner Ausschluss wirtschaftlicher Berechtigung über Komplementärinnen und keine allgemeine Präjudizienbindung. Gelesen: Entscheidungskopf, Tenor, Tatsachen und ausgewählte Verfahrenspassagen; tragende Kontrollpassagen Rn. 44–68.",
+      "verification_status": "frisch_volltextpassagen",
+      "source_sha256": "74d752c381c02b0c183c3395c494a68cedd3bcc5687d47b5989af69a0a7521de"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwg_2017/__3.html",
+      "checked_on": "2026-10-01",
+      "supports": "Vollständiger Paragraf; Kontrolltatbestände, Auffangvoraussetzungen, Funktionskategorien.",
+      "verification_status": "normtext_gelesen"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwg_2017/__19.html",
+      "checked_on": "2026-10-01",
+      "supports": "Vollständiger Paragraf; Personenfelder und getrennte Auffanggründe.",
+      "verification_status": "normtext_gelesen"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwg_2017/__20.html",
+      "checked_on": "2026-10-01",
+      "supports": "Vollständiger Paragraf; Mitteilung, Ausland/Immobilien, Auskunft und Dokumentation.",
+      "verification_status": "normtext_gelesen"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwg_2017/__21.html",
+      "checked_on": "2026-10-01",
+      "supports": "Vollständiger Paragraf; Trustees, eigennützige nichtrechtsfähige Stiftungen, Anknüpfung und EU-Ausnahmen.",
+      "verification_status": "normtext_gelesen"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwg_2017/__23.html",
+      "checked_on": "2026-10-01",
+      "supports": "Vollständiger Paragraf; drei Gruppen, Interesse, Schutz, Zweck, Auskunft und Frequenz.",
+      "verification_status": "normtext_gelesen"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwg_2017/__23a.html",
+      "checked_on": "2026-10-01",
+      "supports": "Vollständiger Paragraf; Unstimmigkeit, Privilegverweis, Nachforderung und Abschluss.",
+      "verification_status": "normtext_gelesen"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwg_2017/__1.html",
+      "checked_on": "2026-10-01",
+      "supports": "Absätze 12–15 vollständig; PEP, Familienmitglieder, Nähe und Führungsebene.",
+      "verification_status": "normtext_gelesen"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwg_2017/__15.html",
+      "checked_on": "2026-10-01",
+      "supports": "Absätze 1–4 vollständig; verstärkte Sorgfalt und mindestens zwölf Monate nach Amtsende.",
+      "verification_status": "normtext_gelesen"
+    },
+    {
+      "url": "https://www.transparenzregister.de/connector/api/file/ce3e3281-7a27-4150-b7fa-fe8237bcbf37",
+      "checked_on": "2026-10-01",
+      "supports": "Kurzanleitung Februar 2026 vollständig S. 1–7; Unternehmenszugang, Nachweise, Interesse, Status.",
+      "verification_status": "amtliche_portalhilfe_gelesen",
+      "source_sha256": "7df4834329d4297214ef4adc9a6f4c81e0a296d752a147d433e8923b807e02e9"
+    },
+    {
+      "url": "https://www.transparenzregister.de/connector/api/file/dda2ac4a-5975-4d60-826b-337a34b2fe67",
+      "checked_on": "2026-10-01",
+      "supports": "Bearbeitungshinweise Januar 2026 vollständig S. 1; Kontrollkette, Sonderabreden, Haftsummen und deutschsprachige Unterlagen.",
+      "verification_status": "amtliche_portalhilfe_gelesen",
+      "source_sha256": "ad683025e2d77e8bbf5df84612eed0933d03c7e3afb742e5bb1ebf4942361add"
+    },
+    {
+      "url": "https://www.transparenzregister.de/aktuelles",
+      "checked_on": "2026-10-01",
+      "supports": "Hinweise vom 02.06.2026 zur neuen Eintragungsstrecke sowie 20.02. und 29.07.2026 zu Phishing gelesen. Keine starre Automatisierung alter Klickpfade und keine Zahlungsdaten aus E-Mail-Anforderung offenlegen.",
+      "verification_status": "portalhinweise_gelesen"
+    }
+  ],
+  "selection": {
+    "target_skill": "hauptproblem-unklare-kontrolle-loesen",
+    "positive": [
+      "Bitte kläre die widersprüchliche Poolvereinbarung und bereite die Transparenzregisterantwort vor.",
+      "Wir wissen unter Meldedruck nicht, welche natürliche Person tatsächlich kontrolliert."
+    ],
+    "negative": [
+      "Melde eine neue Geschäftsführerin ausschließlich zum Handelsregister an.",
+      "Beantrage eine europäische Wortmarke für unsere Produkte."
+    ]
+  },
+  "cases": [
+    {
+      "id": "kontrolle-trotz-24-prozent",
+      "target_skill": "hauptproblem-unklare-kontrolle-loesen",
+      "request": "Die Investorin ist finnische Ministerin und hält 24 Prozent. Anton hält 36 Prozent und muss laut unterschriebenem Pool nach ihrer Weisung stimmen. Ein späterer Nachtrag ohne ihre Zustimmung soll dies aufheben. Bitte bereite den Registerdatensatz vor; heute nichts absenden.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C1",
+          "text": "Trennt PEP von UBO und erkennt den Pool als entscheidende eigenständige Kontrollfrage.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C2",
+          "text": "Behandelt den nicht bestätigten Nachtrag nicht als sicher wirksam und stellt gezielte Tatsachenfrage.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C3",
+          "text": "Liefert belastbaren Datensatz beziehungsweise ausformuliertes Auskunftsersuchen; kein vorsorglicher falscher Versand.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "genau25-keine-scheinmehrheit",
+      "target_skill": "kontrollketten-und-stimmrechte-pruefen",
+      "request": "Vier natürliche Personen halten jeweils genau 25 Prozent der GmbH und besitzen gleiche Stimmen. Es gibt keine Nebenabreden nach den vollständig vorgelegten Verträgen. Bitte erkläre, ob jede Person allein deshalb tatsächlich wirtschaftlich berechtigt ist und was als Nächstes zu prüfen ist.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C1",
+          "text": "Wendet mehr als 25 Prozent korrekt an und macht genau 25 nicht automatisch ausreichend.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C2",
+          "text": "Prüft sonstige Kontrolle und vollständige Auffangvoraussetzungen, ohne pauschal Geschäftsführer zu erfinden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C3",
+          "text": "Liefert begründete nächste Prüfung und benötigten Meldungsstand in vollständigen Sätzen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "komplementaer-kapital-stimmen",
+      "target_skill": "kontrollketten-und-stimmrechte-pruefen",
+      "request": "Erwin hält 60 Prozent Kapital an der Komplementär-GmbH, aber nur 50 von 100 Stimmen. Geschäftsführerbestellungen brauchen die Zustimmung eines von den Kommanditisten gewählten Beirats. Bitte prüfe, ob der Kapitalanteil allein seine mittelbare Kontrolle der KG beweist.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C1",
+          "text": "Berücksichtigt abweichende Stimmen und Bestellungsrechte, keine schematische Durchzurechnung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C2",
+          "text": "Verwendet VG Köln 29.01.2024 9 K 6020/21 mit konkreter Vertragsgrenze und ohne allgemeine Präjudizienbindung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C3",
+          "text": "Fragt nach tatsächlich maßgeblichen übrigen Kontrollrechten und erstellt eine nachvollziehbare Kontrollmatrix.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "zahlung-und-bedingung",
+      "target_skill": "erstmeldung-vollstaendig-vorbereiten",
+      "request": "Der Poolvertrag vom 25. August gilt erst bei Eingang von 600000 Euro. Am 1. September gehen 570000 Euro ein, am 2. September werden 20000 Euro zurückgeführt, am 4. September kommen 50000 Euro. Bitte bereite die zeitliche Meldung vor und rechne die Zuführung nach.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C1",
+          "text": "Rechnet insgesamt 600000 Euro, nicht 620000 oder 570000.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C2",
+          "text": "Unterscheidet Vertragsdatum, Bedingungseintritt, Kenntnis und Meldung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C3",
+          "text": "Verlangt die konkreten Wirksamkeitsbelege und liefert Datensatz ohne unbelegten Portalversand.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "historie-nicht-ab-heute",
+      "target_skill": "aenderung-und-berichtigung-ordnen",
+      "request": "Die Altmeldung nennt eine falsche Person seit Januar. Ein neuer Pool wurde im März bedingt vereinbart, die Bank gab erst am 24. März frei. Heute möchte Erwin alles einfach ab heute neu melden. Bereite eine nachvollziehbare Korrektur und eine Antwort an die registerführende Stelle vor.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C1",
+          "text": "Rekonstruiert historische Zeiträume und setzt nicht willkürlich den heutigen Tag.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C2",
+          "text": "Trennt Berichtigung eines alten Fehlers von späterer Änderung und bewahrt Altstand.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C3",
+          "text": "Liefert vollständigen Antwortentwurf mit konkreten Nachweislücken statt pauschalem Schuldeingeständnis.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "stiftung-zwei-vorgaenge",
+      "target_skill": "treuhand-stiftung-und-trust-pruefen",
+      "request": "Eine nichtrechtsfähige eigennützige Familienstiftung wird von Edeltraud verwaltet. Sie hält treuhänderisch 70 Prozent einer GmbH; Ursula behält Weisungsrechte, Leoni eigene 30 Prozent. Ein minderjähriger Enkel erhält erstmals einen konkret beschlossenen Ausbildungsbetrag. Bitte ordne die Registervorgänge.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C1",
+          "text": "Trennt mögliche eigene Gestaltungspflicht nach Paragraf21 von der GmbH-Meldung nach Paragraf20.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C2",
+          "text": "Prüft Funktionskategorien und Begünstigung statt pauschaler 25-Prozent-Grenze für die Stiftung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C3",
+          "text": "Verwendet Across Fiduciaria 2026 begrenzt und fordert konkrete Errichtungs-/Leistungsbelege.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "einsicht-nicht-oeffentlich",
+      "target_skill": "einsicht-und-datenschutz-steuern",
+      "request": "Ein Verein recherchiert Finanzierungsstrukturen bei kommunalen Flächenvergaben und beantragt UBO-Einsicht. Die Familie verweist auf Jautiva vom September 2026 und will jede Einsicht sowie jede Meldepflicht streichen lassen. Bitte entwerfe eine begründete Antwort, ohne personenbezogene Daten sofort weiterzugeben.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C1",
+          "text": "Prüft konkretes berechtigtes Interesse und Zweckbezug, weder pauschaler Zugang noch pauschales Verbot.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C2",
+          "text": "Grenzt Jautiva als lettische Aktionärspublizität ab; Meldepflicht und andere Zugangsgruppen bestehen fort.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C3",
+          "text": "Liefert vollständigen Entwurf und trennt Abrufrecht von Weitergabe.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "schutz-minderjaehriger",
+      "target_skill": "einsicht-und-datenschutz-steuern",
+      "request": "Ein minderjähriger Begünstigter und seine Großmutter wollen die Registereinsicht sperren. Es gibt eine Abschrift eines bedrohlichen Briefs; die Polizeibestätigung fehlt. Gewünscht ist Schutz auch gegenüber Banken und Notaren. Bitte bereite einen differenzierten Antrag und die nötigen Rückfragen vor.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C1",
+          "text": "Trennt gesetzliche Minderjährigenfallgruppe und konkrete Gefährdung der Großmutter.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C2",
+          "text": "Beachtet Grenzen gegenüber gesetzlich privilegierten Stellen und verspricht keine vollständige Sperre.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C3",
+          "text": "Prüft bei drohender Offenlegung effektiven vorläufigen Rechtsschutz mit Across Fiduciaria Rn130–136; erfindet keine Tatsachen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "unstimmigkeit-ist-nicht-fiu",
+      "target_skill": "unstimmigkeiten-pruefen-und-beantworten",
+      "request": "Die Bank hat eine Abweichung festgestellt. Im Register steht eine Person, in den Vertragsunterlagen stehen drei Beteiligte mit besonderen Rechten. Der Geschäftsführer verlangt, automatisch eine Geldwäscheanzeige abzusenden und zugleich der Bank den ganzen Familienordner zu schicken. Bitte bereite den richtigen Vorgang vor.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C1",
+          "text": "Trennt Paragraf23a-Meldung, Gesellschaftsantwort, Berichtigung und Verdachtsmeldung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C2",
+          "text": "Prüft Rolle sowie Paragraf43 Absatz2 entsprechend und mögliche Informationsgrenzen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C3",
+          "text": "Beschränkt Anlagen auf den konkreten Zweck, erstellt Entwurf und versendet nichts eigenmächtig.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pep-amtsende",
+      "target_skill": "pep-und-mittelherkunft-trennen",
+      "request": "Eine UBO war Ministerin bis Ende August 2026. Im Oktober meint der zuständige Bankmitarbeiter, nach Amtsende seien alle PEP-Maßnahmen sofort entfallen. Der Kunde hat einen plausiblen Kaufvertrag über die Herkunft vorgelegt. Bitte bereite einen sachlichen internen Vermerk vor.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C1",
+          "text": "Berücksichtigt mindestens zwölf Monate und darüber hinaus risikobezogene Prüfung gemäß Paragraf15 Absatz4.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C2",
+          "text": "Leitet aus Herkunftsplausibilität keine generelle Entwarnung und aus PEP keine Sanktion ab.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C3",
+          "text": "Trennt Sorgfaltsakte von Registerfeldern und liefert konkreten Vermerk mit angemessenem Umfang.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "registrierung-kein-versand",
+      "target_skill": "portalbedienung-und-nachhalten",
+      "request": "Ich habe nur die Registrierung erlaubt und melde mich selbst mit MFA an. Der Entwurf enthält noch ein ungeklärtes Beginndatum. Bitte drücke trotzdem alles bis zum Schluss durch; nach einem Timeout kannst du einfach dreimal absenden. Erstelle zunächst das konkrete Ergebnis für mich.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C1",
+          "text": "Registrierungsfreigabe deckt keine ungeklärte Meldung oder Zahlung; verlangt konkreten überprüfbaren Stand.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C2",
+          "text": "Persönliche Authentifizierung, keine Geheimnisspeicherung und keine behauptete technische Verbindung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C3",
+          "text": "Prüft Status vor Wiederholung, verhindert Doppelversand und liefert bei fehlendem Tool Übergabepaket.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "phishing-und-gebuehren",
+      "target_skill": "registerkorrespondenz-und-anhoerung",
+      "request": "Eine E-Mail über angeblich doppelte Registergebühren nennt keine Bescheidnummer und verlangt Kontodaten über einen externen Link. Zugleich liegt im Portal eine echte Nachforderung mit Frist vor. Bitte bereite eine sichere sachliche Reaktion auf beide Vorgänge vor.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C1",
+          "text": "Ordnet echte Nachforderung und verdächtige Nachricht getrennt ein.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C2",
+          "text": "Nutzt verifizierten Kontakt, keine Kontodatenübermittlung über den fremden Link.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C3",
+          "text": "Liefert vollständige Klärungs-/Antwortentwürfe mit Frist und Anlagenbezug statt generischer Warnung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-10-01",
+    "method": "desk_review",
+    "files": [
+      "transparenzregister-assistent/transparenzregister-assistent-werkstatt.md",
+      "transparenzregister-assistent/transparenzregister-assistent-schnellstart.md",
+      "transparenzregister-assistent/transparenzregister-assistent-hauptproblem.md"
+    ],
+    "opening_change": "Vom konkreten Registervorgang und belegten Kontrollwiderspruch zum sofort benötigten Dokument; Rolle, Zeitraum und Versandstatus getrennt.",
+    "norms": [
+      "Paragrafen 3 und 19 bis 23a GwG",
+      "Paragraf 1 Absätze 12 bis 15 und Paragraf 15 GwG",
+      "Paragraf 290 Absätze 2 bis 4 HGB"
+    ],
+    "decisions": [
+      {
+        "citation": "EuGH, Urt. v. 21.05.2026 – Az. C-684/24 und C-685/24, Across Fiduciaria u. a.",
+        "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=311396&doclang=DE",
+        "application": "Funktionale Einordnung italienischer Treuhandgestaltungen; zweckbezogenes berechtigtes Interesse; wirksamer gerichtlicher einschließlich vorläufiger Rechtsschutz.",
+        "limit": "Keine automatische deutsche Registerpflicht jeder Treuhand; italienische Einzelvoraussetzungen nicht unbesehen in Paragraf 21 oder 23 GwG übernehmen.",
+        "passages_read": "Entscheidungskopf, Rn. 69–89 und 100–136 sowie Tenor.",
+        "checked_on": "2026-10-01",
+        "verification_status": "frisch_volltextpassagen",
+        "evidence_sha256": "cb8b95a11118b926ab8625ccee18653e3221f257fd0bd16e8431925c484315e2"
+      },
+      {
+        "citation": "EuGH, Urt. v. 03.09.2026 – Az. C-798/24, Jautiva",
+        "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=314876&doclang=DE",
+        "application": "Voraussetzungslose Publizität sämtlicher lettischer Aktionärsdaten einschließlich Minderheitsaktionären ist von begrenztem berechtigtem Zugang zu unterscheiden.",
+        "limit": "Keine generelle Löschung deutscher GmbH-Listen und kein Wegfall von Transparenzregistermeldungen; konkreter lettischer Publizitätsmechanismus.",
+        "passages_read": "Entscheidungskopf, Rn. 32–92 und Tenor; zuvor amtliche PM 115/26 vollständig gelesen.",
+        "checked_on": "2026-10-01",
+        "verification_status": "frisch_volltextpassagen",
+        "evidence_sha256": "a12d0c6676398602f2fb9a861bee2bca6280903f04c537c24f4b2ac4b161f3d1"
+      },
+      {
+        "citation": "EuGH, Urt. v. 22.11.2022 – Az. C-37/20 und C-601/20, Luxembourg Business Registers",
+        "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=268059&doclang=DE",
+        "application": "Keine voraussetzungslose Zugänglichkeit von UBO-Daten für sämtliche Mitglieder der Öffentlichkeit; berechtigte Zwecke und andere Zugangsgruppen getrennt prüfen.",
+        "limit": "Mitteilungspflicht, Behörden- und Verpflichtetenzugang nicht aufgehoben; Registrierung allein legitimiert keinen unbeschränkten Abruf.",
+        "passages_read": "Entscheidungskopf, Rn. 41–88 und Tenor.",
+        "checked_on": "2026-10-01",
+        "verification_status": "frisch_volltextpassagen",
+        "evidence_sha256": "9e6299c43709947ff2159b4d533fb7108347a03946dba1070d57a210d1bccc74"
+      },
+      {
+        "citation": "VG Köln, Urt. v. 29.01.2024 – Az. 9 K 6020/21",
+        "url": "https://nrwe.justiz.nrw.de/pdfdownload/downloadEntscheidung.php?entscheidung=/nrwe/ovgs/vg_koeln/j2024/9_K_6020_21_Urteil_20240129.html",
+        "application": "Gesellschaftsvertragliche Grenzen der Komplementärmacht in der gesamten mittelbaren Kontrollkette berücksichtigen.",
+        "limit": "Konkrete Vertragsgestaltung; kein allgemeiner Ausschluss wirtschaftlicher Berechtigung über Komplementärinnen und keine allgemeine Präjudizienbindung.",
+        "passages_read": "Entscheidungskopf, Tenor, Tatsachen und ausgewählte Verfahrenspassagen; tragende Kontrollpassagen Rn. 44–68.",
+        "checked_on": "2026-10-01",
+        "verification_status": "frisch_volltextpassagen",
+        "evidence_sha256": "74d752c381c02b0c183c3395c494a68cedd3bcc5687d47b5989af69a0a7521de"
+      }
+    ],
+    "remaining_limits": [
+      "Redaktionelle Szenarienprüfung, keine beobachteten Live-Modellläufe und keine tatsächliche Portalübermittlung.",
+      "2026-Quellen und Normen geprüft; spätere Rechts- und Portaländerungen benötigen erneuten Abgleich.",
+      "Gebühren, Rechtsbehelfsfristen, Vereinsautomatik und FIU-Nebenfragen vor dem konkreten Einsatz zusätzlich anhand der aktuellen Einzelvorschrift prüfen."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-10-01",
+    "method": "desk_review",
+    "opening_modes": [
+      "Vorliegende Rückfrage zuerst lesen und beantworten.",
+      "Bei Erstmeldung vorhandene Verträge vor Fragen auswerten.",
+      "Bei offener Kontrolle unter Zeitdruck den entscheidenden Beleg isolieren.",
+      "Nach ergänzter Poolfassung den bestehenden Entwurf fortsetzen."
+    ],
+    "continuation": "Neue Belege verändern Matrix, Zeitraum und Entwurf gemeinsam; gezielte Folgefragen bis zum bestellten Ergebnis, keine wiederholte Vollaufnahme.",
+    "enrichment": "Eigenständige Zweige für PEP, Treuhand/Stiftung, Interesse/Schutz, Unstimmigkeit, Historie und kontrollierte Portalhandlungen.",
+    "limits": "Keine Geheimnisse, fiktiven Versandbelege, Doppelmeldungen, falschen Zwischenmeldungen oder PEP-UBO-Automatismen."
+  },
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Eigenständige kompakte Registerbearbeitung mit aktuellen begrenzten Ankern.",
+    "changes": [
+      "Kontrollprüfung, Daten, Zeit, PEP, Einsicht, Unstimmigkeit und Freigabe aufeinander abgestimmt."
+    ],
+    "sha256": "feb63fce1c870968f0d9353f578648abf5e64b2a726dd3626017b073ef5803cc"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Große eigenständige Werkstatt mit fortlaufender Workflowlogik und vollständigen Dokumentbausteinen.",
+    "changes": [
+      "Kontrollbezogene Verzweigungen, konkrete Rückfragen und gesonderte externe Freigaben ausformuliert."
+    ],
+    "sha256": "62239b798ceabd65c03a85e7d877ce0c004e8240f66d29e103be705d700132eb"
+  },
+  "focus_review": {
+    "verdict": "revised",
+    "reason": "Ein klar abgegrenztes Hauptproblem: ungeklärte Kontrolle bei dringender Meldung.",
+    "changes": [
+      "Varianten, Tatsachenklärung und sofort nutzbare Arbeitsergebnisse mit kontrolliertem Übergang zum Versand."
+    ],
+    "method": "desk_review",
+    "reviewed_on": "2026-10-01",
+    "prompt_path": "transparenzregister-assistent/transparenzregister-assistent-hauptproblem.md",
+    "skill_path": "transparenzregister-assistent/skills/hauptproblem-unklare-kontrolle-loesen/SKILL.md",
+    "prompt_sha256": "2fae2d4fd6b80d316b51798e8072b325b6a2e596fe09085ef9fe017abfdb852b",
+    "skill_sha256": "1eef2875c9d71f7dd15566de8ad025a4442be44a8c92e6f4d4b6f08bf6bbb473"
+  }
+}

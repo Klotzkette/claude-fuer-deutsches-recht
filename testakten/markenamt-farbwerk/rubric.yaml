@@ -1,0 +1,110 @@
+name: markenamt-farbwerk
+plugin: markenamt-assistent
+description: Eine inhabergeführte Baumarktkette verteidigt eine abstrakte Farbmarke. Zwei Befragungen verwenden
+  unterschiedliche Grundgesamtheiten und Stimuli. Parallel sind Umfirmierung, Registeranschrift, Verlängerung und
+  ein privates Gebührenangebot zu bearbeiten.
+checks:
+- id: originalbestand
+  check_type: working_file_count
+  description: Zwanzig getrennte Arbeitsunterlagen ohne Bewertungs- oder Downloadmetadaten liegen vor.
+  min: 20
+- id: beleg-01
+  check_type: file_exists
+  path: 01_Mandatsaufnahme.docx
+  description: Aufnahme Farbwerk
+- id: beleg-02
+  check_type: file_exists
+  path: 02_Registerblatt_Abschrift.pdf
+  description: Arbeitsabschrift des Markenbestands
+- id: beleg-03
+  check_type: file_exists
+  path: 03_Email_Geschaeftsfuehrerin.eml
+  description: Unsere Farbe kann doch jeder zuordnen
+- id: beleg-04
+  check_type: file_exists
+  path: 04_Amtsmitteilung_Arbeitsabschrift.docx
+  description: Abschrift der Mitteilung zum Nichtigkeitsantrag
+- id: beleg-05
+  check_type: file_exists
+  path: 05_Antrag_Gegner.docx
+  description: Auszug aus dem Vortrag der Gartenfokus Handels GmbH
+- id: beleg-06
+  check_type: file_exists
+  path: 06_Befragung_2021.pdf
+  description: Erhebung Kundenforum 2021 – Methodenblatt
+- id: beleg-07
+  check_type: file_exists
+  path: 07_Befragung_2026.pdf
+  description: Erhebung Marktbild 2026 – Methodenblatt
+- id: beleg-08
+  check_type: file_exists
+  path: 08_Fragebogen_2026.docx
+  description: Fragebogen Marktbild – übergebene Fassung
+- id: beleg-09
+  check_type: file_exists
+  path: 09_Befragungszahlen.xlsx
+  description: Arbeitsrechnung zu den Erhebungen
+- id: beleg-10
+  check_type: file_exists
+  path: 10_Marketingvermerk.docx
+  description: Verwendung der Hausfarbe
+- id: beleg-11
+  check_type: file_exists
+  path: 11_Chat_Traditionszahl.txt
+  description: Marketing-Chat zum Motiv Seit 1897
+- id: beleg-12
+  check_type: file_exists
+  path: 12_Registeraenderung.docx
+  description: Firmenänderung und Geschäftsanschrift
+- id: beleg-13
+  check_type: file_exists
+  path: 13_Bestandsliste.xlsx
+  description: Interne Markenverwaltung
+- id: beleg-14
+  check_type: file_exists
+  path: 14_Email_Institut.eml
+  description: Welche Erhebung meinen Sie?
+- id: beleg-15
+  check_type: file_exists
+  path: 15_Bildablage.png
+  description: Interne Bildablage Hausfarbe
+- id: beleg-16
+  check_type: file_exists
+  path: 16_Angebot_Privatregister.pdf
+  description: Angebot Schutzrechtsarchiv Europa
+- id: beleg-17
+  check_type: file_exists
+  path: 17_Email_Buchhaltung.eml
+  description: Zwei unterschiedliche Inhaber im Bestand
+- id: beleg-18
+  check_type: file_exists
+  path: 18_Besprechungsnotiz.docx
+  description: Vorbereitung der Verteidigung
+- id: beleg-19
+  check_type: file_exists
+  path: 19_Unterlagenstand.csv
+  description: Nachzureichende Originalunterlagen
+- id: beleg-20
+  check_type: file_exists
+  path: 20_Email_Nachtrag.eml
+  description: Bitte keine pauschale 71-Prozent-Argumentation
+- id: fachpruefung-1
+  check_type: human_review
+  description: Die Prüfung unterscheidet die abstrakte Farbe von farbigem Logo und Produktgestaltung. Beide Befragungen
+    werden nach Auswahl, Verkehrskreis und Aussagegegenstand gewürdigt.
+- id: fachpruefung-2
+  check_type: human_review
+  description: Der Firmenbestand und die Umfirmierung werden anhand der Unterlagen vom rechtsgeschäftlichen Inhaberwechsel
+    getrennt.
+- id: fachpruefung-3
+  check_type: human_review
+  description: Die Monatsendnotiz wird mit dem belegten Eintragungsdatum 2021 und der Übergangsgrenze des §159 MarkenG
+    abgeglichen, statt allein aus der Anmeldung 2018 übernommen.
+- id: fachpruefung-4
+  check_type: human_review
+  description: Die unbelegte Herkunftswerbung 1897 wird mit den konkreten Qualitäts- und Traditionsaussagen geprüft;
+    Fauré Le Page wird nicht als allgemeines Verbot von Zahlen behandelt.
+- id: fachpruefung-5
+  check_type: human_review
+  description: OBI-Orange wird hinsichtlich Verkehrskreis, Beweislast und abweichendem Altantragsrecht eingeordnet.
+    Eine einzelne Befragungsquote erzeugt keine automatische Schutzfähigkeit.

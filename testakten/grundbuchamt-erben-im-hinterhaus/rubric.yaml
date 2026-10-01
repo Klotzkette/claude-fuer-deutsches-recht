@@ -1,0 +1,114 @@
+{
+  "name": "grundbuchamt-erben-im-hinterhaus",
+  "plugin": "grundbuchamt-assistent",
+  "author": "Klotzkette",
+  "description": "Erbberichtigung nach öffentlichem Testament mit unbenannten Kindern, konkretem Hinweis auf Karim und transmortaler Vollmacht von 2011. Native Belege und manuelle Rechtsprüfung bleiben getrennt.",
+  "checks": [
+    {
+      "id": "native-unterlagen",
+      "check_type": "working_file_count",
+      "min": 27,
+      "description": "Mindestens 27 native Aktenunterlagen einschließlich bearbeitbarer Dateien sind exportierbar."
+    },
+    {
+      "id": "gesamte-lesefassung",
+      "check_type": "file_exists",
+      "path": "gesamt-pdf/grundbuchamt-erben-im-hinterhaus_gesamt.pdf",
+      "description": "Die Gesamt-PDF-Lesefassung liegt neben den Originalunterlagen vor."
+    },
+    {
+      "id": "bearbeitbarer-berichtigungsantrag",
+      "check_type": "file_exists",
+      "path": "08_berichtigungsantrag_nela.docx",
+      "description": "Der bereits gestellte Berichtigungsantrag liegt bearbeitbar vor."
+    },
+    {
+      "id": "oeffentliches-testament",
+      "check_type": "text_contains",
+      "path": "04_testament_oeffentliche_abschrift.pdf",
+      "contains": "meine Kinder zu gleichen Teilen",
+      "description": "Das öffentliche Testament enthält die gruppenbezogene Erbeinsetzung."
+    },
+    {
+      "id": "eroeffnung",
+      "check_type": "file_exists",
+      "path": "05_eroeffnung_niederschrift.pdf",
+      "description": "Die Eröffnungsniederschrift ist als eigener Erbnachweis enthalten."
+    },
+    {
+      "id": "behebungsfrist",
+      "check_type": "text_contains",
+      "path": "10_zwischenverfuegung.docx",
+      "contains": "30.10.2026",
+      "description": "Die Zwischenverfügung dokumentiert eine konkrete Behebungsfrist."
+    },
+    {
+      "id": "karim-postkarte",
+      "check_type": "text_contains",
+      "path": "13_postkarte_prag.pdf",
+      "contains": "Prager Sohn Karim",
+      "description": "Die Akte enthält den konkreten Hinweis auf einen möglicherweise weiteren Abkömmling."
+    },
+    {
+      "id": "transmortale-vollmacht",
+      "check_type": "text_contains",
+      "path": "14_vollmacht_2011_abschrift.pdf",
+      "contains": "nicht erlöschen",
+      "description": "Die Vollmachtsabschrift enthält die Fortgeltung über den Tod hinaus."
+    },
+    {
+      "id": "geburtsnachweis-nela",
+      "check_type": "file_exists",
+      "path": "25_geburtsregister_nela.pdf",
+      "description": "Nelas Abstammung ist mit einer eigenen Registerabschrift belegt."
+    },
+    {
+      "id": "geburtsnachweis-otto",
+      "check_type": "file_exists",
+      "path": "26_geburtsregister_otto.pdf",
+      "description": "Ottos Abstammung ist mit einer eigenen Registerabschrift belegt."
+    },
+    {
+      "id": "geburtsnachweis-levin",
+      "check_type": "file_exists",
+      "path": "27_geburtsregister_levin.pdf",
+      "description": "Levins Abstammung ist mit einer eigenen Registerabschrift belegt."
+    },
+    {
+      "id": "hauskonto",
+      "check_type": "file_exists",
+      "path": "19_verwaltung_hauskonto.xlsx",
+      "description": "Hauskonto, Reserve und rechnerischer Finanzierungsbedarf liegen bearbeitbar vor."
+    },
+    {
+      "id": "erbschein-kein-automatismus",
+      "check_type": "human_review",
+      "description": "Prüft § 35 Abs.1 GBO anhand öffentlichen Testaments, Eröffnung und Personenstand; BGH V ZB 40/24 vom 20.11.2025 konkret berücksichtigen. Unbenannte Kinder allein begründen keine pauschale Erbscheinpflicht; zusätzliche Tatsachenerklärungen und ihre Form nach§ 29 differenziert prüfen.",
+      "note": "Anhand der tatsächlich erstellten Antwort manuell bewerten; die Bestandsprüfung bestätigt keine Modellleistung."
+    },
+    {
+      "id": "karim-konkrete-zweifel",
+      "check_type": "human_review",
+      "description": "Würdigt Postkarte, Telefonnotiz und Archivsuche ergebnisoffen. Karim wird weder als rechtliches Kind festgesetzt noch ohne Aufklärung ausgeschieden. Konkrete verbleibende Zweifel können den einfachen Nachweisweg begrenzen; keine unwahre Versicherung oder Erklärung erzeugen.",
+      "note": "Anhand der tatsächlich erstellten Antwort manuell bewerten; die Bestandsprüfung bestätigt keine Modellleistung."
+    },
+    {
+      "id": "erbengemeinschaft-und-finanzierung",
+      "check_type": "human_review",
+      "description": "Trennt Grundbuchberichtigung in Erbengemeinschaft von neuer Dachfinanzierung und Erklärungen aller erforderlichen Beteiligten. Erbquoten werden nicht als belegte Bruchteilseigentumsquoten eingetragen; Altgrundschuld und Darlehen sind getrennte Größen.",
+      "note": "Anhand der tatsächlich erstellten Antwort manuell bewerten; die Bestandsprüfung bestätigt keine Modellleistung."
+    },
+    {
+      "id": "alte-vollmacht-richtig-pruefen",
+      "check_type": "human_review",
+      "description": "Prüft Ausfertigung, Umfang, Fortgeltung, möglichen Widerruf und Innen-/Außenverhältnis der 2011 erVollmacht. Wendet die notarielle Vorprüfung des§ 15 Abs.3 GBO unter Beachtung der Ausnahme§ 151 GBO an; keine pauschale nachträgliche Prüfungspflicht für die 2011 beurkundete Erklärung.",
+      "note": "Anhand der tatsächlich erstellten Antwort manuell bewerten; die Bestandsprüfung bestätigt keine Modellleistung."
+    },
+    {
+      "id": "zwischenverfuegung-und-produkt",
+      "check_type": "human_review",
+      "description": "Liefert begründete Antwort auf die konkrete Zwischenverfügung und kontrolliert den 30.10.2026. Trennt sachliche Aufklärung, Fristverlängerung und mögliche Beschwerde; führt gezielte Nachfragen bis zu vollständigem Schreiben fort, ohne gerichtlichen Erfolg zu behaupten.",
+      "note": "Anhand der tatsächlich erstellten Antwort manuell bewerten; die Bestandsprüfung bestätigt keine Modellleistung."
+    }
+  ]
+}

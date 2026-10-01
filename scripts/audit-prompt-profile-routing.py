@@ -517,6 +517,9 @@ def main() -> int:
             ) or (
                 kind == "werkstatt"
                 and isinstance(review_profile.get("workshop_review"), dict)
+            ) or (
+                kind == "hauptproblem"
+                and isinstance(review_profile.get("focus_review"), dict)
             )
             for marker in GLOBAL_PROMPT_FORBIDDEN:
                 if marker in text:
@@ -527,7 +530,7 @@ def main() -> int:
                 problems.append(
                     f"{path.relative_to(REPO)}: wiederholt angehängtes scharfes S"
                 )
-            if kind == "schnellstart" and not mini_within_limits(slug, text.encode("utf-8")):
+            if kind in {"schnellstart", "hauptproblem"} and not mini_within_limits(slug, text.encode("utf-8")):
                 problems.append(f"{path.relative_to(REPO)}: außerhalb der konfigurierten Byte-/Zeichengrenze")
             if kind == "werkstatt" and size > MAX_WORKSHOP_BYTES:
                 problems.append(
@@ -747,6 +750,9 @@ def main() -> int:
                             f"{path.relative_to(REPO)}: beschädigte oder generische Fachroute {fragment!r}"
                         )
             if individual_review:
+                if kind == "hauptproblem":
+                    for issue in individual_workshop_structure_problems(text):
+                        problems.append(f"{path.relative_to(REPO)}: {issue}")
                 try:
                     validate_profile(review_profile, slug, plugin_dir, REPO)
                 except (ValueError, OSError, TypeError, KeyError) as exc:

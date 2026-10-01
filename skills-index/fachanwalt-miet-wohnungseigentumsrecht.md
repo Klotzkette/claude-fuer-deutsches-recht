@@ -1,6 +1,6 @@
 # fachanwalt-miet-wohnungseigentumsrecht
 
-**253 Skills** · Stand `v445.23.0`
+**253 Skills** · Stand `v445.24.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../fachanwalt-miet-wohnungseigentumsrecht/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -10,6 +10,7 @@
 | --- | --- | --- |
 | **Großer Prompt (Werkstatt)** | Markdown | [`fachanwalt-miet-wohnungseigentumsrecht-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-miet-wohnungseigentumsrecht/fachanwalt-miet-wohnungseigentumsrecht-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`fachanwalt-miet-wohnungseigentumsrecht-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-miet-wohnungseigentumsrecht/fachanwalt-miet-wohnungseigentumsrecht-schnellstart.md) |
+| **Schwerpunkt-Prompt (Hauptproblem)** | MD | [`fachanwalt-miet-wohnungseigentumsrecht-hauptproblem.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-miet-wohnungseigentumsrecht/fachanwalt-miet-wohnungseigentumsrecht-hauptproblem.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [fachanwalt-miet-wohnungseigentumsrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-miet-wohnungseigentumsrecht.zip) |
 

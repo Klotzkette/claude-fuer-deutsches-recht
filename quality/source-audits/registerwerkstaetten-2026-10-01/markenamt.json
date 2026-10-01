@@ -1,0 +1,123 @@
+{
+  "plugin": "markenamt-assistent",
+  "checked_on": "2026-10-01",
+  "decisions": [
+    {
+      "citation": "BGH, Beschluss vom 17.09.2026 – I ZB 58/25 – OBI-Orange",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2025/I_ZB__58-25.pdf?__blob=publicationFile&v=1",
+      "application": "Verkehrskreis, Gegenbefragung und Nachweislast bei Verkehrsdurchsetzung einer abstrakten Farbmarke prüfen.",
+      "limit": "Kein starrer Prozenttest; Rn. 15 betrifft einen Altantrag (§ 158 Abs. 8 MarkenG). Bei neuem Antrag Heilungsstichtag nach § 50 Abs. 2 Satz 2 beachten.",
+      "read": "Amtlicher Volltext, Leitsätze, Rn. 27–32 und Beweiswürdigung zu den Verkehrsbefragungen.; unabhängig nachgelesen: Leitsätze und Rn.14–15 zur Übergangsregel sowie Rn.27–32.",
+      "key": "obi-orange",
+      "checked_on": "2026-10-01",
+      "status": "official_fulltext_read",
+      "sha256": "491a79bd38ce3c5bc428a16579f85c2c33b4a76c78226ec7030e87fa8d3920e3"
+    },
+    {
+      "citation": "EuGH, Urteil vom 05.02.2026 – C-337/22 P – EUIPO/Nowhere",
+      "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=308263&doclang=DE",
+      "application": "Erwerbspriorität und Fortbestand des älteren Rechts bis zur Widerspruchsentscheidung einschließlich Beschwerde auseinanderhalten.",
+      "limit": "UK-Benutzungsrechte nach Brexit; kein allgemeines Ende aller britischen Rechte. Entscheidung am 05.02., Pressemitteilung am 26.02.2026.",
+      "read": "Amtlicher deutscher Volltext Rn. 100–124; ältere Verordnung im Ausgangsfall und heutige Anschlussnorm getrennt.",
+      "key": "c337-full",
+      "checked_on": "2026-10-01",
+      "status": "official_fulltext_read",
+      "sha256": "8fb8272de54e222ebba76194d728e90d0e777b642cc811e50a92d0b323febcdc"
+    },
+    {
+      "citation": "EuG, Urteil vom 25.03.2026 – T-545/24 – OSSA",
+      "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=310209&doclang=FR",
+      "application": "Lizenzvertrag und Geschäftsplanung belegen für sich keine ernsthafte Benutzung; Ort, Zeit, Umfang und Vermarktung nachweisen.",
+      "limit": "Einzelfall der Nichtbenutzung; keine Mindestumsatzschwelle. Rechtsmittelstatus vor konkreter Verwendung nachprüfen.",
+      "read": "Amtlicher französischer Volltext Rn. 57–75, insbesondere 60–62 und 69.",
+      "key": "t545-full",
+      "checked_on": "2026-10-01",
+      "status": "official_fulltext_read",
+      "sha256": "0d620c4a25ba5dd4a62f31e5cfa89a6fc82038032e326f22c81dbde34139d87e"
+    },
+    {
+      "citation": "EuG, Urteil vom 14.01.2026 – T-64/25 – Leone",
+      "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=307695&doclang=DE",
+      "application": "Nationales Namensrecht kann Art. 60 Abs. 2 Buchst. a UMV tragen; geschäftliche Verwendung allein schließt diesen Weg nicht aus.",
+      "limit": "Österreichischer Ausgangsfall; Inhalt, Erwerb, Bestand und Verbotswirkung des jeweils nationalen Rechts eigenständig belegen.",
+      "read": "Amtlicher deutscher Volltext Rn. 17–20 und 39–57.",
+      "key": "t64-full",
+      "checked_on": "2026-10-01",
+      "status": "official_fulltext_read",
+      "sha256": "21ac5a8f1b5083ef250375401611ffb17819098245aa94aae0395da7884e7ae8"
+    },
+    {
+      "citation": "EuGH, Urteil vom 26.03.2026 – C-412/24 – Fauré Le Page",
+      "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=310224&doclang=DE",
+      "application": "Als Gründungsjahr verstandene Jahreszahl kann bei tatsächlich fehlendem langjährigem Know-how eine täuschende Qualitäts-/Prestigeaussage vermitteln.",
+      "limit": "Kein pauschales Verbot von Jahreszahlen; Gesamteindruck und Verkehrsverständnis entscheiden.",
+      "read": "Amtlicher deutscher Volltext Rn. 30–31 und Tenor.",
+      "key": "c412-full",
+      "checked_on": "2026-10-01",
+      "status": "official_fulltext_read",
+      "sha256": "5c2a488f9b57bb50ee332448cfc9e663e632d4b16b76c515b43ebb6d654cdfa8"
+    }
+  ],
+  "administrative_sources": [
+    "DPMA-Gebühren und DPMAdirektWeb, Stand 29.09.2026; jeweilige vollständige Webseite gelesen",
+    "DPMA-Hilfe: Nachreichungen nicht für jede nachgelagerte Erklärung",
+    "MarkenG aktueller amtlicher PDF-Volltext"
+  ],
+  "limits": [
+    "EUR-Lex-Direktabruf der UMV technisch leer; keine Behauptung einer neuen Volltextprüfung der gesamten Verordnung. UMV-Normen aus amtlicher Entscheidung und amtlichen Verfahrensquellen gegengeprüft.",
+    "Kein tatsächlicher Login, keine Anmeldung, Einreichung oder Zahlung."
+  ],
+  "independent_cross_review": {
+    "checked_on": "2026-10-01",
+    "reviewer": "grundbuchamt_neu",
+    "scope": "Elf Skills, drei Prompt-MD, Referenzen und alle60 CASES-Dokumentdefinitionen; amtliche Vergleichspassagen der fünf2026-Entscheidungen, BGH zusätzlich frisch heruntergeladen. Kein beobachteter Modelllauf und kein Portalvollzug.",
+    "corrections": [
+      "§53 Abs.4–5 MarkenG konkret: Verteidigungswiderspruch binnen zwei Monaten, sonst Löschung; bei Verfall danach einmonatige Fortsetzungsgebühr des Antragstellers.",
+      "§159 Abs.1 MarkenG knüpft an Eintragung vor14.01.2019 an; 2018 angemeldet/2021 eingetragen bleibt taggenau (§47 Abs.1).",
+      "OBI-Orange Rn.14–15: alter Löschungsantrag und §158 Abs.8; aktuellen Heilungsstichtag §50 Abs.2 Satz2 nicht durch späteres Entscheidungsdatum ersetzen.",
+      "§43 Abs.1, §53 Abs.6 und §158 Abs.5: unterschiedliche Benutzungszeiträume und Altverfahrensrecht ausdrücklich unterscheiden.",
+      "Zustellungsdatum statt missverständlicher Anforderung von Zugangsdaten; interne Farbwerk-Abschrift auf25.09.2026 datiert, da Umfirmierung2024 enthalten."
+    ],
+    "official_norms_read": [
+      "https://www.gesetze-im-internet.de/markeng/__53.html",
+      "https://www.gesetze-im-internet.de/markeng/__43.html",
+      "https://www.gesetze-im-internet.de/markeng/__47.html",
+      "https://www.gesetze-im-internet.de/markeng/__49.html",
+      "https://www.gesetze-im-internet.de/markeng/__50.html",
+      "https://www.gesetze-im-internet.de/markeng/__158.html",
+      "https://www.gesetze-im-internet.de/markeng/__159.html",
+      "https://www.dpma.de/service/gebuehren/marken/index.html"
+    ],
+    "primary_decision_sections": [
+      "I ZB58/25: Leitsätze, Rn.14–15,27–32; frischer amtlicher PDF-Abruf",
+      "C337/22P: Rn.103–112 anhand archiviertem amtlichen Volltext",
+      "T545/24: Rn.57–75 anhand archiviertem französischem amtlichen Volltext",
+      "T64/25: Rn.17–20,39–57 anhand archiviertem amtlichen Volltext",
+      "C412/24: Rn.30–31 und Tenor anhand archiviertem amtlichen Volltext"
+    ],
+    "limits": [
+      "EUR-Lex-Gesamttext bleibt beim Direktabruf technisch gesperrt; kein neuer Nachweis vollständiger UMV-Prüfung.",
+      "Keine live ausgeführte Einreichung, Zahlung oder streitige Vertretung."
+    ],
+    "files_sha256": {
+      "markenamt-assistent/README.md": "404ec86f8f0b55089e40bd6205da61bcaff074878dfb533f3d3c6f03f2b606ce",
+      "markenamt-assistent/markenamt-assistent-hauptproblem.md": "6ad45461c76695255fcad127f4b96be2eaecc4de2d384acd3d5d2fbee7cf97fc",
+      "markenamt-assistent/markenamt-assistent-schnellstart.md": "74fa8d3110b2022137b641a767f7ac1ac30e6da7306ca64a73a8bd6db4067377",
+      "markenamt-assistent/markenamt-assistent-werkstatt.md": "83fcce41a2dc5697ee5596ac271d2d7d3f4976f011b0dde4de983dfbbbeeab83",
+      "markenamt-assistent/references/rechtsprechungsanker.md": "a81a4292507a7f3daac6ba54f34e27e2218de589cbbcfe65a2a69956ad9f5c23",
+      "markenamt-assistent/references/zitierweise.md": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e",
+      "markenamt-assistent/skills/dpma-marke-anmelden/SKILL.md": "f0a42b63a5a8ad7e2759d97733a9bf0479a28c4bc551e6b639a104e178983e46",
+      "markenamt-assistent/skills/euipo-unionsmarke-anmelden/SKILL.md": "d1e7892f95f3551eab3e59b24db9b1aa402118a07fa47785c19670ac9d2bd55d",
+      "markenamt-assistent/skills/marke-sichern-trotz-offener-rechte/SKILL.md": "ae91b85e616f721f1f18a1c1847064a87d7c8b1bcc297b84ebaf5614bc6dc5f2",
+      "markenamt-assistent/skills/markenauftrag-und-fristen-klaeren/SKILL.md": "6d4bc4b473a0c4f66062033dfcc89e272cb99ab386ae81b2643e88452f61eb53",
+      "markenamt-assistent/skills/markenbeanstandung-beantworten/SKILL.md": "50d8146e53cc9a9bbd0e813ba38f48eb8fd0284143518cfd6fb9f2760d5f0843",
+      "markenamt-assistent/skills/markeninhaber-und-lizenzen-umschreiben/SKILL.md": "fe79c1108c9d5b8bf4e158146a75b6a7ff616a521f2527f706a8c490a8b2266e",
+      "markenamt-assistent/skills/markenportal-und-bestand-nachhalten/SKILL.md": "160b77002fc2a36e291caaaf540640690df852be3ca20d26019f654de2fe56da",
+      "markenamt-assistent/skills/markenrecherche-und-treffer-pruefen/SKILL.md": "e73a68a9cd4e49707909bf1d969ded938ca2f991bcaf4d520c147f83992451cc",
+      "markenamt-assistent/skills/markenverfall-und-nichtigkeit-pruefen/SKILL.md": "f551d39c7e6f8a8f61027f446f59d6068fd0840b5b7ecb3b2fde0c9d28c02b70",
+      "markenamt-assistent/skills/markenverzeichnis-und-klassen-formulieren/SKILL.md": "953cc16d845e0a3d0943d34adc21a525666af3e2d93e17bfa096aba5695a9a56",
+      "markenamt-assistent/skills/markenwiderspruch-fuehren/SKILL.md": "dfaeb3995159e88214b01003170a99c972aaae431b204672da67761fbc74c500"
+    },
+    "cases_sha256": "d6169175e06cf4c8551e914a283df1fb43addc4c902e8d9644de849953cd4b59"
+  }
+}

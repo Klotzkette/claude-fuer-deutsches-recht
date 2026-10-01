@@ -1,0 +1,13 @@
+Zugangsnachweise aus IT und Büro
+30.09.2026
+
+29.09.2026, 10:14:12 – Nachricht „Prokura / Erklärung Geschäftsführung“ vom Server angenommen.
+10:14:14 – Zustellung an Postfach erna@polter-technik.example protokolliert.
+10:14:15 – Regel „Personal vertraulich“ verschiebt Nachricht in Unterordner Personal.
+Kein Lesebestätigungsereignis angefordert. Die IT kann aus diesem Protokoll nicht feststellen, wann Erna die Nachricht tatsächlich geöffnet hat.
+
+Lenja, Notiz vom 30.09.2026: Ich habe den Umschlag am 29. gegen halb elf auf Ernas Platz gelegt. Sie war vormittags im Außenlager. Als ich um 16 Uhr ging, lag der Umschlag nicht mehr dort. Ich weiß nicht, wer ihn mitgenommen hat.
+
+Erna, Nachricht vom 30.09.2026, 08:32 Uhr: „Ich habe den Brief heute früh geöffnet. Die Mail war in einem Unterordner, den ich gestern nicht angesehen habe. Den Umschlag hatte ich gestern Nachmittag in meine Tasche gesteckt, weil ich zum Lieferanten musste.“
+
+Hieronymus, Telefonnotiz: Er habe Erna am 28. schon gesagt, dass der Widerruf kommen werde. Er sei sich nicht sicher, ob er „ab jetzt“ oder „sobald der Brief da ist“ gesagt habe.

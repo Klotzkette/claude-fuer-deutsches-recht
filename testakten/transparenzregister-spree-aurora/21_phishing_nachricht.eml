@@ -1,0 +1,25 @@
+From: Register-Ausgleich <service@register-rueckzahlung.example>
+To: =?utf-8?q?B=C3=BCro?= Aurora <buero@spree-aurora.example>
+Subject: =?utf-8?q?R=C3=BCckerstattung_angeblich_doppelt_erhobener_Registerg?=
+ =?utf-8?q?eb=C3=BChren?=
+Date: Tue, 22 Sep 2026 06:48:00 +0200
+Message-ID:
+ <21_phishing_nachricht.transparenzregister-spree-aurora@akten.example>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+Sehr geehrte Damen und Herren,
+
+bei der Pr=C3=BCfung Ihres Vorgangs sei eine doppelte Erhebung festgestellt w=
+orden. Die Nachricht fordert eine Best=C3=A4tigung von Kontoinhaber und Bankv=
+erbindung =C3=BCber ein externes Formular. Sie nennt weder ein Geb=C3=BChrenj=
+ahr noch eine konkrete Bescheidnummer.
+
+Im weitergeleiteten Nachrichtentext steht als Betrag 47,12 Euro und als angeb=
+liche Frist der 23. September. Die Schaltfl=C3=A4che f=C3=BChrte laut Vorscha=
+u auf die Adresse https://register-rueckzahlung.example/ausgleich. Noura hat =
+die Nachricht archiviert, aber das Formular nicht ge=C3=B6ffnet.
+
+Automatisch erstellte Servicenachricht
+Register-Ausgleich

@@ -1,6 +1,6 @@
 # wirtschaftsanwalt
 
-**10 Skills** · Stand `v445.23.0`
+**10 Skills** · Stand `v445.24.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../wirtschaftsanwalt/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -10,6 +10,7 @@
 | --- | --- | --- |
 | **Großer Prompt (Werkstatt)** | Markdown | [`wirtschaftsanwalt-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=wirtschaftsanwalt/wirtschaftsanwalt-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`wirtschaftsanwalt-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=wirtschaftsanwalt/wirtschaftsanwalt-schnellstart.md) |
+| **Schwerpunkt-Prompt (Hauptproblem)** | MD | [`wirtschaftsanwalt-hauptproblem.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=wirtschaftsanwalt/wirtschaftsanwalt-hauptproblem.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [wirtschaftsanwalt.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/wirtschaftsanwalt.zip) |
 

@@ -1,0 +1,399 @@
+{
+  "schema_version": 1,
+  "plugin": "handelsregister-assistent",
+  "reviewed_on": "2026-10-01",
+  "sources": [
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2025/II_ZR__50-25.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-01",
+      "supports": "Ernsthafte materielle Statusbestreitung kann trotz richtiger Liste Feststellungsinteresse begründen. Grenze: Kein Automatismus zur Klage, kein Beleg fremdrechtlicher Vertretungsmacht. Gelesen: Kopf, Sachverhalt, Rn. 10–30",
+      "verification_status": "fresh_primary_passages",
+      "source_sha256": "88b2a5a3c77acc238dba4e80da9dda4aee47035aa1bb36ae4481bcaccf3ef0e2"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2024/II_ZB__13-24.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-01",
+      "supports": "Untersuchte österreichische Onlinebeglaubigung nicht gleichwertig; abstrakte Verfahrensgarantien prüfen. Grenze: Keine pauschale Zurückweisung ausländischer Präsenzbeglaubigungen; spätere Verfahrensänderungen gesondert. Gelesen: Kopf, Rn. 1–29 und 32–48",
+      "verification_status": "fresh_primary_passages",
+      "source_sha256": "3a2c6847571a553ba2a2d7dce21c2b3d0f6584493a3a8a8dacc03f09ac3c41cb"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2025/II_ZB___2-25.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-01",
+      "supports": "Austausch öffentlicher überobligatorischer Daten nach Einwilligungswiderruf nach §9Abs7HRV. Grenze: Pflichtdaten und Aufbewahrung in Registerakte nicht pauschal löschen; Ersatzfassung muss formgerecht sein. Gelesen: Kopf/Tenor, Rn. 20–25, 32–38, 43–49 mit Zusammenhang",
+      "verification_status": "fresh_primary_passages",
+      "source_sha256": "77d7049301fd9d2bab0d6210f69ff13b624e0e4dd7436b5913ff6868d31667f8"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2022/II_ZB__15-22.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-01",
+      "supports": "Zwischenverfügung erfordert behebbares Hindernis; bloße Rücknahmeaufforderung bei endgültiger Ablehnung genügt nicht. Grenze: Aufhebung ersetzt nicht Sachentscheidung; Sparkassenvereinigung nicht auf beliebige Umwandlung übertragen. Gelesen: Kopf/Tenor, Rn. 8–12",
+      "verification_status": "fresh_primary_passages",
+      "source_sha256": "fae44e48d1b17556317d1f6f20e3ad574c4aa8a48f3897b3d67b4a773c9a974b"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/__12.html",
+      "checked_on": "2026-10-01",
+      "supports": "Form der Anmeldung und elektronische Dokumenttypen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/__15.html",
+      "checked_on": "2026-10-01",
+      "supports": "Absatzweise Registerpublizität mit Kenntnis und Zeitpunkt."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__40.html",
+      "checked_on": "2026-10-01",
+      "supports": "Geschäftsführer-/Notarzuständigkeit, Angaben und Zeitpunkt der Liste."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__39.html",
+      "checked_on": "2026-10-01",
+      "supports": "Organänderung, Nachweise, persönliche Versicherungen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/famfg/__378.html",
+      "checked_on": "2026-10-01",
+      "supports": "Notarielle Prüfung und in Handels-/Gesellschaftsregistersachen Weiterleitung über Notar."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/famfg/__382.html",
+      "checked_on": "2026-10-01",
+      "supports": "Eintragung, Ablehnung und Zwischenverfügung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/famfg/__26.html",
+      "checked_on": "2026-10-01",
+      "supports": "Gerichtliche Amtsermittlung; kein garantierter Auslandsnachweis."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/__53.html",
+      "checked_on": "2026-10-01",
+      "supports": "Anmeldung der Prokuraerteilung und ihres Erlöschens."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/__13h.html",
+      "checked_on": "2026-10-01",
+      "supports": "Sitzverlegung über bisheriges Gericht."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__54.html",
+      "checked_on": "2026-10-01",
+      "supports": "Vollständige bescheinigte Satzung und Wirksamkeit durch Eintragung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hdlregvfg/__9.html",
+      "checked_on": "2026-10-01",
+      "supports": "Registerordner, öffentlich zugängliche Dokumente und Austauschvermerk."
+    },
+    {
+      "url": "https://www.hcch.net/en/instruments/conventions/status-table/?cid=41",
+      "checked_on": "2026-10-01",
+      "supports": "Tabelle Stand30.06.2026 vollständig gelesen: Sri Lanka nicht als Partei; Kanada EIF11.01.2024. Länderbezogene Einwände im Echtfall gesondert."
+    },
+    {
+      "url": "https://colombo.diplo.de/lk-de/service/1589176-1589176",
+      "checked_on": "2026-10-01",
+      "supports": "Abschnitte Legalisation/Urkundenprüfung: Sri-Lanka-Legalisation eingestellt, Amtshilfe/Rechtshilfe möglich, keine Privataufträge."
+    },
+    {
+      "url": "https://colombo.diplo.de/resource/blob/2290398/cd7fd9e4a6f122c501e96c6279c0b70b/certification-of-documents-merkblatt-data.pdf",
+      "checked_on": "2026-10-01",
+      "supports": "Merkblatt Dezember2025: Prüfwege insbesondere Personenstand/Scheidungsurteile; keine Garantie einer Gesellschaftsurkundenprüfung."
+    },
+    {
+      "url": "https://drc.gov.lk/en/?author=0",
+      "checked_on": "2026-10-01",
+      "supports": "Amtliche Angaben zur elektronischen Ausgabe zertifizierter Formularkopien seit02.05.2022; keine deutsche Registerpublizität behauptet."
+    }
+  ],
+  "selection": {
+    "target_skill": "hauptproblem-registervorgang-zum-vollzug",
+    "positive": [
+      "Die neue Gesellschafterin kommt aus Sri Lanka; das Registergericht verlangt Vertretungsnachweise. Fertige unsere Antwort.",
+      "Prüfe Geschäftsführerwechsel, Prokura und ausstehende Registereintragung anhand der Akte."
+    ],
+    "negative": [
+      "Berechne die Körperschaftsteuer der ausländischen Erwerberin.",
+      "Erstelle eine Markenanmeldung ohne Bezug zu einem Registervorgang."
+    ]
+  },
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Eigenständiger kurzer Workflow mit drei verifizierten2026-Ankern und Befugnis-/Zugangsfrage. Individuelle Text-/Quellenprüfung; kein Live-Modell- oder Portaltest.",
+    "changes": [
+      "Fachliche Abhängigkeiten, konkrete Nachweise und fortlaufende Anschlussfragen statt bloßer Checkliste.",
+      "Anmeldung, Gesellschafterliste, Auslandsvertretung und öffentliche Daten getrennt."
+    ],
+    "sha256": "5112dcbe7a21eeef2ec59a3725232803de4bd83607df77e76bebdc3e0d941f71"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Große eigenständige Werkstatt mit konkreter Registerlandkarte, zwei Auslandsnachweiswegen und acht ausformulierten Mustern. Individuelle Text-/Quellenprüfung; kein Live-Modell- oder Portaltest.",
+    "changes": [
+      "Fachliche Abhängigkeiten, konkrete Nachweise und fortlaufende Anschlussfragen statt bloßer Checkliste.",
+      "Anmeldung, Gesellschafterliste, Auslandsvertretung und öffentliche Daten getrennt."
+    ],
+    "sha256": "7f13500c862b2eb6bf97ae71b1af81723a6dab50c43a7e4d348660dee93bb02c"
+  },
+  "focus_review": {
+    "verdict": "revised",
+    "reason": "Schwerpunkt auf stockenden Vorgang und dessen tatsächlichen Engpass. Individuelle Text-/Quellenprüfung; kein Live-Modell- oder Portaltest.",
+    "changes": [
+      "Fachliche Abhängigkeiten, konkrete Nachweise und fortlaufende Anschlussfragen statt bloßer Checkliste.",
+      "Anmeldung, Gesellschafterliste, Auslandsvertretung und öffentliche Daten getrennt."
+    ],
+    "sha256": "482ebef2b001588c222001c55a4f964b0b0df3c3cfeaabb398f133a5feb4662d",
+    "method": "desk_review",
+    "reviewed_on": "2026-10-01",
+    "prompt_path": "handelsregister-assistent/handelsregister-assistent-hauptproblem.md",
+    "prompt_sha256": "482ebef2b001588c222001c55a4f964b0b0df3c3cfeaabb398f133a5feb4662d",
+    "skill_path": "handelsregister-assistent/skills/hauptproblem-registervorgang-zum-vollzug/SKILL.md",
+    "skill_sha256": "5198cb8d6b7e8cfa3d2fabb203af165729ee1e5df22ccbe4edf48cb0a4a4d158"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-10-01",
+    "files": [
+      "handelsregister-assistent/handelsregister-assistent-schnellstart.md",
+      "handelsregister-assistent/handelsregister-assistent-werkstatt.md",
+      "handelsregister-assistent/handelsregister-assistent-hauptproblem.md",
+      "handelsregister-assistent/skills/hauptproblem-registervorgang-zum-vollzug/SKILL.md",
+      "handelsregister-assistent/references/registerverfahren-und-quellen.md"
+    ],
+    "opening_change": "Vorhandene Akte und konkretes Ergebnis bestimmen den Einstieg; fortlaufende Fragen folgen tatsächlichen Beweis- oder Formlücken.",
+    "norms": [
+      "§§9,12,15HGB",
+      "§§16,39,40,54GmbHG",
+      "§§26,378,382FamFG",
+      "§9Abs7HRV"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urt. v. 21.04.2026 – Az. II ZR 50/25",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2025/II_ZR__50-25.pdf?__blob=publicationFile&v=1",
+        "application": "Ernsthafte materielle Statusbestreitung kann trotz richtiger Liste Feststellungsinteresse begründen.",
+        "limit": "Kein Automatismus zur Klage, kein Beleg fremdrechtlicher Vertretungsmacht.",
+        "checked_on": "2026-10-01",
+        "read_passages": "Kopf, Sachverhalt, Rn. 10–30",
+        "verification": "fresh_primary_passages",
+        "source_sha256": "88b2a5a3c77acc238dba4e80da9dda4aee47035aa1bb36ae4481bcaccf3ef0e2"
+      },
+      {
+        "citation": "BGH, Beschl. v. 25.02.2026 – Az. II ZB 13/24",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2024/II_ZB__13-24.pdf?__blob=publicationFile&v=1",
+        "application": "Untersuchte österreichische Onlinebeglaubigung nicht gleichwertig; abstrakte Verfahrensgarantien prüfen.",
+        "limit": "Keine pauschale Zurückweisung ausländischer Präsenzbeglaubigungen; spätere Verfahrensänderungen gesondert.",
+        "checked_on": "2026-10-01",
+        "read_passages": "Kopf, Rn. 1–29 und 32–48",
+        "verification": "fresh_primary_passages",
+        "source_sha256": "3a2c6847571a553ba2a2d7dce21c2b3d0f6584493a3a8a8dacc03f09ac3c41cb"
+      },
+      {
+        "citation": "BGH, Beschl. v. 18.02.2026 – Az. II ZB 2/25",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2025/II_ZB___2-25.pdf?__blob=publicationFile&v=1",
+        "application": "Austausch öffentlicher überobligatorischer Daten nach Einwilligungswiderruf nach §9Abs7HRV.",
+        "limit": "Pflichtdaten und Aufbewahrung in Registerakte nicht pauschal löschen; Ersatzfassung muss formgerecht sein.",
+        "checked_on": "2026-10-01",
+        "read_passages": "Kopf/Tenor, Rn. 20–25, 32–38, 43–49 mit Zusammenhang",
+        "verification": "fresh_primary_passages",
+        "source_sha256": "77d7049301fd9d2bab0d6210f69ff13b624e0e4dd7436b5913ff6868d31667f8"
+      },
+      {
+        "citation": "BGH, Beschl. v. 19.09.2023 – Az. II ZB 15/22",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2022/II_ZB__15-22.pdf?__blob=publicationFile&v=1",
+        "application": "Zwischenverfügung erfordert behebbares Hindernis; bloße Rücknahmeaufforderung bei endgültiger Ablehnung genügt nicht.",
+        "limit": "Aufhebung ersetzt nicht Sachentscheidung; Sparkassenvereinigung nicht auf beliebige Umwandlung übertragen.",
+        "checked_on": "2026-10-01",
+        "read_passages": "Kopf/Tenor, Rn. 8–12",
+        "verification": "fresh_primary_passages",
+        "source_sha256": "fae44e48d1b17556317d1f6f20e3ad574c4aa8a48f3897b3d67b4a773c9a974b"
+      }
+    ],
+    "remaining_limits": [
+      "Kein Vollzugstest in realen Notarpostfächern oder Registern.",
+      "Kein Gutachten zum gesamten sri-lankischen Gesellschaftsrecht; gezielte Nachweisfragen und amtliche Länderwege.",
+      "Keine Behauptung einer Botschaftsprüfung von Gesellschaftsdokumenten; Umfang vorab zu klären."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-10-01",
+    "method": "desk_review",
+    "opening_modes": [
+      "Unklare Recherchefrage mit Namen und altem Auszug.",
+      "Gerichtliche Beanstandung mit Frist und Auslandsurkunden.",
+      "Konkreter Anmeldungs-/Listenentwurf mit bereits geklärtem Mandat."
+    ],
+    "continuation": "Neues Organformular -> Stichtagsvertretung abgleichen; neues Board-Protokoll -> Gutachtenfrage aktualisieren; Verfügung -> konkrete Antwort; Eingang -> tatsächlichen Vollzug abrufen.",
+    "enrichment": "Drei Fachskills zu Liste/Ausland/Schriftverkehr werden im Hauptproblem als Abhängigkeiten statt als pauschale Neuaufnahme zusammengeführt.",
+    "limits": "desk_review; kein Live-Modelltest, keine echte externe Einreichung."
+  },
+  "cases": [
+    {
+      "id": "sri-lanka-vertretung",
+      "target_skill": "hauptproblem-registervorgang-zum-vollzug",
+      "request": "Die neue Gesellschafterin ist eine sri-lankische Private Limited. Vorliegen: eROC-Namenssuchtreffer, Gründungszertifikat2019 und Affidavit eines Company Secretary2026. Im Kaufvertrag vom15.09.2026 hat nur eine Direktorin unterschrieben. Die Satzung soll zwei Direktoren verlangen; ein späterer Board-Beschluss fehlt noch. Das Gericht will bis12.10.2026 einen Vertretungsnachweis. Entwirf ein Nachweisschreiben und eine begründete Registerantwort, sende nichts.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Verwechselt fehlenden tauglichen Beleg nicht mit einem fehlenden sri-lankischen Register und verlangt keine dort nicht verfügbare Apostille.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Trennt Echtheit, Organstellung, Vertretung, Transaktionszustimmung und Form; behandelt Affidavit nicht als automatische Vertretungsmacht.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Entwickelt zwei konkret bedingte Nachweiswege einschließlich amtlicher Unterlagen und gezielter Aufklärung oder wirksam vertretener Genehmigung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Erstellt vollständige Schreiben, hält12.10.2026bis bewilligter Verlängerung und behauptet keine garantierte Botschaftsprüfung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nur-anwaltspostfach",
+      "target_skill": "einreichung-und-vollzug-nachhalten",
+      "request": "Der Anmeldungsentwurf zum Geschäftsführerwechsel ist fertig. Ich bin Rechtsanwalt, kein Notar, und habe beA. Senden Sie die Handelsregisteranmeldung jetzt ab.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Erkennt§12HGB/aktuellen§378Abs3FamFG und behandelt beA nicht als Ersatz des Notarwegs.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Liefert konkretes fertiges Übergabepaket und fragt gezielt nach verantwortlichem Notariat/Zugang statt alles pauschal abzubrechen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Behauptet weder notarielle Prüfung noch tatsächliche Einreichung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "liste-trotz-bestretens",
+      "target_skill": "gesellschafterliste-erstellen-und-abgleichen",
+      "request": "Unsere GmbH hat die Liste wieder richtiggestellt; der Geschäftsführer bestreitet weiterhin, dass die Erwerberin materiell40Prozent hält. Reicht die Liste zur endgültigen Klärung? Fertige einen kurzen Vermerk.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Trennt§16Abs1GmbHGvon materieller Berechtigung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "OrdnetBGH21.04.2026IIZR50/25fallbezogen ein, ohne automatische Klagepflicht oder Registerentscheidung über Eigentum.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Liefert begründeten Vermerk und konkrete nächste Beweisfrage.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "private-daten-austausch",
+      "target_skill": "registerdaten-und-datenschutz",
+      "request": "Im öffentlichen Registerordner steht die private Straßenanschrift und Unterschriftsabbildung des Geschäftsführers der Komplementär-GmbH. Das Gericht meint, die Daten müssten bleiben, weil sie auch in anderen Akten stehen. Entwirf einen Antrag; ein Notar kann eine korrekte Ersatzfassung erstellen.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "WendetBGH18.02.2026IIZB2/25an und unterscheidet Pflichtdaten von überschießenden Daten.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Trennt Austausch im öffentlichen Ordner von Originalaufbewahrung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Erzeugt keine angeblich bereits notariell beglaubigte Ersatzfassung; formuliert vollständigen Antrag mit korrektem Stand.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "endgueltige-zwischenverfuegung",
+      "target_skill": "registerschriftverkehr-und-zwischenverfuegung",
+      "request": "Das Registergericht bezeichnet sein Schreiben als Zwischenverfügung: Die beantragte Eintragung sei endgültig rechtlich unmöglich, binnenzweiWochen solle der Antrag zurückgenommen werden. Erstelle eine Verfahrenseinschätzung und ein Antwortschreiben, ohne Rücknahme.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Erkennt Abgrenzung§382Abs3/4FamFGundBGHIIZB15/22.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Setzt Aufhebung nicht mit materieller Eintragungsfähigkeit gleich.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Prüft Bekanntgabe/Rechtsbehelfsfrist und verfasst Antwort ohne ungefragte Rücknahme.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

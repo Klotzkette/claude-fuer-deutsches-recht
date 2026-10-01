@@ -11,7 +11,7 @@
 
 Startup-Gründer: 18 Skills für eine zügige UG- oder GmbH-Gründung mit Satzung und Gesellschaftervereinbarung DE/EN. Cap Table, Geschäftsführung, Statusprüfung, Beirat, Geldwäsche und Vollzug; Seed bis Serie B als Folgerouten. Mit Werkstatt und Schnittflug-Testakte.
 
-Dieses Plugin gehört zum Marketplace mit 261 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 265 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 <!-- decimal-anchor --> <a id="welche-datei-wofür--which-file-should-i-use"></a>
 
@@ -62,7 +62,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown / identisches TXT | [`startup-gruender-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=startup-gruender/startup-gruender-werkstatt.md) · [`startup-gruender-werkstatt.txt`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=startup-gruender/startup-gruender-werkstatt.txt) |
 | Zugeordnete Testakten | PDF / ZIP | [2 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 261 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 265 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 <!-- decimal-anchor --> <a id="zugeordnete-testakten"></a>
 
@@ -76,15 +76,15 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
-| [Topf & Tacheles – einfache GmbH-Gründung in Berlin](../testakten/gesellschaftsgruender-topf-tacheles-berlin/README.md) | [Gesamt-PDF](../testakten/gesellschaftsgruender-topf-tacheles-berlin/gesamt-pdf/gesellschaftsgruender-topf-tacheles-berlin_gesamt.pdf) | [`testakte-gesellschaftsgruender-topf-tacheles-berlin.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.23.0/testakte-gesellschaftsgruender-topf-tacheles-berlin.zip) | [`testakte-gesellschaftsgruender-topf-tacheles-berlin-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.23.0/testakte-gesellschaftsgruender-topf-tacheles-berlin-einzelpdfs.zip) |
-| [Startup Gründer Schnittflug Berlin](../testakten/startup-gruender-schnittflug-berlin/README.md) | [Gesamt-PDF](../testakten/startup-gruender-schnittflug-berlin/gesamt-pdf/startup-gruender-schnittflug-berlin_gesamt.pdf) | [`testakte-startup-gruender-schnittflug-berlin.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.23.0/testakte-startup-gruender-schnittflug-berlin.zip) | [`testakte-startup-gruender-schnittflug-berlin-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.23.0/testakte-startup-gruender-schnittflug-berlin-einzelpdfs.zip) |
+| [Topf & Tacheles – einfache GmbH-Gründung in Berlin](../testakten/gesellschaftsgruender-topf-tacheles-berlin/README.md) | [Gesamt-PDF](../testakten/gesellschaftsgruender-topf-tacheles-berlin/gesamt-pdf/gesellschaftsgruender-topf-tacheles-berlin_gesamt.pdf) | [`testakte-gesellschaftsgruender-topf-tacheles-berlin.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.24.0/testakte-gesellschaftsgruender-topf-tacheles-berlin.zip) | [`testakte-gesellschaftsgruender-topf-tacheles-berlin-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.24.0/testakte-gesellschaftsgruender-topf-tacheles-berlin-einzelpdfs.zip) |
+| [Startup Gründer Schnittflug Berlin](../testakten/startup-gruender-schnittflug-berlin/README.md) | [Gesamt-PDF](../testakten/startup-gruender-schnittflug-berlin/gesamt-pdf/startup-gruender-schnittflug-berlin_gesamt.pdf) | [`testakte-startup-gruender-schnittflug-berlin.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.24.0/testakte-startup-gruender-schnittflug-berlin.zip) | [`testakte-startup-gruender-schnittflug-berlin-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.24.0/testakte-startup-gruender-schnittflug-berlin-einzelpdfs.zip) |
 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->
 
-**Version:** `445.23.0`
+**Version:** `445.24.0`
 
-Von den ersten Gründerangaben zu einer vollständigen Satzung und Gesellschaftervereinbarung: **18 Skills**, ein ausführlicher Werkstatt-Prompt und ein Mini-Prompt mit **exakt 7.500 Unicode-Zeichen einschließlich Leerzeichen und Zeilenumbrüchen**. Der Schwerpunkt liegt auf der Gründung; Seed, Serie A und Serie B werden erst bei einem konkreten Auftrag oder als klar bezeichnete Optionen bearbeitet.
+Von den ersten Gründerangaben zu einer vollständigen Satzung und Gesellschaftervereinbarung: **18 Skills**, ein ausführlicher Werkstatt-Prompt und ein Mini-Prompt mit **höchstens 7.500 Unicode-Zeichen einschließlich Leerzeichen und Zeilenumbrüchen**. Der Schwerpunkt liegt auf der Gründung; Seed, Serie A und Serie B werden erst bei einem konkreten Auftrag oder als klar bezeichnete Optionen bearbeitet.
 
 <!-- decimal-anchor --> <a id="schnell-zur-gründungsfassung"></a>
 
@@ -131,7 +131,7 @@ Die Werkstatt umfasst 40 Kapitel und 40 A4-Seiten in der geprüften PDF-Lesefass
 
 [Mini-Prompt als Markdown](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=startup-gruender/startup-gruender-schnellstart.md) · [Mini-Prompt als TXT](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=startup-gruender/startup-gruender-schnellstart.txt)
 
-Der Mini hat exakt 7.500 Zeichen einschließlich Leerzeichen und Zeilenumbrüchen. Markdown und TXT enthalten denselben Prompt. Ein zusätzlicher Schwerpunkt- oder Megaprompt wird nicht veröffentlicht.
+Der Mini hat höchstens 7.500 Zeichen einschließlich Leerzeichen und Zeilenumbrüchen. Markdown und TXT enthalten denselben Prompt. Ein zusätzlicher Schwerpunkt- oder Megaprompt wird nicht veröffentlicht.
 
 <!-- decimal-anchor --> <a id="einfache-testakte-topf--tacheles"></a>
 

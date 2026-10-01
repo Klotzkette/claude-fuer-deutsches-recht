@@ -1,6 +1,6 @@
 # insolvenzrecht
 
-**99 Skills** · Stand `v445.23.0`
+**99 Skills** · Stand `v445.24.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../insolvenzrecht/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -10,6 +10,7 @@
 | --- | --- | --- |
 | **Großer Prompt (Werkstatt)** | Markdown | [`insolvenzrecht-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzrecht/insolvenzrecht-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`insolvenzrecht-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzrecht/insolvenzrecht-schnellstart.md) |
+| **Schwerpunkt-Prompt (Hauptproblem)** | MD | [`insolvenzrecht-hauptproblem.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzrecht/insolvenzrecht-hauptproblem.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [insolvenzrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/insolvenzrecht.zip) |
 

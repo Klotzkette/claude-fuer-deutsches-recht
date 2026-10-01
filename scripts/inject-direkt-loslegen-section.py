@@ -573,6 +573,9 @@ def block(plugin: dict, directory: Path, akten_slugs: list[str], marketplace_cou
     if plugin_name in {"vertragserstellung", "wirtschaftsanwalt", "antidiskriminierung-agg", "mietchecker", "eigenbedarfskuendigungschecker"}:
         skill_note = "Alle zehn Skills sind im Plugin unmittelbar enthalten. Der Hauptskill bearbeitet den Auftrag selbst; die übrigen Skills vertiefen konkrete Teilfragen. Bei einem einzelnen Skill-Download müssen seine verlinkten Referenzen zusätzlich verfügbar sein."
         skill_note_en = "All ten skills are included directly in the plugin. The main skill carries out the assignment; the others address specific issues. A downloaded individual skill also needs its linked references."
+    elif plugin_name in {"transparenzregister-assistent", "handelsregister-assistent", "grundbuchamt-assistent", "markenamt-assistent"}:
+        skill_note = "Alle elf Skills sind unmittelbar enthalten: zehn Fachskills und der Hauptproblem-Skill. Werkstatt, Mini und Hauptproblem-Prompt sind getrennte eigenständige Downloads. Beim Einzel-Download eines Skills müssen die verlinkten Referenzen zusätzlich verfügbar sein."
+        skill_note_en = "All eleven skills are directly included: ten task workflows and one main problem workflow. Workshop, mini and focus prompts are separate standalone downloads. A downloaded individual skill also needs its linked references."
     elif plugin_name == "gmbh-gesellschafterversammlung":
         skill_note = "Alle sechs Skills sind unmittelbar enthalten: fünf Fachskills und der Hauptproblem-Skill gesellschafterversammlung-organisieren. Die Werkstatt und der Mini-Prompt sind gesonderte eigenständige Downloads. Referenzen, Ausgabebausteine und Stimmenprüfer gehören zum Plugin-ZIP; beim Einzel-Download eines Skills müssen seine Hilfsdateien zusätzlich verfügbar sein."
         skill_note_en = "All six skills are included directly: five task skills and one main workflow. The workshop and mini prompt are separate standalone downloads. References, drafting blocks and the vote calculator are included in the plugin ZIP; an individual skill download does not include its supporting files."
@@ -647,6 +650,12 @@ Links labelled “MD herunterladen / Download MD” start a file download. Navig
             mini_txt_url = markdown_download_url(f"{plugin_rel}/{mini_txt_file}")
             result = result.replace(f"[MD herunterladen / Download MD]({schnellstart_url}) |", f"[MD herunterladen / Download MD]({schnellstart_url}) · [TXT herunterladen / Download TXT]({mini_txt_url}) |", 1)
             result = result.replace(f"| Kompakter Prompt (Schnellstart) | Markdown | [`{schnellstart_file}`]({schnellstart_url}) |", f"| Kompakter Prompt (Schnellstart) | Markdown / identisches TXT | [`{schnellstart_file}`]({schnellstart_url}) · [`{mini_txt_file}`]({mini_txt_url}) |")
+        if (directory / focus_file).is_file():
+            focus_txt_file = f"{stem}-hauptproblem.txt"
+            if (directory / focus_txt_file).is_file():
+                focus_txt_url = markdown_download_url(f"{plugin_rel}/{focus_txt_file}")
+                result = result.replace(f'<a href="{focus_url}" download>MD herunterladen / Download MD</a> |', f'<a href="{focus_url}" download>MD herunterladen / Download MD</a> · [TXT herunterladen / Download TXT]({focus_txt_url}) |')
+                result = result.replace(f'| Schwerpunkt-Prompt (Hauptproblem) | Markdown | <a href="{focus_url}" download>{focus_file}</a> |', f'| Schwerpunkt-Prompt (Hauptproblem) | Markdown / identisches TXT | <a href="{focus_url}" download>{focus_file}</a> · [`{focus_txt_file}`]({focus_txt_url}) |')
     return result
 
 

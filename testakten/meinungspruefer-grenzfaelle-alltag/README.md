@@ -14,8 +14,8 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/meinungspruefer-grenzfaelle-alltag_gesamt.pdf`](gesamt-pdf/meinungspruefer-grenzfaelle-alltag_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-meinungspruefer-grenzfaelle-alltag.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.23.0/testakte-meinungspruefer-grenzfaelle-alltag.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-meinungspruefer-grenzfaelle-alltag-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.23.0/testakte-meinungspruefer-grenzfaelle-alltag-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-meinungspruefer-grenzfaelle-alltag.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.24.0/testakte-meinungspruefer-grenzfaelle-alltag.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-meinungspruefer-grenzfaelle-alltag-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.24.0/testakte-meinungspruefer-grenzfaelle-alltag-einzelpdfs.zip) |
 
 Die ZIP-Links laden den zur angegebenen Marketplace-Version gehörenden Akten-Begleitrelease. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
@@ -81,4 +81,4 @@ Die Akte verlangt nacheinander Wortlautsicherung, Kontextklärung, Trennung von 
 >
 > This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
-[testakte-meinungspruefer-grenzfaelle-alltag.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.23.0/testakte-meinungspruefer-grenzfaelle-alltag.zip)
+[testakte-meinungspruefer-grenzfaelle-alltag.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.24.0/testakte-meinungspruefer-grenzfaelle-alltag.zip)

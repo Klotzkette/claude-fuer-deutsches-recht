@@ -1,0 +1,179 @@
+{
+  "date": "2026-10-01",
+  "plugin": "handelsregister-assistent",
+  "method": "Neue amtliche Entscheidungen heruntergeladen, Text extrahiert und bezeichnete Passagen gelesen; Normen und Länderhinweise live geprüft.",
+  "decisions": [
+    {
+      "citation": "BGH, Urt. v. 21.04.2026 – Az. II ZR 50/25",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2025/II_ZR__50-25.pdf?__blob=publicationFile&v=1",
+      "application": "Ernsthafte materielle Statusbestreitung kann trotz richtiger Liste Feststellungsinteresse begründen.",
+      "limit": "Kein Automatismus zur Klage, kein Beleg fremdrechtlicher Vertretungsmacht.",
+      "checked_on": "2026-10-01",
+      "read_passages": "Kopf, Sachverhalt, Rn. 10–30",
+      "verification": "fresh_primary_passages",
+      "source_sha256": "88b2a5a3c77acc238dba4e80da9dda4aee47035aa1bb36ae4481bcaccf3ef0e2"
+    },
+    {
+      "citation": "BGH, Beschl. v. 25.02.2026 – Az. II ZB 13/24",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2024/II_ZB__13-24.pdf?__blob=publicationFile&v=1",
+      "application": "Untersuchte österreichische Onlinebeglaubigung nicht gleichwertig; abstrakte Verfahrensgarantien prüfen.",
+      "limit": "Keine pauschale Zurückweisung ausländischer Präsenzbeglaubigungen; spätere Verfahrensänderungen gesondert.",
+      "checked_on": "2026-10-01",
+      "read_passages": "Kopf, Rn. 1–29 und 32–48",
+      "verification": "fresh_primary_passages",
+      "source_sha256": "3a2c6847571a553ba2a2d7dce21c2b3d0f6584493a3a8a8dacc03f09ac3c41cb"
+    },
+    {
+      "citation": "BGH, Beschl. v. 18.02.2026 – Az. II ZB 2/25",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2025/II_ZB___2-25.pdf?__blob=publicationFile&v=1",
+      "application": "Austausch öffentlicher überobligatorischer Daten nach Einwilligungswiderruf nach §9Abs7HRV.",
+      "limit": "Pflichtdaten und Aufbewahrung in Registerakte nicht pauschal löschen; Ersatzfassung muss formgerecht sein.",
+      "checked_on": "2026-10-01",
+      "read_passages": "Kopf/Tenor, Rn. 20–25, 32–38, 43–49 mit Zusammenhang",
+      "verification": "fresh_primary_passages",
+      "source_sha256": "77d7049301fd9d2bab0d6210f69ff13b624e0e4dd7436b5913ff6868d31667f8"
+    },
+    {
+      "citation": "BGH, Beschl. v. 19.09.2023 – Az. II ZB 15/22",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2022/II_ZB__15-22.pdf?__blob=publicationFile&v=1",
+      "application": "Zwischenverfügung erfordert behebbares Hindernis; bloße Rücknahmeaufforderung bei endgültiger Ablehnung genügt nicht.",
+      "limit": "Aufhebung ersetzt nicht Sachentscheidung; Sparkassenvereinigung nicht auf beliebige Umwandlung übertragen.",
+      "checked_on": "2026-10-01",
+      "read_passages": "Kopf/Tenor, Rn. 8–12",
+      "verification": "fresh_primary_passages",
+      "source_sha256": "fae44e48d1b17556317d1f6f20e3ad574c4aa8a48f3897b3d67b4a773c9a974b"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2025/II_ZR__50-25.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-01",
+      "supports": "Ernsthafte materielle Statusbestreitung kann trotz richtiger Liste Feststellungsinteresse begründen. Grenze: Kein Automatismus zur Klage, kein Beleg fremdrechtlicher Vertretungsmacht. Gelesen: Kopf, Sachverhalt, Rn. 10–30",
+      "verification_status": "fresh_primary_passages",
+      "source_sha256": "88b2a5a3c77acc238dba4e80da9dda4aee47035aa1bb36ae4481bcaccf3ef0e2"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2024/II_ZB__13-24.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-01",
+      "supports": "Untersuchte österreichische Onlinebeglaubigung nicht gleichwertig; abstrakte Verfahrensgarantien prüfen. Grenze: Keine pauschale Zurückweisung ausländischer Präsenzbeglaubigungen; spätere Verfahrensänderungen gesondert. Gelesen: Kopf, Rn. 1–29 und 32–48",
+      "verification_status": "fresh_primary_passages",
+      "source_sha256": "3a2c6847571a553ba2a2d7dce21c2b3d0f6584493a3a8a8dacc03f09ac3c41cb"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2025/II_ZB___2-25.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-01",
+      "supports": "Austausch öffentlicher überobligatorischer Daten nach Einwilligungswiderruf nach §9Abs7HRV. Grenze: Pflichtdaten und Aufbewahrung in Registerakte nicht pauschal löschen; Ersatzfassung muss formgerecht sein. Gelesen: Kopf/Tenor, Rn. 20–25, 32–38, 43–49 mit Zusammenhang",
+      "verification_status": "fresh_primary_passages",
+      "source_sha256": "77d7049301fd9d2bab0d6210f69ff13b624e0e4dd7436b5913ff6868d31667f8"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2022/II_ZB__15-22.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-01",
+      "supports": "Zwischenverfügung erfordert behebbares Hindernis; bloße Rücknahmeaufforderung bei endgültiger Ablehnung genügt nicht. Grenze: Aufhebung ersetzt nicht Sachentscheidung; Sparkassenvereinigung nicht auf beliebige Umwandlung übertragen. Gelesen: Kopf/Tenor, Rn. 8–12",
+      "verification_status": "fresh_primary_passages",
+      "source_sha256": "fae44e48d1b17556317d1f6f20e3ad574c4aa8a48f3897b3d67b4a773c9a974b"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/__12.html",
+      "checked_on": "2026-10-01",
+      "supports": "Form der Anmeldung und elektronische Dokumenttypen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/__15.html",
+      "checked_on": "2026-10-01",
+      "supports": "Absatzweise Registerpublizität mit Kenntnis und Zeitpunkt."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__40.html",
+      "checked_on": "2026-10-01",
+      "supports": "Geschäftsführer-/Notarzuständigkeit, Angaben und Zeitpunkt der Liste."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__39.html",
+      "checked_on": "2026-10-01",
+      "supports": "Organänderung, Nachweise, persönliche Versicherungen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/famfg/__378.html",
+      "checked_on": "2026-10-01",
+      "supports": "Notarielle Prüfung und in Handels-/Gesellschaftsregistersachen Weiterleitung über Notar."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/famfg/__382.html",
+      "checked_on": "2026-10-01",
+      "supports": "Eintragung, Ablehnung und Zwischenverfügung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/famfg/__26.html",
+      "checked_on": "2026-10-01",
+      "supports": "Gerichtliche Amtsermittlung; kein garantierter Auslandsnachweis."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/__53.html",
+      "checked_on": "2026-10-01",
+      "supports": "Anmeldung der Prokuraerteilung und ihres Erlöschens."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/__13h.html",
+      "checked_on": "2026-10-01",
+      "supports": "Sitzverlegung über bisheriges Gericht."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__54.html",
+      "checked_on": "2026-10-01",
+      "supports": "Vollständige bescheinigte Satzung und Wirksamkeit durch Eintragung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hdlregvfg/__9.html",
+      "checked_on": "2026-10-01",
+      "supports": "Registerordner, öffentlich zugängliche Dokumente und Austauschvermerk."
+    },
+    {
+      "url": "https://www.hcch.net/en/instruments/conventions/status-table/?cid=41",
+      "checked_on": "2026-10-01",
+      "supports": "Tabelle Stand30.06.2026 vollständig gelesen: Sri Lanka nicht als Partei; Kanada EIF11.01.2024. Länderbezogene Einwände im Echtfall gesondert."
+    },
+    {
+      "url": "https://colombo.diplo.de/lk-de/service/1589176-1589176",
+      "checked_on": "2026-10-01",
+      "supports": "Abschnitte Legalisation/Urkundenprüfung: Sri-Lanka-Legalisation eingestellt, Amtshilfe/Rechtshilfe möglich, keine Privataufträge."
+    },
+    {
+      "url": "https://colombo.diplo.de/resource/blob/2290398/cd7fd9e4a6f122c501e96c6279c0b70b/certification-of-documents-merkblatt-data.pdf",
+      "checked_on": "2026-10-01",
+      "supports": "Merkblatt Dezember2025: Prüfwege insbesondere Personenstand/Scheidungsurteile; keine Garantie einer Gesellschaftsurkundenprüfung."
+    },
+    {
+      "url": "https://drc.gov.lk/en/?author=0",
+      "checked_on": "2026-10-01",
+      "supports": "Amtliche Angaben zur elektronischen Ausgabe zertifizierter Formularkopien seit02.05.2022; keine deutsche Registerpublizität behauptet."
+    }
+  ],
+  "limits": [
+    "Kein Vollzugstest in realen Notarpostfächern oder Registern.",
+    "Kein Gutachten zum gesamten sri-lankischen Gesellschaftsrecht; gezielte Nachweisfragen und amtliche Länderwege.",
+    "Keine Behauptung einer Botschaftsprüfung von Gesellschaftsdokumenten; Umfang vorab zu klären."
+  ],
+  "files": [
+    {
+      "path": "handelsregister-assistent/handelsregister-assistent-werkstatt.md",
+      "sha256": "7f13500c862b2eb6bf97ae71b1af81723a6dab50c43a7e4d348660dee93bb02c"
+    },
+    {
+      "path": "handelsregister-assistent/handelsregister-assistent-schnellstart.md",
+      "sha256": "a14a05905f2f4a7e6bebd10ec99cff24a974331c3789f4ee6a0bd43a240ca310"
+    },
+    {
+      "path": "handelsregister-assistent/handelsregister-assistent-hauptproblem.md",
+      "sha256": "482ebef2b001588c222001c55a4f964b0b0df3c3cfeaabb398f133a5feb4662d"
+    },
+    {
+      "path": "handelsregister-assistent/skills/hauptproblem-registervorgang-zum-vollzug/SKILL.md",
+      "sha256": "5198cb8d6b7e8cfa3d2fabb203af165729ee1e5df22ccbe4edf48cb0a4a4d158"
+    },
+    {
+      "path": "handelsregister-assistent/references/registerverfahren-und-quellen.md",
+      "sha256": "85395922bd0cbf5fdf5232df30b679fede264bdf991bd681f84d78a217f3e464"
+    }
+  ]
+}

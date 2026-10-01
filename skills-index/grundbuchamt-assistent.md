@@ -1,0 +1,45 @@
+# grundbuchamt-assistent
+
+**11 Skills** · Stand `v445.24.0`
+
+[Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../grundbuchamt-assistent/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
+
+## Downloads
+
+| Paket | Format | Link |
+| --- | --- | --- |
+| **Großer Prompt (Werkstatt)** | Markdown | [`grundbuchamt-assistent-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundbuchamt-assistent/grundbuchamt-assistent-werkstatt.md) |
+| **Derselbe Werkstatt-Prompt als Text** | TXT | [`grundbuchamt-assistent-werkstatt.txt` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundbuchamt-assistent/grundbuchamt-assistent-werkstatt.txt) |
+| **Kleiner Prompt (Schnellstart)** | Markdown | [`grundbuchamt-assistent-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundbuchamt-assistent/grundbuchamt-assistent-schnellstart.md) |
+| **Derselbe Schnellstart-Prompt als Text** | TXT | [`grundbuchamt-assistent-schnellstart.txt` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundbuchamt-assistent/grundbuchamt-assistent-schnellstart.txt) |
+| **Schwerpunkt-Prompt (Hauptproblem)** | MD | [`grundbuchamt-assistent-hauptproblem.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundbuchamt-assistent/grundbuchamt-assistent-hauptproblem.md) |
+| **Schwerpunkt-Prompt (Hauptproblem)** | TXT | [`grundbuchamt-assistent-hauptproblem.txt` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundbuchamt-assistent/grundbuchamt-assistent-hauptproblem.txt) |
+| **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
+| **Plugin (installierbar)** | ZIP | [grundbuchamt-assistent.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/grundbuchamt-assistent.zip) |
+
+## So benutzt man einen Skill
+
+Diese alphabetische Liste zeigt alle Skills im Quellbestand. Umfangreiche Spezialserien werden im installierten Paket teilweise über einen Fachrouter geöffnet und sind dann keine eigenen Menüeinträge. Werkstatt und Schnellstart sind eigenständige Ein-Datei-Prompts außerhalb des Plugin-ZIPs.
+
+English: This index lists source skills, including specialist series accessed through topic routers in the installed package. Workshop and quick-start files are separate standalone prompts. A skill download provides unchanged Markdown, not an installation; additional references or tools may be required.
+
+- **Schnelltest mit einer Datei:** oben auf den Schnellstart-Markdown klicken, die `.md` als Anhang in den Chatbot ziehen.
+- **Volle Ein-Datei-Tiefe:** oben auf den Werkstatt-Markdown klicken, die `.md` als ausführlichen Arbeitsmodus verwenden.
+- **Volle Skill-Tiefe:** das Sammel-ZIP `alle-skills-markdown.zip` herunterladen und entpacken. Es enthält neben jeder `SKILL.md` auch deren Markdown-Referenzen; beim manuellen Einsatz die benötigten Dateien gemeinsam bereitstellen.
+- **Einzelnen Skill laden:** in der Tabelle auf den Skillnamen oder auf `MD herunterladen` klicken. Beide Wege speichern dieselbe Markdown-Datei.
+
+## Skills in diesem Plugin
+
+| Skill | Beschreibung | Markdown-Datei |
+| --- | --- | --- |
+| [`eigentum-vormerkung-und-vollzug`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundbuchamt-assistent/skills/eigentum-vormerkung-und-vollzug/SKILL.md) | Eigentumsumschreibung, Vormerkung, Genehmigungen und Fälligkeitsnachweise in der vorgesehenen Reihenfolge koordinieren. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundbuchamt-assistent/skills/eigentum-vormerkung-und-vollzug/SKILL.md) |
+| [`erbfolge-und-grundbuchberichtigung`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundbuchamt-assistent/skills/erbfolge-und-grundbuchberichtigung/SKILL.md) | Erbnachweise, nicht benannte Abkömmlinge, Nacherbfolge und Berichtigung bis zum Antrag oder Nachforderungsschreiben führen. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundbuchamt-assistent/skills/erbfolge-und-grundbuchberichtigung/SKILL.md) |
+| [`grundbuch-und-bezugsurkunden-lesen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundbuchamt-assistent/skills/grundbuch-und-bezugsurkunden-lesen/SKILL.md) | Bestandsverzeichnis, Eigentümer, Belastungen, Rang und Urkundenverweise in eine belastbare Bestandsaufnahme überführen. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundbuchamt-assistent/skills/grundbuch-und-bezugsurkunden-lesen/SKILL.md) |
+| [`grundbuchantrag-und-form-pruefen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundbuchamt-assistent/skills/grundbuchantrag-und-form-pruefen/SKILL.md) | Antragsberechtigung, Betroffenenbewilligung, materielle Erklärung und Nachweisform zu einem vollziehbaren Paket ordnen. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundbuchamt-assistent/skills/grundbuchantrag-und-form-pruefen/SKILL.md) |
+| [`grundbucheinsicht-begruenden`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundbuchamt-assistent/skills/grundbucheinsicht-begruenden/SKILL.md) | Einsichtsbegehren, berechtigtes Interesse, Umfang und zulässigen Abrufweg bis zum fertigen Antrag bearbeiten. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundbuchamt-assistent/skills/grundbucheinsicht-begruenden/SKILL.md) |
+| [`grundbuchvorgang-zum-ergebnis-fuehren`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundbuchamt-assistent/skills/grundbuchvorgang-zum-ergebnis-fuehren/SKILL.md) | Hauptproblem-Skill für Grundbuchvorgänge von der vorhandenen Akte über Einsicht, Form, Berechtigung und Rückfragen bis zum fertigen Schreiben und überprüften Vollzugsstand. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundbuchamt-assistent/skills/grundbuchvorgang-zum-ergebnis-fuehren/SKILL.md) |
+| [`grundschuld-rang-und-loeschung`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundbuchamt-assistent/skills/grundschuld-rang-und-loeschung/SKILL.md) | Brief- und Buchgrundschuld, Abtretung, Rangänderung, Rückgewähr und Löschungsunterlagen fallbezogen prüfen. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundbuchamt-assistent/skills/grundschuld-rang-und-loeschung/SKILL.md) |
+| [`grundschuldbrief-aufgebot-und-wiederfund`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundbuchamt-assistent/skills/grundschuldbrief-aufgebot-und-wiederfund/SKILL.md) | Verlorenen Grundschuldbrief, Aufgebot, Ersatzbrief und späteren Wiederfund vom Belegabgleich bis zur Kommunikation bearbeiten. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundbuchamt-assistent/skills/grundschuldbrief-aufgebot-und-wiederfund/SKILL.md) |
+| [`vertretung-und-urkundenkette-pruefen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundbuchamt-assistent/skills/vertretung-und-urkundenkette-pruefen/SKILL.md) | Vollmacht, Organvertretung, Nachfolge und Identität mit den für den Vollzug erforderlichen Nachweisen abgleichen. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundbuchamt-assistent/skills/vertretung-und-urkundenkette-pruefen/SKILL.md) |
+| [`vollzug-kosten-und-zugriff-dokumentieren`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundbuchamt-assistent/skills/vollzug-kosten-und-zugriff-dokumentieren/SKILL.md) | Freigegebene Grundbuchvorgänge, Übermittlungsnachweise, Kosten, Briefverwahrung und Abschluss bis zum verifizierten Endstand verfolgen. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundbuchamt-assistent/skills/vollzug-kosten-und-zugriff-dokumentieren/SKILL.md) |
+| [`zwischenverfuegung-und-beschwerde`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundbuchamt-assistent/skills/zwischenverfuegung-und-beschwerde/SKILL.md) | Hindernis, Nachweis, Frist, Rang und statthaften Rechtsbehelf auseinanderhalten und eine begründete Antwort erstellen. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundbuchamt-assistent/skills/zwischenverfuegung-und-beschwerde/SKILL.md) |

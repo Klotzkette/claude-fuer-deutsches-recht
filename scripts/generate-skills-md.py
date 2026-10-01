@@ -288,6 +288,14 @@ def plugin_detail_page(name: str, skills: list[str], version: str) -> str:
             mini_txt_url = markdown_download_url(f"{_source_rel}/{name}-schnellstart.txt")
             mini_index = next(i for i, line in enumerate(lines) if line.startswith("| **Kleiner Prompt (Schnellstart)**")) + 1
             lines.insert(mini_index, f"| **Derselbe Schnellstart-Prompt als Text** | TXT | [`{name}-schnellstart.txt` herunterladen]({mini_txt_url}) |")
+    focus_file = REPO_ROOT / _source_rel / f"{name}-hauptproblem.md"
+    if focus_file.is_file():
+        index = next(i for i, line in enumerate(lines) if line.startswith("| **Alle Skills als Markdown**"))
+        for ext in formats(name):
+            if focus_file.with_suffix("." + ext).is_file():
+                url = markdown_download_url(f"{_source_rel}/{name}-hauptproblem.{ext}")
+                lines.insert(index, f"| **Schwerpunkt-Prompt (Hauptproblem)** | {ext.upper()} | [`{name}-hauptproblem.{ext}` herunterladen]({url}) |")
+                index += 1
     for s in skills:
         skill_md = skills_dir / s / "SKILL.md"
         desc = read_description(skill_md)

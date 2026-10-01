@@ -1,0 +1,106 @@
+name: markenamt-kichererbse
+plugin: markenamt-assistent
+description: Eine Berliner Lebensmittelherstellerin bereitet die Verteidigung ihrer Unionsmarkenanmeldung vor. Ein
+  älteres Zeichen, eine unklare Übertragung, britische Benutzungsunterlagen und eine jüngere Lizenz erzeugen mehrere
+  voneinander unabhängige Beweisfragen.
+checks:
+- id: originalbestand
+  check_type: working_file_count
+  description: Zwanzig getrennte Arbeitsunterlagen ohne Bewertungs- oder Downloadmetadaten liegen vor.
+  min: 20
+- id: beleg-01
+  check_type: file_exists
+  path: 01_Auftrag.docx
+  description: Mandatsauftrag Kichererbse
+- id: beleg-02
+  check_type: file_exists
+  path: 02_Anmeldeabschrift.pdf
+  description: Interne Abschrift der Unionsmarkenanmeldung
+- id: beleg-03
+  check_type: file_exists
+  path: 03_Email_Widerspruch.eml
+  description: 'Fwd: KIKERBSE gegen KICHERERBSE'
+- id: beleg-04
+  check_type: file_exists
+  path: 04_Widerspruch_Arbeitsabschrift.docx
+  description: Arbeitsabschrift des gegnerischen Vortrags
+- id: beleg-05
+  check_type: file_exists
+  path: 05_Altregister_Abschrift.pdf
+  description: Älteres Recht – Notiz aus der Vertragsablage
+- id: beleg-06
+  check_type: file_exists
+  path: 06_Uebertragungsentwurf.docx
+  description: Entwurf Markenübertragung
+- id: beleg-07
+  check_type: file_exists
+  path: 07_Email_Gegenseite.eml
+  description: Unterlagen zur Benutzung
+- id: beleg-08
+  check_type: file_exists
+  path: 08_Lizenzvertrag.docx
+  description: Lizenzvertrag mit Löffelbund GmbH
+- id: beleg-09
+  check_type: file_exists
+  path: 09_Rechnung_2022.pdf
+  description: Rechnungsabschrift NW-2022-418
+- id: beleg-10
+  check_type: file_exists
+  path: 10_Rechnung_2024.pdf
+  description: Rechnungsabschrift NW-2024-071
+- id: beleg-11
+  check_type: file_exists
+  path: 11_Rechnung_UK_2020.pdf
+  description: Sales invoice NK-2020-88
+- id: beleg-12
+  check_type: file_exists
+  path: 12_Rechnung_2026.pdf
+  description: Rechnung LB-2026-033
+- id: beleg-13
+  check_type: file_exists
+  path: 13_Benutzungsablage.xlsx
+  description: Belegverzeichnis der Gegenseite
+- id: beleg-14
+  check_type: file_exists
+  path: 14_Fristenablage.xlsx
+  description: Verfahrensdaten laut Assistenz
+- id: beleg-15
+  check_type: file_exists
+  path: 15_Chat_Produktfoto.txt
+  description: Chat zur Herkunft der Produktfotos
+- id: beleg-16
+  check_type: file_exists
+  path: 16_Bildablage.png
+  description: Interne Belegablage KIKERBSE
+- id: beleg-17
+  check_type: file_exists
+  path: 17_Vergleichsvorschlag.docx
+  description: Vergleichsvorschlag der Nährwerk Handels GmbH
+- id: beleg-18
+  check_type: file_exists
+  path: 18_Email_Vertrieb.eml
+  description: Was wir auf keinen Fall verlieren dürfen
+- id: beleg-19
+  check_type: file_exists
+  path: 19_Besprechungsvermerk.docx
+  description: Vorbereitung der Übergabe vom bisherigen Vertreter
+- id: beleg-20
+  check_type: file_exists
+  path: 20_Email_Stand.eml
+  description: Portalakte folgt, bitte zunächst vorbereiten
+- id: fachpruefung-1
+  check_type: human_review
+  description: Die Erwiderung ordnet das deutsche ältere Recht, den unvollständigen Übertragungsnachweis und das
+    nach Brexit nicht allein tragfähige UK-Recht getrennt zu.
+- id: fachpruefung-2
+  check_type: human_review
+  description: Ein Benutzungsnachweis wird nur bei gegebenen Voraussetzungen und für den einschlägigen Zeitraum
+    verlangt. Lizenzvertrag, Artikelnummer, Rechnung und Zeichenbenutzung werden konkret zusammengeführt.
+- id: fachpruefung-3
+  check_type: human_review
+  description: Eine Rechnung aus 2026 ersetzt den fehlenden Beleg aus dem maßgeblichen früheren Zeitraum nicht ohne
+    weitere Begründung. OSSA wird mit seinen Grenzen verwendet.
+- id: fachpruefung-4
+  check_type: human_review
+  description: Die breite Vergleichsklausel wird auf Rechte, Gebiete, Waren, Verzicht und Kosten geprüft; ihr Versand
+    und eine Rücknahme benötigen eine konkrete Autorisierung.

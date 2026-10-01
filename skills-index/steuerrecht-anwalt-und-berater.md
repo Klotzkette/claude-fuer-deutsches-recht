@@ -1,6 +1,6 @@
 # steuerrecht-anwalt-und-berater
 
-**238 Skills** · Stand `v445.23.0`
+**238 Skills** · Stand `v445.24.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../steuerrecht-anwalt-und-berater/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -10,6 +10,7 @@
 | --- | --- | --- |
 | **Großer Prompt (Werkstatt)** | Markdown | [`steuerrecht-anwalt-und-berater-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`steuerrecht-anwalt-und-berater-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-schnellstart.md) |
+| **Schwerpunkt-Prompt (Hauptproblem)** | MD | [`steuerrecht-anwalt-und-berater-hauptproblem.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-hauptproblem.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [steuerrecht-anwalt-und-berater.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/steuerrecht-anwalt-und-berater.zip) |
 

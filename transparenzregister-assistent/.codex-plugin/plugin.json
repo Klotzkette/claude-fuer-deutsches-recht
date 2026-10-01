@@ -1,0 +1,28 @@
+{
+  "name": "transparenzregister-assistent",
+  "version": "445.24.0",
+  "description": "Transparenzregister: Kontrollketten ermitteln, Meldungen und Berichtigungen vorbereiten, Einsicht und Unstimmigkeiten bearbeiten sowie optional freigegebene Portalhandlungen begleiten. Zehn Fachskills und ein Hauptproblem-Skill mit drei Akten.",
+  "author": {
+    "name": "Klotzkette",
+    "email": "39582916+Klotzkette@users.noreply.github.com"
+  },
+  "license": "Apache-2.0 OR MIT",
+  "homepage": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/transparenzregister-assistent",
+  "keywords": [
+    "transparenzregister",
+    "wirtschaftlich-berechtigte",
+    "gwg",
+    "pep",
+    "registermeldung"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Transparenzregister-Assistent",
+    "shortDescription": "Kontrolle klären und Registervorgänge nachvollziehbar erledigen.",
+    "longDescription": "Transparenzregister: Kontrollketten ermitteln, Meldungen und Berichtigungen vorbereiten, Einsicht und Unstimmigkeiten bearbeiten sowie optional freigegebene Portalhandlungen begleiten. Zehn Fachskills und ein Hauptproblem-Skill mit drei Akten.",
+    "developerName": "Klotzkette",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "Prüfe meinen Transparenzregistervorgang und erstelle das benötigte Meldungspaket oder Schreiben."
+  }
+}

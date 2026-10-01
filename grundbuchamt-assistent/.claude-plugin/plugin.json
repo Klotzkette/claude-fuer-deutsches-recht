@@ -1,0 +1,18 @@
+{
+  "name": "grundbuchamt-assistent",
+  "version": "445.24.0",
+  "description": "Grundbuchvorgänge von Einsicht und Urkundennachweis über Erbberichtigung, Rang und Briefaufgebot bis zur Zwischenverfügung und zum dokumentierten Vollzug. Zehn Fachskills und ein Hauptproblem-Skill mit klaren Notar- und Zugriffsgrenzen.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Klotzkette",
+    "email": "39582916+Klotzkette@users.noreply.github.com"
+  },
+  "homepage": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grundbuchamt-assistent",
+  "keywords": [
+    "grundbuch",
+    "grundschuldbrief",
+    "aufgebot",
+    "erbfolge",
+    "registervollzug"
+  ]
+}

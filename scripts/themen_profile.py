@@ -6091,6 +6091,10 @@ PROFILE_BY_KEY = {p.key: p for p in PROFILE}
 
 
 EXACT_PROFILE_KEYS: dict[str, str] = {
+    "transparenzregister-assistent": "geldwaesche",
+    "handelsregister-assistent": "gesellschaft",
+    "grundbuchamt-assistent": "immobilien",
+    "markenamt-assistent": "marke",
     "eigenbedarfskuendigungschecker": "miet",
     "antidiskriminierung-agg": "arbeits",
     "mietchecker": "miet",

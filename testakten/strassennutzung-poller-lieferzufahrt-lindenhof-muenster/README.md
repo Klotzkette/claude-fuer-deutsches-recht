@@ -19,8 +19,8 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/strassennutzung-poller-lieferzufahrt-lindenhof-muenster_gesamt.pdf`](gesamt-pdf/strassennutzung-poller-lieferzufahrt-lindenhof-muenster_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-strassennutzung-poller-lieferzufahrt-lindenhof-muenster.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.23.0/testakte-strassennutzung-poller-lieferzufahrt-lindenhof-muenster.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-strassennutzung-poller-lieferzufahrt-lindenhof-muenster-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.23.0/testakte-strassennutzung-poller-lieferzufahrt-lindenhof-muenster-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-strassennutzung-poller-lieferzufahrt-lindenhof-muenster.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.24.0/testakte-strassennutzung-poller-lieferzufahrt-lindenhof-muenster.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-strassennutzung-poller-lieferzufahrt-lindenhof-muenster-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.24.0/testakte-strassennutzung-poller-lieferzufahrt-lindenhof-muenster-einzelpdfs.zip) |
 
 Die ZIP-Links laden den zur angegebenen Marketplace-Version gehörenden Akten-Begleitrelease. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
@@ -113,8 +113,8 @@ Die ZIP-Links beziehen sich auf den veröffentlichten Release. Der Repository-St
 | Fassung | Download |
 | --- | --- |
 | Gesamt-PDF | [Gesamte Akte](gesamt-pdf/strassennutzung-poller-lieferzufahrt-lindenhof-muenster_gesamt.pdf) |
-| Akten-ZIP | [Native Einzeldateien](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.23.0/testakte-strassennutzung-poller-lieferzufahrt-lindenhof-muenster.zip) |
-| Einzel-PDF-ZIP | [Jede Unterlage als PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.23.0/testakte-strassennutzung-poller-lieferzufahrt-lindenhof-muenster-einzelpdfs.zip) |
+| Akten-ZIP | [Native Einzeldateien](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.24.0/testakte-strassennutzung-poller-lieferzufahrt-lindenhof-muenster.zip) |
+| Einzel-PDF-ZIP | [Jede Unterlage als PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.24.0/testakte-strassennutzung-poller-lieferzufahrt-lindenhof-muenster-einzelpdfs.zip) |
 
 English: Münster and North Rhine-Westphalia are real; the streets, people, businesses and records are constructed. No authentic municipal instrument, seal or signature is reproduced. The dashboard and chat images are recreated views, not screenshots of a municipal system. Do not contact the named parties, send emails or make payments using these records. The original-format archive contains native files; the individual-PDF archive contains a PDF for each record.
 

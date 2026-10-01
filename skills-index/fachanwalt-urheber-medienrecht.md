@@ -1,6 +1,6 @@
 # fachanwalt-urheber-medienrecht
 
-**79 Skills** · Stand `v445.23.0`
+**79 Skills** · Stand `v445.24.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../fachanwalt-urheber-medienrecht/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -10,6 +10,7 @@
 | --- | --- | --- |
 | **Großer Prompt (Werkstatt)** | Markdown | [`fachanwalt-urheber-medienrecht-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-urheber-medienrecht/fachanwalt-urheber-medienrecht-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`fachanwalt-urheber-medienrecht-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-urheber-medienrecht/fachanwalt-urheber-medienrecht-schnellstart.md) |
+| **Schwerpunkt-Prompt (Hauptproblem)** | MD | [`fachanwalt-urheber-medienrecht-hauptproblem.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-urheber-medienrecht/fachanwalt-urheber-medienrecht-hauptproblem.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [fachanwalt-urheber-medienrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-urheber-medienrecht.zip) |
 

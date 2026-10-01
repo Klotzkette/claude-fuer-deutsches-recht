@@ -1,6 +1,6 @@
 {
   "name": "pflegerecht-sgb-xi",
-  "version": "445.23.0",
+  "version": "445.24.0",
   "description": "Pflegeversicherung nach SGB XI: Pflegegrad, Begutachtung, häusliche Leistungen, Ersatzpflege, Wohnumfeld, Heimkosten, Pflegepersonen, Beiträge und Rechtsbehelfe. Zehn spezialisierte Skills vom Beleg zum Antrag oder Schriftsatz.",
   "license": "Apache-2.0 OR MIT",
   "author": {

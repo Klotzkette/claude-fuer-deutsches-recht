@@ -1,8 +1,8 @@
 # Skills-Index: Detailseiten pro Plugin
 
-Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v445.23.0`.
+Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v445.24.0`.
 
-Die Aufteilung verhindert, dass eine einzige Seite alle 22589 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
+Die Aufteilung verhindert, dass eine einzige Seite alle 22633 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
 
 English: Each plugin has one lightweight detail page containing its complete skill list, descriptions and direct Markdown downloads. Open a plugin page to choose a skill; links labelled `Download MD` save the file instead of opening a source preview.
 
@@ -136,12 +136,14 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 - [gmbh-gesellschafterversammlung](./gmbh-gesellschafterversammlung.md) (6 Skills)
 - [goae-gebuehrenordnung-aerzte](./goae-gebuehrenordnung-aerzte.md) (66 Skills)
 - [grosskanzlei-corporate-ma](./grosskanzlei-corporate-ma.md) (229 Skills)
+- [grundbuchamt-assistent](./grundbuchamt-assistent.md) (11 Skills)
 - [grundbuchamt-praxis](./grundbuchamt-praxis.md) (65 Skills)
 - [grundsteuerrecht](./grundsteuerrecht.md) (10 Skills)
 
 ### H
 
 - [handelsrecht-hgb](./handelsrecht-hgb.md) (57 Skills)
+- [handelsregister-assistent](./handelsregister-assistent.md) (11 Skills)
 - [handelsregister-praxis](./handelsregister-praxis.md) (78 Skills)
 - [handelsvertreterrecht](./handelsvertreterrecht.md) (129 Skills)
 - [hausarbeitenmacher](./hausarbeitenmacher.md) (59 Skills)
@@ -202,6 +204,7 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 ### M
 
 - [mandantenanfragen-assistent](./mandantenanfragen-assistent.md) (59 Skills)
+- [markenamt-assistent](./markenamt-assistent.md) (11 Skills)
 - [markenrecht-fashion-luxus](./markenrecht-fashion-luxus.md) (89 Skills)
 - [meinungspruefer](./meinungspruefer.md) (54 Skills)
 - [memorandums-ersteller](./memorandums-ersteller.md) (59 Skills)
@@ -295,6 +298,7 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 - [tabellenreview-3d](./tabellenreview-3d.md) (84 Skills)
 - [telekommunikationsrecht](./telekommunikationsrecht.md) (58 Skills)
 - [tierschutzrecht](./tierschutzrecht.md) (129 Skills)
+- [transparenzregister-assistent](./transparenzregister-assistent.md) (11 Skills)
 
 ### U
 

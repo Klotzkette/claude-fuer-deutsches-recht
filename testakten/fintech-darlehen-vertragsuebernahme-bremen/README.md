@@ -20,8 +20,8 @@ Die Verfahrensakte gibt es in drei Formaten. Beide ZIPs erhalten die getrennten 
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/fintech-darlehen-vertragsuebernahme-bremen_gesamt.pdf`](gesamt-pdf/fintech-darlehen-vertragsuebernahme-bremen_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-fintech-darlehen-vertragsuebernahme-bremen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.23.0/testakte-fintech-darlehen-vertragsuebernahme-bremen.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-fintech-darlehen-vertragsuebernahme-bremen-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.23.0/testakte-fintech-darlehen-vertragsuebernahme-bremen-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-fintech-darlehen-vertragsuebernahme-bremen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.24.0/testakte-fintech-darlehen-vertragsuebernahme-bremen.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-fintech-darlehen-vertragsuebernahme-bremen-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.24.0/testakte-fintech-darlehen-vertragsuebernahme-bremen-einzelpdfs.zip) |
 
 Die ZIP-Links laden den zur angegebenen Marketplace-Version gehörenden Akten-Begleitrelease. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 

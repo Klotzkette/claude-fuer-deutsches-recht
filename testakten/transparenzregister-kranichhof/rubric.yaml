@@ -1,0 +1,145 @@
+{
+  "name": "transparenzregister-kranichhof",
+  "plugin": "transparenzregister-assistent",
+  "description": "Beleg- und Strukturprüfung der Kranichhof-Akte mit eigener fachlicher Ergebnisrubrik für Kontrollkette, Poolhistorie und Unstimmigkeit; manuelle Prüfungen bleiben offen.",
+  "checks": [
+    {
+      "id": "lesefassung",
+      "check_type": "file_exists",
+      "description": "Die vollständige Lesefassung der konkreten Akte ist vorhanden.",
+      "path": "gesamt-pdf/transparenzregister-kranichhof_gesamt.pdf"
+    },
+    {
+      "id": "native-arbeitsunterlagen",
+      "check_type": "working_file_count",
+      "description": "Mindestens 24 exportierbare Originalunterlagen bilden die Akte ohne Rubrik, README oder Gesamt-PDF.",
+      "min": 24
+    },
+    {
+      "id": "kg-regeln",
+      "check_type": "file_exists",
+      "description": "Kapital, Stimmrecht und Beirat der KG sind als eigenständiger Beleg erhalten.",
+      "path": "03_kg_vertrag_auszug.docx"
+    },
+    {
+      "id": "gmbh-regeln",
+      "check_type": "file_exists",
+      "description": "Die abweichenden Kapital- und Stimmrechtsregeln der Komplementärin sind bearbeitbar vorhanden.",
+      "path": "04_gmbh_satzung_auszug.docx"
+    },
+    {
+      "id": "beteiligung-excel",
+      "check_type": "file_exists",
+      "description": "Festkapital, Haftsumme, Stimmen und Quote stehen in einer nativen Exceldatei.",
+      "path": "05_kommanditisten.xlsx"
+    },
+    {
+      "id": "januarpool",
+      "check_type": "file_exists",
+      "description": "Die frühere Poolregel bleibt neben dem Nachtrag prüfbar.",
+      "path": "06_pool_januar.docx"
+    },
+    {
+      "id": "maerznachtrag",
+      "check_type": "file_exists",
+      "description": "Die neue Weisungsregel mit aufschiebender Bedingung ist vorhanden.",
+      "path": "07_pool_nachtrag_maerz.docx"
+    },
+    {
+      "id": "freigabe-bank",
+      "check_type": "file_exists",
+      "description": "Die tatsächliche schriftliche Kreditfreigabe liegt als separater Beleg vor.",
+      "path": "09_bankfreigabe.pdf"
+    },
+    {
+      "id": "zeitachse-excel",
+      "check_type": "file_exists",
+      "description": "Dokumentdatum und Eingang können in der Zeitachsenmappe getrennt fortgeführt werden.",
+      "path": "20_zeitachse_aktuell.xlsx"
+    },
+    {
+      "id": "tochter-eigener-vorgang",
+      "check_type": "file_exists",
+      "description": "Die Tochtergesellschaft bleibt als gesonderter Rechtsträger in der Akte erkennbar.",
+      "path": "21_tochter_service.pdf"
+    },
+    {
+      "id": "gleiche-stimmen",
+      "check_type": "text_contains",
+      "description": "Die 60-Prozent-Kapitalposition darf nicht mit einer Stimmenmehrheit verwechselt werden.",
+      "path": "04_gmbh_satzung_auszug.docx",
+      "contains": "jeweils 50 Stimmen"
+    },
+    {
+      "id": "beirat-zustimmung",
+      "check_type": "text_contains",
+      "description": "Die vertragliche Beschränkung der Organbestellung ist konkret belegt.",
+      "path": "04_gmbh_satzung_auszug.docx",
+      "contains": "vorherigen Zustimmung des Beirats"
+    },
+    {
+      "id": "pool-bedarf-freigabe",
+      "check_type": "text_contains",
+      "description": "Die notwendige Bedingung des Kontrollwechsels ist vorhanden.",
+      "path": "07_pool_nachtrag_maerz.docx",
+      "contains": "schriftlich freigibt"
+    },
+    {
+      "id": "vorpruefung-unverbindlich",
+      "check_type": "text_contains",
+      "description": "Die Vorprüfung ist ausdrücklich von der späteren Freigabe abgrenzbar.",
+      "path": "08_bank_vorabzusage.eml",
+      "contains": "noch keine verbindliche Kreditfreigabe"
+    },
+    {
+      "id": "kuendigung-keine-zustimmung",
+      "check_type": "text_contains",
+      "description": "Die Gegenposition zur Poolkündigung ist als eigenständige Mail erhalten.",
+      "path": "18_antwort_hildegund.eml",
+      "contains": "stimme einer sofortigen Beendigung aber nicht zu"
+    },
+    {
+      "id": "rueckfrage-register",
+      "check_type": "text_contains",
+      "description": "Die konkrete Antwortfrist bleibt in der Registerrückfrage nachlesbar.",
+      "path": "15_register_rueckfrage.docx",
+      "contains": "8. Oktober 2026"
+    },
+    {
+      "id": "kontrollkette-kein-kapitalautomatismus",
+      "check_type": "human_review",
+      "description": "Die Komplementärkontrolle wird anhand konkreter gesellschaftsvertraglicher Rechte geprüft.",
+      "note": "Offene manuelle Ergebnisprüfung; kein Modelllauf und kein bestandenes fachliches Ergebnis behauptet. Erwartung: Erwins 60 Prozent Kapital in der Verwaltung GmbH nicht als automatische Beherrschung behandeln: Beide haben 50 Stimmen, Organbestellung benötigt Beiratszustimmung. VG Köln vom 29. Januar 2024, 9 K 6020/21, nur mit genau dieser Vertragsfrage und begrenzter Reichweite verwenden."
+    },
+    {
+      "id": "direkte-kg-quoten-erhalten",
+      "check_type": "human_review",
+      "description": "Unmittelbare Kapitalberechtigung und zusätzliche Poolkontrolle werden nebeneinander geprüft.",
+      "note": "Offene manuelle Ergebnisprüfung; kein Modelllauf und kein bestandenes fachliches Ergebnis behauptet. Erwartung: Hildegund 40 Prozent, Erwin 30 Prozent und Samira 30 Prozent des Festkapitals nicht mit den jeweiligen Haftsummen von 5.000 Euro verwechseln. Der Pool nimmt Samira nicht automatisch ihre unmittelbare Kapitalposition. Alte Alleinzuordnung an Erwin und zusätzliche Kontrollrechte getrennt korrigieren."
+    },
+    {
+      "id": "historie-bedingung",
+      "check_type": "human_review",
+      "description": "Die Daten 12., 16., 24. und 25. März werden rechtlich und tatsächlich unterschieden.",
+      "note": "Offene manuelle Ergebnisprüfung; kein Modelllauf und kein bestandenes fachliches Ergebnis behauptet. Erwartung: Nachtrag vom 12. März, unverbindliche Vorprüfung vom 16. März, schriftliche Freigabe vom 24. März und belegter Eingang am 25. März getrennt führen. Für den Wirksamkeitsbeginn den Wortlaut der Bedingung und Zugang belegen; keinen der früheren Tage bloß aus Erstellungsdatum übernehmen."
+    },
+    {
+      "id": "kuendigung-streit-pruefen",
+      "check_type": "human_review",
+      "description": "Der Augustbrief wird nicht ungeprüft als wirksames Ende des Pools übernommen.",
+      "note": "Offene manuelle Ergebnisprüfung; kein Modelllauf und kein bestandenes fachliches Ergebnis behauptet. Erwartung: Bindung bis Ende 2027, Wegfall ordentlicher Kündigung, zwingende Rechte, Samiras Erklärung und Hildegunds Widerspruch zusammen prüfen. Nach entscheidendem Kündigungsgrund und erforderlichen Belegen fragen; verbleibende Wirksamkeitsvarianten offen und begründet halten."
+    },
+    {
+      "id": "drei-rechtstraeger-und-daten",
+      "check_type": "human_review",
+      "description": "Die Bearbeitung liefert getrennte Datensätze und belegte Personenangaben.",
+      "note": "Offene manuelle Ergebnisprüfung; kein Modelllauf und kein bestandenes fachliches Ergebnis behauptet. Erwartung: KG, Komplementär-GmbH und Nordhof Service GmbH gesondert behandeln. Die Beteiligungskette zur Tochter eigenständig nachverfolgen; Samiras zusätzliche Staatsangehörigkeit nicht aus dem alten Formular wegkürzen."
+    },
+    {
+      "id": "antwort-und-abschluss",
+      "check_type": "human_review",
+      "description": "Registerantwort, eigene Berichtigung und Bank-Unstimmigkeitsmeldung bleiben getrennt.",
+      "note": "Offene manuelle Ergebnisprüfung; kein Modelllauf und kein bestandenes fachliches Ergebnis behauptet. Erwartung: Antwort auf die konkrete Rückfrage mit Belegen und offener Restlücke ausformulieren; nicht sämtliche Daten pauschal bestätigen. Frist 8. Oktober und tatsächlichen Zugang sichern. Erwin besitzt keine aktuelle Klick-/Versandfreigabe; Berichtigung und Abschluss der Unstimmigkeitsprüfung nur mit tatsächlichem Nachweis behaupten."
+    }
+  ]
+}

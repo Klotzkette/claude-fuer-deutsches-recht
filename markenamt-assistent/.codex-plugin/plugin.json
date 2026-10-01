@@ -1,0 +1,30 @@
+{
+  "name": "markenamt-assistent",
+  "version": "445.24.0",
+  "description": "DPMA und EUIPO: Marken recherchieren, anmelden, verteidigen, umschreiben und nachhalten. Zehn Fachskills und ein Hauptproblem-Skill mit konkreten Rechtsprechungsankern aus 2026, optionalem freigegebenem Portalvollzug und drei Testakten.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Klotzkette",
+    "email": "39582916+Klotzkette@users.noreply.github.com"
+  },
+  "homepage": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/markenamt-assistent",
+  "keywords": [
+    "dpma",
+    "euipo",
+    "markenrecht",
+    "markenanmeldung",
+    "widerspruch"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Markenamt-Assistent",
+    "shortDescription": "Markenvorgänge beim DPMA und EUIPO bearbeiten.",
+    "longDescription": "DPMA und EUIPO: Marken recherchieren, anmelden, verteidigen, umschreiben und nachhalten. Zehn Fachskills und ein Hauptproblem-Skill mit konkreten Rechtsprechungsankern aus 2026, optionalem freigegebenem Portalvollzug und drei Testakten.",
+    "developerName": "Klotzkette",
+    "category": "Productivity",
+    "capabilities": [
+      "interactive"
+    ],
+    "defaultPrompt": "Prüfe meine Markenunterlagen und führe den DPMA- oder EUIPO-Vorgang mit gezielten Rückfragen zum fertigen Antrag oder Antwortschreiben."
+  }
+}

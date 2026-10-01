@@ -8,8 +8,13 @@
       "hand_curated": true
     },
     "mietchecker": {
-      "standalone": ["werkstatt", "schnellstart"],
-      "formats": ["md"],
+      "standalone": [
+        "werkstatt",
+        "schnellstart"
+      ],
+      "formats": [
+        "md"
+      ],
       "megaprompt": false,
       "hand_curated": true
     },
@@ -120,6 +125,58 @@
       ],
       "formats": [
         "md"
+      ],
+      "megaprompt": false,
+      "hand_curated": true
+    },
+    "transparenzregister-assistent": {
+      "standalone": [
+        "werkstatt",
+        "schnellstart",
+        "hauptproblem"
+      ],
+      "formats": [
+        "md",
+        "txt"
+      ],
+      "megaprompt": false,
+      "hand_curated": true
+    },
+    "handelsregister-assistent": {
+      "standalone": [
+        "werkstatt",
+        "schnellstart",
+        "hauptproblem"
+      ],
+      "formats": [
+        "md",
+        "txt"
+      ],
+      "megaprompt": false,
+      "hand_curated": true
+    },
+    "grundbuchamt-assistent": {
+      "standalone": [
+        "werkstatt",
+        "schnellstart",
+        "hauptproblem"
+      ],
+      "formats": [
+        "md",
+        "txt"
+      ],
+      "megaprompt": false,
+      "hand_curated": true
+    },
+    "markenamt-assistent": {
+      "standalone": [
+        "werkstatt",
+        "schnellstart",
+        "hauptproblem"
+      ],
+      "formats": [
+        "md",
+        "txt"
       ],
       "megaprompt": false,
       "hand_curated": true

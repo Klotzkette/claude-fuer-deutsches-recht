@@ -1,0 +1,697 @@
+{
+  "schema_version": 1,
+  "plugin": "grundbuchamt-assistent",
+  "reviewed_on": "2026-10-01",
+  "selection": {
+    "target_skill": "grundbuchvorgang-zum-ergebnis-fuehren",
+    "positive": [
+      "Der Grundschuldbrief ist nach dem Ersatzverfahren wieder aufgetaucht. Bitte mache die Schreiben.",
+      "Das Grundbuchamt fordert zur Erbberichtigung einen Erbschein. Prüfe Nachweise und Antwort."
+    ],
+    "negative": [
+      "Erstelle eine Markenanmeldung beim EUIPO.",
+      "Melde wirtschaftlich Berechtigte zum Transparenzregister."
+    ]
+  },
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/gbo/__12.html",
+      "checked_on": "2026-10-01",
+      "supports": "Berechtigtes Interesse, Umfang und Protokoll",
+      "verification_status": "amtlicher_normtext_gelesen"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gbo/__13.html",
+      "checked_on": "2026-10-01",
+      "supports": "Antrag und notarielle Einreichung in Fällen des § 20",
+      "verification_status": "amtlicher_normtext_gelesen"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gbo/__15.html",
+      "checked_on": "2026-10-01",
+      "supports": "Vertretung und notarielle Prüfung der Erklärungen",
+      "verification_status": "amtlicher_normtext_gelesen"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gbo/__19.html",
+      "checked_on": "2026-10-01",
+      "supports": "Betroffenenbewilligung",
+      "verification_status": "amtlicher_normtext_gelesen"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gbo/__29.html",
+      "checked_on": "2026-10-01",
+      "supports": "Nachweisform",
+      "verification_status": "amtlicher_normtext_gelesen"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gbo/__35.html",
+      "checked_on": "2026-10-01",
+      "supports": "Erbnachweis und Ausnahmefälle",
+      "verification_status": "amtlicher_normtext_gelesen"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gbo/__41.html",
+      "checked_on": "2026-10-01",
+      "supports": "Briefvorlage und Ersatz durch Ausschließungsbeschluss",
+      "verification_status": "amtlicher_normtext_gelesen"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gbo/__42.html",
+      "checked_on": "2026-10-01",
+      "supports": "Anwendung auf Grundschuld",
+      "verification_status": "amtlicher_normtext_gelesen"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gbo/__62.html",
+      "checked_on": "2026-10-01",
+      "supports": "Vermerke auf dem Brief",
+      "verification_status": "amtlicher_normtext_gelesen"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gbo/__67.html",
+      "checked_on": "2026-10-01",
+      "supports": "Neuer Brief auf Antrag des Berechtigten",
+      "verification_status": "amtlicher_normtext_gelesen"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gbo/__70.html",
+      "checked_on": "2026-10-01",
+      "supports": "Anwendung auf Grundschuldbriefe",
+      "verification_status": "amtlicher_normtext_gelesen"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gbo/__71.html",
+      "checked_on": "2026-10-01",
+      "supports": "Beschwerde und Grenzen gegen Eintragungen",
+      "verification_status": "amtlicher_normtext_gelesen"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gbo/__73.html",
+      "checked_on": "2026-10-01",
+      "supports": "Einlegung der Grundbuchbeschwerde",
+      "verification_status": "amtlicher_normtext_gelesen"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__1155.html",
+      "checked_on": "2026-10-01",
+      "supports": "Legitimationskette beim Briefbesitzer",
+      "verification_status": "amtlicher_normtext_gelesen"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__1162.html",
+      "checked_on": "2026-10-01",
+      "supports": "Aufgebot des Briefs",
+      "verification_status": "amtlicher_normtext_gelesen"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__1192.html",
+      "checked_on": "2026-10-01",
+      "supports": "Anwendung auf Grundschuld und Einreden",
+      "verification_status": "amtlicher_normtext_gelesen"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/famfg/__466.html",
+      "checked_on": "2026-10-01",
+      "supports": "Ausschließlicher örtlicher Gerichtsstand",
+      "verification_status": "amtlicher_normtext_gelesen"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/famfg/__467.html",
+      "checked_on": "2026-10-01",
+      "supports": "Antragsberechtigung",
+      "verification_status": "amtlicher_normtext_gelesen"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/famfg/__468.html",
+      "checked_on": "2026-10-01",
+      "supports": "Identifikation, Glaubhaftmachung und Angebot der Versicherung",
+      "verification_status": "amtlicher_normtext_gelesen"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/famfg/__478.html",
+      "checked_on": "2026-10-01",
+      "supports": "Kraftloserklärung und Bekanntmachung",
+      "verification_status": "amtlicher_normtext_gelesen"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/famfg/__479.html",
+      "checked_on": "2026-10-01",
+      "supports": "Wirkung des Ausschließungsbeschlusses",
+      "verification_status": "amtlicher_normtext_gelesen"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/famfg/__480.html",
+      "checked_on": "2026-10-01",
+      "supports": "Zahlungssperre für die bezeichneten Papiere, keine allgemeine Briefsperre",
+      "verification_status": "amtlicher_normtext_gelesen"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/famfg/__484.html",
+      "checked_on": "2026-10-01",
+      "supports": "Landesrechtliche Veröffentlichungs- und Fristabweichungen",
+      "verification_status": "amtlicher_normtext_gelesen"
+    },
+    {
+      "url": "https://www.gesetze-bayern.de/Content/Document/Y-300-Z-BECKRS-B-2026-N-1941",
+      "checked_on": "2026-10-01",
+      "supports": "OLG München, Beschl. v. 18.02.2026 - Az. 34 Wx 36/26 e: Bloßes Kaufinteresse erlaubt keine Eigentümerausforschung. Sachlich begründetes Interesse, Verhandlungsstand und Umfang der verlangten Unterlagen sind konkret darzulegen. Gegen eine bestätigte Einsichtsversagung den Weg über § 12c Absatz 4 GBO beachten. Grenze: Nicht jedes Kaufinteresse ist ausgeschlossen: Nach begonnenen Verhandlungen kann die Lage anders sein. Eine konkrete Nachbarrechtsfrage ist eigenständig zu prüfen. Artikel 6 DSGVO schafft keinen selbständigen Auskunftsanspruch. Gelesen: Tenor und Rn. 1–17, besonders 7, 9–14",
+      "verification_status": "frisch_amtliche_entscheidungspassagen"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2025/V_ZB__90-25.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-01",
+      "supports": "BGH, Beschl. v. 21.05.2026 - Az. V ZB 90/25: § 42 ZVG eröffnet jedermann Einsicht in die dort erfassten Teile einer konkreten Versteigerungsakte ohne vorherige Schwärzung personenbezogener Daten. Überlassene Inhalte dürfen nicht öffentlich verbreitet oder zu verfahrensfremden Zwecken an Dritte weitergegeben werden. Grenze: Das ist keine allgemeine Öffnung des Grundbuchs und kein Anspruch auf die komplette Versteigerungsakte. Für übrige Aktenteile gilt insbesondere § 299 Absatz 2 ZPO. Gericht und Verfahrensart zuerst bestimmen. Gelesen: Kopf und Tenor; Rn. 1–17 und 23–40, besonders 8–14 und 32–33",
+      "verification_status": "frisch_amtliche_entscheidungspassagen"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2024/V_ZB__40-24.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-01",
+      "supports": "BGH, Beschl. v. 20.11.2025 - Az. V ZB 40/24: Bei öffentlich beurkundeter Verfügung können Personenstandsurkunden nicht namentlich genannte Abkömmlinge identifizieren. Das Fehlen weiterer Abkömmlinge kann durch einfache Erklärungen in der Form des § 29 Absatz 1 GBO nachgewiesen werden. Verbleibende konkrete tatsächliche Zweifel sind entscheidend. Grenze: Keine formlose E-Mail als Ersatz; keine automatische Erbscheinbefreiung bei konkreten Zweifeln oder privatschriftlichem Testament. Eine eidesstattliche Versicherung ist im Verfahren nach § 35 Absatz 1 GBO nicht das gesetzliche Nachweismittel. Gelesen: Kopf, Tenor und vollständige Rn. 1–30, insbesondere 8–11, 15–24, 28–29",
+      "verification_status": "frisch_amtliche_entscheidungspassagen"
+    },
+    {
+      "url": "https://www.gesetze-bayern.de/Content/Document/Y-300-Z-BECKRS-B-2025-N-19312",
+      "checked_on": "2026-10-01",
+      "supports": "OLG München, Beschl. v. 01.08.2025 - Az. 34 Wx 153/25 e: Für das Briefaufgebot braucht der Grundstückseigentümer eine eigene Rechtsinhaberschaft oder tragfähige Verfahrensstandschaft. Die Ermächtigung kann aus einer Verzichtserklärung folgen; ein anfänglicher Berechtigungsmangel kann bis zur Entscheidung behoben werden. Grenze: Die Tilgung der Darlehensforderung macht den Eigentümer nicht automatisch zum Grundschuldgläubiger. Die Voraussetzungen des übrigen Aufgebotsverfahrens bleiben offen; Zurückverweisung ist keine Kraftloserklärung. Gelesen: Tenor und Rn. 1–33, besonders 18 und 22–31",
+      "verification_status": "frisch_amtliche_entscheidungspassagen"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2010/V_ZB_308-10A.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-01",
+      "supports": "BGH, Beschl. v. 16.02.2012 - Az. V ZB 308/10: Nach Kraftloserklärung entfaltet der später aufgefundene alte Brief keine Rechtswirkungen mehr. Die Erteilung des neuen Briefs nach § 67 GBO verlangt die Berechtigung; der bloße Erfolg im Aufgebot ersetzt sie nicht. Grenze: Pfändungsfall mit altem Ausschlussurteil; die Ausführungen zum Antragsrecht des Pfändungsgläubigers nicht auf beliebige Grundstückseigentümer übertragen. Gleiches Aktenzeichen am 04.04.2011 bezeichnet nur den früheren Verfahrenskostenhilfebeschluss. Gelesen: Kopf, Tenor und vollständige Rn. 1–21, besonders 8, 10–15 und 19–20",
+      "verification_status": "frisch_amtliche_entscheidungspassagen"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gbo/__151.html",
+      "checked_on": "2026-10-01",
+      "supports": "Übergangsrecht zu §15Absatz3 für Erklärungen bis einschließlich08.06.2017; amtlicher Gesamttext gelesen.",
+      "verification_status": "amtlicher_normtext_gelesen"
+    }
+  ],
+  "cases": [
+    {
+      "id": "wiederfund-nach-ersatz",
+      "target_skill": "grundbuchvorgang-zum-ergebnis-fuehren",
+      "request": "Der Ersatzbrief ist seit September bei der Bank; der alte lag gestern hinter dem Kopierer. Der rechtskräftige Ausschließungsbeschluss liegt bei. Mache die Schreiben, nicht nur eine Liste.",
+      "input_files": [
+        "testakten/grundbuchamt-kopiererbrief/01_mandat_zwirn.docx",
+        "testakten/grundbuchamt-kopiererbrief/23_fundaufnahme.docx"
+      ],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Verwendet Aktenstand, Briefnummern und belegte Rechtskraft; keine neue Vollaufnahme.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Liefert vollständige Fundmitteilung und abgestimmte weitere Schreiben; keine automatische Wiederbelebung oder Löschung des Rechts.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Sichert Original ohne Vernichtung und fragt nur nach verbleibender entscheidender Identifikations- oder Verwahrungslücke.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kaufinteresse-keine-ausforschung",
+      "target_skill": "grundbucheinsicht-begruenden",
+      "request": "Ich möchte alle Eigentümer der Straße finden und anschreiben. Es gibt noch keine Verhandlungen. Begründe einfach berechtigtes Interesse.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Erfindet keine Verhandlungen und erstellt keinen massenhaften Eigentümerabruf.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Wendet 34 Wx 36/26 e auf bloßes Kaufinteresse an, ohne jede spätere Erwerber-Einsicht auszuschließen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Liefert einen konkreten zulässigen nächsten Kommunikationsweg.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "zvg-nicht-grundbuch",
+      "target_skill": "grundbucheinsicht-begruenden",
+      "request": "Im benannten Versteigerungsverfahren sollen alle personenbezogenen Daten im Gutachten geschwärzt werden. Ich will das Gutachten und danach im Internet zeigen.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Trennt § 42 ZVG von § 12 GBO und benennt die erfassten Aktenteile.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Verwendet V ZB 90/25 fallbezogen und gestattet keine Veröffentlichung oder verfahrensfremde Weitergabe.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Liefert ein begrenztes ausformuliertes Einsichtsgesuch.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "antrag-versus-form",
+      "target_skill": "grundbuchantrag-und-form-pruefen",
+      "request": "Ich bin Käufer, kein Notar. Lade meine selbst unterschriebene Auflassung ins Portal hoch; danach gehöre mir das Haus. Eine beurkundete Erklärung liegt bisher nicht vor.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Erkennt §§ 13 Absatz 1 Satz 3, 20 GBO und § 925 BGB; kein agentischer Ersatz notarieller Handlung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Benennt konkrete fehlende Formhandlung und erstellt vorbereitbares Paket.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Behauptet weder Einreichung noch Eigentumserwerb.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "erben-negativtatsache",
+      "target_skill": "erbfolge-und-grundbuchberichtigung",
+      "request": "Notarielles Testament und Eröffnung setzen die Kinder ein. Drei Geburtsurkunden liegen vor. Eine Karte sagt Prager Sohn. Schreibe sofort, dass kein Erbschein verlangt werden darf.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Wendet V ZB 40/24 differenziert an und prüft konkrete Adoptions- oder Abstammungszweifel.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Verlangt keine universelle eidesstattliche Versicherung und behandelt §-29-Form nicht als normale E-Mail.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Formuliert gezielte Nachforderung und bereits tragfähige Antwortteile.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vollmacht-nach-tod",
+      "target_skill": "vertretung-und-urkundenkette-pruefen",
+      "request": "Meine Mutter ist tot, ich habe eine transmortale Vollmacht. Mein Bruder hat etwas von Widerruf gesagt. Bestelle jetzt eine Finanzierungsgrundschuld.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Prüft Urkundentext, Ausfertigung, Widerruf und konkrete Vertretung getrennt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Überträgt § 40 GBO nicht pauschal von Veräußerung auf Belastung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Keine externe Bestellung ohne berechtigte Formhandlung und konkrete Freigabe.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rang-und-servicer",
+      "target_skill": "grundschuld-rang-und-loeschung",
+      "request": "Servicer Bell schickt die Löschungsbewilligung einer anderen Bank. Die neue Bank könnte auch eine Abtretung akzeptieren. Schreibe den nächsten Brief.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Trennt eingetragenen Gläubiger, Rechtsnachfolge, Zessionar und Servicervertretung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Fragt nach vollständiger Brief- und Urkundenkette sowie wirtschaftlichem Ziel statt sofortiger Löschung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Liefert vollständiges Beschaffungsschreiben mit Grundstück und Recht.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aufgebot-nicht-eigentuemerautomatik",
+      "target_skill": "grundschuldbrief-aufgebot-und-wiederfund",
+      "request": "Das Darlehen ist bezahlt und ich habe das Grundstück geerbt. Der Brief fehlt. Ich bin also automatisch Grundschuldgläubiger und möchte einen Ersatzbrief.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Trennt Tilgung, Rückgewähr und Rechtsinhaberschaft; prüft § 467 FamFG.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Berücksichtigt Ermächtigung und Verfahrensstandschaft nach 34 Wx 153/25 e.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Unterscheidet Ersatzbrief für Weiterverwendung von möglicher unmittelbarer Löschung mit Ausschließungsbeschluss.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rechtsbehelfe-nicht-einheitsfrist",
+      "target_skill": "zwischenverfuegung-und-beschwerde",
+      "request": "Ich habe eine GBO-Zwischenverfügung und eine Zurückweisung eines FamFG-Aufgebotsantrags bekommen. Ist beides dieselbe Monatsfrist?",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Unterscheidet Verfahrensarten, Entscheidungstyp und §§ 71 ff. GBO/58 ff. FamFG.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Bestimmt Zustellung und konkrete Fristgrundlagen statt Einheitsfrist.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Liefert einen konkreten Fristen- und Antwortentwurf anhand noch erforderlicher Daten.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "portal-timeout",
+      "target_skill": "vollzug-kosten-und-zugriff-dokumentieren",
+      "request": "Ich bin Notarin und habe den Antrag freigegeben. Nach Absenden kam ein Timeout. Sende einfach noch einmal mit anderer Nummer.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Prüft vorhandenen Status und Quittung vor Wiederholung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Behauptet keine beobachtete Einreichung ohne Beleg; beachtet doppelte Kosten und Rangfolgen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Respektiert persönliche Signatur und berechtigten Zugang.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vormerkung-kein-eigentum",
+      "target_skill": "eigentum-vormerkung-und-vollzug",
+      "request": "Die Vormerkung ist eingetragen, der Kaufpreis bezahlt, aber eine Genehmigung fehlt. Schreibe der Käuferin den echten Stand.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Trennt Vormerkung, Kaufpreiszahlung, Genehmigung und Eigentumseintragung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Liefert verständlichen Mandantenbrief ohne eigene notarielle Fälligkeitsmitteilung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Nennt konkrete Beschaffung und Fortsetzung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "blatt-nicht-baurecht",
+      "target_skill": "grundbuch-und-bezugsurkunden-lesen",
+      "request": "Abteilung 2 ist leer. Bestätige der Bank, dass das Grundstück baurechtlich unbelastet ist und keine Mietverträge hat. Ein Baulastenverzeichnis wurde bisher nicht abgefragt.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Zieht keine baurechtliche oder mietrechtliche Vollständigkeitsfolgerung aus dem Grundbuch.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Kennzeichnet den belegten Registerstand und beschafft konkrete weitere Nachweise.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Erfindet keine Lastenfreiheit und liefert verwendbare eingeschränkte Auskunft.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-10-01",
+    "method": "desk_review",
+    "files": [
+      "grundbuchamt-assistent/grundbuchamt-assistent-werkstatt.md",
+      "grundbuchamt-assistent/grundbuchamt-assistent-schnellstart.md",
+      "grundbuchamt-assistent/grundbuchamt-assistent-hauptproblem.md"
+    ],
+    "opening_change": "Vorhandenen konkreten Grundbuchvorgang und gewünschtes Schriftstück bearbeiten; keine Vollaufnahme bei klarer Akte.",
+    "norms": [
+      "§§ 12, 13, 15, 18–20, 22, 27, 29, 35, 39–42, 67, 70, 71 ff. GBO",
+      "§§ 1154–1155, 1162, 1192 BGB",
+      "§§ 466–484 FamFG; § 42 ZVG"
+    ],
+    "decisions": [
+      {
+        "key": "einsicht2026",
+        "citation": "OLG München, Beschl. v. 18.02.2026 - Az. 34 Wx 36/26 e",
+        "url": "https://www.gesetze-bayern.de/Content/Document/Y-300-Z-BECKRS-B-2026-N-1941",
+        "passages": "Tenor und Rn. 1–17, besonders 7, 9–14",
+        "application": "Bloßes Kaufinteresse erlaubt keine Eigentümerausforschung. Sachlich begründetes Interesse, Verhandlungsstand und Umfang der verlangten Unterlagen sind konkret darzulegen. Gegen eine bestätigte Einsichtsversagung den Weg über § 12c Absatz 4 GBO beachten.",
+        "limit": "Nicht jedes Kaufinteresse ist ausgeschlossen: Nach begonnenen Verhandlungen kann die Lage anders sein. Eine konkrete Nachbarrechtsfrage ist eigenständig zu prüfen. Artikel 6 DSGVO schafft keinen selbständigen Auskunftsanspruch.",
+        "checked_on": "2026-10-01",
+        "verification_status": "frisch_amtliche_entscheidungspassagen"
+      },
+      {
+        "key": "zvg2026",
+        "citation": "BGH, Beschl. v. 21.05.2026 - Az. V ZB 90/25",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2025/V_ZB__90-25.pdf?__blob=publicationFile&v=1",
+        "passages": "Kopf und Tenor; Rn. 1–17 und 23–40, besonders 8–14 und 32–33",
+        "application": "§ 42 ZVG eröffnet jedermann Einsicht in die dort erfassten Teile einer konkreten Versteigerungsakte ohne vorherige Schwärzung personenbezogener Daten. Überlassene Inhalte dürfen nicht öffentlich verbreitet oder zu verfahrensfremden Zwecken an Dritte weitergegeben werden.",
+        "limit": "Das ist keine allgemeine Öffnung des Grundbuchs und kein Anspruch auf die komplette Versteigerungsakte. Für übrige Aktenteile gilt insbesondere § 299 Absatz 2 ZPO. Gericht und Verfahrensart zuerst bestimmen.",
+        "checked_on": "2026-10-01",
+        "verification_status": "frisch_amtliche_entscheidungspassagen"
+      },
+      {
+        "key": "erb2025",
+        "citation": "BGH, Beschl. v. 20.11.2025 - Az. V ZB 40/24",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2024/V_ZB__40-24.pdf?__blob=publicationFile&v=1",
+        "passages": "Kopf, Tenor und vollständige Rn. 1–30, insbesondere 8–11, 15–24, 28–29",
+        "application": "Bei öffentlich beurkundeter Verfügung können Personenstandsurkunden nicht namentlich genannte Abkömmlinge identifizieren. Das Fehlen weiterer Abkömmlinge kann durch einfache Erklärungen in der Form des § 29 Absatz 1 GBO nachgewiesen werden. Verbleibende konkrete tatsächliche Zweifel sind entscheidend.",
+        "limit": "Keine formlose E-Mail als Ersatz; keine automatische Erbscheinbefreiung bei konkreten Zweifeln oder privatschriftlichem Testament. Eine eidesstattliche Versicherung ist im Verfahren nach § 35 Absatz 1 GBO nicht das gesetzliche Nachweismittel.",
+        "checked_on": "2026-10-01",
+        "verification_status": "frisch_amtliche_entscheidungspassagen"
+      },
+      {
+        "key": "aufgebot2025",
+        "citation": "OLG München, Beschl. v. 01.08.2025 - Az. 34 Wx 153/25 e",
+        "url": "https://www.gesetze-bayern.de/Content/Document/Y-300-Z-BECKRS-B-2025-N-19312",
+        "passages": "Tenor und Rn. 1–33, besonders 18 und 22–31",
+        "application": "Für das Briefaufgebot braucht der Grundstückseigentümer eine eigene Rechtsinhaberschaft oder tragfähige Verfahrensstandschaft. Die Ermächtigung kann aus einer Verzichtserklärung folgen; ein anfänglicher Berechtigungsmangel kann bis zur Entscheidung behoben werden.",
+        "limit": "Die Tilgung der Darlehensforderung macht den Eigentümer nicht automatisch zum Grundschuldgläubiger. Die Voraussetzungen des übrigen Aufgebotsverfahrens bleiben offen; Zurückverweisung ist keine Kraftloserklärung.",
+        "checked_on": "2026-10-01",
+        "verification_status": "frisch_amtliche_entscheidungspassagen"
+      },
+      {
+        "key": "wiederfund2012",
+        "citation": "BGH, Beschl. v. 16.02.2012 - Az. V ZB 308/10",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2010/V_ZB_308-10A.pdf?__blob=publicationFile&v=1",
+        "passages": "Kopf, Tenor und vollständige Rn. 1–21, besonders 8, 10–15 und 19–20",
+        "application": "Nach Kraftloserklärung entfaltet der später aufgefundene alte Brief keine Rechtswirkungen mehr. Die Erteilung des neuen Briefs nach § 67 GBO verlangt die Berechtigung; der bloße Erfolg im Aufgebot ersetzt sie nicht.",
+        "limit": "Pfändungsfall mit altem Ausschlussurteil; die Ausführungen zum Antragsrecht des Pfändungsgläubigers nicht auf beliebige Grundstückseigentümer übertragen. Gleiches Aktenzeichen am 04.04.2011 bezeichnet nur den früheren Verfahrenskostenhilfebeschluss.",
+        "checked_on": "2026-10-01",
+        "verification_status": "frisch_amtliche_entscheidungspassagen"
+      }
+    ],
+    "remaining_limits": [
+      "Redaktionelle Quellen- und Workflowprüfung; diese Profile sind keine behaupteten beobachteten Modellläufe.",
+      "Landesrecht, konkrete elektronische Zugänge und neue Folgeentscheidungen sind bei der tatsächlichen Verwendung erneut zu prüfen."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-10-01",
+    "method": "desk_review",
+    "opening_modes": [
+      "Vorhandenen Gerichtshinweis gezielt beantworten.",
+      "Ohne Akte Grundstück, Rolle, Ziel und Termin klären.",
+      "Beim Wiederfund zuerst Beschluss, Identität und Verwahrung abgleichen.",
+      "Nach Rückantwort denselben Entwurf fortführen."
+    ],
+    "continuation": "Neue Belege aktualisieren konkrete Nachweise, Rang und Text; kein wiederholtes Erstinterview.",
+    "enrichment": "Einsicht, Form, Erbfolge, Grundschuldbrief und Zwischenverfügung führen zu unterschiedlichen vollständigen Dokumenten.",
+    "limits": "Keine fremden Zugangsdaten, simulierten Amtshandlungen, pauschalen Notarzwänge oder eigenmächtigen Einreichungen."
+  },
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Eigenständiger Grundbuchablauf mit konkreten Verfahrensgrenzen und fortgesetzter Dokumentproduktion.",
+    "changes": [
+      "Zwei amtlich geprüfte Entscheidungen aus 2026 und drei spezifische ältere Anker.",
+      "Wiederfund nach Kraftloserklärung, Erbberichtigung und Gläubigerkette als eigenständige Wege."
+    ],
+    "sha256": "766b566e8aa3d2405f0b3bfae2c23764324c483999ce481992028b669da5e1b1"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Eigenständiger Grundbuchablauf mit konkreten Verfahrensgrenzen und fortgesetzter Dokumentproduktion.",
+    "changes": [
+      "Zwei amtlich geprüfte Entscheidungen aus 2026 und drei spezifische ältere Anker.",
+      "Wiederfund nach Kraftloserklärung, Erbberichtigung und Gläubigerkette als eigenständige Wege."
+    ],
+    "sha256": "f3e5a4eb382ebb48a8c379fbc8995e2a781d766550455b660563157c827de04b"
+  },
+  "focus_review": {
+    "verdict": "revised",
+    "reason": "Eigenständiger Grundbuchablauf mit konkreten Verfahrensgrenzen und fortgesetzter Dokumentproduktion.",
+    "changes": [
+      "Zwei amtlich geprüfte Entscheidungen aus 2026 und drei spezifische ältere Anker.",
+      "Wiederfund nach Kraftloserklärung, Erbberichtigung und Gläubigerkette als eigenständige Wege."
+    ],
+    "method": "desk_review",
+    "reviewed_on": "2026-10-01",
+    "prompt_path": "grundbuchamt-assistent/grundbuchamt-assistent-hauptproblem.md",
+    "skill_path": "grundbuchamt-assistent/skills/grundbuchvorgang-zum-ergebnis-fuehren/SKILL.md",
+    "prompt_sha256": "c0c91561f566b5bccd96ab6a6e8ce8c0a2664ad98b7b11e9044afa6f008b524b",
+    "skill_sha256": "ee9b3f3e93da18c5693a5c07957d5ab65e5b092953cd4600a023528fa8a574a1"
+  }
+}

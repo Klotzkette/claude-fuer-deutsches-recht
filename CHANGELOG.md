@@ -1,3 +1,21 @@
+# v445.24.0 - Vier Registerwerkstätten mit zwölf Akten
+
+## 1. Vier eigenständige Plugins mit je elf Skills
+
+Transparenzregister, Handelsregister, Grundbuchamt sowie DPMA/EUIPO erhalten jeweils zehn konkrete Fachskills und einen elften Hauptproblem-Skill. Unterlagenprüfung, entscheidungserhebliche Rückfragen, ausformulierte Arbeitsergebnisse und Nachhalten bilden einen fortlaufenden Arbeitsablauf. Eine Portalregistrierung ist keine pauschale Erklärungs- oder Zahlungsfreigabe. Gesetzliche notarielle Mitwirkung, tatsächlicher Zugang und persönliche Authentifizierung werden im jeweiligen Verfahren geprüft.
+
+## 2. Eigenständige Werkstätten und überprüfte Rechtsquellen
+
+Jedes Paket enthält eine große eigenständig nutzbare Werkstatt in Markdown, Text, Word und PDF sowie Mini- und Hauptproblem-Prompts in Markdown und Text. Die beiden kompakten Fassungen bleiben jeweils unter 7500 Zeichen und UTF-8-Bytes. Fachbezogene amtliche Entscheidungen einschließlich 2026 sind mit tatsächlich gelesenen Passagen und Anwendungsgrenzen dokumentiert. Die Prüfung umfasst unter anderem UBO-Einsicht, Kontrollketten, Registervertretung, Urkundenform, Grundbucheinsicht und aktuelle Markenverfahren.
+
+## 3. Zwölf Akten mit nativen Arbeitsdateien
+
+Die Akten verbinden Word-Dokumente, Excel-Rechenblätter, E-Mails, Chats, interne Bildschirmansichten und Beleg-PDFs. Die verlangten Fälle sind enthalten: finnische PEP, Gesellschaft aus Sri Lanka ohne Apostille und der nach Briefersatz hinter dem Kopierer aufgefundene alte Grundschuldbrief. Drei weitere Markenakten behandeln Anmeldung, Widerspruch und Nachweise zur Benutzung beziehungsweise Verkehrsdurchsetzung. Jede Akte erscheint als Gesamt-PDF, Originalformat-ZIP und Einzel-PDF-ZIP; die Herkunftshinweise stehen auf den Downloadseiten und in den ZIP-Readmes.
+
+## 4. Qualitätsprüfung und Publikation
+
+Fachliche Durchsichten und gezielte Struktur-, Formel-, Hash- und Dateiprüfungen sichern die vier Pakete. Diese Prüfungen werden nicht als beobachtete Modellläufe ausgegeben. Marketplace, Themenrouting, Skillindizes, Promptprofile und Downloadverzeichnisse werden gemeinsam fortgeschrieben. Die bestehenden Testakten bleiben erhalten.
+
 # v445.23.0 - Eigenbedarfskündigungen für beide Mietparteien prüfen
 
 ## 1. Zehn konkrete Arbeitswege

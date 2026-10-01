@@ -1,0 +1,176 @@
+{
+  "schema_version": 1,
+  "plugin": "transparenzregister-assistent",
+  "checked_on": "2026-10-01",
+  "method": "Amtliche Quellen geöffnet; konkret benannte Volltextpassagen gelesen, Aussagen und Grenzen in Werkstatt, Mini, Schwerpunkt und Skills redaktionell abgeglichen.",
+  "decisions": [
+    {
+      "citation": "EuGH, Urt. v. 21.05.2026 – Az. C-684/24 und C-685/24, Across Fiduciaria u. a.",
+      "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=311396&doclang=DE",
+      "application": "Funktionale Einordnung italienischer Treuhandgestaltungen; zweckbezogenes berechtigtes Interesse; wirksamer gerichtlicher einschließlich vorläufiger Rechtsschutz.",
+      "limit": "Keine automatische deutsche Registerpflicht jeder Treuhand; italienische Einzelvoraussetzungen nicht unbesehen in Paragraf 21 oder 23 GwG übernehmen.",
+      "passages_read": "Entscheidungskopf, Rn. 69–89 und 100–136 sowie Tenor.",
+      "checked_on": "2026-10-01",
+      "verification_status": "frisch_volltextpassagen",
+      "evidence_sha256": "cb8b95a11118b926ab8625ccee18653e3221f257fd0bd16e8431925c484315e2"
+    },
+    {
+      "citation": "EuGH, Urt. v. 03.09.2026 – Az. C-798/24, Jautiva",
+      "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=314876&doclang=DE",
+      "application": "Voraussetzungslose Publizität sämtlicher lettischer Aktionärsdaten einschließlich Minderheitsaktionären ist von begrenztem berechtigtem Zugang zu unterscheiden.",
+      "limit": "Keine generelle Löschung deutscher GmbH-Listen und kein Wegfall von Transparenzregistermeldungen; konkreter lettischer Publizitätsmechanismus.",
+      "passages_read": "Entscheidungskopf, Rn. 32–92 und Tenor; zuvor amtliche PM 115/26 vollständig gelesen.",
+      "checked_on": "2026-10-01",
+      "verification_status": "frisch_volltextpassagen",
+      "evidence_sha256": "a12d0c6676398602f2fb9a861bee2bca6280903f04c537c24f4b2ac4b161f3d1"
+    },
+    {
+      "citation": "EuGH, Urt. v. 22.11.2022 – Az. C-37/20 und C-601/20, Luxembourg Business Registers",
+      "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=268059&doclang=DE",
+      "application": "Keine voraussetzungslose Zugänglichkeit von UBO-Daten für sämtliche Mitglieder der Öffentlichkeit; berechtigte Zwecke und andere Zugangsgruppen getrennt prüfen.",
+      "limit": "Mitteilungspflicht, Behörden- und Verpflichtetenzugang nicht aufgehoben; Registrierung allein legitimiert keinen unbeschränkten Abruf.",
+      "passages_read": "Entscheidungskopf, Rn. 41–88 und Tenor.",
+      "checked_on": "2026-10-01",
+      "verification_status": "frisch_volltextpassagen",
+      "evidence_sha256": "9e6299c43709947ff2159b4d533fb7108347a03946dba1070d57a210d1bccc74"
+    },
+    {
+      "citation": "VG Köln, Urt. v. 29.01.2024 – Az. 9 K 6020/21",
+      "url": "https://nrwe.justiz.nrw.de/pdfdownload/downloadEntscheidung.php?entscheidung=/nrwe/ovgs/vg_koeln/j2024/9_K_6020_21_Urteil_20240129.html",
+      "application": "Gesellschaftsvertragliche Grenzen der Komplementärmacht in der gesamten mittelbaren Kontrollkette berücksichtigen.",
+      "limit": "Konkrete Vertragsgestaltung; kein allgemeiner Ausschluss wirtschaftlicher Berechtigung über Komplementärinnen und keine allgemeine Präjudizienbindung.",
+      "passages_read": "Entscheidungskopf, Tenor, Tatsachen und ausgewählte Verfahrenspassagen; tragende Kontrollpassagen Rn. 44–68.",
+      "checked_on": "2026-10-01",
+      "verification_status": "frisch_volltextpassagen",
+      "evidence_sha256": "74d752c381c02b0c183c3395c494a68cedd3bcc5687d47b5989af69a0a7521de"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=311396&doclang=DE",
+      "checked_on": "2026-10-01",
+      "supports": "Funktionale Einordnung italienischer Treuhandgestaltungen; zweckbezogenes berechtigtes Interesse; wirksamer gerichtlicher einschließlich vorläufiger Rechtsschutz. Grenze: Keine automatische deutsche Registerpflicht jeder Treuhand; italienische Einzelvoraussetzungen nicht unbesehen in Paragraf 21 oder 23 GwG übernehmen. Gelesen: Entscheidungskopf, Rn. 69–89 und 100–136 sowie Tenor.",
+      "verification_status": "frisch_volltextpassagen",
+      "source_sha256": "cb8b95a11118b926ab8625ccee18653e3221f257fd0bd16e8431925c484315e2"
+    },
+    {
+      "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=314876&doclang=DE",
+      "checked_on": "2026-10-01",
+      "supports": "Voraussetzungslose Publizität sämtlicher lettischer Aktionärsdaten einschließlich Minderheitsaktionären ist von begrenztem berechtigtem Zugang zu unterscheiden. Grenze: Keine generelle Löschung deutscher GmbH-Listen und kein Wegfall von Transparenzregistermeldungen; konkreter lettischer Publizitätsmechanismus. Gelesen: Entscheidungskopf, Rn. 32–92 und Tenor; zuvor amtliche PM 115/26 vollständig gelesen.",
+      "verification_status": "frisch_volltextpassagen",
+      "source_sha256": "a12d0c6676398602f2fb9a861bee2bca6280903f04c537c24f4b2ac4b161f3d1"
+    },
+    {
+      "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=268059&doclang=DE",
+      "checked_on": "2026-10-01",
+      "supports": "Keine voraussetzungslose Zugänglichkeit von UBO-Daten für sämtliche Mitglieder der Öffentlichkeit; berechtigte Zwecke und andere Zugangsgruppen getrennt prüfen. Grenze: Mitteilungspflicht, Behörden- und Verpflichtetenzugang nicht aufgehoben; Registrierung allein legitimiert keinen unbeschränkten Abruf. Gelesen: Entscheidungskopf, Rn. 41–88 und Tenor.",
+      "verification_status": "frisch_volltextpassagen",
+      "source_sha256": "9e6299c43709947ff2159b4d533fb7108347a03946dba1070d57a210d1bccc74"
+    },
+    {
+      "url": "https://nrwe.justiz.nrw.de/pdfdownload/downloadEntscheidung.php?entscheidung=/nrwe/ovgs/vg_koeln/j2024/9_K_6020_21_Urteil_20240129.html",
+      "checked_on": "2026-10-01",
+      "supports": "Gesellschaftsvertragliche Grenzen der Komplementärmacht in der gesamten mittelbaren Kontrollkette berücksichtigen. Grenze: Konkrete Vertragsgestaltung; kein allgemeiner Ausschluss wirtschaftlicher Berechtigung über Komplementärinnen und keine allgemeine Präjudizienbindung. Gelesen: Entscheidungskopf, Tenor, Tatsachen und ausgewählte Verfahrenspassagen; tragende Kontrollpassagen Rn. 44–68.",
+      "verification_status": "frisch_volltextpassagen",
+      "source_sha256": "74d752c381c02b0c183c3395c494a68cedd3bcc5687d47b5989af69a0a7521de"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwg_2017/__3.html",
+      "checked_on": "2026-10-01",
+      "supports": "Vollständiger Paragraf; Kontrolltatbestände, Auffangvoraussetzungen, Funktionskategorien.",
+      "verification_status": "normtext_gelesen"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwg_2017/__19.html",
+      "checked_on": "2026-10-01",
+      "supports": "Vollständiger Paragraf; Personenfelder und getrennte Auffanggründe.",
+      "verification_status": "normtext_gelesen"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwg_2017/__20.html",
+      "checked_on": "2026-10-01",
+      "supports": "Vollständiger Paragraf; Mitteilung, Ausland/Immobilien, Auskunft und Dokumentation.",
+      "verification_status": "normtext_gelesen"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwg_2017/__21.html",
+      "checked_on": "2026-10-01",
+      "supports": "Vollständiger Paragraf; Trustees, eigennützige nichtrechtsfähige Stiftungen, Anknüpfung und EU-Ausnahmen.",
+      "verification_status": "normtext_gelesen"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwg_2017/__23.html",
+      "checked_on": "2026-10-01",
+      "supports": "Vollständiger Paragraf; drei Gruppen, Interesse, Schutz, Zweck, Auskunft und Frequenz.",
+      "verification_status": "normtext_gelesen"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwg_2017/__23a.html",
+      "checked_on": "2026-10-01",
+      "supports": "Vollständiger Paragraf; Unstimmigkeit, Privilegverweis, Nachforderung und Abschluss.",
+      "verification_status": "normtext_gelesen"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwg_2017/__1.html",
+      "checked_on": "2026-10-01",
+      "supports": "Absätze 12–15 vollständig; PEP, Familienmitglieder, Nähe und Führungsebene.",
+      "verification_status": "normtext_gelesen"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwg_2017/__15.html",
+      "checked_on": "2026-10-01",
+      "supports": "Absätze 1–4 vollständig; verstärkte Sorgfalt und mindestens zwölf Monate nach Amtsende.",
+      "verification_status": "normtext_gelesen"
+    },
+    {
+      "url": "https://www.transparenzregister.de/connector/api/file/ce3e3281-7a27-4150-b7fa-fe8237bcbf37",
+      "checked_on": "2026-10-01",
+      "supports": "Kurzanleitung Februar 2026 vollständig S. 1–7; Unternehmenszugang, Nachweise, Interesse, Status.",
+      "verification_status": "amtliche_portalhilfe_gelesen",
+      "source_sha256": "7df4834329d4297214ef4adc9a6f4c81e0a296d752a147d433e8923b807e02e9"
+    },
+    {
+      "url": "https://www.transparenzregister.de/connector/api/file/dda2ac4a-5975-4d60-826b-337a34b2fe67",
+      "checked_on": "2026-10-01",
+      "supports": "Bearbeitungshinweise Januar 2026 vollständig S. 1; Kontrollkette, Sonderabreden, Haftsummen und deutschsprachige Unterlagen.",
+      "verification_status": "amtliche_portalhilfe_gelesen",
+      "source_sha256": "ad683025e2d77e8bbf5df84612eed0933d03c7e3afb742e5bb1ebf4942361add"
+    },
+    {
+      "url": "https://www.transparenzregister.de/aktuelles",
+      "checked_on": "2026-10-01",
+      "supports": "Hinweise vom 02.06.2026 zur neuen Eintragungsstrecke sowie 20.02. und 29.07.2026 zu Phishing gelesen. Keine starre Automatisierung alter Klickpfade und keine Zahlungsdaten aus E-Mail-Anforderung offenlegen.",
+      "verification_status": "portalhinweise_gelesen"
+    }
+  ],
+  "search_2026": {
+    "queries": [
+      "site.bverwg.de Transparenzregister 2026",
+      "site.bundesgerichtshof.de Transparenzregister 2026",
+      "site.justiz.nrw.de Transparenzregister 2026",
+      "site.curia.europa.eu C-798/24",
+      "C-684/24 C-685/24 Across Fiduciaria"
+    ],
+    "result": "Zwei einschlägige EuGH-Entscheidungen 2026 über amtliche Verfahrenslisten als deutsche Volltexte erreicht; keine nicht verifizierte nationale 2026-Entscheidung ergänzt.",
+    "retrieval_note": "EUR-Lex lieferte teilweise Botprüfung. Direkte amtliche CURIA-Dokumente nach Verfahrensliste waren erreichbar; zunächst gelesene Pressemitteilung ist nicht alleiniger Beleg."
+  },
+  "artifacts": [
+    {
+      "path": "transparenzregister-assistent/transparenzregister-assistent-werkstatt.md",
+      "sha256": "62239b798ceabd65c03a85e7d877ce0c004e8240f66d29e103be705d700132eb"
+    },
+    {
+      "path": "transparenzregister-assistent/transparenzregister-assistent-schnellstart.md",
+      "sha256": "feb63fce1c870968f0d9353f578648abf5e64b2a726dd3626017b073ef5803cc"
+    },
+    {
+      "path": "transparenzregister-assistent/transparenzregister-assistent-hauptproblem.md",
+      "sha256": "2fae2d4fd6b80d316b51798e8072b325b6a2e596fe09085ef9fe017abfdb852b"
+    }
+  ],
+  "limitations": [
+    "Redaktionelle Szenarienprüfung, keine beobachteten Live-Modellläufe und keine tatsächliche Portalübermittlung.",
+    "2026-Quellen und Normen geprüft; spätere Rechts- und Portaländerungen benötigen erneuten Abgleich.",
+    "Gebühren, Rechtsbehelfsfristen, Vereinsautomatik und FIU-Nebenfragen vor dem konkreten Einsatz zusätzlich anhand der aktuellen Einzelvorschrift prüfen."
+  ]
+}

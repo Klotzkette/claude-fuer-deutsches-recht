@@ -1,0 +1,145 @@
+{
+  "name": "transparenzregister-stifterglueck",
+  "plugin": "transparenzregister-assistent",
+  "description": "Native Belegprüfung und separate manuelle Ergebniskriterien zur nichtrechtsfähigen Stiftung, GmbH-Kontrolle, Begünstigung und Registereinsicht; keine behaupteten Modellläufe.",
+  "checks": [
+    {
+      "id": "lesefassung",
+      "check_type": "file_exists",
+      "description": "Die vollständige Lesefassung der konkreten Akte ist vorhanden.",
+      "path": "gesamt-pdf/transparenzregister-stifterglueck_gesamt.pdf"
+    },
+    {
+      "id": "native-arbeitsunterlagen",
+      "check_type": "working_file_count",
+      "description": "Mindestens 24 exportierbare Originalunterlagen bilden die Akte ohne Rubrik, README oder Gesamt-PDF.",
+      "min": 24
+    },
+    {
+      "id": "stiftungsgrundlage",
+      "check_type": "file_exists",
+      "description": "Die Errichtung als nichtrechtsfähige Familienstiftung ist belegt.",
+      "path": "02_stiftungsgeschaeft.docx"
+    },
+    {
+      "id": "stiftungssatzung",
+      "check_type": "file_exists",
+      "description": "Vorbehaltene Weisungs- und Bestellungsrechte sind als native Worddatei vorhanden.",
+      "path": "03_stiftungssatzung.docx"
+    },
+    {
+      "id": "treuhandvertrag",
+      "check_type": "file_exists",
+      "description": "Der Verwaltungsvertrag kann gegenüber der Stiftungssatzung abgeglichen werden.",
+      "path": "04_treuhandvertrag.docx"
+    },
+    {
+      "id": "struktur-excel",
+      "check_type": "file_exists",
+      "description": "Formale Anteilsinhaber und Funktionen sind in der bearbeitbaren Strukturmappe vorhanden.",
+      "path": "07_struktur.xlsx"
+    },
+    {
+      "id": "leistungsbeschluss",
+      "check_type": "file_exists",
+      "description": "Der konkrete zeitlich befristete Leistungsanspruch des Minderjährigen ist belegt.",
+      "path": "11_leistungsbeschluss_oskar.docx"
+    },
+    {
+      "id": "leistung-excel",
+      "check_type": "file_exists",
+      "description": "Stiftungsleistungen und GmbH-Zahlungen können in einer nativen Exceldatei auseinandergehalten werden.",
+      "path": "12_leistungsjournal.xlsx"
+    },
+    {
+      "id": "gebuehrenfragment",
+      "check_type": "file_exists",
+      "description": "Die unvollständige Gebührenunterlage bleibt als solche prüfbar.",
+      "path": "14_rechnung_stiftung.pdf"
+    },
+    {
+      "id": "bedrohungsbeleg",
+      "check_type": "file_exists",
+      "description": "Die tatsächliche Grundlage des gewünschten Schutzantrags ist als eigener Beleg vorhanden.",
+      "path": "18_bedrohungsbrief_abschrift.pdf"
+    },
+    {
+      "id": "nichtrechtsfaehig",
+      "check_type": "text_contains",
+      "description": "Die rechtliche Gestaltungsart wird im Grundlagenbeleg benannt.",
+      "path": "03_stiftungssatzung.docx",
+      "contains": "nichtrechtsfähigen Familienstiftung"
+    },
+    {
+      "id": "weisungsrechte",
+      "check_type": "text_contains",
+      "description": "Ursulas reservierte Kontrollbefugnis bleibt ungeachtet ihrer späteren Mail prüfbar.",
+      "path": "03_stiftungssatzung.docx",
+      "contains": "verbindliche Weisungen"
+    },
+    {
+      "id": "beirat-nicht-vorstand",
+      "check_type": "text_contains",
+      "description": "Das Gremium kann nicht ohne Funktionsprüfung in einen Stiftungsvorstand umbenannt werden.",
+      "path": "03_stiftungssatzung.docx",
+      "contains": "Familienbeirat"
+    },
+    {
+      "id": "oskar-beguenstigung",
+      "check_type": "text_contains",
+      "description": "Der konkrete Begünstigungsbeschluss ist neben der allgemeinen Begünstigtengruppe vorhanden.",
+      "path": "11_leistungsbeschluss_oskar.docx",
+      "contains": "monatlich 650 Euro"
+    },
+    {
+      "id": "ngo-datensparsamkeit",
+      "check_type": "text_contains",
+      "description": "Der Umfang der Vereinsanfrage bleibt anhand der Mail begrenzt prüfbar.",
+      "path": "16_rechercheanfrage_verein.eml",
+      "contains": "keine Ausweiskopien oder privaten Kontodaten"
+    },
+    {
+      "id": "gehalt-andere-quelle",
+      "check_type": "text_contains",
+      "description": "Die letzte Mail liefert den konkreten Abgrenzungsbeleg zwischen Gesellschaft und Stiftung.",
+      "path": "24_leoni_letzter_stand.eml",
+      "contains": "Mein Geschäftsführergehalt zahlt die GmbH"
+    },
+    {
+      "id": "zwei-meldegegenstaende",
+      "check_type": "human_review",
+      "description": "Stiftungs-/Treuhandgestaltung und operative GmbH werden getrennt zugeordnet.",
+      "note": "Offene manuelle Ergebnisprüfung; kein Modelllauf und kein bestandenes fachliches Ergebnis behauptet. Erwartung: Eigenständige Anknüpfung nach § 21 GwG für die eigennützige nichtrechtsfähige Stiftung prüfen und Meldung der GmbH nach § 20 gesondert bearbeiten. Keine Übernahme einer fremden Treuhandkategorie allein aufgrund EuGH Across Fiduciaria; deutsche Tatbestandsmerkmale konkret subsumieren."
+    },
+    {
+      "id": "funktionen-und-kontrolle",
+      "check_type": "human_review",
+      "description": "Funktionsrollen und gesellschaftsbezogene Kontrolle werden anhand der Verträge ermittelt.",
+      "note": "Offene manuelle Ergebnisprüfung; kein Modelllauf und kein bestandenes fachliches Ergebnis behauptet. Erwartung: Ursulas Weisungs- und Bestellungsrechte, Edeltrauds Treuhandverwaltung, Leonis eigene 30 Prozent und Aufgaben des Familienbeirats getrennt prüfen. Formale 70-Prozent-Zuordnung im alten GmbH-Auszug nicht als vollständige wirtschaftliche Kontrollanalyse verwenden. Rückzugsmail und Sommernachtrag beseitigen die reservierten Weisungsrechte nicht automatisch."
+    },
+    {
+      "id": "beguenstigter-minderjaehrig",
+      "check_type": "human_review",
+      "description": "Konkrete Begünstigung und allgemeine Gruppe werden unterschieden.",
+      "note": "Offene manuelle Ergebnisprüfung; kein Modelllauf und kein bestandenes fachliches Ergebnis behauptet. Erwartung: Oskar ist aufgrund des Beschlusses ab September 2026 individuell mit monatlich 650 Euro begünstigt; Minderjährigkeit hebt die fachliche Funktionsprüfung nicht auf. Anspruchsbeginn, erster Zahlungszeitpunkt und Beschlussdatum auseinanderhalten. Beiratsmitgliedschaft ist keine automatische Vorstandsstellung."
+    },
+    {
+      "id": "zahlungen-und-belegwirkung",
+      "check_type": "human_review",
+      "description": "Die Zahlungsübersicht wird anhand ihrer unterschiedlichen Zwecke ausgewertet.",
+      "note": "Offene manuelle Ergebnisprüfung; kein Modelllauf und kein bestandenes fachliches Ergebnis behauptet. Erwartung: 650 Euro September, 650 Euro Oktober und 84,60 Euro Erstattung ergeben 1.384,60 Euro im Leistungsjournal. 4.200 Euro Geschäftsführerbezug stammen aus der GmbH; 28.000 Euro sind die Ausschüttung an die Stiftung. Diese Vorgänge nicht als gleichartige Familienleistungen vermischen. Gebührenzahlung und unvollständige Rechnung beweisen keine vollständige Eintragung."
+    },
+    {
+      "id": "einsicht-und-schutz",
+      "check_type": "human_review",
+      "description": "Vereinsinteresse und Schutzwunsch werden belegt und getrennt bewertet.",
+      "note": "Offene manuelle Ergebnisprüfung; kein Modelllauf und kein bestandenes fachliches Ergebnis behauptet. Erwartung: Zweck des Vereins anhand der konkreten Anfrage und Vereinsnotiz prüfen, weder Zugang wegen NGO-Status automatisch gewähren noch pauschal versagen. Berechtigtes Interesse nach § 23 GwG mit den passenden EuGH-Ankern abgrenzen. Für Schutz nach § 23 Abs. 2 aktuelle konkrete Gefährdung, alte Anschrift, Minderjährigkeit und fehlende Polizeibestätigung getrennt prüfen; keine Totalsperre gegenüber Banken/Behörden versprechen."
+    },
+    {
+      "id": "produkt-ohne-unbefugte-auskunft",
+      "check_type": "human_review",
+      "description": "Die Bearbeitung endet mit vollständigen Entwürfen und konkreten Folgefragen.",
+      "note": "Offene manuelle Ergebnisprüfung; kein Modelllauf und kein bestandenes fachliches Ergebnis behauptet. Erwartung: Getrennte Registerdatensätze und gezielte Anforderung der Originalfassungen, zweiten Rechnungsseite und Schutzbelege liefern. Freiwillige Antwort an den Verein erst als ausformulierter Entwurf; Leoni hat noch keinen Versand freigegeben. Personenbezogene Anlagen auf das Erforderliche begrenzen und jede weitere Antwort in den bestehenden Stand einarbeiten."
+    }
+  ]
+}

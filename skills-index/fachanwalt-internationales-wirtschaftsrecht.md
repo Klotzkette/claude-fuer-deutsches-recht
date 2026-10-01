@@ -1,6 +1,6 @@
 # fachanwalt-internationales-wirtschaftsrecht
 
-**79 Skills** · Stand `v445.23.0`
+**79 Skills** · Stand `v445.24.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../fachanwalt-internationales-wirtschaftsrecht/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -10,6 +10,7 @@
 | --- | --- | --- |
 | **Großer Prompt (Werkstatt)** | Markdown | [`fachanwalt-internationales-wirtschaftsrecht-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-internationales-wirtschaftsrecht/fachanwalt-internationales-wirtschaftsrecht-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`fachanwalt-internationales-wirtschaftsrecht-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-internationales-wirtschaftsrecht/fachanwalt-internationales-wirtschaftsrecht-schnellstart.md) |
+| **Schwerpunkt-Prompt (Hauptproblem)** | MD | [`fachanwalt-internationales-wirtschaftsrecht-hauptproblem.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-internationales-wirtschaftsrecht/fachanwalt-internationales-wirtschaftsrecht-hauptproblem.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [fachanwalt-internationales-wirtschaftsrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-internationales-wirtschaftsrecht.zip) |
 

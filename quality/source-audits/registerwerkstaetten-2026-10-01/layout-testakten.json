@@ -1,0 +1,228 @@
+{
+  "reviewed_on": "2026-10-01",
+  "reviewer": "independent subagent transparenzregister_neu",
+  "status": "passed_with_minor_notes",
+  "scope": "Alle Seiten der neun neuen Gesamt-PDFs für Grundbuchamt, Transparenzregister und Markenamt; keine eigenständige Vollprüfung der juristischen Falldaten.",
+  "method": "pdftoppm PNG aller Seiten, 33 Kontaktbögen vollständig visuell betrachtet; neun repräsentative Tabellen-/Bildseiten zusätzlich mit 1700 Pixeln langer Seite betrachtet. Textextraktion nur für Seitenzählung, nicht als Ersatz der Sichtprüfung.",
+  "page_count": 352,
+  "pdf_count": 9,
+  "contact_sheet_count": 33,
+  "findings": [
+    {
+      "id": "L1",
+      "severity": "layout_defect",
+      "case": "grundbuchamt-kopiererbrief",
+      "page": 10,
+      "source": "24_kosten_und_briefwege.xlsx",
+      "finding": "Mehrzeilige Positionsbezeichnungen überlappen benachbarte Tabellenzeilen; feste Zeilenhöhe reicht für den Textumbruch nicht.",
+      "required_fix": "Tabellenzeilen anhand des längsten Zelltextes ausreichend hoch setzen und Druck-PDF neu erzeugen.",
+      "status": "resolved",
+      "recheck": "Nach Neubau am 01.10.2026 in vergrößerter PDF-Seitendarstellung vollständig innerhalb der Zellen; keine Überlagerung oder abgeschnittene Textzeile mehr."
+    },
+    {
+      "id": "L2",
+      "severity": "layout_defect",
+      "case": "grundbuchamt-rangtausch-am-kanal",
+      "page": 12,
+      "source": "05_darlehenssaldo_alt.xlsx",
+      "finding": "In der letzten Zelle ist die zweite Zeile „Altgrundschuld“ unten angeschnitten.",
+      "required_fix": "Zeilenhöhe und vertikale Ausrichtung der letzten Tabellenzeile korrigieren.",
+      "status": "resolved",
+      "recheck": "Nach Neubau am 01.10.2026 in vergrößerter PDF-Seitendarstellung vollständig innerhalb der Zellen; keine Überlagerung oder abgeschnittene Textzeile mehr."
+    },
+    {
+      "id": "L3",
+      "severity": "layout_defect",
+      "case": "transparenzregister-kranichhof",
+      "page": 14,
+      "source": "20_zeitachse_aktuell.xlsx",
+      "finding": "Erste Datenzeile Spalte Unterlage: der Dateiname 07_pool_nachtrag_maerz.docx steht zu hoch und bricht sein letztes Zeichen in die Folgezeile; optisch mit Tabellenkopf/zweiter Zeile vermischt.",
+      "required_fix": "Ausreichende Zeilenhöhe, Umbruch und vertikale Zentrierung beziehungsweise Obenausrichtung konsistent setzen.",
+      "status": "resolved",
+      "recheck": "Nach Neubau am 01.10.2026 in vergrößerter PDF-Seitendarstellung vollständig innerhalb der Zellen; keine Überlagerung oder abgeschnittene Textzeile mehr."
+    },
+    {
+      "id": "L4",
+      "severity": "readability_improvement",
+      "case": "mehrere",
+      "page": null,
+      "source": "XLSX-Druckseiten",
+      "finding": "Rechtsbündige Zahlen und linksbündige Folgespalten stoßen optisch direkt zusammen; numerische Ausgabe nutzt teilweise englische Dezimalzeichen.",
+      "required_fix": "Zellabstand und deutsch lesbare Zahlenformatierung verbessern.",
+      "status": "minor_note",
+      "recheck": "Zentrierte formatierte Zahlen verbesserten den Abstand deutlich. Einzelne Datumsfelder und unformatierte Beträge stehen eng an der Folgespalte; Dezimalpunktdarstellung bleibt teilweise bestehen. Alle Werte sind lesbar."
+    }
+  ],
+  "documents": [
+    {
+      "slug": "grundbuchamt-kopiererbrief",
+      "pages": 43,
+      "sheets": [
+        "/tmp/registerwerkstaetten-20261001/akten-qa/grundbuchamt-kopiererbrief/contact-001-012.jpg",
+        "/tmp/registerwerkstaetten-20261001/akten-qa/grundbuchamt-kopiererbrief/contact-013-024.jpg",
+        "/tmp/registerwerkstaetten-20261001/akten-qa/grundbuchamt-kopiererbrief/contact-025-036.jpg",
+        "/tmp/registerwerkstaetten-20261001/akten-qa/grundbuchamt-kopiererbrief/contact-037-043.jpg"
+      ],
+      "pdf": "/Users/klotzkette/Desktop/Codex Projects/legal-work/registerwerkstaetten-2026-10-01/testakten/grundbuchamt-kopiererbrief/gesamt-pdf/grundbuchamt-kopiererbrief_gesamt.pdf",
+      "all_pages_contact_sheet_reviewed": true,
+      "initial_sha256": "d951aec77c33a6fc61c5e5fbd196d8b639ae3e0fdaece27e7f70df6c139d70d5",
+      "sha256": "3405e237fe6e934539e980b287ba7f4b10f1a7bf3b7dfd396c2fc1825a699b48",
+      "final_xlsx_pages_reviewed": [
+        10,
+        11
+      ]
+    },
+    {
+      "slug": "grundbuchamt-erben-im-hinterhaus",
+      "pages": 47,
+      "sheets": [
+        "/tmp/registerwerkstaetten-20261001/akten-qa/grundbuchamt-erben-im-hinterhaus/contact-001-012.jpg",
+        "/tmp/registerwerkstaetten-20261001/akten-qa/grundbuchamt-erben-im-hinterhaus/contact-013-024.jpg",
+        "/tmp/registerwerkstaetten-20261001/akten-qa/grundbuchamt-erben-im-hinterhaus/contact-025-036.jpg",
+        "/tmp/registerwerkstaetten-20261001/akten-qa/grundbuchamt-erben-im-hinterhaus/contact-037-047.jpg"
+      ],
+      "pdf": "/Users/klotzkette/Desktop/Codex Projects/legal-work/registerwerkstaetten-2026-10-01/testakten/grundbuchamt-erben-im-hinterhaus/gesamt-pdf/grundbuchamt-erben-im-hinterhaus_gesamt.pdf",
+      "all_pages_contact_sheet_reviewed": true,
+      "initial_sha256": "07767017ab346322c774f607a0a7755d11bef4aa6cb5668bcba8ecb51520a11b",
+      "sha256": "1ed9d0e0fe998518fd63379ff385879c7c0b01da83ebc453e606d5d5dcaf64bc",
+      "final_xlsx_pages_reviewed": [
+        10,
+        11
+      ]
+    },
+    {
+      "slug": "grundbuchamt-rangtausch-am-kanal",
+      "pages": 41,
+      "sheets": [
+        "/tmp/registerwerkstaetten-20261001/akten-qa/grundbuchamt-rangtausch-am-kanal/contact-001-012.jpg",
+        "/tmp/registerwerkstaetten-20261001/akten-qa/grundbuchamt-rangtausch-am-kanal/contact-013-024.jpg",
+        "/tmp/registerwerkstaetten-20261001/akten-qa/grundbuchamt-rangtausch-am-kanal/contact-025-036.jpg",
+        "/tmp/registerwerkstaetten-20261001/akten-qa/grundbuchamt-rangtausch-am-kanal/contact-037-041.jpg"
+      ],
+      "pdf": "/Users/klotzkette/Desktop/Codex Projects/legal-work/registerwerkstaetten-2026-10-01/testakten/grundbuchamt-rangtausch-am-kanal/gesamt-pdf/grundbuchamt-rangtausch-am-kanal_gesamt.pdf",
+      "all_pages_contact_sheet_reviewed": true,
+      "initial_sha256": "3ee2d861c3bc35fa96431b8d75556819fbd07d7932148db4de557cad28b0b50e",
+      "sha256": "7895c111375ab680d1854c4a47d9a102da5cc97a63c95487f663ac0b6f4769cb",
+      "final_xlsx_pages_reviewed": [
+        11,
+        12,
+        14,
+        15
+      ]
+    },
+    {
+      "slug": "transparenzregister-spree-aurora",
+      "pages": 39,
+      "sheets": [
+        "/tmp/registerwerkstaetten-20261001/akten-qa/transparenzregister-spree-aurora/contact-001-012.jpg",
+        "/tmp/registerwerkstaetten-20261001/akten-qa/transparenzregister-spree-aurora/contact-013-024.jpg",
+        "/tmp/registerwerkstaetten-20261001/akten-qa/transparenzregister-spree-aurora/contact-025-036.jpg",
+        "/tmp/registerwerkstaetten-20261001/akten-qa/transparenzregister-spree-aurora/contact-037-039.jpg"
+      ],
+      "pdf": "/Users/klotzkette/Desktop/Codex Projects/legal-work/registerwerkstaetten-2026-10-01/testakten/transparenzregister-spree-aurora/gesamt-pdf/transparenzregister-spree-aurora_gesamt.pdf",
+      "all_pages_contact_sheet_reviewed": true,
+      "initial_sha256": "8209311c8706820b04f7f1850791412ceea2e2027b921be4d3eccda80f61460a",
+      "sha256": "7670f25f73b788a92ad196ca49d5cd0060aa2606a4c4d604e217f17d8272062c",
+      "final_xlsx_pages_reviewed": [
+        13,
+        14,
+        16,
+        17
+      ]
+    },
+    {
+      "slug": "transparenzregister-kranichhof",
+      "pages": 41,
+      "sheets": [
+        "/tmp/registerwerkstaetten-20261001/akten-qa/transparenzregister-kranichhof/contact-001-012.jpg",
+        "/tmp/registerwerkstaetten-20261001/akten-qa/transparenzregister-kranichhof/contact-013-024.jpg",
+        "/tmp/registerwerkstaetten-20261001/akten-qa/transparenzregister-kranichhof/contact-025-036.jpg",
+        "/tmp/registerwerkstaetten-20261001/akten-qa/transparenzregister-kranichhof/contact-037-041.jpg"
+      ],
+      "pdf": "/Users/klotzkette/Desktop/Codex Projects/legal-work/registerwerkstaetten-2026-10-01/testakten/transparenzregister-kranichhof/gesamt-pdf/transparenzregister-kranichhof_gesamt.pdf",
+      "all_pages_contact_sheet_reviewed": true,
+      "initial_sha256": "fe4b58dcebba30210826617b1cf9c2784d51b98379771da05f148c86d4af6a98",
+      "sha256": "71881f2c5e6a188e55471597f07648ab19ceddee2e068934ba0d5f5262ff23d7",
+      "final_xlsx_pages_reviewed": [
+        11,
+        12,
+        14,
+        15
+      ]
+    },
+    {
+      "slug": "transparenzregister-stifterglueck",
+      "pages": 42,
+      "sheets": [
+        "/tmp/registerwerkstaetten-20261001/akten-qa/transparenzregister-stifterglueck/contact-001-012.jpg",
+        "/tmp/registerwerkstaetten-20261001/akten-qa/transparenzregister-stifterglueck/contact-013-024.jpg",
+        "/tmp/registerwerkstaetten-20261001/akten-qa/transparenzregister-stifterglueck/contact-025-036.jpg",
+        "/tmp/registerwerkstaetten-20261001/akten-qa/transparenzregister-stifterglueck/contact-037-042.jpg"
+      ],
+      "pdf": "/Users/klotzkette/Desktop/Codex Projects/legal-work/registerwerkstaetten-2026-10-01/testakten/transparenzregister-stifterglueck/gesamt-pdf/transparenzregister-stifterglueck_gesamt.pdf",
+      "all_pages_contact_sheet_reviewed": true,
+      "initial_sha256": "b26341ec4c1d6d87607815d35575e92d9be6eec32abc950e9b648ebc8cb0b605",
+      "sha256": "ff4a67cfd3f7f48217f5d9c46db4f3ab352d5be4fd81ddd3257841420dad975a",
+      "final_xlsx_pages_reviewed": [
+        10,
+        11,
+        13,
+        14
+      ]
+    },
+    {
+      "slug": "markenamt-kichererbse",
+      "pages": 34,
+      "sheets": [
+        "/tmp/registerwerkstaetten-20261001/akten-qa/markenamt-kichererbse/contact-001-012.jpg",
+        "/tmp/registerwerkstaetten-20261001/akten-qa/markenamt-kichererbse/contact-013-024.jpg",
+        "/tmp/registerwerkstaetten-20261001/akten-qa/markenamt-kichererbse/contact-025-034.jpg"
+      ],
+      "pdf": "/Users/klotzkette/Desktop/Codex Projects/legal-work/registerwerkstaetten-2026-10-01/testakten/markenamt-kichererbse/gesamt-pdf/markenamt-kichererbse_gesamt.pdf",
+      "all_pages_contact_sheet_reviewed": true,
+      "initial_sha256": "e5fbe3fc27845fa1b0e30fb6bbabce6c3d754926504a17df5c661fbea7cb4569",
+      "sha256": "8e594216232dbd58c9924d10a9591de06fbe3b4b1ec429a72989a68c39fb33bf",
+      "final_xlsx_pages_reviewed": [
+        8,
+        10
+      ]
+    },
+    {
+      "slug": "markenamt-rumpelrad",
+      "pages": 32,
+      "sheets": [
+        "/tmp/registerwerkstaetten-20261001/akten-qa/markenamt-rumpelrad/contact-001-012.jpg",
+        "/tmp/registerwerkstaetten-20261001/akten-qa/markenamt-rumpelrad/contact-013-024.jpg",
+        "/tmp/registerwerkstaetten-20261001/akten-qa/markenamt-rumpelrad/contact-025-032.jpg"
+      ],
+      "pdf": "/Users/klotzkette/Desktop/Codex Projects/legal-work/registerwerkstaetten-2026-10-01/testakten/markenamt-rumpelrad/gesamt-pdf/markenamt-rumpelrad_gesamt.pdf",
+      "all_pages_contact_sheet_reviewed": true,
+      "initial_sha256": "b3ddedf5d6ef842a807bb74dbdbf989c9cb0fc61dca1b9af8fffd31a2521c9dd",
+      "sha256": "0c1404b6ae853c87840d69c8ac1a2a1b3f0441cdfce3bcdf17b33d13420b144c",
+      "final_xlsx_pages_reviewed": [
+        10,
+        12
+      ]
+    },
+    {
+      "slug": "markenamt-farbwerk",
+      "pages": 33,
+      "sheets": [
+        "/tmp/registerwerkstaetten-20261001/akten-qa/markenamt-farbwerk/contact-001-012.jpg",
+        "/tmp/registerwerkstaetten-20261001/akten-qa/markenamt-farbwerk/contact-013-024.jpg",
+        "/tmp/registerwerkstaetten-20261001/akten-qa/markenamt-farbwerk/contact-025-033.jpg"
+      ],
+      "pdf": "/Users/klotzkette/Desktop/Codex Projects/legal-work/registerwerkstaetten-2026-10-01/testakten/markenamt-farbwerk/gesamt-pdf/markenamt-farbwerk_gesamt.pdf",
+      "all_pages_contact_sheet_reviewed": true,
+      "initial_sha256": "c1ab32a5adbc06597061fdeadc2b8925292aeb0e795a34a329c49c7addf6f5a6",
+      "sha256": "4a61f162ab18d8dcff2eb36611af00471473d9683ddb7931ae5c8b1e13c03398",
+      "final_xlsx_pages_reviewed": [
+        9,
+        11
+      ]
+    }
+  ],
+  "limits": "Keine verbleibenden blockierenden Layoutfehler in der geprüften Fassung. Nicht behindernde Resthinweise zur Zahlen-/Datumsformatierung sind dokumentiert. Separatorseiten des etablierten Gesamt-PDF-Generators sind absichtlich fast leer. Diese Prüfung ist keine eigenständige juristische Vollprüfung aller Akteninhalte.",
+  "scratch_directory": "/tmp/registerwerkstaetten-20261001/akten-qa",
+  "recheck": "Nach Neubau sämtliche 26 XLSX-Druckseiten der neun Gesamtakten bei 2000 Pixeln Kantenlänge erneut gerendert und in Großansicht gelesen. Die initial vollständige Sichtprüfung aller 352 Seiten wurde durch diese vollständige Nachprüfung der geänderten Tabellen ergänzt."
+}

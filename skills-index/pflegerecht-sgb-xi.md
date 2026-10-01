@@ -1,6 +1,6 @@
 # pflegerecht-sgb-xi
 
-**10 Skills** · Stand `v445.23.0`
+**10 Skills** · Stand `v445.24.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../pflegerecht-sgb-xi/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

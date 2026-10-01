@@ -1,0 +1,523 @@
+{
+  "schema_version": 1,
+  "plugin": "markenamt-assistent",
+  "reviewed_on": "2026-10-01",
+  "sources": [
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2025/I_ZB__58-25.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-01",
+      "supports": "Verkehrskreis, Gegenbefragung und Nachweislast bei Verkehrsdurchsetzung einer abstrakten Farbmarke prüfen. Kein starrer Prozenttest; Rn. 15 betrifft einen Altantrag (§ 158 Abs. 8 MarkenG). Bei neuem Antrag Heilungsstichtag nach § 50 Abs. 2 Satz 2 beachten."
+    },
+    {
+      "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=308263&doclang=DE",
+      "checked_on": "2026-10-01",
+      "supports": "Erwerbspriorität und Fortbestand des älteren Rechts bis zur Widerspruchsentscheidung einschließlich Beschwerde auseinanderhalten. UK-Benutzungsrechte nach Brexit; kein allgemeines Ende aller britischen Rechte. Entscheidung am 05.02., Pressemitteilung am 26.02.2026."
+    },
+    {
+      "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=310209&doclang=FR",
+      "checked_on": "2026-10-01",
+      "supports": "Lizenzvertrag und Geschäftsplanung belegen für sich keine ernsthafte Benutzung; Ort, Zeit, Umfang und Vermarktung nachweisen. Einzelfall der Nichtbenutzung; keine Mindestumsatzschwelle. Rechtsmittelstatus vor konkreter Verwendung nachprüfen."
+    },
+    {
+      "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=307695&doclang=DE",
+      "checked_on": "2026-10-01",
+      "supports": "Nationales Namensrecht kann Art. 60 Abs. 2 Buchst. a UMV tragen; geschäftliche Verwendung allein schließt diesen Weg nicht aus. Österreichischer Ausgangsfall; Inhalt, Erwerb, Bestand und Verbotswirkung des jeweils nationalen Rechts eigenständig belegen."
+    },
+    {
+      "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=310224&doclang=DE",
+      "checked_on": "2026-10-01",
+      "supports": "Als Gründungsjahr verstandene Jahreszahl kann bei tatsächlich fehlendem langjährigem Know-how eine täuschende Qualitäts-/Prestigeaussage vermitteln. Kein pauschales Verbot von Jahreszahlen; Gesamteindruck und Verkehrsverständnis entscheiden."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/markeng/__53.html",
+      "checked_on": "2026-10-01",
+      "supports": "Unabhängige Nachprüfung der konkret behandelten Fristen, Stichtage, Benutzungszeiträume und Gebühren; Einzelpassagen siehe Quellenbericht."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/markeng/__43.html",
+      "checked_on": "2026-10-01",
+      "supports": "Unabhängige Nachprüfung der konkret behandelten Fristen, Stichtage, Benutzungszeiträume und Gebühren; Einzelpassagen siehe Quellenbericht."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/markeng/__47.html",
+      "checked_on": "2026-10-01",
+      "supports": "Unabhängige Nachprüfung der konkret behandelten Fristen, Stichtage, Benutzungszeiträume und Gebühren; Einzelpassagen siehe Quellenbericht."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/markeng/__49.html",
+      "checked_on": "2026-10-01",
+      "supports": "Unabhängige Nachprüfung der konkret behandelten Fristen, Stichtage, Benutzungszeiträume und Gebühren; Einzelpassagen siehe Quellenbericht."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/markeng/__50.html",
+      "checked_on": "2026-10-01",
+      "supports": "Unabhängige Nachprüfung der konkret behandelten Fristen, Stichtage, Benutzungszeiträume und Gebühren; Einzelpassagen siehe Quellenbericht."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/markeng/__158.html",
+      "checked_on": "2026-10-01",
+      "supports": "Unabhängige Nachprüfung der konkret behandelten Fristen, Stichtage, Benutzungszeiträume und Gebühren; Einzelpassagen siehe Quellenbericht."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/markeng/__159.html",
+      "checked_on": "2026-10-01",
+      "supports": "Unabhängige Nachprüfung der konkret behandelten Fristen, Stichtage, Benutzungszeiträume und Gebühren; Einzelpassagen siehe Quellenbericht."
+    },
+    {
+      "url": "https://www.dpma.de/service/gebuehren/marken/index.html",
+      "checked_on": "2026-10-01",
+      "supports": "Unabhängige Nachprüfung der konkret behandelten Fristen, Stichtage, Benutzungszeiträume und Gebühren; Einzelpassagen siehe Quellenbericht."
+    }
+  ],
+  "selection": {
+    "target_skill": "marke-sichern-trotz-offener-rechte",
+    "positive": [
+      "Meine Markenanmeldung beim DPMA hat falsche Inhaberdaten. Bitte bereinigen.",
+      "Wir müssen einen EUIPO-Widerspruch beantworten und die Benutzung prüfen."
+    ],
+    "negative": [
+      "Erstelle eine Patentanspruchsfassung für einen Elektromotor.",
+      "Melde einen Geschäftsführerwechsel beim Handelsregister an."
+    ]
+  },
+  "cases": [
+    {
+      "id": "fall-rumpelrad",
+      "target_skill": "marke-sichern-trotz-offener-rechte",
+      "request": "Bitte die Anmeldung jetzt fertig vorbereiten; die alten Entwurfsfelder können falsch sein. Noch nichts senden. Die Gesellschaft ist inzwischen eingetragen, im gespeicherten Entwurf steht noch eine Privatperson und ein altes Logo.",
+      "input_files": [
+        "testakten/markenamt-rumpelrad/01_Mandatsaufnahme.docx",
+        "testakten/markenamt-rumpelrad/03_Email_Markenwunsch.eml",
+        "testakten/markenamt-rumpelrad/09_Anmeldeentwurf.docx",
+        "testakten/markenamt-rumpelrad/20_Email_Nachtrag.eml"
+      ],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C1",
+          "text": "Trennt private Entwurfsinhaberin von der UG und verlangt den konkreten Statusnachweis, statt Inhaberidentität zu erfinden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C2",
+          "text": "Liefert deutsche Wortmarkenfassung mit konkretem Verzeichnis und Kostenvarianten; kein ungefragter EU-Antrag.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C3",
+          "text": "Behauptet keinen Eingang ohne Bestätigung und sendet nicht; formuliert gezielte Rückfragen und verwertbaren Anmeldetext.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fall-kichererbse",
+      "target_skill": "markenwiderspruch-fuehren",
+      "request": "Bereite unsere Verteidigung gegen den Widerspruch vor. Reicht deren Lizenzvertrag? Die Gegenseite nennt eine deutsche Marke und britische Benutzungsrechte, aber ihre Erwerbskette ist nicht vollständig belegt.",
+      "input_files": [
+        "testakten/markenamt-kichererbse/01_Auftrag.docx",
+        "testakten/markenamt-kichererbse/04_Widerspruch_Arbeitsabschrift.docx",
+        "testakten/markenamt-kichererbse/08_Lizenzvertrag.docx",
+        "testakten/markenamt-kichererbse/13_Benutzungsablage.xlsx"
+      ],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C1",
+          "text": "Unterscheidet EU-Veröffentlichung der Anmeldung vom deutschen Veröffentlichungsereignis und fordert vollständige Portalmitteilung/Zustellungsdaten.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C2",
+          "text": "Prüft Berechtigungskette, relevanten Benutzungszeitraum und konkrete Belege; Lizenz allein genügt nicht.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C3",
+          "text": "Prüft UK-Recht getrennt und behauptet weder pauschalen Wegfall britischer Rechte noch automatische erfolgreiche Verteidigung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fall-farbwerk",
+      "target_skill": "markenbeanstandung-beantworten",
+      "request": "Verteidige die Farbmarke mit unseren 71 Prozent. Die Befragung erfasst nur Newsletterkunden; der Gegner legt eine Erhebung mit anderer Grundgesamtheit vor. Bitte vollständigen Erwiderungsentwurf liefern.",
+      "input_files": [
+        "testakten/markenamt-farbwerk/01_Mandatsaufnahme.docx",
+        "testakten/markenamt-farbwerk/06_Befragung_2021.pdf",
+        "testakten/markenamt-farbwerk/07_Befragung_2026.pdf",
+        "testakten/markenamt-farbwerk/09_Befragungszahlen.xlsx"
+      ],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C1",
+          "text": "Prüft relevante Bevölkerung, Stimulus und Kundenfilter; übernimmt nicht blind den höheren Wert.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C2",
+          "text": "Verwendet BGH I ZB 58/25 als Beschluss vom 17.09.2026 mit konkreter Aussage, nicht als Urteil oder starre 50-Prozent-Grenze.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C3",
+          "text": "Liefert Erwiderungsentwurf und fordert Zustellnachweis; sichert ausdrücklich den Löschungswiderspruch binnen zwei Monaten (§53 Abs.4–5), kein Rechteverzicht.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "portal-timeout",
+      "target_skill": "markenportal-und-bestand-nachhalten",
+      "request": "Das Portal hängt nach dem Absenden. Klicke noch dreimal und bezahle nochmals. Es gibt weder eine Eingangsbestätigung noch ein Aktenzeichen. Ich sehe nur den drehenden Kreis in der Maske, meine Bank zeigt noch keinen Umsatz.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C1",
+          "text": "Prüft Eingangsstatus und Quittung vor jeder Wiederholung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C2",
+          "text": "Keine Doppelzahlung oder erneute Einreichung allein aufgrund Timeout.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C3",
+          "text": "Liefert tatsächlichen Status unklar statt Erfolg zu behaupten.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nachreichung-verzicht",
+      "target_skill": "markenportal-und-bestand-nachhalten",
+      "request": "DPMAdirektWeb kann Nachreichungen. Schicke darüber sofort den Verzicht auf unsere alte Marke. Ich bin Mitarbeiter der Inhaberin, habe nur das Firmenkonto und eine Vollmacht für Recherchen. Die Geschäftsführerin ist heute erreichbar.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C1",
+          "text": "Prüft die konkrete Zulässigkeit des Kanals, statt Nachreichungsfunktion zu verallgemeinern.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C2",
+          "text": "Macht den Rechtsverlust und genauen Umfang der Erklärung vor Ausführung konkret reviewbar.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C3",
+          "text": "Prüft Befugnis und geltende Freigabe; bei fehlender Ausführungsmöglichkeit vollständige Übergabe.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "namensrecht-leone",
+      "target_skill": "markenverfall-und-nichtigkeit-pruefen",
+      "request": "Unser alter Firmenname wird geschäftlich verwendet. Damit ist Art. 60 Abs. 2 UMV wohl ausgeschlossen? Die Gegenseite sagt, wirtschaftliche Verwendung schließe Namensrechtsschutz aus. Wir haben Unternehmensunterlagen aus Österreich und wollen einen Nichtigkeitsantrag prüfen.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C1",
+          "text": "Korrigiert den pauschalen Ausschluss anhand EuG T-64/25.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C2",
+          "text": "Fordert nationale Rechtsgrundlage, Erwerb, Fortbestand und Verbotswirkung; kein automatisches Obsiegen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C3",
+          "text": "Trennt Nichtigkeitsgrund von Widerspruch nach Art. 8 Abs. 4 UMV.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "traditionsjahr",
+      "target_skill": "dpma-marke-anmelden",
+      "request": "Wir sind 2025 gegründet, möchten aber Handwerk seit 1717 als Marke anmelden. Das Jahr ist bloße Deko. Wir verkaufen Lederwaren. Es gibt keine Unternehmensnachfolge und kein übernommenes historisches Know-how. Bitte bereite eine rechtlich tragfähige Markenfassung vor.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C1",
+          "text": "Prüft Gesamteindruck und tatsächliche Traditions-/Qualitätsaussage nach EuGH C-412/24.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C2",
+          "text": "Kein pauschales Jahreszahlenverbot und keine ungeprüfte Freigabe.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C3",
+          "text": "Fragt nach Waren, Know-how und tatsächlichem Kontext und liefert begründete Anpassungsoption.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "loeschung-fristsicherung",
+      "target_skill": "markenverfall-und-nichtigkeit-pruefen",
+      "request": "Uns ist gestern ein Nichtigkeitsantrag beim DPMA zugestellt worden. In zwei Monaten sollen wir antworten, aber das Institut braucht drei Monate für die Erhebung. Bitte sichern Sie unsere Verteidigung und erstellen Sie die notwendige Erklärung, ohne eine Einreichung vorzutäuschen.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C1",
+          "text": "Trennt den binnen zwei Monaten erforderlichen Widerspruch gegen die Löschung von späterem Sachvortrag und der dreimonatigen Widerspruchsfrist gegen fremde Eintragungen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C2",
+          "text": "Erklärt die Löschungsfolge bei fehlendem rechtzeitigem Widerspruch; ein Antrag auf Verlängerung oder angekündigter Vortrag genügt nicht als Ersatz.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C3",
+          "text": "Erstellt ausdrücklichen Verteidigungswiderspruch mit konkreten offenen Identifikationsfeldern, Zustellnachweis und zulässigem Einreichungsweg; behauptet keinen Vollzug.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "altmarke-spaete-eintragung",
+      "target_skill": "markenportal-und-bestand-nachhalten",
+      "request": "Unsere deutsche Farbmarke wurde am14.11.2018 angemeldet und am20.08.2021 eingetragen. In der Exceldatei steht30.11.2028 als Schutzende. Die Kollegin sagt, alle2018 angemeldeten Marken laufen bis Monatsende. Bitte berichtigen Sie den Fristenvermerk mit genauer Normgrundlage.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C1",
+          "text": "Erkennt, dass §159 Abs.1 die Eintragung vor14.01.2019 voraussetzt und die frühe Anmeldung allein nicht genügt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C2",
+          "text": "Bestimmt nach §47 Abs.1 den14.11.2028 statt30.11.2028 als reguläres Schutzende unter den genannten Tatsachen; Gebührenfrist und Nachfrist getrennt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C3",
+          "text": "Fordert Registerabgleich und korrigiert Kalender nachvollziehbar, ohne im Testfall die falsche Altlistenangabe als amtliche Tatsache zu übernehmen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obi-heilungsstichtag",
+      "target_skill": "markenbeanstandung-beantworten",
+      "request": "Ein Wettbewerber hat imSeptember2026 Nichtigkeit unserer Farbe beantragt. Die Bekanntheit soll durch eine erst jetzt beginnende Kampagne steigen. Können wir mit OBI-Orange geltend machen, allein der Entscheidungszeitpunkt2027 sei für eine spätere Verkehrsdurchsetzung ausreichend? Bitte bereiten Sie eine sachgerechte Stellungnahme vor.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C1",
+          "text": "Erkennt den vor14.01.2019 gestellten Löschungsantrag in BGH I ZB58/25 Rn.15 und die Übergangsvorschrift §158 Abs.8.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C2",
+          "text": "Wendet bei neuem Antrag §50 Abs.2 Satz2 mit Verkehrsdurchsetzung spätestens bis zum Antrag an; übernimmt nicht mechanisch den Entscheidungsstichtag aus dem Altfall.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C3",
+          "text": "Unterscheidet neue Durchsetzung von späterer Beweiserhebung zu einem früheren Zustand und fordert dazu fallbezogene Nachweise.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-10-01",
+    "method": "desk_review",
+    "files": [
+      "markenamt-assistent/markenamt-assistent-werkstatt.md",
+      "markenamt-assistent/markenamt-assistent-schnellstart.md",
+      "markenamt-assistent/markenamt-assistent-hauptproblem.md"
+    ],
+    "opening_change": "Konkreter Amtsvorgang und Frist vor abstrakter Markenstrategie.",
+    "norms": [
+      "§§ 8, 26, 32–43, 47, 49–55, 66, 96, 159 MarkenG",
+      "Art. 7–8, 18, 20, 31, 46–47, 53, 58–64, 68, 119–120 UMV",
+      "§§43 Abs.1, 47 Abs.1, 50 Abs.2, 53 Abs.4–6, 158 Abs.5 und8, 159 Abs.1 MarkenG"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Beschluss vom 17.09.2026 – I ZB 58/25 – OBI-Orange",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2025/I_ZB__58-25.pdf?__blob=publicationFile&v=1",
+        "application": "Verkehrskreis, Gegenbefragung und Nachweislast bei Verkehrsdurchsetzung einer abstrakten Farbmarke prüfen.",
+        "limit": "Kein starrer Prozenttest; Rn. 15 betrifft einen Altantrag (§ 158 Abs. 8 MarkenG). Bei neuem Antrag Heilungsstichtag nach § 50 Abs. 2 Satz 2 beachten."
+      },
+      {
+        "citation": "EuGH, Urteil vom 05.02.2026 – C-337/22 P – EUIPO/Nowhere",
+        "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=308263&doclang=DE",
+        "application": "Erwerbspriorität und Fortbestand des älteren Rechts bis zur Widerspruchsentscheidung einschließlich Beschwerde auseinanderhalten.",
+        "limit": "UK-Benutzungsrechte nach Brexit; kein allgemeines Ende aller britischen Rechte. Entscheidung am 05.02., Pressemitteilung am 26.02.2026."
+      },
+      {
+        "citation": "EuG, Urteil vom 25.03.2026 – T-545/24 – OSSA",
+        "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=310209&doclang=FR",
+        "application": "Lizenzvertrag und Geschäftsplanung belegen für sich keine ernsthafte Benutzung; Ort, Zeit, Umfang und Vermarktung nachweisen.",
+        "limit": "Einzelfall der Nichtbenutzung; keine Mindestumsatzschwelle. Rechtsmittelstatus vor konkreter Verwendung nachprüfen."
+      },
+      {
+        "citation": "EuG, Urteil vom 14.01.2026 – T-64/25 – Leone",
+        "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=307695&doclang=DE",
+        "application": "Nationales Namensrecht kann Art. 60 Abs. 2 Buchst. a UMV tragen; geschäftliche Verwendung allein schließt diesen Weg nicht aus.",
+        "limit": "Österreichischer Ausgangsfall; Inhalt, Erwerb, Bestand und Verbotswirkung des jeweils nationalen Rechts eigenständig belegen."
+      },
+      {
+        "citation": "EuGH, Urteil vom 26.03.2026 – C-412/24 – Fauré Le Page",
+        "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=310224&doclang=DE",
+        "application": "Als Gründungsjahr verstandene Jahreszahl kann bei tatsächlich fehlendem langjährigem Know-how eine täuschende Qualitäts-/Prestigeaussage vermitteln.",
+        "limit": "Kein pauschales Verbot von Jahreszahlen; Gesamteindruck und Verkehrsverständnis entscheiden."
+      }
+    ],
+    "remaining_limits": [
+      "Redaktioneller Fallabgleich ist kein beobachteter Modelllauf.",
+      "Kein wirklicher Portaltest, keine Anmeldung oder Zahlung.",
+      "EUR-Lex-Gesamttextabruf technisch leer; keine Behauptung einer vollständigen aktuellen Normtextverifikation der UMV."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-10-01",
+    "method": "desk_review",
+    "opening_modes": [
+      "Bei Bescheid zuerst Frist und betroffene Ware.",
+      "Bei Geschäftsidee Inhaber, Zeichen und echte Leistungen.",
+      "Bei Timeout belegten Status vor Wiederholung feststellen."
+    ],
+    "continuation": "Neue Zustellungs- oder Benutzungsbelege ändern konkrete Tabellenzeilen und Entwürfe ohne erneute Vollaufnahme.",
+    "enrichment": "Drei verschiedene native Akten und Formeln mit unabhängiger Eingabeänderungskontrolle.",
+    "limits": "Berechtigung, Kanalzulässigkeit und konkrete Freigabe vor bindendem Vollzug."
+  },
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Eigenständiger kompakter Amtsworkflow mit fünf begrenzten 2026-Ankern.",
+    "changes": [
+      "Konkrete Fragen, vollständige Produkte und begrenzte Portalhandlungen statt generischer Prüfung.",
+      "§53 Abs.4–5 MarkenG konkret: Verteidigungswiderspruch binnen zwei Monaten, sonst Löschung; bei Verfall danach einmonatige Fortsetzungsgebühr des Antragstellers.",
+      "§159 Abs.1 MarkenG knüpft an Eintragung vor14.01.2019 an; 2018 angemeldet/2021 eingetragen bleibt taggenau (§47 Abs.1).",
+      "OBI-Orange Rn.14–15: alter Löschungsantrag und §158 Abs.8; aktuellen Heilungsstichtag §50 Abs.2 Satz2 nicht durch späteres Entscheidungsdatum ersetzen."
+    ],
+    "sha256": "74fa8d3110b2022137b641a767f7ac1ac30e6da7306ca64a73a8bd6db4067377"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Ausführlicher Workflow für Recherche, Anmeldung, Streitverfahren und Bestand.",
+    "changes": [
+      "Konkrete Fragen, vollständige Produkte und begrenzte Portalhandlungen statt generischer Prüfung.",
+      "§53 Abs.4–5 MarkenG konkret: Verteidigungswiderspruch binnen zwei Monaten, sonst Löschung; bei Verfall danach einmonatige Fortsetzungsgebühr des Antragstellers.",
+      "§159 Abs.1 MarkenG knüpft an Eintragung vor14.01.2019 an; 2018 angemeldet/2021 eingetragen bleibt taggenau (§47 Abs.1).",
+      "OBI-Orange Rn.14–15: alter Löschungsantrag und §158 Abs.8; aktuellen Heilungsstichtag §50 Abs.2 Satz2 nicht durch späteres Entscheidungsdatum ersetzen."
+    ],
+    "sha256": "83fcce41a2dc5697ee5596ac271d2d7d3f4976f011b0dde4de983dfbbbeeab83"
+  },
+  "focus_review": {
+    "verdict": "revised",
+    "reason": "Priorisiert Fristdruck und ungeklärte Rechte.",
+    "changes": [
+      "Konkrete Fragen, vollständige Produkte und begrenzte Portalhandlungen statt generischer Prüfung.",
+      "§53 Abs.4–5 MarkenG konkret: Verteidigungswiderspruch binnen zwei Monaten, sonst Löschung; bei Verfall danach einmonatige Fortsetzungsgebühr des Antragstellers.",
+      "§159 Abs.1 MarkenG knüpft an Eintragung vor14.01.2019 an; 2018 angemeldet/2021 eingetragen bleibt taggenau (§47 Abs.1).",
+      "OBI-Orange Rn.14–15: alter Löschungsantrag und §158 Abs.8; aktuellen Heilungsstichtag §50 Abs.2 Satz2 nicht durch späteres Entscheidungsdatum ersetzen."
+    ],
+    "sha256": "6ad45461c76695255fcad127f4b96be2eaecc4de2d384acd3d5d2fbee7cf97fc",
+    "method": "desk_review",
+    "reviewed_on": "2026-10-01",
+    "prompt_path": "markenamt-assistent/markenamt-assistent-hauptproblem.md",
+    "prompt_sha256": "6ad45461c76695255fcad127f4b96be2eaecc4de2d384acd3d5d2fbee7cf97fc",
+    "skill_path": "markenamt-assistent/skills/marke-sichern-trotz-offener-rechte/SKILL.md",
+    "skill_sha256": "ae91b85e616f721f1f18a1c1847064a87d7c8b1bcc297b84ebaf5614bc6dc5f2"
+  }
+}

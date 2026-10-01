@@ -1,0 +1,83 @@
+{
+  "name": "Polter und Partner – Geschäftsführerwechsel, Gesamtprokura und Videobeglaubigung",
+  "plugin": "handelsregister-assistent",
+  "description": "Belegbezogene Bestandsprüfung; die fachliche Bewertung erzeugter Ergebnisse bleibt ausdrücklich gesondert und ungeprüft.",
+  "checks": [
+    {
+      "id": "r01-lesefassung",
+      "check_type": "file_exists",
+      "description": "Vollständige gemeinsame Lesefassung vorhanden.",
+      "path": "gesamt-pdf/handelsregister-assistent-polter-prokura_gesamt.pdf"
+    },
+    {
+      "id": "r02-originalbestand",
+      "check_type": "working_file_count",
+      "description": "Alle 24 nativen Originalunterlagen sind als Arbeitsmaterial vorhanden.",
+      "min": 24
+    },
+    {
+      "id": "beteiligung",
+      "check_type": "file_exists",
+      "description": "Excelübersicht der Beteiligung und Beschlussstimmen.",
+      "path": "03_Gesellschafter_und_Stimmen.xlsx"
+    },
+    {
+      "id": "zeichnungsplan",
+      "check_type": "file_exists",
+      "description": "Getrennte Stände von Organ-, Prokura- und Systemberechtigungen.",
+      "path": "15_Zeichnungsplan_verschiedene_Staende.xlsx"
+    },
+    {
+      "id": "videonachweis",
+      "check_type": "file_exists",
+      "description": "Konkrete Dokumentation des österreichischen Videotermins.",
+      "path": "16_Videobeglaubigung_Arbeitskopie.pdf"
+    },
+    {
+      "id": "bestellung-und-beschraenkung",
+      "check_type": "text_contains",
+      "description": "Bestellungsbeschluss erhält die maßgebliche Grenze der Vertretung.",
+      "path": "05_Beschluss_12September.docx",
+      "contains": "Eine Befreiung von den Beschränkungen des § 181 BGB wird in diesem Beschluss nicht erteilt."
+    },
+    {
+      "id": "gesamtvertretung",
+      "check_type": "text_contains",
+      "description": "Prokuraurkunde enthält die Gesamtvertretung statt einer unbeschränkten Einzelprokura.",
+      "path": "08_Prokura_Erna_2022.docx",
+      "contains": "Gesamtprokura gemeinsam mit einem Geschäftsführer oder einem weiteren Prokuristen"
+    },
+    {
+      "id": "zugangsnachweis",
+      "check_type": "text_contains",
+      "description": "IT- und Bürovermerk enthält ein konkretes Zustellereignis für die Zugangsprüfung.",
+      "path": "12_Mailserver_und_Buero_Notiz.txt",
+      "contains": "10:14:14"
+    },
+    {
+      "id": "keine-prokura-anmeldung",
+      "check_type": "text_contains",
+      "description": "Gerichtlicher Formhinweis zeigt, dass der eingegangene Antrag die Prokuraänderung noch nicht enthält.",
+      "path": "18_Registergericht_Formhinweis.docx",
+      "contains": "keine Erklärung"
+    },
+    {
+      "id": "zeitliche-vertretung",
+      "check_type": "human_review",
+      "description": "Trennt die Analyse Organstellung, Dienstvertrag, Prokurawiderruf, Registerpublizität und Bankberechtigung anhand ihrer jeweils eigenen Zeitpunkte?",
+      "note": "Abberufung zum Ablauf 30.09.2026, Bestellung ab 01.10.2026 und streitigen Zugang des Widerrufs prüfen. Lesedatum nicht ohne Zugangsprüfung gleichsetzen; Gesellschafter-E-Mail nicht als alleinigen rechtsgeschäftlichen Widerruf behandeln."
+    },
+    {
+      "id": "lieferantenauftrag",
+      "check_type": "human_review",
+      "description": "Wird die Bestellung VT-260929 mit der tatsächlichen Gesamtprokura und den vorliegenden Mitwirkungsnachweisen geprüft?",
+      "note": "Gesamtvertretung und Innenfreigabe über 25.000 EUR auseinanderhalten; keinen Vertragsschluss allein aus Ernas Unterschrift und keine automatische Lieferantenzahlung behaupten."
+    },
+    {
+      "id": "video-und-vollzug",
+      "check_type": "human_review",
+      "description": "Bereitet das Ergebnis eine belastbare Formklärung und vollständige nächste Anmeldung vor?",
+      "note": "BGH II ZB 13/24 auf das beschriebene Verfahren anwenden, nicht sämtliche österreichischen Beurkundungen pauschal verwerfen. § 12 HGB und § 378 Absatz 3 FamFG beachten; Frage nach Notareigenschaft/Zugang erst vor entsprechender Ausführung, Schriftstücke bereits vorher konkret liefern."
+    }
+  ]
+}

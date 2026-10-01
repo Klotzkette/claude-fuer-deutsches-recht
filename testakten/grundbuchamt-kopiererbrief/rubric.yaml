@@ -1,0 +1,102 @@
+{
+  "name": "grundbuchamt-kopiererbrief",
+  "plugin": "grundbuchamt-assistent",
+  "author": "Klotzkette",
+  "description": "Verlorener Brief, rechtskräftiges Aufgebot, neuer Brief bei der Bank und späterer Wiederfund hinter dem Kopierer. Native Belege werden technisch geprüft, rechtliche Antworten gesondert manuell.",
+  "checks": [
+    {
+      "id": "native-unterlagen",
+      "check_type": "working_file_count",
+      "min": 25,
+      "description": "Mindestens 25 native Aktenunterlagen einschließlich bearbeitbarer Dateien sind exportierbar."
+    },
+    {
+      "id": "gesamte-lesefassung",
+      "check_type": "file_exists",
+      "path": "gesamt-pdf/grundbuchamt-kopiererbrief_gesamt.pdf",
+      "description": "Die Gesamt-PDF-Lesefassung liegt neben den Originalunterlagen vor."
+    },
+    {
+      "id": "bearbeitbarer-suchverlauf",
+      "check_type": "file_exists",
+      "path": "08_suchprotokoll.docx",
+      "description": "Das tatsächliche Suchprotokoll liegt bearbeitbar vor."
+    },
+    {
+      "id": "bank-ermaechtigung",
+      "check_type": "file_exists",
+      "path": "09_bank_ermaechtigung.docx",
+      "description": "Die besondere Ermächtigung zur Verfahrensführung ist als eigenes Aktenstück vorhanden."
+    },
+    {
+      "id": "kraftloserklaerung-altbrief",
+      "check_type": "text_contains",
+      "path": "16_ausschliessungsbeschluss_abschrift.pdf",
+      "contains": "864219",
+      "description": "Der Ausschließungsbeschluss identifiziert den alten Brief."
+    },
+    {
+      "id": "rechtskraft-separat",
+      "check_type": "text_contains",
+      "path": "17_rechtskraftmitteilung.docx",
+      "contains": "17.07.2026",
+      "description": "Ein gesonderter Rechtskraftnachweis dokumentiert den Zeitpunkt vor der neuen Brieferteilung."
+    },
+    {
+      "id": "neuer-brief-identitaet",
+      "check_type": "text_contains",
+      "path": "19_ersatzbrief_datenblatt.pdf",
+      "contains": "226731",
+      "description": "Der neue Brief ist mit eigener Nummer identifizierbar."
+    },
+    {
+      "id": "wiederfund-service",
+      "check_type": "file_exists",
+      "path": "21_kopierer_servicebericht.docx",
+      "description": "Der Wiederfund ist in einem eigenständigen Servicebericht ausformuliert."
+    },
+    {
+      "id": "fundhinterwand",
+      "check_type": "text_contains",
+      "path": "21_kopierer_servicebericht.docx",
+      "contains": "Kabelkanal",
+      "description": "Der Fundort hinter dem Altgerät ist konkret dokumentiert."
+    },
+    {
+      "id": "briefwege-und-auslagen",
+      "check_type": "file_exists",
+      "path": "24_kosten_und_briefwege.xlsx",
+      "description": "Die bearbeitbare Arbeitsmappe enthält getrennte Briefwege und Auslagen."
+    },
+    {
+      "id": "chronologie-statt-wiederbelebung",
+      "check_type": "human_review",
+      "description": "Trennt Ausschließungsbeschluss 04.06.2026, Rechtskraft 17.07.2026, neuen Brief 09.09.2026 und Wiederfund 30.09.2026. Erklärt den für kraftlos erklärten Altbrief nicht allein durch Wiederauffinden wieder zum wirksamen Brief; identifiziert Grundbuchrecht, alte und neue Nummer.",
+      "note": "Anhand der tatsächlich erstellten Antwort manuell bewerten; die Bestandsprüfung bestätigt keine Modellleistung."
+    },
+    {
+      "id": "berechtigung-und-briefersatz",
+      "check_type": "human_review",
+      "description": "Prüft Bankberechtigung, Ermächtigung zur Aufgebotsführung und Antrag auf neuen Brief getrennt nach §§ 1162,1192 BGB, FamFG und § 67 GBO. Darlehenstilgung 2019 wird nicht als belegte Rückabtretung behandelt; BGH V ZB 308/10 vom 16.02.2012 mit einschlägiger Aussage und Grenze.",
+      "note": "Anhand der tatsächlich erstellten Antwort manuell bewerten; die Bestandsprüfung bestätigt keine Modellleistung."
+    },
+    {
+      "id": "wiederfund-verwahrung",
+      "check_type": "human_review",
+      "description": "Liefert vollständige Schreiben an Bank, Notariat und zuständige gerichtliche Stelle mit Identifikationsdaten und Fundnachweis; regelt gesicherte Verwahrung/abgestimmte Herausgabe, keine eigenmächtige Vernichtung oder Nutzung als zweite Sicherheit.",
+      "note": "Anhand der tatsächlich erstellten Antwort manuell bewerten; die Bestandsprüfung bestätigt keine Modellleistung."
+    },
+    {
+      "id": "suchangaben-und-neuer-auftrag",
+      "check_type": "human_review",
+      "description": "Übernimmt die fehlende Untersuchung des Kopiererhohlraums nicht als früher tatsächlich erfolgte Suche. Trennt wahrheitsgemäßen Suchverlauf, spätere Fundmitteilung und gewünschte neue Finanzierung am 07.10.2026.",
+      "note": "Anhand der tatsächlich erstellten Antwort manuell bewerten; die Bestandsprüfung bestätigt keine Modellleistung."
+    },
+    {
+      "id": "formgerechte-fortsetzung",
+      "check_type": "human_review",
+      "description": "Stellt konkrete Fragen zu Originalverwahrung, bankseitiger Berechtigung und gewünschter Wiederverwendung. Arbeitet bis zu vollständigen Entwürfen weiter, ohne echten Versand, notarielle Erklärung oder Eintragung zu behaupten.",
+      "note": "Anhand der tatsächlich erstellten Antwort manuell bewerten; die Bestandsprüfung bestätigt keine Modellleistung."
+    }
+  ]
+}

@@ -7,6 +7,7 @@ from pathlib import Path
 from urllib.parse import quote
 
 from quality_lab import ROOT, bounded_bytes, load, marketplace
+from prompt_profiles import formats
 
 
 def main():
@@ -39,7 +40,11 @@ def main():
         relative = directory.relative_to(ROOT).as_posix()
         url = "https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=" + quote(path.relative_to(ROOT).as_posix(), safe="/")
         skill_url = "https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=" + quote(skill_path.relative_to(ROOT).as_posix(), safe="/")
-        lines.append(f'| [{name}]({relative}/README.md) | {html.escape(title)} | [{skill}]({skill_url}) | <a href="{url}" download>MD herunterladen</a> |')
+        download = f'<a href="{url}" download>MD herunterladen</a>'
+        if "txt" in formats(name) and path.with_suffix(".txt").is_file():
+            txt_url = url.rsplit(".", 1)[0] + ".txt"
+            download += f' · [TXT herunterladen]({txt_url})'
+        lines.append(f'| [{name}]({relative}/README.md) | {html.escape(title)} | [{skill}]({skill_url}) | {download} |')
     (ROOT / "SCHWERPUNKTE.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
     print("Schwerpunkt-Verzeichnis aktualisiert; Fachinhalte unverändert.")
 

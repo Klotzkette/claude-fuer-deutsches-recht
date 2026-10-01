@@ -1,0 +1,106 @@
+name: markenamt-rumpelrad
+plugin: markenamt-assistent
+description: Drei Berliner Gründer bauen ein kompaktes Lastenfahrrad. Die Markenakte beginnt vor der Registereintragung
+  der Gesellschaft und enthält zwei Logoentwürfe, einen ähnlich klingenden Registertreffer, eine fehlerhafte Gebührenanforderung
+  und eine noch nicht abgeschickte Anmeldung.
+checks:
+- id: originalbestand
+  check_type: working_file_count
+  description: Zwanzig getrennte Arbeitsunterlagen ohne Bewertungs- oder Downloadmetadaten liegen vor.
+  min: 20
+- id: beleg-01
+  check_type: file_exists
+  path: 01_Mandatsaufnahme.docx
+  description: Mandatsaufnahme vom 28.09.2026
+- id: beleg-02
+  check_type: file_exists
+  path: 02_Firmenblatt.pdf
+  description: Firmenblatt aus der Geschäftsablage
+- id: beleg-03
+  check_type: file_exists
+  path: 03_Email_Markenwunsch.eml
+  description: Bitte endlich RUMPELRAD anmelden
+- id: beleg-04
+  check_type: file_exists
+  path: 04_Chat_Produktumfang.txt
+  description: Chat aus dem Produktkanal
+- id: beleg-05
+  check_type: file_exists
+  path: 05_Produktblatt.docx
+  description: Produkt- und Leistungsbeschreibung
+- id: beleg-06
+  check_type: file_exists
+  path: 06_Designvertrag_Entwurf.docx
+  description: Entwurf der Vereinbarung mit der Designagentur
+- id: beleg-07
+  check_type: file_exists
+  path: 07_Rechnung_Design.pdf
+  description: Rechnung RF-2026-118
+- id: beleg-08
+  check_type: file_exists
+  path: 08_Email_Agentur.eml
+  description: Rechte und richtige Logodatei
+- id: beleg-09
+  check_type: file_exists
+  path: 09_Anmeldeentwurf.docx
+  description: Gespeicherter Anmeldeentwurf vom 19.08.2026
+- id: beleg-10
+  check_type: file_exists
+  path: 10_Arbeitsansicht_Entwurf.png
+  description: 'Interne Ablage: Markenentwürfe'
+- id: beleg-11
+  check_type: file_exists
+  path: 11_Recherchenotiz.pdf
+  description: Rechercheauszug der Assistenz
+- id: beleg-12
+  check_type: file_exists
+  path: 12_Gebuehrenplanung.xlsx
+  description: Gebührenvergleich der geplanten Anmeldungen
+- id: beleg-13
+  check_type: file_exists
+  path: 13_Warenplan.xlsx
+  description: Geschäftsplan nach Tätigkeiten
+- id: beleg-14
+  check_type: file_exists
+  path: 14_Email_Haendlerin.eml
+  description: Erst einmal zwölf Räder?
+- id: beleg-15
+  check_type: file_exists
+  path: 15_Zahlungsanforderung_Privatregister.pdf
+  description: Angebot der Markenverzeichnis Service S.à r.l.
+- id: beleg-16
+  check_type: file_exists
+  path: 16_Email_Buchhaltung.eml
+  description: Darf ich die 980 Euro freigeben?
+- id: beleg-17
+  check_type: file_exists
+  path: 17_Besprechungsnotiz.docx
+  description: Besprechung im Werkhof
+- id: beleg-18
+  check_type: file_exists
+  path: 18_Vollmacht_Entwurf.docx
+  description: Vollmacht für den Markenvorgang – Entwurf
+- id: beleg-19
+  check_type: file_exists
+  path: 19_Dateiliste.csv
+  description: Übergebene Anlagen
+- id: beleg-20
+  check_type: file_exists
+  path: 20_Email_Nachtrag.eml
+  description: Noch zwei Dinge zum Formular
+- id: fachpruefung-1
+  check_type: human_review
+  description: Die Antwort klärt Ottilies privaten Entwurf gegenüber der UG als beabsichtigter Anmelderin und ändert
+    das Inhaberfeld vor einer Einreichung nicht ohne belegten Auftrag.
+- id: fachpruefung-2
+  check_type: human_review
+  description: Das Warenverzeichnis trennt reale Fahrräder, tatsächlich angebotene Software, Handel und Reparatur;
+    keine pauschale Vollbelegung der Klassen allein wegen künftiger Ideen.
+- id: fachpruefung-3
+  check_type: human_review
+  description: Die Trefferprüfung bewertet Zeichen, Waren und Kennzeichnungskraft. Ein leeres Suchergebnis oder
+    eine Plattformfreigabe wird nicht als Kollisionsfreiheit zugesagt.
+- id: fachpruefung-4
+  check_type: human_review
+  description: Die Zahlungsaufforderung des privaten Verzeichnisses wird von amtlichen Gebühren getrennt. Ein freigegebener
+    Entwurf wird ohne technische Quittung nicht als eingereicht bezeichnet.

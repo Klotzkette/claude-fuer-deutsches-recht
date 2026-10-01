@@ -1,0 +1,83 @@
+{
+  "name": "Kiezkolben und Colombo – Gesellschafterliste und ausländische Organvertretung",
+  "plugin": "handelsregister-assistent",
+  "description": "Belegbezogene Bestandsprüfung; die fachliche Bewertung erzeugter Ergebnisse bleibt ausdrücklich gesondert und ungeprüft.",
+  "checks": [
+    {
+      "id": "r01-lesefassung",
+      "check_type": "file_exists",
+      "description": "Vollständige gemeinsame Lesefassung vorhanden.",
+      "path": "gesamt-pdf/handelsregister-assistent-kiezkolben-colombo_gesamt.pdf"
+    },
+    {
+      "id": "r02-originalbestand",
+      "check_type": "working_file_count",
+      "description": "Alle 24 nativen Originalunterlagen sind als Arbeitsmaterial vorhanden.",
+      "min": 24
+    },
+    {
+      "id": "anteilsstand",
+      "check_type": "file_exists",
+      "description": "Bearbeitbare Alt-/Neu-Beteiligung mit Nennbeträgen und Quoten.",
+      "path": "03_Anteile_alt_neu.xlsx"
+    },
+    {
+      "id": "beschaffungsstand",
+      "check_type": "file_exists",
+      "description": "Beschaffungs- und Nachweisstand der Auslandsunterlagen.",
+      "path": "20_Dokumente_Colombo_Stand.xlsx"
+    },
+    {
+      "id": "registerrecherche",
+      "check_type": "file_exists",
+      "description": "Eigenständige eROC-Abrufnotiz zur vorhandenen Registerinfrastruktur.",
+      "path": "07_eROC_Suchnotiz.png"
+    },
+    {
+      "id": "board-vollstaendigkeit",
+      "check_type": "text_contains",
+      "description": "Articles enthalten die konkrete Zustimmungsvoraussetzung für schriftliche Beschlüsse.",
+      "path": "10_Articles_Auszug_Arbeitsuebersetzung.docx",
+      "contains": "sämtliche zur Mitwirkung berechtigten Direktoren"
+    },
+    {
+      "id": "zeitpunktbezogene-nachforderung",
+      "check_type": "text_contains",
+      "description": "Gerichtliche Rückfrage bezieht sich auf den Erwerbszeitpunkt statt nur auf aktuelle Organpersonen.",
+      "path": "16_Gericht_Verfuegung_Arbeitsabschrift.docx",
+      "contains": "15.09.2026"
+    },
+    {
+      "id": "nachgereichte-organbestellung",
+      "check_type": "text_contains",
+      "description": "Nachgereichte Organmeldung enthält den behaupteten Beginn von Tariqs Bestellung.",
+      "path": "19_Neue_Organmeldung_Abschrift.docx",
+      "contains": "10.09.2026"
+    },
+    {
+      "id": "spaeterer-volltextzugang",
+      "check_type": "text_contains",
+      "description": "Späterer vollständiger Informationszugang des neuen Direktors ist als eigener Beleg enthalten.",
+      "path": "21_Board_28September_Bestaetigung.docx",
+      "contains": "22.09.2026"
+    },
+    {
+      "id": "vertretung-nicht-registerstatus",
+      "check_type": "human_review",
+      "description": "Trennt der erzeugte Vermerk Gesellschaftsexistenz, Dokumentechtheit, historisches Organamt, Beschlussfassung und konkrete Vertretungsmacht?",
+      "note": "Prüfen, ob eROC als vorhandenes Register erkannt und die Secretary-Bestätigung nicht allein als vollständiger Vertretungsnachweis behandelt wird; keine behauptete Apostille für Sri Lanka."
+    },
+    {
+      "id": "zwei-nachweispfade",
+      "check_type": "human_review",
+      "description": "Erarbeitet die Antwort zwei tatsächlich verschiedene, belegbezogene Beschaffungs- oder Vollzugswege?",
+      "note": "Amtliche Unterlagen mit Articles/Organkette und begründeter örtlicher Stellungnahme einerseits; gezielte verfahrensbezogene Klärung beziehungsweise zulässige neue Bestätigung andererseits. Länderstatus und Botschaftsleistungsumfang amtlich prüfen; keine automatische Legalisation, Heilung oder Rückdatierung."
+    },
+    {
+      "id": "liste-und-frist",
+      "check_type": "human_review",
+      "description": "Führt das Arbeitsergebnis zu einem ausformulierten Schreiben mit passenden Anlagen, Frist und offenem Vollzugsstatus?",
+      "note": "§ 40 GmbHG, § 16 GmbHG und Reichweite registergerichtlicher Prüfung gesondert subsumieren. Die Verfügung bis 12.10.2026 ist keine bereits erfolgte Ablehnung; II ZR 50/25 ersetzt keinen historischen Vertretungsnachweis."
+    }
+  ]
+}

@@ -1,0 +1,664 @@
+{
+  "reviewed_on": "2026-10-01",
+  "reviewer": "independent subagent transparenzregister_neu",
+  "status": "passed_with_minor_notes",
+  "scope": "Vier vollständige Werkstattfassungen in DOCX und PDF; genau eine H1, dezimale Abschnittsnummern, TNR 11 im Fließtext.",
+  "method": "Aus aktuellen render/page-N.png wurden zwölf neue Kontaktbögen erstellt und alle 100 Seiten visuell betrachtet. Sieben ausgewählte Seiten wurden zusätzlich einzeln in Großansicht geprüft. Maßgeblich ist die Seitenzahl des aktuellen Repository-PDF; überzählige PNGs früherer Renderläufe wurden ausgeschlossen. Root ergänzte25Markenseiten in4Kontaktbögen und die5geändertenGrundbuchschlussseiten nach zusammengehaltenen Tabellenzeilen.",
+  "document_count": 4,
+  "page_count": 125,
+  "contact_sheet_count": 17,
+  "findings": [
+    {
+      "id": "W1",
+      "slug": "grundbuchamt-assistent",
+      "pages": [
+        33,
+        34
+      ],
+      "severity": "minor_layout_note",
+      "status": "resolved",
+      "finding": "Die letzte Zeile der Nachweis- und Handlungsmatrix wird auf zwei Seiten getrennt. Die Kopfzeile wiederholt sich korrekt; sämtliche Wörter sind vorhanden, aber die Phrasen Original und/Fundprotokoll sowie Papier liegt unverändert/vor stehen auf unterschiedlichen Seiten.",
+      "suggestion": "Optional Tabellenzeile mit w:cantSplit zusammenhalten; keine fachliche Textänderung erforderlich.",
+      "resolution": "w:cantSplit hält jede Tabellenzeile zusammen. Neu gerendert; Seite34 groß, Seiten33/35/36/37 erneut visuell geprüft."
+    },
+    {
+      "id": "W2",
+      "slug": "grundbuchamt-assistent",
+      "pages": [
+        37
+      ],
+      "severity": "cosmetic_note",
+      "status": "documented",
+      "finding": "Die letzte Seite enthält vier Abschlusszeilen und den vollständigen Seitenfuß. Kein leerer oder verlorener Inhalt.",
+      "suggestion": "Optional letzten Abschnitt kompakter umbrechen; kein Erfordernis für die inhaltliche Nutzbarkeit."
+    }
+  ],
+  "documents": [
+    {
+      "slug": "grundbuchamt-assistent",
+      "page_count": 37,
+      "contact_sheets": [
+        "/tmp/registerwerkstaetten-20261001/workshop-contact-final/grundbuchamt-assistent-001-009.jpg",
+        "/tmp/registerwerkstaetten-20261001/workshop-contact-final/grundbuchamt-assistent-010-018.jpg",
+        "/tmp/registerwerkstaetten-20261001/workshop-contact-final/grundbuchamt-assistent-019-027.jpg",
+        "/tmp/registerwerkstaetten-20261001/workshop-contact-final/grundbuchamt-assistent-028-036.jpg",
+        "/tmp/registerwerkstaetten-20261001/workshop-contact-final/grundbuchamt-assistent-037-037.jpg"
+      ],
+      "artifacts": {
+        "pdf": {
+          "path": "grundbuchamt-assistent/assets/grundbuchamt-assistent-werkstatt.pdf",
+          "sha256": "91ad1756e3fdb05a6193135c24d44be5deb1dd39a32cb877326ffd7796be9d60"
+        },
+        "docx": {
+          "path": "grundbuchamt-assistent/assets/grundbuchamt-assistent-werkstatt.docx",
+          "sha256": "ce40a243ed2aa763948b859309d7114395a01d6bccebf202b80be8670a626135"
+        },
+        "md": {
+          "path": "grundbuchamt-assistent/grundbuchamt-assistent-werkstatt.md",
+          "sha256": "f3e5a4eb382ebb48a8c379fbc8995e2a781d766550455b660563157c827de04b"
+        }
+      },
+      "pngs": [
+        {
+          "page": 1,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/grundbuchamt-assistent/render/page-1.png",
+          "sha256": "f2f287cbb36e289a04c7679a18ab7e225131c7dfb86f9fe03313987353fd8b20"
+        },
+        {
+          "page": 2,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/grundbuchamt-assistent/render/page-2.png",
+          "sha256": "24f9e5397e12c31000603eebdfd7ff7be213c56a2f495860f6fc53cb851d29ce"
+        },
+        {
+          "page": 3,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/grundbuchamt-assistent/render/page-3.png",
+          "sha256": "617258c333e10e8ad5d6f1c8255835a2ece66f12c0ae28d92d5e89b8f1d3e98f"
+        },
+        {
+          "page": 4,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/grundbuchamt-assistent/render/page-4.png",
+          "sha256": "b73fbb2bcbb47be6336c43e2e05ac366ba8d18f43437a0306e45f0ce2f0ca898"
+        },
+        {
+          "page": 5,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/grundbuchamt-assistent/render/page-5.png",
+          "sha256": "da0f81a34821208147d82f549046a422f97fa0bf8e0f39510f52ae95894abf11"
+        },
+        {
+          "page": 6,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/grundbuchamt-assistent/render/page-6.png",
+          "sha256": "f3c407ee7922da7811ca54613c02adf504508deb845808ce3f3cd205bbe4c8d9"
+        },
+        {
+          "page": 7,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/grundbuchamt-assistent/render/page-7.png",
+          "sha256": "8b42c5983822a9946fc9aab37ae212a1a94a2c033d7c73943e7e157c018e10e5"
+        },
+        {
+          "page": 8,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/grundbuchamt-assistent/render/page-8.png",
+          "sha256": "5c852cf02fde51b02f720071bf59b7868a9e83e3af8b7e256b42253d443466c7"
+        },
+        {
+          "page": 9,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/grundbuchamt-assistent/render/page-9.png",
+          "sha256": "4b03e25061999304a605f7012108cb3145bce1bc5637a3fcb2f86dd56eebd56a"
+        },
+        {
+          "page": 10,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/grundbuchamt-assistent/render/page-10.png",
+          "sha256": "bbb5b344301c8b28fb717fae1d5d63a6701659a791121d4a7f350a61b5f58eaa"
+        },
+        {
+          "page": 11,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/grundbuchamt-assistent/render/page-11.png",
+          "sha256": "8cf200dfa3d72d5c524b13c65f552f682d4d3b0732a19e533511afd6d2520938"
+        },
+        {
+          "page": 12,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/grundbuchamt-assistent/render/page-12.png",
+          "sha256": "868e39b7cb3abda9fae6c0e5965778450e24ef8fafb2fb37344ac2a51a054b5d"
+        },
+        {
+          "page": 13,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/grundbuchamt-assistent/render/page-13.png",
+          "sha256": "af9d10cd75e98bfe9587adfb83d643910a9a3bcdcb7f45ada3df8cf96ea85885"
+        },
+        {
+          "page": 14,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/grundbuchamt-assistent/render/page-14.png",
+          "sha256": "8282c8647f33ddbe2a7568a1824b27faf4a5c66a71003f5e87337648ba65746e"
+        },
+        {
+          "page": 15,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/grundbuchamt-assistent/render/page-15.png",
+          "sha256": "bca999235f19ffc85dea245b3a1789ae87d55f66f2131c28a190aeb498e857aa"
+        },
+        {
+          "page": 16,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/grundbuchamt-assistent/render/page-16.png",
+          "sha256": "7e21d38733626230097f9fabfce8bd1f2bf80dd753b7f366cc44dc1c0eeb304f"
+        },
+        {
+          "page": 17,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/grundbuchamt-assistent/render/page-17.png",
+          "sha256": "7ef2c3ae8176a3805f35551c61e7a14e2a8bc3b87e4e9032f0a5f8ccbacfdcb9"
+        },
+        {
+          "page": 18,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/grundbuchamt-assistent/render/page-18.png",
+          "sha256": "945342bfe143772383274e8c3bb2cc794cb2dbd4161a4ec01f6d350c13f98e2a"
+        },
+        {
+          "page": 19,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/grundbuchamt-assistent/render/page-19.png",
+          "sha256": "a23872c0270a60213aa100fabd3ef7c14474be256d905ae754ffde91cadab6d3"
+        },
+        {
+          "page": 20,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/grundbuchamt-assistent/render/page-20.png",
+          "sha256": "feff5162a015b96c5a2b74be3452eb1e0db2afd5a7b38d08e862c1e15b0ad86d"
+        },
+        {
+          "page": 21,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/grundbuchamt-assistent/render/page-21.png",
+          "sha256": "c5972a0aa5b03c911ec11efbb2acf007204373fa6e213d095db17f43d6f37291"
+        },
+        {
+          "page": 22,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/grundbuchamt-assistent/render/page-22.png",
+          "sha256": "bd90ad6f53fc0a31d351413fc52e40c5b7573eb6b8de5549863cfa38b32d7703"
+        },
+        {
+          "page": 23,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/grundbuchamt-assistent/render/page-23.png",
+          "sha256": "03f1b8fe2e52039e84c4afbdf5b484b9bdd89a83948b721ff62c05694a9c69b7"
+        },
+        {
+          "page": 24,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/grundbuchamt-assistent/render/page-24.png",
+          "sha256": "576a9a73c8cb546c0cec21bdf474a1ced5a8270d0a6cecb889a915b8fd2ce575"
+        },
+        {
+          "page": 25,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/grundbuchamt-assistent/render/page-25.png",
+          "sha256": "fe86eabe14e895559a9b72dd18dd32a959da4b4c02ab0296dcccbbae573d1f9c"
+        },
+        {
+          "page": 26,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/grundbuchamt-assistent/render/page-26.png",
+          "sha256": "66afa7ba016d84a2ce380be5addc05700b7054303cd0dd02b7aa48f622a079c6"
+        },
+        {
+          "page": 27,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/grundbuchamt-assistent/render/page-27.png",
+          "sha256": "1e229f22308920d47ac7bd4adcdde041a8cb89c9bb8cb604d44aa4c15042c1cc"
+        },
+        {
+          "page": 28,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/grundbuchamt-assistent/render/page-28.png",
+          "sha256": "451f03f85a0f3590f7e99740da9025a8663398796063671432d653ecc6185e79"
+        },
+        {
+          "page": 29,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/grundbuchamt-assistent/render/page-29.png",
+          "sha256": "849464d62f735abeeb0a016d3e5515f2be63f334b49ba3993900a3697dff8085"
+        },
+        {
+          "page": 30,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/grundbuchamt-assistent/render/page-30.png",
+          "sha256": "0a1f042b50b026b28339e6d8312f9defea08a7658db22d9be5b25dd3a9a7bd2a"
+        },
+        {
+          "page": 31,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/grundbuchamt-assistent/render/page-31.png",
+          "sha256": "d7f38fcccecfbd4f0ea5801b88f59c2374026ca331c6adebcee29c564d861f65"
+        },
+        {
+          "page": 32,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/grundbuchamt-assistent/render/page-32.png",
+          "sha256": "c8bb231b8f21f34b49f732c29ed3e2896e1e2f30fabc7376c8a823b024969590"
+        },
+        {
+          "page": 33,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/grundbuchamt-assistent/render/page-33.png",
+          "sha256": "8c06036098e815e603cf5bf3aec0dd82b03b2a569e1626d5b88a8f76d944b14f"
+        },
+        {
+          "page": 34,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/grundbuchamt-assistent/render/page-34.png",
+          "sha256": "8b90f9c5094b054caa42d598603a2caeccffdeda7ac74ba7e5b0d125a8dc95e9"
+        },
+        {
+          "page": 35,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/grundbuchamt-assistent/render/page-35.png",
+          "sha256": "adf0cd06c9c90acf22b914e22b870375cdf9353ea7bdf0ddd970e67fb5f431a4"
+        },
+        {
+          "page": 36,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/grundbuchamt-assistent/render/page-36.png",
+          "sha256": "743527d99f1bcba943bfe549d1744a6e2837f5433f551e33550414ad1b189cbd"
+        },
+        {
+          "page": 37,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/grundbuchamt-assistent/render/page-37.png",
+          "sha256": "5698ae7385f4a0343d038e291b2104a1df01147a44357deec389439e52c6685f"
+        }
+      ],
+      "excluded_stale_tail_pngs": [],
+      "all_pages_visually_reviewed": true,
+      "detail_pages_reviewed": [
+        33,
+        34,
+        37
+      ],
+      "status": "passed_with_minor_notes",
+      "followup": "Tabellenzeilen ungeteilt; finale Schlussseiten33–37 erneut geprüft."
+    },
+    {
+      "slug": "transparenzregister-assistent",
+      "page_count": 27,
+      "contact_sheets": [
+        "/tmp/registerwerkstaetten-20261001/workshop-contact-final/transparenzregister-assistent-001-009.jpg",
+        "/tmp/registerwerkstaetten-20261001/workshop-contact-final/transparenzregister-assistent-010-018.jpg",
+        "/tmp/registerwerkstaetten-20261001/workshop-contact-final/transparenzregister-assistent-019-027.jpg"
+      ],
+      "artifacts": {
+        "pdf": {
+          "path": "transparenzregister-assistent/assets/transparenzregister-assistent-werkstatt.pdf",
+          "sha256": "d195ce1011d8d8c5a3d1b0ea39165eaff0a2a88d479427da3210c96fc3f2fd08"
+        },
+        "docx": {
+          "path": "transparenzregister-assistent/assets/transparenzregister-assistent-werkstatt.docx",
+          "sha256": "873bc6217d87734571a11096893b01e0b6116ddbefefeb44e3f103ee504c34c2"
+        },
+        "md": {
+          "path": "transparenzregister-assistent/transparenzregister-assistent-werkstatt.md",
+          "sha256": "62239b798ceabd65c03a85e7d877ce0c004e8240f66d29e103be705d700132eb"
+        }
+      },
+      "pngs": [
+        {
+          "page": 1,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/transparenzregister-assistent/render/page-1.png",
+          "sha256": "b2492ea1bb847c573ce053fedf1810a25870035d06380e2962dff2732efaec88"
+        },
+        {
+          "page": 2,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/transparenzregister-assistent/render/page-2.png",
+          "sha256": "9b54f62070d4b0d6508c699c02491ebf08d869dcb573f21ad29f877c8dba89db"
+        },
+        {
+          "page": 3,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/transparenzregister-assistent/render/page-3.png",
+          "sha256": "af643c72fa24f2e6a14e9da945b94fac77f27dcfa899c1fc926bb7153a5dc47c"
+        },
+        {
+          "page": 4,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/transparenzregister-assistent/render/page-4.png",
+          "sha256": "bb2d780f44bd82003315561998db0763826e008344f1f77f5ff959623fe4525a"
+        },
+        {
+          "page": 5,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/transparenzregister-assistent/render/page-5.png",
+          "sha256": "0c51560e748db973b28a7fe504496dd6b83ead71b3a80b412844ed3e8921f13e"
+        },
+        {
+          "page": 6,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/transparenzregister-assistent/render/page-6.png",
+          "sha256": "e7a651b53b3233a89cdad83efd239df72574ed39ceda21b6da3dbb66a7ac8bb3"
+        },
+        {
+          "page": 7,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/transparenzregister-assistent/render/page-7.png",
+          "sha256": "502529fa37e0155196e0176cbe7d769b238df8f776ed66783b08434a0beb6eaa"
+        },
+        {
+          "page": 8,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/transparenzregister-assistent/render/page-8.png",
+          "sha256": "f8e31e5fc7aabd73643e32cd27b0ac755036c1352f2545fb2911b198b66b5861"
+        },
+        {
+          "page": 9,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/transparenzregister-assistent/render/page-9.png",
+          "sha256": "4fc04016d55f654d90f10f4e22593bcc881c2db648bb94d6bfc8e1b0b827b240"
+        },
+        {
+          "page": 10,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/transparenzregister-assistent/render/page-10.png",
+          "sha256": "97ae4287f2b3660b82c474b2be69f5b47a5aa5495d33d1161950d3c82b9853c3"
+        },
+        {
+          "page": 11,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/transparenzregister-assistent/render/page-11.png",
+          "sha256": "1c6e2e82d5590eea6c427fb69c311dfcb0ee83ef3ed5d70890e76514507608b9"
+        },
+        {
+          "page": 12,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/transparenzregister-assistent/render/page-12.png",
+          "sha256": "95138c0889f1ffb40c075cd1cf7c76345cecf1591629bad755d0ba9e8ebb6249"
+        },
+        {
+          "page": 13,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/transparenzregister-assistent/render/page-13.png",
+          "sha256": "22500f269ceb258be54dec9aa80876567a5b4adb934a7ece36d98e1756ed1088"
+        },
+        {
+          "page": 14,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/transparenzregister-assistent/render/page-14.png",
+          "sha256": "8c2b223730d68e21a480114da60f366da8bee4f19d3b2fc17f97479b2ba9c4ea"
+        },
+        {
+          "page": 15,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/transparenzregister-assistent/render/page-15.png",
+          "sha256": "ef405b58b3cd7ac38e09f0cf2c45c7bd2fe93e24aebaff17f4cd54b8a7a423fe"
+        },
+        {
+          "page": 16,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/transparenzregister-assistent/render/page-16.png",
+          "sha256": "6e6b8531f9faaf7fa4388b890f82ecd559388b7fa66f1d35098263e1f2d2cdb1"
+        },
+        {
+          "page": 17,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/transparenzregister-assistent/render/page-17.png",
+          "sha256": "a508b214d290bb848414681a17cefd7243b43e675befa3a484cc8d05a897d8f8"
+        },
+        {
+          "page": 18,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/transparenzregister-assistent/render/page-18.png",
+          "sha256": "378a03ae7c41d50c6f64344b239cf942bfdb8769d2cc1d0b74b884252c35906e"
+        },
+        {
+          "page": 19,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/transparenzregister-assistent/render/page-19.png",
+          "sha256": "50824e947ae0516e4744cecbb3e0296bf72b7e1781db0c4e41eeec57c3478ced"
+        },
+        {
+          "page": 20,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/transparenzregister-assistent/render/page-20.png",
+          "sha256": "cc4531032dfefca3425160dc7d71b798d428bb1f2add43674511e6fe2702be74"
+        },
+        {
+          "page": 21,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/transparenzregister-assistent/render/page-21.png",
+          "sha256": "7ad96b5e70fcfde809aed8db574e4ba726bdb2ba9580cf91720cdc6c5ae17d80"
+        },
+        {
+          "page": 22,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/transparenzregister-assistent/render/page-22.png",
+          "sha256": "4bb49a86224d5146df0e34e8980ccf17091848bfbdfce82c8d1947e2c553b93f"
+        },
+        {
+          "page": 23,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/transparenzregister-assistent/render/page-23.png",
+          "sha256": "d48967f9c72660e50329e9b26ebc5b53757550fc98e0bd1e8e1d6810e47bdda8"
+        },
+        {
+          "page": 24,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/transparenzregister-assistent/render/page-24.png",
+          "sha256": "65ed228fce8ba7b409911cca38f8584a9ecc6cbcf1a970ce106ff4e5a3b07ccb"
+        },
+        {
+          "page": 25,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/transparenzregister-assistent/render/page-25.png",
+          "sha256": "4b7e4bac0b7902139ebb71383740c980b15ae300d1d679155c0ac61115a13775"
+        },
+        {
+          "page": 26,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/transparenzregister-assistent/render/page-26.png",
+          "sha256": "3657d5727b269d7a6ceb0c3366deeb58e65be6ac6f4c08e9271423753f7dfa81"
+        },
+        {
+          "page": 27,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/transparenzregister-assistent/render/page-27.png",
+          "sha256": "da5f91d926f1377148fb473db49d799050f6e85f8085044b9f6312f450e509c5"
+        }
+      ],
+      "excluded_stale_tail_pngs": [
+        "/tmp/registerwerkstaetten-20261001/workshop-qa/transparenzregister-assistent/render/page-28.png"
+      ],
+      "all_pages_visually_reviewed": true,
+      "detail_pages_reviewed": [
+        14,
+        27
+      ],
+      "status": "passed"
+    },
+    {
+      "slug": "handelsregister-assistent",
+      "page_count": 36,
+      "contact_sheets": [
+        "/tmp/registerwerkstaetten-20261001/workshop-contact-final/handelsregister-assistent-001-009.jpg",
+        "/tmp/registerwerkstaetten-20261001/workshop-contact-final/handelsregister-assistent-010-018.jpg",
+        "/tmp/registerwerkstaetten-20261001/workshop-contact-final/handelsregister-assistent-019-027.jpg",
+        "/tmp/registerwerkstaetten-20261001/workshop-contact-final/handelsregister-assistent-028-036.jpg"
+      ],
+      "artifacts": {
+        "pdf": {
+          "path": "handelsregister-assistent/assets/handelsregister-assistent-werkstatt.pdf",
+          "sha256": "713f9529bd281530c92716ee959b4d2ff680bc16cbab4c4514082b65051b2dce"
+        },
+        "docx": {
+          "path": "handelsregister-assistent/assets/handelsregister-assistent-werkstatt.docx",
+          "sha256": "684ffba3e7cbb73e0f23761fb37e1f45123b77023a33008ac508b5a98d485bb4"
+        },
+        "md": {
+          "path": "handelsregister-assistent/handelsregister-assistent-werkstatt.md",
+          "sha256": "7f13500c862b2eb6bf97ae71b1af81723a6dab50c43a7e4d348660dee93bb02c"
+        }
+      },
+      "pngs": [
+        {
+          "page": 1,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/handelsregister-assistent/render/page-1.png",
+          "sha256": "e60b5146075383d0692c6b8d0cb370b6c3530f81375650728d8b49787f474767"
+        },
+        {
+          "page": 2,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/handelsregister-assistent/render/page-2.png",
+          "sha256": "152a5034bd0a2f23c15f065780037c6eae0ac137cfda6aed8eaac7d796778081"
+        },
+        {
+          "page": 3,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/handelsregister-assistent/render/page-3.png",
+          "sha256": "3176626f453464ba295ab682cc7bd0a0f483bf6069a0960ad73729991a5872ce"
+        },
+        {
+          "page": 4,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/handelsregister-assistent/render/page-4.png",
+          "sha256": "1f48ff1d2c87f720356ce8155f3ec321559ee13ebe28c89d1a6c8c2b73e37c3e"
+        },
+        {
+          "page": 5,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/handelsregister-assistent/render/page-5.png",
+          "sha256": "326961b2417fb34439ccc004c777e1d7a054a4eeaa4a0ec97d5ab2a6401d9c1e"
+        },
+        {
+          "page": 6,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/handelsregister-assistent/render/page-6.png",
+          "sha256": "aac4f24f4ab76d1a0e27d5d87cf46d052dba0ba8b84443d7394134d3a4cf3b7d"
+        },
+        {
+          "page": 7,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/handelsregister-assistent/render/page-7.png",
+          "sha256": "09663df83e739941f21f2d874e191b74600229681d83b5d0b9a17721ae219803"
+        },
+        {
+          "page": 8,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/handelsregister-assistent/render/page-8.png",
+          "sha256": "c206b7da41517bea53dc1b085c003826dc3dfb44f2071c3dcfdd87a4129dbf7f"
+        },
+        {
+          "page": 9,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/handelsregister-assistent/render/page-9.png",
+          "sha256": "134a16e3cca28d53222aea3c35bcc2527d75155b6ed896ed1027687965f4b021"
+        },
+        {
+          "page": 10,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/handelsregister-assistent/render/page-10.png",
+          "sha256": "2786cd1bd49be74c4d3b0329f62e88a02ed9f53bea75a555007ff3fbde68636d"
+        },
+        {
+          "page": 11,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/handelsregister-assistent/render/page-11.png",
+          "sha256": "644861629343179a2a17a3c22063fab602ecd50c395cc3901ea039ab8091f314"
+        },
+        {
+          "page": 12,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/handelsregister-assistent/render/page-12.png",
+          "sha256": "c1148ce7798e38e54b107cb3869a48b453f98c1fed75b53c082c818c2fb8e7b8"
+        },
+        {
+          "page": 13,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/handelsregister-assistent/render/page-13.png",
+          "sha256": "2daf168bf75f298b441e108746dfd93125ed960f4d16346b796f68043557c385"
+        },
+        {
+          "page": 14,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/handelsregister-assistent/render/page-14.png",
+          "sha256": "2d26cd92daf15512f1d8cab63ddb108a11b77093d4375f3aa11e21ab8316ef6a"
+        },
+        {
+          "page": 15,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/handelsregister-assistent/render/page-15.png",
+          "sha256": "29330dc66f8111204845df6f3bc56a28b985d7ee637370f012ec48d76dc1461e"
+        },
+        {
+          "page": 16,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/handelsregister-assistent/render/page-16.png",
+          "sha256": "8b4f3e0d21679d1d99df45ad9909b8ef70b0f92fa3f1adc6dcb06ce11c7652e3"
+        },
+        {
+          "page": 17,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/handelsregister-assistent/render/page-17.png",
+          "sha256": "7e9615df961d210e08af3925a15550294dc37275ed8aa0d59f62dde7f1ff22a0"
+        },
+        {
+          "page": 18,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/handelsregister-assistent/render/page-18.png",
+          "sha256": "3d686612a3d549c89699ac4f107b1086b64bea52d39d104996236de4d9e70106"
+        },
+        {
+          "page": 19,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/handelsregister-assistent/render/page-19.png",
+          "sha256": "52e1d7376908c668cda756db05a89c740210446ddae213d1975d5538f5f2f26a"
+        },
+        {
+          "page": 20,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/handelsregister-assistent/render/page-20.png",
+          "sha256": "e8a1e2fb558264481abf5bd2939a78b77cf62d6c65b1ea17864803d36f8eb374"
+        },
+        {
+          "page": 21,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/handelsregister-assistent/render/page-21.png",
+          "sha256": "608dde0919899ff1458341e9d8ab1dfaaff0af11b507df73293e7211235b447e"
+        },
+        {
+          "page": 22,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/handelsregister-assistent/render/page-22.png",
+          "sha256": "62e8deaaa076104747c123a5e79e2582d0a76c666aff9aa6edaa9980dc3171f8"
+        },
+        {
+          "page": 23,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/handelsregister-assistent/render/page-23.png",
+          "sha256": "adedba39f384df480b40f5471db8f39504831033927c8515e065a90d11c2295c"
+        },
+        {
+          "page": 24,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/handelsregister-assistent/render/page-24.png",
+          "sha256": "165bd71a23c62c85b7f2b1efec6de8020829ca4609792eb2dc32625f9612f3f4"
+        },
+        {
+          "page": 25,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/handelsregister-assistent/render/page-25.png",
+          "sha256": "ee966883ef1947184023305e21cfc8b9360ff1acc2de68c495ab651ec9675e7b"
+        },
+        {
+          "page": 26,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/handelsregister-assistent/render/page-26.png",
+          "sha256": "2c02beb10b2c086a5aaa9cf890f90344f7f709fbe43737601d4ea1249aada17c"
+        },
+        {
+          "page": 27,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/handelsregister-assistent/render/page-27.png",
+          "sha256": "9926c3769104ccdb3607465b7eb16cabe2cae608f822e92554dd4b972a82595f"
+        },
+        {
+          "page": 28,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/handelsregister-assistent/render/page-28.png",
+          "sha256": "7409c5caa64e4d19dd0c9704c46f0fd09fd4ea060ebe9e58347aace360afa632"
+        },
+        {
+          "page": 29,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/handelsregister-assistent/render/page-29.png",
+          "sha256": "d46b2dfea327525aa1841c2214e5b74b4f2e6bd76bf97b73be53f9fa1ec8bdfb"
+        },
+        {
+          "page": 30,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/handelsregister-assistent/render/page-30.png",
+          "sha256": "b7c04a621e1f5414c51e47dc99db11dced64d4d2064cadd3ea5d4e0e2c72680b"
+        },
+        {
+          "page": 31,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/handelsregister-assistent/render/page-31.png",
+          "sha256": "77090092c0bf31b5b8ed730e7dc685cd86719a3f8f9e98acaf660bc64d07a64f"
+        },
+        {
+          "page": 32,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/handelsregister-assistent/render/page-32.png",
+          "sha256": "c6bfe4103844bec4763856f134a8d92517145ce01bfbcae42fe3fd084455ab3c"
+        },
+        {
+          "page": 33,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/handelsregister-assistent/render/page-33.png",
+          "sha256": "3450a2c308b4e2e0c74a83387092a51a326eca32c905a540caac54dd7adaf480"
+        },
+        {
+          "page": 34,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/handelsregister-assistent/render/page-34.png",
+          "sha256": "c16054060909e00dbbfe2ed8a45d362def1bdcb21a9d450ada5e36561486677b"
+        },
+        {
+          "page": 35,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/handelsregister-assistent/render/page-35.png",
+          "sha256": "2e86f2284c350aba0fc0ad51598db2fbf5a8db2c9d1de30d8cbeed2a838397de"
+        },
+        {
+          "page": 36,
+          "path": "/tmp/registerwerkstaetten-20261001/workshop-qa/handelsregister-assistent/render/page-36.png",
+          "sha256": "9a7e70c2fb09d673f61a7f906880549464ddab12f1d80e15c2cdf1d354658d9e"
+        }
+      ],
+      "excluded_stale_tail_pngs": [
+        "/tmp/registerwerkstaetten-20261001/workshop-qa/handelsregister-assistent/render/page-37.png"
+      ],
+      "all_pages_visually_reviewed": true,
+      "detail_pages_reviewed": [
+        35,
+        36
+      ],
+      "status": "passed"
+    },
+    {
+      "slug": "markenamt-assistent",
+      "page_count": 25,
+      "artifacts": {
+        "md": {
+          "path": "markenamt-assistent/markenamt-assistent-werkstatt.md",
+          "sha256": "83fcce41a2dc5697ee5596ac271d2d7d3f4976f011b0dde4de983dfbbbeeab83"
+        },
+        "docx": {
+          "path": "markenamt-assistent/assets/markenamt-assistent-werkstatt.docx",
+          "sha256": "72551c8875517d023f5bf51efc66f15fe11e50bcc2013dd28dba6991252fa63a"
+        },
+        "pdf": {
+          "path": "markenamt-assistent/assets/markenamt-assistent-werkstatt.pdf",
+          "sha256": "1d35979f5e22b51b57a01a96cbe76746a8e68907a1c6d2ab03fab2e3255f605b"
+        }
+      },
+      "review": "Root: sämtliche25Seiten in4aktuellenKontaktbögen nach materieller Gegenprüfung angesehen; keine Clip-/Überlagerungsbefunde."
+    }
+  ],
+  "limits": "Sichtprüfung von Layout und Lesbarkeit, keine erneute juristische Vollprüfung. Keine Quellen-, Prompt- oder Dokumentänderung durch diesen Prüfer. Keine abgeschnittenen Texte, überlagerten Absätze, schwarzen Kästchen oder unlesbaren Tabellen erkannt.",
+  "scratch_directory": "/tmp/registerwerkstaetten-20261001/workshop-contact-final"
+}

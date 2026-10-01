@@ -1,0 +1,108 @@
+{
+  "name": "grundbuchamt-rangtausch-am-kanal",
+  "plugin": "grundbuchamt-assistent",
+  "author": "Klotzkette",
+  "description": "Hallenfinanzierung mit Bankverschmelzung, nur teilweiser Abtretungskopie, widersprüchlichen Briefnummern, begrenztem Rangvorbehalt und Nachbargrundstück. Native Bestandsprüfung und manuelle Erwartungen.",
+  "checks": [
+    {
+      "id": "native-unterlagen",
+      "check_type": "working_file_count",
+      "min": 24,
+      "description": "Mindestens 24 native Aktenunterlagen einschließlich bearbeitbarer Dateien sind exportierbar."
+    },
+    {
+      "id": "gesamte-lesefassung",
+      "check_type": "file_exists",
+      "path": "gesamt-pdf/grundbuchamt-rangtausch-am-kanal_gesamt.pdf",
+      "description": "Die Gesamt-PDF-Lesefassung liegt neben den Originalunterlagen vor."
+    },
+    {
+      "id": "auftrag-kanalklang",
+      "check_type": "file_exists",
+      "path": "01_auftrag_kanalklang.docx",
+      "description": "Der Vollzugsauftrag liegt als bearbeitbares Mandatsdokument vor."
+    },
+    {
+      "id": "vertretungsnachweis",
+      "check_type": "file_exists",
+      "path": "02_gesellschaft_registerdaten.pdf",
+      "description": "Die gemeinsame Vertretungsregel der Geschäftsführer ist in der Akte belegt."
+    },
+    {
+      "id": "grundbuch-nennbetrag",
+      "check_type": "text_contains",
+      "path": "03_grundbuch_halle.pdf",
+      "contains": "180.000,00",
+      "description": "Die Briefgrundschuld mit eigenem Nennbetrag ist im Grundbuchauszug enthalten."
+    },
+    {
+      "id": "verschmelzungskette",
+      "check_type": "file_exists",
+      "path": "06_nordbogen_verschmelzung.pdf",
+      "description": "Die Zwischenstufe der Gläubigerkette ist gesondert dokumentiert."
+    },
+    {
+      "id": "abtretung-unvollstaendig",
+      "check_type": "text_contains",
+      "path": "07_abtretung_2023_auszug.pdf",
+      "contains": "Übergabeliste",
+      "description": "Die Abtretungskopie benennt die noch fehlende Übergabeliste."
+    },
+    {
+      "id": "rangvorbehalt-grenze",
+      "check_type": "text_contains",
+      "path": "13_rangvorbehalt_urkunde.pdf",
+      "contains": "400.000,00",
+      "description": "Die Bezugsurkunde enthält den Umfang des vorbehaltenen Vorrangs."
+    },
+    {
+      "id": "briefnummer-widerspruch",
+      "check_type": "text_contains",
+      "path": "16_brieflager_antwort.eml",
+      "contains": "02/918737",
+      "description": "Die abweichende Briefnummer bleibt im Original-E-Mail-Beleg erhalten."
+    },
+    {
+      "id": "darlehenstabelle",
+      "check_type": "file_exists",
+      "path": "05_darlehenssaldo_alt.xlsx",
+      "description": "Die Darlehensstände bleiben als bearbeitbare Tabelle getrennt von den Grundbuchnennbeträgen."
+    },
+    {
+      "id": "rangvarianten",
+      "check_type": "file_exists",
+      "path": "22_rangvarianten_arbeitsblatt.xlsx",
+      "description": "Finanzierungsvarianten und offene Erklärungen sind bearbeitbar enthalten."
+    },
+    {
+      "id": "glaeubiger-und-originalbrief",
+      "check_type": "human_review",
+      "description": "Prüft Verschmelzung 2022, Abtretung 2023, Vertretung und tatsächliche Briefübergabe als Kette. Gleichsetzt Servicer-Morgenrot nicht ohne Nachweis mit Gläubiger oder Vertreter. Klärt 02/918773 gegenüber 02/918737 am Original vor Verfügungs-/Freigabeempfehlung.",
+      "note": "Anhand der tatsächlich erstellten Antwort manuell bewerten; die Bestandsprüfung bestätigt keine Modellleistung."
+    },
+    {
+      "id": "rangvorbehalt-nicht-global",
+      "check_type": "human_review",
+      "description": "Ordnet den§ 881 BGB-Rangvorbehalt der 60.000 EUR-Fördergrundschuld inAbt. III Nr. 2 zu, prüft 400.000 EUR sowie 18 Prozent Zinsen/10 Prozent Nebenleistung und fehlende Vollzugsseiten. Der Vorbehalt ändert nicht automatisch den Rang der Fernwärmedienstbarkeit inAbt. II Nr. 1.",
+      "note": "Anhand der tatsächlich erstellten Antwort manuell bewerten; die Bestandsprüfung bestätigt keine Modellleistung."
+    },
+    {
+      "id": "finanzierung-ohne-loeschungsautomatismus",
+      "check_type": "human_review",
+      "description": "Stellt 180.000 EUR-Abtretung plus 130.000 EUR-Ergänzung einer Neugestaltung gegenüber; neues Finanzierungsziel 310.000 EUR, alte Salden und Grundschuldnennbeträge bleiben unterscheidbar. Keine Löschung oder Rangänderung ohne erforderliche Bewilligungen, Briefvorlage und Gläubigernachweise.",
+      "note": "Anhand der tatsächlich erstellten Antwort manuell bewerten; die Bestandsprüfung bestätigt keine Modellleistung."
+    },
+    {
+      "id": "einsicht-mit-eigener-rechtsposition",
+      "check_type": "human_review",
+      "description": "Trennt den erfolglosen Wunsch nach Eigentümerkontakten für erstmalige Kaufgespräche von der konkreten Wegerechts-/Schrankenfrage. Formuliert nur einen erforderlichen Einsichtsumfang nach§ 12 GBO mit belegbarer eigener Rechtsposition; keine erfundenen Kaufverhandlungen.",
+      "note": "Anhand der tatsächlich erstellten Antwort manuell bewerten; die Bestandsprüfung bestätigt keine Modellleistung."
+    },
+    {
+      "id": "gemeinsame-vertretung-und-endprodukt",
+      "check_type": "human_review",
+      "description": "Beachtet gemeinsame Geschäftsführung und konkrete Notar-/Formschritte. Liefert vollständige Anfragen an Servicer/Gläubiger, neue Bank und Förderbank sowie Rangübersicht; setzt nach neuem Brief- oder Abtretungsbeleg am offenen Punkt fort, ohne genehmigten Vollzug zu behaupten.",
+      "note": "Anhand der tatsächlich erstellten Antwort manuell bewerten; die Bestandsprüfung bestätigt keine Modellleistung."
+    }
+  ]
+}

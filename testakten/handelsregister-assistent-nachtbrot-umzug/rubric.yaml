@@ -1,0 +1,83 @@
+{
+  "name": "Nachtbrot – Sitzverlegung, Firmenkonflikt und öffentliche Registerunterlagen",
+  "plugin": "handelsregister-assistent",
+  "description": "Belegbezogene Bestandsprüfung; die fachliche Bewertung erzeugter Ergebnisse bleibt ausdrücklich gesondert und ungeprüft.",
+  "checks": [
+    {
+      "id": "r01-lesefassung",
+      "check_type": "file_exists",
+      "description": "Vollständige gemeinsame Lesefassung vorhanden.",
+      "path": "gesamt-pdf/handelsregister-assistent-nachtbrot-umzug_gesamt.pdf"
+    },
+    {
+      "id": "r02-originalbestand",
+      "check_type": "working_file_count",
+      "description": "Alle 24 nativen Originalunterlagen sind als Arbeitsmaterial vorhanden.",
+      "min": 24
+    },
+    {
+      "id": "fristplan",
+      "check_type": "file_exists",
+      "description": "Bearbeitbare Matrix getrennter gerichtlicher Fristen und Aufgaben.",
+      "path": "15_Fristen_und_Aufgaben.xlsx"
+    },
+    {
+      "id": "beschlussplanung",
+      "check_type": "file_exists",
+      "description": "Beteiligungs- und Beschlussplanung für die nächste Gesellschafterentscheidung.",
+      "path": "16_Beteiligung_Beschlussplanung.xlsx"
+    },
+    {
+      "id": "alte-satzung",
+      "check_type": "file_exists",
+      "description": "Vollständige frühere Satzung als Vergleich zur gekürzten Neufassung.",
+      "path": "08_Alte_Satzung_vollstaendige_Abschrift.pdf"
+    },
+    {
+      "id": "volltext-mangel",
+      "check_type": "text_contains",
+      "description": "Zwischenverfügung enthält den konkreten Volltext-/Bescheinigungsmangel.",
+      "path": "11_Potsdam_Zwischenverfuegung.docx",
+      "contains": "§ 54 Absatz 1 GmbHG"
+    },
+    {
+      "id": "firmenkonflikt",
+      "check_type": "text_contains",
+      "description": "Gesonderter Hinweis benennt die kollidierende Firma am Zielort.",
+      "path": "13_Potsdam_Firmenhinweis.docx",
+      "contains": "Nachtbrot Backwaren GmbH"
+    },
+    {
+      "id": "lagernutzung",
+      "check_type": "text_contains",
+      "description": "Lagervertrag enthält entscheidende Tatsachen zur fehlenden eigenständigen Geschäftstätigkeit.",
+      "path": "17_Leipzig_Lagervertrag.docx",
+      "contains": "Eine Vollmacht zum Abschluss von Kundengeschäften wird mit diesem Mietvertrag nicht erteilt."
+    },
+    {
+      "id": "datenaustausch-begrenzt",
+      "check_type": "text_contains",
+      "description": "Datenschutzbegehren unterscheidet öffentlichen Ersatz und Aufbewahrung der Ursprungsurkunde.",
+      "path": "19_Anneliese_Datenschutzerklaerung.docx",
+      "contains": "ursprüngliche Urkunde"
+    },
+    {
+      "id": "zwei-gerichtliche-vorgaenge",
+      "check_type": "human_review",
+      "description": "Ordnet die Bearbeitung den heilbaren Unterlagenmangel und den gesonderten Firmenhinweis mit unterschiedlichen Fristen richtig zu?",
+      "note": "Frist 07.10.2026 und Stellungnahme 09.10.2026 getrennt führen; unversandte Verlängerungsbitte und Telefonnotiz nicht als gewährte Verlängerung behandeln. BGH II ZB 15/22 nur in seiner verfahrensrechtlichen Reichweite verwenden."
+    },
+    {
+      "id": "umzug-und-lager",
+      "check_type": "human_review",
+      "description": "Unterscheidet das Antwortpaket Satzungssitz, tatsächliche Geschäftsanschrift, Firma und Lager/Zweigniederlassung?",
+      "note": "§ 13h HGB und § 54 GmbHG anhand Beschluss und Volltext prüfen. Aus dem vorgedruckten Lagerformular keine eigene Zweigniederlassung ableiten; alte Berliner IHK-Auskunft nicht für neue Kurzfirma in Potsdam übernehmen."
+    },
+    {
+      "id": "datenschutz-und-enddokument",
+      "check_type": "human_review",
+      "description": "Enthält das Ergebnis einen konkret bezeichneten Antrag zum öffentlichen Dokument und die erforderlichen nächsten Vollzugstexte?",
+      "note": "BGH II ZB 2/25 und § 9 Absatz 7 HRV auf private Straßenanschrift/Unterschriftsabbildung anwenden; erforderliche Registerdaten und nichtöffentliche Aufbewahrung bestehen gesondert. Kein technisch verändertes Dokument als weiterhin unverändert beglaubigt darstellen."
+    }
+  ]
+}

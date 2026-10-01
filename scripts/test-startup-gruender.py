@@ -23,6 +23,8 @@ class Startup(unittest.TestCase):
         # 7500 deutsche Zeichen dürfen nicht wegen UTF-8-Mehrbytes gekürzt werden.
         valid = ('ä' * 100 + 'a' * 7400).encode()
         self.assertTrue(mini_within_limits('startup-gruender', valid))
+        # Das Budget ist eine Obergrenze, kein Anlass für redaktionellen Fülltext.
+        self.assertTrue(mini_within_limits('startup-gruender', valid[:-167]))
         self.assertFalse(mini_within_limits('anderes-plugin', valid))
         self.assertFalse(mini_within_limits('startup-gruender', valid + b'a'))
         self.assertFalse(mini_within_limits('startup-gruender', b''))
@@ -39,7 +41,8 @@ class Startup(unittest.TestCase):
         self.assertEqual(len(skills),18)
         self.assertTrue((PLUGIN/'skills/gruendung-begleiten/SKILL.md').is_file())
         data=(PLUGIN/'startup-gruender-schnellstart.md').read_bytes()
-        self.assertEqual(len(data.decode()),7500)
+        # Die kuratierte Fassung muss das zentrale Byte- und Zeichenbudget
+        # einhalten; ihre genaue Länge darf sich bei Verbesserungen ändern.
         self.assertTrue(mini_within_limits('startup-gruender',data))
         self.assertEqual(validate_files(PLUGIN,'startup-gruender',ROOT),[])
 

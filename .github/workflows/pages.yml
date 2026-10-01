@@ -6,6 +6,8 @@ on:
     paths:
       - '**/*.md'
       - '**/*-werkstatt.txt'
+      - '**/*-schnellstart.txt'
+      - '**/*-hauptproblem.txt'
       - 'uebersicht-fachanwaltschaften/**'
       - '.github/workflows/pages.yml'
   workflow_dispatch:
@@ -39,7 +41,7 @@ jobs:
             target="_site/downloads/${file#./}"
             mkdir -p "$(dirname "$target")"
             cp "$file" "$target"
-          done < <(find . -type f \( -name '*.md' -o -name '*-werkstatt.txt' \) -not -path './.git/*' -not -path './_site/*' -print0)
+          done < <(find . -type f \( -name '*.md' -o -name '*-werkstatt.txt' -o -name '*-schnellstart.txt' -o -name '*-hauptproblem.txt' \) -not -path './.git/*' -not -path './_site/*' -print0)
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v5
         with:
