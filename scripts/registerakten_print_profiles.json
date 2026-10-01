@@ -1,0 +1,303 @@
+{
+  "schema_version": 1,
+  "profiles": {
+    "transparenzregister-spree-aurora/07_beteiligung_und_stimmen.xlsx": {
+      "Kapital": [
+        22,
+        18,
+        14,
+        25
+      ],
+      "Bearbeitungsnotizen": [
+        15,
+        15,
+        29,
+        20
+      ]
+    },
+    "transparenzregister-spree-aurora/12_zahlungsuebersicht.xlsx": {
+      "Zahlungen": [
+        15,
+        29,
+        18,
+        18,
+        22
+      ],
+      "Privater Ursprung": [
+        23,
+        15,
+        17,
+        24
+      ]
+    },
+    "transparenzregister-kranichhof/05_kommanditisten.xlsx": {
+      "KG": [
+        24,
+        20,
+        20,
+        16,
+        20
+      ],
+      "Komplementaerin": [
+        27,
+        23,
+        20
+      ]
+    },
+    "transparenzregister-kranichhof/20_zeitachse_aktuell.xlsx": {
+      "Zeiten": [
+        21,
+        16,
+        16,
+        27,
+        26
+      ],
+      "Nachhalten": [
+        27,
+        18,
+        14,
+        20
+      ]
+    },
+    "transparenzregister-stifterglueck/07_struktur.xlsx": {
+      "Werkstatt": [
+        25,
+        18,
+        14,
+        22
+      ],
+      "Funktionen": [
+        21,
+        22,
+        14,
+        22
+      ]
+    },
+    "transparenzregister-stifterglueck/12_leistungsjournal.xlsx": {
+      "Leistungen": [
+        15,
+        23,
+        27,
+        18,
+        23
+      ],
+      "GmbH getrennt": [
+        15,
+        24,
+        27,
+        18,
+        22
+      ]
+    },
+    "handelsregister-assistent-kiezkolben-colombo/03_Anteile_alt_neu.xlsx": {
+      "Liste_2024": [
+        10,
+        28,
+        23,
+        18
+      ],
+      "Plan_nach_Kauf": [
+        10,
+        30,
+        21,
+        17,
+        30
+      ],
+      "Kaufpreis": [
+        38,
+        24
+      ]
+    },
+    "handelsregister-assistent-kiezkolben-colombo/20_Dokumente_Colombo_Stand.xlsx": {
+      "Dokumente": [
+        25,
+        15,
+        15,
+        25,
+        28
+      ],
+      "Kosten": [
+        28,
+        17,
+        16,
+        18
+      ]
+    },
+    "handelsregister-assistent-polter-prokura/03_Gesellschafter_und_Stimmen.xlsx": {
+      "Beteiligung": [
+        25,
+        11,
+        23,
+        22,
+        21
+      ],
+      "Beschluss_12September": [
+        29,
+        14,
+        14,
+        22
+      ]
+    },
+    "handelsregister-assistent-polter-prokura/15_Zeichnungsplan_verschiedene_Staende.xlsx": {
+      "Recht_und_System": [
+        20,
+        20,
+        19,
+        16,
+        14,
+        23
+      ],
+      "Zahlungsjournal": [
+        14,
+        24,
+        16,
+        16,
+        17,
+        23
+      ]
+    },
+    "handelsregister-assistent-nachtbrot-umzug/15_Fristen_und_Aufgaben.xlsx": {
+      "Fristen": [
+        22,
+        13,
+        14,
+        24,
+        21,
+        18
+      ],
+      "Kosten": [
+        28,
+        17,
+        16,
+        18
+      ]
+    },
+    "handelsregister-assistent-nachtbrot-umzug/16_Beteiligung_Beschlussplanung.xlsx": {
+      "Kapital": [
+        25,
+        11,
+        22,
+        19,
+        29
+      ],
+      "Varianten": [
+        26,
+        20,
+        14,
+        19
+      ]
+    },
+    "grundbuchamt-kopiererbrief/24_kosten_und_briefwege.xlsx": {
+      "Auslagen": [
+        15,
+        29,
+        17,
+        18
+      ],
+      "Briefe": [
+        14,
+        14,
+        28,
+        23
+      ]
+    },
+    "grundbuchamt-erben-im-hinterhaus/19_verwaltung_hauskonto.xlsx": {
+      "Liquiditaet": [
+        30,
+        20,
+        25
+      ],
+      "Nachweise": [
+        14,
+        18,
+        26,
+        21
+      ]
+    },
+    "grundbuchamt-rangtausch-am-kanal/05_darlehenssaldo_alt.xlsx": {
+      "Darlehen": [
+        20,
+        21,
+        25,
+        15,
+        27
+      ],
+      "Rechte": [
+        26,
+        19,
+        14,
+        24,
+        27
+      ]
+    },
+    "grundbuchamt-rangtausch-am-kanal/22_rangvarianten_arbeitsblatt.xlsx": {
+      "Varianten": [
+        25,
+        21,
+        22,
+        20,
+        24
+      ],
+      "Erklaerungen": [
+        19,
+        26,
+        20,
+        14
+      ]
+    },
+    "markenamt-rumpelrad/12_Gebuehrenplanung.xlsx": {
+      "Anmeldung": [
+        28,
+        14,
+        24,
+        20,
+        20
+      ]
+    },
+    "markenamt-rumpelrad/13_Warenplan.xlsx": {
+      "Tätigkeiten": [
+        28,
+        20,
+        16,
+        20,
+        26
+      ]
+    },
+    "markenamt-kichererbse/13_Benutzungsablage.xlsx": {
+      "Belege": [
+        20,
+        14,
+        15,
+        21,
+        17,
+        25
+      ]
+    },
+    "markenamt-kichererbse/14_Fristenablage.xlsx": {
+      "Daten": [
+        23,
+        14,
+        21,
+        21
+      ]
+    },
+    "markenamt-farbwerk/09_Befragungszahlen.xlsx": {
+      "Zuordnung": [
+        27,
+        17,
+        24,
+        16,
+        27
+      ]
+    },
+    "markenamt-farbwerk/13_Bestandsliste.xlsx": {
+      "Bestand": [
+        23,
+        27,
+        15,
+        20,
+        27
+      ]
+    }
+  }
+}

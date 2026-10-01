@@ -20,6 +20,7 @@ from pathlib import Path
 
 from pypdf import PdfReader, PdfWriter
 from office_process import run_office
+from registerakten_print_profile import print_overrides
 
 
 OFFICE_EXTS = {"docx", "odt", "xlsx"}
@@ -56,8 +57,11 @@ def prepare_source(source: Path, target: Path) -> None:
         return
     ns = f"{{{SHEET_NS}}}"
     with zipfile.ZipFile(source) as original, zipfile.ZipFile(target, "w", zipfile.ZIP_DEFLATED) as staged:
+        overrides = print_overrides(source, original)
         for info in original.infolist():
-            data = original.read(info)
+            data = overrides.get(info.filename)
+            if data is None:
+                data = original.read(info)
             if info.filename.startswith("xl/worksheets/") and info.filename.endswith(".xml"):
                 sheet = ET.fromstring(data)
                 properties = sheet.find(f"{ns}sheetPr")

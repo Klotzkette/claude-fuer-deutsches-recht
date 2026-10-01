@@ -1,0 +1,728 @@
+{
+  "schema_version": 1,
+  "checked_at_utc": "2026-10-01T11:18:28.040435+00:00",
+  "scope": "Drucklayout der 22 XLSX in zwölf Registerakten; keine Rechtsquellen- oder versionsweite Inhaltsänderung",
+  "source_tag": "v445.24.0",
+  "source_commit": "e13651fcc72f887f97f16684d399496a739e7dfd",
+  "public_download_equality_proven": false,
+  "release_version_changed": false,
+  "source_original_files_verified_unchanged": 280,
+  "print_copy_invariants": {
+    "result": "pass",
+    "totals": {
+      "workbooks": 22,
+      "sheets": 39,
+      "cells": 909,
+      "formulas": 87
+    },
+    "code_sha256": {
+      "scripts/registerakten_print_profile.py": "6595bc2f110504fc2e784c97eee6315c1d8d375a583b283e706c23cd7e4380a5",
+      "scripts/registerakten_print_profiles.json": "cfeae57f976c3c748f19220d2c18e62fc91e123f031cc286da8cd800c5b5ed86",
+      "scripts/testakte_office_pdf.py": "7a8abdb2efe84594c45d9e2f52fdae139b7b6efa60840d5dc943024122d3508a",
+      "scripts/test-registerakten-print-profile.py": "e01f6dab28ab5f8ff88ee817b56f4c7b1012660dcfcf49bbdb2fccf126626565"
+    },
+    "method": "Vollständige OOXML-Zellbäume mit Datentypen, Formeln, Cache-Inhalten; nur Zeilenhöhen und Stilindex als Drucklayout ausgenommen. Nicht betroffene ZIP-Bestandteile bytegleich; Quelldatei-Hashes unverändert."
+  },
+  "validation": {
+    "structural_unit_tests": 7,
+    "structural_unit_tests_result": "passed",
+    "existing_native_pdf_regression": "scripts/test-testakte-pdf-build.py passed",
+    "normal_exports": 22,
+    "normal_export_pages": 39,
+    "normal_minimum_effective_font_pt": 10.01,
+    "stress_exports": 22,
+    "stress_export_pages": 39,
+    "stress_column_width_factor": 1.25,
+    "stress_minimum_effective_font_pt": 9.81,
+    "native_engine": "LibreOfficeDev macOS, eingebettete Liberation Sans; Linux-CI erhält denselben nativen Test",
+    "minimum_ci_font_pt": 8,
+    "visual_reports": {
+      "readable-layout-handelsregister.json": {
+        "sha256": "f8d6af63e927ff2d87223efc36c2ced0ec167b9c4f200d69e5503599edc9e87b",
+        "status": "VISUAL_REVIEW_PASSED",
+        "scope": {
+          "cases": 3,
+          "zip_hashes": 6,
+          "pdf_hashes": 9,
+          "combined_pages": 122,
+          "contact_sheets": 15,
+          "xlsx_export_pages": 13,
+          "original_xlsx": 6,
+          "worksheets": 13,
+          "nonempty_cells_visually_assigned": 350
+        },
+        "totals": null,
+        "review_required": false,
+        "findings": []
+      },
+      "readable-layout-grund-marken.json": {
+        "sha256": "dd55c8f7d97848a01a11c23b8f08cab4926cfd87c4b665b32fd372b47cb7d55c",
+        "status": "visual_review_complete_public_byte_match_pending",
+        "scope": "new_native_Mac_build_with_corrected_print_profile",
+        "totals": {
+          "cases": 6,
+          "release_zips": 12,
+          "overall_pdfs": 6,
+          "overall_pages_contact_reviewed": 230,
+          "contact_sheets_reviewed": 21,
+          "xlsx_pdfs_full_page_reviewed": 10,
+          "xlsx_pages_full_page_reviewed": 14,
+          "sha256_verified_files": 28
+        },
+        "review_required": null,
+        "findings": []
+      },
+      "readable-layout-transparenz.json": {
+        "sha256": "5a11e96fbeb76b71c7f287da89451dc5d0aca45c6d28d6b31ddb8c04c69d786f",
+        "status": "passed_visual_and_specific_content_review_for_three_transparenz_cases",
+        "scope": {
+          "combined_pdfs": 3,
+          "combined_pages": 122,
+          "contact_sheets_visually_reviewed": 15,
+          "xlsx_individual_pdfs": 6,
+          "xlsx_pdf_pages_visually_reviewed": 12,
+          "screenshot_pages_visually_reviewed_at_large_size": 3,
+          "combined_table_pages_pixel_equal_to_reviewed_individuals": 12
+        },
+        "totals": null,
+        "review_required": null,
+        "findings": []
+      }
+    },
+    "cell_resolution_grund_marken": {
+      "report_sha256": "c9283235c15ae1e0f719871bfa23a8963c3c63709ee76bf08fb4da5b39bdd1af",
+      "result": "pass",
+      "totals": {
+        "worksheets": 14,
+        "cells": 314,
+        "nonempty_cells": 308,
+        "errors": 0
+      },
+      "method": "All cells individually mapped by row and column bounding boxes from the actual PDF header rectangle and the verified native print geometry; text read in visual order within each cell. Expected rendered values from native XLSX including cached formula results and number formats. No character-frequency shortcut."
+    },
+    "visual_total_combined_pages": 474,
+    "visual_total_xlsx_pages": 39,
+    "visual_findings_open": 0
+  },
+  "workbooks": [
+    {
+      "source": "testakten/transparenzregister-spree-aurora/07_beteiligung_und_stimmen.xlsx",
+      "source_sha256": "ea7873c3368602ca5d28ab66b9b460d9a303980a60aee2fa59723c68fb8a1e9b",
+      "variants": [
+        {
+          "variant": "normal",
+          "pdf_sha256": "58b3266bd54b15a17a6ab72e6fb2a572bef5cc59493a3bcfa48c975ed6c0b723",
+          "pages": 2,
+          "minimum_effective_font_pt": 10.01
+        },
+        {
+          "variant": "columns_125_percent",
+          "pdf_sha256": "530532f80a13c70e4411a6877d1b8e3864c79147b636a84e3819e20799880d66",
+          "pages": 2,
+          "minimum_effective_font_pt": 9.81
+        }
+      ]
+    },
+    {
+      "source": "testakten/transparenzregister-spree-aurora/12_zahlungsuebersicht.xlsx",
+      "source_sha256": "8581348717b9c8ff1630cea9e7055cc99e70a32deceaeaee25000654ac07d8dc",
+      "variants": [
+        {
+          "variant": "normal",
+          "pdf_sha256": "a972818ee1e8c3a98f6f2de28a632ca1c724fccf72ed11d908e323efa0d53958",
+          "pages": 2,
+          "minimum_effective_font_pt": 10.01
+        },
+        {
+          "variant": "columns_125_percent",
+          "pdf_sha256": "eceab5c9995b1270192ee28728375754cc2aa94f24b788a0f1b5b09997792558",
+          "pages": 2,
+          "minimum_effective_font_pt": 9.81
+        }
+      ]
+    },
+    {
+      "source": "testakten/transparenzregister-kranichhof/05_kommanditisten.xlsx",
+      "source_sha256": "7be8aacc257b43a4a78fd03ed7c760f74d63f2d4dad4bc5f6a26327b34c39404",
+      "variants": [
+        {
+          "variant": "normal",
+          "pdf_sha256": "a3cfaab478a487d9ecf0fc13758fb0474ba1f597b41430e07749ccec9ea1f19e",
+          "pages": 2,
+          "minimum_effective_font_pt": 10.01
+        },
+        {
+          "variant": "columns_125_percent",
+          "pdf_sha256": "489c316898add5e26d3870d35f22f2393ad9166fa32df82f6c119a1e9ebd5c51",
+          "pages": 2,
+          "minimum_effective_font_pt": 10.01
+        }
+      ]
+    },
+    {
+      "source": "testakten/transparenzregister-kranichhof/20_zeitachse_aktuell.xlsx",
+      "source_sha256": "0a900de8806f7709c38d9676610571d6216c8d043a80407ad754e5f48e9ac460",
+      "variants": [
+        {
+          "variant": "normal",
+          "pdf_sha256": "e841f9ec55ca00e5c59220e37fb98fc91ee8612d699e5085b7c508101cc8784e",
+          "pages": 2,
+          "minimum_effective_font_pt": 10.01
+        },
+        {
+          "variant": "columns_125_percent",
+          "pdf_sha256": "555f92f065bfea559e25620716919d44bef88125bcd4d4915440e6afa349e029",
+          "pages": 2,
+          "minimum_effective_font_pt": 9.81
+        }
+      ]
+    },
+    {
+      "source": "testakten/transparenzregister-stifterglueck/07_struktur.xlsx",
+      "source_sha256": "d626edbe904f65e43c450756676288489da7381809f516f50451ad6415ae35dc",
+      "variants": [
+        {
+          "variant": "normal",
+          "pdf_sha256": "4621083088a9953d1f59fe123f0c4a9a68731d879ea175b98f24ad34215ee46c",
+          "pages": 2,
+          "minimum_effective_font_pt": 10.01
+        },
+        {
+          "variant": "columns_125_percent",
+          "pdf_sha256": "1724a51515fff86235d30e0b4b7249275bd5221d0c9de17aa39f5401ebdaa457",
+          "pages": 2,
+          "minimum_effective_font_pt": 9.81
+        }
+      ]
+    },
+    {
+      "source": "testakten/transparenzregister-stifterglueck/12_leistungsjournal.xlsx",
+      "source_sha256": "492b05b78356ade52e92cd464c80588413952160a92679cd4e40a1f6a23bc4a2",
+      "variants": [
+        {
+          "variant": "normal",
+          "pdf_sha256": "819db75f71e99517c3de5ffa47c566dc29ae1806e69a492ee3a4cf246ff7d14c",
+          "pages": 2,
+          "minimum_effective_font_pt": 10.01
+        },
+        {
+          "variant": "columns_125_percent",
+          "pdf_sha256": "a32321fd45e737e07e9c787955477c28c99fbba6ac5426c3e36061da0964ae08",
+          "pages": 2,
+          "minimum_effective_font_pt": 10.01
+        }
+      ]
+    },
+    {
+      "source": "testakten/handelsregister-assistent-kiezkolben-colombo/03_Anteile_alt_neu.xlsx",
+      "source_sha256": "bf50705bad92d86e6be83ccab6114ccfd5e834c6653367cbe4db878ac0b1a86c",
+      "variants": [
+        {
+          "variant": "normal",
+          "pdf_sha256": "a5459124c3b97b5b0ebde3f798e7a2cebee562da9ca1a77e0d1a36cfc4b83686",
+          "pages": 3,
+          "minimum_effective_font_pt": 10.01
+        },
+        {
+          "variant": "columns_125_percent",
+          "pdf_sha256": "525392d1b5cb6be91ee3d8600cd0f6bc7b611eb04c7121209b27fe1c33321bd0",
+          "pages": 3,
+          "minimum_effective_font_pt": 9.81
+        }
+      ]
+    },
+    {
+      "source": "testakten/handelsregister-assistent-kiezkolben-colombo/20_Dokumente_Colombo_Stand.xlsx",
+      "source_sha256": "e40c1f9bd258450d99793eedcb32d307f6ab09d6b17500e3fdff58bc69239be0",
+      "variants": [
+        {
+          "variant": "normal",
+          "pdf_sha256": "04f3dba3df2f5cb75d118317c34c03ad2b5713755bfce0093a2bd0a188b86884",
+          "pages": 2,
+          "minimum_effective_font_pt": 10.01
+        },
+        {
+          "variant": "columns_125_percent",
+          "pdf_sha256": "c9630ddca066f415b497dfda60eb92c4a25bd918516d747d002099061ac8f4cc",
+          "pages": 2,
+          "minimum_effective_font_pt": 9.81
+        }
+      ]
+    },
+    {
+      "source": "testakten/handelsregister-assistent-polter-prokura/03_Gesellschafter_und_Stimmen.xlsx",
+      "source_sha256": "2956f3a0869793321d50ca3673cb60c9e01a19c7e126ccb7b46b0d8a77f9d62f",
+      "variants": [
+        {
+          "variant": "normal",
+          "pdf_sha256": "d89d7a72b3ddac3c9451e04958306e7ec1b2e8dda30a37a1c3b11863c25ab7a3",
+          "pages": 2,
+          "minimum_effective_font_pt": 10.01
+        },
+        {
+          "variant": "columns_125_percent",
+          "pdf_sha256": "2cf5225fdad43272a769f1e68ebc11de23b89e56b0bc4ff8dfe91db775328d63",
+          "pages": 2,
+          "minimum_effective_font_pt": 9.81
+        }
+      ]
+    },
+    {
+      "source": "testakten/handelsregister-assistent-polter-prokura/15_Zeichnungsplan_verschiedene_Staende.xlsx",
+      "source_sha256": "b91877ae17468dc333ec804c0261c3ff94171a179e26547e8bd2c1634d74b0e1",
+      "variants": [
+        {
+          "variant": "normal",
+          "pdf_sha256": "7cbbdf80158cd4c877d1fd8e8c928888a5057c269cecd1dc8f3a0feb4a0a28ba",
+          "pages": 2,
+          "minimum_effective_font_pt": 10.01
+        },
+        {
+          "variant": "columns_125_percent",
+          "pdf_sha256": "7086e6c3c8ec77a0f8d37935377e84b9fa9e80a4d94bea68e03a467de510ff49",
+          "pages": 2,
+          "minimum_effective_font_pt": 10.01
+        }
+      ]
+    },
+    {
+      "source": "testakten/handelsregister-assistent-nachtbrot-umzug/15_Fristen_und_Aufgaben.xlsx",
+      "source_sha256": "d4aff859a1aac7c58775de7f31c7fdf0be8298b04a5f138d736526356b180783",
+      "variants": [
+        {
+          "variant": "normal",
+          "pdf_sha256": "7ec4529c3a3d3c5b4deb9498e0cfa49bcd1fc955fb3aa86881328801ad8ce718",
+          "pages": 2,
+          "minimum_effective_font_pt": 10.01
+        },
+        {
+          "variant": "columns_125_percent",
+          "pdf_sha256": "b07fd57b0708a739b5bfe650f83b7e3bf8ef53fbd9d30334b5465162ef49c19b",
+          "pages": 2,
+          "minimum_effective_font_pt": 9.81
+        }
+      ]
+    },
+    {
+      "source": "testakten/handelsregister-assistent-nachtbrot-umzug/16_Beteiligung_Beschlussplanung.xlsx",
+      "source_sha256": "5a64fd312604d7ad9990e0524c5e2451966613c2daf544ea580b64d7c7e860f3",
+      "variants": [
+        {
+          "variant": "normal",
+          "pdf_sha256": "056bd9c92373c1dbf31191d979da7b63a79028bd8827b64d56513077a3229a81",
+          "pages": 2,
+          "minimum_effective_font_pt": 10.01
+        },
+        {
+          "variant": "columns_125_percent",
+          "pdf_sha256": "0bb20ff336999c789e018b3ae1f9f4a994162206f4528aaa66ea22ab2f3b33e6",
+          "pages": 2,
+          "minimum_effective_font_pt": 9.81
+        }
+      ]
+    },
+    {
+      "source": "testakten/grundbuchamt-kopiererbrief/24_kosten_und_briefwege.xlsx",
+      "source_sha256": "56d46546e80fb1f155068be585a2b15afd67dab6307bafdef6b62a472bd0ecd6",
+      "variants": [
+        {
+          "variant": "normal",
+          "pdf_sha256": "1b3c2f1a644447b4e10fc0db7dd524e682ba0bf7e860a6a0c7e87e5fdf343eba",
+          "pages": 2,
+          "minimum_effective_font_pt": 10.01
+        },
+        {
+          "variant": "columns_125_percent",
+          "pdf_sha256": "1ce3319d51cd8e62f099393a757cc45dd463c38770c0ddbebbe7cd395ee43ee1",
+          "pages": 2,
+          "minimum_effective_font_pt": 9.81
+        }
+      ]
+    },
+    {
+      "source": "testakten/grundbuchamt-erben-im-hinterhaus/19_verwaltung_hauskonto.xlsx",
+      "source_sha256": "03ccf895c1e67a6ecb77029184ba281436c544d0e5f4b10368209839305b5a27",
+      "variants": [
+        {
+          "variant": "normal",
+          "pdf_sha256": "cf5589b380694a03bc74715a3916707a1a825c6172701f8e600dc84b8df78637",
+          "pages": 2,
+          "minimum_effective_font_pt": 10.01
+        },
+        {
+          "variant": "columns_125_percent",
+          "pdf_sha256": "3ff80c130f3b7d0579ad835abee421395ae3316b8d96b255f3c255545f304019",
+          "pages": 2,
+          "minimum_effective_font_pt": 9.81
+        }
+      ]
+    },
+    {
+      "source": "testakten/grundbuchamt-rangtausch-am-kanal/05_darlehenssaldo_alt.xlsx",
+      "source_sha256": "548eecfb0423f68d625fda34013cfbcacadaef84f050f5ae01eb1c44e4466251",
+      "variants": [
+        {
+          "variant": "normal",
+          "pdf_sha256": "e0359f9158f32edb7aea8f8f78ac9eadf3c243c69f03e76430588964c9d7a10c",
+          "pages": 2,
+          "minimum_effective_font_pt": 10.01
+        },
+        {
+          "variant": "columns_125_percent",
+          "pdf_sha256": "0d28580ef45843a7105d491c38640282cc2a7a0be2ec835fc39c003d987a88f7",
+          "pages": 2,
+          "minimum_effective_font_pt": 10.01
+        }
+      ]
+    },
+    {
+      "source": "testakten/grundbuchamt-rangtausch-am-kanal/22_rangvarianten_arbeitsblatt.xlsx",
+      "source_sha256": "4054723123017297efa3ab61314fc469d05ca97ee24b974a46719c9708b0cb9b",
+      "variants": [
+        {
+          "variant": "normal",
+          "pdf_sha256": "bda6bd8ce4e03033fe402af0ca7e213e0fa27c072bba227fd836adf79efba38a",
+          "pages": 2,
+          "minimum_effective_font_pt": 10.01
+        },
+        {
+          "variant": "columns_125_percent",
+          "pdf_sha256": "477103e238840d35a2b0d979cd9844032f5058e6001b23b712aff2b48b54d1bf",
+          "pages": 2,
+          "minimum_effective_font_pt": 9.81
+        }
+      ]
+    },
+    {
+      "source": "testakten/markenamt-rumpelrad/12_Gebuehrenplanung.xlsx",
+      "source_sha256": "e13ce3233792a7cfcd7e7599c84384736822aafa3231ccfee2b6f2e933456f5b",
+      "variants": [
+        {
+          "variant": "normal",
+          "pdf_sha256": "6be44b0d44e5afb3d0bfc3a80860842a29c01b01db38eb6505348d2bff4cf052",
+          "pages": 1,
+          "minimum_effective_font_pt": 10.01
+        },
+        {
+          "variant": "columns_125_percent",
+          "pdf_sha256": "200ec4a317832bffc6dca67a5f73cfe8a39e0ec37e99e1d4054b2886a8edf45c",
+          "pages": 1,
+          "minimum_effective_font_pt": 10.01
+        }
+      ]
+    },
+    {
+      "source": "testakten/markenamt-rumpelrad/13_Warenplan.xlsx",
+      "source_sha256": "a745b21c8ccc8b84f4253f21a8c2366d509845f5b198034c2b4671c062429c33",
+      "variants": [
+        {
+          "variant": "normal",
+          "pdf_sha256": "183c9f243688ff27f4a17893a340facfa5f9c13c93149372f02915b3ae96f519",
+          "pages": 1,
+          "minimum_effective_font_pt": 10.01
+        },
+        {
+          "variant": "columns_125_percent",
+          "pdf_sha256": "1ca63795d68c0cc60a4e69b448bbd1a6692ae1301ddca7a6ea70ffeef9d9804a",
+          "pages": 1,
+          "minimum_effective_font_pt": 10.01
+        }
+      ]
+    },
+    {
+      "source": "testakten/markenamt-kichererbse/13_Benutzungsablage.xlsx",
+      "source_sha256": "f04db43aab7d7ba428d1f9a5d2db0dfe6088b580633097b7ad33c9b655a19ca2",
+      "variants": [
+        {
+          "variant": "normal",
+          "pdf_sha256": "1c6d3c15169a904b8bfb4fb833498ba7443b0460e3db570961076e00ad3e338a",
+          "pages": 1,
+          "minimum_effective_font_pt": 10.01
+        },
+        {
+          "variant": "columns_125_percent",
+          "pdf_sha256": "49ac26fa6b0f986125d8d605fff113a5daabbfccd7ae66f1cc1dabfdb501413e",
+          "pages": 1,
+          "minimum_effective_font_pt": 10.01
+        }
+      ]
+    },
+    {
+      "source": "testakten/markenamt-kichererbse/14_Fristenablage.xlsx",
+      "source_sha256": "db1a2887092c4d2b7988d372a274281b7cedf508c07268689c90f51c0c9b33da",
+      "variants": [
+        {
+          "variant": "normal",
+          "pdf_sha256": "2c25c1a63533bcca93ade13d97053f8bc9489b9cec97757fd17168d63dae6823",
+          "pages": 1,
+          "minimum_effective_font_pt": 10.01
+        },
+        {
+          "variant": "columns_125_percent",
+          "pdf_sha256": "1603b5a3e8905dc61574b13d550c5a43320a0e15be532bb93be5e24c51397038",
+          "pages": 1,
+          "minimum_effective_font_pt": 9.81
+        }
+      ]
+    },
+    {
+      "source": "testakten/markenamt-farbwerk/09_Befragungszahlen.xlsx",
+      "source_sha256": "285a96cfac6dfaf10c98e0870dfce6af48263a093b4dc52f4d054d73e75b8980",
+      "variants": [
+        {
+          "variant": "normal",
+          "pdf_sha256": "206397695c2405e3c468fe852445941a2a6c17ee6c712aa8571f04b17c8e9072",
+          "pages": 1,
+          "minimum_effective_font_pt": 10.01
+        },
+        {
+          "variant": "columns_125_percent",
+          "pdf_sha256": "8f0c559b38025fd868147f18339d945d129e4da7241c936b825d34f97ac4f101",
+          "pages": 1,
+          "minimum_effective_font_pt": 10.01
+        }
+      ]
+    },
+    {
+      "source": "testakten/markenamt-farbwerk/13_Bestandsliste.xlsx",
+      "source_sha256": "2f8d557b3f0df0b5443a9047682e8653559401d95faf69cf10173c863288da7a",
+      "variants": [
+        {
+          "variant": "normal",
+          "pdf_sha256": "f206ce54ade43f4a3efb25ef365b9c1914686b994ebff69637ea72d726a84f52",
+          "pages": 1,
+          "minimum_effective_font_pt": 10.01
+        },
+        {
+          "variant": "columns_125_percent",
+          "pdf_sha256": "b98d50845ad3a4c6ca710b235174db483be250dfe7e959e4f4f3af79141e9b3d",
+          "pages": 1,
+          "minimum_effective_font_pt": 10.01
+        }
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "case": "transparenzregister-spree-aurora",
+      "combined_pdf": "testakten/transparenzregister-spree-aurora/gesamt-pdf/transparenzregister-spree-aurora_gesamt.pdf",
+      "combined_pdf_sha256": "438af8488020e6f87d1de7cad22c94e9e804a082e18dfeb365b66963284965d0",
+      "combined_pdf_pages": 39,
+      "archives": [
+        {
+          "name": "testakte-transparenzregister-spree-aurora.zip",
+          "bytes": 1224076,
+          "sha256": "eed04b2d3ce0d718dd745199229aa0cefc072253df3261bfe3458e9ddb61b0f7"
+        },
+        {
+          "name": "testakte-transparenzregister-spree-aurora-einzelpdfs.zip",
+          "bytes": 594423,
+          "sha256": "7c2b9ebfa45b67eeea230e3a8f5e4538ac5cfdfa7035939ef3b114e1728b5660"
+        }
+      ]
+    },
+    {
+      "case": "transparenzregister-kranichhof",
+      "combined_pdf": "testakten/transparenzregister-kranichhof/gesamt-pdf/transparenzregister-kranichhof_gesamt.pdf",
+      "combined_pdf_sha256": "d42b5711fb46dba3ba2862874905e2d1d6fa66688a50d87efa6e36d10dfce455",
+      "combined_pdf_pages": 41,
+      "archives": [
+        {
+          "name": "testakte-transparenzregister-kranichhof.zip",
+          "bytes": 1211746,
+          "sha256": "9eb7a3eb0073bc5f74815c578d8c655d2c2a801a3c353cde15d82a00986000b6"
+        },
+        {
+          "name": "testakte-transparenzregister-kranichhof-einzelpdfs.zip",
+          "bytes": 565659,
+          "sha256": "0136454261922312d8494846823112af841f36d16f6ae14d1a812e8d3c3508f4"
+        }
+      ]
+    },
+    {
+      "case": "transparenzregister-stifterglueck",
+      "combined_pdf": "testakten/transparenzregister-stifterglueck/gesamt-pdf/transparenzregister-stifterglueck_gesamt.pdf",
+      "combined_pdf_sha256": "e188fac525ae4abcb655b479b3a64ea14ac7926c86485dae167692acbc8ed9f1",
+      "combined_pdf_pages": 42,
+      "archives": [
+        {
+          "name": "testakte-transparenzregister-stifterglueck.zip",
+          "bytes": 1375060,
+          "sha256": "93227c862175c6040def6598702d5452ed79afbbad84cdd708ef711b3bf2729b"
+        },
+        {
+          "name": "testakte-transparenzregister-stifterglueck-einzelpdfs.zip",
+          "bytes": 637714,
+          "sha256": "b1260ecd2fd99d31b8166f09e7e4a2948b0b192017b1dc78f5e9957ffd97ca08"
+        }
+      ]
+    },
+    {
+      "case": "handelsregister-assistent-kiezkolben-colombo",
+      "combined_pdf": "testakten/handelsregister-assistent-kiezkolben-colombo/gesamt-pdf/handelsregister-assistent-kiezkolben-colombo_gesamt.pdf",
+      "combined_pdf_sha256": "db2238f05e063c5c9f5f9b7135c00eb66c67ff466facf3d6b90bbc5e9f8c5a08",
+      "combined_pdf_pages": 42,
+      "archives": [
+        {
+          "name": "testakte-handelsregister-assistent-kiezkolben-colombo.zip",
+          "bytes": 1354187,
+          "sha256": "e526616bab01693eadd46e95dcd8cab0b225b3089047f0496d992025c3e690b8"
+        },
+        {
+          "name": "testakte-handelsregister-assistent-kiezkolben-colombo-einzelpdfs.zip",
+          "bytes": 644533,
+          "sha256": "e42e9cc6e3309fba75197209354625d867ae8404c6ac62c105f773ae592d4150"
+        }
+      ]
+    },
+    {
+      "case": "handelsregister-assistent-polter-prokura",
+      "combined_pdf": "testakten/handelsregister-assistent-polter-prokura/gesamt-pdf/handelsregister-assistent-polter-prokura_gesamt.pdf",
+      "combined_pdf_sha256": "2c728f42bcbfd05b9011102212b696e77f5a16df390f42dac8f36a9d7789dc04",
+      "combined_pdf_pages": 40,
+      "archives": [
+        {
+          "name": "testakte-handelsregister-assistent-polter-prokura.zip",
+          "bytes": 1194105,
+          "sha256": "4cc29e8e574245e9890aafd6e7d32fa246a981a03a4075d4fe3498bf91ed4273"
+        },
+        {
+          "name": "testakte-handelsregister-assistent-polter-prokura-einzelpdfs.zip",
+          "bytes": 626420,
+          "sha256": "46ebaa6bc4ba7e46fcbbf34be11c41ffd9a66c6407cb5f3276dd8e8ecc2dc38b"
+        }
+      ]
+    },
+    {
+      "case": "handelsregister-assistent-nachtbrot-umzug",
+      "combined_pdf": "testakten/handelsregister-assistent-nachtbrot-umzug/gesamt-pdf/handelsregister-assistent-nachtbrot-umzug_gesamt.pdf",
+      "combined_pdf_sha256": "b658b978e8a15c68d470f5f21658e4e7aa3c744d3571bba75d246ab89bc44687",
+      "combined_pdf_pages": 40,
+      "archives": [
+        {
+          "name": "testakte-handelsregister-assistent-nachtbrot-umzug.zip",
+          "bytes": 1204753,
+          "sha256": "105b3ea978fad8bcdff24b09caeeab6cc93042964d845a46a48755e7e60cd10e"
+        },
+        {
+          "name": "testakte-handelsregister-assistent-nachtbrot-umzug-einzelpdfs.zip",
+          "bytes": 574407,
+          "sha256": "1fecc9533be513f9099ed2f3f304bdb7fc0a79b8c152921eab817da35664a6ea"
+        }
+      ]
+    },
+    {
+      "case": "grundbuchamt-kopiererbrief",
+      "combined_pdf": "testakten/grundbuchamt-kopiererbrief/gesamt-pdf/grundbuchamt-kopiererbrief_gesamt.pdf",
+      "combined_pdf_sha256": "59fd42d6c0fc9d9fb1bbd77adfd4635c9d6b011ae19b33ecbdea7e5e378c6e68",
+      "combined_pdf_pages": 43,
+      "archives": [
+        {
+          "name": "testakte-grundbuchamt-kopiererbrief.zip",
+          "bytes": 1568306,
+          "sha256": "2118f46dd992a0a9fdecf06e312192e2e0ba24238ee891252674463aab9828fd"
+        },
+        {
+          "name": "testakte-grundbuchamt-kopiererbrief-einzelpdfs.zip",
+          "bytes": 729927,
+          "sha256": "5e172be25f86308bc10c54c8c9bf105af16915025632f1740232c00dd1f7b76b"
+        }
+      ]
+    },
+    {
+      "case": "grundbuchamt-erben-im-hinterhaus",
+      "combined_pdf": "testakten/grundbuchamt-erben-im-hinterhaus/gesamt-pdf/grundbuchamt-erben-im-hinterhaus_gesamt.pdf",
+      "combined_pdf_sha256": "8cedeb2e08fa56d134caaf50ebf3cf65a044b3da893c875d109a9de144155644",
+      "combined_pdf_pages": 47,
+      "archives": [
+        {
+          "name": "testakte-grundbuchamt-erben-im-hinterhaus.zip",
+          "bytes": 2196534,
+          "sha256": "e7933bf67f0e6a1ebaa821aecbb76aafc1ae1a059b9c30f66a36252abd46f9f9"
+        },
+        {
+          "name": "testakte-grundbuchamt-erben-im-hinterhaus-einzelpdfs.zip",
+          "bytes": 1054079,
+          "sha256": "8259fc7a89e37281317c634ce6240ff9328c16d220d0e02bb4a8dea3b3e337b7"
+        }
+      ]
+    },
+    {
+      "case": "grundbuchamt-rangtausch-am-kanal",
+      "combined_pdf": "testakten/grundbuchamt-rangtausch-am-kanal/gesamt-pdf/grundbuchamt-rangtausch-am-kanal_gesamt.pdf",
+      "combined_pdf_sha256": "d5e78b7a702bf68bc3a1348e4507826581364795ae962a29c86e70f7e7cdc3c6",
+      "combined_pdf_pages": 41,
+      "archives": [
+        {
+          "name": "testakte-grundbuchamt-rangtausch-am-kanal.zip",
+          "bytes": 1517763,
+          "sha256": "8db65883a508dcc82cde5bb580b980d06d50db8804ea943ef815feef74c0512e"
+        },
+        {
+          "name": "testakte-grundbuchamt-rangtausch-am-kanal-einzelpdfs.zip",
+          "bytes": 730838,
+          "sha256": "1f5bfe13f085a91bf0e6aadb84d311a474db777b002b40851dc3599b8d00a91b"
+        }
+      ]
+    },
+    {
+      "case": "markenamt-rumpelrad",
+      "combined_pdf": "testakten/markenamt-rumpelrad/gesamt-pdf/markenamt-rumpelrad_gesamt.pdf",
+      "combined_pdf_sha256": "200bf8bafa9ca93ed02116f27d0fdda700fea84071401c6cba86cea579fb75e7",
+      "combined_pdf_pages": 32,
+      "archives": [
+        {
+          "name": "testakte-markenamt-rumpelrad.zip",
+          "bytes": 1114642,
+          "sha256": "58e3b2ffce214d0557b147308ce63c50776a73e4e19a411e3113476eea173c59"
+        },
+        {
+          "name": "testakte-markenamt-rumpelrad-einzelpdfs.zip",
+          "bytes": 534484,
+          "sha256": "a5d2737d8a6f1c8d15a73d5f9623743a5ac35defd13bd6960f70837dfabbc3ad"
+        }
+      ]
+    },
+    {
+      "case": "markenamt-kichererbse",
+      "combined_pdf": "testakten/markenamt-kichererbse/gesamt-pdf/markenamt-kichererbse_gesamt.pdf",
+      "combined_pdf_sha256": "55da01c733c27bc6b9e4fc08c6d08108b21a2e14edb84c8915d7f0846186c015",
+      "combined_pdf_pages": 34,
+      "archives": [
+        {
+          "name": "testakte-markenamt-kichererbse.zip",
+          "bytes": 1456066,
+          "sha256": "ccc861928e962596d23a2179fb8af69cc3cf73aaf862ab9c169eff9c2958cdb7"
+        },
+        {
+          "name": "testakte-markenamt-kichererbse-einzelpdfs.zip",
+          "bytes": 751328,
+          "sha256": "ed328b7a783eb0db9d42bdcc0960b66c04b344571abb7f86ca6f9003cb4b0b7f"
+        }
+      ]
+    },
+    {
+      "case": "markenamt-farbwerk",
+      "combined_pdf": "testakten/markenamt-farbwerk/gesamt-pdf/markenamt-farbwerk_gesamt.pdf",
+      "combined_pdf_sha256": "a86870b213683cd5cfe842081b783e9e1cfdc77c5d43298b62de23a13b5223c6",
+      "combined_pdf_pages": 33,
+      "archives": [
+        {
+          "name": "testakte-markenamt-farbwerk.zip",
+          "bytes": 1170523,
+          "sha256": "aad76d7eb2ecf02fbe34034a697aa558f34c738f11c21520dd06f5a7492c590e"
+        },
+        {
+          "name": "testakte-markenamt-farbwerk-einzelpdfs.zip",
+          "bytes": 550690,
+          "sha256": "f463935efdf01120f159a9892810fec51e26baf0391a04a023f3dd1955ce0b19"
+        }
+      ]
+    }
+  ],
+  "limitations": [
+    "Kein neuer Linux-Lauf dieser Korrektur vor dem Commit; plattformstabile Schrift, +25 % Spaltenbreiten-Stresslauf und verpflichtender nativer CI-Lauf sichern die Plattformabweichung ab.",
+    "Öffentliche Bytegleichheit, vollständiges Repacking und Veröffentlichung werden separat geprüft.",
+    "Strenge Extraktionsdifferenzen dürfen nur nach konkreter Zell-/Bildprüfung aufgelöst werden, nicht allein nach Zeichen- oder Token-Multimengen."
+  ]
+}
